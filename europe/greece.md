@@ -535,35 +535,35 @@ _Currency_: euros (EUR) per US dollar -<br>
 _electrification - total population_: 100% (2020)<br>
 
 **Electricity**<br>
-_Installed generating capacity_: 21.545 million kW (2020 est.)<br>
-_Consumption_: 46.18 billion kWh (2020 est.)<br>
-_Exports_: 967 million kWh (2020 est.)<br>
-_Imports_: 9.831 billion kWh (2020 est.)<br>
-_Transmission/distribution losses_: 3.256 billion kWh (2020 est.)<br>
+_installed generating capacity_: 21.545 million kW (2020 est.)<br>
+_consumption_: 46.18 billion kWh (2020 est.)<br>
+_exports_: 967 million kWh (2020 est.)<br>
+_imports_: 9.831 billion kWh (2020 est.)<br>
+_transmission/distribution losses_: 3.256 billion kWh (2020 est.)<br>
 
 **Electricity generation sources**<br>
-_Fossil fuels_: 56.5% of total installed capacity (2020 est.)<br>
-_Nuclear_: 0% of total installed capacity (2020 est.)<br>
-_Solar_: 10.7% of total installed capacity (2020 est.)<br>
-_Wind_: 23% of total installed capacity (2020 est.)<br>
-_Hydroelectricity_: 8.5% of total installed capacity (2020 est.)<br>
-_Tide and wave_: 0% of total installed capacity (2020 est.)<br>
-_Geothermal_: 0% of total installed capacity (2020 est.)<br>
-_Biomass and waste_: 1.4% of total installed capacity (2020 est.)<br>
+_fossil fuels_: 56.5% of total installed capacity (2020 est.)<br>
+_nuclear_: 0% of total installed capacity (2020 est.)<br>
+_solar_: 10.7% of total installed capacity (2020 est.)<br>
+_wind_: 23% of total installed capacity (2020 est.)<br>
+_hydroelectricity_: 8.5% of total installed capacity (2020 est.)<br>
+_tide and wave_: 0% of total installed capacity (2020 est.)<br>
+_geothermal_: 0% of total installed capacity (2020 est.)<br>
+_biomass and waste_: 1.4% of total installed capacity (2020 est.)<br>
 
 **Coal**<br>
-_Production_: 13.851 million metric tons (2020 est.)<br>
-_Consumption_: 13.828 million metric tons (2020 est.)<br>
-_Exports_: 7,000 metric tons (2020 est.)<br>
-_Imports_: 305,000 metric tons (2020 est.)<br>
-_Proven reserves_: 2.876 billion metric tons (2019 est.)<br>
+_production_: 13.851 million metric tons (2020 est.)<br>
+_consumption_: 13.828 million metric tons (2020 est.)<br>
+_exports_: 7,000 metric tons (2020 est.)<br>
+_imports_: 305,000 metric tons (2020 est.)<br>
+_proven reserves_: 2.876 billion metric tons (2019 est.)<br>
 
 **Petroleum**<br>
-_Total petroleum production_: 4,800 bbl/day (2021 est.)<br>
-_Refined petroleum consumption_: 309,600 bbl/day (2019 est.)<br>
-_Crude oil and lease condensate exports_: 4,100 barrels/day (2018 est.)<br>
-_Crude oil and lease condensate imports_: 491,300 barrels/day (2018 est.)<br>
-_Crude oil estimated reserves_: 10 million barrels (2021 est.)<br>
+_total petroleum production_: 4,800 bbl/day (2021 est.)<br>
+_refined petroleum consumption_: 309,600 bbl/day (2019 est.)<br>
+_crude oil and lease condensate exports_: 4,100 barrels/day (2018 est.)<br>
+_crude oil and lease condensate imports_: 491,300 barrels/day (2018 est.)<br>
+_crude oil estimated reserves_: 10 million barrels (2021 est.)<br>
 
 **Refined petroleum products - production**<br>
 655,400 bbl/day (2017 est.)<br>
@@ -575,17 +575,17 @@ _Crude oil estimated reserves_: 10 million barrels (2021 est.)<br>
 192,200 bbl/day (2017 est.)<br>
 
 **Natural gas**<br>
-_Production_: 5.748 million cubic meters (2019 est.)<br>
-_Consumption_: 5,831,987,000 cubic meters (2020 est.)<br>
-_Exports_: 33.244 million cubic meters (2020 est.)<br>
-_Imports_: 5,219,409,000 cubic meters (2019 est.)<br>
-_Proven reserves_: 991 million cubic meters (2021 est.)<br>
+_production_: 5.748 million cubic meters (2019 est.)<br>
+_consumption_: 5,831,987,000 cubic meters (2020 est.)<br>
+_exports_: 33.244 million cubic meters (2020 est.)<br>
+_imports_: 5,219,409,000 cubic meters (2019 est.)<br>
+_proven reserves_: 991 million cubic meters (2021 est.)<br>
 
 **Carbon dioxide emissions**<br>
-_Total emissions_: 70.163 million metric tonnes of CO2 (2019 est.)<br>
-_From coal and metallurgical coke_: 13.404 million metric tonnes of CO2 (2019 est.)<br>
-_From petroleum and other liquids_: 46.401 million metric tonnes of CO2 (2019 est.)<br>
-_From consumed natural gas_: 10.358 million metric tonnes of CO2 (2019 est.)<br>
+_total emissions_: 70.163 million metric tonnes of CO2 (2019 est.)<br>
+_from coal and metallurgical coke_: 13.404 million metric tonnes of CO2 (2019 est.)<br>
+_from petroleum and other liquids_: 46.401 million metric tonnes of CO2 (2019 est.)<br>
+_from consumed natural gas_: 10.358 million metric tonnes of CO2 (2019 est.)<br>
 
 **Energy consumption per capita**<br>
 _Total energy consumption per capita 2019_: 108.022 million Btu/person (2019 est.)<br>
@@ -689,7 +689,7 @@ Hellenic Armed Forces: Hellenic Army (Ellinikos Stratos, ES; includes National G
 2.3% of GDP (2017) (approximately $7.56 billion)<br>
 
 **Military and security service personnel strengths**<br>
-approximately 120,000 active duty personnel (85,000 Army; 15,000 Navy; 20,000 Air Force); approximately 35,000 National Guard (2021)<br>
+approximately 125,000 active duty personnel (90,000 Army; 15,000 Navy; 20,000 Air Force); approximately 35,000 National Guard (2022)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the inventory of the Hellenic Armed Forces consists mostly of a mix of imported weapons from Europe and the US, as well as a limited number of domestically produced systems, particularly naval vessels; Germany is the leading supplier of weapons systems to Greece since 2010; Greece's defense industry is capable of producing a range of military hardware, including naval vessels and associated subsystems (2021)<br>
@@ -700,7 +700,7 @@ the inventory of the Hellenic Armed Forces consists mostly of a mix of imported 
 <strong>note 1: </strong>approximately 40-50% of the Greek military is comprised of conscripts<br><br><strong>note 2: </strong>as of 2019, women comprised approximately 19% of the military's full-time personnel<br>
 
 **Military deployments**<br>
-approximately 1,000 Cyprus; 100 Kosovo (NATO); 150 Lebanon (UNIFIL) (2022)<br>
+approximately 1,000 Cyprus; 100 Kosovo (NATO); 100 Lebanon (UNIFIL) (2022)<br>
 
 **Military - note**<br>
 Greece joined NATO in 1952<br>
@@ -717,9 +717,9 @@ Islamic State of Iraq and ash-Sham (ISIS); Revolutionary Struggle; Revolutionary
 <p>Greece and Turkey continue discussions to resolve their complex maritime, air, territorial, and boundary disputes in the Aegean Sea; the mass migration of unemployed Albanians still remains a problem for developed countries, chiefly Greece and Italy</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 38,496 (Syria), 25,188 (Afghanistan), 12,657 (Iraq), 5,002 (West Bank and Gaza) (mid-year 2021); 16,804 (Ukraine) (as of 12 July 2022)<br>
+_refugees (country of origin)_: 38,496 (Syria), 25,188 (Afghanistan), 12,657 (Iraq), 5,002 (West Bank and Gaza) (mid-year 2021); 18,043 (Ukraine) (as of 31 July 2022)<br>
 _stateless persons_: 5,552 (mid-year 2021)<br>
-<strong>note:</strong> 1,219,483 estimated refugee and migrant arrivals (January 2015-July 2022); as of the end of February 2022, Greece hosted an estimated 161,419 refugees and asylum seekers<br>
+<strong>note:</strong> 1,221,504 estimated refugee and migrant arrivals (January 2015-July 2022); as of the end of February 2022, Greece hosted an estimated 161,419 refugees and asylum seekers<br>
 
 **Illicit drugs**<br>
 a gateway to Europe for traffickers smuggling cannabis products and heroin from the Middle East and Southwest Asia to the West and precursor chemicals to the East; some South American cocaine transits or is consumed in Greece; money laundering related to drug trafficking and organized crime<br>

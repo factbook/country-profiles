@@ -306,7 +306,7 @@ _daylight saving time_: +1hr, begins last Sunday in March; ends last Sunday in O
 _etymology_: a mispronunciation of the city's Greek name Lefkosia and its Turkish name Lefkosa, both of which mean "White City"; the Greek name may derive from the Greek phrase "leuke ousia" ("white estate")<br>
 
 **Administrative divisions**<br>
-6 districts; Ammochostos (Famagusta); all but a small part located in the Turkish Cypriot community), Keryneia (Kyrenia; the only district located entirely in the Turkish Cypriot community), Larnaka (Larnaca; with a small part located in the Turkish Cypriot community), Lefkosia (Nicosia; a small part administered by Turkish Cypriots), Lemesos (Limassol), Pafos (Paphos); note - the 5 "districts" of the "Turkish Republic of Northern Cyprus" are Gazimagusa (Famagusta), Girne (Kyrenia), Guzelyurt (Morphou), Iskele (Trikomo), Lefkosa (Nicosia)<br>
+6 districts; Ammochostos (Famagusta; all but a small part located in the Turkish Cypriot community), Keryneia (Kyrenia; the only district located entirely in the Turkish Cypriot community), Larnaka (Larnaca; with a small part located in the Turkish Cypriot community), Lefkosia (Nicosia; a small part administered by Turkish Cypriots), Lemesos (Limassol), Pafos (Paphos); note - the 5 "districts" of the "Turkish Republic of Northern Cyprus" are Gazimagusa (Famagusta), Girne (Kyrenia), Guzelyurt (Morphou), Iskele (Trikomo), Lefkosa (Nicosia)<br>
 
 **Independence**<br>
 16 August 1960 (from the UK); note - Turkish Cypriots proclaimed self-rule on 13 February 1975 and independence in 1983, but these proclamations are recognized only by Turkey<br>
@@ -545,35 +545,35 @@ _Currency_: euros (EUR) per US dollar -<br>
 _electrification - total population_: 100% (2020)<br>
 
 **Electricity**<br>
-_Installed generating capacity_: 1.881 million kW (2020 est.)<br>
-_Consumption_: 4.733 billion kWh (2019 est.)<br>
-_Exports_: 0 kWh (2019 est.)<br>
-_Imports_: 0 kWh (2019 est.)<br>
-_Transmission/distribution losses_: 184 million kWh (2019 est.)<br>
+_installed generating capacity_: 1.881 million kW (2020 est.)<br>
+_consumption_: 4.733 billion kWh (2019 est.)<br>
+_exports_: 0 kWh (2019 est.)<br>
+_imports_: 0 kWh (2019 est.)<br>
+_transmission/distribution losses_: 184 million kWh (2019 est.)<br>
 
 **Electricity generation sources**<br>
-_Fossil fuels_: 86.8% of total installed capacity (2020 est.)<br>
-_Nuclear_: 0% of total installed capacity (2020 est.)<br>
-_Solar_: 6.9% of total installed capacity (2020 est.)<br>
-_Wind_: 5.1% of total installed capacity (2020 est.)<br>
-_Hydroelectricity_: 0% of total installed capacity (2020 est.)<br>
-_Tide and wave_: 0% of total installed capacity (2020 est.)<br>
-_Geothermal_: 0% of total installed capacity (2020 est.)<br>
-_Biomass and waste_: 1.3% of total installed capacity (2020 est.)<br>
+_fossil fuels_: 86.8% of total installed capacity (2020 est.)<br>
+_nuclear_: 0% of total installed capacity (2020 est.)<br>
+_solar_: 6.9% of total installed capacity (2020 est.)<br>
+_wind_: 5.1% of total installed capacity (2020 est.)<br>
+_hydroelectricity_: 0% of total installed capacity (2020 est.)<br>
+_tide and wave_: 0% of total installed capacity (2020 est.)<br>
+_geothermal_: 0% of total installed capacity (2020 est.)<br>
+_biomass and waste_: 1.3% of total installed capacity (2020 est.)<br>
 
 **Coal**<br>
-_Production_: 0 metric tons (2020 est.)<br>
-_Consumption_: 0 metric tons (2020 est.)<br>
-_Exports_: 0 metric tons (2020 est.)<br>
-_Imports_: 0 metric tons (2020 est.)<br>
-_Proven reserves_: 0 metric tons (2019 est.)<br>
+_production_: 0 metric tons (2020 est.)<br>
+_consumption_: 0 metric tons (2020 est.)<br>
+_exports_: 0 metric tons (2020 est.)<br>
+_imports_: 0 metric tons (2020 est.)<br>
+_proven reserves_: 0 metric tons (2019 est.)<br>
 
 **Petroleum**<br>
-_Total petroleum production_: 0 bbl/day (2021 est.)<br>
-_Refined petroleum consumption_: 54,400 bbl/day (2019 est.)<br>
-_Crude oil and lease condensate exports_: 0 barrels/day (2018 est.)<br>
-_Crude oil and lease condensate imports_: 0 barrels/day (2018 est.)<br>
-_Crude oil estimated reserves_: 0 barrels (2021 est.)<br>
+_total petroleum production_: 0 bbl/day (2021 est.)<br>
+_refined petroleum consumption_: 54,400 bbl/day (2019 est.)<br>
+_crude oil and lease condensate exports_: 0 barrels/day (2018 est.)<br>
+_crude oil and lease condensate imports_: 0 barrels/day (2018 est.)<br>
+_crude oil estimated reserves_: 0 barrels (2021 est.)<br>
 
 **Refined petroleum products - production**<br>
 0 bbl/day (2015 est.)<br>
@@ -585,17 +585,17 @@ _Crude oil estimated reserves_: 0 barrels (2021 est.)<br>
 49,240 bbl/day (2015 est.)<br>
 
 **Natural gas**<br>
-_Production_: 0 cubic meters (2021 est.)<br>
-_Consumption_: 0 cubic meters (2021 est.)<br>
-_Exports_: 0 cubic meters (2021 est.)<br>
-_Imports_: 0 cubic meters (2021 est.)<br>
-_Proven reserves_: 0 cubic meters (2021 est.)<br>
+_production_: 0 cubic meters (2021 est.)<br>
+_consumption_: 0 cubic meters (2021 est.)<br>
+_exports_: 0 cubic meters (2021 est.)<br>
+_imports_: 0 cubic meters (2021 est.)<br>
+_proven reserves_: 0 cubic meters (2021 est.)<br>
 
 **Carbon dioxide emissions**<br>
-_Total emissions_: 8.024 million metric tonnes of CO2 (2019 est.)<br>
-_From coal and metallurgical coke_: 0 metric tonnes of CO2 (2019 est.)<br>
-_From petroleum and other liquids_: 8.024 million metric tonnes of CO2 (2019 est.)<br>
-_From consumed natural gas_: 0 metric tonnes of CO2 (2019 est.)<br>
+_total emissions_: 8.024 million metric tonnes of CO2 (2019 est.)<br>
+_from coal and metallurgical coke_: 0 metric tonnes of CO2 (2019 est.)<br>
+_from petroleum and other liquids_: 8.024 million metric tonnes of CO2 (2019 est.)<br>
+_from consumed natural gas_: 0 metric tonnes of CO2 (2019 est.)<br>
 
 **Energy consumption per capita**<br>
 _Total energy consumption per capita 2019_: 133.92 million Btu/person (2019 est.)<br>
@@ -686,7 +686,7 @@ Republic of Cyprus: Cypriot National Guard (Ethniki Froura, EF, includes Army La
 1.6% of GDP (2017) (approximately $540 million)<br>
 
 **Military and security service personnel strengths**<br>
-the Cypriot National Guard has approximately 15,000 total active duty personnel (2021)<br>
+approximately 13,000 total active duty personnel (2022)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the inventory of the Cypriot National Guard is a mix of Soviet-era and some more modern weapons systems; since 2010, it has received equipment from several countries, including France, Israel, Russia, and Serbia (2021)<br>
@@ -709,7 +709,7 @@ Islamic State of Iraq and ash-Sham (ISIS)<br>
 <p>hostilities in 1974 divided the island into two de facto autonomous entities, the internationally recognized Cypriot Government and a Turkish-Cypriot community (north Cyprus); the 1,000-strong UN Peacekeeping Force in Cyprus (UNFICYP) has served in Cyprus since 1964 and maintains the buffer zone between north and south; on 1 May 2004, Cyprus entered the EU still divided, with the EU's body of legislation and standards (acquis communitaire) suspended in the north; Turkey protests Cypriot Government creating hydrocarbon blocks and maritime boundary with Lebanon in March 2007</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 9,820 (Syria) (mid-year 2021); 12,860 (Ukraine) (as of 26 July 2022)<br>
+_refugees (country of origin)_: 9,820 (Syria) (mid-year 2021); 12,846 (Ukraine) (as of 2 August 2022)<br>
 _IDPs_: 242,000 (both Turkish and Greek Cypriots; many displaced since 1974) (2021)<br>
 _stateless persons_: 66 (mid-year 2021)<br>
 <strong>note:</strong> 40,472 estimated refugee and migrant arrivals (January 2015-June 2022)<br>

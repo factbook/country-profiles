@@ -537,35 +537,35 @@ _Currency_: Singapore dollars (SGD) per US dollar -<br>
 _electrification - total population_: 100% (2020)<br>
 
 **Electricity**<br>
-_Installed generating capacity_: 12.24 million kW (2020 est.)<br>
-_Consumption_: 50,742,380,000 kWh (2019 est.)<br>
-_Exports_: 0 kWh (2019 est.)<br>
-_Imports_: 0 kWh (2020 est.)<br>
-_Transmission/distribution losses_: 571 million kWh (2019 est.)<br>
+_installed generating capacity_: 12.24 million kW (2020 est.)<br>
+_consumption_: 50,742,380,000 kWh (2019 est.)<br>
+_exports_: 0 kWh (2019 est.)<br>
+_imports_: 0 kWh (2020 est.)<br>
+_transmission/distribution losses_: 571 million kWh (2019 est.)<br>
 
 **Electricity generation sources**<br>
-_Fossil fuels_: 96.5% of total installed capacity (2020 est.)<br>
-_Nuclear_: 0% of total installed capacity (2020 est.)<br>
-_Solar_: 1.2% of total installed capacity (2020 est.)<br>
-_Wind_: 0% of total installed capacity (2020 est.)<br>
-_Hydroelectricity_: 0% of total installed capacity (2020 est.)<br>
-_Tide and wave_: 0% of total installed capacity (2020 est.)<br>
-_Geothermal_: 0% of total installed capacity (2020 est.)<br>
-_Biomass and waste_: 2.3% of total installed capacity (2020 est.)<br>
+_fossil fuels_: 96.5% of total installed capacity (2020 est.)<br>
+_nuclear_: 0% of total installed capacity (2020 est.)<br>
+_solar_: 1.2% of total installed capacity (2020 est.)<br>
+_wind_: 0% of total installed capacity (2020 est.)<br>
+_hydroelectricity_: 0% of total installed capacity (2020 est.)<br>
+_tide and wave_: 0% of total installed capacity (2020 est.)<br>
+_geothermal_: 0% of total installed capacity (2020 est.)<br>
+_biomass and waste_: 2.3% of total installed capacity (2020 est.)<br>
 
 **Coal**<br>
-_Production_: 0 metric tons (2020 est.)<br>
-_Consumption_: 423,000 metric tons (2020 est.)<br>
-_Exports_: 1,000 metric tons (2020 est.)<br>
-_Imports_: 424,000 metric tons (2020 est.)<br>
-_Proven reserves_: 0 metric tons (2019 est.)<br>
+_production_: 0 metric tons (2020 est.)<br>
+_consumption_: 423,000 metric tons (2020 est.)<br>
+_exports_: 1,000 metric tons (2020 est.)<br>
+_imports_: 424,000 metric tons (2020 est.)<br>
+_proven reserves_: 0 metric tons (2019 est.)<br>
 
 **Petroleum**<br>
-_Total petroleum production_: 0 bbl/day (2021 est.)<br>
-_Refined petroleum consumption_: 1.448 million bbl/day (2019 est.)<br>
-_Crude oil and lease condensate exports_: 13,000 barrels/day (2018 est.)<br>
-_Crude oil and lease condensate imports_: 1,121,200 barrels/day (2018 est.)<br>
-_Crude oil estimated reserves_: 0 barrels (2021 est.)<br>
+_total petroleum production_: 0 bbl/day (2021 est.)<br>
+_refined petroleum consumption_: 1.448 million bbl/day (2019 est.)<br>
+_crude oil and lease condensate exports_: 13,000 barrels/day (2018 est.)<br>
+_crude oil and lease condensate imports_: 1,121,200 barrels/day (2018 est.)<br>
+_crude oil estimated reserves_: 0 barrels (2021 est.)<br>
 
 **Refined petroleum products - production**<br>
 755,000 bbl/day (2015 est.)<br>
@@ -577,17 +577,17 @@ _Crude oil estimated reserves_: 0 barrels (2021 est.)<br>
 2.335 million bbl/day (2015 est.)<br>
 
 **Natural gas**<br>
-_Production_: 0 cubic meters (2021 est.)<br>
-_Consumption_: 13,396,282,000 cubic meters (2019 est.)<br>
-_Exports_: 550.818 million cubic meters (2020 est.)<br>
-_Imports_: 14,727,709,000 cubic meters (2020 est.)<br>
-_Proven reserves_: 0 cubic meters (2021 est.)<br>
+_production_: 0 cubic meters (2021 est.)<br>
+_consumption_: 13,396,282,000 cubic meters (2019 est.)<br>
+_exports_: 550.818 million cubic meters (2020 est.)<br>
+_imports_: 14,727,709,000 cubic meters (2020 est.)<br>
+_proven reserves_: 0 cubic meters (2021 est.)<br>
 
 **Carbon dioxide emissions**<br>
-_Total emissions_: 238.983 million metric tonnes of CO2 (2019 est.)<br>
-_From coal and metallurgical coke_: 1.588 million metric tonnes of CO2 (2019 est.)<br>
-_From petroleum and other liquids_: 211.115 million metric tonnes of CO2 (2019 est.)<br>
-_From consumed natural gas_: 26.28 million metric tonnes of CO2 (2019 est.)<br>
+_total emissions_: 238.983 million metric tonnes of CO2 (2019 est.)<br>
+_from coal and metallurgical coke_: 1.588 million metric tonnes of CO2 (2019 est.)<br>
+_from petroleum and other liquids_: 211.115 million metric tonnes of CO2 (2019 est.)<br>
+_from consumed natural gas_: 26.28 million metric tonnes of CO2 (2019 est.)<br>
 
 **Energy consumption per capita**<br>
 _Total energy consumption per capita 2019_: 639.951 million Btu/person (2019 est.)<br>
@@ -674,7 +674,7 @@ Singapore Armed Forces (SAF; aka Singapore Defense Force): Singapore Army, Repub
 3% of GDP (2017) (approximately $14.8 billion)<br>
 
 **Military and security service personnel strengths**<br>
-information varies; approximately 65,000 active duty troops (50,000 Army; 7,000 Navy; 8,000 Air Force) (2021)<br>
+information varies; approximately 60,000 active duty troops (45,000 Army; 7,000 Navy; 8,000 Air Force) (2022)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the SAF has a diverse and largely modern mix of domestically-produced and imported weapons; since 2010, it has received armaments from about 10 countries with the US as the chief supplier; Singapore has the most developed arms industry in Southeast Asia and is also its largest importer of weapons (2021)<br>

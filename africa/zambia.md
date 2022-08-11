@@ -569,35 +569,35 @@ _electrification - urban areas_: 76% (2019)<br>
 _electrification - rural areas_: 6% (2019)<br>
 
 **Electricity**<br>
-_Installed generating capacity_: 3.065 million kW (2020 est.)<br>
-_Consumption_: 13,409,685,000 kWh (2019 est.)<br>
-_Exports_: 976 million kWh (2019 est.)<br>
-_Imports_: 198 million kWh (2019 est.)<br>
-_Transmission/distribution losses_: 1,811,480,000 kWh (2019 est.)<br>
+_installed generating capacity_: 3.065 million kW (2020 est.)<br>
+_consumption_: 13,409,685,000 kWh (2019 est.)<br>
+_exports_: 976 million kWh (2019 est.)<br>
+_imports_: 198 million kWh (2019 est.)<br>
+_transmission/distribution losses_: 1,811,480,000 kWh (2019 est.)<br>
 
 **Electricity generation sources**<br>
-_Fossil fuels_: 13% of total installed capacity (2020 est.)<br>
-_Nuclear_: 0% of total installed capacity (2020 est.)<br>
-_Solar_: 0.9% of total installed capacity (2020 est.)<br>
-_Wind_: 0% of total installed capacity (2020 est.)<br>
-_Hydroelectricity_: 85.5% of total installed capacity (2020 est.)<br>
-_Tide and wave_: 0% of total installed capacity (2020 est.)<br>
-_Geothermal_: 0% of total installed capacity (2020 est.)<br>
-_Biomass and waste_: 0.5% of total installed capacity (2020 est.)<br>
+_fossil fuels_: 13% of total installed capacity (2020 est.)<br>
+_nuclear_: 0% of total installed capacity (2020 est.)<br>
+_solar_: 0.9% of total installed capacity (2020 est.)<br>
+_wind_: 0% of total installed capacity (2020 est.)<br>
+_hydroelectricity_: 85.5% of total installed capacity (2020 est.)<br>
+_tide and wave_: 0% of total installed capacity (2020 est.)<br>
+_geothermal_: 0% of total installed capacity (2020 est.)<br>
+_biomass and waste_: 0.5% of total installed capacity (2020 est.)<br>
 
 **Coal**<br>
-_Production_: 1.116 million metric tons (2020 est.)<br>
-_Consumption_: 1.176 million metric tons (2020 est.)<br>
-_Exports_: 39,000 metric tons (2020 est.)<br>
-_Imports_: 99,000 metric tons (2020 est.)<br>
-_Proven reserves_: 45 million metric tons (2019 est.)<br>
+_production_: 1.116 million metric tons (2020 est.)<br>
+_consumption_: 1.176 million metric tons (2020 est.)<br>
+_exports_: 39,000 metric tons (2020 est.)<br>
+_imports_: 99,000 metric tons (2020 est.)<br>
+_proven reserves_: 45 million metric tons (2019 est.)<br>
 
 **Petroleum**<br>
-_Total petroleum production_: 0 bbl/day (2021 est.)<br>
-_Refined petroleum consumption_: 25,300 bbl/day (2019 est.)<br>
-_Crude oil and lease condensate exports_: 0 barrels/day (2018 est.)<br>
-_Crude oil and lease condensate imports_: 12,400 barrels/day (2018 est.)<br>
-_Crude oil estimated reserves_: 0 barrels (2021 est.)<br>
+_total petroleum production_: 0 bbl/day (2021 est.)<br>
+_refined petroleum consumption_: 25,300 bbl/day (2019 est.)<br>
+_crude oil and lease condensate exports_: 0 barrels/day (2018 est.)<br>
+_crude oil and lease condensate imports_: 12,400 barrels/day (2018 est.)<br>
+_crude oil estimated reserves_: 0 barrels (2021 est.)<br>
 
 **Refined petroleum products - production**<br>
 13,120 bbl/day (2015 est.)<br>
@@ -609,17 +609,17 @@ _Crude oil estimated reserves_: 0 barrels (2021 est.)<br>
 10,150 bbl/day (2015 est.)<br>
 
 **Natural gas**<br>
-_Production_: 0 cubic meters (2021 est.)<br>
-_Consumption_: 0 cubic meters (2021 est.)<br>
-_Exports_: 0 cubic meters (2021 est.)<br>
-_Imports_: 0 cubic meters (2021 est.)<br>
-_Proven reserves_: 0 cubic meters (2021 est.)<br>
+_production_: 0 cubic meters (2021 est.)<br>
+_consumption_: 0 cubic meters (2021 est.)<br>
+_exports_: 0 cubic meters (2021 est.)<br>
+_imports_: 0 cubic meters (2021 est.)<br>
+_proven reserves_: 0 cubic meters (2021 est.)<br>
 
 **Carbon dioxide emissions**<br>
-_Total emissions_: 6.798 million metric tonnes of CO2 (2019 est.)<br>
-_From coal and metallurgical coke_: 3.186 million metric tonnes of CO2 (2019 est.)<br>
-_From petroleum and other liquids_: 3.612 million metric tonnes of CO2 (2019 est.)<br>
-_From consumed natural gas_: 0 metric tonnes of CO2 (2019 est.)<br>
+_total emissions_: 6.798 million metric tonnes of CO2 (2019 est.)<br>
+_from coal and metallurgical coke_: 3.186 million metric tonnes of CO2 (2019 est.)<br>
+_from petroleum and other liquids_: 3.612 million metric tonnes of CO2 (2019 est.)<br>
+_from consumed natural gas_: 0 metric tonnes of CO2 (2019 est.)<br>
 
 **Energy consumption per capita**<br>
 _Total energy consumption per capita 2019_: 11.595 million Btu/person (2019 est.)<br>
@@ -728,7 +728,7 @@ the ZDF's inventory is largely comprised of Chinese, Russian, and Soviet-era arm
 18-25 years of age for male and female voluntary military service (16 with parental consent); no conscription; 12-year enlistment period (7 years active, 5 in the Reserves) (2021)<br>
 
 **Military deployments**<br>
-925 Central African Republic (MINUSCA) (Feb 2022)<br>
+930 Central African Republic (MINUSCA) (May 2022)<br>
 
 **Military - note**<br>
 the Zambian Defense Force (ZDF) traces its roots to the Northern Rhodesia Regiment, which was raised by the British colonial government to fight in World War II; the ZDF was established in 1964 from units of the dissolved Federation of Rhodesia and Nyasaland armed forces; it participated in a number of regional conflicts during the 1970s and 1980s; Zambia actively supported independence movements such as the Union for the Total Liberation of Angola (UNITA), the Zimbabwe African People's Union (ZAPU), the African National Congress of South Africa (ANC), and the South-West Africa People's Organization (SWAPO) (2022)<br>

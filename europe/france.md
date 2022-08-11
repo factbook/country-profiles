@@ -351,7 +351,7 @@ Fete de la Federation, 14 July (1790); note - although often incorrectly referre
 
 **Constitution**<br>
 _history_: many previous; latest effective 4 October 1958<br>
-_amendments_: proposed by the president of the republic (upon recommendation of the prime minister and Parliament) or by Parliament; proposals submitted by Parliament members require passage by both houses followed by approval in a referendum; passage of proposals submitted by the government can bypass a referendum if submitted by the president to Parliament and passed by at least three-fifths majority vote by Parliament&rsquo;s National Assembly; amended many times, last in 2008; note - in May 2018, the prime minister submitted a bill to the National Assembly to amend several provisions of the constitution<br>
+_amendments_: proposed by the president of the republic (upon recommendation of the prime minister and Parliament) or by Parliament; proposals submitted by Parliament members require passage by both houses followed by approval in a referendum; passage of proposals submitted by the government can bypass a referendum if submitted by the president to Parliament and passed by at least three-fifths majority vote by Parliament&rsquo;s National Assembly; amended many times, last in 2008<br>
 
 **Legal system**<br>
 civil law; review of administrative but not legislative acts<br>
@@ -387,7 +387,7 @@ _subordinate courts_: appellate courts or Cour d'Appel; regional courts or Tribu
 <strong>note:</strong> in April 2021, the French Government submitted a bill on judicial reform to Parliament<br>
 
 **Political parties and leaders**<br>
-Citizen and Republican Movement or MRC [Jean-Luc LAURENT]<br>Debout la France or DLF [Nicolas DUPONT-AIGNAN]<br>Democratic Movement or MoDem [Francois BAYROU]<br>Ecologist Pole or PE<br>Europe Ecology - the Greens or EELV [Julien BAYOU]<br>French Communist Party or PCF [Fabien ROUSSEL]<br>Horizons [Edouard PHILIPPE]<br>La France Insoumise or FI [Jean-Luc MELENCHON]<br>La Republique en Marche! or LREM [Stanislas GUERINI]<br>Movement of Progressives or MDP  [Robert HUE]<br>National Rally or RN [Marine LE PEN] (formerly National Front or FN)<br>New Democrats [Aurelien TACHE, Emilie CARIOU] (formerly Ecology Democracy Solidarity or EDS)<br>New Ecologic and Social People's Union or NUPES [collective leadership] (electoral coalition including FI, PE, PS, PCF)<br>Radical Party of the Left or PRV [Guillaume LACROIX]<br>Reconquete [Eric ZEMMOUR]<br>Resistons! [Jean LASSALLE]<br>Socialist Party or PS [Olivier FAURE]<br>The Patriots or LP [Florian PHILIPPOT]<br>The Republicans or LR [Christian JACOB]<br>Together or ENS [Richard Ferrand] (electoral coalition including LREM, MoDem, Horizons, PRV)<br>Union of Democrats and Independents or UDI [Jean-Christophe LAGARDE]<br>Union of Right and Center or UDC [Christian JACOB] (electoral coalition including LR, UDI)<br>
+Citizen and Republican Movement or MRC [Jean-Luc LAURENT]<br>Debout la France or DLF [Nicolas DUPONT-AIGNAN]<br>Democratic Movement or MoDem [Francois BAYROU]<br>Ecologist Pole or PE<br>Europe Ecology - the Greens or EELV [Julien BAYOU]<br>French Communist Party or PCF [Fabien ROUSSEL]<br>Horizons [Edouard PHILIPPE]<br>La France Insoumise or FI [Jean-Luc MELENCHON]<br>La Republique en Marche! or LREM [Stanislas GUERINI]<br>Movement of Progressives or MDP  [Robert HUE]<br>National Rally or RN [Jordan BARDELLA] (formerly National Front or FN)<br>New Democrats [Aurelien TACHE, Emilie CARIOU] (formerly Ecology Democracy Solidarity or EDS)<br>New Ecologic and Social People's Union or NUPES [collective leadership] (electoral coalition including FI, PE, PS, PCF)<br>Radical Party of the Left or PRV [Guillaume LACROIX]<br>Reconquete [Eric ZEMMOUR]<br>Resistons! [Jean LASSALLE]<br>Socialist Party or PS [Olivier FAURE]<br>The Patriots or LP [Florian PHILIPPOT]<br>The Republicans or LR [Christian JACOB]<br>Together or ENS [Richard Ferrand] (electoral coalition including LREM, MoDem, Horizons, PRV)<br>Union of Democrats and Independents or UDI [Jean-Christophe LAGARDE]<br>Union of Right and Center or UDC [Christian JACOB] (electoral coalition including LR, UDI)<br>
 
 **International organization participation**<br>
 ADB (nonregional member), AfDB (nonregional member), Arctic Council (observer), Australia Group, BDEAC, BIS, BSEC (observer), CBSS (observer), CE, CERN, EAPC, EBRD, ECB, EIB, EITI (implementing country), EMU, ESA, EU, FAO, FATF, FZ, G-5, G-7, G-8, G-10, G-20, IADB, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IEA, IFAD, IFC, IFRCS, IGAD (partners), IHO, ILO, IMF, IMO, IMSO, InOC, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, MINURSO, MINUSMA, MINUSTAH, MONUSCO, NATO, NEA, NSG, OAS (observer), OECD, OIF, OPCW, OSCE, Pacific Alliance (observer), Paris Club, PCA, PIF (partner), Schengen Convention, SELEC (observer), SPC, UN, UNCTAD, UNESCO, UNHCR, UNIDO, UNIFIL, Union Latina, UNMIL, UNOCI, UNRWA, UN Security Council (permanent), UNTSO, UNWTO, UPU, Wassenaar Arrangement, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO, ZC<br>
@@ -578,35 +578,35 @@ _Currency_: euros (EUR) per US dollar -<br>
 _electrification - total population_: 100% (2020)<br>
 
 **Electricity**<br>
-_Installed generating capacity_: 138.611 million kW (2020 est.)<br>
-_Consumption_: 472.699 billion kWh (2020 est.)<br>
-_Exports_: 64.425 billion kWh (2020 est.)<br>
-_Imports_: 19.613 billion kWh (2020 est.)<br>
-_Transmission/distribution losses_: 36.203 billion kWh (2020 est.)<br>
+_installed generating capacity_: 138.611 million kW (2020 est.)<br>
+_consumption_: 472.699 billion kWh (2020 est.)<br>
+_exports_: 64.425 billion kWh (2020 est.)<br>
+_imports_: 19.613 billion kWh (2020 est.)<br>
+_transmission/distribution losses_: 36.203 billion kWh (2020 est.)<br>
 
 **Electricity generation sources**<br>
-_Fossil fuels_: 8% of total installed capacity (2020 est.)<br>
-_Nuclear_: 68.4% of total installed capacity (2020 est.)<br>
-_Solar_: 2.5% of total installed capacity (2020 est.)<br>
-_Wind_: 7.3% of total installed capacity (2020 est.)<br>
-_Hydroelectricity_: 11.7% of total installed capacity (2020 est.)<br>
-_Tide and wave_: 0.2% of total installed capacity (2020 est.)<br>
-_Geothermal_: 0% of total installed capacity (2020 est.)<br>
-_Biomass and waste_: 2% of total installed capacity (2020 est.)<br>
+_fossil fuels_: 8% of total installed capacity (2020 est.)<br>
+_nuclear_: 68.4% of total installed capacity (2020 est.)<br>
+_solar_: 2.5% of total installed capacity (2020 est.)<br>
+_wind_: 7.3% of total installed capacity (2020 est.)<br>
+_hydroelectricity_: 11.7% of total installed capacity (2020 est.)<br>
+_tide and wave_: 0.2% of total installed capacity (2020 est.)<br>
+_geothermal_: 0% of total installed capacity (2020 est.)<br>
+_biomass and waste_: 2% of total installed capacity (2020 est.)<br>
 
 **Coal**<br>
-_Production_: 2.312 million metric tons (2020 est.)<br>
-_Consumption_: 10.712 million metric tons (2020 est.)<br>
-_Exports_: 35,000 metric tons (2020 est.)<br>
-_Imports_: 7.891 million metric tons (2020 est.)<br>
-_Proven reserves_: 0 metric tons (2019 est.)<br>
+_production_: 2.312 million metric tons (2020 est.)<br>
+_consumption_: 10.712 million metric tons (2020 est.)<br>
+_exports_: 35,000 metric tons (2020 est.)<br>
+_imports_: 7.891 million metric tons (2020 est.)<br>
+_proven reserves_: 0 metric tons (2019 est.)<br>
 
 **Petroleum**<br>
-_Total petroleum production_: 81,500 bbl/day (2021 est.)<br>
-_Refined petroleum consumption_: 1,688,500 bbl/day (2019 est.)<br>
-_Crude oil and lease condensate exports_: 0 barrels/day (2018 est.)<br>
-_Crude oil and lease condensate imports_: 1,064,700 barrels/day (2018 est.)<br>
-_Crude oil estimated reserves_: 61.7 million barrels (2021 est.)<br>
+_total petroleum production_: 81,500 bbl/day (2021 est.)<br>
+_refined petroleum consumption_: 1,688,500 bbl/day (2019 est.)<br>
+_crude oil and lease condensate exports_: 0 barrels/day (2018 est.)<br>
+_crude oil and lease condensate imports_: 1,064,700 barrels/day (2018 est.)<br>
+_crude oil estimated reserves_: 61.7 million barrels (2021 est.)<br>
 
 **Refined petroleum products - production**<br>
 1.311 million bbl/day (2017 est.)<br>
@@ -618,17 +618,17 @@ _Crude oil estimated reserves_: 61.7 million barrels (2021 est.)<br>
 886,800 bbl/day (2017 est.)<br>
 
 **Natural gas**<br>
-_Production_: 16.226 million cubic meters (2019 est.)<br>
-_Consumption_: 38,192,256,000 cubic meters (2020 est.)<br>
-_Exports_: 9,103,795,000 cubic meters (2020 est.)<br>
-_Imports_: 46,105,385,000 cubic meters (2020 est.)<br>
-_Proven reserves_: 7.787 billion cubic meters (2021 est.)<br>
+_production_: 16.226 million cubic meters (2019 est.)<br>
+_consumption_: 38,192,256,000 cubic meters (2020 est.)<br>
+_exports_: 9,103,795,000 cubic meters (2020 est.)<br>
+_imports_: 46,105,385,000 cubic meters (2020 est.)<br>
+_proven reserves_: 7.787 billion cubic meters (2021 est.)<br>
 
 **Carbon dioxide emissions**<br>
-_Total emissions_: 338.425 million metric tonnes of CO2 (2019 est.)<br>
-_From coal and metallurgical coke_: 26.971 million metric tonnes of CO2 (2019 est.)<br>
-_From petroleum and other liquids_: 225.865 million metric tonnes of CO2 (2019 est.)<br>
-_From consumed natural gas_: 85.589 million metric tonnes of CO2 (2019 est.)<br>
+_total emissions_: 338.425 million metric tonnes of CO2 (2019 est.)<br>
+_from coal and metallurgical coke_: 26.971 million metric tonnes of CO2 (2019 est.)<br>
+_from petroleum and other liquids_: 225.865 million metric tonnes of CO2 (2019 est.)<br>
+_from consumed natural gas_: 85.589 million metric tonnes of CO2 (2019 est.)<br>
 
 **Energy consumption per capita**<br>
 _Total energy consumption per capita 2019_: 151.053 million Btu/person (2019 est.)<br>
@@ -740,7 +740,7 @@ French Armed Forces (Forces Armées Françaises): Army (Armee de Terre; includes
 1.8% of GDP (2017) (approximately $54.4 billion)<br>
 
 **Military and security service personnel strengths**<br>
-the French military has approximately 205,000 active duty troops (115,000 Army; 35,000 Navy; 40,000 Air Force; 15,000 other, such as joint staffs, administration, logistics, procurement, medical service, etc.); approximately 100,000 National Gendarmerie; approximately 75,000 National Guard (2021)<br>
+approximately 205,000 active duty troops (115,000 Army; 35,000 Navy; 40,000 Air Force; 15,000 other, such as joint staffs, administration, logistics, procurement, medical service, etc.); approximately 100,000 National Gendarmerie; approximately 75,000 National Guard (2022)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the French military's inventory consists mostly of domestically-produced weapons systems, including some jointly-produced with other European countries; there is a limited mix of armaments from other Western countries, particularly the US; France has a defense industry capable of manufacturing the full spectrum of air, land, and naval military weapons systems (2022)<br>
@@ -750,8 +750,8 @@ the French military's inventory consists mostly of domestically-produced weapons
 <strong>note 1: </strong>in 2019, women comprised approximately approximately 16% of the uniformed armed forces  <br><br><strong>note 2: </strong>men between the ages of 17.5 and 39.5 years of age, of any nationality, may join the French Foreign Legion; those volunteers selected for service sign 5-year contracts<br>
 
 **Military deployments**<br>
-approximately 4,000 Burkina Faso/Chad/Mali/Niger (Operation Barkhane, Operation Sabre; note - in 2021, France announced that it would cut the number of troops from this force to about 2,500 by 2023; in 2022, France said it would move the troops in Mali--about 2,400--to other west African countries); approximately 300 Central African Republic; 950 Cote D'Ivoire; 1,450 Djibouti; 350 Baltics (NATO); 2,100 French Guyana; 900 French Polynesia; 1,000 French West Indies; 350 Gabon; approximately 500 Middle East (Iraq/Jordan/Syria); 570 Lebanon (UNIFIL); 1,450 New Caledonia; 1,700 Reunion Island; 350 Senegal; 650 United Arab Emirates (2022)<br>
-<strong>note 1:</strong> France has been a contributing member of the EuroCorps since 1992 <br><br><strong>note 2: </strong>NATO troop deployment numbers in eastern Europe are as of February 2022; in response to Russia’s 2022 invasion of Ukraine, some NATO countries, including France, have sent additional troops to the battlegroups deployed in NATO territory in eastern Europe<br>
+approximately 4,000 Burkina Faso/Chad/Mali/Niger (Operation Barkhane, Operation Sabre; note - in 2021, France announced that it would cut the number of troops from this force to about 2,500 by 2023; in 2022, France said it would move the troops in Mali--about 2,400--to other west African countries); approximately 300 Central African Republic; approximately 900 Cote D'Ivoire; approximately 1,450 Djibouti; 220 Estonia (NATO); approximately 2,000 French Guyana; approximately 900 French Polynesia; approximately 1,000 French West Indies; 350 Gabon; approximately 500 Middle East (Iraq/Jordan/Syria); 600 Lebanon (UNIFIL); approximately 1,400 New Caledonia; approximately 1,700 Reunion Island; 550 Romania (NATO); approximately 350 Senegal; approximately 650 United Arab Emirates (2022)<br>
+<strong>note 1:</strong> France has been a contributing member of the EuroCorps since 1992 <br><br><strong>note 2: </strong>in response to Russia’s 2022 invasion of Ukraine, some NATO countries, including France, have sent additional troops to the battlegroups deployed in NATO territory in eastern Europe<br>
 
 **Military - note**<br>
 France was one of the original 12 countries to sign the North Atlantic Treaty (also known as the Washington Treaty), which created NATO in 1949; in 1966, President Charles DE GAULLE decided to withdraw France from NATO’s integrated military structure, reflecting his desire for greater military independence, particularly vis-à-vis the US, and the refusal to integrate France’s nuclear deterrent or accept any form of control over its armed forces; it did, however, sign agreements with NATO setting out procedures in the event of Soviet aggression; beginning with the fall of the Berlin Wall in 1989, France distanced itself from the 1966 decision and has regularly contributed troops to NATO’s military operations, being one of the largest troop-contributing states; in 2009 it officially announced its decision to fully participate in NATO structures<br><br> <p>in 2010, France and the UK signed a declaration on defense and security cooperation that included greater military interoperability and a Combined Joint Expeditionary Force (CJEF), a deployable, combined Anglo-French military force for use in a wide range of crisis scenarios, up to and including high intensity combat operations; the CJEF has no standing forces, but would be available at short notice for French-UK bilateral, NATO, EU, UN, or other operations; combined training exercises began in 2011; as of 2020, the CJEF was assessed as having full operating capacity with the ability to rapidly deploy over 10,000 personnel capable of high intensity operations, peacekeeping, disaster relief, and humanitarian assistance</p> <p>the French Foreign Legion, established in 1831, is a military force that is open to foreign recruits willing to serve in the French Armed Forces for service in France and abroad; the Foreign Legion is an integrated part of the French Army and is comprised of approximately 8,000 personnel in eight regiments, a regiment-sized demi-brigade, a battalion-sized overseas detachment, a battalion-sized recruiting group, and a command staff; the combat units are a mix of armored cavalry and airborne, light, mechanized, and motorized infantry</p> (2022)<br>

@@ -575,35 +575,35 @@ _Currency_: Renminbi yuan (RMB) per US dollar -<br>
 _electrification - total population_: 100% (2020)<br>
 
 **Electricity**<br>
-_Installed generating capacity_: 2,217,925,000 kW (2020 est.)<br>
-_Consumption_: 6,875,088,640,000 kWh (2019 est.)<br>
-_Exports_: 21.655 billion kWh (2019 est.)<br>
-_Imports_: 4.858 billion kWh (2019 est.)<br>
-_Transmission/distribution losses_: 333.01 billion kWh (2019 est.)<br>
+_installed generating capacity_: 2,217,925,000 kW (2020 est.)<br>
+_consumption_: 6,875,088,640,000 kWh (2019 est.)<br>
+_exports_: 21.655 billion kWh (2019 est.)<br>
+_imports_: 4.858 billion kWh (2019 est.)<br>
+_transmission/distribution losses_: 333.01 billion kWh (2019 est.)<br>
 
 **Electricity generation sources**<br>
-_Fossil fuels_: 66% of total installed capacity (2020 est.)<br>
-_Nuclear_: 4.8% of total installed capacity (2020 est.)<br>
-_Solar_: 3.5% of total installed capacity (2020 est.)<br>
-_Wind_: 6.2% of total installed capacity (2020 est.)<br>
-_Hydroelectricity_: 17.8% of total installed capacity (2020 est.)<br>
-_Tide and wave_: 0% of total installed capacity (2020 est.)<br>
-_Geothermal_: 0% of total installed capacity (2020 est.)<br>
-_Biomass and waste_: 1.6% of total installed capacity (2020 est.)<br>
+_fossil fuels_: 66% of total installed capacity (2020 est.)<br>
+_nuclear_: 4.8% of total installed capacity (2020 est.)<br>
+_solar_: 3.5% of total installed capacity (2020 est.)<br>
+_wind_: 6.2% of total installed capacity (2020 est.)<br>
+_hydroelectricity_: 17.8% of total installed capacity (2020 est.)<br>
+_tide and wave_: 0% of total installed capacity (2020 est.)<br>
+_geothermal_: 0% of total installed capacity (2020 est.)<br>
+_biomass and waste_: 1.6% of total installed capacity (2020 est.)<br>
 
 **Coal**<br>
-_Production_: 4,314,681,000 metric tons (2020 est.)<br>
-_Consumption_: 4,506,387,000 metric tons (2020 est.)<br>
-_Exports_: 6.652 million metric tons (2020 est.)<br>
-_Imports_: 307.047 million metric tons (2020 est.)<br>
-_Proven reserves_: 141.595 billion metric tons (2019 est.)<br>
+_production_: 4,314,681,000 metric tons (2020 est.)<br>
+_consumption_: 4,506,387,000 metric tons (2020 est.)<br>
+_exports_: 6.652 million metric tons (2020 est.)<br>
+_imports_: 307.047 million metric tons (2020 est.)<br>
+_proven reserves_: 141.595 billion metric tons (2019 est.)<br>
 
 **Petroleum**<br>
-_Total petroleum production_: 4,712,200 bbl/day (2021 est.)<br>
-_Refined petroleum consumption_: 14,007,500 bbl/day (2019 est.)<br>
-_Crude oil and lease condensate exports_: 52,500 barrels/day (2018 est.)<br>
-_Crude oil and lease condensate imports_: 9,238,100 barrels/day (2018 est.)<br>
-_Crude oil estimated reserves_: 26,022,600,000 barrels (2021 est.)<br>
+_total petroleum production_: 4,712,200 bbl/day (2021 est.)<br>
+_refined petroleum consumption_: 14,007,500 bbl/day (2019 est.)<br>
+_crude oil and lease condensate exports_: 52,500 barrels/day (2018 est.)<br>
+_crude oil and lease condensate imports_: 9,238,100 barrels/day (2018 est.)<br>
+_crude oil estimated reserves_: 26,022,600,000 barrels (2021 est.)<br>
 
 **Refined petroleum products - production**<br>
 11.51 million bbl/day (2015 est.)<br>
@@ -615,17 +615,17 @@ _Crude oil estimated reserves_: 26,022,600,000 barrels (2021 est.)<br>
 1.16 million bbl/day (2015 est.)<br>
 
 **Natural gas**<br>
-_Production_: 179,317,495,000 cubic meters (2019 est.)<br>
-_Consumption_: 306,576,649,000 cubic meters (2019 est.)<br>
-_Exports_: 3,548,831,000 cubic meters (2019 est.)<br>
-_Imports_: 131,608,161,000 cubic meters (2019 est.)<br>
-_Proven reserves_: 6,654,250,000,000 cubic meters (2021 est.)<br>
+_production_: 179,317,495,000 cubic meters (2019 est.)<br>
+_consumption_: 306,576,649,000 cubic meters (2019 est.)<br>
+_exports_: 3,548,831,000 cubic meters (2019 est.)<br>
+_imports_: 131,608,161,000 cubic meters (2019 est.)<br>
+_proven reserves_: 6,654,250,000,000 cubic meters (2021 est.)<br>
 
 **Carbon dioxide emissions**<br>
-_Total emissions_: 10,773,248,000 metric tonnes of CO2 (2019 est.)<br>
-_From coal and metallurgical coke_: 8,652,419,000 metric tonnes of CO2 (2019 est.)<br>
-_From petroleum and other liquids_: 1,520,552,000 metric tonnes of CO2 (2019 est.)<br>
-_From consumed natural gas_: 600.276 million metric tonnes of CO2 (2019 est.)<br>
+_total emissions_: 10,773,248,000 metric tonnes of CO2 (2019 est.)<br>
+_from coal and metallurgical coke_: 8,652,419,000 metric tonnes of CO2 (2019 est.)<br>
+_from petroleum and other liquids_: 1,520,552,000 metric tonnes of CO2 (2019 est.)<br>
+_from consumed natural gas_: 600.276 million metric tonnes of CO2 (2019 est.)<br>
 
 **Energy consumption per capita**<br>
 _Total energy consumption per capita 2019_: 105.687 million Btu/person (2019 est.)<br>
@@ -734,7 +734,7 @@ People's Liberation Army (PLA): Ground Forces, Navy (PLAN, includes marines and 
 1.8% of GDP (2017) (approximately $260 billion)<br>
 
 **Military and security service personnel strengths**<br>
-approximately 2 million total active duty troops (approximately 1 million Ground; 250,000 Navy/Marines; 350-400,000 Air Force; 120,000 Rocket Forces; 150-175,000 Strategic Support Forces); estimated 600-650,000 People&rsquo;s Armed Police (2022)<br>
+approximately 2 million active duty troops (approximately 1 million Ground; 250,000 Navy/Marines; 350-400,000 Air Force; 120,000 Rocket Forces; 150-175,000 Strategic Support Forces); estimated 600-650,000 People&rsquo;s Armed Police (2022)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the PLA is outfitted primarily with a wide mix of older and modern domestically-produced systems heavily influenced by technology derived from other countries; Russia is the top supplier of foreign military equipment since 2010; China's defense-industrial sector is large and capable of producing advanced weapons systems across all military domains (2022)<br>
@@ -744,7 +744,7 @@ the PLA is outfitted primarily with a wide mix of older and modern domestically-
 18-22 years of age for selective compulsory military service, with a 2-year service obligation; no minimum age for voluntary service (all officers are volunteers); 18-19 years of age for women high school graduates who meet requirements for specific military jobs (2022)<br>
 
 **Military deployments**<br>
-425 Mali (MINUSMA); 225 Democratic Republic of the Congo (MONUSCO); 420 Lebanon (UNIFIL); 1,050 South Sudan (UNMISS); up to 2,000 Djibouti (Feb 2022)<br>
+425 Mali (MINUSMA); 225 Democratic Republic of the Congo (MONUSCO); 420 Lebanon (UNIFIL); 1,050 South Sudan (UNMISS); up to 2,000 Djibouti (May 2022)<br>
 
 **Military - note**<br>
 <p>established in 1927, the PLA is the military arm of the ruling Chinese Communist Party (CCP), which oversees the PLA through its Central Military Commission; the Central Military Commission is China’s top military decision making body</p> <p>the PRC's <strong>internal security forces </strong>consist primarily of the <strong>Ministry of Public Security (MPS)</strong>, the <strong>Ministry of State Security (MSS)</strong>, the <strong>People’s Armed Police (PAP)</strong>, and the <strong>militia</strong>; the PLA support the internal security forces as necessary:</p> <p>the <strong>MPS</strong> controls the civilian national police, which serves as the first-line force for public order; its primary mission is domestic law enforcement and maintaining order, including anti-rioting and anti-terrorism</p> <p>the <strong>MSS</strong> is the PRC’s main civilian intelligence and counterintelligence service</p> <p>the <strong>PAP</strong> is a paramilitary component (or adjunct) of the PLA; its primary missions include internal security, maintaining public order, maritime security, and assisting the PLA in times of war; it is under the command of the Central Military Commission (CMC); the <strong>China Coast Guard (CCG)</strong> administratively falls under the PAP; the CCG has a variety of missions, such as maritime sovereignty enforcement, surveillance, resource protection, anti-smuggling, and general law enforcement</p> <p>the <strong>militia</strong> is an armed reserve of civilians which serves as an auxiliary and reserve force for the PLA upon mobilization; it is distinct from the PLA’s reserve forces; militia units are organized around towns, villages, urban sub-districts, and enterprises, and vary widely in composition and mission; they have dual civilian-military command structures; a key component of the militia are the local maritime forces, commonly referred to as the <strong>People’s Armed Forces Maritime Militia (PAFMM)</strong>; the PAFMM consists of mariners (and their vessels) who receive training, equipment, and other forms of support from the Navy and CCG (although the PAFMM remains separate from both) to perform tasks such as maritime patrolling, surveillance and reconnaissance, emergency/disaster response, transportation, search and rescue, and auxiliary tasks in support of naval operations in wartime; the PAFMM’s tasks are often conducted in conjunction or coordination with the Navy and the CCG; it has been used to assert Beijing's maritime claims in the East and South China seas</p> (2022)<br>

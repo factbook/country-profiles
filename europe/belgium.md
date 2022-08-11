@@ -536,35 +536,35 @@ _Currency_: euros (EUR) per US dollar -<br>
 _electrification - total population_: 100% (2020)<br>
 
 **Electricity**<br>
-_Installed generating capacity_: 26.929 million kW (2020 est.)<br>
-_Consumption_: 81,171,300,000 kWh (2020 est.)<br>
-_Exports_: 14.053 billion kWh (2020 est.)<br>
-_Imports_: 13.394 billion kWh (2020 est.)<br>
-_Transmission/distribution losses_: 3.444 billion kWh (2020 est.)<br>
+_installed generating capacity_: 26.929 million kW (2020 est.)<br>
+_consumption_: 81,171,300,000 kWh (2020 est.)<br>
+_exports_: 14.053 billion kWh (2020 est.)<br>
+_imports_: 13.394 billion kWh (2020 est.)<br>
+_transmission/distribution losses_: 3.444 billion kWh (2020 est.)<br>
 
 **Electricity generation sources**<br>
-_Fossil fuels_: 33.1% of total installed capacity (2020 est.)<br>
-_Nuclear_: 38.1% of total installed capacity (2020 est.)<br>
-_Solar_: 5.8% of total installed capacity (2020 est.)<br>
-_Wind_: 15% of total installed capacity (2020 est.)<br>
-_Hydroelectricity_: 0.3% of total installed capacity (2020 est.)<br>
-_Tide and wave_: 0% of total installed capacity (2020 est.)<br>
-_Geothermal_: 0% of total installed capacity (2020 est.)<br>
-_Biomass and waste_: 7.7% of total installed capacity (2020 est.)<br>
+_fossil fuels_: 33.1% of total installed capacity (2020 est.)<br>
+_nuclear_: 38.1% of total installed capacity (2020 est.)<br>
+_solar_: 5.8% of total installed capacity (2020 est.)<br>
+_wind_: 15% of total installed capacity (2020 est.)<br>
+_hydroelectricity_: 0.3% of total installed capacity (2020 est.)<br>
+_tide and wave_: 0% of total installed capacity (2020 est.)<br>
+_geothermal_: 0% of total installed capacity (2020 est.)<br>
+_biomass and waste_: 7.7% of total installed capacity (2020 est.)<br>
 
 **Coal**<br>
-_Production_: 1.105 million metric tons (2020 est.)<br>
-_Consumption_: 4.167 million metric tons (2020 est.)<br>
-_Exports_: 504,000 metric tons (2020 est.)<br>
-_Imports_: 3.467 million metric tons (2020 est.)<br>
-_Proven reserves_: 0 metric tons (2019 est.)<br>
+_production_: 1.105 million metric tons (2020 est.)<br>
+_consumption_: 4.167 million metric tons (2020 est.)<br>
+_exports_: 504,000 metric tons (2020 est.)<br>
+_imports_: 3.467 million metric tons (2020 est.)<br>
+_proven reserves_: 0 metric tons (2019 est.)<br>
 
 **Petroleum**<br>
-_Total petroleum production_: 11,400 bbl/day (2021 est.)<br>
-_Refined petroleum consumption_: 642,300 bbl/day (2019 est.)<br>
-_Crude oil and lease condensate exports_: 0 barrels/day (2018 est.)<br>
-_Crude oil and lease condensate imports_: 666,700 barrels/day (2018 est.)<br>
-_Crude oil estimated reserves_: 0 barrels (2021 est.)<br>
+_total petroleum production_: 11,400 bbl/day (2021 est.)<br>
+_refined petroleum consumption_: 642,300 bbl/day (2019 est.)<br>
+_crude oil and lease condensate exports_: 0 barrels/day (2018 est.)<br>
+_crude oil and lease condensate imports_: 666,700 barrels/day (2018 est.)<br>
+_crude oil estimated reserves_: 0 barrels (2021 est.)<br>
 
 **Refined petroleum products - production**<br>
 731,700 bbl/day (2017 est.)<br>
@@ -576,17 +576,17 @@ _Crude oil estimated reserves_: 0 barrels (2021 est.)<br>
 601,400 bbl/day (2017 est.)<br>
 
 **Natural gas**<br>
-_Production_: 0 cubic meters (2021 est.)<br>
-_Consumption_: 18,171,598,000 cubic meters (2019 est.)<br>
-_Exports_: 3,942,860,000 cubic meters (2019 est.)<br>
-_Imports_: 22,606,066,000 cubic meters (2019 est.)<br>
-_Proven reserves_: 0 cubic meters (2021 est.)<br>
+_production_: 0 cubic meters (2021 est.)<br>
+_consumption_: 18,171,598,000 cubic meters (2019 est.)<br>
+_exports_: 3,942,860,000 cubic meters (2019 est.)<br>
+_imports_: 22,606,066,000 cubic meters (2019 est.)<br>
+_proven reserves_: 0 cubic meters (2021 est.)<br>
 
 **Carbon dioxide emissions**<br>
-_Total emissions_: 128.247 million metric tonnes of CO2 (2019 est.)<br>
-_From coal and metallurgical coke_: 10.301 million metric tonnes of CO2 (2019 est.)<br>
-_From petroleum and other liquids_: 83.474 million metric tonnes of CO2 (2019 est.)<br>
-_From consumed natural gas_: 34.472 million metric tonnes of CO2 (2019 est.)<br>
+_total emissions_: 128.247 million metric tonnes of CO2 (2019 est.)<br>
+_from coal and metallurgical coke_: 10.301 million metric tonnes of CO2 (2019 est.)<br>
+_from petroleum and other liquids_: 83.474 million metric tonnes of CO2 (2019 est.)<br>
+_from consumed natural gas_: 34.472 million metric tonnes of CO2 (2019 est.)<br>
 
 **Energy consumption per capita**<br>
 _Total energy consumption per capita 2019_: 234.216 million Btu/person (2019 est.)<br>
@@ -688,7 +688,7 @@ Belgian Armed Forces: Land Component, Marine (Naval) Component, Air Component, M
 0.9% of GDP (2017) (approximately $5.2 billion)<br>
 
 **Military and security service personnel strengths**<br>
-the Belgian Armed Forces have approximately 26,000 active duty personnel (11,000 Land Component; 1,500 Marine Component; 5,000 Air Force Component; 1,500 Medical Service; 7,000 other, including joint staff, support, and training schools) (2021)<br>
+the Belgian Armed Forces have approximately 25,000 active duty personnel (10,000 Land Component; 1,500 Marine Component; 5,000 Air Force Component; 1,500 Medical Service; 7,000 other, including joint staff, support, and training schools) (2022)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the Belgian Armed Forces have a mix of weapons systems from European countries, Israel, and the US; since 2010, several European nations are the leading suppliers of armaments; Belgium has an export-focused defense industry that focuses on components and subcontracting (2021)<br>
@@ -698,8 +698,8 @@ the Belgian Armed Forces have a mix of weapons systems from European countries, 
 <strong>note:</strong> in 2020, women comprised about 9% of the military's full-time personnel<br>
 
 **Military deployments**<br>
-125 France (contributing member of EuroCorps); 200 Lithuania (NATO) (2022)<br>
-<strong>note:</strong> in 2022, Belgium joined other NATO countries in sending additional military forces to Eastern Europe following the Russian invasion of Ukraine<br>
+125 France (contributing member of EuroCorps); 250 Romania (NATO) (2022)<br>
+<strong>note:</strong> in response to Russia’s 2022 invasion of Ukraine, some NATO countries, including Belgium, have sent additional troops and equipment to the battlegroups deployed in NATO territory in eastern Europe<br>
 
 **Military - note**<br>
 Belgium is a member of NATO and was one of the original 12 countries to sign the North Atlantic Treaty (also known as the Washington Treaty) in 1949; Belgium hosts the NATO headquarters in Brussels<br><br>in 2015, Belgium, the Netherlands, and Luxembourg signed an agreement to conduct joint air policing of their territories; under the agreement, which went into effect in January of 2017, the Belgian and Dutch Air Forces trade responsibility for patrolling the skies over the three countries<br> <p>in 2018, the Defense Ministers of Belgium, Denmark and the Netherlands signed a Memorandum of Understanding (MOU) for the creation of a Composite Special Operations Component Command (C-SOCC); the C-SOCC was declared operational in December 2020</p><br>
@@ -716,7 +716,7 @@ Islamic Revolutionary Guard Corps/Qods Force; Islamic State of Iraq and ash-Sham
 <p>none identified</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 18,493 (Syria), 5,094 (Iraq) (2020); 52,038 (Ukraine) (as of 26 July 2022)<br>
+_refugees (country of origin)_: 18,493 (Syria), 5,094 (Iraq) (2020); 53,108 (Ukraine) (as of 3 August 2022)<br>
 _stateless persons_: 1,159 (mid-year 2021)<br>
 
 **Illicit drugs**<br>

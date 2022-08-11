@@ -348,8 +348,8 @@ _election results_: Sergio MATTARELLA (independent) reelected president; elector
 **Legislative branch**<br>
 _description_: bicameral Parliament or Parlamento consists of:<br>Senate or Senato della Repubblica (320 seats; 116 members directly elected in single-seat constituencies by simple majority vote, 193 members in multi-seat constituencies and 6 members in multi-seat constituencies abroad directly elected by party-list proportional representation vote to serve 5-year terms and 5 ex-officio members appointed by the president of the Republic to serve for life)<br>Chamber of Deputies or Camera dei Deputati (630 seats; 629 members directly elected in single- and multi-seat constituencies by proportional representation vote and 1 member from Valle d'Aosta elected by simple majority vote; members serve 5-year terms)<br>
 _elections_: <br>Senate - last held on 4 March 2018 (next to be held in March 2023)<br>Chamber of Deputies - last held on 4 March 2018 (next to be held in March 2023)<br>
-_election results_: <br>Senate - percent of vote by party - NA; seats by party - center-right coalition 137 (Lega 58, FI 57, FdI 18, NCI-UDC 4), M5S 112, center-left coalition 60 (PD 53, SVP-PATT 3, CP 1, +EU 1, Together 1, VdAI 1), LeU 4, MAIE 1, USEI 1; composition (as of March 2022) - men 208, women 112, percent of women 35%<br>Chamber of Deputies - percent of vote by party - NA; seats by party - center-right coalition 265 (Lega 125, FI 104, FdI 32, NeI-UDC 4), M5S 227, center-left coalition 122 (PD 112, SVP-PATT 4, +EU 3, CP 2, Together 1), LeU 14, MAIE 1,USEI 1; composition (as of September 2021) - men 401, women 229, percent of women 36.4%; note - total Parliament percent of women 35.9%<br>
-<strong>Note</strong>: in October 2019, Italy's Parliament voted to reduce the number of Senate seats from 315 to 200 and the number of Chamber of Deputies seats from 630 to 400; a referendum to reduce the membership of Parliament held on 20-21 September 2020 was approved, effective for the 2023 election<br>
+_election results_: <br>Senate - percent of vote by party - NA; seats by party - center-right coalition 137 (Lega 58, FI 57, FdI 18, NCI-UDC 4), M5S 111, center-left coalition 60 (PD 53, SVP-PATT 3, CP 1, +EU 1, Together 1, VdAI 1), LeU 4, MAIE 1, USEI 1; composition (as of March 2022) - men 208, women 112, percent of women 35%<br>Chamber of Deputies - percent of vote by party - NA; seats by party - center-right coalition 265 (Lega 125, FI 104, FdI 32, NcI-UDC 4), M5S 227, center-left coalition 122 (PD 112, SVP-PATT 4, +EU 3, CP 2, Together 1), LeU 14, MAIE 1,USEI 1; composition (as of September 2021) - men 401, women 229, percent of women 36.4%; note - total Parliament percent of women 35.9%<br>
+<strong>note</strong>: in October 2019, Italy's Parliament voted to reduce the number of Senate seats from 315 to 200 and the number of Chamber of Deputies seats from 630 to 400; a referendum to reduce the membership of Parliament held on 20-21 September 2020 was approved, effective for the 2023 election<br>
 
 **Judicial branch**<br>
 _highest courts_: Supreme Court of Cassation or Corte Suprema di Cassazione (consists of the first president (chief justice), deputy president, 54 justices presiding over 6 civil and 7 criminal divisions, and 288 judges; an additional 30 judges of lower courts serve as supporting judges; cases normally heard by 5-judge panels; more complex cases heard by 9-judge panels); Constitutional Court or Corte Costituzionale (consists of the court president and 14 judges)<br>
@@ -357,7 +357,7 @@ _judge selection and term of office_: Supreme Court judges appointed by the High
 _subordinate courts_: various lower civil and criminal courts (primary and secondary tribunals and courts of appeal)<br>
 
 **Political parties and leaders**<br>
-<p>Article One or Art.1-MDP [Roberto SPERANZA]<br>Associative Movement of Italians Abroad or MAIE [Ricardo Antonio MERIO]<br>Brothers of Italy or FdI [Giorgi MELONI]<br>Democratic Party or PD [Enrico LETTA]<br>Five Star Movement or M5S [Giuseppe CONTE]<br>Forza Italia or FI [Silvio BERLUSCONI]<br>Free and Equal (Liberi e Uguali) or LeU [Pietro GRASSO]<br>League or Lega [Matteo SALVINI]<br>More Europe or +EU [Emma BONINO]<br>Popular Civic List or CP [Beatrice LORENZIN]<br>Possible [Beatrice BRIGNONE]<br>South American Union of Italian Emigrants or USEI [Eugenion SANGREGORIO]<br>South Tyrolean People's Party or SVP [Philipp ACHAMMER]<br>Trentino Tyrolean Autonomist Party (Partito Autonomista Trentino Tirolese) or PATT [Franco PANIZZA, secretary] <br>Us with Italy [Raffaele FITTO]</p><br>
+<p>Article One or Art.1-MDP [Roberto SPERANZA]<br>Associative Movement of Italians Abroad or MAIE [Ricardo Antonio MERIO]<br>Brothers of Italy or FdI [Giorgia MELONI]<br>Democratic Party or PD [Enrico LETTA]<br>Five Star Movement or M5S [Giuseppe CONTE]<br>Forza Italia or FI [Silvio BERLUSCONI]<br>Free and Equal (Liberi e Uguali) or LeU [Pietro GRASSO]<br>League or Lega [Matteo SALVINI]<br>More Europe or +EU [Emma BONINO]<br>Popular Civic List or CP [Beatrice LORENZIN]<br>Possible [Beatrice BRIGNONE]<br>South American Union of Italian Emigrants or USEI [Eugenion SANGREGORIO]<br>South Tyrolean People's Party or SVP [Philipp ACHAMMER]<br>Trentino Tyrolean Autonomist Party (Partito Autonomista Trentino Tirolese) or PATT [Franco PANIZZA, secretary] <br>Us with Italy or NcI [Maurizio LUPI]<br>other minor parties</p><br>
 
 **International organization participation**<br>
 ADB (nonregional member), AfDB (nonregional member), Arctic Council (observer), Australia Group, BIS, BSEC (observer), CBSS (observer), CD, CDB, CE, CEI, CERN, EAPC, EBRD, ECB, EIB, EITI (implementing country), EMU, ESA, EU, FAO, FATF, G-7, G-8, G-10, G-20, IADB, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IEA, IFAD, IFC, IFRCS, IGAD (partners), IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), LAIA (observer), MIGA, MINURSO, MINUSMA, NATO, NEA, NSG, OAS (observer), OECD, OPCW, OSCE, Pacific Alliance (observer), Paris Club, PCA, PIF (partner), Schengen Convention, SELEC (observer), SICA (observer), UN, UNCTAD, UNESCO, UNHCR, UNIDO, UNIFIL, Union Latina, UNMOGIP, UNRWA, UNTSO, UNWTO, UPU, Wassenaar Arrangement, WCO, WHO, WIPO, WMO, WTO, ZC<br>
@@ -547,35 +547,35 @@ _Currency_: euros (EUR) per US dollar -<br>
 _electrification - total population_: 100% (2020)<br>
 
 **Electricity**<br>
-_Installed generating capacity_: 121.442 million kW (2020 est.)<br>
-_Consumption_: 286.375 billion kWh (2020 est.)<br>
-_Exports_: 7.587 billion kWh (2020 est.)<br>
-_Imports_: 39.787 billion kWh (2020 est.)<br>
-_Transmission/distribution losses_: 17.702 billion kWh (2020 est.)<br>
+_installed generating capacity_: 121.442 million kW (2020 est.)<br>
+_consumption_: 286.375 billion kWh (2020 est.)<br>
+_exports_: 7.587 billion kWh (2020 est.)<br>
+_imports_: 39.787 billion kWh (2020 est.)<br>
+_transmission/distribution losses_: 17.702 billion kWh (2020 est.)<br>
 
 **Electricity generation sources**<br>
-_Fossil fuels_: 55.9% of total installed capacity (2020 est.)<br>
-_Nuclear_: 0% of total installed capacity (2020 est.)<br>
-_Solar_: 9.2% of total installed capacity (2020 est.)<br>
-_Wind_: 6.9% of total installed capacity (2020 est.)<br>
-_Hydroelectricity_: 17.5% of total installed capacity (2020 est.)<br>
-_Tide and wave_: 0.2% of total installed capacity (2020 est.)<br>
-_Geothermal_: 2.2% of total installed capacity (2020 est.)<br>
-_Biomass and waste_: 8.1% of total installed capacity (2020 est.)<br>
+_fossil fuels_: 55.9% of total installed capacity (2020 est.)<br>
+_nuclear_: 0% of total installed capacity (2020 est.)<br>
+_solar_: 9.2% of total installed capacity (2020 est.)<br>
+_wind_: 6.9% of total installed capacity (2020 est.)<br>
+_hydroelectricity_: 17.5% of total installed capacity (2020 est.)<br>
+_tide and wave_: 0.2% of total installed capacity (2020 est.)<br>
+_geothermal_: 2.2% of total installed capacity (2020 est.)<br>
+_biomass and waste_: 8.1% of total installed capacity (2020 est.)<br>
 
 **Coal**<br>
-_Production_: 1.456 million metric tons (2020 est.)<br>
-_Consumption_: 9.335 million metric tons (2020 est.)<br>
-_Exports_: 368,000 metric tons (2020 est.)<br>
-_Imports_: 8.235 million metric tons (2020 est.)<br>
-_Proven reserves_: 17 million metric tons (2019 est.)<br>
+_production_: 1.456 million metric tons (2020 est.)<br>
+_consumption_: 9.335 million metric tons (2020 est.)<br>
+_exports_: 368,000 metric tons (2020 est.)<br>
+_imports_: 8.235 million metric tons (2020 est.)<br>
+_proven reserves_: 17 million metric tons (2019 est.)<br>
 
 **Petroleum**<br>
-_Total petroleum production_: 107,700 bbl/day (2021 est.)<br>
-_Refined petroleum consumption_: 1,255,100 bbl/day (2019 est.)<br>
-_Crude oil and lease condensate exports_: 10,100 barrels/day (2018 est.)<br>
-_Crude oil and lease condensate imports_: 1.253 million barrels/day (2018 est.)<br>
-_Crude oil estimated reserves_: 497.9 million barrels (2021 est.)<br>
+_total petroleum production_: 107,700 bbl/day (2021 est.)<br>
+_refined petroleum consumption_: 1,255,100 bbl/day (2019 est.)<br>
+_crude oil and lease condensate exports_: 10,100 barrels/day (2018 est.)<br>
+_crude oil and lease condensate imports_: 1.253 million barrels/day (2018 est.)<br>
+_crude oil estimated reserves_: 497.9 million barrels (2021 est.)<br>
 
 **Refined petroleum products - production**<br>
 1.607 million bbl/day (2017 est.)<br>
@@ -587,17 +587,17 @@ _Crude oil estimated reserves_: 497.9 million barrels (2021 est.)<br>
 422,500 bbl/day (2017 est.)<br>
 
 **Natural gas**<br>
-_Production_: 3,888,491,000 cubic meters (2020 est.)<br>
-_Consumption_: 74,313,109,000 cubic meters (2019 est.)<br>
-_Exports_: 314.656 million cubic meters (2020 est.)<br>
-_Imports_: 70,908,014,000 cubic meters (2019 est.)<br>
-_Proven reserves_: 45.76 billion cubic meters (2021 est.)<br>
+_production_: 3,888,491,000 cubic meters (2020 est.)<br>
+_consumption_: 74,313,109,000 cubic meters (2019 est.)<br>
+_exports_: 314.656 million cubic meters (2020 est.)<br>
+_imports_: 70,908,014,000 cubic meters (2019 est.)<br>
+_proven reserves_: 45.76 billion cubic meters (2021 est.)<br>
 
 **Carbon dioxide emissions**<br>
-_Total emissions_: 332.041 million metric tonnes of CO2 (2019 est.)<br>
-_From coal and metallurgical coke_: 27.194 million metric tonnes of CO2 (2019 est.)<br>
-_From petroleum and other liquids_: 162.472 million metric tonnes of CO2 (2019 est.)<br>
-_From consumed natural gas_: 142.375 million metric tonnes of CO2 (2019 est.)<br>
+_total emissions_: 332.041 million metric tonnes of CO2 (2019 est.)<br>
+_from coal and metallurgical coke_: 27.194 million metric tonnes of CO2 (2019 est.)<br>
+_from petroleum and other liquids_: 162.472 million metric tonnes of CO2 (2019 est.)<br>
+_from consumed natural gas_: 142.375 million metric tonnes of CO2 (2019 est.)<br>
 
 **Energy consumption per capita**<br>
 _Total energy consumption per capita 2019_: 112.606 million Btu/person (2019 est.)<br>
@@ -703,7 +703,7 @@ Italian Armed Forces: Army (Esercito Italiano, EI), Navy (Marina Militare Italia
 1.2% of GDP (2017) (approximately $30.1 billion)<br>
 
 **Military and security service personnel strengths**<br>
-approximately 175,000 active personnel (105,000 Army; 30,000 Navy; 40,000 Air Force); approximately 107,000 Carabinieri (2021)<br>
+approximately 170,000 active personnel (100,000 Army; 30,000 Navy; 40,000 Air Force); approximately 108,000 Carabinieri (2022)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the Italian Armed Forces' inventory includes a mix of domestically-produced, jointly-produced, and imported weapons systems, mostly from Europe and the US; the US is the leading supplier of weapons to Italy since 2010, followed by Germany; the Italian defense industry is capable of producing equipment across all the military domains with particular strengths in naval vessels and aircraft; it also participates in joint development and production of advanced weapons systems with other European countries and the US (2021)<br>
@@ -713,8 +713,8 @@ the Italian Armed Forces' inventory includes a mix of domestically-produced, joi
 <strong>note:</strong> as of 2019, women made up about 6% of the military's full-time personnel<br>
 
 **Military deployments**<br>
-120 Djibouti; 900 Middle East/Iraq/Kuwait (NATO, European Assistance Mission Iraq); 640 Kosovo (NATO/KFOR); 250 Latvia (NATO); 1,190 Lebanon (UNIFIL); 400 Libya; 290 Niger; 250 Romania (NATO); 150 Somalia (EUTM) (2022)<br>
-<strong>note:</strong> NATO troop deployment numbers in eastern Europe are as of February 2022; in response to Russia’s invasion of Ukraine, some NATO countries have sent additional troops and equipment to the battlegroups deployed in NATO territory in eastern Europe<br>
+120 Djibouti; 900 Middle East/Iraq/Kuwait (NATO, European Assistance Mission Iraq); 640 Kosovo (NATO/KFOR); 250 Latvia (NATO); 875 Lebanon (UNIFIL); 400 Libya; 290 Niger; 250 Romania (NATO); 150 Somalia (EUTM) (2022)<br>
+<strong>note:</strong> in response to Russia’s invasion of Ukraine, some NATO countries have sent additional troops and equipment to the battlegroups deployed in NATO territory in eastern Europe<br>
 
 **Military - note**<br>
 Italy is a member of NATO and was one of the original 12 countries to sign the North Atlantic Treaty (also known as the Washington Treaty) in 1949<br><br>Italy is an active participant in EU, NATO, UN, and other multinational military, security, and humanitarian operations abroad; as of 2022, it hosted the headquarters for the EU’s Mediterranean naval operations force (EUNAVFOR-MED) in Rome and the US Navy’s 6th Fleet in Naples; Italy was admitted to the UN in 1955 and in 1960 participated in its first UN peacekeeping mission, the UN Operation in Congo (ONUC); since 1960, it has committed more than 60,000 troops to UN missions; since 2006, Italy has hosted a training center in Vicenza for police personnel destined for peacekeeping missions<br>
@@ -731,9 +731,9 @@ Islamic State of Iraq and ash-Sham (ISIS)<br>
 <p>Italy's long coastline and developed economy entices tens of thousands of illegal immigrants from southeastern Europe and northern Africa</p> <p><em>Italy-Austria-Switzerland</em>: borders are shifting because glacier peaks that had served as a natural boundary are melting</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 19,441 (Nigeria), 15,337 (Pakistan), 12,962 (Afghanistan), 10,609 (Mali), 7,901 (Somalia), 5,845 (Gambia), 5,079 (Iraq) (mid-year 2021); 151,863 (Ukraine) (as of 19 July 2022)<br>
+_refugees (country of origin)_: 19,441 (Nigeria), 15,337 (Pakistan), 12,962 (Afghanistan), 10,609 (Mali), 7,901 (Somalia), 5,845 (Gambia), 5,079 (Iraq) (mid-year 2021); 157,309 (Ukraine) (as of 1 August 2022)<br>
 _stateless persons_: 3,000 (mid-year 2021)<br>
-<strong>note:</strong> 627,829 estimated refugee and migrant arrivals (January 2015-July 2022)<br>
+<strong>note:</strong> 632,625 estimated refugee and migrant arrivals (January 2015-August 2022)<br>
 
 **Illicit drugs**<br>
 important gateway for drug trafficking; organized crime groups allied with Colombian and Spanish groups trafficking cocaine to Europe<br>

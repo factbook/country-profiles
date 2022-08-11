@@ -335,11 +335,11 @@ _residency requirement for naturalization_: 5 years<br>
 18 years of age; universal<br>
 
 **Executive branch**<br>
-_chief of state_: President Shavkat MIRZIYOYEV (interim president from 8 September 2016; formally elected president on 4 December 2016 to succeed longtime President Islom KARIMOV, who died on 2 September 2016; reelected president on 24 October 2021)<br>
+_chief of state_: President Shavkat MIRZIYOYEV (interim president from 8 September 2016; formally elected president on 4 December 2016 to succeed longtime President Islom KARIMOV, who died on 2 September 2016<br>
 _head of government_: Prime Minister Abdulla ARIPOV (since 14 December 2016)<br>
 _cabinet_: Cabinet of Ministers appointed by the president with most requiring approval of the Senate chamber of the Supreme Assembly (Oliy Majlis)<br>
 _elections/appointments_: president directly elected by absolute majority popular vote in 2 rounds if needed for a 5-year term (eligible for a second term; previously a 5-year term, extended by a 2002 constitutional amendment to 7 years, and reverted to 5 years in 2011); election last held on 24 October 2021 (next to be held in 2026); prime minister nominated by majority party in legislature since 2011, but appointed along with the ministers and deputy ministers by the president<br>
-_election results_: <em><br>2021</em>: Shavkat MIRZIYOYEV reelected president in first round; percent of vote - Shavkat MIRZIYOYEV (LDPU) 80.1%, Maqsuda VORISOVA (PDP) 6.7%, Alisher QODIROV (National Revival Democratic Party) 5.5%, Narzullo OBLOMURODOV (Ecological Party) 4.1%, Bahrom ABDUHALIMOV (Adolat) 3.4%<br><br><em>2016:</em> Shavkat MIRZIYOYEV elected president in first round; percent of vote - Shavkat MIRZIYOYEV (LDPU) 88.6%, Hotamjon KETMONOV (PDP) 3.7%, Narimon UMAROV (Adolat) 3.5%, Sarvar OTAMURODOV (National Revival Democratic Party) 2.4%, other 1.8%<br>
+_election results_: <em>2021</em>: Shavkat MIRZIYOYEV reelected president in first round; percent of vote - Shavkat MIRZIYOYEV (LDPU) 80.3%, Maqsuda VORISOVA (PDP) 6.7%, Alisher QODIROV (National Revival Democratic Party) 5.5%, Narzullo OBLOMURODOV (Ecological Party) 4.1%, Bahrom ABDUHALIMOV (Adolat) 3.4%<br><br><em>2016:</em> Shavkat MIRZIYOYEV elected president in first round; percent of vote - Shavkat MIRZIYOYEV (LDPU) 88.6%, Hotamjon KETMONOV (PDP) 3.7%, Narimon UMAROV (Adolat) 3.5%, Sarvar OTAMURODOV (National Revival Democratic Party) 2.4%, other 1.8%<br>
 
 **Legislative branch**<br>
 _description_: bicameral Supreme Assembly or Oliy Majlis consists of:<br>Senate or Senat (100 seats; 84 members indirectly elected by regional governing councils and 16 appointed by the president; members serve 5-year terms)<br>Legislative Chamber or Qonunchilik Palatasi (150 seats; members directly elected in single-seat constituencies by absolute majority vote with a second round if needed; members serve 5-year terms)<br>
@@ -535,35 +535,35 @@ _Currency_: Uzbekistani soum (UZS) per US dollar -<br>
 _electrification - total population_: 100% (2020)<br>
 
 **Electricity**<br>
-_Installed generating capacity_: 16.042 million kW (2020 est.)<br>
-_Consumption_: 57,605,687,000 kWh (2019 est.)<br>
-_Exports_: 2.067 billion kWh (2019 est.)<br>
-_Imports_: 3.379 billion kWh (2019 est.)<br>
-_Transmission/distribution losses_: 3.858 billion kWh (2019 est.)<br>
+_installed generating capacity_: 16.042 million kW (2020 est.)<br>
+_consumption_: 57,605,687,000 kWh (2019 est.)<br>
+_exports_: 2.067 billion kWh (2019 est.)<br>
+_imports_: 3.379 billion kWh (2019 est.)<br>
+_transmission/distribution losses_: 3.858 billion kWh (2019 est.)<br>
 
 **Electricity generation sources**<br>
-_Fossil fuels_: 88.1% of total installed capacity (2020 est.)<br>
-_Nuclear_: 0% of total installed capacity (2020 est.)<br>
-_Solar_: 0% of total installed capacity (2020 est.)<br>
-_Wind_: 0% of total installed capacity (2020 est.)<br>
-_Hydroelectricity_: 11.9% of total installed capacity (2020 est.)<br>
-_Tide and wave_: 0% of total installed capacity (2020 est.)<br>
-_Geothermal_: 0% of total installed capacity (2020 est.)<br>
-_Biomass and waste_: 0% of total installed capacity (2020 est.)<br>
+_fossil fuels_: 88.1% of total installed capacity (2020 est.)<br>
+_nuclear_: 0% of total installed capacity (2020 est.)<br>
+_solar_: 0% of total installed capacity (2020 est.)<br>
+_wind_: 0% of total installed capacity (2020 est.)<br>
+_hydroelectricity_: 11.9% of total installed capacity (2020 est.)<br>
+_tide and wave_: 0% of total installed capacity (2020 est.)<br>
+_geothermal_: 0% of total installed capacity (2020 est.)<br>
+_biomass and waste_: 0% of total installed capacity (2020 est.)<br>
 
 **Coal**<br>
-_Production_: 3.98 million metric tons (2020 est.)<br>
-_Consumption_: 5.668 million metric tons (2020 est.)<br>
-_Exports_: 1,000 metric tons (2020 est.)<br>
-_Imports_: 2.995 million metric tons (2020 est.)<br>
-_Proven reserves_: 1.375 billion metric tons (2019 est.)<br>
+_production_: 3.98 million metric tons (2020 est.)<br>
+_consumption_: 5.668 million metric tons (2020 est.)<br>
+_exports_: 1,000 metric tons (2020 est.)<br>
+_imports_: 2.995 million metric tons (2020 est.)<br>
+_proven reserves_: 1.375 billion metric tons (2019 est.)<br>
 
 **Petroleum**<br>
-_Total petroleum production_: 5,200 bbl/day (2021 est.)<br>
-_Refined petroleum consumption_: 98,200 bbl/day (2019 est.)<br>
-_Crude oil and lease condensate exports_: 0 barrels/day (2018 est.)<br>
-_Crude oil and lease condensate imports_: 24,000 barrels/day (2018 est.)<br>
-_Crude oil estimated reserves_: 594 million barrels (2021 est.)<br>
+_total petroleum production_: 5,200 bbl/day (2021 est.)<br>
+_refined petroleum consumption_: 98,200 bbl/day (2019 est.)<br>
+_crude oil and lease condensate exports_: 0 barrels/day (2018 est.)<br>
+_crude oil and lease condensate imports_: 24,000 barrels/day (2018 est.)<br>
+_crude oil estimated reserves_: 594 million barrels (2021 est.)<br>
 
 **Refined petroleum products - production**<br>
 61,740 bbl/day (2015 est.)<br>
@@ -575,17 +575,17 @@ _Crude oil estimated reserves_: 594 million barrels (2021 est.)<br>
 0 bbl/day (2015 est.)<br>
 
 **Natural gas**<br>
-_Production_: 46,968,227,000 cubic meters (2020 est.)<br>
-_Consumption_: 43,882,007,000 cubic meters (2019 est.)<br>
-_Exports_: 13,283,524,000 cubic meters (2019 est.)<br>
-_Imports_: 0 cubic meters (2020 est.)<br>
-_Proven reserves_: 1,840,592,000,000 cubic meters (2021 est.)<br>
+_production_: 46,968,227,000 cubic meters (2020 est.)<br>
+_consumption_: 43,882,007,000 cubic meters (2019 est.)<br>
+_exports_: 13,283,524,000 cubic meters (2019 est.)<br>
+_imports_: 0 cubic meters (2020 est.)<br>
+_proven reserves_: 1,840,592,000,000 cubic meters (2021 est.)<br>
 
 **Carbon dioxide emissions**<br>
-_Total emissions_: 102.965 million metric tonnes of CO2 (2019 est.)<br>
-_From coal and metallurgical coke_: 7.816 million metric tonnes of CO2 (2019 est.)<br>
-_From petroleum and other liquids_: 11.53 million metric tonnes of CO2 (2019 est.)<br>
-_From consumed natural gas_: 83.619 million metric tonnes of CO2 (2019 est.)<br>
+_total emissions_: 102.965 million metric tonnes of CO2 (2019 est.)<br>
+_from coal and metallurgical coke_: 7.816 million metric tonnes of CO2 (2019 est.)<br>
+_from petroleum and other liquids_: 11.53 million metric tonnes of CO2 (2019 est.)<br>
+_from consumed natural gas_: 83.619 million metric tonnes of CO2 (2019 est.)<br>
 
 **Energy consumption per capita**<br>
 _Total energy consumption per capita 2019_: 57.709 million Btu/person (2019 est.)<br>

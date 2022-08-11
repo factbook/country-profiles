@@ -540,35 +540,35 @@ _electrification - urban areas_: 99% (2019)<br>
 _electrification - rural areas_: 93% (2019)<br>
 
 **Electricity**<br>
-_Installed generating capacity_: 2.586 million kW (2020 est.)<br>
-_Consumption_: 6,443,200,000 kWh (2019 est.)<br>
-_Exports_: 158 million kWh (2019 est.)<br>
-_Imports_: 1.45 billion kWh (2019 est.)<br>
-_Transmission/distribution losses_: 795.8 million kWh (2019 est.)<br>
+_installed generating capacity_: 2.586 million kW (2020 est.)<br>
+_consumption_: 6,443,200,000 kWh (2019 est.)<br>
+_exports_: 158 million kWh (2019 est.)<br>
+_imports_: 1.45 billion kWh (2019 est.)<br>
+_transmission/distribution losses_: 795.8 million kWh (2019 est.)<br>
 
 **Electricity generation sources**<br>
-_Fossil fuels_: 28.2% of total installed capacity (2020 est.)<br>
-_Nuclear_: 0% of total installed capacity (2020 est.)<br>
-_Solar_: 7.5% of total installed capacity (2020 est.)<br>
-_Wind_: 0% of total installed capacity (2020 est.)<br>
-_Hydroelectricity_: 30% of total installed capacity (2020 est.)<br>
-_Tide and wave_: 0% of total installed capacity (2020 est.)<br>
-_Geothermal_: 22.2% of total installed capacity (2020 est.)<br>
-_Biomass and waste_: 12.1% of total installed capacity (2020 est.)<br>
+_fossil fuels_: 28.2% of total installed capacity (2020 est.)<br>
+_nuclear_: 0% of total installed capacity (2020 est.)<br>
+_solar_: 7.5% of total installed capacity (2020 est.)<br>
+_wind_: 0% of total installed capacity (2020 est.)<br>
+_hydroelectricity_: 30% of total installed capacity (2020 est.)<br>
+_tide and wave_: 0% of total installed capacity (2020 est.)<br>
+_geothermal_: 22.2% of total installed capacity (2020 est.)<br>
+_biomass and waste_: 12.1% of total installed capacity (2020 est.)<br>
 
 **Coal**<br>
-_Production_: 0 metric tons (2020 est.)<br>
-_Consumption_: 1,000 metric tons (2020 est.)<br>
-_Exports_: 0 metric tons (2020 est.)<br>
-_Imports_: 1,000 metric tons (2020 est.)<br>
-_Proven reserves_: 0 metric tons (2019 est.)<br>
+_production_: 0 metric tons (2020 est.)<br>
+_consumption_: 1,000 metric tons (2020 est.)<br>
+_exports_: 0 metric tons (2020 est.)<br>
+_imports_: 1,000 metric tons (2020 est.)<br>
+_proven reserves_: 0 metric tons (2019 est.)<br>
 
 **Petroleum**<br>
-_Total petroleum production_: 0 bbl/day (2021 est.)<br>
-_Refined petroleum consumption_: 59,100 bbl/day (2019 est.)<br>
-_Crude oil and lease condensate exports_: 0 barrels/day (2018 est.)<br>
-_Crude oil and lease condensate imports_: 0 barrels/day (2018 est.)<br>
-_Crude oil estimated reserves_: 0 barrels (2021 est.)<br>
+_total petroleum production_: 0 bbl/day (2021 est.)<br>
+_refined petroleum consumption_: 59,100 bbl/day (2019 est.)<br>
+_crude oil and lease condensate exports_: 0 barrels/day (2018 est.)<br>
+_crude oil and lease condensate imports_: 0 barrels/day (2018 est.)<br>
+_crude oil estimated reserves_: 0 barrels (2021 est.)<br>
 
 **Refined petroleum products - production**<br>
 0 bbl/day (2015 est.)<br>
@@ -580,17 +580,17 @@ _Crude oil estimated reserves_: 0 barrels (2021 est.)<br>
 49,280 bbl/day (2015 est.)<br>
 
 **Natural gas**<br>
-_Production_: 0 cubic meters (2021 est.)<br>
-_Consumption_: 0 cubic meters (2021 est.)<br>
-_Exports_: 0 cubic meters (2021 est.)<br>
-_Imports_: 0 cubic meters (2021 est.)<br>
-_Proven reserves_: 0 cubic meters (2021 est.)<br>
+_production_: 0 cubic meters (2021 est.)<br>
+_consumption_: 0 cubic meters (2021 est.)<br>
+_exports_: 0 cubic meters (2021 est.)<br>
+_imports_: 0 cubic meters (2021 est.)<br>
+_proven reserves_: 0 cubic meters (2021 est.)<br>
 
 **Carbon dioxide emissions**<br>
-_Total emissions_: 7.632 million metric tonnes of CO2 (2019 est.)<br>
-_From coal and metallurgical coke_: 2,000 metric tonnes of CO2 (2019 est.)<br>
-_From petroleum and other liquids_: 7.63 million metric tonnes of CO2 (2019 est.)<br>
-_From consumed natural gas_: 0 metric tonnes of CO2 (2019 est.)<br>
+_total emissions_: 7.632 million metric tonnes of CO2 (2019 est.)<br>
+_from coal and metallurgical coke_: 2,000 metric tonnes of CO2 (2019 est.)<br>
+_from petroleum and other liquids_: 7.63 million metric tonnes of CO2 (2019 est.)<br>
+_from consumed natural gas_: 0 metric tonnes of CO2 (2019 est.)<br>
 
 **Energy consumption per capita**<br>
 _Total energy consumption per capita 2019_: 24.124 million Btu/person (2019 est.)<br>
@@ -689,7 +689,7 @@ the Armed Force of El Salvador (La Fuerza Armada de El Salvador, FAES): Army of 
 1% of GDP (2017) (approximately $500 million)<br>
 
 **Military and security service personnel strengths**<br>
-approximately 21,000 active troops (17,000 Army; 2,000 Navy; 2,000 Air Force) (2022)<br>
+approximately 21,000 active military personnel (17,000 Army; 2,000 Navy; 2,000 Air Force) (2022)<br>
 <strong>note:</strong> in 2021, El Salvador announced intentions to double the size of the military, although no time frame was given<br>
 
 **Military equipment inventories and acquisitions**<br>
@@ -700,7 +700,7 @@ the FAES is dependent on a mix of mostly older imported platforms, largely from 
 <strong>note:</strong> as of 2016, women made up about 6% of the active duty military<br>
 
 **Military deployments**<br>
-175 Mali (MINUSMA) (Jan 2022)<br>
+175 Mali (MINUSMA) (May 2022)<br>
 
 **Military - note**<br>
 the National Civilian Police (Ministry of Justice and Public Security) is responsible for maintaining public security, while the Ministry of Defense is responsible for maintaining national security; the constitution separates public security and military functions, but allows the president to use the armed forces in exceptional circumstances to maintain internal peace and public security; in November 2019, President BUKELE signed a decree authorizing military involvement in police duties to combat gang violence, organized crime, and narcotics trafficking, as well as assisting with border security; as of 2022, a considerable portion of the Army was deployed in support of the National Police (2022)<br>

@@ -579,35 +579,35 @@ _electrification - urban areas_: 91% (2019)<br>
 _electrification - rural areas_: 72% (2019)<br>
 
 **Electricity**<br>
-_Installed generating capacity_: 39.925 million kW (2020 est.)<br>
-_Consumption_: 103,493,520,000 kWh (2019 est.)<br>
-_Exports_: 0 kWh (2019 est.)<br>
-_Imports_: 487 million kWh (2019 est.)<br>
-_Transmission/distribution losses_: 17.389 billion kWh (2019 est.)<br>
+_installed generating capacity_: 39.925 million kW (2020 est.)<br>
+_consumption_: 103,493,520,000 kWh (2019 est.)<br>
+_exports_: 0 kWh (2019 est.)<br>
+_imports_: 487 million kWh (2019 est.)<br>
+_transmission/distribution losses_: 17.389 billion kWh (2019 est.)<br>
 
 **Electricity generation sources**<br>
-_Fossil fuels_: 55.2% of total installed capacity (2020 est.)<br>
-_Nuclear_: 8.2% of total installed capacity (2020 est.)<br>
-_Solar_: 1% of total installed capacity (2020 est.)<br>
-_Wind_: 2.8% of total installed capacity (2020 est.)<br>
-_Hydroelectricity_: 31.9% of total installed capacity (2020 est.)<br>
-_Tide and wave_: 0% of total installed capacity (2020 est.)<br>
-_Geothermal_: 0% of total installed capacity (2020 est.)<br>
-_Biomass and waste_: 0.8% of total installed capacity (2020 est.)<br>
+_fossil fuels_: 55.2% of total installed capacity (2020 est.)<br>
+_nuclear_: 8.2% of total installed capacity (2020 est.)<br>
+_solar_: 1% of total installed capacity (2020 est.)<br>
+_wind_: 2.8% of total installed capacity (2020 est.)<br>
+_hydroelectricity_: 31.9% of total installed capacity (2020 est.)<br>
+_tide and wave_: 0% of total installed capacity (2020 est.)<br>
+_geothermal_: 0% of total installed capacity (2020 est.)<br>
+_biomass and waste_: 0.8% of total installed capacity (2020 est.)<br>
 
 **Coal**<br>
-_Production_: 4.855 million metric tons (2020 est.)<br>
-_Consumption_: 21.012 million metric tons (2020 est.)<br>
-_Exports_: 1,000 metric tons (2020 est.)<br>
-_Imports_: 17.239 million metric tons (2020 est.)<br>
-_Proven reserves_: 3.064 billion metric tons (2019 est.)<br>
+_production_: 4.855 million metric tons (2020 est.)<br>
+_consumption_: 21.012 million metric tons (2020 est.)<br>
+_exports_: 1,000 metric tons (2020 est.)<br>
+_imports_: 17.239 million metric tons (2020 est.)<br>
+_proven reserves_: 3.064 billion metric tons (2019 est.)<br>
 
 **Petroleum**<br>
-_Total petroleum production_: 100,700 bbl/day (2021 est.)<br>
-_Refined petroleum consumption_: 493,400 bbl/day (2019 est.)<br>
-_Crude oil and lease condensate exports_: 7,800 barrels/day (2018 est.)<br>
-_Crude oil and lease condensate imports_: 198,400 barrels/day (2018 est.)<br>
-_Crude oil estimated reserves_: 540 million barrels (2021 est.)<br>
+_total petroleum production_: 100,700 bbl/day (2021 est.)<br>
+_refined petroleum consumption_: 493,400 bbl/day (2019 est.)<br>
+_crude oil and lease condensate exports_: 7,800 barrels/day (2018 est.)<br>
+_crude oil and lease condensate imports_: 198,400 barrels/day (2018 est.)<br>
+_crude oil estimated reserves_: 540 million barrels (2021 est.)<br>
 
 **Refined petroleum products - production**<br>
 291,200 bbl/day (2015 est.)<br>
@@ -619,17 +619,17 @@ _Crude oil estimated reserves_: 540 million barrels (2021 est.)<br>
 264,500 bbl/day (2015 est.)<br>
 
 **Natural gas**<br>
-_Production_: 38,056,250,000 cubic meters (2019 est.)<br>
-_Consumption_: 48,391,627,000 cubic meters (2019 est.)<br>
-_Exports_: 0 cubic meters (2021 est.)<br>
-_Imports_: 10,743,167,000 cubic meters (2019 est.)<br>
-_Proven reserves_: 592.218 billion cubic meters (2021 est.)<br>
+_production_: 38,056,250,000 cubic meters (2019 est.)<br>
+_consumption_: 48,391,627,000 cubic meters (2019 est.)<br>
+_exports_: 0 cubic meters (2021 est.)<br>
+_imports_: 10,743,167,000 cubic meters (2019 est.)<br>
+_proven reserves_: 592.218 billion cubic meters (2021 est.)<br>
 
 **Carbon dioxide emissions**<br>
-_Total emissions_: 193.869 million metric tonnes of CO2 (2019 est.)<br>
-_From coal and metallurgical coke_: 47.468 million metric tonnes of CO2 (2019 est.)<br>
-_From petroleum and other liquids_: 67.789 million metric tonnes of CO2 (2019 est.)<br>
-_From consumed natural gas_: 78.611 million metric tonnes of CO2 (2019 est.)<br>
+_total emissions_: 193.869 million metric tonnes of CO2 (2019 est.)<br>
+_from coal and metallurgical coke_: 47.468 million metric tonnes of CO2 (2019 est.)<br>
+_from petroleum and other liquids_: 67.789 million metric tonnes of CO2 (2019 est.)<br>
+_from consumed natural gas_: 78.611 million metric tonnes of CO2 (2019 est.)<br>
 
 **Energy consumption per capita**<br>
 _Total energy consumption per capita 2019_: 15.859 million Btu/person (2019 est.)<br>
@@ -732,7 +732,7 @@ Pakistan Army (includes National Guard), Pakistan Navy (includes marines, Mariti
 4.1% of GDP (2018) (approximately $21.6 billion)<br>
 
 **Military and security service personnel strengths**<br>
-information varies; approximately 625,000 active personnel (550,000 Army; 30,000 Navy; 45,000 Air Force); approximately 150,000 paramilitary (2022)<br>
+information varies; approximately 630,000 active personnel (550,000 Army; 30,000 Navy; 50,000 Air Force); approximately 150,000 Frontier Corps and Pakistan Rangers (2022)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the Pakistan military inventory includes a broad mix of equipment, primarily from China, France, Russia, Turkey, Ukraine, the UK, and the US; since 2010, China is the leading supplier of arms to Pakistan; Pakistan also has a large domestic defense industry (2022)<br>
@@ -741,7 +741,7 @@ the Pakistan military inventory includes a broad mix of equipment, primarily fro
 16 (or 17 depending on service)-23 years of age for voluntary military service; soldiers cannot be deployed for combat until age 18; women serve in all three armed forces; reserve obligation to age 45 for enlisted men, age 50 for officers (2022)<br>
 
 **Military deployments**<br>
-1,300 Central African Republic (MINUSCA); 1,950 Democratic Republic of the Congo (MONUSCO); 220 Mali (MINUSMA); 280 South Sudan (UNMISS) (Feb 2022)<br>
+1,300 Central African Republic (MINUSCA); 1,970 Democratic Republic of the Congo (MONUSCO); 220 Mali (MINUSMA); 290 South Sudan (UNMISS); 220 Sudan (UNISFA) (May 2022)<br>
 
 **Military - note**<br>
 <p>the military has carried out three coups since Pakistan's independence in 1947 and as of 2022 remained a dominant force in the country’s political arena; its chief external focus was on the perceived threat from India, as well as implications of the fall of the government in Kabul, but over the past 15 years, the military also has increased its role in internal security missions, including counterinsurgency and counterterrorism; it is the lead security agency in many areas of the former Federally Administered Tribal Areas</p> <p>Pakistan and India have fought several conflicts since 1947, including the Indo-Pakistan War of 1965 and the Indo-Pakistan and Bangladesh War of Independence of 1971, as well as two clashes over the disputed region of Kashmir (First Kashmir War of 1947 and the Kargil Conflict of 1999); a fragile cease-fire in Kashmir was reached in 2003, revised in 2018, and reaffirmed in 2021, although the Line of Control remained contested as of 2022, and India has accused Pakistan of backing armed separatists and terrorist organizations in Jammu and Kashmir; in addition, India and Pakistan have battled over the Siachen Glacier of Kashmir, which was seized by India in 1984 with Pakistan attempting to retake the area in 1985, 1987, and 1995; despite a cease-fire, as of 2022 both sides continued to maintain a permanent military presence there with outposts at altitudes above 20,000 feet (over 6,000 meters) where most casualties were due to extreme weather or the hazards of operating in the high mountain terrain of the world’s highest conflict, including avalanches, exposure, and altitude sickness<br><br>Pakistan has Major Non-NATO Ally (MNNA) status with the US; MNNA is a designation under US law that provides foreign partners with certain benefits in the areas of defense trade and security cooperation; while MNNA status provides military and economic privileges, it does not entail any security commitments</p><br>

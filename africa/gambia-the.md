@@ -337,7 +337,7 @@ _etymology_: Banjul is located on Saint Mary's Island at the mouth of the Gambia
 Independence Day, 18 February (1965)<br>
 
 **Constitution**<br>
-_history_: previous 1965 (Independence Act), 1970; latest adopted 8 April 1996, approved by referendum 8 August 1996, effective 16 January 1997; note - in early 2018, the "Constitutional Review Commission," was established to draft&nbsp; and assist in instituting a new constitution; a second draft completed in March 2020 was rejected by the National Assembly in September<br>
+_history_: previous 1965 (Independence Act), 1970; latest adopted 8 April 1996, approved by referendum 8 August 1996, effective 16 January 1997; note - in early 2018, the "Constitutional Review Commission," was established to draft&nbsp; and assist in instituting a new constitution; a second draft completed in March 2020 was rejected by the National Assembly in September; the president announced in January 2022 government plans to draft a new constitution&nbsp;<br>
 _amendments_: proposed by the National Assembly; passage requires at least three-fourths majority vote by the Assembly membership in each of several readings and approval by the president of the republic; a referendum is required for amendments affecting national sovereignty, fundamental rights and freedoms, government structures and authorities, taxation, and public funding; passage by referendum requires participation of at least 50% of eligible voters and approval by at least 75% of votes cast; amended 2001, 2004, 2018<br>
 
 **Legal system**<br>
@@ -551,35 +551,35 @@ _electrification - urban areas_: 69% (2019)<br>
 _electrification - rural areas_: 16% (2019)<br>
 
 **Electricity**<br>
-_Installed generating capacity_: 137,000 kW (2020 est.)<br>
-_Consumption_: 235.035 million kWh (2019 est.)<br>
-_Exports_: 0 kWh (2019 est.)<br>
-_Imports_: 0 kWh (2019 est.)<br>
-_Transmission/distribution losses_: 69.8 million kWh (2019 est.)<br>
+_installed generating capacity_: 137,000 kW (2020 est.)<br>
+_consumption_: 235.035 million kWh (2019 est.)<br>
+_exports_: 0 kWh (2019 est.)<br>
+_imports_: 0 kWh (2019 est.)<br>
+_transmission/distribution losses_: 69.8 million kWh (2019 est.)<br>
 
 **Electricity generation sources**<br>
-_Fossil fuels_: 98.9% of total installed capacity (2020 est.)<br>
-_Nuclear_: 0% of total installed capacity (2020 est.)<br>
-_Solar_: 1% of total installed capacity (2020 est.)<br>
-_Wind_: 0% of total installed capacity (2020 est.)<br>
-_Hydroelectricity_: 0% of total installed capacity (2020 est.)<br>
-_Tide and wave_: 0% of total installed capacity (2020 est.)<br>
-_Geothermal_: 0% of total installed capacity (2020 est.)<br>
-_Biomass and waste_: 0% of total installed capacity (2020 est.)<br>
+_fossil fuels_: 98.9% of total installed capacity (2020 est.)<br>
+_nuclear_: 0% of total installed capacity (2020 est.)<br>
+_solar_: 1% of total installed capacity (2020 est.)<br>
+_wind_: 0% of total installed capacity (2020 est.)<br>
+_hydroelectricity_: 0% of total installed capacity (2020 est.)<br>
+_tide and wave_: 0% of total installed capacity (2020 est.)<br>
+_geothermal_: 0% of total installed capacity (2020 est.)<br>
+_biomass and waste_: 0% of total installed capacity (2020 est.)<br>
 
 **Coal**<br>
-_Production_: 0 metric tons (2020 est.)<br>
-_Consumption_: 0 metric tons (2020 est.)<br>
-_Exports_: 0 metric tons (2020 est.)<br>
-_Imports_: 0 metric tons (2020 est.)<br>
-_Proven reserves_: 0 metric tons (2019 est.)<br>
+_production_: 0 metric tons (2020 est.)<br>
+_consumption_: 0 metric tons (2020 est.)<br>
+_exports_: 0 metric tons (2020 est.)<br>
+_imports_: 0 metric tons (2020 est.)<br>
+_proven reserves_: 0 metric tons (2019 est.)<br>
 
 **Petroleum**<br>
-_Total petroleum production_: 0 bbl/day (2021 est.)<br>
-_Refined petroleum consumption_: 3,900 bbl/day (2019 est.)<br>
-_Crude oil and lease condensate exports_: 0 barrels/day (2018 est.)<br>
-_Crude oil and lease condensate imports_: 0 barrels/day (2018 est.)<br>
-_Crude oil estimated reserves_: 0 barrels (2021 est.)<br>
+_total petroleum production_: 0 bbl/day (2021 est.)<br>
+_refined petroleum consumption_: 3,900 bbl/day (2019 est.)<br>
+_crude oil and lease condensate exports_: 0 barrels/day (2018 est.)<br>
+_crude oil and lease condensate imports_: 0 barrels/day (2018 est.)<br>
+_crude oil estimated reserves_: 0 barrels (2021 est.)<br>
 
 **Refined petroleum products - production**<br>
 0 bbl/day (2017 est.)<br>
@@ -591,17 +591,17 @@ _Crude oil estimated reserves_: 0 barrels (2021 est.)<br>
 3,738 bbl/day (2015 est.)<br>
 
 **Natural gas**<br>
-_Production_: 0 cubic meters (2021 est.)<br>
-_Consumption_: 0 cubic meters (2021 est.)<br>
-_Exports_: 0 cubic meters (2021 est.)<br>
-_Imports_: 0 cubic meters (2021 est.)<br>
-_Proven reserves_: 0 cubic meters (2021 est.)<br>
+_production_: 0 cubic meters (2021 est.)<br>
+_consumption_: 0 cubic meters (2021 est.)<br>
+_exports_: 0 cubic meters (2021 est.)<br>
+_imports_: 0 cubic meters (2021 est.)<br>
+_proven reserves_: 0 cubic meters (2021 est.)<br>
 
 **Carbon dioxide emissions**<br>
-_Total emissions_: 606,000 metric tonnes of CO2 (2019 est.)<br>
-_From coal and metallurgical coke_: 0 metric tonnes of CO2 (2019 est.)<br>
-_From petroleum and other liquids_: 606,000 metric tonnes of CO2 (2019 est.)<br>
-_From consumed natural gas_: 0 metric tonnes of CO2 (2019 est.)<br>
+_total emissions_: 606,000 metric tonnes of CO2 (2019 est.)<br>
+_from coal and metallurgical coke_: 0 metric tonnes of CO2 (2019 est.)<br>
+_from petroleum and other liquids_: 606,000 metric tonnes of CO2 (2019 est.)<br>
+_from consumed natural gas_: 0 metric tonnes of CO2 (2019 est.)<br>
 
 **Energy consumption per capita**<br>
 _Total energy consumption per capita 2019_: 3.547 million Btu/person (2019 est.)<br>

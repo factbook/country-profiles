@@ -341,11 +341,11 @@ _residency requirement for naturalization_: 5 years or 3 years of continuous res
 18 years of age; universal<br>
 
 **Executive branch**<br>
-_chief of state_: President Emomali RAHMON (since 6 November 1994; head of state and Supreme Assembly chairman since 19 November 1992)<br>
+_chief of state_: President Emomali RAHMON (since 6 November 1994; head of state and Supreme Assembly Chairman since 19 November 1992)<br>
 _head of government_: Prime Minister Qohir RASULZODA (since 23 November 2013)<br>
 _cabinet_: Council of Ministers appointed by the president, approved by the Supreme Assembly<br>
 _elections/appointments_: president directly elected by simple majority popular vote for a 7-year term for a maximum of two terms; however, as the "Leader of the Nation" President RAHMON can run an unlimited number of times; election last held on 11 October 2020 (next to be held in 2027); prime minister appointed by the president<br>
-_election results_: Emomali RAHMON reelected president; percent of vote - Emomali RAHMON (PDPT) 90.9%<br>
+_election results_: 2020: Emomali RAHMON reelected president; percent of vote - Emomali RAHMON (PDPT) 92.1%, Rustam LATIFZODA 3.1%, and other 4.8%<br><br>2013: Emomali RAHMOND reelected president; percent of vote 84%, Ismoil TALBAKOV 5%, other 11%<br>
 
 **Legislative branch**<br>
 _description_: bicameral Supreme Assembly or Majlisi Oli consists of:<br>National Assembly or Majlisi Milli (34 seats; 25 members indirectly elected by local representative assemblies or majlisi, 8 appointed by the president, and 1 reserved for each living former president; members serve 5-year terms)<br>Assembly of Representatives or Majlisi Namoyandagon (63 seats; 41 members directly elected in single-seat constituencies by 2-round absolute majority vote and 22 directly elected in a single nationwide constituency by closed-list proportional representation vote; members serve 5-year terms)<br>
@@ -538,35 +538,35 @@ _Currency_: Tajikistani somoni (TJS) per US dollar -<br>
 _electrification - total population_: 100% (2020)<br>
 
 **Electricity**<br>
-_Installed generating capacity_: 7.114 million kW (2020 est.)<br>
-_Consumption_: 15,070,890,000 kWh (2019 est.)<br>
-_Exports_: 3.175 billion kWh (2019 est.)<br>
-_Imports_: 281 million kWh (2019 est.)<br>
-_Transmission/distribution losses_: 2.429 billion kWh (2019 est.)<br>
+_installed generating capacity_: 7.114 million kW (2020 est.)<br>
+_consumption_: 15,070,890,000 kWh (2019 est.)<br>
+_exports_: 3.175 billion kWh (2019 est.)<br>
+_imports_: 281 million kWh (2019 est.)<br>
+_transmission/distribution losses_: 2.429 billion kWh (2019 est.)<br>
 
 **Electricity generation sources**<br>
-_Fossil fuels_: 8.7% of total installed capacity (2020 est.)<br>
-_Nuclear_: 0% of total installed capacity (2020 est.)<br>
-_Solar_: 0% of total installed capacity (2020 est.)<br>
-_Wind_: 0% of total installed capacity (2020 est.)<br>
-_Hydroelectricity_: 91.3% of total installed capacity (2020 est.)<br>
-_Tide and wave_: 0% of total installed capacity (2020 est.)<br>
-_Geothermal_: 0% of total installed capacity (2020 est.)<br>
-_Biomass and waste_: 0% of total installed capacity (2020 est.)<br>
+_fossil fuels_: 8.7% of total installed capacity (2020 est.)<br>
+_nuclear_: 0% of total installed capacity (2020 est.)<br>
+_solar_: 0% of total installed capacity (2020 est.)<br>
+_wind_: 0% of total installed capacity (2020 est.)<br>
+_hydroelectricity_: 91.3% of total installed capacity (2020 est.)<br>
+_tide and wave_: 0% of total installed capacity (2020 est.)<br>
+_geothermal_: 0% of total installed capacity (2020 est.)<br>
+_biomass and waste_: 0% of total installed capacity (2020 est.)<br>
 
 **Coal**<br>
-_Production_: 2.103 million metric tons (2020 est.)<br>
-_Consumption_: 2.16 million metric tons (2020 est.)<br>
-_Exports_: 0 metric tons (2020 est.)<br>
-_Imports_: 57,000 metric tons (2020 est.)<br>
-_Proven reserves_: 375 million metric tons (2019 est.)<br>
+_production_: 2.103 million metric tons (2020 est.)<br>
+_consumption_: 2.16 million metric tons (2020 est.)<br>
+_exports_: 0 metric tons (2020 est.)<br>
+_imports_: 57,000 metric tons (2020 est.)<br>
+_proven reserves_: 375 million metric tons (2019 est.)<br>
 
 **Petroleum**<br>
-_Total petroleum production_: 300 bbl/day (2021 est.)<br>
-_Refined petroleum consumption_: 26,200 bbl/day (2019 est.)<br>
-_Crude oil and lease condensate exports_: 0 barrels/day (2018 est.)<br>
-_Crude oil and lease condensate imports_: 900 barrels/day (2018 est.)<br>
-_Crude oil estimated reserves_: 12 million barrels (2021 est.)<br>
+_total petroleum production_: 300 bbl/day (2021 est.)<br>
+_refined petroleum consumption_: 26,200 bbl/day (2019 est.)<br>
+_crude oil and lease condensate exports_: 0 barrels/day (2018 est.)<br>
+_crude oil and lease condensate imports_: 900 barrels/day (2018 est.)<br>
+_crude oil estimated reserves_: 12 million barrels (2021 est.)<br>
 
 **Refined petroleum products - production**<br>
 172 bbl/day (2015 est.)<br>
@@ -578,17 +578,17 @@ _Crude oil estimated reserves_: 12 million barrels (2021 est.)<br>
 22,460 bbl/day (2015 est.)<br>
 
 **Natural gas**<br>
-_Production_: 18.208 million cubic meters (2019 est.)<br>
-_Consumption_: 157.611 million cubic meters (2019 est.)<br>
-_Exports_: 0 cubic meters (2021 est.)<br>
-_Imports_: 139.375 million cubic meters (2019 est.)<br>
-_Proven reserves_: 5.663 billion cubic meters (2021 est.)<br>
+_production_: 18.208 million cubic meters (2019 est.)<br>
+_consumption_: 157.611 million cubic meters (2019 est.)<br>
+_exports_: 0 cubic meters (2021 est.)<br>
+_imports_: 139.375 million cubic meters (2019 est.)<br>
+_proven reserves_: 5.663 billion cubic meters (2021 est.)<br>
 
 **Carbon dioxide emissions**<br>
-_Total emissions_: 7.643 million metric tonnes of CO2 (2019 est.)<br>
-_From coal and metallurgical coke_: 4.362 million metric tonnes of CO2 (2019 est.)<br>
-_From petroleum and other liquids_: 2.971 million metric tonnes of CO2 (2019 est.)<br>
-_From consumed natural gas_: 309,000 metric tonnes of CO2 (2019 est.)<br>
+_total emissions_: 7.643 million metric tonnes of CO2 (2019 est.)<br>
+_from coal and metallurgical coke_: 4.362 million metric tonnes of CO2 (2019 est.)<br>
+_from petroleum and other liquids_: 2.971 million metric tonnes of CO2 (2019 est.)<br>
+_from consumed natural gas_: 309,000 metric tonnes of CO2 (2019 est.)<br>
 
 **Energy consumption per capita**<br>
 _Total energy consumption per capita 2019_: 27.651 million Btu/person (2019 est.)<br>

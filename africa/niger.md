@@ -573,35 +573,35 @@ _electrification - urban areas_: 71% (2019)<br>
 _electrification - rural areas_: 2% (2019)<br>
 
 **Electricity**<br>
-_Installed generating capacity_: 324,000 kW (2020 est.)<br>
-_Consumption_: 1,325,420,000 kWh (2019 est.)<br>
-_Exports_: 0 kWh (2019 est.)<br>
-_Imports_: 1.057 billion kWh (2019 est.)<br>
-_Transmission/distribution losses_: 313 million kWh (2019 est.)<br>
+_installed generating capacity_: 324,000 kW (2020 est.)<br>
+_consumption_: 1,325,420,000 kWh (2019 est.)<br>
+_exports_: 0 kWh (2019 est.)<br>
+_imports_: 1.057 billion kWh (2019 est.)<br>
+_transmission/distribution losses_: 313 million kWh (2019 est.)<br>
 
 **Electricity generation sources**<br>
-_Fossil fuels_: 94.1% of total installed capacity (2020 est.)<br>
-_Nuclear_: 0% of total installed capacity (2020 est.)<br>
-_Solar_: 5.9% of total installed capacity (2020 est.)<br>
-_Wind_: 0% of total installed capacity (2020 est.)<br>
-_Hydroelectricity_: 0% of total installed capacity (2020 est.)<br>
-_Tide and wave_: 0% of total installed capacity (2020 est.)<br>
-_Geothermal_: 0% of total installed capacity (2020 est.)<br>
-_Biomass and waste_: 0% of total installed capacity (2020 est.)<br>
+_fossil fuels_: 94.1% of total installed capacity (2020 est.)<br>
+_nuclear_: 0% of total installed capacity (2020 est.)<br>
+_solar_: 5.9% of total installed capacity (2020 est.)<br>
+_wind_: 0% of total installed capacity (2020 est.)<br>
+_hydroelectricity_: 0% of total installed capacity (2020 est.)<br>
+_tide and wave_: 0% of total installed capacity (2020 est.)<br>
+_geothermal_: 0% of total installed capacity (2020 est.)<br>
+_biomass and waste_: 0% of total installed capacity (2020 est.)<br>
 
 **Coal**<br>
-_Production_: 224,000 metric tons (2020 est.)<br>
-_Consumption_: 224,000 metric tons (2020 est.)<br>
-_Exports_: 0 metric tons (2020 est.)<br>
-_Imports_: 0 metric tons (2020 est.)<br>
-_Proven reserves_: 6 million metric tons (2019 est.)<br>
+_production_: 224,000 metric tons (2020 est.)<br>
+_consumption_: 224,000 metric tons (2020 est.)<br>
+_exports_: 0 metric tons (2020 est.)<br>
+_imports_: 0 metric tons (2020 est.)<br>
+_proven reserves_: 6 million metric tons (2019 est.)<br>
 
 **Petroleum**<br>
-_Total petroleum production_: 8,000 bbl/day (2021 est.)<br>
-_Refined petroleum consumption_: 13,800 bbl/day (2019 est.)<br>
-_Crude oil and lease condensate exports_: 0 barrels/day (2018 est.)<br>
-_Crude oil and lease condensate imports_: 0 barrels/day (2018 est.)<br>
-_Crude oil estimated reserves_: 150 million barrels (2021 est.)<br>
+_total petroleum production_: 8,000 bbl/day (2021 est.)<br>
+_refined petroleum consumption_: 13,800 bbl/day (2019 est.)<br>
+_crude oil and lease condensate exports_: 0 barrels/day (2018 est.)<br>
+_crude oil and lease condensate imports_: 0 barrels/day (2018 est.)<br>
+_crude oil estimated reserves_: 150 million barrels (2021 est.)<br>
 
 **Refined petroleum products - production**<br>
 15,280 bbl/day (2015 est.)<br>
@@ -613,17 +613,17 @@ _Crude oil estimated reserves_: 150 million barrels (2021 est.)<br>
 3,799 bbl/day (2015 est.)<br>
 
 **Natural gas**<br>
-_Production_: 0 cubic meters (2021 est.)<br>
-_Consumption_: 0 cubic meters (2021 est.)<br>
-_Exports_: 0 cubic meters (2021 est.)<br>
-_Imports_: 0 cubic meters (2021 est.)<br>
-_Proven reserves_: 0 cubic meters (2021 est.)<br>
+_production_: 0 cubic meters (2021 est.)<br>
+_consumption_: 0 cubic meters (2021 est.)<br>
+_exports_: 0 cubic meters (2021 est.)<br>
+_imports_: 0 cubic meters (2021 est.)<br>
+_proven reserves_: 0 cubic meters (2021 est.)<br>
 
 **Carbon dioxide emissions**<br>
-_Total emissions_: 2.374 million metric tonnes of CO2 (2019 est.)<br>
-_From coal and metallurgical coke_: 499,000 metric tonnes of CO2 (2019 est.)<br>
-_From petroleum and other liquids_: 1.875 million metric tonnes of CO2 (2019 est.)<br>
-_From consumed natural gas_: 0 metric tonnes of CO2 (2019 est.)<br>
+_total emissions_: 2.374 million metric tonnes of CO2 (2019 est.)<br>
+_from coal and metallurgical coke_: 499,000 metric tonnes of CO2 (2019 est.)<br>
+_from petroleum and other liquids_: 1.875 million metric tonnes of CO2 (2019 est.)<br>
+_from consumed natural gas_: 0 metric tonnes of CO2 (2019 est.)<br>
 
 **Energy consumption per capita**<br>
 _Total energy consumption per capita 2019_: 1.54 million Btu/person (2019 est.)<br>
@@ -722,8 +722,8 @@ the FAN's inventory consists of a wide variety of older weapons; since 2010, the
 has conscription, although it is reportedly not always enforced; 18 is the legal minimum age for compulsory or voluntary military service; enlistees must be Nigerien citizens and unmarried; 2-year service term; women may serve in health care (2022)<br>
 
 **Military deployments**<br>
-870 Mali (MINUSMA) (Feb 2022)<br>
-<strong>note 1:</strong> Niger is part of a five-nation anti-jihadist task force known as the G5 Sahel Group, set up in 2014 with Burkina Faso, Mali (withdrew in 2022), Mauritania, and Chad; it has committed 1,100 troops and 200 gendarmes to the force; in early 2020, G5 Sahel military chiefs of staff agreed to allow defense forces from each of the states to pursue terrorist fighters up to 100 km into neighboring countries; the G5 force is backed by the UN, US, and France<br><br><strong>note 2: </strong>Niger also has about 1,000 troops committed to the Multinational Joint Task Force (MNJTF) against Boko Haram and other terrorist groups operating in the general area of the Lake Chad Basin and along Nigeria's northeast border; national MNJTF troop contingents are deployed within their own country territories, although cross‐border operations are conducted periodically<br>
+875 Mali (MINUSMA) (May 2022)<br>
+<strong>note 1:</strong> Niger is part of a five-nation anti-jihadist task force known as the G5 (now G4) Sahel Group, set up in 2014 with Burkina Faso, Mali (withdrew in 2022), Mauritania, and Chad; it has committed 1,100 troops and 200 gendarmes to the force; in early 2020, G5 Sahel military chiefs of staff agreed to allow defense forces from each of the states to pursue terrorist fighters up to 100 km into neighboring countries; the force is backed by the UN, US, and France<br><br><strong>note 2: </strong>Niger also has about 1,000 troops committed to the Multinational Joint Task Force (MNJTF) against Boko Haram and other terrorist groups operating in the general area of the Lake Chad Basin and along Nigeria's northeast border; national MNJTF troop contingents are deployed within their own country territories, although cross‐border operations are conducted periodically<br>
 
 **Military - note**<br>
 as of 2022, the FAN was conducting counterinsurgency and counter-terrorism operations against Islamic militants on two fronts; in the Diffa region, the Nigeria-based Boko Haram terrorist group has conducted dozens of attacks on security forces, army bases, and civilians; on Niger&rsquo;s western border with Mali, the Islamic State-West Africa (ISWA) has conducted numerous attacks on security personnel; a series of ISWA attacks on FAN forces near the Malian border in December of 2019 and January of 2020 resulted in the deaths of more than 170 soldiers; terrorist attacks continued into 2022 (2022)<br>

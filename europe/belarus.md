@@ -548,35 +548,35 @@ _Currency_: Belarusian rubles (BYB/BYR) per US dollar -<br>
 _electrification - total population_: 100% (2020)<br>
 
 **Electricity**<br>
-_Installed generating capacity_: 11.36 million kW (2020 est.)<br>
-_Consumption_: 32,665,500,000 kWh (2019 est.)<br>
-_Exports_: 4.777 billion kWh (2020 est.)<br>
-_Imports_: 4.277 billion kWh (2020 est.)<br>
-_Transmission/distribution losses_: 2.711 billion kWh (2019 est.)<br>
+_installed generating capacity_: 11.36 million kW (2020 est.)<br>
+_consumption_: 32,665,500,000 kWh (2019 est.)<br>
+_exports_: 4.777 billion kWh (2020 est.)<br>
+_imports_: 4.277 billion kWh (2020 est.)<br>
+_transmission/distribution losses_: 2.711 billion kWh (2019 est.)<br>
 
 **Electricity generation sources**<br>
-_Fossil fuels_: 95.8% of total installed capacity (2020 est.)<br>
-_Nuclear_: 0.9% of total installed capacity (2020 est.)<br>
-_Solar_: 0.5% of total installed capacity (2020 est.)<br>
-_Wind_: 0.5% of total installed capacity (2020 est.)<br>
-_Hydroelectricity_: 1.1% of total installed capacity (2020 est.)<br>
-_Tide and wave_: 0% of total installed capacity (2020 est.)<br>
-_Geothermal_: 0% of total installed capacity (2020 est.)<br>
-_Biomass and waste_: 1.2% of total installed capacity (2020 est.)<br>
+_fossil fuels_: 95.8% of total installed capacity (2020 est.)<br>
+_nuclear_: 0.9% of total installed capacity (2020 est.)<br>
+_solar_: 0.5% of total installed capacity (2020 est.)<br>
+_wind_: 0.5% of total installed capacity (2020 est.)<br>
+_hydroelectricity_: 1.1% of total installed capacity (2020 est.)<br>
+_tide and wave_: 0% of total installed capacity (2020 est.)<br>
+_geothermal_: 0% of total installed capacity (2020 est.)<br>
+_biomass and waste_: 1.2% of total installed capacity (2020 est.)<br>
 
 **Coal**<br>
-_Production_: 0 metric tons (2020 est.)<br>
-_Consumption_: 621,000 metric tons (2020 est.)<br>
-_Exports_: 1.574 million metric tons (2020 est.)<br>
-_Imports_: 2.117 million metric tons (2020 est.)<br>
-_Proven reserves_: 0 metric tons (2019 est.)<br>
+_production_: 0 metric tons (2020 est.)<br>
+_consumption_: 621,000 metric tons (2020 est.)<br>
+_exports_: 1.574 million metric tons (2020 est.)<br>
+_imports_: 2.117 million metric tons (2020 est.)<br>
+_proven reserves_: 0 metric tons (2019 est.)<br>
 
 **Petroleum**<br>
-_Total petroleum production_: 34,300 bbl/day (2021 est.)<br>
-_Refined petroleum consumption_: 134,600 bbl/day (2019 est.)<br>
-_Crude oil and lease condensate exports_: 32,200 barrels/day (2018 est.)<br>
-_Crude oil and lease condensate imports_: 383,200 barrels/day (2018 est.)<br>
-_Crude oil estimated reserves_: 198 million barrels (2021 est.)<br>
+_total petroleum production_: 34,300 bbl/day (2021 est.)<br>
+_refined petroleum consumption_: 134,600 bbl/day (2019 est.)<br>
+_crude oil and lease condensate exports_: 32,200 barrels/day (2018 est.)<br>
+_crude oil and lease condensate imports_: 383,200 barrels/day (2018 est.)<br>
+_crude oil estimated reserves_: 198 million barrels (2021 est.)<br>
 
 **Refined petroleum products - production**<br>
 477,200 bbl/day (2015 est.)<br>
@@ -588,17 +588,17 @@ _Crude oil estimated reserves_: 198 million barrels (2021 est.)<br>
 14,630 bbl/day (2015 est.)<br>
 
 **Natural gas**<br>
-_Production_: 68.951 million cubic meters (2019 est.)<br>
-_Consumption_: 18,639,590,000 cubic meters (2019 est.)<br>
-_Exports_: 0 cubic meters (2021 est.)<br>
-_Imports_: 18,673,429,000 cubic meters (2019 est.)<br>
-_Proven reserves_: 2.832 billion cubic meters (2021 est.)<br>
+_production_: 68.951 million cubic meters (2019 est.)<br>
+_consumption_: 18,639,590,000 cubic meters (2019 est.)<br>
+_exports_: 0 cubic meters (2021 est.)<br>
+_imports_: 18,673,429,000 cubic meters (2019 est.)<br>
+_proven reserves_: 2.832 billion cubic meters (2021 est.)<br>
 
 **Carbon dioxide emissions**<br>
-_Total emissions_: 54.695 million metric tonnes of CO2 (2019 est.)<br>
-_From coal and metallurgical coke_: 1.623 million metric tonnes of CO2 (2019 est.)<br>
-_From petroleum and other liquids_: 16.856 million metric tonnes of CO2 (2019 est.)<br>
-_From consumed natural gas_: 36.217 million metric tonnes of CO2 (2019 est.)<br>
+_total emissions_: 54.695 million metric tonnes of CO2 (2019 est.)<br>
+_from coal and metallurgical coke_: 1.623 million metric tonnes of CO2 (2019 est.)<br>
+_from petroleum and other liquids_: 16.856 million metric tonnes of CO2 (2019 est.)<br>
+_from consumed natural gas_: 36.217 million metric tonnes of CO2 (2019 est.)<br>
 
 **Energy consumption per capita**<br>
 _Total energy consumption per capita 2019_: 102.558 million Btu/person (2019 est.)<br>
@@ -717,7 +717,7 @@ the inventory of the Belarus Armed Forces is comprised mostly of Russian/Soviet-
 <p><em>Belarus-Latvia:</em> Boundary demarcated with Latvia.<br><br><em>Belarus-Lithuania:</em> Boundary demarcated with Lithuania.<br><br><em>Belarus-Poland:</em> As a member state that forms part of the EU's external border, Poland has implemented strict Schengen border rules to restrict illegal immigration and trade along its border with Belarus.</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 10,351 (Ukraine) (as of 26 July 2022)<br>
+_refugees (country of origin)_: 10,857 (Ukraine) (as of 8 August 2022)<br>
 _stateless persons_: 6,104 (mid-year 2021)<br>
 
 **Trafficking in persons**<br>

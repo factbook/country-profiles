@@ -355,7 +355,7 @@ Independence Day, 22 September (1960)<br>
 
 **Constitution**<br>
 _history_: several previous; latest drafted August 1991, approved by referendum 12 January 1992, effective 25 February 1992, suspended briefly in 2012<br>
-_amendments_: proposed by the president of the republic or by members of the National Assembly; passage requires two-thirds majority vote by the Assembly and approval in a referendum; constitutional sections on the integrity of the state, its republican and secular form of government, and its multiparty system cannot be amended; note - the transition government intends to adopt a new constitution, though not schedule has been announced<br>
+_amendments_: proposed by the president of the republic or by members of the National Assembly; passage requires two-thirds majority vote by the Assembly and approval in a referendum; constitutional sections on the integrity of the state, its republican and secular form of government, and its multiparty system cannot be amended; note - the transition government in June 2022 announced the formation of a commission which will draft a new constitution by August<br>
 
 **Legal system**<br>
 civil law system based on the French civil law model and influenced by customary law; judicial review of legislative acts in the Constitutional Court<br>
@@ -572,35 +572,35 @@ _electrification - urban areas_: 78% (2019)<br>
 _electrification - rural areas_: 28% (2019)<br>
 
 **Electricity**<br>
-_Installed generating capacity_: 890,000 kW (2020 est.)<br>
-_Consumption_: 2,620,980,000 kWh (2019 est.)<br>
-_Exports_: 550 million kWh (2019 est.)<br>
-_Imports_: 200 million kWh (2019 est.)<br>
-_Transmission/distribution losses_: 346 million kWh (2019 est.)<br>
+_installed generating capacity_: 890,000 kW (2020 est.)<br>
+_consumption_: 2,620,980,000 kWh (2019 est.)<br>
+_exports_: 550 million kWh (2019 est.)<br>
+_imports_: 200 million kWh (2019 est.)<br>
+_transmission/distribution losses_: 346 million kWh (2019 est.)<br>
 
 **Electricity generation sources**<br>
-_Fossil fuels_: 67.4% of total installed capacity (2020 est.)<br>
-_Nuclear_: 0% of total installed capacity (2020 est.)<br>
-_Solar_: 1% of total installed capacity (2020 est.)<br>
-_Wind_: 0% of total installed capacity (2020 est.)<br>
-_Hydroelectricity_: 29.7% of total installed capacity (2020 est.)<br>
-_Tide and wave_: 0% of total installed capacity (2020 est.)<br>
-_Geothermal_: 0% of total installed capacity (2020 est.)<br>
-_Biomass and waste_: 1.9% of total installed capacity (2020 est.)<br>
+_fossil fuels_: 67.4% of total installed capacity (2020 est.)<br>
+_nuclear_: 0% of total installed capacity (2020 est.)<br>
+_solar_: 1% of total installed capacity (2020 est.)<br>
+_wind_: 0% of total installed capacity (2020 est.)<br>
+_hydroelectricity_: 29.7% of total installed capacity (2020 est.)<br>
+_tide and wave_: 0% of total installed capacity (2020 est.)<br>
+_geothermal_: 0% of total installed capacity (2020 est.)<br>
+_biomass and waste_: 1.9% of total installed capacity (2020 est.)<br>
 
 **Coal**<br>
-_Production_: 0 metric tons (2020 est.)<br>
-_Consumption_: 0 metric tons (2020 est.)<br>
-_Exports_: 0 metric tons (2020 est.)<br>
-_Imports_: 0 metric tons (2020 est.)<br>
-_Proven reserves_: 0 metric tons (2019 est.)<br>
+_production_: 0 metric tons (2020 est.)<br>
+_consumption_: 0 metric tons (2020 est.)<br>
+_exports_: 0 metric tons (2020 est.)<br>
+_imports_: 0 metric tons (2020 est.)<br>
+_proven reserves_: 0 metric tons (2019 est.)<br>
 
 **Petroleum**<br>
-_Total petroleum production_: 0 bbl/day (2021 est.)<br>
-_Refined petroleum consumption_: 37,600 bbl/day (2019 est.)<br>
-_Crude oil and lease condensate exports_: 0 barrels/day (2018 est.)<br>
-_Crude oil and lease condensate imports_: 0 barrels/day (2018 est.)<br>
-_Crude oil estimated reserves_: 0 barrels (2021 est.)<br>
+_total petroleum production_: 0 bbl/day (2021 est.)<br>
+_refined petroleum consumption_: 37,600 bbl/day (2019 est.)<br>
+_crude oil and lease condensate exports_: 0 barrels/day (2018 est.)<br>
+_crude oil and lease condensate imports_: 0 barrels/day (2018 est.)<br>
+_crude oil estimated reserves_: 0 barrels (2021 est.)<br>
 
 **Refined petroleum products - production**<br>
 0 bbl/day (2015 est.)<br>
@@ -612,17 +612,17 @@ _Crude oil estimated reserves_: 0 barrels (2021 est.)<br>
 20,610 bbl/day (2015 est.)<br>
 
 **Natural gas**<br>
-_Production_: 0 cubic meters (2021 est.)<br>
-_Consumption_: 0 cubic meters (2021 est.)<br>
-_Exports_: 0 cubic meters (2021 est.)<br>
-_Imports_: 0 cubic meters (2021 est.)<br>
-_Proven reserves_: 0 cubic meters (2021 est.)<br>
+_production_: 0 cubic meters (2021 est.)<br>
+_consumption_: 0 cubic meters (2021 est.)<br>
+_exports_: 0 cubic meters (2021 est.)<br>
+_imports_: 0 cubic meters (2021 est.)<br>
+_proven reserves_: 0 cubic meters (2021 est.)<br>
 
 **Carbon dioxide emissions**<br>
-_Total emissions_: 5.679 million metric tonnes of CO2 (2019 est.)<br>
-_From coal and metallurgical coke_: 0 metric tonnes of CO2 (2019 est.)<br>
-_From petroleum and other liquids_: 5.679 million metric tonnes of CO2 (2019 est.)<br>
-_From consumed natural gas_: 0 metric tonnes of CO2 (2019 est.)<br>
+_total emissions_: 5.679 million metric tonnes of CO2 (2019 est.)<br>
+_from coal and metallurgical coke_: 0 metric tonnes of CO2 (2019 est.)<br>
+_from petroleum and other liquids_: 5.679 million metric tonnes of CO2 (2019 est.)<br>
+_from consumed natural gas_: 0 metric tonnes of CO2 (2019 est.)<br>
 
 **Energy consumption per capita**<br>
 _Total energy consumption per capita 2019_: 4.396 million Btu/person (2019 est.)<br>
@@ -711,7 +711,7 @@ Malian Armed Forces (FAMa): Army (Armee de Terre; includes a riverine patrol for
 3.2% of GDP (2017 est.) (approximately $600 million)<br>
 
 **Military and security service personnel strengths**<br>
-information varies; approximately 20,000 active FAMa personnel (includes 1-2,000 Air Force); estimated 5,000 Gendarmerie; estimated 10,000 National Guard (2022)<br>
+information varies; approximately 20,000 active FAMa personnel (includes up to 2,000 Air Force); estimated 5,000 Gendarmerie; estimated 10,000 National Guard (2022)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the FAMa's inventory consists primarily of Soviet-era equipment, although in recent years it has received limited quantities of mostly second-hand armaments from more than a dozen countries, including Russia (2022)<br>
@@ -720,7 +720,7 @@ the FAMa's inventory consists primarily of Soviet-era equipment, although in rec
 18 years of age for selective compulsory and voluntary military service (men and women); 2-year conscript service obligation (2022)<br>
 
 **Military deployments**<br>
-until announcing its withdrawal in May of 2022, Mali was part of a five-nation anti-jihadist task force known as the G5 Sahel Group, set up in 2014 with Burkina Faso, Chad, Mauritania, and Niger; Mali had committed 1,100 troops and 200 gendarmes to the force (2022)<br>
+<strong>note: </strong>until announcing its withdrawal in May of 2022, Mali was part of a five-nation anti-jihadist task force known as the G5 Sahel Group, set up in 2014 with Burkina Faso, Chad, Mauritania, and Niger; Mali had committed 1,100 troops and 200 gendarmes to the force<br>
 
 **Military - note**<br>
 prior to the coup in August 2020 and military takeover in May 2021, the Malian military had intervened in the political arena at least five times since the country gained independence in 1960; two attempts failed (1976 and 1978), while three succeeded in overturning civilian rule (1968, 1991, and 2012); the military collapsed in 2012 during the fighting against Tuareg rebels and Islamic militants; it has been since rebuilt, but continues to have limited capabilities and is heavily reliant on external assistance <br><br>as of 2022, Malian security forces were actively conducting operations against several separatist insurgent and terrorist groups, particularly in the central and northern regions of the country where the government was reportedly in control of only an estimated 10-20% of the territory<br><br>the United Nations Multidimensional Integrated Stabilization Mission in Mali (MINUSMA) has operated in the country since 2013; the Mission's responsibilities include providing security, rebuilding Malian security forces, protecting civilians, supporting national political dialogue, and assisting in the reestablishment of Malian government authority; as of mid-2022, MINUSMA had around 15,000 personnel deployed; in June 2022, the UN extended its mission another 12 months<br><br>the European Union Training Mission in Mali (EUTM-M) and the French military (under a separate, bi-lateral mission) have also operated in the country since 2013; the EUTM-M provides advice and training to the Malian Armed Forces and military assistance to the G5 Sahel Joint Force; as of May 2022, the mission included about 1,100 personnel from more than 20 European countries; in April of 2022, the EU said it would suspend its training program in Mali, citing issues with the ruling military government, including human rights abuses and the presence of Russian private military contractors; as of mid-2022, France was withdrawing its forces, also citing obstructions from the military government; prior to the withdrawal, more than 2,000 French troops had provided military assistance and conducted counter-terrorism/counter-insurgency operations<br><br>in December 2021, the Malian military government contracted with a Russian private military company to provide training for local armed forces and security to senior Malian officials (2022)<br>

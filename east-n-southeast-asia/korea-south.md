@@ -540,34 +540,34 @@ _Currency_: South Korean won (KRW) per US dollar -<br>
 _electrification - total population_: 100% (2020)<br>
 
 **Electricity**<br>
-_Installed generating capacity_: 135.789 million kW (2020 est.)<br>
-_Consumption_: 531.258 billion kWh (2020 est.)<br>
-_Exports_: 0 kWh (2020 est.)<br>
-_Imports_: 0 kWh (2020 est.)<br>
-_Transmission/distribution losses_: 18.61 billion kWh (2020 est.)<br>
+_installed generating capacity_: 135.789 million kW (2020 est.)<br>
+_consumption_: 531.258 billion kWh (2020 est.)<br>
+_exports_: 0 kWh (2020 est.)<br>
+_imports_: 0 kWh (2020 est.)<br>
+_transmission/distribution losses_: 18.61 billion kWh (2020 est.)<br>
 
 **Electricity generation sources**<br>
-_Fossil fuels_: 64.8% of total installed capacity (2020 est.)<br>
-_Nuclear_: 27.7% of total installed capacity (2020 est.)<br>
-_Solar_: 3.3% of total installed capacity (2020 est.)<br>
-_Wind_: 0.6% of total installed capacity (2020 est.)<br>
-_Hydroelectricity_: 1.3% of total installed capacity (2020 est.)<br>
-_Tide and wave_: 0.7% of total installed capacity (2020 est.)<br>
-_Geothermal_: 0% of total installed capacity (2020 est.)<br>
-_Biomass and waste_: 1.7% of total installed capacity (2020 est.)<br>
+_fossil fuels_: 64.8% of total installed capacity (2020 est.)<br>
+_nuclear_: 27.7% of total installed capacity (2020 est.)<br>
+_solar_: 3.3% of total installed capacity (2020 est.)<br>
+_wind_: 0.6% of total installed capacity (2020 est.)<br>
+_hydroelectricity_: 1.3% of total installed capacity (2020 est.)<br>
+_tide and wave_: 0.7% of total installed capacity (2020 est.)<br>
+_geothermal_: 0% of total installed capacity (2020 est.)<br>
+_biomass and waste_: 1.7% of total installed capacity (2020 est.)<br>
 
 **Coal**<br>
-_Production_: 16.364 million metric tons (2020 est.)<br>
-_Consumption_: 140.579 million metric tons (2020 est.)<br>
-_Exports_: 16,000 metric tons (2020 est.)<br>
-_Imports_: 123.784 million metric tons (2020 est.)<br>
-_Proven reserves_: 326 million metric tons (2019 est.)<br>
+_production_: 16.364 million metric tons (2020 est.)<br>
+_consumption_: 140.579 million metric tons (2020 est.)<br>
+_exports_: 16,000 metric tons (2020 est.)<br>
+_imports_: 123.784 million metric tons (2020 est.)<br>
+_proven reserves_: 326 million metric tons (2019 est.)<br>
 
 **Petroleum**<br>
-_Total petroleum production_: 37,400 bbl/day (2021 est.)<br>
-_Refined petroleum consumption_: 2,598,700 bbl/day (2019 est.)<br>
-_Crude oil and lease condensate exports_: 0 barrels/day (2018 est.)<br>
-_Crude oil and lease condensate imports_: 3,034,400 barrels/day (2018 est.)<br>
+_total petroleum production_: 37,400 bbl/day (2021 est.)<br>
+_refined petroleum consumption_: 2,598,700 bbl/day (2019 est.)<br>
+_crude oil and lease condensate exports_: 0 barrels/day (2018 est.)<br>
+_crude oil and lease condensate imports_: 3,034,400 barrels/day (2018 est.)<br>
 
 **Refined petroleum products - production**<br>
 3.302 million bbl/day (2017 est.)<br>
@@ -579,17 +579,17 @@ _Crude oil and lease condensate imports_: 3,034,400 barrels/day (2018 est.)<br>
 908,800 bbl/day (2017 est.)<br>
 
 **Natural gas**<br>
-_Production_: 240.042 million cubic meters (2019 est.)<br>
-_Consumption_: 53,419,105,000 cubic meters (2019 est.)<br>
-_Exports_: 0 cubic meters (2019 est.)<br>
-_Imports_: 55,417,677,000 cubic meters (2019 est.)<br>
-_Proven reserves_: 7.079 billion cubic meters (2021 est.)<br>
+_production_: 240.042 million cubic meters (2019 est.)<br>
+_consumption_: 53,419,105,000 cubic meters (2019 est.)<br>
+_exports_: 0 cubic meters (2019 est.)<br>
+_imports_: 55,417,677,000 cubic meters (2019 est.)<br>
+_proven reserves_: 7.079 billion cubic meters (2021 est.)<br>
 
 **Carbon dioxide emissions**<br>
-_Total emissions_: 686.954 million metric tonnes of CO2 (2019 est.)<br>
-_From coal and metallurgical coke_: 319.383 million metric tonnes of CO2 (2019 est.)<br>
-_From petroleum and other liquids_: 255.518 million metric tonnes of CO2 (2019 est.)<br>
-_From consumed natural gas_: 112.052 million metric tonnes of CO2 (2019 est.)<br>
+_total emissions_: 686.954 million metric tonnes of CO2 (2019 est.)<br>
+_from coal and metallurgical coke_: 319.383 million metric tonnes of CO2 (2019 est.)<br>
+_from petroleum and other liquids_: 255.518 million metric tonnes of CO2 (2019 est.)<br>
+_from consumed natural gas_: 112.052 million metric tonnes of CO2 (2019 est.)<br>
 
 **Energy consumption per capita**<br>
 _Total energy consumption per capita 2019_: 242.346 million Btu/person (2019 est.)<br>
@@ -692,7 +692,7 @@ Armed Forces of the Republic of Korea: Republic of Korea Army (ROKA), Navy (ROKN
 2.5% of GDP (2017) (approximately $52.5 billion)<br>
 
 **Military and security service personnel strengths**<br>
-the Republic of Korea Armed Forces have approximately 555,000 active duty personnel (420,000 Army; 70,000 Navy/Marines; 65,000 Air Force) (2021)<br>
+approximately 555,000 active duty personnel (420,000 Army; 70,000 Navy, including about 30,000 Marines; 65,000 Air Force) (2022)<br>
 <strong>note: </strong>South Korea intended to reduce the size of its military to about 522,000 by 2022<br>
 
 **Military equipment inventories and acquisitions**<br>
@@ -703,7 +703,7 @@ the South Korean military is equipped with a mix of domestically-produced and im
 <strong>note 1:</strong> women, in service since 1950, are able to serve in all branches, including as officers, and in 2020 comprised about 7.5% of the active duty military<br><br><strong>note 2: </strong>in 2022, about 330,000 of the military's active personnel were conscripts; the military brings on over 200,000 conscripts each year<br>
 
 **Military deployments**<br>
-260 Lebanon (UNIFIL); 280 South Sudan (UNMISS); 170 United Arab Emirates; note - since 2009, South Korea has kept a naval flotilla with approximately 300 personnel in the waters off of the Horn of Africa and the Arabian Peninsula (2022)<br>
+250 Lebanon (UNIFIL); 280 South Sudan (UNMISS); 170 United Arab Emirates; note - since 2009, South Korea has kept a naval flotilla with approximately 300 personnel in the waters off of the Horn of Africa and the Arabian Peninsula (2022)<br>
 
 **Military - note**<br>
 <p>the 1953 US-South Korea Mutual Defense Treaty is a cornerstone of South Korea’s security; the Treaty committed the US to provide assistance in the event of an attack, particularly from North Korea; in addition, the Treaty gave the US permission to station land, air, and sea forces in and about the territory of South Korea as determined by mutual agreement; as of 2022, the US maintained approximately 28,000 military personnel in the country</p> <p>the South Korean military has assisted the US in conflicts in Afghanistan (5,000 troops; 2001-2014), Iraq (20,000 troops; 2003-2008), and Vietnam (325,000 troops; 1964-1973)<br><br>South Korea has Major Non-NATO Ally (MNNA) status with the US; MNNA is a designation under US law that provides foreign partners with certain benefits in the areas of defense trade and security cooperation; while MNNA status provides military and economic privileges, it does not entail any security commitments<br><br>in 2016, South Korea concluded an agreement with the European Union for participation in EU Common Security and Defense Policy (CSDP) missions and operations, such as the EU Naval Force Somalia – Operation Atalanta, which protects maritime shipping and conducts counter-piracy operations off the coast of East Africa</p> <p>South Korea has been engaged with NATO through dialogue and security cooperation since 2005 and is considered by NATO to be a global partner; it has participated in NATO-led missions and exercises, including leading an integrated civilian-military reconstruction team in Afghanistan as part of the NATO-led International Security Assistance Force, 2010-2013; it has also cooperated with NATO in countering the threat of piracy in the Gulf of Aden by providing naval vessels as escorts</p> <p>in addition to the invasion of South Korea and the subsequent Korean War (1950-53), North Korea from the 1960s to the 1980s launched a considerable number of limited military and subversive actions against South Korea using special forces and terrorist tactics; including aggressive skirmishes along the DMZ, overt attempts to assassinate South Korean leaders, kidnappings, the bombing of an airliner, and a failed effort in 1968 to foment an insurrection and conduct a guerrilla war in the South with more than 100 seaborne commandos; from the 1990s until 2010, the North lost two submarines and a semi-submersible boat attempting to insert infiltrators into the South (1996, 1998) and provoked several engagements in the Northwest Islands area along the disputed Northern Limit Line (NLL), including naval skirmishes between patrol boats in 1999 and 2002, the torpedoing and sinking of a South Korean corvette, the <em>Cheonan</em>, in 2010, and the bombardment of a South Korean Marine Corps installation on Yeonpyeong Island, also in 2010; since 2010, further minor incidents continue to occur periodically along the DMZ, where both the North and the South Korean militaries maintain large numbers of troops<br><br>in 2018, North Korea and South Korea signed a tension reduction agreement known as the Comprehensive Military Agreement (CMA), which established land, sea, and air buffer zones along the DMZ and the NLL; implementation of the CMA required the removal of some land mines and guard posts; the efforts led to a reduction of tension in the DMZ, but as of 2022 North Korea had failed to uphold much of its side of the agreement</p><br>

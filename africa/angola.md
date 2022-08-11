@@ -558,35 +558,35 @@ _electrification - urban areas_: 61% (2019)<br>
 _electrification - rural areas_: 6% (2019)<br>
 
 **Electricity**<br>
-_Installed generating capacity_: 7.344 million kW (2020 est.)<br>
-_Consumption_: 11.815 billion kWh (2019 est.)<br>
-_Exports_: 0 kWh (2019 est.)<br>
-_Imports_: 0 kWh (2019 est.)<br>
-_Transmission/distribution losses_: 1.741 billion kWh (2019 est.)<br>
+_installed generating capacity_: 7.344 million kW (2020 est.)<br>
+_consumption_: 11.815 billion kWh (2019 est.)<br>
+_exports_: 0 kWh (2019 est.)<br>
+_imports_: 0 kWh (2019 est.)<br>
+_transmission/distribution losses_: 1.741 billion kWh (2019 est.)<br>
 
 **Electricity generation sources**<br>
-_Fossil fuels_: 28.4% of total installed capacity (2020 est.)<br>
-_Nuclear_: 0% of total installed capacity (2020 est.)<br>
-_Solar_: 0.1% of total installed capacity (2020 est.)<br>
-_Wind_: 0% of total installed capacity (2020 est.)<br>
-_Hydroelectricity_: 70.1% of total installed capacity (2020 est.)<br>
-_Tide and wave_: 0% of total installed capacity (2020 est.)<br>
-_Geothermal_: 0% of total installed capacity (2020 est.)<br>
-_Biomass and waste_: 1.4% of total installed capacity (2020 est.)<br>
+_fossil fuels_: 28.4% of total installed capacity (2020 est.)<br>
+_nuclear_: 0% of total installed capacity (2020 est.)<br>
+_solar_: 0.1% of total installed capacity (2020 est.)<br>
+_wind_: 0% of total installed capacity (2020 est.)<br>
+_hydroelectricity_: 70.1% of total installed capacity (2020 est.)<br>
+_tide and wave_: 0% of total installed capacity (2020 est.)<br>
+_geothermal_: 0% of total installed capacity (2020 est.)<br>
+_biomass and waste_: 1.4% of total installed capacity (2020 est.)<br>
 
 **Coal**<br>
-_Production_: 0 metric tons (2020 est.)<br>
-_Consumption_: 0 metric tons (2020 est.)<br>
-_Exports_: 0 metric tons (2020 est.)<br>
-_Imports_: 0 metric tons (2020 est.)<br>
-_Proven reserves_: 0 metric tons (2019 est.)<br>
+_production_: 0 metric tons (2020 est.)<br>
+_consumption_: 0 metric tons (2020 est.)<br>
+_exports_: 0 metric tons (2020 est.)<br>
+_imports_: 0 metric tons (2020 est.)<br>
+_proven reserves_: 0 metric tons (2019 est.)<br>
 
 **Petroleum**<br>
-_Total petroleum production_: 1,197,600 bbl/day (2021 est.)<br>
-_Refined petroleum consumption_: 133,400 bbl/day (2019 est.)<br>
-_Crude oil and lease condensate exports_: 1,367,400 barrels/day (2018 est.)<br>
-_Crude oil and lease condensate imports_: 0 barrels/day (2018 est.)<br>
-_Crude oil estimated reserves_: 7.783 billion barrels (2021 est.)<br>
+_total petroleum production_: 1,197,600 bbl/day (2021 est.)<br>
+_refined petroleum consumption_: 133,400 bbl/day (2019 est.)<br>
+_crude oil and lease condensate exports_: 1,367,400 barrels/day (2018 est.)<br>
+_crude oil and lease condensate imports_: 0 barrels/day (2018 est.)<br>
+_crude oil estimated reserves_: 7.783 billion barrels (2021 est.)<br>
 
 **Refined petroleum products - production**<br>
 53,480 bbl/day (2015 est.)<br>
@@ -598,17 +598,17 @@ _Crude oil estimated reserves_: 7.783 billion barrels (2021 est.)<br>
 111,600 bbl/day (2015 est.)<br>
 
 **Natural gas**<br>
-_Production_: 6,767,715,000 cubic meters (2019 est.)<br>
-_Consumption_: 860.887 million cubic meters (2019 est.)<br>
-_Exports_: 5,877,945,000 cubic meters (2019 est.)<br>
-_Imports_: 0 cubic meters (2021 est.)<br>
-_Proven reserves_: 343.001 billion cubic meters (2021 est.)<br>
+_production_: 6,767,715,000 cubic meters (2019 est.)<br>
+_consumption_: 860.887 million cubic meters (2019 est.)<br>
+_exports_: 5,877,945,000 cubic meters (2019 est.)<br>
+_imports_: 0 cubic meters (2021 est.)<br>
+_proven reserves_: 343.001 billion cubic meters (2021 est.)<br>
 
 **Carbon dioxide emissions**<br>
-_Total emissions_: 19.362 million metric tonnes of CO2 (2019 est.)<br>
-_From coal and metallurgical coke_: 0 metric tonnes of CO2 (2019 est.)<br>
-_From petroleum and other liquids_: 17.673 million metric tonnes of CO2 (2019 est.)<br>
-_From consumed natural gas_: 1.689 million metric tonnes of CO2 (2019 est.)<br>
+_total emissions_: 19.362 million metric tonnes of CO2 (2019 est.)<br>
+_from coal and metallurgical coke_: 0 metric tonnes of CO2 (2019 est.)<br>
+_from petroleum and other liquids_: 17.673 million metric tonnes of CO2 (2019 est.)<br>
+_from consumed natural gas_: 1.689 million metric tonnes of CO2 (2019 est.)<br>
 
 **Energy consumption per capita**<br>
 _Total energy consumption per capita 2019_: 11.693 million Btu/person (2019 est.)<br>
@@ -732,7 +732,7 @@ the International Maritime Bureau reports the territorial waters of Angola are a
 <p><em>Angola-Democratic Republic of Congo (DRC): </em>DRC accuses Angola of shifting monuments<br><br><em>Angola-Namibia: n</em>one identified<br><br><em>Angola-Republic of Congo:</em> (Kabinda Exclave) none identified<br><br><em>Angola-Zambia: </em>because the straight-line segments along the left bank (Zambian side) of the Cuando/Kwando River do not conform with the physical alignment of the unstable shoreline, Zambian residents in some areas have settled illegally on sections of shoreline that fall on the Angolan side of the boundary</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 37,081 (Democratic Republic of the Congo) (refugees and asylum seekers), 9,272 (Guinea), 6,357 (Cote d'Ivoire), 5,725 (Mauritania) (2022)<br>
+_refugees (country of origin)_: 37,178 (Democratic Republic of the Congo) (refugees and asylum seekers), 9,272 (Guinea), 6,357 (Cote d'Ivoire), 5,725 (Mauritania) (2022)<br>
 
 **Illicit drugs**<br>
 <p>used as a transshipment point for cocaine destined for Western Europe and other African states, particularly South Africa</p><br>

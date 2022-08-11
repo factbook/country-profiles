@@ -566,35 +566,35 @@ _electrification - urban areas_: 93% (2019)<br>
 _electrification - rural areas_: 75% (2019)<br>
 
 **Electricity**<br>
-_Installed generating capacity_: 5.312 million kW (2020 est.)<br>
-_Consumption_: 13,107,757,000 kWh (2019 est.)<br>
-_Exports_: 1.801 billion kWh (2020 est.)<br>
-_Imports_: 58 million kWh (2020 est.)<br>
-_Transmission/distribution losses_: 2.474 billion kWh (2019 est.)<br>
+_installed generating capacity_: 5.312 million kW (2020 est.)<br>
+_consumption_: 13,107,757,000 kWh (2019 est.)<br>
+_exports_: 1.801 billion kWh (2020 est.)<br>
+_imports_: 58 million kWh (2020 est.)<br>
+_transmission/distribution losses_: 2.474 billion kWh (2019 est.)<br>
 
 **Electricity generation sources**<br>
-_Fossil fuels_: 63.8% of total installed capacity (2020 est.)<br>
-_Nuclear_: 0% of total installed capacity (2020 est.)<br>
-_Solar_: 0.3% of total installed capacity (2020 est.)<br>
-_Wind_: 0% of total installed capacity (2020 est.)<br>
-_Hydroelectricity_: 35.9% of total installed capacity (2020 est.)<br>
-_Tide and wave_: 0% of total installed capacity (2020 est.)<br>
-_Geothermal_: 0% of total installed capacity (2020 est.)<br>
-_Biomass and waste_: 0.1% of total installed capacity (2020 est.)<br>
+_fossil fuels_: 63.8% of total installed capacity (2020 est.)<br>
+_nuclear_: 0% of total installed capacity (2020 est.)<br>
+_solar_: 0.3% of total installed capacity (2020 est.)<br>
+_wind_: 0% of total installed capacity (2020 est.)<br>
+_hydroelectricity_: 35.9% of total installed capacity (2020 est.)<br>
+_tide and wave_: 0% of total installed capacity (2020 est.)<br>
+_geothermal_: 0% of total installed capacity (2020 est.)<br>
+_biomass and waste_: 0.1% of total installed capacity (2020 est.)<br>
 
 **Coal**<br>
-_Production_: 0 metric tons (2020 est.)<br>
-_Consumption_: 48,000 metric tons (2020 est.)<br>
-_Exports_: 0 metric tons (2020 est.)<br>
-_Imports_: 48,000 metric tons (2020 est.)<br>
-_Proven reserves_: 0 metric tons (2019 est.)<br>
+_production_: 0 metric tons (2020 est.)<br>
+_consumption_: 48,000 metric tons (2020 est.)<br>
+_exports_: 0 metric tons (2020 est.)<br>
+_imports_: 48,000 metric tons (2020 est.)<br>
+_proven reserves_: 0 metric tons (2019 est.)<br>
 
 **Petroleum**<br>
-_Total petroleum production_: 185,700 bbl/day (2021 est.)<br>
-_Refined petroleum consumption_: 98,000 bbl/day (2019 est.)<br>
-_Crude oil and lease condensate exports_: 176,800 barrels/day (2018 est.)<br>
-_Crude oil and lease condensate imports_: 3,900 barrels/day (2018 est.)<br>
-_Crude oil estimated reserves_: 660 million barrels (2021 est.)<br>
+_total petroleum production_: 185,700 bbl/day (2021 est.)<br>
+_refined petroleum consumption_: 98,000 bbl/day (2019 est.)<br>
+_crude oil and lease condensate exports_: 176,800 barrels/day (2018 est.)<br>
+_crude oil and lease condensate imports_: 3,900 barrels/day (2018 est.)<br>
+_crude oil estimated reserves_: 660 million barrels (2021 est.)<br>
 
 **Refined petroleum products - production**<br>
 2,073 bbl/day (2015 est.)<br>
@@ -606,17 +606,17 @@ _Crude oil estimated reserves_: 660 million barrels (2021 est.)<br>
 85,110 bbl/day (2015 est.)<br>
 
 **Natural gas**<br>
-_Production_: 1,598,653,000 cubic meters (2019 est.)<br>
-_Consumption_: 2,224,568,000 cubic meters (2019 est.)<br>
-_Exports_: 0 cubic meters (2021 est.)<br>
-_Imports_: 625.915 million cubic meters (2019 est.)<br>
-_Proven reserves_: 22.653 billion cubic meters (2021 est.)<br>
+_production_: 1,598,653,000 cubic meters (2019 est.)<br>
+_consumption_: 2,224,568,000 cubic meters (2019 est.)<br>
+_exports_: 0 cubic meters (2021 est.)<br>
+_imports_: 625.915 million cubic meters (2019 est.)<br>
+_proven reserves_: 22.653 billion cubic meters (2021 est.)<br>
 
 **Carbon dioxide emissions**<br>
-_Total emissions_: 18.093 million metric tonnes of CO2 (2019 est.)<br>
-_From coal and metallurgical coke_: 160,000 metric tonnes of CO2 (2019 est.)<br>
-_From petroleum and other liquids_: 13.569 million metric tonnes of CO2 (2019 est.)<br>
-_From consumed natural gas_: 4.364 million metric tonnes of CO2 (2019 est.)<br>
+_total emissions_: 18.093 million metric tonnes of CO2 (2019 est.)<br>
+_from coal and metallurgical coke_: 160,000 metric tonnes of CO2 (2019 est.)<br>
+_from petroleum and other liquids_: 13.569 million metric tonnes of CO2 (2019 est.)<br>
+_from consumed natural gas_: 4.364 million metric tonnes of CO2 (2019 est.)<br>
 
 **Energy consumption per capita**<br>
 _Total energy consumption per capita 2019_: 11.239 million Btu/person (2019 est.)<br>
@@ -720,7 +720,7 @@ the inventory of the Ghana Armed Forces is a mix of Russian, Chinese, and Wester
 18-26 years of age for voluntary military service, with basic education certificate; no conscription (2022)<br>
 
 **Military deployments**<br>
-150 Mali (MINUSMA); 875 Lebanon (UNIFIL); 730 (plus about 300 police) South Sudan (UNMISS) (Jan 2022)<br>
+140 Mali (MINUSMA); 875 Lebanon (UNIFIL); 725 (plus about 275 police) South Sudan (UNMISS); 650 Sudan (UNISFA) (May 2022)<br>
 
 **Military - note**<br>
 <p>the military of Ghana traces its origins to the Gold Coast Constabulary that was established in 1879 and renamed the Gold Coast Regiment in 1901; the Gold Coast Regiment was part of the West African Frontier Force (WAFF), a multi-regiment force formed by the British colonial office in 1900 to garrison the West African colonies of Gold Coast (Ghana), Nigeria (Lagos and the protectorates of Northern and Southern Nigeria), Sierra Leone, and Gambia; the WAFF served with distinction in both East and West Africa during World War I; in 1928, it received royal recognition and was re-named the Royal West African Frontier Force (RWAFF); the RWAFF went on to serve in World War II as part of the British 81st and 82nd (West African) divisions in the East Africa and Burma campaigns; following independence in 1957, the Gold Coast Regiment formed the basis for the new Ghanaian Army</p> <p>as of 2022, the primary missions for the Ghanaian military included assisting other security services with internal security and patrolling the country’s economic exclusion zone, which has led to efforts to expand the Navy’s capabilities in recent years; since sending a contingent of troops to the Congo in 1960, the Ghana military has been a regular contributor to African- and UN-sponsored peacekeeping missions</p><br>

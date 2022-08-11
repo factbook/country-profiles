@@ -529,35 +529,35 @@ _Currency_: euros (EUR) per US dollar -<br>
 _electrification - total population_: 100% (2020)<br>
 
 **Electricity**<br>
-_Installed generating capacity_: 11.43 million kW (2020 est.)<br>
-_Consumption_: 30.627 billion kWh (2020 est.)<br>
-_Exports_: 1.913 billion kWh (2020 est.)<br>
-_Imports_: 1.761 billion kWh (2020 est.)<br>
-_Transmission/distribution losses_: 2.309 billion kWh (2020 est.)<br>
+_installed generating capacity_: 11.43 million kW (2020 est.)<br>
+_consumption_: 30.627 billion kWh (2020 est.)<br>
+_exports_: 1.913 billion kWh (2020 est.)<br>
+_imports_: 1.761 billion kWh (2020 est.)<br>
+_transmission/distribution losses_: 2.309 billion kWh (2020 est.)<br>
 
 **Electricity generation sources**<br>
-_Fossil fuels_: 57.8% of total installed capacity (2020 est.)<br>
-_Nuclear_: 0% of total installed capacity (2020 est.)<br>
-_Solar_: 0.2% of total installed capacity (2020 est.)<br>
-_Wind_: 34.8% of total installed capacity (2020 est.)<br>
-_Hydroelectricity_: 3.7% of total installed capacity (2020 est.)<br>
-_Tide and wave_: 0% of total installed capacity (2020 est.)<br>
-_Geothermal_: 0% of total installed capacity (2020 est.)<br>
-_Biomass and waste_: 3.6% of total installed capacity (2020 est.)<br>
+_fossil fuels_: 57.8% of total installed capacity (2020 est.)<br>
+_nuclear_: 0% of total installed capacity (2020 est.)<br>
+_solar_: 0.2% of total installed capacity (2020 est.)<br>
+_wind_: 34.8% of total installed capacity (2020 est.)<br>
+_hydroelectricity_: 3.7% of total installed capacity (2020 est.)<br>
+_tide and wave_: 0% of total installed capacity (2020 est.)<br>
+_geothermal_: 0% of total installed capacity (2020 est.)<br>
+_biomass and waste_: 3.6% of total installed capacity (2020 est.)<br>
 
 **Coal**<br>
-_Production_: 0 metric tons (2020 est.)<br>
-_Consumption_: 351,000 metric tons (2020 est.)<br>
-_Exports_: 132,000 metric tons (2020 est.)<br>
-_Imports_: 408,000 metric tons (2020 est.)<br>
-_Proven reserves_: 14 million metric tons (2019 est.)<br>
+_production_: 0 metric tons (2020 est.)<br>
+_consumption_: 351,000 metric tons (2020 est.)<br>
+_exports_: 132,000 metric tons (2020 est.)<br>
+_imports_: 408,000 metric tons (2020 est.)<br>
+_proven reserves_: 14 million metric tons (2019 est.)<br>
 
 **Petroleum**<br>
-_Total petroleum production_: 600 bbl/day (2021 est.)<br>
-_Refined petroleum consumption_: 159,100 bbl/day (2019 est.)<br>
-_Crude oil and lease condensate exports_: 0 barrels/day (2018 est.)<br>
-_Crude oil and lease condensate imports_: 60,300 barrels/day (2018 est.)<br>
-_Crude oil estimated reserves_: 0 barrels (2021 est.)<br>
+_total petroleum production_: 600 bbl/day (2021 est.)<br>
+_refined petroleum consumption_: 159,100 bbl/day (2019 est.)<br>
+_crude oil and lease condensate exports_: 0 barrels/day (2018 est.)<br>
+_crude oil and lease condensate imports_: 60,300 barrels/day (2018 est.)<br>
+_crude oil estimated reserves_: 0 barrels (2021 est.)<br>
 
 **Refined petroleum products - production**<br>
 64,970 bbl/day (2017 est.)<br>
@@ -569,17 +569,17 @@ _Crude oil estimated reserves_: 0 barrels (2021 est.)<br>
 126,600 bbl/day (2017 est.)<br>
 
 **Natural gas**<br>
-_Production_: 2,652,180,000 cubic meters (2019 est.)<br>
-_Consumption_: 5,491,562,000 cubic meters (2019 est.)<br>
-_Exports_: 0 cubic meters (2021 est.)<br>
-_Imports_: 2,846,971,000 cubic meters (2019 est.)<br>
-_Proven reserves_: 9.911 billion cubic meters (2021 est.)<br>
+_production_: 2,652,180,000 cubic meters (2019 est.)<br>
+_consumption_: 5,491,562,000 cubic meters (2019 est.)<br>
+_exports_: 0 cubic meters (2021 est.)<br>
+_imports_: 2,846,971,000 cubic meters (2019 est.)<br>
+_proven reserves_: 9.911 billion cubic meters (2021 est.)<br>
 
 **Carbon dioxide emissions**<br>
-_Total emissions_: 35.475 million metric tonnes of CO2 (2019 est.)<br>
-_From coal and metallurgical coke_: 1.43 million metric tonnes of CO2 (2019 est.)<br>
-_From petroleum and other liquids_: 23.08 million metric tonnes of CO2 (2019 est.)<br>
-_From consumed natural gas_: 10.965 million metric tonnes of CO2 (2019 est.)<br>
+_total emissions_: 35.475 million metric tonnes of CO2 (2019 est.)<br>
+_from coal and metallurgical coke_: 1.43 million metric tonnes of CO2 (2019 est.)<br>
+_from petroleum and other liquids_: 23.08 million metric tonnes of CO2 (2019 est.)<br>
+_from consumed natural gas_: 10.965 million metric tonnes of CO2 (2019 est.)<br>
 
 **Energy consumption per capita**<br>
 _Total energy consumption per capita 2019_: 133.674 million Btu/person (2019 est.)<br>
@@ -680,7 +680,7 @@ Irish Defense Forces (Oglaigh na h-Eireannn): Army, Air Corps, Naval Service, Re
 0.3% of GDP (2017) (approximately $1.21 billion)<br>
 
 **Military and security service personnel strengths**<br>
-the Irish Defense Forces have approximately 8,500 active duty personnel (6,800 Army; 900 Naval Service; 800 Air Corps) (2022)<br>
+approximately 8,500 active duty personnel (6,800 Army; 900 Naval Service; 800 Air Corps) (2022)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the Irish Defense Forces have a small inventory of imported weapons systems from a variety of mostly European countries; the UK is the leading supplier of military hardware to Ireland since 2010 (2021)<br>
@@ -690,7 +690,7 @@ the Irish Defense Forces have a small inventory of imported weapons systems from
 <strong>note:</strong> as of 2019, women made up about 7% of the military's full-time personnel<br>
 
 **Military deployments**<br>
-130 Golan Heights (UNDOF); 330 Lebanon (UNIFIL) (Feb 2022)<br>
+130 Golan Heights (UNDOF); 320 Lebanon (UNIFIL) (May 2022)<br>
 
 **Military - note**<br>
 <p>the Irish Defense Forces trace their origins back to the Irish Volunteers, a unit established in 1913; the Irish Volunteers took part in the 1916 Easter Rising and the Irish War of Independence, 1919-1921</p> <p>Ireland has a long-standing policy of military neutrality; however, it participates in international peacekeeping and humanitarian operations, as well as crisis management; Ireland is a signatory of the EU’s Common Security and Defense Policy and has committed a battalion of troops to the EU’s Rapid Reaction Force; Ireland is not a member of NATO, but has a relationship going back to 1997 when it deployed personnel in support of the NATO-led peacekeeping operations in Bosnia and Herzegovina; Ireland joined NATO’s Partnership for Peace program in 1999; Ireland has been an active participate in UN peacekeeping operations since the 1950s</p><br>
@@ -707,7 +707,7 @@ Continuity Irish Republican Army; New Irish Republican Army; Islamic State of Ir
 <p><em>Ireland-Denmark</em>: Ireland, Iceland, and the UK dispute Denmark's claim that the Faroe Islands' continental shelf extends beyond 200 nm; Iceland, Norway, and the Faroe Islands signed an agreement in 2019 extending the Faroe Islands’ northern continental shelf area</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 42,764 (Ukraine) (as of 26 July 2022)<br>
+_refugees (country of origin)_: 43,521 (Ukraine) (as of 3 August 2022)<br>
 _stateless persons_: 107 (mid-year 2021)<br>
 
 **Trafficking in persons**<br>

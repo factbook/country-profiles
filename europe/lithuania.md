@@ -342,7 +342,7 @@ _chief of state_: President Gitanas NAUSEDA (since 12 July 2019)<br>
 _head of government_: Prime Minister Ingrida SIMONYTE (since 24 November 2020)<br>
 _cabinet_: Council of Ministers nominated by the prime minister, appointed by the president, and approved by Parliament<br>
 _elections/appointments_: president directly elected by absolute majority popular vote in 2 rounds if needed for a 5-year term (eligible for a second term); election last held on 12 and 26 May 2019 (next to be held in May 2024); prime minister appointed by the president, approved by Parliament<br>
-_election results_: Gitanas NAUSEDA elected president in second round; percent of vote - Gitanas NAUSEDA (independent) 66.7%, Ingrida SIMONYTE (independent) 33.3%; Saulius SKVERNELIS (LVZS) approved as prime minister by Parliament vote - 62 to 10<br>
+_election results_: 2019: Gitanas NAUSEDA elected president in second round; percent of vote - Gitanas NAUSEDA (independent) 66.7%, Ingrida SIMONYTE (independent) 33.3%; Saulius SKVERNELIS (LVZS) approved as prime minister by Parliament vote - 62 to 10<br><br>2009: Dalia GRYBAUSKAITE elected president, 69.1%, Algirdas BUTKEVICIUS 11.8%, Valentinas MAZURONIS 6.2%, Valdemar TOMASEVSKI 4.7%, and other 8.2%<br><br><br><br><br> <table style="background: transparent none repeat scroll 0% 0%; width: 31px; height: 39px;"> <tbody> <tr> <td style="width: 75px; text-align: center;"> </td> <td style="width: 75px; text-align: center;"> </td> </tr> </tbody> </table><br>
 
 **Legislative branch**<br>
 _description_: unicameral Parliament or Seimas (141 seats; 71 members directly elected in single-seat constituencies by absolute majority vote and 70 directly elected in a single nationwide constituency by proportional representation vote; members serve 4-year terms)<br>
@@ -542,35 +542,35 @@ _Currency_: litai (LTL) per US dollar -<br>
 _electrification - total population_: 100% (2020)<br>
 
 **Electricity**<br>
-_Installed generating capacity_: 3.512 million kW (2020 est.)<br>
-_Consumption_: 11.063 billion kWh (2020 est.)<br>
-_Exports_: 4.105 billion kWh (2020 est.)<br>
-_Imports_: 12.013 billion kWh (2020 est.)<br>
-_Transmission/distribution losses_: 951 million kWh (2020 est.)<br>
+_installed generating capacity_: 3.512 million kW (2020 est.)<br>
+_consumption_: 11.063 billion kWh (2020 est.)<br>
+_exports_: 4.105 billion kWh (2020 est.)<br>
+_imports_: 12.013 billion kWh (2020 est.)<br>
+_transmission/distribution losses_: 951 million kWh (2020 est.)<br>
 
 **Electricity generation sources**<br>
-_Fossil fuels_: 38% of total installed capacity (2020 est.)<br>
-_Nuclear_: 0% of total installed capacity (2020 est.)<br>
-_Solar_: 3% of total installed capacity (2020 est.)<br>
-_Wind_: 35.5% of total installed capacity (2020 est.)<br>
-_Hydroelectricity_: 6.9% of total installed capacity (2020 est.)<br>
-_Tide and wave_: 0% of total installed capacity (2020 est.)<br>
-_Geothermal_: 0% of total installed capacity (2020 est.)<br>
-_Biomass and waste_: 16.7% of total installed capacity (2020 est.)<br>
+_fossil fuels_: 38% of total installed capacity (2020 est.)<br>
+_nuclear_: 0% of total installed capacity (2020 est.)<br>
+_solar_: 3% of total installed capacity (2020 est.)<br>
+_wind_: 35.5% of total installed capacity (2020 est.)<br>
+_hydroelectricity_: 6.9% of total installed capacity (2020 est.)<br>
+_tide and wave_: 0% of total installed capacity (2020 est.)<br>
+_geothermal_: 0% of total installed capacity (2020 est.)<br>
+_biomass and waste_: 16.7% of total installed capacity (2020 est.)<br>
 
 **Coal**<br>
-_Production_: 0 metric tons (2020 est.)<br>
-_Consumption_: 221,000 metric tons (2020 est.)<br>
-_Exports_: 75,000 metric tons (2020 est.)<br>
-_Imports_: 268,000 metric tons (2020 est.)<br>
-_Proven reserves_: 0 metric tons (2019 est.)<br>
+_production_: 0 metric tons (2020 est.)<br>
+_consumption_: 221,000 metric tons (2020 est.)<br>
+_exports_: 75,000 metric tons (2020 est.)<br>
+_imports_: 268,000 metric tons (2020 est.)<br>
+_proven reserves_: 0 metric tons (2019 est.)<br>
 
 **Petroleum**<br>
-_Total petroleum production_: 4,000 bbl/day (2021 est.)<br>
-_Refined petroleum consumption_: 68,000 bbl/day (2019 est.)<br>
-_Crude oil and lease condensate exports_: 900 barrels/day (2018 est.)<br>
-_Crude oil and lease condensate imports_: 194,900 barrels/day (2018 est.)<br>
-_Crude oil estimated reserves_: 12 million barrels (2021 est.)<br>
+_total petroleum production_: 4,000 bbl/day (2021 est.)<br>
+_refined petroleum consumption_: 68,000 bbl/day (2019 est.)<br>
+_crude oil and lease condensate exports_: 900 barrels/day (2018 est.)<br>
+_crude oil and lease condensate imports_: 194,900 barrels/day (2018 est.)<br>
+_crude oil estimated reserves_: 12 million barrels (2021 est.)<br>
 
 **Refined petroleum products - production**<br>
 196,500 bbl/day (2015 est.)<br>
@@ -582,17 +582,17 @@ _Crude oil estimated reserves_: 12 million barrels (2021 est.)<br>
 42,490 bbl/day (2015 est.)<br>
 
 **Natural gas**<br>
-_Production_: 0 cubic meters (2021 est.)<br>
-_Consumption_: 2,230,854,000 cubic meters (2019 est.)<br>
-_Exports_: 497.923 million cubic meters (2020 est.)<br>
-_Imports_: 2,818,513,000 cubic meters (2020 est.)<br>
-_Proven reserves_: 0 cubic meters (2021 est.)<br>
+_production_: 0 cubic meters (2021 est.)<br>
+_consumption_: 2,230,854,000 cubic meters (2019 est.)<br>
+_exports_: 497.923 million cubic meters (2020 est.)<br>
+_imports_: 2,818,513,000 cubic meters (2020 est.)<br>
+_proven reserves_: 0 cubic meters (2021 est.)<br>
 
 **Carbon dioxide emissions**<br>
-_Total emissions_: 14.503 million metric tonnes of CO2 (2019 est.)<br>
-_From coal and metallurgical coke_: 693,000 metric tonnes of CO2 (2019 est.)<br>
-_From petroleum and other liquids_: 9.488 million metric tonnes of CO2 (2019 est.)<br>
-_From consumed natural gas_: 4.322 million metric tonnes of CO2 (2019 est.)<br>
+_total emissions_: 14.503 million metric tonnes of CO2 (2019 est.)<br>
+_from coal and metallurgical coke_: 693,000 metric tonnes of CO2 (2019 est.)<br>
+_from petroleum and other liquids_: 9.488 million metric tonnes of CO2 (2019 est.)<br>
+_from consumed natural gas_: 4.322 million metric tonnes of CO2 (2019 est.)<br>
 
 **Energy consumption per capita**<br>
 _Total energy consumption per capita 2019_: 101.651 million Btu/person (2019 est.)<br>
@@ -693,7 +693,7 @@ Lithuanian Armed Forces (Lietuvos Ginkluotosios Pajegos): Land Forces (Sausumos 
 1.7% of GDP (2017) (approximately $1.34 billion)<br>
 
 **Military and security service personnel strengths**<br>
-the Lithuanian Armed Forces have approximately 16,500 active duty personnel (13,000 Army, including about 5,000 National Defense Voluntary Forces; 500 Navy; 1,000 Air Force; 2,000 other, including special operations forces, logistics support, training, etc); est. 11,000 Riflemen Union (2021)<br>
+approximately 17,000 active duty personnel (13,500 Army, including about 5,000 National Defense Voluntary Forces; 500 Navy; 1,000 Air Force; 2,000 other, including special operations forces, logistics support, training, etc); estimated 11,000 Riflemen Union (2022)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the Lithuanian Armed Forces' inventory is mostly a mix of Western weapons systems and Soviet-era equipment (primarily aircraft and helicopters); as of 2021, Germany was the leading supplier of armaments to Lithuania (2021)<br>
@@ -703,7 +703,7 @@ the Lithuanian Armed Forces' inventory is mostly a mix of Western weapons system
 <strong>note 1:</strong> Lithuania conscripts up to 4,000 males each year; conscripts are selected using an automated lottery system<br><br><strong>note 2:</strong> as of 2019, women comprised about 12% of the military's full-time personnel<br>
 
 **Military deployments**<br>
-contributes about 350-550 troops to the Lithuania, Poland, and Ukraine joint military brigade (LITPOLUKRBRIG), which was established in 2014; the brigade is headquartered in Poland and is comprised of an international staff, three battalions, and specialized units (2022)<br>
+<strong>note: </strong>contributes about 350-550 troops to the Lithuania, Poland, and Ukraine joint military brigade (LITPOLUKRBRIG), which was established in 2014; the brigade is headquartered in Poland and is comprised of an international staff, three battalions, and specialized units<br>
 
 **Military - note**<br>
 Lithuania became a member of NATO in 2004<br> <p>since 2017, Lithuania has hosted a German-led multi-national NATO ground force battlegroup as part of the Alliance’s Enhanced Forward Presence initiative; NATO also has provided air protection for Lithuania since 2004 through its Air Policing mission; NATO member countries that possess air combat capabilities voluntarily contribute to the mission on 4-month rotations; NATO fighter aircraft are hosted at Lithuania’s Šiauliai Air Base (2022)</p><br>
@@ -714,7 +714,7 @@ Lithuania became a member of NATO in 2004<br> <p>since 2017, Lithuania has hoste
 <p><em>Lithuania-Belarus</em>: as of January 2007, ground demarcation of the boundary with Belarus was complete and mapped with final ratification documents in preparation</p> <p><em>Lithuania-Lativa</em>: boundary demarcated with Latvia was completed in 1998</p> <p><em>Lithuania-Russia</em>:<strong> </strong>Lithuania and Russia committed to demarcating their boundary in 2006 in accordance with the land and maritime treaty ratified by Russia in May 2003 and by Lithuania in 1999; Lithuania operates a simplified transit regime for Russian nationals traveling from the Kaliningrad coastal exclave into Russia, while still conforming, as a EU member state having an external border with a non-EU member, to strict Schengen border rules; in January 2018, demarcation of the Lithuania-Russia border was completed</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 60,010 (Ukraine) (as of 26 July 2022)<br>
+_refugees (country of origin)_: 60,755 (Ukraine) (as of 2 August 2022)<br>
 _stateless persons_: 2,721 (mid-year 2021)<br>
 
 **Illicit drugs**<br>

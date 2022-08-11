@@ -554,35 +554,35 @@ _Currency_: euros (EUR) per US dollar -<br>
 _electrification - total population_: 100% (2020)<br>
 
 **Electricity**<br>
-_Installed generating capacity_: 1.007 million kW (2020 est.)<br>
-_Consumption_: 3,246,760,000 kWh (2019 est.)<br>
-_Exports_: 943 million kWh (2019 est.)<br>
-_Imports_: 1.196 billion kWh (2019 est.)<br>
-_Transmission/distribution losses_: 493 million kWh (2019 est.)<br>
+_installed generating capacity_: 1.007 million kW (2020 est.)<br>
+_consumption_: 3,246,760,000 kWh (2019 est.)<br>
+_exports_: 943 million kWh (2019 est.)<br>
+_imports_: 1.196 billion kWh (2019 est.)<br>
+_transmission/distribution losses_: 493 million kWh (2019 est.)<br>
 
 **Electricity generation sources**<br>
-_Fossil fuels_: 42.3% of total installed capacity (2020 est.)<br>
-_Nuclear_: 0% of total installed capacity (2020 est.)<br>
-_Solar_: 0% of total installed capacity (2020 est.)<br>
-_Wind_: 10.5% of total installed capacity (2020 est.)<br>
-_Hydroelectricity_: 47.2% of total installed capacity (2020 est.)<br>
-_Tide and wave_: 0% of total installed capacity (2020 est.)<br>
-_Geothermal_: 0% of total installed capacity (2020 est.)<br>
-_Biomass and waste_: 0% of total installed capacity (2020 est.)<br>
+_fossil fuels_: 42.3% of total installed capacity (2020 est.)<br>
+_nuclear_: 0% of total installed capacity (2020 est.)<br>
+_solar_: 0% of total installed capacity (2020 est.)<br>
+_wind_: 10.5% of total installed capacity (2020 est.)<br>
+_hydroelectricity_: 47.2% of total installed capacity (2020 est.)<br>
+_tide and wave_: 0% of total installed capacity (2020 est.)<br>
+_geothermal_: 0% of total installed capacity (2020 est.)<br>
+_biomass and waste_: 0% of total installed capacity (2020 est.)<br>
 
 **Coal**<br>
-_Production_: 1.456 million metric tons (2020 est.)<br>
-_Consumption_: 1.351 million metric tons (2020 est.)<br>
-_Exports_: 96,000 metric tons (2020 est.)<br>
-_Imports_: 1,000 metric tons (2020 est.)<br>
-_Proven reserves_: 142 million metric tons (2019 est.)<br>
+_production_: 1.456 million metric tons (2020 est.)<br>
+_consumption_: 1.351 million metric tons (2020 est.)<br>
+_exports_: 96,000 metric tons (2020 est.)<br>
+_imports_: 1,000 metric tons (2020 est.)<br>
+_proven reserves_: 142 million metric tons (2019 est.)<br>
 
 **Petroleum**<br>
-_Total petroleum production_: 0 bbl/day (2021 est.)<br>
-_Refined petroleum consumption_: 7,600 bbl/day (2019 est.)<br>
-_Crude oil and lease condensate exports_: 0 barrels/day (2018 est.)<br>
-_Crude oil and lease condensate imports_: 0 barrels/day (2018 est.)<br>
-_Crude oil estimated reserves_: 0 barrels (2021 est.)<br>
+_total petroleum production_: 0 bbl/day (2021 est.)<br>
+_refined petroleum consumption_: 7,600 bbl/day (2019 est.)<br>
+_crude oil and lease condensate exports_: 0 barrels/day (2018 est.)<br>
+_crude oil and lease condensate imports_: 0 barrels/day (2018 est.)<br>
+_crude oil estimated reserves_: 0 barrels (2021 est.)<br>
 
 **Refined petroleum products - production**<br>
 0 bbl/day (2015 est.)<br>
@@ -594,17 +594,17 @@ _Crude oil estimated reserves_: 0 barrels (2021 est.)<br>
 6,448 bbl/day (2015 est.)<br>
 
 **Natural gas**<br>
-_Production_: 0 cubic meters (2021 est.)<br>
-_Consumption_: 0 cubic meters (2021 est.)<br>
-_Exports_: 0 cubic meters (2021 est.)<br>
-_Imports_: 0 cubic meters (2021 est.)<br>
-_Proven reserves_: 0 cubic meters (2021 est.)<br>
+_production_: 0 cubic meters (2021 est.)<br>
+_consumption_: 0 cubic meters (2021 est.)<br>
+_exports_: 0 cubic meters (2021 est.)<br>
+_imports_: 0 cubic meters (2021 est.)<br>
+_proven reserves_: 0 cubic meters (2021 est.)<br>
 
 **Carbon dioxide emissions**<br>
-_Total emissions_: 2.447 million metric tonnes of CO2 (2019 est.)<br>
-_From coal and metallurgical coke_: 1.333 million metric tonnes of CO2 (2019 est.)<br>
-_From petroleum and other liquids_: 1.114 million metric tonnes of CO2 (2019 est.)<br>
-_From consumed natural gas_: 0 metric tonnes of CO2 (2019 est.)<br>
+_total emissions_: 2.447 million metric tonnes of CO2 (2019 est.)<br>
+_from coal and metallurgical coke_: 1.333 million metric tonnes of CO2 (2019 est.)<br>
+_from petroleum and other liquids_: 1.114 million metric tonnes of CO2 (2019 est.)<br>
+_from consumed natural gas_: 0 metric tonnes of CO2 (2019 est.)<br>
 
 **Energy consumption per capita**<br>
 _Total energy consumption per capita 2019_: 77.286 million Btu/person (2019 est.)<br>
@@ -692,7 +692,7 @@ the Armed Forces of the Republic of Montenegro: joint force with land, air, and 
 1.3% of GDP (2017) (approximately $110 million)<br>
 
 **Military and security service personnel strengths**<br>
-approximately 2,000 total active duty troops (2021)<br>
+approximately 2,000 active duty troops (2022)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the inventory of the Armed Forces of Montenegro is small and consists mostly of equipment inherited from the former Yugoslavia military, with a limited mix of other imported systems; since 2010, it has received small quantities of equipment from Austria, Turkey, and the US (2021)<br>
@@ -712,9 +712,9 @@ Montenegro became a member of NATO in 2017; as of 2022, Greece and Italy provide
 <p><em>Montenegro-Albania</em>: none identified</p> <p><em>Montenegro-Bosnia and Herzegovina</em>: the two countries signed a border agreement in August 2015; sovereignty of the disputed Sutorina territory was given to Montenegro</p> <p><em>Montenegro-Croatia</em>: the two countries in 2002 reached a temporary agreement designating the Prevlaka Peninsula as part of Croatia, in October 2020, a Montenegrin official resurrected the dormant dispute over the Prevlaka Peninsula by stating that Montenegro had a good chance of winning it through international arbitration</p> <p><em>Montenegro-Kosovo</em>: a 2015 border agreement was ratified by Montenegro in 2015 and by Kosovo in 2018, but the actual demarcation has not been completed</p> <p><em>Montenegro-Serbia</em>: The former republic boundary – when the two countries were one and called the Federal Republic of Yugoslavia – serves as the boundary until a line is formally delimited and demarcated</p> <p> </p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 9,609 (Ukraine) (as of 12 July 2022)<br>
+_refugees (country of origin)_: 9,764 (Ukraine) (as of 2 August 2022)<br>
 _stateless persons_: 458 (mid-year 2021)<br>
-<strong>note:</strong> 22,941 estimated refugee and migrant arrivals (January 2015-July 2022)<br>
+<strong>note:</strong> 23,141 estimated refugee and migrant arrivals (January 2015-July 2022)<br>
 
 **Illicit drugs**<br>
 <p>drug trafficking groups are major players in the procurement and transportation of large quantities of cocaine  destined for  European markets</p><br>

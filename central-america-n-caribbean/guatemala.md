@@ -549,35 +549,35 @@ _electrification - urban areas_: 99% (2019)<br>
 _electrification - rural areas_: 85% (2019)<br>
 
 **Electricity**<br>
-_Installed generating capacity_: 5.185 million kW (2020 est.)<br>
-_Consumption_: 10,793,650,000 kWh (2019 est.)<br>
-_Exports_: 2.19 billion kWh (2019 est.)<br>
-_Imports_: 1.141 billion kWh (2019 est.)<br>
-_Transmission/distribution losses_: 1.587 billion kWh (2019 est.)<br>
+_installed generating capacity_: 5.185 million kW (2020 est.)<br>
+_consumption_: 10,793,650,000 kWh (2019 est.)<br>
+_exports_: 2.19 billion kWh (2019 est.)<br>
+_imports_: 1.141 billion kWh (2019 est.)<br>
+_transmission/distribution losses_: 1.587 billion kWh (2019 est.)<br>
 
 **Electricity generation sources**<br>
-_Fossil fuels_: 39.4% of total installed capacity (2020 est.)<br>
-_Nuclear_: 0% of total installed capacity (2020 est.)<br>
-_Solar_: 1.5% of total installed capacity (2020 est.)<br>
-_Wind_: 2.1% of total installed capacity (2020 est.)<br>
-_Hydroelectricity_: 38% of total installed capacity (2020 est.)<br>
-_Tide and wave_: 0% of total installed capacity (2020 est.)<br>
-_Geothermal_: 2.2% of total installed capacity (2020 est.)<br>
-_Biomass and waste_: 17% of total installed capacity (2020 est.)<br>
+_fossil fuels_: 39.4% of total installed capacity (2020 est.)<br>
+_nuclear_: 0% of total installed capacity (2020 est.)<br>
+_solar_: 1.5% of total installed capacity (2020 est.)<br>
+_wind_: 2.1% of total installed capacity (2020 est.)<br>
+_hydroelectricity_: 38% of total installed capacity (2020 est.)<br>
+_tide and wave_: 0% of total installed capacity (2020 est.)<br>
+_geothermal_: 2.2% of total installed capacity (2020 est.)<br>
+_biomass and waste_: 17% of total installed capacity (2020 est.)<br>
 
 **Coal**<br>
-_Production_: 0 metric tons (2020 est.)<br>
-_Consumption_: 2.28 million metric tons (2020 est.)<br>
-_Exports_: 0 metric tons (2020 est.)<br>
-_Imports_: 2.376 million metric tons (2020 est.)<br>
-_Proven reserves_: 0 metric tons (2019 est.)<br>
+_production_: 0 metric tons (2020 est.)<br>
+_consumption_: 2.28 million metric tons (2020 est.)<br>
+_exports_: 0 metric tons (2020 est.)<br>
+_imports_: 2.376 million metric tons (2020 est.)<br>
+_proven reserves_: 0 metric tons (2019 est.)<br>
 
 **Petroleum**<br>
-_Total petroleum production_: 10,300 bbl/day (2021 est.)<br>
-_Refined petroleum consumption_: 112,600 bbl/day (2019 est.)<br>
-_Crude oil and lease condensate exports_: 6,700 barrels/day (2018 est.)<br>
-_Crude oil and lease condensate imports_: 0 barrels/day (2018 est.)<br>
-_Crude oil estimated reserves_: 86.1 million barrels (2021 est.)<br>
+_total petroleum production_: 10,300 bbl/day (2021 est.)<br>
+_refined petroleum consumption_: 112,600 bbl/day (2019 est.)<br>
+_crude oil and lease condensate exports_: 6,700 barrels/day (2018 est.)<br>
+_crude oil and lease condensate imports_: 0 barrels/day (2018 est.)<br>
+_crude oil estimated reserves_: 86.1 million barrels (2021 est.)<br>
 
 **Refined petroleum products - production**<br>
 1,162 bbl/day (2015 est.)<br>
@@ -589,17 +589,17 @@ _Crude oil estimated reserves_: 86.1 million barrels (2021 est.)<br>
 97,900 bbl/day (2015 est.)<br>
 
 **Natural gas**<br>
-_Production_: 0 cubic meters (2021 est.)<br>
-_Consumption_: 0 cubic meters (2021 est.)<br>
-_Exports_: 0 cubic meters (2021 est.)<br>
-_Imports_: 0 cubic meters (2021 est.)<br>
-_Proven reserves_: 0 cubic meters (2021 est.)<br>
+_production_: 0 cubic meters (2021 est.)<br>
+_consumption_: 0 cubic meters (2021 est.)<br>
+_exports_: 0 cubic meters (2021 est.)<br>
+_imports_: 0 cubic meters (2021 est.)<br>
+_proven reserves_: 0 cubic meters (2021 est.)<br>
 
 **Carbon dioxide emissions**<br>
-_Total emissions_: 19.041 million metric tonnes of CO2 (2019 est.)<br>
-_From coal and metallurgical coke_: 5.037 million metric tonnes of CO2 (2019 est.)<br>
-_From petroleum and other liquids_: 14.004 million metric tonnes of CO2 (2019 est.)<br>
-_From consumed natural gas_: 0 metric tonnes of CO2 (2019 est.)<br>
+_total emissions_: 19.041 million metric tonnes of CO2 (2019 est.)<br>
+_from coal and metallurgical coke_: 5.037 million metric tonnes of CO2 (2019 est.)<br>
+_from petroleum and other liquids_: 14.004 million metric tonnes of CO2 (2019 est.)<br>
+_from consumed natural gas_: 0 metric tonnes of CO2 (2019 est.)<br>
 
 **Energy consumption per capita**<br>
 _Total energy consumption per capita 2019_: 19.411 million Btu/person (2019 est.)<br>
@@ -701,7 +701,7 @@ Army of Guatemala (Ejercito de Guatemala): Land Forces (Fuerzas de Tierra), Nava
 0.4% of GDP (2017) (approximately $460 million)<br>
 
 **Military and security service personnel strengths**<br>
-information varies; approximately 20,000 active personnel (18,000 Land Forces; 1,000 Naval Forces; 1,000 Air Forces); approximately 30,000 National Civil Police (2022)<br>
+information varies; approximately 20,000 active military personnel (18,000 Land Forces; 1,000 Naval Forces; 1,000 Air Forces); approximately 30,000 National Civil Police (2022)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the Guatemalan military inventory is small and mostly comprised of older US equipment; since 2010, Guatemala has received small amounts of equipment from several countries, including the US (2022)<br>
@@ -711,7 +711,7 @@ all male citizens between the ages of 18 and 50 are eligible for military servic
 <strong>note:</strong> as of 2017, women made up an approximately 5-10% of the active military<br>
 
 **Military deployments**<br>
-155 Democratic Republic of the Congo (MONUSCO) (Jan 2022)<br>
+155 Democratic Republic of the Congo (MONUSCO) (May 2022)<br>
 
 **Military - note**<br>
 since the 2000s, the Guatemalan Government has used the Army to support the National Civil Police (PNC; under the Ministry of Government) in internal security operations (as permitted by the constitution) to combat organized crime, gang violence, and narco-trafficking <br><br>the military held power during most of the country’s 36-year civil war (1960-1996) and conducted a campaign of widespread violence and repression, particularly against the country’s majority indigenous population; more than 200,000 people were estimated to have been killed or disappeared during the conflict (2022)<br>

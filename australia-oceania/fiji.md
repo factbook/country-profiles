@@ -526,35 +526,35 @@ _electrification - urban areas_: 100% (2018)<br>
 _electrification - rural areas_: 99.2% (2018)<br>
 
 **Electricity**<br>
-_Installed generating capacity_: 393,000 kW (2020 est.)<br>
-_Consumption_: 1,022,955,000 kWh (2019 est.)<br>
-_Exports_: 0 kWh (2020 est.)<br>
-_Imports_: 0 kWh (2020 est.)<br>
-_Transmission/distribution losses_: 90 million kWh (2019 est.)<br>
+_installed generating capacity_: 393,000 kW (2020 est.)<br>
+_consumption_: 1,022,955,000 kWh (2019 est.)<br>
+_exports_: 0 kWh (2020 est.)<br>
+_imports_: 0 kWh (2020 est.)<br>
+_transmission/distribution losses_: 90 million kWh (2019 est.)<br>
 
 **Electricity generation sources**<br>
-_Fossil fuels_: 41.9% of total installed capacity (2020 est.)<br>
-_Nuclear_: 0% of total installed capacity (2020 est.)<br>
-_Solar_: 1.6% of total installed capacity (2020 est.)<br>
-_Wind_: 0.3% of total installed capacity (2020 est.)<br>
-_Hydroelectricity_: 50.2% of total installed capacity (2020 est.)<br>
-_Tide and wave_: 0% of total installed capacity (2020 est.)<br>
-_Geothermal_: 0% of total installed capacity (2020 est.)<br>
-_Biomass and waste_: 6% of total installed capacity (2020 est.)<br>
+_fossil fuels_: 41.9% of total installed capacity (2020 est.)<br>
+_nuclear_: 0% of total installed capacity (2020 est.)<br>
+_solar_: 1.6% of total installed capacity (2020 est.)<br>
+_wind_: 0.3% of total installed capacity (2020 est.)<br>
+_hydroelectricity_: 50.2% of total installed capacity (2020 est.)<br>
+_tide and wave_: 0% of total installed capacity (2020 est.)<br>
+_geothermal_: 0% of total installed capacity (2020 est.)<br>
+_biomass and waste_: 6% of total installed capacity (2020 est.)<br>
 
 **Coal**<br>
-_Production_: 0 metric tons (2020 est.)<br>
-_Consumption_: 0 metric tons (2020 est.)<br>
-_Exports_: 0 metric tons (2020 est.)<br>
-_Imports_: 0 metric tons (2020 est.)<br>
-_Proven reserves_: 0 metric tons (2019 est.)<br>
+_production_: 0 metric tons (2020 est.)<br>
+_consumption_: 0 metric tons (2020 est.)<br>
+_exports_: 0 metric tons (2020 est.)<br>
+_imports_: 0 metric tons (2020 est.)<br>
+_proven reserves_: 0 metric tons (2019 est.)<br>
 
 **Petroleum**<br>
-_Total petroleum production_: 0 bbl/day (2021 est.)<br>
-_Refined petroleum consumption_: 11,500 bbl/day (2019 est.)<br>
-_Crude oil and lease condensate exports_: 0 barrels/day (2018 est.)<br>
-_Crude oil and lease condensate imports_: 0 barrels/day (2018 est.)<br>
-_Crude oil estimated reserves_: 0 barrels (2021 est.)<br>
+_total petroleum production_: 0 bbl/day (2021 est.)<br>
+_refined petroleum consumption_: 11,500 bbl/day (2019 est.)<br>
+_crude oil and lease condensate exports_: 0 barrels/day (2018 est.)<br>
+_crude oil and lease condensate imports_: 0 barrels/day (2018 est.)<br>
+_crude oil estimated reserves_: 0 barrels (2021 est.)<br>
 
 **Refined petroleum products - production**<br>
 0 bbl/day (2015 est.)<br>
@@ -566,17 +566,17 @@ _Crude oil estimated reserves_: 0 barrels (2021 est.)<br>
 17,460 bbl/day (2015 est.)<br>
 
 **Natural gas**<br>
-_Production_: 0 cubic meters (2021 est.)<br>
-_Consumption_: 0 cubic meters (2021 est.)<br>
-_Exports_: 0 cubic meters (2021 est.)<br>
-_Imports_: 0 cubic meters (2021 est.)<br>
-_Proven reserves_: 0 cubic meters (2021 est.)<br>
+_production_: 0 cubic meters (2021 est.)<br>
+_consumption_: 0 cubic meters (2021 est.)<br>
+_exports_: 0 cubic meters (2021 est.)<br>
+_imports_: 0 cubic meters (2021 est.)<br>
+_proven reserves_: 0 cubic meters (2021 est.)<br>
 
 **Carbon dioxide emissions**<br>
-_Total emissions_: 1.691 million metric tonnes of CO2 (2019 est.)<br>
-_From coal and metallurgical coke_: 0 metric tonnes of CO2 (2019 est.)<br>
-_From petroleum and other liquids_: 1.691 million metric tonnes of CO2 (2019 est.)<br>
-_From consumed natural gas_: 0 metric tonnes of CO2 (2019 est.)<br>
+_total emissions_: 1.691 million metric tonnes of CO2 (2019 est.)<br>
+_from coal and metallurgical coke_: 0 metric tonnes of CO2 (2019 est.)<br>
+_from petroleum and other liquids_: 1.691 million metric tonnes of CO2 (2019 est.)<br>
+_from consumed natural gas_: 0 metric tonnes of CO2 (2019 est.)<br>
 
 **Energy consumption per capita**<br>
 _Total energy consumption per capita 2019_: 32.901 million Btu/person (2019 est.)<br>
@@ -670,7 +670,7 @@ Republic of Fiji Military Force (RFMF): Land Force Command, Maritime Command; Fi
 1.5% of GDP (2017 est.) (approximately $150 million)<br>
 
 **Military and security service personnel strengths**<br>
-the<strong> </strong>Republic of Fiji Military Forces (RFMF) have about 3,500 personnel (3,200 Land Force; 300 Maritime Command) (2021)<br>
+approximately 4,000 active personnel (2022)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the RFMF is lightly armed and equipped; Australia has provided patrol boats and a few armored personnel carriers; it also provides logistical support for RFMF regional or UN operations; in recent years, China has provided construction equipment and military vehicles (2021)<br>
@@ -679,7 +679,7 @@ the RFMF is lightly armed and equipped; Australia has provided patrol boats and 
 18 years of age for voluntary military service; mandatory retirement at age 55 (2021)<br>
 
 **Military deployments**<br>
-170 Egypt (MFO); 160 Iraq (UNAMI); 150 Golan Heights (UNDOF) (2022)<br>
+170 Egypt (MFO); 165 Iraq (UNAMI); 150 Golan Heights (UNDOF) (2022)<br>
 
 **Military - note**<br>
 the RFMF has a history of intervening in the country’s politics since the late 1980s, including coups in 1987 and 2006, and a mutiny in 2000 <br><br>the RFMF also has a long tradition of participating in UN peacekeeping operations; since its first deployment of troops to South Lebanon in 1978 under the United Nations Interim Force in Lebanon (UNIFIL), it has deployed troops on nearly 20 additional UN missions (2022)<br>

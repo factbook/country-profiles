@@ -561,35 +561,35 @@ _Currency_: Serbian dinars (RSD) per US dollar -<br>
 _electrification - total population_: 100% (2020)<br>
 
 **Electricity**<br>
-_Installed generating capacity_: 8.986 million kW (2020 est.)<br>
-_Consumption_: 29,933,262,000 kWh (2019 est.)<br>
-_Exports_: 5.943 billion kWh (2020 est.)<br>
-_Imports_: 5.002 billion kWh (2020 est.)<br>
-_Transmission/distribution losses_: 4.332 billion kWh (2019 est.)<br>
+_installed generating capacity_: 8.986 million kW (2020 est.)<br>
+_consumption_: 29,933,262,000 kWh (2019 est.)<br>
+_exports_: 5.943 billion kWh (2020 est.)<br>
+_imports_: 5.002 billion kWh (2020 est.)<br>
+_transmission/distribution losses_: 4.332 billion kWh (2019 est.)<br>
 
 **Electricity generation sources**<br>
-_Fossil fuels_: 69.2% of total installed capacity (2020 est.)<br>
-_Nuclear_: 0% of total installed capacity (2020 est.)<br>
-_Solar_: 0% of total installed capacity (2020 est.)<br>
-_Wind_: 2.9% of total installed capacity (2020 est.)<br>
-_Hydroelectricity_: 27.3% of total installed capacity (2020 est.)<br>
-_Tide and wave_: 0% of total installed capacity (2020 est.)<br>
-_Geothermal_: 0% of total installed capacity (2020 est.)<br>
-_Biomass and waste_: 0.5% of total installed capacity (2020 est.)<br>
+_fossil fuels_: 69.2% of total installed capacity (2020 est.)<br>
+_nuclear_: 0% of total installed capacity (2020 est.)<br>
+_solar_: 0% of total installed capacity (2020 est.)<br>
+_wind_: 2.9% of total installed capacity (2020 est.)<br>
+_hydroelectricity_: 27.3% of total installed capacity (2020 est.)<br>
+_tide and wave_: 0% of total installed capacity (2020 est.)<br>
+_geothermal_: 0% of total installed capacity (2020 est.)<br>
+_biomass and waste_: 0.5% of total installed capacity (2020 est.)<br>
 
 **Coal**<br>
-_Production_: 39.673 million metric tons (2020 est.)<br>
-_Consumption_: 40.83 million metric tons (2020 est.)<br>
-_Exports_: 72,000 metric tons (2020 est.)<br>
-_Imports_: 987,000 metric tons (2020 est.)<br>
-_Proven reserves_: 7.514 billion metric tons (2019 est.)<br>
+_production_: 39.673 million metric tons (2020 est.)<br>
+_consumption_: 40.83 million metric tons (2020 est.)<br>
+_exports_: 72,000 metric tons (2020 est.)<br>
+_imports_: 987,000 metric tons (2020 est.)<br>
+_proven reserves_: 7.514 billion metric tons (2019 est.)<br>
 
 **Petroleum**<br>
-_Total petroleum production_: 15,200 bbl/day (2021 est.)<br>
-_Refined petroleum consumption_: 79,200 bbl/day (2019 est.)<br>
-_Crude oil and lease condensate exports_: 200 barrels/day (2018 est.)<br>
-_Crude oil and lease condensate imports_: 53,800 barrels/day (2018 est.)<br>
-_Crude oil estimated reserves_: 77.5 million barrels (2021 est.)<br>
+_total petroleum production_: 15,200 bbl/day (2021 est.)<br>
+_refined petroleum consumption_: 79,200 bbl/day (2019 est.)<br>
+_crude oil and lease condensate exports_: 200 barrels/day (2018 est.)<br>
+_crude oil and lease condensate imports_: 53,800 barrels/day (2018 est.)<br>
+_crude oil estimated reserves_: 77.5 million barrels (2021 est.)<br>
 
 **Refined petroleum products - production**<br>
 74,350 bbl/day (2015 est.)<br>
@@ -601,17 +601,17 @@ _Crude oil estimated reserves_: 77.5 million barrels (2021 est.)<br>
 18,720 bbl/day (2015 est.)<br>
 
 **Natural gas**<br>
-_Production_: 455.787 million cubic meters (2019 est.)<br>
-_Consumption_: 2,619,191,000 cubic meters (2019 est.)<br>
-_Exports_: 0 cubic meters (2021 est.)<br>
-_Imports_: 1,980,647,000 cubic meters (2019 est.)<br>
-_Proven reserves_: 48.139 billion cubic meters (2021 est.)<br>
+_production_: 455.787 million cubic meters (2019 est.)<br>
+_consumption_: 2,619,191,000 cubic meters (2019 est.)<br>
+_exports_: 0 cubic meters (2021 est.)<br>
+_imports_: 1,980,647,000 cubic meters (2019 est.)<br>
+_proven reserves_: 48.139 billion cubic meters (2021 est.)<br>
 
 **Carbon dioxide emissions**<br>
-_Total emissions_: 47.735 million metric tonnes of CO2 (2019 est.)<br>
-_From coal and metallurgical coke_: 32.686 million metric tonnes of CO2 (2019 est.)<br>
-_From petroleum and other liquids_: 10.17 million metric tonnes of CO2 (2019 est.)<br>
-_From consumed natural gas_: 4.878 million metric tonnes of CO2 (2019 est.)<br>
+_total emissions_: 47.735 million metric tonnes of CO2 (2019 est.)<br>
+_from coal and metallurgical coke_: 32.686 million metric tonnes of CO2 (2019 est.)<br>
+_from petroleum and other liquids_: 10.17 million metric tonnes of CO2 (2019 est.)<br>
+_from consumed natural gas_: 4.878 million metric tonnes of CO2 (2019 est.)<br>
 
 **Energy consumption per capita**<br>
 _Total energy consumption per capita 2019_: 98.195 million Btu/person (2019 est.)<br>
@@ -715,7 +715,7 @@ the inventory of the Serbian Armed Forces consists of Russian and Soviet-era wea
 <strong>note:</strong> as of 2019, women made up about 6% of the military's full-time personnel<br>
 
 **Military deployments**<br>
-200 Lebanon (UNIFIL) (Feb 2022)<br>
+175 Lebanon (UNIFIL) (May 2022)<br>
 
 **Military - note**<br>
 Serbia does not aspire to join NATO, but has cooperated with the Alliance since 2006 when it joined the Partnership for Peace program; Serbia maintains security ties with Russia (2022)<br>
@@ -726,7 +726,7 @@ Serbia does not aspire to join NATO, but has cooperated with the Alliance since 
 <p><em>Serbia-Bosnia and Herzegovina</em>: Serbia delimited about half of the boundary with Bosnia and Herzegovina, but sections along the Drina River remain in dispute</p> <p><em>Serbia-Bulgaria</em>: none identified</p> <p><em>Serbia-Croatia</em>: Serbia and Croatia dispute their border along the Danube; Serbia claims the border is the median between the current Danube shorelines, with the land to the eastern side of the median belonging to Serbia; Croatia contends that the boundary is demarcated according to historic maps, despite the river having meandered since then</p> <p><em>Serbia-Hungary</em>: none identified</p> <p><em>Serbia-Kosovo</em>: Serbia with several other states protested the US and other states' recognition of Kosovo's declaration of its status as a sovereign and independent state in February 2008; ethnic Serbian municipalities along Kosovo's northern border challenge final status of Kosovo-Serbia boundary; since 1999, NATO-led Kosovo Force peacekeepers under UN Interim Administration Mission in Kosovo (UNMIK) authority have continued to keep the peace within Kosovo between the ethnic Albanian majority and the Serb minority; in October 2021, NATO-led KFOR increased patrols along the border with Serbia to deescalate hostilities caused by a dispute over license plates</p> <p><em>Serbia-Montenegro</em>: the former republic boundary serves as the boundary until a line is formally delimited and demarcated</p> <p><em>Serbia-North Macedonia</em>: none identified</p> <p><em>Serbia-Romania</em>: none identified</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 17,336 (Croatia), 7,997 (Bosnia and Herzegovina) (mid-year 2021); 13,482 (Ukraine) (includes Kosovo; as of 26 July 2022)<br>
+_refugees (country of origin)_: 17,336 (Croatia), 7,997 (Bosnia and Herzegovina) (mid-year 2021); 14,366 (Ukraine) (includes Kosovo; as of 3 August 2022)<br>
 _IDPs_: 196,995 (most are Kosovar Serbs, some are Roma, Ashkalis, and Egyptian (RAE); some RAE IDPs are unregistered) (2021)<br>
 _stateless persons_: 2,113 (includes stateless persons in Kosovo) (mid-year 2021)<br>
 <strong>note:</strong> 854,443 estimated refugee and migrant arrivals (January 2015-July 2022); Serbia is predominantly a transit country and hosts an estimated 5,918 migrants and asylum seekers as of May 2022<br>

@@ -550,35 +550,35 @@ _Currency_: Sri Lankan rupees (LKR) per US dollar -<br>
 _electrification - total population_: 100% (2019)<br>
 
 **Electricity**<br>
-_Installed generating capacity_: 4.527 million kW (2020 est.)<br>
-_Consumption_: 13,991,420,000 kWh (2019 est.)<br>
-_Exports_: 0 kWh (2020 est.)<br>
-_Imports_: 0 kWh (2020 est.)<br>
-_Transmission/distribution losses_: 1.337 billion kWh (2019 est.)<br>
+_installed generating capacity_: 4.527 million kW (2020 est.)<br>
+_consumption_: 13,991,420,000 kWh (2019 est.)<br>
+_exports_: 0 kWh (2020 est.)<br>
+_imports_: 0 kWh (2020 est.)<br>
+_transmission/distribution losses_: 1.337 billion kWh (2019 est.)<br>
 
 **Electricity generation sources**<br>
-_Fossil fuels_: 64% of total installed capacity (2020 est.)<br>
-_Nuclear_: 0% of total installed capacity (2020 est.)<br>
-_Solar_: 0.7% of total installed capacity (2020 est.)<br>
-_Wind_: 2.3% of total installed capacity (2020 est.)<br>
-_Hydroelectricity_: 32.2% of total installed capacity (2020 est.)<br>
-_Tide and wave_: 0% of total installed capacity (2020 est.)<br>
-_Geothermal_: 0% of total installed capacity (2020 est.)<br>
-_Biomass and waste_: 0.8% of total installed capacity (2020 est.)<br>
+_fossil fuels_: 64% of total installed capacity (2020 est.)<br>
+_nuclear_: 0% of total installed capacity (2020 est.)<br>
+_solar_: 0.7% of total installed capacity (2020 est.)<br>
+_wind_: 2.3% of total installed capacity (2020 est.)<br>
+_hydroelectricity_: 32.2% of total installed capacity (2020 est.)<br>
+_tide and wave_: 0% of total installed capacity (2020 est.)<br>
+_geothermal_: 0% of total installed capacity (2020 est.)<br>
+_biomass and waste_: 0.8% of total installed capacity (2020 est.)<br>
 
 **Coal**<br>
-_Production_: 0 metric tons (2020 est.)<br>
-_Consumption_: 2.237 million metric tons (2020 est.)<br>
-_Exports_: 0 metric tons (2020 est.)<br>
-_Imports_: 2.586 million metric tons (2020 est.)<br>
-_Proven reserves_: 0 metric tons (2019 est.)<br>
+_production_: 0 metric tons (2020 est.)<br>
+_consumption_: 2.237 million metric tons (2020 est.)<br>
+_exports_: 0 metric tons (2020 est.)<br>
+_imports_: 2.586 million metric tons (2020 est.)<br>
+_proven reserves_: 0 metric tons (2019 est.)<br>
 
 **Petroleum**<br>
-_Total petroleum production_: 0 bbl/day (2021 est.)<br>
-_Refined petroleum consumption_: 131,100 bbl/day (2019 est.)<br>
-_Crude oil and lease condensate exports_: 0 barrels/day (2018 est.)<br>
-_Crude oil and lease condensate imports_: 35,300 barrels/day (2018 est.)<br>
-_Crude oil estimated reserves_: 0 barrels (2021 est.)<br>
+_total petroleum production_: 0 bbl/day (2021 est.)<br>
+_refined petroleum consumption_: 131,100 bbl/day (2019 est.)<br>
+_crude oil and lease condensate exports_: 0 barrels/day (2018 est.)<br>
+_crude oil and lease condensate imports_: 35,300 barrels/day (2018 est.)<br>
+_crude oil estimated reserves_: 0 barrels (2021 est.)<br>
 
 **Refined petroleum products - production**<br>
 34,210 bbl/day (2017 est.)<br>
@@ -590,17 +590,17 @@ _Crude oil estimated reserves_: 0 barrels (2021 est.)<br>
 66,280 bbl/day (2015 est.)<br>
 
 **Natural gas**<br>
-_Production_: 0 cubic meters (2021 est.)<br>
-_Consumption_: 0 cubic meters (2021 est.)<br>
-_Exports_: 0 cubic meters (2021 est.)<br>
-_Imports_: 0 cubic meters (2021 est.)<br>
-_Proven reserves_: 0 cubic meters (2021 est.)<br>
+_production_: 0 cubic meters (2021 est.)<br>
+_consumption_: 0 cubic meters (2021 est.)<br>
+_exports_: 0 cubic meters (2021 est.)<br>
+_imports_: 0 cubic meters (2021 est.)<br>
+_proven reserves_: 0 cubic meters (2021 est.)<br>
 
 **Carbon dioxide emissions**<br>
-_Total emissions_: 23.939 million metric tonnes of CO2 (2019 est.)<br>
-_From coal and metallurgical coke_: 5.546 million metric tonnes of CO2 (2019 est.)<br>
-_From petroleum and other liquids_: 18.393 million metric tonnes of CO2 (2019 est.)<br>
-_From consumed natural gas_: 0 metric tonnes of CO2 (2019 est.)<br>
+_total emissions_: 23.939 million metric tonnes of CO2 (2019 est.)<br>
+_from coal and metallurgical coke_: 5.546 million metric tonnes of CO2 (2019 est.)<br>
+_from petroleum and other liquids_: 18.393 million metric tonnes of CO2 (2019 est.)<br>
+_from consumed natural gas_: 0 metric tonnes of CO2 (2019 est.)<br>
 
 **Energy consumption per capita**<br>
 _Total energy consumption per capita 2019_: 17.268 million Btu/person (2019 est.)<br>
@@ -700,7 +700,7 @@ Sri Lanka Army (includes National Guard and the Volunteer Force), Sri Lanka Navy
 2.2% of GDP (2017 est.) (approximately $6.07 billion)<br>
 
 **Military and security service personnel strengths**<br>
-approximately 240,000 total personnel (170,000 Army; 40,000 Navy; 30,000 Air Force); approximately 11,000 Special Task Force (2022)<br>
+approximately 240,000 total personnel (170,000 Army; 40,000 Navy; 30,000 Air Force); approximately 11,000 Special Task Force personnel (2022)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the Sri Lankan military inventory consists mostly of Chinese and Russian-origin equipment; since 2010, China, India, and the US have been the leading suppliers of arms to Sri Lanka (2022)<br>
@@ -709,7 +709,7 @@ the Sri Lankan military inventory consists mostly of Chinese and Russian-origin 
 18-22 years of age for voluntary military service (men and women); no conscription (2022)<br>
 
 **Military deployments**<br>
-110 Central African Republic (MINUSCA); 125 Lebanon (UNIFIL); 240 Mali (MINUSMA) (Feb 2022)<br>
+110 Central African Republic (MINUSCA); 125 Lebanon (UNIFIL); 240 Mali (MINUSMA) (May 2022)<br>
 
 **Military - note**<br>
 Sri Lanka traditionally has had close security ties to India; India participated in the counter-insurgency war against the LTTE from 1987-1991, losing over 1,000 soldiers in the conflict; the Sri Lankan and Indian militaries continue to conduct exercises together, and India trains over 1,000 Sri Lankan soldiers per year; however, since the end of the war with LTTE, Sri Lanka has also increased military ties with China, including acquiring military equipment, hosting naval port calls, and sending personnel to China for training (2022)<br>

@@ -359,11 +359,11 @@ _residency requirement for naturalization_: 5 years<br>
 18 years of age; universal<br>
 
 **Executive branch**<br>
-_chief of state_: President Ivan DUQUE Marquez (since 7 August 2018); Vice President Marta Lucia RAMIREZ Blanco (since 7 August 2018); the president is both chief of state and head of government<br>
-_head of government_: President Ivan DUQUE Marquez (since 7 August 2018); Vice President Marta Lucia RAMIREZ Blanco (since 7 August 2018)<br>
+_chief of state_: President Gustavo Francisco PETRO Urrego (since 7 August 2022); Vice President Francia Elena MARQUEZ Mina (since 7 August 2022); the president is both chief of state and head of government<br>
+_head of government_: President Gustavo Francisco PETRO Urrego (since 7 August 2022); Vice President Francia Elena MARQUEZ Mina (since 7 August 2022)<br>
 _cabinet_: Cabinet appointed by the president<br>
-_elections/appointments_: president directly elected by absolute majority vote in 2 rounds if needed for a single 4-year term; election last held on 29 May 2022 with a runoff to be held on 19 June 2022 (next to be held on 31 May 2026); note - political reform in 2015 eliminated presidential reelection<br>
-_election results_: <em><br>2022:</em> Gustavo Francisco PETRO Urrego elected president in second round; percent of vote in first round - Gustavo Francisco PETRO Urrego (PHxC) 40.3%, Rodolfo HERNANDEZ Suarez (LIGA) 28.2%, Federico GUTIERREZ (Team for Colombia / CREEMOS) 23.9%, other 7.6%; percent of vote in second round - Gustavo Francisco PETRO Urrego (PHxC) 50.4%, Rodolfo HERNANDEZ Suarez (LIGA) 47.3%; note - PETRO will take office 7 August 2022<br><em><br>2018:</em> Ivan DUQUE Marquez elected president in second round; percent of vote - Ivan DUQUE Marquez (CD) 54%, Gustavo PETRO (Humane Colombia) 41.8%, other/blank/invalid 4.2%<br><em><br>2014:</em> Juan Manuel SANTOS Calderon reelected president in second round; percent of vote - Juan Manuel SANTOS Calderon (U Party) 51%, Oscar Ivan ZULUAGA (CD) 45%, other 4%<br>
+_elections/appointments_: president directly elected by absolute majority vote in 2 rounds if needed for a single 4-year term; election last held on 29 May 2022 with a runoff held on 19 June 2022 (next to be held on 31 May 2026); note - political reform in 2015 eliminated presidential reelection<br>
+_election results_: <em><br>2022:</em> Gustavo Francisco PETRO Urrego elected president in second round; percent of vote in first round - Gustavo Francisco PETRO Urrego (PHxC) 40.3%, Rodolfo HERNANDEZ Suarez (LIGA) 28.2%, Federico GUTIERREZ (Team for Colombia / CREEMOS) 23.9%, other 7.6%; percent of vote in second round - Gustavo Francisco PETRO Urrego (PHxC) 50.4%, Rodolfo HERNANDEZ Suarez (LIGA) 47.3%<br><em><br>2018:</em> Ivan DUQUE Marquez elected president in second round; percent of vote - Ivan DUQUE Marquez (CD) 54%, Gustavo PETRO (Humane Colombia) 41.8%, other/blank/invalid 4.2%<br><em><br>2014:</em> Juan Manuel SANTOS Calderon reelected president in second round; percent of vote - Juan Manuel SANTOS Calderon (U Party) 51%, Oscar Ivan ZULUAGA (CD) 45%, other 4%<br>
 
 **Legislative branch**<br>
 _description_: bicameral Congress or Congreso consists of:<br>Senate or Senado (108 seats; 100 members elected in a single nationwide constituency by party-list proportional representation vote, 2 members elected in a special nationwide constituency for indigenous communities, 5 members of the Commons political party, formerly the People's Alternative Revolutionary Force (FARC), for 2 legislative terms only: 2018-2022 and 2022-2026 as per the 2016 peace accord, and 1 seat reserved for the runner-up presidential candidate in the recent election; all members serve 4-year terms)<br> <p>Chamber of Representatives or Camara de Representantes (188 seats; 162 members elected in multi-seat constituencies by party-list proportional representation vote, 2 members elected in a special nationwide constituency for Afro-Colombians, 1 member elected by Colombians residing abroad, 1 member elected in a special nationwide constituency for the indigenous communities, 5 members of the Commons political party for two legislative terms only: 2018-2022 and 2022-2026 as per the 2016 peace accord, 16 seats for rural conflict victims for two legislative terms only: 2022-2026 and 2026-2030, and 1 seat reserved for the runner-up vice presidential candidate in the recent election; all members serve 4-year terms)</p><br>
@@ -568,35 +568,35 @@ _electrification - urban areas_: 100% (2019)<br>
 _electrification - rural areas_: 86% (2019)<br>
 
 **Electricity**<br>
-_Installed generating capacity_: 19.769 million kW (2020 est.)<br>
-_Consumption_: 69,856,680,000 kWh (2019 est.)<br>
-_Exports_: 251 million kWh (2020 est.)<br>
-_Imports_: 1.302 billion kWh (2020 est.)<br>
-_Transmission/distribution losses_: 5.724 billion kWh (2019 est.)<br>
+_installed generating capacity_: 19.769 million kW (2020 est.)<br>
+_consumption_: 69,856,680,000 kWh (2019 est.)<br>
+_exports_: 251 million kWh (2020 est.)<br>
+_imports_: 1.302 billion kWh (2020 est.)<br>
+_transmission/distribution losses_: 5.724 billion kWh (2019 est.)<br>
 
 **Electricity generation sources**<br>
-_Fossil fuels_: 32.9% of total installed capacity (2020 est.)<br>
-_Nuclear_: 0% of total installed capacity (2020 est.)<br>
-_Solar_: 0.3% of total installed capacity (2020 est.)<br>
-_Wind_: 0.1% of total installed capacity (2020 est.)<br>
-_Hydroelectricity_: 65.7% of total installed capacity (2020 est.)<br>
-_Tide and wave_: 0% of total installed capacity (2020 est.)<br>
-_Geothermal_: 0% of total installed capacity (2020 est.)<br>
-_Biomass and waste_: 1% of total installed capacity (2020 est.)<br>
+_fossil fuels_: 32.9% of total installed capacity (2020 est.)<br>
+_nuclear_: 0% of total installed capacity (2020 est.)<br>
+_solar_: 0.3% of total installed capacity (2020 est.)<br>
+_wind_: 0.1% of total installed capacity (2020 est.)<br>
+_hydroelectricity_: 65.7% of total installed capacity (2020 est.)<br>
+_tide and wave_: 0% of total installed capacity (2020 est.)<br>
+_geothermal_: 0% of total installed capacity (2020 est.)<br>
+_biomass and waste_: 1% of total installed capacity (2020 est.)<br>
 
 **Coal**<br>
-_Production_: 51.395 million metric tons (2020 est.)<br>
-_Consumption_: 8.547 million metric tons (2020 est.)<br>
-_Exports_: 69.861 million metric tons (2020 est.)<br>
-_Imports_: 79,000 metric tons (2020 est.)<br>
-_Proven reserves_: 4.554 billion metric tons (2019 est.)<br>
+_production_: 51.395 million metric tons (2020 est.)<br>
+_consumption_: 8.547 million metric tons (2020 est.)<br>
+_exports_: 69.861 million metric tons (2020 est.)<br>
+_imports_: 79,000 metric tons (2020 est.)<br>
+_proven reserves_: 4.554 billion metric tons (2019 est.)<br>
 
 **Petroleum**<br>
-_Total petroleum production_: 756,400 bbl/day (2021 est.)<br>
-_Refined petroleum consumption_: 352,400 bbl/day (2019 est.)<br>
-_Crude oil and lease condensate exports_: 481,300 barrels/day (2018 est.)<br>
-_Crude oil and lease condensate imports_: 0 barrels/day (2018 est.)<br>
-_Crude oil estimated reserves_: 2.036 billion barrels (2021 est.)<br>
+_total petroleum production_: 756,400 bbl/day (2021 est.)<br>
+_refined petroleum consumption_: 352,400 bbl/day (2019 est.)<br>
+_crude oil and lease condensate exports_: 481,300 barrels/day (2018 est.)<br>
+_crude oil and lease condensate imports_: 0 barrels/day (2018 est.)<br>
+_crude oil estimated reserves_: 2.036 billion barrels (2021 est.)<br>
 
 **Refined petroleum products - production**<br>
 303,600 bbl/day (2015 est.)<br>
@@ -608,17 +608,17 @@ _Crude oil estimated reserves_: 2.036 billion barrels (2021 est.)<br>
 57,170 bbl/day (2015 est.)<br>
 
 **Natural gas**<br>
-_Production_: 11,305,086,000 cubic meters (2020 est.)<br>
-_Consumption_: 11,708,232,000 cubic meters (2020 est.)<br>
-_Exports_: 0 cubic meters (2020 est.)<br>
-_Imports_: 403.146 million cubic meters (2020 est.)<br>
-_Proven reserves_: 87.782 billion cubic meters (2021 est.)<br>
+_production_: 11,305,086,000 cubic meters (2020 est.)<br>
+_consumption_: 11,708,232,000 cubic meters (2020 est.)<br>
+_exports_: 0 cubic meters (2020 est.)<br>
+_imports_: 403.146 million cubic meters (2020 est.)<br>
+_proven reserves_: 87.782 billion cubic meters (2021 est.)<br>
 
 **Carbon dioxide emissions**<br>
-_Total emissions_: 81.007 million metric tonnes of CO2 (2019 est.)<br>
-_From coal and metallurgical coke_: 12.666 million metric tonnes of CO2 (2019 est.)<br>
-_From petroleum and other liquids_: 47.679 million metric tonnes of CO2 (2019 est.)<br>
-_From consumed natural gas_: 20.662 million metric tonnes of CO2 (2019 est.)<br>
+_total emissions_: 81.007 million metric tonnes of CO2 (2019 est.)<br>
+_from coal and metallurgical coke_: 12.666 million metric tonnes of CO2 (2019 est.)<br>
+_from petroleum and other liquids_: 47.679 million metric tonnes of CO2 (2019 est.)<br>
+_from consumed natural gas_: 20.662 million metric tonnes of CO2 (2019 est.)<br>
 
 **Energy consumption per capita**<br>
 _Total energy consumption per capita 2019_: 34.703 million Btu/person (2019 est.)<br>
@@ -724,7 +724,7 @@ Military Forces of Colombia (Fuerzas Militares de Colombia<em lang="es">)</em>: 
 3.2% of GDP (2017) (approximately $18.3 billion)<br>
 
 **Military and security service personnel strengths**<br>
-approximately 260,000 total active troops (200,000 Army; 45,000 Navy, including about 20,000 marines; 14,000 Air Force); approximately 170,000 Colombian National Police (2022)<br>
+approximately 260,000 total active troops (200,000 Army; 45,000 Navy, including about 20,000 marines; 14,000 Air Force); approximately 170,000 National Police (2022)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the Colombian military inventory includes a wide mix of equipment from a variety of suppliers, including Canada, Europe, Israel, South Korea, and the US; Germany, Israel, and the US are the leading suppliers of military hardware since 2010; Colombia's defense industry is active in producing air, land, and naval platforms (2022)<br>

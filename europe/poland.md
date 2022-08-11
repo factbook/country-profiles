@@ -356,7 +356,7 @@ _chief of state_: President Andrzej DUDA (since 6 August 2015)<br>
 _head of government_: Prime Minister Mateusz MORAWIECKI (since 11 December 2017); Deputy Prime Ministers Piotr GLINSKI (since 16 November 2015), Jacek SASIN (since 15 November 2019), Jaroslaw KACZYNSKI (6 October 2020) and Henryk KOWALCZYK (26 October 2021)<br>
 _cabinet_: Council of Ministers proposed by the prime minister, appointed by the president, and approved by the Sejm<br>
 _elections/appointments_: president directly elected by absolute majority popular vote in 2 rounds if needed for a 5-year term (eligible for a second term); election last held on 28 June 2020 with a second round on 12 July 2020 (next to be held in 2025); prime minister, deputy prime ministers, and Council of Ministers appointed by the president and confirmed by the Sejm<br>
-_election results_: <em><br>2020:</em> Andrzej DUDA reelected president in runoff; percent of vote - Andrzej DUDA (independent) 51%, Rafal TRZASKOWSKI (KO) 49%<br><br><em>2015:</em> Andrzej DUDA elected president in runoff; percent of vote - Andrzej DUDA (independent) 51.5%, Bronislaw KOMOROWSKI (independent) 48.5%<br>
+_election results_: <em>2020:</em> Andrzej DUDA reelected president in second round; percent of vote - Andrzej DUDA (independent) 51%, Rafal TRZASKOWSKI (KO) 49%<br><br><em>2015:</em> Andrzej DUDA elected president in second round; percent of vote - Andrzej DUDA (independent) 51.5%, Bronislaw KOMOROWSKI (independent) 48.5%<br>
 
 **Legislative branch**<br>
 _description_: bicameral Parliament consists of:<br>Senate or Senat (100 seats; members directly elected in single-seat constituencies by simple majority vote to serve 4-year terms)<br>Sejm (460 seats; members elected in multi-seat constituencies by party-list proportional representation vote with 5% threshold of total votes needed for parties and 8% for coalitions to gain seats; minorities exempt from threshold; members serve 4-year terms)<br>
@@ -559,35 +559,35 @@ _Currency_: zlotych (PLN) per US dollar -<br>
 _electrification - total population_: 100% (2020)<br>
 
 **Electricity**<br>
-_Installed generating capacity_: 47.269 million kW (2020 est.)<br>
-_Consumption_: 149.203 billion kWh (2020 est.)<br>
-_Exports_: 7.357 billion kWh (2020 est.)<br>
-_Imports_: 20.624 billion kWh (2020 est.)<br>
-_Transmission/distribution losses_: 9.995 billion kWh (2020 est.)<br>
+_installed generating capacity_: 47.269 million kW (2020 est.)<br>
+_consumption_: 149.203 billion kWh (2020 est.)<br>
+_exports_: 7.357 billion kWh (2020 est.)<br>
+_imports_: 20.624 billion kWh (2020 est.)<br>
+_transmission/distribution losses_: 9.995 billion kWh (2020 est.)<br>
 
 **Electricity generation sources**<br>
-_Fossil fuels_: 79.8% of total installed capacity (2020 est.)<br>
-_Nuclear_: 0% of total installed capacity (2020 est.)<br>
-_Solar_: 1.4% of total installed capacity (2020 est.)<br>
-_Wind_: 10.8% of total installed capacity (2020 est.)<br>
-_Hydroelectricity_: 2% of total installed capacity (2020 est.)<br>
-_Tide and wave_: 0% of total installed capacity (2020 est.)<br>
-_Geothermal_: 0% of total installed capacity (2020 est.)<br>
-_Biomass and waste_: 6% of total installed capacity (2020 est.)<br>
+_fossil fuels_: 79.8% of total installed capacity (2020 est.)<br>
+_nuclear_: 0% of total installed capacity (2020 est.)<br>
+_solar_: 1.4% of total installed capacity (2020 est.)<br>
+_wind_: 10.8% of total installed capacity (2020 est.)<br>
+_hydroelectricity_: 2% of total installed capacity (2020 est.)<br>
+_tide and wave_: 0% of total installed capacity (2020 est.)<br>
+_geothermal_: 0% of total installed capacity (2020 est.)<br>
+_biomass and waste_: 6% of total installed capacity (2020 est.)<br>
 
 **Coal**<br>
-_Production_: 108.152 million metric tons (2020 est.)<br>
-_Consumption_: 110.674 million metric tons (2020 est.)<br>
-_Exports_: 11.063 million metric tons (2020 est.)<br>
-_Imports_: 13.281 million metric tons (2020 est.)<br>
-_Proven reserves_: 26.932 billion metric tons (2019 est.)<br>
+_production_: 108.152 million metric tons (2020 est.)<br>
+_consumption_: 110.674 million metric tons (2020 est.)<br>
+_exports_: 11.063 million metric tons (2020 est.)<br>
+_imports_: 13.281 million metric tons (2020 est.)<br>
+_proven reserves_: 26.932 billion metric tons (2019 est.)<br>
 
 **Petroleum**<br>
-_Total petroleum production_: 28,400 bbl/day (2021 est.)<br>
-_Refined petroleum consumption_: 697,700 bbl/day (2019 est.)<br>
-_Crude oil and lease condensate exports_: 6,000 barrels/day (2018 est.)<br>
-_Crude oil and lease condensate imports_: 542,100 barrels/day (2018 est.)<br>
-_Crude oil estimated reserves_: 113 million barrels (2021 est.)<br>
+_total petroleum production_: 28,400 bbl/day (2021 est.)<br>
+_refined petroleum consumption_: 697,700 bbl/day (2019 est.)<br>
+_crude oil and lease condensate exports_: 6,000 barrels/day (2018 est.)<br>
+_crude oil and lease condensate imports_: 542,100 barrels/day (2018 est.)<br>
+_crude oil estimated reserves_: 113 million barrels (2021 est.)<br>
 
 **Refined petroleum products - production**<br>
 554,200 bbl/day (2017 est.)<br>
@@ -599,17 +599,17 @@ _Crude oil estimated reserves_: 113 million barrels (2021 est.)<br>
 222,300 bbl/day (2017 est.)<br>
 
 **Natural gas**<br>
-_Production_: 5,666,815,000 cubic meters (2020 est.)<br>
-_Consumption_: 21,463,908,000 cubic meters (2020 est.)<br>
-_Exports_: 704.975 million cubic meters (2019 est.)<br>
-_Imports_: 16,633,345,000 cubic meters (2020 est.)<br>
-_Proven reserves_: 91.492 billion cubic meters (2021 est.)<br>
+_production_: 5,666,815,000 cubic meters (2020 est.)<br>
+_consumption_: 21,463,908,000 cubic meters (2020 est.)<br>
+_exports_: 704.975 million cubic meters (2019 est.)<br>
+_imports_: 16,633,345,000 cubic meters (2020 est.)<br>
+_proven reserves_: 91.492 billion cubic meters (2021 est.)<br>
 
 **Carbon dioxide emissions**<br>
-_Total emissions_: 304.04 million metric tonnes of CO2 (2019 est.)<br>
-_From coal and metallurgical coke_: 176.938 million metric tonnes of CO2 (2019 est.)<br>
-_From petroleum and other liquids_: 89.944 million metric tonnes of CO2 (2019 est.)<br>
-_From consumed natural gas_: 37.158 million metric tonnes of CO2 (2019 est.)<br>
+_total emissions_: 304.04 million metric tonnes of CO2 (2019 est.)<br>
+_from coal and metallurgical coke_: 176.938 million metric tonnes of CO2 (2019 est.)<br>
+_from petroleum and other liquids_: 89.944 million metric tonnes of CO2 (2019 est.)<br>
+_from consumed natural gas_: 37.158 million metric tonnes of CO2 (2019 est.)<br>
 
 **Energy consumption per capita**<br>
 _Total energy consumption per capita 2019_: 112.831 million Btu/person (2019 est.)<br>
@@ -715,7 +715,7 @@ Polish Armed Forces: Land Forces (Wojska Ladowe), Navy (Marynarka Wojenna), Air 
 1.9% of GDP (2017) (approximately $14.9 billion)<br>
 
 **Military and security service personnel strengths**<br>
-approximately 115,000 active duty personnel (60,000 Army; 7,000 Navy; 15,000 Air Force; 3,000 Special Forces; 25,000 joint service/other; 5,000 Territorial Defense Forces); approximately 25,000 other Territorial Defense Forces (reserves) (2022)<br>
+approximately 120,000 active duty personnel (65,000 Army; 7,000 Navy; 15,000 Air Force; 3,000 Special Forces; 25,000 joint service/other; 5,000 Territorial Defense Forces); approximately 25,000 other Territorial Defense Forces (reserves) (2022)<br>
 <strong>note: </strong>in June 2019, the Polish Government approved a plan to increase the size of the military over a period of 10 years to over 200,000 troops, including doubling the size of the Territorial Defense Forces; in 2021, it announced additional plans to increase the size of military to over 300,000 personnel<br>
 
 **Military equipment inventories and acquisitions**<br>
@@ -727,8 +727,8 @@ the inventory of the Polish Armed Forces consists of a mix of Soviet-era and mor
 <strong>note:</strong> as of 2019, women made up about 7% of the military's full-time personnel<br>
 
 **Military deployments**<br>
-240 Kosovo (NATO/KFOR); up to 180 Latvia (NATO); 190 Lebanon (UNIFIL) (2022)<br>
-<strong>note: </strong>Poland contributes about 2,500 troops to the Lithuania, Poland, and Ukraine joint military brigade (LITPOLUKRBRIG), which was established in 2014; the brigade is headquartered in Poland and is comprised of an international staff, three battalions, and specialized units<br>
+250 Kosovo (NATO/KFOR); up to 180 Latvia (NATO); 190 Lebanon (UNIFIL); 230 Romania (NATO) (2022)<br>
+<strong>note 1: </strong>Poland contributes about 2,500 troops to the Lithuania, Poland, and Ukraine joint military brigade (LITPOLUKRBRIG), which was established in 2014; the brigade is headquartered in Poland and is comprised of an international staff, three battalions, and specialized units<br><br><strong>note 2: </strong>in response to Russia’s 2022 invasion of Ukraine, some NATO countries, including Poland, have sent additional troops and equipment to the battlegroups deployed in NATO territory in eastern Europe<br>
 
 **Military - note**<br>
 Poland joined NATO in 1999; Czechia, Hungary, and Poland were invited to begin accession talks at NATO's Madrid Summit in 1997, and in March 1999 they became the first former members of the Warsaw Pact to join the Alliance<br> <p>since 2017, Poland has hosted a US-led multi-national NATO ground force battlegroup as part of the Alliance’s Enhanced Forward Presence initiative; since 2014, Poland has also hosted NATO fighter detachments at Malbork Air Base under NATO's enhanced air policing arrangements<br><br>Poland hosts a NATO-led divisional headquarters (Multinational Division Northeast; operational in 2018), which coordinates training and preparation activities of its respective subordinate battlegroups in Poland and Lithuania; Poland also hosts a corps-level headquarters (Multinational Corps Northeast) (2022)</p><br>
@@ -745,7 +745,7 @@ Islamic State of Iraq and ash-Sham (ISIS)<br>
 <p><em>Poland-Belarus-Ukraine</em>: as a member state that forms part of the EU's external border, Poland has implemented the strict Schengen border rules to restrict illegal immigration and trade along its eastern borders with Belarus and Ukraine</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 9,870 (Russia) (2019); 1,246,315 (Ukraine) (as of 26 July 2022)<br>
+_refugees (country of origin)_: 9,870 (Russia) (2019); 1,256,568 (Ukraine) (as of 8 August 2022)<br>
 _stateless persons_: 1,389 (mid-year 2021)<br>
 
 **Illicit drugs**<br>

@@ -534,35 +534,35 @@ _Currency_: euros (EUR) per US dollar -<br>
 _electrification - total population_: 100% (2020)<br>
 
 **Electricity**<br>
-_Installed generating capacity_: 4.062 million kW (2020 est.)<br>
-_Consumption_: 13.447 billion kWh (2020 est.)<br>
-_Exports_: 9.123 billion kWh (2020 est.)<br>
-_Imports_: 7.12 billion kWh (2020 est.)<br>
-_Transmission/distribution losses_: 848 million kWh (2020 est.)<br>
+_installed generating capacity_: 4.062 million kW (2020 est.)<br>
+_consumption_: 13.447 billion kWh (2020 est.)<br>
+_exports_: 9.123 billion kWh (2020 est.)<br>
+_imports_: 7.12 billion kWh (2020 est.)<br>
+_transmission/distribution losses_: 848 million kWh (2020 est.)<br>
 
 **Electricity generation sources**<br>
-_Fossil fuels_: 27.2% of total installed capacity (2020 est.)<br>
-_Nuclear_: 36.8% of total installed capacity (2020 est.)<br>
-_Solar_: 2.2% of total installed capacity (2020 est.)<br>
-_Wind_: 0% of total installed capacity (2020 est.)<br>
-_Hydroelectricity_: 32% of total installed capacity (2020 est.)<br>
-_Tide and wave_: 0% of total installed capacity (2020 est.)<br>
-_Geothermal_: 0% of total installed capacity (2020 est.)<br>
-_Biomass and waste_: 1.7% of total installed capacity (2020 est.)<br>
+_fossil fuels_: 27.2% of total installed capacity (2020 est.)<br>
+_nuclear_: 36.8% of total installed capacity (2020 est.)<br>
+_solar_: 2.2% of total installed capacity (2020 est.)<br>
+_wind_: 0% of total installed capacity (2020 est.)<br>
+_hydroelectricity_: 32% of total installed capacity (2020 est.)<br>
+_tide and wave_: 0% of total installed capacity (2020 est.)<br>
+_geothermal_: 0% of total installed capacity (2020 est.)<br>
+_biomass and waste_: 1.7% of total installed capacity (2020 est.)<br>
 
 **Coal**<br>
-_Production_: 3.175 million metric tons (2020 est.)<br>
-_Consumption_: 3.502 million metric tons (2020 est.)<br>
-_Exports_: 3,000 metric tons (2020 est.)<br>
-_Imports_: 335,000 metric tons (2020 est.)<br>
-_Proven reserves_: 371 million metric tons (2019 est.)<br>
+_production_: 3.175 million metric tons (2020 est.)<br>
+_consumption_: 3.502 million metric tons (2020 est.)<br>
+_exports_: 3,000 metric tons (2020 est.)<br>
+_imports_: 335,000 metric tons (2020 est.)<br>
+_proven reserves_: 371 million metric tons (2019 est.)<br>
 
 **Petroleum**<br>
-_Total petroleum production_: 0 bbl/day (2021 est.)<br>
-_Refined petroleum consumption_: 54,900 bbl/day (2019 est.)<br>
-_Crude oil and lease condensate exports_: 0 barrels/day (2018 est.)<br>
-_Crude oil and lease condensate imports_: 0 barrels/day (2018 est.)<br>
-_Crude oil estimated reserves_: 0 barrels (2021 est.)<br>
+_total petroleum production_: 0 bbl/day (2021 est.)<br>
+_refined petroleum consumption_: 54,900 bbl/day (2019 est.)<br>
+_crude oil and lease condensate exports_: 0 barrels/day (2018 est.)<br>
+_crude oil and lease condensate imports_: 0 barrels/day (2018 est.)<br>
+_crude oil estimated reserves_: 0 barrels (2021 est.)<br>
 
 **Refined petroleum products - production**<br>
 0 bbl/day (2017 est.)<br>
@@ -574,17 +574,17 @@ _Crude oil estimated reserves_: 0 barrels (2021 est.)<br>
 93,060 bbl/day (2017 est.)<br>
 
 **Natural gas**<br>
-_Production_: 4.899 million cubic meters (2020 est.)<br>
-_Consumption_: 904.439 million cubic meters (2020 est.)<br>
-_Exports_: 0 cubic meters (2020 est.)<br>
-_Imports_: 903.108 million cubic meters (2020 est.)<br>
-_Proven reserves_: 0 cubic meters (2021 est.)<br>
+_production_: 4.899 million cubic meters (2020 est.)<br>
+_consumption_: 904.439 million cubic meters (2020 est.)<br>
+_exports_: 0 cubic meters (2020 est.)<br>
+_imports_: 903.108 million cubic meters (2020 est.)<br>
+_proven reserves_: 0 cubic meters (2021 est.)<br>
 
 **Carbon dioxide emissions**<br>
-_Total emissions_: 13.553 million metric tonnes of CO2 (2019 est.)<br>
-_From coal and metallurgical coke_: 4.08 million metric tonnes of CO2 (2019 est.)<br>
-_From petroleum and other liquids_: 7.967 million metric tonnes of CO2 (2019 est.)<br>
-_From consumed natural gas_: 1.506 million metric tonnes of CO2 (2019 est.)<br>
+_total emissions_: 13.553 million metric tonnes of CO2 (2019 est.)<br>
+_from coal and metallurgical coke_: 4.08 million metric tonnes of CO2 (2019 est.)<br>
+_from petroleum and other liquids_: 7.967 million metric tonnes of CO2 (2019 est.)<br>
+_from consumed natural gas_: 1.506 million metric tonnes of CO2 (2019 est.)<br>
 
 **Energy consumption per capita**<br>
 _Total energy consumption per capita 2019_: 134.836 million Btu/person (2019 est.)<br>
@@ -679,7 +679,7 @@ Slovenian Armed Forces (Slovenska Vojska, SV): structured as a combined force wi
 1% of GDP (2017) (approximately $690 million)<br>
 
 **Military and security service personnel strengths**<br>
-the Slovenian Armed Forces have approximately 6,000 active duty troops (2021)<br>
+approximately 6,000 active duty troops (2022)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the inventory of the Slovenian Armed Forces is a mix of Soviet-era and smaller quantities of more modern Russian and Western equipment; since 2010, it has received limited amounts of military equipment from several countries led by France and Russia (2021)<br>
@@ -689,8 +689,8 @@ the inventory of the Slovenian Armed Forces is a mix of Soviet-era and smaller q
 <strong>note:</strong> as of 2019, women comprised about 15% of the military's full-time personnel<br>
 
 **Military deployments**<br>
-200 Kosovo (NATO) (2022)<br>
-<strong>note:</strong> Slovenia also has about 50 troops in Latvia supporting the NATO forward deployment presence in eastern Europe<br>
+200 Kosovo (NATO); 100 Slovakia (NATO) (2022)<br>
+<strong>note:</strong> in response to Russia’s 2022 invasion of Ukraine, some NATO countries, including Slovenia, have sent additional troops and equipment to the battlegroups deployed in NATO territory in eastern Europe<br>
 
 **Military - note**<br>
 Slovenia became a member of NATO in 2004; Hungary and Italy provide NATO's air policing mission for Slovenia&rsquo;s airspace (2022)<br>

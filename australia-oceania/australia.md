@@ -559,35 +559,35 @@ _Currency_: Australian dollars (AUD) per US dollar -<br>
 _electrification - total population_: 100% (2020)<br>
 
 **Electricity**<br>
-_Installed generating capacity_: 82.517 million kW (2020 est.)<br>
-_Consumption_: 237,388,272,000 kWh (2019 est.)<br>
-_Exports_: 0 kWh (2020 est.)<br>
-_Imports_: 0 kWh (2020 est.)<br>
-_Transmission/distribution losses_: 12,607,778,000 kWh (2019 est.)<br>
+_installed generating capacity_: 82.517 million kW (2020 est.)<br>
+_consumption_: 237,388,272,000 kWh (2019 est.)<br>
+_exports_: 0 kWh (2020 est.)<br>
+_imports_: 0 kWh (2020 est.)<br>
+_transmission/distribution losses_: 12,607,778,000 kWh (2019 est.)<br>
 
 **Electricity generation sources**<br>
-_Fossil fuels_: 75.4% of total installed capacity (2020 est.)<br>
-_Nuclear_: 0% of total installed capacity (2020 est.)<br>
-_Solar_: 8.6% of total installed capacity (2020 est.)<br>
-_Wind_: 8.4% of total installed capacity (2020 est.)<br>
-_Hydroelectricity_: 6.2% of total installed capacity (2020 est.)<br>
-_Tide and wave_: 0% of total installed capacity (2020 est.)<br>
-_Geothermal_: 0% of total installed capacity (2020 est.)<br>
-_Biomass and waste_: 1.4% of total installed capacity (2020 est.)<br>
+_fossil fuels_: 75.4% of total installed capacity (2020 est.)<br>
+_nuclear_: 0% of total installed capacity (2020 est.)<br>
+_solar_: 8.6% of total installed capacity (2020 est.)<br>
+_wind_: 8.4% of total installed capacity (2020 est.)<br>
+_hydroelectricity_: 6.2% of total installed capacity (2020 est.)<br>
+_tide and wave_: 0% of total installed capacity (2020 est.)<br>
+_geothermal_: 0% of total installed capacity (2020 est.)<br>
+_biomass and waste_: 1.4% of total installed capacity (2020 est.)<br>
 
 **Coal**<br>
-_Production_: 504.051 million metric tons (2020 est.)<br>
-_Consumption_: 99.048 million metric tons (2020 est.)<br>
-_Exports_: 390.808 million metric tons (2020 est.)<br>
-_Imports_: 583,000 metric tons (2020 est.)<br>
-_Proven reserves_: 149.079 billion metric tons (2019 est.)<br>
+_production_: 504.051 million metric tons (2020 est.)<br>
+_consumption_: 99.048 million metric tons (2020 est.)<br>
+_exports_: 390.808 million metric tons (2020 est.)<br>
+_imports_: 583,000 metric tons (2020 est.)<br>
+_proven reserves_: 149.079 billion metric tons (2019 est.)<br>
 
 **Petroleum**<br>
-_Total petroleum production_: 442,500 bbl/day (2021 est.)<br>
-_Refined petroleum consumption_: 1,174,100 bbl/day (2019 est.)<br>
-_Crude oil and lease condensate exports_: 197,700 barrels/day (2018 est.)<br>
-_Crude oil and lease condensate imports_: 356,900 barrels/day (2018 est.)<br>
-_Crude oil estimated reserves_: 2.446 billion barrels (2021 est.)<br>
+_total petroleum production_: 442,500 bbl/day (2021 est.)<br>
+_refined petroleum consumption_: 1,174,100 bbl/day (2019 est.)<br>
+_crude oil and lease condensate exports_: 197,700 barrels/day (2018 est.)<br>
+_crude oil and lease condensate imports_: 356,900 barrels/day (2018 est.)<br>
+_crude oil estimated reserves_: 2.446 billion barrels (2021 est.)<br>
 
 **Refined petroleum products - production**<br>
 462,500 bbl/day (2017 est.)<br>
@@ -599,17 +599,17 @@ _Crude oil estimated reserves_: 2.446 billion barrels (2021 est.)<br>
 619,600 bbl/day (2017 est.)<br>
 
 **Natural gas**<br>
-_Production_: 142,104,321,000 cubic meters (2020 est.)<br>
-_Consumption_: 41,905,381,000 cubic meters (2020 est.)<br>
-_Exports_: 101,766,728,000 cubic meters (2020 est.)<br>
-_Imports_: 6,295,646,000 cubic meters (2020 est.)<br>
-_Proven reserves_: 3,228,115,000,000 cubic meters (2021 est.)<br>
+_production_: 142,104,321,000 cubic meters (2020 est.)<br>
+_consumption_: 41,905,381,000 cubic meters (2020 est.)<br>
+_exports_: 101,766,728,000 cubic meters (2020 est.)<br>
+_imports_: 6,295,646,000 cubic meters (2020 est.)<br>
+_proven reserves_: 3,228,115,000,000 cubic meters (2021 est.)<br>
 
 **Carbon dioxide emissions**<br>
-_Total emissions_: 417.87 million metric tonnes of CO2 (2019 est.)<br>
-_From coal and metallurgical coke_: 162.26 million metric tonnes of CO2 (2019 est.)<br>
-_From petroleum and other liquids_: 158.668 million metric tonnes of CO2 (2019 est.)<br>
-_From consumed natural gas_: 96.942 million metric tonnes of CO2 (2019 est.)<br>
+_total emissions_: 417.87 million metric tonnes of CO2 (2019 est.)<br>
+_from coal and metallurgical coke_: 162.26 million metric tonnes of CO2 (2019 est.)<br>
+_from petroleum and other liquids_: 158.668 million metric tonnes of CO2 (2019 est.)<br>
+_from consumed natural gas_: 96.942 million metric tonnes of CO2 (2019 est.)<br>
 
 **Energy consumption per capita**<br>
 _Total energy consumption per capita 2019_: 241.004 million Btu/person (2019 est.)<br>

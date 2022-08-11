@@ -541,35 +541,35 @@ _Currency_: euros (EUR) per US dollar -<br>
 _electrification - total population_: 100% (2020)<br>
 
 **Electricity**<br>
-_Installed generating capacity_: 20.418 million kW (2020 est.)<br>
-_Consumption_: 79.356 billion kWh (2020 est.)<br>
-_Exports_: 6.666 billion kWh (2020 est.)<br>
-_Imports_: 21.615 billion kWh (2020 est.)<br>
-_Transmission/distribution losses_: 2.574 billion kWh (2020 est.)<br>
+_installed generating capacity_: 20.418 million kW (2020 est.)<br>
+_consumption_: 79.356 billion kWh (2020 est.)<br>
+_exports_: 6.666 billion kWh (2020 est.)<br>
+_imports_: 21.615 billion kWh (2020 est.)<br>
+_transmission/distribution losses_: 2.574 billion kWh (2020 est.)<br>
 
 **Electricity generation sources**<br>
-_Fossil fuels_: 13.4% of total installed capacity (2020 est.)<br>
-_Nuclear_: 33.4% of total installed capacity (2020 est.)<br>
-_Solar_: 0.4% of total installed capacity (2020 est.)<br>
-_Wind_: 11.9% of total installed capacity (2020 est.)<br>
-_Hydroelectricity_: 23.2% of total installed capacity (2020 est.)<br>
-_Tide and wave_: 0% of total installed capacity (2020 est.)<br>
-_Geothermal_: 0% of total installed capacity (2020 est.)<br>
-_Biomass and waste_: 17.8% of total installed capacity (2020 est.)<br>
+_fossil fuels_: 13.4% of total installed capacity (2020 est.)<br>
+_nuclear_: 33.4% of total installed capacity (2020 est.)<br>
+_solar_: 0.4% of total installed capacity (2020 est.)<br>
+_wind_: 11.9% of total installed capacity (2020 est.)<br>
+_hydroelectricity_: 23.2% of total installed capacity (2020 est.)<br>
+_tide and wave_: 0% of total installed capacity (2020 est.)<br>
+_geothermal_: 0% of total installed capacity (2020 est.)<br>
+_biomass and waste_: 17.8% of total installed capacity (2020 est.)<br>
 
 **Coal**<br>
-_Production_: 762,000 metric tons (2020 est.)<br>
-_Consumption_: 3.552 million metric tons (2020 est.)<br>
-_Exports_: 101,000 metric tons (2020 est.)<br>
-_Imports_: 2.661 million metric tons (2020 est.)<br>
-_Proven reserves_: 0 metric tons (2019 est.)<br>
+_production_: 762,000 metric tons (2020 est.)<br>
+_consumption_: 3.552 million metric tons (2020 est.)<br>
+_exports_: 101,000 metric tons (2020 est.)<br>
+_imports_: 2.661 million metric tons (2020 est.)<br>
+_proven reserves_: 0 metric tons (2019 est.)<br>
 
 **Petroleum**<br>
-_Total petroleum production_: 8,300 bbl/day (2021 est.)<br>
-_Refined petroleum consumption_: 207,400 bbl/day (2019 est.)<br>
-_Crude oil and lease condensate exports_: 0 barrels/day (2018 est.)<br>
-_Crude oil and lease condensate imports_: 232,400 barrels/day (2018 est.)<br>
-_Crude oil estimated reserves_: 0 barrels (2021 est.)<br>
+_total petroleum production_: 8,300 bbl/day (2021 est.)<br>
+_refined petroleum consumption_: 207,400 bbl/day (2019 est.)<br>
+_crude oil and lease condensate exports_: 0 barrels/day (2018 est.)<br>
+_crude oil and lease condensate imports_: 232,400 barrels/day (2018 est.)<br>
+_crude oil estimated reserves_: 0 barrels (2021 est.)<br>
 
 **Refined petroleum products - production**<br>
 310,600 bbl/day (2017 est.)<br>
@@ -581,17 +581,17 @@ _Crude oil estimated reserves_: 0 barrels (2021 est.)<br>
 122,200 bbl/day (2017 est.)<br>
 
 **Natural gas**<br>
-_Production_: 0 cubic meters (2021 est.)<br>
-_Consumption_: 2,392,826,000 cubic meters (2020 est.)<br>
-_Exports_: 181.143 million cubic meters (2020 est.)<br>
-_Imports_: 2,568,532,000 cubic meters (2020 est.)<br>
-_Proven reserves_: 0 cubic meters (2021 est.)<br>
+_production_: 0 cubic meters (2021 est.)<br>
+_consumption_: 2,392,826,000 cubic meters (2020 est.)<br>
+_exports_: 181.143 million cubic meters (2020 est.)<br>
+_imports_: 2,568,532,000 cubic meters (2020 est.)<br>
+_proven reserves_: 0 cubic meters (2021 est.)<br>
 
 **Carbon dioxide emissions**<br>
-_Total emissions_: 41.996 million metric tonnes of CO2 (2019 est.)<br>
-_From coal and metallurgical coke_: 9.377 million metric tonnes of CO2 (2019 est.)<br>
-_From petroleum and other liquids_: 27.737 million metric tonnes of CO2 (2019 est.)<br>
-_From consumed natural gas_: 4.882 million metric tonnes of CO2 (2019 est.)<br>
+_total emissions_: 41.996 million metric tonnes of CO2 (2019 est.)<br>
+_from coal and metallurgical coke_: 9.377 million metric tonnes of CO2 (2019 est.)<br>
+_from petroleum and other liquids_: 27.737 million metric tonnes of CO2 (2019 est.)<br>
+_from consumed natural gas_: 4.882 million metric tonnes of CO2 (2019 est.)<br>
 
 **Energy consumption per capita**<br>
 _Total energy consumption per capita 2019_: 216.571 million Btu/person (2019 est.)<br>
@@ -702,7 +702,7 @@ at age 18, all Finnish men are obligated to serve 5.5-12 months of service withi
 <strong>note:</strong> the military trains approximately 21,000 (20,000 Army) conscripts each year; as of 2019, women made up about 4% of the military's full-time personnel<br>
 
 **Military deployments**<br>
-160 Lebanon (UNIFIL) (Jan 2022)<br>
+160 Lebanon (UNIFIL) (May 2022)<br>
 
 **Military - note**<br>
 <p>as of early 2022, Finland was not a member of NATO, but Finland and NATO actively cooperated in peace-support operations, exercised together, and exchanged analysis and information; Finland joined NATO’s Partnership for Peace program in 1994; Finnish Armed Forces participated in NATO-led military operations and missions in the Balkans, Afghanistan, and Iraq</p> <p>Finland is a signatory of the EU’s Common Security and Defense Policy (CSDP) and actively participates in CSDP crisis management missions and operations</p> <p>the Finnish Armed Forces closely cooperate with the militaries of other Nordic countries through the Nordic Defense Cooperation (NORDEFCO), which consists of Denmark, Finland, Iceland, Norway, and Sweden; areas of cooperation include armaments, education, human resources, training and exercises, and operations; NORDEFCO was established in 2009</p><br>
@@ -713,6 +713,6 @@ at age 18, all Finnish men are obligated to serve 5.5-12 months of service withi
 <p>various groups in Finland advocate restoration of Karelia and other areas ceded to the former Soviet Union, but the Finnish Government asserts no territorial demands</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 9,053 (Iraq) (mid-year 2021); 30,372 (Ukraine) (as of 26 July 2022)<br>
+_refugees (country of origin)_: 9,053 (Iraq) (mid-year 2021); 30,372 (Ukraine) (as of 2 August 2022)<br>
 _stateless persons_: 3,416 (mid-year 2021)<br>
 

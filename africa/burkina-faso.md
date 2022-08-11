@@ -342,7 +342,7 @@ Republic Day, 11 December (1958); note - commemorates the day that Upper Volta b
 
 **Constitution**<br>
 _history_: several previous; latest approved by referendum 2 June 1991, adopted 11 June 1991, temporarily suspended late October to mid-November 2014; initial draft of a new constitution to usher in the new republic was completed in January 2017 and a final draft was submitted to the government in December 2017; a constitutional referendum originally scheduled for adoption in March 2019 was postponed; on 1 March 2022 a transition charter was adopted, allowing military authorities to rule for three years and barring transitional President Lt. Col. Paul-Henri Sandaogo DAMIBA from being an electoral candidate after the transition<br>
-_amendments_: proposed by the president, by a majority of National Assembly membership, or by petition of at least 30,000 eligible voters submitted to the Assembly; passage requires at least three-fourths majority vote in the Assembly; failure to meet that threshold requires majority voter approval in a referendum; constitutional provisions on the form of government, the multiparty system, and national sovereignty cannot be amended<br>
+_amendments_: proposed by the president, by a majority of National Assembly membership, or by petition of at least 30,000 eligible voters submitted to the Assembly; passage requires at least three-fourths majority vote in the Assembly; failure to meet that threshold requires majority voter approval in a referendum; constitutional provisions on the form of government, the multiparty system, and national sovereignty cannot be amended; amended several times<br>
 
 **Legal system**<br>
 civil law based on the French model and customary law; in mid-2019, the National Assembly amended the penal code<br>
@@ -561,35 +561,35 @@ _electrification - urban areas_: 69% (2019)<br>
 _electrification - rural areas_: 2% (2019)<br>
 
 **Electricity**<br>
-_Installed generating capacity_: 392,000 kW (2020 est.)<br>
-_Consumption_: 2,033,520,000 kWh (2019 est.)<br>
-_Exports_: 0 kWh (2019 est.)<br>
-_Imports_: 600 million kWh (2019 est.)<br>
-_Transmission/distribution losses_: 248 million kWh (2019 est.)<br>
+_installed generating capacity_: 392,000 kW (2020 est.)<br>
+_consumption_: 2,033,520,000 kWh (2019 est.)<br>
+_exports_: 0 kWh (2019 est.)<br>
+_imports_: 600 million kWh (2019 est.)<br>
+_transmission/distribution losses_: 248 million kWh (2019 est.)<br>
 
 **Electricity generation sources**<br>
-_Fossil fuels_: 89.4% of total installed capacity (2020 est.)<br>
-_Nuclear_: 0% of total installed capacity (2020 est.)<br>
-_Solar_: 3.3% of total installed capacity (2020 est.)<br>
-_Wind_: 0% of total installed capacity (2020 est.)<br>
-_Hydroelectricity_: 6.9% of total installed capacity (2020 est.)<br>
-_Tide and wave_: 0% of total installed capacity (2020 est.)<br>
-_Geothermal_: 0% of total installed capacity (2020 est.)<br>
-_Biomass and waste_: 0.4% of total installed capacity (2020 est.)<br>
+_fossil fuels_: 89.4% of total installed capacity (2020 est.)<br>
+_nuclear_: 0% of total installed capacity (2020 est.)<br>
+_solar_: 3.3% of total installed capacity (2020 est.)<br>
+_wind_: 0% of total installed capacity (2020 est.)<br>
+_hydroelectricity_: 6.9% of total installed capacity (2020 est.)<br>
+_tide and wave_: 0% of total installed capacity (2020 est.)<br>
+_geothermal_: 0% of total installed capacity (2020 est.)<br>
+_biomass and waste_: 0.4% of total installed capacity (2020 est.)<br>
 
 **Coal**<br>
-_Production_: 0 metric tons (2020 est.)<br>
-_Consumption_: 0 metric tons (2020 est.)<br>
-_Exports_: 0 metric tons (2020 est.)<br>
-_Imports_: 0 metric tons (2020 est.)<br>
-_Proven reserves_: 0 metric tons (2019 est.)<br>
+_production_: 0 metric tons (2020 est.)<br>
+_consumption_: 0 metric tons (2020 est.)<br>
+_exports_: 0 metric tons (2020 est.)<br>
+_imports_: 0 metric tons (2020 est.)<br>
+_proven reserves_: 0 metric tons (2019 est.)<br>
 
 **Petroleum**<br>
-_Total petroleum production_: 0 bbl/day (2021 est.)<br>
-_Refined petroleum consumption_: 30,800 bbl/day (2019 est.)<br>
-_Crude oil and lease condensate exports_: 0 barrels/day (2018 est.)<br>
-_Crude oil and lease condensate imports_: 0 barrels/day (2018 est.)<br>
-_Crude oil estimated reserves_: 0 barrels (2021 est.)<br>
+_total petroleum production_: 0 bbl/day (2021 est.)<br>
+_refined petroleum consumption_: 30,800 bbl/day (2019 est.)<br>
+_crude oil and lease condensate exports_: 0 barrels/day (2018 est.)<br>
+_crude oil and lease condensate imports_: 0 barrels/day (2018 est.)<br>
+_crude oil estimated reserves_: 0 barrels (2021 est.)<br>
 
 **Refined petroleum products - production**<br>
 0 bbl/day (2015 est.)<br>
@@ -601,17 +601,17 @@ _Crude oil estimated reserves_: 0 barrels (2021 est.)<br>
 23,580 bbl/day (2015 est.)<br>
 
 **Natural gas**<br>
-_Production_: 0 cubic meters (2021 est.)<br>
-_Consumption_: 0 cubic meters (2021 est.)<br>
-_Exports_: 0 cubic meters (2021 est.)<br>
-_Imports_: 0 cubic meters (2021 est.)<br>
-_Proven reserves_: 0 cubic meters (2021 est.)<br>
+_production_: 0 cubic meters (2021 est.)<br>
+_consumption_: 0 cubic meters (2021 est.)<br>
+_exports_: 0 cubic meters (2021 est.)<br>
+_imports_: 0 cubic meters (2021 est.)<br>
+_proven reserves_: 0 cubic meters (2021 est.)<br>
 
 **Carbon dioxide emissions**<br>
-_Total emissions_: 4.444 million metric tonnes of CO2 (2019 est.)<br>
-_From coal and metallurgical coke_: 0 metric tonnes of CO2 (2019 est.)<br>
-_From petroleum and other liquids_: 4.444 million metric tonnes of CO2 (2019 est.)<br>
-_From consumed natural gas_: 0 metric tonnes of CO2 (2019 est.)<br>
+_total emissions_: 4.444 million metric tonnes of CO2 (2019 est.)<br>
+_from coal and metallurgical coke_: 0 metric tonnes of CO2 (2019 est.)<br>
+_from petroleum and other liquids_: 4.444 million metric tonnes of CO2 (2019 est.)<br>
+_from consumed natural gas_: 0 metric tonnes of CO2 (2019 est.)<br>
 
 **Energy consumption per capita**<br>
 _Total energy consumption per capita 2019_: 3.23 million Btu/person (2019 est.)<br>
@@ -685,7 +685,7 @@ _unpaved_: 11,662 km (2014)<br>
 
 **Military and security forces**<br>
 Armed Forces of Burkina Faso (FABF): Army of Burkina Faso (L’Armee de Terre, LAT), Air Force of Burkina Faso (Force Aerienne de Burkina Faso, FABF), National Gendarmerie; Volunteers for the Defense of the Fatherland (VDP) (2022)<br>
-<strong>note 1:</strong> the National Gendarmerie officially reports to the Ministry of Defense, but usually operates in support of the Ministry of Security and the Ministry of Justice; Gendarmerie troops are typically integrated with Army forces in anti-terrorism operations<br><br><strong>note 2:</strong> the VDP is a civilian defense force established in 2019 to act as auxiliaries to the military in the fight against militants<br>
+<strong>note 1:</strong> the National Gendarmerie officially reports to the Ministry of Defense, but usually operates in support of the Ministry of Security and the Ministry of Justice; Gendarmerie troops are typically integrated with Army forces in anti-terrorism operations<br><br><strong>note 2:</strong> the VDP is a civilian defense force established in 2019 to act as auxiliaries to the Army in the fight against militants; the volunteers receive two weeks of training and typically assist with carrying out surveillance, information-gathering, and escort duties<br>
 
 **Military expenditures**<br>
 2.4% of GDP (2021 est.)<br>
@@ -708,7 +708,7 @@ the FABF has a mix of foreign-supplied weapons; since 2010, it has received limi
 <strong>note:</strong> Burkina Faso is part of a five-nation anti-jihadist task force known as the G5 Sahel Group, set up in 2014 with Chad, Mali (withdrew in 2022), Mauritania, and Niger; it has committed 550 troops and 100 gendarmes to the force; the G5 force is backed by the UN, US, and France; G5 troops periodically conduct joint operations with French forces deployed to the Sahel under Operation Barkhane; in early 2020, G5 Sahel military chiefs of staff agreed to allow defense forces from each of the states to pursue terrorist fighters up to 100 km into neighboring countries<br>
 
 **Military - note**<br>
-including the most recent in January 2022, the military has conducted 7 coups since 1960; as of 2022, the military was also actively engaged in combat operations with terrorist groups linked to al-Qa'ida and ISIS, particularly in the northern and eastern regions; in the north, the terrorist groups Jama'at Nusrat al-Islam wal-Muslimin (JNIM) has exploited ethnic tensions and perceptions of state neglect, as well as grievances over corruption, patronage politics, social stratification, and land disputes; the east is reportedly a stronghold of the Islamic State-Greater Sahara (ISGS) (2022)<br>
+including the most recent in January 2022, the military has conducted seven coups since 1960; as of 2022, the military was also actively engaged in combat operations with terrorist groups linked to al-Qa'ida and ISIS, particularly in the northern and eastern regions; in the north, the terrorist group Jama'at Nusrat al-Islam wal-Muslimin (JNIM) has exploited ethnic tensions and perceptions of state neglect, as well as grievances over corruption, patronage politics, social stratification, and land disputes; the east is reportedly a stronghold of the Islamic State-Greater Sahara (ISIS-GS) terrorist group (2022)<br>
 
 ## Terrorism
 

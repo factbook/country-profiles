@@ -558,35 +558,35 @@ _electrification - urban areas_: 100% (2019)<br>
 _electrification - rural areas_: 93% (2019)<br>
 
 **Electricity**<br>
-_Installed generating capacity_: 27.885 million kW (2020 est.)<br>
-_Consumption_: 90,926,990,000 kWh (2019 est.)<br>
-_Exports_: 0 kWh (2020 est.)<br>
-_Imports_: 0 kWh (2020 est.)<br>
-_Transmission/distribution losses_: 9.994 billion kWh (2019 est.)<br>
+_installed generating capacity_: 27.885 million kW (2020 est.)<br>
+_consumption_: 90,926,990,000 kWh (2019 est.)<br>
+_exports_: 0 kWh (2020 est.)<br>
+_imports_: 0 kWh (2020 est.)<br>
+_transmission/distribution losses_: 9.994 billion kWh (2019 est.)<br>
 
 **Electricity generation sources**<br>
-_Fossil fuels_: 77.6% of total installed capacity (2020 est.)<br>
-_Nuclear_: 0% of total installed capacity (2020 est.)<br>
-_Solar_: 1.3% of total installed capacity (2020 est.)<br>
-_Wind_: 1.1% of total installed capacity (2020 est.)<br>
-_Hydroelectricity_: 8% of total installed capacity (2020 est.)<br>
-_Tide and wave_: 0% of total installed capacity (2020 est.)<br>
-_Geothermal_: 11% of total installed capacity (2020 est.)<br>
-_Biomass and waste_: 1.1% of total installed capacity (2020 est.)<br>
+_fossil fuels_: 77.6% of total installed capacity (2020 est.)<br>
+_nuclear_: 0% of total installed capacity (2020 est.)<br>
+_solar_: 1.3% of total installed capacity (2020 est.)<br>
+_wind_: 1.1% of total installed capacity (2020 est.)<br>
+_hydroelectricity_: 8% of total installed capacity (2020 est.)<br>
+_tide and wave_: 0% of total installed capacity (2020 est.)<br>
+_geothermal_: 11% of total installed capacity (2020 est.)<br>
+_biomass and waste_: 1.1% of total installed capacity (2020 est.)<br>
 
 **Coal**<br>
-_Production_: 13.752 million metric tons (2020 est.)<br>
-_Consumption_: 32.855 million metric tons (2020 est.)<br>
-_Exports_: 7.554 million metric tons (2020 est.)<br>
-_Imports_: 28.358 million metric tons (2020 est.)<br>
-_Proven reserves_: 361 million metric tons (2019 est.)<br>
+_production_: 13.752 million metric tons (2020 est.)<br>
+_consumption_: 32.855 million metric tons (2020 est.)<br>
+_exports_: 7.554 million metric tons (2020 est.)<br>
+_imports_: 28.358 million metric tons (2020 est.)<br>
+_proven reserves_: 361 million metric tons (2019 est.)<br>
 
 **Petroleum**<br>
-_Total petroleum production_: 10,300 bbl/day (2021 est.)<br>
-_Refined petroleum consumption_: 527,400 bbl/day (2019 est.)<br>
-_Crude oil and lease condensate exports_: 12,400 barrels/day (2018 est.)<br>
-_Crude oil and lease condensate imports_: 232,500 barrels/day (2018 est.)<br>
-_Crude oil estimated reserves_: 138.5 million barrels (2021 est.)<br>
+_total petroleum production_: 10,300 bbl/day (2021 est.)<br>
+_refined petroleum consumption_: 527,400 bbl/day (2019 est.)<br>
+_crude oil and lease condensate exports_: 12,400 barrels/day (2018 est.)<br>
+_crude oil and lease condensate imports_: 232,500 barrels/day (2018 est.)<br>
+_crude oil estimated reserves_: 138.5 million barrels (2021 est.)<br>
 
 **Refined petroleum products - production**<br>
 215,500 bbl/day (2015 est.)<br>
@@ -598,17 +598,17 @@ _Crude oil estimated reserves_: 138.5 million barrels (2021 est.)<br>
 211,400 bbl/day (2015 est.)<br>
 
 **Natural gas**<br>
-_Production_: 3,632,507,000 cubic meters (2019 est.)<br>
-_Consumption_: 3,632,507,000 cubic meters (2019 est.)<br>
-_Exports_: 0 cubic meters (2021 est.)<br>
-_Imports_: 0 cubic meters (2021 est.)<br>
-_Proven reserves_: 98.542 billion cubic meters (2021 est.)<br>
+_production_: 3,632,507,000 cubic meters (2019 est.)<br>
+_consumption_: 3,632,507,000 cubic meters (2019 est.)<br>
+_exports_: 0 cubic meters (2021 est.)<br>
+_imports_: 0 cubic meters (2021 est.)<br>
+_proven reserves_: 98.542 billion cubic meters (2021 est.)<br>
 
 **Carbon dioxide emissions**<br>
-_Total emissions_: 142.282 million metric tonnes of CO2 (2019 est.)<br>
-_From coal and metallurgical coke_: 70.82 million metric tonnes of CO2 (2019 est.)<br>
-_From petroleum and other liquids_: 64.418 million metric tonnes of CO2 (2019 est.)<br>
-_From consumed natural gas_: 7.044 million metric tonnes of CO2 (2019 est.)<br>
+_total emissions_: 142.282 million metric tonnes of CO2 (2019 est.)<br>
+_from coal and metallurgical coke_: 70.82 million metric tonnes of CO2 (2019 est.)<br>
+_from petroleum and other liquids_: 64.418 million metric tonnes of CO2 (2019 est.)<br>
+_from consumed natural gas_: 7.044 million metric tonnes of CO2 (2019 est.)<br>
 
 **Energy consumption per capita**<br>
 _Total energy consumption per capita 2019_: 19.261 million Btu/person (2019 est.)<br>
@@ -712,7 +712,7 @@ Armed Forces of the Philippines (AFP): Army, Navy (includes Marine Corps), Air F
 1.3% of GDP (2017) (approximately $6.21 billion)<br>
 
 **Military and security service personnel strengths**<br>
-the Armed Forces of the Philippines (AFP) have approximately 120,000 active duty personnel (80,000 Army; 25,000 Navy, including about 9,000 marines; 15,000 Air Force) (2021)<br>
+approximately 130,000 active duty personnel (90,000 Army; 25,000 Navy, including about 8,000 marines; 15,000 Air Force) (2022)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the AFP is equipped with a mix of imported weapons systems, particularly second-hand equipment from the US; since 2014, its top weapons suppliers include South Korea and the US (2021)<br>

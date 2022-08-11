@@ -554,35 +554,35 @@ _Currency_: kuna (HRK) per US dollar -<br>
 _electrification - total population_: 100% (2020)<br>
 
 **Electricity**<br>
-_Installed generating capacity_: 4.94 million kW (2020 est.)<br>
-_Consumption_: 16,790,680,000 kWh (2019 est.)<br>
-_Exports_: 5.852 billion kWh (2020 est.)<br>
-_Imports_: 10.491 billion kWh (2020 est.)<br>
-_Transmission/distribution losses_: 1.659 billion kWh (2019 est.)<br>
+_installed generating capacity_: 4.94 million kW (2020 est.)<br>
+_consumption_: 16,790,680,000 kWh (2019 est.)<br>
+_exports_: 5.852 billion kWh (2020 est.)<br>
+_imports_: 10.491 billion kWh (2020 est.)<br>
+_transmission/distribution losses_: 1.659 billion kWh (2019 est.)<br>
 
 **Electricity generation sources**<br>
-_Fossil fuels_: 41% of total installed capacity (2020 est.)<br>
-_Nuclear_: 0% of total installed capacity (2020 est.)<br>
-_Solar_: 0.9% of total installed capacity (2020 est.)<br>
-_Wind_: 16.1% of total installed capacity (2020 est.)<br>
-_Hydroelectricity_: 31.8% of total installed capacity (2020 est.)<br>
-_Tide and wave_: 0% of total installed capacity (2020 est.)<br>
-_Geothermal_: 0.9% of total installed capacity (2020 est.)<br>
-_Biomass and waste_: 9.3% of total installed capacity (2020 est.)<br>
+_fossil fuels_: 41% of total installed capacity (2020 est.)<br>
+_nuclear_: 0% of total installed capacity (2020 est.)<br>
+_solar_: 0.9% of total installed capacity (2020 est.)<br>
+_wind_: 16.1% of total installed capacity (2020 est.)<br>
+_hydroelectricity_: 31.8% of total installed capacity (2020 est.)<br>
+_tide and wave_: 0% of total installed capacity (2020 est.)<br>
+_geothermal_: 0.9% of total installed capacity (2020 est.)<br>
+_biomass and waste_: 9.3% of total installed capacity (2020 est.)<br>
 
 **Coal**<br>
-_Production_: 0 metric tons (2020 est.)<br>
-_Consumption_: 643,000 metric tons (2020 est.)<br>
-_Exports_: 2,000 metric tons (2020 est.)<br>
-_Imports_: 644,000 metric tons (2020 est.)<br>
-_Proven reserves_: 0 metric tons (2019 est.)<br>
+_production_: 0 metric tons (2020 est.)<br>
+_consumption_: 643,000 metric tons (2020 est.)<br>
+_exports_: 2,000 metric tons (2020 est.)<br>
+_imports_: 644,000 metric tons (2020 est.)<br>
+_proven reserves_: 0 metric tons (2019 est.)<br>
 
 **Petroleum**<br>
-_Total petroleum production_: 12,200 bbl/day (2021 est.)<br>
-_Refined petroleum consumption_: 71,500 bbl/day (2019 est.)<br>
-_Crude oil and lease condensate exports_: 0 barrels/day (2018 est.)<br>
-_Crude oil and lease condensate imports_: 65,200 barrels/day (2018 est.)<br>
-_Crude oil estimated reserves_: 71 million barrels (2021 est.)<br>
+_total petroleum production_: 12,200 bbl/day (2021 est.)<br>
+_refined petroleum consumption_: 71,500 bbl/day (2019 est.)<br>
+_crude oil and lease condensate exports_: 0 barrels/day (2018 est.)<br>
+_crude oil and lease condensate imports_: 65,200 barrels/day (2018 est.)<br>
+_crude oil estimated reserves_: 71 million barrels (2021 est.)<br>
 
 **Refined petroleum products - production**<br>
 74,620 bbl/day (2015 est.)<br>
@@ -594,17 +594,17 @@ _Crude oil estimated reserves_: 71 million barrels (2021 est.)<br>
 35,530 bbl/day (2015 est.)<br>
 
 **Natural gas**<br>
-_Production_: 851.005 million cubic meters (2020 est.)<br>
-_Consumption_: 3,009,113,000 cubic meters (2020 est.)<br>
-_Exports_: 34.462 million cubic meters (2020 est.)<br>
-_Imports_: 2,131,802,000 cubic meters (2020 est.)<br>
-_Proven reserves_: 24.919 billion cubic meters (2021 est.)<br>
+_production_: 851.005 million cubic meters (2020 est.)<br>
+_consumption_: 3,009,113,000 cubic meters (2020 est.)<br>
+_exports_: 34.462 million cubic meters (2020 est.)<br>
+_imports_: 2,131,802,000 cubic meters (2020 est.)<br>
+_proven reserves_: 24.919 billion cubic meters (2021 est.)<br>
 
 **Carbon dioxide emissions**<br>
-_Total emissions_: 16.752 million metric tonnes of CO2 (2019 est.)<br>
-_From coal and metallurgical coke_: 1.674 million metric tonnes of CO2 (2019 est.)<br>
-_From petroleum and other liquids_: 9.4 million metric tonnes of CO2 (2019 est.)<br>
-_From consumed natural gas_: 5.678 million metric tonnes of CO2 (2019 est.)<br>
+_total emissions_: 16.752 million metric tonnes of CO2 (2019 est.)<br>
+_from coal and metallurgical coke_: 1.674 million metric tonnes of CO2 (2019 est.)<br>
+_from petroleum and other liquids_: 9.4 million metric tonnes of CO2 (2019 est.)<br>
+_from consumed natural gas_: 5.678 million metric tonnes of CO2 (2019 est.)<br>
 
 **Energy consumption per capita**<br>
 _Total energy consumption per capita 2019_: 89.733 million Btu/person (2019 est.)<br>
@@ -706,7 +706,7 @@ Armed Forces of the Republic of Croatia (Oruzane Snage Republike Hrvatske, OSRH)
 1.7% of GDP (2017) (approximately $1.5 billion)<br>
 
 **Military and security service personnel strengths**<br>
-the Armed Forces of the Republic of Croatia have approximately 15,000 active duty personnel (10,000 Army; 1,500 Navy; 1,500 Air force; 2,000 joint/other) (2021)<br>
+approximately 15,000 active duty personnel (10,000 Army; 1,500 Navy; 1,500 Air force; 2,000 joint/other) (2022)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the inventory of the Croatian Armed Forces consists mostly of Soviet-era equipment, although in recent years, it has acquired a limited amount of more modern weapon systems from Western suppliers, including Finland, Germany, and the US (2021)<br>
@@ -717,6 +717,7 @@ the inventory of the Croatian Armed Forces consists mostly of Soviet-era equipme
 
 **Military deployments**<br>
 130 Kosovo (KFOR/NATO) (2022)<br>
+<strong>note: </strong>in response to Russia’s 2022 invasion of Ukraine, some NATO countries have sent additional troops and equipment to the battlegroups deployed in NATO territory in eastern Europe<br>
 
 **Military - note**<br>
 Croatia joined NATO in 2009<br>

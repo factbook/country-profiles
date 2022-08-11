@@ -345,10 +345,11 @@ _residency requirement for naturalization_: 5 years<br>
 
 **Executive branch**<br>
 _chief of state_: President Sadyr JAPAROV (since 28 January 2021)<br>
-_head of government_: President Sadyr JAPAROV (2021)<br>
+_head of government_: President Sadyr JAPAROV (since 28 January 2021)<br>
 _cabinet_: Cabinet of Ministers appointed by the president<br>
 _elections/appointments_: president directly elected by absolute majority popular vote in 2 rounds if needed for a five-year term (eligible for a second term); election last held on 10 January 2021 (next to be held in 2027)<br>
-_election results_: Sadyr JAPAROV elected president in first round; percent of vote - Sadyr JAPAROV 79.5%, Adakhan MADUMAROV 6.5%, other 14%<br>
+_election results_: 2021: Sadyr JAPAROV elected president in first round; percent of vote - Sadyr JAPAROV 79.2%, Adakhan MADUMAROV 6.8%, other 14%<br><br>2017: Sooronbay JEENBEKOV elected president 54.7%, Omurbek BABANOV 33.8%, Adakhan MADUMAROV 6.6%, and other 4.9%<br>
+<strong>note:</strong> the President is both Chief of State and Head of Government.<br>
 
 **Legislative branch**<br>
 _description_: unicameral Supreme Council or Jogorku Kenesh (90 seats statutory, current 88; 54 seats allocated for proportional division among political party lists from the national vote and 36 seats allocated for candidates running in single-seat constituencies; members serve 5-year terms; parties must receive 5% of the vote to win seats in the Council)<br>
@@ -545,35 +546,35 @@ _Currency_: soms (KGS) per US dollar -<br>
 _electrification - total population_: 100% (2020)<br>
 
 **Electricity**<br>
-_Installed generating capacity_: 4.626 million kW (2020 est.)<br>
-_Consumption_: 12,324,140,000 kWh (2019 est.)<br>
-_Exports_: 271 million kWh (2019 est.)<br>
-_Imports_: 269 million kWh (2019 est.)<br>
-_Transmission/distribution losses_: 2.514 billion kWh (2019 est.)<br>
+_installed generating capacity_: 4.626 million kW (2020 est.)<br>
+_consumption_: 12,324,140,000 kWh (2019 est.)<br>
+_exports_: 271 million kWh (2019 est.)<br>
+_imports_: 269 million kWh (2019 est.)<br>
+_transmission/distribution losses_: 2.514 billion kWh (2019 est.)<br>
 
 **Electricity generation sources**<br>
-_Fossil fuels_: 8.5% of total installed capacity (2020 est.)<br>
-_Nuclear_: 0% of total installed capacity (2020 est.)<br>
-_Solar_: 0% of total installed capacity (2020 est.)<br>
-_Wind_: 0% of total installed capacity (2020 est.)<br>
-_Hydroelectricity_: 91.5% of total installed capacity (2020 est.)<br>
-_Tide and wave_: 0% of total installed capacity (2020 est.)<br>
-_Geothermal_: 0% of total installed capacity (2020 est.)<br>
-_Biomass and waste_: 0% of total installed capacity (2020 est.)<br>
+_fossil fuels_: 8.5% of total installed capacity (2020 est.)<br>
+_nuclear_: 0% of total installed capacity (2020 est.)<br>
+_solar_: 0% of total installed capacity (2020 est.)<br>
+_wind_: 0% of total installed capacity (2020 est.)<br>
+_hydroelectricity_: 91.5% of total installed capacity (2020 est.)<br>
+_tide and wave_: 0% of total installed capacity (2020 est.)<br>
+_geothermal_: 0% of total installed capacity (2020 est.)<br>
+_biomass and waste_: 0% of total installed capacity (2020 est.)<br>
 
 **Coal**<br>
-_Production_: 2.287 million metric tons (2020 est.)<br>
-_Consumption_: 1.717 million metric tons (2020 est.)<br>
-_Exports_: 984,000 metric tons (2020 est.)<br>
-_Imports_: 481,000 metric tons (2020 est.)<br>
-_Proven reserves_: 971 million metric tons (2019 est.)<br>
+_production_: 2.287 million metric tons (2020 est.)<br>
+_consumption_: 1.717 million metric tons (2020 est.)<br>
+_exports_: 984,000 metric tons (2020 est.)<br>
+_imports_: 481,000 metric tons (2020 est.)<br>
+_proven reserves_: 971 million metric tons (2019 est.)<br>
 
 **Petroleum**<br>
-_Total petroleum production_: 700 bbl/day (2021 est.)<br>
-_Refined petroleum consumption_: 32,100 bbl/day (2019 est.)<br>
-_Crude oil and lease condensate exports_: 1,400 barrels/day (2018 est.)<br>
-_Crude oil and lease condensate imports_: 8,200 barrels/day (2018 est.)<br>
-_Crude oil estimated reserves_: 40 million barrels (2021 est.)<br>
+_total petroleum production_: 700 bbl/day (2021 est.)<br>
+_refined petroleum consumption_: 32,100 bbl/day (2019 est.)<br>
+_crude oil and lease condensate exports_: 1,400 barrels/day (2018 est.)<br>
+_crude oil and lease condensate imports_: 8,200 barrels/day (2018 est.)<br>
+_crude oil estimated reserves_: 40 million barrels (2021 est.)<br>
 
 **Refined petroleum products - production**<br>
 6,996 bbl/day (2015 est.)<br>
@@ -585,17 +586,17 @@ _Crude oil estimated reserves_: 40 million barrels (2021 est.)<br>
 34,280 bbl/day (2015 est.)<br>
 
 **Natural gas**<br>
-_Production_: 25.542 million cubic meters (2019 est.)<br>
-_Consumption_: 207.845 million cubic meters (2019 est.)<br>
-_Exports_: 0 cubic meters (2021 est.)<br>
-_Imports_: 191.478 million cubic meters (2019 est.)<br>
-_Proven reserves_: 5.663 billion cubic meters (2021 est.)<br>
+_production_: 25.542 million cubic meters (2019 est.)<br>
+_consumption_: 207.845 million cubic meters (2019 est.)<br>
+_exports_: 0 cubic meters (2021 est.)<br>
+_imports_: 191.478 million cubic meters (2019 est.)<br>
+_proven reserves_: 5.663 billion cubic meters (2021 est.)<br>
 
 **Carbon dioxide emissions**<br>
-_Total emissions_: 7.88 million metric tonnes of CO2 (2019 est.)<br>
-_From coal and metallurgical coke_: 2.967 million metric tonnes of CO2 (2019 est.)<br>
-_From petroleum and other liquids_: 4.505 million metric tonnes of CO2 (2019 est.)<br>
-_From consumed natural gas_: 408,000 metric tonnes of CO2 (2019 est.)<br>
+_total emissions_: 7.88 million metric tonnes of CO2 (2019 est.)<br>
+_from coal and metallurgical coke_: 2.967 million metric tonnes of CO2 (2019 est.)<br>
+_from petroleum and other liquids_: 4.505 million metric tonnes of CO2 (2019 est.)<br>
+_from consumed natural gas_: 408,000 metric tonnes of CO2 (2019 est.)<br>
 
 **Energy consumption per capita**<br>
 _Total energy consumption per capita 2019_: 35.059 million Btu/person (2019 est.)<br>

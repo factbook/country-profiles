@@ -583,35 +583,35 @@ _Currency_: Moroccan dirhams (MAD) per US dollar -<br>
 _electrification - total population_: 100% (2020)<br>
 
 **Electricity**<br>
-_Installed generating capacity_: 14.187 million kW (2020 est.)<br>
-_Consumption_: 29,447,883,000 kWh (2019 est.)<br>
-_Exports_: 624 million kWh (2020 est.)<br>
-_Imports_: 856 million kWh (2020 est.)<br>
-_Transmission/distribution losses_: 6.703 billion kWh (2019 est.)<br>
+_installed generating capacity_: 14.187 million kW (2020 est.)<br>
+_consumption_: 29,447,883,000 kWh (2019 est.)<br>
+_exports_: 624 million kWh (2020 est.)<br>
+_imports_: 856 million kWh (2020 est.)<br>
+_transmission/distribution losses_: 6.703 billion kWh (2019 est.)<br>
 
 **Electricity generation sources**<br>
-_Fossil fuels_: 81.6% of total installed capacity (2020 est.)<br>
-_Nuclear_: 0% of total installed capacity (2020 est.)<br>
-_Solar_: 1.1% of total installed capacity (2020 est.)<br>
-_Wind_: 13% of total installed capacity (2020 est.)<br>
-_Hydroelectricity_: 4.4% of total installed capacity (2020 est.)<br>
-_Tide and wave_: 0% of total installed capacity (2020 est.)<br>
-_Geothermal_: 0% of total installed capacity (2020 est.)<br>
-_Biomass and waste_: 0% of total installed capacity (2020 est.)<br>
+_fossil fuels_: 81.6% of total installed capacity (2020 est.)<br>
+_nuclear_: 0% of total installed capacity (2020 est.)<br>
+_solar_: 1.1% of total installed capacity (2020 est.)<br>
+_wind_: 13% of total installed capacity (2020 est.)<br>
+_hydroelectricity_: 4.4% of total installed capacity (2020 est.)<br>
+_tide and wave_: 0% of total installed capacity (2020 est.)<br>
+_geothermal_: 0% of total installed capacity (2020 est.)<br>
+_biomass and waste_: 0% of total installed capacity (2020 est.)<br>
 
 **Coal**<br>
-_Production_: 0 metric tons (2020 est.)<br>
-_Consumption_: 9.321 million metric tons (2020 est.)<br>
-_Exports_: 0 metric tons (2020 est.)<br>
-_Imports_: 9.321 million metric tons (2020 est.)<br>
-_Proven reserves_: 14 million metric tons (2019 est.)<br>
+_production_: 0 metric tons (2020 est.)<br>
+_consumption_: 9.321 million metric tons (2020 est.)<br>
+_exports_: 0 metric tons (2020 est.)<br>
+_imports_: 9.321 million metric tons (2020 est.)<br>
+_proven reserves_: 14 million metric tons (2019 est.)<br>
 
 **Petroleum**<br>
-_Total petroleum production_: 0 bbl/day (2021 est.)<br>
-_Refined petroleum consumption_: 307,500 bbl/day (2019 est.)<br>
-_Crude oil and lease condensate exports_: 0 barrels/day (2018 est.)<br>
-_Crude oil and lease condensate imports_: 0 barrels/day (2018 est.)<br>
-_Crude oil estimated reserves_: 700,000 barrels (2021 est.)<br>
+_total petroleum production_: 0 bbl/day (2021 est.)<br>
+_refined petroleum consumption_: 307,500 bbl/day (2019 est.)<br>
+_crude oil and lease condensate exports_: 0 barrels/day (2018 est.)<br>
+_crude oil and lease condensate imports_: 0 barrels/day (2018 est.)<br>
+_crude oil estimated reserves_: 700,000 barrels (2021 est.)<br>
 
 **Refined petroleum products - production**<br>
 66,230 bbl/day (2017 est.)<br>
@@ -623,17 +623,17 @@ _Crude oil estimated reserves_: 700,000 barrels (2021 est.)<br>
 229,300 bbl/day (2015 est.)<br>
 
 **Natural gas**<br>
-_Production_: 105.678 million cubic meters (2019 est.)<br>
-_Consumption_: 1,051,658,000 cubic meters (2019 est.)<br>
-_Exports_: 0 cubic meters (2021 est.)<br>
-_Imports_: 950.765 million cubic meters (2019 est.)<br>
-_Proven reserves_: 1.444 billion cubic meters (2021 est.)<br>
+_production_: 105.678 million cubic meters (2019 est.)<br>
+_consumption_: 1,051,658,000 cubic meters (2019 est.)<br>
+_exports_: 0 cubic meters (2021 est.)<br>
+_imports_: 950.765 million cubic meters (2019 est.)<br>
+_proven reserves_: 1.444 billion cubic meters (2021 est.)<br>
 
 **Carbon dioxide emissions**<br>
-_Total emissions_: 60.2 million metric tonnes of CO2 (2019 est.)<br>
-_From coal and metallurgical coke_: 20.267 million metric tonnes of CO2 (2019 est.)<br>
-_From petroleum and other liquids_: 37.834 million metric tonnes of CO2 (2019 est.)<br>
-_From consumed natural gas_: 2.099 million metric tonnes of CO2 (2019 est.)<br>
+_total emissions_: 60.2 million metric tonnes of CO2 (2019 est.)<br>
+_from coal and metallurgical coke_: 20.267 million metric tonnes of CO2 (2019 est.)<br>
+_from petroleum and other liquids_: 37.834 million metric tonnes of CO2 (2019 est.)<br>
+_from consumed natural gas_: 2.099 million metric tonnes of CO2 (2019 est.)<br>
 
 **Energy consumption per capita**<br>
 _Total energy consumption per capita 2019_: 24.59 million Btu/person (2019 est.)<br>
@@ -745,7 +745,7 @@ the Moroccan military's inventory is comprised of mostly older French and US equ
 19-25 years of age for 12-month compulsory military service (reintroduced in 2019); both sexes (age 20-27 for women) are obligated to national service (2021)<br>
 
 **Military deployments**<br>
-770 Central African Republic (MINUSCA); 920 Democratic Republic of the Congo (MONUSCO) (Feb 2022)<br>
+775 Central African Republic (MINUSCA); 925 Democratic Republic of the Congo (MONUSCO) (May 2022)<br>
 
 **Military - note**<br>
 <p>Moroccan military forces were engaged in combat operations against the Polisario Front (aka Frente Popular para la Liberación de Saguia el-Hamra y de Río de Oro or Frente Polisario) from 1975 until a UN-brokered cease-fire in 1991; a 2,500-kilometer long sand berm, built in 1987, separates the forces of Morocco and the Polisario Front<br><br>the UN Mission for the Referendum in Western Sahara (MINURSO) was established by Security Council resolution 690 in April 1991 in accordance with settlement proposals accepted in August 1988 by Morocco and the Polisario Front; MINURSO was unable to carry out all the original settlement proposals, but as of 2022 continued to monitor the cease-fire and reduce the threat of mines and unexploded ordnance, and has provided logistic support to the Office of the UN High Commissioner for Refugees (UNHCR)-led confidence building measures with personnel and air and ground assets<br><br>Morocco has Major Non-NATO Ally (MNNA) status with the US; MNNA is a designation under US law that provides foreign partners with certain benefits in the areas of defense trade and security cooperation; while MNNA status provides military and economic privileges, it does not entail any security commitments</p><br>

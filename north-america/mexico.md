@@ -583,35 +583,35 @@ _Currency_: Mexican pesos (MXN) per US dollar -<br>
 _electrification - total population_: 100% (2020)<br>
 
 **Electricity**<br>
-_Installed generating capacity_: 93.43 million kW (2020 est.)<br>
-_Consumption_: 267.34 billion kWh (2020 est.)<br>
-_Exports_: 5.954 billion kWh (2020 est.)<br>
-_Imports_: 9.965 billion kWh (2020 est.)<br>
-_Transmission/distribution losses_: 42.121 billion kWh (2020 est.)<br>
+_installed generating capacity_: 93.43 million kW (2020 est.)<br>
+_consumption_: 267.34 billion kWh (2020 est.)<br>
+_exports_: 5.954 billion kWh (2020 est.)<br>
+_imports_: 9.965 billion kWh (2020 est.)<br>
+_transmission/distribution losses_: 42.121 billion kWh (2020 est.)<br>
 
 **Electricity generation sources**<br>
-_Fossil fuels_: 75.7% of total installed capacity (2020 est.)<br>
-_Nuclear_: 3.6% of total installed capacity (2020 est.)<br>
-_Solar_: 4.4% of total installed capacity (2020 est.)<br>
-_Wind_: 6.5% of total installed capacity (2020 est.)<br>
-_Hydroelectricity_: 7.6% of total installed capacity (2020 est.)<br>
-_Tide and wave_: 0% of total installed capacity (2020 est.)<br>
-_Geothermal_: 1.5% of total installed capacity (2020 est.)<br>
-_Biomass and waste_: 0.8% of total installed capacity (2020 est.)<br>
+_fossil fuels_: 75.7% of total installed capacity (2020 est.)<br>
+_nuclear_: 3.6% of total installed capacity (2020 est.)<br>
+_solar_: 4.4% of total installed capacity (2020 est.)<br>
+_wind_: 6.5% of total installed capacity (2020 est.)<br>
+_hydroelectricity_: 7.6% of total installed capacity (2020 est.)<br>
+_tide and wave_: 0% of total installed capacity (2020 est.)<br>
+_geothermal_: 1.5% of total installed capacity (2020 est.)<br>
+_biomass and waste_: 0.8% of total installed capacity (2020 est.)<br>
 
 **Coal**<br>
-_Production_: 9.886 million metric tons (2020 est.)<br>
-_Consumption_: 10.241 million metric tons (2020 est.)<br>
-_Exports_: 3,000 metric tons (2020 est.)<br>
-_Imports_: 5.182 million metric tons (2020 est.)<br>
-_Proven reserves_: 1.211 billion metric tons (2019 est.)<br>
+_production_: 9.886 million metric tons (2020 est.)<br>
+_consumption_: 10.241 million metric tons (2020 est.)<br>
+_exports_: 3,000 metric tons (2020 est.)<br>
+_imports_: 5.182 million metric tons (2020 est.)<br>
+_proven reserves_: 1.211 billion metric tons (2019 est.)<br>
 
 **Petroleum**<br>
-_Total petroleum production_: 1,905,500 bbl/day (2021 est.)<br>
-_Refined petroleum consumption_: 1,928,800 bbl/day (2019 est.)<br>
-_Crude oil and lease condensate exports_: 1,283,300 barrels/day (2018 est.)<br>
-_Crude oil and lease condensate imports_: 3,900 barrels/day (2018 est.)<br>
-_Crude oil estimated reserves_: 5,786,100,000 barrels (2021 est.)<br>
+_total petroleum production_: 1,905,500 bbl/day (2021 est.)<br>
+_refined petroleum consumption_: 1,928,800 bbl/day (2019 est.)<br>
+_crude oil and lease condensate exports_: 1,283,300 barrels/day (2018 est.)<br>
+_crude oil and lease condensate imports_: 3,900 barrels/day (2018 est.)<br>
+_crude oil estimated reserves_: 5,786,100,000 barrels (2021 est.)<br>
 
 **Refined petroleum products - production**<br>
 844,600 bbl/day (2017 est.)<br>
@@ -623,17 +623,17 @@ _Crude oil estimated reserves_: 5,786,100,000 barrels (2021 est.)<br>
 867,500 bbl/day (2017 est.)<br>
 
 **Natural gas**<br>
-_Production_: 27,037,730,000 cubic meters (2019 est.)<br>
-_Consumption_: 86,101,223,000 cubic meters (2019 est.)<br>
-_Exports_: 53.037 million cubic meters (2019 est.)<br>
-_Imports_: 59,119,362,000 cubic meters (2019 est.)<br>
-_Proven reserves_: 180.321 billion cubic meters (2021 est.)<br>
+_production_: 27,037,730,000 cubic meters (2019 est.)<br>
+_consumption_: 86,101,223,000 cubic meters (2019 est.)<br>
+_exports_: 53.037 million cubic meters (2019 est.)<br>
+_imports_: 59,119,362,000 cubic meters (2019 est.)<br>
+_proven reserves_: 180.321 billion cubic meters (2021 est.)<br>
 
 **Carbon dioxide emissions**<br>
-_Total emissions_: 463.739 million metric tonnes of CO2 (2019 est.)<br>
-_From coal and metallurgical coke_: 43.24 million metric tonnes of CO2 (2019 est.)<br>
-_From petroleum and other liquids_: 260.311 million metric tonnes of CO2 (2019 est.)<br>
-_From consumed natural gas_: 160.188 million metric tonnes of CO2 (2019 est.)<br>
+_total emissions_: 463.739 million metric tonnes of CO2 (2019 est.)<br>
+_from coal and metallurgical coke_: 43.24 million metric tonnes of CO2 (2019 est.)<br>
+_from petroleum and other liquids_: 260.311 million metric tonnes of CO2 (2019 est.)<br>
+_from consumed natural gas_: 160.188 million metric tonnes of CO2 (2019 est.)<br>
 
 **Energy consumption per capita**<br>
 _Total energy consumption per capita 2019_: 61.597 million Btu/person (2019 est.)<br>
@@ -741,7 +741,7 @@ Secretariat of National Defense (Secretaria de Defensa Nacional, SEDENA): Army (
 0.5% of GDP (2018) (approximately $12.5 billion)<br>
 
 **Military and security service personnel strengths**<br>
-information varies; approximately 218,000 armed forces personnel (160,000 Army; 8,000 Air Force; 50,000 Navy, including about 20,000 marines); approximately 110,000 National Guard (2022)<br>
+information varies; approximately 218,000 armed forces personnel (160,000 Army; 8,000 Air Force; 50,000 Navy, including about 20,000 marines); approximately 110,000 National Guard personnel (2022)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the Mexican military inventory includes a mix of domestically-produced and imported equipment from a variety of mostly Western suppliers; since 2010, the US is the leading supplier of military hardware to Mexico; Mexico's defense industry produces naval vessels and light armored vehicles, as well as small arms and other miscellaneous equipment (2022)<br>

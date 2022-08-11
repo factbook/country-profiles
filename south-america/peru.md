@@ -579,35 +579,35 @@ _electrification - urban areas_: 99% (2019)<br>
 _electrification - rural areas_: 86% (2019)<br>
 
 **Electricity**<br>
-_Installed generating capacity_: 15.34 million kW (2020 est.)<br>
-_Consumption_: 49,121,370,000 kWh (2019 est.)<br>
-_Exports_: 0 kWh (2019 est.)<br>
-_Imports_: 60 million kWh (2019 est.)<br>
-_Transmission/distribution losses_: 6.408 billion kWh (2019 est.)<br>
+_installed generating capacity_: 15.34 million kW (2020 est.)<br>
+_consumption_: 49,121,370,000 kWh (2019 est.)<br>
+_exports_: 0 kWh (2019 est.)<br>
+_imports_: 60 million kWh (2019 est.)<br>
+_transmission/distribution losses_: 6.408 billion kWh (2019 est.)<br>
 
 **Electricity generation sources**<br>
-_Fossil fuels_: 38.5% of total installed capacity (2020 est.)<br>
-_Nuclear_: 0% of total installed capacity (2020 est.)<br>
-_Solar_: 1.5% of total installed capacity (2020 est.)<br>
-_Wind_: 3.5% of total installed capacity (2020 est.)<br>
-_Hydroelectricity_: 55.4% of total installed capacity (2020 est.)<br>
-_Tide and wave_: 0% of total installed capacity (2020 est.)<br>
-_Geothermal_: 0% of total installed capacity (2020 est.)<br>
-_Biomass and waste_: 1.1% of total installed capacity (2020 est.)<br>
+_fossil fuels_: 38.5% of total installed capacity (2020 est.)<br>
+_nuclear_: 0% of total installed capacity (2020 est.)<br>
+_solar_: 1.5% of total installed capacity (2020 est.)<br>
+_wind_: 3.5% of total installed capacity (2020 est.)<br>
+_hydroelectricity_: 55.4% of total installed capacity (2020 est.)<br>
+_tide and wave_: 0% of total installed capacity (2020 est.)<br>
+_geothermal_: 0% of total installed capacity (2020 est.)<br>
+_biomass and waste_: 1.1% of total installed capacity (2020 est.)<br>
 
 **Coal**<br>
-_Production_: 696,000 metric tons (2020 est.)<br>
-_Consumption_: 396,000 metric tons (2020 est.)<br>
-_Exports_: 252,000 metric tons (2020 est.)<br>
-_Imports_: 262,000 metric tons (2020 est.)<br>
-_Proven reserves_: 102 million metric tons (2019 est.)<br>
+_production_: 696,000 metric tons (2020 est.)<br>
+_consumption_: 396,000 metric tons (2020 est.)<br>
+_exports_: 252,000 metric tons (2020 est.)<br>
+_imports_: 262,000 metric tons (2020 est.)<br>
+_proven reserves_: 102 million metric tons (2019 est.)<br>
 
 **Petroleum**<br>
-_Total petroleum production_: 122,500 bbl/day (2021 est.)<br>
-_Refined petroleum consumption_: 265,500 bbl/day (2019 est.)<br>
-_Crude oil and lease condensate exports_: 6,500 barrels/day (2018 est.)<br>
-_Crude oil and lease condensate imports_: 112,900 barrels/day (2018 est.)<br>
-_Crude oil estimated reserves_: 858.9 million barrels (2021 est.)<br>
+_total petroleum production_: 122,500 bbl/day (2021 est.)<br>
+_refined petroleum consumption_: 265,500 bbl/day (2019 est.)<br>
+_crude oil and lease condensate exports_: 6,500 barrels/day (2018 est.)<br>
+_crude oil and lease condensate imports_: 112,900 barrels/day (2018 est.)<br>
+_crude oil estimated reserves_: 858.9 million barrels (2021 est.)<br>
 
 **Refined petroleum products - production**<br>
 166,600 bbl/day (2015 est.)<br>
@@ -619,17 +619,17 @@ _Crude oil estimated reserves_: 858.9 million barrels (2021 est.)<br>
 65,400 bbl/day (2015 est.)<br>
 
 **Natural gas**<br>
-_Production_: 12,079,211,000 cubic meters (2020 est.)<br>
-_Consumption_: 8,278,048,000 cubic meters (2019 est.)<br>
-_Exports_: 5.446 billion cubic meters (2019 est.)<br>
-_Imports_: 0 cubic meters (2021 est.)<br>
-_Proven reserves_: 300.158 billion cubic meters (2021 est.)<br>
+_production_: 12,079,211,000 cubic meters (2020 est.)<br>
+_consumption_: 8,278,048,000 cubic meters (2019 est.)<br>
+_exports_: 5.446 billion cubic meters (2019 est.)<br>
+_imports_: 0 cubic meters (2021 est.)<br>
+_proven reserves_: 300.158 billion cubic meters (2021 est.)<br>
 
 **Carbon dioxide emissions**<br>
-_Total emissions_: 54.996 million metric tonnes of CO2 (2019 est.)<br>
-_From coal and metallurgical coke_: 1.171 million metric tonnes of CO2 (2019 est.)<br>
-_From petroleum and other liquids_: 35.119 million metric tonnes of CO2 (2019 est.)<br>
-_From consumed natural gas_: 18.706 million metric tonnes of CO2 (2019 est.)<br>
+_total emissions_: 54.996 million metric tonnes of CO2 (2019 est.)<br>
+_from coal and metallurgical coke_: 1.171 million metric tonnes of CO2 (2019 est.)<br>
+_from petroleum and other liquids_: 35.119 million metric tonnes of CO2 (2019 est.)<br>
+_from consumed natural gas_: 18.706 million metric tonnes of CO2 (2019 est.)<br>
 
 **Energy consumption per capita**<br>
 _Total energy consumption per capita 2019_: 36.465 million Btu/person (2019 est.)<br>
@@ -745,7 +745,7 @@ the Peruvian military's inventory is a mix of mostly older equipment from a wide
 <strong>note: </strong>as of 2019, women made up about 10% of the active duty military<br>
 
 **Military deployments**<br>
-210 Central African Republic (MINUSCA) (Feb 2022)<br>
+215 Central African Republic (MINUSCA) (May 2022)<br>
 
 **Military - note**<br>
 the Peruvian security forces continued to conduct operations against remnants of the Shining Path terrorist group (aka Sendero Luminoso; see Appendix T<u>)</u>, particularly in the Apurimac, Ene, and Mantaro River Valleys (VRAEM) of eastern Peru; the military had approximately 8,000-10,000 troops in the VRAEM under a combined Special Command comprised of air, ground, naval, police, and special forces units (2022)<br>

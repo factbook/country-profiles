@@ -375,7 +375,7 @@ _elections/appointments_: president directly elected by absolute majority popula
 _election results_: Macky SALL elected president in first round; percent of vote - Macky SALL (APR) 58.3%, Idrissa SECK (Rewmi) 20.5%, Ousmane SONKO (PASTEF) 15.7%, other 5.5% (2019)<br>
 
 **Legislative branch**<br>
-_description_: unicameral National Assembly or <em>Assemblée</em> Nationale (165 seats; 105 members including 15 representing Senegalese diaspora directly elected by plurality vote in single- and multi-seat constituencies and 60 members directly elected by proportional representation vote in single- and multi-seat constituencies)<br>
+_description_: unicameral National Assembly or <em>Assemblée</em> Nationale (165 seats; 112 members including 15 representing Senegalese diaspora directly elected by plurality vote in single- and multi-seat constituencies and 53 members directly elected by proportional representation vote in a single nationwide constituency)<br>
 _elections_: National Assembly - last held on 2 July 2017 (next to be held on 31 July 2022)<br>
 _election results_: National Assembly results - percent of vote by party/coalition - BBK 49.5%, CGWS 16.7%, MTS 11.7%, PUR 4.7%, CP-Kaddu Askan Wi 2%, other 15.4%; seats by party/coalition - BBY 125, CGWS 19, MTS 7, PUR 3, CP-Kaddu Askan Wi 2, other 9; composition - men 96, women 69, percent of women 41.8%<br>
 
@@ -568,35 +568,35 @@ _electrification - urban areas_: 94% (2019)<br>
 _electrification - rural areas_: 50% (2019)<br>
 
 **Electricity**<br>
-_Installed generating capacity_: 1.312 million kW (2020 est.)<br>
-_Consumption_: 4,735,980,000 kWh (2019 est.)<br>
-_Exports_: 0 kWh (2019 est.)<br>
-_Imports_: 324 million kWh (2019 est.)<br>
-_Transmission/distribution losses_: 764 million kWh (2019 est.)<br>
+_installed generating capacity_: 1.312 million kW (2020 est.)<br>
+_consumption_: 4,735,980,000 kWh (2019 est.)<br>
+_exports_: 0 kWh (2019 est.)<br>
+_imports_: 324 million kWh (2019 est.)<br>
+_transmission/distribution losses_: 764 million kWh (2019 est.)<br>
 
 **Electricity generation sources**<br>
-_Fossil fuels_: 84.8% of total installed capacity (2020 est.)<br>
-_Nuclear_: 0% of total installed capacity (2020 est.)<br>
-_Solar_: 6% of total installed capacity (2020 est.)<br>
-_Wind_: 0.5% of total installed capacity (2020 est.)<br>
-_Hydroelectricity_: 6.3% of total installed capacity (2020 est.)<br>
-_Tide and wave_: 0% of total installed capacity (2020 est.)<br>
-_Geothermal_: 0% of total installed capacity (2020 est.)<br>
-_Biomass and waste_: 2.4% of total installed capacity (2020 est.)<br>
+_fossil fuels_: 84.8% of total installed capacity (2020 est.)<br>
+_nuclear_: 0% of total installed capacity (2020 est.)<br>
+_solar_: 6% of total installed capacity (2020 est.)<br>
+_wind_: 0.5% of total installed capacity (2020 est.)<br>
+_hydroelectricity_: 6.3% of total installed capacity (2020 est.)<br>
+_tide and wave_: 0% of total installed capacity (2020 est.)<br>
+_geothermal_: 0% of total installed capacity (2020 est.)<br>
+_biomass and waste_: 2.4% of total installed capacity (2020 est.)<br>
 
 **Coal**<br>
-_Production_: 0 metric tons (2020 est.)<br>
-_Consumption_: 894,000 metric tons (2020 est.)<br>
-_Exports_: 0 metric tons (2020 est.)<br>
-_Imports_: 894,000 metric tons (2020 est.)<br>
-_Proven reserves_: 0 metric tons (2019 est.)<br>
+_production_: 0 metric tons (2020 est.)<br>
+_consumption_: 894,000 metric tons (2020 est.)<br>
+_exports_: 0 metric tons (2020 est.)<br>
+_imports_: 894,000 metric tons (2020 est.)<br>
+_proven reserves_: 0 metric tons (2019 est.)<br>
 
 **Petroleum**<br>
-_Total petroleum production_: 0 bbl/day (2021 est.)<br>
-_Refined petroleum consumption_: 57,500 bbl/day (2019 est.)<br>
-_Crude oil and lease condensate exports_: 0 barrels/day (2018 est.)<br>
-_Crude oil and lease condensate imports_: 20,500 barrels/day (2018 est.)<br>
-_Crude oil estimated reserves_: 0 barrels (2021 est.)<br>
+_total petroleum production_: 0 bbl/day (2021 est.)<br>
+_refined petroleum consumption_: 57,500 bbl/day (2019 est.)<br>
+_crude oil and lease condensate exports_: 0 barrels/day (2018 est.)<br>
+_crude oil and lease condensate imports_: 20,500 barrels/day (2018 est.)<br>
+_crude oil estimated reserves_: 0 barrels (2021 est.)<br>
 
 **Refined petroleum products - production**<br>
 17,590 bbl/day (2015 est.)<br>
@@ -608,17 +608,17 @@ _Crude oil estimated reserves_: 0 barrels (2021 est.)<br>
 32,050 bbl/day (2015 est.)<br>
 
 **Natural gas**<br>
-_Production_: 60.003 million cubic meters (2019 est.)<br>
-_Consumption_: 60.003 million cubic meters (2019 est.)<br>
-_Exports_: 0 cubic meters (2021 est.)<br>
-_Imports_: 0 cubic meters (2021 est.)<br>
-_Proven reserves_: 0 cubic meters (2021 est.)<br>
+_production_: 60.003 million cubic meters (2019 est.)<br>
+_consumption_: 60.003 million cubic meters (2019 est.)<br>
+_exports_: 0 cubic meters (2021 est.)<br>
+_imports_: 0 cubic meters (2021 est.)<br>
+_proven reserves_: 0 cubic meters (2021 est.)<br>
 
 **Carbon dioxide emissions**<br>
-_Total emissions_: 10.696 million metric tonnes of CO2 (2019 est.)<br>
-_From coal and metallurgical coke_: 1.955 million metric tonnes of CO2 (2019 est.)<br>
-_From petroleum and other liquids_: 8.64 million metric tonnes of CO2 (2019 est.)<br>
-_From consumed natural gas_: 101,000 metric tonnes of CO2 (2019 est.)<br>
+_total emissions_: 10.696 million metric tonnes of CO2 (2019 est.)<br>
+_from coal and metallurgical coke_: 1.955 million metric tonnes of CO2 (2019 est.)<br>
+_from petroleum and other liquids_: 8.64 million metric tonnes of CO2 (2019 est.)<br>
+_from consumed natural gas_: 101,000 metric tonnes of CO2 (2019 est.)<br>
 
 **Energy consumption per capita**<br>
 _Total energy consumption per capita 2019_: 9.221 million Btu/person (2019 est.)<br>
@@ -727,7 +727,8 @@ the FAS inventory includes mostly older or second-hand equipment from a variety 
 750 Gambia (ECOMIG); 970 Mali (MINUSMA); note - Senegal also has about 1,100 police deployed on various UN peacekeeping missions (2022)<br>
 
 **Military - note**<br>
-Senegalese security forces continued to be engaged in a low-level counterinsurgency campaign in the southern Casamance region against various factions of the separatist Movement of Democratic Forces of the Casamance; while violent incidents have decreased since a tacit cease-fire was reached in 2012, the insurgency, which began in 1982, continues and remains one of longest running low-level conflicts in the world, claiming more than 5,000 lives and leaving another 60,000 displaced (2022)<br>
+Senegalese security forces continue to be engaged in a low-level counterinsurgency campaign in the southern Casamance region against various factions of the separatist Movement of Democratic Forces of the Casamance (MDFC); while violent incidents have decreased since a tacit cease-fire was reached in 2012, the insurgency, which began in 1982, continued as of mid-2022 and remained one of longest running low-level conflicts in the world, claiming more than 5,000 lives and leaving another 60,000 displaced (2022)<br>
+<strong>note: </strong>in August 2022, a representative of the Senegalese Government and a leader of the MFDC signed an agreement in which the MFDC pledged to lay down its arms and work towards a permanent peace<br>
 
 ## Terrorism
 

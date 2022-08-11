@@ -552,35 +552,35 @@ _Currency_: dong (VND) per US dollar -<br>
 _electrification - total population_: 100% (2019)<br>
 
 **Electricity**<br>
-_Installed generating capacity_: 65.283 million kW (2020 est.)<br>
-_Consumption_: 199,846,440,000 kWh (2019 est.)<br>
-_Exports_: 2.067 billion kWh (2019 est.)<br>
-_Imports_: 3.316 billion kWh (2019 est.)<br>
-_Transmission/distribution losses_: 15.479 billion kWh (2019 est.)<br>
+_installed generating capacity_: 65.283 million kW (2020 est.)<br>
+_consumption_: 199,846,440,000 kWh (2019 est.)<br>
+_exports_: 2.067 billion kWh (2019 est.)<br>
+_imports_: 3.316 billion kWh (2019 est.)<br>
+_transmission/distribution losses_: 15.479 billion kWh (2019 est.)<br>
 
 **Electricity generation sources**<br>
-_Fossil fuels_: 70.7% of total installed capacity (2020 est.)<br>
-_Nuclear_: 0% of total installed capacity (2020 est.)<br>
-_Solar_: 2.4% of total installed capacity (2020 est.)<br>
-_Wind_: 0.4% of total installed capacity (2020 est.)<br>
-_Hydroelectricity_: 25.2% of total installed capacity (2020 est.)<br>
-_Tide and wave_: 0% of total installed capacity (2020 est.)<br>
-_Geothermal_: 0% of total installed capacity (2020 est.)<br>
-_Biomass and waste_: 1.4% of total installed capacity (2020 est.)<br>
+_fossil fuels_: 70.7% of total installed capacity (2020 est.)<br>
+_nuclear_: 0% of total installed capacity (2020 est.)<br>
+_solar_: 2.4% of total installed capacity (2020 est.)<br>
+_wind_: 0.4% of total installed capacity (2020 est.)<br>
+_hydroelectricity_: 25.2% of total installed capacity (2020 est.)<br>
+_tide and wave_: 0% of total installed capacity (2020 est.)<br>
+_geothermal_: 0% of total installed capacity (2020 est.)<br>
+_biomass and waste_: 1.4% of total installed capacity (2020 est.)<br>
 
 **Coal**<br>
-_Production_: 47.789 million metric tons (2020 est.)<br>
-_Consumption_: 80.568 million metric tons (2020 est.)<br>
-_Exports_: 902,000 metric tons (2020 est.)<br>
-_Imports_: 55 million metric tons (2020 est.)<br>
-_Proven reserves_: 3.36 billion metric tons (2019 est.)<br>
+_production_: 47.789 million metric tons (2020 est.)<br>
+_consumption_: 80.568 million metric tons (2020 est.)<br>
+_exports_: 902,000 metric tons (2020 est.)<br>
+_imports_: 55 million metric tons (2020 est.)<br>
+_proven reserves_: 3.36 billion metric tons (2019 est.)<br>
 
 **Petroleum**<br>
-_Total petroleum production_: 197,700 bbl/day (2021 est.)<br>
-_Refined petroleum consumption_: 495,500 bbl/day (2019 est.)<br>
-_Crude oil and lease condensate exports_: 66,900 barrels/day (2018 est.)<br>
-_Crude oil and lease condensate imports_: 103,500 barrels/day (2018 est.)<br>
-_Crude oil estimated reserves_: 4.4 billion barrels (2021 est.)<br>
+_total petroleum production_: 197,700 bbl/day (2021 est.)<br>
+_refined petroleum consumption_: 495,500 bbl/day (2019 est.)<br>
+_crude oil and lease condensate exports_: 66,900 barrels/day (2018 est.)<br>
+_crude oil and lease condensate imports_: 103,500 barrels/day (2018 est.)<br>
+_crude oil estimated reserves_: 4.4 billion barrels (2021 est.)<br>
 
 **Refined petroleum products - production**<br>
 153,800 bbl/day (2015 est.)<br>
@@ -592,17 +592,17 @@ _Crude oil estimated reserves_: 4.4 billion barrels (2021 est.)<br>
 282,800 bbl/day (2015 est.)<br>
 
 **Natural gas**<br>
-_Production_: 8,438,095,000 cubic meters (2019 est.)<br>
-_Consumption_: 8,438,095,000 cubic meters (2019 est.)<br>
-_Exports_: 0 cubic meters (2021 est.)<br>
-_Imports_: 0 cubic meters (2021 est.)<br>
-_Proven reserves_: 699.425 billion cubic meters (2021 est.)<br>
+_production_: 8,438,095,000 cubic meters (2019 est.)<br>
+_consumption_: 8,438,095,000 cubic meters (2019 est.)<br>
+_exports_: 0 cubic meters (2021 est.)<br>
+_imports_: 0 cubic meters (2021 est.)<br>
+_proven reserves_: 699.425 billion cubic meters (2021 est.)<br>
 
 **Carbon dioxide emissions**<br>
-_Total emissions_: 249.929 million metric tonnes of CO2 (2019 est.)<br>
-_From coal and metallurgical coke_: 165.775 million metric tonnes of CO2 (2019 est.)<br>
-_From petroleum and other liquids_: 67.775 million metric tonnes of CO2 (2019 est.)<br>
-_From consumed natural gas_: 16.379 million metric tonnes of CO2 (2019 est.)<br>
+_total emissions_: 249.929 million metric tonnes of CO2 (2019 est.)<br>
+_from coal and metallurgical coke_: 165.775 million metric tonnes of CO2 (2019 est.)<br>
+_from petroleum and other liquids_: 67.775 million metric tonnes of CO2 (2019 est.)<br>
+_from consumed natural gas_: 16.379 million metric tonnes of CO2 (2019 est.)<br>
 
 **Energy consumption per capita**<br>
 _Total energy consumption per capita 2019_: 36.392 million Btu/person (2019 est.)<br>
@@ -706,7 +706,7 @@ People's Army of Vietnam (PAVN; aka Vietnam People's Army, VPA): Ground Forces, 
 2.3% of GDP (2017 est.) (approximately $9.85 billion)<br>
 
 **Military and security service personnel strengths**<br>
-information is limited and estimates vary; approximately 470,000 active duty troops (400,000 ground; 40,000 naval; 30,000 air); estimated 40,000 Border Defense Force and Coast Guard (2021)<br>
+information is limited and estimates vary; approximately 470,000 active duty troops (400,000 ground; 40,000 naval; 30,000 air); estimated 40,000 Border Defense Force and Coast Guard (2022)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the PAVN is armed largely with weapons and equipment from Russia and the former Soviet Union; since 2010, Russia has remained the main supplier of newer PAVN military equipment, although in recent years Vietnam has purchased arms from more than a dozen other countries including Belarus, Israel, South Korea, Ukraine, and the US; Vietnam has a limited defense industry (2021)<br>

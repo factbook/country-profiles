@@ -551,35 +551,35 @@ _Currency_: Uruguayan pesos (UYU) per US dollar -<br>
 _electrification - total population_: 100% (2020)<br>
 
 **Electricity**<br>
-_Installed generating capacity_: 5.348 million kW (2020 est.)<br>
-_Consumption_: 11,461,960,000 kWh (2019 est.)<br>
-_Exports_: 1.148 billion kWh (2020 est.)<br>
-_Imports_: 515 million kWh (2020 est.)<br>
-_Transmission/distribution losses_: 1,329,700,000 kWh (2019 est.)<br>
+_installed generating capacity_: 5.348 million kW (2020 est.)<br>
+_consumption_: 11,461,960,000 kWh (2019 est.)<br>
+_exports_: 1.148 billion kWh (2020 est.)<br>
+_imports_: 515 million kWh (2020 est.)<br>
+_transmission/distribution losses_: 1,329,700,000 kWh (2019 est.)<br>
 
 **Electricity generation sources**<br>
-_Fossil fuels_: 2% of total installed capacity (2020 est.)<br>
-_Nuclear_: 0% of total installed capacity (2020 est.)<br>
-_Solar_: 3.6% of total installed capacity (2020 est.)<br>
-_Wind_: 42.2% of total installed capacity (2020 est.)<br>
-_Hydroelectricity_: 30.6% of total installed capacity (2020 est.)<br>
-_Tide and wave_: 0% of total installed capacity (2020 est.)<br>
-_Geothermal_: 0% of total installed capacity (2020 est.)<br>
-_Biomass and waste_: 21.6% of total installed capacity (2020 est.)<br>
+_fossil fuels_: 2% of total installed capacity (2020 est.)<br>
+_nuclear_: 0% of total installed capacity (2020 est.)<br>
+_solar_: 3.6% of total installed capacity (2020 est.)<br>
+_wind_: 42.2% of total installed capacity (2020 est.)<br>
+_hydroelectricity_: 30.6% of total installed capacity (2020 est.)<br>
+_tide and wave_: 0% of total installed capacity (2020 est.)<br>
+_geothermal_: 0% of total installed capacity (2020 est.)<br>
+_biomass and waste_: 21.6% of total installed capacity (2020 est.)<br>
 
 **Coal**<br>
-_Production_: 0 metric tons (2020 est.)<br>
-_Consumption_: 0 metric tons (2020 est.)<br>
-_Exports_: 0 metric tons (2020 est.)<br>
-_Imports_: 0 metric tons (2020 est.)<br>
-_Proven reserves_: 0 metric tons (2019 est.)<br>
+_production_: 0 metric tons (2020 est.)<br>
+_consumption_: 0 metric tons (2020 est.)<br>
+_exports_: 0 metric tons (2020 est.)<br>
+_imports_: 0 metric tons (2020 est.)<br>
+_proven reserves_: 0 metric tons (2019 est.)<br>
 
 **Petroleum**<br>
-_Total petroleum production_: 400 bbl/day (2021 est.)<br>
-_Refined petroleum consumption_: 50,200 bbl/day (2019 est.)<br>
-_Crude oil and lease condensate exports_: 0 barrels/day (2018 est.)<br>
-_Crude oil and lease condensate imports_: 41,500 barrels/day (2018 est.)<br>
-_Crude oil estimated reserves_: 0 barrels (2021 est.)<br>
+_total petroleum production_: 400 bbl/day (2021 est.)<br>
+_refined petroleum consumption_: 50,200 bbl/day (2019 est.)<br>
+_crude oil and lease condensate exports_: 0 barrels/day (2018 est.)<br>
+_crude oil and lease condensate imports_: 41,500 barrels/day (2018 est.)<br>
+_crude oil estimated reserves_: 0 barrels (2021 est.)<br>
 
 **Refined petroleum products - production**<br>
 42,220 bbl/day (2015 est.)<br>
@@ -591,17 +591,17 @@ _Crude oil estimated reserves_: 0 barrels (2021 est.)<br>
 9,591 bbl/day (2015 est.)<br>
 
 **Natural gas**<br>
-_Production_: 0 cubic meters (2021 est.)<br>
-_Consumption_: 96.872 million cubic meters (2019 est.)<br>
-_Exports_: 0 cubic meters (2021 est.)<br>
-_Imports_: 96.872 million cubic meters (2019 est.)<br>
-_Proven reserves_: 0 cubic meters (2021 est.)<br>
+_production_: 0 cubic meters (2021 est.)<br>
+_consumption_: 96.872 million cubic meters (2019 est.)<br>
+_exports_: 0 cubic meters (2021 est.)<br>
+_imports_: 96.872 million cubic meters (2019 est.)<br>
+_proven reserves_: 0 cubic meters (2021 est.)<br>
 
 **Carbon dioxide emissions**<br>
-_Total emissions_: 6.45 million metric tonnes of CO2 (2019 est.)<br>
-_From coal and metallurgical coke_: 0 metric tonnes of CO2 (2019 est.)<br>
-_From petroleum and other liquids_: 6.259 million metric tonnes of CO2 (2019 est.)<br>
-_From consumed natural gas_: 190,000 metric tonnes of CO2 (2019 est.)<br>
+_total emissions_: 6.45 million metric tonnes of CO2 (2019 est.)<br>
+_from coal and metallurgical coke_: 0 metric tonnes of CO2 (2019 est.)<br>
+_from petroleum and other liquids_: 6.259 million metric tonnes of CO2 (2019 est.)<br>
+_from consumed natural gas_: 190,000 metric tonnes of CO2 (2019 est.)<br>
 
 **Energy consumption per capita**<br>
 _Total energy consumption per capita 2019_: 66.909 million Btu/person (2019 est.)<br>
@@ -706,7 +706,7 @@ the inventory of the Armed Forces of Uruguay includes a wide variety of older or
 <strong>note:</strong> as of 2017, women comprised about 19% of the active military<br>
 
 **Military deployments**<br>
-830 Democratic Republic of the Congo (MONUSCO); 210 Golan Heights (UNDOF) (Feb 2022)<br>
+830 Democratic Republic of the Congo (MONUSCO); 210 Golan Heights (UNDOF) (May 2022)<br>
 
 **Military - note**<br>
 the military has some domestic responsibilities, including perimeter security for a number of prisons and border security; in 2020, the military deployed more than 1,000 troops to assist the National Police in securing the land border with Brazil and the riverine border with Argentina as part of a border control law passed in 2018 (2022)<br>

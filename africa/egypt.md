@@ -568,35 +568,35 @@ _Currency_: Egyptian pounds (EGP) per US dollar -<br>
 _electrification - total population_: 100% (2020)<br>
 
 **Electricity**<br>
-_Installed generating capacity_: 59.826 million kW (2020 est.)<br>
-_Consumption_: 149,079,120,000 kWh (2019 est.)<br>
-_Exports_: 360 million kWh (2019 est.)<br>
-_Imports_: 74 million kWh (2019 est.)<br>
-_Transmission/distribution losses_: 33.623 billion kWh (2019 est.)<br>
+_installed generating capacity_: 59.826 million kW (2020 est.)<br>
+_consumption_: 149,079,120,000 kWh (2019 est.)<br>
+_exports_: 360 million kWh (2019 est.)<br>
+_imports_: 74 million kWh (2019 est.)<br>
+_transmission/distribution losses_: 33.623 billion kWh (2019 est.)<br>
 
 **Electricity generation sources**<br>
-_Fossil fuels_: 88.7% of total installed capacity (2020 est.)<br>
-_Nuclear_: 0% of total installed capacity (2020 est.)<br>
-_Solar_: 1% of total installed capacity (2020 est.)<br>
-_Wind_: 2.5% of total installed capacity (2020 est.)<br>
-_Hydroelectricity_: 7.7% of total installed capacity (2020 est.)<br>
-_Tide and wave_: 0% of total installed capacity (2020 est.)<br>
-_Geothermal_: 0% of total installed capacity (2020 est.)<br>
-_Biomass and waste_: 0.2% of total installed capacity (2020 est.)<br>
+_fossil fuels_: 88.7% of total installed capacity (2020 est.)<br>
+_nuclear_: 0% of total installed capacity (2020 est.)<br>
+_solar_: 1% of total installed capacity (2020 est.)<br>
+_wind_: 2.5% of total installed capacity (2020 est.)<br>
+_hydroelectricity_: 7.7% of total installed capacity (2020 est.)<br>
+_tide and wave_: 0% of total installed capacity (2020 est.)<br>
+_geothermal_: 0% of total installed capacity (2020 est.)<br>
+_biomass and waste_: 0.2% of total installed capacity (2020 est.)<br>
 
 **Coal**<br>
-_Production_: 262,000 metric tons (2020 est.)<br>
-_Consumption_: 2.31 million metric tons (2020 est.)<br>
-_Exports_: 86,000 metric tons (2020 est.)<br>
-_Imports_: 2.134 million metric tons (2020 est.)<br>
-_Proven reserves_: 16 million metric tons (2019 est.)<br>
+_production_: 262,000 metric tons (2020 est.)<br>
+_consumption_: 2.31 million metric tons (2020 est.)<br>
+_exports_: 86,000 metric tons (2020 est.)<br>
+_imports_: 2.134 million metric tons (2020 est.)<br>
+_proven reserves_: 16 million metric tons (2019 est.)<br>
 
 **Petroleum**<br>
-_Total petroleum production_: 660,800 bbl/day (2021 est.)<br>
-_Refined petroleum consumption_: 810,200 bbl/day (2019 est.)<br>
-_Crude oil and lease condensate exports_: 204,100 barrels/day (2018 est.)<br>
-_Crude oil and lease condensate imports_: 117,400 barrels/day (2018 est.)<br>
-_Crude oil estimated reserves_: 3.3 billion barrels (2021 est.)<br>
+_total petroleum production_: 660,800 bbl/day (2021 est.)<br>
+_refined petroleum consumption_: 810,200 bbl/day (2019 est.)<br>
+_crude oil and lease condensate exports_: 204,100 barrels/day (2018 est.)<br>
+_crude oil and lease condensate imports_: 117,400 barrels/day (2018 est.)<br>
+_crude oil estimated reserves_: 3.3 billion barrels (2021 est.)<br>
 
 **Refined petroleum products - production**<br>
 547,500 bbl/day (2015 est.)<br>
@@ -608,17 +608,17 @@ _Crude oil estimated reserves_: 3.3 billion barrels (2021 est.)<br>
 280,200 bbl/day (2015 est.)<br>
 
 **Natural gas**<br>
-_Production_: 64,292,955,000 cubic meters (2019 est.)<br>
-_Consumption_: 58,176,781,000 cubic meters (2019 est.)<br>
-_Exports_: 5,009,100,000 cubic meters (2019 est.)<br>
-_Imports_: 83.563 million cubic meters (2019 est.)<br>
-_Proven reserves_: 1,783,958,000,000 cubic meters (2021 est.)<br>
+_production_: 64,292,955,000 cubic meters (2019 est.)<br>
+_consumption_: 58,176,781,000 cubic meters (2019 est.)<br>
+_exports_: 5,009,100,000 cubic meters (2019 est.)<br>
+_imports_: 83.563 million cubic meters (2019 est.)<br>
+_proven reserves_: 1,783,958,000,000 cubic meters (2021 est.)<br>
 
 **Carbon dioxide emissions**<br>
-_Total emissions_: 235.137 million metric tonnes of CO2 (2019 est.)<br>
-_From coal and metallurgical coke_: 8.728 million metric tonnes of CO2 (2019 est.)<br>
-_From petroleum and other liquids_: 112.281 million metric tonnes of CO2 (2019 est.)<br>
-_From consumed natural gas_: 114.128 million metric tonnes of CO2 (2019 est.)<br>
+_total emissions_: 235.137 million metric tonnes of CO2 (2019 est.)<br>
+_from coal and metallurgical coke_: 8.728 million metric tonnes of CO2 (2019 est.)<br>
+_from petroleum and other liquids_: 112.281 million metric tonnes of CO2 (2019 est.)<br>
+_from consumed natural gas_: 114.128 million metric tonnes of CO2 (2019 est.)<br>
 
 **Energy consumption per capita**<br>
 _Total energy consumption per capita 2019_: 40.063 million Btu/person (2019 est.)<br>
@@ -737,7 +737,7 @@ voluntary enlistment possible from age 16 (men and women); 18-30 years of age fo
 <strong>note:</strong> as of 2020, conscripts were estimated to comprise over half of the military, as well as a considerable portion of the Central Security Force<br>
 
 **Military deployments**<br>
-1,000 Central African Republic (MINUSCA); 1,050 Mali (MINUSMA) (Jan 2022)<br>
+1,000 Central African Republic (MINUSCA); 1,075 Mali (MINUSMA) (May 2022)<br>
 
 **Military - note**<br>
 since 2011, the Egyptian Armed Forces, police, and other security forces have been actively engaged in counterinsurgency and counter-terrorism operations in the North Sinai governorate against several militant groups, particularly the Islamic State of Iraq and ash-Sham – Sinai Province; as of 2022, Egypt had tens of thousands of military troops, police, and other security personnel deployed in the Sinai for internal security duties; in addition, tribal militias were assisting Egyptian security forces<br><br>the military has a large stake in the civilian economy, including running banks, businesses, and shipping lines, producing consumer and industrial goods, importing commodities, and building and managing infrastructure projects, such as bridges, roads, hospitals, and housing; the various enterprises are reportedly profitable enough to make the armed forces largely self-funded<br><br>Egypt has Major Non-NATO Ally (MNNA) status with the US; MNNA is a designation under US law that provides foreign partners with certain benefits in the areas of defense trade and security cooperation; while MNNA status provides military and economic privileges, it does not entail any security commitments<br><br>the Multinational Force &amp; Observers (MFO) has operated in the Sinai since 1982 as a peacekeeping and monitoring force to supervise the implementation of the security provisions of the 1979 Egyptian-Israeli Treaty of Peace; the MFO is an independent international organization, created by agreement between Egypt and Israel; as of 2022, it was composed of about 1,150 troops from 13 countries; Colombia, Fiji, and the US were the leading providers of troops to the MFO (2022)<br>

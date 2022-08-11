@@ -535,35 +535,35 @@ _Currency_: Danish kroner (DKK) per US dollar -<br>
 _electrification - total population_: 100% (2020)<br>
 
 **Electricity**<br>
-_Installed generating capacity_: 17.655 million kW (2020 est.)<br>
-_Consumption_: 33.081 billion kWh (2020 est.)<br>
-_Exports_: 12.694 billion kWh (2020 est.)<br>
-_Imports_: 18.891 billion kWh (2020 est.)<br>
-_Transmission/distribution losses_: 1.573 billion kWh (2020 est.)<br>
+_installed generating capacity_: 17.655 million kW (2020 est.)<br>
+_consumption_: 33.081 billion kWh (2020 est.)<br>
+_exports_: 12.694 billion kWh (2020 est.)<br>
+_imports_: 18.891 billion kWh (2020 est.)<br>
+_transmission/distribution losses_: 1.573 billion kWh (2020 est.)<br>
 
 **Electricity generation sources**<br>
-_Fossil fuels_: 14.8% of total installed capacity (2020 est.)<br>
-_Nuclear_: 0% of total installed capacity (2020 est.)<br>
-_Solar_: 4.2% of total installed capacity (2020 est.)<br>
-_Wind_: 57.5% of total installed capacity (2020 est.)<br>
-_Hydroelectricity_: 0.1% of total installed capacity (2020 est.)<br>
-_Tide and wave_: 0% of total installed capacity (2020 est.)<br>
-_Geothermal_: 0% of total installed capacity (2020 est.)<br>
-_Biomass and waste_: 23.5% of total installed capacity (2020 est.)<br>
+_fossil fuels_: 14.8% of total installed capacity (2020 est.)<br>
+_nuclear_: 0% of total installed capacity (2020 est.)<br>
+_solar_: 4.2% of total installed capacity (2020 est.)<br>
+_wind_: 57.5% of total installed capacity (2020 est.)<br>
+_hydroelectricity_: 0.1% of total installed capacity (2020 est.)<br>
+_tide and wave_: 0% of total installed capacity (2020 est.)<br>
+_geothermal_: 0% of total installed capacity (2020 est.)<br>
+_biomass and waste_: 23.5% of total installed capacity (2020 est.)<br>
 
 **Coal**<br>
-_Production_: 0 metric tons (2020 est.)<br>
-_Consumption_: 1.249 million metric tons (2020 est.)<br>
-_Exports_: 194,000 metric tons (2020 est.)<br>
-_Imports_: 1.122 million metric tons (2020 est.)<br>
-_Proven reserves_: 0 metric tons (2019 est.)<br>
+_production_: 0 metric tons (2020 est.)<br>
+_consumption_: 1.249 million metric tons (2020 est.)<br>
+_exports_: 194,000 metric tons (2020 est.)<br>
+_imports_: 1.122 million metric tons (2020 est.)<br>
+_proven reserves_: 0 metric tons (2019 est.)<br>
 
 **Petroleum**<br>
-_Total petroleum production_: 69,000 bbl/day (2021 est.)<br>
-_Refined petroleum consumption_: 165,400 bbl/day (2019 est.)<br>
-_Crude oil and lease condensate exports_: 56,700 barrels/day (2018 est.)<br>
-_Crude oil and lease condensate imports_: 95,200 barrels/day (2018 est.)<br>
-_Crude oil estimated reserves_: 441 million barrels (2021 est.)<br>
+_total petroleum production_: 69,000 bbl/day (2021 est.)<br>
+_refined petroleum consumption_: 165,400 bbl/day (2019 est.)<br>
+_crude oil and lease condensate exports_: 56,700 barrels/day (2018 est.)<br>
+_crude oil and lease condensate imports_: 95,200 barrels/day (2018 est.)<br>
+_crude oil estimated reserves_: 441 million barrels (2021 est.)<br>
 
 **Refined petroleum products - production**<br>
 183,900 bbl/day (2017 est.)<br>
@@ -575,17 +575,17 @@ _Crude oil estimated reserves_: 441 million barrels (2021 est.)<br>
 109,700 bbl/day (2017 est.)<br>
 
 **Natural gas**<br>
-_Production_: 1,314,636,000 cubic meters (2020 est.)<br>
-_Consumption_: 2,188,096,000 cubic meters (2020 est.)<br>
-_Exports_: 1,700,594,000 cubic meters (2020 est.)<br>
-_Imports_: 2,645,893,000 cubic meters (2020 est.)<br>
-_Proven reserves_: 29.534 billion cubic meters (2021 est.)<br>
+_production_: 1,314,636,000 cubic meters (2020 est.)<br>
+_consumption_: 2,188,096,000 cubic meters (2020 est.)<br>
+_exports_: 1,700,594,000 cubic meters (2020 est.)<br>
+_imports_: 2,645,893,000 cubic meters (2020 est.)<br>
+_proven reserves_: 29.534 billion cubic meters (2021 est.)<br>
 
 **Carbon dioxide emissions**<br>
-_Total emissions_: 33.85 million metric tonnes of CO2 (2019 est.)<br>
-_From coal and metallurgical coke_: 3.455 million metric tonnes of CO2 (2019 est.)<br>
-_From petroleum and other liquids_: 24.621 million metric tonnes of CO2 (2019 est.)<br>
-_From consumed natural gas_: 5.775 million metric tonnes of CO2 (2019 est.)<br>
+_total emissions_: 33.85 million metric tonnes of CO2 (2019 est.)<br>
+_from coal and metallurgical coke_: 3.455 million metric tonnes of CO2 (2019 est.)<br>
+_from petroleum and other liquids_: 24.621 million metric tonnes of CO2 (2019 est.)<br>
+_from consumed natural gas_: 5.775 million metric tonnes of CO2 (2019 est.)<br>
 
 **Energy consumption per capita**<br>
 _Total energy consumption per capita 2019_: 124.163 million Btu/person (2019 est.)<br>
@@ -686,7 +686,7 @@ Danish Armed Forces (Forsvaret): Royal Danish Army, Royal Danish Navy, Royal Dan
 1.1% of GDP (2017) (approximately $4.11 billion)<br>
 
 **Military and security service personnel strengths**<br>
-the Danish military has approximately 17,000 active duty personnel (9,000 Army; 3,000 Navy; 3,000 Air Force; 2,000 other) (2021)<br>
+approximately 17,000 active duty personnel (10,000 Army; 3,500 Navy; 3,500 Air Force) (2022)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the Danish military inventory is comprised of a mix of modern European, US, and domestically-produced equipment; the US is the largest supplier of military equipment to Denmark since 2010; the Danish defense industry is active in the production of naval vessels, defense electronics, and subcomponents of larger weapons systems, such as the US F-35 fighter aircraft (2022)<br>
@@ -696,7 +696,7 @@ the Danish military inventory is comprised of a mix of modern European, US, and 
 <strong>note:</strong> women have been able serve in all military occupations, including combat arms, since 1988; as of 2019, they made up about 8% of the military's full-time personnel; conscientious objectors can choose to instead serve 6 months in a non-military position, for example in Beredskabsstyrelsen (dealing with non-military disasters like fires, flood, pollution, etc.) or overseas foreign aid work<br>
 
 **Military deployments**<br>
-approximately 200 Baltics (NATO); approximately 100 Middle East/Iraq (NATO) (2022)<br>
+approximately 220 Estonia (NATO); approximately 100 Middle East/Iraq (NATO) (2022)<br>
 <strong>note: </strong>in response to Russia’s 2022 invasion of Ukraine, some NATO countries, including Denmark, have sent additional troops and equipment to the battlegroups deployed in NATO territory in eastern Europe<br>
 
 **Military - note**<br>
@@ -714,6 +714,6 @@ Islamic State of Iraq and ash-Sham (ISIS); Islamic Revolutionary Guard Corps/Qod
 <p>Iceland, the UK, and Ireland dispute Denmark's claim that the Faroe Islands' continental shelf extends beyond 200 nm; sovereignty dispute with Canada over Hans Island in the Kennedy Channel between Ellesmere Island and Greenland; Denmark (Greenland) and Norway have made submissions to the Commission on the Limits of the Continental Shelf (CLCS) and Russia is collecting additional data to augment its 2001 CLCS submission</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 19,833 (Syria), 5,634 (Eritrea) (mid-year 2021); 32,116 (Ukraine) (as of 26 July 2022)<br>
+_refugees (country of origin)_: 19,833 (Syria), 5,634 (Eritrea) (mid-year 2021); 32,400 (Ukraine) (as of 2 August 2022)<br>
 _stateless persons_: 11,608 (mid-year 2021)<br>
 

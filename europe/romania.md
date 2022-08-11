@@ -547,35 +547,35 @@ _Currency_: lei (RON) per US dollar -<br>
 _electrification - total population_: 100% (2020)<br>
 
 **Electricity**<br>
-_Installed generating capacity_: 20.528 million kW (2020 est.)<br>
-_Consumption_: 50,039,421,000 kWh (2019 est.)<br>
-_Exports_: 5.459 billion kWh (2020 est.)<br>
-_Imports_: 8.252 billion kWh (2020 est.)<br>
-_Transmission/distribution losses_: 6.501 billion kWh (2019 est.)<br>
+_installed generating capacity_: 20.528 million kW (2020 est.)<br>
+_consumption_: 50,039,421,000 kWh (2019 est.)<br>
+_exports_: 5.459 billion kWh (2020 est.)<br>
+_imports_: 8.252 billion kWh (2020 est.)<br>
+_transmission/distribution losses_: 6.501 billion kWh (2019 est.)<br>
 
 **Electricity generation sources**<br>
-_Fossil fuels_: 32.1% of total installed capacity (2020 est.)<br>
-_Nuclear_: 20.4% of total installed capacity (2020 est.)<br>
-_Solar_: 3.4% of total installed capacity (2020 est.)<br>
-_Wind_: 13.4% of total installed capacity (2020 est.)<br>
-_Hydroelectricity_: 29.9% of total installed capacity (2020 est.)<br>
-_Tide and wave_: 0% of total installed capacity (2020 est.)<br>
-_Geothermal_: 0% of total installed capacity (2020 est.)<br>
-_Biomass and waste_: 0.9% of total installed capacity (2020 est.)<br>
+_fossil fuels_: 32.1% of total installed capacity (2020 est.)<br>
+_nuclear_: 20.4% of total installed capacity (2020 est.)<br>
+_solar_: 3.4% of total installed capacity (2020 est.)<br>
+_wind_: 13.4% of total installed capacity (2020 est.)<br>
+_hydroelectricity_: 29.9% of total installed capacity (2020 est.)<br>
+_tide and wave_: 0% of total installed capacity (2020 est.)<br>
+_geothermal_: 0% of total installed capacity (2020 est.)<br>
+_biomass and waste_: 0.9% of total installed capacity (2020 est.)<br>
 
 **Coal**<br>
-_Production_: 15.002 million metric tons (2020 est.)<br>
-_Consumption_: 16.412 million metric tons (2020 est.)<br>
-_Exports_: 2,000 metric tons (2020 est.)<br>
-_Imports_: 1.384 million metric tons (2020 est.)<br>
-_Proven reserves_: 291 million metric tons (2019 est.)<br>
+_production_: 15.002 million metric tons (2020 est.)<br>
+_consumption_: 16.412 million metric tons (2020 est.)<br>
+_exports_: 2,000 metric tons (2020 est.)<br>
+_imports_: 1.384 million metric tons (2020 est.)<br>
+_proven reserves_: 291 million metric tons (2019 est.)<br>
 
 **Petroleum**<br>
-_Total petroleum production_: 74,000 bbl/day (2021 est.)<br>
-_Refined petroleum consumption_: 222,200 bbl/day (2019 est.)<br>
-_Crude oil and lease condensate exports_: 1,400 barrels/day (2018 est.)<br>
-_Crude oil and lease condensate imports_: 161,600 barrels/day (2018 est.)<br>
-_Crude oil estimated reserves_: 600 million barrels (2021 est.)<br>
+_total petroleum production_: 74,000 bbl/day (2021 est.)<br>
+_refined petroleum consumption_: 222,200 bbl/day (2019 est.)<br>
+_crude oil and lease condensate exports_: 1,400 barrels/day (2018 est.)<br>
+_crude oil and lease condensate imports_: 161,600 barrels/day (2018 est.)<br>
+_crude oil estimated reserves_: 600 million barrels (2021 est.)<br>
 
 **Refined petroleum products - production**<br>
 232,600 bbl/day (2015 est.)<br>
@@ -587,17 +587,17 @@ _Crude oil estimated reserves_: 600 million barrels (2021 est.)<br>
 49,420 bbl/day (2015 est.)<br>
 
 **Natural gas**<br>
-_Production_: 10,367,941,000 cubic meters (2019 est.)<br>
-_Consumption_: 11,087,528,000 cubic meters (2019 est.)<br>
-_Exports_: 11.185 million cubic meters (2019 est.)<br>
-_Imports_: 2,800,985,000 cubic meters (2019 est.)<br>
-_Proven reserves_: 105.48 billion cubic meters (2021 est.)<br>
+_production_: 10,367,941,000 cubic meters (2019 est.)<br>
+_consumption_: 11,087,528,000 cubic meters (2019 est.)<br>
+_exports_: 11.185 million cubic meters (2019 est.)<br>
+_imports_: 2,800,985,000 cubic meters (2019 est.)<br>
+_proven reserves_: 105.48 billion cubic meters (2021 est.)<br>
 
 **Carbon dioxide emissions**<br>
-_Total emissions_: 68.746 million metric tonnes of CO2 (2019 est.)<br>
-_From coal and metallurgical coke_: 20.891 million metric tonnes of CO2 (2019 est.)<br>
-_From petroleum and other liquids_: 27.268 million metric tonnes of CO2 (2019 est.)<br>
-_From consumed natural gas_: 20.588 million metric tonnes of CO2 (2019 est.)<br>
+_total emissions_: 68.746 million metric tonnes of CO2 (2019 est.)<br>
+_from coal and metallurgical coke_: 20.891 million metric tonnes of CO2 (2019 est.)<br>
+_from petroleum and other liquids_: 27.268 million metric tonnes of CO2 (2019 est.)<br>
+_from consumed natural gas_: 20.588 million metric tonnes of CO2 (2019 est.)<br>
 
 **Energy consumption per capita**<br>
 _Total energy consumption per capita 2019_: 71.736 million Btu/person (2019 est.)<br>
@@ -699,7 +699,7 @@ Romanian Armed Forces: Land Forces, Naval Forces, Air Force; Ministry of Interna
 1.7% of GDP (2017) (approximately $6.2 billion)<br>
 
 **Military and security service personnel strengths**<br>
-approximately 67,000 active duty personnel (50,000 Land Forces; 7,000 Naval Forces; 10,000 Air Force) (2021)<br>
+approximately 75,000 active duty personnel (58,000 Land Forces; 7,000 Naval Forces; 10,000 Air Force) (2022)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the inventory of the Romanian Armed Forces is comprised mostly of Soviet-era and older domestically-produced weapons systems; there is also a smaller mix of Western-origin equipment received in more recent years from European countries and the US&nbsp; (2021)<br>
@@ -709,6 +709,7 @@ conscription ended 2006; 18 years of age for male and female voluntary service; 
 
 **Military deployments**<br>
 up to 120 Poland (NATO) (2022)<br>
+<strong>note: </strong>in response to Russia’s 2022 invasion of Ukraine, some NATO countries have sent additional troops and equipment to the battlegroups deployed in NATO territory in eastern Europe<br>
 
 **Military - note**<br>
 Romania became a member of NATO in 2004<br><br>Romania conducts its own air policing mission, but because of Russian aggression in the Black Sea region, NATO allies have sent detachments of fighters to augment the Romanian Air Force since 2014 <br><br>Romania hosts a NATO multinational divisional (Multinational Division Southeast; became operational in 2017) and a brigade-sized headquarters as part of NATO's tailored forward presence in the southeastern part of the Alliance (2022)<br>
@@ -725,7 +726,7 @@ Islamic State of Iraq and ash-Sham (ISIS)<br>
 <p><em>Romania-Bulgaria</em>: none identified</p> <p><em>Romania-Hungary</em>: none identified</p> <p><em>Romania-Moldova</em>: none identified</p> <p><em>Romania-Serbia</em>: none identified</p> <p><em>Romania-Ukraine</em>: the International Court of Justice ruled largely in favor of Romania in its dispute submitted in 2004 over Ukrainian-administered Zmiyinyy/Serpilor (Snake) Island and Black Sea maritime boundary delimitation; in 2007, Romania opposed Ukraine's construction of a navigation canal from the Danube border through Ukraine to the Black Sea, arguing that it runs through a unique ecological area, the Danube Delta</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 84,384 (Ukraine) (as of 24 July 2022)<br>
+_refugees (country of origin)_: 83,827 (Ukraine) (as of 8 August 2022)<br>
 _stateless persons_: 314 (mid-year 2021)<br>
 <strong>note:</strong> 10,447 estimated refugee and migrant arrivals (January 2015-July 2022)<br>
 

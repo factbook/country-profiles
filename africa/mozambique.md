@@ -569,35 +569,35 @@ _electrification - urban areas_: 57% (2019)<br>
 _electrification - rural areas_: 22% (2019)<br>
 
 **Electricity**<br>
-_Installed generating capacity_: 2.765 million kW (2020 est.)<br>
-_Consumption_: 12,724,100,000 kWh (2019 est.)<br>
-_Exports_: 10.771 billion kWh (2019 est.)<br>
-_Imports_: 8.276 billion kWh (2019 est.)<br>
-_Transmission/distribution losses_: 2.768 billion kWh (2019 est.)<br>
+_installed generating capacity_: 2.765 million kW (2020 est.)<br>
+_consumption_: 12,724,100,000 kWh (2019 est.)<br>
+_exports_: 10.771 billion kWh (2019 est.)<br>
+_imports_: 8.276 billion kWh (2019 est.)<br>
+_transmission/distribution losses_: 2.768 billion kWh (2019 est.)<br>
 
 **Electricity generation sources**<br>
-_Fossil fuels_: 19.6% of total installed capacity (2020 est.)<br>
-_Nuclear_: 0% of total installed capacity (2020 est.)<br>
-_Solar_: 0.2% of total installed capacity (2020 est.)<br>
-_Wind_: 0% of total installed capacity (2020 est.)<br>
-_Hydroelectricity_: 79.6% of total installed capacity (2020 est.)<br>
-_Tide and wave_: 0% of total installed capacity (2020 est.)<br>
-_Geothermal_: 0% of total installed capacity (2020 est.)<br>
-_Biomass and waste_: 0.6% of total installed capacity (2020 est.)<br>
+_fossil fuels_: 19.6% of total installed capacity (2020 est.)<br>
+_nuclear_: 0% of total installed capacity (2020 est.)<br>
+_solar_: 0.2% of total installed capacity (2020 est.)<br>
+_wind_: 0% of total installed capacity (2020 est.)<br>
+_hydroelectricity_: 79.6% of total installed capacity (2020 est.)<br>
+_tide and wave_: 0% of total installed capacity (2020 est.)<br>
+_geothermal_: 0% of total installed capacity (2020 est.)<br>
+_biomass and waste_: 0.6% of total installed capacity (2020 est.)<br>
 
 **Coal**<br>
-_Production_: 7.25 million metric tons (2020 est.)<br>
-_Consumption_: 46,000 metric tons (2020 est.)<br>
-_Exports_: 8.355 million metric tons (2020 est.)<br>
-_Imports_: 48,000 metric tons (2020 est.)<br>
-_Proven reserves_: 1.792 billion metric tons (2019 est.)<br>
+_production_: 7.25 million metric tons (2020 est.)<br>
+_consumption_: 46,000 metric tons (2020 est.)<br>
+_exports_: 8.355 million metric tons (2020 est.)<br>
+_imports_: 48,000 metric tons (2020 est.)<br>
+_proven reserves_: 1.792 billion metric tons (2019 est.)<br>
 
 **Petroleum**<br>
-_Total petroleum production_: 0 bbl/day (2021 est.)<br>
-_Refined petroleum consumption_: 35,400 bbl/day (2019 est.)<br>
-_Crude oil and lease condensate exports_: 0 barrels/day (2018 est.)<br>
-_Crude oil and lease condensate imports_: 0 barrels/day (2018 est.)<br>
-_Crude oil estimated reserves_: 0 barrels (2021 est.)<br>
+_total petroleum production_: 0 bbl/day (2021 est.)<br>
+_refined petroleum consumption_: 35,400 bbl/day (2019 est.)<br>
+_crude oil and lease condensate exports_: 0 barrels/day (2018 est.)<br>
+_crude oil and lease condensate imports_: 0 barrels/day (2018 est.)<br>
+_crude oil estimated reserves_: 0 barrels (2021 est.)<br>
 
 **Refined petroleum products - production**<br>
 0 bbl/day (2015 est.)<br>
@@ -609,17 +609,17 @@ _Crude oil estimated reserves_: 0 barrels (2021 est.)<br>
 25,130 bbl/day (2015 est.)<br>
 
 **Natural gas**<br>
-_Production_: 5,423,828,000 cubic meters (2019 est.)<br>
-_Consumption_: 1,397,604,000 cubic meters (2019 est.)<br>
-_Exports_: 4,067,255,000 cubic meters (2019 est.)<br>
-_Imports_: 0 cubic meters (2021 est.)<br>
-_Proven reserves_: 2,831,680,000,000 cubic meters (2021 est.)<br>
+_production_: 5,423,828,000 cubic meters (2019 est.)<br>
+_consumption_: 1,397,604,000 cubic meters (2019 est.)<br>
+_exports_: 4,067,255,000 cubic meters (2019 est.)<br>
+_imports_: 0 cubic meters (2021 est.)<br>
+_proven reserves_: 2,831,680,000,000 cubic meters (2021 est.)<br>
 
 **Carbon dioxide emissions**<br>
-_Total emissions_: 7.753 million metric tonnes of CO2 (2019 est.)<br>
-_From coal and metallurgical coke_: 109,000 metric tonnes of CO2 (2019 est.)<br>
-_From petroleum and other liquids_: 4.743 million metric tonnes of CO2 (2019 est.)<br>
-_From consumed natural gas_: 2.901 million metric tonnes of CO2 (2019 est.)<br>
+_total emissions_: 7.753 million metric tonnes of CO2 (2019 est.)<br>
+_from coal and metallurgical coke_: 109,000 metric tonnes of CO2 (2019 est.)<br>
+_from petroleum and other liquids_: 4.743 million metric tonnes of CO2 (2019 est.)<br>
+_from consumed natural gas_: 2.901 million metric tonnes of CO2 (2019 est.)<br>
 
 **Energy consumption per capita**<br>
 _Total energy consumption per capita 2019_: 8.107 million Btu/person (2019 est.)<br>
@@ -741,8 +741,8 @@ Islamic State of Iraq and ash-Sham - Mozambique (ISIS-M)<br>
 <p><em>Mozambique-Eswatini</em>: none identified</p> <p><em>Mozambique-Malawi</em>:  the two countries have held exercises to reaffirm boundaries a number of times</p> <p><em>Mozambique-South Africa</em>: South Africa has placed military units to assist police operations along the border of Lesotho, Zimbabwe, and Mozambique to control smuggling, poaching, and illegal migration</p> <p><em>Mozambique-Tanzania</em>: none identified</p> <p><em>Mozambique-Zambia</em>: none identified</p> <p><em>Mozambique-Zimbabwe</em>: none identified</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 67,567 (Democratic Republic of Congo) (refugees and asylum seekers), 8,306 (Burundi) (refugees and asylum seekers) (2022)<br>
-_IDPs_: 872,188 (violence between the government and an opposition group, violence associated with extremists groups in 2018, political violence 2019) (2022)<br>
+_refugees (country of origin)_: 67,567 (Democratic Republic of Congo) (refugees and asylum seekers), 8,374 (Burundi) (refugees and asylum seekers) (2022)<br>
+_IDPs_: 946,508 (violence between the government and an opposition group, violence associated with extremists groups in 2018, political violence 2019) (2022)<br>
 
 **Illicit drugs**<br>
 used by transnational organized crime networks from West and East Africa and South Asia as a transit point for drug trafficking and international money laundering; heroin from Southwest Asia, cocaine from South America, precursor chemicals and controlled pharmaceuticals from India, and methamphetamine from Nigeria transit destined for Southern Africa, Northern Africa, Europe, Canada, and the United States; cannabis is cultivated in Mozambique<br>

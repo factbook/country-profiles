@@ -546,35 +546,35 @@ _Currency_: yen (JPY) per US dollar -<br>
 _electrification - total population_: 100% (2020)<br>
 
 **Electricity**<br>
-_Installed generating capacity_: 348.666 million kW (2020 est.)<br>
-_Consumption_: 903,698,740,000 kWh (2019 est.)<br>
-_Exports_: 0 kWh (2020 est.)<br>
-_Imports_: 0 kWh (2020 est.)<br>
-_Transmission/distribution losses_: 44.094 billion kWh (2019 est.)<br>
+_installed generating capacity_: 348.666 million kW (2020 est.)<br>
+_consumption_: 903,698,740,000 kWh (2019 est.)<br>
+_exports_: 0 kWh (2020 est.)<br>
+_imports_: 0 kWh (2020 est.)<br>
+_transmission/distribution losses_: 44.094 billion kWh (2019 est.)<br>
 
 **Electricity generation sources**<br>
-_Fossil fuels_: 73.5% of total installed capacity (2020 est.)<br>
-_Nuclear_: 4.8% of total installed capacity (2020 est.)<br>
-_Solar_: 8.8% of total installed capacity (2020 est.)<br>
-_Wind_: 1% of total installed capacity (2020 est.)<br>
-_Hydroelectricity_: 10% of total installed capacity (2020 est.)<br>
-_Tide and wave_: 0% of total installed capacity (2020 est.)<br>
-_Geothermal_: 0.3% of total installed capacity (2020 est.)<br>
-_Biomass and waste_: 1.6% of total installed capacity (2020 est.)<br>
+_fossil fuels_: 73.5% of total installed capacity (2020 est.)<br>
+_nuclear_: 4.8% of total installed capacity (2020 est.)<br>
+_solar_: 8.8% of total installed capacity (2020 est.)<br>
+_wind_: 1% of total installed capacity (2020 est.)<br>
+_hydroelectricity_: 10% of total installed capacity (2020 est.)<br>
+_tide and wave_: 0% of total installed capacity (2020 est.)<br>
+_geothermal_: 0.3% of total installed capacity (2020 est.)<br>
+_biomass and waste_: 1.6% of total installed capacity (2020 est.)<br>
 
 **Coal**<br>
-_Production_: 29.84 million metric tons (2020 est.)<br>
-_Consumption_: 210.882 million metric tons (2020 est.)<br>
-_Exports_: 3.201 million metric tons (2020 est.)<br>
-_Imports_: 174.486 million metric tons (2020 est.)<br>
-_Proven reserves_: 350 million metric tons (2019 est.)<br>
+_production_: 29.84 million metric tons (2020 est.)<br>
+_consumption_: 210.882 million metric tons (2020 est.)<br>
+_exports_: 3.201 million metric tons (2020 est.)<br>
+_imports_: 174.486 million metric tons (2020 est.)<br>
+_proven reserves_: 350 million metric tons (2019 est.)<br>
 
 **Petroleum**<br>
-_Total petroleum production_: 10,200 bbl/day (2021 est.)<br>
-_Refined petroleum consumption_: 3,739,300 bbl/day (2019 est.)<br>
-_Crude oil and lease condensate exports_: 0 barrels/day (2018 est.)<br>
-_Crude oil and lease condensate imports_: 3,012,800 barrels/day (2018 est.)<br>
-_Crude oil estimated reserves_: 44.1 million barrels (2021 est.)<br>
+_total petroleum production_: 10,200 bbl/day (2021 est.)<br>
+_refined petroleum consumption_: 3,739,300 bbl/day (2019 est.)<br>
+_crude oil and lease condensate exports_: 0 barrels/day (2018 est.)<br>
+_crude oil and lease condensate imports_: 3,012,800 barrels/day (2018 est.)<br>
+_crude oil estimated reserves_: 44.1 million barrels (2021 est.)<br>
 
 **Refined petroleum products - production**<br>
 3.467 million bbl/day (2017 est.)<br>
@@ -586,17 +586,17 @@ _Crude oil estimated reserves_: 44.1 million barrels (2021 est.)<br>
 1.1 million bbl/day (2017 est.)<br>
 
 **Natural gas**<br>
-_Production_: 1,928,431,000 cubic meters (2020 est.)<br>
-_Consumption_: 102,108,738,000 cubic meters (2019 est.)<br>
-_Exports_: 28,000 cubic meters (2019 est.)<br>
-_Imports_: 105,255,103,000 cubic meters (2019 est.)<br>
-_Proven reserves_: 20.898 billion cubic meters (2021 est.)<br>
+_production_: 1,928,431,000 cubic meters (2020 est.)<br>
+_consumption_: 102,108,738,000 cubic meters (2019 est.)<br>
+_exports_: 28,000 cubic meters (2019 est.)<br>
+_imports_: 105,255,103,000 cubic meters (2019 est.)<br>
+_proven reserves_: 20.898 billion cubic meters (2021 est.)<br>
 
 **Carbon dioxide emissions**<br>
-_Total emissions_: 1,103,234,000 metric tonnes of CO2 (2019 est.)<br>
-_From coal and metallurgical coke_: 439.243 million metric tonnes of CO2 (2019 est.)<br>
-_From petroleum and other liquids_: 444.271 million metric tonnes of CO2 (2019 est.)<br>
-_From consumed natural gas_: 219.72 million metric tonnes of CO2 (2019 est.)<br>
+_total emissions_: 1,103,234,000 metric tonnes of CO2 (2019 est.)<br>
+_from coal and metallurgical coke_: 439.243 million metric tonnes of CO2 (2019 est.)<br>
+_from petroleum and other liquids_: 444.271 million metric tonnes of CO2 (2019 est.)<br>
+_from consumed natural gas_: 219.72 million metric tonnes of CO2 (2019 est.)<br>
 
 **Energy consumption per capita**<br>
 _Total energy consumption per capita 2019_: 147.107 million Btu/person (2019 est.)<br>
@@ -702,7 +702,7 @@ Japan Self-Defense Force (JSDF): Ground Self-Defense Force (Rikujou Jieitai, GSD
 0.9% of GDP (2017) (approximately $52.6 billion)<br>
 
 **Military and security service personnel strengths**<br>
-the Japanese Self Defense Force (JSDF) is comprised of approximately 244,000 active personnel (150,000 Ground; 45,000 Maritime; 45,000 Air; 4,000 Joint Forces); 14,000 Coast Guard (2021)<br>
+approximately 244,000 active personnel (150,000 Ground; 45,000 Maritime; 45,000 Air; 4,000 Joint Forces); 14,000 Coast Guard (2022)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the JSDF is equipped with a mix of imported and domestically-produced equipment; Japan has a robust defense industry and is capable of producing a wide range of air, ground, and naval weapons systems; the majority of its weapons imports are from the US and some domestically-produced weapons are US-origin and manufactured under license (2022)<br>
@@ -715,7 +715,7 @@ the JSDF is equipped with a mix of imported and domestically-produced equipment;
 approximately 180 Djibouti (2022)<br>
 
 **Military - note**<br>
-<p>Japan was disarmed after its defeat in World War II; shortly after the Korean War began in 1950, US occupation forces in Japan created a 75,000-member lightly armed force called the National Police Reserve; the current Self Defense Force was founded in 1954</p> <p>in addition to having one of the region’s largest and best equipped militaries, Japan’s alliance with the US (signed in 1951) is one of the cornerstones of the country’s security, as well as a large part of the US security role in Asia; as of 2022, approximately 55,000 US troops and other military assets, including aircraft and naval ships, were stationed in Japan and had exclusive use of more than 80 bases and facilities; in exchange for their use, the US guarantees Japan’s security; the Japanese Government provides about $2 billion per year to offset the cost of stationing US forces in Japan; in addition, it pays compensation to localities hosting US troops, rent for bases, and costs for new facilities to support the US presence<br><br>Japan has Major Non-NATO Ally (MNNA) status with the US; MNNA is a designation under US law that provides foreign partners with certain benefits in the areas of defense trade and security cooperation; while MNNA status provides military and economic privileges, it does not entail any security commitments</p><br>
+Japan was disarmed after its defeat in World War II; shortly after the Korean War began in 1950, US occupation forces in Japan created a 75,000-member lightly armed force called the National Police Reserve; the current Self Defense Force was founded in 1954 <br><br>in addition to having one of the region’s largest and best equipped militaries, Japan’s alliance with the US (signed in 1951) is one of the cornerstones of the country’s security, as well as a large part of the US security role in Asia; as of 2022, approximately 55,000 US troops and other military assets, including aircraft and naval ships, were stationed in Japan and had exclusive use of more than 80 bases and facilities; in exchange for their use, the US guarantees Japan’s security; the Japanese Government provides about $2 billion per year to offset the cost of stationing US forces in Japan; in addition, it pays compensation to localities hosting US troops, rent for bases, and costs for new facilities to support the US presence <br><br>Japan has Major Non-NATO Ally (MNNA) status with the US; MNNA is a designation under US law that provides foreign partners with certain benefits in the areas of defense trade and security cooperation; while MNNA status provides military and economic privileges, it does not entail any security commitments (2022)<br>
 
 ## Terrorism
 

@@ -579,35 +579,35 @@ _Currency_: Russian rubles (RUB) per US dollar -<br>
 _electrification - total population_: 100% (2020)<br>
 
 **Electricity**<br>
-_Installed generating capacity_: 276.463 million kW (2020 est.)<br>
-_Consumption_: 942,895,420,000 kWh (2019 est.)<br>
-_Exports_: 12.116 billion kWh (2020 est.)<br>
-_Imports_: 1.377 billion kWh (2020 est.)<br>
-_Transmission/distribution losses_: 99.077 billion kWh (2019 est.)<br>
+_installed generating capacity_: 276.463 million kW (2020 est.)<br>
+_consumption_: 942,895,420,000 kWh (2019 est.)<br>
+_exports_: 12.116 billion kWh (2020 est.)<br>
+_imports_: 1.377 billion kWh (2020 est.)<br>
+_transmission/distribution losses_: 99.077 billion kWh (2019 est.)<br>
 
 **Electricity generation sources**<br>
-_Fossil fuels_: 59.4% of total installed capacity (2020 est.)<br>
-_Nuclear_: 21% of total installed capacity (2020 est.)<br>
-_Solar_: 0.2% of total installed capacity (2020 est.)<br>
-_Wind_: 0% of total installed capacity (2020 est.)<br>
-_Hydroelectricity_: 19.1% of total installed capacity (2020 est.)<br>
-_Tide and wave_: 0% of total installed capacity (2020 est.)<br>
-_Geothermal_: 0% of total installed capacity (2020 est.)<br>
-_Biomass and waste_: 0.3% of total installed capacity (2020 est.)<br>
+_fossil fuels_: 59.4% of total installed capacity (2020 est.)<br>
+_nuclear_: 21% of total installed capacity (2020 est.)<br>
+_solar_: 0.2% of total installed capacity (2020 est.)<br>
+_wind_: 0% of total installed capacity (2020 est.)<br>
+_hydroelectricity_: 19.1% of total installed capacity (2020 est.)<br>
+_tide and wave_: 0% of total installed capacity (2020 est.)<br>
+_geothermal_: 0% of total installed capacity (2020 est.)<br>
+_biomass and waste_: 0.3% of total installed capacity (2020 est.)<br>
 
 **Coal**<br>
-_Production_: 447.332 million metric tons (2020 est.)<br>
-_Consumption_: 266.038 million metric tons (2020 est.)<br>
-_Exports_: 224.324 million metric tons (2020 est.)<br>
-_Imports_: 24.027 million metric tons (2020 est.)<br>
-_Proven reserves_: 162.166 billion metric tons (2019 est.)<br>
+_production_: 447.332 million metric tons (2020 est.)<br>
+_consumption_: 266.038 million metric tons (2020 est.)<br>
+_exports_: 224.324 million metric tons (2020 est.)<br>
+_imports_: 24.027 million metric tons (2020 est.)<br>
+_proven reserves_: 162.166 billion metric tons (2019 est.)<br>
 
 **Petroleum**<br>
-_Total petroleum production_: 10,749,500 bbl/day (2021 est.)<br>
-_Refined petroleum consumption_: 3.699 million bbl/day (2019 est.)<br>
-_Crude oil and lease condensate exports_: 5.196 million barrels/day (2018 est.)<br>
-_Crude oil and lease condensate imports_: 14,200 barrels/day (2018 est.)<br>
-_Crude oil estimated reserves_: 80 billion barrels (2021 est.)<br>
+_total petroleum production_: 10,749,500 bbl/day (2021 est.)<br>
+_refined petroleum consumption_: 3.699 million bbl/day (2019 est.)<br>
+_crude oil and lease condensate exports_: 5.196 million barrels/day (2018 est.)<br>
+_crude oil and lease condensate imports_: 14,200 barrels/day (2018 est.)<br>
+_crude oil estimated reserves_: 80 billion barrels (2021 est.)<br>
 
 **Refined petroleum products - production**<br>
 6.076 million bbl/day (2015 est.)<br>
@@ -619,17 +619,17 @@ _Crude oil estimated reserves_: 80 billion barrels (2021 est.)<br>
 41,920 bbl/day (2015 est.)<br>
 
 **Natural gas**<br>
-_Production_: 701,544,189,000 cubic meters (2021 est.)<br>
-_Consumption_: 460,612,169,000 cubic meters (2020 est.)<br>
-_Exports_: 250,854,510,000 cubic meters (2021 est.)<br>
-_Imports_: 16,112,146,000 cubic meters (2019 est.)<br>
-_Proven reserves_: 47,805,215,000,000 cubic meters (2021 est.)<br>
+_production_: 701,544,189,000 cubic meters (2021 est.)<br>
+_consumption_: 460,612,169,000 cubic meters (2020 est.)<br>
+_exports_: 250,854,510,000 cubic meters (2021 est.)<br>
+_imports_: 16,112,146,000 cubic meters (2019 est.)<br>
+_proven reserves_: 47,805,215,000,000 cubic meters (2021 est.)<br>
 
 **Carbon dioxide emissions**<br>
-_Total emissions_: 1,848,070,000 metric tonnes of CO2 (2019 est.)<br>
-_From coal and metallurgical coke_: 456.033 million metric tonnes of CO2 (2019 est.)<br>
-_From petroleum and other liquids_: 470.289 million metric tonnes of CO2 (2019 est.)<br>
-_From consumed natural gas_: 921.748 million metric tonnes of CO2 (2019 est.)<br>
+_total emissions_: 1,848,070,000 metric tonnes of CO2 (2019 est.)<br>
+_from coal and metallurgical coke_: 456.033 million metric tonnes of CO2 (2019 est.)<br>
+_from petroleum and other liquids_: 470.289 million metric tonnes of CO2 (2019 est.)<br>
+_from consumed natural gas_: 921.748 million metric tonnes of CO2 (2019 est.)<br>
 
 **Energy consumption per capita**<br>
 _Total energy consumption per capita 2019_: 227.898 million Btu/person (2019 est.)<br>
@@ -767,7 +767,7 @@ Islamic State of Iraq and ash-Sham (ISIS)<br>
 <p>Russia remains concerned about the smuggling of poppy derivatives from Afghanistan through Central Asian countries</p> <p><em>Russia-China</em>: Russia and China have demarcated the once disputed islands at the Amur and Ussuri confluence and in the Argun River in accordance with the 2004 Agreement, ending their centuries-long border disputes</p> <p><em>Russia-Denmark-Norway</em>: Denmark (Greenland) and Norway have made submissions to the Commission on the Limits of the Continental Shelf (CLCS), and Russia is collecting additional data to augment its 2001 CLCS submission</p> <p><em>Russia and Estonia</em>: Russia and Estonia signed a technical border agreement in May 2005, but Russia recalled its signature in June 2005 after the Estonian parliament added to its domestic ratification act a historical preamble referencing the Soviet occupation and Estonia's pre-war borders under the 1920 Treaty of Tartu; Russia contends that the preamble allows Estonia to make territorial claims on Russia in the future, while Estonian officials deny that the preamble has any legal impact on the treaty text; negotiations were reopened in 2012, and a treaty was signed in 2014 without the disputed preamble, but neither country has ratified it as of 2020</p> <p><em>Russia-Finland</em>: various groups in Finland advocate restoration of Karelia (Kareliya) and other areas ceded to the Soviet Union following World War II but the Finnish Government asserts no territorial demands</p> <p><em>Russia-Georgia</em>: Russia's military support and subsequent recognition of Abkhazia and South Ossetia independence in 2008 continue to sour relations with Georgia; in 2011, Russia began to put up fences and barbed wire to fortify South Ossetia, physically dividing villages in the process; Russia continues to move the South Ossetia border fences further into Georgian territory</p> <p><em>Russia-Japan:</em> the sovereignty dispute over the islands of Etorofu, Kunashiri, Shikotan, and the Habomai group, known in Japan as the "Northern Territories" and in Russia as the "Southern Kurils," occupied by the Soviet Union in 1945, now administered by Russia, and claimed by Japan, remains the primary sticking point to signing a peace treaty formally ending World War II hostilities</p> <p><em>Russia-Kazakhstan</em>: Russia boundary delimitation was ratified on November 2005; field demarcation commenced in 2007 and was expected to be completed by 2013</p> <p><em>Russia-Lithuania</em>: Russia and Lithuania committed to demarcating their boundary in 2006 in accordance with the land and maritime treaty ratified by Russia in May 2003 and by Lithuania in 1999; border demarcation was completed in 2018; Lithuania operates a simplified transit regime for Russian nationals traveling from the Kaliningrad coastal exclave into Russia, while still conforming, as an EU member state with an EU external border, where strict Schengen border rules apply</p> <p><em>Russia-North Korea</em>: none identified</p> <p><em>Russia-Norway</em>: Russia and Norway signed a comprehensive maritime boundary agreement in 2010, opening the disputed territory for oil and natural gas exploration; a visa-free travel agreement for persons living near the border went into effect in May 2012</p> <p><em>Russia-Ukraine</em>: Russia remains involved in the conflict in eastern Ukraine while also occupying Ukraine’s territory of Crimea; preparations for the demarcation delimitation of land boundary with Ukraine have commenced; the dispute over the boundary between Russia and Ukraine through the Kerch Strait and Sea of Azov is suspended due to the occupation of Crimea by Russia</p> <p><em>Russia-US</em>: Russian Duma has not yet ratified 1990 Bering Sea Maritime Boundary Agreement with the US; the southwesterly "Western Limit" places about 70% of the Bering Sea under U.S. maritime jurisdiction</p> <p><em>Russia-various</em>: Azerbaijan, Kazakhstan, and Russia ratified Caspian seabed delimitation treaties based on equidistance, while Iran continues to insist on a one-fifth slice of the sea</p> <p> </p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 1,857,122 (Ukraine) (as of 26 July 2022)<br>
+_refugees (country of origin)_: 1,968,127 (Ukraine) (as of 2 August 2022)<br>
 _stateless persons_: 56,960 (mid-year 2021); note - Russia's stateless population consists of Roma, Meskhetian Turks, and ex-Soviet citizens from the former republics; between 2003 and 2010 more than 600,000 stateless people were naturalized; most Meskhetian Turks, followers of Islam with origins in Georgia, fled or were evacuated from Uzbekistan after a 1989 pogrom and have lived in Russia for more than the required five-year residency period; they continue to be denied registration for citizenship and basic rights by local Krasnodar Krai authorities on the grounds that they are temporary illegal migrants<br>
 
 **Trafficking in persons**<br>

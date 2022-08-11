@@ -349,7 +349,7 @@ _judge selection and term of office_: justices appointed by the monarch (King in
 _subordinate courts_: Courts of Appeal or Lagmennsrett; regional and district courts; Conciliation Boards; ordinary and special courts; note - in addition to professionally trained judges, elected lay judges sit on the bench with professional judges in the Courts of Appeal and district courts<br>
 
 **Political parties and leaders**<br>
-<p>Center Party or Sp [Trygve Slagsvold VEDUM]<br>Christian Democratic Party or KrF [Olaug BOLLESTAD] <br>Conservative Party or H [Erna SOLBERG] <br>Green Party or MDG [Une Aina BASTHOLM]  <br>Labor Party or Ap [Jonas Gahr STORE] <br>Liberal Party or V [Guri MELBY]<br>Patient Focus or PF [Irene OJALA]<br>Progress Party or FrP [Sylvi LISTHAUG] <br>Red Party or R [Bionar MOXNES]<br>Socialist Left Party or SV [Audun LYSBAKKEN]</p><br>
+<p>Center Party or Sp [Trygve Slagsvold VEDUM]<br>Christian Democratic Party or KrF [Olaug BOLLESTAD] <br>Conservative Party or H [Erna SOLBERG] <br>Green Party or MDG [Une Aina BASTHOLM]  <br>Labor Party or Ap [Jonas Gahr STORE] <br>Liberal Party or V [Guri MELBY]<br>Patient Focus or PF [Irene OJALA]<br>Progress Party or FrP [Sylvi LISTHAUG] <br>Red Party or R [Bjonar MOXNES]<br>Socialist Left Party or SV [Audun LYSBAKKEN]</p><br>
 
 **International organization participation**<br>
 ADB (nonregional member), AfDB (nonregional member), Arctic Council, Australia Group, BIS, CBSS, CD, CE, CERN, EAPC, EBRD, EFTA, EITI (implementing country), ESA, FAO, FATF, IADB, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IEA, IFAD, IFC, IFRCS, IGAD (partners), IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, MINUSMA, NATO, NC, NEA, NIB, NSG, OAS (observer), OECD, OPCW, OSCE, Paris Club, PCA, Schengen Convention, UN, UNCTAD, UNESCO, UNHCR, UNIDO, UNITAR, UNMISS, UNRWA, UNTSO, UNWTO, UPU, Wassenaar Arrangement, WCO, WHO, WIPO, WMO, WTO, ZC<br>
@@ -537,35 +537,35 @@ _Currency_: Norwegian kroner (NOK) per US dollar -<br>
 _electrification - total population_: 100% (2020)<br>
 
 **Electricity**<br>
-_Installed generating capacity_: 38.36 million kW (2020 est.)<br>
-_Consumption_: 124.288 billion kWh (2020 est.)<br>
-_Exports_: 24.968 billion kWh (2020 est.)<br>
-_Imports_: 4.496 billion kWh (2020 est.)<br>
-_Transmission/distribution losses_: 8.909 billion kWh (2020 est.)<br>
+_installed generating capacity_: 38.36 million kW (2020 est.)<br>
+_consumption_: 124.288 billion kWh (2020 est.)<br>
+_exports_: 24.968 billion kWh (2020 est.)<br>
+_imports_: 4.496 billion kWh (2020 est.)<br>
+_transmission/distribution losses_: 8.909 billion kWh (2020 est.)<br>
 
 **Electricity generation sources**<br>
-_Fossil fuels_: 1.2% of total installed capacity (2020 est.)<br>
-_Nuclear_: 0% of total installed capacity (2020 est.)<br>
-_Solar_: 0% of total installed capacity (2020 est.)<br>
-_Wind_: 6.4% of total installed capacity (2020 est.)<br>
-_Hydroelectricity_: 92.1% of total installed capacity (2020 est.)<br>
-_Tide and wave_: 0% of total installed capacity (2020 est.)<br>
-_Geothermal_: 0% of total installed capacity (2020 est.)<br>
-_Biomass and waste_: 0.3% of total installed capacity (2020 est.)<br>
+_fossil fuels_: 1.2% of total installed capacity (2020 est.)<br>
+_nuclear_: 0% of total installed capacity (2020 est.)<br>
+_solar_: 0% of total installed capacity (2020 est.)<br>
+_wind_: 6.4% of total installed capacity (2020 est.)<br>
+_hydroelectricity_: 92.1% of total installed capacity (2020 est.)<br>
+_tide and wave_: 0% of total installed capacity (2020 est.)<br>
+_geothermal_: 0% of total installed capacity (2020 est.)<br>
+_biomass and waste_: 0.3% of total installed capacity (2020 est.)<br>
 
 **Coal**<br>
-_Production_: 69,000 metric tons (2020 est.)<br>
-_Consumption_: 1.13 million metric tons (2020 est.)<br>
-_Exports_: 46,000 metric tons (2020 est.)<br>
-_Imports_: 1.172 million metric tons (2020 est.)<br>
-_Proven reserves_: 2 million metric tons (2019 est.)<br>
+_production_: 69,000 metric tons (2020 est.)<br>
+_consumption_: 1.13 million metric tons (2020 est.)<br>
+_exports_: 46,000 metric tons (2020 est.)<br>
+_imports_: 1.172 million metric tons (2020 est.)<br>
+_proven reserves_: 2 million metric tons (2019 est.)<br>
 
 **Petroleum**<br>
-_Total petroleum production_: 2.026 million bbl/day (2021 est.)<br>
-_Refined petroleum consumption_: 215,900 bbl/day (2019 est.)<br>
-_Crude oil and lease condensate exports_: 1,242,500 barrels/day (2018 est.)<br>
-_Crude oil and lease condensate imports_: 66,300 barrels/day (2018 est.)<br>
-_Crude oil estimated reserves_: 8,122,200,000 barrels (2021 est.)<br>
+_total petroleum production_: 2.026 million bbl/day (2021 est.)<br>
+_refined petroleum consumption_: 215,900 bbl/day (2019 est.)<br>
+_crude oil and lease condensate exports_: 1,242,500 barrels/day (2018 est.)<br>
+_crude oil and lease condensate imports_: 66,300 barrels/day (2018 est.)<br>
+_crude oil estimated reserves_: 8,122,200,000 barrels (2021 est.)<br>
 
 **Refined petroleum products - production**<br>
 371,600 bbl/day (2017 est.)<br>
@@ -577,17 +577,17 @@ _Crude oil estimated reserves_: 8,122,200,000 barrels (2021 est.)<br>
 135,300 bbl/day (2017 est.)<br>
 
 **Natural gas**<br>
-_Production_: 112,052,523,000 cubic meters (2020 est.)<br>
-_Consumption_: 3,980,351,000 cubic meters (2020 est.)<br>
-_Exports_: 107,337,690,000 cubic meters (2020 est.)<br>
-_Imports_: 32.196 million cubic meters (2020 est.)<br>
-_Proven reserves_: 1,544,455,000,000 cubic meters (2021 est.)<br>
+_production_: 112,052,523,000 cubic meters (2020 est.)<br>
+_consumption_: 3,980,351,000 cubic meters (2020 est.)<br>
+_exports_: 107,337,690,000 cubic meters (2020 est.)<br>
+_imports_: 32.196 million cubic meters (2020 est.)<br>
+_proven reserves_: 1,544,455,000,000 cubic meters (2021 est.)<br>
 
 **Carbon dioxide emissions**<br>
-_Total emissions_: 36.731 million metric tonnes of CO2 (2019 est.)<br>
-_From coal and metallurgical coke_: 3.182 million metric tonnes of CO2 (2019 est.)<br>
-_From petroleum and other liquids_: 25.256 million metric tonnes of CO2 (2019 est.)<br>
-_From consumed natural gas_: 8.294 million metric tonnes of CO2 (2019 est.)<br>
+_total emissions_: 36.731 million metric tonnes of CO2 (2019 est.)<br>
+_from coal and metallurgical coke_: 3.182 million metric tonnes of CO2 (2019 est.)<br>
+_from petroleum and other liquids_: 25.256 million metric tonnes of CO2 (2019 est.)<br>
+_from consumed natural gas_: 8.294 million metric tonnes of CO2 (2019 est.)<br>
 
 **Energy consumption per capita**<br>
 _Total energy consumption per capita 2019_: 333.833 million Btu/person (2019 est.)<br>
@@ -684,7 +684,7 @@ Norwegian Armed Forces: Norwegian Army (Haeren), Royal Norwegian Navy (Kongelige
 1.6% of GDP (2017) (approximately $7.11 billion)<br>
 
 **Military and security service personnel strengths**<br>
-the Norwegian Armed Forces have approximately 23,000 active personnel (8,000 Army; 4,000 Navy; 4,000 Air Force; 7,000 other, including special operations, cyber, joint staff, intelligence, logistics support, active Home Guard, etc.); approximately 40,000 Home Guard (2022)<br>
+approximately 23,000 active personnel (8,000 Army; 4,000 Navy; 4,000 Air Force; 7,000 other, including special operations, cyber, joint staff, intelligence, logistics support, active Home Guard, etc.); approximately 40,000 Home Guard (2022)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the Norwegian Armed Forces inventory includes mostly imported European and US weapons systems, as well as a limited mix of domestically-produced equipment, particularly small naval craft and surface-to-air missile systems; since 2010, the US is the leading supplier of weapons systems to Norway (2021)<br>
@@ -694,7 +694,8 @@ the Norwegian Armed Forces inventory includes mostly imported European and US we
 <strong>note 1: </strong>Norway conscripts about 8,000 individuals annually<br><br><strong>note 2:</strong> Norway was the first NATO country to allow females to serve in all combat arms branches of the military (1985); it also has an all-female special operations unit known as <em>Jegertroppen </em>(The Hunter Troop), which was established in 2014; as of 2019, women comprised about 14% of the military's full-time personnel<br>
 
 **Military deployments**<br>
-up to 150 Lithuania (NATO) (2022)<br>
+up to 190 Lithuania (NATO) (2022)<br>
+<strong>note: </strong>in response to Russia’s 2022 invasion of Ukraine, some NATO countries, including Norway, have sent additional troops and equipment to the battlegroups deployed in NATO territory in eastern Europe<br>
 
 **Military - note**<br>
 Norway is a member of NATO and was one of the original 12 countries to sign the North Atlantic Treaty (also known as the Washington Treaty) in 1949<br><br>the Norwegian Armed Forces cooperate closely with the militaries of other Nordic countries through the Nordic Defense Cooperation (NORDEFCO), which consists of Denmark, Finland, Iceland, Norway, and Sweden; areas of cooperation include armaments, education, human resources, training and exercises, and operations; NORDEFCO was established in 2009 (2022)<br>
@@ -705,6 +706,6 @@ Norway is a member of NATO and was one of the original 12 countries to sign the 
 <p><em>Norway-Antarctica</em>: Norway asserts a territorial claim in Antarctica (Queen Maud Land and its continental shelf)</p> <p><em>Norway-Russia</em>: Russia amended its 2001 CLCS submission in 2015 and 2021, each time delineating the outer limits of its continental shelf further into the Arctic Ocean; Norway and Russia signed a comprehensive maritime boundary agreement in 2010, ending a dispute over an area of the Barents Sea by dividing the territory equally</p> <p><em>Norway-Sweden</em>: none identified</p> <p> </p> <p> </p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 15,542 (Syria), 11,965 (Eritrea) (mid-year 2021); 21,484 (Ukraine) (as of 26 July 2022)<br>
+_refugees (country of origin)_: 15,542 (Syria), 11,965 (Eritrea) (mid-year 2021); 22,085 (Ukraine) (as of 2 August 2022)<br>
 _stateless persons_: 4,154 (mid-year 2021)<br>
 

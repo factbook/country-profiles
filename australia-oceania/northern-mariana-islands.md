@@ -425,29 +425,29 @@ refined petroleum, trunks/cases, cars, watches, jewelry (2019)<br>
 _electrification - total population_: 100% (2020)<br>
 
 **Coal**<br>
-_Production_: 0 metric tons (2020 est.)<br>
-_Consumption_: 0 metric tons (2020 est.)<br>
-_Exports_: 0 metric tons (2020 est.)<br>
-_Imports_: 0 metric tons (2020 est.)<br>
+_production_: 0 metric tons (2020 est.)<br>
+_consumption_: 0 metric tons (2020 est.)<br>
+_exports_: 0 metric tons (2020 est.)<br>
+_imports_: 0 metric tons (2020 est.)<br>
 
 **Petroleum**<br>
-_Total petroleum production_: 0 bbl/day (2021 est.) Data represented includes both Guam and Northern Mariana Islands<br>
-_Refined petroleum consumption_: 2,100 bbl/day (2019 est.) Data represented includes both Guam and Northern Mariana Islands<br>
-_Crude oil and lease condensate exports_: 0 barrels/day (2018 est.) Data represented includes both Guam and Northern Mariana Islands<br>
-_Crude oil and lease condensate imports_: 0 barrels/day (2018 est.) Data represented includes both Guam and Northern Mariana Islands<br>
-_Crude oil estimated reserves_: 0 barrels (2021 est.) Data represented includes both Guam and Northern Mariana Islands<br>
+_total petroleum production_: 0 bbl/day (2021 est.) Data represented includes both Guam and Northern Mariana Islands<br>
+_refined petroleum consumption_: 2,100 bbl/day (2019 est.) Data represented includes both Guam and Northern Mariana Islands<br>
+_crude oil and lease condensate exports_: 0 barrels/day (2018 est.) Data represented includes both Guam and Northern Mariana Islands<br>
+_crude oil and lease condensate imports_: 0 barrels/day (2018 est.) Data represented includes both Guam and Northern Mariana Islands<br>
+_crude oil estimated reserves_: 0 barrels (2021 est.) Data represented includes both Guam and Northern Mariana Islands<br>
 
 **Natural gas**<br>
-_Production_: 0 cubic meters (2021 est.)<br>
-_Consumption_: 0 cubic meters (2021 est.)<br>
-_Exports_: 0 cubic meters (2021 est.)<br>
-_Imports_: 0 cubic meters (2021 est.)<br>
-_Proven reserves_: 0 cubic meters (2021 est.)<br>
+_production_: 0 cubic meters (2021 est.)<br>
+_consumption_: 0 cubic meters (2021 est.)<br>
+_exports_: 0 cubic meters (2021 est.)<br>
+_imports_: 0 cubic meters (2021 est.)<br>
+_proven reserves_: 0 cubic meters (2021 est.)<br>
 
 **Carbon dioxide emissions**<br>
-_Total emissions_: 0 metric tonnes of CO2 (2019 est.)<br>
-_From coal and metallurgical coke_: 0 metric tonnes of CO2 (2019 est.)<br>
-_From consumed natural gas_: 0 metric tonnes of CO2 (2019 est.)<br>
+_total emissions_: 0 metric tonnes of CO2 (2019 est.)<br>
+_from coal and metallurgical coke_: 0 metric tonnes of CO2 (2019 est.)<br>
+_from consumed natural gas_: 0 metric tonnes of CO2 (2019 est.)<br>
 
 **Energy consumption per capita**<br>
 _Total energy consumption per capita 2019_: 0 Btu/person (2019 est.)<br>

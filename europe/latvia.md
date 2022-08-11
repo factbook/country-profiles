@@ -339,7 +339,7 @@ _chief of state_: President Egils LEVITS (since 8 July 2019)<br>
 _head of government_: Prime Minister Krisjanis KARINS (since 23 January 2019)<br>
 _cabinet_: Cabinet of Ministers nominated by the prime minister, appointed by Parliament<br>
 _elections/appointments_: president indirectly elected by Parliament for a 4-year term (eligible for a second term); election last held on 29 May 2019 (next to be held in 2023); prime minister appointed by the president, confirmed by Parliament<br>
-_election results_: Egils LEVITS elected president; Parliament vote - Egils LEVITS 61 votes,&nbsp;Didzis SMITS 24, Juris JANSONS 8; Krisjanis KARINS confirmed prime minister 61-39<br>
+_election results_: 2019: Egils LEVITS elected president; Parliament vote - Egils LEVITS 61 votes, Didzis SMITS 24, Juris JANSONS 8; Krisjanis KARINS confirmed prime minister 61-39<br><br>2015: Raimonds VEJONIS elected president, 55 votes, Egils LEVITS 42 votes<br>
 
 **Legislative branch**<br>
 _description_: unicameral Parliament or Saeima (100 seats; members directly elected in multi-seat constituencies by party-list proportional representation vote; members serve 4-year terms)<br>
@@ -538,35 +538,35 @@ _Currency_: euros (EUR) per US dollar -<br>
 _electrification - total population_: 100% (2020)<br>
 
 **Electricity**<br>
-_Installed generating capacity_: 3.089 million kW (2020 est.)<br>
-_Consumption_: 6.706 billion kWh (2020 est.)<br>
-_Exports_: 2.548 billion kWh (2020 est.)<br>
-_Imports_: 4.173 billion kWh (2020 est.)<br>
-_Transmission/distribution losses_: 377 million kWh (2020 est.)<br>
+_installed generating capacity_: 3.089 million kW (2020 est.)<br>
+_consumption_: 6.706 billion kWh (2020 est.)<br>
+_exports_: 2.548 billion kWh (2020 est.)<br>
+_imports_: 4.173 billion kWh (2020 est.)<br>
+_transmission/distribution losses_: 377 million kWh (2020 est.)<br>
 
 **Electricity generation sources**<br>
-_Fossil fuels_: 33.4% of total installed capacity (2020 est.)<br>
-_Nuclear_: 0% of total installed capacity (2020 est.)<br>
-_Solar_: 0.1% of total installed capacity (2020 est.)<br>
-_Wind_: 3.2% of total installed capacity (2020 est.)<br>
-_Hydroelectricity_: 47.5% of total installed capacity (2020 est.)<br>
-_Tide and wave_: 0% of total installed capacity (2020 est.)<br>
-_Geothermal_: 0% of total installed capacity (2020 est.)<br>
-_Biomass and waste_: 15.9% of total installed capacity (2020 est.)<br>
+_fossil fuels_: 33.4% of total installed capacity (2020 est.)<br>
+_nuclear_: 0% of total installed capacity (2020 est.)<br>
+_solar_: 0.1% of total installed capacity (2020 est.)<br>
+_wind_: 3.2% of total installed capacity (2020 est.)<br>
+_hydroelectricity_: 47.5% of total installed capacity (2020 est.)<br>
+_tide and wave_: 0% of total installed capacity (2020 est.)<br>
+_geothermal_: 0% of total installed capacity (2020 est.)<br>
+_biomass and waste_: 15.9% of total installed capacity (2020 est.)<br>
 
 **Coal**<br>
-_Production_: 0 metric tons (2020 est.)<br>
-_Consumption_: 39,000 metric tons (2020 est.)<br>
-_Exports_: 3,000 metric tons (2020 est.)<br>
-_Imports_: 40,000 metric tons (2020 est.)<br>
-_Proven reserves_: 0 metric tons (2019 est.)<br>
+_production_: 0 metric tons (2020 est.)<br>
+_consumption_: 39,000 metric tons (2020 est.)<br>
+_exports_: 3,000 metric tons (2020 est.)<br>
+_imports_: 40,000 metric tons (2020 est.)<br>
+_proven reserves_: 0 metric tons (2019 est.)<br>
 
 **Petroleum**<br>
-_Total petroleum production_: 1,600 bbl/day (2021 est.)<br>
-_Refined petroleum consumption_: 39,900 bbl/day (2019 est.)<br>
-_Crude oil and lease condensate exports_: 0 barrels/day (2018 est.)<br>
-_Crude oil and lease condensate imports_: 0 barrels/day (2018 est.)<br>
-_Crude oil estimated reserves_: 0 barrels (2021 est.)<br>
+_total petroleum production_: 1,600 bbl/day (2021 est.)<br>
+_refined petroleum consumption_: 39,900 bbl/day (2019 est.)<br>
+_crude oil and lease condensate exports_: 0 barrels/day (2018 est.)<br>
+_crude oil and lease condensate imports_: 0 barrels/day (2018 est.)<br>
+_crude oil estimated reserves_: 0 barrels (2021 est.)<br>
 
 **Refined petroleum products - production**<br>
 0 bbl/day (2017 est.)<br>
@@ -578,17 +578,17 @@ _Crude oil estimated reserves_: 0 barrels (2021 est.)<br>
 54,370 bbl/day (2017 est.)<br>
 
 **Natural gas**<br>
-_Production_: 0 cubic meters (2021 est.)<br>
-_Consumption_: 1,067,798,000 cubic meters (2020 est.)<br>
-_Exports_: 0 cubic meters (2021 est.)<br>
-_Imports_: 1,067,798,000 cubic meters (2020 est.)<br>
-_Proven reserves_: 0 cubic meters (2021 est.)<br>
+_production_: 0 cubic meters (2021 est.)<br>
+_consumption_: 1,067,798,000 cubic meters (2020 est.)<br>
+_exports_: 0 cubic meters (2021 est.)<br>
+_imports_: 1,067,798,000 cubic meters (2020 est.)<br>
+_proven reserves_: 0 cubic meters (2021 est.)<br>
 
 **Carbon dioxide emissions**<br>
-_Total emissions_: 8.45 million metric tonnes of CO2 (2019 est.)<br>
-_From coal and metallurgical coke_: 149,000 metric tonnes of CO2 (2019 est.)<br>
-_From petroleum and other liquids_: 5.693 million metric tonnes of CO2 (2019 est.)<br>
-_From consumed natural gas_: 2.608 million metric tonnes of CO2 (2019 est.)<br>
+_total emissions_: 8.45 million metric tonnes of CO2 (2019 est.)<br>
+_from coal and metallurgical coke_: 149,000 metric tonnes of CO2 (2019 est.)<br>
+_from petroleum and other liquids_: 5.693 million metric tonnes of CO2 (2019 est.)<br>
+_from consumed natural gas_: 2.608 million metric tonnes of CO2 (2019 est.)<br>
 
 **Energy consumption per capita**<br>
 _Total energy consumption per capita 2019_: 86.645 million Btu/person (2019 est.)<br>
@@ -688,7 +688,7 @@ National Armed Forces (Nacionalie Brunotie Speki): Land Forces (Latvijas Sauszem
 1.6% of GDP (2017) (approximately $740 million)<br>
 
 **Military and security service personnel strengths**<br>
-the National Armed Forces of Latvia have approximately 6,500 active duty troops (5,500 Land Forces; 500 Naval Force/Coast Guard; 500 Air Force; note - some Land Forces are considered joint forces); 8,200 National Guard (2021)<br>
+approximately 7,500 active duty troops (6,500 Land Forces; 500 Naval Force/Coast Guard; 500 Air Force; note - some Land Forces are considered joint forces); 8,200 National Guard (2022)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the Latvian military's inventory is limited and consists of a mixture of Soviet-era and more modern--mostly second-hand--European and US equipment; since 2010, it has received limited amounts of equipment from several European countries, Israel, and the US (2021)<br>
@@ -709,7 +709,7 @@ Latvia became a member of NATO in 2004 <br><br>since 2017, Latvia has hosted a C
 <p><em>Latvia-Belarus</em>: Belarus and Latvia signed joint demarcation map in September 2008</p> <p><em>Latvia-Estonia</em>: demarcation reportedly completed in 1998</p> <p><em>Latvia-Lithuania</em>: boundary demarcation was completed by the end of 1998; the Latvian parliament has not ratified its 1998 maritime boundary treaty with Lithuania, primarily due to concerns over oil exploration rights</p> <p><em>Latvia-Russia</em>: Russia demands better Latvian treatment of ethnic Russians in Latvia; in March 2007, Latvia and Russia signed a border treaty, which includes Latvia withdrawing claims to a district now in Russia that was part of Latvia before WWII; the permanent demarcation of the boundary between Latvia and Russia was completed and came into force in April 2018; as a member state that forms part of the EU's external border, Latvia has implemented the strict Schengen border rules with Russia</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 35,205 (Ukraine) (as of 26 July 2022)<br>
+_refugees (country of origin)_: 35,730 (Ukraine) (as of 2 August 2022)<br>
 _stateless persons_: 209,168 (mid-year 2021); note - individuals who were Latvian citizens prior to the 1940 Soviet occupation and their descendants were recognized as Latvian citizens when the country's independence was restored in 1991; citizens of the former Soviet Union residing in Latvia who have neither Latvian nor other citizenship are considered non-citizens (officially there is no statelessness in Latvia) and are entitled to non-citizen passports; children born after Latvian independence to stateless parents are entitled to Latvian citizenship upon their parents' request; non-citizens cannot vote or hold certain government jobs and are exempt from military service but can travel visa-free in the EU under the Schengen accord like Latvian citizens; non-citizens can obtain naturalization if they have been permanent residents of Latvia for at least five years, pass tests in Latvian language and history, and know the words of the Latvian national anthem<br>
 
 **Illicit drugs**<br>

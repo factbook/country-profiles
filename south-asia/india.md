@@ -582,35 +582,35 @@ _electrification - urban areas_: 99% (2019)<br>
 _electrification - rural areas_: 99% (2019)<br>
 
 **Electricity**<br>
-_Installed generating capacity_: 432.768 million kW (2020 est.)<br>
-_Consumption_: 1,229,387,712,000 kWh (2019 est.)<br>
-_Exports_: 9.491 billion kWh (2019 est.)<br>
-_Imports_: 5.794 billion kWh (2019 est.)<br>
-_Transmission/distribution losses_: 270.701 billion kWh (2019 est.)<br>
+_installed generating capacity_: 432.768 million kW (2020 est.)<br>
+_consumption_: 1,229,387,712,000 kWh (2019 est.)<br>
+_exports_: 9.491 billion kWh (2019 est.)<br>
+_imports_: 5.794 billion kWh (2019 est.)<br>
+_transmission/distribution losses_: 270.701 billion kWh (2019 est.)<br>
 
 **Electricity generation sources**<br>
-_Fossil fuels_: 75.5% of total installed capacity (2020 est.)<br>
-_Nuclear_: 2.8% of total installed capacity (2020 est.)<br>
-_Solar_: 4.2% of total installed capacity (2020 est.)<br>
-_Wind_: 4.6% of total installed capacity (2020 est.)<br>
-_Hydroelectricity_: 10.7% of total installed capacity (2020 est.)<br>
-_Tide and wave_: 0% of total installed capacity (2020 est.)<br>
-_Geothermal_: 0% of total installed capacity (2020 est.)<br>
-_Biomass and waste_: 2.3% of total installed capacity (2020 est.)<br>
+_fossil fuels_: 75.5% of total installed capacity (2020 est.)<br>
+_nuclear_: 2.8% of total installed capacity (2020 est.)<br>
+_solar_: 4.2% of total installed capacity (2020 est.)<br>
+_wind_: 4.6% of total installed capacity (2020 est.)<br>
+_hydroelectricity_: 10.7% of total installed capacity (2020 est.)<br>
+_tide and wave_: 0% of total installed capacity (2020 est.)<br>
+_geothermal_: 0% of total installed capacity (2020 est.)<br>
+_biomass and waste_: 2.3% of total installed capacity (2020 est.)<br>
 
 **Coal**<br>
-_Production_: 743.214 million metric tons (2020 est.)<br>
-_Consumption_: 883.979 million metric tons (2020 est.)<br>
-_Exports_: 1.029 million metric tons (2020 est.)<br>
-_Imports_: 219.212 million metric tons (2020 est.)<br>
-_Proven reserves_: 105.931 billion metric tons (2019 est.)<br>
+_production_: 743.214 million metric tons (2020 est.)<br>
+_consumption_: 883.979 million metric tons (2020 est.)<br>
+_exports_: 1.029 million metric tons (2020 est.)<br>
+_imports_: 219.212 million metric tons (2020 est.)<br>
+_proven reserves_: 105.931 billion metric tons (2019 est.)<br>
 
 **Petroleum**<br>
-_Total petroleum production_: 771,400 bbl/day (2021 est.)<br>
-_Refined petroleum consumption_: 4,920,100 bbl/day (2019 est.)<br>
-_Crude oil and lease condensate exports_: 0 barrels/day (2018 est.)<br>
-_Crude oil and lease condensate imports_: 4.53 million barrels/day (2018 est.)<br>
-_Crude oil estimated reserves_: 4,604,900,000 barrels (2021 est.)<br>
+_total petroleum production_: 771,400 bbl/day (2021 est.)<br>
+_refined petroleum consumption_: 4,920,100 bbl/day (2019 est.)<br>
+_crude oil and lease condensate exports_: 0 barrels/day (2018 est.)<br>
+_crude oil and lease condensate imports_: 4.53 million barrels/day (2018 est.)<br>
+_crude oil estimated reserves_: 4,604,900,000 barrels (2021 est.)<br>
 
 **Refined petroleum products - production**<br>
 4.897 million bbl/day (2015 est.)<br>
@@ -622,17 +622,17 @@ _Crude oil estimated reserves_: 4,604,900,000 barrels (2021 est.)<br>
 653,300 bbl/day (2015 est.)<br>
 
 **Natural gas**<br>
-_Production_: 27,734,833,000 cubic meters (2020 est.)<br>
-_Consumption_: 61,646,806,000 cubic meters (2020 est.)<br>
-_Exports_: 91.916 million cubic meters (2019 est.)<br>
-_Imports_: 33,911,973,000 cubic meters (2020 est.)<br>
-_Proven reserves_: 1,380,614,000,000 cubic meters (2021 est.)<br>
+_production_: 27,734,833,000 cubic meters (2020 est.)<br>
+_consumption_: 61,646,806,000 cubic meters (2020 est.)<br>
+_exports_: 91.916 million cubic meters (2019 est.)<br>
+_imports_: 33,911,973,000 cubic meters (2020 est.)<br>
+_proven reserves_: 1,380,614,000,000 cubic meters (2021 est.)<br>
 
 **Carbon dioxide emissions**<br>
-_Total emissions_: 2,314,738,000 metric tonnes of CO2 (2019 est.)<br>
-_From coal and metallurgical coke_: 1,574,331,000 metric tonnes of CO2 (2019 est.)<br>
-_From petroleum and other liquids_: 615.903 million metric tonnes of CO2 (2019 est.)<br>
-_From consumed natural gas_: 124.505 million metric tonnes of CO2 (2019 est.)<br>
+_total emissions_: 2,314,738,000 metric tonnes of CO2 (2019 est.)<br>
+_from coal and metallurgical coke_: 1,574,331,000 metric tonnes of CO2 (2019 est.)<br>
+_from petroleum and other liquids_: 615.903 million metric tonnes of CO2 (2019 est.)<br>
+_from consumed natural gas_: 124.505 million metric tonnes of CO2 (2019 est.)<br>
 
 **Energy consumption per capita**<br>
 _Total energy consumption per capita 2019_: 23.231 million Btu/person (2019 est.)<br>
@@ -748,7 +748,7 @@ the inventory of the Indian Armed Forces consists mostly of Russian- and Soviet-
 <strong>note 1:</strong> in June 2022, the Indian Government announced that it would begin recruiting 46,000 men aged 17.5-21 annually to serve on 4-year contracts; at the end of their tenure, 25% would be retained for longer terms of service, while the remainder would be forced to retire, although some of those leaving the service would be eligible to serve in the Coast Guard, the Merchant Navy, civilian positions in the Ministry of Defense, and in the paramilitary forces of the Ministry of Home Affairs, such as the Central Armed Police Forces and Assam Rifles<br><br><strong>note 2: </strong>as of 2021, women made up about .56% of the Army, 1.1% of the Air Force, and 6.5% of the Navy<br>
 
 **Military deployments**<br>
-1,900 Democratic Republic of the Congo (MONUSCO); 200 Golan Heights (UNDOF); 900 Lebanon (UNIFIL); 2,400 South Sudan (UNMISS) (Jan 2022)<br>
+1,900 Democratic Republic of the Congo (MONUSCO); 110 Golan Heights (UNDOF); 900 Lebanon (UNIFIL); 2,350 South Sudan (UNMISS); 310 Sudan (UNISFA) (May 2022)<br>
 
 **Military - note**<br>
 as of 2022, the Indian Armed Forces were chiefly focused on China and Pakistan; the short 1962 Sino-India War left in place one of the world&rsquo;s longest disputed international borders, resulting in occasional standoffs between Indian and Chinese security forces, including lethal clashes in 1975 and 2020; meanwhile, India and Pakistan have fought several conflicts since 1947, including the Indo-Pakistan War of 1965 and the Indo-Pakistan and Bangladesh War of Independence of 1971, as well as two clashes over the disputed region of Kashmir (the First Kashmir War of 1947 and the 1999 Kargil Conflict); a fragile cease-fire in Kashmir was reached in 2003, revised in 2018, and reaffirmed in 2021, although the Line of Control remained contested as of 2022, and India has accused Pakistan of backing armed separatists and terrorist organizations in Jammu and Kashmir where Indian forces have conducted counterinsurgency operations since the 1980s; in addition, India and Pakistan have battled over the Siachen Glacier of Kashmir, which was seized by India in 1984 with Pakistan attempting to retake the area at least three times between 1985 and 1995; despite a cease-fire, as of 2022 both sides continued to maintain a permanent military presence there with outposts at altitudes above 20,000 feet (over 6,000 meters) where most casualties were due to extreme weather and the hazards of operating in the high mountain terrain of the world&rsquo;s highest conflict, including avalanches, exposure, and altitude sickness (2022)<br>

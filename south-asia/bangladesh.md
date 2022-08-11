@@ -568,35 +568,35 @@ _electrification - urban areas_: 93% (2019)<br>
 _electrification - rural areas_: 77% (2019)<br>
 
 **Electricity**<br>
-_Installed generating capacity_: 18.461 million kW (2020 est.)<br>
-_Consumption_: 76,849,877,000 kWh (2019 est.)<br>
-_Exports_: 0 kWh (2019 est.)<br>
-_Imports_: 6.786 billion kWh (2019 est.)<br>
-_Transmission/distribution losses_: 9.537 billion kWh (2019 est.)<br>
+_installed generating capacity_: 18.461 million kW (2020 est.)<br>
+_consumption_: 76,849,877,000 kWh (2019 est.)<br>
+_exports_: 0 kWh (2019 est.)<br>
+_imports_: 6.786 billion kWh (2019 est.)<br>
+_transmission/distribution losses_: 9.537 billion kWh (2019 est.)<br>
 
 **Electricity generation sources**<br>
-_Fossil fuels_: 98.6% of total installed capacity (2020 est.)<br>
-_Nuclear_: 0% of total installed capacity (2020 est.)<br>
-_Solar_: 0.6% of total installed capacity (2020 est.)<br>
-_Wind_: 0% of total installed capacity (2020 est.)<br>
-_Hydroelectricity_: 0.8% of total installed capacity (2020 est.)<br>
-_Tide and wave_: 0% of total installed capacity (2020 est.)<br>
-_Geothermal_: 0% of total installed capacity (2020 est.)<br>
-_Biomass and waste_: 0% of total installed capacity (2020 est.)<br>
+_fossil fuels_: 98.6% of total installed capacity (2020 est.)<br>
+_nuclear_: 0% of total installed capacity (2020 est.)<br>
+_solar_: 0.6% of total installed capacity (2020 est.)<br>
+_wind_: 0% of total installed capacity (2020 est.)<br>
+_hydroelectricity_: 0.8% of total installed capacity (2020 est.)<br>
+_tide and wave_: 0% of total installed capacity (2020 est.)<br>
+_geothermal_: 0% of total installed capacity (2020 est.)<br>
+_biomass and waste_: 0% of total installed capacity (2020 est.)<br>
 
 **Coal**<br>
-_Production_: 1.016 million metric tons (2020 est.)<br>
-_Consumption_: 9.345 million metric tons (2020 est.)<br>
-_Exports_: 0 metric tons (2020 est.)<br>
-_Imports_: 8.329 million metric tons (2020 est.)<br>
-_Proven reserves_: 293 million metric tons (2019 est.)<br>
+_production_: 1.016 million metric tons (2020 est.)<br>
+_consumption_: 9.345 million metric tons (2020 est.)<br>
+_exports_: 0 metric tons (2020 est.)<br>
+_imports_: 8.329 million metric tons (2020 est.)<br>
+_proven reserves_: 293 million metric tons (2019 est.)<br>
 
 **Petroleum**<br>
-_Total petroleum production_: 13,500 bbl/day (2021 est.)<br>
-_Refined petroleum consumption_: 122,500 bbl/day (2019 est.)<br>
-_Crude oil and lease condensate exports_: 0 barrels/day (2018 est.)<br>
-_Crude oil and lease condensate imports_: 21,600 barrels/day (2018 est.)<br>
-_Crude oil estimated reserves_: 28 million barrels (2021 est.)<br>
+_total petroleum production_: 13,500 bbl/day (2021 est.)<br>
+_refined petroleum consumption_: 122,500 bbl/day (2019 est.)<br>
+_crude oil and lease condensate exports_: 0 barrels/day (2018 est.)<br>
+_crude oil and lease condensate imports_: 21,600 barrels/day (2018 est.)<br>
+_crude oil estimated reserves_: 28 million barrels (2021 est.)<br>
 
 **Refined petroleum products - production**<br>
 26,280 bbl/day (2015 est.)<br>
@@ -608,17 +608,17 @@ _Crude oil estimated reserves_: 28 million barrels (2021 est.)<br>
 81,570 bbl/day (2015 est.)<br>
 
 **Natural gas**<br>
-_Production_: 28,629,927,000 cubic meters (2019 est.)<br>
-_Consumption_: 31,268,968,000 cubic meters (2019 est.)<br>
-_Exports_: 0 cubic meters (2021 est.)<br>
-_Imports_: 2,639,041,000 cubic meters (2019 est.)<br>
-_Proven reserves_: 126.293 billion cubic meters (2021 est.)<br>
+_production_: 28,629,927,000 cubic meters (2019 est.)<br>
+_consumption_: 31,268,968,000 cubic meters (2019 est.)<br>
+_exports_: 0 cubic meters (2021 est.)<br>
+_imports_: 2,639,041,000 cubic meters (2019 est.)<br>
+_proven reserves_: 126.293 billion cubic meters (2021 est.)<br>
 
 **Carbon dioxide emissions**<br>
-_Total emissions_: 96.18 million metric tonnes of CO2 (2019 est.)<br>
-_From coal and metallurgical coke_: 16.538 million metric tonnes of CO2 (2019 est.)<br>
-_From petroleum and other liquids_: 18.535 million metric tonnes of CO2 (2019 est.)<br>
-_From consumed natural gas_: 61.107 million metric tonnes of CO2 (2019 est.)<br>
+_total emissions_: 96.18 million metric tonnes of CO2 (2019 est.)<br>
+_from coal and metallurgical coke_: 16.538 million metric tonnes of CO2 (2019 est.)<br>
+_from petroleum and other liquids_: 18.535 million metric tonnes of CO2 (2019 est.)<br>
+_from consumed natural gas_: 61.107 million metric tonnes of CO2 (2019 est.)<br>
 
 **Energy consumption per capita**<br>
 _Total energy consumption per capita 2019_: 9.917 million Btu/person (2019 est.)<br>
@@ -731,7 +731,7 @@ much of the military's inventory is comprised of Chinese- and Russian-origin equ
 16-21 years of age for voluntary military service; Bangladeshi nationality and 10th grade education required; officers: 17-21 years of age, Bangladeshi nationality, and 12th grade education required (2022)<br>
 
 **Military deployments**<br>
-Bangladesh has been one of the leading contributors to UN peacekeeping missions since it joined the UN in 1974; as of mid-2022, it had approximately 6,700 personnel deployed, including about 6,200 military troops, including: 1,375 Central African Republic (MINUSCA); 1,625 Democratic Republic of the Congo (MONUSCO; plus about 175 police); 120 Lebanon (UNIFIL); 1,100 Mali (MINUSMA; plus about 280 police); 1,600 South Sudan (UNMISS); 180 Sudan (UNISFA) (May 2022)<br>
+1,375 Central African Republic (MINUSCA); 1,625 Democratic Republic of the Congo (MONUSCO; plus about 190 police); 120 Lebanon (UNIFIL); 1,100 Mali (MINUSMA; plus about 280 police); 1,600 South Sudan (UNMISS); 180 Sudan (UNISFA) (May 2022)<br>
 
 **Military - note**<br>
 <p>the military’s chief areas of focus are border, economic exclusion zone, and domestic security; the Army maintains a large domestic security presence in the Chittagong Hills area where it conducted counterinsurgency operations against tribal guerrillas from the 1970s until the late 1990s; since 2009, the military has been in a force-wide expansion and modernization program known as Forces Goal 2030</p> (2022)<br>

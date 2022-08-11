@@ -340,14 +340,14 @@ _residency requirement for naturalization_: 5 years<br>
 
 **Executive branch**<br>
 _chief of state_: President Rumen RADEV (since 22 January 2017); Vice President Iliana IOTOVA (since 22 January 2017)<br>
-_head of government_: Prime Minister Kiril PETKOV (since 13 December 2021)<br>
+_head of government_: Prime Minister Gulub DONEV (since 2 August 2022); note - Prime Minister DONEV leads a caretaker government until snap elections are held on 2 October 2022<br>
 _cabinet_: Council of Ministers nominated by the prime minister, elected by the National Assembly<br>
 _elections/appointments_: president and vice president elected on the same ballot by absolute majority popular vote in 2 rounds if needed for a 5-year term (eligible for a second term); election last held on 14 and 21 November 2021 (next to be held in fall 2026); chairman of the Council of Ministers (prime minister) elected by the National Assembly; deputy prime ministers nominated by the prime minister, elected by the National Assembly<br>
 _election results_: <em>2021</em>: Rumen RADEV reelected president in second round; percent of vote in the first round - Rumen RADEV (independent) 49.4%, Anastas GERDZHIKOV (independent) 22.8%, Mustafa KARADAYI (DPS) 11.6%, Kostadin KOSTADINOV (Revival) 3.9%, Lozan PANOV (independent) 3.7%, other 8.6%; percent of vote in the second round - Rumen RADEV 66.7%, Anastas GERDZHIKOV 31.8%, neither 1.5%<br><br><em>2016: </em>Rumen RADEV elected president in second round; percent of vote in the second round - Rumen RADEV (independent, supported by Bulgarian Socialist Party) 59.4%, Tsetska TSACHEVA (GERB) 36.2%, neither 4.5%<br><br><em>2011:</em> Rosen PLEVNELIEV elected president in the second round; percent of vote in the second round - Rosen PLEVNELIEV (independent) 52.6%, Ivailo KALFIN (BSP) 47.4%<br>
 
 **Legislative branch**<br>
 _description_: unicameral National Assembly or Narodno Sabranie (240 seats; members directly elected in multi-seat constituencies by proportional representation vote to serve 4-year terms)<br>
-_elections_: last held on 14 November 2021 (next election to be held in 2025)<br>
+_elections_: last held on 14 November 2021 (next election to be held on 2 October 2022)<br>
 _election results_: percent of vote by party/coalition - PP 25.3%, GERB-SDS 22.4%, DPS 12.8%, BSP for Bulgaria 10.1%, ITN 9.4%, DB 6.3%, Revival 4.8%, other 8.9%; seats by party/coalition - PP 67, GERB-SDS 59, DPS 34, BSP for Bulgaria 26, ITN 25, DB 16, Revival 13; composition as of March 2022 - men 186, women 54, percent of women 22.5%<br>
 
 **Judicial branch**<br>
@@ -545,35 +545,35 @@ _Currency_: leva (BGN) per US dollar -<br>
 _electrification - total population_: 100% (2020)<br>
 
 **Electricity**<br>
-_Installed generating capacity_: 11.097 million kW (2020 est.)<br>
-_Consumption_: 30,905,170,000 kWh (2019 est.)<br>
-_Exports_: 7.115 billion kWh (2020 est.)<br>
-_Imports_: 3.707 billion kWh (2020 est.)<br>
-_Transmission/distribution losses_: 2.767 billion kWh (2019 est.)<br>
+_installed generating capacity_: 11.097 million kW (2020 est.)<br>
+_consumption_: 30,905,170,000 kWh (2019 est.)<br>
+_exports_: 7.115 billion kWh (2020 est.)<br>
+_imports_: 3.707 billion kWh (2020 est.)<br>
+_transmission/distribution losses_: 2.767 billion kWh (2019 est.)<br>
 
 **Electricity generation sources**<br>
-_Fossil fuels_: 36.5% of total installed capacity (2020 est.)<br>
-_Nuclear_: 44.7% of total installed capacity (2020 est.)<br>
-_Solar_: 4% of total installed capacity (2020 est.)<br>
-_Wind_: 4% of total installed capacity (2020 est.)<br>
-_Hydroelectricity_: 9.1% of total installed capacity (2020 est.)<br>
-_Tide and wave_: 0% of total installed capacity (2020 est.)<br>
-_Geothermal_: 0% of total installed capacity (2020 est.)<br>
-_Biomass and waste_: 1.9% of total installed capacity (2020 est.)<br>
+_fossil fuels_: 36.5% of total installed capacity (2020 est.)<br>
+_nuclear_: 44.7% of total installed capacity (2020 est.)<br>
+_solar_: 4% of total installed capacity (2020 est.)<br>
+_wind_: 4% of total installed capacity (2020 est.)<br>
+_hydroelectricity_: 9.1% of total installed capacity (2020 est.)<br>
+_tide and wave_: 0% of total installed capacity (2020 est.)<br>
+_geothermal_: 0% of total installed capacity (2020 est.)<br>
+_biomass and waste_: 1.9% of total installed capacity (2020 est.)<br>
 
 **Coal**<br>
-_Production_: 22.298 million metric tons (2020 est.)<br>
-_Consumption_: 23.213 million metric tons (2020 est.)<br>
-_Exports_: 35,000 metric tons (2020 est.)<br>
-_Imports_: 675,000 metric tons (2020 est.)<br>
-_Proven reserves_: 2.366 billion metric tons (2019 est.)<br>
+_production_: 22.298 million metric tons (2020 est.)<br>
+_consumption_: 23.213 million metric tons (2020 est.)<br>
+_exports_: 35,000 metric tons (2020 est.)<br>
+_imports_: 675,000 metric tons (2020 est.)<br>
+_proven reserves_: 2.366 billion metric tons (2019 est.)<br>
 
 **Petroleum**<br>
-_Total petroleum production_: 4,500 bbl/day (2021 est.)<br>
-_Refined petroleum consumption_: 97,800 bbl/day (2019 est.)<br>
-_Crude oil and lease condensate exports_: 0 barrels/day (2018 est.)<br>
-_Crude oil and lease condensate imports_: 119,800 barrels/day (2018 est.)<br>
-_Crude oil estimated reserves_: 15 million barrels (2021 est.)<br>
+_total petroleum production_: 4,500 bbl/day (2021 est.)<br>
+_refined petroleum consumption_: 97,800 bbl/day (2019 est.)<br>
+_crude oil and lease condensate exports_: 0 barrels/day (2018 est.)<br>
+_crude oil and lease condensate imports_: 119,800 barrels/day (2018 est.)<br>
+_crude oil estimated reserves_: 15 million barrels (2021 est.)<br>
 
 **Refined petroleum products - production**<br>
 144,300 bbl/day (2015 est.)<br>
@@ -585,17 +585,17 @@ _Crude oil estimated reserves_: 15 million barrels (2021 est.)<br>
 49,260 bbl/day (2015 est.)<br>
 
 **Natural gas**<br>
-_Production_: 62.439 million cubic meters (2020 est.)<br>
-_Consumption_: 2,929,401,000 cubic meters (2019 est.)<br>
-_Exports_: 2.747 million cubic meters (2020 est.)<br>
-_Imports_: 2,950,157,000 cubic meters (2019 est.)<br>
-_Proven reserves_: 5.663 billion cubic meters (2021 est.)<br>
+_production_: 62.439 million cubic meters (2020 est.)<br>
+_consumption_: 2,929,401,000 cubic meters (2019 est.)<br>
+_exports_: 2.747 million cubic meters (2020 est.)<br>
+_imports_: 2,950,157,000 cubic meters (2019 est.)<br>
+_proven reserves_: 5.663 billion cubic meters (2021 est.)<br>
 
 **Carbon dioxide emissions**<br>
-_Total emissions_: 38.373 million metric tonnes of CO2 (2019 est.)<br>
-_From coal and metallurgical coke_: 20.483 million metric tonnes of CO2 (2019 est.)<br>
-_From petroleum and other liquids_: 12.248 million metric tonnes of CO2 (2019 est.)<br>
-_From consumed natural gas_: 5.642 million metric tonnes of CO2 (2019 est.)<br>
+_total emissions_: 38.373 million metric tonnes of CO2 (2019 est.)<br>
+_from coal and metallurgical coke_: 20.483 million metric tonnes of CO2 (2019 est.)<br>
+_from petroleum and other liquids_: 12.248 million metric tonnes of CO2 (2019 est.)<br>
+_from consumed natural gas_: 5.642 million metric tonnes of CO2 (2019 est.)<br>
 
 **Energy consumption per capita**<br>
 _Total energy consumption per capita 2019_: 103.924 million Btu/person (2019 est.)<br>
@@ -696,7 +696,7 @@ Bulgarian Armed Forces: Land Forces (Army), Naval Forces, Bulgarian Air Forces (
 1.2% of GDP (2017) (approximately $1.5 billion)<br>
 
 **Military and security service personnel strengths**<br>
-approximately 30,000 active duty personnel (16,000 Army; 4,000 Navy; 7,000 Air Force; 3,000 other, joint staff, support) (2021)<br>
+approximately 28,000 active duty personnel (17,000 Army; 4,000 Navy; 7,000 Air Force) (2022)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the Bulgarian Armed Forces inventory consists primarily of Soviet-era equipment, although in recent years Bulgaria has procured limited amounts of more modern weapons systems from some Western countries (2022)<br>
@@ -720,7 +720,7 @@ Islamic State of Iraq and ash-Sham (ISIS); Islamic Revolutionary Guard Corps/Qod
 <p>none</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 19,014 (Syria) (mid-year 2021); 86,950 (Ukraine) (as of 26 July 2022)<br>
+_refugees (country of origin)_: 19,014 (Syria) (mid-year 2021); 85,119 (Ukraine) (as of 2 August 2022)<br>
 _stateless persons_: 1,143 (mid-year 2021)<br>
 <strong>note:</strong> 77,143 estimated refugee and migrant arrivals (January 2015-June 2022); Bulgaria is predominantly a transit country<br>
 

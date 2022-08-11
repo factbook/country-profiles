@@ -561,35 +561,35 @@ $19,452,478,000,000 (2018 est.)<br>
 _electrification - total population_: 100% (2020)<br>
 
 **Electricity**<br>
-_Installed generating capacity_: 1,143,266,000 kW (2020 est.)<br>
-_Consumption_: 3,897,886,551,000 kWh (2020 est.)<br>
-_Exports_: 14,134,679,000 kWh (2020 est.)<br>
-_Imports_: 61,448,863,000 kWh (2020 est.)<br>
-_Transmission/distribution losses_: 198,085,480,000 kWh (2020 est.)<br>
+_installed generating capacity_: 1,143,266,000 kW (2020 est.)<br>
+_consumption_: 3,897,886,551,000 kWh (2020 est.)<br>
+_exports_: 14,134,679,000 kWh (2020 est.)<br>
+_imports_: 61,448,863,000 kWh (2020 est.)<br>
+_transmission/distribution losses_: 198,085,480,000 kWh (2020 est.)<br>
 
 **Electricity generation sources**<br>
-_Fossil fuels_: 59.9% of total installed capacity (2020 est.)<br>
-_Nuclear_: 19.5% of total installed capacity (2020 est.)<br>
-_Solar_: 3.2% of total installed capacity (2020 est.)<br>
-_Wind_: 8.3% of total installed capacity (2020 est.)<br>
-_Hydroelectricity_: 7% of total installed capacity (2020 est.)<br>
-_Tide and wave_: 0% of total installed capacity (2020 est.)<br>
-_Geothermal_: 0.4% of total installed capacity (2020 est.)<br>
-_Biomass and waste_: 1.7% of total installed capacity (2020 est.)<br>
+_fossil fuels_: 59.9% of total installed capacity (2020 est.)<br>
+_nuclear_: 19.5% of total installed capacity (2020 est.)<br>
+_solar_: 3.2% of total installed capacity (2020 est.)<br>
+_wind_: 8.3% of total installed capacity (2020 est.)<br>
+_hydroelectricity_: 7% of total installed capacity (2020 est.)<br>
+_tide and wave_: 0% of total installed capacity (2020 est.)<br>
+_geothermal_: 0.4% of total installed capacity (2020 est.)<br>
+_biomass and waste_: 1.7% of total installed capacity (2020 est.)<br>
 
 **Coal**<br>
-_Production_: 495.13 million metric tons (2020 est.)<br>
-_Consumption_: 441.968 million metric tons (2020 est.)<br>
-_Exports_: 63.276 million metric tons (2020 est.)<br>
-_Imports_: 4.808 million metric tons (2020 est.)<br>
-_Proven reserves_: 228.662 billion metric tons (2019 est.)<br>
+_production_: 495.13 million metric tons (2020 est.)<br>
+_consumption_: 441.968 million metric tons (2020 est.)<br>
+_exports_: 63.276 million metric tons (2020 est.)<br>
+_imports_: 4.808 million metric tons (2020 est.)<br>
+_proven reserves_: 228.662 billion metric tons (2019 est.)<br>
 
 **Petroleum**<br>
-_Total petroleum production_: 17,924,200 bbl/day (2021 est.)<br>
-_Refined petroleum consumption_: 20,542,900 bbl/day (2019 est.)<br>
-_Crude oil and lease condensate exports_: 2,048,100 barrels/day (2018 est.)<br>
-_Crude oil and lease condensate imports_: 7,768,500 barrels/day (2018 est.)<br>
-_Crude oil estimated reserves_: 47.107 billion barrels (2020 est.)<br>
+_total petroleum production_: 17,924,200 bbl/day (2021 est.)<br>
+_refined petroleum consumption_: 20,542,900 bbl/day (2019 est.)<br>
+_crude oil and lease condensate exports_: 2,048,100 barrels/day (2018 est.)<br>
+_crude oil and lease condensate imports_: 7,768,500 barrels/day (2018 est.)<br>
+_crude oil estimated reserves_: 47.107 billion barrels (2020 est.)<br>
 
 **Refined petroleum products - production**<br>
 20.3 million bbl/day (2017 est.)<br>
@@ -601,17 +601,17 @@ _Crude oil estimated reserves_: 47.107 billion barrels (2020 est.)<br>
 2.175 million bbl/day (2017 est.)<br>
 
 **Natural gas**<br>
-_Production_: 967,144,362,000 cubic meters (2021 est.)<br>
-_Consumption_: 857,542,658,000 cubic meters (2021 est.)<br>
-_Exports_: 188,401,779,000 cubic meters (2021 est.)<br>
-_Imports_: 79,512,470,000 cubic meters (2021 est.)<br>
-_Proven reserves_: 13,178,780,000,000 cubic meters (2020 est.)<br>
+_production_: 967,144,362,000 cubic meters (2021 est.)<br>
+_consumption_: 857,542,658,000 cubic meters (2021 est.)<br>
+_exports_: 188,401,779,000 cubic meters (2021 est.)<br>
+_imports_: 79,512,470,000 cubic meters (2021 est.)<br>
+_proven reserves_: 13,178,780,000,000 cubic meters (2020 est.)<br>
 
 **Carbon dioxide emissions**<br>
-_Total emissions_: 5,144,361,000 metric tonnes of CO2 (2019 est.)<br>
-_From coal and metallurgical coke_: 1,077,520,000 metric tonnes of CO2 (2019 est.)<br>
-_From petroleum and other liquids_: 2,382,833,000 metric tonnes of CO2 (2019 est.)<br>
-_From consumed natural gas_: 1,684,008,000 metric tonnes of CO2 (2019 est.)<br>
+_total emissions_: 5,144,361,000 metric tonnes of CO2 (2019 est.)<br>
+_from coal and metallurgical coke_: 1,077,520,000 metric tonnes of CO2 (2019 est.)<br>
+_from petroleum and other liquids_: 2,382,833,000 metric tonnes of CO2 (2019 est.)<br>
+_from consumed natural gas_: 1,684,008,000 metric tonnes of CO2 (2019 est.)<br>
 
 **Energy consumption per capita**<br>
 _Total energy consumption per capita 2019_: 304.414 million Btu/person (2019 est.)<br>
@@ -735,8 +735,8 @@ the US military's inventory is comprised almost entirely of domestically-produce
 <strong>note:</strong> in 2020, women comprised 17.2 % of the total US military (16.9% of enlisted; 18.9% officers; highest was Air Force with women comprising 21.1% of its total personnel); a small number of American women were involved in combat during the Revolutionary (1775-1783), Mexican (1846-1848), and Civil (1861-1865) Wars, but they had to disguise themselves as men and enlist under aliases; the first official US military organization for women was the US Army Nurse Corps, established in 1901; during World War I, the US Navy and Marine Corps allowed women to enlist; nearly 350,000 women served in the US military during World War II; the 1991 Gulf War was the first war where women served with men in integrated units within a war zone; in 2015, female service members were allowed to serve in direct combat roles<br>
 
 **Military deployments**<br>
-5,000 Africa (mostly in Djibouti, with approximately 700-1,000 in other countries of East Africa and about 700 in West Africa); 1,700 Australia; 250 Diego Garcia; 150 Canada; 650 Cuba (Guatanamo Bay); 290 Egypt (MFO); 65,000 Europe (Belgium, Bulgaria, Germany, Greece, Italy, Kosovo, the Netherlands, Norway, Poland, Portugal, Romania, Spain, Turkey, UK); 150 Greenland; 6,200 Guam; 370 Honduras; 56,000 Japan; approximately 15,000 Middle East (Bahrain, Iraq, Israel, Jordan, Kuwait, Oman, Qatar, Saudi Arabia, Syria, United Arab Emirates); 125 Philippines; 26,500 South Korea; 200 Singapore; 100 Thailand (2022)<br>
-<strong>note:</strong> US military rotational policies affect deployment numbers; the US deploys ground and air units to select countries for 6-12 month rotational assignments on a continuous basis; in South Korea, for example, the US continuously rotates combat brigades (approximately 3,000 personnel) for 9 months at a time; contingencies also affect US troop deployments; in 2019-2020, the US deployed more than 15,000 additional military personnel to the Middle East for an extended period of time and in early 2022, it sent reinforcements to Europe in response to the Russian invasion of Ukraine; in addition, some overseas US naval bases, such as the headquarters of US Naval Forces Central Command (USNAVCENT) in Manama, Bahrain, are frequented by the crews of US ships on 6-9 month deployments; a US carrier strike group with an air wing and supporting ships typically includes over 6-7,000 personnel<br>
+5,000 Africa (mostly in Djibouti, with approximately 700-1,000 in other countries of East Africa and about 700 in West Africa); 1,700 Australia; 250 Diego Garcia; 150 Canada; 650 Cuba (Guatanamo Bay); 290 Egypt (MFO); approximately 100,000 Europe (Belgium, Bulgaria, Germany, Greece, Italy, Kosovo, the Netherlands, Norway, Poland, Portugal, Romania, Spain, Turkey, UK); 150 Greenland; 6,200 Guam; 370 Honduras; 56,000 Japan; approximately 15,000 Middle East (Bahrain, Iraq, Israel, Jordan, Kuwait, Oman, Qatar, Saudi Arabia, Syria, United Arab Emirates); 125 Philippines; 28,000 South Korea; 200 Singapore; 100 Thailand (2022)<br>
+<strong>note:</strong> US military rotational policies affect deployment numbers; the US deploys ground and air units to select countries for 6-12 month rotational assignments on a continuous basis; in South Korea, for example, the US continuously rotates combat brigades (approximately 3,000 personnel) for 9 months at a time; contingencies also affect US troop deployments; in 2019-2020, the US deployed more than 15,000 additional military personnel to the Middle East for an extended period of time and in 2022, it sent more than 30,000 reinforcements to Europe in response to the Russian invasion of Ukraine; in addition, some overseas US naval bases, such as the headquarters of US Naval Forces Central Command (USNAVCENT) in Manama, Bahrain, are frequented by the crews of US ships on 6-9 month deployments; a US carrier strike group with an air wing and supporting ships typically includes over 6-7,000 personnel<br>
 
 **Military - note**<br>
 the US is a member of NATO and was one of the original 12 countries to sign the North Atlantic Treaty (also known as the Washington Treaty) in 1949<br><br>the US military has 11 regional- or functionally-based joint service "combatant" commands: Africa Command; Central Command, Cyber Command, European Command, Indo-Pacific Command, Northern Command, Southern Command, Space Command, Special Operations Command, Strategic Command, and Transportation Command<br><br>Congress officially created the US military in September 1789; the US Army was established in June 1775 as the Continental Army; after the declaration of independence in July 1776, the Continental Army and the militia in the service of Congress became known collectively as the Army of the United States; when Congress ordered the Continental Army to disband in 1784, it retained a small number of personnel that would form the nucleus of the 1st American Regiment for national service formed later that year; both the US Navy and the US Marines were also established in 1775, but the Navy fell into disuse after the Revolutionary War, and was reestablished by Congress in 1794; the first US military unit devoted exclusively to aviation began operations in 1913 as part of the US Army; the Army Air Corps (AAC) was the US military service dedicated to aerial warfare between 1926 and 1941; the AAC became the US Army Air Forces in 1941 and remained as a combat arm of the Army until the establishment of the US Air Force in 1947<br>

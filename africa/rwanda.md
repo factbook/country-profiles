@@ -551,35 +551,35 @@ _electrification - urban areas_: 76% (2019)<br>
 _electrification - rural areas_: 48% (2019)<br>
 
 **Electricity**<br>
-_Installed generating capacity_: 265,000 kW (2020 est.)<br>
-_Consumption_: 1,007,300,000 kWh (2019 est.)<br>
-_Exports_: 4.5 million kWh (2019 est.)<br>
-_Imports_: 93.96 million kWh (2019 est.)<br>
-_Transmission/distribution losses_: 142 million kWh (2019 est.)<br>
+_installed generating capacity_: 265,000 kW (2020 est.)<br>
+_consumption_: 1,007,300,000 kWh (2019 est.)<br>
+_exports_: 4.5 million kWh (2019 est.)<br>
+_imports_: 93.96 million kWh (2019 est.)<br>
+_transmission/distribution losses_: 142 million kWh (2019 est.)<br>
 
 **Electricity generation sources**<br>
-_Fossil fuels_: 39% of total installed capacity (2020 est.)<br>
-_Nuclear_: 0% of total installed capacity (2020 est.)<br>
-_Solar_: 6.5% of total installed capacity (2020 est.)<br>
-_Wind_: 0% of total installed capacity (2020 est.)<br>
-_Hydroelectricity_: 53.9% of total installed capacity (2020 est.)<br>
-_Tide and wave_: 0% of total installed capacity (2020 est.)<br>
-_Geothermal_: 0% of total installed capacity (2020 est.)<br>
-_Biomass and waste_: 0.6% of total installed capacity (2020 est.)<br>
+_fossil fuels_: 39% of total installed capacity (2020 est.)<br>
+_nuclear_: 0% of total installed capacity (2020 est.)<br>
+_solar_: 6.5% of total installed capacity (2020 est.)<br>
+_wind_: 0% of total installed capacity (2020 est.)<br>
+_hydroelectricity_: 53.9% of total installed capacity (2020 est.)<br>
+_tide and wave_: 0% of total installed capacity (2020 est.)<br>
+_geothermal_: 0% of total installed capacity (2020 est.)<br>
+_biomass and waste_: 0.6% of total installed capacity (2020 est.)<br>
 
 **Coal**<br>
-_Production_: 0 metric tons (2020 est.)<br>
-_Consumption_: 0 metric tons (2020 est.)<br>
-_Exports_: 0 metric tons (2020 est.)<br>
-_Imports_: 0 metric tons (2020 est.)<br>
-_Proven reserves_: 0 metric tons (2019 est.)<br>
+_production_: 0 metric tons (2020 est.)<br>
+_consumption_: 0 metric tons (2020 est.)<br>
+_exports_: 0 metric tons (2020 est.)<br>
+_imports_: 0 metric tons (2020 est.)<br>
+_proven reserves_: 0 metric tons (2019 est.)<br>
 
 **Petroleum**<br>
-_Total petroleum production_: 0 bbl/day (2021 est.)<br>
-_Refined petroleum consumption_: 8,300 bbl/day (2019 est.)<br>
-_Crude oil and lease condensate exports_: 0 barrels/day (2018 est.)<br>
-_Crude oil and lease condensate imports_: 0 barrels/day (2018 est.)<br>
-_Crude oil estimated reserves_: 0 barrels (2021 est.)<br>
+_total petroleum production_: 0 bbl/day (2021 est.)<br>
+_refined petroleum consumption_: 8,300 bbl/day (2019 est.)<br>
+_crude oil and lease condensate exports_: 0 barrels/day (2018 est.)<br>
+_crude oil and lease condensate imports_: 0 barrels/day (2018 est.)<br>
+_crude oil estimated reserves_: 0 barrels (2021 est.)<br>
 
 **Refined petroleum products - production**<br>
 0 bbl/day (2015 est.)<br>
@@ -591,17 +591,17 @@ _Crude oil estimated reserves_: 0 barrels (2021 est.)<br>
 6,628 bbl/day (2015 est.)<br>
 
 **Natural gas**<br>
-_Production_: 0 cubic meters (2021 est.)<br>
-_Consumption_: 0 cubic meters (2021 est.)<br>
-_Exports_: 0 cubic meters (2021 est.)<br>
-_Imports_: 0 cubic meters (2021 est.)<br>
-_Proven reserves_: 56.634 billion cubic meters (2021 est.)<br>
+_production_: 0 cubic meters (2021 est.)<br>
+_consumption_: 0 cubic meters (2021 est.)<br>
+_exports_: 0 cubic meters (2021 est.)<br>
+_imports_: 0 cubic meters (2021 est.)<br>
+_proven reserves_: 56.634 billion cubic meters (2021 est.)<br>
 
 **Carbon dioxide emissions**<br>
-_Total emissions_: 1.189 million metric tonnes of CO2 (2019 est.)<br>
-_From coal and metallurgical coke_: 0 metric tonnes of CO2 (2019 est.)<br>
-_From petroleum and other liquids_: 1.189 million metric tonnes of CO2 (2019 est.)<br>
-_From consumed natural gas_: 0 metric tonnes of CO2 (2019 est.)<br>
+_total emissions_: 1.189 million metric tonnes of CO2 (2019 est.)<br>
+_from coal and metallurgical coke_: 0 metric tonnes of CO2 (2019 est.)<br>
+_from petroleum and other liquids_: 1.189 million metric tonnes of CO2 (2019 est.)<br>
+_from consumed natural gas_: 0 metric tonnes of CO2 (2019 est.)<br>
 
 **Energy consumption per capita**<br>
 _Total energy consumption per capita 2019_: 1.704 million Btu/person (2019 est.)<br>
@@ -692,7 +692,7 @@ the RDF's inventory includes mostly Russian, Soviet-era, and older Western - lar
 18 years of age for voluntary military service (men and women); no conscription; Rwandan citizenship is required; enlistment is either as contract (5-years, renewable twice) or career (2021)<br>
 
 **Military deployments**<br>
-2,450 (plus about 500 police) Central African Republic (approximately 1,700 for MINUSCA; an additional 750 sent bilaterally in August, 2021); at least 1,000 Mozambique (deployed mid-2021 to assist with combating insurgency); 2,600 (plus about 400 police) South Sudan (UNMISS) (Feb 2022)<br>
+2,450 (plus about 500 police) Central African Republic (approximately 1,700 for MINUSCA; an additional 750 troops sent separately under a bilateral agreement with CAR in August, 2021); at least 1,000 Mozambique (deployed mid-2021 to assist with combating insurgency); 2,600 (plus about 400 police) South Sudan (UNMISS) (May 2022)<br>
 
 **Military - note**<br>
 <p>the Rwandan Armed Forces (FAR) were established following independence in 1962; after the 1990-1994 civil war and genocide, the victorious Tutsi-dominated Rwandan Patriotic Front's military wing, the Rwandan Patriotic Army (RPA), became the country's military force; the RPA participated in the First (1996-1997) and Second (1998-2003) Congolese Wars; the RPA was renamed the Rwanda Defense Force (RDF) in 2003, by which time it had assumed a more national character with the inclusion of many former Hutu officers as well as newly recruited soldiers<br><br>the RDF is widely regarded as one of Africa’s best trained and most capable and professional military forces; as of 2022, over 5,000 RDF personnel were deployed on missions in Africa</p><br>
@@ -703,6 +703,6 @@ the RDF's inventory includes mostly Russian, Soviet-era, and older Western - lar
 <p><em>Rwanda-Burundi: </em>Burundi's Ngozi province and Rwanda's Butare province dispute the two-kilometer-square hilly farmed area of Sabanerwa in the Rukurazi Valley where the Akanyaru/Kanyaru River shifted its course southward after heavy rains in 1965 around Kibinga Hill in Rwanda's Butare Province<br><em><br>Rwanda-Democratic Republic of Congo (DRC): </em>the 2005 DRC and Rwanda border verification mechanism to stem rebel actions on both sides of the border remains in place<em><br><br>Rwanda-Uganda:</em> a joint technical committee established in 2007 to demarcate sections of the border<br><br><br></p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 76,847 (Democratic Republic of the Congo) 48,218 (Burundi) (2022)<br>
+_refugees (country of origin)_: 76,847 (Democratic Republic of the Congo) 48,354 (Burundi) (2022)<br>
 _stateless persons_: 9,500 (mid-year 2021)<br>
 

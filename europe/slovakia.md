@@ -540,35 +540,35 @@ _Currency_: euros (EUR) per US dollar -<br>
 _electrification - total population_: 100% (2020)<br>
 
 **Electricity**<br>
-_Installed generating capacity_: 7.868 million kW (2020 est.)<br>
-_Consumption_: 26.503 billion kWh (2020 est.)<br>
-_Exports_: 12.97 billion kWh (2020 est.)<br>
-_Imports_: 13.288 billion kWh (2020 est.)<br>
-_Transmission/distribution losses_: 1.589 billion kWh (2020 est.)<br>
+_installed generating capacity_: 7.868 million kW (2020 est.)<br>
+_consumption_: 26.503 billion kWh (2020 est.)<br>
+_exports_: 12.97 billion kWh (2020 est.)<br>
+_imports_: 13.288 billion kWh (2020 est.)<br>
+_transmission/distribution losses_: 1.589 billion kWh (2020 est.)<br>
 
 **Electricity generation sources**<br>
-_Fossil fuels_: 19.7% of total installed capacity (2020 est.)<br>
-_Nuclear_: 55.4% of total installed capacity (2020 est.)<br>
-_Solar_: 2.4% of total installed capacity (2020 est.)<br>
-_Wind_: 0% of total installed capacity (2020 est.)<br>
-_Hydroelectricity_: 16.8% of total installed capacity (2020 est.)<br>
-_Tide and wave_: 0.2% of total installed capacity (2020 est.)<br>
-_Geothermal_: 0% of total installed capacity (2020 est.)<br>
-_Biomass and waste_: 5.6% of total installed capacity (2020 est.)<br>
+_fossil fuels_: 19.7% of total installed capacity (2020 est.)<br>
+_nuclear_: 55.4% of total installed capacity (2020 est.)<br>
+_solar_: 2.4% of total installed capacity (2020 est.)<br>
+_wind_: 0% of total installed capacity (2020 est.)<br>
+_hydroelectricity_: 16.8% of total installed capacity (2020 est.)<br>
+_tide and wave_: 0.2% of total installed capacity (2020 est.)<br>
+_geothermal_: 0% of total installed capacity (2020 est.)<br>
+_biomass and waste_: 5.6% of total installed capacity (2020 est.)<br>
 
 **Coal**<br>
-_Production_: 2.148 million metric tons (2020 est.)<br>
-_Consumption_: 5.371 million metric tons (2020 est.)<br>
-_Exports_: 1,000 metric tons (2020 est.)<br>
-_Imports_: 3.111 million metric tons (2020 est.)<br>
-_Proven reserves_: 135 million metric tons (2019 est.)<br>
+_production_: 2.148 million metric tons (2020 est.)<br>
+_consumption_: 5.371 million metric tons (2020 est.)<br>
+_exports_: 1,000 metric tons (2020 est.)<br>
+_imports_: 3.111 million metric tons (2020 est.)<br>
+_proven reserves_: 135 million metric tons (2019 est.)<br>
 
 **Petroleum**<br>
-_Total petroleum production_: 3,800 bbl/day (2021 est.)<br>
-_Refined petroleum consumption_: 85,200 bbl/day (2019 est.)<br>
-_Crude oil and lease condensate exports_: 100 barrels/day (2018 est.)<br>
-_Crude oil and lease condensate imports_: 109,800 barrels/day (2018 est.)<br>
-_Crude oil estimated reserves_: 9 million barrels (2021 est.)<br>
+_total petroleum production_: 3,800 bbl/day (2021 est.)<br>
+_refined petroleum consumption_: 85,200 bbl/day (2019 est.)<br>
+_crude oil and lease condensate exports_: 100 barrels/day (2018 est.)<br>
+_crude oil and lease condensate imports_: 109,800 barrels/day (2018 est.)<br>
+_crude oil estimated reserves_: 9 million barrels (2021 est.)<br>
 
 **Refined petroleum products - production**<br>
 131,300 bbl/day (2017 est.)<br>
@@ -580,17 +580,17 @@ _Crude oil estimated reserves_: 9 million barrels (2021 est.)<br>
 38,340 bbl/day (2017 est.)<br>
 
 **Natural gas**<br>
-_Production_: 62.495 million cubic meters (2020 est.)<br>
-_Consumption_: 4,928,199,000 cubic meters (2020 est.)<br>
-_Exports_: 0 cubic meters (2020 est.)<br>
-_Imports_: 4,361,410,000 cubic meters (2020 est.)<br>
-_Proven reserves_: 14.158 billion cubic meters (2021 est.)<br>
+_production_: 62.495 million cubic meters (2020 est.)<br>
+_consumption_: 4,928,199,000 cubic meters (2020 est.)<br>
+_exports_: 0 cubic meters (2020 est.)<br>
+_imports_: 4,361,410,000 cubic meters (2020 est.)<br>
+_proven reserves_: 14.158 billion cubic meters (2021 est.)<br>
 
 **Carbon dioxide emissions**<br>
-_Total emissions_: 32.506 million metric tonnes of CO2 (2019 est.)<br>
-_From coal and metallurgical coke_: 11.521 million metric tonnes of CO2 (2019 est.)<br>
-_From petroleum and other liquids_: 11.747 million metric tonnes of CO2 (2019 est.)<br>
-_From consumed natural gas_: 9.238 million metric tonnes of CO2 (2019 est.)<br>
+_total emissions_: 32.506 million metric tonnes of CO2 (2019 est.)<br>
+_from coal and metallurgical coke_: 11.521 million metric tonnes of CO2 (2019 est.)<br>
+_from petroleum and other liquids_: 11.747 million metric tonnes of CO2 (2019 est.)<br>
+_from consumed natural gas_: 9.238 million metric tonnes of CO2 (2019 est.)<br>
 
 **Energy consumption per capita**<br>
 _Total energy consumption per capita 2019_: 129.665 million Btu/person (2019 est.)<br>
@@ -684,7 +684,7 @@ Armed Forces of the Slovak Republic (Ozbrojene Sily Slovenskej Republiky): Land 
 1.1% of GDP (2017) (approximately $1.51 billion)<br>
 
 **Military and security service personnel strengths**<br>
-approximately 15,000 active duty personnel (8,000 Land Forces; 4,000 Air Forces; 3,000 other, including staff, special operations, and support forces) (2021)<br>
+approximately 14,000 active duty personnel (8,000 Land Forces; 4,000 Air Forces; 2,000 other, including staff, special operations, and support forces) (2022)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the inventory of the Slovakian military consists mostly of Soviet-era platforms; since 2010, it has imported limited quantities of equipment, particularly from Italy and the US (2021)<br>
@@ -694,7 +694,8 @@ the inventory of the Slovakian military consists mostly of Soviet-era platforms;
 <strong>note:</strong> as of 2019, women made up around 12% of the military's full-time personnel<br>
 
 **Military deployments**<br>
-240 Cyprus (UNFICYP); up to 150 Latvia (NATO); 250 Slovakia (NATO) (2022)<br>
+240 Cyprus (UNFICYP); up to 150 Latvia (NATO) (2022)<br>
+<strong>note: </strong>in response to Russia’s 2022 invasion of Ukraine, some NATO countries, including Slovakia, have sent additional troops and equipment to the battlegroups deployed in NATO territory in eastern Europe<br>
 
 **Military - note**<br>
 Slovakia became a member of NATO in 2004<br><br>in 2022, Slovakia agreed to host a NATO ground force battlegroup comprised of troops from Czechia, Germany, the Netherlands, Poland, Slovakia, Slovenia, and the US<br>
@@ -705,7 +706,7 @@ Slovakia became a member of NATO in 2004<br><br>in 2022, Slovakia agreed to host
 <p><em>Slovakia-Austria</em>: none identified</p> <p><em>Slovakia-Czechia</em>: none identified</p> <p><em>Slovakia-Hungary</em>: initiated by the 1977 Budapest Treaty, Hungary and formerly Czechoslovakia agreed to a hydroelectric dam project on the Danube with dams to be constructed at Gabcikovo (Slovakia) and Nagymaros (Hungary) to prevent floods, improve river navigability, and to generate electricity; when Hungary suspended work on the project until its environmental impact could be assessed, Slovakia continued working on it and adopted a pared down strategy to divert the Danube so that all construction was within Czechoslovakian territory; Hungary terminated the project on environmental and economic grounds in 1989, and in 1992 both countries took the matter to the International Court of Justice (ICJ); the ICJ found largely in favor of then Slovakia, finding Hungary had breached their agreement; however, then Czechoslovakia should not have begun the alternative plan before the ICJ ruled on the case; in 2017, Hungary and Slovakia agreed to discontinue the ICJ proceedings</p> <p><em>Slovakia-Poland</em>: none identified</p> <p><em>Slovakia-Ukraine</em>: tens of thousands of Ukrainian refugees are crossing the border to Slovakia to escape the Russian invasion in their country</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 87,027 (Ukraine) (as of 26 July 2022)<br>
+_refugees (country of origin)_: 87,030 (Ukraine) (as of 9 August 2022)<br>
 _stateless persons_: 1,532 (mid-year 2021)<br>
 
 **Illicit drugs**<br>

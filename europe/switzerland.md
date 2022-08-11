@@ -553,35 +553,35 @@ _Currency_: Swiss francs (CHF) per US dollar -<br>
 _electrification - total population_: 100% (2020)<br>
 
 **Electricity**<br>
-_Installed generating capacity_: 22.921 million kW (2020 est.)<br>
-_Consumption_: 56,406,647,000 kWh (2020 est.)<br>
-_Exports_: 32.549 billion kWh (2020 est.)<br>
-_Imports_: 26.988 billion kWh (2020 est.)<br>
-_Transmission/distribution losses_: 4.19 billion kWh (2020 est.)<br>
+_installed generating capacity_: 22.921 million kW (2020 est.)<br>
+_consumption_: 56,406,647,000 kWh (2020 est.)<br>
+_exports_: 32.549 billion kWh (2020 est.)<br>
+_imports_: 26.988 billion kWh (2020 est.)<br>
+_transmission/distribution losses_: 4.19 billion kWh (2020 est.)<br>
 
 **Electricity generation sources**<br>
-_Fossil fuels_: 0.8% of total installed capacity (2020 est.)<br>
-_Nuclear_: 34.2% of total installed capacity (2020 est.)<br>
-_Solar_: 3.8% of total installed capacity (2020 est.)<br>
-_Wind_: 0.2% of total installed capacity (2020 est.)<br>
-_Hydroelectricity_: 56.3% of total installed capacity (2020 est.)<br>
-_Tide and wave_: 0% of total installed capacity (2020 est.)<br>
-_Geothermal_: 0% of total installed capacity (2020 est.)<br>
-_Biomass and waste_: 4.7% of total installed capacity (2020 est.)<br>
+_fossil fuels_: 0.8% of total installed capacity (2020 est.)<br>
+_nuclear_: 34.2% of total installed capacity (2020 est.)<br>
+_solar_: 3.8% of total installed capacity (2020 est.)<br>
+_wind_: 0.2% of total installed capacity (2020 est.)<br>
+_hydroelectricity_: 56.3% of total installed capacity (2020 est.)<br>
+_tide and wave_: 0% of total installed capacity (2020 est.)<br>
+_geothermal_: 0% of total installed capacity (2020 est.)<br>
+_biomass and waste_: 4.7% of total installed capacity (2020 est.)<br>
 
 **Coal**<br>
-_Production_: 0 metric tons (2020 est.)<br>
-_Consumption_: 150,000 metric tons (2020 est.)<br>
-_Exports_: 0 metric tons (2020 est.)<br>
-_Imports_: 139,000 metric tons (2020 est.)<br>
-_Proven reserves_: 0 metric tons (2019 est.)<br>
+_production_: 0 metric tons (2020 est.)<br>
+_consumption_: 150,000 metric tons (2020 est.)<br>
+_exports_: 0 metric tons (2020 est.)<br>
+_imports_: 139,000 metric tons (2020 est.)<br>
+_proven reserves_: 0 metric tons (2019 est.)<br>
 
 **Petroleum**<br>
-_Total petroleum production_: 300 bbl/day (2021 est.)<br>
-_Refined petroleum consumption_: 220,000 bbl/day (2019 est.)<br>
-_Crude oil and lease condensate exports_: 0 barrels/day (2018 est.)<br>
-_Crude oil and lease condensate imports_: 60,900 barrels/day (2018 est.)<br>
-_Crude oil estimated reserves_: 0 barrels (2021 est.)<br>
+_total petroleum production_: 300 bbl/day (2021 est.)<br>
+_refined petroleum consumption_: 220,000 bbl/day (2019 est.)<br>
+_crude oil and lease condensate exports_: 0 barrels/day (2018 est.)<br>
+_crude oil and lease condensate imports_: 60,900 barrels/day (2018 est.)<br>
+_crude oil estimated reserves_: 0 barrels (2021 est.)<br>
 
 **Refined petroleum products - production**<br>
 61,550 bbl/day (2017 est.)<br>
@@ -593,17 +593,17 @@ _Crude oil estimated reserves_: 0 barrels (2021 est.)<br>
 165,100 bbl/day (2017 est.)<br>
 
 **Natural gas**<br>
-_Production_: 0 cubic meters (2021 est.)<br>
-_Consumption_: 3,616,169,000 cubic meters (2019 est.)<br>
-_Exports_: 0 cubic meters (2021 est.)<br>
-_Imports_: 3,577,884,000 cubic meters (2019 est.)<br>
-_Proven reserves_: 0 cubic meters (2021 est.)<br>
+_production_: 0 cubic meters (2021 est.)<br>
+_consumption_: 3,616,169,000 cubic meters (2019 est.)<br>
+_exports_: 0 cubic meters (2021 est.)<br>
+_imports_: 3,577,884,000 cubic meters (2019 est.)<br>
+_proven reserves_: 0 cubic meters (2021 est.)<br>
 
 **Carbon dioxide emissions**<br>
-_Total emissions_: 38.739 million metric tonnes of CO2 (2019 est.)<br>
-_From coal and metallurgical coke_: 319,000 metric tonnes of CO2 (2019 est.)<br>
-_From petroleum and other liquids_: 31.494 million metric tonnes of CO2 (2019 est.)<br>
-_From consumed natural gas_: 6.926 million metric tonnes of CO2 (2019 est.)<br>
+_total emissions_: 38.739 million metric tonnes of CO2 (2019 est.)<br>
+_from coal and metallurgical coke_: 319,000 metric tonnes of CO2 (2019 est.)<br>
+_from petroleum and other liquids_: 31.494 million metric tonnes of CO2 (2019 est.)<br>
+_from consumed natural gas_: 6.926 million metric tonnes of CO2 (2019 est.)<br>
 
 **Energy consumption per capita**<br>
 _Total energy consumption per capita 2019_: 137.918 million Btu/person (2019 est.)<br>
@@ -730,7 +730,7 @@ Islamic State of Iraq and ash-Sham (ISIS)<br>
 <p>none identified</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 38,219 (Eritrea), 20,043 (Syria), 14,649 (Afghanistan), 6,069 (Sri Lanka), 6,197 (Turkey) (mid-year 2021); 58,643 (Ukraine) (as of 26 July 2022)<br>
+_refugees (country of origin)_: 38,219 (Eritrea), 20,043 (Syria), 14,649 (Afghanistan), 6,069 (Sri Lanka), 6,197 (Turkey) (mid-year 2021); 59,244 (Ukraine) (as of 2 August 2022)<br>
 _stateless persons_: 684 (mid-year 2021)<br>
 
 **Illicit drugs**<br>

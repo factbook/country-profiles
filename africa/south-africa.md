@@ -564,35 +564,35 @@ _electrification - urban areas_: 95% (2019)<br>
 _electrification - rural areas_: 92% (2019)<br>
 
 **Electricity**<br>
-_Installed generating capacity_: 62.728 million kW (2020 est.)<br>
-_Consumption_: 202,285,870,000 kWh (2019 est.)<br>
-_Exports_: 14.482 billion kWh (2019 est.)<br>
-_Imports_: 7.823 billion kWh (2019 est.)<br>
-_Transmission/distribution losses_: 22.904 billion kWh (2019 est.)<br>
+_installed generating capacity_: 62.728 million kW (2020 est.)<br>
+_consumption_: 202,285,870,000 kWh (2019 est.)<br>
+_exports_: 14.482 billion kWh (2019 est.)<br>
+_imports_: 7.823 billion kWh (2019 est.)<br>
+_transmission/distribution losses_: 22.904 billion kWh (2019 est.)<br>
 
 **Electricity generation sources**<br>
-_Fossil fuels_: 87.9% of total installed capacity (2020 est.)<br>
-_Nuclear_: 5.2% of total installed capacity (2020 est.)<br>
-_Solar_: 1.6% of total installed capacity (2020 est.)<br>
-_Wind_: 2.6% of total installed capacity (2020 est.)<br>
-_Hydroelectricity_: 2.5% of total installed capacity (2020 est.)<br>
-_Tide and wave_: 0% of total installed capacity (2020 est.)<br>
-_Geothermal_: 0% of total installed capacity (2020 est.)<br>
-_Biomass and waste_: 0.2% of total installed capacity (2020 est.)<br>
+_fossil fuels_: 87.9% of total installed capacity (2020 est.)<br>
+_nuclear_: 5.2% of total installed capacity (2020 est.)<br>
+_solar_: 1.6% of total installed capacity (2020 est.)<br>
+_wind_: 2.6% of total installed capacity (2020 est.)<br>
+_hydroelectricity_: 2.5% of total installed capacity (2020 est.)<br>
+_tide and wave_: 0% of total installed capacity (2020 est.)<br>
+_geothermal_: 0% of total installed capacity (2020 est.)<br>
+_biomass and waste_: 0.2% of total installed capacity (2020 est.)<br>
 
 **Coal**<br>
-_Production_: 248.388 million metric tons (2020 est.)<br>
-_Consumption_: 170.308 million metric tons (2020 est.)<br>
-_Exports_: 74.965 million metric tons (2020 est.)<br>
-_Imports_: 2.054 million metric tons (2020 est.)<br>
-_Proven reserves_: 9.893 billion metric tons (2019 est.)<br>
+_production_: 248.388 million metric tons (2020 est.)<br>
+_consumption_: 170.308 million metric tons (2020 est.)<br>
+_exports_: 74.965 million metric tons (2020 est.)<br>
+_imports_: 2.054 million metric tons (2020 est.)<br>
+_proven reserves_: 9.893 billion metric tons (2019 est.)<br>
 
 **Petroleum**<br>
-_Total petroleum production_: 97,900 bbl/day (2021 est.)<br>
-_Refined petroleum consumption_: 622,500 bbl/day (2019 est.)<br>
-_Crude oil and lease condensate exports_: 9,000 barrels/day (2018 est.)<br>
-_Crude oil and lease condensate imports_: 397,700 barrels/day (2018 est.)<br>
-_Crude oil estimated reserves_: 15 million barrels (2021 est.)<br>
+_total petroleum production_: 97,900 bbl/day (2021 est.)<br>
+_refined petroleum consumption_: 622,500 bbl/day (2019 est.)<br>
+_crude oil and lease condensate exports_: 9,000 barrels/day (2018 est.)<br>
+_crude oil and lease condensate imports_: 397,700 barrels/day (2018 est.)<br>
+_crude oil estimated reserves_: 15 million barrels (2021 est.)<br>
 
 **Refined petroleum products - production**<br>
 487,100 bbl/day (2015 est.)<br>
@@ -604,17 +604,17 @@ _Crude oil estimated reserves_: 15 million barrels (2021 est.)<br>
 195,200 bbl/day (2015 est.)<br>
 
 **Natural gas**<br>
-_Production_: 1,229,544,000 cubic meters (2019 est.)<br>
-_Consumption_: 4,771,551,000 cubic meters (2019 est.)<br>
-_Exports_: 0 cubic meters (2021 est.)<br>
-_Imports_: 3,542,007,000 cubic meters (2019 est.)<br>
-_Proven reserves_: 0 cubic meters (2021 est.)<br>
+_production_: 1,229,544,000 cubic meters (2019 est.)<br>
+_consumption_: 4,771,551,000 cubic meters (2019 est.)<br>
+_exports_: 0 cubic meters (2021 est.)<br>
+_imports_: 3,542,007,000 cubic meters (2019 est.)<br>
+_proven reserves_: 0 cubic meters (2021 est.)<br>
 
 **Carbon dioxide emissions**<br>
-_Total emissions_: 470.358 million metric tonnes of CO2 (2019 est.)<br>
-_From coal and metallurgical coke_: 387.835 million metric tonnes of CO2 (2019 est.)<br>
-_From petroleum and other liquids_: 73.163 million metric tonnes of CO2 (2019 est.)<br>
-_From consumed natural gas_: 9.361 million metric tonnes of CO2 (2019 est.)<br>
+_total emissions_: 470.358 million metric tonnes of CO2 (2019 est.)<br>
+_from coal and metallurgical coke_: 387.835 million metric tonnes of CO2 (2019 est.)<br>
+_from petroleum and other liquids_: 73.163 million metric tonnes of CO2 (2019 est.)<br>
+_from consumed natural gas_: 9.361 million metric tonnes of CO2 (2019 est.)<br>
 
 **Energy consumption per capita**<br>
 _Total energy consumption per capita 2019_: 98.474 million Btu/person (2019 est.)<br>
@@ -724,7 +724,7 @@ the SANDF's inventory consists of a mix of domestically-produced and foreign-sup
 <strong>note:</strong> in 2019, women comprised about 30% of the SANDF<br>
 
 **Military deployments**<br>
-930 Democratic Republic of the Congo (MONUSCO); up to 1,500 Mozambique (part of a Southern African Development Community force to help quell an insurgency) (2022)<br>
+1,150 Democratic Republic of the Congo (MONUSCO); up to 1,500 Mozambique (part of a Southern African Development Community force to help quell an insurgency) (2022)<br>
 
 **Military - note**<br>
 the SANDF was created in 1994 to replace the South African Defense Force (SADF); the SANDF was opened to all South Africans who met military requirements, while the SADF was a mostly white force (only whites were subject to conscription) with non-whites only allowed to join in a voluntary capacity; the SANDF also absorbed members of the guerrilla and militia forces of the various anti-apartheid opposition groups, including the African National Congress, the Pan Africanist Congress, and the Inkatha Freedom Party, as well as the security forces of the formerly independent Bantustan homelands; the SANDF is one of Africa&rsquo;s most capable militaries; it participated regularly in African and UN peacekeeping missions and had the ability to independently deploy throughout Africa; over the past decade, however, its operational readiness and modernization programs have been hampered by funding shortfalls (2022)<br>

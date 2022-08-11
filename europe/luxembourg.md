@@ -344,7 +344,7 @@ _judge selection and term of office_: judges of both courts appointed by the mon
 _subordinate courts_: Court of Accounts; district and local tribunals and courts<br>
 
 **Political parties and leaders**<br>
-Alternative Democratic Reform Party or ADR [Jean SCHOOS]<br>Christian Social People's Party or CSV [Felix EISCHEN]<br>Democratic Party or DP [Corinne CAHEN]<br>Green Party [Djuna BERNARD, Meris SEHOVIC]<br>Luxembourg Socialist Workers' Party or LSAP [Yves CRUCHTEN]<br>The Left (dei Lenk/la Gauche) [collective leadership, Central Committee]<br>Pirate Party<br>
+Alternative Democratic Reform Party or ADR [Fred KEUP]<br>Christian Social People's Party or CSV [Claude WISELER]<br>Democratic Party or DP [Corinne CAHEN]<br>Green Party [Djuna BERNARD, Meris SEHOVIC]<br>Luxembourg Socialist Workers' Party or LSAP [Yves CRUCHTEN]<br>The Left (dei Lenk/la Gauche) [collective leadership, Central Committee]<br>Pirate Party<br>
 
 **International organization participation**<br>
 ADB (nonregional member), Australia Group, Benelux, BIS, CD, CE, EAPC, EBRD, ECB, EIB, EMU, ESA, EU, FAO, FATF, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IEA, IFAD, IFC, IFRCS, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, NATO, NEA, NSG, OAS (observer), OECD, OIF, OPCW, OSCE, PCA, Schengen Convention, UN, UNCTAD, UNESCO, UNHCR, UNIDO, UNRWA, UPU, Wassenaar Arrangement, WCO, WHO, WIPO, WMO, WTO, ZC<br>
@@ -532,35 +532,35 @@ _Currency_: euros (EUR) per US dollar -<br>
 _electrification - total population_: 100% (2020)<br>
 
 **Electricity**<br>
-_Installed generating capacity_: 1.899 million kW (2020 est.)<br>
-_Consumption_: 6.188 billion kWh (2020 est.)<br>
-_Exports_: 1.079 billion kWh (2020 est.)<br>
-_Imports_: 6.543 billion kWh (2020 est.)<br>
-_Transmission/distribution losses_: 156 million kWh (2020 est.)<br>
+_installed generating capacity_: 1.899 million kW (2020 est.)<br>
+_consumption_: 6.188 billion kWh (2020 est.)<br>
+_exports_: 1.079 billion kWh (2020 est.)<br>
+_imports_: 6.543 billion kWh (2020 est.)<br>
+_transmission/distribution losses_: 156 million kWh (2020 est.)<br>
 
 **Electricity generation sources**<br>
-_Fossil fuels_: 13.8% of total installed capacity (2020 est.)<br>
-_Nuclear_: 0% of total installed capacity (2020 est.)<br>
-_Solar_: 14.6% of total installed capacity (2020 est.)<br>
-_Wind_: 27.7% of total installed capacity (2020 est.)<br>
-_Hydroelectricity_: 7.5% of total installed capacity (2020 est.)<br>
-_Tide and wave_: 0% of total installed capacity (2020 est.)<br>
-_Geothermal_: 0% of total installed capacity (2020 est.)<br>
-_Biomass and waste_: 36.4% of total installed capacity (2020 est.)<br>
+_fossil fuels_: 13.8% of total installed capacity (2020 est.)<br>
+_nuclear_: 0% of total installed capacity (2020 est.)<br>
+_solar_: 14.6% of total installed capacity (2020 est.)<br>
+_wind_: 27.7% of total installed capacity (2020 est.)<br>
+_hydroelectricity_: 7.5% of total installed capacity (2020 est.)<br>
+_tide and wave_: 0% of total installed capacity (2020 est.)<br>
+_geothermal_: 0% of total installed capacity (2020 est.)<br>
+_biomass and waste_: 36.4% of total installed capacity (2020 est.)<br>
 
 **Coal**<br>
-_Production_: 0 metric tons (2020 est.)<br>
-_Consumption_: 65,000 metric tons (2020 est.)<br>
-_Exports_: 0 metric tons (2020 est.)<br>
-_Imports_: 74,000 metric tons (2020 est.)<br>
-_Proven reserves_: 0 metric tons (2019 est.)<br>
+_production_: 0 metric tons (2020 est.)<br>
+_consumption_: 65,000 metric tons (2020 est.)<br>
+_exports_: 0 metric tons (2020 est.)<br>
+_imports_: 74,000 metric tons (2020 est.)<br>
+_proven reserves_: 0 metric tons (2019 est.)<br>
 
 **Petroleum**<br>
-_Total petroleum production_: 0 bbl/day (2021 est.)<br>
-_Refined petroleum consumption_: 63,900 bbl/day (2019 est.)<br>
-_Crude oil and lease condensate exports_: 0 barrels/day (2018 est.)<br>
-_Crude oil and lease condensate imports_: 0 barrels/day (2018 est.)<br>
-_Crude oil estimated reserves_: 0 barrels (2021 est.)<br>
+_total petroleum production_: 0 bbl/day (2021 est.)<br>
+_refined petroleum consumption_: 63,900 bbl/day (2019 est.)<br>
+_crude oil and lease condensate exports_: 0 barrels/day (2018 est.)<br>
+_crude oil and lease condensate imports_: 0 barrels/day (2018 est.)<br>
+_crude oil estimated reserves_: 0 barrels (2021 est.)<br>
 
 **Refined petroleum products - production**<br>
 0 bbl/day (2017 est.)<br>
@@ -572,17 +572,17 @@ _Crude oil estimated reserves_: 0 barrels (2021 est.)<br>
 59,020 bbl/day (2017 est.)<br>
 
 **Natural gas**<br>
-_Production_: 0 cubic meters (2021 est.)<br>
-_Consumption_: 776.022 million cubic meters (2019 est.)<br>
-_Exports_: 0 cubic meters (2021 est.)<br>
-_Imports_: 772.624 million cubic meters (2019 est.)<br>
-_Proven reserves_: 0 cubic meters (2021 est.)<br>
+_production_: 0 cubic meters (2021 est.)<br>
+_consumption_: 776.022 million cubic meters (2019 est.)<br>
+_exports_: 0 cubic meters (2021 est.)<br>
+_imports_: 772.624 million cubic meters (2019 est.)<br>
+_proven reserves_: 0 cubic meters (2021 est.)<br>
 
 **Carbon dioxide emissions**<br>
-_Total emissions_: 11.308 million metric tonnes of CO2 (2019 est.)<br>
-_From coal and metallurgical coke_: 149,000 metric tonnes of CO2 (2019 est.)<br>
-_From petroleum and other liquids_: 9.564 million metric tonnes of CO2 (2019 est.)<br>
-_From consumed natural gas_: 1.594 million metric tonnes of CO2 (2019 est.)<br>
+_total emissions_: 11.308 million metric tonnes of CO2 (2019 est.)<br>
+_from coal and metallurgical coke_: 149,000 metric tonnes of CO2 (2019 est.)<br>
+_from petroleum and other liquids_: 9.564 million metric tonnes of CO2 (2019 est.)<br>
+_from consumed natural gas_: 1.594 million metric tonnes of CO2 (2019 est.)<br>
 
 **Energy consumption per capita**<br>
 _Total energy consumption per capita 2019_: 310.068 million Btu/person (2019 est.)<br>
@@ -675,7 +675,7 @@ Luxembourg Army (l'Arm&eacute;e Luxembourgeoise) (2022)<br>
 0.5% of GDP (2017) (approximately $370 million)<br>
 
 **Military and security service personnel strengths**<br>
-the Luxembourg Army has approximately 800 active personnel (2021)<br>
+approximately 900 active personnel (2022)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the inventory of Luxembourg's Army is a small mix of Western-origin equipment; since 2010, it has received equipment from several European countries (2021)<br>
@@ -693,6 +693,6 @@ Luxembourg is a member of NATO and was one of the original 12 countries to sign 
 <p>none identified</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 5,984 (Ukraine) (as of 26 July 2022)<br>
+_refugees (country of origin)_: 5,984 (Ukraine) (as of 3 August 2022)<br>
 _stateless persons_: 194 (mid-year 2021)<br>
 

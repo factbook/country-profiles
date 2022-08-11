@@ -367,7 +367,7 @@ _judge selection and term of office_: Federal Court of Justice judges selected b
 _subordinate courts_: Federal Administrative Court; Federal Finance Court; Federal Labor Court; Federal Social Court; each of the 16 federated states or Land has its own constitutional court and a hierarchy of ordinary (civil, criminal, family) and specialized (administrative, finance, labor, social) courts; two English-speaking commercial courts opened in late 2020 in the state of Baden-Wuerttemberg - English-speaking Stuttgart Commercial Court and English-speaking Mannheim Commercial Court<br>
 
 **Political parties and leaders**<br>
-Alliance '90/Greens [Annalena BAERBOCK and Robert HABECK]<br>Alternative for Germany or AfD [Alexander GAULAND - Honorary Chairman, Joerg MEUTHEN and Tino CHRUPALLA]<br>Christian Democratic Union or CDU [Armin LASCHET]<br>Christian Social Union or CSU [Markus SOEDER]<br>Free Democratic Party or FDP [Christian LINDNER]<br>Free Voters [Hubert AIWANGER]<br>The Left or Die Linke [Janine WISSLER]<br>Social Democratic Party or SPD [Saskia ESKEN and Norbert WALTER-BORJANS]<br>
+Alliance '90/Greens [Ricarda LANG and Omid NOURIPOUR]<br>Alternative for Germany or AfD [Alice WEIDEL and Tino CHRUPALLA]<br>Christian Democratic Union or CDU [Friedrich MERZ]<br>Christian Social Union or CSU [Markus SOEDER]<br>Free Democratic Party or FDP [Christian LINDNER]<br>Free Voters [Hubert AIWANGER]<br>The Left or Die Linke [Janine WISSLER and Martin SCHIRDEWAN]<br>Social Democratic Party or SPD [Saskia ESKEN and Lars KLINGBEIL]<br>
 
 **International organization participation**<br>
 ADB (nonregional member), AfDB (nonregional member), Arctic Council (observer), Australia Group, BIS, BSEC (observer), CBSS, CD, CDB, CE, CERN, EAPC, EBRD, ECB, EIB, EITI (implementing country), EMU, ESA, EU, FAO, FATF, G-5, G-7, G-8, G-10, G-20, IADB, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IEA, IFAD, IFC, IFRCS, IGAD (partners), IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, MINURSO, MINUSMA, NATO, NEA, NSG, OAS (observer), OECD, OPCW, OSCE, Pacific Alliance (observer), Paris Club, PCA, Schengen Convention, SELEC (observer), SICA (observer), UN, UNAMID, UNCTAD, UNESCO, UNHCR, UNIDO, UNIFIL, UNMISS, UNRWA, UNSOM, UNWTO, UPU, Wassenaar Arrangement, WCO, WHO, WIPO, WMO, WTO, ZC<br>
@@ -556,35 +556,35 @@ _Currency_: euros (EUR) per US dollar -<br>
 _electrification - total population_: 100% (2020)<br>
 
 **Electricity**<br>
-_Installed generating capacity_: 248.265 million kW (2020 est.)<br>
-_Consumption_: 500,350,034,000 kWh (2020 est.)<br>
-_Exports_: 66.931 billion kWh (2020 est.)<br>
-_Imports_: 48.047 billion kWh (2020 est.)<br>
-_Transmission/distribution losses_: 25,970,966,000 kWh (2020 est.)<br>
+_installed generating capacity_: 248.265 million kW (2020 est.)<br>
+_consumption_: 500,350,034,000 kWh (2020 est.)<br>
+_exports_: 66.931 billion kWh (2020 est.)<br>
+_imports_: 48.047 billion kWh (2020 est.)<br>
+_transmission/distribution losses_: 25,970,966,000 kWh (2020 est.)<br>
 
 **Electricity generation sources**<br>
-_Fossil fuels_: 40.5% of total installed capacity (2020 est.)<br>
-_Nuclear_: 11.1% of total installed capacity (2020 est.)<br>
-_Solar_: 9.2% of total installed capacity (2020 est.)<br>
-_Wind_: 23.9% of total installed capacity (2020 est.)<br>
-_Hydroelectricity_: 4.5% of total installed capacity (2020 est.)<br>
-_Tide and wave_: 0.2% of total installed capacity (2020 est.)<br>
-_Geothermal_: 0% of total installed capacity (2020 est.)<br>
-_Biomass and waste_: 10.4% of total installed capacity (2020 est.)<br>
+_fossil fuels_: 40.5% of total installed capacity (2020 est.)<br>
+_nuclear_: 11.1% of total installed capacity (2020 est.)<br>
+_solar_: 9.2% of total installed capacity (2020 est.)<br>
+_wind_: 23.9% of total installed capacity (2020 est.)<br>
+_hydroelectricity_: 4.5% of total installed capacity (2020 est.)<br>
+_tide and wave_: 0.2% of total installed capacity (2020 est.)<br>
+_geothermal_: 0% of total installed capacity (2020 est.)<br>
+_biomass and waste_: 10.4% of total installed capacity (2020 est.)<br>
 
 **Coal**<br>
-_Production_: 114.86 million metric tons (2020 est.)<br>
-_Consumption_: 145.379 million metric tons (2020 est.)<br>
-_Exports_: 2.317 million metric tons (2020 est.)<br>
-_Imports_: 31.503 million metric tons (2020 est.)<br>
-_Proven reserves_: 35.9 billion metric tons (2019 est.)<br>
+_production_: 114.86 million metric tons (2020 est.)<br>
+_consumption_: 145.379 million metric tons (2020 est.)<br>
+_exports_: 2.317 million metric tons (2020 est.)<br>
+_imports_: 31.503 million metric tons (2020 est.)<br>
+_proven reserves_: 35.9 billion metric tons (2019 est.)<br>
 
 **Petroleum**<br>
-_Total petroleum production_: 135,000 bbl/day (2021 est.)<br>
-_Refined petroleum consumption_: 2,346,500 bbl/day (2019 est.)<br>
-_Crude oil and lease condensate exports_: 0 barrels/day (2018 est.)<br>
-_Crude oil and lease condensate imports_: 1,720,600 barrels/day (2018 est.)<br>
-_Crude oil estimated reserves_: 115.2 million barrels (2021 est.)<br>
+_total petroleum production_: 135,000 bbl/day (2021 est.)<br>
+_refined petroleum consumption_: 2,346,500 bbl/day (2019 est.)<br>
+_crude oil and lease condensate exports_: 0 barrels/day (2018 est.)<br>
+_crude oil and lease condensate imports_: 1,720,600 barrels/day (2018 est.)<br>
+_crude oil estimated reserves_: 115.2 million barrels (2021 est.)<br>
 
 **Refined petroleum products - production**<br>
 2.158 million bbl/day (2017 est.)<br>
@@ -596,17 +596,17 @@ _Crude oil estimated reserves_: 115.2 million barrels (2021 est.)<br>
 883,800 bbl/day (2017 est.)<br>
 
 **Natural gas**<br>
-_Production_: 5,128,909,000 cubic meters (2020 est.)<br>
-_Consumption_: 87,546,767,000 cubic meters (2020 est.)<br>
-_Exports_: 0 cubic meters (2020 est.)<br>
-_Imports_: 83,121,531,000 cubic meters (2020 est.)<br>
-_Proven reserves_: 23.39 billion cubic meters (2021 est.)<br>
+_production_: 5,128,909,000 cubic meters (2020 est.)<br>
+_consumption_: 87,546,767,000 cubic meters (2020 est.)<br>
+_exports_: 0 cubic meters (2020 est.)<br>
+_imports_: 83,121,531,000 cubic meters (2020 est.)<br>
+_proven reserves_: 23.39 billion cubic meters (2021 est.)<br>
 
 **Carbon dioxide emissions**<br>
-_Total emissions_: 726.881 million metric tonnes of CO2 (2019 est.)<br>
-_From coal and metallurgical coke_: 218.636 million metric tonnes of CO2 (2019 est.)<br>
-_From petroleum and other liquids_: 316.064 million metric tonnes of CO2 (2019 est.)<br>
-_From consumed natural gas_: 192.181 million metric tonnes of CO2 (2019 est.)<br>
+_total emissions_: 726.881 million metric tonnes of CO2 (2019 est.)<br>
+_from coal and metallurgical coke_: 218.636 million metric tonnes of CO2 (2019 est.)<br>
+_from petroleum and other liquids_: 316.064 million metric tonnes of CO2 (2019 est.)<br>
+_from consumed natural gas_: 192.181 million metric tonnes of CO2 (2019 est.)<br>
 
 **Energy consumption per capita**<br>
 _Total energy consumption per capita 2019_: 161.174 million Btu/person (2019 est.)<br>
@@ -713,7 +713,7 @@ Federal Armed Forces (Bundeswehr): Army (Heer), Navy (Deutsche Marine, includes 
 1.2% of GDP (2017) (approximately $53.5 billion)<br>
 
 **Military and security service personnel strengths**<br>
-approximately 184,000 active duty personnel (63,000 Army; 16,000 Navy; 27,500 Air Force; 27,000 Joint Support Service; 20,000 Medical Service, 14,500 Cyber and Information Space Command; 15,000 other) (2022)<br>
+approximately 184,000 active duty personnel (63,000 Army; 16,000 Navy; 27,000 Air Force; 27,000 Joint Support Service; 20,000 Medical Service, 16,000 Cyber and Information Space Command; 15,000 other, including central staff, support, etc.) (2022)<br>
 <strong>note:</strong> Germany in 2020 announced it planned to increase the size of the military to about 200,000 troops by 2025<br>
 
 **Military equipment inventories and acquisitions**<br>
@@ -724,8 +724,8 @@ the German Federal Armed Forces inventory is mostly comprised of weapons systems
 <strong>note:</strong> in 2021, women accounted for about 12% of the German military<br>
 
 **Military deployments**<br>
-up to 500 Iraq (NATO); 550 Lithuania (NATO); up to 1,400 Mali (MINUSMA/EUTM) (2022)<br>
-<strong>note 1: </strong> Germany is a contributing member of the EuroCorps<br><br><strong>note 2: </strong> NATO troop deployment numbers in eastern Europe are as of February 2022; in response to Russia’s 2022 invasion of Ukraine, some NATO countries, including Germany, have sent additional troops and equipment to the battlegroups deployed in NATO territory in eastern Europe<br>
+up to 500 Iraq (NATO); 1,030 Lithuania (NATO); up to 1,400 Mali (MINUSMA/EUTM); 280 Slovakia (NATO) (2022)<br>
+<strong>note 1: </strong> Germany is a contributing member of the EuroCorps<br><br><strong>note 2: </strong>in response to Russia’s 2022 invasion of Ukraine, some NATO countries, including Germany, have sent additional troops and equipment to the battlegroups deployed in NATO territory in eastern Europe<br>
 
 **Military - note**<br>
 the Federal Republic of Germany joined NATO in May 1955; with the reunification of Germany in October 1990, the states of the former German Democratic Republic joined the Federal Republic of Germany in its membership of NATO<br><br>the German Army has incorporated a joint Franco-German mechanized infantry brigade since 1989, a Dutch airmobile infantry brigade since 2014, and a Dutch mechanized infantry brigade since 2016; in addition, the German Navy’s Sea Battalion (includes marine infantry, naval divers, reconnaissance, and security forces) has worked closely with the Dutch Marine Corps since 2016, including as a binational amphibious landing group (2022)<br>
@@ -742,7 +742,7 @@ Islamic Revolutionary Guard Corps/Qods Force; Islamic State of Iraq and ash-Sham
 <p>none</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 616,325 (Syria), 152,677 (Afghanistan), 147,400 (Iraq), 62,152 (Eritrea), 45,704 (Iran), 34,465 (Turkey), 29,137 (Somalia), 9,329 (Russia), 9,323 (Nigeria), 8,600 (Pakistan), 7,503 (Serbia and Kosovo), 6,057 (Ethiopia) (mid-year 2021); 915,000 (Ukraine) (as of 26 July 2022)<br>
+_refugees (country of origin)_: 616,325 (Syria), 152,677 (Afghanistan), 147,400 (Iraq), 62,152 (Eritrea), 45,704 (Iran), 34,465 (Turkey), 29,137 (Somalia), 9,329 (Russia), 9,323 (Nigeria), 8,600 (Pakistan), 7,503 (Serbia and Kosovo), 6,057 (Ethiopia) (mid-year 2021); 915,000 (Ukraine) (as of 3 August 2022)<br>
 _stateless persons_: 26,980 (mid-year 2021)<br>
 
 **Illicit drugs**<br>

@@ -575,35 +575,35 @@ _Currency_: reals (BRL) per US dollar -<br>
 _electrification - total population_: 100% (2020)<br>
 
 **Electricity**<br>
-_Installed generating capacity_: 195.037 million kW (2020 est.)<br>
-_Consumption_: 540,997,340,000 kWh (2020 est.)<br>
-_Exports_: 395 million kWh (2020 est.)<br>
-_Imports_: 25.113 billion kWh (2020 est.)<br>
-_Transmission/distribution losses_: 105.727 billion kWh (2020 est.)<br>
+_installed generating capacity_: 195.037 million kW (2020 est.)<br>
+_consumption_: 540,997,340,000 kWh (2020 est.)<br>
+_exports_: 395 million kWh (2020 est.)<br>
+_imports_: 25.113 billion kWh (2020 est.)<br>
+_transmission/distribution losses_: 105.727 billion kWh (2020 est.)<br>
 
 **Electricity generation sources**<br>
-_Fossil fuels_: 11.8% of total installed capacity (2020 est.)<br>
-_Nuclear_: 2.3% of total installed capacity (2020 est.)<br>
-_Solar_: 1.7% of total installed capacity (2020 est.)<br>
-_Wind_: 9.2% of total installed capacity (2020 est.)<br>
-_Hydroelectricity_: 65.8% of total installed capacity (2020 est.)<br>
-_Tide and wave_: 0% of total installed capacity (2020 est.)<br>
-_Geothermal_: 0% of total installed capacity (2020 est.)<br>
-_Biomass and waste_: 9.2% of total installed capacity (2020 est.)<br>
+_fossil fuels_: 11.8% of total installed capacity (2020 est.)<br>
+_nuclear_: 2.3% of total installed capacity (2020 est.)<br>
+_solar_: 1.7% of total installed capacity (2020 est.)<br>
+_wind_: 9.2% of total installed capacity (2020 est.)<br>
+_hydroelectricity_: 65.8% of total installed capacity (2020 est.)<br>
+_tide and wave_: 0% of total installed capacity (2020 est.)<br>
+_geothermal_: 0% of total installed capacity (2020 est.)<br>
+_biomass and waste_: 9.2% of total installed capacity (2020 est.)<br>
 
 **Coal**<br>
-_Production_: 13.993 million metric tons (2020 est.)<br>
-_Consumption_: 31.841 million metric tons (2020 est.)<br>
-_Exports_: 16,000 metric tons (2020 est.)<br>
-_Imports_: 19.217 million metric tons (2020 est.)<br>
-_Proven reserves_: 6.596 billion metric tons (2019 est.)<br>
+_production_: 13.993 million metric tons (2020 est.)<br>
+_consumption_: 31.841 million metric tons (2020 est.)<br>
+_exports_: 16,000 metric tons (2020 est.)<br>
+_imports_: 19.217 million metric tons (2020 est.)<br>
+_proven reserves_: 6.596 billion metric tons (2019 est.)<br>
 
 **Petroleum**<br>
-_Total petroleum production_: 3,629,100 bbl/day (2021 est.)<br>
-_Refined petroleum consumption_: 3,142,300 bbl/day (2019 est.)<br>
-_Crude oil and lease condensate exports_: 1,123,300 barrels/day (2018 est.)<br>
-_Crude oil and lease condensate imports_: 186,200 barrels/day (2018 est.)<br>
-_Crude oil estimated reserves_: 12,714,600,000 barrels (2021 est.)<br>
+_total petroleum production_: 3,629,100 bbl/day (2021 est.)<br>
+_refined petroleum consumption_: 3,142,300 bbl/day (2019 est.)<br>
+_crude oil and lease condensate exports_: 1,123,300 barrels/day (2018 est.)<br>
+_crude oil and lease condensate imports_: 186,200 barrels/day (2018 est.)<br>
+_crude oil estimated reserves_: 12,714,600,000 barrels (2021 est.)<br>
 
 **Refined petroleum products - production**<br>
 2.811 million bbl/day (2015 est.)<br>
@@ -615,17 +615,17 @@ _Crude oil estimated reserves_: 12,714,600,000 barrels (2021 est.)<br>
 490,400 bbl/day (2015 est.)<br>
 
 **Natural gas**<br>
-_Production_: 25,395,979,000 cubic meters (2019 est.)<br>
-_Consumption_: 35,253,198,000 cubic meters (2019 est.)<br>
-_Exports_: 0 cubic meters (2021 est.)<br>
-_Imports_: 9,724,017,000 cubic meters (2019 est.)<br>
-_Proven reserves_: 363.984 billion cubic meters (2021 est.)<br>
+_production_: 25,395,979,000 cubic meters (2019 est.)<br>
+_consumption_: 35,253,198,000 cubic meters (2019 est.)<br>
+_exports_: 0 cubic meters (2021 est.)<br>
+_imports_: 9,724,017,000 cubic meters (2019 est.)<br>
+_proven reserves_: 363.984 billion cubic meters (2021 est.)<br>
 
 **Carbon dioxide emissions**<br>
-_Total emissions_: 456.67 million metric tonnes of CO2 (2019 est.)<br>
-_From coal and metallurgical coke_: 63.53 million metric tonnes of CO2 (2019 est.)<br>
-_From petroleum and other liquids_: 328.824 million metric tonnes of CO2 (2019 est.)<br>
-_From consumed natural gas_: 64.316 million metric tonnes of CO2 (2019 est.)<br>
+_total emissions_: 456.67 million metric tonnes of CO2 (2019 est.)<br>
+_from coal and metallurgical coke_: 63.53 million metric tonnes of CO2 (2019 est.)<br>
+_from petroleum and other liquids_: 328.824 million metric tonnes of CO2 (2019 est.)<br>
+_from consumed natural gas_: 64.316 million metric tonnes of CO2 (2019 est.)<br>
 
 **Energy consumption per capita**<br>
 _Total energy consumption per capita 2019_: 59.444 million Btu/person (2019 est.)<br>
@@ -734,7 +734,7 @@ Brazilian Armed Forces: Brazilian Army (Exercito Brasileiro, EB), Brazilian Navy
 1.4% of GDP (2017) (approximately $34.4 billion)<br>
 
 **Military and security service personnel strengths**<br>
-approximately 360,000 active personnel (220,000 Army; 70,000 Navy; 70,000 Air Force) (2022)<br>
+approximately 360,000 active military personnel (220,000 Army; 70,000 Navy; 70,000 Air Force) (2022)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the Brazilian military's inventory consists of a mix of domestically-produced and imported weapons, largely from Europe and the US; since 2010, the US and several European countries are the leading suppliers of military equipment to Brazil; Brazil's defense industry is capable of designing and manufacturing equipment for all three military services and for export; it also jointly produces equipment with other countries (2022)<br>

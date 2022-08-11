@@ -543,35 +543,35 @@ _Currency_: Iranian rials (IRR) per US dollar -<br>
 _electrification - total population_: 100% (2020)<br>
 
 **Electricity**<br>
-_Installed generating capacity_: 80.553 million kW (2020 est.)<br>
-_Consumption_: 279,826,390,000 kWh (2019 est.)<br>
-_Exports_: 6.365 billion kWh (2019 est.)<br>
-_Imports_: 2.738 billion kWh (2019 est.)<br>
-_Transmission/distribution losses_: 34.303 billion kWh (2019 est.)<br>
+_installed generating capacity_: 80.553 million kW (2020 est.)<br>
+_consumption_: 279,826,390,000 kWh (2019 est.)<br>
+_exports_: 6.365 billion kWh (2019 est.)<br>
+_imports_: 2.738 billion kWh (2019 est.)<br>
+_transmission/distribution losses_: 34.303 billion kWh (2019 est.)<br>
 
 **Electricity generation sources**<br>
-_Fossil fuels_: 88.7% of total installed capacity (2020 est.)<br>
-_Nuclear_: 1.9% of total installed capacity (2020 est.)<br>
-_Solar_: 0.1% of total installed capacity (2020 est.)<br>
-_Wind_: 0.2% of total installed capacity (2020 est.)<br>
-_Hydroelectricity_: 9.1% of total installed capacity (2020 est.)<br>
-_Tide and wave_: 0% of total installed capacity (2020 est.)<br>
-_Geothermal_: 0% of total installed capacity (2020 est.)<br>
-_Biomass and waste_: 0% of total installed capacity (2020 est.)<br>
+_fossil fuels_: 88.7% of total installed capacity (2020 est.)<br>
+_nuclear_: 1.9% of total installed capacity (2020 est.)<br>
+_solar_: 0.1% of total installed capacity (2020 est.)<br>
+_wind_: 0.2% of total installed capacity (2020 est.)<br>
+_hydroelectricity_: 9.1% of total installed capacity (2020 est.)<br>
+_tide and wave_: 0% of total installed capacity (2020 est.)<br>
+_geothermal_: 0% of total installed capacity (2020 est.)<br>
+_biomass and waste_: 0% of total installed capacity (2020 est.)<br>
 
 **Coal**<br>
-_Production_: 2.783 million metric tons (2020 est.)<br>
-_Consumption_: 2.794 million metric tons (2020 est.)<br>
-_Exports_: 76,000 metric tons (2020 est.)<br>
-_Imports_: 87,000 metric tons (2020 est.)<br>
-_Proven reserves_: 1.203 billion metric tons (2019 est.)<br>
+_production_: 2.783 million metric tons (2020 est.)<br>
+_consumption_: 2.794 million metric tons (2020 est.)<br>
+_exports_: 76,000 metric tons (2020 est.)<br>
+_imports_: 87,000 metric tons (2020 est.)<br>
+_proven reserves_: 1.203 billion metric tons (2019 est.)<br>
 
 **Petroleum**<br>
-_Total petroleum production_: 3,450,300 bbl/day (2021 est.)<br>
-_Refined petroleum consumption_: 1.934 million bbl/day (2019 est.)<br>
-_Crude oil and lease condensate exports_: 2,230,900 barrels/day (2018 est.)<br>
-_Crude oil and lease condensate imports_: 33,500 barrels/day (2018 est.)<br>
-_Crude oil estimated reserves_: 208.6 billion barrels (2021 est.)<br>
+_total petroleum production_: 3,450,300 bbl/day (2021 est.)<br>
+_refined petroleum consumption_: 1.934 million bbl/day (2019 est.)<br>
+_crude oil and lease condensate exports_: 2,230,900 barrels/day (2018 est.)<br>
+_crude oil and lease condensate imports_: 33,500 barrels/day (2018 est.)<br>
+_crude oil estimated reserves_: 208.6 billion barrels (2021 est.)<br>
 
 **Refined petroleum products - production**<br>
 1.764 million bbl/day (2015 est.)<br>
@@ -583,17 +583,17 @@ _Crude oil estimated reserves_: 208.6 billion barrels (2021 est.)<br>
 64,160 bbl/day (2015 est.)<br>
 
 **Natural gas**<br>
-_Production_: 237,561,415,000 cubic meters (2019 est.)<br>
-_Consumption_: 220,704,282,000 cubic meters (2019 est.)<br>
-_Exports_: 17,607,046,000 cubic meters (2019 est.)<br>
-_Imports_: 1,153,457,000 cubic meters (2019 est.)<br>
-_Proven reserves_: 33,987,296,000,000 cubic meters (2021 est.)<br>
+_production_: 237,561,415,000 cubic meters (2019 est.)<br>
+_consumption_: 220,704,282,000 cubic meters (2019 est.)<br>
+_exports_: 17,607,046,000 cubic meters (2019 est.)<br>
+_imports_: 1,153,457,000 cubic meters (2019 est.)<br>
+_proven reserves_: 33,987,296,000,000 cubic meters (2021 est.)<br>
 
 **Carbon dioxide emissions**<br>
-_Total emissions_: 646.038 million metric tonnes of CO2 (2019 est.)<br>
-_From coal and metallurgical coke_: 5.142 million metric tonnes of CO2 (2019 est.)<br>
-_From petroleum and other liquids_: 204.21 million metric tonnes of CO2 (2019 est.)<br>
-_From consumed natural gas_: 436.687 million metric tonnes of CO2 (2019 est.)<br>
+_total emissions_: 646.038 million metric tonnes of CO2 (2019 est.)<br>
+_from coal and metallurgical coke_: 5.142 million metric tonnes of CO2 (2019 est.)<br>
+_from petroleum and other liquids_: 204.21 million metric tonnes of CO2 (2019 est.)<br>
+_from consumed natural gas_: 436.687 million metric tonnes of CO2 (2019 est.)<br>
 
 **Energy consumption per capita**<br>
 _Total energy consumption per capita 2019_: 145.54 million Btu/person (2019 est.)<br>
@@ -721,7 +721,7 @@ estimated 1-3,000 Syria (2022)<br>
 ## Terrorism
 
 **Terrorist group(s)**<br>
-Islamic Revolutionary Guard Corps (IRGC)/Qods Force; Jaysh al Adl (Jundallah); Kurdistan Workers' Party (PKK); al-Qa’ida<br>
+Islamic Revolutionary Guard Corps (IRGC)/Qods Force; Islamic State of Iraq and ash-Sham (ISIS); Jaysh al Adl (Jundallah); Kurdistan Workers' Party (PKK); al-Qa’ida<br>
 <strong>note:</strong> details about the history, aims, leadership, organization, areas of operation, tactics, targets, weapons, size, and sources of support of the group(s) appear(s) in Appendix-T<br>
 
 ## Transnational Issues

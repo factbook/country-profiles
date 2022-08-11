@@ -335,7 +335,7 @@ Republic Day, 29 October (1923)<br>
 
 **Constitution**<br>
 _history_: several previous; latest ratified 9 November 1982<br>
-_amendments_: proposed by written consent of at least one third of Grand National Assembly of Turkey (TBMM) members; adoption of draft amendments requires two debates in plenary TBMM session and three-fifths majority vote of all GNA members; the president of the republic can request TBMM reconsideration of the amendment and, if readopted by two-thirds majority TBMM vote, the president may submit the amendment to a referendum; passage by referendum requires absolute majority vote; amended several times, last in 2017<br>
+_amendments_: proposed by written consent of at least one third of Grand National Assembly (GNA) of Turkey (TBMM) members; adoption of draft amendments requires two debates in plenary TBMM session and three-fifths majority vote of all GNA members; the president of the republic can request TBMM reconsideration of the amendment and, if readopted by two-thirds majority TBMM vote, the president may submit the amendment to a referendum; passage by referendum requires absolute majority vote; amended several times, last in 2017<br>
 
 **Legal system**<br>
 civil law system based on various European legal systems, notably the Swiss civil code<br>
@@ -560,35 +560,35 @@ _Currency_: Turkish liras (TRY) per US dollar -<br>
 _electrification - total population_: 100% (2020)<br>
 
 **Electricity**<br>
-_Installed generating capacity_: 96.846 million kW (2020 est.)<br>
-_Consumption_: 263.952 billion kWh (2020 est.)<br>
-_Exports_: 2.484 billion kWh (2020 est.)<br>
-_Imports_: 1.888 billion kWh (2020 est.)<br>
-_Transmission/distribution losses_: 29.275 billion kWh (2020 est.)<br>
+_installed generating capacity_: 96.846 million kW (2020 est.)<br>
+_consumption_: 263.952 billion kWh (2020 est.)<br>
+_exports_: 2.484 billion kWh (2020 est.)<br>
+_imports_: 1.888 billion kWh (2020 est.)<br>
+_transmission/distribution losses_: 29.275 billion kWh (2020 est.)<br>
 
 **Electricity generation sources**<br>
-_Fossil fuels_: 56.2% of total installed capacity (2020 est.)<br>
-_Nuclear_: 0% of total installed capacity (2020 est.)<br>
-_Solar_: 3.8% of total installed capacity (2020 est.)<br>
-_Wind_: 8.4% of total installed capacity (2020 est.)<br>
-_Hydroelectricity_: 26.3% of total installed capacity (2020 est.)<br>
-_Tide and wave_: 0.4% of total installed capacity (2020 est.)<br>
-_Geothermal_: 3.4% of total installed capacity (2020 est.)<br>
-_Biomass and waste_: 1.5% of total installed capacity (2020 est.)<br>
+_fossil fuels_: 56.2% of total installed capacity (2020 est.)<br>
+_nuclear_: 0% of total installed capacity (2020 est.)<br>
+_solar_: 3.8% of total installed capacity (2020 est.)<br>
+_wind_: 8.4% of total installed capacity (2020 est.)<br>
+_hydroelectricity_: 26.3% of total installed capacity (2020 est.)<br>
+_tide and wave_: 0.4% of total installed capacity (2020 est.)<br>
+_geothermal_: 3.4% of total installed capacity (2020 est.)<br>
+_biomass and waste_: 1.5% of total installed capacity (2020 est.)<br>
 
 **Coal**<br>
-_Production_: 78.871 million metric tons (2020 est.)<br>
-_Consumption_: 108.271 million metric tons (2020 est.)<br>
-_Exports_: 54,000 metric tons (2020 est.)<br>
-_Imports_: 40.919 million metric tons (2020 est.)<br>
-_Proven reserves_: 11.525 billion metric tons (2019 est.)<br>
+_production_: 78.871 million metric tons (2020 est.)<br>
+_consumption_: 108.271 million metric tons (2020 est.)<br>
+_exports_: 54,000 metric tons (2020 est.)<br>
+_imports_: 40.919 million metric tons (2020 est.)<br>
+_proven reserves_: 11.525 billion metric tons (2019 est.)<br>
 
 **Petroleum**<br>
-_Total petroleum production_: 70,300 bbl/day (2021 est.)<br>
-_Refined petroleum consumption_: 987,300 bbl/day (2019 est.)<br>
-_Crude oil and lease condensate exports_: 0 barrels/day (2018 est.)<br>
-_Crude oil and lease condensate imports_: 423,500 barrels/day (2018 est.)<br>
-_Crude oil estimated reserves_: 366 million barrels (2021 est.)<br>
+_total petroleum production_: 70,300 bbl/day (2021 est.)<br>
+_refined petroleum consumption_: 987,300 bbl/day (2019 est.)<br>
+_crude oil and lease condensate exports_: 0 barrels/day (2018 est.)<br>
+_crude oil and lease condensate imports_: 423,500 barrels/day (2018 est.)<br>
+_crude oil estimated reserves_: 366 million barrels (2021 est.)<br>
 
 **Refined petroleum products - production**<br>
 657,900 bbl/day (2017 est.)<br>
@@ -600,17 +600,17 @@ _Crude oil estimated reserves_: 366 million barrels (2021 est.)<br>
 560,000 bbl/day (2017 est.)<br>
 
 **Natural gas**<br>
-_Production_: 469.464 million cubic meters (2019 est.)<br>
-_Consumption_: 44,605,473,000 cubic meters (2019 est.)<br>
-_Exports_: 759.372 million cubic meters (2019 est.)<br>
-_Imports_: 45,091,248,000 cubic meters (2019 est.)<br>
-_Proven reserves_: 3.794 billion cubic meters (2021 est.)<br>
+_production_: 469.464 million cubic meters (2019 est.)<br>
+_consumption_: 44,605,473,000 cubic meters (2019 est.)<br>
+_exports_: 759.372 million cubic meters (2019 est.)<br>
+_imports_: 45,091,248,000 cubic meters (2019 est.)<br>
+_proven reserves_: 3.794 billion cubic meters (2021 est.)<br>
 
 **Carbon dioxide emissions**<br>
-_Total emissions_: 391.792 million metric tonnes of CO2 (2019 est.)<br>
-_From coal and metallurgical coke_: 172.298 million metric tonnes of CO2 (2019 est.)<br>
-_From petroleum and other liquids_: 133.587 million metric tonnes of CO2 (2019 est.)<br>
-_From consumed natural gas_: 85.907 million metric tonnes of CO2 (2019 est.)<br>
+_total emissions_: 391.792 million metric tonnes of CO2 (2019 est.)<br>
+_from coal and metallurgical coke_: 172.298 million metric tonnes of CO2 (2019 est.)<br>
+_from petroleum and other liquids_: 133.587 million metric tonnes of CO2 (2019 est.)<br>
+_from consumed natural gas_: 85.907 million metric tonnes of CO2 (2019 est.)<br>
 
 **Energy consumption per capita**<br>
 _Total energy consumption per capita 2019_: 79.126 million Btu/person (2019 est.)<br>
@@ -714,7 +714,7 @@ Turkish Armed Forces (TSK): Turkish Land Forces (Turk Kara Kuvvetleri), Turkish 
 1.5% of GDP (2017) (approximately $32.8 billion)<br>
 
 **Military and security service personnel strengths**<br>
-approximately 440,000 active duty personnel (345,000 Army; 45,000 Navy; 50,000 Air Force); approximately 150,000 Gendarmerie (2021)<br>
+approximately 445,000 active duty personnel (350,000 Army; 45,000 Navy; 50,000 Air Force); approximately 150,000 Gendarmerie (2022)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the Turkish Armed Forces inventory is mostly comprised of a mix of domestically-produced and Western weapons systems, although in recent years, Turkey has also acquired some Chinese, Russian, and South Korean equipment; since 2010, the US is the leading provider of armaments to Turkey, followed by Italy, South Korea, and Spain; Turkey has a robust defense industry capable of producing a range of weapons systems for both export and internal use, including armored vehicles, naval vessels, and unmanned aerial platforms, although it is heavily dependent on Western technology; Turkey's defense industry also partners with other countries for defense production (2021)<br>
@@ -724,7 +724,7 @@ mandatory military service for men, age 20-41; service can be delayed if in univ
 <strong>note 1:</strong> in 2019, a new law cut the men’s mandatory military service period in half, as well as making paid military service permanent; with the new system, the period of conscription was reduced from 12 months to six months for privates and non-commissioned soldiers (the service term for reserve officers chosen among university or college graduates remained 12 months); after completing six months of service, if a conscripted soldier wants to and is suitable for extending his military service, he may do so for an additional six months in return for a monthly salary; under the new law, all male Turkish citizens over the age of 20 are required to undergo a one month military training period, but they can obtain an exemption from the remaining five months of their mandatory service by paying 31,000 Turkish Liras<br><strong><br>note 2:</strong> as of 2019, women made up about .3% of the military's full-time personnel<br>
 
 **Military deployments**<br>
-approximately 150 (Azerbaijan; monitoring cease-fire, clearing mines); 250 Bosnia-Herzegovina (EUFOR); approximately 30,000 Cyprus; up to approximately 4,000 Iraq; 300 Kosovo (NATO/KFOR); 100 Lebanon (UNIFIL); estimated 500 Libya; approximately 3,000 Qatar; approximately 200 Somalia (training mission); estimated 5,000-10,000 Syria (2022)<br>
+approximately 150 (Azerbaijan; monitoring cease-fire, clearing mines); 250 Bosnia-Herzegovina (EUFOR); approximately 30,000 Cyprus; up to approximately 4,000 Iraq; 300 Kosovo (NATO/KFOR); 110 Lebanon (UNIFIL); estimated 500 Libya; approximately 3,000 Qatar; approximately 200 Somalia (training mission); estimated 5,000-10,000 Syria (2022)<br>
 <strong>note 1:</strong> between 2016 and 2020, Turkey conducted four major military campaigns in northern Syria; Turkey also has deployed troops into northern Iraq on numerous occasions to combat the Kurdistan Worker's Party (PKK), including large operations involving thousands of troops in 2007, 2011, and 2018, and smaller-scale incursions in 2021 and 2022; in October of 2021, Turkey’s parliament extended the military’s mandate to launch cross-border operations in Iraq and Syria by two more years<br><br><strong>note 2:</strong> in 2020, Turkey deployed hundreds of Turkish troops and as many as 5,000 Syrian fighters to Libya to support the Libyan Government of National Accord<br>
 
 **Military - note**<br>

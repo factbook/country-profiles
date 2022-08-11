@@ -394,14 +394,14 @@ _electrification - urban areas_: 96% (2019)<br>
 _electrification - rural areas_: 85% (2019)<br>
 
 **Electricity generation sources**<br>
-_Fossil fuels_: 60.6% of total installed capacity (2020 est.)<br>
-_Nuclear_: 10.3% of total installed capacity (2020 est.)<br>
-_Solar_: 3.3% of total installed capacity (2020 est.)<br>
-_Wind_: 6.2% of total installed capacity (2020 est.)<br>
-_Hydroelectricity_: 17% of total installed capacity (2020 est.)<br>
-_Tide and wave_: 0% of total installed capacity (2020 est.)<br>
-_Geothermal_: 0.4% of total installed capacity (2020 est.)<br>
-_Biomass and waste_: 2.4% of total installed capacity (2020 est.)<br>
+_fossil fuels_: 60.6% of total installed capacity (2020 est.)<br>
+_nuclear_: 10.3% of total installed capacity (2020 est.)<br>
+_solar_: 3.3% of total installed capacity (2020 est.)<br>
+_wind_: 6.2% of total installed capacity (2020 est.)<br>
+_hydroelectricity_: 17% of total installed capacity (2020 est.)<br>
+_tide and wave_: 0% of total installed capacity (2020 est.)<br>
+_geothermal_: 0.4% of total installed capacity (2020 est.)<br>
+_biomass and waste_: 2.4% of total installed capacity (2020 est.)<br>
 
 **Refined petroleum products - production**<br>
 88.4 million bbl/day (2014 est.)<br>
@@ -413,10 +413,10 @@ _Biomass and waste_: 2.4% of total installed capacity (2020 est.)<br>
 28.62 million bbl/day (2014 est.)<br>
 
 **Carbon dioxide emissions**<br>
-_Total emissions_: 35,551,713,000 metric tonnes of CO2 (2019 est.)<br>
-_From coal and metallurgical coke_: 15,587,834,000 metric tonnes of CO2 (2019 est.)<br>
-_From petroleum and other liquids_: 12,195,793,000 metric tonnes of CO2 (2019 est.)<br>
-_From consumed natural gas_: 7,768,086,000 metric tonnes of CO2 (2019 est.)<br>
+_total emissions_: 35,551,713,000 metric tonnes of CO2 (2019 est.)<br>
+_from coal and metallurgical coke_: 15,587,834,000 metric tonnes of CO2 (2019 est.)<br>
+_from petroleum and other liquids_: 12,195,793,000 metric tonnes of CO2 (2019 est.)<br>
+_from consumed natural gas_: 7,768,086,000 metric tonnes of CO2 (2019 est.)<br>
 
 ## Communications
 

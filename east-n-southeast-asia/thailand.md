@@ -566,35 +566,35 @@ _Currency_: baht per US dollar -<br>
 _electrification - total population_: 100% (2020)<br>
 
 **Electricity**<br>
-_Installed generating capacity_: 53.13 million kW (2020 est.)<br>
-_Consumption_: 190,569,262,000 kWh (2019 est.)<br>
-_Exports_: 2,617,583,000 kWh (2020 est.)<br>
-_Imports_: 29,550,571,000 kWh (2020 est.)<br>
-_Transmission/distribution losses_: 13.286 billion kWh (2019 est.)<br>
+_installed generating capacity_: 53.13 million kW (2020 est.)<br>
+_consumption_: 190,569,262,000 kWh (2019 est.)<br>
+_exports_: 2,617,583,000 kWh (2020 est.)<br>
+_imports_: 29,550,571,000 kWh (2020 est.)<br>
+_transmission/distribution losses_: 13.286 billion kWh (2019 est.)<br>
 
 **Electricity generation sources**<br>
-_Fossil fuels_: 83.3% of total installed capacity (2020 est.)<br>
-_Nuclear_: 0% of total installed capacity (2020 est.)<br>
-_Solar_: 2.8% of total installed capacity (2020 est.)<br>
-_Wind_: 1.7% of total installed capacity (2020 est.)<br>
-_Hydroelectricity_: 2.6% of total installed capacity (2020 est.)<br>
-_Tide and wave_: 0% of total installed capacity (2020 est.)<br>
-_Geothermal_: 0% of total installed capacity (2020 est.)<br>
-_Biomass and waste_: 9.6% of total installed capacity (2020 est.)<br>
+_fossil fuels_: 83.3% of total installed capacity (2020 est.)<br>
+_nuclear_: 0% of total installed capacity (2020 est.)<br>
+_solar_: 2.8% of total installed capacity (2020 est.)<br>
+_wind_: 1.7% of total installed capacity (2020 est.)<br>
+_hydroelectricity_: 2.6% of total installed capacity (2020 est.)<br>
+_tide and wave_: 0% of total installed capacity (2020 est.)<br>
+_geothermal_: 0% of total installed capacity (2020 est.)<br>
+_biomass and waste_: 9.6% of total installed capacity (2020 est.)<br>
 
 **Coal**<br>
-_Production_: 13.251 million metric tons (2020 est.)<br>
-_Consumption_: 35.761 million metric tons (2020 est.)<br>
-_Exports_: 63,000 metric tons (2020 est.)<br>
-_Imports_: 23.899 million metric tons (2020 est.)<br>
-_Proven reserves_: 1.063 billion metric tons (2019 est.)<br>
+_production_: 13.251 million metric tons (2020 est.)<br>
+_consumption_: 35.761 million metric tons (2020 est.)<br>
+_exports_: 63,000 metric tons (2020 est.)<br>
+_imports_: 23.899 million metric tons (2020 est.)<br>
+_proven reserves_: 1.063 billion metric tons (2019 est.)<br>
 
 **Petroleum**<br>
-_Total petroleum production_: 438,200 bbl/day (2021 est.)<br>
-_Refined petroleum consumption_: 1,284,800 bbl/day (2019 est.)<br>
-_Crude oil and lease condensate exports_: 28,600 barrels/day (2018 est.)<br>
-_Crude oil and lease condensate imports_: 979,800 barrels/day (2018 est.)<br>
-_Crude oil estimated reserves_: 252.8 million barrels (2021 est.)<br>
+_total petroleum production_: 438,200 bbl/day (2021 est.)<br>
+_refined petroleum consumption_: 1,284,800 bbl/day (2019 est.)<br>
+_crude oil and lease condensate exports_: 28,600 barrels/day (2018 est.)<br>
+_crude oil and lease condensate imports_: 979,800 barrels/day (2018 est.)<br>
+_crude oil estimated reserves_: 252.8 million barrels (2021 est.)<br>
 
 **Refined petroleum products - production**<br>
 1.328 million bbl/day (2015 est.)<br>
@@ -606,17 +606,17 @@ _Crude oil estimated reserves_: 252.8 million barrels (2021 est.)<br>
 134,200 bbl/day (2015 est.)<br>
 
 **Natural gas**<br>
-_Production_: 38,420,517,000 cubic meters (2019 est.)<br>
-_Consumption_: 54,802,466,000 cubic meters (2019 est.)<br>
-_Exports_: 0 cubic meters (2021 est.)<br>
-_Imports_: 14,944,842,000 cubic meters (2019 est.)<br>
-_Proven reserves_: 138.243 billion cubic meters (2021 est.)<br>
+_production_: 38,420,517,000 cubic meters (2019 est.)<br>
+_consumption_: 54,802,466,000 cubic meters (2019 est.)<br>
+_exports_: 0 cubic meters (2021 est.)<br>
+_imports_: 14,944,842,000 cubic meters (2019 est.)<br>
+_proven reserves_: 138.243 billion cubic meters (2021 est.)<br>
 
 **Carbon dioxide emissions**<br>
-_Total emissions_: 305.273 million metric tonnes of CO2 (2019 est.)<br>
-_From coal and metallurgical coke_: 58.78 million metric tonnes of CO2 (2019 est.)<br>
-_From petroleum and other liquids_: 146.172 million metric tonnes of CO2 (2019 est.)<br>
-_From consumed natural gas_: 100.321 million metric tonnes of CO2 (2019 est.)<br>
+_total emissions_: 305.273 million metric tonnes of CO2 (2019 est.)<br>
+_from coal and metallurgical coke_: 58.78 million metric tonnes of CO2 (2019 est.)<br>
+_from petroleum and other liquids_: 146.172 million metric tonnes of CO2 (2019 est.)<br>
+_from consumed natural gas_: 100.321 million metric tonnes of CO2 (2019 est.)<br>
 
 **Energy consumption per capita**<br>
 _Total energy consumption per capita 2019_: 76.714 million Btu/person (2019 est.)<br>
@@ -720,7 +720,7 @@ Royal Thai Armed Forces (Kongthap Thai, RTARF): Royal Thai Army (Kongthap Bok Th
 1.4% of GDP (2017) (approximately $13.8 billion)<br>
 
 **Military and security service personnel strengths**<br>
-estimates vary widely; approximately 300,000 active duty personnel (200,000 Army; 70,000 Navy; 30,000 Air Force); est. 20,000 Thai Rangers; est. 5,000 Internal Security Operations Command (2021)<br>
+estimates vary widely; approximately 300,000 active duty personnel (200,000 Army; 70,000 Navy; 30,000 Air Force); estimated 20,000 Thai Rangers; estimated 5,000 Internal Security Operations Command personnel (2022)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the RTARF has a diverse array of foreign-supplied weapons systems, including a large amount of obsolescent or second-hand US equipment; since 2010, Thailand has received military equipment from nearly 20 countries with China, South Korea, Sweden, Ukraine, and the US as the leading suppliers (2021)<br>
@@ -730,7 +730,7 @@ the RTARF has a diverse array of foreign-supplied weapons systems, including a l
 <strong>note 1:</strong> information varies, but conscripts reportedly comprise as much as 50% of the RTARF; around 100,000 males are drafted each year<br><br><strong>note 2:</strong> as of 2020, women comprised about 8% of active military personnel<br>
 
 **Military deployments**<br>
-275 South Sudan (UNMISS) (Feb 2022)<br>
+280 South Sudan (UNMISS) (May 2022)<br>
 
 **Military - note**<br>
 including the most recent in 2014, the military has attempted more than 20 coups since the fall of absolute monarchy in 1932<br><br>since 2004, the military has fought against separatist insurgents in the southern provinces of Pattani, Yala, and Narathiwat, as well as parts of Songkhla; the insurgency is rooted in ethnic Malay nationalist resistance to Thai rule that followed the extension of Siamese sovereignty over the Patani Sultanate in the 18th century; the insurgency consists of several armed groups, the largest of which is the Barisan Revolusi Nasional-Koordinasi (BRN-C): since 2020, the Thai military has been negotiating with BRN, and has parallel talks with an umbrella organization, MARA Pattani, that claims to represent the insurgency groups; since 2004, the fighting has claimed more than 7,000 lives (as of early 2022); as of 2021, at least 70,000 military, paramilitary, and government-backed militia forces were estimated to be deployed in the south to combat the insurgency<br><br>Thailand has Major Non-NATO Ally (MNNA) status with the US; MNNA is a designation under US law that provides foreign partners with certain benefits in the areas of defense trade and security cooperation; while MNNA status provides military and economic privileges, it does not entail any security commitments (2022)<br>

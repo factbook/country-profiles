@@ -537,35 +537,35 @@ _Currency_: Swedish kronor (SEK) per US dollar -<br>
 _electrification - total population_: 100% (2020)<br>
 
 **Electricity**<br>
-_Installed generating capacity_: 43.499 million kW (2020 est.)<br>
-_Consumption_: 124.609 billion kWh (2020 est.)<br>
-_Exports_: 36.824 billion kWh (2020 est.)<br>
-_Imports_: 11.827 billion kWh (2020 est.)<br>
-_Transmission/distribution losses_: 10.434 billion kWh (2020 est.)<br>
+_installed generating capacity_: 43.499 million kW (2020 est.)<br>
+_consumption_: 124.609 billion kWh (2020 est.)<br>
+_exports_: 36.824 billion kWh (2020 est.)<br>
+_imports_: 11.827 billion kWh (2020 est.)<br>
+_transmission/distribution losses_: 10.434 billion kWh (2020 est.)<br>
 
 **Electricity generation sources**<br>
-_Fossil fuels_: 1% of total installed capacity (2020 est.)<br>
-_Nuclear_: 29.5% of total installed capacity (2020 est.)<br>
-_Solar_: 0.7% of total installed capacity (2020 est.)<br>
-_Wind_: 17.2% of total installed capacity (2020 est.)<br>
-_Hydroelectricity_: 44.7% of total installed capacity (2020 est.)<br>
-_Tide and wave_: 0% of total installed capacity (2020 est.)<br>
-_Geothermal_: 0% of total installed capacity (2020 est.)<br>
-_Biomass and waste_: 6.9% of total installed capacity (2020 est.)<br>
+_fossil fuels_: 1% of total installed capacity (2020 est.)<br>
+_nuclear_: 29.5% of total installed capacity (2020 est.)<br>
+_solar_: 0.7% of total installed capacity (2020 est.)<br>
+_wind_: 17.2% of total installed capacity (2020 est.)<br>
+_hydroelectricity_: 44.7% of total installed capacity (2020 est.)<br>
+_tide and wave_: 0% of total installed capacity (2020 est.)<br>
+_geothermal_: 0% of total installed capacity (2020 est.)<br>
+_biomass and waste_: 6.9% of total installed capacity (2020 est.)<br>
 
 **Coal**<br>
-_Production_: 1.07 million metric tons (2020 est.)<br>
-_Consumption_: 3.328 million metric tons (2020 est.)<br>
-_Exports_: 24,000 metric tons (2020 est.)<br>
-_Imports_: 2.144 million metric tons (2020 est.)<br>
-_Proven reserves_: 1 million metric tons (2019 est.)<br>
+_production_: 1.07 million metric tons (2020 est.)<br>
+_consumption_: 3.328 million metric tons (2020 est.)<br>
+_exports_: 24,000 metric tons (2020 est.)<br>
+_imports_: 2.144 million metric tons (2020 est.)<br>
+_proven reserves_: 1 million metric tons (2019 est.)<br>
 
 **Petroleum**<br>
-_Total petroleum production_: 10,600 bbl/day (2021 est.)<br>
-_Refined petroleum consumption_: 295,800 bbl/day (2019 est.)<br>
-_Crude oil and lease condensate exports_: 0 barrels/day (2018 est.)<br>
-_Crude oil and lease condensate imports_: 403,200 barrels/day (2018 est.)<br>
-_Crude oil estimated reserves_: 0 barrels (2021 est.)<br>
+_total petroleum production_: 10,600 bbl/day (2021 est.)<br>
+_refined petroleum consumption_: 295,800 bbl/day (2019 est.)<br>
+_crude oil and lease condensate exports_: 0 barrels/day (2018 est.)<br>
+_crude oil and lease condensate imports_: 403,200 barrels/day (2018 est.)<br>
+_crude oil estimated reserves_: 0 barrels (2021 est.)<br>
 
 **Refined petroleum products - production**<br>
 413,200 bbl/day (2017 est.)<br>
@@ -577,17 +577,17 @@ _Crude oil estimated reserves_: 0 barrels (2021 est.)<br>
 229,600 bbl/day (2017 est.)<br>
 
 **Natural gas**<br>
-_Production_: 0 cubic meters (2021 est.)<br>
-_Consumption_: 1,275,785,000 cubic meters (2020 est.)<br>
-_Exports_: 34.886 million cubic meters (2020 est.)<br>
-_Imports_: 1,310,671,000 cubic meters (2020 est.)<br>
-_Proven reserves_: 0 cubic meters (2021 est.)<br>
+_production_: 0 cubic meters (2021 est.)<br>
+_consumption_: 1,275,785,000 cubic meters (2020 est.)<br>
+_exports_: 34.886 million cubic meters (2020 est.)<br>
+_imports_: 1,310,671,000 cubic meters (2020 est.)<br>
+_proven reserves_: 0 cubic meters (2021 est.)<br>
 
 **Carbon dioxide emissions**<br>
-_Total emissions_: 48.144 million metric tonnes of CO2 (2019 est.)<br>
-_From coal and metallurgical coke_: 7.38 million metric tonnes of CO2 (2019 est.)<br>
-_From petroleum and other liquids_: 38.406 million metric tonnes of CO2 (2019 est.)<br>
-_From consumed natural gas_: 2.359 million metric tonnes of CO2 (2019 est.)<br>
+_total emissions_: 48.144 million metric tonnes of CO2 (2019 est.)<br>
+_from coal and metallurgical coke_: 7.38 million metric tonnes of CO2 (2019 est.)<br>
+_from petroleum and other liquids_: 38.406 million metric tonnes of CO2 (2019 est.)<br>
+_from consumed natural gas_: 2.359 million metric tonnes of CO2 (2019 est.)<br>
 
 **Energy consumption per capita**<br>
 _Total energy consumption per capita 2019_: 210.882 million Btu/person (2019 est.)<br>
@@ -699,7 +699,7 @@ the inventory of the SAF is comprised of domestically-produced and imported West
 <strong>note 1: </strong>Sweden conscripts about 5,500 men and women each year<br><br><strong>note 2: </strong>as of 2021, women made up about 11% of the military's full-time personnel<br>
 
 **Military deployments**<br>
-approximately 450 Mali (EUTM, MINUSMA) (2022)<br>
+approximately 200 Mali (MINUSMA) (2022)<br>
 
 **Military - note**<br>
 <p>Sweden maintains a policy of military non-alignment, but cooperates with NATO and regional countries; it joined NATO’s Partnership for Peace program in 1994 and has contributed to NATO-led missions, including those in Afghanistan, Iraq, and Kosovo</p> <p>the Swedish military cooperates closely with the military forces of other Nordic countries through the Nordic Defense Cooperation (NORDEFCO), which consists of Denmark, Finland, Iceland, Norway, and Sweden; areas of cooperation include armaments, education, human resources, training and exercises, and operations; NORDEFCO was established in 2009<strong> </strong></p> <p>Sweden is a signatory of the EU’s Common Security and Defense Policy and contributes to CSDP missions and operations</p><br>
@@ -716,6 +716,6 @@ Islamic State of Iraq and ash-Sham (ISIS)<br>
 <p>none identified</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 114,995 (Syria), 28,744 (Afghanistan), 26,911 (Eritrea), 11,574 (Somalia), 11,153 (Iraq), 7,516 (Iran) (2020); 42,788 (Ukraine) (as of 26 July 2022)<br>
+_refugees (country of origin)_: 114,995 (Syria), 28,744 (Afghanistan), 26,911 (Eritrea), 11,574 (Somalia), 11,153 (Iraq), 7,516 (Iran) (2020); 43,273 (Ukraine) (as of 2 August 2022)<br>
 _stateless persons_: 50,098 (mid-year 2021); note - the majority of stateless people are from the Middle East and Somalia<br>
 

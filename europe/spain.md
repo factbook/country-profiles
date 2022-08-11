@@ -555,35 +555,35 @@ _Currency_: euros (EUR) per US dollar -<br>
 _electrification - total population_: 100% (2020)<br>
 
 **Electricity**<br>
-_Installed generating capacity_: 115.837 million kW (2020 est.)<br>
-_Consumption_: 233.267 billion kWh (2020 est.)<br>
-_Exports_: 14.649 billion kWh (2020 est.)<br>
-_Imports_: 17.928 billion kWh (2020 est.)<br>
-_Transmission/distribution losses_: 23.999 billion kWh (2020 est.)<br>
+_installed generating capacity_: 115.837 million kW (2020 est.)<br>
+_consumption_: 233.267 billion kWh (2020 est.)<br>
+_exports_: 14.649 billion kWh (2020 est.)<br>
+_imports_: 17.928 billion kWh (2020 est.)<br>
+_transmission/distribution losses_: 23.999 billion kWh (2020 est.)<br>
 
 **Electricity generation sources**<br>
-_Fossil fuels_: 32.4% of total installed capacity (2020 est.)<br>
-_Nuclear_: 21.9% of total installed capacity (2020 est.)<br>
-_Solar_: 8.1% of total installed capacity (2020 est.)<br>
-_Wind_: 22.1% of total installed capacity (2020 est.)<br>
-_Hydroelectricity_: 13.1% of total installed capacity (2020 est.)<br>
-_Tide and wave_: 0% of total installed capacity (2020 est.)<br>
-_Geothermal_: 0% of total installed capacity (2020 est.)<br>
-_Biomass and waste_: 2.6% of total installed capacity (2020 est.)<br>
+_fossil fuels_: 32.4% of total installed capacity (2020 est.)<br>
+_nuclear_: 21.9% of total installed capacity (2020 est.)<br>
+_solar_: 8.1% of total installed capacity (2020 est.)<br>
+_wind_: 22.1% of total installed capacity (2020 est.)<br>
+_hydroelectricity_: 13.1% of total installed capacity (2020 est.)<br>
+_tide and wave_: 0% of total installed capacity (2020 est.)<br>
+_geothermal_: 0% of total installed capacity (2020 est.)<br>
+_biomass and waste_: 2.6% of total installed capacity (2020 est.)<br>
 
 **Coal**<br>
-_Production_: 546,000 metric tons (2020 est.)<br>
-_Consumption_: 4.918 million metric tons (2020 est.)<br>
-_Exports_: 2.083 million metric tons (2020 est.)<br>
-_Imports_: 4.857 million metric tons (2020 est.)<br>
-_Proven reserves_: 1.187 billion metric tons (2019 est.)<br>
+_production_: 546,000 metric tons (2020 est.)<br>
+_consumption_: 4.918 million metric tons (2020 est.)<br>
+_exports_: 2.083 million metric tons (2020 est.)<br>
+_imports_: 4.857 million metric tons (2020 est.)<br>
+_proven reserves_: 1.187 billion metric tons (2019 est.)<br>
 
 **Petroleum**<br>
-_Total petroleum production_: 47,200 bbl/day (2021 est.)<br>
-_Refined petroleum consumption_: 1.328 million bbl/day (2019 est.)<br>
-_Crude oil and lease condensate exports_: 0 barrels/day (2018 est.)<br>
-_Crude oil and lease condensate imports_: 1,364,700 barrels/day (2018 est.)<br>
-_Crude oil estimated reserves_: 150 million barrels (2021 est.)<br>
+_total petroleum production_: 47,200 bbl/day (2021 est.)<br>
+_refined petroleum consumption_: 1.328 million bbl/day (2019 est.)<br>
+_crude oil and lease condensate exports_: 0 barrels/day (2018 est.)<br>
+_crude oil and lease condensate imports_: 1,364,700 barrels/day (2018 est.)<br>
+_crude oil estimated reserves_: 150 million barrels (2021 est.)<br>
 
 **Refined petroleum products - production**<br>
 1.361 million bbl/day (2017 est.)<br>
@@ -595,17 +595,17 @@ _Crude oil estimated reserves_: 150 million barrels (2021 est.)<br>
 464,800 bbl/day (2017 est.)<br>
 
 **Natural gas**<br>
-_Production_: 57.993 million cubic meters (2020 est.)<br>
-_Consumption_: 32,026,216,000 cubic meters (2020 est.)<br>
-_Exports_: 1,185,285,000 cubic meters (2020 est.)<br>
-_Imports_: 32,489,309,000 cubic meters (2020 est.)<br>
-_Proven reserves_: 2.549 billion cubic meters (2021 est.)<br>
+_production_: 57.993 million cubic meters (2020 est.)<br>
+_consumption_: 32,026,216,000 cubic meters (2020 est.)<br>
+_exports_: 1,185,285,000 cubic meters (2020 est.)<br>
+_imports_: 32,489,309,000 cubic meters (2020 est.)<br>
+_proven reserves_: 2.549 billion cubic meters (2021 est.)<br>
 
 **Carbon dioxide emissions**<br>
-_Total emissions_: 280.624 million metric tonnes of CO2 (2019 est.)<br>
-_From coal and metallurgical coke_: 16.743 million metric tonnes of CO2 (2019 est.)<br>
-_From petroleum and other liquids_: 191.299 million metric tonnes of CO2 (2019 est.)<br>
-_From consumed natural gas_: 72.582 million metric tonnes of CO2 (2019 est.)<br>
+_total emissions_: 280.624 million metric tonnes of CO2 (2019 est.)<br>
+_from coal and metallurgical coke_: 16.743 million metric tonnes of CO2 (2019 est.)<br>
+_from petroleum and other liquids_: 191.299 million metric tonnes of CO2 (2019 est.)<br>
+_from consumed natural gas_: 72.582 million metric tonnes of CO2 (2019 est.)<br>
 
 **Energy consumption per capita**<br>
 _Total energy consumption per capita 2019_: 122.673 million Btu/person (2019 est.)<br>
@@ -711,7 +711,7 @@ Spanish Armed Forces: Army (Ejercito de Tierra), Spanish Navy (Armada Espanola, 
 0.9% of GDP (2017) (approximately $15.9 billion)<br>
 
 **Military and security service personnel strengths**<br>
-the Spanish Armed Forces have approximately 120,000 active duty troops (75,000 Army; 25,000 Navy, inc about 5,000 marines; 20,000 Air Force); 80,000 Guardia Civil (2021)<br>
+approximately 120,000 active duty troops (75,000 Army; 25,000 Navy, including about 5,000 marines; 20,000 Air Force); 80,000 Guardia Civil (2022)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the inventory of the Spanish military is comprised of domestically-produced and imported Western weapons systems; France, Germany, and the US are the leading suppliers of military hardware since 2010; Spain's defense industry manufactures land, air, and sea weapons systems and is integrated within the European defense-industrial sector (2021)<br>
@@ -721,8 +721,8 @@ the inventory of the Spanish military is comprised of domestically-produced and 
 <strong>note:</strong> as of 2019, women comprised about 13% of the military's full-time personnel<br>
 
 **Military deployments**<br>
-approximately 200 Iraq (NATO/EU training assistance); 600 Latvia (NATO); 650 Lebanon (UNIFIL); approximately 500 Mali (EUTM); 150 Turkey (NATO) (2022)<br>
-<strong>note: </strong>NATO troop deployment numbers in eastern Europe are as of February 2022; in response to Russia’s invasion of Ukraine, some NATO countries, including Spain, have sent additional troops and equipment to the battlegroups deployed in NATO territory in eastern Europe<br>
+approximately 200 Iraq (NATO/EU training assistance); up to 600 Latvia (NATO); 650 Lebanon (UNIFIL); approximately 500 Mali (EUTM); 150 Turkey (NATO) (2022)<br>
+<strong>note: </strong>in response to Russia’s invasion of Ukraine, some NATO countries, including Spain, have sent additional troops and equipment to the battlegroups deployed in NATO territory in eastern Europe<br>
 
 **Military - note**<br>
 Spain joined NATO in 1982, but refrained from participating in the integrated military structure until 1996<br><br>the Spanish Marine Corps, established in 1537, is the oldest marine corps in the world<br>
@@ -739,7 +739,7 @@ Islamic State of Iraq and ash-Sham (ISIS); al-Qa’ida<br>
 <p><em>Spain-Andorra</em>: none identified</p> <p><em>Spain-France</em>: none identified</p> <p><em>Spain-Gibraltar (UK)</em>: in 2002, Gibraltar residents voted overwhelmingly by referendum to reject any "shared sovereignty" arrangement; the Government of Gibraltar insists on equal participation in talks between the UK and Spain; Spain does not recognize British sovereignty beyond the original fortified perimeter of the city and disapproves of UK plans to grant Gibraltar greater autonomy; after voters in the UK chose to leave the EU in a June 2016 referendum, Spain again proposed shared sovereignty of Gibraltar; UK officials rejected Spain’s joint sovereignty proposal</p> <p><em>Spain-Morocco</em>: Morocco protests Spain's control over the coastal enclaves of Ceuta, Melilla, and the islands of Penon de Velez de la Gomera, Penon de Alhucemas, and Islas Chafarinas, and surrounding waters; both countries claim Isla Perejil (Leila Island), which remains unoccupied but was the site of a  military standoff in 2002; Morocco serves as the primary embarkation area for illegal migration into mainland Spain from North Africa</p> <p><em>Spain-Portugal</em>: Portugal does not recognize Spanish sovereignty over the territory of Olivenza based on a difference of interpretation of the 1815 Congress of Vienna and the 1801 Treaty of Badajoz</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 14,823 (Syria) (mid-year 2021); 418,200 (Venezuela) (economic and political crisis; includes Venezuelans who have claimed asylum, are recognized as refugees, or have received alternative legal stay) (2021); 130,160 (Ukraine) (as of 19 July 2022)<br>
+_refugees (country of origin)_: 14,823 (Syria) (mid-year 2021); 418,200 (Venezuela) (economic and political crisis; includes Venezuelans who have claimed asylum, are recognized as refugees, or have received alternative legal stay) (2021); 131,771 (Ukraine) (as of 31 July 2022)<br>
 _stateless persons_: 692 (mid-year 2021)<br>
 <strong>note: </strong>263,385 estimated refugee and migrant arrivals, including Canary Islands (January 2015-July 2022)<br>
 

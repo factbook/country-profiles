@@ -565,35 +565,35 @@ _electrification - urban areas_: 99% (2019)<br>
 _electrification - rural areas_: 79% (2019)<br>
 
 **Electricity**<br>
-_Installed generating capacity_: 3.304 million kW (2020 est.)<br>
-_Consumption_: 8.243 billion kWh (2019 est.)<br>
-_Exports_: 16 million kWh (2019 est.)<br>
-_Imports_: 277 million kWh (2019 est.)<br>
-_Transmission/distribution losses_: 2.724 billion kWh (2019 est.)<br>
+_installed generating capacity_: 3.304 million kW (2020 est.)<br>
+_consumption_: 8.243 billion kWh (2019 est.)<br>
+_exports_: 16 million kWh (2019 est.)<br>
+_imports_: 277 million kWh (2019 est.)<br>
+_transmission/distribution losses_: 2.724 billion kWh (2019 est.)<br>
 
 **Electricity generation sources**<br>
-_Fossil fuels_: 8.3% of total installed capacity (2020 est.)<br>
-_Nuclear_: 0% of total installed capacity (2020 est.)<br>
-_Solar_: 1% of total installed capacity (2020 est.)<br>
-_Wind_: 10.7% of total installed capacity (2020 est.)<br>
-_Hydroelectricity_: 32.6% of total installed capacity (2020 est.)<br>
-_Tide and wave_: 0% of total installed capacity (2020 est.)<br>
-_Geothermal_: 46.2% of total installed capacity (2020 est.)<br>
-_Biomass and waste_: 1.2% of total installed capacity (2020 est.)<br>
+_fossil fuels_: 8.3% of total installed capacity (2020 est.)<br>
+_nuclear_: 0% of total installed capacity (2020 est.)<br>
+_solar_: 1% of total installed capacity (2020 est.)<br>
+_wind_: 10.7% of total installed capacity (2020 est.)<br>
+_hydroelectricity_: 32.6% of total installed capacity (2020 est.)<br>
+_tide and wave_: 0% of total installed capacity (2020 est.)<br>
+_geothermal_: 46.2% of total installed capacity (2020 est.)<br>
+_biomass and waste_: 1.2% of total installed capacity (2020 est.)<br>
 
 **Coal**<br>
-_Production_: 0 metric tons (2020 est.)<br>
-_Consumption_: 821,000 metric tons (2020 est.)<br>
-_Exports_: 0 metric tons (2020 est.)<br>
-_Imports_: 822,000 metric tons (2020 est.)<br>
-_Proven reserves_: 0 metric tons (2019 est.)<br>
+_production_: 0 metric tons (2020 est.)<br>
+_consumption_: 821,000 metric tons (2020 est.)<br>
+_exports_: 0 metric tons (2020 est.)<br>
+_imports_: 822,000 metric tons (2020 est.)<br>
+_proven reserves_: 0 metric tons (2019 est.)<br>
 
 **Petroleum**<br>
-_Total petroleum production_: 0 bbl/day (2021 est.)<br>
-_Refined petroleum consumption_: 116,400 bbl/day (2019 est.)<br>
-_Crude oil and lease condensate exports_: 0 barrels/day (2018 est.)<br>
-_Crude oil and lease condensate imports_: 0 barrels/day (2018 est.)<br>
-_Crude oil estimated reserves_: 0 barrels (2021 est.)<br>
+_total petroleum production_: 0 bbl/day (2021 est.)<br>
+_refined petroleum consumption_: 116,400 bbl/day (2019 est.)<br>
+_crude oil and lease condensate exports_: 0 barrels/day (2018 est.)<br>
+_crude oil and lease condensate imports_: 0 barrels/day (2018 est.)<br>
+_crude oil estimated reserves_: 0 barrels (2021 est.)<br>
 
 **Refined petroleum products - production**<br>
 13,960 bbl/day (2015 est.)<br>
@@ -605,17 +605,17 @@ _Crude oil estimated reserves_: 0 barrels (2021 est.)<br>
 90,620 bbl/day (2015 est.)<br>
 
 **Natural gas**<br>
-_Production_: 0 cubic meters (2021 est.)<br>
-_Consumption_: 0 cubic meters (2021 est.)<br>
-_Exports_: 0 cubic meters (2021 est.)<br>
-_Imports_: 0 cubic meters (2021 est.)<br>
-_Proven reserves_: 0 cubic meters (2021 est.)<br>
+_production_: 0 cubic meters (2021 est.)<br>
+_consumption_: 0 cubic meters (2021 est.)<br>
+_exports_: 0 cubic meters (2021 est.)<br>
+_imports_: 0 cubic meters (2021 est.)<br>
+_proven reserves_: 0 cubic meters (2021 est.)<br>
 
 **Carbon dioxide emissions**<br>
-_Total emissions_: 17.709 million metric tonnes of CO2 (2019 est.)<br>
-_From coal and metallurgical coke_: 1.25 million metric tonnes of CO2 (2019 est.)<br>
-_From petroleum and other liquids_: 16.459 million metric tonnes of CO2 (2019 est.)<br>
-_From consumed natural gas_: 0 metric tonnes of CO2 (2019 est.)<br>
+_total emissions_: 17.709 million metric tonnes of CO2 (2019 est.)<br>
+_from coal and metallurgical coke_: 1.25 million metric tonnes of CO2 (2019 est.)<br>
+_from petroleum and other liquids_: 16.459 million metric tonnes of CO2 (2019 est.)<br>
+_from consumed natural gas_: 0 metric tonnes of CO2 (2019 est.)<br>
 
 **Energy consumption per capita**<br>
 _Total energy consumption per capita 2019_: 6.31 million Btu/person (2019 est.)<br>
@@ -744,7 +744,7 @@ al-Shabaab; Islamic Revolutionary Guard Corps (IRGC)/Qods Force<br>
 <p>as of March 2022, Kenya provides shelter to nearly 548,000 refugees and asylum seekers, including Ugandans who flee across the border periodically to seek protection from Lord's Resistance Army rebels</p> <p><em>Kenya-Ethiopia</em>: their border was demarcated in the 1950s and approved in 1970; in 2012, Kenya and Ethiopia agreed to redemarcate their boundary following disputes over beacons and crossborder crime</p> <p><em>Kenya-Somalia</em>: Kenya works hard to prevent the clan and militia fighting in Somalia from spreading across the border, which has long been open to nomadic pastoralists; in 2021, the International Court of Justice (ICJ) gave Somalia control over a disputed ocean area where the seabeds are believed to hold vasts oil and gas deposits; the ICJ ruling gives Somalia the rights to several offshore oil exploration blocks previously claimed by Kenya; Kenya did not recognize the court’s decision</p> <p><em>Kenya-South Sudan</em>: two thirds of the boundary that separates Kenya and South Sudan's sovereignty known as the Ilemi Triangle has been unclear since British colonial times; Kenya has administered the area since colonial times; officials from Kenya and South Sudan signed a M.o.U. on boundary delimitation and demarcation and agreed to set up a joint committee; as of July 2019, the demarcation process was to begin in 90 days, but was delayed due to a lack of funding</p> <p><em>Kenya-Sudan</em>: Kenya served as an important mediator in brokering Sudan's north-south separation in February 2005</p> <p><em>Kenya-Tanzania</em>: Kenya and Tanzania were conducting a joint reaffirmation process in November 2021 to ensure the border was visibly marked with pillars</p> <p><em>Kenya-Uganda:</em> Kenya and Uganda began a joint demarcation of the boundary in 2021 </p> <p> </p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 279,200 (Somalia), 144,441 (South Sudan), 31,342 (Democratic Republic of the Congo), 21,047 (Ethiopia), 7,770 (Burundi), 5,011 (Sudan) (2022)<br>
+_refugees (country of origin)_: 279,200 (Somalia), 144,441 (South Sudan), 31,342 (Democratic Republic of the Congo), 21,066 (Ethiopia), 7,697 (Burundi), 5,022 (Sudan) (2022)<br>
 _IDPs_: 190,000 (election-related violence, intercommunal violence, resource conflicts, al-Shabaab attacks in 2017 and 2018) (2021)<br>
 _stateless persons_: 16,820 (mid-year 2021); note - the stateless population consists of Nubians, Kenyan Somalis, and coastal Arabs; the Nubians are descendants of Sudanese soldiers recruited by the British to fight for them in East Africa more than a century ago; Nubians did not receive Kenyan citizenship when the country became independent in 1963; only recently have Nubians become a formally recognized tribe and had less trouble obtaining national IDs; Galjeel and other Somalis who have lived in Kenya for decades are included with more recent Somali refugees and denied ID cards<br>
 

@@ -504,35 +504,35 @@ _Currency_: Bruneian dollars (BND) per US dollar -<br>
 _electrification - total population_: 100% (2020)<br>
 
 **Electricity**<br>
-_Installed generating capacity_: 1.261 million kW (2020 est.)<br>
-_Consumption_: 4,140,140,000 kWh (2019 est.)<br>
-_Exports_: 0 kWh (2019 est.)<br>
-_Imports_: 0 kWh (2019 est.)<br>
-_Transmission/distribution losses_: 497 million kWh (2019 est.)<br>
+_installed generating capacity_: 1.261 million kW (2020 est.)<br>
+_consumption_: 4,140,140,000 kWh (2019 est.)<br>
+_exports_: 0 kWh (2019 est.)<br>
+_imports_: 0 kWh (2019 est.)<br>
+_transmission/distribution losses_: 497 million kWh (2019 est.)<br>
 
 **Electricity generation sources**<br>
-_Fossil fuels_: 100% of total installed capacity (2020 est.)<br>
-_Nuclear_: 0% of total installed capacity (2020 est.)<br>
-_Solar_: 0.1% of total installed capacity (2020 est.)<br>
-_Wind_: 0% of total installed capacity (2020 est.)<br>
-_Hydroelectricity_: 0% of total installed capacity (2020 est.)<br>
-_Tide and wave_: 0% of total installed capacity (2020 est.)<br>
-_Geothermal_: 0% of total installed capacity (2020 est.)<br>
-_Biomass and waste_: 0% of total installed capacity (2020 est.)<br>
+_fossil fuels_: 100% of total installed capacity (2020 est.)<br>
+_nuclear_: 0% of total installed capacity (2020 est.)<br>
+_solar_: 0.1% of total installed capacity (2020 est.)<br>
+_wind_: 0% of total installed capacity (2020 est.)<br>
+_hydroelectricity_: 0% of total installed capacity (2020 est.)<br>
+_tide and wave_: 0% of total installed capacity (2020 est.)<br>
+_geothermal_: 0% of total installed capacity (2020 est.)<br>
+_biomass and waste_: 0% of total installed capacity (2020 est.)<br>
 
 **Coal**<br>
-_Production_: 0 metric tons (2020 est.)<br>
-_Consumption_: 0 metric tons (2020 est.)<br>
-_Exports_: 0 metric tons (2020 est.)<br>
-_Imports_: 0 metric tons (2020 est.)<br>
-_Proven reserves_: 0 metric tons (2019 est.)<br>
+_production_: 0 metric tons (2020 est.)<br>
+_consumption_: 0 metric tons (2020 est.)<br>
+_exports_: 0 metric tons (2020 est.)<br>
+_imports_: 0 metric tons (2020 est.)<br>
+_proven reserves_: 0 metric tons (2019 est.)<br>
 
 **Petroleum**<br>
-_Total petroleum production_: 107,300 bbl/day (2021 est.)<br>
-_Refined petroleum consumption_: 18,800 bbl/day (2019 est.)<br>
-_Crude oil and lease condensate exports_: 103,100 barrels/day (2018 est.)<br>
-_Crude oil and lease condensate imports_: 0 barrels/day (2018 est.)<br>
-_Crude oil estimated reserves_: 1.1 billion barrels (2021 est.)<br>
+_total petroleum production_: 107,300 bbl/day (2021 est.)<br>
+_refined petroleum consumption_: 18,800 bbl/day (2019 est.)<br>
+_crude oil and lease condensate exports_: 103,100 barrels/day (2018 est.)<br>
+_crude oil and lease condensate imports_: 0 barrels/day (2018 est.)<br>
+_crude oil estimated reserves_: 1.1 billion barrels (2021 est.)<br>
 
 **Refined petroleum products - production**<br>
 10,310 bbl/day (2015 est.)<br>
@@ -544,17 +544,17 @@ _Crude oil estimated reserves_: 1.1 billion barrels (2021 est.)<br>
 6,948 bbl/day (2015 est.)<br>
 
 **Natural gas**<br>
-_Production_: 12,498,299,000 cubic meters (2020 est.)<br>
-_Consumption_: 4,166,987,000 cubic meters (2020 est.)<br>
-_Exports_: 7,774,406,000 cubic meters (2020 est.)<br>
-_Imports_: 0 cubic meters (2021 est.)<br>
-_Proven reserves_: 260.515 billion cubic meters (2021 est.)<br>
+_production_: 12,498,299,000 cubic meters (2020 est.)<br>
+_consumption_: 4,166,987,000 cubic meters (2020 est.)<br>
+_exports_: 7,774,406,000 cubic meters (2020 est.)<br>
+_imports_: 0 cubic meters (2021 est.)<br>
+_proven reserves_: 260.515 billion cubic meters (2021 est.)<br>
 
 **Carbon dioxide emissions**<br>
-_Total emissions_: 9.956 million metric tonnes of CO2 (2019 est.)<br>
-_From coal and metallurgical coke_: 0 metric tonnes of CO2 (2019 est.)<br>
-_From petroleum and other liquids_: 2.387 million metric tonnes of CO2 (2019 est.)<br>
-_From consumed natural gas_: 7.569 million metric tonnes of CO2 (2019 est.)<br>
+_total emissions_: 9.956 million metric tonnes of CO2 (2019 est.)<br>
+_from coal and metallurgical coke_: 0 metric tonnes of CO2 (2019 est.)<br>
+_from petroleum and other liquids_: 2.387 million metric tonnes of CO2 (2019 est.)<br>
+_from consumed natural gas_: 7.569 million metric tonnes of CO2 (2019 est.)<br>
 
 **Energy consumption per capita**<br>
 _Total energy consumption per capita 2019_: 415.184 million Btu/person (2019 est.)<br>
@@ -643,7 +643,7 @@ Royal Brunei Armed Forces: Royal Brunei Land Force, Royal Brunei Navy, Royal Bru
 2.8% of GDP (2017) (approximately $750 million)<br>
 
 **Military and security service personnel strengths**<br>
-approximately 6,500 total active troops (4,500 Army; 1,000 Navy; 1,000 Air Force) (2021)<br>
+approximately 6,000 total active troops (4,000 Army; 1,000 Navy; 1,000 Air Force) (2022)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the Royal Brunei Armed Forces imports nearly all of its military equipment and weapons systems and has a variety of suppliers, including the US and several European countries (2021)<br>

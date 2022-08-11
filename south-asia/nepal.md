@@ -550,35 +550,35 @@ _electrification - urban areas_: 94% (2019)<br>
 _electrification - rural areas_: 93% (2019)<br>
 
 **Electricity**<br>
-_Installed generating capacity_: 1.392 million kW (2020 est.)<br>
-_Consumption_: 4.676 billion kWh (2019 est.)<br>
-_Exports_: 107 million kWh (2019 est.)<br>
-_Imports_: 1.729 billion kWh (2019 est.)<br>
-_Transmission/distribution losses_: 1.183 billion kWh (2019 est.)<br>
+_installed generating capacity_: 1.392 million kW (2020 est.)<br>
+_consumption_: 4.676 billion kWh (2019 est.)<br>
+_exports_: 107 million kWh (2019 est.)<br>
+_imports_: 1.729 billion kWh (2019 est.)<br>
+_transmission/distribution losses_: 1.183 billion kWh (2019 est.)<br>
 
 **Electricity generation sources**<br>
-_Fossil fuels_: 0% of total installed capacity (2020 est.)<br>
-_Nuclear_: 0% of total installed capacity (2020 est.)<br>
-_Solar_: 2.6% of total installed capacity (2020 est.)<br>
-_Wind_: 0.2% of total installed capacity (2020 est.)<br>
-_Hydroelectricity_: 97.2% of total installed capacity (2020 est.)<br>
-_Tide and wave_: 0% of total installed capacity (2020 est.)<br>
-_Geothermal_: 0% of total installed capacity (2020 est.)<br>
-_Biomass and waste_: 0% of total installed capacity (2020 est.)<br>
+_fossil fuels_: 0% of total installed capacity (2020 est.)<br>
+_nuclear_: 0% of total installed capacity (2020 est.)<br>
+_solar_: 2.6% of total installed capacity (2020 est.)<br>
+_wind_: 0.2% of total installed capacity (2020 est.)<br>
+_hydroelectricity_: 97.2% of total installed capacity (2020 est.)<br>
+_tide and wave_: 0% of total installed capacity (2020 est.)<br>
+_geothermal_: 0% of total installed capacity (2020 est.)<br>
+_biomass and waste_: 0% of total installed capacity (2020 est.)<br>
 
 **Coal**<br>
-_Production_: 28,000 metric tons (2020 est.)<br>
-_Consumption_: 839,000 metric tons (2020 est.)<br>
-_Exports_: 0 metric tons (2020 est.)<br>
-_Imports_: 811,000 metric tons (2020 est.)<br>
-_Proven reserves_: 1 million metric tons (2019 est.)<br>
+_production_: 28,000 metric tons (2020 est.)<br>
+_consumption_: 839,000 metric tons (2020 est.)<br>
+_exports_: 0 metric tons (2020 est.)<br>
+_imports_: 811,000 metric tons (2020 est.)<br>
+_proven reserves_: 1 million metric tons (2019 est.)<br>
 
 **Petroleum**<br>
-_Total petroleum production_: 0 bbl/day (2021 est.)<br>
-_Refined petroleum consumption_: 49,400 bbl/day (2019 est.)<br>
-_Crude oil and lease condensate exports_: 0 barrels/day (2018 est.)<br>
-_Crude oil and lease condensate imports_: 0 barrels/day (2018 est.)<br>
-_Crude oil estimated reserves_: 0 barrels (2021 est.)<br>
+_total petroleum production_: 0 bbl/day (2021 est.)<br>
+_refined petroleum consumption_: 49,400 bbl/day (2019 est.)<br>
+_crude oil and lease condensate exports_: 0 barrels/day (2018 est.)<br>
+_crude oil and lease condensate imports_: 0 barrels/day (2018 est.)<br>
+_crude oil estimated reserves_: 0 barrels (2021 est.)<br>
 
 **Refined petroleum products - production**<br>
 0 bbl/day (2015 est.)<br>
@@ -590,17 +590,17 @@ _Crude oil estimated reserves_: 0 barrels (2021 est.)<br>
 26,120 bbl/day (2015 est.)<br>
 
 **Natural gas**<br>
-_Production_: 0 cubic meters (2021 est.)<br>
-_Consumption_: 0 cubic meters (2021 est.)<br>
-_Exports_: 0 cubic meters (2021 est.)<br>
-_Imports_: 0 cubic meters (2021 est.)<br>
-_Proven reserves_: 0 cubic meters (2021 est.)<br>
+_production_: 0 cubic meters (2021 est.)<br>
+_consumption_: 0 cubic meters (2021 est.)<br>
+_exports_: 0 cubic meters (2021 est.)<br>
+_imports_: 0 cubic meters (2021 est.)<br>
+_proven reserves_: 0 cubic meters (2021 est.)<br>
 
 **Carbon dioxide emissions**<br>
-_Total emissions_: 7.708 million metric tonnes of CO2 (2019 est.)<br>
-_From coal and metallurgical coke_: 1.051 million metric tonnes of CO2 (2019 est.)<br>
-_From petroleum and other liquids_: 6.657 million metric tonnes of CO2 (2019 est.)<br>
-_From consumed natural gas_: 0 metric tonnes of CO2 (2019 est.)<br>
+_total emissions_: 7.708 million metric tonnes of CO2 (2019 est.)<br>
+_from coal and metallurgical coke_: 1.051 million metric tonnes of CO2 (2019 est.)<br>
+_from petroleum and other liquids_: 6.657 million metric tonnes of CO2 (2019 est.)<br>
+_from consumed natural gas_: 0 metric tonnes of CO2 (2019 est.)<br>
 
 **Energy consumption per capita**<br>
 _Total energy consumption per capita 2019_: 5.219 million Btu/person (2019 est.)<br>
@@ -694,7 +694,7 @@ the Army's inventory includes a mix of older equipment largely of British, Chine
 <strong>note:</strong> as of 2020, women comprised about 5% of the active duty military<br>
 
 **Military deployments**<br>
-750 Central African Republic (MINUSCA); 1,140 Democratic Republic of the Congo (MONUSCO); 400 Golan Heights (UNDOF); 875 Lebanon (UNIFIL); 230 Liberia (UNSMIL); 175 Mali (MINUSMA); 1,625 South Sudan (UNMISS) (Feb 2022)<br>
+790 Central African Republic (MINUSCA); 1,150 Democratic Republic of the Congo (MONUSCO); 400 Golan Heights (UNDOF); 870 Lebanon (UNIFIL); 235 Liberia (UNSMIL); 175 Mali (MINUSMA); 1,750 (plus about 220 police) South Sudan (UNMISS) (May 2022)<br>
 
 **Military - note**<br>
 Nepal became a member of the UN in 1955 and has been an active participant in UN peacekeeping operations since, sending its first military observers to a UN peacekeeping mission in 1958 and its first peacekeeping military contingent to Egypt in 1974 <br><br>the British began to recruit Nepalese citizens (Gurkhas) into the East India Company Army during the Anglo-Nepalese War (1814-1816); the Gurkhas subsequently were brought into the British Indian Army and by 1914, there were 10 Gurkha regiments, collectively known as the Gurkha Brigade; following the partition of India in 1947, an agreement between Nepal, India, and Great Britain allowed for the transfer of the 10 regiments from the British Indian Army to the separate British and Indian armies; four regiments were transferred to the British Army, where they have since served continuously as the Brigade of Gurkhas until merged to form the Royal Gurkha Rifles in 1994; six Gurkha (aka Gorkha in India) regiments went to the new Indian Army; a seventh regiment was later added; Gurkhas are also recruited into the Singaporean Police and a special guard in the Sultanate of Brunei known as the Gurkha Reserve Unit (2022)<br>

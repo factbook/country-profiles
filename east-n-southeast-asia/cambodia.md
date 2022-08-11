@@ -560,35 +560,35 @@ _electrification - urban areas_: 100% (2019)<br>
 _electrification - rural areas_: 67% (2019)<br>
 
 **Electricity**<br>
-_Installed generating capacity_: 2.954 million kW (2020 est.)<br>
-_Consumption_: 10,288,340,000 kWh (2019 est.)<br>
-_Exports_: 0 kWh (2019 est.)<br>
-_Imports_: 3.063 billion kWh (2019 est.)<br>
-_Transmission/distribution losses_: 1.187 billion kWh (2019 est.)<br>
+_installed generating capacity_: 2.954 million kW (2020 est.)<br>
+_consumption_: 10,288,340,000 kWh (2019 est.)<br>
+_exports_: 0 kWh (2019 est.)<br>
+_imports_: 3.063 billion kWh (2019 est.)<br>
+_transmission/distribution losses_: 1.187 billion kWh (2019 est.)<br>
 
 **Electricity generation sources**<br>
-_Fossil fuels_: 52% of total installed capacity (2020 est.)<br>
-_Nuclear_: 0% of total installed capacity (2020 est.)<br>
-_Solar_: 1.2% of total installed capacity (2020 est.)<br>
-_Wind_: 0% of total installed capacity (2020 est.)<br>
-_Hydroelectricity_: 45.6% of total installed capacity (2020 est.)<br>
-_Tide and wave_: 0% of total installed capacity (2020 est.)<br>
-_Geothermal_: 0% of total installed capacity (2020 est.)<br>
-_Biomass and waste_: 1.2% of total installed capacity (2020 est.)<br>
+_fossil fuels_: 52% of total installed capacity (2020 est.)<br>
+_nuclear_: 0% of total installed capacity (2020 est.)<br>
+_solar_: 1.2% of total installed capacity (2020 est.)<br>
+_wind_: 0% of total installed capacity (2020 est.)<br>
+_hydroelectricity_: 45.6% of total installed capacity (2020 est.)<br>
+_tide and wave_: 0% of total installed capacity (2020 est.)<br>
+_geothermal_: 0% of total installed capacity (2020 est.)<br>
+_biomass and waste_: 1.2% of total installed capacity (2020 est.)<br>
 
 **Coal**<br>
-_Production_: 0 metric tons (2020 est.)<br>
-_Consumption_: 2.974 million metric tons (2020 est.)<br>
-_Exports_: 0 metric tons (2020 est.)<br>
-_Imports_: 3.311 million metric tons (2020 est.)<br>
-_Proven reserves_: 0 metric tons (2019 est.)<br>
+_production_: 0 metric tons (2020 est.)<br>
+_consumption_: 2.974 million metric tons (2020 est.)<br>
+_exports_: 0 metric tons (2020 est.)<br>
+_imports_: 3.311 million metric tons (2020 est.)<br>
+_proven reserves_: 0 metric tons (2019 est.)<br>
 
 **Petroleum**<br>
-_Total petroleum production_: 0 bbl/day (2021 est.)<br>
-_Refined petroleum consumption_: 64,100 bbl/day (2019 est.)<br>
-_Crude oil and lease condensate exports_: 0 barrels/day (2018 est.)<br>
-_Crude oil and lease condensate imports_: 0 barrels/day (2018 est.)<br>
-_Crude oil estimated reserves_: 0 barrels (2021 est.)<br>
+_total petroleum production_: 0 bbl/day (2021 est.)<br>
+_refined petroleum consumption_: 64,100 bbl/day (2019 est.)<br>
+_crude oil and lease condensate exports_: 0 barrels/day (2018 est.)<br>
+_crude oil and lease condensate imports_: 0 barrels/day (2018 est.)<br>
+_crude oil estimated reserves_: 0 barrels (2021 est.)<br>
 
 **Refined petroleum products - production**<br>
 0 bbl/day (2015 est.)<br>
@@ -600,17 +600,17 @@ _Crude oil estimated reserves_: 0 barrels (2021 est.)<br>
 43,030 bbl/day (2015 est.)<br>
 
 **Natural gas**<br>
-_Production_: 0 cubic meters (2021 est.)<br>
-_Consumption_: 0 cubic meters (2021 est.)<br>
-_Exports_: 0 cubic meters (2021 est.)<br>
-_Imports_: 0 cubic meters (2021 est.)<br>
-_Proven reserves_: 0 cubic meters (2021 est.)<br>
+_production_: 0 cubic meters (2021 est.)<br>
+_consumption_: 0 cubic meters (2021 est.)<br>
+_exports_: 0 cubic meters (2021 est.)<br>
+_imports_: 0 cubic meters (2021 est.)<br>
+_proven reserves_: 0 cubic meters (2021 est.)<br>
 
 **Carbon dioxide emissions**<br>
-_Total emissions_: 13.844 million metric tonnes of CO2 (2019 est.)<br>
-_From coal and metallurgical coke_: 4.837 million metric tonnes of CO2 (2019 est.)<br>
-_From petroleum and other liquids_: 9.007 million metric tonnes of CO2 (2019 est.)<br>
-_From consumed natural gas_: 0 metric tonnes of CO2 (2019 est.)<br>
+_total emissions_: 13.844 million metric tonnes of CO2 (2019 est.)<br>
+_from coal and metallurgical coke_: 4.837 million metric tonnes of CO2 (2019 est.)<br>
+_from petroleum and other liquids_: 9.007 million metric tonnes of CO2 (2019 est.)<br>
+_from consumed natural gas_: 0 metric tonnes of CO2 (2019 est.)<br>
 
 **Energy consumption per capita**<br>
 _Total energy consumption per capita 2019_: 13.629 million Btu/person (2019 est.)<br>
@@ -708,7 +708,7 @@ Royal Cambodian Armed Forces: Royal Cambodian Army, Royal Khmer Navy, Royal Camb
 2.1% of GDP (2017 est.) (approximately $1.02 billion)<br>
 
 **Military and security service personnel strengths**<br>
-information varies; approximately 100,000 total active troops including about 3,000 Navy and 1,000 Air Force; est. 10,000 Gendarmerie (2021)<br>
+information varies; approximately 110,000 total active troops including about 3,000 Navy and 1,000 Air Force; est. 10,000 Gendarmerie (2022)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the Royal Cambodian Armed Forces are armed largely with older Chinese and Russian-origin equipment; since 2010, it has received limited amounts of more modern equipment from a variety of suppliers, particularly China (2022)<br>

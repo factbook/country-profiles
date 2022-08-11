@@ -347,7 +347,7 @@ _etymology_: name taken from the Arab name of a nearby village, Nijamina, meanin
 Independence Day, 11 August (1960)<br>
 
 **Constitution**<br>
-_history_: several previous; latest approved 30 April 2018 by the National Assembly, entered into force 4 May 2018; suspended 21 April 2021<br>
+_history_: several previous; latest approved 30 April 2018 by the National Assembly, entered into force 4 May 2018; suspended 21 April 2021 and remained so through April 2022<br>
 _amendments_: proposed as a revision by the president of the republic after a Council of Ministers (cabinet) decision or by the National Assembly; approval for consideration of a revision requires at least three-fifths majority vote by the Assembly; passage requires approval by referendum or at least two-thirds majority vote by the Assembly<br>
 
 **Legal system**<br>
@@ -562,35 +562,35 @@ _electrification - urban areas_: 32% (2019)<br>
 _electrification - rural areas_: 1% (2019)<br>
 
 **Electricity**<br>
-_Installed generating capacity_: 87,000 kW (2020 est.)<br>
-_Consumption_: 188.46 million kWh (2019 est.)<br>
-_Exports_: 0 kWh (2019 est.)<br>
-_Imports_: 0 kWh (2019 est.)<br>
-_Transmission/distribution losses_: 111 million kWh (2019 est.)<br>
+_installed generating capacity_: 87,000 kW (2020 est.)<br>
+_consumption_: 188.46 million kWh (2019 est.)<br>
+_exports_: 0 kWh (2019 est.)<br>
+_imports_: 0 kWh (2019 est.)<br>
+_transmission/distribution losses_: 111 million kWh (2019 est.)<br>
 
 **Electricity generation sources**<br>
-_Fossil fuels_: 96.8% of total installed capacity (2020 est.)<br>
-_Nuclear_: 0% of total installed capacity (2020 est.)<br>
-_Solar_: 0% of total installed capacity (2020 est.)<br>
-_Wind_: 3.2% of total installed capacity (2020 est.)<br>
-_Hydroelectricity_: 0% of total installed capacity (2020 est.)<br>
-_Tide and wave_: 0% of total installed capacity (2020 est.)<br>
-_Geothermal_: 0% of total installed capacity (2020 est.)<br>
-_Biomass and waste_: 0% of total installed capacity (2020 est.)<br>
+_fossil fuels_: 96.8% of total installed capacity (2020 est.)<br>
+_nuclear_: 0% of total installed capacity (2020 est.)<br>
+_solar_: 0% of total installed capacity (2020 est.)<br>
+_wind_: 3.2% of total installed capacity (2020 est.)<br>
+_hydroelectricity_: 0% of total installed capacity (2020 est.)<br>
+_tide and wave_: 0% of total installed capacity (2020 est.)<br>
+_geothermal_: 0% of total installed capacity (2020 est.)<br>
+_biomass and waste_: 0% of total installed capacity (2020 est.)<br>
 
 **Coal**<br>
-_Production_: 0 metric tons (2020 est.)<br>
-_Consumption_: 0 metric tons (2020 est.)<br>
-_Exports_: 0 metric tons (2020 est.)<br>
-_Imports_: 0 metric tons (2020 est.)<br>
-_Proven reserves_: 0 metric tons (2019 est.)<br>
+_production_: 0 metric tons (2020 est.)<br>
+_consumption_: 0 metric tons (2020 est.)<br>
+_exports_: 0 metric tons (2020 est.)<br>
+_imports_: 0 metric tons (2020 est.)<br>
+_proven reserves_: 0 metric tons (2019 est.)<br>
 
 **Petroleum**<br>
-_Total petroleum production_: 87,900 bbl/day (2021 est.)<br>
-_Refined petroleum consumption_: 12,600 bbl/day (2019 est.)<br>
-_Crude oil and lease condensate exports_: 116,000 barrels/day (2018 est.)<br>
-_Crude oil and lease condensate imports_: 0 barrels/day (2018 est.)<br>
-_Crude oil estimated reserves_: 1.5 billion barrels (2021 est.)<br>
+_total petroleum production_: 87,900 bbl/day (2021 est.)<br>
+_refined petroleum consumption_: 12,600 bbl/day (2019 est.)<br>
+_crude oil and lease condensate exports_: 116,000 barrels/day (2018 est.)<br>
+_crude oil and lease condensate imports_: 0 barrels/day (2018 est.)<br>
+_crude oil estimated reserves_: 1.5 billion barrels (2021 est.)<br>
 
 **Refined petroleum products - production**<br>
 0 bbl/day (2015 est.)<br>
@@ -602,17 +602,17 @@ _Crude oil estimated reserves_: 1.5 billion barrels (2021 est.)<br>
 2,285 bbl/day (2015 est.)<br>
 
 **Natural gas**<br>
-_Production_: 0 cubic meters (2021 est.)<br>
-_Consumption_: 0 cubic meters (2021 est.)<br>
-_Exports_: 0 cubic meters (2021 est.)<br>
-_Imports_: 0 cubic meters (2021 est.)<br>
-_Proven reserves_: 0 cubic meters (2021 est.)<br>
+_production_: 0 cubic meters (2021 est.)<br>
+_consumption_: 0 cubic meters (2021 est.)<br>
+_exports_: 0 cubic meters (2021 est.)<br>
+_imports_: 0 cubic meters (2021 est.)<br>
+_proven reserves_: 0 cubic meters (2021 est.)<br>
 
 **Carbon dioxide emissions**<br>
-_Total emissions_: 1.771 million metric tonnes of CO2 (2019 est.)<br>
-_From coal and metallurgical coke_: 0 metric tonnes of CO2 (2019 est.)<br>
-_From petroleum and other liquids_: 1.771 million metric tonnes of CO2 (2019 est.)<br>
-_From consumed natural gas_: 0 metric tonnes of CO2 (2019 est.)<br>
+_total emissions_: 1.771 million metric tonnes of CO2 (2019 est.)<br>
+_from coal and metallurgical coke_: 0 metric tonnes of CO2 (2019 est.)<br>
+_from petroleum and other liquids_: 1.771 million metric tonnes of CO2 (2019 est.)<br>
+_from consumed natural gas_: 0 metric tonnes of CO2 (2019 est.)<br>
 
 **Energy consumption per capita**<br>
 _Total energy consumption per capita 2019_: 1.575 million Btu/person (2019 est.)<br>
@@ -703,8 +703,8 @@ the ANT is mostly armed with older or second-hand equipment from Belgium, France
 20 is the legal minimum age for compulsory military service, with a 3-year service obligation; 18 is the legal minimum age for voluntary service; no minimum age restriction for volunteers with consent from a parent or guardian; women are subject to 1 year of compulsory military or civic service at age 21 (2021)<br>
 
 **Military deployments**<br>
-1,425 Mali (MINUSMA) (Jan 2022)<br>
-<strong>note 1:</strong> Chad has committed approximately 1,000-1,500 troops to the Multinational Joint Task Force (MNJTF) against Boko Haram and other terrorist groups operating in the general area of the Lake Chad Basin and along Nigeria's northeast border; national MNJTF troop contingents are deployed within their own territories, although cross‐border operations are conducted periodically; in 2019, Chad sent more than 1,000 troops to Nigeria’s Borno State to fight Boko Haram as part of the MNJTF mission<br><br><strong>note 2: </strong>Chad is also part of a five-nation anti-jihadist task force known as the G5 Sahel Group, set up in 2014 with Burkina Faso, Mali (withdrew in 2022), Mauritania, and Niger; it has about 600 troops committed to the force; the G5 force is backed by the UN, US, and France; G5 troops periodically conduct joint operations with French forces deployed to the Sahel under Operation Barkhane; in early 2020, G5 Sahel military chiefs of staff agreed to allow defense forces from each of the states to pursue terrorist fighters up to 100 km into neighboring countries<br>
+1,450 Mali (MINUSMA) (May 2022)<br>
+<strong>note 1:</strong> Chad has committed approximately 1,000-1,500 troops to the Multinational Joint Task Force (MNJTF) against Boko Haram and other terrorist groups operating in the general area of the Lake Chad Basin and along Nigeria's northeast border; national MNJTF troop contingents are deployed within their own territories, although cross‐border operations are conducted periodically; in 2019, Chad sent more than 1,000 troops to Nigeria’s Borno State to fight Boko Haram as part of the MNJTF mission<br><br><strong>note 2: </strong>Chad is also part of a five-nation anti-jihadist task force known as the G5 (now G4) Sahel Group, set up in 2014 with Burkina Faso, Mali (withdrew in 2022), Mauritania, and Niger; it has about 600 troops committed to the force; the G4 force is backed by the UN, US, and France and its troops periodically conduct joint operations with French forces deployed to the Sahel under Operation Barkhane; in early 2020, G4 Sahel military chiefs of staff agreed to allow defense forces from each of the states to pursue terrorist fighters up to 100 km into neighboring countries<br>
 
 **Military - note**<br>
 as of 2022, the ANT was chiefly focused on counterterrorism and counterinsurgency operations; it was engaged with the Boko Haram (BH) and the Islamic State in West Africa (ISWA) terrorist groups in the Lake Chad Basin area (primarily the Lac Province) and in the Sahel, particularly the tri-border area with Burkina Faso, Mali, and Niger; in addition, the ANT was conducting operations against internal anti-government militias and armed dissident groups; several Chadian rebel groups, including the Union of Resistance Forces (UFR) and the Front for Change and Concord in Chad (FACT), operate in northern Chad from bases in Libya; former Chadian President Idriss DEBY<strong> </strong>was killed in April 2021 during fighting in the northern part of the country between FACT and the Chadian Army<br>
@@ -721,7 +721,7 @@ Boko Haram; Islamic State of Iraq and ash-Sham - West Africa (ISIS-WA)<br>
 <p>since 2003, ad hoc armed militia groups and the Sudanese military have driven hundreds of thousands of Darfur residents into Chad; Chad wishes to be a helpful mediator in resolving the Darfur conflict, and in 2010 established a joint border monitoring force with Sudan, which has helped to reduce cross-border banditry and violence; only Nigeria and Cameroon have heeded the Lake Chad Commission's admonition to ratify the delimitation treaty, which also includes the Chad-Niger and Niger-Nigeria boundaries</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 393,082 (Sudan), 123,359 (Central African Republic), 42,518 (Cameroon), 20,021 (Nigeria) (2022)<br>
+_refugees (country of origin)_: 391,601 (Sudan), 124,488 (Central African Republic), 42,543 (Cameroon), 20,103 (Nigeria) (2022)<br>
 _IDPs_: 381,289 (majority are in the east) (2022)<br>
 
 **Trafficking in persons**<br>

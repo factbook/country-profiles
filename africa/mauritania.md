@@ -408,9 +408,9 @@ green with a yellow, five-pointed star between the horns of a yellow, upward-poi
 five-pointed star between the horns of a horizontal crescent moon; national colors: green, yellow<br>
 
 **National anthem**<br>
-_name_: "Hymne National de la Republique Islamique de Mauritanie" (National Anthem of the Islamic Republic of Mauritania)<br>
-_lyrics/music_: Baba Ould CHEIKH/traditional, arranged by Tolia NIKIPROWETZKY<br>
-<strong>note:</strong> adopted 1960; the unique rhythm of the Mauritanian anthem makes it particularly challenging to sing; Mauritania in November 2017 adopted a new national anthem, "Bilada-l ubati-l hudati-l kiram" (The Country of Fatherhood is the Honorable Gift) composed by Rageh Daoud (sound file of the new anthem is forthcoming)<br>
+_name_: "Bilāda l-ʾubāti l-hudāti l-kirām" (Land of the Proud, Guided by Noblemen)<br>
+_lyrics/music_: unknown/traditional, Rageh DAOUD<br>
+<strong>note:</strong> adopted 16 November 2017<br>
 
 **National heritage**<br>
 _total World Heritage Sites_: 2 (1 cultural, 1 natural)<br>
@@ -564,35 +564,35 @@ _electrification - urban areas_: 56% (2019)<br>
 _electrification - rural areas_: 4% (2019)<br>
 
 **Electricity**<br>
-_Installed generating capacity_: 656,000 kW (2020 est.)<br>
-_Consumption_: 1.577 billion kWh (2019 est.)<br>
-_Exports_: 0 kWh (2019 est.)<br>
-_Imports_: 0 kWh (2019 est.)<br>
-_Transmission/distribution losses_: 245 million kWh (2019 est.)<br>
+_installed generating capacity_: 656,000 kW (2020 est.)<br>
+_consumption_: 1.577 billion kWh (2019 est.)<br>
+_exports_: 0 kWh (2019 est.)<br>
+_imports_: 0 kWh (2019 est.)<br>
+_transmission/distribution losses_: 245 million kWh (2019 est.)<br>
 
 **Electricity generation sources**<br>
-_Fossil fuels_: 73.2% of total installed capacity (2020 est.)<br>
-_Nuclear_: 0% of total installed capacity (2020 est.)<br>
-_Solar_: 8.1% of total installed capacity (2020 est.)<br>
-_Wind_: 6.8% of total installed capacity (2020 est.)<br>
-_Hydroelectricity_: 11.9% of total installed capacity (2020 est.)<br>
-_Tide and wave_: 0% of total installed capacity (2020 est.)<br>
-_Geothermal_: 0% of total installed capacity (2020 est.)<br>
-_Biomass and waste_: 0% of total installed capacity (2020 est.)<br>
+_fossil fuels_: 73.2% of total installed capacity (2020 est.)<br>
+_nuclear_: 0% of total installed capacity (2020 est.)<br>
+_solar_: 8.1% of total installed capacity (2020 est.)<br>
+_wind_: 6.8% of total installed capacity (2020 est.)<br>
+_hydroelectricity_: 11.9% of total installed capacity (2020 est.)<br>
+_tide and wave_: 0% of total installed capacity (2020 est.)<br>
+_geothermal_: 0% of total installed capacity (2020 est.)<br>
+_biomass and waste_: 0% of total installed capacity (2020 est.)<br>
 
 **Coal**<br>
-_Production_: 0 metric tons (2020 est.)<br>
-_Consumption_: 0 metric tons (2020 est.)<br>
-_Exports_: 0 metric tons (2020 est.)<br>
-_Imports_: 0 metric tons (2020 est.)<br>
-_Proven reserves_: 0 metric tons (2019 est.)<br>
+_production_: 0 metric tons (2020 est.)<br>
+_consumption_: 0 metric tons (2020 est.)<br>
+_exports_: 0 metric tons (2020 est.)<br>
+_imports_: 0 metric tons (2020 est.)<br>
+_proven reserves_: 0 metric tons (2019 est.)<br>
 
 **Petroleum**<br>
-_Total petroleum production_: 0 bbl/day (2021 est.)<br>
-_Refined petroleum consumption_: 27,500 bbl/day (2019 est.)<br>
-_Crude oil and lease condensate exports_: 4,800 barrels/day (2018 est.)<br>
-_Crude oil and lease condensate imports_: 0 barrels/day (2018 est.)<br>
-_Crude oil estimated reserves_: 20 million barrels (2021 est.)<br>
+_total petroleum production_: 0 bbl/day (2021 est.)<br>
+_refined petroleum consumption_: 27,500 bbl/day (2019 est.)<br>
+_crude oil and lease condensate exports_: 4,800 barrels/day (2018 est.)<br>
+_crude oil and lease condensate imports_: 0 barrels/day (2018 est.)<br>
+_crude oil estimated reserves_: 20 million barrels (2021 est.)<br>
 
 **Refined petroleum products - production**<br>
 0 bbl/day (2015 est.)<br>
@@ -604,17 +604,17 @@ _Crude oil estimated reserves_: 20 million barrels (2021 est.)<br>
 17,290 bbl/day (2015 est.)<br>
 
 **Natural gas**<br>
-_Production_: 0 cubic meters (2021 est.)<br>
-_Consumption_: 0 cubic meters (2021 est.)<br>
-_Exports_: 0 cubic meters (2021 est.)<br>
-_Imports_: 0 cubic meters (2021 est.)<br>
-_Proven reserves_: 28.317 billion cubic meters (2021 est.)<br>
+_production_: 0 cubic meters (2021 est.)<br>
+_consumption_: 0 cubic meters (2021 est.)<br>
+_exports_: 0 cubic meters (2021 est.)<br>
+_imports_: 0 cubic meters (2021 est.)<br>
+_proven reserves_: 28.317 billion cubic meters (2021 est.)<br>
 
 **Carbon dioxide emissions**<br>
-_Total emissions_: 4.041 million metric tonnes of CO2 (2019 est.)<br>
-_From coal and metallurgical coke_: 0 metric tonnes of CO2 (2019 est.)<br>
-_From petroleum and other liquids_: 4.041 million metric tonnes of CO2 (2019 est.)<br>
-_From consumed natural gas_: 0 metric tonnes of CO2 (2019 est.)<br>
+_total emissions_: 4.041 million metric tonnes of CO2 (2019 est.)<br>
+_from coal and metallurgical coke_: 0 metric tonnes of CO2 (2019 est.)<br>
+_from petroleum and other liquids_: 4.041 million metric tonnes of CO2 (2019 est.)<br>
+_from consumed natural gas_: 0 metric tonnes of CO2 (2019 est.)<br>
 
 **Energy consumption per capita**<br>
 _Total energy consumption per capita 2019_: 13.558 million Btu/person (2019 est.)<br>
@@ -716,8 +716,8 @@ the Mauritanian Armed Forces' inventory is limited and made up largely of older 
 18 is the legal minimum age for voluntary military service; no conscription (2022)<br>
 
 **Military deployments**<br>
-460 (plus about 320 police) Central African Republic (MINUSCA) (Feb 2022)<br>
-<strong>note:</strong> Mauritania is part of a five-nation anti-jihadist task force known as the G5 Sahel Group, set up in 2014 with Burkina Faso, Chad, Mali (withdrew in 2022), and Niger; it has committed 550 troops and 100 gendarmes to the force; in early 2020, G5 Sahel military chiefs of staff agreed to allow defense forces from each of the states to pursue terrorist fighters up to 100 km into neighboring countries; the G5 force is backed by the UN, US, and France<br>
+470 (plus about 320 police) Central African Republic (MINUSCA) (May 2022)<br>
+<strong>note:</strong> Mauritania is part of a five-nation anti-jihadist task force known as the G5 (now G4) Sahel Group, set up in 2014 with Burkina Faso, Chad, Mali (withdrew in 2022), and Niger; it has committed 550 troops and 100 gendarmes to the force; in early 2020, G4 Sahel military chiefs of staff agreed to allow defense forces from each of the states to pursue terrorist fighters up to 100 km into neighboring countries; the force is backed by the UN, US, and France<br>
 
 **Military - note**<br>
 since a spate of terrorist attacks in the 2000s, including a 2008 attack on a military base in the country&rsquo;s north that resulted in the deaths of 12 soldiers, the Mauritanian Government has increased the defense budget and military equipment acquisitions, enhanced military training, heightened security cooperation with its neighbors and the international community, and built up the military&rsquo;s special operations and civil-military affairs forces (2022)<br>

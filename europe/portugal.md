@@ -346,7 +346,7 @@ _judge selection and term of office_: Supreme Court justices nominated by the pr
 _subordinate courts_: Supreme Administrative Court (Supremo Tribunal Administrativo); Audit Court (Tribunal de Contas); appellate, district, and municipal courts<br>
 
 **Political parties and leaders**<br>
-Democratic Alliance (2022 electoral alliance in the Azores, includes PSD, CDS-PP, PPM)<br>Democratic and Social Center/Popular Party (Partido do Centro Democratico Social-Partido Popular) or CDS-PP [Assuncao CRISTAS]<br>Ecologist Party "The Greens" or "Os Verdes" (Partido Ecologista-Os Verdes) or PEV [Heloisa APOLONIA]<br>Enough (Chega) [Andre VENTURA]<br>Liberal Initiative (Iniciativa Liberal) or IL [Joao COTRIM DE FIGUEIREDO]<br>Madeira First (2022 electoral alliance in Madeira, includes PSD, CDS-PP)<br>People-Animals-Nature Party (Pessoas-Animais-Natureza) or PAN [Andre SILVA]<br>People's Monarchist Party or PPM [Gonçalo DA CAMARA PEREIRA]<br>Portuguese Communist Party (Partido Comunista Portugues) or PCP [Jeronimo DE SOUSA]<br>Social Democratic Party (Partido Social Democrata) or PSD (original name Partido Popular Democratico or PPD) [Rui RIO]<br>Socialist Party (Partido Socialista) or PS [Antonio COSTA]<br>The Left Bloc (Bloco de Esquerda) or BE or O Bloco [Catarina MARTINS]<br>Unitary Democratic Coalition (Coligacao Democratica Unitaria) or CDU [Jeronimo DE SOUSA] (includes PCP and PEV)<br>
+Democratic Alliance (2022 electoral alliance in the Azores, includes PSD, CDS-PP, PPM)<br>Democratic and Social Center/Popular Party (Partido do Centro Democratico Social-Partido Popular) or CDS-PP [Nuno MELO]<br>Ecologist Party "The Greens" or "Os Verdes" (Partido Ecologista-Os Verdes) or PEV [Heloisa APOLONIA]<br>Enough (Chega) [Andre VENTURA]<br>Liberal Initiative (Iniciativa Liberal) or IL [Joao COTRIM DE FIGUEIREDO]<br>Madeira First (2022 electoral alliance in Madeira, includes PSD, CDS-PP)<br>People-Animals-Nature Party (Pessoas-Animais-Natureza) or PAN [Ines SOUSA REAL]<br>People's Monarchist Party or PPM [Gonçalo DA CAMARA PEREIRA]<br>Portuguese Communist Party (Partido Comunista Portugues) or PCP [Jeronimo DE SOUSA]<br>Social Democratic Party (Partido Social Democrata) or PSD (original name Partido Popular Democratico or PPD) [Luis MONTENEGRO]<br>Socialist Party (Partido Socialista) or PS [Antonio COSTA]<br>The Left Bloc (Bloco de Esquerda) or BE or O Bloco [Catarina MARTINS]<br>Unitary Democratic Coalition (Coligacao Democratica Unitaria) or CDU [Jeronimo DE SOUSA] (includes PCP and PEV)<br>
 
 **International organization participation**<br>
 ADB (nonregional member), AfDB (nonregional member), Australia Group, BIS, CD, CE, CERN, CPLP, EAPC, EBRD, ECB, EIB, EMU, ESA, EU, FAO, FATF, IADB, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IEA, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), LAIA (observer), MIGA, MINUSMA, NATO, NEA, NSG, OAS (observer), OECD, OPCW, OSCE, Pacific Alliance (observer), Paris Club (associate), PCA, Schengen Convention, SELEC (observer), UN, UNCTAD, UNESCO, UNHCR, UNIDO, Union Latina, UNWTO, UPU, Wassenaar Arrangement, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO, ZC<br>
@@ -535,35 +535,35 @@ _Currency_: euros (EUR) per US dollar -<br>
 _electrification - total population_: 100% (2020)<br>
 
 **Electricity**<br>
-_Installed generating capacity_: 22.364 million kW (2020 est.)<br>
-_Consumption_: 48.409 billion kWh (2020 est.)<br>
-_Exports_: 6.097 billion kWh (2020 est.)<br>
-_Imports_: 7.553 billion kWh (2020 est.)<br>
-_Transmission/distribution losses_: 5.269 billion kWh (2020 est.)<br>
+_installed generating capacity_: 22.364 million kW (2020 est.)<br>
+_consumption_: 48.409 billion kWh (2020 est.)<br>
+_exports_: 6.097 billion kWh (2020 est.)<br>
+_imports_: 7.553 billion kWh (2020 est.)<br>
+_transmission/distribution losses_: 5.269 billion kWh (2020 est.)<br>
 
 **Electricity generation sources**<br>
-_Fossil fuels_: 39% of total installed capacity (2020 est.)<br>
-_Nuclear_: 0% of total installed capacity (2020 est.)<br>
-_Solar_: 3.2% of total installed capacity (2020 est.)<br>
-_Wind_: 23.3% of total installed capacity (2020 est.)<br>
-_Hydroelectricity_: 26.5% of total installed capacity (2020 est.)<br>
-_Tide and wave_: 0% of total installed capacity (2020 est.)<br>
-_Geothermal_: 0.4% of total installed capacity (2020 est.)<br>
-_Biomass and waste_: 7.7% of total installed capacity (2020 est.)<br>
+_fossil fuels_: 39% of total installed capacity (2020 est.)<br>
+_nuclear_: 0% of total installed capacity (2020 est.)<br>
+_solar_: 3.2% of total installed capacity (2020 est.)<br>
+_wind_: 23.3% of total installed capacity (2020 est.)<br>
+_hydroelectricity_: 26.5% of total installed capacity (2020 est.)<br>
+_tide and wave_: 0% of total installed capacity (2020 est.)<br>
+_geothermal_: 0.4% of total installed capacity (2020 est.)<br>
+_biomass and waste_: 7.7% of total installed capacity (2020 est.)<br>
 
 **Coal**<br>
-_Production_: 0 metric tons (2020 est.)<br>
-_Consumption_: 957,000 metric tons (2020 est.)<br>
-_Exports_: 1,000 metric tons (2020 est.)<br>
-_Imports_: 238,000 metric tons (2020 est.)<br>
-_Proven reserves_: 36 million metric tons (2019 est.)<br>
+_production_: 0 metric tons (2020 est.)<br>
+_consumption_: 957,000 metric tons (2020 est.)<br>
+_exports_: 1,000 metric tons (2020 est.)<br>
+_imports_: 238,000 metric tons (2020 est.)<br>
+_proven reserves_: 36 million metric tons (2019 est.)<br>
 
 **Petroleum**<br>
-_Total petroleum production_: 8,000 bbl/day (2021 est.)<br>
-_Refined petroleum consumption_: 249,100 bbl/day (2019 est.)<br>
-_Crude oil and lease condensate exports_: 0 barrels/day (2018 est.)<br>
-_Crude oil and lease condensate imports_: 255,400 barrels/day (2018 est.)<br>
-_Crude oil estimated reserves_: 0 barrels (2021 est.)<br>
+_total petroleum production_: 8,000 bbl/day (2021 est.)<br>
+_refined petroleum consumption_: 249,100 bbl/day (2019 est.)<br>
+_crude oil and lease condensate exports_: 0 barrels/day (2018 est.)<br>
+_crude oil and lease condensate imports_: 255,400 barrels/day (2018 est.)<br>
+_crude oil estimated reserves_: 0 barrels (2021 est.)<br>
 
 **Refined petroleum products - production**<br>
 323,000 bbl/day (2017 est.)<br>
@@ -575,17 +575,17 @@ _Crude oil estimated reserves_: 0 barrels (2021 est.)<br>
 78,700 bbl/day (2017 est.)<br>
 
 **Natural gas**<br>
-_Production_: 0 cubic meters (2021 est.)<br>
-_Consumption_: 5,935,938,000 cubic meters (2020 est.)<br>
-_Exports_: 0 cubic meters (2021 est.)<br>
-_Imports_: 6,091,114,000 cubic meters (2020 est.)<br>
-_Proven reserves_: 0 cubic meters (2021 est.)<br>
+_production_: 0 cubic meters (2021 est.)<br>
+_consumption_: 5,935,938,000 cubic meters (2020 est.)<br>
+_exports_: 0 cubic meters (2021 est.)<br>
+_imports_: 6,091,114,000 cubic meters (2020 est.)<br>
+_proven reserves_: 0 cubic meters (2021 est.)<br>
 
 **Carbon dioxide emissions**<br>
-_Total emissions_: 50.37 million metric tonnes of CO2 (2019 est.)<br>
-_From coal and metallurgical coke_: 4.882 million metric tonnes of CO2 (2019 est.)<br>
-_From petroleum and other liquids_: 33.429 million metric tonnes of CO2 (2019 est.)<br>
-_From consumed natural gas_: 12.059 million metric tonnes of CO2 (2019 est.)<br>
+_total emissions_: 50.37 million metric tonnes of CO2 (2019 est.)<br>
+_from coal and metallurgical coke_: 4.882 million metric tonnes of CO2 (2019 est.)<br>
+_from petroleum and other liquids_: 33.429 million metric tonnes of CO2 (2019 est.)<br>
+_from consumed natural gas_: 12.059 million metric tonnes of CO2 (2019 est.)<br>
 
 **Energy consumption per capita**<br>
 _Total energy consumption per capita 2019_: 101.734 million Btu/person (2019 est.)<br>
@@ -687,7 +687,7 @@ Portuguese Armed Forces: Portuguese Army (Exercito Portuguesa), Portuguese Navy 
 1.2% of GDP (2017) (approximately $3.62 billion)<br>
 
 **Military and security service personnel strengths**<br>
-the Portuguese Armed Forces have approximately 27,000 active duty personnel (14,000 Army; 7,000 Navy, inc about 1,000 marines; 6,000 Air Force); 24,500 National Republican Guard (military personnel) (2022)<br>
+the Portuguese Armed Forces have approximately 27,000 active duty personnel (14,000 Army; 7,000 Navy, including about 1,000 marines; 6,000 Air Force); 24,500 National Republican Guard (military personnel) (2022)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the Portuguese Armed Forces inventory includes mostly European and US-origin weapons systems along with a smaller mix of domestically-produced equipment; since 2010, Germany and the US are the leading suppliers of armaments to Portugal; Portugal's defense industry is primarily focused on shipbuilding (2021)<br>
@@ -698,7 +698,7 @@ the Portuguese Armed Forces inventory includes mostly European and US-origin wea
 
 **Military deployments**<br>
 200 Central African Republic (MINUSCA/EUTM); up to 120 Lithuania (NATO) (2022)<br>
-<strong>note 1: </strong>in 2021, Portugal deployed about 80 troops to Mozambique to assist with the EU training mission<br><br><strong>note 2: </strong>NATO troop deployment numbers in eastern Europe are as of February 2022; in response to Russia’s 2022 invasion of Ukraine, some NATO countries,  including Portugal, have sent additional troops to the battlegroups deployed in NATO territory in eastern Europe<br>
+<strong>note 1: </strong>in 2021, Portugal deployed about 80 troops to Mozambique to assist with the EU training mission<br><br><strong>note 2: </strong>NATO troop deployment numbers in eastern Europe are as of February 2022; in response to Russia’s 2022 invasion of Ukraine, some NATO countries, including Portugal, have sent additional troops to the battlegroups deployed in NATO territory in eastern Europe<br>
 
 **Military - note**<br>
 Portugal is a member of NATO and was one of the original 12 countries to sign the North Atlantic Treaty (also known as the Washington Treaty) in 1949<br>

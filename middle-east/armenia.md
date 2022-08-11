@@ -350,7 +350,7 @@ _judge selection and term of office_: Court of Cassation judges nominated by the
 _subordinate courts_: criminal and civil appellate courts; administrative appellate court; first instance courts; specialized administrative and bankruptcy courts<br>
 
 **Political parties and leaders**<br>
-twenty-five political parties or alliances competed in the June 2021 election; the top three parties or alliances that entered parliament garnered 80% of the vote; the below parties received 1% or more of the vote:<br>5165 National Conservative Movement Party [Karin TONOYAN]<br>Alliance of Democrats [Arman BABAJANYAN]<br>Armenia Alliance or HD [Robert KOCHARYAN] (alliance of the Armenian Revolutionary Federation and the Reborn Armenia Party)<br>Armenian National Congress or ANC [Levon TER-PETROSSIAN] (bloc of independent and opposition parties)<br>Bright Armenia [Edmon MARUKYAN]<br>Civil Contract or KP [Nikol PASHINYAN]<br>Homeland of Armenians [Artak GALSTYAN]<br>Homeland Party [Artur VANETSYAN]<br>I Have Honor Alliance (alliance of the RPA and the Homeland Party, co-led by the two allied parties' leaders)<br>Liberal Party [Samvel BABAYAN]<br>National Democratic Party [Vahe GASPARYAN]<br>Prosperous Armenia or BHK [Gagik TSARUKYAN]<br>Republic Party (Hanrapetutyun Party) [Aram SARGSYAN]<br>Republican Party of Armenia or RPA [Serzh SARGSIAN]<br>
+the below parties received 1% or more of the vote:<br>5165 National Conservative Movement Party [Karin TONOYAN]<br>Alliance of Democrats [Arman BABAJANYAN]<br>Armenia Alliance or HD [Robert KOCHARYAN] (alliance of the Armenian Revolutionary Federation and the Reborn Armenia Party)<br>Armenian National Congress or ANC [Levon TER-PETROSSIAN] (bloc of independent and opposition parties)<br>Bright Armenia [Edmon MARUKYAN]<br>Civil Contract or KP [Nikol PASHINYAN]<br>Homeland of Armenians [Artak GALSTYAN]<br>Homeland Party [Artur VANETSYAN]<br>I Have Honor Alliance (alliance of the RPA and the Homeland Party, co-led by the two allied parties' leaders)<br>Liberal Party [Samvel BABAYAN]<br>National Democratic Party [Vahe GASPARYAN]<br>Prosperous Armenia or BHK [Gagik TSARUKYAN]<br>Republic Party (Hanrapetutyun Party) [Aram SARGSYAN]<br>Republican Party of Armenia or RPA [Serzh SARGSIAN]<br>
 
 **International organization participation**<br>
 ADB, BSEC, CD, CE, CIS, CSTO, EAEC (observer), EAEU, EAPC, EBRD, FAO, GCTU, IAEA, IBRD, ICAO, ICC (NGOs), ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, MIGA, NAM (observer), OAS (observer), OIF, OPCW, OSCE, PFP, UN, UNCTAD, UNESCO, UNIDO, UNIFIL, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
@@ -535,35 +535,35 @@ _Currency_: drams (AMD) per US dollar -<br>
 _electrification - total population_: 100% (2020)<br>
 
 **Electricity**<br>
-_Installed generating capacity_: 3.633 million kW (2020 est.)<br>
-_Consumption_: 5,758,470,000 kWh (2019 est.)<br>
-_Exports_: 1.251 billion kWh (2020 est.)<br>
-_Imports_: 320 million kWh (2020 est.)<br>
-_Transmission/distribution losses_: 548 million kWh (2019 est.)<br>
+_installed generating capacity_: 3.633 million kW (2020 est.)<br>
+_consumption_: 5,758,470,000 kWh (2019 est.)<br>
+_exports_: 1.251 billion kWh (2020 est.)<br>
+_imports_: 320 million kWh (2020 est.)<br>
+_transmission/distribution losses_: 548 million kWh (2019 est.)<br>
 
 **Electricity generation sources**<br>
-_Fossil fuels_: 40.6% of total installed capacity (2020 est.)<br>
-_Nuclear_: 34.8% of total installed capacity (2020 est.)<br>
-_Solar_: 0.3% of total installed capacity (2020 est.)<br>
-_Wind_: 0% of total installed capacity (2020 est.)<br>
-_Hydroelectricity_: 24.3% of total installed capacity (2020 est.)<br>
-_Tide and wave_: 0% of total installed capacity (2020 est.)<br>
-_Geothermal_: 0% of total installed capacity (2020 est.)<br>
-_Biomass and waste_: 0% of total installed capacity (2020 est.)<br>
+_fossil fuels_: 40.6% of total installed capacity (2020 est.)<br>
+_nuclear_: 34.8% of total installed capacity (2020 est.)<br>
+_solar_: 0.3% of total installed capacity (2020 est.)<br>
+_wind_: 0% of total installed capacity (2020 est.)<br>
+_hydroelectricity_: 24.3% of total installed capacity (2020 est.)<br>
+_tide and wave_: 0% of total installed capacity (2020 est.)<br>
+_geothermal_: 0% of total installed capacity (2020 est.)<br>
+_biomass and waste_: 0% of total installed capacity (2020 est.)<br>
 
 **Coal**<br>
-_Production_: 0 metric tons (2020 est.)<br>
-_Consumption_: 12,000 metric tons (2020 est.)<br>
-_Exports_: 0 metric tons (2020 est.)<br>
-_Imports_: 12,000 metric tons (2020 est.)<br>
-_Proven reserves_: 163 million metric tons (2019 est.)<br>
+_production_: 0 metric tons (2020 est.)<br>
+_consumption_: 12,000 metric tons (2020 est.)<br>
+_exports_: 0 metric tons (2020 est.)<br>
+_imports_: 12,000 metric tons (2020 est.)<br>
+_proven reserves_: 163 million metric tons (2019 est.)<br>
 
 **Petroleum**<br>
-_Total petroleum production_: 0 bbl/day (2021 est.)<br>
-_Refined petroleum consumption_: 10,900 bbl/day (2019 est.)<br>
-_Crude oil and lease condensate exports_: 0 barrels/day (2018 est.)<br>
-_Crude oil and lease condensate imports_: 0 barrels/day (2018 est.)<br>
-_Crude oil estimated reserves_: 0 barrels (2021 est.)<br>
+_total petroleum production_: 0 bbl/day (2021 est.)<br>
+_refined petroleum consumption_: 10,900 bbl/day (2019 est.)<br>
+_crude oil and lease condensate exports_: 0 barrels/day (2018 est.)<br>
+_crude oil and lease condensate imports_: 0 barrels/day (2018 est.)<br>
+_crude oil estimated reserves_: 0 barrels (2021 est.)<br>
 
 **Refined petroleum products - production**<br>
 0 bbl/day (2015 est.)<br>
@@ -575,17 +575,17 @@ _Crude oil estimated reserves_: 0 barrels (2021 est.)<br>
 7,145 bbl/day (2015 est.)<br>
 
 **Natural gas**<br>
-_Production_: 0 cubic meters (2021 est.)<br>
-_Consumption_: 2,537,497,000 cubic meters (2019 est.)<br>
-_Exports_: 0 cubic meters (2021 est.)<br>
-_Imports_: 2,514,220,000 cubic meters (2019 est.)<br>
-_Proven reserves_: 0 cubic meters (2021 est.)<br>
+_production_: 0 cubic meters (2021 est.)<br>
+_consumption_: 2,537,497,000 cubic meters (2019 est.)<br>
+_exports_: 0 cubic meters (2021 est.)<br>
+_imports_: 2,514,220,000 cubic meters (2019 est.)<br>
+_proven reserves_: 0 cubic meters (2021 est.)<br>
 
 **Carbon dioxide emissions**<br>
-_Total emissions_: 6.354 million metric tonnes of CO2 (2019 est.)<br>
-_From coal and metallurgical coke_: 12,000 metric tonnes of CO2 (2019 est.)<br>
-_From petroleum and other liquids_: 1.364 million metric tonnes of CO2 (2019 est.)<br>
-_From consumed natural gas_: 4.978 million metric tonnes of CO2 (2019 est.)<br>
+_total emissions_: 6.354 million metric tonnes of CO2 (2019 est.)<br>
+_from coal and metallurgical coke_: 12,000 metric tonnes of CO2 (2019 est.)<br>
+_from petroleum and other liquids_: 1.364 million metric tonnes of CO2 (2019 est.)<br>
+_from consumed natural gas_: 4.978 million metric tonnes of CO2 (2019 est.)<br>
 
 **Energy consumption per capita**<br>
 _Total energy consumption per capita 2019_: 53.019 million Btu/person (2019 est.)<br>
@@ -679,7 +679,7 @@ the inventory of the Armenian Armed Forces includes mostly Russian and Soviet-er
 <strong>note:</strong> as of 2021, conscripts comprised about half of the military's active personnel; as of 2018, women made up about 13% of the active duty military<br>
 
 **Military - note**<br>
-since November 2020, Russia has deployed about 2,000 peacekeeping troops to the area in and around Nagorno-Karabakh as part of a cease-fire agreement between Armenia and Azerbaijan; fighting erupted between the two countries over the Nagorno-Karabakh region in September of 2020; Nagorno-Karabakh lies within Azerbaijan but has been under control of ethnic Armenian forces (the "Nagorno-Karabakh Defense Army") backed by Armenia since a separatist war there ended in 1994; six weeks of fighting resulted in about 6,000 deaths and ended after Armenia ceded swathes of Nagorno-Karabakh territory; tensions remained high into 2022, and both sides have accused the other of provocations since the fighting ended; Armenia has accused Azerbaijani forces of a series of border intrusions and of seizing pockets of territory <br><br>Armenia has been a member of the Collective Security Treaty Organization (CSTO) since 1994 and contributes troops to CSTO's rapid reaction force<br>
+since November 2020, Russia has deployed about 2,000 peacekeeping troops to the area in and around Nagorno-Karabakh as part of a cease-fire agreement between Armenia and Azerbaijan; fighting erupted between the two countries over the Nagorno-Karabakh region in September of 2020; Nagorno-Karabakh lies within Azerbaijan but has been under control of ethnic Armenian forces (the "Nagorno-Karabakh Defense Army") backed by Armenia since a separatist war there ended in 1994; six weeks of fighting resulted in about 6,500 deaths and ended after Armenia ceded swathes of Nagorno-Karabakh territory; tensions remained high into 2022, and both sides have accused the other of provocations since the fighting ended; Armenia has accused Azerbaijani forces of a series of border intrusions and of seizing pockets of territory <br><br>Armenia has been a member of the Collective Security Treaty Organization (CSTO) since 1994 and contributes troops to CSTO's rapid reaction force<br>
 
 ## Transnational Issues
 

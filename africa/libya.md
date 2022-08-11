@@ -310,7 +310,7 @@ _etymology_: originally founded by the Phoenicians as Oea in the 7th century B.C
 Liberation Day, 23 October (2011)<br>
 
 **Constitution**<br>
-_history_: previous 1951, 1977; in July 2017, the Constitutional Assembly completed and approved a draft of a new permanent constitution; in September 2018,&nbsp;the House of Representatives passed a constitutional referendum law in a session with contested reports of the quorum needed to pass the vote, and submitted it to the High National Elections Commission in December to begin preparations for a constitutional referendum<br>
+_history_: previous 1951, 1977; in July 2017, the Constitutional Assembly completed and approved a draft of a new permanent constitution; in September 2018, the House of Representatives passed a constitutional referendum law in a session with contested reports of the quorum needed to pass the vote, and submitted it to the High National Elections Commission in December to begin preparations for a constitutional referendum; the referendum is planned in 2022, following the presidential election<br>
 
 **Legal system**<br>
 Libya's post-revolution legal system is in flux and driven by state and non-state entities<br>
@@ -513,35 +513,35 @@ _Currency_: Libyan dinars (LYD) per US dollar -<br>
 _electrification - total population_: 100% (2019)<br>
 
 **Electricity**<br>
-_Installed generating capacity_: 10.516 million kW (2020 est.)<br>
-_Consumption_: 25,360,340,000 kWh (2019 est.)<br>
-_Exports_: 0 kWh (2019 est.)<br>
-_Imports_: 465 million kWh (2019 est.)<br>
-_Transmission/distribution losses_: 6.801 billion kWh (2019 est.)<br>
+_installed generating capacity_: 10.516 million kW (2020 est.)<br>
+_consumption_: 25,360,340,000 kWh (2019 est.)<br>
+_exports_: 0 kWh (2019 est.)<br>
+_imports_: 465 million kWh (2019 est.)<br>
+_transmission/distribution losses_: 6.801 billion kWh (2019 est.)<br>
 
 **Electricity generation sources**<br>
-_Fossil fuels_: 100% of total installed capacity (2020 est.)<br>
-_Nuclear_: 0% of total installed capacity (2020 est.)<br>
-_Solar_: 0% of total installed capacity (2020 est.)<br>
-_Wind_: 0% of total installed capacity (2020 est.)<br>
-_Hydroelectricity_: 0% of total installed capacity (2020 est.)<br>
-_Tide and wave_: 0% of total installed capacity (2020 est.)<br>
-_Geothermal_: 0% of total installed capacity (2020 est.)<br>
-_Biomass and waste_: 0% of total installed capacity (2020 est.)<br>
+_fossil fuels_: 100% of total installed capacity (2020 est.)<br>
+_nuclear_: 0% of total installed capacity (2020 est.)<br>
+_solar_: 0% of total installed capacity (2020 est.)<br>
+_wind_: 0% of total installed capacity (2020 est.)<br>
+_hydroelectricity_: 0% of total installed capacity (2020 est.)<br>
+_tide and wave_: 0% of total installed capacity (2020 est.)<br>
+_geothermal_: 0% of total installed capacity (2020 est.)<br>
+_biomass and waste_: 0% of total installed capacity (2020 est.)<br>
 
 **Coal**<br>
-_Production_: 0 metric tons (2020 est.)<br>
-_Consumption_: 0 metric tons (2020 est.)<br>
-_Exports_: 0 metric tons (2020 est.)<br>
-_Imports_: 0 metric tons (2020 est.)<br>
-_Proven reserves_: 0 metric tons (2019 est.)<br>
+_production_: 0 metric tons (2020 est.)<br>
+_consumption_: 0 metric tons (2020 est.)<br>
+_exports_: 0 metric tons (2020 est.)<br>
+_imports_: 0 metric tons (2020 est.)<br>
+_proven reserves_: 0 metric tons (2019 est.)<br>
 
 **Petroleum**<br>
-_Total petroleum production_: 1,252,800 bbl/day (2021 est.)<br>
-_Refined petroleum consumption_: 219,700 bbl/day (2019 est.)<br>
-_Crude oil and lease condensate exports_: 1,067,400 barrels/day (2018 est.)<br>
-_Crude oil and lease condensate imports_: 0 barrels/day (2018 est.)<br>
-_Crude oil estimated reserves_: 48.363 billion barrels (2021 est.)<br>
+_total petroleum production_: 1,252,800 bbl/day (2021 est.)<br>
+_refined petroleum consumption_: 219,700 bbl/day (2019 est.)<br>
+_crude oil and lease condensate exports_: 1,067,400 barrels/day (2018 est.)<br>
+_crude oil and lease condensate imports_: 0 barrels/day (2018 est.)<br>
+_crude oil estimated reserves_: 48.363 billion barrels (2021 est.)<br>
 
 **Refined petroleum products - production**<br>
 89,620 bbl/day (2015 est.)<br>
@@ -553,17 +553,17 @@ _Crude oil estimated reserves_: 48.363 billion barrels (2021 est.)<br>
 168,200 bbl/day (2015 est.)<br>
 
 **Natural gas**<br>
-_Production_: 12,414,736,000 cubic meters (2020 est.)<br>
-_Consumption_: 7,669,690,000 cubic meters (2019 est.)<br>
-_Exports_: 4,441,150,000 cubic meters (2020 est.)<br>
-_Imports_: 0 cubic meters (2021 est.)<br>
-_Proven reserves_: 1,504,868,000,000 cubic meters (2021 est.)<br>
+_production_: 12,414,736,000 cubic meters (2020 est.)<br>
+_consumption_: 7,669,690,000 cubic meters (2019 est.)<br>
+_exports_: 4,441,150,000 cubic meters (2020 est.)<br>
+_imports_: 0 cubic meters (2021 est.)<br>
+_proven reserves_: 1,504,868,000,000 cubic meters (2021 est.)<br>
 
 **Carbon dioxide emissions**<br>
-_Total emissions_: 38.297 million metric tonnes of CO2 (2019 est.)<br>
-_From coal and metallurgical coke_: 0 metric tonnes of CO2 (2019 est.)<br>
-_From petroleum and other liquids_: 30.018 million metric tonnes of CO2 (2019 est.)<br>
-_From consumed natural gas_: 8.279 million metric tonnes of CO2 (2019 est.)<br>
+_total emissions_: 38.297 million metric tonnes of CO2 (2019 est.)<br>
+_from coal and metallurgical coke_: 0 metric tonnes of CO2 (2019 est.)<br>
+_from petroleum and other liquids_: 30.018 million metric tonnes of CO2 (2019 est.)<br>
+_from consumed natural gas_: 8.279 million metric tonnes of CO2 (2019 est.)<br>
 
 **Energy consumption per capita**<br>
 _Total energy consumption per capita 2019_: 107.118 million Btu/person (2019 est.)<br>
@@ -680,6 +680,6 @@ Ansar al-Sharia groups; Islamic State of Iraq and ash-Sham - Libya (ISIS-L); al-
 <p><em>Libya-Algeria:</em> dormant disputes include Libyan claims of about 32,000 sq km still reflected on its maps of southeastern Algeria<br><br><em>Libya-Chad:</em> various Chadian rebels from the Aozou region reside in southern Libya; Libyan forces clashed with Chadian rebels in September 2021</p> <p><em>Libya-Egypt</em>: none identified</p> <p><em>Libya-Niger</em>: the boundary is poorly defined but has never been disputed by either country</p> <p><em>Libya-Sudan</em>: none identified</p> <p><em>Libya-Tunisia</em>: none identified</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 18,458 (Sudan) (refugees and asylum seekers), 15,612 (Syria) (refugees and asylum seekers) (2022)<br>
+_refugees (country of origin)_: 17,984 (Sudan) (refugees and asylum seekers), 15,842 (Syria) (refugees and asylum seekers) (2022)<br>
 _IDPs_: 168,011 (conflict between pro-QADHAFI and anti-QADHAFI forces in 2011; post-QADHAFI tribal clashes 2014) (2022)<br>
 

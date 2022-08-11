@@ -344,7 +344,7 @@ _chief of state_: President Serdar BERDIMUHAMEDOW (since 19 March 2022); note - 
 _head of government_: President Serdar BERDIMUHAMEDOW (since 19 March 2022)<br>
 _cabinet_: Cabinet of Ministers appointed by the president<br>
 _elections/appointments_: president directly elected by absolute majority popular vote in 2 rounds if needed for a 7-year term (no term limits); election last held on 12 March 2022 (next to be held in 2029); note - on 11 February 2022, President Gurbanguly BERDIMUHAMEDOW announced his intent to retire setting up the early presidential election<br>
-_election results_: <em>2022:</em> Serdar BERDIMUHAMEDOW elected president; percent of vote - Serdar BERDIMUHAMEDOW 73.0%,  Khydyr NUNNAYEV 11.1%, Agadzhan BEKMYRADOV 7.2%, other 8.7%; note - Serdar BERDIMUHAMEDOW is the son of previous president Gurbanguly BERDIMUHAMEDOW<br><br><em>2017:</em> Gurbanguly BERDIMUHAMEDOW reelected president in the first round; percent of vote - Gurbanguly BERDIMUHAMEDOW (DPT) 97.7%, other 2.3%<br><br><em>2012:</em> Gurbanguly BERDIMUHAMEDOW reelected president; percent of vote - Gurbanguly BERDIMUHAMEDOW 97.1%, Annageldi YAZMYRADOW 1.1%, other candidates 1.8%<br>
+_election results_: <em>2022:</em> Serdar BERDIMUHAMEDOW elected president; percent of vote - Serdar BERDIMUHAMEDOW 73.0%,  Khydyr NUNNAYEV 11.1%, Agadzhan BEKMYRADOV 7.2%, other 8.7%; note - Serdar BERDIMUHAMEDOW is the son of previous president Gurbanguly BERDIMUHAMEDOW<br><br><em>2017:</em> Gurbanguly BERDIMUHAMEDOW reelected president in the first round; percent of vote - Gurbanguly BERDIMUHAMEDOW (DPT) 97.7%, other 2.3%<br>
 
 **Legislative branch**<br>
 _description_: bicameral National Council or Milli Genesi consists of:<br>People's Council or Halk Maslahaty (56 seats; 48 members indirectly elected by provincial councils and 8 members appointed by the president)<br>Assembly or Mejlisi (125 seats; members directly elected in single-seat constituencies by absolute majority vote in 2 rounds if needed to serve 5-year terms)<br><br>note: in September 2020, the Turkmenistani legislature (Milli Genesi) adopted a constitutional amendment creating an upper chamber, making the legislature bicameral; the chairperson of the Halk Maslahaty is now designated as the constitutional successor to the presidency; as of March 2022, Gurbanguly BERDIMUHAMEDOW continues to serve in this position after stepping away from the presidency<br>
@@ -529,35 +529,35 @@ _Currency_: Turkmenistani manat (TMM) per US dollar -<br>
 _electrification - total population_: 100% (2020)<br>
 
 **Electricity**<br>
-_Installed generating capacity_: 5.205 million kW (2020 est.)<br>
-_Consumption_: 15,090,300,000 kWh (2019 est.)<br>
-_Exports_: 3.2 billion kWh (2019 est.)<br>
-_Imports_: 0 kWh (2019 est.)<br>
-_Transmission/distribution losses_: 2.892 billion kWh (2019 est.)<br>
+_installed generating capacity_: 5.205 million kW (2020 est.)<br>
+_consumption_: 15,090,300,000 kWh (2019 est.)<br>
+_exports_: 3.2 billion kWh (2019 est.)<br>
+_imports_: 0 kWh (2019 est.)<br>
+_transmission/distribution losses_: 2.892 billion kWh (2019 est.)<br>
 
 **Electricity generation sources**<br>
-_Fossil fuels_: 100% of total installed capacity (2020 est.)<br>
-_Nuclear_: 0% of total installed capacity (2020 est.)<br>
-_Solar_: 0% of total installed capacity (2020 est.)<br>
-_Wind_: 0% of total installed capacity (2020 est.)<br>
-_Hydroelectricity_: 0% of total installed capacity (2020 est.)<br>
-_Tide and wave_: 0% of total installed capacity (2020 est.)<br>
-_Geothermal_: 0% of total installed capacity (2020 est.)<br>
-_Biomass and waste_: 0% of total installed capacity (2020 est.)<br>
+_fossil fuels_: 100% of total installed capacity (2020 est.)<br>
+_nuclear_: 0% of total installed capacity (2020 est.)<br>
+_solar_: 0% of total installed capacity (2020 est.)<br>
+_wind_: 0% of total installed capacity (2020 est.)<br>
+_hydroelectricity_: 0% of total installed capacity (2020 est.)<br>
+_tide and wave_: 0% of total installed capacity (2020 est.)<br>
+_geothermal_: 0% of total installed capacity (2020 est.)<br>
+_biomass and waste_: 0% of total installed capacity (2020 est.)<br>
 
 **Coal**<br>
-_Production_: 0 metric tons (2020 est.)<br>
-_Consumption_: 0 metric tons (2020 est.)<br>
-_Exports_: 0 metric tons (2020 est.)<br>
-_Imports_: 0 metric tons (2020 est.)<br>
-_Proven reserves_: 0 metric tons (2019 est.)<br>
+_production_: 0 metric tons (2020 est.)<br>
+_consumption_: 0 metric tons (2020 est.)<br>
+_exports_: 0 metric tons (2020 est.)<br>
+_imports_: 0 metric tons (2020 est.)<br>
+_proven reserves_: 0 metric tons (2019 est.)<br>
 
 **Petroleum**<br>
-_Total petroleum production_: 235,300 bbl/day (2021 est.)<br>
-_Refined petroleum consumption_: 153,400 bbl/day (2019 est.)<br>
-_Crude oil and lease condensate exports_: 59,900 barrels/day (2018 est.)<br>
-_Crude oil and lease condensate imports_: 0 barrels/day (2018 est.)<br>
-_Crude oil estimated reserves_: 600 million barrels (2021 est.)<br>
+_total petroleum production_: 235,300 bbl/day (2021 est.)<br>
+_refined petroleum consumption_: 153,400 bbl/day (2019 est.)<br>
+_crude oil and lease condensate exports_: 59,900 barrels/day (2018 est.)<br>
+_crude oil and lease condensate imports_: 0 barrels/day (2018 est.)<br>
+_crude oil estimated reserves_: 600 million barrels (2021 est.)<br>
 
 **Refined petroleum products - production**<br>
 191,100 bbl/day (2015 est.)<br>
@@ -569,17 +569,17 @@ _Crude oil estimated reserves_: 600 million barrels (2021 est.)<br>
 0 bbl/day (2015 est.)<br>
 
 **Natural gas**<br>
-_Production_: 83,622,908,000 cubic meters (2019 est.)<br>
-_Consumption_: 45,398,541,000 cubic meters (2019 est.)<br>
-_Exports_: 38,224,367,000 cubic meters (2019 est.)<br>
-_Imports_: 0 cubic meters (2021 est.)<br>
-_Proven reserves_: 11,326,720,000,000 cubic meters (2021 est.)<br>
+_production_: 83,622,908,000 cubic meters (2019 est.)<br>
+_consumption_: 45,398,541,000 cubic meters (2019 est.)<br>
+_exports_: 38,224,367,000 cubic meters (2019 est.)<br>
+_imports_: 0 cubic meters (2021 est.)<br>
+_proven reserves_: 11,326,720,000,000 cubic meters (2021 est.)<br>
 
 **Carbon dioxide emissions**<br>
-_Total emissions_: 109.037 million metric tonnes of CO2 (2019 est.)<br>
-_From coal and metallurgical coke_: 0 metric tonnes of CO2 (2019 est.)<br>
-_From petroleum and other liquids_: 19.977 million metric tonnes of CO2 (2019 est.)<br>
-_From consumed natural gas_: 89.06 million metric tonnes of CO2 (2019 est.)<br>
+_total emissions_: 109.037 million metric tonnes of CO2 (2019 est.)<br>
+_from coal and metallurgical coke_: 0 metric tonnes of CO2 (2019 est.)<br>
+_from petroleum and other liquids_: 19.977 million metric tonnes of CO2 (2019 est.)<br>
+_from consumed natural gas_: 89.06 million metric tonnes of CO2 (2019 est.)<br>
 
 **Energy consumption per capita**<br>
 _Total energy consumption per capita 2019_: 330.507 million Btu/person (2019 est.)<br>

@@ -532,35 +532,35 @@ _Currency_: Tunisian dinars (TND) per US dollar -<br>
 _electrification - total population_: 100% (2020)<br>
 
 **Electricity**<br>
-_Installed generating capacity_: 5.777 million kW (2020 est.)<br>
-_Consumption_: 16,737,180,000 kWh (2019 est.)<br>
-_Exports_: 631 million kWh (2019 est.)<br>
-_Imports_: 472 million kWh (2019 est.)<br>
-_Transmission/distribution losses_: 3.641 billion kWh (2019 est.)<br>
+_installed generating capacity_: 5.777 million kW (2020 est.)<br>
+_consumption_: 16,737,180,000 kWh (2019 est.)<br>
+_exports_: 631 million kWh (2019 est.)<br>
+_imports_: 472 million kWh (2019 est.)<br>
+_transmission/distribution losses_: 3.641 billion kWh (2019 est.)<br>
 
 **Electricity generation sources**<br>
-_Fossil fuels_: 95.9% of total installed capacity (2020 est.)<br>
-_Nuclear_: 0% of total installed capacity (2020 est.)<br>
-_Solar_: 1.3% of total installed capacity (2020 est.)<br>
-_Wind_: 2.6% of total installed capacity (2020 est.)<br>
-_Hydroelectricity_: 0.3% of total installed capacity (2020 est.)<br>
-_Tide and wave_: 0% of total installed capacity (2020 est.)<br>
-_Geothermal_: 0% of total installed capacity (2020 est.)<br>
-_Biomass and waste_: 0% of total installed capacity (2020 est.)<br>
+_fossil fuels_: 95.9% of total installed capacity (2020 est.)<br>
+_nuclear_: 0% of total installed capacity (2020 est.)<br>
+_solar_: 1.3% of total installed capacity (2020 est.)<br>
+_wind_: 2.6% of total installed capacity (2020 est.)<br>
+_hydroelectricity_: 0.3% of total installed capacity (2020 est.)<br>
+_tide and wave_: 0% of total installed capacity (2020 est.)<br>
+_geothermal_: 0% of total installed capacity (2020 est.)<br>
+_biomass and waste_: 0% of total installed capacity (2020 est.)<br>
 
 **Coal**<br>
-_Production_: 0 metric tons (2020 est.)<br>
-_Consumption_: 5,000 metric tons (2020 est.)<br>
-_Exports_: 0 metric tons (2020 est.)<br>
-_Imports_: 5,000 metric tons (2020 est.)<br>
-_Proven reserves_: 0 metric tons (2019 est.)<br>
+_production_: 0 metric tons (2020 est.)<br>
+_consumption_: 5,000 metric tons (2020 est.)<br>
+_exports_: 0 metric tons (2020 est.)<br>
+_imports_: 5,000 metric tons (2020 est.)<br>
+_proven reserves_: 0 metric tons (2019 est.)<br>
 
 **Petroleum**<br>
-_Total petroleum production_: 42,500 bbl/day (2021 est.)<br>
-_Refined petroleum consumption_: 107,700 bbl/day (2019 est.)<br>
-_Crude oil and lease condensate exports_: 29,400 barrels/day (2018 est.)<br>
-_Crude oil and lease condensate imports_: 10,200 barrels/day (2018 est.)<br>
-_Crude oil estimated reserves_: 425 million barrels (2021 est.)<br>
+_total petroleum production_: 42,500 bbl/day (2021 est.)<br>
+_refined petroleum consumption_: 107,700 bbl/day (2019 est.)<br>
+_crude oil and lease condensate exports_: 29,400 barrels/day (2018 est.)<br>
+_crude oil and lease condensate imports_: 10,200 barrels/day (2018 est.)<br>
+_crude oil estimated reserves_: 425 million barrels (2021 est.)<br>
 
 **Refined petroleum products - production**<br>
 27,770 bbl/day (2015 est.)<br>
@@ -572,17 +572,17 @@ _Crude oil estimated reserves_: 425 million barrels (2021 est.)<br>
 85,340 bbl/day (2015 est.)<br>
 
 **Natural gas**<br>
-_Production_: 1,025,974,000 cubic meters (2019 est.)<br>
-_Consumption_: 5,279,951,000 cubic meters (2019 est.)<br>
-_Exports_: 0 cubic meters (2021 est.)<br>
-_Imports_: 4,305,994,000 cubic meters (2019 est.)<br>
-_Proven reserves_: 65.129 billion cubic meters (2021 est.)<br>
+_production_: 1,025,974,000 cubic meters (2019 est.)<br>
+_consumption_: 5,279,951,000 cubic meters (2019 est.)<br>
+_exports_: 0 cubic meters (2021 est.)<br>
+_imports_: 4,305,994,000 cubic meters (2019 est.)<br>
+_proven reserves_: 65.129 billion cubic meters (2021 est.)<br>
 
 **Carbon dioxide emissions**<br>
-_Total emissions_: 23.692 million metric tonnes of CO2 (2019 est.)<br>
-_From coal and metallurgical coke_: 16,000 metric tonnes of CO2 (2019 est.)<br>
-_From petroleum and other liquids_: 12.982 million metric tonnes of CO2 (2019 est.)<br>
-_From consumed natural gas_: 10.694 million metric tonnes of CO2 (2019 est.)<br>
+_total emissions_: 23.692 million metric tonnes of CO2 (2019 est.)<br>
+_from coal and metallurgical coke_: 16,000 metric tonnes of CO2 (2019 est.)<br>
+_from petroleum and other liquids_: 12.982 million metric tonnes of CO2 (2019 est.)<br>
+_from consumed natural gas_: 10.694 million metric tonnes of CO2 (2019 est.)<br>
 
 **Energy consumption per capita**<br>
 _Total energy consumption per capita 2019_: 35.62 million Btu/person (2019 est.)<br>
@@ -685,6 +685,9 @@ the Tunisian military's inventory includes mostly older or secondhand US and Eur
 **Military service age and obligation**<br>
 men 20-23 years of age for compulsory service, 1-year service obligation; individuals engaged in higher education or vocational training programs prior to their military drafting are allowed to delay service until they have completed their programs; 18-23 years of age for voluntary service; women may volunteer (2022)<br>
 <strong>note 1: </strong>as of 2021, approximately 20-25,000 active military personnel were conscripts<br><br><strong>note 2:</strong> women have been allowed in the service since 1975 as volunteers only, although as recently as 2018, the Tunisian Government has discussed the possibility of conscripting women; as of 2018, women constituted less than 7% of the military and served in all three services<br>
+
+**Military deployments**<br>
+325 Central African Republic (MINUSCA); 100 Mali (MINUSMA) (May 2022)<br>
 
 **Military - note**<br>
 <p>as of 2022, the Tunisian military’s primary operational areas of focus were counter-terrorism, counterinsurgency, and border security; it was conducting counter-terrorism and counterinsurgency operations against al-Qa’ida in the Islamic Maghreb (AQIM) and Islamic State of ash-Sham (ISIS)-linked militants who have been fighting a low-intensity insurgency, mostly in the mountainous region along the border with Algeria, particularly the Chaambi Mountains near the city of Kasserine; the military maintained the lead role for security in this area and also routinely conducted joint operations with Algerian security forces against these groups, as well to counter smuggling and trafficking activities; the military in recent years also has increased its role in securing the southern border against militant activity, smuggling, and trafficking from war-torn Libya; since 2015, Tunisia has constructed a complex structure of berms, trenches, and water-filled moats, complemented by electronic surveillance equipment such as motion detectors, ground surveillance radars, and infrared sensors along the 220-kilometer border with Libya; in the remote southern areas of the border with Libya, buffer/exclusion zones have also been established where the military has the lead for counter-terrorism efforts; outside of these border areas, the Ministry of Interior has the lead responsibility for counter-terrorism in Tunisia, particularly for urban areas; the National Police Anti-Terrorism Brigade (BAT) and the National Guard Special Unit have the lead for MOI counterterrorism operations<br><br>Tunisia has Major Non-NATO Ally (MNNA) status with the US; MNNA is a designation under US law that provides foreign partners with certain benefits in the areas of defense trade and security cooperation; while MNNA status provides military and economic privileges, it does not entail any security commitments</p><br>

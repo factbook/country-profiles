@@ -341,7 +341,7 @@ _chief of state_: President Maia SANDU (since 24 December 2020)<br>
 _head of government_: Prime Minister Natalia GAVRILITA (since 6 August 2021)<br>
 _cabinet_: Cabinet proposed by the prime minister-designate, nominated by the president, approved through a vote of confidence in Parliament<br>
 _elections/appointments_: president directly elected for a 4-year term (eligible for a second term); election last held on 15 November 2020 (next to be held in fall 2024); prime minister designated by the president upon consultation with Parliament; within 15 days from designation, the prime minister-designate must request a vote of confidence for his/her proposed work program from the Parliament<br>
-_election results_: Maia SANDU elected president; percent of vote (second round results) - Maia SANDU (PAS) 57.7%, Igor DODON (PSRM) 42.3%<br>
+_election results_: 2020: Maia SANDU elected president; percent of vote (second round results) - Maia SANDU (PAS) 57.7%, Igor DODON (PSRM) 42.3%<br><br>2016: Igor DODON elected president; percent of vote 52.1%, and Maia SANDU 47.9%<br>
 
 **Legislative branch**<br>
 _description_: unicameral Parliament (101 seats; 51 members directly elected in single-seat constituencies by simple majority vote and 50 members directly elected in a single, nationwide constituency by closed party-list proportional representation vote; all members serve 4-year terms<br>
@@ -539,35 +539,35 @@ _Currency_: Moldovan lei (MDL) per US dollar -<br>
 _electrification - total population_: 100% (2020)<br>
 
 **Electricity**<br>
-_Installed generating capacity_: 594,000 kW (2020 est.)<br>
-_Consumption_: 4,591,230,000 kWh (2019 est.)<br>
-_Exports_: 0 kWh (2020 est.)<br>
-_Imports_: 629 million kWh (2020 est.)<br>
-_Transmission/distribution losses_: 571 million kWh (2019 est.)<br>
+_installed generating capacity_: 594,000 kW (2020 est.)<br>
+_consumption_: 4,591,230,000 kWh (2019 est.)<br>
+_exports_: 0 kWh (2020 est.)<br>
+_imports_: 629 million kWh (2020 est.)<br>
+_transmission/distribution losses_: 571 million kWh (2019 est.)<br>
 
 **Electricity generation sources**<br>
-_Fossil fuels_: 93.6% of total installed capacity (2020 est.)<br>
-_Nuclear_: 0% of total installed capacity (2020 est.)<br>
-_Solar_: 0.1% of total installed capacity (2020 est.)<br>
-_Wind_: 1.2% of total installed capacity (2020 est.)<br>
-_Hydroelectricity_: 4.5% of total installed capacity (2020 est.)<br>
-_Tide and wave_: 0% of total installed capacity (2020 est.)<br>
-_Geothermal_: 0% of total installed capacity (2020 est.)<br>
-_Biomass and waste_: 0.6% of total installed capacity (2020 est.)<br>
+_fossil fuels_: 93.6% of total installed capacity (2020 est.)<br>
+_nuclear_: 0% of total installed capacity (2020 est.)<br>
+_solar_: 0.1% of total installed capacity (2020 est.)<br>
+_wind_: 1.2% of total installed capacity (2020 est.)<br>
+_hydroelectricity_: 4.5% of total installed capacity (2020 est.)<br>
+_tide and wave_: 0% of total installed capacity (2020 est.)<br>
+_geothermal_: 0% of total installed capacity (2020 est.)<br>
+_biomass and waste_: 0.6% of total installed capacity (2020 est.)<br>
 
 **Coal**<br>
-_Production_: 0 metric tons (2020 est.)<br>
-_Consumption_: 133,000 metric tons (2020 est.)<br>
-_Exports_: 0 metric tons (2020 est.)<br>
-_Imports_: 133,000 metric tons (2020 est.)<br>
-_Proven reserves_: 0 metric tons (2019 est.)<br>
+_production_: 0 metric tons (2020 est.)<br>
+_consumption_: 133,000 metric tons (2020 est.)<br>
+_exports_: 0 metric tons (2020 est.)<br>
+_imports_: 133,000 metric tons (2020 est.)<br>
+_proven reserves_: 0 metric tons (2019 est.)<br>
 
 **Petroleum**<br>
-_Total petroleum production_: 0 bbl/day (2021 est.)<br>
-_Refined petroleum consumption_: 22,000 bbl/day (2019 est.)<br>
-_Crude oil and lease condensate exports_: 0 barrels/day (2018 est.)<br>
-_Crude oil and lease condensate imports_: 0 barrels/day (2018 est.)<br>
-_Crude oil estimated reserves_: 0 barrels (2021 est.)<br>
+_total petroleum production_: 0 bbl/day (2021 est.)<br>
+_refined petroleum consumption_: 22,000 bbl/day (2019 est.)<br>
+_crude oil and lease condensate exports_: 0 barrels/day (2018 est.)<br>
+_crude oil and lease condensate imports_: 0 barrels/day (2018 est.)<br>
+_crude oil estimated reserves_: 0 barrels (2021 est.)<br>
 
 **Refined petroleum products - production**<br>
 232 bbl/day (2015 est.)<br>
@@ -579,17 +579,17 @@ _Crude oil estimated reserves_: 0 barrels (2021 est.)<br>
 18,160 bbl/day (2015 est.)<br>
 
 **Natural gas**<br>
-_Production_: 57,000 cubic meters (2019 est.)<br>
-_Consumption_: 2,802,400,000 cubic meters (2019 est.)<br>
-_Exports_: 0 cubic meters (2021 est.)<br>
-_Imports_: 2,802,344,000 cubic meters (2019 est.)<br>
-_Proven reserves_: 0 cubic meters (2021 est.)<br>
+_production_: 57,000 cubic meters (2019 est.)<br>
+_consumption_: 2,802,400,000 cubic meters (2019 est.)<br>
+_exports_: 0 cubic meters (2021 est.)<br>
+_imports_: 2,802,344,000 cubic meters (2019 est.)<br>
+_proven reserves_: 0 cubic meters (2021 est.)<br>
 
 **Carbon dioxide emissions**<br>
-_Total emissions_: 8.114 million metric tonnes of CO2 (2019 est.)<br>
-_From coal and metallurgical coke_: 374,000 metric tonnes of CO2 (2019 est.)<br>
-_From petroleum and other liquids_: 2.968 million metric tonnes of CO2 (2019 est.)<br>
-_From consumed natural gas_: 4.773 million metric tonnes of CO2 (2019 est.)<br>
+_total emissions_: 8.114 million metric tonnes of CO2 (2019 est.)<br>
+_from coal and metallurgical coke_: 374,000 metric tonnes of CO2 (2019 est.)<br>
+_from petroleum and other liquids_: 2.968 million metric tonnes of CO2 (2019 est.)<br>
+_from consumed natural gas_: 4.773 million metric tonnes of CO2 (2019 est.)<br>
 
 **Energy consumption per capita**<br>
 _Total energy consumption per capita 2019_: 40.398 million Btu/person (2019 est.)<br>
@@ -701,7 +701,7 @@ Moldova is constitutionally neutral, but has maintained a relationship with NATO
 <p><em>Moldova-Romania</em>: none identified</p> <p><em>Moldova-Ukraine</em>: Ukraine and Moldova signed an agreement officially delimiting their border in 1999, but the border has not been demarcated due to Moldova's difficulties with the break-away region of Transnistria; Moldova and Ukraine operate joint customs posts to monitor the transit of people and commodities through Moldova's break-away Transnistria region, which remains under the auspices of an Organization for Security and Cooperation in Europe-mandated peacekeeping mission comprised of Moldovan, Transnistrian, Russian, and Ukrainian troops</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 86,880 (Ukraine) (as of 26 July 2022)<br>
+_refugees (country of origin)_: 89,302 (Ukraine) (as of 8 August 2022)<br>
 _stateless persons_: 3,372 (mid-year 2021)<br>
 
 **Illicit drugs**<br>

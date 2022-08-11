@@ -347,7 +347,7 @@ Independence Day, 9 October (1962)<br>
 
 **Constitution**<br>
 _history_: several previous; latest adopted 27 September 1995, promulgated 8 October 1995<br>
-_amendments_: proposed by the National Assembly; passage requires at least two-thirds majority vote of the Assembly membership in the second and third readings; proposals affecting "entrenched clauses," including the sovereignty of the people, supremacy of the constitution, human rights and freedoms, the democratic and multiparty form of government, presidential term of office, independence of the judiciary, and the institutions of traditional or cultural leaders, also requires passage by referendum, ratification by at least two-thirds majority vote of district council members in at least two thirds of Uganda's districts, and assent ofthe president of the republic; amended several times, last in 2017 (2021)<br>
+_amendments_: proposed by the National Assembly; passage requires at least two-thirds majority vote of the Assembly membership in the second and third readings; proposals affecting "entrenched clauses," including the sovereignty of the people, supremacy of the constitution, human rights and freedoms, the democratic and multiparty form of government, presidential term of office, independence of the judiciary, and the institutions of traditional or cultural leaders, also requires passage by referendum, ratification by at least two-thirds majority vote of district council members in at least two thirds of Uganda's districts, and assent of the president of the republic; amended several times, last in 2017<br>
 
 **Legal system**<br>
 mixed legal system of English common law and customary law<br>
@@ -415,7 +415,7 @@ _lyrics/music_: George Wilberforce KAKOMOA<br>
 
 **National heritage**<br>
 _total World Heritage Sites_: 3 (1 cultural, 2 natural)<br>
-_selected World Heritage Site locales_: Bwindi Impenetrable National Park (c); Rwenzori Mountains National Park (c); Tombs of Buganda Kings at Kasubi<br>
+_selected World Heritage Site locales_: Bwindi Impenetrable National Park (n); Rwenzori Mountains National Park (n); Tombs of Buganda Kings at Kasubi (c)<br>
 
 ## Economy
 
@@ -570,35 +570,35 @@ _electrification - urban areas_: 66% (2019)<br>
 _electrification - rural areas_: 17% (2019)<br>
 
 **Electricity**<br>
-_Installed generating capacity_: 2.397 million kW (2020 est.)<br>
-_Consumption_: 4,207,040,000 kWh (2019 est.)<br>
-_Exports_: 299.2 million kWh (2019 est.)<br>
-_Imports_: 104.2 million kWh (2019 est.)<br>
-_Transmission/distribution losses_: 1.157 billion kWh (2019 est.)<br>
+_installed generating capacity_: 2.397 million kW (2020 est.)<br>
+_consumption_: 4,207,040,000 kWh (2019 est.)<br>
+_exports_: 299.2 million kWh (2019 est.)<br>
+_imports_: 104.2 million kWh (2019 est.)<br>
+_transmission/distribution losses_: 1.157 billion kWh (2019 est.)<br>
 
 **Electricity generation sources**<br>
-_Fossil fuels_: 1.3% of total installed capacity (2020 est.)<br>
-_Nuclear_: 0% of total installed capacity (2020 est.)<br>
-_Solar_: 1.6% of total installed capacity (2020 est.)<br>
-_Wind_: 0% of total installed capacity (2020 est.)<br>
-_Hydroelectricity_: 86.4% of total installed capacity (2020 est.)<br>
-_Tide and wave_: 0% of total installed capacity (2020 est.)<br>
-_Geothermal_: 0% of total installed capacity (2020 est.)<br>
-_Biomass and waste_: 10.8% of total installed capacity (2020 est.)<br>
+_fossil fuels_: 1.3% of total installed capacity (2020 est.)<br>
+_nuclear_: 0% of total installed capacity (2020 est.)<br>
+_solar_: 1.6% of total installed capacity (2020 est.)<br>
+_wind_: 0% of total installed capacity (2020 est.)<br>
+_hydroelectricity_: 86.4% of total installed capacity (2020 est.)<br>
+_tide and wave_: 0% of total installed capacity (2020 est.)<br>
+_geothermal_: 0% of total installed capacity (2020 est.)<br>
+_biomass and waste_: 10.8% of total installed capacity (2020 est.)<br>
 
 **Coal**<br>
-_Production_: 0 metric tons (2020 est.)<br>
-_Consumption_: 0 metric tons (2020 est.)<br>
-_Exports_: 0 metric tons (2020 est.)<br>
-_Imports_: 0 metric tons (2020 est.)<br>
-_Proven reserves_: 0 metric tons (2019 est.)<br>
+_production_: 0 metric tons (2020 est.)<br>
+_consumption_: 0 metric tons (2020 est.)<br>
+_exports_: 0 metric tons (2020 est.)<br>
+_imports_: 0 metric tons (2020 est.)<br>
+_proven reserves_: 0 metric tons (2019 est.)<br>
 
 **Petroleum**<br>
-_Total petroleum production_: 0 bbl/day (2021 est.)<br>
-_Refined petroleum consumption_: 40,900 bbl/day (2019 est.)<br>
-_Crude oil and lease condensate exports_: 0 barrels/day (2018 est.)<br>
-_Crude oil and lease condensate imports_: 0 barrels/day (2018 est.)<br>
-_Crude oil estimated reserves_: 2.5 billion barrels (2021 est.)<br>
+_total petroleum production_: 0 bbl/day (2021 est.)<br>
+_refined petroleum consumption_: 40,900 bbl/day (2019 est.)<br>
+_crude oil and lease condensate exports_: 0 barrels/day (2018 est.)<br>
+_crude oil and lease condensate imports_: 0 barrels/day (2018 est.)<br>
+_crude oil estimated reserves_: 2.5 billion barrels (2021 est.)<br>
 
 **Refined petroleum products - production**<br>
 0 bbl/day (2015 est.)<br>
@@ -610,17 +610,17 @@ _Crude oil estimated reserves_: 2.5 billion barrels (2021 est.)<br>
 31,490 bbl/day (2015 est.)<br>
 
 **Natural gas**<br>
-_Production_: 0 cubic meters (2021 est.)<br>
-_Consumption_: 0 cubic meters (2021 est.)<br>
-_Exports_: 0 cubic meters (2021 est.)<br>
-_Imports_: 0 cubic meters (2021 est.)<br>
-_Proven reserves_: 14.158 billion cubic meters (2021 est.)<br>
+_production_: 0 cubic meters (2021 est.)<br>
+_consumption_: 0 cubic meters (2021 est.)<br>
+_exports_: 0 cubic meters (2021 est.)<br>
+_imports_: 0 cubic meters (2021 est.)<br>
+_proven reserves_: 14.158 billion cubic meters (2021 est.)<br>
 
 **Carbon dioxide emissions**<br>
-_Total emissions_: 5.841 million metric tonnes of CO2 (2019 est.)<br>
-_From coal and metallurgical coke_: 0 metric tonnes of CO2 (2019 est.)<br>
-_From petroleum and other liquids_: 5.841 million metric tonnes of CO2 (2019 est.)<br>
-_From consumed natural gas_: 0 metric tonnes of CO2 (2019 est.)<br>
+_total emissions_: 5.841 million metric tonnes of CO2 (2019 est.)<br>
+_from coal and metallurgical coke_: 0 metric tonnes of CO2 (2019 est.)<br>
+_from petroleum and other liquids_: 5.841 million metric tonnes of CO2 (2019 est.)<br>
+_from consumed natural gas_: 0 metric tonnes of CO2 (2019 est.)<br>
 
 **Energy consumption per capita**<br>
 _Total energy consumption per capita 2019_: 2.943 million Btu/person (2019 est.)<br>
@@ -719,7 +719,7 @@ the UPDF's inventory is mostly older Russian/Soviet-era equipment with a limited
 18-25 years of age for voluntary military duty (men and women); 9-year service obligation (2021)<br>
 
 **Military deployments**<br>
-6,800 Somalia (6,000 ATMIS; 620 UNSOM); 250 Equatorial Guinea (training mission) (2022)<br>
+6,800 Somalia (6,200 ATMIS; 625 UNSOM); 250 Equatorial Guinea (training mission) (2022)<br>
 
 **Military - note**<br>
 <p>the UPDF, which is constitutionally granted seats in parliament, is widely viewed as a key constituency for MUSEVENI; it has been used by MUSEVENI and the NRM to break up rallies, raid opposition offices, and surveil rival candidates<br><br>as of 2022, the UPDF was conducting operations along the border with the Democratic Republic of the Congo (including cross-border operations) against a Congo-based (and formerly based in western Uganda) Ugandan rebel group, the Allied Democratic Front (ADF), which was designated as a Foreign Terrorist Organization by the US State Department in March 2021 as the Islamic State of Iraq and ash-Sham in the Democratic Republic of the Congo (ISIS-DRC; see Appendix T); in addition, elements of the UPDF were deployed in the northeast region of Karamoja against cattle rustlers and criminal gangs</p> <p>beginning in 2012, the UPDF led regional efforts to pursue the Lord’s Resistance Army (LRA), a small, violent group of Ugandan origin that conducted widespread attacks against civilians in much of Central Africa; the UPDF withdrew from the mission in 2017 after declaring that the LRA no longer posed a security threat</p> <p>Uganda intervened in the South Sudan civil war in 2013-2016 and UPDF forces have clashed with South Sudanese forces along the border as recently as 2020<br><br>the military traces its history back to the formation of the Uganda Rifles in 1895; the Uganda Rifles were merged with the Central Africa Regiment and the East Africa Rifles to form the King’s African Rifles (“KAR”) in 1902, which participated in both world wars; the UPDF was established in 1995</p><br>

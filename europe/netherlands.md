@@ -359,7 +359,7 @@ _judge selection and term of office_: justices appointed by the monarch from a l
 _subordinate courts_: courts of appeal; district courts, each with up to 5 subdistrict courts; Netherlands Commercial Court<br>
 
 **Political parties and leaders**<br>
-Christian Democratic Appeal or CDA [Wopke HOEKSTRA]<br>Christian Union or CU [Gert-Jan SEGERS]<br>Democrats 66 or D66 [Sigrid KAAG]<br>Denk [Tunahan KUZU]<br>50 Plus [Henk KROL]<br>Forum for Democracy or FvD [Thierry BAUDET]<br>Green Left or GL [Jesse KLAVER]<br>Labor Party or PvdA [Lilianne PLOUMEN]<br>Party for Freedom or PVV [Geert WILDERS]<br>Party for the Animals or PvdD [Esther OUWENHAND]<br>People's Party for Freedom and Democracy or VVD [Mark RUTTE]<br>Reformed Political Party or SGP [Kees VAN DER STAAIJ]<br>Socialist Party or SP [Lilian MARIJNISSEN]<br>
+Christian Democratic Appeal or CDA [Wopke HOEKSTRA]<br>Christian Union or CU [Gert-Jan SEGERS]<br>Democrats 66 or D66 [Sigrid KAAG]<br>Denk [Farid AZARKAN]<br>50 Plus [Martin van ROOIJEN]<br>Forum for Democracy or FvD [Thierry BAUDET]<br>Green Left or GL [Jesse KLAVER]<br>Labor Party or PvdA [Attje KUIKEN]<br>Party for Freedom or PVV [Geert WILDERS]<br>Party for the Animals or PvdD [Esther OUWENHAND]<br>People's Party for Freedom and Democracy or VVD [Mark RUTTE]<br>Reformed Political Party or SGP [Kees VAN DER STAAIJ]<br>Socialist Party or SP [Lilian MARIJNISSEN]<br>
 
 **International organization participation**<br>
 ADB (nonregional member), AfDB (nonregional member), Arctic Council (observer), Australia Group, Benelux, BIS, CBSS (observer), CD, CE, CERN, EAPC, EBRD, ECB, EIB, EITI (implementing country), EMU, ESA, EU, FAO, FATF, G-10, IADB, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IEA, IFAD, IFC, IFRCS, IGAD (partners), IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, MINUSMA, NATO, NEA, NSG, OAS (observer), OECD, OPCW, OSCE, Pacific Alliance (observer), Paris Club, PCA, Schengen Convention, SELEC (observer), UN, UNCTAD, UNDOF, UNESCO, UNHCR, UNIDO, UNMISS, UNRWA, UN Security Council (temporary), UNTSO, UNWTO, UPU, Wassenaar Arrangement, WCO, WHO, WIPO, WMO, WTO, ZC<br>
@@ -547,35 +547,35 @@ _Currency_: euros (EUR) per US dollar -<br>
 _electrification - total population_: 100% (2020)<br>
 
 **Electricity**<br>
-_Installed generating capacity_: 43.409 million kW (2020 est.)<br>
-_Consumption_: 109.796 billion kWh (2020 est.)<br>
-_Exports_: 22.433 billion kWh (2020 est.)<br>
-_Imports_: 19.773 billion kWh (2020 est.)<br>
-_Transmission/distribution losses_: 5.059 billion kWh (2020 est.)<br>
+_installed generating capacity_: 43.409 million kW (2020 est.)<br>
+_consumption_: 109.796 billion kWh (2020 est.)<br>
+_exports_: 22.433 billion kWh (2020 est.)<br>
+_imports_: 19.773 billion kWh (2020 est.)<br>
+_transmission/distribution losses_: 5.059 billion kWh (2020 est.)<br>
 
 **Electricity generation sources**<br>
-_Fossil fuels_: 68.3% of total installed capacity (2020 est.)<br>
-_Nuclear_: 3.3% of total installed capacity (2020 est.)<br>
-_Solar_: 6.8% of total installed capacity (2020 est.)<br>
-_Wind_: 13.1% of total installed capacity (2020 est.)<br>
-_Hydroelectricity_: 0% of total installed capacity (2020 est.)<br>
-_Tide and wave_: 0% of total installed capacity (2020 est.)<br>
-_Geothermal_: 0% of total installed capacity (2020 est.)<br>
-_Biomass and waste_: 8.5% of total installed capacity (2020 est.)<br>
+_fossil fuels_: 68.3% of total installed capacity (2020 est.)<br>
+_nuclear_: 3.3% of total installed capacity (2020 est.)<br>
+_solar_: 6.8% of total installed capacity (2020 est.)<br>
+_wind_: 13.1% of total installed capacity (2020 est.)<br>
+_hydroelectricity_: 0% of total installed capacity (2020 est.)<br>
+_tide and wave_: 0% of total installed capacity (2020 est.)<br>
+_geothermal_: 0% of total installed capacity (2020 est.)<br>
+_biomass and waste_: 8.5% of total installed capacity (2020 est.)<br>
 
 **Coal**<br>
-_Production_: 1.879 million metric tons (2020 est.)<br>
-_Consumption_: 8.241 million metric tons (2020 est.)<br>
-_Exports_: 20.164 million metric tons (2020 est.)<br>
-_Imports_: 21.552 million metric tons (2020 est.)<br>
-_Proven reserves_: 497 million metric tons (2019 est.)<br>
+_production_: 1.879 million metric tons (2020 est.)<br>
+_consumption_: 8.241 million metric tons (2020 est.)<br>
+_exports_: 20.164 million metric tons (2020 est.)<br>
+_imports_: 21.552 million metric tons (2020 est.)<br>
+_proven reserves_: 497 million metric tons (2019 est.)<br>
 
 **Petroleum**<br>
-_Total petroleum production_: 76,100 bbl/day (2021 est.)<br>
-_Refined petroleum consumption_: 915,200 bbl/day (2019 est.)<br>
-_Crude oil and lease condensate exports_: 8,800 barrels/day (2018 est.)<br>
-_Crude oil and lease condensate imports_: 1,096,500 barrels/day (2018 est.)<br>
-_Crude oil estimated reserves_: 137.7 million barrels (2021 est.)<br>
+_total petroleum production_: 76,100 bbl/day (2021 est.)<br>
+_refined petroleum consumption_: 915,200 bbl/day (2019 est.)<br>
+_crude oil and lease condensate exports_: 8,800 barrels/day (2018 est.)<br>
+_crude oil and lease condensate imports_: 1,096,500 barrels/day (2018 est.)<br>
+_crude oil estimated reserves_: 137.7 million barrels (2021 est.)<br>
 
 **Refined petroleum products - production**<br>
 1.282 million bbl/day (2017 est.)<br>
@@ -587,17 +587,17 @@ _Crude oil estimated reserves_: 137.7 million barrels (2021 est.)<br>
 2.148 million bbl/day (2017 est.)<br>
 
 **Natural gas**<br>
-_Production_: 32,857,597,000 cubic meters (2019 est.)<br>
-_Consumption_: 44,752,918,000 cubic meters (2019 est.)<br>
-_Exports_: 42,827,461,000 cubic meters (2019 est.)<br>
-_Imports_: 55,767,276,000 cubic meters (2019 est.)<br>
-_Proven reserves_: 132.608 billion cubic meters (2021 est.)<br>
+_production_: 32,857,597,000 cubic meters (2019 est.)<br>
+_consumption_: 44,752,918,000 cubic meters (2019 est.)<br>
+_exports_: 42,827,461,000 cubic meters (2019 est.)<br>
+_imports_: 55,767,276,000 cubic meters (2019 est.)<br>
+_proven reserves_: 132.608 billion cubic meters (2021 est.)<br>
 
 **Carbon dioxide emissions**<br>
-_Total emissions_: 214.416 million metric tonnes of CO2 (2019 est.)<br>
-_From coal and metallurgical coke_: 23.15 million metric tonnes of CO2 (2019 est.)<br>
-_From petroleum and other liquids_: 116.24 million metric tonnes of CO2 (2019 est.)<br>
-_From consumed natural gas_: 75.027 million metric tonnes of CO2 (2019 est.)<br>
+_total emissions_: 214.416 million metric tonnes of CO2 (2019 est.)<br>
+_from coal and metallurgical coke_: 23.15 million metric tonnes of CO2 (2019 est.)<br>
+_from petroleum and other liquids_: 116.24 million metric tonnes of CO2 (2019 est.)<br>
+_from consumed natural gas_: 75.027 million metric tonnes of CO2 (2019 est.)<br>
 
 **Energy consumption per capita**<br>
 _Total energy consumption per capita 2019_: 219.606 million Btu/person (2019 est.)<br>
@@ -699,7 +699,7 @@ Royal Netherlands Army, Royal Netherlands Navy (includes Naval Air Service and M
 1.2% of GDP (2017) (approximately $11.3 billion)<br>
 
 **Military and security service personnel strengths**<br>
-the Royal Netherlands Armed Forces have approximately 40,000 active duty personnel (20,000 Army; 7,500 Navy; 6,500 Air Force; 6,000 Constabulary) (2021)<br>
+approximately 40,000 active duty personnel (20,000 Army; 7,500 Navy; 6,500 Air Force; 6,000 Constabulary) (2022)<br>
 <strong>note:</strong> the Navy includes about 2,300 marines<br>
 
 **Military equipment inventories and acquisitions**<br>
@@ -710,8 +710,8 @@ the inventory of the Netherlands Armed Forces consists of a mix of domestically-
 <strong>note: </strong>in 2019, women made up about 11% of the military's full-time personnel<br>
 
 **Military deployments**<br>
-270 Lithuania (NATO) (2022)<br>
-<strong>note: </strong>NATO troop deployment numbers in eastern Europe are as of February 2022; in response to Russia’s 2022 invasion of Ukraine, some NATO countries have sent additional troops and equipment to the battlegroups deployed in NATO territory in eastern Europe<br>
+270 Lithuania (NATO); 125 Slovakia (NATO) (2022)<br>
+<strong>note: </strong>in response to Russia’s 2022 invasion of Ukraine, some NATO countries, including the Netherlands, have sent additional troops and equipment to the battlegroups deployed in NATO territory in eastern Europe<br>
 
 **Military - note**<br>
 the Netherlands is a member of NATO and was one of the original 12 countries to sign the North Atlantic Treaty (also known as the Washington Treaty) in 1949<br> <p>since 1973, the Dutch Marine Corps has worked closely with the British Royal Marines, including jointly in the UK-Netherlands amphibious landing force; a Dutch Army airmobile infantry brigade and a mechanized infantry brigade have been integrated into the German Army since 2014 and 2016 respectively</p> in 2018, the Defense Ministers of Belgium, Denmark and the Netherlands signed a Memorandum of Understanding (MOU) for the creation of a Composite Special Operations Component Command (C-SOCC); the C-SOCC was declared operational in December 2020<br><br>in 2015, Belgium, the Netherlands, and Luxembourg signed an agreement to conduct joint air policing of their territories; under the agreement, which went into effect in January of 2017, the Belgian and Dutch Air Forces trade responsibility for patrolling the skies over the three countries<br>

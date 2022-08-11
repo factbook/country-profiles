@@ -338,7 +338,7 @@ Independence Day, 25 May (1946)<br>
 
 **Constitution**<br>
 _history_: previous 1928 (preindependence); latest initially adopted 28 November 1947, revised and ratified 1 January 1952<br>
-_amendments_: constitutional amendments require at least a&nbsp;two-thirds majority vote of both the Senate and the House and ratification by the king; no amendment of the constitution affecting the rights of the king and the succession to the throne is&nbsp;permitted during the regency period;&nbsp;amended several times, last in 2016<br>
+_amendments_: constitutional amendments require at least a two-thirds majority vote of both the Senate and the House and ratification by the king; no amendment of the constitution affecting the rights of the king and the succession to the throne is permitted during the king's reign; amended several times, last in 2016<br>
 
 **Legal system**<br>
 mixed system developed from codes instituted by the Ottoman Empire (based on French law), British common law, and Islamic law<br>
@@ -557,35 +557,35 @@ _Currency_: Jordanian dinars (JOD) per US dollar -<br>
 _electrification - total population_: 100% (2020)<br>
 
 **Electricity**<br>
-_Installed generating capacity_: 5.644 million kW (2020 est.)<br>
-_Consumption_: 17,366,400,000 kWh (2019 est.)<br>
-_Exports_: 98 million kWh (2019 est.)<br>
-_Imports_: 239 million kWh (2019 est.)<br>
-_Transmission/distribution losses_: 2.249 billion kWh (2019 est.)<br>
+_installed generating capacity_: 5.644 million kW (2020 est.)<br>
+_consumption_: 17,366,400,000 kWh (2019 est.)<br>
+_exports_: 98 million kWh (2019 est.)<br>
+_imports_: 239 million kWh (2019 est.)<br>
+_transmission/distribution losses_: 2.249 billion kWh (2019 est.)<br>
 
 **Electricity generation sources**<br>
-_Fossil fuels_: 83.5% of total installed capacity (2020 est.)<br>
-_Nuclear_: 0% of total installed capacity (2020 est.)<br>
-_Solar_: 11.7% of total installed capacity (2020 est.)<br>
-_Wind_: 4.6% of total installed capacity (2020 est.)<br>
-_Hydroelectricity_: 0.2% of total installed capacity (2020 est.)<br>
-_Tide and wave_: 0% of total installed capacity (2020 est.)<br>
-_Geothermal_: 0% of total installed capacity (2020 est.)<br>
-_Biomass and waste_: 0% of total installed capacity (2020 est.)<br>
+_fossil fuels_: 83.5% of total installed capacity (2020 est.)<br>
+_nuclear_: 0% of total installed capacity (2020 est.)<br>
+_solar_: 11.7% of total installed capacity (2020 est.)<br>
+_wind_: 4.6% of total installed capacity (2020 est.)<br>
+_hydroelectricity_: 0.2% of total installed capacity (2020 est.)<br>
+_tide and wave_: 0% of total installed capacity (2020 est.)<br>
+_geothermal_: 0% of total installed capacity (2020 est.)<br>
+_biomass and waste_: 0% of total installed capacity (2020 est.)<br>
 
 **Coal**<br>
-_Production_: 0 metric tons (2020 est.)<br>
-_Consumption_: 219,000 metric tons (2020 est.)<br>
-_Exports_: 0 metric tons (2020 est.)<br>
-_Imports_: 219,000 metric tons (2020 est.)<br>
-_Proven reserves_: 0 metric tons (2019 est.)<br>
+_production_: 0 metric tons (2020 est.)<br>
+_consumption_: 219,000 metric tons (2020 est.)<br>
+_exports_: 0 metric tons (2020 est.)<br>
+_imports_: 219,000 metric tons (2020 est.)<br>
+_proven reserves_: 0 metric tons (2019 est.)<br>
 
 **Petroleum**<br>
-_Total petroleum production_: 0 bbl/day (2021 est.)<br>
-_Refined petroleum consumption_: 114,800 bbl/day (2019 est.)<br>
-_Crude oil and lease condensate exports_: 0 barrels/day (2018 est.)<br>
-_Crude oil and lease condensate imports_: 47,400 barrels/day (2018 est.)<br>
-_Crude oil estimated reserves_: 1 million barrels (2021 est.)<br>
+_total petroleum production_: 0 bbl/day (2021 est.)<br>
+_refined petroleum consumption_: 114,800 bbl/day (2019 est.)<br>
+_crude oil and lease condensate exports_: 0 barrels/day (2018 est.)<br>
+_crude oil and lease condensate imports_: 47,400 barrels/day (2018 est.)<br>
+_crude oil estimated reserves_: 1 million barrels (2021 est.)<br>
 
 **Refined petroleum products - production**<br>
 67,240 bbl/day (2015 est.)<br>
@@ -597,17 +597,17 @@ _Crude oil estimated reserves_: 1 million barrels (2021 est.)<br>
 68,460 bbl/day (2015 est.)<br>
 
 **Natural gas**<br>
-_Production_: 115.872 million cubic meters (2019 est.)<br>
-_Consumption_: 4,650,978,000 cubic meters (2019 est.)<br>
-_Exports_: 375.849 million cubic meters (2019 est.)<br>
-_Imports_: 4,910,954,000 cubic meters (2019 est.)<br>
-_Proven reserves_: 6.031 billion cubic meters (2021 est.)<br>
+_production_: 115.872 million cubic meters (2019 est.)<br>
+_consumption_: 4,650,978,000 cubic meters (2019 est.)<br>
+_exports_: 375.849 million cubic meters (2019 est.)<br>
+_imports_: 4,910,954,000 cubic meters (2019 est.)<br>
+_proven reserves_: 6.031 billion cubic meters (2021 est.)<br>
 
 **Carbon dioxide emissions**<br>
-_Total emissions_: 23.47 million metric tonnes of CO2 (2019 est.)<br>
-_From coal and metallurgical coke_: 381,000 metric tonnes of CO2 (2019 est.)<br>
-_From petroleum and other liquids_: 15.786 million metric tonnes of CO2 (2019 est.)<br>
-_From consumed natural gas_: 7.303 million metric tonnes of CO2 (2019 est.)<br>
+_total emissions_: 23.47 million metric tonnes of CO2 (2019 est.)<br>
+_from coal and metallurgical coke_: 381,000 metric tonnes of CO2 (2019 est.)<br>
+_from petroleum and other liquids_: 15.786 million metric tonnes of CO2 (2019 est.)<br>
+_from consumed natural gas_: 7.303 million metric tonnes of CO2 (2019 est.)<br>
 
 **Energy consumption per capita**<br>
 _Total energy consumption per capita 2019_: 39.331 million Btu/person (2019 est.)<br>
@@ -712,7 +712,7 @@ the JAF inventory is comprised of a wide mix of imported equipment from Europe, 
 <strong>note:</strong> most women serve in the medical service; outside the medical service, women comprised about 1.5% of the military as of 2019<br>
 
 **Military deployments**<br>
-330 Mali (MINUSMA) (Feb 2022)<br>
+330 Mali (MINUSMA) (May 2022)<br>
 
 **Military - note**<br>
 <p>the Jordanian military traces its origins back to the Arab Legion, which was formed under the British protectorate of Transjordan in the 1920s</p> <p>due largely to its proximity to regional conflicts in Iraq and Syria, the presence of major terrorist organizations in both of those countries, and the Israeli-Palestinian conflict, the highest priorities of Jordan’s military and security services in 2022 included securing its borders and the potential for domestic terrorist attacks; the terrorist group Hizballah and Iranian-backed militia forces were operating in southwestern Syria near Jordan’s border while fighters from the Islamic State of Iraq and ash-Sham (ISIS) terrorist group continued operating in both Iraq and Syria; ISIS fighters included Jordanian nationals, some of whom have returned to Jordan; meanwhile, individuals and groups sympathetic to Palestine have planned and conducted terrorist attacks in Jordan</p> <p>Jordan has Major Non-NATO Ally (MNNA) status with the US; MNNA is a designation under US law that provides foreign partners with certain benefits in the areas of defense trade and security cooperation; while MNNA status provides military and economic privileges, it does not entail any security commitments <br><br>Jordan signed a peace treaty with Israel in 1994</p><br>
@@ -729,7 +729,7 @@ Islamic State of Iraq and ash-Sham (ISIS)<br>
 <p><em>Jordan-Iraq</em>: the two countries signed a border agreement in 1984; Jordan has ratified the treaty, but it has not been confirmed that Iraq has ratified it; as of 2010, the agreement had not been registered with the UN</p> <p><em>Jordan-Israel</em>: none identified</p> <p><em>Jordan-Saudi Arabia</em>: Jordan and Saudi Arabia signed an agreement to demarcate their maritime borders in 2007</p> <p><em>Jordan-Syria</em>: the two countries signed an agreement in 2005 to settle the border dispute based on a 1931 demarcation accord; the two countries began demarcation in 2006</p> <p><em>Jordan-West Bank</em>: none identified</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 2,307,011 (Palestinian refugees) (2020); 66,665 (Iraq), 12,866 (Yemen), 6,013 Sudan (2021); 675,433 (Syria) (2022)<br>
+_refugees (country of origin)_: 2,307,011 (Palestinian refugees) (2020); 66,665 (Iraq), 12,866 (Yemen), 6,013 Sudan (2021); 676,164 (Syria) (2022)<br>
 _stateless persons_: 63 (mid-year 2021)<br>
 
 **Trafficking in persons**<br>

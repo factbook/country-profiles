@@ -345,8 +345,8 @@ _election results_: <em><br>2018:</em> Milos ZEMAN reelected president in the se
 
 **Legislative branch**<br>
 _description_: bicameral Parliament or Parlament consists of:<br>Senate or Senat (81 seats; members directly elected in single-seat constituencies by absolute majority vote in 2 rounds if needed; members serve 6-year terms with one-third of the membership renewed every 2 years)<br><br>Chamber of Deputies or Poslanecka Snemovna (200 seats; members directly elected in 14 multi-seat constituencies by proportional representation vote with a 5% threshold required to fill a seat; members serve 4-year terms)<br>
-_elections_: <br>Senate - last held in 2 rounds on 2-3 and 9-10 October 2020 (next to be held in October 2022)<br>Chamber of Deputies - last held on 8-9 October 2021 (next to be held by October 2025)<br>
-_election results_: <br>Senate - percent of vote by party - NA; seats by party - STAN 19, ODS 18, KDU-CSL 12, ANO 5, TOP 09 5, CSSD 3, SEN 21 3, Pirates 2, SZ 1, minor parties with one seat each 9, independents 4; composition (as of October 2021) - men 69, women 12, percent of women 14.8%<br>Chamber of Deputies - percent of vote by party – SPOLU 27.8%, Action of Dissatisfied Persons 27.1%, Pirates and Mayors 15.6%, Freedom and Direct Democracy 9.6%, other 19.9%; seats by party - Action of Dissatisfied Persons 72, SPOLU 71, Pirates and Mayors 37, Freedom and Direct Democracy 20; composition (as of October 2021) - men 154, women 46, percent of women 23%; note - total Parliament percent of women 26%<br>
+_elections_: Senate - last held in 2 rounds on 2-3 and 9-10 October 2020 (next to be held in October 2022)<br>Chamber of Deputies - last held on 8-9 October 2021 (next to be held by October 2025)<br>
+_election results_: Senate - percent of vote by party - NA; seats by party - STAN 19, ODS 18, KDU-CSL 12, ANO 5, TOP 09 5, CSSD 3, SEN 21 3, Pirates 2, SZ 1, minor parties with one seat each 9, independents 4; composition (as of October 2021) - men 69, women 12, percent of women 14.8%<br>Chamber of Deputies - percent of vote by party – SPOLU 27.8%, Action of Dissatisfied Persons 27.1%, Pirates and Mayors 15.6%, Freedom and Direct Democracy 9.6%, other 19.9%; seats by party - Action of Dissatisfied Persons 72, SPOLU 71, Pirates and Mayors 37, Freedom and Direct Democracy 20; composition (as of October 2021) - men 154, women 46, percent of women 23%; note - total Parliament percent of women 26%<br>
 
 **Judicial branch**<br>
 _highest courts_: Supreme Court (organized into Civil Law and Commercial Division, and Criminal Division each with a court chief justice, vice justice, and several judges); Constitutional Court (consists of 15 justices); Supreme Administrative Court (consists of 36 judges, including the court president and vice president, and organized into 6-, 7-, and 9-member chambers)<br>
@@ -354,7 +354,7 @@ _judge selection and term of office_: Supreme Court judges proposed by the Chamb
 _subordinate courts_: High Court; regional and district courts<br>
 
 **Political parties and leaders**<br>
-Christian Democratic Union-Czechoslovak People's Party or KDU-CSL [Marian JURECKA]<br>Civic Democratic Party or ODS [Petr FIALA]<br>Communist Party of Bohemia and Moravia or KSCM [Katerina KONECNA]<br>Czech Social Democratic Party or CSSD [Michal SMARDA]<br>Freedom and Direct Democracy or SPD [Tomio OKAMURA]<br>Free Bloc or VB [Jana VOLFOVA]<br>Mayors and Independents or STAN [Vit RAKUSAN]<br>Movement of Dissatisfied Citizens or ANO [Andrej BABIS]<br>Oath or Prisaha [Robert SLACHTA]<br>Pirate Party or Pirates [Ivan BARTOS]<br>Tradition Responsibility Prosperity 09 or TOP 09 [Marketa PEKAROVA ADAMOVA]<br>Tricolor Freedomites Freeholders or TSS [Zuzana MAJEROVA ZAHRADNIKOVA]<br>
+Christian Democratic Union-Czechoslovak People's Party or KDU-CSL [Marian JURECKA]<br>Civic Democratic Party or ODS [Petr FIALA]<br>Communist Party of Bohemia and Moravia or KSCM [Katerina KONECNA]<br>Czech Social Democratic Party or CSSD [Michal SMARDA]<br>Free Bloc or VB [Jana VOLFOVA]<br>Freedom and Direct Democracy or SPD [Tomio OKAMURA]<br>Mayors and Independents or STAN [Vit RAKUSAN]<br>Movement of Dissatisfied Citizens or ANO [Andrej BABIS]<br>Oath or Prisaha [Robert SLACHTA]<br>Pirate Party or Pirates [Ivan BARTOS]<br>Tradition Responsibility Prosperity 09 or TOP 09 [Marketa PEKAROVA ADAMOVA]<br>Tricolor Freedomites Freeholders or TSS [Zuzana MAJEROVA ZAHRADNIKOVA]<br>
 
 **International organization participation**<br>
 Australia Group, BIS, BSEC (observer), CD, CE, CEI, CERN, EAPC, EBRD, ECB, EIB, ESA, EU, FAO, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IEA, IFC, IFRCS, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, MONUSCO, NATO, NEA, NSG, OAS (observer), OECD, OIF (observer), OPCW, OSCE, PCA, Schengen Convention, SELEC, UN, UNCTAD, UNESCO, UNHCR, UNIDO, UNWTO, UPU, Wassenaar Arrangement, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO, ZC<br>
@@ -541,35 +541,35 @@ _Currency_: koruny (CZK) per US dollar -<br>
 _electrification - total population_: 100% (2020)<br>
 
 **Electricity**<br>
-_Installed generating capacity_: 22.485 million kW (2020 est.)<br>
-_Consumption_: 60.814 billion kWh (2020 est.)<br>
-_Exports_: 23.521 billion kWh (2020 est.)<br>
-_Imports_: 13.368 billion kWh (2020 est.)<br>
-_Transmission/distribution losses_: 4.117 billion kWh (2020 est.)<br>
+_installed generating capacity_: 22.485 million kW (2020 est.)<br>
+_consumption_: 60.814 billion kWh (2020 est.)<br>
+_exports_: 23.521 billion kWh (2020 est.)<br>
+_imports_: 13.368 billion kWh (2020 est.)<br>
+_transmission/distribution losses_: 4.117 billion kWh (2020 est.)<br>
 
 **Electricity generation sources**<br>
-_Fossil fuels_: 47% of total installed capacity (2020 est.)<br>
-_Nuclear_: 37.6% of total installed capacity (2020 est.)<br>
-_Solar_: 3% of total installed capacity (2020 est.)<br>
-_Wind_: 0.9% of total installed capacity (2020 est.)<br>
-_Hydroelectricity_: 4.5% of total installed capacity (2020 est.)<br>
-_Tide and wave_: 0% of total installed capacity (2020 est.)<br>
-_Geothermal_: 0% of total installed capacity (2020 est.)<br>
-_Biomass and waste_: 7% of total installed capacity (2020 est.)<br>
+_fossil fuels_: 47% of total installed capacity (2020 est.)<br>
+_nuclear_: 37.6% of total installed capacity (2020 est.)<br>
+_solar_: 3% of total installed capacity (2020 est.)<br>
+_wind_: 0.9% of total installed capacity (2020 est.)<br>
+_hydroelectricity_: 4.5% of total installed capacity (2020 est.)<br>
+_tide and wave_: 0% of total installed capacity (2020 est.)<br>
+_geothermal_: 0% of total installed capacity (2020 est.)<br>
+_biomass and waste_: 7% of total installed capacity (2020 est.)<br>
 
 **Coal**<br>
-_Production_: 33.806 million metric tons (2020 est.)<br>
-_Consumption_: 37.212 million metric tons (2020 est.)<br>
-_Exports_: 1.885 million metric tons (2020 est.)<br>
-_Imports_: 3.795 million metric tons (2020 est.)<br>
-_Proven reserves_: 2.927 billion metric tons (2019 est.)<br>
+_production_: 33.806 million metric tons (2020 est.)<br>
+_consumption_: 37.212 million metric tons (2020 est.)<br>
+_exports_: 1.885 million metric tons (2020 est.)<br>
+_imports_: 3.795 million metric tons (2020 est.)<br>
+_proven reserves_: 2.927 billion metric tons (2019 est.)<br>
 
 **Petroleum**<br>
-_Total petroleum production_: 6,300 bbl/day (2021 est.)<br>
-_Refined petroleum consumption_: 219,500 bbl/day (2019 est.)<br>
-_Crude oil and lease condensate exports_: 400 barrels/day (2018 est.)<br>
-_Crude oil and lease condensate imports_: 150,200 barrels/day (2018 est.)<br>
-_Crude oil estimated reserves_: 15 million barrels (2021 est.)<br>
+_total petroleum production_: 6,300 bbl/day (2021 est.)<br>
+_refined petroleum consumption_: 219,500 bbl/day (2019 est.)<br>
+_crude oil and lease condensate exports_: 400 barrels/day (2018 est.)<br>
+_crude oil and lease condensate imports_: 150,200 barrels/day (2018 est.)<br>
+_crude oil estimated reserves_: 15 million barrels (2021 est.)<br>
 
 **Refined petroleum products - production**<br>
 177,500 bbl/day (2017 est.)<br>
@@ -581,17 +581,17 @@ _Crude oil estimated reserves_: 15 million barrels (2021 est.)<br>
 83,860 bbl/day (2017 est.)<br>
 
 **Natural gas**<br>
-_Production_: 189.185 million cubic meters (2020 est.)<br>
-_Consumption_: 8,815,133,000 cubic meters (2020 est.)<br>
-_Exports_: 0 cubic meters (2020 est.)<br>
-_Imports_: 7,590,318,000 cubic meters (2020 est.)<br>
-_Proven reserves_: 3.964 billion cubic meters (2021 est.)<br>
+_production_: 189.185 million cubic meters (2020 est.)<br>
+_consumption_: 8,815,133,000 cubic meters (2020 est.)<br>
+_exports_: 0 cubic meters (2020 est.)<br>
+_imports_: 7,590,318,000 cubic meters (2020 est.)<br>
+_proven reserves_: 3.964 billion cubic meters (2021 est.)<br>
 
 **Carbon dioxide emissions**<br>
-_Total emissions_: 99.533 million metric tonnes of CO2 (2019 est.)<br>
-_From coal and metallurgical coke_: 57.268 million metric tonnes of CO2 (2019 est.)<br>
-_From petroleum and other liquids_: 25.526 million metric tonnes of CO2 (2019 est.)<br>
-_From consumed natural gas_: 16.739 million metric tonnes of CO2 (2019 est.)<br>
+_total emissions_: 99.533 million metric tonnes of CO2 (2019 est.)<br>
+_from coal and metallurgical coke_: 57.268 million metric tonnes of CO2 (2019 est.)<br>
+_from petroleum and other liquids_: 25.526 million metric tonnes of CO2 (2019 est.)<br>
+_from consumed natural gas_: 16.739 million metric tonnes of CO2 (2019 est.)<br>
 
 **Energy consumption per capita**<br>
 _Total energy consumption per capita 2019_: 161.972 million Btu/person (2019 est.)<br>
@@ -689,7 +689,7 @@ Czech Armed Forces: Land Forces; Air Forces; Cyber Forces; Special Forces (2022)
 1% of GDP (2017) (approximately $3.4 billion)<br>
 
 **Military and security service personnel strengths**<br>
-the Czech military has approximately 26,000 active personnel (20,000 Army; 6,000 Air Force) (2021)<br>
+approximately 26,000 active personnel (20,000 Army; 6,000 Air Force) (2022)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the Czech military has a mix of Soviet-era and more modern equipment, mostly of Western European origin; since 2010, the leading suppliers of military equipment to Czechia are Austria and Spain (2021)<br>
@@ -699,8 +699,8 @@ the Czech military has a mix of Soviet-era and more modern equipment, mostly of 
 <strong>note: </strong>as of 2019, women comprised about 13% of the military's full-time personnel<br>
 
 **Military deployments**<br>
-up to 130 Lithuania (NATO) (2022)<br>
-<strong>note:</strong> NATO troop deployment numbers in eastern Europe are as of February 2022; in response to Russia’s invasion of Ukraine, some NATO countries have sent additional troops and equipment to the battlegroups deployed in NATO territory in eastern Europe<br>
+up to 130 Lithuania (NATO); 130 Slovakia (NATO) (2022)<br>
+<strong>note:</strong> in response to Russia’s invasion of Ukraine, some NATO countries have sent additional troops and equipment to the battlegroups deployed in NATO territory in eastern Europe<br>
 
 **Military - note**<br>
 Czechia joined NATO in 1999; Czechia, Hungary, and Poland were invited to begin accession talks at NATO's Madrid Summit in 1997, and in March 1999 they became the first former members of the Warsaw Pact to join the Alliance<br>
@@ -711,7 +711,7 @@ Czechia joined NATO in 1999; Czechia, Hungary, and Poland were invited to begin 
 <p>none</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 400,559 (Ukraine) (as of 26 July 2022)<br>
+_refugees (country of origin)_: 404,839 (Ukraine) (as of 2 August 2022)<br>
 _stateless persons_: 1,498 (mid-year 2021)<br>
 
 **Illicit drugs**<br>

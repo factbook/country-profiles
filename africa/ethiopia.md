@@ -588,35 +588,35 @@ _electrification - urban areas_: 96% (2019)<br>
 _electrification - rural areas_: 34% (2019)<br>
 
 **Electricity**<br>
-_Installed generating capacity_: 4.856 million kW (2020 est.)<br>
-_Consumption_: 9,778,100,000 kWh (2019 est.)<br>
-_Exports_: 1 billion kWh (2019 est.)<br>
-_Imports_: 0 kWh (2019 est.)<br>
-_Transmission/distribution losses_: 3.374 billion kWh (2019 est.)<br>
+_installed generating capacity_: 4.856 million kW (2020 est.)<br>
+_consumption_: 9,778,100,000 kWh (2019 est.)<br>
+_exports_: 1 billion kWh (2019 est.)<br>
+_imports_: 0 kWh (2019 est.)<br>
+_transmission/distribution losses_: 3.374 billion kWh (2019 est.)<br>
 
 **Electricity generation sources**<br>
-_Fossil fuels_: 0% of total installed capacity (2020 est.)<br>
-_Nuclear_: 0% of total installed capacity (2020 est.)<br>
-_Solar_: 0.1% of total installed capacity (2020 est.)<br>
-_Wind_: 3.8% of total installed capacity (2020 est.)<br>
-_Hydroelectricity_: 95.8% of total installed capacity (2020 est.)<br>
-_Tide and wave_: 0% of total installed capacity (2020 est.)<br>
-_Geothermal_: 0% of total installed capacity (2020 est.)<br>
-_Biomass and waste_: 0.3% of total installed capacity (2020 est.)<br>
+_fossil fuels_: 0% of total installed capacity (2020 est.)<br>
+_nuclear_: 0% of total installed capacity (2020 est.)<br>
+_solar_: 0.1% of total installed capacity (2020 est.)<br>
+_wind_: 3.8% of total installed capacity (2020 est.)<br>
+_hydroelectricity_: 95.8% of total installed capacity (2020 est.)<br>
+_tide and wave_: 0% of total installed capacity (2020 est.)<br>
+_geothermal_: 0% of total installed capacity (2020 est.)<br>
+_biomass and waste_: 0.3% of total installed capacity (2020 est.)<br>
 
 **Coal**<br>
-_Production_: 0 metric tons (2020 est.)<br>
-_Consumption_: 689,000 metric tons (2020 est.)<br>
-_Exports_: 0 metric tons (2020 est.)<br>
-_Imports_: 528,000 metric tons (2020 est.)<br>
-_Proven reserves_: 0 metric tons (2019 est.)<br>
+_production_: 0 metric tons (2020 est.)<br>
+_consumption_: 689,000 metric tons (2020 est.)<br>
+_exports_: 0 metric tons (2020 est.)<br>
+_imports_: 528,000 metric tons (2020 est.)<br>
+_proven reserves_: 0 metric tons (2019 est.)<br>
 
 **Petroleum**<br>
-_Total petroleum production_: 0 bbl/day (2021 est.)<br>
-_Refined petroleum consumption_: 107,900 bbl/day (2019 est.)<br>
-_Crude oil and lease condensate exports_: 0 barrels/day (2018 est.)<br>
-_Crude oil and lease condensate imports_: 0 barrels/day (2018 est.)<br>
-_Crude oil estimated reserves_: 400,000 barrels (2021 est.)<br>
+_total petroleum production_: 0 bbl/day (2021 est.)<br>
+_refined petroleum consumption_: 107,900 bbl/day (2019 est.)<br>
+_crude oil and lease condensate exports_: 0 barrels/day (2018 est.)<br>
+_crude oil and lease condensate imports_: 0 barrels/day (2018 est.)<br>
+_crude oil estimated reserves_: 400,000 barrels (2021 est.)<br>
 
 **Refined petroleum products - production**<br>
 0 bbl/day (2017 est.)<br>
@@ -628,17 +628,17 @@ _Crude oil estimated reserves_: 400,000 barrels (2021 est.)<br>
 69,970 bbl/day (2015 est.)<br>
 
 **Natural gas**<br>
-_Production_: 0 cubic meters (2021 est.)<br>
-_Consumption_: 0 cubic meters (2021 est.)<br>
-_Exports_: 0 cubic meters (2021 est.)<br>
-_Imports_: 0 cubic meters (2021 est.)<br>
-_Proven reserves_: 24.919 billion cubic meters (2021 est.)<br>
+_production_: 0 cubic meters (2021 est.)<br>
+_consumption_: 0 cubic meters (2021 est.)<br>
+_exports_: 0 cubic meters (2021 est.)<br>
+_imports_: 0 cubic meters (2021 est.)<br>
+_proven reserves_: 24.919 billion cubic meters (2021 est.)<br>
 
 **Carbon dioxide emissions**<br>
-_Total emissions_: 16.798 million metric tonnes of CO2 (2019 est.)<br>
-_From coal and metallurgical coke_: 1.474 million metric tonnes of CO2 (2019 est.)<br>
-_From petroleum and other liquids_: 15.324 million metric tonnes of CO2 (2019 est.)<br>
-_From consumed natural gas_: 0 metric tonnes of CO2 (2019 est.)<br>
+_total emissions_: 16.798 million metric tonnes of CO2 (2019 est.)<br>
+_from coal and metallurgical coke_: 1.474 million metric tonnes of CO2 (2019 est.)<br>
+_from petroleum and other liquids_: 15.324 million metric tonnes of CO2 (2019 est.)<br>
+_from consumed natural gas_: 0 metric tonnes of CO2 (2019 est.)<br>
 
 **Energy consumption per capita**<br>
 _Total energy consumption per capita 2019_: 3.219 million Btu/person (2019 est.)<br>
@@ -740,7 +740,7 @@ the ENDF's inventory is comprised mostly of Soviet-era equipment from the 1970s;
 <strong>note:</strong> in November 2021, the Ethiopian Government issued a nationwide state of emergency that enabled officials to order military-age citizens to undergo training and accept military duty in support of the Tigray conflict<br>
 
 **Military deployments**<br>
-5-10,000 Somalia (4,500 for ATMIS; the remainder under a bilateral agreement with Somalia; note - bilateral figures are prior to the conflict with Tigray); 250 Sudan (UNISFA); 1,500 South Sudan (UNMISS) (2022)<br>
+5-10,000 Somalia (4,500 for ATMIS; the remainder under a bilateral agreement with Somalia; note - bilateral figures are prior to the conflict with Tigray); 250 Sudan (UNISFA); 1,475 South Sudan (UNMISS) (2022)<br>
 
 **Military - note**<br>
 each of the nine states has a regional and/or a "special" paramilitary security forces that report to regional civilian authorities; local militias operate across the country in loose and varying coordination with these regional security and police forces, the Ethiopian Federal Police (EFP), and the Ethiopian military; the EFP reports to the Ministry of Peace, which was created in October of 2018<br><br>since November 2020, the Government of Ethiopia has been engaged in a protracted military conflict with the Tigray People’s Liberation Front (TPLF), the former governing party of the Tigray Region; the government deemed a TPLF attack on Ethiopia military forces as a domestic terrorism incident and launched a military offensive in response; the TPLF asserted that its actions were self-defense in the face of planned Ethiopian Government action to remove it from the provincial government; the Ethiopian Government sent large elements of the ENDF into Tigray to remove the TPLF and invited militia and paramilitary forces from the states of Afar and Amara, as well as the military forces of Eritrea, to assist; the fighting included heavy civilian and military casualties with widespread abuses reported; in March 2022, the Ethiopian Government declared a  truce to facilitate the flow of humanitarian aid into the Tigray region; the TPLF reciprocated with a truce of its own; since the announcement, both sides have reportedly observed the truce, although tensions remained high; in June 2022, ABIY announced that the Ethiopian Government had set up a committee to negotiate with the TPLF<br><br>the military forces of the Tigray regional government are known as the Tigray Defense Force (TDF); the TDF is comprised of state paramilitary forces, local militia, and troops that defected from the ENDF; it reportedly had up to 250,000 fighters at the start of the conflict<br>
@@ -757,7 +757,7 @@ al-Shabaab; Islamic Revolutionary Guard Corps (IRGC)/Qods Force<br>
 <p><em>Ethiopia-Eritrea:</em> Eritrea and Ethiopia agreed to abide by the 2002 Eritrea-Ethiopia Boundary Commission's (EEBC) delimitation decision, but neither party responded to the revised line detailed in the November 2006 EEBC Demarcation Statement <br><br><em>Ethiopia-Somalia:</em> While border clashes continue in the al-Fashqa (Fashaga) area,  the US views the 1902 boundary treaty between Ethiopia and Sudan as being in force; the undemarcated former British administrative line has little meaning as a political separation to rival clans within Ethiopia's Ogaden and southern Somalia's Oromo region; Ethiopian forces invaded southern Somalia and routed Islamist courts from Mogadishu in January 2007; "Somaliland" secessionists provide port facilities in Berbera and trade ties to landlocked Ethiopia; <br><br><em>Ethiopia-Sudan:</em> Ethiopia's construction of a large dam (the Grand Ethiopian Renaissance Dam) on the Blue Nile since 2011 has become a focal point of relations with Egypt and Sudan; as of 2020, four years of three-way talks between the three capitals over operating the dam and filling its reservoir had made little progress; Ethiopia began filling the dam in July 2020; civil unrest in eastern Sudan has hampered efforts to demarcate the porous boundary with Ethiopia</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 403,240 (South Sudan), 249,126 (Somalia), 161,389 (Eritrea), 47,672 (Sudan) (2022)<br>
+_refugees (country of origin)_: 403,240 (South Sudan), 249,126 (Somalia), 161,640 (Eritrea), 47,826 (Sudan) (2022)<br>
 _IDPs_: 2,114,653 (includes conflict- and climate-induced IDPs, excluding unverified estimates from the Amhara region; border war with Eritrea from 1998-2000; ethnic clashes; and ongoing fighting between the Ethiopian military and separatist rebel groups in the Somali and Oromia regions; natural disasters; intercommunal violence; most IDPs live in Sumale state) (2021)<br>
 
 **Illicit drugs**<br>
