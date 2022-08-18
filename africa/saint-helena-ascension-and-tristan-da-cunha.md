@@ -266,7 +266,7 @@ see United Kingdom<br>
 
 **Executive branch**<br>
 _chief of state_: Queen ELIZABETH II (since 6 February 1952)<br>
-_head of government_: Governor Philip RUSHBROOK (since&nbsp;11 May 2019)<br>
+_head of government_: Governor Nigel Phillips (since 13 August 2022)<br>
 _cabinet_: Executive Council consists of the governor, 3 ex-officio officers, and 5 elected members of the Legislative Council<br>
 _elections/appointments_: none; the monarchy is hereditary; governor appointed by the monarch<br>
 <strong>note:</strong> the constitution order provides for an administrator for Ascension and Tristan da Cunha appointed by the governor<br>

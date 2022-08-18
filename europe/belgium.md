@@ -688,7 +688,7 @@ Belgian Armed Forces: Land Component, Marine (Naval) Component, Air Component, M
 0.9% of GDP (2017) (approximately $5.2 billion)<br>
 
 **Military and security service personnel strengths**<br>
-the Belgian Armed Forces have approximately 25,000 active duty personnel (10,000 Land Component; 1,500 Marine Component; 5,000 Air Force Component; 1,500 Medical Service; 7,000 other, including joint staff, support, and training schools) (2022)<br>
+approximately 25,000 active duty personnel (10,000 Land Component; 1,500 Marine Component; 5,000 Air Force Component; 1,500 Medical Service; 7,000 other, including joint staff, support, and training schools) (2022)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the Belgian Armed Forces have a mix of weapons systems from European countries, Israel, and the US; since 2010, several European nations are the leading suppliers of armaments; Belgium has an export-focused defense industry that focuses on components and subcontracting (2021)<br>
@@ -716,7 +716,7 @@ Islamic Revolutionary Guard Corps/Qods Force; Islamic State of Iraq and ash-Sham
 <p>none identified</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 18,493 (Syria), 5,094 (Iraq) (2020); 53,108 (Ukraine) (as of 3 August 2022)<br>
+_refugees (country of origin)_: 18,493 (Syria), 5,094 (Iraq) (2020); 52,557 (Ukraine) (as of 9 August 2022)<br>
 _stateless persons_: 1,159 (mid-year 2021)<br>
 
 **Illicit drugs**<br>

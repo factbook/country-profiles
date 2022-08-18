@@ -682,7 +682,7 @@ Gabonese Defense Forces (Forces de Defense Gabonaise): Land Forces (Army), Navy,
 1.8% of GDP (2017 est.) (approximately $480 million)<br>
 
 **Military and security service personnel strengths**<br>
-approximately 6,500 active duty troops including the Republican Guard and Gendarmerie (2021)<br>
+approximately 6,500 active duty troops including the Republican Guard and Gendarmerie (2022)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the FDG is lightly armed with a mixed inventory from a variety of suppliers; since 2010, providers have included Brazil, China, France, Germany, and South Africa (2021)<br>

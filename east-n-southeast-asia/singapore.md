@@ -335,9 +335,9 @@ _elections/appointments_: president directly elected by simple majority popular 
 _election results_: <em>2017</em>: HALIMAH Yacob was declared president on 13 September 2017, being the only eligible candidate<br><br><em>2011</em>: Tony TAN Keng Yam elected president; percent of vote - Tony TAN Keng Yam (independent) 35.2%, TAN Cheng Bock (independent) 34.9%, TAN Jee Say (independent) 25%, TAN Kin Lian (independent) 4.9%<br>
 
 **Legislative branch**<br>
-_description_: unicameral Parliament (104 seats; 93 members directly elected by popular vote, up to 9 nominated by a parliamentary selection committee and appointed by the president, and up to 12 non-constituency members from opposition parties to ensure political diversity; members serve 5-year terms); note - the number of nominated members increased to 12 for the 2020 election for the first time (2021)<br>
+_description_: unicameral Parliament (104 seats statutory, 103 current term; 93 members directly elected by simple majority popular vote, up to 9 nominated by a parliamentary selection committee and appointed by the president, and up to 12 non-constituency members from opposition parties to ensure political diversity; members serve 5-year terms); note - the number of nominated members increased to 12 for the 2020 election for the first time (2021)<br>
 _elections_: last held on 10 July 2020 (next must be held by 2025)<br>
-_election results_: percent of vote by party - PAP 61.2%, WP 11.2%, PSP 10.2%; seats by party - PAP 83, WP 10, PSP 2; composition - men 79, women 25, percent of women 24%<br>
+_election results_: percent of vote by party - PAP 89.2%, WP 10.6%, other 0.2%; seats by party - PAP 83, WP 10; composition of total Parliament - men 73, women 30, percent of women 29.1%<br>
 
 **Judicial branch**<br>
 _highest courts_: Supreme Court (although the number of judges varies - as of April 2019,&nbsp;the court&nbsp;totaled 20 judges, 7 judicial commissioners, 4 judges of appeal, and 16 international judges); the court is organized into an upper tier Appeal Court and a lower tier High Court<br>

@@ -243,7 +243,7 @@ see United Kingdom<br>
 18 years of age; universal with three years residency<br>
 
 **Executive branch**<br>
-_chief of state_: Queen ELIZABETH II (since 6 February 1952); represented by UK High Commissioner to New Zealand and Governor (nonresident) of the Pitcairn Islands Laura CLARK (since 25 January 2018)<br>
+_chief of state_: Queen ELIZABETH II (since 6 February 1952); represented by UK High Commissioner to New Zealand and Governor (nonresident) of the Pitcairn Islands Iona THOMAS (since 9 August 2022)<br>
 _head of government_: Mayor and Chairman of the Island Council Charlene WARREN-PEU (since 1 January 2020)<br>
 _cabinet_: none<br>
 _elections/appointments_: the monarchy is hereditary; governor and commissioner appointed by the monarch; island mayor directly elected by majority popular vote for a 3-year term; election last held on&nbsp;6 November 2019 (next to be held not later than December 2022)<br>

@@ -719,7 +719,7 @@ Canadian Forces: Canadian Army, Royal Canadian Navy, Royal Canadian Air Force, C
 1.4% of GDP (2017) (approximately $27.6 billion)<br>
 
 **Military and security service personnel strengths**<br>
-approximately 70,000 total active personnel (23,000 Army; 12,000 Navy; 12,000 Air Force; 23,000 other) (2022)<br>
+approximately 70,000 active armed forces personnel (23,000 Army; 12,000 Navy; 12,000 Air Force; 23,000 other) (2022)<br>
 <strong>note:</strong> the Army also has approximately 19,000 part-time volunteer soldiers in the Reserve Force, including about 5,500 Rangers<br>
 
 **Military equipment inventories and acquisitions**<br>

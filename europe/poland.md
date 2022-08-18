@@ -370,7 +370,7 @@ _judge selection and term of office_: president of the Supreme Court nominated b
 _subordinate courts_: administrative courts; military courts; local, regional and appellate courts subdivided into military, civil, criminal, labor, and family courts<br>
 
 **Political parties and leaders**<br>
-Civic Coalition or KO [Donald TUSK]<br>Confederation Liberty and Independence or KWiN [Janusz KORWIN-MIKKE, Robert WINNICKI, Grzegorz BRAUN]<br>New Left [Wlodzimierz CZARZASTY]<br>German Minority or MN [Ryszard GALLA]<br>Kukiz 15 or K15 [Pawel KUKIZ]<br>Law and Justice or PiS [Jaroslaw KACZYNSKI]<br>TERAZ! (NOW!) [Ryszard PETRU]<br>Nowoczesna (Modern) or N [Adam SZLAPKA]<br>Poland 2050 or PL2050 [Szymon HOLOWNIA]<br>Polish People's Party or PSL [Wladyslaw KOSINIAK-KAMYSZ]<br>Razem (Together) [collective leadership]<br>
+Civic Coalition or KO [Grzegorz SCHETYNA and Małgorzata KIDAWA-BLONSKA]<br>Confederation Liberty and Independence or KORWiN [Janusz KORWIN-MIKKE, Robert WINNICKI, Grzegorz BRAUN]<br>Law and Justice or PiS [Jaroslaw KACZYNSKI]<br>Polish Coalition or PSL [Wladyslaw KOSINIAK-KAMYSZ]<br>The Left [Wlodzimierz CZARZASTY]<br>
 
 **International organization participation**<br>
 Arctic Council (observer), Australia Group, BIS, BSEC (observer), CBSS, CD, CE, CEI, CERN, EAPC, EBRD, ECB, EIB, ESA, EU, FAO, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IEA, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, MONUSCO, NATO, NEA, NSG, OAS (observer), OECD, OIF (observer), OPCW, OSCE, PCA, Schengen Convention, UN, UNCTAD, UNESCO, UNHCR, UNIDO, UNMIL, UNMISS, UNOCI, UN Security Council (temporary), UNWTO, UPU, Wassenaar Arrangement, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO, ZC<br>
@@ -719,7 +719,7 @@ approximately 120,000 active duty personnel (65,000 Army; 7,000 Navy; 15,000 Air
 <strong>note: </strong>in June 2019, the Polish Government approved a plan to increase the size of the military over a period of 10 years to over 200,000 troops, including doubling the size of the Territorial Defense Forces; in 2021, it announced additional plans to increase the size of military to over 300,000 personnel<br>
 
 **Military equipment inventories and acquisitions**<br>
-the inventory of the Polish Armed Forces consists of a mix of Soviet-era and more modern Western weapons systems; since 2010, the leading suppliers of armaments to Poland are Finland, Germany, Italy, and the US (2021)<br>
+the inventory of the Polish Armed Forces consists of a mix of Soviet-era and more modern Western weapons systems; since 2010, the leading suppliers of armaments include Finland, Germany, Italy, and the US (2021)<br>
 <strong>note:</strong> in late 2018, Poland announced a 7-year (through 2026) approximately $50 billion defense modernization plan that would include such items as 5th generation combat aircraft, unmanned aerial vehicles, rocket artillery, helicopters, submarines, frigates, and improved cyber security<br>
 
 **Military service age and obligation**<br>
@@ -745,7 +745,7 @@ Islamic State of Iraq and ash-Sham (ISIS)<br>
 <p><em>Poland-Belarus-Ukraine</em>: as a member state that forms part of the EU's external border, Poland has implemented the strict Schengen border rules to restrict illegal immigration and trade along its eastern borders with Belarus and Ukraine</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 9,870 (Russia) (2019); 1,256,568 (Ukraine) (as of 8 August 2022)<br>
+_refugees (country of origin)_: 9,870 (Russia) (2019); 1,274,130 (Ukraine) (as of 9 August 2022)<br>
 _stateless persons_: 1,389 (mid-year 2021)<br>
 
 **Illicit drugs**<br>

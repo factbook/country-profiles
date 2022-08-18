@@ -659,7 +659,7 @@ the Haitian Armed Forces (FAdH), disbanded in 1995, began to be reconstituted in
 not available<br>
 
 **Military and security service personnel strengths**<br>
-approximately 1,200 FAdH troops (the force is planned to eventually have around 5,000 personnel); approximately 16,000 National Police (2022)<br>
+approximately 1,200 active military troops (the force is planned to eventually have around 5,000 personnel); approximately 16,000 National Police (2022)<br>
 
 **Military equipment inventories and acquisitions**<br>
 not available<br>

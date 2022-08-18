@@ -655,7 +655,7 @@ Umbutfo Eswatini Defense Force (UEDF): Army (includes a small air wing) (2022)<b
 2.1% of GDP (2017 est.) (approximately $140 million)<br>
 
 **Military and security service personnel strengths**<br>
-approximately 3,000 active personnel (2021)<br>
+approximately 3,000 active duty personnel (2022)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the UEDF is lightly armed with mostly South African material; it has received small amounts of secondhand equipment since 2010 (2021)<br>

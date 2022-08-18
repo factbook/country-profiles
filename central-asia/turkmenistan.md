@@ -678,7 +678,7 @@ Armed Forces of Turkmenistan: Land Forces, Navy, Air and Air Defense Forces; Fed
 1.5% of GDP (2015 est.) (approximately $1.1 billion)<br>
 
 **Military and security service personnel strengths**<br>
-information varies; estimated 30,000 active troops (est. 25,000 National Army; 1,000 Navy; 4,000 Air and Air Defense Forces) (2022)<br>
+information varies; estimated 30,000 active duty troops (25,000 National Army; 1,000 Navy; 4,000 Air and Air Defense Forces) (2022)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the inventory for Turkmenistan's military is comprised largely of older Russian and Soviet-era weapons systems; since 2010, however, it has attempted to diversify and purchased equipment from more than a dozen countries, with Turkey as the top supplier (2022)<br>

@@ -679,7 +679,7 @@ Armed Forces of Uzbekistan: Army, Air and Air Defense Forces; National Guard; Mi
 2.5% of GDP (2015 est.) (approximately $2.4 billion)<br>
 
 **Military and security service personnel strengths**<br>
-information varies; approximately 60,000 total active troops, including 10-15,000 Air Force (2022)<br>
+information varies; approximately 60,000 active duty troops, including 10-15,000 Air Force (2022)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the Uzbek Armed Forces use mainly Soviet-era equipment; since 2010, Russia has been the leading supplier of arms, followed by China (2022)<br>

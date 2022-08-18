@@ -727,7 +727,7 @@ Armed Forces of the Argentine Republic (Fuerzas Armadas de la Rep&uacute;blica A
 approximately 82,000 active duty personnel (50,000 Army; 18,000 Navy, including about 3,500 marines); 14,000 Air Force); estimated 20,000 Gendarmerie (2022)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the inventory of Argentina's armed forces is a mix of domestically-produced and mostly older imported weapons, largely from Europe and the US; since 2010, France and the US are the leading suppliers of equipment; Argentina has an indigenous defense industry that can produce air, land, and sea systems (2022)<br>
+the inventory of Argentina's armed forces is a mix of domestically-produced and mostly older imported weapons, largely from Europe and the US; since 2010, France and the US are the leading suppliers of equipment; Argentina has an indigenous defense industry that produces air, land, and sea systems (2022)<br>
 
 **Military service age and obligation**<br>
 18-24 years of age for voluntary military service (men and women); conscription suspended in 1995; citizens can still be drafted in times of crisis, national emergency, or war, or if the Defense Ministry is unable to fill all vacancies to keep the military functional (2022)<br>

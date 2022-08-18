@@ -700,7 +700,7 @@ Impfondo (Oubangui) Ouesso (Sangha) Oyo (Alima)<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Congolese Armed Forces (Forces Armees Congolaises, FAC): Army (Armee de Terre), Navy, Congolese Air Force (Armee de l'Air Congolaise), Gendarmerie (2022)<br>
+Congolese Armed Forces (Forces Armees Congolaises, FAC): Army, Navy, Congolese Air Force, Gendarmerie (2022)<br>
 
 **Military expenditures**<br>
 2.5% of GDP (2021 est.)<br>
@@ -710,7 +710,7 @@ Congolese Armed Forces (Forces Armees Congolaises, FAC): Army (Armee de Terre), 
 3.6% of GDP (2017 est.) (approximately $580 million)<br>
 
 **Military and security service personnel strengths**<br>
-the Congolese Armed Forces (FAC) have approximately 12,000 active duty troops (8,000 Army; 800 Navy; 1,000 Air Force; 2,000 Gendarmerie) (2021)<br>
+approximately 12,000 active duty troops (8,000 Army; 800 Navy; 1,000 Air Force; 2,000 Gendarmerie) (2022)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the FAC is armed with mostly ageing Russian and Soviet-era weapons, with a smaller mix of French and South African equipment; the leading supplier of arms to the FAC since 2010 is South Africa (2021)<br>

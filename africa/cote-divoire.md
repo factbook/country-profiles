@@ -704,7 +704,7 @@ _oil terminal(s)_: Espoir Offshore Terminal<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Armed Forces of Cote d'Ivoire (Forces Armees de Cote d'Ivoire, FACI; aka Republican Forces of Ivory Coast, FRCI): Army (Armee de Terre), Navy (Marine Nationale), Cote Air Force (Force Aerienne Cote), Special Forces (Forces Speciale); National Gendarmerie (under the Ministry of Defense); Ministry of Security and Civil Protection: National Police; Coordination Center for Operational Decisions (a mix of police, gendarmerie, and FACI personnel for assisting police in providing security in some large cities) (2022)<br>
+Armed Forces of Cote d'Ivoire (Forces Armees de Cote d'Ivoire, FACI; aka Republican Forces of Ivory Coast, FRCI): Army, Navy, Cote Air Force, Special Forces; National Gendarmerie (under the Ministry of Defense); Ministry of Security and Civil Protection: National Police; Coordination Center for Operational Decisions (a mix of police, gendarmerie, and FACI personnel for assisting police in providing security in some large cities) (2022)<br>
 
 **Military expenditures**<br>
 1.1% of GDP (2021 est.)<br>
@@ -714,7 +714,7 @@ Armed Forces of Cote d'Ivoire (Forces Armees de Cote d'Ivoire, FACI; aka Republi
 1.1% of GDP (2017 est.) (approximately $720 million)<br>
 
 **Military and security service personnel strengths**<br>
-approximately 25,000 active troops (23,000 Army, including about 2,000 Special Forces; 1,000 Navy; 1,000 Air Force); est. 5-10,000 Gendarmerie (2022)<br>
+approximately 25,000 active troops (23,000 Army, including about 2,000 Special Forces; 1,000 Navy; 1,000 Air Force); 5-10,000 Gendarmerie (2022)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the inventory of the FACI consists mostly of older or second-hand equipment, typically of French or Soviet-era origin; Cote d'Ivoire was under a partial UN arms embargo from 2004 to 2016; since 2016, it has received limited amounts of mostly second-hand equipment from a variety of countries (2022)<br>

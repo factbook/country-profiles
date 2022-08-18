@@ -354,7 +354,7 @@ _judge selection and term of office_: Supreme Court of Justice judges appointed 
 _subordinate courts_: Courts of Appeal; Court of Business Audit; municipal courts<br>
 
 **Political parties and leaders**<br>
-<p><strong>represented in Parliament:</strong> <br>Action and Solidarity Party or PAS [Igor GROSU]<br>Communist Party of the Republic of Moldova or PCRM [Vladimir VORONIN]<br>Socialist Party of the Republic of Moldova or PSRM [vacant] <br>Shor Party or SHOR [Ilan SHOR]<br><strong>not represented in Parliament, participated in recent elections (2014-2021):</strong> <br>Alliance for the Unification of Romanians or AUR [George SIMION]<br>Anti-Mafia Movement or MPA [Sergiu MOCANU]<br>Centrist Union of Moldova or UCM [Mihai PETRACHE]<br>Christian Democratic People's Party or PPCD [Victor CIOBANU]<br>Civic Congress Party [Mark TKACIUK]<br>Conservative Party or PC [Natalia NIRCA]<br>Democratic Party of Moldova or PDM [Monica BABUC (acting)]<br>Democracy at Home Party or PDA [Vasile COSTIUC]<br>Democratic Action Party or PAD [Mihai GODEA]<br>Dignity and Truth Platform or PPDA [Andrei NASTASE]<br>Ecologist Green Party or PVE [Anatolie PROHNITCHI]<br>European People’s Party of Moldova or EPPM [Iurie LEANCA]<br>Law and Justice Party or PLD [Nicolae ALEXEI]<br>Liberal Democratic Party of Moldova or PLDM [Tudor DELIU]<br>Liberal Party or PL [Dorin CHIRTOACA]<br>"Motherland" Party or PP [Sergiu BIRIUCOV]<br>National Liberal Party or PNL [Vitalia PAVLICENKO]<br>New Historical Option or NOI [Svetlana CHESARI]<br>Our Home Moldova or PCNM [Grigore PETRENCO]<br>Our Party or PN [Renato USATII]<br>Party of Development and Consolidation of Moldova or PDCM [Ion CHICU]<br>Party of National Unity [Anatol SALARU]<br>People’s Party of Moldova or PPRM [Alexandru OLEINIC]<br>Power of the People Party [Ruslan CODREANU]<br>Regions Party of Moldova or PRM [Alexandr KALININ]<br>Socialist People’s Party of Moldova or PPSM [Victor STEPANIUC]<br>We Build Europe at Home Party or PACE [Gheorghe CAVCALIUC]</p><br>
+<p><strong>represented in Parliament:</strong> <br>Party of Action and Solidarity or PAS [Igor GROSU]<br>Electoral Bloc of Communists and Socialists or BCS [Vlad BATRINCEA, PSRM and Vladimir VORONIN, PCRM]<br>SOR Party or PS [Ilan SHOR]</p><br>
 
 **International organization participation**<br>
 BSEC, CD, CE, CEI, CIS, EAEU (observer), EAPC, EBRD, FAO, GCTU, GUAM, IAEA, IBRD, ICAO, ICC (NGOs), ICCt, ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ISO (correspondent), ITU, ITUC (NGOs), MIGA, OIF, OPCW, OSCE, PFP, SELEC, UN, UNCTAD, UNESCO, UNHCR, UNIDO, Union Latina, UNMIL, UNMISS, UNOCI, UNWTO, UPU, WCO, WHO, WIPO, WMO, WTO<br>
@@ -683,7 +683,7 @@ National Army: Land Forces (Fortele Terestre ale Republicii Moldova, FTRM); Air 
 0.4% of GDP (2017 est.) (approximately $120 million)<br>
 
 **Military and security service personnel strengths**<br>
-approximately 6,000 active troops (2021)<br>
+approximately 6,500 active troops (2022)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the Moldovan military's inventory is limited and almost entirely comprised of older Russian and Soviet-era equipment; since 2000, it has received small amounts of donated material from other nations, including the US (2021)<br>
@@ -701,7 +701,7 @@ Moldova is constitutionally neutral, but has maintained a relationship with NATO
 <p><em>Moldova-Romania</em>: none identified</p> <p><em>Moldova-Ukraine</em>: Ukraine and Moldova signed an agreement officially delimiting their border in 1999, but the border has not been demarcated due to Moldova's difficulties with the break-away region of Transnistria; Moldova and Ukraine operate joint customs posts to monitor the transit of people and commodities through Moldova's break-away Transnistria region, which remains under the auspices of an Organization for Security and Cooperation in Europe-mandated peacekeeping mission comprised of Moldovan, Transnistrian, Russian, and Ukrainian troops</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 89,302 (Ukraine) (as of 8 August 2022)<br>
+_refugees (country of origin)_: 89,302 (Ukraine) (as of 9 August 2022)<br>
 _stateless persons_: 3,372 (mid-year 2021)<br>
 
 **Illicit drugs**<br>

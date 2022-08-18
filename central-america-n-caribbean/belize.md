@@ -676,7 +676,7 @@ the BDF's inventory is limited and consists mostly of UK- and US-origin equipmen
 18 years of age for voluntary military service; laws allow for conscription only if volunteers are insufficient, but conscription has never been implemented; volunteers typically outnumber available positions by 3:1; initial service obligation 12 years (2022)<br>
 
 **Military - note**<br>
-<p>the BDF was established in 1978 from the disbanded Police Special Force and the Belize Volunteer Guard to assist the resident British forces with the defense of Belize against Guatemala; the BDF traces its history back to the Prince Regent Royal Honduras Militia, a volunteer force established in 1817</p> <p>the British Army has maintained a presence in Belize since its independence; as of 2022, the presence consisted of a small training support unit that provides jungle training to troops from the UK and international partners</p><br>
+<p>the BDF traces its history back to the Prince Regent Royal Honduras Militia, a volunteer force established in 1817; the BDF was established in 1978 from the disbanded Police Special Force and the Belize Volunteer Guard to assist the resident British forces with the defense of Belize against Guatemala</p> <p>the British Army has maintained a presence in Belize since its independence; as of 2022, the presence consisted of a small training support unit that provides jungle training to troops from the UK and international partners</p><br>
 
 ## Transnational Issues
 

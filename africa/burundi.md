@@ -681,7 +681,7 @@ National Defense Forces (Forces de Defense Nationale, FDN): Army (includes marit
 2.1% of GDP (2017 est.) (approximately $95 million)<br>
 
 **Military and security service personnel strengths**<br>
-approximately 25,000 active duty troops, the majority of which are ground forces (2021)<br>
+approximately 30,000 active duty troops, the majority of which are ground forces (2022)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the FDN is armed mostly with weapons from Russia and the former Soviet Union, with some Western equipment, largely from France; since 2010, the FDN has received small amounts of mostly second-hand equipment from China, South Africa, and the US (2021)<br>
@@ -693,7 +693,7 @@ the FDN is armed mostly with weapons from Russia and the former Soviet Union, wi
 760 Central African Republic (MINUSCA); 5,400 Somalia (ATMIS) (2022)<br>
 
 **Military - note**<br>
-in addition to its foreign deployments, the FDN as of 2021 was focused on internal security missions, particularly against rebel groups opposed to the regime such as National Forces of Liberation (FNL), the Resistance for the Rule of Law-Tabara (aka RED Tabara), and Popular Forces of Burundi (FPB or FOREBU); these groups were based in the neighboring Democratic Republic of Congo and have carried out sporadic attacks in Burundi<br>
+in addition to its foreign deployments, the FDN was focused on internal security missions, particularly against rebel groups opposed to the regime such as National Forces of Liberation (FNL), the Resistance for the Rule of Law-Tabara (aka RED Tabara), and Popular Forces of Burundi (FPB or FOREBU); these groups were based in the neighboring Democratic Republic of Congo and have carried out sporadic attacks in Burundi (2022)<br>
 
 ## Transnational Issues
 

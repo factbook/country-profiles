@@ -664,7 +664,7 @@ Kuwaiti Armed Forces: Kuwaiti Land Forces (KLF), Kuwaiti Navy, Kuwaiti Air Force
 5.6% of GDP (2017) (approximately $10 billion)<br>
 
 **Military and security service personnel strengths**<br>
-the Kuwaiti Armed Forces have approximately 17,000 active personnel (12,500 Army; 2,000 Navy; 2,500 Air Force); approximately 6,500 National Guard; note – Army figures include the Kuwait Amiri Guard Authority (estimated 500 personnel) and the 25th Commando Brigade (strength not available) (2022)<br>
+approximately 17,000 active armed forces personnel (12,500 Army, including the Amiri Guard and 25th Commando Brigade; 2,000 Navy; 2,500 Air Force); approximately 6,500 National Guard (2022)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the inventory of the Kuwaiti Armed Forces consists of weapons from a wide variety of sources, including Western Europe, Russia, the United Arab Emirates, and the US; the US is the leading supplier of arms to Kuwait since 2010 (2022)<br>

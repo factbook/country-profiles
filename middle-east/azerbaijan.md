@@ -684,7 +684,7 @@ Azerbaijan Armed Forces: Land Forces (Combined Arms Army), Air Forces, Navy Forc
 3.8% of GDP (2017 est.) (approximately $3.26 billion)<br>
 
 **Military and security service personnel strengths**<br>
-information varies; approximately 65,000 total active troops (55,000 Army; 2,000 Navy; 8,000 Air Force); approximately 15,000 Ministry of Internal Affairs troops (2021)<br>
+information varies; approximately 65,000 active armed forces (55,000 Army; 2,000 Navy; 8,000 Air Force); approximately 15,000 Ministry of Internal Affairs troops (2022)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the inventory of the Azerbaijan military is comprised mostly of Russian and Soviet-era weapons systems with a small mix of equipment from other countries, including Israel and Turkey (2022)<br>

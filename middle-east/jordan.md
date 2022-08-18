@@ -702,7 +702,7 @@ Jordanian Armed Forces (JAF): Royal Jordanian Army (includes Special Operations 
 5.7% of GDP (2017 est.) (approximately $5.18 billion)<br>
 
 **Military and security service personnel strengths**<br>
-approximately 90,000 active JAF personnel (77,000 Army; 500 Navy; 12,500 Air Force); approximately 15,000 Gendarmerie Forces (2022)<br>
+approximately 94,500 active duty armed forces personnel (80,000 Army; 14,000 Air Force; 500 Navy); approximately 15,000 Gendarmerie Forces (2022)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the JAF inventory is comprised of a wide mix of imported equipment from Europe, some Gulf States, Russia, and the US; since 2010, the Netherlands and the US are the leading suppliers (2022)<br>

@@ -304,14 +304,14 @@ _residency requirement for naturalization_: 14 years<br>
 
 **Executive branch**<br>
 _chief of state_: Queen ELIZABETH II (since 6 February 1952); represented by Governor General Samuel W.T. SEATON (since 2 September 2015); note - SEATON was Acting Governor General from 20 May to 2 September 2015<br>
-_head of government_: Prime Minister Timothy HARRIS (since 18 February 2015); Deputy Prime Minister Shawn RICHARDS (since 22 February 2015)<br>
+_head of government_: Prime Minister Dr. Terrance DREW (since 6 August 2022); Deputy Prime Minister Dr. Geoffrey HANLEY (since 13 August 2022)<br>
 _cabinet_: Cabinet appointed by governor general in consultation with prime minister<br>
 _elections/appointments_: the monarchy is hereditary; governor general appointed by the monarch; following legislative elections, the leader of the majority party or majority coalition usually appointed prime minister by governor general; deputy prime minister appointed by governor general<br>
 
 **Legislative branch**<br>
 _description_: unicameral National Assembly (14 or 15 seats, depending on inclusion of attorney general; 11 members directly elected in single-seat constituencies by simple majority vote and 3 appointed by the governor general - 2 on the advice of the prime minister and the third on the advice of the opposition leader; members serve 5-year terms)<br>
-_elections_: last held on 5 June 2020 (next to be held on 2025)<br>
-_election results_: percent of vote by party - Team Unity (PAM, CCM,PLP) 56.4%, SKNLP 34.5%, NRP 9%; seats by party - PAM 4, SKNLP&nbsp;2, CCM 3, PLP 2<br>
+_elections_: last held on 5 August 2022 (next to be held on 2027)<br>
+_election results_: percent of vote by party - SKNLP 44.4%, PLP 16.1%, PAM 16.2%, CCM 12.7%; seats by party - SKNLP 6, CCM 3, PLP 1, CCM 1<br>
 
 **Judicial branch**<br>
 _highest courts_: the Eastern Caribbean Supreme Court (ECSC) is the superior court of the Organization of Eastern Caribbean States; the ECSC - headquartered on St. Lucia - consists of the Court of Appeal - headed by the chief justice and 4 judges - and the High Court with 18 judges; the Court of Appeal is itinerant, traveling to member states on a schedule to hear appeals from the High Court and subordinate courts; High Court judges reside in the member states, with 2 assigned to Saint Kitts and Nevis; note - the ECSC in 2003 replaced the Judicial Committee of the Privy Council (in London) as the final court of appeal on Saint Kitts and Nevis; Saint Kitts and Nevis is also a member of the Caribbean Court of Justice<br>
@@ -319,7 +319,7 @@ _judge selection and term of office_: chief justice of Eastern Caribbean Supreme
 _subordinate courts_: magistrates' courts<br>
 
 **Political parties and leaders**<br>
-Concerned Citizens Movement or CCM [Mark BRANTLEY]<br>Nevis Reformation Party or NRP [Joseph PARRY]<br>People's Action Movement or PAM [Shawn RICHARDS]<br>People's Labour Party or PLP [Dr. Timothy HARRIS]<br>Saint Kitts and Nevis Labor Party or SKNLP [Dr. Denzil DOUGLAS]<br>
+Concerned Citizens Movement or CCM [Mark BRANTLEY]<br>Nevis Reformation Party or NRP [Janice DANIEL-HODGE]<br>People's Action Movement or PAM [Shawn RICHARDS]<br>People's Labour Party or PLP [Dr. Timothy HARRIS]<br>Saint Kitts and Nevis Labor Party or SKNLP [Terrance DREW]<br>
 
 **International organization participation**<br>
 ACP, AOSIS, C, Caricom, CDB, CELAC, FAO, G-77, IBRD, ICAO, ICCt, ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, IMO, Interpol, IOC, ITU, MIGA, OAS, OECS, OPANAL, OPCW, Petrocaribe, UN, UNCTAD, UNESCO, UNIDO, UPU, WHO, WIPO, WTO<br>
@@ -597,7 +597,7 @@ _major seaport(s)_: Basseterre, Charlestown<br>
 Ministry of National Security: St. Kitts and Nevis Defense Force (SKNDF), St. Kitts and Nevis Coast Guard, the Royal St. Christopher and Nevis Police Force (includes a paramilitary Special Services Unit) (2022)<br>
 
 **Military and security service personnel strengths**<br>
-the SKNDF has approximately 400 personnel (2021)<br>
+the SKNDF has approximately 400 personnel (2022)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the SKNDF is lightly armed with equipment from Belgium, the UK, and the US (2021)<br>

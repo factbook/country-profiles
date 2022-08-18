@@ -730,14 +730,14 @@ Ethiopian National Defense Force (ENDF): Ground Forces, Ethiopian Air Force (Ye 
 0.7% of GDP (2017 est.) (approximately $930 million)<br>
 
 **Military and security service personnel strengths**<br>
-information varies; prior to the 2020-21 Tigray conflict, approximately 150,000 active duty troops, including about 3,000 Air Force personnel (no personnel numbers available for the newly-established Navy) (2021)<br>
+information varies; prior to the 2020-21 Tigray conflict, approximately 150,000 active duty troops, including about 3,000 Air Force personnel (no personnel numbers available for the newly-established Navy) (2022)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the ENDF's inventory is comprised mostly of Soviet-era equipment from the 1970s; since 2010, the ENDF has received arms from a variety of countries, with China, Russia, and Ukraine as the leading suppliers; Ethiopia has a modest industrial defense base centered on small arms and production of armored vehicles (2021)<br>
 
 **Military service age and obligation**<br>
 18 years of age for voluntary military service; no compulsory military service, but the military can conduct callups when necessary and compliance is compulsory (2021)<br>
-<strong>note:</strong> in November 2021, the Ethiopian Government issued a nationwide state of emergency that enabled officials to order military-age citizens to undergo training and accept military duty in support of the Tigray conflict<br>
+<strong>note:</strong> in November 2021, the Ethiopian Government issued a nationwide state of emergency that enabled officials to order military-age citizens to undergo training and accept military duty in support of the Tigray conflict; the order also recalled retired military officers to active duty<br>
 
 **Military deployments**<br>
 5-10,000 Somalia (4,500 for ATMIS; the remainder under a bilateral agreement with Somalia; note - bilateral figures are prior to the conflict with Tigray); 250 Sudan (UNISFA); 1,475 South Sudan (UNMISS) (2022)<br>
@@ -757,7 +757,7 @@ al-Shabaab; Islamic Revolutionary Guard Corps (IRGC)/Qods Force<br>
 <p><em>Ethiopia-Eritrea:</em> Eritrea and Ethiopia agreed to abide by the 2002 Eritrea-Ethiopia Boundary Commission's (EEBC) delimitation decision, but neither party responded to the revised line detailed in the November 2006 EEBC Demarcation Statement <br><br><em>Ethiopia-Somalia:</em> While border clashes continue in the al-Fashqa (Fashaga) area,  the US views the 1902 boundary treaty between Ethiopia and Sudan as being in force; the undemarcated former British administrative line has little meaning as a political separation to rival clans within Ethiopia's Ogaden and southern Somalia's Oromo region; Ethiopian forces invaded southern Somalia and routed Islamist courts from Mogadishu in January 2007; "Somaliland" secessionists provide port facilities in Berbera and trade ties to landlocked Ethiopia; <br><br><em>Ethiopia-Sudan:</em> Ethiopia's construction of a large dam (the Grand Ethiopian Renaissance Dam) on the Blue Nile since 2011 has become a focal point of relations with Egypt and Sudan; as of 2020, four years of three-way talks between the three capitals over operating the dam and filling its reservoir had made little progress; Ethiopia began filling the dam in July 2020; civil unrest in eastern Sudan has hampered efforts to demarcate the porous boundary with Ethiopia</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 403,240 (South Sudan), 249,126 (Somalia), 161,640 (Eritrea), 47,826 (Sudan) (2022)<br>
+_refugees (country of origin)_: 403,802 (South Sudan), 249,573 (Somalia), 161,640 (Eritrea), 47,826 (Sudan) (2022)<br>
 _IDPs_: 2,114,653 (includes conflict- and climate-induced IDPs, excluding unverified estimates from the Amhara region; border war with Eritrea from 1998-2000; ethnic clashes; and ongoing fighting between the Ethiopian military and separatist rebel groups in the Somali and Oromia regions; natural disasters; intercommunal violence; most IDPs live in Sumale state) (2021)<br>
 
 **Illicit drugs**<br>

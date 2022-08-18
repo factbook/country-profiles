@@ -285,7 +285,7 @@ _judge selection and term of office_: Eastern Caribbean Supreme Court chief just
 _subordinate courts_: Magistrates' Courts<br>
 
 **Political parties and leaders**<br>
-National Democratic Party or NDP [Myron WALWYN]<br>People's Empowerment Party or PEP [Alvin CHRISTOPHER]<br>Progressive Virgin Islands Movement or PVIM [Ronnie SKELTON]<br>Progressives United or PU [Julian FRASER]<br>Virgin Islands Party or VIP [Andrew FAHIE]<br>
+National Democratic Party or NDP [Marlon PENN]<br>Progressive Virgin Islands Movement or PVIM [Ronnie SKELTON]<br>Progressives United or PU [Julian FRASER]<br>Virgin Islands Party or VIP [Natalio WHEATLEY]<br>
 
 **International organization participation**<br>
 Caricom (associate), CDB, Interpol (subbureau), IOC, OECS, UNESCO (associate), UPU<br>

@@ -714,7 +714,7 @@ South African National Defense Force (SANDF): South African Army (includes Reser
 1% of GDP (2017) (approximately $5.04 billion)<br>
 
 **Military and security service personnel strengths**<br>
-the South African National Defence Force (SANDF) is comprised of approximately 75,000 personnel (40,000 Army; 7,000 Navy; 10,000 Air Force; 8,000 Military Health Service; 10,000 other, including administrative, logistics, military police); 180,000 South African Police Service (2021)<br>
+approximately 75,000 personnel (40,000 Army; 7,000 Navy; 10,000 Air Force; 8,000 Military Health Service; 10,000 other, including administrative, logistics, military police); 180,000 South African Police Service (2022)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the SANDF's inventory consists of a mix of domestically-produced and foreign-supplied equipment; South Africa's domestic defense industry produced most of the Army's major weapons systems (some were jointly-produced with foreign companies), while the Air Force and Navy inventories include a mix of European, Israeli, and US-origin weapons systems; since 2010, Sweden is the largest supplier of weapons to the SANDF (2021)<br>

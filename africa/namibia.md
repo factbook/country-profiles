@@ -704,7 +704,7 @@ Namibian Defense Force (NDF): Army, Navy, Air Force<br><br>Ministry of Home Affa
 3.6% of GDP (2017) (approximately $670 million)<br>
 
 **Military and security service personnel strengths**<br>
-information varies; approximately 12,500 personnel (11,000 Army; 1,000 Navy; 500 Air Force) (2021)<br>
+information varies; approximately 12,500 personnel (11,000 Army; 1,000 Navy; 500 Air Force) (2022)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the inventory of the Namibian Defense Force consists mostly of Soviet-era equipment; China is the leading supplier of weapons to Namibia since 2010 (2021)<br>

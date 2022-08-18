@@ -375,7 +375,7 @@ _judge selection and term of office_: Supreme Court, Plurinational Constitutiona
 _subordinate courts_: National Electoral Court; District Courts (in each of the 9 administrative departments); agro-environmental lower courts<br>
 
 **Political parties and leaders**<br>
-Community Citizen Alliance or ACC [Carlos Diego MESA Gisbert]<br>Movement Toward Socialism or MAS [Juan Evo MORALES Ayma]<br>National Unity or UN [Samuel DORIA MEDINA Arana]<br>Revolutionary Left Front or FRI [Edgar GUZMAN Jauregui]<br>Social Democrat Movement or MDS [Ruben COSTAS Aguilera]<br>We Believe or Creemos [Luis Fernando CAMACHO Vaca]<br>
+Community Citizen Alliance or ACC [Carlos Diego MESA Gisbert]<br>Movement Toward Socialism or MAS [Juan Evo MORALES Ayma]<br>National Unity or UN [Samuel DORIA MEDINA Auza]<br>Revolutionary Left Front or FRI [Edgar GUZMAN Jauregui]<br>Social Democrat Movement or MDS [Ruben COSTAS Aguilera]<br>We Believe or Creemos [Luis Fernando CAMACHO Vaca]<br>
 <strong>note:</strong> We Believe or Creemos [Luis Fernando CAMACHO Vaca] is a coalition comprised of several opposition parties that participated in the 2020 election, which includes the Christian Democratic Party (PDC) and Solidarity Civic Unity (UCS)<br>
 
 **International organization participation**<br>
@@ -708,8 +708,8 @@ _river port(s)_: Puerto Aguirre (Paraguay/Parana)<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Bolivian Armed Forces: Bolivian Army (Ejercito de Boliviano, EB), Bolivian Naval Force (Fuerza Naval Boliviana, FNB), Bolivian Air Force (Fuerza Aerea Boliviana, FAB); Ministry of Government: National Police (Policía Nacional de Bolivia, PNB; includes paramilitary Anti-Narcotics Special Forces (Fuerza Especial de Lucha Contra el Narcotráfico, FELCN)) and an Anti-Terrorist Group (GAT) (2022)<br>
-<strong>note:</strong> the National Police is part of the reserves for the Armed Forces; the police and military share for border enforcement<br>
+Bolivian Armed Forces: Bolivian Army (Ejercito de Boliviano, EB), Bolivian Naval Force (Fuerza Naval Boliviana, FNB), Bolivian Air Force (Fuerza Aerea Boliviana, FAB); Ministry of Government: National Police (Policía Nacional de Bolivia, PNB) (2022)<br>
+<strong>note:</strong> the PNB includes two paramilitary forces, the Anti-Narcotics Special Forces (Fuerza Especial de Lucha Contra el Narcotráfico, FELCN) and the Anti-Terrorist Group (GAT); the PNB is part of the reserves for the Armed Forces; the police and military share responsibility for border enforcement<br>
 
 **Military expenditures**<br>
 1.4% of GDP (2021 est.)<br>

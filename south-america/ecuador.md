@@ -700,7 +700,7 @@ _river port(s)_: Guayaquil (Guayas)<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Ecuadorian Armed Forces: the Ecuadorian Army (Ejército Ecuatoriano), Ecuadorian Navy (Armada del Ecuador, Fuerza Naval del Ecuador, FNE, includes naval infantry, naval aviation, coast guard), Ecuadorian Air Force (Fuerza Aerea Ecuatoriana, FAE) (2022)<br>
+Ecuadorian Armed Forces: the Ecuadorian Army (Ejército Ecuatoriano), Ecuadorian Navy (Armada del Ecuador, Fuerza Naval del Ecuador, FNE; includes naval infantry, naval aviation, coast guard), Ecuadorian Air Force (Fuerza Aerea Ecuatoriana, FAE) (2022)<br>
 <strong>note:</strong> the National Police of Ecuador (Policía Nacional del Ecuador) is under the Ministry of Government<br>
 
 **Military expenditures**<br>

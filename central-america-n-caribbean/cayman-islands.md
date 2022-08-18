@@ -293,7 +293,7 @@ _judge selection and term of office_: Court of Appeal and Grand Court judges app
 _subordinate courts_: Summary Court<br>
 
 **Political parties and leaders**<br>
-People's Progressive Movement or PPM [Alden MCLAUGHLIN]<br>Cayman Democratic Party or CDP [McKeeva BUSH]<br>
+Cayman Islands Peoples Party or CIPP [Ezzard MILLER]<br>People's Progressive Movement or PPM [Roy McTAGGART]<br>
 
 **International organization participation**<br>
 Caricom (associate), CDB, Interpol (subbureau), IOC, UNESCO (associate), UPU<br>

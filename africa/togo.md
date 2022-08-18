@@ -701,7 +701,7 @@ Togolese Armed Forces (Forces Armees Togolaise, FAT): Togolese Army (l'Armee de 
 1.9% of GDP (2017 est.) (approximately $130 million)<br>
 
 **Military and security service personnel strengths**<br>
-approximately 10-11,000 personnel (7,000 Army; 500 Air and Navy; 3,000 Gendarmerie) (2022)<br>
+approximately 11,000 personnel (6,500 Army; 500 Air and Navy; 3,000 Gendarmerie) (2022)<br>
 <strong>note:</strong> in January 2022, the Togolese Government announced its intent to boost the size of the FAT to more than 20,000 by 2025<br>
 
 **Military equipment inventories and acquisitions**<br>

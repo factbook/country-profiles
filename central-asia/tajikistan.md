@@ -677,7 +677,7 @@ Armed Forces of the Republic of Tajikistan: Land Forces, Mobile Forces, Air and 
 2.2% of GDP (2015 est.) (approximately $310 million)<br>
 
 **Military and security service personnel strengths**<br>
-approximately 9,500 active troops (8,000 Land and Mobile Forces; 1,500 Air and Air Defense Forces) (2022)<br>
+approximately 9,500 active duty troops (8,000 Land and Mobile Forces; 1,500 Air and Air Defense Forces) (2022)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the Tajikistan Armed Forces' inventory is comprised of older Russian and Soviet-era equipment; it has received limited quantities of weapons systems since 2010, most of which was second-hand material from Russia (2021)<br>

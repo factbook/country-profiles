@@ -674,7 +674,7 @@ Lesotho Defense Force (LDF): Army (includes Air Wing) (2022)<br>
 2.2% of GDP (2017 est.) (approximately $70 million)<br>
 
 **Military and security service personnel strengths**<br>
-approximately 2,000 personnel (2021)<br>
+approximately 2,000 personnel (2022)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the LDF has a small inventory of older equipment from a variety of countries; since 2010, it has received only small quantities of second hand equipment from France (2021)<br>

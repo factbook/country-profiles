@@ -711,8 +711,8 @@ _river port(s)_: Mongla Port (Sela River)<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Bangladesh Defense Force: Bangladesh Army, Bangladesh Navy, Bangladesh Air Force; Ministry of Home Affairs: Border Guard Bangladesh (BGB), Bangladesh Coast Guard, Rapid Action Battalion (RAB), Ansars, Village Defense Party (VDP) (2022)<br>
-<strong>note:</strong> the RAB, Ansars, and VDP are paramilitary organizations for internal security; the RAB is a joint task force founded in 2004 and composed of members of the police, Army, Navy, Air Force, and Border Guards seconded to the RAB from their respective units; its mandate includes internal security, intelligence gathering related to criminal activities, and government-directed investigations<br>
+Armed Forces of Bangladesh (aka Bangladesh Defense Force): Bangladesh Army, Bangladesh Navy, Bangladesh Air Force; Ministry of Home Affairs: Border Guard Bangladesh (BGB), Bangladesh Coast Guard, Rapid Action Battalion (RAB), Ansars, Village Defense Party (VDP) (2022)<br>
+<strong>note 1: </strong>the Armed Forces of Bangladesh are jointly administered by the Ministry of Defense (MOD) and the Armed Forces Division (AFD), both under the Prime Minister's Office; the AFD has ministerial status and parallel functions with MOD; the AFD is a joint coordinating headquarters for the three services and also functions as a joint command center during wartime; to coordinate policy, the prime minister and the president are advised by a six-member board, which includes the three service chiefs of staff, the principal staff officer of the AFD, and the military secretaries to the prime minister and president<br><br><strong>note 2: </strong>the RAB, Ansars, and VDP are paramilitary organizations for internal security; the RAB is a joint task force founded in 2004 and composed of members of the police, Army, Navy, Air Force, and Border Guards seconded to the RAB from their respective units; its mandate includes internal security, intelligence gathering related to criminal activities, and government-directed investigations<br>
 
 **Military expenditures**<br>
 1.2% of GDP (2021 est.)<br>
@@ -734,7 +734,7 @@ much of the military's inventory is comprised of Chinese- and Russian-origin equ
 1,375 Central African Republic (MINUSCA); 1,625 Democratic Republic of the Congo (MONUSCO; plus about 190 police); 120 Lebanon (UNIFIL); 1,100 Mali (MINUSMA; plus about 280 police); 1,600 South Sudan (UNMISS); 180 Sudan (UNISFA) (May 2022)<br>
 
 **Military - note**<br>
-<p>the military’s chief areas of focus are border, economic exclusion zone, and domestic security; the Army maintains a large domestic security presence in the Chittagong Hills area where it conducted counterinsurgency operations against tribal guerrillas from the 1970s until the late 1990s; since 2009, the military has been in a force-wide expansion and modernization program known as Forces Goal 2030</p> (2022)<br>
+the military&rsquo;s chief areas of focus are border, economic exclusion zone, and domestic security; the Army maintains a large domestic security presence in the Chittagong Hills area where it conducted counterinsurgency operations against tribal guerrillas from the 1970s until the late 1990s; since 2009, the military has been in a force-wide expansion and modernization program known as Forces Goal 2030 (2022)<br>
 
 **Maritime threats**<br>
 the International Maritime Bureau reports the territorial waters of Bangladesh remain a risk for armed robbery against ships; there were no attacks reported in 2021 as opposed to four ships that were boarded in 2020<br>
@@ -742,7 +742,7 @@ the International Maritime Bureau reports the territorial waters of Bangladesh r
 ## Terrorism
 
 **Terrorist group(s)**<br>
-Harakat ul-Jihad-i-Islami/Bangladesh; Islamic State of Iraq and ash-Sham in Bangladesh (ISB); al-Qa'ida; al-Qa'ida in the Indian Subcontinent<br>
+Harakat ul-Jihad-i-Islami/Bangladesh; Islamic State of Iraq and ash-Sham in Bangladesh (ISB); al-Qa'ida; al-Qa'ida in the Indian Subcontinent (AQIS)<br>
 <strong>note:</strong> details about the history, aims, leadership, organization, areas of operation, tactics, targets, weapons, size, and sources of support of the group(s) appear(s) in Appendix-T<br>
 
 ## Transnational Issues

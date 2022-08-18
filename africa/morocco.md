@@ -736,7 +736,7 @@ Royal Armed Forces: Royal Moroccan Army (includes the Moroccan Royal Guard), Roy
 3.4% of GDP (2017 est.) (approximately $7.08 billion)<br>
 
 **Military and security service personnel strengths**<br>
-approximately 200,000 active personnel (175,000 Army; 10,000 Navy; 15,000 Air Force); est. 20,000 Gendarmerie; est. 5,000 Mobile Intervention Corps (2021)<br>
+approximately 200,000 active personnel (175,000 Army; 10,000 Navy; 15,000 Air Force); estimated 20,000 Gendarmerie; estimated 5,000 Mobile Intervention Corps (2022)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the Moroccan military's inventory is comprised of mostly older French and US equipment; since 2010, it has received equipment from about a dozen countries with France and the US as the leading suppliers (2021)<br>

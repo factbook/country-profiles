@@ -703,7 +703,7 @@ Sudanese Armed Forces (SAF): Ground Force, Navy, Sudanese Air Force; Rapid Suppo
 <strong>note:</strong> many defense expenditures are probably off-budget<br>
 
 **Military and security service personnel strengths**<br>
-information varies widely; estimated 100-125,000 SAF troops; approximately 30-40,000 Rapid Support Forces (2022)<br>
+information varies widely; estimated 100-125,000 active duty armed forces personnel; approximately 30-40,000 Rapid Support Forces (2022)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the SAF's inventory includes a mix of Chinese, Russian, Soviet-era, Ukrainian, and domestically-produced weapons systems; since 2010, the leading arms providers to the SAF are Belarus, China, Russia, and Ukraine; North Korea has also provided arms; Sudan has a domestic arms industry that manufactures ammunition, small arms, and armored vehicles, largely based on older Chinese and Russian systems (2022)<br>

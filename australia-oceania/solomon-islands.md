@@ -329,8 +329,8 @@ _election results_: Manasseh SOGAVARE elected prime minister on 24 April 2019, 3
 
 **Legislative branch**<br>
 _description_: unicameral National Parliament (50 seats; members directly elected in single-seat constituencies by simple majority vote to serve 4-year terms)<br>
-_elections_: last held on 3 April 2019 (next to be held in 2023)<br>
-_election results_: percent of vote by party - UDP 10.7%, DAP 7.8%, PAP 4.4%, other 20.8%, independent 56.3%; seats by party - DAP 7, UDP 5, PAP 3, KPSI 1, SIPFP 1, SIPRA 1, independent 32; composition - men 49, women 1, percent of women 2%<br>
+_elections_: last held on 3 April 2019 (next to be held in April 2023)<br>
+_election results_: percent of vote by party - UDP 10.7%, DAP 7.8%, PAP 4.4%, other 20.8%, independent 56.3%; seats by party - DAP 7, UDP 5, PAP 3, KPSI 1, SIPFP 1, SIPRA 1, independent 32; composition - men 46, women 4, percent of women 8%<br>
 
 **Judicial branch**<br>
 _highest courts_: Court of Appeal (consists of the court president and ex officio members including the High Court chief justice and its puisne judges); High Court (consists of the chief justice and puisne judges, as prescribed by the National Parliament)<br>

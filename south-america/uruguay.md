@@ -696,7 +696,7 @@ Armed Forces of Uruguay (Fuerzas Armadas del Uruguay): National Army (Ejercito N
 2% of GDP (2017 est.) (approximately $1.38 billion)<br>
 
 **Military and security service personnel strengths**<br>
-approximately 22,000 active personnel (14,000 Army; 5,000 Navy; 3,000 Air Force) (2022)<br>
+approximately 22,000 active duty personnel (14,000 Army; 5,000 Navy; 3,000 Air Force) (2022)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the inventory of the Armed Forces of Uruguay includes a wide variety of older or second-hand equipment; since 2010, it has imported limited amounts of military hardware from about 10 countries with Spain as the leading supplier (2022)<br>

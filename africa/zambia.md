@@ -719,7 +719,7 @@ Zambia Defense Force (ZDF): Zambia Army, Zambia Air Force, Zambia National Servi
 1.3% of GDP (2017 est.) (approximately $420 million)<br>
 
 **Military and security service personnel strengths**<br>
-the Zambia Defense Force (ZDF) has approximately 17,000 active troops (15,000 Army; 2,000 Air) (2022)<br>
+approximately 17,000 active troops (15,000 Army; 2,000 Air) (2022)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the ZDF's inventory is largely comprised of Chinese, Russian, and Soviet-era armaments; since 2010, China is the leading supplier of arms to Zambia (2021)<br>

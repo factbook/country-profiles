@@ -682,7 +682,8 @@ Georgian Defense Forces: Land Forces (includes Aviation and Air Defense Forces),
 1.9% of GDP (2017) (approximately $750 million)<br>
 
 **Military and security service personnel strengths**<br>
-information varies; approximately 30,000 troops, including active National Guard forces (2021)<br>
+information varies; approximately 30,000 troops, including active National Guard forces (2022)<br>
+<strong>note: </strong>in December 2020, the Parliament of Georgia adopted a resolution determining that the Georgian Defense Forces would have maximum peacetime strength of 37,000 troops<br>
 
 **Military equipment inventories and acquisitions**<br>
 the Georgian Defense Forces are equipped mostly with older Russian and Soviet-era weapons; since 2010, it has received limited quantities of equipment from European countries and the US (2021)<br>
@@ -700,7 +701,7 @@ as of 2022, approximately 7-10,000 Russian troops continued to occupy the breaka
 <p>Russia's military support and subsequent recognition of Abkhazia and South Ossetia independence in 2008 continue to sour relations with Georgia</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 25,582 (Ukraine) (as of 2 August 2022)<br>
+_refugees (country of origin)_: 25,771 (Ukraine) (as of 9 August 2022)<br>
 _IDPs_: 305,000 (displaced in the 1990s as a result of armed conflict in the breakaway republics of Abkhazia and South Ossetia; displaced in 2008 by fighting between Georgia and Russia over South Ossetia) (2021)<br>
 _stateless persons_: 534 (mid-year 2021)<br>
 

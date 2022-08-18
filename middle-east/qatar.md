@@ -664,7 +664,7 @@ Qatari Amiri Land Force (QALF, includes Emiri Guard), Qatari Amiri Navy (QAN, in
 3.4% of GDP (2017 est.) (approximately $8.22 billion)<br>
 
 **Military and security service personnel strengths**<br>
-information varies; approximately 15,000 active personnel (10,000 Land Force, including Emiri Guard; 3,000 Navy; 2,000 Air Force) (2022)<br>
+information varies; approximately 15,000 active duty personnel (10,000 Land Force, including Emiri Guard; 3,000 Navy; 2,000 Air Force) (2022)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the Qatari military's inventory includes a broad mix of older and modern weapons systems, mostly from the US and Europe; in the 2010s, Qatar embarked on an extensive military expansion and modernization program with large air, ground, and naval equipment purchases; since 2010, France and the US are the top suppliers (2022)<br>

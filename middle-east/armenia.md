@@ -669,13 +669,13 @@ Armenian Armed Forces: Armenian Army (includes land, air, air defense forces) (2
 4.4% of GDP (2017 est.) (approximately $1.43 billion)<br>
 
 **Military and security service personnel strengths**<br>
-approximately 45,000 active troops (42,000 ground; 3,000 air/defense) (2021)<br>
+approximately 45,000 active troops (42,000 ground; 3,000 air/defense) (2022)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the inventory of the Armenian Armed Forces includes mostly Russian and Soviet-era equipment (2022)<br>
 
 **Military service age and obligation**<br>
-18-27 years of age for voluntary (men and women) or compulsory (men only) military service; 2-year conscript service obligation, which can be served as an officer upon deferment for university studies if enrolled in officer-producing program; 17-year-olds are eligible to become cadets at military higher education institutes, where they are classified as military personnel; citizens aged 27 to 50 are registered in the military reserve and may be called to serve if mobilization is declared; males under the age 36 years, who have not previously served as contract servicemen and are registered in the reserve, as well as females, regardless of whether they are registered in the reserve can be enrolled in contractual military service as privates (2021)<br>
+18-27 years of age for voluntary (men and women) or compulsory (men only) military service; 2-year conscript service obligation, which can be served as an officer upon deferment for university studies if enrolled in officer-producing program; 17-year-olds are eligible to become cadets at military higher education institutes, where they are classified as military personnel; citizens aged 27 to 50 are registered in the military reserve and may be called to serve if mobilization is declared (2021)<br>
 <strong>note:</strong> as of 2021, conscripts comprised about half of the military's active personnel; as of 2018, women made up about 13% of the active duty military<br>
 
 **Military - note**<br>

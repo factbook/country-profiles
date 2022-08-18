@@ -405,7 +405,7 @@ _consulate(s) general_: Houston, New York<br>
 
 **Diplomatic representation from the US**<br>
 _chief of mission_: Ambassador John J. SULLIVAN (since 5 February 2021)<br>
-_embassy_: Bolshoy Deviatinsky Pereulok No. 8, Moscow 121099<br>
+_embassy_: <small>55,75566° N, 37,58028° E</small><br>
 _mailing address_: 5430 Moscow Place, Washington DC&nbsp; 20521-5430<br>
 _telephone_: [7] (495) 728-5000<br>
 _FAX_: [7] (495) 728-5090<br>
@@ -739,7 +739,7 @@ Armed Forces of the Russian Federation: Ground Troops (Sukhoputnyye Voyskia, SV)
 4.2% of GDP (2017 est.) (approximately $104 billion)<br>
 
 **Military and security service personnel strengths**<br>
-information varies; approximately 850,000 total active duty troops (300,000 Ground Troops; 40,000 Airborne Troops; 150,000 Navy; 160,000 Aerospace Forces; 70,000 Strategic Rocket Forces; approximately 20,000 special operations forces; approximately 100,000 other uniformed personnel (command and control, cyber, support, logistics, security, etc.); estimated 200-250,000 Federal National Guard Troops (2021)<br>
+information varies; prior to Russia's invasion of Ukraine in February 2022, approximately 850,000 active duty troops (300,000 Ground Troops; 40,000 Airborne Troops; 150,000 Navy; 160,000 Aerospace Forces; 70,000 Strategic Rocket Forces; approximately 20,000 special operations forces; approximately 100,000 other uniformed personnel (command and control, cyber, support, logistics, security, etc.); estimated 200-250,000 Federal National Guard Troops (Feb 2022)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the Russian Federation's military and paramilitary services are equipped with domestically-produced weapons systems, although since 2010 Russia has imported limited amounts of military hardware from several countries, including Czechia, France, Israel, Italy, Turkey, and Ukraine; the Russian defense industry is capable of designing, developing, and producing a full range of advanced air, land, missile, and naval systems; Russia is the world's second largest exporter of military hardware (2021)<br>

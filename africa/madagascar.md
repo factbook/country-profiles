@@ -689,7 +689,7 @@ People's Armed Forces: Army, Navy, Air Force; National Gendarmerie (operates und
 0.5% of GDP (2017 est.) (approximately $120 million)<br>
 
 **Military and security service personnel strengths**<br>
-approximately 13,000 personnel (12,000 Army; 500 Navy; 500 Air Force); est. 10,000 Gendarmerie (2022)<br>
+approximately 13,000 personnel (12,000 Army; 500 Navy; 500 Air Force); estimated 10,000 Gendarmerie (2022)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the PAF's inventory consists mostly of aging Soviet-era equipment; since 2010, it has received limited amounts of second-hand equipment from France, South Africa, and UAE (2022)<br>

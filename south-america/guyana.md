@@ -669,7 +669,7 @@ the Guyana Defense Force is a unified force with ground, air, and coast guard co
 1.2% of GDP (2017 est.) (approximately $80 million)<br>
 
 **Military and security service personnel strengths**<br>
-approximately 4,000 active military personnel (2022)<br>
+approximately 4,000 active duty military personnel (2022)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the Guyana Defense Force's limited inventory is mostly comprised of second-hand platforms from a variety of foreign suppliers, including Brazil, China, the former Soviet Union, the UK, and the US (2022)<br>

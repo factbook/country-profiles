@@ -587,7 +587,7 @@ Royal Bermuda Regiment; Bermuda Police Service (2022)<br>
 <strong>note:</strong> the Royal Bermuda Regiment is a reserve multi-role battalion that carries out two primary functions – providing military aid to civil authorities and humanitarian and disaster relief<br>
 
 **Military and security service personnel strengths**<br>
-the Royal Bermuda Regiment has about 350 troops (2021)<br>
+the Royal Bermuda Regiment has about 350 troops (2022)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the Regiment is equipped with small arms (2021)<br>

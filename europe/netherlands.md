@@ -689,7 +689,7 @@ _river port(s)_: Amsterdam (Nordsee Kanaal); Moerdijk (Hollands Diep River); Rot
 
 **Military and security forces**<br>
 Royal Netherlands Army, Royal Netherlands Navy (includes Naval Air Service and Marine Corps), Royal Netherlands Air Force, Royal Netherlands Marechaussee (Military Constabulary) (2022)<br>
-<strong>note:</strong> the Netherlands Coast Guard and the Dutch Caribbean Coast Guard are civilian in nature, but managed by the Royal Netherlands Navy<br>
+<strong>note:</strong> the Netherlands Coast Guard and the Dutch Caribbean Coast Guard are civilian in nature but managed by the Royal Netherlands Navy<br>
 
 **Military expenditures**<br>
 1.5% of GDP (2021 est.)<br>

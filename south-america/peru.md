@@ -735,7 +735,7 @@ Joint Command of the Armed Forces of Peru (CCFFAA): Peruvian Army (Ejercito del 
 1.2% of GDP (2017) (approximately $3.86 billion)<br>
 
 **Military and security service personnel strengths**<br>
-information varies; approximately 95,000 active personnel (60,000 Army; 25,000 Navy, including about 4,000 naval infantry and 1,000 Coast Guard; 10,000 Air Force) (2022)<br>
+information varies; approximately 95,000 active duty personnel (60,000 Army; 25,000 Navy, including about 4,000 naval infantry and 1,000 Coast Guard; 10,000 Air Force) (2022)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the Peruvian military's inventory is a mix of mostly older equipment from a wide variety of suppliers, including Brazil, Europe, the former Soviet Union, and the US; since 2010, Peru has received military equipment from more than a dozen countries, led by Russia and South Korea (2022)<br>

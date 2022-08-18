@@ -702,7 +702,7 @@ Malawi Defense Force (MDF): Army (includes marine unit), Air Force (established 
 0.7% of GDP (2017 est.) (approximately $60 million)<br>
 
 **Military and security service personnel strengths**<br>
-information varies; approximately 8,000 total personnel (including about 200 air and 200 marine forces) (2021)<br>
+information varies; approximately 8,000 personnel (including about 200 air and 200 marine forces) (2022)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the Malawi Defense Force inventory is comprised of mostly obsolescent or second-hand equipment from Europe and South Africa; since 2010, it has taken deliveries of limited amounts of mostly second-hand equipment from China, South Africa, and the UK, as well as non-lethal equipment donated by the US (2021)<br>

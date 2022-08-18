@@ -701,7 +701,7 @@ National Armed Forces: Army, Guinean Navy (Armee de Mer or Marine Guineenne), Gu
 1.8% of GDP (2017 est.) (approximately $260 million)<br>
 
 **Military and security service personnel strengths**<br>
-Guinean National Armed Forces are comprised of approximately 12,000 active personnel <br>(9,000 Army; 400 Navy; 800 Air Force; 300 BASP; 1,500 Gendarmerie) (2022)<br>
+approximately 12,000 active personnel (9,000 Army; 400 Navy; 800 Air Force; 300 BASP; 1,500 Gendarmerie) (2022)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the inventory of the Guinean military consists largely of ageing and outdated (mostly Soviet-era) equipment; since 2010, it has received small amounts of equipment from China, France, Russia, and South Africa (2022)<br>

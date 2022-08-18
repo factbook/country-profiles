@@ -329,8 +329,8 @@ African Party for the Independence of Cape Verde (APICV)<br>Movement for Democra
 
 **Legislative branch**<br>
 _description_: unicameral National Assembly or Assembleia Nacional (72 seats; members directly elected in multi-seat constituencies by proportional representation vote; members serve 5-year terms)<br>
-_elections_: last held on 18 April 2021 (next to be held on 18 April 2026)<br>
-_election results_: percent of vote by party Monument for Democracy 50.2%, African Party for Independence in Cape Verde 39.55%, Democratic and Independent Cape Verdean Union 9.0%; seats by party - MD 38, APICV 30, DICVU 4; composition - men 44, women 28, percent of women 37.5%<br>
+_elections_: last held on 18 April 2021 (next to be held on 18 April 2026) (2021)<br>
+_election results_: percent of vote by party Monument for Democracy 50.2%, African Party for Independence in Cape Verde 39.55%, Democratic and Independent Cape Verdean Union 9.0%; seats by party - MD 38, APICV 30, DICVU 4; composition - men 44, women 28, percent of women 37.5% (2021)<br>
 
 **Judicial branch**<br>
 _highest courts_: Supreme Court of Justice (consists of the chief justice and at least 7 judges and organized into civil, criminal, and administrative sections)<br>
@@ -338,7 +338,7 @@ _judge selection and term of office_: judge appointments - 1 by the president of
 _subordinate courts_: appeals courts, first instance (municipal) courts; audit, military, and fiscal and customs courts<br>
 
 **Political parties and leaders**<br>
-rz African Party for Independence of Cabo Verde or PAICV [Janira Hopffer ALMADA]<br>Democratic and Independent Cabo Verdean Union or UCID [Antonio MONTEIRO]<br>Democratic Christian Party or PDC [Manuel RODRIGUES]<br>Democratic Renovation Party or PRD [Victor FIDALGO]<br>Movement for Democracy or MPD [Ulisses CORREIA E SILVA]<br>Party for Democratic Convergence or PCD [Dr. Eurico MONTEIRO]<br>Party of Work and Solidarity or PTS [Anibal MEDINA]<br>Social Democratic Party or PSD [Joao ALEM]<br>
+African Party for Independence of Cabo Verde or PAICV [Janira Hopffer ALMADA]<br>Democratic and Independent Cabo Verdean Union or UCID [João DOS SANTOS LUIS]<br>Democratic Christian Party or PDC [Manuel RODRIGUES]<br>Democratic Renewal Party or PRD [Victor FIDALGO]<br>Movement for Democracy or MPD [Ulisses CORREIA E SILVA]<br>Party for Democratic Convergence or PCD [Dr. Eurico MONTEIRO]<br>Party of Work and Solidarity or PTS [Anibal MEDINA]<br>Social Democratic Party or PSD [Joao ALEM]<br>
 
 **International organization participation**<br>
 ACP, AfDB, AOSIS, AU, CD, CPLP, ECOWAS, FAO, G-77, IAEA, IBRD, ICAO, ICCt (signatory), ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ITSO, ITU, ITUC (NGOs), MIGA, NAM, OIF, OPCW, UN, UNCTAD, UNESCO, UNIDO, Union Latina, UNWTO, UPU, WCO, WHO, WIPO, WMO, WTO<br>
@@ -653,13 +653,13 @@ Cabo Verdean Armed Forces (FACV): Army (also called the National Guard, GN; incl
 approximately 1,200 personnel including about 100 in the Coast Guard (2022)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the FACV has a limited amount of mostly dated and second-hand equipment, largely from China, European countries, and the former Soviet Union (2022)<br>
+the FACV has a limited amount of mostly dated and second-hand equipment, largely from China, some European countries, and the former Soviet Union (2022)<br>
 
 **Military service age and obligation**<br>
 18-35 years of age for male and female selective compulsory military service; 2-years conscript service obligation; 17 years of age for voluntary service (with parental consent) (2022)<br>
 
 **Military - note**<br>
-<p>as of 2022, the FACV/National Guard was mostly a ground force with 2 infantry battalions and a small air component with a maritime patrol squadron; the Coast Guard had a few coastal patrol craft and patrol boats</p><br>
+as of 2022, the FACV/National Guard was mostly a ground force with 2 infantry battalions and a small air component with a maritime patrol squadron; the Coast Guard had a few coastal patrol craft and patrol boats<br>
 
 ## Transnational Issues
 

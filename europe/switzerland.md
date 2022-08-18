@@ -703,7 +703,7 @@ Swiss Armed Forces: Land Forces, Swiss Air Force (Schweizer Luftwaffe) (2022)<br
 0.7% of GDP (2017) (approximately $4.67 billion)<br>
 
 **Military and security service personnel strengths**<br>
-the Swiss Armed Forces maintain a full-time professional cadre of about 4,000 personnel along with approximately 18-20,000 conscripts brought in annually for 18-23 weeks of training; approximately 120,000 reserve forces (2021)<br>
+the Swiss Armed Forces maintain a full-time professional cadre of about 4,000 personnel along with approximately 18-20,000 conscripts brought in annually for 18-23 weeks of training; approximately 120,000 reserve forces (2022)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the Swiss Armed Forces inventory includes a mix of domestically-produced and imported weapons systems; the US is the leading supplier of military armaments to Switzerland since 2010; the Swiss defense industry produces a range of military land vehicles (2021)<br>
@@ -730,7 +730,7 @@ Islamic State of Iraq and ash-Sham (ISIS)<br>
 <p>none identified</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 38,219 (Eritrea), 20,043 (Syria), 14,649 (Afghanistan), 6,069 (Sri Lanka), 6,197 (Turkey) (mid-year 2021); 59,244 (Ukraine) (as of 2 August 2022)<br>
+_refugees (country of origin)_: 38,219 (Eritrea), 20,043 (Syria), 14,649 (Afghanistan), 6,069 (Sri Lanka), 6,197 (Turkey) (mid-year 2021); 59,834 (Ukraine) (as of 9 August 2022)<br>
 _stateless persons_: 684 (mid-year 2021)<br>
 
 **Illicit drugs**<br>

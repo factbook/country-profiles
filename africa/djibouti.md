@@ -665,7 +665,7 @@ Djibouti Armed Forces (FAD): Army, Navy, Air Force; Djibouti Coast Guard; Minist
 2.5% of GDP (2015 est.) (approximately $110 million)<br>
 
 **Military and security service personnel strengths**<br>
-the Djibouti Armed Forces (FAD) have approximately 10,500 active troops (8,000 Army; 250 Naval; 250 Air; 2,000 Gendarmerie) (2021)<br>
+approximately 10,000 active troops (8,000 Army; 250 Naval; 250 Air; 1,500 Gendarmerie) (2022)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the FAD is armed largely with older French and Soviet-era weapons systems; since 2010, it has received limited amounts of mostly second-hand equipment from a variety of countries, including China and the US (2021)<br>

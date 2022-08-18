@@ -374,7 +374,7 @@ _judge selection and term of office_: Supreme Court judges appointed by the pres
 _subordinate courts_: high courts; magistrates' courts<br>
 
 **Political parties and leaders**<br>
-Action Party for Development or PAD [El Hadj Laurent NGON-BABA]<br>Alliance for Democracy and Progress or ADP [Clement BELIBANGA]<br>Central African Democratic Rally or RDC [Desire Nzanga KOLINGBA]<br>Movement for Democracy and Development or MDD [Louis PAPENIAH]<br>Movement for the Liberation of the Central African People or MLPC [Martin ZIGUELE]<br>National Convergence (also known as Kwa Na Kwa) or KNK [Francois BOZIZE]<br>National Union for Democracy and Progress or UNDP [Amine MICHEL]<br>New Alliance for Progress or NAP [Jean-Jacques DEMAFOUTH]<br>Social Democratic Party or PSD [Enoch LAKOUE]<br>Union for Central African Renewal or URCA [Anicet-Georges DOLOGUELE]<br>
+Action Party for Development or PAD [El Hadj Laurent NGON-BABA]<br>Alliance for Democracy and Progress or ADP [Clement BELIBANGA]<br>Central African Democratic Rally or RDC<br>Movement for Democracy and Development or MDD [Louis PAPENIAH]<br>Movement for the Liberation of the Central African People or MLPC [Martin ZIGUELE]<br>National Convergence (also known as Kwa Na Kwa) or KNK [Francois BOZIZE]<br>National Union for Democracy and Progress or UNDP [Michel AMINE]<br>New Alliance for Progress or NAP [Jean-Jacques DEMAFOUTH]<br>Social Democratic Party or PSD [Enoch Derant LAKOUE]<br>Union for Central African Renewal or URCA [Anicet-Georges DOLOGUELE]<br>
 
 **International organization participation**<br>
 ACP, AfDB, AU, BDEAC, CEMAC, EITI (compliant country) (suspended), FAO, FZ, G-77, IAEA, IBRD, ICAO, ICCt, ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, Interpol, IOC, IOM, ITSO, ITU, ITUC (NGOs), LCBC, MIGA, NAM, OIC (observer), OIF, OPCW, UN, UNCTAD, UNESCO, UNIDO, UNWTO, UPU, WCO, WHO, WIPO, WMO, WTO<br>
@@ -669,7 +669,7 @@ Nola (Sangha)<br>
 
 **Military and security forces**<br>
 Central African Armed Forces (Forces Armees Centrafricaines, FACA): Army (includes an air squadron, Escadrille Centrafricaine); Ministry of Interior: National Gendarmerie (Gendarmerie Nationale), National Police (2022)<br>
-<strong>note:</strong> in 2019-2021, the CAR created three Mixed Special Security units (<em>Unités Spéciales Mixtes de Sécurité</em> or USMS), regionally based battalion-sized units comprised of about 40% government and 60% rebel soldiers that are intended to provide security along transportation corridors and at mining sites; the units are intended to be transitional in nature with a scheduled deployment time of two years<br>
+<strong>note:</strong> in 2019-2021, the CAR created three Mixed Special Security units (Unités Spéciales Mixtes de Sécurité or USMS), regionally based battalion-sized units comprised of about 40% government and 60% rebel soldiers created to provide security along transportation corridors and at mining sites; the units are intended to be transitional in nature with a scheduled deployment time of two years<br>
 
 **Military expenditures**<br>
 1.8% of GDP (2021 est.)<br>
@@ -679,7 +679,7 @@ Central African Armed Forces (Forces Armees Centrafricaines, FACA): Army (includ
 1.4% of GDP (2017 est.) (approximately $40 million)<br>
 
 **Military and security service personnel strengths**<br>
-information varies; approximately 8,000 FACA troops; up to 2,000 Gendarmerie; approximately 2,000 Mixed Special Security Units (2021)<br>
+information varies; approximately 8,000 FACA troops; up to 2,000 Gendarmerie; approximately 2,000 Mixed Special Security Units (2022)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the FACA is lightly and poorly armed with mostly outdated weapons; since 2010, it has received small amounts of second-hand equipment from China, Russia, and Ukraine (2021)<br>

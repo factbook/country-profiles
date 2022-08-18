@@ -687,7 +687,7 @@ _LNG terminal(s) (import)_: Andres LNG terminal (Boca Chica)<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Armed Forces of the Dominican Republic: Army (Ejercito Nacional, EN), Navy (Marina de Guerra, MdG, includes naval infantry), Dominican Air Force (Fuerza Aerea Dominicana, FAD) (2022)<br>
+Armed Forces of the Dominican Republic: Army (Ejercito Nacional, EN), Navy (Marina de Guerra, MdG; includes naval infantry), Dominican Air Force (Fuerza Aerea Dominicana, FAD) (2022)<br>
 <strong>note:</strong> in addition to the military, the Ministry of Armed Forces directs the Airport Security Authority and Civil Aviation, Port Security Authority, the Tourist Security Corps, and Border Security Corps; the National Police (Policia Nacional) are under the Ministry of Interior<br>
 
 **Military expenditures**<br>

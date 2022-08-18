@@ -694,7 +694,7 @@ the Albanian military was previously equipped with mostly Soviet-era weapons tha
 <strong>note: </strong>as of 2020, women comprised about 14% of the military's full-time personnel, including 20% of the officers<br>
 
 **Military - note**<br>
-Albania officially became a member of NATO in 2009; as of 2022, Greece and Italy were providing NATO's air policing mission for Albania<br>
+Albania became a member of NATO in 2009; as of 2022, Greece and Italy were providing NATO's air policing mission for Albania<br>
 
 ## Terrorism
 

@@ -718,7 +718,7 @@ Armed Defense Forces of Mozambique (Forcas Armadas de Defesa de Mocambique, FADM
 0.9% of GDP (2017 est.) (approximately $170 million)<br>
 
 **Military and security service personnel strengths**<br>
-information limited and varied; approximately 12,000 personnel (11,000 Army and about 1,000 Air Force and Navy) (2021)<br>
+information limited and varied; approximately 12,000 personnel (11,000 Army and about 1,000 Air Force and Navy) (2022)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the FADM's inventory consists primarily of Soviet-era equipment, although since 2010 it has received limited quantities of more modern equipment from a variety of countries, mostly as aid/donations (2021)<br>

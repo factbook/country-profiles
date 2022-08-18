@@ -393,7 +393,7 @@ _judge selection and term of office_: Court of Cassation judges nominated by the
 _subordinate courts_: State Security Court; Court of Appeals (organized into administrative and judiciary sections); Tribunal de Grande; magistrates' courts; customary courts<br>
 
 **Political parties and leaders**<br>
-Christian Democrat Party or PDC [Jose ENDUNDO]<br>Congolese Rally for Democracy or RCD [Azarias RUBERWA]<br>Convention of Christian Democrats or CDC<br>Engagement for Citizenship and Development or ECiDe [Martin FAYULU]<br>Forces of Renewal or FR [Mbusa NYAMWISI]<br>Lamuka coalition [Martin FAYULU] (includes ECiDe, MLC, Together for Change, CNB, and, Nouvel Elan)<br>Movement for the Liberation of the Congo or MLC [Jean-Pierre BEMBA]<br>Nouvel Elan [Adolphe MUZITO]<br>Our Congo or CNB ("Congo Na Biso") [Freddy MATUNGULU]<br>People's Party for Reconstruction and Democracy or PPRD [Henri MOVA Sakanyi]<br>Social Movement for Renewal or MSR [Pierre LUMBI]<br>Together for Change (Ensemble") [Moise KATUMBI]<br>Unified Lumumbist Party or PALU [Antoine GIZENGA]<br>Union for the Congolese Nation or UNC [Vital KAMERHE]<br>Union for Democracy and Social Progress or UDPS [Felix TSHISEKEDI]<br>
+Christian Democrat Party or PDC [Jose ENDUNDO]<br>Congolese Rally for Democracy or RCD [Azarias RUBERWA]<br>Convention of Christian Democrats or CDC<br>Engagement for Citizenship and Development or ECiDe [Martin FAYULU]<br>Forces of Renewal or FR [Mbusa NYAMWISI]<br>Lamuka coalition [Martin FAYULU] (includes ECiDe, MLC, Together for Change, CNB, and, Nouvel Elan)<br>Movement for the Liberation of the Congo or MLC [Jean-Pierre BEMBA]<br>Nouvel Elan [Adolphe MUZITO]<br>Our Congo or CNB ("Congo Na Biso") [Freddy MATUNGULU]<br>People's Party for Reconstruction and Democracy or PPRD [Henri MOVA Sakanyi]<br>Social Movement for Renewal or MSR [Pierre LUMBI]<br>Together for Change ("Ensemble") [Moise KATUMBI]<br>Unified Lumumbist Party or PALU<br>Union for the Congolese Nation or UNC [Vital KAMERHE]<br>Union for Democracy and Social Progress or UDPS [Felix TSHISEKEDI]<br>
 
 **International organization participation**<br>
 ACP, AfDB, AU, CEMAC, CEPGL, COMESA, EITI (compliant country), FAO, G-24, G-77, IAEA, IBRD, ICAO, ICC (NGOs), ICCt, ICRM, IDA, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), LCBC (observer), MIGA, NAM, OIF, OPCW, PCA, SADC, UN, UNCTAD, UNESCO, UNHCR, UNIDO, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
@@ -729,7 +729,7 @@ Armed Forces of the Democratic Republic of the Congo (Forces d'Armees de la Repu
 1.3% of GDP (2016 est.) (approximately $650 million)<br>
 
 **Military and security service personnel strengths**<br>
-limited and widely varied information; approximately 100,000 active troops (mostly Army, but includes several thousand Navy and Air Force personnel, as well as about 10,000 Republican Guard; note -&nbsp; Navy personnel includes naval infantry) (2021)<br>
+limited and widely varied information; approximately 100,000 active troops (mostly Army, but includes several thousand Navy and Air Force personnel, as well as about 10,000 Republican Guard; note -&nbsp; Navy personnel includes naval infantry) (2022)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the FARDC is equipped mostly with a mix of second-hand Russian and Soviet-era weapons acquired from former Warsaw Pact nations; most equipment was acquired between 1970 and 2000; in recent years, Ukraine is the largest supplier of arms to the FARDC (2021)<br>
@@ -752,7 +752,7 @@ Islamic State of Iraq and ash-Sham – Democratic Republic of the Congo (ISIS-DR
 <p>heads of the Great Lakes states and UN pledged in 2004 to abate tribal, rebel, and militia fighting in the region, including northeast Congo, where the UN Organization Mission in the Democratic Republic of the Congo (MONUC), organized in 1999, maintains over 16,500 uniformed peacekeepers<br><br><em>Democratic Republic of Congo(DRC)-Republic of the Congo: </em>the location of the boundary in the broad Congo River is indefinite except in the Pool Malebo/Stanley Pool area<br><br><em>Democratic Republic of Congo(DRC)-Uganda:</em> Uganda rejects the DRC claim to Margherita Peak in the Rwenzori mountains and considers it a boundary divide; there is tension and violence on Lake Albert over prospective oil reserves at the mouth of the Semliki River<br><br><em>Democratic Republic of Congo(DRC)-Zambia: </em>boundary commission continues discussions over Congolese-administered triangle of land on the right bank of the Lunkinda River claimed by Zambia near the DRC village of Pweto<br><br><em>Democratic Republic of Congo(DRC)-Angola: </em>DRC accuses Angola of shifting monuments</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 210,067 (Rwanda), 207,118 (Central African Republic), 56,303 (South Sudan) (refugees and asylum seekers), 41,187 (Burundi) (2022)<br>
+_refugees (country of origin)_: 210,067 (Rwanda), 207,118 (Central African Republic), 56,303 (South Sudan) (refugees and asylum seekers), 40,798 (Burundi) (2022)<br>
 _IDPs_: 5.61 million (fighting between government forces and rebels since mid-1990s; conflict in Kasai region since 2016) (2021)<br>
 
 **Trafficking in persons**<br>

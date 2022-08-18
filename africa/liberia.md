@@ -666,7 +666,7 @@ _major seaport(s)_: Buchanan, Monrovia<br>
 
 **Military and security forces**<br>
 Armed Forces of Liberia (AFL): Army, Liberian Coast Guard, Air Wing (2022)<br>
-<strong>note:</strong> the AFL Air Wing was previously disbanded in 2005 and has been under development since 2019; the Liberian National Police and the Liberian Drug Enforcement Agency are under the Ministry of Justice<br>
+<strong>note:</strong> the AFL Air Wing was previously disbanded in 2005 and has been under redevelopment since 2019; the Liberian National Police and the Liberian Drug Enforcement Agency are under the Ministry of Justice<br>
 
 **Military expenditures**<br>
 0.7% of GDP (2021 est.)<br>
@@ -676,7 +676,7 @@ Armed Forces of Liberia (AFL): Army, Liberian Coast Guard, Air Wing (2022)<br>
 0.4% of GDP (2017 est.) (approximately $19 million)<br>
 
 **Military and security service personnel strengths**<br>
-approximately 2,000 personnel (2021)<br>
+approximately 2,000 active personnel (2022)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the AFL is poorly armed; it has received limited quantities of equipment since 2010, including donations, from countries such as China and the US (2021)<br>

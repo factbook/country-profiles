@@ -328,12 +328,12 @@ _residency requirement for naturalization_: 30 years<br>
 limited; note - rulers of the seven emirates each select a proportion of voters for the Federal National Council (FNC) that together account for about 12 percent of Emirati citizens<br>
 
 **Executive branch**<br>
-_chief of state_: President MUHAMMAD bin Rashid Al-Nuhayan (since 14 May 2022); Vice President MUHAMMAD bin Rashid Al-Maktoum (since 5 January 2006); note - MUHAMMAD bin Rashid Al-Nuhayan elected president by the Federal Supreme Council following the death of President KHALIFA bin Zayid Al-Nuhayan on 13 May<br>
+_chief of state_: President MUHAMMAD bin Zayid Al-Nuhayan (since 14 May 2022); Vice President MUHAMMAD bin Rashid Al-Maktoum (since 5 January 2006); note - MUHAMMAD bin Zayid Al-Nuhayan elected president by the Federal Supreme Council following the death of President KHALIFA bin Zayid Al-Nuhayan on 13 May<br>
 _head of government_: Prime Minister and Vice President MUHAMMAD bin Rashid Al-Maktoum (since 5 January 2006); Deputy Prime Ministers SAIF bin Zayid Al-Nuhayan, MANSUR bin Zayid Al-Nuhayan (both since 11 May 2009), and MAKTOUM bin Mohammed Al-Maktoum (since 25 September 2021)<br>
 _cabinet_: Council of Ministers announced by the prime minister and approved by the president<br>
 _elections/appointments_: president and vice president indirectly elected by the Federal Supreme Council - composed of the rulers of the 7 emirates - for a 5-year term (no term limits); unscheduled election held on 14 May 2022, following the death of President KHALIFA bin Zayid Al-Nuhayan (next election NA); prime minister and deputy prime minister appointed by the president<br>
-_election results_: MUHAMMAD bin Rashid Al-Nuhayan elected president; Federal Supreme Council vote NA<br>
-<strong>note:</strong> there is also a Federal Supreme Council (FSC) composed of the 7 emirate rulers; the FSC is the highest constitutional authority in the UAE; establishes general policies and sanctions federal legislation; meets 4 times a year; Abu Zaby (Abu Dhabi) and Dubayy (Dubai) rulers have effective veto power; Vice President MUHAMMAD BIN RASHID Al-Maktoum assumed presidential responsibilities after the death of President KHALIFA bin Zayid Al-Nuhayan on 13 May 2022; under the constitution, MUHAMMAD BIN RASHID will serve as President until the FSC meets within 30 days to elect a new president<br>
+_election results_: MUHAMMAD bin Zayid Al-Nuhayan elected president; Federal Supreme Council vote NA<br>
+<strong>note:</strong> there is also a Federal Supreme Council (FSC) composed of the 7 emirate rulers; the FSC is the highest constitutional authority in the UAE; establishes general policies and sanctions federal legislation; meets 4 times a year; Abu Zaby (Abu Dhabi) and Dubayy (Dubai) rulers have effective veto power<br>
 
 **Legislative branch**<br>
 _description_: unicameral Federal National Council (FNC) or Majlis al-Ittihad al-Watani (40 seats; 20 members indirectly elected using single non-transferable vote by an electoral college whose members are selected by each emirate ruler proportional to its FNC membership, and 20 members appointed by the rulers of the 7 constituent states; members serve 4-year terms)<br>
@@ -679,7 +679,7 @@ United Arab Emirates Armed Forces: Land Forces, Navy Forces, Air Force, Presiden
 6% of GDP (2016 est.) (approximately $30 billion)<br>
 
 **Military and security service personnel strengths**<br>
-approximately 65,000 total active personnel (45,000 Land Forces; 3,000 Navy; 5,000 Air Force; 12,000 Presidential Guard) (2022)<br>
+approximately 65,000 active personnel (45,000 Land Forces; 3,000 Navy; 5,000 Air Force; 12,000 Presidential Guard) (2022)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the UAE Armed Forces inventory is comprised of wide variety of mostly modern imported equipment; since 2010, the UAE has acquired military equipment from more than 20 countries with France, Russia, and the US as the leading suppliers; in recent years, the UAE has tried to boost its domestic defense industry (2022)<br>

@@ -356,7 +356,7 @@ _judge selection and term of office_: Supreme Court of Cassation and Supreme Adm
 _subordinate courts_: appeals courts; regional and district courts; administrative courts; courts martial<br>
 
 **Political parties and leaders**<br>
-Agrarian People's Union or ZNS [Roumen YONCHEV]<br>Bulgaria of the Citizens or DBG [Dimitar DELCHEV]<br>Bulgarian Agrarian People’s Union or BZNS [Nikolay NENCHEV]<br>Bulgarian Socialist Party or BSP [Korneliya NINOVA] (alliance of BSP, PKT, New Dawn, Ecoglasnost)<br>Citizens for the European Development of Bulgaria or GERB [Boyko BORISOV] (alliance with SDS) <br>Democratic Bulgaria or DB (alliance of Yes! Bulgaria, DSB, and The Greens) [Atanas ATANASOV, Hristo IVANOV]<br>Democrats for a Strong Bulgaria or DSB [Atanas ATANASOV]<br>Ecoglasnost [Emil GEORGIEV]<br>Green Movement or The Greens [Borislav SANDOV, Vladislav PENEV]<br>Middle European Class or SEC [Konstantin BACHIISKI]<br>Movement for Rights and Freedoms or DPS [Mustafa KARADAYI]<br>Movement 21 or D21 [Tatyana DONCHEVA]<br>New Dawn [Mincho MINCHEV]<br>Political Club Thrace or PKT [Stefan NACHEZ]<br>Political Movement "Social Democrats" or PDS  [Elena NONEVA]<br>Revival [Kostadin KOSTADINOV]<br>Stand Up.BG or IS.BG [Maya MONOLOVA]<br>Stand Up.BG, We Are Coming! or IBG-NI (coalition of IS.BG, D21, DBG, ENP, and ZNS) [Maya MONOLOVA, Nikolay HADZHIGENOV]<br>There is Such a People or ITN [SLAVI TRIFONOV]<br>United People's Party or ENP [Valentina VASILEVA-FILADELFEVS]<br>Union of Democratic Forces or SDS [Rumen HRISTOV] (alliance with GERB) <br>Yes! Bulgaria [Hristo IVANOV]<br>Volt Bulgaria or Volt [Nastimir ANANIEV]<br>We Continue the Change of PP (electoral alliance of PP, PDS, SEC, and Volt) [Kiril PETKOV and Asen VASILEV]<br>
+Agrarian People's Union or ZNS [Roumen YONCHEV]<br>Bulgaria of the Citizens or DBG [Dimitar DELCHEV]<br>Bulgarian Agrarian People’s Union or BZNS [Nikolay NENCHEV]<br>Bulgarian Socialist Party or BSP [Korneliya NINOVA] (alliance of BSP, PKT, New Dawn, Ecoglasnost)<br>Citizens for the European Development of Bulgaria or GERB [Boyko BORISOV] (alliance with SDS) <br>Democratic Bulgaria or DB (alliance of Yes! Bulgaria, DSB, and The Greens) [Atanas ATANASOV, Hristo IVANOV]<br>Democrats for a Strong Bulgaria or DSB [Atanas ATANASOV]<br>Ecoglasnost [Emil GEORGIEV]<br>Green Movement or The Greens [Borislav SANDOV, Vladislav PENEV]<br>Middle European Class or SEC [Konstantin BACHIISKI]<br>Movement for Rights and Freedoms or DPS [Mustafa KARADAYI]<br>Movement 21 or D21 [Tatyana DONCHEVA]<br>New Dawn [Mincho MINCHEV]<br>Political Club Thrace or PKT [Stefan NACHEZ]<br>Political Movement "Social Democrats" or PDS  [Elena NONEVA]<br>Revival [Kostadin KOSTADINOV]<br>Stand Up.BG or IS.BG [Maya MONOLOVA]<br>Stand Up.BG, We Are Coming! or IBG-NI [Maya MONOLOVA, Nikolay HADZHIGENOV] (coalition of IS.BG, D21, DBG, ENP, and ZNS)<br>There is Such a People or ITN [Slavi TRIFONOV]<br>United People's Party or ENP [Valentina VASILEVA-FILADELFEVS]<br>Union of Democratic Forces or SDS [Rumen HRISTOV] (alliance with GERB) <br>Yes! Bulgaria [Hristo IVANOV]<br>Volt Bulgaria or Volt [Nastimir ANANIEV]<br>We Continue the Change of PP [Kiril PETKOV and Asen VASILEV] (electoral alliance of PP, PDS, SEC, and Volt)<br>
 
 **International organization participation**<br>
 Australia Group, BIS, BSEC, CD, CE, CEI, CERN, EAPC, EBRD, ECB, EIB, EU, FAO, G- 9, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IFC, IFRCS, IHO (pending member), ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITU, ITUC (NGOs), MIGA, NATO, NSG, OAS (observer), OIF, OPCW, OSCE, PCA, SELEC, UN, UNCTAD, UNESCO, UNHCR, UNIDO, UNMIL, UNWTO, UPU, Wassenaar Arrangement, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO, ZC<br>
@@ -706,7 +706,7 @@ the Bulgarian Armed Forces inventory consists primarily of Soviet-era equipment,
 <strong>note:</strong> in 2021, women comprised about 17% of the Bulgarian military's full-time personnel<br>
 
 **Military - note**<br>
-Bulgaria officially became a member of NATO in 2004; Bulgaria conducts its own air policing mission, but because of Russian aggression in the Black Sea region, NATO allies have sent detachments of fighters to augment the Bulgarian Air Force since 2014 (2022)<br>
+Bulgaria became a member of NATO in 2004; Bulgaria conducts its own air policing mission, but because of Russian aggression in the Black Sea region, NATO allies have sent detachments of fighters to augment the Bulgarian Air Force since 2014 (2022)<br>
 
 ## Terrorism
 
@@ -720,7 +720,7 @@ Islamic State of Iraq and ash-Sham (ISIS); Islamic Revolutionary Guard Corps/Qod
 <p>none</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 19,014 (Syria) (mid-year 2021); 85,119 (Ukraine) (as of 2 August 2022)<br>
+_refugees (country of origin)_: 19,014 (Syria) (mid-year 2021); 86,489 (Ukraine) (as of 9 August 2022)<br>
 _stateless persons_: 1,143 (mid-year 2021)<br>
 <strong>note:</strong> 77,143 estimated refugee and migrant arrivals (January 2015-June 2022); Bulgaria is predominantly a transit country<br>
 

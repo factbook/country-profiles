@@ -654,7 +654,7 @@ Armed Forces of Sao Tome and Principe (Forcas Armadas de Sao Tome e Principe, FA
 Not available<br>
 
 **Military and security service personnel strengths**<br>
-the FASTP has approximately 400-500 personnel (2021)<br>
+the FASTP has approximately 500 personnel (2022)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the FASTP is lightly and poorly armed (2021)<br>

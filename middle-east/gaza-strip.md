@@ -501,7 +501,7 @@ HAMAS does not have a conventional military in the Gaza Strip but maintains secu
 not available<br>
 
 **Military and security service personnel strengths**<br>
-the military wing of HAMAS has an estimated 20-25,000 fighters (2021)<br>
+the military wing of HAMAS has an estimated 20-25,000 fighters (2022)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the military wing of HAMAS is armed with light weapons, including an inventory of improvised rocket, anti-tank missile, and mortar capabilities; HAMAS acquires its weapons through smuggling or local construction and receives some military support from Iran (2021)<br>

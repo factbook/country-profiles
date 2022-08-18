@@ -670,7 +670,7 @@ Sultan's Armed Forces (SAF): Royal Army of Oman (RAO), Royal Navy of Oman (RNO),
 12.3% of GDP (2017 est.) (approximately $12.7 billion)<br>
 
 **Military and security service personnel strengths**<br>
-approximately 40,000 total active troops (25,000 Army, 5,000 Navy; 5,000 Air Force; 5,000 Royal Guard) (2022)<br>
+approximately 40,000 active duty troops (25,000 Army, 5,000 Navy; 5,000 Air Force; 5,000 Royal Guard) (2022)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the SAF's inventory includes a mix of older and some more modern weapons systems from a variety of suppliers, particularly Europe and the US; since 2010, the UK and the US are the leading suppliers of arms to Oman (2022)<br>

@@ -660,7 +660,7 @@ _major seaport(s)_: Lautoka, Levuka, Suva<br>
 
 **Military and security forces**<br>
 Republic of Fiji Military Force (RFMF): Land Force Command, Maritime Command; Fiji Police Force (2022)<br>
-<strong>note: </strong>the RFMF is subordinate to the president as the commander in chief, while the Fiji Police Force reports to the the Ministry of Defense, National Security, and Policing<br>
+<strong>note: </strong>the RFMF is subordinate to the president as the commander-in-chief, while the Fiji Police Force reports to the the Ministry of Defense, National Security, and Policing<br>
 
 **Military expenditures**<br>
 1.5% of GDP (2021 est.)<br>

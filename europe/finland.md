@@ -713,6 +713,6 @@ at age 18, all Finnish men are obligated to serve 5.5-12 months of service withi
 <p>various groups in Finland advocate restoration of Karelia and other areas ceded to the former Soviet Union, but the Finnish Government asserts no territorial demands</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 9,053 (Iraq) (mid-year 2021); 30,372 (Ukraine) (as of 2 August 2022)<br>
+_refugees (country of origin)_: 9,053 (Iraq) (mid-year 2021); 30,372 (Ukraine) (as of 9 August 2022)<br>
 _stateless persons_: 3,416 (mid-year 2021)<br>
 

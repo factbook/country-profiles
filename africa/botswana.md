@@ -368,7 +368,7 @@ _judge selection and term of office_: Court of Appeal and High Court chief justi
 _subordinate courts_: Industrial Court (with circuits scheduled monthly in the capital city and in 3 districts); Magistrates Courts (1 in each district); Customary Court of Appeal; Paramount Chief's Court/Urban Customary Court; Senior Chief's Representative Court; Chief's Representative’s Court; Headman's Court<br>
 
 **Political parties and leaders**<br>
-Alliance of Progressives or AP [Ndaba GAOLATHE]<br>Botswana Congress Party or BCP [Dumelang SALESHANDO]<br>Botswana Democratic Party or BDP [Mokgweetsi MASISI]<br>Botswana Movement for Democracy or BMD [Sidney PILANE]<br>Botswana National Front or BNF [Duma BOKO]<br>Botswana Patriotic Front or BPF [Biggie BUTALE]<br>Botswana Peoples Party or BPP [Motlatsi MOLAPISI]<br>Real Alternative Party or RAP [Gaontebale MOKGOSI]<br>Umbrella for Democratic Change or UDC [Duma BOKO] (various times the collation has included the BMD, BPP, BCP and BNF) (2019)<br>
+Alliance of Progressives or AP [Ndaba GAOLATHE]<br>Botswana Congress Party or BCP [Dumelang SALESHANDO]<br>Botswana Democratic Party or BDP [Mokgweetsi MASISI]<br>Botswana Movement for Democracy or BMD [Sidney PILANE]<br>Botswana National Front or BNF [Duma BOKO]<br>Botswana Patriotic Front or BPF [Biggie BUTALE]<br>Botswana Peoples Party or BPP [Motlatsi MOLAPISI]<br>Real Alternative Party or RAP [Gaontebale MOKGOSI]<br>Umbrella for Democratic Change or UDC [Duma BOKO] (various times the coalition has included the BMD, BPP, BCP and BNF) (2019)<br>
 
 **International organization participation**<br>
 ACP, AfDB, AU, C, CD, FAO, G-77, IAEA, IBRD, ICAO, ICCt, ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, NAM, OPCW, SACU, SADC, UN, UNCTAD, UNESCO, UNIDO, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
@@ -688,7 +688,7 @@ Botswana Defense Force (BDF): Ground Forces Command, Air Arm Command, Defense Lo
 2.9% of GDP (2017) (approximately $740 million)<br>
 
 **Military and security service personnel strengths**<br>
-the Botswana Defense Force (BDF) has approximately 9,000 active personnel (2021)<br>
+approximately 9,000 active BDF personnel (2022)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the BDF has a mix of foreign-supplied and mostly older weapons and equipment, largely from Europe (2021)<br>
@@ -697,7 +697,7 @@ the BDF has a mix of foreign-supplied and mostly older weapons and equipment, la
 18 is the legal minimum age for voluntary military service (men and women); no conscription (2021)<br>
 
 **Military - note**<br>
-<p>Bechuanaland/Botswana did not have a permanent military during colonial times, with the British colonial administrators relying instead on small, lightly armed constabularies such as the Bechuanaland Mounted Police, the Bechuanaland Border Police, and by the early 1960s, the Police Mobile Unit (PMU); after independence in 1966, Botswana militarized the PMU and gave it responsibility for the country’s defense rather than create a conventional military force; however, turmoil in neighboring countries and numerous cross-border incursions by Rhodesian and South African security forces demonstrated that the PMU was inadequate for defending the country and led to the establishment of the BDF in 1977; as of 2022, the BDF’s primary missions included securing territorial integrity/border security and internal duties such as disaster relief and anti-poaching</p> <p>Botswana participates in the Southern African Development Community (SADC) Standby Force, and in 2021-2022 contributed nearly 300 troops to the SADC’s effort to help the Mozambique Government suppress an insurgency</p><br>
+Bechuanaland/Botswana did not have a permanent military during colonial times, with the British colonial administrators relying instead on small, lightly armed constabularies such as the Bechuanaland Mounted Police, the Bechuanaland Border Police, and by the early 1960s, the Police Mobile Unit (PMU); after independence in 1966, Botswana militarized the PMU and gave it responsibility for the country’s defense rather than create a conventional military force; however, turmoil in neighboring countries and numerous cross-border incursions by Rhodesian and South African security forces in the 1960s and 1970s demonstrated that the PMU was inadequate for defending the country and led to the establishment of the BDF in 1977; as of 2022, the BDF’s primary missions included securing territorial integrity/border security and internal duties such as disaster relief and anti-poaching <br><br>Botswana participates in the Southern African Development Community (SADC) Standby Force, and in 2021-2022 contributed nearly 300 troops to the SADC’s effort to help the Mozambique Government suppress an insurgency (2022)<br>
 
 ## Transnational Issues
 

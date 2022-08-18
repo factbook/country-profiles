@@ -699,7 +699,7 @@ Benin Armed Forces (Forces Armees Beninoises, FAB): Army, Navy, Air Force; Minis
 0.9% of GDP (2017 est.) (approximately $160 million)<br>
 
 **Military and security service personnel strengths**<br>
-the Benin Armed Forces (FAB) are comprised of approximately 7,000 active duty troops; est. 5,000 Republican Police (2021)<br>
+approximately 7,000 active duty BDF troops; estimated 5,000 Republican Police (2022)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the FAB is equipped with a small mix of mostly older French and Soviet-era equipment (2021)<br>
@@ -719,7 +719,7 @@ as of 2022, a key focus for the security forces of Benin was countering infiltra
 ## Terrorism
 
 **Terrorist group(s)**<br>
-al-Qa’ida (Jama’at Nusrat al Islam wal Muslimeen); Islamic State in the Greater Sahara (IS-GS); Boko Haram<br>
+al-Qa’ida (Jama’at Nusrat al Islam wal Muslimeen); Islamic State in the Greater Sahara (ISIS-GS); Boko Haram<br>
 <strong>note:</strong> details about the history, aims, leadership, organization, areas of operation, tactics, targets, weapons, size, and sources of support of the group(s) appear(s) in Appendix-T<br>
 
 ## Transnational Issues

@@ -681,7 +681,7 @@ Gambia Armed Forces: the Gambian National Army (GNA), Gambia Navy, Gambia Air Fo
 0.7% of GDP (2017 est.) (approximately $20 million)<br>
 
 **Military and security service personnel strengths**<br>
-information varies; approximately 2,000 total active troops (2021)<br>
+information varies; approximately 3,000 active troops (2022)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the GNA has a limited equipment inventory; since 2000, it has received only a few secondhand items (2021)<br>

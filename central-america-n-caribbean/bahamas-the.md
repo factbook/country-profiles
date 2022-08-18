@@ -625,7 +625,7 @@ _container port(s) (TEUs)_: Freeport (1,396,568) (2019)<br>
 
 **Military and security forces**<br>
 Royal Bahamas Defense Force (RBDF): includes land, air, maritime elements (2022)<br>
-<strong>note:</strong> the Royal Bahamas Police Force maintains internal security; the Defense Force is primarily responsible for external security but also provides security at a detention center for migrants and performs some domestic security functions, such as guarding embassies; both report to the minister of national security<br>
+<strong>note:</strong> the RBDF is primarily responsible for external security but also provides security at a detention center for migrants and performs some domestic security functions, such as guarding embassies; the Royal Bahamas Police Force (RBPF) maintains internal security; both the RBDF and the RBPF report to the minister of national security<br>
 
 **Military expenditures**<br>
 0.9% of GDP (2021 est.)<br>
@@ -635,7 +635,7 @@ Royal Bahamas Defense Force (RBDF): includes land, air, maritime elements (2022)
 0.7% of GDP (2017)<br>
 
 **Military and security service personnel strengths**<br>
-approximately 1,500 total personnel (2022)<br>
+approximately 1,500 active RBDF personnel (2022)<br>
 
 **Military equipment inventories and acquisitions**<br>
 most of the RBDF's major equipment inventory is supplied by the Netherlands (2022)<br>

@@ -355,7 +355,7 @@ _judge selection and term of office_: Supreme Court judges nominated by the pres
 _subordinate courts_: Court of Appeals; district and local courts<br>
 
 **Political parties and leaders**<br>
-Electoral Action of Lithuanian Poles or LLRA [Valdemar TOMASEVSKI]<br>Farmers and Greens Union or LVZS [Ramunas KARBAUSKIS]<br>Freedom Party or LP [Ausrine ARMONAITE]<br>Homeland Union-Lithuanian Christian Democrats or TS-LKD [Gabrielius LANDSBERGIS]<br>Labor Party or DP [Viktor USPASKICH]<br>Lithuanian Center Party or LCP [Naglis PUTEIKIS]<br>Lithuanian Green Party or LZP [Remigijus LAPINSKAS]]<br>Lithuanian Liberal Movement or LS or LRLS [Viktorija CMILYTE]<br>Lithuanian List or LL [Darius KUOLYS]<br>Lithuanian Social Democratic Party or LSDP [Gintautas PALUCKAS]<br>Lithuanian Social Democratic Labor Party or LSDDP [Gediminas KIRKILAS]<br>Freedom and Justice Party or LT [Remigijus ZEMAITAITIS]<br>
+Electoral Action of Lithuanian Poles or LLRA [Valdemar TOMASEVSKI]<br>Freedom and Justice Party or LT [Remigijus ZEMAITAITIS]<br>Freedom Party or LP [Ausrine ARMONAITE]<br>Homeland Union-Lithuanian Christian Democrats or TS-LKD [Gabrielius LANDSBERGIS]<br>Labor Party or DP [Viktor USPASKICH]<br>Lithuanian Center Party or LCP [Naglis PUTEIKIS]<br>Lithuanian Farmers and Greens Union or LVZS [Ramunas KARBAUSKIS]<br>Lithuanian Green Party or LZP [Remigijus LAPINSKAS]]<br>Lithuanian Liberal Movement or LS or LRLS [Viktorija CMILYTE]<br>Lithuanian List or LL [Darius KUOLYS]<br>Lithuanian Social Democratic Labor Party or LSDDP [Gediminas KIRKILAS]<br>Lithuanian Social Democratic Party or LSDP [Gintautas PALUCKAS]<br>
 
 **International organization participation**<br>
 Australia Group, BA, BIS, CBSS, CD, CE, EAPC, EBRD, ECB, EIB, EU, FAO, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IFC, IFRCS, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ISO, ITU, ITUC (NGOs), MIGA, NATO, NIB, NSG, OAS (observer), OECD, OIF (observer), OPCW, OSCE, PCA, Schengen Convention, UN, UNCTAD, UNESCO, UNIDO, UNWTO, UPU, Wassenaar Arrangement, WCO, WHO, WIPO, WMO, WTO<br>
@@ -714,7 +714,7 @@ Lithuania became a member of NATO in 2004<br> <p>since 2017, Lithuania has hoste
 <p><em>Lithuania-Belarus</em>: as of January 2007, ground demarcation of the boundary with Belarus was complete and mapped with final ratification documents in preparation</p> <p><em>Lithuania-Lativa</em>: boundary demarcated with Latvia was completed in 1998</p> <p><em>Lithuania-Russia</em>:<strong> </strong>Lithuania and Russia committed to demarcating their boundary in 2006 in accordance with the land and maritime treaty ratified by Russia in May 2003 and by Lithuania in 1999; Lithuania operates a simplified transit regime for Russian nationals traveling from the Kaliningrad coastal exclave into Russia, while still conforming, as a EU member state having an external border with a non-EU member, to strict Schengen border rules; in January 2018, demarcation of the Lithuania-Russia border was completed</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 60,755 (Ukraine) (as of 2 August 2022)<br>
+_refugees (country of origin)_: 61,847 (Ukraine) (as of 9 August 2022)<br>
 _stateless persons_: 2,721 (mid-year 2021)<br>
 
 **Illicit drugs**<br>

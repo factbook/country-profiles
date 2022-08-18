@@ -727,7 +727,7 @@ Egyptian Armed Forces (EAF): Army (includes Republican Guard), Navy (includes Co
 1.6% of GDP (2017) (approximately $16.7 billion)<br>
 
 **Military and security service personnel strengths**<br>
-information varies; approximately 450,000 total active personnel (325,000 Army; 18,000 Navy; 30,000 Air Force; 75,000 Air Defense Command); approximately 300,000 Central Security Forces (2022)<br>
+information varies; approximately 450,000 active duty personnel (325,000 Army; 18,000 Navy; 30,000 Air Force; 75,000 Air Defense Command); approximately 300,000 Central Security Forces personnel (2022)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the EAF's inventory is comprised of a mix of domestically produced, imported Soviet-era, and more modern, particularly Western, weapons systems; in recent years, the EAF has embarked on an extensive equipment modernization program with major purchases from a variety of suppliers; since 2010, the leading suppliers of military hardware to Egypt are France, Russia, and the US; Egypt has an established defense industry that produces a range of products from small arms to armored vehicles and naval vessels; it also has licensed and co-production agreements with several countries (2022)<br>
