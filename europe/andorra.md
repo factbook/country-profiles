@@ -301,10 +301,10 @@ _residency requirement for naturalization_: 25 years<br>
 
 **Executive branch**<br>
 _chief of state_: Co-prince Emmanuel MACRON (since 14 May 2017); represented by Patrick STROZDA (since 14 May 2017); and Co-prince Archbishop Joan-Enric VIVES i Sicilia (since 12 May 2003); represented by Josep Maria MAURI (since 20 July 2012)<br>
-_head of government_: Head of Government (or Cap de Govern) Xaviar Espot ZAMORA (since 16 May 2019)<br>
+_head of government_: Xaviar Espot ZAMORA (since 16 May 2019)<br>
 _cabinet_: Executive Council of 12 ministers designated by the head of government<br>
-_elections/appointments_: head of government indirectly elected by the General Council (Andorran parliament), formally appointed by the coprinces for a 4-year term; election last held on 7 April 2019 (next to be held in April 2023); the leader of the majority party in the General Council is usually elected head of government<br>
-_election results_: Xaviar Espot ZAMORA (DA) elected head of government; percent of General Council vote - 60.7%<br>
+_elections/appointments_: head of government indirectly elected by the General Council (Andorran parliament), formally appointed by the co-princes for a 4-year term; election last held on 7 April 2019 (next to be held in April 2023); the leader of the majority party in the General Council is usually elected head of government<br>
+_election results_: <em>2019:</em>  Xaviar Espot ZAMORA (DA) elected head of government; percent of General Council vote - 60.7%<br><br><em>2015:</em> Antoni MARTI elected head of government; percent of General Council vote - 58.3%<br>
 
 **Legislative branch**<br>
 _description_: unicameral General Council of the Valleys or Consell General de les Valls (a minimum of 28 seats; 14 members directly elected in two-seat constituencies (7 parishes) by simple majority vote and 14 directly elected in a single national constituency by proportional representation vote; members serve 4-year terms); note - voters cast two separate ballots - one for a national list and one for a parish list<br>

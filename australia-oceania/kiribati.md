@@ -81,13 +81,13 @@ typhoons can occur any time, but usually November to March; occasional tornadoes
 
 **Nationality**<br>
 _noun_: I-Kiribati (singular and plural)<br>
-_adjective_: I-Kiribati<br>
+_adjective_: Kiribati<br>
 
 **Ethnic groups**<br>
 I-Kiribati 95.78%, I-Kiribati/mixed 3.8%, Tuvaluan 0.2%, other 1.7% (2020 est.)<br>
 
 **Languages**<br>
-I-Kiribati, English (official)<br>
+Gilbertese, English (official)<br>
 
 **Religions**<br>
 Roman Catholic 58.9%, Kiribati Uniting Church 21.2%, Kiribati Protestant Church 8.4%, Church of Jesus Christ 5.6%, Seventh Day Adventist 2.1%, Baha'i 2.1%, other 1.7% (2020 est.)<br>

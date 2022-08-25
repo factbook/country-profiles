@@ -197,7 +197,7 @@ _unimproved: total_: total: 32.3% of population (2015 est.)<br>
 680,000 (2020 est.)<br>
 
 **Major infectious diseases**<br>
-<strong>note:</strong> widespread ongoing transmission of a respiratory illness caused by the novel coronavirus (COVID-19) is occurring globally; older adults and people of any age with serious chronic medical conditions are at increased risk for severe disease; some health care systems are becoming overwhelmed and there may be limited access to adequate medical care in affected areas; many countries are implementing travel restrictions and mandatory quarantines, closing borders, and prohibiting non-citizens from entry with little advance notice; US residents may have difficulty returning to the United States; as of 6 June 2022, 529,410,287 confirmed cases of COVID-19 and 6,296,771 deaths have been reported to the World Health Organization; as of 6 June 2022, 65.7% of the World population has received at least one dose of COVID-19 vaccine<br>
+<strong>note:</strong> widespread ongoing transmission of a respiratory illness caused by the novel coronavirus (COVID-19) is occurring globally; older adults and people of any age with serious chronic medical conditions are at increased risk for severe disease; some health care systems are becoming overwhelmed and there may be limited access to adequate medical care in affected areas; many countries are implementing travel restrictions and mandatory quarantines, closing borders, and prohibiting non-citizens from entry with little advance notice; US residents may have difficulty returning to the United States; as of 18 August 2022, 590,659,276 confirmed cases of COVID-19 and 6,440,163 deaths have been reported to the World Health Organization; as of 17 August 2022, 67.41% of the World population has received at least one dose of COVID-19 vaccine<br>
 
 **Literacy**<br>
 _definition_: age 15 and over can read and write<br>
@@ -228,7 +228,7 @@ _urban population_: 57% of total population (2022)<br>
 _rate of urbanization_: 1.73% annual rate of change (2020-25 est.)<br>
 
 **Major infectious diseases**<br>
-<strong>note:</strong> widespread ongoing transmission of a respiratory illness caused by the novel coronavirus (COVID-19) is occurring globally; older adults and people of any age with serious chronic medical conditions are at increased risk for severe disease; some health care systems are becoming overwhelmed and there may be limited access to adequate medical care in affected areas; many countries are implementing travel restrictions and mandatory quarantines, closing borders, and prohibiting non-citizens from entry with little advance notice; US residents may have difficulty returning to the United States; as of 6 June 2022, 529,410,287 confirmed cases of COVID-19 and 6,296,771 deaths have been reported to the World Health Organization; as of 6 June 2022, 65.7% of the World population has received at least one dose of COVID-19 vaccine<br>
+<strong>note:</strong> widespread ongoing transmission of a respiratory illness caused by the novel coronavirus (COVID-19) is occurring globally; older adults and people of any age with serious chronic medical conditions are at increased risk for severe disease; some health care systems are becoming overwhelmed and there may be limited access to adequate medical care in affected areas; many countries are implementing travel restrictions and mandatory quarantines, closing borders, and prohibiting non-citizens from entry with little advance notice; US residents may have difficulty returning to the United States; as of 18 August 2022, 590,659,276 confirmed cases of COVID-19 and 6,440,163 deaths have been reported to the World Health Organization; as of 17 August 2022, 67.41% of the World population has received at least one dose of COVID-19 vaccine<br>
 
 **Major lakes (area sq km)**<br>
 <strong>top ten largest natural lakes: </strong>Caspian Sea (Azerbaijan, Iran, Kazakhstan, Russia, Turkmenistan) 374,000 sq km; Lake Superior (Canada, United States) 82,100 sq km; Lake Victoria (Kenya, Tanzania, Uganda) 62,940 sq km; Lake Huron (Canada, United States) 59,600 sq km; Lake Michigan (United States) 57,750 sq km; Lake Tanganyika (Burundi, Democratic Republic of the Congo, Tanzania, Zambia) 32,000 sq km; Great Bear Lake (Canada) 31,328 sq km; Lake Baikal (Russia) 31,500 sq km; Lake Malawi (Malawi, Mozambique, Tanzania) 22,490 sq km; Great Slave Lake (Canada) 28,568 sq km<br><br><strong>note 1:</strong> the areas of the lakes are subject to seasonal variation; only the Caspian Sea is saline, the rest are fresh water<br><br><strong>note 2:</strong> Lakes Huron and Michigan are technically a single lake because the flow of water between the Straits of Mackinac that connects the two lakes keeps their water levels at near-equilibrium; combined, Lake Huron-Michigan is the largest freshwater lake by surface area in the world<br>
@@ -470,11 +470,11 @@ _by type_: bulk carrier 12,319, container ship 5,428, general cargo 18,993, oil 
 ## Military and Security
 
 **Military expenditures**<br>
+2.3% of GDP (2021 est.)<br>
 2.4% of GDP (2020 est.)<br>
 2.2% of GDP (2019 est.)<br>
 2.2% of GDP (2018 est.)<br>
 2.2% of GDP (2017 est.)<br>
-2.25% of GDP (2016 est.)<br>
 
 **Military and security service personnel strengths**<br>
 estimated 20 million active duty military (2021)<br>

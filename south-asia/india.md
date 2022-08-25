@@ -219,7 +219,7 @@ _food or waterborne diseases_: bacterial diarrhea, hepatitis A and E, and typhoi
 _vectorborne diseases_: dengue fever, Crimean-Congo hemorrhagic fever, Japanese encephalitis, and malaria<br>
 _water contact diseases_: leptospirosis<br>
 _animal contact diseases_: rabies<br>
-<strong>note:</strong> clusters of cases of a respiratory illness caused by the novel coronavirus (COVID-19) are being reported across 27 States and Union Territories in India; as of 30 March 2022, India has reported a total of 43,023,215 cases of COVID-19 or 3,117.61 cumulative cases of COVID-19 per 100,000 population with a total of 521,101 cumulative deaths or a rate 37.76 cumulative deaths per 100,000 population; as of 29 March 2022, 70.68% of the population has received at least one dose of COVID-19 vaccine<br>
+<strong>note:</strong> clusters of cases of a respiratory illness caused by the novel coronavirus (COVID-19) are being reported across 27 States and Union Territories in India; as of 18 August 2022, India has reported a total of 44,298,864 cases of COVID-19 or 3,210.05 cumulative cases of COVID-19 per 100,000 population with a total of 527,206 cumulative deaths or a rate 38.20 cumulative deaths per 100,000 population; as of 17 August 2022, 72.69% of the population has received at least one dose of COVID-19 vaccine<br>
 
 **Obesity - adult prevalence rate**<br>
 3.9% (2016)<br>
@@ -297,7 +297,7 @@ _food or waterborne diseases_: bacterial diarrhea, hepatitis A and E, and typhoi
 _vectorborne diseases_: dengue fever, Crimean-Congo hemorrhagic fever, Japanese encephalitis, and malaria<br>
 _water contact diseases_: leptospirosis<br>
 _animal contact diseases_: rabies<br>
-<strong>note:</strong> clusters of cases of a respiratory illness caused by the novel coronavirus (COVID-19) are being reported across 27 States and Union Territories in India; as of 30 March 2022, India has reported a total of 43,023,215 cases of COVID-19 or 3,117.61 cumulative cases of COVID-19 per 100,000 population with a total of 521,101 cumulative deaths or a rate 37.76 cumulative deaths per 100,000 population; as of 29 March 2022, 70.68% of the population has received at least one dose of COVID-19 vaccine<br>
+<strong>note:</strong> clusters of cases of a respiratory illness caused by the novel coronavirus (COVID-19) are being reported across 27 States and Union Territories in India; as of 18 August 2022, India has reported a total of 44,298,864 cases of COVID-19 or 3,210.05 cumulative cases of COVID-19 per 100,000 population with a total of 527,206 cumulative deaths or a rate 38.20 cumulative deaths per 100,000 population; as of 17 August 2022, 72.69% of the population has received at least one dose of COVID-19 vaccine<br>
 
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 168,403,240 tons (2001 est.)<br>

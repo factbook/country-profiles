@@ -283,9 +283,9 @@ see Denmark<br>
 **Executive branch**<br>
 _chief of state_: Queen MARGRETHE II of Denmark (since 14 January 1972), represented by High Commissioner Mikaela ENGELL (since April 2011)<br>
 _head of government_: Premier Mute B. EGEDE (since 23 April 2021)<br>
-_cabinet_: Self-rule Government (Naalakkersuisut) elected by the Parliament (Inatsisartut) on the basis of the strength of parties<br>
+_cabinet_: Self-rule Government (Naalakkersuisut) elected by the Parliament (Inatsisartut)<br>
 _elections/appointments_: the monarchy is hereditary; high commissioner appointed by the monarch; premier indirectly elected by Parliament for a 4-year term<br>
-_election results_: Kim KIELSEN elected premier; Parliament vote - Kim KIELSEN (S) 27.2%, Sara OLSVIG (IA) 25.5%, Randi Vestergaard EVALDSEN (D) 19.5%, other 27.8%<br>
+_election results_: <em>2021:</em> Mute B. EGEDE elected premier; Parliament vote - Mute B. EGEDE 20-0<br><br><em>2014:</em> Kim KIELSEN elected premier; Parliament vote - Kim KIELSEN (S) 27.2%, Sara OLSVIG (IA) 25.5%, Randi Vestergaard EVALDSEN (D) 19.5%, other 27.8%<br>
 
 **Legislative branch**<br>
 _description_: unicameral Parliament or Inatsisartut (31 seats; members directly elected in multi-seat constituencies by party-list proportional representation vote  - using the d'Hondt method - to serve 4-year terms)<br>Greenland elects 2 members to the Danish Parliament to serve 4-year terms<br>

@@ -210,7 +210,7 @@ _unimproved: total_: total: 1.3% of population (2020 est.)<br>
 (2020 est.) <100<br>
 
 **Major infectious diseases**<br>
-<strong>note:</strong> widespread ongoing transmission of a respiratory illness caused by the novel coronavirus (COVID-19) is occurring throughout Jordan; as of 6 June 2022, Jordan has reported a total of 1,697,271 cases of COVID-19 or 16,634.8 cumulative cases of COVID-19 per 100,000 population with a total of 14,068 cumulative deaths or a rate of 137.9 cumulative deaths per 100,000 population; as of 29 May 2022, 46.65% of the population has received at least one dose of COVID-19 vaccine<br>
+<strong>note:</strong> widespread ongoing transmission of a respiratory illness caused by the novel coronavirus (COVID-19) is occurring throughout Jordan; as of 18 August 2022, Jordan has reported a total of 1,726,717 cases of COVID-19 or 16,923.39 cumulative cases of COVID-19 per 100,000 population with a total of 14,095 cumulative deaths or a rate of 138.14 cumulative deaths per 100,000 population; as of 7 August 2022, 43.21% of the population has received at least one dose of COVID-19 vaccine<br>
 
 **Obesity - adult prevalence rate**<br>
 35.5% (2016)<br>
@@ -283,7 +283,7 @@ _forest revenues_: 0.02% of GDP (2018 est.)<br>
 _coal revenues_: 0% of GDP (2018 est.)<br>
 
 **Major infectious diseases**<br>
-<strong>note:</strong> widespread ongoing transmission of a respiratory illness caused by the novel coronavirus (COVID-19) is occurring throughout Jordan; as of 6 June 2022, Jordan has reported a total of 1,697,271 cases of COVID-19 or 16,634.8 cumulative cases of COVID-19 per 100,000 population with a total of 14,068 cumulative deaths or a rate of 137.9 cumulative deaths per 100,000 population; as of 29 May 2022, 46.65% of the population has received at least one dose of COVID-19 vaccine<br>
+<strong>note:</strong> widespread ongoing transmission of a respiratory illness caused by the novel coronavirus (COVID-19) is occurring throughout Jordan; as of 18 August 2022, Jordan has reported a total of 1,726,717 cases of COVID-19 or 16,923.39 cumulative cases of COVID-19 per 100,000 population with a total of 14,095 cumulative deaths or a rate of 138.14 cumulative deaths per 100,000 population; as of 7 August 2022, 43.21% of the population has received at least one dose of COVID-19 vaccine<br>
 
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 2,529,997 tons (2013 est.)<br>

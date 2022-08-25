@@ -218,7 +218,7 @@ _unimproved: total_: total: 0.8% of population (2020 est.)<br>
 _degree of risk_: intermediate (2020)<br>
 _food or waterborne diseases_: bacterial diarrhea and hepatitis A<br>
 _vectorborne diseases_: dengue fever<br>
-<strong>note:</strong> a new coronavirus is causing sustained community spread of respiratory illness (COVID-19) in Mexico; sustained community spread means that people have been infected with the virus, but how or where they became infected is not known, and the spread is ongoing; illness with this virus has ranged from mild to severe with fatalities reported; as of 6 June 2022, Mexico has reported a total of 5,782,405 cases of COVID-19 or 4,484.8 cumulative cases of COVID-19 per 100,000 population with a total of 324,966 cumulative deaths or a rate of 252 cumulative deaths per 100,000 population; as of 20 May 2022, 66.68% of the population has received at least one dose of COVID-19 vaccine<br>
+<strong>note:</strong> a new coronavirus is causing sustained community spread of respiratory illness (COVID-19) in Mexico; sustained community spread means that people have been infected with the virus, but how or where they became infected is not known, and the spread is ongoing; illness with this virus has ranged from mild to severe with fatalities reported; as of 18 August 2022, Mexico has reported a total of 6,939,755 cases of COVID-19 or 5,382.46 cumulative cases of COVID-19 per 100,000 population with a total of 328,798 cumulative deaths or a rate of 255.01 cumulative deaths per 100,000 population; as of 5 August 2022, 74.23% of the population has received at least one dose of COVID-19 vaccine<br>
 
 **Obesity - adult prevalence rate**<br>
 28.9% (2016)<br>
@@ -294,7 +294,7 @@ _coal revenues_: 0.03% of GDP (2018 est.)<br>
 _degree of risk_: intermediate (2020)<br>
 _food or waterborne diseases_: bacterial diarrhea and hepatitis A<br>
 _vectorborne diseases_: dengue fever<br>
-<strong>note:</strong> a new coronavirus is causing sustained community spread of respiratory illness (COVID-19) in Mexico; sustained community spread means that people have been infected with the virus, but how or where they became infected is not known, and the spread is ongoing; illness with this virus has ranged from mild to severe with fatalities reported; as of 6 June 2022, Mexico has reported a total of 5,782,405 cases of COVID-19 or 4,484.8 cumulative cases of COVID-19 per 100,000 population with a total of 324,966 cumulative deaths or a rate of 252 cumulative deaths per 100,000 population; as of 20 May 2022, 66.68% of the population has received at least one dose of COVID-19 vaccine<br>
+<strong>note:</strong> a new coronavirus is causing sustained community spread of respiratory illness (COVID-19) in Mexico; sustained community spread means that people have been infected with the virus, but how or where they became infected is not known, and the spread is ongoing; illness with this virus has ranged from mild to severe with fatalities reported; as of 18 August 2022, Mexico has reported a total of 6,939,755 cases of COVID-19 or 5,382.46 cumulative cases of COVID-19 per 100,000 population with a total of 328,798 cumulative deaths or a rate of 255.01 cumulative deaths per 100,000 population; as of 5 August 2022, 74.23% of the population has received at least one dose of COVID-19 vaccine<br>
 
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 53.1 million tons (2015 est.)<br>

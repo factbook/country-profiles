@@ -643,7 +643,7 @@ _major seaport(s)_: Assab, Massawa<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Eritrean Defense Forces: Eritrean Ground Forces, Eritrean Navy, Eritrean Air Force (includes Air Defense Force) (2022)<br>
+Eritrean Defense Forces: Eritrean Ground Forces, Eritrean Navy, Eritrean Air Force (includes Air Defense Force); Hizbawi Serawit (aka People's Army or People's Militia) (2022)<br>
 
 **Military expenditures**<br>
 10% of GDP (2019 est.) (approximately $640 million)<br>
@@ -663,7 +663,7 @@ the Eritrean Defense Forces inventory is comprised primarily of older Russian an
 <strong>note:</strong> as of 2020, women reportedly made up as much as 30% of the Eritrean military<br>
 
 **Military - note**<br>
-<p>in 2020-2021, the EDF assisted the Ethiopian Government in its war with the Tigray regional government, providing ground forces and combat aircraft; during the fighting, the EDF was accused of committing human rights abuses against civilians</p><br>
+in 2020-2021, the EDF assisted the Ethiopian Government in its war with the Tigray regional government, providing ground forces and combat aircraft; during the fighting, the EDF was accused of committing human rights abuses against civilians (2022)<br>
 
 ## Transnational Issues
 

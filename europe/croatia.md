@@ -696,7 +696,7 @@ _river port(s)_: Vukovar (Danube)<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Armed Forces of the Republic of Croatia (Oruzane Snage Republike Hrvatske, OSRH): Ground Forces (Hrvatska Kopnena Vojska, HKoV), Naval Forces (Hrvatska Ratna Mornarica, HRM; includes Coast Guard), Air Force and Air Defense Forces; Military Police Force supports each of the three Croatian military forces (2022)<br>
+Armed Forces of the Republic of Croatia (Oruzane Snage Republike Hrvatske, OSRH): Ground Forces (Hrvatska Kopnena Vojska, HKoV), Naval Forces (Hrvatska Ratna Mornarica, HRM; includes Coast Guard), Air Force and Air Defense Forces; Military Police Force (2022)<br>
 
 **Military expenditures**<br>
 2.2% of GDP (2021 est.)<br>
@@ -728,7 +728,7 @@ Croatia joined NATO in 2009<br>
 <p>dispute remains with Bosnia and Herzegovina over several small sections of the boundary related to maritime access that hinders ratification of the 1999 border agreement; since the breakup of Yugoslavia in the early 1990s, Croatia and Slovenia have each claimed sovereignty over Piranski Bay and four villages, and Slovenia has objected to Croatia's claim of an exclusive economic zone in the Adriatic Sea; in 2009, however Croatia and Slovenia signed a binding international arbitration agreement to define their disputed land and maritime borders, which led to Slovenia lifting its objections to Croatia joining the EU; Slovenia continues to impose a hard border Schengen regime with Croatia, which joined the EU in 2013 but has not yet fulfilled Schengen requirements</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 16,829 (Ukraine) (as of 9 August 2022)<br>
+_refugees (country of origin)_: 16,829 (Ukraine) (as of 16 August 2022)<br>
 _stateless persons_: 2,910 (mid-year 2021)<br>
 <strong>note: </strong>745,541 estimated refugee and migrant arrivals (January 2015-June 2022)<br>
 

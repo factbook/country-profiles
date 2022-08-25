@@ -689,7 +689,7 @@ _river port(s)_: Asuncion, Villeta, San Antonio, Encarnacion (Parana)<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Armed Forces Command (Commando de las Fuerzas Militares): Army (Ejercito), Navy (Armada, includes marines), Air Force (Fuerza Aerea)<br><br>Ministry of Internal Affairs: the National Police of Paraguay includes the Special Police Operations Force (<em>Fuerza de Operaciones Policiales Especiales)</em> (2022)<br>
+Armed Forces Command (Commando de las Fuerzas Militares): Army (Ejercito), Navy (Armada, includes marines), Air Force (Fuerza Aerea)<br><br>Ministry of Internal Affairs: the National Police of Paraguay includes the Special Police Operations Force (Fuerza de Operaciones Policiales Especiales<em>)</em> (2022)<br>
 
 **Military expenditures**<br>
 1% of GDP (2021 est.)<br>

@@ -211,7 +211,7 @@ _food or waterborne diseases_: bacterial and protozoal diarrhea, hepatitis A and
 _vectorborne diseases_: dengue fever and malaria are high risks in some locations<br>
 _water contact diseases_: leptospirosis<br>
 _animal contact diseases_: rabies<br>
-<strong>note:</strong> widespread ongoing transmission of a respiratory illness caused by the novel coronavirus (COVID-19) is occurring throughout Bangladesh; as of 6 June 2022, Bangladesh has reported a total of 1,953,700 cases of COVID-19 or 1,186.29 cumulative cases of COVID-19 per 100,000 population with a total of 29,131 cumulative deaths or a rate of 17.68 cumulative deaths per 100,000 population; as of 4 June 2022, 77.59% of the population has received at least one dose of COVID-19 vaccine<br>
+<strong>note:</strong> widespread ongoing transmission of a respiratory illness caused by the novel coronavirus (COVID-19) is occurring throughout Bangladesh; as of 18 August 2022, Bangladesh has reported a total of 2,009,434 cases of COVID-19 or 1,220.13 cumulative cases of COVID-19 per 100,000 population with a total of 29,314 cumulative deaths or a rate of 17.8 cumulative deaths per 100,000 population; as of 17 August 2022, 76.89% of the population has received at least one dose of COVID-19 vaccine<br>
 
 **Obesity - adult prevalence rate**<br>
 3.6% (2016)<br>
@@ -288,7 +288,7 @@ _food or waterborne diseases_: bacterial and protozoal diarrhea, hepatitis A and
 _vectorborne diseases_: dengue fever and malaria are high risks in some locations<br>
 _water contact diseases_: leptospirosis<br>
 _animal contact diseases_: rabies<br>
-<strong>note:</strong> widespread ongoing transmission of a respiratory illness caused by the novel coronavirus (COVID-19) is occurring throughout Bangladesh; as of 6 June 2022, Bangladesh has reported a total of 1,953,700 cases of COVID-19 or 1,186.29 cumulative cases of COVID-19 per 100,000 population with a total of 29,131 cumulative deaths or a rate of 17.68 cumulative deaths per 100,000 population; as of 4 June 2022, 77.59% of the population has received at least one dose of COVID-19 vaccine<br>
+<strong>note:</strong> widespread ongoing transmission of a respiratory illness caused by the novel coronavirus (COVID-19) is occurring throughout Bangladesh; as of 18 August 2022, Bangladesh has reported a total of 2,009,434 cases of COVID-19 or 1,220.13 cumulative cases of COVID-19 per 100,000 population with a total of 29,314 cumulative deaths or a rate of 17.8 cumulative deaths per 100,000 population; as of 17 August 2022, 76.89% of the population has received at least one dose of COVID-19 vaccine<br>
 
 **Food insecurity**<br>
 _severe localized food insecurity_: due to economic constraints -&nbsp; losses in income and remittances caused by the COVID‑19 pandemic and its containment measures led to an increase in poverty; the high prices of rice and other important food items, including edible oils (soybean oil and loose palm oil), have severely constrained the purchasing power for food for a large section of the vulnerable population above the poverty line (2022)<br>

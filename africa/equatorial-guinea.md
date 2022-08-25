@@ -333,7 +333,7 @@ _judge selection and term of office_: Supreme Court judges appointed by the pres
 _subordinate courts_: Court of Guarantees; military courts; Courts of Appeal; first instance tribunals; district and county tribunals<br>
 
 **Political parties and leaders**<br>
-Convergence Party for Social Democracy or CPDS [Andres ESONO ONDO]<br>Democratic Party for Equatorial Guinea or PDGE [Teodoro Obiang NGUEMA MBASOGO]<br>Electoral Coalition or EC<br>Juntos Podemos (coalition includes CPDS, FDR, UDC)<br>National Congress of Equatorial Guinea [Agustin MASOKO ABEGUE]<br>National Democratic Party [Benedicto OBIANG MANGUE]<br>National Union for Democracy [Thomas MBA MONABANG]<br>Popular Action of Equatorial Guinea or APGE [Carmelo MBA BACALE]<br>Popular Union or UP [Daniel MARTINEZ AYECABA]<br>Center Right  Union or UCD [Avelino MOCACHE MEHENGA]<br><strong>not officially registered parties:<br></strong>Citizens for Innovation or CI [Gabriel Nse Obiang OBONO]<br>Democratic Republican Force or FDR [Guillermo NGUEMA ELA]<br>Party for Progress of Equatorial Guinea or PPGE [Severo MOTO]<br>
+Convergence Party for Social Democracy or CPDS [Andres ESONO ONDO]<br>Democratic Party for Equatorial Guinea or PDGE [Teodoro Obiang NGUEMA MBASOGO]<br>Electoral Coalition or EC<br>Juntos Podemos (coalition includes CPDS, FDR, UDC)<br>National Congress of Equatorial Guinea [Agustin MASOKO ABEGUE]<br>National Democratic Party [Benedicto OBIANG MANGUE]<br>National Union for Democracy [Thomas MBA MONABANG]<br>Popular Action of Equatorial Guinea or APGE [Carmelo MBA BACALE]<br>Popular Union or UP [Daniel MARTINEZ AYECABA]<br>Center Right  Union or UCD [Avelino MOCACHE MEHENGA]<br><strong>not officially registered parties:<br></strong>Citizens for Innovation or CI [Gabriel Nse Obiang OBONO]<br>Democratic Republican Force or FDR [Guillermo NGUEMA ELA]<br>Party for Progress of Equatorial Guinea or PPGE [Severo MOTO NSA]<br>
 
 **International organization participation**<br>
 ACP, AfDB, AU, BDEAC, CEMAC, CPLP, FAO, Francophonie, FZ, G-77, IBRD, ICAO, ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, IMO, Interpol, IOC, IPU, ITSO, ITU, MIGA, NAM, OAS (observer), OIF, OPCW, UN, UNCTAD, UNESCO, UNIDO, , UNWTO, UPU, WHO, WIPO, WTO (observer)<br>
@@ -628,11 +628,11 @@ Equatorial Guinea Armed Forces (Fuerzas Armadas de Guinea Ecuatorial, FAGE): Equ
 <strong>note:</strong> the Gendarmerie reports to the Ministry of National Defense and is responsible for security outside cities and for special events; military personnel also fulfill some police functions in border areas, sensitive sites, and high-traffic areas<br>
 
 **Military expenditures**<br>
+1.3% of GDP (2021 est.)<br>
+1.5% of GDP (2020 est.)<br>
 1.5% of GDP (2019 est.) (approximately $270 million)<br>
 1.1% of GDP (2018 est.) (approximately $230 million)<br>
 1.1% of GDP (2017 est.) (approximately $250 million)<br>
-1.2% of GDP (2016 est.) (approximately $260 million)<br>
-1% of GDP (2015 est.) (approximately $250 million)<br>
 
 **Military and security service personnel strengths**<br>
 approximately 1,500 active duty troops; approximately 500 Gendarmerie (2022)<br>

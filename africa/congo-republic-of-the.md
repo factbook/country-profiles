@@ -381,7 +381,7 @@ _judge selection and term of office_: Supreme Court judges elected by Parliament
 _subordinate courts_: Court of Audit and Budgetary Discipline; courts of appeal; regional and district courts; employment tribunals; juvenile courts<br>
 
 **Political parties and leaders**<br>
-Action Movement for Renewal or MAR [Roland BOUITI-VIAUDO]<br>Citizen's Rally or RC [Claude Alphonse NSILOU]<br>Congolese Labour Party or PCT [Denis SASSOU-NGUESSO]<br>Congolese Movement for Democracy and Integral Development or MCDDI [Guy Price Parfait KOLELAS]<br>Movement for Unity, Solidarity, and Work or MUST [Claudine MUNARI]<br>Pan-African Union for Social Development or UPADS [Pascal Tsaty MABIALA]<br>Party for the Unity of the Republic or PUR<br>Patriotic Union for Democracy and Progress or UPDP [Auguste-Celestin GONGARD NKOUA]<br>Prospects and Realities Club or CPR<br>Rally for Democracy and Social Progress or RDPS [Bernard BATCHI]<br>Rally of the Presidential Majority or RMP<br>Republican and Liberal Party or PRL [Bonaventure MIZIDY]<br>Union for the Republic or UR<br>Union of Democratic Forces or UDF<br>Union for Democracy and Republic or UDR<br>many smaller parties<br>
+Action Movement for Renewal or MAR [Roland BOUITI-VIAUDO]<br>Citizen's Rally or RC [Claude Alphonse NSILOU]<br>Congolese Labour Party or PCT [Denis SASSOU-NGUESSO]<br>Congolese Movement for Democracy and Integral Development or MCDDI<br>Movement for Unity, Solidarity, and Work or MUST [Claudine MUNARI]<br>Pan-African Union for Social Development or UPADS [Pascal Tsaty MABIALA]<br>Party for the Unity of the Republic or PUR<br>Patriotic Union for Democracy and Progress or UPDP [Auguste-Celestin GONGARD NKOUA]<br>Prospects and Realities Club or CPR<br>Rally for Democracy and Social Progress or RDPS [Jean-Pierre Thystère TCHICAYA]<br>Rally of the Presidential Majority or RMP<br>Republican and Liberal Party or PRL [Bonaventure MIZIDY]<br>Union for the Republic or UR<br>Union of Democratic Forces or UDF<br>Union for Democracy and Republic or UDR<br>many smaller parties<br>
 
 **International organization participation**<br>
 ACP, AfDB, AU, BDEAC, CEMAC, EITI (compliant country), FAO, FZ, G-77, IAEA, IBRD, ICAO, ICCt, ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ISO (correspondent), ITSO, ITU, ITUC (NGOs), LCBC (observer), MIGA, NAM, OIF, OPCW, UN, UNCTAD, UNESCO, UNHCR, UNIDO, UNITAR, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
@@ -727,6 +727,6 @@ the FAC is armed with mostly ageing Russian and Soviet-era weapons, with a small
 <p><em>Republic of the Congo-Democratic Republic of Congo(DRC): </em>the location of the boundary in the broad Congo River is indefinite except in the Pool Malebo/Stanley Pool area<br><br><em>Republic of the Congo-Angola:</em> (Kabinda Exclave) None identified</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 29,185 (Central African Republic), 22,133 (Democratic Republic of the Congo) (refugees and asylum seekers) (2022)<br>
+_refugees (country of origin)_: 29,168 (Central African Republic), 22,138 (Democratic Republic of the Congo) (refugees and asylum seekers) (2022)<br>
 _IDPs_: 159,830 (multiple civil wars since 1992) (2022)<br>
 

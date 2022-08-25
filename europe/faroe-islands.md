@@ -283,7 +283,7 @@ _chief of state_: Queen MARGRETHE II of Denmark (since 14 January 1972), represe
 _head of government_: Prime Minister Bardur A STEIG NIELSEN (since 16 September 2019)<br>
 _cabinet_: Landsstyri appointed by the prime minister<br>
 _elections/appointments_: the monarchy is hereditary; high commissioner appointed by the monarch; following legislative elections, the leader of the majority party or majority coalition usually elected prime minister by the Faroese Parliament; election last held on 31 August 2019 (next to be held in 2023)<br>
-_election results_: Bardur A STEIGNIELSEN elected prime minister; Parliament vote - NA<br>
+_election results_: <em>2019:</em> Bardur A STEIGNIELSEN elected prime minister; Parliament vote - NA<br><br><em>2015:</em>  Aksel V. JOHANNESEN elected prime minister; Parliament vote - NA<br>
 
 **Legislative branch**<br>
 _description_: unicameral Faroese Parliament or Logting (33 seats; members directly elected in a single nationwide constituency by proportional representation vote; members serve 4-year terms)<br>the Faroe Islands elect 2 members to the Danish Parliament to serve 4-year terms<br>
@@ -295,7 +295,7 @@ _highest courts_: Faroese Court or Raett (Rett - Danish) decides both civil and 
 _subordinate courts_: Court of the First Instance or Tribunal de Premiere Instance; Court of Administrative Law or Tribunal Administratif; Mixed Commercial Court; Land Court<br>
 
 **Political parties and leaders**<br>
-Center Party (Midflokkurin) [Jenis av RANA]<br>People's Party (Folkaflokkurin) [Jorgen NICLASEN]<br>Progress Party (Framsokn) [Poul MICHELSEN]<br>Republic (Tjodveldi) [Hogni HOYDAL] (formerly the Republican Party)<br>Self-Government Party (Sjalvstyri or Sjalvstyrisflokkurin) [Jogvan SKORHEIM]<br>Social Democratic Party (Javnadarflokkurin) or JF [Aksel V. JOHANNESEN]<br>Union Party (Sambandsflokkurin) [Bardur A STEIG NIELSEN]<br>
+Center Party (Midflokkurin) [Jenis av RANA]<br>People's Party (Folkaflokkurin) [Jorgen NICLASEN]<br>Progress Party (Framsokn) [Ruth VANG]<br>Republic (Tjodveldi) [Hogni HOYDAL] (formerly the Republican Party)<br>Self-Government Party (Sjalvstyri or Sjalvstyrisflokkurin) [Jogvan SKORHEIM]<br>Social Democratic Party (Javnadarflokkurin) or JF [Aksel V. JOHANNESEN]<br>Union Party (Sambandsflokkurin) [Bardur A STEIG NIELSEN]<br>
 
 **International organization participation**<br>
 Arctic Council, IMO (associate), NC, NIB, UNESCO (associate), UPU<br>
@@ -557,7 +557,7 @@ _major seaport(s)_: Fuglafjordur, Torshavn, Vagur<br>
 ## Military and Security
 
 **Military and security forces**<br>
-no regular military forces or conscription (2021)<br>
+no regular military forces or conscription<br>
 
 **Military - note**<br>
 the Government of Denmark has responsibility for defense; as such, the Danish military&rsquo;s Joint Arctic Command in Nuuk, Greenland is responsible for territorial defense of the Faroe Islands; the Joint Arctic Command has a contact element in the capital of Torshavn<br>

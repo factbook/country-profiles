@@ -209,7 +209,7 @@ _unimproved: total_: total: 0.1% of population (2020 est.)<br>
 
 **Major infectious diseases**<br>
 _respiratory diseases_: Covid-19 (see note) (2020)<br>
-<strong>note:</strong> clusters of cases of respiratory illness caused by a new coronavirus (COVID-19) in Japan; illness with this virus has ranged from mild to severe with fatalities reported; as of 6 June 2022, Japan has reported a total of 8,945,784 cases of COVID-19 or 7,073 cumulative cases of COVID-19 per 100,000 population with a total of 30,752 cumulative deaths or a rate of 24.3 cumulative deaths per 100,000 population; as of 6 June 2022, 82.2% of the population has received at least one dose of COVID-19 vaccine<br>
+<strong>note:</strong> clusters of cases of respiratory illness caused by a new coronavirus (COVID-19) in Japan; illness with this virus has ranged from mild to severe with fatalities reported; as of 18 August 2022, Japan has reported a total of 16,161,801 cases of COVID-19 or 12,778.50 cumulative cases of COVID-19 per 100,000 population with a total of 35,955 cumulative deaths or a rate of 28.42 cumulative deaths per 100,000 population; as of 17 August 2022, 83.48% of the population has received at least one dose of COVID-19 vaccine<br>
 
 **Obesity - adult prevalence rate**<br>
 4.3% (2016)<br>
@@ -277,7 +277,7 @@ _coal revenues_: 0% of GDP (2018 est.)<br>
 
 **Major infectious diseases**<br>
 _respiratory diseases_: Covid-19 (see note) (2020)<br>
-<strong>note:</strong> clusters of cases of respiratory illness caused by a new coronavirus (COVID-19) in Japan; illness with this virus has ranged from mild to severe with fatalities reported; as of 6 June 2022, Japan has reported a total of 8,945,784 cases of COVID-19 or 7,073 cumulative cases of COVID-19 per 100,000 population with a total of 30,752 cumulative deaths or a rate of 24.3 cumulative deaths per 100,000 population; as of 6 June 2022, 82.2% of the population has received at least one dose of COVID-19 vaccine<br>
+<strong>note:</strong> clusters of cases of respiratory illness caused by a new coronavirus (COVID-19) in Japan; illness with this virus has ranged from mild to severe with fatalities reported; as of 18 August 2022, Japan has reported a total of 16,161,801 cases of COVID-19 or 12,778.50 cumulative cases of COVID-19 per 100,000 population with a total of 35,955 cumulative deaths or a rate of 28.42 cumulative deaths per 100,000 population; as of 17 August 2022, 83.48% of the population has received at least one dose of COVID-19 vaccine<br>
 
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 43.981 million tons (2015 est.)<br>

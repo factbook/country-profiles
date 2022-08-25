@@ -362,7 +362,7 @@ _judge selection and term of office_: Supreme Court and Constitutional Court jud
 _subordinate courts_: courts of appeal; courts of first instance; justices of the peace; special courts for juvenile, labor, and land cases; Contentious Administrative Court for cases filed against the government<br>
 
 **Political parties and leaders**<br>
-Alliance for Democracy or APD<br>Broad Front (Frente Amplio) [Fidel SANTANA]<br>Country Alliance or AP [Guillermo Antonio MORENO Garcia]<br>Dominican Liberation Party or PLD [Danilo MEDINA Sánchez]<br>Dominican Revolutionary Party or PRD [Miguel VARGAS Maldonado]<br>Dominicans For Change or DXC [Manuel OVIEDO Estrada]<br>Institutional Social Democratic Bloc or BIS<br>Liberal Reformist Party or PRL (formerly the Liberal Party of the Dominican Republic or PLRD)<br>Modern Revolutionary Party or PRM [Jose Ignacio PALIZA]<br>National Progressive Front or FNP [Vinicio CASTILLO, Pelegrin CASTILLO]<br>People's Force or FP [Leonel FERNANDEZ Reyna]<br>Social Christian Reformist Party or PRSC [Federico ANTUN]<br>
+Alliance for Democracy or APD<br>Broad Front (Frente Amplio) [Fidel SANTANA]<br>Country Alliance or AP [Guillermo Antonio MORENO Garcia]<br>Dominican Liberation Party or PLD [Danilo MEDINA Sánchez]<br>Dominican Revolutionary Party or PRD [Miguel VARGAS Maldonado]<br>Dominicans For Change or DXC [Manuel OVIEDO Estrada]<br>Institutional Social Democratic Bloc or BIS<br>Liberal Reformist Party or PRL (formerly the Liberal Party of the Dominican Republic or PLRD)<br>Modern Revolutionary Party or PRM [Luis ABINADER]<br>National Progressive Front or FNP [Vinicio CASTILLO, Pelegrin CASTILLO]<br>People's Force or FP [Leonel FERNANDEZ Reyna]<br>Social Christian Reformist Party or PRSC [Federico Augusto "Quique" ANTUN Batile]<br>
 
 **International organization participation**<br>
 ACP, AOSIS, BCIE, Caricom (observer), CD, CELAC, FAO, G-77, IADB, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ISO (correspondent), ITSO, ITU, ITUC (NGOs), LAES, LAIA, MIGA, MINUSMA, NAM, OAS, OIF (observer), OPANAL, OPCW, Pacific Alliance (observer), PCA, Petrocaribe, SICA (associated member), UN, UNCTAD, UNESCO, UNIDO, Union Latina, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
@@ -704,7 +704,7 @@ information varies; approximately 60,000 active personnel (30,000 Army; 13,000 N
 the military is lightly armed with an inventory consisting mostly of older US equipment with limited quantities of material from other countries (2022)<br>
 
 **Military service age and obligation**<br>
-17-21 years of age for voluntary military service (men and women); recruits must have completed primary school and be Dominican Republic citizens; women may volunteer (2022)<br>
+17-21 years of age for voluntary military service (men and women); recruits must have completed primary school and be Dominican Republic citizens (2022)<br>
 <strong>note:</strong> as of 2021, women made up approximately 20% of the active duty military<br>
 
 **Military - note**<br>

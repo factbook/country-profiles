@@ -197,7 +197,7 @@ _unimproved: total_: total: 0% of population (2020 est.)<br>
 (2020 est.) <100<br>
 
 **Major infectious diseases**<br>
-<strong>note:</strong> widespread ongoing transmission of a respiratory illness caused by the novel coronavirus (COVID-19) is occurring throughout Lebanon; as of 6 June 2022, Lebanon has reported a total of 1,099,821 cases of COVID-19 or 16,113.5 cumulative cases of COVID-19 per 100,000 population with a total of 10,437 cumulative deaths or a rate of 152.9 cumulative deaths per 100,000 population; as of 30 May 2022, 39.69% of the population has received at least one dose of COVID-19 vaccine<br>
+<strong>note:</strong> widespread ongoing transmission of a respiratory illness caused by the novel coronavirus (COVID-19) is occurring throughout Lebanon; as of 18 August 2022, Lebanon has reported a total of 1,200,111 cases of COVID-19 or 17,582.89 cumulative cases of COVID-19 per 100,000 population with a total of 10,589 cumulative deaths or a rate of 155.14 cumulative deaths per 100,000 population; as of 7 August 2022, 48.5% of the population has received at least one dose of COVID-19 vaccine<br>
 
 **Obesity - adult prevalence rate**<br>
 32% (2016)<br>
@@ -269,7 +269,7 @@ _forest revenues_: 0% of GDP (2018 est.)<br>
 _coal revenues_: 0% of GDP (2018 est.)<br>
 
 **Major infectious diseases**<br>
-<strong>note:</strong> widespread ongoing transmission of a respiratory illness caused by the novel coronavirus (COVID-19) is occurring throughout Lebanon; as of 6 June 2022, Lebanon has reported a total of 1,099,821 cases of COVID-19 or 16,113.5 cumulative cases of COVID-19 per 100,000 population with a total of 10,437 cumulative deaths or a rate of 152.9 cumulative deaths per 100,000 population; as of 30 May 2022, 39.69% of the population has received at least one dose of COVID-19 vaccine<br>
+<strong>note:</strong> widespread ongoing transmission of a respiratory illness caused by the novel coronavirus (COVID-19) is occurring throughout Lebanon; as of 18 August 2022, Lebanon has reported a total of 1,200,111 cases of COVID-19 or 17,582.89 cumulative cases of COVID-19 per 100,000 population with a total of 10,589 cumulative deaths or a rate of 155.14 cumulative deaths per 100,000 population; as of 7 August 2022, 48.5% of the population has received at least one dose of COVID-19 vaccine<br>
 
 **Food insecurity**<br>
 _widespread lack of access_: <em>due to the ongoing financial and economic crisis -</em> the World Food Program (WFP) estimates that, as a result of the ongoing economic crisis, over 1.3 million Lebanese citizens, about 36% of the total population, were food insecure by the end of September 2021; the number of Lebanese households with serious food access constraints reached 57% in September 2021, up from 40% in September 2020; domestic cereal production covers, on average, less than 20% of the consumption needs and the country depends heavily on imports (2022)<br>
@@ -679,11 +679,11 @@ Lebanese Armed Forces (LAF): Army Command (includes Presidential Guard Brigade, 
 <strong>note:</strong> the commander of the LAF is also the commander of the Army; the LAF patrols external borders, while official border checkpoints are under the authority of Directorate for General Security<br>
 
 **Military expenditures**<br>
+3.2% of GDP (2021 est.)<br>
+3% of GDP (2020 est.)<br>
 4.7% of GDP (2019 est.) (approximately $3.6 billion)<br>
 5.1% of GDP (2018 est.) (approximately $4.1 billion)<br>
 4.6% of GDP (2017 est.) (approximately $3.95 billion)<br>
-5.1% of GDP (2016 est.) (approximately $4.15 billion)<br>
-4.5% of GDP (2015 est.) (approximately $3.7 billion)<br>
 
 **Military and security service personnel strengths**<br>
 approximately 80,000 active troops (77,000 Army; 1,500 Navy; 1,500 Air Force) (2022)<br>
@@ -696,7 +696,7 @@ the LAF inventory includes a wide mix of mostly older equipment from a diverse a
 <strong>note:</strong> as of 2020, women comprised about 5% of the active duty military<br>
 
 **Military - note**<br>
-as of 2022, the Lebanese military faced multiple challenges, including securing parts of the border with war-torn Syria from infiltrations of militants linked to the Islamic State and al-Qa’ida terrorist groups and maintaining stability along its volatile border with Israel, where the Iranian-backed and Lebanon-based terrorist group Hizballah conducted a war with Israel in 2006 and tensions remained high, including occasional armed skirmishes; the military also faced a financial crisis as government debt and national economic difficulties undercut its ability to fully pay and supply personnel, which has sparked domestic and international fears that the armed forces may disintegrate <br><br>the United Nations Interim Force In Lebanon (UNIFIL) has operated in the country since 1978, originally under UNSCRs 425 and 426 to confirm Israeli withdrawal from Lebanon, restore international peace and security, and assist the Lebanese Government in restoring its effective authority in the area; following the July-August 2006 war, the UN Security Council adopted resolution 1701 enhancing UNIFIL and deciding that in addition to the original mandate, it would, among other things, monitor the cessation of hostilities; accompany and support the Lebanese Armed Forces (LAF) as they deploy throughout the south of Lebanon; and extend its assistance to help ensure humanitarian access to civilian populations and the voluntary and safe return of displaced persons; UNIFIL had about 10,000 personnel deployed in the country as of 2022 (2022)<br>
+as of 2022, the Lebanese military faced multiple challenges, including securing parts of the border with war-torn Syria from infiltrations of militants linked to the Islamic State and al-Qa’ida terrorist groups and maintaining stability along its volatile border with Israel, where the Iranian-backed and Lebanon-based terrorist group Hizballah conducted a war with Israel in 2006 and tensions remained high, including occasional armed skirmishes; the military also faced a financial crisis as government debt and national economic difficulties undercut its ability to fully pay and supply personnel, which has sparked domestic and international fears that the armed forces may disintegrate <br><br>the United Nations Interim Force In Lebanon (UNIFIL) has operated in the country since 1978, originally under UNSCRs 425 and 426 to confirm Israeli withdrawal from Lebanon, restore international peace and security, and assist the Lebanese Government in restoring its effective authority in the area; following the July-August 2006 war, the UN Security Council adopted resolution 1701 enhancing UNIFIL and deciding that in addition to the original mandate, it would, among other things, monitor the cessation of hostilities; accompany and support the Lebanese Armed Forces (LAF) as they deploy throughout the south of Lebanon; and extend its assistance to help ensure humanitarian access to civilian populations and the voluntary and safe return of displaced persons; UNIFIL had approximately 9,500 personnel deployed in the country as of mid-2022 (2022)<br>
 
 ## Terrorism
 

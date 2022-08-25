@@ -704,7 +704,7 @@ _major seaport(s)_: Dakar<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Senegalese Armed Forces (Forces Armées Sénégalaises, FAS): Army, Senegalese National Navy (Marine Senegalaise, MNS), Senegalese Air Force (Armee de l'Air du Senegal), National Gendarmerie (includes Territorial and Mobile components); Ministry of Interior: National Police (2022)<br>
+Senegalese Armed Forces (les Forces Armées Sénégalaises, FAS): Army, Senegalese National Navy (Marine Senegalaise, MNS), Senegalese Air Force (l'Armee de l'Air du Senegal), National Gendarmerie (includes Territorial and Mobile components); Ministry of Interior: National Police (2022)<br>
 <strong>note:</strong> the National Police operates in major cities, while the Gendarmerie primarily operates outside urban areas<br>
 
 **Military expenditures**<br>

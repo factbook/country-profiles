@@ -333,7 +333,7 @@ _residency requirement for naturalization_: 5 years<br>
 
 **Executive branch**<br>
 _chief of state_: King PHILIPPE (since 21 July 2013); Heir Apparent Princess ELISABETH (daughter of the monarch, born 25 October 2001)<br>
-_head of government_: Prime Minister Alexander DE CROO (since 1 October 2020); Deputy Prime Ministers Vincent Van Quickenborne (since 1 October 2020), Sophie Wilmes (since 1 October 2020), Vincent Van Peteghem (since 1 October 2020), Frank Vandenbroucke (since 1 October 2020), Pierre-Yves Dermagne (since 1 October 2020), Petra De Sutter (since 1 October 2020), Georges Gilkinet (since 1 October 2020)<br>
+_head of government_: Prime Minister Alexander DE CROO (since 1 October 2020); Deputy Prime Ministers Vincent Van QUICKENBORNE (since 1 October 2020), Sophie WILMES (since 1 October 2020), Vincent VAN PETEGHEM (since 1 October 2020), Frank VANDENBROUCKE (since 1 October 2020), Pierre-Yves DERMAGNE (since 1 October 2020), Petra DE SUTTER (since 1 October 2020), Georges GILKINET (since 1 October 2020)<br>
 _cabinet_: Council of Ministers formally appointed by the monarch<br>
 _elections/appointments_: the monarchy is hereditary and constitutional; following legislative elections, the leader of the majority party or majority coalition usually appointed prime minister by the monarch and approved by Parliament<br>
 
@@ -716,7 +716,7 @@ Islamic Revolutionary Guard Corps/Qods Force; Islamic State of Iraq and ash-Sham
 <p>none identified</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 18,493 (Syria), 5,094 (Iraq) (2020); 52,557 (Ukraine) (as of 9 August 2022)<br>
+_refugees (country of origin)_: 18,493 (Syria), 5,094 (Iraq) (2020); 52,870 (Ukraine) (as of 16 August 2022)<br>
 _stateless persons_: 1,159 (mid-year 2021)<br>
 
 **Illicit drugs**<br>

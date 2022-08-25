@@ -247,10 +247,10 @@ see United Kingdom<br>
 
 **Executive branch**<br>
 _chief of state_: Queen ELIZABETH II (since 6 February 1952); represented by Lieutenant-Governor Vice Admiral Ian CORDER (since 14 March 2016)<br>
-_head of government_: Chief Minister Peter FERBRACHE (since 16 October 2020); Bailiff Richard MCMAHON (since 11 May 2020); note - the chief minister is the president of the Policy and Resources Committee and is the de facto head of government; the Policy and Resources Committee, elected by the States of Deliberation, functions as the executive; the 5 members all have equal voting rights<br>
+_head of government_: Chief Minister Peter FERBRACHE (since 16 October 2020); Bailiff Richard McMAHON (since 11 May 2020); note - the chief minister is the president of the Policy and Resources Committee and is the de facto head of government; the Policy and Resources Committee, elected by the States of Deliberation, functions as the executive; the 5 members all have equal voting rights<br>
 _cabinet_: none<br>
 _elections/appointments_: the monarchy is hereditary; lieutenant governor and bailiff appointed by the monarch; chief minister, who is the president of the Policy and Resources Committee indirectly elected by the States of Deliberation for a 4-year term; last held on 6 May 2016 (next to be held in June 2020)<br>
-_election results_: Gavin ST PIER (independent) elected president of the Policy and Resources Committee and chief minister<br>
+_election results_: <em>2020: </em>Peter FERBRACHE (independent) elected president of the Policy and Resources Committee and chief minister: percent of States of Guernsey vote - 57.5%<em><br><br>2016:</em> Gavin ST. PIER (independent) elected president of the Policy and Resources Committee and chief minister<br>
 
 **Legislative branch**<br>
 _description_: unicameral States of Deliberation (40 seats; 38 People's Deputies and 2 representatives of the States of Alderney; members directly elected by majority vote to serve 4-year terms); note - non-voting members include the bailiff (presiding officer), attorney-general, and solicitor-general<br>

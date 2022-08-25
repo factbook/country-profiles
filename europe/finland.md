@@ -338,9 +338,9 @@ _residency requirement for naturalization_: 6 years<br>
 **Executive branch**<br>
 _chief of state_: President Sauli NIINISTO (since 1 March 2012)<br>
 _head of government_: Prime Minister Sanna MARIN (since 10 December 2019)<br>
-_cabinet_: Council of State or Valtioneuvosto appointed by the president, responsible to Parliament&nbsp;<br>
+_cabinet_: Council of State or Valtioneuvosto appointed by the president, responsible to Parliament<br>
 _elections/appointments_: president directly elected by absolute majority popular vote in 2 rounds if needed for a 6-year term (eligible for a second term); election last held on 28 January 2018 (next to be held in January 2024); prime minister appointed by Parliament<br>
-_election results_: Sauli NIINISTO reelected president; percent of vote Sauli NIINISTO (independent) 62.7%, Pekka HAAVISTO (Vihr) 12.4%, Laura HUHTASAARI (PS) 6.9%, Paavo VAYRYNEN (independent) 6.2%, Matti VANHANEN (Kesk) 4.1%, other 7.7%<br>
+_election results_: <em>2018:</em> Sauli NIINISTO reelected president; percent of vote - Sauli NIINISTO (independent) 62.7%, Pekka HAAVISTO (Vihr) 12.4%, Laura HUHTASAARI (PS) 6.9%, Paavo VAYRYNEN (independent) 6.2%, Matti VANHANEN (Kesk) 4.1%, other 7.7%<br><br><em>2012: </em>Sauli NIINISTO elected president; percent of vote - Sauli NIINISTO (National Coalition Party) 62.6%, Pekka HAAVISTO (Vihr) 37.4%<br>
 
 **Legislative branch**<br>
 _description_: unicameral Parliament or Eduskunta (200 seats; 199 members directly elected in single- and multi-seat constituencies by proportional representation vote and 1 member in the province of Aland directly elected by simple majority vote; members serve 4-year terms)<br>
@@ -692,7 +692,7 @@ Finnish Defense Forces (FDF): Army (Maavoimat), Navy (Merivoimat), Air Force (Il
 1.3% of GDP (2017) (approximately $3.8 billion)<br>
 
 **Military and security service personnel strengths**<br>
-approximately 22,000 total active duty personnel (15,000 Army; 4,000 Navy; 3,000 Air Force) (2022)<br>
+approximately 22,000 active duty personnel (15,000 Army; 4,000 Navy; 3,000 Air Force) (2022)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the inventory of the Finnish Defense Forces consists of a wide mix of mostly modern US, European, and domestically-produced weapons systems; since 2010, the US is the leading supplier; the Finnish defense industry produces a variety of military equipment, including wheeled armored vehicles and naval vessels (2021)<br>
@@ -705,7 +705,7 @@ at age 18, all Finnish men are obligated to serve 5.5-12 months of service withi
 160 Lebanon (UNIFIL) (May 2022)<br>
 
 **Military - note**<br>
-<p>as of early 2022, Finland was not a member of NATO, but Finland and NATO actively cooperated in peace-support operations, exercised together, and exchanged analysis and information; Finland joined NATO’s Partnership for Peace program in 1994; Finnish Armed Forces participated in NATO-led military operations and missions in the Balkans, Afghanistan, and Iraq</p> <p>Finland is a signatory of the EU’s Common Security and Defense Policy (CSDP) and actively participates in CSDP crisis management missions and operations</p> <p>the Finnish Armed Forces closely cooperate with the militaries of other Nordic countries through the Nordic Defense Cooperation (NORDEFCO), which consists of Denmark, Finland, Iceland, Norway, and Sweden; areas of cooperation include armaments, education, human resources, training and exercises, and operations; NORDEFCO was established in 2009</p><br>
+Finland is not a member of NATO, but Finland and NATO have actively cooperated in peace-support operations, exercised together, and exchanged analysis and information; Finland joined NATO’s Partnership for Peace program in 1994; Finnish Armed Forces participated in NATO-led military operations and missions in the Balkans, Afghanistan, and Iraq; Finland applied for NATO membership in May 2022<br><br>Finland is a signatory of the EU’s Common Security and Defense Policy (CSDP) and actively participates in CSDP crisis management missions and operations<br><br>the Finnish Armed Forces closely cooperate with the militaries of other Nordic countries through the Nordic Defense Cooperation (NORDEFCO), which consists of Denmark, Finland, Iceland, Norway, and Sweden; areas of cooperation include armaments, education, human resources, training and exercises, and operations; NORDEFCO was established in 2009 (2022)<br>
 
 ## Transnational Issues
 
@@ -713,6 +713,6 @@ at age 18, all Finnish men are obligated to serve 5.5-12 months of service withi
 <p>various groups in Finland advocate restoration of Karelia and other areas ceded to the former Soviet Union, but the Finnish Government asserts no territorial demands</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 9,053 (Iraq) (mid-year 2021); 30,372 (Ukraine) (as of 9 August 2022)<br>
+_refugees (country of origin)_: 9,053 (Iraq) (mid-year 2021); 35,240 (Ukraine) (as of 16 August 2022)<br>
 _stateless persons_: 3,416 (mid-year 2021)<br>
 

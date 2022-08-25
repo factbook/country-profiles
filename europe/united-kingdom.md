@@ -205,7 +205,7 @@ NA<br>
 
 **Major infectious diseases**<br>
 _respiratory diseases_: Covid-19 (see note) (2020)<br>
-<strong>note:</strong> widespread ongoing transmission of a respiratory illness caused by the novel coronavirus (COVID-19) is occurring throughout the UK; as of 6 June 2022, the UK has reported a total of 22,305,897 cases of COVID-19 or 32,857.8 cumulative cases of COVID-19 per 100,000 population with a total of 178,749 cumulative deaths or a rate of 263.3 cumulative deaths per 100,000 population; as of 31 May 2022, 78.42% of the population has received at least one dose of COVID-19 vaccine; the US Department of Homeland Security has issued instructions requiring US passengers who have been in the UK to travel through select airports where the US Government has implemented enhanced screening procedures<br>
+<strong>note:</strong> widespread ongoing transmission of a respiratory illness caused by the novel coronavirus (COVID-19) is occurring throughout the UK; as of 18 August 2022, the UK has reported a total of 23,461,239 cases of COVID-19 or 34,559.75 cumulative cases of COVID-19 per 100,000 population with a total of 187,018 cumulative deaths or a rate of 275.48 cumulative deaths per 100,000 population; as of 10 August 2022, 79.89% of the population has received at least one dose of COVID-19 vaccine; the US Department of Homeland Security has issued instructions requiring US passengers who have been in the UK to travel through select airports where the US Government has implemented enhanced screening procedures<br>
 
 **Obesity - adult prevalence rate**<br>
 27.8% (2016)<br>
@@ -276,7 +276,7 @@ _coal revenues_: 0% of GDP (2018 est.)<br>
 
 **Major infectious diseases**<br>
 _respiratory diseases_: Covid-19 (see note) (2020)<br>
-<strong>note:</strong> widespread ongoing transmission of a respiratory illness caused by the novel coronavirus (COVID-19) is occurring throughout the UK; as of 6 June 2022, the UK has reported a total of 22,305,897 cases of COVID-19 or 32,857.8 cumulative cases of COVID-19 per 100,000 population with a total of 178,749 cumulative deaths or a rate of 263.3 cumulative deaths per 100,000 population; as of 31 May 2022, 78.42% of the population has received at least one dose of COVID-19 vaccine; the US Department of Homeland Security has issued instructions requiring US passengers who have been in the UK to travel through select airports where the US Government has implemented enhanced screening procedures<br>
+<strong>note:</strong> widespread ongoing transmission of a respiratory illness caused by the novel coronavirus (COVID-19) is occurring throughout the UK; as of 18 August 2022, the UK has reported a total of 23,461,239 cases of COVID-19 or 34,559.75 cumulative cases of COVID-19 per 100,000 population with a total of 187,018 cumulative deaths or a rate of 275.48 cumulative deaths per 100,000 population; as of 10 August 2022, 79.89% of the population has received at least one dose of COVID-19 vaccine; the US Department of Homeland Security has issued instructions requiring US passengers who have been in the UK to travel through select airports where the US Government has implemented enhanced screening procedures<br>
 
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 31.567 million tons (2014 est.)<br>

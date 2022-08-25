@@ -342,7 +342,7 @@ _judge selection and term of office_: chief justice appointed by the president o
 _subordinate courts_: Magistrates' Court (organized into civil, criminal, juvenile, and small claims divisions)<br>
 
 **Political parties and leaders**<br>
-FijiFirst [Veroqe "Frank" BAINIMARAMA]<br>Fiji Labor Party or FLP [Mahendra CHAUDHRY]<br>Fiji United Freedon Party or FUFP [Jagath KARUNARATNE]<br>National Federation Party or NFP [Biman PRASAD] (primarily Indian)<br>Peoples Democratic Party or PDP [Lynda TABUYA]<br>Social Democratic Liberal Party or SODELPA<br>Unity Fiji [Adi QORO]<br>
+FijiFirst [Veroqe "Frank" BAINIMARAMA]<br>Fiji Labor Party or FLP [Mahendra CHAUDHRY]<br>Freedom Alliance [Jagath KARUNARATNE] (formerly Fiji United Freedom Party or FUFP)<br>National Federation Party or NFP [Biman PRASAD] (primarily Indian)<br>Peoples Democratic Party or PDP [Lynda TABUYA]<br>Social Democratic Liberal Party or SODELPA [Viliame Rogoibulu GAVOKA]<br>Unity Fiji [Savenaca NARUBE]<br>
 
 **International organization participation**<br>
 ACP, ADB, AOSIS, C, CP, FAO, G-77, IAEA, IBRD, ICAO, ICCt, ICRM, IDA, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, Interpol, IOC, IOM, ISO, ITSO, ITU, ITUC (NGOs), MIGA, OPCW, PCA, PIF, Sparteca (suspended), SPC, UN, UNCTAD, UNDOF, UNESCO, UNIDO, UNISFA, UNMISS, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>

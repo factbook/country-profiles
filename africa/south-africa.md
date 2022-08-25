@@ -213,7 +213,7 @@ _unimproved: total_: total: 6.8% of population (2020 est.)<br>
 _degree of risk_: intermediate (2020)<br>
 _food or waterborne diseases_: bacterial diarrhea, hepatitis A, and typhoid fever<br>
 _water contact diseases_: schistosomiasis<br>
-<strong>note:</strong> widespread ongoing transmission of a respiratory illness caused by the novel coronavirus (COVID-19) is occurring throughout South Africa; as of 6 June 2022, South Africa has reported a total of 3,968,205 cases of COVID-19 or 6,690.7 cumulative cases of COVID-19 per 100,000 population with a total of 101,317 cumulative deaths or a rate of 170.83 cumulative deaths per 100,000 population; as of 6 June 2022, 36.33% of the population has received at least one dose of COVID-19 vaccine<br>
+<strong>note:</strong> widespread ongoing transmission of a respiratory illness caused by the novel coronavirus (COVID-19) is occurring throughout South Africa; as of 18 August 2022, South Africa has reported a total of 4,008,988 cases of COVID-19 or 6,759.52 cumulative cases of COVID-19 per 100,000 population with a total of 101,982 cumulative deaths or a rate of 171.95 cumulative deaths per 100,000 population; as of 17 August 2022, 37.4% of the population has received at least one dose of COVID-19 vaccine<br>
 
 **Obesity - adult prevalence rate**<br>
 28.3% (2016)<br>
@@ -286,7 +286,7 @@ _coal revenues_: 2.4% of GDP (2018 est.)<br>
 _degree of risk_: intermediate (2020)<br>
 _food or waterborne diseases_: bacterial diarrhea, hepatitis A, and typhoid fever<br>
 _water contact diseases_: schistosomiasis<br>
-<strong>note:</strong> widespread ongoing transmission of a respiratory illness caused by the novel coronavirus (COVID-19) is occurring throughout South Africa; as of 6 June 2022, South Africa has reported a total of 3,968,205 cases of COVID-19 or 6,690.7 cumulative cases of COVID-19 per 100,000 population with a total of 101,317 cumulative deaths or a rate of 170.83 cumulative deaths per 100,000 population; as of 6 June 2022, 36.33% of the population has received at least one dose of COVID-19 vaccine<br>
+<strong>note:</strong> widespread ongoing transmission of a respiratory illness caused by the novel coronavirus (COVID-19) is occurring throughout South Africa; as of 18 August 2022, South Africa has reported a total of 4,008,988 cases of COVID-19 or 6,759.52 cumulative cases of COVID-19 per 100,000 population with a total of 101,982 cumulative deaths or a rate of 171.95 cumulative deaths per 100,000 population; as of 17 August 2022, 37.4% of the population has received at least one dose of COVID-19 vaccine<br>
 
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 18,457,232 tons (2011 est.)<br>
@@ -388,7 +388,7 @@ _email address and website_: <br>https://www.saembassy.org/<br>
 _consulate(s) general_: Chicago, Los Angeles, New York<br>
 
 **Diplomatic representation from the US**<br>
-_chief of mission_: Ambassador (vacant); Charge d'Affaires Heather MERRITT (since April 2022)<br>
+_chief of mission_: Ambassador Reuben E. BRIGETY II (since 11 August 2022)<br>
 _embassy_: 877 Pretorius Street, Arcadia, Pretoria<br>
 _mailing address_: 9300 Pretoria Place, Washington DC&nbsp; 20521-9300<br>
 _telephone_: [27] (12) 431-4000<br>

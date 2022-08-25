@@ -204,7 +204,7 @@ NA<br>
 
 **Major infectious diseases**<br>
 _respiratory diseases_: Covid-19 (see note) (2020)<br>
-<strong>note:</strong> a novel coronavirus is causing an outbreak of respiratory illness (COVID-19) in South Korea; as of 30 March 2022, South Korea has reported a total of 18,168,708 cases of COVID-19 or 35,437.8 cumulative cases of COVID-19 per 100,000 population with a total of 24,279 cumulative deaths or a rate of 47.4 cumulative deaths per 100,000 population; as of 6 June 2022, 87.8% of the population has received at least one dose of COVID-19 vaccine<br>
+<strong>note:</strong> a novel coronavirus is causing an outbreak of respiratory illness (COVID-19) in South Korea; as of 18 August 2022, South Korea has reported a total of 21,861,296 cases of COVID-19 or 42,640.22 cumulative cases of COVID-19 per 100,000 population with a total of 25,813 cumulative deaths or a rate of 50.34 cumulative deaths per 100,000 population; as of 17 August 2022, 87.01% of the population has received at least one dose of COVID-19 vaccine<br>
 
 **Obesity - adult prevalence rate**<br>
 4.7% (2016)<br>
@@ -272,7 +272,7 @@ _coal revenues_: 0% of GDP (2018 est.)<br>
 
 **Major infectious diseases**<br>
 _respiratory diseases_: Covid-19 (see note) (2020)<br>
-<strong>note:</strong> a novel coronavirus is causing an outbreak of respiratory illness (COVID-19) in South Korea; as of 30 March 2022, South Korea has reported a total of 18,168,708 cases of COVID-19 or 35,437.8 cumulative cases of COVID-19 per 100,000 population with a total of 24,279 cumulative deaths or a rate of 47.4 cumulative deaths per 100,000 population; as of 6 June 2022, 87.8% of the population has received at least one dose of COVID-19 vaccine<br>
+<strong>note:</strong> a novel coronavirus is causing an outbreak of respiratory illness (COVID-19) in South Korea; as of 18 August 2022, South Korea has reported a total of 21,861,296 cases of COVID-19 or 42,640.22 cumulative cases of COVID-19 per 100,000 population with a total of 25,813 cumulative deaths or a rate of 50.34 cumulative deaths per 100,000 population; as of 17 August 2022, 87.01% of the population has received at least one dose of COVID-19 vaccine<br>
 
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 18,218,975 tons (2014 est.)<br>

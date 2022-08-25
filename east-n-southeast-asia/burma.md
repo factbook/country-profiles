@@ -370,7 +370,7 @@ _head of government_: Prime Minister, State Administration Council (SAC) Chair, 
 _cabinet_: Cabinet appointments shared by the president and the commander-in-chief; note - after 1 February, the military junta replaced the cabinet<br>
 _elections/appointments_: prior to the military takeover, president was indirectly elected by simple majority vote by the full Assembly of the Union from among 3 vice-presidential candidates nominated by the Presidential Electoral College (consists of members of the lower and upper houses and military members); the other 2 candidates become vice presidents (president elected for a 5-year term); election last held on 28 March 2018; the military junta pledged to hold new elections in 2023<br>
 _election results_: <em>2018</em>: WIN MYINT elected president in an indirect by-election held on 28 March 2018 after the resignation of HTIN KYAW; Assembly of the Union vote - WIN MYINT (NLD) 403, MYINT SWE (USDP) 211, HENRY VAN THIO (NLD) 18, 4 votes canceled (636 votes cast); note - WIN MYINT and other key leaders of the ruling NLD party were placed under arrest following the military takeover on 1 February 2021<br><br><em>2016</em>: Assembly of the Union vote - HTIN KYAW elected president; HTIN KYAW (NLD) 360, MYINT SWE (USDP) 213, HENRY VAN THIO (NLD) 79 (652 votes cast)<br>
-_state counsellor_: State Counselor AUNG SAN SUU KYI (since 6 April 2016); note - under arrest since 1 February 2021; formerly served as minister of foreign affairs and minister for the office of the president<br>
+_state counsellor_: State Counselor AUNG SAN SUU KYI (since 6 April 2016); note - under arrest since 1 February 2021 (has been sentenced to 17 years in prison); formerly served as minister of foreign affairs and minister for the office of the president<br>
 <strong>note:</strong> a parliamentary bill creating the position of "state counsellor" was signed into law by former President HTIN KYAW on 6 April 2016; a state counsellor serves the equivalent term of the president and is similar to a prime minister in that the holder acts as a link between the parliament and the executive branch<br>
 
 **Legislative branch**<br>
@@ -712,11 +712,11 @@ Burmese Defense Service (Tatmadaw): Army (Tatmadaw Kyi), Navy (Tatmadaw Yay), Ai
 <strong>note:</strong> under the 2008 constitution, the Tatmadaw controls appointments of senior officials to lead the Ministry of Defense, the Ministry of Border Affairs, and the Ministry of Home Affairs; in March 2022, a new law gave the commander-in-chief of the Tatmadaw the authority to appoint or remove the head of the police force<br>
 
 **Military expenditures**<br>
+3.4% of GDP (2021 est.)<br>
+3% of GDP (2020 est.)<br>
 4.1% of GDP (2019 est.) (approximately $7.7 billion)<br>
 4.4% of GDP (2018 est.) (approximately $8.1 billion)<br>
 4.7% of GDP (2017 est.) (approximately $7.8 billion)<br>
-4.9% of GDP (2016 est.) (approximately $7.8 billion)<br>
-5.1% of GDP (2015 est.) (approximately $7.9 billion)<br>
 
 **Military and security service personnel strengths**<br>
 estimates vary widely, from approximately 300,000 to as many as 400,000 active duty personnel (2022)<br>

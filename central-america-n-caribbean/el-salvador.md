@@ -683,7 +683,7 @@ the Armed Force of El Salvador (La Fuerza Armada de El Salvador, FAES): Army of 
 
 **Military expenditures**<br>
 1.2% of GDP (2021 est.)<br>
-1.2% of GDP (2020 est.)<br>
+1.2% of GDP (2020)<br>
 1.2% of GDP (2019) (approximately $570 million)<br>
 1.1% of GDP (2018) (approximately $540 million)<br>
 1% of GDP (2017) (approximately $500 million)<br>

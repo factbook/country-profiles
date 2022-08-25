@@ -672,7 +672,8 @@ _oil terminal(s)_: Gamba, Lucina<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Gabonese Defense Forces (Forces de Defense Gabonaise): Land Forces (Army), Navy, Air Forces, National Gendarmerie; Republican Guard (land forces under direct presidential control) (2022)<br>
+Gabonese Armed Forces (Force Armées Gabonaise or FAG; aka Gabonese Defense and Security Forces): Land Forces (Army), National Navy, Air Force, National Gendarmerie (includes Coast Guard), Corps of Firemen; Republican Guard (2022)<br>
+<strong>note: </strong>the National Police Forces, under the Ministry of Interior, and the National Gendarmerie, under the Ministry of Defense, are responsible for law enforcement and public security; elements of the armed forces and the Republican Guard, an elite unit that protects the president under his direct authority, sometimes performed internal security functions<br>
 
 **Military expenditures**<br>
 1.7% of GDP (2021 est.)<br>
@@ -685,7 +686,7 @@ Gabonese Defense Forces (Forces de Defense Gabonaise): Land Forces (Army), Navy,
 approximately 6,500 active duty troops including the Republican Guard and Gendarmerie (2022)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the FDG is lightly armed with a mixed inventory from a variety of suppliers; since 2010, providers have included Brazil, China, France, Germany, and South Africa (2021)<br>
+the Gabonese military is lightly armed with a mixed inventory from a variety of suppliers; since 2010, providers have included Brazil, China, France, Germany, and South Africa (2021)<br>
 
 **Military service age and obligation**<br>
 20 years of age for voluntary military service; no conscription (2021)<br>

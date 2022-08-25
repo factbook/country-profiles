@@ -201,7 +201,7 @@ _unimproved: total_: total: 0% of population (2020 est.)<br>
 100 (2020) <100<br>
 
 **Major infectious diseases**<br>
-<strong>note:</strong> widespread ongoing transmission of a respiratory illness caused by the novel coronavirus (COVID-19) is occurring throughout UAE; as of 6 June 2022, UAE has reported a total of 910,935 cases of COVID-19 or 9,210.29 cumulative cases of COVID-19 per 100,000 population with a total of 2,305 cumulative deaths or a rate of 23.3 cumulative deaths per 100,000 population; as of 1 June 2022, 98.99% of the population has received at least one dose of COVID-19 vaccine<br>
+<strong>note:</strong> widespread ongoing transmission of a respiratory illness caused by the novel coronavirus (COVID-19) is occurring throughout UAE; as of 18 August 2022, UAE has reported a total of 1,007,039 cases of COVID-19 or 10,181.98 cumulative cases of COVID-19 per 100,000 population with a total of 2,340 cumulative deaths or a rate of 23.65 cumulative deaths per 100,000 population<br>
 
 **Obesity - adult prevalence rate**<br>
 31.7% (2016)<br>
@@ -264,7 +264,7 @@ _forest revenues_: 0% of GDP (2018 est.)<br>
 _coal revenues_: 0% of GDP (2018 est.)<br>
 
 **Major infectious diseases**<br>
-<strong>note:</strong> widespread ongoing transmission of a respiratory illness caused by the novel coronavirus (COVID-19) is occurring throughout UAE; as of 6 June 2022, UAE has reported a total of 910,935 cases of COVID-19 or 9,210.29 cumulative cases of COVID-19 per 100,000 population with a total of 2,305 cumulative deaths or a rate of 23.3 cumulative deaths per 100,000 population; as of 1 June 2022, 98.99% of the population has received at least one dose of COVID-19 vaccine<br>
+<strong>note:</strong> widespread ongoing transmission of a respiratory illness caused by the novel coronavirus (COVID-19) is occurring throughout UAE; as of 18 August 2022, UAE has reported a total of 1,007,039 cases of COVID-19 or 10,181.98 cumulative cases of COVID-19 per 100,000 population with a total of 2,340 cumulative deaths or a rate of 23.65 cumulative deaths per 100,000 population<br>
 
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 5,413,453 tons (2015 est.)<br>

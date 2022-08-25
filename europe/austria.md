@@ -344,10 +344,10 @@ _residency requirement for naturalization_: 10 years<br>
 
 **Executive branch**<br>
 _chief of state_: President Alexander VAN DER BELLEN (since 26 January 2017)<br>
-_head of government_: Chancellor Karl NEHAMMER (since 6 December 2021); note - Chancellor Alexander SCHALLENBERG (since 9 October 2021) resigned on 12/2/21<br>
+_head of government_: Chancellor Karl NEHAMMER (since 6 December 2021); note - Chancellor Alexander SCHALLENBERG (since 9 October 2021) resigned on 2 December 2021<br>
 _cabinet_: Council of Ministers chosen by the president on the advice of the chancellor<br>
-_elections/appointments_: president directly elected by absolute majority popular vote in 2 rounds if needed for a 6-year term (eligible for a second term); elections last held on 24 April 2016 (first round), 22 May 2016 (second round, which was annulled), and 4 December 2016 (second round re-vote) (next election to be held in April 2022); chancellor appointed by the president but determined by the majority coalition parties in the Federal Assembly; vice chancellor appointed by the president on the advice of the chancellor<br>
-_election results_: Alexander VAN DER BELLEN elected in second round; percent of vote in first round - Norbert HOFER (FPOe) 35.1%, Alexander VAN DER BELLEN (independent, allied with the Greens) 21.3%, Irmgard GRISS (independent) 18.9%, Rudolf HUNDSTORFER (SPOe) 11.3%, Andreas KHOL (OeVP) 11.1%, Richard LUGNER (independent) 2.3%; percent of vote in second round - Alexander VAN DER BELLEN 53.8%, Norbert HOFER 46.2%<br>
+_elections/appointments_: president directly elected by absolute majority popular vote in 2 rounds if needed for a 6-year term (eligible for a second term); elections last held on 24 April 2016 (first round), 22 May 2016 (second round, which was annulled), and 4 December 2016 (second round re-vote) (next election to be held in October 2022); chancellor appointed by the president but determined by the majority coalition parties in the Federal Assembly; vice chancellor appointed by the president on the advice of the chancellor<br>
+_election results_: <em>2016:</em> Alexander VAN DER BELLEN elected in second round; percent of vote in first round - Norbert HOFER (FPOe) 35.1%, Alexander VAN DER BELLEN (independent, allied with the Greens) 21.3%, Irmgard GRISS (independent) 18.9%, Rudolf HUNDSTORFER (SPOe) 11.3%, Andreas KHOL (OeVP) 11.1%, Richard LUGNER (independent) 2.3%; percent of vote in second round re-vote - Alexander VAN DER BELLEN 53.8%, Norbert HOFER 46.2%<br><br><em>2010: </em> Heinz Fischer re-elected; percent of vote - Heinz Fischer 79.3%, Barbara Rosenkranz 15.2%, Rudolf Gehring 5.4%<br>
 
 **Legislative branch**<br>
 _description_: bicameral Federal Assembly or Bundesversammlung consists of:<br>Federal Council or Bundesrat (61 seats; members appointed by state parliaments with each state receiving 3 to 12 seats in proportion to its population; members serve 5- or 6-year terms)<br>National Council or Nationalrat (183 seats; members directly elected in single-seat constituencies by proportional representation vote; members serve 5-year terms)<br>
@@ -728,7 +728,7 @@ Islamic State of Iraq and ash-Sham (ISIS)<br>
 <p>none identified</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 57,887 (Syria), 41,037 (Afghanistan), 9,661 (Iraq), 8,212 (Somalia), 7,046 (Iran), 7,003 (Russia) (mid-year 2021); 77,301 (Ukraine) (as of 9 August 2022)<br>
+_refugees (country of origin)_: 57,887 (Syria), 41,037 (Afghanistan), 9,661 (Iraq), 8,212 (Somalia), 7,046 (Iran), 7,003 (Russia) (mid-year 2021); 78,158 (Ukraine) (as of 16 August 2022)<br>
 _stateless persons_: 3,229 (mid-year 2021)<br>
 
 **Illicit drugs**<br>

@@ -695,7 +695,7 @@ the inventory of the Cypriot National Guard is a mix of Soviet-era and some more
 Cypriot National Guard (CNG): 18-50 years of age for compulsory military service for all Greek Cypriot males; 17 years of age for voluntary service; 14-month service obligation (2021)<br>
 
 **Military - note**<br>
-the United Nations Peacekeeping Force in Cyprus (UNFICYP) was set up in 1964 to prevent further fighting between the Greek Cypriot and Turkish Cypriot communities on the island and bring about a return to normal conditions; the UNFICYP mission had about 850 personnel as of February 2022<br>
+the United Nations Peacekeeping Force in Cyprus (UNFICYP) was set up in 1964 to prevent further fighting between the Greek Cypriot and Turkish Cypriot communities on the island and bring about a return to normal conditions; the UNFICYP mission had about 800 personnel as of mid-2022<br>
 
 ## Terrorism
 

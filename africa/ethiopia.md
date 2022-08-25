@@ -390,7 +390,7 @@ _election results_: <em>2021</em>: SAHLE-WORK elected president during joint ses
 **Legislative branch**<br>
 _description_: bicameral Parliament consists of:<br>House of Federation or Yefedereshein Mikir Bete (153 seats maximum; 144 seats current; members indirectly elected by state assemblies to serve 5-year terms)<br>House of People's Representatives or Yehizb Tewokayoch Mekir Bete (547 seats maximum; 470 seats current; members directly elected in single-seat constituencies by simple majority vote; 22 seats reserved for minorities; all members serve 5-year terms)<br>
 _elections_: House of Federation - last held 4 October 2021 (next expected 31 October 2026)<br>House of People's Representatives - last held in two parts on 21 June 2021 and 30 September 2021 (next election expected 30 June 2026)<br>
-_election results_: House of Federation - percent of vote by coalition/party - NA; seats by coalition/party - NA; composition - men 100, women 44, percent of women 30.6%<br>House of Representatives - percent of vote by coalition/party - NA; seats by coalition/party - Prosperity Party 410, NAMA 5, EZEMA 4, Gedeo People's Democratic organization 2, Independents 4; composition - men 275, women 195, percent of women  41.5%; note - total Parliament percent of women 38.9%<br>
+_election results_: House of Federation - percent of vote by coalition/party - NA; seats by coalition/party - NA; composition - men 100, women 44, percent of women 30.6%<br>House of Representatives - percent of vote by coalition/party - NA; seats by coalition/party - Prosperity Party 410, NAMA 5, EZEMA 4, Gedeo People's Democratic organization 2, independent 4; composition - men 275, women 195, percent of women  41.5%; note - total Parliament percent of women 38.9%<br>
 <strong>notes:</strong> House of Federation is responsible for interpreting the constitution and federal-regional issues and the House of People's Representatives is responsible for passing legislation; percent of vote percentages are calculated on the number of members actually seated versus on the constitutional maximums<br>
 
 **Judicial branch**<br>
@@ -720,7 +720,7 @@ Ethiopia is landlocked and uses the ports of Djibouti in Djibouti and Berbera in
 
 **Military and security forces**<br>
 Ethiopian National Defense Force (ENDF): Ground Forces, Ethiopian Air Force (Ye Ityopya Ayer Hayl, ETAF) (2022)<br>
-<strong>note 1:</strong> in January 2020 the Ethiopian Government announced it had re-established a navy, which was disbanded in 1996; in March 2019 Ethiopia signed a defense cooperation agreement with France which stipulated that France would support the establishment of an Ethiopian navy, which will reportedly be based out of Djibouti<br><br><strong>note 2: </strong>in 2018, Ethiopia established a Republican Guard military unit responsible to the Prime Minister for protecting senior officials<br><br><br>
+<strong>note 1:</strong> in January 2020 the Ethiopian Government announced it had re-established a navy, which was disbanded in 1996; in March 2019, Ethiopia signed a defense cooperation agreement with France which stipulated that France would support the establishment of an Ethiopian navy, which would reportedly be based out of Djibouti<br><br><strong>note 2: </strong>in 2018, Ethiopia established a Republican Guard military unit responsible to the Prime Minister for protecting senior officials<br><br><br>
 
 **Military expenditures**<br>
 0.5% of GDP (2021 est.)<br>

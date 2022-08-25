@@ -700,7 +700,7 @@ _river port(s)_: Koulikoro (Niger)<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Malian Armed Forces (FAMa): Army (Armee de Terre; includes a riverine patrol force), Republic of Mali Air Force (Force Aerienne de la Republique du Mali, FARM); National Gendarmerie; National Guard (Garde National du Mali) (2022)<br>
+Malian Armed Forces (FAMA): Army (includes a riverine patrol force), Republic of Mali Air Force; National Gendarmerie; National Guard  (2022)<br>
 <strong>note 1:</strong> the Gendarmerie and the National Guard are under the authority of the Ministry of Defense and Veterans Affairs (Ministere De La Defense Et Des Anciens Combattants, MDAC), but operational control is shared between the MDAC and the Ministry of Internal Security and Civil Protection<br><br><strong>note 2: </strong>the Gendarmerie's primary mission is internal security and public order; its duties also include territorial defense, humanitarian operations, intelligence gathering, and protecting private property, mainly in rural areas; as of 2021, the Gendarmerie was comprised of approximately 8 paramilitary companies and a mobile intervention unit<br><br><strong>note 3: </strong>the National Guard is a military force responsible for providing security to government facilities and institutions, prison service, public order, humanitarian operations, some border security, and intelligence gathering; as of 2021, it had approximately 8 companies of troops, including a camel corps for patrolling the deserts and borders of northern Mali<br><br><strong>note 4: </strong>there are also pro-government militias operating in Mali, such as the Imghad Tuareg Self-Defense Group and Allies (GATIA)<br>
 
 **Military expenditures**<br>
@@ -711,10 +711,10 @@ Malian Armed Forces (FAMa): Army (Armee de Terre; includes a riverine patrol for
 3.2% of GDP (2017 est.) (approximately $600 million)<br>
 
 **Military and security service personnel strengths**<br>
-information varies; approximately 20,000 active FAMa personnel (includes up to 2,000 Air Force); approximately 5,000 Gendarmerie; approximately 10,000 National Guard (2022)<br>
+information varies; approximately 20,000 active FAMA personnel (includes up to 2,000 Air Force); approximately 5,000 Gendarmerie; approximately 10,000 National Guard (2022)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the FAMa's inventory consists primarily of Soviet-era equipment, although in recent years it has received limited quantities of mostly second-hand armaments from more than a dozen countries, including Russia (2022)<br>
+the FAMA's inventory consists primarily of Soviet-era equipment, although in recent years it has received limited quantities of mostly second-hand armaments from more than a dozen countries, including Russia (2022)<br>
 
 **Military service age and obligation**<br>
 18 years of age for selective compulsory and voluntary military service (men and women); 2-year conscript service obligation (2022)<br>

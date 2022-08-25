@@ -679,11 +679,11 @@ _lake port(s)_: Balykchy (Ysyk-Kol or Rybach'ye)(Lake Ysyk-Kol)<br>
 Kyrgyz Armed Forces: Land Forces, Air Defense Forces, National Guard; Internal Troops; State Committee for National Security (GKNB): Border Service (2022)<br>
 
 **Military expenditures**<br>
+1.7% of GDP (2021 est.)<br>
+1.8% of GDP (2020 est.)<br>
 2.3% of GDP (2019 est.) (approximately $410 million)<br>
 2.3% of GDP (2018 est.) (approximately $400 million)<br>
 2.3% of GDP (2017 est.) (approximately $390 million)<br>
-2.6% of GDP (2016 est.) (approximately $380 million)<br>
-2.6% of GDP (2015 est.) (approximately $360 million)<br>
 
 **Military and security service personnel strengths**<br>
 approximately 12,000 active duty troops (8,500 Land Forces; 2,500 Air Force/Air Defense; 1,000 National Guard) (2022)<br>

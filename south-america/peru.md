@@ -219,7 +219,7 @@ _unimproved: total_: total: 12.6% of population (2020 est.)<br>
 _degree of risk_: very high (2020)<br>
 _food or waterborne diseases_: bacterial diarrhea, hepatitis A, and typhoid fever<br>
 _vectorborne diseases_: dengue fever, malaria, and Bartonellosis (Oroya fever)<br>
-<strong>note:</strong> widespread ongoing transmission of a respiratory illness caused by the novel coronavirus (COVID-19) is occurring throughout Peru; as of 6 June 2022, Peru has reported a total of 3,581,524 cases of COVID-19 or 10,862.4 cumulative cases of COVID-19 per 100,000 population with a total of 213,205 cumulative deaths or a rate of 646.6 cumulative deaths per 100,000 population; as of 1 June 2022, 88.04% of the population has received at least one dose of COVID-19 vaccine<br>
+<strong>note:</strong> widespread ongoing transmission of a respiratory illness caused by the novel coronavirus (COVID-19) is occurring throughout Peru; as of 18 August 2022, Peru has reported a total of 4,037,977 cases of COVID-19 or 12,246.73 cumulative cases of COVID-19 per 100,000 population with a total of 215,088 cumulative deaths or a rate of 652.33 cumulative deaths per 100,000 population; as of 14 August 2022, 88.19% of the population has received at least one dose of COVID-19 vaccine<br>
 
 **Obesity - adult prevalence rate**<br>
 19.7% (2016)<br>
@@ -294,7 +294,7 @@ _coal revenues_: 0% of GDP (2018 est.)<br>
 _degree of risk_: very high (2020)<br>
 _food or waterborne diseases_: bacterial diarrhea, hepatitis A, and typhoid fever<br>
 _vectorborne diseases_: dengue fever, malaria, and Bartonellosis (Oroya fever)<br>
-<strong>note:</strong> widespread ongoing transmission of a respiratory illness caused by the novel coronavirus (COVID-19) is occurring throughout Peru; as of 6 June 2022, Peru has reported a total of 3,581,524 cases of COVID-19 or 10,862.4 cumulative cases of COVID-19 per 100,000 population with a total of 213,205 cumulative deaths or a rate of 646.6 cumulative deaths per 100,000 population; as of 1 June 2022, 88.04% of the population has received at least one dose of COVID-19 vaccine<br>
+<strong>note:</strong> widespread ongoing transmission of a respiratory illness caused by the novel coronavirus (COVID-19) is occurring throughout Peru; as of 18 August 2022, Peru has reported a total of 4,037,977 cases of COVID-19 or 12,246.73 cumulative cases of COVID-19 per 100,000 population with a total of 215,088 cumulative deaths or a rate of 652.33 cumulative deaths per 100,000 population; as of 14 August 2022, 88.19% of the population has received at least one dose of COVID-19 vaccine<br>
 
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 8,356,711 tons (2014 est.)<br>

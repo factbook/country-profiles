@@ -722,11 +722,11 @@ Armed Forces of the Democratic Republic of the Congo (Forces d'Armees de la Repu
 <strong>note:</strong> the Republican Guard is a division-size element consisting of approximately 5 regiments; it is regarded as the country’s best equipped and trained military unit and is under the direct control of the president<br>
 
 **Military expenditures**<br>
+0.7% of GDP (2021 est.)<br>
 0.7% of GDP (2020 est.)<br>
 0.9% of GDP (2019 est.) (approximately $570 million)<br>
 0.8% of GDP (2018 est.) (approximately $520 million)<br>
 0.9% of GDP (2017 est.) (approximately $550 million)<br>
-1.3% of GDP (2016 est.) (approximately $650 million)<br>
 
 **Military and security service personnel strengths**<br>
 limited and widely varied information; approximately 100,000 active troops (mostly Army, but includes several thousand Navy and Air Force personnel, as well as about 10,000 Republican Guard; note -&nbsp; Navy personnel includes naval infantry) (2022)<br>
@@ -738,7 +738,7 @@ the FARDC is equipped mostly with a mix of second-hand Russian and Soviet-era we
 18-45 years of age for voluntary (men and women) and compulsory (men only) military service; unclear how much conscription is used (2021)<br>
 
 **Military - note**<br>
-<p>the modern FARDC was created out of the armed factions of the two Congo wars of 1996-1997 and 1998-2003; as part of the peace accords that ended the last war, the largest rebel groups were incorporated into the FARDC; many armed groups, however, continue to fight (note - there are over 100 illegal armed groups in the country by some estimates); as of 2022, the FARDC was actively engaged in combat operations against numerous armed groups inside the country, particularly in the eastern provinces of Ituri, North Kivu, and South Kivu, although violence also continues in Maniema, Kasai, Kasai Central, and Tanganyika provinces; the military is widely assessed as being unable to provide adequate security throughout the country due to insufficient training, poor morale and leadership, ill-discipline and corruption, low equipment readiness, a fractious ethnic makeup, and the sheer size of the country and diversity of armed rebel groups<br><br></p> MONUSCO, the United Nations peacekeeping and stabilization force in the Democratic Republic of Congo, has operated in the central and eastern parts of the country since 1999; as of February 2022, MONUSCO had around 15,000 personnel; MONUSCO includes a Force Intervention Brigade (FIB; 3 infantry battalions, plus artillery and special forces), the first ever UN peacekeeping force specifically tasked to carry out targeted offensive operations to neutralize and disarm groups considered a threat to state authority and civilian security<br>
+<p>the modern FARDC was created out of the armed factions of the two Congo wars of 1996-1997 and 1998-2003; as part of the peace accords that ended the last war, the largest rebel groups were incorporated into the FARDC; many armed groups, however, continue to fight and as of 2022, there were over 100 illegal armed groups operating in the country by some estimates; as of 2022, the FARDC was actively engaged in combat operations against numerous armed groups, particularly in the eastern provinces of Ituri, North Kivu, and South Kivu, although there was also violence in Maniema, Kasai, Kasai Central, and Tanganyika provinces; the military is widely assessed as being unable to provide adequate security throughout the country due to insufficient training, poor morale and leadership, ill-discipline and corruption, low equipment readiness, a fractious ethnic makeup, and the sheer size of the country and diversity of armed rebel groups<br><br>MONUSCO, the United Nations peacekeeping and stabilization force in the Democratic Republic of Congo, has operated in the central and eastern parts of the country since 1999; as of mid-2022, MONUSCO had around 15,000 personnel; MONUSCO includes a Force Intervention Brigade (FIB; 3 infantry battalions, plus artillery and special forces), the first ever UN peacekeeping force specifically tasked to carry out targeted offensive operations to neutralize and disarm groups considered a threat to state authority and civilian security</p><br>
 
 ## Terrorism
 
@@ -752,7 +752,7 @@ Islamic State of Iraq and ash-Sham – Democratic Republic of the Congo (ISIS-DR
 <p>heads of the Great Lakes states and UN pledged in 2004 to abate tribal, rebel, and militia fighting in the region, including northeast Congo, where the UN Organization Mission in the Democratic Republic of the Congo (MONUC), organized in 1999, maintains over 16,500 uniformed peacekeepers<br><br><em>Democratic Republic of Congo(DRC)-Republic of the Congo: </em>the location of the boundary in the broad Congo River is indefinite except in the Pool Malebo/Stanley Pool area<br><br><em>Democratic Republic of Congo(DRC)-Uganda:</em> Uganda rejects the DRC claim to Margherita Peak in the Rwenzori mountains and considers it a boundary divide; there is tension and violence on Lake Albert over prospective oil reserves at the mouth of the Semliki River<br><br><em>Democratic Republic of Congo(DRC)-Zambia: </em>boundary commission continues discussions over Congolese-administered triangle of land on the right bank of the Lunkinda River claimed by Zambia near the DRC village of Pweto<br><br><em>Democratic Republic of Congo(DRC)-Angola: </em>DRC accuses Angola of shifting monuments</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 210,067 (Rwanda), 207,118 (Central African Republic), 56,303 (South Sudan) (refugees and asylum seekers), 40,798 (Burundi) (2022)<br>
+_refugees (country of origin)_: 210,067 (Rwanda), 206,967 (Central African Republic), 56,303 (South Sudan) (refugees and asylum seekers), 40,798 (Burundi) (2022)<br>
 _IDPs_: 5.61 million (fighting between government forces and rebels since mid-1990s; conflict in Kasai region since 2016) (2021)<br>
 
 **Trafficking in persons**<br>

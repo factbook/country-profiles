@@ -210,7 +210,7 @@ _unimproved: total_: total: 0% of population (2020 est.)<br>
 _degree of risk_: intermediate (2020)<br>
 _food or waterborne diseases_: bacterial diarrhea<br>
 _vectorborne diseases_: Crimean-Congo hemorrhagic fever<br>
-<strong>note:</strong> a new coronavirus is causing sustained community spread of respiratory illness (COVID-19) in Iran; sustained community spread means that people have been infected with the virus, but how or where they became infected is not known, and the spread is ongoing; illness with this virus has ranged from mild to severe with fatalities reported; as of 6 June 2022, Iran has reported a total of 7,232,731 cases of COVID-19 or 8,611.1 cumulative cases of COVID-19 per 100,000 population with a total of 141,331 cumulative deaths or a rate 168.3 cumulative deaths per 100,000 population; as of 1 June 2022, 75.9% of the population has received at least one dose of COVID-19 vaccine<br>
+<strong>note:</strong> a new coronavirus is causing sustained community spread of respiratory illness (COVID-19) in Iran; sustained community spread means that people have been infected with the virus, but how or where they became infected is not known, and the spread is ongoing; illness with this virus has ranged from mild to severe with fatalities reported; as of 18 August 2022, Iran has reported a total of 7,493,317 cases of COVID-19 or 8,921.36 cumulative cases of COVID-19 per 100,000 population with a total of 143,160 cumulative deaths or a rate 170.44 cumulative deaths per 100,000 population<br>
 
 **Obesity - adult prevalence rate**<br>
 25.8% (2016)<br>
@@ -281,7 +281,7 @@ _coal revenues_: 0.01% of GDP (2017 est.)<br>
 _degree of risk_: intermediate (2020)<br>
 _food or waterborne diseases_: bacterial diarrhea<br>
 _vectorborne diseases_: Crimean-Congo hemorrhagic fever<br>
-<strong>note:</strong> a new coronavirus is causing sustained community spread of respiratory illness (COVID-19) in Iran; sustained community spread means that people have been infected with the virus, but how or where they became infected is not known, and the spread is ongoing; illness with this virus has ranged from mild to severe with fatalities reported; as of 6 June 2022, Iran has reported a total of 7,232,731 cases of COVID-19 or 8,611.1 cumulative cases of COVID-19 per 100,000 population with a total of 141,331 cumulative deaths or a rate 168.3 cumulative deaths per 100,000 population; as of 1 June 2022, 75.9% of the population has received at least one dose of COVID-19 vaccine<br>
+<strong>note:</strong> a new coronavirus is causing sustained community spread of respiratory illness (COVID-19) in Iran; sustained community spread means that people have been infected with the virus, but how or where they became infected is not known, and the spread is ongoing; illness with this virus has ranged from mild to severe with fatalities reported; as of 18 August 2022, Iran has reported a total of 7,493,317 cases of COVID-19 or 8,921.36 cumulative cases of COVID-19 per 100,000 population with a total of 143,160 cumulative deaths or a rate 170.44 cumulative deaths per 100,000 population<br>
 
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 17.885 million tons (2017 est.)<br>

@@ -705,7 +705,7 @@ _LNG terminal(s) (import)_: Mombasa<br>
 
 **Military and security forces**<br>
 Kenya Defense Forces: Kenya Army, Kenya Navy, Kenya Air Force (2022)<br>
-<strong>note 1:</strong> the National Police Service maintains internal security and reports to the Ministry of Interior and Coordination of National Government; it includes a paramilitary General Service Unit<br><br><strong>note 2:</strong> the Kenya Coast Guard Service (established 2018) is under the Ministry of Interior, but led by a military officer and comprised of personnel from the military, as well as the National Police Service, intelligence services, and other government agencies<br>
+<strong>note 1:</strong> the National Police Service maintains internal security and reports to the Ministry of Interior and Coordination of National Government; it includes a paramilitary General Service Unit<br><br><strong>note 2:</strong> the Kenya Coast Guard Service (established 2018) is under the Ministry of Interior but led by a military officer and comprised of personnel from the military, as well as the National Police Service, intelligence services, and other government agencies<br>
 
 **Military expenditures**<br>
 1.2% of GDP (2021 est.)<br>

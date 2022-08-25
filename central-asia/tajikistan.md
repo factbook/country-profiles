@@ -670,11 +670,11 @@ _total_: 30,000 km (2018)<br>
 Armed Forces of the Republic of Tajikistan: Land Forces, Mobile Forces, Air and Air Defense Forces; National Guard; Ministry of Internal Affairs: Internal Troops (reserves for Armed Forces in wartime); State Committee on National Security: Border Guard Forces (2022)<br>
 
 **Military expenditures**<br>
+1.2% of GDP (2021 est.)<br>
+1% of GDP (2020 est.)<br>
 2.1% of GDP (2019 est.) (approximately $360 million)<br>
 2.1% of GDP (2018 est.) (approximately $350 million)<br>
 2.2% of GDP (2017 est.) (approximately $330 million)<br>
-2.2% of GDP (2016 est.) (approximately $320 million)<br>
-2.2% of GDP (2015 est.) (approximately $310 million)<br>
 
 **Military and security service personnel strengths**<br>
 approximately 9,500 active duty troops (8,000 Land and Mobile Forces; 1,500 Air and Air Defense Forces) (2022)<br>

@@ -714,7 +714,7 @@ Montenegro became a member of NATO in 2017; as of 2022, Greece and Italy provide
 **Refugees and internally displaced persons**<br>
 _refugees (country of origin)_: 9,614 (Ukraine) (as of 8 August 2022)<br>
 _stateless persons_: 458 (mid-year 2021)<br>
-<strong>note:</strong> 23,352 estimated refugee and migrant arrivals (January 2015-August 2022)<br>
+<strong>note:</strong> 23,978 estimated refugee and migrant arrivals (January 2015-August 2022)<br>
 
 **Illicit drugs**<br>
 <p>drug trafficking groups are major players in the procurement and transportation of large quantities of cocaine  destined for  European markets</p><br>
