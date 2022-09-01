@@ -99,6 +99,9 @@ _major-language sample(s)_: <br>Dünya fakt kitabı, əsas məlumatlar üçün �
 Muslim 97.3% (predominantly Shia), Christian 2.6%, other &lt;0.1, unaffiliated &lt;0.1 (2020 est.)<br>
 <strong>note:</strong> religious affiliation for the majority of Azerbaijanis is largely nominal, percentages for actual practicing adherents are probably much lower<br>
 
+**Demographic profile**<br>
+<p>Azerbaijan’s citizenry has over 80 ethnic groups. The far eastern part of the country has the highest population density, particularly in and around Baku. Apart from smaller urbanized areas, the rest of the country has a fairly light and evenly distributed population. Approximately 57% of the country’s inhabitants lives in urban areas.  While the population is continuing to grow but is in the early stages of aging. The declining fertility rate – which has decreased from about 5.5 children per woman in the 1950s to less than the 2.1 replacement level in 2022 – combined with increasing life expectancy has resulted in the elderly making up a larger share of Azerbaijan’s populace. The percentage of elderly residents and the slowed growth and eventual shrinkage of the working-age population could put pressure on the country’s pension and healthcare systems. </p><br>
+
 **Age structure**<br>
 _0-14 years_: 22.84% (male 1,235,292/female 1,095,308)<br>
 _15-24 years_: 13.17% (male 714,718/female 629,494)<br>
@@ -694,7 +697,7 @@ men age 18-35 years for compulsory military service; service obligation 18 month
 <strong>note:</strong> as of 2018, women made up an estimated 3% of the active duty military<br>
 
 **Military - note**<br>
-since November 2020, Russia has deployed about 2,000 peacekeeping troops to the area in and around Nagorno-Karabakh as part of a cease-fire agreement between Armenia and Azerbaijan; fighting erupted between the two countries over the Nagorno-Karabakh region in September of 2020; Nagorno-Karabakh lies within Azerbaijan but has been under control of ethnic Armenian forces (the "Nagorno-Karabakh Defense Army") backed by Armenia since a separatist war there ended in 1994; six weeks of fighting resulted in about 6,500 deaths and ended after Armenia ceded swathes of Nagorno-Karabakh territory; tensions remained high in 2022, and both sides have accused the other of provocations since the fighting ended; Armenia has accused Azerbaijani forces of a series of border intrusions and of seizing pockets of territory<br>
+since November 2020, Russia has deployed about 2,000 peacekeeping troops to the area in and around Nagorno-Karabakh as part of a cease-fire agreement between Armenia and Azerbaijan; fighting erupted between the two countries over the Nagorno-Karabakh region in September of 2020; Nagorno-Karabakh lies within Azerbaijan but has been under control of ethnic Armenian forces (the "Nagorno-Karabakh Defense Army") backed by Armenia since a separatist war there ended in 1994; six weeks of fighting resulted in about 6,500 deaths and ended after Armenia ceded swaths of Nagorno-Karabakh territory; tensions remained high in 2022, and both sides have accused the other of provocations since the fighting ended; Armenia has accused Azerbaijani forces of a series of border intrusions and of seizing pockets of territory<br>
 
 ## Terrorism
 

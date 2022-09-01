@@ -319,7 +319,7 @@ _election results_: Paula-Mae WEEKES (independent) elected president; ran unoppo
 **Legislative branch**<br>
 _description_: bicameral Parliament consists of:<br>Senate (31 seats; 16 members appointed by the ruling party, 9 by the president, and 6 by the opposition party; members serve 5-year terms;)<br>House of Representatives (42 seats; 41 members directly elected in single-seat constituencies by simple majority vote and the house speaker - usually designated from outside Parliament; members serve 5-year terms)<br>
 _elections_: Senate - last appointments on 28 August 2020 (next appointments in August 2025)<br>House of Representatives - last held on 10 August 2020 (next to be held in 2025)<br>
-_election results_: Senate - percent by party - NA; seats by party - NA; composition as of May 2020 - men 19, women 13, percent of women 40.6%<br>House of Representatives - percent by party - NA; seats by party - PNM 22, UNC 19; composition - as of May 2022 - men 31, women 11, percent of women 26.2%; note - overall Parliament percent of women 32.4%<br>
+_election results_: Senate - percent by party - NA; seats by party - NA; composition as of May 2020 - men 18, women 13, percent of women 41.9%<br>House of Representatives - percent by party - NA; seats by party - PNM 22, UNC 19; composition - as of May 2022 - men 31, women 11, percent of women 26.2%; note - overall Parliament percent of women 32.9%<br>
 <strong>note:</strong> Tobago has a unicameral House of Assembly (19 seats; 15 assemblymen directly elected by simple majority vote and 4 appointed councilors - 3 on the advice of the chief secretary and 1 on the advice of the minority leader; members serve 4-year terms)<br>
 
 **Judicial branch**<br>
@@ -640,8 +640,8 @@ approximately 4,500 TTDF personnel (2022)<br>
 the TTDF's ground force inventory includes only light weapons, while the Coast Guard and Air Guard field mostly second-hand equipment from a mix of countries, including Australia, China, the Netherlands, the UK, and the US (2022)<br>
 
 **Military service age and obligation**<br>
-18-25 years of age for voluntary military service (men and women; some age variations between services, reserves); no conscription (2022)<br>
-<strong>note:</strong> as of 2017, women comprised about 14% of the active military<br>
+18-25 years of age for voluntary military service for men and women (some age variations between services, reserves); no conscription (2022)<br>
+<strong>note:</strong> as of 2017, women comprised about 14% of the active duty military<br>
 
 **Military - note**<br>
 the primary responsibilities for the TTDF are conducting border and maritime security, providing disaster relief, and countering narcotics trafficking in support of law enforcement (2022)<br>

@@ -342,7 +342,7 @@ _elections/appointments_: the monarchy is hereditary; following legislative elec
 **Legislative branch**<br>
 _description_: unicameral Parliament or Riksdag (349 seats; 310 members directly elected in multi-seat constituencies by open party-list proportional representation vote and 39 members in "at-large" seats directly elected by open party-list proportional representation vote; members serve 4-year terms)<br>
 _elections_: last held on 9 September 2018 (next to be held on 11 September 2022)<br>
-_election results_: percent of vote by party - SAP 28.3%, M 19.8%, SD 17.5%, C 8.6%, V 8%, KD 6.3%, L 5.5%, MP 4.4%, other 1.6%; seats by party - SAP 100, M 70, SD 62, C 31, V 28, KD 22, L 20, MP 16; composition - men 185, women 164, percent of women 47%<br>
+_election results_: percent of vote by party - SAP 28.3%, M 19.8%, SD 17.5%, C 8.6%, V 8%, KD 6.3%, L 5.5%, MP 4.4%, other 1.6%; seats by party - SAP 100, M 70, SD 62, C 31, V 28, KD 22, L 20, MP 16; composition as of mid-2022 - men 188, women 161, percent of women 46%<br>
 
 **Judicial branch**<br>
 _highest courts_: Supreme Court of Sweden (consists of 16 justices, including the court chairman); Supreme Administrative Court (consists of 18 justices, including the court president)<br>
@@ -695,14 +695,14 @@ approximately 15,000 continuous service/full-time troops (7,000 Army; 3,000 Navy
 the inventory of the SAF is comprised of domestically-produced and imported Western weapons systems; since 2010, the US is the leading supplier of military hardware to Sweden; Sweden's defense industry produces a range of air, land, and naval systems (2021)<br>
 
 **Military service age and obligation**<br>
-18-47 years of age for male and female voluntary military service; service obligation: 7.5 months (Army), 7-15 months (Navy), 8-12 months (Air Force); after completing initial service, soldiers have a reserve commitment until age 47; compulsory military service, abolished in 2010, was reinstated in January 2018; conscription is selective, includes both female and male (age 18), and requires 9-12 months of service (2021)<br>
+18-47 years of age for male and female voluntary military service; service obligation: 7.5 months (Army), 7-15 months (Navy), 8-12 months (Air Force); after completing initial service, soldiers have a reserve commitment until age 47; compulsory military service, abolished in 2010, was reinstated in January 2018; conscription is selective, includes both men and women (age 18), and requires 9-12 months of service (2021)<br>
 <strong>note 1: </strong>Sweden conscripts about 5,500 men and women each year<br><br><strong>note 2: </strong>as of 2021, women made up about 11% of the military's full-time personnel<br>
 
 **Military deployments**<br>
 approximately 200 Mali (MINUSMA) (2022)<br>
 
 **Military - note**<br>
-<p>Sweden maintains a policy of military non-alignment, but cooperates with NATO and regional countries; it joined NATO’s Partnership for Peace program in 1994 and has contributed to NATO-led missions, including those in Afghanistan, Iraq, and Kosovo</p> <p>the Swedish military cooperates closely with the military forces of other Nordic countries through the Nordic Defense Cooperation (NORDEFCO), which consists of Denmark, Finland, Iceland, Norway, and Sweden; areas of cooperation include armaments, education, human resources, training and exercises, and operations; NORDEFCO was established in 2009<strong> </strong></p> <p>Sweden is a signatory of the EU’s Common Security and Defense Policy and contributes to CSDP missions and operations</p><br>
+<p>Sweden maintains a policy of military non-alignment, but cooperates with NATO and regional countries; it joined NATO’s Partnership for Peace program in 1994 and has contributed to NATO-led missions, including those in Afghanistan, Iraq, and Kosovo; Sweden applied for NATO membership in May 2022</p> <p>the Swedish military cooperates closely with the military forces of other Nordic countries through the Nordic Defense Cooperation (NORDEFCO), which consists of Denmark, Finland, Iceland, Norway, and Sweden; areas of cooperation include armaments, education, human resources, training and exercises, and operations; NORDEFCO was established in 2009<strong> </strong></p> <p>Sweden is a signatory of the EU’s Common Security and Defense Policy and contributes to CSDP missions and operations</p><br>
 
 ## Terrorism
 
@@ -716,6 +716,6 @@ Islamic State of Iraq and ash-Sham (ISIS)<br>
 <p>none identified</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 114,995 (Syria), 28,744 (Afghanistan), 26,911 (Eritrea), 11,574 (Somalia), 11,153 (Iraq), 7,516 (Iran) (2020); 44,107 (Ukraine) (as of 16 August 2022)<br>
+_refugees (country of origin)_: 114,995 (Syria), 28,744 (Afghanistan), 26,911 (Eritrea), 11,574 (Somalia), 11,153 (Iraq), 7,516 (Iran) (2020); 44,546 (Ukraine) (as of 16 August 2022)<br>
 _stateless persons_: 50,098 (mid-year 2021); note - the majority of stateless people are from the Middle East and Somalia<br>
 

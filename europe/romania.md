@@ -346,7 +346,7 @@ _chief of state_: President Klaus Werner IOHANNIS (since 21 December 2014)<br>
 _head of government_: Prime Minister Nicolae CIUCA (since 25 November 2021); Deputy Prime Ministers Sorin GRINDEANU (since 25 November 2021) and Kelemen HUNOR (since 23 December 2020)<br>
 _cabinet_: Council of Ministers appointed by the prime minister<br>
 _elections/appointments_: president directly elected by absolute majority popular vote in 2 rounds if needed for a 5-year term (eligible for a second term); election last held on&nbsp;10 November 2019 with a runoff on&nbsp;24 November 2019 (next to be held&nbsp;in November 2024); prime minister appointed by the president with consent of Parliament<br>
-_election results_: Klaus IOHANNIS reelected president in second round; percent of vote - Klaus IOHANNIS (PNL) 66.1%, Viorica DANCILA (PSD) 33.9%; Nicolae CIUCA approved as prime minister with 318 votes<br>
+_election results_: <em>2019: </em>Klaus IOHANNIS reelected president in second round; percent of vote - Klaus IOHANNIS (PNL) 66.1%, Viorica DANCILA (PSD) 33.9%; Nicolae CIUCA approved as prime minister with 318 votes<br><br><em>2014:</em> Klaus IOHANNIS elected president in the second round; percent of vote - Klaus IOHANNIS (PNL) 54.4%, Victor PONTA (PSD) 45.6%<br>
 
 **Legislative branch**<br>
 _description_: bicameral Parliament or Parlament consists of:<br>Senate or Senat (136 seats; members directly elected in single- and multi-seat constituencies - including 2 seats for diaspora - by party-list, proportional representation vote; members serve 4-year terms)<br>Chamber of Deputies or Camera Deputatilor (330 seats; members directly elected in single- and multi-seat constituencies - including 4 seats for diaspora - by party-list, proportional representation vote; members serve 4-year terms)<br>
@@ -689,7 +689,7 @@ _river port(s)_: Braila, Galati (Galatz), Mancanului (Giurgiu), Tulcea (Danube R
 ## Military and Security
 
 **Military and security forces**<br>
-Romanian Armed Forces: Land Forces, Naval Forces, Air Force; Ministry of Internal Affairs: Romanian Gendarmerie (2022)<br>
+Romanian Armed Forces: Land Forces, Naval Forces, Air Force; Ministry of Internal Affairs: Romanian Gendarmerie, Romanian Police, Romanian Border Police (2022)<br>
 
 **Military expenditures**<br>
 2% of GDP (2021 est.)<br>
@@ -705,7 +705,7 @@ approximately 75,000 active duty personnel (58,000 Land Forces; 7,000 Naval Forc
 the inventory of the Romanian Armed Forces is comprised mostly of Soviet-era and older domestically-produced weapons systems; there is also a smaller mix of Western-origin equipment received in more recent years from European countries and the US&nbsp; (2021)<br>
 
 **Military service age and obligation**<br>
-conscription ended 2006; 18 years of age for male and female voluntary service; all military inductees (including women) contract for an initial 5-year term of service, with subsequent successive 3-year terms until age 36 (2021)<br>
+conscription ended in 2006; 18 years of age for male and female voluntary service; all military inductees (including women) contract for an initial 5-year term of service, with subsequent successive 3-year terms until age 36 (2021)<br>
 
 **Military deployments**<br>
 up to 120 Poland (NATO) (2022)<br>
@@ -726,7 +726,7 @@ Islamic State of Iraq and ash-Sham (ISIS)<br>
 <p><em>Romania-Bulgaria</em>: none identified</p> <p><em>Romania-Hungary</em>: none identified</p> <p><em>Romania-Moldova</em>: none identified</p> <p><em>Romania-Serbia</em>: none identified</p> <p><em>Romania-Ukraine</em>: the International Court of Justice ruled largely in favor of Romania in its dispute submitted in 2004 over Ukrainian-administered Zmiyinyy/Serpilor (Snake) Island and Black Sea maritime boundary delimitation; in 2007, Romania opposed Ukraine's construction of a navigation canal from the Danube border through Ukraine to the Black Sea, arguing that it runs through a unique ecological area, the Danube Delta</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 84,662 (Ukraine) (as of 15 August 2022)<br>
+_refugees (country of origin)_: 87,066 (Ukraine) (as of 22 August 2022)<br>
 _stateless persons_: 314 (mid-year 2021)<br>
 <strong>note:</strong> 10,447 estimated refugee and migrant arrivals (January 2015-July 2022)<br>
 

@@ -738,14 +738,14 @@ Indian Armed Forces: Army, Navy, Air Force, Coast Guard; Frontier Corps; Defense
 2.4% of GDP (2017) (approximately $83.8 billion)<br>
 
 **Military and security service personnel strengths**<br>
-information varies; approximately 1.45 million active personnel (est. 1.25 million Army; 65,000 Navy; 140,000 Air Force; 12,000 Coast Guard) (2022)<br>
+information varies; approximately 1.45 million active personnel (estimated 1.25 million Army; 65,000 Navy; 140,000 Air Force; 12,000 Coast Guard) (2022)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the inventory of the Indian Armed Forces consists mostly of Russian- and Soviet-origin equipment along with a smaller mix of Western and domestically-produced arms; since 2010, Russia has been the leading supplier of arms to India; other key suppliers included France, Israel, and the US; India's defense industry is capable of producing a range of air, land, missile, and naval weapons systems for both indigenous use and export (2022)<br>
+the inventory of the Indian Armed Forces consists mostly of Russian- and Soviet-origin equipment along with a smaller mix of Western and domestically-produced arms; since 2010, Russia has been the leading supplier of arms to India; other key suppliers included France, Israel, and the US; India's defense industry is capable of producing a range of air, land, missile, and naval weapons systems for both domestic use and export (2022)<br>
 
 **Military service age and obligation**<br>
 16-18 years of age for voluntary military service (Army 17.5, Air Force 17, Navy 16.5); no conscription (2022)<br>
-<strong>note 1:</strong> in June 2022, the Indian Government announced that it would begin recruiting 46,000 men aged 17.5-21 annually to serve on 4-year contracts; at the end of their tenure, 25% would be retained for longer terms of service, while the remainder would be forced to retire, although some of those leaving the service would be eligible to serve in the Coast Guard, the Merchant Navy, civilian positions in the Ministry of Defense, and in the paramilitary forces of the Ministry of Home Affairs, such as the Central Armed Police Forces and Assam Rifles<br><br><strong>note 2: </strong>as of 2022, women made up about .59% of the Army, 1.1% of the Air Force, and 6% of the Navy<br>
+<strong>note 1:</strong> in June 2022, the Indian Government announced that it would begin recruiting 46,000 men aged 17.5-21 annually to serve on 4-year contracts; at the end of their tenure, 25% would be retained for longer terms of service, while the remainder would be forced to leave the military, although some of those leaving would be eligible to serve in the Coast Guard, the Merchant Navy, civilian positions in the Ministry of Defense, and in the paramilitary forces of the Ministry of Home Affairs, such as the Central Armed Police Forces and Assam Rifles<br><br><strong>note 2: </strong>as of 2022, women made up about .59% of the Army, 1.1% of the Air Force, and 6% of the Navy<br>
 
 **Military deployments**<br>
 1,900 Democratic Republic of the Congo (MONUSCO); 110 Golan Heights (UNDOF); 900 Lebanon (UNIFIL); 2,350 South Sudan (UNMISS); 310 Sudan (UNISFA) (May 2022)<br>

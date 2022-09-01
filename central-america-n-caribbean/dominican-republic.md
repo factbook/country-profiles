@@ -708,7 +708,7 @@ the military is lightly armed with an inventory consisting mostly of older US eq
 <strong>note:</strong> as of 2021, women made up approximately 20% of the active duty military<br>
 
 **Military - note**<br>
-the military's primary focuses are countering illegal immigration and refugees along its 350-kilometer-long border with Haiti and interdicting air and maritime narcotics trafficking, as well as disaster relief (2022)<br>
+the military is primarily focused on countering illegal immigration and refugees along its 350-kilometer-long border with Haiti and interdicting air and maritime narcotics trafficking, as well as disaster relief (2022)<br>
 
 ## Transnational Issues
 

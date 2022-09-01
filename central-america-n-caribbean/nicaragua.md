@@ -684,13 +684,13 @@ Army of Nicaragua (Ejercito de Nicaragua, EN): Land Forces (Fuerza Terrestre); N
 approximately 12,000 active personnel (10,000 Army; 800 Navy; 1,200 Air Force) (2022)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the Nicaraguan military's inventory includes mostly second-hand Russian/Soviet-era equipment; since 2010, Russia is the leading arms supplier to Nicaragua (2022)<br>
+the Nicaraguan military's inventory includes mostly second-hand Russian/Soviet-era equipment; since 2010, Russia has been the leading arms supplier to Nicaragua (2022)<br>
 
 **Military service age and obligation**<br>
 18-30 years of age for voluntary military service; no conscription; tour of duty 18-36 months; requires Nicaraguan nationality and 6th-grade education (2022)<br>
 
 **Military - note**<br>
-the modern Army of Nicaragua was created in 1979 as the Sandinista Popular Army (1979-1984); prior to 1979, the military was known as the National Guard, which was organized and trained by the US in the 1920s and 1930s; the first commander of the National Guard, Anastasio SOMOZA Garc&iacute;a, seized power in 1937 and ran the country as a military dictator until his assassination in 1956; his sons ran the country either directly or through figureheads until the Sandinistas came to power in 1979; the defeated National Guard was disbanded by the Sandinistas (2022)<br>
+the modern Army of Nicaragua was created in 1979 as the Sandinista Popular Army (1979-1984); prior to 1979, the military was known as the National Guard, which was organized and trained by the US in the 1920s and 1930s; the first commander of the National Guard, Anastasio SOMOZA GARCIA, seized power in 1937 and ran the country as a military dictator until his assassination in 1956; his sons ran the country either directly or through figureheads until the Sandinistas came to power in 1979; the defeated National Guard was disbanded by the Sandinistas (2022)<br>
 
 ## Transnational Issues
 

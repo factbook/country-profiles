@@ -176,5 +176,5 @@ _2,438 to 3,047 m_: 1 (2021)<br>
 ## Military and Security
 
 **Military - note**<br>
-defense is the responsibility of the UK; Akrotiri (aka the Western Sovereign Base Area) has a full RAF base, headquarters for British Forces Cyprus, and the Episkopi Cantonment<br>
+defense is the responsibility of the UK; Akrotiri (aka the Western Sovereign Base Area) has a full Royal Air Force base, headquarters for British Forces Cyprus, and the Episkopi Cantonment<br>
 

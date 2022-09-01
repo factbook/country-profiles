@@ -360,7 +360,7 @@ _judge selection and term of office_: Court of Appeal and High Court chief justi
 _subordinate courts_: Land Court; magistrates' courts<br>
 
 **Political parties and leaders**<br>
-A New and United Guyana or ANUG [Ralph RAMKARRAN]<br>A Partnership for National Unity or APNU [Joseph HARMON]<br>Alliance for Change or AFC [Khemraj RAMJATTAN]<br>Justice for All Party [Chandra Narine SHARMA]<br>Liberty and Justice Party or LJP [Lenox SHUMAN]<br>National Independent Party or NIP [Saphier Husain SUBEDAR]<br>People's Progressive Party/Civic or PPP/C [Bharrat JAGDEO]<br>The New Movement or TNM [Dr. Asha KISSOON]<br>The United Force or TUF [Marissa NADIR]<br>United Republican Party or URP [Vishnu BANDHU]<br>
+A New and United Guyana or ANUG [Ralph RAMKARRAN]<br>A Partnership for National Unity or APNU [Joseph HARMON]<br>Alliance for Change or AFC [Khemraj RAMJATTAN]<br>Justice for All Party [Chandra Narine SHARMA]<br>Liberty and Justice Party or LJP [Lenox SHUMAN]<br>National Independent Party or NIP [Saphier Husain SUBEDAR]<br>People's Progressive Party/Civic or PPP/C [Dr. Bharrat JAGDEO]<br>The New Movement or TNM [Dr. Asha KISSOON]<br>The United Force or TUF [Marissa NADIR]<br>United Republican Party or URP [Vishnu BANDHU]<br>
 
 **International organization participation**<br>
 ACP, AOSIS, C, Caricom, CD, CDB, CELAC, FAO, G-77, IADB, IBRD, ICAO, ICCt, ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, IMO, Interpol, IOC, IOM, ISO (correspondent), ITU, LAES, MIGA, NAM, OAS, OIC, OPANAL, OPCW, PCA, Petrocaribe, PROSUR, UN, UNASUR, UNCTAD, UNESCO, UNIDO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
@@ -507,7 +507,7 @@ $4 billion (2019 est.) note: data are in current year dollars<br>
 $3.12 billion (2018 est.) note: data are in current year dollars<br>
 
 **Imports - partners**<br>
-United States 26%, Trinidad and Tobago 16%, Singapore 18%, Liberia 11%, China 5%, Norway 5% (2019)<br>
+United States 26%, Singapore 18%, Trinidad and Tobago 16%, Liberia 11%, China 5%, Norway 5% (2019)<br>
 
 **Imports - commodities**<br>
 ships, refined petroleum, excavation machinery, shipping containers, aircraft (2019)<br>
@@ -678,7 +678,7 @@ the Guyana Defense Force's limited inventory is mostly comprised of second-hand 
 18 years of age or older for voluntary military service; no conscription (2022)<br>
 
 **Military - note**<br>
-the Guyana Defense Force was established in 1965; its primary missions are defense of the country, assisting civil authorities with law and order as needed, and contributing to the economic development of the country; the GDF&rsquo;s ground force officers are trained at the British Royal Military Academy at Sandhurst, while coast guard officers receive training the British Royal Naval College (2022)<br>
+the Guyana Defense Force was established in 1965; its primary missions are defense of the country, assisting civil authorities with law and order as needed, and contributing to the economic development of the country; the GDF&rsquo;s ground force officers are trained at the British Royal Military Academy at Sandhurst, while coast guard officers receive training at the British Royal Naval College (2022)<br>
 
 ## Transnational Issues
 

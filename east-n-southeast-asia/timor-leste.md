@@ -344,7 +344,7 @@ _elections/appointments_: president directly elected by absolute majority popula
 _election results_: <em>2022</em>: José RAMOS-HORTA elected president in a run-off election -  RAMOS-HORTA (CNRT) 62.1%, Francisco GUTERRES (FRETILIN) 37.9%<br><br><em>2017</em>: Francisco GUTERRES (FRETILIN) 57.1%, António da CONCEICAO (PD) 32.46%<br>
 
 **Legislative branch**<br>
-_description_: unicameral National Parliament (65 seats; members directly elected in a single nationwide constituency by proportional representation vote to serve 5-year terms)<br>
+_description_: unicameral National Parliament (65 seats; members directly elected in a single nationwide constituency by closed, party-list proportional representation vote using the D'Hondt method to serve 5-year terms)<br>
 _elections_: last held on 12 May 2018 (next to be held in July 2023)<br>
 _election results_: percent of vote by party - AMP - 49.6%, FRETILIN 34.2%, PD 8.1%, DDF 5.5%, other 2.6%; seats by party - AMP 34, FRETILIN 23, PD 5, DDF 3; composition - men 39, women 26, percent of women 40%<br>
 

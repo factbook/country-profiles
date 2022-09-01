@@ -323,7 +323,7 @@ _chief of state_: President Nikenike VUROBARAVU (since 23 July 2022)<br>
 _head of government_: Prime Minister Bob LOUGHMAN (since 20 April 2020)<br>
 _cabinet_: Council of Ministers appointed by the prime minister, responsible to Parliament<br>
 _elections/appointments_: president indirectly elected by an electoral college consisting of Parliament and presidents of the 6 provinces; Vanuatu president serves a 5-year term; election last held on 23 July 2022 (next to be held in 2027); following legislative elections, the leader of the majority party or majority coalition usually elected prime minister by Parliament from among its members; election for prime minister last held on 20 April 2020 (next to be held following general elections in 2024)<br>
-_election results_: Nikenike VUROBARAVU elected president in the eighth round on 23 July 2022 with 48 votes;<br>Bob LOUGHMAN elected prime minister on 20 April 2020; Bob LOUGHMAN 31 votes, Ralph REGENVANU 21 votes<br>
+_election results_: Nikenike VUROBARAVU elected president in the eighth round on 23 July 2022 with 48 votes;<br>Bob LOUGHMAN elected prime minister on 20 April 2020; Bob LOUGHMAN (VP) 31 votes, Ralph REGENVANU (GJP) 21 votes<br>
 
 **Legislative branch**<br>
 _description_: unicameral Parliament (52 seats; members directly elected in 8 single-seat and 9 multi-seat constituencies by single non-transferable vote to serve 4-year terms (candidates in multi-seat constituencies can be elected with only 4% of the vote)<br>

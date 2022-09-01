@@ -691,7 +691,7 @@ Lao People's Armed Forces (LPAF): Lao People's Army (LPA, includes Riverine Forc
 information is limited and estimates vary; approximately 30,000 active duty troops (26,000 Army; 4,000 Air Force) (2022)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the LPAF is armed largely with weapons from the former Soviet Union; since 2010, China and Russia are the leading suppliers of military equipment to Laos (2021)<br>
+the LPAF is armed largely with weapons from the former Soviet Union; since 2010, China and Russia have been the leading suppliers of military equipment to Laos (2021)<br>
 
 **Military service age and obligation**<br>
 18 years of age for compulsory or voluntary military service; conscript service obligation - minimum 18 months (2021)<br>

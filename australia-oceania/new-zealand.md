@@ -341,7 +341,7 @@ _residency requirement for naturalization_: 3 years<br>
 _chief of state_: Queen ELIZABETH II (since 6 February 1952); represented by Governor-General Dame Cindy KIRO (since 21 October 2021)<br>
 _head of government_: Prime Minister Jacinda ARDERN (since 26 October 2017); Deputy Prime Minister Grant ROBERTSON (since 2 November 2020)<br>
 _cabinet_: Executive Council appointed by the governor-general on the recommendation of the prime minister<br>
-_elections/appointments_: the monarchy is hereditary; governor-general appointed by the monarch on the advice of the prime minister; following legislative elections, the leader of the majority party or majority coalition usually appointed prime minister by the governor-general; deputy prime minister appointed by the governor-general; note - Prime Minister ARDERN heads up a minority coalition government consisting of the Labor and New Zealand First parties with confidence and supply support from the Green Party<br>
+_elections/appointments_: the monarchy is hereditary; governor-general appointed by the monarch on the advice of the prime minister; following legislative elections, the leader of the majority party or majority coalition usually appointed prime minister by the governor-general; deputy prime minister appointed by the governor-general<br>
 
 **Legislative branch**<br>
 _description_: unicameral House of Representatives - commonly called Parliament (120 seats for 2020-23 term); 72 members directly elected in 65 single-seat constituencies and 7 Maori constituencies by simple majority vote and 48 directly elected by closed party-list proportional representation vote; members serve 3-year terms)<br>
@@ -689,10 +689,10 @@ New Zealand Defense Force (NZDF): New Zealand Army, Royal New Zealand Navy, Roya
 the New Zealand Defense Force (NZDF) has about 9,500 active duty troops (4,700 Army; 2,300 Navy; 2,500 Air Force) (2022)<br>
 
 **Military equipment inventories and acquisitions**<br>
-NZDF is equipped mostly with imported weapons and equipment from Western suppliers; the US is the leading provider since 2010 (2022)<br>
+the NZDF is equipped mostly with imported weapons and equipment from Western suppliers; the US has been the leading provider since 2010 (2022)<br>
 
 **Military service age and obligation**<br>
-17 years of age for voluntary military service (men and women); soldiers cannot be deployed until the age of 18; no conscription (2022)<br>
+17 years of age for men and women for voluntary military service; soldiers cannot be deployed until the age of 18; no conscription (2022)<br>
 <strong>note: </strong>New Zealand opened up all military occupations to women in 2000; in 2019, women accounted for about 18% of the uniformed full-time personnel<br>
 
 **Military deployments**<br>

@@ -687,11 +687,11 @@ Norwegian Armed Forces: Norwegian Army (Haeren), Royal Norwegian Navy (Kongelige
 approximately 23,000 active personnel (8,000 Army; 4,000 Navy; 4,000 Air Force; 7,000 other, including special operations, cyber, joint staff, intelligence, logistics support, active Home Guard, etc.); approximately 40,000 Home Guard (2022)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the Norwegian Armed Forces inventory includes mostly imported European and US weapons systems, as well as a limited mix of domestically-produced equipment, particularly small naval craft and surface-to-air missile systems; since 2010, the US is the leading supplier of weapons systems to Norway (2021)<br>
+the Norwegian Armed Forces inventory includes mostly imported European and US weapons systems, as well as a limited mix of domestically-produced equipment, particularly small naval craft and surface-to-air missile systems; since 2010, the US has been the leading supplier of weapons systems to Norway (2021)<br>
 
 **Military service age and obligation**<br>
 19-35 years of age for male and female selective compulsory military service; 17 years of age for male volunteers; 18 years of age for women; 19-month service obligation; conscripts first serve 12 months from 19-28, and then up to 4-5 refresher training periods until age 35, 44, 55, or 60 depending on rank and function (2021)<br>
-<strong>note 1: </strong>Norway conscripts about 8,000 individuals annually<br><br><strong>note 2:</strong> Norway was the first NATO country to allow females to serve in all combat arms branches of the military (1985); it also has an all-female special operations unit known as <em>Jegertroppen </em>(The Hunter Troop), which was established in 2014; as of 2019, women comprised about 14% of the military's full-time personnel<br>
+<strong>note 1: </strong>Norway conscripts about 8,000 individuals annually<br><br><strong>note 2:</strong> Norway was the first NATO country to allow females to serve in all combat arms branches of the military (1985); it also has an all-female special operations unit known as Jegertroppen (The Hunter Troop), which was established in 2014; as of 2019, women comprised about 14% of the military's full-time personnel<br>
 
 **Military deployments**<br>
 up to 190 Lithuania (NATO) (2022)<br>
@@ -706,6 +706,6 @@ Norway is a member of NATO and was one of the original 12 countries to sign the 
 <p><em>Norway-Antarctica</em>: Norway asserts a territorial claim in Antarctica (Queen Maud Land and its continental shelf)</p> <p><em>Norway-Russia</em>: Russia amended its 2001 CLCS submission in 2015 and 2021, each time delineating the outer limits of its continental shelf further into the Arctic Ocean; Norway and Russia signed a comprehensive maritime boundary agreement in 2010, ending a dispute over an area of the Barents Sea by dividing the territory equally</p> <p><em>Norway-Sweden</em>: none identified</p> <p> </p> <p> </p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 15,542 (Syria), 11,965 (Eritrea) (mid-year 2021); 23,623 (Ukraine) (as of 16 August 2022)<br>
+_refugees (country of origin)_: 15,542 (Syria), 11,965 (Eritrea) (mid-year 2021); 23,912 (Ukraine) (as of 19 August 2022)<br>
 _stateless persons_: 4,154 (mid-year 2021)<br>
 

@@ -379,7 +379,7 @@ _judge selection and term of office_: the court chief and justices were appointe
 _subordinate courts_: before 15 August 2021, consisted of Appeals Courts; Primary Courts; and Special Courts for issues including narcotics, security, property, family, and juveniles<br>
 
 **Political parties and leaders**<br>
-the Taliban’s so-called “interim government” includes mostly Taliban members and not other political parties; before 15 August, 2021, the Ministry of Justice had licensed 72 political parties as of April 2019 <p> </p> <p> </p> <p> </p> <p> </p><br>
+the Taliban&rsquo;s so-called &ldquo;interim government&rdquo; includes mostly Taliban members and not other political parties; before 15 August, 2021, the Ministry of Justice had licensed 72 political parties as of April 2019<br>
 
 **International organization participation**<br>
 before 15 August, 2021, Afghanistan was a member or participant in the following organizations: ADB, CICA, CP, ECO, EITI (candidate country), FAO, G-77, IAEA, IBRD, ICAO, ICC (NGOs), ICCt, ICRM, IDA, IDB, IFAD, IFC, IFRCS, ILO, IMF, Interpol, IOC, IOM, IPU, ISO (correspondent), ITSO, ITU, ITUC (NGOs), MIGA, NAM, OIC, OPCW, OSCE (partner), SAARC, SACEP, SCO (dialogue member), UN, UNAMA, UNCTAD, UNESCO, UNHCR, UNIDO, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>

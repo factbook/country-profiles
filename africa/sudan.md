@@ -706,7 +706,7 @@ Sudanese Armed Forces (SAF): Ground Force, Navy, Sudanese Air Force; Rapid Suppo
 information varies widely; estimated 100-125,000 active duty armed forces personnel; approximately 30-40,000 Rapid Support Forces (2022)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the SAF's inventory includes a mix of Chinese, Russian, Soviet-era, Ukrainian, and domestically-produced weapons systems; since 2010, the leading arms providers to the SAF are Belarus, China, Russia, and Ukraine; North Korea has also provided arms; Sudan has a domestic arms industry that manufactures ammunition, small arms, and armored vehicles, largely based on older Chinese and Russian systems (2022)<br>
+the SAF's inventory includes a mix of Chinese, Russian, Soviet-era, Ukrainian, and domestically-produced weapons systems; since 2010, the leading arms providers to the SAF have been Belarus, China, Russia, and Ukraine; North Korea has also provided arms; Sudan has a domestic arms industry that manufactures ammunition, small arms, and armored vehicles, largely based on older Chinese and Russian systems (2022)<br>
 
 **Military service age and obligation**<br>
 18-33 years of age for male and female compulsory or voluntary military service; 1-2 year service obligation (2022)<br>

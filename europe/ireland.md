@@ -325,10 +325,10 @@ _residency requirement for naturalization_: 4 of the previous 8 years<br>
 
 **Executive branch**<br>
 _chief of state_: President Michael D. HIGGINS (since 11 November 2011)<br>
-_head of government_: Taoiseach (Prime Minister) Miche&aacute;l MARTIN (since 27 June 2020); note - MARTIN will serve through December 2022 and will then be succeeded by Leo VARADKAR&nbsp;<br>
-_cabinet_: Cabinet nominated by the prime minister, appointed by the president, approved by the Dali Eireann (lower house of Parliament)&nbsp;<br>
+_head of government_: Taoiseach (Prime Minister) Miche&aacute;l MARTIN (since 27 June 2020); note - MARTIN will serve through December 2022 and will then be succeeded by Leo VARADKAR<br>
+_cabinet_: Cabinet nominated by the prime minister, appointed by the president, approved by the Dali Eireann (lower house of Parliament)<br>
 _elections/appointments_: president directly elected by majority popular vote for a 7-year term (eligible for a second term); election last held on 26 October 2018 (next to be held no later than November 2025); taoiseach (prime minister) nominated by the House of Representatives (Dail Eireann), appointed by the president<br>
-_election results_: Michael D. HIGGINS reelected president; percent of vote - Michael D. HIGGINS (independent) 55.8%, Peter CASEY (independent) 23.3%, Sean GALLAGHER (independent) 6.4%, Liadh NI RIADA (Sinn Fein) 6.4%, Joan FREEMAN (independent) 6%, Gavin DUFFY (independent) 2.2%<br>
+_election results_: <em>2018:</em> Michael D. HIGGINS reelected president; percent of vote - Michael D. HIGGINS (independent) 55.8%, Peter CASEY (independent) 23.3%, Sean GALLAGHER (independent) 6.4%, Liadh NI RIADA (Sinn Fein) 6.4%, Joan FREEMAN (independent) 6%, Gavin DUFFY (independent) 2.2%<br><br><em>2011: </em>Michael D. HIGGINS elected president in second round; percent of vote in first round - Michael D. HIGGINS (Labor) 39.6%, Sean GALLAGHER (independent) 28.5%, Martin McGuinness (Sinn Féin) 13.7%, Gay Mitchell (Fine Gael) 6.4%, David Norris (independent) 6.2%, Mary DAVIS (independent) 2.7%; percent of vote in second round - Michael D. HIGGINS 56.8%, Sean GALLAGHER 35.5%<br>
 
 **Legislative branch**<br>
 _description_: bicameral Parliament or Oireachtas consists of:<br>Senate or Seanad Eireann (60 seats; 49 members indirectly elected from 5 vocational panels of nominees by an electoral college, 11 appointed by the prime minister<br>House of Representatives or Dail Eireann (160 seats; members directly elected in multi-seat constituencies by proportional representation vote; all Parliament members serve 5-year terms)<br>
@@ -687,7 +687,7 @@ the Irish Defense Forces have a small inventory of imported weapons systems from
 
 **Military service age and obligation**<br>
 18-25 years of age for male and female voluntary military service recruits to the Defence Forces (18-27 years of age for the Naval Service); 18-26 for cadetship (officer) applicants; 12-year service (5 active, 7 reserves); Irish citizen, European Economic Area citizenship, or refugee status (2022)<br>
-<strong>note:</strong> as of 2019, women made up about 7% of the military's full-time personnel<br>
+<strong>note:</strong> as of 2021, women made up about 7% of the military's full-time personnel<br>
 
 **Military deployments**<br>
 130 Golan Heights (UNDOF); 320 Lebanon (UNIFIL) (May 2022)<br>
@@ -707,7 +707,7 @@ Continuity Irish Republican Army; New Irish Republican Army; Islamic State of Ir
 <p><em>Ireland-Denmark</em>: Ireland, Iceland, and the UK dispute Denmark's claim that the Faroe Islands' continental shelf extends beyond 200 nm; Iceland, Norway, and the Faroe Islands signed an agreement in 2019 extending the Faroe Islands’ northern continental shelf area</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 45,074 (Ukraine) (as of 15 August 2022)<br>
+_refugees (country of origin)_: 45,790 (Ukraine) (as of 22 August 2022)<br>
 _stateless persons_: 107 (mid-year 2021)<br>
 
 **Trafficking in persons**<br>

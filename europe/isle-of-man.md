@@ -278,8 +278,8 @@ see United Kingdom<br>
 _chief of state_: Lord of Mann Queen ELIZABETH II (since 6 February 1952); represented by Lieutenant Governor Sir John LORIMER (since 29 September 2021)<br>
 _head of government_: Chief Minister Alfred CANNAN (since 12 October 2021)<br>
 _cabinet_: Council of Ministers appointed by the lieutenant governor<br>
-_elections/appointments_: the monarchy is hereditary; lieutenant governor appointed by the monarch; chief minister indirectly elected by the Tynwald for a 5-year term (eligible for second term); election last held on 23 September 2021<br>
-_election results_: Alfred CANNAN (independent) elected chief minister; Tynwald House of Keys vote - 21 of 24<br>
+_elections/appointments_: the monarchy is hereditary; lieutenant governor appointed by the monarch; chief minister indirectly elected by the Tynwald for a 5-year term (eligible for second term); election last held on 23 September 2021 (next to be held in 2026)<br>
+_election results_: <em>2021:</em> Alfred CANNAN (independent) elected chief minister; Tynwald House of Keys vote - 21 of 24<br><br><em>2016:</em> Howard QUAYLE elected chief minister; Tynwald House of Keys vote - 21 of 33 <br>
 
 **Legislative branch**<br>
 _description_: bicameral Tynwald or the High Court of Tynwald consists of:<br>Legislative Council (11 seats; includes the President of Tynwald, 2 ex-officio members - the Lord Bishop of Sodor and Man and the attorney general (non-voting) - and 8 members indirectly elected by the House of Keys with renewal of 4 members every 2 years; elected members serve 4-year terms) <br>House of Keys (24 seats; 2 members directly elected by simple majority vote from 12 constituencies to serve 5-year terms)<br>
@@ -292,7 +292,7 @@ _judge selection and term of office_: deemsters appointed by the Lord Chancellor
 _subordinate courts_: High Court; Court of Summary Gaol Delivery; Summary Courts; Magistrate's Court; specialized courts<br>
 
 **Political parties and leaders**<br>
-<p>Green Party [Andrew LANGAN-NEWTON]<br>Liberal Vannin Party [Lawrie HOOPER]<br>Manx Labor Party [Joney FARAGHER] <br>Mec Vannin [Mark KERMODE] (sometimes referred to as the Manx Nationalist Party)</p><br>
+Green Party [Andrew LANGAN-NEWTON]<br>Liberal Vannin Party [Lawrie HOOPER]<br>Manx Labor Party [Joney FARAGHER] <br>Mec Vannin [Mark KERMODE] (sometimes referred to as the Manx Nationalist Party)<br>
 <strong>note:</strong> most members sit as independents<br>
 
 **International organization participation**<br>

@@ -725,7 +725,7 @@ Armed Forces of Bangladesh (aka Bangladesh Defense Force): Bangladesh Army, Bang
 information varies; approximately 165,000 total active personnel (135,000 Army; 15,000 Navy; 15,000 Air Force) (2022)<br>
 
 **Military equipment inventories and acquisitions**<br>
-much of the military's inventory is comprised of Chinese- and Russian-origin equipment, with a smaller mix from a variety of other suppliers; since 2010, China is the leading provider of arms to Bangladesh; as of 2022, Bangladesh was undertaking a large defense modernization program, with a focus on naval acquisitions (2022)<br>
+much of the military's inventory is comprised of Chinese- and Russian-origin equipment, with a smaller mix from a variety of other suppliers; since 2010, China has been the leading provider of arms to Bangladesh; as of 2022, Bangladesh was undertaking a large defense modernization program, with a focus on naval acquisitions (2022)<br>
 
 **Military service age and obligation**<br>
 16-21 years of age for voluntary military service; Bangladeshi nationality and 10th grade education required; officers: 17-21 years of age, Bangladeshi nationality, and 12th grade education required (2022)<br>

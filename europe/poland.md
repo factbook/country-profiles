@@ -715,11 +715,11 @@ Polish Armed Forces: Land Forces (Wojska Ladowe), Navy (Marynarka Wojenna), Air 
 1.9% of GDP (2017) (approximately $14.9 billion)<br>
 
 **Military and security service personnel strengths**<br>
-approximately 120,000 active duty personnel (65,000 Army; 7,000 Navy; 15,000 Air Force; 3,000 Special Forces; 25,000 joint service/other; 5,000 Territorial Defense Forces); approximately 25,000 other Territorial Defense Forces (reserves) (2022)<br>
+approximately 120,000 active duty personnel (65,000 Army; 7,000 Navy; 15,000 Air Force; 3,000 Special Forces; 25,000 joint service/other; 5,000 active Territorial Defense Forces); approximately 25,000 other Territorial Defense Forces (reserves) (2022)<br>
 <strong>note: </strong>in June 2019, the Polish Government approved a plan to increase the size of the military over a period of 10 years to over 200,000 troops, including doubling the size of the Territorial Defense Forces; in 2021, it announced additional plans to increase the size of military to over 300,000 personnel<br>
 
 **Military equipment inventories and acquisitions**<br>
-the inventory of the Polish Armed Forces consists of a mix of Soviet-era and more modern Western weapons systems; since 2010, the leading suppliers of armaments include Finland, Germany, Italy, and the US (2021)<br>
+the inventory of the Polish Armed Forces consists of a mix of Soviet-era and more modern Western weapons systems; since 2010, the leading suppliers of armaments have included Finland, Germany, Italy, and the US (2021)<br>
 <strong>note:</strong> in late 2018, Poland announced a 7-year (through 2026) approximately $50 billion defense modernization plan that would include such items as 5th generation combat aircraft, unmanned aerial vehicles, rocket artillery, helicopters, submarines, frigates, and improved cyber security<br>
 
 **Military service age and obligation**<br>
@@ -745,7 +745,7 @@ Islamic State of Iraq and ash-Sham (ISIS)<br>
 <p><em>Poland-Belarus-Ukraine</em>: as a member state that forms part of the EU's external border, Poland has implemented the strict Schengen border rules to restrict illegal immigration and trade along its eastern borders with Belarus and Ukraine</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 9,870 (Russia) (2019); 1,274,130 (Ukraine) (as of 16 August 2022)<br>
+_refugees (country of origin)_: 9,870 (Russia) (2019); 1,338,339 (Ukraine) (as of 23 August 2022)<br>
 _stateless persons_: 1,389 (mid-year 2021)<br>
 
 **Illicit drugs**<br>

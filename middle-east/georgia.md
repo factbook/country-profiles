@@ -349,7 +349,7 @@ _judge selection and term of office_: Supreme Court judges nominated by the High
 _subordinate courts_: Courts of Appeal; regional (town) and district courts<br>
 
 **Political parties and leaders**<br>
-Alliance of Patriots [Irma INASHVILI]<br>Citizens Party [Aleko ELISASHVILI]<br>European Georgia-Movement for Liberty [Davit BAKRADZE]<br>European Socialists [Fridon INJIA]<br>For Georgia [Giorgi GAKHARIA]<br>Georgian Dream-Democratic Georgia [Irakli KOBAKHIDZE]<br>Girchi-More Freedom [Zurab JAPARIDZE]<br>Labor Party [Shalva NATELASHVILI]<br>Lelo for Georgia [Mamuka KHAZARADZE]<br>New Political Centre-Girchi [Iago KHVICHIA]<br>Republican Party [Khatuna SAMNIDZE]<br>Strategy Aghmashenebeli [Giorgi VASHADZE]<br>United National Movement or UNM [Nikanor "Nika" MELIA]<br>
+Alliance of Patriots [Irma INASHVILI]<br>Citizens Party [Aleko ELISASHVILI]<br>European Georgia-Movement for Liberty [Giga BOKERIA]<br>European Socialists [Fridon INJIA]<br>For Georgia [Giorgi GAKHARIA]<br>Georgian Dream-Democratic Georgia [Irakli KOBAKHIDZE]<br>Girchi-More Freedom [Zurab JAPARIDZE]<br>Labor Party [Shalva NATELASHVILI]<br>Lelo for Georgia [Mamuka KHAZARADZE]<br>New Political Centre-Girchi [Iago KHVICHIA]<br>Republican Party [Khatuna SAMNIDZE]<br>Strategy Aghmashenebeli [Giorgi VASHADZE]<br>United National Movement or UNM [Nikanor "Nika" MELIA]<br>
 
 **International organization participation**<br>
 ADB, BSEC, CD, CE, CPLP (associate), EAPC, EBRD, FAO, G-11, GCTU, GUAM, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ISO (correspondent), ITSO, ITU, ITUC (NGOs), MIGA, OAS (observer), OIF (observer), OPCW, OSCE, PFP, SELEC (observer), UN, UNCTAD, UNESCO, UNIDO, UNWTO, UPU, WCO, WHO, WIPO, WMO, WTO<br>
@@ -693,7 +693,7 @@ the Georgian Defense Forces are equipped mostly with older Russian and Soviet-er
 <strong>note 1: </strong>approximately 6-7,000 individuals are called up annually for conscription for service; approximately 25% enter the Defense Forces, while the remainder serve in the Ministry of Internal Affairs or as prison guards in the Ministry of Corrections<br><br><strong>note 2:</strong> as of 2019, women made up about 6% of the military's full-time personnel<br>
 
 **Military - note**<br>
-as of 2022, approximately 7-10,000 Russian troops continued to occupy the breakaway regions of Abkhazia and South Ossetia<br>
+as of 2022, up to 10,000 Russian troops continued to occupy the breakaway regions of Abkhazia and South Ossetia<br>
 
 ## Transnational Issues
 
@@ -701,7 +701,7 @@ as of 2022, approximately 7-10,000 Russian troops continued to occupy the breaka
 <p>Russia's military support and subsequent recognition of Abkhazia and South Ossetia independence in 2008 continue to sour relations with Georgia</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 25,670 (Ukraine) (as of 16 August 2022)<br>
+_refugees (country of origin)_: 26,377 (Ukraine) (as of 23 August 2022)<br>
 _IDPs_: 305,000 (displaced in the 1990s as a result of armed conflict in the breakaway republics of Abkhazia and South Ossetia; displaced in 2008 by fighting between Georgia and Russia over South Ossetia) (2021)<br>
 _stateless persons_: 534 (mid-year 2021)<br>
 

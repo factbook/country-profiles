@@ -346,7 +346,7 @@ _chief of state_: President Alejandro GIAMMATTEI (since 14 January 2020); Vice P
 _head of government_: President Alejandro GIAMMATTEI (since 14 January 2020); Vice President&nbsp;Cesar Guillermo CASTILLO Reyes&nbsp;(since 14 January 2020)<br>
 _cabinet_: Council of Ministers appointed by the president<br>
 _elections/appointments_: president and vice president directly elected on the same ballot by absolute majority popular vote in 2 rounds if needed for a 4-year term (not eligible for consecutive terms); election last held on 16 June 2019 with a runoff on 11 August 2019 (next to be held in June 2023)<br>
-_election results_: <em><br>2019:</em> Alejandro GIAMMATTEI elected president; percent of vote in first round - Sandra TORRES (UNE) 25.54%, Alejandro GIAMMATTEI (VAMOS) 13.95%, Edmond MULET (PHG) 11.21%, Thelma CABRERA (MLP) 10.37%, Roberto ARZU (PAN-PODEMOS) 6.08%; percent of vote in second round - Alejandro GIAMMATTEI (VAMOS) 58%, Sandra TORRES (UNE) 42%<br><br><em>2015:</em> Jimmy Ernesto MORALES Cabrera elected president in second round; percent of vote in first round - Jimmy Ernesto MORALES Cabrera (FNC) 23.9%, Sandra TORRES (UNE) 19.8%, Manuel BALDIZON (LIDER) 19.6%, other 36.7%; percent of vote in second round - Jimmy Ernesto MORALES Cabrera 67.4%, Sandra TORRES 32.6%<br>
+_election results_: <em><br>2019:</em> Alejandro GIAMMATTEI elected president; percent of vote in first round - Sandra TORRES (UNE) 25.5%, Alejandro GIAMMATTEI (VAMOS) 14%, Edmond MULET (PHG) 11.2%, Thelma CABRERA (MLP) 10.4%, Roberto ARZU (PAN-PODEMOS) 6.1%, other 32.8%; percent of vote in second round - Alejandro GIAMMATTEI (VAMOS) 58%, Sandra TORRES (UNE) 42%<br><br><em>2015:</em> Jimmy Ernesto MORALES Cabrera elected president in second round; percent of vote in first round - Jimmy Ernesto MORALES Cabrera (FNC) 23.9%, Sandra TORRES (UNE) 19.8%, Manuel BALDIZON (LIDER) 19.6%, other 36.7%; percent of vote in second round - Jimmy Ernesto MORALES Cabrera 67.4%, Sandra TORRES 32.6%<br>
 
 **Legislative branch**<br>
 _description_: unicameral Congress of the Republic or Congreso de la Republica (160 seats; 128 members directly elected in multi-seat constituencies in the country's 22 departments and 32 directly elected in a single nationwide constituency by closed party-list proportional representation vote, using the D'Hondt method; members serve 4-year terms)<br>
@@ -359,7 +359,7 @@ _judge selection and term of office_: Supreme Court magistrates elected by the C
 _subordinate courts_: Appellate Courts of Accounts, Contentious Administrative Tribunal, courts of appeal, first instance courts, child and adolescence courts, minor or peace courts<br>
 
 **Political parties and leaders**<br>
-Bienestar Nacional or BIEN [Fidel REYES LEE]<br>Citizen Prosperity or PC [Hernan MEJIA and Jorge GARCIA SILVA]<br>Commitment, Renewal, and Order or CREO [Rodolfo NEUTZE]<br>Everyone Together for Guatemala or TODOS [Felipe ALEJOS]<br>Guatemalan National Revolutionary Unity or URNG-MAIZ or URNG [Walter FELIX]<br>Humanist Party of Guatemala or PHG [Rudio MERIDA]<br>Movement for the Liberation of Peoples or MLP [Thelma CABRERA and Vincenta JERONIMO]<br>Movimiento Semilla or SEMILLA [Cesar AREVALO DE LEON and Samuel PEREZ]<br>National Advancement Party or PAN [Manuel CONDE]<br>National Convergence Front or FCN-NACION [Javier HERNANDEZ]<br>National Unity for Hope or UNE [Sandra TORRES and Jorge VARGAS]<br>Nationalist Change Union or UCN [Carlos ROJAS and Sofia HERNANDEZ]<br>PODEMOS [Jose LEON]<br>Political Movement Winaq or Winaq [Sonia GUTIERREZ Raguay]<br>Value or VALOR [Zury RIOS and Lucrecia MARROQUIN]<br>Vamos por una Guatemala Diferente or VAMOS [Alejandro GIAMMATTEI]<br>Victory or VICTORIA [Abraham RIVERA and his four sons  Amilcar, Juan, Manuel and Edgar]<br>Vision with Values or VIVA [Armando Damian CASTILLO Alvarado]<br>
+Bienestar Nacional or BIEN [Fidel REYES LEE]<br>Citizen Prosperity or PC [Hernan MEJIA and Jorge GARCIA SILVA]<br>Commitment, Renewal, and Order or CREO [Rodolfo NEUTZE]<br>Everyone Together for Guatemala or TODOS [Felipe ALEJOS]<br>Guatemalan National Revolutionary Unity or URNG-MAIZ or URNG [Walter FELIX]<br>Humanist Party of Guatemala or PHG [Rudio MERIDA]<br>Movement for the Liberation of Peoples or MLP [Thelma CABRERA and Vincenta JERONIMO]<br>Movimiento Semilla or SEMILLA [Samuel PEREZ Alvarez]<br>National Advancement Party or PAN [Manuel CONDE]<br>National Convergence Front or FCN-NACION [Javier HERNANDEZ]<br>National Unity for Hope or UNE [Sandra TORRES and Jorge VARGAS]<br>Nationalist Change Union or UCN [Carlos ROJAS and Sofia HERNANDEZ] (dissolved 16 December 2021)<br>PODEMOS [Jose LEON]<br>Political Movement Winaq or Winaq [Sonia GUTIERREZ Raguay]<br>Value or VALOR [Zury RIOS and Lucrecia MARROQUIN]<br>Vamos por una Guatemala Diferente or VAMOS [Alejandro GIAMMATTEI]<br>Victory or VICTORIA [Abraham RIVERA and his four sons  Amilcar, Juan, Manuel, and Edgar]<br>Vision with Values or VIVA [Armando Damian CASTILLO Alvarado]<br>
 
 **International organization participation**<br>
 BCIE, CACM, CD, CELAC, EITI (compliant country), FAO, G-24, G-77, IADB, IAEA, IBRD, ICAO, ICC (national committees), ICCt (signatory), ICRM, IDA, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ISO (correspondent), ITSO, ITU, ITUC (NGOs), LAES, LAIA (observer), MIGA, MINUSTAH, MONUSCO, NAM, OAS, OPANAL, OPCW, Pacific Alliance (observer), PCA, Petrocaribe, SICA, UN, UNCTAD, UNESCO, UNIDO, UNIFIL, Union Latina, UNISFA, UNITAR, UNMISS, UNOCI, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
@@ -691,7 +691,7 @@ _major seaport(s)_: Puerto Quetzal, Santo Tomas de Castilla<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Army of Guatemala (Ejercito de Guatemala): Land Forces (Fuerzas de Tierra), Naval Forces (Fuerza de Mar), and Air Force (Fuerza de Aire); Ministry of Interior: National Civil Police (Policia Nacional Civil; includes paramilitary units) (2022)<br>
+Army of Guatemala (Ejercito de Guatemala): Land Forces (Fuerzas de Tierra), Naval Forces (Fuerzas de Mar), and Air Force (Fuerza de Aire); Ministry of Government (Interior): National Civil Police (Policia Nacional Civil; includes paramilitary units) (2022)<br>
 
 **Military expenditures**<br>
 0.4% of GDP (2021 est.)<br>
@@ -707,14 +707,14 @@ information varies; approximately 20,000 active military personnel (18,000 Land 
 the Guatemalan military inventory is small and mostly comprised of older US equipment; since 2010, Guatemala has received small amounts of equipment from several countries, including the US (2022)<br>
 
 **Military service age and obligation**<br>
-all male citizens between the ages of 18 and 50 are eligible for military service; in practice, most of the force is volunteer, however, a selective draft system is employed, resulting in a small portion of 17-21 year-olds conscripted; conscript service obligation varies from 1 to 2 years; women may volunteer (2022)<br>
-<strong>note:</strong> as of 2017, women made up an approximately 5-10% of the active military<br>
+all male citizens between the ages of 18 and 50 are eligible for military service; in practice, most of the force is volunteer, however, a selective draft system is employed, resulting in a small portion of 17-21 year-olds being conscripted; conscript service obligation varies from 1 to 2 years; women may volunteer (2022)<br>
+<strong>note:</strong> as of 2017, women comprised up to 10% of the active military<br>
 
 **Military deployments**<br>
 155 Democratic Republic of the Congo (MONUSCO) (May 2022)<br>
 
 **Military - note**<br>
-since the 2000s, the Guatemalan Government has used the Army to support the National Civil Police (PNC; under the Ministry of Government) in internal security operations (as permitted by the constitution) to combat organized crime, gang violence, and narco-trafficking <br><br>the military held power during most of the country’s 36-year civil war (1960-1996) and conducted a campaign of widespread violence and repression, particularly against the country’s majority indigenous population; more than 200,000 people were estimated to have been killed or disappeared during the conflict (2022)<br>
+since the 2000s, the Guatemalan Government has used the Army to support the National Civil Police in internal security operations (as permitted by the constitution) to combat organized crime, gang violence, and narco-trafficking <br><br>the military held power during most of Guatemala’s 36-year civil war (1960-1996) and conducted a campaign of widespread violence and repression, particularly against the country’s majority indigenous population; more than 200,000 people were estimated to have been killed or disappeared during the conflict (2022)<br>
 
 ## Transnational Issues
 

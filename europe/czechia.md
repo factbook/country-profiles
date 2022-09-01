@@ -692,7 +692,7 @@ Czech Armed Forces: Land Forces; Air Forces; Cyber Forces; Special Forces (2022)
 approximately 26,000 active personnel (20,000 Army; 6,000 Air Force) (2022)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the Czech military has a mix of Soviet-era and more modern equipment, mostly of Western European origin; since 2010, the leading suppliers of military equipment to Czechia are Austria and Spain (2021)<br>
+the Czech military has a mix of Soviet-era and more modern equipment, mostly of Western European origin; since 2010, the leading suppliers of military equipment to Czechia have been Austria and Spain (2021)<br>
 
 **Military service age and obligation**<br>
 18-28 years of age for male and female voluntary military service; conscription abolished 2004 (2021)<br>
@@ -711,7 +711,7 @@ Czechia joined NATO in 1999; Czechia, Hungary, and Poland were invited to begin 
 <p>none</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 413,121 (Ukraine) (as of 16 August 2022)<br>
+_refugees (country of origin)_: 415,859 (Ukraine) (as of 22 August 2022)<br>
 _stateless persons_: 1,498 (mid-year 2021)<br>
 
 **Illicit drugs**<br>

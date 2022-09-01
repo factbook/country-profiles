@@ -320,7 +320,7 @@ _chief of state_: President Sandra MASON (since 30 November 2021)<br>
 _head of government_: Prime Minister Mia MOTTLEY (since 25 May 2018)<br>
 _cabinet_: Cabinet appointed by the president on the advice of the prime minister<br>
 _elections/appointments_: the president is elected by an electoral college of both Houses of Parliament for a four year renewable term; election last held 20 October 2021; following legislative elections, the leader of the majority party or leader of the majority coalition usually appointed prime minister by the president; the prime minister recommends the deputy prime minister<br>
-_election results_: Sandra MASON elected as first president on 20 October 2021 to take office on 30 November 2021<br>
+_election results_: Sandra MASON elected as first president on 20 October 2021<br>
 
 **Legislative branch**<br>
 _description_: bicameral Parliament consists of:<br>Senate (21 seats - 18 for current term; members appointed by the president - 12 on the advice of the prime minister, 2 on the advice of the opposition leader, and 7 at the discretion of the president) <br>House of Assembly (30 seats; members directly elected in single-seat constituencies by simple majority vote to serve 5-year terms)<br>
@@ -645,7 +645,7 @@ the Netherlands provide the BDF's major equipment inventory (maritime patrol boa
 voluntary service only (men and women); 17 years, 9 months to 17 years, 11 months with letter of consent from a parent or guardian, or be in the age range of 18-25 years at the start of recruit training; citizens of Barbados by descent or naturalization (2022)<br>
 
 **Military - note**<br>
-<p>Barbados has been a member of the Caribbean Regional Security System (RSS) since its creation in 1982; RSS signatories (Antigua and Barbuda, Dominica, Grenada, Saint Kitts and Nevis, Saint Lucia, and Saint Vincent and the Grenadines) agreed to prepare contingency plans and assist one another, on request, in national emergencies, prevention of smuggling, search and rescue, immigration control, fishery protection, customs and excise control, maritime policing duties, protection of off-shore installations, pollution control, national and other disasters, and threats to national security; the RSS is headquartered in Barbados</p> (2022)<br>
+Barbados has been a member of the Caribbean Regional Security System (RSS) since its creation in 1982; RSS signatories (Antigua and Barbuda, Dominica, Grenada, Saint Kitts and Nevis, Saint Lucia, and Saint Vincent and the Grenadines) agreed to prepare contingency plans and assist one another, on request, in national emergencies, prevention of smuggling, search and rescue, immigration control, fishery protection, customs and excise control, maritime policing duties, protection of off-shore installations, pollution control, national and other disasters, and threats to national security; the RSS is headquartered in Barbados (2022)<br>
 
 ## Transnational Issues
 

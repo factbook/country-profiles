@@ -695,7 +695,7 @@ approximately 7,000 active duty personnel; approximately 15,000 Defense League (
 the Estonian Defense Forces have a limited inventory of Soviet-era and more recently acquired modern weapons systems, largely from western European countries, particularly France and the Netherlands (2021)<br>
 
 **Military service age and obligation**<br>
-men 18-27 for compulsory military or governmental service, conscript service requirement 8-11 months depending on education; NCOs, reserve officers, and specialists serve 11 months; women can volunteer and as of 2018, women could serve in any branch of the military (2021)<br>
+men 18-27 for compulsory military or governmental service, conscript service requirement 8-11 months depending on education; non-commissioned officers, reserve officers, and specialists serve 11 months; women can volunteer and as of 2018, women could serve in any branch of the military (2021)<br>
 <strong>note:</strong> conscripts comprise approximately 3,000-3,300 of the Estonian military's 7,000 active duty personnel and serve in all branches, except for the Air Force, which does not have conscripts; in 2020, women comprised about 10% of the full-time professional military force<br>
 
 **Military - note**<br>
@@ -707,7 +707,7 @@ Estonia became a member of NATO in 2004<br><br>since 2017, Estonia has hosted a 
 <p>Russia and Estonia in May 2005 signed a technical border agreement, but Russia in June 2005 recalled its signature after the Estonian parliament added to its domestic ratification act a historical preamble referencing the Soviet occupation and Estonia's pre-war borders under the 1920 Treaty of Tartu; Russia contends that the preamble allows Estonia to make territorial claims on Russia in the future, while Estonian officials deny that the preamble has any legal impact on the treaty text; Russia demands better treatment of the Russian-speaking population in Estonia; as a member state that forms part of the EU's external border, Estonia implements strict Schengen border rules with Russia</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 50,491 (Ukraine) (as of 16 August 2022)<br>
+_refugees (country of origin)_: 51,501 (Ukraine) (as of 23 August 2022)<br>
 _stateless persons_: 71,873 (mid-year 2021); note - following independence in 1991, automatic citizenship was restricted to those who were Estonian citizens prior to the 1940 Soviet occupation and their descendants; thousands of ethnic Russians remained stateless when forced to choose between passing Estonian language and citizenship tests or applying for Russian citizenship; one reason for demurring on Estonian citizenship was to retain the right of visa-free travel to Russia; stateless residents can vote in local elections but not general elections; stateless parents who have been lawful residents of Estonia for at least five years can apply for citizenship for their children before they turn 15 years old<br>
 
 **Illicit drugs**<br>

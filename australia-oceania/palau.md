@@ -568,7 +568,7 @@ _major seaport(s)_: Koror<br>
 no regular military forces; the Ministry of Justice includes divisions/bureaus for public security, police functions, and maritime law enforcement<br>
 
 **Military equipment inventories and acquisitions**<br>
-since 2018, Australia and Japan have provided patrol boats to the Palau's Division of Marine Law Enforcement (2021)<br>
+since 2018, Australia and Japan have provided patrol boats to Palau's Division of Marine Law Enforcement (2021)<br>
 
 **Military - note**<br>
 under a 1994 Compact of Free Association between Palau and the US, the US until 2044 is responsible for the defense of Palaus and the US military is granted access to the islands, but it has not stationed any military forces there<br>

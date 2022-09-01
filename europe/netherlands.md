@@ -343,7 +343,7 @@ _residency requirement for naturalization_: 5 years<br>
 18 years of age; universal<br>
 
 **Executive branch**<br>
-_chief of state_: King WILLEM-ALEXANDER (since 30 April 2013); Heir Apparent Princess Catharina-Amalia (daughter of King WILLEM-ALEXANDER, born 7 December 2003)<br>
+_chief of state_: King WILLEM-ALEXANDER (since 30 April 2013); Heir Apparent Princess CATHARINA-AMALIA (daughter of King WILLEM-ALEXANDER, born 7 December 2003)<br>
 _head of government_: Prime Minister Mark RUTTE (since 14 October 2010); Deputy Prime Ministers Sigrid KAAG and Wopke HOEKSTRA (since 10 January 2022) and Carola SCHOUTEN (since 26 October 2017); note - Mark RUTTE heads his fourth cabinet<br>
 _cabinet_: Council of Ministers appointed by the monarch<br>
 _elections/appointments_: the monarchy is hereditary; following Second Chamber elections, the leader of the majority party or majority coalition is usually appointed prime minister by the monarch; deputy prime ministers are appointed by the monarch<br>
@@ -703,7 +703,7 @@ approximately 40,000 active duty personnel (20,000 Army; 7,500 Navy; 6,500 Air F
 <strong>note:</strong> the Navy includes about 2,300 marines<br>
 
 **Military equipment inventories and acquisitions**<br>
-the inventory of the Netherlands Armed Forces consists of a mix of domestically-produced and modern European- and US-sourced equipment; since 2010, the US is the leading supplier of weapons systems to the Netherlands; the Netherlands has an advanced domestic defense industry that focuses on armored vehicles, naval ships, and air defense systems; it also participates with the US and other European countries on joint development and production of advanced weapons systems (2021)<br>
+the inventory of the Netherlands Armed Forces consists of a mix of domestically-produced and modern European- and US-sourced equipment; since 2010, the US has been the leading supplier of weapons systems to the Netherlands; the Netherlands has an advanced domestic defense industry that focuses on armored vehicles, naval ships, and air defense systems; it also participates with the US and other European countries on joint development and production of advanced weapons systems (2021)<br>
 
 **Military service age and obligation**<br>
 17 years of age for an all-volunteer force; conscription remains in place, but the requirement to show up for compulsory military service was suspended in 1997 (2021)<br>

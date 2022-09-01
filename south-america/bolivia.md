@@ -722,7 +722,7 @@ Bolivian Armed Forces: Bolivian Army (Ejercito de Boliviano, EB), Bolivian Naval
 information varies widely; approximately 40,000 active troops (28,000 Army; 5,000 Navy; 7,000 Air Force); note - a considerable portion of the Navy personnel are marines and naval police; approximately 40,000 National Police (2022)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the Bolivian Armed Forces are equipped with a mix of mostly older Brazilian, Chinese, European, and US equipment; since 2010, China and France are the leading suppliers of military hardware to Bolivia (2022)<br>
+the Bolivian Armed Forces are equipped with a mix of mostly older Brazilian, Chinese, European, and US equipment; since 2010, China and France have been the leading suppliers of military hardware to Bolivia (2022)<br>
 
 **Military service age and obligation**<br>
 compulsory for all men between the ages of 18 and 22; men can volunteer from the age of 16, women from 18; service is for one year; Search and Rescue service can be substituted for citizens who have reached the age of compulsory military service; duration of this service is 2 years (2022)<br>

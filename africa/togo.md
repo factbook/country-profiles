@@ -365,7 +365,7 @@ _election results_: Faure GNASSINGBE reelected president; percent of vote - Faur
 **Legislative branch**<br>
 _description_: unicameral National Assembly or Assemblee Nationale (91 seats; members directly elected in multi-seat constituencies by closed, party-list proportional representation vote to serve 5-year terms)<br>
 _elections_: last held on 20 December 2018 (next to be held in 2023)<br>
-_election results_: percent of vote by coalition/party - NA; seats by party - UNIR 59, UFC 6, NET 3, MPDD 3, other 2, independent 18; composition - men 75, women 16, percent of women 17.6%<br>
+_election results_: percent of vote by coalition/party - NA; seats by party - UNIR 59, UFC 6, NET 3, MPDD 3, other 2, independent 18; composition - men 74, women 17, percent of women 18.7%<br>
 
 **Judicial branch**<br>
 _highest courts_: Supreme Court or Cour Supreme (organized into criminal and administrative chambers, each with a chamber president and advisors); Constitutional Court (consists of 9 judges, including the court president)<br>

@@ -343,10 +343,11 @@ the Vatican Apostolic Library is one of the world's oldest libraries, formally e
 ## Military and Security
 
 **Military and security forces**<br>
-Pontifical Swiss Guard Corps (Corpo della Guardia Svizzera Pontificia); the Gendarmerie Corps of Vatican City (Corpo della Gendarmeriais) is a police force that helps augment the Pontifical Swiss Guard Corps during the Pope&rsquo;s appearances, as well as providing general security, traffic direction, and investigative duties for the Vatican City State (2022)<br>
+the Pontifical Swiss Guard Corps (Corpo della Guardia Svizzera Pontificia) serves as the de facto military force of Vatican City; the Gendarmerie Corps of Vatican City (Corpo della Gendarmeriais) is a police force that helps augment the Pontifical Swiss Guard Corps during the Pope’s appearances, as well as providing general security, traffic direction, and investigative duties for the Vatican City State (2022)<br>
+<strong>note: </strong>the Swiss Guard Corps has protected the Pope and his residence since 1506<br>
 
 **Military service age and obligation**<br>
-Pontifical Swiss Guard Corps: 19-30 years of age for voluntary military service; no conscription; must be Roman Catholic, a single male, and a Swiss citizen, with a secondary education; service is for 26 months (2022)<br>
+Pontifical Swiss Guard Corps: 19-30 years of age for voluntary military service; no conscription; must be a single Roman Catholic male with Swiss citizenship who has completed basic training with the Swiss military and can obtain a certificate of good conduct; qualified candidates must apply to serve; the service contract is between 2 and 25 years (2022)<br>
 
 **Military - note**<br>
 defense is the responsibility of Italy<br>

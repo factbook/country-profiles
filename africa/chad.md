@@ -700,7 +700,7 @@ limited and varied information; estimated to have up to 35,000 active ANT person
 the ANT is mostly armed with older or second-hand equipment from Belgium, France, Russia, and the former Soviet Union; since 2010, it has received equipment, including donations, from more than 10 countries, including China, Italy, Ukraine, and the US (2021)<br>
 
 **Military service age and obligation**<br>
-20 is the legal minimum age for compulsory military service, with a 3-year service obligation; 18 is the legal minimum age for voluntary service; no minimum age restriction for volunteers with consent from a parent or guardian; women are subject to 1 year of compulsory military or civic service at age 21 (2021)<br>
+20 is the legal minimum age for compulsory military service for men, with a 3-year service obligation; 18 is the legal minimum age for voluntary service; no minimum age restriction for volunteers with consent from a parent or guardian; women are subject to 1 year of compulsory military or civic service at age 21 (2021)<br>
 
 **Military deployments**<br>
 1,450 Mali (MINUSMA) (May 2022)<br>

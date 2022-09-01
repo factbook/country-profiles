@@ -331,9 +331,9 @@ _residency requirement for naturalization_: 10 years<br>
 **Executive branch**<br>
 _chief of state_: President Ekaterini SAKELLAROPOULOU (since 13 March 2020)<br>
 _head of government_: Prime Minister Kyriakos MITSOTAKIS (since 8 July 2019)<br>
-_cabinet_: Cabinet appointed by the president on the recommendation of the prime minister&nbsp;<br>
+_cabinet_: Cabinet appointed by the president on the recommendation of the prime minister<br>
 _elections/appointments_: president elected by Hellenic Parliament for a 5-year term (eligible for a second term); election last held on&nbsp;22 January 2020&nbsp;(next to be held by February 2025); president appoints as prime minister the leader of the majority party or coalition in the Hellenic Parliament<br>
-_election results_: Katerina SAKELLAROPOULOU&nbsp;(independent) elected president by Parliament - 261 of 300 votes; note - SAKELLAROPOULOU&nbsp;is Greece's first woman president<br>
+_election results_: <em>2020:</em> Katerina SAKELLAROPOULOU (independent) elected president by Parliament - 261 of 300 votes; note - SAKELLAROPOULOU is Greece's first woman president<br><br><em>2015:</em> Prokopis PAVLOPOULOS (ND) elected president by Parliament - 233 of 300 votes<br>
 
 **Legislative branch**<br>
 _description_: unicameral Hellenic Parliament or Vouli ton Ellinon (300 seats; 280 members in multi-seat constituencies and 12 members in a single nationwide constituency directly elected by open party-list proportional representation vote; 8 members in single-seat constituencies elected by simple majority vote; members serve up to 4 years); &nbsp;note - only parties surpassing a 3% threshold are entitled to parliamentary seats; parties need 10 seats to become formal parliamentary groups but can retain that status if the party participated in the last election and received the minimum 3% threshold<br>
@@ -346,7 +346,7 @@ _judge selection and term of office_: Supreme Court judges appointed by presiden
 _subordinate courts_: Courts of Appeal and Courts of First Instance (district courts)<br>
 
 **Political parties and leaders**<br>
-Anticapitalist Left Cooperation for the Overthrow or ANTARSYA [collective leadership]<br>Coalition of the Radical Left or SYRIZA [Alexios (Alexis) TSIPRAS]<br>Communist Party of Greece or KKE [Dimitrios KOUTSOUMBAS]<br>Democratic Left or DIMAR [Athanasios (Thanasis) THEOCHAROPOULOS]<br>European Realistic Disobedience Front or MeRA25 [Ioannis (Yanis) VAROUFAKIS]<br>Greek Solution [Kyriakos VELOPOULOS]<br>Independent Greeks or ANEL [Panagiotis (Panos) KAMMENOS]<br>Movement for Change or KINAL [Nikos ANDROULAKIS] <br>New Democracy or ND [Kyriakos MITSOTAKIS]<br>Popular Unity or LAE [Nikolaos CHOUNTIS]<br>Union of Centrists or EK [Vasileios (Vasilis) LEVENTIS]<br>
+Anticapitalist Left Cooperation for the Overthrow or ANTARSYA [collective leadership]<br>Coalition of the Radical Left or SYRIZA [Alexios (Alexis) TSIPRAS]<br>Communist Party of Greece or KKE [Dimitrios KOUTSOUMBAS]<br>Democratic Left or DIMAR [Athanasios (Thanasis) THEOCHAROPOULOS]<br>European Realistic Disobedience Front or MeRA25 [Ioannis (Yanis) VAROUFAKIS]<br>Greek Solution [Kyriakos VELOPOULOS]<br>Independent Greeks or ANEL [Panagiotis (Panos) KAMMENOS]<br>New Democracy or ND [Kyriakos MITSOTAKIS]<br>PASOK - Movement for Change or PASOK-KINAL [Nikos ANDROULAKIS]<br>Popular Unity or LAE [Nikolaos CHOUNTIS]<br>Union of Centrists or EK [Vasileios (Vasilis) LEVENTIS]<br>
 
 **International organization participation**<br>
 Australia Group, BIS, BSEC, CD, CE, CERN, EAPC, EBRD, ECB, EIB, EMU, ESA, EU, FAO, FATF, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IEA, IFAD, IFC, IFRCS, IGAD (partners), IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, NATO, NEA, NSG, OAS (observer), OECD, OIF, OPCW, OSCE, PCA, Schengen Convention, SELEC, UN, UNCTAD, UNESCO, UNHCR, UNIDO, UNIFIL, UNWTO, UPU, Wassenaar Arrangement, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO, ZC<br>
@@ -692,12 +692,12 @@ Hellenic Armed Forces: Hellenic Army (Ellinikos Stratos, ES; includes National G
 approximately 125,000 active duty personnel (90,000 Army; 15,000 Navy; 20,000 Air Force); approximately 35,000 National Guard (2022)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the inventory of the Hellenic Armed Forces consists mostly of a mix of imported weapons from Europe and the US, as well as a limited number of domestically produced systems, particularly naval vessels; Germany is the leading supplier of weapons systems to Greece since 2010; Greece's defense industry is capable of producing a range of military hardware, including naval vessels and associated subsystems (2021)<br>
+the inventory of the Hellenic Armed Forces consists of a mix of imported weapons from Europe and the US, as well as a limited number of domestically produced systems, particularly naval vessels; Germany has been the leading supplier of weapons systems to Greece since 2010; Greece's defense industry is capable of producing a range of military hardware, including naval vessels and associated subsystems (2021)<br>
 <strong>note:</strong> in addition to finalizing an update to the Mutual Defense Cooperation Agreement with the US, Greece also entered into a security agreement with France in 2021 that included the sale of frigates and fighter aircraft to augment its aging weapons systems<br>
 
 **Military service age and obligation**<br>
-19-45 years of age for compulsory military service; 12-month obligation for all services (note - as an exception, the duration of the full military service is 9 instead of 12 months if conscripts, after the initial training, serve the entire remaining time in certain areas of the eastern borders, in Cyprus, or in certain military units); 18 years of age for volunteers; women are eligible for voluntary military service (2021)<br>
-<strong>note 1: </strong>approximately 40-50% of the Greek military is comprised of conscripts<br><br><strong>note 2: </strong>as of 2019, women comprised approximately 19% of the military's full-time personnel<br>
+19-45 years of age for compulsory military service (men only); 12-month obligation for all services (note - as an exception, the duration of the full military service is 9 instead of 12 months if conscripts, after the initial training, serve the entire remaining time in certain areas of the eastern borders, in Cyprus, or in certain military units); 18 years of age for volunteers; women are eligible for voluntary military service (2021)<br>
+<strong>note 1: </strong>up to 50% of the Greek military is comprised of conscripts<br><br><strong>note 2: </strong>as of 2019, women comprised approximately 19% of the military's full-time personnel<br>
 
 **Military deployments**<br>
 approximately 1,000 Cyprus; 100 Kosovo (NATO); 100 Lebanon (UNIFIL) (2022)<br>
@@ -717,9 +717,9 @@ Islamic State of Iraq and ash-Sham (ISIS); Revolutionary Struggle; Revolutionary
 <p>Greece and Turkey continue discussions to resolve their complex maritime, air, territorial, and boundary disputes in the Aegean Sea; the mass migration of unemployed Albanians still remains a problem for developed countries, chiefly Greece and Italy</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 38,496 (Syria), 25,188 (Afghanistan), 12,657 (Iraq), 5,002 (West Bank and Gaza) (mid-year 2021); 18,363 (Ukraine) (as of 14 August 2022)<br>
+_refugees (country of origin)_: 38,496 (Syria), 25,188 (Afghanistan), 12,657 (Iraq), 5,002 (West Bank and Gaza) (mid-year 2021); 18,663 (Ukraine) (as of 17 August 2022)<br>
 _stateless persons_: 5,552 (mid-year 2021)<br>
-<strong>note:</strong> 1,221,875 estimated refugee and migrant arrivals (January 2015-August 2022); as of the end of February 2022, Greece hosted an estimated 161,419 refugees and asylum seekers<br>
+<strong>note:</strong> 1,222,108 estimated refugee and migrant arrivals (January 2015-August 2022); as of the end of February 2022, Greece hosted an estimated 161,419 refugees and asylum seekers<br>
 
 **Illicit drugs**<br>
 a gateway to Europe for traffickers smuggling cannabis products and heroin from the Middle East and Southwest Asia to the West and precursor chemicals to the East; some South American cocaine transits or is consumed in Greece; money laundering related to drug trafficking and organized crime<br>

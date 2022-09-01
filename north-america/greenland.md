@@ -298,7 +298,7 @@ _judge selection and term of office_: judges appointed by the monarch upon the r
 _subordinate courts_: Court of Greenland; 18 district or magistrates' courts<br>
 
 **Political parties and leaders**<br>
-Democrats Party (Demokraatit) or D [Jens Frederik NIELSEN]<br>Fellowship Party (Atassut) or A [Aqqalu JERIMIASSEN]<br>Forward Party (Siumut) or S [Erik JENSEN]<br>Inuit Community (Inuit Ataqatigiit) or IA [Mute Bourup EGEDE]<br>Signpost Party (Partii Naleraq) or N [Hans ENOKSEN]<br>
+Democrats Party (Demokraatit) or D [Jens Frederik NIELSEN]<br>Fellowship Party (Atassut) or A [Aqqalu JERIMIASSEN]<br>Forward Party (Siumut) or S [Erik JENSEN]<br>Inuit Community (Inuit Ataqatigiit) or IA [Mute Bourup EGEDE]<br>Signpost Party (Naleraq) or N [Pele BROBERG] (formerly Partii Naleraq)<br>
 
 **International organization participation**<br>
 Arctic Council, ICC, NC, NIB, UPU<br>

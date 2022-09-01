@@ -220,7 +220,7 @@ _chief of state_: President Emmanuel MACRON (since 14 May 2017), represented by 
 _head of government_: President of Territorial Council Xavier LEDEE (since 3 April 2022)<br>
 _cabinet_: Executive Council elected by the Territorial Council; note - there is also an advisory, economic, social, and cultural council<br>
 _elections/appointments_: French president directly elected by absolute majority popular vote in 2 rounds if needed for a 5-year term (eligible for a second term); prefect appointed by the French president on the advice of French Ministry of Interior; president of Territorial Council indirectly elected by its members for a 5-year term; election last held on 27 March 2022 (next to be held in 2027)<br>
-_election results_: Xavier LEDEE (Saint Barth United) elected president; Territorial Council vote - 13 votes for, 6 blank votes<br>
+_election results_: <em>2022:</em> Xavier LEDEE (Saint Barth United) elected president; Territorial Council vote - 13 votes for, 6 blank votes<br><br><em>2017: </em>Bruno MAGRAS (Saint Barth First) elected president; Territorial Council vote - 14 out of 19 votes<br>
 
 **Legislative branch**<br>
 _description_: unicameral Territorial Council (19 seats; members elected by absolute majority vote in the first round vote and proportional representation vote in the second round; members serve 5-year terms); Saint Barthelemy indirectly elects 1 senator to the French Senate by an electoral college for a 6-year term and directly elects 1 deputy (shared with Saint Martin) to the French National Assembly<br>

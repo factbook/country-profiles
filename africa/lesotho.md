@@ -677,7 +677,7 @@ Lesotho Defense Force (LDF): Army (includes Air Wing) (2022)<br>
 approximately 2,000 personnel (2022)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the LDF has a small inventory of older equipment from a variety of countries; since 2010, it has received only small quantities of second hand equipment from France (2021)<br>
+the LDF has a small inventory of older equipment from a variety of countries; since 2010, it has received only small quantities of second-hand equipment from France (2021)<br>
 
 **Military service age and obligation**<br>
 18-24 years of age for voluntary military service; no conscription; women can serve as commissioned officers (2021)<br>

@@ -364,9 +364,9 @@ _elections/appointments_: president indirectly elected by the National Assembly 
 _election results_: Matamela Cyril RAMAPHOSA (ANC) elected president by the National Assembly unopposed<br>
 
 **Legislative branch**<br>
-_description_: bicameral Parliament consists of:<br>National Council of Provinces (90 seats; 10-member delegations appointed by each of the 9 provincial legislatures to serve 5-year terms; note - the Council has special powers to protect regional interests, including safeguarding cultural and linguistic traditions among ethnic minorities)<br> National Assembly (400 seats; members directly elected in multi-seat constituencies by proportional representation vote to serve 5-year terms)<br>
+_description_: bicameral Parliament consists of:<br>National Council of Provinces (90 seats; nine 10-member delegations, each with 6 permanent delegates and 4 special delegates, appointed by each of the 9 provincial legislatures to serve 5-year terms; note - the Council has special powers to protect regional interests, including safeguarding cultural and linguistic traditions among ethnic minorities)<br>National Assembly (400 seats; half the members directly elected in multi-seat constituencies and half in a single nationwide constituency, both by proportional representation popular vote; members serve 5-year terms)<br>
 _elections_: National Council of Provinces and National Assembly - last held on 8 May 2019 (next to be held in 2024)<br>
-_election results_: National Council of Provinces - percent of vote by party - NA; seats by party - ANC 29, DA 13, EFF 9, FF+ 2, IFP 1; note - 36 appointed seats not filled<br> National Assembly - percent of vote by party - ANC 57.5%, DA 20.8%, EFF 10.8%, IFP 3.8%, FF+ 2.4%, other 4.7%; seats by party - ANC 230, DA 84, EFF 44, IFP 14, FF+ 10, other 18; composition - men 237, women 163, percent of women 40.8%<br>
+_election results_: National Council of Provinces - percent of vote by party - NA; seats by party - ANC 29, DA 13, EFF 9, FF+ 2, IFP 1; composition of permanent members - men 34, women 20, percent of women 37%; note - 36 appointed members not filled<br>National Assembly - percent of vote by party - ANC 57.5%, DA 20.8%, EFF 10.8%, IFP 3.8%, FF+ 2.4%, other 4.7%; seats by party - ANC 230, DA 84, EFF 44, IFP 14, FF+ 10, other 18; composition as of mid-2022 (396 current seats) - men 212, women 184, percent of women 46.5%; note overall Parliament percent of women 45.3%<br>
 
 **Judicial branch**<br>
 _highest courts_: Supreme Court of Appeals (consists of the court president, deputy president, and 21 judges); Constitutional Court (consists of the chief and deputy chief justices and 9 judges)<br>
@@ -717,11 +717,11 @@ South African National Defense Force (SANDF): South African Army (includes Reser
 approximately 75,000 personnel (40,000 Army; 7,000 Navy; 10,000 Air Force; 8,000 Military Health Service; 10,000 other, including administrative, logistics, military police); 180,000 South African Police Service (2022)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the SANDF's inventory consists of a mix of domestically-produced and foreign-supplied equipment; South Africa's domestic defense industry produced most of the Army's major weapons systems (some were jointly-produced with foreign companies), while the Air Force and Navy inventories include a mix of European, Israeli, and US-origin weapons systems; since 2010, Sweden is the largest supplier of weapons to the SANDF (2021)<br>
+the SANDF's inventory consists of a mix of domestically-produced and foreign-supplied equipment; South Africa's domestic defense industry produced most of the Army's major weapons systems (some were jointly-produced with foreign companies), while the Air Force and Navy inventories include a mix of European-, Israeli-, and US-origin weapons systems; since 2010, Sweden is the largest supplier of weapons to the SANDF (2021)<br>
 
 **Military service age and obligation**<br>
 18-26 years of age for voluntary military service; women are eligible to serve in noncombat roles; 2-year service obligation (2021)<br>
-<strong>note:</strong> in 2019, women comprised about 30% of the SANDF<br>
+<strong>note:</strong> in 2019, women comprised about 30% of the military<br>
 
 **Military deployments**<br>
 1,150 Democratic Republic of the Congo (MONUSCO); up to 1,500 Mozambique (part of a Southern African Development Community force to help quell an insurgency) (2022)<br>

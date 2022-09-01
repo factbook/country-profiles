@@ -732,7 +732,7 @@ Armed Forces of the Democratic Republic of the Congo (Forces d'Armees de la Repu
 limited and widely varied information; approximately 100,000 active troops (mostly Army, but includes several thousand Navy and Air Force personnel, as well as about 10,000 Republican Guard; note -&nbsp; Navy personnel includes naval infantry) (2022)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the FARDC is equipped mostly with a mix of second-hand Russian and Soviet-era weapons acquired from former Warsaw Pact nations; most equipment was acquired between 1970 and 2000; in recent years, Ukraine is the largest supplier of arms to the FARDC (2021)<br>
+the FARDC is equipped mostly with a mix of second-hand Russian and Soviet-era weapons acquired from former Warsaw Pact nations; most equipment was acquired between 1970 and 2000; in recent years, Ukraine has been the largest supplier of arms to the FARDC (2021)<br>
 
 **Military service age and obligation**<br>
 18-45 years of age for voluntary (men and women) and compulsory (men only) military service; unclear how much conscription is used (2021)<br>
@@ -753,7 +753,7 @@ Islamic State of Iraq and ash-Sham – Democratic Republic of the Congo (ISIS-DR
 
 **Refugees and internally displaced persons**<br>
 _refugees (country of origin)_: 210,067 (Rwanda), 206,967 (Central African Republic), 56,303 (South Sudan) (refugees and asylum seekers), 40,798 (Burundi) (2022)<br>
-_IDPs_: 5.61 million (fighting between government forces and rebels since mid-1990s; conflict in Kasai region since 2016) (2021)<br>
+_IDPs_: 5.53 million (fighting between government forces and rebels since mid-1990s; conflict in Kasai region since 2016) (2022)<br>
 
 **Trafficking in persons**<br>
 _current situation_: human traffickers exploit domestic and foreign victims in Democratic Republic of the Congo and Congolese abroad; most trafficking is internal and involves the forced labor of men, women, and children in artisanal mining, agriculture, domestic servitude, sex trafficking, or child recruitment by armed groups; some traffickers are family members or others who promise victims or victims&rsquo; families educational or job opportunities and instead force victims to work as domestic servants, street vendors, gang members, or in commercial sex; some Congolese women and girls who migrate to other countries in Africa or the Middle East are exploited in sex trafficking or forced labor in agriculture, diamond mines, or domestic service; they may be fraudulently recruited by traffickers with false promises of jobs or education<br>

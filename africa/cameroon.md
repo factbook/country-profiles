@@ -730,7 +730,7 @@ Cameroon Armed Forces (Forces Armees Camerounaises, FAC): Army (L'Armee de Terre
 information varies widely; approximately 40,000 active duty troops; (25,000 ground forces, including the BIR and Presidential Guard; 2,000 Navy; 1,000 Air Force; 12,000 Gendarmerie) (2022)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the FAC inventory includes a wide mix of mostly older or second-hand Chinese, Russian, and Western equipment, with a limited quantity of more modern weapons; since 2010, China is the leading supplier of armaments to the FAC (2021)<br>
+the FAC inventory includes a wide mix of mostly older or second-hand Chinese, Russian, and Western equipment, with a limited quantity of more modern weapons; since 2010, China has been the leading supplier of armaments to the FAC (2021)<br>
 
 **Military service age and obligation**<br>
 18-23 years of age for male and female voluntary military service; no conscription; high school graduation required; service obligation 4 years (2021)<br>
@@ -758,7 +758,7 @@ Boko Haram; Islamic State of Iraq and ash-Sham – West Africa<br>
 
 **Refugees and internally displaced persons**<br>
 _refugees (country of origin)_: 347,575 (Central African Republic), 135,243 (Nigeria) (2022)<br>
-_IDPs_: 936,767 (2022) (includes far north, northwest, and southwest)<br>
+_IDPs_: 955,540 (2022) (includes far north, northwest, and southwest)<br>
 
 **Trafficking in persons**<br>
 _current situation_: human traffickers exploit domestic and foreign victims in Cameroon and Cameroonians abroad; deteriorating economic and education conditions and diminished police and judicial presence caused by conflict in the Northwest and Southwest has left displaced persons vulnerable to trafficking; parents may be lured by promises of education or a better life for their children in urban areas, and then the children are subject to forced labor and sex trafficking; teenagers and adolescents may be lured to cities with promises of employment and then become victims of forced labor and sex trafficking; children from neighboring countries are forced to work in spare parts shops or cattle grazing by business owners and herders; Cameroonians, often from rural areas, are exploited in forced labor and sex trafficking in the Middle East, Europe, the United States, and African countries<br>

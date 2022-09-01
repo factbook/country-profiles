@@ -245,9 +245,10 @@ see the Netherlands<br>
 
 **Executive branch**<br>
 _chief of state_: King WILLEM-ALEXANDER of the Netherlands (since 30 April 2013); represented by Governor General Eugene HOLIDAY (since 10 October 2010)<br>
-_head of government_: Interim Prime Minister Silveria JACOBS (since 16 January 2020)<br>
+_head of government_: Prime Minister Silveria JACOBS (since 28 March 2020)<br>
 _cabinet_: Cabinet nominated by the prime minister and appointed by the governor-general<br>
 _elections/appointments_: the monarch is hereditary; governor general appointed by the monarch for a 6-year term; following parliamentary elections, the leader of the majority party usually elected prime minister by Parliament<br>
+_election results_: last held&nbsp;9 January 2020 (next to be held in 2024)<br>
 note - on 16 January 2020, Governor Eugene HOLIDAY appoints Silveria JACOBS as <em>formateur</em> of a new government<br>
 
 **Legislative branch**<br>

@@ -713,7 +713,7 @@ Congolese Armed Forces (Forces Armees Congolaises, FAC): Army, Navy, Congolese A
 approximately 12,000 active duty troops (8,000 Army; 800 Navy; 1,000 Air Force; 2,000 Gendarmerie) (2022)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the FAC is armed with mostly ageing Russian and Soviet-era weapons, with a smaller mix of French and South African equipment; the leading supplier of arms to the FAC since 2010 is South Africa (2021)<br>
+the FAC is armed with mostly aging Russian and Soviet-era weapons, with a smaller mix of French and South African equipment; the leading supplier of arms to the FAC since 2010 is South Africa (2021)<br>
 
 **Military service age and obligation**<br>
 18 years of age for voluntary military service; women may serve in the armed forces (2021)<br>

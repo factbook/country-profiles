@@ -349,12 +349,12 @@ _chief of state_: President of the Swiss Confederation Ignazio CASSIS (since 1 J
 _head of government_: President of the Swiss Confederation Ignazio CASSIS (since 1 January 2022); Vice President Alain BERSET (since 1 January 2022)<br>
 _cabinet_: Federal Council or Bundesrat (in German), Conseil Federal (in French), Consiglio Federale (in Italian) indirectly elected by the Federal Assembly for a 4-year term<br>
 _elections/appointments_: president and vice president elected by the Federal Assembly from among members of the Federal Council for a 1-year, non-consecutive term; election last held on 8 December 2021 (next to be held in December 2022)<br>
-_election results_: Ignazio CASSIS elected president; Federal Assembly vote - Ignazio CASSIS (FDP.The Liberals) 156 of 197 votes; Alain BERSET (SP) elected vice president; Federal Assembly vote - 158 of 204<br>
+_election results_: <em>2021:</em> Ignazio CASSIS elected president for 2022; Federal Assembly vote - Ignazio CASSIS (FDP.The Liberals) 156 of 197 votes; Alain BERSET (SP) elected vice president; Federal Assembly vote - 158 of 204<br><br><em>2020:</em> Guy PARMELIN elected president for 2021; Federal Assembly vote - Guy PARMELIN (SVP) 188 of 202 votes; Ignazio CASSIS (FDP.The Liberals) elected vice president; Federal Assembly vote - 162 of 191<br>
 
 **Legislative branch**<br>
-_description_: description: bicameral Federal Assembly or Bundesversammlung (in German), Assemblée Fédérale (in French), Assemblea Federale (in Italian) consists of:<br>Council of States or Ständerat (in German), Conseil des États (in French), Consiglio degli Stati (in Italian) (46 seats; members in multi-seat constituencies representing cantons and single-seat constituencies representing half cantons directly elected by simple majority vote except Jura and Neuchatel cantons which use list proportional representation vote; member term governed by cantonal law)<br>National Council or Nationalrat (in German), Conseil National (in French), Consiglio Nazionale (in Italian) (200 seats; 195 members in cantons directly elected by proportional representation vote and 6 in half cantons directly elected by simple majority vote; members serve 4-year terms) (e.g. 2019)<br>
-_elections_: <br>Council of States - last held in most cantons on 20 October 2019 (each canton determines when the next election will be held)<br>National Council - last held on 20 October 2019 (next to be held on 31 October 2023) (e.g. 2019)<br>
-_election results_: <br>Council of States - percent of vote by party - NA; seats by party - The Center 13, FDP.The Liberals 12, SDP 9, Green Party 5, SVP 6, other 1; composition (as of October 2021) - men 34, women 12, percent of women 26.1% <br>National Council - percent of vote by party - SDP 26.5%, SP 19.5%, FDP.The Liberals 15.1%, Green Party 14%, The Center 14%, GLP 7.8%, other 3.5%; seats by party - SVP 53, SP 39, FDP.The Liberals 29, Green Party 28, The Center 28, GLP 16, other 7; composition (as of October 2021) - men 115, women 85, percent of women 42.5%; note - overall Federal Assembly percent of women 39.4% (e.g. 2019)<br>
+_description_: description: bicameral Federal Assembly or Bundesversammlung (in German), Assemblée Fédérale (in French), Assemblea Federale (in Italian) consists of:<br>Council of States or Ständerat (in German), Conseil des États (in French), Consiglio degli Stati (in Italian) (46 seats; members in multi-seat constituencies representing cantons and single-seat constituencies representing half cantons directly elected by simple majority vote except Jura and Neuchatel cantons which use list proportional representation vote; member term governed by cantonal law)<br>National Council or Nationalrat (in German), Conseil National (in French), Consiglio Nazionale (in Italian) (200 seats; 195 members in cantons directly elected by proportional representation vote and 6 in half cantons directly elected by simple majority vote; members serve 4-year terms)<br>
+_elections_: <br>Council of States - last held in most cantons on 20 October 2019 (each canton determines when the next election will be held)<br>National Council - last held on 20 October 2019 (next to be held on 31 October 2023)<br>
+_election results_: <br>Council of States - percent of vote by party - NA; seats by party - The Center 13, FDP.The Liberals 12, SDP 9, Green Party 5, SVP 6, other 1; composition (as of mid-2022) - men 33, women 13, percent of women 28.3% <br>National Council - percent of vote by party - SDP 26.5%, SP 19.5%, FDP.The Liberals 15.1%, Green Party 14%, The Center 14%, GLP 7.8%, other 3.5%; seats by party - SVP 53, SP 39, FDP.The Liberals 29, Green Party 28, The Center 28, GLP 16, other 7; composition (as of mid-2022) - men 115, women 85, percent of women 42.5%; note - overall Federal Assembly percent of women 39.8%<br>
 
 **Judicial branch**<br>
 _highest courts_: Federal Supreme Court (consists of 38 justices and 19 deputy justices organized into 7 divisions)<br>
@@ -706,10 +706,10 @@ Swiss Armed Forces: Land Forces, Swiss Air Force (Schweizer Luftwaffe) (2022)<br
 the Swiss Armed Forces maintain a full-time professional cadre of about 4,000 personnel along with approximately 18-20,000 conscripts brought in annually for 18-23 weeks of training; approximately 120,000 reserve forces (2022)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the Swiss Armed Forces inventory includes a mix of domestically-produced and imported weapons systems; the US is the leading supplier of military armaments to Switzerland since 2010; the Swiss defense industry produces a range of military land vehicles (2021)<br>
+the Swiss Armed Forces inventory includes a mix of domestically-produced and imported weapons systems; the US has been the leading supplier of military armaments to Switzerland since 2010; the Swiss defense industry produces a range of military land vehicles (2021)<br>
 
 **Military service age and obligation**<br>
-18-30 years of age generally for male compulsory military service; 18 years of age for voluntary male and female military service; every Swiss male has to serve at least 245 days in the armed forces; conscripts receive 18 weeks of mandatory training, followed by six 19-day intermittent recalls for training during the next 10 years (2021)<br>
+18-30 years of age for male compulsory military service; 18 years of age for voluntary male and female military service; every Swiss male has to serve at least 245 days in the armed forces; conscripts receive 18 weeks of mandatory training, followed by six 19-day intermittent recalls for training during the next 10 years (2021)<br>
 <strong>note: </strong>conscientious objectors can choose 390 days of community service instead of military service<br>
 
 **Military deployments**<br>
@@ -730,7 +730,7 @@ Islamic State of Iraq and ash-Sham (ISIS)<br>
 <p>none identified</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 38,219 (Eritrea), 20,043 (Syria), 14,649 (Afghanistan), 6,069 (Sri Lanka), 6,197 (Turkey) (mid-year 2021); 60,461 (Ukraine) (as of 16 August 2022)<br>
+_refugees (country of origin)_: 38,219 (Eritrea), 20,043 (Syria), 14,649 (Afghanistan), 6,069 (Sri Lanka), 6,197 (Turkey) (mid-year 2021); 64,053 (Ukraine) (as of 22 August 2022)<br>
 _stateless persons_: 684 (mid-year 2021)<br>
 
 **Illicit drugs**<br>

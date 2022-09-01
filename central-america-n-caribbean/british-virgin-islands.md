@@ -272,7 +272,7 @@ _chief of state_: Queen ELIZABETH II (since 6 February 1952); represented by Gov
 _head of government_: Premier Dr. Natalio WHEATLEY (since 5 May 2022)<br>
 _cabinet_: Executive Council appointed by the governor from members of the House of Assembly<br>
 _elections/appointments_: the monarchy is hereditary; governor appointed by the monarch; following legislative elections, the leader of the majority party or majority coalition usually appointed premier by the governor<br>
-<strong>note -</strong> on 5 May 2022, Premier Andrew FAHIE removed by a no confidence vote in House of Assembly following his arrest on drug trafficking and money laundering charges on 28 April 2022; Premier Dr. Natalio WHEATLEY sworn in as premier on 5 May 2022<br>
+<strong>note;</strong> on 5 May 2022, Premier Andrew FAHIE removed by a no confidence vote in House of Assembly following his arrest on drug trafficking and money laundering charges on 28 April 2022; Premier Dr. Natalio WHEATLEY sworn in as premier on 5 May 2022<br>
 
 **Legislative branch**<br>
 _description_: unicameral House of Assembly (15 seats; 13 members - 9 in single-seat constituencies and 4 at-large seats directly elected by simple majority vote and 2 ex-officio members - the attorney general and the speaker - chosen from outside the House; members serve 4-year terms)<br>

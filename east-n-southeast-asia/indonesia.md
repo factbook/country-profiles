@@ -728,7 +728,7 @@ Indonesian National Armed Forces (Tentara Nasional Indonesia, TNI): Army (TNI-An
 approximately, 400,000 active duty troops (300,000 Army; 60,000 Navy, including about 20,000 marines; 30,000 Air Force) (2022)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the Indonesian military inventory comes from a wide variety of sources; since 2010, the top suppliers included China, France, Germany, the Netherlands, Russia, South Korea, the UK, and the US; the TNI has been engaged in a long-term modernization program since 2010 with uneven success; Indonesia has a growing defense industry fueled by technology transfers and cooperation agreements with several countries; in 2019, the Indonesian Government publicly said that growing its domestic defense industry is a national priority over the next 5-10 years (2022)<br>
+the Indonesian military inventory comes from a wide variety of sources; since 2010, the top suppliers have included China, France, Germany, the Netherlands, Russia, South Korea, the UK, and the US; the TNI has been engaged in a long-term modernization program since 2010 with uneven success; Indonesia has a growing defense industry fueled by technology transfers and cooperation agreements with several countries; in 2019, the Indonesian Government publicly said that growing its domestic defense industry is a national priority over the next 5-10 years (2022)<br>
 
 **Military service age and obligation**<br>
 18-45 years of age for voluntary military service, with selective conscription authorized (males, age 18), but not utilized; 2-year service obligation, with reserve obligation to age 45 (officers) (2021)<br>

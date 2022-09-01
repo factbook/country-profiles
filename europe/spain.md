@@ -350,16 +350,16 @@ _residency requirement for naturalization_: 10 years for persons with no ties to
 
 **Executive branch**<br>
 _chief of state_: King FELIPE VI (since 19 June 2014); Heir Apparent Princess LEONOR, Princess of Asturias (daughter of the monarch, born 31 October 2005)<br>
-_head of government_: President of the Government (Prime Minister-equivalent) Pedro SANCHEZ Perez-Castejon (since 2 June 2018); Vice President (and Minister of the President's Office) Maria del Carmen CALVO Poyato (since 7 June 2018)<br>
-_cabinet_: Council of Ministers designated by the president&nbsp;<br>
-_elections/appointments_: the monarchy is hereditary; following legislative elections, the monarch usually proposes as president the leader of the party or coalition with the largest majority of seats, who is then indirectly elected by the Congress of Deputies; election last held on 10 November 2019 (next to be held November 2023); vice president and Council of Ministers appointed by the president<br>
+_head of government_: President of the Government (Prime Minister-equivalent) Pedro SANCHEZ PEREZ-CASTEJON (since 2 June 2018); Vice President (and Minister of the President's Office) Maria del Carmen CALVO POYATO (since 7 June 2018)<br>
+_cabinet_: Council of Ministers designated by the president<br>
+_elections/appointments_: the monarchy is hereditary; following legislative elections, the monarch usually proposes as president the leader of the party or coalition with the largest number of seats, who is then indirectly elected by the Congress of Deputies; election last held on 10 November 2019 (next to be held November 2023); vice president and Council of Ministers appointed by the president<br>
 _election results_: percent of National Assembly vote - NA<br>
 <strong>note:</strong> there is also a Council of State that is the supreme consultative organ of the government, but its recommendations are non-binding<br>
 
 **Legislative branch**<br>
 _description_: bicameral General Courts or Las Cortes Generales consists of:<br>Senate or Senado (265 seats; 208 members directly elected in multi-seat constituencies by simple majority vote and 57 members indirectly elected by the legislatures of the autonomous communities; members serve 4-year terms)<br>Congress of Deputies or Congreso de los Diputados (350 seats; 348 members directly elected in 50 multi-seat constituencies by closed-list proportional representation vote, with a 3% threshold needed to gain a seat, and 2 directly elected from the North African Ceuta and Melilla enclaves by simple majority vote; members serve 4-year terms or until the government is dissolved)<br>
 _elections_: <br>Senate - last held on 10 November 2019 (next to be held no later than 30 November 2023)<br>Congress of Deputies - last held on 10 November 2019 (next to be held no later than 30 November 2023)<br>
-_election results_: <br>Senate - percent of vote by party - NA; seats by party - PSOE 113, PP 101, ERC 14, PNV 10, C's 3, Junts 5, Vox 3, other 16; composition (as of October 2021) - men 161, women 104; percent of women 39.3%<br>Congress of Deputies - percent of vote by party - PSOE 34.3%, PP 25.1%, Vox 14.9%, Unidos Podemos 9.4%, C's 2.6%, ERC 3.7%, PNV 10, EH-Bildu 1.4, other 7.4%; seats by party - PSOE 120, PP 88, Vox 52, Unidos Podemos 33, C's 9, ERC 13, PNV 6, EH-Bildu 5, other 26; composition (as October 2021) - men 198, women 152, percent of women 43.4%; note - overall General Courts percent of women 42.3%<br>
+_election results_: <br>Senate - percent of vote by party - NA; seats by party - PSOE 113, PP 101, ERC 14, PNV 10, C's 3, Junts 5, Vox 3, other 16; composition (as of mid-2022) - men 161, women 104; percent of women 39.3%<br>Congress of Deputies - percent of vote by party - PSOE 34.3%, PP 25.1%, Vox 14.9%, Unidos Podemos 9.4%, C's 2.6%, ERC 3.7%, PNV 10, EH-Bildu 1.4, other 7.4%; seats by party - PSOE 120, PP 88, Vox 52, Unidos Podemos 33, C's 9, ERC 13, PNV 6, EH-Bildu 5, other 26; composition (as mid-2022, 349 members) - men 199, women 150, percent of women 43%; note - overall General Courts percent of women 42%<br>
 
 **Judicial branch**<br>
 _highest courts_: Supreme Court or Tribunal Supremo (consists of the court president and organized into the Civil Room, with a president and 9 judges; the Penal Room, with a president and 14 judges; the Administrative Room, with a president and 32 judges; the Social Room, with a president and 12 judges; and the Military Room, with a president and 7 judges); Constitutional Court or Tribunal Constitucional de Espana (consists of 12 judges)<br>
@@ -714,10 +714,10 @@ Spanish Armed Forces: Army (Ejercito de Tierra), Spanish Navy (Armada Espanola, 
 approximately 120,000 active duty troops (75,000 Army; 25,000 Navy, including about 5,000 marines; 20,000 Air Force); 80,000 Guardia Civil (2022)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the inventory of the Spanish military is comprised of domestically-produced and imported Western weapons systems; France, Germany, and the US are the leading suppliers of military hardware since 2010; Spain's defense industry manufactures land, air, and sea weapons systems and is integrated within the European defense-industrial sector (2021)<br>
+the inventory of the Spanish military is comprised of domestically-produced and imported Western weapons systems; France, Germany, and the US have been the leading suppliers of military hardware since 2010; Spain's defense industry manufactures land, air, and sea weapons systems and is integrated within the European defense-industrial sector (2021)<br>
 
 **Military service age and obligation**<br>
-18-26 years of age for voluntary military service by a Spanish citizen or legal immigrant, 2-3 year obligation; women allowed to serve in all SAF branches, including combat units; no conscription (abolished 2001), but Spanish Government retains right to mobilize citizens 19-25 years of age in a national emergency (2021)<br>
+18-26 years of age for voluntary military service by a Spanish citizen or legal immigrant, 2-3 year obligation; women allowed to serve in all branches, including combat units; no conscription (abolished 2001), but Spanish Government retains right to mobilize citizens 19-25 years of age in a national emergency (2021)<br>
 <strong>note:</strong> as of 2019, women comprised about 13% of the military's full-time personnel<br>
 
 **Military deployments**<br>
@@ -725,7 +725,7 @@ approximately 200 Iraq (NATO/EU training assistance); up to 600 Latvia (NATO); 6
 <strong>note: </strong>in response to Russia’s invasion of Ukraine, some NATO countries, including Spain, have sent additional troops and equipment to the battlegroups deployed in NATO territory in eastern Europe<br>
 
 **Military - note**<br>
-Spain joined NATO in 1982, but refrained from participating in the integrated military structure until 1996<br><br>the Spanish Marine Corps, established in 1537, is the oldest marine corps in the world<br>
+Spain joined NATO in 1982 but refrained from participating in the integrated military structure until 1996<br><br>the Spanish Marine Corps, established in 1537, is the oldest marine corps in the world<br>
 
 ## Terrorism
 
@@ -739,9 +739,9 @@ Islamic State of Iraq and ash-Sham (ISIS); al-Qa’ida<br>
 <p><em>Spain-Andorra</em>: none identified</p> <p><em>Spain-France</em>: none identified</p> <p><em>Spain-Gibraltar (UK)</em>: in 2002, Gibraltar residents voted overwhelmingly by referendum to reject any "shared sovereignty" arrangement; the Government of Gibraltar insists on equal participation in talks between the UK and Spain; Spain does not recognize British sovereignty beyond the original fortified perimeter of the city and disapproves of UK plans to grant Gibraltar greater autonomy; after voters in the UK chose to leave the EU in a June 2016 referendum, Spain again proposed shared sovereignty of Gibraltar; UK officials rejected Spain’s joint sovereignty proposal</p> <p><em>Spain-Morocco</em>: Morocco protests Spain's control over the coastal enclaves of Ceuta, Melilla, and the islands of Penon de Velez de la Gomera, Penon de Alhucemas, and Islas Chafarinas, and surrounding waters; both countries claim Isla Perejil (Leila Island), which remains unoccupied but was the site of a  military standoff in 2002; Morocco serves as the primary embarkation area for illegal migration into mainland Spain from North Africa</p> <p><em>Spain-Portugal</em>: Portugal does not recognize Spanish sovereignty over the territory of Olivenza based on a difference of interpretation of the 1815 Congress of Vienna and the 1801 Treaty of Badajoz</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 14,823 (Syria) (mid-year 2021); 418,200 (Venezuela) (economic and political crisis; includes Venezuelans who have claimed asylum, are recognized as refugees, or have received alternative legal stay) (2021); 133,913 (Ukraine) (as of 15 August 2022)<br>
+_refugees (country of origin)_: 14,823 (Syria) (mid-year 2021); 418,200 (Venezuela) (economic and political crisis; includes Venezuelans who have claimed asylum, are recognized as refugees, or have received alternative legal stay) (2021); 137,637 (Ukraine) (as of 20 August 2022)<br>
 _stateless persons_: 692 (mid-year 2021)<br>
-<strong>note: </strong>264,861 estimated refugee and migrant arrivals, including Canary Islands (January 2015-August 2022)<br>
+<strong>note: </strong>265,988 estimated refugee and migrant arrivals, including Canary Islands (January 2015-August 2022)<br>
 
 **Illicit drugs**<br>
 primary transit point in Europe for cocaine from South America and for hashish from Morocco; cocaine is shipped in raw or liquid form with mixed cargo to avoid detection; traffickers ship methamphetamine via express mail; increasing number of indoor cannabis grow operations; illegal labs cutting, mixing, and reconstituting cocaine, and heroin and methamphetamine labs; synthetic drugs, including ketamine and MDMA (ecstasy) transit from Spain to the United States<br>

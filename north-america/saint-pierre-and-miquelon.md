@@ -267,8 +267,8 @@ see France<br>
 _chief of state_: President Emmanuel MACRON (since 14 May 2017); represented by Prefect Christian POUGET (since 6 January 2021)<br>
 _head of government_: President of Territorial Council Bernard BRIAND (since 13 October 2020)<br>
 _cabinet_: Le Cabinet du Prefet<br>
-_elections/appointments_: French president directly elected by absolute majority popular vote in 2 rounds if needed for a 5-year term (eligible for a second term); election last held on 23 April and 6 May 2017 (next to be held in 2022); prefect appointed by French president on the advice of French Ministry of Interior; Territorial Council president elected by Territorial Council councillors by absolute majority vote; term NA; election last held on 13 October 2020; next election NA<br>
-_election results_: Bernard BRIAND elected President of Territorial Council; Territorial Council vote - 17 for, 2 abstentions<br>
+_elections/appointments_: French president directly elected by absolute majority popular vote in 2 rounds if needed for a 5-year term (eligible for a second term); election last held on 10 April and 24 April 2022 (next to be held in 2027); prefect appointed by French president on the advice of French Ministry of Interior; Territorial Council president elected by Territorial Council councillors by absolute majority vote; term NA; election last held on 13 October 2020; next election NA<br>
+_election results_: <em>2020:</em> Bernard BRIAND elected President of Territorial Council; Territorial Council vote - 17 for, 2 abstentions<br><br>2017: Stephane LENORMAND elected President of Territorial Council<br>
 
 **Legislative branch**<br>
 _description_: unicameral Territorial Council or Conseil Territorial (19 seats - Saint Pierre 15, Miquelon 4; members directly elected in single-seat constituencies by absolute majority vote in 2 rounds if needed to serve 6-year terms);<br>Saint Pierre and Miquelon indirectly elects 1 senator to the French Senate by an electoral college to serve a 6-year term and directly elects 1 deputy to the French National Assembly by absolute majority vote to serve a 5-year term<br>

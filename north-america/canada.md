@@ -723,7 +723,7 @@ approximately 70,000 active armed forces personnel (23,000 Army; 12,000 Navy; 12
 <strong>note:</strong> the Army also has approximately 19,000 part-time volunteer soldiers in the Reserve Force, including about 5,500 Rangers<br>
 
 **Military equipment inventories and acquisitions**<br>
-the CAF's inventory is a mix of domestically-produced equipment and imported weapons systems from Australia, Europe, Israel, and the US; since 2010, the leading supplier is the US; Canada's defense industry develops, maintains, and produces a range of equipment, including aircraft, combat vehicles, naval vessels, and associated components (2022)<br>
+the CAF's inventory is a mix of domestically-produced equipment and imported weapons systems from Australia, Europe, Israel, and the US; since 2010, the leading supplier has been the US; Canada's defense industry develops, maintains, and produces a range of equipment, including aircraft, combat vehicles, naval vessels, and associated components (2022)<br>
 
 **Military service age and obligation**<br>
 17 years of age for voluntary male and female military service (with parental consent); 16 years of age for Reserve and Military College applicants; Canadian citizenship or permanent residence status required; maximum 34 years of age; service obligation 3-9 years (2022)<br>

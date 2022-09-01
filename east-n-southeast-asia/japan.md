@@ -702,7 +702,7 @@ Japan Self-Defense Force (JSDF): Ground Self-Defense Force (Rikujou Jieitai, GSD
 0.9% of GDP (2017) (approximately $52.6 billion)<br>
 
 **Military and security service personnel strengths**<br>
-approximately 244,000 active personnel (150,000 Ground; 45,000 Maritime; 45,000 Air; 4,000 Joint Forces); 14,000 Coast Guard (2022)<br>
+approximately 240,000 active personnel (150,000 Ground; 45,000 Maritime; 45,000 Air); 14,000 Coast Guard (2022)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the JSDF is equipped with a mix of imported and domestically-produced equipment; Japan has a robust defense industry and is capable of producing a wide range of air, ground, and naval weapons systems; the majority of its weapons imports are from the US and some domestically-produced weapons are US-origin and manufactured under license (2022)<br>

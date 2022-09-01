@@ -338,9 +338,9 @@ _election results_: Siaosi SOVALENI elected prime minister by the Legislative As
 <strong>note:</strong> a Privy Council advises the monarch<br>
 
 **Legislative branch**<br>
-_description_: unicameral Legislative Assembly or Fale Alea (26 seats); 17 people's representatives directly elected in single-seat constituencies by simple majority vote, and 9 indirectly elected by hereditary leaders; members serve 4-year terms)<br>
+_description_: unicameral Legislative Assembly or Fale Alea (30 seats statutory, 27 current); 17 people's representatives directly elected in single-seat constituencies by simple majority vote, and 9 indirectly elected by hereditary leaders; members serve 4-year terms)<br>
 _elections_: last held on 18 November 2021 (next to be held in November 2025)<br>
-_election results_: percent of vote - NA; seats by party (elected members) - independents 11, nobles' representatives 9,&nbsp; Democratic Party 3, Peoples Party 3; composition - men 26, women 0, percent of women 0%<br>
+_election results_: percent of vote - NA; seats by party (elected members) - independents 11, nobles' representatives 9,&nbsp; Democratic Party 3, Peoples Party 3; composition - men 26, women 1, percent of women 3.7%<br>
 
 **Judicial branch**<br>
 _highest courts_: Court of Appeal (consists of the court president and a number of judges determined by the monarch); note - appeals beyond the Court of Appeal are brought before the King in Privy Council, the monarch's advisory organ that has both judicial and legislative powers<br>
@@ -654,7 +654,7 @@ His Majesty's Armed Forces Tonga (Tonga Defense Services): Joint Force headquart
 approximately 650 personnel (2022)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the Tonga military's inventory includes mostly light weapons and equipment from European (primarily the UK) countries and the US, as well as naval patrol vessels from Australia; Australia is the only supplier of military systems since 2010 (2021)<br>
+the Tonga military's inventory includes mostly light weapons and equipment from European (primarily the UK) countries and the US, as well as naval patrol vessels from Australia; Australia has been the only supplier of military systems since 2010 (2021)<br>
 
 **Military service age and obligation**<br>
 men and women, 18-25, may volunteer; no conscription (2021)<br>

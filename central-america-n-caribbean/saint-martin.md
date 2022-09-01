@@ -227,7 +227,7 @@ _chief of state_: President Emmanuel MACRON (since 14 May 2017); represented by 
 _head of government_: President of Territorial Council Louis MUSSINGTON (since 3 April 2022); First Vice President Alain RICHARDSON (since 3 April 2022)<br>
 _cabinet_: Executive Council; note - there is also an advisory economic, social, and cultural council<br>
 _elections/appointments_: French president directly elected by absolute majority popular vote in 2 rounds if needed for a 5-year term (eligible for a second term); prefect appointed by French president on the advice of French Ministry of Interior; president of Territorial Council elected by its members for a 5-year term; election last held on 3 April 2022 (next to be held in 2027)<br>
-_election results_: Louis MUSSINGTON (RSM) elected president; Territorial Council vote - 23 out of 23 votes<br>
+_election results_: <em>2022:</em> Louis MUSSINGTON (RSM) elected president; Territorial Council vote - 23 out of 23 votes<br><br><em>2017: </em>Daniel Gibbs elected president:  Territorial Council vote - 18 out of 23 votes<br>
 
 **Legislative branch**<br>
 _description_: unicameral Territorial Council (23 seats; members directly elected by absolute majority vote in 2 rounds if needed to serve 5-year terms); Saint Martin elects 1 member to the French Senate and 1member (shared with Saint Barthelemy) to the French National Assembly<br>

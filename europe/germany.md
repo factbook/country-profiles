@@ -703,7 +703,7 @@ _river port(s)_: Bremen (Weser); Bremerhaven (Geeste); Duisburg, Karlsruhe, Neus
 ## Military and Security
 
 **Military and security forces**<br>
-Federal Armed Forces (Bundeswehr): Army (Heer), Navy (Deutsche Marine, includes naval air arm), Air Force (Luftwaffe, includes air defense), Joint Support Service (Streitkraeftebasis, SKB), Central Medical Service (Zentraler Sanitaetsdienst, ZSanDstBw), Cyber and Information Space Command (Kommando Cyber- und Informationsraum, Kdo CIR) (2022)<br>
+Federal Armed Forces (Bundeswehr): Army (Heer), Navy (Deutsche Marine, includes naval air arm), Air Force (Luftwaffe, includes air defense), Joint Support Service (Streitkraeftebasis, SKB), Central Medical Service (Zentraler Sanitaetsdienst, ZSanDstBw), Cyber and Information Space Command (Kommando Cyber und Informationsraum, Kdo CIR) (2022)<br>
 
 **Military expenditures**<br>
 1.5% of GDP (2021 est.)<br>
@@ -717,7 +717,7 @@ approximately 184,000 active duty personnel (63,000 Army; 16,000 Navy; 27,000 Ai
 <strong>note:</strong> Germany in 2020 announced it planned to increase the size of the military to about 200,000 troops by 2025<br>
 
 **Military equipment inventories and acquisitions**<br>
-the German Federal Armed Forces inventory is mostly comprised of weapons systems produced domestically or jointly with other European countries and Western imports, particularly from the US; since 2010, the US is the leading foreign supplier; Germany's defense industry is capable of manufacturing the full spectrum of air, land, and naval military weapons systems, and is one of the world's leading arms exporters (2022)<br>
+the German Federal Armed Forces inventory is comprised of weapons systems produced domestically or jointly with other European countries and Western imports, particularly from the US; since 2010, the US has been the leading foreign supplier; Germany's defense industry is capable of manufacturing the full spectrum of air, land, and naval military weapons systems, and is one of the world's leading arms exporters (2022)<br>
 
 **Military service age and obligation**<br>
 17-23 years of age for male and female voluntary military service (must have completed compulsory full-time education and have German citizenship); conscription ended July 2011; service obligation 7-23 months or 12 years; women have been eligible for voluntary service in all military branches and positions since 2001 (2022)<br>
@@ -733,7 +733,7 @@ the Federal Republic of Germany joined NATO in May 1955; with the reunification 
 ## Terrorism
 
 **Terrorist group(s)**<br>
-Islamic Revolutionary Guard Corps/Qods Force; Islamic State of Iraq and ash-Sham (ISIS)<br>
+Islamic Revolutionary Guard Corps/Qods Force; Islamic State of Iraq and ash-Sham (ISIS); al-Qa'ida<br>
 <strong>note:</strong> details about the history, aims, leadership, organization, areas of operation, tactics, targets, weapons, size, and sources of support of the group(s) appear(s) in Appendix-T<br>
 
 ## Transnational Issues
@@ -742,7 +742,7 @@ Islamic Revolutionary Guard Corps/Qods Force; Islamic State of Iraq and ash-Sham
 <p>none</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 616,325 (Syria), 152,677 (Afghanistan), 147,400 (Iraq), 62,152 (Eritrea), 45,704 (Iran), 34,465 (Turkey), 29,137 (Somalia), 9,329 (Russia), 9,323 (Nigeria), 8,600 (Pakistan), 7,503 (Serbia and Kosovo), 6,057 (Ethiopia) (mid-year 2021); 971,000 (Ukraine) (as of 13 August 2022)<br>
+_refugees (country of origin)_: 616,325 (Syria), 152,677 (Afghanistan), 147,400 (Iraq), 62,152 (Eritrea), 45,704 (Iran), 34,465 (Turkey), 29,137 (Somalia), 9,329 (Russia), 9,323 (Nigeria), 8,600 (Pakistan), 7,503 (Serbia and Kosovo), 6,057 (Ethiopia) (mid-year 2021); 967,000 (Ukraine) (as of 13 August 2022)<br>
 _stateless persons_: 26,980 (mid-year 2021)<br>
 
 **Illicit drugs**<br>

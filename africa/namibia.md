@@ -707,11 +707,11 @@ Namibian Defense Force (NDF): Army, Navy, Air Force<br><br>Ministry of Home Affa
 information varies; approximately 12,500 personnel (11,000 Army; 1,000 Navy; 500 Air Force) (2022)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the inventory of the Namibian Defense Force consists mostly of Soviet-era equipment; China is the leading supplier of weapons to Namibia since 2010 (2021)<br>
+the inventory of the Namibian Defense Force consists mostly of Soviet-era equipment; China has been the leading supplier of weapons to Namibia since 2010 (2021)<br>
 
 **Military service age and obligation**<br>
-18-25 years of age for voluntary military service (men and women); no conscription (2021)<br>
-<strong>note:</strong> as of 2018, women comprised more than 20% of the active military<br>
+18-25 years of age for men and women for voluntary military service; no conscription (2021)<br>
+<strong>note:</strong> as of 2018, women comprised more than 20% of the active duty military<br>
 
 **Military - note**<br>
 <p>the Namibian Defense Force (NDF) was created in 1990, largely from demobilized former members of the People's Liberation Army of Namibia (PLAN) and the South West Africa Territorial Force (SWATF); PLAN was the armed wing of the South West Africa People’s Organization (SWAPO), while SWATF was an auxiliary of the South African Defense Force and comprised the armed forces of the former South West Africa, 1977-1989; from 1990-1995, the British military assisted with the forming and training the NDF</p><br>

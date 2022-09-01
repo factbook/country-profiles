@@ -281,7 +281,7 @@ _chief of state_: President Vjosa OSMANI-Sadriu (since 4 April 2021)<br>
 _head of government_: Prime Minister Albin KURTI (since 22 March 2021)<br>
 _cabinet_: Cabinet elected by the Assembly<br>
 _elections/appointments_: president indirectly elected by at least two-thirds majority vote of the Assembly for a 5-year term; if a candidate does not attain a two-thirds threshold in the first two ballots, the candidate winning a simple majority vote in the third ballot is elected (eligible for a second term); election last held on 3-4 April 2021 (next to be held in 2026); prime minister indirectly elected by the Assembly<br>
-_election results_: Vjosa OSMANI-Sadriu elected president in the third ballot; Assembly vote - Vjosa OSMANI-Sadriu (Guxo!) 71 votes; Albin KURTI (VV) elected prime minister; Assembly vote - 67-30<br>
+_election results_: <em>2021: </em> Vjosa OSMANI-Sadriu elected president in the third ballot; Assembly vote - Vjosa OSMANI-Sadriu (Guxo!) 71 votes; Albin KURTI (VV) elected prime minister; Assembly vote - 67-30<br><br><em>2016:</em> Hashim THACI elected president in third ballot; Assembly vote - Hashim THACI (PDK) 71 votes; Ramush HARADINAJ (AAK) elected prime minister; Assembly vote - 61 votes<br>
 
 **Legislative branch**<br>
 _description_: unicameral Assembly or Kuvendi i Kosoves/Skupstina Kosova (120 seats; 100 members directly elected by open-list proportional representation vote with 20 seats reserved for ethnic minorities - 10 for Serbs and 10 for other ethnic minorities; members serve 4-year terms)<br>
@@ -605,7 +605,7 @@ Kosovo Security Force (KSF; Forca e Sigurisë së Kosovës or FSK): Land Force C
 approximately 3,500 KSF personnel; note - Kosovo plans for the KSF to eventually number around 5,000 troops (2021)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the KSF is equipped with small arms and light vehicles only; it relies on donations and since 2013 has received donated equipment from Turkey and the US (2021)<br>
+the KSF is equipped with small arms and light vehicles only; it relies on donations, and since 2013 has received donated equipment from Turkey and the US (2021)<br>
 
 **Military service age and obligation**<br>
 service is voluntary; must be over the age of 18 and a citizen of Kosovo; upper age for enlisting is 30 for officers, 25 for other ranks, although these may be waived for recruits with key skills considered essential for the KSF<br> (2021)<br>
@@ -626,5 +626,5 @@ Islamic State of Iraq and ash-Sham (ISIS)<br>
 
 **Refugees and internally displaced persons**<br>
 _IDPs_: 16,000 (primarily ethnic Serbs displaced during the 1998-1999 war fearing reprisals from the majority ethnic-Albanian population; a smaller number of ethnic Serbs, Roma, Ashkali, and Egyptians fled their homes in 2,004 as a result of violence) (2021)<br>
-<strong>note:</strong> 8,011 estimated refugee and migrant arrivals (January 2015-June 2022)<br>
+<strong>note:</strong> 8,100 estimated refugee and migrant arrivals (January 2015-July 2022)<br>
 

@@ -714,7 +714,7 @@ registration requirement at age 17, the legal minimum age for voluntary military
 170 Bosnia-Herzegovina (EUFOR stabilization force); 300 Kosovo (NATO/KFOR); 200 Lebanon (UNIFIL) (Aug 2022)<br>
 
 **Military - note**<br>
-<p>Austria is constitutionally non-aligned, but is an EU member and actively participates in EU peacekeeping and crisis management operations under the Common Security and Defense Policy; Austria is not a member of NATO, but joined NATO’s Partnership for Peace framework in 1995 and participates in NATO-led crisis management and peacekeeping operations; as of 2022, more than 100,000 Austrian military and civilian personnel had taken part in more than 50 international peace support and humanitarian missions since 1960</p> (2022)<br>
+Austria is constitutionally non-aligned but is an EU member and actively participates in EU peacekeeping and crisis management operations under the Common Security and Defense Policy; Austria is not a member of NATO but joined NATO&rsquo;s Partnership for Peace framework in 1995 and participates in NATO-led crisis management and peacekeeping operations; as of 2022, more than 100,000 Austrian military and civilian personnel had taken part in more than 50 international peace support and humanitarian missions since 1960 (2022)<br>
 
 ## Terrorism
 
@@ -728,7 +728,7 @@ Islamic State of Iraq and ash-Sham (ISIS)<br>
 <p>none identified</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 57,887 (Syria), 41,037 (Afghanistan), 9,661 (Iraq), 8,212 (Somalia), 7,046 (Iran), 7,003 (Russia) (mid-year 2021); 78,158 (Ukraine) (as of 16 August 2022)<br>
+_refugees (country of origin)_: 57,887 (Syria), 41,037 (Afghanistan), 9,661 (Iraq), 8,212 (Somalia), 7,046 (Iran), 7,003 (Russia) (mid-year 2021); 78,958 (Ukraine) (as of 23 August 2022)<br>
 _stateless persons_: 3,229 (mid-year 2021)<br>
 
 **Illicit drugs**<br>

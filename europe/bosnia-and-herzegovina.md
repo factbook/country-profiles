@@ -686,10 +686,10 @@ Armed Forces of Bosnia and Herzegovina (AFBiH or Oruzanih Snaga Bosne i Hercegov
 approximately 9,000 active duty personnel (2022)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the inventory for the Armed Forces of Bosnia and Herzegovina includes mainly Soviet-era weapons systems with a small and varied mix of older European and US equipment (2021)<br>
+the military's inventory includes mainly Soviet-era weapons systems with a small and varied mix of older European and US equipment (2021)<br>
 
 **Military service age and obligation**<br>
-18 years of age for voluntary military service; mandatory retirement at age 35 or after 15 years of service for junior enlisted personnel (E-1 to E-4), mandatory retirement at age 50 and 30 years of service for non-commissioned officers (E-5 to E-9), mandatory retirement at age 55 and 30 years of service for all commissioned officers; conscription abolished in 2005 (2021)<br>
+18 years of age for voluntary military service; mandatory retirement at age 35 or after 15 years of service for junior enlisted personnel, mandatory retirement at age 50 and 30 years of service for non-commissioned officers, mandatory retirement at age 55 and 30 years of service for all commissioned officers; conscription abolished in 2005 (2021)<br>
 <strong>note:</strong> as of 2019, women made up about 7% of the military's full-time personnel<br>
 
 **Military - note**<br>

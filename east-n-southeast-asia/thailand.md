@@ -360,7 +360,7 @@ _residency requirement for naturalization_: 5 years<br>
 
 **Executive branch**<br>
 _chief of state_: King WACHIRALONGKON, also spelled Vajiralongkorn, (since 1 December 2016)<br>
-_head of government_: Prime Minister PRAYUT Chan-ocha (since 11 June 2019)<br>
+_head of government_: Prime Minister PRAYUT Chan-ocha (since 11 June 2019; suspended August 2022); Acting Prime Minister PRAWIT Wongsuwan<br>
 _cabinet_: Council of Ministers nominated by the prime minister, appointed by the king; a Privy Council advises the king<br>
 _elections/appointments_: the monarchy is hereditary; the House of Representatives and Senate approves a person for prime minister who must then be appointed by the King (as stated in the transitory provision of the 2017 constitution); the office of prime minister can be held for up to a total of 8 years<br>
 <strong>note:</strong>  PRAYUT Chan-ocha was appointed interim prime minister in August 2014, three months after he staged the coup that removed the previously elected government of Prime Minister YINGLAK Chinnawat; on 5 June 2019 PRAYUT (independent) was approved as prime minister by the parliament <br>
@@ -368,7 +368,7 @@ _elections/appointments_: the monarchy is hereditary; the House of Representativ
 **Legislative branch**<br>
 _description_: bicameral National Assembly or Ratthasapha consists of:<br>Senate or Wuthisapha (250 seats; members appointed by the Royal Thai Army to serve 5-year terms)<br>House of Representatives or Saphaphuthan Ratsadon (500 seats; 375 members directly elected in single-seat constituencies by simple majority vote and 150 members elected in a single nationwide constituency by party-list proportional representation vote; members serve 4-year terms)<br>
 _elections_: Senate - last held on 14 May 2019 (next to be held in 2024)<br><br>House of Representatives - last held on 24 March 2019 (next to be held in 2023)<br>
-_election results_: Senate - percent of vote by party - NA; seats by party - NA; composition - men 224, women 26, percent of women 10.4%<br>House of Representatives - percent of vote by party in 2019 election- PPRP 23.7%, PTP 22.2%, FFP* 17.8%, DP 11.1%, PJT 10.5%, TLP 2.3%, CTP 2.2%, NEP 1.4%, PCC 1.4%, ACT 1.2%, PCP 1.2%,  other 5.1%; seats by party - PTP 136, PPRP 116, FFP 81, DP 53, PJT 51, CTP 10, TLP 10, PCC 7, PCP 5, NEP 6, ACT 5, other 20; composition - men 421, women 79, percent of women 15.8%; note(s) - total National Assembly percent of women 14%; the FFP was dissolved by the Constitutional Court in February of 2020 and its representatives moved to the newly-formed Move Forward Party or to other political parties<br>
+_election results_: Senate - percent of vote by party - NA; seats by party - NA; composition (248 members as of mid-2022) - men 222, women 26, percent of women 10.5%<br>House of Representatives - percent of vote by party in 2019 election- PPRP 23.7%, PTP 22.2%, FFP* 17.8%, DP 11.1%, PJT 10.5%, TLP 2.3%, CTP 2.2%, NEP 1.4%, PCC 1.4%, ACT 1.2%, PCP 1.2%,  other 5.1%; seats by party - PTP 136, PPRP 116, FFP 81, DP 53, PJT 51, CTP 10, TLP 10, PCC 7, PCP 5, NEP 6, ACT 5, other 20; composition (489 members as of mid-2022) - men 412, women 77, percent of women 15.8%; note(s) - total National Assembly percent of women 14%; the FFP was dissolved by the Constitutional Court in February of 2020 and its representatives moved to the newly-formed Move Forward Party or to other political parties<br>
 
 **Judicial branch**<br>
 _highest courts_: Supreme Court of Justice (consists of the court president, 6 vice presidents, 60-70 judges, and organized into 10 divisions); Constitutional Court (consists of the court president and 8 judges); Supreme Administrative Court (number of judges determined by Judicial Commission of the Administrative Courts)<br>
@@ -726,8 +726,8 @@ estimates vary widely; approximately 300,000 active duty personnel (200,000 Army
 the RTARF has a diverse array of foreign-supplied weapons systems, including a large amount of obsolescent or second-hand US equipment; since 2010, Thailand has received military equipment from nearly 20 countries with China, South Korea, Sweden, Ukraine, and the US as the leading suppliers (2021)<br>
 
 **Military service age and obligation**<br>
-18 years of age for voluntary military service (men and women); 21 years of age for compulsory military service (men only); males register at 18 years of age; 2-year conscript service obligation varies by educational qualifications (2021)<br>
-<strong>note 1:</strong> information varies, but conscripts reportedly comprise as much as 50% of the RTARF; around 100,000 males are drafted each year<br><br><strong>note 2:</strong> as of 2020, women comprised about 8% of active military personnel<br>
+18 years of age for voluntary military service for men and women; 21 years of age for compulsory military service (men only); males register at 18 years of age; 2-year conscript service obligation varies by educational qualifications (2021)<br>
+<strong>note 1:</strong> information varies, but conscripts reportedly comprise as much as 50% of the armed forces; around 100,000 males are drafted each year<br><br><strong>note 2:</strong> as of 2020, women comprised about 8% of active duty military personnel<br>
 
 **Military deployments**<br>
 280 South Sudan (UNMISS) (May 2022)<br>

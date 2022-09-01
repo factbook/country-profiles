@@ -325,7 +325,7 @@ _chief of state_: Queen ELIZABETH II (since 6 February 1952); represented by Gov
 _head of government_: Prime Minister Manasseh SOGAVARE (since 24 April 2019)<br>
 _cabinet_: Cabinet appointed by the governor general on the advice of the prime minister<br>
 _elections/appointments_: the monarchy is hereditary; governor general appointed by the monarch on the advice of the National Parliament for up to 5 years (eligible for a second term); following legislative elections, the leader of the majority party or majority coalition usually elected prime minister by the National Parliament; deputy prime minister appointed by the governor general on the advice of the prime minister from among members of the National Parliament<br>
-_election results_: Manasseh SOGAVARE elected prime minister on 24 April 2019, 34 votes out of 50 seat National Parliament<br>
+_election results_: Manasseh SOGAVARE elected prime minister on 24 April 2019<br>
 
 **Legislative branch**<br>
 _description_: unicameral National Parliament (50 seats; members directly elected in single-seat constituencies by simple majority vote to serve 4-year terms)<br>

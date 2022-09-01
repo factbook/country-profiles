@@ -682,7 +682,7 @@ approximately 2,000 active personnel (2022)<br>
 the AFL is poorly armed; it has received limited quantities of equipment since 2010, including donations, from countries such as China and the US (2021)<br>
 
 **Military service age and obligation**<br>
-18-35 years of age for voluntary military service (men and women); no conscription (2021)<br>
+18-35 years of age for men and women for voluntary military service; no conscription (2021)<br>
 <strong>note:</strong> as of 2020, women made up about .4% of the active military<br>
 
 **Military deployments**<br>

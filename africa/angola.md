@@ -355,16 +355,16 @@ _residency requirement for naturalization_: 10 years<br>
 18 years of age; universal<br>
 
 **Executive branch**<br>
-_chief of state_: President Joao Manuel Goncalves LOURENCO (since 26 September 2017); Vice President Bornito De Sousa Baltazar DIOGO (since 26 September 2017); note - the president is both chief of state and head of government<br>
-_head of government_: President Joao Manuel Goncalves LOURENCO (since 26 September 2017); Vice President Bornito De Sousa Baltazar DIOGO (since 26 September 2017)<br>
+_chief of state_: President Joao Manuel Goncalves LOURENCO (since 29 August 2022); Vice President Bornito De Sousa Baltazar DIOGO (since 29 August 2022); note - the president is both chief of state and head of government (2022)<br>
+_head of government_: President Joao Manuel Goncalves LOURENCO (since 29 August 2022); Vice President Bornito De Sousa Baltazar DIOGO (since 29 August 2022) (2022)<br>
 _cabinet_: Council of Ministers appointed by the president<br>
-_elections/appointments_: the candidate of the winning party or coalition in the last legislative election becomes the president; president serves a 5-year term (eligible for a second consecutive or discontinuous term); last held on 23 August 2017 (next to be held in 24 August 2022)<br>
-_election results_: Joao Manuel Goncalves LOURENCO (MPLA) elected president by then winning party following the 23 August 2017 general election<br>
+_elections/appointments_: the candidate of the winning party or coalition in the last legislative election becomes the president; president serves a 5-year term (eligible for a second consecutive or discontinuous term); last held on 24 August 2022 (next to be held in 24 August 2027) (2022)<br>
+_election results_: Joao Manuel Goncalves LOURENCO (MPLA) elected president by then winning party following the 24 August 2022 general election (2022)<br>
 
 **Legislative branch**<br>
 _description_: unicameral National Assembly or Assembleia Nacional (220 seats; members directly elected in a single national constituency and in multi-seat constituencies by closed list proportional representation vote; members serve 5-year terms)<br>
-_elections_: last held on 23 August 2017 (next to be held on 24 August 2022)<br>
-_election results_: percent of vote by party - MPLA 61.1%, UNITA 26.7%, CASA-CE 9.5%, PRS 1.4%, FNLA 0.9%, other 0.5%; seats by party - MPLA 150, UNITA 51, CASA-CE 16, PRS 2, FNLA 1; composition - men 155, women 65, percent of women 29.5%<br>
+_elections_: last held on 24 August 2022 (next to be held on 24 August 2027) (2022)<br>
+_election results_: percent of vote by party - MPLA 51.17%, UNITA 43.95%, PRS 1.14%, FNLA 1.06%, PHA 1.02%, other 1.67%; seats by party - MPLA 124, UNITA 90, PRS 2, FNLA 2; PHA-2; composition - men 155, women 65, percent of women 29.5%<br><br>percent of vote by party - MPLA 61.1%, UNITA 26.7%, CASA-CE 9.5%, PRS 1.4%, FNLA 0.9%, other 0.5%; seats by party - MPLA 150, UNITA 51, CASA-CE 16, PRS 2, FNLA 1; composition - men 155, women 65, percent of women 29.5% (2022)<br>
 
 **Judicial branch**<br>
 _highest courts_: Supreme Court or Supremo Tribunal de Justica (consists of the court president, vice president, and a minimum of 16 judges); Constitutional Court or Tribunal Constitucional (consists of 11 judges)<br>
@@ -715,13 +715,13 @@ Angolan Armed Forces (Forcas Armadas Angolanas, FAA): Army, Navy (Marinha de Gue
 approximately 101,000 active troops (95,000 Army; 1,000 Navy; 5,000 Air Force); estimated 10,000 Rapid Reaction Police (2022)<br>
 
 **Military equipment inventories and acquisitions**<br>
-most Angolan military weapons and equipment are of Russian, Soviet, or Warsaw Pact origin; since 2010, Russia has remained the principle supplier of military hardware to Angola (2021)<br>
+most Angolan military weapons and equipment are of Russian, Soviet, or Warsaw Pact origin; since 2010, Russia has been&nbsp;the principal supplier of military hardware to Angola (2021)<br>
 
 **Military service age and obligation**<br>
-20-45 years of age for compulsory male and 18-45 years for voluntary male military service (registration at age 18 is mandatory); 20-45 years of age for voluntary female service; 2-year conscript service obligation; Angolan citizenship required; the Navy (MGA) is entirely staffed with volunteers (2021)<br>
+20-45 years of age for compulsory male and 18-45 years for voluntary male military service (registration at age 18 is mandatory); 20-45 years of age for voluntary female service; 2-year conscript service obligation; Angolan citizenship required; the Navy is entirely staffed with volunteers (2021)<br>
 
 **Military - note**<br>
-<p>the Angolan Armed Forces were created in 1991 under the Bicesse Accords signed between the Angolan Government and the National Union for the Total Independence of Angola (UNITA); the name remained even after UNITA rejected the 1992 election results and returned to fighting against the Angolan Government</p> <p>the Angolan Armed Forces are responsible for external security but also have domestic security responsibilities, including border security, expulsion of irregular migrants, and small-scale actions against groups like the Front for the Liberation of the Enclave of Cabinda separatists in Cabinda</p> (2022)<br>
+the Angolan Armed Forces were created in 1991 under the Bicesse Accords signed between the Angolan Government and the National Union for the Total Independence of Angola (UNITA) <br><br>the Angolan Armed Forces are responsible for external security but also have domestic security responsibilities, including border security, expulsion of irregular migrants, and small-scale actions against groups like the Front for the Liberation of the Enclave of Cabinda separatists in Cabinda (2022)<br>
 
 **Maritime threats**<br>
 the International Maritime Bureau reports the territorial waters of Angola are a risk for armed robbery against ships; in 2021, four attacks against commercial vessels were reported, a decrease from the six attacks in 2020; most of these occurred in the main port of Luanda while ships were berthed or at anchor<br>

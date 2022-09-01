@@ -215,6 +215,7 @@ see Australia<br>
 **Executive branch**<br>
 _chief of state_: Queen ELIZABETH II (since 6 February 1952); represented by Governor General of the Commonwealth of Australia General David HURLEY (since 1 July 2019)<br>
 _head of government_: Administrator Natasha GRIGGS (since 5 October 2017)<br>
+_cabinet_: NA<br>
 _elections/appointments_: the monarchy is hereditary; governor general appointed by the monarch on the recommendation of the Australian prime minister; administrator appointed by the governor general of Australia for a 2-year term and represents the monarch and Australia<br>
 
 **Legislative branch**<br>

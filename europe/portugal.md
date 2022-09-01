@@ -332,7 +332,7 @@ _chief of state_: President Marcelo REBELO DE SOUSA (since 9 March 2016)<br>
 _head of government_: Prime Minister Antonio Luis Santos da COSTA (since 24 November 2015)<br>
 _cabinet_: Council of Ministers appointed by the president on the recommendation of the prime minister<br>
 _elections/appointments_: president directly elected by absolute majority popular vote in 2 rounds if needed for a 5-year term (eligible for a second term); election last held on 24 January 2021 (next to be held in January 2026); following legislative elections the leader of the majority party or majority coalition is usually appointed prime minister by the president<br>
-_election results_: Marcelo REBELO DE SOUSA reelected president in the first round; percent of vote - Marcelo REBELO DE SOUSA (PSD) 60.7%, Ana GOMES (ran as an independent but is a member of PS) 12.97%, Andre VENTURA (CH) 11.9%, Jo&atilde;o FERREIRA (PCP-PEV) 4.32%, Marisa MATIAS (BE) 3.95%, other 6.16%<br>
+_election results_: <em>2021:</em> Marcelo REBELO DE SOUSA reelected president in the first round; percent of vote - Marcelo REBELO DE SOUSA (PSD) 60.7%, Ana GOMES (ran as an independent but is a member of PS) 13%, Andre VENTURA (CH) 11.9%, João FERREIRA (PCP-PEV) 4.32%, Marisa MATIAS (BE) 3.95%, other 6.16%<br><br><em>2016:</em> Marcelo REBELO DE SOUSA elected president; percent of vote -  Marcelo REBELO DE SOUSA (PSD) 52%, António SAMPAIO DA NOVOA (independent) 22.9%, Marisa MATIAS (BE) 10.1%, Maria DE BELEM ROSEIRA (PS) 4.2%<br>
 <strong>note:</strong> there is also a Council of State that acts as a consultative body to the president<br>
 
 **Legislative branch**<br>
@@ -690,15 +690,15 @@ Portuguese Armed Forces: Portuguese Army (Exercito Portuguesa), Portuguese Navy 
 the Portuguese Armed Forces have approximately 27,000 active duty personnel (14,000 Army; 7,000 Navy, including about 1,000 marines; 6,000 Air Force); 24,500 National Republican Guard (military personnel) (2022)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the Portuguese Armed Forces inventory includes mostly European and US-origin weapons systems along with a smaller mix of domestically-produced equipment; since 2010, Germany and the US are the leading suppliers of armaments to Portugal; Portugal's defense industry is primarily focused on shipbuilding (2021)<br>
+the Portuguese Armed Forces inventory includes mostly European- and US-origin weapons systems along with a smaller mix of domestically-produced equipment; since 2010, Germany and the US have been the leading suppliers of armaments to Portugal; Portugal's defense industry is primarily focused on shipbuilding (2021)<br>
 
 **Military service age and obligation**<br>
 18-30 years of age for voluntary or contract military service; no compulsory military service (abolished 2004), but conscription possible if insufficient volunteers available; women serve in the armed forces, on naval ships since 1992, but are prohibited from serving in some combatant specialties; contract service lasts for an initial period from two to six years, and can be extended to a maximum of 20 years of service; voluntary military service lasts 12 months; reserve obligation to age 35 (2021)<br>
 <strong>note: </strong>as of 2019, women made up about 12% of the military's full-time personnel<br>
 
 **Military deployments**<br>
-200 Central African Republic (MINUSCA/EUTM); up to 120 Lithuania (NATO) (2022)<br>
-<strong>note 1: </strong>in 2021, Portugal deployed about 80 troops to Mozambique to assist with the EU training mission<br><br><strong>note 2: </strong>NATO troop deployment numbers in eastern Europe are as of February 2022; in response to Russia’s 2022 invasion of Ukraine, some NATO countries, including Portugal, have sent additional troops to the battlegroups deployed in NATO territory in eastern Europe<br>
+200 Central African Republic (MINUSCA/EUTM); up to 150 Lithuania (NATO); approximately 170 Romania (2022)<br>
+<strong>note 1: </strong>in 2021, Portugal deployed about 80 troops to Mozambique to assist with the EU training mission<br><br><strong>note 2: </strong>in response to Russia’s 2022 invasion of Ukraine, some NATO countries, including Portugal, have sent additional troops to the battlegroups deployed in NATO territory in eastern Europe<br><br><strong>note 3: </strong>Portugal also participates in several NATO maritime and air policing operations, as well as some EU international missions<br>
 
 **Military - note**<br>
 Portugal is a member of NATO and was one of the original 12 countries to sign the North Atlantic Treaty (also known as the Washington Treaty) in 1949<br>

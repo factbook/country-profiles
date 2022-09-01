@@ -721,7 +721,7 @@ approximately 19,000 active personnel (12,000 Army; 1,000 Navy/Coast Guard; 1,00
 the FAS inventory includes mostly older or second-hand equipment from a variety of countries, including France, South Africa, and Russia/former Soviet Union; in recent years, the FAS has undertaken a modernization program; since 2010, it has received newer equipment from nearly 15 countries, with France as the leading supplier (2022)<br>
 
 **Military service age and obligation**<br>
-18 years of age for voluntary military service (men and women); 20 years of age for selective conscript service; 2-year service obligation; women have been accepted into military service since 2008 (2022)<br>
+18 years of age for voluntary military service for men and women; 20 years of age for selective conscript service; 2-year service obligation; women have been accepted into military service since 2008 (2022)<br>
 
 **Military deployments**<br>
 750 Gambia (ECOMIG); 970 Mali (MINUSMA); note - Senegal also has about 1,100 police deployed on various UN peacekeeping missions (2022)<br>

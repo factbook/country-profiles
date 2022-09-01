@@ -735,10 +735,10 @@ Pakistan Army (includes National Guard), Pakistan Navy (includes marines, Mariti
 information varies; approximately 630,000 active duty personnel (550,000 Army; 30,000 Navy; 50,000 Air Force); approximately 150,000 Frontier Corps and Pakistan Rangers (2022)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the Pakistan military inventory includes a broad mix of equipment, primarily from China, France, Russia, Turkey, Ukraine, the UK, and the US; since 2010, China is the leading supplier of arms to Pakistan; Pakistan also has a large domestic defense industry (2022)<br>
+the Pakistan military inventory includes a broad mix of equipment, primarily from China, France, Russia, Turkey, Ukraine, the UK, and the US; since 2010, China has been the leading supplier of arms to Pakistan; Pakistan also has a large domestic defense industry (2022)<br>
 
 **Military service age and obligation**<br>
-16 (or 17 depending on service)-23 years of age for voluntary military service; soldiers cannot be deployed for combat until age 18; women serve in all three armed forces; reserve obligation to age 45 for enlisted men, age 50 for officers (2022)<br>
+16 (or 17 depending on service) to 23 years of age for voluntary military service; soldiers cannot be deployed for combat until age 18; women serve in all three armed forces; reserve obligation to age 45 for enlisted men, age 50 for officers (2022)<br>
 
 **Military deployments**<br>
 1,300 Central African Republic (MINUSCA); 1,970 Democratic Republic of the Congo (MONUSCO); 220 Mali (MINUSMA); 290 South Sudan (UNMISS); 220 Sudan (UNISFA) (May 2022)<br>

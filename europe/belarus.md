@@ -702,7 +702,7 @@ Belarus Armed Forces: Army, Air and Air Defense Force, Special Operations Force,
 approximately 45,000 active duty troops; information on the individual services varies, but reportedly includes about 25,000 Army, 15,000 Air/Air Defense, and 5,000 Special Operations forces (2022)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the inventory of the Belarus Armed Forces is comprised mostly of Russian/Soviet-origin equipment, and since 2010 Russia is the leading provider of arms; Belarus's defense industry manufactures some equipment (mostly modernized Soviet designs), including vehicles, guided weapons, and electronic warfare systems (2021)<br>
+the inventory of the Belarus Armed Forces is comprised mostly of Russian/Soviet-origin equipment, and since 2010 Russia has been the leading provider of arms; Belarus's defense industry manufactures some equipment (mostly modernized Soviet designs), including vehicles, guided weapons, and electronic warfare systems (2021)<br>
 
 **Military service age and obligation**<br>
 18-27 years of age for compulsory military or alternative service; conscript service obligation is 12-18 months, depending on academic qualifications, and 24-36 months for alternative service, depending on academic qualifications; 17-year-olds are eligible to become cadets at military higher education institutes, where they are classified as military personnel (2021)<br>
@@ -717,7 +717,7 @@ the inventory of the Belarus Armed Forces is comprised mostly of Russian/Soviet-
 <p><em>Belarus-Latvia:</em> Boundary demarcated with Latvia.<br><br><em>Belarus-Lithuania:</em> Boundary demarcated with Lithuania.<br><br><em>Belarus-Poland:</em> As a member state that forms part of the EU's external border, Poland has implemented strict Schengen border rules to restrict illegal immigration and trade along its border with Belarus.</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 16,689 (Ukraine) (as of 16 August 2022)<br>
+_refugees (country of origin)_: 11,644 (Ukraine) (as of 23 August 2022)<br>
 _stateless persons_: 6,104 (mid-year 2021)<br>
 
 **Trafficking in persons**<br>

@@ -342,7 +342,7 @@ _chief of state_: President Miguel DIAZ-CANEL Bermudez (since 19 April 2018); Vi
 _head of government_: Prime Minister Manuel MARRERO Cruz (since 21 December 2019); Deputy Prime Ministers Ramiro VALDES Menendez, Ines Maria CHAPMAN Waugh, Jorge Luis TAPIA Fonseca, Alejandro GIL Fernandez, Ricardo CABRISAS Ruiz (since 21 December 2019), and Jorge Luis PERDOMO DI-LELLA (since 20 April 2021)<br>
 _cabinet_: Council of Ministers proposed by the president and appointed by the National Assembly<br>
 _elections/appointments_: president and vice president indirectly elected by the National Assembly for a 5-year term (may be reelected for another 5-year term); election last held on 10 October 2019 (next to be held NA)<br>
-_election results_: Miguel DIAZ-CANEL Bermudez (PCC) elected president; percent of National Assembly vote - 98.8%; Salvador Antonio VALDES Mesa (PCC) elected vice president; percent of National Assembly vote - 98.1%<br>
+_election results_: <br><em>2019: </em>Miguel DIAZ-CANEL Bermudez (PCC) elected president; percent of National Assembly vote - 98.8%; Salvador Antonio VALDES Mesa (PCC) elected vice president; percent of National Assembly vote - 98.1%<br><br>2018: Miguel DIAZ-CANEL Bermudez (PCC) elected president; percent of National Assembly vote - 98.8%; Salvador Antonio VALDES Mesa (PCC) elected vice president; percent of National Assembly vote - 100%<br>
 <em>note</em> - on 19 April 2018, DIAZ-CANEL succeeded Raul CASTRO as president of the Councils of State and Ministers; on 10 October 2019 he was elected to the newly created position of President of the Republic, which replaced the position of President of the Councils of State and Ministers<br>
 
 **Legislative branch**<br>
@@ -684,7 +684,7 @@ Revolutionary Armed Forces (Fuerzas Armadas Revolucionarias, FAR): Revolutionary
 limited available information; estimated 50,000 active personnel (approximately 40,000 Army; 3,000 Navy; 8,000 Air Force) (2022)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the Cuban military inventory is comprised of ageing Russian and Soviet-era equipment; the last recorded arms delivery to Cuba was by Russia in 2004; in 2019, Russia approved a loan for approximately $43-50 million for Cuba's purchase of spare parts and armored vehicles (2022)<br>
+the Cuban military inventory is comprised of aging Russian and Soviet-era equipment; the last recorded arms delivery to Cuba was by Russia in 2004; in 2019, Russia approved a loan for approximately $43-50 million for Cuba's purchase of spare parts and armored vehicles (2022)<br>
 
 **Military service age and obligation**<br>
 17-28 years of age for compulsory (men) and volunteer (men and women) military service; 2-year service obligation for men (2022)<br>

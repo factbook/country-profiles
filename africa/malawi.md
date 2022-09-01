@@ -705,10 +705,10 @@ Malawi Defense Force (MDF): Army (includes marine unit), Air Force (established 
 information varies; approximately 8,000 personnel (including about 200 air and 200 marine forces) (2022)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the Malawi Defense Force inventory is comprised of mostly obsolescent or second-hand equipment from Europe and South Africa; since 2010, it has taken deliveries of limited amounts of mostly second-hand equipment from China, South Africa, and the UK, as well as non-lethal equipment donated by the US (2021)<br>
+the Malawi Defense Force inventory is comprised of mostly obsolescent or second-hand equipment from Europe and South Africa; since 2010, it has received limited amounts of mostly second-hand equipment from China, South Africa, and the UK, as well as non-lethal equipment donated by the US (2021)<br>
 
 **Military service age and obligation**<br>
-18 years of age for voluntary military service (men and women); high school equivalent required for enlisted recruits and college equivalent for officer recruits; initial engagement is 7 years for enlisted personnel and 10 years for officers (2021)<br>
+18 years of age for men and women for voluntary military service; high school equivalent required for enlisted recruits and college equivalent for officer recruits; initial engagement is 7 years for enlisted personnel and 10 years for officers (2021)<br>
 
 **Military deployments**<br>
 750 Democratic Republic of the Congo (MONUSCO) (May 2022)<br>

@@ -345,8 +345,8 @@ _residency requirement for naturalization_: 10 years; reduced to five years in t
 _chief of state_: Notification Statement: the United States recognizes Juan GUAIDO as the Interim President of Venezuela<br><br>President Nicolas MADURO Moros (since 19 April 2013); Executive Vice President Delcy RODRIGUEZ Gomez (since 14 June 2018); note - the president is both chief of state and head of government<br>
 _head of government_: President Nicolas MADURO Moros (since 19 April 2013); Executive Vice President Delcy RODRIGUEZ Gomez (since 14 June 2018)<br>
 _cabinet_: Council of Ministers appointed by the president<br>
-_elections/appointments_: president directly elected by simple majority popular vote for a 6-year term (no term limits); election last held on 20 May 2018 (next election scheduled for 2024)<br>
-_election results_: 2018: Nicolas MADURO Moros reelected president; percent of vote - Nicolas MADURO Moros (PSUV) 68%, Henri FALCON (AP) 21%, Javier BERTUCCI 11%; note - the election was marked by serious shortcomings and electoral fraud; voter turnout was approximately 46% due largely to an opposition boycott of the election<br><br>2013: Nicolas MADURO Moros elected president; percent of vote - Nicolas MADURO Moros (PSUV) 50.6%, Henrique CAPRILES Radonski (PJ) 49.1%, other 0.3%<br>
+_elections/appointments_: president directly elected by simple majority popular vote for a 6-year term (no term limits); election last held on 20 May 2018 (next election in 2024)<br>
+_election results_: <br>2018: Nicolas MADURO Moros reelected president; percent of vote - Nicolas MADURO Moros (PSUV) 68%, Henri FALCON (AP) 21%, Javier BERTUCCI 11%; note - the election was marred by serious shortcomings and electoral fraud; voter turnout was approximately 46% due largely to an opposition boycott of the election<br><br>2013: Nicolas MADURO Moros elected president; percent of vote - Nicolas MADURO Moros (PSUV) 50.6%, Henrique CAPRILES Radonski (PJ) 49.1%, other 0.3%<br>
 
 **Legislative branch**<br>
 _description_: unicameral National Assembly or Asamblea Nacional (277 seats; 3 seats reserved for indigenous peoples of Venezuela; members serve 5-year terms); note - in 2020, the National Electoral Council increased the number of seats in the National Assembly from 167 to 277 for the 6 December 2020 election<br>
@@ -696,10 +696,10 @@ Bolivarian National Armed Forces (Fuerza Armada Nacional Bolivariana, FANB): Bol
 information varies; approximately 125-150,000 active personnel, including about 25-30,000 National Guard; approximately 200-225,000 Bolivarian Militia (2022)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the FANB inventory is mainly of Chinese and Russian origin with a smaller mix of equipment from Western countries, including the US; since 2010, Russia is the top supplier of military hardware to Venezuela (2022)<br>
+the FANB inventory is mainly of Chinese and Russian origin with a smaller mix of equipment from Western countries, including the US; since 2010, Russia has been the top supplier of military hardware to Venezuela (2022)<br>
 
 **Military service age and obligation**<br>
-18-30 (25 for women) for voluntary service; the minimum service obligation is 24-30 months; all citizens of military service age (18-50 years old) are obligated to register for military service and subject to military training, although “forcible recruitment” is forbidden (2022)<br>
+18-30 (25 for women) for voluntary service; the minimum service obligation is 24-30 months; all citizens of military service age (18-50) are obligated to register for military service and subject to military training, although “forcible recruitment” is forbidden (2022)<br>
 <strong>note:</strong> as of 2017, women made up more than 20% of the active duty military<br>
 
 **Military - note**<br>

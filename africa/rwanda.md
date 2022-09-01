@@ -689,7 +689,7 @@ approximately 33,000 active RDF personnel (32,000 Army; 1,000 Air Force) (2022)<
 the RDF's inventory includes mostly Russian, Soviet-era, and older Western - largely French and South African - equipment; since 2010, Russia has been the top supplier (2021)<br>
 
 **Military service age and obligation**<br>
-18 years of age for voluntary military service (men and women); no conscription; Rwandan citizenship is required; enlistment is either as contract (5-years, renewable twice) or career (2021)<br>
+18 years of age for men and women for voluntary military service; no conscription; Rwandan citizenship is required; enlistment is either as contract (5-years, renewable twice) or career (2021)<br>
 
 **Military deployments**<br>
 2,450 (plus about 500 police) Central African Republic (approximately 1,700 for MINUSCA; an additional 750 troops sent separately under a bilateral agreement with CAR in August, 2021); up to 2,000 Mozambique (deployed mid-2021 under a bi-lateral agreement to assist with combating insurgency; includes both military and police forces); 2,600 (plus about 400 police) South Sudan (UNMISS) (2022)<br>

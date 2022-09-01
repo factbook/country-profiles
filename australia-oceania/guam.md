@@ -275,7 +275,7 @@ see United States<br>
 18 years of age; universal; note - Guamanians are US citizens but do not vote in US presidential elections<br>
 
 **Executive branch**<br>
-_chief of state_: <p>President Joseph R. BIDEN Jr. (since 20 January 2021); Vice President Kamala D. HARRIS (since 20 January 2021)</p><br>
+_chief of state_: President Joseph R. BIDEN Jr. (since 20 January 2021); Vice President Kamala D. HARRIS (since 20 January 2021)<br>
 _head of government_: Governor Lourdes LEON GUERRERO (since 7 January 2019); Lieutenant Governor Josh TENORIO (since 7 January 2019)<br>
 _cabinet_: Cabinet appointed by the governor with the consent of the Legislature<br>
 _elections/appointments_: president and vice president indirectly elected on the same ballot by an Electoral College of 'electors' chosen from each state to serve a 4-year term (eligible for a second term); under the US Constitution, residents of unincorporated territories, such as Guam, do not vote in elections for US president and vice president; however, they may vote in Democratic and Republican presidential primary elections; governor and lieutenant governor elected on the same ballot by absolute majority vote in 2 rounds if needed for a 4-year term (eligible for 2 consecutive terms); election last held on 6 November 2018 (next to be held in November 2022)<br>
@@ -292,7 +292,7 @@ _judge selection and term of office_: justices appointed by the governor and con
 _subordinate courts_: Superior Court of Guam - includes several divisions; US Federal District Court for the District of Guam (a US territorial court; appeals beyond this court are heard before the US Court of Appeals for the Ninth Circuit)<br>
 
 **Political parties and leaders**<br>
-Democratic Party [Joaquin "Kin" PEREZ]<br>Republican Party [Jerry CRISOSTOMO]<br>
+Democratic Party [Anthony "Tony" M. BABAUTA]<br>Republican Party [Juan Carlos BENITEZ]<br>
 
 **International organization participation**<br>
 AOSIS (observer), IOC, PIF (observer), SPC, UPU<br>
@@ -553,8 +553,11 @@ _major seaport(s)_: Apra Harbor<br>
 
 ## Military and Security
 
+**Military and security forces**<br>
+Guam (US Army) National Guard<br>
+
 **Military - note**<br>
-defense is the responsibility of the US<br>
+defense is the responsibility of the US; the US military maintains over 6,000 personnel on Guam, including an air base, an air wing, and a naval installation command (2022)<br>
 
 ## Transnational Issues
 

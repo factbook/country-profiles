@@ -657,7 +657,7 @@ Not available<br>
 the FASTP has approximately 500 personnel (2022)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the FASTP is lightly and poorly armed (2021)<br>
+the FASTP has a limited inventory of light weapons (2021)<br>
 
 **Military service age and obligation**<br>
 18 is the legal minimum age for compulsory military service; 17 is the legal minimum age for voluntary service (2021)<br>

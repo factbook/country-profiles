@@ -644,7 +644,7 @@ most of the RBDF's major equipment inventory is supplied by the Netherlands (202
 18 years of age for voluntary male and female service; no conscription (2022)<br>
 
 **Military - note**<br>
-the RBDF was established in 1980; its primary responsibilities are disaster relief, maritime security, and counter-narcotics operations; it is a naval force, but includes a lightly-armed marine infantry/commando squadron for base and internal security, as well as a few light non-combat aircraft; the maritime element has coastal patrol craft and patrol boats; the RBDF maintains training relationships with the UK and the US&nbsp; (2022)<br>
+the RBDF was established in 1980; its primary responsibilities are disaster relief, maritime security, and counter-narcotics operations; it is a naval force, but includes a lightly-armed marine infantry/commando squadron for base and internal security, as well as a few light non-combat aircraft; the maritime element has coastal patrol craft and patrol boats; the RBDF maintains training relationships with the UK and the US (2022)<br>
 
 ## Transnational Issues
 

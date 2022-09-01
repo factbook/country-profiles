@@ -355,7 +355,7 @@ _chief of state_: President Milo DJUKANOVIC (since 20 May 2018)<br>
 _head of government_: Prime Minister Dritan ABAZOVIC (since 28 April 2022)<br>
 _cabinet_: Ministers act as cabinet<br>
 _elections/appointments_: president directly elected by absolute majority popular vote in 2 rounds if needed for a 5-year term (eligible for a second term); election last held on 15 April 2018 (next to be held in 2023); prime minister nominated by the president, approved by the Assembly<br>
-_election results_: Milo DJUKANOVIC elected president in the first round; percent of vote - Milo DJUKANOVIC (DPS) 53.9%, Mladen BOJANIC (independent) 33.4%, Draginja VUKSANOVIC (SDP) 8.2%, Marko MILACIC (PRAVA) 2.8%, other 1.7%<br>
+_election results_: <em>2018:</em> Milo DJUKANOVIC elected president in the first round; percent of vote - Milo DJUKANOVIC (DPS) 53.9%, Mladen BOJANIC (independent) 33.4%, Draginja VUKSANOVIC (SDP) 8.2%, Marko MILACIC (PRAVA) 2.8%, other 1.7%<br><br><em>2013:</em> Filip VUJANOVIC reelected president; percent of vote Filip VUJANOVIC (DPS) 51.2%, Miodrag LEKIC (independent) 48.8%<br>
 
 **Legislative branch**<br>
 _description_: unicameral Assembly or Skupstina (81 seats; members directly elected in a single nationwide constituency by proportional representation vote; members serve 4-year terms)<br>
@@ -712,7 +712,7 @@ Montenegro became a member of NATO in 2017; as of 2022, Greece and Italy provide
 <p><em>Montenegro-Albania</em>: none identified</p> <p><em>Montenegro-Bosnia and Herzegovina</em>: the two countries signed a border agreement in August 2015; sovereignty of the disputed Sutorina territory was given to Montenegro</p> <p><em>Montenegro-Croatia</em>: the two countries in 2002 reached a temporary agreement designating the Prevlaka Peninsula as part of Croatia, in October 2020, a Montenegrin official resurrected the dormant dispute over the Prevlaka Peninsula by stating that Montenegro had a good chance of winning it through international arbitration</p> <p><em>Montenegro-Kosovo</em>: a 2015 border agreement was ratified by Montenegro in 2015 and by Kosovo in 2018, but the actual demarcation has not been completed</p> <p><em>Montenegro-Serbia</em>: The former republic boundary – when the two countries were one and called the Federal Republic of Yugoslavia – serves as the boundary until a line is formally delimited and demarcated</p> <p> </p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 9,614 (Ukraine) (as of 8 August 2022)<br>
+_refugees (country of origin)_: 9,968 (Ukraine) (as of 16 August 2022)<br>
 _stateless persons_: 458 (mid-year 2021)<br>
 <strong>note:</strong> 23,978 estimated refugee and migrant arrivals (January 2015-August 2022)<br>
 

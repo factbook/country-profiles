@@ -354,8 +354,8 @@ _election results_: Ranil WICKREMESINGHE elected president by Parliament on 20 J
 
 **Legislative branch**<br>
 _description_: unicameral Parliament (225 seats; 196 members directly elected in multi-seat district constituencies by proportional representation vote using a preferential method in which voters select 3 candidates in order of preference; remaining 29 seats, referred to as the "national list" are allocated by each party secretary according to the island wide proportional vote the party obtains; members serve 5-year terms)<br>
-_elections_: last held on 17 August 2015 (next originally scheduled for 25 April 2020 but postponed to due to the COVID-19 pandemic)<br>
-_election results_: percent of vote by coalition/party - SLFPA 59.1%, SJB 23.9%, JVP 3.8%, TNA 2.8%, UNP 2.2%, TNPF 0.6%, EPDP 0.5%,&nbsp; other 7.1%; seats by coalition/party - SLFPA 145, SJB 54, TNA 10, JVP 3, other 13; composition - NA<br>
+_elections_: last held on 5 August 2020 (next&nbsp; to be held in August 2025)<br>
+_election results_: percent of vote by coalition/party - SLFPA 59.1%, SJB 23.9%, JVP 3.8%, TNA 2.8%, UNP 2.2%, TNPF 0.6%, EPDP 0.5%,&nbsp; other 7.1%; seats by coalition/party - SLFPA 145, SJB 54, TNA 10, JVP 3, other 13; composition - men 213, women 12, percent of women 5.3%<br>
 
 **Judicial branch**<br>
 _highest courts_: Supreme Court of the Republic (consists of the chief justice and 9 justices); note - the court has exclusive jurisdiction to review legislation<br>
@@ -706,13 +706,13 @@ approximately 240,000 total personnel (170,000 Army; 40,000 Navy; 30,000 Air For
 the Sri Lankan military inventory consists mostly of Chinese and Russian-origin equipment; since 2010, China, India, and the US have been the leading suppliers of arms to Sri Lanka (2022)<br>
 
 **Military service age and obligation**<br>
-18-22 years of age for voluntary military service (men and women); no conscription (2022)<br>
+18-22 years of age for voluntary military service for men and women; no conscription (2022)<br>
 
 **Military deployments**<br>
 110 Central African Republic (MINUSCA); 125 Lebanon (UNIFIL); 240 Mali (MINUSMA) (May 2022)<br>
 
 **Military - note**<br>
-Sri Lanka traditionally has had close security ties to India; India participated in the counter-insurgency war against the LTTE from 1987-1991, losing over 1,000 soldiers in the conflict; the Sri Lankan and Indian militaries continue to conduct exercises together, and India trains over 1,000 Sri Lankan soldiers per year; however, since the end of the war with LTTE, Sri Lanka has also increased military ties with China, including acquiring military equipment, hosting naval port calls, and sending personnel to China for training<br><br>since the end of the war with LTTE, the Sri Lankan military has increased its role in a range of commercial sectors including agriculture, hotels, leisure, and restaurants; this expansion has been particularly discernible in the majority Tamil-populated northern and eastern provinces where a large portion of the Army reportedly remained deployed as of 2021 (2022)<br>
+Sri Lanka traditionally has had close security ties to India; India participated in the counter-insurgency war against the Liberation Tigers of Tamil Eelam (LTTE) from 1987-1991, losing over 1,000 soldiers in the conflict; the Sri Lankan and Indian militaries continue to conduct exercises together, and India trains over 1,000 Sri Lankan soldiers per year; however, since the end of the war with LTTE, Sri Lanka has also increased military ties with China, including acquiring military equipment, hosting naval port calls, and sending personnel to China for training<br><br>since the end of the war with LTTE, the Sri Lankan military has increased its role in a range of commercial sectors including agriculture, hotels, leisure, and restaurants; this expansion has been particularly discernible in the majority Tamil-populated northern and eastern provinces where a large portion of the Army reportedly remained deployed as of 2021 (2022)<br>
 
 ## Terrorism
 
