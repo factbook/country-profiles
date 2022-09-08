@@ -223,6 +223,13 @@ NA<br>
 **Obesity - adult prevalence rate**<br>
 36.2% (2016)<br>
 
+**Alcohol consumption per capita**<br>
+_total_: 8.93 liters of pure alcohol (2019 est.)<br>
+_beer_: 3.97 liters of pure alcohol (2019 est.)<br>
+_wine_: 1.67 liters of pure alcohol (2019 est.)<br>
+_spirits_: 3.29 liters of pure alcohol (2019 est.)<br>
+_other alcohols_: 0 liters of pure alcohol (2019 est.)<br>
+
 **Tobacco use**<br>
 _total_: 23% (2020 est.)<br>
 _male_: 28.4% (2020 est.)<br>

@@ -224,6 +224,13 @@ _soil contact diseases_: hantaviral hemorrhagic fever with renal syndrome (HFRS)
 **Obesity - adult prevalence rate**<br>
 6.2% (2016)<br>
 
+**Alcohol consumption per capita**<br>
+_total_: 4.48 liters of pure alcohol (2019 est.)<br>
+_beer_: 1.66 liters of pure alcohol (2019 est.)<br>
+_wine_: 0.18 liters of pure alcohol (2019 est.)<br>
+_spirits_: 2.63 liters of pure alcohol (2019 est.)<br>
+_other alcohols_: 0 liters of pure alcohol (2019 est.)<br>
+
 **Tobacco use**<br>
 _total_: 25.6% (2020 est.)<br>
 _male_: 49.4% (2020 est.)<br>

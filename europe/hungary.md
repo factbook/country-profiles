@@ -211,6 +211,13 @@ _vectorborne diseases_: tickborne encephalitis (2016)<br>
 **Obesity - adult prevalence rate**<br>
 26.4% (2016)<br>
 
+**Alcohol consumption per capita**<br>
+_total_: 10.79 liters of pure alcohol (2019 est.)<br>
+_beer_: 3.96 liters of pure alcohol (2019 est.)<br>
+_wine_: 3.33 liters of pure alcohol (2019 est.)<br>
+_spirits_: 3.5 liters of pure alcohol (2019 est.)<br>
+_other alcohols_: 0 liters of pure alcohol (2019 est.)<br>
+
 **Tobacco use**<br>
 _total_: 31.8% (2020 est.)<br>
 _male_: 35.8% (2020 est.)<br>
@@ -365,7 +372,7 @@ _judge selection and term of office_: Curia president elected by the National As
 _subordinate courts_: 5 regional courts of appeal; 19 regional or county courts (including Budapest Metropolitan Court); 20 administrative-labor courts; 111 district or local courts<br>
 
 **Political parties and leaders**<br>
-Christian Democratic People's Party or KDNP [Zsolt SEMJEN]<br>Democratic Coalition or DK [Ferenc GYURCSANY]<br>Dialogue for Hungary (Parbeszed) or PM [Gergely KARACSONY, Timea SZABO]<br>Fidesz-Hungarian Civic Alliance or Fidesz [Viktor ORBAN]<br>Hungarian Socialist Party or MSZP [Bertalan TOTH, Agnes KUNHALMI]<br>LMP-Hungary's Green Party [Mate KANASZ-NAGY, Erzsebet SCHMUCK]<br>Mi Hazank [Laszlo TOROCZKAI]<br>Momentum Movement (Momentum Mozgalom) [Anna DONATH]<br>Movement for a Better Hungary or Jobbik [Peter JAKAB]<br>National Self-Government of Germans in Hungary or LdU [Olivia SCHUBERT]<br>Together (Egyutt)<br>United for Hungary (a coalition of Jobbik, MSZP, Dialogue, DK, LMP, and Momentum)<br>
+Christian Democratic People's Party or KDNP [Zsolt SEMJEN]<br>Democratic Coalition or DK [Ferenc GYURCSANY]<br>Dialogue for Hungary (Parbeszed) or PM [Bence TORDAI, Rebeka SZABO]<br>Fidesz-Hungarian Civic Alliance or Fidesz [Viktor ORBAN]<br>Hungarian Socialist Party or MSZP [Bertalan TOTH, Agnes KUNHALMI]<br>LMP-Hungary's Green Party [Peter UNGAR, Erzsebet SCHMUCK]<br>Mi Hazank (Our Homeland Movement) or MHM [Laszlo TOROCZKAI]<br>Momentum Movement (Momentum Mozgalom) [Ferenc GELENCSER]<br>Movement for a Better Hungary or Jobbik [Marton GYONGYOSI]<br>National Self-Government of Germans in Hungary or LdU [Ibolya HOCK-ENGLENDER]<br>United for Hungary (a coalition of Jobbik, MSZP, Dialogue, DK, LMP, and Momentum)<br>
 
 **International organization participation**<br>
 Australia Group, BIS, CD, CE, CEI, CERN, EAPC, EBRD, ECB, EIB, ESA (cooperating state), EU, FAO, G-9, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IEA, IFAD, IFC, IFRCS, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, MINURSO, NATO, NEA, NSG, OAS (observer), OECD, OIF (observer), OPCW, OSCE, PCA, Schengen Convention, SELEC, UN, UNCTAD, UNESCO, UNFICYP, UNHCR, UNIDO, UNIFIL, UNWTO, UPU, Wassenaar Arrangement, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO, ZC<br>
@@ -733,7 +740,7 @@ Islamic State of Iraq and ash-Sham (ISIS)<br>
 <p>bilateral government, legal, technical and economic working group negotiations continue in 2006 with Slovakia over Hungary's failure to complete its portion of the Gabcikovo-Nagymaros hydroelectric dam project along the Danube; as a member state that forms part of the EU's external border, Hungary has implemented the strict Schengen border rules</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 28,640 (Ukraine) (as of 23 August 2022)<br>
+_refugees (country of origin)_: 28,640 (Ukraine) (as of 30 August 2022)<br>
 _stateless persons_: 130 (mid-year 2021)<br>
 <strong>note:</strong> 432,744 estimated refugee and migrant arrivals (January 2015-December 2018); Hungary is predominantly a transit country and hosts 137 migrants and asylum seekers as of the end of June 2018; 1,626 migrant arrivals in 2017<br>
 

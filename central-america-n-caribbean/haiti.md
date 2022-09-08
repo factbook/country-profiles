@@ -211,6 +211,13 @@ _vectorborne diseases_: dengue fever and malaria<br>
 **Obesity - adult prevalence rate**<br>
 22.7% (2016)<br>
 
+**Alcohol consumption per capita**<br>
+_total_: 2.85 liters of pure alcohol (2019 est.)<br>
+_beer_: 0.55 liters of pure alcohol (2019 est.)<br>
+_wine_: 0.03 liters of pure alcohol (2019 est.)<br>
+_spirits_: 2.26 liters of pure alcohol (2019 est.)<br>
+_other alcohols_: 0 liters of pure alcohol (2019 est.)<br>
+
 **Tobacco use**<br>
 _total_: 7.7% (2020 est.)<br>
 _male_: 12.2% (2020 est.)<br>
@@ -236,7 +243,7 @@ _female_: 58.3% (2016)<br>
 ## Environment
 
 **Environment - current issues**<br>
-extensive deforestation (much of the remaining forested land is being cleared for agriculture and used as fuel); soil erosion; overpopulation leads to inadequate supplies of potable water and and a lack of sanitation; natural disasters<br>
+extensive deforestation (much of the remaining forested land is being cleared for agriculture and used as fuel); soil erosion; overpopulation leads to inadequate supplies of potable water and a lack of sanitation; natural disasters<br>
 
 **Environment - international agreements**<br>
 _party to_: Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Desertification, Hazardous Wastes, Law of the Sea, Marine Dumping-London Convention, Marine Life Conservation, Ozone Layer Protection<br>
@@ -274,7 +281,7 @@ _food or waterborne diseases_: bacterial and protozoal diarrhea, hepatitis A and
 _vectorborne diseases_: dengue fever and malaria<br>
 
 **Food insecurity**<br>
-_severe localized food insecurity_: <em>due to reduced agricultural production and socio-political turmoil -</em> about 4.56 million people are estimated to be facing severe acute food insecurity and in need of urgent food assistance between March and June 2022; the high levels of food insecurity are the result of consecutive reduced cereal harvests between 2018 and 2021, and elevated food prices, exacerbated by sociopolitical turmoil; two natural disasters (a 7.2 magnitude earthquake and a tropical storm) that struck in August 2021, destroyed productive assets and infrastructures, and caused losses of stored food, further aggravating conditions; the lack of income-earning opportunities amid worsening insecurity and difficult macroeconomic conditions is likely to heighten food insecurity (2022)<br>
+_severe localized food insecurity_: <em>due to reduced agricultural production, sociopolitical turmoil, natural disasters - </em>about 4.56 million people are estimated to be facing severe acute food insecurity and in need of urgent food assistance between March and June 2022; the high levels of food insecurity are the result of consecutive reduced cereal harvests between 2018 and 2021, and elevated food prices, exacerbated by socio-political turmoil and worsening insecurity; the lack of income-earning opportunities, amid worsening insecurity and difficult macroeconomic conditions, is likely to heighten food insecurity in 2022 (2022)<br>
 
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 2,309,852 tons (2015 est.)<br>

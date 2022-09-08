@@ -203,6 +203,13 @@ _vectorborne diseases_: malaria<br>
 **Obesity - adult prevalence rate**<br>
 47.3% (2016)<br>
 
+**Alcohol consumption per capita**<br>
+_total_: 2.18 liters of pure alcohol (2019 est.)<br>
+_beer_: 2.01 liters of pure alcohol (2019 est.)<br>
+_wine_: 0 liters of pure alcohol (2019 est.)<br>
+_spirits_: 0.17 liters of pure alcohol (2019 est.)<br>
+_other alcohols_: 0 liters of pure alcohol (2019 est.)<br>
+
 **Tobacco use**<br>
 _total_: 25.3% (2020 est.)<br>
 _male_: 36.1% (2020 est.)<br>
@@ -343,7 +350,7 @@ _judge selection and term of office_: chief justice appointed by the chief of st
 _subordinate courts_: District Court; Magistrates' Courts; Land and Titles Courts; village fono or village chief councils<br>
 
 **Political parties and leaders**<br>
-Human Rights Protection Party or HRPP [TUILA'EPA Sailele Malielegaoi]<br>Fa'atuatua i le Atua Samoa ua Tasi or FAST [FIAME Naomi Mata'afa]<br>Tautua Samoa Party or TSP [Afualo Wood Uti SALELE]<br>
+Fa'atuatua i le Atua Samoa ua Tasi or FAST [FIAME Naomi Mata'afa]<br>Human Rights Protection Party or HRPP [TUILA'EPA Sailele Malielegaoi]<br>Tautua Samoa Party or TSP [Afualo Wood Uti SALELE]<br>
 
 **International organization participation**<br>
 ACP, ADB, AOSIS, C, FAO, G-77, IBRD, ICAO, ICCt, ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, IMO, Interpol, IOC, IPU, ITU, ITUC (NGOs), MIGA, OPCW, PIF, Sparteca, SPC, UN, UNCTAD, UNESCO, UNIDO, UPU, WCO, WHO, WIPO, WMO, WTO<br>

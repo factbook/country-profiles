@@ -273,7 +273,7 @@ _judge selection and term of office_: Eastern Caribbean Supreme Court chief just
 _subordinate courts_: Magistrate's Court; Juvenile Court<br>
 
 **Political parties and leaders**<br>
-Anguilla Democratic Party or ADP<br>Anguilla National Alliance or ANA<br>Anguilla Progressive Movement or APM [Dr. Ellis WEBSTER]; (formerly Anguilla United Movement or AUM)<br>Anguilla United Front or AUF [Cora RICHARDSON-HODGE] (alliance includes ADP, ANA)<br>
+Anguilla Progressive Movement or APM [Dr. Ellis WEBSTER]; (formerly Anguilla United Movement or AUM)<br>Anguilla United Front or AUF [Cora RICHARDSON-HODGE]<br>
 
 **International organization participation**<br>
 Caricom (associate), CDB, Interpol (subbureau), OECS, UNESCO (associate), UPU<br>

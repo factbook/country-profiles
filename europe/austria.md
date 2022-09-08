@@ -212,6 +212,13 @@ _unimproved: total_: total: 0% of population (2020 est.)<br>
 **Obesity - adult prevalence rate**<br>
 20.1% (2016)<br>
 
+**Alcohol consumption per capita**<br>
+_total_: 11.9 liters of pure alcohol (2019 est.)<br>
+_beer_: 6.3 liters of pure alcohol (2019 est.)<br>
+_wine_: 3.7 liters of pure alcohol (2019 est.)<br>
+_spirits_: 1.9 liters of pure alcohol (2019 est.)<br>
+_other alcohols_: 0 liters of pure alcohol (2019 est.)<br>
+
 **Tobacco use**<br>
 _total_: 26.4% (2020 est.)<br>
 _male_: 27.7% (2020 est.)<br>
@@ -728,7 +735,7 @@ Islamic State of Iraq and ash-Sham (ISIS)<br>
 <p>none identified</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 57,887 (Syria), 41,037 (Afghanistan), 9,661 (Iraq), 8,212 (Somalia), 7,046 (Iran), 7,003 (Russia) (mid-year 2021); 78,958 (Ukraine) (as of 23 August 2022)<br>
+_refugees (country of origin)_: 57,887 (Syria), 41,037 (Afghanistan), 9,661 (Iraq), 8,212 (Somalia), 7,046 (Iran), 7,003 (Russia) (mid-year 2021); 79,728 (Ukraine) (as of 30 August 2022)<br>
 _stateless persons_: 3,229 (mid-year 2021)<br>
 
 **Illicit drugs**<br>

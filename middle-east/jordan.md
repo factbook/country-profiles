@@ -215,6 +215,13 @@ _unimproved: total_: total: 1.3% of population (2020 est.)<br>
 **Obesity - adult prevalence rate**<br>
 35.5% (2016)<br>
 
+**Alcohol consumption per capita**<br>
+_total_: 0.25 liters of pure alcohol (2019 est.)<br>
+_beer_: 0.06 liters of pure alcohol (2019 est.)<br>
+_wine_: 0 liters of pure alcohol (2019 est.)<br>
+_spirits_: 0.19 liters of pure alcohol (2019 est.)<br>
+_other alcohols_: 0 liters of pure alcohol (2019 est.)<br>
+
 **Tobacco use**<br>
 _total_: 34.8% (2020 est.)<br>
 _male_: 56.8% (2020 est.)<br>
@@ -702,7 +709,7 @@ Jordanian Armed Forces (JAF): Royal Jordanian Army (includes Special Operations 
 5.7% of GDP (2017 est.) (approximately $5.18 billion)<br>
 
 **Military and security service personnel strengths**<br>
-approximately 94,500 active duty armed forces personnel (80,000 Army; 14,000 Air Force; 500 Navy); approximately 15,000 Gendarmerie Forces (2022)<br>
+approximately 94,500 active duty armed forces personnel (80,000 Army; 14,000 Air Force; 500 Coast Guard); approximately 15,000 Gendarmerie Forces (2022)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the JAF inventory is comprised of a wide mix of imported equipment from Europe, some Gulf States, Russia, and the US; since 2010, the Netherlands and the US have been the leading suppliers (2022)<br>
@@ -715,7 +722,7 @@ the JAF inventory is comprised of a wide mix of imported equipment from Europe, 
 330 Mali (MINUSMA) (May 2022)<br>
 
 **Military - note**<br>
-<p>the Jordanian military traces its origins back to the Arab Legion, which was formed under the British protectorate of Transjordan in the 1920s</p> <p>due largely to its proximity to regional conflicts in Iraq and Syria, the presence of major terrorist organizations in both of those countries, and the Israeli-Palestinian conflict, the highest priorities of Jordan’s military and security services in 2022 included securing its borders and the potential for domestic terrorist attacks; the terrorist group Hizballah and Iranian-backed militia forces were operating in southwestern Syria near Jordan’s border while fighters from the Islamic State of Iraq and ash-Sham (ISIS) terrorist group continued operating in both Iraq and Syria; ISIS fighters included Jordanian nationals, some of whom have returned to Jordan; meanwhile, individuals and groups sympathetic to Palestine have planned and conducted terrorist attacks in Jordan</p> <p>Jordan has Major Non-NATO Ally (MNNA) status with the US; MNNA is a designation under US law that provides foreign partners with certain benefits in the areas of defense trade and security cooperation; while MNNA status provides military and economic privileges, it does not entail any security commitments <br><br>Jordan signed a peace treaty with Israel in 1994</p><br>
+the Jordanian military traces its origins back to the Arab Legion, which was formed under the British protectorate of Transjordan in the 1920s<br><br>due largely to its proximity to regional conflicts in Iraq and Syria, the presence of major terrorist organizations in both of those countries, and the Israeli-Palestinian conflict, the highest priorities of Jordan’s military and security services in 2022 included securing its borders and the potential for domestic terrorist attacks; the terrorist group Hizballah and Iranian-backed militia forces were operating in southwestern Syria near Jordan’s border while fighters from the Islamic State of Iraq and ash-Sham (ISIS) terrorist group continued operating in both Iraq and Syria; ISIS fighters included Jordanian nationals, some of whom have returned to Jordan; meanwhile, individuals and groups sympathetic to Palestine have planned and conducted terrorist attacks in Jordan<br><br>Jordan has Major Non-NATO Ally (MNNA) status with the US; MNNA is a designation under US law that provides foreign partners with certain benefits in the areas of defense trade and security cooperation; while MNNA status provides military and economic privileges, it does not entail any security commitments<br><br>Jordan signed a peace treaty with Israel in 1994 (2022)<br>
 
 ## Terrorism
 
@@ -729,7 +736,7 @@ Islamic State of Iraq and ash-Sham (ISIS)<br>
 <p><em>Jordan-Iraq</em>: the two countries signed a border agreement in 1984; Jordan has ratified the treaty, but it has not been confirmed that Iraq has ratified it; as of 2010, the agreement had not been registered with the UN</p> <p><em>Jordan-Israel</em>: none identified</p> <p><em>Jordan-Saudi Arabia</em>: Jordan and Saudi Arabia signed an agreement to demarcate their maritime borders in 2007</p> <p><em>Jordan-Syria</em>: the two countries signed an agreement in 2005 to settle the border dispute based on a 1931 demarcation accord; the two countries began demarcation in 2006</p> <p><em>Jordan-West Bank</em>: none identified</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 2,307,011 (Palestinian refugees) (2020); 66,665 (Iraq), 12,866 (Yemen), 6,013 Sudan (2021); 676,164 (Syria) (2022)<br>
+_refugees (country of origin)_: 2,307,011 (Palestinian refugees) (2020); 66,665 (Iraq), 12,866 (Yemen), 6,013 Sudan (2021); 676,496 (Syria) (2022)<br>
 _stateless persons_: 63 (mid-year 2021)<br>
 
 **Trafficking in persons**<br>

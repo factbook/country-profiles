@@ -206,6 +206,13 @@ _water contact diseases_: schistosomiasis<br>
 **Obesity - adult prevalence rate**<br>
 16.5% (2016)<br>
 
+**Alcohol consumption per capita**<br>
+_total_: 7.68 liters of pure alcohol (2019 est.)<br>
+_beer_: 2.45 liters of pure alcohol (2019 est.)<br>
+_wine_: 0.06 liters of pure alcohol (2019 est.)<br>
+_spirits_: 0 liters of pure alcohol (2019 est.)<br>
+_other alcohols_: 5.17 liters of pure alcohol (2019 est.)<br>
+
 **Tobacco use**<br>
 _total_: 9.2% (2020 est.)<br>
 _male_: 16.5% (2020 est.)<br>
@@ -275,7 +282,7 @@ _vectorborne diseases_: malaria<br>
 _water contact diseases_: schistosomiasis<br>
 
 **Food insecurity**<br>
-_severe localized food insecurity_: <em>due to economic downturn -</em> nearly 336,000 people were assessed to be food insecure at least until March 2022, prior to the main harvest period, primarily due to food access constraints, underpinned by the negative effects of the COVID-19 pandemic on the economy (2022)<br>
+_severe localized food insecurity_: <em>due to higher staple food prices - </em>the price of maize meal, the key food staple, increased in the first five months of 2022 and, as of May 2022, were 3 percent higher on a yearly basis; wheat flour prices were also at record highs in May 2022; this mainly reflects the elevated global prices and the country’s high dependence on imported wheat to satisfy national consumption needs (2022)<br>
 
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 218,199 tons (2016 est.)<br>
@@ -353,7 +360,7 @@ _judge selection and term of office_: justices of the Supreme Court and High Cou
 _subordinate courts_: magistrates' courts; National Swazi Courts for administering customary/traditional laws (jurisdiction restricted to customary law for Swazi citizens)<br>
 
 **Political parties and leaders**<br>
-political parties exist but conditions for their operations, particularly in elections, are undefined, legally unclear, or culturally restricted; the following are considered political associations:<br>African United Democratic Party or AUDP [Sibusiso DLAMINI]<br>Ngwane National Liberatory Congress or NNLC [Sibongile MAZIBUKO]<br>People's United Democratic Movement or PUDEMO [Mlungisi MAKHANYA]<br>Swazi Democratic Party or SWADEPA [vacant]<br>
+political parties exist but conditions for their operations, particularly in elections, are undefined, legally unclear, or culturally restricted; the following are considered political associations:<br>African United Democratic Party or AUDP [Sibusiso DLAMINI]<br>Ngwane National Liberatory Congress or NNLC [Sibongile MAZIBUKO]<br>People's United Democratic Movement or PUDEMO [Mlungisi MAKHANYA]<br>Swazi Democratic Party or SWADEPA [Jan SITHOLE]<br>
 
 **International organization participation**<br>
 ACP, AfDB, AU, C, COMESA, FAO, G-77, IAEA, IBRD, ICAO, ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, IMO, Interpol, IOC, IOM, ISO (correspondent), ITSO, ITU, ITUC (NGOs), MIGA, NAM, OPCW, PCA, SACU, SADC, UN, UNCTAD, UNESCO, UNIDO, UNWTO, UPU, WCO, WHO, WIPO, WMO, WTO<br>

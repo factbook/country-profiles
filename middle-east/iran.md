@@ -215,6 +215,13 @@ _vectorborne diseases_: Crimean-Congo hemorrhagic fever<br>
 **Obesity - adult prevalence rate**<br>
 25.8% (2016)<br>
 
+**Alcohol consumption per capita**<br>
+_total_: 0.02 liters of pure alcohol (2019 est.)<br>
+_beer_: 0 liters of pure alcohol (2019 est.)<br>
+_wine_: 0 liters of pure alcohol (2019 est.)<br>
+_spirits_: 0.02 liters of pure alcohol (2019 est.)<br>
+_other alcohols_: 0 liters of pure alcohol (2019 est.)<br>
+
 **Tobacco use**<br>
 _total_: 13.6% (2020 est.)<br>
 _male_: 24.1% (2020 est.)<br>
@@ -372,7 +379,7 @@ _judge selection and term of office_: Supreme Court president appointed by the h
 _subordinate courts_: Penal Courts I and II; Islamic Revolutionary Courts; Courts of Peace; Special Clerical Court (functions outside the judicial system and handles cases involving clerics); military courts<br>
 
 **Political parties and leaders**<br>
-Combatant Clergy Association (an active political group)<br>Executives of Construction Party<br>Followers of the Guardianship of the Jurisprudent [Ali LARIJANI]<br>Front of Islamic Revolutionary Stability [Morteza AGHA-TEHRANI, general secretary]<br>Islamic Coalition Party<br>Islamic Iran Participation Front [associated with former President Mohammed KHATAMI]<br>Islamic Law Party<br>Militant Clerics Society<br>Moderation and Development Party<br>National Trust Party<br>National Unity Party<br>Pervasive Coalition of Reformists [Ali SUFI, chairman] (includes Council for Coordinating the Reforms Front, National Trust Party, Union of Islamic Iran People Party, Moderation and Development Party)<br>Principlists Grand Coalition (includes Combatant Clergy Association and Islamic Coalition Party, Society of Devotees and Pathseekers of the Islamic Revolution, Front of Islamic Revolution Stability)<br>Progress, Welfare, and Justice Front<br>Progress and Justice Population of Islamic Iran or PJP [Hosein GHORBANZADEH, general secretary]<br>Resistance Front of Islamic Iran [Yadollah HABIBI, general secretary]<br>Steadfastness Front<br>Union of Islamic Iran People's Party<br>Wayfarers of the Islamic Revolution<br>
+Combatant Clergy Association [Mostafa POURMOHAMMADI] (an active political group)<br>Executives of Construction Party [Hossein MARASHI]<br>Followers of the Guardianship of the Jurisprudent [Ali LARIJANI]<br>Front of Islamic Revolutionary Stability [Sadegh MAHSOULI, secretary general]<br>Islamic Coalition Party [Asdollah BADAMCHIAN]<br>Islamic Iran Participation Front [associated with former President Mohammed KHATAMI]<br>Islamic Law Party<br>Militant Clerics Society<br>Moderation and Development Party <br>National Trust Party<br>National Unity Party<br>Pervasive Coalition of Reformists [Ali SUFI, chairman] (includes Council for Coordinating the Reforms Front, National Trust Party, Union of Islamic Iran People Party, Moderation and Development Party)<br>Principlists Grand Coalition (includes Combatant Clergy Association and Islamic Coalition Party, Society of Devotees and Pathseekers of the Islamic Revolution, Front of Islamic Revolution Stability)<br>Progress, Welfare, and Justice Front [Mohammad Saeed AHADIAN]<br>Progress and Justice Population of Islamic Iran or PJP [Hosein GHORBANZADEH, general secretary]<br>Resistance Front of Islamic Iran [Yadollah HABIBI, general secretary]<br>Steadfastness Front<br>Union of Islamic Iran People's Party [Azar MANSOURI]<br>Wayfarers of the Islamic Revolution<br>
 
 **International organization participation**<br>
 CICA, CP, D-8, ECO, FAO, G-15, G-24, G-77, IAEA, IBRD, ICAO, ICC (national committees), ICRM, IDA, IDB, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, MIGA, NAM, OIC, OPCW, OPEC, PCA, SAARC (observer), SCO (observer), UN, UNAMID, UNCTAD, UNESCO, UNHCR, UNIDO, UNITAR, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO (observer)<br>
@@ -688,8 +695,8 @@ _container port(s) (TEUs)_: Bandar Abbas<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Islamic Republic of Iran Regular Forces (Artesh): Ground Forces, Navy (includes marines), Air Force, Air Defense Forces; Islamic Revolutionary Guard Corps (Sepah, IRGC): Ground Forces, Navy (includes marines), Aerospace Force (controls strategic missile force), Qods Force (aka Quds Force; special operations), Cyber Electronic Command, Basij Paramilitary Forces (Popular Mobilization Army); Law Enforcement Forces (border and security troops, assigned to the armed forces in wartime) (2022)<br>
-<strong>note 1:</strong> the Artesh Navy operates Iran’s larger warships and operates in the Gulf of Oman, the Caspian Sea, and deep waters in the region and beyond; the IRGC Navy has responsibility for the closer-in Persian Gulf and Strait of Hormuz<br><br><strong>note 2:</strong> the Basij is a volunteer paramilitary group with local organizations across the country, which sometimes acts as an auxiliary law enforcement unit subordinate to IRGC ground forces<br>
+Islamic Republic of Iran Regular Forces (Artesh): Ground Forces, Navy (includes marines), Air Force, Air Defense Forces; Islamic Revolutionary Guard Corps (IRGC or Sepah): Ground Forces, Navy (includes marines), Aerospace Force (controls strategic missile force), Qods Force (aka Quds Force; special operations), Cyber Electronic Command, Basij Paramilitary Forces (Popular Mobilization Army); Law Enforcement Forces (border and security troops, assigned to the armed forces in wartime) (2022)<br>
+<strong>note 1:</strong> the Artesh Navy operates Iran’s larger warships and operates in the Gulf of Oman, the Caspian Sea, and deep waters in the region and beyond; the IRGC Navy has responsibility for the closer-in Persian Gulf and Strait of Hormuz<br><br><strong>note 2:</strong> the Basij is a volunteer paramilitary group under the IRGC with local organizations across the country, which sometimes acts as an auxiliary law enforcement unit <br>
 
 **Military expenditures**<br>
 2.3% of GDP (2021 est.)<br>

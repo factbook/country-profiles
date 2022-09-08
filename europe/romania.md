@@ -212,6 +212,13 @@ _unimproved: total_: total: 12.7% of population (2020 est.)<br>
 **Obesity - adult prevalence rate**<br>
 22.5% (2016)<br>
 
+**Alcohol consumption per capita**<br>
+_total_: 10.96 liters of pure alcohol (2019 est.)<br>
+_beer_: 5.33 liters of pure alcohol (2019 est.)<br>
+_wine_: 3.38 liters of pure alcohol (2019 est.)<br>
+_spirits_: 2.25 liters of pure alcohol (2019 est.)<br>
+_other alcohols_: 0 liters of pure alcohol (2019 est.)<br>
+
 **Tobacco use**<br>
 _total_: 28% (2020 est.)<br>
 _male_: 35.9% (2020 est.)<br>
@@ -726,7 +733,7 @@ Islamic State of Iraq and ash-Sham (ISIS)<br>
 <p><em>Romania-Bulgaria</em>: none identified</p> <p><em>Romania-Hungary</em>: none identified</p> <p><em>Romania-Moldova</em>: none identified</p> <p><em>Romania-Serbia</em>: none identified</p> <p><em>Romania-Ukraine</em>: the International Court of Justice ruled largely in favor of Romania in its dispute submitted in 2004 over Ukrainian-administered Zmiyinyy/Serpilor (Snake) Island and Black Sea maritime boundary delimitation; in 2007, Romania opposed Ukraine's construction of a navigation canal from the Danube border through Ukraine to the Black Sea, arguing that it runs through a unique ecological area, the Danube Delta</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 87,066 (Ukraine) (as of 22 August 2022)<br>
+_refugees (country of origin)_: 87,066 (Ukraine) (as of 28 August 2022)<br>
 _stateless persons_: 314 (mid-year 2021)<br>
 <strong>note:</strong> 10,447 estimated refugee and migrant arrivals (January 2015-July 2022)<br>
 

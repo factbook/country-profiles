@@ -194,6 +194,13 @@ _vectorborne diseases_: malaria<br>
 **Obesity - adult prevalence rate**<br>
 55.9% (2016)<br>
 
+**Alcohol consumption per capita**<br>
+_total_: 12.97 liters of pure alcohol (2019 est.)<br>
+_beer_: 3.62 liters of pure alcohol (2019 est.)<br>
+_wine_: 2.28 liters of pure alcohol (2019 est.)<br>
+_spirits_: 7.07 liters of pure alcohol (2019 est.)<br>
+_other alcohols_: 0 liters of pure alcohol (2019 est.)<br>
+
 **Tobacco use**<br>
 _total_: 24% (2020 est.)<br>
 _male_: 27.7% (2020 est.)<br>
@@ -218,7 +225,7 @@ _female_: 14 years (2012)<br>
 ## Environment
 
 **Environment - current issues**<br>
-limited land presents solid and liquid waste disposal problems; soil destruction and deforestation; environmental degradation due to indiscriminant use of pesticides; improper disposal of pollutants; overfishing and destructive fishing practices; over dredging of lagoons and coral rubble beds; unregulated building<br>
+limited land presents solid and liquid waste disposal problems; soil destruction and deforestation; environmental degradation due to indiscriminate use of pesticides; improper disposal of pollutants; overfishing and destructive fishing practices; over dredging of lagoons and coral rubble beds; unregulated building<br>
 
 **Environment - international agreements**<br>
 _party to_: Antarctic-Marine Living Resources, Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Hazardous Wastes, Law of the Sea, Ozone Layer Protection, Ship Pollution<br>

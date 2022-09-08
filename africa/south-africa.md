@@ -218,6 +218,13 @@ _water contact diseases_: schistosomiasis<br>
 **Obesity - adult prevalence rate**<br>
 28.3% (2016)<br>
 
+**Alcohol consumption per capita**<br>
+_total_: 7.21 liters of pure alcohol (2019 est.)<br>
+_beer_: 3.99 liters of pure alcohol (2019 est.)<br>
+_wine_: 1.21 liters of pure alcohol (2019 est.)<br>
+_spirits_: 1.31 liters of pure alcohol (2019 est.)<br>
+_other alcohols_: 0.7 liters of pure alcohol (2019 est.)<br>
+
 **Tobacco use**<br>
 _total_: 20.3% (2020 est.)<br>
 _male_: 34% (2020 est.)<br>

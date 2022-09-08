@@ -284,7 +284,7 @@ _judge selection and term of office_: Jersey Court of Appeal bailiffs and judges
 _subordinate courts_: Magistrate's Court; Youth Court; Petty Debts Court; Parish Hall Enquires (a process of preliminary investigation into youth and minor adult offenses to determine need for presentation before a court)<br>
 
 **Political parties and leaders**<br>
-Better Way or BW (group of independent candidates)<br>Jersey Alliance or JA [Mark BOLEAT]<br>Jersey Liberal Conservaties or JLC [Philip BAILHACHE]<br>Progress Party or PP [Steve PALLETT]<br>Reform Jersey or RJ [Sam MEZEC]<br>
+Better Way or BW (group of independent candidates)<br>Jersey Alliance or JA [Mark BOLEAT]<br>Jersey Liberal Conservatives or JLC [Sir Philip BAILHACHE]<br>Progress Party or PP [Steve PALLETT]<br>Reform Jersey or RJ [Sam MEZEC]<br>
 <strong>note:</strong> most deputies sit as independents<br>
 
 **International organization participation**<br>

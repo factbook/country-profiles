@@ -202,6 +202,13 @@ _unimproved: total_: total: (2020 est.) NA<br>
 **Obesity - adult prevalence rate**<br>
 10.8% (2016)<br>
 
+**Alcohol consumption per capita**<br>
+_total_: 3.39 liters of pure alcohol (2019 est.)<br>
+_beer_: 1.94 liters of pure alcohol (2019 est.)<br>
+_wine_: 0.23 liters of pure alcohol (2019 est.)<br>
+_spirits_: 0.88 liters of pure alcohol (2019 est.)<br>
+_other alcohols_: 0.03 liters of pure alcohol (2019 est.)<br>
+
 **Tobacco use**<br>
 _total_: 20.2% (2020 est.)<br>
 _male_: 37.3% (2020 est.)<br>
@@ -340,7 +347,7 @@ _judge selection and term of office_: chief justice appointed by the president a
 _subordinate courts_: lower regional courts known as District Courts, Court of Civil Appeal; Court of Criminal Appeal; Public Bodies Appeal Tribunal<br>
 
 **Political parties and leaders**<br>
-Alliance Morisien (Mauritian Alliance 2019; coalition includes MSM, ML, Patriotic Movement, and Militant Platform) [Pravind JUGNAUTH] <br>Mauritius Labor Party (Parti Travailliste) or PTR or MLP [Navinchandra RAMGOOLAM]<br>Mauritian Militant Movement (Mouvement Militant Mauricien) or MMM [Paul BERENGER]<br>Mauritian People's Union (Linion Pep Morisien) [Bruneau LAURETTE and Dev SUNNASY]<br>Mauritian Rally (Rassemblement Mauricien) [Nando BODHA]<br>Mauritian Social Democratic Party (Parti Mauricien Social Democrate) or PMSD [Xavier Luc DUVAL]<br>Militant Platform (Plateforme Militante) [Steven OBEEGADOO]<br>Militant Socialist Movement (Mouvement Socialist Mauricien) or MSM [Pravind JUGNAUTH]<br>Muvman Liberater or ML [Ivan COLLENDAVELLOO]<br>Patriotic Movement (Mouvement Patriotic) [Alan GANOO]<br>Rodrigues Peoples Organization (Organisation du Peuple Rodriguais) or OPR [Serge CLAIR]<br>
+Alliance Morisien (Mauritian Alliance 2019; coalition includes MSM, ML, Patriotic Movement, and Militant Platform) [Pravind JUGNAUTH] <br>Mauritian Militant Movement (Mouvement Militant Mauricien) or MMM [Paul BERENGER]<br>Mauritian People's Union (Linion Pep Morisien) [Bruneau LAURETTE and Dev SUNNASY]<br>Mauritian Rally (Rassemblement Mauricien) [Nando BODHA]<br>Mauritian Social Democratic Party (Parti Mauricien Social Democrate) or PMSD [Xavier Luc DUVAL]<br>Mauritius Labor Party (Parti Travailliste) or PTR or MLP [Navinchandra RAMGOOLAM]<br>Militant Platform (Plateforme Militante) [Steven OBEEGADOO]<br>Militant Socialist Movement (Mouvement Socialist Mauricien) or MSM [Pravind JUGNAUTH]<br>Muvman Liberater or ML [Ivan COLLENDAVELLOO]<br>Patriotic Movement (Mouvement Patriotic) [Alan GANOO]<br>Rodrigues Peoples Organization (Organisation du Peuple Rodriguais) or OPR [Serge CLAIR]<br>
 
 **International organization participation**<br>
 ACP, AfDB, AOSIS, AU, C, CD, COMESA, CPLP (associate), FAO, G-77, IAEA, IBRD, ICAO, ICC (NGOs), ICCt, ICRM, IDA, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, InOC, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, NAM, OIF, OPCW, PCA, SAARC (observer), SADC, UN, UNCTAD, UNESCO, UNIDO, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>

@@ -218,6 +218,13 @@ _vectorborne diseases_: dengue fever<br>
 **Obesity - adult prevalence rate**<br>
 20.3% (2016)<br>
 
+**Alcohol consumption per capita**<br>
+_total_: 5.47 liters of pure alcohol (2019 est.)<br>
+_beer_: 3.27 liters of pure alcohol (2019 est.)<br>
+_wine_: 0.59 liters of pure alcohol (2019 est.)<br>
+_spirits_: 1.59 liters of pure alcohol (2019 est.)<br>
+_other alcohols_: 0.03 liters of pure alcohol (2019 est.)<br>
+
 **Tobacco use**<br>
 _total_: 11.5% (2020 est.)<br>
 _male_: 18.6% (2020 est.)<br>
@@ -369,7 +376,7 @@ _judge selection and term of office_: justices proposed by the Council of Magist
 _subordinate courts_: appellate courts; first instance courts; minor courts, including justices of the peace<br>
 
 **Political parties and leaders**<br>
-Asociacion Nacional Republicana - Colorado Party or ANR [Pedro ALLIANA]<br>Avanza Pais coalition or AP [Adolfo FERREIRO]<br>Broad Front coalition (Frente Guasu) or FG [Carlos FILIZZOLA]<br>Ganar Alliance (alliance between PLRA and Guasu Front)<br>Movimiento Cruzada Nacional or MCN<br>Movimiento Hagamos or MH [Antonio "Tony" APURIL]<br>Movimiento Union Nacional de Ciudadanos Eticos or UNACE [Jorge OVIEDO MATTO]<br>Partido del Movimiento al Socialismo or P-MAS [Camilo Ernesto SOARES Machado]<br>Partido Democratica Progresista or PDP [Rafael FILIZZOLA]<br>Partido Encuentro Nacional or PEN [Fernando CAMACHO]<br>Partido Liberal Radical Autentico or PLRA [Efrain ALEGRE]<br>Partido Pais Solidario or PPS [Carlos Alberto FILIZZOLA Pallares]<br>Partido Popular Tekojoja or PPT [Sixto PEREIRA Galeano]<br>Patria Querida (Beloved Fatherland Party) or PPQ [Miguel CARRIZOSA]<br>
+Asociacion Nacional Republicana - Colorado Party or ANR [Pedro ALLIANA]<br>Avanza Pais coalition or AP [Adolfo FERREIRO]<br>Broad Front coalition (Frente Guasu) or FG [Fernando Armindo LUGO Mendez]<br>Ganar Alliance (alliance between PLRA and Guasu Front)<br>Movimiento Cruzada Nacional or MCN<br>Movimiento Hagamos or MH [Antonio "Tony" APURIL]<br>Movimiento Union Nacional de Ciudadanos Eticos or UNACE [Jorge OVIEDO MATTO]<br>Partido del Movimiento al Socialismo or P-MAS [Camilo Ernesto SOARES Machado]<br>Partido Democratica Progresista or PDP [Rafael FILIZZOLA]<br>Partido Encuentro Nacional or PEN [Fernando CAMACHO]<br>Partido Liberal Radical Autentico or PLRA [Efrain ALEGRE]<br>Partido Pais Solidario or PPS [Carlos Alberto FILIZZOLA Pallares]<br>Partido Popular Tekojoja or PPT [Sixto PEREIRA Galeano]<br>Patria Querida (Beloved Fatherland Party) or PPQ [Miguel CARRIZOSA]<br>
 
 **International organization participation**<br>
 CAN (associate), CD, CELAC, FAO, G-11, G-77, IADB, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ISO (correspondent), ITSO, ITU, ITUC (NGOs), LAES, LAIA, Mercosur, MIGA, MINURSO, MINUSTAH, MONUSCO, NAM (observer), OAS, OPANAL, OPCW, Pacific Alliance (observer), PCA, PROSUR, UN, UNASUR, UNCTAD, UNESCO, UNFICYP, UNIDO, Union Latina, UNISFA, UNMIL, UNMISS, UNOCI, UNWTO, UPU, WCO, WHO, WIPO, WMO, WTO<br>

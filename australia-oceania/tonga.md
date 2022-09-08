@@ -203,6 +203,13 @@ _vectorborne diseases_: malaria<br>
 **Obesity - adult prevalence rate**<br>
 48.2% (2016)<br>
 
+**Alcohol consumption per capita**<br>
+_total_: 0.31 liters of pure alcohol (2019 est.)<br>
+_beer_: 0.03 liters of pure alcohol (2019 est.)<br>
+_wine_: 0.17 liters of pure alcohol (2019 est.)<br>
+_spirits_: 0.11 liters of pure alcohol (2019 est.)<br>
+_other alcohols_: 0 liters of pure alcohol (2019 est.)<br>
+
 **Tobacco use**<br>
 _total_: 31% (2020 est.)<br>
 _male_: 46.7% (2020 est.)<br>
@@ -348,7 +355,7 @@ _judge selection and term of office_: judge appointments and tenures made by the
 _subordinate courts_: Supreme Court; Magistrates' Courts; Land Courts<br>
 
 **Political parties and leaders**<br>
-Democratic Party of the Friendly Islands or DPFI or PTOA<br>People's Democratic Party or PDP [Tesina FUKO]<br>Sustainable Nation-Building Party [Sione FONUA]<br>Tonga Democratic Labor Party<br>Tonga Human Rights and Democracy Movement or THRDM<br>Tonga People's Party or PAK (<em lang="to">Paati ʻa e Kakai ʻo Tonga</em>) [Pohiva TU'I'ONETOA] (split from Democratic Party of the Friendly Islands)<br>
+Democratic Party of the Friendly Islands or DPFI or PTOA [Semisi SIKA]<br>People's Democratic Party or PDP [Tesina FUKO]<br>Sustainable Nation-Building Party [Sione FONUA]<br>Tonga Democratic Labor Party [vacant]<br>Tonga Human Rights and Democracy Movement or HRDM ['Uliti UATA]<br>Tonga People's Party or PAK (<em lang="to">Paati ʻa e Kakai ʻo Tonga</em>) [Pohiva TU'I'ONETOA] (split from Democratic Party of the Friendly Islands)<br>
 
 **International organization participation**<br>
 ACP, ADB, AOSIS, C, FAO, G-77, IBRD, ICAO, ICRM, IDA, IFAD, IFC, IFRCS, IHO, IMF, IMO, IMSO, Interpol, IOC, IPU, ITU, ITUC (NGOs), OPCW, PIF, Sparteca, SPC, UN, UNCTAD, UNESCO, UNIDO, UPU, WCO, WHO, WIPO, WMO, WTO<br>

@@ -210,6 +210,13 @@ _unimproved: total_: total: 0.7% of population (2020 est.)<br>
 **Obesity - adult prevalence rate**<br>
 32.5% (2016)<br>
 
+**Alcohol consumption per capita**<br>
+_total_: 0.01 liters of pure alcohol (2019 est.)<br>
+_beer_: 0 liters of pure alcohol (2019 est.)<br>
+_wine_: 0.01 liters of pure alcohol (2019 est.)<br>
+_spirits_: 0 liters of pure alcohol (2019 est.)<br>
+_other alcohols_: 0 liters of pure alcohol (2019 est.)<br>
+
 **Children under the age of 5 years underweight**<br>
 11.7% (2014)<br>
 
@@ -263,7 +270,7 @@ _forest revenues_: 0.06% of GDP (2018 est.)<br>
 _coal revenues_: 0% of GDP (2018 est.)<br>
 
 **Food insecurity**<br>
-_severe localized food insecurity_: <em>due to civil insecurity, economic and political instability, and high food prices -</em> an estimated 800,000 people, 10% of the population, need humanitarian assistance, of which 500,000 require food assistance (2022)<br>
+_severe localized food insecurity_: <em>due to civil insecurity, economic and political instability, and high food prices -</em> an estimated 800,000 people, 10% of the population, need humanitarian assistance, of which 500,000 require food assistance; the country relies heavily on imports (up to 90%) to cover its cereal consumption requirements (mostly wheat for human consumption and barley for feed); between 2016 and 2020, the country sourced over 30% of its wheat imports from Ukraine, and 20% from the Russian Federation; almost 65% of total maize imports of 650,000 mt, and 50% of total barley imports of 1 million mt originated from Ukraine, making the Libya vulnerable to disruptions in shipments from the Black Sea region (2022)<br>
 
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 2,147,596 tons (2011 est.)<br>
@@ -650,8 +657,8 @@ _LNG terminal(s) (export)_: Marsa el Brega<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Libya lacks a nationwide military and the interim government, the Government of National Unity (GNU), relies on its cooperation with disparate militias that it cannot entirely control for security; the GNU has access to various ground, air, and naval/coast guard forces comprised of a mix of semi-regular military units, militias, civilian volunteers, and foreign troops and mercenaries<br><br>the Libyan National Army (LNA), under de facto LNA commander Khalifa HAFTER, also includes various ground, air, and naval units comprised of semi-regular military personnel, militias, and foreign troops and mercenaries; as of 2022, the LNA operated independently from the GNU and exerted influence throughout eastern, central, and southern Libya (2022)<br>
-<strong>note:</strong> the Stabilization Support Authority (SSA) is a state-funded militia established in January 2021 by the GNU; it is tasked with securing government buildings and officials, participating in combat operations, apprehending those suspected of national security crimes, and cooperating with other security bodies<br>
+Libya lacks a nationwide military and the interim government, the Government of National Unity (GNU), relies on its cooperation with disparate militias that it cannot entirely control for security; the GNU has a ministry of defense and access to various ground, air, and naval/coast guard forces comprised of a mix of semi-regular military units, militias, civilian volunteers, and foreign troops and mercenaries<br><br>the Libyan National Army (LNA), under de facto LNA commander Khalifa HAFTER, also includes various ground, air, and naval units comprised of semi-regular military personnel, militias, and foreign troops and mercenaries; as of 2022, the LNA operated independently from the GNU and exerted influence throughout eastern, central, and southern Libya (2022)<br>
+<strong>note 1:</strong> the Stabilization Support Authority (SSA) is a state-funded militia established in January 2021 by the GNU; it is tasked with securing government buildings and officials, participating in combat operations, apprehending those suspected of national security crimes, and cooperating with other security bodies<br><br><strong>note 2: </strong>the national police force under the Ministry of Interior oversees internal security (with support from military forces under the Ministry of Defense), but much of Libya's security-related police work generally falls to informal armed groups, which received government salaries but lacked formal training, supervision, or consistent accountability<br>
 
 **Military expenditures**<br>
 not available<br>
@@ -664,6 +671,9 @@ both the forces aligned with the GNU and the LNA are largely equipped with weapo
 
 **Military service age and obligation**<br>
 not available<br>
+
+**Military - note**<br>
+Turkey has been the primary backer of the GNU/GNA; Turkish military advisers have trained and assisted western/GNU Libyan forces in accordance with a 2019 Turkey-GNA security agreement; Turkey has also provided thousands of Syrian mercenaries to Libya, as well as ammunition, weapons and aerial drones; Russia, the United Arab Emirates, and Egypt have been the main supporters of the LNA; the LNA has used fighters from Syria, Chad, and Sudan <br><br>as of 2022, ISIS continued to maintain a relatively weak presence in Libya with small bands of fighters operating out of ungoverned spaces and conducting small-scale attacks throughout the country<br>
 
 ## Terrorism
 

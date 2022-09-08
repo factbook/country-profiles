@@ -221,6 +221,13 @@ _animal contact diseases_: rabies<br>
 **Obesity - adult prevalence rate**<br>
 8.6% (2016)<br>
 
+**Alcohol consumption per capita**<br>
+_total_: 0.04 liters of pure alcohol (2019 est.)<br>
+_beer_: 0 liters of pure alcohol (2019 est.)<br>
+_wine_: 0 liters of pure alcohol (2019 est.)<br>
+_spirits_: 0.04 liters of pure alcohol (2019 est.)<br>
+_other alcohols_: 0 liters of pure alcohol (2019 est.)<br>
+
 **Tobacco use**<br>
 _total_: 20.2% (2020 est.)<br>
 _male_: 33% (2020 est.)<br>
@@ -296,7 +303,7 @@ _animal contact diseases_: rabies<br>
 <strong>note 1:</strong> widespread ongoing transmission of a respiratory illness caused by the novel coronavirus (COVID-19) is occurring throughout Pakistan; as of 18 August 2022, Pakistan has reported a total of 1,564,231 cases of COVID-19 or 708.14 cumulative cases of COVID-19 per 100,000 population with a total of 30,542 cumulative deaths or a rate of 13.82 cumulative deaths per 100,000 population; as of 17 August 2022, 59.98% of the population has received at least one dose of COVID-19 vaccine<br><strong>note 2:</strong> Pakistan is one of two countries with endemic wild polio virus (the other is Afghanistan) and considered high risk for international spread of the disease; before any international travel, anyone unvaccinated, incompletely vaccinated, or with an unknown polio vaccination status should complete the routine polio vaccine series; before travel to any high-risk destination, the US Centers for Disease Control and Prevention (CDC) recommends that adults who previously completed the full, routine polio vaccine series receive a single, lifetime booster dose of polio vaccine<br>
 
 **Food insecurity**<br>
-_severe localized food insecurity_: <em>due to population displacements, economic constraints, and high prices of the main food staple -</em> according to the latest analysis, about 4.66 million people, 25% of the population, are estimated to be facing high levels of acute food insecurity, "Crisis" and above, until at least April 2022 in 25 districts analyzed in Balochistan, Sindh and Khyber Pakhtunkhwa provinces; prices of wheat flour, the country’s main staple, were at high levels in most markets in January 2022, constraining access to the staple food (2022)<br>
+_severe localized food insecurity_: <em>due to population displacements, economic constraints, and high prices of the main food staple -</em> according to the latest analysis, about 4.7 million people, 25% of the population, are estimated to be facing high levels of acute food insecurity, between April and June 2022 in 25 districts analyzed in Balochistan, Sindh and Khyber Pakhtunkhwa provinces; prices of wheat flour, the country’s main staple, were at high levels in most markets in May 2022, constraining access to the staple food (2022)<br>
 
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 30.76 million tons (2017 est.)<br>

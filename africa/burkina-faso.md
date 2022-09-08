@@ -219,6 +219,13 @@ _respiratory diseases_: meningococcal meningitis<br>
 **Obesity - adult prevalence rate**<br>
 5.6% (2016)<br>
 
+**Alcohol consumption per capita**<br>
+_total_: 7.28 liters of pure alcohol (2019 est.)<br>
+_beer_: 1 liters of pure alcohol (2019 est.)<br>
+_wine_: 0.08 liters of pure alcohol (2019 est.)<br>
+_spirits_: 0.31 liters of pure alcohol (2019 est.)<br>
+_other alcohols_: 5.88 liters of pure alcohol (2019 est.)<br>
+
 **Tobacco use**<br>
 _total_: 14.3% (2020 est.)<br>
 _male_: 22.1% (2020 est.)<br>
@@ -291,7 +298,7 @@ _respiratory diseases_: meningococcal meningitis<br>
 <strong>note: </strong>on 21 March 2022, the US Centers for Disease Control and Prevention (CDC) issued a Travel Alert for polio in Africa; Burkina Faso is currently considered a high risk to travelers for circulating vaccine-derived polioviruses (cVDPV); vaccine-derived poliovirus (VDPV) is a strain of the weakened poliovirus that was initially included in oral polio vaccine (OPV) and <em>that has changed over time and behaves more like the wild or naturally occurring virus</em>; this means it can be spread more easily to people who are unvaccinated against polio and who come in contact with the stool or respiratory secretions, such as from a sneeze, of an “infected” person who received oral polio vaccine; the CDC recommends that before any international travel, anyone unvaccinated, incompletely vaccinated, or with an unknown polio vaccination status should complete the routine polio vaccine series; before travel to any high-risk destination, the CDC recommends that adults who previously completed the full, routine polio vaccine series receive a single, lifetime booster dose of polio vaccine<br>
 
 **Food insecurity**<br>
-_severe localized food insecurity_: <em>due to civil insecurity in the north -</em> in the upcoming peak of the lean season, between June and August 2022, 2.6 million people are projected to face severe food insecurity; domestic cereal production in 2021 was estimated at a below-average level due to effects of adverse weather and the civil conflict, further aggravating conditions; in Centre-Nord and Sahel regions, insecurity continues to cause population displacements, further deteriorating the food security situation; a coup d’état on January 2022 is an additional factor that could increase civil insecurity and further stress food insecurity conditions (2022)<br>
+_severe localized food insecurity_: <em>due to civil insecurity in the north - </em>according to the latest analysis, 3.45 million people are projected to be food insecure and in need of humanitarian assistance between June and August 2022; in Centre-Nord and Sahel regions, insecurity continues to cause population displacements and, as of March 2022, about 1.85 million people had been displaced and required assistance; domestic cereal production in 2021 was estimated at a below-average level due to effects of adverse weather and civil conflict, further aggravating conditions; abnormally high prices of food are also a contributory factor that have constrained access to food; the coup d’état that occurred in January 2022 is an additional factor that could increase civil insecurity and further stress food insecurity conditions (2022)<br>
 
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 2,575,251 tons (2015 est.)<br>
@@ -377,7 +384,7 @@ _judge selection and term of office_: Supreme Court judge appointments mostly co
 _subordinate courts_: Appeals Court; High Court; first instance tribunals; district courts; specialized courts relating to issues of labor, children, and juveniles; village (customary) courts<br>
 
 **Political parties and leaders**<br>
-(only parties with representation in the National Assembly listed)<br><br>Act Together [Kadre OUEDRAOGO]<br>African Democratic Rally/Alliance for Democracy and Federation or ADF/RDA [Gilbert Noel OUEDRAOGO]<br>Congress for Democracy and Progress or CDP [Eddie KOMBOIGO]<br>Convergence for Progress and Solidarity-Generation 3 or CPS-G3<br>Movement for the Future Burkina Faso or MBF<br>National Convention for Progress or CNP<br>New Era for Democracy or NTD [Vincent DABILGOU]<br>Pan-African Alliance for Refoundation or APR<br>Party for Democracy and Socialism/Metba or PDS/Metba [Philippe OUEDRAOGO]<br>Party for Development and Change or PDC<br>Patriotic Rally for Integrity or RPI<br>Peoples Movement for Progress or MPP [Roch Marc Christian KABORE]<br>Progressives United for Renewal or PUR<br>Union for Progress and Reform or UPC [Zephirin DIABRE]<br>Union for Rebirth - Sankarist Party or UNIR-PS [Benewende Stanislas SANKARA]<br>
+Act Together [Kadre OUEDRAOGO]<br>African Democratic Rally/Alliance for Democracy and Federation or ADF/RDA [Gilbert Noel OUEDRAOGO]<br>Congress for Democracy and Progress or CDP [Eddie KOMBOIGO]<br>Convergence for Progress and Solidarity-Generation 3 or CPS-G3<br>Movement for the Future Burkina Faso or MBF<br>National Convention for Progress or CNP<br>New Era for Democracy or NTD [Vincent DABILGOU]<br>Pan-African Alliance for Refoundation or APR<br>Party for Democracy and Socialism/Metba or PDS/Metba [Philippe OUEDRAOGO]<br>Party for Development and Change or PDC [Aziz SEREME]<br>Patriotic Rally for Integrity or RPI<br>Peoples Movement for Progress or MPP [Roch Marc Christian KABORE]<br>Progressives United for Renewal or PUR<br>Union for Progress and Reform or UPC [Zephirin DIABRE]<br>Union for Rebirth - Sankarist Party or UNIR-PS [Benewende Stanislas SANKARA]<br><br><strong>note:</strong> only parties with seats in the National Assembly included<br>
 
 **International organization participation**<br>
 ACP, AfDB, AU, CD, ECOWAS, EITI (compliant country), Entente, FAO, FZ, G-77, IAEA, IBRD, ICAO, ICC (NGOs), ICCt, ICRM, IDA, IDB, IFAD, IFC, IFRCS, ILO, IMF, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, MINUSMA, MONUSCO, NAM, OIC, OIF, OPCW, PCA, UN, UNAMID, UNCTAD, UNESCO, UNIDO, UNISFA, UNITAR, UNWTO, UPU, WADB (regional), WAEMU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>

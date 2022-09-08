@@ -221,6 +221,13 @@ _unimproved: total_: total: 0% of population (2020 est.)<br>
 **Obesity - adult prevalence rate**<br>
 29% (2016)<br>
 
+**Alcohol consumption per capita**<br>
+_total_: 9.51 liters of pure alcohol (2019 est.)<br>
+_beer_: 3.71 liters of pure alcohol (2019 est.)<br>
+_wine_: 3.67 liters of pure alcohol (2019 est.)<br>
+_spirits_: 1.32 liters of pure alcohol (2019 est.)<br>
+_other alcohols_: 0.81 liters of pure alcohol (2019 est.)<br>
+
 **Tobacco use**<br>
 _total_: 13.6% (2020 est.)<br>
 _male_: 15.6% (2020 est.)<br>
@@ -389,7 +396,7 @@ _email address and website_: <br>https://usa.embassy.gov.au/<br>
 _consulate(s) general_: Chicago, Honolulu, Houston, Los Angeles, New York, San Francisco<br>
 
 **Diplomatic representation from the US**<br>
-_chief of mission_: Ambassador (vacant); Charge d'Affaires Michael GOLDMAN (since 19 January 2021)<br>
+_chief of mission_: Ambassador Caroline KENNEDY (since 25 July 2022)<br>
 _embassy_: Moonah Place, Yarralumla, Australian Capital Territory 2600<br>
 _mailing address_: 7800 Canberra Place, Washington DC&nbsp; 20512-7800<br>
 _telephone_: [61] (02) 6214-5600<br>

@@ -281,12 +281,12 @@ _chief of state_: President Vjosa OSMANI-Sadriu (since 4 April 2021)<br>
 _head of government_: Prime Minister Albin KURTI (since 22 March 2021)<br>
 _cabinet_: Cabinet elected by the Assembly<br>
 _elections/appointments_: president indirectly elected by at least two-thirds majority vote of the Assembly for a 5-year term; if a candidate does not attain a two-thirds threshold in the first two ballots, the candidate winning a simple majority vote in the third ballot is elected (eligible for a second term); election last held on 3-4 April 2021 (next to be held in 2026); prime minister indirectly elected by the Assembly<br>
-_election results_: <em>2021: </em> Vjosa OSMANI-Sadriu elected president in the third ballot; Assembly vote - Vjosa OSMANI-Sadriu (Guxo!) 71 votes; Albin KURTI (VV) elected prime minister; Assembly vote - 67-30<br><br><em>2016:</em> Hashim THACI elected president in third ballot; Assembly vote - Hashim THACI (PDK) 71 votes; Ramush HARADINAJ (AAK) elected prime minister; Assembly vote - 61 votes<br>
+_election results_: <em>2021: </em> Vjosa OSMANI-Sadriu elected president in the third ballot; Assembly vote - Vjosa OSMANI-Sadriu (Guxo!) 71 votes; Albin KURTI (LVV) elected prime minister; Assembly vote - 67-30<br><br><em>2016:</em> Hashim THACI elected president in third ballot; Assembly vote - Hashim THACI (PDK) 71 votes; Ramush HARADINAJ (AAK) elected prime minister; Assembly vote - 61 votes<br>
 
 **Legislative branch**<br>
 _description_: unicameral Assembly or Kuvendi i Kosoves/Skupstina Kosova (120 seats; 100 members directly elected by open-list proportional representation vote with 20 seats reserved for ethnic minorities - 10 for Serbs and 10 for other ethnic minorities; members serve 4-year terms)<br>
 _elections_: last held on 14 February 2021 (next to be held in 2025)<br>
-_election results_: percent of vote by party - VV 50%, PDK 16.9%, LDK 12.7%, AAK 7.1%, Serbian List 5.1%, other 8.2%; seats by party - VV 58, PDK 19, LDK 15, Serbian List 10, AAK 8, other 10; composition as of December 2021 - men 79, women 41, percent of women 34.2%<br>
+_election results_: percent of vote by party - LVV 50%, PDK 16.9%, LDK 12.7%, AAK 7.1%, Serb List 5.1%, other 8.2%; seats by party - LVV 58, PDK 19, LDK 15, Serb List 10, AAK 8, other 10; composition as of December 2021 - men 79, women 41, percent of women 34.2%<br>
 
 **Judicial branch**<br>
 _highest courts_: Supreme Court (consists of the court president and 18 judges and organized into Appeals Panel of the Kosovo Property Agency and Special Chamber); Constitutional Court (consists of the court president, vice president, and 7 judges)<br>
@@ -295,7 +295,7 @@ _subordinate courts_: Court of Appeals (organized into 4 departments: General, S
 <strong>note:</strong> in August 2015, the Kosovo Assembly approved a constitutional amendment that establishes the Kosovo Relocated Specialist Judicial Institution, also referred to as the Kosovo Specialist Chambers or "Special Court"; the court, located at the Hague in the Netherlands, began operating in late 2016 and has jurisdiction to try crimes against humanity, war crimes, and other crimes under Kosovo law that occurred in the 1998-2000 period<br>
 
 **Political parties and leaders**<br>
-Alliance for the Future of Kosovo or AAK [Ramush HARADINAJ]<br>Alternativa [Mimoza KUSARI-LILA]<br>Ashkali Party for Integration or PAI [Bekim ARIFI]<br>Democratic League of Kosovo or LDK [Lumir ABDIXHIKU]<br>Democratic Party of Kosovo or PDK [Memli KRASNIQI]<br>Guxo! [Donika GERVALLA-SCHWARZ]<br>Independent Liberal Party or SLS [Slobodan PETROVIC]<br>Initiative for Kosovo or NISMA [Fatmir LIMAJ]<br>New Democratic Initiative of Kosovo or IRDK [Elbert KRASNIQI]<br>New Democratic Party or NDS [Emilja REDXEPI]<br>New Kosovo Alliance or AKR [Behgjet PACOLLI]<br>Progressive Movement of Kosovar Roma or LPRK [Erxhan GALUSHI]<br>Romani Initiative [Gazmend SALIJEVCI]<br>Self-Determination Movement (Vetevendosje) or VV [Albin KURTI]<br>Serbian List or SL [Goran RAKIC]<br>Social Democratic Party of Kosovo or PSD [Shpend AHMETI]<br>Social Democratic Union [Duda BALJE]<br>Turkish Democratic Party of Kosovo or KDTP [Fikrim DAMKA]<br>Unique Gorani Party [Adem HODZA]<br>Vakat Coalition or VAKAT [Rasim DEMIRI]<br>
+Alliance for the Future of Kosovo or AAK [Ramush HARADINAJ]<br>Alternativa [Mimoza KUSARI-LILA]<br>Ashkali Party for Integration or PAI [Bekim ARIFI]<br>Democratic League of Kosovo or LDK [Lumir ABDIXHIKU]<br>Democratic Party of Kosovo or PDK [Memli KRASNIQI]<br>Guxo! [Donika GERVALLA-SCHWARZ]<br>Independent Liberal Party or SLS [Slobodan PETROVIC]<br>New Democratic Initiative of Kosovo or IRDK [Elbert KRASNIQI]<br>New Democratic Party or NDS [Emilja REDXEPI]<br>New Kosovo Alliance or AKR [Behgjet PACOLLI]<br>Progressive Movement of Kosovar Roma or LPRK [Erxhan GALUSHI]<br>Romani Initiative [Gazmend SALIJEVCI]<br>Self-Determination Movement (Lëvizja Vetevendosje) or LVV [Albin KURTI]<br>Serb List or SL [Goran RAKIC]<br>Social Democratic Initiative or NISMA [Fatmir LIMAJ] (formerly Initiative for Kosovo)<br>Social Democratic Party of Kosovo or PSD [Dardan MOLLIQAJ]<br>Social Democratic Union or SDU [Duda BALJE]<br>Turkish Democratic Party of Kosovo or KDTP [Fikrim DAMKA]<br>Unique Gorani Party JGP [Adem HODZA]<br>Vakat Coalition or VAKAT [Rasim DEMIRI]<br>
 
 **International organization participation**<br>
 IBRD, IDA, IFC, IMF, ITUC (NGOs), MIGA, OIF (observer)<br>
@@ -595,7 +595,7 @@ Kosovo Security Force (KSF; Forca e Sigurisë së Kosovës or FSK): Land Force C
 <strong>note: </strong>as of 2022, the Kosovo Government continued the process of transitioning the KSF into a multi-ethnic territorial defense force, in accordance with a 10-year plan which began in 2019<br>
 
 **Military expenditures**<br>
-0.9% of GDP (2021 est.)<br>
+1% of GDP (2021 est.)<br>
 1.1% of GDP (2020 est.)<br>
 0.8% of GDP (2019 est.) (approximately $160 million)<br>
 0.8% of GDP (2018 est.) (approximately $150 million)<br>

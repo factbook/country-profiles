@@ -217,6 +217,13 @@ _respiratory diseases_: meningococcal meningitis<br>
 **Obesity - adult prevalence rate**<br>
 8.4% (2016)<br>
 
+**Alcohol consumption per capita**<br>
+_total_: 1.4 liters of pure alcohol (2019 est.)<br>
+_beer_: 0.78 liters of pure alcohol (2019 est.)<br>
+_wine_: 0.09 liters of pure alcohol (2019 est.)<br>
+_spirits_: 0.2 liters of pure alcohol (2019 est.)<br>
+_other alcohols_: 0.33 liters of pure alcohol (2019 est.)<br>
+
 **Tobacco use**<br>
 _total_: 6.8% (2020 est.)<br>
 _male_: 12.3% (2020 est.)<br>

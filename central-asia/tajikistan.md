@@ -216,6 +216,13 @@ _vectorborne diseases_: malaria<br>
 **Obesity - adult prevalence rate**<br>
 14.2% (2016)<br>
 
+**Alcohol consumption per capita**<br>
+_total_: 0.85 liters of pure alcohol (2019 est.)<br>
+_beer_: 0.38 liters of pure alcohol (2019 est.)<br>
+_wine_: 0.01 liters of pure alcohol (2019 est.)<br>
+_spirits_: 0.45 liters of pure alcohol (2019 est.)<br>
+_other alcohols_: 0 liters of pure alcohol (2019 est.)<br>
+
 **Children under the age of 5 years underweight**<br>
 7.6% (2017)<br>
 

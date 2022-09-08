@@ -217,6 +217,13 @@ _respiratory diseases_: meningococcal meningitis<br>
 **Obesity - adult prevalence rate**<br>
 6.6% (2014)<br>
 
+**Alcohol consumption per capita**<br>
+_total_: 1.93 liters of pure alcohol (2019 est.)<br>
+_beer_: 0 liters of pure alcohol (2019 est.)<br>
+_wine_: 0 liters of pure alcohol (2019 est.)<br>
+_spirits_: 0.29 liters of pure alcohol (2019 est.)<br>
+_other alcohols_: 1.63 liters of pure alcohol (2019 est.)<br>
+
 **Children under the age of 5 years underweight**<br>
 33% (2014)<br>
 
@@ -283,7 +290,7 @@ _animal contact diseases_: rabies<br>
 _respiratory diseases_: meningococcal meningitis<br>
 
 **Food insecurity**<br>
-_severe localized food insecurity_: <em>due to conflict, civil insecurity, and soaring food prices -</em> the number of severely food insecure people was estimated at 6 million between October 2021 and February 2022, mainly due to high food prices and inter-communal conflict (2022)<br>
+_severe localized food insecurity_: <em>due to conflict, civil insecurity, and soaring food prices - </em>according to the results of the latest analysis, about 11.7 million people (24% of the analyzed population) are estimated to be severely food insecure during June to September 2022; the main drivers are macroeconomic challenges resulting in rampant food and non‑food inflation, tight supplies due to a poor 2021 harvest and the escalation of intercommunal violence (2022)<br>
 
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 2,831,291 tons (2015 est.)<br>

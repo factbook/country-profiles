@@ -208,6 +208,13 @@ _water contact diseases_: leptospirosis<br>
 **Obesity - adult prevalence rate**<br>
 15.6% (2016)<br>
 
+**Alcohol consumption per capita**<br>
+_total_: 0.64 liters of pure alcohol (2019 est.)<br>
+_beer_: 0.48 liters of pure alcohol (2019 est.)<br>
+_wine_: 0.04 liters of pure alcohol (2019 est.)<br>
+_spirits_: 0.11 liters of pure alcohol (2019 est.)<br>
+_other alcohols_: 0.01 liters of pure alcohol (2019 est.)<br>
+
 **Tobacco use**<br>
 _total_: 22.5% (2020 est.)<br>
 _male_: 43.8% (2020 est.)<br>

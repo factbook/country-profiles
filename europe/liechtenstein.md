@@ -214,7 +214,7 @@ _female_: 14 years (2019)<br>
 ## Environment
 
 **Environment - current issues**<br>
-some air pollution generated locally, some transfered from surrounding countries<br>
+some air pollution generated locally, some carried over from surrounding countries<br>
 
 **Environment - international agreements**<br>
 _party to_: Air Pollution, Air Pollution-Heavy Metals, Air Pollution-Nitrogen Oxides, Air Pollution-Persistent Organic Pollutants, Air Pollution-Sulphur 85, Air Pollution-Sulphur 94, Air Pollution-Volatile Organic Compounds, Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Endangered Species, Hazardous Wastes, Ozone Layer Protection, Wetlands<br>
@@ -320,7 +320,7 @@ _judge selection and term of office_: judges of both courts elected by the Landt
 _subordinate courts_: Court of Appeal or Obergericht (second instance), Court of Justice (first instance), Administrative Court, county courts<br>
 
 **Political parties and leaders**<br>
-Fatherland Union (Vaterlaendische Union) or VU [Guenther FRITZ]<br>Progressive Citizens' Party (Fortschrittliche Buergerpartei) or FBP [Thomas BANZER]<br>The Free List (Die Freie Liste) or FL [Pepo FRICK and Conny BUECHEL BRUEHWILER]<br>Democrats for Liechtenstein (Demokraten pro Liechtenstein) or DpL [Thomas REHAK]<br>The Independents (Die Unabhaengigen) or DU [Harry QUADERER]<br>
+Democrats for Liechtenstein (Demokraten pro Liechtenstein) or DpL [Thomas REHAK]<br>Fatherland Union (Vaterlaendische Union) or VU [Guenther FRITZ]<br>Progressive Citizens' Party (Fortschrittliche Buergerpartei) or FBP [Thomas BANZER]<br>The Free List (Die Freie Liste) or FL [Pepo FRICK and Conny BUECHEL BRUEHWILER]<br>The Independents (Die Unabhaengigen) or DU [Harald "Harry" QUADERER]<br>
 
 **International organization participation**<br>
 CD, CE, EBRD, EFTA, IAEA, ICCt, ICRM, IFRCS, Interpol, IOC, IPU, ITSO, ITU, ITUC (NGOs), OAS (observer), OPCW, OSCE, PCA, Schengen Convention, UN, UNCTAD, UPU, WIPO, WTO<br>

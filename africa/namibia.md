@@ -222,6 +222,13 @@ _water contact diseases_: schistosomiasis<br>
 **Obesity - adult prevalence rate**<br>
 17.2% (2016)<br>
 
+**Alcohol consumption per capita**<br>
+_total_: 2.38 liters of pure alcohol (2019 est.)<br>
+_beer_: 1.37 liters of pure alcohol (2019 est.)<br>
+_wine_: 0.16 liters of pure alcohol (2019 est.)<br>
+_spirits_: 0.53 liters of pure alcohol (2019 est.)<br>
+_other alcohols_: 0.32 liters of pure alcohol (2019 est.)<br>
+
 **Tobacco use**<br>
 _total_: 15.1% (2020 est.)<br>
 _male_: 24.2% (2020 est.)<br>
@@ -286,7 +293,7 @@ _vectorborne diseases_: malaria<br>
 _water contact diseases_: schistosomiasis<br>
 
 **Food insecurity**<br>
-_severe localized food insecurity_: <em>due to localized shortfalls in cereal production -</em> an estimated 750,000 people are projected to face "Crisis" levels of food insecurity between December 2021 and March 2022, as a result of localized areas that suffered from poor harvests in 2021 and the negative effects of the COVID-19 pandemic, primarily through income and job losses that constrained households’ access to food (2022)<br>
+_severe localized food insecurity_: <em><em>due to localized shortfalls in cereal production and </em></em><em>rising food prices </em><em>-</em> cereal production increased in 2022 and this is expected to have a positive impact on food security, however, rising prices of basic foods is likely to limit a more substantial improvement (2022)<br>
 
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 256,729 tons (1993 est.)<br>

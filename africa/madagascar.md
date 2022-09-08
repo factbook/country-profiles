@@ -214,6 +214,13 @@ _animal contact diseases_: rabies<br>
 **Obesity - adult prevalence rate**<br>
 5.3% (2016)<br>
 
+**Alcohol consumption per capita**<br>
+_total_: 0.89 liters of pure alcohol (2019 est.)<br>
+_beer_: 0.5 liters of pure alcohol (2019 est.)<br>
+_wine_: 0.07 liters of pure alcohol (2019 est.)<br>
+_spirits_: 0.32 liters of pure alcohol (2019 est.)<br>
+_other alcohols_: 0 liters of pure alcohol (2019 est.)<br>
+
 **Tobacco use**<br>
 _total_: 27.8% (2020 est.)<br>
 _male_: 42.7% (2020 est.)<br>
@@ -290,7 +297,7 @@ _animal contact diseases_: rabies<br>
 <strong>note: </strong>on 21 March 2022, the US Centers for Disease Control and Prevention (CDC) issued a Travel Alert for polio in Africa; Madagascar is currently considered a high risk to travelers for circulating vaccine-derived polioviruses (cVDPV); vaccine-derived poliovirus (VDPV) is a strain of the weakened poliovirus that was initially included in oral polio vaccine (OPV) and <em>that has changed over time and behaves more like the wild or naturally occurring virus</em>; this means it can be spread more easily to people who are unvaccinated against polio and who come in contact with the stool or respiratory secretions, such as from a sneeze, of an “infected” person who received oral polio vaccine; the CDC recommends that before any international travel, anyone unvaccinated, incompletely vaccinated, or with an unknown polio vaccination status should complete the routine polio vaccine series; before travel to any high-risk destination, the CDC recommends that adults who previously completed the full, routine polio vaccine series receive a single, lifetime booster dose of polio vaccine<br>
 
 **Food insecurity**<br>
-_severe localized food insecurity_: <em>due to the effects of extreme weather events -</em> cyclones and tropical storms in early 2022 have affected a large number of people, particularly in eastern regions, and the number of food insecure people is expected to increase later in 2022; moreover, drought conditions continue to affect households in the south, which is likely to result in an increase in the severity and prevalence of food insecurity in these areas (2022)<br>
+_severe localized food insecurity_: <em>due to the effects of extreme weather events and slow economic recovery - </em>according to the latest May 2022 analysis, the prevalence of food insecurity in the southern regions is projected to peak at 2.1 million people by December 2022 until at least March 2023; overall, the number of people requiring humanitarian assistance by the end of 2022 is expected to be about 30 percent higher compared to the peak number in 2021; the poor food security situation is mainly the consequence of six consecutive poor agricultural seasons that culminated in very tight food supplies for rural households and curbed incomes from crop sales; high rates of poverty and increased prices of essential food commodities, combined with a high reliance on market supplies due to low harvests for own consumption, are also contributing to the high rates of food insecurity across the southern regions (2022)<br>
 
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 3,768,759 tons (2016 est.)<br>
@@ -368,7 +375,7 @@ _judge selection and term of office_: Supreme Court heads elected by the preside
 _subordinate courts_: Courts of Appeal; Courts of First Instance<br>
 
 **Political parties and leaders**<br>
-<p>Economic liberalism and democratic action for national recovery or LEADER FANILO [Jean Max RAKOTOMAMONJY]<br>FOMBA [Ny Rado RAFALIMANANA]<br>Gideons fighting against poverty in Madagascar (Gedeona Miady amin'ny Fahantrana eto Madagascar) or GFFM [Andre Christian Dieu Donne MAILHOL]<br>Green party or VERTS (Antoko Maintso) [Alexandre GEORGET]<br>I Love Madagascar (Tiako I Madagasikara) or TIM [Marc RAVALOMANANA]<br>Irmar<br>Malagasy aware (Malagasy Tonga Saina) or MTS [Roland RATSIRAKA]<br>Malagasy Miara Miainga<br>Malagasy raising together (Malagasy Miara-Miainga) or MMM [Hajo ANDRIANAINARIVELO]<br>New Force for Madagascar (Hery Vaovao ho an'ny Madagasikara) or HVM [Hery Martial RAJAONARIMAMPIANINA Rakotoarimanana]<br>Total Refoundation of Madagascar (Refondation Totale de Madagascar) or RTM [Joseph Martin RANDRIAMAMPIONONA]<br>Vanguard for the renovation of Madagascar (Avant-Garde pour la renovation de Madagascar) or AREMA [Didier RATSIRAKA]<br>Young Malagasies Determined (Malagasy: Tanora malaGasy Vonona) or TGV [Andry RAJOELINA]and MAPAR [Andry RAJOELINA], and IRD (We are all with Andy Rajoelina) [Andry RAJOELINA]</p><br>
+<p>Economic Liberalism and Democratic Action for National Recovery or LEADER FANILO [Jean Max RAKOTOMAMONJY]<br>FOMBA [Ny Rado RAFALIMANANA]<br>Gideons Fighting Against Poverty in Madagascar (Gedeona Miady amin'ny Fahantrana eto Madagascar) or GFFM [Andre Christian Dieu Donne MAILHOL]<br>Green Party or VERTS (Antoko Maintso) [Alexandre GEORGET]<br>I Love Madagascar (Tiako I Madagasikara) or TIM [Marc RAVALOMANANA]<br>Irmar<br>Malagasy Aware (Malagasy Tonga Saina) or MTS [Roland RATSIRAKA]<br>Malagasy Miara Miainga<br>Malagasy Raising Together (Malagasy Miara-Miainga) or MMM [Hajo ANDRIANAINARIVELO]<br>New Force for Madagascar (Hery Vaovao ho an'ny Madagasikara) or HVM [Hery Martial RAJAONARIMAMPIANINA Rakotoarimanana]<br>Total Refoundation of Madagascar (Refondation Totale de Madagascar) or RTM [Joseph Martin RANDRIAMAMPIONONA]<br>Vanguard for the Renovation of Madagascar (Avant-Garde pour la renovation de Madagascar) or AREMA [Didier RATSIRAKA]<br>Young Malagasies Determined (Malagasy: Tanora malaGasy Vonona) or TGV [Andry RAJOELINA] and MAPAR [Andry RAJOELINA], and IRD (We are all with Andry Rajoelina) [Andry RAJOELINA]</p><br>
 
 **International organization participation**<br>
 ACP, AfDB, AU, CD, COMESA, EITI (candidate country), FAO, G-77, IAEA, IBRD, ICAO, ICC (NGOs), ICCt, ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, IMO, InOC, Interpol, IOC, IOM, IPU, ISO (correspondent), ITSO, ITU, ITUC (NGOs), MIGA, NAM, OIF, OPCW, PCA, SADC, UN, UNCTAD, UNESCO, UNHCR, UNIDO, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
@@ -678,7 +685,7 @@ _major seaport(s)_: Antsiranana (Diego Suarez), Mahajanga, Toamasina, Toliara (T
 ## Military and Security
 
 **Military and security forces**<br>
-People's Armed Forces: Army, Navy, Air Force; National Gendarmerie (operates under the Ministry of Defense); Ministry of Public Security: National Police (2022)<br>
+People's Armed Forces (PAF): Army, Navy, Air Force; National Gendarmerie (operates under the Ministry of Defense); Ministry of Public Security: National Police (2022)<br>
 <strong>note: </strong>the National Gendarmerie is responsible for maintaining law and order in rural areas at the village level, protecting government facilities, and operating a maritime police contingent; the National Police is responsible for maintaining law and order in urban areas<br>
 
 **Military expenditures**<br>
@@ -698,7 +705,7 @@ the PAF's inventory consists mostly of aging Soviet-era equipment; since 2010, i
 18-25 years of age for males; service obligation 18 months; no conscription; women are permitted to serve in all branches (2022)<br>
 
 **Military - note**<br>
-one of the military’s duties is assisting the gendarmerie with maintaining law and order in rural areas, particularly in areas affected by banditry, cattle rustling (cattle thieves are known as <em>dahalo</em>), and criminal groups (2022)<br>
+one of the military&rsquo;s duties is assisting the gendarmerie with maintaining law and order in rural areas, particularly in areas affected by banditry, cattle rustling (cattle thieves are known as dahalo), and criminal groups (2022)<br>
 
 ## Transnational Issues
 

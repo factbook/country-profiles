@@ -264,7 +264,7 @@ _respiratory diseases_: meningococcal meningitis<br>
 <strong>note: </strong>on 21 March 2022, the US Centers for Disease Control and Prevention (CDC) issued a Travel Alert for polio in Africa; South Sudan is currently considered a high risk to travelers for circulating vaccine-derived polioviruses (cVDPV); vaccine-derived poliovirus (VDPV) is a strain of the weakened poliovirus that was initially included in oral polio vaccine (OPV) and <em>that has changed over time and behaves more like the wild or naturally occurring virus</em>; this means it can be spread more easily to people who are unvaccinated against polio and who come in contact with the stool or respiratory secretions, such as from a sneeze, of an “infected” person who received oral polio vaccine; the CDC recommends that before any international travel, anyone unvaccinated, incompletely vaccinated, or with an unknown polio vaccination status should complete the routine polio vaccine series; before travel to any high-risk destination, the CDC recommends that adults who previously completed the full, routine polio vaccine series receive a single, lifetime booster dose of polio vaccine<br>
 
 **Food insecurity**<br>
-_widespread lack of access_: <em>due to economic downturn, civil insecurity, lingering impact of floods and prolonged conflict -</em> despite sustained humanitarian assistance, food insecurity still affects large segments of the population, driven by insufficient food supplies, an economic downturn, high food prices and the lingering impact of widespread floods in 2020; particular concern exists for households in Jonglei, Northern Bahr-el-Ghazal and Warrap states, and in neighbouring Pibor Administrative Area, where 60-85% of the population were estimated to be severely food insecure (2022)<br>
+_widespread lack of access_: <em>due to economic downturn, civil insecurity, lingering impact of floods and prolonged conflict -</em> despite sustained humanitarian assistance, food insecurity still affects large segments of the population, driven by macroeconomic challenges that have resulted in rampant food and non-food inflation, insufficient food supplies due to a stagnant agricultural production, livelihood losses owing to consecutive years with widespread floods and the escalation of organized violence at the sub-national level since 2020; about 7.74 million people, approximately 63% of the total population, are estimated to be severely food insecure during the lean season between April and July 2022 (2022)<br>
 
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 2,680,681 tons (2013 est.)<br>
@@ -339,7 +339,7 @@ _judge selection and term of office_: justices will be appointed by the presiden
 _subordinate courts_: national level - Courts of Appeal; High Courts; County Courts; state level - High Courts; County Courts; customary courts; other specialized courts and tribunals<br>
 
 **Political parties and leaders**<br>
-Sudan People's Liberation Movement or SPLM [Salva KIIR Mayardit]<br>Sudan People’s Liberation Movement-In Opposition or SPLM-IO [Riek MACHAR Teny Dhurgon]<br>Sudan People’s Liberation Movement-Former Detainees [Rebecca Nyandeng Chol GARANG de Mabior]<br>South Sudan Opposition Alliance or SSOA [Hussein ABDELBAGI Ayii] (2021)<br>
+Sudan People's Liberation Movement or SPLM [Salva KIIR Mayardit]<br>Sudan People’s Liberation Movement-Former Detainees [Rebecca Nyandeng Chol GARANG de Mabior]<br>Sudan People’s Liberation Movement-In Opposition or SPLM-IO [Riek MACHAR Teny Dhurgon]<br>South Sudan Opposition Alliance or SSOA [Hussein ABDELBAGI Ayii]<br>
 
 **International organization participation**<br>
 AU, FAO, G-77, IBRD, ICAO, ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, Interpol, IOM, IPU, ITU, MIGA, UN, UNCTAD, UNESCO, UPU, WCO, WHO, WMO<br>
@@ -601,8 +601,8 @@ see entry for Sudan<br>
 ## Military and Security
 
 **Military and security forces**<br>
-South Sudan People’s Defense Force (SSPDF): Ground Force (includes Presidential Guard, aka Tiger Division), Air Force, Air Defense Forces; National Unified Forces (pending formation) (2022)<br>
-<strong>note:</strong> numerous irregular forces operate in the country with official knowledge, including militias operated by the National Security Service (an internal security force under the Ministry of National Security) and proxy forces<br>
+South Sudan People’s Defense Force (SSPDF): Ground Force (includes Presidential Guard, aka Tiger Division), Air Force, Air Defense Forces; National (or Necessary) Unified Forces (NUF) (2022)<br>
+<strong>note 1: </strong>the NUF are being formed by retraining rebel and pro-government fighters into military, police, and other government security forces; in August 2022, South Sudan held the first graduation ceremony for retrained personnel<strong><br><br>note 2:</strong> numerous irregular forces operate in the country with official knowledge, including militias operated by the National Security Service (an internal security force under the Ministry of National Security) and proxy forces<br>
 
 **Military expenditures**<br>
 2% of GDP (2021 est.)<br>
@@ -613,7 +613,7 @@ South Sudan People’s Defense Force (SSPDF): Ground Force (includes Presidentia
 
 **Military and security service personnel strengths**<br>
 estimated 150-200,000 active personnel, mostly ground forces with small contingents of air and riverine forces (2022)<br>
-<strong>note: </strong>some active SSPDF personnel may be militia; the National Unified Forces will have about 80,000 troops from the SSPDF and armed opposition groups when it is formed<br>
+<strong>note: </strong>some active SSPDF personnel may be militia; the National/Necessary Unified Forces (NUF) will have about 50-80,000 troops from the SSPDF and armed opposition groups when it is formed; as of August 2022, approximately 20,000 NUF had been trained<br>
 
 **Military equipment inventories and acquisitions**<br>
 the SSPDF inventory is primarily of Soviet origin; from 2010 to 2015, Russia and the United Arab Emirates were the leading suppliers of arms and equipment; South Sudan has been under a UN arms embargo since 2018 (2022)<br>

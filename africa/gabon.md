@@ -219,6 +219,13 @@ _animal contact diseases_: rabies<br>
 **Obesity - adult prevalence rate**<br>
 15% (2016)<br>
 
+**Alcohol consumption per capita**<br>
+_total_: 6.47 liters of pure alcohol (2019 est.)<br>
+_beer_: 5.31 liters of pure alcohol (2019 est.)<br>
+_wine_: 0.62 liters of pure alcohol (2019 est.)<br>
+_spirits_: 0.5 liters of pure alcohol (2019 est.)<br>
+_other alcohols_: 0.04 liters of pure alcohol (2019 est.)<br>
+
 **Children under the age of 5 years underweight**<br>
 6.4% (2012)<br>
 

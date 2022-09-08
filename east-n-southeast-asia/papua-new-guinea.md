@@ -212,6 +212,13 @@ _vectorborne diseases_: dengue fever and malaria<br>
 **Obesity - adult prevalence rate**<br>
 21.3% (2016)<br>
 
+**Alcohol consumption per capita**<br>
+_total_: 1.26 liters of pure alcohol (2019 est.)<br>
+_beer_: 0.6 liters of pure alcohol (2019 est.)<br>
+_wine_: 0.06 liters of pure alcohol (2019 est.)<br>
+_spirits_: 0.6 liters of pure alcohol (2019 est.)<br>
+_other alcohols_: 0 liters of pure alcohol (2019 est.)<br>
+
 **Tobacco use**<br>
 _total_: 39.3% (2020 est.)<br>
 _male_: 53.5% (2020 est.)<br>
@@ -350,8 +357,8 @@ _election results_: James MARAPE elected prime minister; National Parliament vot
 
 **Legislative branch**<br>
 _description_: unicameral National Parliament (111 seats; members directly elected in single-seat constituencies - 89 local, 20 provinicial, the autonomous province of Bouganville, and the National Capital District - by majority preferential vote; members serve 5-year terms); note - the constitution allows up to 126 seats<br>
-_elections_: last held from 24 June 2017 to 8 July 2017 (next to be held in June 2022)<br>
-_election results_: percent of vote by party - PNC 37%; NA 13%; Pangu 14%; URP 11%; PPP 4%; SDP 4%; Independents 3%; and smaller parties 14%; seats by party - NA; composition - men 108, women 3, percent of women 3%<br>
+_elections_: last held from 4-22 July 2022 (next to be held in June 2027)<br>
+_election results_: percent of vote by party - NA; seats by party - PANGU PATI - 38, PNC - 17, URP - 11, NAP - 5, PNC - 4, SDP - 4, PFP - 3, ULP - 3, Advance PNG - 2, National Party - 2, AP - 1, Destiny Party - 1, Greens - 1, Liberal Party - 1, MAP - 1, NGP - 1, ODP - 1, PLP - 1, PMC - 1, PPP - 1, PRP - 1, THE - 1, independents - 9; composition - NA<br>
 
 **Judicial branch**<br>
 _highest courts_: Supreme Court (consists of the chief justice, deputy chief justice, 35 justices, and 5 acting justices); National Courts (consists of 13 courts located in the provincial capitals, with a total of 19 resident judges)<br>
@@ -359,8 +366,7 @@ _judge selection and term of office_: Supreme Court chief justice appointed by t
 _subordinate courts_: district, village, and juvenile courts, military courts, taxation courts, coronial courts, mining warden courts, land courts, traffic courts, committal courts, grade five courts<br>
 
 **Political parties and leaders**<br>
-National Alliance Party or NAP [Patrick PRUAITCH]<br>Papua and Niugini Union Party or PANGU [Sam BASIL]<br>Papua New Guinea Party or PNGP [Belden NAMAH]<br>People's National Congress Party or PNC [Peter Paire O'NEILL]<br>People's Party or PP [Peter IPATAS]<br>People's Progress Party or PPP [Sir Julius CHAN]<br>Social Democratic Party or SDP [Powes PARKOP]<br>Triumph Heritage Empowerment Party or THE [Don POLYE]<br>United Resources Party or URP [William DUMA]<br>
-<strong>note:</strong> as of 8 July 2017, 45 political parties were registered<br>
+Allegiance Party or AP [Bryan KRAMER]<br>Advance PNG [Muglua DILU]<br>Destiny Party [Marsh NARAWEC]<br>Liberal Party [John PUNDARI]<br>Melanesian Alliance Party or MAP [Joseph YOPYYOPY]<br>National Alliance Party or NAP [Allan BIRD]<br>New Generation Party or NGP [Keith IDUHU]<br>Our Development Party or ODP [Puka TEMU]<br>Papua and Niugini Union Party or PANGU PATI [vacant]<br>Papua New Guinea Party or PNGP [Belden NAMAH]<br>Papua New Guinea Greens Party [Richard MASERE]<br>Papua New Guinea National Party [Kerenga KUA]<br>People's First Party or PFP [Richard MARU]<br>People's Movement for Change or PMC [Gary JAFFA]<br>People's Labor Party or PLP [Luther WENGE]<br>People's National Congress Party or PNC [Peter Paire O'NEILL]<br>People's Party or PP [Peter IPATAS]<br>People's Progress Party or PPP [Sir Julius CHAN]<br>People's Reform Party or PRP [James DONALD]<br>Social Democratic Party or SDP [Powes PARKOP]<br>Triumph Heritage Empowerment Party or THE [Don POLYE]<br>United Labor Party or PLP [vacant]<br>United Resources Party or URP [William DUMA]<br>
 
 **International organization participation**<br>
 ACP, ADB, AOSIS, APEC, ARF, ASEAN (observer), C, CD, CP, EITI (candidate country), FAO, G-77, IAEA, IBRD, ICAO, ICRM, IDA, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ISO (correspondent), ITSO, ITU, MIGA, NAM, OPCW, PIF, Sparteca, SPC, UN, UNCTAD, UNESCO, UNIDO, UNMISS, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>

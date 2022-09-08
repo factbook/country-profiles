@@ -216,6 +216,13 @@ _respiratory diseases_: Covid-19 (see note) (2020)<br>
 **Obesity - adult prevalence rate**<br>
 23.8% (2016)<br>
 
+**Alcohol consumption per capita**<br>
+_total_: 10.73 liters of pure alcohol (2019 est.)<br>
+_beer_: 4.67 liters of pure alcohol (2019 est.)<br>
+_wine_: 3.52 liters of pure alcohol (2019 est.)<br>
+_spirits_: 2.34 liters of pure alcohol (2019 est.)<br>
+_other alcohols_: 0.19 liters of pure alcohol (2019 est.)<br>
+
 **Tobacco use**<br>
 _total_: 27.7% (2020 est.)<br>
 _male_: 28.6% (2020 est.)<br>
@@ -741,7 +748,7 @@ Islamic State of Iraq and ash-Sham (ISIS); al-Qa’ida<br>
 **Refugees and internally displaced persons**<br>
 _refugees (country of origin)_: 14,823 (Syria) (mid-year 2021); 418,200 (Venezuela) (economic and political crisis; includes Venezuelans who have claimed asylum, are recognized as refugees, or have received alternative legal stay) (2021); 137,637 (Ukraine) (as of 20 August 2022)<br>
 _stateless persons_: 692 (mid-year 2021)<br>
-<strong>note: </strong>265,988 estimated refugee and migrant arrivals, including Canary Islands (January 2015-August 2022)<br>
+<strong>note: </strong>266,262 estimated refugee and migrant arrivals, including Canary Islands (January 2015-August 2022)<br>
 
 **Illicit drugs**<br>
 primary transit point in Europe for cocaine from South America and for hashish from Morocco; cocaine is shipped in raw or liquid form with mixed cargo to avoid detection; traffickers ship methamphetamine via express mail; increasing number of indoor cannabis grow operations; illegal labs cutting, mixing, and reconstituting cocaine, and heroin and methamphetamine labs; synthetic drugs, including ketamine and MDMA (ecstasy) transit from Spain to the United States<br>

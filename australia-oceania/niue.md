@@ -182,6 +182,13 @@ _vectorborne diseases_: malaria<br>
 **Obesity - adult prevalence rate**<br>
 50% (2016)<br>
 
+**Alcohol consumption per capita**<br>
+_total_: 8.5 liters of pure alcohol (2019 est.)<br>
+_beer_: 4.28 liters of pure alcohol (2019 est.)<br>
+_wine_: 1.89 liters of pure alcohol (2019 est.)<br>
+_spirits_: 2.33 liters of pure alcohol (2019 est.)<br>
+_other alcohols_: 0 liters of pure alcohol (2019 est.)<br>
+
 **Children under the age of 5 years underweight**<br>
 NA<br>
 
@@ -286,7 +293,7 @@ _subordinate courts_: High Court<br>
 <strong>note:</strong> Niue is a participant in the Pacific Judicial Development Program, which is designed to build governance and the rule of law in 15 Pacific island countries<br>
 
 **Political parties and leaders**<br>
-Alliance of Independents or AI<br>Niue People's Action Party or NPP [Young VIVIAN]<br>
+none<br>
 
 **International organization participation**<br>
 ACP, AOSIS, FAO, IFAD, OPCW, PIF, Sparteca, SPC, UNESCO, UPU, WHO, WIPO, WMO<br>

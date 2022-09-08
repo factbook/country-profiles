@@ -221,6 +221,13 @@ _animal contact diseases_: rabies<br>
 **Obesity - adult prevalence rate**<br>
 9.6% (2016)<br>
 
+**Alcohol consumption per capita**<br>
+_total_: 5.74 liters of pure alcohol (2019 est.)<br>
+_beer_: 5.11 liters of pure alcohol (2019 est.)<br>
+_wine_: 0.1 liters of pure alcohol (2019 est.)<br>
+_spirits_: 0.52 liters of pure alcohol (2019 est.)<br>
+_other alcohols_: 0.01 liters of pure alcohol (2019 est.)<br>
+
 **Tobacco use**<br>
 _total_: 14.5% (2020 est.)<br>
 _male_: 26.8% (2020 est.)<br>
@@ -292,7 +299,7 @@ _animal contact diseases_: rabies<br>
 <strong>note: </strong>on 21 March 2022, the US Centers for Disease Control and Prevention (CDC) issued a Travel Alert for polio in Africa; the Republic of the Congo is currently considered a high risk to travelers for circulating vaccine-derived polioviruses (cVDPV); vaccine-derived poliovirus (VDPV) is a strain of the weakened poliovirus that was initially included in oral polio vaccine (OPV) and <em>that has changed over time and behaves more like the wild or naturally occurring virus</em>; this means it can be spread more easily to people who are unvaccinated against polio and who come in contact with the stool or respiratory secretions, such as from a sneeze, of an “infected” person who received oral polio vaccine; the CDC recommends that before any international travel, anyone unvaccinated, incompletely vaccinated, or with an unknown polio vaccination status should complete the routine polio vaccine series; before travel to any high-risk destination, the CDC recommends that adults who previously completed the full, routine polio vaccine series receive a single, lifetime booster dose of polio vaccine<br>
 
 **Food insecurity**<br>
-_severe localized food insecurity_: <em>due to floods -</em> on 29 November 2021, a state of emergency was declared due to floods in northern areas that caused crop and livestock losses, and displaced people, particularly in Likouala, Sangha, Cuvette and Plateaux departments; it is estimated that about 71,700 people have been affected, (2022)<br>
+_severe localized food insecurity_: <em>due to refugee influx -</em> as of 30 April 2022, about 29,100 refugees from the Central African Republic and 22,100 from the Democratic Republic of the Congo were residing in the country, mostly in Likouala and Plateaux departments; host communities face food shortages and limited livelihood opportunities, and refugees’ food security is essentially dependent on continued humanitarian assistance (2022)<br>
 
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 451,200 tons (1993 est.)<br>
@@ -371,9 +378,9 @@ _elections/appointments_: president directly elected by absolute majority popula
 _election results_: Denis SASSOU-Nguesso reelected president in the first round; percent of vote - Denis SASSOU-Nguesso (PCT) 88.4%, Guy Price Parfait KOLELAS (MCDDI) 8.0%, other 3.6%&nbsp; (2021)<br>
 
 **Legislative branch**<br>
-_description_: bicameral Parliament or Parlement consists of:<br>Senate (72 seats; members indirectly elected by local, district, and regional councils by simple majority vote to serve 6-year terms with one-half of membership renewed every 3 years)<br>National Assembly (151 seats; members directly elected in single-seat constituencies by absolute majority popular vote in 2 rounds if needed; members serve 5-year terms)<br>
-_elections_: <strong> </strong><br>Senate - last held on 31 August 2017 for expiry of half the seats (next to be held in 2020)<br>National Assembly - last held on 16 and 30 July 2017 (next to be held in July 2022)<br>
-_election results_: <strong> </strong><br>Senate - percent of vote by party - NA; seats by party - PCT 46, independent 12, MAR 2, RDPS 2, UPADS 2, DRD 1, FP 1, MCDDI 1, PRL 1, Pulp 1, PUR 1, RC 1; composition - men 58, women 14, percent of women 19.4%<br><br>National Assembly - percent of vote by party - NA; seats by party - PCT 96, UPADS 8, MCDDI 4, other 23 (less than 4 seats) independent 20; composition - men 134, women 17, percent of women 11.3%; note - total Parliament percent of women 13.9%<br>
+_description_: bicameral Parliament or Parliament consists of:<br>Senate (72 seats; members indirectly elected by local, district, and regional councils by simple majority vote to serve 6-year terms) note- the Senate is renewed in its entirety following a constitutional reform implemented in 2015 ending the renewal by half<br>National Assembly (151 seats; members directly elected in single-seat constituencies by absolute majority popular vote in 2 rounds if needed; members serve 5-year terms) (2022)<br>
+_elections_: <strong> </strong><br>Senate - last held on 31 August 2017 (next to be held in 2023)<br>National Assembly - last held on 10 and 31 July 2022 (next to be held in July 2027) (2022)<br>
+_election results_: Senate - percent of vote by party - NA; seats by party - PCT 46, independent 12, MAR 2, RDPS 2, UPADS 2, DRD 1, FP 1, MCDDI 1, PRL 1, Pulp 1, PUR 1, RC 1; composition - men 58, women 14, percent of women 19.4%<br><br>National Assembly - percent of vote by party - NA; seats by party - PCT 112, UPADS 7, UDH-YUKI 7, MAR 4, RLP 2, CLUB 2002 2, DRR 2, RDPS 2, PAC 1, MSD 1, MDP 1, CPR 1, PPRD 1, CR 1, MCDDI 1, independent 6; composition - men 134, women 17, percent of women 11.3%; note - total Parliament percent of women 13.9%<br><br>National Assembly - percent of vote by party - NA; seats by party - PCT 96, UPADS 8, MCDDI 4, other 23 (less than 4 seats) independent 20; composition - men 134, women 17, percent of women 11.3%; note - total Parliament percent of women 13.9% (2022)<br>
 
 **Judicial branch**<br>
 _highest courts_: Supreme Court or Cour Supreme (consists of NA judges); Constitutional Court (consists of 9 members); note - a High Court of Justice, outside the judicial authority, tries cases involving treason by the president of the republic<br>
@@ -381,7 +388,7 @@ _judge selection and term of office_: Supreme Court judges elected by Parliament
 _subordinate courts_: Court of Audit and Budgetary Discipline; courts of appeal; regional and district courts; employment tribunals; juvenile courts<br>
 
 **Political parties and leaders**<br>
-Action Movement for Renewal or MAR [Roland BOUITI-VIAUDO]<br>Citizen's Rally or RC [Claude Alphonse NSILOU]<br>Congolese Labour Party or PCT [Denis SASSOU-NGUESSO]<br>Congolese Movement for Democracy and Integral Development or MCDDI<br>Movement for Unity, Solidarity, and Work or MUST [Claudine MUNARI]<br>Pan-African Union for Social Development or UPADS [Pascal Tsaty MABIALA]<br>Party for the Unity of the Republic or PUR<br>Patriotic Union for Democracy and Progress or UPDP [Auguste-Celestin GONGARD NKOUA]<br>Prospects and Realities Club or CPR<br>Rally for Democracy and Social Progress or RDPS [Jean-Pierre Thystère TCHICAYA]<br>Rally of the Presidential Majority or RMP<br>Republican and Liberal Party or PRL [Bonaventure MIZIDY]<br>Union for the Republic or UR<br>Union of Democratic Forces or UDF<br>Union for Democracy and Republic or UDR<br>many smaller parties<br>
+Action Movement for Renewal or MAR [Roland BOUITI-VIAUDO]<br>Citizen's Rally or RC [Claude Alphonse NSILOU]<br>Congolese Labour Party or PCT [Denis SASSOU-NGUESSO]<br>Congolese Movement for Democracy and Integral Development or MCDDI<br>Movement for Unity, Solidarity, and Work or MUST [Claudine MUNARI]<br>Pan-African Union for Social Development or UPADS [Pascal Tsaty MABIALA]<br>Party for the Unity of the Republic or PUR<br>Patriotic Union for Democracy and Progress or UPDP [Auguste-Celestin GONGARD NKOUA]<br>Prospects and Realities Club or CPR<br>Rally for Democracy and Social Progress or RDPS [Jean-Pierre Thystère TCHICAYA]<br>Rally of the Presidential Majority or RMP<br>Republican and Liberal Party or PRL [Bonaventure MIZIDY]<br>Union of Democratic Forces or UDF<br>Union for Democracy and Republic or UDR<br>Union for the Republic or UR<br>
 
 **International organization participation**<br>
 ACP, AfDB, AU, BDEAC, CEMAC, EITI (compliant country), FAO, FZ, G-77, IAEA, IBRD, ICAO, ICCt, ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ISO (correspondent), ITSO, ITU, ITUC (NGOs), LCBC (observer), MIGA, NAM, OIF, OPCW, UN, UNCTAD, UNESCO, UNHCR, UNIDO, UNITAR, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>

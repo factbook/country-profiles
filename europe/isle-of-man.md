@@ -292,7 +292,7 @@ _judge selection and term of office_: deemsters appointed by the Lord Chancellor
 _subordinate courts_: High Court; Court of Summary Gaol Delivery; Summary Courts; Magistrate's Court; specialized courts<br>
 
 **Political parties and leaders**<br>
-Green Party [Andrew LANGAN-NEWTON]<br>Liberal Vannin Party [Lawrie HOOPER]<br>Manx Labor Party [Joney FARAGHER] <br>Mec Vannin [Mark KERMODE] (sometimes referred to as the Manx Nationalist Party)<br>
+Green Party [Andrew LANGAN-NEWTON]<br>Liberal Vannin Party or LVP [Lawrie HOOPER]<br>Manx Labor Party [Joney FARAGHER] <br>Mec Vannin [Mark KERMODE] (sometimes referred to as the Manx Nationalist Party)<br>
 <strong>note:</strong> most members sit as independents<br>
 
 **International organization participation**<br>

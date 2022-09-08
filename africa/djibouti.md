@@ -210,6 +210,13 @@ _vectorborne diseases_: dengue fever<br>
 **Obesity - adult prevalence rate**<br>
 13.5% (2016)<br>
 
+**Alcohol consumption per capita**<br>
+_total_: 0.21 liters of pure alcohol (2019 est.)<br>
+_beer_: 0.05 liters of pure alcohol (2019 est.)<br>
+_wine_: 0.02 liters of pure alcohol (2019 est.)<br>
+_spirits_: 0.14 liters of pure alcohol (2019 est.)<br>
+_other alcohols_: 0 liters of pure alcohol (2019 est.)<br>
+
 **Children under the age of 5 years underweight**<br>
 29.9% (2012)<br>
 
@@ -273,7 +280,7 @@ _vectorborne diseases_: dengue fever<br>
 <strong>note: </strong>on 21 March 2022, the US Centers for Disease Control and Prevention (CDC) issued a Travel Alert for polio in Africa; Djibouti is currently considered a high risk to travelers for circulating vaccine-derived polioviruses (cVDPV); vaccine-derived poliovirus (VDPV) is a strain of the weakened poliovirus that was initially included in oral polio vaccine (OPV) and <em>that has changed over time and behaves more like the wild or naturally occurring virus</em>; this means it can be spread more easily to people who are unvaccinated against polio and who come in contact with the stool or respiratory secretions, such as from a sneeze, of an “infected” person who received oral polio vaccine; the CDC recommends that before any international travel, anyone unvaccinated, incompletely vaccinated, or with an unknown polio vaccination status should complete the routine polio vaccine series; before travel to any high-risk destination, the CDC recommends that adults who previously completed the full, routine polio vaccine series receive a single, lifetime booster dose of polio vaccine<br>
 
 **Food insecurity**<br>
-_widespread lack of access_: <em>due to floods -</em> about 194,000 people were estimated to be severely food insecure in the January‑August 2021 period, mainly due to livelihood losses caused by floods and landslides, and as a result of the socio‑economic impact of the pandemic on the livelihoods of vulnerable households; Cyclone Sagar struck the country on 19 and 20 May 2021, bringing torrential rains; the precipitation received, about 110 mm, was the equivalent of the average rainfall for an entire year and triggered heavy flooding, especially in the capital, Djibouti City and surrounding areas (2022)<br>
+_widespread lack of access_: <em>due to unfavorable weather and high food prices -</em> about 132,000 people were estimated to be severely food insecure between March and June 2022 mainly due to insufficient rains in 2021 and 2022, which affected rangelands and pastoral livelihoods, and high food prices (2022)<br>
 
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 114,997 tons (2002 est.)<br>
@@ -354,7 +361,7 @@ _judge selection and term of office_: Supreme Court magistrates appointed by the
 _subordinate courts_: High Court of Appeal; 5 Courts of First Instance; customary courts; State Court (replaced sharia courts in 2003)<br>
 
 **Political parties and leaders**<br>
-Center for United Democrats or CDU [Ahmed Mohamed YOUSSOUF, chairman]<br>Democratic Renewal Party or PRD [Abdillahi HAMARITEH]<br>Djibouti Development Party or PDD [Mohamed Daoud CHEHEM]<br>Front for Restoration of Unity and Democracy (Front pour la Restauration de l'Unite Democratique) or FRUD [Ali Mohamed DAOUD]<br>Movement for Democratic Renewal and Development [Daher Ahmed FARAH]<br>Movement for Development and Liberty or MoDel [Ismail Ahmed WABERI]<br>Movement for the Development and Balance of the Djiboutian Nation (Mouvement pour le Développement et l'Équilibre de la Nation Djiboutienne) or MDEND [Zakaria Ismael FARAH]<br>National Democratic Party or PND [Aden Robleh AWALEH]<br>People's Rally for Progress or RPP [Ismail Omar GUELLEH] (governing party)<br>Peoples Social Democratic Party or PPSD [Hasna Moumin BAHDON]<br>Republican Alliance for Democracy or ARD [Aden Mohamed ABDOU, interim president]<br>Union for a Presidential Majority or UMP (coalition includes RPP, FRUD, PND, PPSD)<br>Union for Democracy and Justice or UDJ [Ilya Ismail GUEDI Hared]<br>
+Center for United Democrats or CDU [Ahmed Mohamed YOUSSOUF, chairman]<br>Democratic Renewal Party or PRD [Abdillahi HAMARITEH]<br>Djibouti Development Party or PDD [Mohamed Daoud CHEHEM]<br>Front for Restoration of Unity and Democracy (Front pour la Restauration de l'Unite Democratique) or FRUD [Ali Mohamed DAOUD]<br>Movement for Democratic Renewal and Development or MRD (previously Democratic Renewal Party or PRD) [Daher Ahmed FARAH]<br>National Democratic Party or PND [Aden Robleh AWALEH]<br>People's Rally for Progress or RPP [Ismail Omar GUELLEH] (governing party)<br>Peoples Social Democratic Party or PPSD [Hasna Moumin BAHDON]<br>Republican Alliance for Democracy or ARD [Aden Mohamed ABDOU]<br>Union for Democracy and Justice or UDJ [Ilya Ismail GUEDI Hared]<br>Union for the Presidential Majority coalition or UMP [collective leadership] (electoral coalition includes RPP, FRUD, PPSD, and UPR)<br>Union for National Salvation coalition or USN [collective leadership] (electoral coalition includes ARD, PRD, PDD, UDJ, and PND)<br>Union of Reform Partisans or UPR [Ibrahim Daoud CHEHEM]<br><br><strong>note:</strong> only parties with seats in the National Assembly included<br>
 
 **International organization participation**<br>
 ACP, AfDB, AFESD, AMF, AU, CAEU (candidates), COMESA, FAO, G-77, IBRD, ICAO, ICCt, ICRM, IDA, IDB, IFAD, IFC, IFRCS, IGAD, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ITU, ITUC (NGOs), LAS, MIGA, MINURSO, NAM, OIC, OIF, OPCW, UN, UNCTAD, UNESCO, UNHCR, UNIDO, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>

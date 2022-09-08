@@ -219,6 +219,13 @@ _respiratory diseases_: meningococcal meningitis<br>
 **Obesity - adult prevalence rate**<br>
 6.1% (2016)<br>
 
+**Alcohol consumption per capita**<br>
+_total_: 0.55 liters of pure alcohol (2019 est.)<br>
+_beer_: 0.37 liters of pure alcohol (2019 est.)<br>
+_wine_: 0.01 liters of pure alcohol (2019 est.)<br>
+_spirits_: 0.01 liters of pure alcohol (2019 est.)<br>
+_other alcohols_: 0.16 liters of pure alcohol (2019 est.)<br>
+
 **Tobacco use**<br>
 _total_: 8.3% (2020 est.)<br>
 _male_: 13.8% (2020 est.)<br>
@@ -296,7 +303,7 @@ _respiratory diseases_: meningococcal meningitis<br>
 <strong>note: </strong>on 21 March 2022, the US Centers for Disease Control and Prevention (CDC) issued a Travel Alert for polio in Africa; Chad is currently considered a high risk to travelers for circulating vaccine-derived polioviruses (cVDPV); vaccine-derived poliovirus (VDPV) is a strain of the weakened poliovirus that was initially included in oral polio vaccine (OPV) and <em>that has changed over time and behaves more like the wild or naturally occurring virus</em>; this means it can be spread more easily to people who are unvaccinated against polio and who come in contact with the stool or respiratory secretions, such as from a sneeze, of an “infected” person who received oral polio vaccine; the CDC recommends that before any international travel, anyone unvaccinated, incompletely vaccinated, or with an unknown polio vaccination status should complete the routine polio vaccine series; before travel to any high-risk destination, the CDC recommends that adults who previously completed the full, routine polio vaccine series receive a single, lifetime booster dose of polio vaccine<br>
 
 **Food insecurity**<br>
-_widespread lack of access_: <em>due to civil insecurity and shortfall in cereal production -</em> according to the latest analysis, about 965 000 people were estimated to be in "Crisis" and above, between October and December 2021 due to persisting insecurity in Lac and Tibesti regions that disrupted livelihood activities and caused population displacements; domestic cereal production was estimated at a below-average level in 2021 due to adverse weather and the civil conflict; as a result, between June and August 2022, 1.74 million people are projected to face severe food insecurity (2022)<br>
+_widespread lack of access_: <em>due to civil insecurity and shortfall in cereal production - </em>according to the latest analysis, about 2.1 million people are projected to be in "Crisis" and above, between June and August 2022 due to persisting insecurity in Lac and Tibesti regions that disrupted livelihood activities and caused population displacements, as well as a below-average cereal production in 2021 (2022)<br>
 
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 1,358,851 tons (2010 est.)<br>
@@ -373,8 +380,8 @@ _elections/appointments_: president directly elected by absolute majority popula
 _election results_: <em>2021</em>: Lt. Gen. Idriss DEBY Itno reelected; percent of vote - Lt. Gen. Idriss DEBY (MPS) 79.3%, Pahimi PADACKET Albert (RNDT) 10.3%, Lydie BEASSEMDA (Party for Democracy and Independence) 3.2%, other 7.2%<br><br><em>2016</em>: Lt. Gen. Idriss DEBY Itno reelected president in first round; percent of vote - Lt. Gen. Idriss DEBY (MPS) 61.6%, Saleh KEBZABO (UNDR) 12.8%, Laokein Kourayo MEDAR (CTPD) 10.7%, Djimrangar DADNADJI (CAP-SUR) 5.1%, other 9.8%<br>
 
 **Legislative branch**<br>
-_description_: formerly a unicameral National Assembly or <em>Assemblée Nationale </em>(188 seats; 163 directly elected in multi-seat constituencies by proportional representation vote and 25 directly elected in single-seat constituencies by absolute majority vote with a second round if needed; members serve 4-year terms); note - on 5 October 2021, Interim President Mahamat Idriss DEBY installed 93 members of an interim parliament, called the National Transitional Council (NTC); according to DEBY, the NTC will act as a national assembly of transition until the country’s next elections take place<br>
-_elections_: <p>members of the so called "National Transitional Council" were installed by Interim President DEBY on 24 September 2021 (next election NA)</p><br>
+_description_: formerly a unicameral National Assembly or <em>Assemblée Nationale </em>(188 seats; 163 directly elected in multi-seat constituencies by proportional representation vote and 25 directly elected in single-seat constituencies by absolute majority vote with a second round if needed; members serve 4-year terms); note - on 5 October 2021, Interim President Mahamat Idriss DEBY installed 93 members of an interim parliament, called the National Transitional Council (NTC), replacing the National Assembly which was disbanded after he took control of the country on 20 April 2021; according to DEBY, the NTC will act as a national assembly of transition until the country’s next elections take place<br>
+_elections_: members of the so called "National Transitional Council" were installed by Interim President DEBY on 5 October 2021 (next parliamentary elections to be held September 2022)<br>
 _election results_: percent of vote by party - NA; seats by party - NA; composition - men 64, women 29, percent of women 31.2%<br>
 <strong>note:</strong> the National Assembly mandate was extended to 2020, reportedly due to a lack of funding for the scheduled 2015 election; the MPS has held a majority in the NA since 1997<br>
 
@@ -384,7 +391,8 @@ _judge selection and term of office_: Supreme Court chief justice selected by th
 _subordinate courts_: High Court of Justice; Courts of Appeal; tribunals; justices of the peace<br>
 
 **Political parties and leaders**<br>
-Chadian Convention for Peace and Development or CTPD [Laoukein Kourayo MEDARD]<br>Federation Action for the Republic or FAR [Ngarledjy YORONGAR]<br>Framework of Popular Action for Solidarity and Unity of the Republic or CAP-SUR [Joseph Djimrangar DADNADJI]<br>National Rally for Development and Progress or Viva-RNDP [Dr. Nouradine Delwa Kassire COUMAKOYE]<br>National Union for Democracy and Renewal or UNDR [Saleh KEBZABO]<br>Party for Liberty and Development or PLD [Ahmat ALHABO]<br>Party for Unity and Reconciliation<br>Patriotic Salvation Movement or MPS [Idriss DEBY]<br>Rally for Democracy and Progress or RDP [Mahamat Allahou TAHER]<br>RNDT/Le Reveil [Albert Pahimi PADACKE]<br>Social Democratic Party for a Change-over of Power or PDSA [Malloum YOBODA]<br>Union for Renewal and Democracy or URD [Felix Romadoumngar NIALBE]<br>
+Chadian Convention for Peace and Development or CTPD [Laoukein Kourayo MEDARD]<br>Federation Action for the Republic or FAR [Ngarledjy YORONGAR]<br>National Rally for Development and Progress or Viva-RNDP [Dr. Nouradine Delwa Kassire COUMAKOYE]<br>National Union for Democracy and Renewal or UNDR [Saleh KEBZABO]<br>Party for Unity and Reconstruction or PUR<br>Patriotic Salvation Movement or MPS [formerly Idriss DEBY] <br>Rally for Democracy and Progress or RDP [Mahamat Allahou TAHER]<br>Rally of Chadian Nationalists/Awakening or RNDT/Le Reveil [Albert Pahimi PADACKE]<br>Social Democratic Party for a Change-over of Power or PDSA [Malloum YOBODA]<br>Union for Democracy and the Republic or UDR<br>Union for Renewal and Democracy or URD [Felix Romadoumngar NIALBE]<br> <br><strong>note 1:</strong> 19 additional parties each contributed one member<strong><br>note 2:</strong> only parties with at least two seats in the last elected National Assembly (February 2011) included<br>
+<strong>note:</strong> on 5 October 2021, Interim President Mahamat Idriss DEBY appointed 93 members to the interim National Transitional Council (NTC); 30% of the NTC members were retained from parties previously represented in the National Assembly<br>
 
 **International organization participation**<br>
 ACP, AfDB, AU, BDEAC, CEMAC, EITI (compliant country), FAO, FZ, G-77, IAEA, IBRD, ICAO, ICCt, ICRM, IDA, IDB, IFAD, IFC, IFRCS, ILO, IMF, Interpol, IOC, IOM, IPU, ITSO, ITU, ITUC (NGOs), LCBC, MIGA, MINUSMA, MNJTF, NAM, OIC, OIF, OPCW, UN, UNCTAD, UNESCO, UNIDO, UNOCI, UNWTO, UPU, WCO, WHO, WIPO, WMO, WTO<br>

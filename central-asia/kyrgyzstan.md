@@ -212,6 +212,13 @@ _unimproved: total_: total: 0% of population (2020 est.)<br>
 **Obesity - adult prevalence rate**<br>
 16.6% (2016)<br>
 
+**Alcohol consumption per capita**<br>
+_total_: 4.02 liters of pure alcohol (2019 est.)<br>
+_beer_: 0.43 liters of pure alcohol (2019 est.)<br>
+_wine_: 0.23 liters of pure alcohol (2019 est.)<br>
+_spirits_: 3.35 liters of pure alcohol (2019 est.)<br>
+_other alcohols_: 0 liters of pure alcohol (2019 est.)<br>
+
 **Tobacco use**<br>
 _total_: 25.4% (2020 est.)<br>
 _male_: 48% (2020 est.)<br>
@@ -351,13 +358,13 @@ _chief of state_: President Sadyr JAPAROV (since 28 January 2021)<br>
 _head of government_: President Sadyr JAPAROV (since 28 January 2021)<br>
 _cabinet_: Cabinet of Ministers appointed by the president<br>
 _elections/appointments_: president directly elected by absolute majority popular vote in 2 rounds if needed for a five-year term (eligible for a second term); election last held on 10 January 2021 (next to be held in 2027)<br>
-_election results_: 2021: Sadyr JAPAROV elected president in first round; percent of vote - Sadyr JAPAROV 79.2%, Adakhan MADUMAROV 6.8%, other 14%<br><br>2017: Sooronbay JEENBEKOV elected president 54.7%, Omurbek BABANOV 33.8%, Adakhan MADUMAROV 6.6%, and other 4.9%<br>
+_election results_: <em>2021:</em> Sadyr JAPAROV elected president in first round; percent of vote - Sadyr JAPAROV (Mekenchil) 79.2%, Adakhan MADUMAROV (United Kyrgyzstan) 6.8%, other 14%<br><br><em>2017:</em> Sooronbay JEENBEKOV elected president; Sooronbay JEENBEKOV (Social Democratic Party of Kosovo) 54.7%, Omurbek BABANOV (independent) 33.8%, Adakhan MADUMAROV (United Kyrgyzstan) 6.6%, and other 4.9%<br>
 <strong>note:</strong> the President is both Chief of State and Head of Government.<br>
 
 **Legislative branch**<br>
 _description_: unicameral Supreme Council or Jogorku Kenesh (90 seats statutory, current 88; 54 seats allocated for proportional division among political party lists from the national vote and 36 seats allocated for candidates running in single-seat constituencies; members serve 5-year terms; parties must receive 5% of the vote to win seats in the Council)<br>
 _elections_: last held on 28 November 2021 (next to be held in 2026)<br>
-_election results_: percent of vote by party - Ata-Jurt Kyrgyzstan 19.1%, Ishenim 15%, Yntymak 12.1%, Alliance 9.2%, Butun Kyrgyzstan 7.8%, Yiman Nuru 6.8%, other 30%; seats by party - Ata-Jurt Kyrgyzstan 15, Ishenim 12, Yntymak 9, Alliance 7, Butun Kyrgyzstan 6, Yiman Nuru 5, other 36; composition - men 70, women 18, percent of women 20.5%<br>
+_election results_: percent of vote by party - AJK 19.1%, Ishenim 15%, Yntymak 12.1%, Alliance 9.2%, Butun Kyrgyzstan 7.8%, Yiman Nuru 6.8%, other 30%; seats by party - AJK 15, Ishenim 12, Yntymak 9, Alliance 7, Butun Kyrgyzstan 6, Yiman Nuru 5, other 36; composition - men 70, women 18, percent of women 20.5%<br>
 
 **Judicial branch**<br>
 _highest courts_: Supreme Court (consists of 25 judges); Constitutional Chamber of the Supreme Court (consists of the chairperson, deputy chairperson, and 9 judges)<br>
@@ -365,7 +372,7 @@ _judge selection and term of office_: Supreme Court and Constitutional Court jud
 _subordinate courts_: Higher Court of Arbitration; oblast (provincial) and city courts<br>
 
 **Political parties and leaders**<br>
-Alliance [Mirlan JEENCHOROEV]<br>Ata-Jurt Kyrgyzstan (Homeland) [Aybek MATKERIMOV]<br>Butun Kyrgyzstan (All Kyrgyzstan) [Adakhan MADUMAROV]<br>Ishenim (Trust in Kyrgyz) [Rysbat AMATOV]<br>Yntymak (Unity) [Marlen MAMATALIEV]<br>Yyman Nuru (Light of Faith) [Nurjigit KADYRBEKOV]<br>
+Alliance [Mirlan JEENCHOROEV]<br>Ata-Jurt Kyrgyzstan (Homeland) or AJK [Aybek MATKERIMOV]<br>Butun Kyrgyzstan (All Kyrgyzstan) [Adakhan MADUMAROV]<br>Ishenim (Trust in Kyrgyz) [Rysbat AMATOV]<br>Mekenchil (Patriotic Party) [Sadyr JAPAROV]<br>Social Democratic Party of Kosovo or SDPK (dissolved in 2020)<br>Social Democrats or SDK [Temirlan SULTANBEKOV]<br>United Kyrgyzstan [Adakhan Kumsanbayevich MADUMAROV]<br>Yntymak (Unity) [Marlen MAMATALIEV]<br>Yyman Nuru (Light of Faith) [Nurjigit KADYRBEKOV]<br>
 
 **International organization participation**<br>
 ADB, CICA, CIS, CSTO, EAEC, EAEU, EAPC, EBRD, ECO, EITI (compliant country), FAO, GCTU, IAEA, IBRD, ICAO, ICC (NGOs), ICRM, IDA, IDB, IFAD, IFC, IFRCS, ILO, IMF, Interpol, IOC, IOM, IPU, ISO (correspondent), ITSO, ITU, MIGA, NAM (observer), OIC, OPCW, OSCE, PCA, PFP, SCO, UN, UNAMID, UNCTAD, UNESCO, UNIDO, UNISFA, UNMIL, UNMISS, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
@@ -692,7 +699,7 @@ Kyrgyz Armed Forces: Land Forces, Air Defense Forces, National Guard; Internal T
 approximately 12,000 active duty troops (8,500 Land Forces; 2,500 Air Force/Air Defense; 1,000 National Guard) (2022)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the Kyrgyz Armed Forces' inventory is comprised of mostly older Russian and Soviet-era equipment; Kyrgyzstan relies on donations of military equipment, which come mostly from Russia under a 2013 agreement between Bishkek and Moscow (2022)<br>
+the Kyrgyz military inventory is comprised of mostly older Russian and Soviet-era equipment; Kyrgyzstan relies on donations of military equipment, which come mostly from Russia under a 2013 agreement between Bishkek and Moscow (2022)<br>
 
 **Military service age and obligation**<br>
 18-27 years of age for compulsory or voluntary male military service in the Armed Forces or Interior Ministry; 1-year service obligation (9 months for university graduates), with optional fee-based 3-year service in the call-up mobilization reserve; women may volunteer at age 19; 16-17 years of age for military cadets, who cannot take part in military operations (2022)<br>

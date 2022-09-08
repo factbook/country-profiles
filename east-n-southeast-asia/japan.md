@@ -214,6 +214,13 @@ _respiratory diseases_: Covid-19 (see note) (2020)<br>
 **Obesity - adult prevalence rate**<br>
 4.3% (2016)<br>
 
+**Alcohol consumption per capita**<br>
+_total_: 8.36 liters of pure alcohol (2019 est.)<br>
+_beer_: 1.35 liters of pure alcohol (2019 est.)<br>
+_wine_: 0.29 liters of pure alcohol (2019 est.)<br>
+_spirits_: 1.63 liters of pure alcohol (2019 est.)<br>
+_other alcohols_: 5.09 liters of pure alcohol (2019 est.)<br>
+
 **Tobacco use**<br>
 _total_: 20.1% (2020 est.)<br>
 _male_: 30.1% (2020 est.)<br>
@@ -360,7 +367,7 @@ _judge selection and term of office_: Supreme Court chief justice designated by 
 _subordinate courts_: 8 High Courts (Koto-saiban-sho), each with a Family Court (Katei-saiban-sho); 50 District Courts (Chiho saibansho), with 203 additional branches; 438 Summary Courts (Kani saibansho)<br>
 
 **Political parties and leaders**<br>
-Constitutional Democratic Party of Japan or CDP [Yukio EDANO]<br>Democratic Party for the People Japan or DPFP [Yuichiro TAMAKI]<br>Group of Reformists [Sakihito OZAWA]<br>Japan Communist Party or JCP [Kazuo SHII]<br>Japan Innovation Party or Nippon Ishin no kai or Ishin [Ichiro MATSUI]<br>Party of Hope or Kibo no To [Yuichiro TAMAKI]<br>Komeito [Natsuo YAMAGUCHI]<br>Liberal Democratic Party or LDP [Yoshihide SUGA]<br>Liberal Party [Ichiro OZAWA] (formerly People's Life Party &amp; Taro Yamamoto and Friends or PLPTYF)New Renaissance Party [Hiroyuki ARAI]<br>Party for Japanese Kokoro or PJK [Masashi NAKANO]<br>Reiwa Shinsengumi [Taro YAMAMOTO]<br>Social Democratic Party or SDP [Tadatomo YOSHIDA]<br>The Assembly to Energize Japan and the Independents [Kota MATSUDA]<br>
+Constitutional Democratic Party of Japan or CDP [Kenta IZUMI]<br>Democratic Party for the People Japan or DPFP [Yuichiro TAMAKI]<br>Group of Reformists [Sakihito OZAWA]<br>Japan Communist Party or JCP [Kazuo SHII]<br>Japan Innovation Party or Nippon Ishin no kai or Ishin [Ichiro MATSUI]<br>Komeito [Natsuo YAMAGUCHI]<br>Liberal Democratic Party or LDP [Fumio KISHIDA]<br>Liberal Party [Ichiro OZAWA] (formerly People's Life Party &amp; Taro Yamamoto and Friends or PLPTYF)<br>Party of Hope or Kibo no To [Nariaki NAKAYAMA]<br>Reiwa Shinsengumi [Taro YAMAMOTO]<br>Social Democratic Party or SDP [Mizuho FUKUSHIMA]<br>
 
 **International organization participation**<br>
 ADB, AfDB (nonregional member), APEC, Arctic Council (observer), ARF, ASEAN (dialogue partner), Australia Group, BIS, CD, CE (observer), CERN (observer), CICA (observer), CP, CPLP (associate), EAS, EBRD, EITI (implementing country), FAO, FATF, G-5, G-7, G-8, G-10, G-20, IADB, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IEA, IFAD, IFC, IFRCS, IGAD (partners), IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), LAIA (observer), MIGA, NEA, NSG, OAS (observer), OECD, OPCW, OSCE (partner), Pacific Alliance (observer), Paris Club, PCA, PIF (partner), SAARC (observer), SELEC (observer), SICA (observer), UN, UNCTAD, UNESCO, UNHCR, UNIDO, UNMISS, UNRWA, UNWTO, UPU, Wassenaar Arrangement, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO, ZC<br>

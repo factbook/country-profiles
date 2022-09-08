@@ -209,6 +209,13 @@ _water contact diseases_: schistosomiasis<br>
 **Obesity - adult prevalence rate**<br>
 12.4% (2016)<br>
 
+**Alcohol consumption per capita**<br>
+_total_: 4.23 liters of pure alcohol (2019 est.)<br>
+_beer_: 0.42 liters of pure alcohol (2019 est.)<br>
+_wine_: 3.58 liters of pure alcohol (2019 est.)<br>
+_spirits_: 0.23 liters of pure alcohol (2019 est.)<br>
+_other alcohols_: 0 liters of pure alcohol (2019 est.)<br>
+
 **Tobacco use**<br>
 _total_: 5.7% (2020 est.)<br>
 _male_: 10.1% (2020 est.)<br>
@@ -357,7 +364,7 @@ _judge selection and term of office_: Supreme Court judges appointed by the Nati
 _subordinate courts_: Court of First Instance; Audit Court<br>
 
 **Political parties and leaders**<br>
-Force for Democratic Change Movement or MDFM [Fradique Bandeira Melo DE MENEZES]<br>Independent Democratic Action or ADI [vacant]<br>Movement for the Liberation of Sao Tome and Principe-Social Democratic Party or MLSTP-PSD [Aurelio MARTINS]<br>Party for Democratic Convergence-Reflection Group or PCD-GR [Leonel Mario D'ALVA]<br>other small parties<br>
+Force for Democratic Change Movement or MDFM [Fradique Bandeira Melo DE MENEZES]<br>Independent Democratic Action or ADI [Patrice TROVADA]<br>Movement for the Liberation of Sao Tome and Principe-Social Democratic Party or MLSTP-PSD [Aurelio MARTINS]<br>Party for Democratic Convergence-Reflection Group or PCD-GR [Leonel Mario D'ALVA]<br>other small parties<br>
 
 **International organization participation**<br>
 ACP, AfDB, AOSIS, AU, CD, CEMAC, CPLP, EITI (candidate country), FAO, G-77, IBRD, ICAO, ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, IMO, Interpol, IOC, IOM (observer), IPU, ITU, ITUC (NGOs), MIGA, NAM, OIF, OPCW, PCA, UN, UNCTAD, UNESCO, UNIDO, Union Latina, UNWTO, UPU, WCO, WHO, WIPO, WMO, WTO (observer)<br>

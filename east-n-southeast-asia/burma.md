@@ -222,6 +222,13 @@ _animal contact diseases_: rabies<br>
 **Obesity - adult prevalence rate**<br>
 5.8% (2016)<br>
 
+**Alcohol consumption per capita**<br>
+_total_: 2.06 liters of pure alcohol (2019 est.)<br>
+_beer_: 0.5 liters of pure alcohol (2019 est.)<br>
+_wine_: 0.02 liters of pure alcohol (2019 est.)<br>
+_spirits_: 1.55 liters of pure alcohol (2019 est.)<br>
+_other alcohols_: 0 liters of pure alcohol (2019 est.)<br>
+
 **Tobacco use**<br>
 _total_: 44.1% (2020 est.)<br>
 _male_: 68.5% (2020 est.)<br>
@@ -296,7 +303,7 @@ _vectorborne diseases_: dengue fever, malaria, and Japanese encephalitis<br>
 _animal contact diseases_: rabies<br>
 
 **Food insecurity**<br>
-_severe localized food insecurity_: <em>due to conflict, political instability, and economic constraints -</em> the political crisis, following the military takeover on 1 February 2021, resulted in increased tensions and unrest throughout the country; the current uncertain political situation may further compromise the fragile situation of vulnerable households and the Rohingya IDPs residing in the country; armed conflict between the military and non‑state armed groups led to population displacements, disrupted agricultural activities and limited access for humanitarian support especially in Rakhine, Chin, Kachin, Kayin, Kayah and Shan states; income losses and a decline in remittances, due to the impact of the COVID‑19 pandemic, have affected the food security situation of vulnerable households (2022)<br>
+_severe localized food insecurity_: <em>due to conflict, political instability, and economic constraints -</em> the political crisis, following the military takeover on 1 February 2021, resulted in increased tensions and unrest throughout the country; the current uncertain political situation may further compromise the fragile situation of vulnerable households and the Rohingya IDPs residing in the country; armed conflict between the military and non‑state armed groups led to population displacements, disrupted agricultural activities and limited access for humanitarian support especially in Rakhine, Chin, Kachin, Kayin, Kayah and Shan states; income losses and a decline in remittances, due to the impact of the COVID‑19 pandemic, have affected the food security situation of vulnerable households; domestic prices of Emata rice, the most consumed variety in the country, were at high levels in May 2022, constraining access to a key staple food (2022)<br>
 
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 4,677,307 tons (2000 est.)<br>
@@ -370,7 +377,7 @@ _head of government_: Prime Minister, State Administration Council (SAC) Chair, 
 _cabinet_: Cabinet appointments shared by the president and the commander-in-chief; note - after 1 February, the military junta replaced the cabinet<br>
 _elections/appointments_: prior to the military takeover, president was indirectly elected by simple majority vote by the full Assembly of the Union from among 3 vice-presidential candidates nominated by the Presidential Electoral College (consists of members of the lower and upper houses and military members); the other 2 candidates become vice presidents (president elected for a 5-year term); election last held on 28 March 2018; the military junta pledged to hold new elections in 2023<br>
 _election results_: <em>2018</em>: WIN MYINT elected president in an indirect by-election held on 28 March 2018 after the resignation of HTIN KYAW; Assembly of the Union vote - WIN MYINT (NLD) 403, MYINT SWE (USDP) 211, HENRY VAN THIO (NLD) 18, 4 votes canceled (636 votes cast); note - WIN MYINT and other key leaders of the ruling NLD party were placed under arrest following the military takeover on 1 February 2021<br><br><em>2016</em>: Assembly of the Union vote - HTIN KYAW elected president; HTIN KYAW (NLD) 360, MYINT SWE (USDP) 213, HENRY VAN THIO (NLD) 79 (652 votes cast)<br>
-_state counsellor_: State Counselor AUNG SAN SUU KYI (since 6 April 2016); note - under arrest since 1 February 2021 (has been sentenced to 17 years in prison); formerly served as minister of foreign affairs and minister for the office of the president<br>
+_state counsellor_: State Counselor AUNG SAN SUU KYI (since 6 April 2016); note - under arrest since 1 February 2021 (has been sentenced to 20 years in prison as of August 2022); formerly served as minister of foreign affairs and minister for the office of the president<br>
 <strong>note:</strong> a parliamentary bill creating the position of "state counsellor" was signed into law by former President HTIN KYAW on 6 April 2016; a state counsellor serves the equivalent term of the president and is similar to a prime minister in that the holder acts as a link between the parliament and the executive branch<br>
 
 **Legislative branch**<br>

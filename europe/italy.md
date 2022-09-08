@@ -210,6 +210,13 @@ _unimproved: total_: total: 0% of population (2020 est.)<br>
 **Obesity - adult prevalence rate**<br>
 19.9% (2016)<br>
 
+**Alcohol consumption per capita**<br>
+_total_: 7.65 liters of pure alcohol (2019 est.)<br>
+_beer_: 1.99 liters of pure alcohol (2019 est.)<br>
+_wine_: 4.83 liters of pure alcohol (2019 est.)<br>
+_spirits_: 0.83 liters of pure alcohol (2019 est.)<br>
+_other alcohols_: 0 liters of pure alcohol (2019 est.)<br>
+
 **Tobacco use**<br>
 _total_: 23.1% (2020 est.)<br>
 _male_: 26.6% (2020 est.)<br>
@@ -357,7 +364,7 @@ _judge selection and term of office_: Supreme Court judges appointed by the High
 _subordinate courts_: various lower civil and criminal courts (primary and secondary tribunals and courts of appeal)<br>
 
 **Political parties and leaders**<br>
-<p>Article One or Art.1-MDP [Roberto SPERANZA]<br>Associative Movement of Italians Abroad or MAIE [Ricardo Antonio MERIO]<br>Brothers of Italy or FdI [Giorgia MELONI]<br>Democratic Party or PD [Enrico LETTA]<br>Five Star Movement or M5S [Giuseppe CONTE]<br>Forza Italia or FI [Silvio BERLUSCONI]<br>Free and Equal (Liberi e Uguali) or LeU [Pietro GRASSO]<br>League or Lega [Matteo SALVINI]<br>More Europe or +EU [Emma BONINO]<br>Popular Civic List or CP [Beatrice LORENZIN]<br>Possible [Beatrice BRIGNONE]<br>South American Union of Italian Emigrants or USEI [Eugenion SANGREGORIO]<br>South Tyrolean People's Party or SVP [Philipp ACHAMMER]<br>Trentino Tyrolean Autonomist Party (Partito Autonomista Trentino Tirolese) or PATT [Franco PANIZZA, secretary] <br>Us with Italy or NcI [Maurizio LUPI]<br>other minor parties</p><br>
+<p>Article One or Art.1-MDP [Roberto SPERANZA]<br>Associative Movement of Italians Abroad or MAIE [Ricardo Antonio MERIO]<br>Brothers of Italy or FdI [Giorgia MELONI]<br>Democratic Party or PD [Enrico LETTA]<br>Five Star Movement or M5S [Giuseppe CONTE]<br>Forza Italia or FI [Silvio BERLUSCONI]<br>Free and Equal (Liberi e Uguali) or LeU [Pietro GRASSO]<br>League or Lega [Matteo SALVINI]<br>More Europe or +EU [Emma BONINO]<br>Popular Civic List or CP [Beatrice LORENZIN] (dissolved in 2019)<br>Possible [Beatrice BRIGNONE]<br>South American Union of Italian Emigrants or USEI [Eugenio SANGREGORIO]<br>South Tyrolean People's Party or SVP [Philipp ACHAMMER]<br>Trentino Tyrolean Autonomist Party (Partito Autonomista Trentino Tirolese) or PATT [Franco PANIZZA, president] <br>Us with Italy or NcI [Maurizio LUPI]<br>other minor parties</p><br>
 
 **International organization participation**<br>
 ADB (nonregional member), AfDB (nonregional member), Arctic Council (observer), Australia Group, BIS, BSEC (observer), CBSS (observer), CD, CDB, CE, CEI, CERN, EAPC, EBRD, ECB, EIB, EITI (implementing country), EMU, ESA, EU, FAO, FATF, G-7, G-8, G-10, G-20, IADB, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IEA, IFAD, IFC, IFRCS, IGAD (partners), IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), LAIA (observer), MIGA, MINURSO, MINUSMA, NATO, NEA, NSG, OAS (observer), OECD, OPCW, OSCE, Pacific Alliance (observer), Paris Club, PCA, PIF (partner), Schengen Convention, SELEC (observer), SICA (observer), UN, UNCTAD, UNESCO, UNHCR, UNIDO, UNIFIL, Union Latina, UNMOGIP, UNRWA, UNTSO, UNWTO, UPU, Wassenaar Arrangement, WCO, WHO, WIPO, WMO, WTO, ZC<br>
@@ -706,7 +713,7 @@ Italian Armed Forces: Army (Esercito Italiano, EI), Navy (Marina Militare Italia
 approximately 170,000 active personnel (100,000 Army; 30,000 Navy; 40,000 Air Force); approximately 108,000 Carabinieri (2022)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the Italian Armed Forces' inventory includes a mix of domestically-produced, jointly-produced, and imported weapons systems, mostly from Europe and the US; the US has been the leading supplier of weapons to Italy since 2010, followed by Germany; the Italian defense industry is capable of producing equipment across all the military domains with particular strengths in naval vessels and aircraft; it also participates in joint development and production of advanced weapons systems with other European countries and the US (2021)<br>
+the Italian Armed Forces' inventory includes a mix of domestically-produced, jointly-produced, and imported weapons systems, mostly from Europe and the US; the US has been the leading supplier of weapons to Italy since 2010; the Italian defense industry is capable of producing equipment across all the military domains with particular strengths in naval vessels and aircraft; it also participates in joint development and production of advanced weapons systems with other European countries and the US (2021)<br>
 
 **Military service age and obligation**<br>
 18-25 years of age for voluntary military service; women may serve in any military branch; Italian citizenship required; 1-year service obligation; conscription abolished 2004 (2021)<br>
@@ -714,7 +721,7 @@ the Italian Armed Forces' inventory includes a mix of domestically-produced, joi
 
 **Military deployments**<br>
 120 Djibouti; 900 Middle East/Iraq/Kuwait (NATO, European Assistance Mission Iraq); 640 Kosovo (NATO/KFOR); 250 Latvia (NATO); 875 Lebanon (UNIFIL); 400 Libya; 290 Niger; 250 Romania (NATO); 150 Somalia (EUTM) (2022)<br>
-<strong>note:</strong> in response to Russia’s invasion of Ukraine, some NATO countries have sent additional troops and equipment to the battlegroups deployed in NATO territory in eastern Europe<br>
+<strong>note:</strong> in response to Russia’s invasion of Ukraine, some NATO countries, including Italy, have sent additional troops and equipment to the battlegroups deployed in NATO territory in eastern Europe<br>
 
 **Military - note**<br>
 Italy is a member of NATO and was one of the original 12 countries to sign the North Atlantic Treaty (also known as the Washington Treaty) in 1949<br><br>Italy is an active participant in EU, NATO, UN, and other multinational military, security, and humanitarian operations abroad; as of 2022, it hosted the headquarters for the EU’s Mediterranean naval operations force (EUNAVFOR-MED) in Rome and the US Navy’s 6th Fleet in Naples; Italy was admitted to the UN in 1955 and in 1960 participated in its first UN peacekeeping mission, the UN Operation in Congo (ONUC); since 1960, it has committed more than 60,000 troops to UN missions; since 2006, Italy has hosted a training center in Vicenza for police personnel destined for peacekeeping missions<br>
@@ -733,7 +740,7 @@ Islamic State of Iraq and ash-Sham (ISIS)<br>
 **Refugees and internally displaced persons**<br>
 _refugees (country of origin)_: 19,441 (Nigeria), 15,337 (Pakistan), 12,962 (Afghanistan), 10,609 (Mali), 7,901 (Somalia), 5,845 (Gambia), 5,079 (Iraq) (mid-year 2021); 159,968 (Ukraine) (as of 16 August 2022)<br>
 _stateless persons_: 3,000 (mid-year 2021)<br>
-<strong>note:</strong> 641,879 estimated refugee and migrant arrivals (January 2015-August 2022)<br>
+<strong>note:</strong> 647,329 estimated refugee and migrant arrivals (January 2015-August 2022)<br>
 
 **Illicit drugs**<br>
 important gateway for drug trafficking; organized crime groups allied with Colombian and Spanish groups trafficking cocaine to Europe<br>

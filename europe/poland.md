@@ -215,6 +215,13 @@ _vectorborne diseases_: tickborne encephalitis (2016)<br>
 **Obesity - adult prevalence rate**<br>
 23.1% (2016)<br>
 
+**Alcohol consumption per capita**<br>
+_total_: 10.96 liters of pure alcohol (2019 est.)<br>
+_beer_: 5.72 liters of pure alcohol (2019 est.)<br>
+_wine_: 0.88 liters of pure alcohol (2019 est.)<br>
+_spirits_: 4.36 liters of pure alcohol (2019 est.)<br>
+_other alcohols_: 0 liters of pure alcohol (2019 est.)<br>
+
 **Tobacco use**<br>
 _total_: 24% (2020 est.)<br>
 _male_: 27.9% (2020 est.)<br>
@@ -745,7 +752,7 @@ Islamic State of Iraq and ash-Sham (ISIS)<br>
 <p><em>Poland-Belarus-Ukraine</em>: as a member state that forms part of the EU's external border, Poland has implemented the strict Schengen border rules to restrict illegal immigration and trade along its eastern borders with Belarus and Ukraine</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 9,870 (Russia) (2019); 1,338,339 (Ukraine) (as of 23 August 2022)<br>
+_refugees (country of origin)_: 9,870 (Russia) (2019); 1,338,339 (Ukraine) (as of 30 August 2022)<br>
 _stateless persons_: 1,389 (mid-year 2021)<br>
 
 **Illicit drugs**<br>

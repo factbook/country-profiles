@@ -224,6 +224,13 @@ _respiratory diseases_: meningococcal meningitis<br>
 **Obesity - adult prevalence rate**<br>
 11.4% (2016)<br>
 
+**Alcohol consumption per capita**<br>
+_total_: 4.09 liters of pure alcohol (2019 est.)<br>
+_beer_: 2.36 liters of pure alcohol (2019 est.)<br>
+_wine_: 0.16 liters of pure alcohol (2019 est.)<br>
+_spirits_: 0.01 liters of pure alcohol (2019 est.)<br>
+_other alcohols_: 1.56 liters of pure alcohol (2019 est.)<br>
+
 **Tobacco use**<br>
 _total_: 7.3% (2020 est.)<br>
 _male_: 13.2% (2020 est.)<br>
@@ -301,7 +308,7 @@ _respiratory diseases_: meningococcal meningitis<br>
 <strong>note: </strong>on 21 March 2022, the US Centers for Disease Control and Prevention (CDC) issued a Travel Alert for polio in Africa; Cameroon is currently considered a high risk to travelers for circulating vaccine-derived polioviruses (cVDPV); vaccine-derived poliovirus (VDPV) is a strain of the weakened poliovirus that was initially included in oral polio vaccine (OPV) and <em>that has changed over time and behaves more like the wild or naturally occurring virus</em>; this means it can be spread more easily to people who are unvaccinated against polio and who come in contact with the stool or respiratory secretions, such as from a sneeze, of an “infected” person who received oral polio vaccine; the CDC recommends that before any international travel, anyone unvaccinated, incompletely vaccinated, or with an unknown polio vaccination status should complete the routine polio vaccine series; before travel to any high-risk destination, the CDC recommends that adults who previously completed the full, routine polio vaccine series receive a single, lifetime booster dose of polio vaccine<br>
 
 **Food insecurity**<br>
-_severe localized food insecurity_: <em>due to civil insecurity and population displacements -</em> according to October 2021 analysis, about 2.4 million people were estimated to be severely food insecure between October and December 2021; this mainly results from the impacts of Boko Haram incursions in Far North Region, the socio‑political unrest in Northwest and Southwest regions and COVID‑19‑related economic shocks, which disrupted trade flows and agricultural practices, deteriorated livelihoods and displaced people (2022)<br>
+_severe localized food insecurity_: <em>due to civil insecurity and population displacements - </em>according to a March 2022 analysis, about 2.4 million people are projected to be severely food insecure between June and August 2022; this is mainly the result of conflict, sociopolitical unrest and high food prices (2022)<br>
 
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 3,270,617 tons (2013 est.)<br>
@@ -390,7 +397,7 @@ _judge selection and term of office_: Supreme Court judges appointed by the pres
 _subordinate courts_: Parliamentary Court of Justice (jurisdiction limited to cases involving the president and prime minister); appellate and first instance courts; circuit and magistrates' courts<br>
 
 **Political parties and leaders**<br>
-Alliance for Democracy and Development<br>Cameroon People's Democratic Movement or CPDM [Paul BIYA]<br>Cameroon People's Party or CPP [Edith Kah WALLA]<br>Cameroon Renaissance Movement or MRC [Maurice KAMTO]<br>Cameroonian Democratic Union or UDC [Adamou Ndam NJOYA]<br>Cameroonian Party for National Reconciliation or PCRN [Cabral LIBII]<br>Front for the National Salvation of Cameroon or FSNC [Issa Tchiroma BAKARY]<br>Movement for the Defense of the Republic or MDR [Dakole DAISSALA]<br>Movement for the Liberation and Development of Cameroon or MLDC [Marcel YONDO]<br>National Union for Democracy and Progress or UNDP [Maigari BELLO BOUBA]<br>Progressive Movement or MP [Jean-Jacques EKINDI]<br>Social Democratic Front or SDF [John FRU NDI]<br>Union of Peoples of Cameroon or UPC [Provisionary Management Bureau]<br>Union of Socialist Movements or USM<br>
+Alliance for Democracy and Development<br>Cameroon People's Democratic Movement or CPDM [Paul BIYA]<br>Cameroon People's Party or CPP [Edith Kah WALLA]<br>Cameroon Renaissance Movement or MRC [Maurice KAMTO]<br>Cameroonian Democratic Union or UDC [Adamou Ndam NJOYA]<br>Cameroonian Party for National Reconciliation or PCRN [Cabral LIBII]<br>Front for the National Salvation of Cameroon or FSNC [Issa Tchiroma BAKARY]<br>Movement for the Defense of the Republic or MDR [Dakole DAISSALA]<br>Movement for the Liberation and Development of Cameroon or MLDC [Marcel YONDO]<br>National Union for Democracy and Progress or UNDP [Maigari BELLO BOUBA]<br>Progressive Movement or MP [Jean-Jacques EKINDI]<br>Social Democratic Front or SDF [John FRU NDI]<br>Union of Peoples of Cameroon or UPC [Provisionary Management Bureau]<br>Union of Socialist Movements<br>
 
 **International organization participation**<br>
 ACP, AfDB, AU, BDEAC, C, CEMAC, EITI (compliant country), FAO, FZ, G-77, IAEA, IBRD, ICAO, ICRM, IDA, IDB, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), LCBC, MIGA, MNJTF, MONUSCO, NAM, OIC, OIF, OPCW, PCA, UN, UNCTAD, UNESCO, UNHCR, UNIDO, UNOCI, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>

@@ -204,6 +204,13 @@ _vectorborne diseases_: malaria<br>
 **Obesity - adult prevalence rate**<br>
 30.2% (2016)<br>
 
+**Alcohol consumption per capita**<br>
+_total_: 2.71 liters of pure alcohol (2019 est.)<br>
+_beer_: 1.64 liters of pure alcohol (2019 est.)<br>
+_wine_: 0.29 liters of pure alcohol (2019 est.)<br>
+_spirits_: 0.79 liters of pure alcohol (2019 est.)<br>
+_other alcohols_: 0 liters of pure alcohol (2019 est.)<br>
+
 **Tobacco use**<br>
 _total_: 23.1% (2020 est.)<br>
 _male_: 35.6% (2020 est.)<br>
@@ -228,7 +235,7 @@ _female_: 22.4% (2016 est.)<br>
 ## Environment
 
 **Environment - current issues**<br>
-the widespread practice of waste incineration is a major contributor to air pollution in the country, as are vehicle emissions in urban areas; deforestation and soil erosion are significant problems; a contributory factor to erosion is clearing of land by bush burning, a widespread practie that threatens biodiversity<br>
+the widespread practice of waste incineration is a major contributor to air pollution in the country, as are vehicle emissions in urban areas; deforestation and soil erosion are significant problems; a contributory factor to erosion is clearing of land by bush burning, a widespread practice that threatens biodiversity<br>
 
 **Environment - international agreements**<br>
 _party to_: Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Endangered Species, Law of the Sea, Marine Life Conservation, Nuclear Test Ban, Ozone Layer Protection, Ship Pollution, Tropical Timber 2006, Wetlands<br>

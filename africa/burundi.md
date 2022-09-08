@@ -219,6 +219,13 @@ _animal contact diseases_: rabies<br>
 **Obesity - adult prevalence rate**<br>
 5.4% (2016)<br>
 
+**Alcohol consumption per capita**<br>
+_total_: 4.07 liters of pure alcohol (2019 est.)<br>
+_beer_: 1.84 liters of pure alcohol (2019 est.)<br>
+_wine_: 0 liters of pure alcohol (2019 est.)<br>
+_spirits_: 0 liters of pure alcohol (2019 est.)<br>
+_other alcohols_: 2.23 liters of pure alcohol (2019 est.)<br>
+
 **Tobacco use**<br>
 _total_: 11.8% (2020 est.)<br>
 _male_: 17.4% (2020 est.)<br>
@@ -294,7 +301,7 @@ _water contact diseases_: schistosomiasis<br>
 _animal contact diseases_: rabies<br>
 
 **Food insecurity**<br>
-_widespread lack of access_: <em>due to the effects of weather -</em> about 1 million people are estimated to be severely food insecure between January and March 2022, due to livelihood losses and displacements caused by the rising water level of Lake Tanganyika and the overflow of rivers, sustained repatriation flows and the socio-economic impact of the COVID‑19 pandemic (2022)<br>
+_widespread lack of access_: <em>due to the effects of weather - </em>about 646,000 people are estimated to be severely food insecure between June and September 2022; the main drivers are poor rains in May in some central and southern eastern areas that affected pulses production, the socio-economic impact of the COVID‑19 pandemic, and high food prices due to elevated fuel prices inflating transport costs (2022)<br>
 
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 1,872,016 tons (2002 est.)<br>

@@ -225,6 +225,13 @@ _vectorborne diseases_: Crimean-Congo hemorrhagic fever, tickborne encephalitis<
 **Obesity - adult prevalence rate**<br>
 23.1% (2016)<br>
 
+**Alcohol consumption per capita**<br>
+_total_: 7.29 liters of pure alcohol (2019 est.)<br>
+_beer_: 3.04 liters of pure alcohol (2019 est.)<br>
+_wine_: 0.97 liters of pure alcohol (2019 est.)<br>
+_spirits_: 3.16 liters of pure alcohol (2019 est.)<br>
+_other alcohols_: 0.12 liters of pure alcohol (2019 est.)<br>
+
 **Tobacco use**<br>
 _total_: 26.8% (2020 est.)<br>
 _male_: 40.8% (2020 est.)<br>
@@ -404,7 +411,7 @@ _email address and website_: <br>rusembusa@mid.ru<br><br>https://washington.mid.
 _consulate(s) general_: Houston, New York<br>
 
 **Diplomatic representation from the US**<br>
-_chief of mission_: Ambassador John J. SULLIVAN (since 5 February 2021)<br>
+_chief of mission_: Ambassador (vacant); Charge d'Affaires Elizabeth ROOD (since 5 September 2022)<br>
 _embassy_: <small>55,75566° N, 37,58028° E</small><br>
 _mailing address_: 5430 Moscow Place, Washington DC&nbsp; 20521-5430<br>
 _telephone_: [7] (495) 728-5000<br>
@@ -768,7 +775,7 @@ Islamic State of Iraq and ash-Sham (ISIS)<br>
 <p>Russia remains concerned about the smuggling of poppy derivatives from Afghanistan through Central Asian countries</p> <p><em>Russia-China</em>: Russia and China have demarcated the once disputed islands at the Amur and Ussuri confluence and in the Argun River in accordance with the 2004 Agreement, ending their centuries-long border disputes</p> <p><em>Russia-Denmark-Norway</em>: Denmark (Greenland) and Norway have made submissions to the Commission on the Limits of the Continental Shelf (CLCS), and Russia is collecting additional data to augment its 2001 CLCS submission</p> <p><em>Russia and Estonia</em>: Russia and Estonia signed a technical border agreement in May 2005, but Russia recalled its signature in June 2005 after the Estonian parliament added to its domestic ratification act a historical preamble referencing the Soviet occupation and Estonia's pre-war borders under the 1920 Treaty of Tartu; Russia contends that the preamble allows Estonia to make territorial claims on Russia in the future, while Estonian officials deny that the preamble has any legal impact on the treaty text; negotiations were reopened in 2012, and a treaty was signed in 2014 without the disputed preamble, but neither country has ratified it as of 2020</p> <p><em>Russia-Finland</em>: various groups in Finland advocate restoration of Karelia (Kareliya) and other areas ceded to the Soviet Union following World War II but the Finnish Government asserts no territorial demands</p> <p><em>Russia-Georgia</em>: Russia's military support and subsequent recognition of Abkhazia and South Ossetia independence in 2008 continue to sour relations with Georgia; in 2011, Russia began to put up fences and barbed wire to fortify South Ossetia, physically dividing villages in the process; Russia continues to move the South Ossetia border fences further into Georgian territory</p> <p><em>Russia-Japan:</em> the sovereignty dispute over the islands of Etorofu, Kunashiri, Shikotan, and the Habomai group, known in Japan as the "Northern Territories" and in Russia as the "Southern Kurils," occupied by the Soviet Union in 1945, now administered by Russia, and claimed by Japan, remains the primary sticking point to signing a peace treaty formally ending World War II hostilities</p> <p><em>Russia-Kazakhstan</em>: Russia boundary delimitation was ratified on November 2005; field demarcation commenced in 2007 and was expected to be completed by 2013</p> <p><em>Russia-Lithuania</em>: Russia and Lithuania committed to demarcating their boundary in 2006 in accordance with the land and maritime treaty ratified by Russia in May 2003 and by Lithuania in 1999; border demarcation was completed in 2018; Lithuania operates a simplified transit regime for Russian nationals traveling from the Kaliningrad coastal exclave into Russia, while still conforming, as an EU member state with an EU external border, where strict Schengen border rules apply</p> <p><em>Russia-North Korea</em>: none identified</p> <p><em>Russia-Norway</em>: Russia and Norway signed a comprehensive maritime boundary agreement in 2010, opening the disputed territory for oil and natural gas exploration; a visa-free travel agreement for persons living near the border went into effect in May 2012</p> <p><em>Russia-Ukraine</em>: Russia remains involved in the conflict in eastern Ukraine while also occupying Ukraine’s territory of Crimea; preparations for the demarcation delimitation of land boundary with Ukraine have commenced; the dispute over the boundary between Russia and Ukraine through the Kerch Strait and Sea of Azov is suspended due to the occupation of Crimea by Russia</p> <p><em>Russia-US</em>: Russian Duma has not yet ratified 1990 Bering Sea Maritime Boundary Agreement with the US; the southwesterly "Western Limit" places about 70% of the Bering Sea under U.S. maritime jurisdiction</p> <p><em>Russia-various</em>: Azerbaijan, Kazakhstan, and Russia ratified Caspian seabed delimitation treaties based on equidistance, while Iran continues to insist on a one-fifth slice of the sea</p> <p> </p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 2,308,790 (Ukraine) (as of 23 August 2022)<br>
+_refugees (country of origin)_: 2,414,075 (Ukraine) (as of 30 August 2022)<br>
 _stateless persons_: 56,960 (mid-year 2021); note - Russia's stateless population consists of Roma, Meskhetian Turks, and ex-Soviet citizens from the former republics; between 2003 and 2010 more than 600,000 stateless people were naturalized; most Meskhetian Turks, followers of Islam with origins in Georgia, fled or were evacuated from Uzbekistan after a 1989 pogrom and have lived in Russia for more than the required five-year residency period; they continue to be denied registration for citizenship and basic rights by local Krasnodar Krai authorities on the grounds that they are temporary illegal migrants<br>
 
 **Trafficking in persons**<br>

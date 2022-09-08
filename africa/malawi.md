@@ -223,6 +223,13 @@ _animal contact diseases_: rabies<br>
 **Obesity - adult prevalence rate**<br>
 5.8% (2016)<br>
 
+**Alcohol consumption per capita**<br>
+_total_: 2.04 liters of pure alcohol (2019 est.)<br>
+_beer_: 0.08 liters of pure alcohol (2019 est.)<br>
+_wine_: 0 liters of pure alcohol (2019 est.)<br>
+_spirits_: 0.25 liters of pure alcohol (2019 est.)<br>
+_other alcohols_: 1.7 liters of pure alcohol (2019 est.)<br>
+
 **Tobacco use**<br>
 _total_: 10.8% (2020 est.)<br>
 _male_: 17.5% (2020 est.)<br>
@@ -253,7 +260,7 @@ _female_: 10.6% (2017 est.)<br>
 ## Environment
 
 **Environment - current issues**<br>
-deforestation; land degradation; water pollution from agricultural runoff, sewage, industrial wastes; siltation of spawning grounds endangers fish populations; negative effects of climate change (extreme high temperatures, changing precipatation pattens)<br>
+deforestation; land degradation; water pollution from agricultural runoff, sewage, industrial wastes; siltation of spawning grounds endangers fish populations; negative effects of climate change (extreme high temperatures, changing precipitation patterns)<br>
 
 **Environment - international agreements**<br>
 _party to_: Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Endangered Species, Environmental Modification, Hazardous Wastes, Law of the Sea, Marine Life Conservation, Nuclear Test Ban, Ozone Layer Protection, Ship Pollution, Wetlands<br>
@@ -294,7 +301,7 @@ _animal contact diseases_: rabies<br>
 <strong>note: </strong>on 21 March 2022, the US Centers for Disease Control and Prevention (CDC) issued a Travel Alert for polio in Africa; Malawi is currently considered a high risk to travelers for circulating vaccine-derived polioviruses (cVDPV); vaccine-derived poliovirus (VDPV) is a strain of the weakened poliovirus that was initially included in oral polio vaccine (OPV) and <em>that has changed over time and behaves more like the wild or naturally occurring virus</em>; this means it can be spread more easily to people who are unvaccinated against polio and who come in contact with the stool or respiratory secretions, such as from a sneeze, of an “infected” person who received oral polio vaccine; the CDC recommends that before any international travel, anyone unvaccinated, incompletely vaccinated, or with an unknown polio vaccination status should complete the routine polio vaccine series; before travel to any high-risk destination, the CDC recommends that adults who previously completed the full, routine polio vaccine series receive a single, lifetime booster dose of polio vaccine<br>
 
 **Food insecurity**<br>
-_severe localized food insecurity_: <em>due to reduced incomes and shortfalls in cereal production -</em> an estimated 1.65 million people are facing "Crisis" levels of food insecurity between January and March 2022, underpinned by localized shortfalls in cereal production and the lingering impact of an economic downturn due to the COVID-19 pandemic; the effects of poor rains at the start of the cropping season and tropical storm Ana in January 2022 are expected to cause an increase in humanitarian needs later in 2022, due to crop and livelihood losses (2022)<br>
+_severe localized food insecurity_: <em>due to reduced incomes and shortfalls in cereal production - </em>an estimated 1.65 million people are facing “Crisis” levels of food insecurity between January and March 2022, underpinned by localized shortfalls in cereal production and the lingering impact of an economic downturn due to the COVID-19 pandemic; a moderate decline in cereal production in 2022, particularly in southern districts, and increasing food prices are expected to lead to an increased prevalence of food insecurity in the last quarter of 2022; the prevalence of food insecurity is likely to increase in the second half of 2022 and early 2023 mainly due to the high food prices and low cereal production in southern districts; in addition to the adverse impacts of the low cereal harvest in the south and high food prices across the country, a third factor that is foreseen to contribute to a worsening of food insecurity conditions is the forecasted slow economic growth in 2022, underpinned by the lingering effects of the COVID-19 pandemic and the country’s elevated debt levels (2022)<br>
 
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 1,297,844 tons (2013 est.)<br>

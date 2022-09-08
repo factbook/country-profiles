@@ -208,6 +208,13 @@ _unimproved: total_: total: 0.1% of population (2020 est.)<br>
 **Obesity - adult prevalence rate**<br>
 26.1% (2016)<br>
 
+**Alcohol consumption per capita**<br>
+_total_: 3.07 liters of pure alcohol (2019 est.)<br>
+_beer_: 1.78 liters of pure alcohol (2019 est.)<br>
+_wine_: 0.08 liters of pure alcohol (2019 est.)<br>
+_spirits_: 1.16 liters of pure alcohol (2019 est.)<br>
+_other alcohols_: 0.04 liters of pure alcohol (2019 est.)<br>
+
 **Tobacco use**<br>
 _total_: 21.2% (2020 est.)<br>
 _male_: 28.9% (2020 est.)<br>
@@ -356,7 +363,7 @@ _judge selection and term of office_: judges selected by the 9-member Judicial S
 _subordinate courts_: district and magistrate courts; national and regional labor courts; family and juvenile courts; special and Rabbinical courts<br>
 
 **Political parties and leaders**<br>
-Blue and White [Benny GANTZ]<br>Joint Arab List [Ayman ODEH] (alliance includes Hadash, Ta’al, Balad)<br>Labor [Merav MICHAELI]<br>Likud [Binyamin NETANYAHU]<br>Meretz [Nitzan HOROWITZ]<br>New Hope [Gideon SA'AR]<br>United Arab List [Mansour ABBAS]<br>Religious Zionist Party [Bezalel SMOTRICH, chairperson]<br>SHAS [Aryeh DERI]<br>United Torah Judaism, or UTJ [Yaakov LITZMAN] (alliance includes Agudat Israel and Degel HaTorah)<br>Yamina [Naftali BENNETT]<br>Yesh Atid [Yair LAPID]<br>Yisrael Beiteinu [Avigdor LIEBERMAN]<br>
+Blue and White [Benny GANTZ]<br>Joint Arab List [Ayman ODEH] (alliance includes Hadash, Ta’al, Balad)<br>Labor Party or HaAvoda [Merav MICHAELI]<br>Likud [Binyamin NETANYAHU]<br>Meretz [Zehava GAL-ON]<br>New Hope [Gideon SA'AR]<br>United Arab List [Mansour ABBAS]<br>Religious Zionist Party [Bezalel SMOTRICH, chairperson]<br>SHAS [Aryeh DERI]<br>United Torah Judaism or UTJ [Moshe GAFNI] (alliance includes Agudat Israel and Degel HaTorah)<br>Yamina [Ayelet SHAKED]<br>Yesh Atid [Yair LAPID]<br>Yisrael Beiteinu [Avigdor LIEBERMAN]<br>
 
 **International organization participation**<br>
 BIS, BSEC (observer), CE (observer), CERN, CICA, EBRD, FAO, IADB, IAEA, IBRD, ICAO, ICC (national committees), ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, OAS (observer), OECD, OPCW (signatory), OSCE (partner), Pacific Alliance (observer), Paris Club, PCA, SELEC (observer), UN, UNCTAD, UNESCO, UNHCR, UNIDO, UNWTO, UPU, WCO, WHO, WIPO, WMO, WTO<br>

@@ -217,6 +217,13 @@ _animal contact diseases_: rabies<br>
 **Obesity - adult prevalence rate**<br>
 8.2% (2016)<br>
 
+**Alcohol consumption per capita**<br>
+_total_: 5.84 liters of pure alcohol (2019 est.)<br>
+_beer_: 3.78 liters of pure alcohol (2019 est.)<br>
+_wine_: 0.72 liters of pure alcohol (2019 est.)<br>
+_spirits_: 1.27 liters of pure alcohol (2019 est.)<br>
+_other alcohols_: 0.08 liters of pure alcohol (2019 est.)<br>
+
 **Children under the age of 5 years underweight**<br>
 19% (2015/16)<br>
 
@@ -372,7 +379,7 @@ _judge selection and term of office_: Supreme Court judges appointed by the pres
 _subordinate courts_: provincial and municipal courts<br>
 
 **Political parties and leaders**<br>
-Broad Convergence for the Salvation of Angola Electoral Coalition or CASA-CE [Manuel FERNANDES]<br>National Front for the Liberation of Angola or FNLA; note - party has two factions; one led by Lucas NGONDA; the other by Ngola KABANGU<br>National Union for the Total Independence of Angola or UNITA [Adalberto Costa JUNIOR] (largest opposition party)<br>Popular Movement for the Liberation of Angola or MPLA [Joao LOURENCO]; note - Jose Eduardo DOS SANTOS stepped down 8 Sept 2018; ruling party in power since 1975<br>Social Renewal Party or PRS [Benedito DANIEL]<br>
+Broad Convergence for the Salvation of Angola Electoral Coalition or CASA-CE [Manuel FERNANDES]<br>National Front for the Liberation of Angola or FNLA; note - party has two factions; one led by Lucas NGONDA; the other by Ngola KABANGU<br>National Union for the Total Independence of Angola or UNITA [Adalberto Costa JUNIOR] (largest opposition party)<br>Popular Movement for the Liberation of Angola or MPLA [Joao LOURENCO]; note- ruling party in power since 1975<br>Social Renewal Party or PRS [Benedito DANIEL] (2022)<br>
 
 **International organization participation**<br>
 ACP, AfDB, AU, CEMAC, CPLP, FAO, G-77, IAEA, IBRD, ICAO, ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ISO (correspondent), ITSO, ITU, ITUC (NGOs), MIGA, NAM, OAS (observer), OPEC, SADC, UN, UNCTAD, UNESCO, UNIDO, Union Latina, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
@@ -732,7 +739,7 @@ the International Maritime Bureau reports the territorial waters of Angola are a
 <p><em>Angola-Democratic Republic of Congo (DRC): </em>DRC accuses Angola of shifting monuments<br><br><em>Angola-Namibia: n</em>one identified<br><br><em>Angola-Republic of Congo:</em> (Kabinda Exclave) none identified<br><br><em>Angola-Zambia: </em>because the straight-line segments along the left bank (Zambian side) of the Cuando/Kwando River do not conform with the physical alignment of the unstable shoreline, Zambian residents in some areas have settled illegally on sections of shoreline that fall on the Angolan side of the boundary</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 37,178 (Democratic Republic of the Congo) (refugees and asylum seekers), 9,272 (Guinea), 6,357 (Cote d'Ivoire), 5,725 (Mauritania) (2022)<br>
+_refugees (country of origin)_: 37,177 (Democratic Republic of the Congo) (refugees and asylum seekers), 9,272 (Guinea), 6,357 (Cote d'Ivoire), 5,725 (Mauritania) (2022)<br>
 
 **Illicit drugs**<br>
 <p>used as a transshipment point for cocaine destined for Western Europe and other African states, particularly South Africa</p><br>

@@ -225,6 +225,13 @@ _animal contact diseases_: rabies<br>
 **Obesity - adult prevalence rate**<br>
 8.4% (2016)<br>
 
+**Alcohol consumption per capita**<br>
+_total_: 7.81 liters of pure alcohol (2019 est.)<br>
+_beer_: 0.74 liters of pure alcohol (2019 est.)<br>
+_wine_: 0.09 liters of pure alcohol (2019 est.)<br>
+_spirits_: 0.38 liters of pure alcohol (2019 est.)<br>
+_other alcohols_: 6.6 liters of pure alcohol (2019 est.)<br>
+
 **Tobacco use**<br>
 _total_: 8.7% (2020 est.)<br>
 _male_: 14% (2020 est.)<br>
@@ -300,7 +307,7 @@ _water contact diseases_: schistosomiasis<br>
 _animal contact diseases_: rabies<br>
 
 **Food insecurity**<br>
-_severe localized food insecurity_: <em>due to localized shortfalls in staple food production -</em> about 437,000 people were estimated to be in need of humanitarian assistance between November 2021 and April 2022, mainly located in northeastern Mara, Arusha, Kilimanjaro and Tanga regions, reflecting a reduced “Vuli” harvest due to poor rains (2022)<br>
+_severe localized food insecurity_: <em>due to localized shortfalls in staple food production -</em> about 592,000 people are estimated to be in need of humanitarian assistance between May and September 2022, mainly located in northeastern regions, reflecting crop losses during the October–December “Vuli” 2021 and March–May “Masika” 2022 seasons due to poor rains; high food prices are also constraining households’ economic access to food (2022)<br>
 
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 9,276,995 tons (2012 est.)<br>

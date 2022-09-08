@@ -220,6 +220,13 @@ _aerosolized dust or soil contact diseases_: Lassa fever (2016)<br>
 **Obesity - adult prevalence rate**<br>
 7.7% (2016)<br>
 
+**Alcohol consumption per capita**<br>
+_total_: 0.33 liters of pure alcohol (2019 est.)<br>
+_beer_: 0.29 liters of pure alcohol (2019 est.)<br>
+_wine_: 0.01 liters of pure alcohol (2019 est.)<br>
+_spirits_: 0.03 liters of pure alcohol (2019 est.)<br>
+_other alcohols_: 0 liters of pure alcohol (2019 est.)<br>
+
 **Children under the age of 5 years underweight**<br>
 16.3% (2018)<br>
 
@@ -292,7 +299,7 @@ _aerosolized dust or soil contact diseases_: Lassa fever (2016)<br>
 <strong>note: </strong>on 21 March 2022, the US Centers for Disease Control and Prevention (CDC) issued a Travel Alert for polio in Africa; Guinea is currently considered a high risk to travelers for circulating vaccine-derived polioviruses (cVDPV); vaccine-derived poliovirus (VDPV) is a strain of the weakened poliovirus that was initially included in oral polio vaccine (OPV) and <em>that has changed over time and behaves more like the wild or naturally occurring virus</em>; this means it can be spread more easily to people who are unvaccinated against polio and who come in contact with the stool or respiratory secretions, such as from a sneeze, of an “infected” person who received oral polio vaccine; the CDC recommends that before any international travel, anyone unvaccinated, incompletely vaccinated, or with an unknown polio vaccination status should complete the routine polio vaccine series; before travel to any high-risk destination, the CDC recommends that adults who previously completed the full, routine polio vaccine series receive a single, lifetime booster dose of polio vaccine<br>
 
 **Food insecurity**<br>
-_severe localized food insecurity_: <em>due to reduced incomes -</em> about 740,000 people are projected to face severe food insecurity in the upcoming June to August 2022 period (2022)<br>
+_severe localized food insecurity_: <em>due to reduced incomes - </em>about 1.22 million people are projected to be in need of food assistance between June and August 2022, primarily due to food access constraints on account of the economic effects of the COVID-19 pandemic (2022)<br>
 
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 596,911 tons (1996 est.)<br>

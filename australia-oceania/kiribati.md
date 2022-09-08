@@ -206,6 +206,13 @@ _vectorborne diseases_: malaria<br>
 **Obesity - adult prevalence rate**<br>
 46% (2016)<br>
 
+**Alcohol consumption per capita**<br>
+_total_: 0.43 liters of pure alcohol (2019 est.)<br>
+_beer_: 0.26 liters of pure alcohol (2019 est.)<br>
+_wine_: 0 liters of pure alcohol (2019 est.)<br>
+_spirits_: 0.17 liters of pure alcohol (2019 est.)<br>
+_other alcohols_: 0 liters of pure alcohol (2019 est.)<br>
+
 **Tobacco use**<br>
 _total_: 40.6% (2020 est.)<br>
 _male_: 53.9% (2020 est.)<br>
@@ -345,7 +352,7 @@ _judge selection and term of office_: chief justice appointed by the president o
 _subordinate courts_: Court of Appeal; magistrates' courts<br>
 
 **Political parties and leaders**<br>
-Boutokaan Kiribati Moa Party (BKM) [Tessie LAMBOURNE]<br>Tobwaan Kiribati Party or TKP [Taneti MAAMAU]<br>
+Boutokaan Kiribati Moa Party or BKM [Tessie LAMBOURNE]<br>Tobwaan Kiribati Party or TKP [Taneti MAAMAU]<br>
 
 **International organization participation**<br>
 ABEDA, ACP, ADB, AOSIS, C, FAO, IBRD, ICAO, ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, IMO, IOC, ITU, ITUC (NGOs), OPCW, PIF, Sparteca, SPC, UN, UNCTAD, UNESCO, UPU, WHO, WIPO, WMO<br>

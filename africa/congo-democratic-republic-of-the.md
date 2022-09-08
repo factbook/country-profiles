@@ -223,6 +223,13 @@ _animal contact diseases_: rabies<br>
 **Obesity - adult prevalence rate**<br>
 6.7% (2016)<br>
 
+**Alcohol consumption per capita**<br>
+_total_: 0.56 liters of pure alcohol (2019 est.)<br>
+_beer_: 0.5 liters of pure alcohol (2019 est.)<br>
+_wine_: 0.01 liters of pure alcohol (2019 est.)<br>
+_spirits_: 0.05 liters of pure alcohol (2019 est.)<br>
+_other alcohols_: 0 liters of pure alcohol (2019 est.)<br>
+
 **Tobacco use**<br>
 _total_: 12.8% (2020 est.)<br>
 _male_: 22.7% (2020 est.)<br>
@@ -258,7 +265,7 @@ _female_: 6.8% (2012 est.)<br>
 ## Environment
 
 **Environment - current issues**<br>
-poaching threatens wildlife populations; water pollution; deforestation (forests endangered by fires set to clean the land for agricultural purposes; forests also used as a source of fuel); soil erosion; mining (diamonds, gold, coltan - a mineral used in creating capacitors for electronic devices) causing environmental damage<br>
+poaching threatens wildlife populations; water pollution; deforestation (forests endangered by fires set to clear the land for agricultural purposes; forests also used as a source of fuel); soil erosion; mining (diamonds, gold, coltan - a mineral used in creating capacitors for electronic devices) causing environmental damage<br>
 
 **Environment - international agreements**<br>
 _party to_: Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Endangered Species, Hazardous Wastes, Law of the Sea, Marine Dumping-London Convention, Nuclear Test Ban, Ozone Layer Protection, Tropical Timber 2006, Wetlands<br>
@@ -299,7 +306,7 @@ _animal contact diseases_: rabies<br>
 <strong>note: </strong>on 21 March 2022, the US Centers for Disease Control and Prevention (CDC) issued a Travel Alert for polio in Africa; the Democratic Republic of the Congo is currently considered a high risk to travelers for circulating vaccine-derived polioviruses (cVDPV); vaccine-derived poliovirus (VDPV) is a strain of the weakened poliovirus that was initially included in oral polio vaccine (OPV) and <em>that has changed over time and behaves more like the wild or naturally occurring virus</em>; this means it can be spread more easily to people who are unvaccinated against polio and who come in contact with the stool or respiratory secretions, such as from a sneeze, of an “infected” person who received oral polio vaccine; the CDC recommends that before any international travel, anyone unvaccinated, incompletely vaccinated, or with an unknown polio vaccination status should complete the routine polio vaccine series; before travel to any high-risk destination, the CDC recommends that adults who previously completed the full, routine polio vaccine series receive a single, lifetime booster dose of polio vaccine<br>
 
 **Food insecurity**<br>
-_widespread lack of access_: <em>due to internal conflict in eastern regions and economic downturn -</em> according to a November 2021 analysis, 26 million people are projected to be severely food insecure, in "Crisis" or above, between January and June 2022; this is due to persisting conflict in eastern provinces of North Kivu, South Kivu and Ituri, which continues to cause displacements, coupled with the economic effects of the COVID-19 pandemic (2022)<br>
+_widespread lack of access_: <em>due to internal conflict in eastern regions and economic downturn - </em>given the recent escalation of conflicts in the eastern provinces and the consequent population displacement, the magnitude and severity of acute food insecurity may exceed the projected levels; additionally, elevated staple food prices, both domestically and globally, pose a further risk to food insecurity (2022)<br>
 
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 14,385,226 tons (2016 est.)<br>
@@ -738,7 +745,7 @@ the FARDC is equipped mostly with a mix of second-hand Russian and Soviet-era we
 18-45 years of age for voluntary (men and women) and compulsory (men only) military service; unclear how much conscription is used (2021)<br>
 
 **Military - note**<br>
-<p>the modern FARDC was created out of the armed factions of the two Congo wars of 1996-1997 and 1998-2003; as part of the peace accords that ended the last war, the largest rebel groups were incorporated into the FARDC; many armed groups, however, continue to fight and as of 2022, there were over 100 illegal armed groups operating in the country by some estimates; as of 2022, the FARDC was actively engaged in combat operations against numerous armed groups, particularly in the eastern provinces of Ituri, North Kivu, and South Kivu, although there was also violence in Maniema, Kasai, Kasai Central, and Tanganyika provinces; the military is widely assessed as being unable to provide adequate security throughout the country due to insufficient training, poor morale and leadership, ill-discipline and corruption, low equipment readiness, a fractious ethnic makeup, and the sheer size of the country and diversity of armed rebel groups<br><br>MONUSCO, the United Nations peacekeeping and stabilization force in the Democratic Republic of Congo, has operated in the central and eastern parts of the country since 1999; as of mid-2022, MONUSCO had around 15,000 personnel; MONUSCO includes a Force Intervention Brigade (FIB; 3 infantry battalions, plus artillery and special forces), the first ever UN peacekeeping force specifically tasked to carry out targeted offensive operations to neutralize and disarm groups considered a threat to state authority and civilian security</p><br>
+<p>the modern FARDC was created out of the armed factions of the two Congo wars of 1996-1997 and 1998-2003; as part of the peace accords that ended the last war, the largest rebel groups were incorporated into the FARDC; many armed groups, however, continue to fight and as of 2022, there were over 100 illegal armed groups operating in the country by some estimates; as of 2022, the FARDC was actively engaged in combat operations against numerous armed groups, particularly in the eastern provinces of Ituri, North Kivu, and South Kivu, although there was also violence in Maniema, Kasai, Kasai Central, and Tanganyika provinces; the military is widely assessed as being unable to provide adequate security throughout the country due to insufficient training, poor morale and leadership, ill-discipline and corruption, low equipment readiness, a fractious ethnic makeup, and the sheer size of the country and diversity of armed rebel groups<br><br></p> <p>the United Nations Organization Stabilization Mission in the Democratic Republic of the Congo (MONUSCO) has operated in the central and eastern parts of the country since 1999; as of mid-2022, MONUSCO had around 15,000 personnel; MONUSCO includes a Force Intervention Brigade (FIB; 3 infantry battalions, plus artillery and special forces), the first ever UN peacekeeping force specifically tasked to carry out targeted offensive operations to neutralize and disarm groups considered a threat to state authority and civilian security</p><br>
 
 ## Terrorism
 

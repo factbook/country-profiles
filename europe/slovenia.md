@@ -203,6 +203,13 @@ _unimproved: total_: total: 1% of population (2020 est.)<br>
 **Obesity - adult prevalence rate**<br>
 20.2% (2016)<br>
 
+**Alcohol consumption per capita**<br>
+_total_: 11.05 liters of pure alcohol (2019 est.)<br>
+_beer_: 4.54 liters of pure alcohol (2019 est.)<br>
+_wine_: 5.26 liters of pure alcohol (2019 est.)<br>
+_spirits_: 1.26 liters of pure alcohol (2019 est.)<br>
+_other alcohols_: 0 liters of pure alcohol (2019 est.)<br>
+
 **Tobacco use**<br>
 _total_: 22% (2020 est.)<br>
 _male_: 24.4% (2020 est.)<br>
@@ -701,7 +708,7 @@ Slovenia became a member of NATO in 2004; Hungary and Italy provide NATO's air p
 <p><em>Slovenia-Austria</em>: none identified</p> <p><em>Slovenia-Croatia</em>: since the breakup of Yugoslavia in the early 1990s, Croatia and Slovenia have each claimed sovereignty over Piran Bay and four villages, and Slovenia has objected to Croatia's claim of an exclusive economic zone in the Adriatic Sea; in 2009, however Croatia and Slovenia signed a binding international arbitration agreement to define their disputed land and maritime borders, which led Slovenia to lift its objections to Croatia joining the EU; in June 2017, the Permanent Court of Arbitration issued a ruling on the border, but Croatia had withdrawn from the proceedings in 2015 and refused to implement it; as a member state that forms part of the EU's external border, Slovenia has implemented the strict Schengen border rules to curb illegal migration and commerce through southeastern Europe while encouraging close cross-border ties with Croatia; Slovenia continues to impose a hard border Schengen regime with Croatia, which joined the EU in 2013 but has not yet fulfilled Schengen requirements</p> <p><em>Slovenia-Hungary</em>: none identified</p> <p><em>Slovenia-Italy</em>: none identified</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 7,279 (Ukraine) (as of 22 August 2022)<br>
+_refugees (country of origin)_: 7,279 (Ukraine) (as of 30 August 2022)<br>
 _stateless persons_: 10 (2020)<br>
 <strong>note:  </strong>544,590 estimated refugee and migrant arrivals (January 2015-July 2022)<br>
 

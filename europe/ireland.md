@@ -202,6 +202,13 @@ _unimproved: total_: total: 1.7% of population (2020 est.)<br>
 **Obesity - adult prevalence rate**<br>
 25.3% (2016)<br>
 
+**Alcohol consumption per capita**<br>
+_total_: 10.91 liters of pure alcohol (2019 est.)<br>
+_beer_: 4.92 liters of pure alcohol (2019 est.)<br>
+_wine_: 2.88 liters of pure alcohol (2019 est.)<br>
+_spirits_: 2.29 liters of pure alcohol (2019 est.)<br>
+_other alcohols_: 0.82 liters of pure alcohol (2019 est.)<br>
+
 **Tobacco use**<br>
 _total_: 20.8% (2020 est.)<br>
 _male_: 22.5% (2020 est.)<br>
@@ -333,7 +340,7 @@ _election results_: <em>2018:</em> Michael D. HIGGINS reelected president; perce
 **Legislative branch**<br>
 _description_: bicameral Parliament or Oireachtas consists of:<br>Senate or Seanad Eireann (60 seats; 49 members indirectly elected from 5 vocational panels of nominees by an electoral college, 11 appointed by the prime minister<br>House of Representatives or Dail Eireann (160 seats; members directly elected in multi-seat constituencies by proportional representation vote; all Parliament members serve 5-year terms)<br>
 _elections_: <br>Senate - last held early on 21-30 May 2020 (next to be held in March 2025)<br>House of Representatives - last held on 8 February 2020 (next to be held no later than 2025)<br>
-_election results_: <strong> </strong><br>Senate - percent of vote by party - Fianna Fail 35%, Fine Gael 26.7%, Labor Party 6.7%, Sinn Fein 6.7%, Green Party 6.7%<strong>,</strong> Human Dignity Alliance 1.6%, independent 16.7%; seats by party - Fianna Fail 21, Fine Gael 16, Labor Party 4, Sinn Fein 4, Green Party 4<strong>,</strong> Human Dignity Alliance 1, independent 10; composition - men 36, women 24, percent of women 40%  <br>House of Representatives - percent of vote by party - Sinn Fein 22.6%, Fianna Fail 22.6%, Fine Gael 20.7%, Green Party 6.3%, Labor Party 4.5%, Social Democrats 3.8%, AAA-PBD 3.2%, Aontu 0.6%, Right to Change 0.6%, independent 15%; seats by party - Sinn Fein 36, Fianna Fail 36, Fine Gael 33, Green Party 10, Labor Party 7, Social Democrats 6, AAA-PBD 5, Aontu l, Right to Change 1, Independents 24; composition as of March 2022 - men 123, women 37, percent of women 23.1%; note - total Parliament percent of women 27.7%<br>
+_election results_: <strong> </strong><br>Senate - percent of vote by party - Fianna Fail 35%, Fine Gael 26.7%, Labor Party 6.7%, Sinn Fein 6.7%, Green Party 6.7%<strong>,</strong> Human Dignity Alliance 1.6%, independent 16.7%; seats by party - Fianna Fail 21, Fine Gael 16, Labor Party 4, Sinn Fein 4, Green Party 4<strong>,</strong> Human Dignity Alliance 1, independent 10; composition - men 36, women 24, percent of women 40%  <br>House of Representatives - percent of vote by party - Sinn Fein 22.6%, Fianna Fail 22.6%, Fine Gael 20.7%, Green Party 6.3%, Labor Party 4.5%, Social Democrats 3.8%, PBPS 3.2%, Aontu 0.6%, Right to Change 0.6%, independent 15%; seats by party - Sinn Fein 36, Fianna Fail 36, Fine Gael 33, Green Party 10, Labor Party 7, Social Democrats 6, PBPS 5, Aontu l, Right to Change 1, Independents 24; composition as of March 2022 - men 123, women 37, percent of women 23.1%; note - total Parliament percent of women 27.7%<br>
 
 **Judicial branch**<br>
 _highest courts_: Supreme Court of Ireland (consists of the chief justice, 9 judges, 2 ex-officio members - the presidents of the High Court and Court of Appeal - and organized in 3-, 5-, or 7-judge panels, depending on the importance or complexity of an issue of law)<br>
@@ -341,7 +348,7 @@ _judge selection and term of office_: judges nominated by the prime minister and
 _subordinate courts_: High Court, Court of Appeal; circuit and district courts; criminal courts<br>
 
 **Political parties and leaders**<br>
-Aontu [Peadar TOIBIN]<br>Solidarity-People Before Profit or AAAS-PBP [collective leadership]<br>Fianna Fail [Micheal MARTIN]<br>Fine Gael [Leo VARADKAR]<br>Green Party [Eamon RYAN]<br>Human Dignity Alliance [Ronan MULLEN]<br>Labor (Labour) Party [Alan KELLY]<br>Renua Ireland (vacant)<br>Right to Change or RTC [Joan COLLINS]<br>Sinn Fein [Mary Lou MCDONALD]<br>Social Democrats [Catherine MURPHY, Roisin SHORTALL]<br>Socialist Party [collective leadership]<br>The Workers' Party [Michael DONNELLY]<br>
+Aontu [Peadar TOIBIN]<br>Solidarity-People Before Profit or PBPS [collective leadership]<br>Fianna Fail [Micheal MARTIN]<br>Fine Gael [Leo VARADKAR]<br>Green Party [Eamon RYAN]<br>Human Dignity Alliance [Ronan MULLEN]<br>Labor (Labour) Party Ivana BACIK]<br>Renua Ireland (vacant)<br>Right to Change or RTC [Joan COLLINS]<br>Sinn Fein [Mary Lou McDONALD]<br>Social Democrats [Catherine MURPHY, Roisin SHORTALL]<br>Socialist Party [collective leadership]<br>The Workers' Party [collective leadership]<br>
 
 **International organization participation**<br>
 ADB (nonregional member), Australia Group, BIS, CD, CE, EAPC, EBRD, ECB, EIB, EMU, ESA, EU, FAO, FATF, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IEA, IFAD, IFC, IFRCS, IGAD (partners), IHO, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, MINURSO, MONUSCO, NEA, NSG, OAS (observer), OECD, OPCW, OSCE, Paris Club, PCA, PFP, UN, UNCTAD, UNDOF, UNESCO, UNHCR, UNIDO, UNIFIL, UNOCI, UNRWA, UNTSO, UPU, Wassenaar Arrangement, WCO, WHO, WIPO, WMO, WTO, ZC<br>
@@ -707,7 +714,7 @@ Continuity Irish Republican Army; New Irish Republican Army; Islamic State of Ir
 <p><em>Ireland-Denmark</em>: Ireland, Iceland, and the UK dispute Denmark's claim that the Faroe Islands' continental shelf extends beyond 200 nm; Iceland, Norway, and the Faroe Islands signed an agreement in 2019 extending the Faroe Islands’ northern continental shelf area</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 45,790 (Ukraine) (as of 22 August 2022)<br>
+_refugees (country of origin)_: 46,481 (Ukraine) (as of 29 August 2022)<br>
 _stateless persons_: 107 (mid-year 2021)<br>
 
 **Trafficking in persons**<br>

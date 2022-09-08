@@ -209,6 +209,13 @@ _unimproved: total_: total: 0% of population (2020 est.)<br>
 **Obesity - adult prevalence rate**<br>
 25% (2016)<br>
 
+**Alcohol consumption per capita**<br>
+_total_: 11.18 liters of pure alcohol (2019 est.)<br>
+_beer_: 4.44 liters of pure alcohol (2019 est.)<br>
+_wine_: 1.72 liters of pure alcohol (2019 est.)<br>
+_spirits_: 4.96 liters of pure alcohol (2019 est.)<br>
+_other alcohols_: 0.06 liters of pure alcohol (2019 est.)<br>
+
 **Tobacco use**<br>
 _total_: 39% (2020 est.)<br>
 _male_: 40.9% (2020 est.)<br>
@@ -720,7 +727,7 @@ Islamic State of Iraq and ash-Sham (ISIS); Islamic Revolutionary Guard Corps/Qod
 <p>none</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 19,014 (Syria) (mid-year 2021); 85,281 (Ukraine) (as of 23 August 2022)<br>
+_refugees (country of origin)_: 19,014 (Syria) (mid-year 2021); 77,114 (Ukraine) (as of 30 August 2022)<br>
 _stateless persons_: 1,143 (mid-year 2021)<br>
 <strong>note:</strong> 77,143 estimated refugee and migrant arrivals (January 2015-June 2022); Bulgaria is predominantly a transit country<br>
 

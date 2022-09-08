@@ -192,6 +192,13 @@ _unimproved: total_: total: 8.1% of population (2017 est.)<br>
 **Obesity - adult prevalence rate**<br>
 18.9% (2016)<br>
 
+**Alcohol consumption per capita**<br>
+_total_: 11.88 liters of pure alcohol (2019 est.)<br>
+_beer_: 2.97 liters of pure alcohol (2019 est.)<br>
+_wine_: 3.95 liters of pure alcohol (2019 est.)<br>
+_spirits_: 4.55 liters of pure alcohol (2019 est.)<br>
+_other alcohols_: 0.41 liters of pure alcohol (2019 est.)<br>
+
 **Children under the age of 5 years underweight**<br>
 NA<br>
 
@@ -316,7 +323,7 @@ _judge selection and term of office_: chief justice of Eastern Caribbean Supreme
 _subordinate courts_: Industrial Court; Magistrates' Courts<br>
 
 **Political parties and leaders**<br>
-Antigua Labor Party or ABLP [Gaston BROWNE]<br>Antigua Barbuda True Labor Party or ABTLP [Sharlene SAMUEL]<br>Barbuda People's Movement or BPM [Trevor WALKER]<br>Democratic National Alliance or DNA [Joanne MASSIAH]<br>Go Green for Life [Owen GEORGE]<br>United Progressive Party or UPP [Harold LOVELL] (a merger of Antigua Caribbean Liberation Movement, Progressive Labor Movement, and United National Democratic Party)<br>
+Antigua Labor Party or ABLP [Gaston BROWNE]<br>Barbuda People's Movement or BPM [Trevor WALKER]<br>Democratic National Alliance or DNA [Joanne MASSIAH]<br>Go Green for Life or GGL [Owen GEORGE]<br>United Progressive Party or UPP [Harold LOVELL]<br>
 
 **International organization participation**<br>
 ACP, AOSIS, C, Caricom, CDB, CELAC, FAO, G-77, IBRD, ICAO, ICC (NGOs), ICCt, ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, ISO (subscriber), ITU, ITUC (NGOs), MIGA, NAM (observer), OAS, OECS, OPANAL, OPCW, Petrocaribe, UN, UNCTAD, UNESCO, UPU, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>

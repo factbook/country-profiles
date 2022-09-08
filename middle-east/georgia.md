@@ -204,6 +204,13 @@ _unimproved: total_: total: 13.3% of population (2020 est.)<br>
 **Obesity - adult prevalence rate**<br>
 21.7% (2016)<br>
 
+**Alcohol consumption per capita**<br>
+_total_: 7.45 liters of pure alcohol (2019 est.)<br>
+_beer_: 1.71 liters of pure alcohol (2019 est.)<br>
+_wine_: 3.19 liters of pure alcohol (2019 est.)<br>
+_spirits_: 2.52 liters of pure alcohol (2019 est.)<br>
+_other alcohols_: 0.02 liters of pure alcohol (2019 est.)<br>
+
 **Tobacco use**<br>
 _total_: 31.7% (2020 est.)<br>
 _male_: 56.3% (2020 est.)<br>
@@ -701,7 +708,7 @@ as of 2022, up to 10,000 Russian troops continued to occupy the breakaway region
 <p>Russia's military support and subsequent recognition of Abkhazia and South Ossetia independence in 2008 continue to sour relations with Georgia</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 26,377 (Ukraine) (as of 23 August 2022)<br>
+_refugees (country of origin)_: 26,379 (Ukraine) (as of 30 August 2022)<br>
 _IDPs_: 305,000 (displaced in the 1990s as a result of armed conflict in the breakaway republics of Abkhazia and South Ossetia; displaced in 2008 by fighting between Georgia and Russia over South Ossetia) (2021)<br>
 _stateless persons_: 534 (mid-year 2021)<br>
 

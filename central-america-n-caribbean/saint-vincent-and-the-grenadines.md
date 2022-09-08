@@ -193,6 +193,13 @@ _unimproved: total_: total: 9.8% of population (2017 est.)<br>
 **Obesity - adult prevalence rate**<br>
 23.7% (2016)<br>
 
+**Alcohol consumption per capita**<br>
+_total_: 7.48 liters of pure alcohol (2019 est.)<br>
+_beer_: 2.52 liters of pure alcohol (2019 est.)<br>
+_wine_: 0.24 liters of pure alcohol (2019 est.)<br>
+_spirits_: 4.48 liters of pure alcohol (2019 est.)<br>
+_other alcohols_: 0.23 liters of pure alcohol (2019 est.)<br>
+
 **Children under the age of 5 years underweight**<br>
 NA<br>
 
@@ -316,7 +323,7 @@ _judge selection and term of office_: chief justice of Eastern Caribbean Supreme
 _subordinate courts_: magistrates' courts<br>
 
 **Political parties and leaders**<br>
-New Democratic Party or NDP [Dr. Godwin L. FRIDAY]<br>Unity Labor Party or ULP [Dr. Ralph GONSALVES] (formed in 1994 by the coalition of Saint Vincent Labor Party or SVLP and the Movement for National Unity or MNU)<br>SVG Green Party or SVGP [Ivan O'NEAL]<br>
+New Democratic Party or NDP [Dr. Godwin L. FRIDAY]<br>SVG Green Party or SVGP [Ivan O'NEAL]<br>Unity Labor Party or ULP [Dr. Ralph GONSALVES] (formed in 1994 by the coalition of Saint Vincent Labor Party or SVLP and the Movement for National Unity or MNU)<br>
 
 **International organization participation**<br>
 ACP, AOSIS, C, Caricom, CDB, CELAC, FAO, G-77, IBRD, ICAO, ICCt, ICRM, IDA, IFAD, IFRCS, ILO, IMF, IMO, Interpol, IOC, IOM, ISO (subscriber), ITU, MIGA, NAM, OAS, OECS, OPANAL, OPCW, Petrocaribe, UN, UNCTAD, UNESCO, UNIDO, UPU, WFTU (NGOs), WHO, WIPO, WTO<br>

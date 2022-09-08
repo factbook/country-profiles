@@ -217,6 +217,13 @@ _respiratory diseases_: meningococcal meningitis<br>
 **Obesity - adult prevalence rate**<br>
 9.6% (2016)<br>
 
+**Alcohol consumption per capita**<br>
+_total_: 1.25 liters of pure alcohol (2019 est.)<br>
+_beer_: 0.81 liters of pure alcohol (2019 est.)<br>
+_wine_: 0.02 liters of pure alcohol (2019 est.)<br>
+_spirits_: 0.2 liters of pure alcohol (2019 est.)<br>
+_other alcohols_: 0.22 liters of pure alcohol (2019 est.)<br>
+
 **Tobacco use**<br>
 _total_: 6.9% (2020 est.)<br>
 _male_: 11.8% (2020 est.)<br>
@@ -373,7 +380,7 @@ _judge selection and term of office_: Supreme Court president and judges appoint
 _subordinate courts_: Court of Appeal or Cour d'Appel; district courts; village courts; Assize courts<br>
 
 **Political parties and leaders**<br>
-Alliance for a Triumphant Benin or ABT [Abdoulaye BIO TCHANE]<br>African Movement for Development and Progress or MADEP [Sefou FAGBOHOUN]<br>Benin Renaissance or RB [Lehady SOGLO]<br>Cowrie Force for an Emerging Benin or FCBE [Yayi BONI]<br>Democratic Renewal Party or PRD [Adrien HOUNGBEDJI]<br>National Alliance for Development and Democracy or AND [Valentin Aditi HOUDE]<br>New Consciousness Rally or NC [Pascal KOUPAKI]<br>Patriotic Awakening or RP [Janvier YAHOUEDEOU]<br>Social Democrat Party or PSD [Emmanuel GOLOU]<br>Sun Alliance or AS [Sacca LAFIA]<br>Union Makes the Nation or UN [Adrien HOUNGBEDJI] (includes PRD, MADEP)<br>United Democratic Forces or FDU [Mathurin NAGO]<br>
+African Movement for Development and Progress or MADEP [Sefou FAGBOHOUN]<br>Alliance for a Triumphant Benin or ABT [Abdoulaye BIO TCHANE]<br>Benin Renaissance or RB [Lehady SOGLO]<br>Cowrie Force for an Emerging Benin or FCBE [Yayi BONI]<br>Democratic Renewal Party or PRD [Adrien HOUNGBEDJI]<br>National Alliance for Development and Democracy or AND [Valentin Aditi HOUDE]<br>New Consciousness Rally or NC [Pascal KOUPAKI]<br>Patriotic Awakening or RP [Janvier YAHOUEDEOU]<br>Social Democrat Party or PSD [Emmanuel GOLOU]<br>Sun Alliance or AS [Sacca LAFIA]<br>Union Makes the Nation or UN [Adrien HOUNGBEDJI] (includes PRD, MADEP)<br>United Democratic Forces or FDU [Mathurin NAGO]<br>
 <strong>note:</strong> approximately 20 additional minor parties<br>
 
 **International organization participation**<br>

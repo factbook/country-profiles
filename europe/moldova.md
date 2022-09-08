@@ -206,6 +206,13 @@ _unimproved: total_: total: 10.1% of population (2020 est.)<br>
 **Obesity - adult prevalence rate**<br>
 18.9% (2016)<br>
 
+**Alcohol consumption per capita**<br>
+_total_: 7.45 liters of pure alcohol (2019 est.)<br>
+_beer_: 1.53 liters of pure alcohol (2019 est.)<br>
+_wine_: 3.57 liters of pure alcohol (2019 est.)<br>
+_spirits_: 2.25 liters of pure alcohol (2019 est.)<br>
+_other alcohols_: 0.1 liters of pure alcohol (2019 est.)<br>
+
 **Tobacco use**<br>
 _total_: 29% (2020 est.)<br>
 _male_: 51.7% (2020 est.)<br>
@@ -701,7 +708,7 @@ Moldova is constitutionally neutral, but has maintained a relationship with NATO
 <p><em>Moldova-Romania</em>: none identified</p> <p><em>Moldova-Ukraine</em>: Ukraine and Moldova signed an agreement officially delimiting their border in 1999, but the border has not been demarcated due to Moldova's difficulties with the break-away region of Transnistria; Moldova and Ukraine operate joint customs posts to monitor the transit of people and commodities through Moldova's break-away Transnistria region, which remains under the auspices of an Organization for Security and Cooperation in Europe-mandated peacekeeping mission comprised of Moldovan, Transnistrian, Russian, and Ukrainian troops</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 90,785 (Ukraine) (as of 23 August 2022)<br>
+_refugees (country of origin)_: 90,785 (Ukraine) (as of 30 August 2022)<br>
 _stateless persons_: 3,372 (mid-year 2021)<br>
 
 **Illicit drugs**<br>

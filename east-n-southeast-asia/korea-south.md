@@ -209,6 +209,13 @@ _respiratory diseases_: Covid-19 (see note) (2020)<br>
 **Obesity - adult prevalence rate**<br>
 4.7% (2016)<br>
 
+**Alcohol consumption per capita**<br>
+_total_: 7.74 liters of pure alcohol (2019 est.)<br>
+_beer_: 1.72 liters of pure alcohol (2019 est.)<br>
+_wine_: 0.15 liters of pure alcohol (2019 est.)<br>
+_spirits_: 0.22 liters of pure alcohol (2019 est.)<br>
+_other alcohols_: 5.66 liters of pure alcohol (2019 est.)<br>
+
 **Tobacco use**<br>
 _total_: 20.8% (2020 est.)<br>
 _male_: 35.7% (2020 est.)<br>
@@ -238,7 +245,7 @@ _female_: 9.7% (2020 est.)<br>
 ## Environment
 
 **Environment - current issues**<br>
-air pollution in large cities; acid rain; water pollution from the discharge of sewage and industrial effluents; drift net fishing; solid waste disposal; transboundary pollution<br>
+air pollution in large cities; acid rain; water pollution from the discharge of sewage and industrial effluents; drift net fishing; solid waste disposal; transboundary air pollution from China<br>
 
 **Environment - international agreements**<br>
 _party to_: Antarctic-Environmental Protection, Antarctic-Marine Living Resources, Antarctic Treaty, Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Endangered Species, Environmental Modification, Hazardous Wastes, Law of the Sea, Marine Dumping-London Convention, Marine Dumping-London Protocol, Nuclear Test Ban, Ozone Layer Protection, Ship Pollution, Tropical Timber 2006, Wetlands, Whaling<br>
@@ -352,14 +359,14 @@ _judge selection and term of office_: Supreme Court chief justice appointed by t
 _subordinate courts_: High Courts; District Courts; Branch Courts (organized under the District Courts); specialized courts for family and administrative issues<br>
 
 **Political parties and leaders**<br>
-Democratic Party or DP [SONG Young-gil] (renamed from Minjoo Party of Korea or MPK in October 2016; formerly New Politics Alliance for Democracy or NPAD, which was a merger of the Democratic Party or DP (formerly DUP) [KIM Han-gil] and the New Political Vision Party or NPVP [AHN Cheol-soo] in March 2014)<br>Justice Party or JP [YEO Young-kug]<br>Open Democratic Party or ODP [CHOE Kang-wook] (formed in early 2020)<br>People's Party or PP [AHN Cheol-soo] (formed in February 2020)<br>Together Citizens' Party [WOO Hee-jong, ChOI Bae-geun] (formed in early 2020 in alliance with the Democratic Party)<br>Transition Korea [CHO Jung-hun] (formed in February 2020)<br>Basic Income Party [SHIN Ji-hye] (formed in January 2020)<br>People Power Party or PPP [LEE Jun-seok] (renamed from United Future Party in September 2020, formerly Liberty Korea Party) (2022)<br><br>note - the Democratic (Minjoo) Party is South Korea’s largest party and its main progressive party; the People Power Party (PPP) is a conservative grouping and is South Korea’s second-largest party; the PPP and its predecessor parties have controlled the National Assembly for all but nine of the 33 years since the 1987 Constitution went into effect<br>
+Basic Income Party [SHIN Ji-hye] (formed in January 2020)<br>Democratic Party or DP [LEE Jae-myung] (renamed from Minjoo Party of Korea or MPK in October 2016; formerly New Politics Alliance for Democracy or NPAD, which was a merger of the Democratic Party or DP (formerly DUP) [KIM Han-gil] and the New Political Vision Party or NPVP [AHN Cheol-soo] in March 2014; includes the former Open Democratic Party [CHOI Kong-wook], which merged with the DP in January 2022; also includes the Together Citizens' Party or Platform Party [WOO Hee-jong, CHOI Bae-geun], which merged with the DP in May 2022)<br>Justice Party or JP [YEO Young-kug]<br>People Power Party or PPP [LEE Jun-seok] (renamed from United Future Party in September 2020, formerly Liberty Korea Party)<br>People's Party or PP [AHN Cheol-soo] (formed in February 2020)<br>Transition Korea [CHO Jung-hun] (formed in February 2020) (2022)<br><br>note - the Democratic (Minjoo) Party is South Korea’s largest party and its main progressive party; the People Power Party (PPP) is a conservative grouping and is South Korea’s second-largest party; the PPP and its predecessor parties have controlled the National Assembly for all but nine of the 33 years since the 1987 Constitution went into effect<br>
 note - the Democratic (Minjoo) Party is South Korea&rsquo;s largest party and its main progressive party; the People Power Party (PPP) is a conservative grouping and is South Korea&rsquo;s second-largest party; the PPP and its predecessor parties have controlled the National Assembly for all but nine of the 33 years since the 1987 Constitution went into effect<br>
 
 **International organization participation**<br>
 ADB, AfDB (nonregional member), APEC, Arctic Council (observer), ARF, ASEAN (dialogue partner), Australia Group, BIS, CD, CICA, CP, EAS, EBRD, FAO, FATF, G-20, IADB, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IEA, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), LAIA (observer), MIGA, MINURSO, MINUSTAH, NEA, NSG, OAS (observer), OECD, OPCW, OSCE (partner), Pacific Alliance (observer), Paris Club (associate), PCA, PIF (partner), SAARC (observer), SICA (observer), UN, UNAMID, UNCTAD, UNESCO, UNHCR, UNIDO, UNIFIL, UNISFA, UNMIL, UNMISS, UNMOGIP, UNOCI, UNWTO, UPU, Wassenaar Arrangement, WCO, WHO, WIPO, WMO, WTO, ZC<br>
 
 **Diplomatic representation in the US**<br>
-_chief of mission_: Ambassador&nbsp;LEE Soo-hyuck&nbsp;(since 6 January 2020)<br>
+_chief of mission_: Ambassador (Appointed) CHO Tae-yong (since 11 June 2022)<br>
 _chancery_: 2450 Massachusetts Avenue NW, Washington, DC 20008<br>
 _telephone_: [1] (202) 939-5600<br>
 _FAX_: [1] (202) 797-0595<br>
@@ -367,7 +374,7 @@ _email address and website_: <br>generalusa@mofa.go.kr<br><br>https://overseas.m
 _consulate(s) general_: Anchorage (AK), Atlanta, Boston, Chicago, Dallas (TX), Hagatna (Guam), Honolulu, Houston, Los Angeles, New York, San Francisco, Seattle, Washington DC<br>
 
 **Diplomatic representation from the US**<br>
-_chief of mission_: Ambassador (vacant);&nbsp; Charg&eacute; d&rsquo;Affaires Christopher DEL CORSO (since 16 July 2021)<br>
+_chief of mission_: Ambassador Philip S. GOLDBERG (since 29 July 2022)<br>
 _embassy_: 188 Sejong-daero, Jongno-gu, Seoul<br>
 _mailing address_: 9600 Seoul Place, Washington, DC&nbsp; 20521-9600<br>
 _telephone_: [82] (2) 397-4114<br>
@@ -693,7 +700,6 @@ Armed Forces of the Republic of Korea: Republic of Korea Army (ROKA), Navy (ROKN
 
 **Military and security service personnel strengths**<br>
 approximately 555,000 active duty personnel (420,000 Army; 70,000 Navy, including about 30,000 Marines; 65,000 Air Force) (2022)<br>
-<strong>note: </strong>South Korea intended to reduce the size of its military to about 522,000 by 2022<br>
 
 **Military equipment inventories and acquisitions**<br>
 the South Korean military is equipped with a mix of domestically-produced and imported weapons systems; South Korea has a robust defense industry and production includes armored fighting vehicles, artillery, aircraft, and naval ships; since 2010, the top foreign weapons supplier has been the US, and some domestically-produced systems are built under US license (2022)<br>

@@ -206,6 +206,13 @@ NA<br>
 **Obesity - adult prevalence rate**<br>
 22.1% (2016)<br>
 
+**Alcohol consumption per capita**<br>
+_total_: 9.15 liters of pure alcohol (2019 est.)<br>
+_beer_: 4.35 liters of pure alcohol (2019 est.)<br>
+_wine_: 3.41 liters of pure alcohol (2019 est.)<br>
+_spirits_: 1.09 liters of pure alcohol (2019 est.)<br>
+_other alcohols_: 0.3 liters of pure alcohol (2019 est.)<br>
+
 **Tobacco use**<br>
 _total_: 23.4% (2020 est.)<br>
 _male_: 25.8% (2020 est.)<br>
@@ -434,7 +441,7 @@ _exports of goods and services_: 85.1% (2017 est.)<br>
 _imports of goods and services_: -84.4% (2017 est.)<br>
 
 **Agricultural products**<br>
-sugar beet, milk, potatoes, wheat, pork, lettuce, poultry, maize, barley, pears<br>
+sugar beets, milk, potatoes, wheat, pork, lettuce, poultry, maize, barley, pears<br>
 
 **Industries**<br>
 engineering and metal products, motor vehicle assembly, transportation equipment, scientific instruments, processed food and beverages, chemicals, pharmaceuticals, base metals, textiles, glass, petroleum<br>
@@ -716,7 +723,7 @@ Islamic Revolutionary Guard Corps/Qods Force; Islamic State of Iraq and ash-Sham
 <p>none identified</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 18,493 (Syria), 5,094 (Iraq) (2020); 53,579 (Ukraine) (as of 23 August 2022)<br>
+_refugees (country of origin)_: 18,493 (Syria), 5,094 (Iraq) (2020); 54,414 (Ukraine) (as of 30 August 2022)<br>
 _stateless persons_: 1,159 (mid-year 2021)<br>
 
 **Illicit drugs**<br>

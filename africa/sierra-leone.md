@@ -215,6 +215,13 @@ _aerosolized dust or soil contact diseases_: Lassa fever<br>
 **Obesity - adult prevalence rate**<br>
 8.7% (2016)<br>
 
+**Alcohol consumption per capita**<br>
+_total_: 3.22 liters of pure alcohol (2019 est.)<br>
+_beer_: 0.17 liters of pure alcohol (2019 est.)<br>
+_wine_: 0.01 liters of pure alcohol (2019 est.)<br>
+_spirits_: 0.15 liters of pure alcohol (2019 est.)<br>
+_other alcohols_: 2.9 liters of pure alcohol (2019 est.)<br>
+
 **Tobacco use**<br>
 _total_: 13.5% (2020 est.)<br>
 _male_: 20.5% (2020 est.)<br>
@@ -287,7 +294,7 @@ _aerosolized dust or soil contact diseases_: Lassa fever<br>
 <strong>note: </strong>on 21 March 2022, the US Centers for Disease Control and Prevention (CDC) issued a Travel Alert for polio in Africa; Sierra Leone is currently considered a high risk to travelers for circulating vaccine-derived polioviruses (cVDPV); vaccine-derived poliovirus (VDPV) is a strain of the weakened poliovirus that was initially included in oral polio vaccine (OPV) and <em>that has changed over time and behaves more like the wild or naturally occurring virus</em>; this means it can be spread more easily to people who are unvaccinated against polio and who come in contact with the stool or respiratory secretions, such as from a sneeze, of an “infected” person who received oral polio vaccine; the CDC recommends that before any international travel, anyone unvaccinated, incompletely vaccinated, or with an unknown polio vaccination status should complete the routine polio vaccine series; before travel to any high-risk destination, the CDC recommends that adults who previously completed the full, routine polio vaccine series receive a single, lifetime booster dose of polio vaccine<br>
 
 **Food insecurity**<br>
-_severe localized food insecurity_: <em>due to high food prices -</em> about 1.45 million people are projected to face severe food insecurity in the upcoming June to August 2022 period on account of high food prices and low purchasing power, resulting in acute constraints on households’ economic access to food (2022)<br>
+_severe localized food insecurity_: <em>due to high food prices and reduced incomes - </em>about 1.6 million people are estimated to be severely food insecure between June and August 2022 on account of high food prices and low purchasing power, resulting in acute constraints on households’ economic access to food (2022)<br>
 
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 610,222 tons (2004 est.)<br>

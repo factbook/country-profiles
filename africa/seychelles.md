@@ -197,6 +197,13 @@ NA<br>
 **Obesity - adult prevalence rate**<br>
 14% (2016)<br>
 
+**Alcohol consumption per capita**<br>
+_total_: 9.48 liters of pure alcohol (2019 est.)<br>
+_beer_: 4.11 liters of pure alcohol (2019 est.)<br>
+_wine_: 0.49 liters of pure alcohol (2019 est.)<br>
+_spirits_: 4.62 liters of pure alcohol (2019 est.)<br>
+_other alcohols_: 0.25 liters of pure alcohol (2019 est.)<br>
+
 **Tobacco use**<br>
 _total_: 20.2% (2020 est.)<br>
 _male_: 34% (2020 est.)<br>
@@ -334,7 +341,7 @@ _judge selection and term of office_: all judges appointed by the president of t
 _subordinate courts_: Magistrates' Courts of Seychelles; Family Tribunal for issues such as domestic violence, child custody, and maintenance; Employment Tribunal for labor-related disputes<br>
 
 **Political parties and leaders**<br>
-Linyon Sanzman or LS [Martin AGLAE]<br>One Seychelles [Peter SINON]<br>Seychelles Party for Social Justice and Democracy or SPSJD [Vesna RAKIC]<br>Seychellois Democratic Alliance (Linyon Demokratik Seselwa) or LDS [Roger MANCIENNE] (includes SPSJD)<br>United Seychelles or US [Patrick HERMINIE] (formerly People's Party (Parti Lepep) or PL; (formerly SPPF)<br>
+Linyon Sanzman or LS [Martin AGLAE]<br>One Seychelles [Peter SINON]<br>Seychelles Party for Social Justice and Democracy or SPSJD [Vesna RAKIC]<br>Seychellois Democratic Alliance (Linyon Demokratik Seselwa) or LDS [Roger MANCIENNE] (includes SPSJD)<br>United Seychelles or US [Patrick HERMINIE] (formerly People's Party (Parti Lepep) or PL) <br>
 
 **International organization participation**<br>
 ACP, AfDB, AOSIS, AU, C, CD, COMESA, EITI (candidate country), FAO, G-77, IAEA, IBRD, ICAO, ICC (NGOs), ICCt, ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, IMO, InOC, Interpol, IOC, IOM, IPU, ISO (correspondent), ITU, MIGA, NAM, OIF, OPCW, SADC, UN, UNCTAD, UNESCO, UNIDO, UNWTO, UPU, WCO, WHO, WIPO, WMO, WTO<br>

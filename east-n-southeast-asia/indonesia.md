@@ -218,6 +218,13 @@ _vectorborne diseases_: dengue fever and malaria<br>
 **Obesity - adult prevalence rate**<br>
 6.9% (2016)<br>
 
+**Alcohol consumption per capita**<br>
+_total_: 0.08 liters of pure alcohol (2019 est.)<br>
+_beer_: 0.06 liters of pure alcohol (2019 est.)<br>
+_wine_: 0.01 liters of pure alcohol (2019 est.)<br>
+_spirits_: 0.02 liters of pure alcohol (2019 est.)<br>
+_other alcohols_: 0 liters of pure alcohol (2019 est.)<br>
+
 **Tobacco use**<br>
 _total_: 37.6% (2020 est.)<br>
 _male_: 71.4% (2020 est.)<br>
@@ -379,7 +386,7 @@ _judge selection and term of office_: Supreme Court judges nominated by Judicial
 _subordinate courts_: High Courts of Appeal, district courts, religious courts<br>
 
 **Political parties and leaders**<br>
-Berkarya Party [Muchdi PURWOPRANJONO]<br>Crescent Star Party or PBB [Yusril Ihza MAHENDRA]<br>Democrat Party or PD [Agus Harimurti YUDHOYONO]<br>Functional Groups Party or GOLKAR [Airlangga HARTARTO]<br>Great Indonesia Movement Party or GERINDRA [PRABOWO Subianto Djojohadikusumo]<br>Garuda Party [Ahmad Ridha SABANA]<br>Indonesia Democratic Party-Struggle or PDI-P [MEGAWATI Sukarnoputri]<br>Indonesian Justice and Unity Party or PKPI [Yussuf SOLICHIEN]<br>Indonesian Solidarity Party or PSI [GIRING GANESHA]<br>National Awakening Party or PKB [Muhaiman ISKANDAR]<br>National Democratic Party or NasDem [Surya PALOH]<br>National Mandate Party or PAN [Zulkifli HASAN]<br>People's Conscience Party or Hanura [Oesman Sapta ODANG]<br>Perindo Party [Hary TANOESOEDIBJO]<br>Prosperous Justice Party or PKS [Ahmad SYAIKHU]<br>United Development Party or PPP [Suharso MONOARFA] (2021)<br>
+Berkarya Party [Muchdi PURWOPRANJONO]<br>Crescent Star Party or PBB [Yusril Ihza MAHENDRA]<br>Democrat Party or PD [Agus Harimurti YUDHOYONO]<br>Functional Groups Party or GOLKAR [Airlangga HARTARTO]<br>Great Indonesia Movement Party or GERINDRA [PRABOWO Subianto Djojohadikusumo]<br>Garuda Party or Change Indonesia Movement Party [Ahmad Ridha SABANA]<br>Indonesia Democratic Party-Struggle or PDI-P [MEGAWATI Sukarnoputri]<br>Indonesian Justice and Unity Party or PKPI [Yussuf SOLICHIEN]<br>Indonesian Solidarity Party or PSI [GIRING GANESHA]<br>National Awakening Party or PKB [Muhaiman ISKANDAR]<br>National Democratic Party or NasDem [Surya PALOH]<br>National Mandate Party or PAN [Zulkifli HASAN]<br>People's Conscience Party or Hanura [Oesman Sapta ODANG]<br>Perindo Party [Hary TANOESOEDIBJO]<br>Prosperous Justice Party or PKS [Ahmad SYAIKHU]<br>United Development Party or PPP [Suharso MONOARFA] (2021)<br>
 
 **International organization participation**<br>
 ADB, APEC, ARF, ASEAN, BIS, CD, CICA (observer), CP, D-8, EAS, EITI (compliant country), FAO, G-11, G-15, G-20, G-77, IAEA, IBRD, ICAO, ICC (national committees), ICRM, IDA, IDB, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM (observer), IORA, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, MINURSO, MINUSTAH, MONUSCO, MSG (associate member), NAM, OECD (enhanced engagement), OIC, OPCW, PIF (partner), UN, UNAMID, UNCTAD, UNESCO, UNIDO, UNIFIL, UNISFA, UNMIL, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
@@ -725,10 +732,10 @@ Indonesian National Armed Forces (Tentara Nasional Indonesia, TNI): Army (TNI-An
 0.9% of GDP (2017) (approximately $15.5 billion)<br>
 
 **Military and security service personnel strengths**<br>
-approximately, 400,000 active duty troops (300,000 Army; 60,000 Navy, including about 20,000 marines; 30,000 Air Force) (2022)<br>
+approximately 400,000 active duty troops (300,000 Army; 60,000 Navy, including about 20,000 marines; 30,000 Air Force) (2022)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the Indonesian military inventory comes from a wide variety of sources; since 2010, the top suppliers have included China, France, Germany, the Netherlands, Russia, South Korea, the UK, and the US; the TNI has been engaged in a long-term modernization program since 2010 with uneven success; Indonesia has a growing defense industry fueled by technology transfers and cooperation agreements with several countries; in 2019, the Indonesian Government publicly said that growing its domestic defense industry is a national priority over the next 5-10 years (2022)<br>
+the Indonesian military inventory comes from a wide variety of sources; since 2010, the top suppliers have included China, France, Germany, the Netherlands, Russia, South Korea, the UK, and the US; the TNI has been engaged in a long-term modernization program since 2010 with uneven success; Indonesia has a growing defense industry fueled by technology transfers and cooperation agreements with several countries; in 2019, the Indonesian Government said that growing its domestic defense industry was a national priority over the next 5-10 years (2022)<br>
 
 **Military service age and obligation**<br>
 18-45 years of age for voluntary military service, with selective conscription authorized (males, age 18), but not utilized; 2-year service obligation, with reserve obligation to age 45 (officers) (2021)<br>
@@ -737,7 +744,7 @@ the Indonesian military inventory comes from a wide variety of sources; since 20
 225 (plus about 140 police) Central African Republic (MINUSCA); 1,025 Democratic Republic of the Congo (MONUSCO); 1,225 Lebanon (UNIFIL) (May 2022)<br>
 
 **Military - note**<br>
-as of 2022, Indonesian military and police forces were engaged in counter-insurgency operations in Papua against the West Papua Liberation Army, the military wing of the Free Papua Organization, which has been fighting a low-level insurgency since the 1960s when Indonesia annexed the former Dutch colony; since 2019, there has been an increase in militant activity in Papua and a larger Indonesian military presence; Papua was formally incorporated into Indonesia in 1969; in addition, the Indonesian military has been assisting police in Sulawesi in countering the Mujahideen Indonesia Timur (MIT; aka East Indonesia Mujahideen), a local Islamic State (ISIS)-affiliated terrorist group <br><br>Indonesia is not a formal claimant in the South China Sea, although some of its waters lie within China's “nine-dash line” maritime claims, resulting in some stand offs in recent years; since 2016, the Indonesian military has bolstered its presence on Great Natuna Island (aka Pulau Natuna Besar), the main island of the Middle Natuna Archipelago, which is part of the Riau Islands Province, held military exercises in surrounding waters, and increased security cooperation (2022)<br>
+as of 2022, Indonesian military and police forces were engaged in counter-insurgency operations in Papua against the West Papua Liberation Army, the military wing of the Free Papua Organization, which has been fighting a low-level insurgency since the 1960s when Indonesia annexed the former Dutch colony; since 2019, there has been an increase in militant activity in Papua and a larger Indonesian military presence; Papua was formally incorporated into Indonesia in 1969; in addition, the Indonesian military has been assisting police in Sulawesi in countering the Mujahideen Indonesia Timur (MIT; aka East Indonesia Mujahideen), a local militant group affiliated with the Islamic State of Iraq and ash-Sham (ISIS)<br><br>Indonesia is not a formal claimant in the South China Sea, although some of its waters lie within China's “nine-dash line” maritime claims, resulting in some stand offs in recent years; since 2016, the Indonesian military has bolstered its presence on Great Natuna Island (aka Pulau Natuna Besar), the main island of the Middle Natuna Archipelago, which is part of the Riau Islands Province, held military exercises in surrounding waters, and increased security cooperation (2022)<br>
 
 **Maritime threats**<br>
 the International Maritime Bureau continues to report the territorial and offshore waters in the Strait of Malacca and South China Sea as high risk for piracy and armed robbery against ships; the number of attacks decreased from 26 incidents in 2020 to nine in 2021 due to aggressive maritime patrolling by regional authorities; vessels continue to be boarded while anchored or berthed at Indonesian ports with seven vessels attacked; hijacked vessels are often disguised and cargo diverted to ports in East Asia<br>

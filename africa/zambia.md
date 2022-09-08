@@ -224,6 +224,13 @@ _animal contact diseases_: rabies<br>
 **Obesity - adult prevalence rate**<br>
 8.1% (2016)<br>
 
+**Alcohol consumption per capita**<br>
+_total_: 3.82 liters of pure alcohol (2019 est.)<br>
+_beer_: 1.26 liters of pure alcohol (2019 est.)<br>
+_wine_: 0.04 liters of pure alcohol (2019 est.)<br>
+_spirits_: 0.36 liters of pure alcohol (2019 est.)<br>
+_other alcohols_: 2.16 liters of pure alcohol (2019 est.)<br>
+
 **Tobacco use**<br>
 _total_: 14.4% (2020 est.)<br>
 _male_: 25.1% (2020 est.)<br>
@@ -294,7 +301,7 @@ _water contact diseases_: schistosomiasis<br>
 _animal contact diseases_: rabies<br>
 
 **Food insecurity**<br>
-_severe localized food insecurity_: <em>due to reduced incomes and localized shortfalls in cereal production -</em> an estimated 1.58 million people are projected to need humanitarian assistance at least up until March 2022, down from 2 million assessed to be food insecure in the corresponding period in 2020/21; the overall large national agricultural output in 2021 helped to reduce the prevalence of food insecurity in early 2022, however, the effects of the COVID-19 pandemic, which have constrained households’ economic access to food as well as localized shortfalls in crop production, have limited a larger improvement (2022)<br>
+_severe localized food insecurity_: <em>due to reduced incomes and localized shortfalls in cereal production -</em> cereal production declined to a below‑average level in 2022 and along with the impact of rising food prices, the number of food insecure is foreseen to increase at the end of 2022 to levels above the 1.6 million people estimated in the first quarter of 2022 (2022)<br>
 
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 2,608,268 tons (2002 est.)<br>
@@ -382,7 +389,7 @@ _judge selection and term of office_: Supreme Court and Constitutional Court jud
 _subordinate courts_: Court of Appeal; High Court; Industrial Relations Court; subordinate courts (3 levels, based on upper limit of money involved); Small Claims Court; local courts (2 grades, based on upper limit of money involved)<br>
 
 **Political parties and leaders**<br>
-Alliance for Democracy and Development or ADD [Charles MILUPI]<br>Forum for Democracy and Development or FDD [Edith NAWAKWI]<br>Movement for Multiparty Democracy or MMD [Felix MUTATI]<br>National Democratic Congress or NDC [Chishimba KAMBWILI]<br>Patriotic Front or PF [Edgar LUNGU]<br>United Party for National Development or UPND [Hakainde HICHILEMA]<br>Party of National Unity and Progress or PNUP [Highvie HAMUDUDU]<br>
+Alliance for Democracy and Development or ADD [Charles MILUPI]<br>Forum for Democracy and Development or FDD [Edith NAWAKWI]<br>Movement for Multiparty Democracy or MMD [Felix MUTATI]<br>National Democratic Congress or NDC [Chishimba KAMBWILI]<br>Party of National Unity and Progress or PNUP [Highvie HAMUDUDU]<br>Patriotic Front or PF [Edgar LUNGU]<br>United Party for National Development or UPND [Hakainde HICHILEMA]<br>
 
 **International organization participation**<br>
 ACP, AfDB, AU, C, COMESA, EITI (compliant country), FAO, G-77, IAEA, IBRD, ICAO, ICCt, ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, Interpol, IOC, IOM, IPU, ISO (correspondent), ITSO, ITU, ITUC (NGOs), MIGA, MONUSCO, NAM, OPCW, PCA, SADC, UN, UNAMID, UNCTAD, UNESCO, UNHCR, UNIDO, UNISFA, UNMIL, UNMISS, UNOCI, UNWTO, UPU, WCO, WHO, WIPO, WMO, WTO<br>

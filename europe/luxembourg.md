@@ -203,6 +203,13 @@ _unimproved: total_: total: 0% of population (2020 est.)<br>
 **Obesity - adult prevalence rate**<br>
 22.6% (2016)<br>
 
+**Alcohol consumption per capita**<br>
+_total_: 11 liters of pure alcohol (2019 est.)<br>
+_beer_: 4.04 liters of pure alcohol (2019 est.)<br>
+_wine_: 4.73 liters of pure alcohol (2019 est.)<br>
+_spirits_: 2.14 liters of pure alcohol (2019 est.)<br>
+_other alcohols_: 0 liters of pure alcohol (2019 est.)<br>
+
 **Tobacco use**<br>
 _total_: 21.1% (2020 est.)<br>
 _male_: 22.4% (2020 est.)<br>
@@ -693,6 +700,6 @@ Luxembourg is a member of NATO and was one of the original 12 countries to sign 
 <p>none identified</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 6,263 (Ukraine) (as of 16 August 2022)<br>
+_refugees (country of origin)_: 6,263 (Ukraine) (as of 30 August 2022)<br>
 _stateless persons_: 194 (mid-year 2021)<br>
 

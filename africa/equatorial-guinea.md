@@ -204,6 +204,13 @@ _animal contact diseases_: rabies<br>
 **Obesity - adult prevalence rate**<br>
 8% (2016)<br>
 
+**Alcohol consumption per capita**<br>
+_total_: 6.11 liters of pure alcohol (2019 est.)<br>
+_beer_: 3.83 liters of pure alcohol (2019 est.)<br>
+_wine_: 1.24 liters of pure alcohol (2019 est.)<br>
+_spirits_: 0.99 liters of pure alcohol (2019 est.)<br>
+_other alcohols_: 0.05 liters of pure alcohol (2019 est.)<br>
+
 **Children under the age of 5 years underweight**<br>
 5.6% (2011)<br>
 
@@ -333,7 +340,7 @@ _judge selection and term of office_: Supreme Court judges appointed by the pres
 _subordinate courts_: Court of Guarantees; military courts; Courts of Appeal; first instance tribunals; district and county tribunals<br>
 
 **Political parties and leaders**<br>
-Convergence Party for Social Democracy or CPDS [Andres ESONO ONDO]<br>Democratic Party for Equatorial Guinea or PDGE [Teodoro Obiang NGUEMA MBASOGO]<br>Electoral Coalition or EC<br>Juntos Podemos (coalition includes CPDS, FDR, UDC)<br>National Congress of Equatorial Guinea [Agustin MASOKO ABEGUE]<br>National Democratic Party [Benedicto OBIANG MANGUE]<br>National Union for Democracy [Thomas MBA MONABANG]<br>Popular Action of Equatorial Guinea or APGE [Carmelo MBA BACALE]<br>Popular Union or UP [Daniel MARTINEZ AYECABA]<br>Center Right  Union or UCD [Avelino MOCACHE MEHENGA]<br><strong>not officially registered parties:<br></strong>Citizens for Innovation or CI [Gabriel Nse Obiang OBONO]<br>Democratic Republican Force or FDR [Guillermo NGUEMA ELA]<br>Party for Progress of Equatorial Guinea or PPGE [Severo MOTO NSA]<br>
+Convergence Party for Social Democracy or CPDS [Andres ESONO ONDO]<br>Democratic Party for Equatorial Guinea or PDGE [Teodoro Obiang NGUEMA MBASOGO]<br>Electoral Coalition or EC<br>Juntos Podemos (coalition includes CPDS, FDR, UDC)<br>National Congress of Equatorial Guinea [Agustin MASOKO ABEGUE]<br>National Democratic Party [Benedicto OBIANG MANGUE]<br>National Union for Democracy [Thomas MBA MONABANG]<br>Popular Action of Equatorial Guinea or APGE [Carmelo MBA BACALE]<br>Popular Union or UP [Daniel MARTINEZ AYECABA]<br>Center Right Union or UCD [Avelino MOCACHE MEHENGA]<br><strong>not officially registered parties:<br></strong>Citizens for Innovation or CI [Gabriel Nse Obiang OBONO]<br>Democratic Republican Force or FDR [Guillermo NGUEMA ELA]<br>Party for Progress of Equatorial Guinea or PPGE [Severo MOTO NSA]<br>
 
 **International organization participation**<br>
 ACP, AfDB, AU, BDEAC, CEMAC, CPLP, FAO, Francophonie, FZ, G-77, IBRD, ICAO, ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, IMO, Interpol, IOC, IPU, ITSO, ITU, MIGA, NAM, OAS (observer), OIF, OPCW, UN, UNCTAD, UNESCO, UNIDO, , UNWTO, UPU, WHO, WIPO, WTO (observer)<br>

@@ -235,6 +235,13 @@ _unimproved: total_: total: 11.2% of population (2020 est.)<br>
 26.1% (2016)<br>
 <strong>note:</strong> does not include data from the former Western Sahara<br>
 
+**Alcohol consumption per capita**<br>
+_total_: 0.51 liters of pure alcohol (2019 est.)<br>
+_beer_: 0.18 liters of pure alcohol (2019 est.)<br>
+_wine_: 0.24 liters of pure alcohol (2019 est.)<br>
+_spirits_: 0.09 liters of pure alcohol (2019 est.)<br>
+_other alcohols_: 0 liters of pure alcohol (2019 est.)<br>
+
 **Tobacco use**<br>
 _total_: 14.5% (2020 est.)<br>
 _male_: 28.2% (2020 est.)<br>

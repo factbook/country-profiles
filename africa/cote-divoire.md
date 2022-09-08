@@ -219,6 +219,13 @@ _respiratory diseases_: meningococcal meningitis<br>
 **Obesity - adult prevalence rate**<br>
 10.3% (2016)<br>
 
+**Alcohol consumption per capita**<br>
+_total_: 1.7 liters of pure alcohol (2019 est.)<br>
+_beer_: 1.13 liters of pure alcohol (2019 est.)<br>
+_wine_: 0.33 liters of pure alcohol (2019 est.)<br>
+_spirits_: 0.2 liters of pure alcohol (2019 est.)<br>
+_other alcohols_: 0.04 liters of pure alcohol (2019 est.)<br>
+
 **Tobacco use**<br>
 _total_: 9.4% (2020 est.)<br>
 _male_: 17.9% (2020 est.)<br>
@@ -380,7 +387,7 @@ _judge selection and term of office_: judges nominated by the Superior Council o
 _subordinate courts_: Courts of Appeal (organized into civil, criminal, and social chambers); first instance courts; peace courts<br>
 
 **Political parties and leaders**<br>
-African Peoples' Party-Cote d'Ivoire or PPA-CI [Laurent GBAGBO]<br>Pan-African Congress for People's Justice and Equality or COJEP [Charles BLE GOUDE]<br>Democratic Party of Cote d'Ivoire or PDCI [Henri Konan BEDIE]<br>Ivorian Popular Front or FPI [Pascal Affi N'GUESSAN]<br>Liberty and Democracy for the Republic or LIDER [Mamadou KOULIBALY]<br>Movement of the Future Forces or MFA [Innocent Augustin ANAKY KOBENA]<br>Rally of Houphouetists for Democracy and Peace or RHDP [Alassane Dramane OUATTARA] <br>Rally of the Republicans or RDR [Henriette DIABATE]<br>Together for Democracy and Sovereignty or EDS [Georges Armand OUEGNIN]<br>Together to Build (UDPCI, FPI,and allies) [Toikeuse MABRI]<br>Union for Cote d'Ivoire or UPCI [Gnamien KONAN]<br>Union for Democracy and Peace in Cote d'Ivoire or UDPCI [Albert Toikeusse MABRI]<br>
+African Peoples' Party-Cote d'Ivoire or PPA-CI [Laurent GBAGBO]<br>Democratic Party of Cote d'Ivoire or PDCI [Henri Konan BEDIE]<br>Ivorian Popular Front or FPI [Pascal Affi N'GUESSAN]<br>Liberty and Democracy for the Republic or LIDER [Mamadou KOULIBALY]<br>Movement of the Future Forces or MFA [Innocent Augustin ANAKY KOBENA]<br>Pan-African Congress for People's Justice and Equality or COJEP [Charles BLE GOUDE]<br>Rally of Houphouetists for Democracy and Peace or RHDP [Alassane Dramane OUATTARA] <br>Rally of the Republicans or RDR [Henriette DIABATE]<br>Together for Democracy and Sovereignty or EDS [Georges Armand OUEGNIN]<br>Together to Build (UDPCI, FPI,and allies) [Toikeuse MABRI]<br>Union for Cote d'Ivoire or UPCI [Gnamien KONAN]<br>Union for Democracy and Peace in Cote d'Ivoire or UDPCI [Albert Toikeusse MABRI]<br>
 
 **International organization participation**<br>
 ACP, AfDB, AU, ECOWAS, EITI (compliant country), Entente, FAO, FZ, G-24, G-77, IAEA, IBRD, ICAO, ICC, ICCt, ICRM, IDA, IDB, IFAD, IFC, IFRCS, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, MINUSMA, MONUSCO, NAM, OIC, OIF, OPCW, UN, UNCTAD, UNESCO, UNHCR, UNIDO, Union Latina, UN Security Council (temporary), UNWTO, UPU, WADB (regional), WAEMU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>

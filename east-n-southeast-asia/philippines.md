@@ -214,6 +214,13 @@ _water contact diseases_: leptospirosis<br>
 **Obesity - adult prevalence rate**<br>
 6.4% (2016)<br>
 
+**Alcohol consumption per capita**<br>
+_total_: 4.85 liters of pure alcohol (2019 est.)<br>
+_beer_: 1.47 liters of pure alcohol (2019 est.)<br>
+_wine_: 0.03 liters of pure alcohol (2019 est.)<br>
+_spirits_: 3.34 liters of pure alcohol (2019 est.)<br>
+_other alcohols_: 0.01 liters of pure alcohol (2019 est.)<br>
+
 **Tobacco use**<br>
 _total_: 22.9% (2020 est.)<br>
 _male_: 39.3% (2020 est.)<br>
@@ -369,7 +376,7 @@ _judge selection and term of office_: justices are appointed by the president on
 _subordinate courts_: Court of Appeals; Sandiganbayan (special court for corruption cases of government officials); Court of Tax Appeals; regional, metropolitan, and municipal trial courts; sharia courts<br>
 
 **Political parties and leaders**<br>
-Aksyon Demokratiko [Francisco "Isko Moreno" DOMAGOSO] <br>Lakas ng EDSA-Christian Muslim Democrats or Lakas-CMD [Ramon "Bong" REVILLA Jr ]<br>Liberal Party or LP [Leni ROBREDO]<br>Nacionalista Party or NP [Manuel "Manny" VILLAR]<br>National Unity Party or NUP [Ronaldo V. PUNO]<br>Partido Federal ng Pilipinas or PFP [Ferdinand Marcos, Jr.]<br>Partido Demokratiko Pilipino-Lakas ng Bayan or PDP-Laban [Aquilino PIMENTEL III]<br>
+Aksyon Demokratiko [Francisco "Isko Moreno" DOMAGOSO] <br>Lakas ng EDSA-Christian Muslim Democrats or Lakas-CMD [Ramon "Bong" REVILLA Jr ]<br>Liberal Party or LP [Leni ROBREDO]<br>Nacionalista Party or NP [Manuel "Manny" VILLAR]<br>National Unity Party or NUP [Ronaldo V. PUNO]<br>Partido Demokratiko Pilipino-Lakas ng Bayan or PDP-Laban [Aquilino PIMENTEL III]<br>Partido Federal ng Pilipinas or PFP [Ferdinand MARCOS, Jr.]<br>
 
 **International organization participation**<br>
 ADB, APEC, ARF, ASEAN, BIS, CD, CICA (observer), CP, EAS, FAO, G-24, G-77, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, MINUSTAH, NAM, OAS (observer), OPCW, PCA, PIF (partner), UN, UNCTAD, UNESCO, UNHCR, UNIDO, Union Latina, UNMIL, UNMOGIP, UNOCI, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>

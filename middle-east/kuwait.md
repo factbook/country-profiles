@@ -205,6 +205,13 @@ _unimproved: total_: total: 0% of population (2020 est.)<br>
 **Obesity - adult prevalence rate**<br>
 37.9% (2016)<br>
 
+**Alcohol consumption per capita**<br>
+_total_: 0 liters of pure alcohol (2019 est.)<br>
+_beer_: 0 liters of pure alcohol (2019 est.)<br>
+_wine_: 0 liters of pure alcohol (2019 est.)<br>
+_spirits_: 0 liters of pure alcohol (2019 est.)<br>
+_other alcohols_: 0 liters of pure alcohol (2019 est.)<br>
+
 **Tobacco use**<br>
 _total_: 17.9% (2020 est.)<br>
 _male_: 33.5% (2020 est.)<br>
@@ -331,8 +338,8 @@ _residency requirement for naturalization_: not specified<br>
 21 years of age and at least 20-year citizenship<br>
 
 **Executive branch**<br>
-_chief of state_: Amir NAWAF al-Ahmad al-Jabir al-Sabah (since 30 September 2020); Crown Prince MISHAL Al Ahmad Al Sabah, born in 1940, is the brother of Amir NAWAF al-Ahmad al-Jabir al-Sabah<br>
-_head of government_: Prime Minister Sheikh Muhammad Al Sabah Al Salim Al Sabah (since 19 July 2022); First Deputy Prime Minister and Minister of Interior Sheikh Ahmed al-Nawaf Al Sabah (since 22 March 2022), Deputy Prime Minister and Minister of Defense Sheikh Talal al-Khaled Al Sabah (since 9 March 2022), and Deputy Prime Minister and Minister of Oil and Minister of State for Cabinet Affairs Dr. Mohammed al-Faris (since 22 March 2022)<br>
+_chief of state_: Ahmad al-NAWAF al-Sabah (since 24 July 2022); Crown Prince Mishal al-AHMAD al-Sabah, born in 1940, is the brother of Amir Nawaf al-AHMAD al-Jabir al-Sabah<br>
+_head of government_: Prime Minister Sheikh Muhammad al-Sabah al-SALIM al-Sabah (since 19 July 2022); First Deputy Prime Minister and Minister of Interior Sheikh Ahmed al-NAWAF al-Sabah (since 22 March 2022), Deputy Prime Minister and Minister of Defense Sheikh Talal al-KHALID al-Sabah (since 1 August 2022), and Deputy Prime Minister and Minister of Oil and Minister of State for Cabinet Affairs Dr. Mohammed al-FARIS (since 22 March 2022)<br>
 _cabinet_: Council of Ministers appointed by the prime minister, approved by the amir<br>
 _elections/appointments_: amir chosen from within the ruling family, confirmed by the National Assembly; prime minister and deputy prime ministers appointed by the amir; crown prince appointed by the amir and approved by the National Assembly<br>
 
@@ -653,7 +660,7 @@ _major seaport(s)_: Ash Shu'aybah, Ash Shuwaykh, Az Zawr (Mina' Sa'ud), Mina' 'A
 ## Military and Security
 
 **Military and security forces**<br>
-Kuwaiti Armed Forces: Kuwaiti Land Forces (KLF), Kuwaiti Navy, Kuwaiti Air Force (Al-Quwwat al-Jawwiya al-Kuwaitiya; includes Kuwaiti Air Defense Force, KADF), 25th Commando Brigade, and the Kuwait Emiri Guard Brigade; Kuwaiti National Guard (KNG); Coast Guard (Ministry of Interior) (2022)<br>
+Kuwaiti Armed Forces (KAF): Kuwaiti Land Forces (KLF), Kuwaiti Navy, Kuwaiti Air Force (Al-Quwwat al-Jawwiya al-Kuwaitiya; includes Kuwaiti Air Defense Force, KADF), 25th Commando Brigade, and the Kuwait Emiri Guard Brigade; Kuwaiti National Guard (KNG); Coast Guard (Ministry of Interior) (2022)<br>
 <strong>note 1:</strong> the Kuwait Amiri Guard Authority and the 25th Commando Brigade exercise independent command authority within the Kuwaiti Armed Forces, although activities such as training and equipment procurement are often coordinated with the other services<br><br><strong>note 2:</strong> the Kuwaiti National Guard reports directly to the prime minister and the amir and possesses an independent command structure, equipment inventory, and logistics corps separate from the Ministry of Defense, the regular armed services, and the Ministry of Interior; it is responsible for protecting critical infrastructure and providing support for the Ministries of Interior and Defense as required<br>
 
 **Military expenditures**<br>
@@ -664,13 +671,13 @@ Kuwaiti Armed Forces: Kuwaiti Land Forces (KLF), Kuwaiti Navy, Kuwaiti Air Force
 5.6% of GDP (2017) (approximately $10 billion)<br>
 
 **Military and security service personnel strengths**<br>
-approximately 17,000 active armed forces personnel (12,500 Army, including the Amiri Guard and 25th Commando Brigade; 2,000 Navy; 2,500 Air Force); approximately 6,500 National Guard (2022)<br>
+approximately 17,000 active duty armed forces personnel (12,500 Army, including the Amiri Guard and 25th Commando Brigade; 2,000 Navy; 2,500 Air Force); approximately 6,500 National Guard (2022)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the inventory of the Kuwaiti Armed Forces consists of weapons from a wide variety of sources, including Western Europe, Russia, the United Arab Emirates, and the US; the US has been the leading supplier of arms to Kuwait since 2010 (2022)<br>
+the military's inventory consists of weapons from a wide variety of sources, including Western Europe, Russia, the United Arab Emirates, and the US; the US has been the leading supplier of arms to Kuwait since 2010 (2022)<br>
 
 **Military service age and obligation**<br>
-17-21 years of age for voluntary military service; Kuwait reintroduced one-year mandatory service for men aged 18-35 in May 2017 after having suspended conscription in 2001; service is divided in two phases – four months for training and eight months for military service; women were allowed to volunteer in 2021 (2022)<br><br> <br>
+17-21 years of age for voluntary military service; Kuwait reintroduced 1-year mandatory service for men aged 18-35 in May 2017 after having suspended conscription in 2001; service is divided in two phases – four months for training and eight months for military service; women were allowed to volunteer in 2021 (2022)<br><br> <br>
 &nbsp;<br>
 
 **Military - note**<br>

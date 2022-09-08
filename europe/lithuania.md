@@ -207,6 +207,13 @@ _vectorborne diseases_: tickborne encephalitis<br>
 **Obesity - adult prevalence rate**<br>
 26.3% (2016)<br>
 
+**Alcohol consumption per capita**<br>
+_total_: 11.93 liters of pure alcohol (2019 est.)<br>
+_beer_: 4.61 liters of pure alcohol (2019 est.)<br>
+_wine_: 0.88 liters of pure alcohol (2019 est.)<br>
+_spirits_: 4.96 liters of pure alcohol (2019 est.)<br>
+_other alcohols_: 1.48 liters of pure alcohol (2019 est.)<br>
+
 **Tobacco use**<br>
 _total_: 32% (2020 est.)<br>
 _male_: 42.1% (2020 est.)<br>
@@ -342,7 +349,7 @@ _chief of state_: President Gitanas NAUSEDA (since 12 July 2019)<br>
 _head of government_: Prime Minister Ingrida SIMONYTE (since 24 November 2020)<br>
 _cabinet_: Council of Ministers nominated by the prime minister, appointed by the president, and approved by Parliament<br>
 _elections/appointments_: president directly elected by absolute majority popular vote in 2 rounds if needed for a 5-year term (eligible for a second term); election last held on 12 and 26 May 2019 (next to be held in May 2024); prime minister appointed by the president, approved by Parliament<br>
-_election results_: 2019: Gitanas NAUSEDA elected president in second round; percent of vote - Gitanas NAUSEDA (independent) 66.7%, Ingrida SIMONYTE (independent) 33.3%; Saulius SKVERNELIS (LVZS) approved as prime minister by Parliament vote - 62 to 10<br><br>2009: Dalia GRYBAUSKAITE elected president, 69.1%, Algirdas BUTKEVICIUS 11.8%, Valentinas MAZURONIS 6.2%, Valdemar TOMASEVSKI 4.7%, and other 8.2%<br><br><br><br><br> <table style="background: transparent none repeat scroll 0% 0%; width: 31px; height: 39px;"> <tbody> <tr> <td style="width: 75px; text-align: center;"> </td> <td style="width: 75px; text-align: center;"> </td> </tr> </tbody> </table><br>
+_election results_: <em>2019:</em> Gitanas NAUSEDA elected president in second round; percent of vote - Gitanas NAUSEDA (independent) 66.7%, Ingrida SIMONYTE (independent) 33.3%; Saulius SKVERNELIS (LVZS) approved as prime minister by Parliament vote - 62 to 10<br><br><em>2009:</em> Dalia GRYBAUSKAITE elected president; Dalia GRYBAUSKAITE 69.1%, Algirdas BUTKEVICIUS 11.8%, Valentinas MAZURONIS 6.2%, Valdemar TOMASEVSKI 4.7%, and other 8.2%<br><br><br><br><br> <table style="background: transparent none repeat scroll 0% 0%; width: 31px; height: 39px;"> <tbody> <tr> <td style="width: 75px; text-align: center;"> </td> <td style="width: 75px; text-align: center;"> </td> </tr> </tbody> </table><br>
 
 **Legislative branch**<br>
 _description_: unicameral Parliament or Seimas (141 seats; 71 members directly elected in single-seat constituencies by absolute majority vote and 70 directly elected in a single nationwide constituency by proportional representation vote; members serve 4-year terms)<br>
@@ -355,7 +362,7 @@ _judge selection and term of office_: Supreme Court judges nominated by the pres
 _subordinate courts_: Court of Appeals; district and local courts<br>
 
 **Political parties and leaders**<br>
-Electoral Action of Lithuanian Poles or LLRA [Valdemar TOMASEVSKI]<br>Freedom and Justice Party or LT [Remigijus ZEMAITAITIS]<br>Freedom Party or LP [Ausrine ARMONAITE]<br>Homeland Union-Lithuanian Christian Democrats or TS-LKD [Gabrielius LANDSBERGIS]<br>Labor Party or DP [Viktor USPASKICH]<br>Lithuanian Center Party or LCP [Naglis PUTEIKIS]<br>Lithuanian Farmers and Greens Union or LVZS [Ramunas KARBAUSKIS]<br>Lithuanian Green Party or LZP [Remigijus LAPINSKAS]]<br>Lithuanian Liberal Movement or LS or LRLS [Viktorija CMILYTE]<br>Lithuanian List or LL [Darius KUOLYS]<br>Lithuanian Social Democratic Labor Party or LSDDP [Gediminas KIRKILAS]<br>Lithuanian Social Democratic Party or LSDP [Gintautas PALUCKAS]<br>
+Electoral Action of Lithuanian Poles or LLRA [Valdemar TOMASEVSKI]<br>Freedom and Justice Party or LT [Remigijus ZEMAITAITIS] (formerly Lithuanian Freedom Union (Liberals))<br>Freedom Party or LP [Ausrine ARMONAITE]<br>Homeland Union-Lithuanian Christian Democrats or TS-LKD [Gabrielius LANDSBERGIS]<br>Labor Party or DP [Andrius MAZURONIS]<br>Lithuanian Center Party or LCP [Naglis PUTEIKIS]<br>Lithuanian Farmers and Greens Union or LVZS [Ramunas KARBAUSKIS]<br>Lithuanian Green Party or LZP [Remigijus LAPINSKAS]]<br>Lithuanian Liberal Movement or LS or LRLS [Viktorija CMILYTE]<br>Lithuanian List or LL [Darius KUOLYS]<br>Lithuanian Social Democratic Labor Party or LSDDP [Gediminas KIRKILAS]<br>Lithuanian Social Democratic Party or LSDP [Gintautas PALUCKAS]<br>
 
 **International organization participation**<br>
 Australia Group, BA, BIS, CBSS, CD, CE, EAPC, EBRD, ECB, EIB, EU, FAO, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IFC, IFRCS, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ISO, ITU, ITUC (NGOs), MIGA, NATO, NIB, NSG, OAS (observer), OECD, OIF (observer), OPCW, OSCE, PCA, Schengen Convention, UN, UNCTAD, UNESCO, UNIDO, UNWTO, UPU, Wassenaar Arrangement, WCO, WHO, WIPO, WMO, WTO<br>
@@ -699,7 +706,7 @@ approximately 17,000 active duty personnel (13,500 Army, including about 5,000 N
 the Lithuanian Armed Forces' inventory is mostly a mix of Western weapons systems and Soviet-era equipment (primarily aircraft and helicopters); as of 2021, Germany was the leading supplier of armaments to Lithuania (2021)<br>
 
 **Military service age and obligation**<br>
-19-26 years of age for conscripted military service (males); 9-month service obligation; in 2015, Lithuania reinstated conscription after having converted to a professional military in 2008; 18-38 for voluntary service (male and female) (2021)<br>
+19-26 years of age for conscripted military service for men; 9-month service obligation; in 2015, Lithuania reinstated conscription after having converted to a professional military in 2008; 18-38 for voluntary service for men and women (2022)<br>
 <strong>note 1:</strong> Lithuania conscripts up to 4,000 males each year; conscripts are selected using an automated lottery system<br><br><strong>note 2:</strong> as of 2019, women comprised about 12% of the military's full-time personnel<br>
 
 **Military deployments**<br>

@@ -214,6 +214,13 @@ _unimproved: total_: total: 0.1% of population (2020 est.)<br>
 **Obesity - adult prevalence rate**<br>
 21% (2016)<br>
 
+**Alcohol consumption per capita**<br>
+_total_: 3.73 liters of pure alcohol (2019 est.)<br>
+_beer_: 2.52 liters of pure alcohol (2019 est.)<br>
+_wine_: 0.16 liters of pure alcohol (2019 est.)<br>
+_spirits_: 1.05 liters of pure alcohol (2019 est.)<br>
+_other alcohols_: 0 liters of pure alcohol (2019 est.)<br>
+
 **Tobacco use**<br>
 _total_: 23.2% (2020 est.)<br>
 _male_: 39.6% (2020 est.)<br>
@@ -358,7 +365,7 @@ _election results_: 2019: Kasym-Zhomart TOKAYEV elected president; percent of vo
 **Legislative branch**<br>
 _description_: bicameral Parliament consists of:<br>Senate (49 seats statutory, 48 as of October 2021); 34 members indirectly elected by 2-round majority vote by the oblast-level assemblies and 15 members appointed by decree of the president; members serve 6-year terms, with one-half of the membership renewed every 3 years)<br>Mazhilis (107 seats; 98 members directly elected in a single national constituency by proportional representation vote to serve 5-year terms and 9 indirectly elected by the Assembly of People of Kazakhstan, a 351-member, presidentially appointed advisory body designed to represent the country's ethnic minorities)<br>
 _elections_: <br>Senate - last held on 12 August 2020 (next to be held in August 2023)<br>Mazhilis - last held on 10 January 2021 (next to be held in 2026)<br>
-_election results_: <strong> </strong><br>Senate - percent of vote by party - NA; seats by party - NA; composition (as of October 2021) - men 39, women 9, percent of women 18.4%<br>Mazhilis - percent of vote by party - Nur Otan 71.1%, Ak Zhol 11%, People's Party 9.1%, other 8.8%; seats by party - Nur Otan 76, Ak Zhol 12, People's Party 10; composition (as of October 2021) - men 78, women 29, percent of women 27.1%; note - total Parliament percent of women 24.4%<br>
+_election results_: <strong> </strong><br>Senate - percent of vote by party - NA; seats by party - NA; composition (as of October 2021) - men 39, women 9, percent of women 18.4%<br>Mazhilis - percent of vote by party - Nur Otan 71.1%, Ak Zhol 11%, QHP 9.1%, other 8.8%; seats by party - Nur Otan 76, Ak Zhol 12, QHP 10; composition (as of October 2021) - men 78, women 29, percent of women 27.1%; note - total Parliament percent of women 24.4%<br>
 
 **Judicial branch**<br>
 _highest courts_: Supreme Court of the Republic (consists of 44 members); Constitutional Council (consists of the chairperson and 6 members)<br>
@@ -366,7 +373,7 @@ _judge selection and term of office_: Supreme Court judges proposed by the presi
 _subordinate courts_: regional and local courts<br>
 
 **Political parties and leaders**<br>
-Adal [Serik SULTANGALI] (formerly Birlik (Unity) Party)<br>Ak Zhol (Bright Path) Party or Democratic Party of Kazakhstan Ak Zhol [Azat PERUASHEV]<br>Amanat [Kasym-Zhomart TOKAYEV] (formerly Nur Otan (Radiant Fatherland))<br>National Social Democratic Party or NSDP [Zharmakhan TUYAKBAY]<br>People's Democratic (Patriotic) Party "Auyl" [Ali BEKTAYEV]<br>People's Party of Kazakhstan [Aikyn KONUROV]<br>
+Adal [Serik SULTANGALI] (formerly Birlik (Unity) Party)<br>Ak Zhol (Bright Path) Party or Democratic Party of Kazakhstan Ak Zhol [Azat PERUASHEV]<br>Amanat [Erlan QOSANOV] (formerly Nur Otan (Radiant Fatherland))<br>National Social Democratic Party or NSDP [Ashat Nurmagambetuly RAHYMJANOV]<br>People's Democratic (Patriotic) Party or Auyl or AHDPP [Ali BEKTAYEV]<br>People's Party of Kazakhstan or QHP [Eruhamet ERTISBAEV]<br>
 
 **International organization participation**<br>
 ADB, CICA, CIS, CSTO, EAEU, EAPC, EBRD, ECO, EITI (compliant country), FAO, GCTU, IAEA, IBRD, ICAO, ICC (NGOs), ICRM, IDA, IDB, IFAD, IFC, IFRCS, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, MIGA, MINURSO, NAM (observer), NSG, OAS (observer), OIC, OPCW, OSCE, PFP, SCO, UN, UNCTAD, UNESCO, UNIDO, UN Security Council (temporary), UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO, ZC<br>

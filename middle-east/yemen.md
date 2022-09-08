@@ -212,6 +212,13 @@ _water contact diseases_: schistosomiasis<br>
 **Obesity - adult prevalence rate**<br>
 17.1% (2016)<br>
 
+**Alcohol consumption per capita**<br>
+_total_: 0.02 liters of pure alcohol (2019 est.)<br>
+_beer_: 0.02 liters of pure alcohol (2019 est.)<br>
+_wine_: 0 liters of pure alcohol (2019 est.)<br>
+_spirits_: 0 liters of pure alcohol (2019 est.)<br>
+_other alcohols_: 0 liters of pure alcohol (2019 est.)<br>
+
 **Tobacco use**<br>
 _total_: 20.3% (2020 est.)<br>
 _male_: 32.5% (2020 est.)<br>
@@ -282,7 +289,7 @@ _water contact diseases_: schistosomiasis<br>
 <strong>note: </strong>on 21 March 2022, the US Centers for Disease Control and Prevention (CDC) issued a Travel Alert for polio in Asia; Yemen is currently considered a high risk to travelers for circulating vaccine-derived polioviruses (cVDPV); vaccine-derived poliovirus (VDPV) is a strain of the weakened poliovirus that was initially included in oral polio vaccine (OPV) and <em>that has changed over time and behaves more like the wild or naturally occurring virus</em>; this means it can be spread more easily to people who are unvaccinated against polio and who come in contact with the stool or respiratory secretions, such as from a sneeze, of an “infected” person who received oral polio vaccine; the CDC recommends that before any international travel, anyone unvaccinated, incompletely vaccinated, or with an unknown polio vaccination status should complete the routine polio vaccine series; before travel to any high-risk destination, the CDC recommends that adults who previously completed the full, routine polio vaccine series receive a single, lifetime booster dose of polio vaccine<br>
 
 **Food insecurity**<br>
-_widespread lack of access_: <em>due to conflict, poverty, floods, high food and fuel prices -</em> between January and June 2021, the number of food insecure was projected to increase by nearly 3 million to 16.2 million people; out of these, an estimated 11 million people will likely be in "Crisis," 5 million in "Emergency," and the number of those in "Catastrophe" will likely increase to 47,000; economic conditions in the country remain dire; the conflict is further hampering the already constrained livelihood activities and humanitarian access; income earning opportunities have declined due to COVID‑19‑related business disruptions (2022)<br>
+_widespread lack of access_: <em>due to conflict, poverty, floods, high food and fuel prices -</em> the number of food insecure people was projected to increase by over 1 million to 17.4 million between January and May 2022, increasing to 19 million starting from June until the end of the year; economic conditions in the country remain dire; the conflict is further hampering the already constrained livelihood activities and humanitarian access; income earning opportunities have declined due to COVID‑19‑related business disruptions (2022)<br>
 
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 4,836,820 tons (2011 est.)<br>
@@ -679,7 +686,7 @@ note - military and security forces operating in Yemen consist of a patchwork of
 <strong>note: </strong>a considerable portion--up to 70 percent by some estimates--of Yemen’s military and security forces defected in whole or in part to former president SALAH and the Huthi opposition in 2011-2015<br>
 
 **Military expenditures**<br>
-<p>prior to the start of the civil war, annual military expenditures were approximately 4-5% of Yemen's GDP </p><br>
+<p>prior to the start of the civil war in 2014, annual military expenditures were approximately 4-5% of Yemen's GDP </p><br>
 
 **Military and security service personnel strengths**<br>
 information limited and widely varied; Yemen Government: up to 300,000 estimated military, paramilitary, militia, and other security forces; UAE- and Saudi-backed forces: estimated 150-200,000 trained militia and paramilitary fighters; Huthis: up to 200,000 estimated fighters (2021)<br>

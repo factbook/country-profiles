@@ -217,6 +217,13 @@ _vectorborne diseases_: dengue fever, Japanese encephalitis, and malaria<br>
 **Obesity - adult prevalence rate**<br>
 10% (2016)<br>
 
+**Alcohol consumption per capita**<br>
+_total_: 6.86 liters of pure alcohol (2019 est.)<br>
+_beer_: 1.85 liters of pure alcohol (2019 est.)<br>
+_wine_: 0.23 liters of pure alcohol (2019 est.)<br>
+_spirits_: 4.78 liters of pure alcohol (2019 est.)<br>
+_other alcohols_: 0 liters of pure alcohol (2019 est.)<br>
+
 **Tobacco use**<br>
 _total_: 22.1% (2020 est.)<br>
 _male_: 41.3% (2020 est.)<br>
@@ -360,7 +367,7 @@ _residency requirement for naturalization_: 5 years<br>
 
 **Executive branch**<br>
 _chief of state_: King WACHIRALONGKON, also spelled Vajiralongkorn, (since 1 December 2016)<br>
-_head of government_: Prime Minister PRAYUT Chan-ocha (since 11 June 2019; suspended August 2022); Acting Prime Minister PRAWIT Wongsuwan<br>
+_head of government_: Acting Prime Minister PRAWIT Wongsuwan (since August 2022); in August 2022, the Constitutional Court suspended Prime Minister PRAYUT Chan-ocha pending a review on his legally mandated eight-year term limit&nbsp;<br>
 _cabinet_: Council of Ministers nominated by the prime minister, appointed by the king; a Privy Council advises the king<br>
 _elections/appointments_: the monarchy is hereditary; the House of Representatives and Senate approves a person for prime minister who must then be appointed by the King (as stated in the transitory provision of the 2017 constitution); the office of prime minister can be held for up to a total of 8 years<br>
 <strong>note:</strong>  PRAYUT Chan-ocha was appointed interim prime minister in August 2014, three months after he staged the coup that removed the previously elected government of Prime Minister YINGLAK Chinnawat; on 5 June 2019 PRAYUT (independent) was approved as prime minister by the parliament <br>

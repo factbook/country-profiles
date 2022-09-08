@@ -214,6 +214,13 @@ _vectorborne diseases_: dengue fever and malaria<br>
 **Obesity - adult prevalence rate**<br>
 21.2% (2016)<br>
 
+**Alcohol consumption per capita**<br>
+_total_: 1.63 liters of pure alcohol (2019 est.)<br>
+_beer_: 0.9 liters of pure alcohol (2019 est.)<br>
+_wine_: 0.05 liters of pure alcohol (2019 est.)<br>
+_spirits_: 0.68 liters of pure alcohol (2019 est.)<br>
+_other alcohols_: 0.01 liters of pure alcohol (2019 est.)<br>
+
 **Tobacco use**<br>
 _total_: 10.9% (2020 est.)<br>
 _male_: 20.1% (2020 est.)<br>

@@ -201,6 +201,13 @@ _vectorborne diseases_: malaria<br>
 **Obesity - adult prevalence rate**<br>
 25.2% (2016)<br>
 
+**Alcohol consumption per capita**<br>
+_total_: 1.6 liters of pure alcohol (2019 est.)<br>
+_beer_: 0.34 liters of pure alcohol (2019 est.)<br>
+_wine_: 0.39 liters of pure alcohol (2019 est.)<br>
+_spirits_: 0.87 liters of pure alcohol (2019 est.)<br>
+_other alcohols_: 0 liters of pure alcohol (2019 est.)<br>
+
 **Tobacco use**<br>
 _total_: 17.8% (2020 est.)<br>
 _male_: 33% (2020 est.)<br>
@@ -337,7 +344,7 @@ _judge selection and term of office_: Supreme Court chief justice appointed by t
 _subordinate courts_: Magistrates Courts; Island Courts<br>
 
 **Political parties and leaders**<br>
-Greens Confederation or GC [Moana CARCASSES Kalosil]<br>Iauko Group or IG [Tony NARI]<br>Land and Justice Party (Graon mo Jastis Pati) or GJP [Ralph REGENVANU]<br>Melanesian Progressive Party or MPP [Barak SOPE]<br>Nagriamel movement or NAG [Frankie STEVENS]<br>Natatok Indigenous People's Democratic Party or (NATATOK) or NIPDP [Alfred Roland CARLOT]<br>National United Party or NUP [Ham LINI]<br>People's Progressive Party or PPP [Sato KILMAN]<br>People's Service Party or PSP [Don KEN]<br>Reunification of Movement for Change or RMC [Charlot SALWAI]<br>Rural Development Party or RDP [Jay NGWELE, spokesman]<br>Union of Moderate Parties or UMP [Serge VOHOR]<br>Vanua'aku Pati (Our Land Party) or VP [Edward NATAPEI]<br>Vanuatu Democratic Party [Maxime Carlot KORMAN]<br>Vanuatu First or Vanuatu [Russel NARI]<br>Vanuatu Liberal Movement or VLM [Gaetan PIKIOUNE]<br>Vanuatu Liberal Democratic Party or VLDP [Tapangararua WILLIE]<br>Vanuatu National Party or VNP [Issac HAMARILIU]<br>Vanuatu National Development Party or VNDP [Robert Bohn SIKOL]<br>Vanuatu Republican Party or VRP [Marcellino PIPITE]<br>
+Greens Confederation or GC [Moana CARCASSES Kalosil]<br>Iauko Group or IG [Tony NARI]<br>Land and Justice Party (Graon mo Jastis Pati) or GJP [Ralph REGENVANU]<br>Melanesian Progressive Party or MPP [Barak SOPE]<br>Nagriamel Movement or NAG [Frankie STEVENS]<br>Natatok Indigenous People's Democratic Party or (NATATOK) or NIPDP [Alfred Roland CARLOT]<br>National United Party or NUP [Ham LINI]<br>People's Progressive Party or PPP [Sato KILMAN]<br>People's Service Party or PSP [Don KEN]<br>Reunification of Movement for Change or RMC [Charlot SALWAI]<br>Rural Development Party or RDP [Jay NGWELE, spokesman]<br>Union of Moderate Parties or UMP [Serge VOHOR]<br>Vanua'aku Pati (Our Land Party) or VP [Edward NATAPEI]<br>Vanuatu Democratic Party [Maxime Carlot KORMAN]<br>Vanuatu First or Vanuatu [Russel NARI]<br>Vanuatu Liberal Democratic Party or VLDP [Tapangararua WILLIE]<br>Vanuatu Liberal Movement or VLM [Gaetan PIKIOUNE]<br>Vanuatu National Development Party or VNDP [Robert Bohn SIKOL]<br>Vanuatu National Party or VNP [Issac HAMARILIU]<br>Vanuatu Republican Party or VRP [Marcellino PIPITE]<br>
 
 **International organization participation**<br>
 ACP, ADB, AOSIS, C, FAO, G-77, IBRD, ICAO, ICRM, IDA, IFC, IFRCS, ILO, IMF, IMO, IMSO, IOC, IOM, ITU, ITUC (NGOs), MIGA, NAM, OAS (observer), OIF, OPCW, PIF, Sparteca, SPC, UN, UNCTAD, UNESCO, UNIDO, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>

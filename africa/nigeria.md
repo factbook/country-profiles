@@ -226,6 +226,13 @@ _aerosolized dust or soil contact diseases_: Lassa fever<br>
 **Obesity - adult prevalence rate**<br>
 8.9% (2016)<br>
 
+**Alcohol consumption per capita**<br>
+_total_: 4.49 liters of pure alcohol (2019 est.)<br>
+_beer_: 0.73 liters of pure alcohol (2019 est.)<br>
+_wine_: 0.09 liters of pure alcohol (2019 est.)<br>
+_spirits_: 0.4 liters of pure alcohol (2019 est.)<br>
+_other alcohols_: 3.27 liters of pure alcohol (2019 est.)<br>
+
 **Tobacco use**<br>
 _total_: 3.7% (2020 est.)<br>
 _male_: 6.9% (2020 est.)<br>
@@ -304,7 +311,7 @@ _aerosolized dust or soil contact diseases_: Lassa fever<br>
 <strong>note 1:</strong> on 4 May 2022, the Centers for Disease Control and Prevention issued a Travel Health Notice for a Yellow Fever outbreak in Nigeria; a large, ongoing outbreak of yellow fever in Nigeria began in September 2017; the outbreak is now spread throughout the country with the Nigerian Ministry of Health reporting cases of the disease in multiple states (Bauchi, Benue, Delta, Ebonyi, and Enugu); the CDC recommends travelers going to Nigeria should receive vaccination against yellow fever at least 10 days before travel and should take steps to prevent mosquito bites while there; those never vaccinated against yellow fever should avoid travel to Nigeria during the outbreak<br><br><strong>note 2:</strong> widespread ongoing transmission of a respiratory illness caused by the novel coronavirus (COVID-19) is occurring throughout Nigeria; as of 18 August 2022, Nigeria has reported a total of 262,664 cases of COVID-19 or 127.42 cumulative cases of COVID-19 per 100,000 population with a total of 3,147 cumulative deaths or a rate of 1.52 cumulative death per 100,000 population<br> <strong>note 3: </strong>on 21 March 2022, the US Centers for Disease Control and Prevention (CDC) issued a Travel Alert for polio in Africa; Nigeria is currently considered a high risk to travelers for circulating vaccine-derived polioviruses (cVDPV); vaccine-derived poliovirus (VDPV) is a strain of the weakened poliovirus that was initially included in oral polio vaccine (OPV) and <em>that has changed over time and behaves more like the wild or naturally occurring virus</em>; this means it can be spread more easily to people who are unvaccinated against polio and who come in contact with the stool or respiratory secretions, such as from a sneeze, of an “infected” person who received oral polio vaccine; the CDC recommends that before any international travel, anyone unvaccinated, incompletely vaccinated, or with an unknown polio vaccination status should complete the routine polio vaccine series; before travel to any high-risk destination, the CDC recommends that adults who previously completed the full, routine polio vaccine series receive a single, lifetime booster dose of polio vaccine<br>
 
 **Food insecurity**<br>
-_widespread lack of access_: <em>due to persistent civil conflict in the northern areas -</em> according to the latest analysis, between June and August 2022, the number of food insecure is projected to increase to 18 million people period as a result of worsening conflict that is driving new population displacements; the areas inaccessible to humanitarian interventions are facing the worst food insecurity conditions (2022)<br>
+_widespread lack of access_: <em><em>due to persistent civil conflict in the northern areas, </em></em><em>localized shortfalls in cereal production, and high food prices </em><em>-</em> according to the latest analysis, about 19.45 million people are projected to be in need of humanitarian food assistance between June and August 2022, owing to the deterioration of security conditions and conflicts in northern states, localized shortfalls in staple food production, high food prices and reduced incomes (2022)<br>
 
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 27,614,830 tons (2009 est.)<br>

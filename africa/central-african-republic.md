@@ -219,6 +219,13 @@ _respiratory diseases_: meningococcal meningitis<br>
 **Obesity - adult prevalence rate**<br>
 7.5% (2016)<br>
 
+**Alcohol consumption per capita**<br>
+_total_: 0.94 liters of pure alcohol (2019 est.)<br>
+_beer_: 0.55 liters of pure alcohol (2019 est.)<br>
+_wine_: 0.04 liters of pure alcohol (2019 est.)<br>
+_spirits_: 0.02 liters of pure alcohol (2019 est.)<br>
+_other alcohols_: 0.33 liters of pure alcohol (2019 est.)<br>
+
 **Children under the age of 5 years underweight**<br>
 20.5% (2019)<br>
 
@@ -286,7 +293,7 @@ _respiratory diseases_: meningococcal meningitis<br>
 <strong>note: </strong>on 21 March 2022, the US Centers for Disease Control and Prevention (CDC) issued a Travel Alert for polio in Africa; the Central African Republic is currently considered a high risk to travelers for circulating vaccine-derived polioviruses (cVDPV); vaccine-derived poliovirus (VDPV) is a strain of the weakened poliovirus that was initially included in oral polio vaccine (OPV) and <em>that has changed over time and behaves more like the wild or naturally occurring virus</em>; this means it can be spread more easily to people who are unvaccinated against polio and who come in contact with the stool or respiratory secretions, such as from a sneeze, of an “infected” person who received oral polio vaccine; the CDC recommends that before any international travel, anyone unvaccinated, incompletely vaccinated, or with an unknown polio vaccination status should complete the routine polio vaccine series; before travel to any high-risk destination, the CDC recommends that adults who previously completed the full, routine polio vaccine series receive a single, lifetime booster dose of polio vaccine<br>
 
 **Food insecurity**<br>
-_exceptional shortfall in aggregate food production/supplies_: <em>due to internal conflict -</em> persisting conflicts and displacements are expected to continue affecting agricultural activities and limit farmers’ access to crop growing areas and inputs, with a negative impact on 2022 crop production; in most prefectures, civil insecurity in 2021 continued to cause population displacements and widespread disruption of agricultural and marketing activities with negative consequences on food availability and access; the socio‑economic effects of the COVID‑19 pandemic, coupled with the high level of prices of some food staples, reduced substantially the households’ purchasing power (2022)<br>
+_exceptional shortfall in aggregate food production/supplies_: <em>due to internal conflict -</em> persisting conflicts and displacements are expected to continue affecting agricultural activities and limit farmers’ access to crop growing areas and inputs, with a negative impact on 2022 crop production; according to an analysis issued in April 2022, the number of severely food insecure people in "Crisis" and above is estimated at 2.2 million between April and August 2022, mainly due to high levels of civil insecurity, population displacements and high food prices (2022)<br>
 
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 1,105,983 tons (2014 est.)<br>
@@ -374,7 +381,7 @@ _judge selection and term of office_: Supreme Court judges appointed by the pres
 _subordinate courts_: high courts; magistrates' courts<br>
 
 **Political parties and leaders**<br>
-(only parties with representation in the Parliament listed)<br><br>African Party for Radical Transformation and Integration of States or PATRIE [Crepin MBOLI-GOUMBA]<br>Central African Democratic Rally or RDC [Desire KOLINGBA]<br>Movement for the Liberation of the Central African People or MLPC [Martin ZIGUELE]<br>National Convergence (also known as Kwa Na Kwa) or KNK [Francois BOZIZE]<br>National Movement of Independents or MOUNI <br>National Union for Democracy and Progress or UNDP [Michel AMINE]<br>National Union of Republican Democrats or UNADER<br>Party for Democratic Governance or PGD<br>Path of Hope [Karim MECKASSOUA]<br>Union for Central African Renewal or URCA [Anicet-Georges DOLOGUELE]<br>United Hearts Movement or MCU [Faustin-Archange TOUADERA] <strong><br></strong><br>
+African Party for Radical Transformation and Integration of States or PATRIE [Crepin MBOLI-GOUMBA]<br>Central African Democratic Rally or RDC [Desire KOLINGBA]<br>Movement for the Liberation of the Central African People or MLPC [Martin ZIGUELE]<br>National Convergence (also known as Kwa Na Kwa) or KNK [Francois BOZIZE]<br>National Movement of Independents or MOUNI <br>National Union for Democracy and Progress or UNDP [Michel AMINE]<br>National Union of Republican Democrats or UNADER<br>Party for Democratic Governance or PGD<br>Path of Hope [Karim MECKASSOUA]<br>Union for Central African Renewal or URCA [Anicet-Georges DOLOGUELE]<br>United Hearts Movement or MCU [Faustin-Archange TOUADERA]<br><br><strong>note:</strong> only parties with seats in the Parliament included<strong><br></strong><br>
 
 **International organization participation**<br>
 ACP, AfDB, AU, BDEAC, CEMAC, EITI (compliant country) (suspended), FAO, FZ, G-77, IAEA, IBRD, ICAO, ICCt, ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, Interpol, IOC, IOM, ITSO, ITU, ITUC (NGOs), LCBC, MIGA, NAM, OIC (observer), OIF, OPCW, UN, UNCTAD, UNESCO, UNIDO, UNWTO, UPU, WCO, WHO, WIPO, WMO, WTO<br>

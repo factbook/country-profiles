@@ -214,6 +214,13 @@ _vectorborne diseases_: Crimean-Congo hemorrhagic fever<br>
 **Obesity - adult prevalence rate**<br>
 23.3% (2016)<br>
 
+**Alcohol consumption per capita**<br>
+_total_: 9.91 liters of pure alcohol (2019 est.)<br>
+_beer_: 3.83 liters of pure alcohol (2019 est.)<br>
+_wine_: 2.68 liters of pure alcohol (2019 est.)<br>
+_spirits_: 3.22 liters of pure alcohol (2019 est.)<br>
+_other alcohols_: 0.16 liters of pure alcohol (2019 est.)<br>
+
 **Tobacco use**<br>
 _total_: 31.4% (2020 est.)<br>
 _male_: 31.6% (2020 est.)<br>
@@ -712,9 +719,9 @@ Montenegro became a member of NATO in 2017; as of 2022, Greece and Italy provide
 <p><em>Montenegro-Albania</em>: none identified</p> <p><em>Montenegro-Bosnia and Herzegovina</em>: the two countries signed a border agreement in August 2015; sovereignty of the disputed Sutorina territory was given to Montenegro</p> <p><em>Montenegro-Croatia</em>: the two countries in 2002 reached a temporary agreement designating the Prevlaka Peninsula as part of Croatia, in October 2020, a Montenegrin official resurrected the dormant dispute over the Prevlaka Peninsula by stating that Montenegro had a good chance of winning it through international arbitration</p> <p><em>Montenegro-Kosovo</em>: a 2015 border agreement was ratified by Montenegro in 2015 and by Kosovo in 2018, but the actual demarcation has not been completed</p> <p><em>Montenegro-Serbia</em>: The former republic boundary – when the two countries were one and called the Federal Republic of Yugoslavia – serves as the boundary until a line is formally delimited and demarcated</p> <p> </p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 9,968 (Ukraine) (as of 16 August 2022)<br>
+_refugees (country of origin)_: 24,482 (Ukraine) (as of 30 August 2022)<br>
 _stateless persons_: 458 (mid-year 2021)<br>
-<strong>note:</strong> 23,978 estimated refugee and migrant arrivals (January 2015-August 2022)<br>
+<strong>note:</strong> 24,357 estimated refugee and migrant arrivals (January 2015-August 2022)<br>
 
 **Illicit drugs**<br>
 <p>drug trafficking groups are major players in the procurement and transportation of large quantities of cocaine  destined for  European markets</p><br>

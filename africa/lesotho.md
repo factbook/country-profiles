@@ -211,6 +211,13 @@ _food or waterborne diseases_: bacterial diarrhea, hepatitis A, and typhoid feve
 **Obesity - adult prevalence rate**<br>
 16.6% (2016)<br>
 
+**Alcohol consumption per capita**<br>
+_total_: 3.56 liters of pure alcohol (2019 est.)<br>
+_beer_: 1.98 liters of pure alcohol (2019 est.)<br>
+_wine_: 0.44 liters of pure alcohol (2019 est.)<br>
+_spirits_: 0.31 liters of pure alcohol (2019 est.)<br>
+_other alcohols_: 0.82 liters of pure alcohol (2019 est.)<br>
+
 **Tobacco use**<br>
 _total_: 24.3% (2020 est.)<br>
 _male_: 43.1% (2020 est.)<br>
@@ -283,7 +290,7 @@ _degree of risk_: intermediate (2020)<br>
 _food or waterborne diseases_: bacterial diarrhea, hepatitis A, and typhoid fever<br>
 
 **Food insecurity**<br>
-_severe localized food insecurity_: <em>due to loss of income-generating activities -</em>  the number of people facing "Crisis" levels of food insecurity between January and March 2022 is estimated at 338,000, reflecting the effects of a slow economic recovery that has impinged on households’ economic capacity to access food (2022)<br>
+_severe localized food insecurity_: <em>due to poor harvests and increased food prices -</em> according to the latest national food security assessment, 22% of the rural population are expected to face acute food insecurity between October 2022 and March 2023, compared to 15% between July and September 2022; the forecasted proportion translates into 320,000 people in rural areas, while an additional 201,000 people in urban areas are foreseen to also need assistance; the foreseen increase of acute food insecurity levels is primarily due to the reduced harvest, high food prices in basic food and non‑food commodities and a slow recovery of households’ income reflecting a downturn in economic growth; harvesting of the 2022 main-season summer cereal crops, mostly maize and sorghum, is complete; production of maize, the main cereal staple, is about one‑third of the average, while the sorghum output is almost negligible; the poor harvest was primarily due to torrential rainfalls during January and February 2022, which caused localized flooding and resulted in crop losses (2022)<br>
 
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 73,457 tons (2006 est.)<br>
@@ -366,7 +373,7 @@ _judge selection and term of office_: Court of Appeal president and High Court c
 _subordinate courts_: Magistrate Courts; customary or traditional courts; military courts<br>
 
 **Political parties and leaders**<br>
-All Basotho Convention or ABC [Moeketsi MAJORO]<br>Alliance of Democrats or AD [Monyane MOLELEKI]<br>Basotho Action Party or BAP [Ngosa MAHAO]<br>Basotho National Party or BNP [Thesele MASERIBANE]<br>Democratic Congress or DC [Mathibeli MOKHOTHU]<br>Democratic Party of Lesotho or DPL [Limpho TAU]<br>Lesotho Congress for Democracy or LCD [Mothetjoa METSING]<br>Movement of Economic Change or MEC [Selibe MOCHOBOROANE]<br>National Independent Party or NIP [Kimetso MATHABA]<br>Popular Front for Democracy of PFD [Lekhetho RAKUOANE]<br>Reformed Congress of Lesotho or RCL [Keketso RANTSO]<br>
+All Basotho Convention or ABC [Nkaku KABI]<br>Alliance of Democrats or AD [Monyane MOLELEKI]<br>Basotho Action Party or BAP [Nqosa MAHAO]<br>Basotho National Party or BNP [Thesele MASERIBANE]<br>Democratic Congress or DC [Mathibeli MOKHOTHU]<br>Democratic Party of Lesotho or DPL [Limpho TAU]<br>Lesotho Congress for Democracy or LCD [Mothetjoa METSING]<br>Movement of Economic Change or MEC [Selibe MOCHOBOROANE]<br>National Independent Party or NIP [Kimetso MATHABA]<br>Popular Front for Democracy of PFD [Lekhetho RAKUOANE]<br>Reformed Congress of Lesotho or RCL [Keketso RANTSO]<br>
 
 **International organization participation**<br>
 ACP, AfDB, AU, C, CD, FAO, G-77, IAEA, IBRD, ICAO, ICCt, ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, Interpol, IOC, IOM, IPU, ISO (correspondent), ITU, MIGA, NAM, OPCW, SACU, SADC, UN, UNAMID, UNCTAD, UNESCO, UNHCR, UNIDO, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
@@ -683,7 +690,7 @@ the LDF has a small inventory of older equipment from a variety of countries; si
 18-24 years of age for voluntary military service; no conscription; women can serve as commissioned officers (2021)<br>
 
 **Military - note**<br>
-Lesotho's declared policy for its military is the maintenance of the country's sovereignty and the preservation of internal security; in practice, external security is guaranteed by South Africa<br>
+Lesotho's declared policy for its military is the maintenance of the country's sovereignty and the preservation of internal security; in practice, external security is guaranteed by South Africa (2022)<br>
 
 ## Transnational Issues
 

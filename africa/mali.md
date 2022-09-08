@@ -224,6 +224,13 @@ _respiratory diseases_: meningococcal meningitis<br>
 **Obesity - adult prevalence rate**<br>
 8.6% (2016)<br>
 
+**Alcohol consumption per capita**<br>
+_total_: 0.6 liters of pure alcohol (2019 est.)<br>
+_beer_: 0.09 liters of pure alcohol (2019 est.)<br>
+_wine_: 0 liters of pure alcohol (2019 est.)<br>
+_spirits_: 0.02 liters of pure alcohol (2019 est.)<br>
+_other alcohols_: 0.49 liters of pure alcohol (2019 est.)<br>
+
 **Tobacco use**<br>
 _total_: 8.3% (2020 est.)<br>
 _male_: 15.6% (2020 est.)<br>
@@ -300,7 +307,7 @@ _animal contact diseases_: rabies<br>
 _respiratory diseases_: meningococcal meningitis<br>
 
 **Food insecurity**<br>
-_severe localized food insecurity_: <p><em>due to civil insecurity and shortfall in staple food production -</em> between June and August 2022, 1.84 million people are projected to face severe food insecurity, driven in part by a shortfall in staple food production in 2021; sanctions imposed on the country, following the postponement of elections by the transitional military government, are likely to slow down economic activity and further weigh on households’ economic capacity to access food</p> (2022)<br>
+_severe localized food insecurity_: <p><em>due to civil insecurity and </em><em>high food prices </em><em>- </em>the food security situation deteriorated in 2021, particularly in conflict-affected central and northern areas; according to the latest analysis, about 1.84 million people are estimated to be in “Crisis” and above between June and August 2022, as a result of worsening conflicts, weather shocks, reduced cereal production in 2021 and high food prices</p> (2022)<br>
 
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 1,937,354 tons (2012 est.)<br>
@@ -390,7 +397,7 @@ _judge selection and term of office_: Supreme Court judges appointed by the Mini
 _subordinate courts_: Court of Appeal; High Court of Justice (jurisdiction limited to cases of high treason or criminal offenses by the president or ministers while in office); administrative courts (first instance and appeal); commercial courts; magistrate courts; labor courts; juvenile courts; special court of state security<br>
 
 **Political parties and leaders**<br>
-African Solidarity for Democracy and Independence or SADI [Oumar MARIKO]<br>Alliance for Democracy in Mali-Pan-African Party for Liberty, Solidarity, and Justice or ADEMA-PASJ [Tiemoko SANGARE]<br>Alliance for Democracy and Progress or ADP-Maliba [Amadou THIAM]<br>Alliance for the Solidarity of Mali-Convergence of Patriotic Forces or ASMA-CFP [Amadou CISSE] (vice-president, acting)<br>Alternative Forces for Renewal and Emergence or FARE [Modibo SIDIBE]<br>Convergence for the Development of Mali or CODEM [Housseyni Amion GUINDO]<br>Democratic Alliance for Peace or ADP-Maliba [Aliou Boubacar DIALLO]<br>Economic and Social Development Party or PDES [Jamille BITTAR]<br>Front for Democracy and the Republic or FDR (coalition of smaller opposition parties)<br>National Congress for Democratic Initiative or CNID [Mountaga TALL]<br>Party for National Renewal or PARENA [Tiebile DRAME]<br>Patriotic Movement for Renewal or MPR [Choguel Kokalla MAIGA]<br>Rally for Mali or RPM [Boucary TRETA]<br>Union for Republic and Democracy or URD [Younoussi TOURE]<br>
+African Solidarity for Democracy and Independence or SADI [Oumar MARIKO]<br>Alliance for Democracy and Progress or ADP-Maliba [Amadou THIAM]<br>Alliance for Democracy in Mali-Pan-African Party for Liberty, Solidarity, and Justice or ADEMA-PASJ [Tiemoko SANGARE]<br>Alliance for the Solidarity of Mali-Convergence of Patriotic Forces or ASMA-CFP [Amadou CISSE, (vice-president, acting]<br>Alternative Forces for Renewal and Emergence or FARE [Modibo SIDIBE]<br>Convergence for the Development of Mali or CODEM [Housseyni Amion GUINDO]<br>Democratic Alliance for Peace or ADP-Maliba [Aliou Boubacar DIALLO]<br>Economic and Social Development Party or PDES [Jamille BITTAR]<br>Front for Democracy and the Republic or FDR (coalition of smaller opposition parties)<br>National Congress for Democratic Initiative or CNID [Mountaga TALL]<br>Party for National Renewal or PARENA [Tiebile DRAME]<br>Patriotic Movement for Renewal or MPR [Choguel Kokalla MAIGA]<br>Rally for Mali or RPM [Boucary TRETA]<br>Union for Republic and Democracy or URD [Younoussi TOURE]<br>
 
 **International organization participation**<br>
 ACP, AfDB, AU (suspended), CD, ECOWAS (suspended), EITI (compliant country), FAO, FZ, G-77, IAEA, IBRD, ICAO, ICCt, ICRM, IDA, IDB, IFAD, IFC, IFRCS, ILO, IMF, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, MONUSCO, NAM, OIC, OIF, OPCW, UN, UNAMID, UNCTAD, UNDP, UNESCO, UNFPA, UNHCR, UNIDO, UNISFA, UNMISS, UNOPS, UN Women, UNWTO, UPU, WADB (regional), WAEMU, World Bank Group, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>

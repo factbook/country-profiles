@@ -200,6 +200,13 @@ _unimproved: total_: total: 51% of population (2017 est.)<br>
 **Obesity - adult prevalence rate**<br>
 7.8% (2016)<br>
 
+**Alcohol consumption per capita**<br>
+_total_: 0.18 liters of pure alcohol (2019 est.)<br>
+_beer_: 0.04 liters of pure alcohol (2019 est.)<br>
+_wine_: 0.07 liters of pure alcohol (2019 est.)<br>
+_spirits_: 0.07 liters of pure alcohol (2019 est.)<br>
+_other alcohols_: 0 liters of pure alcohol (2019 est.)<br>
+
 **Tobacco use**<br>
 _total_: 20.3% (2020 est.)<br>
 _male_: 29.5% (2020 est.)<br>
@@ -340,7 +347,7 @@ _subordinate courts_: Court of Appeals (in Moroni); Tribunal de premiere instanc
 <br>   <br><br> <br>
 
 **Political parties and leaders**<br>
-Convention for the Renewal of the Comoros or CRC [AZALI Assoumani]<br>Democratic Rally of the Comoros or RDC [Mouigni BARAKA]<br>Independent Party<br>Juwa Party or PJ [Ahmed Abdallah SAMBI, Mahamoudou AHAMADA]<br>Orange Party [Mohamed DAOUDOU]<br>Party for the Comorian Agreement (Partie Pour l'Entente Commorienne) or PEC [Fahmi Said IBRAHIM]<br>Rally for an Alternative of Harmonious and Integrated Development or RADHI [Mohamed AHMED]<br>Rally with a Development Initiative for Enlightened Youth or RIDJA [Said LARIFOU]<br>Union for the Development of the Comoros or UPDC [Mohamed HALIFA] (2018)<br>
+<strong>only parties with seats in the Assembly of the Union listed:</strong><br>Convention for the Renewal of the Comoros or CRC [AZALI Assoumani]<br>Orange Party [Mohamed DAOUDOU]<br>Independents (2018)<br>
 
 **International organization participation**<br>
 ACP, AfDB, AMF, AOSIS, AU, CAEU (candidates), COMESA, FAO, FZ, G-77, IBRD, ICAO, ICCt, ICRM, IDA, IDB, IFAD, IFC, IFRCS, ILO, IMF, IMO, IMSO, InOC, Interpol, IOC, IOM, ITSO, ITU, ITUC (NGOs), LAS, MIGA, NAM, OIC, OIF, OPCW, UN, UNCTAD, UNESCO, UNIDO, UPU, WCO, WHO, WIPO, WMO, WTO (observer)<br>

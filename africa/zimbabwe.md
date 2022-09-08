@@ -220,6 +220,13 @@ _animal contact diseases_: rabies<br>
 **Obesity - adult prevalence rate**<br>
 15.5% (2016)<br>
 
+**Alcohol consumption per capita**<br>
+_total_: 3.11 liters of pure alcohol (2019 est.)<br>
+_beer_: 1.2 liters of pure alcohol (2019 est.)<br>
+_wine_: 0.05 liters of pure alcohol (2019 est.)<br>
+_spirits_: 0.39 liters of pure alcohol (2019 est.)<br>
+_other alcohols_: 1.47 liters of pure alcohol (2019 est.)<br>
+
 **Tobacco use**<br>
 _total_: 11.7% (2020 est.)<br>
 _male_: 21.8% (2020 est.)<br>
@@ -295,7 +302,7 @@ _water contact diseases_: schistosomiasis<br>
 _animal contact diseases_: rabies<br>
 
 **Food insecurity**<br>
-_widespread lack of access_: <em>due to high food prices and economic downturn -</em> an estimated 3 million people are projected to be in need of humanitarian assistance between January and March 2022, largely on account of poor food access due to prevailing high food prices and reduced incomes owing to the effects of an economic downturn; below-average rainfall and extreme weather events in 2021/22 are likely to result in a decrease in cereal production and heighten food insecurity later in 2022 (2022)<br>
+_widespread lack of access_: <em><em>due to high food prices and </em></em><em>cereal production downturn </em><em>-</em> based on the current situation, the prevalence of food insecurity is foreseen to increase from the latest assessment that estimated 2.5 to 3 million people in need of humanitarian assistance during the peak of the lean season between February and May 2022; this most likely scenario predominantly reflects the impact of the downturn in domestic food production and rising costs of food; the forecasted slowdown in economic growth in 2022 and the lingering impacts of the COVID‑19 pandemic present further downside risks to food security in 2022-2023; the decline in economic growth is seen to continue to adversely affect employment and livelihood opportunities, with negative implications for households’ income and their ability to purchase foods (2022)<br>
 
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 1,449,752 tons (2015 est.)<br>

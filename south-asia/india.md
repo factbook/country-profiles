@@ -224,6 +224,13 @@ _animal contact diseases_: rabies<br>
 **Obesity - adult prevalence rate**<br>
 3.9% (2016)<br>
 
+**Alcohol consumption per capita**<br>
+_total_: 3.09 liters of pure alcohol (2019 est.)<br>
+_beer_: 0.23 liters of pure alcohol (2019 est.)<br>
+_wine_: 0 liters of pure alcohol (2019 est.)<br>
+_spirits_: 2.85 liters of pure alcohol (2019 est.)<br>
+_other alcohols_: 0 liters of pure alcohol (2019 est.)<br>
+
 **Tobacco use**<br>
 _total_: 27.2% (2020 est.)<br>
 _male_: 41.3% (2020 est.)<br>
@@ -381,7 +388,7 @@ _election results_: Ram Nath KOVIND elected president; percent of electoral coll
 **Legislative branch**<br>
 _description_: bicameral Parliament or Sansad consists of:<br>Council of States or Rajya Sabha (245 seats; 233 members indirectly elected by state and territorial assemblies by proportional representation vote and 12 members appointed by the president; members serve 6-year terms with one-third of the membership renewed every 2 years at various dates)<br>House of the People or Lok Sabha (545 seats; 543 members directly elected in single-seat constituencies by simple majority vote and 2 appointed by the president; members serve 5-year terms)<br>
 _elections_: Council of States - last held by state and territorial assemblies at various dates in 2019 (in progress March through July 2022 to fill 70 expiry seats)<br><br>House of the People - last held April-May 2019 in 7 phases (next to be held in 2024)<br>
-_election results_: Council of States - percent of vote by party - NA; seats by party - BJP 97, INC 34, AITC 13, DMK 10, other 2, independent 2; composition - men 209, women 29, percent of women 13.8%<br><br>House of the People - percent of vote by party - BJP 55.8%, INC 9.6%, AITC 4.4%, YSRC 4.4%, DMK 4.2%, SS 3.3%, JDU 2.9%, BJD 2.2%, BSP 1.8%, TRS 1.7%, LJP 1.1%, NCP 0.9%, SP 0.9%, other 6.4%, independent 0.7%; seats by party - BJP 303, INC 52, DMK 24, AITC 22, YSRC 22, SS 18, JDU 16, BJD 12, BSP 10, TRS 9, LJP 6, NCP 5, SP 5, other 35, independent 4, vacant 2; composition - men 465, women 78, percent of women 14.3%; note - total Parliament percent of women 11.3%<br>
+_election results_: Council of States - percent of vote by party - NA; seats by party - BJP 97, INC 34, AITC 13, DMK 10, other 2, independent 2; composition - men 209, women 29, percent of women 13.8%<br><br>House of the People - percent of vote by party - BJP 55.8%, INC 9.6%, AITC 4.4%, YSRCP 4.4%, DMK 4.2%, SS 3.3%, JDU 2.9%, BJD 2.2%, BSP 1.8%, TRS 1.7%, LJP 1.1%, NCP 0.9%, SP 0.9%, other 6.4%, independent 0.7%; seats by party - BJP 303, INC 52, DMK 24, AITC 22, YSRCP 22, SS 18, JDU 16, BJD 12, BSP 10, TRS 9, LJP 6, NCP 5, SP 5, other 35, independent 4, vacant 2; composition - men 465, women 78, percent of women 14.3%; note - total Parliament percent of women 11.3%<br>
 
 **Judicial branch**<br>
 _highest courts_: Supreme Court (consists of 28 judges, including the chief justice)<br>
@@ -390,7 +397,7 @@ _subordinate courts_: High Courts; District Courts; Labour Court<br>
 <strong>note:</strong> in mid-2011, India’s Cabinet approved the "National Mission for Justice Delivery and Legal Reform" to eliminate judicial corruption and reduce the backlog of cases<br>
 
 **Political parties and leaders**<br>
-Aam Aadmi Party or AAP [Arvind KEJRIWAL]<br>All India Trinamool Congress or AITC [Mamata BANERJEE]<br>Bahujan Samaj Party or BSP [MAYAWATI]<br>Bharatiya Janata Party or BJP [Jagat Prakash NADDA]<br>Biju Janata Dal or BJD [Naveen PATNAIK]<br>Communist Party of India-Marxist or CPI(M) [Sitaram YECHURY]<br>Dravida Munnetra Khazhagam [Muthuvel Karunanidhi STALIN]<br>Indian National Congress or INC [Sonia GANDHI]<br>Nationalist Congress Party or NCP [Sharad PAWAR]<br>Rashtriya Janata Dal or RJD [Lalu Prasad YADAV]<br>Samajwadi Party or SP [Akhilesh YADAV]<br>Shiromani Akali Dal or SAD [Sukhbir Singh BADAL]<br>Shiv Sena or SS [Uddhav THACKERAY]<br>Telegana Rashtra Samithi or TRS [K. Chandrashekar RAO]<br>Telugu Desam Party or TDP [Chandrababu NAIDU]<br>YSR Congress or YSRC [Jagan Mohan REDDY]<br>
+Aam Aadmi Party or AAP [Arvind KEJRIWAL]<br>All India Trinamool Congress or AITC [Mamata BANERJEE]<br>Bahujan Samaj Party or BSP [MAYAWATI]<br>Bharatiya Janata Party or BJP [Jagat Prakash NADDA]<br>Biju Janata Dal or BJD [Naveen PATNAIK]<br>Communist Party of India-Marxist or CPI(M) [Sitaram YECHURY]<br>Dravida Munnetra Khazhagam [Muthuvel Karunanidhi STALIN]<br>Indian National Congress or INC [Sonia GANDHI]<br>Nationalist Congress Party or NCP [Sharad PAWAR]<br>Rashtriya Janata Dal or RJD [Lalu Prasad YADAV]<br>Samajwadi Party or SP [Akhilesh YADAV]<br>Shiromani Akali Dal or SAD [Sukhbir Singh BADAL]<br>Shiv Sena or SS [Uddhav THACKERAY]<br>Telegana Rashtra Samithi or TRS [K. Chandrashekar RAO]<br>Telugu Desam Party or TDP [N. Chandrababu NAIDU]<br>YSR Congress or YSRCP or YCP [Y.S. Jaganmohan REDDY]<br>
 <strong>note:</strong> India has dozens of national and regional political parties<br>
 
 **International organization participation**<br>
@@ -741,7 +748,7 @@ Indian Armed Forces: Army, Navy, Air Force, Coast Guard; Frontier Corps; Defense
 information varies; approximately 1.45 million active personnel (estimated 1.25 million Army; 65,000 Navy; 140,000 Air Force; 12,000 Coast Guard) (2022)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the inventory of the Indian Armed Forces consists mostly of Russian- and Soviet-origin equipment along with a smaller mix of Western and domestically-produced arms; since 2010, Russia has been the leading supplier of arms to India; other key suppliers included France, Israel, and the US; India's defense industry is capable of producing a range of air, land, missile, and naval weapons systems for both domestic use and export (2022)<br>
+the military's inventory consists mostly of Russian- and Soviet-origin equipment along with a smaller mix of Western and domestically-produced arms; since 2010, Russia has been the leading supplier of arms to India; other key suppliers included France, Israel, and the US; India's defense industry is capable of producing a range of air, land, missile, and naval weapons systems for both domestic use and export (2022)<br>
 
 **Military service age and obligation**<br>
 16-18 years of age for voluntary military service (Army 17.5, Air Force 17, Navy 16.5); no conscription (2022)<br>

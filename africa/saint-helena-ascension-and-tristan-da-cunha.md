@@ -44,7 +44,7 @@ _exclusive fishing zone_: 200 nm<br>
 <p>the islands of this group are of volcanic origin associated with the Atlantic Mid-Ocean Ridge</p><p><strong>Saint Helena:</strong> rugged, volcanic; small scattered plateaus and plains; </p><p><strong>Ascension:</strong> surface covered by lava flows and cinder cones of 44 dormant volcanoes; terrain rises to the east; </p><p><strong>Tristan da Cunha:</strong> sheer cliffs line the coastline of the nearly circular island; the flanks of the central volcanic peak are deeply dissected; narrow coastal plain lies between The Peak and the coastal cliffs</p><br>
 
 **Elevation**<br>
-_highest point_: Queen Mary's Peak on Tristan da Cunha 859 m; Green Mountain on Ascension Island 818 m; Mount Actaeon on Saint Helena Island 2,060 m<br>
+_highest point_: Queen Mary's Peak on Tristan da Cunha 2,060 m; Green Mountain on Ascension Island 859 m; Diana's Peak on Saint Helena Island 818 m<br>
 _lowest point_: Atlantic Ocean 0 m<br>
 
 **Natural resources**<br>

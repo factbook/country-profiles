@@ -191,6 +191,13 @@ NA<br>
 **Obesity - adult prevalence rate**<br>
 51.6% (2016)<br>
 
+**Alcohol consumption per capita**<br>
+_total_: 0.93 liters of pure alcohol (2019 est.)<br>
+_beer_: 0.01 liters of pure alcohol (2019 est.)<br>
+_wine_: 0.69 liters of pure alcohol (2019 est.)<br>
+_spirits_: 0.22 liters of pure alcohol (2019 est.)<br>
+_other alcohols_: 0 liters of pure alcohol (2019 est.)<br>
+
 **Tobacco use**<br>
 _total_: 35.6% (2020 est.)<br>
 _male_: 49.8% (2020 est.)<br>
@@ -317,7 +324,7 @@ _judge selection and term of office_: Court of Appeal judges appointed by the go
 _subordinate courts_: magistrates' courts; island courts; land courts<br>
 
 **Political parties and leaders**<br>
-there are no political parties but members of parliament usually align themselves in informal groupings<br>
+there are no political parties, but members of parliament usually align themselves in informal groupings<br>
 
 **International organization participation**<br>
 ACP, ADB, AOSIS, C, FAO, IBRD, IDA, IFAD, IFRCS (observer), ILO, IMF, IMO, IOC, ITU, OPCW, PIF, Sparteca, SPC, UN, UNCTAD, UNESCO, UNIDO, UPU, WHO, WIPO, WMO<br>

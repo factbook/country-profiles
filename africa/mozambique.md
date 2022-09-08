@@ -222,6 +222,13 @@ _animal contact diseases_: rabies<br>
 **Obesity - adult prevalence rate**<br>
 7.2% (2016)<br>
 
+**Alcohol consumption per capita**<br>
+_total_: 1.46 liters of pure alcohol (2019 est.)<br>
+_beer_: 1.03 liters of pure alcohol (2019 est.)<br>
+_wine_: 0.22 liters of pure alcohol (2019 est.)<br>
+_spirits_: 0.21 liters of pure alcohol (2019 est.)<br>
+_other alcohols_: 0 liters of pure alcohol (2019 est.)<br>
+
 **Tobacco use**<br>
 _total_: 14.3% (2020 est.)<br>
 _male_: 23% (2020 est.)<br>
@@ -293,7 +300,7 @@ _animal contact diseases_: rabies<br>
 <strong>note: </strong>on 21 March 2022, the US Centers for Disease Control and Prevention (CDC) issued a Travel Alert for polio in Africa; Mozambique is currently considered a high risk to travelers for circulating vaccine-derived polioviruses (cVDPV); vaccine-derived poliovirus (VDPV) is a strain of the weakened poliovirus that was initially included in oral polio vaccine (OPV) and <em>that has changed over time and behaves more like the wild or naturally occurring virus</em>; this means it can be spread more easily to people who are unvaccinated against polio and who come in contact with the stool or respiratory secretions, such as from a sneeze, of an “infected” person who received oral polio vaccine; the CDC recommends that before any international travel, anyone unvaccinated, incompletely vaccinated, or with an unknown polio vaccination status should complete the routine polio vaccine series; before travel to any high-risk destination, the CDC recommends that adults who previously completed the full, routine polio vaccine series receive a single, lifetime booster dose of polio vaccine<br>
 
 **Food insecurity**<br>
-_severe localized food insecurity_: <p><em>due to localized shortfalls in staple food production, insecurity in northern areas, and extreme weather events -</em> an estimated 1.9 million people require humanitarian assistance until at least March 2022, primarily due to shortfalls in food production and the impact of insecurity in the northern province of Cabo Delgado, where populations are experiencing the severest levels of acute food insecurity; approximately 24,000 people are facing "Emergency" levels of food insecurity; cyclones and tropical storms in early 2022 have affected a large number of people, particularly in central provinces, and the number of food insecure people is expected to increase in late 2022</p> (2022)<br>
+_severe localized food insecurity_: <p><em>due to shortfall in agricultural production and economic downturn -</em> the number of people in need of food assistance is expected to rise above the 1.86 million estimated in 2021-2022 because of three key factors; firstly, higher year‑on‑year prices of food and fuel are reducing households’ purchasing power, worsening their economic access to food, particularly for low-income households; secondly, the impact of extreme weather events on agricultural production in central and southern provinces in 2022 is likely to mean that farming households in the affected areas have both low food supplies from their own production and curtailed income-earning opportunities from crop sales, impinging on their food availability and economic access to food; thirdly, there has been an increase in attacks by non‑state armed groups in the northern province of Cabo Delgado in 2022</p> (2022)<br>
 
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 2.5 million tons (2014 est.)<br>
@@ -382,7 +389,7 @@ _judge selection and term of office_: Supreme Court president appointed by the p
 _subordinate courts_: Administrative Court (capital city only); provincial courts or Tribunais Judicias de Provincia; District Courts or Tribunais Judicias de Districto; customs courts; maritime courts; courts marshal; labor courts; community courts<br>
 
 **Political parties and leaders**<br>
-Democratic Movement of Mozambique (Movimento Democratico de Mocambique) or MDM [Lutero SIMANGO]<br>Front for the Liberation of Mozambique (Frente de Liberatacao de Mocambique) or FRELIMO [Filipe NYUSI]<br>Mozambican National Resistance (Resistencia Nacional Mocambicana) or RENAMO [Ossufo MOMADE]<br>Optimistic Party for the Development of Mozambique or Podemos [Helder Mendonca] (2021)<br>
+Democratic Movement of Mozambique (Movimento Democratico de Mocambique) or MDM [Lutero SIMANGO]<br>Front for the Liberation of Mozambique (Frente de Liberatacao de Mocambique) or FRELIMO [Filipe NYUSI]<br>Mozambican National Resistance (Resistencia Nacional Mocambicana) or RENAMO [Ossufo MOMADE]<br>Optimistic Party for the Development of Mozambique or Podemos [Helder MENDONCA]<br>
 
 **International organization participation**<br>
 ACP, AfDB, AU, C, CD, CPLP, EITI (compliant country), FAO, G-77, IAEA, IBRD, ICAO, ICC (NGOs), ICRM, IDA, IDB, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO (correspondent), ITSO, ITU, ITUC (NGOs), MIGA, NAM, OIC, OIF (observer), OPCW, SADC, UN, UNCTAD, UNESCO, UNHCR, UNIDO, Union Latina, UNISFA, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>

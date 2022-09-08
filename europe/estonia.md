@@ -207,6 +207,13 @@ _vectorborne diseases_: tickborne encephalitis<br>
 **Obesity - adult prevalence rate**<br>
 21.2% (2016)<br>
 
+**Alcohol consumption per capita**<br>
+_total_: 11.65 liters of pure alcohol (2019 est.)<br>
+_beer_: 4 liters of pure alcohol (2019 est.)<br>
+_wine_: 1.92 liters of pure alcohol (2019 est.)<br>
+_spirits_: 4.6 liters of pure alcohol (2019 est.)<br>
+_other alcohols_: 1.13 liters of pure alcohol (2019 est.)<br>
+
 **Tobacco use**<br>
 _total_: 29.7% (2020 est.)<br>
 _male_: 36.3% (2020 est.)<br>
@@ -237,7 +244,7 @@ _female_: 18.4% (2020 est.)<br>
 ## Environment
 
 **Environment - current issues**<br>
-air polluted with sulfur dioxide from oil-shale burning power plants in northeast; however, the amounts of pollutants emitted to the air have fallen dramatically and the pollution load of wastewater at purification plants has decreased substantially due to improved technology and environmental monitoring; Estonia has more than 1,400 natural and manmade lakes, the smaller of which in agricultural areas need to be monitored; coastal seawater is polluted in certain locations<br>
+air polluted with sulfur dioxide from oil-shale burning power plants in northeast; however, the amounts of pollutants emitted into the air have fallen dramatically and the pollution load of wastewater at purification plants has decreased substantially due to improved technology and environmental monitoring; Estonia has more than 1,400 natural and manmade lakes, the smaller of which in agricultural areas need to be monitored; coastal seawater is polluted in certain locations<br>
 
 **Environment - international agreements**<br>
 _party to_: Air Pollution, Air Pollution-Heavy Metals, Air Pollution-Nitrogen Oxides, Air Pollution-Persistent Organic Pollutants, Air Pollution-Sulphur 85, Air Pollution-Volatile Organic Compounds, Antarctic Treaty, Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Endangered Species, Environmental Modification, Hazardous Wastes, Law of the Sea, Marine Dumping-London Protocol, Ozone Layer Protection, Ship Pollution, Tropical Timber 2006, Wetlands, Whaling<br>

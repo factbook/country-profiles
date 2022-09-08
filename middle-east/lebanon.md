@@ -202,6 +202,13 @@ _unimproved: total_: total: 0% of population (2020 est.)<br>
 **Obesity - adult prevalence rate**<br>
 32% (2016)<br>
 
+**Alcohol consumption per capita**<br>
+_total_: 1.14 liters of pure alcohol (2019 est.)<br>
+_beer_: 0.38 liters of pure alcohol (2019 est.)<br>
+_wine_: 0.21 liters of pure alcohol (2019 est.)<br>
+_spirits_: 0.53 liters of pure alcohol (2019 est.)<br>
+_other alcohols_: 0.02 liters of pure alcohol (2019 est.)<br>
+
 **Tobacco use**<br>
 _total_: 38.2% (2020 est.)<br>
 _male_: 47.5% (2020 est.)<br>
@@ -272,7 +279,7 @@ _coal revenues_: 0% of GDP (2018 est.)<br>
 <strong>note:</strong> widespread ongoing transmission of a respiratory illness caused by the novel coronavirus (COVID-19) is occurring throughout Lebanon; as of 18 August 2022, Lebanon has reported a total of 1,200,111 cases of COVID-19 or 17,582.89 cumulative cases of COVID-19 per 100,000 population with a total of 10,589 cumulative deaths or a rate of 155.14 cumulative deaths per 100,000 population; as of 7 August 2022, 48.5% of the population has received at least one dose of COVID-19 vaccine<br>
 
 **Food insecurity**<br>
-_widespread lack of access_: <em>due to the ongoing financial and economic crisis -</em> the World Food Program (WFP) estimates that, as a result of the ongoing economic crisis, over 1.3 million Lebanese citizens, about 36% of the total population, were food insecure by the end of September 2021; the number of Lebanese households with serious food access constraints reached 57% in September 2021, up from 40% in September 2020; domestic cereal production covers, on average, less than 20% of the consumption needs and the country depends heavily on imports (2022)<br>
+_widespread lack of access_: <em>due to the ongoing financial and economic crisis -</em> in September 2021, the United Nations estimated that, taking into account multiple factors other than income, such as access to health, education and public utilities, 82% of the population lives in multidimensional poverty in 2021, up from 42% in 2019 (2022)<br>
 
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 2.04 million tons (2014 est.)<br>
@@ -345,7 +352,7 @@ _election results_: Michel AWN elected president in second round; National Assem
 **Legislative branch**<br>
 _description_: unicameral National Assembly or Majlis al-Nuwab in Arabic or Assemblee Nationale in French (128 seats; members directly elected in multi-member constituencies by open list proportional representation vote; members serve 4-year terms); prior to 2017, the electoral system was by majoritarian vote<br>
 _elections_: last held on 15 May 2022 (next to be held in May 2026)<br>
-_election results_: percent of vote by coalition/party &ndash; NA; seats by party/coalition &ndash; FPM 16, LF 14, Amal Movement 13, Hezbollah 13, PSP 9, Future Movement Bloc (candidates did not run in 2022; members ran as independents) 8, Kata&rsquo;ib Party 4, other 30, independent 21; composition - men 120, women 8, percent of women 6.3%<br>
+_election results_: percent of vote by coalition/party &ndash; NA; seats by party/coalition &ndash; FPM 16, LF 14, Amal Movement 13, Hezbollah 13, PSP 9, FM (candidates did not run in 2022; members ran as independents) 8, Kata&rsquo;ib Party 4, other 30, independent 21; composition - men 120, women 8, percent of women 6.3%<br>
 <strong>note:</strong> Lebanon’s constitution states the National Assembly cannot conduct regular business until it elects a president when the position is vacant<br>
 
 **Judicial branch**<br>
@@ -354,7 +361,7 @@ _judge selection and term of office_: Court of Cassation judges appointed by Sup
 _subordinate courts_: Courts of Appeal; Courts of First Instance; specialized tribunals, religious courts; military courts<br>
 
 **Political parties and leaders**<br>
-<p>Al-Ahbash or Association of Islamic Charitable Projects [Adnan TARABULSI]<br>Amal Movement [Nabih BERRI]<br>Azm Movement [Najib MIQATI]<br>Ba’th Arab Socialist Party of Lebanon [Fayiz SHUKR]<br>Free Patriotic Movement or FPM [Gibran BASSIL]<br>Future Movement Bloc [Sa'ad al-HARIRI]<br>Hizballah [Hassan NASRALLAH]<br>Islamic Actions Front [Sheikh Zuhayr al-JU’AYD]<br>Kata'ib Party [Sami GEMAYEL]<br>Lebanese Democratic Party [Talal ARSLAN]<br>Lebanese Forces or LF [Samir JA'JA]<br>Marada Movement [Sulayman FRANJIEH]<br>Progressive Socialist Party or PSP [Walid JUNBLATT]<br>Social Democrat Hunshaqian Party [Sabuh KALPAKIAN]<br>Syrian Social Nationalist Party [Rabi BANAT]<br>Tashnaq or Armenian Revolutionary Federation [Hagop PAKRADOUNIAN]</p><br>
+<p>Al-Ahbash or Association of Islamic Charitable Projects or AICP [Adnan TARABULSI]<br>Amal Movement ("Hope Movement") [Nabih BERRI]<br>Azm Movement [Najib MIQATI]<br>Ba’th Arab Socialist Party of Lebanon [Fayiz SHUKR]<br>Free Patriotic Movement or FPM [Gibran BASSIL]<br>Future Movement Bloc or FM [Sa'ad al-HARIRI]<br>Hizballah [Hassan NASRALLAH]<br>Islamic Action Front or IAF [Sheikh Zuhayr al-JU’AYD]<br>Kata'ib Party [Sami GEMAYEL]<br>Lebanese Democratic Party [Talal ARSLAN]<br>Lebanese Forces or LF [Samir JA'JA]<br>Marada Movement [Sulayman FRANJIEH]<br>Progressive Socialist Party or PSP [Walid JUNBLATT]<br>Social Democrat Hunshaqian Party [Sabuh KALPAKIAN]<br>Syrian Social Nationalist Party or SSNP [Rabi BANAT]<br>Tashnaq or Armenian Revolutionary Federation [Hagop PAKRADOUNIAN]</p><br>
 
 **International organization participation**<br>
 ABEDA, AFESD, AMF, CAEU, FAO, G-24, G-77, IAEA, IBRD, ICAO, ICC (national committees), ICRM, IDA, IDB, IFAD, IFC, IFRCS, ILO, IMF, IMO, IMSO, Interpol, IOC, IPU, ISO, ITSO, ITU, LAS, MIGA, NAM, OAS (observer), OIC, OIF, OPCW, PCA, UN, UNCTAD, UNESCO, UNHCR, UNIDO, UNRWA, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO (observer)<br>

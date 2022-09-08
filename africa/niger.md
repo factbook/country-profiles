@@ -224,6 +224,13 @@ _respiratory diseases_: meningococcal meningitis<br>
 **Obesity - adult prevalence rate**<br>
 5.5% (2016)<br>
 
+**Alcohol consumption per capita**<br>
+_total_: 0.11 liters of pure alcohol (2019 est.)<br>
+_beer_: 0.04 liters of pure alcohol (2019 est.)<br>
+_wine_: 0.01 liters of pure alcohol (2019 est.)<br>
+_spirits_: 0.06 liters of pure alcohol (2019 est.)<br>
+_other alcohols_: 0 liters of pure alcohol (2019 est.)<br>
+
 **Tobacco use**<br>
 _total_: 7.4% (2020 est.)<br>
 _male_: 13.7% (2020 est.)<br>
@@ -296,7 +303,7 @@ _respiratory diseases_: meningococcal meningitis<br>
 <strong>note: </strong>on 21 March 2022, the US Centers for Disease Control and Prevention (CDC) issued a Travel Alert for polio in Africa; Niger is currently considered a high risk to travelers for circulating vaccine-derived polioviruses (cVDPV); vaccine-derived poliovirus (VDPV) is a strain of the weakened poliovirus that was initially included in oral polio vaccine (OPV) and <em>that has changed over time and behaves more like the wild or naturally occurring virus</em>; this means it can be spread more easily to people who are unvaccinated against polio and who come in contact with the stool or respiratory secretions, such as from a sneeze, of an “infected” person who received oral polio vaccine; the CDC recommends that before any international travel, anyone unvaccinated, incompletely vaccinated, or with an unknown polio vaccination status should complete the routine polio vaccine series; before travel to any high-risk destination, the CDC recommends that adults who previously completed the full, routine polio vaccine series receive a single, lifetime booster dose of polio vaccine<br>
 
 **Food insecurity**<br>
-_exceptional shortfall in aggregate food production/supplies_: <em>due to internal conflict and shortfall in cereal production -</em> as of January 2022, an estimated 265,000 people have been displaced due to civil conflict; in addition, domestic cereal production was estimated at a below-average level in 2021, due to effects of adverse weather and the civil conflict, which is expected to further aggravate conditions; the aggregate cereal production in 2021 is officially estimated at 3.5 million mt, nearly 40% below the five‑year average; as a result, between June and August 2022, 3.64 million people are projected to face severe food insecurity; this is a 40% increase compared to the current post‑harvest period, underpinned by the reduced cereal production in 2021, high food prices and the high likelihood of persisting disruptions of markets and agricultural activities amid increasing insecurity (2022)<br>
+_exceptional shortfall in aggregate food production/supplies_: <em>due to internal conflict and shortfall in cereal production -</em> according to the latest analysis, about 4.4 million people are estimated to need humanitarian food assistance between June and August 2022, reflecting worsening conflicts and security conditions, and unfavorable weather that resulted in a sharp fall in cereal production in 2021; additionally, higher year-on-year prices of food continue to constrain access to food, aggravating conditions (2022)<br>
 
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 1,865,646 tons (1993 est.)<br>

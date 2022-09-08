@@ -221,6 +221,13 @@ _respiratory diseases_: meningococcal meningitis<br>
 **Obesity - adult prevalence rate**<br>
 12.7% (2016)<br>
 
+**Alcohol consumption per capita**<br>
+_total_: 0 liters of pure alcohol (2019 est.)<br>
+_beer_: 0 liters of pure alcohol (2019 est.)<br>
+_wine_: 0 liters of pure alcohol (2019 est.)<br>
+_spirits_: 0 liters of pure alcohol (2019 est.)<br>
+_other alcohols_: 0 liters of pure alcohol (2019 est.)<br>
+
 **Tobacco use**<br>
 _total_: 10.7% (2020 est.)<br>
 _male_: 19.3% (2020 est.)<br>
@@ -292,7 +299,7 @@ _respiratory diseases_: meningococcal meningitis<br>
 <strong>note: </strong>on 21 March 2022, the US Centers for Disease Control and Prevention (CDC) issued a Travel Alert for polio in Africa; Mauritania is currently considered a high risk to travelers for circulating vaccine-derived polioviruses (cVDPV); vaccine-derived poliovirus (VDPV) is a strain of the weakened poliovirus that was initially included in oral polio vaccine (OPV) and <em>that has changed over time and behaves more like the wild or naturally occurring virus</em>; this means it can be spread more easily to people who are unvaccinated against polio and who come in contact with the stool or respiratory secretions, such as from a sneeze, of an “infected” person who received oral polio vaccine; the CDC recommends that before any international travel, anyone unvaccinated, incompletely vaccinated, or with an unknown polio vaccination status should complete the routine polio vaccine series; before travel to any high-risk destination, the CDC recommends that adults who previously completed the full, routine polio vaccine series receive a single, lifetime booster dose of polio vaccine<br>
 
 **Food insecurity**<br>
-_severe localized food insecurity_: <em>due to poor performance of cereal production -</em> domestic cereal production declined in 2021 due to poor weather, which is likely to worsen conditions of the most vulnerable households; in the upcoming peak of the lean season, between June and August 2022, 660,000 people are projected to face severe food insecurity (2022)<br>
+_severe localized food insecurity_: <em><em>due to </em></em><em>shortfall in agricultural production and economic downturn </em><em>-</em> according to the latest analysis, about 878,000 people are assessed to be in need of humanitarian assistance between June and August 2022 as a result of shortfalls in cereal and livestock production in 2021 and reduced incomes owing to the negative effects of the COVID-19 pandemic on the economy (2022)<br>
 
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 454,000 tons (2009 est.)<br>
@@ -381,7 +388,7 @@ _judge selection and term of office_: Supreme Court president appointed by the p
 _subordinate courts_: Courts of Appeal; courts of first instance or wilya courts are established in the regions' headquarters and include commercial and labor courts, criminal courts, Moughataa (district) Courts, and informal/customary courts<br>
 
 **Political parties and leaders**<br>
-Alliance for Justice and Democracy/Movement for Renewal or AJD/MR [Ibrahima Moctar SARR]<br>Burst of Youth for the Nation [Lalla Mint CHERIF]<br>Coalition of Majority Parties or CPM (includes UPR, UDP) and smaller parties<br>El Karama Party [Cheikhna Ould Mohamed Ould HAJBOU]<br>El Vadila Party [Ethmane Ould Ahmed ABOULMAALY]<br>National Rally for Reform and Development or RNRD-TAWASSOUL [Mohamed Mahmoud Ould SEYIDI]<br>Party of Unity and Development or PUD [Mohamed BARO]<br>Popular Progressive Alliance or APP [Messaoud Ould BOULKHEIR]<br>Rally of Democratic Forces or RFD [Ahmed Ould DADDAH]<br>Ravah Party [ Mohamed Ould VALL]<br>Republican Party for Democracy and Renewal or PRDR [Mintata Mint HEDEID]<br>Union for Democracy and Progress or UDP [Naha Mint MOUKNASS]<br>Union of Progress Forces [Mohamed Ould MAOULOUD]<br>Union for the Republic or UPR [Sidi Mohamed Ould Taleb AMAR]<br>
+Alliance for Justice and Democracy/Movement for Renewal or AJD/MR [Ibrahima Moctar SARR]<br>Burst of Youth for the Nation [Lalla Mint CHERIF]<br>Coalition of Majority Parties or CPM (includes UPR, UDP, and smaller parties)<br>El Karama Party [Cheikhna Ould Mohamed Ould HAJBOU]<br>El Vadila Party [Ethmane Ould Ahmed ABOULMAALY]<br>National Rally for Reform and Development or RNRD-TAWASSOUL [Mohamed Mahmoud Ould SEYIDI]<br>Party of Unity and Development or PUD [Mohamed BARO]<br>Popular Progressive Alliance or APP [Messaoud Ould BOULKHEIR]<br>Rally of Democratic Forces or RFD [Ahmed Ould DADDAH]<br>Ravah Party [Mohamed Ould VALL]<br>Republican Party for Democracy and Renewal or PRDR [Mintata Mint HEDEID]<br>Union for Democracy and Progress or UDP [Naha Mint MOUKNASS]<br>Union for the Republic or UPR [Sidi Mohamed Ould Taleb AMAR]<br>Union of Progress Forces [Mohamed Ould MAOULOUD]<br>
 
 **International organization participation**<br>
 ABEDA, ACP, AfDB, AFESD, AMF, AMU, AU, CAEU, EITI (compliant country), FAO, G-77, IAEA, IBRD, ICAO, ICC (NGOs), ICRM, IDA, IDB, IFAD, IFC, IFRCS, IHO (pending member), ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ISO (correspondent), ITSO, ITU, ITUC (NGOs), LAS, MIGA, MIUSMA, NAM, OIC, OIF, OPCW, UN, UNCTAD, UNESCO, UNIDO, UNWTO, UPU, WCO, WHO, WIPO, WMO, WTO<br>

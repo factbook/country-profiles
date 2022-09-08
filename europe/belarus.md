@@ -209,6 +209,13 @@ _unimproved: total_: total: 0.5% of population (2020 est.)<br>
 **Obesity - adult prevalence rate**<br>
 24.5% (2016)<br>
 
+**Alcohol consumption per capita**<br>
+_total_: 10.57 liters of pure alcohol (2019 est.)<br>
+_beer_: 2.26 liters of pure alcohol (2019 est.)<br>
+_wine_: 0.98 liters of pure alcohol (2019 est.)<br>
+_spirits_: 4.67 liters of pure alcohol (2019 est.)<br>
+_other alcohols_: 2.66 liters of pure alcohol (2019 est.)<br>
+
 **Tobacco use**<br>
 _total_: 30.5% (2020 est.)<br>
 _male_: 47.4% (2020 est.)<br>
@@ -717,7 +724,7 @@ the inventory of the Belarus Armed Forces is comprised mostly of Russian/Soviet-
 <p><em>Belarus-Latvia:</em> Boundary demarcated with Latvia.<br><br><em>Belarus-Lithuania:</em> Boundary demarcated with Lithuania.<br><br><em>Belarus-Poland:</em> As a member state that forms part of the EU's external border, Poland has implemented strict Schengen border rules to restrict illegal immigration and trade along its border with Belarus.</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 11,644 (Ukraine) (as of 23 August 2022)<br>
+_refugees (country of origin)_: 11,644 (Ukraine) (as of 30 August 2022)<br>
 _stateless persons_: 6,104 (mid-year 2021)<br>
 
 **Trafficking in persons**<br>

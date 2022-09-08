@@ -207,6 +207,13 @@ _vectorborne diseases_: tickborne encephalitis<br>
 **Obesity - adult prevalence rate**<br>
 23.6% (2016)<br>
 
+**Alcohol consumption per capita**<br>
+_total_: 12.9 liters of pure alcohol (2019 est.)<br>
+_beer_: 4.9 liters of pure alcohol (2019 est.)<br>
+_wine_: 1.7 liters of pure alcohol (2019 est.)<br>
+_spirits_: 5.3 liters of pure alcohol (2019 est.)<br>
+_other alcohols_: 1 liters of pure alcohol (2019 est.)<br>
+
 **Tobacco use**<br>
 _total_: 37% (2020 est.)<br>
 _male_: 50.3% (2020 est.)<br>
@@ -339,7 +346,7 @@ _chief of state_: President Egils LEVITS (since 8 July 2019)<br>
 _head of government_: Prime Minister Krisjanis KARINS (since 23 January 2019)<br>
 _cabinet_: Cabinet of Ministers nominated by the prime minister, appointed by Parliament<br>
 _elections/appointments_: president indirectly elected by Parliament for a 4-year term (eligible for a second term); election last held on 29 May 2019 (next to be held in 2023); prime minister appointed by the president, confirmed by Parliament<br>
-_election results_: 2019: Egils LEVITS elected president; Parliament vote - Egils LEVITS 61 votes, Didzis SMITS 24, Juris JANSONS 8; Krisjanis KARINS confirmed prime minister 61-39<br><br>2015: Raimonds VEJONIS elected president, 55 votes, Egils LEVITS 42 votes<br>
+_election results_: <em>2019:</em> Egils LEVITS elected president; Parliament vote - Egils LEVITS 61 votes, Didzis SMITS 24 votes, Juris JANSONS 8 votes; Krisjanis KARINS confirmed prime minister 61-39<br><br><em>2015: </em>Raimonds VEJONIS elected president; Raimonds VEJOONIS 55 votes, Egils LEVITS 42 votes<br>
 
 **Legislative branch**<br>
 _description_: unicameral Parliament or Saeima (100 seats; members directly elected in multi-seat constituencies by party-list proportional representation vote; members serve 4-year terms)<br>
@@ -352,7 +359,7 @@ _judge selection and term of office_: Supreme Court judges nominated by chief ju
 _subordinate courts_: district (city) and regional courts<br>
 
 **Political parties and leaders**<br>
-Development/For! or AP! [Daniels PAVLUTS, Juris PUCE]<br>For a Humane Latvia previously known as Who Owns the State? or PCL [Jurgis MIEZAINIS]<br>National Alliance "All For Latvia!"-"For Fatherland and Freedom/LNNK" or NA [Raivis DZINTARS] <br>New Conservative Conservative Party or K [Janis BORDANS]<br>New Unity or JV [Arvils ASERADENS]<br>Social Democratic Party "Harmony" or S [Janis URBANOVICS] <br>Union of Greens and Farmers or ZZS [Armands KRAUZE]<br>
+Development/For! or AP! [Daniels PAVLUTS, Juris PUCE]<br>For a Humane Latvia or PCL [Maris MOZVILLO] (formerly known as Who Owns the State?)<br>National Alliance "All For Latvia!"-"For Fatherland and Freedom/LNNK" or NA [Raivis DZINTARS] <br>New Unity or JV [Arturs Krišjānis KARINS]<br>Social Democratic Party "Harmony" or S [Janis URBANOVICS]<br>The Conservatives or K [Janis BORDANS] (formerly known as New Conservative Party or JKP)<br>Union of Greens and Farmers or ZZS [Aivars LEMBERGS]<br>United List or AS [Uldis PILENS] (electoral coalition including the Latvian Green Party or LZP, Latvian Association of Regions or LRA, Liepaja Party)<br>
 
 **International organization participation**<br>
 Australia Group, BA, BIS, CBSS, CD, CE, EAPC, EBRD, ECB, EIB, EMU, ESA (cooperating state), EU, FAO, IAEA, IBRD, ICAO, ICC (NGOs), ICCt, ICRM, IDA, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO (correspondent), ITU, ITUC (NGOs), MIGA, NATO, NIB, NSG, OAS (observer), OIF (observer), OPCW, OSCE, PCA, Schengen Convention, UN, UNCTAD, UNESCO, UNHCR, UNWTO, UPU, Wassenaar Arrangement, WCO, WHO, WIPO, WMO, WTO<br>
@@ -695,7 +702,7 @@ the Latvian military's inventory is limited and consists of a mixture of Soviet-
 
 **Military service age and obligation**<br>
 18 years of age for voluntary male and female military service; no conscription (abolished 2007) (2022)<br>
-<strong>note 1:</strong> in July 2022, the Latvian Government announced that it was reinstating mandatory military service for men aged 18-27 (women voluntarily) beginning in July 2023; service would be for 1 year in the Land Forces or alternatively in internal affairs, health, or welfare structures<br><br><strong>note 2:</strong> as of 2019, women comprised about 16% of the military's full-time personnel<br>
+<strong>note 1:</strong> in July 2022, the Latvian Government announced that it was reinstating mandatory military service for men aged 18-27 (women voluntarily) beginning in July 2023; service would be for one year in the Land Forces or alternatively in internal affairs, health, or welfare structures<br><br><strong>note 2:</strong> as of 2019, women comprised about 16% of the military's full-time personnel<br>
 
 **Military deployments**<br>
 130 Kosovo (KFOR/NATO) (2022)<br>

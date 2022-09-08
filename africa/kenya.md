@@ -221,6 +221,13 @@ _animal contact diseases_: rabies<br>
 **Obesity - adult prevalence rate**<br>
 7.1% (2016)<br>
 
+**Alcohol consumption per capita**<br>
+_total_: 1.68 liters of pure alcohol (2019 est.)<br>
+_beer_: 0.81 liters of pure alcohol (2019 est.)<br>
+_wine_: 0.04 liters of pure alcohol (2019 est.)<br>
+_spirits_: 0.81 liters of pure alcohol (2019 est.)<br>
+_other alcohols_: 0.03 liters of pure alcohol (2019 est.)<br>
+
 **Tobacco use**<br>
 _total_: 11.1% (2020 est.)<br>
 _male_: 19.5% (2020 est.)<br>
@@ -286,7 +293,7 @@ _water contact diseases_: schistosomiasis<br>
 _animal contact diseases_: rabies<br>
 
 **Food insecurity**<br>
-_exceptional shortfall in aggregate food production/supplies_: <em>due to drought conditions -</em> about 3.1 million people were estimated to be severely food insecure in February 2022 reflecting consecutive poor rainy seasons since late 2020 that affected crop and livestock production, mainly in northern and eastern pastoral, agro-pastoral and marginal agricultural areas; the deterioration of the food security situation is mainly due to the negative impact of two consecutive poor rainy seasons since October 2020 on crop and livestock production and on on‑farm income‑earning opportunities; the impact of the measures implemented to curb the spread of the COVID‑19 pandemic on economic activities exacerbated food insecurity (2022)<br>
+_exceptional shortfall in aggregate food production/supplies_: <em>due to drought conditions -</em> in the March to June 2022 period, about 4.1 million people are estimated to be severely food insecure; this figure is about 40% higher than the same time last year; severe rainfall deficits during the March-May 2022 rainy season have impaired pasture regeneration in several central, northern and eastern pastoral and agro-pastoral areas; as of late July 2022, between 25% and more than 85% of the grassland was affected by severe drought reflecting consecutive poor rainy seasons since late 2020 affecting both crop and livestock production; prices of maize are at high levels across the country due to reduced availability and high fuel prices inflating production and transportation costs; as the June–September 2022 dry season has just started and forecasts point to a poor October–December 2022 “short‑rains” season, food insecurity conditions are expected to further deteriorate (2022)<br>
 
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 5,595,099 tons (2010 est.)<br>
@@ -376,7 +383,7 @@ _judge selection and term of office_: chief and deputy chief justices nominated 
 _subordinate courts_: High Court; Court of Appeal; military courts; magistrates' courts; religious courts<br>
 
 **Political parties and leaders**<br>
-Alliance Party of Kenya or APK [Kiraitu MURUNGI]<br>Amani National Congress or ANC [Musalia MUDAVADI]<br>Federal Party of Kenya or FPK [Cyrus JIRONGA]<br>Forum for the Restoration of Democracy-Kenya or FORD-K [Moses WETANGULA]<br>Forum for the Restoration of Democracy-People or FORD-P [Henry OBWOCHA]<br>Jubilee Party [Uhuru KENYATTA]<br>Kenya African National Union or KANU [Gideon MOI]<br>National Rainbow Coalition or NARC [Charity NGILU]<br>Orange Democratic Movement Party of Kenya or ODM [Raila ODINGA]<br>Wiper Democratic Movement-K or WDM-K (formerly Orange Democratic Movement-Kenya or ODM-K) [Kalonzo MUSYOKA]<br>
+Assembly Parties:<br>Amani National Congress or ANC [Musalia MUDAVADI]<br>Federal Party of Kenya or FPK [Cyrus JIRONGA]<br>Forum for the Restoration of Democracy-Kenya or FORD-K [Moses WETANGULA] merged into Jubilee Party in 2016<br>Forum for the Restoration of Democracy-People or FORD-P (merged into Jubilee Party in 2016)<br>Jubilee Party [Uhuru KENYATTA]<br>Kenya African National Union or KANU [Gideon MOI]<br>National Rainbow Coalition or NARC [Charity NGILU]<br>Orange Democratic Movement Party of Kenya or ODM [Raila ODINGA]<br>Wiper Democratic Movement-K or WDM-K (formerly Orange Democratic Movement-Kenya or ODM-K) [Kalonzo MUSYOKA]<br>
 
 **International organization participation**<br>
 ACP, AfDB, AU, C, CD, COMESA, EAC, EADB, FAO, G-15, G-77, IAEA, IBRD, ICAO, ICCT, ICRM, IDA, IFAD, IFC, IFRCS, IGAD, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, MINUSMA, MONUSCO, NAM, OPCW, PCA, UN, UNAMID, UNCTAD, UNESCO, UNHCR, UNIDO, UNIFIL, UNISFA, UNMIL, UNMISS, UNSOM, UNWTO, UPU, WCO, WHO, WMO, WTO<br>
@@ -704,12 +711,12 @@ _LNG terminal(s) (import)_: Mombasa<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Kenya Defense Forces: Kenya Army, Kenya Navy, Kenya Air Force (2022)<br>
+Kenya Defense Forces (KDF): Kenya Army, Kenya Navy, Kenya Air Force (2022)<br>
 <strong>note 1:</strong> the National Police Service maintains internal security and reports to the Ministry of Interior and Coordination of National Government; it includes a paramilitary General Service Unit<br><br><strong>note 2:</strong> the Kenya Coast Guard Service (established 2018) is under the Ministry of Interior but led by a military officer and comprised of personnel from the military, as well as the National Police Service, intelligence services, and other government agencies<br>
 
 **Military expenditures**<br>
 1.2% of GDP (2021 est.)<br>
-1.2% of GDP (2020 est.)<br>
+1.2% of GDP (2020)<br>
 1.2% of GDP (2019) (approximately $1.21 billion)<br>
 1.3% of GDP (2018) (approximately $1.24 billion)<br>
 1.4% of GDP (2017) (approximately $1.19 billion)<br>
@@ -727,7 +734,7 @@ no conscription; 18-26 years of age for male and female voluntary service (under
 260 Democratic Republic of the Congo (MONUSCO); 3,650 Somalia (ATMIS) (2022)<br>
 
 **Military - note**<br>
-Kenyan military forces intervened in Somalia in October 2011 to combat the al Qaida-affiliated al-Shabaab terrorist group, which had conducted numerous cross-border attacks into Kenya; in November 2011, the UN and the African Union invited Kenya to incorporate its forces into the African Union Mission in Somalia (AMISOM); Kenyan forces were formally integrated into AMISOM in February 2012; as of 2022, they consisted of approximately 3,600 troops and were responsible for AMISOM’s Sector 2 comprising Lower and Middle Jubba (see Appendix T for additional details on al-Shabaab) (2022)<br>
+Kenyan military forces intervened in Somalia in October 2011 to combat the al Qaida-affiliated al-Shabaab terrorist group, which had conducted numerous cross-border attacks into Kenya; in November 2011, the UN and the African Union invited Kenya to incorporate its forces into the African Union Mission in Somalia (AMISOM); Kenyan forces were formally integrated into AMISOM in February 2012; as of 2022, they consisted of approximately 3,600 troops and were responsible for AMISOM’s Sector 2 comprising Lower and Middle Jubba (see Appendix T for additional details on al-Shabaab; note - as of May 2022, AMISOM was renamed the AU Transition Mission in Somalia or ATMIS) (2022)<br>
 
 **Maritime threats**<br>
 the International Maritime Bureau reports that shipping in territorial and offshore waters in the Indian Ocean remain at risk for piracy and armed robbery against ships<br>
