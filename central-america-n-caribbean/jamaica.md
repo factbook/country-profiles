@@ -174,7 +174,7 @@ _unimproved: urban_: urban: 1.7% of population<br>
 _unimproved: rural_: rural: 6.1% of population<br>
 _unimproved: total_: total: 3.6% of population (2020 est.)<br>
 
-**Current Health Expenditure**<br>
+**Current health expenditure**<br>
 6.1% (2019)<br>
 
 **Physicians density**<br>
@@ -329,8 +329,8 @@ _residency requirement for naturalization_: 4 out of the previous 5 years<br>
 18 years of age; universal<br>
 
 **Executive branch**<br>
-_chief of state_: Queen ELIZABETH II (since 6 February 1952); represented by Governor General Sir Patrick L. ALLEN (since 26 February 2009)<br>
-_head of government_: &nbsp;Prime Minister Andrew HOLNESS (since 3 March 2016)&nbsp;<br>
+_chief of state_: King CHARLES III (since 8 September 2022); represented by Governor General Sir Patrick L. ALLEN (since 26 February 2009)<br>
+_head of government_: Prime Minister Andrew HOLNESS (since 3 March 2016)<br>
 _cabinet_: Cabinet appointed by the governor general on the advice of the prime minister<br>
 _elections/appointments_: the monarchy is hereditary; governor general appointed by the monarch on the recommendation of the prime minister; following legislative elections, the leader of the majority party or majority coalition in the House of Representatives is appointed prime minister by the governor general<br>
 

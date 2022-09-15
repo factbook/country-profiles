@@ -46,7 +46,7 @@ tropical; hot, rainy season (June to November); cooler, dry season (November to 
 flood plain of the Gambia River flanked by some low hills<br>
 
 **Elevation**<br>
-_highest point_: unnamed elevation 3 km southeast of the town of Sabi 63 m<br>note - the Factbook map is incorrect; it shows the wrong location of the high elevation<br>
+_highest point_: unnamed elevation 63 m; 3 km southeast of the town of Sabi<br>
 _lowest point_: Atlantic Ocean 0 m<br>
 _mean elevation_: 34 m<br>
 
@@ -185,7 +185,7 @@ _unimproved: urban_: urban: 8.2% of population<br>
 _unimproved: rural_: rural: 14.3% of population<br>
 _unimproved: total_: total: 10.5% of population (2020 est.)<br>
 
-**Current Health Expenditure**<br>
+**Current health expenditure**<br>
 3.8% (2019)<br>
 
 **Physicians density**<br>

@@ -184,7 +184,7 @@ _unimproved: urban_: urban: 0% of population<br>
 _unimproved: rural_: rural: 0% of population<br>
 _unimproved: total_: total: 0% of population (2020 est.)<br>
 
-**Current Health Expenditure**<br>
+**Current health expenditure**<br>
 6.6% (2019)<br>
 
 **Physicians density**<br>
@@ -617,8 +617,8 @@ broadcast media is government controlled and censored; 7 state-owned TV and 4 st
 .tm<br>
 
 **Internet users**<br>
-_total_: 1,247,940 (2019 est.)<br>
-_percent of population_: 21% (2019 est.)<br>
+_total_: 1,247,940 (July 2022 est.)<br>
+_percent of population_: 25.3% (July 2022 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 10,000 (2020 est.)<br>

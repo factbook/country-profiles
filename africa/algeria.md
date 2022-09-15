@@ -180,7 +180,7 @@ _unimproved: urban_: urban: 0.4% of population<br>
 _unimproved: rural_: rural: 1.2% of population<br>
 _unimproved: total_: total: 0.6% of population (2020 est.)<br>
 
-**Current Health Expenditure**<br>
+**Current health expenditure**<br>
 6.2% (2019)<br>
 
 **Physicians density**<br>
@@ -727,4 +727,7 @@ _refugees (country of origin)_: more than 100,000 (Sahrawi, mostly living in Alg
 **Trafficking in persons**<br>
 _current situation_: <p>human traffickers exploit domestic and foreign victims; Algerian women and girls are vulnerable to sex trafficking due to financial problems or after running away from home; undocumented sub-Saharan migrants are vulnerable to labor and sex trafficking and are exploited in restaurants, houses, and informal worksites; sub-Saharan men and women needing more funds for their onward journey to Europe work illegally in construction and commercial sex and are vulnerable to sex trafficking and debt bondage; foreign women and girls, mainly from sub-Saharan Africa, are subject to sex trafficking in bars and informal brothels; criminal begging rings that exploit sub-Saharan African migrant children are common</p><br>
 _tier rating_: Tier 3 &mdash; Algeria does not fully comply with the minimum standards for the elimination of trafficking and is not making significant efforts to do so; authorities prosecuted fewer traffickers and identified fewer victims compared to last year and convicted no traffickers; the government continued to lack effective procedures and mechanisms to screen for, identify, and refer potential victims to protective services and punished some potential victims for unlawful acts traffickers forced them to commit; the government took some steps to combat trafficking, including prosecuting some traffickers, identifying some victims, and continuing to implement its 2019-2021 national anti-trafficking action plan (2020)<br>
+
+**Illicit drugs**<br>
+NA<br>
 

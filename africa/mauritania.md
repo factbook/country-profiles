@@ -187,7 +187,7 @@ _unimproved: urban_: urban: 1.3% of population<br>
 _unimproved: rural_: rural: 31.6% of population<br>
 _unimproved: total_: total: 14.8% of population (2020 est.)<br>
 
-**Current Health Expenditure**<br>
+**Current health expenditure**<br>
 3.3% (2019)<br>
 
 **Physicians density**<br>
@@ -388,7 +388,7 @@ _judge selection and term of office_: Supreme Court president appointed by the p
 _subordinate courts_: Courts of Appeal; courts of first instance or wilya courts are established in the regions' headquarters and include commercial and labor courts, criminal courts, Moughataa (district) Courts, and informal/customary courts<br>
 
 **Political parties and leaders**<br>
-Alliance for Justice and Democracy/Movement for Renewal or AJD/MR [Ibrahima Moctar SARR]<br>Burst of Youth for the Nation [Lalla Mint CHERIF]<br>Coalition of Majority Parties or CPM (includes UPR, UDP, and smaller parties)<br>El Karama Party [Cheikhna Ould Mohamed Ould HAJBOU]<br>El Vadila Party [Ethmane Ould Ahmed ABOULMAALY]<br>National Rally for Reform and Development or RNRD-TAWASSOUL [Mohamed Mahmoud Ould SEYIDI]<br>Party of Unity and Development or PUD [Mohamed BARO]<br>Popular Progressive Alliance or APP [Messaoud Ould BOULKHEIR]<br>Rally of Democratic Forces or RFD [Ahmed Ould DADDAH]<br>Ravah Party [Mohamed Ould VALL]<br>Republican Party for Democracy and Renewal or PRDR [Mintata Mint HEDEID]<br>Union for Democracy and Progress or UDP [Naha Mint MOUKNASS]<br>Union for the Republic or UPR [Sidi Mohamed Ould Taleb AMAR]<br>Union of Progress Forces [Mohamed Ould MAOULOUD]<br>
+Alliance for Justice and Democracy/Movement for Renewal or AJD/MR [Ibrahima Moctar SARR]<br>Burst of Youth for the Nation or Sursaut or PSJN [Lalla Mint CHERIF]<br>El Insaf or Equity Party [Mohamed Melainine Ould EYIH]<br>El Islah Party [Mohamed Ould TALEBNA]<br>El Karama Party [Cheikhna Ould Mohamed Ould HAJBOU]<br>Initiative for the Resurgence of the Abolitionist Movement or IRA [Biram Dah ABEID]<br>National Democratic Alliance or AND [Yacoub Ould MOINE]<br>National Rally for Reform and Development or RNRD or TAWASSOUL [Mohamed Mahmoud Ould SEYIDI]<br>Party for Conciliation and Prosperity or HIWAR [Valle Mint Mini]<br>Popular (or People's) Progressive Alliance or APP [Messaoud Ould BOULKHEIR]<br>Rally (or Assembly) of Democratic Forces or RFD [Ahmed Ould DADDAH]<br>Sawab Party [Ahmed Salem Ould HORMA]<br>Union for Democracy and Progress or UDP [Naha Mint MOUKNASS]<br>Union of the Forces of Progress or UFP [Mohamed Ould MAOULOUD]<br><br>
 
 **International organization participation**<br>
 ABEDA, ACP, AfDB, AFESD, AMF, AMU, AU, CAEU, EITI (compliant country), FAO, G-77, IAEA, IBRD, ICAO, ICC (NGOs), ICRM, IDA, IDB, IFAD, IFC, IFRCS, IHO (pending member), ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ISO (correspondent), ITSO, ITU, ITUC (NGOs), LAS, MIGA, MIUSMA, NAM, OIC, OIF, OPCW, UN, UNCTAD, UNESCO, UNIDO, UNWTO, UPU, WCO, WHO, WIPO, WMO, WTO<br>
@@ -703,8 +703,8 @@ _major seaport(s)_: Nouadhibou, Nouakchott<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Mauritanian Armed Forces: Army, Mauritanian Navy (Marine Mauritanienne), Islamic Republic of Mauritania Air Group (Groupement Aerienne Islamique de Mauritanie, GAIM); Gendarmerie (Ministry of Defense); Ministry of Interior and Decentralization: National Guard, General Group for Road Safety (2022)<br>
-<strong>note 1:</strong> the Gendarmerie is responsible for maintaining civil order around metropolitan areas and providing law enforcement services in rural areas<br><br><strong>note 2:</strong> the National Guard performs a limited police function in keeping with its peacetime role of providing security at government facilities, to include prisons<br><br><strong>note 3:</strong> the General Group for Road Safety maintains security on roads and operates checkpoints throughout the country<br>
+Mauritanian Armed Forces: National Army, Mauritanian Navy (Marine Mauritanienne), Islamic Republic of Mauritania Air Group (Groupement Aerienne Islamique de Mauritanie, GAIM); Gendarmerie (Ministry of Defense); Ministry of Interior and Decentralization: National Police, National Guard, General Group for Road Safety (2022)<br>
+<strong>note 1:</strong> the National Police is responsible for enforcing the law and maintaining order in urban areas, while the Gendarmerie is responsible for maintaining civil order around metropolitan areas and providing law enforcement services in rural areas<br><br><strong>note 2:</strong> the National Guard performs a limited police function in keeping with its peacetime role of providing security at government facilities, to include prisons; regional authorities may call upon the National Guard to restore civil order during riots and other large-scale disturbances <br><br><strong>note 3:</strong> the General Group for Road Safety maintains security on roads and operates checkpoints throughout the country<br>
 
 **Military expenditures**<br>
 2.4% of GDP (2021 est.)<br>
@@ -745,4 +745,7 @@ _refugees (country of origin)_: 26,001 (Sahrawis) (mid-year 2021); 85,083 (Mali)
 **Trafficking in persons**<br>
 _current situation_: Mauritania is a source, transit, and destination country for men, women, and children subjected to conditions of forced labor and sex trafficking; adults and children from traditional slave castes are subjected to slavery-related practices rooted in ancestral master-slave relationships; Mauritanian boys&nbsp; are trafficked within the country by religious teachers for forced begging; Mauritanian girls, as well as girls from Mali, Senegal, The Gambia, and other West African countries, are forced into domestic servitude; Mauritanian women and girls are forced into prostitution in the country or transported to countries in the Middle East for the same purpose<br>
 _tier rating_: Tier 2 Watch List &mdash; Mauritania does not fully meet the minimum standards for the elimination of trafficking but is making significant efforts to do so and was upgraded to Tier 2 Watch List; the government convicted five hereditary slaveholders, drafted new anti-trafficking legislation and a national action plan, raised awareness on child forced begging in Quranic schools with imams and religious leaders by establishing an inter-ministerial committee, published a child protection guide, and operated a cash transfer program; however, the government rarely imprisoned convicted slaveholders and did not identify any victims; government agencies lacked resources; government officials refuse to investigate or prosecute political offenders (2020)<br>
+
+**Illicit drugs**<br>
+NA<br>
 

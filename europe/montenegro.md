@@ -178,7 +178,7 @@ _unimproved: urban_: urban: 0% of population<br>
 _unimproved: rural_: rural: 1.8% of population<br>
 _unimproved: total_: total: 0.6% of population (2020 est.)<br>
 
-**Current Health Expenditure**<br>
+**Current health expenditure**<br>
 8.3% (2019)<br>
 
 **Physicians density**<br>
@@ -375,7 +375,7 @@ _judge selection and term of office_: Supreme Court president proposed by genera
 _subordinate courts_: Administrative Courts; Appellate Court; Commercial Courts; High Courts; basic courts<br>
 
 **Political parties and leaders**<br>
-Albanian Alternative or AA [Nik DELJOSAJ]<br>Albanian Coalition (includes DP, DSCG, DUA)<br>Albanian Coalition Perspective or AKP<br>Albanian List or AL [Nik DELJOSAJ] (coalition includes AA, Forca, AKP, DSA)<br>Bosniak Party or BS [Ervin IBRAHIMOVIC]<br>Croatian Civic Initiative or HGI [Adrian VUKSANOVIC]<br>Croatian Reform Party [Marija VUCINOVIC]<br>Democratic Alliance or DEMOS [Miodrag LEKIC]<br>Democratic Front or DF [collective leadership] (coalition includes NOVA, PZP, DNP, RP)<br>Democratic League in Montenegro or DSCG [Mehmet BARDHI]<br>Democratic League of Albanians or DSA<br>Democratic Montenegro or DCG [Aleksa BECIC]<br>Democratic Party or DP [Fatmir GJEKA]<br>Democratic Party of Socialists or DPS [Milo DJUKANOVIC]<br>Democratic Party of Unity or DSJ [Nebojsa JUSKOVIC]<br>Democratic People's Party or DNP [Milan KNEZEVIC]<br>Democratic Serb Party or DSS [Dragica PEROVIC]<br>Democratic Union of Albanians or DUA [Mehmet ZENKA]<br>For the Future of Montenegro or ZBCG [Zdravko KRIVOKAPIC] (electoral coalition includes SNP and 2 alliances - DF, NP)<br>In Black and White [Dritan ABAZOVIC]<br>Liberal Party or LP [Andrija POPOVIC]<br>Movement for Changes or PZP [Nebojsa MEDOJEVIC]<br>New Democratic Power or FORCA [Nazif CUNGU]<br>New Serb Democracy or NOVA [Andrija MANDIC]<br>Party of Pensioners, Disabled, and Restitution or PUPI [Momir JOKSIMOVIC]<br>Peace is Our Nation or MNIM [Alexa BECIC] (coalition includes Democrats, DEMOS, New Left, PUPI)<br>Popular Movement or NP [Miodrag DAVIDOVIC] (coalition includes DEMOS, RP, UCG, and several minor parties)<br>Social Democratic Party or SDP [Rasko KONJEVIC]<br>Social Democrats or SD [Damir SEHOVIC]<br>Socialist People's Party or SNP [Vladimir JOKOVIC]<br>True Montenegro or PRAVA [Marko MILACIC]<br>United Montenegro or UCG [Goran DANILOVIC] (split from DEMOS)<br>United Reform Action or URA [Dritan ABAZOVIC]<br>Workers' Party or RP [Maksim VUCINIC]<br>
+Albanian Alternative or AA [Nik DELJOSAJ]<br>Albanian Coalition (includes DP, DSCG, DUA for 2020 election)<br>Albanian Coalition Perspective or AKP<br>Albanian List or AL [Nik DELJOSAJ and Nazif CUNGU] (coalition includes AA, Forca, AKP, DSA)<br>Bosniak Party or BS [Ervin IBRAHIMOVIC]<br>Croatian Civic Initiative or HGI [Adrian VUKSANOVIC]<br>Croatian Reform Party [Marija VUCINOVIC]<br>Democratic Alliance or DEMOS [Miodrag LEKIC]<br>Democratic Front or DF [collective leadership] (coalition includes NOVA, PZP, DNP, RP)<br>Democratic League in Montenegro or DSCG [Mehmet BARDHI]<br>Democratic League of Albanians or DSA<br>Democratic Montenegro or DCG [Aleksa BECIC]<br>Democratic Party or DP [Fatmir GJEKA]<br>Democratic Party of Socialists or DPS [Milo DJUKANOVIC]<br>Democratic Party of Unity or DSJ [Nebojsa JUSKOVIC]<br>Democratic People's Party or DNP [Milan KNEZEVIC]<br>Democratic Serb Party or DSS [Dragica PEROVIC]<br>Democratic Union of Albanians or DUA [Mehmet ZENKA]<br>For the Future of Montenegro or ZBCG [Zdravko KRIVOKAPIC] (electoral coalition includes SNP and 2 alliances - DF, NP)<br>In Black and White [Dritan ABAZOVIC] (electoral list)<br>Liberal Party or LP [Andrija POPOVIC]<br>Movement for Changes or PZP [Nebojsa MEDOJEVIC]<br>New Democratic Power or FORCA [Nazif CUNGU]<br>New Serb Democracy or NSD or NOVA [Andrija MANDIC]<br>Party of Pensioners, Disabled, and Restitution or PUPI [Momir JOKSIMOVIC]<br>Peace is Our Nation or MNIM [Aleksa BECIC] (coalition includes Democrats, DEMOS, New Left, PUPI)<br>Popular Movement or NP [Miodrag DAVIDOVIC] (coalition includes DEMOS, RP, UCG, and several minor parties)<br>Social Democratic Party or SDP [Rasko KONJEVIC]<br>Social Democrats or SD [Damir SEHOVIC]<br>Socialist People's Party or SNP [Vladimir JOKOVIC]<br>True Montenegro or PRAVA or PCG [Marko MILACIC]<br>United Montenegro or UCG [Goran DANILOVIC] (split from DEMOS)<br>United Reform Action or URA [Dritan ABAZOVIC]<br>Workers' Party or RP [Maksim VUCINIC]<br>
 
 **International organization participation**<br>
 CE, CEI, EAPC, EBRD, FAO, IAEA, IBRD, ICAO, ICC (NGOs), ICCt, ICRM, IDA, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO (correspondent), ITSO, ITU, ITUC (NGOs), MIGA, NATO, OAS (observer), OIF (observer), OPCW, OSCE, PCA, PFP, SELEC, UN, UNCTAD, UNESCO, UNHCR, UNIDO, UNWTO, UPU, WCO, WHO, WIPO, WMO, WTO<br>
@@ -689,7 +689,7 @@ _major seaport(s)_: Bar<br>
 ## Military and Security
 
 **Military and security forces**<br>
-the Armed Forces of the Republic of Montenegro: joint force with land, air, and naval elements (2022)<br>
+the Armed Forces of the Republic of Montenegro is a joint force with land, air, and naval elements (2022)<br>
 
 **Military expenditures**<br>
 1.6% of GDP (2021 est.)<br>
@@ -702,7 +702,7 @@ the Armed Forces of the Republic of Montenegro: joint force with land, air, and 
 approximately 2,000 active duty troops (2022)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the inventory of the Armed Forces of Montenegro is small and consists mostly of equipment inherited from the former Yugoslavia military, with a limited mix of other imported systems; since 2010, it has received small quantities of equipment from Austria, Turkey, and the US (2021)<br>
+the military's inventory is small and consists mostly of Soviet-era equipment inherited from the former Yugoslavia military, with a limited mix of other imported systems; since 2010, it has received small quantities of equipment from Austria, Turkey, and the US (2021)<br>
 
 **Military service age and obligation**<br>
 18 is the legal minimum age for voluntary military service; conscription abolished in 2006 (2021)<br>
@@ -721,7 +721,7 @@ Montenegro became a member of NATO in 2017; as of 2022, Greece and Italy provide
 **Refugees and internally displaced persons**<br>
 _refugees (country of origin)_: 24,482 (Ukraine) (as of 30 August 2022)<br>
 _stateless persons_: 458 (mid-year 2021)<br>
-<strong>note:</strong> 24,357 estimated refugee and migrant arrivals (January 2015-August 2022)<br>
+<strong>note:</strong> 24,702 estimated refugee and migrant arrivals (January 2015-September 2022)<br>
 
 **Illicit drugs**<br>
 <p>drug trafficking groups are major players in the procurement and transportation of large quantities of cocaine  destined for  European markets</p><br>

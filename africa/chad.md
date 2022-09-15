@@ -184,7 +184,7 @@ _unimproved: urban_: urban: 9.8% of population<br>
 _unimproved: rural_: rural: 48.1% of population<br>
 _unimproved: total_: total: 39.1% of population (2020 est.)<br>
 
-**Current Health Expenditure**<br>
+**Current health expenditure**<br>
 4.4% (2019)<br>
 
 **Physicians density**<br>
@@ -729,10 +729,13 @@ Boko Haram; Islamic State of Iraq and ash-Sham - West Africa (ISIS-WA)<br>
 <p>since 2003, ad hoc armed militia groups and the Sudanese military have driven hundreds of thousands of Darfur residents into Chad; Chad wishes to be a helpful mediator in resolving the Darfur conflict, and in 2010 established a joint border monitoring force with Sudan, which has helped to reduce cross-border banditry and violence; only Nigeria and Cameroon have heeded the Lake Chad Commission's admonition to ratify the delimitation treaty, which also includes the Chad-Niger and Niger-Nigeria boundaries</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 391,601 (Sudan), 124,488 (Central African Republic), 42,543 (Cameroon), 20,103 (Nigeria) (2022)<br>
+_refugees (country of origin)_: 391,601 (Sudan), 124,488 (Central African Republic), 42,543 (Cameroon), 20,218 (Nigeria) (2022)<br>
 _IDPs_: 381,289 (majority are in the east) (2022)<br>
 
 **Trafficking in persons**<br>
 _current situation_: human traffickers exploit domestic and foreign victims in Chad and Chadians abroad; most trafficking is internal; some children are sent by their parents to relatives or intermediaries to receive education, an apprenticeship, goods, or money and are then forced to work in domestic service or cattle herding; children are also forced to work in agriculture, gold mines, charcoal vending, and fishing, and those attending Koranic schools are forced into begging and street vending; girls from rural areas who search for work in larger towns are exploited in sex trafficking and domestic servitude; terrorist groups abduct children to serve as soldiers, suicide bombers, brides, and forced laborers<br>
 _tier rating_: Tier 2 Watch List &mdash; Chad does not fully meet the minimum standards for the elimination of trafficking but is making significant efforts to do so; one trafficker was convicted, the first under a 2018 law, but the government did not report investigating or prosecuting alleged traffickers, including complicit government officials; the government adopted a formal Road Map to implement its 2108 National Action Plan but did not report executing it; authorities did not identify any victims and have not drafted victim identification and referral procedures; the government continued to make no effort to raise awareness on trafficking (2020)<br>
+
+**Illicit drugs**<br>
+NA<br>
 

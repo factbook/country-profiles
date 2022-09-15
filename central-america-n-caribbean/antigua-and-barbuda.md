@@ -167,7 +167,7 @@ _unimproved: urban_: urban: NA<br>
 _unimproved: rural_: rural: NA<br>
 _unimproved: total_: total: 3.2% of population (2017 est.)<br>
 
-**Current Health Expenditure**<br>
+**Current health expenditure**<br>
 4.4% (2019)<br>
 
 **Physicians density**<br>
@@ -307,7 +307,7 @@ _residency requirement for naturalization_: 7 years<br>
 18 years of age; universal<br>
 
 **Executive branch**<br>
-_chief of state_: Queen ELIZABETH II (since 6 February 1952); represented by Governor General Rodney WILLIAMS (since 14 August 2014)<br>
+_chief of state_: King CHARLES III (since 8 September 2022); represented by Governor General Rodney WILLIAMS (since 14 August 2014)<br>
 _head of government_: Prime Minister Gaston BROWNE (since 13 June 2014)<br>
 _cabinet_: Council of Ministers appointed by the governor general on the advice of the prime minister<br>
 _elections/appointments_: the monarchy is hereditary; governor general appointed by the monarch on the advice of the prime minister; following legislative elections, the leader of the majority party or majority coalition usually appointed prime minister by the governor general<br>
@@ -348,7 +348,7 @@ fallow deer; national colors: red, white, blue, black, yellow<br>
 **National anthem**<br>
 _name_: Fair Antigua, We Salute Thee<br>
 _lyrics/music_: Novelle Hamilton RICHARDS/Walter Garnet Picart CHAMBERS<br>
-<strong>note:</strong> adopted 1967; as a Commonwealth country, in addition to the national anthem, "God Save the Queen" serves as the royal anthem (see United Kingdom)<br>
+<strong>note:</strong> adopted 1967; as a Commonwealth country, in addition to the national anthem, "God Save the King" serves as the royal anthem (see United Kingdom)<br>
 
 **National heritage**<br>
 _total World Heritage Sites_: 1 (cultural)<br>

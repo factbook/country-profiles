@@ -165,7 +165,7 @@ _unimproved: rural_: rural: 1% of population<br>
 _unimproved: total_: total: 1.1% of population (2020 est.)<br>
 <strong>note:</strong> includes Gaza Strip and the West Bank<br>
 
-**Current Health Expenditure**<br>
+**Current health expenditure**<br>
 NA<br>
 
 **Physicians density**<br>

@@ -179,7 +179,7 @@ _unimproved: urban_: urban: NA<br>
 _unimproved: rural_: rural: NA<br>
 _unimproved: total_: total: 0% of population (2020 est.)<br>
 
-**Current Health Expenditure**<br>
+**Current health expenditure**<br>
 7% (2019)<br>
 
 **Physicians density**<br>
@@ -735,10 +735,10 @@ Croatia joined NATO in 2009<br>
 <p>dispute remains with Bosnia and Herzegovina over several small sections of the boundary related to maritime access that hinders ratification of the 1999 border agreement; since the breakup of Yugoslavia in the early 1990s, Croatia and Slovenia have each claimed sovereignty over Piranski Bay and four villages, and Slovenia has objected to Croatia's claim of an exclusive economic zone in the Adriatic Sea; in 2009, however Croatia and Slovenia signed a binding international arbitration agreement to define their disputed land and maritime borders, which led to Slovenia lifting its objections to Croatia joining the EU; Slovenia continues to impose a hard border Schengen regime with Croatia, which joined the EU in 2013 but has not yet fulfilled Schengen requirements</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 17,487 (Ukraine) (as of 30 August 2022)<br>
+_refugees (country of origin)_: 17,718 (Ukraine) (as of 6 September 2022)<br>
 _stateless persons_: 2,910 (mid-year 2021)<br>
-<strong>note: </strong>745,541 estimated refugee and migrant arrivals (January 2015-June 2022)<br>
+<strong>note: </strong>748,975 estimated refugee and migrant arrivals (January 2015-August 2022)<br>
 
 **Illicit drugs**<br>
-<p>drug trafficking groups are major players in the procurement and transportation of of large quantities of cocaine  destined for  European markets</p> <p> </p><br>
+<p>drug trafficking groups are major players in the procurement and transportation of large quantities of cocaine destined for European markets</p> <p> </p><br>
 

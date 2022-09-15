@@ -137,7 +137,7 @@ _unimproved: urban_: urban: NA<br>
 _unimproved: rural_: rural: NA<br>
 _unimproved: total_: total: NA<br>
 
-**Current Health Expenditure**<br>
+**Current health expenditure**<br>
 9.9% (2016)<br>
 
 **Sanitation facility access**<br>
@@ -201,7 +201,7 @@ _coal revenues_: 0.02% of GDP (2018 est.)<br>
 <strong>note:</strong> widespread ongoing transmission of a respiratory illness caused by the novel coronavirus (COVID-19) is occurring regionally; the US Department of Homeland Security has issued instructions requiring US passengers who have been in the European Union’s Schengen Area (comprised of the following 26 European states: Austria, Belgium, Czech Republic, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Iceland, Italy, Latvia, Liechtenstein, Lithuania, Luxembourg, Malta, Netherlands, Norway, Poland, Portugal, Slovakia, Slovenia, Spain, Sweden, and Switzerland) to travel through select airports where the US Government has implemented enhanced screening procedures<br>
 
 **Total renewable water resources**<br>
-2,057.76 cubic meters (2011)<br>
+2,057.8 cubic meters (2011)<br>
 
 ## Government
 

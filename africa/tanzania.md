@@ -189,7 +189,7 @@ _unimproved: urban_: urban: 4.9% of population<br>
 _unimproved: rural_: rural: 40.6% of population<br>
 _unimproved: total_: total: 28% of population (2020 est.)<br>
 
-**Current Health Expenditure**<br>
+**Current health expenditure**<br>
 3.8% (2019)<br>
 
 **Physicians density**<br>
@@ -267,7 +267,7 @@ _female_: 4.6% (2014 est.)<br>
 ## Environment
 
 **Environment - current issues**<br>
-water polution; improper management of liquid waste; indoor air pollution caused by the burning of fuel wood or charcoal for cooking and heating is a large environmental health issue; soil degradation; deforestation; desertification; destruction of coral reefs threatens marine habitats; wildlife threatened by illegal hunting and trade, especially for ivory; loss of biodiversity; solid waste disposal<br>
+water pollution; improper management of liquid waste; indoor air pollution caused by the burning of fuel wood or charcoal for cooking and heating is a large environmental health issue; soil degradation; deforestation; desertification; destruction of coral reefs threatens marine habitats; wildlife threatened by illegal hunting and trade, especially for ivory; loss of biodiversity; solid waste disposal<br>
 
 **Environment - international agreements**<br>
 _party to_: Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Endangered Species, Hazardous Wastes, Law of the Sea, Marine Dumping-London Convention, Nuclear Test Ban, Ozone Layer Protection, Ship Pollution, Wetlands, Whaling<br>

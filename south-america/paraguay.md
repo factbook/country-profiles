@@ -184,7 +184,7 @@ _unimproved: urban_: urban: 0% of population<br>
 _unimproved: rural_: rural: 0% of population<br>
 _unimproved: total_: total: 0% of population (2020 est.)<br>
 
-**Current Health Expenditure**<br>
+**Current health expenditure**<br>
 7.2% (2019)<br>
 
 **Physicians density**<br>
@@ -712,7 +712,7 @@ approximately 15,000 active duty personnel (10,000 Army; 3,500 Navy; 1,500 Air F
 the Paraguayan military forces inventory is comprised of mostly older equipment from a variety of foreign suppliers, particularly Brazil and the US; since 2010, Paraguay has acquired small quantities of mostly second-hand military equipment from several countries, including Argentina, Brazil, Israel, Taiwan, and the US (2022)<br>
 
 **Military service age and obligation**<br>
-18 years of age for compulsory (men) and voluntary (men and women) military service; conscript service obligation is 12 months for Army, 24 months for Navy (conscripts also serve in the National Police); volunteers for the Air Force must be younger than 22 years of age with a secondary school diploma (2022)<br>
+18 years of age for compulsory (men) and voluntary (men and women) military service; conscript service obligation is 12 months for Army, 24 months for Navy; conscripts also serve in the National Police; volunteers for the Air Force must be younger than 22 years of age with a secondary school diploma (2022)<br>
 <strong>note:</strong> as of 2021, women made up about 6% of the active military<br>
 
 **Military - note**<br>
@@ -733,5 +733,5 @@ Hizballah (2022)<br>
 _refugees (country of origin)_: 5,900 (Venezuela) (2022)<br>
 
 **Illicit drugs**<br>
-<p>cannabis cultivation and the trafficking of Andean cocaine in the tri-border area shared with Argentina, and Brazil facilitates money laundering, violence and other criminal activity. </p><br>
+<p>cannabis cultivation and the trafficking of Andean cocaine in the tri-border area shared with Argentina and Brazil facilitates money laundering, violence and other criminal activity. </p><br>
 

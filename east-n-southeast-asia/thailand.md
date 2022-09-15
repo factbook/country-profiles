@@ -186,7 +186,7 @@ _unimproved: urban_: urban: 0% of population<br>
 _unimproved: rural_: rural: 0% of population<br>
 _unimproved: total_: total: 0% of population (2020 est.)<br>
 
-**Current Health Expenditure**<br>
+**Current health expenditure**<br>
 3.8% (2019)<br>
 
 **Physicians density**<br>
@@ -754,5 +754,5 @@ _stateless persons_: 554,103 (mid-year 2021) (estimate represents stateless pers
 <strong>note:</strong> Thai nationality was granted to more than 23,000 stateless persons between 2012 and 2016; in 2016, the Government of Thailand approved changes to its citizenship laws that could make 80,000 stateless persons eligible for citizenship, as part of its effort to achieve zero statelessness by 2024 (2018)<br>
 
 **Illicit drugs**<br>
-a minor producer of opium, heroin, and cannabis products; major part of the illegal drug market for the Southeast Asia region and the interconnected markets in East Asia and Oceania; transit point for illicit heroin en route to the international drug market from Burma and Laos; . &ldquo;Yaba,&rdquo; a tablet containing methamphetamine, caffeine, and other stimulants, is the most widely abused drug in Thailand<br>
+a minor producer of opium, heroin, and cannabis products; major part of the illegal drug market for the Southeast Asia region and the interconnected markets in East Asia and Oceania; transit point for illicit heroin en route to the international drug market from Burma and Laos; &ldquo;Yaba,&rdquo; a tablet containing methamphetamine, caffeine, and other stimulants, is the most widely abused drug in Thailand<br>
 

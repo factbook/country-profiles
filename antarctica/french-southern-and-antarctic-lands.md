@@ -94,7 +94,7 @@ _unimproved: urban_: urban: NA<br>
 _unimproved: rural_: rural: NA<br>
 _unimproved: total_: total: NA<br>
 
-**Current Health Expenditure**<br>
+**Current health expenditure**<br>
 NA<br>
 
 **HIV/AIDS - adult prevalence rate**<br>

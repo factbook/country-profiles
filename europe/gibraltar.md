@@ -154,7 +154,7 @@ _unimproved: urban_: urban: 0% of population<br>
 _unimproved: rural_: rural: NA<br>
 _unimproved: total_: total: 0% of population (2020)<br>
 
-**Current Health Expenditure**<br>
+**Current health expenditure**<br>
 NA<br>
 
 **Physicians density**<br>
@@ -253,7 +253,7 @@ see United Kingdom<br>
 18 years of age; universal; and British citizens with six months residence or more<br>
 
 **Executive branch**<br>
-_chief of state_: Queen ELIZABETH II (since 6 February 1952); represented by Governor Sir David STEEL (since 11 June 2020)<br>
+_chief of state_: King CHARLES III (since 8 September 2022); represented by Governor Sir David STEEL (since 11 June 2020)<br>
 _head of government_: Chief Minister Fabian PICARDO (since 9 December 2011)<br>
 _cabinet_: Council of Ministers appointed from among the 17 elected members of Parliament by the governor in consultation with the chief minister<br>
 _elections/appointments_: the monarchy is hereditary; governor appointed by the monarch; following legislative elections, the leader of the majority party or majority coalition usually appointed chief minister by the governor<br>
@@ -289,7 +289,7 @@ Barbary macaque; national colors: red, white, yellow<br>
 **National anthem**<br>
 _name_: "Gibraltar Anthem"<br>
 _lyrics/music_: Peter EMBERLEY<br>
-<strong>note:</strong> adopted 1994; serves as a local anthem; as a territory of the United Kingdom, "God Save the Queen" is official (see United Kingdom)<br>
+<strong>note:</strong> adopted 1994; serves as a local anthem; as an overseas territory of the United Kingdom, "God Save the King" is official (see United Kingdom)<br>
 
 ## Economy
 

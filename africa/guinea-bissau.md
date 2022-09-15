@@ -44,7 +44,7 @@ tropical; generally hot and humid; monsoonal-type rainy season (June to November
 mostly low-lying coastal plain with a deeply indented estuarine coastline rising to savanna in east; numerous off-shore islands including the Arquipelago Dos Bijagos consisting of 18 main islands and many small islets<br>
 
 **Elevation**<br>
-_highest point_: Dongol Ronde 277 m<br>note - the Factbook map is incorrect; it shows the wrong location of the high elevation<br>
+_highest point_: Dongol Ronde 277 m<br>
 _lowest point_: Atlantic Ocean 0 m<br>
 _mean elevation_: 70 m<br>
 
@@ -174,7 +174,7 @@ _unimproved: urban_: urban: 9.4% of population<br>
 _unimproved: rural_: rural: 40.9% of population<br>
 _unimproved: total_: total: 26.9% of population (2020 est.)<br>
 
-**Current Health Expenditure**<br>
+**Current health expenditure**<br>
 8.4% (2019)<br>
 
 **Physicians density**<br>

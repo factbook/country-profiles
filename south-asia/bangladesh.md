@@ -46,7 +46,7 @@ tropical; mild winter (October to March); hot, humid summer (March to June); hum
 mostly flat alluvial plain; hilly in southeast<br>
 
 **Elevation**<br>
-_highest point_: Mowdok Taung 1,060 m<br>note - the Factbook map is incorrect; it shows the wrong high elevation<br>
+_highest point_: Mowdok Taung 1,060 m<br>
 _lowest point_: Indian Ocean 0 m<br>
 _mean elevation_: 85 m<br>
 
@@ -179,7 +179,7 @@ _unimproved: urban_: urban: 1% of population<br>
 _unimproved: rural_: rural: 1.3% of population<br>
 _unimproved: total_: total: 1.1% of population (2020 est.)<br>
 
-**Current Health Expenditure**<br>
+**Current health expenditure**<br>
 2.5% (2019)<br>
 
 **Physicians density**<br>
@@ -318,7 +318,7 @@ _industrial_: 770 million cubic meters (2017 est.)<br>
 _agricultural_: 31.5 billion cubic meters (2017 est.)<br>
 
 **Total renewable water resources**<br>
-1,227,032,000,000 cubic meters (2017 est.)<br>
+1.227 trillion cubic meters (2017 est.)<br>
 
 ## Government
 
@@ -758,7 +758,7 @@ Harakat ul-Jihad-i-Islami/Bangladesh; Islamic State of Iraq and ash-Sham in Bang
 <p><em>Bangladesh-Burma:</em> Burmese border authorities are constructing a 200 km (124 mi) wire fence designed to deter illegal cross-border transit and tensions from the military build-up along border.<br><br><em>Bangladesh-India:</em> Bangladesh referred its maritime boundary claims with Burma and India to the International Tribunal on the Law of the Sea; Indian Prime Minister Singh's September 2011 visit to Bangladesh resulted in the signing of a Protocol to the 1974 Land Boundary Agreement between India and Bangladesh, which had called for the settlement of longstanding boundary disputes over un-demarcated areas and the exchange of territorial enclaves, but which had never been implemented.</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 936,733 (Burma) (2022) (includes an estimated 773,972 Rohingya refugees who have fled conflict since 25 August 2017)<br>
+_refugees (country of origin)_: 943,529 (Burma) (2022) (includes an estimated 773,972 Rohingya refugees who have fled conflict since 25 August 2017)<br>
 _IDPs_: 427,000 (conflict, development, human rights violations, religious persecution, natural disasters) (2021)<br>
 _stateless persons_: 889,704 (mid-year 2021)<br>
 

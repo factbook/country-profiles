@@ -182,7 +182,7 @@ _unimproved: urban_: urban: 0% of population<br>
 _unimproved: rural_: rural: 6.7% of population<br>
 _unimproved: total_: total: 2.9% of population (2020 est.)<br>
 
-**Current Health Expenditure**<br>
+**Current health expenditure**<br>
 4% (2019)<br>
 
 **Physicians density**<br>
@@ -627,8 +627,8 @@ _international_: country code - 994; the TAE fiber-optic link transits Azerbaija
 .az<br>
 
 **Internet users**<br>
-_total_: 8,579,153 (2020 est.)<br>
-_percent of population_: 85% (2020 est.)<br>
+_total_: 8,745,304 (2022 est.)<br>
+_percent of population_: 85% (2022 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 1,995,474 (2020 est.)<br>

@@ -170,7 +170,7 @@ _unimproved: urban_: urban: NA<br>
 _unimproved: rural_: rural: NA<br>
 _unimproved: total_: total: 0.9% of population (2020)<br>
 
-**Current Health Expenditure**<br>
+**Current health expenditure**<br>
 NA<br>
 
 **Physicians density**<br>
@@ -265,7 +265,7 @@ see United Kingdom<br>
 18 years of age<br>
 
 **Executive branch**<br>
-_chief of state_: Queen ELIZABETH II (since 6 February 1952)<br>
+_chief of state_: King CHARLES III (since 8 September 2022)<br>
 _head of government_: Governor Nigel Phillips (since 13 August 2022)<br>
 _cabinet_: Executive Council consists of the governor, 3 ex-officio officers, and 5 elected members of the Legislative Council<br>
 _elections/appointments_: none; the monarchy is hereditary; governor appointed by the monarch<br>
@@ -301,7 +301,7 @@ blue with the flag of the UK in the upper hoist-side quadrant and the Saint Hele
 Saint Helena plover (bird)<br>
 
 **National anthem**<br>
-<p><strong>note:</strong> as a territory of the UK, "God Save the Queen" is official (see United Kingdom)</p><br>
+<p><strong>note:</strong> as an overseas territory of the UK, "God Save the King" is official (see United Kingdom)</p><br>
 
 ## Economy
 

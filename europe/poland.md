@@ -182,7 +182,7 @@ _unimproved: urban_: urban: 0.1% of population<br>
 _unimproved: rural_: rural: 0% of population<br>
 _unimproved: total_: total: 0% of population (2020 est.)<br>
 
-**Current Health Expenditure**<br>
+**Current health expenditure**<br>
 6.5% (2019)<br>
 
 **Physicians density**<br>
@@ -723,7 +723,7 @@ Polish Armed Forces: Land Forces (Wojska Ladowe), Navy (Marynarka Wojenna), Air 
 
 **Military and security service personnel strengths**<br>
 approximately 120,000 active duty personnel (65,000 Army; 7,000 Navy; 15,000 Air Force; 3,000 Special Forces; 25,000 joint service/other; 5,000 active Territorial Defense Forces); approximately 25,000 other Territorial Defense Forces (reserves) (2022)<br>
-<strong>note: </strong>in June 2019, the Polish Government approved a plan to increase the size of the military over a period of 10 years to over 200,000 troops, including doubling the size of the Territorial Defense Forces; in 2021, it announced additional plans to increase the size of military to over 300,000 personnel<br>
+<strong>note: </strong>in June 2019, the Polish Government approved a plan to increase the size of the military over a period of 10 years to over 200,000 troops, including doubling the size of the Territorial Defense Forces; in 2021, it announced additional plans to increase the size of the military to over 300,000 personnel<br>
 
 **Military equipment inventories and acquisitions**<br>
 the inventory of the Polish Armed Forces consists of a mix of Soviet-era and more modern Western weapons systems; since 2010, the leading suppliers of armaments have included Finland, Germany, Italy, and the US (2021)<br>
@@ -735,7 +735,7 @@ the inventory of the Polish Armed Forces consists of a mix of Soviet-era and mor
 
 **Military deployments**<br>
 250 Kosovo (NATO/KFOR); up to 180 Latvia (NATO); 190 Lebanon (UNIFIL); 230 Romania (NATO) (2022)<br>
-<strong>note 1: </strong>Poland contributes about 2,500 troops to the Lithuania, Poland, and Ukraine joint military brigade (LITPOLUKRBRIG), which was established in 2014; the brigade is headquartered in Poland and is comprised of an international staff, three battalions, and specialized units<br><br><strong>note 2: </strong>in response to Russia’s 2022 invasion of Ukraine, some NATO countries, including Poland, have sent additional troops and equipment to the battlegroups deployed in NATO territory in eastern Europe<br>
+<strong>note 1: </strong>Poland contributes about 2,500 troops to the Lithuania, Poland, and Ukraine joint military brigade (LITPOLUKRBRIG), which was established in 2014; the brigade is headquartered in Poland and is comprised of an international staff, three battalions, and specialized units; units affiliated with the multinational brigade remain within the structures of the armed forces of their respective countries until the brigade is activated for participation in an international operation<br><br><strong>note 2: </strong>in response to Russia’s 2022 invasion of Ukraine, some NATO countries, including Poland, have sent additional troops and equipment to the battlegroups deployed in NATO territory in eastern Europe<br>
 
 **Military - note**<br>
 Poland joined NATO in 1999; Czechia, Hungary, and Poland were invited to begin accession talks at NATO's Madrid Summit in 1997, and in March 1999 they became the first former members of the Warsaw Pact to join the Alliance<br> <p>since 2017, Poland has hosted a US-led multi-national NATO ground force battlegroup as part of the Alliance’s Enhanced Forward Presence initiative; since 2014, Poland has also hosted NATO fighter detachments at Malbork Air Base under NATO's enhanced air policing arrangements<br><br>Poland hosts a NATO-led divisional headquarters (Multinational Division Northeast; operational in 2018), which coordinates training and preparation activities of its respective subordinate battlegroups in Poland and Lithuania; Poland also hosts a corps-level headquarters (Multinational Corps Northeast) (2022)</p><br>
@@ -752,7 +752,7 @@ Islamic State of Iraq and ash-Sham (ISIS)<br>
 <p><em>Poland-Belarus-Ukraine</em>: as a member state that forms part of the EU's external border, Poland has implemented the strict Schengen border rules to restrict illegal immigration and trade along its eastern borders with Belarus and Ukraine</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 9,870 (Russia) (2019); 1,338,339 (Ukraine) (as of 30 August 2022)<br>
+_refugees (country of origin)_: 9,870 (Russia) (2019); 1,365,810 (Ukraine) (as of 6 September 2022)<br>
 _stateless persons_: 1,389 (mid-year 2021)<br>
 
 **Illicit drugs**<br>

@@ -176,7 +176,7 @@ _unimproved: urban_: urban: 0% of population<br>
 _unimproved: rural_: rural: 11.9% of population<br>
 _unimproved: total_: total: 3.8% of population (2020 est.)<br>
 
-**Current Health Expenditure**<br>
+**Current health expenditure**<br>
 7.6% (2019)<br>
 
 **Physicians density**<br>
@@ -298,7 +298,7 @@ _industrial_: 6.2 million cubic meters (2017 est.)<br>
 _agricultural_: 446.1 million cubic meters (2017 est.)<br>
 
 **Total renewable water resources**<br>
-139.304 billion cubic meters (2017 est.)<br>
+139.3 billion cubic meters (2017 est.)<br>
 
 ## Government
 
@@ -708,7 +708,7 @@ approximately 20,000 National Police; 4,000 National Border Service; 3,000 Natio
 Panama's security forces are lightly armed; Canada, Italy and the US have provided equipment to the security forces since 2010 (2022)<br>
 
 **Military - note**<br>
-Panama created a paramilitary National Guard (Guardia Nacional de Panam&aacute;) in the 1950s from the former National Police (established 1904); the National Guard subsequently evolved into more of a military force with some police responsibilities; it seized power in a coup in 1968 and military officers ran the country until 1989; in 1983, the National Guard was renamed the Panama Defense Force (PDF); the PDF was disbanded after the 1989 US invasion and the current national police forces were formed in 1990; the armed&nbsp;forces were officially abolished under the 1994 Constitution (2022)<br>
+<p>the MPS's chief focuses are countering narcotics trafficking and border security; Panama's security forces have long been criticized for being ineffective and corrupt</p> Panama created a paramilitary National Guard (Guardia Nacional de Panamá) in the 1950s from the former National Police (established 1904); the National Guard subsequently evolved into more of a military force with some police responsibilities; it seized power in a coup in 1968 and military officers ran the country until 1989; in 1983, the National Guard was renamed the Panama Defense Force (PDF); the PDF was disbanded after the 1989 US invasion and the current national police forces were formed in 1990; the armed forces were officially abolished under the 1994 Constitution (2022)<br>
 
 ## Transnational Issues
 
@@ -719,5 +719,5 @@ Panama created a paramilitary National Guard (Guardia Nacional de Panam&aacute;)
 _refugees (country of origin)_: 80,021 (Venezuela) (economic and political crisis; includes Venezuelans who have claimed asylum or have received alternative legal stay) (2021)<br>
 
 **Illicit drugs**<br>
-<p>a prime sea and land passage for drugs, primarily cocaine from Colombia, from South America to North America and Europe; traffickers ship drugs in containers passing through the Panama Canal each year North America and Europe</p> <p> </p><br>
+<p>a prime sea and land passage for drugs, primarily cocaine from Colombia, from South America to North America and Europe; traffickers ship drugs in containers passing through the Panama Canal to  North America and Europe</p> <p> </p><br>
 

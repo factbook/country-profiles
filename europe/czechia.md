@@ -179,7 +179,7 @@ _unimproved: urban_: urban: 0.1% of population<br>
 _unimproved: rural_: rural: 0.2% of population<br>
 _unimproved: total_: total: 0.1% of population (2020 est.)<br>
 
-**Current Health Expenditure**<br>
+**Current health expenditure**<br>
 7.8% (2019)<br>
 
 **Physicians density**<br>
@@ -626,8 +626,8 @@ _international_: country code - 420; satellite earth stations - 6 (2 Intersputni
 .cz<br>
 
 **Internet users**<br>
-_total_: 8,665,265 (2020 est.)<br>
-_percent of population_: 81% (2020 est.)<br>
+_total_: 9,323,428 (July 2022 est.)<br>
+_percent of population_: 86.8% (July 2022 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 3,845,426 (2020 est.)<br>
@@ -718,7 +718,7 @@ Czechia joined NATO in 1999; Czechia, Hungary, and Poland were invited to begin 
 <p>none</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 423,374 (Ukraine) (as of 30 August 2022)<br>
+_refugees (country of origin)_: 427,696 (Ukraine) (as of 6 September 2022)<br>
 _stateless persons_: 1,498 (mid-year 2021)<br>
 
 **Illicit drugs**<br>

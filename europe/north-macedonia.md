@@ -175,7 +175,7 @@ _unimproved: urban_: urban: 0.3% of population<br>
 _unimproved: rural_: rural: 1% of population<br>
 _unimproved: total_: total: 0.6% of population (2020 est.)<br>
 
-**Current Health Expenditure**<br>
+**Current health expenditure**<br>
 7.3% (2019)<br>
 
 **Physicians density**<br>
@@ -309,7 +309,7 @@ _daylight saving time_: +1hr, begins last Sunday in March; ends last Sunday in O
 _etymology_: Skopje derives from its ancient name Scupi, the Latin designation of a classical era Greco-Roman frontier fortress town; the name may go back even further to a pre-Greek, Illyrian name<br>
 
 **Administrative divisions**<br>
-70 municipalities (opstini, singular - opstina) and 1 city* (grad); Aracinovo, Berovo, Bitola, Bogdanci, Bogovinje, Bosilovo, Brvenica, Caska, Centar Zupa, Cesinovo-Oblesevo, Cucer Sandevo, Debar, Debarca, Delcevo, Demir Hisar, Demir Kapija, Dojran, Dolneni, Gevgelija, Gostivar, Gradsko, Ilinden, Jegunovce, Karbinci, Kavadarci, Kicevo, Kocani, Konce, Kratovo, Kriva Palanka, Krivogastani, Krusevo, Kumanovo, Lipkovo, Lozovo, Makedonska Kamenica, Makedonski Brod, Mavrovo i Rostusa, Mogila, Negotino, Novaci, Novo Selo, Ohrid, Pehcevo, Petrovec, Plasnica, Prilep, Probistip, Radovis, Rankovce, Resen, Rosoman, Skopje*, Sopiste, Staro Nagoricane, Stip, Struga, Strumica, Studenicani, Sveti Nikole, Tearce, Tetovo, Valandovo, Vasilevo, Veles, Vevcani, Vinica, Vrapciste, Zelenikovo, Zelino, Zrnovci<br>
+70 municipalities (opstini, singular - opstina) and 1 city* (grad); Aracinovo, Berovo, Bitola, Bogdanci, Bogovinje, Bosilovo, Brvenica, Caska, Centar Zupa, Cesinovo-Oblesevo, Cucer Sandevo, Debar, Debarca, Delcevo, Demir Hisar, Demir Kapija, Dojran, Dolneni, Gevgelija, Gostivar, Gradsko, Ilinden, Jegunovce, Karbinci, Kavadarci, Kicevo, Kocani, Konce, Kratovo, Kriva Palanka, Krivogastani, Krusevo, Kumanovo, Lipkovo, Lozovo, Makedonska Kamenica, Makedonski Brod, Mavrovo i Rostuse, Mogila, Negotino, Novaci, Novo Selo, Ohrid, Pehcevo, Petrovec, Plasnica, Prilep, Probistip, Radovis, Rankovce, Resen, Rosoman, Skopje*, Sopiste, Staro Nagoricane, Stip, Struga, Strumica, Studenicani, Sveti Nikole, Tearce, Tetovo, Valandovo, Vasilevo, Veles, Vevcani, Vinica, Vrapciste, Zelenikovo, Zelino, Zrnovci<br>
 
 **Independence**<br>
 8 September 1991 (referendum by registered voters endorsed independence from Yugoslavia)<br>
@@ -672,7 +672,7 @@ Army of the Republic of North Macedonia (ARSM; includes a General Staff and subo
 approximately 6,000 active duty personnel (2022)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the inventory of North Macedonia's Army consists mostly of Soviet-era equipment; since 2010, it has received small amounts of equipment from Ireland and Turkey (2021)<br>
+the military's inventory consists mostly of Soviet-era equipment; since 2010, it has received small amounts of equipment from Ireland and Turkey (2021)<br>
 
 **Military service age and obligation**<br>
 18 years of age for voluntary military service; conscription abolished in 2007 (2021)<br>
@@ -694,7 +694,7 @@ Islamic State of Iraq and ash-Sham (ISIS)<br>
 
 **Refugees and internally displaced persons**<br>
 _stateless persons_: 553 (mid-year 2021)<br>
-<strong>note:</strong> 539,091 estimated refugee and migrant arrivals (January 2015-July 2022)<br>
+<strong>note:</strong> 539,408 estimated refugee and migrant arrivals (January 2015-July 2022)<br>
 
 **Illicit drugs**<br>
 major transshipment point for Southwest Asian heroin and hashish; minor transit point for South American cocaine destined for Europe; although not a financial center and most criminal activity is thought to be domestic, money laundering is a problem due to a mostly cash-based economy and weak enforcement<br>

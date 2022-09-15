@@ -177,7 +177,7 @@ _unimproved: urban_: urban: 1.1% of population<br>
 _unimproved: rural_: rural: 13% of population<br>
 _unimproved: total_: total: 7.9% of population (2020 est.)<br>
 
-**Current Health Expenditure**<br>
+**Current health expenditure**<br>
 6.4% (2019)<br>
 
 **Physicians density**<br>
@@ -243,7 +243,7 @@ _female_: 12.3% (2020 est.)<br>
 ## Environment
 
 **Environment - current issues**<br>
-heavy use of agricultural chemicals, has contaminated soil and groundwater; extensive soil erosion and declining soil fertility from poor farming methods<br>
+heavy use of agricultural chemicals has contaminated soil and groundwater; extensive soil erosion and declining soil fertility from poor farming methods<br>
 
 **Environment - international agreements**<br>
 _party to_: Air Pollution, Air Pollution-Heavy Metals, Air Pollution-Persistent Organic Pollutants, Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Endangered Species, Hazardous Wastes, Law of the Sea, Ozone Layer Protection, Ship Pollution, Wetlands<br>
@@ -361,7 +361,7 @@ _judge selection and term of office_: Supreme Court of Justice judges appointed 
 _subordinate courts_: Courts of Appeal; Court of Business Audit; municipal courts<br>
 
 **Political parties and leaders**<br>
-<p><strong>represented in Parliament:</strong> <br>Party of Action and Solidarity or PAS [Igor GROSU]<br>Electoral Bloc of Communists and Socialists or BCS [Vlad BATRINCEA, PSRM and Vladimir VORONIN, PCRM]<br>SOR Party or PS [Ilan SHOR]</p><br>
+<p>Party of Action and Solidarity or PAS [Igor GROSU]<br>Electoral Bloc of Communists and Socialists or BCS [Vlad BATRINCEA, PSRM and Vladimir VORONIN, PCRM]<br>Party of Communists of the Republic of Moldova or PCRM [Vladimir VORONIN]<br>Party of Socialists of the Republic of Moldova or PSRM [Vlad BATRINCEA]<br>SOR Party or PS [Ilan SHOR]</p><br>
 
 **International organization participation**<br>
 BSEC, CD, CE, CEI, CIS, EAEU (observer), EAPC, EBRD, FAO, GCTU, GUAM, IAEA, IBRD, ICAO, ICC (NGOs), ICCt, ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ISO (correspondent), ITU, ITUC (NGOs), MIGA, OIF, OPCW, OSCE, PFP, SELEC, UN, UNCTAD, UNESCO, UNHCR, UNIDO, Union Latina, UNMIL, UNMISS, UNOCI, UNWTO, UPU, WCO, WHO, WIPO, WMO, WTO<br>
@@ -612,7 +612,7 @@ _total subscriptions_: 3,420,383 (2020 est.)<br>
 _subscriptions per 100 inhabitants_: 85 (2020 est.)<br>
 
 **Telecommunication systems**<br>
-_general assessment_: the telecom market has been affected by a combination of high unemployment and economic difficulties which have led to constraints on consumer spending; this has resulted in telecom revenue having fallen steadily in recent years; this decline continued into 2020, with a 6.3% in revenue from the important mobile sector alone, year-on-year; Moldova&rsquo;s aspirations to join the EU have encouraged the government and regulator to adopt a range of measures to bring the country&rsquo;s telecoms sector into line with EU principles and standards; in July 2017 the Electronic Communications Act was amended to accommodate the 2009 European regulatory framework, while further amendments were adopted in December 2017 and additional changes were proposed in 2019; Moldova is also part of the Eastern Partnership group of countries, and as such has set in train a glide path to reducing roaming charges, effective between 2022 and 2026; the country&rsquo;s broadband strategy through to 2025 has been supported by the ITU and industry counterparts from Korea; the internet market is developing rapidly, and though the penetration rate is well below the average for most European countries there are many opportunities for further development; the market is highly competitive, with 101 active ISPs as of early 2021, though Moldtelecom and Starnet between them account for most connections; the number of cable broadband subscribers is increasing steadily, though fiber is now by far the strongest sector; by the end of 2020 fiber accounted for about 72.3% of all fixed broadband connections; the mobile market has also grown rapidly, and the sector accounts for the majority of total telecoms revenue; the triopoly of operators is dominated by Orange Moldova, while the launch of LTE services has opened up a new revenue growth opportunity centered on mobile broadband; the near comprehensive geographical reach of their mobile networks, market brand recognition and existing customer relationships will make for steady subscriber growth in coming years. (2021)<br>
+_general assessment_: the telecom market has been affected by a combination of high unemployment and economic difficulties which have led to constraints on consumer spending; this has resulted in telecom revenue having fallen steadily in recent years; this decline continued into 2020, with a 6.3% in revenue from the important mobile sector alone, year-on-year; Moldova&rsquo;s aspirations to join the EU have encouraged the government and regulator to adopt a range of measures to bring the country&rsquo;s telecoms sector into line with EU principles and standards; in July 2017 the Electronic Communications Act was amended to accommodate the 2009 European regulatory framework, while further amendments were adopted in December 2017 and additional changes were proposed in 2019; Moldova is also part of the Eastern Partnership group of countries, and as such has set in train a glide path to reducing roaming charges, effective between 2022 and 2026; the country&rsquo;s broadband strategy through to 2025 has been supported by the ITU and industry counterparts from Korea; the internet market is developing rapidly, and though the penetration rate is well below the average for most European countries there are many opportunities for further development; the market is highly competitive, with 101 active ISPs as of early 2021, though Moldtelecom and Starnet between them account for most connections; the number of cable broadband subscribers is increasing steadily, though fiber is now by far the strongest sector; by the end of 2020 fiber accounted for about 72.3% of all fixed broadband connections; the mobile market has also grown rapidly, and the sector accounts for the majority of total telecoms revenue; the trio poly of operators is dominated by Orange Moldova, while the launch of LTE services has opened up a new revenue growth opportunity centered on mobile broadband; the near comprehensive geographical reach of their mobile networks, market brand recognition and existing customer relationships will make for steady subscriber growth in coming years. (2022)<br>
 _domestic_: competition among mobile telephone providers has spurred subscriptions; little interest in expanding fixed-line service which is roughly 25 per 100; mobile-cellular teledensity nearly 85 per 100 persons (2020)<br>
 _international_: country code - 373; service through Romania and Russia via landline; satellite earth stations - at least 3 - Intelsat, Eutelsat, and Intersputnik<br>
 <strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress towards 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>
@@ -624,8 +624,8 @@ state-owned national radio-TV broadcaster operates 1 TV and 1 radio station; a t
 .md<br>
 
 **Internet users**<br>
-_total_: 2,025,380 (2019 est.)<br>
-_percent of population_: 76% (2019 est.)<br>
+_total_: 3,067,466 (July 2022 est.)<br>
+_percent of population_: 76.3% (July 2022 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 719,001 (2020 est.)<br>
@@ -696,7 +696,7 @@ approximately 6,500 active troops (2022)<br>
 the Moldovan military's inventory is limited and almost entirely comprised of older Russian and Soviet-era equipment; since 2000, it has received small amounts of donated material from other nations, including the US (2021)<br>
 
 **Military service age and obligation**<br>
-18-27 years of age for compulsory or voluntary military service; male registration required at age 16; 1-year service obligation (2021)<br>
+18-27 years of age for compulsory or voluntary military service; male registration required at age 16; 12-month service obligation (2021)<br>
 <strong>note:</strong> as of 2019, women made up about 20% of the military's full-time personnel<br>
 
 **Military - note**<br>
@@ -708,7 +708,7 @@ Moldova is constitutionally neutral, but has maintained a relationship with NATO
 <p><em>Moldova-Romania</em>: none identified</p> <p><em>Moldova-Ukraine</em>: Ukraine and Moldova signed an agreement officially delimiting their border in 1999, but the border has not been demarcated due to Moldova's difficulties with the break-away region of Transnistria; Moldova and Ukraine operate joint customs posts to monitor the transit of people and commodities through Moldova's break-away Transnistria region, which remains under the auspices of an Organization for Security and Cooperation in Europe-mandated peacekeeping mission comprised of Moldovan, Transnistrian, Russian, and Ukrainian troops</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 90,785 (Ukraine) (as of 30 August 2022)<br>
+_refugees (country of origin)_: 90,439 (Ukraine) (as of 6 September 2022)<br>
 _stateless persons_: 3,372 (mid-year 2021)<br>
 
 **Illicit drugs**<br>

@@ -190,7 +190,7 @@ _unimproved: urban_: urban: 4.7% of population<br>
 _unimproved: rural_: rural: 31.2% of population<br>
 _unimproved: total_: total: 17.4% of population (2020 est.)<br>
 
-**Current Health Expenditure**<br>
+**Current health expenditure**<br>
 3% (2019)<br>
 
 **Physicians density**<br>
@@ -398,7 +398,7 @@ _judge selection and term of office_: judges appointed by the president upon the
 _subordinate courts_: Court of Appeal; Federal High Court; High Court of the Federal Capital Territory; Sharia Court of Appeal of the Federal Capital Territory; Customary Court of Appeal of the Federal Capital Territory; state court system similar in structure to federal system<br>
 
 **Political parties and leaders**<br>
-Accord Party or ACC [Mohammad Lawal MALADO]<br>Africa Democratic Congress (ADC) [Ralph Okey NWOSU] <br>All Progressives Congress or APC [<u>Abdullahi ADAMU</u>]<br>All Progressives Grand Alliance or APGA [Victor Ike OYE]<br>Labor Party or LP [Alhai Abdulkadir ABDULSALAM]<br>Peoples Democratic Party or PDP [Iyourchia AYU]<br>Young Progressive Party or YPP [Olufemi FOLAYAN]<br>
+Accord Party or ACC [Mohammad Lawal MALADO]<br>Africa Democratic Congress or ADC [Ralph Okey NWOSU] <br>All Progressives Congress or APC [<u>Abdullahi ADAMU</u>]<br>All Progressives Grand Alliance or APGA [Victor Ike OYE]<br>Labor Party or LP [Julius ABURE]<br>Peoples Democratic Party or PDP [Iyourchia AYU]<br>Young Progressive Party or YPP [Bishop AMAKIRI]<br>
 
 **International organization participation**<br>
 ACP, AfDB, AU, C, CD, D-8, ECOWAS, EITI (compliant country), FAO, G-15, G-24, G-77, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IDB, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), LCBC, MIGA, MINURSO, MINUSMA, MNJTF, MONUSCO, NAM, OAS (observer), OIC, OPCW, OPEC, PCA, UN, UNAMID, UNCTAD, UNESCO, UNHCR, UNIDO, UNIFIL, UNISFA, UNITAR, UNMIL, UNMISS, UNOCI, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
@@ -731,8 +731,8 @@ _LNG terminal(s) (export)_: Bonny Island<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Nigerian Armed Forces: Army, Navy (includes Coast Guard), Air Force; Ministry of Interior: Nigeria Security and Civil Defense Corps (NSCDC, a paramilitary agency commissioned to assist the military in the management of threats to internal security, including attacks and natural disasters) (2022)<br>
-<strong>note:</strong> some states have created local security forces in response to increased violence, insecurity, and criminality that have exceeded the response capacity of government security forces<br>
+Nigerian Armed Forces: Army, Navy (includes Coast Guard), Air Force; Ministry of Interior: Nigeria Security and Civil Defense Corps (NSCDC) (2022)<br>
+<strong>note 1: </strong>the NSCDC a paramilitary agency commissioned to assist the military in the management of threats to internal security, including attacks and natural disasters<br><br><strong>note 2: </strong>some states have created local security forces in response to increased violence, insecurity, and criminality that have exceeded the response capacity of government security forces<br>
 
 **Military expenditures**<br>
 0.7% of GDP (2021 est.)<br>
@@ -745,7 +745,7 @@ Nigerian Armed Forces: Army, Navy (includes Coast Guard), Air Force; Ministry of
 information varies; approximately 135,000 active duty armed forces personnel (100,000 Army; 20,000 Navy/Coast Guard; 15,000 Air Force); approximately 80,000 Security and Civil Defense Corps (2022)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the Nigerian Armed Forces' inventory consists of a wide variety of imported weapons systems of Chinese, European, Middle Eastern, Russian (including Soviet-era), and US origin; since 2010, Nigeria has undertaken a considerable military modernization program, and has received equipment from some 20 countries with China, Russia, and the US as the leading suppliers; Nigeria is also developing a defense-industry capacity, including small arms, armored personnel vehicles, and small-scale naval production (2022)<br>
+the military's inventory consists of a wide variety of imported weapons systems of Chinese, European, Middle Eastern, Russian (including Soviet-era), and US origin; since 2010, Nigeria has undertaken a considerable military modernization program, and has received equipment from some 20 countries with China, Russia, and the US as the leading suppliers; Nigeria is also developing a defense-industry capacity, including small arms, armored personnel vehicles, and small-scale naval production (2022)<br>
 
 **Military service age and obligation**<br>
 18-26 years of age for men and women for voluntary military service; no conscription (2022)<br>

@@ -173,7 +173,7 @@ _unimproved: urban_: urban: 1% of population<br>
 _unimproved: rural_: rural: 0% of population<br>
 _unimproved: total_: total: 0.4% of population (2020 est.)<br>
 
-**Current Health Expenditure**<br>
+**Current health expenditure**<br>
 8% (2019)<br>
 
 **Physicians density**<br>
@@ -244,7 +244,7 @@ _female_: 11.7% (2019 est.)<br>
 ## Environment
 
 **Environment - current issues**<br>
-depletion of freshwater aquifers threatens water supplies; inadequate sewage treatment; coral reef bleaching<br>
+rising sea levels threaten land; depletion of freshwater aquifers threatens water supplies; inadequate sewage treatment; coral reef bleaching<br>
 
 **Environment - international agreements**<br>
 _party to_: Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Endangered Species, Hazardous Wastes, Law of the Sea, Ozone Layer Protection, Ship Pollution<br>
@@ -351,7 +351,7 @@ _judge selection and term of office_: Supreme Court judges appointed by the pres
 _subordinate courts_: High Court; Criminal, Civil, Family, Juvenile, and Drug Courts; Magistrate Courts (on each of the inhabited islands)<br>
 
 **Political parties and leaders**<br>
-<p>Adhaalath (Justice) Party or AP [Sheikh Imran ABDULLA]<br>Dhivehi Rayyithunge Party or DRP [Abdulla JABIR]<br>Maldives Development Alliance or MDA [Ahmed Shiyam MOHAMED]<br>Maldivian Democratic Party or MDP [Mohamed NASHEED]<br>Maldives Labor and Social Democratic Party or MLSDP [Ahmed SHIHAM]<br>Maldives Thirdway Democrats or MTD [Ahmed ADEEB]<br>Maumoon/Maldives Reform Movement or MRM [Maumoon Abdul GAYOOM]<br>National Democratic Congress [Yousuf Maaniu] (formed in 2020)<br>People's National Congress or PNC [Abdul Raheem ABDULLA] (formed in early 2019)<br>Progressive Party of Maldives or PPM <br>Republican (Jumhooree) Party or JP [Qasim IBRAHIM]</p> (2020)<br>
+<p>Adhaalath (Justice) Party or AP [Sheikh Imran ABDULLA]<br>Dhivehi Rayyithunge Party or DRP [Abdulla JABIR]<br>Maldives Development Alliance or MDA [Ahmed Shiyam MOHAMED]<br>Maldivian Democratic Party or MDP [Mohamed NASHEED]<br>Maldives Labor and Social Democratic Party or MLSDP [Ahmed SHIHAM]<br>Maldives Third Way Democrats or MTD [Ahmed ADEEB]<br>Maumoon/Maldives Reform Movement or MRM [Ahmed Faris MAUMOON]<br>National Democratic Congress [Yousuf Maaniu] (formed in 2020)<br>People's National Congress or PNC [Abdul Raheem ABDULLA] (formed in early 2019)<br>Progressive Party of Maldives or PPM [Abdulla YAMEEN]<br>Republican (Jumhooree) Party or JP [Qasim IBRAHIM]</p> (2020)<br>
 
 **International organization participation**<br>
 ADB, AOSIS, C, CP, FAO, G-77, IBRD, ICAO, ICC (NGOs), ICCt, IDA, IDB, IFAD, IFC, IFRCS, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ITU, MIGA, NAM, OIC, OPCW, SAARC, SACEP, UN, UNCTAD, UNESCO, UNIDO, UNWTO, UPU, WCO, WHO, WIPO, WMO, WTO<br>
@@ -646,6 +646,7 @@ _major seaport(s)_: Male<br>
 
 **Military and security forces**<br>
 the Republic of Maldives has no distinct army, navy, or air force but a single security unit called the Maldives National Defense Force (MNDF) comprised of ground forces, an air element, a coastguard, a presidential security division, and a special protection group (2022)<br>
+<strong>note:</strong> the Maldives Police Service is responsible for internal security and reports to the Ministry of Home Affairs<br>
 
 **Military expenditures**<br>
 not available<br>
@@ -660,7 +661,7 @@ India has provided most of the equipment in the MNDF's inventory (2022)<br>
 18-28 years of age for voluntary service; no conscription; 10th grade or equivalent education required; must not be a member of a political party (2022)<br>
 
 **Military - note**<br>
-the MNDF is primarily tasked to reinforce the Maldives Police Service (MPS) and ensure security in the country's exclusive economic zone (2022)<br>
+the MNDF is primarily tasked to reinforce the Maldives Police Service and ensure security in the country's exclusive economic zone (2022)<br>
 
 ## Terrorism
 
@@ -676,4 +677,7 @@ Islamic State of Iraq and ash-Sham (ISIS)<br>
 **Trafficking in persons**<br>
 _current situation_: Maldives is a destination country for men, women, and children subjected to forced labor and sex trafficking and a source country for Maldivian children subjected to human trafficking within the country; Bangladeshi and Indian migrants working both legally and illegally in the construction and service sectors face conditions of forced labor, including fraudulent recruitment, confiscation of identity and travel documents, nonpayment of wages, and debt bondage; a small number of women from Sri Lanka, Thailand, India, China, the Philippines, Bangladesh, Eastern Europe, and former Soviet states are trafficked to Maldives for sexual exploitation; some Maldivian children are transported to the capital for forced domestic service, where they may also be sexually abused<br>
 _tier rating_: Tier 2 Watch List &mdash; Maldives does not fully meet the minimum standards for the elimination of trafficking but is making significant efforts to do so; efforts included convicting two individuals for trafficking-related offenses, convening the National Anti-Trafficking Steering Committee for the first time in two years; drafting and finalizing a 2020-2022 national action plan; however, efforts to hold employers accountable for trafficking did not increase, non-payment of wages and of the retention of migrant workers&rsquo; passports continued; standard operating procedures for victim identification, protection, and referral were not adopted; insufficient resources were devoted to the national action plan; Maldives was granted a waiver per the Trafficking Victims Protection Act from an otherwise required downgrade to Tier 3 (2020)<br>
+
+**Illicit drugs**<br>
+NA<br>
 

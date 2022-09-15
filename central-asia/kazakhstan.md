@@ -185,7 +185,7 @@ _unimproved: urban_: urban: 0% of population<br>
 _unimproved: rural_: rural: 6.2% of population<br>
 _unimproved: total_: total: 2.6% of population (2020 est.)<br>
 
-**Current Health Expenditure**<br>
+**Current health expenditure**<br>
 2.8% (2019)<br>
 
 **Physicians density**<br>
@@ -327,7 +327,7 @@ _time zone note_: Kazakhstan has two time zones<br>
 _etymology_: on 20 March 2019, Kazakhstan changed the name of its capital city from Astana to Nur-Sultan in honor of its long-serving, recently retired president, Nursultan NAZARBAYEV; this was not the first time the city had its name changed; founded in 1830 as Akmoly, it became Akmolinsk in 1832, Tselinograd in 1961, Akmola (Aqmola) in 1992, and Astana in 1998<br>
 
 **Administrative divisions**<br>
-14 provinces (oblyslar, singular - oblys) and 4 cities* (qalalar, singular - qala); Almaty (Taldyqorghan), Almaty*, Aqmola (Kokshetau), Aqtobe, Atyrau, Batys Qazaqstan [West Kazakhstan] (Oral), Bayqongyr*, Mangghystau (Aqtau), Nur-Sultan*, Pavlodar, Qaraghandy, Qostanay, Qyzylorda, Shyghys Qazaqstan [East Kazakhstan] (Oskemen), Shymkent*, Soltustik Qazaqstan [North Kazakhstan] (Petropavl), Turkistan, Zhambyl (Taraz)<br>
+17 provinces (oblyslar, singular - oblys) and 4 cities* (qalalar, singular - qala); Abay (Semey), Almaty (Qonaev), Almaty*, Aqmola (Kokshetau), Aqtobe, Atyrau, Batys Qazaqstan [West Kazakhstan] (Oral), Bayqongyr*, Mangghystau (Aqtau), Nur-Sultan*, Pavlodar, Qaraghandy, Qostanay, Qyzylorda, Shyghys Qazaqstan [East Kazakhstan] (Oskemen), Shymkent*, Soltustik Qazaqstan [North Kazakhstan] (Petropavl), Turkistan, Ulytau Zhezqazghan), Zhambyl (Taraz), Zhetisu (Taldyqorghan)<br>
 <strong>note:</strong> administrative divisions have the same names as their administrative centers (exceptions have the administrative center name following in parentheses); in 1995, the Governments of Kazakhstan and Russia entered into an agreement whereby Russia would lease for a period of 20 years an area of 6,000 sq km enclosing the Baikonur space launch facilities and the city of Bayqongyr (Baikonur, formerly Leninsk); in 2004, a new agreement extended the lease to 2050<br>
 
 **Independence**<br>
@@ -638,8 +638,8 @@ the state owns nearly all radio and TV transmission facilities and operates nati
 .kz<br>
 
 **Internet users**<br>
-_total_: 16,128,818 (2020 est.)<br>
-_percent of population_: 86% (2020 est.)<br>
+_total_: 16,465,777 (July 2022 est.)<br>
+_percent of population_: 86% (July 2022 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 2,620,400 (2020 est.)<br>
@@ -738,5 +738,5 @@ _current situation_: human traffickers exploit domestic and foreign victims in K
 _tier rating_: Tier 2 Watch List —<strong> </strong>Kazakhstan does not fully meet the minimum standards for the elimination of trafficking but is making significant efforts to do so; the government adopted amendments increasing criminal penalties for traffickers, including rescinding the provision allowing alleged traffickers to pay a settlement to victims to withdraw their criminal cases; authorities developed victim identification guidelines for diplomatic staff and provided victim identification training to some labor inspectors; the government took initial steps toward improving its annual NGO funding process; the government’s efforts to identify and protect foreign victims increased; foreign victims who did not participate in criminal investigations were ineligible for services and were deported; law enforcement continued to make limited efforts to investigate, prosecute, and convict labor trafficking crimes; trafficking convictions decreased for the fourth consecutive year; NGOs reported allegations of police officers’ involvement in human trafficking, but few police or other officials suspected of complicity were investigated or prosecuted (2020)<br>
 
 **Illicit drugs**<br>
-<p>synthetic drugs dominate the local illicit drug market, smuggled from Southeast Asia, China, Russia and Europe; however the number of domestic clandestine laboratories producing synthetic drugs continues to increase.  Kazakhstan remains a transit country for Afghan heroin destined for Russia and Europe.</p><br>
+<p>synthetic drugs dominate the local illicit drug market, smuggled from Southeast Asia, China, Russia and Europe; however the number of domestic clandestine laboratories producing synthetic drugs continues to increase;  remains a transit country for Afghan heroin destined for Russia and Europe.</p><br>
 

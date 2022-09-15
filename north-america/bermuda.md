@@ -164,7 +164,7 @@ _unimproved: urban_: urban: 0.1% of population<br>
 _unimproved: rural_: rural: NA<br>
 _unimproved: total_: total: 0.1% of population (2020)<br>
 
-**Current Health Expenditure**<br>
+**Current health expenditure**<br>
 NA<br>
 
 **Physicians density**<br>
@@ -286,7 +286,7 @@ _residency requirement for naturalization_: 10 years<br>
 18 years of age; universal<br>
 
 **Executive branch**<br>
-_chief of state_: Queen ELIZABETH II (since 6 February 1952); represented by Governor Rena LALGIE (since 14 December 2020)<br>
+_chief of state_: King CHARLES III (since 8 September 2022); represented by Governor Rena LALGIE (since 14 December 2020)<br>
 _head of government_: Premier David BURT (since 19 July 2017)<br>
 _cabinet_: Cabinet nominated by the premier, appointed by the governor<br>
 _elections/appointments_: the monarchy is hereditary; governor appointed by the monarch; following legislative elections, the leader of the majority party or majority coalition usually appointed premier by the governor<br>
@@ -329,7 +329,7 @@ red lion<br>
 **National anthem**<br>
 _name_: Hail to Bermuda<br>
 _lyrics/music_: Bette JOHNS<br>
-<strong>note:</strong> serves as a local anthem; as a territory of the United Kingdom, "God Save the Queen" is official (see United Kingdom)<br>
+<strong>note:</strong> serves as a local anthem; as a territory of the United Kingdom, "God Save the King" is official (see United Kingdom)<br>
 
 **National heritage**<br>
 _total World Heritage Sites_: 1 (cultural); note - excerpted from the UK entry<br>

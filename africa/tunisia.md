@@ -176,7 +176,7 @@ _unimproved: urban_: urban: 0% of population<br>
 _unimproved: rural_: rural: 2.7% of population<br>
 _unimproved: total_: total: 0.8% of population (2020 est.)<br>
 
-**Current Health Expenditure**<br>
+**Current health expenditure**<br>
 7% (2019)<br>
 
 **Physicians density**<br>
@@ -709,4 +709,7 @@ Ansar al-Sharia in Tunisia; Islamic State of Iraq and ash-Sham (ISIS) network in
 
 **Disputes - international**<br>
 <p>none identified</p><br>
+
+**Illicit drugs**<br>
+NA<br>
 

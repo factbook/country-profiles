@@ -183,7 +183,7 @@ _unimproved: urban_: urban: 0.9% of population<br>
 _unimproved: rural_: rural: 1.3% of population<br>
 _unimproved: total_: total: 1% of population (2020 est.)<br>
 
-**Current Health Expenditure**<br>
+**Current health expenditure**<br>
 4.3% (2019)<br>
 
 **Physicians density**<br>
@@ -749,7 +749,7 @@ Islamic State of Iraq and ash-Sham (ISIS); Islamic Movement of Uzbekistan (IMU);
 <p><em>Turkey-Armenia</em>: in 2009, Swiss mediators facilitated an accord reestablishing diplomatic ties between Armenia and Turkey, but neither side has ratified the agreement and the rapprochement effort has faltered;  in early 2022, the two countries held talks twice aimed at normalizing relations, which could lead to the opening of their land border, shut since 1993; in 2000, Turkish authorities complained to UNESCO that blasting from quarries in Armenia was damaging the medieval ruins of Ani, on the other side of the Arpacay valley</p> <p><em>Turkey-Azerbaijan</em>: none identified</p> <p><em>Turkey-Bulgaria</em>: none identified</p> <p><em>Turkrey-Cyprus</em>: status of northern Cyprus question remains</p> <p><em>Turkey-Georgia</em>: none identified</p> <p><em>Turkey-Greece</em>: complex maritime, air, and territorial disputes with Greece in the Aegean Sea, including rights to explore oil and gas reserves in the eastern Mediterranean and illegal migrants transiting from Turkey into Greece</p> <p><em>Turkey-Iran</em>: none identified</p> <p><em>Turkey-Iraq</em>: Turkey has expressed concern over the status of Kurds in Iraq</p> <p><em>Turkey-Syria</em>: Turkey completed building a wall along its border with Syria in 2018 to prevent illegal border crossings and smuggling</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 3,654,257 (Syria) (2022); 145,000 (Ukraine) (as of 19 May 2022)<br>
+_refugees (country of origin)_: 3,654,866 (Syria) (2022); 145,000 (Ukraine) (as of 19 May 2022)<br>
 _IDPs_: 1.099 million (displaced from 1984-2005 because of fighting between the Kurdish PKK and Turkish military; most IDPs are Kurds from eastern and southeastern provinces; no information available on persons displaced by development projects) (2021)<br>
 _stateless persons_: 117 (2018)<br>
 

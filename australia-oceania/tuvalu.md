@@ -165,7 +165,7 @@ _unimproved: urban_: urban: 0% of population<br>
 _unimproved: rural_: rural: 0% of population<br>
 _unimproved: total_: total: 0% of population (2020 est.)<br>
 
-**Current Health Expenditure**<br>
+**Current health expenditure**<br>
 24% (2019)<br>
 
 **Physicians density**<br>
@@ -307,7 +307,7 @@ _residency requirement for naturalization_: na<br>
 18 years of age; universal<br>
 
 **Executive branch**<br>
-_chief of state_: Queen ELIZABETH II (since 6 February 1952); represented by Governor General Tofiga Vaevalu FALANI (since 29 August 2021)<br>
+_chief of state_: King CHARLES III (since 8 September 2022); represented by Governor General Tofiga Vaevalu FALANI (since 29 August 2021)<br>
 _head of government_: Prime Minister Kausea NATANO (since 19 September 2019)<br>
 _cabinet_: Cabinet appointed by the governor general on recommendation of the prime minister<br>
 _elections/appointments_: the monarchy is hereditary; governor general appointed by the monarch on recommendation of the prime minister; prime minister and deputy prime minister elected by and from members of House of Assembly following parliamentary elections<br>

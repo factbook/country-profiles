@@ -163,7 +163,7 @@ _improved: total_: total: 94.2% of population<br>
 _unimproved: total_: total: 5.9% of population (2017 est.)<br>
 <strong>note</strong>: includes data for Guernsey<br>
 
-**Current Health Expenditure**<br>
+**Current health expenditure**<br>
 NA<br>
 
 **Physicians density**<br>
@@ -268,7 +268,7 @@ see United Kingdom<br>
 16 years of age; universal<br>
 
 **Executive branch**<br>
-_chief of state_: Queen ELIZABETH II (since 6 February 1952); represented by Lieutenant Governor Sir Stephen DALTON (since 13 March 2017)<br>
+_chief of state_: King CHARLES III (since 8 September 2022); represented by Lieutenant Governor Sir Stephen DALTON (since 13 March 2017)<br>
 _head of government_: Chief Minister John LE FONDRE (since 8 June 2018); Bailiff Timothy Le COCQ (since 17 October 2019)<br>
 _cabinet_: Council of Ministers appointed individually by the states<br>
 _elections/appointments_: the monarchy is hereditary; Council of Ministers, including the chief minister, indirectly elected by the Assembly of States; lieutenant governor and bailiff appointed by the monarch<br>
@@ -305,7 +305,7 @@ Jersey cow; national colors: red, white<br>
 **National anthem**<br>
 _name_: "Isle de Siez Nous" (Island Home)<br>
 _lyrics/music_: Gerard LE FEUVRE<br>
-<strong>note:</strong> adopted 2008; serves as a local anthem; as a British Crown dependency, "God Save the Queen" is official (see United Kingdom)<br>
+<strong>note:</strong> adopted 2008; serves as a local anthem; as a British Crown dependency, "God Save the King" is official (see United Kingdom)<br>
 
 ## Economy
 

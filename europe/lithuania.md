@@ -174,7 +174,7 @@ _unimproved: urban_: urban: 0% of population<br>
 _unimproved: rural_: rural: 6.2% of population<br>
 _unimproved: total_: total: 2% of population (2020 est.)<br>
 
-**Current Health Expenditure**<br>
+**Current health expenditure**<br>
 7% (2019)<br>
 
 **Physicians density**<br>
@@ -362,7 +362,7 @@ _judge selection and term of office_: Supreme Court judges nominated by the pres
 _subordinate courts_: Court of Appeals; district and local courts<br>
 
 **Political parties and leaders**<br>
-Electoral Action of Lithuanian Poles or LLRA [Valdemar TOMASEVSKI]<br>Freedom and Justice Party or LT [Remigijus ZEMAITAITIS] (formerly Lithuanian Freedom Union (Liberals))<br>Freedom Party or LP [Ausrine ARMONAITE]<br>Homeland Union-Lithuanian Christian Democrats or TS-LKD [Gabrielius LANDSBERGIS]<br>Labor Party or DP [Andrius MAZURONIS]<br>Lithuanian Center Party or LCP [Naglis PUTEIKIS]<br>Lithuanian Farmers and Greens Union or LVZS [Ramunas KARBAUSKIS]<br>Lithuanian Green Party or LZP [Remigijus LAPINSKAS]]<br>Lithuanian Liberal Movement or LS or LRLS [Viktorija CMILYTE]<br>Lithuanian List or LL [Darius KUOLYS]<br>Lithuanian Social Democratic Labor Party or LSDDP [Gediminas KIRKILAS]<br>Lithuanian Social Democratic Party or LSDP [Gintautas PALUCKAS]<br>
+Electoral Action of Lithuanian Poles or LLRA [Valdemar TOMASEVSKI]<br>Freedom and Justice Party or LT [Remigijus ZEMAITAITIS] (formerly Lithuanian Freedom Union (Liberals))<br>Freedom Party or LP [Ausrine ARMONAITE]<br>Homeland Union-Lithuanian Christian Democrats or TS-LKD [Gabrielius LANDSBERGIS]<br>Labor Party or DP [Andrius MAZURONIS]<br>Lithuanian Center Party or LCP [Naglis PUTEIKIS]<br>Lithuanian Farmers and Greens Union or LVZS [Ramunas KARBAUSKIS]<br>Lithuanian Green Party or LZP [Remigijus LAPINSKAS]<br>Lithuanian Liberal Movement or LS or LRLS [Viktorija CMILYTE-NIELSEN]<br>Lithuanian List or LL [Darius KUOLYS]<br>Lithuanian Regions Party or LRP [Jonas PINSKUS] (formerly Lithuanian Social Democratic Labor Party or LSDDP)<br>Lithuanian Social Democratic Party or LSDP [Vilija BLINKEVICIUTE]<br>
 
 **International organization participation**<br>
 Australia Group, BA, BIS, CBSS, CD, CE, EAPC, EBRD, ECB, EIB, EU, FAO, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IFC, IFRCS, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ISO, ITU, ITUC (NGOs), MIGA, NATO, NIB, NSG, OAS (observer), OECD, OIF (observer), OPCW, OSCE, PCA, Schengen Convention, UN, UNCTAD, UNESCO, UNIDO, UNWTO, UPU, Wassenaar Arrangement, WCO, WHO, WIPO, WMO, WTO<br>
@@ -627,8 +627,8 @@ public broadcaster operates 3 channels with the third channel - a satellite chan
 .lt<br>
 
 **Internet users**<br>
-_total_: 2,319,755 (2020 est.)<br>
-_percent of population_: 83% (2020 est.)<br>
+_total_: 2,603,900 (July 2022 est.)<br>
+_percent of population_: 97.8% (July 2022 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 796,814 (2020 est.)<br>
@@ -710,7 +710,7 @@ the Lithuanian Armed Forces' inventory is mostly a mix of Western weapons system
 <strong>note 1:</strong> Lithuania conscripts up to 4,000 males each year; conscripts are selected using an automated lottery system<br><br><strong>note 2:</strong> as of 2019, women comprised about 12% of the military's full-time personnel<br>
 
 **Military deployments**<br>
-<strong>note: </strong>contributes about 350-550 troops to the Lithuania, Poland, and Ukraine joint military brigade (LITPOLUKRBRIG), which was established in 2014; the brigade is headquartered in Poland and is comprised of an international staff, three battalions, and specialized units<br>
+<strong>note: </strong>contributes about 350-550 troops to the Lithuania, Poland, and Ukraine joint military brigade (LITPOLUKRBRIG), which was established in 2014; the brigade is headquartered in Poland and is comprised of an international staff, three battalions, and specialized units; units affiliated with the multinational brigade remain within the structures of the armed forces of their respective countries until the brigade is activated for participation in an international operation<br>
 
 **Military - note**<br>
 Lithuania became a member of NATO in 2004<br> <p>since 2017, Lithuania has hosted a German-led multi-national NATO ground force battlegroup as part of the Alliance’s Enhanced Forward Presence initiative; NATO also has provided air protection for Lithuania since 2004 through its Air Policing mission; NATO member countries that possess air combat capabilities voluntarily contribute to the mission on 4-month rotations; NATO fighter aircraft are hosted at Lithuania’s Šiauliai Air Base (2022)</p><br>
@@ -721,7 +721,7 @@ Lithuania became a member of NATO in 2004<br> <p>since 2017, Lithuania has hoste
 <p><em>Lithuania-Belarus</em>: as of January 2007, ground demarcation of the boundary with Belarus was complete and mapped with final ratification documents in preparation</p> <p><em>Lithuania-Lativa</em>: boundary demarcated with Latvia was completed in 1998</p> <p><em>Lithuania-Russia</em>:<strong> </strong>Lithuania and Russia committed to demarcating their boundary in 2006 in accordance with the land and maritime treaty ratified by Russia in May 2003 and by Lithuania in 1999; Lithuania operates a simplified transit regime for Russian nationals traveling from the Kaliningrad coastal exclave into Russia, while still conforming, as a EU member state having an external border with a non-EU member, to strict Schengen border rules; in January 2018, demarcation of the Lithuania-Russia border was completed</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 63,279 (Ukraine) (as of 23 August 2022)<br>
+_refugees (country of origin)_: 64,769 (Ukraine) (as of 6 September 2022)<br>
 _stateless persons_: 2,721 (mid-year 2021)<br>
 
 **Illicit drugs**<br>

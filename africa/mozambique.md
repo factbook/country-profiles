@@ -185,7 +185,7 @@ _unimproved: urban_: urban: 6.6% of population<br>
 _unimproved: rural_: rural: 38.5% of population<br>
 _unimproved: total_: total: 26.7% of population (2020 est.)<br>
 
-**Current Health Expenditure**<br>
+**Current health expenditure**<br>
 7.8% (2019)<br>
 
 **Physicians density**<br>
@@ -734,7 +734,7 @@ the FADM's inventory consists primarily of Soviet-era equipment, although since 
 registration for military service is mandatory for all males and females at 18 years of age; 18-35 years of age for selective compulsory military service; 18 years of age for voluntary service; 2-year service obligation; women may serve as officers or enlisted (2021)<br>
 
 **Military - note**<br>
-the Government of Mozambique is facing an insurgency driven by militants with ties to the Islamic State terrorist group (ISIS-Mozambique, which was declared a Foreign Terrorist Organization by the US State Department in March 2021) in the northern province of Cabo Delgado, an area known for rich liquid natural gas deposits; insurgent attacks in the province began in 2017 and as of 2022, the fighting had left an estimated 4,000 dead and as many as 900,000 displaced; the FADM is widely assessed as lacking the training, equipment, and overall capabilities to address the insurgency; as of 2022, several countries from the Southern Africa Development Community and the European Union, as well as Rwanda and the US were providing various forms of military assistance; African countries have provided approximately 3,100 troops (2022)<br>
+the Government of Mozambique is facing an insurgency driven by militants with ties to the Islamic State of Iraq and ash-Sham (ISIS) terrorist group in the northern province of Cabo Delgado, an area known for rich liquid natural gas deposits; insurgent attacks in the province began in 2017 and as of 2022, the fighting had left an estimated 4,000 dead and as many as 900,000 displaced; the FADM is widely assessed as lacking the training, equipment, and overall capabilities to address the insurgency; as of 2022, several countries from the Southern Africa Development Community (SADC) and the European Union, as well as Rwanda and the US were providing various forms of military assistance; the SADC countries and Zambia have sent more than 3,000 military and security personnel, while the EU and the US have provided training assistance; the counterterrorism efforts of the Mozambique and allied African military and security forces have seen some success against the militants, but as of 2022 terrorist attacks had expanded into the neighboring provinces of Niassa and Nampula (2022)<br>
 
 ## Terrorism
 

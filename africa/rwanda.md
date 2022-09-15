@@ -185,7 +185,7 @@ _unimproved: urban_: urban: 7.7% of population<br>
 _unimproved: rural_: rural: 19.3% of population<br>
 _unimproved: total_: total: 17.3% of population (2020 est.)<br>
 
-**Current Health Expenditure**<br>
+**Current health expenditure**<br>
 6.4% (2019)<br>
 
 **Physicians density**<br>
@@ -702,7 +702,7 @@ the RDF's inventory includes mostly Russian, Soviet-era, and older Western - lar
 2,450 (plus about 500 police) Central African Republic (approximately 1,700 for MINUSCA; an additional 750 troops sent separately under a bilateral agreement with CAR in August, 2021); up to 2,000 Mozambique (deployed mid-2021 under a bi-lateral agreement to assist with combating insurgency; includes both military and police forces); 2,600 (plus about 400 police) South Sudan (UNMISS) (2022)<br>
 
 **Military - note**<br>
-<p>the Rwandan Armed Forces (FAR) were established following independence in 1962; after the 1990-1994 civil war and genocide, the victorious Tutsi-dominated Rwandan Patriotic Front's military wing, the Rwandan Patriotic Army (RPA), became the country's military force; the RPA participated in the First (1996-1997) and Second (1998-2003) Congolese Wars; the RPA was renamed the Rwanda Defense Force (RDF) in 2003, by which time it had assumed a more national character with the inclusion of many former Hutu officers as well as newly recruited soldiers<br><br>the RDF is widely regarded as one of Africa’s best trained and most capable and professional military forces; as of 2022, over 5,000 RDF personnel were deployed on missions in Africa</p><br>
+<p>the Rwandan Armed Forces (FAR) were established following independence in 1962; after the 1990-1994 civil war and genocide, the victorious Tutsi-dominated Rwandan Patriotic Front's military wing, the Rwandan Patriotic Army (RPA), became the country's military force; the RPA participated in the First (1996-1997) and Second (1998-2003) Congolese Wars; the RPA was renamed the Rwanda Defense Force (RDF) in 2003, by which time it had assumed a more national character with the inclusion of many former Hutu officers as well as newly recruited soldiers<br><br>the RDF is widely regarded as one of Africa’s best trained and most capable and professional military forces; as of 2022, over 7,000 RDF and police personnel were deployed on missions in Africa</p><br>
 
 ## Transnational Issues
 
@@ -710,6 +710,6 @@ the RDF's inventory includes mostly Russian, Soviet-era, and older Western - lar
 <p><em>Rwanda-Burundi: </em>Burundi's Ngozi province and Rwanda's Butare province dispute the two-kilometer-square hilly farmed area of Sabanerwa in the Rukurazi Valley where the Akanyaru/Kanyaru River shifted its course southward after heavy rains in 1965 around Kibinga Hill in Rwanda's Butare Province<br><em><br>Rwanda-Democratic Republic of Congo (DRC): </em>the 2005 DRC and Rwanda border verification mechanism to stem rebel actions on both sides of the border remains in place<em><br><br>Rwanda-Uganda:</em> a joint technical committee established in 2007 to demarcate sections of the border<br><br><br></p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 76,530 (Democratic Republic of the Congo) 48,354 (Burundi) (2022)<br>
+_refugees (country of origin)_: 76,530 (Democratic Republic of the Congo) 48,352 (Burundi) (2022)<br>
 _stateless persons_: 9,500 (mid-year 2021)<br>
 

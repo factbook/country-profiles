@@ -174,7 +174,7 @@ _unimproved: urban_: urban: 11.3% of population<br>
 _unimproved: rural_: rural: 24.2% of population<br>
 _unimproved: total_: total: 21.6% of population (2020 est.)<br>
 
-**Current Health Expenditure**<br>
+**Current health expenditure**<br>
 6% (2019)<br>
 
 **Sanitation facility access**<br>

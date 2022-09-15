@@ -177,7 +177,7 @@ _unimproved: urban_: urban: 0% of population<br>
 _unimproved: rural_: rural: 0% of population<br>
 _unimproved: total_: total: 0% of population (2020 est.)<br>
 
-**Current Health Expenditure**<br>
+**Current health expenditure**<br>
 10% (2019)<br>
 
 **Physicians density**<br>
@@ -721,6 +721,6 @@ Islamic State of Iraq and ash-Sham (ISIS); Islamic Revolutionary Guard Corps/Qod
 <p>Iceland, the UK, and Ireland dispute Denmark's claim that the Faroe Islands' continental shelf extends beyond 200 nm; sovereignty dispute with Canada over Hans Island in the Kennedy Channel between Ellesmere Island and Greenland; Denmark (Greenland) and Norway have made submissions to the Commission on the Limits of the Continental Shelf (CLCS) and Russia is collecting additional data to augment its 2001 CLCS submission</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 19,833 (Syria), 5,634 (Eritrea) (mid-year 2021); 33,396 (Ukraine) (as of 21 August 2022)<br>
+_refugees (country of origin)_: 19,833 (Syria), 5,634 (Eritrea) (mid-year 2021); 36,866 (Ukraine) (as of 6 September 2022)<br>
 _stateless persons_: 11,608 (mid-year 2021)<br>
 

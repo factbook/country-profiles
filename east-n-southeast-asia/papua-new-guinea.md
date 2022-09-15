@@ -179,7 +179,7 @@ _unimproved: urban_: urban: 13.8% of population<br>
 _unimproved: rural_: rural: 58.5% of population<br>
 _unimproved: total_: total: 52.5% of population (2020 est.)<br>
 
-**Current Health Expenditure**<br>
+**Current health expenditure**<br>
 2.3% (2019)<br>
 
 **Physicians density**<br>
@@ -349,7 +349,7 @@ _residency requirement for naturalization_: 8 years<br>
 18 years of age; universal<br>
 
 **Executive branch**<br>
-_chief of state_: Queen ELIZABETH II (since 6 February 1952); represented by Governor General Grand Chief Sir Bob DADAE (since 28 February 2017)<br>
+_chief of state_: King CHARLES III (since 8 September 2022); represented by Governor General Grand Chief Sir Bob DADAE (since 28 February 2017)<br>
 _head of government_: Prime Minister James MARAPE (since 30 May 2019); Deputy Prime Minister Sam BASIL (since 20 December 2020)<br>
 _cabinet_: National Executive Council appointed by the governor general on the recommendation of the prime minister<br>
 _elections/appointments_: the monarchy is hereditary; governor general nominated by the National Parliament and appointed by the chief of state; following legislative elections, the leader of the majority party or majority coalition usually appointed prime minister by the governor general pending the outcome of a National Parliament vote<br>

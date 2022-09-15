@@ -172,7 +172,7 @@ _unimproved: urban_: urban: 5% of population<br>
 _unimproved: rural_: rural: 34.1% of population<br>
 _unimproved: total_: total: 26.9% of population (2020 est.)<br>
 
-**Current Health Expenditure**<br>
+**Current health expenditure**<br>
 4.8% (2019)<br>
 
 **Physicians density**<br>
@@ -237,7 +237,7 @@ _female_: 1.6% (2013)<br>
 ## Environment
 
 **Environment - current issues**<br>
-deforestation; soil erosion; many of the surrounding coral reefs are dead or dying; effects of climate change and rising sea levels<br>
+deforestation; soil erosion; many of the surrounding coral reefs are dead or dying, exhibiting the effects of climate change and rising sea levels<br>
 
 **Environment - international agreements**<br>
 _party to_: Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Desertification, Endangered Species, Environmental Modification, Law of the Sea, Marine Dumping-London Convention, Marine Life Conservation, Ozone Layer Protection, Ship Pollution, Whaling<br>
@@ -328,7 +328,7 @@ _residency requirement for naturalization_: 7 years<br>
 21 years of age; universal<br>
 
 **Executive branch**<br>
-_chief of state_: Queen ELIZABETH II (since 6 February 1952); represented by Governor General David VUNAGI (since&nbsp;8 July 2019)<br>
+_chief of state_: King CHARLES III (since 8 September 2022); represented by Governor General David VUNAGI (since 8 July 2019)<br>
 _head of government_: Prime Minister Manasseh SOGAVARE (since 24 April 2019)<br>
 _cabinet_: Cabinet appointed by the governor general on the advice of the prime minister<br>
 _elections/appointments_: the monarchy is hereditary; governor general appointed by the monarch on the advice of the National Parliament for up to 5 years (eligible for a second term); following legislative elections, the leader of the majority party or majority coalition usually elected prime minister by the National Parliament; deputy prime minister appointed by the governor general on the advice of the prime minister from among members of the National Parliament<br>

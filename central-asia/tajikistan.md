@@ -181,7 +181,7 @@ _unimproved: urban_: urban: 3.5% of population<br>
 _unimproved: rural_: rural: 20.1% of population<br>
 _unimproved: total_: total: 15.6% of population (2020 est.)<br>
 
-**Current Health Expenditure**<br>
+**Current health expenditure**<br>
 7.1% (2019)<br>
 
 **Physicians density**<br>
@@ -626,8 +626,8 @@ state-run TV broadcasters transmit nationally on 9 TV and 10 radio stations, and
 .tj<br>
 
 **Internet users**<br>
-_total_: 2,050,625 (2019 est.)<br>
-_percent of population_: 22% (2019 est.)<br>
+_total_: 3,013,256 (July 2022 est.)<br>
+_percent of population_: 30.4% (July 2022 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 6,000 (2020 est.)<br>

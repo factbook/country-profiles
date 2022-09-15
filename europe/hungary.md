@@ -178,7 +178,7 @@ _unimproved: urban_: urban: 0% of population<br>
 _unimproved: rural_: rural: 0% of population<br>
 _unimproved: total_: total: 0% of population (2020 est.)<br>
 
-**Current Health Expenditure**<br>
+**Current health expenditure**<br>
 6.4% (2019)<br>
 
 **Physicians density**<br>
@@ -638,8 +638,8 @@ mixed system of state-supported public service broadcast media and private broad
 .hu<br>
 
 **Internet users**<br>
-_total_: 8,287,626 (2020 est.)<br>
-_percent of population_: 85% (2020 est.)<br>
+_total_: 8,588,776 (July 2022 est.)<br>
+_percent of population_: 89.3% (July 2022 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 3,265,308 (2020 est.)<br>
@@ -740,7 +740,7 @@ Islamic State of Iraq and ash-Sham (ISIS)<br>
 <p>bilateral government, legal, technical and economic working group negotiations continue in 2006 with Slovakia over Hungary's failure to complete its portion of the Gabcikovo-Nagymaros hydroelectric dam project along the Danube; as a member state that forms part of the EU's external border, Hungary has implemented the strict Schengen border rules</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 28,640 (Ukraine) (as of 30 August 2022)<br>
+_refugees (country of origin)_: 29,170 (Ukraine) (as of 6 September 2022)<br>
 _stateless persons_: 130 (mid-year 2021)<br>
 <strong>note:</strong> 432,744 estimated refugee and migrant arrivals (January 2015-December 2018); Hungary is predominantly a transit country and hosts 137 migrants and asylum seekers as of the end of June 2018; 1,626 migrant arrivals in 2017<br>
 

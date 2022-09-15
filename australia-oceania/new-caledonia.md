@@ -165,7 +165,7 @@ _unimproved: urban_: urban: NA<br>
 _unimproved: rural_: rural: NA<br>
 _unimproved: total_: total: 0.7% of population (2020 est.)<br>
 
-**Current Health Expenditure**<br>
+**Current health expenditure**<br>
 NA<br>
 
 **Physicians density**<br>
@@ -294,7 +294,7 @@ _election results_: <em>2021:</em> Louis MAPOU elected president by Territorial 
 **Legislative branch**<br>
 _description_: unicameral Territorial Congress or Congrès du Territoire (54 seats; members indirectly selected proportionally by the partisan makeup of the 3 Provincial Assemblies or Assemblés Provinciales; members of the 3 Provincial Assemblies directly elected by party-list proportional representation vote; members serve 5-year terms); note - the Customary Senate is the assembly of the various traditional councils of the Kanaks, the indigenous population, which rules on laws affecting the indigenous population<br>New Caledonia indirectly elects 2 members to the French Senate by an electoral colleges for a 6-year term with one seat renewed every 3 years and directly elects 2 members to the French National Assembly by absolute majority vote in 2 rounds if needed for a 5-year term<br>
 _elections_: <br>Territorial Congress - last held on 12 May 2019 (next to be held in May 2024)<br>French Senate - election last held in September 2019 (next to be held not later than 2021)<br>French National Assembly - election last held on 11 and 18 June 2017 (next to be held by June 2022)<br>
-_election results_: <p>Territorial Congress - percent of vote by party - N/A; seats by party -Future With Confidence 18, UNI 9, UC 9, CE 7, FLNKS 6, Oceanic Awakening 3, PT 1, LKS 1 (Anti-Independence 28, Pro-Independence 26); composition - NA<br>representation in French Senate - NA<br>representation in French National Assembly - NA</p> <br>French Senate - percent of vote by party - NA; seats by party - UMP 2<br><br>French National Assembly - percent of vote by party - NA; seats by party - CE 2<br>
+_election results_: <p>Territorial Congress - percent of vote by party - N/A; seats by party - Future With Confidence 18, UNI 9, UC 9, CE 7, FLNKS 6, Oceanic Awakening 3, PT 1, LKS 1 (Anti-Independence 28, Pro-Independence 26); composition - NA<br>representation in French Senate - NA<br>representation in French National Assembly - NA</p> <br>French Senate - percent of vote by party - NA; seats by party - UMP 2<br><br>French National Assembly - percent of vote by party - NA; seats by party - CE 2<br>
 
 **Judicial branch**<br>
 _highest courts_: Court of Appeal in Noumea or Cour d'Appel; organized into civil, commercial, social, and pre-trial investigation chambers; court bench normally includes the court president and 2 counselors); Administrative Court (number of judges NA); note - final appeals beyond the Court of Appeal are referred to the Court of Cassation or Cour de Cassation (in Paris); final appeals beyond the Administrative Court are referred to the Administrative Court of Appeal (in Paris)<br>
@@ -302,7 +302,7 @@ _judge selection and term of office_: judge appointment and tenure based on Fran
 _subordinate courts_: Courts of First Instance include: civil, juvenile, commercial, labor, police, criminal, assizes, and also a pre-trial investigation chamber; Joint Commerce Tribunal; administrative courts<br>
 
 **Political parties and leaders**<br>
-Build Our Rainbow Nation<br>Caledonia Together or CE [Philippe GERMAIN]<br>Caledonian Union or UC [Daniel GOA]<br>Future Together (l'Avenir Ensemble) [Harold MARTIN]<br>Kanak Socialist Front for National Liberation or FLNKS (alliance includes PALIKA, UNI, UC, and UPM) [Victor TUTUGORO]<br>Labor Party (Parti Travailliste) or PT [Louis Kotra UREGEI]<br>National Union for Independence (Union Nationale pour l'Independance) or UNI<br>Party of Kanak Liberation (Parti de Liberation Kanak) or PALIKA [Paul NEAOUTYINE]<br>Socialist Kanak Liberation or LKS [Nidoish NAISSELINE]<br>The Republicans (formerly The Rally or UMP) [interim leader Thierry SANTA]<br>Union for Caledonia in France<br>
+Build Our Rainbow Nation<br>Caledonia Together or CE [Philippe GERMAIN]<br>Caledonian Union or UC [Daniel GOA]<br>Future Together (l'Avenir Ensemble) [Harold MARTIN] (dissolved 2017)<br>Kanak Socialist Front for National Liberation or FLNKS (alliance includes PALIKA, UNI, UC, and UPM) [Victor TUTUGORO]<br>Labor Party (Parti Travailliste) or PT [Louis Kotra UREGEI]<br>National Union for Independence (Union Nationale pour l'Independance) or UNI [Louis MAPOU]<br>Party of Kanak Liberation (Parti de Liberation Kanak) or PALIKA [Paul NEAOUTYINE]<br>Socialist Kanak Liberation or LKS [Nidoish NAISSELINE]<br>The Republicans (formerly The Rally or UMP) [Christian JACOB]<br>Union for Caledonia in France<br>
 
 **International organization participation**<br>
 ITUC (NGOs), PIF (associate member), SPC, UPU, WFTU (NGOs), WMO<br>

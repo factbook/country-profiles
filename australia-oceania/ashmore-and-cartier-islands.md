@@ -104,7 +104,7 @@ _unimproved: urban_: urban: NA<br>
 _unimproved: rural_: rural: NA<br>
 _unimproved: total_: total: NA<br>
 
-**Current Health Expenditure**<br>
+**Current health expenditure**<br>
 NA<br>
 
 **HIV/AIDS - adult prevalence rate**<br>
@@ -177,4 +177,7 @@ defense is the responsibility of Australia; periodic visits by the Royal Austral
 
 **Disputes - international**<br>
 <p><em>Australia-Indonesia:</em>  Australia has closed parts of the Ashmore and Cartier reserve to Indonesian traditional fishing; Indonesian groups challenge Australia's claim to Ashmore Reef</p><br>
+
+**Illicit drugs**<br>
+NA<br>
 

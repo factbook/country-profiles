@@ -145,7 +145,7 @@ _unimproved: urban_: urban: NA<br>
 _unimproved: rural_: rural: NA<br>
 _unimproved: total_: total: NA<br>
 
-**Current Health Expenditure**<br>
+**Current health expenditure**<br>
 NA<br>
 
 **Physicians density**<br>
@@ -238,7 +238,7 @@ see Australia<br>
 18 years of age; universal<br>
 
 **Executive branch**<br>
-_chief of state_: Queen ELIZABETH II (since 6 February 1952); represented by Governor General of the Commonwealth of Australia General David HURLEY (since 1 July 2019)<br>
+_chief of state_: King CHARLES III (since 8 September 2022); represented by Governor General of the Commonwealth of Australia General David HURLEY (since 1 July 2019)<br>
 _head of government_: Administrator Eric HUTCHINSON (since 1 April 2017)<br>
 _cabinet_: Executive Council consists of 4 Legislative Assembly members<br>
 _elections/appointments_: the monarchy is hereditary; governor general appointed by the monarch; administrator appointed by the governor general of Australia for a 2-year term and represents the monarch and Australia<br>

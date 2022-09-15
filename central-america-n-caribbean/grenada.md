@@ -162,7 +162,7 @@ NA<br>
 _improved: total_: total: 96.8% of population<br>
 _unimproved: total_: total: 3.2% of population (2017 est.)<br>
 
-**Current Health Expenditure**<br>
+**Current health expenditure**<br>
 5% (2019)<br>
 
 **Physicians density**<br>
@@ -306,7 +306,7 @@ _residency requirement for naturalization_: 7 years for persons from a non-Carib
 18 years of age; universal<br>
 
 **Executive branch**<br>
-_chief of state_: Queen ELIZABETH II (since 6 February 1952); represented by Governor General Cecile LA GRENADE (since 7 May 2013)<br>
+_chief of state_: King CHARLES III (since 8 September 2022); represented by Governor General Cecile LA GRENADE (since 7 May 2013)<br>
 _head of government_: Prime Minister Keith MITCHELL (since 20 February 2013)<br>
 _cabinet_: Cabinet appointed by the governor general on the advice of the prime minister<br>
 _elections/appointments_: the monarchy is hereditary; governor general appointed by the monarch; following legislative elections, the leader of the majority party or majority coalition usually appointed prime minister by the governor general<br>

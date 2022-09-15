@@ -174,7 +174,7 @@ _unimproved: urban_: urban: 0.1% of population<br>
 _unimproved: rural_: rural: 1.4% of population<br>
 _unimproved: total_: total: 0.5% of population (2020 est.)<br>
 
-**Current Health Expenditure**<br>
+**Current health expenditure**<br>
 6.6% (2019)<br>
 
 **Physicians density**<br>
@@ -623,8 +623,8 @@ several national and regional commercial TV stations are foreign-owned, 2 nation
 .lv<br>
 
 **Internet users**<br>
-_total_: 1,691,400 (2020 est.)<br>
-_percent of population_: 89% (2020 est.)<br>
+_total_: 1,663,739 (July 2022 est.)<br>
+_percent of population_: 89.8% (July 2022 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 490,569 (2020 est.)<br>
@@ -716,7 +716,7 @@ Latvia became a member of NATO in 2004 <br><br>since 2017, Latvia has hosted a C
 <p><em>Latvia-Belarus</em>: Belarus and Latvia signed joint demarcation map in September 2008</p> <p><em>Latvia-Estonia</em>: demarcation reportedly completed in 1998</p> <p><em>Latvia-Lithuania</em>: boundary demarcation was completed by the end of 1998; the Latvian parliament has not ratified its 1998 maritime boundary treaty with Lithuania, primarily due to concerns over oil exploration rights</p> <p><em>Latvia-Russia</em>: Russia demands better Latvian treatment of ethnic Russians in Latvia; in March 2007, Latvia and Russia signed a border treaty, which includes Latvia withdrawing claims to a district now in Russia that was part of Latvia before WWII; the permanent demarcation of the boundary between Latvia and Russia was completed and came into force in April 2018; as a member state that forms part of the EU's external border, Latvia has implemented the strict Schengen border rules with Russia</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 36,912 (Ukraine) (as of 22 August 2022)<br>
+_refugees (country of origin)_: 37,601 (Ukraine) (as of 6 September 2022)<br>
 _stateless persons_: 209,168 (mid-year 2021); note - individuals who were Latvian citizens prior to the 1940 Soviet occupation and their descendants were recognized as Latvian citizens when the country's independence was restored in 1991; citizens of the former Soviet Union residing in Latvia who have neither Latvian nor other citizenship are considered non-citizens (officially there is no statelessness in Latvia) and are entitled to non-citizen passports; children born after Latvian independence to stateless parents are entitled to Latvian citizenship upon their parents' request; non-citizens cannot vote or hold certain government jobs and are exempt from military service but can travel visa-free in the EU under the Schengen accord like Latvian citizens; non-citizens can obtain naturalization if they have been permanent residents of Latvia for at least five years, pass tests in Latvian language and history, and know the words of the Latvian national anthem<br>
 
 **Illicit drugs**<br>

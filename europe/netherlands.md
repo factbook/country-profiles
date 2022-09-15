@@ -181,7 +181,7 @@ _unimproved: urban_: urban: 0% of population<br>
 _unimproved: rural_: rural: 0% of population<br>
 _unimproved: total_: total: 0% of population (2020 est.)<br>
 
-**Current Health Expenditure**<br>
+**Current health expenditure**<br>
 10.1% (2019)<br>
 
 **Physicians density**<br>
@@ -358,7 +358,7 @@ _elections/appointments_: the monarchy is hereditary; following Second Chamber e
 **Legislative branch**<br>
 _description_: bicameral States General or Staten Generaal consists of:<br>Senate or Eerste Kamer (75 seats; members indirectly elected by the country's 12 provincial council members by proportional representation vote; members serve 4-year terms)<br>House of Representatives or Tweede Kamer (150 seats; members directly elected in multi-seat constituencies by open-list proportional representation vote to serve up to 4-year terms)<br>
 _elections_: <br>First Chamber - last held on 27 May 2019 (next to be held in May 2023)<br>Second Chamber - last held on 15-17 March 2021 (next to be held on 31 March 2025)<br>
-_election results_: <br>First Chamber - percent of vote by party - VVD 16%, CDA 12%, GL 10.7%, D66 9.3%, PvdA 8%, PVV 6.7%, SP 5.3%, CU 5.3%, PvdD 4%, SGP 2.7%, 50 Plus 2.7%, FvD 1.3%, other 16%; seats by party - VVD 12, CDA 9, GL 8, D66 7, PvdA 6, PVV 5, SP 4, CU 4, PvdD 3, SGP 2, 50 Plus 2, FvD 1, other 12; composition (as of September 2021) - men 52, women 23, percent of women 30.7%<br>Second Chamber - percent of vote by party - VVD 21.9%, D66 15%, PVV 10.8%, CDA 9.5%, SP 9.1%, PvdA 5.7%, GL 5.2%, FvD 5%, PvdD 3.8%, CU 3.4%, other 13.7%; seats by party - VVD 34, D66 24, PVV 17, CDA 15, GL 8, FvD 8, PvdD 6, PvdA 9, SP 9, CU 5, Denk 3, SGP 3, 50 Plus 1, other 6; composition (as of September 2021) - men 89, women 61, percent of women 40.7%; note - total States General percent of women 37.3%<br>
+_election results_: <br>First Chamber - percent of vote by party - VVD 16%, CDA 12%, GL 10.7%, D66 9.3%, PvdA 8%, PVV 6.7%, SP 5.3%, CU 5.3%, PvdD 4%, SGP 2.7%, 50Plus 2.7%, FvD 1.3%, other 16%; seats by party - VVD 12, CDA 9, GL 8, D66 7, PvdA 6, PVV 5, SP 4, CU 4, PvdD 3, SGP 2, 50Plus 2, FvD 1, other 12; composition (as of September 2021) - men 52, women 23, percent of women 30.7%<br>Second Chamber - percent of vote by party - VVD 21.9%, D66 15%, PVV 10.8%, CDA 9.5%, SP 9.1%, PvdA 5.7%, GL 5.2%, FvD 5%, PvdD 3.8%, CU 3.4%, other 13.7%; seats by party - VVD 34, D66 24, PVV 17, CDA 15, GL 8, FvD 8, PvdD 6, PvdA 9, SP 9, CU 5, Denk 3, SGP 3, 50 Plus 1, other 6; composition (as of September 2021) - men 89, women 61, percent of women 40.7%; note - total States General percent of women 37.3%<br>
 
 **Judicial branch**<br>
 _highest courts_: Supreme Court or Hoge Raad (consists of 41 judges: the president, 6 vice presidents, 31 justices or raadsheren, and 3 justices in exceptional service, referred to as buitengewone dienst); the court is divided into criminal, civil, tax, and ombuds chambers<br>
@@ -366,7 +366,7 @@ _judge selection and term of office_: justices appointed by the monarch from a l
 _subordinate courts_: courts of appeal; district courts, each with up to 5 subdistrict courts; Netherlands Commercial Court<br>
 
 **Political parties and leaders**<br>
-Christian Democratic Appeal or CDA [Wopke HOEKSTRA]<br>Christian Union or CU [Gert-Jan SEGERS]<br>Democrats 66 or D66 [Sigrid KAAG]<br>Denk [Farid AZARKAN]<br>50 Plus [Martin van ROOIJEN]<br>Forum for Democracy or FvD [Thierry BAUDET]<br>Green Left or GL [Jesse KLAVER]<br>Labor Party or PvdA [Attje KUIKEN]<br>Party for Freedom or PVV [Geert WILDERS]<br>Party for the Animals or PvdD [Esther OUWENHAND]<br>People's Party for Freedom and Democracy or VVD [Mark RUTTE]<br>Reformed Political Party or SGP [Kees VAN DER STAAIJ]<br>Socialist Party or SP [Lilian MARIJNISSEN]<br>
+Christian Democratic Appeal or CDA [Wopke HOEKSTRA]<br>Christian Union or CU [Gert-Jan SEGERS]<br>Democrats 66 or D66 [Sigrid KAAG]<br>Denk [Farid AZARKAN]<br>50Plus [Martin van ROOIJEN]<br>Forum for Democracy or FvD [Thierry BAUDET]<br>Green Left (GroenLinks) or GL [Jesse KLAVER]<br>Labor Party or PvdA (vacant)<br>Party for Freedom or PVV [Geert WILDERS]<br>Party for the Animals or PvdD [Esther OUWENHAND]<br>People's Party for Freedom and Democracy or VVD [Mark RUTTE]<br>Reformed Political Party or SGP [Kees VAN DER STAAIJ]<br>Socialist Party or SP [Lilian MARIJNISSEN]<br>
 
 **International organization participation**<br>
 ADB (nonregional member), AfDB (nonregional member), Arctic Council (observer), Australia Group, Benelux, BIS, CBSS (observer), CD, CE, CERN, EAPC, EBRD, ECB, EIB, EITI (implementing country), EMU, ESA, EU, FAO, FATF, G-10, IADB, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IEA, IFAD, IFC, IFRCS, IGAD (partners), IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, MINUSMA, NATO, NEA, NSG, OAS (observer), OECD, OPCW, OSCE, Pacific Alliance (observer), Paris Club, PCA, Schengen Convention, SELEC (observer), UN, UNCTAD, UNDOF, UNESCO, UNHCR, UNIDO, UNMISS, UNRWA, UN Security Council (temporary), UNTSO, UNWTO, UPU, Wassenaar Arrangement, WCO, WHO, WIPO, WMO, WTO, ZC<br>
@@ -695,7 +695,7 @@ _river port(s)_: Amsterdam (Nordsee Kanaal); Moerdijk (Hollands Diep River); Rot
 ## Military and Security
 
 **Military and security forces**<br>
-Royal Netherlands Army, Royal Netherlands Navy (includes Naval Air Service and Marine Corps), Royal Netherlands Air Force, Royal Netherlands Marechaussee (Military Constabulary) (2022)<br>
+Netherlands (Dutch) Armed Forces (Nederlandse Krijgsmacht): Royal Netherlands Army, Royal Netherlands Navy (includes Naval Air Service and Marine Corps), Royal Netherlands Air Force, Royal Netherlands Marechaussee (Military Constabulary) (2022)<br>
 <strong>note:</strong> the Netherlands Coast Guard and the Dutch Caribbean Coast Guard are civilian in nature but managed by the Royal Netherlands Navy<br>
 
 **Military expenditures**<br>
@@ -710,7 +710,7 @@ approximately 40,000 active duty personnel (20,000 Army; 7,500 Navy; 6,500 Air F
 <strong>note:</strong> the Navy includes about 2,300 marines<br>
 
 **Military equipment inventories and acquisitions**<br>
-the inventory of the Netherlands Armed Forces consists of a mix of domestically-produced and modern European- and US-sourced equipment; since 2010, the US has been the leading supplier of weapons systems to the Netherlands; the Netherlands has an advanced domestic defense industry that focuses on armored vehicles, naval ships, and air defense systems; it also participates with the US and other European countries on joint development and production of advanced weapons systems (2021)<br>
+the military's inventory consists of a mix of domestically-produced and modern European- and US-sourced equipment; since 2010, the US has been the leading supplier of weapons systems to the Netherlands; the Netherlands has an advanced domestic defense industry that focuses on armored vehicles, naval ships, and air defense systems; it also participates with the US and other European countries on joint development and production of advanced weapons systems (2021)<br>
 
 **Military service age and obligation**<br>
 17 years of age for an all-volunteer force; conscription remains in place, but the requirement to show up for compulsory military service was suspended in 1997 (2021)<br>
@@ -721,7 +721,7 @@ the inventory of the Netherlands Armed Forces consists of a mix of domestically-
 <strong>note: </strong>in response to Russia’s 2022 invasion of Ukraine, some NATO countries, including the Netherlands, have sent additional troops and equipment to the battlegroups deployed in NATO territory in eastern Europe<br>
 
 **Military - note**<br>
-the Netherlands is a member of NATO and was one of the original 12 countries to sign the North Atlantic Treaty (also known as the Washington Treaty) in 1949<br> <p>since 1973, the Dutch Marine Corps has worked closely with the British Royal Marines, including jointly in the UK-Netherlands amphibious landing force; a Dutch Army airmobile infantry brigade and a mechanized infantry brigade have been integrated into the German Army since 2014 and 2016 respectively</p> in 2018, the Defense Ministers of Belgium, Denmark and the Netherlands signed a Memorandum of Understanding (MOU) for the creation of a Composite Special Operations Component Command (C-SOCC); the C-SOCC was declared operational in December 2020<br><br>in 2015, Belgium, the Netherlands, and Luxembourg signed an agreement to conduct joint air policing of their territories; under the agreement, which went into effect in January of 2017, the Belgian and Dutch Air Forces trade responsibility for patrolling the skies over the three countries<br>
+the Netherlands is a member of NATO and was one of the original 12 countries to sign the North Atlantic Treaty (also known as the Washington Treaty) in 1949<br><br>since 1973, the Dutch Marine Corps has worked closely with the British Royal Marines, including jointly in the UK-Netherlands amphibious landing force; a Dutch Army airmobile infantry brigade and a mechanized infantry brigade have been integrated into the German Army since 2014 and 2016 respectively<br><br>in 2020, Belgium, Denmark, and the Netherlands formed a joint Composite Special Operations Component Command (C-SOCC); in 2015, Belgium, the Netherlands, and Luxembourg signed an agreement to conduct joint air policing of their territories; under the agreement, which went into effect in January of 2017, the Belgian and Dutch Air Forces trade responsibility for patrolling the skies over the three countries (2022)<br>
 
 ## Terrorism
 
@@ -735,9 +735,9 @@ Islamic State of Iraq and ash-Sham (ISIS)<br>
 <p>none identified</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 37,792 (Syria), 14,787 (Eritrea), 8,368 (Somalia), 6,636 (Iraq), 5,346 (Iran) (mid-year 2021); 68,050 (Ukraine) (as of 5 July 2022)<br>
+_refugees (country of origin)_: 37,792 (Syria), 14,787 (Eritrea), 8,368 (Somalia), 6,636 (Iraq), 5,346 (Iran) (mid-year 2021); 76,660 (Ukraine) (as of 5 September 2022)<br>
 _stateless persons_: 2,087 (mid-year 2021)<br>
 
 **Illicit drugs**<br>
-<p>a significant transit country for illicit drugs, especially cocaine from South America destined for Europe; one of the largest sources of synthetic drugs for international markets; numerous methamphetamine laboratories; traffickers use postage companies to send cocaine, ecstasy or methamphetamines distribute narcotics to global customers</p><br>
+<p>a significant transit country for illicit drugs, especially cocaine from South America destined for Europe; one of the largest sources of synthetic drugs for international markets; numerous methamphetamine laboratories; traffickers use postage companies to send cocaine, ecstasy or methamphetamines to global customers</p><br>
 

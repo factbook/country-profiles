@@ -181,7 +181,7 @@ _unimproved: urban_: urban: 0% of population<br>
 _unimproved: rural_: rural: 0% of population<br>
 _unimproved: total_: total: 0% of population (2020 est.)<br>
 
-**Current Health Expenditure**<br>
+**Current health expenditure**<br>
 9.7% (2019)<br>
 
 **Physicians density**<br>
@@ -248,7 +248,7 @@ _female_: 12.6% (2020 est.)<br>
 ## Environment
 
 **Environment - current issues**<br>
-water quality and availability; rapid urbanisation; deforestation; soil erosion and degradation; native flora and fauna hard-hit by invasive species; negative effects of climate change<br>
+water quality and availability; rapid urbanization; deforestation; soil erosion and degradation; native flora and fauna hard-hit by invasive species<br>
 
 **Environment - international agreements**<br>
 _party to_: Antarctic-Environmental Protection, Antarctic-Marine Living Resources, Antarctic Treaty, Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Endangered Species, Environmental Modification, Hazardous Wastes, Law of the Sea, Marine Dumping-London Convention, Marine Dumping-London Protocol, Nuclear Test Ban, Ozone Layer Protection, Ship Pollution, Tropical Timber 2006, Wetlands, Whaling<br>
@@ -345,7 +345,7 @@ _residency requirement for naturalization_: 3 years<br>
 18 years of age; universal<br>
 
 **Executive branch**<br>
-_chief of state_: Queen ELIZABETH II (since 6 February 1952); represented by Governor-General Dame Cindy KIRO (since 21 October 2021)<br>
+_chief of state_: King CHARLES III (since 8 September 2022); represented by Governor-General Dame Cindy KIRO (since 21 October 2021)<br>
 _head of government_: Prime Minister Jacinda ARDERN (since 26 October 2017); Deputy Prime Minister Grant ROBERTSON (since 2 November 2020)<br>
 _cabinet_: Executive Council appointed by the governor-general on the recommendation of the prime minister<br>
 _elections/appointments_: the monarchy is hereditary; governor-general appointed by the monarch on the advice of the prime minister; following legislative elections, the leader of the majority party or majority coalition usually appointed prime minister by the governor-general; deputy prime minister appointed by the governor-general<br>
@@ -361,7 +361,7 @@ _judge selection and term of office_: justices appointed by the governor-general
 _subordinate courts_: Court of Appeal; High Court; tribunals and authorities; district courts; specialized courts for issues related to employment, environment, family, Maori lands, youth, military; tribunals<br>
 
 **Political parties and leaders**<br>
-ACT New Zealand [David SEYMOUR]<br>Green Party [James SHAW]<br>Mana Movement [Hone HARAWIRA] (formerly Mana Party)<br>Maori Party [Che WILSON and Kaapua SMITH]<br>New Zealand First Party or NZ First [Winston PETERS]<br>New Zealand Labor Party [Jacinda ARDERN]<br>New Zealand National Party [Christopher LUXON]<br>United Future New Zealand [Damian LIGHT]<br>
+ACT New Zealand [David SEYMOUR]<br>Green Party [Marama DAVIDSON]<br>Mana Movement [Hone HARAWIRA] (formerly Mana Party)<br>Maori Party [Debbie NGAREWA-PACKER and Rawiri WAITITI]<br>New Zealand First Party or NZ First [Winston PETERS]<br>New Zealand Labor Party [Jacinda ARDERN]<br>New Zealand National Party [Christopher LUXON]<br>
 
 **International organization participation**<br>
 ADB, ANZUS, APEC, ARF, ASEAN (dialogue partner), Australia Group, BIS, C, CD, CP, EAS, EBRD, FAO, FATF, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IEA, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, NSG, OECD, OPCW, Pacific Alliance (observer), Paris Club (associate), PCA, PIF, SICA (observer), Sparteca, SPC, UN, UNCTAD, UNESCO, UNHCR, UNIDO, UNMISS, UNTSO, UPU, Wassenaar Arrangement, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
@@ -392,7 +392,7 @@ Southern Cross constellation (four, five-pointed stars), kiwi (bird), silver fer
 **National anthem**<br>
 _name_: "God Defend New Zealand"<br>
 _lyrics/music_: Thomas BRACKEN [English], Thomas Henry SMITH [Maori]/John Joseph WOODS<br>
-<strong>note:</strong> adopted 1940 as national song, adopted 1977 as co-national anthem; New Zealand has two national anthems with equal status; as a commonwealth realm, in addition to "God Defend New Zealand," "God Save the Queen" serves as a national anthem (see United Kingdom); "God Save the Queen" normally played only when a member of the royal family or the governor-general is present; in all other cases, "God Defend New Zealand" is played<br>
+<strong>note:</strong> adopted 1940 as national song, adopted 1977 as co-national anthem; New Zealand has two national anthems with equal status; as a commonwealth realm, in addition to "God Defend New Zealand," "God Save the King" serves as a royal anthem (see United Kingdom); "God Save the King" normally played only when a member of the royal family or the governor-general is present; in all other cases, "God Defend New Zealand" is played<br>
 
 **National heritage**<br>
 _total World Heritage Sites_: 3 (2 natural, 1 mixed)<br>
@@ -693,7 +693,7 @@ New Zealand Defense Force (NZDF): New Zealand Army, Royal New Zealand Navy, Roya
 1.1% of GDP (2017) (approximately $2.43 billion)<br>
 
 **Military and security service personnel strengths**<br>
-the New Zealand Defense Force (NZDF) has about 9,500 active duty troops (4,700 Army; 2,300 Navy; 2,500 Air Force) (2022)<br>
+approximately 9,500 active duty troops (4,700 Army; 2,300 Navy; 2,500 Air Force) (2022)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the NZDF is equipped mostly with imported weapons and equipment from Western suppliers; the US has been the leading provider since 2010 (2022)<br>

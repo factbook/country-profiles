@@ -179,7 +179,7 @@ _unimproved: urban_: urban: 7.3% of population<br>
 _unimproved: rural_: rural: 5.6% of population<br>
 _unimproved: total_: total: 5.9% of population (2020 est.)<br>
 
-**Current Health Expenditure**<br>
+**Current health expenditure**<br>
 4.5% (2019)<br>
 
 **Physicians density**<br>
@@ -328,7 +328,7 @@ _time difference_: UTC+5.75 (10.75 hours ahead of Washington, DC, during Standar
 _etymology_: name derives from the Kasthamandap temple that stood in Durbar Square; in Sanskrit, "kastha" means "wood" and "mandapa" means "pavilion"; the three-story structure was made entirely of wood, without iron nails or supports, and dated to the late 16th century; it collapsed during a 2015 earthquake<br>
 
 **Administrative divisions**<br>
-7 provinces (pradesh, singular - pradesh); Bagmati, Gandaki, Karnali, Lumbini, Province No. One, Province No. Two, Sudurpashchim<br>
+7 provinces (pradesh, singular - pradesh); Bagmati, Gandaki, Karnali, Lumbini, Madhesh, Province No. One, Sudurpashchim<br>
 
 **Independence**<br>
 1768 (unified by Prithvi Narayan SHAH)<br>
@@ -373,7 +373,7 @@ _judge selection and term of office_: Supreme Court chief justice appointed by t
 _subordinate courts_: High Court; district courts<br>
 
 **Political parties and leaders**<br>
-<p>the Election Commission of Nepal granted ballot access under the proportional system to 88 political parties for the November-December 2017 House of Representatives election to the Federal Parliament; of these, the following 8 parties won seats:<br>Federal Socialist Forum, Nepal or FSFN [Upendra YADAV]<br>Naya Shakti Party, Nepal [Baburam BHATTARAI]<br>Nepal Communist Party or NCP [Khadga Prasad OLI, Pushpa Kamal DAHAL]<br>Nepali Congress or NC [Sher Bahadur DEUBA]<br>Nepal Mazdoor Kisan Party [Narayan Man BIJUKCHHE]<br>Rastriya Janamorcha [Chitra Bahadur K.C.]<br>Rastriya Janata Party or RJPN [Mahanta THAKUR]<br>Rastriya Prajatantra party or RPP [Kamal THAPA]</p><br>
+<p>the Election Commission of Nepal granted ballot access under the proportional system to 88 political parties for the November-December 2017 House of Representatives election to the Federal Parliament; of these, the following 8 parties won seats:<br>Federal Socialist Forum, Nepal or FSFN [Upendra YADAV]<br>Naya Shakti Party, Nepal [Baburam BHATTARAI]<br>Nepal Communist Party or NCP [Khadga Prasad OLI, Pushpa Kamal DAHAL]<br>Nepali Congress or NC [Sher Bahadur DEUBA]<br>Nepal Mazdoor Kisan Party (Nepal Workers' and Peasants' Party) or NWPP [Narayan Man BIJUKCHHE]<br>Rastriya Janamorcha (National People's Front) [Chitra Bahadur K.C.]<br>Rastriya Janata Party (National People's Party, Nepal) or RJPN [Mahanta THAKUR]<br>Rastriya Prajatantra Party (National Democratic Party) or RPP [Rajendra Prasad LINGDEN]</p><br>
 
 **International organization participation**<br>
 ADB, BIMSTEC, CD, CP, FAO, G-77, IAEA, IBRD, ICAO, ICC (NGOs), ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, MINURSO, MINUSMA, MINUSTAH, MONUSCO, NAM, OPCW, SAARC, SACEP, UN, UNAMID, UNCTAD, UNDOF, UNESCO, UNIDO, UNIFIL, UNISFA, UNMIL, UNMISS, UNOCI, UNSOM, UNTSO, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
@@ -681,7 +681,8 @@ _unpaved_: 16,100 km (2016)<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Nepal Army (includes Air Wing); Nepal Armed Police Force (paramilitary force under the Ministry of Home Affairs responsible for border and internal security, including counter-insurgency and counter-terrorism, and assisting the Army in the event of an external invasion) (2022)<br>
+Ministry of Defense: Nepali Army (includes Air Wing); Ministry of Home Affairs: Nepal Police, Nepal Armed Police Force (2022)<br>
+<strong>note: </strong>the Nepal Armed Police Force is paramilitary force that is responsible for border and internal security, including counter-insurgency and counter-terrorism, and assisting the Army in the event of an external invasion<br>
 
 **Military expenditures**<br>
 1.3% of GDP (2021 est.)<br>

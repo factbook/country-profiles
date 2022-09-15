@@ -177,7 +177,7 @@ _unimproved: urban_: urban: 0% of population<br>
 _unimproved: rural_: rural: 0% of population<br>
 _unimproved: total_: total: 0% of population (2020 est.)<br>
 
-**Current Health Expenditure**<br>
+**Current health expenditure**<br>
 10.2% (2019)<br>
 
 **Physicians density**<br>
@@ -349,11 +349,11 @@ _residency requirement for naturalization_: 5 years<br>
 18 years of age; universal<br>
 
 **Executive branch**<br>
-_chief of state_: Queen ELIZABETH II (since 6 February 1952); Heir Apparent Prince CHARLES (son of the queen, born 14 November 1948); note - Queen ELIZABETH II's reign is the second longest in recorded history<br>
+_chief of state_: King CHARLES III (since 8 September 2022); Heir Apparent Prince WILLIAM (son of the king, born 21 June 1982); note - CHARLES succeeded his mother, Queen ELIZABETH II, after serving as Prince of Wales (heir apparent) for over 64 years - the longest such tenure in British history<br>
 _head of government_: Prime Minister Mary Elizabeth TRUSS (Conservative) (since 6 September 2022)<br>
 _cabinet_: Cabinet appointed by the prime minister<br>
 _elections/appointments_: the monarchy is hereditary; following legislative elections, the leader of the majority party or majority coalition usually becomes the prime minister; election last held on 12 December 2019 (next to be held by 2 May 2024)<br>
-<strong>note 1:</strong> in addition to serving as the UK head of state, the British sovereign is the constitutional monarch for 15 additional Commonwealth countries (these 16 states are each referred to as a Commonwealth realm)<br><br><strong>note 2</strong>: Prime Minister JOHNSON announced on 7 July 2022 that he would be stepping down as prime minister; he will stay in office until a replacement is selected, most likely in September<br>
+<strong>note:</strong> in addition to serving as the UK head of state, the British sovereign is the constitutional monarch for 14 additional Commonwealth countries (these 15 states are each referred to as a Commonwealth realm)<br><br><br><br>
 
 **Legislative branch**<br>
 _description_: bicameral Parliament consists of:<br>House of Lords (membership not fixed; as of October 2021, 787 lords were eligible to participate in the work of the House of Lords - 673 life peers, 88 hereditary peers, and 26 clergy; members are appointed by the monarch on the advice of the prime minister and non-party political members recommended by the House of Lords Appointments Commission); note - House of Lords total does not include ineligible members or members on leave of absence<br>House of Commons (650 seats; members directly elected in single-seat constituencies by simple majority popular vote to serve 5-year terms unless the House is dissolved earlier)<br>
@@ -396,7 +396,7 @@ blue field with the red cross of Saint George (patron saint of England) edged in
 lion (Britain in general); lion, Tudor rose, oak (England); lion, unicorn, thistle (Scotland); dragon, daffodil, leek (Wales); shamrock, flax (Northern Ireland); national colors: red, white, blue (Britain in general); red, white (England); blue, white (Scotland); red, white, green (Wales)<br>
 
 **National anthem**<br>
-_name_: "God Save the Queen"<br>
+_name_: "God Save the King"<br>
 _lyrics/music_: unknown<br>
 <strong>note:</strong> in use since 1745; by tradition, the song serves as both the national and royal anthem of the UK; it is known as either "God Save the Queen" or "God Save the King," depending on the gender of the reigning monarch; it also serves as the royal anthem of many Commonwealth nations<br>
 

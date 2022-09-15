@@ -185,7 +185,7 @@ _unimproved: urban_: urban: 0% of population<br>
 _unimproved: rural_: rural: 0% of population<br>
 _unimproved: total_: total: 0% of population (2020 est.)<br>
 
-**Current Health Expenditure**<br>
+**Current health expenditure**<br>
 9.4% (2019)<br>
 
 **Physicians density**<br>
@@ -251,7 +251,7 @@ _female_: 38.8% (2020 est.)<br>
 ## Environment
 
 **Environment - current issues**<br>
-water pollution from meat packing/tannery industry; heavy metal pollution; inadequate solid/hazardous waste disposal; deforestation<br>
+water pollution from meat packing, tannery industries; heavy metal pollution; inadequate solid and hazardous waste disposal; deforestation<br>
 
 **Environment - international agreements**<br>
 _party to_: Antarctic-Environmental Protection, Antarctic-Marine Living Resources, Antarctic Treaty, Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Endangered Species, Environmental Modification, Hazardous Wastes, Law of the Sea, Marine Dumping-London Protocol, Nuclear Test Ban, Ozone Layer Protection, Ship Pollution, Wetlands, Whaling<br>

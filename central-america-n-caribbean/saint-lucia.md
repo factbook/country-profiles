@@ -168,7 +168,7 @@ _unimproved: urban_: urban: 0.6% of population<br>
 _unimproved: rural_: rural: 1.5% of population<br>
 _unimproved: total_: total: 1.3% of population (2020 est.)<br>
 
-**Current Health Expenditure**<br>
+**Current health expenditure**<br>
 4.3% (2019)<br>
 
 **Physicians density**<br>
@@ -317,7 +317,7 @@ _residency requirement for naturalization_: 8 years<br>
 18 years of age; universal<br>
 
 **Executive branch**<br>
-_chief of state_: Queen ELIZABETH II (since 6 February 1952); represented by Acting Governor General Errol CHARLES (since 11 November 2021)<br>
+_chief of state_: King CHARLES III (since 8 September 2022); represented by Acting Governor General Errol CHARLES (since 11 November 2021)<br>
 _head of government_: Prime Minister Philip J. PIERRE (since 28 July 2021)<br>
 _cabinet_: Cabinet appointed by the governor general on the advice of the prime minister<br>
 _elections/appointments_: the monarchy is hereditary; governor general appointed by the monarch; following legislative elections, the leader of the majority party or majority coalition usually appointed prime minister by governor general; deputy prime minister appointed by governor general<br>

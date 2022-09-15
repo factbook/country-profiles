@@ -174,7 +174,7 @@ _unimproved: urban_: urban: 0% of population<br>
 _unimproved: rural_: rural: 1.4% of population<br>
 _unimproved: total_: total: 0.1% of population (2020 est.)<br>
 
-**Current Health Expenditure**<br>
+**Current health expenditure**<br>
 5.4% (2019)<br>
 
 **Physicians density**<br>
@@ -351,7 +351,7 @@ _judge selection and term of office_: judges of both courts appointed by the mon
 _subordinate courts_: Court of Accounts; district and local tribunals and courts<br>
 
 **Political parties and leaders**<br>
-Alternative Democratic Reform Party or ADR [Fred KEUP]<br>Christian Social People's Party or CSV [Claude WISELER]<br>Democratic Party or DP [Corinne CAHEN]<br>Green Party [Djuna BERNARD, Meris SEHOVIC]<br>Luxembourg Socialist Workers' Party or LSAP [Yves CRUCHTEN]<br>The Left (dei Lenk/la Gauche) [collective leadership, Central Committee]<br>Pirate Party<br>
+Alternative Democratic Reform Party or ADR [Fred KEUP]<br>Christian Social People's Party or CSV [Claude WISELER]<br>Democratic Party or DP [Corinne CAHEN]<br>Green Party [Djuna BERNARD, Meris SEHOVIC]<br>Luxembourg Socialist Workers' Party or LSAP [Yves CRUCHTEN]<br>The Left (dei Lenk/la Gauche) [collective leadership, Central Committee]<br>Pirate Party [Sven CLEMENT, Marc GOERGEN]<br>
 
 **International organization participation**<br>
 ADB (nonregional member), Australia Group, Benelux, BIS, CD, CE, EAPC, EBRD, ECB, EIB, EMU, ESA, EU, FAO, FATF, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IEA, IFAD, IFC, IFRCS, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, NATO, NEA, NSG, OAS (observer), OECD, OIF, OPCW, OSCE, PCA, Schengen Convention, UN, UNCTAD, UNESCO, UNHCR, UNIDO, UNRWA, UPU, Wassenaar Arrangement, WCO, WHO, WIPO, WMO, WTO, ZC<br>
@@ -700,6 +700,6 @@ Luxembourg is a member of NATO and was one of the original 12 countries to sign 
 <p>none identified</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 6,263 (Ukraine) (as of 30 August 2022)<br>
+_refugees (country of origin)_: 6,263 (Ukraine) (as of 6 September 2022)<br>
 _stateless persons_: 194 (mid-year 2021)<br>
 

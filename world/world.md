@@ -173,7 +173,7 @@ _unimproved: urban_: urban: 3.5% of population<br>
 _unimproved: rural_: rural: 15.3% of population<br>
 _unimproved: total_: total: 8.9% of population (2015 est.)<br>
 
-**Current Health Expenditure**<br>
+**Current health expenditure**<br>
 10% (2016)<br>
 
 **Physicians density**<br>
@@ -243,7 +243,7 @@ _rate of urbanization_: 1.73% annual rate of change (2020-25 est.)<br>
 <strong>summary statement: </strong>aquifers are underground layers of water-bearing permeable rock formations; they include alluvial formations such as unconsolidated sand and gravel aquifers, sedimentary rock formations of sandstone and karst (carbonate rocks such as limestone) aquifers, as well as volcanic aquifers, and basement aquifers (igneous and metamorphic rocks that underlie sedimentary and volcanic rock sequences); groundwater from aquifers can be extracted using a water well; <em>The World Factbook</em> lists 37 major aquifers across 52 countries; of these, 13 are in Africa, 10 in Asia, 5 in North America, 3 in South America, 4 in Europe, and 2 in Australia; although aquifers can vary in size, the major aquifers listed in <em>The Factbook</em> contain the bulk of the stored volume of groundwater; the fresh water held in these aquifers represents more than 30% of the World's fresh water; in the US, groundwater is primarily used for irrigation and globally, 70% of groundwater withdrawn is used for agriculture; groundwater also supplies almost half of all drinking water worldwide<br>
 
 **Total renewable water resources**<br>
-53,789.29 cubic meters (2011)<br>
+53,789.3 cubic meters (2011)<br>
 
 ## Government
 

@@ -176,7 +176,7 @@ _unimproved: urban_: urban: 1.5% of population<br>
 _unimproved: rural_: rural: 15.8% of population<br>
 _unimproved: total_: total: 10.4% of population (2020 est.)<br>
 
-**Current Health Expenditure**<br>
+**Current health expenditure**<br>
 4.3% (2015)<br>
 
 **Physicians density**<br>
@@ -715,6 +715,6 @@ Islamic Revolutionary Guard Corps (IRGC)/Qods Force; Islamic State of Iraq and a
 <p><em>Yemen-Oman</em>: none identified</p> <p><em>Yemen-Saudia Arabia:</em> in 2004, Saudi Arabia reinforced its concrete-filled security barrier along sections of the fully demarcated border with Yemen to stem illegal cross-border activities, including militants and arms; in 2013 and 2015, Saudi Arabia again erected fences<br><br><br></p> <p> </p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 69,366 (Somalia), 18,153 (Ethiopia) (2022)<br>
+_refugees (country of origin)_: 69,785 (Somalia), 18,153 (Ethiopia) (2022)<br>
 _IDPs_: 4,288,739 (conflict in Sa'ada Governorate; clashes between al-Qa'ida in the Arabian Peninsula and government forces) (2022)<br>
 

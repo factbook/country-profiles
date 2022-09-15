@@ -43,7 +43,7 @@ mostly mid-latitude desert, long, hot summers, mild winters; semiarid grassland 
 mostly flat-to-rolling sandy desert with dunes; broad, flat intensely irrigated river valleys along course of Amu Darya, Syr Darya (Sirdaryo), and Zaravshan; Fergana Valley in east surrounded by mountainous Tajikistan and Kyrgyzstan; shrinking Aral Sea in west<br>
 
 **Elevation**<br>
-_highest point_: Xazrat Sulton Tog' 4,643 m<br>note - the Factbook map is incorrect; it shows the wrong location and name of the high elevation<br>
+_highest point_: Xazrat Sulton Tog' 4,643 m<br>
 _lowest point_: Sariqamish Kuli -12 m<br>
 
 **Natural resources**<br>
@@ -180,7 +180,7 @@ _unimproved: urban_: urban: 0.4% of population<br>
 _unimproved: rural_: rural: 3.9% of population<br>
 _unimproved: total_: total: 2.2% of population (2020 est.)<br>
 
-**Current Health Expenditure**<br>
+**Current health expenditure**<br>
 5.6% (2019)<br>
 
 **Physicians density**<br>
@@ -620,8 +620,8 @@ the government controls media; 17 state-owned broadcasters - 13 TV and 4 radio -
 .uz<br>
 
 **Internet users**<br>
-_total_: 24,304,756 (2020 est.)<br>
-_percent of population_: 71% (2020 est.)<br>
+_total_: 17,161,534 (July 2022 est.)<br>
+_percent of population_: 50.1% (July 2022 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 4,820,009 (2020 est.)<br>

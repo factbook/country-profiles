@@ -43,7 +43,7 @@ tropical marine; moderated by warm waters of Gulf Stream<br>
 long, flat coral formations with some low rounded hills<br>
 
 **Elevation**<br>
-_highest point_: 1.3 km NE of Old Bight on Cat Island 64 m<br>note - the Factbook map is incorrect; it indicates the wrong high elevation point<br>
+_highest point_: 1.3 km NE of Old Bight on Cat Island 64 m<br>
 _lowest point_: Atlantic Ocean 0 m<br>
 
 **Natural resources**<br>
@@ -161,7 +161,7 @@ _female_: 79.14 years (2022 est.)<br>
 _improved: total_: total: 98.9% of population<br>
 _unimproved: total_: total: 1.1% of population (2017 est.)<br>
 
-**Current Health Expenditure**<br>
+**Current health expenditure**<br>
 5.8% (2019)<br>
 
 **Physicians density**<br>
@@ -304,7 +304,7 @@ _residency requirement for naturalization_: 6-9 years<br>
 18 years of age; universal<br>
 
 **Executive branch**<br>
-_chief of state_: Queen ELIZABETH II (since 6 February 1952); represented by Governor General Cornelius A. SMITH (since 28 June 2019)<br>
+_chief of state_: King CHARLES III (since 8 September 2022); represented by Governor General Cornelius A. SMITH (since 28 June 2019)<br>
 _head of government_: Prime Minister Philip DAVIS (since 17 September 2021)<br>
 _cabinet_: Cabinet appointed by governor general on recommendation of prime minister<br>
 _elections/appointments_: the monarchy is hereditary; governor general appointed by the monarch on the advice of the prime minister; following legislative elections, the leader of the majority party or majority coalition usually appointed prime minister by the governor general; the prime minister recommends the deputy prime minister<br>
@@ -352,7 +352,7 @@ blue marlin, flamingo, Yellow Elder flower; national colors: aquamarine, yellow,
 **National anthem**<br>
 _name_: "March On, Bahamaland!"<br>
 _lyrics/music_: Timothy GIBSON<br>
-<strong>note:</strong> adopted 1973; as a Commonwealth country, in addition to the national anthem, "God Save the Queen" serves as the royal anthem (see United Kingdom)<br>
+<strong>note:</strong> adopted 1973; as a Commonwealth country, in addition to the national anthem, "God Save the King" serves as the royal anthem (see United Kingdom)<br>
 
 ## Economy
 

@@ -182,7 +182,7 @@ _unimproved: urban_: urban: 0.5% of population<br>
 _unimproved: rural_: rural: 23.1% of population<br>
 _unimproved: total_: total: 14.8% of population (2020 est.)<br>
 
-**Current Health Expenditure**<br>
+**Current health expenditure**<br>
 4% (2019)<br>
 
 **Physicians density**<br>
@@ -368,11 +368,11 @@ _residency requirement for naturalization_: na<br>
 18 years of age; universal<br>
 
 **Executive branch**<br>
-_chief of state_: President Col. Mamady DOUMBOUYA (since 1 October 2021); note - on 5 September 2021, Col. Mamady DOUMBOUYA led a military coup in which President CONDE was arrested and detained, the constitution suspended, and the government and People's National Assembly dissolved; on 1 October 2021, DOUMBOUYA was sworn in as transitional president (2021)<br>
-_head of government_: Prime Minister Bernard GOMOU (since 20 August 2022); note - GOMOU had been acting prime minister since 16 July 2022 replacing Mohamed BEAVOGUI who stepped down due to health reasons&nbsp; (2022)<br>
-_cabinet_: formerly, the Council of Ministers appointed by the president; note: the 5 September 2021 military coup arrested and detained the president, suspended the constitution, and dissolved the government and legislature&nbsp;<br>
+_chief of state_: President Col. Mamady DOUMBOUYA (since 1 October 2021); note - on 5 September 2021, Col. Mamady DOUMBOUYA led a military coup in which President CONDE was arrested and detained, the constitution suspended, and the government and People's National Assembly dissolved; on 1 October 2021, DOUMBOUYA was sworn in as transitional president<br>
+_head of government_: Prime Minister Bernard GOMOU (since 20 August 2022); note - GOMOU had been acting prime minister since 16 July 2022 replacing Mohamed BEAVOGUI who stepped down due to health reasons<br>
+_cabinet_: formerly, the Council of Ministers appointed by the president; note - the 5 September 2021 military coup arrested and detained the president, suspended the constitution, and dissolved the government and legislature<br>
 _elections/appointments_: formerly, the president was directly elected by absolute majority popular vote in 2 rounds if needed for a 5-year term (eligible for a second term) and the prime minister appointed by the president; election last held on 18 October 2020; note - a new election time table has not been announced by the transitional government<br>
-_election results_: in the election of 18 October 2020, Alpha CONDE reelected president in the first round; percent of vote - Alpha CONDE (RPG) 59.5%, Cellou Dalein DIALLO (UFDG) 33.5%, other 7%; note - following the military coup of 5 September 2021, coup leader Col. Mamady DOUMBOUYA was sworn in as transitional president on 1 October 2021 (2021)<br>
+_election results_: in the election of 18 October 2020, Alpha CONDE reelected president in the first round; percent of vote - Alpha CONDE (RPG) 59.5%, Cellou Dalein DIALLO (UFDG) 33.5%, other 7%; note - following the military coup of 5 September 2021, coup leader Col. Mamady DOUMBOUYA was sworn in as transitional president on 1 October 2021<br>
 
 **Legislative branch**<br>
 _description_: formerly the People's National Assembly;&nbsp; note - on 5 September 2021, Col. Mamady DOUMBOUYA led a military coup in which President CONDE was arrested and detained, the constitution suspended, and the government and People's National Assembly dissolved; on 22 January 2022, an 81-member Transitional National Council was installed<br>
@@ -733,4 +733,7 @@ the International Maritime Bureau reports the territorial and offshore waters in
 **Trafficking in persons**<br>
 _current situation_: Guinea is a source, transit, and, to a lesser extent, a destination country for men, women, and children subjected to forced labor and sex trafficking; the majority of trafficking victims are Guinean children; Guinean girls are subjected to domestic servitude and commercial sexual exploitation, while boys are forced to beg, work as street vendors, shoe shiners, or miners; some Guinean children are forced to mine in Senegal, Mali, and possibly other West African countries; Guinean women and girls are subjected to domestic servitude and sex trafficking in Nigeria, Cote d&rsquo;Ivoire, Benin, Senegal, Greece, and Spain, while Chinese and Vietnamese women are reportedly forced into prostitution in Guinea<br>
 _tier rating_: Tier 2 Watch List &mdash; Guinea does not fully meet the minimum standards for the elimination of trafficking; however it is making significant efforts to do so; the government&nbsp; drafted a new anti-trafficking action plan, provided support to eight victims exploited in the Middle East, and incorporated anti-trafficking training into the law enforcement curriculum; however, the government did not overall increase efforts compared to the last rating period; investigations and prosecutions of trafficking crimes decreased, victim identification was inadequate, and NGO&rsquo;s providing victim services did not receive government support; for the fourth year, resources for the anti-trafficking committee or the Office for the Protection of Gender, Children and Morals were inadequate; a Quranic teacher was not prosecuted for allegedly forcing child begging; Guinea was downgraded to Tier 2 Watch List (2020)<br>
+
+**Illicit drugs**<br>
+NA<br>
 

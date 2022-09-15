@@ -160,7 +160,7 @@ NA<br>
 _improved: urban_: urban: 95.7% of population<br>
 _unimproved: urban_: urban: 4.3% of population<br>
 
-**Current Health Expenditure**<br>
+**Current health expenditure**<br>
 5.5% (2019)<br>
 
 **Physicians density**<br>

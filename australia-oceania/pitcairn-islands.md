@@ -142,7 +142,7 @@ _unimproved: urban_: urban: NA<br>
 _unimproved: rural_: rural: NA<br>
 _unimproved: total_: total: NA<br>
 
-**Current Health Expenditure**<br>
+**Current health expenditure**<br>
 NA<br>
 
 **Physicians density**<br>
@@ -243,7 +243,7 @@ see United Kingdom<br>
 18 years of age; universal with three years residency<br>
 
 **Executive branch**<br>
-_chief of state_: Queen ELIZABETH II (since 6 February 1952); represented by UK High Commissioner to New Zealand and Governor (nonresident) of the Pitcairn Islands Iona THOMAS (since 9 August 2022)<br>
+_chief of state_: King CHARLES III (since 8 September 2022); represented by UK High Commissioner to New Zealand and Governor (nonresident) of the Pitcairn Islands Iona THOMAS (since 9 August 2022)<br>
 _head of government_: Mayor and Chairman of the Island Council Charlene WARREN-PEU (since 1 January 2020)<br>
 _cabinet_: none<br>
 _elections/appointments_: the monarchy is hereditary; governor and commissioner appointed by the monarch; island mayor directly elected by majority popular vote for a 3-year term; election last held on&nbsp;6 November 2019 (next to be held not later than December 2022)<br>
@@ -277,7 +277,7 @@ blue with the flag of the UK in the upper hoist-side quadrant and the Pitcairn I
 **National anthem**<br>
 _name_: "We From Pitcairn Island"<br>
 _lyrics/music_: unknown/Frederick M. LEHMAN<br>
-<strong>note:</strong> serves as a local anthem; as a territory of the UK, "God Save the Queen" is official (see United Kingdom)<br>
+<strong>note:</strong> serves as a local anthem; as an overseas territory of the UK, "God Save the King" is official (see United Kingdom)<br>
 
 ## Economy
 

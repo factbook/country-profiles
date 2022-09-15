@@ -183,7 +183,7 @@ _unimproved: urban_: urban: 0% of population<br>
 _unimproved: rural_: rural: 10.1% of population<br>
 _unimproved: total_: total: 6.4% of population (2020 est.)<br>
 
-**Current Health Expenditure**<br>
+**Current health expenditure**<br>
 4.5% (2019)<br>
 
 **Physicians density**<br>
@@ -634,8 +634,8 @@ state-funded public TV broadcaster KTRK has nationwide coverage; also operates A
 .kg<br>
 
 **Internet users**<br>
-_total_: 3,355,749 (2020 est.)<br>
-_percent of population_: 51% (2020 est.)<br>
+_total_: 3,683,700 (July 2022 est.)<br>
+_percent of population_: 55% (July 2022 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 289,000 (2020 est.)<br>
@@ -686,7 +686,7 @@ _lake port(s)_: Balykchy (Ysyk-Kol or Rybach'ye)(Lake Ysyk-Kol)<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Kyrgyz Armed Forces: Land Forces, Air Defense Forces, National Guard; Internal Troops; State Committee for National Security (GKNB): Border Service (2022)<br>
+Armed Forces of the Kyrgyz Republic: Land Forces, Air Defense Forces, National Guard; Internal Troops; State Committee for National Security (GKNB): Border Service (2022)<br>
 
 **Military expenditures**<br>
 1.7% of GDP (2021 est.)<br>

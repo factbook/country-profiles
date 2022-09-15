@@ -157,7 +157,7 @@ NA<br>
 _improved: total_: total: 100% of population<br>
 _unimproved: total_: total: 0% of population (2017)<br>
 
-**Current Health Expenditure**<br>
+**Current health expenditure**<br>
 NA<br>
 
 **Physicians density**<br>

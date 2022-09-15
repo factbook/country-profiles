@@ -163,7 +163,7 @@ _unimproved: urban_: urban: NA<br>
 _unimproved: rural_: rural: NA<br>
 _unimproved: total_: total: 0% of population (2020 est.)<br>
 
-**Current Health Expenditure**<br>
+**Current health expenditure**<br>
 3.1% (2019)<br>
 
 **Physicians density**<br>
@@ -300,7 +300,7 @@ has not submitted an ICJ jurisdiction declaration (New Zealand normally retains 
 18 years of age; universal<br>
 
 **Executive branch**<br>
-_chief of state_: Queen ELIZABETH II (since 6 February 1952); represented by Sir Tom J. MARSTERS (since 9 August 2013); New Zealand High Commissioner Ms Tui DEWES (since October 2020)<br>
+_chief of state_: King CHARLES III (since 8 September 2022); represented by Sir Tom J. MARSTERS (since 9 August 2013); New Zealand High Commissioner Ms Tui DEWES (since October 2020)<br>
 _head of government_: Prime Minister Mark BROWN (since 1 October 2020)<br>
 _cabinet_: Cabinet chosen by the prime minister<br>
 _elections/appointments_: the monarchy is hereditary; UK representative appointed by the monarch; New Zealand high commissioner appointed by the New Zealand Government; following legislative elections, the leader of the majority party or majority coalition usually becomes prime minister<br>

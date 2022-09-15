@@ -164,7 +164,7 @@ _improved: total_: total: 97.4% of population<br>
 _unimproved: urban_: urban: 2.6% of population<br>
 _unimproved: total_: total: 2.6% of population (2015 est.)<br>
 
-**Current Health Expenditure**<br>
+**Current health expenditure**<br>
 NA<br>
 
 **Physicians density**<br>
@@ -277,7 +277,7 @@ see United Kingdom<br>
 18 years of age; universal<br>
 
 **Executive branch**<br>
-_chief of state_: Queen ELIZABETH II (since 6 February 1952); represented by Governor Martyn&nbsp;ROPER (since 29 October 2018)<br>
+_chief of state_: King CHARLES III (since 8 September 2022); represented by Governor Martyn ROPER (since 29 October 2018)<br>
 _head of government_: Premier Wayne PANTON (since 21 April 2021)<br>
 _cabinet_: Cabinet selected from the Parliament and appointed by the governor on the advice of the premier<br>
 _elections/appointments_: the monarchy is hereditary; governor appointed by the monarch; following legislative elections, the leader of the majority party or majority coalition appointed premier by the governor<br>
@@ -313,7 +313,7 @@ green sea turtle<br>
 **National anthem**<br>
 _name_: "Beloved Isle Cayman"<br>
 _lyrics/music_: Leila E. ROSS<br>
-<strong>note:</strong> adopted 1993; served as an unofficial anthem since 1930; as a territory of the United Kingdom, in addition to the local anthem, "God Save the Queen" is official (see United Kingdom)<br>
+<strong>note:</strong> adopted 1993; served as an unofficial anthem since 1930; as an overseas territory of the United Kingdom, in addition to the local anthem, "God Save the King" is official (see United Kingdom)<br>
 
 ## Economy
 

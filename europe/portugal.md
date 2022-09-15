@@ -175,7 +175,7 @@ _unimproved: urban_: urban: 0% of population<br>
 _unimproved: rural_: rural: 0.3% of population<br>
 _unimproved: total_: total: 0.1% of population (2020 est.)<br>
 
-**Current Health Expenditure**<br>
+**Current health expenditure**<br>
 9.5% (2019)<br>
 
 **Physicians density**<br>
@@ -683,8 +683,8 @@ _LNG terminal(s) (import)_: Sines<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Portuguese Armed Forces: Portuguese Army (Exercito Portuguesa), Portuguese Navy (Marinha Portuguesa; includes Marine Corps), Portuguese Air Force (Forca Aerea Portuguesa, FAP); Portuguese National Republican Guard (Guarda Nacional Republicana, GNR) (2022)<br>
-<strong>note:</strong> the GNR is a national gendarmerie force comprised of military personnel with law enforcement, internal security, civil defense, disaster response, and coast guard duties; it is responsible to the Ministry of Internal Administration and to the Ministry of National Defense; in the event of war or crisis, it may be placed under the Chief of the General Staff of the Armed Forces; the GNR has law enforcement jurisdiction in rural areas, while Public Security Police (also under the Ministry of Internal Administration) has jurisdiction in cities<br>
+Portuguese Armed Forces: Portuguese Army (Exercito Portuguesa), Portuguese Navy (Marinha Portuguesa; includes Marine Corps), Portuguese Air Force (Forca Aerea Portuguesa, FAP); National Republican Guard (Guarda Nacional Republicana, GNR) (2022)<br>
+<strong>note:</strong> the GNR is a national gendarmerie force comprised of military personnel with law enforcement, internal security, civil defense, disaster response, and coast guard duties; it is responsible to the Ministry of Internal Administration and to the Ministry of National Defense; in the event of war or crisis, it may be placed under the Chief of the General Staff of the Armed Forces; the GNR has law enforcement jurisdiction in rural areas, while the Public Security Police (also under the Ministry of Internal Administration) has jurisdiction in cities<br>
 
 **Military expenditures**<br>
 1.6% of GDP (2021 est.)<br>
@@ -694,13 +694,13 @@ Portuguese Armed Forces: Portuguese Army (Exercito Portuguesa), Portuguese Navy 
 1.2% of GDP (2017) (approximately $3.62 billion)<br>
 
 **Military and security service personnel strengths**<br>
-the Portuguese Armed Forces have approximately 27,000 active duty personnel (14,000 Army; 7,000 Navy, including about 1,000 marines; 6,000 Air Force); 24,500 National Republican Guard (military personnel) (2022)<br>
+approximately 27,000 active duty personnel (14,000 Army; 7,000 Navy, including about 1,000 marines; 6,000 Air Force); 24,500 National Republican Guard (military personnel) (2022)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the Portuguese Armed Forces inventory includes mostly European- and US-origin weapons systems along with a smaller mix of domestically-produced equipment; since 2010, Germany and the US have been the leading suppliers of armaments to Portugal; Portugal's defense industry is primarily focused on shipbuilding (2021)<br>
+the military's inventory includes mostly European- and US-origin weapons systems along with a smaller mix of domestically-produced equipment; since 2010, Germany and the US have been the leading suppliers of armaments to Portugal; Portugal's defense industry is primarily focused on shipbuilding (2021)<br>
 
 **Military service age and obligation**<br>
-18-30 years of age for voluntary or contract military service; no compulsory military service (abolished 2004), but conscription possible if insufficient volunteers available; women serve in the armed forces, on naval ships since 1992, but are prohibited from serving in some combatant specialties; contract service lasts for an initial period from two to six years, and can be extended to a maximum of 20 years of service; voluntary military service lasts 12 months; reserve obligation to age 35 (2021)<br>
+18-30 years of age for voluntary or contract military service; no compulsory military service (abolished 2004), but conscription possible if insufficient volunteers available; women serve in the armed forces, but are prohibited from serving in some combatant specialties; contract service lasts for an initial period from two to six years, and can be extended to a maximum of 20 years of service; voluntary military service lasts 12 months; reserve obligation to age 35 (2021)<br>
 <strong>note: </strong>as of 2019, women made up about 12% of the military's full-time personnel<br>
 
 **Military deployments**<br>

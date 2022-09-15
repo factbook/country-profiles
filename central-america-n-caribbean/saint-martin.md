@@ -136,7 +136,7 @@ _unimproved: urban_: urban: 0% of population<br>
 _unimproved: rural_: rural: NA<br>
 _unimproved: total_: total: 0% of population (2020)<br>
 
-**Current Health Expenditure**<br>
+**Current health expenditure**<br>
 NA<br>
 
 **Physicians density**<br>
@@ -173,7 +173,7 @@ _female_: NA<br>
 ## Environment
 
 **Environment - current issues**<br>
-excessive population pressure (increasing settlement); waste management; salinity intrusions into the main land of the island; fresh water supply is dependent on desalination of sea water; over exploitation of marine resources (reef fisheries, coral and shell); indiscriminate anchoring of boats damages coral reefs,causing underwater pollution and changes the sediment dynamics of Saint Martin's Island<br>
+excessive population pressure (increasing settlement); waste management; salinity intrusions into the mainland of the island; fresh water supply is dependent on desalination of sea water; over-exploitation of marine resources (reef fisheries, coral and shell); indiscriminate anchoring of boats damages coral reefs, causing underwater pollution and sedimentation&nbsp;<br>
 
 **Climate**<br>
 temperature averages 27-29 degrees Celsius all year long; low humidity, gentle trade winds, brief, intense rain showers; hurricane season stretches from July to November<br>

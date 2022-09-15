@@ -150,7 +150,7 @@ _improved: total_: total: 94.2% of population<br>
 _unimproved: total_: total: 5.9% of population (2017 est.)<br>
 <strong>note</strong>: includes data for Jersey<br>
 
-**Current Health Expenditure**<br>
+**Current health expenditure**<br>
 NA<br>
 
 **Sanitation facility access**<br>
@@ -246,7 +246,7 @@ see United Kingdom<br>
 16 years of age; universal<br>
 
 **Executive branch**<br>
-_chief of state_: Queen ELIZABETH II (since 6 February 1952); represented by Lieutenant-Governor Vice Admiral Ian CORDER (since 14 March 2016)<br>
+_chief of state_: King CHARLES III (since 8 September 2022); represented by Lieutenant-Governor Vice Admiral Ian CORDER (since 14 March 2016)<br>
 _head of government_: Chief Minister Peter FERBRACHE (since 16 October 2020); Bailiff Richard McMAHON (since 11 May 2020); note - the chief minister is the president of the Policy and Resources Committee and is the de facto head of government; the Policy and Resources Committee, elected by the States of Deliberation, functions as the executive; the 5 members all have equal voting rights<br>
 _cabinet_: none<br>
 _elections/appointments_: the monarchy is hereditary; lieutenant governor and bailiff appointed by the monarch; chief minister, who is the president of the Policy and Resources Committee indirectly elected by the States of Deliberation for a 4-year term; last held on 6 May 2016 (next to be held in June 2020)<br>
@@ -283,7 +283,7 @@ Guernsey cow, donkey; national colors: red, white, yellow<br>
 **National anthem**<br>
 _name_: "Sarnia Cherie" (Guernsey Dear)<br>
 _lyrics/music_: George DEIGHTON/Domencio SANTANGELO<br>
-<strong>note:</strong> adopted 1911; serves as a local anthem; as a British crown dependency, "God Save the Queen" is official (see United Kingdom)<br>
+<strong>note:</strong> adopted 1911; serves as a local anthem; as a British crown dependency, "God Save the King" is official (see United Kingdom)<br>
 
 ## Economy
 
@@ -440,4 +440,7 @@ defense is the responsibility of the UK<br>
 
 **Disputes - international**<br>
 <p>none</p><br>
+
+**Illicit drugs**<br>
+NA<br>
 

@@ -45,7 +45,7 @@ tropical; always hot, humid<br>
 narrow coastal plain; hilly interior; savanna in east and south<br>
 
 **Elevation**<br>
-_highest point_: Mont Bengoue 1,050 m<br>note - the Factbook map is incorrect; it shows the wrong high elevation<br>
+_highest point_: Mont Bengoue 1,050 m<br>
 _lowest point_: Atlantic Ocean 0 m<br>
 _mean elevation_: 377 m<br>
 
@@ -183,7 +183,7 @@ _unimproved: urban_: urban: 2.8% of population<br>
 _unimproved: rural_: rural: 44.7% of population<br>
 _unimproved: total_: total: 6.9% of population (2020 est.)<br>
 
-**Current Health Expenditure**<br>
+**Current health expenditure**<br>
 2.8% (2019)<br>
 
 **Physicians density**<br>
@@ -361,7 +361,8 @@ _judge selection and term of office_: appointment and tenure of Supreme, Adminis
 _subordinate courts_: Courts of Appeal; county courts; military courts<br>
 
 **Political parties and leaders**<br>
-Circle of Liberal Reformers or CLR [Gen. Jean-Boniface ASSELE]<br>Democratic and Republican Alliance or ADERE [DIDJOB Divungui di Ndinge]<br>Gabonese Democratic Party or PDG [Ali BONGO Ondimba]<br>Independent Center Party of Gabon or PGCI [Luccheri GAHILA]<br>Legacy and Modernity Party or RH&amp;M<br>National Woodcutters' Rally - Rally for Gabon or RNB-RPG<br>Restoration of Republican Values or RV<br>Social Democratic Party or PSD [Pierre Claver MAGANGA-MOUSSAVOU]<br>Social Democrats of Gabon<br>The Democrats or LD [Guy NZOUBA-NDAMA]<br>Union for the New Republic or UPRN [Louis Gaston MAYILA]<br>Union of Forces for Change or UFC [Jean PING]<br>Union of Gabonese People or UPG [Richard MOULOMBA]<br>
+Circle of Liberal Reformers or CLR [Gen. Jean-Boniface ASSELE]<br>Democratic and Republican Alliance or ADERE [DIDJOB Divungui di Ndinge]<br>Gabonese Democratic Party or PDG [Ali BONGO Ondimba]<br>Independent Center Party of Gabon or PGCI [Luccheri GAHILA]<br>Legacy and Modernity Party or RH&amp;M<br>National Woodcutters' Rally - Rally for Gabon or RNB-RPG [Paul Mba ABESSOLE]<br>Restoration of Republican Values or RV<br>Social Democratic Party or PSD [Pierre Claver MAGANGA-MOUSSAVOU]<br>Social Democrats of Gabon <br>The Democrats or LD [Guy NZOUBA-NDAMA]<br>Union for the New Republic or UPRN [Louis Gaston MAYILA]<br>Union of Forces for Change or UFC [Jean PING]<br>Union of Gabonese People or UPG [Richard MOULOMBA]<br>
+Paul Mba Abessole<br>
 
 **International organization participation**<br>
 ACP, AfDB, AU, BDEAC, CEMAC, FAO, FZ, G-24, G-77, IAEA, IBRD, ICAO, ICCt, ICRM, IDA, IDB, IFAD, IFC, IFRCS, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, NAM, OIC, OIF, OPCW, UN, UNCTAD, UNESCO, UNIDO, UNWTO, UPU, WCO, WHO, WIPO, WMO, WTO<br>

@@ -180,7 +180,7 @@ _unimproved: urban_: urban: 1.6% of population<br>
 _unimproved: rural_: rural: 35.8% of population<br>
 _unimproved: total_: total: 12.4% of population (2020 est.)<br>
 
-**Current Health Expenditure**<br>
+**Current health expenditure**<br>
 3.8% (2019)<br>
 
 **Physicians density**<br>
@@ -351,11 +351,11 @@ _residency requirement for naturalization_: 5 years<br>
 18 years of age; universal<br>
 
 **Executive branch**<br>
-_chief of state_: President Ukhnaa KHURELSUKH (since 25 June 2021)<br>
+_chief of state_: President Ukhnaagiin KHURELSUKH (since 25 June 2021)<br>
 _head of government_: Prime Minister Luvsannamsrai OYUN-ERDENE (since 27 January 2021); Deputy Prime Minister Ulziisaikhan ENKHTUVSHIN (since 18 October 2017)<br>
 _cabinet_: directly appointed by the prime minister following a constitutional amendment ratified in November 2019; prior to the amendment, the cabinet was nominated by the prime minister in consultation with the president and confirmed by the State Great Hural (parliament)<br>
 _elections/appointments_: presidential candidates nominated by political parties represented in the State Great Hural and directly elected by simple majority popular vote for one 6-year term; election last held on 9 June 2021; following legislative elections, the leader of the majority party or majority coalition is usually elected prime minister by the State Great Hural<br>
-_election results_: Ukhnaa KHURELSUKH elected president in first round; percent of vote - Ukhnaa KHURELSUKH (Mongolian People's Party) 67.7%, Dangaasuren ENKHBAT (HUN Coalition) 20.31%, Sodnomzundui ERDENE (Democratic Party) 5.99%<br>
+_election results_: Ukhnaagiin KHURELSUKH elected president in first round; percent of vote - Ukhnaa KHURELSUKH (Mongolian People's Party) 67.7%, Dangaasuren ENKHBAT (HUN Coalition) 20.31%, Sodnomzundui ERDENE (Democratic Party) 5.99%<br>
 
 **Legislative branch**<br>
 _description_: unicameral State Great Hural or Ulsyn Ikh Khural (76 seats; members directly elected in single-seat constituencies by simple majority vote; each constituency requires at least 50% voter participation for the poll to be valid; members serve 4-year terms)<br>
@@ -368,7 +368,7 @@ _judge selection and term of office_: Supreme Court chief justice and judges app
 _subordinate courts_: aimag (provincial) and capital city appellate courts; soum, inter-soum, and district courts; Administrative Cases Courts<br>
 
 **Political parties and leaders**<br>
-Democratic Party or DP [Tsogtgerel ODON]<br>Mongolian National Democratic Party or MNDP [Bayanjargal TSOGTGEREL]<br>Mongolian People's Party or MPP [Luvsannamsrai OYUN-ERDENE]<br>Civil Will-Green Party or CWGP [Tserendorj GANKHUYAG] <br>Mongolian Traditionally United Party or MTUP [Batdelgeriin BATBOLD]<br>National Labor Party or HUN [Togmid Dorhkhand]<br>Mongolian Social Democratic Party or MSDP [Adiya GANBAATAR]<br>Justice Party [Batbayar NASANBILEG]<br>Right Person Electorate Coalition (coalition of the National Labor Party, Mongolian Social Democratic Party, and the Justice Party [Badrakhyn NAIDALAA]<br>Our Coalition (coalition of the MPRP, Civil Will-Green Party, and Mongolian Traditionally United Party formed for the 2020 election)<br>
+Civil Will-Green Party or CWGP [Tserendorj GANKHUYAG] <br>Democratic Party or DP [Tsogtgerel ODON]<br>Justice Party [Batbayar NASANBILEG]<br>Mongolian National Democratic Party or MNDP [Bayanjargal TSOGTGEREL]<br>Mongolian People's Party or MPP [Luvsannamsrai OYUN-ERDENE]<br>Mongolian Social Democratic Party or MSDP [Adiya GANBAATAR]<br>Mongolian Traditionally United Party or MTUP [Batdelgeriin BATBOLD]<br>National Labor Party or HUN [Togmid Dorhkhand]<br>Our Coalition (coalition of the MPRP, Civil Will-Green Party, and Mongolian Traditionally United Party formed for the 2020 election)<br>Right Person Electorate Coalition of ZKEE (coalition of the National Labor Party, Mongolian Social  [Badrakhyn NAIDALAA]<br>
 note - there were 35 total registered parties as of December 2021<br>
 
 **International organization participation**<br>
@@ -690,7 +690,8 @@ _by type_: bulk carrier 4, container ship 7, general cargo 131, oil tanker 64, o
 ## Military and Security
 
 **Military and security forces**<br>
-Mongolian Armed Forces (Mongol ulsyn zevsegt huchin): General Purpose Troops (Mongolian Army), Air/Air Defense Force, Cyber Security, Special Forces, Civil Engineering, Civil Defense Forces (2022)<br>
+Mongolian Armed Forces (MAF): General Purpose Troops (Mongolian Army), Air/Air Defense Force, Cyber Security, Special Forces, Civil Engineering, Civil Defense Forces (2022)<br>
+<strong>note: </strong>the National Police Agency and the General Authority for Border Protection, which operate under the Ministry of Justice and Home Affairs, are primarily responsible for internal security; they are assisted by the General Intelligence Agency under the prime minister; the Armed Forces assist the internal security forces in providing domestic emergency assistance and disaster relief<br>
 
 **Military expenditures**<br>
 0.8% of GDP (2021 est.)<br>
@@ -700,13 +701,13 @@ Mongolian Armed Forces (Mongol ulsyn zevsegt huchin): General Purpose Troops (Mo
 0.8% of GDP (2017 est.) (approximately $110 million)<br>
 
 **Military and security service personnel strengths**<br>
-estimates vary; approximately 9,000 active duty troops (2022)<br>
+information varies; approximately 9,000 active duty troops (2022)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the MAF are armed with Soviet-era equipment supplemented by deliveries of second-hand Russian weapons (2021)<br>
 
 **Military service age and obligation**<br>
-18-27 years of age for compulsory and voluntary military service; 1-year conscript service obligation in army or air forces or police for males only (can be exchanged for a 24‐month stint in the civil service or a tax voucher); after conscription, soldiers can contract into military service for 2 or 4 years; citizens can also voluntarily join the armed forces (2021)<br>
+18-27 years of age for compulsory and voluntary military service; 12-month conscript service obligation for men in the army, air forces, or police (can be exchanged for a 24‐month stint in the civil service or a tax voucher); after conscription, soldiers can contract into military service for 2 or 4 years; women may volunteer (2021)<br>
 
 **Military deployments**<br>
 860 South Sudan (UNMISS) (May 2022)<br>
@@ -722,4 +723,7 @@ the MAF are armed with Soviet-era equipment supplemented by deliveries of second
 
 **Refugees and internally displaced persons**<br>
 _stateless persons_: 17 (mid-year 2021)<br>
+
+**Illicit drugs**<br>
+NA<br>
 

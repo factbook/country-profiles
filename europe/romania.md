@@ -181,7 +181,7 @@ _unimproved: urban_: urban: 0% of population<br>
 _unimproved: rural_: rural: 0% of population<br>
 _unimproved: total_: total: 0% of population (2020 est.)<br>
 
-**Current Health Expenditure**<br>
+**Current health expenditure**<br>
 5.7% (2019)<br>
 
 **Physicians density**<br>
@@ -712,14 +712,13 @@ approximately 75,000 active duty personnel (58,000 Land Forces; 7,000 Naval Forc
 the inventory of the Romanian Armed Forces is comprised mostly of Soviet-era and older domestically-produced weapons systems; there is also a smaller mix of Western-origin equipment received in more recent years from European countries and the US&nbsp; (2021)<br>
 
 **Military service age and obligation**<br>
-conscription ended in 2006; 18 years of age for male and female voluntary service; all military inductees (including women) contract for an initial 5-year term of service, with subsequent successive 3-year terms until age 36 (2021)<br>
+conscription ended in 2006; 18 years of age for male and female voluntary service; all military inductees contract for an initial 5-year term of service, with subsequent successive 3-year terms until age 36 (2021)<br>
 
 **Military deployments**<br>
 up to 120 Poland (NATO) (2022)<br>
-<strong>note: </strong>in response to Russia’s 2022 invasion of Ukraine, some NATO countries have sent additional troops and equipment to the battlegroups deployed in NATO territory in eastern Europe<br>
 
 **Military - note**<br>
-Romania became a member of NATO in 2004<br><br>Romania conducts its own air policing mission, but because of Russian aggression in the Black Sea region, NATO allies have sent detachments of fighters to augment the Romanian Air Force since 2014 <br><br>Romania hosts a NATO multinational divisional (Multinational Division Southeast; became operational in 2017) and a brigade-sized headquarters as part of NATO's tailored forward presence in the southeastern part of the Alliance (2022)<br>
+Romania became a member of NATO in 2004<br><br>Romania hosts a NATO multinational divisional headquarters (Multinational Division Southeast; became operational in 2017) and a French-led ground force battlegroup as part of NATO's tailored forward presence in the southeastern part of the Alliance; NATO reinforced the battlegroup with additional troops in response to Russia’s 2022 invasion of Ukraine; Romania conducts its own air policing mission, but because of Russian aggression in the Black Sea region, NATO allies have sent detachments of fighters to augment the Romanian Air Force since 2014 (2022)<br>
 
 ## Terrorism
 
@@ -733,9 +732,9 @@ Islamic State of Iraq and ash-Sham (ISIS)<br>
 <p><em>Romania-Bulgaria</em>: none identified</p> <p><em>Romania-Hungary</em>: none identified</p> <p><em>Romania-Moldova</em>: none identified</p> <p><em>Romania-Serbia</em>: none identified</p> <p><em>Romania-Ukraine</em>: the International Court of Justice ruled largely in favor of Romania in its dispute submitted in 2004 over Ukrainian-administered Zmiyinyy/Serpilor (Snake) Island and Black Sea maritime boundary delimitation; in 2007, Romania opposed Ukraine's construction of a navigation canal from the Danube border through Ukraine to the Black Sea, arguing that it runs through a unique ecological area, the Danube Delta</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 87,066 (Ukraine) (as of 28 August 2022)<br>
+_refugees (country of origin)_: 86,178 (Ukraine) (as of 5 August 2022)<br>
 _stateless persons_: 314 (mid-year 2021)<br>
-<strong>note:</strong> 10,447 estimated refugee and migrant arrivals (January 2015-July 2022)<br>
+<strong>note:</strong> 11,102 estimated refugee and migrant arrivals (January 2015-September 2022)<br>
 
 **Trafficking in persons**<br>
 _current situation_: human traffickers exploit domestic and foreign victims in Romania and Romanians abroad;&nbsp; Romania remains a primary source country for sex and labor trafficking victims in Europe; Romanian men, women, and children are subjected to forced labor in agriculture, construction, hotels, manufacturing, domestic service, commercial sex, and forced begging and theft; Romania is a destination country for a limited number of foreign trafficking victims, including migrants from Africa, Europe, and South and Southeast Asia, exploited in the construction, hotel, and food-processing industries<br>

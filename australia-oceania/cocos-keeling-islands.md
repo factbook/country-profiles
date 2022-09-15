@@ -141,7 +141,7 @@ _unimproved: urban_: urban: NA<br>
 _unimproved: rural_: rural: NA<br>
 _unimproved: total_: total: NA<br>
 
-**Current Health Expenditure**<br>
+**Current health expenditure**<br>
 NA<br>
 
 **HIV/AIDS - adult prevalence rate**<br>
@@ -213,7 +213,7 @@ see Australia<br>
 18 years of age<br>
 
 **Executive branch**<br>
-_chief of state_: Queen ELIZABETH II (since 6 February 1952); represented by Governor General of the Commonwealth of Australia General David HURLEY (since 1 July 2019)<br>
+_chief of state_: King CHARLES III (since 8 September 2022); represented by Governor General of the Commonwealth of Australia General David HURLEY (since 1 July 2019)<br>
 _head of government_: Administrator Natasha GRIGGS (since 5 October 2017)<br>
 _cabinet_: NA<br>
 _elections/appointments_: the monarchy is hereditary; governor general appointed by the monarch on the recommendation of the Australian prime minister; administrator appointed by the governor general for a 2-year term and represents the monarch and Australia<br>
@@ -242,7 +242,7 @@ _embassy_: none (territory of Australia)<br>
 the flag of Australia is used<br>
 
 **National anthem**<br>
-<p><strong>note:</strong> as a territory of Australia, "Advance Australia Fair" remains official as the national anthem, while "God Save the Queen" serves as the royal anthem (see Australia)</p><br>
+<p><strong>note:</strong> as a territory of Australia, "Advance Australia Fair" remains official as the national anthem, while "God Save the King" serves as the royal anthem (see Australia)</p><br>
 
 ## Economy
 

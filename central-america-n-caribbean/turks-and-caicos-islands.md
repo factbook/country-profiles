@@ -159,7 +159,7 @@ NA<br>
 _improved: total_: total: 94.3% of population<br>
 _unimproved: total_: total: 5.7% of population (2017)<br>
 
-**Current Health Expenditure**<br>
+**Current health expenditure**<br>
 NA<br>
 
 **Physicians density**<br>
@@ -273,7 +273,7 @@ see United Kingdom<br>
 18 years of age; universal<br>
 
 **Executive branch**<br>
-_chief of state_: Queen ELIZABETH II (since 6 February 1952); represented by Governor Nigel DAKIN (since 15 July 2019)<br>
+_chief of state_: King CHARLES III (since 8 September 2022); represented by Governor Nigel DAKIN (since 15 July 2019)<br>
 _head of government_: Premier Washington MISICK (since 19 February 2021)<br>
 _cabinet_: Cabinet appointed by the governor from among members of the House of Assembly<br>
 _elections/appointments_: the monarch is hereditary; governor appointed by the monarch; following legislative elections, the leader of the majority party is appointed premier by the governor<br>
@@ -309,7 +309,7 @@ conch shell, Turk's cap cactus<br>
 **National anthem**<br>
 _name_: "This Land of Ours"<br>
 _lyrics/music_: Conrad HOWELL<br>
-<strong>note:</strong> serves as a local anthem; as a territory of the UK, "God Save the Queen" is the official anthem (see United Kingdom)<br>
+<strong>note:</strong> serves as a local anthem; as an overseas territory of the UK, "God Save the King" is the official anthem (see United Kingdom)<br>
 
 ## Economy
 

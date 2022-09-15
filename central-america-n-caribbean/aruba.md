@@ -164,7 +164,7 @@ _unimproved: urban_: urban: 1.9% of population<br>
 _unimproved: rural_: rural: 1.9% of population<br>
 _unimproved: total_: total: 1.9% of population (2015 est.)<br>
 
-**Current Health Expenditure**<br>
+**Current health expenditure**<br>
 NA<br>
 
 **Physicians density**<br>

@@ -175,7 +175,7 @@ _unimproved: urban_: urban: 0.6% of population<br>
 _unimproved: rural_: rural: 5.7% of population<br>
 _unimproved: total_: total: 2.7% of population (2020 est.)<br>
 
-**Current Health Expenditure**<br>
+**Current health expenditure**<br>
 6.7% (2019)<br>
 
 **Physicians density**<br>
@@ -620,8 +620,8 @@ The Tbilisi-based Georgian Public Broadcaster (GPB) includes Channel 1, Channel 
 .ge<br>
 
 **Internet users**<br>
-_total_: 2,717,583 (2020 est.)<br>
-_percent of population_: 73% (2020 est.)<br>
+_total_: 3,628,500 (July 2022 est.)<br>
+_percent of population_: 91.2% (July 2022 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 972,162 (2020 est.)<br>
@@ -708,7 +708,7 @@ as of 2022, up to 10,000 Russian troops continued to occupy the breakaway region
 <p>Russia's military support and subsequent recognition of Abkhazia and South Ossetia independence in 2008 continue to sour relations with Georgia</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 26,379 (Ukraine) (as of 30 August 2022)<br>
+_refugees (country of origin)_: 26,232 (Ukraine) (as of 6 September 2022)<br>
 _IDPs_: 305,000 (displaced in the 1990s as a result of armed conflict in the breakaway republics of Abkhazia and South Ossetia; displaced in 2008 by fighting between Georgia and Russia over South Ossetia) (2021)<br>
 _stateless persons_: 534 (mid-year 2021)<br>
 

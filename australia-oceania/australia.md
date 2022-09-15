@@ -190,7 +190,7 @@ _unimproved: urban_: urban: 0% of population<br>
 _unimproved: rural_: rural: 0% of population<br>
 _unimproved: total_: total: 0% of population (2020 est.)<br>
 
-**Current Health Expenditure**<br>
+**Current health expenditure**<br>
 9.9% (2019)<br>
 
 **Physicians density**<br>
@@ -366,7 +366,7 @@ _residency requirement for naturalization_: 4 years<br>
 18 years of age; universal and compulsory<br>
 
 **Executive branch**<br>
-_chief of state_: Queen ELIZABETH II (since 6 February 1952); represented by Governor General David HURLEY (since 1 July 2019)<br>
+_chief of state_: King CHARLES III (since 8 September 2022); represented by Governor General David HURLEY (since 1 July 2019)<br>
 _head of government_: Prime Minister Anthony ALBANESE (since 23 May 2022)<br>
 _cabinet_: Cabinet nominated by the prime minister from among members of Parliament and sworn in by the governor general<br>
 _elections/appointments_: the monarchy is hereditary; governor general appointed by the monarch on the recommendation of the prime minister; following legislative elections, the leader of the majority party or majority coalition is sworn in as prime minister by the governor general<br>
@@ -413,7 +413,7 @@ Commonwealth Star (seven-pointed Star of Federation), golden wattle tree (Acacia
 **National anthem**<br>
 _name_: Advance Australia Fair<br>
 _lyrics/music_: Peter Dodds McCORMICK<br>
-<strong>note 1:</strong> adopted 1984; although originally written in the late 19th century, the anthem was not used for all official occasions until 1984; as a Commonwealth country, in addition to the national anthem, "God Save the Queen" serves as the royal anthem (see United Kingdom)<br><br><strong>note 2:</strong> the well-known and much-loved bush ballad "Waltzing Matilda" is often referred to as Australia's unofficial national anthem; the original lyrics were written in 1895 by Australian poet Banjo PATERSON, and were first published as sheet music in 1903; since 2012, a Waltzing Matilda Day has been held annually on 6 April, the anniversary of the first performance of the song in 1895<br>
+<strong>note 1:</strong> adopted 1984; although originally written in the late 19th century, the anthem was not used for all official occasions until 1984; as a Commonwealth country, in addition to the national anthem, "God Save the King" serves as the royal anthem (see United Kingdom)<br><br><strong>note 2:</strong> the well-known and much-loved bush ballad "Waltzing Matilda" is often referred to as Australia's unofficial national anthem; the original lyrics were written in 1895 by Australian poet Banjo PATERSON, and were first published as sheet music in 1903; since 2012, a Waltzing Matilda Day has been held annually on 6 April, the anniversary of the first performance of the song in 1895<br>
 
 **National heritage**<br>
 _total World Heritage Sites_: 20 (4 cultural, 12 natural, 4 mixed); note - includes one site on Heard Island and McDonald Islands<br>

@@ -183,7 +183,7 @@ _unimproved: urban_: urban: NA<br>
 _unimproved: rural_: rural: NA<br>
 _unimproved: total_: total: 5.8% of population (2020 est.)<br>
 
-**Current Health Expenditure**<br>
+**Current health expenditure**<br>
 5.4% (2019)<br>
 
 **Physicians density**<br>
@@ -735,5 +735,5 @@ _current situation_: Venezuela is a source, transit, and destination country for
 _tier rating_: Tier 3 &mdash; Venezuela does not fully meet the minimum standards for the elimination of trafficking and is not making significant efforts to do so; the government created a specialized prosecutor&rsquo;s office to oversee trafficking investigations and prosecutions; authorities began legal proceedings against three complicit officials in a notable case; however, the government did not assist any victims or investigate, prosecute, or convict any traffickers; little effort was made to curb the forced recruitment of Venezuelan children by Colombian armed groups operating illegally in Venezuela; authorities made little effort to screen Cuban medical professionals for trafficking indicators as the Cuban Government may have forced them to work by withholding their documentation, and coercing them to falsify medical records (2020)<br>
 
 **Illicit drugs**<br>
-<p> a major drug transit country and trafficking route in the Western Hemisphere largely destined for the Caribbean, Central America, the United States, West Africa, and Europe for illegal drugs, predominately cocaine; government officials reportedly complicit with illegal armed narcotrafficking groups little international drug control cooperation;  significant narcotics-related money-laundering activity, increasing signs of drug-related activities by Colombian insurgents on border</p><br>
+<p> a major drug transit country and trafficking route in the Western Hemisphere largely destined for the Caribbean, Central America, the United States, West Africa, and Europe for illegal drugs, predominately cocaine; government officials reportedly complicit with illegal armed narcotrafficking groups; little international drug control cooperation;  significant narcotics-related money-laundering activity, increasing signs of drug-related activities by Colombian insurgents on border</p><br>
 

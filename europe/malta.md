@@ -172,7 +172,7 @@ _unimproved: urban_: urban: 0% of population<br>
 _unimproved: rural_: rural: 0% of population<br>
 _unimproved: total_: total: 0% of population (2020 est.)<br>
 
-**Current Health Expenditure**<br>
+**Current health expenditure**<br>
 8.2% (2019)<br>
 
 **Physicians density**<br>
@@ -348,7 +348,7 @@ _judge selection and term of office_: Court of Appeal and Constitutional Court j
 _subordinate courts_: Civil Court (divided into the General Jurisdiction Section, Family Section, and Voluntary Section); Criminal Court; Court of Magistrates; Gozo Courts (for the islands of Gozo and Comino)<br>
 
 **Political parties and leaders**<br>
-Democratic Party (Partit Demokratiku) or PD [Godfrey FARRUGIA]<br>Labor Party (Partit Laburista) or PL [Robert ABELA]<br>Nationalist Party (Partit Nazzjonalista) or PN [Bernard GRECH]<br>
+AD+PD or ADPD [Carmel CACOPARDO] (formed from the merger of Democratic Alternative or AD and Democratic Party (Partit Demokratiku) or PD)<br>Labor Party (Partit Laburista) or PL [Robert ABELA]<br>Nationalist Party (Partit Nazzjonalista) or PN [Bernard GRECH]<br>
 
 **International organization participation**<br>
 Australia Group, C, CD, CE, EAPC, EBRD, ECB, EIB, EMU, EU, FAO, IAEA, IBRD, ICAO, ICC (NGOs), ICCt, ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, NSG, OAS (observer), OPCW, OSCE, PCA, PFP, Schengen Convention, UN, UNCTAD, UNESCO, UNIDO, Union Latina (observer), UNWTO, UPU, Wassenaar Arrangement, WCO, WHO, WIPO, WMO, WTO<br>
@@ -658,7 +658,8 @@ _LNG terminal(s) (import)_: Delimara<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Armed Forces of Malta (AFM, includes land, maritime, and air elements, plus a Volunteer Reserve Force) (2022)<br>
+the Armed Forces of Malta (AFM) is a joint force with land, maritime, and air elements, plus a Volunteer Reserve Force (2022)<br>
+<strong>note:</strong> the AFM and the Malta Police Force are both under the Ministry of Home Affairs, National Security, and Law Enforcement<br>
 
 **Military expenditures**<br>
 0.5% of GDP (2021 est.)<br>
@@ -671,7 +672,7 @@ Armed Forces of Malta (AFM, includes land, maritime, and air elements, plus a Vo
 approximately 2,000 active duty personnel (2021)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the small inventory of the Armed Forces of Malta consists of equipment from a mix of European countries, particularly Italy, and the US (2021)<br>
+the military has a small inventory that consists of equipment from a mix of European countries, particularly Italy, and the US (2021)<br>
 
 **Military service age and obligation**<br>
 18-30 years of age for men and women for voluntary military service; no conscription (2021)<br>

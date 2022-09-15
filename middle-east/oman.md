@@ -175,7 +175,7 @@ _unimproved: urban_: urban: 0% of population<br>
 _unimproved: rural_: rural: 2.1% of population<br>
 _unimproved: total_: total: 0.3% of population (2020 est.)<br>
 
-**Current Health Expenditure**<br>
+**Current health expenditure**<br>
 4.1% (2019)<br>
 
 **Physicians density**<br>
@@ -668,6 +668,7 @@ _LNG terminal(s) (export)_: Qalhat<br>
 
 **Military and security forces**<br>
 Sultan's Armed Forces (SAF): Royal Army of Oman (RAO), Royal Navy of Oman (RNO), Royal Air Force of Oman (RAFO), Royal Guard of Oman (RGO); Royal Oman Police (ROP): Civil Defense, Immigration, Customs, Royal Oman Police Coast Guard (2022)<br>
+<strong>note: </strong>in addition to its policing duties, the Royal Oman Police conducts many administrative functions similar to the responsibilities of a Ministry of Interior in other countries   <br>
 
 **Military expenditures**<br>
 8% of GDP (2021 est.)<br>
@@ -686,7 +687,7 @@ the SAF's inventory includes a mix of older and some more modern weapons systems
 18-30 years of age for voluntary military service (women have been allowed to serve since 2011); no conscription (2022)<br>
 
 **Military - note**<br>
-the Sultan’s Armed Forces (SAF) have a longstanding security relationship with the British military going back to the 18th century; as of 2022, the SAF and the British maintained a joint training base in Oman and exercised together regularly; in 2017, Oman and the British signed an agreement allowing the British military the use of facilities at Al Duqm Port; in 2019, the US obtained access to the port (2022)<br>
+the SAF has a longstanding security relationship with the British military going back to the 18th century; as of 2022, the SAF and the British maintained a joint training base in Oman and exercised together regularly; in 2017, Oman and the British signed an agreement allowing the British military the use of facilities at Al Duqm Port; in 2019, the US obtained access to the port (2022)<br>
 
 **Maritime threats**<br>
 <p>the Maritime Administration of the US Department of Transportation has issued a Maritime Advisory (2022-003 Persian Gulf, Strait of Hormuz, Gulf of Oman, Arabian Sea, Red Sea-Threats to US and International Shipping from Iran) effective 28 February 2022, which states in part that "heightened military activities and increased political tensions in this region continue to present risk to commercial shipping...there is a continued possibility that Iran and/or its regional proxies could take actions against US and partner interests in the region"; Coalition Task Force (CTF) Sentinel has been established to provide escorts for commercial shipping transiting the Persian Gulf, Strait of Hormuz, and Gulf of Oman</p><br>

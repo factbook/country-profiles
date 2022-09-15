@@ -164,7 +164,7 @@ _unimproved: urban_: urban: NA<br>
 _unimproved: rural_: rural: NA<br>
 _unimproved: total_: total: 0.9% of population (2020)<br>
 
-**Current Health Expenditure**<br>
+**Current health expenditure**<br>
 NA<br>
 
 **Physicians density**<br>
@@ -275,11 +275,11 @@ see United Kingdom<br>
 16 years of age; universal<br>
 
 **Executive branch**<br>
-_chief of state_: Lord of Mann Queen ELIZABETH II (since 6 February 1952); represented by Lieutenant Governor Sir John LORIMER (since 29 September 2021)<br>
+_chief of state_: Lord of Mann King CHARLES III (since 8 September 2022); represented by Lieutenant Governor Sir John LORIMER (since 29 September 2021)<br>
 _head of government_: Chief Minister Alfred CANNAN (since 12 October 2021)<br>
 _cabinet_: Council of Ministers appointed by the lieutenant governor<br>
 _elections/appointments_: the monarchy is hereditary; lieutenant governor appointed by the monarch; chief minister indirectly elected by the Tynwald for a 5-year term (eligible for second term); election last held on 23 September 2021 (next to be held in 2026)<br>
-_election results_: <em>2021:</em> Alfred CANNAN (independent) elected chief minister; Tynwald House of Keys vote - 21 of 24<br><br><em>2016:</em> Howard QUAYLE elected chief minister; Tynwald House of Keys vote - 21 of 33 <br>
+_election results_: <em>2021:</em> Alfred CANNAN (independent) elected chief minister; Tynwald House of Keys vote - 21 of 24<br><br><em>2016:</em> Howard QUAYLE elected chief minister; Tynwald House of Keys vote - 21 of 33<br>
 
 **Legislative branch**<br>
 _description_: bicameral Tynwald or the High Court of Tynwald consists of:<br>Legislative Council (11 seats; includes the President of Tynwald, 2 ex-officio members - the Lord Bishop of Sodor and Man and the attorney general (non-voting) - and 8 members indirectly elected by the House of Keys with renewal of 4 members every 2 years; elected members serve 4-year terms) <br>House of Keys (24 seats; 2 members directly elected by simple majority vote from 12 constituencies to serve 5-year terms)<br>
@@ -313,7 +313,7 @@ triskelion (a motif of three legs); national colors: red, white<br>
 **National anthem**<br>
 _name_: "Arrane Ashoonagh dy Vannin" (O Land of Our Birth)<br>
 _lyrics/music_: William Henry GILL [English], John J. KNEEN [Manx]/traditional<br>
-<strong>note:</strong> adopted 2003, in use since 1907; serves as a local anthem; as a British Crown dependency, "God Save the Queen" is official (see United Kingdom) and is played when the sovereign, members of the royal family, or the lieutenant governor are present<br>
+<strong>note:</strong> adopted 2003, in use since 1907; serves as a local anthem; as a British Crown dependency, "God Save the King" is official (see United Kingdom) and is played when the sovereign, members of the royal family, or the lieutenant governor are present<br>
 
 ## Economy
 

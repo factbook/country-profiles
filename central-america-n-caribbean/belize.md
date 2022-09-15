@@ -173,7 +173,7 @@ _unimproved: urban_: urban: 0% of population<br>
 _unimproved: rural_: rural: 0.6% of population<br>
 _unimproved: total_: total: 0.3% of population (2020 est.)<br>
 
-**Current Health Expenditure**<br>
+**Current health expenditure**<br>
 6% (2019)<br>
 
 **Physicians density**<br>
@@ -332,7 +332,7 @@ _residency requirement for naturalization_: 5 years<br>
 18 years of age; universal<br>
 
 **Executive branch**<br>
-_chief of state_: Queen ELIZABETH II (since 6 February 1952); represented by Governor Froyla TZALAM (since 27 May 2021)<br>
+_chief of state_: King CHARLES III (since 8 September 2022); represented by Governor Froyla TZALAM (since 27 May 2021)<br>
 _head of government_: Prime Minister Juan Antonio BRICENO (since 12 November 2020); Deputy Prime Minister Cordel HYDE (since 16 November 2020)<br>
 _cabinet_: Cabinet appointed by the governor general on the advice of the prime minister from among members of the National Assembly<br>
 _elections/appointments_: the monarchy is hereditary; governor general appointed by the monarch; following legislative elections, the leader of the majority party or majority coalition usually appointed prime minister by the governor general; prime minister recommends the deputy prime minister<br>
@@ -695,5 +695,5 @@ _current situation_: human traffickers exploit domestic and foreign victims and 
 _tier rating_: Tier 2 Watch List &mdash; Belize does not fully meet the minimum standards for the elimination of trafficking but is making significant efforts to do so; authorities initiated more trafficking investigations, convicted a trafficker, screened for potential trafficking victims during labor inspections, and continued to implement a 2018-2020 national anti-trafficking action plan; anti-trafficking training was provided to the anti-trafficking police unit, immigration officers, prosecutors, judges, prison officials, and social workers; however, the government did not initiate any new trafficking prosecutions and continued to apply victim identification procedures inconsistently; corruption and official complicity in trafficking remained concerns, but no investigations, prosecutions, or convictions of government employees were reported (2020)<br>
 
 **Illicit drugs**<br>
-<p>Belize is a transit country for illegal drugs, mainly cocaine, originating from countries in South America; low domestic drug consumption problem outside of recreational cannabis</p><br>
+<p>a transit country for illegal drugs, mainly cocaine, originating from countries in South America; low domestic drug consumption problem outside of recreational cannabis</p><br>
 

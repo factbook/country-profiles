@@ -180,7 +180,7 @@ _unimproved: urban_: urban: 0.2% of population<br>
 _unimproved: rural_: rural: 1.9% of population<br>
 _unimproved: total_: total: 0.6% of population (2020 est.)<br>
 
-**Current Health Expenditure**<br>
+**Current health expenditure**<br>
 6.7% (2019)<br>
 
 **Physicians density**<br>
@@ -695,8 +695,8 @@ _container port(s) (TEUs)_: Bandar Abbas<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Islamic Republic of Iran Regular Forces (Artesh): Ground Forces, Navy (includes marines), Air Force, Air Defense Forces; Islamic Revolutionary Guard Corps (IRGC or Sepah): Ground Forces, Navy (includes marines), Aerospace Force (controls strategic missile force), Qods Force (aka Quds Force; special operations), Cyber Electronic Command, Basij Paramilitary Forces (Popular Mobilization Army); Law Enforcement Forces (border and security troops, assigned to the armed forces in wartime) (2022)<br>
-<strong>note 1:</strong> the Artesh Navy operates Iran’s larger warships and operates in the Gulf of Oman, the Caspian Sea, and deep waters in the region and beyond; the IRGC Navy has responsibility for the closer-in Persian Gulf and Strait of Hormuz<br><br><strong>note 2:</strong> the Basij is a volunteer paramilitary group under the IRGC with local organizations across the country, which sometimes acts as an auxiliary law enforcement unit <br>
+Islamic Republic of Iran Army or Islamic Republic of Iran Regular Forces (Artesh): Islamic Republic of Iran Army Ground Forces (IRIGF), Navy (includes marines), Air Force, Air Defense Forces; Islamic Revolutionary Guard Corps (IRGC or Sepah): Ground Forces (IRGCGF), Navy (includes marines), Aerospace Force (controls strategic missile force), Qods Force (aka Quds Force; special operations), Cyber Electronic Command, Basij Paramilitary Forces (Popular Mobilization Army); Law Enforcement Forces (border and security troops, assigned to the armed forces in wartime) (2022)<br>
+<strong>note 1:</strong> the Artesh Navy operates Iran’s larger warships and operates in the Gulf of Oman, the Caspian Sea, and deep waters in the region and beyond; the IRGC Navy has responsibility for the closer-in Persian Gulf and Strait of Hormuz<br><br><strong>note 2:</strong> the Basij is a volunteer paramilitary group under the IRGC with local organizations across the country, which sometimes acts as an auxiliary law enforcement unit<br>
 
 **Military expenditures**<br>
 2.3% of GDP (2021 est.)<br>

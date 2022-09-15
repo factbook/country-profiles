@@ -189,7 +189,7 @@ _unimproved: urban_: urban: 2.8% of population<br>
 _unimproved: rural_: rural: 17.6% of population<br>
 _unimproved: total_: total: 6% of population (2020 est.)<br>
 
-**Current Health Expenditure**<br>
+**Current health expenditure**<br>
 5.2% (2019)<br>
 
 **Physicians density**<br>
@@ -265,7 +265,7 @@ _female_: 12.1% (2020 est.)<br>
 ## Environment
 
 **Environment - current issues**<br>
-deforestation (some the result of illegal logging); overgrazing of the slopes of the costa and sierra leading to soil erosion; desertification; air pollution in Lima; pollution of rivers and coastal waters from municipal and mining wastes; overfishing<br>
+deforestation (some the result of illegal logging); overgrazing leading to soil erosion; desertification; air pollution in Lima; pollution of rivers and coastal waters from municipal and mining wastes; overfishing<br>
 
 **Environment - international agreements**<br>
 _party to_: Antarctic-Environmental Protection, Antarctic-Marine Living Resources, Antarctic Treaty, Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Desertification, Endangered Species, Hazardous Wastes, Marine Dumping-London Convention, Marine Dumping-London Protocol, Nuclear Test Ban, Ozone Layer Protection, Ship Pollution, Tropical Timber 2006, Wetlands, Whaling<br>
@@ -326,7 +326,7 @@ _industrial_: 206.6 million cubic meters (2017 est.)<br>
 _agricultural_: 13.1 billion cubic meters (2017 est.)<br>
 
 **Total renewable water resources**<br>
-1,879,800,000,000 cubic meters (2017 est.)<br>
+1.88 trillion cubic meters (2017 est.)<br>
 
 ## Government
 
@@ -755,7 +755,7 @@ the Peruvian military's inventory is a mix of mostly older equipment from a wide
 215 Central African Republic (MINUSCA) (May 2022)<br>
 
 **Military - note**<br>
-the Peruvian security forces continued to conduct operations against remnants of the Shining Path terrorist group (aka Sendero Luminoso; see Appendix T<u>)</u>, particularly in the Apurimac, Ene, and Mantaro River Valleys (VRAEM) of eastern Peru; the military had approximately 8,000-10,000 troops in the VRAEM under a combined Special Command comprised of air, ground, naval, police, and special forces units (2022)<br>
+as of 2022, the Peruvian security forces continued to conduct operations against remnants of the Shining Path terrorist group (aka Sendero Luminoso; see Appendix T<u>)</u>, particularly in the Apurimac, Ene, and Mantaro River Valleys (VRAEM) of eastern Peru; the military had approximately 8,000-10,000 troops in the VRAEM under a combined Special Command comprised of air, ground, naval, police, and special forces units (2022)<br>
 
 **Maritime threats**<br>
 the International Maritime Bureau reports the territorial waters of Peru are a risk for armed robbery against ships; in 2021, 18 attacks against commercial vessels were reported, a more than 50% increase over the eight attacks in 2020; all of these occurred in the main port of Callao while ships were berthed or at anchor<br>

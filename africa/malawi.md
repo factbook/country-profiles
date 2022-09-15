@@ -186,7 +186,7 @@ _unimproved: urban_: urban: 3.3% of population<br>
 _unimproved: rural_: rural: 9% of population<br>
 _unimproved: total_: total: 8% of population (2020 est.)<br>
 
-**Current Health Expenditure**<br>
+**Current health expenditure**<br>
 7.4% (2019)<br>
 
 **Physicians density**<br>
@@ -389,7 +389,7 @@ _judge selection and term of office_: Supreme Court chief justice appointed by t
 _subordinate courts_: High Court; magistrate courts; Industrial Relations Court; district and city traditional or local courts<br>
 
 **Political parties and leaders**<br>
-Democratic Progressive Party or DPP [Peter MUTHARIKA]<br>Malawi Congress Party or MCP [Lazarus CHAKWERA]<br>Peoples Party or PP [Joyce BANDA]<br>United Democratic Front or UDF [Atupele MULUZI]<br>United Transformation Movement or UTM [Saulos CHILIMA]<br>
+Democratic Progressive Party or DPP [Peter MUTHARIKA]<br>Malawi Congress Party or MCP [Lazarus CHAKWERA]<br>People's Party or PP [Joyce BANDA]<br>United Democratic Front or UDF<br>United Transformation Movement or UTM [Saulos CHILIMA]<br>
 
 **International organization participation**<br>
 ACP, AfDB, AU, C, CD, COMESA, FAO, G-77, IAEA, IBRD, ICAO, ICCt, ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ISO (correspondent), ITSO, ITU, ITUC (NGOs), MIGA, MINURSO, MONUSCO, NAM, OPCW, SADC, UN, UNCTAD, UNESCO, UNIDO, UNISFA, UNOCI, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
@@ -698,8 +698,8 @@ _lake port(s)_: Chipoka, Monkey Bay, Nkhata Bay, Nkhotakota, Chilumba (Lake Nyas
 ## Military and Security
 
 **Military and security forces**<br>
-Malawi Defense Force (MDF): Army (includes marine unit), Air Force (established as a separate service August 2019; previously was an air wing under the Army) (2022)<br>
-<strong>note:</strong> the Malawi Police Service is under the Ministry of Homeland Security<br>
+Malawi Defense Force (MDF): Army (includes marine unit), Air Force (established as a separate service August 2019; previously was an air wing under the Army); Ministry of Homeland Security: Malawi Police Service (2022)<br>
+<strong>note:</strong> the MDF reports directly to the president as commander in chief; the Malawi Ministry of Defense was abolished in 2011<br>
 
 **Military expenditures**<br>
 0.9% of GDP (2021 est.)<br>
@@ -712,7 +712,7 @@ Malawi Defense Force (MDF): Army (includes marine unit), Air Force (established 
 information varies; approximately 8,000 personnel (including about 200 air and 200 marine forces) (2022)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the Malawi Defense Force inventory is comprised of mostly obsolescent or second-hand equipment from Europe and South Africa; since 2010, it has received limited amounts of mostly second-hand equipment from China, South Africa, and the UK, as well as non-lethal equipment donated by the US (2021)<br>
+the MDF's inventory is comprised of mostly obsolescent or second-hand equipment from Europe and South Africa; since 2010, it has received limited amounts of mostly second-hand equipment from China, South Africa, and the UK, as well as non-lethal equipment donated by the US (2021)<br>
 
 **Military service age and obligation**<br>
 18 years of age for men and women for voluntary military service; high school equivalent required for enlisted recruits and college equivalent for officer recruits; initial engagement is 7 years for enlisted personnel and 10 years for officers (2021)<br>
@@ -721,7 +721,7 @@ the Malawi Defense Force inventory is comprised of mostly obsolescent or second-
 750 Democratic Republic of the Congo (MONUSCO) (May 2022)<br>
 
 **Military - note**<br>
-the Malawi Defense Force&rsquo;s primary responsibility is external security; it is also tasked as necessary with carrying out policing or other domestic activities, such as disaster relief; Malawi contributes regularly to African Union and UN peace support operations (2022)<br>
+the MDF&rsquo;s primary responsibility is external security; it is also tasked as necessary with carrying out policing or other domestic activities, such as disaster relief; Malawi contributes regularly to African Union and UN peace support operations (2022)<br>
 
 ## Transnational Issues
 
@@ -730,4 +730,7 @@ the Malawi Defense Force&rsquo;s primary responsibility is external security; it
 
 **Refugees and internally displaced persons**<br>
 _refugees (country of origin)_: 34,363 (Democratic Republic of the Congo) (refugees and asylum seekers), 12,658 (Burundi) (refugees and asylum seekers), 7,621 (Rwanda) (refugees and asylum seekers) (2022)<br>
+
+**Illicit drugs**<br>
+NA<br>
 

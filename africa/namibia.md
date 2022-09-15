@@ -187,7 +187,7 @@ _unimproved: urban_: urban: 1.1% of population<br>
 _unimproved: rural_: rural: 16.8% of population<br>
 _unimproved: total_: total: 8.6% of population (2020 est.)<br>
 
-**Current Health Expenditure**<br>
+**Current health expenditure**<br>
 8.5% (2019)<br>
 
 **Physicians density**<br>
@@ -383,7 +383,7 @@ _judge selection and term of office_: judges appointed by the president of Namib
 _subordinate courts_: High Court; Electoral Court, Labor Court; regional and district magistrates' courts; community courts<br>
 
 **Political parties and leaders**<br>
-All People's Party or APP [Vacant]<br>Christian Democratic Voice or CDV [Gothard KANDUME]<br>Landless People's Movement or LPM [Bernadus SWARTBOOI]<br>National Unity Democratic Organization or NUDO [Estes MUINJANGUE]<br>Namibian Economic Freedom Fighters or NEFF [Epafras MUKWIILONGO]<br>Popular Democratic Movement or PDM (formerly DTA) [McHenry VENAANI]<br>Rally for Democracy and Progress or RDP [Mike KAVEKOTORA]<br>Republican Party or RP [Henk MUDGE]<br>South West Africa National Union or SWANU [Tangeni IIYAMBO]<br>South West Africa People's Organization or SWAPO [Hage GEINGOB]<br>United Democratic Front or UDF [Apius AUCHAB]<br>United People's Movement or UPM [Jan J. VAN WYK]<br>
+All People's Party or APP [Vacant]<br>Christian Democratic Voice or CDV [Gothard KANDUME]<br>Landless People's Movement or LPM [Bernadus SWARTBOOI]<br>National Unity Democratic Organization or NUDO [Estes MUINJANGUE]<br>Namibian Economic Freedom Fighters or NEFF [Epafras MUKWIILONGO]<br>Popular Democratic Movement or PDM [McHenry VENAANI] (formerly Democratic Turnhalle Alliance or DTA) <br>Rally for Democracy and Progress or RDP [Mike KAVEKOTORA]<br>Republican Party or RP [Henk MUDGE]<br>South West Africa National Union or SWANU [Charles KATJIVIRUE]<br>South West Africa People's Organization or SWAPO [Hage GEINGOB]<br>United Democratic Front or UDF [Apius AUCHAB]<br>United People's Movement or UPM [Jan J. VAN WYK]<br>
 
 **International organization participation**<br>
 ACP, AfDB, AU, C, CD, CPLP (associate observer), FAO, G-77, IAEA, IBRD, ICAO, ICCt, ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, NAM, OPCW, SACU, SADC, UN, UNAMID, UNCTAD, UNESCO, UNHCR, UNIDO, UNISFA, UNMIL, UNMISS, UNOCI, UNWTO, UPU, WCO, WHO, WIPO, WMO, WTO<br>
@@ -701,7 +701,7 @@ _major seaport(s)_: Luderitz, Walvis Bay<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Namibian Defense Force (NDF): Army, Navy, Air Force<br><br>Ministry of Home Affairs, Immigration, Safety, and Security: Namibian Police Force (includes a paramilitary Special Field Force responsible for protecting borders and government installations) (2022)<br>
+Namibian Defense Force (NDF): Army, Navy, Air Force; Ministry of Home Affairs, Immigration, Safety, and Security: Namibian Police Force (includes a paramilitary Special Field Force responsible for protecting borders and government installations) (2022)<br>
 
 **Military expenditures**<br>
 3% of GDP (2021 est.)<br>
@@ -714,14 +714,14 @@ Namibian Defense Force (NDF): Army, Navy, Air Force<br><br>Ministry of Home Affa
 information varies; approximately 12,500 personnel (11,000 Army; 1,000 Navy; 500 Air Force) (2022)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the inventory of the Namibian Defense Force consists mostly of Soviet-era equipment; China has been the leading supplier of weapons to Namibia since 2010 (2021)<br>
+the NDF's inventory consists of a mix of Soviet-era and some more modern systems from a variety of countries, including Brazil, China, Germany, India, and South Africa; it has a small defense industry that produces items such as armored personnel carriers (2021)<br>
 
 **Military service age and obligation**<br>
 18-25 years of age for men and women for voluntary military service; no conscription (2021)<br>
 <strong>note:</strong> as of 2018, women comprised more than 20% of the active duty military<br>
 
 **Military - note**<br>
-<p>the Namibian Defense Force (NDF) was created in 1990, largely from demobilized former members of the People's Liberation Army of Namibia (PLAN) and the South West Africa Territorial Force (SWATF); PLAN was the armed wing of the South West Africa People’s Organization (SWAPO), while SWATF was an auxiliary of the South African Defense Force and comprised the armed forces of the former South West Africa, 1977-1989; from 1990-1995, the British military assisted with the forming and training the NDF</p><br>
+the Namibian Defense Force (NDF) was created in 1990, largely from demobilized former members of the People's Liberation Army of Namibia (PLAN) and the South West Africa Territorial Force (SWATF); PLAN was the armed wing of the South West Africa People&rsquo;s Organization (SWAPO), while SWATF was an auxiliary of the South African Defense Force and comprised the armed forces of the former South West Africa, 1977-1989; from 1990-1995, the British military assisted with the forming and training the NDF (2022)<br>
 
 ## Transnational Issues
 

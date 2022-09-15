@@ -103,7 +103,7 @@ _unimproved: urban_: urban: NA<br>
 _unimproved: rural_: rural: NA<br>
 _unimproved: total_: total: NA<br>
 
-**Current Health Expenditure**<br>
+**Current health expenditure**<br>
 NA<br>
 
 **HIV/AIDS - adult prevalence rate**<br>
@@ -146,14 +146,14 @@ _abbreviation_: BIOT<br>
 _etymology_: self-descriptive name specifying the territory's affiliation and location<br>
 
 **Dependency status**<br>
-overseas territory of the UK; administered by a commissioner, resident in the Foreign and Commonwealth Office in London<br>
+overseas territory of the UK; administered by a commissioner, resident in the Foreign, Commonwealth, and Development Office in London<br>
 
 **Legal system**<br>
 the laws of the UK apply where applicable<br>
 
 **Executive branch**<br>
-_chief of state_: Queen ELIZABETH II (since 6 February 1952)<br>
-_head of government_: Commissioner Ben MERRICK (since August 2017); Administrator Kit PYMAN; note - both reside in the UK and are represented by Commander Steven R. DRYSDALE, RN, commanding British Forces on Diego Garcia (since 19 February 2021)<br>
+_chief of state_: King CHARLES III (since 8 September 2022)<br>
+_head of government_: Commissioner Paul CANDLER (since 8 July 2021); Administrator Kit PYMAN; note - both reside in the UK and are represented by Commander Steven R. DRYSDALE, RN, commanding British Forces on Diego Garcia (since 19 February 2021)<br>
 _cabinet_: NA<br>
 _elections/appointments_: the monarchy is hereditary; commissioner and administrator appointed by the monarch<br>
 
@@ -168,6 +168,9 @@ _embassy_: none (overseas territory of the UK)<br>
 
 **Flag description**<br>
 white with six blue wavy horizontal stripes; the flag of the UK is in the upper hoist-side quadrant; the striped section bears a palm tree and yellow crown (the symbols of the territory) centered on the outer half of the flag; the wavy stripes represent the Indian Ocean; although not officially described, the six blue stripes may stand for the six main atolls of the archipelago<br>
+
+**National anthem**<br>
+<strong>note:</strong> as an overseas territory of the United Kingdom, "God Save the King" is official (see United Kingdom)<br>
 
 ## Economy
 

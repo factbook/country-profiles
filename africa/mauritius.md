@@ -173,7 +173,7 @@ _unimproved: urban_: urban: 0.1% of population<br>
 _unimproved: rural_: rural: 0.2% of population<br>
 _unimproved: total_: total: 0.1% of population (2020 est.)<br>
 
-**Current Health Expenditure**<br>
+**Current health expenditure**<br>
 6.2% (2019)<br>
 
 **Physicians density**<br>
@@ -653,7 +653,7 @@ _major seaport(s)_: Port Louis<br>
 ## Military and Security
 
 **Military and security forces**<br>
-no regular military forces; the Mauritius Police Force (MPF) includes a paramilitary unit known as the Special Mobile Force, which includes a motorized infantry battalion and 2 light armored squadrons; the MPF also has a Police Helicopter Squadron, a Special Support Unit (riot police), and the National Coast Guard (also includes an air squadron) (2022)<br>
+no regular military forces; the Mauritius Police Force (MPF) under the Ministry of Defense includes a paramilitary unit known as the Special Mobile Force, which includes some motorized infantry and light armored units; the MPF also has a Police Helicopter Squadron, a Special Support Unit (riot police), and the National Coast Guard (also includes an air squadron) (2022)<br>
 
 **Military expenditures**<br>
 0.2% of GDP (2021 est.)<br>
@@ -672,7 +672,7 @@ the MPF's inventory is comprised of mostly second-hand equipment from Western Eu
 service is voluntary (2022)<br>
 
 **Military - note**<br>
-<p>as of 2022, the country’s primary security partner was India, and Indian naval vessels often patrol Mauritian waters; the MPF has also received assistance and training from France, the UK, and the US; the MPF’s chief security concerns are piracy and narcotics trafficking</p> <p>the paramilitary Special Mobile Force was created in 1960 following the withdrawal of the British garrison</p><br>
+as of 2022, the country’s primary security partner was India, and Indian naval vessels often patrol Mauritian waters; the MPF has also received assistance and training from France, the UK, and the US; the MPF’s chief security concerns are piracy and narcotics trafficking<br><br>the Special Mobile Force was created in 1960 following the withdrawal of the British garrison (2022)<br>
 
 ## Transnational Issues
 

@@ -186,7 +186,7 @@ _unimproved: urban_: urban: 4.9% of population<br>
 _unimproved: rural_: rural: 43.8% of population<br>
 _unimproved: total_: total: 21.4% of population (2020 est.)<br>
 
-**Current Health Expenditure**<br>
+**Current health expenditure**<br>
 3.6% (2019)<br>
 
 **Physicians density**<br>
@@ -764,7 +764,7 @@ Boko Haram; Islamic State of Iraq and ash-Sham – West Africa<br>
 <p>Joint Border Commission with Nigeria reviewed 2002 ICJ ruling on the entire boundary and bilaterally resolved differences, including June 2006 Greentree Agreement that immediately ceded sovereignty of the Bakassi Peninsula to Cameroon with a full phase-out of Nigerian control and patriation of residents in 2008; Cameroon and Nigeria agreed on maritime delimitation in March 2008; sovereignty dispute between Equatorial Guinea and Cameroon over an island at the mouth of the Ntem River; only Nigeria and Cameroon have heeded the Lake Chad Commission's admonition to ratify the delimitation treaty, which also includes the Chad-Niger and Niger-Nigeria boundaries</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 347,575 (Central African Republic), 135,243 (Nigeria) (2022)<br>
+_refugees (country of origin)_: 347,937 (Central African Republic), 135,472 (Nigeria) (2022)<br>
 _IDPs_: 955,540 (2022) (includes far north, northwest, and southwest)<br>
 
 **Trafficking in persons**<br>

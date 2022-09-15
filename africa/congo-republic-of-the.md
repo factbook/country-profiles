@@ -45,7 +45,7 @@ tropical; rainy season (March to June); dry season (June to October); persistent
 coastal plain, southern basin, central plateau, northern basin<br>
 
 **Elevation**<br>
-_highest point_: Mont Nabeba 1,020 m<br>note - the Factbook map is incorrect; it shows the wrong high elevation<br>
+_highest point_: Mont Nabeba 1,020 m<br>
 _lowest point_: Atlantic Ocean 0 m<br>
 _mean elevation_: 430 m<br>
 
@@ -187,7 +187,7 @@ _unimproved: urban_: urban: 2.5% of population<br>
 _unimproved: rural_: rural: 43.6% of population<br>
 _unimproved: total_: total: 15.8% of population (2020 est.)<br>
 
-**Current Health Expenditure**<br>
+**Current health expenditure**<br>
 2.1% (2019)<br>
 
 **Physicians density**<br>
@@ -388,7 +388,7 @@ _judge selection and term of office_: Supreme Court judges elected by Parliament
 _subordinate courts_: Court of Audit and Budgetary Discipline; courts of appeal; regional and district courts; employment tribunals; juvenile courts<br>
 
 **Political parties and leaders**<br>
-Action Movement for Renewal or MAR [Roland BOUITI-VIAUDO]<br>Citizen's Rally or RC [Claude Alphonse NSILOU]<br>Congolese Labour Party or PCT [Denis SASSOU-NGUESSO]<br>Congolese Movement for Democracy and Integral Development or MCDDI<br>Movement for Unity, Solidarity, and Work or MUST [Claudine MUNARI]<br>Pan-African Union for Social Development or UPADS [Pascal Tsaty MABIALA]<br>Party for the Unity of the Republic or PUR<br>Patriotic Union for Democracy and Progress or UPDP [Auguste-Celestin GONGARD NKOUA]<br>Prospects and Realities Club or CPR<br>Rally for Democracy and Social Progress or RDPS [Jean-Pierre Thystère TCHICAYA]<br>Rally of the Presidential Majority or RMP<br>Republican and Liberal Party or PRL [Bonaventure MIZIDY]<br>Union of Democratic Forces or UDF<br>Union for Democracy and Republic or UDR<br>Union for the Republic or UR<br>
+Alliance of the Presidential Majority or AMP<br>Action Movement for Renewal or MAR [Roland BOUITI-VIAUDO]<br>Citizen's Rally or RC [Claude Alphonse NSILOU]<br>Congolese Labour Party or PCT [Denis SASSOU-NGUESSO]<br>Congolese Movement for Democracy and Integral Development or MCDDI [VACANT]<br>Movement for Unity, Solidarity, and Work or MUST [Claudine MUNARI]<br>Pan-African Union for Social Development or UPADS [Pascal Tsaty MABIALA]<br>Party for the Unity and the Republic or PUR [Wilfrid NGUESSO]<br>Patriotic Union for Democracy and Progress or UPDP [Auguste-Celestin GONGARD NKOUA]<br>Perspectives and Realities Club or CPR<br>Rally for Democracy and Social Progress or RDPS [Jean-Pierre Thystère TCHICAYA]<br>Republican and Liberal Party or PRL [Bonaventure MIZIDY]<br>Union of Democratic Forces or UDF [Josué Rodrigue NGOUONIMBA]<br>Union for Democracy and Republic or UDR [Guy Kinfoussia ROMAIN]<br>Union for the Republic or UR [Michel Bidimbou POUELA]<br>
 
 **International organization participation**<br>
 ACP, AfDB, AU, BDEAC, CEMAC, EITI (compliant country), FAO, FZ, G-77, IAEA, IBRD, ICAO, ICCt, ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ISO (correspondent), ITSO, ITU, ITUC (NGOs), LCBC (observer), MIGA, NAM, OIF, OPCW, UN, UNCTAD, UNESCO, UNHCR, UNIDO, UNITAR, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>

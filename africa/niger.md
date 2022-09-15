@@ -186,7 +186,7 @@ _unimproved: urban_: urban: 4.2% of population<br>
 _unimproved: rural_: rural: 36.9% of population<br>
 _unimproved: total_: total: 31.4% of population (2020 est.)<br>
 
-**Current Health Expenditure**<br>
+**Current health expenditure**<br>
 5.7% (2019)<br>
 
 **Physicians density**<br>
@@ -395,7 +395,7 @@ _judge selection and term of office_: Constitutional Court judges nominated/elec
 _subordinate courts_: Court of Cassation; Council of State; Court of Finances; various specialized tribunals and customary courts<br>
 
 **Political parties and leaders**<br>
-Alliance of Movements for the Emergence of Niger or AMEN AMIN [Omar Hamidou TCHIANA]<br>Congress for the Republic or CPR-Inganci [Kassoum MOCTAR]<br>Democratic Alliance for Niger or ADN-Fusaha [Habi Mahamadou SALISSOU]<br>National Movement for the Development of Society-Nassara or MNSD-Nassara [Seini OUMAROU]<br>Nigerien Alliance for Democracy and Progress-Zaman Lahiya or ANDP-Zaman Lahiya [Moussa BARAZE]<br>Nigerien Democratic Movement for an African Federation or MODEN/FA Lumana [Seydou TAHIROU]<br>Nigerien Movement for Democratic Renewal or MNRD-Hankuri [Mahamane OUSMANE]<br>Nigerien Party for Democracy and Socialism or PNDS-Tarrayya [Mohamed BAZOUM]<br>Nigerien Patriotic Movement or MPN-Kishin Kassa [Ibrahim YACOUBA]<br>Patriotic Movement for the Republic or MPR-Jamhuriya [Albade ABOUBA]<br>Rally for Democracy and Progress-Jama'a or RDP-Jama'a [Hamid ALGABID]<br>Social and Democratic Rally or RSD-Gaskiyya [Amadou CHEIFFOU]<br>Social Democratic Party or PSD-Bassira [Sanoussi MAREINI]<br>Union for Democracy and the Republic-Tabbat or UDR-Tabbat [Amadou Boubacar CISSE]<br>
+<p>Alliance for Democracy and the Republic<br>Alliance for Democratic Renewal or ARD-Adaltchi-Mutuntchi [Laouan MAGAGI] <br>Alliance of Movements for the Emergence of Niger or AMEN AMIN [Omar Hamidou TCHIANA]<br>Congress for the Republic or CPR-Inganci [Maradi Kassoum MOCTAR]<br>Democratic Alternation for Equity in Niger<br>Democratic and Republican Renewal-RDR-Tchanji [Mahamane OUSMANE]<br>Democratic Movement for the Emergence of Niger<br>National Movement for the Development of Society-Nassara or MNSD-Nassara [Seini OUMAROU]<br>Nigerien Alliance for Democracy and Progress-Zaman Lahiya or ANDP-Zaman Lahiya [Moussa Hassane BARAZE]<br>Nigerien Democratic Movement for an African Federation or MODEN/FA Lumana [Hama AMADOU]<br>Nigerien Party for Democracy and Socialism or PNDS-Tarrayya [Mahamadou ISSOUFOU]<br>Nigerien Patriotic Movement or MPN-Kishin Kassa [Ibrahim YACOUBA]<br>Nigerien Rally for Democracy and Peace<br>Patriotic Movement for the Republic or MPR-Jamhuriya [Albade ABOUBA]<br>Peace, Justice, Progress–Generation Doubara<br>Rally for Democracy and Progress-Jama'a or RDP-Jama'a [Hamid ALGABID]<br>Rally for Peace and Progress<br>Social Democratic Rally or RSD-Gaskiyya [Amadou CHEIFFOU]<br>Social Democratic Party or PSD-Bassira [Sanoussi MAREINI]<br><br><strong>note:</strong> only parties with seats in the National Assembly included</p><br>
 <strong>note:</strong> the SPLM and SPLM-DC are banned political parties<br>
 
 **International organization participation**<br>
@@ -709,8 +709,8 @@ _by type_: general cargo 1 (2021)<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Nigerien Armed Forces (Forces Armees Nigeriennes, FAN): Army, Nigerien Air Force, Niger Gendarmerie (GN); Ministry of Interior: Niger National Guard (GNN; aka Republican Guard), National Police (includes the Directorate of Territorial Surveillance, which is charged with border management) (2022)<br>
-<strong>note:</strong> the Gendarmerie is subordinate to the Ministry of Defense and has primary responsibility for rural security; the National Guard is responsible for domestic security and the protection of high-level officials and government buildings<br>
+Nigerien Armed Forces (Forces Armees Nigeriennes, FAN): Army, Nigerien Air Force, Niger Gendarmerie (GN); Ministry of Interior: Niger National Guard (GNN; aka Republican Guard), National Police (2022)<br>
+<strong>note 1:</strong> the Gendarmerie has primary responsibility for rural security; the National Guard is responsible for domestic security and the protection of high-level officials and government buildings<br><br><strong>note 2: </strong>the National Police includes the Directorate of Territorial Surveillance, which is charged with border management<br>
 
 **Military expenditures**<br>
 1.8% of GDP (2021 est.)<br>
@@ -733,7 +733,7 @@ has conscription, although it is reportedly not always enforced; 18 is the legal
 <strong>note 1:</strong> Niger is part of a four (formerly five)-nation anti-jihadist task force known as the G5 (now G4) Sahel Group, set up in 2014 with Burkina Faso, Chad, Mali (withdrew in 2022), and Mauritania; it has committed 1,100 troops and 200 gendarmes to the force; as of 2022, defense forces from each of the participating states were allowed to pursue terrorist fighters up to 100 km into neighboring countries; the force is backed by France, the UN, and the US<br><br><strong>note 2: </strong>Niger also has about 1,000 troops committed to the Multinational Joint Task Force (MNJTF) against Boko Haram and other terrorist groups operating in the general area of the Lake Chad Basin and along Nigeria's northeast border; national MNJTF troop contingents are deployed within their own country territories, although cross‐border operations are conducted periodically<br>
 
 **Military - note**<br>
-as of 2022, the FAN was conducting counterinsurgency and counter-terrorism operations against Islamic militants on two fronts; in the Diffa region, the Nigeria-based Boko Haram terrorist group has conducted dozens of attacks on security forces, army bases, and civilians; on Niger&rsquo;s western border with Mali, the Islamic State of Iraq and ash-Sham-West Africa (ISIS-WA) has conducted numerous attacks on security personnel; a series of ISIS-WA attacks on FAN forces near the Malian border in December of 2019 and January of 2020 resulted in the deaths of more than 170 soldiers; terrorist attacks continued into 2022 (2022)<br>
+as of 2022, the FAN was conducting counterinsurgency and counterterrorism operations against Islamic militants on two fronts; in the Diffa region, the Nigeria-based Boko Haram terrorist group has conducted dozens of attacks on security forces, army bases, and civilians; on Niger&rsquo;s western border with Mali, the Islamic State of Iraq and ash-Sham-West Africa (ISIS-WA) has conducted numerous attacks on security personnel; a series of ISIS-WA attacks on FAN forces near the Malian border in December of 2019 and January of 2020 resulted in the deaths of more than 170 soldiers; terrorist attacks continued into 2022 (2022)<br>
 
 ## Terrorism
 
@@ -751,5 +751,5 @@ _refugees (country of origin)_: 187,134 (Nigeria), 63,155 (Mali) (refugees and a
 _IDPs_: 347,648 (includes the regions of Diffa, Tillaberi, and Tahoua; unknown how many of the 11,000 people displaced by clashes between government forces and the Tuareg militant group, Niger Movement for Justice, in 2007 are still displaced; inter-communal violence; Boko Haram attacks in southern Niger, 2015) (2022)<br>
 
 **Illicit drugs**<br>
-<p>a transit point for illicit drugs narcotics trafficked through the Sahara; drugs from South America, particularly cocaine, heroin, cannabis products, and synthetic drugs, transit en route to European and Middle Eastern markets; synthetic opioid tramadol is shipped from Nigeria through Niger to other African countries; hashish from Morocco is trafficked to Libya, Egypt, Europe, and the Middle East; traffickers are formalized networks of Arab, Tuareg, and Toubou transportation groups</p><br>
+<p>a transit point for illicit drugs trafficked through the Sahara; drugs from South America, particularly cocaine, heroin, cannabis products, and synthetic drugs, transit en route to European and Middle Eastern markets; synthetic opioid tramadol is shipped from Nigeria through Niger to other African countries; hashish from Morocco is trafficked to Libya, Egypt, Europe, and the Middle East; traffickers are formalized networks of Arab, Tuareg, and Toubou transportation groups</p><br>
 

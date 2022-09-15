@@ -181,7 +181,7 @@ _unimproved: urban_: urban: 5.3% of population<br>
 _unimproved: rural_: rural: 28.7% of population<br>
 _unimproved: total_: total: 21.5% of population (2020 est.)<br>
 
-**Current Health Expenditure**<br>
+**Current health expenditure**<br>
 5.5% (2019)<br>
 
 **Physicians density**<br>
@@ -715,7 +715,7 @@ the FABF has a mix of foreign-supplied weapons; since 2010, it has received limi
 <strong>note:</strong> Burkina Faso is part of a four (formerly five)-nation anti-jihadist task force known as the G4 Sahel Group, set up in 2014 with Chad, Mali (withdrew in 2022), Mauritania, and Niger; it has committed 550 troops and 100 gendarmes to the force; as of 2020, defense forces from each of the participating states were allowed to pursue terrorist fighters up to 100 km into neighboring countries; the force is backed by France, the UN, and the US<br>
 
 **Military - note**<br>
-including the most recent in January 2022, the military has conducted seven coups since 1960; as of 2022, the military was also actively engaged in combat operations with terrorist groups linked to al-Qa'ida and ISIS, particularly in the northern and eastern regions; in the north, the terrorist group Jama'at Nusrat al-Islam wal-Muslimin (JNIM) has exploited ethnic tensions and perceptions of state neglect, as well as grievances over corruption, patronage politics, social stratification, and land disputes; the east is a stronghold of the Islamic State-Greater Sahara (ISIS-GS) terrorist group (2022)<br>
+including the most recent in January 2022, the military has conducted seven coups since 1960; as of 2022, the military was also actively engaged in combat operations with terrorist groups linked to al-Qa'ida and ISIS, particularly in the northern and eastern regions; in the north, the terrorist group Jama'at Nusrat al-Islam wal-Muslimin (JNIM), a coalition of al-Qa'ida linked militant groups, has exploited ethnic tensions and perceptions of state neglect, as well as grievances over corruption, patronage politics, social stratification, and land disputes; in 2022, JNIM conducted attacks in 10 of the country's 13 provinces; the east is considered a stronghold of the Islamic State-Greater Sahara (ISIS-GS) terrorist group (2022)<br>
 
 ## Terrorism
 

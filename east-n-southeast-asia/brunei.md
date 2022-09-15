@@ -168,7 +168,7 @@ _unimproved: urban_: urban: 0.4% of population<br>
 _unimproved: rural_: rural: 0% of population<br>
 _unimproved: total_: total: 0.1% of population (2020)<br>
 
-**Current Health Expenditure**<br>
+**Current health expenditure**<br>
 2.2% (2019)<br>
 
 **Physicians density**<br>

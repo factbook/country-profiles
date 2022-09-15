@@ -80,7 +80,7 @@ _unimproved: urban_: urban: NA<br>
 _unimproved: rural_: rural: NA<br>
 _unimproved: total_: total: NA<br>
 
-**Current Health Expenditure**<br>
+**Current health expenditure**<br>
 NA<br>
 
 **HIV/AIDS - adult prevalence rate**<br>
@@ -129,8 +129,8 @@ _history_: presented 3 August 1960, effective 16 August 1960 (The Sovereign Base
 laws applicable to the Cypriot population are, as far as possible, the same as the laws of the Republic of Cyprus; note - the Sovereign Base Area Administration has its own court system to deal with civil and criminal matters<br>
 
 **Executive branch**<br>
-_chief of state_: Queen ELIZABETH II (since 6 February 1952)<br>
-_head of government_: Administrator Major General Robert J. THOMSON (since 25 September 2019); note - administrator reports to the British Ministry of Defense; the chief officer is responsible for the day-to-day running of the civil government of the Sovereign Bases<br>
+_chief of state_: King CHARLES III (since 8 September 2022)<br>
+_head of government_: Administrator Air Vice-Marshal Peter J.M. SQUIRES (since 1 September 2022); note - the administrator reports to the British Ministry of Defense and is also Commander, British Forces Cyprus (BFC); the chief officer is responsible for the day-to-day running of the civil government of the Sovereign Bases<br>
 _elections/appointments_: the monarchy is hereditary; administrator appointed by the monarch on the advice of the Ministry of Defense<br>
 
 **Judicial branch**<br>
@@ -148,7 +148,7 @@ none (overseas territory of the UK)<br>
 the flag of the UK is used<br>
 
 **National anthem**<br>
-<p><strong>note:</strong> as a United Kingdom area of special sovereignty, "God Save the Queen" is official (see United Kingdom)</p><br>
+<p><strong>note:</strong> as a United Kingdom area of special sovereignty, "God Save the King" is official (see United Kingdom)</p><br>
 
 ## Economy
 

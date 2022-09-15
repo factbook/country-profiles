@@ -166,7 +166,7 @@ _unimproved: urban_: urban: 0.4% of population<br>
 _unimproved: rural_: rural: 0.2% of population<br>
 _unimproved: total_: total: 0.3% of population (2020 est.)<br>
 
-**Current Health Expenditure**<br>
+**Current health expenditure**<br>
 15.2% (2019)<br>
 
 **Physicians density**<br>
@@ -571,7 +571,7 @@ no regular military forces; the Ministry of Justice includes divisions/bureaus f
 since 2018, Australia and Japan have provided patrol boats to Palau's Division of Marine Law Enforcement (2021)<br>
 
 **Military - note**<br>
-under a 1994 Compact of Free Association between Palau and the US, the US until 2044 is responsible for the defense of Palaus and the US military is granted access to the islands, but it has not stationed any military forces there<br>
+under the Compact of Free Association (COFA) between Palau and the US, the US is responsible for the defense of Palau and the US military is granted access to the islands, but it has not stationed any military forces there; the COFA also allows citizens of Palau to serve in the US armed forces (2022)<br>
 
 ## Transnational Issues
 

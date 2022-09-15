@@ -183,7 +183,7 @@ _unimproved: urban_: urban: 1.3% of population<br>
 _unimproved: rural_: rural: 21.1% of population<br>
 _unimproved: total_: total: 18.4% of population (2020 est.)<br>
 
-**Current Health Expenditure**<br>
+**Current health expenditure**<br>
 8% (2019)<br>
 
 **Physicians density**<br>
@@ -369,7 +369,7 @@ _residency requirement for naturalization_: 10 years<br>
 
 **Executive branch**<br>
 _chief of state_: President Evariste NDAYISHIMIYE (since 18 June 2020); Vice President Prosper BAZOMBANZA (since 24 June 2020); note - the president is both chief of state and head of government<br>
-_head of government_: President Evariste NDAYISHIMIYE (since 18 June 2020); Vice President Prosper BAZOMBANZA (since 24 June 2020); Prime Minister Alain-Guillaume BUNYONI (since 24 June 2020)<br>
+_head of government_: President Evariste NDAYISHIMIYE (since 18 June 2020); Vice President Prosper BAZOMBANZA (since 24 June 2020); Prime Minister Gervais NDIRAKOBUCA (since 7 September 2022)<br><br><br> <br>
 _cabinet_: Council of Ministers appointed by president<br>
 _elections/appointments_: president directly elected by absolute majority popular vote in 2 rounds if needed for a 7-year term (eligible for a second term); election last held on 20 May 2020 (next to be held in 2025); vice presidents nominated by the president, endorsed by Parliament; note - a 2018 constitutional referendum effective for the 2020 election, increased the presidential term from 5 to 7 years with a 2-consecutive-term limit, reinstated the position of the prime minister position, and reduced the number of vice presidents from 2 to 1 (2020)<br>
 _election results_: Evariste NDAYISHIMIYE elected president; percent of vote - Evariste NDAYISHIMIYE (CNDD-FDD) 71.5%, Agathon RWASA (CNL) 25.2%, Gaston SINDIMWO (UPRONA) 1.7%, OTHER 1.6%<br>

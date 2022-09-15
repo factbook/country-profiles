@@ -161,7 +161,7 @@ _unimproved: urban_: urban: NA<br>
 _unimproved: rural_: rural: NA<br>
 _unimproved: total_: total: 1.9% of population (2020 est.)<br>
 
-**Current Health Expenditure**<br>
+**Current health expenditure**<br>
 NA<br>
 
 **Physicians density**<br>
@@ -262,7 +262,7 @@ see United Kingdom<br>
 18 years of age; universal<br>
 
 **Executive branch**<br>
-_chief of state_: Queen ELIZABETH II (since 6 February 1952); represented by Governor Andrew PEARCE (since 1 February 2018)<br>
+_chief of state_: King CHARLES III (since 8 September 2022); represented by Governor Andrew PEARCE (since 1 February 2018)<br>
 _head of government_: Premier Easton TAYLOR-FARRELL (since 19 November 2019); note - effective with the Constitution Order 2010, October 2010, the office of premier replaced the office of chief minister<br>
 _cabinet_: Executive Council consists of the governor, the premier, 3 other ministers, the attorney general, and the finance secretary<br>
 _elections/appointments_: the monarchy is hereditary; governor appointed by the monarch; following legislative elections, the leader of the majority party usually becomes premier<br>
@@ -278,7 +278,7 @@ _judge selection and term of office_: chief justice of Eastern Caribbean Supreme
 _subordinate courts_: magistrate's court<br>
 
 **Political parties and leaders**<br>
-Movement for Change and Prosperity or MCAP [Easton Taylor FARRELL]<br>People's Democratic Movement or PDM [Donaldson ROMERO]<br>
+Movement for Change and Prosperity or MCAP [Easton Taylor FARRELL]<br>People's Democratic Movement or PDM [Paul LEWIS]<br>
 
 **International organization participation**<br>
 Caricom, CDB, Interpol (subbureau), OECS, UPU<br>
@@ -293,7 +293,7 @@ _embassy_: none (overseas territory of the UK); alternate contact is the US Emba
 blue with the flag of the UK in the upper hoist-side quadrant and the Montserratian coat of arms centered in the outer half of the flag; the arms feature a woman in green dress, Erin, the female personification of Ireland, standing beside a yellow harp and embracing a large dark cross with her right arm; Erin and the harp are symbols of Ireland reflecting the territory's Irish ancestry; blue represents awareness, trustworthiness, determination, and righteousness<br>
 
 **National anthem**<br>
-<p><strong>note:</strong> as a territory of the UK, "God Save the Queen" is official (see United Kingdom)</p><br>
+<p><strong>note:</strong> as a territory of the UK, "God Save the King" is official (see United Kingdom)</p><br>
 
 ## Economy
 

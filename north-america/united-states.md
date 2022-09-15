@@ -194,7 +194,7 @@ _unimproved: urban_: urban: 0.1% of population<br>
 _unimproved: rural_: rural: 0.3% of population<br>
 _unimproved: total_: total: 0.1% of population (2020 est.)<br>
 
-**Current Health Expenditure**<br>
+**Current health expenditure**<br>
 16.8% (2019)<br>
 
 **Physicians density**<br>
@@ -259,7 +259,7 @@ _female_: 14.8% (2020 est.)<br>
 ## Environment
 
 **Environment - current issues**<br>
-air pollution; large emitter of carbon dioxide from the burning of fossil fuels; water pollution from runoff of pesticides and fertilizers; limited natural freshwater resources in much of the western part of the country require careful management; deforestation; mining; desertification; species conservation; invasive species (the Hawaiian Islands are particularly vulnerable)<br>
+air pollution; large emitter of carbon dioxide from the burning of fossil fuels; water pollution from runoff of pesticides and fertilizers; declining natural freshwater resources in much of the western part of the country require careful management; deforestation; mining; desertification; species conservation; invasive species (the Hawaiian Islands are particularly vulnerable)<br>
 
 **Environment - international agreements**<br>
 _party to_: Air Pollution, Air Pollution-Heavy Metals, Air Pollution-Multi-effect Protocol, Air Pollution-Nitrogen Oxides, Antarctic-Environmental Protection, Antarctic-Marine Living Resources, Antarctic Seals, Antarctic Treaty, Climate Change, Climate Change-Paris Agreement, Desertification, Endangered Species, Environmental Modification, Marine Dumping-London Convention, Marine Life Conservation, Nuclear Test Ban, Ozone Layer Protection, Ship Pollution, Tropical Timber 2006, Wetlands, Whaling<br>
@@ -765,5 +765,5 @@ _stateless persons_: 47 (mid-year 2021)<br>
 <strong>note:</strong> 72,722 Venezuelans have claimed asylum since 2014 because of the economic and political crisis (2018)<br>
 
 **Illicit drugs**<br>
-<p>world's largest consumer of cocaine (mostly from Colombia through Mexico and the Caribbean), Mexican heroin and marijuana; major consumer of ecstasy and Mexican methamphetamine; major consumer of fentanyl and other synthetic opioids sourced from Mexico and China, often mixed with other drugs; illicit producer of cannabis, marijuana, depressants, stimulants, hallucinogens, and methamphetamine; money-laundering center</p><br>
+<p>world's largest consumer of cocaine (mostly from Colombia through Mexico and the Caribbean), Mexican heroin and marijuana; major consumer of MDMA (ecstasy) and Mexican methamphetamine; major consumer of fentanyl and other synthetic opioids sourced from Mexico and China, often mixed with other drugs; illicit producer of cannabis, marijuana, depressants, stimulants, hallucinogens, and methamphetamine; money-laundering center</p><br>
 

@@ -179,7 +179,7 @@ _unimproved: urban_: urban: 0.9% of population<br>
 _unimproved: rural_: rural: 5% of population<br>
 _unimproved: total_: total: 3% of population (2020 est.)<br>
 
-**Current Health Expenditure**<br>
+**Current health expenditure**<br>
 4.1% (2019)<br>
 
 **Physicians density**<br>
@@ -719,7 +719,7 @@ Armed Forces of the Philippines (AFP): Army, Navy (includes Marine Corps), Air F
 1.3% of GDP (2017) (approximately $6.21 billion)<br>
 
 **Military and security service personnel strengths**<br>
-approximately 130,000 active duty personnel (90,000 Army; 25,000 Navy, including about 8,000 marines; 15,000 Air Force) (2022)<br>
+approximately 130,000 active duty personnel (90,000 Army; 25,000 Navy, including about 8,000 Marine Corps; 15,000 Air Force) (2022)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the AFP is equipped with a mix of imported weapons systems, particularly second-hand equipment from the US; since 2014, its top weapons suppliers include South Korea and the US (2021)<br>
@@ -750,5 +750,5 @@ _IDPs_: 108,000 (government troops fighting the Moro Islamic Liberation Front, t
 _stateless persons_: 392 (mid-year 2021); note - stateless persons are descendants of Indonesian migrants<br>
 
 **Illicit drugs**<br>
-cannabis products, methamphetamine hydrochloride (locally known as "shabu"), and MDMA (ecstasy) are locally used; Chinese Transnational Criminal Organizations (TCOs) are the main source of methamphetamine; precursor chemicals are in transit from China to Burma<br>
+cannabis products, methamphetamine hydrochloride (locally known as "shabu"), and MDMA (ecstasy) are locally used; Chinese Transnational Criminal Organizations (TCOs) are the main source of methamphetamine; precursor chemicals in transit from China to Burma<br>
 

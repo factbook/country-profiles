@@ -115,7 +115,7 @@ _unimproved: urban_: urban: NA<br>
 _unimproved: rural_: rural: NA<br>
 _unimproved: total_: total: NA<br>
 
-**Current Health Expenditure**<br>
+**Current health expenditure**<br>
 NA<br>
 
 **HIV/AIDS - adult prevalence rate**<br>
@@ -153,7 +153,7 @@ _abbreviation_: SGSSI<br>
 _etymology_: South Georgia was named "the Isle of Georgia" in 1775 by Captain James COOK in honor of British King GEORGE III; the explorer also discovered the Sandwich Islands Group that year, which he named "Sandwich Land" after John MONTAGU, the Earl of Sandwich and First Lord of the Admiralty; the word "South" was later added to distinguish these islands from the other Sandwich Islands, now known as the Hawaiian Islands<br>
 
 **Dependency status**<br>
-overseas territory of the UK, also claimed by Argentina; administered from the Falkland Islands by a commissioner, who is concurrently governor of the Falkland Islands, representing Queen ELIZABETH II<br>
+overseas territory of the UK, also claimed by Argentina; administered from the Falkland Islands by a commissioner, who is concurrently governor of the Falkland Islands, representing King CHARLES III<br>
 
 **Legal system**<br>
 the laws of the UK, where applicable, apply<br>

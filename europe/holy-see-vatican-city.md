@@ -117,7 +117,7 @@ NA<br>
 _improved: total_: total: 100% of population<br>
 _unimproved: total_: total: 0% of population (2017 est.)<br>
 
-**Current Health Expenditure**<br>
+**Current health expenditure**<br>
 NA<br>
 
 **Sanitation facility access**<br>
@@ -356,4 +356,7 @@ defense is the responsibility of Italy<br>
 
 **Disputes - international**<br>
 <p>none</p><br>
+
+**Illicit drugs**<br>
+NA<br>
 

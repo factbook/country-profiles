@@ -177,7 +177,7 @@ _unimproved: urban_: urban: 0% of population<br>
 _unimproved: rural_: rural: 0% of population<br>
 _unimproved: total_: total: 0% of population (2020 est.)<br>
 
-**Current Health Expenditure**<br>
+**Current health expenditure**<br>
 11.3% (2019)<br>
 
 **Physicians density**<br>
@@ -623,8 +623,8 @@ _international_: country code - 374; Yerevan is connected to the&nbsp;Caucasus C
 .am<br>
 
 **Internet users**<br>
-_total_: 2,281,690 (2020 est.)<br>
-_percent of population_: 77% (2020 est.)<br>
+_total_: 2,288,566 (July 2022 est.)<br>
+_percent of population_: 77% (July 2022 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 430,407 (2020 est.)<br>

@@ -179,7 +179,7 @@ _unimproved: urban_: urban: 0% of population<br>
 _unimproved: rural_: rural: 0% of population<br>
 _unimproved: total_: total: 0% of population (2020 est.)<br>
 
-**Current Health Expenditure**<br>
+**Current health expenditure**<br>
 9.2% (2019)<br>
 
 **Physicians density**<br>
@@ -720,6 +720,6 @@ Finland is not a member of NATO, but Finland and NATO have actively cooperated i
 <p>various groups in Finland advocate restoration of Karelia and other areas ceded to the former Soviet Union, but the Finnish Government asserts no territorial demands</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 9,053 (Iraq) (mid-year 2021); 36,652 (Ukraine) (as of 21 August 2022)<br>
+_refugees (country of origin)_: 9,053 (Iraq) (mid-year 2021); 36,866 (Ukraine) (as of 6 September 2022)<br>
 _stateless persons_: 3,416 (mid-year 2021)<br>
 

@@ -163,7 +163,7 @@ NA<br>
 _improved: total_: total: 78.6% of population<br>
 _unimproved: total_: total: 21.4% of population (2017 est.)<br>
 
-**Current Health Expenditure**<br>
+**Current health expenditure**<br>
 11.4% (2019)<br>
 
 **Hospital bed density**<br>
@@ -220,7 +220,7 @@ _female_: 29.9% (2014)<br>
 ## Environment
 
 **Environment - current issues**<br>
-overfishing; climate change; water pollution, toxic pollution from mining; solid waste disposal<br>
+overfishing; sea level rise due to climate change threatens land; water pollution, toxic pollution from mining; solid waste disposal<br>
 
 **Environment - international agreements**<br>
 _party to_: Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Hazardous Wastes, Law of the Sea, Ozone Layer Protection<br>

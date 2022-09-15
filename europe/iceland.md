@@ -172,7 +172,7 @@ _unimproved: urban_: urban: 0% of population<br>
 _unimproved: rural_: rural: 0% of population<br>
 _unimproved: total_: total: 0% of population (2020 est.)<br>
 
-**Current Health Expenditure**<br>
+**Current health expenditure**<br>
 8.6% (2019)<br>
 
 **Physicians density**<br>
@@ -303,7 +303,7 @@ _time difference_: UTC 0 (5 hours ahead of Washington, DC, during Standard Time)
 _etymology_: the name means "smoky bay" in Icelandic and refers to the steamy, smoke-like vapors discharged by hot springs in the area<br>
 
 **Administrative divisions**<br>
-69 municipalities (sveitarfelog, singular - sveitarfelagidh); Akrahreppur, Akranes, Akureyri, Arneshreppur, Asahreppur, Blaskogabyggdh, Blonduosbaer, Bolungarvik, Borgarbyggdh, Dalabyggdh, Dalvikurbyggdh, Eyjafjardharsveit, Eyja-og Miklaholtshreppur, Fjallabyggdh, Fjardhabyggdh, Fljotsdalshreppur, Floahreppur, Gardhabaer, Grimsnes-og Grafningshreppur, Grindavikurbaer, Grundarfjardharbaer, Grytubakkahreppur, Hafnarfjordhur, Helgafellssveit, Horgarsveit, Hrunamannahreppur, Hunathing Vestra, Hunavatnshreppur, Hvalfjardharsveit, Hveragerdhi, Isafjardharbaer, Kaldrananeshreppur, Kjosarhreppur, Kopavogur, Langanesbyggdh, Mosfellsbaer, Mulathing, Myrdalshreppur, Nordhurthing, Rangarthing Eystra, Rangarthing Ytra, Reykholahreppur, Reykjanesbaer, Reykjavik, Seltjarnarnes, Skaftarhreppur, Skagabyggdh, Skeidha-og Gnupverjahreppur, Skorradalshreppur, Skutustadhahreppur, Snaefellsbaer, Strandabyggdh, Stykkisholmur, Sudhavikurhreppur, Sudhurnesjabaer, Svalbardhshreppur, Svalbardhsstrandarhreppur, Sveitarfelagidh Arborg, Sveitarfelagidh Hornafjordhur, Sveitarfelagidh Olfus, Sveitarfelagidh Skagafjordhur, Sveitarfelagidh Skagastrond, Sveitarfelagidh Vogar, Talknafjardharhreppur, Thingeyjarsveit, Tjorneshreppur, Vestmannaeyjar, Vesturbyggdh, Vopnafjardharhreppur<br>
+64 municipalities (sveitarfelog, singular - sveitarfelagidh); Akranes, Akureyri, Arneshreppur, Asahreppur, Blaskogabyggdh, Bolungarvik, Borgarbyggdh, Dalabyggdh, Dalvikurbyggdh, Eyjafjardharsveit, Eyja-og Miklaholtshreppur, Fjallabyggdh, Fjardhabyggdh, Fljotsdalshreppur, Floahreppur, Gardhabaer, Grimsnes-og Grafningshreppur, Grindavikurbaer, Grundarfjardharbaer, Grytubakkahreppur, Hafnarfjordhur, Horgarsveit, Hrunamannahreppur, Hunathing Vestra, Hunabyggdh, Hvalfjardharsveit, Hveragerdhi, Isafjardharbaer, Kaldrananeshreppur, Kjosarhreppur, Kopavogur, Langanesbyggdhar, Mosfellsbaer, Mulathing, Myrdalshreppur, Nordhurthing, Rangarthing Eystra, Rangarthing Ytra, Reykholahreppur, Reykjanesbaer, Reykjavik, Seltjarnarnes, Skaftarhreppur, Skagabyggdh, Skagafjordhur, Skeidha-og Gnupverjahreppur, Skorradalshreppur, Snaefellsbaer, Strandabyggdh, Stykkisholmur, Sudhavikurhreppur, Sudhurnesjabaer, Svalbardhsstrandarhreppur, Sveitarfelagidh Arborg, Sveitarfelagidh Hornafjordhur, Sveitarfelagidh Olfus, Sveitarfelagidh Skagastrond, Sveitarfelagidh Vogar, Talknafjardharhreppur, Thingeyjarsveit, Tjorneshreppur, Vestmannaeyjar, Vesturbyggdh, Vopnafjardharhreppur<br>
 
 **Independence**<br>
 1 December 1918 (became a sovereign state under the Danish Crown); 17 June 1944 (from Denmark; birthday of Jon SIGURDSSON, leader of Iceland's 19th Century independence movement)<br>

@@ -185,7 +185,7 @@ _unimproved: urban_: urban: 3.5% of population<br>
 _unimproved: rural_: rural: 7.5% of population<br>
 _unimproved: total_: total: 6% of population (2020 est.)<br>
 
-**Current Health Expenditure**<br>
+**Current health expenditure**<br>
 3.4% (2019)<br>
 
 **Physicians density**<br>
@@ -734,7 +734,7 @@ Pakistan Army (includes National Guard), Pakistan Navy (includes marines, Mariti
 **Military expenditures**<br>
 4% of GDP (2022 est.)<br>
 4% of GDP (2021 est.)<br>
-4% of GDP (2020)<br>
+4% of GDP (2020 est.)<br>
 4.1% of GDP (2019) (approximately $21.6 billion)<br>
 4.1% of GDP (2018) (approximately $21.6 billion)<br>
 

@@ -189,7 +189,7 @@ _unimproved: urban_: urban: 0.7% of population<br>
 _unimproved: rural_: rural: 0.9% of population<br>
 _unimproved: total_: total: 0.8% of population (2020 est.)<br>
 
-**Current Health Expenditure**<br>
+**Current health expenditure**<br>
 10.8% (2019)<br>
 
 **Physicians density**<br>
@@ -358,7 +358,7 @@ _residency requirement for naturalization_: minimum of 3 of last 5 years residen
 18 years of age; universal<br>
 
 **Executive branch**<br>
-_chief of state_: Queen ELIZABETH II (since 6 February 1952); represented by Governor General Mary SIMON (since 6 July 2021)<br>
+_chief of state_: King CHARLES III (since 8 September 2022); represented by Governor General Mary SIMON (since 6 July 2021)<br>
 _head of government_: Prime Minister Justin Pierre James TRUDEAU (Liberal Party) (since 4 November 2015)<br>
 _cabinet_: Federal Ministry chosen by the prime minister usually from among members of his/her own party sitting in Parliament<br>
 _elections/appointments_: the monarchy is hereditary; governor general appointed by the monarch on the advice of the prime minister for a 5-year term; following legislative elections, the leader of the majority party or majority coalition in the House of Commons generally designated prime minister by the governor general<br>
@@ -408,7 +408,7 @@ maple leaf, beaver; national colors: red, white<br>
 **National anthem**<br>
 _name_: "O Canada"<br>
 _lyrics/music_: Adolphe-Basile ROUTHIER [French], Robert Stanley WEIR [English]/Calixa LAVALLEE<br>
-<strong>note:</strong> adopted 1980; originally written in 1880, "O Canada" served as an unofficial anthem many years before its official adoption; the anthem has French and English versions whose lyrics differ; as a Commonwealth realm, in addition to the national anthem, "God Save the Queen" serves as the royal anthem (see United Kingdom)<br>
+<strong>note:</strong> adopted 1980; originally written in 1880, "O Canada" served as an unofficial anthem many years before its official adoption; the anthem has French and English versions whose lyrics differ; as a Commonwealth realm, in addition to the national anthem, "God Save the King" serves as the royal anthem (see United Kingdom)<br>
 
 **National heritage**<br>
 _total World Heritage Sites_: 20 (9 cultural, 10 natural, 1 mixed) (2021)<br>

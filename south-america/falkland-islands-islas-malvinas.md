@@ -157,7 +157,7 @@ _unimproved: urban_: urban: 0% of population<br>
 _unimproved: rural_: rural: 21.8% of population<br>
 _unimproved: total_: total: 4.7% of population (2020)<br>
 
-**Current Health Expenditure**<br>
+**Current health expenditure**<br>
 NA<br>
 
 **Physicians density**<br>
@@ -252,7 +252,7 @@ see United Kingdom<br>
 18 years of age; universal<br>
 
 **Executive branch**<br>
-_chief of state_: Queen ELIZABETH II (since 6 February 1952); represented by Governor Alison BLAKE (since 23 July 2022)<br>
+_chief of state_: King CHARLES III (since 8 September 2022); represented by Governor Alison BLAKE (since 23 July 2022)<br>
 _head of government_: Chief Executive Andy KEELING (since April 2021)<br>
 _cabinet_: Executive Council elected by the Legislative Council<br>
 _elections/appointments_: the monarchy is hereditary; governor appointed by the monarch; chief executive appointed by the governor<br>
@@ -288,7 +288,7 @@ ram<br>
 **National anthem**<br>
 _name_: "Song of the Falklands"<br>
 _lyrics/music_: Christopher LANHAM<br>
-<strong>note:</strong> adopted 1930s; the song is the local unofficial anthem; as a territory of the United Kingdom, "God Save the Queen" is official (see United Kingdom)<br>
+<strong>note:</strong> adopted 1930s; the song is the local unofficial anthem; as a territory of the United Kingdom, "God Save the King" is official (see United Kingdom)<br>
 
 ## Economy
 

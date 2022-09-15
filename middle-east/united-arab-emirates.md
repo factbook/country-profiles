@@ -174,7 +174,7 @@ _unimproved: urban_: urban: NA<br>
 _unimproved: rural_: rural: NA<br>
 _unimproved: total_: total: 0% of population (2020 est.)<br>
 
-**Current Health Expenditure**<br>
+**Current health expenditure**<br>
 4.3% (2019)<br>
 
 **Physicians density**<br>
@@ -710,5 +710,5 @@ the UAE hosts a multi-service French military base, which includes the French na
 _stateless persons_: 5 (mid-year 2021)<br>
 
 **Illicit drugs**<br>
-a transshipment point for illegal narcotics and a pass-through for drug proceeds; numerous exchange houses and general trading companies increase potential for money; major source of precursor chemicals used in the production of illicit narcotics<br>
+a transshipment point for illegal narcotics and a pass-through for drug proceeds; numerous exchange houses and general trading companies increase potential for money laundering; major source of precursor chemicals used in the production of illicit narcotics<br>
 

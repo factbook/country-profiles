@@ -187,7 +187,7 @@ _unimproved: urban_: urban: 4.6% of population<br>
 _unimproved: rural_: rural: 19.3% of population<br>
 _unimproved: total_: total: 14.7% of population (2020 est.)<br>
 
-**Current Health Expenditure**<br>
+**Current health expenditure**<br>
 4.7% (2019)<br>
 
 **Physicians density**<br>
@@ -320,7 +320,7 @@ _industrial_: 498.4 million cubic meters (2017 est.)<br>
 _agricultural_: 29.57 billion cubic meters (2017 est.)<br>
 
 **Total renewable water resources**<br>
-1,167,800,000,000 cubic meters (2017 est.)<br>
+1.168 trillion cubic meters (2017 est.)<br>
 
 ## Government
 
@@ -752,5 +752,5 @@ _current situation_: human traffickers exploit men, women, and children through 
 _tier rating_: Tier 3 &mdash; Burma does not fully meet the minimum standards for the elimination of trafficking and is not making significant efforts to do so; authorities increased the investigation and prosecution of trafficking crimes, including those involving officials, and the investigation of forced labor in the fishing sector; the government identified and referred more victims to care and enacted legislation enhancing protections for child victims; however, a policy or pattern of forced labor existed; the use of children in labor and support roles by the military increased in conflict zones in Rakhine and Shan States; displacement resulting from military conflict made Rohingya and other ethnic groups vulnerable to human trafficking; the constitutionally guaranteed power of the military continued to limit the government&rsquo;s ability to address forced adult labor and child soldier recruitment; although authorities allocated increased funding to victim protection, most services to trafficking victims were provided by NGOs and foreign donors (2020)<br>
 
 **Illicit drugs**<br>
-<p>a major source of illicit methamphetamine and opiates; illicit import of precursor chemicals from China increased production and trafficking of synthetic drugs; second-largest opium poppy cultivator in Asia, with an estimated 20,200 hectares grown in 2019; “Yaba,” a tablet containing methamphetamine, caffeine, and other stimulants, is produced in Burma and trafficked regionally; ethnic armed organizations, military-affiliated militias, and transnational criminal organizations oversee billion dollar a drug production and trafficking industry; drugs produced in Burma are trafficked beyond Southeast Asia to Australia, New Zealand, and Japan; not a major source or transit country for drugs entering the United States</p> <p> </p> (2021)<br>
+<p>a major source of illicit methamphetamine and opiates; illicit import of precursor chemicals from China increased production and trafficking of synthetic drugs; second-largest opium poppy cultivator in Asia, with an estimated 20,200 hectares grown in 2019; “Yaba,” a tablet containing methamphetamine, caffeine, and other stimulants, is produced in Burma and trafficked regionally; ethnic armed organizations, military-affiliated militias, and transnational criminal organizations oversee billion dollar drug production and trafficking industry; drugs produced in Burma are trafficked beyond Southeast Asia to Australia, New Zealand, and Japan; not a major source or transit country for drugs entering the United States</p> <p> </p> (2021)<br>
 

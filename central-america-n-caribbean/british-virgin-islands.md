@@ -160,7 +160,7 @@ NA<br>
 _improved: total_: total: 99.9% of population<br>
 _unimproved: total_: total: 0.1% of population (2020 est.)<br>
 
-**Current Health Expenditure**<br>
+**Current health expenditure**<br>
 NA<br>
 
 **Physicians density**<br>
@@ -268,7 +268,7 @@ see United Kingdom<br>
 18 years of age; universal<br>
 
 **Executive branch**<br>
-_chief of state_: Queen ELIZABETH II (since 6 February 1952); represented by Governor John J. RANKIN (since 29 January 2021)<br>
+_chief of state_: King CHARLES III (since 8 September 2022); represented by Governor John J. RANKIN (since 29 January 2021)<br>
 _head of government_: Premier Dr. Natalio WHEATLEY (since 5 May 2022)<br>
 _cabinet_: Executive Council appointed by the governor from members of the House of Assembly<br>
 _elections/appointments_: the monarchy is hereditary; governor appointed by the monarch; following legislative elections, the leader of the majority party or majority coalition usually appointed premier by the governor<br>
@@ -303,7 +303,7 @@ blue with the flag of the UK in the upper hoist-side quadrant and the Virgin Isl
 zenaida dove, white cedar flower; national colors: yellow, green, red, white, blue<br>
 
 **National anthem**<br>
-<p><strong>note:</strong> as a territory of the United Kingdom, "God Save the Queen" is official (see United Kingdom)</p><br>
+<p><strong>note:</strong> as an overseas territory of the United Kingdom, "God Save the King" is official (see United Kingdom)</p><br>
 
 ## Economy
 

@@ -147,7 +147,7 @@ _unimproved: urban_: urban: 0% of population<br>
 _unimproved: rural_: rural: 0.3% of population<br>
 _unimproved: total_: total: 0.3% of population (2020 est.)<br>
 
-**Current Health Expenditure**<br>
+**Current health expenditure**<br>
 NA<br>
 
 **Physicians density**<br>
@@ -255,7 +255,7 @@ see New Zealand<br>
 21 years of age; universal<br>
 
 **Executive branch**<br>
-_chief of state_: Queen ELIZABETH II (since 6 February 1952); represented by Governor General of New Zealand Governor General Dame Cindy KIRO (since 21 September 2021); New Zealand is represented by Administrator Ross ARDERN (since May 2018)<br>
+_chief of state_: King CHARLES III (since 8 September 2022); represented by Governor General of New Zealand Governor General Dame Cindy KIRO (since 21 September 2021); New Zealand is represented by Administrator Ross ARDERN (since May 2018)<br>
 _head of government_: (Ulu o Tokelau) Kelihiano KALOLO (since 8 March 2021); note - position rotates annually among the three Faipule (village leaders) of the atolls<br>
 _cabinet_: Council for the Ongoing Government of Tokelau (or Tokelau Council) functions as a cabinet; consists of 3 Faipule (village leaders) and 3 Pulenuku (village mayors)<br>
 _elections/appointments_: the monarchy is hereditary; governor general appointed by the monarch; administrator appointed by the Minister of Foreign Affairs and Trade in New Zealand; head of government chosen from the Council of Faipule to serve a 1-year term<br>
@@ -292,7 +292,7 @@ tuluma (fishing tackle box); national colors: blue, yellow, white<br>
 **National anthem**<br>
 _name_: "Te Atua" (For the Almighty)<br>
 _lyrics/music_: unknown/Falani KALOLO<br>
-<strong>note:</strong> adopted 2008; in preparation for eventual self governance, Tokelau held a national contest to choose an anthem; as a territory of New Zealand, "God Defend New Zealand" and "God Save the Queen" are official (see New Zealand)<br>
+<strong>note:</strong> adopted 2008; in preparation for eventual self governance, Tokelau held a national contest to choose an anthem; as a territory of New Zealand, in addition to "God Defend New Zealand," "God Save the King" serves as a royal anthem (see United Kingdom); "God Save the King" normally played only when a member of the royal family or the governor-general is present; in all other cases, "God Defend New Zealand" is played (see New Zealand)<br>
 
 ## Economy
 

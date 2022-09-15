@@ -188,7 +188,7 @@ _unimproved: urban_: urban: 8.7% of population<br>
 _unimproved: rural_: rural: 36.7% of population<br>
 _unimproved: total_: total: 28.8% of population (2020 est.)<br>
 
-**Current Health Expenditure**<br>
+**Current health expenditure**<br>
 4.6% (2019)<br>
 
 **Physicians density**<br>
@@ -756,5 +756,5 @@ _IDPs_: 190,000 (election-related violence, intercommunal violence, resource con
 _stateless persons_: 16,820 (mid-year 2021); note - the stateless population consists of Nubians, Kenyan Somalis, and coastal Arabs; the Nubians are descendants of Sudanese soldiers recruited by the British to fight for them in East Africa more than a century ago; Nubians did not receive Kenyan citizenship when the country became independent in 1963; only recently have Nubians become a formally recognized tribe and had less trouble obtaining national IDs; Galjeel and other Somalis who have lived in Kenya for decades are included with more recent Somali refugees and denied ID cards<br>
 
 **Illicit drugs**<br>
-<p>a transit country for a variety of illicit drugs, including heroin and cocaine; transit location for precursor chemicals used to produce methamphetamine and other drugs; heroin from Southwest Asia enters Kenya destined for international markets, mainly Europe; cocaine transits through Kenya shipped through Ethiopia from South America;  cultivates cannabis and miraa (khat) for both local use and export</p><br>
+<p>a transit country for a variety of illicit drugs, including heroin and cocaine; transit location for precursor chemicals used to produce methamphetamine and other drugs; transshipment country for heroin from Southwest Asia destined for international markets, mainly Europe, and cocaine transits shipped through Ethiopia from South America;  cultivates cannabis and miraa (khat) for both local use and export</p><br>
 

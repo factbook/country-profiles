@@ -178,7 +178,7 @@ _unimproved: urban_: urban: 0% of population<br>
 _unimproved: rural_: rural: 0.4% of population<br>
 _unimproved: total_: total: 0.1% of population (2020 est.)<br>
 
-**Current Health Expenditure**<br>
+**Current health expenditure**<br>
 5.9% (2019)<br>
 
 **Physicians density**<br>
@@ -633,8 +633,8 @@ _international_: country code - 375; Belarus is landlocked and therefore a membe
 .by<br>
 
 **Internet users**<br>
-_total_: 7,972,959 (2020 est.)<br>
-_percent of population_: 85% (2020 est.)<br>
+_total_: 8,027,601 (July 2022 est.)<br>
+_percent of population_: 85% (July 2022 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 3,255,552 (2020 est.)<br>
@@ -724,7 +724,7 @@ the inventory of the Belarus Armed Forces is comprised mostly of Russian/Soviet-
 <p><em>Belarus-Latvia:</em> Boundary demarcated with Latvia.<br><br><em>Belarus-Lithuania:</em> Boundary demarcated with Lithuania.<br><br><em>Belarus-Poland:</em> As a member state that forms part of the EU's external border, Poland has implemented strict Schengen border rules to restrict illegal immigration and trade along its border with Belarus.</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 11,644 (Ukraine) (as of 30 August 2022)<br>
+_refugees (country of origin)_: 12,505 (Ukraine) (as of 6 September 2022)<br>
 _stateless persons_: 6,104 (mid-year 2021)<br>
 
 **Trafficking in persons**<br>
