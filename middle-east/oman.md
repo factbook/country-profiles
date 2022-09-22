@@ -304,7 +304,7 @@ absolute monarchy<br>
 _name_: Muscat<br>
 _geographic coordinates_: 23 37 N, 58 35 E<br>
 _time difference_: UTC+4 (9 hours ahead of Washington, DC, during Standard Time)<br>
-_etymology_: the name, whose meaning is uncertain, traces back almost two millennia; two 2nd century A.D. scholars, the geographer Ptolemy and the historian Arrian, both mention an Arabian Sea coastal town of Moscha, which most likely referred to Muscat<br>
+_etymology_: the name, whose meaning is uncertain, traces back almost two millennia; two 2nd century A.D. scholars, the geographer PTOLEMY and the historian ARRIAN, both mention an Arabian Sea coastal town of Moscha, which most likely referred to Muscat<br>
 
 **Administrative divisions**<br>
 11 governorates (muhafazat, singular - muhafaza); Ad Dakhiliyah, Al Buraymi, Al Wusta, Az Zahirah, Janub al Batinah (Al Batinah South), Janub ash Sharqiyah (Ash Sharqiyah South), Masqat (Muscat), Musandam, Shamal al Batinah (Al Batinah North), Shamal ash Sharqiyah (Ash Sharqiyah North), Zufar (Dhofar)<br>

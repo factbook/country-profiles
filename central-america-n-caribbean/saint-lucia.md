@@ -286,7 +286,7 @@ parliamentary democracy under a constitutional monarchy; a Commonwealth realm<br
 _name_: Castries<br>
 _geographic coordinates_: 14 00 N, 61 00 W<br>
 _time difference_: UTC-4 (1 hour ahead of Washington, DC, during Standard Time)<br>
-_etymology_: in 1785, the village of Carenage was renamed Castries, after Charles Eugene Gabriel de La Croix de Castries (1727-1801), who was then the French Minister of the Navy and Colonies<br>
+_etymology_: in 1785, the village of Carenage was renamed Castries, after Charles Eugene Gabriel de La Croix de CASTRIES (1727-1801), who was then the French Minister of the Navy and Colonies<br>
 
 **Administrative divisions**<br>
 10 districts; Anse-la-Raye, Canaries, Castries, Choiseul, Dennery, Gros-Islet, Laborie, Micoud, Soufriere, Vieux-Fort<br>

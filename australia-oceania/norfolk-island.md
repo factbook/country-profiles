@@ -213,7 +213,7 @@ _name_: Kingston<br>
 _geographic coordinates_: 29 03 S, 167 58 E<br>
 _time difference_: UTC+11 (16 hours ahead of Washington, DC, during Standard Time)<br>
 _daylight saving time_: +1hr, begins first Sunday in October; ends first Sunday in April<br>
-_etymology_: the name is a blending of the words "king's" and "town"; the British king at the time of the town's settlement in the late 18th century was George III<br>
+_etymology_: the name is a blending of the words "king's" and "town"; the British king at the time of the town's settlement in the late 18th century was GEORGE III<br>
 
 **Administrative divisions**<br>
 none (territory of Australia)<br>

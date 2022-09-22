@@ -297,7 +297,7 @@ parliamentary democracy (Parliament) under a constitutional monarchy; a Commonwe
 _name_: Kingston<br>
 _geographic coordinates_: 18 00 N, 76 48 W<br>
 _time difference_: UTC-5 (same time as Washington, DC, during Standard Time)<br>
-_etymology_: the name is a blending of the words "king's" and "town"; the English king at the time of the city's founding in 1692 was William III (r. 1689-1702)<br>
+_etymology_: the name is a blending of the words "king's" and "town"; the English king at the time of the city's founding in 1692 was WILLIAM III (r. 1689-1702)<br>
 
 **Administrative divisions**<br>
 14 parishes; Clarendon, Hanover, Kingston, Manchester, Portland, Saint Andrew, Saint Ann, Saint Catherine, Saint Elizabeth, Saint James, Saint Mary, Saint Thomas, Trelawny, Westmoreland<br>

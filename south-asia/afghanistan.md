@@ -712,7 +712,7 @@ in May 2022, the de facto Ministry of Defense announced that approximately 130,0
 <strong>note:</strong> as of 2022, there were also up to 10,000 foreign fighters in Afghanistan, most of whom were aligned with the Taliban<br>
 
 **Military equipment inventories and acquisitions**<br>
-the Taliban military/security forces are armed largely with equipment captured from the Afghan National Defense and Security Forces (ANDSF) when the central government in Kabul collapsed in 2021; the majority of the ANDSF's equipment was provided by the US (2022)<br>
+the Taliban military/security forces are armed largely with equipment captured from the Afghan National Defense and Security Forces (ANDSF) when the central government in Kabul collapsed in 2021 (2022)<br>
 
 **Military service age and obligation**<br>
 not available<br>

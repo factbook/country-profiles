@@ -248,7 +248,7 @@ overseas territory of the UK<br>
 _name_: Grand Turk (Cockburn Town)<br>
 _geographic coordinates_: 21 28 N, 71 08 W<br>
 _time difference_: UTC-5 (same time as Washington, DC, during Standard Time)<br>
-_etymology_: named after Sir Francis Cockburn, who served as governor of the Bahamas from 1837 to 1844<br>
+_etymology_: named after Sir Francis COCKBURN, who served as governor of the Bahamas from 1837 to 1844<br>
 
 **Administrative divisions**<br>
 none (overseas territory of the UK)<br>

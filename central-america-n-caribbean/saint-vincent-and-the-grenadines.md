@@ -276,7 +276,7 @@ parliamentary democracy under a constitutional monarchy; a Commonwealth realm<br
 _name_: Kingstown<br>
 _geographic coordinates_: 13 08 N, 61 13 W<br>
 _time difference_: UTC-4 (1 hour ahead of Washington, DC, during Standard Time)<br>
-_etymology_: an earlier French settlement was renamed Kingstown by the British in 1763 when they assumed control of the island; the king referred to in the name is George III (r. 1760-1820)<br>
+_etymology_: an earlier French settlement was renamed Kingstown by the British in 1763 when they assumed control of the island; the king referred to in the name is GEORGE III (r. 1760-1820)<br>
 
 **Administrative divisions**<br>
 6 parishes; Charlotte, Grenadines, Saint Andrew, Saint David, Saint George, Saint Patrick<br>
@@ -602,7 +602,8 @@ _major seaport(s)_: Kingstown<br>
 ## Military and Security
 
 **Military and security forces**<br>
-no regular military forces; Royal Saint Vincent and the Grenadines Police Force (RSVPF; includes the Coast Guard and a paramilitary Special Services Unit) (2022)<br>
+no regular military forces; Royal Saint Vincent and the Grenadines Police Force (RSVPF; includes the Coast Guard, Special Services Unit, Rapid Response Unit, Drug Squad, and Anti-Trafficking Unit) (2022)<br>
+<strong>note: </strong>the RSVPF reports to the minister of national security, a portfolio held by the prime minister<br>
 
 **Military - note**<br>
 the country has been a member of the Caribbean Regional Security System (RSS) since its creation in 1982; RSS signatories (Antigua and Barbuda, Barbados, Dominica, Grenada, Saint Kitts, and Saint Lucia) agreed to prepare contingency plans and assist one another, on request, in national emergencies, prevention of smuggling, search and rescue, immigration control, fishery protection, customs and excise control, maritime policing duties, protection of off-shore installations, pollution control, national and other disasters, and threats to national security (2022)<br>

@@ -309,7 +309,7 @@ _daylight saving time_: +1hr, begins last Sunday in March; ends last Sunday in O
 _etymology_: the medieval name was spelt "Aslo"; the "as" component refered either to the Ekeberg ridge southeast of the town ("as" in modern Norwegian), or to the Aesir (Norse gods); "lo" refered to "meadow," so the most likely interpretations would have been either "the meadow beneath the ridge" or "the meadow of the gods"; both explanations are considered equally plausible<br>
 
 **Administrative divisions**<br>
-18 counties (fylker, singular - fylke); Akershus, Aust-Agder, Buskerud, Finnmark, Hedmark, Hordaland, More og Romsdal, Nordland, Oppland, Oslo, Ostfold, Rogaland, Sogn og Fjordane, Telemark, Troms, Trondelag, Vest-Agder, Vestfold<br>
+11 counties (fylker, singular - fylke); Agder, Innlandet, More og Romsdal, Nordland, Oslo, Rogaland, Troms og Finnmark, Trondelag, Vestfold og Telemark, Vestland, Viken<br>
 
 **Dependent areas**<br>
 Bouvet Island, Jan Mayen, Svalbard<br>
@@ -356,7 +356,7 @@ _judge selection and term of office_: justices appointed by the monarch (King in
 _subordinate courts_: Courts of Appeal or Lagmennsrett; regional and district courts; Conciliation Boards; ordinary and special courts; note - in addition to professionally trained judges, elected lay judges sit on the bench with professional judges in the Courts of Appeal and district courts<br>
 
 **Political parties and leaders**<br>
-<p>Center Party or Sp [Trygve Slagsvold VEDUM]<br>Christian Democratic Party or KrF [Olaug BOLLESTAD] <br>Conservative Party or H [Erna SOLBERG] <br>Green Party or MDG [Une Aina BASTHOLM]  <br>Labor Party or Ap [Jonas Gahr STORE] <br>Liberal Party or V [Guri MELBY]<br>Patient Focus or PF [Irene OJALA]<br>Progress Party or FrP [Sylvi LISTHAUG] <br>Red Party or R [Bjonar MOXNES]<br>Socialist Left Party or SV [Audun LYSBAKKEN]</p><br>
+<p>Center Party or Sp [Trygve Slagsvold VEDUM]<br>Christian Democratic Party or KrF [Olaug Vervik BOLLESTAD] <br>Conservative Party or H [Erna SOLBERG] <br>Green Party or MDG [Une Aina BASTHOLM]  <br>Labor Party or Ap [Jonas Gahr STORE] <br>Liberal Party or V [Guri MELBY]<br>Patient Focus or PF [Irene OJALA]<br>Progress Party or FrP [Sylvi LISTHAUG] <br>Red Party or R [Bjonar MOXNES]<br>Socialist Left Party or SV [Audun LYSBAKKEN]</p><br>
 
 **International organization participation**<br>
 ADB (nonregional member), AfDB (nonregional member), Arctic Council, Australia Group, BIS, CBSS, CD, CE, CERN, EAPC, EBRD, EFTA, EITI (implementing country), ESA, FAO, FATF, IADB, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IEA, IFAD, IFC, IFRCS, IGAD (partners), IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, MINUSMA, NATO, NC, NEA, NIB, NSG, OAS (observer), OECD, OPCW, OSCE, Paris Club, PCA, Schengen Convention, UN, UNCTAD, UNESCO, UNHCR, UNIDO, UNITAR, UNMISS, UNRWA, UNTSO, UNWTO, UPU, Wassenaar Arrangement, WCO, WHO, WIPO, WMO, WTO, ZC<br>
@@ -713,6 +713,6 @@ Norway is a member of NATO and was one of the original 12 countries to sign the 
 <p><em>Norway-Antarctica</em>: Norway asserts a territorial claim in Antarctica (Queen Maud Land and its continental shelf)</p> <p><em>Norway-Russia</em>: Russia amended its 2001 CLCS submission in 2015 and 2021, each time delineating the outer limits of its continental shelf further into the Arctic Ocean; Norway and Russia signed a comprehensive maritime boundary agreement in 2010, ending a dispute over an area of the Barents Sea by dividing the territory equally</p> <p><em>Norway-Sweden</em>: none identified</p> <p> </p> <p> </p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 15,542 (Syria), 11,965 (Eritrea) (mid-year 2021); 25,868 (Ukraine) (as of 6 September 2022)<br>
+_refugees (country of origin)_: 15,542 (Syria), 11,965 (Eritrea) (mid-year 2021); 26,669 (Ukraine) (as of 13 September 2022)<br>
 _stateless persons_: 4,154 (mid-year 2021)<br>
 

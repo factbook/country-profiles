@@ -693,7 +693,8 @@ _major seaport(s)_: Montevideo<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Armed Forces of Uruguay (Fuerzas Armadas del Uruguay): National Army (Ejercito Nacional), National Navy (Armada Nacional, includes Coast Guard (Prefectura Nacional Naval)), Uruguayan Air Force (Fuerza Aerea); Guardia Nacional Republicana (paramilitary regiment of the National Police) (2022)<br>
+Armed Forces of Uruguay (Fuerzas Armadas del Uruguay): National Army (Ejercito Nacional), National Navy (Armada Nacional, includes Coast Guard (Prefectura Nacional Naval)), Uruguayan Air Force (Fuerza Aerea); Ministry of Interior: National Police (2022)<br>
+<strong>note: </strong>the National Police includes the paramilitary National Republican Guard or Guardia Nacional Republicana <br>
 
 **Military expenditures**<br>
 2.3% of GDP (2021 est.)<br>
@@ -706,10 +707,10 @@ Armed Forces of Uruguay (Fuerzas Armadas del Uruguay): National Army (Ejercito N
 approximately 22,000 active duty personnel (14,000 Army; 5,000 Navy; 3,000 Air Force) (2022)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the inventory of the Armed Forces of Uruguay includes a wide variety of older or second-hand equipment; since 2010, it has imported limited amounts of military hardware from about 10 countries with Spain as the leading supplier (2022)<br>
+the military's inventory includes a wide variety of older or second-hand equipment; since 2010, it has imported limited amounts of military hardware from about 10 countries with Spain as the leading supplier (2022)<br>
 
 **Military service age and obligation**<br>
-18-30 years of age (18-22 years of age for Navy) for male or female voluntary military service; up to 40 years of age for specialists; enlistment is voluntary in peacetime, but the government has the authority to conscript in emergencies (2022)<br>
+18-30 years of age (18-22 years of age for Navy) for voluntary military service for men and women; up to 40 years of age for specialists; enlistment is voluntary in peacetime, but the government has the authority to conscript in emergencies (2022)<br>
 <strong>note:</strong> as of 2017, women comprised about 19% of the active military<br>
 
 **Military deployments**<br>

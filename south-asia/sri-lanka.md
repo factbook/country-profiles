@@ -697,7 +697,8 @@ _container port(s) (TEUs)_: Colombo (7,228,337) (2019)<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Sri Lanka Army (includes National Guard and the Volunteer Force), Sri Lanka Navy (includes Marine Corps), Sri Lanka Air Force, Sri Lanka Coast Guard; Civil Security Department (Home Guard); Sri Lanka National Police: Special Task Force (a paramilitary unit responsible for counter-terrorism and counter-insurgency operations) (2022)<br>
+Sri Lanka Armed Forces: Sri Lanka Army (includes National Guard and the Volunteer Force), Sri Lanka Navy (includes Marine Corps), Sri Lanka Air Force, Sri Lanka Coast Guard; Civil Security Department (Home Guard); Ministry of Public Security: Sri Lanka National Police (2022)<br>
+<strong>note:</strong> the Sri Lanka Police includes the Special Task Force, a paramilitary unit responsible for counterterrorism and counterinsurgency operations; it coordinates internal security operations with the military<br>
 
 **Military expenditures**<br>
 1.9% of GDP (2021 est.)<br>
@@ -710,7 +711,7 @@ Sri Lanka Army (includes National Guard and the Volunteer Force), Sri Lanka Navy
 approximately 240,000 total personnel (170,000 Army; 40,000 Navy; 30,000 Air Force); approximately 11,000 Special Task Force personnel (2022)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the Sri Lankan military inventory consists mostly of Chinese and Russian-origin equipment; since 2010, China, India, and the US have been the leading suppliers of arms to Sri Lanka (2022)<br>
+the military's inventory consists mostly of Chinese and Russian-origin equipment with a smaller mix of material from countries such as India and the US; since 2010, China, India, and the US have been the leading suppliers of arms to Sri Lanka (2022)<br>
 
 **Military service age and obligation**<br>
 18-22 years of age for voluntary military service for men and women; no conscription (2022)<br>

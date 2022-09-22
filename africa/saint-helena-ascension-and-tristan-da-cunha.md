@@ -241,7 +241,7 @@ overseas territory of the UK<br>
 _name_: Jamestown<br>
 _geographic coordinates_: 15 56 S, 5 43 W<br>
 _time difference_: UTC 0 (5 hours ahead of Washington, DC, during Standard Time)<br>
-_etymology_: founded in 1659 and named after James, Duke of York, who would become King James II of England (r. 1785-1788)<br>
+_etymology_: founded in 1659 and named after James, Duke of York, who would become King JAMES II of England (r. 1785-1788)<br>
 
 **Administrative divisions**<br>
 3 administrative areas; Ascension, Saint Helena, Tristan da Cunha<br>

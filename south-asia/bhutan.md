@@ -330,7 +330,7 @@ _judge selection and term of office_: Supreme Court chief justice appointed by t
 _subordinate courts_: High Court (first appellate court); District or Dzongkhag Courts; sub-district or Dungkhag Courts<br>
 
 **Political parties and leaders**<br>
-Bhutan Kuen-Nyam Party or BKP<br>Bhutan Peace and Prosperity Party (Druk Phuensum Tshogpa) or DPT [Dorji WANGDI] (Druk Chirwang Tshogpa or DCT merged with DPT in March 2018)<br>People's Democratic Party or PDP [Tshering TOBGAY]<br>United Party of Bhutan (Druk Nyamrup Tshogpa) or DNT [Lotay TSHERING]<br>
+<p>Bhutan Kuen-Nyam Party<br>Bhutan Peace and Prosperity Party (Druk Phuensum Tshogpa) or DPT [Dorji WANGDI] (Druk Chirwang Tshogpa or DCT merged with DPT in March 2018)<br>People's Democratic Party or PDP [Tshering TOBGAY]<br>United Party of Bhutan (Druk Nyamrup Tshogpa) or DNT [Lotay TSHERING]</p><br>
 
 **International organization participation**<br>
 ADB, BIMSTEC, CP, FAO, G-77, IBRD, ICAO, IDA, IFAD, IFC, IMF, Interpol, IOC, IOM (observer), IPU, ISO (correspondent), ITSO, ITU, MIGA, NAM, OPCW, SAARC, SACEP, UN, UNCTAD, UNESCO, UNIDO, UNISFA, UNTSO, UNWTO, UPU, WCO, WHO, WIPO, WMO, WTO (observer)<br>

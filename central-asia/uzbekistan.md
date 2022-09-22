@@ -675,7 +675,7 @@ _river port(s)_: Termiz (Amu Darya)<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Armed Forces of Uzbekistan: Army, Air and Air Defense Forces; National Guard; Ministry of Interior: Internal Security Troops, Border Guards (2022)<br>
+Armed Forces of Uzbekistan: Army, Air and Air Defense Forces; National Guard; Ministry of Internal Affairs: Internal Security Troops, Border Guards, police (2022)<br>
 <strong>note:</strong> the National Guard, also under the Ministry of Defense, ensures public order and security of diplomatic missions, radio and television broadcasting, and other state entities<br>
 
 **Military expenditures**<br>
@@ -692,7 +692,7 @@ information varies; approximately 60,000 active duty troops, including 10-15,000
 the Uzbek Armed Forces use mainly Soviet-era equipment; since 2010, Russia has been the leading supplier of arms, followed by China (2022)<br>
 
 **Military service age and obligation**<br>
-18-27 years of age for compulsory military service; 1-year conscript service obligation for males (conscripts have the option of paying for a shorter service of one month while remaining in the reserves until the age of 27); Uzbek citizens who have completed their service terms in the armed forces have privileges in employment and admission to higher educational institutions (2022)<br>
+18-27 years of age for compulsory military service; 12 month conscript service obligation for men (conscripts have the option of paying for a shorter service of 1 month while remaining in the reserves until the age of 27); Uzbek citizens who have completed their service terms in the armed forces have privileges in employment and admission to higher educational institutions (2022)<br>
 
 **Military - note**<br>
 <p>the Uzbek armed forces were established in January 1992, following the dissolution of the Soviet Union, when the newly-established Ministry for Defense Affairs assumed jurisdiction over all former Soviet ground, air, and air defense units, formations, and installations then deployed on its soil; the building hosting the headquarters for the ex-Soviet Turkestan Military District became the headquarters for the Uzbek armed forces; all former Soviet troops departed Uzbekistan by 1995; as of 2022, Uzbekistan continued to maintain bilateral defense ties with Russia based on a 2005 mutual security agreement</p> <p>as of 2022, Uzbekistan was not part of the Russian-sponsored Collective Security Treaty Organization (CSTO) that is comprised of former Soviet Republics; Uzbekistan joined in the 1990s but withdrew in 1999; it returned in 2006 but left again in 2012</p><br>

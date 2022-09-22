@@ -319,7 +319,7 @@ parliamentary republic<br>
 _name_: Georgetown<br>
 _geographic coordinates_: 6 48 N, 58 09 W<br>
 _time difference_: UTC-4 (1 hour ahead of Washington, DC, during Standard Time)<br>
-_etymology_: when the British took possession of the town from the Dutch in 1812, they renamed it Georgetown in honor of King George III (1738-1820)<br>
+_etymology_: when the British took possession of the town from the Dutch in 1812, they renamed it Georgetown in honor of King GEORGE III (1738-1820)<br>
 
 **Administrative divisions**<br>
 10 regions; Barima-Waini, Cuyuni-Mazaruni, Demerara-Mahaica, East Berbice-Corentyne, Essequibo Islands-West Demerara, Mahaica-Berbice, Pomeroon-Supenaam, Potaro-Siparuni, Upper Demerara-Berbice, Upper Takutu-Upper Essequibo<br>

@@ -321,7 +321,7 @@ presidential republic<br>
 _name_: Santo Domingo<br>
 _geographic coordinates_: 18 28 N, 69 54 W<br>
 _time difference_: UTC-4 (1 hour ahead of Washington, DC, during Standard Time)<br>
-_etymology_: named after Saint Dominic de Guzman (1170-1221), founder of the Dominican Order<br>
+_etymology_: named after Saint Dominic de GUZMAN (1170-1221), founder of the Dominican Order<br>
 
 **Administrative divisions**<br>
 10 regions (regiones, singular - region); Cibao Nordeste, Cibao Noroeste, Cibao Norte, Cibao Sur, El Valle, Enriquillo, Higuamo, Ozama, Valdesia, Yuma<br>

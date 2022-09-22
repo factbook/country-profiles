@@ -362,8 +362,8 @@ _residency requirement for naturalization_: 10 years<br>
 18 years of age; universal<br>
 
 **Executive branch**<br>
-_chief of state_: President Joao Manuel Goncalves LOURENCO (since 29 August 2022); Vice President Bornito De Sousa Baltazar DIOGO (since 29 August 2022); note - the president is both chief of state and head of government (2022)<br>
-_head of government_: President Joao Manuel Goncalves LOURENCO (since 29 August 2022); Vice President Bornito De Sousa Baltazar DIOGO (since 29 August 2022) (2022)<br>
+_chief of state_: President Joao Manuel Goncalves LOURENCO (since 15 September 2022); Vice President Bornito De Sousa Baltazar DIOGO (since 15 September 2022); note - the president is both chief of state and head of government (2022)<br>
+_head of government_: President Joao Manuel Goncalves LOURENCO (since 15 September 2022); Vice President Bornito De Sousa Baltazar DIOGO (since 15 September 2022) (2022)<br>
 _cabinet_: Council of Ministers appointed by the president<br>
 _elections/appointments_: the candidate of the winning party or coalition in the last legislative election becomes the president; president serves a 5-year term (eligible for a second consecutive or discontinuous term); last held on 24 August 2022 (next to be held in 24 August 2027) (2022)<br>
 _election results_: Joao Manuel Goncalves LOURENCO (MPLA) elected president by then winning party following the 24 August 2022 general election (2022)<br>
@@ -725,7 +725,7 @@ approximately 101,000 active troops (95,000 Army; 1,000 Navy; 5,000 Air Force); 
 most Angolan military weapons and equipment are of Russian, Soviet, or Warsaw Pact origin; since 2010, Russia has been&nbsp;the principal supplier of military hardware to Angola (2021)<br>
 
 **Military service age and obligation**<br>
-20-45 years of age for compulsory male and 18-45 years for voluntary male military service (registration at age 18 is mandatory); 20-45 years of age for voluntary female service; 2-year conscript service obligation; Angolan citizenship required; the Navy is entirely staffed with volunteers (2021)<br>
+20-45 years of age for compulsory and 18-45 years for voluntary military service for men (registration at age 18 is mandatory); 20-45 years of age for voluntary service for women; 2-year conscript service obligation; Angolan citizenship required; the Navy is entirely staffed with volunteers (2021)<br>
 
 **Military - note**<br>
 the Angolan Armed Forces were created in 1991 under the Bicesse Accords signed between the Angolan Government and the National Union for the Total Independence of Angola (UNITA) <br><br>the Angolan Armed Forces are responsible for external security but also have domestic security responsibilities, including border security, expulsion of irregular migrants, and small-scale actions against groups like the Front for the Liberation of the Enclave of Cabinda separatists in Cabinda (2022)<br>

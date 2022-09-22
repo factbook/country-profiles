@@ -672,7 +672,7 @@ _major seaport(s)_: Freetown, Pepel, Sherbro Islands<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Republic of Sierra Leone Armed Forces (RSLAF): operates under a Joint Force Command with Land Forces, Maritime Forces, and an Air Wing (2022)<br>
+Republic of Sierra Leone Armed Forces (RSLAF): operates under a Joint Force Command with Land Forces, Maritime Forces, and an Air Wing; Ministry of Internal Affairs: Sierre Leone Police (2022)<br>
 
 **Military expenditures**<br>
 0.3% of GDP (2021 est.)<br>
@@ -685,7 +685,7 @@ Republic of Sierra Leone Armed Forces (RSLAF): operates under a Joint Force Comm
 approximately 9,000 personnel, mostly ground forces (2022)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the RSLAF's small inventory includes a mix of Soviet-origin and other older foreign-supplied equipment; since 2010, it has received limited quantities of material (mostly donations of second-hand equipment) from China and South Africa (2022)<br>
+the RSLAF has a small inventory that includes a mix of Soviet-origin and other older foreign-supplied equipment; it has received limited amounts of mostly donations and second-hand equipment since 2010 (2022)<br>
 
 **Military service age and obligation**<br>
 18-29 for voluntary military service; women are eligible to serve; no conscription (2022)<br>

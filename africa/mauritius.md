@@ -299,7 +299,7 @@ parliamentary republic<br>
 _name_: Port Louis<br>
 _geographic coordinates_: 20 09 S, 57 29 E<br>
 _time difference_: UTC+4 (9 hours ahead of Washington, DC, during Standard Time)<br>
-_etymology_: named after Louis XV, who was king of France in 1736 when the port became the administrative center of Mauritius&nbsp;and a major reprovisioning stop for French ships traveling between Europe and Asia<br>
+_etymology_: named after LOUIS XV, who was king of France in 1736 when the port became the administrative center of Mauritius and a major reprovisioning stop for French ships traveling between Europe and Asia<br>
 
 **Administrative divisions**<br>
 9 districts and 3 dependencies*; Agalega Islands*, Black River, Cargados Carajos Shoals*, Flacq, Grand Port, Moka, Pamplemousses, Plaines Wilhems, Port Louis, Riviere du Rempart, Rodrigues*, Savanne<br>

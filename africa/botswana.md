@@ -43,7 +43,7 @@ semiarid; warm winters and hot summers<br>
 predominantly flat to gently rolling tableland; Kalahari Desert in southwest<br>
 
 **Elevation**<br>
-_highest point_: Manyelanong Hill 1,495 m<br>note - the Factbook map is incorrect; it shows the wrong high elevation<br>
+_highest point_: Manyelanong Hill 1,495 m<br>
 _lowest point_: junction of the Limpopo and Shashe Rivers 513 m<br>
 _mean elevation_: 1,013 m<br>
 

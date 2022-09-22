@@ -707,7 +707,7 @@ _river port(s)_: Seville (Guadalquivir River)<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Spanish Armed Forces: Army (Ejercito de Tierra), Spanish Navy (Armada Espanola, AE, includes Marine Corps), Spanish Air Force (Ejercito del Aire Espanola, EdA); Civil Guard (Guardia Civil) (2022)<br>
+Spanish Armed Forces: Army (Ejercito de Tierra), Spanish Navy (Armada Espanola, AE; includes Marine Corps), Spanish Air Force (Ejercito del Aire Espanola, EdA); Civil Guard (Guardia Civil) (2022)<br>
 <strong>note:</strong> the Civil Guard is a military force with police duties (including coast guard) under both the Ministry of Defense and the Ministry of the Interior; it also responds to the needs of the Ministry of Finance<br>
 
 **Military expenditures**<br>
@@ -724,7 +724,7 @@ approximately 120,000 active duty troops (75,000 Army; 25,000 Navy, including ab
 the inventory of the Spanish military is comprised of domestically-produced and imported Western weapons systems; France, Germany, and the US have been the leading suppliers of military hardware since 2010; Spain's defense industry manufactures land, air, and sea weapons systems and is integrated within the European defense-industrial sector (2021)<br>
 
 **Military service age and obligation**<br>
-18-26 years of age for voluntary military service by a Spanish citizen or legal immigrant, 2-3 year obligation; women allowed to serve in all branches, including combat units; no conscription (abolished 2001), but Spanish Government retains right to mobilize citizens 19-25 years of age in a national emergency (2021)<br>
+18-26 years of age for voluntary military service by a Spanish citizen or legal immigrant, 2-3 year obligation; women allowed to serve in all branches, including combat units; no conscription (abolished 2001), but the Spanish Government retains the right to mobilize citizens 19-25 years of age in a national emergency (2021)<br>
 <strong>note:</strong> as of 2019, women comprised about 13% of the military's full-time personnel<br>
 
 **Military deployments**<br>
@@ -732,7 +732,7 @@ approximately 200 Iraq (NATO/EU training assistance); up to 600 Latvia (NATO); 6
 <strong>note: </strong>in response to Russia’s invasion of Ukraine, some NATO countries, including Spain, have sent additional troops and equipment to the battlegroups deployed in NATO territory in eastern Europe<br>
 
 **Military - note**<br>
-Spain joined NATO in 1982 but refrained from participating in the integrated military structure until 1996<br><br>the Spanish Marine Corps, established in 1537, is the oldest marine corps in the world<br>
+Spain joined NATO in 1982 but refrained from participating in the integrated military structure until 1996<br><br>the Spanish Marine Corps, established in 1537, is the oldest marine corps in the world; the Spanish Army has an infantry regiment, formed in the 13th century, that is considered the oldest still active military unit in the western world <br>
 
 ## Terrorism
 
@@ -746,7 +746,7 @@ Islamic State of Iraq and ash-Sham (ISIS); al-Qa’ida<br>
 <p><em>Spain-Andorra</em>: none identified</p> <p><em>Spain-France</em>: none identified</p> <p><em>Spain-Gibraltar (UK)</em>: in 2002, Gibraltar residents voted overwhelmingly by referendum to reject any "shared sovereignty" arrangement; the Government of Gibraltar insists on equal participation in talks between the UK and Spain; Spain does not recognize British sovereignty beyond the original fortified perimeter of the city and disapproves of UK plans to grant Gibraltar greater autonomy; after voters in the UK chose to leave the EU in a June 2016 referendum, Spain again proposed shared sovereignty of Gibraltar; UK officials rejected Spain’s joint sovereignty proposal</p> <p><em>Spain-Morocco</em>: Morocco protests Spain's control over the coastal enclaves of Ceuta, Melilla, and the islands of Penon de Velez de la Gomera, Penon de Alhucemas, and Islas Chafarinas, and surrounding waters; both countries claim Isla Perejil (Leila Island), which remains unoccupied but was the site of a  military standoff in 2002; Morocco serves as the primary embarkation area for illegal migration into mainland Spain from North Africa</p> <p><em>Spain-Portugal</em>: Portugal does not recognize Spanish sovereignty over the territory of Olivenza based on a difference of interpretation of the 1815 Congress of Vienna and the 1801 Treaty of Badajoz</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 14,823 (Syria) (mid-year 2021); 418,200 (Venezuela) (economic and political crisis; includes Venezuelans who have claimed asylum, are recognized as refugees, or have received alternative legal stay) (2021); 140,391 (Ukraine) (as of 4 September 2022)<br>
+_refugees (country of origin)_: 14,823 (Syria) (mid-year 2021); 418,200 (Venezuela) (economic and political crisis; includes Venezuelans who have claimed asylum, are recognized as refugees, or have received alternative legal stay) (2021); 141,846 (Ukraine) (as of 11 September 2022)<br>
 _stateless persons_: 692 (mid-year 2021)<br>
 <strong>note: </strong>267,184 estimated refugee and migrant arrivals, including Canary Islands (January 2015-September 2022)<br>
 

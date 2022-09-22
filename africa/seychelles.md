@@ -293,7 +293,7 @@ presidential republic<br>
 _name_: Victoria<br>
 _geographic coordinates_: 4 37 S, 55 27 E<br>
 _time difference_: UTC+4 (9 hours ahead of Washington, DC, during Standard Time)<br>
-_etymology_: founded as L'etablissement in 1778 by French colonists, the town was renamed in 1841 by the British after Queen Victoria (1819-1901); "victoria" is the Latin word for "victory"<br>
+_etymology_: founded as L'etablissement in 1778 by French colonists, the town was renamed in 1841 by the British after Queen VICTORIA (1819-1901); "victoria" is the Latin word for "victory"<br>
 
 **Administrative divisions**<br>
 27 administrative districts; Anse aux Pins, Anse Boileau, Anse Etoile, Anse Royale, Au Cap, Baie Lazare, Baie Sainte Anne, Beau Vallon, Bel Air, Bel Ombre, Cascade, Glacis, Grand Anse Mahe, Grand Anse Praslin, Ile Perseverance I, Ile Perseverance II, La Digue, La Riviere Anglaise, Les Mamelles, Mont Buxton, Mont Fleuri, Plaisance, Pointe Larue, Port Glaud, Roche Caiman, Saint Louis, Takamaka<br>
@@ -661,7 +661,7 @@ Seychelles Defense Forces (SDF): Army (includes infantry, special forces, and a 
 approximately 500 personnel (2022)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the SDF's inventory primarily consists of Soviet-era equipment delivered in the 1970s and 1980s; since 2010, the SDF has received limited amounts of more modern equipment (mostly donations of patrol boats and aircraft) from several suppliers led by China and India (2022)<br>
+the SDF's inventory primarily consists of Soviet-era equipment delivered in the 1970s and 1980s; since 2010, the SDF has received limited amounts of more modern equipment, mostly donations of patrol boats and aircraft, from several suppliers led by China and India (2022)<br>
 
 **Military service age and obligation**<br>
 18-28 (18-25 for officers) years of age for voluntary military service for men and women; 6-year initial commitment; no conscription (2022)<br>

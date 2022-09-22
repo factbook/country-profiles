@@ -714,8 +714,8 @@ approximately 25,000 active duty personnel (20,000 Army; 5,000 Air Force) (2022)
 the Austrian military's inventory includes a mix of domestically-produced and imported weapons systems from European countries and the US; the Austrian defense industry produces a range of equipment and partners with other countries (2021)<br>
 
 **Military service age and obligation**<br>
-registration requirement at age 17, the legal minimum age for voluntary military service; 18 is the legal minimum age for compulsory military service (6 months), or optionally, alternative civil/community service (9 months); males 18 to 50 years old in the militia or inactive reserve are subject to compulsory service; in a January 2012 referendum, a majority of Austrians voted in favor of retaining the system of compulsory military service (with the option of alternative/non-military service) instead of switching to a professional army system (2021)<br>
-<strong>note:</strong> as of 2019, women made up about 4% of the military's full-time personnel<br>
+registration requirement at age 17, the legal minimum age for voluntary military service; men above the age of 18 are subject to compulsory military service; women may volunteer; compulsory service is for 6 months, or optionally, alternative civil/community service (Zivildienst) for 9 months (2022)<br>
+<strong>note 1:</strong> as of 2019, women made up about 4% of the military's full-time personnel<br><br><strong>note 2:</strong> in a January 2013 referendum, a majority of Austrians voted in favor of retaining the system of compulsory military service (with the option of alternative/non-military service) instead of switching to a professional army system; approximately 40% of those liable to compulsory service have opted in favor of  alternative civil/community service<br>
 
 **Military deployments**<br>
 170 Bosnia-Herzegovina (EUFOR stabilization force); 300 Kosovo (NATO/KFOR); 200 Lebanon (UNIFIL) (Aug 2022)<br>
@@ -735,7 +735,7 @@ Islamic State of Iraq and ash-Sham (ISIS)<br>
 <p>none identified</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 57,887 (Syria), 41,037 (Afghanistan), 9,661 (Iraq), 8,212 (Somalia), 7,046 (Iran), 7,003 (Russia) (mid-year 2021); 80,534 (Ukraine) (as of 6 September 2022)<br>
+_refugees (country of origin)_: 57,887 (Syria), 41,037 (Afghanistan), 9,661 (Iraq), 8,212 (Somalia), 7,046 (Iran), 7,003 (Russia) (mid-year 2021); 81,261 (Ukraine) (as of 13 September 2022)<br>
 _stateless persons_: 3,229 (mid-year 2021)<br>
 
 **Illicit drugs**<br>

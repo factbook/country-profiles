@@ -729,7 +729,7 @@ approximately 60,000 active troops (30,000 Army; 15,000 Navy; 15,000 Air Force) 
 the Australian military's inventory includes a mix of domestically-produced and imported Western weapons systems; since 2015, the US is the largest supplier of arms; the Australian defense industry produces a variety of land and sea weapons platforms; the defense industry also participates in joint development and production ventures with other Western countries, including the US and Canada (2022)<br>
 
 **Military service age and obligation**<br>
-17 years of age for voluntary military service (with parental consent); no conscription (abolished 1973); women allowed to serve in all roles, including combat arms since 2013 (2022)<br>
+17 years of age for voluntary military service (with parental consent); no conscription (abolished 1973); women allowed to serve in all roles, including combat arms, since 2013 (2022)<br>
 <strong>note:</strong> in 2020-2021, women comprised nearly 20% of the military<br>
 
 **Military deployments**<br>

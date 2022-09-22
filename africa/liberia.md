@@ -318,7 +318,7 @@ presidential republic<br>
 _name_: Monrovia<br>
 _geographic coordinates_: 6 18 N, 10 48 W<br>
 _time difference_: UTC 0 (5 hours ahead of Washington, DC, during Standard Time)<br>
-_etymology_: named after James Monroe (1758-1831), the fifth president of the United States and supporter of the colonization of Liberia by freed slaves; one of two national capitals named for a US president, the other is Washington, D.C.<br>
+_etymology_: named after James MONROE (1758-1831), the fifth president of the United States and supporter of the colonization of Liberia by freed slaves; one of two national capitals named for a US president, the other is Washington, D.C.<br>
 
 **Administrative divisions**<br>
 15 counties; Bomi, Bong, Gbarpolu, Grand Bassa, Grand Cape Mount, Grand Gedeh, Grand Kru, Lofa, Margibi, Maryland, Montserrado, Nimba, River Cess, River Gee, Sinoe<br>

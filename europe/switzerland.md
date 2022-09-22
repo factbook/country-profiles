@@ -713,10 +713,10 @@ Swiss Armed Forces: Land Forces, Swiss Air Force (Schweizer Luftwaffe) (2022)<br
 the Swiss Armed Forces maintain a full-time professional cadre of about 4,000 personnel along with approximately 18-20,000 conscripts brought in annually for 18-23 weeks of training; approximately 120,000 reserve forces (2022)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the Swiss Armed Forces inventory includes a mix of domestically-produced and imported weapons systems; the US has been the leading supplier of military armaments to Switzerland since 2010; the Swiss defense industry produces a range of military land vehicles (2021)<br>
+the military's inventory includes a mix of domestically-produced and imported weapons systems; the US has been the leading supplier of military armaments to Switzerland since 2010; the Swiss defense industry produces a range of military land vehicles (2021)<br>
 
 **Military service age and obligation**<br>
-18-30 years of age for male compulsory military service; 18 years of age for voluntary male and female military service; every Swiss male has to serve at least 245 days in the armed forces; conscripts receive 18 weeks of mandatory training, followed by six 19-day intermittent recalls for training during the next 10 years (2021)<br>
+18-30 years of age for compulsory military service for men; 18 years of age for voluntary military service; women may volunteer; every Swiss male has to serve at least 245 days in the armed forces; conscripts receive 18 weeks of mandatory training, followed by six 19-day intermittent recalls for training during the next 10 years (2022)<br>
 <strong>note: </strong>conscientious objectors can choose 390 days of community service instead of military service<br>
 
 **Military deployments**<br>
@@ -737,7 +737,7 @@ Islamic State of Iraq and ash-Sham (ISIS)<br>
 <p>none identified</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 38,219 (Eritrea), 20,043 (Syria), 14,649 (Afghanistan), 6,069 (Sri Lanka), 6,197 (Turkey) (mid-year 2021); 62,432 (Ukraine) (as of 6 September 2022)<br>
+_refugees (country of origin)_: 38,219 (Eritrea), 20,043 (Syria), 14,649 (Afghanistan), 6,069 (Sri Lanka), 6,197 (Turkey) (mid-year 2021); 61,239 (Ukraine) (as of 13 September 2022)<br>
 _stateless persons_: 684 (mid-year 2021)<br>
 
 **Illicit drugs**<br>

@@ -648,7 +648,7 @@ _major seaport(s)_: Nuku'alofa, Neiafu, Pangai<br>
 ## Military and Security
 
 **Military and security forces**<br>
-His Majesty's Armed Forces Tonga (Tonga Defense Services): Joint Force headquarters, Tonga Royal Guard, Land Force (Royal Tongan Marines), Tonga Navy, Training Wing, Air Wing, and Support Unit (2022)<br>
+His Majesty's Armed Forces Tonga (aka Tonga Defense Services): Joint Force headquarters, Tonga Royal Guard, Land Force (Royal Tongan Marines), Tonga Navy, Training Wing, Air Wing, and Support Unit (2022)<br>
 
 **Military expenditures**<br>
 2.1% of GDP (2020 est.) (approximately $10 million)<br>
@@ -661,7 +661,7 @@ His Majesty's Armed Forces Tonga (Tonga Defense Services): Joint Force headquart
 approximately 650 personnel (2022)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the Tonga military's inventory includes mostly light weapons and equipment from European (primarily the UK) countries and the US, as well as naval patrol vessels from Australia; Australia has been the only supplier of military systems since 2010 (2021)<br>
+the Tonga military's inventory includes mostly light weapons and equipment from Australia, European (primarily the UK) countries, and the US (2022)<br>
 
 **Military service age and obligation**<br>
 men and women, 18-25, may volunteer; no conscription (2021)<br>

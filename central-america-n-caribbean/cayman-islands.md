@@ -252,7 +252,7 @@ overseas territory of the UK<br>
 _name_: George Town (on Grand Cayman)<br>
 _geographic coordinates_: 19 18 N, 81 23 W<br>
 _time difference_: UTC-5 (same time as Washington, DC, during Standard Time)<br>
-_etymology_: named after English King George III (1738-1820)<br>
+_etymology_: named after English King GEORGE III (1738-1820)<br>
 
 **Administrative divisions**<br>
 6 districts; Bodden Town, Cayman Brac and Little Cayman, East End, George Town, North Side, West Bay<br>

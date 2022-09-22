@@ -46,7 +46,7 @@ desert; cooler in eastern mountains<br>
 flat, barren coastal plain merging into rolling sand dunes of vast desert; mountains in east<br>
 
 **Elevation**<br>
-_highest point_: Jabal Bil 'Ays 1,905 m<br>note - the Factbook map is incorrect; it shows the wrong location of the high elevation<br>
+_highest point_: Jabal Bil 'Ays 1,905 m<br>
 _lowest point_: Persian Gulf 0 m<br>
 _mean elevation_: 149 m<br>
 
@@ -304,7 +304,7 @@ federation of monarchies<br>
 _name_: Abu Dhabi<br>
 _geographic coordinates_: 24 28 N, 54 22 E<br>
 _time difference_: UTC+4 (9 hours ahead of Washington, DC, during Standard Time)<br>
-_etymology_: in Arabic, "abu" means "father" and "dhabi" refers to "gazelle"; the name may derive from an abundance of gazelles that used to live in the area, as well as a folk tale involving the "Father of the Gazelle," Shakhbut bin Dhiyab al Nahyan, whose hunting party tracked a gazelle to a spring on the island where Abu Dhabi was founded<br>
+_etymology_: in Arabic, "abu" means "father" and "dhabi" refers to "gazelle"; the name may derive from an abundance of gazelles that used to live in the area, as well as a folk tale involving the "Father of the Gazelle," Shakhbut BIN DHIYAB AL NAHYAN, whose hunting party tracked a gazelle to a spring on the island where Abu Dhabi was founded<br>
 
 **Administrative divisions**<br>
 7 emirates (imarat, singular - imarah); Abu Zaby (Abu Dhabi), 'Ajman, Al Fujayrah, Ash Shariqah (Sharjah), Dubayy (Dubai), Ra's al Khaymah, Umm al Qaywayn<br>
@@ -689,17 +689,17 @@ United Arab Emirates Armed Forces: Land Forces, Navy Forces, Air Force, Presiden
 approximately 65,000 active personnel (45,000 Land Forces; 3,000 Navy; 5,000 Air Force; 12,000 Presidential Guard) (2022)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the UAE Armed Forces inventory is comprised of wide variety of mostly modern imported equipment; since 2010, the UAE has acquired military equipment from more than 20 countries with France, Russia, and the US as the leading suppliers; in recent years, the UAE has tried to boost its domestic defense industry (2022)<br>
+the military's inventory is comprised of wide variety of mostly modern imported equipment; since 2010, the UAE has acquired military equipment from more than 20 countries with France, Russia, and the US as the leading suppliers; in recent years, the UAE has tried to boost its domestic defense industry (2022)<br>
 
 **Military service age and obligation**<br>
-18-30 years of age for compulsory military service for men (compulsory service initiated in 2014); 17 years of age for male volunteers with parental approval; males can volunteer up to age 40; 24-month general service obligation, 16 months for secondary school graduates; women can volunteer to serve for 9 months regardless of education (2022)<br>
+18-30 years of age for compulsory military service for men (compulsory service initiated in 2014); 17 years of age for volunteers with parental approval; men can volunteer up to age 40; 24-month general service obligation, 16 months for secondary school graduates; women can volunteer to serve for 9 months regardless of education (2022)<br>
 <strong>note:</strong> compulsory service may be completed in the uniformed military, the Ministry of Interior, the State Security Service, or other institutions designated by the military leadership<br>
 
 **Military deployments**<br>
 estimates vary; reportedly a few hundred remain in Yemen; maintains military bases in Eritrea and Somalia (2022)<br>
 
 **Military - note**<br>
-the UAE hosts a multi-service French military base, which includes the French naval command for the Indian Ocean (ALINDIEN); the UAE has a defense cooperation agreement with the US and hosted about 3,500 US troops, mostly air and naval personnel<br><br>in 2015, UAE intervened militarily in Yemen as part of the Saudi-led coalition in support of the Republic of Yemen Government with an estimated 3,500 troops, as well as supporting air and naval forces; UAE withdrew its main military force from Yemen in 2019, but has retained a small military presence while working with proxies in southern Yemen, most notably the Southern Transitional Council (STC)<br><br>the UAE's military traces its origins to the establishment of the Trucial Oman Scouts in 1951, a joint UK-Abu Dhabi organization modeled after Jordan’s Arab Legion, which became the Abu Dhabi Defense Force in 1965; the modern Emirati armed forces were formed in 1976 (2022)<br>
+the UAE hosts a multi-service French military base, which includes the French naval command for the Indian Ocean (ALINDIEN); the UAE has a defense cooperation agreement with the US and hosts about 3,500 US troops, mostly air and naval personnel<br><br>in 2015, UAE intervened militarily in Yemen as part of the Saudi-led coalition in support of the Republic of Yemen Government with an estimated 3,500 troops, as well as supporting air and naval forces; UAE withdrew its main military force from Yemen in 2019, but has retained a small military presence while working with proxies in southern Yemen, most notably the Southern Transitional Council (STC)<br><br>the UAE's military traces its origins to the establishment of the Trucial Oman Scouts in 1951, a joint UK-Abu Dhabi organization modeled after Jordan’s Arab Legion, which became the Abu Dhabi Defense Force in 1965; the modern Emirati armed forces were formed in 1976 (2022)<br>
 
 ## Transnational Issues
 

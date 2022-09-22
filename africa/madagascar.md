@@ -327,7 +327,7 @@ semi-presidential republic<br>
 _name_: Antananarivo<br>
 _geographic coordinates_: 18 55 S, 47 31 E<br>
 _time difference_: UTC+3 (8 hours ahead of Washington, DC, during Standard Time)<br>
-_etymology_: the name, which means "City of the Thousand," was bestowed by 17th century King Adrianjakaking to honor the soldiers assigned to guard the city<br>
+_etymology_: the name, which means "City of the Thousand," was bestowed by 17th century King ADRIANJAKAKING to honor the soldiers assigned to guard the city<br>
 
 **Administrative divisions**<br>
 6 provinces (faritany); Antananarivo, Antsiranana, Fianarantsoa, Mahajanga, Toamasina, Toliara<br>

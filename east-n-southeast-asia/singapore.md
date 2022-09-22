@@ -684,7 +684,7 @@ Singapore Armed Forces (SAF; aka Singapore Defense Force): Singapore Army, Repub
 information varies; approximately 60,000 active duty troops (45,000 Army; 7,000 Navy; 8,000 Air Force) (2022)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the SAF has a diverse and largely modern mix of domestically-produced and imported weapons; since 2010, it has received armaments from about 10 countries with the US as the chief supplier; Singapore has the most developed arms industry in Southeast Asia and is also its largest importer of weapons (2021)<br>
+the SAF has a diverse and largely modern mix of domestically-produced and imported weapons; since 2010, the US has been the chief supplier of arms; Singapore has the most developed arms industry in Southeast Asia and is also its largest importer of weapons (2021)<br>
 
 **Military service age and obligation**<br>
 18-21 years of age for male compulsory military service; 16 1/2 years of age for voluntary enlistment (with parental consent); 2-year conscript service obligation, with a reserve obligation to age 40 (enlisted) or age 50 (officers); women are not conscripted, but they are allowed to volunteer for all services and branches, including combat arms (2021)<br>

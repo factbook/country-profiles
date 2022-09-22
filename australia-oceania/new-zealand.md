@@ -311,7 +311,7 @@ _geographic coordinates_: 41 18 S, 174 47 E<br>
 _time difference_: UTC+12 (17 hours ahead of Washington, DC, during Standard Time)<br>
 _daylight saving time_: +1hr, begins last Sunday in September; ends first Sunday in April<br>
 _time zone note_: New Zealand has two time zones: New Zealand standard time (UTC+12) and Chatham Islands time (45 minutes in advance of New Zealand standard time; UTC+12:45)<br>
-_etymology_: named in 1840 after Arthur Wellesley, the first Duke of Wellington and victorious general at the Battle of Waterloo<br>
+_etymology_: named in 1840 after Arthur WELLESLEY, the first Duke of Wellington and victorious general at the Battle of Waterloo<br>
 
 **Administrative divisions**<br>
 16 regions and 1 territory*; Auckland, Bay of Plenty, Canterbury, Chatham Islands*, Gisborne, Hawke's Bay, Manawatu-Wanganui, Marlborough, Nelson, Northland, Otago, Southland, Taranaki, Tasman, Waikato, Wellington, West Coast<br>

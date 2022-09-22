@@ -313,7 +313,7 @@ _judge selection and term of office_: justices appointed by the governor and con
 _subordinate courts_: Court of Appeals; First Instance Court comprised of superior and municipal courts<br>
 
 **Political parties and leaders**<br>
-Citizens' Victory Movement (Movimiento Victoria Ciudadana) or MVC [Manuel NATAL Alberto]<br>National Democratic Party [Charlie RODRIGUEZ]<br>National Republican Party of Puerto Rico [Jenniffer GONZALEZ]<br>New Progressive Party or PNP [Ricardo ROSSELLO] (pro-US statehood)<br>Popular Democratic Party or PPD [Alejandro GARCIA Padillo] (pro-commonwealth)<br>Project Dignity (Projecto Dignidad) or PD [Cesar VASQUEZ Muniz]<br>Puerto Rican Independence Party or PIP [Ruben BERRIOS Martinez] (pro-independence)<br>
+Citizens' Victory Movement (Movimiento Victoria Ciudadana) or MVC [Manuel NATAL Albelo]<br>Democratic Party of Puerto Rico [Charlie RODRIGUEZ]<br>New Progressive Party or PNP [Pedro PIERLUISI Urrutia] (pro-US statehood)<br>Popular Democratic Party or PPD [Jose Luis DALMAU] (pro-commonwealth)<br>Project Dignity (Projecto Dignidad) or PD [Cesar VASQUEZ Muniz]<br>Puerto Rican Independence Party or PIP [Ruben BERRIOS Martinez] (pro-independence)<br>Republican Party of Puerto Rico [Jenniffer GONZALEZ]<br>
 
 **International organization participation**<br>
 AOSIS (observer), Caricom (observer), Interpol (subbureau), IOC, UNWTO (associate), UPU, WFTU (NGOs)<br>

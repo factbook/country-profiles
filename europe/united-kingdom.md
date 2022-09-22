@@ -723,7 +723,7 @@ approximately 153,000 regular forces (81,000 Army; 34,000 Navy, including about 
 the inventory of the British military is comprised of a mix of domestically-produced and imported Western weapons systems; the US has been the leading supplier of armaments to the UK since 2010; the UK defense industry is capable of producing a wide variety of air, land, and sea weapons systems and is one of the world's top weapons suppliers (2021)<br>
 
 **Military service age and obligation**<br>
-slight variations by service, but generally 16-36 years of age for enlisted (with parental consent under 18) and 18-29 for officers; minimum length of service 4 years; women serve in military services including ground combat roles; conscription abolished in 1963 (2021)<br>
+slight variations by service, but generally 16-36 years of age for enlisted (with parental consent under 18) and 18-29 for officers; minimum length of service 4 years; women serve in military services including combat roles; conscription abolished in 1963 (2021)<br>
 <strong>note:</strong> as of 2019, women made up about 11% of the military's full-time personnel<br>
 
 **Military deployments**<br>

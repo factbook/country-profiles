@@ -341,7 +341,7 @@ presidential republic<br>
 _name_: Lusaka; note - a proposal to build a new capital city in Ngabwe was announced in May 2017<br>
 _geographic coordinates_: 15 25 S, 28 17 E<br>
 _time difference_: UTC+2 (7 hours ahead of Washington, DC, during Standard Time)<br>
-_etymology_: named after a village called Lusaka, located at Manda Hill, near where Zambia's National Assembly building currently stands; the village was named after a headman (chief) Lusakasa<br>
+_etymology_: named after a village called Lusaka, located at Manda Hill, near where Zambia's National Assembly building currently stands; the village was named after a headman (chief) LUSAKASA<br>
 
 **Administrative divisions**<br>
 10 provinces; Central, Copperbelt, Eastern, Luapula, Lusaka, Muchinga, Northern, North-Western, Southern, Western<br>
@@ -732,7 +732,7 @@ approximately 17,000 active troops (15,000 Army; 2,000 Air) (2022)<br>
 the ZDF's inventory is largely comprised of Chinese, Russian, and Soviet-era armaments; since 2010, China is the leading supplier of arms to Zambia (2021)<br>
 
 **Military service age and obligation**<br>
-18-25 years of age for male and female voluntary military service (16 with parental consent); no conscription; 12-year enlistment period (7 years active, 5 in the Reserves) (2021)<br>
+18-25 years of age for voluntary military service for men and women (16 with parental consent); no conscription; 12-year enlistment period (7 years active, 5 in the Reserves) (2021)<br>
 
 **Military deployments**<br>
 930 Central African Republic (MINUSCA) (May 2022)<br>

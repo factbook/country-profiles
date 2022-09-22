@@ -243,7 +243,7 @@ unincorporated organized territory of the US with policy relations between the V
 _name_: Charlotte Amalie<br>
 _geographic coordinates_: 18 21 N, 64 56 W<br>
 _time difference_: UTC-4 (1 hour ahead of Washington, DC, during Standard Time)<br>
-_etymology_: originally called Taphus in Danish - meaning "tap house" or "beer house" because of its many beer halls - the town received a more dignified name in 1691 when it was named Charlotte Amalie in honor of Danish King Christian V&rsquo;s wife, Charlotte Amalie of Hesse-Kassel (1650&ndash;1714)<br>
+_etymology_: originally called Taphus in Danish - meaning "tap house" or "beer house" because of its many beer halls - the town received a more dignified name in 1691 when it was named Charlotte Amalie in honor of Danish King CHRISTIAN V&rsquo;s wife, Charlotte AMALIE of Hesse-Kassel (1650&ndash;1714)<br>
 
 **Administrative divisions**<br>
 none (territory of the US); there are no first-order administrative divisions as defined by the US Government, but there are 3 islands at the second order; Saint Croix, Saint John, Saint Thomas<br>

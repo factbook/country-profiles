@@ -246,7 +246,7 @@ _etymology_: the most plausible name derivation is that the island was designate
 _name_: Willemstad<br>
 _geographic coordinates_: 12 06 N, 68 55 W<br>
 _time difference_: UTC-4 (1 hour ahead of Washington, DC, during Standard Time)<br>
-_etymology_: named after Prince William II of Orange (1626-1650), who served as stadtholder (Dutch head of state) from 1647 to 1650, shortly after the the Dutch captured Curacao from the Spanish in 1634<br>
+_etymology_: named after Prince WILLIAM II of Orange (1626-1650), who served as stadtholder (Dutch head of state) from 1647 to 1650, shortly after the the Dutch captured Curacao from the Spanish in 1634<br>
 
 **Administrative divisions**<br>
 <p>none (part of the Kingdom of the Netherlands)</p><br>

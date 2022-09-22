@@ -702,7 +702,7 @@ _river port(s)_: Belgrade (Danube)<br>
 
 **Military and security forces**<br>
 Serbian Armed Forces (Vojska Srbije, VS): Land Forces (includes Riverine Component, consisting of a naval flotilla on the Danube), Air and Air Defense Forces, Serbian Guard; Police Directorate of the Serbian Ministry of Interior: Gendarmerie (2022)<br>
-<strong>note:</strong> the Serbian Guard is a brigade-sized unit that is directly subordinate to the Serbian Armed Forces Chief of General Staff<br>
+<strong>note:</strong> the Serbian Guard is a brigade-sized unit that is directly subordinate to the Serbian Armed Forces Chief of General Staff; its duties include safeguarding key defense facilities and rendering military honors to top foreign, state, and military officials <br><br>
 
 **Military expenditures**<br>
 1.9% of GDP (2021 est.)<br>
@@ -715,7 +715,7 @@ Serbian Armed Forces (Vojska Srbije, VS): Land Forces (includes Riverine Compone
 information varies; approximately 25,000 active duty troops (15,000 Land Forces; 5,000 Air/Air Defense; 5,000 other); approximately 3,000 Gendarmerie (2022)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the inventory of the Serbian Armed Forces consists of Russian and Soviet-era weapons systems; since 2010, Russia has been the top supplier of military hardware (2021)<br>
+the inventory of the Serbian Armed Forces consists of Russian and Soviet-era weapons systems; since 2010, Russia has been the largest suppliers of arms to Serbia; China has also provided a growing amount of arms (2022)<br>
 
 **Military service age and obligation**<br>
 18 years of age for voluntary military service for men and women; conscription abolished January 2011 (2021)<br>
@@ -733,10 +733,10 @@ Serbia does not aspire to join NATO, but has cooperated with the Alliance since 
 <p><em>Serbia-Bosnia and Herzegovina</em>: Serbia delimited about half of the boundary with Bosnia and Herzegovina, but sections along the Drina River remain in dispute</p> <p><em>Serbia-Bulgaria</em>: none identified</p> <p><em>Serbia-Croatia</em>: Serbia and Croatia dispute their border along the Danube; Serbia claims the border is the median between the current Danube shorelines, with the land to the eastern side of the median belonging to Serbia; Croatia contends that the boundary is demarcated according to historic maps, despite the river having meandered since then</p> <p><em>Serbia-Hungary</em>: none identified</p> <p><em>Serbia-Kosovo</em>: Serbia with several other states protested the US and other states' recognition of Kosovo's declaration of its status as a sovereign and independent state in February 2008; ethnic Serbian municipalities along Kosovo's northern border challenge final status of Kosovo-Serbia boundary; since 1999, NATO-led Kosovo Force peacekeepers under UN Interim Administration Mission in Kosovo (UNMIK) authority have continued to keep the peace within Kosovo between the ethnic Albanian majority and the Serb minority; in October 2021, NATO-led KFOR increased patrols along the border with Serbia to deescalate hostilities caused by a dispute over license plates</p> <p><em>Serbia-Montenegro</em>: the former republic boundary serves as the boundary until a line is formally delimited and demarcated</p> <p><em>Serbia-North Macedonia</em>: none identified</p> <p><em>Serbia-Romania</em>: none identified</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 17,336 (Croatia), 7,997 (Bosnia and Herzegovina) (mid-year 2021); 18,174 (Ukraine) (includes Kosovo; as of 7 September 2022)<br>
+_refugees (country of origin)_: 17,336 (Croatia), 7,997 (Bosnia and Herzegovina) (mid-year 2021); 18,792 (Ukraine) (includes Kosovo; as of 13 September 2022)<br>
 _IDPs_: 196,995 (most are Kosovar Serbs, some are Roma, Ashkalis, and Egyptian (RAE); some RAE IDPs are unregistered) (2021)<br>
 _stateless persons_: 2,113 (includes stateless persons in Kosovo) (mid-year 2021)<br>
-<strong>note:</strong> 864,383 estimated refugee and migrant arrivals (January 2015-July 2022); Serbia is predominantly a transit country and hosts an estimated 5,918 migrants and asylum seekers as of May 2022<br>
+<strong>note:</strong> 868,038 estimated refugee and migrant arrivals (January 2015-August 2022); Serbia is predominantly a transit country and hosts an estimated 5,918 migrants and asylum seekers as of May 2022<br>
 
 **Illicit drugs**<br>
 <p>drug trafficking groups are major players in the procurement and transportation of large quantities of cocaine destined for European markets</p><br>

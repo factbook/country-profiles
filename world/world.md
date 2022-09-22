@@ -475,9 +475,11 @@ _by type_: bulk carrier 12,319, container ship 5,428, general cargo 18,993, oil 
 2.2% of GDP (2019 est.)<br>
 2.2% of GDP (2018 est.)<br>
 2.2% of GDP (2017 est.)<br>
+note: in 2021, the world's largest defense budgets belonged to the US, China, India, the UK, and Russia; total global military expenditures were estimated at more than $2 trillion<br>
 
 **Military and security service personnel strengths**<br>
-estimated 20 million active duty military (2021)<br>
+estimated 20 million active duty military personnel worldwide (2021)<br>
+note: as of 2021, the largest militaries in the world based on personnel numbers belonged to China, India, the US, North Korea, and Russia<br>
 
 **Military equipment inventories and acquisitions**<br>
 from 2010-2020, the US was assessed to be the world's leading arms exporter, followed by Russia; India and Saudi Arabia were the top arms importers for the same period<br>

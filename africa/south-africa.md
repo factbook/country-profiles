@@ -711,7 +711,8 @@ _LNG terminal(s) (import)_: Mossel Bay<br>
 ## Military and Security
 
 **Military and security forces**<br>
-South African National Defense Force (SANDF): South African Army (includes Reserve Force), South African Navy (SAN), South African Air Force (SAAF), South African Military Health Services<br><br>the South African Police Service includes a Special Task Force for counterterrorism, counterinsurgency, and hostage rescue operations (2022)<br>
+South African National Defense Force (SANDF): South African Army (includes Reserve Force), South African Navy (SAN), South African Air Force (SAAF), South African Military Health Services; Ministry of Police: South African Police Service (2022)<br>
+<strong>note:</strong> the South African Police Service includes a Special Task Force for counterterrorism, counterinsurgency, and hostage rescue operations<br>
 
 **Military expenditures**<br>
 0.8% of GDP (2021 est.)<br>
@@ -721,10 +722,10 @@ South African National Defense Force (SANDF): South African Army (includes Reser
 1% of GDP (2017) (approximately $5.04 billion)<br>
 
 **Military and security service personnel strengths**<br>
-approximately 75,000 personnel (40,000 Army; 7,000 Navy; 10,000 Air Force; 8,000 Military Health Service; 10,000 other, including administrative, logistics, military police); 180,000 South African Police Service (2022)<br>
+approximately 75,000 active duty personnel (40,000 Army; 7,000 Navy; 10,000 Air Force; 8,000 Military Health Service; 10,000 other, including administrative, logistics, military police); 180,000 South African Police Service (2022)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the SANDF's inventory consists of a mix of domestically-produced and foreign-supplied equipment; South Africa's domestic defense industry produced most of the Army's major weapons systems (some were jointly-produced with foreign companies), while the Air Force and Navy inventories include a mix of European-, Israeli-, and US-origin weapons systems; since 2010, Sweden is the largest supplier of weapons to the SANDF (2021)<br>
+the SANDF's inventory consists of a mix of domestically-produced and foreign-supplied equipment; South Africa's domestic defense industry produced most of the Army's major weapons systems (some were jointly-produced with foreign companies), while the Air Force and Navy inventories include a mix of European-, Israeli-, and US-origin weapons systems; since 2010, Sweden has been the largest supplier of weapons to the SANDF (2021)<br>
 
 **Military service age and obligation**<br>
 18-26 years of age for voluntary military service; women are eligible to serve in noncombat roles; 2-year service obligation (2021)<br>
@@ -734,7 +735,7 @@ the SANDF's inventory consists of a mix of domestically-produced and foreign-sup
 1,150 Democratic Republic of the Congo (MONUSCO); up to 1,500 Mozambique (part of a Southern African Development Community force to help quell an insurgency) (2022)<br>
 
 **Military - note**<br>
-the SANDF was created in 1994 to replace the South African Defense Force (SADF); the SANDF was opened to all South Africans who met military requirements, while the SADF was a mostly white force (only whites were subject to conscription) with non-whites only allowed to join in a voluntary capacity; the SANDF also absorbed members of the guerrilla and militia forces of the various anti-apartheid opposition groups, including the African National Congress, the Pan Africanist Congress, and the Inkatha Freedom Party, as well as the security forces of the formerly independent Bantustan homelands; the SANDF is one of Africa&rsquo;s most capable militaries; it participated regularly in African and UN peacekeeping missions and had the ability to independently deploy throughout Africa; over the past decade, however, its operational readiness and modernization programs have been hampered by funding shortfalls (2022)<br>
+the SANDF was created in 1994 to replace the South African Defense Force (SADF); the SANDF was opened to all South Africans who met military requirements, while the SADF was a mostly white force (only whites were subject to conscription) with non-whites only allowed to join in a voluntary capacity; the SANDF also absorbed members of the guerrilla and militia forces of the various anti-apartheid opposition groups, including the African National Congress, the Pan Africanist Congress, and the Inkatha Freedom Party, as well as the security forces of the formerly independent Bantustan homelands; the SANDF is one of Africa&rsquo;s most capable militaries; over the past decade, however, its operational readiness and modernization programs have been hampered by funding shortfalls; it participates regularly in African and UN peacekeeping missions and has the ability to independently deploy throughout Africa (2022)<br>
 
 ## Terrorism
 

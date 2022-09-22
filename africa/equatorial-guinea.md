@@ -292,7 +292,7 @@ presidential republic<br>
 _name_: Malabo; note - a new capital of Ciudad de la Paz (formerly referred to as Oyala) is being built on the mainland near Djibloho; Malabo is on the island of Bioko<br>
 _geographic coordinates_: 3 45 N, 8 47 E<br>
 _time difference_: UTC+1 (6 hours ahead of Washington, DC, during Standard Time)<br>
-_etymology_: named after Malabo Lopelo Melaka (1837&ndash;1937), the last king of the Bubi, the ethnic group indigenous to the island of Bioko; the name of the new capital, Ciudad de la Paz, translates to "City of Peace" in Spanish<br>
+_etymology_: named after King MALABO (Malabo Lopelo Melaka) (1837&ndash;1937), the last king of the Bubi, the ethnic group indigenous to the island of Bioko; the name of the new capital, Ciudad de la Paz, translates to "City of Peace" in Spanish<br>
 
 **Administrative divisions**<br>
 8 provinces (provincias, singular - provincia); Annobon, Bioko Norte, Bioko Sur, Centro Sur, Djibloho, Kie-Ntem, Litoral, Wele-Nzas<br>

@@ -376,7 +376,7 @@ _residency requirement for naturalization_: 5 years<br>
 
 **Executive branch**<br>
 _chief of state_: President Macky SALL (since 2 April 2012)<br>
-_head of government_: 0n 11 December 2021, the National Assembly approved a constitutional amendment re-establishing the position of Prime Minister which SALL eliminated after his re-election in 2019; the new Prime Minister will be appointed in early 2022.<br>
+_head of government_: Prime Minister Amadou BA (since 17 September 2022)<br><br>
 _cabinet_: Council of Ministers appointed by the president<br>
 _elections/appointments_: president directly elected by absolute majority popular vote in 2 rounds if needed for a single renewable 5-year term; election last held on 24 February 2019 (next to be held in February 2024)<br>
 _election results_: Macky SALL elected president in first round; percent of vote - Macky SALL (APR) 58.3%, Idrissa SECK (Rewmi) 20.5%, Ousmane SONKO (PASTEF) 15.7%, other 5.5% (2019)<br>
@@ -716,7 +716,7 @@ Senegalese Armed Forces (les Forces Armées Sénégalaises, FAS): Army, Senegale
 
 **Military expenditures**<br>
 1.7% of GDP (2021 est.)<br>
-1.5% of GDP (2020 est.)<br>
+1.5% of GDP (2020)<br>
 1.5% of GDP (2019 est.) (approximately $490 million)<br>
 1.6% of GDP (2018) (approximately $490 million)<br>
 1.5% of GDP (2017) (approximately $430 million)<br>
@@ -725,7 +725,7 @@ Senegalese Armed Forces (les Forces Armées Sénégalaises, FAS): Army, Senegale
 approximately 19,000 active personnel (12,000 Army; 1,000 Navy/Coast Guard; 1,000 Air Force; 5,000 National Gendarmerie) (2022)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the FAS inventory includes mostly older or second-hand equipment from a variety of countries, including France, South Africa, and Russia/former Soviet Union; in recent years, the FAS has undertaken a modernization program; since 2010, it has received newer equipment from nearly 15 countries, with France as the leading supplier (2022)<br>
+the FAS inventory includes mostly older or second-hand equipment from a variety of countries, including France, South Africa, and Russia/former Soviet Union; in recent years, the FAS has undertaken a modernization program; since 2010, it has received small amounts of newer equipment from more than 10 countries, with France as the leading supplier (2022)<br>
 
 **Military service age and obligation**<br>
 18 years of age for voluntary military service for men and women; 20 years of age for selective conscript service; 2-year service obligation; women have been accepted into military service since 2008 (2022)<br>

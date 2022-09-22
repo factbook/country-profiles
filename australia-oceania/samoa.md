@@ -645,7 +645,7 @@ _major seaport(s)_: Apia<br>
 no regular military forces; Samoa Police Force (Ministry of Police, Prisons, and Correction Services) (2022)<br>
 
 **Military - note**<br>
-informal defense ties exist with NZ, which is required to consider any Samoan request for assistance under the 1962 Treaty of Friendship<br>
+informal defense ties exist with NZ, which is required to consider any Samoan request for assistance under the 1962 Treaty of Friendship <p>in 2012, the US and Samoa signed a mutual law enforcement agreement which allowed Samoan maritime officials to utilize US Coast Guard and Navy vessels to provide maritime policing in Samoan waters; the US Coast Guard regularly patrols Samoa’s waters</p><br>
 
 ## Transnational Issues
 

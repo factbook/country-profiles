@@ -342,14 +342,14 @@ _residency requirement for naturalization_: 5 years<br>
 
 **Executive branch**<br>
 _chief of state_: King CARL XVI GUSTAF (since 15 September 1973); Heir Apparent Princess VICTORIA Ingrid Alice Desiree (daughter of the monarch, born 14 July 1977)<br>
-_head of government_: Prime Minister Magdalena ANDERSSON (since 30 November 2021); Deputy Prime Minister Morgan JOHANSSON (since 10 September 2019)<br>
+_head of government_: Prime Minister Magdalena ANDERSSON (since 30 November 2021); resigned on 15 September 2022 but will remain in caretaker status until a new government is formed; Deputy Prime Minister Morgan JOHANSSON (since 10 September 2019)<br>
 _cabinet_: Cabinet appointed by the prime minister<br>
 _elections/appointments_: the monarchy is hereditary; following legislative elections, the leader of the majority party or majority coalition usually becomes the prime minister<br>
 
 **Legislative branch**<br>
 _description_: unicameral Parliament or Riksdag (349 seats; 310 members directly elected in multi-seat constituencies by open party-list proportional representation vote and 39 members in "at-large" seats directly elected by open party-list proportional representation vote; members serve 4-year terms)<br>
-_elections_: last held on 9 September 2018 (next to be held on 11 September 2022)<br>
-_election results_: percent of vote by party - SAP 28.3%, M 19.8%, SD 17.5%, C 8.6%, V 8%, KD 6.3%, L 5.5%, MP 4.4%, other 1.6%; seats by party - SAP 100, M 70, SD 62, C 31, V 28, KD 22, L 20, MP 16; composition as of mid-2022 - men 188, women 161, percent of women 46%<br>
+_elections_: last held on 11 September 2022<br>
+_election results_: percent of vote by party - SAP 30.3%, M 19.1%, SD 20.5%, C 6.7%, V 6.7%, KD 5.3%, L 4.6%, MP 5.1%, other 1.7%; seats by party - SAP 107, M 68, SD 73, C 24, V 24, KD 19, L 16, MP 18; composition as of mid-2022 - men 188, women 161, percent of women 46%<br>
 
 **Judicial branch**<br>
 _highest courts_: Supreme Court of Sweden (consists of 16 justices, including the court chairman); Supreme Administrative Court (consists of 18 justices, including the court president)<br>
@@ -357,7 +357,7 @@ _judge selection and term of office_: Supreme Court and Supreme Administrative C
 _subordinate courts_: first instance, appellate, general, and administrative courts; specialized courts that handle cases such as land and environment, immigration, labor, markets, and patents<br>
 
 **Political parties and leaders**<br>
-Center Party (Centerpartiet) or C [Annie LOOF]<br>Christian Democrats (Kristdemokraterna) or KD [Ebba BUSCH]<br>Green Party (Miljopartiet de Grona) or MP [Marta STEVENI and Per BOLUND]<br>Left Party (Vansterpartiet) or V [Nooshi DADGOSTAR]<br>Liberal Party (Liberalerna) or L [Johan PEHRSON]<br>Moderate Party (Moderaterna) or M [Ulf KRISTERSSON]<br>Sweden Democrats (Sverigedemokraterna) or SD [Jimmie AKESSON]<br>Swedish Social Democratic Party (Socialdemokraterna) or SAP [Magdalena ANDERSSON]<br>
+Center Party (Centerpartiet) or C [Annie LOOF resigned on 15 September 2022]<br>Christian Democrats (Kristdemokraterna) or KD [Ebba BUSCH]<br>Green Party (Miljopartiet de Grona) or MP [Marta STEVENI and Per BOLUND]<br>Left Party (Vansterpartiet) or V [Nooshi DADGOSTAR]<br>Liberal Party (Liberalerna) or L [Johan PEHRSON]<br>Moderate Party (Moderaterna) or M [Ulf KRISTERSSON]<br>Sweden Democrats (Sverigedemokraterna) or SD [Jimmie AKESSON]<br>Swedish Social Democratic Party (Socialdemokraterna) or SAP [Magdalena ANDERSSON]<br>
 
 **International organization participation**<br>
 ADB (nonregional member), AfDB (nonregional member), Arctic Council, Australia Group, BIS, CBSS, CD, CE, CERN, EAPC, EBRD, ECB, EIB, EITI (implementing country), EMU, ESA, EU, FAO, FATF, G-9, G-10, IADB, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IEA, IFAD, IFC, IFRCS, IGAD (partners), IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, MINUSMA, MONUSCO, NC, NEA, NIB, NSG, OAS (observer), OECD, OPCW, OSCE, Paris Club, PCA, PFP, Schengen Convention, UN, UNCTAD, UNESCO, UNHCR, UNIDO, UNMISS, UNMOGIP, UNRWA, UN Security Council (temporary), UNSOM, UNTSO, UPU, Wassenaar Arrangement, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO, ZC<br>
@@ -709,7 +709,7 @@ the inventory of the SAF is comprised of domestically-produced and imported West
 approximately 200 Mali (MINUSMA) (2022)<br>
 
 **Military - note**<br>
-<p>Sweden maintains a policy of military non-alignment, but cooperates with NATO and regional countries; it joined NATO’s Partnership for Peace program in 1994 and has contributed to NATO-led missions, including those in Afghanistan, Iraq, and Kosovo; Sweden applied for NATO membership in May 2022</p> <p>the Swedish military cooperates closely with the military forces of other Nordic countries through the Nordic Defense Cooperation (NORDEFCO), which consists of Denmark, Finland, Iceland, Norway, and Sweden; areas of cooperation include armaments, education, human resources, training and exercises, and operations; NORDEFCO was established in 2009<strong> </strong></p> <p>Sweden is a signatory of the EU’s Common Security and Defense Policy and contributes to CSDP missions and operations</p><br>
+Sweden maintains a policy of military non-alignment, but cooperates with NATO and regional countries; it joined NATO’s Partnership for Peace program in 1994 and has contributed to NATO-led missions, including those in Afghanistan, Iraq, and Kosovo; Sweden applied for NATO membership in May 2022<br><br>the Swedish military cooperates closely with the military forces of other Nordic countries through the Nordic Defense Cooperation (NORDEFCO), which consists of Denmark, Finland, Iceland, Norway, and Sweden; areas of cooperation include armaments, education, human resources, training and exercises, and operations; NORDEFCO was established in 2009<br><br>Sweden is a signatory of the EU’s Common Security and Defense Policy and contributes to CSDP missions and operations (2022)<br>
 
 ## Terrorism
 
@@ -723,6 +723,6 @@ Islamic State of Iraq and ash-Sham (ISIS)<br>
 <p>none identified</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 114,995 (Syria), 28,744 (Afghanistan), 26,911 (Eritrea), 11,574 (Somalia), 11,153 (Iraq), 7,516 (Iran) (2020); 46,468 (Ukraine) (as of 6 September 2022)<br>
+_refugees (country of origin)_: 114,995 (Syria), 28,744 (Afghanistan), 26,911 (Eritrea), 11,574 (Somalia), 11,153 (Iraq), 7,516 (Iran) (2020); 46,938 (Ukraine) (as of 13 September 2022)<br>
 _stateless persons_: 50,098 (mid-year 2021); note - the majority of stateless people are from the Middle East and Somalia<br>
 

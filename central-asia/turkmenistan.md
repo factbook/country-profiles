@@ -97,7 +97,7 @@ Turkmen 85%, Uzbek 5%, Russian 4%, other 6% (2003 est.)<br>
 
 **Languages**<br>
 Turkmen (official) 72%, Russian 12%, Uzbek 9%, other 7%<br>
-_major-language sample(s)_: <br>Dünýä Facebooky, esasy maglumat üçin aýrylmaz bir çeşme dir. (Turkmen)<br><br>The World Factbook, the indispensable source for basic information.<br>
+_major-language sample(s)_: <br>Dünýä Faktlar Kitaby – esasy maglumatlaryň wajyp çeşmesidir (Turkmen)<br><br>The World Factbook, the indispensable source for basic information.<br>
 
 **Religions**<br>
 Muslim 93%, Christian 6.4%, Buddhist &lt;1%, folk religion &lt;1%, Jewish &lt;1%, other &lt;1%, unspecified &lt;1% (2020 est.)<br>
@@ -678,7 +678,7 @@ _major seaport(s)_: Caspian Sea - Turkmenbasy<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Armed Forces of Turkmenistan: Land Forces, Navy, Air and Air Defense Forces; Federal Border Guard Service; Ministry of Internal Affairs: Internal Troops (2022)<br>
+Armed Forces of Turkmenistan: Land Forces, Navy, Air and Air Defense Forces; Federal Border Guard Service; Ministry of Internal Affairs: Internal Troops, national police (2022)<br>
 
 **Military expenditures**<br>
 1.9% of GDP (2019 est.) (approximately $1.54 billion)<br>

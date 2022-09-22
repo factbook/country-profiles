@@ -650,7 +650,7 @@ _major seaport(s)_: Assab, Massawa<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Eritrean Defense Forces: Eritrean Ground Forces, Eritrean Navy, Eritrean Air Force (includes Air Defense Force); Hizbawi Serawit (aka People's Army or People's Militia) (2022)<br>
+Eritrean Defense Forces (EDF): Eritrean Ground Forces, Eritrean Navy, Eritrean Air Force (includes Air Defense Force); Hizbawi Serawit (aka People's Army or People's Militia) (2022)<br>
 
 **Military expenditures**<br>
 10% of GDP (2019 est.) (approximately $640 million)<br>
@@ -663,14 +663,14 @@ Eritrean Defense Forces: Eritrean Ground Forces, Eritrean Navy, Eritrean Air For
 limited available information; estimated 150,000-200,000 personnel, including about 2,000 in the naval and air forces (2022)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the Eritrean Defense Forces inventory is comprised primarily of older Russian and Soviet-era systems; Eritrea was under a UN arms embargo from 2009 to 2018; from the 1990s to 2008, Russia was the leading supplier of arms to Eritrea, followed by Belarus; in 2019, Eritrea expressed interest in purchasing Russian arms, including missile boats, helicopters, and small arms (2021)<br>
+the EDF inventory is comprised primarily of older Russian and Soviet-era systems; Eritrea was under a UN arms embargo from 2009 to 2018; from the 1990s to 2008, Russia was the leading supplier of arms to Eritrea; in 2019, Eritrea expressed interest in purchasing Russian arms, including missile boats, helicopters, and small arms (2021)<br>
 
 **Military service age and obligation**<br>
-18-40 years of age for male and female voluntary and compulsory military service (18-27 for female conscription); 18-month conscript service obligation, which includes 4-6 months of military training and one‐year of military or other national service (military service is most common); note - in practice, military service is often extended indefinitely (2021)<br>
+Eritrea mandates military service for all citizens between the ages of 18 and 40 (18-27 for women if conscripted); 18-month conscript service obligation, which includes 4-6 months of military training and one‐year of military or other national service (military service is most common); note - in practice, military service is often extended indefinitely (2021)<br>
 <strong>note:</strong> as of 2020, women were estimated to make up as much as 30% of the Eritrean military<br>
 
 **Military - note**<br>
-in 2020-2021, the EDF assisted the Ethiopian Government in its war with the Tigray regional government, providing ground forces and combat aircraft; during the fighting, the EDF was accused of committing human rights abuses against civilians (2022)<br>
+since the country's independence in 1991, the Eritrean military has participated in numerous conflicts, including the Hanish Island Crisis with Yemen (1995), the First Congo War (1996-1997), the Second Sudanese Civil War (1996-1998), the Eritrea-Ethiopia War (1998-2000), the Djiboutian-Eritrean border conflict (2008), and the Tigray War (2020-2022) (2022)<br>
 
 ## Transnational Issues
 

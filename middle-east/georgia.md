@@ -708,7 +708,7 @@ as of 2022, up to 10,000 Russian troops continued to occupy the breakaway region
 <p>Russia's military support and subsequent recognition of Abkhazia and South Ossetia independence in 2008 continue to sour relations with Georgia</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 26,232 (Ukraine) (as of 6 September 2022)<br>
+_refugees (country of origin)_: 26,031 (Ukraine) (as of 13 September 2022)<br>
 _IDPs_: 305,000 (displaced in the 1990s as a result of armed conflict in the breakaway republics of Abkhazia and South Ossetia; displaced in 2008 by fighting between Georgia and Russia over South Ossetia) (2021)<br>
 _stateless persons_: 534 (mid-year 2021)<br>
 

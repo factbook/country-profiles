@@ -243,7 +243,7 @@ _name_: Saint Helier<br>
 _geographic coordinates_: 49 11 N, 2 06 W<br>
 _time difference_: UTC 0 (5 hours ahead of Washington, DC, during Standard Time)<br>
 _daylight saving time_: +1hr, begins last Sunday in March; ends last Sunday in October<br>
-_etymology_: named after Saint Helier, the patron saint of Jersey, who was reputedly martyred on the island in A.D. 555<br>
+_etymology_: named after Saint HELIER, the patron saint of Jersey, who was reputedly martyred on the island in A.D. 555<br>
 
 **Administrative divisions**<br>
 none (British crown dependency); there are no first-order administrative divisions as defined by the US Government, but there are 12 parishes; Grouville, Saint Brelade, Saint Clement, Saint Helier, Saint John, Saint Lawrence, Saint Martin, Saint Mary, Saint Ouen, Saint Peter, Saint Saviour, Trinity<br>

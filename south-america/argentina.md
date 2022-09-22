@@ -737,7 +737,7 @@ approximately 82,000 active duty personnel (50,000 Army; 18,000 Navy, including 
 the inventory of Argentina's armed forces is a mix of domestically-produced and mostly older imported weapons, largely from Europe and the US; since 2010, France and the US are the leading suppliers of equipment; Argentina has an indigenous defense industry that produces air, land, and sea systems (2022)<br>
 
 **Military service age and obligation**<br>
-18-24 years of age for voluntary military service (men and women); conscription suspended in 1995; citizens can still be drafted in times of crisis, national emergency, or war, or if the Defense Ministry is unable to fill all vacancies to keep the military functional (2022)<br>
+18-24 years of age for voluntary military service for men and women; conscription suspended in 1995; citizens can still be drafted in times of crisis, national emergency, or war, or if the Defense Ministry is unable to fill all vacancies to keep the military functional (2022)<br>
 note - as of 2021, women comprised over 21% of the active duty military<br>
 
 **Military deployments**<br>

@@ -690,7 +690,7 @@ Armed Forces of the Republic of Tajikistan: Land Forces, Mobile Forces, Air and 
 approximately 9,500 active duty troops (8,000 Land and Mobile Forces; 1,500 Air and Air Defense Forces) (2022)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the Tajikistan Armed Forces' inventory is comprised of older Russian and Soviet-era equipment; it has received limited quantities of weapons systems since 2010, most of which was second-hand material from Russia (2021)<br>
+the military's inventory is comprised of older Russian and Soviet-era equipment; it has received limited quantities of weapons systems since 2010, most of which was second-hand material from Russia (2021)<br>
 
 **Military service age and obligation**<br>
 18-27 years of age for compulsory or voluntary military service for men; 24-month conscript service obligation; in August 2021, the Tajik Government began allowing men to pay a fee in order to avoid conscription (2022)<br>

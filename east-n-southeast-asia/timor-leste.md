@@ -661,7 +661,7 @@ _major seaport(s)_: Dili<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Timor-Leste Defense Force (Falintil-Forcas de Defesa de Timor-L'este, Falintil (F-FDTL)): Joint Headquarters with Land, Air, Naval, Service Support, and Education/Training components; National Police (Pol&iacute;cia Nacional de Timor-Leste, PNTL) (2022)<br>
+Timor-Leste Defense Force (Falintil-Forcas de Defesa de Timor-L'este, Falintil (F-FDTL)): Joint Headquarters with Land, Air, Naval, Service Support, and Education/Training components; Ministry of Interior: National Police (Pol&iacute;cia Nacional de Timor-Leste, PNTL) (2022)<br>
 
 **Military expenditures**<br>
 1.8% of GDP (2021 est.)<br>
@@ -674,7 +674,7 @@ Timor-Leste Defense Force (Falintil-Forcas de Defesa de Timor-L'este, Falintil (
 approximately 2,000 personnel (2022)<br>
 
 **Military equipment inventories and acquisitions**<br>
-Timor-Leste Defense Force's limited inventory consists of equipment donated by other countries; the only recorded deliveries of major arms to Timor-Leste since 2010 were naval patrol craft from China and South Korea (2021)<br>
+the military is lightly armed and has a limited inventory consisting of equipment donated by other countries; since 2010 it has received naval patrol craft from China and South Korea (2022)<br>
 
 **Military service age and obligation**<br>
 18 years of age for voluntary military service; 18-month service obligation (2021)<br>

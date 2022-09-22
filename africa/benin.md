@@ -45,7 +45,7 @@ tropical; hot, humid in south; semiarid in north<br>
 mostly flat to undulating plain; some hills and low mountains<br>
 
 **Elevation**<br>
-_highest point_: unnamed elevation located 2.5 km southeast of the town of Kotopounga 675 m<br>note - the Factbook map is incorrect; it shows the wrong high elevation<br>
+_highest point_: unnamed elevation 675 m; located 2.5 km southeast of the town of Kotopounga<br>
 _lowest point_: Atlantic Ocean 0 m<br>
 _mean elevation_: 273 m<br>
 
@@ -712,7 +712,7 @@ approximately 7,000 active duty BDF troops; estimated 5,000 Republican Police (2
 the FAB is equipped with a small mix of mostly older French and Soviet-era equipment (2021)<br>
 
 **Military service age and obligation**<br>
-18-35 years of age for selective compulsory and voluntary military service; a higher education diploma is required; both sexes are eligible for military service; conscript tour of duty - 18 months (2021)<br>
+18-35 years of age for voluntary and selective compulsory military service; a higher education diploma is required; both sexes are eligible for military service; conscript service is 18 months (2021)<br>
 
 **Military deployments**<br>
 260 (plus about 160 police) Mali (MINUSMA) (May 2022)<br>

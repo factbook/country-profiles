@@ -352,7 +352,7 @@ _name_: Kinshasa<br>
 _geographic coordinates_: 4 19 S, 15 18 E<br>
 _time difference_: UTC+1 (6 hours ahead of Washington, DC, during Standard Time)<br>
 _time zone note_: the DRC has two time zones<br>
-_etymology_: founded as a trading post in 1881 and named Leopoldville in honor of King Leopold II of the Belgians, who controlled the Congo Free State, the vast central African territory that became the Democratic Republic of the Congo in 1960; in 1966, Leopoldville was renamed Kinshasa, after a village of that name that once stood near the site<br>
+_etymology_: founded as a trading post in 1881 and named Leopoldville in honor of King LEOPOLD II of the Belgians, who controlled the Congo Free State, the vast central African territory that became the Democratic Republic of the Congo in 1960; in 1966, Leopoldville was renamed Kinshasa, after a village of that name that once stood near the site<br>
 
 **Administrative divisions**<br>
 26 provinces (provinces, singular - province); Bas-Uele (Lower Uele), Equateur, Haut-Katanga (Upper Katanga), Haut-Lomami (Upper Lomami), Haut-Uele (Upper Uele), Ituri, Kasai, Kasai-Central, Kasai-Oriental (East Kasai), Kinshasa, Kongo Central, Kwango, Kwilu, Lomami, Lualaba, Mai-Ndombe, Maniema, Mongala, Nord-Kivu (North Kivu), Nord-Ubangi (North Ubangi), Sankuru, Sud-Kivu (South Kivu), Sud-Ubangi (South Ubangi), Tanganyika, Tshopo, Tshuapa<br>
@@ -759,7 +759,7 @@ Islamic State of Iraq and ash-Sham – Democratic Republic of the Congo (ISIS-DR
 <p>heads of the Great Lakes states and UN pledged in 2004 to abate tribal, rebel, and militia fighting in the region, including northeast Congo, where the UN Organization Mission in the Democratic Republic of the Congo (MONUC), organized in 1999, maintains over 16,500 uniformed peacekeepers<br><br><em>Democratic Republic of Congo(DRC)-Republic of the Congo: </em>the location of the boundary in the broad Congo River is indefinite except in the Pool Malebo/Stanley Pool area<br><br><em>Democratic Republic of Congo(DRC)-Uganda:</em> Uganda rejects the DRC claim to Margherita Peak in the Rwenzori mountains and considers it a boundary divide; there is tension and violence on Lake Albert over prospective oil reserves at the mouth of the Semliki River<br><br><em>Democratic Republic of Congo(DRC)-Zambia: </em>boundary commission continues discussions over Congolese-administered triangle of land on the right bank of the Lunkinda River claimed by Zambia near the DRC village of Pweto<br><br><em>Democratic Republic of Congo(DRC)-Angola: </em>DRC accuses Angola of shifting monuments</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 210,067 (Rwanda), 206,967 (Central African Republic), 56,303 (South Sudan) (refugees and asylum seekers), 40,798 (Burundi) (2022)<br>
+_refugees (country of origin)_: 210,067 (Rwanda), 211,953 (Central African Republic), 55,285 (South Sudan) (refugees and asylum seekers), 40,808 (Burundi) (2022)<br>
 _IDPs_: 5.53 million (fighting between government forces and rebels since mid-1990s; conflict in Kasai region since 2016) (2022)<br>
 
 **Trafficking in persons**<br>

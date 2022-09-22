@@ -313,7 +313,7 @@ absolute monarchy<br>
 _name_: Mbabane (administrative capital); Lobamba (royal and legislative capital)<br>
 _geographic coordinates_: 26 19 S, 31 08 E<br>
 _time difference_: UTC+2 (7 hours ahead of Washington, DC, during Standard Time)<br>
-_etymology_: named after a Swati chief, Mbabane Kunene, who lived in the area at the onset of British settlement<br>
+_etymology_: named after a Swati chief, Mbabane KUNENE, who lived in the area at the onset of British settlement<br>
 
 **Administrative divisions**<br>
 4 regions; Hhohho, Lubombo, Manzini, Shiselweni<br>

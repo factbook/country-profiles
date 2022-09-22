@@ -713,13 +713,13 @@ People's Army of Vietnam (PAVN; aka Vietnam People's Army, VPA): Ground Forces, 
 2.3% of GDP (2017 est.) (approximately $9.85 billion)<br>
 
 **Military and security service personnel strengths**<br>
-information is limited and estimates vary; approximately 470,000 active duty troops (400,000 ground; 40,000 naval; 30,000 air); estimated 40,000 Border Defense Force and Coast Guard (2022)<br>
+information is limited and varied; estimated 470,000 active duty troops (400,000 ground; 40,000 naval; 30,000 air); estimated 40,000 Border Defense Force and Coast Guard (2022)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the PAVN is armed largely with weapons and equipment from Russia and the former Soviet Union; since 2010, Russia has remained the main supplier of newer PAVN military equipment, although in recent years Vietnam has purchased arms from more than a dozen other countries including Belarus, Israel, South Korea, Ukraine, and the US; Vietnam has a limited defense industry (2021)<br>
 
 **Military service age and obligation**<br>
-18-27 years of age for compulsory and voluntary military service (females eligible for conscription, but in practice only males are drafted); conscription typically takes place twice annually and service obligation is 2 years (Army, Air Defense) and 3 years (Navy and Air Force) (2021)<br>
+18-27 years of age for compulsory and voluntary military service for men and women (in practice only men are drafted); conscription typically takes place twice annually and service obligation is 2 years (Army, Air Defense) and 3 years (Navy and Air Force) (2021)<br>
 
 **Military - note**<br>
 the PAVN is the military arm of the ruling Communist Party of Vietnam (CPV) and responsible to the Central Military Commission (CMC), the highest party organ on military policy; the CMC is led by the CPV General Secretary <br><br>Vietnam has a security policy of non-alignment, but noted in 2019 that it would consider developing appropriate defense and security relations with other countries depending on circumstances (2022)<br>

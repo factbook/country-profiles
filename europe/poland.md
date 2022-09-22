@@ -377,7 +377,7 @@ _judge selection and term of office_: president of the Supreme Court nominated b
 _subordinate courts_: administrative courts; military courts; local, regional and appellate courts subdivided into military, civil, criminal, labor, and family courts<br>
 
 **Political parties and leaders**<br>
-Civic Coalition or KO [Grzegorz SCHETYNA and Małgorzata KIDAWA-BLONSKA]<br>Confederation Liberty and Independence or KORWiN [Janusz KORWIN-MIKKE, Robert WINNICKI, Grzegorz BRAUN]<br>Law and Justice or PiS [Jaroslaw KACZYNSKI]<br>Polish Coalition or PSL [Wladyslaw KOSINIAK-KAMYSZ]<br>The Left [Wlodzimierz CZARZASTY]<br>
+Civic Coalition or KO [collective leadership]<br>Confederation Liberty and Independence or KORWiN [Janusz KORWIN-MIKKE, Robert WINNICKI, Grzegorz BRAUN]<br>Law and Justice or PiS [Jaroslaw KACZYNSKI]<br>Polish Coalition or PSL [Wladyslaw KOSINIAK-KAMYSZ]<br>The Left [Wlodzimierz CZARZASTY]<br>
 
 **International organization participation**<br>
 Arctic Council (observer), Australia Group, BIS, BSEC (observer), CBSS, CD, CE, CEI, CERN, EAPC, EBRD, ECB, EIB, ESA, EU, FAO, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IEA, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, MONUSCO, NATO, NEA, NSG, OAS (observer), OECD, OIF (observer), OPCW, OSCE, PCA, Schengen Convention, UN, UNCTAD, UNESCO, UNHCR, UNIDO, UNMIL, UNMISS, UNOCI, UN Security Council (temporary), UNWTO, UPU, Wassenaar Arrangement, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO, ZC<br>
@@ -752,7 +752,7 @@ Islamic State of Iraq and ash-Sham (ISIS)<br>
 <p><em>Poland-Belarus-Ukraine</em>: as a member state that forms part of the EU's external border, Poland has implemented the strict Schengen border rules to restrict illegal immigration and trade along its eastern borders with Belarus and Ukraine</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 9,870 (Russia) (2019); 1,365,810 (Ukraine) (as of 6 September 2022)<br>
+_refugees (country of origin)_: 9,870 (Russia) (2019); 1,379,470 (Ukraine) (as of 13 September 2022)<br>
 _stateless persons_: 1,389 (mid-year 2021)<br>
 
 **Illicit drugs**<br>

@@ -616,7 +616,7 @@ approximately 200 active military personnel (2022)<br>
 the ABDF's equipment inventory is limited to small arms, light weapons, and soft-skin vehicles; the Coast Guard maintains ex-US patrol vessels and some smaller boats (2022)<br>
 
 **Military service age and obligation**<br>
-18-23 years of age for voluntary military service for both males and females; no conscription (2022)<br>
+18-23 years of age for voluntary military service for both men and women; no conscription (2022)<br>
 
 **Military - note**<br>
 has been a member of the Caribbean Regional Security System (RSS) since its creation in 1982; RSS signatories (Barbados, Dominica, Grenada, Saint Kitts, Saint Lucia, and Saint Vincent and the Grenadines) agreed to prepare contingency plans and assist one another, on request, in national emergencies, prevention of smuggling, search and rescue, immigration control, fishery protection, customs and excise control, maritime policing duties, protection of off-shore installations, pollution control, national and other disasters, and threats to national security (2022)<br>

@@ -333,7 +333,7 @@ presidential republic<br>
 _name_: La Paz (administrative capital); Sucre (constitutional [legislative and judicial] capital)<br>
 _geographic coordinates_: 16 30 S, 68 09 W<br>
 _time difference_: UTC-4 (1 hour ahead of Washington, DC, during Standard Time)<br>
-_etymology_: La Paz is a shortening of the original name of the city, Nuestra Senora de La Paz (Our Lady of Peace); Sucre is named after Antonio Jose de Sucre (1795-1830), military hero in the independence struggle from Spain and the second president of Bolivia<br>
+_etymology_: La Paz is a shortening of the original name of the city, Nuestra Senora de La Paz (Our Lady of Peace); Sucre is named after Antonio Jose de SUCRE (1795-1830), military hero in the independence struggle from Spain and the second president of Bolivia<br>
 <strong>note:</strong> at approximately 3,630 m above sea level, La Paz's elevation makes it the highest capital city in the world<br>
 
 **Administrative divisions**<br>

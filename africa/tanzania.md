@@ -347,7 +347,7 @@ presidential republic<br>
 _name_: Dar es Salaam (de facto administrative capital), Dodoma (national capital); note - Dodoma, designated the national capital in 1996, serves as the meeting place for the National Assembly and is thus the legislative capital; Dar es Salaam (the original national capital) remains the de facto capital, the country's largest city and commercial center, and the site of the executive branch offices and diplomatic representation<br>
 _geographic coordinates_: 6 48 S, 39 17 E<br>
 _time difference_: UTC+3 (8 hours ahead of Washington, DC, during Standard Time)<br>
-_etymology_: Dar es Salaam was the name given by Majid bin Said, the first sultan of Zanzibar, to the new city he founded on the Indian Ocean coast; the Arabic name is commonly translated as "abode/home of peace"; Dodoma, in the native Gogo language, means "it has sunk"; supposedly, one day during the rainy season, an elephant drowned in the area; the villagers in that place were so struck by what had occurred, that ever since the locale has been referred to as the place where "it (the elephant) sunk"<br>
+_etymology_: Dar es Salaam was the name given by Majid BIN SAID, the first sultan of Zanzibar, to the new city he founded on the Indian Ocean coast; the Arabic name is commonly translated as "abode/home of peace"; Dodoma, in the native Gogo language, means "it has sunk"; supposedly, one day during the rainy season, an elephant drowned in the area; the villagers in that place were so struck by what had occurred, that ever since the locale has been referred to as the place where "it (the elephant) sunk"<br>
 
 **Administrative divisions**<br>
 31 regions; Arusha, Dar es Salaam, Dodoma, Geita, Iringa, Kagera, Kaskazini Pemba (Pemba North), Kaskazini Unguja (Zanzibar North), Katavi, Kigoma, Kilimanjaro, Kusini Pemba (Pemba South), Kusini Unguja (Zanzibar Central/South), Lindi, Manyara, Mara, Mbeya, Mjini Magharibi (Zanzibar Urban/West), Morogoro, Mtwara, Mwanza, Njombe, Pwani (Coast), Rukwa, Ruvuma, Shinyanga, Simiyu, Singida, Songwe, Tabora, Tanga<br>
@@ -718,8 +718,8 @@ _major seaport(s)_: Dar es Salaam, Zanzibar<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Tanzania People's Defense Forces (TPDF or Jeshi la Wananchi la Tanzania, JWTZ): Land Forces, Naval Forces, Air Force, National Building Army (Jeshi la Kujenga Taifa, JKT), People's Militia (Reserves); Ministry of Home Affairs: Tanzania Police force (includes paramilitary Police Field Force) (2022)<br>
-<strong>note 1:</strong> the National Building Army is a paramilitary organization under the Defense Forces that provides 6 months of military and vocational training to individuals as part of their 2 years of public service; after completion of training, some graduates join the regular Defense Forces while the remainder become part of the People's (or Citizen's) Militia<br><br><strong>note 2:</strong> the Police Field Force (aka Field Force Unit) is a special police division with the responsibility for controlling unlawful demonstrations and riots<br>
+Tanzania People's Defense Forces (TPDF or Jeshi la Wananchi la Tanzania, JWTZ): Land Forces, Naval Forces, Air Force, National Building Army (Jeshi la Kujenga Taifa, JKT), People's Militia (Reserves); Ministry of Home Affairs: Tanzania Police Force (2022)<br>
+<strong>note 1:</strong> the National Building Army is a paramilitary organization under the Defense Forces that provides 6 months of military and vocational training to individuals as part of their 2 years of public service; after completion of training, some graduates join the regular Defense Forces while the remainder become part of the People's (or Citizen's) Militia<br><br><strong>note 2:</strong> the Tanzania Police Force includes the Police Field Force (aka Field Force Unit), a special police division with the responsibility for controlling unlawful demonstrations and riots<br>
 
 **Military expenditures**<br>
 1.1% of GDP (2021 est.)<br>
@@ -732,7 +732,7 @@ Tanzania People's Defense Forces (TPDF or Jeshi la Wananchi la Tanzania, JWTZ): 
 approximately 25,000 active duty personnel (21,000 Land Forces; 1,000 Naval Forces; 3,000 Air Force) (2022)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the TPDF inventory includes mostly Soviet-era and Chinese equipment; since 2010, China has been the leading supplier of arms to the TPDF (2022)<br>
+the TPDF's inventory includes mostly Soviet-era and Chinese equipment; since 2010, China has been the leading supplier of arms to the TPDF (2022)<br>
 
 **Military service age and obligation**<br>
 18-25 years of age for voluntary military service; 6-year commitment (2-year contracts afterwards); selective conscription for 2 years of public service (2022)<br>
@@ -741,7 +741,7 @@ the TPDF inventory includes mostly Soviet-era and Chinese equipment; since 2010,
 450 Central African Republic (MINUSCA); 850 Democratic Republic of the Congo (MONUSCO); 125 Lebanon (UNIFIL) (May 2022)<br>
 
 **Military - note**<br>
-in 2021-2022, Tanzania deployed additional troops to its border with Mozambique and contributed troops to the Southern African Development Community (SADC) intervention force that was assisting the Mozambique Government's fight against Islamic militants<br>
+in 2021-2022, Tanzania contributed troops to the Southern African Development Community (SADC) intervention force that was assisting the Mozambique Government's fight against Islamic militants<br>
 
 **Maritime threats**<br>
 <p>the International Maritime Bureau reports that shipping in territorial and offshore waters in the Indian Ocean remain at risk for piracy and armed robbery against ships</p><br>
@@ -758,7 +758,7 @@ Islamic State of Iraq and ash-Sham - Mozambique (ISIS-M)<br>
 <p><em>Tanzania-Burundi</em>: none identified</p> <p><em>Tanzania-Democratic Republic of the Congo</em>: none identified</p> <p><em>Tanzania-Kenya</em>: none identified</p> <p><em>Tanzania-Malawi</em>: dispute with Malawi over the boundary in Lake Nyasa (Lake Malawi) and the meandering Songwe River; Malawi contends that the entire lake up to the Tanzanian shoreline is its territory, while Tanzania claims the border is in the center of the lake; the conflict was reignited in 2012 when Malawi awarded a license to a British company for oil exploration in the lake</p> <p><em>Tanzania-Mozambique</em>: none identified</p> <p><em>Tanzania-Rwanda</em>: none identified</p> <p><em>Tanzania-Uganda</em>: none identified</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 126,971 (Burundi), 80,743 (Democratic Republic of the Congo) (2022)<br>
+_refugees (country of origin)_: 126,497 (Burundi), 80,743 (Democratic Republic of the Congo) (2022)<br>
 
 **Trafficking in persons**<br>
 _current situation_: Tanzania is a source, transit, and destination country for men, women, and children subjected to forced labor and sex trafficking; the exploitation of young girls in domestic servitude continues to be Tanzania&rsquo;s largest human trafficking problem; Tanzanian boys are subject to forced labor mainly on farms but also in mines, in the commercial service sector, in the sex trade, and possibly on small fishing boats; internal trafficking is more prevalent than transnational trafficking and is usually facilitated by friends, family members, or intermediaries offering education or legitimate job opportunities; trafficking victims from Burundi, Kenya, Bangladesh, Nepal, Yemen, and India are forced to work in Tanzania&rsquo;s agricultural, mining, and domestic service sectors or may be sex trafficked; traffickers transported Tanzanian children with physical disabilities to Kenya to work as beggars or in massage parlors; girls forced to donate a kidney to pay for supposed transportation fees to the United Arab Emirates; traffickers subject Tanzanians to forced labor, including in domestic service, and sex trafficking in other African countries, the Middle East, Europe, Asia, and the United States<br>

@@ -651,7 +651,7 @@ the TTDF's ground force inventory includes only light weapons, while the Coast G
 <strong>note:</strong> as of 2017, women comprised about 14% of the active duty military<br>
 
 **Military - note**<br>
-the primary responsibilities for the TTDF are conducting border and maritime security, providing disaster relief, and countering narcotics trafficking in support of law enforcement (2022)<br>
+the TTDF's primary responsibilities are conducting border and maritime security, providing disaster relief, and countering narcotics trafficking in support of law enforcement (2022)<br>
 
 ## Transnational Issues
 

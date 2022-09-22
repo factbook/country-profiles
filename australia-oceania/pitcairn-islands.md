@@ -219,7 +219,7 @@ overseas territory of the UK<br>
 _name_: Adamstown<br>
 _geographic coordinates_: 25 04 S, 130 05 W<br>
 _time difference_: UTC-9 (4 hours behind Washington, DC, during Standard Time)<br>
-_etymology_: named after John Adams (1767&ndash;1829), the last survivor of the Bounty mutineers who settled on Pitcairn Island in January 1790<br>
+_etymology_: named after John ADAMS (1767&ndash;1829), the last survivor of the Bounty mutineers who settled on Pitcairn Island in January 1790<br>
 
 **Administrative divisions**<br>
 none (overseas territory of the UK)<br>

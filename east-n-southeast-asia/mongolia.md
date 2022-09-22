@@ -320,7 +320,7 @@ _geographic coordinates_: 47 55 N, 106 55 E<br>
 _time difference_: UTC+8 (13 hours ahead of Washington, DC, during Standard Time)<br>
 _daylight saving time_: +1hr, begins last Saturday in March; ends last Saturday in September<br>
 _time zone note_: Mongolia has two time zones - Ulaanbaatar Time (8 hours in advance of UTC) and Hovd Time (7 hours in advance of UTC)<br>
-_etymology_: the name means "red hero" in Mongolian and honors national hero Damdin Sukhbaatar, leader of the partisan army that with Soviet Red Army help, liberated Mongolia from Chinese occupation in the early 1920s<br>
+_etymology_: the name means "red hero" in Mongolian and honors national hero Damdin SUKHBAATAR, leader of the partisan army that with Soviet Red Army help, liberated Mongolia from Chinese occupation in the early 1920s<br>
 
 **Administrative divisions**<br>
 21 provinces (aymguud, singular - aymag) and 1 municipality* (singular - hot); Arhangay, Bayanhongor, Bayan-Olgiy, Bulgan, Darhan-Uul, Dornod, Dornogovi, Dundgovi, Dzavhan (Zavkhan), Govi-Altay, Govisumber, Hentiy, Hovd, Hovsgol, Omnogovi, Orhon, Ovorhangay, Selenge, Suhbaatar, Tov, Ulaanbaatar*, Uvs<br>
