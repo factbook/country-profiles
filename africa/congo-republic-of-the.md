@@ -723,7 +723,7 @@ approximately 12,000 active duty troops (8,000 Army; 800 Navy; 1,000 Air Force; 
 the FAC is armed with mostly aging Russian and Soviet-era weapons, with a smaller mix of French and South African equipment; the leading supplier of arms to the FAC since 2010 is South Africa (2021)<br>
 
 **Military service age and obligation**<br>
-18 years of age for voluntary military service; women may serve in the armed forces (2021)<br>
+18 years of age for voluntary military service for men and women; conscription ended in 1969 (2021)<br>
 
 **Military - note**<br>
 <p>as of 2022, the FAC had limited capabilities due to obsolescent and poorly maintained equipment and low levels of training; its primary focus was internal security; since its creation in 1961, the FAC has had a turbulent history; it has been sidelined by some national leaders in favor of personal militias, endured an internal rebellion (1996), and clashed with various rebel groups and political or ethnic militias (1993-1996, 2002-2005, 2017); during the 1997-1999 civil war, the military generally split along ethnic lines, with most northern officers supporting eventual winner SASSOU-Nguesso, and most southerners backing the rebels; others joined ethnic-based factions loyal to regional warlords; forces backing SASSOU-Nguesso were supported by Angolan troops and received some French assistance; the FAC also has undergone at least three reorganizations that included the incorporation of former rebel combatants and various ethnic and political militias; in recent years, France has provided some advice and training, and a military cooperation agreement was signed with Russia in 2019</p><br>
@@ -734,6 +734,6 @@ the FAC is armed with mostly aging Russian and Soviet-era weapons, with a smalle
 <p><em>Republic of the Congo-Democratic Republic of Congo(DRC): </em>the location of the boundary in the broad Congo River is indefinite except in the Pool Malebo/Stanley Pool area<br><br><em>Republic of the Congo-Angola:</em> (Kabinda Exclave) None identified</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 29,168 (Central African Republic), 22,138 (Democratic Republic of the Congo) (refugees and asylum seekers) (2022)<br>
+_refugees (country of origin)_: 29,168 (Central African Republic), 22,150 (Democratic Republic of the Congo) (refugees and asylum seekers) (2022)<br>
 _IDPs_: 159,830 (multiple civil wars since 1992) (2022)<br>
 

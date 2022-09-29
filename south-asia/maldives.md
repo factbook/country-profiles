@@ -338,7 +338,7 @@ _chief of state_: President Ibrahim "Ibu" Mohamed SOLIH (since 17 November 2018)
 _head of government_: President Ibrahim "Ibu" Mohamed SOLIH (since 17 November 2018); Vice President Faisal NASEEM (since 17 November 2018)<br>
 _cabinet_: Cabinet of Ministers appointed by the president, approved by Parliament<br>
 _elections/appointments_: president directly elected by absolute majority popular vote in 2 rounds if needed for a 5-year term (eligible for a second term); election last held on 23 September 2018 (next to be held in 2023)<br>
-_election results_: Ibrahim Mohamed SOLIH elected president (in 1 round); Ibrahim Mohamed SOLIH (MDP) 58.3%, Abdulla YAMEEN Abdul Gayoom (PPM) 41.7%<br>
+_election results_: <em>2018:</em> Ibrahim Mohamed SOLIH elected president (in the first round); Ibrahim Mohamed SOLIH (MDP) 58.3%, Abdulla YAMEEN Abdul Gayoom (PPM) 41.7%<br>
 
 **Legislative branch**<br>
 _description_: unicameral Parliament or People's Majlis (87 seats - includes 2 seats added by the Elections Commission in late 2018; members directly elected in single-seat constituencies by simple majority vote to serve 5-year terms)<br>
@@ -351,7 +351,7 @@ _judge selection and term of office_: Supreme Court judges appointed by the pres
 _subordinate courts_: High Court; Criminal, Civil, Family, Juvenile, and Drug Courts; Magistrate Courts (on each of the inhabited islands)<br>
 
 **Political parties and leaders**<br>
-<p>Adhaalath (Justice) Party or AP [Sheikh Imran ABDULLA]<br>Dhivehi Rayyithunge Party or DRP [Abdulla JABIR]<br>Maldives Development Alliance or MDA [Ahmed Shiyam MOHAMED]<br>Maldivian Democratic Party or MDP [Mohamed NASHEED]<br>Maldives Labor and Social Democratic Party or MLSDP [Ahmed SHIHAM]<br>Maldives Third Way Democrats or MTD [Ahmed ADEEB]<br>Maumoon/Maldives Reform Movement or MRM [Ahmed Faris MAUMOON]<br>National Democratic Congress [Yousuf Maaniu] (formed in 2020)<br>People's National Congress or PNC [Abdul Raheem ABDULLA] (formed in early 2019)<br>Progressive Party of Maldives or PPM [Abdulla YAMEEN]<br>Republican (Jumhooree) Party or JP [Qasim IBRAHIM]</p> (2020)<br>
+<p>Adhaalath (Justice) Party or AP [Sheikh Imran ABDULLA]<br>Dhivehi Rayyithunge Party or DRP [Abdulla JABIR]<br>Maldives Development Alliance or MDA [Ahmed Shiyam MOHAMED]<br>Maldivian Democratic Party or MDP [Mohamed NASHEED]<br>Maldives Labor and Social Democratic Party or MLSDP [Ahmed SHIHAM]<br>Maldives Third Way Democrats or MTD [Ahmed ADEEB]<br>Maumoon/Maldives Reform Movement or MRM [Ahmed Faris MAUMOON]<br>National Democratic Congress [Yousuf Maaniu]<br>People's National Congress or PNC [Abdul Raheem ABDULLA]<br>Progressive Party of Maldives or PPM [Abdulla YAMEEN]<br>Republican (Jumhooree) Party or JP [Qasim IBRAHIM]</p> (2020)<br>
 
 **International organization participation**<br>
 ADB, AOSIS, C, CP, FAO, G-77, IBRD, ICAO, ICC (NGOs), ICCt, IDA, IDB, IFAD, IFC, IFRCS, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ITU, MIGA, NAM, OIC, OPCW, SAARC, SACEP, UN, UNCTAD, UNESCO, UNIDO, UNWTO, UPU, WCO, WHO, WIPO, WMO, WTO<br>

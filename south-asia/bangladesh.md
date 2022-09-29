@@ -372,7 +372,7 @@ _chief of state_: President Abdul HAMID (since 24 April 2013); note - Abdul HAMI
 _head of government_: Prime Minister Sheikh HASINA Wazed (since 6 January 2009)<br>
 _cabinet_: Cabinet selected by the prime minister, appointed by the president<br>
 _elections/appointments_: president indirectly elected by the National Parliament for a 5-year term (eligible for a second term); election last held on 7 February 2018 (next to be held by 2023); the president appoints as prime minister the majority party leader in the National Parliament<br>
-_election results_: President Abdul HAMID (AL) reelected by the National Parliament unopposed for a second term; Sheikh HASINA reappointed prime minister as leader of the majority AL party following parliamentary elections in 2018<br>
+_election results_: <em>2018:</em> President Abdul HAMID (AL) reelected by the National Parliament unopposed for a second term; Sheikh HASINA reappointed prime minister as leader of the majority AL party following parliamentary elections in 2018<br>
 
 **Legislative branch**<br>
 _description_: unicameral House of the Nation or Jatiya Sangsad (350 seats; 300 members in single-seat territorial constituencies directly elected by simple majority vote; 50 members - reserved for women only - indirectly elected by the elected members by proportional representation vote using single transferable vote; all members serve 5-year terms)<br>
@@ -385,7 +385,7 @@ _judge selection and term of office_: chief justice and justices appointed by th
 _subordinate courts_: civil courts include: Assistant Judge's Court; Joint District Judge's Court; Additional District Judge's Court; District Judge's Court; criminal courts include: Court of Sessions; Court of Metropolitan Sessions; Metropolitan Magistrate Courts; Magistrate Court; special courts/tribunals<br>
 
 **Political parties and leaders**<br>
-Awami League or AL [Sheikh HASINA]<br>Bangladesh Jamaat-i-Islami or JIB [Shafiqur RAHMAN]<br>Bangladesh Nationalist Front or BNF [S. M. Abul Kalam AZAD]<br>Bangladesh Nationalist Party or BNP [Tarique RAHMAN, acting chairperson; Khaleda ZIA]<br>Bangladesh Tariqat Federation or BTF [Syed Nozibul Bashar MAIZBHANDARI]<br>Jatiya Party or JP (Ershad faction) [Rowshan ERSHAD]<br>Jatiya Party or JP (Manju faction) [Anwar Hossain MANJU]<br>Liberal Democratic Party or LDP [Oli AHMED]<br>National Socialist Party or JSD [KHALEQUZZAMAN]<br>Workers Party or WP [Rashed Khan MENON]<br>
+Awami League or AL [Sheikh HASINA]<br>Bangladesh Jamaat-i-Islami or JIB [Shafiqur RAHMAN]<br>Bangladesh Nationalist Front or BNF [S. M. Abul Kalam AZAD]<br>Bangladesh Nationalist Party or BNP [Tarique RAHMAN, acting chairperson; Khaleda ZIA]<br>Bangladesh Tariqat Federation or BTF [Syed Nozibul Bashar MAIZBHANDARI]<br>Jatiya Party or JP (Ershad faction) [Rowshan ERSHAD]<br>Jatiya Party or JP (Manju faction) [Anwar Hossain MANJU]<br>Liberal Democratic Party or LDP [Oli AHMED]<br>National Socialist Party (Jatiya Samajtantrik Dal) or JSD [Hasanul Haque INU]<br>Workers Party or WP [Rashed Khan MENON]<br>
 
 **International organization participation**<br>
 ADB, ARF, BIMSTEC, C, CD, CICA (observer), CP, D-8, FAO, G-77, IAEA, IBRD, ICAO, ICC (national committees), ICRM, IDA, IDB, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, MINURSO, MINUSMA, MONUSCO, NAM, OIC, OPCW, PCA, SAARC, SACEP, UN, UNAMID, UNCTAD, UNESCO, UNHCR, UNIDO, UNISFA, UNIFIL, UNMIL, UNMISS, UNOCI, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>

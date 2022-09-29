@@ -356,7 +356,7 @@ _chief of state_: Chairperson, Presidential Council Rashad Muhammad al-ALIMI, Dr
 _head of government_: Chairperson, Presidential Council Rashad Muhammad al-ALIMI, Dr. (since 19 April 2022); Vice Chairperson, Presidential Council Sultan al-ARADA (since 19 April 2022); Vice Chairperson, Presidential Council Faraj Salmin al- BAHSANI, Brig. Gen. (since 19 April 2022); Vice Chairperson, Presidential Council Abdullah Al-Alimi BA WAZIR (since 19 April 2022); Vice Chairperson, Presidential Council Uthman Hussain Faid al-MUJALI (since 19 April 2022); Vice Chairperson, Presidential Council TARIQ Muhammad Abdallah Salih, Brig. Gen. (since 19 April 2022); Vice Chairperson, Presidential Council 'Abd-al-Rahman ABU ZARA'A al-Muharrami al-Yafai, Brig. Gen. (since 19 April 2022); Vice Chairperson, Presidential Council Aydarus Qasim al-ZUBAYDI, Maj. Gen. (since 19 April 2022)<br>
 _cabinet_: NA<br>
 _elections/appointments_: formerly, the president was directly elected by absolute majority popular vote in 2 rounds if needed for a 7-year term (eligible for a second term); election last held on 21 February 2012 (next election NA); note - a special election was held on 21 February 2012 to remove Ali Abdallah SALIH under the terms of a Gulf Cooperation Council-mediated deal during the political crisis of 2011; vice president appointed by the president; prime minister appointed by the president<br>
-_election results_: in a special election held on 21 February 2012, Abd Rabuh Mansur HADI (GPC) was elected as a consensus president<br>
+_election results_: <em>2012:</em> in a special election held on 21 February 2012, Abd Rabuh Mansur HADI (GPC) was elected as a consensus president<br>
 <strong>note:</strong> on 7 April 2022, President Abd Rabuh Mansur HADI announced the dismissal of Vice President ALI MUHSIN al-Ahmar and the formation of a Presidential Council, an eight-member body chaired by former minister Rashad AL-ALIMI; on 19 April 2022, the Council was sworn in before Parliament and began assuming the responsibilities of the president and vice president and carrying out the political, security, and military duties of the government<br>
 
 **Legislative branch**<br>
@@ -370,8 +370,7 @@ _judge selection and term of office_: judges appointed by the Supreme Judicial C
 _subordinate courts_: appeal courts; district or first instance courts; commercial courts<br>
 
 **Political parties and leaders**<br>
-General People’s Congress or GPC (3 factions: pro-Hadi [Abdrabbi Mansur HADI], pro-Houthi [Sadeq Ameen Abu RAS], pro-Saleh [Ahmed SALEH]<br>National Arab Socialist Ba'ath Party [Qassem Salam SAID]<br>Nasserist Unionist People's Organization [Abdulmalik al-MEKHLAFI]<br>Southern Transitional Council or STC [Aidarus al-ZOUBAIDA] <br>Yemeni Reform Grouping or Islah [Muhammed Abdallah al-YADUMI]<br>Yemeni Socialist Party or YSP [Dr. Abd al-Rahman Umar al-SAQQAF]<br>
-(<br>
+General People’s Congress or GPC (3 factions: pro-Hadi [Abdrabbi Mansur HADI], pro-Houthi [Sadeq Ameen Abu RAS], pro-Saleh [Ahmed SALEH]<br>Nasserist Unionist People's Organization [Abdulmalik al-MEKHLAFI]<br>National Arab Socialist Ba'ath Party [Qassem Salam SAID]<br>Southern Transitional Council or STC [Aidarus al-ZOUBAIDA] <br>Yemeni Reform Grouping or Islah [Muhammed Abdallah al-YADUMI]<br>Yemeni Socialist Party or YSP [Dr. Abd al-Rahman Umar al-SAQQAF]<br>
 
 **International organization participation**<br>
 AFESD, AMF, CAEU, CD, EITI (temporarily suspended), FAO, G-77, IAEA, IBRD, ICAO, ICRM, IDA, IDB, IFAD, IFC, IFRCS, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), LAS, MIGA, MINURSO, MINUSMA, MONUSCO, NAM, OAS (observer), OIC, OPCW, UN, UNAMID, UNCTAD, UNESCO, UNHCR, UNIDO, UNISFA, UNMHA, UNMIL, UNMIS, UNOCI, UNVIM, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
@@ -715,6 +714,6 @@ Islamic Revolutionary Guard Corps (IRGC)/Qods Force; Islamic State of Iraq and a
 <p><em>Yemen-Oman</em>: none identified</p> <p><em>Yemen-Saudia Arabia:</em> in 2004, Saudi Arabia reinforced its concrete-filled security barrier along sections of the fully demarcated border with Yemen to stem illegal cross-border activities, including militants and arms; in 2013 and 2015, Saudi Arabia again erected fences<br><br><br></p> <p> </p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 69,785 (Somalia), 18,153 (Ethiopia) (2022)<br>
+_refugees (country of origin)_: 69,785 (Somalia), 18,687 (Ethiopia) (2022)<br>
 _IDPs_: 4,288,739 (conflict in Sa'ada Governorate; clashes between al-Qa'ida in the Arabian Peninsula and government forces) (2022)<br>
 

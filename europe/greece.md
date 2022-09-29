@@ -703,7 +703,7 @@ the inventory of the Hellenic Armed Forces consists of a mix of imported weapons
 <strong>note:</strong> in addition to finalizing an update to the Mutual Defense Cooperation Agreement with the US, Greece also entered into a security agreement with France in 2021 that included the sale of frigates and fighter aircraft to augment its aging weapons systems<br>
 
 **Military service age and obligation**<br>
-19-45 years of age for compulsory military service (men only); 12-month obligation for all services (note - as an exception, the duration of the full military service is 9 instead of 12 months if conscripts, after the initial training, serve the entire remaining time in certain areas of the eastern borders, in Cyprus, or in certain military units); 18 years of age for volunteers; women are eligible for voluntary military service (2021)<br>
+19-45 years of age for compulsory military service for men; 12-month obligation for all services (note - as an exception, the duration of the full military service is 9 instead of 12 months if conscripts, after the initial training, serve the entire remaining time in certain areas of the eastern borders, in Cyprus, or in certain military units); 18 years of age for voluntary military service for men and women (2022)<br>
 <strong>note 1: </strong>up to 50% of the Greek military is comprised of conscripts<br><br><strong>note 2: </strong>as of 2019, women comprised approximately 19% of the military's full-time personnel<br>
 
 **Military deployments**<br>
@@ -724,9 +724,9 @@ Islamic State of Iraq and ash-Sham (ISIS); Revolutionary Struggle; Revolutionary
 <p>Greece and Turkey continue discussions to resolve their complex maritime, air, territorial, and boundary disputes in the Aegean Sea; the mass migration of unemployed Albanians still remains a problem for developed countries, chiefly Greece and Italy</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 38,496 (Syria), 25,188 (Afghanistan), 12,657 (Iraq), 5,002 (West Bank and Gaza) (mid-year 2021); 18,663 (Ukraine) (as of 13 September 2022)<br>
+_refugees (country of origin)_: 38,496 (Syria), 25,188 (Afghanistan), 12,657 (Iraq), 5,002 (West Bank and Gaza) (mid-year 2021); 19,498 (Ukraine) (as of 20 September 2022)<br>
 _stateless persons_: 5,552 (mid-year 2021)<br>
-<strong>note:</strong> 1,223,381 estimated refugee and migrant arrivals (January 2015-September 2022); as of the end of February 2022, Greece hosted an estimated 161,419 refugees and asylum seekers<br>
+<strong>note:</strong> 1,224,091 estimated refugee and migrant arrivals (January 2015-September 2022); as of the end of February 2022, Greece hosted an estimated 161,419 refugees and asylum seekers<br>
 
 **Illicit drugs**<br>
 a gateway to Europe for traffickers smuggling cannabis products and heroin from the Middle East and Southwest Asia to the West and precursor chemicals to the East; some South American cocaine transits or is consumed in Greece; money laundering related to drug trafficking and organized crime<br>

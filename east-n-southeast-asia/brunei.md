@@ -653,10 +653,10 @@ Royal Brunei Armed Forces: Royal Brunei Land Force, Royal Brunei Navy, Royal Bru
 approximately 6,000 total active troops (4,000 Army; 1,000 Navy; 1,000 Air Force) (2022)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the Royal Brunei Armed Forces imports nearly all of its military equipment and weapons systems and has a variety of suppliers, including the US and several European countries (2021)<br>
+the Brunei imports nearly all of its military equipment and weapons systems and has a variety of suppliers, including the US and several European countries (2021)<br>
 
 **Military service age and obligation**<br>
-17 years of age for voluntary military service; non-Malays are ineligible to serve; recruits from the army, navy, and air force all undergo 43-week initial training (2021)<br>
+17 years of age for voluntary military service; non-Malays are ineligible to serve (2022)<br>
 
 **Military - note**<br>
 Brunei has a long-standing defense relationship with the United Kingdom and hosts a British Army garrison, which includes a Gurkha battalion and a jungle warfare school; Brunei also hosts a Singaporean military training base (2022)<br>

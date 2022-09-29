@@ -320,14 +320,15 @@ _etymology_: the name "Kazakh" may derive from the Turkic word "kaz" meaning "to
 presidential republic<br>
 
 **Capital**<br>
-_name_: Nur-Sultan<br>
+_name_: Astana<br>
 _geographic coordinates_: 51 10 N, 71 25 E<br>
 _time difference_: UTC+6 (11 hours ahead of Washington, DC, during Standard Time)<br>
 _time zone note_: Kazakhstan has two time zones<br>
-_etymology_: on 20 March 2019, Kazakhstan changed the name of its capital city from Astana to Nur-Sultan in honor of its long-serving, recently retired president, Nursultan NAZARBAYEV; this was not the first time the city had its name changed; founded in 1830 as Akmoly, it became Akmolinsk in 1832, Tselinograd in 1961, Akmola (Aqmola) in 1992, and Astana in 1998<br>
+_etymology_: the name means "capital city" in Kazakh<br><br>
+<strong>note:</strong> on 17 September 2022, Kazakhstan changed the name of its capital city from Nur-Sultan back to Astana; this was not the first time the city had its name changed; founded in 1830 as Akmoly, it became Akmolinsk in 1832, Tselinograd in 1961, Akmola (Aqmola) in 1992, Astana in 1998, and Nur-Sultan in 2019; the latest name change occurred just three and a half years after the city was renamed to honor a long-serving (28-year) former president, who subsequently fell out of favor<br>
 
 **Administrative divisions**<br>
-17 provinces (oblyslar, singular - oblys) and 4 cities* (qalalar, singular - qala); Abay (Semey), Almaty (Qonaev), Almaty*, Aqmola (Kokshetau), Aqtobe, Atyrau, Batys Qazaqstan [West Kazakhstan] (Oral), Bayqongyr*, Mangghystau (Aqtau), Nur-Sultan*, Pavlodar, Qaraghandy, Qostanay, Qyzylorda, Shyghys Qazaqstan [East Kazakhstan] (Oskemen), Shymkent*, Soltustik Qazaqstan [North Kazakhstan] (Petropavl), Turkistan, Ulytau Zhezqazghan), Zhambyl (Taraz), Zhetisu (Taldyqorghan)<br>
+17 provinces (oblyslar, singular - oblys) and 4 cities* (qalalar, singular - qala); Abay (Semey), Almaty (Qonaev), Almaty*, Aqmola (Kokshetau), Aqtobe, Astana*, Atyrau, Batys Qazaqstan [West Kazakhstan] (Oral), Bayqongyr*, Mangghystau (Aqtau), Pavlodar, Qaraghandy, Qostanay, Qyzylorda, Shyghys Qazaqstan [East Kazakhstan] (Oskemen), Shymkent*, Soltustik Qazaqstan [North Kazakhstan] (Petropavl), Turkistan, Ulytau (Zhezqazghan), Zhambyl (Taraz), Zhetisu (Taldyqorghan)<br>
 <strong>note:</strong> administrative divisions have the same names as their administrative centers (exceptions have the administrative center name following in parentheses); in 1995, the Governments of Kazakhstan and Russia entered into an agreement whereby Russia would lease for a period of 20 years an area of 6,000 sq km enclosing the Baikonur space launch facilities and the city of Bayqongyr (Baikonur, formerly Leninsk); in 2004, a new agreement extended the lease to 2050<br>
 
 **Independence**<br>

@@ -333,7 +333,7 @@ _judge selection and term of office_: chief justice of Eastern Caribbean Supreme
 _subordinate courts_: magistrate's court<br>
 
 **Political parties and leaders**<br>
-Saint Lucia Labor Party or SLP [Philip J. PIERRE]<br>United Workers Party or UWP [Allen CHASTANET]<br>
+Saint Lucia Labor Party or SLP [Philip J. PIERRE]<br>United Workers Party or UWP [Allen M. CHASTANET]<br>
 
 **International organization participation**<br>
 ACP, AOSIS, C, Caricom, CD, CDB, CELAC, FAO, G-77, IBRD, ICAO, ICCt, ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, IMO, Interpol, IOC, ISO, ITU, ITUC (NGOs), MIGA, NAM, OAS, OECS, OIF, OPANAL, OPCW, Petrocaribe, UN, UNCTAD, UNESCO, UNIDO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>

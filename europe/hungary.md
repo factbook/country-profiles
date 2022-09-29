@@ -702,24 +702,24 @@ _river port(s)_: Baja, Csepel (Budapest), Dunaujvaros, Gyor-Gonyu, Mohacs (Danub
 ## Military and Security
 
 **Military and security forces**<br>
-the Hungarian Defense Forces are a unified force (Joint Force Command) with Land Forces, Air Forces, and Logistics components (2022)<br>
+the Hungarian Defense Forces (HDF) are a unified force (Joint Force Command) with Land Forces, Air Forces, and Logistics components (2022)<br>
 
 **Military expenditures**<br>
-1.8% of GDP (2021 est.)<br>
+1.7% of GDP (2022 est.)<br>
+1.8% of GDP (2021)<br>
 1.8% of GDP (2020)<br>
 1.3% of GDP (2019) (approximately $3.02 billion)<br>
 1% of GDP (2018) (approximately $2.4 billion)<br>
-1.2% of GDP (2017) (approximately $2.21 billion)<br>
 
 **Military and security service personnel strengths**<br>
 approximately 21,000 active duty troops (16,000 Army; 5,000 Air Force) (2022)<br>
 <strong>note:</strong> in 2017, Hungary announced plans to increase the number of active soldiers to around 37,000, but did not give a timeline<br>
 
 **Military equipment inventories and acquisitions**<br>
-the inventory of the Hungarian Defense Forces consists largely of Soviet-era weapons, with a smaller mix of more modern European and US equipment; since 2010, Hungary has received limited quantities of equipment from several European countries and the US (2021)<br>
+the military's inventory consists largely of Soviet-era weapons, with a smaller mix of more modern European and US equipment; since 2010, Hungary has received limited quantities of equipment from several European countries and the US (2021)<br>
 
 **Military service age and obligation**<br>
-18-25 years of age for voluntary military service; no conscription (abolished 2005); 6-month service obligation (2021)<br>
+18-25 years of age for voluntary military service; no conscription (abolished 2005); 6-month service obligation (2022)<br>
 <strong>note:</strong> as of 2019, women comprised approximately 20% of Hungary's full-time military personnel<br>
 
 **Military deployments**<br>
@@ -740,9 +740,8 @@ Islamic State of Iraq and ash-Sham (ISIS)<br>
 <p>bilateral government, legal, technical and economic working group negotiations continue in 2006 with Slovakia over Hungary's failure to complete its portion of the Gabcikovo-Nagymaros hydroelectric dam project along the Danube; as a member state that forms part of the EU's external border, Hungary has implemented the strict Schengen border rules</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 29,170 (Ukraine) (as of 13 September 2022)<br>
+_refugees (country of origin)_: 30,000 (Ukraine) (as of 27 September 2022)<br>
 _stateless persons_: 130 (mid-year 2021)<br>
-<strong>note:</strong> 432,744 estimated refugee and migrant arrivals (January 2015-December 2018); Hungary is predominantly a transit country and hosts 137 migrants and asylum seekers as of the end of June 2018; 1,626 migrant arrivals in 2017<br>
 
 **Illicit drugs**<br>
 transshipment point for Southwest Asian heroin and cannabis and for South American cocaine destined for Western Europe; limited producer of precursor chemicals, particularly for amphetamine and methamphetamine; efforts to counter money laundering, related to organized crime and drug trafficking are improving but remain vulnerable; significant consumer of ecstasy<br>

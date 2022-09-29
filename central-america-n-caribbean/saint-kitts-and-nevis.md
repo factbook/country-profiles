@@ -326,7 +326,7 @@ _judge selection and term of office_: chief justice of Eastern Caribbean Supreme
 _subordinate courts_: magistrates' courts<br>
 
 **Political parties and leaders**<br>
-Concerned Citizens Movement or CCM [Mark BRANTLEY]<br>Nevis Reformation Party or NRP [Janice DANIEL-HODGE]<br>People's Action Movement or PAM [Shawn RICHARDS]<br>People's Labour Party or PLP [Dr. Timothy HARRIS]<br>Saint Kitts and Nevis Labor Party or SKNLP [Terrance DREW]<br>
+Concerned Citizens Movement or CCM [Mark BRANTLEY]<br>Nevis Reformation Party or NRP [Dr. Janice DANIEL-HODGE]<br>People's Action Movement or PAM [Shawn K. RICHARDS]<br>People's Labour Party or PLP [Dr. Timothy HARRIS]<br>Saint Kitts and Nevis Labor Party or SKNLP [Dr. Terrance DREW]<br>
 
 **International organization participation**<br>
 ACP, AOSIS, C, Caricom, CDB, CELAC, FAO, G-77, IBRD, ICAO, ICCt, ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, IMO, Interpol, IOC, ITU, MIGA, OAS, OECS, OPANAL, OPCW, Petrocaribe, UN, UNCTAD, UNESCO, UNIDO, UPU, WHO, WIPO, WTO<br>

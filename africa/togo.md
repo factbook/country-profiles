@@ -737,6 +737,9 @@ Jama’at Nusrat al Islam wal Muslimeen (JNIM)<br>
 **Disputes - international**<br>
 <p><em>Togo-Benin</em>: in 2001, Benin claimed Togo moved boundary monuments - joint commission continues to resurvey the boundary; Benin’s and Togo’s Adjrala hydroelectric dam project on the Mona River, proposed in the 1990s, commenced in 2017 with funding from a Chinese bank</p> <p><em>Togo-Burkina Faso</em>: none identified</p> <p><em>Togo-Ghana</em>: none identified</p><br>
 
+**Refugees and internally displaced persons**<br>
+_refugees (country of origin)_: 8,391 (Ghana) (2022)<br>
+
 **Illicit drugs**<br>
 transit hub for Nigerian heroin and cocaine traffickers; money laundering not a significant problem<br>
 

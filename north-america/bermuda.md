@@ -593,7 +593,7 @@ the Royal Bermuda Regiment has about 350 troops (2022)<br>
 the Regiment is equipped with small arms (2021)<br>
 
 **Military service age and obligation**<br>
-females and males who are Commonwealth citizens and 18-45 years of age for voluntary enlistment in the Bermuda Regiment; service is for a minimum period of three years and two months from the date of enlistment; service can be extended only by volunteering or an executive order from the Governor; annual training commitment is about 30 days a year, which includes a two-week camp, weekends, and drill nights (2021)<br>
+men and women who are Commonwealth citizens and 18-45 years of age can volunteer for the Bermuda Regiment; service is for a minimum period of three years and two months from the date of enlistment; service can be extended only by volunteering or an executive order from the Governor; annual training commitment is about 30 days a year, which includes a two-week camp, weekends, and drill nights (2022)<br>
 
 **Military - note**<br>
 defense is the responsibility of the UK<br>

@@ -350,7 +350,7 @@ _chief of state_: President Isaac HERZOG (since 7 July 2021)<br>
 _head of government_: Prime Minister Yair LAPID serving as caretaker (since 1 July 2022); under the terms of the coalition government made a year ago, LAPID became prime minister on 1 July 2022, replacing former Prime Minister Naftali BENNETT<br>
 _cabinet_: Cabinet selected by prime minister and approved by the Knesset<br>
 _elections/appointments_: president indirectly elected by the Knesset for a single 7-year term; election last held on 2 June 2021 (next to be held in June 2028); following legislative elections, the president, in consultation with party leaders, tasks a Knesset member (usually the member of the largest party) with forming a new government<br>
-_election results_: Issac HERZOG elected president; Knesset vote - Issac HERZOG (independent) 87, Miriam PERETZ (independent) 26, invalid/blank 7<br>
+_election results_: <em>2021:</em> Issac HERZOG elected president; Knesset vote - Issac HERZOG (independent) 87, Miriam PERETZ (independent) 26, invalid/blank 7<br>
 
 **Legislative branch**<br>
 _description_: unicameral Knesset (120 seats; members directly elected in a single nationwide constituency by closed-list proportional representation vote, with a 3.25% vote threshold to gain representation; members serve 4-year terms)<br>
@@ -363,7 +363,7 @@ _judge selection and term of office_: judges selected by the 9-member Judicial S
 _subordinate courts_: district and magistrate courts; national and regional labor courts; family and juvenile courts; special and Rabbinical courts<br>
 
 **Political parties and leaders**<br>
-Blue and White [Benny GANTZ]<br>Joint Arab List [Ayman ODEH] (alliance includes Hadash, Ta’al, Balad)<br>Labor Party or HaAvoda [Merav MICHAELI]<br>Likud [Binyamin NETANYAHU]<br>Meretz [Zehava GAL-ON]<br>New Hope [Gideon SA'AR]<br>United Arab List [Mansour ABBAS]<br>Religious Zionist Party [Bezalel SMOTRICH, chairperson]<br>SHAS [Aryeh DERI]<br>United Torah Judaism or UTJ [Moshe GAFNI] (alliance includes Agudat Israel and Degel HaTorah)<br>Yamina [Ayelet SHAKED]<br>Yesh Atid [Yair LAPID]<br>Yisrael Beiteinu [Avigdor LIEBERMAN]<br>
+Blue and White [Benny GANTZ]<br>Joint Arab List [Ayman ODEH] (alliance includes Hadash, Ta’al, Balad)<br>Labor Party or HaAvoda [Merav MICHAELI]<br>Likud [Binyamin NETANYAHU]<br>Meretz [Zehava GAL-ON]<br>New Hope [Gideon SA'AR]<br>Religious Zionist Party [Bezalel SMOTRICH, chairperson]<br>SHAS [Aryeh DERI]<br>United Arab List [Mansour ABBAS]<br>United Torah Judaism or UTJ [Moshe GAFNI] (alliance includes Agudat Israel and Degel HaTorah)<br>Yamina [Ayelet SHAKED]<br>Yesh Atid [Yair LAPID]<br>Yisrael Beiteinu [Avigdor LIEBERMAN]<br>
 
 **International organization participation**<br>
 BIS, BSEC (observer), CE (observer), CERN, CICA, EBRD, FAO, IADB, IAEA, IBRD, ICAO, ICC (national committees), ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, OAS (observer), OECD, OPCW (signatory), OSCE (partner), Pacific Alliance (observer), Paris Club, PCA, SELEC (observer), UN, UNCTAD, UNESCO, UNHCR, UNIDO, UNWTO, UPU, WCO, WHO, WIPO, WMO, WTO<br>

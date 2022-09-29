@@ -765,7 +765,7 @@ Boko Haram; Islamic State of Iraq and ash-Sham – West Africa<br>
 
 **Refugees and internally displaced persons**<br>
 _refugees (country of origin)_: 347,937 (Central African Republic), 135,472 (Nigeria) (2022)<br>
-_IDPs_: 955,540 (2022) (includes far north, northwest, and southwest)<br>
+_IDPs_: 975,786 (2022) (includes far north, northwest, and southwest)<br>
 
 **Trafficking in persons**<br>
 _current situation_: human traffickers exploit domestic and foreign victims in Cameroon and Cameroonians abroad; deteriorating economic and education conditions and diminished police and judicial presence caused by conflict in the Northwest and Southwest has left displaced persons vulnerable to trafficking; parents may be lured by promises of education or a better life for their children in urban areas, and then the children are subject to forced labor and sex trafficking; teenagers and adolescents may be lured to cities with promises of employment and then become victims of forced labor and sex trafficking; children from neighboring countries are forced to work in spare parts shops or cattle grazing by business owners and herders; Cameroonians, often from rural areas, are exploited in forced labor and sex trafficking in the Middle East, Europe, the United States, and African countries<br>

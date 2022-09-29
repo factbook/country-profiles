@@ -772,7 +772,7 @@ Boko Haram; Islamic State of Iraq and ash-Sham – West Africa; Jama’atu Ansar
 <p><em>Nigeria-Benin</em>: none identified</p> <p><em>Nigeria-Cameroon</em>: Joint Border Commission with Cameroon reviewed 2002 ICJ ruling on the entire boundary and bilaterally resolved differences, including June 2006 Greentree Agreement that immediately ceded sovereignty of the Bakassi Peninsula to Cameroon with a phaseout of Nigerian control within two years while resolving patriation issues; demarcation of the Bakassi Peninsula and adjoining border areas should be finalized in 2022; as Lake Chad’s evaporation exposed dry land, only Nigeria and Cameroon have heeded the Lake Chad Commission's admonition to ratify the delimitation treaty which also includes the Chad-Niger and Niger-Nigeria boundaries</p> <p><em>Nigeria-Cameroon-Equatorial Guinea</em>: the ICJ ruled on an equidistance settlement of Cameroon-Equatorial Guinea-Nigeria maritime boundary in the Gulf of Guinea, but imprecisely defined coordinates in the ICJ decision and a sovereignty dispute between Equatorial Guinea and Cameroon over an island at the mouth of the Ntem River all contribute to the delay in implementation</p> <p><em>Nigeria-Niger</em>: none identified</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 79,681 (Cameroon) (2022)<br>
+_refugees (country of origin)_: 83,244 (Cameroon) (2022)<br>
 _IDPs_: 3,030,544 (northeast Nigeria; Boko Haram attacks and counterinsurgency efforts in northern Nigeria; communal violence between Christians and Muslims in the middle belt region, political violence; flooding; forced evictions; cattle rustling; competition for resources) (2022)<br>
 
 **Trafficking in persons**<br>

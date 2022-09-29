@@ -378,7 +378,7 @@ _subordinate courts_: High Court of the Republic; commercial courts including th
 <strong> </strong><br>
 
 **Political parties and leaders**<br>
-Democratic Green Party of Rwanda or DGPR [Frank HABINEZA]<br>Liberal Party or PL [Donatille MUKABALISA]<br>Party for Progress and Concord or PPC [Dr. Alivera MUKABARAMBA]<br>Party Imberakuri or PS-Imberakuri [Christine MUKABUNANI]<br>Rwandan Patriotic Front or RPF [Paul KAGAME]<br>Rwandan Patriotic Front Coalition (includes RPF, PPC) [Paul KAGAME]<br>Social Democratic Party or PSD [Vincent BIRUTA]<br>
+Democratic Green Party of Rwanda or DGPR [Frank HABINEZA]<br>Liberal Party or PL [Donatille MUKABALISA]<br>Party for Progress and Concord or PPC [Dr. Alivera MUKABARAMBA]<br>Rwandan Patriotic Front or RPF [Paul KAGAME]<br>Rwandan Patriotic Front Coalition (includes RPF, PPC) [Paul KAGAME]<br>Social Democratic Party or PSD [Vincent BIRUTA]<br>Social Party Imberakuri or PS-Imberakuri [Christine MUKABUNANI]<br>
 
 **International organization participation**<br>
 ACP, AfDB, AU, C, CEPGL, COMESA, EAC, EADB, FAO, G-77, IAEA, IBRD, ICAO, ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, MINUSMA, NAM, OIF, OPCW, PCA, UN, UNAMID, UNCTAD, UNESCO, UNHCR, UNIDO, UNISFA, UNMISS, UNWTO, UPU, WCO, WHO, WIPO, WMO, WTO<br>
@@ -710,6 +710,6 @@ the RDF's inventory includes mostly Russian, Soviet-era, and older Western - lar
 <p><em>Rwanda-Burundi: </em>Burundi's Ngozi province and Rwanda's Butare province dispute the two-kilometer-square hilly farmed area of Sabanerwa in the Rukurazi Valley where the Akanyaru/Kanyaru River shifted its course southward after heavy rains in 1965 around Kibinga Hill in Rwanda's Butare Province<br><em><br>Rwanda-Democratic Republic of Congo (DRC): </em>the 2005 DRC and Rwanda border verification mechanism to stem rebel actions on both sides of the border remains in place<em><br><br>Rwanda-Uganda:</em> a joint technical committee established in 2007 to demarcate sections of the border<br><br><br></p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 76,530 (Democratic Republic of the Congo) 48,349 (Burundi) (2022)<br>
+_refugees (country of origin)_: 76,465 (Democratic Republic of the Congo) 48,349 (Burundi) (2022)<br>
 _stateless persons_: 9,500 (mid-year 2021)<br>
 

@@ -132,7 +132,7 @@ laws applicable to the Cypriot population are, as far as possible, the same as t
 
 **Executive branch**<br>
 _chief of state_: King CHARLES III (since 8 September 2022)<br>
-_head of government_: Administrator Air Vice-Marshal Peter J.M. SQUIRES (since 1 September 2022); note - administrator reports to the British Ministry of Defense and is also Commander, British Forces Cyprus (BFC); the chief officer is responsible for the day-to-day running of the civil government of the Sovereign Bases<br>
+_head of government_: Administrator Air Vice-Marshal Peter J.M. SQUIRES (since 1 September 2022); note - administrator reports to the British Ministry of Defense and is also Commander, British Forces Cyprus (BFC); the chief officer, an appointed civilian, is responsible for the day-to-day running of the civil government of the Sovereign Base Areas<br>
 _elections/appointments_: the monarchy is hereditary; administrator appointed by the monarch on the advice of the Ministry of Defense<br>
 
 **Judicial branch**<br>

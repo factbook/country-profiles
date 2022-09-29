@@ -335,8 +335,8 @@ _residency requirement for naturalization_: 25 years; 15 years for Arab national
 20 years of age; universal<br>
 
 **Executive branch**<br>
-_chief of state_: King HAMAD bin Isa Al-Khalifa (since 6 March 1999)<br>
-_head of government_: Prime Minister SALMAN bin Hamad Al-Khalifa (since 11 November 2020); first deputy prime minister (vacant); Deputy Prime Ministers MUHAMMAD bin Mubarak Al-Khalifa (since September 2005), Jawad bin Salim al-ARAIDH, ALI bin Khalifa bin Salman Al-Khalifa (since 11 December 2006), KHALID bin Abdallah Al-Khalifa (since November 2010); note - KHALIFA ibn Salman Al Khalifa, who served as prime minister since Bahrain's independence in 1971, died on 11 November 2020<br>
+_chief of state_: King HAMAD bin Isa Al-Khalifa (since 6 March 1999); Crown Prince SALMAN bin Hamad Al-Khalifa (born 21 October 1969)<br>
+_head of government_: Prime Minister Crown Prince SALMAN bin Hamad Al-Khalifa (since 11 November 2020); Deputy Prime Minister and Minister for Infrastructure KHALID bin Abdallah Al Khalifa (since 13 June 2022)<br>
 _cabinet_: Cabinet appointed by the monarch<br>
 _elections/appointments_: the monarchy is hereditary; prime minister appointed by the monarch<br>
 

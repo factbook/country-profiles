@@ -349,7 +349,7 @@ _residency requirement for naturalization_: 7 years<br>
 
 **Executive branch**<br>
 _chief of state_: President Abdelmadjid TEBBOUNE (since 12 December 2019)<br>
-_head of government_: Prime Minister Ayman BENABDERRAHMANE (since 7 July 2021); note - President TEBBOUNE appointed BENABDERRAHMANE as prime minister following the resignation of Prime Minister Abdelaziz DJERAD on 24 June 2021 <h1> </h1> <h1> </h1> Abdelaziz DJERAD (since 28 December 2019)<br>
+_head of government_: Prime Minister Ayman BENABDERRAHMANE (since 7 July 2021) <h1> </h1> <h1> </h1> Abdelaziz DJERAD (since 28 December 2019)<br>
 _cabinet_: Cabinet of Ministers appointed by the president<br>
 _elections/appointments_: president directly elected by absolute majority popular vote in two rounds if needed for a 5-year term (eligible for a second term); election last held on 12 December 2019 (next to be held in 2024); prime minister nominated by the president after consultation with the majority party in Parliament<br>
 _election results_: <em>2019:</em> Abdelmadjid TEBBOUNE (FLN) 58.1%, Abdelkader BENGRINA (El-Bina) 17.4%, Ali BENFLIS (Talaie El Hurriyet) 10.6%, Azzedine MIHOUBI (National Democratic Rally, RND) 7.3%, Abdelaziz BELAID (Front El Mustakbal, FM) 6.7%<br><br><em>2014:</em> Abdelaziz BOUTEFLIKA reelected president for a fourth term; percent of vote - Abdelaziz BOUTEFLIKA (FLN) 81.5%, Ali BENFLIS (FLN) 12.2%, Abdelaziz BELAID (Future Front) 3.4%, other 2.9%<br>

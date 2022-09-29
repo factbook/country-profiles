@@ -719,7 +719,7 @@ approximately 15,000 active duty personnel (10,000 Army; 1,500 Navy; 1,500 Air f
 the inventory of the Croatian Armed Forces consists mostly of Soviet-era equipment, although in recent years, it has acquired a limited amount of more modern weapon systems from Western suppliers, including Finland, Germany, and the US (2021)<br>
 
 **Military service age and obligation**<br>
-18-27 years of age for voluntary military service; conscription abolished in 2008 (2021)<br>
+18-27 years of age for voluntary military service; conscription abolished in 2008 (2022)<br>
 <strong>note:</strong> as of 2019, women comprised about 13% of the military's full-time personnel<br>
 
 **Military deployments**<br>

@@ -712,8 +712,8 @@ approximately 45,000 active duty troops; information on the individual services 
 the inventory of the Belarus Armed Forces is comprised mostly of Russian/Soviet-origin equipment, and since 2010 Russia has been the leading provider of arms; Belarus's defense industry manufactures some equipment (mostly modernized Soviet designs), including vehicles, guided weapons, and electronic warfare systems (2021)<br>
 
 **Military service age and obligation**<br>
-18-27 years of age for compulsory military or alternative service; conscript service obligation is 12-18 months, depending on academic qualifications, and 24-36 months for alternative service, depending on academic qualifications; 17-year-olds are eligible to become cadets at military higher education institutes, where they are classified as military personnel (2021)<br>
-<strong>note:</strong> conscripts can be assigned to the military or to the Ministry of Interior as internal or border troops; as of 2020, conscripts comprised an estimated 40% of the military<br>
+18-27 years of age for compulsory military or alternative service; conscript service obligation is 12-18 months, depending on academic qualifications, and 24-36 months for alternative service, also depending on academic qualifications; 17-year-olds are eligible to become cadets at military higher education institutes, where they are classified as military personnel (2022)<br>
+<strong>note:</strong> conscripts can be assigned to the military, to the Ministry of Interior as internal or border troops, or to the Ministry of Labor and Social Protection (alternative service); as of 2020, conscripts comprised an estimated 40% of the military<br>
 
 **Military - note**<br>
 <p>Belarus has close security ties with Russia, including an integrated air and missile defense system, joint training exercises, and the establishment of three joint training centers since 2020 (1 in Belarus, 2 in Russia); Russia is the principal supplier of arms to Belarus, and Belarusian troops reportedly train on Russian equipment; Russia leases from Belarus a strategic ballistic missile defense site operated by Russian Aerospace Forces and a global communications facility for the Russian Navy; in 2020, the countries signed an agreement allowing for close security cooperation between the Belarusian Ministry of Interior and the Russian National Guard, including protecting public order and key government facilities, and combating extremism and terrorism; in 2022, Belarus allowed Russian military forces to stage on its territory during its invasion of Ukraine<br><br>Belarus has been a member of the Collective Security Treaty Organization (CSTO) since 1994 and contributes an airborne brigade to CSTO's rapid reaction force (KSOR)</p><br>
@@ -724,7 +724,7 @@ the inventory of the Belarus Armed Forces is comprised mostly of Russian/Soviet-
 <p><em>Belarus-Latvia:</em> Boundary demarcated with Latvia.<br><br><em>Belarus-Lithuania:</em> Boundary demarcated with Lithuania.<br><br><em>Belarus-Poland:</em> As a member state that forms part of the EU's external border, Poland has implemented strict Schengen border rules to restrict illegal immigration and trade along its border with Belarus.</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 13,422 (Ukraine) (as of 13 September 2022)<br>
+_refugees (country of origin)_: 13,803 (Ukraine) (as of 20 September 2022)<br>
 _stateless persons_: 6,104 (mid-year 2021)<br>
 
 **Trafficking in persons**<br>

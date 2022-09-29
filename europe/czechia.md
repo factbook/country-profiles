@@ -703,7 +703,7 @@ the Czech military has a mix of Soviet-era and more modern equipment, mostly of 
 note: in 2019, Czechia announced a modernization plan to acquire more equipment that was compliant with NATO standards, including aircraft from the US and armored vehicles from Germany and Sweden, as well as domestically-produced arms<br>
 
 **Military service age and obligation**<br>
-18-28 years of age for male and female voluntary military service; conscription abolished 2004 (2021)<br>
+18-28 years of age for voluntary military service for men and women; conscription abolished 2004 (2022)<br>
 <strong>note: </strong>as of 2019, women comprised about 13% of the military's full-time personnel<br>
 
 **Military deployments**<br>
@@ -719,7 +719,7 @@ Czechia joined NATO in 1999; Czechia, Hungary, and Poland were invited to begin 
 <p>none</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 431,462 (Ukraine) (as of 13 September 2022)<br>
+_refugees (country of origin)_: 433,488 (Ukraine) (as of 19 September 2022)<br>
 _stateless persons_: 1,498 (mid-year 2021)<br>
 
 **Illicit drugs**<br>

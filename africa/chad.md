@@ -708,14 +708,14 @@ limited and varied information; estimated to have up to 35,000 active ANT person
 the ANT is mostly armed with older or second-hand equipment from Belgium, France, Russia, and the former Soviet Union; since 2010, it has received equipment, including donations, from more than 10 countries, including China, Italy, Ukraine, and the US (2021)<br>
 
 **Military service age and obligation**<br>
-20 is the legal minimum age for compulsory military service for men, with a 3-year service obligation; 18 is the legal minimum age for voluntary service; no minimum age restriction for volunteers with consent from a parent or guardian; women are subject to 1 year of compulsory military or civic service at age 21 (2021)<br>
+20 is the legal minimum age for compulsory military service for men with an 18-36 month service obligation (information varies); women are subject to 12 months of compulsory military or civic service at age 21; 18-35 for voluntary service; soldiers released from active duty are in the reserves until the age of 50 (2021)<br>
 
 **Military deployments**<br>
 1,450 Mali (MINUSMA) (May 2022)<br>
 <strong>note 1:</strong> Chad has committed approximately 1,000-1,500 troops to the Multinational Joint Task Force (MNJTF) against Boko Haram and other terrorist groups operating in the general area of the Lake Chad Basin and along Nigeria's northeast border; national MNJTF troop contingents are deployed within their own territories, although cross‐border operations are conducted periodically; in 2019, Chad sent more than 1,000 troops to Nigeria’s Borno State to fight Boko Haram as part of the MNJTF mission<br><br><strong>note 2: </strong>Chad is also part of a four (formerly five)-nation anti-jihadist task force known as the G4 Sahel Group, set up in 2014 with Chad, Mali (withdrew in 2022), Mauritania, and Niger; it has committed 550 troops and 100 gendarmes to the force; as of 2020, defense forces from each of the participating states were allowed to pursue terrorist fighters up to 100 km into neighboring countries; the force is backed by France, the UN, and the US<br>
 
 **Military - note**<br>
-as of 2022, the ANT was chiefly focused on counterterrorism and counterinsurgency operations; it was engaged with the Boko Haram (BH) and the Islamic State in West Africa (ISWA) terrorist groups in the Lake Chad Basin area (primarily the Lac Province) and in the Sahel, particularly the tri-border area with Burkina Faso, Mali, and Niger; in addition, the ANT was conducting operations against internal anti-government militias and armed dissident groups; several Chadian rebel groups, including the Union of Resistance Forces (UFR) and the Front for Change and Concord in Chad (FACT), operate in northern Chad from bases in Libya; former Chadian President Idriss DEBY<strong> </strong>was killed in April 2021 during fighting in the northern part of the country between FACT and the Chadian Army<br>
+as of 2022, the ANT was chiefly focused on counterterrorism and counterinsurgency operations; it was engaged with the Boko Haram (BH) and the Islamic State in West Africa (ISWA) terrorist groups in the Lake Chad Basin area (primarily the Lac Province) and in the Sahel, particularly the tri-border area with Burkina Faso, Mali, and Niger; in addition, the ANT was conducting operations against internal anti-government militias and armed dissident groups; several Chadian rebel groups, including the Union of Resistance Forces (UFR) and the Front for Change and Concord in Chad (FACT), operate in northern Chad from bases in Libya; former Chadian President Idriss DEBY<strong> </strong>was killed in April 2021 during fighting in the northern part of the country between FACT and the Chadian Army (2022)<br>
 
 ## Terrorism
 
@@ -729,7 +729,7 @@ Boko Haram; Islamic State of Iraq and ash-Sham - West Africa (ISIS-WA)<br>
 <p>since 2003, ad hoc armed militia groups and the Sudanese military have driven hundreds of thousands of Darfur residents into Chad; Chad wishes to be a helpful mediator in resolving the Darfur conflict, and in 2010 established a joint border monitoring force with Sudan, which has helped to reduce cross-border banditry and violence; only Nigeria and Cameroon have heeded the Lake Chad Commission's admonition to ratify the delimitation treaty, which also includes the Chad-Niger and Niger-Nigeria boundaries</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 391,601 (Sudan), 124,488 (Central African Republic), 42,543 (Cameroon), 20,218 (Nigeria) (2022)<br>
+_refugees (country of origin)_: 387,753 (Sudan), 124,488 (Central African Republic), 35,137 (Cameroon), 20,218 (Nigeria) (2022)<br>
 _IDPs_: 381,289 (majority are in the east) (2022)<br>
 
 **Trafficking in persons**<br>

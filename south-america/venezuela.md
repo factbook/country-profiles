@@ -728,7 +728,7 @@ National Liberation Army (ELN); Revolutionary Armed Forces of Colombia-People's 
 
 **Refugees and internally displaced persons**<br>
 _refugees (country of origin)_: 67,935 (Colombia) (2020)<br>
-<strong>note: </strong>As of December 2020, more than 800,000 Venezuelans have applied for asylum worldwide<br>
+<strong>note: </strong>As of August 2022, host governments report more than 6.8 million Venezuelan refugees and migrants worldwide<br>
 
 **Trafficking in persons**<br>
 _current situation_: Venezuela is a source, transit, and destination country for men, women, and children subjected to sex trafficking and forced labor; Venezuelan women and girls are trafficked within the country for sexual exploitation, lured from the nation's interior to urban and tourist areas; women from Colombia, Peru, Haiti, China, and South Africa are also reported to have been sexually exploited in Venezuela; some Venezuelan women are transported to Caribbean islands, particularly Aruba, Curacao, and Trinidad &amp; Tobago, where they are subjected to forced prostitution; some Venezuelan children are forced to beg on the streets or work as domestic servants, while Ecuadorian children, often from indigenous communities, are subjected to forced labor; the government provided support to FARC dissidents and the ELN, which grew through the recruitment of child soldiers and exploitation of children in sex trafficking and forced labor; Illegal armed groups lure children in vulnerable conditions and dire economic circumstances with gifts and promises of basic sustenance to later recruit them into their ranks<br>

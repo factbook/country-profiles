@@ -708,7 +708,7 @@ approximately 12,000 personnel (7,000 Army; 500 Air Force; 4,500 National Gendar
 the FABF has a mix of foreign-supplied weapons; since 2010, it has received limited amounts of mostly donated second-hand equipment from a variety of countries (2022)<br>
 
 **Military service age and obligation**<br>
-18 years of age for voluntary military service; no conscription; women may serve in supporting roles (2021)<br>
+18 years of age for voluntary military service; no conscription; women may serve in supporting roles (2022)<br>
 
 **Military deployments**<br>
 650 (plus about 180 police) Mali (MINUSMA) (May 2022)<br>
@@ -730,5 +730,5 @@ Ansarul Islam; Islamic State of Iraq and ash-Sham in the Greater Sahara (ISIS-GS
 
 **Refugees and internally displaced persons**<br>
 _refugees (country of origin)_: 26,609 (Mali) (2022)<br>
-_IDPs_: <p>1,850,293 (2022)</p><br>
+_IDPs_: <p>1,902,150 (2022)</p><br>
 

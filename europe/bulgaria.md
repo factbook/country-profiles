@@ -706,11 +706,11 @@ Bulgarian Armed Forces: Land Forces (Army), Naval Forces, Bulgarian Air Forces (
 approximately 28,000 active duty personnel (17,000 Army; 4,000 Navy; 7,000 Air Force) (2022)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the Bulgarian Armed Forces inventory consists primarily of Soviet-era equipment, although in recent years Bulgaria has procured limited amounts of more modern weapons systems from some Western countries (2022)<br>
+the military's inventory consists primarily of Soviet-era equipment, although in recent years Bulgaria has procured limited amounts of more modern weapons systems from some Western countries (2022)<br>
 
 **Military service age and obligation**<br>
-18-27 years of age for voluntary military service; conscription ended in 2007; service obligation 6-9 months (2021)<br>
-<strong>note:</strong> in 2021, women comprised about 17% of the Bulgarian military's full-time personnel<br>
+18 years of age for voluntary military service; conscription ended in 2007; service obligation 6-9 months (2022)<br>
+<strong>note 1:</strong> in 2021, women comprised about 17% of the Bulgarian military's full-time personnel<br><br><strong>note 2:</strong> in 2020, Bulgaria announced a program to allow every citizen up to the age of 40 to join the armed forces for 6 months of military service in the voluntary reserve<br>
 
 **Military - note**<br>
 Bulgaria became a member of NATO in 2004; Bulgaria conducts its own air policing mission, but because of Russian aggression in the Black Sea region, NATO allies have sent detachments of fighters to augment the Bulgarian Air Force since 2014 (2022)<br>
@@ -727,9 +727,9 @@ Islamic State of Iraq and ash-Sham (ISIS); Islamic Revolutionary Guard Corps/Qod
 <p>none</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 19,014 (Syria) (mid-year 2021); 67,467 (Ukraine) (as of 13 September 2022)<br>
+_refugees (country of origin)_: 19,014 (Syria) (mid-year 2021); 61,070 (Ukraine) (as of 20 September 2022)<br>
 _stateless persons_: 1,143 (mid-year 2021)<br>
-<strong>note:</strong> 77,143 estimated refugee and migrant arrivals (January 2015-June 2022); Bulgaria is predominantly a transit country<br>
+<strong>note:</strong> 80,428 estimated refugee and migrant arrivals (January 2015-August 2022); Bulgaria is predominantly a transit country<br>
 
 **Illicit drugs**<br>
 source country for amphetamine tablets<br>

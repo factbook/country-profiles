@@ -579,6 +579,5 @@ Al-Aqsa Martyrs Brigade; HAMAS; Kahane Chai; Palestine Islamic Jihad; Palestine 
 
 **Refugees and internally displaced persons**<br>
 _refugees (country of origin)_: 871,537 (Palestinian refugees) (2020)<br>
-_IDPs_: 131,000 (includes persons displaced within the Gaza strip due to the intensification of the Israeli-Palestinian conflict since June 2014 and other Palestinian IDPs in the Gaza Strip and West Bank who fled as long ago as 1967, although confirmed cumulative data do not go back beyond 2006) (2020)<br>
-data represent Gaza Strip and West Bank<br>
+_IDPs_: 131,000 (includes persons displaced within the Gaza strip due to the intensification of the Israeli-Palestinian conflict since June 2014 and other Palestinian IDPs in the Gaza Strip and West Bank who fled as long ago as 1967, although confirmed cumulative data do not go back beyond 2006) (2020); note - data represent Gaza Strip and West Bank<br>
 

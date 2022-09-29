@@ -697,10 +697,10 @@ Azerbaijan Armed Forces: Land Forces (Combined Arms Army), Air Forces, Navy Forc
 information varies; approximately 65,000 active armed forces (55,000 Army; 2,000 Navy; 8,000 Air Force); approximately 15,000 Ministry of Internal Affairs troops (2022)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the inventory of the Azerbaijan military is comprised mostly of Russian and Soviet-era weapons systems with a small mix of equipment from other countries, including Israel and Turkey (2022)<br>
+the military's inventory is comprised mostly of Russian and Soviet-era weapons systems with a small mix of equipment from other countries, including Israel and Turkey (2022)<br>
 
 **Military service age and obligation**<br>
-men age 18-35 years for compulsory military service; service obligation 18 months (non-university graduate) or 12 months (university graduates); 17 years of age for voluntary service (men and women); 17-year-olds are considered to be on active service at cadet military schools (2021)<br>
+18-35 years of age for compulsory military service for men; 17-35 years of age for voluntary service for men and women (2022)<br>
 <strong>note:</strong> as of 2018, women made up an estimated 3% of the active duty military<br>
 
 **Military - note**<br>

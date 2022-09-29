@@ -762,7 +762,6 @@ Hizballah; Islamic Revolutionary Guard Corps (IRGC)/Qods Force; Islamic State of
 **Refugees and internally displaced persons**<br>
 _refugees (country of origin)_: the US admitted 11,411 refugees during FY2021 including: 4,891 (Democratic Republic of the Congo), 1,246 (Syria), 872 (Afghanistan), 803 (Ukraine), 772 (Burma), 513 (Sudan)<br>
 _stateless persons_: 47 (mid-year 2021)<br>
-<strong>note:</strong> 72,722 Venezuelans have claimed asylum since 2014 because of the economic and political crisis (2018)<br>
 
 **Illicit drugs**<br>
 <p>world's largest consumer of cocaine (mostly from Colombia through Mexico and the Caribbean), Mexican heroin and marijuana; major consumer of MDMA (ecstasy) and Mexican methamphetamine; major consumer of fentanyl and other synthetic opioids sourced from Mexico and China, often mixed with other drugs; illicit producer of cannabis, marijuana, depressants, stimulants, hallucinogens, and methamphetamine; money-laundering center</p><br>

@@ -342,8 +342,8 @@ _residency requirement for naturalization_: 5 years<br>
 18 years of age; restricted to males; universal for municipal elections<br>
 
 **Executive branch**<br>
-_chief of state_: King and Prime Minister SALMAN bin Abd al-Aziz Al Saud (since 23 January 2015); Crown Prince MUHAMMAD BIN SALMAN bin Abd al-Aziz Al Saud (born 31 August 1985); note - the monarch is both chief of state and head of government<br>
-_head of government_: King and Prime Minister SALMAN bin Abd al-Aziz Al Saud (since 23 January 2015); Crown Prince MUHAMMAD BIN SALMAN bin Abd al-Aziz Al Saud (born 31 August 1985)<br>
+_chief of state_: King SALMAN bin Abd al-Aziz Al Saud (since 23 January 2015); Crown Prince MUHAMMAD BIN SALMAN bin Abd al-Aziz Al Saud (born 31 August 1985)<br>
+_head of government_: Prime Minister Crown Prince MUHAMMAD BIN SALMAN bin Abd al-Aziz Al Saud (since 27 September 2022) (born 31 August 1985)<br>
 _cabinet_: Council of Ministers appointed by the monarch every 4 years and includes many royal family members<br>
 _elections/appointments_: none; the monarchy is hereditary; an Allegiance Council created by royal decree in October 2006 established a committee of Saudi princes for a voice in selecting future Saudi kings<br>
 

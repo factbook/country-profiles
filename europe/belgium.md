@@ -701,8 +701,8 @@ approximately 25,000 active duty personnel (10,000 Land Component; 1,500 Marine 
 the Belgian Armed Forces have a mix of weapons systems from European countries, Israel, and the US; since 2010, several European nations have been the leading suppliers of armaments; Belgium has an export-focused defense industry that focuses on components and subcontracting (2021)<br>
 
 **Military service age and obligation**<br>
-18 years of age for male and female voluntary military service; conscription abolished in 1995 (2021)<br>
-<strong>note:</strong> in 2020, women comprised about 9% of the military's full-time personnel<br>
+18 years of age for male and female voluntary military service; conscription abolished in 1995 (2022)<br>
+<strong>note 1:</strong> in 2020, women comprised about 9% of the military's full-time personnel<br><br><strong>note 2:</strong> foreigners who speak Dutch or French from EU countries, Iceland, Lichtenstein, Norway, and Switzerland may serve<br>
 
 **Military deployments**<br>
 125 France (contributing member of EuroCorps); 250 Romania (NATO) (2022)<br>
@@ -723,7 +723,7 @@ Islamic Revolutionary Guard Corps/Qods Force; Islamic State of Iraq and ash-Sham
 <p>none identified</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 18,493 (Syria), 5,094 (Iraq) (2020); 55,130 (Ukraine) (as of 6 September 2022)<br>
+_refugees (country of origin)_: 18,493 (Syria), 5,094 (Iraq) (2020); 56,013 (Ukraine) (as of 20 September 2022)<br>
 _stateless persons_: 1,159 (mid-year 2021)<br>
 
 **Illicit drugs**<br>

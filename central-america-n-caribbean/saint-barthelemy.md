@@ -228,7 +228,7 @@ _elections_: Territorial Council - first round held on 20 March 2022 (next to be
 _election results_: Territorial Council - percent of vote by party (first round) - SBA 46.2%, Saint Barth Action Equilibre 27.1%, Unis pour Saint Barthelemy 26.8%; percent of vote by party (second round) - Saint Barth Action Equilibre and Unis pour Saint Barthelemy 50.9%, SBA 49.2%, seats by party - Saint Barth Action Equilibre and Unis pour Saint Barthelemy 13, SBA 6; composition - men NA, women NA, percent of women NA% <br>French Senate - percent of vote by party NA; seats by party UMP 1 <br>French National Assembly - percent of vote by party NA; seats by party UMP 1<br>
 
 **Political parties and leaders**<br>
-All for Saint Barth (Tous pour Saint-Barth) [Bettina COINTRE]<br>Saint Barth Action Equilibre [Marie-Helene BERNIER]<br>Saint Barth First! (Saint-Barth d'Abord!) or SBA [Romaric MAGRAS] (affiliated with France's Republican party, Les Republicans)<br>Saint Barth United (Unis pour Saint-Barthelemy) [Xavier LEDEE]<br>
+All for Saint Barth (Tous pour Saint-Barth) [Bettina COINTRE]<br>Saint Barth Action Equilibre [Marie-Hélène BERNIER]<br>Saint Barth First! (Saint-Barth d'Abord!) or SBA [Romaric MAGRAS] (affiliated with France's Republican party, Les Republicans)<br>Saint Barth United (Unis pour Saint-Barthelemy) [Xavier LEDEE]<br>
 
 **International organization participation**<br>
 UPU<br>

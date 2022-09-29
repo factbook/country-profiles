@@ -683,7 +683,7 @@ approximately 4,000 active personnel (2022)<br>
 the RFMF is lightly armed and equipped; Australia has provided patrol boats and a few armored personnel carriers; it also provides logistical support for RFMF regional or UN operations; in recent years, China has provided construction equipment and military vehicles (2021)<br>
 
 **Military service age and obligation**<br>
-18 years of age for voluntary military service; mandatory retirement at age 55 (2021)<br>
+18-25 years of age for voluntary military service; mandatory retirement at age 55 (2022)<br>
 
 **Military deployments**<br>
 170 Egypt (MFO); 165 Iraq (UNAMI); 150 Golan Heights (UNDOF) (2022)<br>

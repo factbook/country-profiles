@@ -693,7 +693,7 @@ Islamic State of Iraq and ash-Sham (ISIS)<br>
 <p><em>North Macedonia-Albania</em>: none identified</p> <p><em>North Macedonia-Greece</em>: none identified</p> <p><em>North Macedonia-Kosovo</em>: North Macedonia and Kosovo completed demarcation of their boundary in October 2009</p> <p><em>North Macedonia-Serbia</em>: none identified</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 5,129 (Ukraine) (as of 13 September 2022)<br>
+_refugees (country of origin)_: 5,567 (Ukraine) (as of 20 September 2022)<br>
 _stateless persons_: 553 (mid-year 2021)<br>
 <strong>note:</strong> 539,408 estimated refugee and migrant arrivals (January 2015-July 2022)<br>
 

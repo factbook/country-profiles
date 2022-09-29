@@ -744,7 +744,7 @@ Ansar al-Dine; Islamic State of Iraq and ash-Sham in the Greater Sahara (ISIS-GS
 <p><em>Mali-Burkina Faso</em>: demarcation is underway with Burkina Faso</p> <p> </p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 22,051 (Burkina Faso) (refugees and asylum seekers), 14,950 (Mauritania) (refugees and asylum seekers), 13,585 (Niger) (refugees and asylum seekers) (2022)<br>
+_refugees (country of origin)_: 24,591 (Burkina Faso) (refugees and asylum seekers), 14,950 (Mauritania) (refugees and asylum seekers), 14,794 (Niger) (refugees and asylum seekers) (2022)<br>
 _IDPs_: 370,548 (Tuareg rebellion since 2012) (2022)<br>
 
 **Trafficking in persons**<br>
