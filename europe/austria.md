@@ -319,7 +319,7 @@ _name_: Vienna<br>
 _geographic coordinates_: 48 12 N, 16 22 E<br>
 _time difference_: UTC+1 (6 hours ahead of Washington, DC, during Standard Time)<br>
 _daylight saving time_: +1hr, begins last Sunday in March; ends last Sunday in October<br>
-_etymology_: the origin of the name is disputed but may derive from early Celtic settlements of the area; a possible reconstructed Celtic name from several centuries B.C. is *Vedunia (meaning "forest stream"); under Roman settlement, beginning around 15 B.C., the name became Vindobona (likely from the Celtic "windo," meaning "white, fair, or bright" and "bona" meaning "base, fortification, or settlement" to give a connotation of "white settlement" or "white fort"); archeological remains of the latter survive at many sites in the center of Vienna<br>
+_etymology_: the origin of the name is disputed but may derive from early Celtic settlements of the area; a possible reconstructed Celtic name from several centuries B.C. is *Vedunia (meaning "forest stream"); under Roman settlement, beginning around 15 B.C., the name became Vindobona (likely from the Celtic <em>windo</em>, meaning "white, fair, or bright" and <em>bona</em> meaning "base, fortification, or settlement" to give a connotation of "white settlement" or "white fort"); archeological remains of the latter survive at many sites in the center of Vienna<br>
 
 **Administrative divisions**<br>
 9 states (Bundeslaender, singular - Bundesland); Burgenland, Kaernten (Carinthia), Niederoesterreich (Lower Austria), Oberoesterreich (Upper Austria), Salzburg, Steiermark (Styria), Tirol (Tyrol), Vorarlberg, Wien (Vienna)<br>
@@ -735,7 +735,7 @@ Islamic State of Iraq and ash-Sham (ISIS)<br>
 <p>none identified</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 57,887 (Syria), 41,037 (Afghanistan), 9,661 (Iraq), 8,212 (Somalia), 7,046 (Iran), 7,003 (Russia) (mid-year 2021); 81,850 (Ukraine) (as of 20 September 2022)<br>
+_refugees (country of origin)_: 57,887 (Syria), 41,037 (Afghanistan), 9,661 (Iraq), 8,212 (Somalia), 7,046 (Iran), 7,003 (Russia) (mid-year 2021); 82,446 (Ukraine) (as of 27 September 2022)<br>
 _stateless persons_: 3,229 (mid-year 2021)<br>
 
 **Illicit drugs**<br>

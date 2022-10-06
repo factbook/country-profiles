@@ -643,10 +643,10 @@ estimated 600 Defense Force personnel; estimated 500 Federal Police (2022)<br>
 the defense forces are lightly armed with a mix of mostly older equipment from a variety of countries, including France, Italy, Russia, and the US (2021)<br>
 
 **Military service age and obligation**<br>
-18 years of age for 2-year voluntary male and female military service; no conscription (2021)<br>
+18 years of age for 2-year voluntary military service for men and women; no conscription (2021)<br>
 
 **Military - note**<br>
-the AND is limited in capabilities to performing search and rescue operations and maintaining internal security; a defense treaty with France provides naval resources for protection of territorial waters, training of Comoran military personnel, and air surveillance; France maintains a small maritime base and a Foreign Legion contingent on neighboring Mayotte (2022)<br>
+the security forces are limited in capabilities to performing search and rescue operations and maintaining internal security; a defense treaty with France provides naval resources for protection of territorial waters, training of Comoran military personnel, and air surveillance; France maintains a small maritime base and a Foreign Legion contingent on neighboring Mayotte (2022)<br>
 
 ## Transnational Issues
 

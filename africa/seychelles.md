@@ -341,7 +341,7 @@ _judge selection and term of office_: all judges appointed by the president of t
 _subordinate courts_: Magistrates' Courts of Seychelles; Family Tribunal for issues such as domestic violence, child custody, and maintenance; Employment Tribunal for labor-related disputes<br>
 
 **Political parties and leaders**<br>
-Linyon Sanzman or LS [Martin AGLAE]<br>One Seychelles [Peter SINON]<br>Seychelles Party for Social Justice and Democracy or SPSJD [Vesna RAKIC]<br>Seychellois Democratic Alliance (Linyon Demokratik Seselwa) or LDS [Roger MANCIENNE] (includes SPSJD)<br>United Seychelles or US [Patrick HERMINIE] (formerly People's Party (Parti Lepep) or PL) <br>
+Seychelles Party for Social Justice and Democracy or SPSJD [Vesna RAKIC]<br>Seychellois Democratic Alliance or LDS (Linyon Demokratik Seselwa/Union Démocratique Seychelloise) (coalition includes SNP and SPSJD) [Roger MANCIENNE]<br>Seychelles National Party or SNP [Wavel RAMKALAWAN]<br>United Seychelles or US [Patrick HERMINIE]<br><br><strong>note</strong>: only parties with seats in the National Assembly listed<br>
 
 **International organization participation**<br>
 ACP, AfDB, AOSIS, AU, C, CD, COMESA, EITI (candidate country), FAO, G-77, IAEA, IBRD, ICAO, ICC (NGOs), ICCt, ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, IMO, InOC, Interpol, IOC, IOM, IPU, ISO (correspondent), ITU, MIGA, NAM, OIF, OPCW, SADC, UN, UNCTAD, UNESCO, UNIDO, UNWTO, UPU, WCO, WHO, WIPO, WMO, WTO<br>

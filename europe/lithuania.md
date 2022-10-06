@@ -365,7 +365,7 @@ _subordinate courts_: Court of Appeals; district and local courts<br>
 Electoral Action of Lithuanian Poles or LLRA [Valdemar TOMASEVSKI]<br>Freedom and Justice Party or LT [Remigijus ZEMAITAITIS] (formerly Lithuanian Freedom Union (Liberals))<br>Freedom Party or LP [Ausrine ARMONAITE]<br>Homeland Union-Lithuanian Christian Democrats or TS-LKD [Gabrielius LANDSBERGIS]<br>Labor Party or DP [Andrius MAZURONIS]<br>Lithuanian Center Party or LCP [Naglis PUTEIKIS]<br>Lithuanian Farmers and Greens Union or LVZS [Ramunas KARBAUSKIS]<br>Lithuanian Green Party or LZP [Remigijus LAPINSKAS]<br>Lithuanian Liberal Movement or LS or LRLS [Viktorija CMILYTE-NIELSEN]<br>Lithuanian List or LL [Darius KUOLYS]<br>Lithuanian Regions Party or LRP [Jonas PINSKUS] (formerly Lithuanian Social Democratic Labor Party or LSDDP)<br>Lithuanian Social Democratic Party or LSDP [Vilija BLINKEVICIUTE]<br>
 
 **International organization participation**<br>
-Australia Group, BA, BIS, CBSS, CD, CE, EAPC, EBRD, ECB, EIB, EU, FAO, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IFC, IFRCS, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ISO, ITU, ITUC (NGOs), MIGA, NATO, NIB, NSG, OAS (observer), OECD, OIF (observer), OPCW, OSCE, PCA, Schengen Convention, UN, UNCTAD, UNESCO, UNIDO, UNWTO, UPU, Wassenaar Arrangement, WCO, WHO, WIPO, WMO, WTO<br>
+Australia Group, BA, BIS, CBSS, CD, CE, EAPC, EBRD, ECB, EIB, EU, FAO, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IFC, IFRCS, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ISO, ITU, ITUC (NGOs), MIGA, NATO, NIB, NSG, OAS (observer), OECD, OIF (observer), OPCW, OSCE, PCA, Schengen Convention, UN, UNCTAD, UNESCO, UNHRC, UNIDO, UNWTO, UPU, Wassenaar Arrangement, WCO, WHO, WIPO, WMO, WTO<br>
 
 **Diplomatic representation in the US**<br>
 _chief of mission_: Ambassador Audra PLEPYTE (since 7 July 2021)<br>
@@ -693,11 +693,11 @@ Lithuanian Armed Forces (Lietuvos Ginkluotosios Pajegos): Land Forces (Sausumos 
 <strong>note: </strong>the National Rifleman's Union is a paramilitary force that acts as an additional reserve force<br>
 
 **Military expenditures**<br>
+2.5% of GDP (2022 est.)<br>
 2% of GDP (2021 est.)<br>
 2.1% of GDP (2020)<br>
 2% of GDP (2019) (approximately $1.7 billion)<br>
 2% of GDP (2018) (approximately $1.59 billion)<br>
-1.7% of GDP (2017) (approximately $1.34 billion)<br>
 
 **Military and security service personnel strengths**<br>
 approximately 17,000 active duty personnel (13,500 Army, including about 5,000 National Defense Voluntary Forces; 500 Navy; 1,000 Air Force; 2,000 other, including special operations forces, logistics support, training, etc); estimated 11,000 Riflemen Union (2022)<br>
@@ -721,7 +721,7 @@ Lithuania became a member of NATO in 2004<br> <p>since 2017, Lithuania has hoste
 <p><em>Lithuania-Belarus</em>: as of January 2007, ground demarcation of the boundary with Belarus was complete and mapped with final ratification documents in preparation</p> <p><em>Lithuania-Lativa</em>: boundary demarcated with Latvia was completed in 1998</p> <p><em>Lithuania-Russia</em>:<strong> </strong>Lithuania and Russia committed to demarcating their boundary in 2006 in accordance with the land and maritime treaty ratified by Russia in May 2003 and by Lithuania in 1999; Lithuania operates a simplified transit regime for Russian nationals traveling from the Kaliningrad coastal exclave into Russia, while still conforming, as a EU member state having an external border with a non-EU member, to strict Schengen border rules; in January 2018, demarcation of the Lithuania-Russia border was completed</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 64,950 (Ukraine) (as of 13 September 2022)<br>
+_refugees (country of origin)_: 66,368 (Ukraine) (as of 27 September 2022)<br>
 _stateless persons_: 2,721 (mid-year 2021)<br>
 
 **Illicit drugs**<br>

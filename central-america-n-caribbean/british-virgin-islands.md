@@ -243,7 +243,7 @@ overseas territory of the UK; internal self-governing<br>
 _name_: Road Town<br>
 _geographic coordinates_: 18 25 N, 64 37 W<br>
 _time difference_: UTC-4 (1 hour ahead of Washington, DC, during Standard Time)<br>
-_etymology_: name refers to the nautical term "roadstead" or "roads," a body of water less sheltered than a harbor but where where ships can lie reasonably safely at anchor sheltered from rip currents, spring tides, or ocean swells<br>
+_etymology_: name refers to the nautical term "roadstead" or "roads," a body of water less sheltered than a harbor but where ships can lie reasonably safely at anchor sheltered from rip currents, spring tides, or ocean swells<br>
 
 **Administrative divisions**<br>
 none (overseas territory of the UK)<br>

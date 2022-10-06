@@ -389,7 +389,7 @@ _judge selection and term of office_: Supreme Court president appointed by the p
 _subordinate courts_: Administrative Court (capital city only); provincial courts or Tribunais Judicias de Provincia; District Courts or Tribunais Judicias de Districto; customs courts; maritime courts; courts marshal; labor courts; community courts<br>
 
 **Political parties and leaders**<br>
-Democratic Movement of Mozambique (Movimento Democratico de Mocambique) or MDM [Lutero SIMANGO]<br>Front for the Liberation of Mozambique (Frente de Liberatacao de Mocambique) or FRELIMO [Filipe NYUSI]<br>Mozambican National Resistance (Resistencia Nacional Mocambicana) or RENAMO [Ossufo MOMADE]<br>Optimistic Party for the Development of Mozambique or Podemos [Helder MENDONCA]<br>
+Democratic Movement of Mozambique (Movimento Democratico de Mocambique) or MDM [Lutero SIMANGO]<br>Liberation Front of Mozambique (Frente de Liberatacao de Mocambique) or FRELIMO [Filipe NYUSI]<br>Mozambican National Resistance (Resistencia Nacional Mocambicana) or RENAMO [Ossufo MOMADE]<br><br><strong>note:</strong> only parties with seats in the legislature listed<br>
 
 **International organization participation**<br>
 ACP, AfDB, AU, C, CD, CPLP, EITI (compliant country), FAO, G-77, IAEA, IBRD, ICAO, ICC (NGOs), ICRM, IDA, IDB, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO (correspondent), ITSO, ITU, ITUC (NGOs), MIGA, NAM, OIC, OIF (observer), OPCW, SADC, UN, UNCTAD, UNESCO, UNHCR, UNIDO, Union Latina, UNISFA, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>

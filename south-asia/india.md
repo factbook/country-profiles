@@ -401,7 +401,7 @@ Aam Aadmi Party or AAP [Arvind KEJRIWAL]<br>All India Trinamool Congress or AITC
 <strong>note:</strong> India has dozens of national and regional political parties<br>
 
 **International organization participation**<br>
-ADB, AfDB (nonregional member), Arctic Council (observer), ARF, ASEAN (dialogue partner), BIMSTEC, BIS, BRICS, C, CD, CERN (observer), CICA, CP, EAS, FAO, FATF, G-15, G-20, G-24, G-5, G-77, IAEA, IBRD, ICAO, ICC (national committees), ICRM, IDA, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), LAS (observer), MIGA, MINURSO, MONUSCO, NAM, OAS (observer), OECD, OPCW, Pacific Alliance (observer), PCA, PIF (partner), SAARC, SACEP, SCO (observer), UN, UNCTAD, UNDOF, UNESCO, UNHCR, UNIDO, UNIFIL, UNISFA, UNITAR, UNMISS, UNOCI, UNSOM, UNWTO, UPU, Wassenaar Arrangement, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
+ADB, AfDB (nonregional member), Arctic Council (observer), ARF, ASEAN (dialogue partner), BIMSTEC, BIS, BRICS, C, CD, CERN (observer), CICA, CP, EAS, FAO, FATF, G-15, G-20, G-24, G-5, G-77, IAEA, IBRD, ICAO, ICC (national committees), ICRM, IDA, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), LAS (observer), MIGA, MINURSO, MONUSCO, NAM, OAS (observer), OECD, OPCW, Pacific Alliance (observer), PCA, PIF (partner), Quad, SAARC, SACEP, SCO (observer), UN, UNCTAD, UNDOF, UNESCO, UNHCR, UNHRC, UNIDO, UNIFIL, UNISFA, UNITAR, UNMISS, UNOCI, UNSOM, UNWTO, UPU, Wassenaar Arrangement, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
 
 **Diplomatic representation in the US**<br>
 _chief of mission_: Ambassador Taranjit Singh SANDHU (since 6 February 2020)<br>

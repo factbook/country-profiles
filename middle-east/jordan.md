@@ -379,7 +379,7 @@ _judge selection and term of office_: Supreme Court chief justice appointed by t
 _subordinate courts_: Courts of Appeal; Great Felonies Court; religious courts; military courts; juvenile courts; Land Settlement Courts; Income Tax Court; Higher Administrative Court; Customs Court; special courts including the State Security Court<br>
 
 **Political parties and leaders**<br>
-Jordan has 54 registered political parties, four of which currently have seats in the elected Chamber of Deputies including the Islamic Action Front, the Islamic Centrist Party, the United Jordanian Front Party, and the National Loyalty Party<br>
+Jordan has 54 registered political parties, four of which currently have seats in the elected Chamber of Deputies - the Islamic Action Front, the Islamic Centrist Party, the United Jordanian Front Party, and the National Loyalty Party<br>
 
 **International organization participation**<br>
 ABEDA, AFESD, AMF, CAEU, CD, CICA, EBRD, FAO, G-11, G-77, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IDB, IFAD, IFC, IFRCS, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), LAS, MIGA, MINUSTAH, MINUSMA, MONUSCO, NAM, NATO (partner), OIC, OPCW, OSCE (partner), PCA, UN, UNAMID, UNCTAD, UNESCO, UNHCR, UNIDO, UNISFA, UNMIL, UNMISS, UNOCI, UNRWA, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
@@ -699,7 +699,7 @@ _major seaport(s)_: Al 'Aqabah<br>
 
 **Military and security forces**<br>
 Jordanian Armed Forces (JAF): Royal Jordanian Army (includes Special Operations Forces, Border Guards, Royal Guard), Royal Jordanian Air Force, Royal Jordanian Coast Guard; Ministry of Interior: Public Security Directorate (includes national police, the Gendarmerie, and the Civil Defense Directorate) (2022)<br>
-<strong>note: </strong>the armed forces report administratively to the minister of defense and have a support role for internal security; there is no separate Ministry of Defense; the prime minister also serves as defense minister<br>
+<strong>note: </strong>the armed forces report administratively to the minister of defense and have a support role for internal security; the prime minister serves as defense minister, but there is no separate ministry of defense<br>
 
 **Military expenditures**<br>
 5% of GDP (2021 est.)<br>
@@ -715,7 +715,7 @@ approximately 94,500 active duty armed forces personnel (80,000 Army; 14,000 Air
 the JAF inventory is comprised of a wide mix of imported equipment from Europe, some Gulf States, Russia, and the US; since 2010, the Netherlands and the US have been the leading suppliers (2022)<br>
 
 **Military service age and obligation**<br>
-17 years of age for voluntary male military service (women can volunteer to serve in noncombat military positions in the Royal Jordanian Arab Army Women's Corps and RJAF); initial service term 2 years, with option to reenlist for 18 years; conscription abolished in 1991; however, in 2020, Jordan announced the reinstatement of compulsory military service for jobless men aged between 25 and 29 with 12 months of service, made up of 3 months of military training and 9 months of professional and technical training; in 2019, announced a voluntary 4-month National Military Service program for men and women aged between 18-25 years who have been unemployed for at least 6 months; service would include 1 month for military training with the remaining 3 months dedicated to vocational training in the sectors of construction and tourism (2022)<br>
+17 years of age for voluntary military service for men (women can volunteer to serve in noncombat military positions in the Royal Jordanian Arab Army Women's Corps and RJAF); initial service term 2 years, with option to reenlist for up to 18 years; conscription was abolished in 1991, but in 2020 Jordan announced the reinstatement of compulsory military service for jobless men aged between 25 and 29 with 12 months of service, made up of 3 months of military training and 9 months of professional and technical training; in 2019, Jordan announced a voluntary 4-month National Military Service program for men and women aged between 18-25 years who have been unemployed for at least 6 months; service would include 1 month for military training with the remaining 3 months dedicated to vocational training in the sectors of construction and tourism (2022)<br>
 <strong>note:</strong> most women serve in the medical service; outside the medical service, women comprised about 1.5% of the military as of 2019<br>
 
 **Military deployments**<br>
@@ -736,7 +736,7 @@ Islamic State of Iraq and ash-Sham (ISIS)<br>
 <p><em>Jordan-Iraq</em>: the two countries signed a border agreement in 1984; Jordan has ratified the treaty, but it has not been confirmed that Iraq has ratified it; as of 2010, the agreement had not been registered with the UN</p> <p><em>Jordan-Israel</em>: none identified</p> <p><em>Jordan-Saudi Arabia</em>: Jordan and Saudi Arabia signed an agreement to demarcate their maritime borders in 2007</p> <p><em>Jordan-Syria</em>: the two countries signed an agreement in 2005 to settle the border dispute based on a 1931 demarcation accord; the two countries began demarcation in 2006</p> <p><em>Jordan-West Bank</em>: none identified</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 2,307,011 (Palestinian refugees) (2020); 66,665 (Iraq), 12,866 (Yemen), 6,013 Sudan (2021); 676,496 (Syria) (2022)<br>
+_refugees (country of origin)_: 2,307,011 (Palestinian refugees) (2020); 66,665 (Iraq), 12,866 (Yemen), 6,013 Sudan (2021); 676,606 (Syria) (2022)<br>
 _stateless persons_: 63 (mid-year 2021)<br>
 
 **Trafficking in persons**<br>

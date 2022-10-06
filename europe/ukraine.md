@@ -381,7 +381,7 @@ _subordinate courts_: Courts of Appeal; district courts<br>
 Batkivshchyna (Fatherland) [Yuliya TYMOSHENKO]<br>European Solidarity (BPP-Solidarity) [Petro POROSHENKO] <br>Holos (Voice) [Kira RUDYK]<br>Opposition Bloc or OB [Evgeny MURAYEV]<br>Opposition Platform-For Life [Yuriy BOYKO, Vadim RABINOVICH]<br>Radical Party [Oleh LYASHKO]<br>Samopomich (Self Reliance) [Andriy SADOVYY]<br>Servant of the People [Oleksandr KORNIENKO]<br>Svoboda (Freedom) [Oleh TYAHNYBOK]<br>
 
 **International organization participation**<br>
-Australia Group, BSEC, CBSS (observer), CD, CE, CEI, CICA (observer), CIS (participating member, has not signed the 1993 CIS charter), EAEC (observer), EAPC, EBRD, FAO, GCTU, GUAM, IAEA, IBRD, ICAO, ICC (national committees), ICRM, IDA, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITU, ITUC (NGOs), LAIA (observer), MIGA, MONUSCO, NAM (observer), NSG, OAS (observer), OIF (observer), OPCW, OSCE, PCA, PFP, SELEC (observer), UN, UNCTAD, UNESCO, UNFICYP, UNIDO, UNISFA, UNMIL, UNMISS, UNOCI, UNWTO, UPU, Wassenaar Arrangement, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO, ZC<br>
+Australia Group, BSEC, CBSS (observer), CD, CE, CEI, CICA (observer), CIS (participating member, has not signed the 1993 CIS charter), EAEC (observer), EAPC, EBRD, FAO, GCTU, GUAM, IAEA, IBRD, ICAO, ICC (national committees), ICRM, IDA, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITU, ITUC (NGOs), LAIA (observer), MIGA, MONUSCO, NAM (observer), NSG, OAS (observer), OIF (observer), OPCW, OSCE, PCA, PFP, SELEC (observer), UN, UNCTAD, UNESCO, UNFICYP, UNHRC, UNIDO, UNISFA, UNMIL, UNMISS, UNOCI, UNWTO, UPU, Wassenaar Arrangement, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO, ZC<br>
 
 **Diplomatic representation in the US**<br>
 _chief of mission_: Ambassador Oksana Serhiyivna MARKAROVA (since 7 July 2021)<br>
@@ -714,7 +714,7 @@ _river port(s)_: Kherson, Kyiv (Dnieper River), Mykolaiv (Pivdennyy Buh River)<b
 ## Military and Security
 
 **Military and security forces**<br>
-Armed Forces of Ukraine (Zbroyni Syly Ukrayiny, ZSU): Ground Forces (Sukhoputni Viys’ka), Naval Forces (Viys’kovo-Mors’ki Syly, VMS), Air Forces (Povitryani Syly, PS), Air Assault Forces (Desantno-shturmovi Viyska, DShV), Ukrainian Special Operations Forces (UASOF), Territorial Defense Forces (Reserves); Ministry of Internal Affairs: National Guard of Ukraine, State Border Guard Service of Ukraine (includes Maritime Border Guard) (2022)<br>
+Armed Forces of Ukraine (AFU; Zbroyni Syly Ukrayiny or ZSU): Ground Forces (Sukhoputni Viys’ka), Naval Forces (Viys’kovo-Mors’ki Syly, VMS), Air Forces (Povitryani Syly, PS), Air Assault Forces (Desantno-shturmovi Viyska, DShV), Ukrainian Special Operations Forces (UASOF), Territorial Defense Forces (Reserves); Ministry of Internal Affairs: National Guard of Ukraine, State Border Guard Service of Ukraine (includes Maritime Border Guard) (2022)<br>
 <strong>note 1:</strong> in the event that martial law is declared, all National Guard units, with certain exceptions such as those tasked with providing for diplomatic security of embassies and consulates, would come under the command of the Ministry of Defense as auxiliary forces to the Armed Forces<br><br><strong>note 2: </strong>Territorial Defense Forces have military, civilian, and civilian-military components; its forces are organized into brigades for each of the 24 oblasts, plus the capitol city of Kyiv<br>
 
 **Military expenditures**<br>
@@ -725,8 +725,8 @@ Armed Forces of Ukraine (Zbroyni Syly Ukrayiny, ZSU): Ground Forces (Sukhoputni 
 3.1% of GDP (2017) (approximately $8.54 billion)<br>
 
 **Military and security service personnel strengths**<br>
-approximately 700,000 active duty military personnel, including Territorial Defense Forces (July 2022)<br>
-<strong>note 1:</strong> following the Russian invasion of Ukraine in February 2022, President ZELENSKY announced a general mobilization of the country<strong><br><br>note 2: </strong>prior to the Russian invasion, approximately 200,000 active troops (125,000 Army; 25,000 Airborne/Air Assault Forces; 2,000 Special Operations Forces; 10,000 Navy; 40,000 Air Force); approximately 50,000 National Guard; approximately 40,000 State Border Guard<br>
+up to 700,000 active duty personnel, including the Armed Forces, Territorial Defense Forces, National Guard, and State Border Guard (July 2022)<br>
+<strong>note 1:</strong> following the Russian invasion of Ukraine in February 2022, President ZELENSKY announced a general mobilization of the country; prior to the invasion, approximately 200,000 active Armed Forces troops (125,000 Army; 25,000 Airborne/Air Assault Forces; 2,000 Special Operations Forces; 10,000 Navy; 40,000 Air Force); approximately 50,000 National Guard; approximately 40,000 State Border Guard<br>
 
 **Military equipment inventories and acquisitions**<br>
 the Ukrainian military is equipped mostly with Russian-origin and Soviet-era weapons systems; since the Russian invasion in February 2022, it has received considerable quantities of weapons, including more modern Western systems, from European countries and the US; Ukraine has a broad defense industry capable of building Soviet-era land systems and maintaining and upgrading Soviet-era combat aircraft, as well as missile and air defense systems (2022)<br>

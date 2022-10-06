@@ -392,7 +392,7 @@ _subordinate courts_: High Court; magistrate courts; Industrial Relations Court;
 Democratic Progressive Party or DPP [Peter MUTHARIKA]<br>Malawi Congress Party or MCP [Lazarus CHAKWERA]<br>People's Party or PP [Joyce BANDA]<br>United Democratic Front or UDF<br>United Transformation Movement or UTM [Saulos CHILIMA]<br>
 
 **International organization participation**<br>
-ACP, AfDB, AU, C, CD, COMESA, FAO, G-77, IAEA, IBRD, ICAO, ICCt, ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ISO (correspondent), ITSO, ITU, ITUC (NGOs), MIGA, MINURSO, MONUSCO, NAM, OPCW, SADC, UN, UNCTAD, UNESCO, UNIDO, UNISFA, UNOCI, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
+ACP, AfDB, AU, C, CD, COMESA, FAO, G-77, IAEA, IBRD, ICAO, ICCt, ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ISO (correspondent), ITSO, ITU, ITUC (NGOs), MIGA, MINURSO, MONUSCO, NAM, OPCW, SADC, UN, UNCTAD, UNESCO, UNHRC, UNIDO, UNISFA, UNOCI, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
 
 **Diplomatic representation in the US**<br>
 _chief of mission_: Ambassador Esme Jynet CHOMBO (since 19 April 2022)<br>
@@ -709,19 +709,19 @@ Malawi Defense Force (MDF): Army (includes marine unit), Air Force (established 
 0.7% of GDP (2017 est.) (approximately $60 million)<br>
 
 **Military and security service personnel strengths**<br>
-information varies; approximately 8,000 personnel (including about 200 air and 200 marine forces) (2022)<br>
+information varies; approximately 8,000 active duty troops (including about 500 air and marine forces personnel) (2022)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the MDF's inventory is comprised of mostly obsolescent or second-hand equipment from Europe and South Africa; since 2010, it has received limited amounts of mostly second-hand equipment from China, South Africa, and the UK, as well as non-lethal equipment donated by the US (2021)<br>
+the MDF's inventory is comprised of mostly obsolescent or second-hand equipment from China, a few European countries, and South Africa (2021)<br>
 
 **Military service age and obligation**<br>
-18 years of age for men and women for voluntary military service; high school equivalent required for enlisted recruits and college equivalent for officer recruits; initial engagement is 7 years for enlisted personnel and 10 years for officers (2021)<br>
+18 years of age for men and women for voluntary military service; high school equivalent required for enlisted recruits and college equivalent for officer recruits; initial engagement is 7 years for enlisted personnel and 10 years for officers (2022)<br>
 
 **Military deployments**<br>
 750 Democratic Republic of the Congo (MONUSCO) (May 2022)<br>
 
 **Military - note**<br>
-the MDF&rsquo;s primary responsibility is external security; it is also tasked as necessary with carrying out policing or other domestic activities, such as disaster relief; Malawi contributes regularly to African Union and UN peace support operations (2022)<br>
+the MDF’s primary responsibility is external security; it is also tasked as necessary with carrying out policing or other domestic activities, such as disaster relief; Malawi contributes regularly to African Union and UN peace support operations<br><br>the MDF was established in 1964 from elements of the Kings African Rifles (KAR), a British colonial regiment raised from Great Britain's various possessions in East Africa from 1902 until independence in the 1960s; the KAR conducted both military and internal security functions within the colonial territories, and served outside the territories during the World Wars (2022)<br>
 
 ## Transnational Issues
 

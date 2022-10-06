@@ -341,7 +341,7 @@ presidential republic<br>
 _name_: Harare<br>
 _geographic coordinates_: 17 49 S, 31 02 E<br>
 _time difference_: UTC+2 (7 hours ahead of Washington, DC, during Standard Time)<br>
-_etymology_: named after a village of Harare at the site of the present capital; the village name derived from a Shona chieftain, Ne-harawa, whose name meant "he who does not sleep"<br>
+_etymology_: named after a village of Harare at the site of the present capital; the village name derived from a Shona chieftain, NE-HARAWA, whose name meant "he who does not sleep"<br>
 
 **Administrative divisions**<br>
 8 provinces and 2 cities* with provincial status; Bulawayo*, Harare*, Manicaland, Mashonaland Central, Mashonaland East, Mashonaland West, Masvingo, Matabeleland North, Matabeleland South, Midlands<br>
@@ -389,10 +389,10 @@ _judge selection and term of office_: Supreme Court judges appointed by the pres
 _subordinate courts_: High Court; Labor Court; Administrative Court; regional magistrate courts; customary law courts; special courts<br>
 
 **Political parties and leaders**<br>
-MDC Alliance [Nelson CHAMISA] <br>Movement for Democratic Change - MDC-T [Douglas MWONZORA]<br>National People's Party or NPP [Joyce MUJURU] (formerly Zimbabwe People First or ZimPF)<br>Zimbabwe African National Union-Patriotic Front or ZANU-PF [Emmerson Dambudzo MNANGAGWA]<br>Zimbabwe African Peoples Union or ZAPU [Sibangalizwe NKOMO]<br>
+Citizens Coalition for Change [Nelson CHAMISA] <br>Movement for Democratic Change - MDC-T [Douglas MWONZORA]<br>National People's Party or NPP [Conrad SANGMA] (formerly Zimbabwe People First or ZimPF)<br>Zimbabwe African National Union-Patriotic Front or ZANU-PF [Emmerson Dambudzo MNANGAGWA]<br>Zimbabwe African Peoples Union or ZAPU [Michael NKOMO]<br>
 
 **International organization participation**<br>
-ACP, AfDB, AU, COMESA, FAO, G-15, G-77, IAEA, IBRD, ICAO, ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, NAM, OPCW, PCA, SADC, UN, UNAMID, UNCTAD, UNESCO, UNIDO, UNISFA, UNMIL, UNMISS, UNOCI, UNSOM, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
+ACP, AfDB, ATMIS, AU, COMESA, FAO, G-15, G-77, IAEA, IBRD, ICAO, ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, NAM, OPCW, PCA, SADC, UN, UNAMID, UNCTAD, UNESCO, UNIDO, UNISFA, UNMIL, UNMISS, UNOCI, UNSOM, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
 
 **Diplomatic representation in the US**<br>
 _chief of mission_: Ambassador Tadeous Tafirenyika CHIFAMBA (since 7 July 2021);<br>

@@ -677,11 +677,11 @@ approximately 17,000 active duty armed forces personnel (12,500 Army, including 
 the military's inventory consists of weapons from a wide variety of sources, including Western Europe, Russia, the United Arab Emirates, and the US; the US has been the leading supplier of arms to Kuwait since 2010 (2022)<br>
 
 **Military service age and obligation**<br>
-17-21 years of age for voluntary military service; Kuwait reintroduced 1-year mandatory service for men aged 18-35 in May 2017 after having suspended conscription in 2001; service is divided in two phases – four months for training and eight months for military service; women were allowed to volunteer in 2021 (2022)<br><br> <br>
+17-21 years of age for voluntary military service; Kuwait reintroduced 12-month mandatory service for men aged 18-35 in May 2017 after having suspended conscription in 2001; mandatory service is divided in two phases – 4 months for training and 8 months for military service; women were allowed to volunteer in 2021 (2022)<br><br> <br>
 &nbsp;<br>
 
 **Military - note**<br>
-Kuwait has Major Non-NATO Ally (MNNA) status with the US; MNNA is a designation under US law that provides foreign partners with certain benefits in the areas of defense trade and security cooperation; while MNNA status provides military and economic privileges, it does not entail any security commitments (2022)<br>
+as of 2022, the US had approximately 13,000 military personnel based in Kuwait as part of a 1991 Defense Cooperation Agreement and a 2013 Acquisition and Cross-Servicing Agreement<br><br>Kuwait has Major Non-NATO Ally (MNNA) status with the US; MNNA is a designation under US law that provides foreign partners with certain benefits in the areas of defense trade and security cooperation; while MNNA status provides military and economic privileges, it does not entail any security commitments (2022)<br>
 
 ## Transnational Issues
 

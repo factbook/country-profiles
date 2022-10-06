@@ -310,7 +310,7 @@ _name_: Stockholm<br>
 _geographic coordinates_: 59 20 N, 18 03 E<br>
 _time difference_: UTC+1 (6 hours ahead of Washington, DC, during Standard Time)<br>
 _daylight saving time_: +1hr, begins last Sunday in March; ends last Sunday in October<br>
-_etymology_: "stock" and "holm" literally mean "log" and "islet" in Swedish, but there is no consensus as to what the words refer to<br>
+_etymology_: <em>stock</em> and <em>holm</em> literally mean "log" and "islet" in Swedish, but there is no consensus as to what the words refer to<br>
 
 **Administrative divisions**<br>
 21 counties (lan, singular and plural); Blekinge, Dalarna, Gavleborg, Gotland, Halland, Jamtland, Jonkoping, Kalmar, Kronoberg, Norrbotten, Orebro, Ostergotland, Skane, Sodermanland, Stockholm, Uppsala, Varmland, Vasterbotten, Vasternorrland, Vastmanland, Vastra Gotaland<br>
@@ -349,7 +349,7 @@ _elections/appointments_: the monarchy is hereditary; following legislative elec
 **Legislative branch**<br>
 _description_: unicameral Parliament or Riksdag (349 seats; 310 members directly elected in multi-seat constituencies by open party-list proportional representation vote and 39 members in "at-large" seats directly elected by open party-list proportional representation vote; members serve 4-year terms)<br>
 _elections_: last held on 11 September 2022<br>
-_election results_: percent of vote by party - SAP 30.3%, M 19.1%, SD 20.5%, C 6.7%, V 6.7%, KD 5.3%, L 4.6%, MP 5.1%, other 1.7%; seats by party - SAP 107, M 68, SD 73, C 24, V 24, KD 19, L 16, MP 18; composition as of mid-2022 - men 188, women 161, percent of women 46%<br>
+_election results_: percent of vote by party - S/SAP 30.3%, M 19.1%, SD 20.5%, C 6.7%, V 6.7%, KD 5.3%, L 4.6%, MP 5.1%, other 1.7%; seats by party - S/SAP 107, M 68, SD 73, C 24, V 24, KD 19, L 16, MP 18; composition as of mid-2022 - men 188, women 161, percent of women 46%<br>
 
 **Judicial branch**<br>
 _highest courts_: Supreme Court of Sweden (consists of 16 justices, including the court chairman); Supreme Administrative Court (consists of 18 justices, including the court president)<br>
@@ -357,7 +357,7 @@ _judge selection and term of office_: Supreme Court and Supreme Administrative C
 _subordinate courts_: first instance, appellate, general, and administrative courts; specialized courts that handle cases such as land and environment, immigration, labor, markets, and patents<br>
 
 **Political parties and leaders**<br>
-Center Party (Centerpartiet) or C [Annie LOOF resigned on 15 September 2022]<br>Christian Democrats (Kristdemokraterna) or KD [Ebba BUSCH]<br>Green Party (Miljopartiet de Grona) or MP [Marta STEVENI and Per BOLUND]<br>Left Party (Vansterpartiet) or V [Nooshi DADGOSTAR]<br>Liberal Party (Liberalerna) or L [Johan PEHRSON]<br>Moderate Party (Moderaterna) or M [Ulf KRISTERSSON]<br>Sweden Democrats (Sverigedemokraterna) or SD [Jimmie AKESSON]<br>Swedish Social Democratic Party (Socialdemokraterna) or SAP [Magdalena ANDERSSON]<br>
+Center Party (Centerpartiet) or C [Annie LOOF resigned on 15 September 2022]<br>Christian Democrats (Kristdemokraterna) or KD [Ebba BUSCH]<br>Green Party (Miljopartiet de Grona) or MP [Marta STEVENI and Per BOLUND]<br>Left Party (Vansterpartiet) or V [Nooshi DADGOSTAR]<br>Moderate Party (Moderaterna) or M [Ulf KRISTERSSON]<br>Sweden Democrats (Sverigedemokraterna) or SD [Jimmie AKESSON]<br>Swedish Social Democratic Party (Socialdemokraterna) or S/SAP [Magdalena ANDERSSON]<br>The Liberals (Liberalerna) or L [Johan PEHRSON]<br>
 
 **International organization participation**<br>
 ADB (nonregional member), AfDB (nonregional member), Arctic Council, Australia Group, BIS, CBSS, CD, CE, CERN, EAPC, EBRD, ECB, EIB, EITI (implementing country), EMU, ESA, EU, FAO, FATF, G-9, G-10, IADB, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IEA, IFAD, IFC, IFRCS, IGAD (partners), IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, MINUSMA, MONUSCO, NC, NEA, NIB, NSG, OAS (observer), OECD, OPCW, OSCE, Paris Club, PCA, PFP, Schengen Convention, UN, UNCTAD, UNESCO, UNHCR, UNIDO, UNMISS, UNMOGIP, UNRWA, UN Security Council (temporary), UNSOM, UNTSO, UPU, Wassenaar Arrangement, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO, ZC<br>
@@ -723,6 +723,6 @@ Islamic State of Iraq and ash-Sham (ISIS)<br>
 <p>none identified</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 114,995 (Syria), 28,744 (Afghanistan), 26,911 (Eritrea), 11,574 (Somalia), 11,153 (Iraq), 7,516 (Iran) (2020); 45,452 (Ukraine) (as of 15 September 2022)<br>
+_refugees (country of origin)_: 114,995 (Syria), 28,744 (Afghanistan), 26,911 (Eritrea), 11,574 (Somalia), 11,153 (Iraq), 7,516 (Iran) (2020); 45,895 (Ukraine) (as of 23 September 2022)<br>
 _stateless persons_: 50,098 (mid-year 2021); note - the majority of stateless people are from the Middle East and Somalia<br>
 

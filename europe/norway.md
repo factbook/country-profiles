@@ -306,7 +306,7 @@ _name_: Oslo<br>
 _geographic coordinates_: 59 55 N, 10 45 E<br>
 _time difference_: UTC+1 (6 hours ahead of Washington, DC, during Standard Time)<br>
 _daylight saving time_: +1hr, begins last Sunday in March; ends last Sunday in October<br>
-_etymology_: the medieval name was spelt "Aslo"; the "as" component refered either to the Ekeberg ridge southeast of the town ("as" in modern Norwegian), or to the Aesir (Norse gods); "lo" refered to "meadow," so the most likely interpretations would have been either "the meadow beneath the ridge" or "the meadow of the gods"; both explanations are considered equally plausible<br>
+_etymology_: the medieval name was spelt "Aslo"; the <em>as</em> component refered either to the Ekeberg ridge southeast of the town ("as" in modern Norwegian), or to the Aesir (Norse gods); <em>lo</em> refered to "meadow," so the most likely interpretations would have been either "the meadow beneath the ridge" or "the meadow of the gods"; both explanations are considered equally plausible<br>
 
 **Administrative divisions**<br>
 11 counties (fylker, singular - fylke); Agder, Innlandet, More og Romsdal, Nordland, Oslo, Rogaland, Troms og Finnmark, Trondelag, Vestfold og Telemark, Vestland, Viken<br>
@@ -713,6 +713,6 @@ Norway is a member of NATO and was one of the original 12 countries to sign the 
 <p><em>Norway-Antarctica</em>: Norway asserts a territorial claim in Antarctica (Queen Maud Land and its continental shelf)</p> <p><em>Norway-Russia</em>: Russia amended its 2001 CLCS submission in 2015 and 2021, each time delineating the outer limits of its continental shelf further into the Arctic Ocean; Norway and Russia signed a comprehensive maritime boundary agreement in 2010, ending a dispute over an area of the Barents Sea by dividing the territory equally</p> <p><em>Norway-Sweden</em>: none identified</p> <p> </p> <p> </p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 15,542 (Syria), 11,965 (Eritrea) (mid-year 2021); 27,294 (Ukraine) (as of 16 September 2022)<br>
+_refugees (country of origin)_: 15,542 (Syria), 11,965 (Eritrea) (mid-year 2021); 27,845 (Ukraine) (as of 23 September 2022)<br>
 _stateless persons_: 4,154 (mid-year 2021)<br>
 

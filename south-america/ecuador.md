@@ -325,7 +325,7 @@ _name_: Quito<br>
 _geographic coordinates_: 0 13 S, 78 30 W<br>
 _time difference_: UTC-5 (same time as Washington, DC, during Standard Time)<br>
 _time zone note_: Ecuador has two time zones, including the Galapagos Islands (UTC-6)<br>
-_etymology_: named after the Quitus, a Pre-Columbian indigenous people credited with founding the city<br>
+_etymology_: named after the Quitu, a Pre-Columbian indigenous people credited with founding the city; the name is also a combination of two Tsafiki words: <em>quitso</em> (meaning "center" or "half") + <em>to</em> or <em>tu</em> ("the world"); the combination roughly translates as "center of the world" and reflects the fact that native peoples recognized that at the two annual equinoxes, the overhead sun in that area (only about 20 km (12 mi) north of the equator) did not display any shade and thus must be in the middle of the world<br>
 
 **Administrative divisions**<br>
 24 provinces (provincias, singular - provincia); Azuay, Bolivar, Canar, Carchi, Chimborazo, Cotopaxi, El Oro, Esmeraldas, Galapagos, Guayas, Imbabura, Loja, Los Rios, Manabi, Morona-Santiago, Napo, Orellana, Pastaza, Pichincha, Santa Elena, Santo Domingo de los Tsachilas, Sucumbios, Tungurahua, Zamora-Chinchipe<br>

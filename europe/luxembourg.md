@@ -304,7 +304,7 @@ _name_: Luxembourg<br>
 _geographic coordinates_: 49 36 N, 6 07 E<br>
 _time difference_: UTC+1 (6 hours ahead of Washington, DC, during Standard Time)<br>
 _daylight saving time_: +1hr, begins last Sunday in March; ends last Sunday in October<br>
-_etymology_: the name derives from the Celtic "lucilem" (little) and the German "burg" (castle or fortress) to produce the meaning of the "little castle"; the name is actually ironic, since for centuries the Fortress of Luxembourg was one of Europe's most formidable fortifications; the name passed to the city that grew around the fortress<br>
+_etymology_: the name derives from the Celtic <em>lucilem</em> (little) and the German <em>burg</em> (castle or fortress) to produce the meaning of the "little castle"; the name is actually ironic, since for centuries the Fortress of Luxembourg was one of Europe's most formidable fortifications; the name passed to the city that grew around the fortress<br>
 
 **Administrative divisions**<br>
 12 cantons (cantons, singular - canton); Capellen, Clervaux, Diekirch, Echternach, Esch-sur-Alzette, Grevenmacher, Luxembourg, Mersch, Redange, Remich, Vianden, Wiltz<br>
@@ -354,7 +354,7 @@ _subordinate courts_: Court of Accounts; district and local tribunals and courts
 Alternative Democratic Reform Party or ADR [Fred KEUP]<br>Christian Social People's Party or CSV [Claude WISELER]<br>Democratic Party or DP [Corinne CAHEN]<br>Green Party [Djuna BERNARD, Meris SEHOVIC]<br>Luxembourg Socialist Workers' Party or LSAP [Yves CRUCHTEN]<br>The Left (dei Lenk/la Gauche) [collective leadership, Central Committee]<br>Pirate Party [Sven CLEMENT, Marc GOERGEN]<br>
 
 **International organization participation**<br>
-ADB (nonregional member), Australia Group, Benelux, BIS, CD, CE, EAPC, EBRD, ECB, EIB, EMU, ESA, EU, FAO, FATF, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IEA, IFAD, IFC, IFRCS, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, NATO, NEA, NSG, OAS (observer), OECD, OIF, OPCW, OSCE, PCA, Schengen Convention, UN, UNCTAD, UNESCO, UNHCR, UNIDO, UNRWA, UPU, Wassenaar Arrangement, WCO, WHO, WIPO, WMO, WTO, ZC<br>
+ADB (nonregional member), Australia Group, Benelux, BIS, CD, CE, EAPC, EBRD, ECB, EIB, EMU, ESA, EU, FAO, FATF, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IEA, IFAD, IFC, IFRCS, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, NATO, NEA, NSG, OAS (observer), OECD, OIF, OPCW, OSCE, PCA, Schengen Convention, UN, UNCTAD, UNESCO, UNHCR, UNHRC, UNIDO, UNRWA, UPU, Wassenaar Arrangement, WCO, WHO, WIPO, WMO, WTO, ZC<br>
 
 **Diplomatic representation in the US**<br>
 _chief of mission_: Ambassador Nicole BINTNER-BAKSHIAN (since 19 August 2021)<br>
@@ -688,11 +688,11 @@ approximately 900 active personnel (2022)<br>
 the inventory of Luxembourg's Army is a small mix of Western-origin equipment; since 2010, it has received equipment from several European countries (2021)<br>
 
 **Military service age and obligation**<br>
-18-26 years of age for male and female voluntary military service; no conscription (abolished 1969); Luxembourg citizen or EU citizen with 3-year residence in Luxembourg (2021)<br>
+18-26 years of age for voluntary military service for men and women; no conscription (abolished 1969); Luxembourg citizen or EU citizen with 3-year residency in Luxembourg (2022)<br>
 <strong>note:</strong> as of 2019, women made up about 8% of the military's full-time personnel<br>
 
 **Military - note**<br>
-Luxembourg is a member of NATO and was one of the original 12 countries to sign the North Atlantic Treaty (also known as the Washington Treaty) in 1949<br> <p>in 2015, Belgium, the Netherlands, and Luxembourg signed an agreement to conduct joint air policing of their territories; under the agreement, which went into effect in January of 2017, the Belgian and Dutch Air Forces trade responsibility for patrolling the skies over the three countries</p><br>
+Luxembourg is a member of NATO and was one of the original 12 countries to sign the North Atlantic Treaty (also known as the Washington Treaty) in 1949<br><br>in 2015, Belgium, the Netherlands, and Luxembourg signed an agreement to conduct joint air policing of their territories; under the agreement, which went into effect in January of 2017, the Belgian and Dutch Air Forces trade responsibility for patrolling the skies over the three countries (2022)<br>
 
 ## Transnational Issues
 

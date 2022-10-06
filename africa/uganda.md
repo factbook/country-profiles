@@ -392,7 +392,7 @@ _subordinate courts_: Court of Appeal (also acts as the Constitutional Court); H
 Activist Party [Stephen BAMPIGGA]<br>Alliance for National Transformation or ANT [Alice ALASO, acting national coordinator]<br>Conservative Party [Walyemera Daniel MASUMBA]<br>Democratic Party or DP [Norbert MAO]<br>Forum for Democratic Change or FDC [Patrick Oboi AMURIAT]<br>Justice Forum or JEEMA [Asuman BASALIRWA]<br>National Resistance Movement or NRM [Yoweri MUSEVENI]<br>National Unity Platform [Nkonge KIBALAMA]<br>Uganda People's Congress or UPC [James AKENA]<br>
 
 **International organization participation**<br>
-ACP, AfDB, AU, C, COMESA, EAC, EADB, FAO, G-77, IAEA, IBRD, ICAO, ICC (national committees), ICCt, IDA, IDB, IFAD, IFC, IFRCS, IGAD, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ISO (correspondent), ITSO, ITU, ITUC (NGOs), MIGA, NAM, OIC, OPCW, PCA, UN, UNCTAD, UNESCO, UNHCR, UNIDO, UNISFA, UNOCI, UNSOM, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
+ACP, AfDB, ATMIS, AU, C, COMESA, EAC, EADB, FAO, G-77, IAEA, IBRD, ICAO, ICC (national committees), ICCt, IDA, IDB, IFAD, IFC, IFRCS, IGAD, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ISO (correspondent), ITSO, ITU, ITUC (NGOs), MIGA, NAM, OIC, OPCW, PCA, UN, UNCTAD, UNESCO, UNHCR, UNIDO, UNISFA, UNOCI, UNSOM, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
 
 **Diplomatic representation in the US**<br>
 _chief of mission_: Ambassador Mull Ssebujja KATENDE (since 8 September 2017)<br>

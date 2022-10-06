@@ -367,7 +367,6 @@ _subordinate courts_: judicial circuit courts; special courts, including crimina
 
 **Political parties and leaders**<br>
 All Liberian Party or ALP [Benoi UREY]<br>Alliance for Peace and Democracy or APD [Marcus S. G. DAHN]<br>Alternative National Congress or ANC [Orishil GOULD]<br>Coalition for Democratic Change [George WEAH] (includes CDC, NPP, and LPDP) Congress for Democratic Change or CDC [Mulbah MORLU]<br>Liberia Destiny Party or LDP [Nathaniel BARNES]<br>Liberia National Union or LINU [Nathaniel BLAMA]<br>Liberia Transformation Party or LTP [Julius SUKU]<br>Liberian People Democratic Party or LPDP [Alex J. TYLER]<br>Liberian People's Party or LPP [Yanqui ZAZA] <br>Liberty Party or LP [Musa Hassan BILITY]<br>Movement for Democracy and Reconstruction or MDR [Prince Y. JOHNSON]<br>Movement for Economic Empowerment [Dr. J. Mill JONES]<br>Movement for Progressive Change or MPC [Simeon FREEMAN]<br>National Democratic Coalition or NDC [Dew MAYSON]<br>National Democratic Party of Liberia or NDPL [D. Nyandeh SIEH]<br>National Patriotic Party or NPP [Jewel HOWARD TAYLOR]<br>National Reformist Party or NRP [Maximillian T. W. DIABE]<br>National Union for Democratic Progress or NUDP [Victor BARNEY]<br>People's Unification Party or PUP [Isobe GBORKORKOLLIE]<br>Unity Party or UP [Rev. J. Luther TARPEH]<br>United People's Party [MacDonald WENTO]<br>Victory for Change Party or VCP [Marcus R. JONES]<br>
-Musa Hassan Bility<br>
 
 **International organization participation**<br>
 ACP, AfDB, AU, ECOWAS, EITI (compliant country), FAO, G-77, IAEA, IBRD, ICAO, ICC (NGOs), ICCt, ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, ISO (correspondent), ITU, ITUC (NGOs), MIGA, MINUSMA, NAM, OPCW, UN, UNCTAD, UNESCO, UNIDO, UNISFA, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO (observer)<br>
@@ -687,11 +686,11 @@ Armed Forces of Liberia (AFL): Army, Liberian Coast Guard, Air Wing (2022)<br>
 approximately 2,000 active personnel (2022)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the AFL is poorly armed; it has received limited quantities of equipment since 2010, including donations, from countries such as China and the US (2021)<br>
+the military has a limited inventory; since 2010, it has received small quantities of equipment, including donations, from countries such as China and the US (2021)<br>
 
 **Military service age and obligation**<br>
-18-35 years of age for men and women for voluntary military service; no conscription (2021)<br>
-<strong>note:</strong> as of 2020, women made up about .4% of the active military<br>
+18-35 years of age for men and women for voluntary military service; no conscription (2022)<br>
+<strong>note:</strong> as of 2020, women made up less than 1% of the active military<br>
 
 **Military deployments**<br>
 160 Mali (MINUSMA) (May 2022)<br>

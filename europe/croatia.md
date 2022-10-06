@@ -324,7 +324,7 @@ _name_: Zagreb<br>
 _geographic coordinates_: 45 48 N, 16 00 E<br>
 _time difference_: UTC+1 (6 hours ahead of Washington, DC, during Standard Time)<br>
 _daylight saving time_: +1hr, begins last Sunday in March; ends last Sunday in October<br>
-_etymology_: the name seems to be related to "digging"; archeologists suggest that the original settlement was established beyond a water-filled hole or "graba" and that the name derives from this; "za" in Slavic means "beyond"; the overall meaning may be "beyond the trench (fault, channel, ditch)"<br>
+_etymology_: the name seems to be related to "digging"; archeologists suggest that the original settlement was established beyond a water-filled hole or <em>graba</em> and that the name derives from this; <em>za</em> in Slavic means "beyond"; the overall meaning may be "beyond the trench (fault, channel, ditch)"<br>
 
 **Administrative divisions**<br>
 20 counties (zupanije, zupanija - singular) and 1 city* (grad - singular) with special county status; Bjelovarsko-Bilogorska (Bjelovar-Bilogora), Brodsko-Posavska (Brod-Posavina), Dubrovacko-Neretvanska (Dubrovnik-Neretva), Istarska (Istria), Karlovacka (Karlovac), Koprivnicko-Krizevacka (Koprivnica-Krizevci), Krapinsko-Zagorska (Krapina-Zagorje), Licko-Senjska (Lika-Senj), Medimurska (Medimurje), Osjecko-Baranjska (Osijek-Baranja), Pozesko-Slavonska (Pozega-Slavonia), Primorsko-Goranska (Primorje-Gorski Kotar), Sibensko-Kninska (Sibenik-Knin), Sisacko-Moslavacka (Sisak-Moslavina), Splitsko-Dalmatinska (Split-Dalmatia), Varazdinska (Varazdin), Viroviticko-Podravska (Virovitica-Podravina), Vukovarsko-Srijemska (Vukovar-Syrmia), Zadarska (Zadar), Zagreb*, Zagrebacka (Zagreb county)<br>
@@ -735,7 +735,7 @@ Croatia joined NATO in 2009<br>
 <p>dispute remains with Bosnia and Herzegovina over several small sections of the boundary related to maritime access that hinders ratification of the 1999 border agreement; since the breakup of Yugoslavia in the early 1990s, Croatia and Slovenia have each claimed sovereignty over Piranski Bay and four villages, and Slovenia has objected to Croatia's claim of an exclusive economic zone in the Adriatic Sea; in 2009, however Croatia and Slovenia signed a binding international arbitration agreement to define their disputed land and maritime borders, which led to Slovenia lifting its objections to Croatia joining the EU; Slovenia continues to impose a hard border Schengen regime with Croatia, which joined the EU in 2013 but has not yet fulfilled Schengen requirements</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 17,718 (Ukraine) (as of 13 September 2022)<br>
+_refugees (country of origin)_: 18,328 (Ukraine) (as of 26 September 2022)<br>
 _stateless persons_: 2,910 (mid-year 2021)<br>
 <strong>note: </strong>748,975 estimated refugee and migrant arrivals (January 2015-August 2022)<br>
 

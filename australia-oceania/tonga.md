@@ -306,7 +306,7 @@ _name_: Nuku'alofa<br>
 _geographic coordinates_: 21 08 S, 175 12 W<br>
 _time difference_: UTC+13 (18 hours ahead of Washington, DC, during Standard Time)<br>
 _daylight saving time_: +1hr, begins first Sunday in November; ends second Sunday in January<br>
-_etymology_: composed of the words "nuku," meaning "residence or abode," and "alofa," meaning "love," to signify "abode of love"<br>
+_etymology_: composed of the words <em>nuku</em>, meaning "residence or abode," and <em>alof</em>a, meaning "love," to signify "abode of love"<br>
 
 **Administrative divisions**<br>
 5 island divisions; 'Eua, Ha'apai, Ongo Niua, Tongatapu, Vava'u<br>

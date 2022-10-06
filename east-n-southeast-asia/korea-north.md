@@ -334,7 +334,7 @@ _judge selection and term of office_: judges elected by the Supreme People's Ass
 _subordinate courts_: lower provincial courts as determined by the Supreme People's Assembly<br>
 
 **Political parties and leaders**<br>
-<strong>major parties:</strong><br>Korean Workers' Party or KWP [KIM Jong Un, general secretary]<br>General Association of Korean Residents in Japan (Chongryon) [HO Chong Man]<br><strong>minor parties:</strong> <br>Chondoist Chongu Party [RI Myong Chol] (under KWP control)<br>Social Democratic Party or KSDP [PAK Yong Il] (under KWP control) (2021)<br>
+<strong>major parties:</strong><br>Korean Workers' Party or KWP [KIM Jong Un, general secretary]<br>General Association of Korean Residents in Japan (Chongryon) [HO Chong Man]<br><strong>minor parties:</strong> <br>Chondoist Chongu Party [RI Myong Chol] (under KWP control)<br>Social Democratic Party or KSDP [PAK Yong Il] (under KWP control)<br>
 
 **International organization participation**<br>
 ARF, FAO, G-77, ICAO, ICRM, IFAD, IFRCS, IHO, IMO, IMSO, IOC, IPU, ISO, ITSO, ITU, NAM, UN, UNCTAD, UNESCO, UNIDO, UNWTO, UPU, WFTU (NGOs), WHO, WIPO, WMO<br>

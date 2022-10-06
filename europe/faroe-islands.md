@@ -254,7 +254,7 @@ _name_: Torshavn<br>
 _geographic coordinates_: 62 00 N, 6 46 W<br>
 _time difference_: UTC 0 (5 hours ahead of Washington, DC, during Standard Time)<br>
 _daylight saving time_: +1hr, begins last Sunday in March; ends last Sunday in October<br>
-_etymology_: the meaning in Danish is Thor's harbor<br>
+_etymology_: the meaning in Danish is "Thor's harbor"<br>
 
 **Administrative divisions**<br>
 part of the Kingdom of Denmark; self-governing overseas administrative division of Denmark; there are 29 first-order municipalities (kommunur, singular - kommuna) Eidhi, Eystur, Famjin, Fuglafjordhur, Fugloy, Hov, Husavik, Hvalba, Hvannasund, Klaksvik, Kunoy, Kvivik, Nes, Porkeri, Runavik, Sandur, Sjovar, Skalavik, Skopun, Skuvoy, Sorvagur, Sumba, Sunda, Torshavn, Tvoroyri, Vagar, Vagur, Vestmanna, Vidhareidhi<br>

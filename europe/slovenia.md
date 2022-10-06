@@ -354,7 +354,7 @@ _judge selection and term of office_: Supreme Court president and vice president
 _subordinate courts_: county, district, regional, and high courts; specialized labor-related and social courts; Court of Audit; Administrative Court<br>
 
 **Political parties and leaders**<br>
-Democratic Party of Pensioners of Slovenia or DeSUS [Ljubo JASNIC]<br>Freedom Movement or GS [Robert GOLOB] (formerly Greens Actions Party)<br>List of Marjan Sarec or LMS [Marjan SAREC]<br>New Slovenia - Christian Democrats or NSi [Matej TONIN]<br>Party of Alenka Bratusek or Stranka SAB [Alenka BRATUSEK] (formerly Alliance of Social Liberal Democrats or ZSD and before that Alliance of Alenka Bratusek or ZaAB)<br>Slovenian Democratic Party or SDS [Janez JANSA]<br>Slovenian National Party or SNS [Zmago JELINCIC Plemeniti]<br>Social Democrats or SD [Tanja FAJON]<br>The Left or Levica [Luka MESEC] (successor to United Left or ZL)<br>
+Democratic Party of Pensioners of Slovenia or DeSUS [Ljubo JASNIC]<br>Freedom Movement or GS [Robert GOLOB] (formerly Greens Actions Party or Z.DEJ)<br>List of Marjan Sarec or LMS [Marjan SAREC]<br>New Slovenia - Christian Democrats or NSi [Matej TONIN]<br>Party of Alenka Bratusek or SAB [Alenka BRATUSEK] (formerly Alliance of Social Liberal Democrats or ZSD and before that Alliance of Alenka Bratusek or ZaAB)<br>Slovenian Democratic Party or SDS [Janez JANSA] (formerly the Social Democratic Party of Slovenia or SDSS)<br>Slovenian National Party or SNS [Zmago JELINCIC Plemeniti]<br>Social Democrats or SD [Tanja FAJON]<br>The Left or Levica [Luka MESEC] (successor to United Left or ZL)<br>
 
 **International organization participation**<br>
 Australia Group, BIS, CD, CE, CEI, EAPC, EBRD, ECB, EIB, EMU, ESA (cooperating state), EU, FAO, IADB, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IFC, IFRCS, IHO, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ISO, ITU, MIGA, NATO, NEA, NSG, OAS (observer), OECD, OIF (observer), OPCW, OSCE, PCA, Schengen Convention, SELEC, UN, UNCTAD, UNESCO, UNHCR, UNIDO, UNIFIL, UNTSO, UNWTO, UPU, Wassenaar Arrangement, WCO, WHO, WIPO, WMO, WTO, ZC<br>
@@ -708,9 +708,9 @@ Slovenia became a member of NATO in 2004; Hungary and Italy provide NATO's air p
 <p><em>Slovenia-Austria</em>: none identified</p> <p><em>Slovenia-Croatia</em>: since the breakup of Yugoslavia in the early 1990s, Croatia and Slovenia have each claimed sovereignty over Piran Bay and four villages, and Slovenia has objected to Croatia's claim of an exclusive economic zone in the Adriatic Sea; in 2009, however Croatia and Slovenia signed a binding international arbitration agreement to define their disputed land and maritime borders, which led Slovenia to lift its objections to Croatia joining the EU; in June 2017, the Permanent Court of Arbitration issued a ruling on the border, but Croatia had withdrawn from the proceedings in 2015 and refused to implement it; as a member state that forms part of the EU's external border, Slovenia has implemented the strict Schengen border rules to curb illegal migration and commerce through southeastern Europe while encouraging close cross-border ties with Croatia; Slovenia continues to impose a hard border Schengen regime with Croatia, which joined the EU in 2013 but has not yet fulfilled Schengen requirements</p> <p><em>Slovenia-Hungary</em>: none identified</p> <p><em>Slovenia-Italy</em>: none identified</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 8,105 (Ukraine) (as of 13 September 2022)<br>
+_refugees (country of origin)_: 7,768 (Ukraine) (as of 26 September 2022)<br>
 _stateless persons_: 10 (2020)<br>
-<strong>note:  </strong>547,645 estimated refugee and migrant arrivals (January 2015-August 2022)<br>
+<strong>note:  </strong>547,689 estimated refugee and migrant arrivals (January 2015-August 2022)<br>
 
 **Illicit drugs**<br>
 minor transit point for cocaine and Southwest Asian heroin bound for Western Europe, and for precursor chemicals<br>

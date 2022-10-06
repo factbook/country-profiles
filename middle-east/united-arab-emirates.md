@@ -304,7 +304,7 @@ federation of monarchies<br>
 _name_: Abu Dhabi<br>
 _geographic coordinates_: 24 28 N, 54 22 E<br>
 _time difference_: UTC+4 (9 hours ahead of Washington, DC, during Standard Time)<br>
-_etymology_: in Arabic, "abu" means "father" and "dhabi" refers to "gazelle"; the name may derive from an abundance of gazelles that used to live in the area, as well as a folk tale involving the "Father of the Gazelle," Shakhbut BIN DHIYAB AL NAHYAN, whose hunting party tracked a gazelle to a spring on the island where Abu Dhabi was founded<br>
+_etymology_: in Arabic, <em>abu</em> means "father" and <em>dhabi</em> refers to "gazelle"; the name may derive from an abundance of gazelles that used to live in the area, as well as a folk tale involving the "Father of the Gazelle," Shakhbut BIN DHIYAB AL NAHYAN, whose hunting party tracked a gazelle to a spring on the island where Abu Dhabi was founded<br>
 
 **Administrative divisions**<br>
 7 emirates (imarat, singular - imarah); Abu Zaby (Abu Dhabi), 'Ajman, Al Fujayrah, Ash Shariqah (Sharjah), Dubayy (Dubai), Ra's al Khaymah, Umm al Qaywayn<br>
@@ -335,7 +335,7 @@ _residency requirement for naturalization_: 30 years<br>
 limited; note - rulers of the seven emirates each select a proportion of voters for the Federal National Council (FNC) that together account for about 12 percent of Emirati citizens<br>
 
 **Executive branch**<br>
-_chief of state_: President MUHAMMAD bin Zayid Al-Nuhayan (since 14 May 2022); Vice President MUHAMMAD bin Rashid Al-Maktoum (since 5 January 2006); note - MUHAMMAD bin Zayid Al-Nuhayan elected president by the Federal Supreme Council following the death of President KHALIFA bin Zayid Al-Nuhayan on 13 May<br>
+_chief of state_: President MUHAMMAD bin Zayid Al-Nuhayan (since 14 May 2022); Vice President MUHAMMAD bin Rashid Al-Maktoum (since 5 January 2006); note - MUHAMMAD bin Zayid Al-Nuhayan elected president by the Federal Supreme Council following the death of President KHALIFA bin Zayid Al-Nuhayan on 13 May 2022<br>
 _head of government_: Prime Minister and Vice President MUHAMMAD bin Rashid Al-Maktoum (since 5 January 2006); Deputy Prime Ministers SAIF bin Zayid Al-Nuhayan, MANSUR bin Zayid Al-Nuhayan (both since 11 May 2009), and MAKTOUM bin Mohammed Al-Maktoum (since 25 September 2021)<br>
 _cabinet_: Council of Ministers announced by the prime minister and approved by the president<br>
 _elections/appointments_: president and vice president indirectly elected by the Federal Supreme Council - composed of the rulers of the 7 emirates - for a 5-year term (no term limits); unscheduled election held on 14 May 2022, following the death of President KHALIFA bin Zayid Al-Nuhayan (next election NA); prime minister and deputy prime minister appointed by the president<br>
@@ -356,7 +356,7 @@ _subordinate courts_: Federal Court of Cassation (determines the constitutionali
 none; political parties are banned<br>
 
 **International organization participation**<br>
-ABEDA, AfDB (nonregional member), AFESD, AMF, BIS, CAEU, CICA, FAO, G-77, GCC, IAEA, IBRD, ICAO, ICC (national committees), ICRM, IDA, IDB, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IPU, ISO, ITSO, ITU, LAS, MIGA, NAM, OAPEC, OIC, OIF (observer), OPCW, OPEC, PCA, UN, UNCTAD, UNESCO, UNIDO, UNRWA, UNWTO, UPU, WCO, WHO, WIPO, WMO, WTO<br>
+ABEDA, AfDB (nonregional member), AFESD, AMF, BIS, CAEU, CICA, FAO, G-77, GCC, IAEA, IBRD, ICAO, ICC (national committees), ICRM, IDA, IDB, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IPU, ISO, ITSO, ITU, LAS, MIGA, NAM, OAPEC, OIC, OIF (observer), OPCW, OPEC, PCA, UN, UNCTAD, UNESCO, UNHRC, UNIDO, UNRWA, UNWTO, UPU, WCO, WHO, WIPO, WMO, WTO<br>
 
 **Diplomatic representation in the US**<br>
 _chief of mission_: Ambassador Yousif Mana Saeed Ahmed ALOTAIBA (since 28 July 2008)<br>

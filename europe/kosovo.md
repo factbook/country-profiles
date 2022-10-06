@@ -602,7 +602,7 @@ Kosovo Security Force (KSF; Forca e Sigurisë së Kosovës or FSK): Land Force C
 0.7% of GDP (2017 est.) (approximately $130 million)<br>
 
 **Military and security service personnel strengths**<br>
-approximately 3,500 KSF personnel; note - Kosovo plans for the KSF to eventually number around 5,000 troops (2021)<br>
+approximately 3,300 KSF personnel, including reserves (2022)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the KSF is equipped with small arms and light vehicles only; it relies on donations, and since 2013 has received donated equipment from Turkey and the US (2021)<br>
@@ -626,5 +626,5 @@ Islamic State of Iraq and ash-Sham (ISIS)<br>
 
 **Refugees and internally displaced persons**<br>
 _IDPs_: 16,000 (primarily ethnic Serbs displaced during the 1998-1999 war fearing reprisals from the majority ethnic-Albanian population; a smaller number of ethnic Serbs, Roma, Ashkali, and Egyptians fled their homes in 2004 as a result of violence) (2021)<br>
-<strong>note:</strong> 8,100 estimated refugee and migrant arrivals (January 2015-July 2022)<br>
+<strong>note:</strong> 8,157 estimated refugee and migrant arrivals (January 2015-August 2022)<br>
 

@@ -267,7 +267,7 @@ _name_: Monaco<br>
 _geographic coordinates_: 43 44 N, 7 25 E<br>
 _time difference_: UTC+1 (6 hours ahead of Washington, DC, during Standard Time)<br>
 _daylight saving time_: +1hr, begins last Sunday in March; ends last Sunday in October<br>
-_etymology_: founded as a Greek colony in the 6th century B.C., the name derives from two Greek words "monos" (single, alone) and "oikos" (house) to convey the sense of a people "living apart" or in a "single habitation"<br>
+_etymology_: founded as a Greek colony in the 6th century B.C., the name derives from two Greek words <em>monos</em> (single, alone) and <em>oikos</em> (house) to convey the sense of a people "living apart" or in a "single habitation"<br>
 
 **Administrative divisions**<br>
 none; there are no first-order administrative divisions as defined by the US Government, but there are 4 quarters (quartiers, singular - quartier); Fontvieille, La Condamine, Monaco-Ville, Monte-Carlo; note - Moneghetti, a part of La Condamine, is sometimes called the 5th quarter of Monaco<br>

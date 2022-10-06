@@ -370,7 +370,7 @@ _judge selection and term of office_: chief justice elected by the National Asse
 _subordinate courts_: High Courts (administrative, civil, criminal, economic, labor, family, juvenile); provincial courts; district courts; Military Court; note - the National Assembly Standing Committee can establish special tribunals upon the recommendation of the chief justice<br>
 
 **Political parties and leaders**<br>
-Communist Party of Vietnam or CPV [CPV General Secretary Nguyen Phu TRONG]<br>
+Communist Party of Vietnam or CPV [General Secretary Nguyen Phu TRONG]<br>
 <strong>note:</strong> other parties proscribed<br>
 
 **International organization participation**<br>

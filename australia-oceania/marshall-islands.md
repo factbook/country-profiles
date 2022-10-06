@@ -343,7 +343,7 @@ _subordinate courts_: High Court; District Courts; Traditional Rights Court; Com
 traditionally there have been no formally organized political parties; what has existed more closely resembles factions or interest groups because they do not have party headquarters, formal platforms, or party structures<br>
 
 **International organization participation**<br>
-ACP, ADB, AOSIS, FAO, G-77, IAEA, IBRD, ICAO, ICCt, IDA, IFAD, IFC, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, ITU, OPCW, PIF, Sparteca, SPC, UN, UNCTAD, UNESCO, WHO<br>
+ACP, ADB, AOSIS, FAO, G-77, IAEA, IBRD, ICAO, ICCt, IDA, IFAD, IFC, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, ITU, OPCW, PIF, Sparteca, SPC, UN, UNCTAD, UNESCO, UNHRC, WHO<br>
 
 **Diplomatic representation in the US**<br>
 _chief of mission_: Ambassador Gerald M. ZACKIOS (since 16 September 2016)<br>

@@ -389,7 +389,7 @@ _judge selection and term of office_: Supreme Court and Constitutional Court jud
 _subordinate courts_: Court of Appeal; High Court; Industrial Relations Court; subordinate courts (3 levels, based on upper limit of money involved); Small Claims Court; local courts (2 grades, based on upper limit of money involved)<br>
 
 **Political parties and leaders**<br>
-Alliance for Democracy and Development or ADD [Charles MILUPI]<br>Forum for Democracy and Development or FDD [Edith NAWAKWI]<br>Movement for Multiparty Democracy or MMD [Felix MUTATI]<br>National Democratic Congress or NDC [Chishimba KAMBWILI]<br>Party of National Unity and Progress or PNUP [Highvie HAMUDUDU]<br>Patriotic Front or PF [Edgar LUNGU]<br>United Party for National Development or UPND [Hakainde HICHILEMA]<br>
+Alliance for Democracy and Development or ADD [Charles MILUPI]<br>Forum for Democracy and Development or FDD [Edith NAWAKWI]<br>Movement for Multiparty Democracy or MMD [Dr. Nevers MUMBA]<br>Party of National Unity and Progress or PNUP [Highvie HAMUDUDU]<br>Patriotic Front or PF [Edgar LUNGU]<br>United Party for National Development or UPND [Hakainde HICHILEMA]<br>
 
 **International organization participation**<br>
 ACP, AfDB, AU, C, COMESA, EITI (compliant country), FAO, G-77, IAEA, IBRD, ICAO, ICCt, ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, Interpol, IOC, IOM, IPU, ISO (correspondent), ITSO, ITU, ITUC (NGOs), MIGA, MONUSCO, NAM, OPCW, PCA, SADC, UN, UNAMID, UNCTAD, UNESCO, UNHCR, UNIDO, UNISFA, UNMIL, UNMISS, UNOCI, UNWTO, UPU, WCO, WHO, WIPO, WMO, WTO<br>

@@ -351,7 +351,7 @@ _subordinate courts_: regional/zonal courts; community courts; special courts; s
 People's Front for Democracy and Justice or PFDJ [ISAIAS Afwerki] (the only party recognized by the government)<br>
 
 **International organization participation**<br>
-ACP, AfDB, AU, COMESA, FAO, G-77, IAEA, IBRD, ICAO, ICC (NGOs), IDA, IFAD, IFC, IFRCS (observer), ILO, IMF, IMO, Interpol, IOC, ISO (correspondent), ITU, ITUC (NGOs), LAS (observer), MIGA, NAM, OPCW, PCA, UN, UNCTAD, UNESCO, UNIDO, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO<br>
+ACP, AfDB, AU, COMESA, FAO, G-77, IAEA, IBRD, ICAO, ICC (NGOs), IDA, IFAD, IFC, IFRCS (observer), ILO, IMF, IMO, Interpol, IOC, ISO (correspondent), ITU, ITUC (NGOs), LAS (observer), MIGA, NAM, OPCW, PCA, UN, UNCTAD, UNESCO, UNHRC, UNIDO, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO<br>
 
 **Diplomatic representation in the US**<br>
 _chief of mission_: Ambassador (vacant); Charge d'Affaires Berhane Gebrehiwet SOLOMON (since 15 March 2011)<br>

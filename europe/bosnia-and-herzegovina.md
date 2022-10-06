@@ -307,7 +307,7 @@ _name_: Sarajevo<br>
 _geographic coordinates_: 43 52 N, 18 25 E<br>
 _time difference_: UTC+1 (6 hours ahead of Washington, DC, during Standard Time)<br>
 _daylight saving time_: +1hr, begins last Sunday in March; ends last Sunday in October<br>
-_etymology_: the name derives from the Turkish noun "saray," meaning "palace" or "mansion," and the term "ova," signifying "plain(s)," to give a meaning of "palace plains" or "the plains about the palace"<br>
+_etymology_: the name derives from the Turkish noun <em>saray</em>, meaning "palace" or "mansion," and the term <em>ova</em>, signifying "plain(s)," to give a meaning of "palace plains" or "the plains about the palace"<br>
 
 **Administrative divisions**<br>
 3 first-order administrative divisions - Brcko District (Brcko Distrikt) (ethnically mixed), Federation of Bosnia and Herzegovina (Federacija Bosne i Hercegovine) (predominantly Bosniak-Croat), Republika Srpska (predominantly Serb)<br>
@@ -388,8 +388,8 @@ golden lily; national colors: blue, yellow, white<br>
 
 **National anthem**<br>
 _name_: "Drzavna himna Bosne i Hercegovine" (The National Anthem of Bosnia and Herzegovina)<br>
-_lyrics/music_: none officially; Dusan SESTIC and Benjamin ISOVIC/Dusan SESTIC<br>
-<strong>note:</strong> music adopted 1999; lyrics proposed in 2009 and others in 2016 were not approved; a parliamentary committee launched a new initiative for lyrics in February 2018<br>
+_lyrics/music_: none officially/Dusan SESTIC<br>
+<strong>note:</strong> music adopted 1999; lyrics proposed in 2008 and others in 2016 were not approved<br>
 
 **National heritage**<br>
 _total World Heritage Sites_: 4 (3 cultural, 1 natural)<br>
@@ -717,7 +717,7 @@ Islamic Revolutionary Guard Corps/Qods Force<br>
 _refugees (country of origin)_: 5,112 (Croatia) (2020)<br>
 _IDPs_: 92,000 (Bosnian Croats, Serbs, and Bosniaks displaced by inter-ethnic violence, human rights violations, and armed conflict during the 1992-95 war) (2021)<br>
 _stateless persons_: 149 (mid-year 2021)<br>
-<strong>note: </strong>100,046 estimated refugee and migrant arrivals (January 2015-September 2022)<br>
+<strong>note: </strong>100,895 estimated refugee and migrant arrivals (January 2015-September 2022)<br>
 
 **Trafficking in persons**<br>
 _current situation_: human traffickers exploit domestic and foreign victims in Bosnia and Herzegovina and Bosnians and Herzegovinians abroad; Bosnian and foreign women and girls are sex trafficked within the country; Bosnians are also exploited through forced labor in construction and other industries in neighboring Balkan countries and throughout Europe; thousands of migrants and refugees smuggled through Bosnia and Herzegovina are vulnerable to trafficking, especially women and unaccompanied minors; Romani children are victims of forced begging, sex trafficking, and domestic servitude<br>

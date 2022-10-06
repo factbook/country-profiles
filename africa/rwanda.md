@@ -329,7 +329,7 @@ presidential republic<br>
 _name_: Kigali<br>
 _geographic coordinates_: 1 57 S, 30 03 E<br>
 _time difference_: UTC+2 (7 hours ahead of Washington, DC, during Standard Time)<br>
-_etymology_: the city takes its name from nearby Mount Kigali; the name "Kigali" is composed of the Bantu prefix "ki" and the Rwandan "gali" meaning "broad" and likely refers to the broad, sprawling hill that has been dignified with the title of "mount"<br>
+_etymology_: the city takes its name from nearby Mount Kigali; the name "Kigali" is composed of the Bantu prefix <em>ki</em> and the Rwandan <em>gali</em> meaning "broad" and likely refers to the broad, sprawling hill that has been dignified with the title of "mount"<br>
 
 **Administrative divisions**<br>
 4 provinces (in French - provinces, singular - province; in Kinyarwanda - intara for singular and plural) and 1 city* (in French - ville; in Kinyarwanda - umujyi); Est (Eastern), Kigali*, Nord (Northern), Ouest (Western), Sud (Southern)<br>

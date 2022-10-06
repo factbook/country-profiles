@@ -344,7 +344,7 @@ federal parliamentary republic<br>
 _name_: Islamabad<br>
 _geographic coordinates_: 33 41 N, 73 03 E<br>
 _time difference_: UTC+5 (10 hours ahead of Washington, DC, during Standard Time)<br>
-_etymology_: derived from two words: "Islam," an Urdu word referring to the religion of Islam, and "-abad," a Persian suffix indicating an "inhabited place" or "city," to render the meaning "City of Islam"<br>
+_etymology_: derived from two words: <em>Islam</em>, an Urdu word referring to the religion of Islam, and <em>-abad</em>, a Persian suffix indicating an "inhabited place" or "city," to render the meaning "City of Islam"<br>
 
 **Administrative divisions**<br>
 4 provinces, 2 Pakistan-administered areas*, and 1 capital territory**; Azad Kashmir*, Balochistan, Gilgit-Baltistan*, Islamabad Capital Territory**, Khyber Pakhtunkhwa, Punjab, Sindh<br>
@@ -396,7 +396,7 @@ Awami National Party or ANP [Asfandyar Wali KHAN]<br>Awami Muslim League or AML 
 <strong>note:</strong> political alliances in Pakistan shift frequently<br>
 
 **International organization participation**<br>
-ADB, AIIB, ARF, ASEAN (sectoral dialogue partner), C, CERN (associate member), CICA, CP, D-8, ECO, FAO, G-11, G-24, G-77, IAEA, IBRD, ICAO, ICC (national committees), ICRM, IDA, IDB, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, MINURCAT, MINURSO, MINUSCA, MINUSMA, MONUSCO, NAM, OAS (observer), OIC, OPCW, PCA, SAARC, SACEP, SCO, UN, UNAMID, UNCTAD, UNESCO, UNFICYP, UNHCR, UNIDO, UNISFA, UNISFA, UNMISS, UNSOS, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
+ADB, AIIB, ARF, ASEAN (sectoral dialogue partner), C, CERN (associate member), CICA, CP, D-8, ECO, FAO, G-11, G-24, G-77, IAEA, IBRD, ICAO, ICC (national committees), ICRM, IDA, IDB, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, MINURCAT, MINURSO, MINUSCA, MINUSMA, MONUSCO, NAM, OAS (observer), OIC, OPCW, PCA, SAARC, SACEP, SCO, UN, UNAMID, UNCTAD, UNESCO, UNFICYP, UNHCR, UNHRC, UNIDO, UNISFA, UNISFA, UNMISS, UNSOS, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
 
 **Diplomatic representation in the US**<br>
 _chief of mission_: Ambassador Sardar Masood KHAN (since 24 March 2022)<br>

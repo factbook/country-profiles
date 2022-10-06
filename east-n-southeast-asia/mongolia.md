@@ -369,7 +369,7 @@ _subordinate courts_: aimag (provincial) and capital city appellate courts; soum
 
 **Political parties and leaders**<br>
 Civil Will-Green Party or CWGP [Tserendorj GANKHUYAG] <br>Democratic Party or DP [Tsogtgerel ODON]<br>Justice Party [Batbayar NASANBILEG]<br>Mongolian National Democratic Party or MNDP [Bayanjargal TSOGTGEREL]<br>Mongolian People's Party or MPP [Luvsannamsrai OYUN-ERDENE]<br>Mongolian Social Democratic Party or MSDP [Adiya GANBAATAR]<br>Mongolian Traditionally United Party or MTUP [Batdelgeriin BATBOLD]<br>National Labor Party or HUN [Togmid Dorhkhand]<br>Our Coalition (coalition of the MPRP, Civil Will-Green Party, and Mongolian Traditionally United Party formed for the 2020 election)<br>Right Person Electorate Coalition of ZKEE (coalition of the National Labor Party, Mongolian Social  [Badrakhyn NAIDALAA]<br>
-note - there were 35 total registered parties as of December 2021<br>
+<strong>note:</strong> there were 35 total registered parties as of December 2021<br>
 
 **International organization participation**<br>
 ADB, ARF, CD, CICA, CP, EBRD, EITI (compliant country), FAO, G-77, IAEA, IBRD, ICAO, ICC (NGOs), ICCt, ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC, MIGA, MINURSO, MONUSCO, NAM, OPCW, OSCE, SCO (observer), UN, UNAMID, UNCTAD, UNESCO, UNIDO, UNISFA, UNMISS, UNWTO, UPU, WCO, WHO, WIPO, WMO, WTO<br>

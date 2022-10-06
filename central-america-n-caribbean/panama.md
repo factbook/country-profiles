@@ -316,7 +316,7 @@ presidential republic<br>
 _name_: Panama City<br>
 _geographic coordinates_: 8 58 N, 79 32 W<br>
 _time difference_: UTC-5 (same time as Washington, DC, during Standard Time)<br>
-_etymology_: according to tradition, the name derives from a former fishing area near the present capital - an indigenous village and its adjacent beach - that were called "Panama" meaning "an abundance of fish"<br>
+_etymology_: according to tradition, the name derives from a former fishing area near the present capital - an indigenous village and its adjacent beach - that were called "panama" meaning "an abundance of fish"<br>
 
 **Administrative divisions**<br>
 10 provinces (provincias, singular - provincia) and 4 indigenous regions* (comarcas); Bocas del Toro, Chiriqui, Cocle, Colon, Darien, Embera-Wounaan*, Guna Yala*, Herrera, Los Santos, Naso Tjer Di*, Ngabe-Bugle*, Panama, Panama Oeste, Veraguas<br>

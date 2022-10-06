@@ -333,7 +333,7 @@ federal parliamentary republic<br>
 _name_: Baghdad<br>
 _geographic coordinates_: 33 20 N, 44 24 E<br>
 _time difference_: UTC+3 (8 hours ahead of Washington, DC, during Standard Time)<br>
-_etymology_: although the origin of the name is disputed, it likely has compound Persian roots with "bagh" and "dad" meaning "god" and "given" respectively to create the meaning of "bestowed by God"<br>
+_etymology_: although the origin of the name is disputed, it likely has compound Persian roots with <em>bagh</em> and <em>dad</em> meaning "god" and "given" respectively to create the meaning of "bestowed by God"<br>
 
 **Administrative divisions**<br>
 18 governorates (muhafazat, singular - muhafazah (Arabic); parezgakan, singular - parezga (Kurdish)) and 1 region*; 'Al Anbar; Al Basrah; Al Muthanna; Al Qadisiyah (Ad Diwaniyah); An Najaf; Arbil (Erbil) (Arabic), Hewler (Kurdish); As Sulaymaniyah (Arabic), Slemani (Kurdish); Babil; Baghdad; Dahuk (Arabic), Dihok (Kurdish); Dhi Qar; Diyala; Karbala'; Kirkuk; Maysan; Ninawa; Salah ad Din; Wasit<br>
@@ -722,7 +722,7 @@ Ministry of Defense: Iraqi Army, Army Aviation Command, Iraqi Navy, Iraqi Air Fo
 information varies; approximately 200,000 personnel under the Ministry of Defense (190,000 Army/Aviation Command/Special Forces; 5,000 Navy; 5,000 Air/Air Defense Forces); approximately 25,000 National-Level Security Forces; Ministry of Peshmerga: approximately 150,000-plus (45-50,000 Regional Guard Brigades; 40-45,000 Unit 70 Forces; 65-70,000 Unit 80 Forces); estimated 100-160,000 Popular Mobilization Forces (2022)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the Iraqi military inventory is comprised of a mix of equipment from a wide variety of sources, including Europe, South Africa, South Korea, Russia, and the US; since 2010, Russia and the US have been the leading suppliers of military hardware to Iraq (2022)<br>
+the Iraqi military's inventory includes a mix of equipment from a wide variety of sources, including Europe, South Africa, South Korea, Russia, and the US; since 2010, Russia and the US have been the leading suppliers of military hardware to Iraq (2022)<br>
 
 **Military service age and obligation**<br>
 18-40 years of age for voluntary military service; no conscription (abolished 2003) (2022)<br>

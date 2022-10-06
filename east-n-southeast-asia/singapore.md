@@ -304,7 +304,7 @@ parliamentary republic<br>
 _name_: Singapore<br>
 _geographic coordinates_: 1 17 N, 103 51 E<br>
 _time difference_: UTC+8 (13 hours ahead of Washington, DC, during Standard Time)<br>
-_etymology_: name derives from the Sanskrit words "simha" (lion) and "pura" (city), thus creating the city's epithet "lion city"<br>
+_etymology_: name derives from the Sanskrit words <em>simha</em> (lion) and <em>pura</em> (city), thus creating the city's epithet "lion city"<br>
 
 **Administrative divisions**<br>
 no first order administrative divisions; there are five community development councils: Central Singapore Development Council, North East Development Council, North West Development Council, South East Development Council, South West Development Council (2019)<br>
@@ -352,8 +352,8 @@ _judge selection and term of office_: judges appointed by the president from can
 _subordinate courts_: district, magistrates', juvenile, family, community, and coroners' courts; small claims tribunals; employment claims tribunals<br>
 
 **Political parties and leaders**<br>
-Democratic Progressive Party or DPP [Mohamad Hamim BIN ALIYA]<br>National Solidarity Party or NSP [Spencer NG]<br>People's Action Party or PAP [LEE Hsien Loong]<br>People's Power Party or (PPP) [Goh Meng SENG]<br>People's Voice or PV [Lim TEAN]<br>Progress Singapore Party or PSP [Francis YUENT]<br>Red Dot United or RDU [Ravi PHILEMON]<br>Reform Party or RP [Kenneth JEYARETNAM]<br>Singapore Democratic Alliance or SDA [Desmond LIM]<br>Singapore Democratic Party or SDP [Dr. CHEE Soon Juan]<br>Singapore Malay National Organisation or PKMS [Muhammad Hairullah AHMAD]<br>Singapore People's Party or SPP [Steve Chia]<br>Singapore United Party or SUP [Andy ZHU]<br>Workers' Party or WP [Pritam SINGH] (2022)<br>
-note - the PAP has won every general election since the end of the British colonial era in 1959<br>
+Democratic Progressive Party or DPP [Mohamad Hamim BIN ALIYA]<br>National Solidarity Party or NSP [Spencer NG]<br>People's Action Party or PAP [LEE Hsien Loong]<br>People's Power Party or PPP [Goh Meng SENG]<br>People's Voice or PV [Lim TEAN]<br>Progress Singapore Party or PSP [Francis YUEN]<br>Red Dot United or RDU [Ravi PHILEMON]<br>Reform Party or RP [Kenneth JEYARETNAM]<br>Singapore Democratic Alliance or SDA [Desmond LIM]<br>Singapore Democratic Party or SDP [Dr. CHEE Soon Juan]<br>Singapore Malay National Organisation or PKMS [Muhammad Hairullah AHMAD]<br>Singapore People's Party or SPP [Steve CHIA]<br>Singapore United Party or SUP [Andy ZHU]<br>Workers' Party or WP [Pritam SINGH]<br>
+<strong>note: </strong>the PAP has won every general election since the end of the British colonial era in 1959<br>
 
 **International organization participation**<br>
 ADB, AOSIS, APEC, Arctic Council (observer), ARF, ASEAN, BIS, C, CP, EAS, FAO, FATF, G-77, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, NAM, OPCW, Pacific Alliance (observer), PCA, UN, UNCTAD, UNESCO, UNHCR, UPU, WCO, WHO, WIPO, WMO, WTO<br>

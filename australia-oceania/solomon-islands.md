@@ -345,7 +345,7 @@ _judge selection and term of office_: Court of Appeal and High Court president, 
 _subordinate courts_: Magistrates' Courts; Customary Land Appeal Court; local courts<br>
 
 **Political parties and leaders**<br>
-Democratic Alliance Party or DAP [Steve ABANA]<br>Kadere Party of Solomon Islands or KPSI [Peter BOYERS]<br>People's Alliance Party or PAP [Nathaniel WAENA]<br>Solomon Islands Party for Rural Advancement or SIPRA [Manasseh MAELANGA]<br>Solomon Islands People First Party or SIPFP [Dr. Jimmie RODGERS]<br>United Democratic Party or UDP [Sir Thomas Ko CHAN]<br>
+Democratic Alliance Party or DAP [Steve ABANA]<br>Kadere Party of Solomon Islands or KPSI [Peter BOYERS]<br>People's Alliance Party or PAP [Sir Nathaniel WAENA]<br>Solomon Islands Party for Rural Advancement or SIPRA [Manasseh MAELANGA]<br>Solomon Islands People First Party or SIPFP [Dr. Jimmie RODGERS]<br>United Democratic Party or UDP [Sir Thomas Ko CHAN]<br>
 <strong>note:</strong> in general, Solomon Islands politics is characterized by fluid coalitions<br>
 
 **International organization participation**<br>

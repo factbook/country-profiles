@@ -283,7 +283,7 @@ constitutional monarchy<br>
 _name_: Thimphu<br>
 _geographic coordinates_: 27 28 N, 89 38 E<br>
 _time difference_: UTC+6 (11 hours ahead of Washington, DC, during Standard Time)<br>
-_etymology_: the origins of the name are unclear; the traditional explanation, dating to the 14th century, is that "thim" means "dissolve" and "phu" denotes "high ground" to express the meaning of "dissolving high ground," in reference to a local deity that dissolved before a traveler's eyes, becoming a part of the rock on which the present city stands<br>
+_etymology_: the origins of the name are unclear; the traditional explanation, dating to the 14th century, is that <em>thim </em>means "dissolve" and <em>phu</em> denotes "high ground" to express the meaning of "dissolving high ground," in reference to a local deity that dissolved before a traveler's eyes, becoming a part of the rock on which the present city stands<br>
 
 **Administrative divisions**<br>
 20 districts (dzongkhag, singular and plural); Bumthang, Chhukha, Dagana, Gasa, Haa, Lhuentse, Mongar, Paro, Pemagatshel, Punakha, Samdrup Jongkhar, Samtse, Sarpang, Thimphu, Trashigang, Trashi Yangtse, Trongsa, Tsirang, Wangdue Phodrang, Zhemgang<br>

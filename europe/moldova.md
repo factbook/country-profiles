@@ -312,7 +312,7 @@ _name_: Chisinau in Moldovan (Kishinev in Russian)<br>
 _geographic coordinates_: 47 00 N, 28 51 E<br>
 _time difference_: UTC+2 (7 hours ahead of Washington, DC, during Standard Time)<br>
 _daylight saving time_: +1hr, begins last Sunday in March; ends last Sunday in October<br>
-_etymology_: origin unclear but may derive from the archaic Romanian word "chisla" ("spring" or "water source") and "noua" ("new") because the original settlement was built at the site of a small spring<br>
+_etymology_: origin unclear but may derive from the archaic Romanian word <em>chisla</em> ("spring" or "water source") and <em>noua</em> ("new") because the original settlement was built at the site of a small spring<br>
 <strong>note:</strong> pronounced KEE-shee-now (KIH-shi-nyov)<br>
 
 **Administrative divisions**<br>

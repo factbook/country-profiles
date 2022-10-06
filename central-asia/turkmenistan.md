@@ -318,7 +318,7 @@ presidential republic; authoritarian<br>
 _name_: Ashgabat (Ashkhabad)<br>
 _geographic coordinates_: 37 57 N, 58 23 E<br>
 _time difference_: UTC+5 (10 hours ahead of Washington, DC, during Standard Time)<br>
-_etymology_: derived from the Persian words "eshq" meaning "love" and "abad" meaning "inhabited place" or "city," and so loosely translates as "the city of love"<br>
+_etymology_: derived from the Persian words <em>esh</em>q meaning "love" and <em>abad</em> meaning "inhabited place" or "city," and so loosely translates as "the city of love"<br>
 
 **Administrative divisions**<br>
 5 provinces (welayatlar, singular - welayat) and 1 independent city*: Ahal Welayaty (Anew), Ashgabat*, Balkan Welayaty (Balkanabat), Dasoguz Welayaty, Lebap Welayaty (Turkmenabat), Mary Welayaty<br>

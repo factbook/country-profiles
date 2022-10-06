@@ -310,7 +310,7 @@ presidential republic; highly authoritarian<br>
 _name_: Tashkent (Toshkent)<br>
 _geographic coordinates_: 41 19 N, 69 15 E<br>
 _time difference_: UTC+5 (10 hours ahead of Washington, DC, during Standard Time)<br>
-_etymology_: "tash" means "stone" and "kent" means "city" in Turkic languages, so the name simply denotes "stone city"<br>
+_etymology_: <em>tash</em> means "stone" and <em>kent</em> means "city" in Turkic languages, so the name simply denotes "stone city"<br>
 
 **Administrative divisions**<br>
 12 provinces (viloyatlar, singular - viloyat), 1 autonomous republic* (avtonom respublikasi), and 1 city** (shahar); Andijon Viloyati, Buxoro Viloyati [Bukhara Province], Farg'ona Viloyati [Fergana Province], Jizzax Viloyati, Namangan Viloyati, Navoiy Viloyati, Qashqadaryo Viloyati (Qarshi), Qoraqalpog'iston Respublikasi [Karakalpakstan Republic]* (Nukus), Samarqand Viloyati [Samarkand Province], Sirdaryo Viloyati (Guliston), Surxondaryo Viloyati (Termiz), Toshkent Shahri [Tashkent City]**, Toshkent Viloyati [Tashkent Province], Xorazm Viloyati (Urganch)<br>
@@ -363,7 +363,7 @@ _subordinate courts_: regional, district, city, and town courts<br>
 Ecological Party of Uzbekistan (O'zbekiston Ekologik Partivasi) [Narzullo OBLOMURODOV]<br>Justice (Adolat) Social Democratic Party of Uzbekistan [Bahrom ABDUHALIMOV]<br>Liberal Democratic Party of Uzbekistan (O'zbekiston Liberal-Demokratik Partiyasi) or LDPU [Aktam HAITOV]<br>National Revival Democratic Party of Uzbekistan (O'zbekiston Milliy Tiklanish Demokratik Partiyasi) [Alisher QODIROV]<br>People's Democratic Party of Uzbekistan (Xalq Demokratik Partiyas) or PDP [Ulugbek Ilyosovich INOYATOV] (formerly Communist Party)<br>
 
 **International organization participation**<br>
-ADB, CICA, CIS, EAEU (observer), EAPC, EBRD, ECO, EEU (observer), FAO, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IDB, IFAD, IFC, IFRCS, ILO, IMF, Interpol, IOC, ISO, ITSO, ITU, MIGA, NAM, OIC, OPCW, OSCE, PFP, SCO, UN, UNCTAD, UNESCO, UNIDO, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO (observer)<br>
+ADB, CICA, CIS, EAEU (observer), EAPC, EBRD, ECO, EEU (observer), FAO, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IDB, IFAD, IFC, IFRCS, ILO, IMF, Interpol, IOC, ISO, ITSO, ITU, MIGA, NAM, OIC, OPCW, OSCE, PFP, SCO, UN, UNCTAD, UNESCO, UNHRC, UNIDO, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO (observer)<br>
 
 **Diplomatic representation in the US**<br>
 _chief of mission_: Ambassador Javlon VAHOBOV (since 29 November 2017)<br>

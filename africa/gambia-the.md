@@ -383,7 +383,7 @@ _subordinate courts_: Court of Appeal; High Court; Special Criminal Court; Khadi
 Alliance for Patriotic Reorientation and Construction or APRC [Fabakary JATTA]<br>Coalition 2016 [collective leadership] (electoral coalition includes UDP, PDOIS, NRP, GMC, GDC, PPP, and GPDP)<br>Gambia Democratic Congress or GDC [Mama KANDEH]<br>Gambia Moral Congress or GMC [Mai FATTY]<br>Gambia Party for Democracy and Progress or GPDP [Sarja JARJOU]<br>National Convention Party or NCP [Yaya  SANYANG and Majanko SAMUSA (both claiming leadership)]<br>National Democratic Action Movement or NDAM [Lamin Yaa JUARA]<br>National People's Party or NPP [Adama BARROW]<br>National Reconciliation Party or NRP [Hamat BAH]<br>People's Democratic Organization for Independence and Socialism or PDOIS [Halifa SALLAH]<br>People's Progressive Party or PPP [Yaya CEESAY)]<br>United Democratic Party or UDP [Ousainou DARBOE]<br>
 
 **International organization participation**<br>
-ACP, AfDB, AU, ECOWAS, FAO, G-77, IBRD, ICAO, ICCt, ICRM, IDA, IDB, IFAD, IFC, IFRCS, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ISO (correspondent), ITSO, ITU, ITUC (NGOs), MIGA, MINUSMA, NAM, OIC, OPCW, UN, UNAMID, UNCTAD, UNESCO, UNIDO, UNISFA, UNMIL, UNOCI, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
+ACP, AfDB, AU, ECOWAS, FAO, G-77, IBRD, ICAO, ICCt, ICRM, IDA, IDB, IFAD, IFC, IFRCS, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ISO (correspondent), ITSO, ITU, ITUC (NGOs), MIGA, MINUSMA, NAM, OIC, OPCW, UN, UNAMID, UNCTAD, UNESCO, UNHRC, UNIDO, UNISFA, UNMIL, UNOCI, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
 
 **Diplomatic representation in the US**<br>
 _chief of mission_: Ambassador (vacant); Charge d&rsquo;Affaires Mustapha SOSSEH (16 March 2022)<br>

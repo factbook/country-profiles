@@ -304,15 +304,15 @@ has not submitted an ICJ jurisdiction declaration; accepts ICCt jurisdiction<br>
 20 years of age; universal and compulsory<br>
 
 **Executive branch**<br>
-_chief of state_: President Lionel AINGIMEA (since 27 August 2019); note - the president is both chief of state and head of government<br>
-_head of government_: President Lionel AINGIMEA (since 27 August 2019)<br>
+_chief of state_: President Russ KUN (since 28 September 2022); note - the president is both chief of state and head of government<br>
+_head of government_: President Russ KUN (since 28 September 2022)<br>
 _cabinet_: Cabinet appointed by the president from among members of Parliament<br>
-_elections/appointments_: president indirectly elected by Parliament (eligible for a second term); election last held on 27 August 2019 (next to be held in 2022)<br>
-_election results_: Lionel AINGIMEA elected president; Parliament vote - Lionel AINGIMEA (independent) 12, David ADEANG (Nauru First) 6<br>
+_elections/appointments_: president indirectly elected by Parliament (eligible for a second term); election last held on 28 September 2022 (next to be held in 2025)<br>
+_election results_: <p>Russ KUN elected president unopposed</p><br>
 
 **Legislative branch**<br>
 _description_: unicameral parliament (19 seats; members directly elected in multi-seat constituencies by majority vote using the "Dowdall" counting system by which voters rank candidates on their ballots; members serve 3-year terms)<br>
-_elections_: last held on 24 August 2019 (next to be held in September 2022)<br>
+_elections_: last held on 24 September 2022 (next to be held in September 2025)<br>
 _election results_: percent of vote - NA; seats - independent 19; composition - men 17, women 2, percent of women 10.5%<br>
 
 **Judicial branch**<br>

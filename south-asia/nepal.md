@@ -325,7 +325,7 @@ federal parliamentary republic<br>
 _name_: Kathmandu<br>
 _geographic coordinates_: 27 43 N, 85 19 E<br>
 _time difference_: UTC+5.75 (10.75 hours ahead of Washington, DC, during Standard Time)<br>
-_etymology_: name derives from the Kasthamandap temple that stood in Durbar Square; in Sanskrit, "kastha" means "wood" and "mandapa" means "pavilion"; the three-story structure was made entirely of wood, without iron nails or supports, and dated to the late 16th century; it collapsed during a 2015 earthquake<br>
+_etymology_: name derives from the Kasthamandap temple that stood in Durbar Square; in Sanskrit, <em>kastha</em> means "wood" and <em>mandapa</em> means "pavilion"; the three-story structure was made entirely of wood, without iron nails or supports, and dated to the late 16th century; it collapsed during a 2015 earthquake<br>
 
 **Administrative divisions**<br>
 7 provinces (pradesh, singular - pradesh); Bagmati, Gandaki, Karnali, Lumbini, Madhesh, Province No. One, Sudurpashchim<br>
@@ -376,7 +376,7 @@ _subordinate courts_: High Court; district courts<br>
 <p>the Election Commission of Nepal granted ballot access under the proportional system to 88 political parties for the November-December 2017 House of Representatives election to the Federal Parliament; of these, the following 8 parties won seats:<br>Federal Socialist Forum, Nepal or FSFN [Upendra YADAV]<br>Naya Shakti Party, Nepal [Baburam BHATTARAI]<br>Nepal Communist Party or NCP [Khadga Prasad OLI, Pushpa Kamal DAHAL]<br>Nepali Congress or NC [Sher Bahadur DEUBA]<br>Nepal Mazdoor Kisan Party (Nepal Workers' and Peasants' Party) or NWPP [Narayan Man BIJUKCHHE]<br>Rastriya Janamorcha (National People's Front) [Chitra Bahadur K.C.]<br>Rastriya Janata Party (National People's Party, Nepal) or RJPN [Mahanta THAKUR]<br>Rastriya Prajatantra Party (National Democratic Party) or RPP [Rajendra Prasad LINGDEN]</p><br>
 
 **International organization participation**<br>
-ADB, BIMSTEC, CD, CP, FAO, G-77, IAEA, IBRD, ICAO, ICC (NGOs), ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, MINURSO, MINUSMA, MINUSTAH, MONUSCO, NAM, OPCW, SAARC, SACEP, UN, UNAMID, UNCTAD, UNDOF, UNESCO, UNIDO, UNIFIL, UNISFA, UNMIL, UNMISS, UNOCI, UNSOM, UNTSO, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
+ADB, BIMSTEC, CD, CP, FAO, G-77, IAEA, IBRD, ICAO, ICC (NGOs), ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, MINURSO, MINUSMA, MINUSTAH, MONUSCO, NAM, OPCW, SAARC, SACEP, UN, UNAMID, UNCTAD, UNDOF, UNESCO, UNHRC, UNIDO, UNIFIL, UNISFA, UNMIL, UNMISS, UNOCI, UNSOM, UNTSO, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
 
 **Diplomatic representation in the US**<br>
 _chief of mission_: Ambassador Sridhar KHATRI (since 19 April 2022)<br>

@@ -307,7 +307,7 @@ _name_: Brussels<br>
 _geographic coordinates_: 50 50 N, 4 20 E<br>
 _time difference_: UTC+1 (6 hours ahead of Washington, DC, during Standard Time)<br>
 _daylight saving time_: +1hr, begins last Sunday in March; ends last Sunday in October<br>
-_etymology_: may derive from the Old Dutch "bruoc/broek," meaning "marsh" and "sella/zele/sel" signifying "home" to express the meaning "home in the marsh"<br>
+_etymology_: may derive from the Old Dutch <em>bruoc/broek</em>, meaning "marsh" and <em>sella/zele/sel</em> signifying "home" to express the meaning "home in the marsh"<br>
 
 **Administrative divisions**<br>
 3 regions (French: regions, singular - region; Dutch: gewesten, singular - gewest); Brussels-Capital Region, also known as Brussels Hoofdstedelijk Gewest (Dutch), Region de Bruxelles-Capitale (French long form), Bruxelles-Capitale (French short form); Flemish Region (Flanders), also known as Vlaams Gewest (Dutch long form), Vlaanderen (Dutch short form), Region Flamande (French long form), Flandre (French short form); Walloon Region (Wallonia), also known as Region Wallone (French long form), Wallonie (French short form), Waals Gewest (Dutch long form), Wallonie (Dutch short form)<br>
@@ -723,7 +723,7 @@ Islamic Revolutionary Guard Corps/Qods Force; Islamic State of Iraq and ash-Sham
 <p>none identified</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 18,493 (Syria), 5,094 (Iraq) (2020); 56,013 (Ukraine) (as of 20 September 2022)<br>
+_refugees (country of origin)_: 18,493 (Syria), 5,094 (Iraq) (2020); 56,464 (Ukraine) (as of 26 September 2022)<br>
 _stateless persons_: 1,159 (mid-year 2021)<br>
 
 **Illicit drugs**<br>

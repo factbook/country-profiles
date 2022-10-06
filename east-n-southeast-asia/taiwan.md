@@ -288,8 +288,8 @@ _judge selection and term of office_: Supreme Court justices appointed by the pr
 _subordinate courts_: high courts; district courts; hierarchy of administrative courts<br>
 
 **Political parties and leaders**<br>
-Democratic Progressive Party or DPP [TSAI Ing-wen]<br>Kuomintang or KMT (Nationalist Party) [CHU Chi-luan, aka Eric CHU]<br>Taiwan People's Party or TPP [KO Wen-je]<br>New Power Party or NPP [KAO Yu-ting]<br>Taiwan Statebuilding Party or TSP [CHEN Yi-chi]<br>People First Party or PFP [James SOONG] (2021)<br>
-note - the DPP and the KMT are the two major political parties; there are hundreds of registered minor parties<br>
+Democratic Progressive Party or DPP [TSAI Ing-wen]<br>Kuomintang or KMT (Nationalist Party) [CHU Chi-luan, aka Eric CHU]<br>New Power Party or NPP [KAO Yu-ting]<br>People First Party or PFP [James SOONG]<br>Taiwan People's Party or TPP [KO Wen-je]<br>Taiwan Statebuilding Party or TSP [CHEN Yi-chi]<br>
+<strong>note:</strong> the DPP and the KMT are the two major political parties; there are hundreds of registered minor parties<br>
 
 **International organization participation**<br>
 ADB (Taipei, China), APEC (Chinese Taipei), BCIE, IOC, ITUC (NGOs), SICA (observer), WTO (Taipei, China);<br>
@@ -615,7 +615,7 @@ approximately 170,000 active duty troops (90,000 Army; 40,000 Navy, including ap
 <strong>note: </strong>Taiwan trains about 120,000 reservists annually, but in 2022 announced intentions to increase that figure to 260,000<br>
 
 **Military equipment inventories and acquisitions**<br>
-the Taiwan military is armed mostly with second-hand weapons and equipment provided by the US; since 2010, the US continued to be the largest provider of arms; Taiwan also has a domestic defense industry capable of building and upgrading a range of weapons systems, including surface naval craft and submarines (2022)<br>
+the Taiwan military is armed mostly with second-hand weapons and equipment provided by the US; since 2010, the US continued to be the largest provider of arms; Taiwan also has a domestic defense industry capable of building and upgrading a range of weapons systems, including surface ships and submarines (2022)<br>
 
 **Military service age and obligation**<br>
 starting with those born in 1994, men 18-36 years of age may volunteer for military service or must complete 4 months of compulsory military training (5 weeks of basic training followed by 11 weeks of specialized training with field units); civil service can be substituted for military service in some cases; men born before December 1993 are required to complete compulsory service for 12 months (military or civil); men are subject to training recalls up to four times for periods not to exceed 20 days for 8 years after discharge; women may enlist but are restricted to noncombat roles in most cases; as part of its transition to an all-volunteer military, the last cohort of 12-month military conscripts completed their service obligations in December 2018 (2022)<br>

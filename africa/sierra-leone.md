@@ -377,7 +377,7 @@ _subordinate courts_: magistrates' courts; District Appeals Court; local courts<
 All People's Congress or APC [Ernest Bai KOROMA]<br>Coalition for Change or C4C [Tamba R. SANDY]<br>National Grand Coalition or NGC [Dr. Dennis BRIGHT]<br>Sierra Leone People's Party or SLPP [Dr. Prince HARDING]<br>numerous other parties<br>
 
 **International organization participation**<br>
-ACP, AfDB, AU, C, ECOWAS, EITI (compliant country), FAO, G-77, IAEA, IBRD, ICAO, ICCt, ICRM, IDA, IDB, IFAD, IFC, IFRCS, IHO (pending member), ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ISO (correspondent), ITU, ITUC (NGOs), MIGA, MINUSMA, NAM, OIC, OPCW, UN, UNAMID, UNCTAD, UNESCO, UNIDO, UNIFIL, UNISFA, UNSOM, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
+ACP, AfDB, ATMIS, AU, C, ECOWAS, EITI (compliant country), FAO, G-77, IAEA, IBRD, ICAO, ICCt, ICRM, IDA, IDB, IFAD, IFC, IFRCS, IHO (pending member), ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ISO (correspondent), ITU, ITUC (NGOs), MIGA, MINUSMA, NAM, OIC, OPCW, UN, UNAMID, UNCTAD, UNESCO, UNIDO, UNIFIL, UNISFA, UNSOM, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
 
 **Diplomatic representation in the US**<br>
 _chief of mission_: Ambassador Sidique Abou-Bakarr WAI (since 8 April 2019)<br>

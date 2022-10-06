@@ -245,7 +245,7 @@ commonwealth in political union with and under the sovereignty of the US; federa
 _name_: Saipan<br>
 _geographic coordinates_: 15 12 N, 145 45 E<br>
 _time difference_: UTC+10 (15 hours ahead of Washington, DC, during Standard Time)<br>
-_etymology_: the entire island of Saipan is organized as a single municipality and serves as the capital; according to legend, when the first native voyagers arrived in their outrigger canoes they found an uninhabited island; to them it was like an empty voyage, so they named the island "saay" meaning "a voyage," and "peel" meaning "empty"; over time Saaypeel - "island of the empty voyage" - became Saipan<br>
+_etymology_: the entire island of Saipan is organized as a single municipality and serves as the capital; according to legend, when the first native voyagers arrived in their outrigger canoes they found an uninhabited island; to them it was like an empty voyage, so they named the island <em>saay</em> meaning "a voyage," and <em>peel</em> meaning "empty"; over time <em>Saaypeel</em> - "island of the empty voyage" - became Saipan<br>
 
 **Administrative divisions**<br>
 none (commonwealth in political union with the US); there are no first-order administrative divisions as defined by the US Government, but there are 4 municipalities at the second order: Northern Islands, Rota, Saipan, Tinian<br>

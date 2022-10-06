@@ -319,7 +319,7 @@ presidential republic<br>
 _name_: Dushanbe<br>
 _geographic coordinates_: 38 33 N, 68 46 E<br>
 _time difference_: UTC+5 (10 hours ahead of Washington, DC, during Standard Time)<br>
-_etymology_: today's city was originally at the crossroads where a large bazaar occurred on Mondays, hence the name Dushanbe, which in Persian means Monday, i.e., the second day (du) after Saturday (shambe)<br>
+_etymology_: today's city was originally at the crossroads where a large bazaar occurred on Mondays, hence the name Dushanbe, which in Persian means Monday, i.e., the second day (<em>du</em>) after Saturday (<em>shambe</em>)<br>
 
 **Administrative divisions**<br>
 2 provinces (viloyatho, singular - viloyat), 1 autonomous province* (viloyati mukhtor), 1 capital region** (viloyati poytakht), and 1 area referred to as Districts Under Republic Administration***; Dushanbe**, Khatlon (Bokhtar), Kuhistoni Badakhshon [Gorno-Badakhshan]* (Khorugh), Nohiyahoi Tobei Jumhuri***, Sughd (Khujand)<br>

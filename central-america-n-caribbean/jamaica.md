@@ -656,7 +656,7 @@ _container port(s) (TEUs)_: Kingston (1,647,609) (2019)<br>
 
 **Military and security forces**<br>
 Jamaica Defense Force (JDF): Jamaica Regiment (Ground Forces), Maritime-Air-Cyber Command (includes Coast Guard, Air Wing, Military Intelligence Unit, Special Activities Regiment, and Military Cyber Corps), Support Brigade (logistics, engineers, health service, and military police); Jamaica National Service Corps (JNSC); Jamaica Constabulary Force (JCF) (2022)<br>
-<strong>note: </strong>the JNSC is a third category of service that military recruits can join as a preparatory phase for future careers; JNSC soldiers receive basic military, vocational, and life skills training; upon completion of 1-year of service, soldiers can continue on with the JDF or the JDF reserves or seek  opportunities in other public sector entities such as the JCF, the Department of Correctional Services, the Jamaica Fire Brigade, the Jamaica Customs Agency, or the Passport Immigration and Citizenship Agency, as well as other public and private sector agencies<br>
+<strong>note: </strong>the JNSC is a third category of service that military recruits can join as a preparatory phase for future careers; JNSC soldiers receive basic military, vocational, and life skills training; upon completion of 12 months of service, soldiers can continue on with the JDF or the JDF reserves or seek  opportunities in other public sector entities such as the JCF, the Department of Correctional Services, the Jamaica Fire Brigade, the Jamaica Customs Agency, or the Passport Immigration and Citizenship Agency<br>
 
 **Military expenditures**<br>
 1.4% of GDP (2021 est.)<br>
@@ -672,7 +672,7 @@ approximately 4,000 active duty personnel (2022)<br>
 the JDF is lightly armed with a limited inventory featuring equipment mostly from Europe and the US (2022)<br>
 
 **Military service age and obligation**<br>
-no conscription; 18-23 for voluntary military service (17 with parental consent); 18-28 for the reserves; since 2017, the JDF's standard mode of recruitment is to enroll recruits ages 18-23 through the Jamaica National Service Corps (JNSC); in the JNSC, soldiers receive basic military, vocational, and life skills training; upon completion of 1-year of service, soldiers can continue on with the JDF or seek other opportunities with law enforcement (2022)<br>
+no conscription; 18-23 for voluntary military service (17 with parental consent); 18-28 for the reserves; since 2017, the JDF's standard mode of recruitment is to enroll recruits ages 18-23 through the Jamaica National Service Corps (JNSC); in the JNSC, soldiers receive basic military, vocational, and life skills training; upon completion of 12 months of service, soldiers can continue on with the JDF or seek other opportunities with other government agencies (2022)<br>
 
 **Military - note**<br>
 as of 2022, the JDF&rsquo;s primary missions were maritime/border and internal security, including support to police operations in combating crime and violence<br>

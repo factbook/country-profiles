@@ -300,7 +300,7 @@ _name_: Dublin<br>
 _geographic coordinates_: 53 19 N, 6 14 W<br>
 _time difference_: UTC 0 (5 hours ahead of Washington, DC, during Standard Time)<br>
 _daylight saving time_: +1hr, begins last Sunday in March; ends last Sunday in October<br>
-_etymology_: derived from Irish "dubh" and "lind" meaning respectively "black, dark" and "pool" and which referred to the dark tidal pool where the River Poddle entered the River Liffey; today the area is the site of the castle gardens behind Dublin Castle<br>
+_etymology_: derived from Irish <em>dubh</em> and <em>lind</em> meaning respectively "black, dark" and "pool" and which referred to the dark tidal pool where the River Poddle entered the River Liffey; today the area is the site of the castle gardens behind Dublin Castle<br>
 
 **Administrative divisions**<br>
 28 counties and 3 cities*; Carlow, Cavan, Clare, Cork, Cork*, Donegal, Dublin*, Dun Laoghaire-Rathdown, Fingal, Galway, Galway*, Kerry, Kildare, Kilkenny, Laois, Leitrim, Limerick, Longford, Louth, Mayo, Meath, Monaghan, Offaly, Roscommon, Sligo, South Dublin, Tipperary, Waterford, Westmeath, Wexford, Wicklow<br>
@@ -714,7 +714,7 @@ Continuity Irish Republican Army; New Irish Republican Army; Islamic State of Ir
 <p><em>Ireland-Denmark</em>: Ireland, Iceland, and the UK dispute Denmark's claim that the Faroe Islands' continental shelf extends beyond 200 nm; Iceland, Norway, and the Faroe Islands signed an agreement in 2019 extending the Faroe Islands’ northern continental shelf area</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 46,481 (Ukraine) (as of 29 August 2022)<br>
+_refugees (country of origin)_: 49,999 (Ukraine) (as of 26 September 2022)<br>
 _stateless persons_: 107 (mid-year 2021)<br>
 
 **Trafficking in persons**<br>

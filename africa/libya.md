@@ -305,7 +305,7 @@ in transition<br>
 _name_: Tripoli (Tarabulus)<br>
 _geographic coordinates_: 32 53 N, 13 10 E<br>
 _time difference_: UTC+2 (7 hours ahead of Washington, DC, during Standard Time)<br>
-_etymology_: originally founded by the Phoenicians as Oea in the 7th century B.C., the city changed rulers many times over the successive centuries; by the beginning of the 3rd century A.D. the region around the city was referred to as Regio Tripolitana by the Romans, meaning "region of the three cities" - namely Oea (i.e., modern Tripoli), Sabratha (to the west), and Leptis Magna (to the east); over time, the shortened name of "Tripoli" came to refer to just Oea, which derives from the Greek words "tria" and "polis" meaning "three cities"<br>
+_etymology_: originally founded by the Phoenicians as Oea in the 7th century B.C., the city changed rulers many times over the successive centuries; by the beginning of the 3rd century A.D. the region around the city was referred to as Regio Tripolitana by the Romans, meaning "region of the three cities" - namely Oea (i.e., modern Tripoli), Sabratha (to the west), and Leptis Magna (to the east); over time, the shortened name of "Tripoli" came to refer to just Oea, which derives from the Greek words <em>tria </em>and <em>polis</em> meaning "three cities"<br>
 
 **Administrative divisions**<br>
 22 governorates (muhafazah, singular - muhafazat); Al Butnan, Al Jabal al Akhdar, Al Jabal al Gharbi, Al Jafarah, Al Jufrah, Al Kufrah, Al Marj, Al Marqab, Al Wahat, An Nuqat al Khams, Az Zawiyah, Banghazi (Benghazi), Darnah, Ghat, Misratah, Murzuq, Nalut, Sabha, Surt, Tarabulus (Tripoli), Wadi al Hayat, Wadi ash Shati<br>
@@ -351,7 +351,7 @@ _highest courts_: Libya's judicial system consists of a supreme court, central h
 NA<br><br>
 
 **International organization participation**<br>
-ABEDA, AfDB, AFESD, AMF, AMU, AU, BDEAC, CAEU, COMESA, FAO, G-77, IAEA, IBRD, ICAO, ICC (NGOs), ICRM, IDA, IDB, IFAD, IFC, IFRCS, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, LAS, LCBC, MIGA, NAM, OAPEC, OIC, OPCW, OPEC, PCA, UN, UNCTAD, UNESCO, UNIDO, UNSMIL, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO (observer)<br>
+ABEDA, AfDB, AFESD, AMF, AMU, AU, BDEAC, CAEU, COMESA, FAO, G-77, IAEA, IBRD, ICAO, ICC (NGOs), ICRM, IDA, IDB, IFAD, IFC, IFRCS, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, LAS, LCBC, MIGA, NAM, OAPEC, OIC, OPCW, OPEC, PCA, UN, UNCTAD, UNESCO, UNHRC, UNIDO, UNSMIL, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO (observer)<br>
 
 **Diplomatic representation in the US**<br>
 _chief of mission_: Ambassador (vacant); Charge d'Affaires Khaled DAIEF (since 27 August 2021)<br>

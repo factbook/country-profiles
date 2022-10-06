@@ -354,7 +354,7 @@ _subordinate courts_: Courts of Appeal; Administrative Court; Courts of First In
 political parties are banned<br>
 
 **International organization participation**<br>
-ABEDA, AFESD, AMF, CAEU, CD, CICA (observer), EITI (implementing country), FAO, G-77, GCC, IAEA, IBRD, ICAO, ICC (national committees), ICRM, IDA, IDB, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM (observer), IPU, ISO, ITSO, ITU, LAS, MIGA, NAM, OAPEC, OAS (observer), OIC, OIF, OPCW, OPEC, PCA, UN, UNCTAD, UNESCO, UNIDO, UNIFIL, UNWTO, UPU, WCO, WHO, WIPO, WMO, WTO<br>
+ABEDA, AFESD, AMF, CAEU, CD, CICA (observer), EITI (implementing country), FAO, G-77, GCC, IAEA, IBRD, ICAO, ICC (national committees), ICRM, IDA, IDB, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM (observer), IPU, ISO, ITSO, ITU, LAS, MIGA, NAM, OAPEC, OAS (observer), OIC, OIF, OPCW, OPEC, PCA, UN, UNCTAD, UNESCO, UNHRC, UNIDO, UNIFIL, UNWTO, UPU, WCO, WHO, WIPO, WMO, WTO<br>
 
 **Diplomatic representation in the US**<br>
 _chief of mission_: Ambassador MISHAL bin Hamad bin Muhammad Al Thani (since 24 April 2017)<br>

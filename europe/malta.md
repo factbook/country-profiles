@@ -687,7 +687,7 @@ the military has a small inventory that consists of equipment from a mix of Euro
 
 **Refugees and internally displaced persons**<br>
 _stateless persons_: 11 (mid-year 2021)<br>
-<strong>note:</strong> 8,154 estimated refugee and migrant arrivals by sea (January 2015-July 2022)<br>
+<strong>note:</strong> 8,388 estimated refugee and migrant arrivals by sea (January 2015-August 2022)<br>
 
 **Illicit drugs**<br>
 minor transshipment point for hashish from North Africa to Western Europe<br>

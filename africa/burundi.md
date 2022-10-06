@@ -388,7 +388,7 @@ _subordinate courts_: Courts of Appeal; County Courts; Courts of Residence; Mart
 Front for Democracy in Burundi-Nyakuri or FRODEBU-Nyakuri [Keffa NIBIZI]<br>Front for Democracy in Burundi-Sahwanya or FRODEBU-Sahwanya [Pierre Claver NAHIMANA]<br>National Congress for Liberty or CNL [Agathon RWASA]<br>National Council for the Defense of Democracy - Front for the Defense of Democracy or CNDD-FDD [Evariste NDAYISHIMIYE]<br>National Liberation Forces or FNL [Jacques BIGITIMANA]<br>Union for National Progress (Union pour le Progress Nationale) or UPRONA [Abel GASHATSI]<br>
 
 **International organization participation**<br>
-ACP, AfDB, AU, CEMAC, CEPGL, CICA, COMESA, EAC, FAO, G-77, IBRD, ICAO, ICCt, ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, Interpol, IOC, IOM, IPU, ISO (correspondent), ITU, ITUC (NGOs), MIGA, NAM, OIF, OPCW, UN, UNAMID, UNCTAD, UNESCO, UNIDO, UNISFA, UNWTO, UPU, WCO, WHO, WIPO, WMO, WTO<br>
+ACP, AfDB, ATMIS, AU, CEMAC, CEPGL, CICA, COMESA, EAC, FAO, G-77, IBRD, ICAO, ICCt, ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, Interpol, IOC, IOM, IPU, ISO (correspondent), ITU, ITUC (NGOs), MIGA, NAM, OIF, OPCW, UN, UNAMID, UNCTAD, UNESCO, UNIDO, UNISFA, UNWTO, UPU, WCO, WHO, WIPO, WMO, WTO<br>
 
 **Diplomatic representation in the US**<br>
 _chief of mission_: Ambassador Jean de Dieu NDIKUMANA (since 7 July 2021)<br>

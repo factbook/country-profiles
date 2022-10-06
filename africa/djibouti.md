@@ -364,7 +364,7 @@ _subordinate courts_: High Court of Appeal; 5 Courts of First Instance; customar
 Center for United Democrats or CDU [Ahmed Mohamed YOUSSOUF, chairman]<br>Democratic Renewal Party or PRD [Abdillahi HAMARITEH]<br>Djibouti Development Party or PDD [Mohamed Daoud CHEHEM]<br>Front for Restoration of Unity and Democracy (Front pour la Restauration de l'Unite Democratique) or FRUD [Ali Mohamed DAOUD]<br>Movement for Democratic Renewal and Development or MRD (previously Democratic Renewal Party or PRD) [Daher Ahmed FARAH]<br>National Democratic Party or PND [Aden Robleh AWALEH]<br>People's Rally for Progress or RPP [Ismail Omar GUELLEH] (governing party)<br>Peoples Social Democratic Party or PPSD [Hasna Moumin BAHDON]<br>Republican Alliance for Democracy or ARD [Aden Mohamed ABDOU]<br>Union for Democracy and Justice or UDJ [Ilya Ismail GUEDI Hared]<br>Union for the Presidential Majority coalition or UMP [collective leadership] (electoral coalition includes RPP, FRUD, PPSD, and UPR)<br>Union for National Salvation coalition or USN [collective leadership] (electoral coalition includes ARD, PRD, PDD, UDJ, and PND)<br>Union of Reform Partisans or UPR [Ibrahim Daoud CHEHEM]<br><br><strong>note:</strong> only parties with seats in the National Assembly included<br>
 
 **International organization participation**<br>
-ACP, AfDB, AFESD, AMF, AU, CAEU (candidates), COMESA, FAO, G-77, IBRD, ICAO, ICCt, ICRM, IDA, IDB, IFAD, IFC, IFRCS, IGAD, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ITU, ITUC (NGOs), LAS, MIGA, MINURSO, NAM, OIC, OIF, OPCW, UN, UNCTAD, UNESCO, UNHCR, UNIDO, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
+ACP, AfDB, AFESD, AMF, ATMIS, AU, CAEU (candidates), COMESA, FAO, G-77, IBRD, ICAO, ICCt, ICRM, IDA, IDB, IFAD, IFC, IFRCS, IGAD, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ITU, ITUC (NGOs), LAS, MIGA, MINURSO, NAM, OIC, OIF, OPCW, UN, UNCTAD, UNESCO, UNHCR, UNIDO, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
 
 **Diplomatic representation in the US**<br>
 _chief of mission_: Ambassador Mohamed Siad DOUALEH (28 January 2016)<br>
@@ -678,7 +678,7 @@ approximately 10,000 active troops (8,000 Army; 250 Naval; 250 Air; 1,500 Gendar
 the FAD is armed largely with older French and Soviet-era weapons systems; since 2010, it has received limited amounts of mostly second-hand equipment from a variety of countries, including China and the US (2021)<br>
 
 **Military service age and obligation**<br>
-18 years of age for voluntary military service (men and women); 16-25 years of age for voluntary military training; no conscription (2021)<br>
+18 years of age for voluntary military service for men and women; 16-25 years of age for voluntary military training; no conscription (2021)<br>
 
 **Military deployments**<br>
 960 Somalia (ATMIS) (2022)<br>

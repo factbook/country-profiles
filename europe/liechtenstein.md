@@ -273,7 +273,7 @@ _name_: Vaduz<br>
 _geographic coordinates_: 47 08 N, 9 31 E<br>
 _time difference_: UTC+1 (6 hours ahead of Washington, DC, during Standard Time)<br>
 _daylight saving time_: +1hr, begins last Sunday in March; ends last Sunday in October<br>
-_etymology_: may be a conflation from the Latin "vallis" (valley) and the High German "diutisk" (meaning "German") to produce "Valdutsch" (German valley), which over time simplified and came to refer specifically to Vaduz, the town<br>
+_etymology_: may be a conflation from the Latin <em>vallis</em> (valley) and the High German <em>diutisk</em> (meaning "German") to produce <em>Valdutsch</em> ("German valley"), which over time simplified and came to refer specifically to Vaduz, the town<br>
 
 **Administrative divisions**<br>
 11 communes (Gemeinden, singular - Gemeinde); Balzers, Eschen, Gamprin, Mauren, Planken, Ruggell, Schaan, Schellenberg, Triesen, Triesenberg, Vaduz<br>

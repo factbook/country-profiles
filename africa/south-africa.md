@@ -333,7 +333,7 @@ parliamentary republic<br>
 _name_: Pretoria (administrative capital); Cape Town (legislative capital); Bloemfontein (judicial capital)<br>
 _geographic coordinates_: 25 42 S, 28 13 E<br>
 _time difference_: UTC+2 (7 hours ahead of Washington, DC, during Standard Time)<br>
-_etymology_: Pretoria is named in honor of Andries PRETORIUS, the father of voortrekker (pioneer) leader Marthinus PRETORIUS; Cape Town reflects its location on the Cape of Good Hope; Bloemfontein is a combination of the Dutch words "bloem" (flower) and "fontein" (fountain) meaning "fountain of flowers"<br>
+_etymology_: Pretoria is named in honor of Andries PRETORIUS, the father of voortrekker (pioneer) leader Marthinus PRETORIUS; Cape Town reflects its location on the Cape of Good Hope; Bloemfontein is a combination of the Dutch words <em>bloem</em> (flower) and <em>fontein</em> (fountain) meaning "fountain of flowers"<br>
 
 **Administrative divisions**<br>
 9 provinces; Eastern Cape, Free State, Gauteng, KwaZulu-Natal, Limpopo, Mpumalanga, Northern Cape, North West, Western Cape<br>
@@ -381,7 +381,7 @@ _judge selection and term of office_: Supreme Court of Appeals president and vic
 _subordinate courts_: High Courts; Magistrates' Courts; labor courts; land claims courts<br>
 
 **Political parties and leaders**<br>
-African Christian Democratic Party or ACDP [Kenneth MESHOE]<br>African Independent Congress or AIC [Mandla GALO]<br>African National Congress or ANC [Cyril RAMAPHOSA]<br>African People's Convention or APC [Themba GODI] <br>Agang SA [Mike TSHISHONGA]<br>Congress of the People or COPE [Mosiuoa LEKOTA]<br>Democratic Alliance or DA [John STEENHUISEN]<br>Economic Freedom Fighters or EFF [Julius Sello MALEMA]<br>Freedom Front Plus or FF+ [Pieter GROENEWALD]<br>GOOD [Patricia de LILLE]<br>Inkatha Freedom Party or IFP [Mangosuthu BUTHELEZI]<br>National Freedom Party or NFP [Zanele kaMAGWAZA-MSIBI]<br>Pan-Africanist Congress of Azania or PAC [Luthanado MBINDA]<br>United Christian Democratic Party or UCDP [Isaac Sipho MFUNDISI]<br>United Democratic Movement or UDM [Bantu HOLOMISA]<br>
+African Christian Democratic Party or ACDP [Kenneth MESHOE]<br>African Independent Congress or AIC [Mandla GALO]<br>African National Congress or ANC [Cyril RAMAPHOSA]<br>African People's Convention or APC [Themba GODI] <br>Agang SA [Andries TLOUAMMA]<br>Congress of the People or COPE [Mosiuoa LEKOTA]<br>Democratic Alliance or DA [John STEENHUISEN]<br>Economic Freedom Fighters or EFF [Julius Sello MALEMA]<br>Freedom Front Plus or FF+ [Pieter GROENEWALD]<br>GOOD [Patricia de LILLE]<br>Inkatha Freedom Party or IFP [Velenkosini HLABISA]<br>National Freedom Party or NFP [vacant]<br>Pan-Africanist Congress of Azania or PAC [Mzwanele NYHONTSO]<br>United Christian Democratic Party or UCDP [Modiri Desmond SEHUME]<br>United Democratic Movement or UDM [Bantu HOLOMISA]<br>
 
 **International organization participation**<br>
 ACP, AfDB, AU, BIS, BRICS, C, CD, FAO, FATF, G-20, G-24, G-5, G-77, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, MONUSCO, NAM, NSG, OECD (enhanced engagement), OPCW, Paris Club (associate), PCA, SACU, SADC, UN, UNAMID, UNCTAD, UNESCO, UNHCR, UNIDO, UNISFA, UNITAR, UNWTO, UPU, Wassenaar Arrangement, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO, ZC<br>

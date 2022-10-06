@@ -311,7 +311,7 @@ _name_: Bratislava<br>
 _geographic coordinates_: 48 09 N, 17 07 E<br>
 _time difference_: UTC+1 (6 hours ahead of Washington, DC, during Standard Time)<br>
 _daylight saving time_: +1hr, begins last Sunday in March; ends last Sunday in October<br>
-_etymology_: the name was adopted in 1919 after Czechoslovakia gained its independence and may derive from later transliterations of the 9th century military commander, Braslav, or the 11th century Bohemian Duke BRETISLAV I; alternatively, the name may derive from the Slovak words "brat" (brother) and "slava" (glory)<br>
+_etymology_: the name was adopted in 1919 after Czechoslovakia gained its independence and may derive from later transliterations of the 9th century military commander, Braslav, or the 11th century Bohemian Duke BRETISLAV I; alternatively, the name may derive from the Slovak words <em>brat</em> (brother) and <em>slava</em> (glory)<br>
 
 **Administrative divisions**<br>
 8 regions (kraje, singular - kraj); Banska Bystrica, Bratislava, Kosice, Nitra, Presov, Trencin, Trnava, Zilina<br>
@@ -351,7 +351,7 @@ _election results_: <em><br>2019:</em> Zuzana CAPUTOVA reelected president in se
 **Legislative branch**<br>
 _description_: unicameral National Council or Narodna Rada (150 seats; members directly elected in a single- and multi-seat constituencies by closed, party-list proportional representation vote; members serve 4-year terms)<br>
 _elections_: last held on 29 February 2020 (next to be held in February 2024)<br>
-_election results_: percent of vote by party - OLaNO-NOVA 25%, Smer-SD 18.3%, Sme-Rodina 8.2%, LSNS 8%, PS-SPOLU 7%, SaS 6.2%, Za Ludi 5.8%, other 21.5%; seats by party - OLaNO-NOVA 53, Smer-SD 38, Sme-Rodina 17, LSNS 17, SaS 13, Za Ludi 12, PS-SPOLU 0; composition (as of mid-2022) - men 118, women 32, percent of women 21.3%<br>
+_election results_: percent of vote by party - OLaNO-NOVA 25%, Smer-SD 18.3%, Sme-Rodina 8.2%, LSNS 8%, SaS 6.2%, Za Ludi 5.8%, other 28.5%; seats by party - OLaNO-NOVA 53, Smer-SD 38, Sme-Rodina 17, LSNS 17, SaS 13, Za Ludi 12; composition (as of mid-2022) - men 118, women 32, percent of women 21.3%<br>
 
 **Judicial branch**<br>
 _highest courts_: Supreme Court of the Slovak Republic (consists of the court president, vice president, and approximately 80 judges organized into criminal, civil, commercial, and administrative divisions with 3- and 5-judge panels); Constitutional Court of the Slovak Republic (consists of 13 judges organized into 3-judge panels)<br>
@@ -359,7 +359,7 @@ _judge selection and term of office_: Supreme Court judge candidates nominated b
 _subordinate courts_: regional and district civil courts; Special Criminal Court; Higher Military Court; military district courts; Court of Audit;<br>
 
 **Political parties and leaders**<br>
-Alliance-Szovetseg [Krisztian FORRO]<br>Direction-Social Democracy or Smer-SD [Robert FICO]<br>For the People or Za Ludi [Veronika REMISOVA]<br>Freedom and Solidarity or SaS [Richard SULIK]<br>Kotleba-People's Party Our Slovakia or LSNS [Marian KOTLEBA]<br>Ordinary People and Independent Personalities - New Majority or OLaNO-NOVA [Igor MATOVIC]<br>Slovak National Party or SNS [Andrej DANKO]<br>Voice or Hlas-SD [Petr PELLIGRINI]<br>We Are Family or Sme-Rodina [Boris KOLLAR]<br>
+Alliance-Szovetseg or A-S [Krisztian FORRO]<br>Direction-Social Democracy or Smer-SD [Robert FICO]<br>For the People or Za Ludi [Veronika REMISOVA]<br>Freedom and Solidarity or SaS [Richard SULIK]<br>Kotleba-People's Party Our Slovakia or LSNS [Marian KOTLEBA]<br>Ordinary People and Independent Personalities - New Majority or OLaNO-NOVA [Igor MATOVIC]<br>Slovak National Party or SNS [Andrej DANKO]<br>Voice - Social Democracy or Hlas-SD [Petr PELLIGRINI]<br>We Are Family or Sme-Rodina [Boris KOLLAR] (formerly Party of Citizens of Slovakia)<br>
 
 **International organization participation**<br>
 Australia Group, BIS, BSEC (observer), CBSS (observer), CD, CE, CEI, CERN, EAPC, EBRD, ECB, EIB, EMU, EU, FAO, IAEA, IBRD, ICAO, ICC (national committees), ICRM, IDA, IEA, IFC, IFRCS, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITU, ITUC (NGOs), MIGA, NATO, NEA, NSG, OAS (observer), OECD, OIF (observer), OPCW, OSCE, PCA, Schengen Convention, SELEC (observer), UN, UNCTAD, UNESCO, UNFICYP, UNIDO, UNTSO, UNWTO, UPU, Wassenaar Arrangement, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO, ZC<br>

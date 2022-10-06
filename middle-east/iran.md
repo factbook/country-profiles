@@ -330,7 +330,7 @@ _name_: Tehran<br>
 _geographic coordinates_: 35 42 N, 51 25 E<br>
 _time difference_: UTC+3.5 (8.5 hours ahead of Washington, DC, during Standard Time)<br>
 _daylight saving time_: +1hr, begins fourth Wednesday in March; ends fourth Friday in September<br>
-_etymology_: various explanations of the city's name have been proffered, but the most plausible states that it derives from the Persian words "tah" meaning "end or bottom" and "ran" meaning "[mountain] slope" to signify "bottom of the mountain slope"; Tehran lies at the bottom slope of the Elburz Mountains<br>
+_etymology_: various explanations of the city's name have been proffered, but the most plausible states that it derives from the Persian words <em>tah</em> meaning "end or bottom" and <em>ran</em> meaning "[mountain] slope" to signify "bottom of the mountain slope"; Tehran lies at the bottom slope of the Elburz Mountains<br>
 
 **Administrative divisions**<br>
 31 provinces (ostanha, singular - ostan); Alborz, Ardabil, Azarbayjan-e Gharbi (West Azerbaijan), Azarbayjan-e Sharqi (East Azerbaijan), Bushehr, Chahar Mahal va Bakhtiari, Esfahan, Fars, Gilan, Golestan, Hamadan, Hormozgan, Ilam, Kerman, Kermanshah, Khorasan-e Jonubi (South Khorasan), Khorasan-e Razavi (Razavi Khorasan), Khorasan-e Shomali (North Khorasan), Khuzestan, Kohgiluyeh va Bowyer Ahmad, Kordestan, Lorestan, Markazi, Mazandaran, Qazvin, Qom, Semnan, Sistan va Baluchestan, Tehran, Yazd, Zanjan<br>
