@@ -143,7 +143,7 @@ the laws of France, where applicable, apply<br>
 see France<br>
 
 **Executive branch**<br>
-_chief of state_: President Emmanuel MACRON (since 14 May 2017), represented by Prefect Charles GIUSTI (since 12 October 2020)<br>
+_chief of state_: President Emmanuel MACRON (since 14 May 2017), represented by Prefect Florence JEANBLANC-RISLER (since 5 October 2022)<br>
 
 **International organization participation**<br>
 UPU<br>
@@ -178,6 +178,15 @@ has one or more meteorological stations on each possession<br>
 **Airports**<br>
 _total_: 4 (2021)<br>
 
+**Airports - with unpaved runways**<br>
+_total_: 4<br>
+_914 to 1,523 m_: 4 (2022)<br>
+<strong>Note: </strong>1 - Europa Island, 1 - Glorioso Islands, 1 - Juan de Nova Island, 1 - Tromelin Island<br>
+
+**Heliports**<br>
+3 (2022)<br>
+<strong>Note: </strong>1 - Ile Amsterdam, 1 - Ile Kerguelen, 1 - Ile de la Possession<br>
+
 **Merchant marine**<br>
 _total_: 2<br>
 _by type_: other 2 (2021)<br>
@@ -188,7 +197,7 @@ none; offshore anchorage only<br>
 ## Military and Security
 
 **Military - note**<br>
-defense is the responsibility of France<br>
+defense is the responsibility of France; French forces on Mayotte, the D&eacute;tachement de L&eacute;gion &Eacute;trang&egrave;re de Mayotte (DLEM), regularly deploys small elements for periodic rotations to Europa Island, Glorioso Islands, Juan de Nova Island, and Tromelin Island<br>
 
 ## Transnational Issues
 

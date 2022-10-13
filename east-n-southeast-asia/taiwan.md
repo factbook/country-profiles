@@ -288,7 +288,7 @@ _judge selection and term of office_: Supreme Court justices appointed by the pr
 _subordinate courts_: high courts; district courts; hierarchy of administrative courts<br>
 
 **Political parties and leaders**<br>
-Democratic Progressive Party or DPP [TSAI Ing-wen]<br>Kuomintang or KMT (Nationalist Party) [CHU Chi-luan, aka Eric CHU]<br>New Power Party or NPP [KAO Yu-ting]<br>People First Party or PFP [James SOONG]<br>Taiwan People's Party or TPP [KO Wen-je]<br>Taiwan Statebuilding Party or TSP [CHEN Yi-chi]<br>
+Democratic Progressive Party or DPP [TSAI Ing-wen]<br>Kuomintang or KMT (Nationalist Party) [Eric CHU Chi-luan]<br>New Power Party or NPP [CHEN Jiau-hua]<br>People First Party or PFP [James SOONG]<br>Taiwan People's Party or TPP [KO Wen-je]<br>Taiwan Statebuilding Party or TSP [CHEN Yi-chi]<br>
 <strong>note:</strong> the DPP and the KMT are the two major political parties; there are hundreds of registered minor parties<br>
 
 **International organization participation**<br>

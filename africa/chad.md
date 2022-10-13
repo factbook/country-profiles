@@ -708,7 +708,7 @@ limited and varied information; estimated to have up to 35,000 active ANT person
 the ANT is mostly armed with older or second-hand equipment from Belgium, France, Russia, and the former Soviet Union; since 2010, it has received equipment, including donations, from more than 10 countries, including China, Italy, Ukraine, and the US (2021)<br>
 
 **Military service age and obligation**<br>
-20 is the legal minimum age for compulsory military service for men with an 18-36 month service obligation (information varies); women are subject to 12 months of compulsory military or civic service at age 21; 18-35 for voluntary service; soldiers released from active duty are in the reserves until the age of 50 (2021)<br>
+20 is the legal minimum age for compulsory military service for men with an 18-36 month service obligation (information varies); women are subject to 12 months of compulsory military or civic service at age 21; 18-35 for voluntary service; soldiers released from active duty are in the reserves until the age of 50 (2022)<br>
 
 **Military deployments**<br>
 1,450 Mali (MINUSMA) (May 2022)<br>
@@ -729,7 +729,7 @@ Boko Haram; Islamic State of Iraq and ash-Sham - West Africa (ISIS-WA)<br>
 <p>since 2003, ad hoc armed militia groups and the Sudanese military have driven hundreds of thousands of Darfur residents into Chad; Chad wishes to be a helpful mediator in resolving the Darfur conflict, and in 2010 established a joint border monitoring force with Sudan, which has helped to reduce cross-border banditry and violence; only Nigeria and Cameroon have heeded the Lake Chad Commission's admonition to ratify the delimitation treaty, which also includes the Chad-Niger and Niger-Nigeria boundaries</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 387,753 (Sudan), 124,488 (Central African Republic), 35,137 (Cameroon), 20,218 (Nigeria) (2022)<br>
+_refugees (country of origin)_: 387,753 (Sudan), 124,509 (Central African Republic), 35,137 (Cameroon), 20,272 (Nigeria) (2022)<br>
 _IDPs_: 381,289 (majority are in the east) (2022)<br>
 
 **Trafficking in persons**<br>

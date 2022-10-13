@@ -712,7 +712,7 @@ approximately 75,000 active duty personnel (58,000 Land Forces; 7,000 Naval Forc
 the inventory of the Romanian Armed Forces is comprised mostly of Soviet-era and older domestically-produced weapons systems; there is also a smaller mix of Western-origin equipment received in more recent years from European countries and the US&nbsp; (2021)<br>
 
 **Military service age and obligation**<br>
-conscription ended in 2006; 18 years of age for male and female voluntary service; all military inductees contract for an initial 5-year term of service, with subsequent successive 3-year terms until age 36 (2021)<br>
+18 years of age for voluntary service for men and women; all military inductees contract for an initial 5-year term of service, with subsequent successive 3-year terms until age 36; conscription ended in 2006 (2021)<br>
 
 **Military deployments**<br>
 up to 120 Poland (NATO) (2022)<br>
@@ -734,7 +734,7 @@ Islamic State of Iraq and ash-Sham (ISIS)<br>
 **Refugees and internally displaced persons**<br>
 _refugees (country of origin)_: 80,498 (Ukraine) (as of 18 September 2022)<br>
 _stateless persons_: 314 (mid-year 2021)<br>
-<strong>note:</strong> 11,318 estimated refugee and migrant arrivals (January 2015-September 2022)<br>
+<strong>note:</strong> 11,467 estimated refugee and migrant arrivals (January 2015-September 2022)<br>
 
 **Trafficking in persons**<br>
 _current situation_: human traffickers exploit domestic and foreign victims in Romania and Romanians abroad;&nbsp; Romania remains a primary source country for sex and labor trafficking victims in Europe; Romanian men, women, and children are subjected to forced labor in agriculture, construction, hotels, manufacturing, domestic service, commercial sex, and forced begging and theft; Romania is a destination country for a limited number of foreign trafficking victims, including migrants from Africa, Europe, and South and Southeast Asia, exploited in the construction, hotel, and food-processing industries<br>

@@ -672,7 +672,7 @@ the MPF's inventory is comprised of mostly second-hand equipment from Western Eu
 service is voluntary (2022)<br>
 
 **Military - note**<br>
-as of 2022, the country’s primary security partner was India, and Indian naval vessels often patrol Mauritian waters; the MPF has also received assistance and training from France, the UK, and the US; the MPF’s chief security concerns are piracy and narcotics trafficking<br><br>the Special Mobile Force was created in 1960 following the withdrawal of the British garrison (2022)<br>
+as of 2022, the country’s primary security partner was India, and Indian naval vessels often patrol Mauritian waters; the MPF has also received assistance and training from France, the UK, and the US; the MPF’s chief security concerns were piracy and narcotics trafficking<br><br>the Special Mobile Force was created in 1960 following the withdrawal of the British garrison (2022)<br>
 
 ## Transnational Issues
 

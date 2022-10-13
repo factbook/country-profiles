@@ -715,11 +715,12 @@ Polish Armed Forces: Land Forces (Wojska Ladowe), Navy (Marynarka Wojenna), Air 
 <strong>note:</strong> the Polish Armed Forces are organized into a General Staff, an Armed Forces General Command, an Armed Forces Operational Command, Territorial Defense Forces (established 2017), Military Police, and the Warsaw Garrison Command<br>
 
 **Military expenditures**<br>
-2.3% of GDP (2021 est.)<br>
+2.2% of GDP (2022 est.)<br>
+2.3% of GDP (2021)<br>
 2.2% of GDP (2020)<br>
 2% of GDP (2019) (approximately $17.5 billion)<br>
 2% of GDP (2018) (approximately $16.8 billion)<br>
-1.9% of GDP (2017) (approximately $14.9 billion)<br>
+<strong>note: </strong>in 2022, the Polish Government announced plans to increase defense spending to 3% of GDP for 2023<br>
 
 **Military and security service personnel strengths**<br>
 approximately 120,000 active duty personnel (65,000 Army; 7,000 Navy; 15,000 Air Force; 3,000 Special Forces; 25,000 joint service/other; 5,000 active Territorial Defense Forces); approximately 25,000 other Territorial Defense Forces (reserves) (2022)<br>
@@ -730,8 +731,8 @@ the inventory of the Polish Armed Forces consists of a mix of Soviet-era and mor
 <strong>note:</strong> in late 2018, Poland announced a 7-year (through 2026) approximately $50 billion defense modernization plan that would include such items as 5th generation combat aircraft, unmanned aerial vehicles, rocket artillery, helicopters, submarines, frigates, and improved cyber security<br>
 
 **Military service age and obligation**<br>
-18-28 years of age for male and female voluntary military service; conscription phased out in 2009-12; professional soldiers serve on a permanent basis (for an unspecified period of time) or on a contract basis (for a specified period of time); initial contract period is 24 months; women serve in the military on the same terms as men (2021)<br>
-<strong>note:</strong> as of 2019, women made up about 7% of the military's full-time personnel<br>
+18-28 years of age for male and female voluntary military service; conscription phased out in 2009-12; professional soldiers serve on a permanent basis (for an unspecified period of time) or on a contract basis (for a specified period of time); initial contract period is 24 months; women serve in the military on the same terms as men (2022)<br>
+<strong>note 1:</strong> as of 2019, women made up about 7% of the military's full-time personnel<br><br><strong>note 2: </strong>in May 2022, Poland announced a new 12-month voluntary military service program with recruits going through a 1-month basic training period with a military unit, followed by 11 months of specialized training; upon completion of service, the volunteers would be allowed to join the Territorial Defense Forces or the active reserve, and have priority to join the professional army and be given preference for employment in the public sector; the program is part of an effort to increase the size of the Polish military<br>
 
 **Military deployments**<br>
 250 Kosovo (NATO/KFOR); up to 180 Latvia (NATO); 190 Lebanon (UNIFIL); 230 Romania (NATO) (2022)<br>
@@ -752,7 +753,7 @@ Islamic State of Iraq and ash-Sham (ISIS)<br>
 <p><em>Poland-Belarus-Ukraine</em>: as a member state that forms part of the EU's external border, Poland has implemented the strict Schengen border rules to restrict illegal immigration and trade along its eastern borders with Belarus and Ukraine</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 9,870 (Russia) (2019); 1,409,139 (Ukraine) (as of 26 September 2022)<br>
+_refugees (country of origin)_: 9,870 (Russia) (2019); 1,422,482 (Ukraine) (as of 11 October 2022)<br>
 _stateless persons_: 1,389 (mid-year 2021)<br>
 
 **Illicit drugs**<br>

@@ -713,7 +713,7 @@ approximately 40,000 active duty personnel (20,000 Army; 7,500 Navy; 6,500 Air F
 the military's inventory consists of a mix of domestically-produced and modern European- and US-sourced equipment; since 2010, the US has been the leading supplier of weapons systems to the Netherlands; the Netherlands has an advanced domestic defense industry that focuses on armored vehicles, naval ships, and air defense systems; it also participates with the US and other European countries on joint development and production of advanced weapons systems (2021)<br>
 
 **Military service age and obligation**<br>
-17 years of age for an all-volunteer force; conscription remains in place, but the requirement to show up for compulsory military service was suspended in 1997 (2021)<br>
+17 years of age for voluntary service for men and women; the military is an all-volunteer force; conscription remains in place, but the requirement to show up for compulsory military service was suspended in 1997; must be a citizen of the Netherlands (2022)<br>
 <strong>note: </strong>in 2019, women made up about 11% of the military's full-time personnel<br>
 
 **Military deployments**<br>
@@ -735,7 +735,7 @@ Islamic State of Iraq and ash-Sham (ISIS)<br>
 <p>none identified</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 37,792 (Syria), 14,787 (Eritrea), 8,368 (Somalia), 6,636 (Iraq), 5,346 (Iran) (mid-year 2021); 76,660 (Ukraine) (as of 5 September 2022)<br>
+_refugees (country of origin)_: 37,792 (Syria), 14,787 (Eritrea), 8,368 (Somalia), 6,636 (Iraq), 5,346 (Iran) (mid-year 2021); 79,250 (Ukraine) (as of 30 September 2022)<br>
 _stateless persons_: 2,087 (mid-year 2021)<br>
 
 **Illicit drugs**<br>

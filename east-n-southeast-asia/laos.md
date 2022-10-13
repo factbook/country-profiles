@@ -701,7 +701,7 @@ information is limited and estimates vary; approximately 30,000 active duty troo
 the LPAF is armed largely with Soviet-era weapons acquired from the former Soviet Union, Russia, and Vietnam; since 2010, China and Russia have been the leading suppliers of military equipment to Laos (2022)<br>
 
 **Military service age and obligation**<br>
-18 years of age for compulsory or voluntary military service; conscript service obligation - minimum 18 months (2022)<br>
+18 years of age for compulsory or voluntary military service; minimum 18-month service obligation (2022)<br>
 
 **Military - note**<br>
 the LPAF’s primary missions are border and internal security, including counterinsurgency and counterterrorism<br><br>Vietnam is the Laotian military's primary security partner, although in recent years, Laos has expanded defense ties with China (2022)<br>

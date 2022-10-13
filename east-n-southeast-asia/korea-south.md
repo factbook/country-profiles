@@ -308,7 +308,7 @@ _etymology_: derived from the Chinese name for Goryeo, which was the Korean dyna
 presidential republic<br>
 
 **Capital**<br>
-_name_: Seoul; note - Sejong, located some 120 km (75 mi) south of Seoul, is serving as an administrative capital for segments of the South Korean Government<br>
+_name_: Seoul; note - Sejong, located some 120 km (75 mi) south of Seoul, serves as an administrative capital for segments of the South Korean Government<br>
 _geographic coordinates_: 37 33 N, 126 59 E<br>
 _time difference_: UTC+9 (14 hours ahead of Washington, DC, during Standard Time)<br>
 _etymology_: the name originates from the Korean word meaning "capital city" and which is believed to be derived from Seorabeol, the name of the capital of the ancient Korean Kingdom of Silla<br>

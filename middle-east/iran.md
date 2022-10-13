@@ -713,7 +713,7 @@ the Iranian military's inventory includes a mix of domestically-produced and mos
 
 **Military service age and obligation**<br>
 18 years of age for men for compulsory military service; 16 years of age for volunteers; 17 years of age for Law Enforcement Forces; 15 years of age for Basij Forces (Popular Mobilization Army); conscript military service obligation is 18-24 months, depending on the location of service (soldiers serving in places of high security risk and deprived areas serve shorter terms); women exempt from military service (2021)<br>
-<strong>note: </strong>as of 2019, approximately 80% of Artesh ground forces personnel were conscripts, while Navy and Air/Air Defense Force personnel were primarily volunteers; conscripts reportedly comprised more than 50% of the IRGC <br>
+<strong>note: </strong>as of 2019, approximately 80% of Artesh ground forces personnel were conscripts, while Navy and Air/Air Defense Force personnel were primarily volunteers; conscripts reportedly comprised more than 50% of the IRGC<br>
 
 **Military deployments**<br>
 estimated to have up to 3,000 military personnel in Syria (2022)<br>

@@ -602,7 +602,7 @@ see entry for Sudan<br>
 
 **Military and security forces**<br>
 South Sudan People’s Defense Force (SSPDF): Ground Force (includes Presidential Guard, aka Tiger Division), Air Force, Air Defense Forces; National (or Necessary) Unified Forces (NUF) (2022)<br>
-<strong>note 1: </strong>the NUF are being formed by retraining rebel and pro-government fighters into military, police, and other government security forces; in August 2022, South Sudan held the first graduation ceremony for retrained personnel<strong><br><br>note 2:</strong> numerous irregular forces operate in the country with official knowledge, including militias operated by the National Security Service (an internal security force under the Ministry of National Security) and proxy forces<br>
+<strong>note 1: </strong>the NUF are being formed by retraining rebel and pro-government militia fighters into military, police, and other government security forces; in August 2022, South Sudan held the first graduation ceremony for retrained personnel<strong><br><br>note 2:</strong> numerous irregular forces operate in the country with official knowledge, including militias operated by the National Security Service (an internal security force under the Ministry of National Security) and proxy forces<br>
 
 **Military expenditures**<br>
 2% of GDP (2021 est.)<br>

@@ -696,7 +696,7 @@ approximately 6,500 active troops (2022)<br>
 the Moldovan military's inventory is limited and almost entirely comprised of older Russian and Soviet-era equipment; since 2000, it has received small amounts of donated material from other nations, including the US (2021)<br>
 
 **Military service age and obligation**<br>
-18-27 years of age for compulsory or voluntary military service; male registration required at age 16; 12-month service obligation (2021)<br>
+18-27 years of age for compulsory or voluntary military service; male registration required at age 16; 12-month service obligation (2022)<br>
 <strong>note:</strong> as of 2019, women made up about 20% of the military's full-time personnel<br>
 
 **Military - note**<br>
@@ -708,7 +708,7 @@ Moldova is constitutionally neutral, but has maintained a relationship with NATO
 <p><em>Moldova-Romania</em>: none identified</p> <p><em>Moldova-Ukraine</em>: Ukraine and Moldova signed an agreement officially delimiting their border in 1999, but the border has not been demarcated due to Moldova's difficulties with the break-away region of Transnistria; Moldova and Ukraine operate joint customs posts to monitor the transit of people and commodities through Moldova's break-away Transnistria region, which remains under the auspices of an Organization for Security and Cooperation in Europe-mandated peacekeeping mission comprised of Moldovan, Transnistrian, Russian, and Ukrainian troops</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 92,443 (Ukraine) (as of 27 September 2022)<br>
+_refugees (country of origin)_: 93,117 (Ukraine) (as of 11 October 2022)<br>
 _stateless persons_: 3,372 (mid-year 2021)<br>
 
 **Illicit drugs**<br>

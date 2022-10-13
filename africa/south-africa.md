@@ -358,7 +358,7 @@ has not submitted an ICJ jurisdiction declaration; accepts ICCt jurisdiction<br>
 _citizenship by birth_: no<br>
 _citizenship by descent only_: at least one parent must be a citizen of South Africa<br>
 _dual citizenship recognized_: yes, but requires prior permission of the government<br>
-_residency requirement for naturalization_: 1 year<br>
+_residency requirement for naturalization_: 5 year<br>
 
 **Suffrage**<br>
 18 years of age; universal<br>

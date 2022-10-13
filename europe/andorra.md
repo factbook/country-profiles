@@ -394,7 +394,7 @@ _industry_: 33.6% (2015 est.)<br>
 _services_: 54.5% (2015 est.)<br>
 
 **Agricultural products**<br>
-small quantities of rye, wheat, barley, oats, vegetables, tobacco; sheep, cattle<br>
+small quantities of rye, wheat, barley, oats, vegetables, tobacco, sheep, cattle<br>
 
 **Industries**<br>
 tourism (particularly skiing), banking, timber, furniture<br>

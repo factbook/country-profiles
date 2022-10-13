@@ -343,7 +343,7 @@ _residency requirement for naturalization_: 5 years<br>
 
 **Executive branch**<br>
 _chief of state_: King SALMAN bin Abd al-Aziz Al Saud (since 23 January 2015); Crown Prince MUHAMMAD BIN SALMAN bin Abd al-Aziz Al Saud (born 31 August 1985)<br>
-_head of government_: Prime Minister Crown Prince MUHAMMAD BIN SALMAN bin Abd al-Aziz Al Saud (since 27 September 2022) (born 31 August 1985)<br>
+_head of government_: King and Prime Minister SALMAN bin Abd al-Aziz Al Saud (since 23 January 2015); Crown Prince MUHAMMAD BIN SALMAN bin Abd al-Aziz Al Saud (born 31 August 1985)<br>
 _cabinet_: Council of Ministers appointed by the monarch every 4 years and includes many royal family members<br>
 _elections/appointments_: none; the monarchy is hereditary; an Allegiance Council created by royal decree in October 2006 established a committee of Saudi princes for a voice in selecting future Saudi kings<br>
 
@@ -708,7 +708,8 @@ the inventory of the Saudi military forces, including the SANG, includes a mix o
 <strong>note:</strong> as of 2022, the Saudi Navy was in the midst of a multi-year and multi-billion dollar expansion and modernization program to purchase new frigates, corvettes, and other naval craft; in 2022, it received two of an expected five corvettes as part of a joint construction effort with Spain; in 2018, it signed a contract to acquire four US-built multi-purpose littoral mission ships, which will be comparable to frigates in capabilities<br>
 
 **Military service age and obligation**<br>
-17-40 for voluntary military service for men; no conscription; as of 2021, women (aged 18-40) were allowed to serve in the Army, Air Defense, Navy, Strategic Missile Force, medical services, and internal security forces up to the rank of non-commissioned officer (2021)<br>
+men (17-40) and women (21-40) may volunteer for military service; no conscription (2022)<br>
+<strong>note: </strong>in 2021, women were allowed to serve in the Army, Air Defense, Navy, Strategic Missile Force, medical services, and internal security forces up to the rank of non-commissioned officer <br>
 
 **Military deployments**<br>
 estimated 2,500-5,000 Yemen (varies depending on operations) (2022)<br>

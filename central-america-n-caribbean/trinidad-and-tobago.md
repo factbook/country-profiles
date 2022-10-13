@@ -335,7 +335,7 @@ _judge selection and term of office_: Supreme Court chief justice appointed by t
 _subordinate courts_: Courts of Summary Criminal Jurisdiction; Petty Civil Courts; Family Court<br>
 
 **Political parties and leaders**<br>
-Congress of the People or COP [Kirt SINNETTE]<br>People's National Movement or PNM [Keith ROWLEY]<br>Progressive Democratic Patriots (Tobago) [Watson DUKE]<br>United National Congress or UNC [Kamla PERSAD-BISSESSAR]<br>
+Congress of the People or COP [Kirt SINNETTE]<br>People's National Movement or PNM [Keith ROWLEY]<br>Progressive Democratic Patriots or PDP (Tobago) [Watson DUKE]<br>United National Congress or UNC [Kamla PERSAD-BISSESSAR]<br>
 
 **International organization participation**<br>
 ACP, AOSIS, C, Caricom, CDB, CELAC, EITI (compliant country), FAO, G-24, G-77, IADB, IAEA, IBRD, ICAO, ICC (NGOs), ICCt, ICRM, IDA, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), LAES, MIGA, NAM, OAS, OPANAL, OPCW, Pacific Alliance (observer), Paris Club (associate), UN, UNCTAD, UNESCO, UNIDO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>

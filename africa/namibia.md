@@ -717,7 +717,7 @@ information varies; approximately 12,500 personnel (11,000 Army; 1,000 Navy; 500
 the NDF's inventory consists of a mix of Soviet-era and some more modern systems from a variety of countries, including Brazil, China, Germany, India, and South Africa; it has a small defense industry that produces items such as armored personnel carriers (2021)<br>
 
 **Military service age and obligation**<br>
-18-25 years of age for men and women for voluntary military service; no conscription (2021)<br>
+18-25 years of age for men and women for voluntary military service; no conscription (2022)<br>
 <strong>note:</strong> as of 2018, women comprised more than 20% of the active duty military<br>
 
 **Military - note**<br>

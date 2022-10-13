@@ -524,7 +524,7 @@ Military Corps (National Guard): Guard of the Rock (or Fortress Guard), Uniforme
 <strong>note:</strong> the captains regent oversee the Gendarmerie and National Guard when they are performing duties related to public order and security; the Ministry of Foreign Affairs exercises control over such administrative functions as personnel and equipment, and the courts exercise control over the Gendarmerie when it acts as judicial police<br>
 
 **Military service age and obligation**<br>
-18 is the legal minimum age for voluntary military service; no conscription; government has the authority to call up all San Marino citizens from 16-60 years of age to serve in the military (2021)<br>
+18 is the legal minimum age for voluntary military service; no conscription; government has the authority to call up all San Marino citizens from 16-60 years of age to serve in the military (2022)<br>
 
 **Military - note**<br>
 defense is the responsibility of Italy<br>

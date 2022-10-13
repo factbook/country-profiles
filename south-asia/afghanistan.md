@@ -399,12 +399,12 @@ _FAX_: [1] (202) 483-6488<br>
 _email address and website_: <br>info@afghanembassy.us<br><br>https://www.afghanembassy.us/<br>
 
 **Diplomatic representation from the US**<br>
-_chief of mission_: Ambassador (vacant); Charge d’Affaires: Ian MCCARY (since August 2021); note – since 15 August 2021, the United States has not yet made a decision whether to recognize the Taliban or any other entity as the Government of Afghanistan <p> </p> <p> </p> <p> </p> <p> </p><br>
+_chief of mission_: Ambassador (vacant); Charge d&rsquo;Affaires: Ian McCARY (since August 2021); note &ndash; since 15 August 2021, the United States has not yet made a decision whether to recognize the Taliban or any other entity as the Government of Afghanistan<br>
 _embassy_: Embassy Kabul, operations have been suspended; Department of State’s Afghanistan Affairs Unit operates from Doha, Qatar. <p> </p> <p> </p> <p> </p> <p> </p><br>
 
 **Flag description**<br>
 three equal vertical bands of black (hoist side), red, and green, with the national emblem in white centered on the red band and slightly overlapping the other 2 bands; the center of the emblem features a mosque with pulpit and flags on either side, below the mosque are Eastern Arabic numerals for the solar year 1298 (1919 in the Gregorian calendar, the year of Afghan independence from the UK); this central image is circled by a border consisting of sheaves of wheat on the left and right, in the upper-center is an Arabic inscription of the Shahada (Muslim creed) below which are rays of the rising sun over the Takbir (Arabic expression meaning "God is great"), and at bottom center is a scroll bearing the name Afghanistan; black signifies the past, red is for the blood shed for independence, and green can represent either hope for the future, agricultural prosperity, or Islam<br>
-<strong>note 1: </strong>the United States has not recognized the Taliban or any other entity as the government of Afghanistan and, accordingly, continues to display the flag of Afghanistan as set forth in the country's constitution<strong><br><br>note 2:</strong> Afghanistan had more changes to its national flag in the 20th century - 19 by one count - than any other country; the colors black, red, and green appeared on most of them<br><br><br><br><br><br>
+<strong>note 1: </strong>the United States has not recognized the Taliban or any other entity as the government of Afghanistan and, accordingly, continues to display the flag of Afghanistan as set forth in the country's constitution of 2004<strong><br><br>note 2:</strong> Afghanistan had more changes to its national flag in the 20th century - 19 by one count - than any other country; the colors black, red, and green appeared on most of them<br><br><br><br><br><br>
 
 **National symbol(s)**<br>
 lion; national colors: red, green, black<br>
@@ -412,11 +412,12 @@ lion; national colors: red, green, black<br>
 **National anthem**<br>
 _name_: "Milli Surood" (National Anthem)<br>
 _lyrics/music_: Abdul Bari JAHANI/Babrak WASA<br>
-<strong>note:</strong> adopted 2006; the 2004 constitution of the post-Taliban government mandated that a new national anthem should be written containing the phrase "Allahu Akbar" (God is Greatest) and mentioning the names of Afghanistan's ethnic groups<br>
+<strong>note:</strong> adopted 2006<br>
 
 **National heritage**<br>
 _total World Heritage Sites_: 2 (both cultural)<br>
 _selected World Heritage Site locales_: Minaret of Jam; Buddhas of Bamyan<br>
+<strong>note:</strong> the monumental 6th- and 7th-century statues were destroyed by the Taliban in 2001<br>
 
 ## Economy
 
@@ -631,7 +632,7 @@ _subscriptions per 100 inhabitants_: 58 (2020 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: before 15 August 2021, Afghanistan had successfully rebuilt infrastructure to create a functional telecom sector that covered nearly all of the population; due to mountainous geography, Afghanistan relies on its mobile network; mobile broadband penetration growing, but is still low compared to other countries in Asia; operator launched LTE in Kabul; World Bank and other donors support development of a nationwide fiber backbone; terrestrial cable connectivity to five neighboring countries; work on the &lsquo;Wakhan Corridor Fiber Optic Survey Project&rsquo; to connect to China is nearing completion; major importer of broadcasting equipment from UAE (2021)<br>
-_domestic_: before 15 August 2021, less than 1 per 100 for fixed-line teledensity; 59 per 100 for mobile-cellular; an increasing number of Afghans utilize mobile-cellular phone networks (2021)<br>
+_domestic_: before 15 August 2021, less than 1 per 100 for fixed-line teledensity; 58 per 100 for mobile-cellular; an increasing number of Afghans utilize mobile-cellular phone networks (2021)<br>
 _international_: country code - 93; multiple VSAT's&nbsp;provide international and domestic voice and data connectivity (2019)<br>
 <strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress towards 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>
 

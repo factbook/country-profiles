@@ -707,7 +707,7 @@ information varies; approximately 9,000 active duty troops (2022)<br>
 the MAF are armed with Soviet-era equipment supplemented by deliveries of second-hand Russian weapons (2021)<br>
 
 **Military service age and obligation**<br>
-18-27 years of age for compulsory and voluntary military service; 12-month conscript service obligation for men in the army, air forces, or police (can be exchanged for a 24‐month stint in the civil service or a tax voucher); after conscription, soldiers can contract into military service for 2 or 4 years; women may volunteer (2021)<br>
+18-27 years of age for compulsory and voluntary military service (can enter military schools at age 17); 12-month conscript service obligation for men in the army, air forces, or police (can be extended 3 months under special circumstances); conscription service can be exchanged for a 24‐month stint in the civil service or a cash payment determined by the Mongolian Government; after conscription, soldiers can contract into military service for 2 or 4 years; volunteer military service for men and women is 24 months, which can be extended for another two years up to the age of 31 (2022)<br>
 
 **Military deployments**<br>
 860 South Sudan (UNMISS) (May 2022)<br>

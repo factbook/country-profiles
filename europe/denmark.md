@@ -61,7 +61,6 @@ _agricultural land: permanent crops_: permanent crops: 0.1% (2018 est.)<br>
 _agricultural land: permanent pasture_: permanent pasture: 4.4% (2018 est.)<br>
 _forest_: 12.9% (2018 est.)<br>
 _other_: 23.7% (2018 est.)<br>
-<strong>note:</strong> highest percentage of arable land for any country in the world<br>
 
 **Irrigated land**<br>
 4,350 sq km (2012)<br>
@@ -265,7 +264,6 @@ _agricultural land: permanent crops_: permanent crops: 0.1% (2018 est.)<br>
 _agricultural land: permanent pasture_: permanent pasture: 4.4% (2018 est.)<br>
 _forest_: 12.9% (2018 est.)<br>
 _other_: 23.7% (2018 est.)<br>
-<strong>note:</strong> highest percentage of arable land for any country in the world<br>
 
 **Urbanization**<br>
 _urban population_: 88.4% of total population (2022)<br>
@@ -313,7 +311,7 @@ _etymology_: name derives from the city's Danish appellation Kobenhavn, meaning 
 metropolitan Denmark - 5 regions (regioner, singular - region); Hovedstaden (Capital), Midtjylland (Central Jutland), Nordjylland (North Jutland), Sjaelland (Zealand), Syddanmark (Southern Denmark)<br>
 
 **Independence**<br>
-ca. 965 (unified and Christianized under HARALD I Gormsson); 5 June 1849 (became a parliamentary constitutional monarchy)<br>
+ca. 965 (unified and Christianized under Harald I GORMSSON); 5 June 1849 (became a parliamentary constitutional monarchy)<br>
 
 **National holiday**<br>
 Constitution Day, 5 June (1849); note - closest equivalent to a national holiday<br>
@@ -354,7 +352,7 @@ _judge selection and term of office_: judges appointed by the monarch upon the r
 _subordinate courts_: Special Court of Indictment and Revision; 2 High Courts; Maritime and Commercial Court; county courts<br>
 
 **Political parties and leaders**<br>
-The Alternative AP (Franciska ROSENKILDE)<br>Conservative People's Party or DKF or C [Soren PAPE POULSEN]<br>Danish People's Party or DF or O [Morten MESSERSCHMIDT]<br>Green Left or SF or F [Pia OLSEN DYHR] (formerly Socialist People's Party or SF or F)<br>Liberal Alliance or LA or I [Alex VANOPSLAGH]<br>Liberal Party (Venstre) or V [Jakob ELLEMANN-JENSEN]<br>New Right Party or NB or D [Pernille VERMUND]<br>Red-Green Alliance (Unity List) or EL [collective leadership, Mai VILLADSEN, spokesperson]<br>Social Democrats or SDP or A [Mette FREDERIKSEN]<br>Social Liberal Party or SLP or B [Sofie CARSTEN NIELSEN]<br>
+The Alternative AP [Franciska ROSENKILDE]<br>Conservative People's Party or DKF or C [Soren PAPE POULSEN]<br>Danish People's Party or DF or O [Morten MESSERSCHMIDT]<br>Green Left or SF or F [Pia OLSEN DYHR] (formerly Socialist People's Party or SF or F)<br>Liberal Alliance or LA or I [Alex VANOPSLAGH]<br>Liberal Party (Venstre) or V [Jakob ELLEMANN-JENSEN]<br>New Right Party or NB or D [Pernille VERMUND]<br>Red-Green Alliance (Unity List) or EL [collective leadership, Mai VILLADSEN, spokesperson]<br>Social Democrats or SDP or A [Mette FREDERIKSEN]<br>Social Liberal Party or SLP or B [Sofie CARSTEN NIELSEN]<br>
 
 **International organization participation**<br>
 ADB (nonregional member), AfDB (nonregional member), Arctic Council, Australia Group, BIS, CBSS, CD, CE, CERN, EAPC, EBRD, ECB, EIB, EITI (implementing country), ESA, EU, FAO, FATF, G-9, IADB, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IEA, IFAD, IFC, IFRCS, IGAD (partners), IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, MINUSMA, NATO, NC, NEA, NIB, NSG, OAS (observer), OECD, OPCW, OSCE, Paris Club, PCA, Schengen Convention, UN, UNCTAD, UNESCO, UNHCR, UNIDO, UNMIL, UNMISS, UNRWA, UNTSO, UPU, Wassenaar Arrangement, WCO, WHO, WIPO, WMO, WTO, ZC<br>
@@ -368,7 +366,7 @@ _email address and website_: <br>wasamb@um.dk<br><br>https://usa.um.dk/en<br>
 _consulate(s) general_: Chicago, Houston, New York, Silicon Valley (CA)<br>
 
 **Diplomatic representation from the US**<br>
-_chief of mission_: Ambassador (vacant); Charge d'Affaires Jim BOUGHNER<br>
+_chief of mission_: Ambassador Alan LEVENTHAL (since 1 July 2022)<br>
 _embassy_: Dag Hammarskjolds Alle 24, 2100 Kobenhavn 0<br>
 _mailing address_: 5280 Copenhagen Place, Washington DC&nbsp; 20521-5280<br>
 _telephone_: [45] 33-41-71-00<br>
@@ -699,8 +697,8 @@ approximately 17,000 active duty personnel (10,000 Army; 3,500 Navy; 3,500 Air F
 the Danish military inventory is comprised of a mix of modern European, US, and domestically-produced equipment; the US has been the largest supplier of military equipment to Denmark since 2010; the Danish defense industry is active in the production of naval vessels, defense electronics, and subcomponents of larger weapons systems, such as the US F-35 fighter aircraft (2022)<br>
 
 **Military service age and obligation**<br>
-18 years of age for compulsory and voluntary military service; conscripts serve an initial training period that varies from 4 to 12 months depending on specialization; former conscripts are assigned to mobilization units; women eligible to volunteer for military service; in addition to full time employment, the Danish Military offers reserve contracts in all three branches (2021)<br>
-<strong>note:</strong> women have been able serve in all military occupations, including combat arms, since 1988; as of 2019, they made up about 8% of the military's full-time personnel; conscientious objectors can choose to instead serve 6 months in a non-military position, for example in Beredskabsstyrelsen (dealing with non-military disasters like fires, flood, pollution, etc.) or overseas foreign aid work<br>
+18 years of age for compulsory and voluntary military service; conscripts serve an initial training period that varies from 4 to 12 months depending on specialization; former conscripts are assigned to mobilization units; women eligible to volunteer for military service; in addition to full time employment, the Danish Military offers reserve contracts in all three branches (2022)<br>
+<strong>note 1:</strong> women have been able serve in all military occupations, including combat arms, since 1988; as of 2019, they made up about 8% of the military's full-time personnel; conscientious objectors can choose to instead serve 6 months in a non-military position, for example in Beredskabsstyrelsen (dealing with non-military disasters like fires, flood, pollution, etc.) or overseas foreign aid work<br><br><strong>note 2: </strong>foreign nationals living in another EU country may apply to join the Danish armed forces, provided they are fluent in Dutch and have lived one year in Denmark or six years if applying within an EU country<br><br><strong>note 2: </strong>Denmark has had compulsory military service since 1849<br>
 
 **Military deployments**<br>
 approximately 220 Estonia (NATO); approximately 100 Middle East/Iraq (NATO) (2022)<br>
@@ -721,6 +719,6 @@ Islamic State of Iraq and ash-Sham (ISIS); Islamic Revolutionary Guard Corps/Qod
 <p>Iceland, the UK, and Ireland dispute Denmark's claim that the Faroe Islands' continental shelf extends beyond 200 nm; sovereignty dispute with Canada over Hans Island in the Kennedy Channel between Ellesmere Island and Greenland; Denmark (Greenland) and Norway have made submissions to the Commission on the Limits of the Continental Shelf (CLCS) and Russia is collecting additional data to augment its 2001 CLCS submission</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 19,833 (Syria), 5,634 (Eritrea) (mid-year 2021); 35,193 (Ukraine) (as of 27 September 2022)<br>
+_refugees (country of origin)_: 19,833 (Syria), 5,634 (Eritrea) (mid-year 2021); 35,535 (Ukraine) (as of 4 October 2022)<br>
 _stateless persons_: 11,608 (mid-year 2021)<br>
 

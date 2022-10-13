@@ -368,7 +368,7 @@ _judge selection and term of office_: Supreme Court, Constitutional Court, and H
 _subordinate courts_: regional and district courts; Dushanbe City Court; viloyat (province level) courts; Court of Gorno-Badakhshan Autonomous Region<br>
 
 **Political parties and leaders**<br>
-Agrarian Party of Tajikistan or APT [Rustam LATIFZODA]<br>Communist Party of Tajikistan or CPT [Miroj ABDULLOEV]<br>Democratic Party of Tajikistan or DPT [Saidjafar USMONZODA]<br>Party of Economic Reform of Tajikistan or PERT [Rustam RAHMATZODA]<br>People's Democratic Party of Tajikistan or PDPT [Emomali RAHMON]<br>Social Democratic Party of Tajikistan or SDPT [Qiyomiddin AZIZOV]<br>Socialist Party of Tajikistan or SPT [Abduhalim GHAFFORZODA]<br>
+Agrarian Party of Tajikistan or APT [Rustam LATIFZODA]<br>Communist Party of Tajikistan or CPT [Miroj ABDULLOEV]<br>Democratic Party of Tajikistan or DPT [Saidjafar USMONZODA]<br>Party of Economic Reform of Tajikistan or PERT [Rustam RAHMATZODA]<br>People's Democratic Party of Tajikistan or PDPT [Emomali RAHMON]<br>Social Democratic Party of Tajikistan or SDPT [vacant]<br>Socialist Party of Tajikistan or SPT [Abduhalim GHAFFORZODA]<br>
 
 **International organization participation**<br>
 ADB, CICA, CIS, CSTO, EAEC, EAPC, EBRD, ECO, EITI (candidate country), FAO, G-77, GCTU, IAEA, IBRD, ICAO, ICC (NGOs), ICCt, ICRM, IDA, IDB, IFAD, IFC, IFRCS, ILO, IMF, Interpol, IOC, IOM, IPU, ISO (correspondent), ITSO, ITU, MIGA, NAM (observer), OIC, OPCW, OSCE, PFP, SCO, UN, UNCTAD, UNESCO, UNIDO, UNISFA, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>

@@ -749,7 +749,7 @@ approximately 200,000 active personnel (175,000 Army; 10,000 Navy; 15,000 Air Fo
 the Moroccan military's inventory is comprised of mostly older French and US equipment; since 2010, it has received equipment from about a dozen countries with France and the US as the leading suppliers (2021)<br>
 
 **Military service age and obligation**<br>
-19-25 years of age for 12-month compulsory military service (reintroduced in 2019); both sexes (age 20-27 for women) are obligated to national service (2021)<br>
+19-25 years of age for 12-month compulsory and voluntary military service for men and women (conscription abolished 2006 and reintroduced in 2019) (2022)<br>
 
 **Military deployments**<br>
 775 Central African Republic (MINUSCA); 925 Democratic Republic of the Congo (MONUSCO) (May 2022)<br>

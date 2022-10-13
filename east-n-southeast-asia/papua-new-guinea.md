@@ -696,10 +696,10 @@ approximately 3,000 active duty troops (2022)<br>
 the PNGDF has a limited inventory consisting of a diverse mix of foreign-supplied weapons and equipment; Papua New Guinea has received most of its military assistance from Australia (2021)<br>
 
 **Military service age and obligation**<br>
-16 years of age for voluntary military service (with parental consent); no conscription (2021)<br>
+18-27 for a general enlistee or 18-30 for an officer cadet; no conscription (2022)<br>
 
 **Military - note**<br>
-<p>as of 2022, Australia and the US were assisting Papua New Guinea with expanding and improving the Defense Force naval base at Lombrum on Manus Island; the US first established a Lombrum base in 1944 during World War II</p><br>
+as of 2022, Australia and the US were assisting Papua New Guinea with expanding and improving the Defense Force naval base at Lombrum on Manus Island; the US first established a Lombrum base in 1944 during World War II<br><br>the PNGDF was established in 1973; its infantry regiment and primary unit, the Royal Pacific Islands Regiment (RPIR), is descended from Australian Army infantry battalions comprised of native soldiers and led by Australian officers and non-commissioned officers formed during World War II to help fight the Japanese; the RPIR was disbanded after the war, but reestablished in 1951 as part of the Australian Army where it continued to serve until Papua New Guinea gained its independence in 1975, when it became part of the PNGDF (2022)<br>
 
 ## Transnational Issues
 

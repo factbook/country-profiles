@@ -712,20 +712,20 @@ Serbian Armed Forces (Vojska Srbije, VS): Land Forces (includes Riverine Compone
 1.8% of GDP (2017) (approximately $1.47 billion)<br>
 
 **Military and security service personnel strengths**<br>
-information varies; approximately 25,000 active duty troops (15,000 Land Forces; 5,000 Air/Air Defense; 5,000 other); approximately 3,000 Gendarmerie (2022)<br>
+approximately 25,000 active duty troops (15,000 Land Forces; 5,000 Air/Air Defense; 5,000 other); approximately 3,000 Gendarmerie (2022)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the inventory of the Serbian Armed Forces consists of Russian and Soviet-era weapons systems; since 2010, Russia has been the largest suppliers of arms to Serbia; China has also provided a growing amount of arms (2022)<br>
+the military's inventory consists of Russian and Soviet-era weapons systems; since 2010, Russia has been the largest suppliers of arms to Serbia; China has also provided a growing amount of arms (2022)<br>
 
 **Military service age and obligation**<br>
 18 years of age for voluntary military service for men and women; conscription abolished January 2011 (2021)<br>
-<strong>note:</strong> as of 2019, women made up about 6% of the military's full-time personnel<br>
+<strong>note:</strong> as of 2019, women made up about 6% of the military's full-time personnel 2011<br>
 
 **Military deployments**<br>
 175 Lebanon (UNIFIL) (May 2022)<br>
 
 **Military - note**<br>
-Serbia does not aspire to join NATO, but has cooperated with the Alliance since 2006 when it joined the Partnership for Peace program; Serbia maintains security ties with Russia (2022)<br>
+the Serbian Armed Forces were established in June 2006; the Serbian military traces its origins to the First (1804-1813) and Second (1815-1817) Uprisings against the Ottoman Empire<br><br>Serbia does not aspire to join NATO, but has cooperated with the Alliance since 2006 when it joined the Partnership for Peace program; Serbia maintains security ties with Russia (2022)<br>
 
 ## Transnational Issues
 
@@ -733,10 +733,10 @@ Serbia does not aspire to join NATO, but has cooperated with the Alliance since 
 <p><em>Serbia-Bosnia and Herzegovina</em>: Serbia delimited about half of the boundary with Bosnia and Herzegovina, but sections along the Drina River remain in dispute</p> <p><em>Serbia-Bulgaria</em>: none identified</p> <p><em>Serbia-Croatia</em>: Serbia and Croatia dispute their border along the Danube; Serbia claims the border is the median between the current Danube shorelines, with the land to the eastern side of the median belonging to Serbia; Croatia contends that the boundary is demarcated according to historic maps, despite the river having meandered since then</p> <p><em>Serbia-Hungary</em>: none identified</p> <p><em>Serbia-Kosovo</em>: Serbia with several other states protested the US and other states' recognition of Kosovo's declaration of its status as a sovereign and independent state in February 2008; ethnic Serbian municipalities along Kosovo's northern border challenge final status of Kosovo-Serbia boundary; since 1999, NATO-led Kosovo Force peacekeepers under UN Interim Administration Mission in Kosovo (UNMIK) authority have continued to keep the peace within Kosovo between the ethnic Albanian majority and the Serb minority; in October 2021, NATO-led KFOR increased patrols along the border with Serbia to deescalate hostilities caused by a dispute over license plates</p> <p><em>Serbia-Montenegro</em>: the former republic boundary serves as the boundary until a line is formally delimited and demarcated</p> <p><em>Serbia-North Macedonia</em>: none identified</p> <p><em>Serbia-Romania</em>: none identified</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 17,336 (Croatia), 7,997 (Bosnia and Herzegovina) (mid-year 2021); 19,722 (Ukraine) (includes Ukrainian refugees in Kosovo; as of 27 September 2022)<br>
+_refugees (country of origin)_: 17,336 (Croatia), 7,997 (Bosnia and Herzegovina) (mid-year 2021); 20,225 (Ukraine) (includes Ukrainian refugees in Kosovo; as of 4 October 2022)<br>
 _IDPs_: 196,995 (most are Kosovar Serbs, some are Roma, Ashkalis, and Egyptian (RAE); some RAE IDPs are unregistered) (2021)<br>
 _stateless persons_: 2,113 (includes stateless persons in Kosovo) (mid-year 2021)<br>
-<strong>note:</strong> 891,083 estimated refugee and migrant arrivals (January 2015-September 2022); Serbia is predominantly a transit country and hosts an estimated 6,313 migrants and asylum seekers as of June 2022<br>
+<strong>note:</strong> 895,278 estimated refugee and migrant arrivals (January 2015-September 2022); Serbia is predominantly a transit country and hosts an estimated 6,313 migrants and asylum seekers as of June 2022<br>
 
 **Illicit drugs**<br>
 <p>drug trafficking groups are major players in the procurement and transportation of large quantities of cocaine destined for European markets</p><br>

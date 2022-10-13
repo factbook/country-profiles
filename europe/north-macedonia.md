@@ -676,7 +676,7 @@ the military's inventory consists mostly of Soviet-era equipment; since 2010, it
 
 **Military service age and obligation**<br>
 18 years of age for voluntary military service; conscription abolished in 2007 (2021)<br>
-<strong>note:</strong> as of 2019, women made up about 8% of the military's full-time personnel<br>
+<strong>note:</strong> as of 2022, women made up about 10% of the military's full-time personnel<br>
 
 **Military - note**<br>
 North Macedonia became the 30th member of NATO in 2020; as of 2022, Greece provided NATO's air policing mission for North Macedonia<br>
@@ -693,7 +693,7 @@ Islamic State of Iraq and ash-Sham (ISIS)<br>
 <p><em>North Macedonia-Albania</em>: none identified</p> <p><em>North Macedonia-Greece</em>: none identified</p> <p><em>North Macedonia-Kosovo</em>: North Macedonia and Kosovo completed demarcation of their boundary in October 2009</p> <p><em>North Macedonia-Serbia</em>: none identified</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 5,817 (Ukraine) (as of 27 September 2022)<br>
+_refugees (country of origin)_: 5,929 (Ukraine) (as of 4 October 2022)<br>
 _stateless persons_: 553 (mid-year 2021)<br>
 <strong>note:</strong> 542,907 estimated refugee and migrant arrivals (January 2015-August 2022)<br>
 

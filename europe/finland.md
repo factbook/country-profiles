@@ -706,7 +706,7 @@ the military's inventory consists of a wide mix of mostly modern US, European, a
 
 **Military service age and obligation**<br>
 at age 18, all Finnish men are obligated to serve 5.5-12 months of service within a branch of the military or the Border Guard (length of service depends on the type of duty), and women 18-29 may volunteer for service; there is also an option to perform non-military service which lasts for 8.5 or 11.5 months; after completing their initial conscript obligation, individuals enter the reserves and remain eligible for mobilization until the age of 50 for rank-and-file and 60 for non-commissioned and commissioned officers (2022)<br>
-<strong>note:</strong> the military trains approximately 21,000 (20,000 Army) conscripts each year; as of 2019, women made up about 4% of the military's full-time personnel<br>
+<strong>note 1:</strong> the military trains approximately 21,000 (20,000 Army) conscripts each year; as of 2019, women made up about 4% of the military's full-time personnel<br><br><strong>note 2: </strong>Finland has had conscription since 1951<br>
 
 **Military deployments**<br>
 160 Lebanon (UNIFIL) (May 2022)<br>
@@ -720,6 +720,6 @@ Finland is not a member of NATO, but Finland and NATO have actively cooperated i
 <p>various groups in Finland advocate restoration of Karelia and other areas ceded to the former Soviet Union, but the Finnish Government asserts no territorial demands</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 9,053 (Iraq) (mid-year 2021); 38,588 (Ukraine) (as of 25 September 2022)<br>
+_refugees (country of origin)_: 9,053 (Iraq) (mid-year 2021); 39,083 (Ukraine) (as of 2 October 2022)<br>
 _stateless persons_: 3,416 (mid-year 2021)<br>
 

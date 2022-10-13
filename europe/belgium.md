@@ -65,7 +65,7 @@ _other_: 33.5% (2018 est.)<br>
 230 sq km (2012)<br>
 
 **Major watersheds (area sq km)**<br>
-Atlantic Ocean drainage: Seine 78,919 sq km), Rhine-Maas (198,735 sq km)<br>
+Atlantic Ocean drainage: Seine (78,919 sq km), Rhine-Maas (198,735 sq km)<br>
 
 **Population distribution**<br>
 most of the population concentrated in the northern two-thirds of the country; the southeast is more thinly populated; considered to have one of the highest population densities in the world; approximately 97% live in urban areas<br>
@@ -74,7 +74,7 @@ most of the population concentrated in the northern two-thirds of the country; t
 flooding is a threat along rivers and in areas of reclaimed coastal land, protected from the sea by concrete dikes<br>
 
 **Geography - note**<br>
-crossroads of Western Europe; most West European capitals are within 1,000 km of Brussels, the seat of both the European Union and NATO<br>
+crossroads of Western Europe; most West European capitals are within 1,000 km of Brussels, the seat of both the EU and NATO<br>
 
 **Map description**<br>
 <p>Belgium map showing major cities as well as parts of surrounding countries and the North Sea.</p><br>
@@ -280,7 +280,7 @@ _municipal solid waste recycled annually_: 1,614,985 tons (2015 est.)<br>
 _percent of municipal solid waste recycled_: 34.3% (2015 est.)<br>
 
 **Major watersheds (area sq km)**<br>
-Atlantic Ocean drainage: Seine 78,919 sq km), Rhine-Maas (198,735 sq km)<br>
+Atlantic Ocean drainage: Seine (78,919 sq km), Rhine-Maas (198,735 sq km)<br>
 
 **Total water withdrawal**<br>
 _municipal_: 739 million cubic meters (2017 est.)<br>
@@ -356,7 +356,7 @@ _judge selection and term of office_: Constitutional Court judges appointed by t
 _subordinate courts_: Courts of Appeal; regional courts; specialized courts for administrative, commercial, labor, immigration, and audit issues; magistrate's courts; justices of the peace<br>
 
 **Political parties and leaders**<br>
-<strong>Flemish parties:</strong> <br>Christian Democratic and Flemish or CD&amp;V [Sammy MAHDI]<br>Forward [Conner ROUSSEAU] (formerly Social Progressive Alternative or SP.A)<br>Groen or Green [Nadia NAJI and Jeremie VANEECKHOUT] (formerly AGALEV, Flemish Greens)<br>New Flemish Alliance or N-VA [Bart DE WEVER]<br>Open Flemish Liberals and Democrats or Open VLD [Egbert LACHAERT]<br>Vlaams Belang (Flemish Interest) or VB [Tom VAN GRIEKEN]<br><strong>Francophone parties:</strong> <br>Ecolo (Francophone Greens) [Jean-Marc NOLLET, Rajae MAOUANE]<br>Francophone Federalist Democrats or Defi [Francois DE SMET]<br>Les Engages [Maxine PREVOT] (formerly Humanist and Democratic Center or CDH)<br>People's Party or PP [Mischael MODRIKAMEN] (dissolved 18 June 2019)<br>Reform Movement or MR [George-Louis BOUCHEZ]<br>Socialist Party or PS [Paul MAGNETTE]<br>Workers' Party or PVDA-PTB [Raoul HEDEBOUW]<br>
+<strong>Flemish parties:</strong> <br>Christian Democratic and Flemish or CD&amp;V [Sammy MAHDI]<br>Forward [Conner ROUSSEAU] (formerly Social Progressive Alternative or SP.A)<br>Groen or Green [Nadia NAJI and Jeremie VANEECKHOUT] (formerly AGALEV, Flemish Greens)<br>New Flemish Alliance or N-VA [Bart DE WEVER]<br>Open Flemish Liberals and Democrats or Open VLD [Egbert LACHAERT]<br>Vlaams Belang (Flemish Interest) or VB [Tom VAN GRIEKEN]<br><strong>Francophone parties:</strong> <br>Ecolo (Francophone Greens) [Jean-Marc NOLLET and Rajae MAOUANE]<br>Francophone Federalist Democrats or Defi [Francois DE SMET]<br>Les Engages [Maxine PREVOT] (formerly Humanist and Democratic Center or CDH)<br>People's Party or PP [Mischael MODRIKAMEN] (dissolved 18 June 2019)<br>Reform Movement or MR [George-Louis BOUCHEZ]<br>Socialist Party or PS [Paul MAGNETTE]<br>Workers' Party or PVDA-PTB [Raoul HEDEBOUW]<br>
 
 **International organization participation**<br>
 ADB (nonregional members), AfDB (nonregional members), Australia Group, Benelux, BIS, CD, CE, CERN, EAPC, EBRD, ECB, EIB, EITI (implementing country), EMU, ESA, EU, FAO, FATF, G-9, G-10, IADB, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IEA, IFAD, IFC, IFRCS, IGAD (partners), IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, MONUSCO, NATO, NEA, NSG, OAS (observer), OECD, OIF, OPCW, OSCE, Pacific Alliance (observer), Paris Club, PCA, Schengen Convention, SELEC (observer), UN, UNCTAD, UNESCO, UNHCR, UNIDO, UNIFIL, UNRWA, UNTSO, UPU, Wassenaar Arrangement, WCO, WHO, WIPO, WMO, WTO, ZC<br>
@@ -385,7 +385,7 @@ golden rampant lion; national colors: red, black, yellow<br>
 
 **National anthem**<br>
 _name_: "La Brabanconne" (The Song of Brabant)<br>
-_lyrics/music_: Louis-Alexandre DECHET[French] Victor CEULEMANS [Dutch]/Francois VAN CAMPENHOUT<br>
+_lyrics/music_: Louis-Alexandre DECHET [French] and Victor CEULEMANS [Dutch]/Francois VAN CAMPENHOUT<br>
 <strong>note:</strong> adopted 1830; according to legend, Louis-Alexandre DECHET, an actor at the theater in which the revolution against the Netherlands began, wrote the lyrics with a group of young people in a Brussels cafe<br>
 
 **National heritage**<br>
@@ -487,7 +487,7 @@ _expenditures_: 258.6 billion (2017 est.)<br>
 **Public debt**<br>
 103.4% of GDP (2017 est.)<br>
 106% of GDP (2016 est.)<br>
-<strong>note:</strong> data cover general government debt and includes debt instruments issued (or owned) by government entities other than the treasury; the data include treasury debt held by foreign entities; the data include debt issued by subnational entities, as well as intra-governmental debt; intra-governmental debt consists of treasury borrowings from surpluses in the social funds, such as for retirement, medical care, and unemployment; debt instruments for the social funds are not sold at public auctions; general government debt is defined by the Maastricht definition and calculated by the National Bank of Belgium as consolidated gross debt; the debt is defined in European Regulation EC479/2009 concerning the implementation of the protocol on the excessive deficit procedure annexed to the Treaty on European Union (Treaty of Maastricht) of 7 February 1992; the sub-sectors of consolidated gross debt are: federal government, communities and regions, local government, and social security funds<br>
+<strong>note:</strong> data cover general government debt and include debt instruments issued (or owned) by government entities other than the treasury; the data include treasury debt held by foreign entities; the data include debt issued by subnational entities, as well as intra-governmental debt; intra-governmental debt consists of treasury borrowings from surpluses in the social funds, such as for retirement, medical care, and unemployment; debt instruments for the social funds are not sold at public auctions; general government debt is defined by the Maastricht definition and calculated by the National Bank of Belgium as consolidated gross debt; the debt is defined in European Regulation EC479/2009 concerning the implementation of the protocol on the excessive deficit procedure annexed to the Treaty on European Union (Treaty of Maastricht) of 7 February 1992; the sub-sectors of consolidated gross debt are: federal government, communities and regions, local government, and social security funds<br>
 
 **Taxes and other revenues**<br>
 51.3% (of GDP) (2017 est.)<br>
@@ -531,11 +531,11 @@ $1,332,358,000,000 (2018 est.)<br>
 
 **Exchange rates**<br>
 _Currency_: euros (EUR) per US dollar -<br>
-0.82771 (2020 est.)<br>
-0.90338 (2019 est.)<br>
-0.87789 (2018 est.)<br>
+0.828 (2020 est.)<br>
+0.903 (2019 est.)<br>
+0.878 (2018 est.)<br>
 0.885 (2014 est.)<br>
-0.7634 (2013 est.)<br>
+0.763 (2013 est.)<br>
 
 ## Energy
 
@@ -609,13 +609,13 @@ _total subscriptions_: 11,529,728 (2020 est.)<br>
 _subscriptions per 100 inhabitants_: 99 (2020 est.)<br>
 
 **Telecommunication systems**<br>
-_general assessment_: Belgium&rsquo;s mobile market is served by the three network operators Proximus, Orange Belgium and BASE, and by a good number of MVNOs; mobile networks have been upgraded to support growing mobile data use among subscribers, with near-comprehensive LTE coverage; operators have also trialed 5G in preparation for launching services; the auction of 5G-suitable spectrum has been delayed to the beginning of 2022, while the onerous restrictions on radiation have meant that some 5G trials have been suspended; there is effective competition in Belgium between the DSL and cable platforms, while in recent years government support has also encouraged investment in fiber networks; Telenet, supported by its parent Liberty Global, has extended the reach of services based on the DOCSIS3.1 standard, while Proximus also has extensive fibre/VDSL and FttP deployments and is currently investing in &euro;3 billion 'Fibre for Belgium' program through to 2027; in a bid to encourage investment in under served areas, the regulator in 2018 amended the conditions by which market players grant wholesale access to copper and fiber infrastructure; in May 2019 it opened a further consultation on cost models for access to the networks of cablecos and those of Proximus&rsquo;s fibre infrastructure. (2021)<br>
+_general assessment_: Belgium&rsquo;s mobile market is served by the three network operators Proximus, Orange Belgium, and BASE, and by a good number of Mobile Virtual Network Operators; mobile networks have been upgraded to support growing mobile data use among subscribers, with near-comprehensive LTE coverage; operators have also trialed 5G in preparation for launching services; the auction of 5G-suitable spectrum has been delayed to the beginning of 2022, while the onerous restrictions on radiation have meant that some 5G trials have been suspended; there is effective competition in Belgium between the DSL and cable platforms, while in recent years government support has also encouraged investment in fiber networks; Telenet, supported by its parent Liberty Global, has extended the reach of services based on the DOCSIS3.1 standard, while Proximus also has extensive fiber/Very high-speed digital subscriber line and FttP deployments and is currently investing in $2.9 billion 'Fiber for Belgium' program through 2027; in a bid to encourage investment in under served areas, the regulator in 2018 amended the conditions by which market players grant wholesale access to copper and fiber infrastructure; in May 2019 it opened a further consultation on cost models for access to the networks of cablecos and those of Proximus&rsquo;s fiber infrastructure. (2021)<br>
 _domestic_: about 31 per 100 fixed-line and 99 per 100 mobile-cellular; nationwide mobile-cellular telephone system; extensive cable network; limited microwave radio relay network (2020)<br>
-_international_: country code - 32; landing points for Concerto, UK-Belgium, Tangerine, and SeaMeWe-3, submarine cables that provide links to Europe, the Middle East, Australia and Asia; satellite earth stations - 7 (Intelsat - 3) (2019)<br>
+_international_: country code - 32; landing points for Concerto, UK-Belgium, Tangerine, and SeaMeWe-3, submarine cables that provide links to Europe, the Middle East, Australia, and Asia; satellite earth stations - 7 (Intelsat - 3) (2019)<br>
 <strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress towards 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>
 
 **Broadcast media**<br>
-a segmented market with the three major communities (Flemish, French, and German-speaking) each having responsibility for their own broadcast media; multiple TV channels exist for each community; additionally, in excess of 90% of households are connected to cable and can access broadcasts of TV stations from neighboring countries; each community has a public radio network coexisting with private broadcasters<br>
+a segmented market with the three major communities (Flemish-, French-, and German-speaking) each having responsibility for their own broadcast media; multiple TV channels exist for each community; additionally, in excess of 90% of households are connected to cable and can access broadcasts of TV stations from neighboring countries; each community has a public radio network coexisting with private broadcasters<br>
 
 **Internet country code**<br>
 .be<br>
@@ -723,7 +723,7 @@ Islamic Revolutionary Guard Corps/Qods Force; Islamic State of Iraq and ash-Sham
 <p>none identified</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 18,493 (Syria), 5,094 (Iraq) (2020); 56,464 (Ukraine) (as of 26 September 2022)<br>
+_refugees (country of origin)_: 18,493 (Syria), 5,094 (Iraq) (2020); 56,854 (Ukraine) (as of 4 October 2022)<br>
 _stateless persons_: 1,159 (mid-year 2021)<br>
 
 **Illicit drugs**<br>

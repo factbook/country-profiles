@@ -610,7 +610,7 @@ the SKNDF has approximately 400 personnel (2022)<br>
 the SKNDF is lightly armed with equipment from Belgium, the UK, and the US (2021)<br>
 
 **Military service age and obligation**<br>
-18 years of age for voluntary military service (under 18 with written parental permission); no conscription (2021)<br>
+18 years of age for voluntary military service (under 18 with written parental permission); no conscription (2022)<br>
 
 **Military - note**<br>
 St. Kitts joined the Caribbean Regional Security System (RSS) in 1984; RSS signatories (Antigua and Barbuda, Barbados, Dominica, Grenada, Saint Lucia, and Saint Vincent and the Grenadines) agreed to prepare contingency plans and assist one another, on request, in national emergencies, prevention of smuggling, search and rescue, immigration control, fishery protection, customs and excise control, maritime policing duties, protection of off-shore installations, pollution control, national and other disasters, and threats to national security<br><br>SKNDF's missions included defense of the country's territorial integrity and sovereignty, protecting natural resources, interdicting narcotics trafficking, and providing humanitarian relief as needed (2022)<br>
