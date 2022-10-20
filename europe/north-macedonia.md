@@ -176,7 +176,7 @@ _unimproved: rural_: rural: 1% of population<br>
 _unimproved: total_: total: 0.6% of population (2020 est.)<br>
 
 **Current health expenditure**<br>
-7.3% (2019)<br>
+7.3% of GDP (2019)<br>
 
 **Physicians density**<br>
 2.87 physicians/1,000 population (2015)<br>
@@ -360,7 +360,7 @@ Alliance for Albanians or AfA [Ziadin SELA]<br>Alternative (Alternativa) [Afrim 
 BIS, CD, CE, CEI, EAPC, EBRD, EU (candidate country), FAO, IAEA, IBRD, ICAO, ICC (NGOs), ICCt, ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ISO, ITU, ITUC (NGOs), MIGA, NATO,&nbsp;OAS (observer), OIF, OPCW, OSCE, PCA, PFP, SELEC, UN, UNCTAD, UNESCO, UNHCR, UNIDO, UNIFIL, UNWTO, UPU, WCO, WHO, WIPO, WMO, WTO<br>
 
 **Diplomatic representation in the US**<br>
-_chief of mission_: Ambassador (vacant); Charge d'Affaires Vilma PETKOVSKA, Minister Counselor (since 16 March 2020)<br>
+_chief of mission_: Ambassador Zoran POPOV (since 16 September 2022)<br>
 _chancery_: 2129 Wyoming Avenue NW, Washington, DC 20008<br>
 _telephone_: [1] (202) 667-0501<br>
 _FAX_: [1] (202) 667-2131<br>
@@ -662,11 +662,11 @@ Army of the Republic of North Macedonia (ARSM; includes a General Staff and subo
 <strong>note:</strong> the Operations Command includes air, ground, special operations, support, and reserve forces<br>
 
 **Military expenditures**<br>
-1.5% of GDP (2021 est.)<br>
+1.8% of GDP (2022 est.)<br>
+1.5% of GDP (2021)<br>
 1.3% of GDP (2020)<br>
 1.2% of GDP (2019) (approximately $310 million)<br>
 0.9% of GDP (2018) (approximately $280 million)<br>
-0.9% of GDP (2017) (approximately $250 million)<br>
 
 **Military and security service personnel strengths**<br>
 approximately 6,000 active duty personnel (2022)<br>
@@ -693,7 +693,7 @@ Islamic State of Iraq and ash-Sham (ISIS)<br>
 <p><em>North Macedonia-Albania</em>: none identified</p> <p><em>North Macedonia-Greece</em>: none identified</p> <p><em>North Macedonia-Kosovo</em>: North Macedonia and Kosovo completed demarcation of their boundary in October 2009</p> <p><em>North Macedonia-Serbia</em>: none identified</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 5,929 (Ukraine) (as of 4 October 2022)<br>
+_refugees (country of origin)_: 6,031 (Ukraine) (as of 11 October 2022)<br>
 _stateless persons_: 553 (mid-year 2021)<br>
 <strong>note:</strong> 542,907 estimated refugee and migrant arrivals (January 2015-August 2022)<br>
 

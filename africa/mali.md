@@ -188,7 +188,7 @@ _unimproved: rural_: rural: 24.1% of population<br>
 _unimproved: total_: total: 13.6% of population (2020 est.)<br>
 
 **Current health expenditure**<br>
-3.9% (2019)<br>
+3.9% of GDP (2019)<br>
 
 **Physicians density**<br>
 0.13 physicians/1,000 population (2018)<br>
@@ -744,7 +744,7 @@ Ansar al-Dine; Islamic State of Iraq and ash-Sham in the Greater Sahara (ISIS-GS
 <p><em>Mali-Burkina Faso</em>: demarcation is underway with Burkina Faso</p> <p> </p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 24,591 (Burkina Faso) (refugees and asylum seekers), 14,950 (Mauritania) (refugees and asylum seekers), 14,794 (Niger) (refugees and asylum seekers) (2022)<br>
+_refugees (country of origin)_: 24,519 (Burkina Faso) (refugees and asylum seekers), 15,229 (Niger) (refugees and asylum seekers), 14,950 (Mauritania) (refugees and asylum seekers) (2022)<br>
 _IDPs_: 370,548 (Tuareg rebellion since 2012) (2022)<br>
 
 **Trafficking in persons**<br>

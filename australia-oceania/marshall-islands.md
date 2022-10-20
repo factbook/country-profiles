@@ -169,7 +169,7 @@ _unimproved: rural_: rural: 0.2% of population<br>
 _unimproved: total_: total: 0% of population (2020 est.)<br>
 
 **Current health expenditure**<br>
-16.3% (2019)<br>
+16.3% of GDP (2019)<br>
 
 **Physicians density**<br>
 0.42 physicians/1,000 population (2012)<br>

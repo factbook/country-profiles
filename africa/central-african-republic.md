@@ -182,7 +182,7 @@ _unimproved: rural_: rural: 52.5% of population<br>
 _unimproved: total_: total: 37.1% of population (2020 est.)<br>
 
 **Current health expenditure**<br>
-7.8% (2019)<br>
+7.8% of GDP (2019)<br>
 
 **Physicians density**<br>
 0.07 physicians/1,000 population (2018)<br>
@@ -619,7 +619,7 @@ _subscriptions per 100 inhabitants_: 38 (2020 est.)<br>
 _general assessment_: network consists principally of microwave radio relay and at low-capacity; ongoing conflict has&nbsp;obstructed&nbsp;telecommunication and media development,&nbsp;although there are&nbsp;ISP (Internet service providers) and mobile phone carriers,&nbsp;radio is the most-popular communications medium (2018)<br>
 _domestic_: very limited telephone service with less than 1 fixed-line connection per 100 persons; with the presence of multiple providers mobile-cellular service has reached nearly 34 per 100 mobile-cellular subscribers; cellular usage is increasing from a low base; most fixed-line and mobile-cellular telephone services are concentrated in Bangui (2019)<br>
 _international_: country code - 236; satellite earth station - 1 Intelsat (Atlantic Ocean)<br>
-<strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress towards 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>
+<strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress toward 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>
 
 **Broadcast media**<br>
 government-owned network, Radiodiffusion Television Centrafricaine, provides limited domestic TV broadcasting; state-owned radio network is supplemented by a small number of privately owned broadcast stations as well as a few community radio stations; transmissions of at least 2 international broadcasters are available (2017)<br>
@@ -704,6 +704,6 @@ the 2013 coup resulted in the institutional collapse of the FACA; its forces wer
 <p><em>Central African Republic-South Sudan:</em> periodic violent skirmishes persist among related pastoral populations along the border with the Central African Republic over water and grazing rights</p> <p><em>Central African Republic-Sudan: </em>periodic violent skirmishes persist among related pastoral populations along the border with the Central African Republic over water and grazing rights</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 6,335 (Democratic Republic of Congo) (2022)<br>
-_IDPs_: 647,883 (clashes between army and rebel groups since 2005; tensions between ethnic groups) (2022)<br>
+_refugees (country of origin)_: 6,342 (Democratic Republic of Congo) (2022)<br>
+_IDPs_: 484,335 (clashes between army and rebel groups since 2005; tensions between ethnic groups) (2022)<br>
 

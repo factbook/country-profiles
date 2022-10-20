@@ -196,7 +196,7 @@ _unimproved: rural_: rural: 0% of population<br>
 _unimproved: total_: total: 0% of population (2020 est.)<br>
 
 **Current health expenditure**<br>
-11.1% (2019)<br>
+11.1% of GDP (2019)<br>
 
 **Physicians density**<br>
 3.27 physicians/1,000 population (2019)<br>
@@ -655,7 +655,7 @@ _general assessment_: France's telecom market is one of the largest in Europe; t
 _domestic_: nearly 58 per 100 persons for fixed-line and over 111 per 100 for mobile-cellular subscriptions (2020)<br>
 _international_: country code - 33;&nbsp;landing points for Circe South, TAT-14, INGRID, FLAG Atlantic-1, Apollo, HUGO, IFC-1, ACE, SeaMeWe-3 &amp; 4, Dunant, Africa-1, AAE-1, Atlas Offshore, Hawk, IMEWE, Med Cable, PEACE Cable, and TE&nbsp;North/TGN-Eurasia/SEACOM/Alexandros/Medex&nbsp;submarine cables providing links throughout Europe, Asia, Australia, the Middle East,&nbsp;Southeast Asia, Africa&nbsp;and US; satellite earth stations - more than 3 (2 Intelsat (with total of 5 antennas - 2 for Indian Ocean and 3 for Atlantic Ocean), NA Eutelsat, 1 Inmarsat - Atlantic Ocean region); HF radiotelephone communications with more than 20 countries (2019)<br>
 _overseas departments_: country codes: French Guiana - 594; landing points for Ella Link, Kanawa, Americas II to South America, Europe, Caribbean and US; Guadeloupe - 590; landing points for GCN, Southern Caribbean Fiber, and&nbsp;ECFS&nbsp;around the Caribbean and&nbsp;US;&nbsp;Martinique - 596; landing points for Americas II, ECFS, and Southern Caribbean Fiber to South America, US and around the Caribbean; &nbsp;Mayotte - 262; landing points for FLY-LION3 and LION2 to&nbsp;East Africa and East African Islands in Indian Ocean;&nbsp;Reunion - 262; landing points for SAFE, METISS, and LION submarine cables to Asia, South and East Africa, Southeast Asia and nearby Indian Ocean Island countries of Mauritius, and Madagascar (2019)<br>
-<strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress towards 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>
+<strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress toward 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>
 
 **Broadcast media**<br>
 a mix of both publicly operated and privately owned TV stations; state-owned France television stations operate 4 networks, one of which is a network of regional stations, and has part-interest in several thematic cable/satellite channels and international channels; a large number of privately owned regional and local TV stations; multi-channel satellite and cable services provide a large number of channels; public broadcaster Radio France operates 7 national networks, a series of regional networks, and operates services for overseas territories and foreign audiences; Radio France Internationale, under the Ministry of Foreign Affairs, is a leading international broadcaster; a large number of commercial FM stations, with many of them consolidating into commercial networks<br>
@@ -740,11 +740,11 @@ French Armed Forces (Forces Armées Françaises): Army (l'Armee de Terre; includ
 <strong>note: </strong>the National Gendarmerie is a paramilitary police force that is a branch of the Armed Forces and therefore part of the Ministry of Defense but under the jurisdiction of the Ministry of the Interior; it also has additional duties to the Ministry of Justice<br>
 
 **Military expenditures**<br>
-1.9% of GDP (2021 est.)<br>
+1.9% of GDP (2022 est.)<br>
+1.9% of GDP (2021)<br>
 2% of GDP (2020)<br>
 1.8% of GDP (2019) (approximately $59.1 billion)<br>
 1.8% of GDP (2018) (approximately $57 billion)<br>
-1.8% of GDP (2017) (approximately $54.4 billion)<br>
 
 **Military and security service personnel strengths**<br>
 approximately 205,000 active duty troops (115,000 Army; 35,000 Navy; 40,000 Air Force; 15,000 other, such as joint staffs, administration, logistics, procurement, medical service, etc.); approximately 100,000 National Gendarmerie; approximately 75,000 National Guard (2022)<br>
@@ -757,7 +757,7 @@ the French military's inventory consists mostly of domestically-produced weapons
 <strong>note 1: </strong>in 2019, women comprised approximately approximately 16% of the uniformed armed forces  <br><br><strong>note 2: </strong>men between the ages of 17.5 and 39.5 years of age, of any nationality, may join the French Foreign Legion; those volunteers selected for service sign five-year contracts<br><br><strong>note 3:</strong> in 2018, Parliament passed a law that would require military service for all genders beginning in 2024; Prime Minister MACRON included the measure in his platform hoping that it would reinvigorate a sense of civic duty; the service would include two components: the first would take place around age 16 and include one month of training and civic service, while the second component would last between three months and a year and be more geared towards defense and security duties; France began a pilot for the program in 2019<br>
 
 **Military deployments**<br>
-approximately 4,000 Burkina Faso/Chad/Niger (Operation Barkhane, Operation Sabre; note - in 2021, France announced that it would cut the number of troops in this force to about 2,500 by 2023); approximately 300 Central African Republic; 300 Comoros; approximately 900 Cote D'Ivoire; approximately 1,450 Djibouti; 220 Estonia (NATO); approximately 2,000 French Guyana; approximately 900 French Polynesia; approximately 1,000 French West Indies; 350 Gabon; approximately 500 Middle East (Iraq/Jordan/Syria); 600 Lebanon (UNIFIL); approximately 1,400 New Caledonia; approximately 1,700 Reunion Island; 550 Romania (NATO); approximately 350 Senegal; approximately 650 United Arab Emirates (2022)<br>
+approximately 4,000 Burkina Faso/Chad/Niger (Operation Barkhane, Operation Sabre; note - in 2021, France announced that it would cut the number of troops in this force to about 2,500 by 2023); approximately 300 Central African Republic; 300 Comoros; approximately 900 Cote D'Ivoire; approximately 1,450 Djibouti; 220 Estonia (NATO); approximately 2,000 French Guyana; approximately 900 French Polynesia; approximately 1,000 French West Indies; 350 Gabon; approximately 500 Middle East (Iraq/Jordan/Syria); 600 Lebanon (UNIFIL); approximately 1,400 New Caledonia; approximately 1,700 Reunion Island; approximately 800 Romania (NATO); approximately 350 Senegal; approximately 650 United Arab Emirates (2022)<br>
 <strong>note 1:</strong> France has been a contributing member of the EuroCorps since 1992 <br><br><strong>note 2: </strong>in response to Russia’s 2022 invasion of Ukraine, some NATO countries, including France, have sent additional troops to the battlegroups deployed in NATO territory in eastern Europe<br>
 
 **Military - note**<br>

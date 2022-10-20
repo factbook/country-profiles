@@ -173,7 +173,7 @@ _unimproved: rural_: rural: 0.4% of population<br>
 _unimproved: total_: total: 0.4% of population (2020 est.)<br>
 
 **Current health expenditure**<br>
-5% (2019)<br>
+5% of GDP (2019)<br>
 
 **Physicians density**<br>
 0.95 physicians/1,000 population (2020)<br>
@@ -664,7 +664,7 @@ approximately 650 personnel (2022)<br>
 the Tonga military's inventory includes mostly light weapons and equipment from Australia, European (primarily the UK) countries, and the US (2022)<br>
 
 **Military service age and obligation**<br>
-men and women, 18-25, may volunteer; no conscription (2021)<br>
+voluntary military service for men and women 18-25 (16 with parental approval for non-combat positions); no conscription (2022)<br>
 
 **Military - note**<br>
 Tonga participated in World War I as part of the New Zealand Expeditionary Force, but the Tonga Defense Force (TDF) was not established until 1939 at the beginning of World War II; in 1943, New Zealand helped train about 2,000 Tongan troops who saw action in the Solomon Islands; the TDF was disbanded at the end of the war, but was reactivated in 1946 as the Tonga Defense Services (TDS); in 2013, the name of the TDS was changed to His Majesty&rsquo;s Armed Forces of Tonga (HMAF); Tongan troops deployed to Iraq from 2004-2008 and Afghanistan to support UK forces from 2010-2014 (2022)<br>

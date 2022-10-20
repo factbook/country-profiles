@@ -186,7 +186,7 @@ _unimproved: rural_: rural: 16.2% of population<br>
 _unimproved: total_: total: 7.6% of population (2020 est.)<br>
 
 **Current health expenditure**<br>
-3.4% (2019)<br>
+3.4% of GDP (2019)<br>
 
 **Physicians density**<br>
 0.17 physicians/1,000 population (2020)<br>
@@ -642,7 +642,7 @@ _subscriptions per 100 inhabitants_: 130 (2020 est.)<br>
 _general assessment_: challenged by unreliable electricity and shortage of skilled labor, Ghana seeks to extend telecom services nationally; investment in fiber infrastructure and off-grid solutions provide data coverage to over 23 million people; launch of LTE has improved mobile data services, including m-commerce and banking; moderately competitive Internet market, most through mobile networks; international submarine cables, and terrestrial cables have improved Internet capacity; LTE services are widely available, only MTN Ghana has thus far signaled a willingness to invest in 5G; the relatively high cost of 5G-compatible devices also inhibits most subscribers from migrating from 3G and LTE platforms. (2022)<br>
 _domestic_: fixed-line data about 1 per 200 subscriptions; competition among multiple mobile-cellular providers has spurred growth with a voice subscribership of more than 130 per 100 persons (2022)<br>
 _international_: country code - 233; landing points for the SAT-3/WASC, MainOne, ACE, WACS and GLO-1 fiber-optic submarine cables that provide connectivity to South and West Africa, and Europe; satellite earth stations - 4 Intelsat (Atlantic Ocean); microwave radio relay link to Panaftel system connects Ghana to its neighbors; GhanaSat-1 nanosatellite launched in 2017 (2017)<br>
-<strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress towards 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>
+<strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress toward 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>
 
 **Broadcast media**<br>
 state-owned TV station, 2 state-owned radio networks; several privately owned TV stations and a large number of privately owned radio stations; transmissions of multiple international broadcasters are accessible; several cable and satellite TV subscription services are obtainable<br>

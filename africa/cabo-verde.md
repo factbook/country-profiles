@@ -172,7 +172,7 @@ _unimproved: rural_: rural: 10% of population<br>
 _unimproved: total_: total: 3.3% of population (2020 est.)<br>
 
 **Current health expenditure**<br>
-4.9% (2019)<br>
+4.9% of GDP (2019)<br>
 
 **Physicians density**<br>
 0.83 physicians/1,000 population (2018)<br>
@@ -595,7 +595,7 @@ _subscriptions per 100 inhabitants_: 98 (2020 est.)<br>
 _general assessment_: LTE reaches almost 40% of the population; regulator awards commercial 4G licenses and starts 5G pilot; govt. extends USD 25 million for submarine fiber-optic cable project&nbsp;linking Africa to Portugal and Brazil;&nbsp;major service provider is Cabo Verde Telecom (CVT) (2020)<br>
 _domestic_: a little over 10 per 100 fixed-line teledensity and nearly 98 per 100 mobile-cellular; fiber-optic ring, completed in 2001, links all islands providing Internet access and ISDN services; cellular service introduced in 1998; broadband services launched early in the decade (2020)<br>
 _international_: country code - 238; landing points for the Atlantis-2, EllaLink, Cabo&nbsp;Verde Telecom Domestic Submarine Cable Phase 1,&nbsp;2, 3 and WACS fiber-optic transatlantic telephone cable that provides links to South America, Africa, and Europe; HF radiotelephone to Senegal and Guinea-Bissau; satellite earth station - 1 Intelsat (Atlantic Ocean) (2019)<br>
-<strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress towards 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>
+<strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress toward 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>
 
 **Broadcast media**<br>
 state-run TV and radio broadcast network plus a growing number of private broadcasters; Portuguese public TV and radio services for Africa are available; transmissions of a few international broadcasters are available (2019)<br>

@@ -5,7 +5,7 @@ _Europe / Countries_
 ## Introduction
 
 **Background**<br>
-<p>The Swiss Confederation was founded in 1291 as a defensive alliance among three cantons. In succeeding years, other localities joined the original three. The Swiss Confederation secured its independence from the Holy Roman Empire in 1499. A constitution of 1848, subsequently modified in 1874 to allow voters to introduce referenda on proposed laws, replaced the confederation with a centralized federal government. Switzerland's sovereignty and neutrality have long been honored by the major European powers, and the country was not involved in either of the two world wars. The political and economic integration of Europe over the past half century, as well as Switzerland's role in many UN and international organizations, has strengthened Switzerland's ties with its neighbors. However, the country did not officially become a UN member until 2002. Switzerland remains active in many UN and international organizations but retains a strong commitment to neutrality.</p> <p> </p><br>
+<p>The Swiss Confederation was founded in 1291 as a defensive alliance among three cantons. In succeeding years, other localities joined the original three. The Swiss Confederation secured its independence from the Holy Roman Empire in 1499. A constitution of 1848, subsequently modified in 1874 to allow voters to introduce referenda on proposed laws, replaced the confederation with a centralized federal government. Switzerland's sovereignty and neutrality have long been honored by the major European powers, and the country was not involved in either of the two World Wars. The political and economic integration of Europe over the past half century, as well as Switzerland's role in many UN and international organizations, has strengthened Switzerland's ties with its neighbors. However, the country did not officially become a UN member until 2002. Switzerland remains active in many UN and international organizations but retains a strong commitment to neutrality.</p> <p> </p><br>
 
 ## Geography
 
@@ -182,7 +182,7 @@ _unimproved: rural_: rural: 0% of population<br>
 _unimproved: total_: total: 0% of population (2020 est.)<br>
 
 **Current health expenditure**<br>
-11.3% (2019)<br>
+11.3% of GDP (2019)<br>
 
 **Physicians density**<br>
 4.38 physicians/1,000 population (2020)<br>
@@ -737,7 +737,7 @@ Islamic State of Iraq and ash-Sham (ISIS)<br>
 <p>none identified</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 38,219 (Eritrea), 20,043 (Syria), 14,649 (Afghanistan), 6,069 (Sri Lanka), 6,197 (Turkey) (mid-year 2021); 65,618 (Ukraine) (as of 4 October 2022)<br>
+_refugees (country of origin)_: 38,219 (Eritrea), 20,043 (Syria), 14,649 (Afghanistan), 6,069 (Sri Lanka), 6,197 (Turkey) (mid-year 2021); 66,252 (Ukraine) (as of 10 October 2022)<br>
 _stateless persons_: 684 (mid-year 2021)<br>
 
 **Illicit drugs**<br>

@@ -604,11 +604,11 @@ _LNG terminal(s) (import)_: Yung An (Kaohsiung), Taichung<br>
 Taiwan Armed Forces: Army, Navy (includes Marine Corps), Air Force; Taiwan Coast Guard Administration (a law enforcement organization with homeland security functions during peacetime and national defense missions during wartime); Ministry of Interior: National Police (2022)<br>
 
 **Military expenditures**<br>
-2.1% of GDP (2021 est.)<br>
+2.2% of GDP (2022 est.)<br>
+2.1% of GDP (2021)<br>
 2.1% of GDP (2020)<br>
 1.8% of GDP (2019) (approximately $23.6 billion)<br>
 1.7% of GDP (2018) (approximately $21.9 billion)<br>
-1.8% of GDP (2017) (approximately $22.1 billion)<br>
 
 **Military and security service personnel strengths**<br>
 approximately 170,000 active duty troops (90,000 Army; 40,000 Navy, including approximately 10,000 marines; 40,000 Air Force) (2022)<br>

@@ -181,7 +181,7 @@ _unimproved: rural_: rural: 3.6% of population<br>
 _unimproved: total_: total: 3% of population (2020 est.)<br>
 
 **Current health expenditure**<br>
-5.2% (2018)<br>
+5.2% of GDP (2018)<br>
 
 **Physicians density**<br>
 1.88 physicians/1,000 population (2020)<br>
@@ -623,7 +623,7 @@ _subscriptions per 100 inhabitants_: 91 (2020 est.)<br>
 _general assessment_: Albania&rsquo;s small telecom market has improved through signatory status of EU accession plan; EU financial aid will build infrastructure and enhance cooperation; operator committed &euro;100 million to upgrade fixed-line infrastructure, supporting broadband services nationally; consistent with the region, fixed-line telephony use and penetration is declining as subscribers prefer mobile solutions; mobile sector is supported through LTE networks; operators have invested in 5G, including the intention to create a corridor with Kosovo; importer of broadcasting equipment from EU neighbors (2021)<br>
 _domestic_: fixed-line approximately 8 per 100, teledensity continues to decline due to heavy use of mobile-cellular telephone services; mobile-cellular telephone use is widespread and generally effective, 91 per 100 for mobile-cellular (2020)<br>
 _international_: country code - 355; submarine cables&nbsp;for the Adria 1 and Italy-Albania provide connectivity to Italy, Croatia, and Greece; a combination submarine cable and land fiber-optic system, provides additional connectivity to Bulgaria, Macedonia, and Turkey; international traffic carried by fiber-optic cable and, when necessary, by microwave radio relay from the Tirana exchange to Italy and Greece (2019)<br>
-<strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress towards 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>
+<strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress toward 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>
 
 **Broadcast media**<br>
 Albania has more than 65 TV stations, including several that broadcast nationally; Albanian TV broadcasts are also available to Albanian-speaking populations in neighboring countries; many viewers have access to Italian and Greek TV broadcasts via terrestrial reception; Albania's TV stations have begun a government-mandated conversion from analog to digital broadcast; the government has pledged to provide analog-to-digital converters to low-income families affected by this decision; cable TV service is available; 2 public radio networks and roughly 78 private radio stations; several international broadcasters are available (2019)<br>
@@ -684,11 +684,11 @@ Republic of Albania Armed Forces (Forcat e Armatosura të Republikës së Shqip�
 <strong>note:</strong> the State Police are primarily responsible for internal security, while the Guard of the Republic protects senior state officials, foreign dignitaries, and certain state properties<br>
 
 **Military expenditures**<br>
-1.4% of GDP (2021 est.)<br>
+1.6% of GDP (2022 est.)<br>
+1.4% of GDP (2021)<br>
 1.3% of GDP (2020)<br>
 1.5% of GDP (2019) (approximately $360 million)<br>
 1.3% of GDP (2018) (approximately $330 million)<br>
-1.1% of GDP (2017) (approximately $290 million)<br>
 
 **Military and security service personnel strengths**<br>
 approximately 7,000 total active duty personnel (5,000 Army; 1,500 Navy; 500 Air Force) (2022)<br>

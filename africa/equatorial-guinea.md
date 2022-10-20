@@ -173,7 +173,7 @@ _unimproved: rural_: rural: 67.9% of population<br>
 _unimproved: total_: total: 32.4% of population (2017 est.)<br>
 
 **Current health expenditure**<br>
-3.1% (2019)<br>
+3.1% of GDP (2019)<br>
 
 **Physicians density**<br>
 0.4 physicians/1,000 population (2017)<br>
@@ -573,7 +573,7 @@ _subscriptions per 100 inhabitants_: 46 (2020 est.)<br>
 _general assessment_: Equatorial Guinea&rsquo;s climate for operator competition boosted mobile subscribership; broadband services are limited and expensive; submarine cable supported broadband and reliability of infrastructure; government backbone network will connect administrative centers; regional roaming agreement in process (2018)<br>
 _domestic_: fixed-line density is less than 1 per 100 persons and mobile-cellular subscribership is roughly 45 per 100 (2019)<br>
 _international_: country code - 240;&nbsp;landing points for the ACE, Ceiba-1, and Ceiba-2 submarine&nbsp;cables providing communication from Bata&nbsp;and Malabo, Equatorial Guinea&nbsp;to numerous Western African and European countries; satellite earth station - 1 Intelsat (Indian Ocean) (2019)<br>
-<!-- x-tinymce/html --><strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress towards 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>
+<!-- x-tinymce/html --><strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress toward 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>
 
 **Broadcast media**<br>
 the state maintains control of broadcast media with domestic broadcast media limited to 1 state-owned TV station, 1 private TV station owned by the president's eldest son (who is the Vice President), 1 state-owned radio station, and 1 private radio station owned by the president's eldest son; satellite TV service is available; transmissions of multiple international broadcasters are generally accessible (2019)<br>
@@ -659,7 +659,7 @@ the International Maritime Bureau reports the territorial and offshore waters in
 ## Transnational Issues
 
 **Disputes - international**<br>
-<p>in 2002, ICJ ruled on an equidistance settlement of Cameroon-Equatorial Guinea-Nigeria maritime boundary in the Gulf of Guinea, but a dispute between Equatorial Guinea and Cameroon over an island at the mouth of the Ntem River and imprecisely defined maritime coordinates in the ICJ decision delayed final delimitation; UN urged Equatorial Guinea and Gabon to resolve the sovereignty dispute over Gabon-occupied Mbane and lesser islands and to create a maritime boundary in the hydrocarbon-rich Corisco Bay</p><br>
+<p><em>Equatorial Guinea-Cameroon: </em>in 2002, ICJ ruled on an equidistance settlement of Cameroon-Equatorial Guinea-Nigeria maritime boundary in the Gulf of Guinea, but a dispute between Equatorial Guinea and Cameroon over an island at the mouth of the Ntem River and imprecisely defined maritime coordinates in the ICJ decision delayed final delimitation</p> <p><em>Equatorial Guinea-Gabon:</em> UN urged Equatorial Guinea and Gabon to resolve the sovereignty dispute over Gabon-occupied Mbane and lesser islands and to create a maritime boundary in the hydrocarbon-rich Corisco Bay</p><br>
 
 **Trafficking in persons**<br>
 _current situation_: human traffickers exploit domestic and foreign victims in Equatorial Guinea and Equatoguineans abroad; the majority of trafficking victims are subjected to forced domestic service and commercial sex in cities, particularly in the hospitality and restaurant sector; local and foreign women, including Latin Americans, are exploited in commercial sex domestically, while some Equatoguinean women are sex trafficked in Spain; some children from rural areas have been forced into domestic servitude; children from nearby countries are forced to labor as domestic workers, market workers, vendors, and launderers; individuals recruited from African countries and temporary workers from Brazil, the Dominican Republic, and Venezuela are sometimes exploited in forced labor and sex trafficking<br>

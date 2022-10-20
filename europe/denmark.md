@@ -177,7 +177,7 @@ _unimproved: rural_: rural: 0% of population<br>
 _unimproved: total_: total: 0% of population (2020 est.)<br>
 
 **Current health expenditure**<br>
-10% (2019)<br>
+10% of GDP (2019)<br>
 
 **Physicians density**<br>
 4.23 physicians/1,000 population (2018)<br>
@@ -358,7 +358,7 @@ The Alternative AP [Franciska ROSENKILDE]<br>Conservative People's Party or DKF 
 ADB (nonregional member), AfDB (nonregional member), Arctic Council, Australia Group, BIS, CBSS, CD, CE, CERN, EAPC, EBRD, ECB, EIB, EITI (implementing country), ESA, EU, FAO, FATF, G-9, IADB, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IEA, IFAD, IFC, IFRCS, IGAD (partners), IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, MINUSMA, NATO, NC, NEA, NIB, NSG, OAS (observer), OECD, OPCW, OSCE, Paris Club, PCA, Schengen Convention, UN, UNCTAD, UNESCO, UNHCR, UNIDO, UNMIL, UNMISS, UNRWA, UNTSO, UPU, Wassenaar Arrangement, WCO, WHO, WIPO, WMO, WTO, ZC<br>
 
 **Diplomatic representation in the US**<br>
-_chief of mission_: Ambassador Lone Dencker WISBORG (since 8 April 2019)<br>
+_chief of mission_: Ambassador Christina Markus LASSEN (since 16 September 2022)<br>
 _chancery_: 3200 Whitehaven Street NW, Washington, DC 20008<br>
 _telephone_: [1] (202) 234-4300<br>
 _FAX_: [1] (202) 328-1470<br>
@@ -606,10 +606,10 @@ _total subscriptions_: 7,252,675 (2020 est.)<br>
 _subscriptions per 100 inhabitants_: 125 (2020 est.)<br>
 
 **Telecommunication systems**<br>
-_general assessment_: Denmark has one of the highest broadband subscription rates globally, with a near universal availability of super fast connections; extensive cable and DSL infrastructure has been supported by a progressive regulatory regime which has encouraged operator access to both copper and fiber networks; fiber networks have a fast-growing footprint, while a number of community and metropolitan schemes have supplemented TDC&rsquo;s own commitments to build out fiber nationally; a number of wholesale fiber schemes have also added to the wider availability of fiber broadband; the reach of LTE infrastructure is comprehensive, while the MNOs by mid-2021 have also provided about 90% population coverage with 5G; services based on 5G were initially launched using trial 3.5GHz licenses; the multi-spectrum auction held in April 2021 has enabled them to improve the resilience and capacity of 5G; all MNOs are engaged in closing down their 3G networks and re purposing spectrum for LTE and 5G use (2021)<br>
+_general assessment_: Denmark has one of the highest broadband subscription rates globally, with a near universal availability of super fast connections; extensive cable and DSL infrastructure has been supported by a progressive regulatory regime which has encouraged operator access to both copper and fiber networks; fiber networks have a fast-growing footprint, while a number of community and metropolitan schemes have supplemented TDC NET&rsquo;s own commitments to build out fiber nationally; a number of wholesale fiber schemes have also added to the wider availability of fiber broadband; the reach of LTE infrastructure is comprehensive, while the Mobile Network Operators by mid-2021 had also provided about 90% population coverage with 5G; services based on 5G were initially launched using trial 3.5GHz licenses; the multi-spectrum auction held in April 2021 has enabled them to improve the resilience and capacity of 5G; all MNOs are engaged in closing down their 3G networks and repurposing spectrum for LTE and 5G use (2021)<br>
 _domestic_: fixed-line roughly 16 per 100 and about 123 per 100 for mobile-cellular subscriptions (2020)<br>
-_international_: country code - 45; landing points for the NSC, COBRAcable, CANTAT-3, DANICE, Havfrue/AEC-2, TAT-14m Denmark-Norway-5 &amp;&nbsp;6, Skagenfiber West &amp;&nbsp;East, GC1,&nbsp;GC2, GC3, GC-KPN, Kattegat 1 &amp;&nbsp;2 &amp;&nbsp;3, Energinet Lyngsa-Laeso,&nbsp;Energinet Laeso-Varberg, Fehmarn Balt, Baltica, German-Denmark 2 &amp; 3, Ronne-Rodvig, Denmark-Sweden 15 &amp; 16 &amp; 17 &amp; 18, IP-Only Denmark-Sweden, Scandinavian&nbsp;South, Scandinavian Ring North, Danica North, 34&nbsp;series of fiber-optic submarine cables link Denmark with Canada, Faroe Islands, Germany, Iceland, Netherlands, Norway, Poland, Russia, Sweden, US and UK; satellite earth stations - 18 (6 Intelsat, 10 Eutelsat, 1 Orion, 1 Inmarsat (Blaavand-Atlantic-East)); note - the Nordic countries (Denmark, Finland, Iceland, Norway, and Sweden) share the Danish earth station and the Eik, Norway, station for worldwide Inmarsat access (2019)<br>
-<strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress towards 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>
+_international_: country code - 45; landing points for the NSC, COBRAcable, CANTAT-3, DANICE, Havfrue/AEC-2, TAT-14m Denmark-Norway-5 &amp; 6, Skagenfiber West &amp; East, GC1, GC2, GC3, GC-KPN, Kattegat 1 &amp; 2 &amp; 3, Energinet Lyngsa-Laeso, Energinet Laeso-Varberg, Fehmarn Balt, Baltica, German-Denmark 2 &amp; 3, Ronne-Rodvig, Denmark-Sweden 15 &amp; 16 &amp; 17 &amp; 18, IP-Only Denmark-Sweden, Scandinavian South, Scandinavian Ring North, Danica North, 34 series of fiber-optic submarine cables link Denmark with Canada, Faroe Islands, Germany, Iceland, Netherlands, Norway, Poland, Russia, Sweden, US, and, UK; satellite earth stations - 18 (6 Intelsat, 10 Eutelsat, 1 Orion, 1 Inmarsat (Blaavand-Atlantic-East)); note - the Nordic countries (Denmark, Finland, Iceland, Norway, and Sweden) share the Danish earth station and the Eik, Norway, station for worldwide Inmarsat access (2019)<br>
+<strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress toward 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>
 
 **Broadcast media**<br>
 strong public-sector TV presence with state-owned Danmarks Radio (DR) operating 6 channels and publicly owned TV2 operating roughly a half-dozen channels; broadcasts of privately owned stations are available via satellite and cable feed; DR operates 4 nationwide FM radio stations, 10 digital audio broadcasting stations, and 14 web-based radio stations; 140 commercial and 187 community (non-commercial) radio stations (2019)<br>
@@ -684,11 +684,11 @@ Danish Armed Forces (Forsvaret): Royal Danish Army, Royal Danish Navy, Royal Dan
 <strong>note:</strong> the Danish military maintains a Joint Arctic Command with the mission of protecting the sovereignty of the Kingdom of Denmark in the Arctic Region, including the Faroe Islands and Greenland; the command also conducts maritime pollution prevention, environmental monitoring, fishery inspections, search and rescue, hydrographical surveys, and provides support to governmental science missions<br>
 
 **Military expenditures**<br>
-1.4% of GDP (2021 est.)<br>
+1.4% of GDP (2022 est.)<br>
+1.4% of GDP (2021)<br>
 1.4% of GDP (2020)<br>
 1.3% of GDP (2019) (approximately $5.02 billion)<br>
 1.3% of GDP (2018) (approximately $4.8 billion)<br>
-1.1% of GDP (2017) (approximately $4.11 billion)<br>
 
 **Military and security service personnel strengths**<br>
 approximately 17,000 active duty personnel (10,000 Army; 3,500 Navy; 3,500 Air Force) (2022)<br>
@@ -719,6 +719,6 @@ Islamic State of Iraq and ash-Sham (ISIS); Islamic Revolutionary Guard Corps/Qod
 <p>Iceland, the UK, and Ireland dispute Denmark's claim that the Faroe Islands' continental shelf extends beyond 200 nm; sovereignty dispute with Canada over Hans Island in the Kennedy Channel between Ellesmere Island and Greenland; Denmark (Greenland) and Norway have made submissions to the Commission on the Limits of the Continental Shelf (CLCS) and Russia is collecting additional data to augment its 2001 CLCS submission</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 19,833 (Syria), 5,634 (Eritrea) (mid-year 2021); 35,535 (Ukraine) (as of 4 October 2022)<br>
+_refugees (country of origin)_: 19,833 (Syria), 5,634 (Eritrea) (mid-year 2021); 35,850 (Ukraine) (as of 11 October 2022)<br>
 _stateless persons_: 11,608 (mid-year 2021)<br>
 

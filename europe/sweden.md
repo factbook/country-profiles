@@ -181,7 +181,7 @@ _unimproved: rural_: rural: 0.3% of population<br>
 _unimproved: total_: total: 0.2% of population (2020 est.)<br>
 
 **Current health expenditure**<br>
-10.9% (2019)<br>
+10.9% of GDP (2019)<br>
 
 **Physicians density**<br>
 7.09 physicians/1,000 population (2019)<br>
@@ -342,7 +342,7 @@ _residency requirement for naturalization_: 5 years<br>
 
 **Executive branch**<br>
 _chief of state_: King CARL XVI GUSTAF (since 15 September 1973); Heir Apparent Princess VICTORIA Ingrid Alice Desiree (daughter of the monarch, born 14 July 1977)<br>
-_head of government_: Prime Minister Magdalena ANDERSSON (since 30 November 2021); resigned on 15 September 2022 but will remain in caretaker status until a new government is formed; Deputy Prime Minister Morgan JOHANSSON (since 10 September 2019)<br>
+_head of government_: Prime Minister Ulf KRISTERSSON (since 18 October 2022); Deputy Prime Minister Ebba BUSCH (since 18 October 2022)<br>
 _cabinet_: Cabinet appointed by the prime minister<br>
 _elections/appointments_: the monarchy is hereditary; following legislative elections, the leader of the majority party or majority coalition usually becomes the prime minister<br>
 
@@ -723,6 +723,6 @@ Islamic State of Iraq and ash-Sham (ISIS)<br>
 <p>none identified</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 114,995 (Syria), 28,744 (Afghanistan), 26,911 (Eritrea), 11,574 (Somalia), 11,153 (Iraq), 7,516 (Iran) (2020); 46,236 (Ukraine) (as of 30 September 2022)<br>
+_refugees (country of origin)_: 114,995 (Syria), 28,744 (Afghanistan), 26,911 (Eritrea), 11,574 (Somalia), 11,153 (Iraq), 7,516 (Iran) (2020); 46,579 (Ukraine) (as of 7 October 2022)<br>
 _stateless persons_: 50,098 (mid-year 2021); note - the majority of stateless people are from the Middle East and Somalia<br>
 

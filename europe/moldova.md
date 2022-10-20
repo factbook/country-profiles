@@ -178,7 +178,7 @@ _unimproved: rural_: rural: 13% of population<br>
 _unimproved: total_: total: 7.9% of population (2020 est.)<br>
 
 **Current health expenditure**<br>
-6.4% (2019)<br>
+6.4% of GDP (2019)<br>
 
 **Physicians density**<br>
 3.1 physicians/1,000 population (2020)<br>
@@ -708,7 +708,7 @@ Moldova is constitutionally neutral, but has maintained a relationship with NATO
 <p><em>Moldova-Romania</em>: none identified</p> <p><em>Moldova-Ukraine</em>: Ukraine and Moldova signed an agreement officially delimiting their border in 1999, but the border has not been demarcated due to Moldova's difficulties with the break-away region of Transnistria; Moldova and Ukraine operate joint customs posts to monitor the transit of people and commodities through Moldova's break-away Transnistria region, which remains under the auspices of an Organization for Security and Cooperation in Europe-mandated peacekeeping mission comprised of Moldovan, Transnistrian, Russian, and Ukrainian troops</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 93,117 (Ukraine) (as of 11 October 2022)<br>
+_refugees (country of origin)_: 94,252 (Ukraine) (as of 11 October 2022)<br>
 _stateless persons_: 3,372 (mid-year 2021)<br>
 
 **Illicit drugs**<br>

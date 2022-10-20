@@ -175,7 +175,7 @@ _unimproved: rural_: rural: 40.9% of population<br>
 _unimproved: total_: total: 26.9% of population (2020 est.)<br>
 
 **Current health expenditure**<br>
-8.4% (2019)<br>
+8.4% of GDP (2019)<br>
 
 **Physicians density**<br>
 0.2 physicians/1,000 population (2020)<br>
@@ -586,7 +586,7 @@ _subscriptions per 100 inhabitants_: 97 (2020 est.)<br>
 _general assessment_: small system including a combination of microwave radio relay, open-wire lines, radiotelephone, and mobile cellular communications; 2 mobile network operators; one of the poorest countries in the world and this is reflected in the country's telecommunications development; radio is the most important source of information for the public (2020)<br>
 _domestic_: fixed-line teledensity less than 1 per 100 persons; mobile cellular teledensity is just over 97 per 100 persons (2020)<br>
 _international_: country code - 245; ACE submarine cable connecting Guinea-Bissau with 20 landing points in Western and South Africa and Europe (2019)<br>
-<strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress towards 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>
+<strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress toward 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>
 
 **Broadcast media**<br>
 1 state-owned TV station, Televisao da Guine-Bissau (TGB) and a second station, Radio e Televisao de Portugal (RTP) Africa, is operated by Portuguese public broadcaster (RTP); 1 state-owned radio station, several private radio stations, and some community radio stations; multiple international broadcasters are available (2019)<br>

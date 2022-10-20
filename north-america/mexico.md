@@ -189,7 +189,7 @@ _unimproved: rural_: rural: 1.7% of population<br>
 _unimproved: total_: total: 0.3% of population (2020 est.)<br>
 
 **Current health expenditure**<br>
-5.4% (2019)<br>
+5.4% of GDP (2019)<br>
 
 **Physicians density**<br>
 2.43 physicians/1,000 population (2019)<br>
@@ -758,7 +758,7 @@ the Mexican military inventory includes a mix of domestically-produced and impor
 <strong>note: </strong>as of 2022, women comprised about 15% of the active duty military<br>
 
 **Military - note**<br>
-the constitution was amended in 2019 to grant the president the authority to use the armed forces to protect internal and national security, and courts have upheld the legality of the armed forces&rsquo; role in law enforcement activities in support of civilian authorities through at least 2024; as of 2022, Mexican military operations were heavily focused on internal security duties, particularly in countering drug cartels and organized crime groups, as well as border control and immigration enforcement; the armed forces also administered most of the country's land and sea ports and customs services, and it built and ran approximately 2,700 branches of a state-owned development bank; in addition, President LOPEZ OBRADOR has placed the military in charge of a growing number of infrastructure projects, such as building a new airport for Mexico City and sections of a train line in the country&rsquo;s southeast (2022)<br>
+the constitution was amended in 2019 to grant the president the authority to use the armed forces to protect internal and national security, and courts have upheld the legality of the armed forces&rsquo; role in law enforcement activities in support of civilian authorities through 2028; as of 2022, Mexican military operations were heavily focused on internal security duties, particularly in countering drug cartels and organized crime groups, as well as border control and immigration enforcement; the armed forces also administered most of the country's land and sea ports and customs services, and it built and ran approximately 2,700 branches of a state-owned development bank; in addition, President LOPEZ OBRADOR has placed the military in charge of a growing number of infrastructure projects, such as building a new airport for Mexico City and sections of a train line in the country&rsquo;s southeast (2022)<br>
 
 ## Transnational Issues
 

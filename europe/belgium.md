@@ -178,7 +178,7 @@ _unimproved: rural_: rural: 0% of population<br>
 _unimproved: total_: total: 0% of population (2020 est.)<br>
 
 **Current health expenditure**<br>
-10.7% (2019)<br>
+10.7% of GDP (2019)<br>
 
 **Physicians density**<br>
 6.08 physicians/1,000 population (2020)<br>
@@ -612,7 +612,7 @@ _subscriptions per 100 inhabitants_: 99 (2020 est.)<br>
 _general assessment_: Belgium&rsquo;s mobile market is served by the three network operators Proximus, Orange Belgium, and BASE, and by a good number of Mobile Virtual Network Operators; mobile networks have been upgraded to support growing mobile data use among subscribers, with near-comprehensive LTE coverage; operators have also trialed 5G in preparation for launching services; the auction of 5G-suitable spectrum has been delayed to the beginning of 2022, while the onerous restrictions on radiation have meant that some 5G trials have been suspended; there is effective competition in Belgium between the DSL and cable platforms, while in recent years government support has also encouraged investment in fiber networks; Telenet, supported by its parent Liberty Global, has extended the reach of services based on the DOCSIS3.1 standard, while Proximus also has extensive fiber/Very high-speed digital subscriber line and FttP deployments and is currently investing in $2.9 billion 'Fiber for Belgium' program through 2027; in a bid to encourage investment in under served areas, the regulator in 2018 amended the conditions by which market players grant wholesale access to copper and fiber infrastructure; in May 2019 it opened a further consultation on cost models for access to the networks of cablecos and those of Proximus&rsquo;s fiber infrastructure. (2021)<br>
 _domestic_: about 31 per 100 fixed-line and 99 per 100 mobile-cellular; nationwide mobile-cellular telephone system; extensive cable network; limited microwave radio relay network (2020)<br>
 _international_: country code - 32; landing points for Concerto, UK-Belgium, Tangerine, and SeaMeWe-3, submarine cables that provide links to Europe, the Middle East, Australia, and Asia; satellite earth stations - 7 (Intelsat - 3) (2019)<br>
-<strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress towards 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>
+<strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress toward 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>
 
 **Broadcast media**<br>
 a segmented market with the three major communities (Flemish-, French-, and German-speaking) each having responsibility for their own broadcast media; multiple TV channels exist for each community; additionally, in excess of 90% of households are connected to cable and can access broadcasts of TV stations from neighboring countries; each community has a public radio network coexisting with private broadcasters<br>
@@ -688,11 +688,11 @@ Brussels (Senne River) Liege (Meuse River)<br>
 Belgian Armed Forces: Land Component, Marine (Naval) Component, Air Component, Medical Service (2022)<br>
 
 **Military expenditures**<br>
-1.1% of GDP (2021 est.)<br>
+1.2% of GDP (2022 est.)<br>
+1.1% of GDP (2021)<br>
 1% of GDP (2020)<br>
 0.9% of GDP (2019) (approximately $5.54 billion)<br>
 0.9% of GDP (2018) (approximately $5.43 billion)<br>
-0.9% of GDP (2017) (approximately $5.2 billion)<br>
 
 **Military and security service personnel strengths**<br>
 approximately 25,000 active duty personnel (10,000 Land Component; 1,500 Marine Component; 5,000 Air Force Component; 1,500 Medical Service; 7,000 other, including joint staff, support, and training schools) (2022)<br>
@@ -723,7 +723,7 @@ Islamic Revolutionary Guard Corps/Qods Force; Islamic State of Iraq and ash-Sham
 <p>none identified</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 18,493 (Syria), 5,094 (Iraq) (2020); 56,854 (Ukraine) (as of 4 October 2022)<br>
+_refugees (country of origin)_: 18,493 (Syria), 5,094 (Iraq) (2020); 57,423 (Ukraine) (as of 11 October 2022)<br>
 _stateless persons_: 1,159 (mid-year 2021)<br>
 
 **Illicit drugs**<br>

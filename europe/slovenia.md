@@ -174,7 +174,7 @@ _unimproved: rural_: rural: NA<br>
 _unimproved: total_: total: 0.5% of population (2020 est.)<br>
 
 **Current health expenditure**<br>
-8.5% (2019)<br>
+8.5% of GDP (2019)<br>
 
 **Physicians density**<br>
 3.28 physicians/1,000 population (2019)<br>
@@ -679,11 +679,11 @@ _major seaport(s)_: Koper<br>
 Slovenian Armed Forces (Slovenska Vojska, SV): structured as a combined force with air, land, maritime, special operations, combat support, and combat service support elements (2022)<br>
 
 **Military expenditures**<br>
-1.2% of GDP (2021 est.)<br>
+1.2% of GDP (2022 est.)<br>
+1.2% of GDP (2021)<br>
 1% of GDP (2020)<br>
 1.1% of GDP (2019) (approximately $800 million)<br>
 1% of GDP (2018) (approximately $750 million)<br>
-1% of GDP (2017) (approximately $690 million)<br>
 
 **Military and security service personnel strengths**<br>
 approximately 6,000 active duty troops (2022)<br>
@@ -692,7 +692,7 @@ approximately 6,000 active duty troops (2022)<br>
 the military's inventory is a mix of Soviet-era and smaller quantities of more modern Russian and Western equipment; since 2010, it has received limited amounts of military equipment from several countries led by France and Russia (2021)<br>
 
 **Military service age and obligation**<br>
-18-25 years of age for voluntary military service (men and women); conscription abolished in 2003 (2021)<br>
+18-25 years of age for voluntary military service for men and women; conscription abolished in 2003 (2021)<br>
 <strong>note:</strong> as of 2019, women comprised about 15% of the military's full-time personnel<br>
 
 **Military deployments**<br>
@@ -708,9 +708,9 @@ Slovenia became a member of NATO in 2004; Hungary and Italy provide NATO's air p
 <p><em>Slovenia-Austria</em>: none identified</p> <p><em>Slovenia-Croatia</em>: since the breakup of Yugoslavia in the early 1990s, Croatia and Slovenia have each claimed sovereignty over Piran Bay and four villages, and Slovenia has objected to Croatia's claim of an exclusive economic zone in the Adriatic Sea; in 2009, however Croatia and Slovenia signed a binding international arbitration agreement to define their disputed land and maritime borders, which led Slovenia to lift its objections to Croatia joining the EU; in June 2017, the Permanent Court of Arbitration issued a ruling on the border, but Croatia had withdrawn from the proceedings in 2015 and refused to implement it; as a member state that forms part of the EU's external border, Slovenia has implemented the strict Schengen border rules to curb illegal migration and commerce through southeastern Europe while encouraging close cross-border ties with Croatia; Slovenia continues to impose a hard border Schengen regime with Croatia, which joined the EU in 2013 but has not yet fulfilled Schengen requirements</p> <p><em>Slovenia-Hungary</em>: none identified</p> <p><em>Slovenia-Italy</em>: none identified</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 8,801 (Ukraine) (as of 4 October 2022)<br>
+_refugees (country of origin)_: 8,255 (Ukraine) (as of 11 October 2022)<br>
 _stateless persons_: 10 (2020)<br>
-<strong>note:  </strong>547,689 estimated refugee and migrant arrivals (January 2015-August 2022)<br>
+<strong>note:  </strong>551,887 estimated refugee and migrant arrivals (January 2015-September 2022)<br>
 
 **Illicit drugs**<br>
 minor transit point for cocaine and Southwest Asian heroin bound for Western Europe, and for precursor chemicals<br>

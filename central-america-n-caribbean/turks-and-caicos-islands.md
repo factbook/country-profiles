@@ -289,7 +289,7 @@ _judge selection and term of office_: Supreme Court and Appeals Court judges app
 _subordinate courts_: magistrates' courts<br>
 
 **Political parties and leaders**<br>
-People's Democratic Movement or PDM [Sean ASTWOOD]<br>Progressive National Party or PNP [Washington MISICK]<br>
+People's Democratic Movement or PDM [Edwin ASTWOOD]<br>Progressive National Party or PNP [Washington MISICK]<br>
 
 **International organization participation**<br>
 Caricom (associate), CDB, Interpol (subbureau), UPU<br>

@@ -185,7 +185,7 @@ _unimproved: rural_: rural: 33.1% of population<br>
 _unimproved: total_: total: 23.1% of population (2020 est.)<br>
 
 **Current health expenditure**<br>
-7.7% (2019)<br>
+7.7% of GDP (2019)<br>
 
 **Physicians density**<br>
 0.2 physicians/1,000 population (2020)<br>
@@ -730,7 +730,7 @@ the ZDF was formed after independence from the former Rhodesian Army and the two
 <p><em>Zimbabwe-Mozambique: none identified<br><br>Zimbabwe-South Africa: </em>South Africa has placed military units to assist police operations along the border of Lesotho, Zimbabwe, and Mozambique to control smuggling, poaching, and illegal migration<em><br><br>Zimbabwe-Zambia: </em>in 2004, Zimbabwe dropped objections to plans between Botswana and Zambia to build a bridge over the Zambezi River, thereby de facto recognizing a short, but not clearly delimited, Botswana-Zambia boundary in the river; in May 2021, Botswana and Zambia agreed in principle to let Zimbabwe be a partner in the bridge project as it enters its lasts phase</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 11,613 (Democratic Republic of Congo) (refugees and asylum seekers), 8,266 (Mozambique) (2022)<br>
+_refugees (country of origin)_: 11,613 (Democratic Republic of Congo) (refugees and asylum seekers), 9,871 (Mozambique) (2022)<br>
 
 **Trafficking in persons**<br>
 _current situation_: Zimbabwe is a source, transit, and destination country for men, women, and children subjected to forced labor and sex trafficking; Zimbabwean women and girls from towns bordering South Africa, Mozambique, and Zambia are subjected to forced labor, including domestic servitude, and prostitution catering to long-distance truck drivers; Zimbabwean men, women, and children experience forced labor in agriculture and domestic servitude in rural areas; family members may recruit children and other relatives from rural areas with promises of work or education in cities and towns where they end up in domestic servitude and sex trafficking; Zimbabwean women and men are lured into exploitative labor situations in South Africa and other neighboring countries<br>

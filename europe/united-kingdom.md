@@ -178,7 +178,7 @@ _unimproved: rural_: rural: 0% of population<br>
 _unimproved: total_: total: 0% of population (2020 est.)<br>
 
 **Current health expenditure**<br>
-10.2% (2019)<br>
+10.2% of GDP (2019)<br>
 
 **Physicians density**<br>
 3 physicians/1,000 population (2020)<br>
@@ -366,7 +366,7 @@ _judge selection and term of office_: judge candidates selected by an independen
 _subordinate courts_: England and Wales: Court of Appeal (civil and criminal divisions); High Court; Crown Court; County Courts; Magistrates' Courts; Scotland: Court of Sessions; Sheriff Courts; High Court of Justiciary; tribunals; Northern Ireland: Court of Appeal in Northern Ireland; High Court; county courts; magistrates' courts; specialized tribunals<br>
 
 **Political parties and leaders**<br>
-Alliance Party (Northern Ireland) [Naomi LONG] <br>Conservative and Unionist Party [Boris JOHNSON]<br>Democratic Unionist Party or DUP (Northern Ireland) [Jeffrey DONALDSON]<br>Green Party of England and Wales or Greens [Carla DENYER and Adrian RAMSAY]<br>Labor (Labour) Party [Sir Keir STARMER]<br>Liberal Democrats (Lib Dems) [Ed DAVEY]<br>Party of Wales (Plaid Cymru) [Adam PRICE]<br>Scottish National Party or SNP [Nicola STURGEON]<br>Sinn Fein (Northern Ireland) [Mary Lou MCDONALD]<br>Social Democratic and Labor Party or SDLP (Northern Ireland) [Colum EASTWOOD]<br>UK Independence Party or UKIP [Pat MOUNTAIN, interim leader]<br>Ulster Unionist Party or UUP (Northern Ireland) [Robin SWANN]<br>
+Alliance Party (Northern Ireland) [Naomi LONG] <br>Conservative and Unionist Party [Liz TRUSS]<br>Democratic Unionist Party or DUP (Northern Ireland) [Jeffrey DONALDSON]<br>Green Party of England and Wales or Greens [Carla DENYER and Adrian RAMSAY]<br>Labor (Labour) Party [Sir Keir STARMER]<br>Liberal Democrats (Lib Dems) [Sir Ed DAVEY]<br>Party of Wales (Plaid Cymru) [Adam PRICE]<br>Scottish National Party or SNP [Nicola STURGEON]<br>Sinn Fein (Northern Ireland) [Mary Lou MCDONALD]<br>Social Democratic and Labor Party or SDLP (Northern Ireland) [Colum EASTWOOD]<br>UK Independence Party or UKIP [Neil HAMILTON]<br>Ulster Unionist Party or UUP (Northern Ireland) [Doug BEATTIE]<br>
 
 **International organization participation**<br>
 ADB (nonregional member), AfDB (nonregional member), Arctic Council (observer), Australia Group, BIS, C, CBSS (observer), CD, CDB, CE, CERN, EAPC, EBRD, ECB, EIB, EITI (implementing country), ESA, EU, FAO, FATF, G-5, G-7, G-8, G-10, G-20, IADB, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IEA, IFAD, IFC, IFRCS, IGAD (partners), IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, MINUSMA, MONUSCO, NATO, NEA, NSG, OAS (observer), OECD, OPCW, OSCE, Pacific Alliance (observer), Paris Club, PCA, PIF (partner), SELEC (observer), SICA (observer), UN, UNCTAD, UNESCO, UNFICYP, UNHCR, UNHRC, UNMISS, UNRWA, UN Security Council (permanent), UNSOM, UPU, Wassenaar Arrangement, WCO, WHO, WIPO, WMO, WTO, ZC<br>
@@ -709,11 +709,11 @@ United Kingdom Armed Forces (aka British Armed Forces, aka Her Majesty's Armed F
 <strong>note: </strong>in 2021 the UK formed a joint service Space Command staffed by Army, Navy, and Air Force personnel, as well as civilians and key members of the commercial sector to manage space operations, training, and capabilities; it established a National Cyber Force comprised of military and intelligence personnel in 2020; in 2019, the UK formed the Strategic Command (formerly Joint Forces Command) to develop and manage the British military's medical services, training and education, defense intelligence, and information systems across the land, sea, air, space, and cyber domains; national-level special forces (UK Special Forces, UKSF) also fall under Strategic Command; in addition, the command manages joint overseas operations<br>
 
 **Military expenditures**<br>
-2.5% of GDP (2021 est.)<br>
+2.1% of GDP (2022 est.)<br>
+2.5% of GDP (2021)<br>
 2.3% of GDP (2020)<br>
 2.1% of GDP (2019) (approximately $68.4 billion)<br>
 2.1% of GDP (2018) (approximately $67.8 billion)<br>
-2.1% of GDP (2017) (approximately $65.9 billion)<br>
 
 **Military and security service personnel strengths**<br>
 approximately 153,000 regular forces (81,000 Army; 34,000 Navy, including about 7,000 Royal Marines; 38,000 Air Force) (2022)<br>
@@ -723,7 +723,7 @@ approximately 153,000 regular forces (81,000 Army; 34,000 Navy, including about 
 the inventory of the British military is comprised of a mix of domestically-produced and imported Western weapons systems; the US has been the leading supplier of armaments to the UK since 2010; the UK defense industry is capable of producing a wide variety of air, land, and sea weapons systems and is one of the world's top weapons suppliers (2021)<br>
 
 **Military service age and obligation**<br>
-slight variations by service, but generally 16-36 years of age for enlisted (with parental consent under 18) and 18-29 for officers; minimum length of service 4 years; women serve in military services including combat roles; conscription abolished in 1963 (2021)<br>
+some variations by service, but generally 16-36 years of age for enlisted (with parental consent under 18) and 18-29 for officers; minimum length of service 4 years; women serve in all military services including combat roles; conscription abolished in 1963 (2022)<br>
 <strong>note:</strong> as of 2019, women made up about 11% of the military's full-time personnel<br>
 
 **Military deployments**<br>
@@ -745,7 +745,7 @@ Continuity Irish Republican Army; Islamic State of Iraq and ash-Sham (ISIS); New
 <p><em>UK-Argentina</em>: UK rejects sovereignty talks requested by Argentina, which still claims the Falkland Islands (Islas Malvinas) and South Georgia and the South Sandwich Islands</p> <p><em>UK-Argentina-Chile</em>: the UK’s territorial claim in Antarctica (British Antarctic Territory) overlaps Argentine claim and partially overlaps Chilean claim</p> <p><em>UK-Denmark</em>: the UK, Iceland, and Ireland dispute Denmark's claim that the Faroe Islands' continental shelf extends beyond 200 nm; Iceland, Norway, and the Faroe Islands signed an agreement in 2019 extending the Faroe Islands’ northern continental shelf area</p> <p><em>UK (Gibraltar)-Spain</em>: in 2002, Gibraltar residents voted overwhelmingly by referendum to reject any "shared sovereignty" arrangement between the UK and Spain; the Government of Gibraltar insisted on equal participation in talks between the two countries; Spain disapproved of UK plans to grant Gibraltar greater autonomy; London and Madrid reached a temporary agreement at the end of 2020 that allowed Gibraltar to be part of the passport-free Schengen zone; talks are expected to continue in 2022</p> <p><em>UK-Mauritius-Seychelles</em>: Mauritius and Seychelles claim the Chagos Archipelago (British Indian Ocean Territory); in 2001, the former inhabitants of the archipelago, evicted 1967 - 1973, were granted UK citizenship and the right of return, followed by Orders in Council in 2004 that banned rehabitation, a High Court ruling reversed the ban, a Court of Appeal refusal to hear the case, and a Law Lords' decision in 2008 denied the right of return; in addition, the UK created the world's largest marine protection area around the Chagos Islands prohibiting the extraction of any natural resources therein</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 21,011 (Iran), 14,503 (Eritrea), 11,251 (Sudan), 11,412 (Syria), 9,469 (Afghanistan), 8,357 (Pakistan), 6,933 (Iraq), 5,200 (Sri Lanka) (2020); 129,000 (Ukraine) (as of 19 September 2022)<br>
+_refugees (country of origin)_: 21,011 (Iran), 14,503 (Eritrea), 11,251 (Sudan), 11,412 (Syria), 9,469 (Afghanistan), 8,357 (Pakistan), 6,933 (Iraq), 5,200 (Sri Lanka) (2020); 136,600 (Ukraine) (as of 10 October 2022)<br>
 _stateless persons_: 3,968 (mid-year 2021)<br>
 
 **Illicit drugs**<br>

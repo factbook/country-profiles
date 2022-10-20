@@ -192,7 +192,7 @@ _unimproved: rural_: rural: 0.3% of population<br>
 _unimproved: total_: total: 0.3% of population (2020 est.)<br>
 
 **Current health expenditure**<br>
-4.7% (2019)<br>
+4.7% of GDP (2019)<br>
 
 **Physicians density**<br>
 0.75 physicians/1,000 population (2019)<br>
@@ -400,7 +400,7 @@ _email address and website_: <br>consulate@egyptembassy.net<br><br>https://www.e
 _consulate(s) general_: Chicago, Houston, Los Angeles, New York<br>
 
 **Diplomatic representation from the US**<br>
-_chief of mission_: Ambassador (vacant);&nbsp; Charge d'Affaires Nicole SHAMPAINE (since 1 April 2022)<br>
+_chief of mission_: Ambassador (vacant);&nbsp; Charge d'Affaires Daniel RUBINSTEIN (since 23 August 2022)<br>
 _embassy_: 5 Tawfik Diab St., Garden City, Cairo<br>
 _mailing address_: 7700 Cairo Place, Washington DC 20512-7700<br>
 _telephone_: [20-2] 2797-3300<br>
@@ -473,7 +473,7 @@ _exports of goods and services_: 16.3% (2017 est.)<br>
 _imports of goods and services_: -28.5% (2017 est.)<br>
 
 **Agricultural products**<br>
-sugar cane, sugar beet, wheat, maize, tomatoes, rice, potatoes, oranges, onions, milk<br>
+sugar cane, sugar beets, wheat, maize, tomatoes, rice, potatoes, oranges, onions, milk<br>
 
 **Industries**<br>
 textiles, food processing, tourism, chemicals, pharmaceuticals, hydrocarbons, construction, cement, metals, light manufactures<br>
@@ -644,7 +644,7 @@ _subscriptions per 100 inhabitants_: 93 (2020 est.)<br>
 _general assessment_: Egypt&rsquo;s large telecom market is supported by a population of about 103 million and benefits from effective competition in most sectors; a liberal regulatory regime allows for unified licenses which permit operators to offer fixed-line as well as mobile services; in recent years the government has developed a number of digital migration projects aimed at increasing average broadband speeds, delivering fiber broadband to about 60% of the population, developing an in-house satellite program, and creating a knowledge-based economy through the greater adoption of ICTs; the New Administrative Capital being built is only one of more than a dozen smart city projects, which together are stimulating investment in 5G and fiber broadband, as well as the adoption of IoT and AI solutions; the country endeavor to be a significant ICT hub in the North Africa and Middle East regions; Egypt&rsquo;s mature mobile market has one of the highest subscription rates in Africa; progress in the adoption of mobile data services has been hampered by the lack of sufficient spectrum; the regulator in September 2020 made available 60MHz in the 2.6GHz band, though the spectrum was not allocated until late 2021; the additional spectrum will go far to enabling the MNOs to improve the quality of mobile broadband services offered; further 5G trials are to be held later in 2022, focused on the New Administrative Capital; the international cable infrastructure remains an important asset for Egypt, which benefits from its geographical position; Telecom Egypt has become one of the largest concerns in this segment, being a participating member in numerous cable systems; in mid-2021 the telco announced plans to build the Hybrid African Ring Path system, connecting a number of landlocked countries in Africa with Italy, France, and Portugal; the system will partly use the company&rsquo;s existing terrestrial and sub sea cable networks. (2022)<br>
 _domestic_: fixed-line roughly 10 per 100, mobile-cellular 93 per 100 (2020)<br>
 _international_: country code - 20; landing points for Aletar, Africa-1, FEA, Hawk, IMEWE,&nbsp;and the SEA-ME-WE-3 &amp; 4&nbsp;submarine cable networks linking to Asia, Africa, the Middle East, and Australia&nbsp;; satellite earth stations - 4 (2 Intelsat - Atlantic Ocean and Indian Ocean, 1 Arabsat, and 1 Inmarsat); tropospheric scatter to Sudan; microwave radio relay to Israel; a participant in Medarabtel (2019)<br>
-<!-- x-tinymce/html --><strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress towards 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>
+<!-- x-tinymce/html --><strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress toward 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>
 
 **Broadcast media**<br>
 mix of state-run and private broadcast media; state-run TV operates 2 national and 6 regional terrestrial networks, as well as a few satellite channels; dozens of private satellite channels and a large number of Arabic satellite channels are available for free; some limited satellite services are also available via subscription; state-run radio operates about 30 stations belonging to 8 networks; privately-owned radio includes 8 major stations, 4 of which belong to 1 network (2019)<br>

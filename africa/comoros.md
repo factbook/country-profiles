@@ -175,7 +175,7 @@ _unimproved: rural_: rural: 11.5% of population<br>
 _unimproved: total_: total: 8.9% of population (2017 est.)<br>
 
 **Current health expenditure**<br>
-5.2% (2019)<br>
+5.2% of GDP (2019)<br>
 
 **Physicians density**<br>
 0.26 physicians/1,000 population (2018)<br>
@@ -585,7 +585,7 @@ _subscriptions per 100 inhabitants_: 90 (2020 est.)<br>
 _general assessment_: Qatar launched a special program for the construction of a wireless network to inter connect the 3 islands of the archipelago; telephone service limited to the islands' few towns (2020)<br>
 _domestic_: fixed-line connections less than 1 per 100 persons; mobile-cellular usage about 54 per 100 persons; 2 companies provide domestic and international mobile service and wireless data (2020)<br>
 _international_: country code - 269; landing point for the EASSy, Comoros Domestic Cable System, Avassa, and FLY-LION3&nbsp;fiber-optic submarine cable system connecting East Africa with Europe; HF radiotelephone communications to Madagascar and Reunion (2019)<br>
-<strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress towards 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>
+<strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress toward 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>
 
 **Broadcast media**<br>
 national state-owned TV station and a TV station run by Anjouan regional government; national state-owned radio; regional governments on the islands of Grande Comore and Anjouan each operate a radio station; a few independent and small community radio stations operate on the islands of Grande Comore and Moheli, and these two islands have access to Mayotte Radio and French TV<br>

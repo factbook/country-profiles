@@ -189,7 +189,7 @@ _unimproved: rural_: rural: 43.4% of population<br>
 _unimproved: total_: total: 28.4% of population (2020 est.)<br>
 
 **Current health expenditure**<br>
-5.3% (2019)<br>
+5.3% of GDP (2019)<br>
 
 **Physicians density**<br>
 1.17 physicians/1,000 population (2018)<br>
@@ -729,10 +729,10 @@ Zambia Defense Force (ZDF): Zambia Army, Zambia Air Force, Zambia National Servi
 approximately 17,000 active troops (15,000 Army; 2,000 Air) (2022)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the ZDF's inventory is largely comprised of Chinese, Russian, and Soviet-era armaments; since 2010, China is the leading supplier of arms to Zambia (2021)<br>
+the ZDF's inventory is largely comprised of Chinese, Russian, and Soviet-era armaments; since 2010, China has been the leading supplier of arms to Zambia (2022)<br>
 
 **Military service age and obligation**<br>
-18-25 years of age for voluntary military service for men and women (16 with parental consent); no conscription; 12-year enlistment period (7 years active, 5 in the Reserves) (2021)<br>
+18-25 years of age (16 with parental consent) for voluntary military service for men and women; no conscription; 12-year enlistment period (7 years active, 5 in the Reserves); all citizens are required to register at 16&nbsp; (2022)<br>
 
 **Military deployments**<br>
 930 Central African Republic (MINUSCA) (May 2022)<br>
@@ -746,7 +746,7 @@ the Zambian Defense Force (ZDF) traces its roots to the Northern Rhodesia Regime
 <p><em>Zambia-Angola: </em>because the straight-line segments along the left bank (Zambian side) of the Cuando/Kwando River do not conform with the physical alignment of the unstable shoreline, Zambian residents in some areas have settled illegally on sections of shoreline that fall on the Angolan side of the boundary<em><br><br>Zambia-Democratic Republic of Congo(DRC): </em>boundary commission continues discussions over Congolese-administered triangle of land on the right bank of the Lunkinda River claimed by Zambia near the DRC village of Pweto</p> <p><em>Zambia-Tanzania</em>: some drug smuggling may take place across the Zambia-Tanzania border; there are no known current territorial issues, as both states have continued to recognize the colonial boundaries last modified in 1937; the boundary in Lake Tanganyika remains undefined.<br><br><em>Zambia-Zimbabwe: </em>in 2004, Zimbabwe dropped objections to plans between Botswana and Zambia to build a bridge over the Zambezi River, thereby de facto recognizing a short, but not clearly delimited, Botswana-Zambia boundary in the river; in May 2021, Botswana and Zambia agreed in principle to let Zimbabwe be a partner in the bridge project as it enters its lasts phase</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 60,236 (Democratic Republic of the Congo) (refugees and asylum seekers), 6,568 (Burundi) (2022)<br>
+_refugees (country of origin)_: 60,236 (Democratic Republic of the Congo) (refugees and asylum seekers), 6,948 (Burundi) (2022)<br>
 
 **Trafficking in persons**<br>
 _current situation_: human traffickers exploit domestic and foreign victims in Zambia and Zambians abroad; most trafficking occurs within Zambia&rsquo;s borders, with traffickers exploiting women and children from rural areas in cities in domestic servitude or forced labor in agriculture, textile production, mining, construction, small businesses, such as bakeries, and forced begging; Jerabo gangs force Zambian children into illegal mining operations, such as loading stolen copper or crushing rocks; truck drivers exploit Zambian boys and girls in sex trafficking in towns along the Zimbabwean and Tanzanian borders, and miners exploit them in Solwezi; Zambian boys are exploited for sex trafficking in Zimbabwe and women and girls in South Africa; traffickers exploit victims from Tanzania and Malawi in the Zambian timber industry<br>

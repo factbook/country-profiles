@@ -175,7 +175,7 @@ _unimproved: rural_: rural: 0% of population<br>
 _unimproved: total_: total: 0% of population (2020 est.)<br>
 
 **Current health expenditure**<br>
-7.8% (2019)<br>
+7.8% of GDP (2019)<br>
 
 **Physicians density**<br>
 6.31 physicians/1,000 population (2019)<br>
@@ -611,7 +611,7 @@ _subscriptions per 100 inhabitants_: 109 (2020 est.)<br>
 _general assessment_: Greece&rsquo;s telecom market is susceptible to the country&rsquo;s volatile economy, and as a result revenue among the key networks has been variable; the incumbent telco OTE, supported by the organizational and financial clout of its parent Deutsche Telekom, reported a 16.6% fall in revenue for 2020, and the economic fallout of the pandemic continued to reduce revenue into 2021; broadband subscriptions in Greece are developing steadily despite the difficult economic conditions; the main networks are concentrating investment on fiber-based next generation networks, enabling them to reach the European broadband targets for 2025; their work is also supported by government ultra-fast broadband projects, largely funded by the EC and aimed at delivering a service of at least 100Mb/s to under served areas; Greece&rsquo;s well-developed mobile market is dominated by the three MNOs Wind Hellas, Vodafone Greece, and Cosmote; Networks continue to invest in LTE infrastructure and technologies to provide networks capable of meeting customer demand for data services; after extensive trials of 5G, the MNOs were able to launch commercial services in early 2021 following the December 2020 allocation of frequencies in a range of bands; the rapid rollout of 5G encouraged Cosmote to close down its 3G network (a process expected to be completed by the end of 2021) and reallocate for LTE and 5G. (2022)<br>
 _domestic_: microwave radio relay trunk system; extensive open-wire connections; submarine cable to offshore islands; nearly 46 per 100 subscribers for fixed-line and 110 per 100 for mobile-cellular (2020)<br>
 _international_: country code - 30; landing points for the SEA-ME-WE-3, Adria-1, Italy-Greece 1, OTEGLOBE, MedNautilus Submarine System, Aphrodite 2, AAE-1&nbsp;and Silphium optical telecommunications submarine cable that provides links to Europe, the Middle East, Africa, Southeast Asia, Asia and Australia;&nbsp; tropospheric scatter; satellite earth stations - 4 (2 Intelsat - 1 Atlantic Ocean and 1 Indian Ocean, 1 Eutelsat, and 1 Inmarsat - Indian Ocean region) (2019)<br>
-<strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress towards 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>
+<strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress toward 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>
 
 **Broadcast media**<br>
 broadcast media dominated by the private sector; roughly 150 private TV channels, about 10 of which broadcast nationwide; 1 government-owned terrestrial TV channel with national coverage; 3 privately owned satellite channels; multi-channel satellite and cable TV services available; upwards of 1,500 radio stations, all of them privately owned; government-owned broadcaster has 2 national radio stations<br>
@@ -689,11 +689,11 @@ Hellenic Armed Forces: Hellenic Army (Ellinikos Stratos, ES; includes National G
 <strong>note:</strong> the police (under the Ministry of Citizen Protection) and the armed forces (Ministry of National Defense) share law enforcement duties in certain border areas; border protection is coordinated by a deputy minister for national defense<br>
 
 **Military expenditures**<br>
-3.6% of GDP (2021 est.)<br>
+3.8% of GDP (2022 est.)<br>
+3.6% of GDP (2021)<br>
 2.9% of GDP (2020)<br>
 2.3% of GDP (2019) (approximately $7.95 billion)<br>
 2.5% of GDP (2018) (approximately $8.31 billion)<br>
-2.3% of GDP (2017) (approximately $7.56 billion)<br>
 
 **Military and security service personnel strengths**<br>
 approximately 125,000 active duty personnel (90,000 Army; 15,000 Navy; 20,000 Air Force); approximately 35,000 National Guard (2022)<br>
@@ -724,9 +724,9 @@ Islamic State of Iraq and ash-Sham (ISIS); Revolutionary Struggle; Revolutionary
 <p>Greece and Turkey continue discussions to resolve their complex maritime, air, territorial, and boundary disputes in the Aegean Sea; the mass migration of unemployed Albanians still remains a problem for developed countries, chiefly Greece and Italy</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 38,496 (Syria), 25,188 (Afghanistan), 12,657 (Iraq), 5,002 (West Bank and Gaza) (mid-year 2021); 19,413 (Ukraine) (as of 20 September 2022)<br>
+_refugees (country of origin)_: 38,496 (Syria), 25,188 (Afghanistan), 12,657 (Iraq), 5,002 (West Bank and Gaza) (mid-year 2021); 19,752 (Ukraine) (as of 20 September 2022)<br>
 _stateless persons_: 5,552 (mid-year 2021)<br>
-<strong>note:</strong> 1,224,758 estimated refugee and migrant arrivals (January 2015-October 2022); as of the end of February 2022, Greece hosted an estimated 161,419 refugees and asylum seekers<br>
+<strong>note:</strong> 1,225,815 estimated refugee and migrant arrivals (January 2015-October 2022); as of the end of February 2022, Greece hosted an estimated 161,419 refugees and asylum seekers<br>
 
 **Illicit drugs**<br>
 a gateway to Europe for traffickers smuggling cannabis products and heroin from the Middle East and Southwest Asia to the West and precursor chemicals to the East; some South American cocaine transits or is consumed in Greece; money laundering related to drug trafficking and organized crime<br>

@@ -180,7 +180,7 @@ _unimproved: rural_: rural: 5% of population<br>
 _unimproved: total_: total: 3% of population (2020 est.)<br>
 
 **Current health expenditure**<br>
-4.1% (2019)<br>
+4.1% of GDP (2019)<br>
 
 **Physicians density**<br>
 0.77 physicians/1,000 population (2020)<br>
@@ -359,8 +359,8 @@ _residency requirement for naturalization_: 10 years<br>
 18 years of age; universal<br>
 
 **Executive branch**<br>
-_chief of state_: President Ferdinand "BongBong" MARCOS, Jr (since 30 June 2022); Vice President Sara DUTERTE-Carpio (since 30 June 2022); note - the president is both chief of state and head of government<br>
-_head of government_: President Ferdinand "BongBong" MARCOS, Jr (since 30 June 2022); Vice President Sara DUTERTE-Carpio (since 30 June 2022)<br>
+_chief of state_: President Ferdinand "BongBong" MARCOS, Jr. (since 30 June 2022); Vice President Sara DUTERTE-Carpio (since 30 June 2022); note - the president is both chief of state and head of government<br>
+_head of government_: President Ferdinand "BongBong" MARCOS, Jr. (since 30 June 2022); Vice President Sara DUTERTE-Carpio (since 30 June 2022)<br>
 _cabinet_: Cabinet appointed by the president with the consent of the Commission of Appointments, an independent body of 25 Congressional members including the Senate president (ex officio chairman), appointed by the president<br>
 _elections/appointments_: president and vice president directly elected on separate ballots by simple majority popular vote for a single 6-year term; election last held on 9 May 2022 (next to be held on 9 May 2028)<br>
 _election results_: Ferdinand MARCOS, Jr. elected president; percent of vote - Ferdinand MARCOS, Jr. (PFP) 58.7%, Leni ROBREDO (independent) 27.9%, Manny PACQUIAO (PROMDI) 6.8%; Sara DUTERTE-Carpio elected vice president; percent of vote Sara DUTERTE-Carpio (Lakas-CMD) 61.5%, Francis PANGILINAN (LP) 17.8%, Tito SOTTO 15.8%<br>
@@ -390,7 +390,7 @@ _email address and website_: <br>washington.pe@dfa.gov.ph; consular@phembassy-us
 _consulate(s) general_: Chicago, Honolulu, Los Angeles, New York, Saipan (Northern Mariana Islands), San Francisco, Tamuning (Guam)<br>
 
 **Diplomatic representation from the US**<br>
-_chief of mission_: Ambassador (vacant); Charge d'Affaires Heather VARIAVA (since 17 September 2021)<br>
+_chief of mission_: Ambassador MaryKay Loss CARLSON (since 22 July 2022)<br>
 _embassy_: 1201 Roxas Boulevard, Manila 1000<br>
 _mailing address_: 8600 Manila Place, Washington DC&nbsp; 20521-8600<br>
 _telephone_: [63] (2) 5301-2000<br>

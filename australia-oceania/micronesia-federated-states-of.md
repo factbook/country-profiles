@@ -164,7 +164,7 @@ _improved: total_: total: 78.6% of population<br>
 _unimproved: total_: total: 21.4% of population (2017 est.)<br>
 
 **Current health expenditure**<br>
-11.4% (2019)<br>
+11.4% of GDP (2019)<br>
 
 **Hospital bed density**<br>
 3.2 beds/1,000 population<br>

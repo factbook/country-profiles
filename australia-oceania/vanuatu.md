@@ -171,7 +171,7 @@ _unimproved: rural_: rural: 10.3% of population<br>
 _unimproved: total_: total: 7.7% of population (2020 est.)<br>
 
 **Current health expenditure**<br>
-3.4% (2019)<br>
+3.4% of GDP (2019)<br>
 
 **Physicians density**<br>
 0.17 physicians/1,000 population (2016)<br>
@@ -344,7 +344,7 @@ _judge selection and term of office_: Supreme Court chief justice appointed by t
 _subordinate courts_: Magistrates Courts; Island Courts<br>
 
 **Political parties and leaders**<br>
-Greens Confederation or GC [Moana CARCASSES Kalosil]<br>Iauko Group or IG [Tony NARI]<br>Land and Justice Party (Graon mo Jastis Pati) or GJP [Ralph REGENVANU]<br>Melanesian Progressive Party or MPP [Barak SOPE]<br>Nagriamel Movement or NAG [Frankie STEVENS]<br>Natatok Indigenous People's Democratic Party or (NATATOK) or NIPDP [Alfred Roland CARLOT]<br>National United Party or NUP [Ham LINI]<br>People's Progressive Party or PPP [Sato KILMAN]<br>People's Service Party or PSP [Don KEN]<br>Reunification of Movement for Change or RMC [Charlot SALWAI]<br>Rural Development Party or RDP [Jay NGWELE, spokesman]<br>Union of Moderate Parties or UMP [Serge VOHOR]<br>Vanua'aku Pati (Our Land Party) or VP [Edward NATAPEI]<br>Vanuatu Democratic Party [Maxime Carlot KORMAN]<br>Vanuatu First or Vanuatu [Russel NARI]<br>Vanuatu Liberal Democratic Party or VLDP [Tapangararua WILLIE]<br>Vanuatu Liberal Movement or VLM [Gaetan PIKIOUNE]<br>Vanuatu National Development Party or VNDP [Robert Bohn SIKOL]<br>Vanuatu National Party or VNP [Issac HAMARILIU]<br>Vanuatu Republican Party or VRP [Marcellino PIPITE]<br>
+Green Confederation or GC [Moana CARCASSES Kalosil]<br>Iauko Group or IG [Tony NARI]<br>Land and Justice Party (Graon mo Jastis Pati) or GJP [Ralph REGENVANU]<br>Melanesian Progressive Party or MPP [Barak SOPE]<br>Nagriamel Movement or NAG [Frankie STEVENS]<br>Natatok Indigenous People's Democratic Party or (NATATOK) or NIPDP [Alfred Roland CARLOT]<br>National United Party or NUP [Ham LINI]<br>People's Progressive Party or PPP [Sato KILMAN]<br>People's Service Party or PSP [Don KEN]<br>Reunification of Movement for Change or RMC [Charlot SALWAI]<br>Rural Development Party or RDP [Jay NGWELE, spokesman]<br>Union of Moderate Parties or UMP [Alatoi Ishmael KALSAKAU]<br>Vanua'aku Pati (Our Land Party) or VP [Bob LOUGHMAN]<br>Vanuatu Democratic Party [Maxime Carlot KORMAN]<br>Vanuatu First or Vanuatu [Russel NARI]<br>Vanuatu Liberal Democratic Party or VLDP [Tapangararua WILLIE]<br>Vanuatu Liberal Movement or VLM [Gaetan PIKIOUNE]<br>Vanuatu National Development Party or VNDP [Robert Bohn SIKOL]<br>Vanuatu National Party or VNP [Issac HAMARILIU]<br>Vanuatu Republican Party or VRP [Marcellino PIPITE]<br>
 
 **International organization participation**<br>
 ACP, ADB, AOSIS, C, FAO, G-77, IBRD, ICAO, ICRM, IDA, IFC, IFRCS, ILO, IMF, IMO, IMSO, IOC, IOM, ITU, ITUC (NGOs), MIGA, NAM, OAS (observer), OIF, OPCW, PIF, Sparteca, SPC, UN, UNCTAD, UNESCO, UNIDO, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>

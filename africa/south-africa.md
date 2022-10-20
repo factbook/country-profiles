@@ -187,7 +187,7 @@ _unimproved: rural_: rural: 9.7% of population<br>
 _unimproved: total_: total: 3.3% of population (2020 est.)<br>
 
 **Current health expenditure**<br>
-9.1% (2019)<br>
+9.1% of GDP (2019)<br>
 
 **Physicians density**<br>
 0.79 physicians/1,000 population (2019)<br>
@@ -728,7 +728,7 @@ approximately 75,000 active duty personnel (40,000 Army; 7,000 Navy; 10,000 Air 
 the SANDF's inventory consists of a mix of domestically-produced and foreign-supplied equipment; South Africa's domestic defense industry produced most of the Army's major weapons systems (some were jointly-produced with foreign companies), while the Air Force and Navy inventories include a mix of European-, Israeli-, and US-origin weapons systems; since 2010, Sweden has been the largest supplier of weapons to the SANDF (2021)<br>
 
 **Military service age and obligation**<br>
-18-26 years of age for voluntary military service; women are eligible to serve in noncombat roles; 2-year service obligation (2021)<br>
+18-22 (18-26 for college graduates) years of age for voluntary military service for men and women; 2-year service obligation (2022)<br>
 <strong>note:</strong> in 2019, women comprised about 30% of the military<br>
 
 **Military deployments**<br>

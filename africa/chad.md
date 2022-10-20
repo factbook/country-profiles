@@ -185,7 +185,7 @@ _unimproved: rural_: rural: 48.1% of population<br>
 _unimproved: total_: total: 39.1% of population (2020 est.)<br>
 
 **Current health expenditure**<br>
-4.4% (2019)<br>
+4.4% of GDP (2019)<br>
 
 **Physicians density**<br>
 0.06 physicians/1,000 population (2020)<br>
@@ -639,7 +639,7 @@ _subscriptions per 100 inhabitants_: 53 (2020 est.)<br>
 _general assessment_: the telecom infrastructure is particularly poor; fixed, mobile and internet is well below African averages; Chad&rsquo;s telecom market offers some potential for investors to develop services given the low starting base; the two main operators Moov Africa Chad and Airtel Chad have invested in infrastructure and have become the main providers of voice and data services; the mobile sector has developed steadily under the auspices of these two operators; the national telco and fixed-line operator Sotel Tchad operates the country&rsquo;s third mobile network, as Salam Mobile, though it is mainly focused on voice services since it depends on GPRS and EDGE technologies (which can provide only basic mobile data services); the country&rsquo;s first 3G/LTE mobile license was awarded in April 2014; Chad finally gained access to international fiber bandwidth in 2012 its national backbone infrastructure remains underdeveloped; the World Bank-funded Central African Backbone (CAB) project takes in Chad, while the country is also party to a Trans-Saharan Backbone project which will link a fiber cable to Nigeria and Algeria. (2022)<br>
 _domestic_: fixed-line connections less than 1 per 100 persons; mobile-cellular subscribership base of about 53 per 100 persons (2020)<br>
 _international_: country code - 235; satellite earth station - 1 Intelsat (Atlantic Ocean)<br>
-<strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress towards 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>
+<strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress toward 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>
 
 **Broadcast media**<br>
 1 state-owned TV station; 2 privately-owned TV stations; state-owned radio network, Radiodiffusion Nationale Tchadienne (RNT), operates national and regional stations; over 10 private radio stations; some stations rebroadcast programs from international broadcasters (2017)<br>
@@ -729,7 +729,7 @@ Boko Haram; Islamic State of Iraq and ash-Sham - West Africa (ISIS-WA)<br>
 <p>since 2003, ad hoc armed militia groups and the Sudanese military have driven hundreds of thousands of Darfur residents into Chad; Chad wishes to be a helpful mediator in resolving the Darfur conflict, and in 2010 established a joint border monitoring force with Sudan, which has helped to reduce cross-border banditry and violence; only Nigeria and Cameroon have heeded the Lake Chad Commission's admonition to ratify the delimitation treaty, which also includes the Chad-Niger and Niger-Nigeria boundaries</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 387,753 (Sudan), 124,509 (Central African Republic), 35,137 (Cameroon), 20,272 (Nigeria) (2022)<br>
+_refugees (country of origin)_: 393,590 (Sudan), 124,509 (Central African Republic), 35,137 (Cameroon), 20,272 (Nigeria) (2022)<br>
 _IDPs_: 381,289 (majority are in the east) (2022)<br>
 
 **Trafficking in persons**<br>

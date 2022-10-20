@@ -173,7 +173,7 @@ _unimproved: rural_: rural: NA<br>
 _unimproved: total_: total: 0.4% of population (2020 est.)<br>
 
 **Current health expenditure**<br>
-6.7% (2019)<br>
+6.7% of GDP (2019)<br>
 
 **Physicians density**<br>
 3.47 physicians/1,000 population (2019)<br>
@@ -615,7 +615,7 @@ _subscriptions per 100 inhabitants_: 145 (2020 est.)<br>
 _general assessment_: the competitive telecom market continues to progress with a range of regulatory measures which have enabled alternative operators to chip away at the fixed-line market share of the incumbent telco Telia Estonia; fixed-line infrastructure upgrades have been focused on fiber, and the legacy DSL network has gradually been replaced; the MNOs Telia, Elisa and Tele2 have comprehensive LTE infrastructure in place; limited commercial 5G deployments have been made though an expansion of service availability awaits the delayed auction of spectrum in the 3.5GHz band, which is expected to be held later in 2021. (2021)<br>
 _domestic_: just under 23 per 100 for fixed-line subscribership and approximately 145 per 100 for mobile-cellular; substantial fiber-optic cable systems carry telephone, TV, and radio traffic in the digital mode; Internet services are widely available; schools and libraries are connected to the Internet, a large percentage of the population files income tax returns online, and online voting - in local and parliamentary elections - has climbed steadily since first being introduced in 2005; a large percent of Estonian households have broadband access (2020)<br>
 _international_: country code - 372; landing points for the EE-S-1, EESF-3, Baltic Sea Submarine Cable, FEC and EESF-2 fiber-optic submarine cables to other Estonia points, Finland, and Sweden; 2 international switches are located in Tallinn (2019)<br>
-<strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress towards 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>
+<strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress toward 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>
 
 **Broadcast media**<br>
 the publicly owned broadcaster, Eesti Rahvusringhaaling (ERR), operates 3 TV channels and 5 radio networks; growing number of private commercial radio stations broadcasting nationally, regionally, and locally; fully transitioned to digital television in 2010; national private TV channels expanding service; a range of channels are aimed at Russian-speaking viewers; in 2016, there were 42 on-demand services available in Estonia, including 19 pay TVOD and SVOD services; roughly 85% of households accessed digital television services<br>
@@ -689,11 +689,11 @@ _major seaport(s)_: Kuivastu, Kunda, Muuga, Parnu Reid, Sillamae, Tallinn<br>
 Estonian Defense Forces: Land Forces, Navy, Air Force, Estonian Defense League (Reserves) (2022)<br>
 
 **Military expenditures**<br>
-2.2% of GDP (2021 est.)<br>
+2.35% of GDP (2022 est.)<br>
+2.2% of GDP (2021)<br>
 2.4% of GDP (2020)<br>
 2% of GDP (2019) (approximately $850 million)<br>
 2% of GDP (2018) (approximately $800 million)<br>
-2% of GDP (2017) (approximately $750 million)<br>
 
 **Military and security service personnel strengths**<br>
 approximately 7,000 active duty personnel; approximately 15,000 Defense League (2022)<br>
@@ -703,7 +703,7 @@ the Estonian military has a limited inventory of Soviet-era and some more recent
 
 **Military service age and obligation**<br>
 18-27 for compulsory military or governmental service for men; conscript service requirement 8-11 months depending on education; non-commissioned officers, reserve officers, and specialists serve 11 months; women can volunteer, and as of 2018 could serve in any military branch (2022)<br>
-<strong>note 1:</strong> conscripts comprise approximately 3,000-3,300 of the Estonian military's 7,000 active duty personnel and serve in all branches, except for the Air Force, which does not have conscripts; after conscript service, reservists are called up for training every 5 years; Estonia has had conscription since 1991<br><br><strong>note 2:</strong> in 2020, women comprised about 10% of the full-time professional military force<br>
+<strong>note 1:</strong> conscripts comprise approximately 3,000-3,300 of the Estonian military's 7,000 active duty personnel and serve in all branches, except for the Air Force, which does not have conscripts; after conscript service, reservists are called up for training every 5 years; Estonia has had conscription since 1991<br><br><strong>note 2:</strong> the Estonian Defense Forces rely largely on reservists who have completed compulsory conscription in the previous 10 years to fill out its active duty and Territorial Defense units during a crisis; a total of approximately 230,000 Estonians are enrolled in the mobilization registry<br><br><strong>note 3:</strong> in 2020, women comprised about 10% of the full-time professional military force<br>
 
 **Military - note**<br>
 Estonia became a member of NATO in 2004<br><br>since 2017, Estonia has hosted a UK-led multi-national NATO ground force battlegroup as part of the Alliance’s Enhanced Forward Presence initiative; NATO has provided air protection for Estonia since 2004 through its Air Policing mission; NATO member countries that possess air combat capabilities voluntarily contribute to the mission on 4-month rotations; NATO fighter aircraft have been hosted at Estonia’s Ämari Air Base since 2014 (2022)<br>
@@ -714,7 +714,7 @@ Estonia became a member of NATO in 2004<br><br>since 2017, Estonia has hosted a 
 <p>Russia and Estonia in May 2005 signed a technical border agreement, but Russia in June 2005 recalled its signature after the Estonian parliament added to its domestic ratification act a historical preamble referencing the Soviet occupation and Estonia's pre-war borders under the 1920 Treaty of Tartu; Russia contends that the preamble allows Estonia to make territorial claims on Russia in the future, while Estonian officials deny that the preamble has any legal impact on the treaty text; Russia demands better treatment of the Russian-speaking population in Estonia; as a member state that forms part of the EU's external border, Estonia implements strict Schengen border rules with Russia</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 58,225 (Ukraine) (as of 30 September 2022)<br>
+_refugees (country of origin)_: 60,002 (Ukraine) (as of 10 October 2022)<br>
 _stateless persons_: 71,873 (mid-year 2021); note - following independence in 1991, automatic citizenship was restricted to those who were Estonian citizens prior to the 1940 Soviet occupation and their descendants; thousands of ethnic Russians remained stateless when forced to choose between passing Estonian language and citizenship tests or applying for Russian citizenship; one reason for demurring on Estonian citizenship was to retain the right of visa-free travel to Russia; stateless residents can vote in local elections but not general elections; stateless parents who have been lawful residents of Estonia for at least five years can apply for citizenship for their children before they turn 15 years old<br>
 
 **Illicit drugs**<br>

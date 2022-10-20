@@ -187,7 +187,7 @@ _unimproved: rural_: rural: 20.7% of population<br>
 _unimproved: total_: total: 12.7% of population (2020 est.)<br>
 
 **Current health expenditure**<br>
-4.1% (2019)<br>
+4.1% of GDP (2019)<br>
 
 **Physicians density**<br>
 0.09 physicians/1,000 population (2019)<br>
@@ -748,7 +748,7 @@ Jama&rsquo;at Nusrat al-Islam wal-Muslimin (JNIM)<br>
 <p><em>Senegal-Guinea-Bissau</em>: rebels from the Movement of Democratic Forces in the Casamance find refuge in Guinea-Bissau</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 11,517 (Mauritania) (2022)<br>
+_refugees (country of origin)_: 11,489 (Mauritania) (2022)<br>
 _IDPs_: 8,400 (2021)<br>
 
 **Trafficking in persons**<br>

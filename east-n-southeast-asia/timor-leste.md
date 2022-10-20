@@ -177,7 +177,7 @@ _unimproved: rural_: rural: 17.5% of population<br>
 _unimproved: total_: total: 12.6% of population (2020 est.)<br>
 
 **Current health expenditure**<br>
-7.2% (2019)<br>
+7.2% of GDP (2019)<br>
 
 **Physicians density**<br>
 0.76 physicians/1,000 population (2020)<br>
@@ -677,7 +677,7 @@ approximately 2,000 personnel (2022)<br>
 the military is lightly armed and has a limited inventory consisting of equipment donated by other countries; since 2010 it has received naval patrol craft from China and South Korea (2022)<br>
 
 **Military service age and obligation**<br>
-18 years of age for voluntary military service; 18-month service obligation (2021)<br>
+18 years of age for voluntary military service; compulsory service was&nbsp; authorized in 2020 for men and women aged 18-30 for 18 months of service, but the level of implementation is unclear&nbsp; (2021)<br>
 
 **Military - note**<br>
 since achieving independence, Timor-Leste has received security assistance from or has made defense cooperation arrangements with Australia, China, Indonesia, Malaysia, New Zealand, the Philippines, Portugal, the UN, and the US; some F-FDTL personnel train with the Indonesian military and the two countries maintain a joint Border Security Task Force to jointly monitor and patrol the border, particularly the Oecussi exclave area where smuggling and trafficking are prevalent (2022)<br>

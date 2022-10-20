@@ -188,7 +188,7 @@ _unimproved: rural_: rural: 43.6% of population<br>
 _unimproved: total_: total: 15.8% of population (2020 est.)<br>
 
 **Current health expenditure**<br>
-2.1% (2019)<br>
+2.1% of GDP (2019)<br>
 
 **Physicians density**<br>
 0.1 physicians/1,000 population (2018)<br>
@@ -636,7 +636,7 @@ _subscriptions per 100 inhabitants_: 89 (2020 est.)<br>
 _general assessment_: suffering from economic challenges of stimulating recovery and reducing poverty; primary network consists of microwave radio relay and coaxial cable with services barely adequate for government use; key exchanges are in Brazzaville, Pointe-Noire, and Loubomo; intercity lines frequently out of order; youth are seeking the Internet more than their parents and often gain access through cyber cafes; only the most affluent have Internet access in their homes; operator has plans to upgrade national broadband through fiber link to WACS landing station at Pointe-Noire with connections to Angola and DRC; fiber network project with aims to connect north and south regions; DRC operator added fiber link between Brazzaville and Kinshasa (2020)<br>
 _domestic_: fixed-line infrastructure inadequate, providing less than 1 fixed-line connection per 100 persons; mobile-cellular subscribership has surged to nearly 99 per 100 persons (2019)<br>
 _international_: country code - 242; WACS submarine cables to Europe and Western and South Africa; satellite earth station - 1 Intelsat (Atlantic Ocean) (2019)<br>
-<strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress towards 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>
+<strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress toward 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>
 
 **Broadcast media**<br>
 1 state-owned TV and 3 state-owned radio stations; several privately owned TV and radio stations; satellite TV service is available; rebroadcasts of several international broadcasters are available<br>

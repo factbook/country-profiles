@@ -182,7 +182,7 @@ _unimproved: rural_: rural: 0% of population<br>
 _unimproved: total_: total: 0% of population (2020 est.)<br>
 
 **Current health expenditure**<br>
-10.1% (2019)<br>
+10.1% of GDP (2019)<br>
 
 **Physicians density**<br>
 4.08 physicians/1,000 population (2020)<br>
@@ -699,11 +699,11 @@ Netherlands (Dutch) Armed Forces (Nederlandse Krijgsmacht): Royal Netherlands A
 <strong>note:</strong> the Netherlands Coast Guard and the Dutch Caribbean Coast Guard are civilian in nature but managed by the Royal Netherlands Navy<br>
 
 **Military expenditures**<br>
-1.5% of GDP (2021 est.)<br>
+1.7% of GDP (2022 est.)<br>
+1.5% of GDP (2021)<br>
 1.4% of GDP (2020)<br>
 1.3% of GDP (2019) (approximately $13.6 billion)<br>
 1.2% of GDP (2018) (approximately $12.3 billion)<br>
-1.2% of GDP (2017) (approximately $11.3 billion)<br>
 
 **Military and security service personnel strengths**<br>
 approximately 40,000 active duty personnel (20,000 Army; 7,500 Navy; 6,500 Air Force; 6,000 Constabulary) (2022)<br>

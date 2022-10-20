@@ -181,7 +181,7 @@ _unimproved: rural_: rural: 1.2% of population<br>
 _unimproved: total_: total: 0.6% of population (2020 est.)<br>
 
 **Current health expenditure**<br>
-6.2% (2019)<br>
+6.2% of GDP (2019)<br>
 
 **Physicians density**<br>
 1.72 physicians/1,000 population (2018)<br>
@@ -299,7 +299,7 @@ _industrial_: 191 million cubic meters (2017 est.)<br>
 _agricultural_: 6.671 billion cubic meters (2017 est.)<br>
 
 **Total renewable water resources**<br>
-11.667 billion cubic meters (2017 est.)<br>
+11.67 billion cubic meters (2017 est.)<br>
 
 ## Government
 
@@ -616,7 +616,7 @@ _subscriptions per 100 inhabitants_: 104 (2020 est.)<br>
 _general assessment_: Algeria has a steadily developing telecom infrastructure with growth encouraged by supportive regulatory measures and by government policies aimed at delivering serviceable internet connections across the country; mobile broadband is largely based on 3G and LTE, and the data rates are also low in global terms; LTE is available in all provinces, investment is required from the MNOs to improve the quality of service; the state has previously been hesitant to commit to 5G, instead encouraging the MNOs to undertake upgrades to LTE infrastructure before investing in commercial 5G services; in March 2022, the state is in the process of freeing up the requisite spectrum to enable the MNOs to launch 5G services sometime this year; fixed internet speeds remain slow, and the country ranks poorly in international tables; the government has pressed Alg&eacute;rie T&eacute;l&eacute;com in early 2021 to increase the minimum rate available from 4Mb/s to 10Mb/s. (2022)<br>
 _domestic_: a limited network of fixed-lines with a teledensity of slightly less than 11 telephones per 100 persons has been offset by the rapid increase in mobile-cellular subscribership; mobile-cellular teledensity was approximately 104 telephones per 100 persons in 2020 (2020)<br>
 _international_: country code - 213;&nbsp;ALPAL-2 is a submarine telecommunications cable system in the Mediterranean Sea linking Algeria and the Spanish Balearic island of Majorca;&nbsp;ORVAL is a submarine cable to Spain; landing points for the TE North/TGN-Eurasia/SEACOM/SeaMeWe-4 fiber-optic submarine cable system that provides links to Europe, the Middle East, and Asia; MED cable connecting Algeria with France;&nbsp;microwave radio relay to Italy, France, Spain, Morocco, and Tunisia;&nbsp;Algeria part of the 4,500 Km terrestrial Trans Sahara Backbone network which connects to other fiber networks in the region; Alcomstat-1 satellite offering&nbsp; telemedicine network (2020)<br>
-<strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress towards 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>
+<strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress toward 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>
 
 **Broadcast media**<br>
 state-run Radio-Television Algerienne operates the broadcast media and carries programming in Arabic, Berber dialects, and French; use of satellite dishes is widespread, providing easy access to European and Arab satellite stations; state-run radio operates several national networks and roughly 40 regional radio stations<br>

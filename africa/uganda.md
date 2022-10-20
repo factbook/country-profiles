@@ -184,7 +184,7 @@ _unimproved: rural_: rural: 20% of population<br>
 _unimproved: total_: total: 16.9% of population (2020 est.)<br>
 
 **Current health expenditure**<br>
-3.8% (2019)<br>
+3.8% of GDP (2019)<br>
 
 **Physicians density**<br>
 0.15 physicians/1,000 population (2020)<br>
@@ -389,13 +389,13 @@ _judge selection and term of office_: justices appointed by the president of the
 _subordinate courts_: Court of Appeal (also acts as the Constitutional Court); High Court (includes 12 High Court Circuits and 8 High Court Divisions); Industrial Court; Chief Magistrate Grade One and Grade Two Courts throughout the country; qadhis courts; local council courts; family and children courts<br>
 
 **Political parties and leaders**<br>
-Activist Party [Stephen BAMPIGGA]<br>Alliance for National Transformation or ANT [Alice ALASO, acting national coordinator]<br>Conservative Party [Walyemera Daniel MASUMBA]<br>Democratic Party or DP [Norbert MAO]<br>Forum for Democratic Change or FDC [Patrick Oboi AMURIAT]<br>Justice Forum or JEEMA [Asuman BASALIRWA]<br>National Resistance Movement or NRM [Yoweri MUSEVENI]<br>National Unity Platform [Nkonge KIBALAMA]<br>Uganda People's Congress or UPC [James AKENA]<br>
+Democratic Party or DP [Norbert MAO]<br>Forum for Democratic Change or FDC [Patrick Oboi AMURIAT]<br>Justice Forum or JEEMA [Asuman BASALIRWA]<br>National Resistance Movement or NRM [Yoweri MUSEVENI]<br>National Unity Platform [Robert Kyagulanyi SSENTAMU, known as Bobi WINE]<br>People's Progressive Party or PPP [Jaberi Bidandi SSALI]<br>Uganda People's Congress or UPC [James AKENA]<br><br><strong>note: </strong>only parties with seats in Parliament listed<br>
 
 **International organization participation**<br>
 ACP, AfDB, ATMIS, AU, C, COMESA, EAC, EADB, FAO, G-77, IAEA, IBRD, ICAO, ICC (national committees), ICCt, IDA, IDB, IFAD, IFC, IFRCS, IGAD, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ISO (correspondent), ITSO, ITU, ITUC (NGOs), MIGA, NAM, OIC, OPCW, PCA, UN, UNCTAD, UNESCO, UNHCR, UNIDO, UNISFA, UNOCI, UNSOM, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
 
 **Diplomatic representation in the US**<br>
-_chief of mission_: Ambassador Mull Ssebujja KATENDE (since 8 September 2017)<br>
+_chief of mission_: Ambassador (vacant); Charge d'Affaires Santa Mary Laker KINYERA (since 20 May 2022)<br>
 _chancery_: 5911 16th Street NW, Washington, DC 20011<br>
 _telephone_: [1] (202) 726-7100<br>
 _FAX_: [1] (202) 726-1727<br>
@@ -723,7 +723,7 @@ approximately 50,000 troops, including about 1,000-1,500 air and marine personne
 the UPDF's inventory is mostly older Russian/Soviet-era equipment with a limited mix of more modern Russian- and Western-origin arms; since 2010, Russia has been the leading supplier of arms to the UPDF (2021)<br>
 
 **Military service age and obligation**<br>
-18-25 years of age for voluntary military duty for men and women; 9-year service obligation (2021)<br>
+18-25 years of age for voluntary military duty for men and women; 18-30 for those with degrees/diplomas in specialized fields such as medicine, engineering, chemistry, and education, or possess qualifications in some vocational skills; 9-year service obligation (2022)<br>
 
 **Military deployments**<br>
 6,800 Somalia (6,200 ATMIS; 625 UNSOM); 250 Equatorial Guinea (training mission) (2022)<br>
@@ -743,7 +743,7 @@ al-Shabaab; Islamic State of Iraq and ash-Sham - Democratic Republic of Congo (I
 <p>Uganda is subject to armed fighting among hostile ethnic groups, rebels, armed gangs, militias, and various government forces that extend across its borders<br><br><em>Uganda-Kenya:</em> Kenya and Uganda have begun a joint demarcation of the boundary in 2021; Uganda and Kenya both claim Migingo Island, a tiny island in the middle of Lake Victoria, which offers good fishing<br><br><em>Uganda-Rwanda:</em> a joint technical committee established in 2007 to demarcate sections of the border<br><br><em>Uganda-Democratic Republic of Congo(DROC):</em> Uganda rejects the DROC claim to Margherita Peak in the Rwenzori mountains and considers it a boundary divide; there is tension and violence on Lake Albert over prospective oil reserves at the mouth of the Semliki River; Rukwanzi Island in Lake Albert is claimed by both countries<br><br><em>Uganda-South Sudan:</em> Government of South Sudan protests Lord's Resistance Army operations in western Equatorial State, displacing and driving out local populations and stealing grain stores<br><br><em>Uganda-Sudan</em>: none identified</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 911,255 (South Sudan) (refugees and asylum seekers), 452,891 (Democratic Republic of the Congo), 61,853 (Somalia) (refugees and asylum seekers), 40,167 (Burundi), 26,668 (Rwanda), 22,223 (Eritrea), 5,322 (Ethiopia) (2022)<br>
+_refugees (country of origin)_: 898,299 (South Sudan) (refugees and asylum seekers), 452,891 (Democratic Republic of the Congo), 61,694 (Somalia) (refugees and asylum seekers), 40,134 (Burundi), 26,821 (Eritrea), 22,290 (Rwanda), 5,316 (Ethiopia) (2022)<br>
 
 **Trafficking in persons**<br>
 _current situation_: human traffickers exploit domestic and foreign victims in Uganda, and traffickers exploit victims from Uganda abroad; young Ugandan children are exploited in forced labor in agriculture, fishing, forestry, cattle herding, mining, stone quarrying, brick making, carpentry, steel manufacturing, street vending, bars, restaurants, gold mining, and domestic service; traffickers exploit girls and boys in commercial sex; most are children from the northeastern region and are exploited in forced begging, commercial sex in brothels, or sold in markets; traffickers compel&nbsp; children from the Democratic Republic of Congo, Rwanda, Burundi, Kenya, Tanzania, and South Sudan into forced agricultural labor and sex trafficking in Uganda; young women most at risk for transnational trafficking seek employment as domestic workers in the Middle East and then are exploited in sex trafficking; traffickers subject Ugandans to forced labor and sex trafficking in UAE, Saudi Arabia, Oman, Qatar, Kuwait, Iraq, Iran, Egypt, Turkey, Algeria, Malaysia, Thailand, Bahrain, Jordan, China, Kenya, and India; traffickers are often relatives, friends of victims, or religious leaders who receive a fee per worker from recruiters<br>

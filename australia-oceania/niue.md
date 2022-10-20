@@ -152,7 +152,7 @@ _unimproved: rural_: rural: NA<br>
 _unimproved: total_: total: 3% of population (2020 est.)<br>
 
 **Current health expenditure**<br>
-5.3% (2019)<br>
+5.3% of GDP (2019)<br>
 
 **Physicians density**<br>
 NA<br>

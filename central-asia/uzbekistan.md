@@ -181,7 +181,7 @@ _unimproved: rural_: rural: 3.9% of population<br>
 _unimproved: total_: total: 2.2% of population (2020 est.)<br>
 
 **Current health expenditure**<br>
-5.6% (2019)<br>
+5.6% of GDP (2019)<br>
 
 **Physicians density**<br>
 2.37 physicians/1,000 population (2014)<br>
@@ -360,7 +360,7 @@ _judge selection and term of office_: judges of the highest courts nominated by 
 _subordinate courts_: regional, district, city, and town courts<br>
 
 **Political parties and leaders**<br>
-Ecological Party of Uzbekistan (O'zbekiston Ekologik Partivasi) [Narzullo OBLOMURODOV]<br>Justice (Adolat) Social Democratic Party of Uzbekistan [Bahrom ABDUHALIMOV]<br>Liberal Democratic Party of Uzbekistan (O'zbekiston Liberal-Demokratik Partiyasi) or LDPU [Aktam HAITOV]<br>National Revival Democratic Party of Uzbekistan (O'zbekiston Milliy Tiklanish Demokratik Partiyasi) [Alisher QODIROV]<br>People's Democratic Party of Uzbekistan (Xalq Demokratik Partiyas) or PDP [Ulugbek Ilyosovich INOYATOV] (formerly Communist Party)<br>
+Ecological Party of Uzbekistan (O'zbekiston Ekologik Partivasi) [Narzullo OBLOMURODOV]<br>Justice (Adolat) Social Democratic Party of Uzbekistan [Bahrom ABDUKHALIMOV]<br>Liberal Democratic Party of Uzbekistan (O'zbekiston Liberal-Demokratik Partiyasi) or LDPU [Aktam HAITOV]<br>National Revival Democratic Party of Uzbekistan (O'zbekiston Milliy Tiklanish Demokratik Partiyasi) [Alisher QODIROV]<br>People's Democratic Party of Uzbekistan (Xalq Demokratik Partiyas) or PDP [Ulugbek Ilyosovich INOYATOV] (formerly Communist Party)<br>
 
 **International organization participation**<br>
 ADB, CICA, CIS, EAEU (observer), EAPC, EBRD, ECO, EEU (observer), FAO, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IDB, IFAD, IFC, IFRCS, ILO, IMF, Interpol, IOC, ISO, ITSO, ITU, MIGA, NAM, OIC, OPCW, OSCE, PFP, SCO, UN, UNCTAD, UNESCO, UNHRC, UNIDO, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO (observer)<br>

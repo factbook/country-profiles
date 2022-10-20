@@ -173,7 +173,7 @@ _unimproved: rural_: rural: NA<br>
 _unimproved: total_: total: 0% of population (2020 est.)<br>
 
 **Current health expenditure**<br>
-4% (2019)<br>
+4% of GDP (2019)<br>
 
 **Physicians density**<br>
 0.93 physicians/1,000 population (2015)<br>
@@ -603,7 +603,7 @@ _subscriptions per 100 inhabitants_: 103 (2020 est.)<br>
 _general assessment_: Bahrain continues to develop its telecoms sector in a bid to develop its long-term Economic Vision 2030 strategy; this is a multi-faceted strategy aimed at developing a digital transformation across numerous sectors, including e-government, e-health, e-commerce, and e-banking; the major telcos including Batelco, STC Bahrain, and Zain Bahrain have been supported by the government and regulator to develop services and network infrastructure to facilitate implementing the strategy; 5G services have become widely available since they were launched in 2020; the national broadband network operator BNET was also financially separated from Batelco in mid-2021, in a bid to improve its responsibilities as a neutral wholesale access provider; Bahrain&rsquo;s telecom sector by the Fourth National Telecommunications Plan (initiated in 2016) which focuses on fiber optic infrastructure deployment and establishing affordable prices for high-speed access. (2022)<br>
 _domestic_: approximately 16 per 100 fixed-line and 103 per 100 mobile-cellular; modern fiber-optic integrated services; digital network with rapidly expanding mobile-cellular telephones (2020)<br>
 _international_: country code - 973; landing points for the&nbsp;FALCON, Tata TGN-Gulf, GBICS/MENA, and FOG&nbsp;submarine cable network that provides links to Asia, the Middle East, and Africa; tropospheric scatter to Qatar and UAE; microwave radio relay to Saudi Arabia; satellite earth station - 1 (2019)<br>
-<strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress towards 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>
+<strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress toward 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>
 
 **Broadcast media**<br>
 state-run Bahrain Radio and Television Corporation (BRTC) operates 5 terrestrial TV networks and several radio stations; satellite TV systems provide access to international broadcasts; 1 private FM station directs broadcasts to Indian listeners; radio and TV broadcasts from countries in the region are available (2019)<br>

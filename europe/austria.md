@@ -184,7 +184,7 @@ _unimproved: rural_: rural: 0% of population<br>
 _unimproved: total_: total: 0% of population (2020 est.)<br>
 
 **Current health expenditure**<br>
-10.4% (2019)<br>
+10.4% of GDP (2019)<br>
 
 **Physicians density**<br>
 5.29 physicians/1,000 population (2020)<br>
@@ -621,10 +621,10 @@ _total subscriptions_: 10,717,445 (2020 est.)<br>
 _subscriptions per 100 inhabitants_: 119 (2020 est.)<br>
 
 **Telecommunication systems**<br>
-_general assessment_: mature telecom market, dominated by Telekom Austria, Magenta Telekom (formed from the merger of T-Mobile Austria and the cableco UPC Austria), and 3 Austria; the mobile market benefits from a growing number of mobile virtual network operators; the telcos as well as the government and regulator have been focused on delivering improved telecom infrastructure; the government has a program to provide a national gigabit service by 2030, delivered by private enterprise though with some state funding; this is based on fiber networks supported by 5G, with the Mobile Network Operators able to expand the reach of their 5G services following auctions held in March 2019 and September 2020; the fixed-line broadband market is still dominated by the DSL sector, while the cable broadband sector has held a steady share of connections in recent years; the fiber sector was slow to develop, and although fiber remains low there are plans to build out the network infrastructure; by February 2021, A1 Telekom&rsquo;s fibre network reached more than 2.3 million premises; Magenta Telekom continues to invest in DOCSIS3.1 technology, and by mid-2021 about a third of premises (some 1.4 million) nationally could access the company&rsquo;s gigabit service. (2021)<br>
+_general assessment_: mature telecom market, dominated by Telekom Austria, Magenta Telekom (formed from the merger of T-Mobile Austria and the cableco UPC Austria), and 3 Austria; the mobile market benefits from a growing number of Mobile Virtual Network Operators; the telcos as well as the government and regulator have been focused on delivering improved telecom infrastructure; the government has a program to provide a national gigabit service by 2030, delivered by private enterprise though with some state funding; this is based on fiber networks supported by 5G, with the Mobile Network Operators able to expand the reach of their 5G services following auctions held in March 2019 and September 2020; the fixed-line broadband market is still dominated by the DSL sector, while the cable broadband sector has held a steady share of connections in recent years; the fiber sector was slow to develop, and although fiber remains low there are plans to build out the network infrastructure; by February 2021, A1 Telekom&rsquo;s fibre network reached more than 2.3 million premises; Magenta Telekom continues to invest in DOCSIS3.1 technology, and by mid-2021 about a third of premises (some 1.4 million) nationally could access the company&rsquo;s gigabit service. (2021)<br>
 _domestic_: developed and efficient; 42 per 100 fixed-line for households, 174 per 100 for companies; roughly 119 per 100 mobile-cellular; broadband: 138 per 100 on smartphones; roughly 29 per 100 fixed broadband and 107 per 100 mobile broadband (2020)<br>
 _international_: country code - 43; earth stations available in the Astra, Intelsat, Eutelsat satellite systems (2019)<br>
-<strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress towards 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>
+<strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress toward 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>
 
 **Broadcast media**<br>
 worldwide cable and satellite TV are available; the public incumbent ORF competes with three other major, several regional domestic, and up to 400 international TV stations; TV coverage is in principle 100%, but only 90% use broadcast media; Internet streaming not only complements, but increasingly replaces regular TV stations (2019)<br>
@@ -735,7 +735,7 @@ Islamic State of Iraq and ash-Sham (ISIS)<br>
 <p>none identified</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 57,887 (Syria), 41,037 (Afghanistan), 9,661 (Iraq), 8,212 (Somalia), 7,046 (Iran), 7,003 (Russia) (mid-year 2021); 83,081 (Ukraine) (as of 4 October 2022)<br>
+_refugees (country of origin)_: 57,887 (Syria), 41,037 (Afghanistan), 9,661 (Iraq), 8,212 (Somalia), 7,046 (Iran), 7,003 (Russia) (mid-year 2021); 83,684 (Ukraine) (as of 10 October 2022)<br>
 _stateless persons_: 3,229 (mid-year 2021)<br>
 
 **Illicit drugs**<br>

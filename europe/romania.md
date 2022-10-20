@@ -182,7 +182,7 @@ _unimproved: rural_: rural: 0% of population<br>
 _unimproved: total_: total: 0% of population (2020 est.)<br>
 
 **Current health expenditure**<br>
-5.7% (2019)<br>
+5.7% of GDP (2019)<br>
 
 **Physicians density**<br>
 2.98 physicians/1,000 population (2017)<br>
@@ -699,11 +699,11 @@ _river port(s)_: Braila, Galati (Galatz), Mancanului (Giurgiu), Tulcea (Danube R
 Romanian Armed Forces: Land Forces, Naval Forces, Air Force; Ministry of Internal Affairs: Romanian Gendarmerie, Romanian Police, Romanian Border Police (2022)<br>
 
 **Military expenditures**<br>
-2% of GDP (2021 est.)<br>
+2% of GDP (2022 est.)<br>
+2% of GDP (2021)<br>
 2% of GDP (2020)<br>
 1.8% of GDP (2019) (approximately $7.47 billion)<br>
 1.8% of GDP (2018) (approximately $6.9 billion)<br>
-1.7% of GDP (2017) (approximately $6.2 billion)<br>
 
 **Military and security service personnel strengths**<br>
 approximately 75,000 active duty personnel (58,000 Land Forces; 7,000 Naval Forces; 10,000 Air Force) (2022)<br>
@@ -732,7 +732,7 @@ Islamic State of Iraq and ash-Sham (ISIS)<br>
 <p><em>Romania-Bulgaria</em>: none identified</p> <p><em>Romania-Hungary</em>: none identified</p> <p><em>Romania-Moldova</em>: none identified</p> <p><em>Romania-Serbia</em>: none identified</p> <p><em>Romania-Ukraine</em>: the International Court of Justice ruled largely in favor of Romania in its dispute submitted in 2004 over Ukrainian-administered Zmiyinyy/Serpilor (Snake) Island and Black Sea maritime boundary delimitation; in 2007, Romania opposed Ukraine's construction of a navigation canal from the Danube border through Ukraine to the Black Sea, arguing that it runs through a unique ecological area, the Danube Delta</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 80,498 (Ukraine) (as of 18 September 2022)<br>
+_refugees (country of origin)_: 82,127 (Ukraine) (as of 9 October 2022)<br>
 _stateless persons_: 314 (mid-year 2021)<br>
 <strong>note:</strong> 11,467 estimated refugee and migrant arrivals (January 2015-September 2022)<br>
 

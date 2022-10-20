@@ -176,7 +176,7 @@ _unimproved: rural_: rural: 5.7% of population<br>
 _unimproved: total_: total: 2.7% of population (2020 est.)<br>
 
 **Current health expenditure**<br>
-6.7% (2019)<br>
+6.7% of GDP (2019)<br>
 
 **Physicians density**<br>
 5.11 physicians/1,000 population (2020)<br>
@@ -611,7 +611,7 @@ _subscriptions per 100 inhabitants_: 128 (2020 est.)<br>
 _general assessment_: the telecom sector has been attempting for many years to overcome the decades of under-investment in its fixed-line infrastructure during the Soviet era; concerted efforts to privatize state-owned enterprises and open up the telecom market have been mostly successful, with a large number of networks now competing in both the fixed-line and the mobile segments; more needs to be done, however, to give investors the confidence to enter a market that has barely moved in terms of revenue growth over the last decade, and where regulatory overreach has sometimes come perilously close to arresting further development; Georgia&rsquo;s government moved fast following the collapse of the Soviet Union to liberalize the country&rsquo;s telecom market; this resulted in a relatively high number of networks competing in the under-developed fixed-line segment as well as in the emerging mobile market; both segments remain dominated by just a few companies, with SilkNet and MagtiCom holding the lion&rsquo;s share. (2022)<br>
 _domestic_: fixed-line subscriptions over 9 per 100, cellular telephone networks cover the entire country; mobile-cellular teledensity roughly 128 per 100 persons; intercity facilities include a fiber-optic line between T'bilisi and K'ut'aisi; the mobile and mobile broadband segments have both demonstrated solid growth in 2021, (2020)<br>
 _international_: country code - 995; landing points for the Georgia-Russia, Diamond Link Global, and Caucasus Cable System fiber-optic submarine cable that provides connectivity to Russia, Romania and Bulgaria; international service is available by microwave, landline, and satellite through the Moscow switch; international electronic mail and telex service are available (2019)<br>
-<strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress towards 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>
+<strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress toward 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>
 
 **Broadcast media**<br>
 The Tbilisi-based Georgian Public Broadcaster (GPB) includes Channel 1, Channel 2, and the Batumi-based Adjara TV, and the State Budget funds all three; there are also a number of independent commercial television broadcasters, such as Imedi, Rustavi 2, Pirveli TV, Maestro, Kavkasia, Georgian Dream Studios (GDS), Obiektivi, Mtavari Arkhi, and a small Russian language operator TOK TV; Tabula and Post TV are web-based television outlets; all of these broadcasters and web-based television outlets, except GDS, carry the news; the Georgian Orthodox Church also operates a satellite-based television station called Unanimity; there are 26 regional television broadcasters across Georgia that are members of the Georgian Association of Regional Broadcasters and/or the Alliance of Georgian Broadcasters; the broadcaster organizations seek to strengthen the regional media's capacities and distribution of regional products: a nationwide digital switchover occurred in 2015; there are several dozen private radio stations; GPB operates 2 radio stations (2019)<br>
@@ -708,7 +708,7 @@ as of 2022, up to 10,000 Russian troops continued to occupy the breakaway region
 <p>Russia's military support and subsequent recognition of Abkhazia and South Ossetia independence in 2008 continue to sour relations with Georgia</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 26,031 (Ukraine) (as of 13 September 2022)<br>
+_refugees (country of origin)_: 26,793 (Ukraine) (as of 11 October 2022)<br>
 _IDPs_: 305,000 (displaced in the 1990s as a result of armed conflict in the breakaway republics of Abkhazia and South Ossetia; displaced in 2008 by fighting between Georgia and Russia over South Ossetia) (2021)<br>
 _stateless persons_: 534 (mid-year 2021)<br>
 

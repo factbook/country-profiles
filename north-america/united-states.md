@@ -195,7 +195,7 @@ _unimproved: rural_: rural: 0.3% of population<br>
 _unimproved: total_: total: 0.1% of population (2020 est.)<br>
 
 **Current health expenditure**<br>
-16.8% (2019)<br>
+16.8% of GDP (2019)<br>
 
 **Physicians density**<br>
 2.61 physicians/1,000 population (2018)<br>
@@ -389,7 +389,7 @@ _subordinate courts_: Courts of Appeal (includes the US Court of Appeal for the 
 <strong>note:</strong> the US court system consists of the federal court system and the state court systems; although each court system is responsible for hearing certain types of cases, neither is completely independent of the other, and the systems often interact<br>
 
 **Political parties and leaders**<br>
-Democratic Party [Jaime HARRISON]<br>Green Party [collective leadership]<br>Libertarian Party [Nicholas SARWARK]<br>Republican Party [Ronna Romney MCDANIEL]<br>
+Democratic Party [Jaime HARRISON]<br>Green Party [collective leadership]<br>Libertarian Party [Angela McARDLE]<br>Republican Party [Ronna Romney MCDANIEL]<br>
 
 **International organization participation**<br>
 ADB (nonregional member), AfDB (nonregional member), ANZUS, APEC, Arctic Council, ARF, ASEAN (dialogue partner), Australia Group, BIS, BSEC (observer), CBSS (observer), CD, CE (observer), CERN (observer), CICA (observer), CP, EAPC, EAS, EBRD, EITI (implementing country), FAO, FATF, G-5, G-7, G-8, G-10, G-20, IADB, IAEA, IBRD, ICAO, ICC (national committees), ICRM, IDA, IEA, IFAD, IFC, IFRCS, IGAD (partners), IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, ISO, ITSO, ITU, ITUC (NGOs), MIGA, MINUSMA, MINUSTAH, MONUSCO, NAFTA, NATO, NEA, NSG, OAS, OECD, OPCW, OSCE, Pacific Alliance (observer), Paris Club, PCA, PIF (partner), Quad, SAARC (observer), SELEC (observer), SICA (observer), SPC, UN, UNCTAD, UNESCO, UNHCR, UNHRC, UNITAR, UNMIL, UNMISS, UNRWA, UN Security Council (permanent), UNTSO, UPU, USMCA, Wassenaar Arrangement, WCO, WHO, WIPO, WMO, WTO, ZC<br>
@@ -721,15 +721,15 @@ _cruise departure ports (passengers)_: Miami, Port Everglades, Port Canaveral, S
 ## Military and Security
 
 **Military and security forces**<br>
-United States Armed Forces (aka US Military): US Army (USA), US Navy (USN; includes Marine Corps), US Air Force (USAF), US Space Force (USSF); US Coast Guard (USCG; administered in peacetime by the Department of Homeland Security, but in wartime reports to the Department of the Navy); National Guard (Army National Guard and Air National Guard) (2022)<br>
-<strong>note:</strong> the Army National Guard and the Air National Guard are reserve components of their services and operate in part under state authority; the US military also maintains reserve forces for each branch (US Army Reserve, US Navy Reserve, US Air Force Reserve, and US Coast Guard Reserve)<br>
+United States Armed Forces (aka US Military): US Army (USA), US Navy (USN; includes US Marine Corps or USMC), US Air Force (USAF), US Space Force (USSF); US Coast Guard (USCG); National Guard (Army National Guard and Air National Guard) (2022)<br>
+<strong>note 1: </strong>the US Coast Guard is administered in peacetime by the Department of Homeland Security, but in wartime reports to the Department of the Navy<br><strong><br>note 2:</strong> the Army National Guard and the Air National Guard are reserve components of their services and operate in part under state authority; the US military also maintains reserve forces for each branch (US Army Reserve, US Navy Reserve, US Air Force Reserve, and US Coast Guard Reserve)<br>
 
 **Military expenditures**<br>
-3.6% of GDP (2021 est.)<br>
+3.5% of GDP (2022 est.)<br>
+3.6% of GDP (2021)<br>
 3.7% of GDP (2020)<br>
 3.4% of GDP (2019) (approximately $730 billion)<br>
 3.3% of GDP (2018) (approximately $685 billion)<br>
-3.3% of GDP (2017) (approximately $671 billion)<br>
 
 **Military and security service personnel strengths**<br>
 approximately 1.39 million active duty personnel (475,000 Army; 345,000 Navy; 335,000 Air Force (includes about 8,000 Space Force); 180,000 Marine Corps; 40,000 Coast Guard); 335,000 Army National Guard; 105,000 Air National Guard (2022)<br>
@@ -738,7 +738,7 @@ approximately 1.39 million active duty personnel (475,000 Army; 345,000 Navy; 33
 the US military's inventory is comprised almost entirely of domestically-produced weapons systems (some assembled with foreign components) along with a smaller mix of imported equipment from a variety of Western countries; since 2010, Germany and the UK have been the leading suppliers of military hardware; the US defense industry is capable of designing, developing, maintaining, and producing the full spectrum of weapons systems; the US is the world's leading arms exporter (2021)<br>
 
 **Military service age and obligation**<br>
-18 years of age (17 years of age with parental consent) for voluntary service for men and women; no conscription (currently inactive, but males aged 18-25 must register with Selective Service in case conscription is reinstated in the future); maximum enlistment age 34 (Army), 39 (Air Force), 39 (Navy), 28 (Marines), 31 (Coast Guard); 8-year service obligation, including 2-5 years active duty (Army), 2 years active duty (Navy), 4 years active duty (Air Force, Marines, Coast Guard); all military occupations and positions open to women (2021)<br>
+18 years of age (17 years of age with parental consent) for voluntary service for men and women; no conscription (currently inactive, but males aged 18-25 must register with Selective Service in case conscription is reinstated in the future); maximum enlistment age 34 (Army), 39 (Air Force), 39 (Navy), 28 (Marines), 31 (Coast Guard); 8-year service obligation, including 2-5 years active duty (Army), 2 years active duty (Navy), 4 years active duty (Air Force, Marines, Coast Guard); all military occupations and positions open to women (2022)<br>
 <strong>note:</strong> in 2020, women comprised 17.2 % of the total US military (16.9% of enlisted; 18.9% officers; highest was Air Force with women comprising 21.1% of its total personnel); a small number of American women were involved in combat during the Revolutionary (1775-1783), Mexican (1846-1848), and Civil (1861-1865) Wars, but they had to disguise themselves as men and enlist under aliases; the first official US military organization for women was the US Army Nurse Corps, established in 1901; during World War I, the US Navy and Marine Corps allowed women to enlist; nearly 350,000 women served in the US military during World War II; the 1991 Gulf War was the first war where women served with men in integrated units within a war zone; in 2015, women were allowed to serve in direct combat roles<br>
 
 **Military deployments**<br>

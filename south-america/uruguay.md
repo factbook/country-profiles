@@ -186,7 +186,7 @@ _unimproved: rural_: rural: 0% of population<br>
 _unimproved: total_: total: 0% of population (2020 est.)<br>
 
 **Current health expenditure**<br>
-9.4% (2019)<br>
+9.4% of GDP (2019)<br>
 
 **Physicians density**<br>
 4.94 physicians/1,000 population (2017)<br>
@@ -370,7 +370,7 @@ _judge selection and term of office_: judges nominated by the president and appo
 _subordinate courts_: Courts of Appeal; District Courts (Juzgados Letrados); Peace Courts (Juzgados de Paz); Rural Courts (Juzgados Rurales)<br>
 
 **Political parties and leaders**<br>
-Broad Front or FA (Frente Amplio) [Fernando PEREIRA] - (a broad governing coalition that comprises 34 factions including Uruguay Assembly [Danilo ASTORI], Progressive Alliance [Rodolfo NIN NOVOA], New Space [Rafael MICHELINI], Socialist Party [Gonzalo CIVILA], Vertiente Artiguista [Enrique RUBIO], Christian Democratic Party [Jorge RODRIGUEZ], For the People’s Victory [Luis PUIG], Popular Participation Movement or MPP [Jose MUJICA], Big House [Constanza MOREIRA], Communist Party [Juan CASTILLO], The Federal League [Sergio LIER], Fuerza Renovadora [Mario BERGARA])<br>Colorado Party (including Batllistas [Julio Maria SANGUINETTI], and Ciudadanos [Adrian PENA])<br>Independent Party [Pablo MIERES]<br>National Party or Blanco (including Todos (Everyone) [Luis LACALLE POU] and National Alliance [Carlos CAMY])<br>Open Cabildo [Guido MANINI RIOS]<br>Popular Unity [Gonzalo ABELLA]<br>
+Broad Front or FA (Frente Amplio) [Fernando PEREIRA] - (a broad governing coalition that comprises 34 factions including Uruguay Assembly [Danilo ASTORI], Progressive Alliance [Rodolfo NIN NOVOA], New Space [Rafael MICHELINI], Socialist Party [Gonzalo CIVILA], Vertiente Artiguista [Enrique RUBIO], Christian Democratic Party [Jorge RODRIGUEZ], For the People’s Victory [Luis PUIG], Popular Participation Movement or MPP [Jose MUJICA], Big House [Constanza MOREIRA], Communist Party [Juan CASTILLO], The Federal League [Sergio LIER], Fuerza Renovadora [Mario BERGARA])<br>Colorado Party (including Batllistas [Julio Maria SANGUINETTI] and Ciudadanos [Adrian PENA])<br>Independent Party [Pablo MIERES]<br>National Party or Blanco (including Todos (Everyone) [Luis LACALLE POU] and National Alliance [Carlos CAMY])<br>Open Cabildo [Guido MANINI RIOS]<br>Popular Unity [Gonzalo ABELLA]<br>
 
 **International organization participation**<br>
 CAN (associate), CD, CELAC, FAO, G-77, IADB, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, LAES, LAIA, Mercosur, MIGA, MINUSTAH, MONUSCO, NAM (observer), OAS, OIF (observer), OPANAL, OPCW, Pacific Alliance (observer), PCA, SICA (observer), UN, UNASUR, UNCTAD, UNESCO, UNIDO, Union Latina, UNISFA, UNMOGIP, UNOCI, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>

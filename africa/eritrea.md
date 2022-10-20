@@ -176,7 +176,7 @@ _unimproved: rural_: rural: 46.7% of population<br>
 _unimproved: total_: total: 42.2% of population (2015 est.)<br>
 
 **Current health expenditure**<br>
-4.5% (2019)<br>
+4.5% of GDP (2019)<br>
 
 **Physicians density**<br>
 0.08 physicians/1,000 population (2020)<br>
@@ -587,7 +587,7 @@ _subscriptions per 100 inhabitants_: 51 (2020 est.)<br>
 _general assessment_: Eritrea&rsquo;s telecom sector operates under a state-owned monopoly for fixed and mobile services; the country has the least developed telecommunications market in Africa; mobile subscriptions stands at only about 20%, while fixed-line internet use barely registers; this is exacerbated by the very low use of computers, with only about 4% of households having a computer, and most of these being in the capital, Asmara; the provision of internet services is open to competition, about 2% of households have access to the internet; the national telco, the Eritrean Telecommunication Services Corporation (EriTel), continues to roll out a 3G network which provides basic internet access to the majority or Eritreans; considerable investment in telecom infrastructure is still required to improve the quality of services; the government has embarked on a work program aimed at extending services to remote areas, improving the quality of services, and ensuring that more telecoms infrastructure is supported by solar power to compensate for the poor state of the electricity network; additional foreign investment in telecom infrastructure, as well as introduction of more competition, would help transform what remains a virtually untapped market. (2021)<br>
 _domestic_: fixed-line subscribership is less than 2 per 100 persons and mobile-cellular is just over 20 per 100 (2019)<br>
 _international_: country code - 291 (2019)<br>
-<strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress towards 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>
+<strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress toward 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>
 
 **Broadcast media**<br>
 government controls broadcast media with private ownership prohibited; 1 state-owned TV station; state-owned radio operates 2 networks; purchases of satellite dishes and subscriptions to international broadcast media are permitted (2019)<br>

@@ -178,7 +178,7 @@ _unimproved: rural_: rural: 0% of population<br>
 _unimproved: total_: total: 0% of population (2020 est.)<br>
 
 **Current health expenditure**<br>
-10.5% (2019)<br>
+10.5% of GDP (2019)<br>
 
 **Physicians density**<br>
 5.04 physicians/1,000 population (2020)<br>
@@ -684,11 +684,11 @@ _LNG terminal(s) (import)_: Fredrikstad, Mosjoen<br>
 Norwegian Armed Forces: Norwegian Army (Haeren), Royal Norwegian Navy (Kongelige Norske Sjoeforsvaret; includes Coastal Rangers and Coast Guard (Kystvakt)), Royal Norwegian Air Force (Kongelige Norske Luftforsvaret), Norwegian Special Forces, Norwegian Cyber Defense Force, Home Guard (Heimevernet, HV) (2022)<br>
 
 **Military expenditures**<br>
-1.7% of GDP (2021 est.)<br>
+1.6% of GDP (2022 est.)<br>
+1.7% of GDP (2021)<br>
 2% of GDP (2020)<br>
 1.9% of GDP (2019) (approximately $8.66 billion)<br>
 1.7% of GDP (2018) (approximately $8.02 billion)<br>
-1.6% of GDP (2017) (approximately $7.11 billion)<br>
 
 **Military and security service personnel strengths**<br>
 approximately 23,000 active personnel (8,000 Army; 4,000 Navy; 4,000 Air Force; 7,000 other, including special operations, cyber, joint staff, intelligence, logistics support, active Home Guard, etc.); approximately 40,000 Home Guard (2022)<br>
@@ -713,6 +713,6 @@ Norway is a member of NATO and was one of the original 12 countries to sign the 
 <p><em>Norway-Antarctica</em>: Norway asserts a territorial claim in Antarctica (Queen Maud Land and its continental shelf)</p> <p><em>Norway-Russia</em>: Russia amended its 2001 CLCS submission in 2015 and 2021, each time delineating the outer limits of its continental shelf further into the Arctic Ocean; Norway and Russia signed a comprehensive maritime boundary agreement in 2010, ending a dispute over an area of the Barents Sea by dividing the territory equally</p> <p><em>Norway-Sweden</em>: none identified</p> <p> </p> <p> </p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 15,542 (Syria), 11,965 (Eritrea) (mid-year 2021); 28,492 (Ukraine) (as of 30 September 2022)<br>
+_refugees (country of origin)_: 15,542 (Syria), 11,965 (Eritrea) (mid-year 2021); 29,208 (Ukraine) (as of 11 October 2022)<br>
 _stateless persons_: 4,154 (mid-year 2021)<br>
 

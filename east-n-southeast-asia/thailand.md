@@ -94,7 +94,7 @@ _noun_: Thai (singular and plural)<br>
 _adjective_: Thai<br>
 
 **Ethnic groups**<br>
-Thai 97.5%, Burmese 1.3%, other 1.1%, unspecified &lt;.1% (2015 est.)<br>
+Thai 97.5%, Burmese 1.3%, other 1.1%, unspecified &lt;0.1% (2015 est.)<br>
 <strong>note:</strong> data represent population by nationality<br>
 
 **Languages**<br>
@@ -187,7 +187,7 @@ _unimproved: rural_: rural: 0% of population<br>
 _unimproved: total_: total: 0% of population (2020 est.)<br>
 
 **Current health expenditure**<br>
-3.8% (2019)<br>
+3.8% of GDP (2019)<br>
 
 **Physicians density**<br>
 0.95 physicians/1,000 population (2020)<br>
@@ -397,7 +397,7 @@ _email address and website_: <br>https://thaiembdc.org<br>
 _consulate(s) general_: Chicago, Los Angeles, New York<br>
 
 **Diplomatic representation from the US**<br>
-_chief of mission_: Ambassador (vacant); Charge d'Affaires Michael HEATH (since August 2019)<br>
+_chief of mission_: Ambassador Robert F. GODEC (since 7 October 2022)<br>
 _embassy_: 95 Wireless Road, Bangkok 10330<br>
 _mailing address_: 7200 Bangkok Place, Washington DC&nbsp; 20521-7200<br>
 _telephone_: [66] 2-205-4000<br>
@@ -726,14 +726,14 @@ Royal Thai Armed Forces (Kongthap Thai, RTARF): Royal Thai Army (Kongthap Bok Th
 1.4% of GDP (2017) (approximately $13.8 billion)<br>
 
 **Military and security service personnel strengths**<br>
-estimates vary widely; approximately 300,000 active duty personnel (200,000 Army; 70,000 Navy; 30,000 Air Force); estimated 20,000 Thai Rangers (2022)<br>
+estimated 300,000 active duty personnel (200,000 Army; 70,000 Navy; 30,000 Air Force); approximately 230,000 Royal Thai Police (2022)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the RTARF has a diverse array of foreign-supplied weapons systems, including a large amount of obsolescent or second-hand US equipment; since 2010, Thailand has received military equipment from nearly 20 countries, including China, South Korea, Sweden, Ukraine, and the US (2022)<br>
 
 **Military service age and obligation**<br>
-18 years of age for voluntary military service for men and women; 21 years of age for compulsory military service (men only); males register at 18 years of age; 2-year conscript service obligation varies by educational qualifications (2022)<br>
-<strong>note 1:</strong> serving in the armed forces is a national duty of all Thai citizens; conscription was introduced in 1905; it includes women, however, only men over the age of 21 who have not gone through reserve training are conscripted; conscripts are chosen by lottery (on draft day, eligible draftees can request to volunteer to serve, or they may choose to stay for the lottery); there are reductions or deferments of service obligation for those with higher educational qualifications, but most conscripts serve for 24 months; approximately 75-100,000 men are drafted for military service each year and conscripts reportedly comprise as much as 50% of the armed forces<br><br><strong>note 2:</strong> as of 2020, women comprised about 8% of active duty military personnel<br>
+18 years of age for voluntary military service for men and women; 21 years of age for compulsory military service (men only); men register at 18 years of age; 2-year conscript service obligation varies by educational qualifications (2022)<br>
+<strong>note 1:</strong> serving in the armed forces is a national duty of all Thai citizens; conscription was introduced in 1905; it includes women, however, only men over the age of 21 who have not gone through reserve training are conscripted; conscripts are chosen by lottery (on draft day, eligible draftees can request volunteer service, or they may choose to stay for the conscription lottery); there are reductions or deferments of service obligation for those with higher educational qualifications, but most conscripts serve for 24 months; approximately 75-100,000 men are drafted for military service each year and conscripts reportedly comprise as much as 50% of the armed forces<br><br><strong>note 2:</strong> as of 2020, women comprised about 8% of active duty military personnel<br>
 
 **Military deployments**<br>
 280 South Sudan (UNMISS) (May 2022)<br>

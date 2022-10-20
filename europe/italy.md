@@ -178,7 +178,7 @@ _unimproved: rural_: rural: NA<br>
 _unimproved: total_: total: 0.1% of population (2020 est.)<br>
 
 **Current health expenditure**<br>
-8.7% (2019)<br>
+8.7% of GDP (2019)<br>
 
 **Physicians density**<br>
 3.95 physicians/1,000 population (2020)<br>
@@ -623,7 +623,7 @@ _subscriptions per 100 inhabitants_: 128 (2020 est.)<br>
 _general assessment_: Italy&rsquo;s large telecom market has one of the most progressive fiber sectors in Europe, with regulatory measures encouraging network sharing; the incumbent telco continues to invest in fiber, despite its recent financial difficulties, while the Open Fiber wholesale provider now has a number of retail contracts which have greatly broadened competition in the sector; plans to merge Open Fiber with TIM&rsquo;s fixed infrastructure are ongoing; regulatory measures have also been introduced to facilitate access to NGNs, and a number of deals have been brokered which enable the main telcos to provide bundled services to large numbers of the population; Italy&rsquo;s vibrant mobile market has one of the highest subscription rates in Europe, though the number of subscribers has fallen in recent years as customers respond to attractive off-net pricing which has reduced the financial benefit of having SIM cards from different providers; the market underwent considerable changes following the merger of Wind and 3 Italia (becoming Wind Tre), which resulted in a new entrant in the form of Iliad; in mid-2019 Fastweb was recognized as an MNO in its own right, having been an MVNO for some 11 years; the company has secured frequencies in the 3.5GHz and 26GHz bands and has a ten-year deal with Wind Tre providing it with national roaming as well as a partner with which to develop a 5G network; network companies were among the first in Europe to trial services based on 5G; the high cost also encouraged the regulator in early 2021 to consider extending the licenses by an additional six years. (2021)<br>
 _domestic_: high-capacity cable and microwave radio relay trunks; 32 per 100 for fixed-line and nearly 128 per 100 for mobile-cellular subscriptions (2020)<br>
 _international_: country code - 39; landing points for&nbsp;Italy-Monaco, Italy-Libya, Italy-Malta, Italy-Greece-1, Italy-Croatia, BlueMed, Janna, FEA, SeaMeWe-3 &amp; 4 &amp; 5, Trapani-Kelibia, Columbus-III, Didon, GO-1, HANNIBAL System, MENA, Bridge International, Malta-Italy Interconnector, Melita1, IMEWE, VMSCS, AAE-1, and OTEGLOBE, submarine cables that provide links to Asia, the&nbsp;Middle East, Europe, North Africa, Southeast Asia, Australia and US; satellite earth stations - 3 Intelsat (with a total of 5 antennas - 3 for Atlantic Ocean and 2 for Indian Ocean) (2019)<br>
-<strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress towards 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>
+<strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress toward 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>
 
 **Broadcast media**<br>
 two Italian media giants dominate - the publicly owned Radiotelevisione Italiana (RAI) with 3 national terrestrial stations and privately owned Mediaset with 3 national terrestrial stations; a large number of private stations and Sky Italia - a satellite TV network; RAI operates 3 AM/FM nationwide radio stations; about 1,300 commercial radio stations<br>
@@ -703,11 +703,11 @@ Italian Armed Forces: Army (Esercito Italiano, EI), Navy (Marina Militare Italia
 <strong>note 1:</strong> the Carabinieri is the national gendarmerie; for its civil police functions, the Carabinieri falls under the control of the Ministry of the Interior<br><br><strong>note 2:</strong> the Financial Guard (Guardia di Finanza) under the Ministry of Economy and Finance is a force with military status and nationwide remit for financial crime investigations, including narcotics trafficking, smuggling, and illegal immigration<br>
 
 **Military expenditures**<br>
-1.5% of GDP (2021 est.)<br>
+1.55% of GDP (2022)<br>
+1.5% of GDP (2021)<br>
 1.6% of GDP (2020)<br>
 1.2% of GDP (2019) (approximately $30.1 billion)<br>
 1.2% of GDP (2018) (approximately $31 billion)<br>
-1.2% of GDP (2017) (approximately $30.1 billion)<br>
 
 **Military and security service personnel strengths**<br>
 approximately 170,000 active personnel (100,000 Army; 30,000 Navy; 40,000 Air Force); approximately 108,000 Carabinieri (2022)<br>
@@ -740,7 +740,7 @@ Islamic State of Iraq and ash-Sham (ISIS)<br>
 **Refugees and internally displaced persons**<br>
 _refugees (country of origin)_: 19,441 (Nigeria), 15,337 (Pakistan), 12,962 (Afghanistan), 10,609 (Mali), 7,901 (Somalia), 5,845 (Gambia), 5,079 (Iraq) (mid-year 2021); 170,646 (Ukraine) (as of 27 September 2022)<br>
 _stateless persons_: 3,000 (mid-year 2021)<br>
-<strong>note:</strong> 661,011 estimated refugee and migrant arrivals (January 2015-September 2022)<br>
+<strong>note:</strong> 665,060 estimated refugee and migrant arrivals (January 2015-October 2022)<br>
 
 **Illicit drugs**<br>
 important gateway for drug trafficking; organized crime groups allied with Colombian and Spanish groups trafficking cocaine to Europe<br>

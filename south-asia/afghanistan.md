@@ -55,7 +55,7 @@ _agricultural land_: 58.1% (2018 est.)<br>
 _agricultural land: arable land_: arable land: 11.8% (2018)<br>
 _agricultural land: permanent crops_: permanent crops: 0.3% (2018)<br>
 _agricultural land: permanent pasture_: permanent pasture: 46% (2018)<br>
-_forest_: 1.85% (2018 est.)<br>
+_forest_: 1.8% (2018 est.)<br>
 _other_: 40.1% (2018)<br>
 
 **Irrigated land**<br>
@@ -184,7 +184,7 @@ _unimproved: rural_: rural: 31.7% of population<br>
 _unimproved: total_: total: 23.5% of population (2020 est.)<br>
 
 **Current health expenditure**<br>
-13.2% (2019)<br>
+13.2% of GDP (2019)<br>
 
 **Physicians density**<br>
 0.25 physicians/1,000 population (2020)<br>
@@ -278,7 +278,7 @@ _agricultural land_: 58.1% (2018 est.)<br>
 _agricultural land: arable land_: arable land: 11.8% (2018)<br>
 _agricultural land: permanent crops_: permanent crops: 0.3% (2018)<br>
 _agricultural land: permanent pasture_: permanent pasture: 46% (2018)<br>
-_forest_: 1.85% (2018 est.)<br>
+_forest_: 1.8% (2018 est.)<br>
 _other_: 40.1% (2018)<br>
 
 **Urbanization**<br>
@@ -298,7 +298,7 @@ _vectorborne diseases_: Crimea-Congo hemorrhagic fever, malaria<br>
 <strong>note:</strong> Afghanistan is one of two countries with endemic wild polio virus (the other is Pakistan) and considered high risk for international spread of the disease; before any international travel, anyone unvaccinated, incompletely vaccinated, or with an unknown polio vaccination status should complete the routine polio vaccine series; before travel to any high-risk destination, the US Centers for Disease Control and Prevention (CDC) recommends that adults who previously completed the full, routine polio vaccine series receive a single, lifetime booster dose of polio vaccine<br>
 
 **Food insecurity**<br>
-_severe localized food insecurity_: <em>due to civil conflict, population displacement, and economic slowdown -</em> between November 2021 and March 2022, during the winter lean season, the food insecurity situation is expected to deteriorate and the number of people in "Crisis" or above is likely to increase to 22.8 million, about 35% more than during the same season in 2020/21; following the developments of August 2021 in the country, the international aid flows, an important element of public spending, were halted; the food security situation and agricultural livelihoods in the country is likely to significantly deteriorate in the coming months due to cumulative and cascading impact of multiple shocks, including weather, conflict, economic crisis and the lingering effects of the COVID‑19 pandemic (2022)<br>
+_severe localized food insecurity_: <em>due to civil conflict, population displacement, and economic slowdown -</em> between November 2021 and March 2022, during the winter lean season, the food insecurity situation was expected to deteriorate and the number of people in "Crisis" or above was likely to increase to 22.8 million, about 35% more than during the same season in 2020/21; following the developments of August 2021 in the country, the international aid flows, an important element of public spending, were halted; the food security situation and agricultural livelihoods in the country is likely to significantly deteriorate in the coming months due to cumulative and cascading impact of multiple shocks, including weather, conflict, economic crisis and the lingering effects of the COVID‑19 pandemic (2022)<br>
 
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 5,628,525 tons (2016 est.)<br>
@@ -634,7 +634,7 @@ _subscriptions per 100 inhabitants_: 58 (2020 est.)<br>
 _general assessment_: before 15 August 2021, Afghanistan had successfully rebuilt infrastructure to create a functional telecom sector that covered nearly all of the population; due to mountainous geography, Afghanistan relies on its mobile network; mobile broadband penetration growing, but is still low compared to other countries in Asia; operator launched LTE in Kabul; World Bank and other donors support development of a nationwide fiber backbone; terrestrial cable connectivity to five neighboring countries; work on the &lsquo;Wakhan Corridor Fiber Optic Survey Project&rsquo; to connect to China is nearing completion; major importer of broadcasting equipment from UAE (2021)<br>
 _domestic_: before 15 August 2021, less than 1 per 100 for fixed-line teledensity; 58 per 100 for mobile-cellular; an increasing number of Afghans utilize mobile-cellular phone networks (2021)<br>
 _international_: country code - 93; multiple VSAT's&nbsp;provide international and domestic voice and data connectivity (2019)<br>
-<strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress towards 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>
+<strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress toward 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>
 
 **Broadcast media**<br>
 since 15 August 2021, independent media outlets have decreased in number due to financial hardships, departure of staff from the country, and restrictions placed by the Taliban; media workers report self-censoring criticism of the Taliban; before 15 August 2021, the former Afghan Government-owned broadcaster, Radio Television Afghanistan (RTA), operated a series of radio and television stations in Kabul and the provinces and the country had an estimated 174 private radio stations and 83 TV stations; television and radio are key media platforms; only about a fifth of Afghans in urban areas use the internet, mostly through smartphones, and young adults are significantly more likely to use the internet (2021)<br>
@@ -731,7 +731,7 @@ Haqqani Taliban Network; Harakat ul-Mujahidin; Harakat ul-Jihad-i-Islami; Islami
 ## Transnational Issues
 
 **Disputes - international**<br>
-<p><em>Afghanistan-China:</em> None identified<br><em><br>Afghanistan-Iran:</em> Afghan and Iranian commissioners have discussed boundary monument densification and resurvey; Iran protests Afghanistan's restricting flow of dammed Helmand River tributaries during drought<br><br><em>Afghanistan-Pakistan:</em> Pakistan has built fences in some portions of its border with Afghanistan which remains open in some areas to terrorist and other illegal activities. Their alignments may not always be in conformance with Durand Line and original surveyed definitions of the boundary. Afghan, Coalition, and Pakistan military meet periodically to clarify the alignment of the boundary on the ground and on maps and since 2014 have met to discuss collaboration on the Taliban insurgency and counterterrorism efforts.<br><br><em>Afghanistan-Tajikistan:</em> None identified<br><br><em>Afghanistan-Turkmenistan:</em> None identified<br><br><em>Afghanistan-Uzbekistan:</em> None identified. Boundary follows Amu Darya river as delimited in the Afghan-Soviet treaties and not by the river's current course. The boundary was delimited and possibly demarcated during Soviet times (pre-1991). No current negotiations between Afghanistan and Uzbekistan to redelimit the boundary have been identified. <br><br>Russia remains concerned about the smuggling of poppy derivatives from Afghanistan through Central Asian countries</p><br>
+<p><em>Afghanistan-China:</em> None identified<br><em><br>Afghanistan-Iran:</em> Afghan and Iranian commissioners have discussed boundary monument densification and resurvey; Iran protests Afghanistan's restricting flow of dammed Helmand River tributaries during drought<br><br><em>Afghanistan-Pakistan:</em> Pakistan has built fences in some portions of its border with Afghanistan which remains open in some areas to terrorist and other illegal activities. Their alignments may not always be in conformance with Durand Line and original surveyed definitions of the boundary.<br><br><em>Afghanistan-Tajikistan:</em> None identified<br><br><em>Afghanistan-Turkmenistan:</em> None identified<br><br><em>Afghanistan-Uzbekistan:</em> None identified. Boundary follows Amu Darya river as delimited in the Afghan-Soviet treaties and not by the river's current course. The boundary was delimited and possibly demarcated during Soviet times (pre-1991). No current negotiations between Afghanistan and Uzbekistan to redelimit the boundary have been identified. <br><br>Russia remains concerned about the smuggling of poppy derivatives from Afghanistan through Central Asian countries</p><br>
 
 **Refugees and internally displaced persons**<br>
 _refugees (country of origin)_: 72,188 (Pakistan) (mid-year 2021)<br>

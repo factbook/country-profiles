@@ -176,7 +176,7 @@ _unimproved: rural_: rural: 0.3% of population<br>
 _unimproved: total_: total: 0.1% of population (2020 est.)<br>
 
 **Current health expenditure**<br>
-9.5% (2019)<br>
+9.5% of GDP (2019)<br>
 
 **Physicians density**<br>
 5.48 physicians/1,000 population (2019)<br>
@@ -687,11 +687,11 @@ Portuguese Armed Forces: Portuguese Army (Exercito Portuguesa), Portuguese Navy 
 <strong>note:</strong> the GNR is a national gendarmerie force comprised of military personnel with law enforcement, internal security, civil defense, disaster response, and coast guard duties; it is responsible to the Ministry of Internal Administration and to the Ministry of National Defense; in the event of war or crisis, it may be placed under the Chief of the General Staff of the Armed Forces; the GNR has law enforcement jurisdiction in rural areas, while the Public Security Police (also under the Ministry of Internal Administration) has jurisdiction in cities<br>
 
 **Military expenditures**<br>
-1.6% of GDP (2021 est.)<br>
+1.5% of GDP (2022 est.)<br>
+1.6% of GDP (2021)<br>
 1.4% of GDP (2020)<br>
 1.4% of GDP (2019) (approximately $4.31 billion)<br>
 1.3% of GDP (2018) (approximately $4.06 billion)<br>
-1.2% of GDP (2017) (approximately $3.62 billion)<br>
 
 **Military and security service personnel strengths**<br>
 approximately 27,000 active duty personnel (14,000 Army; 7,000 Navy, including about 1,000 marines; 6,000 Air Force); 24,500 National Republican Guard (military personnel) (2022)<br>
@@ -722,7 +722,7 @@ Islamic State of Iraq and ash-Sham (ISIS)<br>
 <p><em>Portugal-Spain</em>: Portugal does not recognize Spanish sovereignty over the territory of Olivenza based on a difference of interpretation of the 1815 Congress of Vienna and the 1801 Treaty of Badajoz</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 52,819 (Ukraine) (as of 26 September 2022)<br>
+_refugees (country of origin)_: 52,970 (Ukraine) (as of 3 October 2022)<br>
 _stateless persons_: 45 (mid-year 2021)<br>
 
 **Illicit drugs**<br>

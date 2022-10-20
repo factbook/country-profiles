@@ -190,7 +190,7 @@ _unimproved: rural_: rural: 40.6% of population<br>
 _unimproved: total_: total: 28% of population (2020 est.)<br>
 
 **Current health expenditure**<br>
-3.8% (2019)<br>
+3.8% of GDP (2019)<br>
 
 **Physicians density**<br>
 0.05 physicians/1,000 population (2018)<br>
@@ -396,7 +396,7 @@ _judge selection and term of office_: Court of Appeal and High Court justices ap
 _subordinate courts_: Resident Magistrates Courts; Kadhi courts (for Islamic family matters); district and primary courts<br>
 
 **Political parties and leaders**<br>
-Alliance for Change and Transparency (Wazalendo) or ACT-Wazalendo [Zitto KABWE]<br>Alliance for Democratic Change or ADC [Hamad Rashid MOHAMED] <br>Civic United Front (Chama Cha Wananchi) or CUF [Ibrahim Haruna LIPUMBA]<br>National Convention for Construction and Reform-Mageuzi or NCCR-M [James Francis MBATIA]<br>National League for Democracy<br>Party of Democracy and Development (Chama Cha Demokrasia na Maendeleo) or Chadema [President Samia Suluhu HASSAN]<br>Revolutionary Party (Chama Cha Mapinduzi) or CCM<br>Tanzania Labor Party or TLP [Augustine MREMA]<br>United Democratic Party or UDP [John Momose CHEYO]<br>
+Alliance for Change and Transparency (Wazalendo) or ACT-Wazalendo [Zitto KABWE]<br>Civic United Front (Chama Cha Wananchi) or CUF [Ibrahim Haruna LIPUMBA]<br>Party of Democracy and Development (Chama Cha Demokrasia na Maendeleo) or Chadema [Freeman MBOWE, Chairman]<br>Revolutionary Party of Tanzania (Chama Cha Mapinduzi) or CCM [Samia Suluhu HASSAN, Chairman]<br><br><strong>note: </strong>only parties with seats in the National Assembly listed<br>
 
 **International organization participation**<br>
 ACP, AfDB, AU, C, CD, EAC, EADB, EITI, FAO, G-77, IAEA, IBRD, ICAO, ICC (NGOs), ICCt, ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, MONUSCO, NAM, OPCW, SADC, UN, UNAMID, UNCTAD, UNESCO, UNHCR, UNIDO, UNIFIL, UNISFA, UNMISS, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>

@@ -199,7 +199,7 @@ _unimproved: total_: total: 9% of population (2017 est.)<br>
 <strong>note:</strong> does not include data from the former Western Sahara<br>
 
 **Current health expenditure**<br>
-5.3% (2019)<br>
+5.3% of GDP (2019)<br>
 <strong>note:</strong> does not include data from the former Western Sahara<br>
 
 **Physicians density**<br>

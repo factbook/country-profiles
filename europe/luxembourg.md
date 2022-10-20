@@ -175,7 +175,7 @@ _unimproved: rural_: rural: 1.4% of population<br>
 _unimproved: total_: total: 0.1% of population (2020 est.)<br>
 
 **Current health expenditure**<br>
-5.4% (2019)<br>
+5.4% of GDP (2019)<br>
 
 **Physicians density**<br>
 3.01 physicians/1,000 population (2017)<br>
@@ -675,11 +675,11 @@ _river port(s)_: Mertert (Moselle)<br>
 Luxembourg Army (l'Arm&eacute;e Luxembourgeoise) (2022)<br>
 
 **Military expenditures**<br>
-0.5% of GDP (2021 est.)<br>
+0.6% of GDP (2022 est.)<br>
+0.5% of GDP (2021)<br>
 0.6% of GDP (2020)<br>
 0.5% of GDP (2019) (approximately $420 million)<br>
 0.5% of GDP (2018) (approximately $380 million)<br>
-0.5% of GDP (2017) (approximately $370 million)<br>
 
 **Military and security service personnel strengths**<br>
 approximately 900 active personnel (2022)<br>
@@ -700,6 +700,6 @@ Luxembourg is a member of NATO and was one of the original 12 countries to sign 
 <p>none identified</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 6,561 (Ukraine) (as of 4 October 2022)<br>
+_refugees (country of origin)_: 6,756 (Ukraine) (as of 11 October 2022)<br>
 _stateless persons_: 194 (mid-year 2021)<br>
 

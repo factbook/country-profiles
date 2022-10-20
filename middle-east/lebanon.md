@@ -171,7 +171,7 @@ _unimproved: rural_: rural: NA<br>
 _unimproved: total_: total: 0% of population (2020 est.)<br>
 
 **Current health expenditure**<br>
-8.7% (2019)<br>
+8.7% of GDP (2019)<br>
 
 **Physicians density**<br>
 2.21 physicians/1,000 population (2019)<br>
@@ -345,15 +345,15 @@ _residency requirement for naturalization_: unknown<br>
 **Executive branch**<br>
 _chief of state_: President Michel AWN (since 31 October 2016)<br>
 _head of government_: Prime Minister Najib MIQATI (since 20 September 2021)<br>
-_cabinet_: Cabinet chosen by the prime minister in consultation with the president and National Assembly<br>
-_elections/appointments_: president indirectly elected by the National Assembly with two-thirds majority vote in the first round and if needed absolute majority vote in a second round for a 6-year term (eligible for non-consecutive terms); last held on 31 October 2016 (next to be held in 2022); prime minister appointed by the president in consultation with the National Assembly; deputy prime minister determined during cabinet formation<br>
-_election results_: <em>2016:</em> Michel AWN elected president in second round; National Assembly vote - Michel AWN (FPM) 83 votes; note - in the initial election held on 23 April 2014, no candidate received the required two-thirds vote, and subsequent attempts failed because the Assembly lacked the necessary quorum to hold a vote; the president was finally elected in its 46th attempt on 31 October 2016<br>
+_cabinet_: Cabinet chosen by the prime minister in consultation with the president and Parliament<br>
+_elections/appointments_: president indirectly elected by Parliament with two-thirds majority vote in the first round and if needed absolute majority vote in a second round for a 6-year term (eligible for non-consecutive terms); last held on 31 October 2016 (next to be held in 2022); prime minister appointed by the president in consultation with Parliament; deputy prime minister determined during cabinet formation<br>
+_election results_: 2022: on 29 September, Parliament failed to elect a new president ; blank votes 63 , Michel<br>MOAWAD 36; on 13 October 2022, the vote was postponed because Parliament lacked the necessary quorum of 86 members to hold a vote<br><em><br>2016:</em> Michel AWN elected president in second round; National Assembly vote - Michel AWN (FPM) 83 votes; note - in the initial election held on 23 April 2014, no candidate received the required two-thirds vote, and subsequent attempts failed because Parliament lacked the necessary quorum of 86 members to hold a vote; the president was finally elected in its 46th attempt on 31 October 2016<br>
 
 **Legislative branch**<br>
-_description_: unicameral National Assembly or Majlis al-Nuwab in Arabic or Assemblee Nationale in French (128 seats; members directly elected in multi-member constituencies by open list proportional representation vote; members serve 4-year terms); prior to 2017, the electoral system was by majoritarian vote<br>
+_description_: unicameral Lebanese Parliament or Majlis al-Nuwab in Arabic, Chambre des d&eacute;put&eacute;s in French (128 seats; members directly elected in multi-member constituencies by open list proportional representation vote, apportioned evenly between Christian and Muslims; members serve 4-year terms)<br>
 _elections_: last held on 15 May 2022 (next to be held in May 2026)<br>
 _election results_: percent of vote by coalition/party &ndash; NA; seats by party/coalition &ndash; FPM 16, LF 14, Amal Movement 13, Hezbollah 13, PSP 9, FM (candidates did not run in 2022; members ran as independents) 8, Kata&rsquo;ib Party 4, other 30, independent 21; composition - men 120, women 8, percent of women 6.3%<br>
-<strong>note:</strong> Lebanon’s constitution states the National Assembly cannot conduct regular business until it elects a president when the position is vacant<br>
+<strong>note:</strong> Lebanon’s constitution states the Lebanese Parliament cannot conduct regular business until it elects a president when the position is vacant<br>
 
 **Judicial branch**<br>
 _highest courts_: Court of Cassation or Supreme Court (organized into 8 chambers, each with a presiding judge and 2 associate judges); Constitutional Council (consists of 10 members)<br>

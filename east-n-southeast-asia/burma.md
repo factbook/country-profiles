@@ -188,7 +188,7 @@ _unimproved: rural_: rural: 19.3% of population<br>
 _unimproved: total_: total: 14.7% of population (2020 est.)<br>
 
 **Current health expenditure**<br>
-4.7% (2019)<br>
+4.7% of GDP (2019)<br>
 
 **Physicians density**<br>
 0.74 physicians/1,000 population (2019)<br>
@@ -337,10 +337,10 @@ _etymology_: both "Burma" and "Myanmar" derive from the name of the majority Bur
 parliamentary republic<br>
 
 **Capital**<br>
-_name_: Nay Pyi Taw (note - Yangon, aka Rangoon, is the former capital)<br>
-_geographic coordinates_: 19 74 N, 96 12 E<br>
+_name_: Rangoon (aka Yangon, continues to be recognized as the primary Burmese capital by the US Government); Nay Pyi Taw is the administrative capital<br>
+_geographic coordinates_: 16 48 N, 96 10 E<br>
 _time difference_: UTC+6.5 (11.5 hours ahead of Washington, DC, during Standard Time)<br>
-_etymology_: Nay Pyi Taw translates as: "Great City of the Sun" or "Abode of Kings"<br>
+_etymology_: Rangoon/Yangon derives from the Burmese words <em>yan</em> and <em>koun</em>, which mean "enemies" and "expelled" respectively and provide the meaning of "end of strife"; Nay Pyi Taw translates as: "Great City of the Sun" or "Abode of Kings"<br>
 
 **Administrative divisions**<br>
 <p>7 regions (taing-myar, singular - taing), 7 states (pyi ne-myar, singular - pyi ne), 1 union territory</p> <p><strong>regions:</strong> Ayeyarwady (Irrawaddy), Bago, Magway, Mandalay, Sagaing, Tanintharyi, Yangon (Rangoon)</p> <p><strong>states:</strong> Chin, Kachin, Kayah, Karen, Mon, Rakhine, Shan</p> <p><strong>union territory:</strong> Nay Pyi Taw</p><br>
@@ -377,7 +377,7 @@ _head of government_: Prime Minister, State Administration Council (SAC) Chair, 
 _cabinet_: Cabinet appointments shared by the president and the commander-in-chief; note - after 1 February, the military junta replaced the cabinet<br>
 _elections/appointments_: prior to the military takeover, president was indirectly elected by simple majority vote by the full Assembly of the Union from among 3 vice-presidential candidates nominated by the Presidential Electoral College (consists of members of the lower and upper houses and military members); the other 2 candidates become vice presidents (president elected for a 5-year term); election last held on 28 March 2018; the military junta pledged to hold new elections in 2023<br>
 _election results_: <em>2018</em>: WIN MYINT elected president in an indirect by-election held on 28 March 2018 after the resignation of HTIN KYAW; Assembly of the Union vote - WIN MYINT (NLD) 403, MYINT SWE (USDP) 211, HENRY VAN THIO (NLD) 18, 4 votes canceled (636 votes cast); note - WIN MYINT and other key leaders of the ruling NLD party were placed under arrest following the military takeover on 1 February 2021<br><br><em>2016</em>: Assembly of the Union vote - HTIN KYAW elected president; HTIN KYAW (NLD) 360, MYINT SWE (USDP) 213, HENRY VAN THIO (NLD) 79 (652 votes cast)<br>
-_state counsellor_: State Counselor AUNG SAN SUU KYI (since 6 April 2016); note - under arrest since 1 February 2021 (has been sentenced to 23 years in prison as of September 2022); formerly served as minister of foreign affairs and minister for the office of the president<br>
+_state counsellor_: State Counselor AUNG SAN SUU KYI (since 6 April 2016); note - under arrest since 1 February 2021 (has been sentenced to 26 years in prison as of October 2022); formerly served as minister of foreign affairs and minister for the office of the president<br>
 <strong>note:</strong> a parliamentary bill creating the position of "state counsellor" was signed into law by former President HTIN KYAW on 6 April 2016; a state counsellor serves the equivalent term of the president and is similar to a prime minister in that the holder acts as a link between the parliament and the executive branch<br>
 
 **Legislative branch**<br>
@@ -642,7 +642,7 @@ _subscriptions per 100 inhabitants_: 144 (2020 est.)<br>
 _general assessment_: Burma, one of the least developed telecom markets in Asia, saw growth in mobile and broadband services through foreign competition and roll out of 4G and 5G networks; infrastructure development challenged by flooding, unreliable electricity, inefficient bureaucracy, and corruption; digital divide affects rural areas; fixed broadband remains low due to number of fixed-lines and near saturation of the mobile platform; healthy m-banking platform; tests for NB-IoT; benefit from launch of regional satellite; government utilizes intermittent censorship and shut-down of Internet in political crisis; top importer of broadcasting equipment from China (2021) (2020)<br>
 _domestic_: fixed-line is just under 1 per 100, while mobile-cellular is roughly 90 per 100 (2019)<br>
 _international_: country code - 95; landing points for the SeaMeWe-3, SeaMeWe-5, AAE-1 and Singapore-Myanmar&nbsp;optical telecommunications submarine cable that provides links to Asia, the Middle East, Africa, Southeast Asia, Australia&nbsp;and Europe; satellite earth stations - 2, Intelsat (Indian Ocean) and ShinSat (2019)<br>
-<strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress towards 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>
+<strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress toward 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>
 
 **Broadcast media**<br>
 government controls all domestic broadcast media; 2 state-controlled TV stations with 1 of the stations controlled by the armed forces; 2 pay-TV stations are joint state-private ventures; access to satellite TV is limited; 1 state-controlled domestic radio station and 9 FM stations that are joint state-private ventures; transmissions of several international broadcasters are available in parts of Burma; the Voice of America (VOA), Radio Free Asia (RFA), BBC Burmese service, the Democratic Voice of Burma (DVB), and Radio Australia use shortwave to broadcast in Burma; VOA, RFA, and DVB produce daily TV news programs that are transmitted by satellite to audiences in Burma; in March 2017, the government granted licenses to 5 private broadcasters, allowing them digital free-to-air TV channels to be operated in partnership with government-owned Myanmar Radio and Television (MRTV) and will rely upon MRTV&rsquo;s transmission infrastructure; following the February 2021 military coup, the regime revoked the media licenses of most independent outlets, including the free-to-air licenses for DVB and Mizzima (2022)<br>

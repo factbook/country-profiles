@@ -184,7 +184,7 @@ _unimproved: rural_: rural: 0.6% of population<br>
 _unimproved: total_: total: 0.5% of population (2020 est.)<br>
 
 **Current health expenditure**<br>
-8.7% (2019)<br>
+8.7% of GDP (2019)<br>
 
 **Physicians density**<br>
 3.11 physicians/1,000 population (2016)<br>
@@ -733,10 +733,10 @@ the Serbian Armed Forces were established in June 2006; the Serbian military tra
 <p><em>Serbia-Bosnia and Herzegovina</em>: Serbia delimited about half of the boundary with Bosnia and Herzegovina, but sections along the Drina River remain in dispute</p> <p><em>Serbia-Bulgaria</em>: none identified</p> <p><em>Serbia-Croatia</em>: Serbia and Croatia dispute their border along the Danube; Serbia claims the border is the median between the current Danube shorelines, with the land to the eastern side of the median belonging to Serbia; Croatia contends that the boundary is demarcated according to historic maps, despite the river having meandered since then</p> <p><em>Serbia-Hungary</em>: none identified</p> <p><em>Serbia-Kosovo</em>: Serbia with several other states protested the US and other states' recognition of Kosovo's declaration of its status as a sovereign and independent state in February 2008; ethnic Serbian municipalities along Kosovo's northern border challenge final status of Kosovo-Serbia boundary; since 1999, NATO-led Kosovo Force peacekeepers under UN Interim Administration Mission in Kosovo (UNMIK) authority have continued to keep the peace within Kosovo between the ethnic Albanian majority and the Serb minority; in October 2021, NATO-led KFOR increased patrols along the border with Serbia to deescalate hostilities caused by a dispute over license plates</p> <p><em>Serbia-Montenegro</em>: the former republic boundary serves as the boundary until a line is formally delimited and demarcated</p> <p><em>Serbia-North Macedonia</em>: none identified</p> <p><em>Serbia-Romania</em>: none identified</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 17,336 (Croatia), 7,997 (Bosnia and Herzegovina) (mid-year 2021); 20,225 (Ukraine) (includes Ukrainian refugees in Kosovo; as of 4 October 2022)<br>
+_refugees (country of origin)_: 17,336 (Croatia), 7,997 (Bosnia and Herzegovina) (mid-year 2021); 20,568 (Ukraine) (includes Ukrainian refugees in Kosovo; as of 11 October 2022)<br>
 _IDPs_: 196,995 (most are Kosovar Serbs, some are Roma, Ashkalis, and Egyptian (RAE); some RAE IDPs are unregistered) (2021)<br>
 _stateless persons_: 2,113 (includes stateless persons in Kosovo) (mid-year 2021)<br>
-<strong>note:</strong> 895,278 estimated refugee and migrant arrivals (January 2015-September 2022); Serbia is predominantly a transit country and hosts an estimated 6,313 migrants and asylum seekers as of June 2022<br>
+<strong>note:</strong> 899,143 estimated refugee and migrant arrivals (January 2015-October 2022); Serbia is predominantly a transit country and hosts an estimated 6,313 migrants and asylum seekers as of June 2022<br>
 
 **Illicit drugs**<br>
 <p>drug trafficking groups are major players in the procurement and transportation of large quantities of cocaine destined for European markets</p><br>

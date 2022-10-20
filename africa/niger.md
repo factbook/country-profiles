@@ -187,7 +187,7 @@ _unimproved: rural_: rural: 36.9% of population<br>
 _unimproved: total_: total: 31.4% of population (2020 est.)<br>
 
 **Current health expenditure**<br>
-5.7% (2019)<br>
+5.7% of GDP (2019)<br>
 
 **Physicians density**<br>
 0.04 physicians/1,000 population (2020)<br>
@@ -709,8 +709,8 @@ _by type_: general cargo 1 (2021)<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Nigerien Armed Forces (Forces Armees Nigeriennes, FAN): Army, Nigerien Air Force, Niger Gendarmerie (GN); Ministry of Interior: Niger National Guard (GNN; aka Republican Guard), National Police (2022)<br>
-<strong>note 1:</strong> the Gendarmerie has primary responsibility for rural security; the National Guard is responsible for domestic security and the protection of high-level officials and government buildings<br><br><strong>note 2: </strong>the National Police includes the Directorate of Territorial Surveillance, which is charged with border management<br>
+Nigerien Armed Forces (Forces Armees Nigeriennes, FAN): Army, Nigerien Air Force, Niger Gendarmerie (GN); Ministry of Interior: Niger National Guard (GNN), National Police (2022)<br>
+<strong>note 1:</strong> the Gendarmerie has primary responsibility for rural security; the National Guard is responsible for domestic security and the protection of high-level officials and government buildings<br><br><strong>note 2: </strong>the National Police includes the Directorate of Territorial Surveillance, which is charged with border management<br><br>note 3: the National Guard was formerly known as the National Forces of Intervention and Security <br>
 
 **Military expenditures**<br>
 1.8% of GDP (2021 est.)<br>
@@ -747,8 +747,8 @@ Boko Haram; Islamic State of Iraq and ash-Sham in the Greater Sahara (ISIS-GS); 
 <p><em>Niger-Benin-Nigeria</em>: location of Niger-Benin-Nigeria tripoint is unresolved</p> <p><em>Niger-Burkina Faso</em>: the dispute with Burkina Faso was referred to the International Court of Justice (ICJ) in 2010; the ICJ ruled in 2013 that 786 sq km should go to Burkina Faso and 277 sq km to Niger; the ruling was implemented in 2015 and 2016, with Burkina Faso gaining 14 towns and Niger 4</p> <p><em>Niger-Cameroon-Nigeria</em>: only Nigeria and Cameroon have heeded the Lake Chad Commission's admonition to ratify the delimitation treaty that also includes the Chad-Niger and Niger-Nigeria boundaries</p> <p><em>Niger-Libya</em>: Libya claims about 25,000 sq km in a currently dormant dispute in the Tummo region</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 187,134 (Nigeria), 64,185 (Mali) (refugees and asylum seekers) (2022)<br>
-_IDPs_: 347,648 (includes the regions of Diffa, Tillaberi, and Tahoua; unknown how many of the 11,000 people displaced by clashes between government forces and the Tuareg militant group, Niger Movement for Justice, in 2007 are still displaced; inter-communal violence; Boko Haram attacks in southern Niger, 2015) (2022)<br>
+_refugees (country of origin)_: 187,130 (Nigeria), 65,026 (Mali) (refugees and asylum seekers) (2022)<br>
+_IDPs_: 376,809 (includes the regions of Diffa, Tillaberi, and Tahoua; unknown how many of the 11,000 people displaced by clashes between government forces and the Tuareg militant group, Niger Movement for Justice, in 2007 are still displaced; inter-communal violence; Boko Haram attacks in southern Niger, 2015) (2022)<br>
 
 **Illicit drugs**<br>
 <p>a transit point for illicit drugs trafficked through the Sahara; drugs from South America, particularly cocaine, heroin, cannabis products, and synthetic drugs, transit en route to European and Middle Eastern markets; synthetic opioid tramadol is shipped from Nigeria through Niger to other African countries; hashish from Morocco is trafficked to Libya, Egypt, Europe, and the Middle East; traffickers are formalized networks of Arab, Tuareg, and Toubou transportation groups</p><br>

@@ -175,7 +175,7 @@ _unimproved: rural_: rural: 1.4% of population<br>
 _unimproved: total_: total: 0.5% of population (2020 est.)<br>
 
 **Current health expenditure**<br>
-6.6% (2019)<br>
+6.6% of GDP (2019)<br>
 
 **Physicians density**<br>
 3.4 physicians/1,000 population (2020)<br>
@@ -688,11 +688,11 @@ _major seaport(s)_: Riga, Ventspils<br>
 National Armed Forces (Nacionalie Brunotie Speki): Land Forces (Latvijas Sauszemes Speki), Naval Force (Latvijas Juras Speki, includes Coast Guard (Latvijas Kara Flote)), Air Force (Latvijas Gaisa Speki), National Guard (2022)<br>
 
 **Military expenditures**<br>
-2.2% of GDP (2021 est.)<br>
+2.1% of GDP (2022 est.)<br>
+2.2% of GDP (2021)<br>
 2.2% of GDP (2020)<br>
 2% of GDP (2019) (approximately $920 million)<br>
 2.1% of GDP (2018) (approximately $900 million)<br>
-1.6% of GDP (2017) (approximately $740 million)<br>
 
 **Military and security service personnel strengths**<br>
 approximately 7,500 active duty troops (6,500 Land Forces; 500 Naval Force/Coast Guard; 500 Air Force; note - some Land Forces are considered joint forces); 8,200 National Guard (2022)<br>
@@ -716,7 +716,7 @@ Latvia became a member of NATO in 2004 <br><br>since 2017, Latvia has hosted a C
 <p><em>Latvia-Belarus</em>: Belarus and Latvia signed joint demarcation map in September 2008</p> <p><em>Latvia-Estonia</em>: demarcation reportedly completed in 1998</p> <p><em>Latvia-Lithuania</em>: boundary demarcation was completed by the end of 1998; the Latvian parliament has not ratified its 1998 maritime boundary treaty with Lithuania, primarily due to concerns over oil exploration rights</p> <p><em>Latvia-Russia</em>: Russia demands better Latvian treatment of ethnic Russians in Latvia; in March 2007, Latvia and Russia signed a border treaty, which includes Latvia withdrawing claims to a district now in Russia that was part of Latvia before WWII; the permanent demarcation of the boundary between Latvia and Russia was completed and came into force in April 2018; as a member state that forms part of the EU's external border, Latvia has implemented the strict Schengen border rules with Russia</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 39,083 (Ukraine) (as of 4 October 2022)<br>
+_refugees (country of origin)_: 39,561 (Ukraine) (as of 11 October 2022)<br>
 _stateless persons_: 209,168 (mid-year 2021); note - individuals who were Latvian citizens prior to the 1940 Soviet occupation and their descendants were recognized as Latvian citizens when the country's independence was restored in 1991; citizens of the former Soviet Union residing in Latvia who have neither Latvian nor other citizenship are considered non-citizens (officially there is no statelessness in Latvia) and are entitled to non-citizen passports; children born after Latvian independence to stateless parents are entitled to Latvian citizenship upon their parents' request; non-citizens cannot vote or hold certain government jobs and are exempt from military service but can travel visa-free in the EU under the Schengen accord like Latvian citizens; non-citizens can obtain naturalization if they have been permanent residents of Latvia for at least five years, pass tests in Latvian language and history, and know the words of the Latvian national anthem<br>
 
 **Illicit drugs**<br>

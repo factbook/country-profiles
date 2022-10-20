@@ -172,7 +172,7 @@ _unimproved: rural_: rural: 1.9% of population<br>
 _unimproved: total_: total: 2.6% of population (2020 est.)<br>
 
 **Current health expenditure**<br>
-6.7% (2019)<br>
+6.7% of GDP (2019)<br>
 
 **Physicians density**<br>
 3.49 physicians/1,000 population (2020)<br>
@@ -354,7 +354,7 @@ Aontu [Peadar TOIBIN]<br>Solidarity-People Before Profit or PBPS [collective lea
 ADB (nonregional member), Australia Group, BIS, CD, CE, EAPC, EBRD, ECB, EIB, EMU, ESA, EU, FAO, FATF, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IEA, IFAD, IFC, IFRCS, IGAD (partners), IHO, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, MINURSO, MONUSCO, NEA, NSG, OAS (observer), OECD, OPCW, OSCE, Paris Club, PCA, PFP, UN, UNCTAD, UNDOF, UNESCO, UNHCR, UNIDO, UNIFIL, UNOCI, UNRWA, UNTSO, UPU, Wassenaar Arrangement, WCO, WHO, WIPO, WMO, WTO, ZC<br>
 
 **Diplomatic representation in the US**<br>
-_chief of mission_: Ambassador Daniel Gerard MULHALL (since 8 September 2017)<br>
+_chief of mission_: Ambassador Geraldine Byrne NASON (since 16 September 2022)<br>
 _chancery_: 2234 Massachusetts Avenue NW, Washington, DC 20008<br>
 _telephone_: [1] (202) 462-3939<br>
 _FAX_: [1] (202) 232-5993<br>
@@ -605,7 +605,7 @@ _subscriptions per 100 inhabitants_: 106 (2020 est.)<br>
 _general assessment_: Ireland&rsquo;s telecom market has rebounded from a long period in which fiscal constraints inhibited investment in the sector; significant infrastructure projects are underway, including the NBN which aims to deliver a fiber-based service of at least 150Mb/s nationally by the end of 2022; the renewed optimism has been seen in company investment in extending fiber-based networks providing 1Gb/s services; the incumbent telco eir is investing &euro;1 billion in infrastructure, part of which is earmarked for its Ireland&rsquo;s Fiber Network which will deliver a 1Gb/s service to 85% of premises; the mobile market is dominated by Vodafone Ireland and 3 Ireland, followed by eir; there is room for a small number of MVNOs, the largest of which is Tesco Mobile, though stiff competition and the deployment of low-cost sub-brands by the MNOs has made the MVNO model a difficult proposition and a few players have been forced to exit the market; the mobile sector is preparing for a multi-frequency availibility later in 2021 which will greatly increase the amount of frequencies available, and provide a boost for 5G services; the MNOs are rapidly expanding the reach of 5G, with eir alone covering about 57% of the population by March 2021; Vodafone launches a commercial NB-IoT service, extend 5G services to more cities (2021)<br>
 _domestic_: increasing levels of broadband access particularly in urban areas; fixed-line 34 per 100 and mobile-cellular 106 per 100 subscriptions; digital system using cable and microwave radio relay (2020)<br>
 _international_: country code - 353; landing point for the&nbsp;AEConnect&nbsp;-1,&nbsp;Celtic-Norse, Havfrue/AEC-2, GTT Express, Celtic, ESAT-1, IFC-1, Solas, Pan European Crossing, ESAT-2, CeltixConnect -1 &amp; 2, GTT Atlantic, Sirius South, Emerald Bridge Fibres&nbsp;and Geo Eirgrid&nbsp;submarine cable with links to the US, Canada, Norway, Isle of Man and UK; satellite earth stations - 81 (2019)<br>
-<strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress towards 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>
+<strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress toward 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>
 
 **Broadcast media**<br>
 publicly owned broadcaster Radio Telefis Eireann (RTE) operates&nbsp;4 TV stations; commercial TV stations are available; about 75% of households utilize multi-channel satellite and TV services that provide access to a wide range of stations; RTE operates 4 national radio stations and has launched digital audio broadcasts on several stations; a number of commercial broadcast stations operate at the national, regional, and local levels (2019)<br>
@@ -714,7 +714,7 @@ Continuity Irish Republican Army; New Irish Republican Army; Islamic State of Ir
 <p><em>Ireland-Denmark</em>: Ireland, Iceland, and the UK dispute Denmark's claim that the Faroe Islands' continental shelf extends beyond 200 nm; Iceland, Norway, and the Faroe Islands signed an agreement in 2019 extending the Faroe Islands’ northern continental shelf area</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 49,999 (Ukraine) (as of 26 September 2022)<br>
+_refugees (country of origin)_: 51,904 (Ukraine) (as of 10 October 2022)<br>
 _stateless persons_: 107 (mid-year 2021)<br>
 
 **Trafficking in persons**<br>

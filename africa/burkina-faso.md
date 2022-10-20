@@ -182,7 +182,7 @@ _unimproved: rural_: rural: 28.7% of population<br>
 _unimproved: total_: total: 21.5% of population (2020 est.)<br>
 
 **Current health expenditure**<br>
-5.5% (2019)<br>
+5.5% of GDP (2019)<br>
 
 **Physicians density**<br>
 0.09 physicians/1,000 population (2019)<br>
@@ -367,7 +367,7 @@ _residency requirement for naturalization_: 10 years<br>
 18 years of age; universal<br>
 
 **Executive branch**<br>
-_chief of state_: transitional President Capt Ibrahim TRAORE (since 30 September 2022); note - on 30 September 2022, a military junta led by TRAORE, took power and ousted President Lt. Col. Paul-Henri Sandaogo and took over as head of the Patriotic Movement for Safeguard and Restoration.<br><br>
+_chief of state_: transitional President Capt Ibrahim TRAORE (since 30 September 2022); note - on 30 September 2022, a military junta led by TRAORE, took power and ousted President Lt. Col. Paul-Henri Sandaogo DAMIBA and took over as head of the Patriotic Movement for Safeguard and Restoration.<br>
 _head of government_: Prime Minister Albert OUEDRAOGO (since 3 March 2022); note - transitional President Lt. Col. DAMIBA appointed OUEDRAOGO Prime Minister on 3 March 2022; the position had been vacant since 24 January 2022 when the military ousted former Prime Minister Lassina ZERBO<br>
 _cabinet_: Council of Ministers appointed by the president on the recommendation of the prime minister<br>
 _elections/appointments_: president elected by absolute majority popular vote in 2 rounds if needed for a 5-year term (eligible for a second); last held on 22 November 2020 (next to be held in November 2025); prime minister appointed by the president with consent of the National Assembly; note - on 1 March 2022 a transition charter was adopted, allowing military authorities to rule for three years and barring transitional President Lt. Col. Paul-Henri Sandaogo DAMIBA from being an electoral candidate after the transition.<br>
@@ -637,7 +637,7 @@ _subscriptions per 100 inhabitants_: 106 (2020 est.)<br>
 _general assessment_: Burkina Faso&rsquo;s telecom sector in recent years has made some gains in providing the necessary infrastructure and bandwidth to support telecom services; an IXP completed in September 2020 increased international bandwidth capacity by a third, while in mid-2021 the government was able to start the second phase of a national fiber backbone project; this will link the capital city to an addition 145 municipalities, and provide additional connectivity to terrestrial cables in neighboring countries; this new infrastructure is also making it possible for the government to trial tele medicine, and so address the very poor availability of medical services in almost all parts of the country; the activities of the militants in side areas of the country jeopardize overall security, and render it difficult for the telcos to safeguard their networks and equipment; Burkina Faso joins G5 Sahel countries to eliminate roaming fees (2022)<br>
 _domestic_: fixed-line connections stand at less than 1 per 100 persons; mobile-cellular usage nearly 106 per 100, with multiple providers there is competition and the hope for growth from a low base; Internet penetration is 16% (2020)<br>
 _international_: country code - 226; satellite earth station - 1 Intelsat (Atlantic Ocean)<br>
-<strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress towards 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>
+<strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress toward 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>
 
 **Broadcast media**<br>
 since the official inauguration of Terrestrial Digital Television (TNT) in December 2017, Burkina Faso now has 14 digital TV channels among which 2 are state-owned; there are more than 140 radio stations (commercial, religious, community) available throughout the country including a national and regional state-owned network; the state-owned Radio Burkina and the private Radio Omega are among the most widespread stations and both include broadcasts in French and local languages (2019)<br>

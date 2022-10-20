@@ -184,7 +184,7 @@ _unimproved: rural_: rural: 2.6% of population<br>
 _unimproved: total_: total: 0.7% of population (2020 est.)<br>
 
 **Current health expenditure**<br>
-4.5% (2019)<br>
+4.5% of GDP (2019)<br>
 
 **Physicians density**<br>
 0.97 physicians/1,000 population (2020)<br>
@@ -365,11 +365,11 @@ _residency requirement for naturalization_: 10 years<br>
 18 years of age; universal<br>
 
 **Executive branch**<br>
-_chief of state_: President Barham SALIH (since 2 October 2018); vice presidents (vacant)<br>
-_head of government_: Prime Minister Mustafa al-KADHIMI (since 7 May 2020)<br>
+_chief of state_: President Abdul Latif RASHID (since 13 October 2022; vice presidents (vacant)<br>
+_head of government_: Prime Minister-Designate Mohammed Shia al-SUDANI (since 13 October 2022)<br>
 _cabinet_: Council of Ministers proposed by the prime minister, approved by Council of Representatives<br>
-_elections/appointments_: president indirectly elected by Council of Representatives (COR) to serve a 4-year term (eligible for a second term); COR parliamentary election last held on 10 October 2021 (next to be held in 2025)<br>
-_election results_: <p><em>2018:</em> COR vote in first round - Barham SALIH (PUK) 165, Fuad HUSAYN (KDP) 90; Barham SALIH elected president in second round - Barham SALIH 219, Fuad HUSAYN 22; note - the COR vote on 1 October 2018 failed due to a lack of quorum, and a new session was held on 2 October 2018<br><br><em>2014:</em> Fuad MASUM elected president; Council of Representatives vote - Fuad MASUM (PUK) 211, Barham SALIH (PUK) 17; Haydar al-ABADI (Da'wa Party) approved as prime minister</p><br>
+_elections/appointments_: president indirectly elected by Council of Representatives (COR) to serve a 4-year term (eligible for a second term); COR parliamentary election for president last held on 13 October 2022 (next to be held in 2026)<br>
+_election results_: <em>2022: </em>COR vote in first round - Abdul Latif RASHID (PUK) 157, Barham SALIH (PUK) 99; Abdul Latif RASHID elected president in second round - Abdul latif RASHID 167, Barham SALIH 99<em><br><br>2018:</em> COR vote in first round - Barham SALIH (PUK) 165, Fuad HUSAYN (KDP) 90; Barham SALIH elected president in second round - Barham SALIH 219, Fuad HUSAYN 22; note - the COR vote on 1 October 2018 failed due to a lack of quorum, and a new session was held on 2 October 2018<br><em><br>2014:  </em>Fuad MASUM elected president in first round; COR vote - Fuad MASUM (PUK) 211, Barham SALIH (PUK) 17; Haydar al-ABADI (Da'wa Party) approved as prime minister<br>
 
 **Legislative branch**<br>
 _description_: unicameral Council of Representatives of Iraq (COR) or Majlis an-Nuwwab al-Iraqiyy (329 seats; 320 members directly elected in 83 multi-seat constituencies by single nontransferable vote, 9 seats reserved for minorities - 5 for Christians, 1 each for Sabaean-Mandaeans, Yazidis, Shabaks, Fayli Kurds, and 25% of seats allocated to women; members serve 4-year terms); note - in late 2020, the COR approved an electoral law, replacing the proportional representation voting system with the single non-transferable system<br>
@@ -636,7 +636,7 @@ _subscriptions per 100 inhabitants_: 93 (2020 est.)<br>
 _general assessment_: Iraq continues to face a number of political and economic challenges, though increasing civil stability has made it easier for mobile and fixed-line operators to rebuild telecom services and infrastructure damaged during the last few years; the government extended the licenses held by the MNOs for an additional three years to compensate for the chaos and destruction caused between 2014 and 2017 when Islamic State held sway in many areas of the country; the three major MNOs are Zain Iraq, Asiacell, and Korek Telecom, which together control over 90% of the mobile market; the companies have struggled to develop LTE services; with LTE services being very low, there is little chance for 5G to be available in the short term; most services are still based on GSM and 3G, except in the Kurdish region where LTE is more widely available. (2022)<br>
 _domestic_: 3G services offered by three major mobile operators; 4G offered by one operator in Iraqi; conflict has destroyed infrastructure in areas; about 10 per 100 for fixed-line and 92 per 100 for mobile-cellular subscriptions (2020)<br>
 _international_: country code - 964; landing points for FALCON, and GBICS/MENA submarine cables providing connections to the Middle East, Africa and India; satellite earth stations - 4 (2 Intelsat - 1 Atlantic Ocean and 1 Indian Ocean, 1 Intersputnik - Atlantic Ocean region, and 1 Arabsat (inoperative)); local microwave radio relay connects border regions to Jordan, Kuwait, Syria, and Turkey (2019)<br>
-<strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress towards 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>
+<strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress toward 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>
 
 **Broadcast media**<br>
 the number of private radio and TV stations has increased rapidly since 2003; government-owned TV and radio stations are operated by the publicly funded Iraqi Media Network; private broadcast media are mostly linked to political, ethnic, or religious groups; satellite TV is available to an estimated 70% of viewers and many of the broadcasters are based abroad; transmissions of multiple international radio broadcasters are accessible (2019)<br>

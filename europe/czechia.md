@@ -180,7 +180,7 @@ _unimproved: rural_: rural: 0.2% of population<br>
 _unimproved: total_: total: 0.1% of population (2020 est.)<br>
 
 **Current health expenditure**<br>
-7.8% (2019)<br>
+7.8% of GDP (2019)<br>
 
 **Physicians density**<br>
 4.15 physicians/1,000 population (2020)<br>
@@ -617,7 +617,7 @@ _subscriptions per 100 inhabitants_: 121 (2020 est.)<br>
 _general assessment_: the telecom market has attracted investment from among the key regional telcos, including Deutsche Telekom, Telef&oacute;nica, and Vodafone, as also investors such as PPF Group; O2 Czech Republic remains the dominant telco in all segments, though there is effective competition, particularly in the mobile sector; telcos in the Czech Republic have become multi-service providers, offering a full range of fixed and mobile services; O2 CR has struggled to improve revenue growth in recent years, and in response it has transitioned itself to face market challenges; among the changes was its reorganization into separate business divisions and the spinning off of CETIN as a separate unit to manage the fixed and mobile networks while also operating as a national wholesale network provider; CETIN&rsquo;s owner, PPF Group, in early 2021 considered an IPO for CETIN; the mobile sector is concentrated among the three MNOs, despite the regulator having made efforts to facilitate the entry of a new market player by providing spectrum at the multi-band auction held in November 2020; the auction has enabled the licensees to expand the reach of their 5G networks; this process has also been assisted by them closing down 3G networks and refarming spectrum for 5G and LTE use. (2021)<br>
 _domestic_: roughly 12 fixed-telephone subscriptions per 100 inhabitants and mobile telephone usage of about 121 per 100 inhabitants (2020)<br>
 _international_: country code - 420; satellite earth stations - 6 (2 Intersputnik - Atlantic and Indian Ocean regions, 1 Intelsat, 1 Eutelsat, 1 Inmarsat, 1 Globalstar) (2019)<br>
-<strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress towards 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>
+<strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress toward 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>
 
 **Broadcast media**<br>
 22 TV stations operate nationally, with 17 of them in private hands; publicly operated Czech Television has 5 national channels; throughout the country, there are some 350 TV channels in operation, many through cable, satellite, and IPTV subscription services; 63 radio broadcasters are registered, operating over 80 radio stations, including 7 multiregional radio stations or networks; publicly operated broadcaster Czech Radio operates 4 national, 14 regional, and 4 Internet stations; both Czech Radio and Czech Television are partially financed through a license fee (2019)<br>
@@ -689,11 +689,11 @@ Decin, Usti nad Labem (Elbe)<br>
 Czech Armed Forces: Land Forces; Air Forces; Cyber Forces; Special Forces (2022)<br>
 
 **Military expenditures**<br>
-1.4% of GDP (2021 est.)<br>
+1.3% of GDP (2022 est.)<br>
+1.4% of GDP (2021)<br>
 1.3% of GDP (2020)<br>
 1.2% of GDP (2019) (approximately $4.05 billion)<br>
 1.1% of GDP (2018) (approximately $3.8 billion)<br>
-1% of GDP (2017) (approximately $3.4 billion)<br>
 
 **Military and security service personnel strengths**<br>
 approximately 26,000 active personnel (20,000 Army; 6,000 Air Force) (2022)<br>
@@ -719,7 +719,7 @@ Czechia joined NATO in 1999; Czechia, Hungary, and Poland were invited to begin 
 <p>none</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 442,443 (Ukraine) (as of 4 October 2022)<br>
+_refugees (country of origin)_: 442,440 (Ukraine) (as of 11 October 2022)<br>
 _stateless persons_: 1,498 (mid-year 2021)<br>
 
 **Illicit drugs**<br>

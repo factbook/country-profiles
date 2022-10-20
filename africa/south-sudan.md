@@ -175,7 +175,7 @@ _unimproved: rural_: rural: 24.2% of population<br>
 _unimproved: total_: total: 21.6% of population (2020 est.)<br>
 
 **Current health expenditure**<br>
-6% (2019)<br>
+6% of GDP (2019)<br>
 
 **Sanitation facility access**<br>
 _improved: urban_: urban: 60.6% of population<br>
@@ -331,7 +331,7 @@ _election results_: <em>2010</em>: Salva KIIR Mayardit elected leader of then-So
 **Legislative branch**<br>
 _description_: bicameral National Legislature consists of:<br>Council of States, pending establishment as stipulated by the 2018 peace deal<br>Transitional National Legislative Assembly (TNLA), established on 4 August 2016, in accordance with the August 2015 Agreement on the Resolution of the Conflict in the Republic of South Sudan; note - originally 400 seats; the TNLA was expanded to 550 members from 400 and reestablished in May 2020 under the 2018 peace agreement<br>
 _elections_: Council of States - pending establishment as stipulated by the 2018 peace deal<br>Transitional National Legislative Assembly - 550 members; percent of vote by party - NA; seats by party - 332 SPLM, 128 SPLM-IO, 90 other political parties; composition - NA<br>
-_election results_: <br>Council of States - percent of vote by party - NA; seats by party - SPLM 20, unknown 30; composition - men 44, women 6, percent of women 12%<br>National Legislative Assembly - percent of vote by party - NA; seats by party - SPLM 251, DCP 10, independent 6, unknown 133; composition - men 291, women 109, percent of women 27.3%; note - total National Legislature percent of women 25.6%<br>
+_election results_: Council of States - percent of vote by party - NA; seats by party - SPLM 20, unknown 30; composition - men 44, women 6, percent of women 12%<br>National Legislative Assembly - percent of vote by party - NA; seats by party - SPLM 251, DCP 10, independent 6, unknown 133; composition - men 291, women 109, percent of women 27.3%; note - total National Legislature percent of women 25.6%<br>
 
 **Judicial branch**<br>
 _highest courts_: Supreme Court of South Sudan - pending formation (will likely consist of a chief and deputy chief justices as well as 9 other justices)<br>
@@ -339,7 +339,7 @@ _judge selection and term of office_: justices will be appointed by the presiden
 _subordinate courts_: national level - Courts of Appeal; High Courts; County Courts; state level - High Courts; County Courts; customary courts; other specialized courts and tribunals<br>
 
 **Political parties and leaders**<br>
-Sudan People's Liberation Movement or SPLM [Salva KIIR Mayardit]<br>Sudan People’s Liberation Movement-Former Detainees [Rebecca Nyandeng Chol GARANG de Mabior]<br>Sudan People’s Liberation Movement-In Opposition or SPLM-IO [Riek MACHAR Teny Dhurgon]<br>South Sudan Opposition Alliance or SSOA [Hussein ABDELBAGI Ayii]<br>
+<p>Democratic Change or DC<br>Democratic Forum or DF<br>Labour Party or LPSS [Federico Awi VUNI]<br>South Sudan Opposition Alliance or SSOA [Hussein ABDELBAGI Ayii]<br>Sudan African National Union or SANU [Toby MADOUT]<br>Sudan People's Liberation Movement or SPLM [Salva KIIR Mayardit]<br>Sudan People’s Liberation Movement-In Opposition or SPLM-IO [Riek MACHAR Teny Dhurgon]<br>United Democratic Salvation Front or UDSF    <br>United South Sudan African Party or USSAP [Louis Pasquale ALEU, Secretary]<br>United South Sudan Party or USSP [Paulino LUKUDU Obede]     </p> <strong>note:</strong> only parties with seats in the Transitional National Legislative Assembly included<br>
 
 **International organization participation**<br>
 AU, FAO, G-77, IBRD, ICAO, ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, Interpol, IOM, IPU, ITU, MIGA, UN, UNCTAD, UNESCO, UPU, WCO, WHO, WMO<br>
@@ -632,7 +632,7 @@ the South Sudan People’s Defense Force (SSPDF), formerly the Sudan People’s 
 
 **Refugees and internally displaced persons**<br>
 _refugees (country of origin)_: 309,849 (Sudan), 19,452 (Democratic Republic of the Congo) (2022)<br>
-_IDPs_: 2,017,236 (alleged coup attempt and ethnic conflict beginning in December 2013; information is lacking on those displaced in earlier years by: fighting in Abyei between the Sudanese Armed Forces and the Sudan People's Liberation Army (SPLA) in May 2011; clashes between the SPLA and dissident militia groups in South Sudan; inter-ethnic conflicts over resources and cattle; attacks from the Lord's Resistance Army; floods and drought) (2022)<br>
+_IDPs_: 2.23 million (alleged coup attempt and ethnic conflict beginning in December 2013; information is lacking on those displaced in earlier years by: fighting in Abyei between the Sudanese Armed Forces and the Sudan People's Liberation Army (SPLA) in May 2011; clashes between the SPLA and dissident militia groups in South Sudan; inter-ethnic conflicts over resources and cattle; attacks from the Lord's Resistance Army; floods and drought) (2022)<br>
 _stateless persons_: 10,000 (mid-year 2021)<br>
 
 **Trafficking in persons**<br>
