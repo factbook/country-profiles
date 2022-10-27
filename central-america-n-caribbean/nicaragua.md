@@ -75,9 +75,6 @@ the overwhelming majority of the population resides in the western half of the c
 **Geography - note**<br>
 largest country in Central America; contains the largest freshwater body in Central America, Lago de Nicaragua<br>
 
-**Map description**<br>
-<p>Nicaragua map showing major cities as well as parts of surrounding countries and the North Pacific Ocean and Caribbean Sea.</p><br>
-
 ## People and Society
 
 **Population**<br>
@@ -151,7 +148,7 @@ _total population_: 0.95 male(s)/female (2022 est.)<br>
 
 **Mother's mean age at first birth**<br>
 19.2 years (2011/12 est.)<br>
-<strong>note:</strong> median age at first birth among women 25-29<br>
+<strong>note:</strong> data represents median age at first birth among women 25-29<br>
 
 **Maternal mortality ratio**<br>
 198 deaths/100,000 live births (2017 est.)<br>
@@ -351,7 +348,7 @@ _elections_: last held on 7 November 2021 (next to be held on 1 November 2026)<b
 _election results_: percent of vote by party - NA; seats by party - FSLN 75, PLC 10, ALN 2, APRE 1, PLI 2, YATAMA 1; composition - men 45, women 46, percent of women 50.6%<br>
 
 **Judicial branch**<br>
-_highest courts_: Supreme Court or Corte Suprema de Justicia (consists of 16 judges organized into administrative, civil, criminal, and constitutional chambers)<br>
+_highest court(s)_: Supreme Court or Corte Suprema de Justicia (consists of 16 judges organized into administrative, civil, criminal, and constitutional chambers)<br>
 _judge selection and term of office_: Supreme Court judges elected by the National Assembly to serve 5-year staggered terms<br>
 _subordinate courts_: Appeals Court; first instance civil, criminal, and labor courts; military courts are independent of the Supreme Court<br>
 
@@ -615,7 +612,7 @@ _subscriptions per 100 inhabitants_: 90 (2020 est.)<br>
 _general assessment_: Nicaragua&rsquo;s telecoms market has mirrored the country&rsquo;s poor economic achievements, with fixed-line teledensity and mobile penetration also being the lowest in Central America. The fixed line broadband market remains nascent, with population penetration below 4%. Most internet users are concentrated in the largest cities, given that rural and marginal areas lack access to the most basic telecom infrastructure; internet caf&eacute;s provide public access to internet and email services, but these also tend to be restricted to the larger population centers; to address poor infrastructure, the World Bank has funded a project aimed at improving connectivity via a national fiber broadband network; there are separate schemes to improve broadband in eastern regions and provide links to Caribbean submarine cables; Am&eacute;rica M&oacute;vil&rsquo;s Claro has a clear lead in all of Nicaragua&rsquo;s telecom sectors, including fixed-line, mobile, broadband, and pay TV; the number of mobile subscribers overtook the number of fixed lines in early 2002, and the mobile sector now accounts for most lines in service; Telef&oacute;nica sold its operations in Nicaragua to Millicom in 2019; Millicom&rsquo;s Tigo (previously Telef&oacute;nica&rsquo;s Movistar) is the only company competing with Claro in the fixed-line and mobile market; in the mobile sector, Tigo holds almost a third of the market, but in the fixed-line sector it has only about 10% market share; other companies operating in the market, including the Russian state corporation Rostejnologuii, Yota Mobile and IWB Holding; in the mobile market China&rsquo;s Xinwei Nicaragua (Xinwei Intelcom) launched services in early 2016, operating under the CooTel banner. (2021)<br>
 _domestic_: since privatization, access to fixed-line and mobile-cellular services has improved; fixed-line teledensity roughly 3 per 100 persons; mobile-cellular telephone subscribership has increased to roughly 90 per 100 persons (2020)<br>
 _international_: country code - 505; landing point for the ARCOS fiber-optic submarine cable which provides connectivity to South and Central America, parts of the Caribbean, and the US; satellite earth stations - 1 Intersputnik (Atlantic Ocean region) and 1 Intelsat (Atlantic Ocean) (2019)<br>
-<strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress towards 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>
+<strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress toward 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>
 
 **Broadcast media**<br>
 multiple terrestrial TV stations, supplemented by cable TV in most urban areas; nearly all are government-owned or affiliated; more than 300 radio stations, both government-affiliated and privately owned (2019)<br>

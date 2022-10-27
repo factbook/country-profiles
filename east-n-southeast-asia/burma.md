@@ -79,9 +79,6 @@ destructive earthquakes and cyclones; flooding and landslides common during rain
 **Geography - note**<br>
 strategic location near major Indian Ocean shipping lanes; the north-south flowing Irrawaddy River is the country's largest and most important commercial waterway<br>
 
-**Map description**<br>
-<p>Burma map showing major cities as well as parts of surrounding countries and the Andaman Sea.</p><br>
-
 ## People and Society
 
 **Population**<br>
@@ -158,7 +155,7 @@ _total population_: 0.97 male(s)/female (2022 est.)<br>
 
 **Mother's mean age at first birth**<br>
 24.7 years (2015/16 est.)<br>
-<strong>note:</strong> median age at first birth among women 25-49<br>
+<strong>note:</strong> data represents median age at first birth among women 25-49<br>
 
 **Maternal mortality ratio**<br>
 250 deaths/100,000 live births (2017 est.)<br>
@@ -386,7 +383,7 @@ _elections_: House of Nationalities - last held on 8 November 2020 (next to be h
 _election results_: House of Nationalities - percent of vote by party - NLD 61.6%, USDP 3.1%, ANP 1.8%, MUP 1.3%, KySDP 1.3%, other 5.9%, military appointees 25%; seats by party - NLD 138, USDP 7, ANP 4, MUP 3, KySPD 3, SNLD 2, TNP 2, other 2, canceled due to insurgency 7, military appointees 56 <br><br>House of Representatives - percent of vote by party - NLD 58.6%, USDP 5.9%, SNLD 3.0%, other 7.5%, military 25%; seats by party - NLD 258, USDP 26, SNLD 13, ANP 4, PNO 3, TNP 3, MUP 2, KySPD 2, other 4, canceled due to insurgency 15, military appointees 110<br>
 
 **Judicial branch**<br>
-_highest courts_: Supreme Court of the Union (consists of the chief justice and 7-11 judges)<br>
+_highest court(s)_: Supreme Court of the Union (consists of the chief justice and 7-11 judges)<br>
 _judge selection and term of office_: chief justice and judges nominated by the president, with approval of the Lower House, and appointed by the president; judges normally serve until mandatory retirement at age 70<br>
 _subordinate courts_: High Courts of the Region; High Courts of the State; Court of the Self-Administered Division; Court of the Self-Administered Zone; district and township courts; special courts (for juvenile, municipal, and traffic offenses); courts martial<br>
 
@@ -729,7 +726,7 @@ Burmese Defense Service (Tatmadaw): Army (Tatmadaw Kyi), Navy (Tatmadaw Yay), Ai
 estimates vary widely, from approximately 300,000 to as many as 400,000 active duty personnel (2022)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the Burmese military inventory is comprised mostly of older Chinese and Russian/Soviet-era equipment with a smaller mix of more modern acquisitions; since 2010, China and Russia have been the leading suppliers of military hardware; Burma has a limited defense industry, including a growing shipbuilding capability (2021)<br>
+the Burmese military inventory is comprised mostly of older Chinese and Russian/Soviet-era equipment with a smaller mix of more modern acquisitions; since 2010, China and Russia have been the leading suppliers of military hardware; Burma has a limited defense industry, including a growing shipbuilding capability (2022)<br>
 
 **Military service age and obligation**<br>
 18-35 years of age (men) and 18-27 years of age (women) for voluntary military service; no conscription (a 2010 law reintroducing conscription has not yet entered into force); 2-year service obligation; male (ages 18-45) and female (ages 18-35) professionals (including doctors, engineers, mechanics) serve up to 3 years; service terms may be stretched to 5 years in an officially declared emergency (2021)<br>

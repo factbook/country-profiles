@@ -66,9 +66,6 @@ the narrow fringing reef surrounding the island can be a maritime hazard<br>
 **Geography - note**<br>
 located along major sea lanes of the Indian Ocean<br>
 
-**Map description**<br>
-<p>Christmas Island map showing the Australian territory in the Indian Ocean.</p><br>
-
 ## People and Society
 
 **Population**<br>
@@ -224,7 +221,7 @@ _elections_: held every 2 years with half the members standing for election; las
 _election results_: percent of vote - NA; seats by party - independent 9; composition as of 17 October 2021 - men 8, women 1, percent of women 11.1%<br>
 
 **Judicial branch**<br>
-_highest courts_: under the terms of the Territorial Law Reform Act 1992, Western Australia provides court services as needed for the island, including the Supreme Court and subordinate courts (District Court, Magistrate Court, Family Court, Children's Court, and Coroners' Court)<br>
+_highest court(s)_: under the terms of the Territorial Law Reform Act 1992, Western Australia provides court services as needed for the island, including the Supreme Court and subordinate courts (District Court, Magistrate Court, Family Court, Children's Court, and Coroners' Court)<br>
 
 **Political parties and leaders**<br>
 none<br>

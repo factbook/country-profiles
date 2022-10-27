@@ -76,9 +76,6 @@ flooding is a threat along rivers and in areas of reclaimed coastal land, protec
 **Geography - note**<br>
 crossroads of Western Europe; most West European capitals are within 1,000 km of Brussels, the seat of both the EU and NATO<br>
 
-**Map description**<br>
-<p>Belgium map showing major cities as well as parts of surrounding countries and the North Sea.</p><br>
-
 ## People and Society
 
 **Population**<br>
@@ -351,7 +348,7 @@ _election results_: <br>Senate - percent of vote by party - N-VA 15%, VB 12%, PS
 <strong>note:</strong> the 1993 constitutional revision that further devolved Belgium into a federal state created three levels of government (federal, regional, and linguistic community) with a complex division of responsibilities; this reality leaves six governments, each with its own legislative assembly; changes above occurred since the sixth state reform<br>
 
 **Judicial branch**<br>
-_highest courts_: Constitutional Court or Grondwettelijk Hof (in Dutch) and Cour Constitutionelle (in French) (consists of 12 judges - 6 Dutch-speaking and 6 French-speaking); Supreme Court of Justice or Hof van Cassatie (in Dutch) and Cour de Cassation (in French) (court organized into 3 chambers: civil and commercial; criminal; social, fiscal, and armed forces; each chamber includes a Dutch division and a French division, each with a chairperson and 5-6 judges)<br>
+_highest court(s)_: Constitutional Court or Grondwettelijk Hof (in Dutch) and Cour Constitutionelle (in French) (consists of 12 judges - 6 Dutch-speaking and 6 French-speaking); Supreme Court of Justice or Hof van Cassatie (in Dutch) and Cour de Cassation (in French) (court organized into 3 chambers: civil and commercial; criminal; social, fiscal, and armed forces; each chamber includes a Dutch division and a French division, each with a chairperson and 5-6 judges)<br>
 _judge selection and term of office_: Constitutional Court judges appointed by the monarch from candidates submitted by Parliament; judges appointed for life with mandatory retirement at age 70; Supreme Court judges appointed by the monarch from candidates submitted by the High Council of Justice, a 44-member independent body of judicial and non-judicial members; judges appointed for life<br>
 _subordinate courts_: Courts of Appeal; regional courts; specialized courts for administrative, commercial, labor, immigration, and audit issues; magistrate's courts; justices of the peace<br>
 
@@ -609,7 +606,7 @@ _total subscriptions_: 11,529,728 (2020 est.)<br>
 _subscriptions per 100 inhabitants_: 99 (2020 est.)<br>
 
 **Telecommunication systems**<br>
-_general assessment_: Belgium&rsquo;s mobile market is served by the three network operators Proximus, Orange Belgium, and BASE, and by a good number of Mobile Virtual Network Operators; mobile networks have been upgraded to support growing mobile data use among subscribers, with near-comprehensive LTE coverage; operators have also trialed 5G in preparation for launching services; the auction of 5G-suitable spectrum has been delayed to the beginning of 2022, while the onerous restrictions on radiation have meant that some 5G trials have been suspended; there is effective competition in Belgium between the DSL and cable platforms, while in recent years government support has also encouraged investment in fiber networks; Telenet, supported by its parent Liberty Global, has extended the reach of services based on the DOCSIS3.1 standard, while Proximus also has extensive fiber/Very high-speed digital subscriber line and FttP deployments and is currently investing in $2.9 billion 'Fiber for Belgium' program through 2027; in a bid to encourage investment in under served areas, the regulator in 2018 amended the conditions by which market players grant wholesale access to copper and fiber infrastructure; in May 2019 it opened a further consultation on cost models for access to the networks of cablecos and those of Proximus&rsquo;s fiber infrastructure. (2021)<br>
+_general assessment_: mobile networks have been upgraded to support growing mobile data use among subscribers, with near-comprehensive LTE coverage; operators have also trialed 5G in preparation for launching services; the auction of 5G-suitable spectrum has been delayed to the beginning of 2022, while the onerous restrictions on radiation have meant that some 5G trials have been suspended; there is effective competition in Belgium between the DSL and cable platforms, while in recent years government support has also encouraged investment in fiber networks; in a bid to encourage investment in under served areas, the regulator in 2018 amended the conditions by which market players grant wholesale access to copper and fiber infrastructure; in May 2019 it opened a further consultation on cost models for access to the networks of cablecos and those of Proximus&rsquo;s fiber infrastructure. (2021)<br>
 _domestic_: about 31 per 100 fixed-line and 99 per 100 mobile-cellular; nationwide mobile-cellular telephone system; extensive cable network; limited microwave radio relay network (2020)<br>
 _international_: country code - 32; landing points for Concerto, UK-Belgium, Tangerine, and SeaMeWe-3, submarine cables that provide links to Europe, the Middle East, Australia, and Asia; satellite earth stations - 7 (Intelsat - 3) (2019)<br>
 <strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress toward 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>
@@ -723,7 +720,7 @@ Islamic Revolutionary Guard Corps/Qods Force; Islamic State of Iraq and ash-Sham
 <p>none identified</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 18,493 (Syria), 5,094 (Iraq) (2020); 57,423 (Ukraine) (as of 11 October 2022)<br>
+_refugees (country of origin)_: 18,493 (Syria), 5,094 (Iraq) (2020); 58,019 (Ukraine) (as of 17 October 2022)<br>
 _stateless persons_: 1,159 (mid-year 2021)<br>
 
 **Illicit drugs**<br>

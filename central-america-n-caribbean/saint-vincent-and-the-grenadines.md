@@ -71,9 +71,6 @@ most of the population is concentrated in and around the capital of Kingstown<br
 **Geography - note**<br>
 the administration of the islands of the Grenadines group is divided between Saint Vincent and the Grenadines and Grenada; Saint Vincent and the Grenadines is comprised of 32 islands and cays<br>
 
-**Map description**<br>
-<p>Saint Vincent and the Grenadines map showing the islands that comprise this archipelagic country in the Caribbean Sea.</p><br>
-
 ## People and Society
 
 **Population**<br>
@@ -318,7 +315,7 @@ _elections_: last held on 5 November 2020 (next to be held in 2025)<br>
 _election results_: percent of vote by party - ULP 49.58%, NDP 50.34%, other 0.8%; seats by party - ULP 9, NDP 6<br>
 
 **Judicial branch**<br>
-_highest courts_: the Eastern Caribbean Supreme Court (ECSC) is the superior court of the Organization of Eastern Caribbean States; the ECSC - headquartered on St. Lucia - consists of the Court of Appeal - headed by the chief justice and 4 judges - and the High Court with 18 judges; the Court of Appeal is itinerant, traveling to member states on a schedule to hear appeals from the High Court and subordinate courts; High Court judges reside in the member states, with 2 assigned to Saint Vincent and the Grenadines; note - Saint Vincent and the Grenadines is also a member of the Caribbean Court of Justice<br>
+_highest court(s)_: the Eastern Caribbean Supreme Court (ECSC) is the superior court of the Organization of Eastern Caribbean States; the ECSC - headquartered on St. Lucia - consists of the Court of Appeal - headed by the chief justice and 4 judges - and the High Court with 18 judges; the Court of Appeal is itinerant, traveling to member states on a schedule to hear appeals from the High Court and subordinate courts; High Court judges reside in the member states, with 2 assigned to Saint Vincent and the Grenadines; note - Saint Vincent and the Grenadines is also a member of the Caribbean Court of Justice<br>
 _judge selection and term of office_: chief justice of Eastern Caribbean Supreme Court appointed by Her Majesty, Queen ELIZABETH II; other justices and judges appointed by the Judicial and Legal Services Commission, an independent body of judicial officials; Court of Appeal justices appointed for life with mandatory retirement at age 65; High Court judges appointed for life with mandatory retirement at age 62<br>
 _subordinate courts_: magistrates' courts<br>
 
@@ -554,7 +551,7 @@ _subscriptions per 100 inhabitants_: 87 (2020 est.)<br>
 _general assessment_: adequate island-wide, fully automatic telephone system; broadband access; expanded FttP (Fiber to the Home) markets; LTE launches; regulatory development; telecom sector contributes greatly to the overall GDP; telecom sector is a growth area (2020)<br>
 _domestic_: fixed-line teledensity exceeds 11 per 100 persons and mobile-cellular teledensity is about 87 per 100 persons (2020)<br>
 _international_: country code - 1-784;&nbsp;landing points for the ECFS, CARCIP&nbsp;and Southern Caribbean Fiber submarine cables providing connectivity to US and Caribbean Islands; connectivity also provided by VHF/UHF radiotelephone from Saint Vincent to Barbados; SHF radiotelephone to Grenada and Saint Lucia; access to Intelsat earth station in Martinique through Saint Lucia (2019)<br>
-<strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress towards 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>
+<strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress toward 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>
 
 **Broadcast media**<br>
 St. Vincent and the Grenadines Broadcasting Corporation operates 1 TV station and 5 repeater stations that provide near total coverage to the multi-island state; multi-channel cable TV service available; a partially government-funded national radio service broadcasts on 1 station and has 2 repeater stations; about a dozen privately owned radio stations and repeater stations<br>

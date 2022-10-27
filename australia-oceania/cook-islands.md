@@ -70,9 +70,6 @@ tropical cyclones (November to March)<br>
 **Geography - note**<br>
 the northern Cook Islands are seven low-lying, sparsely populated, coral atolls; the southern Cook Islands, where most of the population lives, consist of eight elevated, fertile, volcanic isles, including the largest, Rarotonga, at 67 sq km<br>
 
-**Map description**<br>
-<p>Cook Islands map showing the islands positioned in the South Pacific Ocean.</p><br>
-
 ## People and Society
 
 **Population**<br>
@@ -311,7 +308,7 @@ _elections_: last held on 14 June 2018 (next to be held by 2022)<br>
 _election results_: percent of vote by party - NA; seats by party - Demo 11, CIP 10, One Cook Islands Movement 1, independent 2; composition - men 17, women 7, percent of women 17.7%<br>
 
 **Judicial branch**<br>
-_highest courts_: Court of Appeal (consists of the chief justice and 3 judges of the High Court); High Court (consists of the chief justice and at least 4 judges and organized into civil, criminal, and land divisions); note - appeals beyond the Cook Islands Court of Appeal are heard by the Judicial Committee of the Privy Council (in London)<br>
+_highest court(s)_: Court of Appeal (consists of the chief justice and 3 judges of the High Court); High Court (consists of the chief justice and at least 4 judges and organized into civil, criminal, and land divisions); note - appeals beyond the Cook Islands Court of Appeal are heard by the Judicial Committee of the Privy Council (in London)<br>
 _judge selection and term of office_: High Court chief justice appointed by the Queen's Representative on the advice of the Executive Council tendered by the prime minister; other judges appointed by the Queen's Representative, on the advice of the Executive Council tendered by the chief justice, High Court chief justice, and the minister of justice; chief justice and judges appointed for 3-year renewable terms<br>
 _subordinate courts_: justices of the peace<br>
 

@@ -78,9 +78,6 @@ none<br>
 **Geography - note**<br>
 a small population and oil and mineral reserves have helped Gabon become one of Africa's wealthier countries; in general, these circumstances have allowed the country to maintain and conserve its pristine rain forest and rich biodiversity<br>
 
-**Map description**<br>
-<p>Gabon map showing major cities and towns as well as parts of surrounding countries and the Atlantic Ocean.</p><br>
-
 ## People and Society
 
 **Population**<br>
@@ -154,7 +151,7 @@ _total population_: 1.08 male(s)/female (2022 est.)<br>
 
 **Mother's mean age at first birth**<br>
 19.6 years (2012 est.)<br>
-<strong>note:</strong> median age at first birth among women 20-49<br>
+<strong>note:</strong> data represents median age at first birth among women 20-49<br>
 
 **Maternal mortality ratio**<br>
 252 deaths/100,000 live births (2017 est.)<br>
@@ -356,7 +353,7 @@ _elections_: <br>Senate - last held on 30 January and 6 February 2021 (next to b
 _election results_: <br>Senate - percent of vote by party - NA; seats by party - PDG 81, CLR 7, PSD 2, ADERE-UPG 1, UPG 1, PGCI 1, independent 7; composition - NA<br>National Assembly - percent of vote by party - NA; seats by party - PDG 98, The Democrats or LD 11, RV 8, Social Democrats of Gabon 5, RH&amp;M 4, other 9, independent 8; composition - men 121, women 22, percent of women 15.4%; note - total Parliament percent of women NA<br>
 
 **Judicial branch**<br>
-_highest courts_: Supreme Court (consists of 4 permanent specialized supreme courts - Supreme Court or Cour de Cassation, Administrative Supreme Court or Conseil d'Etat, Accounting Supreme Court or Cour des Comptes, Constitutional Court or Cour Constitutionnelle, and the non-permanent Court of State Security, initiated only for cases of high treason by the president and criminal activity by executive branch officials)<br>
+_highest court(s)_: Supreme Court (consists of 4 permanent specialized supreme courts - Supreme Court or Cour de Cassation, Administrative Supreme Court or Conseil d'Etat, Accounting Supreme Court or Cour des Comptes, Constitutional Court or Cour Constitutionnelle, and the non-permanent Court of State Security, initiated only for cases of high treason by the president and criminal activity by executive branch officials)<br>
 _judge selection and term of office_: appointment and tenure of Supreme, Administrative, Accounting, and State Security courts NA; Constitutional Court judges appointed - 3 by the national president, 3 by the president of the Senate, and 3 by the president of the National Assembly; judges serve single renewable 7-year terms<br>
 _subordinate courts_: Courts of Appeal; county courts; military courts<br>
 
@@ -609,7 +606,7 @@ _total subscriptions_: 3,049,530 (2020 est.)<br>
 _subscriptions per 100 inhabitants_: 137 (2020 est.)<br>
 
 **Telecommunication systems**<br>
-_general assessment_: the telecom market was liberalized in 1999 when the government awarded three mobile telephony licenses and two ISP licenses and established an independent regulatory authority; Moov Gabon (known as Gabon Telecom before a rebranding exercise in January 2021), was privatized in 2007 when Maroc Telecom bought a 51% stake in the network; in June 2016 Maroc Telecom merged its two business in Gabon, thereby reducing the number of mobile networks from four to three; the 2009 entry of USAN (operated by Bintel Group under the brand name Azur) into a competitive market with high subscriptions triggered a price war that saw falling revenue and profits, forcing the networks to streamline their businesses and to look for new income streams; following more than a year of delays, a license to offer 3G mobile broadband services was awarded in late 2011; Azur failed and ceased trading in late 2017, encumbered by debts and fined by the regulator for failing to observe its quality of service obligations; in contrast with the mobile market, Gabon&rsquo;s fixed-line and internet sectors have remained underdeveloped due to a lack of competition and high prices; the country has sufficient international bandwidth on the SAT-3/WASC/SAFE submarine cable but this facility is monopolized by Moov Gabon; the arrival of the ACE submarine cable, combined with progressing work on the CAB cable, has increased back haul capacity supporting mobile data traffic, and broke Moov Gabon&rsquo;s monopoly on international internet traffic. (2022)<br>
+_general assessment_: the telecom market was liberalized in 1999 when the government awarded three mobile telephony licenses and two ISP licenses and established an independent regulatory authority; in contrast with the mobile market, Gabon&rsquo;s fixed-line and internet sectors have remained underdeveloped due to a lack of competition and high prices; the country has sufficient international bandwidth on the SAT-3/WASC/SAFE submarine cable; the arrival of the ACE submarine cable, combined with progressing work on the CAB cable, has increased back haul capacity supporting mobile data traffic (2022)<br>
 _domestic_: fixed-line is a little over 1 per 100 subscriptions; a growing mobile cellular network with multiple providers is making telephone service more widely available with mobile cellular teledensity at nearly 139 per 100 persons (2020)<br>
 _international_: country code - 241; landing points for the SAT-3/WASC, ACE and Libreville-Port Gentil Cable&nbsp;fiber-optic submarine cable that provides connectivity to Europe and West Africa; satellite earth stations - 3 Intelsat (Atlantic Ocean) (2019)<br>
 <strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress toward 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>

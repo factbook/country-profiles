@@ -79,9 +79,6 @@ hot, dry, dusty harmattan winds affect northern areas; floods are common<br>
 **Geography - note**<br>
 landlocked; almost the precise center of Africa<br>
 
-**Map description**<br>
-<p>Central African Republic map showing major cities as well as parts of surrounding countries.</p><br>
-
 ## People and Society
 
 **Population**<br>
@@ -376,7 +373,7 @@ _elections_: first round last held on 27 December 2020; note - on election day, 
 _election results_: December 2015 election: percent of vote by party - NA; seats by party - UNDP 16, URCA 11, RDC 8, MLPC 10, KNK 7, other 28, independent 60; composition as of March 2022 - men 122, women 18, percent of women 12.9%<br>
 
 **Judicial branch**<br>
-_highest courts_: Supreme Court or Cour Supreme (consists of NA judges); Constitutional Court (consists of 9 judges, at least 3 of whom are women)<br>
+_highest court(s)_: Supreme Court or Cour Supreme (consists of NA judges); Constitutional Court (consists of 9 judges, at least 3 of whom are women)<br>
 _judge selection and term of office_: Supreme Court judges appointed by the president; Constitutional Court judge appointments - 2 by the president, 1 by the speaker of the National Assembly, 2 elected by their peers, 2 are advocates elected by their peers, and 2 are law professors elected by their peers; judges serve 7-year non-renewable terms<br>
 _subordinate courts_: high courts; magistrates' courts<br>
 

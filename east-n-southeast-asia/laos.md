@@ -76,9 +76,6 @@ floods, droughts<br>
 **Geography - note**<br>
 landlocked; most of the country is mountainous and thickly forested; the Mekong River forms a large part of the western boundary with Thailand<br>
 
-**Map description**<br>
-<p>Laos map showing major cities as well as parts of surrounding countries.</p><br>
-
 ## People and Society
 
 **Population**<br>
@@ -366,7 +363,7 @@ _elections_: last held on 21 February 2021 (next to be held in 2026)<br>
 _election results_: percent of vote by party - NA; seats by party - LPRP 158, independent 6; composition - men 128, women 36, percent of women 21.9%<br>
 
 **Judicial branch**<br>
-_highest courts_: People's Supreme Court (consists of the court president and organized into criminal, civil, administrative, commercial, family, and juvenile chambers, each with a vice president and several judges)<br>
+_highest court(s)_: People's Supreme Court (consists of the court president and organized into criminal, civil, administrative, commercial, family, and juvenile chambers, each with a vice president and several judges)<br>
 _judge selection and term of office_: president of People's Supreme Court appointed by the National Assembly upon the recommendation of the president of the republic for a 5-year term; vice presidents of the People's Supreme Court appointed by the president of the republic upon the recommendation of the National Assembly; appointment of chamber judges NA; tenure of court vice presidents and chamber judges NA<br>
 _subordinate courts_: appellate courts; provincial, municipal, district, and military courts<br>
 
@@ -625,7 +622,7 @@ _subscriptions per 100 inhabitants_: 56 (2020 est.)<br>
 _general assessment_: Laos joined the World Trade Organisation (WTO) in 2013; one of the conditions of admittance was to establish an independent regulator for its telecom sector within two years; the government had committed to do so by February 2015 as part of the accession agreement; there still has been no sign of any firm plans being made to create an independent regulatory body; the Ministry of Posts and Telecommunications (MPT) retains the primary role in regulating the country&rsquo;s telecom market; with the government also having a financial stake (in part or in whole) in every one of the major fixed-line and mobile operators, the MPT&rsquo;s position and decision-making is far from what could be considered independent; sufficient returns on investment cannot be guaranteed with such strict pricing controls as well as the potential for political interference; fixed-line and mobile penetration levels have, as a result, remained much lower than what&rsquo;s seen in neighboring South East Asian markets; there are signs of growth in the mobile broadband segment as LTE network coverage slowly widens and, more recently, the country&rsquo;s first 5G services start to come on stream; residents in the capital will at least be able to enjoy high-speed services in the near future, while the rest of the country waits patiently to catch up with the rest of the world. (2022)<br>
 _domestic_: fixed-line nearly 21 per 100 and 61 per 100 for mobile-cellular subscriptions (2019)<br>
 _international_: country code - 856; satellite earth station - 1 Intersputnik (Indian Ocean region) and a second to be developed by China<br>
-<strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress towards 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>
+<strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress toward 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>
 
 **Broadcast media**<br>
 6 TV stations operating out of Vientiane - 3 government-operated and the others commercial; 17 provincial stations operating with nearly all programming relayed via satellite from the government-operated stations in Vientiane; Chinese and Vietnamese programming relayed via satellite from Lao National TV; broadcasts available from stations in Thailand and Vietnam in border areas; multi-channel satellite and cable TV systems provide access to a wide range of foreign stations; state-controlled radio with state-operated Lao National Radio (LNR) broadcasting on 5 frequencies - 1 AM, 1 SW, and 3 FM; LNR's AM and FM programs are relayed via satellite constituting a large part of the programming schedules of the provincial radio stations; Thai radio broadcasts available in border areas and transmissions of multiple international broadcasters are also accessible<br>

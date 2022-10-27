@@ -76,9 +76,6 @@ large tracts of marshy land<br>
 **Geography - note**<br>
 landlocked; glacial scouring accounts for the flatness of Belarusian terrain and for its 11,000 lakes<br>
 
-**Map description**<br>
-<p>Belarus map showing major cities as well as parts of surrounding countries.</p><br>
-
 ## People and Society
 
 **Population**<br>
@@ -364,7 +361,7 @@ _election results_: <br>Council of the Republic - percent of vote by party - NA;
 <strong>note:</strong> the US does not recognize the legitimacy of the National Assembly<br>
 
 **Judicial branch**<br>
-_highest courts_: Supreme Court (consists of the chairman and deputy chairman and organized into several specialized panels, including economic and military; number of judges set by the president of the republic and the court chairman); Constitutional Court (consists of 12 judges, including a chairman and deputy chairman)<br>
+_highest court(s)_: Supreme Court (consists of the chairman and deputy chairman and organized into several specialized panels, including economic and military; number of judges set by the president of the republic and the court chairman); Constitutional Court (consists of 12 judges, including a chairman and deputy chairman)<br>
 _judge selection and term of office_: Supreme Court judges appointed by the president with the consent of the Council of the Republic; judges initially appointed for 5 years and evaluated for life appointment; Constitutional Court judges - 6 appointed by the president and 6 elected by the Council of the Republic; the presiding judge directly elected by the president and approved by the Council of the Republic; judges can serve for 11 years with an age limit of 70<br>
 _subordinate courts_: oblast courts; Minsk City Court; town courts; Minsk city and oblast economic courts<br>
 
@@ -375,7 +372,7 @@ _subordinate courts_: oblast courts; Minsk City Court; town courts; Minsk city a
 BSEC (observer), CBSS (observer), CEI, CIS, CSTO, EAEC, EAEU, EAPC, EBRD, FAO, GCTU, IAEA, IBRD, ICAO, ICC (NGOs), ICRM, IDA, IFC, IFRCS, ILO, IMF, IMSO, Interpol, IOC, IOM, IPU, ISO, ITU, ITUC (NGOs), MIGA, NAM, NSG, OPCW, OSCE, PCA, PFP, SCO (dialogue member), UN, UNCTAD, UNESCO, UNIDO, UNIFIL, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO (observer), ZC<br>
 
 **Diplomatic representation in the US**<br>
-_chief of mission_: Ambassador (vacant; recalled by Belarus in 2008); Charge d'Affaires Dmitry BASIK (since 9 July 2019)<br>
+_chief of mission_: Ambassador (vacant; recalled by Belarus in 2008); Charge d'Affaires Pavel SHIDLOVSKY (since 9 August 2022)<br>
 _chancery_: 1619 New Hampshire Avenue NW, Washington, DC 20009<br>
 _telephone_: [1] (202) 986-1606<br>
 _FAX_: [1] (202) 986-1805<br>
@@ -716,7 +713,7 @@ the inventory of the Belarus Armed Forces is comprised mostly of Russian/Soviet-
 <strong>note:</strong> conscripts can be assigned to the military, to the Ministry of Interior as internal or border troops, or to the Ministry of Labor and Social Protection (alternative service); as of 2020, conscripts comprised an estimated 40% of the military<br>
 
 **Military - note**<br>
-<p>Belarus has close security ties with Russia, including an integrated air and missile defense system, joint training exercises, and the establishment of three joint training centers since 2020 (1 in Belarus, 2 in Russia); Russia is the principal supplier of arms to Belarus, and Belarusian troops reportedly train on Russian equipment; Russia leases from Belarus a strategic ballistic missile defense site operated by Russian Aerospace Forces and a global communications facility for the Russian Navy; in 2020, the countries signed an agreement allowing for close security cooperation between the Belarusian Ministry of Interior and the Russian National Guard, including protecting public order and key government facilities, and combating extremism and terrorism; in 2022, Belarus allowed Russian military forces to stage on its territory during its invasion of Ukraine<br><br>Belarus has been a member of the Collective Security Treaty Organization (CSTO) since 1994 and contributes an airborne brigade to CSTO's rapid reaction force (KSOR)</p><br>
+Belarus has close security ties with Russia, including an integrated air and missile defense system, joint training exercises, and the establishment of three joint training centers since 2020 (1 in Belarus, 2 in Russia); Russia has been the principal supplier of arms to Belarus, and Belarusian troops reportedly train on Russian equipment; Russia leases from Belarus a strategic ballistic missile defense site operated by Russian Aerospace Forces and a global communications facility for the Russian Navy; in 2020, the countries signed an agreement allowing for close security cooperation between the Belarusian Ministry of Interior and the Russian National Guard, including protecting public order and key government facilities, and combating extremism and terrorism; in 2022, Belarus allowed Russian military forces to stage on its territory during its invasion of Ukraine<br><br>Belarus has been a member of the Collective Security Treaty Organization (CSTO) since 1994 and contributes an airborne brigade to CSTO's rapid reaction force (KSOR) (2022)<br>
 
 ## Transnational Issues
 
@@ -724,7 +721,7 @@ the inventory of the Belarus Armed Forces is comprised mostly of Russian/Soviet-
 <p><em>Belarus-Latvia:</em> Boundary demarcated with Latvia.<br><br><em>Belarus-Lithuania:</em> Boundary demarcated with Lithuania.<br><br><em>Belarus-Poland:</em> As a member state that forms part of the EU's external border, Poland has implemented strict Schengen border rules to restrict illegal immigration and trade along its border with Belarus.</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 15,580 (Ukraine) (as of 11 October 2022)<br>
+_refugees (country of origin)_: 15,853 (Ukraine) (as of 18 October 2022)<br>
 _stateless persons_: 6,104 (mid-year 2021)<br>
 
 **Trafficking in persons**<br>

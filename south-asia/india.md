@@ -85,9 +85,6 @@ with the notable exception of the deserts in the northwest, including the Thar D
 **Geography - note**<br>
 dominates South Asian subcontinent; near important Indian Ocean trade routes; Kanchenjunga, third tallest mountain in the world, lies on the border with Nepal<br>
 
-**Map description**<br>
-<p>India map showing major cities as well as parts of surrounding countries and the Indian Ocean.</p><br>
-
 ## People and Society
 
 **Population**<br>
@@ -158,7 +155,7 @@ _total population_: 1.06 male(s)/female (2022 est.)<br>
 
 **Mother's mean age at first birth**<br>
 21.2 years (2019/21)<br>
-<strong>note:</strong> median age a first birth among women 25-49<br>
+<strong>note:</strong> data represents median age a first birth among women 25-49<br>
 
 **Maternal mortality ratio**<br>
 145 deaths/100,000 live births (2017 est.)<br>
@@ -391,13 +388,13 @@ _elections_: Council of States - last held by state and territorial assemblies a
 _election results_: Council of States - percent of vote by party - NA; seats by party - BJP 97, INC 34, AITC 13, DMK 10, other 2, independent 2; composition - men 209, women 29, percent of women 13.8%<br><br>House of the People - percent of vote by party - BJP 55.8%, INC 9.6%, AITC 4.4%, YSRCP 4.4%, DMK 4.2%, SS 3.3%, JDU 2.9%, BJD 2.2%, BSP 1.8%, TRS 1.7%, LJP 1.1%, NCP 0.9%, SP 0.9%, other 6.4%, independent 0.7%; seats by party - BJP 303, INC 52, DMK 24, AITC 22, YSRCP 22, SS 18, JDU 16, BJD 12, BSP 10, TRS 9, LJP 6, NCP 5, SP 5, other 35, independent 4, vacant 2; composition - men 465, women 78, percent of women 14.3%; note - total Parliament percent of women 11.3%<br>
 
 **Judicial branch**<br>
-_highest courts_: Supreme Court (consists of 28 judges, including the chief justice)<br>
+_highest court(s)_: Supreme Court (consists of 28 judges, including the chief justice)<br>
 _judge selection and term of office_: justices appointed by the president to serve until age 65<br>
 _subordinate courts_: High Courts; District Courts; Labour Court<br>
 <strong>note:</strong> in mid-2011, India’s Cabinet approved the "National Mission for Justice Delivery and Legal Reform" to eliminate judicial corruption and reduce the backlog of cases<br>
 
 **Political parties and leaders**<br>
-Aam Aadmi Party or AAP [Arvind KEJRIWAL]<br>All India Trinamool Congress or AITC [Mamata BANERJEE]<br>Bahujan Samaj Party or BSP [MAYAWATI]<br>Bharatiya Janata Party or BJP [Jagat Prakash NADDA]<br>Biju Janata Dal or BJD [Naveen PATNAIK]<br>Communist Party of India-Marxist or CPI(M) [Sitaram YECHURY]<br>Dravida Munnetra Khazhagam [Muthuvel Karunanidhi STALIN]<br>Indian National Congress or INC [Sonia GANDHI]<br>Nationalist Congress Party or NCP [Sharad PAWAR]<br>Rashtriya Janata Dal or RJD [Lalu Prasad YADAV]<br>Samajwadi Party or SP [Akhilesh YADAV]<br>Shiromani Akali Dal or SAD [Sukhbir Singh BADAL]<br>Shiv Sena or SS [Uddhav THACKERAY]<br>Telegana Rashtra Samithi or TRS [K. Chandrashekar RAO]<br>Telugu Desam Party or TDP [N. Chandrababu NAIDU]<br>YSR Congress or YSRCP or YCP [Y.S. Jaganmohan REDDY]<br>
+Aam Aadmi Party or AAP [Arvind KEJRIWAL]<br>All India Trinamool Congress or AITC [Mamata BANERJEE]<br>Bahujan Samaj Party or BSP [MAYAWATI]<br>Bharatiya Janata Party or BJP [Jagat Prakash NADDA]<br>Biju Janata Dal or BJD [Naveen PATNAIK]<br>Communist Party of India-Marxist or CPI(M) [Sitaram YECHURY]<br>Dravida Munnetra Khazhagam [Muthuvel Karunanidhi STALIN]<br>Indian National Congress or INC [Mallikarjun KHARGE]<br>Nationalist Congress Party or NCP [Sharad PAWAR]<br>Rashtriya Janata Dal or RJD [Lalu Prasad YADAV]<br>Samajwadi Party or SP [Akhilesh YADAV]<br>Shiromani Akali Dal or SAD [Sukhbir Singh BADAL]<br>Shiv Sena or SS [Uddhav THACKERAY]<br>Telegana Rashtra Samithi or TRS [K. Chandrashekar RAO]<br>Telugu Desam Party or TDP [N. Chandrababu NAIDU]<br>YSR Congress or YSRCP or YCP [Y.S. Jaganmohan REDDY]<br>
 <strong>note:</strong> India has dozens of national and regional political parties<br>
 
 **International organization participation**<br>
@@ -751,8 +748,8 @@ information varies; approximately 1.45 million active personnel (estimated 1.25 
 the military's inventory consists mostly of Russian- and Soviet-origin equipment along with a smaller mix of Western and domestically-produced arms; since 2010, Russia has been the leading supplier of arms to India; other key suppliers included France, Israel, and the US; India's defense industry is capable of producing a range of air, land, missile, and naval weapons systems for both domestic use and export; it also produces weapons systems under license (2022)<br>
 
 **Military service age and obligation**<br>
-16-18 years of age for voluntary military service (Army 17.5, Air Force 17, Navy 16.5); no conscription (2022)<br>
-<strong>note 1:</strong> in June 2022, the Indian Government announced that it would begin recruiting 46,000 men aged 17.5-21 annually to serve on 4-year contracts; at the end of their tenure, 25% would be retained for longer terms of service, while the remainder would be forced to leave the military, although some of those leaving would be eligible to serve in the Coast Guard, the Merchant Navy, civilian positions in the Ministry of Defense, and in the paramilitary forces of the Ministry of Home Affairs, such as the Central Armed Police Forces and Assam Rifles<br><br><strong>note 2: </strong>as of 2022, women made up about .59% of the Army, 1.1% of the Air Force, and 6% of the Navy<br>
+ages vary by service, but generally 16.5-27 years of age for voluntary military service for men and women; no conscription (2022)<br>
+<strong>note 1:</strong> in June 2022, the Indian Government announced that it would begin recruiting 46,000 men aged 17.5-21 annually to serve on 4-year contracts under a process called the Agnipath scheme; at the end of their tenure, 25% would be retained for longer terms of service, while the remainder would be forced to leave the military, although some of those leaving would be eligible to serve in the Coast Guard, the Merchant Navy, civilian positions in the Ministry of Defense, and in the paramilitary forces of the Ministry of Home Affairs, such as the Central Armed Police Forces and Assam Rifles<br><br><strong>note 2: </strong>as of 2022, women made up about .59% of the Army, 1.1% of the Air Force, and 6% of the Navy<br>
 
 **Military deployments**<br>
 1,900 Democratic Republic of the Congo (MONUSCO); 110 Golan Heights (UNDOF); 900 Lebanon (UNIFIL); 2,350 South Sudan (UNMISS); 310 Sudan (UNISFA) (May 2022)<br>

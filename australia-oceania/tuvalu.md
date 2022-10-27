@@ -71,9 +71,6 @@ severe tropical storms are usually rare, but in 1997 there were three cyclones; 
 **Geography - note**<br>
 one of the smallest and most remote countries on Earth; six of the nine coral atolls - Nanumea, Nui, Vaitupu, Nukufetau, Funafuti, and Nukulaelae - have lagoons open to the ocean; Nanumaya and Niutao have landlocked lagoons; Niulakita does not have a lagoon<br>
 
-**Map description**<br>
-<p>Tuvalu map showing the major islands that make up this island group in the South Pacific Ocean.</p><br>
-
 ## People and Society
 
 **Population**<br>
@@ -319,7 +316,7 @@ _elections_: last held on 9 September 2019 (next to be held on September 2023)<b
 _election results_: percent of vote - NA; seats - independent 16 (9 members reelected)<br>
 
 **Judicial branch**<br>
-_highest courts_: Court of Appeal (consists of the chief justice and not less than 3 appeals judges); High Court (consists of the chief justice); appeals beyond the Court of Appeal are heard by the Judicial Committee of the Privy Council (in London)<br>
+_highest court(s)_: Court of Appeal (consists of the chief justice and not less than 3 appeals judges); High Court (consists of the chief justice); appeals beyond the Court of Appeal are heard by the Judicial Committee of the Privy Council (in London)<br>
 _judge selection and term of office_: Court of Appeal judges appointed by the governor general on the advice of the Cabinet; judge tenure based on terms of appointment; High Court chief justice appointed by the governor general on the advice of the Cabinet; chief justice serves for life; other judges appointed by the governor general on the advice of the Cabinet after consultation with chief justice; judge tenure set by terms of appointment<br>
 _subordinate courts_: magistrates' courts; island courts; land courts<br>
 
@@ -521,7 +518,7 @@ _subscriptions per 100 inhabitants_: 70.36 (2019)<br>
 _general assessment_: internal communications needs met; small global scale of over 11,000 people on 9 inhabited islands; mobile subscriber penetration about 40% and broadband&nbsp;about 10% penetration; govt. owned and sole provider of telecommunications services;&nbsp;2G widespread; the launch in 2019 of the Kacific-1 satellite will improve the telecommunication sector&nbsp;for the Asia Pacific region (2020)<br>
 _domestic_: radiotelephone communications between islands; fixed-line teledensity over 17 per 100 and mobile-cellular over 70 per 100 (2019)<br>
 _international_: country code - 688; international calls can be made by satellite<br>
-<strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress towards 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>
+<strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress toward 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>
 
 **Broadcast media**<br>
 no TV stations; many households use satellite dishes to watch foreign TV stations; 1 government-owned radio station, Radio Tuvalu, includes relays of programming from international broadcasters (2019)<br>

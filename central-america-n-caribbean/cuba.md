@@ -73,9 +73,6 @@ the east coast is subject to hurricanes from August to November (in general, the
 **Geography - note**<br>
 largest country in Caribbean and westernmost island of the Greater Antilles<br>
 
-**Map description**<br>
-<p>Cuba map showing the island country in the Caribbean Sea.</p><br>
-
 ## People and Society
 
 **Population**<br>
@@ -358,7 +355,7 @@ _elections_: last held on 11 March 2018 (next to be held in early 2023)<br>
 _election results_: Cuba's Communist Party is the only legal party, and officially sanctioned candidates run unopposed; composition (as of June 2021) - men 273, women 313, percent of women 53.4%<br>
 
 **Judicial branch**<br>
-_highest courts_: People's Supreme Court (consists of court president, vice president, 41 professional justices, and NA lay judges); organization includes the State Council, criminal, civil, administrative, labor, crimes against the state, and military courts)<br>
+_highest court(s)_: People's Supreme Court (consists of court president, vice president, 41 professional justices, and NA lay judges); organization includes the State Council, criminal, civil, administrative, labor, crimes against the state, and military courts)<br>
 _judge selection and term of office_: professional judges elected by the National Assembly are not subject to a specific term; lay judges nominated by workplace collectives and neighborhood associations and elected by municipal or provincial assemblies; lay judges appointed for 5-year terms and serve up to 30 days per year<br>
 _subordinate courts_: People's Provincial Courts; People's Regional Courts; People's Courts<br>
 

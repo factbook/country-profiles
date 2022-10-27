@@ -71,9 +71,6 @@ population clusters are found in the small towns located on the periphery of bot
 **Geography - note**<br>
 smallest country in the Western Hemisphere both in terms of area and population; with coastlines in the shape of a baseball bat and ball, the two volcanic islands are separated by a 3-km-wide channel called The Narrows; on the southern tip of long, baseball bat-shaped Saint Kitts lies the Great Salt Pond; Nevis Peak sits in the center of its almost circular namesake island and its ball shape complements that of its sister island<br>
 
-**Map description**<br>
-<p>Saint Kitts and Nevis map shows a few of the major features on these two islands in the Caribbean Sea.</p><br>
-
 ## People and Society
 
 **Population**<br>
@@ -321,7 +318,7 @@ _elections_: last held on 5 August 2022 (next to be held on 2027)<br>
 _election results_: percent of vote by party - SKNLP 44.4%, PLP 16.1%, PAM 16.2%, CCM 12.7%; seats by party - SKNLP 6, CCM 3, PLP 1, CCM 1<br>
 
 **Judicial branch**<br>
-_highest courts_: the Eastern Caribbean Supreme Court (ECSC) is the superior court of the Organization of Eastern Caribbean States; the ECSC - headquartered on St. Lucia - consists of the Court of Appeal - headed by the chief justice and 4 judges - and the High Court with 18 judges; the Court of Appeal is itinerant, traveling to member states on a schedule to hear appeals from the High Court and subordinate courts; High Court judges reside in the member states, with 2 assigned to Saint Kitts and Nevis; note - the ECSC in 2003 replaced the Judicial Committee of the Privy Council (in London) as the final court of appeal on Saint Kitts and Nevis; Saint Kitts and Nevis is also a member of the Caribbean Court of Justice<br>
+_highest court(s)_: the Eastern Caribbean Supreme Court (ECSC) is the superior court of the Organization of Eastern Caribbean States; the ECSC - headquartered on St. Lucia - consists of the Court of Appeal - headed by the chief justice and 4 judges - and the High Court with 18 judges; the Court of Appeal is itinerant, traveling to member states on a schedule to hear appeals from the High Court and subordinate courts; High Court judges reside in the member states, with 2 assigned to Saint Kitts and Nevis; note - the ECSC in 2003 replaced the Judicial Committee of the Privy Council (in London) as the final court of appeal on Saint Kitts and Nevis; Saint Kitts and Nevis is also a member of the Caribbean Court of Justice<br>
 _judge selection and term of office_: chief justice of Eastern Caribbean Supreme Court appointed by Her Majesty, Queen ELIZABETH II; other justices and judges appointed by the Judicial and Legal Services Commission, an independent body of judicial officials; Court of Appeal justices appointed for life with mandatory retirement at age 65; High Court judges appointed for life with mandatory retirement at age 62<br>
 _subordinate courts_: magistrates' courts<br>
 
@@ -332,7 +329,7 @@ Concerned Citizens Movement or CCM [Mark BRANTLEY]<br>Nevis Reformation Party or
 ACP, AOSIS, C, Caricom, CDB, CELAC, FAO, G-77, IBRD, ICAO, ICCt, ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, IMO, Interpol, IOC, ITU, MIGA, OAS, OECS, OPANAL, OPCW, Petrocaribe, UN, UNCTAD, UNESCO, UNIDO, UPU, WHO, WIPO, WTO<br>
 
 **Diplomatic representation in the US**<br>
-_chief of mission_: Ambassador Dr. Thelma Patricia PHILLIP-BROWNE (since 28 January 2016)<br>
+_chief of mission_: Ambassador (vacant); Charge d&rsquo;Affaires Shanelle Natasha SIMMONDS (since 26 August 2022)<br>
 _chancery_: 1203 19th St. NW, 5th Floor, Washington, DC 20036<br>
 _telephone_: [1] (202) 686-2636<br>
 _FAX_: [1] (202) 686-5740<br>
@@ -553,7 +550,7 @@ _subscriptions per 100 inhabitants_: 147 (2020 est.)<br>
 _general assessment_: good interisland and international connections; broadband access; expanded FttP (Fiber to the Home) and LTE markets; regulatory development; telecom sector contributes greatly to the overall GDP; telecom sector is a growth area (2020)<br>
 _domestic_: interisland links via ECFS; fixed-line teledensity about 33 per 100 persons; mobile-cellular teledensity is roughly 148 per 100 persons (2019)<br>
 _international_: country code - 1-869; landing points for&nbsp;the ECFS, Southern Caribbean Fiber and the SSCS&nbsp;submarine cables providing connectivity for numerous Caribbean Islands (2019)<br>
-<strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress towards 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>
+<strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress toward 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>
 
 **Broadcast media**<br>
 the government operates a national TV network that broadcasts on 2 channels; cable subscription services provide access to local and international channels; the government operates a national radio network; a mix of government-owned and privately owned broadcasters operate roughly 15 radio stations (2019)<br>

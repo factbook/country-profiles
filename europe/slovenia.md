@@ -73,9 +73,6 @@ flooding; earthquakes<br>
 **Geography - note**<br>
 despite its small size, this eastern Alpine country controls some of Europe's major transit routes<br>
 
-**Map description**<br>
-<p>Slovenia map showing major population centers as well as parts of surrounding countries and the Gulf of Venice.</p><br>
-
 ## People and Society
 
 **Population**<br>
@@ -349,7 +346,7 @@ _elections_: <br>National Council - last held on 22 November 2017 (next to be he
 _election results_: <br>National Council - percent of vote by party - NA; seats by party - NA; composition - men 36, women 4, percent of women 10%<br>National Assembly - percent of vote by party - GS 34.5%, SDS 23.5%, NSi 6.9%, SD 6.7%, Levica 4.4%, other 24%; seats by party - GS 41, SDS 27, NSi 8, SD 7, Levica 5; composition - men 54, women 36, percent of women 40%; note - total Parliament percent of women 30.8%<br>
 
 **Judicial branch**<br>
-_highest courts_: Supreme Court (consists of the court president and 37 judges organized into civil, criminal, commercial, labor and social security, administrative, and registry departments); Constitutional Court (consists of the court president, vice president, and 7 judges)<br>
+_highest court(s)_: Supreme Court (consists of the court president and 37 judges organized into civil, criminal, commercial, labor and social security, administrative, and registry departments); Constitutional Court (consists of the court president, vice president, and 7 judges)<br>
 _judge selection and term of office_: Supreme Court president and vice president appointed by the National Assembly upon the proposal of the Minister of Justice based on the opinions of the Judicial Council, an 11-member independent body elected by the National Assembly from proposals submitted by the president, attorneys, law universities, and sitting judges; other Supreme Court judges elected by the National Assembly from candidates proposed by the Judicial Council; Supreme Court judges serve for life; Constitutional Court judges appointed by the National Assembly from nominations by the president of the republic; Constitutional Court president selected from among its own membership for a 3-year term; other judges elected for single 9-year terms<br>
 _subordinate courts_: county, district, regional, and high courts; specialized labor-related and social courts; Court of Audit; Administrative Court<br>
 
@@ -610,7 +607,7 @@ _subscriptions per 100 inhabitants_: 120.85 (2019)<br>
 _general assessment_: Slovenia&rsquo;s telecom sector is dominated by four operators; the incumbent telco Telekom Slovenije has faced increasing pressure in all sectors; to address this, the company had diversified its business interests to reduce its reliance on telecom services; the mobile market has four MNOs and a small number of MVNOs, operating in a country with a potential market of just over two million people; the regulator in recent years has addressed the need for mobile operators to have more spectrum, so enabling them to improve the quality and range of services; a multi-spectrum auction was concluded in mid-2021, aimed at supporting 5G services; the broadband market continues to be dominated by a small number of players; DSL lost its dominance some years ago, being taken over by fiber as subscribers are migrated to new fiber-based networks; fiber accounted for almost half of all fixed broadband connections by March 2022. (2022)<br>
 _domestic_: fixed-line nearly 34 per 100 and mobile-cellular over 122 per 100 teledensity (2020)<br>
 _international_: country code - 386 (2016)<br>
-<strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress towards 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>
+<strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress toward 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>
 
 **Broadcast media**<br>
 public TV broadcaster, Radiotelevizija Slovenija (RTV), operates a system of national and regional TV stations; 35 domestic commercial TV stations operating nationally, regionally, and locally; about 60% of households are connected to multi-channel cable TV; public radio broadcaster operates 3 national and 4 regional stations; more than 75 regional and local commercial and non-commercial radio stations<br>
@@ -708,7 +705,7 @@ Slovenia became a member of NATO in 2004; Hungary and Italy provide NATO's air p
 <p><em>Slovenia-Austria</em>: none identified</p> <p><em>Slovenia-Croatia</em>: since the breakup of Yugoslavia in the early 1990s, Croatia and Slovenia have each claimed sovereignty over Piran Bay and four villages, and Slovenia has objected to Croatia's claim of an exclusive economic zone in the Adriatic Sea; in 2009, however Croatia and Slovenia signed a binding international arbitration agreement to define their disputed land and maritime borders, which led Slovenia to lift its objections to Croatia joining the EU; in June 2017, the Permanent Court of Arbitration issued a ruling on the border, but Croatia had withdrawn from the proceedings in 2015 and refused to implement it; as a member state that forms part of the EU's external border, Slovenia has implemented the strict Schengen border rules to curb illegal migration and commerce through southeastern Europe while encouraging close cross-border ties with Croatia; Slovenia continues to impose a hard border Schengen regime with Croatia, which joined the EU in 2013 but has not yet fulfilled Schengen requirements</p> <p><em>Slovenia-Hungary</em>: none identified</p> <p><em>Slovenia-Italy</em>: none identified</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 8,255 (Ukraine) (as of 11 October 2022)<br>
+_refugees (country of origin)_: 8,302 (Ukraine) (as of 18 October 2022)<br>
 _stateless persons_: 10 (2020)<br>
 <strong>note:  </strong>551,887 estimated refugee and migrant arrivals (January 2015-September 2022)<br>
 

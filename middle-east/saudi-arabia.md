@@ -78,9 +78,6 @@ historically a population that was mostly nomadic or semi-nomadic, the Saudi pop
 **Geography - note**<br>
 Saudi Arabia is the largest country in the world without a river; extensive coastlines on the Persian Gulf and Red Sea allow&nbsp;for considerable&nbsp;shipping (especially of crude oil) through the Persian Gulf and Suez Canal<br>
 
-**Map description**<br>
-<p>Saudi Arabia map showing major cities as well as parts of surrounding countries and water bodies.</p><br>
-
 ## People and Society
 
 **Population**<br>
@@ -352,7 +349,7 @@ _description_: unicameral Consultative Council or Majlis al-Shura (150 seats plu
 <strong>note:</strong> composition as of 2021 - men 121, women 30, percent of women 19.9%<br>
 
 **Judicial branch**<br>
-_highest courts_: High Court (consists of the court chief and organized into circuits with 3-judge panels, except for the criminal circuit, which has a 5-judge panel for cases involving major punishments)<br>
+_highest court(s)_: High Court (consists of the court chief and organized into circuits with 3-judge panels, except for the criminal circuit, which has a 5-judge panel for cases involving major punishments)<br>
 _judge selection and term of office_: High Court chief and chiefs of the High Court Circuits appointed by royal decree upon the recommendation of the Supreme Judiciary Council, a 10-member body of high-level judges and other judicial heads; new judges and assistant judges serve 1- and 2-year probations, respectively, before permanent assignment<br>
 _subordinate courts_: Court of Appeals; Specialized Criminal Court, first-degree courts composed of general, criminal, personal status, and commercial courts; Labor Court; a hierarchy of administrative courts<br>
 
@@ -615,7 +612,7 @@ _subscriptions per 100 inhabitants_: 124 (2020 est.)<br>
 _general assessment_: Saudi Arabia&rsquo;s telecom and ICT sectors continue to benefit from the range of programs aimed at diversifying the economy away from a dependence on oil, and establishing a wider digital transformation over the next decade; an essential element of this has been the widening reach of 5G networks, which by mid-2021 reached about half of the population and the majority of cities; the competitive mobile sector is serviced by Saudi Telecom Company (stc), Mobily, and Zain KSA, as also four licensed MVNOs; the MNOs have focused investment on upgrading LTE infrastructure and further developing 5G; this in part is aimed at generating additional revenue from mobile data services, and also to their contribution to the Vision 2030 program; the ongoing pandemic has resulted in more people working and schooling from home during periods of restricted travel; this has stimulated growth in mobile data traffic, while the government has encouraged non-cash transactions and so helped develop the vast e-commerce market; while Saudi Arabia&rsquo;s fixed broadband penetration remains relatively low, there has been a concentration of fiber infrastructure and the Kingdom has developed one of the fastest services in the region. (2022)<br>
 _domestic_: fixed-line over 16 per 100 and mobile-cellular subscribership has been increasing rapidly to roughly 124 per 100 persons (2020)<br>
 _international_: country code - 966; landing points for the SeaMeWe-3, -4, -5, AAE-1, EIG, FALCON, FEA, IMEWE, MENA/Gulf Bridge International, SEACOM, SAS-1, -2, GBICS/MENA, and the Tata TGN-Gulf submarine cables providing connectivity to Europe, Africa, the Middle East, Asia, Southeast Asia and Australia; microwave radio relay to Bahrain, Jordan, Kuwait, Qatar, UAE, Yemen, and Sudan; coaxial cable to Kuwait and Jordan; satellite earth stations - 5 Intelsat (3 Atlantic Ocean and 2 Indian Ocean), 1 Arabsat, and 1 Inmarsat (Indian Ocean region) (2019)<br>
-<strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress towards 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>
+<strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress toward 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>
 
 **Broadcast media**<br>
 broadcast media are state-controlled; state-run TV operates 4 networks; Saudi Arabia is a major market for pan-Arab satellite TV broadcasters; state-run radio operates several networks; multiple international broadcasters are available<br>

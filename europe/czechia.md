@@ -76,9 +76,6 @@ flooding<br>
 **Geography - note**<br>
 <strong>note 1:</strong> landlocked; strategically located astride some of oldest and most significant land routes in Europe; Moravian Gate is a traditional military corridor between the North European Plain and the Danube in central Europe<br><br><strong>note 2:</strong> the Hranice Abyss in Czechia is the world's deepest surveyed underwater cave at 404 m (1,325 ft); its survey is not complete and it could end up being some 800-1,200 m deep<br>
 
-**Map description**<br>
-<p>Czechia map showing major cities as well as parts of surrounding countries.</p><br>
-
 ## People and Society
 
 **Population**<br>
@@ -356,7 +353,7 @@ _elections_: Senate - last held in 2 rounds on 2-3 and 9-10 October 2020 (next t
 _election results_: Senate - percent of vote by party - NA; seats by party - STAN 19, ODS 18, KDU-CSL 12, ANO 5, TOP 09 5, CSSD 3, SEN 21 3, Pirates 2, SZ 1, minor parties with one seat each 9, independents 4; composition (as of October 2021) - men 69, women 12, percent of women 14.8%<br>Chamber of Deputies - percent of vote by party – SPOLU 27.8%, Action of Dissatisfied Persons 27.1%, Pirates and Mayors 15.6%, Freedom and Direct Democracy 9.6%, other 19.9%; seats by party - Action of Dissatisfied Persons 72, SPOLU 71, Pirates and Mayors 37, Freedom and Direct Democracy 20; composition (as of October 2021) - men 154, women 46, percent of women 23%; note - total Parliament percent of women 26%<br>
 
 **Judicial branch**<br>
-_highest courts_: Supreme Court (organized into Civil Law and Commercial Division, and Criminal Division each with a court chief justice, vice justice, and several judges); Constitutional Court (consists of 15 justices); Supreme Administrative Court (consists of 36 judges, including the court president and vice president, and organized into 6-, 7-, and 9-member chambers)<br>
+_highest court(s)_: Supreme Court (organized into Civil Law and Commercial Division, and Criminal Division each with a court chief justice, vice justice, and several judges); Constitutional Court (consists of 15 justices); Supreme Administrative Court (consists of 36 judges, including the court president and vice president, and organized into 6-, 7-, and 9-member chambers)<br>
 _judge selection and term of office_: Supreme Court judges proposed by the Chamber of Deputies and appointed by the president; judges appointed for life; Constitutional Court judges appointed by the president and confirmed by the Senate; judges appointed for 10-year, renewable terms; Supreme Administrative Court judges selected by the president of the Court; unlimited terms<br>
 _subordinate courts_: High Court; regional and district courts<br>
 
@@ -367,7 +364,7 @@ Christian Democratic Union-Czechoslovak People's Party or KDU-CSL [Marian JURECK
 Australia Group, BIS, BSEC (observer), CD, CE, CEI, CERN, EAPC, EBRD, ECB, EIB, ESA, EU, FAO, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IEA, IFC, IFRCS, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, MONUSCO, NATO, NEA, NSG, OAS (observer), OECD, OIF (observer), OPCW, OSCE, PCA, Schengen Convention, SELEC, UN, UNCTAD, UNESCO, UNHCR, UNHRC, UNIDO, UNWTO, UPU, Wassenaar Arrangement, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO, ZC<br>
 
 **Diplomatic representation in the US**<br>
-_chief of mission_: Ambassador Hynek KMONICEK (since 24 April 2017)<br>
+_chief of mission_: Ambassador Miloslav STASEK (since 16 September 2022)<br>
 _chancery_: 3900 Spring of Freedom Lane NW, Washington, DC 20008-3803<br>
 _telephone_: [1] (202) 274-9100<br>
 _FAX_: [1] (202) 966-8540<br>
@@ -614,7 +611,7 @@ _total subscriptions_: 12,999,812 (2020 est.)<br>
 _subscriptions per 100 inhabitants_: 121 (2020 est.)<br>
 
 **Telecommunication systems**<br>
-_general assessment_: the telecom market has attracted investment from among the key regional telcos, including Deutsche Telekom, Telef&oacute;nica, and Vodafone, as also investors such as PPF Group; O2 Czech Republic remains the dominant telco in all segments, though there is effective competition, particularly in the mobile sector; telcos in the Czech Republic have become multi-service providers, offering a full range of fixed and mobile services; O2 CR has struggled to improve revenue growth in recent years, and in response it has transitioned itself to face market challenges; among the changes was its reorganization into separate business divisions and the spinning off of CETIN as a separate unit to manage the fixed and mobile networks while also operating as a national wholesale network provider; CETIN&rsquo;s owner, PPF Group, in early 2021 considered an IPO for CETIN; the mobile sector is concentrated among the three MNOs, despite the regulator having made efforts to facilitate the entry of a new market player by providing spectrum at the multi-band auction held in November 2020; the auction has enabled the licensees to expand the reach of their 5G networks; this process has also been assisted by them closing down 3G networks and refarming spectrum for 5G and LTE use. (2021)<br>
+_general assessment_: the telecom market has attracted investment from among the key regional telcos; telcos in the Czech Republic have become multi-service providers, offering a full range of fixed and mobile services; the auction has enabled the licensees to expand the reach of their 5G networks; this process has also been assisted by them closing down 3G networks and reforming spectrum for 5G and LTE use (2021)<br>
 _domestic_: roughly 12 fixed-telephone subscriptions per 100 inhabitants and mobile telephone usage of about 121 per 100 inhabitants (2020)<br>
 _international_: country code - 420; satellite earth stations - 6 (2 Intersputnik - Atlantic and Indian Ocean regions, 1 Intelsat, 1 Eutelsat, 1 Inmarsat, 1 Globalstar) (2019)<br>
 <strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress toward 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>
@@ -719,7 +716,7 @@ Czechia joined NATO in 1999; Czechia, Hungary, and Poland were invited to begin 
 <p>none</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 442,440 (Ukraine) (as of 11 October 2022)<br>
+_refugees (country of origin)_: 448,807 (Ukraine) (as of 18 October 2022)<br>
 _stateless persons_: 1,498 (mid-year 2021)<br>
 
 **Illicit drugs**<br>

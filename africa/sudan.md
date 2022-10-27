@@ -82,9 +82,6 @@ dust storms and periodic persistent droughts<br>
 **Geography - note**<br>
 the Nile is Sudan's primary water source; its major tributaries, the White Nile and the Blue Nile, meet at Khartoum to form the River Nile which flows northward through Egypt to the Mediterranean Sea<br>
 
-**Map description**<br>
-<p>Sudan showing major population centers as well as parts of surrounding countries and the Red Sea.</p><br>
-
 ## People and Society
 
 **Population**<br>
@@ -373,7 +370,7 @@ _elections_: Council of State - last held 1 June 2015; subsequently dissolved in
 _election results_: Council of State - percent of vote by party - NA; seats by party - NA; former composition - men 35, women 19, percent of women 35.2%<br>National Assembly - percent of vote by party - NA; former seats by party - NCP 323, DUP 25, Democratic Unionist Party 15, other 44, independent 19; former composition - men 296 women 130, percent of women 30.5%; note - former<br>total National Legislature percent of women 31%<br>
 
 **Judicial branch**<br>
-_highest courts_: National Supreme Court (consists of 70 judges organized into panels of 3 judges and includes 4 circuits that operate outside the capital); Constitutional Court (consists of 9 justices including the court president); note - the Constitutional Court resides outside the national judiciary and has not been appointed since the signature of the 2019 Constitutional Declaration<br>
+_highest court(s)_: National Supreme Court (consists of 70 judges organized into panels of 3 judges and includes 4 circuits that operate outside the capital); Constitutional Court (consists of 9 justices including the court president); note - the Constitutional Court resides outside the national judiciary and has not been appointed since the signature of the 2019 Constitutional Declaration<br>
 _judge selection and term of office_: National Supreme Court and Constitutional Court judges selected by the Supreme Judicial Council, which replaced the National Judicial Service Commission upon enactment of the 2019 Constitutional Declaration<br>
 _subordinate courts_: Court of Appeal; other national courts; public courts; district, town, and rural courts<br>
 
@@ -384,7 +381,7 @@ _subordinate courts_: Court of Appeal; other national courts; public courts; dis
 ABEDA, ACP, AfDB, AFESD, AMF, AU, CAEU, COMESA, FAO, G-77, IAEA, IBRD, ICAO, ICC (NGOs), ICRM, IDA, IDB, IFAD, IFC, IFRCS, IGAD, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, LAS, MIGA, NAM, OIC, OPCW, PCA, UN, UNCTAD, UNESCO, UNHCR, UNHRC, UNIDO, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO (observer)<br>
 
 **Diplomatic representation in the US**<br>
-_chief of mission_: Charge D&rsquo;Affaires Ismat Kamil GABBANI (since 14 January 2022)<br>
+_chief of mission_: Ambassador Mohamed Abdalla Idris MOHAMED (since 16 September 2022)<br>
 _chancery_: 2210 Massachusetts Avenue NW, Washington, DC 20008<br>
 _telephone_: [1] (202) 338-8565<br>
 _FAX_: [1] (202) 667-2406<br>
@@ -625,7 +622,7 @@ _subscriptions per 100 inhabitants_: 77.11 (2019)<br>
 _general assessment_: Sudan emerged as a poorer country when South Sudan separated from it in 2011; although Sudan has about four times the population of South Sudan, the latter benefits from its control of the majority of known oil reserves; the Sudanese economy has been affected by hyperinflation in recent years, partly the result of the loss of oil revenue but also due to domestic volatility and social unrest; the difficult economic conditions have meant that for several years telcos have reported revenue under hyper inflationary reporting standards; pressure on revenue has made it difficult for operators to invest in infrastructure upgrades, and so provide improved services to customers; despite this, the number of mobile subscribers increased 7.% in 20201, year-on-year; this level of growth is expected to have been maintained in 2022, though could slow from 2023 as the acute influences resulting the pandemic begin to wane; the country&rsquo;s poor fixed-line infrastructure has helped the development of mobile broadband services. Sudatel, Cameroon&rsquo;s Camtel, and Chad-based SudaChad Telecom&rsquo;s planned investment, the WE-Africa-NA terrestrial fibre link, will connect from Port-Sudan then on to Kribi in Cameroon, passing through Chad; the new build aims to respond to rising data demand in all three countries, particularly as usage has been accelerated since the onset of the Covid-19 pandemic with digital and data services gaining traction. (2022)<br>
 _domestic_: consists of microwave radio relay, cable, fiber optic, radiotelephone communications, tropospheric scatter, and a domestic satellite system with 14 earth stations; teledensity fixed-line less than 1 per 100 and mobile-cellular over 80 telephones per 100 persons (2020)<br>
 _international_: country code - 249; landing points for the EASSy, FALCON&nbsp;and SAS-1,-2, fiber-optic submarine cable systems linking Africa, the Middle East, Indian Ocean Islands and Asia; satellite earth stations - 1 Intelsat (Atlantic Ocean) (2019)<br>
-<strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress towards 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>
+<strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress toward 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>
 
 **Broadcast media**<br>
 Following the establishment of Sudan&rsquo;s civilian-led transitional government in August 2019, government-owned broadcasters became increasingly independent from government and military control. Following the October 2021 military takeover, additional restrictions were imposed on these government-owned broadcasters, which now practice a heightened degree of self-censorship but still operate more independently than in the pre-2019 environment. (2022)<br>

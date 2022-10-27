@@ -82,9 +82,6 @@ hot, dust-laden harmattan haze common during dry seasons; recurring droughts; oc
 **Geography - note**<br>
 landlocked; divided into three natural zones: the southern, cultivated Sudanese; the central, semiarid Sahelian; and the northern, arid Saharan<br>
 
-**Map description**<br>
-<p>Mali map showing major cities as well as parts of surrounding countries.</p><br>
-
 ## People and Society
 
 **Population**<br>
@@ -158,7 +155,7 @@ _total population_: 0.95 male(s)/female (2022 est.)<br>
 
 **Mother's mean age at first birth**<br>
 19.2 years (2018 est.)<br>
-<strong>note:</strong> median age at first birth among women 20-49<br>
+<strong>note:</strong> data represents median age at first birth among women 20-49<br>
 
 **Maternal mortality ratio**<br>
 562 deaths/100,000 live births (2017 est.)<br>
@@ -392,7 +389,7 @@ _elections_: last held on 30 March and 19 April 2020<br>
 _election results_: percent of vote by party - NA; seats by party - NA composition - NA<br>
 
 **Judicial branch**<br>
-_highest courts_: Supreme Court or Cour Supreme (consists of 19 judges organized into judicial, administrative, and accounting sections); Constitutional Court (consists of 9 judges)<br>
+_highest court(s)_: Supreme Court or Cour Supreme (consists of 19 judges organized into judicial, administrative, and accounting sections); Constitutional Court (consists of 9 judges)<br>
 _judge selection and term of office_: Supreme Court judges appointed by the Ministry of Justice to serve 5-year terms; Constitutional Court judges selected - 3 each by the president, the National Assembly, and the Supreme Council of the Magistracy; members serve single renewable 7-year terms<br>
 _subordinate courts_: Court of Appeal; High Court of Justice (jurisdiction limited to cases of high treason or criminal offenses by the president or ministers while in office); administrative courts (first instance and appeal); commercial courts; magistrate courts; labor courts; juvenile courts; special court of state security<br>
 
@@ -403,7 +400,7 @@ _subordinate courts_: Court of Appeal; High Court of Justice (jurisdiction limit
 ACP, AfDB, AU (suspended), CD, ECOWAS (suspended), EITI (compliant country), FAO, FZ, G-77, IAEA, IBRD, ICAO, ICCt, ICRM, IDA, IDB, IFAD, IFC, IFRCS, ILO, IMF, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, MONUSCO, NAM, OIC, OIF, OPCW, UN, UNAMID, UNCTAD, UNDP, UNESCO, UNFPA, UNHCR, UNIDO, UNISFA, UNMISS, UNOPS, UN Women, UNWTO, UPU, WADB (regional), WAEMU, World Bank Group, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
 
 **Diplomatic representation in the US**<br>
-_chief of mission_: Ambassador (designate) S&eacute;kou BERTHE (since April 2022)<br>
+_chief of mission_: Ambassador S&eacute;kou BERTHE (since 16 September 2022)<br>
 _chancery_: 2130 R Street NW, Washington, DC 20008<br>
 _telephone_: [1] (202) 332-2249<br>
 _FAX_: [1] (202) 332-6603<br>
@@ -648,7 +645,7 @@ _subscriptions per 100 inhabitants_: 125 (2020 est.)<br>
 _general assessment_: Mali&rsquo;s telecom systems are challenged by recent conflict, geography, areas of low population, poverty, security issues, and high illiteracy; telecom infrastructure is barely adequate in urban areas and not available in most of the country with underinvestment in fixed-line networks; high mobile penetration and potential for mobile broadband service; local plans for IXP; dependent on neighboring countries for international bandwidth and access to submarine cables; there are Chinese investment agreements for infrastructure; importer of broadcasting equipment from China (2022)<br>
 _domestic_: fixed-line subscribership is over 1 per 100 persons; mobile-cellular subscribership has increased sharply to 125 per 100 persons; increasing use of local radio loops to extend network coverage to remote areas (2020)<br>
 _international_: country code - 223; satellite communications center and fiber-optic links to neighboring countries; satellite earth stations - 2 Intelsat (1 Atlantic Ocean, 1 Indian Ocean) (2020)<br>
-<strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress towards 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>
+<strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress toward 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>
 
 **Broadcast media**<br>
 national public TV broadcaster; 2 privately owned companies provide subscription services to foreign multi-channel TV packages; national public radio broadcaster supplemented by a large number of privately owned and community broadcast stations; transmissions of multiple international broadcasters are available (2019)<br>

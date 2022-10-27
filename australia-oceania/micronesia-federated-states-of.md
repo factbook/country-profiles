@@ -70,9 +70,6 @@ typhoons (June to December)<br>
 **Geography - note**<br>
 composed of four major island groups totaling 607 islands<br>
 
-**Map description**<br>
-<p>Federated States of Micronesia map showing the major islands of this archipelagic country in the North Pacific Ocean.</p><br>
-
 ## People and Society
 
 **Population**<br>
@@ -322,7 +319,7 @@ _elections_: last held on 2 March 2021 (next to be held on March 2023)<br>
 _election results_: percent of vote - NA; seats - independent 14; composition as of July 2022 - men 13, women 1, percent of women 7.1%<br>
 
 **Judicial branch**<br>
-_highest courts_: Federated States of Micronesia (FSM) Supreme Court (consists of the chief justice and not more than 5 associate justices and organized into appellate and criminal divisions)<br>
+_highest court(s)_: Federated States of Micronesia (FSM) Supreme Court (consists of the chief justice and not more than 5 associate justices and organized into appellate and criminal divisions)<br>
 _judge selection and term of office_: justices appointed by the FSM president with the approval of two-thirds of Congress; justices appointed for life<br>
 _subordinate courts_: the highest state-level courts are: Chuuk Supreme Court; Korsae State Court; Pohnpei State Court; Yap State Court<br>
 
@@ -543,7 +540,7 @@ _subscriptions per 100 inhabitants_: 19 (2020 est.)<br>
 _general assessment_: adequate system, the demand for mobile broadband is increasing due to mobile services being the primary and most wide-spread source for Internet access across the region (2020)<br>
 _domestic_: islands interconnected by shortwave radiotelephone, satellite (Intelsat) ground stations, and some coaxial and fiber-optic cable; mobile-cellular service available on the major islands; fixed line teledensity roughly 6 per 100 and mobile-cellular nearly 21 per 100 (2019)<br>
 _international_: country code - 691; landing points for the Chuukk-Pohnpei Cable and HANTRU-1 submarine cable system linking the Federated States of Micronesia and the US;&nbsp;satellite earth stations - 5 Intelsat (Pacific Ocean) (2019)<br>
-<strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress towards 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>
+<strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress toward 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>
 
 **Broadcast media**<br>
 no TV broadcast stations; each state has a multi-channel cable service with TV transmissions carrying roughly 95% imported programming and 5% local programming; about a half-dozen radio stations (2009)<br>

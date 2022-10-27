@@ -71,9 +71,6 @@ occasional droughts<br>
 **Geography - note**<br>
 the country comprises an archipelago, with only the three largest islands (Malta, Ghawdex or Gozo, and Kemmuna or Comino) inhabited; numerous bays provide good harbors; Malta and Tunisia are discussing oil exploration on the continental shelf between their countries, although no commercially viable reserves have been found as of 2017<br>
 
-**Map description**<br>
-<p>Malta map showing the major population centers of this archipelagic country in the Mediterranean Sea.</p><br>
-
 ## People and Society
 
 **Population**<br>
@@ -143,7 +140,7 @@ _total population_: 1.02 male(s)/female (2022 est.)<br>
 
 **Mother's mean age at first birth**<br>
 29.3 years (2020 est.)<br>
-<strong>note:</strong> data refer to the average of the different childbearing ages of first-order births<br>
+<strong>note:</strong> data refers to the average of the different childbearing ages of first-order births<br>
 
 **Maternal mortality ratio**<br>
 6 deaths/100,000 live births (2017 est.)<br>
@@ -343,7 +340,7 @@ _elections_: last held on 26 March 2022 (next to be held in 2027)<br>
 _election results_: percent of vote by party - PL 55.1%, PN 41.7%, other 3.2%; seats by party - PL 38, PN 29; composition - men 57, women 22, percent of women 27.8%; note - due to underrepresentation by women in the combined general on 26 March and two casual elections on 7 and 12 April (10 seats or 14.9%), an additional 12 seats were awarded because their percentage did not meet the 40% threshold required by the Malta Constitution or the General Elections Amendment Act 2021<br>
 
 **Judicial branch**<br>
-_highest courts_: Court of Appeal (consists of either 1 or 3 judges); Constitutional Court (consists of 3 judges); Court of Criminal Appeal (consists of either 1 or 3 judges)<br>
+_highest court(s)_: Court of Appeal (consists of either 1 or 3 judges); Constitutional Court (consists of 3 judges); Court of Criminal Appeal (consists of either 1 or 3 judges)<br>
 _judge selection and term of office_: Court of Appeal and Constitutional Court judges appointed by the president, usually upon the advice of the prime minister; judges of both courts serve until age 65<br>
 _subordinate courts_: Civil Court (divided into the General Jurisdiction Section, Family Section, and Voluntary Section); Criminal Court; Court of Magistrates; Gozo Courts (for the islands of Gozo and Comino)<br>
 
@@ -602,7 +599,7 @@ _subscriptions per 100 inhabitants_: 143 (2020 est.)<br>
 _general assessment_: Malta&rsquo;s small telecom sector is among the most advanced in Europe; this has been helped by the topography, which has made it relatively easy for operators to expand the reach of their fiber infrastructure; with high mobile and broadband penetration rates, the government and regulator have effective strategies in place to capitalize on these infrastructure developments to ensure that the population has among the fastest data rates in Europe, and is well positioned to take advantage of emerging e-commerce opportunities; the sector has also been stimulated by regulatory measures designed to reduce consumer prices; Melita having been sold to EQT in late 2019 and Vodafone Malta having been sold to Monaco Telecom, and rebranded as Epic; the incumbent telco GO is investing in a sub sea cable to connect the islands to France and Egypt; expected to be ready for service in 2022, the cable will further enhance Malta&rsquo;s internet bandwidth and lead to reduced prices for end-users; there has also been some encouragement to increase market competition; this led to the VULA agreement between GO and Epic Malta, by which Epic was able to enter the fixed broadband market using GO&rsquo;s fibre infrastructure; in April 2021 Epic began offering FttP services directly, over its own fiber network; Melita provides a national gigabit service via its fiber and DOCSIS3.1 networks, while GO&rsquo;s extensive FttP network covered about 150,000 premises by early 2021; the company is investing &euro;100 million to develop LTE and fiber through to 2023. (2021)<br>
 _domestic_: fixed-line approximately 59 per 100&nbsp; persons and mobile-cellular subscribership 143 per 100 persons; automatic system featuring submarine cable and microwave radio relay between islands (2020)<br>
 _international_: country code - 356; landing points for the Malta-Gozo Cable, VMSCS, GO-1 Mediterranean Cable System, Malta Italy Interconnector, Melita-1, and the Italy-Malta submarine cable connections to Italy; satellite earth station - 1 Intelsat (Atlantic Ocean) (2019)<br>
-<strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress towards 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>
+<strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress toward 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>
 
 **Broadcast media**<br>
 2 publicly owned TV stations, Television Malta broadcasting nationally plus an educational channel; several privately owned national television stations, 2 of which are owned by political parties; Italian and British broadcast programs are available; multi-channel cable and satellite TV services are available; publicly owned radio broadcaster operates 3 stations; roughly 20 commercial radio stations (2019)<br>

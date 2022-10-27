@@ -71,9 +71,6 @@ strong winds persist throughout the year<br>
 **Geography - note**<br>
 deeply indented coast provides good natural harbors; short growing season<br>
 
-**Map description**<br>
-<p>Falkland Islands (Islas Malvinas) map showing the islands that make up this UK territory in the South Atlantic Ocean.</p><br>
-
 ## People and Society
 
 **Population**<br>
@@ -263,7 +260,7 @@ _elections_: last held on 4 November 2021 (next to be held in November 2025)<br>
 _election results_: percent of vote - NA; seats - independent 8; composition of elected members -men 6, women 2, percent of women 25%<br>
 
 **Judicial branch**<br>
-_highest courts_: Court of Appeal (consists of the court president, the chief justice as an ex officio non-resident member, and 2 justices of appeal); Supreme Court (consists of the chief justice); note - appeals beyond the Court of Appeal are referred to the Judicial Committee of the Privy Council (in London)<br>
+_highest court(s)_: Court of Appeal (consists of the court president, the chief justice as an ex officio non-resident member, and 2 justices of appeal); Supreme Court (consists of the chief justice); note - appeals beyond the Court of Appeal are referred to the Judicial Committee of the Privy Council (in London)<br>
 _judge selection and term of office_: chief justice, court of appeal president, and justices appointed by the governor; tenure specified in each justice's instrument of appointment<br>
 _subordinate courts_: Magistrate's Court (senior magistrate presides over civil and criminal divisions); Court of Summary Jurisdiction<br>
 

@@ -68,9 +68,6 @@ typhoons, earthquakes, and severe flooding are rare<br>
 **Geography - note**<br>
 close to vital sea lanes through South China Sea linking Indian and Pacific Oceans; two parts physically separated by Malaysia; the eastern part, the Temburong district, is an exclave and is almost an enclave within Malaysia<br>
 
-**Map description**<br>
-<p>Brunei map showing major cities and towns as well as neighboring Malaysia and the North China Sea.</p><br>
-
 ## People and Society
 
 **Population**<br>
@@ -334,7 +331,7 @@ _elections_: January 2017 - appointed by the sultan<br>
 _election results_: NA; composition (as of February 2022) - men 30, women 3, percent of women 9.1%<br>
 
 **Judicial branch**<br>
-_highest courts_: Supreme Court (consists of the Court of Appeal and the High Court, each with a chief justice and 2 judges); Sharia Court (consists the Court of Appeals and the High Court); note - Brunei has a dual judicial system of secular and sharia (religious) courts; the Judicial Committee of Privy Council (in London) serves as the final appellate court for civil cases only<br>
+_highest court(s)_: Supreme Court (consists of the Court of Appeal and the High Court, each with a chief justice and 2 judges); Sharia Court (consists the Court of Appeals and the High Court); note - Brunei has a dual judicial system of secular and sharia (religious) courts; the Judicial Committee of Privy Council (in London) serves as the final appellate court for civil cases only<br>
 _judge selection and term of office_: Supreme Court judges appointed by the monarch to serve until age 65, and older if approved by the monarch; Sharia Court judges appointed by the monarch for life<br>
 _subordinate courts_: Intermediate Court; Magistrates' Courts; Juvenile Court; small claims courts; lower sharia courts<br>
 

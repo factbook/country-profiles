@@ -80,9 +80,6 @@ flooding; droughts; earthquakes<br>
 **Geography - note**<br>
 landlocked; Lake Nyasa, some 580 km long, is the country's most prominent physical feature; it contains more fish species than any other lake on earth<br>
 
-**Map description**<br>
-<p>Malawi map showing major population centers as well as parts of surrounding countries.</p><br>
-
 ## People and Society
 
 **Population**<br>
@@ -157,7 +154,7 @@ _total population_: 0.96 male(s)/female (2022 est.)<br>
 
 **Mother's mean age at first birth**<br>
 19.1 years (2015/16 est.)<br>
-<strong>note:</strong> median age at first birth among women 20-49<br>
+<strong>note:</strong> data represents median age at first birth among women 20-49<br>
 
 **Maternal mortality ratio**<br>
 349 deaths/100,000 live births (2017 est.)<br>
@@ -384,7 +381,7 @@ _elections_: last held on 21 May 2019 (next to be held in May 2024)<br>
 _election results_: percent of vote by party - n/a; seats by party - DPP 62, MCP 55, UDF 10, PP 5, other 5, independent 55, vacant 1; composition - men 161, women 32, percent of women 16.6%<br>
 
 **Judicial branch**<br>
-_highest courts_: Supreme Court of Appeal (consists of the chief justice and at least 3 judges)<br>
+_highest court(s)_: Supreme Court of Appeal (consists of the chief justice and at least 3 judges)<br>
 _judge selection and term of office_: Supreme Court chief justice appointed by the president and confirmed by the National Assembly; other judges appointed by the president upon the recommendation of the Judicial Service Commission, which regulates judicial officers; judges serve until age 65<br>
 _subordinate courts_: High Court; magistrate courts; Industrial Relations Court; district and city traditional or local courts<br>
 
@@ -638,7 +635,7 @@ _subscriptions per 100 inhabitants_: 52 (2020 est.)<br>
 _general assessment_: with few resources, Malawi is one of the world&rsquo;s least developed countries; there has been little investment in fixed-line telecom infrastructure, and as a result, the country&rsquo;s two mobile networks Airtel Malawi and TMN provide the vast majority of connections for voice and data services; both operators have invested in LTE technologies to improve the quality of data services; the lack of market competition, together with limited international internet bandwidth, has also resulted in some of the highest prices for telecom services in the region; the government in late 2020 secured an average 80% reduction in the cost of data bundles offered by the MNOs; following continuing customer complaints, the regulator in mid-2021 ensured that costs were again reduced, this time by about a third; mobile penetration remains low in comparison to the regional average and so there are considerable opportunities for further growth, particularly in the mobile broadband sector; low penetration is partly attributed to the lack of competition, though there is the possibility that a new play come launch services by the end of 2022; the internet sector is reasonably competitive, with about 50 licensed ISPs, though the limited availability and high cost of international bandwidth has held back growth and kept broadband access prices among the highest in the region; these limitations are being addressed, with the second phase of the national fiber backbone having started in mid-2021. (2022)<br>
 _domestic_: limited fixed-line subscribership less than 1 per 100 households; mobile-cellular services are expanding but network coverage is limited and is based around the main urban areas; mobile-cellular subscribership roughly 52 per 100 households (2020)<br>
 _international_: country code - 265; satellite earth stations - 2 Intelsat (1 Indian Ocean, 1 Atlantic Ocean) (2019)<br>
-<strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress towards 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>
+<strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress toward 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>
 
 **Broadcast media**<br>
 radio is the main broadcast medium; privately owned Zodiak radio has the widest national broadcasting reach, followed by state-run radio; numerous private and community radio stations broadcast in cities and towns around the country; the largest TV network is government-owned, but at least 4 private TV networks broadcast in urban areas; relays of multiple international broadcasters are available (2019)<br>

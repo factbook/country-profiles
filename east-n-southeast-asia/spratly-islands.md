@@ -58,9 +58,6 @@ typhoons; numerous reefs and shoals pose a serious maritime hazard<br>
 **Geography - note**<br>
 strategically located near several primary shipping lanes in the central South China Sea; includes numerous small islands, atolls, shoals, and coral reefs<br>
 
-**Map description**<br>
-<p>Spratly Islands map showing the major islands and reefs of this archipelago in the South China Sea.</p><br>
-
 ## People and Society
 
 **Population**<br>

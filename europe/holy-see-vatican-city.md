@@ -59,9 +59,6 @@ occasional earthquakes<br>
 **Geography - note**<br>
 landlocked; an enclave in Rome, Italy; world's smallest state; beyond the territorial boundary of Vatican City, the Lateran Treaty of 1929 grants the Holy See extraterritorial authority over 23 sites in Rome and five outside of Rome, including the Pontifical Palace at Castel Gandolfo (the Pope's summer residence)<br>
 
-**Map description**<br>
-<p>Holy See (Vatican City) map identifies some of the major structures in this entity surrounded by Italy (Rome).</p><br>
-
 ## People and Society
 
 **Population**<br>
@@ -235,7 +232,7 @@ _elections_: last held on 11 July 2018<br>
 _election results_: composition - men 7, women 0<br>
 
 **Judicial branch**<br>
-_highest courts_: Supreme Court or Supreme Tribunal of the Apostolic Signatura (consists of the cardinal prefect, who serves as ex-officio president of the court, and 2 other cardinals of the Prefect Signatura); note - judicial duties were established by the Motu Proprio, papal directive, of Pope PIUS XII on 1 May 1946; most Vatican City criminal matters are handled by the Republic of Italy courts<br>
+_highest court(s)_: Supreme Court or Supreme Tribunal of the Apostolic Signatura (consists of the cardinal prefect, who serves as ex-officio president of the court, and 2 other cardinals of the Prefect Signatura); note - judicial duties were established by the Motu Proprio, papal directive, of Pope PIUS XII on 1 May 1946; most Vatican City criminal matters are handled by the Republic of Italy courts<br>
 _judge selection and term of office_: cardinal prefect appointed by the pope; the other 2 cardinals of the court appointed by the cardinal prefect on a yearly basis<br>
 _subordinate courts_: Appellate Court of Vatican City; Tribunal of Vatican City<br>
 

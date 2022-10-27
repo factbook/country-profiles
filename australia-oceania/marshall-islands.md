@@ -72,9 +72,6 @@ infrequent typhoons<br>
 **Geography - note**<br>
 the islands of Bikini and Enewetak are former US nuclear test sites; Kwajalein atoll, famous as a World War II battleground, surrounds the world's largest lagoon and is used as a US missile test range; the island city of Ebeye is the second largest settlement in the Marshall Islands, after the capital of Majuro, and one of the most densely populated locations in the Pacific<br>
 
-**Map description**<br>
-<p>Marshall Islands map showing the major islands of this archipelagic country in the North Pacific Ocean.</p><br>
-
 ## People and Society
 
 **Population**<br>
@@ -335,7 +332,7 @@ _elections_: last held on 18 November 2019 (next to be held by November 2023)<br
 _election results_: percent of vote by party - NA; seats by party - independent 33; composition - men 31, women 2, percent of women 6.1%<br>
 
 **Judicial branch**<br>
-_highest courts_: Supreme Court (consists of the chief justice and 2 associate justices)<br>
+_highest court(s)_: Supreme Court (consists of the chief justice and 2 associate justices)<br>
 _judge selection and term of office_: judges appointed by the Cabinet upon the recommendation of the Judicial Service Commission (consists of the chief justice of the High Court, the attorney general and a private citizen selected by the Cabinet) and upon approval of the Nitijela; the current chief justice, appointed in 2013, serves for 10 years; Marshallese citizens appointed as justices serve until retirement at age 72<br>
 _subordinate courts_: High Court; District Courts; Traditional Rights Court; Community Courts<br>
 
@@ -529,7 +526,7 @@ _subscriptions per 100 inhabitants_: 27 (2020 est.)<br>
 _general assessment_: some telecom infrastructure improvements made in recent years; modern services include fiber optic cable service, cellular, Internet, international calling, caller ID, and leased data circuits;&nbsp;the US Government, World Bank, UN and International Telecommunication Union (ITU), have aided in&nbsp;improvements and monetary aid to the islands telecom; mobile penetrations is around 30%; radio communication is&nbsp;especially&nbsp;vital to remote islands (2018)<br>
 _domestic_: Majuro Atoll and Ebeye and Kwajalein islands have regular, seven-digit, direct-dial telephones; other islands interconnected by high frequency radiotelephone (used mostly for government purposes) and mini-satellite telephones; fixed-line roughly 4 per 100 persons and mobile-cellular is nearly 28 per 100 persons (2019)<br>
 _international_: country code - 692; satellite earth stations - 2 Intelsat (Pacific Ocean); US Government satellite communications system on Kwajalein<br>
-<strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress towards 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>
+<strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress toward 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>
 
 **Broadcast media**<br>
 no TV broadcast station; a cable network is available on Majuro with programming via videotape replay and satellite relays; 4 radio broadcast stations; American Armed Forces Radio and Television Service (AFRTS) provides satellite radio and television service to Kwajalein Atoll (2019)<br>

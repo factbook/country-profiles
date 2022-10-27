@@ -69,9 +69,6 @@ flash floods<br>
 **Geography - note**<br>
 focal point for Southeast Asian sea routes; consists of about 60 islands, by far the largest of which is Pulau Ujong; land reclamation has removed many former islands and created a number of new ones<br>
 
-**Map description**<br>
-<p>Singapore map showing major districts of this city-state surrounded by Malaysia and the Singapore Strait.</p><br>
-
 ## People and Society
 
 **Population**<br>
@@ -146,7 +143,7 @@ _total population_: 1 male(s)/female (2022 est.)<br>
 
 **Mother's mean age at first birth**<br>
 30.5 years (2015 est.)<br>
-median age<br>
+<strong>note:</strong> data represents median age<br>
 
 **Maternal mortality ratio**<br>
 8 deaths/100,000 live births (2017 est.)<br>
@@ -347,7 +344,7 @@ _elections_: last held on 10 July 2020 (next must be held by 2025)<br>
 _election results_: percent of vote by party - PAP 89.2%, WP 10.6%, other 0.2%; seats by party - PAP 83, WP 10; composition of total Parliament - men 73, women 30, percent of women 29.1%<br>
 
 **Judicial branch**<br>
-_highest courts_: Supreme Court (although the number of judges varies - as of April 2019,&nbsp;the court&nbsp;totaled 20 judges, 7 judicial commissioners, 4 judges of appeal, and 16 international judges); the court is organized into an upper tier Appeal Court and a lower tier High Court<br>
+_highest court(s)_: Supreme Court (although the number of judges varies - as of April 2019,&nbsp;the court&nbsp;totaled 20 judges, 7 judicial commissioners, 4 judges of appeal, and 16 international judges); the court is organized into an upper tier Appeal Court and a lower tier High Court<br>
 _judge selection and term of office_: judges appointed by the president from candidates recommended by the prime minister after consultation with the chief justice; judges usually serve until retirement at age 65, but terms can be extended<br>
 _subordinate courts_: district, magistrates', juvenile, family, community, and coroners' courts; small claims tribunals; employment claims tribunals<br>
 
@@ -613,7 +610,7 @@ _subscriptions per 100 inhabitants_: 156 (2019)<br>
 _general assessment_: a wealthy city-state, Singapore has a highly developed ICT infrastructure; government supported near universal home broadband penetration and free public access to wireless network; the government's telecommunication regulator, Infocomm Media Development Authority (IMDA), issued awards in mid-2020 to telecom operators with the goal of having at least 50% of the city-state covered with a standalone 5G network by the end of 2022; government actively promoting Smart Nation initiative supporting digital innovation; government oversees service providers and controls Internet content; well served by submarine cable and satellite connections; major importer of integrated circuits and broadcasting equipment from China and exporter of same to SE Asian neighboring countries (2021)<br>
 _domestic_: excellent domestic facilities; fixed-line roughly 32 per 100 and mobile-cellular 144 per 100 teledensity; multiple providers of high-speed Internet connectivity (2020)<br>
 _international_: country code - 65; landing points for INDIGO-West, SeaMeWe -3,-4,-5, SIGMAR, SJC, i2icn,&nbsp;PGASCOM, BSCS,&nbsp;IGG,&nbsp;B3JS, SAEx2, APCN-2, APG, ASC, SEAX-1, ASE, EAC-C2C, Matrix Cable System and SJC2 submarine cables providing links throughout Asia, Southeast Asia, Africa, Australia, the Middle East, and Europe; satellite earth stations - 3, Bukit Timah, Seletar, and Sentosa; supplemented by VSAT coverage (2019 )<br>
-<strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress towards 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>
+<strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress toward 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>
 
 **Broadcast media**<br>
 state controls broadcast media;&nbsp;6 domestic TV stations operated by MediaCorp which is wholly owned by a state investment company; broadcasts from Malaysian and Indonesian stations available; satellite dishes banned; multi-channel cable TV services available; a total of 19 domestic radio stations broadcasting, with MediaCorp operating 11, Singapore Press Holdings, also government-linked, another 5,&nbsp;2 controlled by the Singapore Armed Forces Reservists Association and one owned by BBC Radio; Malaysian and Indonesian radio stations are available as is BBC; a number of Internet service radio stations are also available (2019)<br>

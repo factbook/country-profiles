@@ -73,9 +73,6 @@ occasional flooding<br>
 **Geography - note**<br>
 landlocked; the only grand duchy in the world<br>
 
-**Map description**<br>
-Luxembourg map showing major population centers as well as parts of surrounding countries.<br>
-
 ## People and Society
 
 **Population**<br>
@@ -346,7 +343,7 @@ _elections_: last held on 14 October 2018 (next to be held by 31 October 2023)<b
 _election results_: percent of vote by party - CSV 35%, LSAP 16.7%, DP 20%, Green Party 9%, ADR 6.7%, Pirate Party 3.3%, The Left 3.3%; seats by party - CSV 21, DP 12, LSAP 10, Green Party 9, ADR 4, Pirate Party 2, The Left 2; composition (as of September 2021) - men 40, women 20, percent of women 33.3%<br>
 
 **Judicial branch**<br>
-_highest courts_: Supreme Court of Justice includes Court of Appeal and Court of Cassation (consists of 27 judges on 9 benches); Constitutional Court (consists of 9 members)<br>
+_highest court(s)_: Supreme Court of Justice includes Court of Appeal and Court of Cassation (consists of 27 judges on 9 benches); Constitutional Court (consists of 9 members)<br>
 _judge selection and term of office_: judges of both courts appointed by the monarch for life<br>
 _subordinate courts_: Court of Accounts; district and local tribunals and courts<br>
 
@@ -608,7 +605,7 @@ _subscriptions per 100 inhabitants_: 142 (2020 est.)<br>
 _general assessment_: Luxembourg has a small telecom sector dominated by state-owned POST Luxembourg; there remains some pressure from regulatory measures, though no further reductions to fixed and mobile interconnection tariffs have been imposed through to 2024; POST Luxembourg is extending the footprint of its 1Gb/s service in line with a government program to make Luxembourg the first fully fiber country in Europe; by early 2021 about 72% of premises could access such a service; investment in infrastructure is geared towards fulfilling these ambitions;&nbsp; the level of investment as a proportion of revenue has fallen in recent years, largely as a response to the completion of major projects, there was an increase in investment in 2020, partly due to the spectrum auction held during the year, as also to the continuing shift by POST Luxembourg to an all-IP platform and the rollout of fiber infrastructure; high mobile penetration has slowed subscriber growth in the mobile market since 2005, though a recent law requiring SIM card registration has not had an adverse effect on the number of mobile subscribers despite network operators deactivating unregistered cards. (2021)<br>
 _domestic_: fixed-line teledensity about 43 per 100 persons; nationwide mobile-cellular telephone system with market for mobile-cellular phones virtually saturated with about 142 per 100 mobile-cellular (2020)<br>
 _international_: country code - 352<br>
-<strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress towards 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>
+<strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress toward 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>
 
 **Broadcast media**<br>
 Luxembourg has a long tradition of operating radio and TV services for pan-European audiences and is home to Europe's largest privately owned broadcast media group, the RTL Group, which operates 46 TV stations and 29 radio stations in Europe; also home to Europe's largest satellite operator, Societe Europeenne des Satellites (SES); domestically, the RTL Group operates TV and radio networks; other domestic private radio and TV operators and French and German stations available; satellite and cable TV services available<br>
@@ -700,6 +697,6 @@ Luxembourg is a member of NATO and was one of the original 12 countries to sign 
 <p>none identified</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 6,756 (Ukraine) (as of 11 October 2022)<br>
+_refugees (country of origin)_: 6,756 (Ukraine) (as of 18 October 2022)<br>
 _stateless persons_: 194 (mid-year 2021)<br>
 

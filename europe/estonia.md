@@ -72,9 +72,6 @@ sometimes flooding occurs in the spring<br>
 **Geography - note**<br>
 the mainland terrain is flat, boggy, and partly wooded; offshore lie more than 1,500 islands<br>
 
-**Map description**<br>
-<p>Estonia map showing major cities as well as parts of surrounding countries and the Baltic Sea.</p><br>
-
 ## People and Society
 
 **Population**<br>
@@ -354,7 +351,7 @@ _elections_: last held on 3 March 2019 (next to be held in March 2023)<br>
 _election results_: percent of vote by party - RE 28.9%, K 23.1%, EKRE 17.8%, Pro Patria 11.4%, SDE 9.8%, other 9%; seats by party - RE 34, K 26, EKRE 19, Pro Patria 12, SDE 10; composition - men 75, women 26, percent of women 25.7%<br>
 
 **Judicial branch**<br>
-_highest courts_: Supreme Court (consists of 19 justices, including the chief justice, and organized into civil, criminal, administrative, and constitutional review chambers)<br>
+_highest court(s)_: Supreme Court (consists of 19 justices, including the chief justice, and organized into civil, criminal, administrative, and constitutional review chambers)<br>
 _judge selection and term of office_: the chief justice is proposed by the president of the republic and appointed by the Riigikogu; other justices proposed by the chief justice and appointed by the Riigikogu; justices appointed for life<br>
 _subordinate courts_: circuit (appellate) courts; administrative, county, city, and specialized courts<br>
 
@@ -612,7 +609,7 @@ _total subscriptions_: 1,925,789 (2020 est.)<br>
 _subscriptions per 100 inhabitants_: 145 (2020 est.)<br>
 
 **Telecommunication systems**<br>
-_general assessment_: the competitive telecom market continues to progress with a range of regulatory measures which have enabled alternative operators to chip away at the fixed-line market share of the incumbent telco Telia Estonia; fixed-line infrastructure upgrades have been focused on fiber, and the legacy DSL network has gradually been replaced; the MNOs Telia, Elisa and Tele2 have comprehensive LTE infrastructure in place; limited commercial 5G deployments have been made though an expansion of service availability awaits the delayed auction of spectrum in the 3.5GHz band, which is expected to be held later in 2021. (2021)<br>
+_general assessment_: the competitive telecom market continues to progress with a range of regulatory measures which have enabled alternative operators to chip away at the fixed-line market share; fixed-line infrastructure upgrades have been focused on fiber, and the legacy DSL network has gradually been replaced; limited commercial 5G deployments have been made though an expansion of service availability awaits the delayed auction of spectrum in the 3.5GHz band, which is expected to be held later in 2021 (2021)<br>
 _domestic_: just under 23 per 100 for fixed-line subscribership and approximately 145 per 100 for mobile-cellular; substantial fiber-optic cable systems carry telephone, TV, and radio traffic in the digital mode; Internet services are widely available; schools and libraries are connected to the Internet, a large percentage of the population files income tax returns online, and online voting - in local and parliamentary elections - has climbed steadily since first being introduced in 2005; a large percent of Estonian households have broadband access (2020)<br>
 _international_: country code - 372; landing points for the EE-S-1, EESF-3, Baltic Sea Submarine Cable, FEC and EESF-2 fiber-optic submarine cables to other Estonia points, Finland, and Sweden; 2 international switches are located in Tallinn (2019)<br>
 <strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress toward 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>
@@ -714,7 +711,7 @@ Estonia became a member of NATO in 2004<br><br>since 2017, Estonia has hosted a 
 <p>Russia and Estonia in May 2005 signed a technical border agreement, but Russia in June 2005 recalled its signature after the Estonian parliament added to its domestic ratification act a historical preamble referencing the Soviet occupation and Estonia's pre-war borders under the 1920 Treaty of Tartu; Russia contends that the preamble allows Estonia to make territorial claims on Russia in the future, while Estonian officials deny that the preamble has any legal impact on the treaty text; Russia demands better treatment of the Russian-speaking population in Estonia; as a member state that forms part of the EU's external border, Estonia implements strict Schengen border rules with Russia</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 60,002 (Ukraine) (as of 10 October 2022)<br>
+_refugees (country of origin)_: 60,302 (Ukraine) (as of 14 October 2022)<br>
 _stateless persons_: 71,873 (mid-year 2021); note - following independence in 1991, automatic citizenship was restricted to those who were Estonian citizens prior to the 1940 Soviet occupation and their descendants; thousands of ethnic Russians remained stateless when forced to choose between passing Estonian language and citizenship tests or applying for Russian citizenship; one reason for demurring on Estonian citizenship was to retain the right of visa-free travel to Russia; stateless residents can vote in local elections but not general elections; stateless parents who have been lawful residents of Estonia for at least five years can apply for citizenship for their children before they turn 15 years old<br>
 
 **Illicit drugs**<br>

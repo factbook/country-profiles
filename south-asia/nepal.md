@@ -76,9 +76,6 @@ severe thunderstorms; flooding; landslides; drought and famine depending on the 
 **Geography - note**<br>
 landlocked; strategic location between China and India; contains eight of world's 10 highest peaks, including Mount Everest and Kanchenjunga - the world's tallest and third tallest mountains - on the borders with China and India respectively<br>
 
-**Map description**<br>
-<p>Nepal map showing major population centers as well as parts of surrounding countries – China to the north, India to the south.</p><br>
-
 ## People and Society
 
 **Population**<br>
@@ -150,7 +147,7 @@ _total population_: 0.96 male(s)/female (2022 est.)<br>
 
 **Mother's mean age at first birth**<br>
 20.4 years (2016 est.)<br>
-<strong>note:</strong> median age at first birth among women 25-49<br>
+<strong>note:</strong> data represents median age at first birth among women 25-49<br>
 
 **Maternal mortality ratio**<br>
 186 deaths/100,000 live births (2017 est.)<br>
@@ -364,11 +361,11 @@ _election results_: Bidhya Devi BHANDARI reelected president; electoral vote - B
 
 **Legislative branch**<br>
 _description_: bicameral Federal Parliament consists of:<br>National Assembly (59 seats; 56 members, including at least 3 women, 1 Dalit, 1 member with disabilities, or 1 minority indirectly elected by an electoral college of state and municipal government leaders, and 3 members, including 1 woman, nominated by the president of Nepal on the recommendation of the government; members serve 5-year terms with renewal of one-third of the membership every 2 years)<br>House of Representatives (275 seats statutory, current 271 with 4 vacant; 165 members directly elected in single-seat constituencies by simple majority vote and 110 members directly elected in a single nationwide constituency by closed-list proportional representation vote, with a threshold of 3% overall valid vote to be allocated a seat; members serve 5-year terms); note - the House of Representatives was dissolved on 22 May 2021, but on 13 July, the Supreme Court directed its reinstatement<br>
-_elections_: <br>National Assembly - last held on 26 January 2022 (next to be held in 2024)<br>first election for House of Representatives held on 26 November and 7 December 2017 (next in November 2022)<br>
+_elections_: <br>National Assembly - last held on 26 January 2022 (next to be held in 2024)<br>first election for House of Representatives held on 26 November and 7 December 2017 (next to be held on 20 November 2022)<br>
 _election results_: <br>National Assembly - percent of vote by party - NA; seats by party - NCP 42, NC 13, FSFN 2, RJPN 2; composition - men 37, women 22, percent of women 37.3%<br>House of Representatives - percent of vote by party - NA; seats by party - NCP 174, NC 63, RJPN 17, FSFN 16, vacant 4, independent 1; composition - men 180, women 91, percent of women 33.6%; note - total Federal Parliament percent of women 33.8%<br>
 
 **Judicial branch**<br>
-_highest courts_: Supreme Court (consists of the chief justice and up to 20 judges)<br>
+_highest court(s)_: Supreme Court (consists of the chief justice and up to 20 judges)<br>
 _judge selection and term of office_: Supreme Court chief justice appointed by the president upon the recommendation of the Constitutional Council, a 5-member, high-level advisory body headed by the prime minister; other judges appointed by the president upon the recommendation of the Judicial Council, a 5-member advisory body headed by the chief justice; the chief justice serves a 6-year term; judges serve until age 65<br>
 _subordinate courts_: High Court; district courts<br>
 
@@ -626,7 +623,7 @@ _subscriptions per 100 inhabitants_: 131 (2020 est.)<br>
 _general assessment_: in relation to its telecom sector, Nepal has several topographical and economic constraints which have impeded efforts to expand network infrastructure and improve the quality of service for end-users; the fixed line market remains underdeveloped, and as a result most traffic is channeled via mobile networks; fixed broadband penetration remains very low, though to address this the government has initiated several programs as part of the Digital Nepal Framework and the wider Optical Fiber Backbone Network Expansion Project, started in 2012; supported by the Rural Telecommunications Development Fund, the programs include building out fiber backbone infrastructure and using this to provide broadband to schools and community centers nationally; Telcos have also invested in fiber networks, and competition in the market is intensifying; cheap fiber-based services launched by CG Net in mid-2021 prompted responses from other ISPs to provide faster and more competitively priced offers;<br>Nepal’s mobile market is relatively developed, with a focus on LTE; in 2021, the regulator considered a range of spectrum bands which could be used for 5G, while Nepal Telecom was charged with trialing services in five cities. (2021)<br>
 _domestic_: 3G coverage is available in 20 major cities (2019); disparity between high coverage in cities and coverage available in underdeveloped rural regions; fixed-line less than 3 per 100 persons and mobile-cellular nearly 131 per 100 persons; fair radiotelephone communication service; 20% of the market share is fixed (wired) broadband, 2% is fixed (wireless) broadband, and 78% is mobile broadband (2019)<br>
 _international_: country code - 977; Nepal, China and Tibet connected across borders with underground and all-dielectric self-supporting (ADSS) fiber-optic cables; radiotelephone communications; microwave and fiber landlines to India; satellite earth station - 1 Intelsat (Indian Ocean) (2019)<br>
-<strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress towards 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>
+<strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress toward 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>
 
 **Broadcast media**<br>
 state operates 3 TV stations, as well as national and regional radio stations; 117 television channels are licensed, among those 71 are cable television channels,&nbsp;three are distributed through&nbsp;Direct-To-Home (DTH) system, and four are digital terrestrial;&nbsp;736 FM radio stations are licensed and at least 314 of those radio stations are community radio stations (2019)<br>

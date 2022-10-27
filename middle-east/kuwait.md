@@ -76,9 +76,6 @@ sudden cloudbursts are common from October to April and bring heavy rain, which 
 **Geography - note**<br>
 strategic location at head of Persian Gulf<br>
 
-**Map description**<br>
-<p>Kuwait map showing major population centers as well as parts of surrounding countries and the Persian Gulf.</p><br>
-
 ## People and Society
 
 **Population**<br>
@@ -345,11 +342,11 @@ _elections/appointments_: amir chosen from within the ruling family, confirmed b
 
 **Legislative branch**<br>
 _description_: unicameral National Assembly or Majlis al-Umma (65 seats; 50 members directly elected from 5 multi-seat constituencies by simple majority vote and 15 ex-officio members (cabinet ministers)&nbsp;appointed by the amir; members serve 4-year terms)<br>
-_elections_: last held on 5 December 2020 (next to be held NA)<br>
-_election results_: all candidates ran as independents, though nearly one-half were oppositionists; composition of elected members - men 50, women 0, percent of women 0%<br>
+_elections_: last held on 29 September 2022 (next to be held in 2026)<br>
+_election results_: 50 nonpartisans elected, of which 28 were opposition candidates; composition - men 48, women 2, percent of women 4%<br>
 
 **Judicial branch**<br>
-_highest courts_: Constitutional Court (consists of 5 judges); Supreme Court or Court of Cassation (organized into several circuits, each with 5 judges)<br>
+_highest court(s)_: Constitutional Court (consists of 5 judges); Supreme Court or Court of Cassation (organized into several circuits, each with 5 judges)<br>
 _judge selection and term of office_: all Kuwaiti judges appointed by the Amir upon recommendation of the Supreme Judicial Council, a consultative body comprised of Kuwaiti judges and Ministry of Justice officials<br>
 _subordinate courts_: High Court of Appeal; Court of First Instance; Summary Court<br>
 
@@ -598,7 +595,7 @@ _subscriptions per 100 inhabitants_: 159 (2020 est.)<br>
 _general assessment_: Kuwait&rsquo;s telecom infrastructure is well developed, with a focus on mobile infrastructure and services; the telecom sector is important to the country&rsquo;s economy, and this will become more pronounced in coming years as the economy is purposefully transitioned away from a dependence on oil and gas to one which is increasingly knowledge-based and focused on ICT and related services; the MNOs have focused investment on 5G networks, which support and promote the growth of data traffic; this in turn has been a catalyst for revenue growth in recent quarters; while Kuwait&rsquo;s mobile sector shows considerable progress; the country&rsquo;s fixed broadband system is the lowest in the region; the government has stepped up efforts to build up fixed broadband networks, and ultimately this sector offers a potential future growth opportunity; improvements to the fixed broadband infrastructure will help develop sectors such as e-commerce, along with smart infrastructure developments, and tech start-ups. (2022)<br>
 _domestic_: fixed-line subscriptions are nearly 14 per 100 and mobile-cellular stands at nearly 159 per 100 subscriptions (2020)<br>
 _international_: country code - 965; landing points for the FOG, GBICS, MENA, Kuwait-Iran, and FALCON submarine cables&nbsp;linking Africa, the Middle East, and Asia; microwave radio relay to Saudi Arabia; satellite earth stations - 6 (3 Intelsat - 1 Atlantic Ocean and 2 Indian Ocean, 1 Inmarsat - Atlantic Ocean, and 2 Arabsat) (2019)<br>
-<strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress towards 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>
+<strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress toward 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>
 
 **Broadcast media**<br>
 state-owned TV broadcaster operates 4 networks and a satellite channel; several private TV broadcasters have emerged; satellite TV available&nbsp;and pan-Arab TV stations are especially popular; state-owned Radio Kuwait broadcasts on a number of channels in Arabic and English; first private radio station emerged in 2005; transmissions of at least 2 international radio broadcasters are available (2019)<br>
@@ -677,7 +674,7 @@ approximately 17,000 active duty armed forces personnel (12,500 Army, including 
 the military's inventory consists of weapons from a wide variety of sources, including Western Europe, Russia, the United Arab Emirates, and the US; the US has been the leading supplier of arms to Kuwait since 2010 (2022)<br>
 
 **Military service age and obligation**<br>
-17-21 years of age for voluntary military service; Kuwait reintroduced 12-month mandatory service for men aged 18-35 in May 2017 after having suspended conscription in 2001; mandatory service is divided in two phases – 4 months for training and 8 months for military service; women were allowed to volunteer in 2021 (2022)<br><br> <br>
+18-26 years of age for voluntary military service; Kuwait reintroduced 12-month mandatory service for men aged 18-35 in May 2017 after having suspended conscription in 2001; mandatory service is divided in two phases – 4 months for training and 8 months for military service; women were allowed to volunteer in 2021 (2022)<br><br> <br>
 &nbsp;<br>
 
 **Military - note**<br>

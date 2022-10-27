@@ -82,9 +82,6 @@ monsoonal rains (June to November); flooding; occasional droughts<br>
 **Geography - note**<br>
 a land of paddies and forests dominated by the Mekong River and Tonle Sap (Southeast Asia's largest freshwater lake)<br>
 
-**Map description**<br>
-<p>Cambodia map showing major cities as well as parts of surrounding countries and the Gulf of Thailand.</p><br>
-
 ## People and Society
 
 **Population**<br>
@@ -158,7 +155,7 @@ _total population_: 0.94 male(s)/female (2022 est.)<br>
 
 **Mother's mean age at first birth**<br>
 22.4 years (2014 est.)<br>
-<strong>note:</strong> median age at first birth among women 25-49<br>
+<strong>note:</strong> data represents median age at first birth among women 25-49<br>
 
 **Maternal mortality ratio**<br>
 160 deaths/100,000 live births (2017 est.)<br>
@@ -374,7 +371,7 @@ _elections_: <br>Senate - last held on 25 February 2018 (next to be held in 2024
 _election results_: <strong> </strong><br>Senate - percent of vote by party - CPP 96%, FUNCINPEC 2.4%, KNUP 1.6%; seats by party - CPP 58; composition - men 53, women 9, percent of women 14.5%<br>National Assembly - percent of vote by party - CPP 76.9%, FUNCINPEC 5.9%, LDP 4.9%, Khmer Will Party 3.4%, other 8.9%; seats by party - CPP 125; composition - men 100, women 25, percent of women 20%; note - total Parliament of Cambodia percent of women 18.2%<br>
 
 **Judicial branch**<br>
-_highest courts_: Supreme Council (organized into 5- and 9-judge panels and includes a court chief and deputy chief); Constitutional Court (consists of 9 members); note - in 1997, the Cambodian Government requested UN assistance in establishing trials to prosecute former Khmer Rouge senior leaders for crimes against humanity committed during the 1975-1979 Khmer Rouge regime; the Extraordinary Chambers of the Courts of Cambodia (also called the Khmer Rouge Tribunal) was established in 2006 and began hearings for the first case in 2009; court proceedings remain ongoing in 2021<br>
+_highest court(s)_: Supreme Council (organized into 5- and 9-judge panels and includes a court chief and deputy chief); Constitutional Court (consists of 9 members); note - in 1997, the Cambodian Government requested UN assistance in establishing trials to prosecute former Khmer Rouge senior leaders for crimes against humanity committed during the 1975-1979 Khmer Rouge regime; the Extraordinary Chambers of the Courts of Cambodia (also called the Khmer Rouge Tribunal) was established in 2006 and began hearings for the first case in 2009; court proceedings remain ongoing in 2021<br>
 _judge selection and term of office_: Supreme Court and Constitutional Council judge candidates recommended by the Supreme Council of Magistracy, a 17-member body chaired by the monarch and includes other high-level judicial officers; judges of both courts appointed by the monarch; Supreme Court judges appointed for life; Constitutional Council judges appointed for 9-year terms with one-third of the court renewed every 3 years<br>
 _subordinate courts_: Appellate Court; provincial and municipal courts; Military Court<br>
 

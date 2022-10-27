@@ -82,9 +82,6 @@ the majority of people live in the north and west where agricultural opportuniti
 **Geography - note**<br>
 only South American country with coastlines on both the North Pacific Ocean and Caribbean Sea<br>
 
-**Map description**<br>
-<p>Colombia map showing major cities as well as parts of surrounding countries and the North Pacific Ocean.</p><br>
-
 ## People and Society
 
 **Population**<br>
@@ -158,7 +155,7 @@ _total population_: 0.96 male(s)/female (2022 est.)<br>
 
 **Mother's mean age at first birth**<br>
 21.7 years (2015 est.)<br>
-<strong>note:</strong> median age at first birth among women 25-49<br>
+<strong>note:</strong> data represents median age at first birth among women 25-49<br>
 
 **Maternal mortality ratio**<br>
 83 deaths/100,000 live births (2017 est.)<br>
@@ -378,7 +375,7 @@ _elections_: <strong> </strong><br>Senate - last held on 13 March 2022 (next to
 _election results_: <br>Senate - percent of vote by party - NA; seats by party - PHxC 16, PC 16, PL 15, Green Alliance and Center Hope Coalition 14, CD 14, CR 11, U Party 10, MIRA–Colombia Free and Just Coalition 4; composition - men 75, women 33, percent of women 31%<br>Chamber of Representatives - percent of vote by party - NA; seats by party - PL 33, PHxC 28, PC 27, CR 18, CD 16, U Party 16, Green Alliance 14, League of Anticorruption Governors 2, others 34; composition - men 136, women 52, percent of women 28%; total Congress percent of women 29%<br>
 
 **Judicial branch**<br>
-_highest courts_: Supreme Court of Justice or Corte Suprema de Justicia (consists of the Civil-Agrarian and Labor Chambers each with 7 judges, and the Penal Chamber with 9 judges); Constitutional Court (consists of 9 magistrates); Council of State (consists of 27 judges); Superior Judiciary Council (consists of 13 magistrates)<br>
+_highest court(s)_: Supreme Court of Justice or Corte Suprema de Justicia (consists of the Civil-Agrarian and Labor Chambers each with 7 judges, and the Penal Chamber with 9 judges); Constitutional Court (consists of 9 magistrates); Council of State (consists of 27 judges); Superior Judiciary Council (consists of 13 magistrates)<br>
 _judge selection and term of office_: Supreme Court judges appointed by the Supreme Court members from candidates submitted by the Superior Judiciary Council; judges elected for individual 8-year terms; Constitutional Court magistrates - nominated by the president, by the Supreme Court, and elected by the Senate; judges elected for individual 8-year terms; Council of State members appointed by the State Council plenary from lists nominated by the Superior Judiciary Council<br>
 _subordinate courts_: Superior Tribunals (appellate courts for each of the judicial districts); regional courts; civil municipal courts; Superior Military Tribunal; first instance administrative courts<br>
 
@@ -390,7 +387,7 @@ Alternative Democratic Pole or PDA [Alexander LOPEZ Maya]<br>Citizens Option (Op
 BCIE, BIS, CAN, Caricom (observer), CD, CDB, CELAC, EITI (candidate country), FAO, G-3, G-24, G-77, IADB, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), LAES, LAIA, Mercosur (associate), MIGA, NAM, OAS, OPANAL, OPCW, Pacific Alliance, PCA, PROSUR, UN, UNASUR, UNCTAD, UNESCO, UNHCR, UNIDO, Union Latina, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
 
 **Diplomatic representation in the US**<br>
-_chief of mission_: Ambassador Juan Carlos PINZON Bueno (since August 2021)<br>
+_chief of mission_: Ambassador Luis Gilberto MURILLO URRUTIA (since 16 September 2022)<br>
 _chancery_: 1724 Massachusetts Avenue NW, Washington, DC 20036<br>
 _telephone_: [1] (202) 387-8338<br>
 _FAX_: [1] (202) 232-8643<br>
@@ -641,7 +638,7 @@ _total subscriptions_: 67,672,570 (2020 est.)<br>
 _subscriptions per 100 inhabitants_: 133 (2020 est.)<br>
 
 **Telecommunication systems**<br>
-_general assessment_: the telecom sector had a solid year thanks to positive performances in the fixed-line broadband, mobile broadband, and mobile voice and data market; fixed-line remained stable by the end of 2020, though began to increase into 2021 as a result of the particular demands on households resulting from government measures associated with addressing the pandemic; at less than 15% it is well below the Latin American average; the mobile market, by contrast, reached a penetration rate of 136% (an increase of over three percentage points on 2019) and managed to keep the same upward growth trajectory that it has sustained over the last ten years; the fixed-line broadband market also expanded, with the number of subscribers increasing 11.4%, and with revenue increasing 9.9% thanks to increased data usage as many customers were forced to work or study from home during the year; the mobile broadband market was the standout performer in 2020, with a 13% increase in the number of subscribers year-on-year, albeit the subscription rate is relatively low compared to other Latin American countries; the surge in mobile broadband traffic &mdash; a 51% increase over the previous year &mdash; which was again a reflection of the strict lock downs that Colombians had to endure for much of 2020; market leader Claro continued to expand its dominance of the mobile broadband market, increasing its share over the last decade by 10% to reach 54% at the start of 2021; Tigo has seen its share halved over the same period of time, yet its subscriber base has still managed to grow on the back of a strong overall market. Tigo also suffered the most from Colombia&rsquo;s imposed lock downs in 2020, severely impacting its retail sales (a 20% decline in revenue) with nearly half of its stores being forced to close; Movistar and Claro awarded spectrum in the 3.5GHz band for 5G trials (2021)<br>
+_general assessment_: the telecom sector had a solid year thanks to positive performances in the fixed-line broadband, mobile broadband, and mobile voice and data market; fixed-line remained stable by the end of 2020, though began to increase into 2021 as a result of the particular demands on households resulting from government measures associated with addressing the pandemic; at less than 15% it is well below the Latin American average; the mobile market, by contrast, reached a penetration rate of 136% (an increase of over three percentage points on 2019) and managed to keep the same upward growth trajectory that it has sustained over the last ten years; the fixed-line broadband market also expanded, with the number of subscribers increasing 11.4%, and with revenue increasing 9.9% thanks to increased data usage as many customers were forced to work or study from home during the year; the mobile broadband market was the standout performer in 2020, with a 13% increase in the number of subscribers year-on-year, albeit the subscription rate is relatively low compared to other Latin American countries; the surge in mobile broadband traffic &mdash; a 51% increase over the previous year &mdash; which was again a reflection of the strict lock downs that Colombians had to endure for much of 2020 (2021)<br>
 _domestic_: fixed-line connections stand at about 14 per 100 persons; mobile cellular telephone subscribership is 133 per 100 persons; Partners Telecom Colombia's (WOM) market entrance in June 2021 increased competition among cellular service providers and is resulting in falling local and international calling rates and contributing to the steep decline in the market share of fixed-line services; domestic satellite system with 41 earth stations (2021)<br>
 _international_: country code - 57; landing points for the SAC, Maya-1, SAIT, ACROS, AMX-1, CFX-1, PCCS, Deep Blue Cable, Globe Net, PAN-AM, SAm-1&nbsp;submarine cable systems providing links to the US, parts of the Caribbean, and Central and South America; satellite earth stations - 10 (6 Intelsat, 1 Inmarsat, 3 fully digitalized international switching centers) (2019)<br>
 <strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress toward 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>

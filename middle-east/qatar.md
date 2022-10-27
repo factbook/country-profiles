@@ -75,9 +75,6 @@ haze, dust storms, sandstorms common<br>
 **Geography - note**<br>
 the peninsula occupies a strategic location in the central Persian Gulf near major petroleum deposits<br>
 
-**Map description**<br>
-<p>Qatar map showing major population centers and neighboring countries of this peninsular country that extends into the Persian Gulf.</p><br>
-
 ## People and Society
 
 **Population**<br>
@@ -346,7 +343,7 @@ _elections_: first election held for 30 elected members on 2 October 2021 (next 
 _election results_: 30 nonpartisan members elected; composition - men 30, women 0 <br>15 appointed members; composition men 13, women 2, percent of women 13.3%<br>
 
 **Judicial branch**<br>
-_highest courts_: Supreme Court or Court of Cassation (consists of the court president and several judges); Supreme Constitutional Court (consists of the chief justice and 6 members)<br>
+_highest court(s)_: Supreme Court or Court of Cassation (consists of the court president and several judges); Supreme Constitutional Court (consists of the chief justice and 6 members)<br>
 _judge selection and term of office_: Supreme Court judges nominated by the Supreme Judiciary Council, a 9-member independent body consisting of judiciary heads appointed by the Amir; judges appointed for 3-year renewable terms; Supreme Constitutional Court members nominated by the Supreme Judiciary Council and appointed by the monarch; term of appointment NA<br>
 _subordinate courts_: Courts of Appeal; Administrative Court; Courts of First Instance; sharia courts; Courts of Justice; Qatar International Court and Dispute Resolution Center, established in 2009, provides dispute resolution services for institutions and bodies in Qatar, as well as internationally<br>
 
@@ -601,7 +598,7 @@ _subscriptions per 100 inhabitants_: 132 (2020 est.)<br>
 _general assessment_: Qatar had developed a mature telecom sector which has been able to absorb the additional data demands made on it during the pandemic; mobile services based on LTE are universally available, and this has helped the two operators Ooredoo Qatar and Vodafone Qatar to migrate to 5G; in combination with a strong fiber rollout, the country is aiming to provide gigabit services nationally; 5G services are largely based on 3.5GHz spectrum made available following an auction in early 2019. (2022)<br>
 _domestic_: fixed-line nearly 16 per 100 and mobile-cellular telephone subscribership nearly 132 telephones per 100 persons (2020)<br>
 _international_: country code - 974; landing points for the&nbsp;Qatar-UAE Submarine&nbsp;Cable&nbsp;System, AAE-1, FOG, GBICS/East North Africa MENA and the FALCON submarine cable network that provides links to Asia, Africa, the Middle East, Europe and Southeast Asia; tropospheric scatter to Bahrain; microwave radio relay to Saudi Arabia and the UAE; satellite earth stations - 2 Intelsat (1 Atlantic Ocean and 1 Indian Ocean) and 1 Arabsat; retains full ownership of two commercial satellites, Es'hailSat 1 and 2 (2019)<br>
-<strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress towards 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>
+<strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress toward 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>
 
 **Broadcast media**<br>
 TV and radio broadcast licensing and access to local media markets are state controlled; home of the satellite TV channel Al-Jazeera, which was originally owned and financed by the Qatari government but has evolved to independent corporate status; Al-Jazeera claims editorial independence in broadcasting; local radio transmissions include state, private, and international broadcasters on FM frequencies in Doha; in August 2013, Qatar's satellite company Es'hailSat launched its first communications satellite Es'hail 1 (manufactured in the US), which entered commercial service in December 2013 to provide improved television broadcasting capability and expand availability of voice and Internet; Es'hailSat launched its second commercial satellite in 2018 with aid of SpaceX (2019)<br>

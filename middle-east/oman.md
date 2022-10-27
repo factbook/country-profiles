@@ -75,9 +75,6 @@ summer winds often raise large sandstorms and dust storms in interior; periodic 
 **Geography - note**<br>
 consists of Oman proper and two northern exclaves, Musandam and Al Madhah; the former is a peninsula that occupies a strategic location adjacent to the Strait of Hormuz, a vital transit point for world crude oil<br>
 
-**Map description**<br>
-<p>Oman map showing major population centers as well as parts of surrounding countries and the Arabian Sea and Gulf of Oman.</p><br>
-
 ## People and Society
 
 **Population**<br>
@@ -345,7 +342,7 @@ _elections_: Council of State - last appointments on 11 July 2019 (next to be he
 _election results_: <br>Council of State - composition - men 70, women 15, percent of women 17.6%<br>Consultative Council percent of vote by party - NA; seats by party - NA (organized political parties in Oman are legally banned); composition men 84, women 2, percent of women 2.3%; note - total Council of Oman percent of women 9.9%<br>
 
 **Judicial branch**<br>
-_highest courts_: Supreme Court (consists of 5 judges)<br>
+_highest court(s)_: Supreme Court (consists of 5 judges)<br>
 _judge selection and term of office_: judges nominated by the 9-member Supreme Judicial Council (chaired by the monarch) and appointed by the monarch; judges appointed for life<br>
 _subordinate courts_: Courts of Appeal; Administrative Court; Courts of First Instance; sharia courts; magistrates' courts; military courts<br>
 
@@ -600,7 +597,7 @@ _subscriptions per 100 inhabitants_: 134 (2020 est.)<br>
 _general assessment_: for many years Oman&rsquo;s mobile market was a duopoly between the incumbent telco Omantel and its challenger Ooredoo Oman; in February 2021, Vodafone Group and Oman Future Telecommunications consortium secured a license to operate the Sultanate&rsquo;s third network, with services being under the Vodafone Oman brand; the new operator has been able to extend its reach based on a tower leasing arrangement signed in 2020 with Oman Tower Company; Oman has a modern mobile sector which comprises substantial coverage of both 3G and LTE networks; in February 2021 Omantel launched commercial 5G services, while Ooredoo Group has a five-year framework agreement with Ericsson to develop its 5G platform across the Group&rsquo;s ten markets, including Oman; the Covid-19 pandemic has caused a spike in mobile data traffic, which prompted Omantel to upgrade a number of sites from 3G to LTE, as well as build a number of additional 5G sites; while Oman&rsquo;s fixed broadband infrastructure penetration is considered low, it is being improved with the building of fiber-based networks as part of Oman&rsquo;s Vision 2040 program; Oman has also established itself as an important communications hub in the Middle East, with access to numerous submarine cables including the 2Africa submarine cable, which should become available during 2023-2024; the 9,800km Oman Australia Cable running from Muscat to Perth, with the potential for a branch line to Djibouti, is making progress and is expected to be completed in December 2021; this additional infrastructure will provide considerable additional bandwidth. (2021)<br>
 _domestic_: fixed-line nearly 13 per 100 and mobile-cellular nearly 134 per 100; fixed-line phone service gradually being introduced to remote villages using wireless local loop systems (2020)<br>
 _international_: country code - 968;&nbsp;landing points for GSA, AAE-1,&nbsp;SeaMeWe-5, Tata TGN-Gulf,&nbsp;FALCON, GBICS/MENA, MENA/Guld Bridge International, TW1, BBG, EIG, OMRAN/EPEG, and POI&nbsp;submarine cables providing connectivity to Asia,&nbsp;Africa, the Middle East, Southeast Asia&nbsp;and Europe; satellite earth stations - 2 Intelsat (Indian Ocean) (2019)<br>
-<strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress towards 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>
+<strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress toward 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>
 
 **Broadcast media**<br>
 1 state-run TV broadcaster; TV stations transmitting from Saudi Arabia, the UAE, Iran, and Yemen available via satellite TV; state-run radio operates multiple stations; first private radio station began operating in 2007 and several additional stations now operating (2019)<br>

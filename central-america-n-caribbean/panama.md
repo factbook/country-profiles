@@ -75,9 +75,6 @@ occasional severe storms and forest fires in the Darien area<br>
 **Geography - note**<br>
 strategic location on eastern end of isthmus forming land bridge connecting North and South America; controls Panama Canal that links North Atlantic Ocean via Caribbean Sea with North Pacific Ocean<br>
 
-**Map description**<br>
-<p>Panama map showing major cities as well as parts of surrounding countries and the North Pacific Ocean and Caribbean Sea.</p><br>
-
 ## People and Society
 
 **Population**<br>
@@ -359,7 +356,7 @@ _elections_: last held on 5 May 2019 (next to be held in May 2024)<br>
 _election results_: percent of vote by party - NA; seats by party - PRD 35, CD 18, Panamenista 8, MOLIRENA 5, independent 5; composition - men 55, women 16, percent of women 22.5%<br>
 
 **Judicial branch**<br>
-_highest courts_: Supreme Court of Justice or Corte Suprema de Justicia (consists of 9 magistrates and 9 alternates and divided into civil, criminal, administrative, and general business chambers)<br>
+_highest court(s)_: Supreme Court of Justice or Corte Suprema de Justicia (consists of 9 magistrates and 9 alternates and divided into civil, criminal, administrative, and general business chambers)<br>
 _judge selection and term of office_: magistrates appointed by the president for staggered 10-year terms<br>
 _subordinate courts_: appellate courts or Tribunal Superior; Labor Supreme Courts; Court of Audit; circuit courts or Tribunal Circuital (2 each in 9 of the 10 provinces); municipal courts; electoral, family, maritime, and adolescent courts<br>
 
@@ -370,7 +367,7 @@ Alliance Party or PA [Jose MUNOZ Molina]<br>Alternative Independent Socialist Pa
 BCIE, CAN (observer), CD, CELAC, FAO, G-77, IADB, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), LAES, LAIA, MIGA, NAM, OAS, OPANAL, OPCW, Pacific Alliance (observer), PCA, SICA, UN, UNASUR (observer), UNCTAD, UNESCO, UNIDO, Union Latina, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
 
 **Diplomatic representation in the US**<br>
-_chief of mission_: Ambassador (vacant); Charge d'Affaires Laura CASTRO Grimaldo (since 28 November 2021)<br>
+_chief of mission_: Ambassador Ram&oacute;n Eduardo MART&Iacute;NEZ DE LA GUARDIA (since 16 September 2022)<br>
 _chancery_: 2862 McGill Terrace NW, Washington, DC 20007<br>
 _telephone_: [1] (202) 483-1407<br>
 _FAX_: [1] (202) 483-8413<br>
@@ -623,7 +620,7 @@ _subscriptions per 100 inhabitants_: 135 (2020 est.)<br>
 _general assessment_: Panama has seen a steady increase in revenue from the telecom sector in recent years; mobile services and broadband remain the key growth sectors, with mobile connections accounting for 90% of all connections, and over half of telecom sector revenue; the mobile sector has flourished since the arrival of Digicel Panam&aacute; in 2008 and of Am&eacute;rica M&oacute;vil in 2009, which ended the duopoly long enjoyed by Cable &amp; Wireless Panam&aacute; and Telef&oacute;nica&rsquo;s Movistar. Millicom International Cellular (trading as Tigo) acquired Telef&oacute;nica&rsquo;s telecom assets in Panama in 2019; the mobile market has effective competition among these players; internet services have grown in recent years as consumers responded to government fixed-line projects, improved mobile broadband connectivity and a plethora of mobile applications. (2021)<br>
 _domestic_: fixed-line about 14 per 100 and rapid subscribership of mobile-cellular telephone roughly 132 per 100 (2020)<br>
 _international_: country code - 507; landing points for the&nbsp;PAN-AM, ARCOS, SAC, AURORA,&nbsp;PCCS, PAC, and the MAYA-1 submarine cable systems that together provide links to the US and parts of the Caribbean, Central America, and South America; satellite earth stations - 2 Intelsat (Atlantic Ocean); connected to the Central American Microwave System (2019)<br>
-<strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress towards 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>
+<strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress toward 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>
 
 **Broadcast media**<br>
 multiple privately owned TV networks and a government-owned educational TV station; multi-channel cable and satellite TV subscription services are available; more than 100 commercial radio stations (2019)<br>

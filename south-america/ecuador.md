@@ -78,9 +78,6 @@ nearly half of the population is concentrated in the interior in the Andean inte
 **Geography - note**<br>
 <strong>note 1:</strong> Cotopaxi in Andes is highest active volcano in world<br><br><strong>note 2:</strong> genetic research indicates that the cherry-sized tomato originated in Ecuador without any human domestication; later domestication in Mexico transformed the plant into the large modern tomato; archeological research indicates that the cacao tree, whose seeds are used to make chocolate and which was long thought to have originated in Mesoamerica, was first domesticated in the upper Amazon region of northwest South America - present-day Ecuador - about 3,300 B.C.<br>
 
-**Map description**<br>
-<p>Ecuador map showing major cities as well as parts of surrounding countries and the Pacific Ocean.</p><br>
-
 ## People and Society
 
 **Population**<br>
@@ -368,7 +365,7 @@ _elections_: last held on 7 February 2021 (next scheduled in February 2025)<br>
 _election results_: percent of vote by party - UNES 32.21%, MUPP 16.81%, ID 11.98%, PSC 9.73%, CREO 9.65%, MC-PSE 3.76%, other 15.86%; seats by party - UNES 49, MUPP 27, ID 18, PSC 18, CREO 12, MC-PSE 2, independents 3, other 8; composition as of March 2022 - men 84, women 53, percent of women 38.7%; note - defections by members of National Assembly are commonplace, resulting in frequent changes in the numbers of seats held by the various parties<br>
 
 **Judicial branch**<br>
-_highest courts_: National Court of Justice or Corte Nacional de Justicia (consists of 21 judges, including the chief justice and organized into 5 specialized chambers); Constitutional Court or Corte Constitucional (consists of the court president and 8 judges)<br>
+_highest court(s)_: National Court of Justice or Corte Nacional de Justicia (consists of 21 judges, including the chief justice and organized into 5 specialized chambers); Constitutional Court or Corte Constitucional (consists of the court president and 8 judges)<br>
 _judge selection and term of office_: candidates for the National Court of Justice evaluated and appointed justices by the Judicial Council, a 9-member independent body of law professionals; justices elected for 9-year, non-renewable terms, with one-third of the membership renewed every 3 years; candidates for the Constitutional Court evaluated and appointed judges by a 6-member independent body of law professionals; judges appointed for 4-year renewable terms<br>
 _subordinate courts_: provincial courts (one for each province except Galapagos); fiscal, criminal, and administrative tribunals; Election Dispute Settlement Courts; cantonal courts<br>
 
@@ -629,7 +626,7 @@ _total subscriptions_: 15,485,366 (2020 est.)<br>
 _subscriptions per 100 inhabitants_: 88 (2020 est.)<br>
 
 **Telecommunication systems**<br>
-_general assessment_: Ecuador&rsquo;s remote and mountainous geography lends challenges to tele-density; government-owned provider to improve fixed-line and LTE infrastructure, with emphasis on fiber expansion from urban to rural areas and installation of a 5G network; small telecom market dominated by the non-competitive mobile sector; inadequate fixed-line infrastructure and slowed fixed-line broadband services (2020). (2020)<br>
+_general assessment_: Ecuador&rsquo;s remote and mountainous geography lends challenges to tele-density; government-owned provider to improve fixed-line and LTE infrastructure, with emphasis on fiber expansion from urban to rural areas and installation of a 5G network; small telecom market dominated by the non-competitive mobile sector; inadequate fixed-line infrastructure and slowed fixed-line broadband services (2020) (2020)<br>
 _domestic_: according to 2021 statistics from the Ministry of Telecommunications and Information Society, 50 percent of Ecuadorian homes do not have access to fixed internet. &nbsp;Ecuador&rsquo;s telecoms regulator, ARCOTEL is currently evaluating and reorganizing the 3.5GHz, 2.5 GHz, 700 MHz and AWS spectrum for future government tenders.&nbsp; 2G/3G technologies have a 91.11 percent of penetration and 4G technologies has 60.74 percent (2021). (2021)<br>
 _international_: country code - 593; landing points for the SPSC (Mistral Submarine Cable), Panamerican Cable System (PAN-AM), Pacific Caribbean Cable System (PCCS), America Movil-Telxius West Coast Cable and SAm-1 submarine (SAm-1) cables that provide links to South and Central America, and extending onward to the Caribbean and the US; satellite earth station - 1 Intelsat (Atlantic Ocean) (2019)<br>
 <strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress toward 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>

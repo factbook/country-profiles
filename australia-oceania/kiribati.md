@@ -71,9 +71,6 @@ typhoons can occur any time, but usually November to March; occasional tornadoes
 **Geography - note**<br>
 21 of the 33 islands are inhabited; Banaba (Ocean Island) in Kiribati is one of the three great phosphate rock islands in the Pacific Ocean - the others are Makatea in French Polynesia, and Nauru; Kiribati is the only country in the world to fall into all four hemispheres (northern, southern, eastern, and western)<br>
 
-**Map description**<br>
-<p>Kiribati map showing the extent of the three island groups that comprise Kiribati and that straddle both sides of the Equator.</p><br>
-
 ## People and Society
 
 **Population**<br>
@@ -143,7 +140,7 @@ _total population_: 0.94 male(s)/female (2022 est.)<br>
 
 **Mother's mean age at first birth**<br>
 23.1 years (2009 est.)<br>
-<strong>note:</strong> median age at first birth among women 25-29<br>
+<strong>note:</strong> data represents median age at first birth among women 25-29<br>
 
 **Maternal mortality ratio**<br>
 92 deaths/100,000 live births (2017 est.)<br>
@@ -347,7 +344,7 @@ _elections_: legislative elections originally scheduled to be held in two rounds
 _election results_: percent of vote by party (second round) - NA; seats by party (second round) - TKB 22, BKM 22, 1 independent<br>
 
 **Judicial branch**<br>
-_highest courts_: High Court (consists of a chief justice and other judges as prescribed by the president); note - the High Court has jurisdiction on constitutional issues<br>
+_highest court(s)_: High Court (consists of a chief justice and other judges as prescribed by the president); note - the High Court has jurisdiction on constitutional issues<br>
 _judge selection and term of office_: chief justice appointed by the president on the advice of the cabinet in consultation with the Public Service Commission (PSC); other judges appointed by the president on the advice of the chief justice along with the PSC<br>
 _subordinate courts_: Court of Appeal; magistrates' courts<br>
 
@@ -584,7 +581,7 @@ _subscriptions per 100 inhabitants_: 46 (2020 est.)<br>
 _general assessment_: generally good national and international service; wireline service available on Tarawa and Kiritimati (Christmas Island); connections to outer islands by HF/VHF radiotelephone; recently formed (mobile network operator) MNO is implementing the first phase of improvements with 3G and 4G upgrades on some islands; islands are connected to each other and the rest of the world via satellite; launch of Kacific-1 in December 2019 will improve telecommunication for Kiribati (2020)<br>
 _domestic_: fixed-line less than 1 per 100 and mobile-cellular approximately 46 per 100 subscriptions (2020)<br>
 _international_: country code - 686; landing point for the Southern Cross NEXT submarine cable system from Australia, 7 Pacific Ocean island countries to the US; satellite earth station - 1 Intelsat (Pacific Ocean) (2019)<br>
-<strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress towards 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>
+<strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress toward 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>
 
 **Broadcast media**<br>
 multi-channel TV packages provide access to Australian and US stations; 1 government-operated radio station broadcasts on AM, FM, and shortwave (2017)<br>

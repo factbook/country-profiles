@@ -75,9 +75,6 @@ hot, dry, dusty harmattan wind may affect north from December to March<br>
 **Geography - note**<br>
 sandbanks create difficult access to a coast with no natural harbors, river mouths, or islands<br>
 
-**Map description**<br>
-<p>Benin map showing major cities as well as parts of surrounding countries and the Bight of Benin.</p><br>
-
 ## People and Society
 
 **Population**<br>
@@ -151,7 +148,7 @@ _total population_: 0.97 male(s)/female (2022 est.)<br>
 
 **Mother's mean age at first birth**<br>
 20.5 years (2017/18 est.)<br>
-<strong>note:</strong> median age at first birth among women 25-49<br>
+<strong>note:</strong> data represents median age at first birth among women 25-49<br>
 
 **Maternal mortality ratio**<br>
 397 deaths/100,000 live births (2017 est.)<br>
@@ -375,7 +372,7 @@ _elections_: last held on 28 April 2019 (next to be held in April 2023)<br>
 _election results_: percent of vote by party - Union Progressiste 56.2%, Bloc Republicain 43.8%; seats by party - Union Progressiste 47, Bloc Republicain 36; composition as of February 2022) - men 75, women 6, percent of women 7.4%<br>
 
 **Judicial branch**<br>
-_highest courts_: Supreme Court or Cour Supreme (consists of the chief justice and 16 justices organized into an administrative division, judicial chamber, and chamber of accounts); Constitutional Court or Cour Constitutionnelle (consists of 7 members, including the court president); High Court of Justice (consists of the Constitutional Court members, 6 members appointed by the National Assembly, and the Supreme Court president); note - jurisdiction of the High Court of Justice is limited to cases of high treason by the national president or members of the government while in office<br>
+_highest court(s)_: Supreme Court or Cour Supreme (consists of the chief justice and 16 justices organized into an administrative division, judicial chamber, and chamber of accounts); Constitutional Court or Cour Constitutionnelle (consists of 7 members, including the court president); High Court of Justice (consists of the Constitutional Court members, 6 members appointed by the National Assembly, and the Supreme Court president); note - jurisdiction of the High Court of Justice is limited to cases of high treason by the national president or members of the government while in office<br>
 _judge selection and term of office_: Supreme Court president and judges appointed by the president of the republic&nbsp;upon the advice of the National Assembly; judges appointed for single renewable 5-year terms; Constitutional Court members - 4 appointed by the National Assembly and 3 by the president of the republic; members appointed for single renewable 5-year terms; other members of the High Court of Justice elected by the National Assembly; member tenure NA<br>
 _subordinate courts_: Court of Appeal or Cour d'Appel; district courts; village courts; Assize courts<br>
 
@@ -627,7 +624,7 @@ _total subscriptions_: 11,140,891 (2020 est.)<br>
 _subscriptions per 100 inhabitants_: 92 (2020 est.)<br>
 
 **Telecommunication systems**<br>
-_general assessment_: Benin&rsquo;s telecom market continues to be restricted by the poor condition of the country&rsquo;s fixed-line infrastructure;&nbsp; this has hampered the development of fixed-line voice and internet services, and there is negligible revenue derived from these sectors; mobile networks account for almost all internet connections, and also carry most voice traffic; there is promise for considerable change in the mobile sector, which has been a duopoly between Moov and MTN since the closure of services from Glo Mobile and Libercom in 2018; slow progress is being made in developing competition in the mobile sector; the national infrastructure provider SBIN has been licensed to provide mobile services, and in mid-2021 Sonatel Group was awarded a five-year contract to oversee progress; in May 2021 the government sought foreign companies unaffiliated with MTN Group or Maroc Telecom to bid for a fourth mobile license; improved international internet connectivity has contributed to a reduction in end-user pricing, and provided the potential to transform many areas of the country&rsquo;s economy, bringing a greater proportion of the population into the orbit of internet commerce and connectivity; a 2,000km fiber project started in 2016 was finally completed in mid-2021, prompting the government to secure a loan to build additional fiber infrastructure connecting four of the country&rsquo;s 12 departments. (2022)<br>
+_general assessment_: Benin&rsquo;s telecom market continues to be restricted by the poor condition of the country&rsquo;s fixed-line infrastructure;&nbsp; this has hampered the development of fixed-line voice and internet services, and there is negligible revenue derived from these sectors; mobile networks account for almost all internet connections, and also carry most voice traffic; there is promise for considerable change in the mobile sector; slow progress is being made in developing competition in the mobile sector; in May 2021 the government sought foreign companies to bid for a fourth mobile license; improved international internet connectivity has contributed to a reduction in end-user pricing, and provided the potential to transform many areas of the country&rsquo;s economy, bringing a greater proportion of the population into the orbit of internet commerce and connectivity; a 2,000km fiber project started in 2016 was finally completed in mid-2021, prompting the government to secure a loan to build additional fiber infrastructure connecting four of the country&rsquo;s 12 departments (2022)<br>
 _domestic_: fixed-line teledensity only about 1 per 100 persons; spurred by the presence of multiple mobile-cellular providers, cellular telephone subscribership has increased rapidly, nearing 92 per 100 persons (2020)<br>
 _international_: country code - 229; landing points for the SAT-3/WASC and ACE fiber-optic submarine cable that provides connectivity to Europe, and&nbsp;most West African countries; satellite earth stations - 7 (Intelsat-Atlantic Ocean) (2019)<br>
 <strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress toward 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>

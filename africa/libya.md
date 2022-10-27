@@ -78,9 +78,6 @@ hot, dry, dust-laden ghibli is a southern wind lasting one to four days in sprin
 **Geography - note**<br>
 <strong>note 1:</strong> more than 90% of the country is desert or semidesert<br><br><strong>note 2:</strong> the volcano Waw an Namus lies in south central Libya in the middle of the Sahara; the caldera is an oasis - the name means "oasis of mosquitoes" - containing several small lakes surrounded by vegetation and hosting various insects and a large diversity of birds<br>
 
-**Map description**<br>
-<p>Libya map showing major population centers as well as parts of surrounding countries and the Mediterranean Sea.</p> <p> </p><br>
-
 ## People and Society
 
 **Population**<br>
@@ -345,7 +342,7 @@ _elections_: last held on 25 June 2014<br>
 _election results_: 25 June 2014 - percent of vote by party - NA; seats by party - NA; composition; note - only 188 of the 200 seats were filled in the June 2014 election because of boycotts and lack of security at some polling stations; some elected members of the HoR also boycotted the election<br>
 
 **Judicial branch**<br>
-_highest courts_: Libya's judicial system consists of a supreme court, central high courts (in Tripoli, Benghazi, and Sabha), and a series of lower courts; the judicial system is factious given the ongoing tension between Libya's eastern and western regions; since 2011, Libyan political factions and armed groups have targeted judges and courthouses<br>
+_highest court(s)_: Libya's judicial system consists of a supreme court, central high courts (in Tripoli, Benghazi, and Sabha), and a series of lower courts; the judicial system is factious given the ongoing tension between Libya's eastern and western regions; since 2011, Libyan political factions and armed groups have targeted judges and courthouses<br>
 
 **Political parties and leaders**<br>
 NA<br><br>
@@ -589,7 +586,7 @@ _subscriptions per 100 inhabitants_: 43 (2020 est.)<br>
 _general assessment_: political and security instability in Libya has disrupted its telecom sector; much of its infrastructure remains superior to that in most other African countries; rival operators fight for control; investment in fiber backbone and upgrades to international cables; limited LTE and 5G service; some satellite broadband; Chinese companies have heavily invested in Libyan infrastructure and now dominate the telecommunications sector; in 2021 Libya signed deals and projects with US firms to upgrade portions of its infrastructure, increasing the diversity of its telecommunications networks (2022)<br>
 _domestic_: nearly 24 per 100 fixed-line and over 91 per 100 mobile-cellular subscriptions; service generally adequate (2019)<br>
 _international_: country code - 218; landing points for LFON, EIG, Italy-Libya, Silphium and Tobrok-Emasaed&nbsp;submarine cable system connecting Europe, Africa, the Middle East and Asia; satellite earth stations - 4 Intelsat, Arabsat, and Intersputnik;&nbsp; microwave radio relay to Tunisia and Egypt; tropospheric scatter to Greece; participant in Medarabtel (2019)<br>
-<strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress towards 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>
+<strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress toward 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>
 
 **Broadcast media**<br>
 state-funded and private TV stations; some provinces operate local TV stations; pan-Arab satellite TV stations are available; state-funded radio (2019)<br>

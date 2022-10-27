@@ -73,9 +73,6 @@ outside usual path of hurricanes and other tropical storms<br>
 **Geography - note**<br>
 Pitch Lake, on Trinidad's southwestern coast, is the world's largest natural reservoir of asphalt<br>
 
-**Map description**<br>
-<p>Trinidad and Tobago map showing the major population centers of these islands in the North Atlantic Ocean.</p><br>
-
 ## People and Society
 
 **Population**<br>
@@ -330,7 +327,7 @@ _election results_: Senate - percent by party - NA; seats by party - NA; composi
 <strong>note:</strong> Tobago has a unicameral House of Assembly (19 seats; 15 assemblymen directly elected by simple majority vote and 4 appointed councilors - 3 on the advice of the chief secretary and 1 on the advice of the minority leader; members serve 4-year terms)<br>
 
 **Judicial branch**<br>
-_highest courts_: Supreme Court of the Judicature (consists of a chief justice for both the Court of Appeal with 12 judges and the High Court with 24 judges); note - Trinidad and Tobago can file appeals beyond its Supreme Court to the Caribbean Court of Justice, with final appeal to the Judicial Committee of the Privy Council (in London)<br>
+_highest court(s)_: Supreme Court of the Judicature (consists of a chief justice for both the Court of Appeal with 12 judges and the High Court with 24 judges); note - Trinidad and Tobago can file appeals beyond its Supreme Court to the Caribbean Court of Justice, with final appeal to the Judicial Committee of the Privy Council (in London)<br>
 _judge selection and term of office_: Supreme Court chief justice appointed by the president after consultation with the prime minister and the parliamentary leader of the opposition; other judges appointed by the Judicial Legal Services Commission, headed by the chief justice and 5 members with judicial experience; all judges serve for life with mandatory retirement normally at age 65<br>
 _subordinate courts_: Courts of Summary Criminal Jurisdiction; Petty Civil Courts; Family Court<br>
 
@@ -575,7 +572,7 @@ _subscriptions per 100 inhabitants_: 155.11 (2019)<br>
 _general assessment_: excellent international service; good local service; broadband access; expanded FttP (Fiber to the Home) markets; LTE launch; regulatory development; major growth in mobile telephony and data segments which attacks operation investment in fiber infrastructure; moves to end roaming charges (2020)<br>
 _domestic_: fixed-line over 23 per 100 persons and mobile-cellular teledensity 142 per 100 persons (2020)<br>
 _international_: country code - 1-868; landing points for the EC Link, ECFS, Southern Caribbean Fiber, SG-SCS and Americas II submarine cable systems provide connectivity to US, parts of the Caribbean and South America; satellite earth station - 1 Intelsat (Atlantic Ocean); tropospheric scatter to Barbados and Guyana (2020)<br>
-<strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress towards 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>
+<strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress toward 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>
 
 **Broadcast media**<br>
 6 free-to-air TV networks, 2 of which are state-owned; 24 subscription providers (cable and satellite); over 36 radio frequencies (2019)<br>

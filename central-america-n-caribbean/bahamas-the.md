@@ -10,7 +10,7 @@ Lucayan Indians inhabited the islands when Christopher COLUMBUS first set foot i
 ## Geography
 
 **Location**<br>
-chain of islands in the North Atlantic Ocean, southeast of Florida, northeast of Cuba<br>
+chain of islands in the North Atlantic Ocean, southeast of Florida, northeast of Cuba; note - although The Bahamas does not border the Caribbean Sea, geopolitically it is often designated as a Caribbean nation<br>
 
 **Geographic coordinates**<br>
 24 15 N, 76 00 W<br>
@@ -68,9 +68,6 @@ hurricanes and other tropical storms cause extensive flood and wind damage<br>
 
 **Geography - note**<br>
 strategic location adjacent to US and Cuba; extensive island chain of which 30 are inhabited<br>
-
-**Map description**<br>
-<p>The Bahamas map showing the many islands and cays that make up the country in the North Atlantic Ocean.</p><br>
 
 ## People and Society
 
@@ -316,7 +313,7 @@ _election results_: <br>Senate - appointed; composition as of March 2022 - men 1
 <strong>note:</strong> the government may dissolve the parliament and call elections at any time<br>
 
 **Judicial branch**<br>
-_highest courts_: Court of Appeal (consists of the court president and 4 justices, organized in 3-member panels); Supreme Court (consists of the chief justice and a maximum of 11 and a minimum of 2 justices)<br>
+_highest court(s)_: Court of Appeal (consists of the court president and 4 justices, organized in 3-member panels); Supreme Court (consists of the chief justice and a maximum of 11 and a minimum of 2 justices)<br>
 _judge selection and term of office_: Court of Appeal president and Supreme Court chief justice appointed by the governor-general on the advice of the prime minister after consultation with the leader of the opposition party; other Court of Appeal and Supreme Court justices appointed by the governor general upon recommendation of the Judicial and Legal Services Commission, a 5-member body headed by the chief justice; Court of Appeal justices appointed for life with mandatory retirement normally at age 68 but can be extended until age 70; Supreme Court justices appointed for life with mandatory retirement normally at age 65 but can be extended until age 67<br>
 _subordinate courts_: Industrial Tribunal; Stipendiary and Magistrates' Courts; Family Island Administrators<br>
 <strong>note:</strong> The Bahamas is a member of the 15-member Caribbean Community but is not party to the agreement establishing the Caribbean Court of Justice as its highest appellate court;  the Judicial Committee of the Privy Council (in London) serves as the final court of appeal for The Bahamas<br>
@@ -565,7 +562,7 @@ _total subscriptions_: 466,000 (2020 est.)<br>
 _subscriptions per 100 inhabitants_: 119 (2020 est.)<br>
 
 **Telecommunication systems**<br>
-_general assessment_: the telecom sector has seen a decline in subscriber numbers (particularly for prepaid mobile services the mainstay of short term visitors) and revenue; fixed and mobile broadband services are two areas that have benefited from the crisis as employees and students have resorted to working from home; one major casualty may be the region&rsquo;s second largest telco operator, Digicel; the company filed for bankruptcy in the US in April 2020; it continues to operate in all of its Caribbean markets as it seeks to refinance billions of dollars of debt; the other major telco, regional incumbent Cable &amp; Wireless Communications (CWC), is experiencing similar drops in subscriber numbers and revenue; CWC is expanding and enhancing its fixed and mobile networks in many of the countries it serves around the Caribbean, despite many locations being small islands with very small populations; one area of the telecom market that is not prepared for growth is 5G mobile; governments, regulators, and even the mobile network operators have shown that they have not been investing in 5G opportunities at the present time; network expansion and enhancements remain concentrated around improving LTE coverage. (2021)<br>
+_general assessment_: the telecom sector has seen a decline in subscriber numbers (particularly for prepaid mobile services the mainstay of short term visitors) and revenue; fixed and mobile broadband services are two areas that have benefited from the crisis as employees and students have resorted to working from home (2021)<br>
 _domestic_: 23 per 100 fixed-line, 109 per 100 mobile-cellular (2019)<br>
 _international_: country code - 1-242; landing points for the ARCOS-1, BICS, Bahamas 2-US, and BDSN fiber-optic submarine cables that provide links to South and Central America, parts of the Caribbean, and the US; satellite earth stations - 2; the Bahamas Domestic Submarine Network links all of the major islands; (2019)<br>
 <strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress toward 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>

@@ -72,9 +72,6 @@ most of population lives on the eastern half of the island; significant clusteri
 **Geography - note**<br>
 world's fourth-largest island; strategic location along Mozambique Channel; despite Madagascar’s close proximity to the African continent, ocean currents isolate the island resulting in high rates of endemic plant and animal species; approximately 90% of the flora and fauna on the island are found nowhere else<br>
 
-**Map description**<br>
-<p>Madagascar map showing major cities of this island country in the Indian Ocean.</p><br>
-
 ## People and Society
 
 **Population**<br>
@@ -148,7 +145,7 @@ _total population_: 1 male(s)/female (2022 est.)<br>
 
 **Mother's mean age at first birth**<br>
 19.5 years (2021 est.)<br>
-<strong>note:</strong> median age at first birth among women 25-29<br>
+<strong>note:</strong> data represents median age at first birth among women 25-29<br>
 
 **Maternal mortality ratio**<br>
 335 deaths/100,000 live births (2017 est.)<br>
@@ -370,7 +367,7 @@ _elections_: Senate - last held on 11 December 2020 (next to be held in  Decemb
 _election results_: 2020:<br>Senate - percent of vote by party - NA; elected seats by party - Irmar 10, Malagasy Miara Miainga 2; composition - men 16, women 2, percent of women 11%<br>2019:<br>National Assembly - percent of vote by party -Independent Pro-HVM 18%, MAPAR 17%, MAPAR pro-HVM 16%, TIM 13%' VPM-MMM 10%, GPS/ARD 7%, HIARAKA ISIKA 3%, LEADER FANILO 3%, VERTS 3%, TAMBATRA 1%, independent 9%; composition - men 123, women 28, percent of women 18.5%; note - total Parliament percent of women 17.8%<br>
 
 **Judicial branch**<br>
-_highest courts_: Supreme Court or Cour Supreme (consists of 11 members; addresses judicial administration issues only); High Constitutional Court or Haute Cour Constitutionnelle (consists of 9 members); note - the judiciary includes a High Court of Justice responsible for adjudicating crimes and misdemeanors by government officials, including the president<br>
+_highest court(s)_: Supreme Court or Cour Supreme (consists of 11 members; addresses judicial administration issues only); High Constitutional Court or Haute Cour Constitutionnelle (consists of 9 members); note - the judiciary includes a High Court of Justice responsible for adjudicating crimes and misdemeanors by government officials, including the president<br>
 _judge selection and term of office_: Supreme Court heads elected by the president and judiciary officials to serve 3-year, single renewable terms; High Constitutional Court members appointed - 3 each by the president, by both legislative bodies, and by the Council of Magistrates; members serve single, 7-year terms<br>
 _subordinate courts_: Courts of Appeal; Courts of First Instance<br>
 
@@ -621,7 +618,7 @@ _subscriptions per 100 inhabitants_: 57 (2020 est.)<br>
 _general assessment_: Telecom services in Madagascar have benefited from intensifying competition between the main operators, including Orange Madagascar, Airtel, and the incumbent telco Telma; there have been positive developments with the country&rsquo;s link to international submarine cables, particularly the METISS cable connecting to South Africa and Mauritius; in addition, the country&rsquo;s connection to the Africa-1 cable, expected in late 2023, will provide it with links to Kenya, Djibouti, countries in north and south Africa, as well Pakistan, the UAE, Saudi Arabia, and France; a national fiber backbone has been implemented connecting the major cities; Telma has progressively expanded the network to reach smaller towns; in addition, the government has progressed with its five-year plan to develop a digital platform running to 2024; various schemes within the program have been managed by a unit within the President&rsquo;s office; penetration rates in all market sectors remain below the average for the African region, and so there remains considerable growth potential; much progress was made in 2020, stimulated by the particular conditions related to the pandemic, which encouraged greater use of voice and data services. (2022)<br>
 _domestic_: less than 1 per 100 for fixed-line and mobile-cellular teledensity about 34 per 100 persons (2019)<br>
 _international_: country code - 261; landing points for the EASSy, METISS, and LION fiber-optic submarine cable systems connecting to numerous Indian Ocean Islands, South Africa, and Eastern African countries; satellite earth stations - 2 (1 Intelsat - Indian Ocean, 1 Intersputnik - Atlantic Ocean region) (2019)<br>
-<strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress towards 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>
+<strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress toward 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>
 
 **Broadcast media**<br>
 state-owned Radio Nationale Malagasy (RNM) and Television Malagasy (TVM) have an extensive national network reach; privately owned radio and TV broadcasters in cities and major towns; state-run radio dominates in rural areas; relays of 2 international broadcasters are available in Antananarivo (2019)<br>

@@ -79,9 +79,6 @@ dry, dusty, northeastern harmattan winds from January to March; droughts<br>
 **Geography - note**<br>
 Lake Volta is the world's largest artificial lake (manmade reservoir) by surface area (8,482 sq km; 3,275 sq mi); the lake was created following the completion of the Akosombo Dam in 1965, which holds back the White Volta and Black Volta Rivers<br>
 
-**Map description**<br>
-<p>Ghana map showing major cities as well as parts of surrounding countries and the Gulf of Guinea.</p><br>
-
 ## People and Society
 
 **Population**<br>
@@ -156,7 +153,7 @@ _total population_: 0.95 male(s)/female (2022 est.)<br>
 
 **Mother's mean age at first birth**<br>
 20.7 years (2014 est.)<br>
-<strong>note:</strong> median age at first birth among women 25-49<br>
+<strong>note:</strong> data represents median age at first birth among women 25-49<br>
 
 **Maternal mortality ratio**<br>
 308 deaths/100,000 live births (2017 est.)<br>
@@ -381,7 +378,7 @@ _elections_: last held on 7 December 2020 (next to be held in December 2024)<br>
 _election results_: percent of vote by party - NA; seats by party (preliminary) - NPP 137, NDC 137, independent 1; composition - men 235, women 40, percent of women 14.5%<br>
 
 **Judicial branch**<br>
-_highest courts_: Supreme Court (consists of the chief justice and 13 justices)<br>
+_highest court(s)_: Supreme Court (consists of the chief justice and 13 justices)<br>
 _judge selection and term of office_: chief justice appointed by the president in consultation with the Council of State (a small advisory body of prominent citizens) and with the approval of Parliament; other justices appointed by the president upon the advice of the Judicial Council (an 18-member independent body of judicial, military and police officials, and presidential nominees) and on the advice of the Council of State; justices can retire at age 60, with compulsory retirement at age 70<br>
 _subordinate courts_: Court of Appeal; High Court; Circuit Court; District Court; regional tribunals<br>
 
@@ -639,7 +636,7 @@ _total subscriptions_: 40,461,609 (2020 est.)<br>
 _subscriptions per 100 inhabitants_: 130 (2020 est.)<br>
 
 **Telecommunication systems**<br>
-_general assessment_: challenged by unreliable electricity and shortage of skilled labor, Ghana seeks to extend telecom services nationally; investment in fiber infrastructure and off-grid solutions provide data coverage to over 23 million people; launch of LTE has improved mobile data services, including m-commerce and banking; moderately competitive Internet market, most through mobile networks; international submarine cables, and terrestrial cables have improved Internet capacity; LTE services are widely available, only MTN Ghana has thus far signaled a willingness to invest in 5G; the relatively high cost of 5G-compatible devices also inhibits most subscribers from migrating from 3G and LTE platforms. (2022)<br>
+_general assessment_: challenged by unreliable electricity and shortage of skilled labor, Ghana seeks to extend telecom services nationally; investment in fiber infrastructure and off-grid solutions provide data coverage to over 23 million people; launch of LTE has improved mobile data services, including m-commerce and banking; moderately competitive Internet market, most through mobile networks; international submarine cables, and terrestrial cables have improved Internet capacity; LTE services are widely available; the relatively high cost of 5G-compatible devices also inhibits most subscribers from migrating from 3G and LTE platforms (2022)<br>
 _domestic_: fixed-line data about 1 per 200 subscriptions; competition among multiple mobile-cellular providers has spurred growth with a voice subscribership of more than 130 per 100 persons (2022)<br>
 _international_: country code - 233; landing points for the SAT-3/WASC, MainOne, ACE, WACS and GLO-1 fiber-optic submarine cables that provide connectivity to South and West Africa, and Europe; satellite earth stations - 4 Intelsat (Atlantic Ocean); microwave radio relay link to Panaftel system connects Ghana to its neighbors; GhanaSat-1 nanosatellite launched in 2017 (2017)<br>
 <strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress toward 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>

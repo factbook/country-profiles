@@ -73,9 +73,6 @@ winter windstorms; floods<br>
 **Geography - note**<br>
 lies near vital North Atlantic sea lanes; only 35 km from France and linked by tunnel under the English Channel (the Channel Tunnel or Chunnel); because of heavily indented coastline, no location is more than 125 km from tidal waters<br>
 
-**Map description**<br>
-<p>United Kingdom map showing the British Isles (including Northern Ireland) situated in the North Sea.</p><br>
-
 ## People and Society
 
 **Population**<br>
@@ -147,7 +144,7 @@ _total population_: 0.99 male(s)/female (2022 est.)<br>
 
 **Mother's mean age at first birth**<br>
 29 years (2018 est.)<br>
-<strong>note:</strong> data represent England and Wales only<br>
+<strong>note:</strong> data represents England and Wales only<br>
 
 **Maternal mortality ratio**<br>
 7 deaths/100,000 live births (2017 est.)<br>
@@ -350,7 +347,7 @@ _residency requirement for naturalization_: 5 years<br>
 
 **Executive branch**<br>
 _chief of state_: King CHARLES III (since 8 September 2022); Heir Apparent Prince WILLIAM (son of the king, born 21 June 1982); note - CHARLES succeeded his mother, Queen ELIZABETH II, after serving as Prince of Wales (heir apparent) for over 64 years - the longest such tenure in British history<br>
-_head of government_: Prime Minister Mary Elizabeth TRUSS (Conservative) (since 6 September 2022)<br>
+_head of government_: Prime Minister Rishi SUNAK (Conservative) (since 25 October 2022)<br>
 _cabinet_: Cabinet appointed by the prime minister<br>
 _elections/appointments_: the monarchy is hereditary; following legislative elections, the leader of the majority party or majority coalition usually becomes the prime minister; election last held on 12 December 2019 (next to be held by 2 May 2024)<br>
 <strong>note:</strong> in addition to serving as the UK head of state, the British sovereign is the constitutional monarch for 14 additional Commonwealth countries (these 15 states are each referred to as a Commonwealth realm)<br><br><br><br>
@@ -361,7 +358,7 @@ _elections_: <br>House of Lords - no elections; note - in 1999, as provided by t
 _election results_: <br>House of Lords - composition - men 554, women 222, percent of women 28.6%<br>House of Commons - percent of vote by party - Conservative 54.9%, Labor 30.8%, Lib Dems 2.2%, SNP 6.8%, DUP 1.2%, Sinn Fein 1.1%, Plaid Cymru .6%, other 2.5%; seats by party - Conservative 365, Labor 202, SNP 48, Lib Dems 11, DUP 8, Sinn Fein 7, Plaid Cymru 4, other 9; composition - men 425, women 225, percent of women 34.6%; total Parliament percent of women 31.3%<br>
 
 **Judicial branch**<br>
-_highest courts_: Supreme Court (consists of 12 justices, including the court president and deputy president); note - the Supreme Court was established by the Constitutional Reform Act 2005 and implemented in 2009, replacing the Appellate Committee of the House of Lords as the highest court in the United Kingdom<br>
+_highest court(s)_: Supreme Court (consists of 12 justices, including the court president and deputy president); note - the Supreme Court was established by the Constitutional Reform Act 2005 and implemented in 2009, replacing the Appellate Committee of the House of Lords as the highest court in the United Kingdom<br>
 _judge selection and term of office_: judge candidates selected by an independent committee of several judicial commissions, followed by their recommendations to the prime minister, and appointed by the monarch; justices serve for life<br>
 _subordinate courts_: England and Wales: Court of Appeal (civil and criminal divisions); High Court; Crown Court; County Courts; Magistrates' Courts; Scotland: Court of Sessions; Sheriff Courts; High Court of Justiciary; tribunals; Northern Ireland: Court of Appeal in Northern Ireland; High Court; county courts; magistrates' courts; specialized tribunals<br>
 
@@ -624,7 +621,7 @@ _subscriptions per 100 inhabitants_: 119.9 (2019)<br>
 _general assessment_: UK&rsquo;s telecom market remains one of the largest in Europe, characterized by competition, affordable pricing, and its technologically advanced systems; mobile penetration above the EU average; government to invest in infrastructure and 5G technologies with ambition for a fully-fibered nation by 2033; operators expanded the reach of 5G services in 2020; super-fast broadband available to about 95% of customers; London is developing smart city technology, in collaboration with private, tech, and academic sectors; in 2020 the UK Government banned Chinese company Huawei's 5G equipment from the UK's 5G networks following advisement from the National Cyber Security Centre (NCSC); importer of broadcasting equipment from China (2021)<br>
 _domestic_: equal mix of buried cables, microwave radio relay, and fiber-optic systems; fixed-line over 47 per 100 and mobile-cellular over 116 per 100 (2020)<br>
 _international_: country code - 44;&nbsp;Landing points for the GTT Atlantic, Scotland-Northern Ireland -1, &amp; -2, Lanis 1,-2, &amp;-3, Sirius North, BT-MT-1, SHEFA-2, BT Highlands and Islands Submarine Cable System, Northern Lights, FARICE-1, Celtic Norse, Tampnet Offshore FOC Network, England Cable, CC-2, E-LLan, Sirius South, ESAT -1 &amp; -2, Rockabill, Geo-Eirgrid, UK-Netherlands-14, Circle North &amp; South, Ulysses2, Conceto, Farland North, Pan European Crossing,&nbsp;Solas, Swansea-Bream, GTT Express, Tata TGN-Atlantic &amp; -Western Europe, Apollo, EIG, Glo-1, TAT-14, Yellow, Celtic,&nbsp;FLAG Atlantic-1, FEA, Isle of Scilly Cable, UK-Channel Islands-8 and SeaMeWe-3&nbsp;submarine cables providing links throughout Europe, Asia, Africa, the Middle East, Southeast Asia, Australia,&nbsp;and US; satellite earth stations - 10 Intelsat (7 Atlantic Ocean and 3 Indian Ocean), 1 Inmarsat (Atlantic Ocean region), and 1 Eutelsat; at least 8 large international switching centers (2019)<br>
-<strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress towards 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>
+<strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress toward 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>
 
 **Broadcast media**<br>
 public service broadcaster, British Broadcasting Corporation (BBC), is the largest broadcasting corporation in the world; BBC operates multiple TV networks with regional and local TV service; a mixed system of public and commercial TV broadcasters along with satellite and cable systems provide access to hundreds of TV stations throughout the world; BBC operates multiple national, regional, and local radio networks with multiple transmission sites; a large number of commercial radio stations, as well as satellite radio services are available (2018)<br>
@@ -745,7 +742,7 @@ Continuity Irish Republican Army; Islamic State of Iraq and ash-Sham (ISIS); New
 <p><em>UK-Argentina</em>: UK rejects sovereignty talks requested by Argentina, which still claims the Falkland Islands (Islas Malvinas) and South Georgia and the South Sandwich Islands</p> <p><em>UK-Argentina-Chile</em>: the UK’s territorial claim in Antarctica (British Antarctic Territory) overlaps Argentine claim and partially overlaps Chilean claim</p> <p><em>UK-Denmark</em>: the UK, Iceland, and Ireland dispute Denmark's claim that the Faroe Islands' continental shelf extends beyond 200 nm; Iceland, Norway, and the Faroe Islands signed an agreement in 2019 extending the Faroe Islands’ northern continental shelf area</p> <p><em>UK (Gibraltar)-Spain</em>: in 2002, Gibraltar residents voted overwhelmingly by referendum to reject any "shared sovereignty" arrangement between the UK and Spain; the Government of Gibraltar insisted on equal participation in talks between the two countries; Spain disapproved of UK plans to grant Gibraltar greater autonomy; London and Madrid reached a temporary agreement at the end of 2020 that allowed Gibraltar to be part of the passport-free Schengen zone; talks are expected to continue in 2022</p> <p><em>UK-Mauritius-Seychelles</em>: Mauritius and Seychelles claim the Chagos Archipelago (British Indian Ocean Territory); in 2001, the former inhabitants of the archipelago, evicted 1967 - 1973, were granted UK citizenship and the right of return, followed by Orders in Council in 2004 that banned rehabitation, a High Court ruling reversed the ban, a Court of Appeal refusal to hear the case, and a Law Lords' decision in 2008 denied the right of return; in addition, the UK created the world's largest marine protection area around the Chagos Islands prohibiting the extraction of any natural resources therein</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 21,011 (Iran), 14,503 (Eritrea), 11,251 (Sudan), 11,412 (Syria), 9,469 (Afghanistan), 8,357 (Pakistan), 6,933 (Iraq), 5,200 (Sri Lanka) (2020); 136,600 (Ukraine) (as of 10 October 2022)<br>
+_refugees (country of origin)_: 21,011 (Iran), 14,503 (Eritrea), 11,251 (Sudan), 11,412 (Syria), 9,469 (Afghanistan), 8,357 (Pakistan), 6,933 (Iraq), 5,200 (Sri Lanka) (2020); 138,400 (Ukraine) (as of 18 October 2022)<br>
 _stateless persons_: 3,968 (mid-year 2021)<br>
 
 **Illicit drugs**<br>

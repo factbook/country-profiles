@@ -73,9 +73,6 @@ most Norwegians live in the south where the climate is milder and there is bette
 **Geography - note**<br>
 about two-thirds mountains; some 50,000 islands off its much-indented coastline; strategic location adjacent to sea lanes and air routes in North Atlantic; one of the most rugged and longest coastlines in the world<br>
 
-**Map description**<br>
-<p>Norway map showing major population centers as well as parts of surrounding countries and the Norwegian and North Seas.</p><br>
-
 ## People and Society
 
 **Population**<br>
@@ -351,7 +348,7 @@ _elections_: last held on 13 September 2021 (next to be held on 30 September 202
 _election results_: <p>percent of vote by party - Ap 26.3%, H 20.5%, SP 13.6%, FrP 11.7%, SV 7.6%, R 4.7%, V 4.6%, MDG 3.9%, KrF 3.8%, PF 0.2%, other 3.1%; seats by party - Ap 48, H 36, SP 28, FrP 21, SV 13, R 8, V 8, , KrF 3, MDG 3, PF 1; composition (as of October 2021) men 93, women 76, percent of women 45%</p><br>
 
 **Judicial branch**<br>
-_highest courts_: Supreme Court or Hoyesterett (consists of the chief justice and 18 associate justices)<br>
+_highest court(s)_: Supreme Court or Hoyesterett (consists of the chief justice and 18 associate justices)<br>
 _judge selection and term of office_: justices appointed by the monarch (King in Council) upon the recommendation of the Judicial Appointments Board; justices can serve until mandatory retirement at age 70<br>
 _subordinate courts_: Courts of Appeal or Lagmennsrett; regional and district courts; Conciliation Boards; ordinary and special courts; note - in addition to professionally trained judges, elected lay judges sit on the bench with professional judges in the Courts of Appeal and district courts<br>
 
@@ -386,7 +383,7 @@ lion; national colors: red, white, blue<br>
 **National anthem**<br>
 _name_: "Ja, vi elsker dette landet" (Yes, We Love This Country)<br>
 _lyrics/music_: lyrics/music: Bjornstjerne BJORNSON/Rikard NORDRAAK<br>
-<strong>note:</strong> adopted 1864; in addition to the national anthem, "Kongesangen" (Song of the King), which uses the tune of "God Save the Queen," serves as the royal anthem<br>
+<strong>note:</strong> adopted 1864; in addition to the national anthem, "Kongesangen" (Song of the King), which uses the tune of "God Save the King," serves as the royal anthem<br>
 
 **National heritage**<br>
 _total World Heritage Sites_: 8 (7 cultural, 1 natural)<br>
@@ -613,7 +610,7 @@ _subscriptions per 100 inhabitants_: 107 (2020 est.)<br>
 _general assessment_: Norway has a sophisticated telecom market with high broadband and mobile penetration rates and a highly developed digital media sector; although not a member of the European Union, the country&rsquo;s telecoms sector is synchronized with relevant EC legislation; Telenor is the dominant operator in all sectors, though there is increasing competition from new entrants; Telia Norway increased its market share by acquiring the operations of Tele2, Phonero and Get; Norway enjoys near comprehensive LTE coverage, while both Telenor and Telia are looking to close their 3G and 2G networks (by 2020 and 2025 respectively), focusing instead on LTE and 5G technologies; the mobile broadband sector was bolstered by the auction of spectrum in the 700MHz and 21MHz band in June 2019; additional spectrum in the 700MHz is expected to be auctioned for mobile broadband use (5G) in 2021; the broadband penetration rate is among the highest in Europe, while in recent years subscribers have been migrated to faster broadband solutions over fiber networks, VDSL and upgraded cable infrastructure; the leading ISPs Telenor and NextGenTel have also deployed services based on G.fast technology; the regulator has called on the government to help fund additional cable infrastructure to reduce the country&rsquo;s dependence on Telenor&rsquo;s networks; in late 2019 the government proposed making broadband of at least 20Mb/s a universal service. (2021)<br>
 _domestic_: Norway has a domestic satellite system; the prevalence of rural areas encourages the wide use of mobile-cellular systems; fixed-line over 6 per 100 and mobile-cellular nearly 108 per 100 (2020)<br>
 _international_: country code - 47;&nbsp;landing points for the&nbsp;Svalbard Undersea Cable System, Polar Circle Cable, Bodo-Rost Cable, NOR5KE Viking, Celtic Norse, Tempnet Offshore FOC Network, England Cable, Denmark-Norwary6, Havfrue/AEC-2, Skagerrak 4, and the Skagenfiber West &amp; East&nbsp;submarine cables providing links to other Nordic countries, Europe and the US; satellite earth stations - Eutelsat,&nbsp;Intelsat (Atlantic Ocean), and 1 Inmarsat (Atlantic and Indian Ocean regions); note - Norway shares the Inmarsat earth station with the other Nordic countries (Denmark, Finland, Iceland, and Sweden) (2019)<br>
-<strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress towards 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>
+<strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress toward 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>
 
 **Broadcast media**<br>
 state-owned public radio-TV broadcaster operates 3 nationwide TV stations, 3 nationwide radio stations, and 16 regional radio stations; roughly a dozen privately owned TV stations broadcast nationally and roughly another 25 local TV stations broadcasting; nearly 75% of households have access to multi-channel cable or satellite TV; 2 privately owned radio stations broadcast nationwide and another 240 stations operate locally; Norway is the first country in the world to phase out FM radio in favor of Digital Audio Broadcasting (DAB), a process scheduled for completion in late 2017 (2019)<br>
@@ -691,21 +688,22 @@ Norwegian Armed Forces: Norwegian Army (Haeren), Royal Norwegian Navy (Kongelige
 1.7% of GDP (2018) (approximately $8.02 billion)<br>
 
 **Military and security service personnel strengths**<br>
-approximately 23,000 active personnel (8,000 Army; 4,000 Navy; 4,000 Air Force; 7,000 other, including special operations, cyber, joint staff, intelligence, logistics support, active Home Guard, etc.); approximately 40,000 Home Guard (2022)<br>
+approximately 27,000 active personnel (9,000 Army; 4,300 Navy; 4,700 Air Force; 9,000 other, including special operations, cyber, joint staff, intelligence, logistics support, active Home Guard, etc.); approximately 40,000 Home Guard (2022)<br>
+<strong>note:</strong>  active personnel includes about 10,000 conscripts<br>
 
 **Military equipment inventories and acquisitions**<br>
 the military's inventory includes a mix of imported European, US, and domestically-produced weapons systems and equipment; since 2010, the US has been the leading supplier of weapons systems to Norway (2021)<br>
 
 **Military service age and obligation**<br>
 19-35 years of age for selective compulsory military service for men and women; 17 years of age for male volunteers; 18 years of age for women volunteers; 12-19 month service obligation; conscripts first serve 12 months between the ages of 19 and 28, and then up to 4-5 refresher training periods until age 35, 44, 55, or 60 depending on rank and function (2022)<br>
-<strong>note 1: </strong>Norway conscripts about 8,000 individuals annually; it has had compulsory military service since 1907<br><br><strong>note 2:</strong> Norway was the first NATO country to allow women to serve in all combat arms branches of the military (1985); it also has an all-female special operations unit known as Jegertroppen (The Hunter Troop), which was established in 2014; as of 2019, women comprised about 14% of the military's full-time personnel<br>
+<strong>note 1: </strong>Norway conscripts about 8,000 individuals annually; it has had compulsory military service since 1907<br><br><strong>note 2:</strong> Norway was the first NATO country to allow women to serve in all combat arms branches of the military (1985); it also has an all-female special operations unit known as Jegertroppen (The Hunter Troop), which was established in 2014; as of 2021, women comprised about 20% of the military's full-time personnel<br>
 
 **Military deployments**<br>
 up to 190 Lithuania (NATO) (2022)<br>
 <strong>note: </strong>in response to Russia’s 2022 invasion of Ukraine, some NATO countries, including Norway, have sent additional troops and equipment to the battlegroups deployed in NATO territory in eastern Europe<br>
 
 **Military - note**<br>
-Norway is a member of NATO and was one of the original 12 countries to sign the North Atlantic Treaty (also known as the Washington Treaty) in 1949<br><br>the Norwegian Armed Forces cooperate closely with the militaries of other Nordic countries through the Nordic Defense Cooperation (NORDEFCO), which consists of Denmark, Finland, Iceland, Norway, and Sweden; areas of cooperation include armaments, education, human resources, training and exercises, and operations; NORDEFCO was established in 2009 (2022)<br>
+Norway is a member of NATO and was one of the original 12 countries to sign the North Atlantic Treaty (also known as the Washington Treaty) in 1949<br><br>the Norwegian Armed Forces cooperate closely with the militaries of other Nordic countries through the Nordic Defense Cooperation (NORDEFCO), which consists of Denmark, Finland, Iceland, Norway, and Sweden; areas of cooperation include armaments, education, human resources, training and exercises, and operations; NORDEFCO was established in 2009<br><br>the first Norwegian defense organization, the leidangen, was established along the coastline in the 10th century to protect the Norwegian coast (2022)<br>
 
 ## Transnational Issues
 
@@ -713,6 +711,6 @@ Norway is a member of NATO and was one of the original 12 countries to sign the 
 <p><em>Norway-Antarctica</em>: Norway asserts a territorial claim in Antarctica (Queen Maud Land and its continental shelf)</p> <p><em>Norway-Russia</em>: Russia amended its 2001 CLCS submission in 2015 and 2021, each time delineating the outer limits of its continental shelf further into the Arctic Ocean; Norway and Russia signed a comprehensive maritime boundary agreement in 2010, ending a dispute over an area of the Barents Sea by dividing the territory equally</p> <p><em>Norway-Sweden</em>: none identified</p> <p> </p> <p> </p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 15,542 (Syria), 11,965 (Eritrea) (mid-year 2021); 29,208 (Ukraine) (as of 11 October 2022)<br>
+_refugees (country of origin)_: 15,542 (Syria), 11,965 (Eritrea) (mid-year 2021); 29,699 (Ukraine) (as of 14 October 2022)<br>
 _stateless persons_: 4,154 (mid-year 2021)<br>
 

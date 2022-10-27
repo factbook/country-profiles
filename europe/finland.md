@@ -76,9 +76,6 @@ severe winters in the north<br>
 **Geography - note**<br>
 long boundary with Russia; Helsinki is northernmost national capital on European continent; population concentrated on small southwestern coastal plain<br>
 
-**Map description**<br>
-<p>Finland map showing major cities as well as parts of surrounding countries and the Baltic Sea.</p><br>
-
 ## People and Society
 
 **Population**<br>
@@ -355,7 +352,7 @@ _elections_: last held on 14 April 2019 (next to be held in April 2023)<br>
 _election results_: percent of vote by party/coalition - SDP 20%, PS 19.5%, Kok 19.0%. Center Party&nbsp; 15.5%, Vihr 10%, Vas 8%, SFP 4.5%, KD 2.5%, Aland .5%; other .5%; seats by party/coalition - SDP 40, PS 39, Kok 38, Centre Party 31, Vihr 20, Vas 16, SFP 9, KD 5; Aland 1; other 1; composition men 109, women 91, percent of women 45.5%<br>
 
 **Judicial branch**<br>
-_highest courts_: Supreme Court or Korkein Oikeus (consists of the court president and 18 judges); Supreme Administrative Court (consists of 21 judges, including the court president and organized into 3 chambers); note - Finland has a dual judicial system - courts with civil and criminal jurisdiction and administrative courts with jurisdiction for litigation between individuals and administrative organs of the state and communities<br>
+_highest court(s)_: Supreme Court or Korkein Oikeus (consists of the court president and 18 judges); Supreme Administrative Court (consists of 21 judges, including the court president and organized into 3 chambers); note - Finland has a dual judicial system - courts with civil and criminal jurisdiction and administrative courts with jurisdiction for litigation between individuals and administrative organs of the state and communities<br>
 _judge selection and term of office_: Supreme Court and Supreme Administrative Court judges appointed by the president of the republic; judges serve until mandatory retirement at age 68<br>
 _subordinate courts_: 6 Courts of Appeal; 8 regional administrative courts; 27 district courts; special courts for issues relating to markets, labor, insurance, impeachment, land, tenancy, and water rights<br>
 
@@ -614,7 +611,7 @@ _total subscriptions_: 7.12 million (2020 est.)<br>
 _subscriptions per 100 inhabitants_: 129 (2020 est.)<br>
 
 **Telecommunication systems**<br>
-_general assessment_: Finland&rsquo;s telecom market is among the more progressive in Europe, with operators having been at the forefront in deploying technologies and with the regulator being among the first to auction spectrum for 5G use; these efforts have been supported by the government which is working towards its target of providing a broadband service of at least 100Mb/s by 2025; 5G services were available to more than 40% of the population by early 2021, and take-up among subscribers has been strong although most will remain with LTE in the short term; the country enjoys one of the highest broadband and mobile subscription rates in the region, with customers able to make use of the latest iterations of technologies including DOCSIS3.1, LTE-A, 5G, and GPON fiber infrastructure; Finland has emerged as one of the pioneers in 5G; the auction of spectrum in the 700MHz and 3.5GHh bands has enabled network operators to extend the availability of LTE services nationally and to prepare for 5G services; Spectrum in the 2.5GHz band was auctioned in mid-2020 and has since enabled the MNOs to widen their 5G footprint considerably; the incumbent telco Telia remains the dominant player in the DSL sector, but there is an ongoing shift away from DSL to fiber and mobile networks. (2021)<br>
+_general assessment_: Finland&rsquo;s telecom market is among the more progressive in Europe, with operators having been at the forefront in deploying technologies and with the regulator being among the first to auction spectrum for 5G use; these efforts have been supported by the government which is working towards its target of providing a broadband service of at least 100Mb/s by 2025; 5G services were available to more than 40% of the population by early 2021, and take-up among subscribers has been strong although most will remain with LTE in the short term; the country enjoys one of the highest broadband and mobile subscription rates in the region, with customers able to make use of the latest iterations of technologies including DOCSIS3.1, LTE-A, 5G, and GPON fiber infrastructure; Finland has emerged as one of the pioneers in 5G; the auction of spectrum in the 700MHz and 3.5GHh bands has enabled network operators to extend the availability of LTE services nationally and to prepare for 5G services; Spectrum in the 2.5GHz band was auctioned in mid-2020 and has since enabled the MNOs to widen their 5G footprint considerably; there is an ongoing shift away from DSL to fiber and mobile networks (2021)<br>
 _domestic_: fixed-line 4 per 100 subscriptions and nearly 129 per 100 mobile-cellular (2020)<br>
 _international_: country code - 358; landing points for Botnia, BCS North-1 &amp; 2, SFL, SFS-4, C-Lion1, Eastern Lights, Baltic Sea Submarine Cable, FEC, and EESF-2 &amp; 3 submarine cables that provide links to many&nbsp;Finland points, Estonia, Sweden, Germany, and Russia; satellite earth stations - access to Intelsat transmission service via a Swedish satellite earth station, 1 Inmarsat (Atlantic and Indian Ocean regions); note - Finland shares the Inmarsat earth station with the other Nordic countries (Denmark, Iceland, Norway, and Sweden) (2019)<br>
 <strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress toward 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>
@@ -720,6 +717,6 @@ Finland is not a member of NATO, but Finland and NATO have actively cooperated i
 <p>various groups in Finland advocate restoration of Karelia and other areas ceded to the former Soviet Union, but the Finnish Government asserts no territorial demands</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 9,053 (Iraq) (mid-year 2021); 38,588 (Ukraine) (as of 9 October 2022)<br>
+_refugees (country of origin)_: 9,053 (Iraq) (mid-year 2021); 38,588 (Ukraine) (as of 16 October 2022)<br>
 _stateless persons_: 3,416 (mid-year 2021)<br>
 

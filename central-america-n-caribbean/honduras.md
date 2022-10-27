@@ -76,9 +76,6 @@ frequent, but generally mild, earthquakes; extremely susceptible to damaging hur
 **Geography - note**<br>
 has only a short Pacific coast but a long Caribbean shoreline, including the virtually uninhabited eastern Mosquito Coast<br>
 
-**Map description**<br>
-<p>Honduras map showing major cities as well as parts of surrounding countries and the Caribbean Sea and North Atlantic Ocean.</p><br>
-
 ## People and Society
 
 **Population**<br>
@@ -153,7 +150,7 @@ _total population_: 0.95 male(s)/female (2022 est.)<br>
 
 **Mother's mean age at first birth**<br>
 20.3 years (2011/12 est.)<br>
-<strong>note:</strong> median age a first birth among women 25-49<br>
+<strong>note:</strong> data represents median age a first birth among women 25-49<br>
 
 **Maternal mortality ratio**<br>
 65 deaths/100,000 live births (2017 est.)<br>
@@ -359,7 +356,7 @@ _election results_: percent of vote by party - LIBRE 39.8%, PNH 31.3%, PL 16.4%,
 <br><strong><em>note:</em></strong> seats by bloc or party as of 1 May 2022 - LIBRE 50, PNH 44, PL 22, PSH 10, DC 1, PAC 1<br>
 
 **Judicial branch**<br>
-_highest courts_: Supreme Court of Justice or Corte Suprema de Justicia (15 principal judges, including the court president, and 7 alternates; court organized into civil, criminal, constitutional, and labor chambers); note - the court has both judicial and constitutional jurisdiction<br>
+_highest court(s)_: Supreme Court of Justice or Corte Suprema de Justicia (15 principal judges, including the court president, and 7 alternates; court organized into civil, criminal, constitutional, and labor chambers); note - the court has both judicial and constitutional jurisdiction<br>
 _judge selection and term of office_: court president elected by his peers; judges elected by the National Congress from candidates proposed by the Nominating Board, a diverse 7-member group of judicial officials and other government and non-government officials nominated by each of their organizations; judges elected by Congress for renewable, 7-year terms<br>
 _subordinate courts_: courts of appeal; courts of first instance; justices of the peace<br>
 
@@ -618,7 +615,7 @@ _total subscriptions_: 6,960,654 (2020 est.)<br>
 _subscriptions per 100 inhabitants_: 70 (2020 est.)<br>
 
 **Telecommunication systems**<br>
-_general assessment_: <p style="background: white; margin: 0in 0in 6.4pt 0in;">Honduras is among the poorest countries in Central America and has long been plagued by an unstable political framework which has rendered telecom sector reform difficult; fixed-line teledensity, at only 4.9%, is significantly lower than the Latin American and Caribbean average; poor fixed-line infrastructure has been exacerbated by low investment and topographical difficulties which have made investment in rural areas unattractive or uneconomical; the internet has been slow to develop; DSL and cable modem technologies are available but are relatively expensive, while higher speed services are largely restricted to the major urban centers; the demand for broadband is steadily increasing and there has been some investment in network upgrades to fiber-based infrastructure; these factors have encouraged consumer take-up of mobile services, a sector where there is lively competition supported by international investment; mobile subscriptions are substantially below the regional average; revenue growth from the mobile sector looks promising in coming years as companies invest in their networks, expand their reach and upgrade their capabilities to accommodate mobile broadband services; mobile data as a proportion of overall mobile revenue has increased steadily, though low-end SMS services will continue to account for the bulk of data revenue for some years; political developments during the last few years have not facilitated the much-needed reform of legislation governing the telecoms sector; regulator frees up 3.5GHz fequencies for mobile use; Tigo and Amazon Web Services partner to offer cloud services.</p> <p style="background: white; margin: 0in 0in 6.4pt 0in;"> </p> (2021)<br>
+_general assessment_: <p style="background: white; margin: 0in 0in 6.4pt 0in;">Honduras is among the poorest countries in Central America and has long been plagued by an unstable political framework which has rendered telecom sector reform difficult; fixed-line teledensity, at only 4.9%, is significantly lower than the Latin American and Caribbean average; poor fixed-line infrastructure has been exacerbated by low investment and topographical difficulties which have made investment in rural areas unattractive or uneconomical; the internet has been slow to develop; DSL and cable modem technologies are available but are relatively expensive, while higher speed services are largely restricted to the major urban centers; the demand for broadband is steadily increasing and there has been some investment in network upgrades to fiber-based infrastructure; these factors have encouraged consumer take-up of mobile services, a sector where there is lively competition supported by international investment; mobile subscriptions are substantially below the regional average; revenue growth from the mobile sector looks promising in coming years as companies invest in their networks, expand their reach and upgrade their capabilities to accommodate mobile broadband services; mobile data as a proportion of overall mobile revenue has increased steadily, though low-end SMS services will continue to account for the bulk of data revenue for some years; political developments during the last few years have not facilitated the much-needed reform of legislation governing the telecoms sector; regulator frees up 3.5GHz fequencies for mobile use<br></p> <p style="background: white; margin: 0in 0in 6.4pt 0in;"> </p> (2021)<br>
 _domestic_: private sub-operators allowed to provide fixed lines in order to expand telephone coverage contributing to a fixed-line teledensity of slightly over 5 per 100; mobile-cellular subscribership is roughly 70 per 100 persons (2020)<br>
 _international_: country code - 504; landing points for both the ARCOS and the MAYA-1 fiber-optic submarine cable systems that together provide connectivity to South and Central America, parts of the Caribbean, and the US; satellite earth stations - 2 Intelsat (Atlantic Ocean); connected to Central American Microwave System (2019)<br>
 <strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress toward 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>

@@ -69,9 +69,6 @@ occasional high winds and rough seas<br>
 **Geography - note**<br>
 one small islet, the Calf of Man, lies to the southwest and is a bird sanctuary<br>
 
-**Map description**<br>
-<p>Isle of Man map showing the major population centers of this UK crown dependency in the Irish Sea.</p><br>
-
 ## People and Society
 
 **Population**<br>
@@ -287,7 +284,7 @@ _elections_: <br>Legislative Council - last held 29 February 2020 (next to be he
 _election results_: <p>Legislative Council - composition (as of 2021) - men 6, women 4, 1 vacancies; percent of women 36.4%</p> <p>House of Keys - percent of vote by party - Liberal Vannin 5.3%, Manx Labour Prty 5.1%, Green Party 3.3% independent 86.3%; seats by party - independent 21; Manx Labour Party 2, Liberal Vannin 1, Green Party 0; composition – men 14, women 10, percent of women 41.7%; note - total Tynwald percent of women 37.1%</p><br>
 
 **Judicial branch**<br>
-_highest courts_: Isle of Man High Court of Justice (consists of 3 permanent judges or "deemsters" and 1 judge of appeal; organized into the Staff of Government Division or Court of Appeal and the Civil Division); the Court of General Gaol Delivery is not formally part of the High Court but is administered as though part of the High Court and deals with serious criminal cases; note - appeals beyond the Court of Appeal are referred to the Judicial Committee of the Privy Council (in London)<br>
+_highest court(s)_: Isle of Man High Court of Justice (consists of 3 permanent judges or "deemsters" and 1 judge of appeal; organized into the Staff of Government Division or Court of Appeal and the Civil Division); the Court of General Gaol Delivery is not formally part of the High Court but is administered as though part of the High Court and deals with serious criminal cases; note - appeals beyond the Court of Appeal are referred to the Judicial Committee of the Privy Council (in London)<br>
 _judge selection and term of office_: deemsters appointed by the Lord Chancellor of England on the nomination of the lieutenant governor; deemsters can serve until age 70<br>
 _subordinate courts_: High Court; Court of Summary Gaol Delivery; Summary Courts; Magistrate's Court; specialized courts<br>
 

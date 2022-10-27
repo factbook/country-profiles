@@ -66,9 +66,6 @@ occasional earthquakes<br>
 **Geography - note**<br>
 landlocked; an enclave of (completely surrounded by) Italy; smallest independent state in Europe after the Holy See and Monaco; dominated by the Apennine Mountains<br>
 
-**Map description**<br>
-<p>San Marino map showing the major population centers in this microstate surrounded by Italy.</p><br>
-
 ## People and Society
 
 **Population**<br>
@@ -305,7 +302,7 @@ _elections_: last held on 8 December 2019 (next to be held by 31 December 2024)<
 _election results_: percent of vote by coalition/party - PDCS 35%, Tomorrow in Movement coalition 25% (RETE Movement 18.3%, Domani - Motus Liberi 6.7%), Free San Marino 16.7%, We for the Republic 13.3%, Future Republic 10%; seats by coalition/party - PDCS 21, Tomorrow in Movement coalition 15 (RETE Movement 11, Domani - Motus Liberi 4), Free San Marino 10, We for the Republic 8, Future Republic 6; composition (as of October 2021) - men 40, women 20, percent of women 33.3%<br>
 
 **Judicial branch**<br>
-_highest courts_: Council of Twelve or Consiglio dei XII (consists of 12 members); note - the College of Guarantors for the Constitutionality and General Norms functions as San Marino's constitutional court<br>
+_highest court(s)_: Council of Twelve or Consiglio dei XII (consists of 12 members); note - the College of Guarantors for the Constitutionality and General Norms functions as San Marino's constitutional court<br>
 _judge selection and term of office_: judges elected by the Grand and General Council from among its own to serve 5-year terms<br>
 _subordinate courts_: first instance and first appeal criminal, administrative, and civil courts; Court for the Trust and Trustee Relations; justices of the peace or conciliatory judges<br>
 
@@ -492,7 +489,7 @@ _subscriptions per 100 inhabitants_: 115 (2020 est.)<br>
 _general assessment_: automatic telephone system completely integrated into Italian system (2018)<br>
 _domestic_: fixed-line a little over 47 per 100 and mobile-cellular teledensity roughly 114 telephones per 100 persons (2019)<br>
 _international_: country code - 378; connected to Italian international network<br>
-<strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress towards 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>
+<strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress toward 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>
 
 **Broadcast media**<br>
 state-owned public broadcaster operates 1 TV station and 3 radio stations; receives radio and TV broadcasts from Italy (2019)<br>

@@ -10,7 +10,7 @@ _Europe / Countries_
 ## Geography
 
 **Location**<br>
-Southeast Europe, between Serbia and Macedonia<br>
+Southeastern Europe, between Serbia and Macedonia<br>
 
 **Geographic coordinates**<br>
 42 35 N, 21 00 E<br>
@@ -69,9 +69,6 @@ population clusters exist throughout the country, the largest being in the east 
 
 **Geography - note**<br>
 the 41-km long Nerodimka River divides into two branches each of which flows into a different sea: the northern branch flows into the Sitnica River, which via the Ibar, Morava, and Danube Rivers ultimately flows into the Black Sea; the southern branch flows via the Lepenac and Vardar Rivers into the Aegean Sea<br>
-
-**Map description**<br>
-<p>Kosovo map showing major population centers as well as parts of surrounding countries.</p><br>
 
 ## People and Society
 
@@ -289,7 +286,7 @@ _elections_: last held on 14 February 2021 (next to be held in 2025)<br>
 _election results_: percent of vote by party - LVV 50%, PDK 16.9%, LDK 12.7%, AAK 7.1%, Serb List 5.1%, other 8.2%; seats by party - LVV 58, PDK 19, LDK 15, Serb List 10, AAK 8, other 10; composition as of December 2021 - men 79, women 41, percent of women 34.2%<br>
 
 **Judicial branch**<br>
-_highest courts_: Supreme Court (consists of the court president and 18 judges and organized into Appeals Panel of the Kosovo Property Agency and Special Chamber); Constitutional Court (consists of the court president, vice president, and 7 judges)<br>
+_highest court(s)_: Supreme Court (consists of the court president and 18 judges and organized into Appeals Panel of the Kosovo Property Agency and Special Chamber); Constitutional Court (consists of the court president, vice president, and 7 judges)<br>
 _judge selection and term of office_: Supreme Court judges nominated by the Kosovo Judicial Council, a 13-member independent body staffed by judges and lay members, and also responsible for overall administration of Kosovo's judicial system; judges appointed by the president of the Republic of Kosovo; judges appointed until mandatory retirement age; Constitutional Court judges nominated by the Kosovo Assembly and appointed by the president of the republic to serve single, 9-year terms<br>
 _subordinate courts_: Court of Appeals (organized into 4 departments: General, Serious Crime, Commercial Matters, and Administrative Matters); Basic Court (located in 7 municipalities, each with several branches)<br>
 <strong>note:</strong> in August 2015, the Kosovo Assembly approved a constitutional amendment that establishes the Kosovo Relocated Specialist Judicial Institution, also referred to as the Kosovo Specialist Chambers or "Special Court"; the court, located at the Hague in the Netherlands, began operating in late 2016 and has jurisdiction to try crimes against humanity, war crimes, and other crimes under Kosovo law that occurred in the 1998-2000 period<br>
@@ -545,7 +542,7 @@ _subscriptions per 100 inhabitants_: 32 (2015 est.)<br>
 _general assessment_: Kosovo has benefited from financial and regulatory assistance as part of the EU pre-accession process; the telecom sector has been liberalized, and legislation has aligned the sector with the EU&rsquo;s revised regulatory framework; poor telecom infrastructure has meant that fixed-line communication remains low by European standards; unlike most markets, the fixed-line broadband sector is dominated by new players, in particular the cable operator IPKO, a subsidiary of Telekom Slovenia; broadband companies in Kosovo are developing slowly; there is effective competition between the main cable and DSL operators, though as yet there is little progress with the expansion of fiber networks: investment by the incumbent PTK, trading as Telecom Kosovo, in building an upgraded fiber-based NGN has been insufficient thus far, exacerbated by the company&rsquo;s financial difficulties; these difficulties encouraged the government in mid-2019 to prepare the sale of a majority stake in the company; the mobile sector accounts for most telecom lines for voice services, as well as the greater part of telecom revenue; two MNOs dominate the sector; Telenor Serbia and VIP Mobile stopped offering unlicensed mobile voice and data services in mid-2017 across border regions as part of a deal by which Kosovo secured its own dialing code. (2022 )<br>
 _domestic_: fixed-line roughly 6 per 100 and mobile-cellular 32 per 100 persons (2019)<br>
 _international_: country code - 383<br>
-<strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress towards 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>
+<strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress toward 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>
 
 **Internet country code**<br>
 .xk; note - assigned as a temporary code under UN Security Council resolution 1244/99<br><br> <br>
@@ -626,5 +623,5 @@ Islamic State of Iraq and ash-Sham (ISIS)<br>
 
 **Refugees and internally displaced persons**<br>
 _IDPs_: 16,000 (primarily ethnic Serbs displaced during the 1998-1999 war fearing reprisals from the majority ethnic-Albanian population; a smaller number of ethnic Serbs, Roma, Ashkali, and Egyptians fled their homes in 2004 as a result of violence) (2021)<br>
-<strong>note:</strong> 8,157 estimated refugee and migrant arrivals (January 2015-August 2022)<br>
+<strong>note:</strong> 8,259 estimated refugee and migrant arrivals (January 2015-September 2022)<br>
 

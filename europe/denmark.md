@@ -74,9 +74,6 @@ flooding is a threat in some areas of the country (e.g., parts of Jutland, along
 **Geography - note**<br>
 composed of the Jutland Peninsula and a group of more than 400 islands (Danish Archipelago); controls Danish Straits (Skagerrak and Kattegat) linking Baltic and North Seas; about one-quarter of the population lives in greater Copenhagen<br>
 
-**Map description**<br>
-<p>Denmark map showing major cities and the country in relation to neighboring countries and water bodies.</p><br>
-
 ## People and Society
 
 **Population**<br>
@@ -347,7 +344,7 @@ _elections_: last held on 5 June 2019 (next to be held in June 2023)<br>
 _election results_: percent of vote by party - SDP 27.4%, V 24.6%, DF 9.1%, SLP 9.1%, SF 8%, EL 7.4%, C 6.9%, AP 2.9%, NB 2.3%, LA 2.3%; seats by party - SDP 48, V 43, DF 16, SLP 16, SF 14, EL 13, C 12, AP 5, NB 4, LA 4; composition (as of September 2021) - men 108, women 71 (includes 2 from Greenland), percent of women 39.7%<br>
 
 **Judicial branch**<br>
-_highest courts_: Supreme Court (consists of the court president and 18 judges)<br>
+_highest court(s)_: Supreme Court (consists of the court president and 18 judges)<br>
 _judge selection and term of office_: judges appointed by the monarch upon the recommendation of the Minister of Justice, with the advice of the Judicial Appointments Council, a 6-member independent body of judges and lawyers; judges appointed for life with retirement at age 70<br>
 _subordinate courts_: Special Court of Indictment and Revision; 2 High Courts; Maritime and Commercial Court; county courts<br>
 
@@ -719,6 +716,6 @@ Islamic State of Iraq and ash-Sham (ISIS); Islamic Revolutionary Guard Corps/Qod
 <p>Iceland, the UK, and Ireland dispute Denmark's claim that the Faroe Islands' continental shelf extends beyond 200 nm; sovereignty dispute with Canada over Hans Island in the Kennedy Channel between Ellesmere Island and Greenland; Denmark (Greenland) and Norway have made submissions to the Commission on the Limits of the Continental Shelf (CLCS) and Russia is collecting additional data to augment its 2001 CLCS submission</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 19,833 (Syria), 5,634 (Eritrea) (mid-year 2021); 35,850 (Ukraine) (as of 11 October 2022)<br>
+_refugees (country of origin)_: 19,833 (Syria), 5,634 (Eritrea) (mid-year 2021); 36,174 (Ukraine) (as of 18 October 2022)<br>
 _stateless persons_: 11,608 (mid-year 2021)<br>
 

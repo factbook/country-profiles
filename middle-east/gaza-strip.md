@@ -61,9 +61,6 @@ droughts<br>
 **Geography - note**<br>
 once a strategic strip of land along Mideast-North African trade routes that has experienced an incredibly turbulent history; the town of Gaza itself has been besieged countless times in its history; Israel evacuated its civilian settlements and soldiers from the Gaza Strip in 2005<br>
 
-**Map description**<br>
-<p>Gaza Strip showing major populated areas as well as parts of surrounding countries and the Mediterranean Sea.</p><br>
-
 ## People and Society
 
 **Population**<br>

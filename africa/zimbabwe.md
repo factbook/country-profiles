@@ -79,9 +79,6 @@ recurring droughts; floods and severe storms are rare<br>
 **Geography - note**<br>
 landlocked; the Zambezi forms a natural riverine boundary with Zambia; in full flood (February-April) the massive Victoria Falls on the river forms the world's largest curtain of falling water; Lake Kariba on the Zambia-Zimbabwe border forms the world's largest reservoir by volume (180 cu km; 43 cu mi)<br>
 
-**Map description**<br>
-<p>Zimbabwe map showing major population centers as well as parts of surrounding countries.</p><br>
-
 ## People and Society
 
 **Population**<br>
@@ -155,7 +152,7 @@ _total population_: 0.97 male(s)/female (2022 est.)<br>
 
 **Mother's mean age at first birth**<br>
 20.3 years (2015 est.)<br>
-<strong>note:</strong> median age at first birth among women 25-49<br>
+<strong>note:</strong> data represents median age at first birth among women 25-49<br>
 
 **Maternal mortality ratio**<br>
 458 deaths/100,000 live births (2017 est.)<br>
@@ -384,7 +381,7 @@ _elections_: Senate - last held for elected member on 30 July 2018 (next to be h
 _election results_: Senate - percent of vote by party - NA; seats by party - ZANU-PF 34, MDC Alliance 25, Chiefs 18, people with disabilities 2, MDC-T 1; composition - men 45, women 35, percent of women 43.8%<br> National Assembly - percent of vote by party - NA; seats by party - ZANU-PF 179, MDC Alliance 88, MDC-T 1, NPF 1, independent 1; composition - men 185, women 25, percent of women 31.5%; note - total Parliament percent of women 34.3%<br>
 
 **Judicial branch**<br>
-_highest courts_: Supreme Court (consists of the chief justice and 4 judges); Constitutional Court (consists of the chief and deputy chief justices and 9 judges)<br>
+_highest court(s)_: Supreme Court (consists of the chief justice and 4 judges); Constitutional Court (consists of the chief and deputy chief justices and 9 judges)<br>
 _judge selection and term of office_: Supreme Court judges appointed by the president upon recommendation of the Judicial Service Commission, an independent body consisting of the chief justice, Public Service Commission chairman, attorney general, and 2-3 members appointed by the president; judges normally serve until age 65 but can elect to serve until age 70; Constitutional Court judge appointment NA; judges serve nonrenewable 15-year terms<br>
 _subordinate courts_: High Court; Labor Court; Administrative Court; regional magistrate courts; customary law courts; special courts<br>
 
@@ -639,7 +636,7 @@ _subscriptions per 100 inhabitants_: 90.1 (2019)<br>
 _general assessment_: Zimbabwe&rsquo;s telcos continue to be affected by the country&rsquo;s poor economy; this has been exacerbated by the significant economic difficulties related to the pandemic; revenue has also been under pressure from a number of recent regulatory measures and additional taxes imposed by the cash-strapped government; inflation has become so high that year-on-year revenue comparisons since 2019 have been difficult to assess meaningfully; the three MNOs Econet Wireless, NetOne and Telecel Zimbabwe continue to invest in network upgrades, partly supported by government efforts and cash released from the Universal Service Fund; as a result of these investments, LTE networks have expanded steadily, though services remain concentrated in urban areas; international bandwidth has improved since fiber links to several submarine cables were established via neighboring countries; the expansion of 3G and LTE-based mobile broadband services has meant that most of the population has access to the internet; the government has started a national broadband scheme aimed at delivering a 1Mb/s service nationally by 2030; investment in fixed broadband infrastructure has also resulted in a slow but steady growth in the number of DSL connections, and also fiber subscriptions; during 2021, most growth in the fixed broadband segment has been with fiber connections. (2022)<br>
 _domestic_: consists of microwave radio relay links, open-wire lines, radiotelephone communication stations, fixed wireless local loop installations, fiber-optic cable, VSAT terminals, and a substantial mobile-cellular network; Internet connection is most readily available in Harare and major towns; two government owned and two private cellular providers; fixed-line teledensity at nearly 2 per 100 and mobile-cellular nearly 89 per 100 (2020)<br>
 _international_: country code - 263; fiber-optic connections to neighboring states provide access to international networks via undersea cable; satellite earth stations - 2 Intelsat; 5 international digital gateway exchanges<br>
-<strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress towards 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>
+<strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress toward 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>
 
 **Broadcast media**<br>
 government owns all local radio and TV stations; foreign shortwave broadcasts and satellite TV are available to those who can afford antennas and receivers; in rural areas, access to TV broadcasts is extremely limited; analog TV only, no digital service (2017)<br>

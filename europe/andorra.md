@@ -70,9 +70,6 @@ avalanches<br>
 **Geography - note**<br>
 landlocked; straddles a number of important crossroads in the Pyrenees<br>
 
-**Map description**<br>
-<p>Andorra map showing major towns as well as parts of neighboring France and Spain.</p><br>
-
 ## People and Society
 
 **Population**<br>
@@ -319,7 +316,7 @@ _elections_: last held on 7 April 2019 (next to be held in April 2023)<br>
 _election results_: percent of vote by party - DA 35.1%, PS 30.6%, L'A 12.5%, Third Way/Lauredian Union 10.4%, other 11.4%; seats by party - DA 11, PS 7, L'A 4, Third Way/Lauredian Union 4, other 2; composition - men 15, women 13, percent of women 46.4%<br>
 
 **Judicial branch**<br>
-_highest courts_: Supreme Court of Justice of Andorra or Tribunal Superior de la Justicia d'Andorra (consists of the court president and 8 judges organized into civil, criminal, and administrative chambers); Constitutional Court or Tribunal Constitucional (consists of 4 magistrates)<br>
+_highest court(s)_: Supreme Court of Justice of Andorra or Tribunal Superior de la Justicia d'Andorra (consists of the court president and 8 judges organized into civil, criminal, and administrative chambers); Constitutional Court or Tribunal Constitucional (consists of 4 magistrates)<br>
 _judge selection and term of office_: Supreme Court president and judges appointed by the Supreme Council of Justice, a 5-member judicial policy and administrative body appointed 1 each by the coprinces, 1 by the General Council, 1 by the executive council president, and 1 by the courts; judges serve 6-year renewable terms; Constitutional magistrates - 2 appointed by the coprinces and 2 by the General Council; magistrates' appointments limited to 2 consecutive 8-year terms<br>
 _subordinate courts_: Tribunal of Judges or Tribunal de Batlles; Tribunal of the Courts or Tribunal de Corts<br>
 

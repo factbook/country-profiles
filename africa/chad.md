@@ -79,9 +79,6 @@ hot, dry, dusty harmattan winds occur in north; periodic droughts; locust plague
 **Geography - note**<br>
 <p><strong>note 1:</strong> Chad is the largest of Africa's 16 landlocked countries</p> <p><strong>note 2:</strong> not long ago - geologically speaking - what is today the Sahara was green savannah teeming with wildlife; during the African Humid Period, roughly 11,000 to 5,000 years ago, a vibrant animal community, including elephants, giraffes, hippos, and antelope lived there; the last remnant of the "Green Sahara" exists in the Lakes of Ounianga (oo-nee-ahn-ga) in northern Chad, a series of 18 interconnected freshwater, saline, and hypersaline lakes now protected as a World Heritage site</p> <p><strong>note 3:</strong> Lake Chad, the most significant water body in the Sahel, is a remnant of a former inland sea, paleolake Mega-Chad; at its greatest extent, sometime before 5000 B.C., Lake Mega-Chad was the largest of four Saharan paleolakes that existed during the African Humid Period; it covered an area of about 400,000 sq km (150,000 sq mi), roughly the size of today's Caspian Sea</p><br>
 
-**Map description**<br>
-<p>Chad map showing major cities and towns as well as parts of surrounding countries.</p><br>
-
 ## People and Society
 
 **Population**<br>
@@ -155,7 +152,7 @@ _total population_: 0.98 male(s)/female (2022 est.)<br>
 
 **Mother's mean age at first birth**<br>
 18.1 years (2014/15 est.)<br>
-<strong>note:</strong> median age at first birth among women 20-49<br>
+<strong>note:</strong> data represents median age at first birth among women 20-49<br>
 
 **Maternal mortality ratio**<br>
 1,140 deaths/100,000 live births (2017 est.)<br>
@@ -386,7 +383,7 @@ _election results_: percent of vote by party - NA; seats by party - NA; composit
 <strong>note:</strong> the National Assembly mandate was extended to 2020, reportedly due to a lack of funding for the scheduled 2015 election; the MPS has held a majority in the NA since 1997<br>
 
 **Judicial branch**<br>
-_highest courts_: Supreme Court (consists of the chief justice, 3 chamber presidents, and 12 judges or councilors and divided into 3 chambers); Constitutional Council (consists of 3 judges and 6 jurists)<br>
+_highest court(s)_: Supreme Court (consists of the chief justice, 3 chamber presidents, and 12 judges or councilors and divided into 3 chambers); Constitutional Council (consists of 3 judges and 6 jurists)<br>
 _judge selection and term of office_: Supreme Court chief justice selected by the president; councilors - 8 designated by the president and 7 by the speaker of the National Assembly; chief justice and councilors appointed for life; Constitutional Council judges - 2 appointed by the president and 1 by the speaker of the National Assembly; jurists - 3 each by the president and by the speaker of the National Assembly; judges appointed for 9-year terms<br>
 _subordinate courts_: High Court of Justice; Courts of Appeal; tribunals; justices of the peace<br>
 
@@ -398,7 +395,7 @@ Chadian Convention for Peace and Development or CTPD [Laoukein Kourayo MEDARD]<b
 ACP, AfDB, AU, BDEAC, CEMAC, EITI (compliant country), FAO, FZ, G-77, IAEA, IBRD, ICAO, ICCt, ICRM, IDA, IDB, IFAD, IFC, IFRCS, ILO, IMF, Interpol, IOC, IOM, IPU, ITSO, ITU, ITUC (NGOs), LCBC, MIGA, MINUSMA, MNJTF, NAM, OIC, OIF, OPCW, UN, UNCTAD, UNESCO, UNIDO, UNOCI, UNWTO, UPU, WCO, WHO, WIPO, WMO, WTO<br>
 
 **Diplomatic representation in the US**<br>
-_chief of mission_: Ambassador NGOTE GALI Koutou (since 22 June 2018)<br>
+_chief of mission_: Ambassador Koutou NGOTE GALI (since 22 June 2018)<br>
 _chancery_: 2401 Massachusetts Avenue NW, Washington, DC 20008<br>
 _telephone_: [1] (202) 652-1312<br>
 _FAX_: [1] (202) 265-1937<br>
@@ -636,7 +633,7 @@ _total subscriptions_: 8,687,151 (2020 est.)<br>
 _subscriptions per 100 inhabitants_: 53 (2020 est.)<br>
 
 **Telecommunication systems**<br>
-_general assessment_: the telecom infrastructure is particularly poor; fixed, mobile and internet is well below African averages; Chad&rsquo;s telecom market offers some potential for investors to develop services given the low starting base; the two main operators Moov Africa Chad and Airtel Chad have invested in infrastructure and have become the main providers of voice and data services; the mobile sector has developed steadily under the auspices of these two operators; the national telco and fixed-line operator Sotel Tchad operates the country&rsquo;s third mobile network, as Salam Mobile, though it is mainly focused on voice services since it depends on GPRS and EDGE technologies (which can provide only basic mobile data services); the country&rsquo;s first 3G/LTE mobile license was awarded in April 2014; Chad finally gained access to international fiber bandwidth in 2012 its national backbone infrastructure remains underdeveloped; the World Bank-funded Central African Backbone (CAB) project takes in Chad, while the country is also party to a Trans-Saharan Backbone project which will link a fiber cable to Nigeria and Algeria. (2022)<br>
+_general assessment_: the telecom infrastructure is particularly poor; fixed, mobile and internet is well below African averages; Chad&rsquo;s telecom market offers some potential for investors to develop services given the low starting base; the country&rsquo;s first 3G/LTE mobile license was awarded in April 2014; Chad finally gained access to international fiber bandwidth in 2012 its national backbone infrastructure remains underdeveloped; the World Bank-funded Central African Backbone (CAB) project takes in Chad, while the country is also party to a Trans-Saharan Backbone project which will link a fiber cable to Nigeria and Algeria (2022)<br>
 _domestic_: fixed-line connections less than 1 per 100 persons; mobile-cellular subscribership base of about 53 per 100 persons (2020)<br>
 _international_: country code - 235; satellite earth station - 1 Intelsat (Atlantic Ocean)<br>
 <strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress toward 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>

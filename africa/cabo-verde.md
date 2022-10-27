@@ -71,9 +71,6 @@ among the nine inhabited islands, population distribution is variable; islands i
 **Geography - note**<br>
 strategic location 500 km from west coast of Africa near major north-south sea routes; important communications station; important sea and air refueling site; one of four North Atlantic archipelagos that make up Macaronesia; the others are Azores (Portugal), Canary Islands (Spain), and Madeira (Portugal)<br>
 
-**Map description**<br>
-<p>Cabo Verde map showing the many islands that make up the country in the North Atlantic Ocean.</p><br>
-
 ## People and Society
 
 **Population**<br>
@@ -340,7 +337,7 @@ _elections_: last held on 18 April 2021 (next to be held on 18 April 2026) (2021
 _election results_: percent of vote by party Monument for Democracy 50.2%, African Party for Independence in Cape Verde 39.55%, Democratic and Independent Cape Verdean Union 9.0%; seats by party - MD 38, APICV 30, DICVU 4; composition - men 44, women 28, percent of women 37.5% (2021)<br>
 
 **Judicial branch**<br>
-_highest courts_: Supreme Court of Justice (consists of the chief justice and at least 7 judges and organized into civil, criminal, and administrative sections)<br>
+_highest court(s)_: Supreme Court of Justice (consists of the chief justice and at least 7 judges and organized into civil, criminal, and administrative sections)<br>
 _judge selection and term of office_: judge appointments - 1 by the president of the republic, 1 elected by the National Assembly, and 3 by the Superior Judicial Council (SJC), a 16-member independent body chaired by the chief justice and includes the attorney general, 8 private citizens, 2 judges, 2 prosecutors, the senior legal inspector of the Attorney General's office, and a representative of the Ministry of Justice; chief justice appointed by the president of the republic from among peers of the Supreme Court of Justice and in consultation with the SJC; judges appointed for life<br>
 _subordinate courts_: appeals courts, first instance (municipal) courts; audit, military, and fiscal and customs courts<br>
 
@@ -592,7 +589,7 @@ _total subscriptions_: 544,729 (2020 est.)<br>
 _subscriptions per 100 inhabitants_: 98 (2020 est.)<br>
 
 **Telecommunication systems**<br>
-_general assessment_: LTE reaches almost 40% of the population; regulator awards commercial 4G licenses and starts 5G pilot; govt. extends USD 25 million for submarine fiber-optic cable project&nbsp;linking Africa to Portugal and Brazil;&nbsp;major service provider is Cabo Verde Telecom (CVT) (2020)<br>
+_general assessment_: LTE reaches almost 40% of the population; regulator awards commercial 4G licenses and starts 5G pilot; govt. extends USD 25 million for submarine fiber-optic cable project linking Africa to Portugal and Brazil (2020)<br>
 _domestic_: a little over 10 per 100 fixed-line teledensity and nearly 98 per 100 mobile-cellular; fiber-optic ring, completed in 2001, links all islands providing Internet access and ISDN services; cellular service introduced in 1998; broadband services launched early in the decade (2020)<br>
 _international_: country code - 238; landing points for the Atlantis-2, EllaLink, Cabo&nbsp;Verde Telecom Domestic Submarine Cable Phase 1,&nbsp;2, 3 and WACS fiber-optic transatlantic telephone cable that provides links to South America, Africa, and Europe; HF radiotelephone to Senegal and Guinea-Bissau; satellite earth station - 1 Intelsat (Atlantic Ocean) (2019)<br>
 <strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress toward 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>

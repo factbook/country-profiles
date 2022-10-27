@@ -74,9 +74,6 @@ flooding<br>
 **Geography - note**<br>
 smallest independent country on South American continent; mostly tropical rain forest; great diversity of flora and fauna that, for the most part, is increasingly threatened by new development; relatively small population, mostly along the coast<br>
 
-**Map description**<br>
-<p>Suriname map showing major population centers as well as parts of surrounding countries and the North Atlantic Ocean.</p><br>
-
 ## People and Society
 
 **Population**<br>
@@ -352,7 +349,7 @@ _elections_: last held on 25 May 2020 (next to be held in May 2025)<br>
 _election results_: percent of vote by party - VHP 41.1%, NDP 29.4%, ABOP 17.6%, NPS 7.8%, other 3.9%; seats by party - VHP 21, NDP 15, ABOP 9, NPS 4, other 2; composition - men 36, women 15, percent of women 29.4%<br>
 
 **Judicial branch**<br>
-_highest courts_: High Court of Justice of Suriname (consists of the court president, vice president, and 4 judges); note - appeals beyond the High Court are referred to the Caribbean Court of Justice; human rights violations can be appealed to the Inter-American Commission on Human Rights with judgments issued by the Inter-American Court on Human Rights<br>
+_highest court(s)_: High Court of Justice of Suriname (consists of the court president, vice president, and 4 judges); note - appeals beyond the High Court are referred to the Caribbean Court of Justice; human rights violations can be appealed to the Inter-American Commission on Human Rights with judgments issued by the Inter-American Court on Human Rights<br>
 _judge selection and term of office_: court judges appointed by the national president in consultation with the National Assembly, the State Advisory Council, and the Order of Private Attorneys; judges serve for life<br>
 _subordinate courts_: cantonal courts<br>
 
@@ -607,7 +604,7 @@ _subscriptions per 100 inhabitants_: 139.99 (2019)<br>
 _general assessment_:  <p>Suriname is the smallest nation on the South American continent, with about 580,000 inhabitants; the only Dutch-speaking nation in South America, it has close affinities with the Caribbean, and is a member of the Caribbean Community and Common Market (CARICOM); the state-owned incumbent telco, Telesur, is the only provider of fixed-line and fixed broadband services in Suriname; the country’s fixed-line infrastructure is reasonably reliable in the more populated coastal region, though poor in the interior; Telesur started building out a fiber network in Paramaribo 2013, and in June 2018, the company started with the rollout of the National Broadband Project (TNBP), which was completed in 2019; fixed teledensity and broadband penetration are slightly lower than average for Latin America and the Caribbean, while mobile penetration is significantly above the regional average and much higher than would be expected given the country’s relatively low GDP per capita; many Surinamese have up to three mobile lines with different providers, which has pushed up penetration figures although the number of subscribers has fallen in recent years as consumers have responded to economic pressures; the mobile market supports only two players: Telesur (trading as TeleG), and Digicel (part of Digicel Group, a significant operator across the Caribbean). In early 2015 Digicel acquired the only other operator, Uniqa, which only had about 5,000 subscribers; in January 2017 Digicel signed a deal to host the MVNO Transatel, which operates in a number of markets across the Caribbean and Latin America; through a refinancing measure, Digicel in May 2020 reduced its debts by more than 20%.</p>  (2021)<br>
 _domestic_: fixed-line nearly 18 per 100 and mobile-cellular teledensity over 153 telephones per 100 persons; microwave radio relay network is in place (2020)<br>
 _international_: country code - 597; landing point for the SG-SCS submarine cable linking South America with the Caribbean; satellite earth stations - 2 Intelsat (Atlantic Ocean) (2019)<br>
-<strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress towards 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>
+<strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress toward 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>
 
 **Broadcast media**<br>
 2 state-owned TV stations; 1 state-owned radio station; multiple private radio and TV stations (2019)<br>

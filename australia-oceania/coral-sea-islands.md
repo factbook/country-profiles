@@ -60,9 +60,6 @@ occasional tropical cyclones<br>
 **Geography - note**<br>
 important nesting area for birds and turtles<br>
 
-**Map description**<br>
-<p>Coral Sea Islands map showing the Australian territory in the Coral Sea.</p><br>
-
 ## People and Society
 
 **Population**<br>

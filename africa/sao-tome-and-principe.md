@@ -70,9 +70,6 @@ flooding<br>
 **Geography - note**<br>
 the second-smallest African country (after the Seychelles); the two main islands form part of a chain of extinct volcanoes and both are mountainous<br>
 
-**Map description**<br>
-<p>Sao Tome and Principe map showing the islands that make up this country in the Gulf of Guinea.</p><br>
-
 ## People and Society
 
 **Population**<br>
@@ -145,7 +142,7 @@ _total population_: 1 male(s)/female (2022 est.)<br>
 
 **Mother's mean age at first birth**<br>
 19.4 years (2008/09 est.)<br>
-<strong>note:</strong> median age at first birth among women 25-29<br>
+<strong>note:</strong> data represents median age at first birth among women 25-29<br>
 
 **Maternal mortality ratio**<br>
 130 deaths/100,000 live births (2017 est.)<br>
@@ -359,7 +356,7 @@ _elections_: last held on 7 October 2018 (next to be held in October 2022)<br>
 _election results_: percent of vote by party - ADI 41.8%, MLSTP/PSD 40.3%, PCD-GR 9.5%, MCISTP 2.1%, other 6.3%; seats by party - ADI 25, MLSTP-PSD 23, PCD-MDFM-UDD 5, MCISTP 2; composition - men 42, women 13, percent of women 23.6%<br>
 
 **Judicial branch**<br>
-_highest courts_: Supreme Court or Supremo Tribunal Justica (consists of 5 judges); Constitutional Court or Tribunal Constitucional (consists of 5 judges, 3 of whom are from the Supreme Court)<br>
+_highest court(s)_: Supreme Court or Supremo Tribunal Justica (consists of 5 judges); Constitutional Court or Tribunal Constitucional (consists of 5 judges, 3 of whom are from the Supreme Court)<br>
 _judge selection and term of office_: Supreme Court judges appointed by the National Assembly; judge tenure NA; Constitutional Court judges nominated by the president and elected by the National Assembly for 5-year terms<br>
 _subordinate courts_: Court of First Instance; Audit Court<br>
 
@@ -607,7 +604,7 @@ _subscriptions per 100 inhabitants_: 79 (2020 est.)<br>
 _general assessment_: local telephone network of adequate quality with most lines connected to digital switches; mobile cellular superior choice to landland; dial-up quality low; broadband expensive (2018)<br>
 _domestic_: fixed-line roughly 1 per 100 and mobile-cellular teledensity roughly 79 telephones per 100 persons (2020)<br>
 _international_: country code - 239; landing points for the Ultramar GE and ACE submarine cables&nbsp;from South Africa&nbsp;to over 20&nbsp;West African countries and Europe; satellite earth station - 1 Intelsat (Atlantic Ocean) (2019)<br>
-<strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress towards 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>
+<strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress toward 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>
 
 **Broadcast media**<br>
 1 government-owned TV station; 1 government-owned radio station; 3 independent local radio stations authorized in 2005 with 2 operating at the end of 2006; transmissions of multiple international broadcasters are available<br>

@@ -79,9 +79,6 @@ droughts; cyclones; much of the country routinely inundated during the summer mo
 **Geography - note**<br>
 most of the country is situated on deltas of large rivers flowing from the Himalayas: the Ganges unites with the Jamuna (main channel of the Brahmaputra) and later joins the Meghna to eventually empty into the Bay of Bengal<br>
 
-**Map description**<br>
-<p>Bangladesh map showing major cities as well as parts of surrounding countries and the Bay of Bengal.</p><br>
-
 ## People and Society
 
 **Population**<br>
@@ -150,7 +147,7 @@ _total population_: 0.96 male(s)/female (2022 est.)<br>
 
 **Mother's mean age at first birth**<br>
 18.6 years (2017/18 est.)<br>
-<strong>note:</strong> median age at first birth among women 20-49<br>
+<strong>note:</strong> data represents median age at first birth among women 20-49<br>
 
 **Maternal mortality ratio**<br>
 173 deaths/100,000 live births (2017 est.)<br>
@@ -380,7 +377,7 @@ _elections_: last held on 30 December 2018 (next to be held in December 2023)<br
 _election results_: percent of vote by party - NA; seats by party as of February 2022 - AL 299, JP 27, BNP 7, other 10, independent 4; composition - men 277, women 73, percent of women 20.9%<br>
 
 **Judicial branch**<br>
-_highest courts_: Supreme Court of Bangladesh (organized into the Appellate Division with 7 justices and the High Court Division with 99 justices)<br>
+_highest court(s)_: Supreme Court of Bangladesh (organized into the Appellate Division with 7 justices and the High Court Division with 99 justices)<br>
 _judge selection and term of office_: chief justice and justices appointed by the president; justices serve until retirement at age 67<br>
 _subordinate courts_: civil courts include: Assistant Judge's Court; Joint District Judge's Court; Additional District Judge's Court; District Judge's Court; criminal courts include: Court of Sessions; Court of Metropolitan Sessions; Metropolitan Magistrate Courts; Magistrate Court; special courts/tribunals<br>
 

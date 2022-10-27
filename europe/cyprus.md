@@ -72,9 +72,6 @@ moderate earthquake activity; droughts<br>
 **Geography - note**<br>
 the third largest island in the Mediterranean Sea (after Sicily and Sardinia); several small Cypriot enclaves exist within the Dhekelia Sovereign Base Area<br>
 
-**Map description**<br>
-<p>Cyprus map showing the island country in the Mediterranean Sea.</p><br>
-
 ## People and Society
 
 **Population**<br>
@@ -148,7 +145,7 @@ _total population_: 0.93 male(s)/female (2022 est.)<br>
 
 **Mother's mean age at first birth**<br>
 30 years (2020 est.)<br>
-<strong>note:</strong> data represent only government-controlled areas<br>
+<strong>note:</strong> data represents only government-controlled areas<br>
 
 **Maternal mortality ratio**<br>
 6 deaths/100,000 live births (2017 est.)<br>
@@ -354,7 +351,7 @@ _elections_: area under government control: last held on 30 May 2021 (next to be
 _election results_: area under government control: House of Representatives - percent of vote by party/coalition - DISY 27.8%, AKEL 22.3%, DIKO 11.3%, ELAM 6.8%, EDEK-SP 6.7%, DiPa 6.1%, Movement of Ecologists - Citizens' Cooperation 4.4%, other 14.6%; seats by party/coalition - DISY 17, AKEL 15, DIKO 9, ELAM 4, EDEK-SP 4, DiPa 4, Movement of Ecologists - Citizens' Cooperation 3; area administered by Turkish Cypriots - "Assembly of the Republic" - percent of vote by party - UBP 39.5%, CTP 32%, DP 7.4%, HP 6.7%, YDP 6.4%, other 8%; seats by party - UBP 24, CTP 18, DP 3, HP 3, YDP 2<br>
 
 **Judicial branch**<br>
-_highest courts_: Supreme Court of Cyprus (consists of 13 judges, including the court president); note - the highest court in the "TRNC" is the "Supreme Court" (consists of 8 "judges," including the "court president")<br>
+_highest court(s)_: Supreme Court of Cyprus (consists of 13 judges, including the court president); note - the highest court in the "TRNC" is the "Supreme Court" (consists of 8 "judges," including the "court president")<br>
 _judge selection and term of office_: Republic of Cyprus Supreme Court judges appointed by the president of the republic upon the recommendation of the Supreme Court judges; judges can serve until age 68; "TRNC Supreme Court" judges appointed by the "Supreme Council of Judicature," a 12-member body of judges, the attorney general, appointees by the president of the "TRNC," and by the "Legislative Assembly," and members elected by the bar association; judge tenure NA<br>
 _subordinate courts_: Republic of Cyprus district courts; Assize Courts; Administrative Court; specialized courts for issues relating to family, industrial disputes, the military, and rent control; "TRNC Assize Courts"; "district and family courts"<br>
 
@@ -618,7 +615,7 @@ _total subscriptions_: 1,239,960 (2020 est.)<br>
 _subscriptions per 100 inhabitants_: 140 (2020 est.)<br>
 
 **Telecommunication systems**<br>
-_general assessment_: Cyprus has suffered from the effects of the pandemic, which essentially closed down the tourism sector during 2020 and into 2021; the incumbent telco Cyta reported strong revenue growth in 2020, largely due to greater use of broadband and mobile services, though investment fell as a result of pandemic-related delays in completing planned projects; the mobile market is served by four mobile network operators, including Cablenet which initially offered services as an MVNO before becoming an MNO in its own right; Cyta has offered mobile services under the Cytamobile-Vodafone brand since 2004 following a partner agreement with Vodafone Group, while Epic was acquired by Monaco Telecom in mid-2018; in mid-2021 Monaco agreed to sell its entire passive infrastructure in Cyprus; the number of mobile subscribers fell in 2020, largely the result of subscribers scaling back on multiple SIM cards as an economic measure; the broadband market continues to develop steadily, providing the country with one of the highest broadband subscription rates in the region; DSL remains the dominant access platform, accounting for about two-thirds of fixed broadband connections; Cablenet is engaged in investment projects which will see its network pass about 80% of premises, compared to 50% as of early 2021; fiber infrastructure in Cyprus is minimal, in common with other markets in the region there are efforts underway (supported by the government and regulator) to extend an FttP service to about 200,000 premises; the number of DSL subscribers is set to fall steadily in coming years as customers are migrated to the fiber platform; regulator concludes multi-spectrum auction for 5G, issues licenses; Epic signs vendor agreement with Huawei to develop 5G (2021)<br>
+_general assessment_: Cyprus has suffered from the effects of the pandemic, which essentially closed down the tourism sector during 2020 and into 2021; the mobile market is served by four mobile network operators; in mid-2021 Monaco agreed to sell its entire passive infrastructure in Cyprus; the number of mobile subscribers fell in 2020, largely the result of subscribers scaling back on multiple SIM cards as an economic measure; the broadband market continues to develop steadily, providing the country with one of the highest broadband subscription rates in the region; DSL remains the dominant access platform, accounting for about two-thirds of fixed broadband connections; fiber infrastructure in Cyprus is minimal, in common with other markets in the region there are efforts underway (supported by the government and regulator) to extend an FttP service to about 200,000 premises; the number of DSL subscribers is set to fall steadily in coming years as customers are migrated to the fiber platform; regulator concludes multi-spectrum auction for 5G, issues licenses; Epic signs vendor agreement with Huawei to develop 5G (2021)<br>
 _domestic_: fixed-line about 35 per 100 and about 139 per 100 for mobile-cellular teledensity; open-wire, fiber-optic cable, and microwave radio relay (2020)<br>
 _international_: country code - 357 (area administered by Turkish Cypriots uses the country code of Turkey - 90); a number of submarine cables, including the SEA-ME-WE-3, CADMOS, MedNautilus Submarine System, POSEIDON, TE North/TGN-Eurasia/SEACOM/Alexandros/Medes, UGARIT, Aphrodite2, Hawk, Lev Submarine System, and Tamares combine to provide connectivity to&nbsp;Europe, the Middle East, Africa, Asia, Australia, and Southeast Asia; Turcyos-1 and Turcyos-2 submarine cable in Turkish North Cyprus link to Turkey; tropospheric scatter; satellite earth stations - 8 (3 Intelsat - 1 Atlantic Ocean and 2 Indian Ocean, 2 Eutelsat, 2 Intersputnik, and 1 Arabsat) (2019)<br>
 <strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress toward 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>
@@ -716,10 +713,10 @@ Islamic State of Iraq and ash-Sham (ISIS)<br>
 <p>hostilities in 1974 divided the island into two de facto autonomous entities, the internationally recognized Cypriot Government and a Turkish-Cypriot community (north Cyprus); the 1,000-strong UN Peacekeeping Force in Cyprus (UNFICYP) has served in Cyprus since 1964 and maintains the buffer zone between north and south; on 1 May 2004, Cyprus entered the EU still divided, with the EU's body of legislation and standards (acquis communitaire) suspended in the north; Turkey protests Cypriot Government creating hydrocarbon blocks and maritime boundary with Lebanon in March 2007</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 9,820 (Syria) (mid-year 2021); 13,946 (Ukraine) (as of 11 October 2022)<br>
+_refugees (country of origin)_: 9,820 (Syria) (mid-year 2021); 14,380 (Ukraine) (as of 18 October 2022)<br>
 _IDPs_: 242,000 (both Turkish and Greek Cypriots; many displaced since 1974) (2021)<br>
 _stateless persons_: 66 (mid-year 2021)<br>
-<strong>note:</strong> 43,014 estimated refugee and migrant arrivals (January 2015-August 2022)<br>
+<strong>note:</strong> 44,693 estimated refugee and migrant arrivals (January 2015-September 2022)<br>
 
 **Illicit drugs**<br>
 <p>vulnerable to money laundering from illegal drugs</p> <p> </p><br>

@@ -70,9 +70,6 @@ density is highest in the center of the country in and around the cities of Asma
 **Geography - note**<br>
 strategic geopolitical position along world's busiest shipping lanes; Eritrea retained the entire coastline of Ethiopia along the Red Sea upon de jure independence from Ethiopia on 24 May 1993<br>
 
-**Map description**<br>
-<p>Eritrea map showing major cities as well as parts of surrounding countries and the Red Sea.</p><br>
-
 ## People and Society
 
 **Population**<br>
@@ -146,7 +143,7 @@ _total population_: 0.97 male(s)/female (2022 est.)<br>
 
 **Mother's mean age at first birth**<br>
 21.3 years (2010 est.)<br>
-<strong>note:</strong> median age at first birth among women 25-29<br>
+<strong>note:</strong> data represents median age at first birth among women 25-29<br>
 
 **Maternal mortality ratio**<br>
 480 deaths/100,000 live births (2017 est.)<br>
@@ -343,7 +340,7 @@ _elections_: in May 1997, following the adoption of the new constitution, 75 mem
 _election results_: NA<br>
 
 **Judicial branch**<br>
-_highest courts_: High Court (consists of 20 judges and organized into civil, commercial, criminal, labor, administrative, and customary sections)<br>
+_highest court(s)_: High Court (consists of 20 judges and organized into civil, commercial, criminal, labor, administrative, and customary sections)<br>
 _judge selection and term of office_: High Court judges appointed by the president<br>
 _subordinate courts_: regional/zonal courts; community courts; special courts; sharia courts (for issues dealing with Muslim marriage, inheritance, and family); military courts<br>
 
@@ -584,7 +581,7 @@ _total subscriptions_: 1.801 million (2020 est.)<br>
 _subscriptions per 100 inhabitants_: 51 (2020 est.)<br>
 
 **Telecommunication systems**<br>
-_general assessment_: Eritrea&rsquo;s telecom sector operates under a state-owned monopoly for fixed and mobile services; the country has the least developed telecommunications market in Africa; mobile subscriptions stands at only about 20%, while fixed-line internet use barely registers; this is exacerbated by the very low use of computers, with only about 4% of households having a computer, and most of these being in the capital, Asmara; the provision of internet services is open to competition, about 2% of households have access to the internet; the national telco, the Eritrean Telecommunication Services Corporation (EriTel), continues to roll out a 3G network which provides basic internet access to the majority or Eritreans; considerable investment in telecom infrastructure is still required to improve the quality of services; the government has embarked on a work program aimed at extending services to remote areas, improving the quality of services, and ensuring that more telecoms infrastructure is supported by solar power to compensate for the poor state of the electricity network; additional foreign investment in telecom infrastructure, as well as introduction of more competition, would help transform what remains a virtually untapped market. (2021)<br>
+_general assessment_: Eritrea&rsquo;s telecom sector operates under a state-owned monopoly for fixed and mobile services; the country has the least developed telecommunications market in Africa; mobile subscriptions stands at only about 20%, while fixed-line internet use barely registers; this is exacerbated by the very low use of computers, with only about 4% of households having a computer, and most of these being in the capital, Asmara; the provision of internet services is open to competition, about 2% of households have access to the internet; considerable investment in telecom infrastructure is still required to improve the quality of services; the government has embarked on a work program aimed at extending services to remote areas, improving the quality of services, and ensuring that more telecoms infrastructure is supported by solar power to compensate for the poor state of the electricity network; additional foreign investment in telecom infrastructure, as well as introduction of more competition, would help transform what remains a virtually untapped market (2021)<br>
 _domestic_: fixed-line subscribership is less than 2 per 100 persons and mobile-cellular is just over 20 per 100 (2019)<br>
 _international_: country code - 291 (2019)<br>
 <strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress toward 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>

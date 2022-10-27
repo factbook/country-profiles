@@ -58,9 +58,6 @@ hurricanes<br>
 **Geography - note**<br>
 strategic location 160 km south of the US Naval Base at Guantanamo Bay, Cuba; mostly exposed rock with numerous solution holes (limestone sinkholes) but with enough grassland to support goat herds; dense stands of fig trees, scattered cactus<br>
 
-**Map description**<br>
-<p>Navassa Island map shows some features on this island in the Caribbean Sea.</p><br>
-
 ## People and Society
 
 **Population**<br>

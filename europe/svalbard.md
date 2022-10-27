@@ -65,9 +65,6 @@ ice floes often block the entrance to Bellsund (a transit point for coal export)
 **Geography - note**<br>
 northernmost part of the Kingdom of Norway; consists of nine main islands; glaciers and snowfields cover 60% of the total area; Spitsbergen Island is the site of the Svalbard Global Seed Vault, a seed repository established by the Global Crop Diversity Trust and the Norwegian Government<br>
 
-**Map description**<br>
-<p>Svalbard map showing the major population centers and islands of this Norwegian territory in the Arctic Ocean.</p> <p> </p><br>
-
 ## People and Society
 
 **Population**<br>
@@ -222,7 +219,7 @@ _elections_: last held on 7 October 2019 (next to be held in October 2023)<br>
 _election results_: seats by party - Labor Party 5, Liberals 4, Conservatives 3, Progress Party 2, Green Party 1<br>
 
 **Judicial branch**<br>
-_highest courts_: none; note - Svalbard is subordinate to Norway's Nord-Troms District Court and Halogaland Court of Appeal, both located in Tromso<br>
+_highest court(s)_: none; note - Svalbard is subordinate to Norway's Nord-Troms District Court and Halogaland Court of Appeal, both located in Tromso<br>
 
 **Political parties and leaders**<br>
 Svalbard Conservative Party [Kjetil FIGENSCHOU]<br>Svalbard Green Party [Pal BERG]<br>Svalbard Labor Party [Arild OLSEN]<br>Svalbard Liberal Party [Terie AUVENIK]<br>Svalbard Progress Party [Jorn DYBDAHL]<br>
@@ -285,7 +282,7 @@ _Currency_: Norwegian kroner (NOK) per US dollar -<br>
 _general assessment_: modern, well-developed (2018)<br>
 _domestic_: the Svalbard Satellite Station - connected to the mainland via the Svalbard Undersea Cable System - is the only Arctic ground station that can see low-altitude, polar-orbiting satellites; it provides ground services to more satellites than any other facility in the world (2018)<br>
 _international_: country code - 47-790; the Svalbard Undersea Cable System is a twin communications cable that connects Svalbard to mainland Norway; the system is the sole telecommunications link to the archipelago (2019)<br>
-<strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress towards 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>
+<strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress toward 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>
 
 **Broadcast media**<br>
 the Norwegian Broadcasting Corporation (NRK) began direct TV transmission to Svalbard via satellite in 1984; Longyearbyen households have access to 3 NRK radio and 2 TV stations<br>

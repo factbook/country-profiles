@@ -62,9 +62,6 @@ occasional volcanism, rock slides; harsh climate, surrounded by pack ice in wint
 **Geography - note**<br>
 almost entirely covered by glacial ice (93%); declared a nature reserve by Norway; the distance from Bouvet Island to Norway is 12,776 km, which is almost one-third the circumference of the earth<br>
 
-**Map description**<br>
-<p>Bouvet Island map showing the island – a territory of Norway – situated in the South Atlantic Ocean.</p><br>
-
 ## People and Society
 
 **Population**<br>

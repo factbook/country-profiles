@@ -70,9 +70,6 @@ hurricanes (June to November)<br>
 **Geography - note**<br>
 consists of about 138 coral islands and islets with ample rainfall, but no rivers or freshwater lakes; some land was leased by the US Government from 1941 to 1995<br>
 
-**Map description**<br>
-<p>Bermuda map showing the many islands that make up the country in the North Atlantic Ocean.</p><br>
-
 ## People and Society
 
 **Population**<br>
@@ -297,7 +294,7 @@ _elections_: <br>Senate - last appointments in August 2017 (next appointments in
 _election results_: Senate - composition as of March 2022 - men 5, women 6, percent of women 54.5%<br>House of Assembly - percent of vote by party - PLP 62.1%, OBA 32.3%, other 5.4%, independent 0.2%; seats by party - PLP 30, OBA 6; composition as of March 2022 - men 28, women 8, percent of women 22.2%; note - total Parliament percent of women as of March 2022 - 29.8%<br>
 
 **Judicial branch**<br>
-_highest courts_: Court of Appeal (consists of the court president and at least 2 justices); Supreme Court (consists of the chief justice, 4 puisne judges, and 1 associate justice); note - the Judicial Committee of the Privy Council (in London) is the court of final appeal<br>
+_highest court(s)_: Court of Appeal (consists of the court president and at least 2 justices); Supreme Court (consists of the chief justice, 4 puisne judges, and 1 associate justice); note - the Judicial Committee of the Privy Council (in London) is the court of final appeal<br>
 _judge selection and term of office_: Court of Appeal justice appointed by the governor; justice tenure by individual appointment; Supreme Court judges nominated by the Judicial and Legal Services Commission and appointed by the governor; judge tenure based on terms of appointment<br>
 _subordinate courts_: commercial court (began in 2006); magistrates' courts<br>
 
@@ -537,7 +534,7 @@ _total subscriptions_: 68,000 (2020 est.)<br>
 _subscriptions per 100 inhabitants_: 109 (2020 est.)<br>
 
 **Telecommunication systems**<br>
-_general assessment_: the telecom sector has seen a decline in subscriber numbers (particularly for prepaid mobile services the mainstay of short term visitors) and revenue; fixed and mobile broadband services are two areas that have benefited from the crisis as employees and students have resorted to working from home; one major casualty may be the region&rsquo;s second largest telco operator, Digicel; the company filed for bankruptcy in the US in April 2020; it continues to operate in all of its Caribbean markets as it seeks to refinance billions of dollars of debt; the other major telco, regional incumbent Cable &amp; Wireless Communications (CWC), is experiencing similar drops in subscriber numbers and revenue; CWC is expanding and enhancing its fixed and mobile networks in many of the countries it serves around the Caribbean, despite many locations being small islands with very small populations; one area of the telecom market that is not prepared for growth is 5G mobile; governments, regulators, and even the mobile network operators have shown that they have not been investing in 5G opportunities at the present time; network expansion and enhancements remain concentrated around improving LTE coverage. (2021)<br>
+_general assessment_: the telecom sector has seen a decline in subscriber numbers (particularly for prepaid mobile services the mainstay of short term visitors) and revenue; fixed and mobile broadband services are two areas that have benefited from the crisis as employees and students have resorted to working from home; one area of the telecom market that is not prepared for growth is 5G mobile; governments, regulators, and even the mobile network operators have shown that they have not been investing in 5G opportunities at the present time; network expansion and enhancements remain concentrated around improving LTE coverage. (2021)<br>
 _domestic_: the system has a high fixed-line teledensity nearing 35 per 100, coupled with a mobile-cellular teledensity of roughly 103 per 100 persons (2019)<br>
 _international_: country code - 1-441; landing points for the GlobeNet, Gemini Bermuda, CBUS, and the CB-1 submarine cables to the Caribbean, South America and the US; satellite earth stations - 3 (2019)<br>
 <strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress toward 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>

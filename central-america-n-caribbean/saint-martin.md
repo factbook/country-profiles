@@ -52,9 +52,6 @@ subject to hurricanes from July to November<br>
 **Geography - note**<br>
 <strong>note 1:</strong> the southern border is shared with Sint Maarten, a country within the Kingdom of the Netherlands; together, these two entities make up the smallest landmass in the world shared by two self-governing states<br><br><strong>note 2:</strong> Simpson Bay Lagoon (aka as Simson Bay Lagoon or The Great Pond) is one of the largest inland lagoons in the West Indies; the border between the French and Dutch halves of the island of Saint Martin runs across the center of the lagoon, which is shared by both of the island's entities <br>
 
-**Map description**<br>
-<p>Saint Martin map showing major population centers of this French overseas collectivity in the Caribbean Sea.</p><br>
-
 ## People and Society
 
 **Population**<br>
@@ -321,7 +318,7 @@ _subscriptions per 100 inhabitants_: 196 (2019 est.)<br>
 _general assessment_: fully integrated access; good interisland and international connections; broadband access; expanded FttP (Fiber to the Home) and LTE markets; regulatory development; telecom sector contributes greatly to the overall GDP; telecom sector is a growth area (2020)<br>
 _domestic_: direct dial capability with both fixed and wireless systems (2018)<br>
 _international_: country code - 590;&nbsp;landing points for the SMPR-1, Southern Caribbean Fiber and the SSCS submarine&nbsp;cables providing connectivity to numerous Caribbean islands (2019)<br>
-<strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress towards 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>
+<strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress toward 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>
 
 **Broadcast media**<br>
 1 local TV station; access to about 20 radio stations, including RFO Guadeloupe radio broadcasts via repeater<br>

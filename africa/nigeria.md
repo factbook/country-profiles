@@ -84,9 +84,6 @@ periodic droughts; flooding<br>
 **Geography - note**<br>
 the Niger River enters the country in the northwest and flows southward through tropical rain forests and swamps to its delta in the Gulf of Guinea<br>
 
-**Map description**<br>
-<p>Nigeria map showing major cities as well as parts of surrounding countries and the Gulf of Guinea.</p><br>
-
 ## People and Society
 
 **Population**<br>
@@ -161,7 +158,7 @@ _total population_: 1.02 male(s)/female (2022 est.)<br>
 
 **Mother's mean age at first birth**<br>
 20.4 years (2018 est.)<br>
-<strong>note:</strong> median age at first birth among women 25-49<br>
+<strong>note:</strong> data represents median age at first birth among women 25-49<br>
 
 **Maternal mortality ratio**<br>
 917 deaths/100,000 live births (2017 est.)<br>
@@ -393,7 +390,7 @@ _elections_: Senate - last held on 23 February 2019 (next to be held on 25 Febru
 _election results_: Senate - percent of vote by party - NA; seats by party - APC 65, PDP 39, YPP 1, TBD 3; composition - men 101, women 8, percent of women 7.3%<br>House of Representatives - percent of vote by party - NA; seats by party - APC 217, PDP 115, other 20, TBD 8; composition - men 347, women 13, percent of women 3.6%; note - total National Assembly percent of women 4.5%<br>
 
 **Judicial branch**<br>
-_highest courts_: Supreme Court (consists of the chief justice and 15 justices)<br>
+_highest court(s)_: Supreme Court (consists of the chief justice and 15 justices)<br>
 _judge selection and term of office_: judges appointed by the president upon the recommendation of the National Judicial Council, a 23-member independent body of federal and state judicial officials; judge appointments confirmed by the Senate; judges serve until age 70<br>
 _subordinate courts_: Court of Appeal; Federal High Court; High Court of the Federal Capital Territory; Sharia Court of Appeal of the Federal Capital Territory; Customary Court of Appeal of the Federal Capital Territory; state court system similar in structure to federal system<br>
 
@@ -655,7 +652,7 @@ _subscriptions per 100 inhabitants_: 99 (2020 est.)<br>
 _general assessment_: one of the larger telecom markets in Africa subject to sporadic access to electricity and vandalism of infrastructure; most Internet connections are via mobile networks; foreign investment presence, particularly from China; market competition with affordable access; LTE technologies available but GSM is dominant; mobile penetration high due to use of multiple SIM cards and phones; government committed to expanding broadband penetration; operators to deploy fiber optic cable in six geopolitical zones and Lagos; operators invested in base stations to deplete network congestion; submarine cable break in 2020 slowed speeds and interrupted connectivity; importer of phones and broadcast equipment from China; Nigeria concluded its first 5G spectrum auction in 2021 and granted licenses to two firms: MTN Nigeria and Mafab Communications; construction of 5G infrastructure has not yet been completed. (2022)<br>
 _domestic_: fixed-line subscribership remains less than 1 per 100 persons; mobile-cellular services growing rapidly, in part responding to the shortcomings of the fixed-line network; multiple cellular providers operate nationally with subscribership base over 99 per 100 persons (2020)<br>
 _international_: country code - 234; landing point for the SAT-3/WASC, NCSCS,&nbsp; MainOne, Glo-1 &amp; 2, ACE, and Equiano&nbsp;fiber-optic submarine cable that provides connectivity to Europe and South and West Africa; satellite earth stations - 3 Intelsat (2 Atlantic Ocean and 1 Indian Ocean) (2019)<br>
-<strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress towards 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>
+<strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress toward 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>
 
 **Broadcast media**<br>
 nearly 70 federal government-controlled national and regional TV stations; all 36 states operate TV stations; several private TV stations operational; cable and satellite TV subscription services are available; network of federal government-controlled national, regional, and state radio stations; roughly 40 state government-owned radio stations typically carry their own programs except for news broadcasts; about 20 private radio stations; transmissions of international broadcasters are available; digital broadcasting migration process completed in three states in 2018 (2019)<br>

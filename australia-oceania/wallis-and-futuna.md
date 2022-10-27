@@ -67,9 +67,6 @@ cyclones; tsunamis<br>
 **Geography - note**<br>
 both island groups have fringing reefs; Wallis contains several prominent crater lakes<br>
 
-**Map description**<br>
-<p>Wallis and Futuna map showing the islands that make up this French overseas collectivity in the South Pacific Ocean.</p><br>
-
 ## People and Society
 
 **Population**<br>
@@ -279,7 +276,7 @@ _elections_: Territorial Assembly - last held on 20 March 2022 (next to be held 
 _election results_: Territorial Assembly - percent of vote by party - NA; seats by party - 2 members are elected from the list Ofa mo'oni ki tou fenua and 2 members are elected from list Mauli fetokoniaki, 1 seat each from 16 other lists; composition - men NA, women NA, percent of women NA%<br>representation in French Senate - LR 1 (man)<br>representation in French National Assembly - independent 1 (man)<br>
 
 **Judicial branch**<br>
-_highest courts_: Court of Assizes or Cour d'Assizes (consists of 1 judge; court hears primarily serious criminal cases); note - appeals beyond the Court of Assizes are heard before the Court of Appeal or Cour d'Appel (in Noumea, New Caledonia)<br>
+_highest court(s)_: Court of Assizes or Cour d'Assizes (consists of 1 judge; court hears primarily serious criminal cases); note - appeals beyond the Court of Assizes are heard before the Court of Appeal or Cour d'Appel (in Noumea, New Caledonia)<br>
 _judge selection and term of office_: NA<br>
 _subordinate courts_: courts of first instance; labor court; note - justice generally administered under French law by the high administrator, but the 3 traditional kings administer customary law, and there is a magistrate in Mata-Utu<br>
 
@@ -422,7 +419,7 @@ _subscriptions per 100 inhabitants_: 0 (2019)<br>
 _general assessment_: 2G widespread; bandwidth is limited; mobile subscriber numbers are higher than fixed-line and better suited for islands; good mobile coverage in the capital cities and also reasonable coverage across more remote atolls; recent international interest in infrastructure development; increase in demand for mobile broadband as mobile services serve as primary source for Internet access; Kacific-1 broadband satellite launched in 2019 to improve costs and capability (2020)<br>
 _domestic_: fixed-line teledensity 25 per 100 persons and 0 per 100 mobile subscriptions (2019)<br>
 _international_: country code - 681; landing point for the Tui-Samoa submarine cable network connecting Wallis &amp; Futuna, Samoa and Fiji (2020)<br>
-<strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress towards 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>
+<strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress toward 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>
 
 **Broadcast media**<br>
 the publicly owned French Overseas Network (RFO), which broadcasts to France's overseas departments, collectivities, and territories, is carried on the RFO Wallis and Fortuna TV and radio stations (2019)<br>

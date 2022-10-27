@@ -72,9 +72,6 @@ occasional cyclones and tornadoes<br>
 **Geography - note**<br>
 strategic location near major Indian Ocean sea lanes; Adam's Bridge is a chain of limestone shoals between the southeastern coast of India and the northwestern coast of Sri Lanka; geological evidence suggests that this 50-km long Bridge once connected India and Sri Lanka; ancient records seem to indicate that a foot passage was possible between the two land masses until the 15th century when the land bridge broke up in a cyclone<br>
 
-**Map description**<br>
-<p>Sri Lanka map showing major cities of this island country in the Indian Ocean.</p><br>
-
 ## People and Society
 
 **Population**<br>
@@ -145,7 +142,7 @@ _total population_: 0.95 male(s)/female (2022 est.)<br>
 
 **Mother's mean age at first birth**<br>
 25.6 years (2016 est.)<br>
-<strong>note:</strong> median age at first birth among women 30-34<br>
+<strong>note:</strong> data represents median age at first birth among women 30-34<br>
 
 **Maternal mortality ratio**<br>
 36 deaths/100,000 live births (2017 est.)<br>
@@ -365,7 +362,7 @@ _elections_: last held on 5 August 2020 (next&nbsp; to be held in August 2025)<b
 _election results_: percent of vote by coalition/party - SLFPA 59.1%, SJB 23.9%, JVP 3.8%, TNA 2.8%, UNP 2.2%, TNPF 0.6%, EPDP 0.5%, other 7.1%; seats by coalition/party - SLFPA 145, SJB 54, TNA 10, JVP 3, other 13; composition - men 213, women 12, percent of women 5.3%<br>
 
 **Judicial branch**<br>
-_highest courts_: Supreme Court of the Republic (consists of the chief justice and 9 justices); note - the court has exclusive jurisdiction to review legislation<br>
+_highest court(s)_: Supreme Court of the Republic (consists of the chief justice and 9 justices); note - the court has exclusive jurisdiction to review legislation<br>
 _judge selection and term of office_: chief justice nominated by the Constitutional Council (CC), a 9-member high-level advisory body, and appointed by the president; other justices nominated by the CC and appointed by the president on the advice of the chief justice; all justices can serve until age 65<br>
 _subordinate courts_: Court of Appeals; High Courts; Magistrates' Courts; municipal and primary courts<br>
 
@@ -626,7 +623,7 @@ _subscriptions per 100 inhabitants_: 144 (2019)<br>
 _general assessment_: Sri Lanka&rsquo;s fixed-line telephony market was one of the very few in the world to experience a significant upsurge in subscriptions in 2020; while the country suffers from a relatively poor fixed-line infrastructure and a correspondingly strong mobile sector, demand for traditional phone services increased 14% in 2020; preliminary results suggest a further jump of up to 13% can also be expected in 2021; this will take Sri Lanka&rsquo;s fixed-line penetration to levels not seen since 2013; the most reason behind the market&rsquo;s reversal of fortunes is the Covid-19 crisis and Sri Lanka&rsquo;s ensuring lock downs; these forced much of the population back inside and reverting to &lsquo;traditional&rsquo; methods of communication for both voice and data services; the fixed broadband market was equally robust, growing 20% in 2020 alone; Sri Lanka possesses a relatively low number of computers per household so the fixed broadband market&rsquo;s success comes off a small base; the one area of the telecommunications market that experienced a fall was the mobile segment; up until the start of the pandemic, Sri Lanka had a very high mobile penetration rate of 155%; this near-saturation level reflected the preponderance for subscribers to carry multiple SIM cards to take advantage of cheaper on-net call rates; the reduction in demand and traffic because of the pandemic led to a sharp drop in the number of active subscriptions, down to just 135% &ndash; a 17% decline in just one year; the market is expected to bounce back quickly, as soon as the country eases back on its lock down measures and reduces travel restrictions; it will also be boosted, come 2022, by the anticipated launch of commercial 5G mobile services. (2021)<br>
 _domestic_: fixed-line roughly 11 per 100 and mobile-cellular nearly 139 per 100; national trunk network consists of digital microwave radio relay and fiber-optic links; fixed wireless local loops have been installed; competition is strong in mobile cellular systems and mobile cellular subscribership is increasing (2020)<br>
 _international_: country code - 94; landing points for the SeaMeWe -3,-5,&nbsp;&nbsp;Dhiraagu-SLT Submarine Cable Network, WARF Submarine&nbsp;Cable, Bharat Lanka Cable System&nbsp;and the Bay of Bengal Gateway submarine cables providing connectivity to Asia, Africa, Southeast Asia, Australia, the Middle East, and Europe; satellite earth stations - 2 Intelsat (Indian Ocean) (2019)<br>
-<strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress towards 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>
+<strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress toward 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>
 
 **Broadcast media**<br>
 government operates 5 TV channels and 19 radio channels; multi-channel satellite and cable TV subscription services available; 25 private TV stations and about 43 radio stations; 6 non-profit TV stations and 4 radio stations<br>

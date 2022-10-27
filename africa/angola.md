@@ -80,9 +80,6 @@ locally heavy rainfall causes periodic flooding on the plateau<br>
 **Geography - note**<br>
 the province of Cabinda is an exclave, separated from the rest of the country by the Democratic Republic of the Congo<br>
 
-**Map description**<br>
-<p>Angola map showing major cities as well as parts of surrounding countries and the South Atlantic Ocean.</p><br>
-
 ## People and Society
 
 **Population**<br>
@@ -155,7 +152,7 @@ _total population_: 0.95 male(s)/female (2022 est.)<br>
 
 **Mother's mean age at first birth**<br>
 19.4 years (2015/16 est.)<br>
-<strong>note:</strong> median age at first birth among women 20-49<br>
+<strong>note:</strong> data represents median age at first birth among women 20-49<br>
 
 **Maternal mortality ratio**<br>
 241 deaths/100,000 live births (2017 est.)<br>
@@ -374,7 +371,7 @@ _elections_: last held on 24 August 2022 (next to be held on 24 August 2027) (20
 _election results_: percent of vote by party - MPLA 51.17%, UNITA 43.95%, PRS 1.14%, FNLA 1.06%, PHA 1.02%, other 1.67%; seats by party - MPLA 124, UNITA 90, PRS 2, FNLA 2; PHA-2; composition - men 155, women 65, percent of women 29.5%<br><br>percent of vote by party - MPLA 61.1%, UNITA 26.7%, CASA-CE 9.5%, PRS 1.4%, FNLA 0.9%, other 0.5%; seats by party - MPLA 150, UNITA 51, CASA-CE 16, PRS 2, FNLA 1; composition - men 155, women 65, percent of women 29.5% (2022)<br>
 
 **Judicial branch**<br>
-_highest courts_: Supreme Court or Supremo Tribunal de Justica (consists of the court president, vice president, and a minimum of 16 judges); Constitutional Court or Tribunal Constitucional (consists of 11 judges)<br>
+_highest court(s)_: Supreme Court or Supremo Tribunal de Justica (consists of the court president, vice president, and a minimum of 16 judges); Constitutional Court or Tribunal Constitucional (consists of 11 judges)<br>
 _judge selection and term of office_: Supreme Court judges appointed by the president upon recommendation of the Supreme Judicial Council, an 18-member body chaired by the president; judge tenure NA; Constitutional Court judges - 4 nominated by the president, 4 elected by National Assembly, 2 elected by Supreme National Council, 1 elected by competitive submission of curricula; judges serve single 7-year terms<br>
 _subordinate courts_: provincial and municipal courts<br>
 
@@ -631,7 +628,7 @@ _total subscriptions_: 14,645,050 (2020 est.)<br>
 _subscriptions per 100 inhabitants_: 45 (2020 est.)<br>
 
 **Telecommunication systems**<br>
-_general assessment_: Angola&rsquo;s telecom sector in recent years has benefited from political stability, which has encouraged foreign investment in the sector; the government and regulator have also set in train mechanisms to open up the telecom sector to new competitors, with Africell having secured a universal license and in so doing becoming the country&rsquo;s fourth MNO; following an extensive investment program, the company launched mobile services in April 2022; the MNOs were slow to develop LTE services, instead relying on their GSM and 3G network capabilities; Angola Telecom did not launch LTE services until mid-2018; there has been slow progress in LTE network development, with only a small proportion of the country covered by network infrastructure; some progress&nbsp; has been made with 5G; the Ministry of Telecommunications in early 2021 set up a 5G hub to assess 5G user cases, while Unitel and the new MNO Africell since mid-2021 have contracted vendors to provide 5G-ready transmission networks; the regulator in November 2021 granted licenses to Africell, Movicel, and Unitel to enable them to offer 5G services; the government has continued to develop telecom infrastructure to help diversify the country&rsquo;s economy and lessen its dependence on offshore crude oil production; by extending and upgrading telecom networks the government expects businesses to become more efficient and for e-commerce to become a more prominent feature of economic growth; networks will facilitate rural access to education and health care. (2022)<br>
+_general assessment_: Angola&rsquo;s telecom sector in recent years has benefited from political stability, which has encouraged foreign investment in the sector; the government and regulator have also set in train mechanisms to open up the telecom sector to new competitors; following an extensive investment program, the company launched mobile services in April 2022; the MNOs were slow to develop LTE services, instead relying on their GSM and 3G network capabilities; there has been slow progress in LTE network development, with only a small proportion of the country covered by network infrastructure; some progress&nbsp; has been made with 5G; the Ministry of Telecommunications in early 2021 set up a 5G hub to assess 5G user cases; the government has continued to develop telecom infrastructure to help diversify the country&rsquo;s economy and lessen its dependence on offshore crude oil production; by extending and upgrading telecom networks the government expects businesses to become more efficient and for e-commerce to become a more prominent feature of economic growth; networks will facilitate rural access to education and health care. (2022)<br>
 _domestic_: only about one fixed-line per 100 persons; mobile-cellular teledensity about 45 telephones per 100 persons (2020)<br>
 _international_: country code - 244; landing points for the SAT-3/WASC, WACS, ACE and SACS&nbsp;fiber-optic submarine cable that provides connectivity to other countries in west Africa, Brazil, Europe and Asia; satellite earth stations - 29, Angosat-2 satellite expected by 2021 (2019)<br>
 <strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress toward 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>

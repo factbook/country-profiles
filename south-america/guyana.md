@@ -75,9 +75,6 @@ flash flood threat during rainy seasons<br>
 **Geography - note**<br>
 the third-smallest country in South America after Suriname and Uruguay; substantial portions of its western and eastern territories are claimed by Venezuela and Suriname respectively; contains some of the largest unspoiled rainforests on the continent<br>
 
-**Map description**<br>
-<p>Guyana map showing major population centers as well as parts of surrounding countries and the North Atlantic Ocean.</p> <p> </p><br>
-
 ## People and Society
 
 **Population**<br>
@@ -151,7 +148,7 @@ _total population_: 1.04 male(s)/female (2022 est.)<br>
 
 **Mother's mean age at first birth**<br>
 20.8 years (2009 est.)<br>
-<strong>note:</strong> median age at first birth among women 25-29<br>
+<strong>note:</strong> data represents median age at first birth among women 25-29<br>
 
 **Maternal mortality ratio**<br>
 667 deaths/100,000 live births (2017 est.)<br>
@@ -362,7 +359,7 @@ _elections_: last held on 2 March 2020 (next to be held in 2025)<br>
 _election results_: percent of vote by party - PPP/C 50.69%, APNU-AFC 47.34%, LJP 0.58%, ANUG 0.5%, TNM 0.05%, other 0.84%; seats by party - PPP/C 33, APNU-AFC 31, LJP-ANUG-TNM 1; composition (elected and non-elected) - men 45, women 25, percent of women 35.7%; note - the initial results were declared invalid and a partial recount was conducted from 6 May to 8 June 2020, in which PPP/C was declared the winner<br>
 
 **Judicial branch**<br>
-_highest courts_: Supreme Court of Judicature (consists of the Court of Appeal with a chief justice and 3 justices, and the High Court with a chief justice and 10 justices organized into 3- or 5-judge panels); note - in 2009, Guyana acceded to the Caribbean Court of Justice as the final court of appeal in civil and criminal cases, replacing that of the Judicial Committee of the Privy Council (in London)<br>
+_highest court(s)_: Supreme Court of Judicature (consists of the Court of Appeal with a chief justice and 3 justices, and the High Court with a chief justice and 10 justices organized into 3- or 5-judge panels); note - in 2009, Guyana acceded to the Caribbean Court of Justice as the final court of appeal in civil and criminal cases, replacing that of the Judicial Committee of the Privy Council (in London)<br>
 _judge selection and term of office_: Court of Appeal and High Court chief justices appointed by the president; other judges of both courts appointed by the Judicial Service Commission, a body appointed by the president; judges appointed for life with retirement at age 65<br>
 _subordinate courts_: Land Court; magistrates' courts<br>
 
@@ -609,7 +606,7 @@ _total subscriptions_: 856,000 (2020 est.)<br>
 _subscriptions per 100 inhabitants_: 109 (2020 est.)<br>
 
 **Telecommunication systems**<br>
-_general assessment_: After many years of delays and legal challenges, the 2016 Telecommunications Act was brought into force in October 2020 by the newly elected government of the People&rsquo;s Party Progressive (PPP); the end of the 31-year monopoly held by the fixed-line incumbent Guyana Telephone and Telegraph (GTT) occurred just two months after the PPP took power from the APNU+AFC coalition, which had signed a non-binding agreement with GTT in 2019 to liberalise Guyana&rsquo;s telecoms market but failed to take any concrete action to make it happen; the Telecommunications Act sets out a framework for enabling competition across all segments of the telecommunications sector in Guyana; the mobile market has been open to competition since 2001, but only one operator, Digicel Guyana, has successfully launched competing GSM and 3G services; while Digicel quickly built a small lead in the mobile market, it remains a duopoly, and subscription levels are well below those of other countries in the region; the Telecommunications Act presents the country with the potential to benefit from a more level playing field that may attract new players, but nevertheless Guyana&rsquo;s relatively small size and low GDP may restrict it from reaching its full potential for some more years to come. (2021)<br>
+_general assessment_: after many years of delays and legal challenges, the 2016 Telecommunications Act was brought into force in October 2020 by the newly elected government of the People&rsquo;s Party Progressive (PPP); the Telecommunications Act sets out a framework for enabling competition across all segments of the telecommunications sector in Guyana; the mobile market has been open to competition since 2001; the Telecommunications Act presents the country with the potential to benefit from a more level playing field that may attract new players, but nevertheless Guyana&rsquo;s relatively small size and low GDP may restrict it from reaching its full potential for some more years to come (2021)<br>
 _domestic_: fixed-line teledensity is about 18 per 100 persons; mobile-cellular teledensity about 83 per 100 persons (2019)<br>
 _international_: country code - 592; landing point for the SG-SCS submarine cable to Suriname,&nbsp;and the Caribbean;&nbsp;satellite earth station - 1 Intelsat (Atlantic Ocean) (2019)<br>
 <strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress toward 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>

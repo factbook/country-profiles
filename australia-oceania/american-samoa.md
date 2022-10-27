@@ -67,9 +67,6 @@ _other_: 0% (2018 est.)<br>
 **Geography - note**<br>
 Pago Pago has one of the best natural deepwater harbors in the South Pacific Ocean, sheltered by shape from rough seas and protected by peripheral mountains from high winds; strategic location in the South Pacific Ocean<br>
 
-**Map description**<br>
-<p>Map of American Samoa showing the islands that together comprise this US territory and its relative location in the South Pacific Ocean; an inset provides detail of the major island of Tutuila with the capital Pago Pago.</p><br>
-
 ## People and Society
 
 **Population**<br>
@@ -280,7 +277,7 @@ _election results_: <br>Senate - percent of vote by party - NA; seats by party -
 <strong id="tinymce" class="mce-content-body " style="font-size: 18px;" contenteditable="true" spellcheck="false" data-id="field_notes">note:</strong> American Samoa elects 1 member by simple majority vote to serve a 2-year term as a delegate to the US House of Representatives; the delegate can vote when serving on a committee and when the House meets as the Committee of the Whole House, but not when legislation is submitted for a “full floor” House vote; election of delegate last held on 3 November 2020 (next to be held in November 2022); Amata Coleman RADEWAGEN elected delegate; Amata Coleman RADEWAGEN (Republican Party) 83.5%, Oreta CHRICHTON (Democratic Party) 14.4%, Meleagi SUITONU-CHAPMAN (Democratic Party) 2.1%<br>
 
 **Judicial branch**<br>
-_highest courts_: High Court of American Samoa (consists of the chief justice, associate chief justice, and 6 Samoan associate judges and organized into trial, family, drug, and appellate divisions); note - American Samoa has no US federal courts<br>
+_highest court(s)_: High Court of American Samoa (consists of the chief justice, associate chief justice, and 6 Samoan associate judges and organized into trial, family, drug, and appellate divisions); note - American Samoa has no US federal courts<br>
 _judge selection and term of office_: chief justice and associate chief justice appointed by the US Secretary of the Interior to serve for life; Samoan associate judges appointed by the governor to serve for life<br>
 _subordinate courts_: district and village courts<br>
 

@@ -76,9 +76,6 @@ flooding; landslides; drought<br>
 **Geography - note**<br>
 landlocked; straddles crest of the Nile-Congo watershed; the Kagera, which drains into Lake Victoria, is the most remote headstream of the White Nile<br>
 
-**Map description**<br>
-<p>Burundi map showing major cities as well as parts of surrounding countries.</p><br>
-
 ## People and Society
 
 **Population**<br>
@@ -154,7 +151,7 @@ _total population_: 0.99 male(s)/female (2022 est.)<br>
 
 **Mother's mean age at first birth**<br>
 21.5 years (2016/17 est.)<br>
-<strong>note:</strong> median age at first birth among women 25-49<br>
+<strong>note:</strong> data represents median age at first birth among women 25-49<br>
 
 **Maternal mortality ratio**<br>
 548 deaths/100,000 live births (2017 est.)<br>
@@ -380,7 +377,7 @@ _elections_: <br>Senate - last held on 20 July 2020 (next to be held in 2025)<br
 _election results_: Senate - percent of vote by party - CNDD-FDD 87.2%, Twa 7.7%, CNL 2.6%, UPRONA 2.6%; seats by party - CNDD-FDD 34, CNL 1, UPRONA 1, Twa 3; composition - men 23, women 16, percent of women 37.2% <br>National Assembly - percent of vote by party - CNDD-FDD 70.9%, CNL 23.4%, UPRONA 2.5%, other (co-opted Twa) 3.2%; seats by party - CNDD-FDD 86, CNL 32, UPRONA 2, Twa 3; composition - men 76, women 47, percent of women 38.2%; note - total Parliament percent of women 38%<br>
 
 **Judicial branch**<br>
-_highest courts_: Supreme Court (consists of 9 judges and organized into judicial, administrative, and cassation chambers); Constitutional Court (consists of 7 members)<br>
+_highest court(s)_: Supreme Court (consists of 9 judges and organized into judicial, administrative, and cassation chambers); Constitutional Court (consists of 7 members)<br>
 _judge selection and term of office_: Supreme Court judges nominated by the Judicial Service Commission, a 15-member independent body of judicial and legal profession officials), appointed by the president and confirmed by the Senate; judge tenure NA; Constitutional Court judges appointed by the president and confirmed by the Senate and serve 6-year nonrenewable terms<br>
 _subordinate courts_: Courts of Appeal; County Courts; Courts of Residence; Martial Court; Court Against Corruption; Commercial Court<br>
 

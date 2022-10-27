@@ -38,9 +38,6 @@ temperate; Mediterranean with hot, dry summers and cool winters<br>
 **Geography - note**<br>
 British extraterritorial rights also extended to several small off-post sites scattered across Cyprus; of the Sovereign Base Area (SBA) land, 60% is privately owned and farmed, 20% is owned by the Ministry of Defense, and 20% is SBA Crown land<br>
 
-**Map description**<br>
-Akrotiri map showing the UK Sovereign Base Area as well as the adjacent part of south Cyprus.<br>
-
 ## People and Society
 
 **Population**<br>
@@ -136,7 +133,7 @@ _head of government_: Administrator Air Vice-Marshal Peter J.M. SQUIRES (since 1
 _elections/appointments_: the monarchy is hereditary; administrator appointed by the monarch on the advice of the Ministry of Defense<br>
 
 **Judicial branch**<br>
-_highest courts_: Senior Judges' Court (consists of several visiting judges from England and Wales)<br>
+_highest court(s)_: Senior Judges' Court (consists of several visiting judges from England and Wales)<br>
 _judge selection and term of office_: see entry for United Kingdom<br>
 _subordinate courts_: Resident Judges' Court; Courts Martial<br>
 

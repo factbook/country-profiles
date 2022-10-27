@@ -79,9 +79,6 @@ one of Africa's most densely populated countries; large concentrations tend to b
 **Geography - note**<br>
 landlocked; most of the country is intensively cultivated and rugged with the population predominantly rural<br>
 
-**Map description**<br>
-<p>Rwanda map showing major population centers as well as parts of surrounding countries.</p><br>
-
 ## People and Society
 
 **Population**<br>
@@ -156,7 +153,7 @@ _total population_: 0.96 male(s)/female (2022 est.)<br>
 
 **Mother's mean age at first birth**<br>
 23 years (2019/20 est.)<br>
-<strong>note:</strong> median age at first birth among women 25-49<br>
+<strong>note:</strong> data represents median age at first birth among women 25-49<br>
 
 **Maternal mortality ratio**<br>
 248 deaths/100,000 live births (2017 est.)<br>
@@ -372,7 +369,7 @@ _elections_: <br>Senate - last held on 16-18 September 2019 (next to be held in
 _election results_: Senate - percent of vote by party - NA; seats by party - NA; composition - men 17, women 9, percent of women 34.6%<br><br>Chamber of Deputies - percent of vote by party - NA; seats by party - Rwandan Patriotic Front Coalition 40, PSD 5, PL 4, other 4 indirectly elected 27; composition - men 31, women 49, percent of women 54.7%; note - total Parliament percent of women 54.7%<br>
 
 **Judicial branch**<br>
-_highest courts_: Supreme Court (consists of the chief and deputy chief justices and 15 judges; normally organized into 3-judge panels); High Court (consists of the court president, vice president, and a minimum of 24 judges and organized into 5 chambers)<br>
+_highest court(s)_: Supreme Court (consists of the chief and deputy chief justices and 15 judges; normally organized into 3-judge panels); High Court (consists of the court president, vice president, and a minimum of 24 judges and organized into 5 chambers)<br>
 _judge selection and term of office_: Supreme Court judges nominated by the president after consultation with the Cabinet and the Superior Council of the Judiciary (SCJ), a 27-member body of judges, other judicial officials, and legal professionals) and approved by the Senate; chief and deputy chief justices appointed for 8-year nonrenewable terms; tenure of judges NA; High Court president and vice president appointed by the president of the republic upon approval by the Senate; judges appointed by the Supreme Court chief justice upon approval of the SCJ; judge tenure NA<br>
 _subordinate courts_: High Court of the Republic; commercial courts including the High Commercial Court; intermediate courts; primary courts; and military specialized courts<strong><br></strong><br>
 <strong> </strong><br>
@@ -626,7 +623,7 @@ _subscriptions per 100 inhabitants_: 82 (2020 est.)<br>
 _general assessment_: Rwanda was slow to liberalize the mobile sector, allowing MTN a monopoly until 2006 when the fixed-line incumbent, Rwandatel (since acquired by Liquid Intelligence Technologies) became the second mobile operator; there was effective competition among three operators after Tigo launched services in 2009; the acquisition of Tigo by Airtel saw a significant consolidation in the market, and the cancellation of Rwandatel&rsquo;s license in 2011 resulted in the market becoming a duopoly between the dominant operator MTN and Airtel; the fixed broadband sector has suffered from limited fixed-line infrastructure and high prices; operators are rolling out national backbone networks which also allow them to connect to the international submarine cables on Africa&rsquo;s east coast; these cables gave the entire region greater internet bandwidth and ended the dependency on satellites; Liquid Technologies has continued to expand its FttP services across Kigali and a number of other towns, while the country also has a new cable link with Tanzania, and via Tanzania&rsquo;s national broadband backbone it has gained connectivity to the networks of several other countries in the region; the number of subscribers on LTE infrastructure has increased sharply, helped by national LTE coverage achieved in mid-2018; mobile remains the dominant platform for voice and data services; the regulator noted that the number of mobile subscribers increased 2.7% in 2021, year-on-year; there was a slight fall in the beginning of 2022, though this decline was entirely from Airtel. (2022)<br>
 _domestic_: the capital, Kigali, is connected to provincial centers by microwave radio relay, and recently by cellular telephone service; much of the network depends on wire and HF radiotelephone; fixed-line less than 1 per 100 and mobile-cellular telephone density has increased to nearly 82 telephones per 100 persons (2020)<br>
 _international_: country code - 250; international connections employ microwave radio relay to neighboring countries and satellite communications to more distant countries; satellite earth stations - 1 Intelsat (Indian Ocean) in Kigali (includes telex and telefax service); international submarine fiber-optic cables on the African east coast has brought international bandwidth and lessened the&nbsp;dependency on satellites<br>
-<strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress towards 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>
+<strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress toward 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>
 
 **Broadcast media**<br>
 13 TV stations; 35 radio stations registered, including international broadcasters, government owns most popular TV and radio stations; regional satellite-based TV services available<br>

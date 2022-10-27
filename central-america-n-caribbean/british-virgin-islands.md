@@ -70,9 +70,6 @@ hurricanes and tropical storms (July to October)<br>
 **Geography - note**<br>
 strong ties to nearby US Virgin Islands and Puerto Rico<br>
 
-**Map description**<br>
-<p>British Virgin Islands map showing the many islands that make up this UK territory in the Caribbean Sea.</p><br>
-
 ## People and Society
 
 **Population**<br>
@@ -280,7 +277,7 @@ _elections_: last held on 25 February 2019 (next to be held in 2023)<br>
 _election results_: percent of vote by party - VIP 46.5%, NDP 28.2%, PVIM 17.4%, PU 8%; seats by party - VIP 8, NDP 3, PVIM 1, PU 1; composition as of March 2022 - men 11, women 4, percent of women 26.7%<br>
 
 **Judicial branch**<br>
-_highest courts_: the Eastern Caribbean Supreme Court (ECSC) is the superior court of the Organization of Eastern Caribbean States; the ECSC - headquartered on St. Lucia - consists of the Court of Appeal - headed by the chief justice and 4 judges - and the High Court with 18 judges; the Court of Appeal is itinerant, traveling to member states on a schedule to hear appeals from the High Court and subordinate courts; High Court judges reside in the member states, with 3 in the British Virgin Islands<br>
+_highest court(s)_: the Eastern Caribbean Supreme Court (ECSC) is the superior court of the Organization of Eastern Caribbean States; the ECSC - headquartered on St. Lucia - consists of the Court of Appeal - headed by the chief justice and 4 judges - and the High Court with 18 judges; the Court of Appeal is itinerant, traveling to member states on a schedule to hear appeals from the High Court and subordinate courts; High Court judges reside in the member states, with 3 in the British Virgin Islands<br>
 _judge selection and term of office_: Eastern Caribbean Supreme Court chief justice appointed by Her Majesty, Queen ELIZABETH II; other justices and judges appointed by the Judicial and Legal Services Commission; Court of Appeal justices appointed for life with mandatory retirement at age 65; High Court judges appointed for life with mandatory retirement at age 62<br>
 _subordinate courts_: Magistrates' Courts<br>
 

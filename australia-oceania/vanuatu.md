@@ -73,9 +73,6 @@ three-quarters of the population lives in rural areas; the urban populace lives 
 **Geography - note**<br>
 a Y-shaped chain of four main islands and 80 smaller islands; several of the islands have active volcanoes and there are several underwater volcanoes as well<br>
 
-**Map description**<br>
-<p>Vanuatu map showing the major islands that make up this archipelago in the South Pacific Ocean.</p><br>
-
 ## People and Society
 
 **Population**<br>
@@ -339,7 +336,7 @@ _election results_: percent of vote by party - NA; seats by party - GJP 9, RMC 7
 <strong>note:</strong> the National Council of Chiefs advises on matters of culture and language<br>
 
 **Judicial branch**<br>
-_highest courts_: Court of Appeal (consists of 2 or more judges of the Supreme Court designated by the chief justice); Supreme Court (consists of the chief justice and 6 puisne judges - 3 local and 3 expatriate)<br>
+_highest court(s)_: Court of Appeal (consists of 2 or more judges of the Supreme Court designated by the chief justice); Supreme Court (consists of the chief justice and 6 puisne judges - 3 local and 3 expatriate)<br>
 _judge selection and term of office_: Supreme Court chief justice appointed by the president after consultation with the prime minister and the leader of the opposition; other judges appointed by the president on the advice of the Judicial Service Commission, a 4-member advisory body; judges serve until the age of retirement<br>
 _subordinate courts_: Magistrates Courts; Island Courts<br>
 
@@ -587,7 +584,7 @@ _subscriptions per 100 inhabitants_: 88.44 (2019)<br>
 _general assessment_: for many years, GSM was the primary mobile technology for Vanuatu&rsquo;s 300,000 people; recent infrastructure projects have improved access technologies, with a transition to 3G and, to a limited degree, to LTE; Vanuatu has also benefited from the ICN1 submarine cable and the launch of the Kacific-1 satellite, both of which have considerably improved access to telecom services in recent years; Vanuatu&rsquo;s telecom sector is liberalized, with the two prominent mobile operators Amalgamated Telecom Holdings (operating as TVL) and Digicel Vanuatu offering effective competition; while fixed broadband penetration remains low, the incumbent operator is slowly exchanging copper fixed-lines for fiber; a number of ongoing submarine cable developments will also assist in increasing data rates and reduce internet pricing in coming years. (2021)<br>
 _domestic_: fixed-line teledensity a bit over 1 per 100 and mobile-cellular just over 80 per 100 (2020)<br>
 _international_: country code - 678; landing points for the ICN1 &amp; ICN2 submarine cables providing connectivity to the Solomon Islands and Fiji; cables helped end-users with Internet bandwidth; satellite earth station - 1 Intelsat (Pacific Ocean) (2020)<br>
-<strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress towards 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>
+<strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress toward 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>
 
 **Broadcast media**<br>
 1 state-owned TV station; multi-channel pay TV is available; state-owned Radio Vanuatu operates 2 radio stations; 2 privately owned radio broadcasters; programming from multiple international broadcasters is available<br>

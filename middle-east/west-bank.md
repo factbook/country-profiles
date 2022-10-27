@@ -74,9 +74,6 @@ droughts<br>
 **Geography - note**<br>
 landlocked; highlands are main recharge area for Israel's coastal aquifers; there are about 380 Israeli civilian sites, including about 213 settlements and 132 small outpost communities in the West Bank and 35 sites in East Jerusalem (2017)<br>
 
-**Map description**<br>
-<p>West Bank map showing its major population centers as well as parts of the two countries that surround it – Israel to the west and Jordan to the east.</p><br>
-
 ## People and Society
 
 **Population**<br>
@@ -512,7 +509,7 @@ _subscriptions per 100 inhabitants_: 84 (2020 est.)<br>
 _general assessment_: continuing political and economic instability has impeded liberalization of the telecommunications industry (2018)<br>
 _domestic_: Israeli company BEZEK and the Palestinian company PALTEL are responsible for fixed-line services; two Palestinian cellular providers, JAWWAL and WATANIYA MOBILE, launched 3G mobile networks in the West Bank in January 2018 after Israel lifted its ban; fixed-line 9 per 100 and mobile-cellular subscriptions 84 per 100 (includes Gaza Strip) (2020)<br>
 _international_: country code 970 or 972; 1 international switch in Ramallah<br>
-<strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress towards 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>
+<strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress toward 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>
 
 **Broadcast media**<br>
 the Palestinian Authority operates 1 TV and 1 radio station; about 20 private TV and 40 radio stations; both Jordanian TV and satellite TV are accessible<br>

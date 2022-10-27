@@ -72,9 +72,6 @@ one-third of the population lives in and around metropolitan Athens; the remaind
 **Geography - note**<br>
 strategic location dominating the Aegean Sea and southern approach to Turkish Straits; a peninsular country, possessing an archipelago of about 2,000 islands<br>
 
-**Map description**<br>
-<p>Greece map showing major cities as well as parts of surrounding countries and water bodies.</p><br>
-
 ## People and Society
 
 **Population**<br>
@@ -348,7 +345,7 @@ _elections_: last held on 7 July 2019 (next to be held&nbsp;by July 2023)<br>
 _election results_: percent of vote by party - ND 39.9%, SYRIZA 31.5%, KINAL 8.1%, KKE 5.3%, Greek Solution 3.7%, MeRA25 3.4%, other 8.1%; seats by party - ND 158, SYRIZA 86, KINAL 22, KKE 15, Greek Solution 10, MeRA25 9; composition - men 244, women 56, percent of women 18.7%<br>
 
 **Judicial branch**<br>
-_highest courts_: Supreme Civil and Criminal Court or Areios Pagos (consists of 56 judges, including the court presidents); Council of State (supreme administrative court) (consists of the president, 7 vice presidents, 42 privy councilors, 48 associate councilors and 50 reporting judges, organized into six 5- and 7-member chambers; Court of Audit (government audit and enforcement) consists of the president, 5 vice presidents, 20 councilors, and 90 associate and reporting judges<br>
+_highest court(s)_: Supreme Civil and Criminal Court or Areios Pagos (consists of 56 judges, including the court presidents); Council of State (supreme administrative court) (consists of the president, 7 vice presidents, 42 privy councilors, 48 associate councilors and 50 reporting judges, organized into six 5- and 7-member chambers; Court of Audit (government audit and enforcement) consists of the president, 5 vice presidents, 20 councilors, and 90 associate and reporting judges<br>
 _judge selection and term of office_: Supreme Court judges appointed by presidential decree on the advice of the Supreme Judicial Council (SJC), which includes the president of the Supreme Court, other judges, and the prosecutor of the Supreme Court; judges appointed for life following a 2-year probationary period; Council of State president appointed by the Greek Cabinet to serve a 4-year term; other judge appointments and tenure NA; Court of Audit president appointed by decree of the president of the republic on the advice of the SJC; court president serves a 4-year term or until age 67; tenure of vice presidents, councilors, and judges NA<br>
 _subordinate courts_: Courts of Appeal and Courts of First Instance (district courts)<br>
 
@@ -608,7 +605,7 @@ _total subscriptions_: 11,412,995 (2020 est.)<br>
 _subscriptions per 100 inhabitants_: 109 (2020 est.)<br>
 
 **Telecommunication systems**<br>
-_general assessment_: Greece&rsquo;s telecom market is susceptible to the country&rsquo;s volatile economy, and as a result revenue among the key networks has been variable; the incumbent telco OTE, supported by the organizational and financial clout of its parent Deutsche Telekom, reported a 16.6% fall in revenue for 2020, and the economic fallout of the pandemic continued to reduce revenue into 2021; broadband subscriptions in Greece are developing steadily despite the difficult economic conditions; the main networks are concentrating investment on fiber-based next generation networks, enabling them to reach the European broadband targets for 2025; their work is also supported by government ultra-fast broadband projects, largely funded by the EC and aimed at delivering a service of at least 100Mb/s to under served areas; Greece&rsquo;s well-developed mobile market is dominated by the three MNOs Wind Hellas, Vodafone Greece, and Cosmote; Networks continue to invest in LTE infrastructure and technologies to provide networks capable of meeting customer demand for data services; after extensive trials of 5G, the MNOs were able to launch commercial services in early 2021 following the December 2020 allocation of frequencies in a range of bands; the rapid rollout of 5G encouraged Cosmote to close down its 3G network (a process expected to be completed by the end of 2021) and reallocate for LTE and 5G. (2022)<br>
+_general assessment_: Greece&rsquo;s telecom market is susceptible to the country&rsquo;s volatile economy, and as a result revenue among the key networks has been variable; broadband subscriptions in Greece are developing steadily despite the difficult economic conditions; the main networks are concentrating investment on fiber-based next generation networks, enabling them to reach the European broadband targets for 2025; their work is also supported by government ultra-fast broadband projects, largely funded by the EC and aimed at delivering a service of at least 100Mb/s to under served areas; Greece&rsquo;s well-developed mobile market is dominated by the three MNOs; Networks continue to invest in LTE infrastructure and technologies to provide networks capable of meeting customer demand for data services; after extensive trials of 5G, the MNOs were able to launch commercial services in early 2021 following the December 2020 allocation of frequencies in a range of bands; the rapid rollout of 5G encouraged the shut down of the 3G network (a process expected to be completed by the end of 2021) and reallocate for LTE and 5G. (2022)<br>
 _domestic_: microwave radio relay trunk system; extensive open-wire connections; submarine cable to offshore islands; nearly 46 per 100 subscribers for fixed-line and 110 per 100 for mobile-cellular (2020)<br>
 _international_: country code - 30; landing points for the SEA-ME-WE-3, Adria-1, Italy-Greece 1, OTEGLOBE, MedNautilus Submarine System, Aphrodite 2, AAE-1&nbsp;and Silphium optical telecommunications submarine cable that provides links to Europe, the Middle East, Africa, Southeast Asia, Asia and Australia;&nbsp; tropospheric scatter; satellite earth stations - 4 (2 Intelsat - 1 Atlantic Ocean and 1 Indian Ocean, 1 Eutelsat, and 1 Inmarsat - Indian Ocean region) (2019)<br>
 <strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress toward 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>
@@ -704,7 +701,7 @@ the inventory of the Hellenic Armed Forces consists of a mix of imported weapons
 
 **Military service age and obligation**<br>
 19-45 years of age for compulsory military service for men; 12-month obligation for all services (note - as an exception, the duration of the full military service is 9 instead of 12 months if conscripts, after the initial training, serve the entire remaining time in certain areas of the eastern borders, in Cyprus, or in certain military units); 18 years of age for voluntary military service for men and women (2022)<br>
-<strong>note 1: </strong>up to 50% of the Greek military is comprised of conscripts<br><br><strong>note 2: </strong>as of 2019, women comprised approximately 19% of the military's full-time personnel<br>
+<strong>note 1: </strong>compulsory service applies to any individual whom the Greek authorities consider to be Greek, regardless of whether the individual considers himself Greek, has a foreign citizenship and passport, or was born or lives outside of Greece; Greek citizens living permanently outside of Greece have the right to postpone their conscription; they are permanently exempted from their military obligations when they reach the age of 45 years old<strong><br><br>note 2: </strong>up to 50% of the Greek military is comprised of conscripts<br><br><strong>note 3: </strong>as of 2019, women comprised approximately 19% of the military's full-time personnel<br>
 
 **Military deployments**<br>
 approximately 1,000 Cyprus; 100 Kosovo (NATO); 100 Lebanon (UNIFIL) (2022)<br>
@@ -724,9 +721,9 @@ Islamic State of Iraq and ash-Sham (ISIS); Revolutionary Struggle; Revolutionary
 <p>Greece and Turkey continue discussions to resolve their complex maritime, air, territorial, and boundary disputes in the Aegean Sea; the mass migration of unemployed Albanians still remains a problem for developed countries, chiefly Greece and Italy</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 38,496 (Syria), 25,188 (Afghanistan), 12,657 (Iraq), 5,002 (West Bank and Gaza) (mid-year 2021); 19,752 (Ukraine) (as of 20 September 2022)<br>
+_refugees (country of origin)_: 38,496 (Syria), 25,188 (Afghanistan), 12,657 (Iraq), 5,002 (West Bank and Gaza) (mid-year 2021); 19,752 (Ukraine) (as of 18 October 2022)<br>
 _stateless persons_: 5,552 (mid-year 2021)<br>
-<strong>note:</strong> 1,225,815 estimated refugee and migrant arrivals (January 2015-October 2022); as of the end of February 2022, Greece hosted an estimated 161,419 refugees and asylum seekers<br>
+<strong>note:</strong> 1,226,068 estimated refugee and migrant arrivals (January 2015-October 2022); as of the end of February 2022, Greece hosted an estimated 161,419 refugees and asylum seekers<br>
 
 **Illicit drugs**<br>
 a gateway to Europe for traffickers smuggling cannabis products and heroin from the Middle East and Southwest Asia to the West and precursor chemicals to the East; some South American cocaine transits or is consumed in Greece; money laundering related to drug trafficking and organized crime<br>

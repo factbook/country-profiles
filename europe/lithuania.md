@@ -73,9 +73,6 @@ occasional floods, droughts<br>
 **Geography - note**<br>
 fertile central plains are separated by hilly uplands that are ancient glacial deposits<br>
 
-**Map description**<br>
-<p>Lithuania map showing major cities as well as parts of surrounding countries and the Baltic Sea.</p><br>
-
 ## People and Society
 
 **Population**<br>
@@ -357,7 +354,7 @@ _elections_: last held on 11 and 25 October 2020 (next to be held in October 202
 _election results_: percent of vote by party - NA; seats by party - TS-LKD 50, LVZS 32, LSDP 13, LRLS 13, Freedom 11, DP 10, AWPL 3, LSDDP 3, LT 1, Greens 1, independent 4; composition as of July 2022 - men 101, women 40, percent of women 28.4%<br>
 
 **Judicial branch**<br>
-_highest courts_: Supreme Court (consists of 37 judges); Constitutional Court (consists of 9 judges)<br>
+_highest court(s)_: Supreme Court (consists of 37 judges); Constitutional Court (consists of 9 judges)<br>
 _judge selection and term of office_: Supreme Court judges nominated by the president and appointed by the Seimas; judges serve 5-year renewable terms; Constitutional Court judges appointed by the Seimas from nominations - 3 each by the president of the republic, the Seimas chairperson, and the Supreme Court president; judges serve 9-year, nonrenewable terms; one-third of membership reconstituted every 3 years<br>
 _subordinate courts_: Court of Appeals; district and local courts<br>
 
@@ -618,7 +615,7 @@ _subscriptions per 100 inhabitants_: 135 (2020 est.)<br>
 _general assessment_: Lithuania&rsquo;s small telecoms market is among the more advanced in Europe, particularly given the universal access to LTE infrastructure and the extensive fiber footprint; a number of alternative operators offer services although the incumbent Telia Lithuania remains the dominant player in the fixed-line and broadband sectors; in line with the country&rsquo;s Digital Agenda, the focus among telcos has been to invest in fiber, with an emphasis on delivering gigabyte data speeds; SIM card penetration is relatively high for the region and most subscribers are higher ARPU postpaid subscribers; network operators continue to market mobile broadband services, made possible from investments in LTE technologies; LTE services are available nationally, and although there have been some initial trials of 5G commercial services are not expected to be launched until mid to late 2021; the regulator has consulted on the release of spectrum for 5G in a range of bands, and the auction is tentatively scheduled for the first quarter of 2021; according to regulator data, the total revenue of the electronic communications sector in the third quarter of 2020 was the highest it has been since the fourth quarter of 2010; revenue growth in the mobile sector was driven mainly mobile internet services. (2021)<br>
 _domestic_: nearly 12 per 100 for fixed-line subscriptions; rapid expansion of mobile-cellular services has resulted in a steady decline in the number of fixed-line connections; mobile-cellular teledensity stands at about 174 per 100 persons (2020)<br>
 _international_: country code - 370; landing points for the BCS East, BCS East-West Interlink and NordBalt connecting Lithuania to Sweden, and Latvia&nbsp;; further transmission by satellite; landline connections to Latvia and Poland (2019)<br>
-<strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress towards 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>
+<strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress toward 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>
 
 **Broadcast media**<br>
 public broadcaster operates 3 channels with the third channel - a satellite channel - introduced in 2007; various privately owned commercial TV broadcasters operate national and multiple regional channels; many privately owned local TV stations; multi-channel cable and satellite TV services available; publicly owned broadcaster operates 3 radio networks; many privately owned commercial broadcasters, with repeater stations in various regions throughout the country<br>
@@ -721,7 +718,7 @@ Lithuania became a member of NATO in 2004<br> <p>since 2017, Lithuania has hoste
 <p><em>Lithuania-Belarus</em>: as of January 2007, ground demarcation of the boundary with Belarus was complete and mapped with final ratification documents in preparation</p> <p><em>Lithuania-Lativa</em>: boundary demarcated with Latvia was completed in 1998</p> <p><em>Lithuania-Russia</em>:<strong> </strong>Lithuania and Russia committed to demarcating their boundary in 2006 in accordance with the land and maritime treaty ratified by Russia in May 2003 and by Lithuania in 1999; Lithuania operates a simplified transit regime for Russian nationals traveling from the Kaliningrad coastal exclave into Russia, while still conforming, as a EU member state having an external border with a non-EU member, to strict Schengen border rules; in January 2018, demarcation of the Lithuania-Russia border was completed</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 67,793 (Ukraine) (as of 11 October 2022)<br>
+_refugees (country of origin)_: 68,396 (Ukraine) (as of 18 October 2022)<br>
 _stateless persons_: 2,721 (mid-year 2021)<br>
 
 **Illicit drugs**<br>

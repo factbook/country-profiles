@@ -64,9 +64,6 @@ none; located outside routes of Indian Ocean cyclones<br>
 **Geography - note**<br>
 <p><strong>note 1:</strong> archipelago of 55 islands; Diego Garcia, the largest and southernmost island, occupies a strategic location in the central Indian Ocean; the island is the site of a joint US-UK military facility</p> <p><strong>note 2:</strong> Diego Garcia is the only inhabited island of the BIOT and one of only two British territories where traffic drives on the right, the other being Gibraltar</p><br>
 
-**Map description**<br>
-<p>British Indian Ocean Territory map showing the six island groups and the island of Diego Garcia that make up this UK Territory in the Indian Ocean.</p><br>
-
 ## People and Society
 
 **Population**<br>

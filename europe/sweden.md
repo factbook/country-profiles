@@ -75,9 +75,6 @@ ice floes in the surrounding waters, especially in the Gulf of Bothnia, can inte
 **Geography - note**<br>
 strategic location along Danish Straits linking Baltic and North Seas; Sweden has almost 100,000 lakes, the largest of which, Vanern, is the third largest in Europe<br>
 
-**Map description**<br>
-<p>Sweden map showing major cities as well as parts of surrounding countries and the Baltic Sea.</p><br>
-
 ## People and Society
 
 **Population**<br>
@@ -352,7 +349,7 @@ _elections_: last held on 11 September 2022<br>
 _election results_: percent of vote by party - S/SAP 30.3%, M 19.1%, SD 20.5%, C 6.7%, V 6.7%, KD 5.3%, L 4.6%, MP 5.1%, other 1.7%; seats by party - S/SAP 107, M 68, SD 73, C 24, V 24, KD 19, L 16, MP 18; composition as of mid-2022 - men 188, women 161, percent of women 46%<br>
 
 **Judicial branch**<br>
-_highest courts_: Supreme Court of Sweden (consists of 16 justices, including the court chairman); Supreme Administrative Court (consists of 18 justices, including the court president)<br>
+_highest court(s)_: Supreme Court of Sweden (consists of 16 justices, including the court chairman); Supreme Administrative Court (consists of 18 justices, including the court president)<br>
 _judge selection and term of office_: Supreme Court and Supreme Administrative Court justices nominated by the Judges Proposal Board, a 9-member nominating body consisting of high-level judges, prosecutors, and members of Parliament; justices appointed by the Government; following a probationary period, justices' appointments are permanent<br>
 _subordinate courts_: first instance, appellate, general, and administrative courts; specialized courts that handle cases such as land and environment, immigration, labor, markets, and patents<br>
 
@@ -613,7 +610,7 @@ _subscriptions per 100 inhabitants_: 128.49 (2019)<br>
 _general assessment_: Sweden&rsquo;s telecom market includes mature mobile and broadband sectors which have been stimulated by the progressive investment of the main telcos in developing new technologies; the country retains one of the best developed LTE infrastructures in the region, while its MNOs have benefited from the January 2021 auction of spectrum in the 3.5GHz band which will enable them to expand services nationally; the country also has one of the highest fiber broadband penetration rates in Europe; the focus of FttP is aimed at fulfilling the government&rsquo;s target of providing a 1Gb/s service to 98% of the population by 2025; the methodology to achieve this has rested on regulatory measures supported by public funds, as well as on the auction of spectrum in different bands; in the fixed-line broadband segment, the number of DSL subscribers is falling steadily as customers continue to migrate to fiber networks; there is also competition from HFC infrastructure, with the main cable company Com Hem, now owned by Tele2, offering fiber-based broadband and investing in services based on the DOCSIS3.1 standard; this report assesses key aspects of the Swedish telecom market, providing data on fixed network services and profiling the main players; it also reviews the key regulatory issues, including interconnection, local loop unbundling, number portability, carrier preselection and NGN open access; the report also analyses the mobile market, providing data on network operators and their strategies in a highly competitive environment; in addition, the report considers the fixed and fixed-wireless broadband markets, including analyses of market dynamics and the main operators, as well as providing subscriber forecasts. (2021)<br>
 _domestic_: fixed-line just over 16 per 100 and mobile-cellular roughly 128 per 100; coaxial and multiconductor cables carry most of the voice traffic; parallel microwave radio relay systems carry some additional telephone channels (2020)<br>
 _international_: country code - 46; landing points for Botina, SFL, SFS-4, Baltic Sea Submarine Cable, Eastern Light, Sweden-Latvia, BCS North-Phase1, EE-S1, LV-SE1,&nbsp;BCS East-West Interlink, NordBalt, Baltica, Denmark-Sweden-15,-17,-18, Scandinavian Ring -North,-South, IP-Only Denmark-Sweden, Donica North,&nbsp;Kattegate-1,-2, Energinet Laeso-Varberg and GC2 submarine cables providing links to other Nordic countries and Europe; satellite earth stations - 1 Intelsat (Atlantic Ocean), 1 Eutelsat, and 1 Inmarsat (Atlantic and Indian Ocean regions); note - Sweden shares the Inmarsat earth station with the other Nordic countries (Denmark, Finland, Iceland, and Norway) (2019)<br>
-<strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress towards 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>
+<strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress toward 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>
 
 **Broadcast media**<br>
 publicly owned TV broadcaster operates 2 terrestrial networks plus regional stations; multiple privately owned TV broadcasters operating nationally, regionally, and locally; about 50 local TV stations; widespread access to pan-Nordic and international broadcasters through multi-channel cable and satellite TV; publicly owned radio broadcaster operates 3 national stations and a network of 25 regional channels; roughly 100 privately owned local radio stations with some consolidating into near national networks; an estimated 900 community and neighborhood radio stations broadcast intermittently<br>
@@ -723,6 +720,6 @@ Islamic State of Iraq and ash-Sham (ISIS)<br>
 <p>none identified</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 114,995 (Syria), 28,744 (Afghanistan), 26,911 (Eritrea), 11,574 (Somalia), 11,153 (Iraq), 7,516 (Iran) (2020); 46,579 (Ukraine) (as of 7 October 2022)<br>
+_refugees (country of origin)_: 114,995 (Syria), 28,744 (Afghanistan), 26,911 (Eritrea), 11,574 (Somalia), 11,153 (Iraq), 7,516 (Iran) (2020); 46,983 (Ukraine) (as of 7 October 2022)<br>
 _stateless persons_: 50,098 (mid-year 2021); note - the majority of stateless people are from the Middle East and Somalia<br>
 

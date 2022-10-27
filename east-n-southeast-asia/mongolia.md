@@ -77,9 +77,6 @@ dust storms; grassland and forest fires; drought; "zud," which is harsh winter c
 **Geography - note**<br>
 landlocked; strategic location between China and Russia<br>
 
-**Map description**<br>
-<p>Mongolia map showing major population centers as well as parts of surrounding countries – Russia to the north and China to the south.</p><br>
-
 ## People and Society
 
 **Population**<br>
@@ -151,7 +148,7 @@ _total population_: 0.95 male(s)/female (2022 est.)<br>
 
 **Mother's mean age at first birth**<br>
 20.5 years (2008 est.)<br>
-<strong>note:</strong> median age at first birth among women 20-24<br>
+<strong>note:</strong> data represents median age at first birth among women 20-24<br>
 
 **Maternal mortality ratio**<br>
 45 deaths/100,000 live births (2017 est.)<br>
@@ -363,7 +360,7 @@ _elections_: last held on 24 June 2020 (next to be held in 2024)<br>
 _election results_: percent of vote by party - MPP 44.9%, DP 24.5%, Our Coalition 8.1%, independent 8.7%, Right Person Electorate Coalition 5.2%, other 8.5%; seats by party - MPP 62, DP 11, Our Coalition 1, Right Person Electorate Coalition 1; independent 1; composition -&nbsp; 63 men, 13 women; percent of women 17.1%<br>
 
 **Judicial branch**<br>
-_highest courts_: Supreme Court (consists of the Chief Justice and 24 judges organized into civil, criminal, and administrative chambers); Constitutional Court or Tsets (consists of the chairman and 8 members)<br>
+_highest court(s)_: Supreme Court (consists of the Chief Justice and 24 judges organized into civil, criminal, and administrative chambers); Constitutional Court or Tsets (consists of the chairman and 8 members)<br>
 _judge selection and term of office_: Supreme Court chief justice and judges appointed by the president upon recommendation by the General Council of Courts - a 14-member body of judges and judicial officials - to the State Great Hural; appointment is for life; chairman of the Constitutional Court elected from among its members; members appointed from nominations by the State Great Hural - 3 each by the president, the State Great Hural, and the Supreme Court; appointment is 6 years; chairmanship limited to a single renewable 3-year term<br>
 _subordinate courts_: aimag (provincial) and capital city appellate courts; soum, inter-soum, and district courts; Administrative Cases Courts<br>
 
@@ -624,7 +621,7 @@ _subscriptions per 100 inhabitants_: 133 (2020 est.)<br>
 _general assessment_: liberalized and competitive telecoms market comprises of a number of operators which have steadily eroded the dominance of the incumbent telco, Mongolia Telecom, over the years; fixed-line penetration increased steadily in the years to 2018 as more people took on fixed-line access for voice calls and to access copper-based broadband services; the number of lines fell in 2019, and again and more sharply in 2020, partly through the economic consequences of the pandemic (GDP fell 5.3% in 2020, year-on-year) and partly due to the migration to the mobile platform and to VoIP; fixed broadband penetration remains low, mainly due to a limited number of fixed lines and the dominance of the mobile platform; the attraction of fixed broadband as a preferred access where it is available is waning as the mobile networks are upgraded with greater capacity and capabilities; the growing popularity of mobile broadband continues to underpin overall broadband and telecom sector growth, with Mongolia&rsquo;s market very much being dominated by mobile services, supported by widely available LTE; this will largely determine and shape the future direction of Mongolia&rsquo;s developing digital economy. (2021)<br>
 _domestic_: very low fixed-line teledensity of less than 5 per 100; there are four mobile-cellular providers and subscribership is roughly 133 per 100 persons (2020)<br>
 _international_: country code - 976; satellite earth stations - 7 (2016)<br>
-<strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress towards 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>
+<strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress toward 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>
 
 **Broadcast media**<br>
 following a law passed in 2005, Mongolia's state-run radio and TV provider converted to a public service provider; also available are 68 radio and 160 TV stations, including multi-channel satellite and cable TV providers; transmissions of multiple international broadcasters are available (2019)<br>

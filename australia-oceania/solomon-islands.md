@@ -71,9 +71,6 @@ most of the population lives along the coastal regions; about one in five live i
 **Geography - note**<br>
 strategic location on sea routes between the South Pacific Ocean, the Solomon Sea, and the Coral Sea; Rennell Island, the southernmost in the Solomon Islands chain, is one of the world&rsquo;s largest raised coral atolls; the island&rsquo;s Lake Tegano, formerly a lagoon on the atoll, is the largest lake in the insular Pacific (15,500 hectares)<br>
 
-**Map description**<br>
-Solomon Islands map showing the major islands of this archipelagic country in the South Pacific Ocean.<br>
-
 ## People and Society
 
 **Population**<br>
@@ -143,7 +140,7 @@ _total population_: 1.04 male(s)/female (2022 est.)<br>
 
 **Mother's mean age at first birth**<br>
 22.6 years (2015 est.)<br>
-<strong>note:</strong> median age at first birth among women 25-29<br>
+<strong>note:</strong> data represents median age at first birth among women 25-29<br>
 
 **Maternal mortality ratio**<br>
 104 deaths/100,000 live births (2017 est.)<br>
@@ -340,7 +337,7 @@ _elections_: last held on 3 April 2019 (next to be held in April 2023)<br>
 _election results_: percent of vote by party - UDP 10.7%, DAP 7.8%, PAP 4.4%, other 20.8%, independent 56.3%; seats by party - DAP 7, UDP 5, PAP 3, KPSI 1, SIPFP 1, SIPRA 1, independent 32; composition - men 46, women 4, percent of women 8%<br>
 
 **Judicial branch**<br>
-_highest courts_: Court of Appeal (consists of the court president and ex officio members including the High Court chief justice and its puisne judges); High Court (consists of the chief justice and puisne judges, as prescribed by the National Parliament)<br>
+_highest court(s)_: Court of Appeal (consists of the court president and ex officio members including the High Court chief justice and its puisne judges); High Court (consists of the chief justice and puisne judges, as prescribed by the National Parliament)<br>
 _judge selection and term of office_: Court of Appeal and High Court president, chief justices, and puisne judges appointed by the governor general upon recommendation of the Judicial and Legal Service Commission, chaired by the chief justice and includes 5 members, mostly judicial officials and legal professionals; all judges serve until retirement at age 60<br>
 _subordinate courts_: Magistrates' Courts; Customary Land Appeal Court; local courts<br>
 
@@ -352,7 +349,7 @@ Democratic Alliance Party or DAP [Steve ABANA]<br>Kadere Party of Solomon Island
 ACP, ADB, AOSIS, C, EITI (candidate country), ESCAP, FAO, G-77, IBRD, ICAO, ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, IMO, IOC, ITU, MIGA, OPCW, PIF, Sparteca, SPC, UN, UNCTAD, UNESCO, UPU, WFTU, WHO, WMO, WTO<br>
 
 **Diplomatic representation in the US**<br>
-_chief of mission_: Ambassador (vacant); Charge d'Affaires Janice Mose KEMAKEZA<br>
+_chief of mission_: Ambassador Jane Mugafalu Kabui WAETARA (since 16 September 2022)<br>
 _chancery_: 685 Third Avenue, 11th Floor, Suite 1102, New York, NY 10017<br>
 _telephone_: [1] (212) 599-6192; [1] (212) 599-6193<br>
 _FAX_: [1] (212) 661-8925<br>
@@ -592,7 +589,7 @@ _subscriptions per 100 inhabitants_: 71 (2019)<br>
 _general assessment_: mobile services have continually expanded in the Solomon Islands; 3G services became available in 2010, leading to an increase in mobile broadband uptake; Solomon Islands currently host three ISPs: Solomon Telekom, Bmobile and SATSOL; fixed broadband services are largely limited to government, corporations, and educational organizations in the Solomon Islands; telecommunication infrastructure in the Solomon Islands requires significant investment due to the geographical make-up of the islands; this presents a great challenge to rural connectivity in the country; although various international organizations such as the World Bank and the Asian Development Bank have taken a special interest in having communication services improved in both the Solomon Islands and the Pacific region in general, internet and broadband penetration remain low; the provision of broadband infrastructure, particularly to rural areas, is also hindered by land disputes; internet services have, improved with the build-out of the Coral Sea Cable System linking Papua New Guinea to the Solomon Islands, as also with a connecting cable to a landing station at Sydney; the Australian government provided most of the funding for the Coral Sea Cable System, with contributions and support from the Solomon Islands and Papua New Guinea governments; the launch of the Kacific-1 satellite in late 2019 also improved broadband satellite capacity for the region, though for telcos in Solomon Islands satellite services are now largely used as backup for international traffic; in recent years, the country has stabilized both politically and economically and this, along with improvements to mobile infrastructure, has led to a rise in mobile services and the slow uptake of broadband services; while the first LTE services were launched in late 2017 in the capital Honiara, the main platform for mobile voice and data services remains 3G, while in outlying areas GSM is still an important technology for the provision of services; geopolitical concerns have also come to the fore as the government pursues stronger ties with China; this is a growing source of tension with Australia, which is the Solomon Islands&rsquo; largest aid donor; in April 2022, the country signed a security agreement with China, although the full details of the agreement have not been published. (2022)<br>
 _domestic_: fixed-line is just over 1 per 100 persons and mobile-cellular telephone density is about 71 per 100 persons; domestic cable system to extend to key major islands (2019)<br>
 _international_: country code - 677; landing points for the CSCS and ICNS2 submarine cables providing connectivity from Solomon Islands, to PNG, Vanuatu and Australia; satellite earth station - 1 Intelsat (Pacific Ocean) (2019)<br>
-<strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress towards 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>
+<strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress toward 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>
 
 **Broadcast media**<br>
 Solomon Islands Broadcasting Corporation (SIBC) does not broadcast television; multi-channel pay-TV is available; SIBC operates 2 national radio stations and 2 provincial stations; there are 2 local commercial radio stations; Radio Australia is available via satellite feed (since 2009) (2019)<br>

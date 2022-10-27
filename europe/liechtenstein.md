@@ -72,9 +72,6 @@ avalanches, landslides<br>
 **Geography - note**<br>
 along with Uzbekistan, one of only two doubly landlocked countries in the world; variety of microclimatic variations based on elevation<br>
 
-**Map description**<br>
-<p>Liechtenstein map showing major population centers of this landlocked country surrounded by Switzerland and Austria.</p><br>
-
 ## People and Society
 
 **Population**<br>
@@ -94,7 +91,7 @@ German 91.5% (official) (Alemannic is the main dialect), Italian 1.5%, Turkish 1
 _major-language sample(s)_: <br>Das World Factbook, die unverzichtbare Quelle für grundlegende Informationen. (German)<br><br>The World Factbook, the indispensable source for basic information.<br>
 
 **Religions**<br>
-Roman Catholic (official) 73.4%, Protestant Reformed 6.3%, Muslim 5.9%,&nbsp; Christian Orthodox 1.3%, Lutheran 1.2%, other Protestant .7%, other Christian .3%, other .8%, none 7%, unspecified 3.3% (2015 est.)<br>
+Roman Catholic (official) 73.4%, Protestant Reformed 6.3%, Muslim 5.9%,&nbsp; Christian Orthodox 1.3%, Lutheran 1.2%, other Protestant 0.7%, other Christian 0.3%, other 0.8%, none 7%, unspecified 3.3% (2015 est.)<br>
 
 **Age structure**<br>
 _0-14 years_: 15.2% (male 3,259/female 2,688)<br>
@@ -315,7 +312,7 @@ _elections_: last held on 7 February 2021 (next to be held on 7 February 2025)<b
 _election results_: percent of vote by party - FBP 40%, VU 40%, FL 12%, DpL 8%; seats by party - FBP 10, VU 10, FL 3, DpL 2; composition - men 18, women 7, percent of women 28%<br>
 
 **Judicial branch**<br>
-_highest courts_: Supreme Court or Oberster Gerichtshof (consists of 5 judges); Constitutional Court or Verfassungsgericht (consists of 5 judges and 5 alternates)<br>
+_highest court(s)_: Supreme Court or Oberster Gerichtshof (consists of 5 judges); Constitutional Court or Verfassungsgericht (consists of 5 judges and 5 alternates)<br>
 _judge selection and term of office_: judges of both courts elected by the Landtag and appointed by the monarch; Supreme Court judges serve 4-year renewable terms; Constitutional Court judges appointed for renewable 5-year terms<br>
 _subordinate courts_: Court of Appeal or Obergericht (second instance), Court of Justice (first instance), Administrative Court, county courts<br>
 
@@ -344,7 +341,7 @@ princely hat (crown); national colors: blue, red<br>
 **National anthem**<br>
 _name_: "Oben am jungen Rhein" (High Above the Young Rhine)<br>
 _lyrics/music_: Jakob Joseph JAUCH/Josef FROMMELT<br>
-<strong>note:</strong> adopted 1850, revised 1963; uses the tune of "God Save the Queen"<br>
+<strong>note:</strong> adopted 1850, revised 1963; uses the tune of "God Save the King"<br>
 
 ## Economy
 
@@ -469,7 +466,7 @@ _subscriptions per 100 inhabitants_: 128 (2020 est.)<br>
 _general assessment_: automatic telephone system; 44 Internet service providers in Liechtenstein and Switzerland combined; FttP (fiber to the home) penetration marketed 3rd highest in EU; fiber network reaches 3/4 of the population (2020)<br>
 _domestic_: fixed-line roughly 33 per 100 and mobile-cellular services 128 per 100 (2020)<br>
 _international_: country code - 423; linked to&nbsp;Swiss networks by cable and microwave radio relay<br>
-<strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress towards 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>
+<strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress toward 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>
 
 **Broadcast media**<br>
 relies on foreign terrestrial and satellite broadcasters for most broadcast media services; first Liechtenstein-based TV station established August 2008; Radio Liechtenstein operates multiple radio stations; a Swiss-based broadcaster operates one radio station in Liechtenstein<br>

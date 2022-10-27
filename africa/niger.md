@@ -82,9 +82,6 @@ recurring droughts<br>
 **Geography - note**<br>
 landlocked; one of the hottest countries in the world; northern four-fifths is desert, southern one-fifth is savanna, suitable for livestock and limited agriculture<br>
 
-**Map description**<br>
-<p>Niger map showing major population centers as well as parts of surrounding countries.</p><br>
-
 ## People and Society
 
 **Population**<br>
@@ -157,7 +154,7 @@ _total population_: 0.98 male(s)/female (2022 est.)<br>
 
 **Mother's mean age at first birth**<br>
 18.5 years (2012 est.)<br>
-<strong>note:</strong> median age at first birth among women 20-49<br>
+<strong>note:</strong> data represents median age at first birth among women 20-49<br>
 
 **Maternal mortality ratio**<br>
 509 deaths/100,000 live births (2017 est.)<br>
@@ -390,7 +387,7 @@ _elections_: last held on 27 December 2020 (next scheduled in December 2025)<br>
 _election results_: percent of vote by party - percent of vote by party - PNDS-Tarrayya 37.04%, MODEN/FA Lumana 8.71%, MPR-Jamhuriya 7.59%, MNSD-Nassara 6.77%,&nbsp; RDR-Tchanji 4.41%, CPR-Inganci 4.15%, MPN-Kishin Kassa 3.97%, PJP Generation Dubara 2.88%, ANDP Zaman Lahya 2.46%, RPP Farrilla 2.10%, ARD Adaltchi-Mutuntchi 1.74%, AMEN AMIN 1.43%, MDEN Falala 1.42%, other 15.33%; seats by party - PNDS-Tarrayya 79, MODEN/FA Lumana 19, MPR-Jamhuriya 14, MNSD-Nassara 13, CPR-Inganci 8, MPN-Kishin Kassa 6, ANDP-Zaman Lahiya 3, RPP Farrilla 2, PJP Generation Dubara 2, ARD Adaltchi-Mutuntchi 2, AMEN AMIN 2, other 16; composition - men 123, women 43, percent of women 25.9%<br>
 
 **Judicial branch**<br>
-_highest courts_: Constitutional Court (consists of 7 judges); High Court of Justice (consists of 7 members)<br>
+_highest court(s)_: Constitutional Court (consists of 7 judges); High Court of Justice (consists of 7 members)<br>
 _judge selection and term of office_: Constitutional Court judges nominated/elected - 1 by the president of the Republic, 1 by the president of the National Assembly, 2 by peer judges, 2 by peer lawyers, 1 law professor by peers, and 1 from within Nigerien society; all appointed by the president; judges serve 6-year nonrenewable terms with one-third of membership renewed every 2 years; High Judicial Court members selected from among the legislature and judiciary; members serve 5-year terms<br>
 _subordinate courts_: Court of Cassation; Council of State; Court of Finances; various specialized tribunals and customary courts<br>
 
@@ -648,7 +645,7 @@ _subscriptions per 100 inhabitants_: 59 (2020 est.)<br>
 _general assessment_: Niger is one of the largest countries in West Africa but also one of the poorest in the world; as with many African markets, a lack of fixed telecoms infrastructure has led to growth in mobile services; Niger&rsquo;s mobile penetration is modest compared to other countries in the region, while fixed broadband penetration is negligible; recent international investment to complete the Trans-Saharan Dorsal optical fibre (SDR) network has extended the reach of fiber infrastructure in the country, and also increased international capacity; new cables linking the country with Chad and Burkina Faso have extended Niger&rsquo;s connectivity with international cable infrastructure; following years of financial difficulties, the state-owned fixed line operator, Sonitel, was merged with its wholly owned mobile unit, SahelCom, in late 2016 to form a new entity, Niger Telecom; the merged company secured a global telecom license in November 2017 and is aiming to develop greater efficiency through sharing resources and infrastructure; the economic difficulties in the country in recent years, as well as a regulatory spat with authorities which saw its offices being shut down, encouraged Orange Group to sell its local business to its minority shareholder partner; the unit, once operating as Orange Niger, was rebranded as Zamani Telecom in December 2020; at the same time, the company secured funds to embark on a large-scale network upgrade program; Niger also hosts foreign investors Airtel, which leads the market, and Moov Africa, formerly Maroc Telecom. (2022)<br>
 _domestic_: fixed-line less than 1 per 100 persons and mobile-cellular teledensity at nearly 41 per 100 persons; a rapidly increasing cellular subscribership base; small system of wire, radio telephone communications, and microwave radio relay links concentrated in southwestern Niger; domestic satellite system with 3 earth stations and 1 planned (2019)<br>
 _international_: country code - 227; satellite earth stations - 2 Intelsat (1 Atlantic Ocean and 1 Indian Ocean)<br>
-<strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress towards 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>
+<strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress toward 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>
 
 **Broadcast media**<br>
 state-run TV station; 3 private TV stations provide a mix of local and foreign programming; state-run radio has only radio station with national coverage; about 30 private radio stations operate locally; as many as 100 community radio stations broadcast; transmissions of multiple international broadcasters are available<br>

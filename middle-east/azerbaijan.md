@@ -74,9 +74,6 @@ droughts<br>
 **Geography - note**<br>
 both the main area of the country and the Naxcivan exclave are landlocked<br>
 
-**Map description**<br>
-<p>Azerbaijan map showing major cities as well as parts of surrounding countries and the Caspian Sea.</p><br>
-
 ## People and Society
 
 **Population**<br>
@@ -358,7 +355,7 @@ _elections_: last held early on 9 February 2020 (next to be held in 2025)<br>
 _election results_: percent of vote by party - NA; seats by party - YAP 69, CSP 3, AVP 1, CUP 1, ADMP 1, PDR 1, Great Order 1, National Front Party 1, REAL 1, VP 1, Whole Azerbaijan Popular Front 1, party unknown 1, independent 41; composition - men 103, women 22, percent of women 17.6%<br>
 
 **Judicial branch**<br>
-_highest courts_: Supreme Court (consists of the chairman, vice chairman, and 23 judges in plenum sessions and organized into civil, economic affairs, criminal, and rights violations chambers); Constitutional Court (consists of 9 judges)<br>
+_highest court(s)_: Supreme Court (consists of the chairman, vice chairman, and 23 judges in plenum sessions and organized into civil, economic affairs, criminal, and rights violations chambers); Constitutional Court (consists of 9 judges)<br>
 _judge selection and term of office_: Supreme Court judges nominated by the president and appointed by the Milli Majlis; judges appointed for 10 years; Constitutional Court chairman and deputy chairman appointed by the president; other court judges nominated by the president and appointed by the Milli Majlis to serve single 15-year terms<br>
 _subordinate courts_: Courts of Appeal (replaced the Economic Court in 2002); district and municipal courts<br>
 

@@ -86,9 +86,6 @@ overwhelming majority of the population is found in the eastern half of the coun
 **Geography - note**<br>
 <strong>note 1:</strong> world's fourth largest country (after Russia, Canada, and US) and largest country situated entirely in Asia; Mount Everest on the border with Nepal is the world's tallest peak above sea level<br><br><strong>note 2:</strong> the largest cave chamber in the world is the Miao Room, in the Gebihe cave system at China's Ziyun Getu He Chuandong National Park, which encloses some 10.78 million cu m (380.7 million cu ft) of volume<br><br><strong>note 3:</strong> China appears to have been the center of domestication for two of the world's leading cereal crops: millet in the north along the Yellow River and rice in the south along the lower or middle Yangtze River<br>
 
-**Map description**<br>
-<p>China map showing major cities as well as the many bordering East Asian countries and neighboring seas.</p><br>
-
 ## People and Society
 
 **Population**<br>
@@ -386,7 +383,7 @@ _elections_: last held in December 2017-February 2018 (next to be held in late 2
 _election results_: percent of vote - NA; seats by party - NA; composition - men 2,238, women 742, percent of women 24.9%<br>
 
 **Judicial branch**<br>
-_highest courts_: Supreme People's Court (consists of over 340 judges, including the chief justice and 13 grand justices organized into a civil committee and tribunals for civil, economic, administrative, complaint and appeal, and communication and transportation cases)<br>
+_highest court(s)_: Supreme People's Court (consists of over 340 judges, including the chief justice and 13 grand justices organized into a civil committee and tribunals for civil, economic, administrative, complaint and appeal, and communication and transportation cases)<br>
 _judge selection and term of office_: chief justice appointed by the People's National Congress (NPC); limited to 2 consecutive 5-year-terms; other justices and judges nominated by the chief justice and appointed by the Standing Committee of the NPC; term of other justices and judges determined by the NPC<br>
 _subordinate courts_: Higher People's Courts; Intermediate People's Courts; District and County People's Courts; Autonomous Region People's Courts; International Commercial Courts; Special People's Courts for military, maritime, transportation, and forestry issues<br>
 

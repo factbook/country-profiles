@@ -77,9 +77,6 @@ hot, dry, dusty harmattan haze may reduce visibility during dry season<br>
 **Geography - note**<br>
 the Niger and its important tributary the Milo River have their sources in the Guinean highlands<br>
 
-**Map description**<br>
-<p>Guinea map showing major cities as well as parts of surrounding countries and the North Atlantic Ocean.</p><br>
-
 ## People and Society
 
 **Population**<br>
@@ -153,7 +150,7 @@ _total population_: 1 male(s)/female (2022 est.)<br>
 
 **Mother's mean age at first birth**<br>
 19.9 years (2018 est.)<br>
-<strong>note:</strong> median age at first birth among women 20-49<br>
+<strong>note:</strong> data represents median age at first birth among women 20-49<br>
 
 **Maternal mortality ratio**<br>
 576 deaths/100,000 live births (2017 est.)<br>
@@ -380,7 +377,7 @@ _elections_: 81 members to the Transitional National Council were appointed by t
 _election results_: 81 members of the National Transitional Council appointed on 22 January 2022 by the transitional president; the members represent all of the country's socio-professional organizations and political parties<br>
 
 **Judicial branch**<br>
-_highest courts_: Supreme Court or Cour Supreme (organized into Administrative Chamber and Civil, Penal, and Social Chamber; court consists of the first president, 2 chamber presidents, 10 councilors, the solicitor general, and NA deputies); Constitutional Court - suspended on 5 September 2021<br>
+_highest court(s)_: Supreme Court or Cour Supreme (organized into Administrative Chamber and Civil, Penal, and Social Chamber; court consists of the first president, 2 chamber presidents, 10 councilors, the solicitor general, and NA deputies); Constitutional Court - suspended on 5 September 2021<br>
 _judge selection and term of office_: Supreme Court first president appointed by the national president after consultation with the National Assembly; other members appointed by presidential decree; members serve 9-year terms until age 65<br>
 _subordinate courts_: Court of Appeal or Cour d'Appel; High Court of Justice or Cour d'Assises; Court of Account (Court of Auditors); Courts of First Instance (Tribunal de Premiere Instance); labor court; military tribunal; justices of the peace; specialized courts<br>
 
@@ -636,7 +633,7 @@ _total subscriptions_: 13.795 million (2020 est.)<br>
 _subscriptions per 100 inhabitants_: 105 (2020 est.)<br>
 
 **Telecommunication systems**<br>
-_general assessment_: Guinea&rsquo;s telecom market is dominated by MTN and Orange; after the entry of these regional players, the number of mobile subscribers grew strongly while revenue also increased steadily; the debt-stricken incumbent fixed-line network Sotelgui provided a mobile service until it was closed down in late 2012, following a long period of mismanagement; the company itself was declared bankrupt in 2013, and stopped operating; the government since 2019 has sought to secure partners and investors to help launch a replacement operator, Guinea Telecom, but with no success; fixed broadband services are still very limited and expensive, though there have been some positive developments in recent years; the landing of the first international submarine cable in 2012, and the setting up of an IXP in mid-2013, increased the bandwidth available to the ISPs, and helped reduce the cost of internet services for end-users; a National Backbone Network was completed in mid-2020, connecting administrative centers across the country; almost all internet connections are made via mobile networks; GSM services account for a dwindling proportion of connections, in line with the greater reach of services based on 3G and LTE. (2022)<br>
+_general assessment_: the number of mobile subscribers grew strongly while revenue also increased steadily; fixed broadband services are still very limited and expensive, though there have been some positive developments in recent years; the landing of the first international submarine cable in 2012, and the setting up of an IXP in mid-2013, increased the bandwidth available to the ISPs, and helped reduce the cost of internet services for end-users; a National Backbone Network was completed in mid-2020, connecting administrative centers across the country; almost all internet connections are made via mobile networks; GSM services account for a dwindling proportion of connections, in line with the greater reach of services based on 3G and LTE (2022)<br>
 _domestic_: there is national coverage and Conakry is reasonably well-served; coverage elsewhere remains inadequate but is improving; fixed-line teledensity is less than 1 per 100 persons; mobile-cellular subscribership is just over 100 per 100 persons (2019)<br>
 _international_: country code - 224; ACE submarine cable connecting Guinea with 20 landing points in Western and South Africa and Europe; satellite earth station - 1 Intelsat (Atlantic Ocean (2019)<br>
 <strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress toward 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>

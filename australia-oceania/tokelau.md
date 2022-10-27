@@ -69,9 +69,6 @@ lies in Pacific cyclone belt<br>
 **Geography - note**<br>
 consists of three atolls (Atafu, Fakaofo, Nukunonu), each with a lagoon surrounded by a number of reef-bound islets of varying length and rising to over 3 m above sea level<br>
 
-**Map description**<br>
-<p>Tokelau map shows the three atolls that make up this New Zealand territory in the South Pacific Ocean.</p><br>
-
 ## People and Society
 
 **Population**<br>
@@ -267,7 +264,7 @@ _elections_: last held on 23 January 2020 depending on island (next to be held i
 _election results_: percent of vote by party - NA; seats by party - independent 20; composition - men 17, women 3, percent of women 15%<br>
 
 **Judicial branch**<br>
-_highest courts_: Court of Appeal (in New Zealand) (consists of the court president and 8 judges sitting in 3- or 5-judge panels, depending on the case)<br>
+_highest court(s)_: Court of Appeal (in New Zealand) (consists of the court president and 8 judges sitting in 3- or 5-judge panels, depending on the case)<br>
 _judge selection and term of office_: judges nominated by the Judicial Selection Committee and approved by three-quarters majority of the Parliament; judges serve for life<br>
 _subordinate courts_: High Court (in New Zealand); Council of Elders or Taupulega<br>
 
@@ -381,7 +378,7 @@ _Currency_: New Zealand dollars (NZD) per US dollar -<br>
 _general assessment_: modern satellite-based communications system; demand for mobile broadband increasing due to mobile services being the method of access for Internet across the region; 2G widespread with some 4G LTE service; satellite services has improved with the launch of the Kacific-1 satellite launched in 2019 (2020)<br>
 _domestic_: radiotelephone service between islands; fixed-line teledensity is 0 per 100 persons (2019)<br>
 _international_: country code - 690; landing point for the Southern Cross NEXT submarine cable linking Australia, Tokelau, Samoa, Kiribati, Fiji, New Zealand and Los Angeles, CA (USA); radiotelephone service to Samoa; government-regulated telephone service (TeleTok); satellite earth stations - 3 (2020)<br>
-<strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress towards 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>
+<strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress toward 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>
 
 **Broadcast media**<br>
 Sky TV access for around 30% of the population; each atoll operates a radio service that provides shipping news and weather reports (2019)<br>

@@ -82,9 +82,6 @@ population heavily concentrated in the west along the shore of Lake Victoria; ot
 **Geography - note**<br>
 the Kenyan Highlands comprise one of the most successful agricultural production regions in Africa; glaciers are found on Mount Kenya, Africa's second highest peak; unique physiography supports abundant and varied wildlife of scientific and economic value; Lake Victoria, the world's largest tropical lake and the second largest fresh water lake, is shared among three countries: Kenya, Tanzania, and Uganda<br>
 
-**Map description**<br>
-<p>Kenya map showing major cities as well as parts of surrounding countries and the Indian Ocean.</p><br>
-
 ## People and Society
 
 **Population**<br>
@@ -159,7 +156,7 @@ _total population_: 1 male(s)/female (2022 est.)<br>
 
 **Mother's mean age at first birth**<br>
 20.3 years (2014 est.)<br>
-<strong>note:</strong> median age at first birth among women 25-49<br>
+<strong>note:</strong> data represents median age at first birth among women 25-49<br>
 
 **Maternal mortality ratio**<br>
 342 deaths/100,000 live births (2017 est.)<br>
@@ -378,7 +375,7 @@ _elections_: Senate - last held on 9 August 2022 (next to be held in August 2027
 _election results_: Senate - percent of vote by party/coalition - NA; seats by party/coalition - Kenya Kwanza 34; Azimio La Umoja 33; composition - men 47, women 21, percent of women is 31%<br><br>National Assembly - percent of vote by party/coalition - NA; seats by party/coalition - Azimio La Umoja 173, Kenya Kwanza 161, independent 12, other 3; composition - men 275, women 75, percent of women 21.4%; note - total Parliament percent of women 23%<br>
 
 **Judicial branch**<br>
-_highest courts_: Supreme Court (consists of chief and deputy chief justices and 5 judges)<br>
+_highest court(s)_: Supreme Court (consists of chief and deputy chief justices and 5 judges)<br>
 _judge selection and term of office_: chief and deputy chief justices nominated by Judicial Service Commission (JSC) and appointed by the president with approval of the National Assembly; other judges nominated by the JSC and appointed by president; chief justice serves a nonrenewable 10-year term or until age 70, whichever comes first; other judges serve until age 70<br>
 _subordinate courts_: High Court; Court of Appeal; military courts; magistrates' courts; religious courts<br>
 
@@ -641,7 +638,7 @@ _subscriptions per 100 inhabitants_: 114 (2020 est.)<br>
 _general assessment_: Kenya&rsquo;s telecom market continues to undergo considerable changes in the wake of increased competition, improved international connectivity, and rapid developments in the mobile market; the country is directly connected to a number of submarine cables, and with Mombasa as a landing point for LIT&rsquo;s newly completed East and West Africa terrestrial network, the country serves as a key junction for onward connectivity to the Arabian states and the Far East; the additional internet capacity has meant that the cost of internet access has fallen dramatically in recent years, allowing services to be affordable to a far greater proportion of the population; the incumbent fixed-line telco Telkom Kenya has struggled to make headway in this market, prompting reorganization in 2018 which included a sale and leaseback arrangement with its mobile tower portfolio; a further restructuring exercise in late 2020 was aimed at repositioning the company for the digital age, and to improve its ability to compete in the market; numerous competitors are rolling out national and metropolitan backbone networks and wireless access networks to deliver services to population centers across the country; several fiber infrastructure sharing agreements have been forged, and as a result the number of fiber broadband connections has increased sharply in recent years; much of the progress in the broadband segment is due to the government&rsquo;s revised national broadband strategy, which has been updated with goals through to 2030, and which are largely dependent on mobile broadband platforms based on LTE and 5G. (2022)<br>
 _domestic_: fixed-line subscriptions stand at less than 1 per 100 persons; multiple providers in the mobile-cellular segment of the market fostering a boom in mobile-cellular telephone usage with teledensity reaching 114 per 100 persons (2020)<br>
 _international_: country code - 254; landing point for the EASSy, TEAMS, LION2, DARE1, PEACE Cable, and SEACOM fiber-optic submarine cable systems covering East, North&nbsp;and South Africa, Europe, the Middle East, and Asia; satellite earth stations - 4 Intelsat; launched first micro satellites in 2018 (2019)<br>
-<strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress towards 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>
+<strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress toward 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>
 
 **Broadcast media**<br>
 about a half-dozen large-scale privately owned media companies with TV and radio stations, as well as a state-owned TV broadcaster, provide service nationwide; satellite and cable TV subscription services available; state-owned radio broadcaster operates 2 national radio channels and provides regional and local radio services in multiple languages; many private radio stations broadcast on a national level along with over 100 private and non-profit regional stations broadcasting in local languages; TV transmissions of all major international broadcasters available, mostly via paid subscriptions; direct radio frequency modulation transmissions available for several foreign government-owned broadcasters (2019)<br>

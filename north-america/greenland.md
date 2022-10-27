@@ -70,9 +70,6 @@ continuous permafrost over northern two-thirds of the island<br>
 **Geography - note**<br>
 dominates North Atlantic Ocean between North America and Europe; sparse population confined to small settlements along coast; close to one-quarter of the population lives in the capital, Nuuk; world's second largest ice sheet after that of Antarctica covering an area of 1.71 million sq km (660,000 sq mi) or about 79% of the island, and containing 2.85 million cu km (684 thousand cu mi) of ice (this is almost 7% of all of the world's fresh water); if all this ice were converted to liquid water, one estimate is that it would be sufficient to raise the height of the world's oceans by 7.2 m (24 ft)<br>
 
-**Map description**<br>
-<p>Greenland map showing the massive island that makes up this part of Denmark in the North Atlantic Ocean.</p><br>
-
 ## People and Society
 
 **Population**<br>
@@ -293,7 +290,7 @@ _elections_: Greenland Parliament - last held on 6 April 2021 (next to be held i
 _election results_: Greenland Parliament - percent of vote by party - IA 38.7%, S 32.2%, N 12.9%, D 9.7%, A 6.5%; seats by party - IA 12, S 10, N 4, D 3, A 2; composition - men 21, women 10, percent of women 32.2%<br><br>Greenland members in Danish Parliament - percent of vote by party - NA; seats by party - IA 1, S 1; composition - 2 women<br>
 
 **Judicial branch**<br>
-_highest courts_: High Court of Greenland (consists of the presiding professional judge and 2 lay assessors); note - appeals beyond the High Court of Greenland can be heard by the Supreme Court (in Copenhagen)<br>
+_highest court(s)_: High Court of Greenland (consists of the presiding professional judge and 2 lay assessors); note - appeals beyond the High Court of Greenland can be heard by the Supreme Court (in Copenhagen)<br>
 _judge selection and term of office_: judges appointed by the monarch upon the recommendation of the Judicial Appointments Council, a 6-member independent body of judges and lawyers; judges appointed for life with retirement at age 70<br>
 _subordinate courts_: Court of Greenland; 18 district or magistrates' courts<br>
 

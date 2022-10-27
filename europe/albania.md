@@ -77,9 +77,6 @@ destructive earthquakes; tsunamis occur along southwestern coast; floods; drough
 **Geography - note**<br>
 strategic location along Strait of Otranto (links Adriatic Sea to Ionian Sea and Mediterranean Sea)<br>
 
-**Map description**<br>
-Albania map showing major cities as well as parts of surrounding countries and the Adriatic Sea.<br>
-
 ## People and Society
 
 **Population**<br>
@@ -363,7 +360,7 @@ _elections_: last held on 25 April 2021 (next to be held in 2025)<br>
 _election results_: percent of vote by party/coalition - PS 48.7%, PD-Alliance for Change 39.4%, LSI 6.8%, PSD 2.3%, other 2.8%; seats by party/coalition - PS 74, PD-Alliance for Change 59, LSI 4, PSD 3; composition - men 93, women 47, percent of women 33.6%<br>
 
 **Judicial branch**<br>
-_highest courts_: Supreme Court (consists of 19 judges, including the chief justice); Constitutional Court (consists of 9 judges, including the chairman)<br>
+_highest court(s)_: Supreme Court (consists of 19 judges, including the chief justice); Constitutional Court (consists of 9 judges, including the chairman)<br>
 _judge selection and term of office_: Supreme Court judges appointed by the High Judicial Council with the consent of the president&nbsp;to serve single 9-year terms; Supreme Court chairman&nbsp;is elected for a single 3-year term by the court members; appointments of Constitutional Court judges are rotated among the president, Parliament, and Supreme Court from a list of pre-qualified candidates (each institution selects 3 judges), to serve single 9-year terms; candidates are pre-qualified by a randomly selected body of experienced judges and prosecutors; Constitutional Court chairman is elected by the court members for a single, renewable 3-year term<br>
 _subordinate courts_: Courts of Appeal; Courts of First Instance; specialized courts: Court for Corruption and Organized Crime, Appeals Court for Corruption and Organized Crime (responsible for corruption, organized crime, and crimes of high officials)<br>
 

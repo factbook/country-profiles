@@ -73,9 +73,6 @@ periodic droughts; dust storms<br>
 **Geography - note**<br>
 close to primary Middle Eastern petroleum sources; strategic location in Persian Gulf, through which much of the Western world's petroleum must transit to reach open ocean<br>
 
-**Map description**<br>
-<p>Bahrain map showing the islands that make up the country in the Gulf of Bahrain.</p><br>
-
 ## People and Society
 
 **Population**<br>
@@ -342,11 +339,11 @@ _elections/appointments_: the monarchy is hereditary; prime minister appointed b
 
 **Legislative branch**<br>
 _description_: bicameral National Assembly consists of:<br>Consultative Council or Majlis al-Shura (40 seats; members appointed by the king)<br>Council of Representatives or Majlis al-Nuwab (40 seats; members directly elected in single-seat constituencies by absolute majority vote in 2 rounds if needed; members serve 4-year renewable terms)<br>
-_elections_: <br>Consultative Council - last appointments on 12 December 2018 (next NA)<br>Council of Representatives - first round for 9 members held on 24 November 2018; second round for remaining 31 members held on 1 December 2018 (next to be held in 2022)<br>
+_elections_: <br>Consultative Council - last appointments on 12 December 2018 (next NA)<br>Council of Representatives - first round for 9 members held on 24 November 2018; second round for remaining 31 members held on 1 December 2018 (next to be held on 12 November 2022)<br>
 _election results_: <br>Consultative Council - composition - men 31, women 9, percent of women 22.5%<br><br>Council of Representatives (for 2018 election)  - percent of vote by society - NA; seats by society - Islamic Al-Asalah (Sunni Salafi) 3, Minbar al-Taqadumi (Communist) 2, National Unity Gathering (Sunni progovernment) 1, National Islamic Minbar (Sunni Muslim Brotherhood) 1, independent 33; composition - men 34, women 6, percent of women 15%; note - total National Assembly percent of women 19%<br>
 
 **Judicial branch**<br>
-_highest courts_: Court of Cassation (consists of the chairman and 3 judges); Supreme Court of Appeal (consists of the chairman and 3 judges); Constitutional Court (consists of the president and 6 members); High Sharia Court of Appeal (court sittings include the president and at least one judge)<br>
+_highest court(s)_: Court of Cassation (consists of the chairman and 3 judges); Supreme Court of Appeal (consists of the chairman and 3 judges); Constitutional Court (consists of the president and 6 members); High Sharia Court of Appeal (court sittings include the president and at least one judge)<br>
 _judge selection and term of office_: Court of Cassation judges appointed by royal decree and serve for a specified tenure; Constitutional Court president and members appointed by the Higher Judicial Council, a body chaired by the monarch and includes judges from the Court of Cassation, sharia law courts, and Civil High Courts of Appeal; members serve 9-year terms; High Sharia Court of Appeal member appointments by royal decree&nbsp;for a specified tenure<br>
 _subordinate courts_: Civil High Courts of Appeal; middle and lower civil courts; High Sharia Court of Appeal; Senior Sharia Court; Administrative Courts of Appeal; military courts<br>
 <strong>note:</strong> the judiciary of Bahrain is divided into civil law courts and sharia law courts; sharia courts (involving personal status and family law) are further divided into Sunni Muslim and Shia Muslim; the Courts are supervised by the Supreme Judicial Council.<br>
@@ -600,7 +597,7 @@ _total subscriptions_: 1,748,672 (2020 est.)<br>
 _subscriptions per 100 inhabitants_: 103 (2020 est.)<br>
 
 **Telecommunication systems**<br>
-_general assessment_: Bahrain continues to develop its telecoms sector in a bid to develop its long-term Economic Vision 2030 strategy; this is a multi-faceted strategy aimed at developing a digital transformation across numerous sectors, including e-government, e-health, e-commerce, and e-banking; the major telcos including Batelco, STC Bahrain, and Zain Bahrain have been supported by the government and regulator to develop services and network infrastructure to facilitate implementing the strategy; 5G services have become widely available since they were launched in 2020; the national broadband network operator BNET was also financially separated from Batelco in mid-2021, in a bid to improve its responsibilities as a neutral wholesale access provider; Bahrain&rsquo;s telecom sector by the Fourth National Telecommunications Plan (initiated in 2016) which focuses on fiber optic infrastructure deployment and establishing affordable prices for high-speed access. (2022)<br>
+_general assessment_: Bahrain continues to develop its telecoms sector in a bid to develop its long-term Economic Vision 2030 strategy; this is a multi-faceted strategy aimed at developing a digital transformation across numerous sectors, including e-government, e-health, e-commerce, and e-banking; 5G services have become widely available since they were launched in 2020; Bahrain&rsquo;s telecom sector by the Fourth National Telecommunications Plan (initiated in 2016) which focuses on fiber optic infrastructure deployment and establishing affordable prices for high-speed access (2022)<br>
 _domestic_: approximately 16 per 100 fixed-line and 103 per 100 mobile-cellular; modern fiber-optic integrated services; digital network with rapidly expanding mobile-cellular telephones (2020)<br>
 _international_: country code - 973; landing points for the&nbsp;FALCON, Tata TGN-Gulf, GBICS/MENA, and FOG&nbsp;submarine cable network that provides links to Asia, the Middle East, and Africa; tropospheric scatter to Qatar and UAE; microwave radio relay to Saudi Arabia; satellite earth station - 1 (2019)<br>
 <strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress toward 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>

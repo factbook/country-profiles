@@ -72,9 +72,6 @@ earthquakes<br>
 **Geography - note**<br>
 <strong>note 1:</strong> strategically located east of the Black Sea; Georgia controls much of the Caucasus Mountains and the routes through them <br><br><strong>note 2:</strong> the world's four deepest caves are all in Georgia, including two that are the only known caves on earth deeper than 2,000 m: Krubera Cave at -2,197 m (-7,208 ft; reached in 2012) and Veryovkina Cave at -2,212 (-7,257 ft; reached in 2018)<br>
 
-**Map description**<br>
-<p>Georgia map showing major cities as well as parts of surrounding countries and the Black Sea.</p><br>
-
 ## People and Society
 
 **Population**<br>
@@ -146,7 +143,7 @@ _total population_: 0.92 male(s)/female (2022 est.)<br>
 
 **Mother's mean age at first birth**<br>
 25.9 years (2019 est.)<br>
-<strong>note:</strong> data do not cover Abkhazia and South Ossetia<br>
+<strong>note:</strong> data does not cover Abkhazia and South Ossetia<br>
 
 **Maternal mortality ratio**<br>
 25 deaths/100,000 live births (2017 est.)<br>
@@ -351,7 +348,7 @@ _elections_: last held on 31 October and 21 November 2020 (next to be held in Oc
 _election results_: percent of vote by party - Georgian Dream 48.2%, UNM 27.2%, European Georgia 3.8%, Lelo 3.2%, Strategy 3.2%, Alliance of Patriots 3.1%, Girchi 2.9%, Citizens 1.3%, Labor 1%; seats by party - Georgian Dream 90, UNM 36, European Georgia 5, Lelo 4, Strategy 4, Alliance of Patriots 4, Girchi 4, Citizens 2, Labor 1; composition (as of October 2021) - men 117, women 27, percent of women 18.8%<br>
 
 **Judicial branch**<br>
-_highest courts_: Supreme Court (consists of 28 judges organized into several specialized judicial chambers; number of judges determined by the president of Georgia); Constitutional Court (consists of 9 judges); note - the Abkhazian and Ajarian Autonomous republics each have a supreme court and a hierarchy of lower courts<br>
+_highest court(s)_: Supreme Court (consists of 28 judges organized into several specialized judicial chambers; number of judges determined by the president of Georgia); Constitutional Court (consists of 9 judges); note - the Abkhazian and Ajarian Autonomous republics each have a supreme court and a hierarchy of lower courts<br>
 _judge selection and term of office_: Supreme Court judges nominated by the High Council of Justice (a 14-member body consisting of the Supreme Court chairperson, common court judges, and appointees of the president of Georgia) and appointed by Parliament; judges appointed for life; Constitutional Court judges appointed 3 each by the president, by Parliament, and by the Supreme Court judges; judges appointed for 10-year terms<br>
 _subordinate courts_: Courts of Appeal; regional (town) and district courts<br>
 
@@ -608,7 +605,7 @@ _total subscriptions_: 5,100,101 (2020 est.)<br>
 _subscriptions per 100 inhabitants_: 128 (2020 est.)<br>
 
 **Telecommunication systems**<br>
-_general assessment_: the telecom sector has been attempting for many years to overcome the decades of under-investment in its fixed-line infrastructure during the Soviet era; concerted efforts to privatize state-owned enterprises and open up the telecom market have been mostly successful, with a large number of networks now competing in both the fixed-line and the mobile segments; more needs to be done, however, to give investors the confidence to enter a market that has barely moved in terms of revenue growth over the last decade, and where regulatory overreach has sometimes come perilously close to arresting further development; Georgia&rsquo;s government moved fast following the collapse of the Soviet Union to liberalize the country&rsquo;s telecom market; this resulted in a relatively high number of networks competing in the under-developed fixed-line segment as well as in the emerging mobile market; both segments remain dominated by just a few companies, with SilkNet and MagtiCom holding the lion&rsquo;s share. (2022)<br>
+_general assessment_: the telecom sector has been attempting for many years to overcome the decades of under-investment in its fixed-line infrastructure during the Soviet era; concerted efforts to privatize state-owned enterprises and open up the telecom market have been mostly successful, with a large number of networks now competing in both the fixed-line and the mobile segments; more needs to be done, however, to give investors the confidence to enter a market that has barely moved in terms of revenue growth over the last decade, and where regulatory overreach has sometimes come perilously close to arresting further development; Georgia&rsquo;s government moved fast following the collapse of the Soviet Union to liberalize the country&rsquo;s telecom market; this resulted in a relatively high number of networks competing in the under-developed fixed-line segment as well as in the emerging mobile market; both segments remain dominated by just a few companies (2022)<br>
 _domestic_: fixed-line subscriptions over 9 per 100, cellular telephone networks cover the entire country; mobile-cellular teledensity roughly 128 per 100 persons; intercity facilities include a fiber-optic line between T'bilisi and K'ut'aisi; the mobile and mobile broadband segments have both demonstrated solid growth in 2021, (2020)<br>
 _international_: country code - 995; landing points for the Georgia-Russia, Diamond Link Global, and Caucasus Cable System fiber-optic submarine cable that provides connectivity to Russia, Romania and Bulgaria; international service is available by microwave, landline, and satellite through the Moscow switch; international electronic mail and telex service are available (2019)<br>
 <strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress toward 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>

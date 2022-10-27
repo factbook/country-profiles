@@ -69,9 +69,6 @@ tropical cyclones<br>
 **Geography - note**<br>
 one of world's largest coral islands; the only major break in the surrounding coral reef occurs in the central western part of the coast<br>
 
-**Map description**<br>
-<p>Niue map showing some population centers on this island in the South Pacific Ocean.</p><br>
-
 ## People and Society
 
 **Population**<br>
@@ -287,7 +284,7 @@ _elections_: last held on 30 May 2020 (next to be held on 2023)<br>
 _election results_: percent of vote by party - NA; seats by party - independent 20; composition - men 17, women 3, percent of women 15%<br>
 
 **Judicial branch**<br>
-_highest courts_: Court of Appeal (consists of the chief justice and up to 3 judges); note - the Judicial Committee of the Privy Council (in London) is the final appeal court beyond the Niue Court of Appeal<br>
+_highest court(s)_: Court of Appeal (consists of the chief justice and up to 3 judges); note - the Judicial Committee of the Privy Council (in London) is the final appeal court beyond the Niue Court of Appeal<br>
 _judge selection and term of office_: Niue chief justice appointed by the governor general on the advice of the Cabinet and tendered by the premier; other judges appointed by the governor general on the advice of the Cabinet and tendered by the chief justice and the minister of justice; judges serve until age 68<br>
 _subordinate courts_: High Court<br>
 <strong>note:</strong> Niue is a participant in the Pacific Judicial Development Program, which is designed to build governance and the rule of law in 15 Pacific island countries<br>
@@ -472,7 +469,7 @@ _subscriptions per 100 inhabitants_: 62 (2018 est.)<br>
 _general assessment_: sole provider service for over 1000 landlines and fixed wireless lines; cellular telephone service operates on AMPS and GSM platforms; difficult geography presents challenges for rural areas; mobile is primary source of Internet access; mobile broadband demand is growing&nbsp;due to mobile services (2020)<br>
 _domestic_: single-line (fixed line) telephone system connects all villages on island; fixed teledensity at nearly 62 per 100 (2018)<br>
 _international_: country code - 683; landing point for the Manatua submarine cable linking Niue to several South Pacific Ocean Islands; expansion of satellite services (2019)<br>
-<strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress towards 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>
+<strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress toward 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>
 
 **Broadcast media**<br>
 1 government-owned TV station with many of the programs supplied by Television New Zealand; 1 government-owned radio station broadcasting in AM and FM (2019)<br>

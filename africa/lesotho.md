@@ -76,9 +76,6 @@ periodic droughts<br>
 **Geography - note**<br>
 landlocked, an enclave of (completely surrounded by) South Africa; mountainous, more than 80% of the country is 1,800 m above sea level<br>
 
-**Map description**<br>
-<p>Lesotho map showing major population centers of this landlocked country surrounded by South Africa.</p><br>
-
 ## People and Society
 
 **Population**<br>
@@ -152,7 +149,7 @@ _total population_: 0.98 male(s)/female (2022 est.)<br>
 
 **Mother's mean age at first birth**<br>
 20.9 years (2014 est.)<br>
-<strong>note:</strong> median age at first birth among women 25-49<br>
+<strong>note:</strong> data represents median age at first birth among women 25-49<br>
 
 **Maternal mortality ratio**<br>
 544 deaths/100,000 live births (2017 est.)<br>
@@ -368,7 +365,7 @@ _elections_: Senate - last nominated by the king on July 2022 (next in late July
 _election results_: Senate - percent of votes by party - NA, seats by party - NA; composition - men 26, women 7, percent of women 21.2%<br>National Assembly - percent of votes by party - RFP 38.9%, DC 24.7%, ABC 7.1%, BAP 5.4%, AD 4.0%, MEC 3.2%, LCD 2.3%, SR 2.1%, BNP 1.4%, PFD 0.9%, BCM 0.8%, MPS 0.8%, MIP 0.7%; seats by party - RFP 56, DC 29, ABC 8, BAP 6, AD 5, MEC 4, LCD 3, SR 2, BNP 1, PFD 1,BCM 1, MPS 1, NIP 1, HOPE 1, TBD 1; composition - men 87, women 28, percent of women 23.3%; note - total Parliament percent of women 22.9%<br>
 
 **Judicial branch**<br>
-_highest courts_: Court of Appeal (consists of the court president, such number of justices of appeal as set by Parliament, and the Chief Justice and the puisne judges of the High Court ex officio); High Court (consists of the chief justice and such number of puisne judges as set by Parliament); note - both the Court of Appeal and the High Court have jurisdiction in constitutional issues<br>
+_highest court(s)_: Court of Appeal (consists of the court president, such number of justices of appeal as set by Parliament, and the Chief Justice and the puisne judges of the High Court ex officio); High Court (consists of the chief justice and such number of puisne judges as set by Parliament); note - both the Court of Appeal and the High Court have jurisdiction in constitutional issues<br>
 _judge selection and term of office_: Court of Appeal president and High Court chief justice appointed by the monarch on the advice of the prime minister; puisne judges appointed by the monarch on advice of the Judicial Service Commission, an independent body of judicial officers and officials designated by the monarch; judges of both courts can serve until age 75<br>
 _subordinate courts_: Magistrate Courts; customary or traditional courts; military courts<br>
 
@@ -627,7 +624,7 @@ _subscriptions per 100 inhabitants_: 73 (2020 est.)<br>
 _general assessment_: until late 2020, Lesotho&rsquo;s telecom regulator maintained a market duopoly between the privatized national operator, Econet Telecom Lesotho (ETL), which is focused on fixed-line services, and Vodacom Lesotho, which dominates the mobile sector; competition between the two was insufficient to promote effective price reductions for consumers, while the regulator had no mechanisms in place to monitor the telcos to ensure quality of service and fair pricing for consumers; the small size of the country&rsquo;s population provided little incentive for new players to enter the market; legal wrangling between the regulator and the telcos are ongoing; both telcos were fined in late 2020, though Vodacom has the more troubled relationship with the regulator; this culminated in the regulator having attempted to revoke Vodacom Lesotho&rsquo;s operating license, a process which was temporarily suspended by the Supreme Court after the company appealed; a positive outcome for consumers was the deployment in early 2021 of a service to monitor traffic and billing; this ended the practice whereby the regulator was dependent on telcos submitting data about their performance, billing, and other matters; the regulator has also turned its attention to addressing multiple SIM ownership and stem incidences of crimes committed using unregistered SIMs; in May 2022, it instructed the country&rsquo;s MNOs to begin registering SIM cards on their networks from the following month; Vodacom was the first operator to introduce mobile broadband services in the country, supplemented with a WiMAX network; this was followed by fixed-wireless 5G trials in early 2019 based on a trial 3.5GHz license. Vodacom Lesotho was among the first network operators in the region to conduct such trials; the crucial nature of telecom services. (2022)<br>
 _domestic_: fixed-line is less than 1 per 100 subscriptions; mobile-cellular service subscribership nearly 73 per 100 persons; rudimentary system consisting of a modest number of landlines, a small microwave radio relay system, and a small radiotelephone communication system (2020)<br>
 _international_: country code - 266; Internet accessibility has improved with several submarine fiber optic cables that land on African east and west coasts, but the country's land locked position makes access prices expensive; satellite earth station - 1 Intelsat (Atlantic Ocean) (2019)<br>
-<strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress towards 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>
+<strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress toward 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>
 
 **Broadcast media**<br>
 1 state-owned TV station and 2 state-owned radio stations; government controls most private broadcast media; satellite TV subscription service available; transmissions of multiple international broadcasters obtainable (2019)<br>

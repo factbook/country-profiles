@@ -70,9 +70,6 @@ frequent hurricanes and other tropical storms (July to October)<br>
 **Geography - note**<br>
 the most northerly of the Leeward Islands in the Lesser Antilles<br>
 
-**Map description**<br>
-<p>Anguilla map showing the major island of Anguilla and its nearby small islands that comprise this UK territory in the North Atlantic Ocean.</p><br>
-
 ## People and Society
 
 **Population**<br>
@@ -268,7 +265,7 @@ _elections_: last held on 29 June 2020 (next to be held in 2025)<br>
 _election results_: percent of vote by party - NA; seats by party - APM 7, AUF 4; composition - men 8, women 3, percent of women 27.3%<br>
 
 **Judicial branch**<br>
-_highest courts_: the Eastern Caribbean Supreme Court (ECSC) is the superior court of the Organization of Eastern Caribbean States; the ECSC - headquartered on St. Lucia - consists of the Court of Appeal - headed by the chief justice and 4 judges - and the High Court with 18 judges; the Court of Appeal is itinerant, travelling to member states on a schedule to hear appeals from the High Court and subordinate courts; High Court judges reside in the member states, though none on Anguilla<br>
+_highest court(s)_: the Eastern Caribbean Supreme Court (ECSC) is the superior court of the Organization of Eastern Caribbean States; the ECSC - headquartered on St. Lucia - consists of the Court of Appeal - headed by the chief justice and 4 judges - and the High Court with 18 judges; the Court of Appeal is itinerant, travelling to member states on a schedule to hear appeals from the High Court and subordinate courts; High Court judges reside in the member states, though none on Anguilla<br>
 _judge selection and term of office_: Eastern Caribbean Supreme Court chief justice appointed by Her Majesty, Queen ELIZABETH II; other justices and judges appointed by the Judicial and Legal Services Commission; Court of Appeal justices appointed for life with mandatory retirement at age 65; High Court judges appointed for life with mandatory retirement at age 62<br>
 _subordinate courts_: Magistrate's Court; Juvenile Court<br>
 
@@ -425,7 +422,7 @@ _total subscriptions_: 26,000 (2018 est.)<br>
 _subscriptions per 100 inhabitants_: 182 (2018 est.)<br>
 
 **Telecommunication systems**<br>
-_general assessment_: the telecom sector has seen a decline in subscriber numbers (particularly for prepaid mobile services the mainstay of short term visitors) and revenue; fixed and mobile broadband services are two areas that have benefited from the crisis as employees and students have resorted to working from home; one major casualty may be the region&rsquo;s second largest telco operator, Digicel; the company filed for bankruptcy in the US in April 2020; it continues to operate in all of its Caribbean markets as it seeks to refinance billions of dollars of debt; the other major telco, regional incumbent Cable &amp; Wireless Communications (CWC), is experiencing similar drops in subscriber numbers and revenue; CWC is expanding and enhancing its fixed and mobile networks in many of the countries it serves around the Caribbean, despite many locations being small islands with very small populations; one area of the telecom market that is not prepared for growth is 5G mobile; governments, regulators, and even the mobile network operators have shown that they have not been investing in 5G opportunities at the present time; network expansion and enhancements remain concentrated around improving LTE coverage. (2021)<br>
+_general assessment_: the telecom sector has seen a decline in subscriber numbers (particularly for prepaid mobile services the mainstay of short term visitors) and revenue; fixed and mobile broadband services are two areas that have benefited from the crisis as employees and students have resorted to working from home; one area of the telecom market that is not prepared for growth is 5G mobile; governments, regulators, and even the mobile network operators have shown that they have not been investing in 5G opportunities at the present time; network expansion and enhancements remain concentrated around improving LTE coverage. (2021)<br>
 _domestic_: fixed-line teledensity is about 42 per 100 persons; mobile-cellular teledensity is roughly 182 per 100 persons (2018)<br>
 _international_: country code - 1-264; landing points for the&nbsp;SSCS, ECFS, GCN&nbsp;and Southern Caribbean Fiber with submarine cable&nbsp;links to&nbsp;Caribbean islands&nbsp;and to the US; microwave radio relay to island of Saint Martin/Sint Maarten (2019)<br>
 <strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress toward 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>

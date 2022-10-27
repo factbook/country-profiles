@@ -69,9 +69,6 @@ very large tidal variation can be hazardous to navigation<br>
 **Geography - note**<br>
 largest and southernmost of Channel Islands; about 30% of population concentrated in Saint Helier<br>
 
-**Map description**<br>
-<p>Jersey map showing this British crown dependency island in the English Channel.</p><br>
-
 ## People and Society
 
 **Population**<br>
@@ -85,7 +82,7 @@ _adjective_: Channel Islander<br>
 Jersey 44.4%, British 30.5%, Portuguese/Madeiran 9.4%, Polish 3%, Irish 2.1%, other 10.6% (2021 est.)<br>
 
 **Languages**<br>
-<p>English (official) 94.5%, Portuguese 4.6%, other .9% (includes French (official) and Jerriais)</p> (2001 est.)<br>
+<p>English (official) 94.5%, Portuguese 4.6%, other 0.9% (includes French (official) and Jerriais)</p> (2001 est.)<br>
 <strong>note: </strong>data represent main spoken language; the traditional language of Jersey is Jerriais or Jersey French (a Norman language), which was spoken by fewer than 3,000 people as of 2001;  two thirds of Jerriais speakers are aged 60 and over<br>
 
 **Religions**<br>
@@ -279,7 +276,7 @@ _elections_: last held on 22 June 2022 (next to be held in 2026)<br>
 _election results_: percent of vote - BW 71.4%, RJ 20.4%, JA 2%, PP 2%, JLC 4.1%; seats by party - BW 35, RJ 10, JA 1, PP 1, JLC 2; composition - men NA, women NA, percent of women NA%<br>
 
 **Judicial branch**<br>
-_highest courts_: Jersey Court of Appeal (consists of the bailiff, deputy bailiff, and 12 judges); Royal Court (consists of the bailiff, deputy bailiff, 6 commissioners and lay people referred to as jurats, and is organized into Heritage, Family, Probate, and Samedi Divisions); appeals beyond the Court of Appeal are heard by the Judicial Committee of the Privy Council (in London)<br>
+_highest court(s)_: Jersey Court of Appeal (consists of the bailiff, deputy bailiff, and 12 judges); Royal Court (consists of the bailiff, deputy bailiff, 6 commissioners and lay people referred to as jurats, and is organized into Heritage, Family, Probate, and Samedi Divisions); appeals beyond the Court of Appeal are heard by the Judicial Committee of the Privy Council (in London)<br>
 _judge selection and term of office_: Jersey Court of Appeal bailiffs and judges appointed by the Crown upon the advice of the Secretary of State for Justice; bailiffs and judges appointed for "extent of good behavior;" Royal Court bailiffs appointed by the Crown upon the advice of the Secretary of State for Justice; commissioners appointed by the bailiff; jurats appointed by the Electoral College; bailiffs and commissioners appointed for "extent of good behavior;" jurats appointed until retirement at age 72<br>
 _subordinate courts_: Magistrate's Court; Youth Court; Petty Debts Court; Parish Hall Enquires (a process of preliminary investigation into youth and minor adult offenses to determine need for presentation before a court)<br>
 
@@ -427,7 +424,7 @@ _subscriptions per 100 inhabitants_: 95 (2009 est.)<br>
 _general assessment_: good system with broadband access (2018)<br>
 _domestic_: fixed-line 45 per 100 and mobile-cellular 115 per 100 subscriptions (2020)<br>
 _international_: country code - 44; landing points for the INGRID, UK-Channel Islands-8, and Guernsey-Jersey-4, submarine cable connectivity to Guernsey, the UK, and France (2019)<br>
-<strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress towards 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>
+<strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress toward 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>
 
 **Broadcast media**<br>
 multiple UK terrestrial TV broadcasts are received via a transmitter in Jersey; satellite packages available; BBC Radio Jersey and 1 other radio station operating<br>

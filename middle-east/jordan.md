@@ -79,9 +79,6 @@ droughts; periodic earthquakes; flash floods<br>
 **Geography - note**<br>
 strategic location at the head of the Gulf of Aqaba and as the Arab country that shares the longest border with Israel and the occupied West Bank; the Dead Sea, the lowest point in Asia and the second saltiest body of water in the world (after Lac Assal in Djibouti), lies on Jordan's western border with Israel and the West Bank; Jordan is almost landlocked but does have a 26 km southwestern coastline with a single port, Al 'Aqabah (Aqaba)<br>
 
-**Map description**<br>
-<p>Jordan map showing major cities as well as parts of surrounding countries.</p><br>
-
 ## People and Society
 
 **Population**<br>
@@ -154,7 +151,7 @@ _total population_: 1.1 male(s)/female (2022 est.)<br>
 
 **Mother's mean age at first birth**<br>
 24.6 years (2017/18 est.)<br>
-<strong>note:</strong> median age at first birth among women 25-49<br>
+<strong>note:</strong> data represents median age at first birth among women 25-49<br>
 
 **Maternal mortality ratio**<br>
 46 deaths/100,000 live births (2017 est.)<br>
@@ -374,7 +371,7 @@ _elections_: Senate - last appointments on 27 Sep 2020 (next appointments in 202
 _election results_: Senate - composition men 58, women 7, percent of women 10.8%<br>Chamber of Deputies - note - tribal, centrist, and pro-government candidates dominated in the 130-seat election; the Islamic Action Front, the political wing of the Muslim Brotherhood, garnered only 10 seats, down from 15 in the previous election; women, who are guaranteed 15 seats by Jordan’s legislative quota system, won 16 seats, down from 20 seats won in the previous election; composition - men 114, women 16, percent of women 12.3%; note - total National Assembly percent of women 11.8%<br> <p> </p><br>
 
 **Judicial branch**<br>
-_highest courts_: Court of Cassation or Supreme Court (consists of 15 members, including the chief justice); Constitutional Court (consists of&nbsp;9 members)<br>
+_highest court(s)_: Court of Cassation or Supreme Court (consists of 15 members, including the chief justice); Constitutional Court (consists of&nbsp;9 members)<br>
 _judge selection and term of office_: Supreme Court chief justice appointed by the king; other judges nominated by the Judicial Council, an 11-member judicial policymaking body consisting of high-level judicial officials and judges, and approved by the king; judge tenure generally not limited; Constitutional Court members appointed by the king for 6-year non-renewable terms with one-third of the membership renewed every 2 years<br>
 _subordinate courts_: Courts of Appeal; Great Felonies Court; religious courts; military courts; juvenile courts; Land Settlement Courts; Income Tax Court; Higher Administrative Court; Customs Court; special courts including the State Security Court<br>
 
@@ -633,7 +630,7 @@ _subscriptions per 100 inhabitants_: 68 (2020 est.)<br>
 _general assessment_: Jordan&rsquo;s government has focused on the use of ICT in a range of sectors, aimed at transforming the relatively small economy through the use of digital services; this policy has helped the country rise in the league tables for digital connectivity and internet readiness, and it has also attracted investment from foreign companies; during the ongoing global pandemic, the start-up sector has been further encouraged to develop solutions to combat the crisis, while other efforts have facilitated e-government services and encouraged businesses to adapt to new methods of working through their own digital transformation; these developments have been supported by the highly developed mobile sector, led by three major regional players which have near-comprehensive LTE network coverage; Orange Jordan has also focused on building up its FttP infrastructure, with the network covering about 618,000 premises by mid-2021. (2022)<br>
 _domestic_: 1995 a telecommunications law opened all non-fixed-line services to private competition; in 2005, the monopoly over fixed-line services terminated and the entire telecommunications sector was opened to competition; currently fixed-line stands at nearly 4 per 100 persons and multiple mobile-cellular providers with subscribership over 68 per 100 persons (2020)<br>
 _international_: country code - 962; landing point for the&nbsp;FEA and&nbsp;Taba-Aqaba submarine cable networks providing connectivity to Europe, the Middle East, Southeast Asia and Asia; satellite earth stations - 33 (3 Intelsat, 1 Arabsat, and 29 land and maritime Inmarsat terminals (2019)<br>
-<strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress towards 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>
+<strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress toward 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>
 
 **Broadcast media**<br>
 radio and TV dominated by the government-owned Jordan Radio and Television Corporation (JRTV) that operates a main network, a sports network, a film network, and a satellite channel; first independent TV broadcaster aired in 2007; international satellite TV and Israeli and Syrian TV broadcasts are available; roughly 30 radio stations with JRTV operating the main government-owned station; transmissions of multiple international radio broadcasters are available<br>

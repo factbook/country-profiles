@@ -77,9 +77,6 @@ lies in the middle of the hurricane belt and subject to severe storms from June 
 **Geography - note**<br>
 shares island of Hispaniola with Haiti (eastern two-thirds makes up the Dominican Republic, western one-third is Haiti); the second largest country in the Antilles (after Cuba); geographically diverse with the Caribbean's tallest mountain, Pico Duarte, and lowest elevation and largest lake, Lago Enriquillo<br>
 
-**Map description**<br>
-<p>Dominican Republic map shows the country’s border with Haiti and its position in the Caribbean Sea.</p><br>
-
 ## People and Society
 
 **Population**<br>
@@ -151,7 +148,7 @@ _total population_: 1.02 male(s)/female (2022 est.)<br>
 
 **Mother's mean age at first birth**<br>
 20.9 years (2013 est.)<br>
-<strong>note:</strong> median age at first birth among women 25-49<br>
+<strong>note:</strong> data represents median age at first birth among women 25-49<br>
 
 **Maternal mortality ratio**<br>
 95 deaths/100,000 live births (2017 est.)<br>
@@ -364,7 +361,7 @@ _elections_: <br>Senate - last held on 5 July 2020 (next to be held 2024)<br>Hou
 _election results_: <br>Senate - percent of vote by party - NA; seats by party - PRM 17, PLD 6, PRSC 6, BIS 1, DXC 1, FP 1; composition - men 28, women 4, percent of women 12.5%<br>House of Representatives - percent of vote by party - NA; seats by party - PRM 86, PLD 75,  PRSC 6, PRD 4, Broad Front 3, FP 3, AP 2, APD 2, BIS 2, DXC 2, other 5; composition - men 137, women 53, percent of women 27.9%; note - total National Congress percent of women 25.7%<br>
 
 **Judicial branch**<br>
-_highest courts_: Supreme Court of Justice or Suprema Corte de Justicia (consists of a minimum of 16 magistrates); Constitutional Court or Tribunal Constitucional (consists of 13 judges); note - the Constitutional Court was established in 2010 by constitutional amendment<br>
+_highest court(s)_: Supreme Court of Justice or Suprema Corte de Justicia (consists of a minimum of 16 magistrates); Constitutional Court or Tribunal Constitucional (consists of 13 judges); note - the Constitutional Court was established in 2010 by constitutional amendment<br>
 _judge selection and term of office_: Supreme Court and Constitutional Court judges appointed by the National Council of the Judiciary comprised of the president, the leaders of both chambers of congress, the president of the Supreme Court, and a non-governing party congressional representative; Supreme Court judges appointed for 7-year terms; Constitutional Court judges appointed for 9-year terms<br>
 _subordinate courts_: courts of appeal; courts of first instance; justices of the peace; special courts for juvenile, labor, and land cases; Contentious Administrative Court for cases filed against the government<br>
 
@@ -621,7 +618,7 @@ _total subscriptions_: 8,989,587 (2020 est.)<br>
 _subscriptions per 100 inhabitants_: 83 (2020 est.)<br>
 
 **Telecommunication systems**<br>
-_general assessment_: the Dominican Republic&rsquo;s telecom sector continued its solid form throughout 2020 and into 2021, shrugging off the economic turmoil unleashed by the Covid-19 pandemic to maintain a decade-long run of low but positive growth across all areas of the market; the Dominican Republic remains behind most of its counterparts in the Latin American region, especially in terms of fixed-line network coverage; mobile subscriptions are on par with the regional average, but at subscription levels of around 88% there is still ample opportunity for growth; in terms of growth, the standout winner was once again the mobile broadband segment; the market is expected to see close to 8% growth in 2021, building further on the gains it already made in 2020 when lock downs and work-from-home rules encouraged many people to find ways to upgrade their internet access and performance; the limited coverage of fixed-line broadband networks makes mobile the first, if not only, choice for most people in the country. (2021)<br>
+_general assessment_: the Dominican Republic&rsquo;s telecom sector continued its solid form throughout 2020 and into 2021, shrugging off the economic turmoil unleashed by the Covid-19 pandemic to maintain a decade-long run of low but positive growth across all areas of the market; the Dominican Republic remains behind most of its counterparts in the Latin American region, especially in terms of fixed-line network coverage; mobile subscriptions are on par with the regional average, but at subscription levels of around 88% there is still ample opportunity for growth; in terms of growth, the standout winner was once again the mobile broadband segment; the market is expected to see close to 8% growth in 2021, building further on the gains it already made in 2020 when lock downs and work-from-home rules encouraged many people to find ways to upgrade their internet access and performance; the limited coverage of fixed-line broadband networks makes mobile the first, if not only, choice for most people in the country (2021)<br>
 _domestic_: fixed-line teledensity is about 11 per 100 persons; multiple providers of mobile-cellular service with a subscribership of nearly 83 per 100 persons (2020)<br>
 _international_: country code - 1-809; 1-829; 1-849; landing point for the&nbsp;ARCOS-1, Antillas 1, AMX-1, SAm-1,&nbsp;East-West, Deep Blue Cable and the Fibralink submarine cables that provide links to South and Central America, parts of the Caribbean, and US; satellite earth station - 1 Intelsat (Atlantic Ocean) (2019)<br>
 <!-- x-tinymce/html --><strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress toward 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>

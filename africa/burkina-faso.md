@@ -76,9 +76,6 @@ recurring droughts<br>
 **Geography - note**<br>
 landlocked savanna cut by the three principal rivers of the Black, Red, and White Voltas<br>
 
-**Map description**<br>
-<p>Burkina Faso map showing major cities as well as parts of surrounding countries.</p><br>
-
 ## People and Society
 
 **Population**<br>
@@ -99,7 +96,7 @@ French (official), native African languages belonging to Sudanic family spoken b
 Muslim 63.2%, Roman Catholic 24.6%, Protestant 6.9%, traditional/animist 4.2%, none 0.7%, unspecified 0.4% (2017-18 est.)<br>
 
 **Demographic profile**<br>
-<p>Burkina Faso has a young age structure – the result of declining mortality combined with steady high fertility – and continues to experience rapid population growth, which is putting increasing pressure on the country’s limited arable land. More than 65% of the population is under the age of 25, and the population is growing at 3% annually. Mortality rates, especially those of infants and children, have decreased because of improved health care, hygiene, and sanitation, but women continue to have an average of almost 6 children. Even if fertility were substantially reduced, today’s large cohort entering their reproductive years would sustain high population growth for the foreseeable future. Only about a third of the population is literate and unemployment is widespread, dampening the economic prospects of Burkina Faso’s large working-age population.</p> <p>Migration has traditionally been a way of life for Burkinabe, with seasonal migration being replaced by stints of up to two years abroad. Cote d’Ivoire remains the top destination, although it has experienced periods of internal conflict. Under French colonization, Burkina Faso became a main labor source for agricultural and factory work in Cote d’Ivoire. Burkinabe also migrated to Ghana, Mali, and Senegal for work between the world wars. Burkina Faso attracts migrants from Cote d’Ivoire, Ghana, and Mali, who often share common ethnic backgrounds with the Burkinabe. Despite its food shortages and high poverty rate, Burkina Faso has become a destination for refugees in recent years and hosts about 33,500 Malians as of May 2017.</p> (2018)<br>
+<p>Burkina Faso has a young age structure – the result of declining mortality combined with steady high fertility – and continues to experience rapid population growth, which is putting increasing pressure on the country’s limited arable land. More than 65% of the population is under the age of 25, and the population is growing at 3% annually. Mortality rates, especially those of infants and children, have decreased because of improved health care, hygiene, and sanitation, but women continue to have an average of almost 6 children. Even if fertility were substantially reduced, today’s large cohort entering their reproductive years would sustain high population growth for the foreseeable future. Only about a third of the population is literate and unemployment is widespread, dampening the economic prospects of Burkina Faso’s large working-age population.</p> <p>Migration has traditionally been a way of life for Burkinabe, with seasonal migration being replaced by stints of up to two years abroad. Cote d’Ivoire remains the top destination, although it has experienced periods of internal conflict. Under French colonization, Burkina Faso became a main labor source for agricultural and factory work in Cote d’Ivoire. Burkinabe also migrated to Ghana, Mali, and Senegal for work between the world wars. Burkina Faso attracts migrants from Cote d’Ivoire, Ghana, and Mali, who often share common ethnic backgrounds with the Burkinabe. Despite its food shortages and high poverty rate, Burkina Faso has become a destination for refugees in recent years and hosts about 26,000 Malian refugees as of July 2022.</p> (2018)<br>
 
 **Age structure**<br>
 _0-14 years_: 43.58% (male 4,606,350/female 4,473,951)<br>
@@ -152,7 +149,7 @@ _total population_: 0.96 male(s)/female (2022 est.)<br>
 
 **Mother's mean age at first birth**<br>
 19.4 years (2010 est.)<br>
-<strong>note:</strong> median age at first birth among women 25-29<br>
+<strong>note:</strong> data represents median age at first birth among women 25-29<br>
 
 **Maternal mortality ratio**<br>
 320 deaths/100,000 live births (2017 est.)<br>
@@ -379,7 +376,7 @@ _elections_: last held on 22 November 2020 (next to be held in November 2025)<br
 _election results_: percent of vote by party - MPP 34.6%, CDP 13.3%, UPC 10.2%, NTD 5.6%, other 36.3%; seats by party - MPP 56, CDP 20, NTD 13, UPC 12, other 26; composition as of October 2021 - men 119, women 8, percent of women 6.3%<br>
 
 **Judicial branch**<br>
-_highest courts_: Supreme Court of Appeals or Cour de Cassation (consists of NA judges); Council of State (consists of NA judges); Constitutional Council or Conseil Constitutionnel (consists of the council president and 9 members)<br>
+_highest court(s)_: Supreme Court of Appeals or Cour de Cassation (consists of NA judges); Council of State (consists of NA judges); Constitutional Council or Conseil Constitutionnel (consists of the council president and 9 members)<br>
 _judge selection and term of office_: Supreme Court judge appointments mostly controlled by the president of Burkina Faso; judges have no term limits; Council of State judge appointment and tenure NA; Constitutional Council judges appointed by the president of Burkina Faso upon the proposal of the minister of justice and the president of the National Assembly; judges appointed for 9-year terms with one-third of membership renewed every 3 years<br>
 _subordinate courts_: Appeals Court; High Court; first instance tribunals; district courts; specialized courts relating to issues of labor, children, and juveniles; village (customary) courts<br>
 
@@ -703,19 +700,20 @@ Armed Forces of Burkina Faso (FABF): Army of Burkina Faso (L’Armee de Terre, L
 
 **Military and security service personnel strengths**<br>
 approximately 12,000 personnel (7,000 Army; 500 Air Force; 4,500 National Gendarmerie) (2022)<br>
+<strong>note:</strong>  in 2022, Burkina Faso announced a special recruitment for 3,000 additional soldiers to assist with its fight against terrorist groups operating in the country<br>
 
 **Military equipment inventories and acquisitions**<br>
 the FABF has a mix of foreign-supplied weapons; since 2010, it has received limited amounts of mostly donated second-hand equipment from a variety of countries (2022)<br>
 
 **Military service age and obligation**<br>
-18 years of age for voluntary military service; no conscription; women may serve in supporting roles (2022)<br>
+18-26 years of age for voluntary military service; no conscription; women may serve in supporting roles (2022)<br>
 
 **Military deployments**<br>
 650 (plus about 180 police) Mali (MINUSMA) (May 2022)<br>
 <strong>note:</strong> Burkina Faso is part of a four (formerly five)-nation anti-jihadist task force known as the G4 Sahel Group, set up in 2014 with Chad, Mali (withdrew in 2022), Mauritania, and Niger; it has committed 550 troops and 100 gendarmes to the force; as of 2020, defense forces from each of the participating states were allowed to pursue terrorist fighters up to 100 km into neighboring countries; the force is backed by France, the UN, and the US<br>
 
 **Military - note**<br>
-including the most recent in October 2022, the military has conducted eight coups since 1960; as of 2022, the military was also actively engaged in combat operations with terrorist groups linked to al-Qa'ida and the Islamic State of Iraq and ash-Sham (ISIS), particularly in the northern and eastern regions; in the north, Jama'at Nusrat al-Islam wal-Muslimin (JNIM), a coalition of al-Qa'ida linked militant groups, has exploited ethnic tensions and perceptions of state neglect, as well as grievances over corruption, patronage politics, social stratification, and land disputes; in 2022, JNIM conducted attacks in 10 of the country's 13 provinces; most of the attacks were assessed to be by the Macina Liberation Front (FLM) of the JNIM coalition; the ISIS-Greater Sahara (ISIS-GS) terrorist group operated in the eastern part of the country (2022)<br>
+including the most recent in October 2022, the military has conducted eight coups since 1960; as of 2022, the military was also actively engaged in combat operations with terrorist groups linked to al-Qa'ida and the Islamic State of Iraq and ash-Sham (ISIS), particularly in the northern and eastern regions; in the north, Jama'at Nusrat al-Islam wal-Muslimin (JNIM), a coalition of al-Qa'ida linked militant groups, has exploited ethnic tensions and perceptions of state neglect, as well as grievances over corruption, patronage politics, social stratification, and land disputes; in 2022, JNIM conducted attacks in 10 of the country's 13 provinces; most of the attacks were assessed to be by the Macina Liberation Front (FLM) of the JNIM coalition; the ISIS-Greater Sahara (ISIS-GS) terrorist group operated in the eastern part of the country; in 2022, an estimated 40% of the country was not under government control&nbsp; (2022)<br>
 
 ## Terrorism
 

@@ -75,9 +75,6 @@ despite a distinctive pattern with an industrial north and an agrarian south, a 
 **Geography - note**<br>
 strategic location dominating central Mediterranean as well as southern sea and air approaches to Western Europe<br>
 
-**Map description**<br>
-<p>Italy map showing major cities as well as parts of surrounding countries and water bodies.</p><br>
-
 ## People and Society
 
 **Population**<br>
@@ -328,7 +325,7 @@ Republic Day, 2 June (1946)<br>
 
 **Constitution**<br>
 _history_: previous 1848 (originally for the Kingdom of Sardinia and adopted by the Kingdom of Italy in 1861); latest enacted 22 December 1947, adopted 27 December 1947, entered into force 1 January 1948<br>
-_amendments_: proposed by both houses of Parliament; passage requires two successive debates and approval by absolute majority of each house on the second vote; a referendum is only required when requested by one fifth of the members of either house, by voter petition, or by five Regional Councils (elected legislative assemblies of the 15 first-level administrative regions and 5 autonomous regions of Italy); referendum not required if an amendment has been approved by a two-thirds majority in each house in the second vote; amended many times, last in 2020<br>
+_amendments_: proposed by both houses of Parliament; passage requires two successive debates and approval by absolute majority of each house on the second vote; a referendum is only required when requested by one fifth of the members of either house, by voter petition, or by 5 Regional Councils (elected legislative assemblies of the 15 first-level administrative regions and 5 autonomous regions of Italy); referendum not required if an amendment has been approved by a two-thirds majority in each house in the second vote; amended many times, last in 2020<br>
 
 **Legal system**<br>
 civil law system; judicial review of legislation under certain conditions in Constitutional Court<br>
@@ -347,7 +344,7 @@ _residency requirement for naturalization_: 4 years for EU nationals, 5 years fo
 
 **Executive branch**<br>
 _chief of state_: President Sergio MATTARELLA (since 3 February 2015)<br>
-_head of government_: Prime Minister Mario DRAGHI (since 13 February 2021); the prime minister's official title is President of the Council of Ministers; note - Prime Minister Mario DRAGHI resigned on 21 July 2022 but will remain caretaker prime minister until 25 September 2022 parliamentary elections<br>
+_head of government_: Prime Minister Giorgia MELONI (since 22 October 2022); the prime minister's official title is President of the Council of Ministers<br>
 _cabinet_: Council of Ministers proposed by the prime minister, known officially as the President of the Council of Ministers and locally as the Premier; nominated by the president; the current deputy prime ministers, known officially as vice presidents of the Council of Ministers, are Matteo SALVINI (L) and Luigi Di MAIO (M5S) (since 1 June 2018)<br>
 _elections/appointments_: president indirectly elected by an electoral college consisting of both houses of Parliament and 58 regional representatives for a 7-year term (no term limits); election last held on 24-29 January 2022 (eight rounds) (next to be held in 2029); prime minister appointed by the president, confirmed by parliament<br>
 _election results_: <em>2022:</em> Sergio MATTARELLA (independent) reelected president; electoral college vote count in eighth round - 759 out of 1,009 (505 vote threshold)<br><br><em>2015: </em>Sergio MATTARELLA (independent) elected president; electoral college vote count in fourth round - 665 out of 995 (505 vote threshold)<br>
@@ -359,7 +356,7 @@ _election results_: <br>Senate - percent of vote by party - NA; seats by party -
 <strong>note</strong>: in October 2019, Italy's Parliament voted to reduce the number of Senate seats from 315 to 200 and the number of Chamber of Deputies seats from 630 to 400; a referendum to reduce the membership of Parliament held on 20-21 September 2020 was approved, effective for the September 2022 snap election<br>
 
 **Judicial branch**<br>
-_highest courts_: Supreme Court of Cassation or Corte Suprema di Cassazione (consists of the first president (chief justice), deputy president, 54 justices presiding over 6 civil and 7 criminal divisions, and 288 judges; an additional 30 judges of lower courts serve as supporting judges; cases normally heard by 5-judge panels; more complex cases heard by 9-judge panels); Constitutional Court or Corte Costituzionale (consists of the court president and 14 judges)<br>
+_highest court(s)_: Supreme Court of Cassation or Corte Suprema di Cassazione (consists of the first president (chief justice), deputy president, 54 justices presiding over 6 civil and 7 criminal divisions, and 288 judges; an additional 30 judges of lower courts serve as supporting judges; cases normally heard by 5-judge panels; more complex cases heard by 9-judge panels); Constitutional Court or Corte Costituzionale (consists of the court president and 14 judges)<br>
 _judge selection and term of office_: Supreme Court judges appointed by the High Council of the Judiciary, headed by the president of the republic; judges may serve for life; Constitutional Court judges - 5 appointed by the president, 5 elected by Parliament, 5 elected by select higher courts; judges serve up to 9 years<br>
 _subordinate courts_: various lower civil and criminal courts (primary and secondary tribunals and courts of appeal)<br>
 
@@ -620,7 +617,7 @@ _total subscriptions_: 77,581,048 (2020 est.)<br>
 _subscriptions per 100 inhabitants_: 128 (2020 est.)<br>
 
 **Telecommunication systems**<br>
-_general assessment_: Italy&rsquo;s large telecom market has one of the most progressive fiber sectors in Europe, with regulatory measures encouraging network sharing; the incumbent telco continues to invest in fiber, despite its recent financial difficulties, while the Open Fiber wholesale provider now has a number of retail contracts which have greatly broadened competition in the sector; plans to merge Open Fiber with TIM&rsquo;s fixed infrastructure are ongoing; regulatory measures have also been introduced to facilitate access to NGNs, and a number of deals have been brokered which enable the main telcos to provide bundled services to large numbers of the population; Italy&rsquo;s vibrant mobile market has one of the highest subscription rates in Europe, though the number of subscribers has fallen in recent years as customers respond to attractive off-net pricing which has reduced the financial benefit of having SIM cards from different providers; the market underwent considerable changes following the merger of Wind and 3 Italia (becoming Wind Tre), which resulted in a new entrant in the form of Iliad; in mid-2019 Fastweb was recognized as an MNO in its own right, having been an MVNO for some 11 years; the company has secured frequencies in the 3.5GHz and 26GHz bands and has a ten-year deal with Wind Tre providing it with national roaming as well as a partner with which to develop a 5G network; network companies were among the first in Europe to trial services based on 5G; the high cost also encouraged the regulator in early 2021 to consider extending the licenses by an additional six years. (2021)<br>
+_general assessment_: Italy&rsquo;s large telecom market has one of the most progressive fiber sectors in Europe, with regulatory measures encouraging network sharing; regulatory measures have also been introduced to facilitate access to NGNs, and a number of deals have been brokered which enable the main telcoms to provide bundled services to large numbers of the population; Italy&rsquo;s vibrant mobile market has one of the highest subscription rates in Europe, though the number of subscribers has fallen in recent years as customers respond to attractive off-net pricing which has reduced the financial benefit of having SIM cards from different providers; network companies were among the first in Europe to trial services based on 5G; the high cost also encouraged the regulator in early 2021 to consider extending the licenses by an additional six years (2021)<br>
 _domestic_: high-capacity cable and microwave radio relay trunks; 32 per 100 for fixed-line and nearly 128 per 100 for mobile-cellular subscriptions (2020)<br>
 _international_: country code - 39; landing points for&nbsp;Italy-Monaco, Italy-Libya, Italy-Malta, Italy-Greece-1, Italy-Croatia, BlueMed, Janna, FEA, SeaMeWe-3 &amp; 4 &amp; 5, Trapani-Kelibia, Columbus-III, Didon, GO-1, HANNIBAL System, MENA, Bridge International, Malta-Italy Interconnector, Melita1, IMEWE, VMSCS, AAE-1, and OTEGLOBE, submarine cables that provide links to Asia, the&nbsp;Middle East, Europe, North Africa, Southeast Asia, Australia and US; satellite earth stations - 3 Intelsat (with a total of 5 antennas - 3 for Atlantic Ocean and 2 for Indian Ocean) (2019)<br>
 <strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress toward 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>
@@ -738,9 +735,9 @@ Islamic State of Iraq and ash-Sham (ISIS)<br>
 <p>Italy's long coastline and developed economy entices tens of thousands of illegal immigrants from southeastern Europe and northern Africa</p> <p><em>Italy-Austria-Switzerland</em>: borders are shifting because glacier peaks that had served as a natural boundary are melting</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 19,441 (Nigeria), 15,337 (Pakistan), 12,962 (Afghanistan), 10,609 (Mali), 7,901 (Somalia), 5,845 (Gambia), 5,079 (Iraq) (mid-year 2021); 170,646 (Ukraine) (as of 27 September 2022)<br>
+_refugees (country of origin)_: 19,441 (Nigeria), 15,337 (Pakistan), 12,962 (Afghanistan), 10,609 (Mali), 7,901 (Somalia), 5,845 (Gambia), 5,079 (Iraq) (mid-year 2021); 171,546 (Ukraine) (as of 19 October 2022)<br>
 _stateless persons_: 3,000 (mid-year 2021)<br>
-<strong>note:</strong> 665,060 estimated refugee and migrant arrivals (January 2015-October 2022)<br>
+<strong>note:</strong> 666,087 estimated refugee and migrant arrivals (January 2015-October 2022)<br>
 
 **Illicit drugs**<br>
 important gateway for drug trafficking; organized crime groups allied with Colombian and Spanish groups trafficking cocaine to Europe<br>

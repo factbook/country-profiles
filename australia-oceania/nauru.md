@@ -70,9 +70,6 @@ periodic droughts<br>
 **Geography - note**<br>
 Nauru is the third-smallest country in the world behind the Holy See (Vatican City) and Monaco; it is the smallest country in the Pacific Ocean, the smallest country outside Europe, the world's smallest island country, and the the world's smallest independent republic; situated just 53 km south of the Equator, Nauru is one of the three great phosphate rock islands in the Pacific Ocean - the others are Banaba (Ocean Island) in Kiribati and Makatea in French Polynesia<br>
 
-**Map description**<br>
-Nauru map shows some features on this island in the South Pacific Ocean.<br>
-
 ## People and Society
 
 **Population**<br>
@@ -316,7 +313,7 @@ _elections_: last held on 24 September 2022 (next to be held in September 2025)<
 _election results_: percent of vote - NA; seats - independent 19; composition - men 17, women 2, percent of women 10.5%<br>
 
 **Judicial branch**<br>
-_highest courts_: Supreme Court (consists of the chief justice and several justices); note - in late 2017, the Nauruan Government revoked the 1976 High Court Appeals Act, which had allowed appeals beyond the Nauruan Supreme Court, and in early 2018, the government formed its own appeals court<br>
+_highest court(s)_: Supreme Court (consists of the chief justice and several justices); note - in late 2017, the Nauruan Government revoked the 1976 High Court Appeals Act, which had allowed appeals beyond the Nauruan Supreme Court, and in early 2018, the government formed its own appeals court<br>
 _judge selection and term of office_: judges appointed by the president to serve until age 65<br>
 _subordinate courts_: District Court, Family Court<br>
 
@@ -547,7 +544,7 @@ _subscriptions per 100 inhabitants_: 92 (2020 est.)<br>
 _general assessment_: adequate local and international radiotelephone communication provided via Australian facilities; geography is a challenge for the islands;&nbsp;there is a&nbsp;need to service the tourism sector&nbsp;and the&nbsp;South Pacific Islands economy; mobile technology is booming (2018)<br>
 _domestic_: fixed-line 0 per 100 and mobile-cellular subscribership approximately 95 per 100 (2019)<br>
 _international_: country code - 674; satellite earth station - 1 Intelsat (Pacific Ocean)<br>
-<strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress towards 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>
+<strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress toward 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>
 
 **Broadcast media**<br>
 1 government-owned TV station broadcasting programs from New Zealand sent via satellite or on videotape; 1 government-owned radio station, broadcasting on AM and FM, utilizes Australian and British programs (2019)<br>

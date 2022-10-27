@@ -82,9 +82,6 @@ lowlands seasonally flooded; periodic droughts<br>
 **Geography - note**<br>
 westernmost country on the African continent; The Gambia is almost an enclave within Senegal<br>
 
-**Map description**<br>
-<p>Senegal map showing major cities as well as parts of surrounding countries and the North Atlantic Ocean.</p><br>
-
 ## People and Society
 
 **Population**<br>
@@ -157,7 +154,7 @@ _total population_: 0.97 male(s)/female (2022 est.)<br>
 
 **Mother's mean age at first birth**<br>
 21.9 years (2019 est.)<br>
-<strong>note:</strong> median age at first birth among women 25-49<br>
+<strong>note:</strong> data represents median age at first birth among women 25-49<br>
 
 **Maternal mortality ratio**<br>
 315 deaths/100,000 live births (2017 est.)<br>
@@ -387,7 +384,7 @@ _elections_: National Assembly - last held on 31 July 2022 (next to be held in J
 _election results_: National Assembly results - percent of vote by party/coalition - BBY 46.6%, YAW 32.9%, WS 14.5%, other 6%;&nbsp; seats by party/coalition - BBY 82, YAW 56, WS 24, other 3; composition - men 95, women 70, percent of women 42.4% (2022)<br>
 
 **Judicial branch**<br>
-_highest courts_: Supreme Court or Cour Supreme (consists of the court president and 12 judges and organized into civil and commercial, criminal, administrative, and social chambers); Constitutional Council or Conseil Constitutionel (consists of 7 members, including the court president, vice president, and 5 judges)<br>
+_highest court(s)_: Supreme Court or Cour Supreme (consists of the court president and 12 judges and organized into civil and commercial, criminal, administrative, and social chambers); Constitutional Council or Conseil Constitutionel (consists of 7 members, including the court president, vice president, and 5 judges)<br>
 _judge selection and term of office_: Supreme Court judges appointed by the president of the republic upon recommendation of the Superior Council of the Magistrates, a body chaired by the president and minister of justice; judge tenure varies, with mandatory retirement either at 65 or 68 years; Constitutional Council members appointed - 5 by the president and 2 by the National Assembly speaker; judges serve 6-year terms, with renewal of 2 members every 2 years<br>
 _subordinate courts_: High Court of Justice (for crimes of high treason by the president); Courts of Appeal; Court of Auditors; assize courts; regional and district courts; Labor Court<br>
 
@@ -644,7 +641,7 @@ _subscriptions per 100 inhabitants_: 114 (2020 est.)<br>
 _general assessment_: Senegal&rsquo;s telecom market continues to show steady growth in all sectors; this has been supported by the particular demands made on consumers during the pandemic, which resulted in a particularly strong increase in the number of subscribers; the mobile subscriber base increased 6.7% in 2020, year-on-year, and by 4.1% in 2021, while the number of fixed broadband subscribers increased 17.5% year-on-year in 2021; mobile internet platforms account for the vast majority of all internet accesses; quality of service issues continue to plague the market, with the regulator periodically issuing fines to the market players; Orange Group&rsquo;s local subsidiary Orange Senegal (Sonatel) remains the dominant player in both the fixed-line and mobile sectors; Free Senegal and Expresso Telecom provide effective competition, and though their relative market shares have been relatively stable since 2013, Free has more recently made some inroads to the share held by Expresso; this can partly be explained by the two-year delay in Expresso launching LTE services, and so losing new subscribers to its competitors; both Sonatel and Free continue to pilot 5G services in the country; Orange Senegal for some years held a near monopoly on the fixed-line, though moderate competition became effective after Expresso launched services as the second national operator in 2009; Expresso stopped investing in the sector, and it stopped providing fixed telephony services in September 2018; in February 2021, the regulator ordered the company to relaunch fixed telephony services, and so adhere to its license terms; By the following September it had signed up several thousand customers. (2022)<br>
 _domestic_: generally reliable urban system with a fiber-optic network; about two-thirds of all fixed-line connections are in Dakar; mobile-cellular service is steadily displacing fixed-line service, even in urban areas; fixed-line roughly 1 per 100 and mobile-cellular 114 per 100 persons (2020)<br>
 _international_: country code - 221; landing points for the ACE, Atlantis-2, MainOne and SAT-3/WASC submarine cables providing connectivity from South Africa, numerous western African countries, Europe and South America;&nbsp;satellite earth station - 1 Intelsat (Atlantic Ocean) (2019)<br>
-<strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress towards 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>
+<strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress toward 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>
 
 **Broadcast media**<br>
 state-run Radiodiffusion Television Senegalaise (RTS) broadcasts TV programs from five cities in Senegal; in most regions of the country, viewers can receive TV programming from at least 7 private broadcasters; a wide range of independent TV programming is available via satellite; RTS operates a national radio network and a number of regional FM stations; at least 7 community radio stations and 18 private-broadcast radio stations are available; transmissions of at least 5 international broadcasters are accessible on FM in Dakar (2019)<br>

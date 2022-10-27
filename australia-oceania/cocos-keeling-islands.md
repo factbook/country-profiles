@@ -67,9 +67,6 @@ cyclone season is October to April<br>
 **Geography - note**<br>
 <strong>note 1: </strong>there are 27 coral islands in the group; apart from North Keeling Island, which lies 30 km north of the main group, the islands form a horseshoe-shaped atoll surrounding a lagoon; North Keeling Island was declared a national park in 1995 and is administered by Parks Australia; the population on the two inhabited islands generally is split between the ethnic Europeans on West Island and the ethnic Malays on Home Island; the islands are thickly covered with coconut palms and other vegetation<br><br><strong>note 2:</strong> site of a World War I naval battle in November 1914 between the Australian light cruiser HMAS Sydney and the German raider SMS Emden; after being heavily damaged in the engagement, the Emden was beached by her captain on North Keeling Island<br>
 
-**Map description**<br>
-<p>Cocos (Keeling) Island map showing the Australian territory in the Indian Ocean.</p><br>
-
 ## People and Society
 
 **Population**<br>
@@ -224,7 +221,7 @@ _elections_: last held on 16 October 2021 (next to be held in October 2023)<br>
 _election results_: percent of vote by party - NA; seats by party - NA; composition - men 4, women 3, percent of women 42.9%<br>
 
 **Judicial branch**<br>
-_highest courts_: under the terms of the Territorial Law Reform Act 1992, Western Australia provides court services as needed for the island including the Supreme Court and subordinate courts (District Court, Magistrate Court, Family Court, Children's Court, and Coroners' Court)<br>
+_highest court(s)_: under the terms of the Territorial Law Reform Act 1992, Western Australia provides court services as needed for the island including the Supreme Court and subordinate courts (District Court, Magistrate Court, Family Court, Children's Court, and Coroners' Court)<br>
 
 **Political parties and leaders**<br>
 none<br>

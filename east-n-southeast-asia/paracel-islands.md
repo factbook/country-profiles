@@ -63,9 +63,6 @@ typhoons<br>
 **Geography - note**<br>
 composed of 130 small coral islands and reefs divided into the northeast Amphitrite Group and the western Crescent Group<br>
 
-**Map description**<br>
-<p>Paracel Islands map showing the major islands of this archipelago in the South China Sea.</p><br>
-
 ## People and Society
 
 **Population**<br>

@@ -71,9 +71,6 @@ typhoons (June to December)<br>
 **Geography - note**<br>
 westernmost archipelago in the Caroline chain, consists of six island groups totaling more than 300 islands; includes World War II battleground of Beliliou (Peleliu) and world-famous Rock Islands<br>
 
-**Map description**<br>
-<p>Palau map showing the major islands of this archipelagic country in the North Pacific Ocean.</p><br>
-
 ## People and Society
 
 **Population**<br>
@@ -328,7 +325,7 @@ _elections_: <br>Senate - last held on 3 November 2020 (next to be held in Novem
 _election results_: <br>Senate - percent of vote - NA; seats - independent 13; composition - men 12, women 1; percent of women 7.7%<br>House of Delegates - percent of vote - NA; seats - independent 16; composition - men 15, women 1; percent of women 6.3%; note - overall percent of women in National Congress 6.9%<br>
 
 **Judicial branch**<br>
-_highest courts_: Supreme Court (consists of the chief justice and 3 associate justices organized into appellate trial divisions; the Supreme Court organization also includes the Common Pleas and Land Courts)<br>
+_highest court(s)_: Supreme Court (consists of the chief justice and 3 associate justices organized into appellate trial divisions; the Supreme Court organization also includes the Common Pleas and Land Courts)<br>
 _judge selection and term of office_: justices nominated by a 7-member independent body consisting of judges, presidential appointees, and lawyers and appointed by the president; judges can serve until mandatory retirement at age 65<br>
 _subordinate courts_: National Court and other 'inferior' courts<br>
 
@@ -514,7 +511,7 @@ _subscriptions per 100 inhabitants_: 133 (2020 est.)<br>
 _general assessment_: well-developed mobile sector, recently boosted by satellite network capacity upgrades; 3G services available with satellite; lack of telecom regulations; newest and most powerful commercial satellite, Kacific-1 satellite, launched in 2019 to improve telecommunications in the Asia Pacific region (2020)<br>
 _domestic_: fixed-line nearly 41 per 100 and mobile-cellular services roughly 134 per 100 persons (2019)<br>
 _international_: country code - 680; landing point for the SEA-US submarine cable linking Palau, Philippines, Micronesia, Indonesia, Hawaii (US), Guam (US) and&nbsp;California (US); satellite earth station - 1 Intelsat (Pacific Ocean) (2019)<br>
-<strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress towards 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>
+<strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress toward 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>
 
 **Broadcast media**<br>
 no broadcast TV stations; a cable TV network covers the major islands and provides access to 4 local cable stations, rebroadcasts (on a delayed basis) of a number of US stations, as well as access to a number of real-time satellite TV channels; about a half dozen radio stations (1 government-owned) (2019)<br>

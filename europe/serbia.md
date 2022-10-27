@@ -76,9 +76,6 @@ destructive earthquakes<br>
 **Geography - note**<br>
 landlocked; controls one of the major land routes from Western Europe to Turkey and the Near East<br>
 
-**Map description**<br>
-<p>Serbia map showing major cities as well as parts of surrounding countries.</p><br>
-
 ## People and Society
 
 **Population**<br>
@@ -154,7 +151,7 @@ _total population_: 0.95 male(s)/female (2022 est.)<br>
 
 **Mother's mean age at first birth**<br>
 28.2 years (2020 est.)<br>
-<strong>note:</strong> data do not cover Kosovo or Metohija<br>
+<strong>note:</strong> data does not cover Kosovo or Metohija<br>
 
 **Maternal mortality ratio**<br>
 12 deaths/100,000 live births (2017 est.)<br>
@@ -377,7 +374,7 @@ _elections_: last held on 3 April 2022 (next to be held in April 2026)<br>
 _election results_: percent of vote by party/coalition - Together We Can Do Everything 44.2%, UZPS 14.1%, Ivica Dacic - Prime Minister 11.8%, NADA 5.6%, We Must 4.9%, Dveri-POKS 3.9%, SSZ 3.8%, other 11.7%; seats by party/coalition - Together We Can Do Everything 120, UZPS 38, Ivica Dacic - Prime Minister 31, NADA 15, We Must 13, Dveri-POKS 10, SSZ 10, SVM 6, SPP 3, other 4; composition -&nbsp; men 150, women 100, percent of women 40%<br>
 
 **Judicial branch**<br>
-_highest courts_: Supreme Court of Cassation (consists of 36 judges, including the court president); Constitutional Court (consists of 15 judges, including the court president and vice president)<br>
+_highest court(s)_: Supreme Court of Cassation (consists of 36 judges, including the court president); Constitutional Court (consists of 15 judges, including the court president and vice president)<br>
 _judge selection and term of office_: Supreme Court justices proposed by the High Judicial Council (HJC), an 11-member independent body consisting of&nbsp; 8 judges elected by the National Assembly and 3 ex-officio members; justices appointed by the National Assembly; Constitutional Court judges elected - 5 each by the National Assembly, the president, and the Supreme Court of Cassation; initial appointment of Supreme Court judges by the HJC is 3 years and beyond that period tenure is permanent; Constitutional Court judges elected for 9-year terms<br>
 _subordinate courts_: basic courts, higher courts, appellate courts; courts of special jurisdiction include the Administrative Court, commercial courts, and misdemeanor courts<br>
 
@@ -637,7 +634,7 @@ _subscriptions per 100 inhabitants_: 120 (2020 est.)<br>
 _general assessment_: Serbia&rsquo;s telecom industry has been liberalized in line with the principles of the EU&rsquo;s regulatory framework for communications, focused on encouraging competition in telecom products and services, and ensuring universal access; considerable network investment has been undertaken in Serbia by incumbent and alternative operators in recent years, despite economic difficulties; this has helped to stimulate internet usage, which has also been bolstered by improved affordability as prices are reduced through competition; the pandemic has stimulated consumer take up of services, particularly mobile data; the government&rsquo;s various initiatives to improve rural broadband availability have also been supported by European development loans; Serbia&rsquo;s high mobile services, partly the result of multiple SIM card use, has weighed on revenue growth in recent years, placing further pressure on operators to develop business models which encourage consumer use of mobile data services also in response to the continued substitution of fixed-line for mobile voice calls; the regulator has yet to auction 5G-suitable frequencies, though operators are already investing in their networks in preparation for this next growth frontier; during 2021 the regulator resumed the process towards a 5G spectrum auction, which had been delayed owing to the onset of the covid-19 pandemic; in early 2021 Telekom Srbija agreed to provide Telenor Serbia with access to its fiber network; Telenor (now operating as Yettel, and owned by the PPF Group), joined the fixed market in November 2021, launching fiber-based fixed broadband, fixed voice, and digital TV services; the operator is looking to bolster its returns by focusing more strongly on the uptake of converged services in the market; these developments could lead to a significant shift in the telecom market landscape. (2022)<br>
 _domestic_: fixed-line over 37 per 100 and mobile-cellular over 120 per 100 persons (2020)<br>
 _international_: country code - 381<br>
-<strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress towards 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>
+<strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress toward 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>
 
 **Internet country code**<br>
 .rs<br>
@@ -719,7 +716,7 @@ the military's inventory consists of Russian and Soviet-era weapons systems; sin
 
 **Military service age and obligation**<br>
 18 years of age for voluntary military service for men and women; conscription abolished January 2011 (2021)<br>
-<strong>note:</strong> as of 2019, women made up about 6% of the military's full-time personnel 2011<br>
+<strong>note:</strong> as of 2019, women made up about 6% of the military's full-time personnel <br>
 
 **Military deployments**<br>
 175 Lebanon (UNIFIL) (May 2022)<br>
@@ -733,7 +730,7 @@ the Serbian Armed Forces were established in June 2006; the Serbian military tra
 <p><em>Serbia-Bosnia and Herzegovina</em>: Serbia delimited about half of the boundary with Bosnia and Herzegovina, but sections along the Drina River remain in dispute</p> <p><em>Serbia-Bulgaria</em>: none identified</p> <p><em>Serbia-Croatia</em>: Serbia and Croatia dispute their border along the Danube; Serbia claims the border is the median between the current Danube shorelines, with the land to the eastern side of the median belonging to Serbia; Croatia contends that the boundary is demarcated according to historic maps, despite the river having meandered since then</p> <p><em>Serbia-Hungary</em>: none identified</p> <p><em>Serbia-Kosovo</em>: Serbia with several other states protested the US and other states' recognition of Kosovo's declaration of its status as a sovereign and independent state in February 2008; ethnic Serbian municipalities along Kosovo's northern border challenge final status of Kosovo-Serbia boundary; since 1999, NATO-led Kosovo Force peacekeepers under UN Interim Administration Mission in Kosovo (UNMIK) authority have continued to keep the peace within Kosovo between the ethnic Albanian majority and the Serb minority; in October 2021, NATO-led KFOR increased patrols along the border with Serbia to deescalate hostilities caused by a dispute over license plates</p> <p><em>Serbia-Montenegro</em>: the former republic boundary serves as the boundary until a line is formally delimited and demarcated</p> <p><em>Serbia-North Macedonia</em>: none identified</p> <p><em>Serbia-Romania</em>: none identified</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 17,336 (Croatia), 7,997 (Bosnia and Herzegovina) (mid-year 2021); 20,568 (Ukraine) (includes Ukrainian refugees in Kosovo; as of 11 October 2022)<br>
+_refugees (country of origin)_: 17,336 (Croatia), 7,997 (Bosnia and Herzegovina) (mid-year 2021); 20,967 (Ukraine) (includes Ukrainian refugees in Kosovo; as of 18 October 2022)<br>
 _IDPs_: 196,995 (most are Kosovar Serbs, some are Roma, Ashkalis, and Egyptian (RAE); some RAE IDPs are unregistered) (2021)<br>
 _stateless persons_: 2,113 (includes stateless persons in Kosovo) (mid-year 2021)<br>
 <strong>note:</strong> 899,143 estimated refugee and migrant arrivals (January 2015-October 2022); Serbia is predominantly a transit country and hosts an estimated 6,313 migrants and asylum seekers as of June 2022<br>

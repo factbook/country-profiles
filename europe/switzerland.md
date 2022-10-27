@@ -79,9 +79,6 @@ avalanches, landslides; flash floods<br>
 **Geography - note**<br>
 landlocked; crossroads of northern and southern Europe; along with southeastern France, northern Italy, and southwestern Austria, has the highest elevations in the Alps<br>
 
-**Map description**<br>
-<p>Switzerland map showing major cities as well as parts of surrounding countries.</p><br>
-
 ## People and Society
 
 **Population**<br>
@@ -364,7 +361,7 @@ _elections_: <br>Council of States - last held in most cantons on 20 October 201
 _election results_: <br>Council of States - percent of vote by party - NA; seats by party - The Center 13, FDP.The Liberals 12, SDP 9, Green Party 5, SVP 6, other 1; composition (as of mid-2022) - men 33, women 13, percent of women 28.3% <br>National Council - percent of vote by party - SDP 26.5%, SP 19.5%, FDP.The Liberals 15.1%, Green Party 14%, The Center 14%, GLP 7.8%, other 3.5%; seats by party - SVP 53, SP 39, FDP.The Liberals 29, Green Party 28, The Center 28, GLP 16, other 7; composition (as of mid-2022) - men 115, women 85, percent of women 42.5%; note - overall Federal Assembly percent of women 39.8%<br>
 
 **Judicial branch**<br>
-_highest courts_: Federal Supreme Court (consists of 38 justices and 19 deputy justices organized into 7 divisions)<br>
+_highest court(s)_: Federal Supreme Court (consists of 38 justices and 19 deputy justices organized into 7 divisions)<br>
 _judge selection and term of office_: judges elected by the Federal Assembly for 6-year terms; note - judges are affiliated with political parties and are elected according to linguistic and regional criteria in approximate proportion to the level of party representation in the Federal Assembly<br>
 _subordinate courts_: Federal Criminal Court (established in 2004); Federal Administrative Court (established in 2007); note - each of Switzerland's 26 cantons has its own courts<br>
 
@@ -629,7 +626,7 @@ _subscriptions per 100 inhabitants_: 126.05 (2019)<br>
 _general assessment_: Switzerland has one of the highest broadband penetration rates within Europe, with a focus on services of at least 1Gb/s; this has been supported by sympathetic regulatory measures as well as by cooperative agreements between the main telcos Swisscom, Swiss Net Fire, and Sunrise UPC, and with local utilities; fast fiber is complemented by 5G services reaching about 97% of the population by early 2021; together, these networks will soon enable the telcos to provide ultra-fast broadband services nationally, ahead of most other countries in the region; the competitive mobile market is served by three network operators and a small number of MVNOs. Liberty Global acquired the MNO Sunrise in November 2020 and merged the business with its own unit UPC Switzerland, creating Sunrise UPC to contend effectively against Swisscom across the sector; 5G services offered by the MNOs offer data rates of up to 2Gb/s, and although various cantons have called a halt to extensions of 5G, citing health concerns, the regulator and environment ministry have put in place measures aimed at ensuring that network rollouts can continue without disruption; with the migration of subscribers to LTE and 5G networks, the MNOs have been able to begin closing down their GSM networks and repurpose physical assets and spectrum; although not a member of the EU, the country&rsquo;s economic integration has meant that its telecom market deregulation has followed the EU&rsquo;s liberalization framework, including the recent regulations on international voice roaming; this report presents an analysis of Switzerland&rsquo;s fixed-line telecom market, including an assessment of network infrastructure; it examines the regulatory environment and evaluates the strategies and performance of service providers including Swisscom and Sunrise UPC; the report also assesses the mobile market, including new technologies and profiles of the main operators; the report reviews the fixed and fixed-wireless broadband segments and the migration to a fiber-abased infrastructure; subscriber forecasts to 2024 are provided covering a range of services. (2021)<br>
 _domestic_: fixed-line over 34 per 100 and mobile-cellular subscribership roughly 126 per 100 persons; extensive cable and microwave radio relay networks (2020)<br>
 _international_: country code - 41; satellite earth stations - 2 Intelsat (Atlantic Ocean and Indian Ocean)<br>
-<strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress towards 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>
+<strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress toward 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>
 
 **Broadcast media**<br>
 <p>the publicly owned radio and TV broadcaster, Swiss Broadcasting Corporation (SRG/SSR), operates 8 national TV networks, 3 broadcasting in German, 3 in French, and 2 in Italian; private commercial TV stations broadcast regionally and locally; TV broadcasts from stations in Germany, Italy, and France are widely available via multi-channel cable and satellite TV services; SRG/SSR operates 17 radio stations that, along with private broadcasters, provide national to local coverage )</p> (2019)<br>
@@ -681,7 +678,6 @@ _under 914 m_: 23 (2021)<br>
 _total_: 5,466 km (2015) (includes 19 km in neighboring countries)<br>
 _standard gauge_: 3,836 km (2015) 1.435-m gauge (3,634 km electrified)<br>
 _narrow gauge_: 1,630 km (2015) 1.200-m gauge (2 km electrified) (includes 19 km in neighboring countries)<br>
-1188 km 1.000-mm gauge (1,167.3 km electrified)<br>36 km 0.800-mm gauge (36.4 km electrified)<br>
 
 **Roadways**<br>
 _total_: 71,557 km (2017)<br>
@@ -737,7 +733,7 @@ Islamic State of Iraq and ash-Sham (ISIS)<br>
 <p>none identified</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 38,219 (Eritrea), 20,043 (Syria), 14,649 (Afghanistan), 6,069 (Sri Lanka), 6,197 (Turkey) (mid-year 2021); 66,252 (Ukraine) (as of 10 October 2022)<br>
+_refugees (country of origin)_: 38,219 (Eritrea), 20,043 (Syria), 14,649 (Afghanistan), 6,069 (Sri Lanka), 6,197 (Turkey) (mid-year 2021); 66,812 (Ukraine) (as of 18 October 2022)<br>
 _stateless persons_: 684 (mid-year 2021)<br>
 
 **Illicit drugs**<br>

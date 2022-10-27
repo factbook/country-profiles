@@ -59,9 +59,6 @@ very large tidal variation and fast currents can make local waters dangerous<br>
 **Geography - note**<br>
 large, deepwater harbor at Saint Peter Port<br>
 
-**Map description**<br>
-<p>Guernsey map showing the islands that make up this British crown dependency in the English Channel.</p> <p> </p><br>
-
 ## People and Society
 
 **Population**<br>
@@ -258,7 +255,7 @@ _elections_: last held on 7 October 2020 (next to be held in June 2025)<br>
 _election results_: percent of vote - NA; seats - independent 38; composition - men 32, women 8, percent of women 20%<br>
 
 **Judicial branch**<br>
-_highest courts_: Guernsey Court of Appeal (consists of the Bailiff of Guernsey, who is the ex-officio president of the Guernsey Court of Appeal, and at least 12 judges); Royal Court (organized into 3 divisions - Full Court sits with 1 judge and 7 to 12 jurats acting as judges of fact, Ordinary Court sits with 1 judge and normally 3 jurats, and Matrimonial Causes Division sits with 1 judge and 4 jurats); note - appeals beyond Guernsey courts are heard by the Judicial Committee of the Privy Council (in London)<br>
+_highest court(s)_: Guernsey Court of Appeal (consists of the Bailiff of Guernsey, who is the ex-officio president of the Guernsey Court of Appeal, and at least 12 judges); Royal Court (organized into 3 divisions - Full Court sits with 1 judge and 7 to 12 jurats acting as judges of fact, Ordinary Court sits with 1 judge and normally 3 jurats, and Matrimonial Causes Division sits with 1 judge and 4 jurats); note - appeals beyond Guernsey courts are heard by the Judicial Committee of the Privy Council (in London)<br>
 _judge selection and term of office_: Royal Court Bailiff, Deputy Bailiff, and Court of Appeal justices appointed by the British Crown and hold office at Her Majesty's pleasure; jurats elected by the States of Election, a body chaired by the Bailiff and a number of jurats<br>
 _subordinate courts_: Court of Alderney; Court of the Seneschal of Sark; Magistrates' Court (includes Juvenile Court); Contracts Court; Ecclesiastical Court; Court of Chief Pleas<br>
 

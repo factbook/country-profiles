@@ -69,9 +69,6 @@ hurricanes; lies outside the Caribbean hurricane belt and is rarely threatened<b
 **Geography - note**<br>
 a flat, riverless island renowned for its white sand beaches; its tropical climate is moderated by constant trade winds from the Atlantic Ocean; the temperature is almost constant at about 27 degrees Celsius (81 degrees Fahrenheit)<br>
 
-**Map description**<br>
-<p>Aruba map showing the island situated in the Caribbean Sea.</p><br>
-
 ## People and Society
 
 **Population**<br>
@@ -291,7 +288,7 @@ _elections_: last held on 25 June 2021 (next to be held in June 2025)<br>
 _election results_: percent of vote by party MEP 35.3%, AVP 31.3%, ROOTS 9.4%, MAS 8%, Accion21 5.8%; seats by party - MEP 9, AVP 7, ROOTS 2, MAS 2, Accion21 1; composition - men 13, women 8, percent of women 38.1%<br>
 
 **Judicial branch**<br>
-_highest courts_: Joint Court of Justice of Aruba, Curacao, Sint Maarten, and of Bonaire, Sint Eustatius and Saba or "Joint Court of Justice" (sits as a 3-judge panel); final appeals heard by the Supreme Court in The Hague, Netherlands<br>
+_highest court(s)_: Joint Court of Justice of Aruba, Curacao, Sint Maarten, and of Bonaire, Sint Eustatius and Saba or "Joint Court of Justice" (sits as a 3-judge panel); final appeals heard by the Supreme Court in The Hague, Netherlands<br>
 _judge selection and term of office_: Joint Court judges appointed for life by the monarch<br>
 _subordinate courts_: &nbsp;Court in First Instance<br>
 
@@ -520,7 +517,7 @@ _total subscriptions_: 141,000 (2020 est.)<br>
 _subscriptions per 100 inhabitants_: 132 (2020 est.)<br>
 
 **Telecommunication systems**<br>
-_general assessment_: the telecom sector has seen a decline in subscriber numbers (particularly for prepaid mobile services the mainstay of short term visitors) and revenue; fixed and mobile broadband services are two areas that have benefited from the crisis as employees and students have resorted to working from home; one major casualty may be the region&rsquo;s second largest telco operator, Digicel; the company filed for bankruptcy in the US in April 2020; it continues to operate in all of its Caribbean markets as it seeks to refinance billions of dollars of debt; the other major telco, regional incumbent Cable &amp; Wireless Communications (CWC), is experiencing similar drops in subscriber numbers and revenue; CWC is expanding and enhancing its fixed and mobile networks in many of the countries it serves around the Caribbean, despite many locations being small islands with very small populations; one area of the telecom market that is not prepared for growth is 5G mobile; governments, regulators, and even the mobile network operators have shown that they have not been investing in 5G opportunities at the present time; network expansion and enhancements remain concentrated around improving LTE coverage. (2021)<br>
+_general assessment_: the telecom sector has seen a decline in subscriber numbers (particularly for prepaid mobile services the mainstay of short term visitors) and revenue; fixed and mobile broadband services are two areas that have benefited from the crisis as employees and students have resorted to working from home; one area of the telecom market that is not prepared for growth is 5G mobile; governments, regulators, and even the mobile network operators have shown that they have not been investing in 5G opportunities at the present time; network expansion and enhancements remain concentrated around improving LTE coverage. (2021)<br>
 _domestic_: ongoing changes in regulations and competition improving teledensity; approximately 34 per 100 fixed-line and 135 per 100 mobile-cellular (2018)<br>
 _international_: country code - 297; landing&nbsp;points for the PAN-AM, PCCS, Deep Blue Cable, and Alonso de Ojeda&nbsp;submarine telecommunications cable system that extends from Trinidad and Tobago, Florida,&nbsp;Puerto Ricco,&nbsp;Jamaica, Guyana, Sint Eustatius &amp; Saba, Suriname, Dominican Republic, BVI, USVI, Haiti, Cayman Islands, the Netherlands Antilles,&nbsp; through Aruba to Panama, Venezuela, Colombia, Ecuador, Peru and Chile; extensive interisland microwave radio relay links (2019)<br>
 <strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress toward 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>

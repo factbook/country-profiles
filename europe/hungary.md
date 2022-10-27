@@ -76,9 +76,6 @@ a fairly even distribution throughout most of the country, with urban areas attr
 **Geography - note**<br>
 landlocked; strategic location astride main land routes between Western Europe and Balkan Peninsula as well as between Ukraine and Mediterranean basin; the north-south flowing Duna (Danube) and Tisza Rivers divide the country into three large regions<br>
 
-**Map description**<br>
-<p>Hungary map showing major cities as well as parts of surrounding countries.</p><br>
-
 ## People and Society
 
 **Population**<br>
@@ -367,7 +364,7 @@ _elections_: last held on 3 April 2022 (next to be held in April 2026)<br>
 _election results_: percent of vote by party list - Fidesz-KDNP 54.1%, United for Hungary 34.5%, Mi Hazank 5.9%, other 5.5%; seats by party - Fidesz-KDNP 135, United for Hungary 57, Mi Hazank 6, independent 1; composition - men 175, women 24, percent of women 12.1%<br>
 
 **Judicial branch**<br>
-_highest courts_: Curia or Supreme Judicial Court (consists of the president, vice president, department heads, and has a maximum of 113 judges, and is organized into civil, criminal, and administrative-labor departments; Constitutional Court (consists of 15 judges, including the court president and vice president)<br>
+_highest court(s)_: Curia or Supreme Judicial Court (consists of the president, vice president, department heads, and has a maximum of 113 judges, and is organized into civil, criminal, and administrative-labor departments; Constitutional Court (consists of 15 judges, including the court president and vice president)<br>
 _judge selection and term of office_: Curia president elected by the National Assembly on the recommendation of the president of the republic; other Curia judges appointed by the president upon the recommendation of the National Judicial Council, a separate 15-member administrative body; judge tenure based on interim evaluations until normal retirement at age 62; Constitutional Court judges, including the president of the court, elected by the National Assembly; court vice president elected by the court itself; members serve 12-year terms with mandatory retirement at age 62<br>
 _subordinate courts_: 5 regional courts of appeal; 19 regional or county courts (including Budapest Metropolitan Court); 20 administrative-labor courts; 111 district or local courts<br>
 
@@ -626,7 +623,7 @@ _total subscriptions_: 10,332,660 (2020 est.)<br>
 _subscriptions per 100 inhabitants_: 107 (2020 est.)<br>
 
 **Telecommunication systems**<br>
-_general assessment_: Hungary benefits from having a developed telecom infrastructure, with a focus among operators to develop the 5G sector and upgrade fixed networks to provide a 1Gb/s service; services based on 5G have been supported by the January 2021 multi-spectrum auction for spectrum in the 900MHz and 1800MHz bands; Digi Mobile failed to secure spectrum, which prompted the operator&rsquo;s parent company to sell the unit to 4iG; the number of fixed-lines continues to fall as subscribers migrate to the mobile platform for voice and data services; operators have bundled packages to boost revenue and retain subscribers; this strategy encouraged Vodafone Group to acquire UPC Hungary in mid-2019; the broadband market has effective infrastructure-based competition, with an extensive cable network competing against DSL services and a vibrant and rapidly expanding fiber sector.; the regulator has also introduced a number of measures aimed at promoting market competition, which is pushing the drive for higher speed platforms and encouraging operators to invest in technology upgrades; Hungary now has the highest fixed broadband penetration rate in Eastern Europe; by the beginning of 2021, the incumbent telco Maygar Telekom provided a 1Gb/s service to about 2.5 million premises across the country; the number of superfast broadband connections (above 30Mb/s) accounted for 78% of all fixed broadband connections; Maygar Telekom is at the forefront of 5G developments, supported by the government, universities, other telcos and vendors forming the Hungarian 5G Coalition; by March 2021, Vodafone Hungary managed about 300 5G base stations in Budapest and its surrounds, as well as in a number of other cities. (2021)<br>
+_general assessment_: Hungary benefits from having a developed telecom infrastructure, with a focus among operators to develop the 5G sector and upgrade fixed networks to provide a 1Gb/s service; services based on 5G have been supported by the January 2021 multi-spectrum auction for spectrum in the 900MHz and 1800MHz bands; the number of fixed-lines continues to fall as subscribers migrate to the mobile platform for voice and data services; operators have bundled packages to boost revenue and retain subscribers; the broadband market has effective infrastructure-based competition, with an extensive cable network competing against DSL services and a vibrant and rapidly expanding fiber sector.; the regulator has also introduced a number of measures aimed at promoting market competition, which is pushing the drive for higher speed platforms and encouraging operators to invest in technology upgrades; Hungary now has the highest fixed broadband penetration rate in Eastern Europe; the number of super fast broadband connections (above 30Mb/s) accounted for 78% of all fixed broadband connections (2021)<br>
 _domestic_: competition among mobile-cellular service providers has led to a sharp increase in the use of mobile-cellular phones, and a decrease in the number of fixed-line connections, with just under 31 fixed per 100 persons and 107 mobile-cellular subscriptions per 100 (2020)<br>
 _international_: country code - 36; Hungary has fiber-optic cable connections with all neighboring countries; the international switch is in Budapest; satellite earth stations - 2 Intelsat (Atlantic Ocean and Indian Ocean regions), 1 Inmarsat, 1 (very small aperture terminal) VSAT system of ground terminals<br>
 <strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress toward 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>
@@ -740,7 +737,7 @@ Islamic State of Iraq and ash-Sham (ISIS)<br>
 <p>bilateral government, legal, technical and economic working group negotiations continue in 2006 with Slovakia over Hungary's failure to complete its portion of the Gabcikovo-Nagymaros hydroelectric dam project along the Danube; as a member state that forms part of the EU's external border, Hungary has implemented the strict Schengen border rules</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 30,000 (Ukraine) (as of 11 October 2022)<br>
+_refugees (country of origin)_: 30,000 (Ukraine) (as of 18 October 2022)<br>
 _stateless persons_: 130 (mid-year 2021)<br>
 
 **Illicit drugs**<br>

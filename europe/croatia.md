@@ -77,9 +77,6 @@ destructive earthquakes<br>
 **Geography - note**<br>
 controls most land routes from Western Europe to Aegean Sea and Turkish Straits; most Adriatic Sea islands lie off the coast of Croatia - some 1,200 islands, islets, ridges, and rocks<br>
 
-**Map description**<br>
-<p>Croatia map showing major cities as well as parts of surrounding countries and the Adriatic Sea.</p><br>
-
 ## People and Society
 
 **Population**<br>
@@ -368,7 +365,7 @@ _election results_: percent of vote by coalition/party - HDZ-led coalition 37.3%
 <strong>note:</strong> seats by party as of March 2021 - HDZ 62, SDP 33, DP 9, Most 6, Croatian Sovereignists 4, We Can! 4, IDS 3, SDSS 3, HSS 2, HSLS 2, BZH 1, Center 1, FOKUS 1, GLAS 1, HDS 1, HSU 1, NL 1, Reformists 1, SSIP 1, RF 1, independent 12<br>
 
 **Judicial branch**<br>
-_highest courts_: Supreme Court (consists of the court president and vice president, 25 civil department justices, and 16 criminal department justices)<br>
+_highest court(s)_: Supreme Court (consists of the court president and vice president, 25 civil department justices, and 16 criminal department justices)<br>
 _judge selection and term of office_: president of Supreme Court nominated by the president of Croatia and elected by the Sabor for a 4-year term; other Supreme Court justices appointed by the National Judicial Council; all judges serve until age 70<br>
 _subordinate courts_: Administrative Court; county, municipal, and specialized courts; note - there is an 11-member Constitutional Court with jurisdiction limited to constitutional issues but is outside of the judicial system<br>
 
@@ -627,7 +624,7 @@ _total subscriptions_: 4,375,699 (2020 est.)<br>
 _subscriptions per 100 inhabitants_: 107 (2020 est.)<br>
 
 **Telecommunication systems**<br>
-_general assessment_: Croatia&rsquo;s telecom market is dominated by the incumbent telco Hrvatski Telekom and the local units of United Group and Telekom Austria, there is effective competition from a number of smaller operators; the regulator has helped promote competition via measures encouraging network access, as well as regional licensing; this has been seen most recently with two 5G licenses having been reserved for regional rather than national operations; the mobile market is served by three MNOs, supplemented by a number of MVNOs; the network operators have focused on improving ARPU by encouraging prepaid subscribers to migrate to postpaid plans, and on developing revenue from mobile data services; 5G services are widely available, though the sector will only show its full potential later in 2021 following the award of licenses in several bands; this will contribute towards the government&rsquo;s national broadband plan to 2027, which is tied to the EC&rsquo;s two allied projects aimed at providing gigabit connectivity by the end of 2025; the broadband sector benefits from effective competition between the DSL and cable platforms, while there are also numerous fiber deployments in urban areas; the number of FttP subscribers broached 134,000 in March 2021. (2021)<br>
+_general assessment_: the mobile market is served by three MNOs, supplemented by a number of MVNOs; the network operators have focused on improving ARPU by encouraging prepaid subscribers to migrate to postpaid plans, and on developing revenue from mobile data services; 5G services are widely available, though the sector will only show its full potential later in 2021 following the award of licenses in several bands; this will contribute towards the government&rsquo;s national broadband plan to 2027, which is tied to the EC&rsquo;s two allied projects aimed at providing gigabit connectivity by the end of 2025; the broadband sector benefits from effective competition between the DSL and cable platforms, while there are also numerous fiber deployments in urban areas; the number of FttP subscribers broached 134,000 in March 2021. (2021)<br>
 _domestic_: fixed-line teledensity has dropped somewhat to about 32 per 100 persons; mobile-cellular telephone subscriptions are about 107 per 100 (2020)<br>
 _international_: country code - 385; &nbsp;the ADRIA-1 submarine cable provides connectivity to Albania and Greece;&nbsp;digital international service is provided through the main switch in Zagreb; Croatia participates in the Trans-Asia-Europe fiber-optic project, which consists of 2 fiber-optic trunk connections with Slovenia and a fiber-optic trunk line from Rijeka to Split and Dubrovnik (2019)<br>
 <strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress toward 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>
@@ -735,9 +732,9 @@ Croatia joined NATO in 2009<br>
 <p>dispute remains with Bosnia and Herzegovina over several small sections of the boundary related to maritime access that hinders ratification of the 1999 border agreement; since the breakup of Yugoslavia in the early 1990s, Croatia and Slovenia have each claimed sovereignty over Piranski Bay and four villages, and Slovenia has objected to Croatia's claim of an exclusive economic zone in the Adriatic Sea; in 2009, however Croatia and Slovenia signed a binding international arbitration agreement to define their disputed land and maritime borders, which led to Slovenia lifting its objections to Croatia joining the EU; Slovenia continues to impose a hard border Schengen regime with Croatia, which joined the EU in 2013 but has not yet fulfilled Schengen requirements</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 18,619 (Ukraine) (as of 11 October 2022)<br>
+_refugees (country of origin)_: 18,400 (Ukraine) (as of 18 October 2022)<br>
 _stateless persons_: 2,910 (mid-year 2021)<br>
-<strong>note: </strong>748,975 estimated refugee and migrant arrivals (January 2015-August 2022)<br>
+<strong>note: </strong>759,830 estimated refugee and migrant arrivals (January 2015-September 2022)<br>
 
 **Illicit drugs**<br>
 <p>drug trafficking groups are major players in the procurement and transportation of large quantities of cocaine destined for European markets</p> <p> </p><br>

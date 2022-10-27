@@ -78,9 +78,6 @@ droughts; floods; earthquakes; landslides; hailstorms<br>
 **Geography - note**<br>
 landlocked; fertile, well-watered country with many lakes and rivers; Lake Victoria, the world's largest tropical lake and the second largest fresh water lake, is shared among three countries: Kenya, Tanzania, and Uganda<br>
 
-**Map description**<br>
-<p>Uganda map showing major population centers as well as parts of surrounding countries and Lake Victoria.</p><br>
-
 ## People and Society
 
 **Population**<br>
@@ -154,7 +151,7 @@ _total population_: 0.95 male(s)/female (2022 est.)<br>
 
 **Mother's mean age at first birth**<br>
 19.4 years (2016 est.)<br>
-<strong>note:</strong> median age at first birth among women 20-49<br>
+<strong>note:</strong> data represents median age at first birth among women 20-49<br>
 
 **Maternal mortality ratio**<br>
 375 deaths/100,000 live births (2017 est.)<br>
@@ -384,7 +381,7 @@ _elections_: last held on 14 January 2021 (next to be held in February 2026)<br>
 _election results_: percent of vote by party - NA; seats by party - NRM 336, NUP 57, FDC 32, DP 9, UPDF 10, UPC 9, independent 76 (excludes 27 ex-officio members)<br>
 
 **Judicial branch**<br>
-_highest courts_: Supreme Court of Uganda (consists of the chief justice and at least 6 justices)<br>
+_highest court(s)_: Supreme Court of Uganda (consists of the chief justice and at least 6 justices)<br>
 _judge selection and term of office_: justices appointed by the president of the republic in consultation with the Judicial Service Commission, an 8-member independent advisory body, and approved by the National Assembly; justices serve until mandatory retirement at age 70<br>
 _subordinate courts_: Court of Appeal (also acts as the Constitutional Court); High Court (includes 12 High Court Circuits and 8 High Court Divisions); Industrial Court; Chief Magistrate Grade One and Grade Two Courts throughout the country; qadhis courts; local council courts; family and children courts<br>
 
@@ -646,7 +643,7 @@ _subscriptions per 100 inhabitants_: 57.37 (2019)<br>
 _general assessment_: a series of reforms within Uganda&rsquo;s telecom sector have provided the country with one of the most competitive markets in the region; the entry of MTN Uganda as the second national operator to compete with Uganda Telecom in all telecom sectors fundamentally improved the availability and quality of services offered to end-users; regulatory reforms in recent years have meant that Lycamobile Uganda and Airtel Uganda also now hold National Telecommunications Operator licenses; in line with the regulator&rsquo;s licensing requirements by which Uganda-based companies should be broadly owned by Ugandans by mid-2022, MTN Group carried out a partial listing on the Uganda Stock Exchange in December 2021; Airtel is expected to follow suit later in 2022; a simplified and converged licensing regime has significantly reduced barriers to market entry and increased competition, but this has also led to price wars which have dented operator revenue; heightened competitive pressures against the backdrop of a weak consumer profile have worsened operating conditions, prompting the exit of Africell in 2021 while the financially strained Smile Telecom has pinned its hopes on a restructuring plan aimed at stabilizing in the challenging market; fixed-line infrastructure remains poor, with low penetration, and as a result fixed-line broadband penetration is also particularly low; consumers have largely depended on mobile infrastructure to provide voice and broadband services; there is sufficient capacity with LTE infrastructure to match data demand during the next few years; MTN Uganda has anticipated the migration to 5G, having held trials in early 2020 though the roll out of 5G is not expected until later in 2022. (2022)<br>
 _domestic_: fixed-line less than 1 per 100 and mobile cellular systems teledensity about 61 per 100 persons; intercity traffic by wire, microwave radio relay, and radiotelephone communication stations (2020)<br>
 _international_: country code - 256; satellite earth stations - 1 Intelsat (Atlantic Ocean) and 1 Inmarsat; analog and digital links to Kenya and Tanzania<br>
-<strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress towards 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>
+<strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress toward 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>
 
 **Broadcast media**<br>
 public broadcaster, Uganda Broadcasting Corporation (UBC), operates radio and TV networks; 31 Free-To-Air (FTA) TV stations, 2 digital terrestrial TV stations, 3 cable TV stations, and 5 digital satellite TV stations; 258 operational FM stations<br>

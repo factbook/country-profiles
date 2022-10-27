@@ -76,9 +76,6 @@ dry, sand-laden harmattan winds blow from the Sahara (December to February); san
 **Geography - note**<br>
 rainfall along the coast can reach 495 cm (195 inches) a year, making it one of the wettest places along coastal, western Africa<br>
 
-**Map description**<br>
-<p>Sierra Leone map showing major population centers as well as parts of surrounding countries and the North Atlantic Ocean.</p><br>
-
 ## People and Society
 
 **Population**<br>
@@ -151,7 +148,7 @@ _total population_: 0.98 male(s)/female (2022 est.)<br>
 
 **Mother's mean age at first birth**<br>
 19.6 years (2019 est.)<br>
-<strong>note:</strong> median age at first birth among women 20-49<br>
+<strong>note:</strong> data represents median age at first birth among women 20-49<br>
 
 **Maternal mortality ratio**<br>
 1,120 deaths/100,000 live births (2017 est.)<br>
@@ -369,7 +366,7 @@ _elections_: last held on 7 March 2018 (next to be held in March 2023)<br>
 _election results_: percent of vote by party - n/a; seats by party - APC 68, SLPP 49, C4C 8, other 7; composition - men 128, women 18, percent of women 12.3%<br>
 
 **Judicial branch**<br>
-_highest courts_: Superior Court of Judicature (consists of the Supreme Court - at the apex - with the chief justice and 4 other judges, the Court of Appeal with the chief justice and 7 other judges, and the High Court of Justice with the chief justice and 9 other judges); note &ndash; the Judicature has jurisdiction in all civil, criminal, and constitutional matters<br>
+_highest court(s)_: Superior Court of Judicature (consists of the Supreme Court - at the apex - with the chief justice and 4 other judges, the Court of Appeal with the chief justice and 7 other judges, and the High Court of Justice with the chief justice and 9 other judges); note &ndash; the Judicature has jurisdiction in all civil, criminal, and constitutional matters<br>
 _judge selection and term of office_: Supreme Court chief justice and other judges of the Judicature appointed by the president on the advice of the Judicial and Legal Service Commission, a 7-member independent body of judges, presidential appointees, and the Commission chairman, and are subject to approval by Parliament; all Judicature judges serve until retirement at age 65<br>
 _subordinate courts_: magistrates' courts; District Appeals Court; local courts<br>
 
@@ -617,7 +614,7 @@ _subscriptions per 100 inhabitants_: 86 (2020 est.)<br>
 _general assessment_: the telecom sector has only gradually recovered from the destruction caused during the war years, and only since 2019 has there been an effective terrestrial fiber backbone infrastructure, while the cable link to neighboring Guinea was not completed until February 2020; there is considerable available capacity from the ACE submarine cable and the national fiber network, but this is used inefficiently and so the price of internet connectivity remains one of the highest in the region; the theft of equipment and cabling, compounded by neglect, mismanagement, and under investment, means that telcos continue to operate in difficult conditions; this has led to the demise of some telcos, including Comium and Smart Mobile; the telecom regulator has made efforts to improve the market, including the liberalization of the international gateway and regular checks on QoS; the regulator reduced the price floor for mobile voice calls in early 2020, though consumers objected to the MNOs withdrawing a number of cheap packages as a response; the mobile sector has been the main driver of overall telecom revenue; there continues to be movement in the market, with Orange Group in mid-2016 having completed its acquisition of Bharti Airtel&rsquo;s local unit and the Gambian telco QCell being awarded a license to operate mobile services. (2022)<br>
 _domestic_: fixed-line 0 per 100 and mobile-cellular just over 86 per 100 (2020)<br>
 _international_: country code - 232; landing point for the ACE submarine cable linking to South Africa, over 20 western African countries and Europe; satellite earth station - 1 Intelsat (Atlantic Ocean) (2019)<br>
-<strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress towards 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>
+<strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress toward 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>
 
 **Broadcast media**<br>
 <p>1 government-owned TV station; 3 private TV stations; a pay-TV service began operations in late 2007; 1 government-owned national radio station; about two-dozen private radio stations primarily clustered in major cities; transmissions of several international broadcasters are available </p> (2019)<br>

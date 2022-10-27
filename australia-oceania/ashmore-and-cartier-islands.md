@@ -62,9 +62,6 @@ surrounded by shoals and reefs that can pose maritime hazards<br>
 **Geography - note**<br>
 Ashmore Reef National Nature Reserve established in August 1983; Cartier Island Marine Reserve established in 2000<br>
 
-**Map description**<br>
-<p>Ashmore and Cartier Islands map showing the islands and reefs that make up this Australian territory in the Indian Ocean.</p><br>
-
 ## People and Society
 
 **Population**<br>

@@ -62,9 +62,6 @@ occasional droughts; no streams or large bodies of water on the peninsula (all p
 **Geography - note**<br>
 <p><strong>note 1:</strong> strategic location on Strait of Gibraltar that links the North Atlantic Ocean and Mediterranean Sea</p> <p><strong>note 2:</strong> one of only two British territories where traffic drives on the right, the other being the island of Diego Garcia in the British Indian Ocean Territory</p><br>
 
-**Map description**<br>
-<p>Gibraltar map showing major populated areas and significant features on this UK peninsular territory that projects into the Mediterranean Sea.</p><br>
-
 ## People and Society
 
 **Population**<br>
@@ -264,7 +261,7 @@ _elections_: last held on 17 October 2019 (next to be held in 2023)<br>
 _election results_: percent of vote by party - GSLP-Liberal Alliance 58.8% (GSLP 41.2%, LPG 17.6%), GSD 35.3%, TG 5.8%, independent 1.4%; seats by party - GSLP-Liberal Alliance 10 (GSLP 7, LPG 3), GSD 6, TG 1; composition including Parliament speaker - men 16, women 2, percent of women 11.1%<br>
 
 **Judicial branch**<br>
-_highest courts_: Court of Appeal (consists of at least 3 judges, including the court president); Supreme Court of Gibraltar (consists of the chief justice and 3 judges); note - appeals beyond the Court of Appeal are heard by the Judicial Committee of the Privy Council (in London)<br>
+_highest court(s)_: Court of Appeal (consists of at least 3 judges, including the court president); Supreme Court of Gibraltar (consists of the chief justice and 3 judges); note - appeals beyond the Court of Appeal are heard by the Judicial Committee of the Privy Council (in London)<br>
 _judge selection and term of office_: Court of Appeal and Supreme Court judges appointed by the governor upon the advice of the Judicial Service Commission, a 7-member body of judges and appointees of the governor; tenure of the Court of Appeal president based on terms of appointment; Supreme Court chief justice and judges normally appointed until retirement at age 67 but tenure can be extended 3 years<br>
 _subordinate courts_: Court of First Instance; Magistrates' Court; specialized tribunals for issues relating to social security, taxes, and employment<br>
 

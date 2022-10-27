@@ -83,9 +83,6 @@ urban clusters are spread throughout the country, particularly in the northeast 
 **Geography - note**<br>
 <p><strong>note 1:</strong> second largest country in Africa (after Algeria) and largest country in Sub-Saharan Africa; straddles the equator; dense tropical rain forest in central river basin and eastern highlands; the narrow strip of land that controls the lower Congo River is the DRC's only outlet to the South Atlantic Ocean</p> <p><strong>note 2:</strong> because of its speed, cataracts, rapids, and turbulence the Congo River, most of which flows through the DRC, has never been accurately measured along much of its length; nonetheless, it is conceded to be the deepest river in the world; estimates of its greatest depth vary between 220 and 250 meters</p><br>
 
-**Map description**<br>
-<p>Democratic Republic of the Congo map showing major cities as well as parts of surrounding countries and the South Atlantic Ocean.</p> <p> </p><br>
-
 ## People and Society
 
 **Population**<br>
@@ -160,7 +157,7 @@ _total population_: 1 male(s)/female (2022 est.)<br>
 
 **Mother's mean age at first birth**<br>
 19.9 years (2013/14 est.)<br>
-<strong>note:</strong> median age at first birth among women 20-49<br>
+<strong>note:</strong> data represents median age at first birth among women 20-49<br>
 
 **Maternal mortality ratio**<br>
 473 deaths/100,000 live births (2017 est.)<br>
@@ -395,7 +392,7 @@ _elections_: Senate - last held on 14 March 2019<br>National Assembly - last hel
 _election results_: Senate - percent of vote by party - NA; seats by party - PPRD 22, MLC 14, FR 7, RCD 7, PDC 6, CDC 3, MSR 3, PALU 2, other 18, independent 26; composition as of 2022 - men 83, women 26, percent of women 23.9%<br>National Assembly - percent of vote by party - NA; seats by party - PPRD 62, UDPS 41, PPPD 29, MSR 27, MLC 22, PALU 19, UNC 17, ARC 16, AFDC 15, ECT 11, RRC 11, other 214 (includes numerous political parties that won 10 or fewer seats and 2 constituencies where voting was halted), independent 16; composition as of 2022 - men 436, women 64, percent of women  12.8%; total Parliament percent of women 14.8%<br>
 
 **Judicial branch**<br>
-_highest courts_: Court of Cassation or Cour de Cassation (consists of 26 justices and organized into legislative and judiciary sections); Constitutional Court (consists of 9 judges)<br>
+_highest court(s)_: Court of Cassation or Cour de Cassation (consists of 26 justices and organized into legislative and judiciary sections); Constitutional Court (consists of 9 judges)<br>
 _judge selection and term of office_: Court of Cassation judges nominated by the Judicial Service Council, an independent body of public prosecutors and selected judges of the lower courts; judge tenure NA; Constitutional Court judges - 3 nominated by the president, 3 by the Judicial Service Council, and 3 by the legislature; judges appointed by the president to serve 9-year non-renewable terms with one-third of the membership renewed every 3 years<br>
 _subordinate courts_: State Security Court; Court of Appeals (organized into administrative and judiciary sections); Tribunal de Grande; magistrates' courts; customary courts<br>
 
@@ -646,7 +643,7 @@ _total subscriptions_: 40,798,396 (2020 est.)<br>
 _subscriptions per 100 inhabitants_: 46 (2020 est.)<br>
 
 **Telecommunication systems**<br>
-_general assessment_: the telecom system remains one of the least developed in the region; the government can only loosely regulate the sector, and since the national telco SCPT has little capital to invest, much of the investment made in infrastructure is derived from donor countries or from the efforts of foreign (particularly Chinese) companies and banks; efforts have been made to improve the regulation of the telecom sector; the limited fixed-line infrastructure has become the principal providers of basic telecom services; the development of the DRC&rsquo;s internet and broadband market has been held back by the poorly developed national and international infrastructure; the country was finally connected to international bandwidth through the WACS submarine cable in 2013, while SCPT continues to roll out a fiber national backbone network with support from China; breakages in the WACS cable have exposed the vulnerability of international bandwidth, which is still limited; Liquid Intelligence Technologies has built a landing station for the Equiano submarine cable, and has also completed a 5,000km cable running through the DRC to link to cable systems landing in countries facing the Atlantic and Indian Oceans; the first commercial LTE networks were launched in May 2018 soon after LTE licenses were issued; mobile operators are keen to develop mobile data services, capitalizing on the growth of smartphones usage; there has been some progress with updating technologies, with Vodacom DRC having upgraded much of its GSM network to 3G by late 2021. (2022)<br>
+_general assessment_: the telecom system remains one of the least developed in the region; the government can only loosely regulate the sector; the investment made in infrastructure is derived from donor countries or from the efforts of foreign (particularly Chinese) companies and banks; efforts have been made to improve the regulation of the telecom sector; the limited fixed-line infrastructure has become the principal providers of basic telecom services; the development of the DRC&rsquo;s internet and broadband market has been held back by the poorly developed national and international infrastructure; the country was finally connected to international bandwidth through the WACS submarine cable in 2013; breakages in the WACS cable have exposed the vulnerability of international bandwidth, which is still limited; the Equiano submarine cable, and has also completed a 5,000km cable running through the DRC to link to cable systems landing in countries facing the Atlantic and Indian Oceans; the first commercial LTE networks were launched in May 2018 soon after LTE licenses were issued; mobile operators are keen to develop mobile data services, capitalizing on the growth of smartphones usage; there has been some progress with updating technologies (2022)<br>
 _domestic_: inadequate fixed-line infrastructure with fixed-line connections less than 1 per 100 persons; mobile-cellular subscriptions over 45 per 100 persons (2019)<br>
 _international_: country code - 243; ACE and WACS submarine cables to West and South Africa and&nbsp;Europe;&nbsp;satellite earth station - 1 Intelsat (Atlantic Ocean) (2019)<br>
 <strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress toward 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>
@@ -760,7 +757,7 @@ Islamic State of Iraq and ash-Sham – Democratic Republic of the Congo (ISIS-DR
 <p>heads of the Great Lakes states and UN pledged in 2004 to abate tribal, rebel, and militia fighting in the region, including northeast Congo, where the UN Organization Mission in the Democratic Republic of the Congo (MONUC), organized in 1999, maintains over 16,500 uniformed peacekeepers<br><br><em>Democratic Republic of Congo(DRC)-Republic of the Congo: </em>the location of the boundary in the broad Congo River is indefinite except in the Pool Malebo/Stanley Pool area<br><br><em>Democratic Republic of Congo(DRC)-Uganda:</em> Uganda rejects the DRC claim to Margherita Peak in the Rwenzori mountains and considers it a boundary divide; there is tension and violence on Lake Albert over prospective oil reserves at the mouth of the Semliki River<br><br><em>Democratic Republic of Congo(DRC)-Zambia: </em>boundary commission continues discussions over Congolese-administered triangle of land on the right bank of the Lunkinda River claimed by Zambia near the DRC village of Pweto<br><br><em>Democratic Republic of Congo(DRC)-Angola: </em>DRC accuses Angola of shifting monuments</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 211,953 (Central African Republic), 209,761 (Rwanda), 55,285 (South Sudan) (refugees and asylum seekers), 40,808 (Burundi) (2022)<br>
+_refugees (country of origin)_: 212,120 (Central African Republic), 209,761 (Rwanda), 56,653 (South Sudan) (refugees and asylum seekers), 41,836 (Burundi) (2022)<br>
 _IDPs_: 5.53 million (fighting between government forces and rebels since mid-1990s; conflict in Kasai region since 2016) (2022)<br>
 
 **Trafficking in persons**<br>

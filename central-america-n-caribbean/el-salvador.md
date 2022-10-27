@@ -72,9 +72,6 @@ athough it is the smallest country in land area in Central America, El Salvador 
 **Geography - note**<br>
 smallest Central American country and only one without a coastline on the Caribbean Sea<br>
 
-**Map description**<br>
-<p>El Salvador map showing major cities as well as parts of surrounding countries and the North Pacific Ocean.</p><br>
-
 ## People and Society
 
 **Population**<br>
@@ -148,7 +145,7 @@ _total population_: 0.92 male(s)/female (2022 est.)<br>
 
 **Mother's mean age at first birth**<br>
 20.8 years (2008 est.)<br>
-<strong>note:</strong> median age at first birth among women 25-29<br>
+<strong>note:</strong> data represents median age at first birth among women 25-29<br>
 
 **Maternal mortality ratio**<br>
 46 deaths/100,000 live births (2017 est.)<br>
@@ -355,7 +352,7 @@ _elections_: last held on 28 February 2021 (next to be held in 2024)<br>
 _election results_: percent of vote by party - NI 66.46%, ARENA 12.18%, FMLN 6.91%, GANA 5.29%, PCN 4.08%, NT 1.7%, PDC 1.7%, V 1.01%; seats by party - NI 56, ARENA 14, GANA 5, FMLN 4, PCN 2, PDC 1, NT 1, V 1; composition - men 61, women 23, percent of women 27.4%<br>
 
 **Judicial branch**<br>
-_highest courts_: Supreme Court or Corte Suprema de Justicia (consists of 15 judges, including its president, and 15 substitute judges organized into Constitutional, Civil, Penal, and Administrative Conflict Chambers)<br>
+_highest court(s)_: Supreme Court or Corte Suprema de Justicia (consists of 15 judges, including its president, and 15 substitute judges organized into Constitutional, Civil, Penal, and Administrative Conflict Chambers)<br>
 _judge selection and term of office_: judges elected by the Legislative Assembly on the recommendation of both the National Council of the Judicature, an independent body elected by the Legislative Assembly, and the Bar Association; judges elected for 9-year terms, with renewal of one-third of membership every 3 years; consecutive reelection is allowed<br>
 _subordinate courts_: Appellate Courts; Courts of First Instance; Courts of Peace<br>
 
@@ -613,7 +610,7 @@ _total subscriptions_: 9.949 million (2020 est.)<br>
 _subscriptions per 100 inhabitants_: 153 (2020 est.)<br>
 
 **Telecommunication systems**<br>
-_general assessment_: El Salvador is the smallest country in central America geographically, it has the fourth largest economy in the region; the country&rsquo;s telecom sector has been restricted by poor infrastructure and unequal income distribution; there have been organizational delays which have slowed the development of telecom services; El Salvador&rsquo;s fixed-line teledensity is substantially lower than the Latin American and Caribbean average; there has been a significant drop in the number of fixed lines since 2010, particularly in 2017, largely due to the substitution for mobile-only alternatives; about 94% of all telephony lines in the country are on mobile networks; mobile subscriptions are remarkably high considering El Salvador&rsquo;s economic indicators, being about a third higher than average for Latin America and the Caribbean; the country was one of the last in the region to provide LTE services, mainly due to the inadequate provision of suitable spectrum; the multi-spectrum auction conducted at the end of 2019 has allowed MNOs to improve the reach and quality of their service offerings; El Salvador&rsquo;s telecom legislation is one of the more liberal in Latin America, encouraging competition in most areas and permitting foreign investment; there are no regulations which promote wholesale broadband, and thus in the DSL market leader Claro retains a virtual monopoly; the only effective cross-platform competition in the broadband market comes from the few cable operators; there has been some market consolidation in recent years, including Telem&oacute;vil&rsquo;s acquisition of the regional cable TV provider Caribena Cable; in May 2019, the competition authority began assessing the sale of Telef&oacute;nica El Salvador to Am&eacute;rica M&oacute;vil, which operates in the country under the Claro brand; Telef&oacute;nica sold the unit in October 2021, though at a considerably reduced price. (2021)<br>
+_general assessment_: El Salvador is the smallest country in central America geographically, it has the fourth largest economy in the region; the country&rsquo;s telecom sector has been restricted by poor infrastructure and unequal income distribution; there have been organizational delays which have slowed the development of telecom services; El Salvador&rsquo;s fixed-line teledensity is substantially lower than the Latin American and Caribbean average; there has been a significant drop in the number of fixed lines since 2010, particularly in 2017, largely due to the substitution for mobile-only alternatives; about 94% of all telephony lines in the country are on mobile networks; mobile subscriptions are remarkably high considering El Salvador&rsquo;s economic indicators, being about a third higher than average for Latin America and the Caribbean; the country was one of the last in the region to provide LTE services, mainly due to the inadequate provision of suitable spectrum; the multi-spectrum auction conducted at the end of 2019 has allowed MNOs to improve the reach and quality of their service offerings; El Salvador&rsquo;s telecom legislation is one of the more liberal in Latin America, encouraging competition in most areas and permitting foreign investment; there are no regulations which promote wholesale broadband; the only effective cross-platform competition in the broadband market comes from the few cable operators; there has been some market consolidation in recent years (2021)<br>
 _domestic_: fixed-line services, roughly 14 per 100, has slowed in the face of mobile-cellular competition now at 161 subscribers per 100 inhabitants (2019)<br>
 _international_: country code - 503; satellite earth station - 1 Intelsat (Atlantic Ocean); connected to Central American Microwave System (2019)<br>
 <!-- x-tinymce/html --><strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress toward 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>

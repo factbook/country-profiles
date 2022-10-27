@@ -66,9 +66,6 @@ largest concentration on the island is Willemstad; smaller settlements near the 
 **Geography - note**<br>
 <p>Curacao is a part of the Windward Islands (southern) group in the Lesser Antilles</p><br>
 
-**Map description**<br>
-<p>Curacao map showing the island country in the Caribbean Sea.</p><br>
-
 ## People and Society
 
 **Population**<br>
@@ -282,7 +279,7 @@ _elections_: last held on 19 March 2021 (next to be held in 2025)<br>
 _election results_: percent of vote by party - MFK 28.1%, PAR 14.1%, PNP 12.6%, MAN 6.5%, KEM 5.4%, TPK 5.3%; seats by party - MFK 9, PAR 4, PNP 4, MAN 2, KEM 1, TPK 1; composition - NA<br>
 
 **Judicial branch**<br>
-_highest courts_: Joint Court of Justice of Aruba, Curacao, Sint Maarten, and of Bonaire, Sint Eustatius and Saba or "Joint Court of Justice" (sits as a 3-judge panel); final appeals heard by the Supreme Court, in The Hague, Netherlands<br>
+_highest court(s)_: Joint Court of Justice of Aruba, Curacao, Sint Maarten, and of Bonaire, Sint Eustatius and Saba or "Joint Court of Justice" (sits as a 3-judge panel); final appeals heard by the Supreme Court, in The Hague, Netherlands<br>
 _judge selection and term of office_: Joint Court judges appointed by the monarch for life<br>
 _subordinate courts_: first instance courts, appeals court; specialized courts<br>
 

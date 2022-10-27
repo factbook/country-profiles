@@ -70,9 +70,6 @@ hurricanes (July to November)<br>
 **Geography - note**<br>
 important location between Cuba and Central America<br>
 
-**Map description**<br>
-<p>Cayman Islands map showing the islands that comprise the UK territory in the Caribbean Sea.</p><br>
-
 ## People and Society
 
 **Population**<br>
@@ -288,7 +285,7 @@ _elections_: last held on 14 April 2021 (next to be held on 2025)<br>
 _election results_: percent of vote by party - independent 79.1%, PPM 19.6%; seats by party - independent 12, PPM 7; composition of elected members - men 15, women 4, percent of women 21.1%; ex-officio members - men 2<br>
 
 **Judicial branch**<br>
-_highest courts_: Court of Appeal (consists of the court president and at least 2 judges); Grand Court (consists of the court president and at least 2 judges); note - appeals beyond the Court of Appeal are heard by the Judicial Committee of the Privy Council (in London)<br>
+_highest court(s)_: Court of Appeal (consists of the court president and at least 2 judges); Grand Court (consists of the court president and at least 2 judges); note - appeals beyond the Court of Appeal are heard by the Judicial Committee of the Privy Council (in London)<br>
 _judge selection and term of office_: Court of Appeal and Grand Court judges appointed by the governor on the advice of the Judicial and Legal Services Commission, an 8-member independent body consisting of governor appointees, Court of Appeal president, and attorneys; Court of Appeal judges' tenure based on their individual instruments of appointment; Grand Court judges normally appointed until retirement at age 65 but can be extended until age 70<br>
 _subordinate courts_: Summary Court<br>
 
@@ -509,7 +506,7 @@ _total subscriptions_: 100,000 (2020 est.)<br>
 _subscriptions per 100 inhabitants_: 152 (2020 est.)<br>
 
 **Telecommunication systems**<br>
-_general assessment_: the telecom sector has seen a decline in subscriber numbers (particularly for prepaid mobile services the mainstay of short term visitors) and revenue; fixed and mobile broadband services are two areas that have benefited from the crisis as employees and students have resorted to working from home; one major casualty may be the region&rsquo;s second largest telco operator, Digicel; the company filed for bankruptcy in the US in April 2020; it continues to operate in all of its Caribbean markets as it seeks to refinance billions of dollars of debt; the other major telco, regional incumbent Cable &amp; Wireless Communications (CWC), is experiencing similar drops in subscriber numbers and revenue; CWC is expanding and enhancing its fixed and mobile networks in many of the countries it serves around the Caribbean, despite many locations being small islands with very small populations; one area of the telecom market that is not prepared for growth is 5G mobile; governments, regulators, and even the mobile network operators have shown that they have not been investing in 5G opportunities at the present time; network expansion and enhancements remain concentrated around improving LTE coverage. (2021)<br>
+_general assessment_: the telecom sector has seen a decline in subscriber numbers (particularly for prepaid mobile services the mainstay of short term visitors) and revenue; fixed and mobile broadband services are two areas that have benefited from the crisis as employees and students have resorted to working from home; one area of the telecom market that is not prepared for growth is 5G mobile; governments, regulators, and even the mobile network operators have shown that they have not been investing in 5G opportunities at the present time; network expansion and enhancements remain concentrated around improving LTE coverage (2021)<br>
 _domestic_: introduction of competition in the mobile-cellular market in 2004 boosted subscriptions; nearly 55 per 100 fixed-line and 153 per 100 mobile-cellular (2019)<br>
 _international_: country code - 1-345; landing points for the Maya-1, Deep Blue Cable, and the Cayman-Jamaica Fiber System submarine cables that provide links to the US and parts of Central and South America; satellite earth station - 1 Intelsat (Atlantic Ocean) (2019)<br>
 <strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress toward 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>

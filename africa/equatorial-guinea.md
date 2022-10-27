@@ -71,9 +71,6 @@ only two large cities over 30,000 people (Bata on the mainland, and the capital 
 **Geography - note**<br>
 insular and continental regions widely separated; despite its name, no part of the Equator passes through Equatorial Guinea; the mainland part of the country is located just north of the Equator<br>
 
-**Map description**<br>
-<p>Equatorial Guinea map showing major cities and towns as well as parts of surrounding countries and the Gulf of Guinea.</p><br>
-
 ## People and Society
 
 **Population**<br>
@@ -335,7 +332,7 @@ _elections_: Senate - last held on 12 November 2017 (next to be held in 2022/202
 _election results_: Senate - percent of vote by party - NA; elected seats by party - PDGE and aligned coalition 70; composition (including 2 ex-officio) - men 60, women 12, percent of women 16.7%<br><br>Chamber of Deputies - percent of vote by party - NA; seats by party - PDGE 99, CI 1; composition - men 78, women 22, percent of women 22%; note - total National Assembly percent of women 18.8%<br>
 
 **Judicial branch**<br>
-_highest courts_: Supreme Court of Justice (consists of the chief justice - who is also chief of state - and 9 judges&nbsp; organized into civil, criminal, commercial, labor, administrative, and customary sections); Constitutional Court (consists of the court president and 4 members)<br>
+_highest court(s)_: Supreme Court of Justice (consists of the chief justice - who is also chief of state - and 9 judges&nbsp; organized into civil, criminal, commercial, labor, administrative, and customary sections); Constitutional Court (consists of the court president and 4 members)<br>
 _judge selection and term of office_: Supreme Court judges appointed by the president for 5-year terms; Constitutional Court members appointed by the president, 2 of whom are nominated by the Chamber of Deputies; note - judges subject to dismissal by the president at any time<br>
 _subordinate courts_: Court of Guarantees; military courts; Courts of Appeal; first instance tribunals; district and county tribunals<br>
 

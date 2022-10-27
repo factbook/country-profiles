@@ -76,9 +76,6 @@ landslides<br>
 **Geography - note**<br>
 landlocked; well endowed with various sedimentary rocks and minerals including sand, gravel, gypsum, and limestone<br>
 
-**Map description**<br>
-<p>Moldova map showing major cities as well as parts of surrounding countries.</p><br>
-
 ## People and Society
 
 **Population**<br>
@@ -356,7 +353,7 @@ _elections_: <p>last held on 11 July 2021 (next scheduled in July 2025)</p><br>
 _election results_: <p>percent of vote by party - PAS 52.8%, BECS (PSRM+PCRM) 27.1%, SHOR 5.7%; seats by party - PAS 63, BECS 32, SHOR 6; composition as of July 2022 - men 60, women 41, percent of women 40.6%</p><br>
 
 **Judicial branch**<br>
-_highest courts_: Supreme Court of Justice (consists of the chief judge, 3 deputy-chief judges, 45 judges, and 7 assistant judges); Constitutional Court (consists of the court president and 6 judges); note - the Constitutional Court is autonomous to the other branches of government; the Court interprets the Constitution and reviews the constitutionality of parliamentary laws and decisions, decrees of the president, and acts of the government<br>
+_highest court(s)_: Supreme Court of Justice (consists of the chief judge, 3 deputy-chief judges, 45 judges, and 7 assistant judges); Constitutional Court (consists of the court president and 6 judges); note - the Constitutional Court is autonomous to the other branches of government; the Court interprets the Constitution and reviews the constitutionality of parliamentary laws and decisions, decrees of the president, and acts of the government<br>
 _judge selection and term of office_: Supreme Court of Justice judges appointed by the president upon the recommendation of the Superior Council of Magistracy, an 11-member body of judicial officials; all judges serve 4-year renewable terms; Constitutional Court judges appointed 2 each by Parliament, the president, and the Higher Council of Magistracy for 6-year terms; court president elected by other court judges for a 3-year term<br>
 _subordinate courts_: Courts of Appeal; Court of Business Audit; municipal courts<br>
 
@@ -367,7 +364,7 @@ _subordinate courts_: Courts of Appeal; Court of Business Audit; municipal court
 BSEC, CD, CE, CEI, CIS, EAEU (observer), EAPC, EBRD, FAO, GCTU, GUAM, IAEA, IBRD, ICAO, ICC (NGOs), ICCt, ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ISO (correspondent), ITU, ITUC (NGOs), MIGA, OIF, OPCW, OSCE, PFP, SELEC, UN, UNCTAD, UNESCO, UNHCR, UNIDO, Union Latina, UNMIL, UNMISS, UNOCI, UNWTO, UPU, WCO, WHO, WIPO, WMO, WTO<br>
 
 **Diplomatic representation in the US**<br>
-_chief of mission_: Ambassador Eugen CARAS (since 17 July 2020)<br>
+_chief of mission_: Ambassador (vacant); Charge d'Affaires Carolina PEREBINOS (since 27 July 2022)<br>
 _chancery_: 2101 S Street NW, Washington, DC 20008<br>
 _telephone_: [1] (202) 667-1130<br>
 _FAX_: [1] (202) 667-2624<br>
@@ -615,7 +612,7 @@ _subscriptions per 100 inhabitants_: 85 (2020 est.)<br>
 _general assessment_: the telecom market has been affected by a combination of high unemployment and economic difficulties which have led to constraints on consumer spending; this has resulted in telecom revenue having fallen steadily in recent years; this decline continued into 2020, with a 6.3% in revenue from the important mobile sector alone, year-on-year; Moldova&rsquo;s aspirations to join the EU have encouraged the government and regulator to adopt a range of measures to bring the country&rsquo;s telecoms sector into line with EU principles and standards; in July 2017 the Electronic Communications Act was amended to accommodate the 2009 European regulatory framework, while further amendments were adopted in December 2017 and additional changes were proposed in 2019; Moldova is also part of the Eastern Partnership group of countries, and as such has set in train a glide path to reducing roaming charges, effective between 2022 and 2026; the country&rsquo;s broadband strategy through to 2025 has been supported by the ITU and industry counterparts from Korea; the internet market is developing rapidly, and though the penetration rate is well below the average for most European countries there are many opportunities for further development; the market is highly competitive, with 101 active ISPs as of early 2021, though Moldtelecom and Starnet between them account for most connections; the number of cable broadband subscribers is increasing steadily, though fiber is now by far the strongest sector; by the end of 2020 fiber accounted for about 72.3% of all fixed broadband connections; the mobile market has also grown rapidly, and the sector accounts for the majority of total telecoms revenue; the trio poly of operators is dominated by Orange Moldova, while the launch of LTE services has opened up a new revenue growth opportunity centered on mobile broadband; the near comprehensive geographical reach of their mobile networks, market brand recognition and existing customer relationships will make for steady subscriber growth in coming years. (2022)<br>
 _domestic_: competition among mobile telephone providers has spurred subscriptions; little interest in expanding fixed-line service which is roughly 25 per 100; mobile-cellular teledensity nearly 85 per 100 persons (2020)<br>
 _international_: country code - 373; service through Romania and Russia via landline; satellite earth stations - at least 3 - Intelsat, Eutelsat, and Intersputnik<br>
-<strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress towards 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>
+<strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress toward 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>
 
 **Broadcast media**<br>
 state-owned national radio-TV broadcaster operates 1 TV and 1 radio station; a total of nearly 70 terrestrial TV channels and some 50 radio stations are in operation; Russian and Romanian channels also are available (2019)<br>
@@ -708,7 +705,7 @@ Moldova is constitutionally neutral, but has maintained a relationship with NATO
 <p><em>Moldova-Romania</em>: none identified</p> <p><em>Moldova-Ukraine</em>: Ukraine and Moldova signed an agreement officially delimiting their border in 1999, but the border has not been demarcated due to Moldova's difficulties with the break-away region of Transnistria; Moldova and Ukraine operate joint customs posts to monitor the transit of people and commodities through Moldova's break-away Transnistria region, which remains under the auspices of an Organization for Security and Cooperation in Europe-mandated peacekeeping mission comprised of Moldovan, Transnistrian, Russian, and Ukrainian troops</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 94,252 (Ukraine) (as of 11 October 2022)<br>
+_refugees (country of origin)_: 94,535 (Ukraine) (as of 17 October 2022)<br>
 _stateless persons_: 3,372 (mid-year 2021)<br>
 
 **Illicit drugs**<br>

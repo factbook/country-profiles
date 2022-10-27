@@ -79,9 +79,6 @@ landslides; avalanches; earthquakes<br>
 **Geography - note**<br>
 note 1: landlocked; strategic location at the crossroads of central Europe with many easily traversable Alpine passes and valleys; major river is the Danube; population is concentrated on eastern lowlands because of steep slopes, poor soils, and low temperatures elsewhere<br><br>note 2: the world's largest and longest ice cave system at 42 km (26 mi) is the Eisriesenwelt (Ice Giants World) inside the Hochkogel mountain near Werfen, about 40 km south of Salzburg; ice caves are bedrock caves that contain year-round ice formations; they differ from glacial caves, which are transient and are formed by melting ice and flowing water within and under glaciers<br>
 
-**Map description**<br>
-<p>Austria map showing major cities as well as parts of surrounding countries.</p><br>
-
 ## People and Society
 
 **Population**<br>
@@ -350,7 +347,7 @@ _residency requirement for naturalization_: 10 years<br>
 16 years of age; universal<br>
 
 **Executive branch**<br>
-_chief of state_: President Alexander VAN DER BELLEN (since 26 January 2017)<br>
+_chief of state_: President Alexander VAN DER BELLEN (since 26 January 2017); note - President Alexander VAN DER BELLEN was re-elected to a second six year term on 9 October 2022<br>
 _head of government_: Chancellor Karl NEHAMMER (since 6 December 2021); note - Chancellor Alexander SCHALLENBERG resigned on 2 December 2021<br>
 _cabinet_: Council of Ministers chosen by the president on the advice of the chancellor<br>
 _elections/appointments_: president directly elected by absolute majority popular vote in 2 rounds if needed for a 6-year term (eligible for a second term); elections last held on 24 April 2016 (first round), 22 May 2016 (second round, which was annulled), and 4 December 2016 (second round re-vote) (next election to be held on 9 October 2022); chancellor appointed by the president but determined by the majority coalition parties in the Federal Assembly; vice chancellor appointed by the president on the advice of the chancellor<br>
@@ -362,7 +359,7 @@ _elections_: <br>Federal Council - last appointed in 2021<br>National Council - 
 _election results_: <br>Federal Council - percent of vote by party - OeVP 42.6%, SPOe 31.2%. FPOe 16.4%, The Greens 8.2%, NEOS 1.6%; seats by party - OeVP 26, SPOe 19, FPOe 10, The Greens 5, NEOS 1; composition (as of March 2022) - men 36, women 25, percent of women 41% <br>National Council - percent of vote by party - OeVP 37.5%, SPOe 21.2%, FPOe 16.2%, The Greens 13.9%, NEOS 8.1%, other 3.1%; seats by party - OeVP 71, SPOe 40, FPOe 31, The Greens 26,  NEOS 15; composition (as of March 2022) - men 107, women 76, percent of women 41.5%<br>
 
 **Judicial branch**<br>
-_highest courts_: Supreme Court of Justice or Oberster Gerichtshof (consists of 85 judges organized into 17 senates or panels of 5 judges each); Constitutional Court or Verfassungsgerichtshof (consists of 20 judges including 6 substitutes; Administrative Court or Verwaltungsgerichtshof - 2 judges plus other members depending on the importance of the case)<br>
+_highest court(s)_: Supreme Court of Justice or Oberster Gerichtshof (consists of 85 judges organized into 17 senates or panels of 5 judges each); Constitutional Court or Verfassungsgerichtshof (consists of 20 judges including 6 substitutes; Administrative Court or Verwaltungsgerichtshof - 2 judges plus other members depending on the importance of the case)<br>
 _judge selection and term of office_: Supreme Court judges nominated by executive branch departments and appointed by the president; judges serve for life; Constitutional Court judges nominated by several executive branch departments and approved by the president; judges serve for life; Administrative Court judges recommended by executive branch departments and appointed by the president; terms of judges and members determined by the president<br>
 _subordinate courts_: Courts of Appeal (4); Regional Courts (20); district courts (120); county courts<br>
 
@@ -621,7 +618,7 @@ _total subscriptions_: 10,717,445 (2020 est.)<br>
 _subscriptions per 100 inhabitants_: 119 (2020 est.)<br>
 
 **Telecommunication systems**<br>
-_general assessment_: mature telecom market, dominated by Telekom Austria, Magenta Telekom (formed from the merger of T-Mobile Austria and the cableco UPC Austria), and 3 Austria; the mobile market benefits from a growing number of Mobile Virtual Network Operators; the telcos as well as the government and regulator have been focused on delivering improved telecom infrastructure; the government has a program to provide a national gigabit service by 2030, delivered by private enterprise though with some state funding; this is based on fiber networks supported by 5G, with the Mobile Network Operators able to expand the reach of their 5G services following auctions held in March 2019 and September 2020; the fixed-line broadband market is still dominated by the DSL sector, while the cable broadband sector has held a steady share of connections in recent years; the fiber sector was slow to develop, and although fiber remains low there are plans to build out the network infrastructure; by February 2021, A1 Telekom&rsquo;s fibre network reached more than 2.3 million premises; Magenta Telekom continues to invest in DOCSIS3.1 technology, and by mid-2021 about a third of premises (some 1.4 million) nationally could access the company&rsquo;s gigabit service. (2021)<br>
+_general assessment_: mature telecom market; the mobile market benefits from a growing number of Mobile Virtual Network Operators; the telcos as well as the government and regulator have been focused on delivering improved telecom infrastructure; the government has a program to provide a national gigabit service by 2030, delivered by private enterprise though with some state funding; this is based on fiber networks supported by 5G, with the Mobile Network Operators able to expand the reach of their 5G services following auctions held in March 2019 and September 2020; the fixed-line broadband market is still dominated by the DSL sector, while the cable broadband sector has held a steady share of connections in recent years; the fiber sector was slow to develop, and although fiber remains low there are plans to build out the network infrastructure (2021)<br>
 _domestic_: developed and efficient; 42 per 100 fixed-line for households, 174 per 100 for companies; roughly 119 per 100 mobile-cellular; broadband: 138 per 100 on smartphones; roughly 29 per 100 fixed broadband and 107 per 100 mobile broadband (2020)<br>
 _international_: country code - 43; earth stations available in the Astra, Intelsat, Eutelsat satellite systems (2019)<br>
 <strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress toward 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>
@@ -735,7 +732,7 @@ Islamic State of Iraq and ash-Sham (ISIS)<br>
 <p>none identified</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 57,887 (Syria), 41,037 (Afghanistan), 9,661 (Iraq), 8,212 (Somalia), 7,046 (Iran), 7,003 (Russia) (mid-year 2021); 83,684 (Ukraine) (as of 10 October 2022)<br>
+_refugees (country of origin)_: 57,887 (Syria), 41,037 (Afghanistan), 9,661 (Iraq), 8,212 (Somalia), 7,046 (Iran), 7,003 (Russia) (mid-year 2021); 84,076 (Ukraine) (as of 18 October 2022)<br>
 _stateless persons_: 3,229 (mid-year 2021)<br>
 
 **Illicit drugs**<br>

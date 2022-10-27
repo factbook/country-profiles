@@ -66,9 +66,6 @@ occasional tropical cyclones (especially November to March), but generally only 
 **Geography - note**<br>
 Britain's most isolated dependency; only the larger island of Pitcairn is inhabited but it has no port or natural harbor; supplies must be transported by rowed longboat from larger ships stationed offshore<br>
 
-**Map description**<br>
-<p>Pitcairn Islands map showing the scattered islands in the South Pacific Ocean and an inset of Pitcairn Island itself.</p><br>
-
 ## People and Society
 
 **Population**<br>
@@ -255,7 +252,7 @@ _elections_: last held on 6 November 2019 (next scheduled election - NA)<br>
 _election results_: percent of vote - NA; seats - 5 independent; composition - men 4, women 6, percent of women 60%<br>
 
 **Judicial branch**<br>
-_highest courts_: Pitcairn Court of Appeal (consists of the court president, 2 judges, and the Supreme Court chief justice, an ex-officio member); Pitcairn Supreme Court (consists of the chief justice and 2 judges); note - appeals beyond the Pitcairn Court of Appeal are referred to the Judicial Committee of the Privy Council (in London)<br>
+_highest court(s)_: Pitcairn Court of Appeal (consists of the court president, 2 judges, and the Supreme Court chief justice, an ex-officio member); Pitcairn Supreme Court (consists of the chief justice and 2 judges); note - appeals beyond the Pitcairn Court of Appeal are referred to the Judicial Committee of the Privy Council (in London)<br>
 _judge selection and term of office_: all judges of both courts appointed by the governor of the Pitcairn Islands on the instructions of the Queen of England through the Secretary of State; all judges can serve until retirement, normally at age 75<br>
 _subordinate courts_: Magistrate's Court<br>
 
@@ -338,7 +335,7 @@ _Currency_: New Zealand dollars (NZD) per US dollar -<br>
 _general assessment_: satellite-based phone services; rural connectivity a challenge; 2G services widespread; demand for mobile broadband due to mobile services providing Internet source; the launch of the Kacific-1 satellite in 2019 will improve telecommunications in the region (2020)<br>
 _domestic_: local phone service with international connections via Internet (2018)<br>
 _international_: country code - 872; satellite earth station - 1 Inmarsat<br>
-<strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress towards 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>
+<strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress toward 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>
 
 **Broadcast media**<br>
 satellite TV from Fiji-based Sky Pacific offering a wide range of international channels<br>

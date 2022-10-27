@@ -74,9 +74,6 @@ hot, dry, dusty harmattan haze may reduce visibility during dry season; brush fi
 **Geography - note**<br>
 this small country is swampy along its western coast and low-lying inland<br>
 
-**Map description**<br>
-<p>Guinea-Bissau map showing major cities as well as parts of surrounding countries and the North Atlantic Ocean.</p><br>
-
 ## People and Society
 
 **Population**<br>
@@ -354,7 +351,7 @@ _elections_: note: President dissolved parliament on 16 May 2022 and decreed new
 _election results_: percent of vote by party - PAIGC 35.2%, Madem G-15 21.1%, PRS 21.1%, other 22.6%; seats by party - PAIGC 47, Madem G-15 27, PRS 21, other 7; composition - men 88, women 14, percent of women 13.7%<br>
 
 **Judicial branch**<br>
-_highest courts_: Supreme Court or Supremo Tribunal de Justica (consists of 9 judges and organized into Civil, Criminal, and Social and Administrative Disputes Chambers); note - the Supreme Court has both appellate and constitutional jurisdiction<br>
+_highest court(s)_: Supreme Court or Supremo Tribunal de Justica (consists of 9 judges and organized into Civil, Criminal, and Social and Administrative Disputes Chambers); note - the Supreme Court has both appellate and constitutional jurisdiction<br>
 _judge selection and term of office_: judges nominated by the Higher Council of the Magistrate, a major government organ responsible for judge appointments, dismissals, and judiciary discipline; judges appointed by the president for life<br>
 _subordinate courts_: Appeals Court; regional (first instance) courts; military court<br>
 

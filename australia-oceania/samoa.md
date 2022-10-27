@@ -70,9 +70,6 @@ about three-quarters of the population lives on the island of Upolu<br>
 **Geography - note**<br>
 occupies an almost central position within Polynesia<br>
 
-**Map description**<br>
-<p>Samoa map showing the islands that comprise this archipelagic country in the South Pacific Ocean.</p><br>
-
 ## People and Society
 
 **Population**<br>
@@ -140,10 +137,6 @@ _25-54 years_: 1.05 male(s)/female<br>
 _55-64 years_: 1.05 male(s)/female<br>
 _65 years and over_: 0.61 male(s)/female<br>
 _total population_: 1.03 male(s)/female (2022 est.)<br>
-
-**Mother's mean age at first birth**<br>
-23.6 years (2009 est.)<br>
-<strong>note:</strong> median age at first birth among women 25-29<br>
 
 **Maternal mortality ratio**<br>
 43 deaths/100,000 live births (2017 est.)<br>
@@ -345,7 +338,7 @@ _elections_: election last held on 9 April 2021 (next election to be held in 202
 _election results_: percent of vote by party - HRPP 55%, FAST 37%, TSP 3%, independents 5%; seats by party – FAST 30, HRPP 22, independents 1; composition - men 47, women 6, percent of women 11.3% <br>note - on 29 November 2021, the Election Commissioner added two women seats to parliament, bringing the HRPP’s total from 20 to 22 seats<br>
 
 **Judicial branch**<br>
-_highest courts_: Court of Appeal (consists of the chief justice and 2 Supreme Court judges and meets once or twice a year); Supreme Court (consists of the chief justice and several judges)<br>
+_highest court(s)_: Court of Appeal (consists of the chief justice and 2 Supreme Court judges and meets once or twice a year); Supreme Court (consists of the chief justice and several judges)<br>
 _judge selection and term of office_: chief justice appointed by the chief of state upon the advice of the prime minister; other Supreme Court judges appointed by the Judicial Service Commission, a 3-member body chaired by the chief justice and includes the attorney general and an appointee of the Minister of Justice; judges normally serve until retirement at age 68<br>
 _subordinate courts_: District Court; Magistrates' Courts; Land and Titles Courts; village fono or village chief councils<br>
 
@@ -592,7 +585,7 @@ _subscriptions per 100 inhabitants_: 35 (2020 est.)<br>
 _general assessment_: Samoa was one of the first Pacific Island countries to establish a regulatory infrastructure and to liberalize its telecom market; in 2006, it became the first country in the region to see the market entrance of Digicel, which has since launched services in other Pacific nations; the advent of competition in the mobile market saw prices fall by around 50% and network coverage increase to more than 90% of the population; Samoa also boasts one of the highest rates of mobile phone coverage in the Pacific region; LTE is developing on the back of an initial launch of the technology in 2016 by Digicel Samoa, followed by BlueSky Samoa (now Vodafone Samoa) in 2017;&nbsp; Digicel Samoa completed its LTE network in September 2020; the growth of fixed-line internet has been impeded by factors including the high costs for bandwidth, under investment in fixed-line infrastructure, as well as a strained consumer profile weighing on demand for services; Digicel Samoa&rsquo;s financially troubled parent company, Digicel Pacific, had been on the lookout for a potential buyer for several months as it struggled financially; after various Chinese firms registered interest in taking a stake, the Australian government sought to block further Chinese investment in the region by providing financial support for a local buyer; in October 2021, Telstra agreed to acquire Digicel Group&rsquo;s Pacific operations for around $1.6 billion, with a financial input from the Australian government of around $1.33 billion, Samoa&rsquo;s telecoms sector has been inhibited by a lack of international connectivity; Samoa has had access to the Samoa-America-Samoa (SAS) cable laid in 2009, this cable has insufficient capacity to meet the country&rsquo;s future bandwidth needs; this issue was addressed with two new submarine cables that became available in 2018 and 2019; combined with the Samoa National Broadband Highway (SNBH), have improved internet data rates and reliability, and have helped to reduce the high costs previously associated with internet access in Samoa; in April 2022, the Samoan government announced its decision to take over control of the Samoa Submarine Cable Company, looking to the cable to generate additional revenue for the state. (2022)<br>
 _domestic_: fixed-line roughly 4 per 100 and mobile-cellular teledensity nearly 64 telephones per 100 persons (2019)<br>
 _international_: country code - 685; landing points for the Tui-Samo, Manatua, SAS, and Southern Cross NEXT submarine cables providing connectivity to Samoa, Fiji,&nbsp;Wallis&nbsp;&amp; Futuna, Cook Islands, Niue, French Polynesia, American Samoa, Australia, New Zealand, Kiribati, Los Angeles (US), and Tokelau;&nbsp;satellite earth station - 1 Intelsat (Pacific Ocean) (2019)<br>
-<strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress towards 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>
+<strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress toward 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>
 
 **Broadcast media**<br>
 state-owned TV station privatized in 2008; 4 privately owned television broadcast stations; about a half-dozen privately owned radio stations and one state-owned radio station; TV and radio broadcasts of several stations from American Samoa are available (2019)<br>

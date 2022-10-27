@@ -79,9 +79,6 @@ droughts<br>
 **Geography - note**<br>
 almost an enclave of Senegal; smallest country on the African mainland<br>
 
-**Map description**<br>
-<p>The Gambia map showing the country surrounded by Senegal except to the west where the Gambia River empties into the North Atlantic Ocean.</p><br>
-
 ## People and Society
 
 **Population**<br>
@@ -155,7 +152,7 @@ _total population_: 0.98 male(s)/female (2022 est.)<br>
 
 **Mother's mean age at first birth**<br>
 20.7 years (2019/20 est.)<br>
-<strong>note:</strong> median age at first birth among women 25-49<br>
+<strong>note:</strong> data represents median age at first birth among women 25-49<br>
 
 **Maternal mortality ratio**<br>
 597 deaths/100,000 live births (2017 est.)<br>
@@ -375,7 +372,7 @@ _elections_: last held on 9 April 2022 (next to be held in 2027)<br>
 _election results_: percent of vote by party - NPP 33.9%, UDP 28.3%, independent 22.6%, NRP 7.5%, PDOIS 3.7%, APRL 3.7%; seats by party - NPP 18, UDP 15, independent 12,NRP 4, APRL 2, PDOIS 2; composition - men 52, women 6, percent of women 10.3%<br>
 
 **Judicial branch**<br>
-_highest courts_: Supreme Court of The Gambia (consists of the chief justice and 6 justices; court sessions held with 5 justices)<br>
+_highest court(s)_: Supreme Court of The Gambia (consists of the chief justice and 6 justices; court sessions held with 5 justices)<br>
 _judge selection and term of office_: justices appointed by the president after consultation with the Judicial Service Commission, a 6-member independent body of high-level judicial officials, a presidential appointee, and a National Assembly appointee; justices appointed for life or until mandatory retirement at age 75<br>
 _subordinate courts_: Court of Appeal; High Court; Special Criminal Court; Khadis or Muslim courts; district tribunals; magistrates courts; cadi courts<br>
 
@@ -624,7 +621,7 @@ _total subscriptions_: 2,677,954 (2020 est.)<br>
 _subscriptions per 100 inhabitants_: 111 (2020 est.)<br>
 
 **Telecommunication systems**<br>
-_general assessment_: Gambia&rsquo;s telecom market is dominated by the incumbent telco Gamtel, which retains a monopoly on fixed-line telephony services; there are five mobile networks providing effective competition, though Giraffe Telecom was only licensed in January 2022 and has not yet been allocated a frequency; the market leader is Africell, with about 62% of the market, while Comium and QCell compete closely for second and third place; Gamtel&rsquo;s mobile unit Gamcel is by far the smallest network, having suffered from low investment in recent years; Comium has also suffered from financial difficulties: its failure to pay accumulated fees resulted in the government having sought a temporary suspension of its services in mid-2021; mobile subscriptions are well above the African average, itself a testament to the poor condition of the fixed-line infrastructure and the lack of availability of fixed services in many rural areas of the country; the incumbent has a relatively well-developed national fiber backbone network, low fixed-line subscriptions have hindered internet usage; there are only four licensed ISPs, which are small networks serving local areas, and so competition is minimal; their limited services are complemented by the fixed-wireless offerings of three of the MNOs; the government has embarked on a National Broadband Network program aimed at closing the digital divide affecting many parts of the country; Gamtel launched services based on this network in late 2019, though on a limited scale; despite efforts to improve internet connectivity, the country ranks among the lowest globally in terms of digital readiness. (2022)<br>
+_general assessment_: Gambia&rsquo;s telecom market has five mobile networks providing effective competition; mobile subscriptions are well above the African average, itself a testament to the poor condition of the fixed-line infrastructure and the lack of availability of fixed services in many rural areas of the country; there are only four licensed ISPs, which are small networks serving local areas, and so competition is minimal; their limited services are complemented by the fixed-wireless offerings of three of the MNOs; the government has embarked on a National Broadband Network program aimed at closing the digital divide affecting many parts of the country; despite efforts to improve internet connectivity, the country ranks among the lowest globally in terms of digital readiness. (2022)<br>
 _domestic_: fixed-line subscriptions nearly 2 per 100 with one dominant company and mobile-cellular teledensity nearly 111 per 100 persons (2020)<br>
 _international_: country code - 220; landing point for the ACE submarine cable to West Africa and Europe; microwave radio relay links to Senegal and Guinea-Bissau;&nbsp;satellite earth station - 1 Intelsat (Atlantic Ocean) (2019)<br>
 <strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress toward 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>

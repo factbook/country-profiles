@@ -62,9 +62,6 @@ the South Sandwich Islands have prevailing weather conditions that generally mak
 **Geography - note**<br>
 the north coast of South Georgia has several large bays, which provide good anchorage<br>
 
-**Map description**<br>
-<p>South Georgia and South Sandwich Islands map showing the islands that make up this UK territory in the South Atlantic Ocean.</p><br>
-
 ## People and Society
 
 **Population**<br>

@@ -73,9 +73,6 @@ hurricanes (especially July to November)<br>
 **Geography - note**<br>
 third largest island in the Caribbean (after Cuba and Hispaniola); strategic location between Cayman Trench and Jamaica Channel, the main sea lanes for the Panama Canal<br>
 
-**Map description**<br>
-<p>Jamaica map showing major population centers of this island nation in the Caribbean Sea.</p><br>
-
 ## People and Society
 
 **Population**<br>
@@ -145,7 +142,7 @@ _total population_: 0.98 male(s)/female (2022 est.)<br>
 
 **Mother's mean age at first birth**<br>
 21.2 years (2008 est.)<br>
-<strong>note:</strong> median age at first birth among women 25-29<br>
+<strong>note:</strong> data represents median age at first birth among women 25-29<br>
 
 **Maternal mortality ratio**<br>
 80 deaths/100,000 live births (2017 est.)<br>
@@ -340,7 +337,7 @@ _elections_: Senate - last full slate of appointments early on 3 September 2020 
 _election results_: Senate - percent by party - NA; seats by party - NA; composition (as of June 2021) - men 13, women 8, percent of women 38.1%<br>House of Representatives - percent of vote by party - JLP 57%, PNP 42.8%, independent 0.2%; seats by party - JLP 48, PNP 15; composition (as of June 2021) - men 45, women 18; percent of women 28.6%; note - total Parliament percent of women 31%<br>
 
 **Judicial branch**<br>
-_highest courts_: Court of Appeal (consists of president of the court and a minimum of 4 judges); Supreme Court (40 judges organized in specialized divisions); note - appeals beyond Jamaica's highest courts are referred to the Judicial Committee of the Privy Council (in London) rather than to the Caribbean Court of Justice (the appellate court for member states of the Caribbean Community)<br>
+_highest court(s)_: Court of Appeal (consists of president of the court and a minimum of 4 judges); Supreme Court (40 judges organized in specialized divisions); note - appeals beyond Jamaica's highest courts are referred to the Judicial Committee of the Privy Council (in London) rather than to the Caribbean Court of Justice (the appellate court for member states of the Caribbean Community)<br>
 _judge selection and term of office_: chief justice of the Supreme Court and president of the Court of Appeal appointed by the governor-general on the advice of the prime minister; other judges of both courts appointed by the governor-general on the advice of the Judicial Service Commission; judges of both courts serve till age 70<br>
 _subordinate courts_: resident magistrate courts, district courts, and petty sessions courts<br>
 
@@ -601,7 +598,7 @@ _subscriptions per 100 inhabitants_: 97 (2020 est.)<br>
 _general assessment_: Jamaica&rsquo;s telecom sector has for many years been propped up by the mobile sector, which accounts for the vast majority of internet connections and voice lines; it also accounts for just over half of telecom sector revenue; the merger between Digicel and Claro&rsquo;s Jamaican business in 2012 strengthened Digicel&rsquo;s position in the market, but in recent quarters Digicel Group&rsquo;s financial difficulties have caused it considerable problems; the Group has considered selling off its units in the Pacific region, while it has renegotiated a number of bonds to reduce its debt to about $5.8 billion; assets have been placed under the management of a newly created holding company; both Digicel and its only rival, Flow (supported by its new owner Liberty Global), have extended their LTE networks across the island, particularly during the pandemic in response to a sharp increase in data traffic; the 700MHz licensee Symbiote Investments, trading as Caricel Jamaica, had its license revoked at the end of 2018 due to breaches of the terms of the Telecommunications Act. The UK-based Privy Council in August 2020 refused Caricel&rsquo;s application for permission to appeal the revocation of its telecom licenses; to fill the gap in the market, a new operator, Rock Mobile, was licensed in May 2021, with obligations to provide 95% population coverage within two years; in December 2020, the government announced the rollout of a national broadband network costing up to $237 million; the funding will be spent on improving connectivity in under served areas, improving access to education, and deploying networks to public locations such as hospitals, municipal institutions, and police stations; to aid in this national broadband effort, the government received a donation of 650km of fiber cabling from local cable TV providers and the two main toll road operators; to encourage the use of digital channels as the country deals with the Covid-19 pandemic, companies such as Scotiabank have given their customers zero-rated data access to mobile banking applications, while Digicel Jamaica has subsidized data plans and zero-rated data access to some educational platforms and websites. (2021)<br>
 _domestic_: fixed-line subscriptions nearly 15 per 100, cellular-mobile roughly 97 per 100 subscriptions (2020)<br>
 _international_: country code - 1-876 and 1-658; landing points for the ALBA-1, CFX-1, Fibralink, East-West, and Cayman-Jamaican Fiber System submarine cables providing connections to South America, parts of the Caribbean, Central America and the US; satellite earth stations - 2 Intelsat (Atlantic Ocean) (2019)<br>
-<strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress towards 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>
+<strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress toward 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>
 
 **Broadcast media**<br>
 3 free-to-air TV stations, subscription cable services, and roughly 30 radio stations (2019)<br>

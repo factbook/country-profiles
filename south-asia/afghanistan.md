@@ -79,9 +79,6 @@ damaging earthquakes occur in Hindu Kush mountains; flooding; droughts<br>
 **Geography - note**<br>
 landlocked; the Hindu Kush mountains that run northeast to southwest divide the northern provinces from the rest of the country; the highest peaks are in the northern Vakhan (Wakhan Corridor)<br>
 
-**Map description**<br>
-<p>Afghanistan map showing major cities as well as parts of surrounding countries.</p><br>
-
 ## People and Society
 
 **Population**<br>
@@ -153,7 +150,7 @@ _total population_: 1.03 male(s)/female (2022 est.)<br>
 
 **Mother's mean age at first birth**<br>
 19.9 years (2015 est.)<br>
-<strong>note:</strong> median age at first birth among women 25-49<br>
+<strong>note:</strong> data represents median age at first birth among women 25-49<br>
 
 **Maternal mortality ratio**<br>
 638 deaths/100,000 live births (2017 est.)<br>
@@ -381,7 +378,7 @@ _elections_: before 15 August, 2021:&nbsp; House of Elders - district councils -
 _election results_: before 15 August 2021, House of Elders - percent of vote by party - NA; seats by party - NA; composition - men 85, women 17, percent of women 16.7%<br>before 15 August 2021, House of People - percent of vote by party NA; seats by party - NA; composition - men 179, women 69, percent of women 27.7%; note - total National Assembly percent of women 24.4%<br>
 
 **Judicial branch**<br>
-_highest courts_: the Taliban&rsquo;s so-called &ldquo;interim government&rdquo; has a &ldquo;Supreme Court&rdquo; (consisting of a supreme court chief and an unknown number of justices); before 15 August, 2021, Afghanistan had a Supreme Court (consisting of a supreme court chief and 8 justices organized into criminal, public security, civil, and commercial divisions)<br>
+_highest court(s)_: the Taliban&rsquo;s so-called &ldquo;interim government&rdquo; has a &ldquo;Supreme Court&rdquo; (consisting of a supreme court chief and an unknown number of justices); before 15 August, 2021, Afghanistan had a Supreme Court (consisting of a supreme court chief and 8 justices organized into criminal, public security, civil, and commercial divisions)<br>
 _judge selection and term of office_: the court chief and justices were appointed by the president with the approval of the Wolesi Jirga; court chief and justices served single 10-year terms<br>
 _subordinate courts_: before 15 August 2021, consisted of Appeals Courts; Primary Courts; and Special Courts for issues including narcotics, security, property, family, and juveniles<br>
 

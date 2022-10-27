@@ -71,9 +71,6 @@ lies outside the cyclone belt, so severe storms are rare; occasional short droug
 **Geography - note**<br>
 the smallest African country in terms of both area and population; the constitution of the Republic of Seychelles lists 155 islands: 42 granitic and 113 coralline; by far the largest island is Mahe, which is home to about 90% of the population and the site of the capital city of Victoria<br>
 
-**Map description**<br>
-<p>Seychelles map showing the major islands and atolls that comprise this country in the Indian Ocean.</p><br>
-
 ## People and Society
 
 **Population**<br>
@@ -336,7 +333,7 @@ _elections_: last held on 22-24 Oct 2020 (next to be held&nbsp;October 2025); no
 _election results_: percent of vote by party - LDS 54.8%, US 42.3% , other 2.9%; seats by party - LDS 25, US10; composition - men 27, women 8, percent of women 22.9%<br>
 
 **Judicial branch**<br>
-_highest courts_: Seychelles Court of Appeal (consists of the court president and 4 justices); Supreme Court of Seychelles (consists of the chief justice and 9 puisne judges); Constitutional Court (consists of 3 Supreme Court judges)<br>
+_highest court(s)_: Seychelles Court of Appeal (consists of the court president and 4 justices); Supreme Court of Seychelles (consists of the chief justice and 9 puisne judges); Constitutional Court (consists of 3 Supreme Court judges)<br>
 _judge selection and term of office_: all judges appointed by the president of the republic upon the recommendation of the Constitutional Appointments Authority, a 3-member body, with 1 member appointed by the president of the republic, 1 by the opposition leader in the National Assembly, and 1 by the other 2 appointees; judges serve until retirement at age 70<br>
 _subordinate courts_: Magistrates' Courts of Seychelles; Family Tribunal for issues such as domestic violence, child custody, and maintenance; Employment Tribunal for labor-related disputes<br>
 
@@ -588,7 +585,7 @@ _subscriptions per 100 inhabitants_: 187 (2020)<br>
 _general assessment_: effective system; direct international calls to over 100 countries; radiotelephone communications between islands in the archipelago; 3 ISPs; use of Internet cafes' for access to Internet; 4G services and 5G pending (2020)<br>
 _domestic_: fixed-line a little over 19 per 100 and mobile-cellular teledensity is nearly 187 telephones per 100 persons (2020)<br>
 _international_: country code - 248; landing points for the PEACE and the SEAS submarine cables&nbsp;providing connectivity to Europe, the Middle East, Africa and Asia; direct radiotelephone communications with adjacent island countries and African coastal countries; satellite earth station - 1 Intelsat (Indian Ocean) (2019)<br>
-<strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress towards 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>
+<strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress toward 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>
 
 **Broadcast media**<br>
 <p>the national broadcaster, Seychelles Broadcasting Corporation (SBC), which is funded by taxpayer money, operates the only terrestrial TV station, which provides local programming and airs broadcasts from international services; a privately owned Internet Protocol Television (IPTV) channel also provides local programming multi-channel cable and satellite TV are available through 2 providers; the national broadcaster operates 1 AM and 1 FM radio station; there are 2 privately operated radio stations; transmissions of 2 international broadcasters are accessible in Victoria</p> (2019)<br>

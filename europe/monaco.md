@@ -70,9 +70,6 @@ none<br>
 **Geography - note**<br>
 second-smallest independent state in the world (after the Holy See); smallest country with a coastline; almost entirely urban<br>
 
-**Map description**<br>
-<p>Monaco map identifies some of the major sites of the microstate surrounded by France and the Mediterranean Sea.</p><br>
-
 ## People and Society
 
 **Population**<br>
@@ -309,7 +306,7 @@ _elections_: last held on 11 February 2018 (next to be held on 28 February 2023)
 _election results_: percent of vote by party - Priorite Monaco 57.7%, Horizon Monaco 26.1%, Union Monegasque 16.2%; seats by party - Priorite Monaco 21, Horizon Monaco 2, Union Monegasque 1; composition - men 16, women 8, percent of women 33.3%<br>
 
 **Judicial branch**<br>
-_highest courts_: Supreme Court (consists of 5 permanent members and 2 substitutes)<br>
+_highest court(s)_: Supreme Court (consists of 5 permanent members and 2 substitutes)<br>
 _judge selection and term of office_: Supreme Court members appointed by the monarch upon the proposals of the National Council, State Council, Crown Council, Court of Appeal, and Trial Court<br>
 _subordinate courts_: Court of Appeal; Civil Court of First Instance<br>
 
@@ -472,7 +469,7 @@ _subscriptions per 100 inhabitants_: 90 (2020 est.)<br>
 _general assessment_: modern automatic telephone system; the country's sole fixed-line operator offers a full range of services to residential and business customers; competitive mobile telephony market; 4G LTE widely available (2020)<br>
 _domestic_: fixed-line a little over 111 per 100 and mobile-cellular teledensity exceeds 90 per 100 persons (2020)<br>
 _international_: country code - 377; landing points for the EIG and Italy-Monaco submarine cables connecting Monaco to Europe, Africa, the Middle East and Asia; no satellite earth stations; connected by cable into the French communications system (2019)<br>
-<strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress towards 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>
+<strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress toward 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>
 
 **Broadcast media**<br>
 TV Monte-Carlo operates a TV network; cable TV available; Radio Monte-Carlo has extensive radio networks in France and Italy with French-language broadcasts to France beginning in the 1960s and Italian-language broadcasts to Italy beginning in the 1970s; other radio stations include Riviera Radio and Radio Monaco<br>
@@ -505,7 +502,8 @@ _major seaport(s)_: Hercules Port<br>
 ## Military and Security
 
 **Military and security forces**<br>
-no regular military forces; Ministry of Interior: Compagnie des Carabiniers du Prince (Prince&rsquo;s Company of Carabiniers (Palace Guard)), Corps des Sapeurs-pompiers de Monaco (Fire and Emergency), Police Department (2022)<br>
+no regular military forces; Ministry of Interior: Compagnie des Carabiniers du Prince (Prince’s Company of Carabiniers), Corps des Sapeurs-pompiers de Monaco (Fire and Emergency), Police Department (2022)<br>
+<strong>note:</strong> the primary responsibility for the Compagnie des Carabiniers du Prince is guarding the palace<br>
 
 **Military - note**<br>
 defense is the responsibility of France<br>

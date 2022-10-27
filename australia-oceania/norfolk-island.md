@@ -70,9 +70,6 @@ tropical cyclones (especially May to July)<br>
 **Geography - note**<br>
 most of the 32 km coastline consists of almost inaccessible cliffs, but the land slopes down to the sea in one small southern area on Sydney Bay, where the capital of Kingston is situated<br>
 
-**Map description**<br>
-<p>Norfolk Island map shows a few population centers on this island in the South Pacific Ocean.</p><br>
-
 ## People and Society
 
 **Population**<br>
@@ -250,7 +247,7 @@ _election results_: seats by party - independent 5; composition - men 4, women 1
 <strong>note:</strong> following an administrative restructuring of local government, the Legislative Assembly was dissolved on 18 June 2015 and replaced by an interim Norfolk Island Advisory Council effective 1 July 2015; the Advisory Council consisted of 5 members appointed by the Norfolk Island administrator based on nominations from the community; following elections on 28 May 2016, the new Norfolk Island Regional Council (NIRC) commenced operations on 1 July 2016; on 20 December 2020 the NIRC was suspended for three months following a public audit and this suspension was extended on 3 February 2021 for an additional three months pending the outcome of a public inquiry; the council election previously scheduled for 13 March 2021 has been postponed 12 months<br>
 
 **Judicial branch**<br>
-_highest courts_: Supreme Court of Norfolk Island (consists of the chief justice and several justices); note - appeals beyond the Supreme Court of Norfolk Island are heard by the Federal Court and the High Court of Australia<br>
+_highest court(s)_: Supreme Court of Norfolk Island (consists of the chief justice and several justices); note - appeals beyond the Supreme Court of Norfolk Island are heard by the Federal Court and the High Court of Australia<br>
 _judge selection and term of office_: justices appointed by the governor general of Australia from among justices of the Federal Court of Australia; justices serve until mandatory retirement at age 70<br>
 _subordinate courts_: Petty Court of Sessions; specialized courts, including a Coroner's Court and the Employment Tribunal<br>
 
@@ -276,7 +273,7 @@ Norfolk Island pine<br>
 **National anthem**<br>
 _name_: "Come Ye Blessed"<br>
 _lyrics/music_: New Testament/John Prindle SCOTT<br>
-<strong>note:</strong> the local anthem, whose lyrics consist of the words from Matthew 25:34-36, 40, is also known as "The Pitcairn Anthem;" the island does not recognize "Advance Australia Fair" (which other Australian territories use); instead "God Save the Queen" is official (see United Kingdom)<br>
+<strong>note:</strong> the local anthem, whose lyrics consist of the words from Matthew 25:34-36, 40, is also known as "The Pitcairn Anthem;" the island does not recognize "Advance Australia Fair" (which other Australian territories use); instead "God Save the King" is official (see United Kingdom)<br>
 
 ## Economy
 
@@ -342,7 +339,7 @@ _Currency_: Australian dollars (AUD) per US dollar -<br>
 _general assessment_: adequate, 4G mobile telecommunication network (2020)<br>
 _domestic_: free local calls<br>
 _international_: country code - 672; submarine cable links with Australia and New Zealand; satellite earth station - 1<br>
-<strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress towards 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>
+<strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress toward 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>
 
 **Broadcast media**<br>
 1 local radio station; broadcasts of several Australian radio and TV stations available via satellite (2009)<br>

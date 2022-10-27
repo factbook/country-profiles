@@ -53,9 +53,6 @@ icebergs common in Davis Strait, Denmark Strait, and the northwestern Atlantic O
 **Geography - note**<br>
 major chokepoints include the Dardanelles, Strait of Gibraltar, access to the Panama and Suez Canals; strategic straits include the Strait of Dover, Straits of Florida, Mona Passage, The Sound (Oresund), and Windward Passage; the Equator divides the Atlantic Ocean into the North Atlantic Ocean and South Atlantic Ocean<br>
 
-**Map description**<br>
-<p>Atlantic Ocean map highlights the Ocean in relation to surrounding continents and shows the major chokepoints.</p><br>
-
 ## Environment
 
 **Environment - current issues**<br>

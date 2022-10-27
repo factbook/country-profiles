@@ -69,9 +69,6 @@ frequent squalls during rainy season; relatively rare but potentially destructiv
 **Geography - note**<br>
 largest and southernmost island in the Mariana Islands archipelago and the largest island in Micronesia; strategic location in western North Pacific Ocean<br>
 
-**Map description**<br>
-<p>Guam map showing the island and its major population centers in the North Pacific Ocean.</p><br>
-
 ## People and Society
 
 **Population**<br>
@@ -287,7 +284,7 @@ _elections_: Guam Legislature - last held on 3 November 2020 (next to be held on
 _election results_: Guam Legislature - percent of vote by party - NA; seats by party - Democratic Party 10, Republican Party 5; composition - men 5, women 10, percent of women 66.7%<br>Guam delegate to the US House of Representatives - Democratic Party 1 (man)<br>
 
 **Judicial branch**<br>
-_highest courts_: Supreme Court of Guam (consists of 3 justices); note - appeals beyond the Supreme Court of Guam are referred to the US Supreme Court<br>
+_highest court(s)_: Supreme Court of Guam (consists of 3 justices); note - appeals beyond the Supreme Court of Guam are referred to the US Supreme Court<br>
 _judge selection and term of office_: justices appointed by the governor and confirmed by the Guam legislature; justices appointed for life subject to retention election every 10 years<br>
 _subordinate courts_: Superior Court of Guam - includes several divisions; US Federal District Court for the District of Guam (a US territorial court; appeals beyond this court are heard before the US Court of Appeals for the Ninth Circuit)<br>
 
@@ -504,7 +501,7 @@ _total subscriptions_: 98,000 (2009 est.)<br>
 _subscriptions per 100 inhabitants_: 62 (2009 est.)<br>
 
 **Telecommunication systems**<br>
-_general assessment_: Guam&rsquo;s telecommunications companies provide important services that allow other businesses on island to operate; Guam plays a larger, and growing role, in global telecommunications infrastructure, the submarine fiber optic cables that land on Guam benefit island residents and the local economy; in the Asia-Pacific region the demand for 4G, 5G, and broadband access is rapidly increasing; Echo and Bifrost will support further growth for hundreds of millions of people and millions of businesses; the 11 submarine cables that currently land on Guam, connecting the U.S. to the Asia-Pacific region, are some of the more than 400 cables that are the backbone of global telecommunications, providing nearly all of the world&rsquo;s internet and phone service. (2021)<br>
+_general assessment_: Guam&rsquo;s telecommunications companies provide important services that allow other businesses on island to operate; Guam plays a larger, and growing role, in global telecommunications infrastructure, the submarine fiber optic cables that land on Guam benefit island residents and the local economy; in the Asia-Pacific region the demand for 4G, 5G, and broadband access is rapidly increasing; the 11 submarine cables that currently land on Guam, connecting the U.S. to the Asia-Pacific region, are some of the more than 400 cables that are the backbone of global telecommunications, providing nearly all of the world&rsquo;s internet and phone service (2021)<br>
 _domestic_: three major companies provide both fixed-line and mobile services, as well as access to the Internet; fixed-line subscriptions in 2018 were 42 per 100 and 62 per 100 mobile-cellular subscriptions in 2004 (2019)<br>
 _international_: country code - 1-671; major landing points for Atisa, HANTRU1, HK-G, JGA-N, JGA-S, PIPE-1, SEA-US, SxS, Tata TGN-Pacific, AJC, GOKI, AAG, AJC and Mariana-Guam Cable submarine cables between Asia, Australia, and the US (Guam is a transpacific communications hub for major carriers linking the US and Asia); satellite earth stations - 2 Intelsat (Pacific Ocean) (2019)<br>
 <strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress toward 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>

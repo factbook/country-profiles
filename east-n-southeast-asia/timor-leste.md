@@ -71,9 +71,6 @@ floods and landslides are common; earthquakes; tsunamis; tropical cyclones<br>
 **Geography - note**<br>
 Timor comes from the Malay word for "east"; the island of Timor is part of the Malay Archipelago and is the largest and easternmost of the Lesser Sunda Islands; the district of Oecussi is an exclave separated from Timor-Leste proper by Indonesia; Timor-Leste has the unique distinction of being the only Asian country located completely in the Southern Hemisphere<br>
 
-**Map description**<br>
-<p>Timor Leste map showing the major population centers of this country on the eastern end of the island of Timor in the Timor Sea.</p><br>
-
 ## People and Society
 
 **Population**<br>
@@ -147,7 +144,7 @@ _total population_: 1 male(s)/female (2022 est.)<br>
 
 **Mother's mean age at first birth**<br>
 23 years (2016 est.)<br>
-<strong>note:</strong> median age at first birth among women 25-49<br>
+<strong>note:</strong> data represents median age at first birth among women 25-49<br>
 
 **Maternal mortality ratio**<br>
 142 deaths/100,000 live births (2017 est.)<br>
@@ -356,7 +353,7 @@ _elections_: last held on 12 May 2018 (next to be held in July 2023)<br>
 _election results_: percent of vote by party - AMP - 49.6%, FRETILIN 34.2%, PD 8.1%, DDF 5.5%, other 2.6%; seats by party - AMP 34, FRETILIN 23, PD 5, DDF 3; composition - men 39, women 26, percent of women 40%<br>
 
 **Judicial branch**<br>
-_highest courts_: Court of Appeals (consists of the court president and NA judges)<br>
+_highest court(s)_: Court of Appeals (consists of the court president and NA judges)<br>
 _judge selection and term of office_: court president appointed by the president of the republic from among the other court judges to serve a 4-year term; other court judges appointed - 1 by the Parliament and the others by the Supreme Council for the Judiciary, a body chaired by the court president and that includes mostly presidential and parliamentary appointees; other judges serve for life<br>
 _subordinate courts_: Court of Appeal; High Administrative, Tax, and Audit Court; district courts; magistrates' courts; military courts<br>
 <strong>note:</strong> the UN Justice System Programme, launched in 2003 and being rolled out in 4 phases through 2018, is helping strengthen the country's justice system; the Programme is aligned with the country's long-range Justice Sector Strategic Plan, which includes legal reforms<br>
@@ -605,7 +602,7 @@ _subscriptions per 100 inhabitants_: 110.22 (2019)<br>
 _general assessment_: Timor-Leste has been moving forward with the regeneration of its economy and rebuilding key infrastructure, including telecommunications networks, that were destroyed during the years of civil unrest; fixed-line and fixed broadband penetration in Timor-Leste remains extremely low, mainly due to the limited fixed-line infrastructure and the proliferation of mobile connectivity; in an effort to boost e-government services, in 2018 the government contracted Timor Telecom to build a national terrestrial fiber network; the project, completed in 2019, has helped boost fixed broadband subscriber growth and will continue to do so over the next few years; the number of subscribers through to 2026 is expected to develop steadily, though from a low base; by August 2020, Timor-Leste had three telecom service providers who jointly achieved a 98% network coverage nationally; all three major mobile operators - Timor Telecom, Telkomcel and Telemor - launched LTE services during 2019; Timor-Leste has seen a rapid increase in mobile broadband penetration over the last few years, driven by a rising proportion of mobile subscribers having smartphones; the mobile broadband market is still at an early stage of development, strong growth is predicted over the next five years; at the end of 2020, the government issued new policy guidelines to maximize the use of spectrum in Timor-Leste; it invited mobile operators to submit applications for the allocation of spectrum in the 1800MHz, 2300MHz and 2600MHz bands; in November 2020, the government approved the deployment of a submarine fiber link connecting the south of the country to Australia via the North Western Cable System (NWCS). (2021)<br>
 _domestic_: system suffered significant damage during the violence associated with independence; limited fixed-line services, less than 1 per 100 and mobile-cellular services are now available in urban and most rural areas with teledensity of over 104 per 100 (2020)<br>
 _international_: country code - 670; &nbsp;international service is available; partnership with Australia telecom companies for potential deployment of a submarine fiber-optic link (NWCS);&nbsp;geostationary earth orbit satellite<br>
-<strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress towards 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>
+<strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress toward 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>
 
 **Broadcast media**<br>
 7 TV stations (3 nationwide satellite coverage;&nbsp;2 terrestrial coverage, mostly in Dili; 2 cable) and 21 radio stations (3 nationwide coverage) (2019)<br>

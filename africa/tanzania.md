@@ -82,9 +82,6 @@ the largest and most populous East African country; population distribution is e
 **Geography - note**<br>
 Kilimanjaro is the highest point in Africa and one of only three mountain ranges on the continent that has glaciers (the others are Mount Kenya [in Kenya] and the Ruwenzori Mountains [on the Uganda-Democratic Republic of the Congo border]); Tanzania is bordered by three of the largest lakes on the continent: Lake Victoria (the world's second-largest freshwater lake) in the north, Lake Tanganyika (the world's second deepest) in the west, and Lake Nyasa (Lake Malawi) in the southwest<br>
 
-**Map description**<br>
-<p>Tanzania map showing major cities as well as parts of surrounding countries and the Indian Ocean.</p><br>
-
 ## People and Society
 
 **Population**<br>
@@ -160,7 +157,7 @@ _total population_: 1 male(s)/female (2022 est.)<br>
 
 **Mother's mean age at first birth**<br>
 19.8 years (2015/16 est.)<br>
-<strong>note:</strong> median age at first birth among women 20-49<br>
+<strong>note:</strong> data represents median age at first birth among women 20-49<br>
 
 **Maternal mortality ratio**<br>
 524 deaths/100,000 live births (2017 est.)<br>
@@ -391,7 +388,7 @@ _elections_: Tanzania National Assembly and Zanzibar House of Representatives - 
 _election results_: National Assembly - percent of vote by party - NA; seats by party - CCM 350, Chadema 20, ACT-Wazalendo 4, CUF 3; composition as of early 2021 (388 members) - men 245, women 143, percent of women 36.9%<br><br>Zanzibar House of Representatives - percent of vote by party - NA; seats by party - NA; composition - NA<br>
 
 **Judicial branch**<br>
-_highest courts_: Court of Appeal of the United Republic of Tanzania (consists of the chief justice and 14 justices); High Court of the United Republic for Mainland Tanzania (consists of the principal judge and 30 judges organized into commercial, land, and labor courts); High Court of Zanzibar (consists of the chief justice and 10 justices)<br>
+_highest court(s)_: Court of Appeal of the United Republic of Tanzania (consists of the chief justice and 14 justices); High Court of the United Republic for Mainland Tanzania (consists of the principal judge and 30 judges organized into commercial, land, and labor courts); High Court of Zanzibar (consists of the chief justice and 10 justices)<br>
 _judge selection and term of office_: Court of Appeal and High Court justices appointed by the national president after consultation with the Judicial Service Commission for Tanzania, a judicial body of high level judges and 2 members appointed by the national president; Court of Appeal and High Court judges serve until mandatory retirement at age 60, but terms can be extended; High Court of Zanzibar judges appointed by the national president after consultation with the Judicial Commission of Zanzibar; judges can serve until mandatory retirement at age 65<br>
 _subordinate courts_: Resident Magistrates Courts; Kadhi courts (for Islamic family matters); district and primary courts<br>
 
@@ -647,7 +644,7 @@ _subscriptions per 100 inhabitants_: 82.21 (2019)<br>
 _general assessment_: Tanzania&rsquo;s telecom services are being developed to reach parity with more advanced networks from neighboring countries such as Kenya and fierce competition exists amongst Tanzania's 5 major mobile network operators; one fixed-line operator with competition in mobile networks; high tariffs on telecom; mobile use remains popular, with the government subsidizing expansion of mobile networks into rural communities; most mobile networks rely on older 2G and 3G technology with 4G/LTE service available in urban centers; the government is currently testing 5G technology and plans to begin rolling out 5G service in 2024; the government continues to improve rural telecom infrastructure including work on a national fiber backbone network connecting the entire population; in late 2021, the government announced plans to extend the national backbone network from about 8,300km to 15,000km by 2023, and to provide ongoing connectivity to more countries in the region; domestically, Vodacom Tanzania contracted Eutelsat to provide satellite broadband services to areas of Tanzania which lack connectivity, while World Mobile has launched a balloon-based broadband network in Zanzibar. (2022)<br>
 _domestic_: fixed-line telephone network inadequate with less than 1 connection per 100 persons; mobile-cellular service, aided by multiple providers, is increasing rapidly and exceeds 82 telephones per 100 persons; trunk service provided by open-wire, microwave radio relay, tropospheric scatter, and fiber-optic cable; some links being made digital (2019)<br>
 _international_: country code - 255; landing points for the EASSy, SEACOM/Tata TGN-Eurasia, and SEAS&nbsp;fiber-optic submarine cable system linking East Africa with the Middle East; satellite earth stations - 2 Intelsat (1 Indian Ocean, 1 Atlantic Ocean) (2019)<br>
-<strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress towards 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>
+<strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress toward 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>
 
 **Broadcast media**<br>
 according to statistics from the Tanzania Communications Regulatory Authority (TCRA), Tanzania had 45 television stations as of 2020; 13 of those stations provided national content services (commercially broadcasting free-to-air television); there are 196 radio stations, most operating at the district level, but also including 5 independent nationally broadcasting stations and 1 state-owned national radio station; international broadcasting is available through satellite television which is becoming increasingly widespread; there are 3 major satellite TV providers (2020)<br>

@@ -73,9 +73,6 @@ occasionally severe earthquakes; droughts<br>
 **Geography - note**<br>
 landlocked in the Lesser Caucasus Mountains; Sevana Lich (Lake Sevan) is the largest lake in this mountain range<br>
 
-**Map description**<br>
-<p>Armenia map showing major cities as well as parts of surrounding countries.</p><br>
-
 ## People and Society
 
 **Population**<br>
@@ -355,7 +352,7 @@ _elections_: last held early on 20 June 2021 (next to be held in June 2026)<br>
 _election results_: percent of vote by party - Civil Contract 53.9%, Armenia Alliance 21.0%, I Have Honour Alliance 5.2%; seats by party - Civil Contract 71 of 107 seats, Armenia Alliance 29, I Have Honour Alliance 7; composition (as of February 2022) - men 69, women 38, percent of women 35.5%<br>
 
 **Judicial branch**<br>
-_highest courts_: Court of Cassation (consists of the Criminal Chamber with a chairman and 5 judges and the Civil and Administrative Chamber with a chairman and 10 judges – with both civil and administrative specializations); Constitutional Court (consists of 9 judges)<br>
+_highest court(s)_: Court of Cassation (consists of the Criminal Chamber with a chairman and 5 judges and the Civil and Administrative Chamber with a chairman and 10 judges – with both civil and administrative specializations); Constitutional Court (consists of 9 judges)<br>
 _judge selection and term of office_: Court of Cassation judges nominated by the Supreme Judicial Council, a 10-member body of selected judges and legal scholars; judges appointed by the president; judges can serve until age 65; Constitutional Court judges - 4 appointed by the president, and 5 elected by the National Assembly; judges can serve until age 70<br>
 _subordinate courts_: criminal and civil appellate courts; administrative appellate court; first instance courts; specialized administrative and bankruptcy courts<br>
 

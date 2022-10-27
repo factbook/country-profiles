@@ -60,9 +60,6 @@ most populous areas are Lower Prince's Quarter (north of Philipsburg), followed 
 **Geography - note**<br>
 <p><strong>note 1:</strong> the northern border is shared with the French overseas collectivity of Saint Martin; together, these two entities make up the smallest landmass in the world shared by two self-governing states<br><br><strong>note 2:</strong> Simpson Bay Lagoon (aka as Simson Bay Lagoon or The Great Pond) is one of the largest inland lagoons in the West Indies; the border between the French and Dutch halves of the island of Saint Martin runs across the center of the lagoon, which is shared by both of the island's entities</p><br>
 
-**Map description**<br>
-<p>Sint Maarten map showing some of the major features of this part of the Kingdom of the Netherlands in the Caribbean Sea.</p> <p> </p><br>
-
 ## People and Society
 
 **Population**<br>
@@ -257,7 +254,7 @@ _elections_: last held&nbsp;9 January 2020 (next to be held in 2024)<br>
 _election results_: percent of vote by party - NA 35.2%, UP 24.2%, US Party 13.2%, PFP 10.6%, UD 8.7%, other 8.1%; seats by party - NA 6, UP 4, PFP 2, US Party 2, UD 1<br>
 
 **Judicial branch**<br>
-_highest courts_: Joint Court of Justice of Aruba, Curacao, Sint Maarten, and of Bonaire, Sint Eustatius and Saba or "Joint Court of Justice" (consists of the presiding judge, other members, and their substitutes); final appeals heard by the Supreme Court (in The Hague, Netherlands); note - prior to 2010, the Joint Court of Justice was the Common Court of Justice of the Netherlands Antilles and Aruba<br>
+_highest court(s)_: Joint Court of Justice of Aruba, Curacao, Sint Maarten, and of Bonaire, Sint Eustatius and Saba or "Joint Court of Justice" (consists of the presiding judge, other members, and their substitutes); final appeals heard by the Supreme Court (in The Hague, Netherlands); note - prior to 2010, the Joint Court of Justice was the Common Court of Justice of the Netherlands Antilles and Aruba<br>
 _judge selection and term of office_: Joint Court judges appointed by the monarch serve for life<br>
 _subordinate courts_: Courts in First Instance<br>
 
@@ -376,7 +373,7 @@ _subscriptions per 100 inhabitants_: 195.94 (2019)<br>
 _general assessment_: generally adequate facilities; growth sectors include mobile telephone and data segments; effective competition; LTE expansion; tourism and telecom sector contribute greatly to the GDP (2018)<br>
 _domestic_: extensive interisland microwave radio relay links; 196 per 100 mobile-cellular teledensity (2019)<br>
 _international_: country code - 1-721; landing points for SMPR-1 and the ECFS submarine cables providing connectivity to the Caribbean; satellite earth stations - 2 Intelsat (Atlantic Ocean) (2019)<br>
-<strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress towards 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>
+<strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress toward 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>
 
 **Internet country code**<br>
 <p>.sx; note - IANA has designated .sx for Sint Maarten, but has not yet assigned it to a sponsoring organization</p><br>

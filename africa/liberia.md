@@ -73,9 +73,6 @@ dust-laden harmattan winds blow from the Sahara (December to March)<br>
 **Geography - note**<br>
 facing the Atlantic Ocean, the coastline is characterized by lagoons, mangrove swamps, and river-deposited sandbars; the inland grassy plateau supports limited agriculture<br>
 
-**Map description**<br>
-<p>Liberia map showing major cities as well as parts of surrounding countries and the North Atlantic Ocean.</p> <p> </p><br>
-
 ## People and Society
 
 **Population**<br>
@@ -148,7 +145,7 @@ _total population_: 1 male(s)/female (2022 est.)<br>
 
 **Mother's mean age at first birth**<br>
 19.1 years (2019/20 est.)<br>
-<strong>note:</strong> median age at first birth among women 25-49<br>
+<strong>note:</strong> data represents median age at first birth among women 25-49<br>
 
 **Maternal mortality ratio**<br>
 661 deaths/100,000 live births (2017 est.)<br>
@@ -361,7 +358,7 @@ _elections_: Senate - general election held on 8 December 2020 with half the sea
 _election results_: Senate - percent of vote by party - Collaborating Political Parties 40.3%, Congress for Democratic Change 28%, People's Unification Party 6.4%, Movement for Democracy and Reconstructions 4.3%, All Liberia Coalition 1.0%, Rainbow Alliance 1.1%, Liberia Restoration Party 0.82%, Liberia National Union 0.77%, Movement for Progressive Change 0.74%, United People's Party 0.66%, Liberia Transformation Party 0.16%, National Democratic Coalition 0.07%, Movement for One Liberia 0.01; seats by coalition/party- CPP 13, CDC 5, PUP 2, MDR 1, NDC 1; composition - men 28, women 2, percent of women 6.7%<br><br>House of Representatives - percent of vote by party/coalition - Coalition for Democratic Change 15.6%, UP 14%, LP 8.7%, ANC 6.1%, PUP 5.9%, ALP 5.1%, MDR 3.4%, other 41.2%; seats by coalition/party - Coalition for Democratic Change 21, UP 20, PUP 5, LP 3, ALP 3, MDR 2, independent 13, other 6; composition - men 65, women 8, percent of women 11%; total Parliament percent of women 9.7%<br>
 
 **Judicial branch**<br>
-_highest courts_: Supreme Court (consists of a chief justice and 4 associate justices); note - the Supreme Court has jurisdiction for all constitutional cases<br>
+_highest court(s)_: Supreme Court (consists of a chief justice and 4 associate justices); note - the Supreme Court has jurisdiction for all constitutional cases<br>
 _judge selection and term of office_: chief justice and associate justices appointed by the president of Liberia with consent of the Senate; judges can serve until age 70<br>
 _subordinate courts_: judicial circuit courts; special courts, including criminal, civil, labor, traffic; magistrate and traditional or customary courts<br>
 
@@ -613,7 +610,7 @@ _subscriptions per 100 inhabitants_: 33 (2020 est.)<br>
 _general assessment_: Liberia has a telecom market which is mainly based on mobile networks; this is due to the civil war which destroyed much of the fixed-line infrastructure; the fixed-line incumbent telco&ndash; rebranded as LTC Mobile in January 2022&ndash;has struggled with mismanagement and government neglect; its revenue is inadequate to allow it to invest in network infrastructure, and it has failed to make inroads in the market; to facilitate LTC Mobile&rsquo;s market entry, the government in January 2022 set in train amendments to telecom legislation; LTC Mobile soon afterwards launched LTE services; internet services are available from a number of wireless ISPs as well as the mobile operators; the high cost and limited bandwidth of connections means that internet access is expensive and rates are very low; additional bandwidth is available from an international submarine cable but considerable investment is still needed in domestic fixed-line infrastructure before end-users can make full use of the cable. (2022)<br>
 _domestic_: fixed-line less than 1 per 100; mobile-cellular subscription base growing and teledensity approached 57 per 100 persons (2019)<br>
 _international_: country code - 231; landing point for the ACE submarine cable&nbsp;linking 20 West&nbsp;African countries and Europe;&nbsp;satellite earth station - 1 Intelsat (Atlantic Ocean) (2019)<br>
-<strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress towards 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>
+<strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress toward 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>
 
 **Broadcast media**<br>
 8 private and 1 government-owned TV station; satellite TV service available; 1 state-owned radio station; approximately&nbsp;20 independent radio stations broadcasting in Monrovia, with approximately&nbsp;80 more local stations operating in other areas; transmissions of 4 international (including the British Broadcasting Corporation and Radio France Internationale) broadcasters are available (2019)<br>

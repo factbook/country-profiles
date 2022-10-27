@@ -10,7 +10,7 @@ The islands were part of the UK's Jamaican colony until 1962, when they assumed 
 ## Geography
 
 **Location**<br>
-two island groups in the North Atlantic Ocean, southeast of The Bahamas, north of Haiti<br>
+two island groups in the North Atlantic Ocean, southeast of The Bahamas, north of Haiti; note - although the Turks and Caicos Islands do not border the Caribbean Sea, geopolitically they are often designated as being Caribbean<br>
 
 **Geographic coordinates**<br>
 21 45 N, 71 35 W<br>
@@ -68,9 +68,6 @@ frequent hurricanes<br>
 
 **Geography - note**<br>
 include eight large islands and numerous smaller cays, islets, and reefs; only two of the Caicos Islands and six of the Turks group are inhabited<br>
-
-**Map description**<br>
-<p>Turks and Caicos Islands map showing the major islands that make up this UK territory in the North Atlantic Ocean.</p><br>
 
 ## People and Society
 
@@ -284,7 +281,7 @@ _elections_: last held on 19 February 2021 (next to be held in 2025)<br>
 _election results_: percent of vote - NA; seats by party - PNP 14, PDM 1; composition as of mid-2022 (elected members) - men 12, women 3; percent of women 20%<br>
 
 **Judicial branch**<br>
-_highest courts_: Supreme Court (consists of the chief justice and other judges, as determined by the governor); Court of Appeal (consists of the court president and 2 justices); note - appeals beyond the Supreme Court are referred to the Judicial Committee of the Privy Council (in London)<br>
+_highest court(s)_: Supreme Court (consists of the chief justice and other judges, as determined by the governor); Court of Appeal (consists of the court president and 2 justices); note - appeals beyond the Supreme Court are referred to the Judicial Committee of the Privy Council (in London)<br>
 _judge selection and term of office_: Supreme Court and Appeals Court judges appointed by the governor in accordance with the Judicial Service Commission, a 3-member body of high-level judicial officials; Supreme Court judges serve until mandatory retirement at age 65, but terms can be extended to age 70; Appeals Court judge tenure determined by individual terms of appointment<br>
 _subordinate courts_: magistrates' courts<br>
 
@@ -480,7 +477,7 @@ _subscriptions per 100 inhabitants_: 10 (2020 est.)<br>
 _general assessment_: fully digital system with international direct dialing; broadband access; expanded FttP (Fiber to the Home) markets; LTE expansion points to investment and focus on data; regulatory development; telecommunication contributes to greatly to GDP (2020)<br>
 _domestic_: full range of services available; GSM wireless service available; fixed-line teledensity roughly 11 per 100 persons (2019)<br>
 _international_: country code - 1-649;&nbsp;landing point for the&nbsp;ARCOS fiber-optic telecommunications submarine cable providing connectivity to South and Central America, parts of the Caribbean, and the US; satellite earth station - 1 Intelsat (Atlantic Ocean) (2020)<br>
-<strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress towards 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>
+<strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress toward 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>
 
 **Broadcast media**<br>
 no local terrestrial TV stations, broadcasts from the Bahamas can be received and multi-channel cable and satellite TV services are available; government-run radio network operates alongside private broadcasters with a total of about 15 stations<br>

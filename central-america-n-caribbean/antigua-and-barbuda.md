@@ -72,9 +72,6 @@ hurricanes and tropical storms (July to October); periodic droughts<br>
 **Geography - note**<br>
 Antigua has a deeply indented shoreline with many natural harbors and beaches; Barbuda has a large western harbor<br>
 
-**Map description**<br>
-<p>Antigua and Barbuda map showing the two islands situated in the Caribbean Sea.</p><br>
-
 ## People and Society
 
 **Population**<br>
@@ -318,7 +315,7 @@ _elections_: <br>Senate - last appointed on 26 March 2018 (next NA)<br>House of 
 _election results_: <br>Senate -  composition - men 8, women 9, percent of women 52.9%<br>House of Representatives - percent of vote by party - ABLP 59.4%, UPP 37.2%, BPM 1.4%, other 1.9% ; seats by party - ABLP 15, UPP 1, BPM 1; composition - men 16, women 2, percent of women 11.1%; note - total Parliament percent of women 31.4%<br>
 
 **Judicial branch**<br>
-_highest courts_: the Eastern Caribbean Supreme Court (ECSC) is the superior court of the Organization of Eastern Caribbean States; the ECSC - headquartered on St. Lucia - consists of the Court of Appeal - headed by the chief justice and 4 judges - and the High Court with 18 judges; the Court of Appeal is itinerant, travelling to member states on a schedule to hear appeals from the High Court and subordinate courts; High Court judges reside in the member states, with 2 assigned to Antigua and Barbuda<br>
+_highest court(s)_: the Eastern Caribbean Supreme Court (ECSC) is the superior court of the Organization of Eastern Caribbean States; the ECSC - headquartered on St. Lucia - consists of the Court of Appeal - headed by the chief justice and 4 judges - and the High Court with 18 judges; the Court of Appeal is itinerant, travelling to member states on a schedule to hear appeals from the High Court and subordinate courts; High Court judges reside in the member states, with 2 assigned to Antigua and Barbuda<br>
 _judge selection and term of office_: chief justice of Eastern Caribbean Supreme Court appointed by the Her Majesty, Queen ELIZABETH II; other justices and judges appointed by the Judicial and Legal Services Commission; Court of Appeal justices appointed for life with mandatory retirement at age 65; High Court judges appointed for life with mandatory retirement at age 62<br>
 _subordinate courts_: Industrial Court; Magistrates' Courts<br>
 
@@ -548,7 +545,7 @@ _total subscriptions_: 184,000 (2020 est.)<br>
 _subscriptions per 100 inhabitants_: 188 (2020 est.)<br>
 
 **Telecommunication systems**<br>
-_general assessment_: the telecom sector has seen a decline in subscriber numbers (particularly for prepaid mobile services the mainstay of short term visitors) and revenue; fixed and mobile broadband services are two areas that have benefited from the crisis as employees and students have resorted to working from home; one major casualty may be the region&rsquo;s second largest telco operator, Digicel; the company filed for bankruptcy in the US in April 2020; it continues to operate in all of its Caribbean markets as it seeks to refinance billions of dollars of debt; the other major telco, regional incumbent Cable &amp; Wireless Communications (CWC), is experiencing similar drops in subscriber numbers and revenue; CWC is expanding and enhancing its fixed and mobile networks in many of the countries it serves around the Caribbean, despite many locations being small islands with very small populations; one area of the telecom market that is not prepared for growth is 5G mobile; governments, regulators, and even the mobile network operators have shown that they have not been investing in 5G opportunities at the present time; network expansion and enhancements remain concentrated around improving LTE coverage. (2021)<br>
+_general assessment_: the telecom sector has seen a decline in subscriber numbers (particularly for prepaid mobile services the mainstay of short term visitors) and revenue; fixed and mobile broadband services are two areas that have benefited from the crisis as employees and students have resorted to working from home; one area of the telecom market that is not prepared for growth is 5G mobile; governments, regulators, and even the mobile network operators have shown that they have not been investing in 5G opportunities at the present time; network expansion and enhancements remain concentrated around improving LTE coverage. (2021)<br>
 _domestic_: fixed-line teledensity roughly 25 per 100 persons; mobile-cellular teledensity is about 193 per 100 persons (2019)<br>
 _international_: country code - 1-268; landing points for the ECFS and&nbsp;Southern Caribbean Fiber&nbsp;submarine cable systems with links to other islands in the eastern Caribbean; satellite earth stations&nbsp;- 1 Intelsat (Atlantic Ocean) (2019)<br>
 

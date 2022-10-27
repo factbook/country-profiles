@@ -67,9 +67,6 @@ strong winds and heavy rains can occur throughout the year<br>
 **Geography - note**<br>
 archipelago of 17 inhabited islands and one uninhabited island, and a few uninhabited islets; strategically located along important sea lanes in northeastern Atlantic; precipitous terrain limits habitation to small coastal lowlands<br>
 
-**Map description**<br>
-<p>Faroe Islands map showing the many islands that make up this part of Denmark in the North Atlantic Ocean.</p><br>
-
 ## People and Society
 
 **Population**<br>
@@ -291,7 +288,7 @@ _elections_: Faroese Parliament - last held on 31 August 2019 (next to be held 
 _election results_: Faroese Parliament percent of vote by party - People's Party 24.2%, JF 21.2%, Union Party 21.2%, Republic 18.2%, Center Party 6%, Progress Party 6%, Self-Government Party 3%, seats by party - People's Party 8, JF 7, Union Party 7, Republic 6, Center Party 2, Progress Party 2, Self-Government Party 1, composition - men 25, women 8; percent of women 24.2% <br>Faroese seats in Danish Parliament - percent of vote by party - NA; seats by party - JF 1, Republic 1; composition - men 2<br>
 
 **Judicial branch**<br>
-_highest courts_: Faroese Court or Raett (Rett - Danish) decides both civil and criminal cases; the Court is part of the Danish legal system<br>
+_highest court(s)_: Faroese Court or Raett (Rett - Danish) decides both civil and criminal cases; the Court is part of the Danish legal system<br>
 _subordinate courts_: Court of the First Instance or Tribunal de Premiere Instance; Court of Administrative Law or Tribunal Administratif; Mixed Commercial Court; Land Court<br>
 
 **Political parties and leaders**<br>

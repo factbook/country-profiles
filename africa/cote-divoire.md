@@ -78,9 +78,6 @@ coast has heavy surf and no natural harbors; during the rainy season torrential 
 **Geography - note**<br>
 most of the inhabitants live along the sandy coastal region; apart from the capital area, the forested interior is sparsely populated<br>
 
-**Map description**<br>
-<p>Cote d’Ivoire map showing major cities as well as parts of surrounding countries and the Gulf of Guinea.</p><br>
-
 ## People and Society
 
 **Population**<br>
@@ -156,7 +153,7 @@ _total population_: 0.97 male(s)/female (2022 est.)<br>
 
 **Mother's mean age at first birth**<br>
 19.6 years (2011/12 est.)<br>
-<strong>note:</strong> median age at first birth among women 20-49<br>
+<strong>note:</strong> data represents median age at first birth among women 20-49<br>
 
 **Maternal mortality ratio**<br>
 617 deaths/100,000 live births (2017 est.)<br>
@@ -382,7 +379,7 @@ _election results_: <strong><br></strong>Senate - percent by party NA; seats by 
 <br><br><br>
 
 **Judicial branch**<br>
-_highest courts_: Supreme Court or Cour Supreme (organized into Judicial, Audit, Constitutional, and Administrative Chambers; consists of the court president, 3 vice presidents for the Judicial, Audit, and Administrative chambers, and 9 associate justices or magistrates)<br>
+_highest court(s)_: Supreme Court or Cour Supreme (organized into Judicial, Audit, Constitutional, and Administrative Chambers; consists of the court president, 3 vice presidents for the Judicial, Audit, and Administrative chambers, and 9 associate justices or magistrates)<br>
 _judge selection and term of office_: judges nominated by the Superior Council of the Magistrature, a 7-member body consisting of the national president (chairman), 3 "bench" judges, and 3 public prosecutors; judges appointed for life<br>
 _subordinate courts_: Courts of Appeal (organized into civil, criminal, and social chambers); first instance courts; peace courts<br>
 
@@ -635,7 +632,7 @@ _total subscriptions_: 40,095,246 (2020 est.)<br>
 _subscriptions per 100 inhabitants_: 152 (2020 est.)<br>
 
 **Telecommunication systems**<br>
-_general assessment_: in recent years the government of Ivory Coast has helped develop a competitive telecom sector focused on the provision of converged services, thus allowing operators to offer fixed-line and mobile services under a universal services license regime; there are two fixed network operators, the market is dominated by Orange Group&rsquo;s local unit, Orange C&ocirc;te d&rsquo;Ivoire; the mobile market is more competitive, with Orange C&ocirc;te d&rsquo;Ivoire operating alongside MTN C&ocirc;te d&rsquo;Ivoire and Moov; over the years a number of alternative operators have either folded, had their licenses evoked, or failed to launch services; the fixed internet and broadband sectors remain underdeveloped; this is a legacy of poor international connectivity, which resulted in high wholesale prices, limited bandwidth, and a lack of access for alternative operators to international infrastructure; these limitations were addressed following the landing of a second cable in November 2011, and the end to the access monopoly held by Orange C&ocirc;te d&rsquo;Ivoire; Orange Group has also launched its 20,000km Djoliba cable system, reaching across eight countries in the region, while the 2Africa submarine cable is being developed by a consortium of companies; with a landing station providing connectivity to C&ocirc;te d'Ivoire, the system is expected to be completed in late 2023. (2022)<br>
+_general assessment_: in recent years the government of Ivory Coast has helped develop a competitive telecom sector focused on the provision of converged services, thus allowing operators to offer fixed-line and mobile services under a universal services license regime; the fixed internet and broadband sectors remain underdeveloped; this is a legacy of poor international connectivity, which resulted in high wholesale prices, limited bandwidth, and a lack of access for alternative operators to international infrastructure; these limitations were addressed following the landing of a second cable in November 2011; Orange Group has also launched its 20,000km Djoliba cable system, reaching across eight countries in the region, while the 2Africa submarine cable is being developed by a consortium of companies; with a landing station providing connectivity to C&ocirc;te d'Ivoire, the system is expected to be completed in late 2023 (2022)<br>
 _domestic_: 1 per 100 fixed-line teledensity; with multiple mobile-cellular service providers competing in the market, mobile subscriptions have increased to 152 per 100 persons (2020)<br>
 _international_: country code - 225; landing point for the SAT-3/WASC, ACE, MainOne, and WACS&nbsp;fiber-optic submarine cable that provides connectivity to Europe and South and West Africa; satellite earth stations - 2 Intelsat (1 Atlantic Ocean and 1 Indian Ocean) (2019)<br>
 <strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress toward 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>

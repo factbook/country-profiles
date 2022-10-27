@@ -84,9 +84,6 @@ approximately one-third of the population resides along the desert coastal belt 
 **Geography - note**<br>
 <p><strong>note 1:</strong> shares control of Lago Titicaca, world's highest navigable lake, with Bolivia; a remote slope of Nevado Mismi, a 5,316 m peak, is the ultimate source of the Amazon River</p> <p><strong>note 2:</strong> Peru is one of the countries along the Ring of Fire, a belt of active volcanoes and earthquake epicenters bordering the Pacific Ocean; up to 90% of the world's earthquakes and some 75% of the world's volcanoes occur within the Ring of Fire<br><br><strong>note 3:</strong> on 19 February 1600, Mount Huaynaputina in the southern Peruvian Andes erupted in the largest volcanic explosion in South America in historical times; intermittent eruptions lasted until 5 March 1600 and pumped an estimated 16 to 32 million metric tons of particulates into the atmosphere reducing the amount of sunlight reaching the earth's surface and affecting weather worldwide; over the next two and a half years, millions died around the globe in famines from bitterly cold winters, cool summers, and the loss of crops and animals<br><br><strong>note 4:</strong> the southern regions of Peru and the extreme northwestern part of Bolivia are considered to be the place of origin for the common potato </p><br>
 
-**Map description**<br>
-<p>Peru map showing major cities as well as parts of surrounding countries and the South Pacific Ocean.</p><br>
-
 ## People and Society
 
 **Population**<br>
@@ -160,7 +157,7 @@ _total population_: 0.96 male(s)/female (2022 est.)<br>
 
 **Mother's mean age at first birth**<br>
 21.9 years (2013 est.)<br>
-<strong>note:</strong> median age at first birth among women 25-49<br>
+<strong>note:</strong> data represents median age at first birth among women 25-49<br>
 
 **Maternal mortality ratio**<br>
 88 deaths/100,000 live births (2017 est.)<br>
@@ -389,7 +386,7 @@ _elections_: last held on 11 April 2021 (next to be held in April 2026)<br>
 _election results_: percent of vote by party/coalition - NA; seats by party/coalition - Free Peru 32, Popular Force 24, AP 15, APP 15, Avanza Pais 10, Popular Renewal 9, Democratic Peru 7, We Are Peru 5, We Can Peru 5, JP 5, Purple Party 3; composition - men 78, women 52, percent of women 40%<br>
 
 **Judicial branch**<br>
-_highest courts_: Supreme Court (consists of 16 judges and divided into civil, criminal, and constitutional-social sectors)<br>
+_highest court(s)_: Supreme Court (consists of 16 judges and divided into civil, criminal, and constitutional-social sectors)<br>
 _judge selection and term of office_: justices proposed by the National Board of Justice (a 7-member independent body), nominated by the president, and confirmed by the Congress; justices can serve until mandatory retirement at age 70<br>
 _subordinate courts_: Court of Constitutional Guarantees; Superior Courts or Cortes Superiores; specialized civil, criminal, and mixed courts; 2 types of peace courts in which professional judges and selected members of the local communities preside<br>
 
@@ -655,7 +652,7 @@ _subscriptions per 100 inhabitants_: 133 (2020 est.)<br>
 _general assessment_: after suffering a sharp retraction in the number of subscriptions and revenue during 2020 due to the pandemic, Peru&rsquo;s telecom sector managed to stage a small recovery in the first half of 2021; it will likely be two to three years before penetration rates return to the peak levels last seen in 2018; this is especially true given the overwhelming influence of mobile on Peru&rsquo;s telecommunications market, which now commands almost 95% of all connections; Peru&rsquo;s fixed-line teledensity continued its slow dropping below 7% at the end of 2021; investment in network infrastructure is mainly focused on rolling out fiber cable for fixed broadband services in (mainly) urban areas; fixed broadband services inched higher to reach 8.4% at the end of 2020, a positive result that reflected the shift to working from home during enforced lock downs at the start of the year; yet Peru has a relatively low level of computer use, and prices for fixed broadband services are among the highest in Latin America; the overwhelmingly preferred internet access platform will remain the smartphone, with a further 8.6% growth in the number of mobile broadband subscriptions expected in 2021; one drawback to success in the mobile broadband market was the decision in January 2021 by Google&rsquo;s parent company Alphabet to shut down Project Loon; this global endeavor involved the use of high-altitude balloons to provide internet access to remote, under served areas around the world; in Peru, Loon had signed a deal with Telef&oacute;nica to provide internet services in areas of the Amazon rain forest as part of the Telef&oacute;nica/Facebook &lsquo;Internet para Todos&rsquo; (IPT) project launched in 2018; Alphabet was unable to make the venture financially sustainable. (2021)<br>
 _domestic_: fixed-line teledensity is nearly 10 per 100 persons; mobile-cellular teledensity, spurred by competition among multiple providers, now nearly 124 telephones per 100 persons; nationwide microwave radio relay system and a domestic satellite system with 12 earth stations (2019)<br>
 _international_: country code - 51; landing points for the SAM-1, IGW, American Movil-Telxius, SAC&nbsp;and PAN-AM submarine cable systems that provide links to parts of Central and South America, the Caribbean, and US; satellite earth stations - 2 Intelsat (Atlantic Ocean) (2019)<br>
-<strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress towards 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>
+<strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress toward 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>
 
 **Broadcast media**<br>
 10 major TV networks of which only one, Television Nacional de Peru, is state owned; multi-channel cable TV services are available; in excess of 5,000 radio stations including a substantial number of indigenous language stations (2021)<br>

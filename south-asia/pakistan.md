@@ -82,9 +82,6 @@ frequent earthquakes, occasionally severe especially in north and west; flooding
 **Geography - note**<br>
 controls Khyber Pass and Bolan Pass, traditional invasion routes between Central Asia and the Indian Subcontinent<br>
 
-**Map description**<br>
-<p>Pakistan map showing major cities as well as parts of surrounding countries and the Arabian Sea.</p><br>
-
 ## People and Society
 
 **Population**<br>
@@ -156,7 +153,7 @@ _total population_: 1.04 male(s)/female (2022 est.)<br>
 
 **Mother's mean age at first birth**<br>
 22.8 years (2017/18 est.)<br>
-<strong>note:</strong> median age at first birth among women 25-49<br>
+<strong>note:</strong> data represents median age at first birth among women 25-49<br>
 
 **Maternal mortality ratio**<br>
 140 deaths/100,000 live births (2017 est.)<br>
@@ -387,7 +384,7 @@ _elections_: <br>Senate - last held on 3 March 2021 (next to be held in March 20
 _election results_: <br>Senate - percent of vote by party - NA; seats by party - PTI 25, PPP 21, PML-N 18, BAP 13, JU-F 5, other 13, independent 5; composition - men 81, women 19, percent of women 19%<br><br>National Assembly - percent of votes by party - NA; seats by party - PTI 156, PML-N 83, PPP 55, MMA 16, MQM-P 7, BAP 5, PML-Q 5, BNP 4, GDA 3, AML 1, ANP 1, JWP 1, independent 4; composition - men 272, women 70, percent of women 20.2%; note - total Parliament percent of women 20.1%<br>
 
 **Judicial branch**<br>
-_highest courts_: Supreme Court of Pakistan (consists of the chief justice and 16 judges)<br>
+_highest court(s)_: Supreme Court of Pakistan (consists of the chief justice and 16 judges)<br>
 _judge selection and term of office_: justices nominated by an 8-member parliamentary committee upon the recommendation of the Judicial Commission, a 9-member body of judges and other judicial professionals, and appointed by the president; justices can serve until age 65<br>
 _subordinate courts_: High Courts; Federal Shariat Court; provincial and district civil and criminal courts; specialized courts for issues, such as taxation, banking, and customs<br>
 
@@ -655,7 +652,7 @@ _subscriptions per 100 inhabitants_: 80 (2020 est.)<br>
 _general assessment_: Pakistan&rsquo;s telecom market transitioned from a regulated state-owned monopoly to a deregulated competitive structure in 2003, now aided by foreign investment; moderate growth over the last six years, supported by a young population and a rising use of mobile services; telecom infrastructure is improving, with investments in mobile-cellular networks, fixed-line subscriptions declining; system consists of microwave radio relay, coaxial cable, fiber-optic cable, cellular, and satellite networks; 4G mobile services broadly available; 5G tests ongoing; data centers in major cities; mobile and broadband doing well and dominate over fixed-broadband sector; China-Pakistan Fiber Optic Project became operational in 2020; importer of broadcasting equipment and computers from China; future growth (in market size as well as revenue) is likely to come from the wider availability of value-added services on top of the expansion of 4G LTE and (from 2023) 5G mobile networks; the Universal Service Fund (USF) continues to direct investment towards the development of mobile broadband (and, to a lesser extent, fiber-based networks) in under-served and even unserved areas of the country, with multiple projects being approved to start in 2021 and 2022. (2021)<br>
 _domestic_: mobile-cellular subscribership has increased; more than 90% of Pakistanis live within areas that have cell phone coverage; fiber-optic networks are being constructed throughout the country to increase broadband access and broadband penetration in Pakistan is increasing--by the end of 2021, 50% of the population had access to broadband services; fixed-line teledensity is a little over 1 per 100 and mobile-cellular roughly 84 per 100 persons (2021)<br>
 _international_: country code - 92; landing points for the SEA-ME-WE-3, -4, -5, AAE-1, IMEWE, Orient Express, PEACE Cable,&nbsp;and TW1 submarine cable systems that provide links to Europe, Africa, the Middle East, Asia, Southeast Asia, and Australia; satellite earth stations - 3 Intelsat (1 Atlantic Ocean and 2 Indian Ocean); 3 operational international gateway exchanges (1 at Karachi and 2 at Islamabad); microwave radio relay to neighboring countries (2019)<br>
-<strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress towards 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>
+<strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress toward 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>
 
 **Broadcast media**<br>
 television is the most popular and dominant source of news in Pakistan with over 120 satellite tv stations licensed by the country&rsquo;s electronic media regulatory body, PEMRA ,and 40 media companies/channels with landing rights permission; state-run Pakistan Television Corporation (PTV) is the largest television network in the country and serves over 90% of the population with the largest terrestrial infrastructure of the country; PTV consists of nine TV Channels and PTV networks give special coverage to Kashmir; Pakistanis have access to over 100 private cable and satellite channels; 6 channels are considered the leaders for news reporting and current affairs programing in the country; state-owned Pakistan Broadcasting Corporation (PBC or Radio Pakistan) has the largest radio audience in the country, particularly in the rural areas; Radio Pakistan&rsquo;s AM/SW/FM stations cover 98 percent of the population and 80 percent of the total area in the country; all major newspapers have online editions and all major print publications operate websites; freedom of the press and freedom of speech in the country are fragile (2021)<br>

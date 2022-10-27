@@ -69,9 +69,6 @@ only the northern half of the island is populated, the southern portion is uninh
 **Geography - note**<br>
 the island is entirely volcanic in origin and comprised of three major volcanic centers of differing ages<br>
 
-**Map description**<br>
-<p>Montserrat map showing some of the major features of this UK island territory in the Caribbean Sea.</p><br>
-
 ## People and Society
 
 **Population**<br>
@@ -273,7 +270,7 @@ _elections_: last held on 18 November 2019 (next scheduled for 2024)<br>
 _election results_: percent of vote by party - MCAP 42.7%, PDM 29.9%, other 17.1%; seats by party - MCAP 5, PDM 3, independent 1; composition, including the speaker and 2 ex-officio members - men 8, women 4, percent of women 33.3%<br>
 
 **Judicial branch**<br>
-_highest courts_: the Eastern Caribbean Supreme Court (ECSC) is the superior court of the Organization of Eastern Caribbean States; the ECSC - headquartered on St. Lucia - consists of the Court of Appeal - headed by the chief justice and 4 judges - and the High Court with 18 judges; the Court of Appeal is itinerant, traveling to member states on a schedule to hear appeals from the High Court and subordinate courts; High Court judges reside in the member states, with 1 assigned to Montserrat; Montserrat is also a member of the Caribbean Court of Justice<br>
+_highest court(s)_: the Eastern Caribbean Supreme Court (ECSC) is the superior court of the Organization of Eastern Caribbean States; the ECSC - headquartered on St. Lucia - consists of the Court of Appeal - headed by the chief justice and 4 judges - and the High Court with 18 judges; the Court of Appeal is itinerant, traveling to member states on a schedule to hear appeals from the High Court and subordinate courts; High Court judges reside in the member states, with 1 assigned to Montserrat; Montserrat is also a member of the Caribbean Court of Justice<br>
 _judge selection and term of office_: chief justice of Eastern Caribbean Supreme Court appointed by the Her Majesty, Queen ELIZABETH II; other justices and judges appointed by the Judicial and Legal Services Commission, and independent body of judicial officials; Court of Appeal justices appointed for life with mandatory retirement at age 65; High Court judges appointed for life with mandatory retirement at age 62<br>
 _subordinate courts_: magistrate's court<br>
 
@@ -483,7 +480,7 @@ _subscriptions per 100 inhabitants_: 101 (2019 est.)<br>
 _general assessment_: telecom market one of growth in Caribbean and fully digitalized;&nbsp;high dependency on tourism and offshore financial&nbsp;services; operators expand FttP (Fiber to Home) services; LTE launches and operators invest in mobile networks; effective competition in all sectors (2020)<br>
 _domestic_: fixed-line roughly 60 per 100 and mobile-cellular teledensity nearly 101 per 100 persons (2019)<br>
 _international_: country code - 1-664; landing point for the ECFS optic submarine cable with links to 14 other islands in the eastern Caribbean extending from the British Virgin Islands to Trinidad (2019)<br>
-<strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress towards 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>
+<strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress toward 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>
 
 **Broadcast media**<br>
 Radio Montserrat, a public radio broadcaster, transmits on 1 station and has a repeater transmission to a second station; repeater transmissions from the GEM Radio Network of Trinidad and Tobago provide another 2 radio stations; cable and satellite TV available (2007)<br>

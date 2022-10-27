@@ -71,9 +71,6 @@ most of the population is found on the periphery of the island, with a larger co
 **Geography - note**<br>
 the twin Pitons (Gros Piton and Petit Piton), striking cone-shaped peaks south of Soufriere, are one of the scenic natural highlights of the Caribbean<br>
 
-**Map description**<br>
-<p>Saint Lucia map showing major population centers on this island in the Caribbean Sea.</p><br>
-
 ## People and Society
 
 **Population**<br>
@@ -328,7 +325,7 @@ _elections_: Senate - last appointments on 17 August 2021 (next in 2026)<br>Hous
 _election results_: Senate - percent of vote by party - NA; seats by party - NA; composition - men 6, women 5, percent of women 45.5%<br>House of Assembly - percent of vote by party - SLP 50.1%, UWP 42.9%, other o.3%, independent 6.6%; seats by party - SLP 13, UWP 2, independent 2; composition (including the speaker) - men 16, women 2, percent of women 11.1%; note - total Parliament percent of women 24.1%<br>
 
 **Judicial branch**<br>
-_highest courts_: the Eastern Caribbean Supreme Court (ECSC) is the superior court of the Organization of Eastern Caribbean States; the ECSC - headquartered on St. Lucia - consists of the Court of Appeal - headed by the chief justice and 4 judges - and the High Court with 18 judges; the Court of Appeal is itinerant, traveling to member states on a schedule to hear appeals from the High Court and subordinate courts; High Court judges reside in the member states with 4 on Saint Lucia; Saint Lucia is a member of the Caribbean Court of Justice<br>
+_highest court(s)_: the Eastern Caribbean Supreme Court (ECSC) is the superior court of the Organization of Eastern Caribbean States; the ECSC - headquartered on St. Lucia - consists of the Court of Appeal - headed by the chief justice and 4 judges - and the High Court with 18 judges; the Court of Appeal is itinerant, traveling to member states on a schedule to hear appeals from the High Court and subordinate courts; High Court judges reside in the member states with 4 on Saint Lucia; Saint Lucia is a member of the Caribbean Court of Justice<br>
 _judge selection and term of office_: chief justice of Eastern Caribbean Supreme Court appointed by Her Majesty, Queen ELIZABETH II; other justices and judges appointed by the Judicial and Legal Services Commission, an independent body of judicial officials; Court of Appeal justices appointed for life with mandatory retirement at age 65; High Court judges appointed for life with mandatory retirement at age 62<br>
 _subordinate courts_: magistrate's court<br>
 
@@ -575,7 +572,7 @@ _subscriptions per 100 inhabitants_: 111 (2020 est.)<br>
 _general assessment_: an adequate system that is automatically switched; good interisland and international connections; broadband access; expanded FttP (Fiber to the Home) and LTE markets; regulatory development; telecom sector contributes to the overall GDP; telecom sector is a growth area (2020)<br>
 _domestic_: fixed-line teledensity is 20 per 100 persons and mobile-cellular teledensity is roughly 102 per 100 persons (2019)<br>
 _international_: country code - 1-758; landing points for the ECFS&nbsp;and Southern Caribbean Fiber submarine cables providing connectivity to numerous Caribbean islands; direct microwave radio relay link with Martinique and Saint Vincent and the Grenadines; tropospheric scatter to Barbados (2019)<br>
-<strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress towards 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>
+<strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress toward 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>
 
 **Broadcast media**<br>
 3 privately owned TV stations; 1 public TV station operating on a cable network; multi-channel cable TV service available; a mix of state-owned and privately owned broadcasters operate nearly 25 radio stations including repeater transmission stations (2019)<br>

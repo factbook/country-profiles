@@ -82,9 +82,6 @@ periodic drought; tropical storms (November to April)<br>
 **Geography - note**<br>
 landlocked; the Zambezi forms a natural riverine boundary with Zimbabwe; Lake Kariba on the Zambia-Zimbabwe border forms the world's largest reservoir by volume (180 cu km; 43 cu mi)<br>
 
-**Map description**<br>
-<p>Zambia map showing major population centers as well as parts of surrounding countries.</p><br>
-
 ## People and Society
 
 **Population**<br>
@@ -159,7 +156,7 @@ _total population_: 1 male(s)/female (2022 est.)<br>
 
 **Mother's mean age at first birth**<br>
 19.2 years (2018 est.)<br>
-<strong>note:</strong> median age at first birth among women 20-49<br>
+<strong>note:</strong> data represents median age at first birth among women 20-49<br>
 
 **Maternal mortality ratio**<br>
 213 deaths/100,000 live births (2017 est.)<br>
@@ -384,7 +381,7 @@ _elections_: last held on 12 August 2021 (next to be held in 2026)<br>
 _election results_: percent of vote by party - UPND 53.9%, PF 38.1%, PNUP 0.6%, independent 7.4%; seats by party - UPND 82, PF 62, PNUP 1, independent 11; composition - men 136, women 20, percent of women 13.5%; 156 seats filled;&nbsp;<br>
 
 **Judicial branch**<br>
-_highest courts_: Supreme Court (consists of the chief justice, deputy chief justice, and at least 11 judges); Constitutional Court (consists of the court president, vice president, and 11 judges); note - the Constitutional Court began operation in June 2016<br>
+_highest court(s)_: Supreme Court (consists of the chief justice, deputy chief justice, and at least 11 judges); Constitutional Court (consists of the court president, vice president, and 11 judges); note - the Constitutional Court began operation in June 2016<br>
 _judge selection and term of office_: Supreme Court and Constitutional Court judges appointed by the president of the republic upon the advice of the 9-member Judicial Service Commission, which is headed by the chief justice, and ratified by the National Assembly; judges normally serve until age 65<br>
 _subordinate courts_: Court of Appeal; High Court; Industrial Relations Court; subordinate courts (3 levels, based on upper limit of money involved); Small Claims Court; local courts (2 grades, based on upper limit of money involved)<br>
 
@@ -645,7 +642,7 @@ _subscriptions per 100 inhabitants_: 96.41 (2019)<br>
 _general assessment_: following elections held in August 2021, the new government immediately established a Ministry of Technology and Science to promote the use of ICT in developing economic growth and social inclusion; this focus on ICT, and on telecoms in particular, has been central to government strategies for some years; as part of the Smart Zambia initiative, investment has been made in data centers, a computer assembly plant, ICT training centers, and a Smart Education program; these efforts have been combined with the extension of broadband access and improved connectivity to international submarine cables; in turn, this has resulted in a considerable reduction in fixed-line and mobile access pricing for end-users; mobile network operators continue to invest in 3G and LTE-based services, while the government also contracted Huawei to upgrade the state-owned mobile infrastructure for 5G services; delays in holding spectrum have stymied the development of 5G thus far; in mid-2021 the regulator completed a consultation of auctioning low, medium, and high band spectrum for 5G, aiming to provide sufficient spectrum to meet the anticipated increase in data traffic in coming years; fixed-line broadband services remain underdeveloped, though MTN Zambia has initiated an FttP program, initially in Lusaka. (2022)<br>
 _domestic_: fiber optic connections are available between most larger towns and cities with microwave radio relays serving more rural areas; 3G and LTE with FttX in limited urban areas and private Ku or Ka band VSAT terminals in remote locations; fixed-line teledensity less than 1 per 100 and mobile-cellular roughly 104 per 100 (2020)<br>
 _international_: country code - 260; multiple providers operate overland fiber optic routes via Zimbabwe/South Africa, Botswana/Namibia and Tanzania provide access to the major undersea cables<br>
-<strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress towards 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>
+<strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress toward 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>
 
 **Broadcast media**<br>
 <p>according to the Independent Broadcast Authority, there are 137 radio stations and 47 television stations in Zambia; out of the 137 radio stations, 133 are private (categorized as either commercial or community radio stations), while 4 are public-owned; state-owned Zambia National Broadcasting Corporation (ZNBC) operates 2 television channels and 3 radio stations; ZNBC owns 75% shares in GoTV, 40% in MultiChoice, and 40% in TopStar Communications Company, all of which operate in-country</p> (2019)<br>

@@ -77,9 +77,6 @@ destructive earthquakes<br>
 **Geography - note**<br>
 strategic location along the Adriatic coast<br>
 
-**Map description**<br>
-<p>Montenegro map showing major population centers as well as parts of surrounding countries and the Adriatic Sea.</p><br>
-
 ## People and Society
 
 **Population**<br>
@@ -370,7 +367,7 @@ _elections_: last held on 30 August 2020 (next to be held in 2024)<br>
 _election results_: percent of vote by party/coalition - DPS 35.1%, ZBCG 32.6%, MNIM 12.5%, URA 5.5%, SD 4.1%, BS 3.9%, SDP 3.1%, AL 1.6%, Albanian Coalition 1.1%, other 0.4%; seats by party/coalition - DPS 30, ZBCG 27, MNIM 10, URA 4, BS 3, SD 3, SDP 2, AL 1, Albanian Coalition 1.; composition as of July 2022 - men 59, women 22, percent of women 27.2%<br>
 
 **Judicial branch**<br>
-_highest courts_: Supreme Court or Vrhovni Sud (consists of the court president, deputy president, and 15 judges); Constitutional Court or Ustavni Sud (consists of the court president and 7 judges)<br>
+_highest court(s)_: Supreme Court or Vrhovni Sud (consists of the court president, deputy president, and 15 judges); Constitutional Court or Ustavni Sud (consists of the court president and 7 judges)<br>
 _judge selection and term of office_: Supreme Court president proposed by general session of the Supreme Court and elected by the Judicial Council, a 9-member body consisting of judges, lawyers designated by the Assembly, and the minister of judicial affairs; Supreme Court president elected for a single renewable, 5-year term; other judges elected by the Judicial Council for life; Constitutional Court judges - 2 proposed by the president of Montenegro and 5 by the Assembly, and elected by the Assembly; court president elected from among the court members; court president elected for a 3-year term, other judges serve 9-year terms<br>
 _subordinate courts_: Administrative Courts; Appellate Court; Commercial Courts; High Courts; basic courts<br>
 
@@ -630,7 +627,7 @@ _subscriptions per 100 inhabitants_: 172 (2020 est.)<br>
 _general assessment_: a small telecom market supported by a population of only 623,000; fixed broadband services are available via a variety of technology platforms, though fiber is the dominant platform, accounting for almost 40% of connections; the growth of fiber has largely been at the expense of DSL as customers are migrated to fiber networks as these are built out progressively; mobile penetration is particularly high, though this is partly due to the significant number of tourists visiting the country seasonally, as also to the popularity of subscribers having multiple prepaid cards; in the wake of the pandemic and associated restrictions on travel, the number of mobile subscribers fell in 2020, as also in the first quarter of 2021, year-on-year; networks support a vibrant mobile broadband services sector, largely based on LTE; two of the MNOs began trialing 5G in May 2021, though commercial services will not gain traction until after the multi-spectrum auction is completed at the end of 2021; spectrum is available in the 694-790MHz and 3400-3800MHz ranges, as well as in the 26.5-27.5GHz range. (2021)<br>
 _domestic_: GSM mobile-cellular service, available through multiple providers; fixed-line over 30 per 100 and mobile-cellular 172 per 100 persons (2020)<br>
 _international_: country code - 382; 2 international switches connect the national system<br>
-<strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress towards 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>
+<strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress toward 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>
 
 **Broadcast media**<br>
 state-funded national radio-TV broadcaster operates 2 terrestrial TV networks, 1 satellite TV channel, and 2 radio networks;&nbsp;4 local public TV stations and 14 private TV stations; 14 local public radio stations, 35 private radio stations, and&nbsp;several on-line media (2019)<br>
@@ -721,7 +718,7 @@ Montenegro became a member of NATO in 2017; as of 2022, Greece and Italy provide
 **Refugees and internally displaced persons**<br>
 _refugees (country of origin)_: 27,576 (Ukraine) (as of 4 October 2022)<br>
 _stateless persons_: 458 (mid-year 2021)<br>
-<strong>note:</strong> 26,520 estimated refugee and migrant arrivals (January 2015-October 2022)<br>
+<strong>note:</strong> 26,801 estimated refugee and migrant arrivals (January 2015-October 2022)<br>
 
 **Illicit drugs**<br>
 <p>drug trafficking groups are major players in the procurement and transportation of large quantities of cocaine  destined for  European markets</p><br>

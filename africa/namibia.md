@@ -81,9 +81,6 @@ prolonged periods of drought<br>
 **Geography - note**<br>
 the Namib Desert, after which the country is named, is considered to be the oldest desert in the world; Namibia is the first country in the world to incorporate the protection of the environment into its constitution; some 14% of the land is protected, including virtually the entire Namib Desert coastal strip; Namib-Naukluft National Park (49,768 sq km), is the largest game park in Africa and one of the largest in the world<br>
 
-**Map description**<br>
-<p>Namibia map showing major population centers as well as parts of surrounding countries and the South Atlantic Ocean.</p><br>
-
 ## People and Society
 
 **Population**<br>
@@ -158,7 +155,7 @@ _total population_: 0.96 male(s)/female (2022 est.)<br>
 
 **Mother's mean age at first birth**<br>
 21.6 years (2013 est.)<br>
-<strong>note:</strong> median age at first birth among women 25-49<br>
+<strong>note: </strong>data represents median age at first birth among women 25-49<br>
 
 **Maternal mortality ratio**<br>
 195 deaths/100,000 live births (2017 est.)<br>
@@ -378,7 +375,7 @@ _elections_: National Council - elections for regional councils to determine mem
 _election results_: National Council - percent of vote by party - NA; seats by party - SWAPO 28, LPM 6,IPC 2, PDM 2, UDF 2, NUDO 1,  independent 1; composition as of July 2022 - men 36, women 6, percent of women 14.3%<br>National Assembly - percent of vote by party - SWAPO 65.5%, PDM 16.6%, LPM 4.7%, NUDO 1.9%, APP 1.8%, UDF 1.8%, RP 1.8%, NEFF 1.7%, RDP 1.1%, CDV .7%, SWANU .6%, other 1.8%; seats by party - SWAPO 63, PDM 16, LPM 4, NUDO 2, APP 2, UDF 2, RP 2, NEFF 2, RDP 1, CDV 1, SWANU 1; composition as of July 2022 - men 58, women 46, percent of women 44.2%; note - overall percent of women in Parliament 35.6%<br>
 
 **Judicial branch**<br>
-_highest courts_: Supreme Court (consists of the chief justice and at least 3 judges in quorum sessions)<br>
+_highest court(s)_: Supreme Court (consists of the chief justice and at least 3 judges in quorum sessions)<br>
 _judge selection and term of office_: judges appointed by the president of Namibia upon the recommendation of the Judicial Service Commission; judges serve until age 65, but terms can be extended by the president until age 70<br>
 _subordinate courts_: High Court; Electoral Court, Labor Court; regional and district magistrates' courts; community courts<br>
 
@@ -639,7 +636,7 @@ _subscriptions per 100 inhabitants_: 114 (2020 est.)<br>
 _general assessment_: the government&rsquo;s Broadband Policy aims to provide 95% population coverage by 2024, supported by the efforts of telcos including Paratus Telecom which continue to invest in their own extensive network objectives; mobile network coverage has increased sharply in recent years; by 2021, 3G infrastructure provided 89% population coverage while LTE infrastructure provided 79% coverage (compared to only 40% a year earlier); despite the relatively advanced nature of the market, progress towards 5G has been slow, partly due to unsubstantiated public concerns over health implications of the technology which caused the government to order an environmental assessment of 5G in mid-2020; the government has requested the regulator to speed up its 5G development strategy; Namibia&rsquo;s internet and broadband sector is reasonably competitive, its development was for many years held back by high prices for international bandwidth caused by the lack of a direct connection to international submarine cables; this market situation improved after operators invested in diversifying terrestrial access routes to adjacent countries; by the end of 2022 Namibia is expected to be connected by a 1,050km branch line of Google&rsquo;s Equiano cable running between Portugal and South Africa. (2022)<br>
 _domestic_: fixed-line subscribership is less than 6 per 100 and mobile-cellular roughly 102 per 100 persons (2020)<br>
 _international_: country code - 264;&nbsp;landing points for the ACE and WACS&nbsp;fiber-optic submarine cable linking southern and western African countries to Europe; satellite earth stations - 4 Intelsat (2019)<br>
-<strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress towards 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>
+<strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress toward 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>
 
 **Broadcast media**<br>
 1 private and 1 state-run TV station; satellite and cable TV service available; state-run radio service broadcasts in multiple languages; about a dozen private radio stations; transmissions of multiple international broadcasters available<br>

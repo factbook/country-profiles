@@ -70,9 +70,6 @@ over two-thirds of the population lives on the island of Tongatapu; only 45 of t
 **Geography - note**<br>
 the western islands (making up the Tongan Volcanic Arch) are all of volcanic origin; the eastern islands are nonvolcanic and are composed of coral limestone and sand<br>
 
-**Map description**<br>
-<p>Tonga map showing the major islands that make up this archipelago in the South Pacific Ocean.</p><br>
-
 ## People and Society
 
 **Population**<br>
@@ -143,7 +140,7 @@ _total population_: 1.01 male(s)/female (2022 est.)<br>
 
 **Mother's mean age at first birth**<br>
 24.9 years (2012 est.)<br>
-<strong>note:</strong> median age at first birth among women 25-49<br>
+<strong>note:</strong> data represents median age at first birth among women 25-49<br>
 
 **Maternal mortality ratio**<br>
 52 deaths/100,000 live births (2017 est.)<br>
@@ -350,7 +347,7 @@ _elections_: last held on 18 November 2021 (next to be held in November 2025)<br
 _election results_: percent of vote - NA; seats by party (elected members) - independents 11, nobles' representatives 9,&nbsp; Democratic Party 3, Peoples Party 3; composition - men 26, women 1, percent of women 3.7%<br>
 
 **Judicial branch**<br>
-_highest courts_: Court of Appeal (consists of the court president and a number of judges determined by the monarch); note - appeals beyond the Court of Appeal are brought before the King in Privy Council, the monarch's advisory organ that has both judicial and legislative powers<br>
+_highest court(s)_: Court of Appeal (consists of the court president and a number of judges determined by the monarch); note - appeals beyond the Court of Appeal are brought before the King in Privy Council, the monarch's advisory organ that has both judicial and legislative powers<br>
 _judge selection and term of office_: judge appointments and tenures made by the King in Privy Council and subject to consent of the Legislative Assembly<br>
 _subordinate courts_: Supreme Court; Magistrates' Courts; Land Courts<br>
 
@@ -595,7 +592,7 @@ _subscriptions per 100 inhabitants_: 59.43 (2019)<br>
 _general assessment_: high speed Internet provided by 3 MNOs, has subsequently allowed for better health care services, faster connections for education and growing e-commerce services; in 2018 new 4G LTE network; fixed-line teledensity has dropped given mobile subscriptions; mobile technology dominates given the island's geography; satellite technology is widespread and is important especially in areas away from the city; the launch in 2019 of the Kacific-1 broadband satellite has made broadband more widely available for around 89 remote communities (2020)<br>
 _domestic_: fixed-line 6 per 100 persons and mobile-cellular teledensity 59 telephones per 100; fully automatic switched network (2019)<br>
 _international_: country code - 676; landing point for the Tonga Cable and the TDCE connecting to Fiji and 3 separate Tonga islands; satellite earth station - 1 Intelsat (Pacific Ocean) (2020)<br>
-<strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress towards 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>
+<strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress toward 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>
 
 **Broadcast media**<br>
 1 state-owned TV station and 3 privately owned TV stations; satellite and cable TV services are available; 1 state-owned and&nbsp;5 privately owned radio stations; Radio Australia broadcasts available via satellite (2019)<br>

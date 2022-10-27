@@ -71,9 +71,6 @@ frequent, devastating hurricanes (June to November) and coastal flooding (especi
 **Geography - note**<br>
 only country in Central America without a coastline on the North Pacific Ocean<br>
 
-**Map description**<br>
-<p>Belize map showing major cities as well as parts of surrounding countries and the Caribbean Sea.</p><br>
-
 ## People and Society
 
 **Population**<br>
@@ -344,7 +341,7 @@ _election results_: Senate - all members appointed; composition as of March 2022
 <strong> </strong><br>
 
 **Judicial branch**<br>
-_highest courts_: Supreme Court of Judicature (consists of the Court of Appeal with the court president and 3 justices, and the Supreme Court with the chief justice and 10 justices); note - in 2010, Belize acceded to the Caribbean Court of Justice as the final court of appeal, replacing that of the Judicial Committee of the Privy Council in London<br>
+_highest court(s)_: Supreme Court of Judicature (consists of the Court of Appeal with the court president and 3 justices, and the Supreme Court with the chief justice and 10 justices); note - in 2010, Belize acceded to the Caribbean Court of Justice as the final court of appeal, replacing that of the Judicial Committee of the Privy Council in London<br>
 _judge selection and term of office_: Court of Appeal president and justices appointed by the governor-general upon advice of the prime minister after consultation with the National Assembly opposition leader; justices' tenures vary by terms of appointment; Supreme Court chief justice appointed by the governor-general upon the advice of the prime minister and the National Assembly opposition leader; other judges appointed by the governor-general upon the advice of the Judicial and Legal Services Section of the Public Services Commission and with the concurrence of the prime minister after consultation with the National Assembly opposition leader; judges can be appointed beyond age 65 but must retire by age 75; in 2013, the Supreme Court chief justice overturned a constitutional amendment that had restricted Court of Appeal judge appointments to as short as 1 year<br>
 _subordinate courts_: Magistrates' Courts; Family Court<br>
 
@@ -381,7 +378,7 @@ Baird's tapir (a large, browsing, forest-dwelling mammal), keel-billed toucan, B
 **National anthem**<br>
 _name_: Land of the Free<br>
 _lyrics/music_: Samuel Alfred HAYNES/Selwyn Walford YOUNG<br>
-<strong>note:</strong> adopted 1981; as a Commonwealth country, in addition to the national anthem, "God Save the Queen" serves as the royal anthem (see United Kingdom)<br>
+<strong>note:</strong> adopted 1981; as a Commonwealth country, in addition to the national anthem, "God Save the King" serves as the royal anthem (see United Kingdom)<br>
 
 **National heritage**<br>
 _total World Heritage Sites_: 1 (natural)<br>
@@ -600,7 +597,7 @@ _total subscriptions_: 264,000 (2020 est.)<br>
 _subscriptions per 100 inhabitants_: 66 (2020 est.)<br>
 
 **Telecommunication systems**<br>
-_general assessment_: Belize&rsquo;s fixed-line teledensity and mobile subscriptions remain lower than average for the region, a legacy of insufficient market competition and low investment in telecoms services, exacerbated by lax managerial standards within the incumbent telco Digi; Digi has undertaken significant investment in infrastructure, launching an LTE-A service at the end of 2016 and in mid-2017 completing a submarine cable to Ambergris Caye, enabling it to launch an FttP service in San Pedro; loans secured since 2017 enabled the company to migrate its infrastructure from legacy copper to fiber; BTL invested BZ$93 million dollars to provide high speed broadband to 80% of residences across Belize; the telecom market was liberalized in 2003 yet Digi continues to hold a monopoly in fixed-line services, and it remains the dominant provider of mobile and broadband services; the government has undertaken some measures to improve competition, notably by obliging Digi in mid-2013 to open its networks to VoIP services. (2021)<br>
+_general assessment_: Belize&rsquo;s fixed-line teledensity and mobile subscriptions remain lower than average for the region, a legacy of insufficient market competition and low investment in telecoms services; the telecom market was liberalized in 2003; the government has undertaken some measures to improve competition and open its networks to VoIP services (2021)<br>
 _domestic_: roughly 5 per 100 fixed-line and mobile-cellular teledensity of 65 per 100 persons; mobile sector accounting for over 90% of all phone subscriptions (2019)<br>
 _international_: country code - 501; landing points for the&nbsp;ARCOS and SEUL&nbsp;fiber-optic telecommunications submarine cable that provides links to South and Central America, parts of the Caribbean, and the US; satellite earth station - 8 (Intelsat - 2, unknown - 6) (2019)<br>
 <strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress toward 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>

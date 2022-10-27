@@ -62,9 +62,6 @@ subject to occasional typhoons<br>
 **Geography - note**<br>
 strategic location in the North Pacific Ocean; emergency landing location for transpacific flights<br>
 
-**Map description**<br>
-<p>Wake Island map showing the three component islands and surrounding reef that make up the US territory in the North Pacific Ocean.</p><br>
-
 ## People and Society
 
 **Population**<br>
@@ -204,7 +201,7 @@ _Total energy consumption per capita 2019_: 0 Btu/person (2019 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: satellite communications; 2 Defense Switched Network circuits off the Overseas Telephone System (OTS); located in the Hawaii area code - 808 (2018)<br>
-<strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress towards 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>
+<strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress toward 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>
 
 **Broadcast media**<br>
 American Armed Forces Radio and Television Service (AFRTS) provides satellite radio/TV broadcasts (2018)<br>

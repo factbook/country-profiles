@@ -80,9 +80,6 @@ population concentrated in the west and north, with the interior of the country 
 **Geography - note**<br>
 sometimes referred to as the hinge of Africa because of its central location on the continent and its position at the west-south juncture of the Gulf of Guinea; throughout the country there are areas of thermal springs and indications of current or prior volcanic activity; Mount Cameroon, the highest mountain in Sub-Saharan west Africa, is an active volcano<br>
 
-**Map description**<br>
-<p>Cameroon map showing major cities as well as parts of surrounding countries and the Bight of Benin.</p><br>
-
 ## People and Society
 
 **Population**<br>
@@ -157,7 +154,7 @@ _total population_: 0.99 male(s)/female (2022 est.)<br>
 
 **Mother's mean age at first birth**<br>
 20.1 years (2018 est.)<br>
-<strong>note:</strong> median age at first birth among women 25-49<br>
+<strong>note:</strong> data represents median age at first birth among women 25-49<br>
 
 **Maternal mortality ratio**<br>
 529 deaths/100,000 live births (2017 est.)<br>
@@ -392,7 +389,7 @@ _elections_: Senate - last held on 25 March 2018 (next to be held in 2023)<br>Na
 _election results_: Senate - percent of vote by party - CDPM 81.1%, SDF 8.6%, UNDP 5.8%, UDC 1.16%, other 2.8%; seats by party - CPDM 63, SDF 7; composition as of March 2022 - men 74, women 26, percent of women 26%<br>National Assembly - percent of vote by party - NA; seats by party - CPDM 139, UNDP 7, SDF 5, PCRN 5, UDC 4, FSNC 3, MDR 2, Union of Socialist Movements 2; 13 vacant; composition as of March 2022 - men 119, women 61, percent of women 33.9%; note - total Parliament percent of women 31.1%<br>
 
 **Judicial branch**<br>
-_highest courts_: Supreme Court of Cameroon (consists of 9 titular and 6 surrogate judges and organized into judicial, administrative, and audit chambers); Constitutional Council (consists of 11 members)<br>
+_highest court(s)_: Supreme Court of Cameroon (consists of 9 titular and 6 surrogate judges and organized into judicial, administrative, and audit chambers); Constitutional Council (consists of 11 members)<br>
 _judge selection and term of office_: Supreme Court judges appointed by the president with the advice of the Higher Judicial Council of Cameroon, a body chaired by the president and includes the minister of justice, selected magistrates, and representatives of the National Assembly; judge term NA; Constitutional Council members appointed by the president for single 9-year terms<br>
 _subordinate courts_: Parliamentary Court of Justice (jurisdiction limited to cases involving the president and prime minister); appellate and first instance courts; circuit and magistrates' courts<br>
 
@@ -649,7 +646,7 @@ _total subscriptions_: 22,350,310 (2020 est.)<br>
 _subscriptions per 100 inhabitants_: 84 (2020 est.)<br>
 
 **Telecommunication systems**<br>
-_general assessment_: Cameroon was for many years one of the few countries in Africa with only two competing mobile operators; after some delays, Viettel Cameroon launched a third network and has since grown its subscriber base rapidly; Camtel became the fourth mobile operator in early 2020 after securing three licenses, however it suspended the launch of services in early 2021; despite this, by the end of the year a launch under the Blue brand was imminent; the investment programs among operators over the next few years will considerably boost mobile broadband services in rural areas of the country, many of which are under served by fixed-line infrastructure; the ICT sector in Cameroon is making steady progress, enabling the country to make better use of the digital economy; about 95% of all electronic transactions are carried through the m-money services operated by MTN Cameroon and Orange Cameroon; the government has also been supportive, having launched its &lsquo;Cameroon Digital 2020&rsquo; program, aimed at improving connectivity nationally. A large number of small ICT projects form part of the overall program; improved submarine and terrestrial cable connectivity has substantially increased international bandwidth, in turn leading to reductions in access prices for consumers; other projects such as Acceleration of the Digital Transformation of Cameroon are aimed at developing the digital economy, and accelerating the use of ICT in areas such as government services, agriculture, and commerce. (2022)<br>
+_general assessment_: Cameroon was for many years one of the few countries in Africa with only two competing mobile operators; the investment programs among operators over the next few years will considerably boost mobile broadband services in rural areas of the country, many of which are under served by fixed-line infrastructure; the ICT sector in Cameroon is making steady progress, enabling the country to make better use of the digital economy; the government has also been supportive, having launched its &lsquo;Cameroon Digital 2020&rsquo; program, aimed at improving connectivity nationally. A large number of small ICT projects form part of the overall program; improved submarine and terrestrial cable connectivity has substantially increased international bandwidth, in turn leading to reductions in access prices for consumers; other projects such as Acceleration of the Digital Transformation of Cameroon are aimed at developing the digital economy, and accelerating the use of ICT in areas such as government services, agriculture, and commerce (2022)<br>
 _domestic_: only a little above 3 per 100 persons for fixed-line subscriptions; mobile-cellular usage has increased sharply, reaching a subscribership base of roughly 95 per 100 persons (2020)<br>
 _international_: country code - 237; landing points for the SAT-3/WASC, SAIL, ACE, NCSCS, Ceiba-2, and WACS&nbsp;fiber-optic submarine cable that provides connectivity to Europe, South America, and West Africa; satellite earth stations - 2 Intelsat (Atlantic Ocean) (2019)<br>
 <strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress toward 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>

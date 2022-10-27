@@ -60,9 +60,6 @@ subject to tropical storms and hurricanes from May to October<br>
 **Geography - note**<br>
 the atoll reef is approximately 12 km (7.5 mi) in circumference; an attempt to colonize the atoll in the early 20th century ended in disaster and was abandoned in 1917<br>
 
-**Map description**<br>
-<p>Clipperton Island map showing the French possession in the North Pacific Ocean.</p><br>
-
 ## People and Society
 
 **Population**<br>

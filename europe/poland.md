@@ -80,9 +80,6 @@ flooding<br>
 **Geography - note**<br>
 historically, an area of conflict because of flat terrain and the lack of natural barriers on the North European Plain<br>
 
-**Map description**<br>
-<p>Poland map showing major cities as well as parts of surrounding countries and the Baltic Sea.</p><br>
-
 ## People and Society
 
 **Population**<br>
@@ -372,7 +369,7 @@ _election results_: <br>Senate - percent of vote by party - NA; seats by party -
 <strong>note:</strong> the designation National Assembly or Zgromadzenie Narodowe is only used on those rare occasions when the 2 houses meet jointly<br>
 
 **Judicial branch**<br>
-_highest courts_: Supreme Court or Sad Najwyzszy (consists of the first president of the Supreme Court and 120 justices organized in criminal, civil, labor and social insurance, and extraordinary appeals and public affairs and disciplinary chambers); Constitutional Tribunal (consists of 15 judges, including the court president and vice president)<br>
+_highest court(s)_: Supreme Court or Sad Najwyzszy (consists of the first president of the Supreme Court and 120 justices organized in criminal, civil, labor and social insurance, and extraordinary appeals and public affairs and disciplinary chambers); Constitutional Tribunal (consists of 15 judges, including the court president and vice president)<br>
 _judge selection and term of office_: president of the Supreme Court nominated by the General Assembly of the Supreme Court and selected by the president of Poland; other judges nominated by the 25-member National Judicial Council and appointed by the president of Poland; judges serve until retirement, usually at age 65, but tenure can be extended; Constitutional Tribunal judges chosen by the Sejm for single 9-year terms<br>
 _subordinate courts_: administrative courts; military courts; local, regional and appellate courts subdivided into military, civil, criminal, labor, and family courts<br>
 
@@ -635,7 +632,7 @@ _subscriptions per 100 inhabitants_: 130 (2020 est.)<br>
 _general assessment_: the liberalized telecom market has seen considerable development in the broadband and mobile sectors; the incumbent telco, Orange Poland, dominates the broadband market and has invested in fiber infrastructure to support the growing adoption of bundled services among customers; the regulatory environment has encouraged market competition, partly by encouraging operators to secure spectrum and also by ensuring access to cable and fiber infrastructure; the mobile market in recent years has been characterized by the rapid extension of LTE networks and the development of mobile data services based on newly released and re-farmed spectrum; the regulator&rsquo;s attempts to auction spectrum in a range of bands has been delayed, with spectrum in the 5G-suitable 3.4-3.8GHz range having been suspended to later in 2021 as a result of the Covid-19 outbreak and legislative changes. (2021)<br>
 _domestic_: several nation-wide networks provide mobile-cellular service; fixed-line roughly 15 per 100 (service lags in rural areas), mobile-cellular over 130 per 100 persons (2020)<br>
 _international_: country code - 48; landing points for the Baltica and the Denmark-Poland2 submarine cables connecting Poland, Denmark and Sweden; international direct dialing with automated exchanges; satellite earth station - 1 with access to Intelsat, Eutelsat, Inmarsat, and Intersputnik (2019)<br>
-<strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress towards 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>
+<strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress toward 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>
 
 **Broadcast media**<br>
 state-run public TV operates 2 national channels supplemented by 16 regional channels and several niche channels; privately owned entities operate several national TV networks and a number of special interest channels; many privately owned channels broadcasting locally; roughly half of all households are linked to either satellite or cable TV systems providing access to foreign television networks; state-run public radio operates 5 national networks and 17 regional radio stations; 2 privately owned national radio networks, several commercial stations broadcasting to multiple cities, and many privately owned local radio stations (2019)<br>
@@ -753,7 +750,7 @@ Islamic State of Iraq and ash-Sham (ISIS)<br>
 <p><em>Poland-Belarus-Ukraine</em>: as a member state that forms part of the EU's external border, Poland has implemented the strict Schengen border rules to restrict illegal immigration and trade along its eastern borders with Belarus and Ukraine</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 9,870 (Russia) (2019); 1,436,558 (Ukraine) (as of 11 October 2022)<br>
+_refugees (country of origin)_: 9,870 (Russia) (2019); 1,449,214 (Ukraine) (as of 18 October 2022)<br>
 _stateless persons_: 1,389 (mid-year 2021)<br>
 
 **Illicit drugs**<br>

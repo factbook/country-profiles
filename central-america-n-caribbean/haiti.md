@@ -73,9 +73,6 @@ lies in the middle of the hurricane belt and subject to severe storms from June 
 **Geography - note**<br>
 shares island of Hispaniola with Dominican Republic (western one-third is Haiti, eastern two-thirds is the Dominican Republic); it is the most mountainous nation in the Caribbean<br>
 
-**Map description**<br>
-<p>Haiti map shows the country’s border with the Dominican Republic and its position in the Caribbean Sea.</p><br>
-
 ## People and Society
 
 **Population**<br>
@@ -148,7 +145,7 @@ _total population_: 0.97 male(s)/female (2022 est.)<br>
 
 **Mother's mean age at first birth**<br>
 22.4 years (2016/7 est.)<br>
-<strong>note:</strong> median age at first birth among women 25-49<br>
+<strong>note:</strong> data represents median age at first birth among women 25-49<br>
 
 **Maternal mortality ratio**<br>
 480 deaths/100,000 live births (2017 est.)<br>
@@ -355,7 +352,7 @@ _election results_: <br>Senate - percent of vote by party - NA; seats by party -
 <em>note:</em> the Chamber of Deputies is currently defunct, and the Senate is only one-third filled (not enough seats for a quorum)<br>
 
 **Judicial branch**<br>
-_highest courts_: Supreme Court or Cour de cassation (consists of a chief judge and other judges); note 1 - the Cour de cassation currently has no chief judge and only 3 sitting members and is not functional; note 2 - Haiti is a member of the Caribbean Court of Justice; &nbsp;Constitutional Court, called for in the 1987 constitution but not yet established; High Court of Justice, for trying high government officials - currently not functional<br>
+_highest court(s)_: Supreme Court or Cour de cassation (consists of a chief judge and other judges); note 1 - the Cour de cassation currently has no chief judge and only 3 sitting members and is not functional; note 2 - Haiti is a member of the Caribbean Court of Justice; &nbsp;Constitutional Court, called for in the 1987 constitution but not yet established; High Court of Justice, for trying high government officials - currently not functional<br>
 _judge selection and term of office_: judges appointed by the president from candidate lists submitted by the Senate of the National Assembly; note - Article 174 of Haiti's constitution states that judges of the Supreme Court are appointed for 10 years, whereas Article 177 states that judges of the Supreme Court are appointed for life<br>
 _subordinate courts_: Courts of Appeal; Courts of First Instance; magistrate's courts; land, labor, and children's courts<br>
 <strong>note</strong>: the Superior Council of the Judiciary or Conseil Superieur du Pouvoir Judiciaire is a 9-member body charged with the administration and oversight of the judicial branch of government<br>
@@ -603,7 +600,7 @@ _total subscriptions_: 7.319 million (2020 est.)<br>
 _subscriptions per 100 inhabitants_: 64 (2020 est.)<br>
 
 **Telecommunication systems**<br>
-_general assessment_: Haiti is in desperate need of maintaining effective communication services to enable it to keep going through the countless natural disasters, the country&rsquo;s telecoms sector is really only surviving on the back of international goodwill to repair and replace the systems destroyed in the latest upheaval; Haiti&rsquo;s fixed-line infrastructure is now practically non-existent, having been torn apart by Hurricane Matthew in 2016; what aid and additional investment has been forthcoming has been directed towards mobile solutions; over half of the country can afford a mobile handset or the cost of a monthly subscription; and mobile broadband subscriptions is half of that again &ndash; an estimated 28% in 2022; international aid continues to flow in to try and help the country&rsquo;s telecoms sector recover &ndash; the World Bank has released a further $120 million to go on top of the $60 million grant provided after the last major 7.2 earthquake in August 2021. (2022)<br>
+_general assessment_: Haiti is in desperate need of maintaining effective communication services to enable it to keep going through the countless natural disasters, the country&rsquo;s telecoms sector is really only surviving on the back of international goodwill to repair and replace the systems destroyed in the latest upheaval; Haiti&rsquo;s fixed-line infrastructure is now practically non-existent, having been torn apart by Hurricane Matthew in 2016; what aid and additional investment has been forthcoming has been directed towards mobile solutions; over half of the country can afford a mobile handset or the cost of a monthly subscription; and mobile broadband subscriptions is half of that again &ndash; an estimated 28% in 2022; international aid continues to flow in to try and help the country&rsquo;s telecoms sector recover &ndash; the World Bank has released a further $120 million to go on top of the $60 million grant provided after the last major 7.2 earthquake in August 2021 (2022)<br>
 _domestic_: fixed-line is less than 1 per 100; mobile-cellular telephone services have expanded greatly in the last decade due to low-cost GSM (Global Systems for Mobile) phones and pay-as-you-go plans; mobile-cellular teledensity is nearly 61 per 100 persons (2019)<br>
 _international_: country code - 509; landing points for the BDSNi and Fibralink submarine cables to 14 points in the Bahamas and Dominican Republic; satellite earth station - 1 Intelsat (Atlantic Ocean) (2019)<br>
 <strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress toward 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>

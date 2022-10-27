@@ -73,9 +73,6 @@ roughly half of the nation's population resides in urban areas; the capital of S
 **Geography - note**<br>
 four volcanoes, two of them active, rise near the capital of San Jose in the center of the country; one of the volcanoes, Irazu, erupted destructively in 1963-65<br>
 
-**Map description**<br>
-<p>Costa Rica map showing major cities as well as parts of surrounding countries and the North Pacific Ocean and Caribbean Sea.</p><br>
-
 ## People and Society
 
 **Population**<br>
@@ -358,7 +355,7 @@ _elections_: last held on 6 February 2022 (next to be held in February 2026)<br>
 _election results_: percent of vote by party - PLN 24.8%, PPSD 15%, PUSC 11.4%, PNR 10.1%, PLP 9.1%, 8.3%, other 21.3%; seats by party - PLN 19,&nbsp; PPSD 10, PUSC 9, PNR 7, PLP 6, PFA 6; composition - men 30, women 27, percent of women 47.4%<br>
 
 **Judicial branch**<br>
-_highest courts_: Supreme Court of Justice (consists of 22 judges organized into 3 cassation chambers each with 5 judges and the Constitutional Chamber with 7 judges)<br>
+_highest court(s)_: Supreme Court of Justice (consists of 22 judges organized into 3 cassation chambers each with 5 judges and the Constitutional Chamber with 7 judges)<br>
 _judge selection and term of office_: Supreme Court of Justice judges elected by the National Assembly for 8-year terms with renewal decided by the National Assembly<br>
 _subordinate courts_: appellate courts; trial courts; first instance and justice of the peace courts; Superior Electoral Tribunal<br>
 
@@ -616,7 +613,7 @@ _total subscriptions_: 7,512,370 (2020 est.)<br>
 _subscriptions per 100 inhabitants_: 147 (2020 est.)<br>
 
 **Telecommunication systems**<br>
-_general assessment_: in Aug 2021 Liberty Latin America (LLA) completed its acquisition of Telef&oacute;nica Costa Rica (Movistar) &mdash; Costa Rica&rsquo;s second-largest mobile network operator &mdash; for around $505 million; the deal followed on the heels of the failure of Millicom to buy Movistar earlier in the year, at a higher price; LLA&rsquo;s local unit Cabletica will be able to combine its fixed telecom services with Movistar&rsquo;s mobile offerings; a rebranding exercise is anticipated in 2022, with the Movistar brand likely to be phased out; the fixed broadband market is one of the few parts of Costa Rica&rsquo;s telecom sector to experience solid growth in recent years, both in size and revenue; the country&rsquo;s fiber network expanded by 56% in 2020, reaching about 176,200km; fixed-line broadband traffic volume also increased by more than 30%, year-on-year;&nbsp; other areas of the market have proven relatively lack luster, with slow or even negative growth; ome of this can be attributed to the economic and social impacts of the pandemic, but the fixed-line and mobile sectors have both been struggling to produce decent results since well before the start of the crisis; the rollout of 5G network infrastructure in Costa Rica is unlikely to occur to any scale before 2023, but this may be one of the few remaining areas of opportunity open to investors outside of fixed-line internet and pay TV services. (2021)<br>
+_general assessment_: the fixed broadband market is one of the few parts of Costa Rica&rsquo;s telecom sector to experience solid growth in recent years, both in size and revenue; the country&rsquo;s fiber network expanded by 56% in 2020, reaching about 176,200km; fixed-line broadband traffic volume also increased by more than 30%, year-on-year;&nbsp; other areas of the market have proven relatively lack luster, with slow or even negative growth; some of this can be attributed to the economic and social impacts of the pandemic, but the fixed-line and mobile sectors have both been struggling to produce decent results since well before the start of the crisis; the rollout of 5G network infrastructure in Costa Rica is unlikely to occur to any scale before 2023, but this may be one of the few remaining areas of opportunity open to investors outside of fixed-line internet and pay TV services (2021)<br>
 _domestic_: roughly 11 per 100 fixed-line and 148 per 100 mobile-cellular; point-to-point and point-to-multi-point microwave, fiber-optic, and coaxial cable link rural areas; Internet service is available (2020)<br>
 _international_: country code - 506; landing points for the ARCOS-1, MAYA-1, and the&nbsp;PAC submarine cables that provide links to South and Central America, parts of the Caribbean, and the US; connected to Central American Microwave System; satellite earth stations - 2 Intelsat (Atlantic Ocean) (2019)<br>
 <strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress toward 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>

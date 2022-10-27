@@ -81,9 +81,6 @@ seasonal flooding<br>
 **Geography - note**<br>
 about 70% of the population lives in Brazzaville, Pointe-Noire, or along the railroad between them<br>
 
-**Map description**<br>
-<p>Republic of the Congo map showing major cities as well as parts of surrounding countries and the South Atlantic Ocean.</p><br>
-
 ## People and Society
 
 **Population**<br>
@@ -158,7 +155,7 @@ _total population_: 1.01 male(s)/female (2022 est.)<br>
 
 **Mother's mean age at first birth**<br>
 19.6 years (2011/12 est.)<br>
-<strong>note:</strong> median age at first birth among women 20-49<br>
+<strong>note:</strong> data represents median age at first birth among women 20-49<br>
 
 **Maternal mortality ratio**<br>
 378 deaths/100,000 live births (2017 est.)<br>
@@ -383,7 +380,7 @@ _elections_: <strong> </strong><br>Senate - last held on 31 August 2017 (next t
 _election results_: Senate - percent of vote by party - NA; seats by party - PCT 46, independent 12, MAR 2, RDPS 2, UPADS 2, DRD 1, FP 1, MCDDI 1, PRL 1, Pulp 1, PUR 1, RC 1; composition - men 58, women 14, percent of women 19.4%<br><br>National Assembly - percent of vote by party - NA; seats by party - PCT 112, UPADS 7, UDH-YUKI 7, MAR 4, RLP 2, CLUB 2002 2, DRR 2, RDPS 2, PAC 1, MSD 1, MDP 1, CPR 1, PPRD 1, CR 1, MCDDI 1, independent 6; composition - men 134, women 17, percent of women 11.3%; note - total Parliament percent of women 13.9%<br><br>National Assembly - percent of vote by party - NA; seats by party - PCT 96, UPADS 8, MCDDI 4, other 23 (less than 4 seats) independent 20; composition - men 134, women 17, percent of women 11.3%; note - total Parliament percent of women 13.9% (2022)<br>
 
 **Judicial branch**<br>
-_highest courts_: Supreme Court or Cour Supreme (consists of NA judges); Constitutional Court (consists of 9 members); note - a High Court of Justice, outside the judicial authority, tries cases involving treason by the president of the republic<br>
+_highest court(s)_: Supreme Court or Cour Supreme (consists of NA judges); Constitutional Court (consists of 9 members); note - a High Court of Justice, outside the judicial authority, tries cases involving treason by the president of the republic<br>
 _judge selection and term of office_: Supreme Court judges elected by Parliament and serve until age 65; Constitutional Court members appointed by the president of the republic - 3 directly by the president and 6 nominated by Parliament; members appointed for renewable 9-year terms with one-third of the membership renewed every 3 years<br>
 _subordinate courts_: Court of Audit and Budgetary Discipline; courts of appeal; regional and district courts; employment tribunals; juvenile courts<br>
 

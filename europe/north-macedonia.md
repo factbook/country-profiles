@@ -73,9 +73,6 @@ high seismic risks<br>
 **Geography - note**<br>
 landlocked; major transportation corridor from Western and Central Europe to Aegean Sea and Southern Europe to Western Europe<br>
 
-**Map description**<br>
-<p>North Macedonia map showing major population centers as well as parts of surrounding countries.</p><br>
-
 ## People and Society
 
 **Population**<br>
@@ -349,7 +346,7 @@ _elections_: last held on 15 July 2020 (next to be held in 2024)<br>
 _election results_: percent of vote by party/coalition - We Can 35.9%, Renewal 34.6%, BDI 11.5%, AfA-Alternative 9%, The Left 4.1%, PDSh 1.5%, other 3.4%; seats by party/coalition - We Can 46, Renewal 44, BDI 15, AfA-Alternative 12, The Left 2, PDSh 1; composition - men 70, women 50, percent of women 41.7%<br>
 
 **Judicial branch**<br>
-_highest courts_: Supreme Court (consists of 22 judges); Constitutional Court (consists of 9 judges)<br>
+_highest court(s)_: Supreme Court (consists of 22 judges); Constitutional Court (consists of 9 judges)<br>
 _judge selection and term of office_: Supreme Court judges nominated by the Judicial Council, a 7-member body of legal professionals, and appointed by the Assembly; judge tenure NA; Constitutional Court judges appointed by the Assembly for nonrenewable, 9-year terms<br>
 _subordinate courts_: Courts of Appeal; Basic Courts<br>
 
@@ -609,7 +606,7 @@ _subscriptions per 100 inhabitants_: 89 (2020 est.)<br>
 _general assessment_: as part of the EU pre-accession process, North Macedonia has built closer economic ties with the Union which accounts for 77.5% of Macedonia&rsquo;s exports and just over half of its imports; closer regulatory and administrative ties with European Commission (EC) institutions have done much to develop the telecom sector and prepare the market for the competitive environment encouraged in the EU; as part of EU integration legislation North Macedonia has implemented the principles of the EU&rsquo;s regulatory framework for communications, established an independent regulator and set out several provisions to provide for a competitive telecom market, including wholesale access to the incumbent&rsquo;s fixed-line network; although the fixed telephony market has been liberalized, the incumbent MakTel continues to dominate the sector; broadband services are widely available, with effective competition between DSL and cable platforms complemented by wireless broadband and a developing fiber sector; the number of DSL subscribers has continued to fall in recent years as customers are migrated to fiber networks; Macedonia&rsquo;s mobile market is served by only two MNOs, MakTel and A1 Macedonia (known as One.Vip before a rebranding exercise in September 2019); the latter was formed from the merger of the local business units of Telekom Slovenije and Telekom Austria; A1 Macedonia in May 2016 was also merged with its sister company Blizoo, and so has been able to provide a full suite of converged services; Mtel, a subsidiary of Telekom Srbija, has also committed to launch mobile services by the end of 2022, a move which will break the duopoly; the MNOs are increasingly focused on expanding their 5G networks, seeking stronger coverage across North Macedonia&rsquo;s high value urban areas; mobile data services are also becoming increasingly important following investments in LTE network rollouts and in upgrades to LTE-A technology. (2022)<br>
 _domestic_: fixed-line roughly 19 per 100 and mobile-cellular 92 per 100 subscriptions (2019)<br>
 _international_: country code - 389<br>
-<strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress towards 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>
+<strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress toward 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>
 
 **Broadcast media**<br>
 public service TV broadcaster Macedonian Radio and Television operates 3 national terrestrial TV channels and 2 satellite TV channels; additionally, there are 10 regional TV stations that broadcast nationally using terrestrial transmitters, 54 TV channels with concession for cable TV, 9 regional TV stations with concessions for cable TV; 4 satellite TV channels broadcasting on a national level, 21 local commercial TV channels, and a large number of cable operators that offer domestic and international programming; the public radio broadcaster operates over 3 stations; there are 4 privately owned radio stations that broadcast nationally; 17 regional radio stations, and 49 local commercial radio stations (2019)<br>
@@ -693,9 +690,9 @@ Islamic State of Iraq and ash-Sham (ISIS)<br>
 <p><em>North Macedonia-Albania</em>: none identified</p> <p><em>North Macedonia-Greece</em>: none identified</p> <p><em>North Macedonia-Kosovo</em>: North Macedonia and Kosovo completed demarcation of their boundary in October 2009</p> <p><em>North Macedonia-Serbia</em>: none identified</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 6,031 (Ukraine) (as of 11 October 2022)<br>
+_refugees (country of origin)_: 6,123 (Ukraine) (as of 18 October 2022)<br>
 _stateless persons_: 553 (mid-year 2021)<br>
-<strong>note:</strong> 542,907 estimated refugee and migrant arrivals (January 2015-August 2022)<br>
+<strong>note:</strong> 545,889 estimated refugee and migrant arrivals (January 2015-September 2022)<br>
 
 **Illicit drugs**<br>
 major transshipment point for Southwest Asian heroin and hashish; minor transit point for South American cocaine destined for Europe; although not a financial center and most criminal activity is thought to be domestic, money laundering is a problem due to a mostly cash-based economy and weak enforcement<br>

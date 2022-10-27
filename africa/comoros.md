@@ -69,9 +69,6 @@ the capital city of Maroni, located on the western side of the island of Grande 
 **Geography - note**<br>
 important location at northern end of Mozambique Channel; the only Arab League country that lies entirely in the Southern Hemisphere<br>
 
-**Map description**<br>
-<p>Comoros map showing the three major islands that make up the country in the Indian Ocean.</p><br>
-
 ## People and Society
 
 **Population**<br>
@@ -145,7 +142,7 @@ _total population_: 0.94 male(s)/female (2022 est.)<br>
 
 **Mother's mean age at first birth**<br>
 23 years (2012 est.)<br>
-<strong>note:</strong> median age at first birth among women 25-49<br>
+<strong>note:</strong> data represents median age at first birth among women 25-49<br>
 
 **Maternal mortality ratio**<br>
 273 deaths/100,000 live births (2017 est.)<br>
@@ -341,7 +338,7 @@ _elections_: last held on&nbsp;19 January 2020 with a runoff on 23&nbsp;February
 _election results_: seats by party -1st round - Boycotting parties 16, Independent 3, CRC 2, RDC 2, RADHI 1, Orange party 0; note -  9 additional seats filled by the 3 island assemblies; 2nd round - CRC 20, Orange Party 2, Independents 2; composition for elected members as of 2022 - men 20, women 4, percent of women 16.7%<br> <h3> </h3> (2019)<br>
 
 **Judicial branch**<br>
-_highest courts_: Supreme Court or Cour Supreme (consists of 7 judges)<br>
+_highest court(s)_: Supreme Court or Cour Supreme (consists of 7 judges)<br>
 _judge selection and term of office_: Supreme Court judges - selection and term of office NA<br>
 _subordinate courts_: Court of Appeals (in Moroni); Tribunal de premiere instance; island village (community) courts; religious courts<br>
 <br>   <br><br> <br>

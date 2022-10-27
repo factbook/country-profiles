@@ -79,9 +79,6 @@ local flooding in southeast (early September to June); poorly drained plains may
 **Geography - note**<br>
 <strong>note 1: </strong>landlocked; lies between Argentina, Bolivia, and Brazil; population concentrated in eastern and southern part of country<br><br><strong>note 2:</strong> pineapples are probably indigenous to the southern Brazil-Paraguay region <br>
 
-**Map description**<br>
-<p>Paraguay map showing major population centers as well as parts of surrounding countries.</p><br>
-
 ## People and Society
 
 **Population**<br>
@@ -155,7 +152,7 @@ _total population_: 1.01 male(s)/female (2022 est.)<br>
 
 **Mother's mean age at first birth**<br>
 22.9 years (2008 est.)<br>
-<strong>note:</strong> median age at first birth among women 25-29<br>
+<strong>note:</strong> data represents median age at first birth among women 25-29<br>
 
 **Maternal mortality ratio**<br>
 84 deaths/100,000 live births (2017 est.)<br>
@@ -371,7 +368,7 @@ _elections_: <br>Chamber of Senators - last held on 22 April 2018 (next to be he
 _election results_: <br>Chamber of Senators - percent of vote by party/coalition - ANR 32.52%, PLRA 24.18%, FG 11.83%, PPQ 6.77%, MH 4.47%, PDP 3.66%, MCN 2.48%, UNACE 2.12%, other 11.97%; seats by party/coalition - ANR 17, PLRA 13, FG 6, PPQ 3, MH 2, PDP 2, MCN 1, UNACE 1; composition - men 38, women 7, percent of women 15.6%<br>Chamber of Deputies - percent of vote by party/coalition - ANR 39.1%, PLRA 17.74%, Ganar Alliance 12.08%, PPQ 4.46%, MH 3.19%; other 23.43%; seats by party/coalition - ANR 42, PLRA 17, Ganar Alliance 13, PPQ 3, MH 2, other 3; composition - men 66, women 14, percent of women 17.5%; note - total National Congress percent of women 16.8%<br>
 
 **Judicial branch**<br>
-_highest courts_: Supreme Court of Justice or Corte Suprema de Justicia (consists of 9 justices divided 3 each into the Constitutional Court, Civil and Commercial Chamber, and Criminal Division)<br>
+_highest court(s)_: Supreme Court of Justice or Corte Suprema de Justicia (consists of 9 justices divided 3 each into the Constitutional Court, Civil and Commercial Chamber, and Criminal Division)<br>
 _judge selection and term of office_: justices proposed by the Council of Magistrates or Consejo de la Magistratura, a 6-member independent body, and appointed by the Chamber of Senators with presidential concurrence; judges can serve until mandatory retirement at age 75<br>
 _subordinate courts_: appellate courts; first instance courts; minor courts, including justices of the peace<br>
 
@@ -631,7 +628,7 @@ _subscriptions per 100 inhabitants_: 110 (2020 est.)<br>
 _general assessment_: limited progress on structural reform and deficient infrastructure of the landlocked country are obstacles to telecom platform; monopolized fixed-line service; effective competition in mobile market, serving 96% of population through LTE; deployment of fiber; South Korean investment in education centers; operator enabled 109 free Internet points across the country and is looking to expand to 430 points in 2022; Inter-American Development Bank loan supports modernization within regulatory framework; dependent on neighboring countries for access to submarine cables; major importer of broadcasting equipment from the USA (2022)<br>
 _domestic_: deficiencies in provision of fixed-line service have resulted in expansion of mobile-cellular services fostered by competition among multiple providers; Internet market also open to competition; fixed-line just over 3 per 100 and mobile-cellular just over 105 per 100 of the population (2020)<br>
 _international_: country code - 595; Paraguay's landlocked position means they must depend on neighbors for interconnection with submarine cable networks, making it cost more for broadband services; satellite earth station - 1 Intelsat (Atlantic Ocean) (2019)<br>
-<strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress towards 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>
+<strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress toward 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>
 
 **Broadcast media**<br>
 6 privately owned TV stations; about 75 commercial and community radio stations; 1 state-owned radio network (2019)<br>

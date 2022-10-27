@@ -78,9 +78,6 @@ earthquakes; landslides<br>
 **Geography - note**<br>
 strategic location near Turkish Straits; controls key land routes from Europe to Middle East and Asia<br>
 
-**Map description**<br>
-<p>Bulgaria map showing major cities as well as parts of surrounding countries and the Black Sea.</p><br>
-
 ## People and Society
 
 **Population**<br>
@@ -358,7 +355,7 @@ _elections_: last held on 2 October 2022 (next election to be held in 2026)<br>
 _election results_: percent of vote by party/coalition - GERB-SDS 24.5%, PP 19.5%, DPS 13.3%, Revival 9.8%, BSP for Bulgaria 9%, DB 7.2%, BV 4.5%, other 12.2%; seats by party/coalition GERB-SDS 67, PP 53, DPS 36, Revival 27, BSP for Bulgaria 25, DB 20, BV 12; composition - men NA, women NA, percent of women NA%<br>
 
 **Judicial branch**<br>
-_highest courts_: Supreme Court of Cassation (consists of a chairman and approximately 72 judges organized into penal, civil, and commercial colleges); Supreme Administrative Court (organized into 2 colleges with various panels of 5 judges each); Constitutional Court (consists of 12 justices); note - Constitutional Court resides outside the judiciary<br>
+_highest court(s)_: Supreme Court of Cassation (consists of a chairman and approximately 72 judges organized into penal, civil, and commercial colleges); Supreme Administrative Court (organized into 2 colleges with various panels of 5 judges each); Constitutional Court (consists of 12 justices); note - Constitutional Court resides outside the judiciary<br>
 _judge selection and term of office_: Supreme Court of Cassation and Supreme Administrative judges elected by the Supreme Judicial Council or SJC (consists of 25 members with extensive legal experience) and appointed by the president; judges can serve until mandatory retirement at age 65; Constitutional Court justices elected by the National Assembly and appointed by the president and the SJC; justices appointed for 9-year terms with renewal of 4 justices every 3 years<br>
 _subordinate courts_: appeals courts; regional and district courts; administrative courts; courts martial<br>
 
@@ -618,7 +615,7 @@ _total subscriptions_: 7,945,739 (2020 est.)<br>
 _subscriptions per 100 inhabitants_: 114 (2020 est.)<br>
 
 **Telecommunication systems**<br>
-_general assessment_: <p>Bulgaria’s telecom market was for some years affected by the difficult macroeconomic climate, as well as by relatively high unemployment and a shrinking population; these factors continue to slow investments in the sector, though revenue growth has returned since 2019; there still remains pressure on revenue growth, with consumers migrating from fixed-line voice telephony to mobile and VoIP alternatives, while the volume of SMS and MMS traffic has been affected by the growing use of alternative OTT messaging services; the mature mobile market has effective competition between A1 Bulgaria, Yettel (branded as Telenor Bulgaria before March 2022, the Telenor Group’s local unit that had been sold to the PPF Group in August 2018), and the incumbent telco Vivacom; competition intensified following the implementation of a streamlined mobile number portability process; customer preference for bundled services has put pressure on pricing and encouraged operators to offer generous voice and data packages; Vivacom was sold to United Group in April 2020, following European Commission approval; the company is investing in network upgrades and its development of services based on 5G have stimulated other market players to invest in their own service provision; A1 Bulgaria and Vivacom both launched commercial 5G services in 2020, and by the end of 2022 about 70% of the population is expected to be covered by 5G; the broadband market in Bulgaria enjoys excellent cross-platform competition; the share of the market held by DSL has fallen steadily as a result of customers being migrated to fiber networks, particularly those operated by the incumbent telco Vivacom; by early 2021 about 65% of fixed-line broadband subscribers were on fiber infrastructure; Bulgaria joins the U.S. State Department’s Clean Network initiative in a bid to protect its 5G communications networks</p> (2022)<br>
+_general assessment_: <p>Bulgaria’s telecom market was for some years affected by the difficult macroeconomic climate, as well as by relatively high unemployment and a shrinking population; these factors continue to slow investments in the sector, though revenue growth has returned since 2019; there still remains pressure on revenue growth, with consumers migrating from fixed-line voice telephony to mobile and VoIP alternatives, while the volume of SMS and MMS traffic has been affected by the growing use of alternative OTT messaging services; investing in network upgrades and its development of services based on 5G have stimulated other market players to invest in their own service provision; by the end of 2022 about 70% of the population is expected to be covered by 5G; the broadband market in Bulgaria enjoys excellent cross-platform competition; the share of the market held by DSL has fallen steadily as a result of customers being migrated to fiber networks; by early 2021 about 65% of fixed-line broadband subscribers were on fiber infrastructure; Bulgaria joins the U.S. State Department’s Clean Network initiative in a bid to protect its 5G communications networks</p> (2022)<br>
 _domestic_: fixed-line over 12 per 100 persons, mobile-cellular teledensity, fostered by multiple service providers, is over 114 telephones per 100 persons (2020)<br>
 _international_: country code - 359; Caucasus Cable System via submarine cable provides connectivity to Ukraine, Georgia&nbsp;and Russia; a combination submarine cable and land fiber-optic system provides connectivity to Italy, Albania, and Macedonia; satellite earth stations - 3 (1 Intersputnik in the Atlantic Ocean region, 2 Intelsat in the Atlantic and Indian Ocean regions) (2019)<br>
 <strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress toward 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>
@@ -727,7 +724,7 @@ Islamic State of Iraq and ash-Sham (ISIS); Islamic Revolutionary Guard Corps/Qod
 <p>none</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 19,014 (Syria) (mid-year 2021); 53,057 (Ukraine) (as of 11 October 2022)<br>
+_refugees (country of origin)_: 19,014 (Syria) (mid-year 2021); 54,878 (Ukraine) (as of 18 October 2022)<br>
 _stateless persons_: 1,143 (mid-year 2021)<br>
 <strong>note:</strong> 80,428 estimated refugee and migrant arrivals (January 2015-August 2022); Bulgaria is predominantly a transit country<br>
 

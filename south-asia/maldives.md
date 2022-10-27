@@ -72,9 +72,6 @@ tsunamis; low elevation of islands makes them sensitive to sea level rise<br>
 **Geography - note**<br>
 smallest Asian country; archipelago of 1,190 coral islands grouped into 26 atolls (200 inhabited islands, plus 80 islands with tourist resorts); strategic location astride and along major sea lanes in Indian Ocean<br>
 
-**Map description**<br>
-<p>Madives map showing this archipelagic country in the Indian Ocean.</p> <p> </p><br>
-
 ## People and Society
 
 **Population**<br>
@@ -144,7 +141,7 @@ _total population_: 1.08 male(s)/female (2022 est.)<br>
 
 **Mother's mean age at first birth**<br>
 23.2 years (2016/17 est.)<br>
-<strong>note:</strong> median age at first birth among women 25-49<br>
+<strong>note:</strong> data represents median age at first birth among women 25-49<br>
 
 **Maternal mortality ratio**<br>
 53 deaths/100,000 live births (2017 est.)<br>
@@ -346,7 +343,7 @@ _elections_: last held on&nbsp;6 April 2019&nbsp;(next to be held in 2023)<br>
 _election results_: percent of vote - MDP 44.7%, JP 10.8%, PPM 8.7%, PNC 6.4%, MDA 2.8%, other 5.6%, independent 21%; seats by party - MDP 65, JP 5, PPM 5, PNC 3, MDA 2, independent 7; composition - men 83, women 4, percent of women 4.6%<br>
 
 **Judicial branch**<br>
-_highest courts_: Supreme Court (consists of the chief justice and 6 justices<br>
+_highest court(s)_: Supreme Court (consists of the chief justice and 6 justices<br>
 _judge selection and term of office_: Supreme Court judges appointed by the president in consultation with the Judicial Service Commission - a 10-member body of selected high government officials and the public - and upon confirmation by voting members of the People's Majlis; judges serve until mandatory retirement at age 70<br>
 _subordinate courts_: High Court; Criminal, Civil, Family, Juvenile, and Drug Courts; Magistrate Courts (on each of the inhabited islands)<br>
 
@@ -589,7 +586,7 @@ _subscriptions per 100 inhabitants_: 133 (2020 est.)<br>
 _general assessment_: with its economy so heavily dependent on tourism, the Maldives has suffered heavy economic as well as health casualties during the pandemic; the country had a relatively short period of lock down and was willing to welcome visitors back as early as July 2020; but the effective shutdown of international air travel for most of the year resulted in the bottom falling out of the Maldives&rsquo; tourism industry, taking GDP down 32% in the process; the economy fared better in 2021, with a return to growth, yet it may still be a few years before the country&rsquo;s key industries can return to the same level of prosperity that they previously enjoyed; the Maldives&rsquo; telecoms market is experiencing a similar level of pain because of the pandemic, due to being overweight in the mobile segment; that is because, historically, the country&rsquo;s high number of tourists and expatriate workers has inflated the penetration rate for mobile services, making it one of the highest in the world; that rate crashed in 2020 as demand for SIM cards (primarily prepaid) dried up; however, the number of contract subscribers increased as locals took advantage of competitive pricing offers from operators; everything now rests on a fast return to normality, with tourists helping to boost the nation&rsquo;s coffers as well as buying up those prepaid SIM cards; with commercial 5G services already launched and fiber networks rapidly expanding around the country, the Maldives is primed to deliver world-class telecommunications services to its domestic and international customers. (2021)<br>
 _domestic_: fixed-line is at nearly 3 per 100 persons and mobile-cellular subscriptions stands at nearly 133 per 100 persons (2020)<br>
 _international_: country code - 960; landing points for Dhiraagu Cable Network, NaSCOM, Dhiraagu-SLT Submarine Cable Networks and WARF submarine cables providing connections to 8 points in Maldives, India, and Sri Lanka;&nbsp;satellite earth station - 3 Intelsat (Indian Ocean) (2019)<br>
-<strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress towards 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>
+<strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress toward 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>
 
 **Broadcast media**<br>
 state-owned radio and TV monopoly until recently;&nbsp;4 state-operated and 7 privately owned TV stations and 4 state-operated and 7 privately owned radio stations (2019)<br>

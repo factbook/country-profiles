@@ -74,9 +74,6 @@ hot, dry harmattan wind can reduce visibility in north during winter; periodic d
 **Geography - note**<br>
 the country's length allows it to stretch through six distinct geographic regions; climate varies from tropical to savanna<br>
 
-**Map description**<br>
-<p>Togo map showing major population centers as well as parts of surrounding countries and the Bight of Benin.</p><br>
-
 ## People and Society
 
 **Population**<br>
@@ -151,7 +148,7 @@ _total population_: 0.97 male(s)/female (2022 est.)<br>
 
 **Mother's mean age at first birth**<br>
 25 years (2017 est.)<br>
-<strong>note:</strong> median age at first birth among women 25-29<br>
+<strong>note:</strong> data represents median age at first birth among women 25-29<br>
 
 **Maternal mortality ratio**<br>
 396 deaths/100,000 live births (2017 est.)<br>
@@ -375,7 +372,7 @@ _elections_: last held on 20 December 2018 (next to be held in 2023)<br>
 _election results_: percent of vote by coalition/party - NA; seats by party - UNIR 59, UFC 6, NET 3, MPDD 3, other 2, independent 18; composition - men 74, women 17, percent of women 18.7%<br>
 
 **Judicial branch**<br>
-_highest courts_: Supreme Court or Cour Supreme (organized into criminal and administrative chambers, each with a chamber president and advisors); Constitutional Court (consists of 9 judges, including the court president)<br>
+_highest court(s)_: Supreme Court or Cour Supreme (organized into criminal and administrative chambers, each with a chamber president and advisors); Constitutional Court (consists of 9 judges, including the court president)<br>
 _judge selection and term of office_: Supreme Court president appointed by decree of the president of the republic upon the proposal of the Supreme Council of the Magistracy, a 9-member judicial, advisory, and disciplinary body; other judicial appointments and judge tenure NA; Constitutional Court judges appointed by the National Assembly; judge tenure NA<br>
 _subordinate courts_: Court of Assizes (sessions court); Appeal Court; tribunals of first instance (divided into civil, commercial, and correctional chambers; Court of State Security; military tribunal<br>
 
@@ -632,7 +629,7 @@ _subscriptions per 100 inhabitants_: 77.2 (2019)<br>
 _general assessment_: system based on a network of microwave radio relay routes supplemented by open-wire lines and a mobile-cellular system; telecoms supply 8% of GDP; 3 mobile operators; 12% of residents have access to the Internet; mobile subscribers and mobile broadband both increasing (2020)<br>
 _domestic_: fixed-line less than 1 per 100 and mobile-cellular nearly 79 telephones per 100 persons with mobile-cellular use predominating (2020)<br>
 _international_: country code - 228; landing point for the WACS submarine cable, linking countries along the west coast of Africa with each other and with Portugal; satellite earth stations - 1 Intelsat (Atlantic Ocean), 1 Symphonie (2020)<br>
-<strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress towards 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>
+<strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress toward 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>
 
 **Broadcast media**<br>
 1&nbsp;state-owned TV station with multiple transmission sites; five private TV stations broadcast locally; cable TV service is available; state-owned radio network with two stations (in Lome and Kara); several dozen private radio stations and a few community radio stations; transmissions of multiple international broadcasters available (2019)<br>

@@ -70,9 +70,6 @@ persistent fog throughout the year can be a maritime hazard<br>
 **Geography - note**<br>
 vegetation scanty; the islands are actually part of the northern Appalachians along with Newfoundland<br>
 
-**Map description**<br>
-<p>Saint Pierre and Miquelon map showing the two islands that make up this French territorial overseas collectivity in the Gulf of St. Lawrence.</p><br>
-
 ## People and Society
 
 **Population**<br>
@@ -276,7 +273,7 @@ _elections_: Territorial Council - first round held on 20 March 2022 (next to be
 _election results_: Territorial Council - percent of vote by party (first round) - AD 45.9%, Focus on the Future 37%, Together to Build 17.1%; percent of vote by party (second round) - AD 51.8%, Focus on the Future 38.1%, Together to Build 10.1%, seats by party - AD 15, Focus on the Future 4; composition - men NA, women NA, percent of women NA%<br>French Senate - percent of vote by party - NA; seats by party - PS 1 (affiliated with UMP)<br>French National Assembly - percent of vote by party - NA; seats by party - Ensemble pour l'Avenir 1 (affiliated with PRG); the Republicans (LR) 1<br>
 
 **Judicial branch**<br>
-_highest courts_: Superior Tribunal of Appeals or Tribunal Superieur d'Appel (composition NA)<br>
+_highest court(s)_: Superior Tribunal of Appeals or Tribunal Superieur d'Appel (composition NA)<br>
 _judge selection and term of office_: judge selection and tenure NA<br>
 _subordinate courts_: NA<br>
 
@@ -471,7 +468,7 @@ _subscriptions per 100 inhabitants_: 76 (2015 est.)<br>
 _general assessment_: adequate (2019)<br>
 _domestic_: fixed-line teledensity 76 per 100 persons (2019)<br>
 _international_: country code - 508; landing point for the St Pierre and Miquelon Cable connecting Saint Pierre&nbsp;&amp; Miquelon and Canada; radiotelephone communication with most countries in the world; satellite earth station - 1 in French domestic satellite system (2019)<br>
-<strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress towards 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>
+<strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress toward 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>
 
 **Broadcast media**<br>
 8 TV stations, all part of the French Overseas Network, and local cable provided by SPM Telecom; 3 of 4 radio stations on St. Pierre and on Miquelon are part of the French Overseas Network (2021)<br>

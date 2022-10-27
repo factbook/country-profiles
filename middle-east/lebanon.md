@@ -70,9 +70,6 @@ earthquakes; dust storms, sandstorms<br>
 **Geography - note**<br>
 smallest country in continental Asia; Nahr el Litani is the only major river in Near East not crossing an international boundary; rugged terrain historically helped isolate, protect, and develop numerous factional groups based on religion, clan, and ethnicity<br>
 
-**Map description**<br>
-<p>Lebanon map showing major population centers as well as parts of surrounding countries and the Mediterranean Sea.</p><br>
-
 ## People and Society
 
 **Population**<br>
@@ -356,7 +353,7 @@ _election results_: percent of vote by coalition/party &ndash; NA; seats by part
 <strong>note:</strong> Lebanon’s constitution states the Lebanese Parliament cannot conduct regular business until it elects a president when the position is vacant<br>
 
 **Judicial branch**<br>
-_highest courts_: Court of Cassation or Supreme Court (organized into 8 chambers, each with a presiding judge and 2 associate judges); Constitutional Council (consists of 10 members)<br>
+_highest court(s)_: Court of Cassation or Supreme Court (organized into 8 chambers, each with a presiding judge and 2 associate judges); Constitutional Council (consists of 10 members)<br>
 _judge selection and term of office_: Court of Cassation judges appointed by Supreme Judicial Council, a 10-member body headed by the chief justice, and includes other judicial officials; judge tenure NA; Constitutional Council members appointed - 5 by the Council of Ministers and 5 by parliament; members serve 5-year terms<br>
 _subordinate courts_: Courts of Appeal; Courts of First Instance; specialized tribunals, religious courts; military courts<br>
 
@@ -614,7 +611,7 @@ _subscriptions per 100 inhabitants_: 63 (2020 est.)<br>
 _general assessment_: Lebanon&rsquo;s economic crisis has had a dire effect on the country&rsquo;s telecom services; although some progress has been made with developing 5G, the poor economic conditions have contributed to an erratic electricity supply and a lack of fuel to maintain generators; this has meant that internet services to areas of the country are not available on a regular basis, frustrating all those who depend on stable connectivity, and stalling business growth; adding to the difficulties are the combined stresses of the pandemic and the political crisis; a caretaker cabinet in September 2021 made way for a new government though there is little confidence on the ground that sectarian-based political horse-trading will give way to responsible governing to improve the lot of the stressed populace. (2022)<br>
 _domestic_: fixed-line nearly 13 per 100 and nearly 63 per 100 for mobile-cellular subscriptions (2020)<br>
 _international_: country code - 961; landing points for the IMEWE, BERYTAR AND CADMOS submarine cable links to Europe, Africa, the Middle East and Asia; satellite earth stations - 2 Intelsat (1 Indian Ocean and 1 Atlantic Ocean) (2019)<br>
-<strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress towards 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>
+<strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress toward 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>
 
 **Broadcast media**<br>
 7 TV stations, 1 of which is state owned; more than 30 radio stations, 1 of which is state owned; satellite and cable TV services available; transmissions of at least 2 international broadcasters are accessible through partner stations (2019)<br>
@@ -717,7 +714,7 @@ Abdallah Azzam Brigades; al-Aqsa Martyrs Brigade; Asbat al-Ansar; HAMAS; Hizball
 <p><em>Lebanon-Syria</em>: lacking a treaty or other documentation describing the boundary, portions of the Lebanon-Syria boundary are unclear with several sections in dispute; in March 2021, Syria signed a contract with a Russian company for oil and gas exploration in a maritime area Lebanon claims as its own based on a 2011 map sent to the UN</p> <p><em>Lebanon-Israel</em>: Lebanon has claimed Shab'a Farms area in the Israeli-controlled Golan Heights; Lebanon and Israel resumed negotiations over their maritime border in 2020, but their efforts were derailed when Lebanon argued that the map the UN was using needed modifications</p> <p> </p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 479,537 (Palestinian refugees) (2020); 831,053 (Syria) (2022)<br>
+_refugees (country of origin)_: 479,537 (Palestinian refugees) (2020); 825,081 (Syria) (2022)<br>
 _IDPs_: 7,000 (2020)<br>
 _stateless persons_: undetermined (2016); note - tens of thousands of persons are stateless in Lebanon, including many Palestinian refugees and their descendants, Syrian Kurds denaturalized in Syria in 1962, children born to Lebanese women married to foreign or stateless men; most babies born to Syrian refugees, and Lebanese children whose births are unregistered<br>
 

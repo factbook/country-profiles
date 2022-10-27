@@ -70,9 +70,6 @@ active volcanoes on Pagan and Agrihan; typhoons (especially August to November)<
 **Geography - note**<br>
 strategic location in the North Pacific Ocean<br>
 
-**Map description**<br>
-<p>Northern Mariana Islands map showing the major islands of this archipelago in the North Pacific Ocean.</p><br>
-
 ## People and Society
 
 **Population**<br>
@@ -283,7 +280,7 @@ _election results_: <br>CNMI Senate - percent of vote by party - NA; seats by pa
 <strong id="tinymce" class="mce-content-body " style="font-size: 18px;" contenteditable="true" spellcheck="false" data-id="field_notes">note:</strong> the Northern Mariana Islands delegate to the US House of Representatives can vote when serving on a committee and when the House meets as the "Committee of the Whole House" but not when legislation is submitted for a “full floor” House vote<br>
 
 **Judicial branch**<br>
-_highest courts_: Supreme Court of the Commonwealth of the Northern Mariana Islands (CNMI) (consists of the chief justice and 2 associate justices); US Federal District Court (consists of 1 judge); note - US Federal District Court jurisdiction limited to US federal laws; appeals beyond the CNMI Supreme Court are referred to the US Supreme Court<br>
+_highest court(s)_: Supreme Court of the Commonwealth of the Northern Mariana Islands (CNMI) (consists of the chief justice and 2 associate justices); US Federal District Court (consists of 1 judge); note - US Federal District Court jurisdiction limited to US federal laws; appeals beyond the CNMI Supreme Court are referred to the US Supreme Court<br>
 _judge selection and term of office_: CNMI Supreme Court judges appointed by the governor and confirmed by the CNMI Senate; judges appointed for 8-year terms and another term if directly elected in a popular election; US Federal District Court judges appointed by the US president and confirmed by the US Senate; judges appointed for renewable 10-year terms<br>
 _subordinate courts_: Superior Court<br>
 
@@ -466,7 +463,7 @@ _subscriptions per 100 inhabitants_: 36 (2004)<br>
 _general assessment_: digital fiber-optic cables and satellites connect the islands to worldwide networks; demand for broadband growing given that mobile services are the source for Internet across region; future launch of 5G (2020)<br>
 _domestic_: wide variety of services available including dial-up and broadband Internet, mobile cellular, international private lines, payphones, phone cards, voicemail, and automatic call distribution systems; fixed-line teledensity roughly 39 per 100 persons (2019)<br>
 _international_: country code - 1-670; landing points for the Atisa and Mariana-Guam submarine cables linking Mariana islands to Guam; satellite earth stations - 2 Intelsat (Pacific Ocean) (2019)<br>
-<strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress towards 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>
+<strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress toward 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>
 
 **Broadcast media**<br>
 1 TV broadcast station on Saipan; multi-channel cable TV services are available on Saipan; 9 licensed radio broadcast stations (2009)<br>
