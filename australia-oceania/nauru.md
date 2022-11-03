@@ -541,8 +541,8 @@ _total subscriptions_: 10,000 (2020 est.)<br>
 _subscriptions per 100 inhabitants_: 92 (2020 est.)<br>
 
 **Telecommunication systems**<br>
-_general assessment_: adequate local and international radiotelephone communication provided via Australian facilities; geography is a challenge for the islands;&nbsp;there is a&nbsp;need to service the tourism sector&nbsp;and the&nbsp;South Pacific Islands economy; mobile technology is booming (2018)<br>
-_domestic_: fixed-line 0 per 100 and mobile-cellular subscribership approximately 95 per 100 (2019)<br>
+_general assessment_: relies on satellite as the primary Internet service provider and mobile operator; internet connectivity on the island is very limited and unstable due to the vulnerability of the network infrastructure to bad weather and limited network coverage, with several blind spots (2022)<br>
+_domestic_: fixed-line 0 per 100 and mobile-cellular subscribership approximately 92 per 100 (2020)<br>
 _international_: country code - 674; satellite earth station - 1 Intelsat (Pacific Ocean)<br>
 <strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress toward 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>
 
@@ -596,7 +596,7 @@ _major seaport(s)_: Nauru<br>
 no regular military forces; the police force, under the Minister for Police and Emergency Services, maintains internal security and, as necessary, external security<br>
 
 **Military - note**<br>
-Nauru maintains no defense forces; under an informal agreement, defense is the responsibility of Australia<br>
+Nauru maintains no defense forces; under an informal agreement, defense is the responsibility of Australia<br><br>Nauru has a "shiprider" agreement with the US, which allows local maritime law enforcement officers to embark on US Coast Guard (USCG) and US Navy (USN) vessels, including to board and search vessels suspected of violating laws or regulations within Nauru's designated exclusive economic zone (EEZ) or on the high seas; "shiprider" agreements also enable USCG personnel and USN vessels with embarked USCG law enforcement personnel to work with host nations to protect critical regional resources (2022)<br>
 
 ## Transnational Issues
 

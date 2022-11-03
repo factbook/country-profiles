@@ -699,8 +699,8 @@ Armed Forces of Burkina Faso (FABF): Army of Burkina Faso (L’Armee de Terre, L
 1.4% of GDP (2017 est.) (approximately $260 million)<br>
 
 **Military and security service personnel strengths**<br>
-approximately 12,000 personnel (7,000 Army; 500 Air Force; 4,500 National Gendarmerie) (2022)<br>
-<strong>note:</strong>  in 2022, Burkina Faso announced a special recruitment for 3,000 additional soldiers to assist with its fight against terrorist groups operating in the country<br>
+approximately 13,000 personnel (8,000 Army; 500 Air Force; 4,500 National Gendarmerie) (2022)<br>
+<strong>note 1: </strong>in 2019, the Burkina Faso Government announced an initial strength goal for the VDF of 15,000 members, but in October 2022 announced plans to recruit up to 50,000 VDF volunteers<br><strong><br>note 2:</strong>  in 2022, Burkina Faso announced a special recruitment for 3,000 additional soldiers to assist with its fight against terrorist groups operating in the country<br>
 
 **Military equipment inventories and acquisitions**<br>
 the FABF has a mix of foreign-supplied weapons; since 2010, it has received limited amounts of mostly donated second-hand equipment from a variety of countries (2022)<br>

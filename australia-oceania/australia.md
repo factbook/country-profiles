@@ -727,7 +727,7 @@ the Australian military's inventory includes a mix of domestically-produced and 
 
 **Military service age and obligation**<br>
 17 years of age for voluntary military service (with parental consent); no conscription (abolished 1973); women allowed to serve in all roles, including combat arms, since 2013 (2022)<br>
-<strong>note:</strong> in 2020-2021, women comprised nearly 20% of the military<br>
+<strong>note 1:</strong> foreign nationals who are permanent residents, particularly New Zealanders, or those who have applied for citizenship or overseas candidates who have appropriate experience and qualifications from an overseas military can apply to join the ADF <br><br><strong>note 2:</strong> in 2020-2021, women comprised nearly 20% of the military<br>
 
 **Military deployments**<br>
 <strong>note: </strong>since the 1990s, Australia has deployed more than 30,000 personnel on nearly 100 UN peacekeeping and coalition military operations, including in Cambodia, Rwanda, the Solomon Islands, Somalia, and East Timor<br>

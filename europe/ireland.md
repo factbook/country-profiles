@@ -690,8 +690,8 @@ approximately 8,500 active duty personnel (6,800 Army; 900 Naval Service; 800 Ai
 the Irish Defense Forces have a small inventory of imported weapons systems from a variety of mostly European countries; the UK is the leading supplier of military hardware to Ireland since 2010 (2021)<br>
 
 **Military service age and obligation**<br>
-18-25 years of age for male and female voluntary military service recruits to the Defence Forces (18-27 years of age for the Naval Service); 18-26 for cadetship (officer) applicants; 12-year service (5 active, 7 reserves); Irish citizen, European Economic Area citizenship, or refugee status (2022)<br>
-<strong>note:</strong> as of 2021, women made up about 7% of the military's full-time personnel<br>
+18-25 years of age for male and female voluntary military service recruits to the Defence Forces (18-27 years of age for the Naval Service); 18-26 for cadetship (officer) applicants; 12-year service (5 active, 7 reserves) (2022)<br>
+<strong>note:</strong> as of 2021, women made up about 7% of the military's full-time personnel<br><br><strong>note 2:</strong> the Defense Forces are open to refugees under the Refugee Act of 1996 and nationals of the European Economic Area, which include EU member states, Iceland, Liechtenstein, and Norway<br>
 
 **Military deployments**<br>
 130 Golan Heights (UNDOF); 320 Lebanon (UNIFIL) (May 2022)<br>
@@ -711,7 +711,7 @@ Continuity Irish Republican Army; New Irish Republican Army; Islamic State of Ir
 <p><em>Ireland-Denmark</em>: Ireland, Iceland, and the UK dispute Denmark's claim that the Faroe Islands' continental shelf extends beyond 200 nm; Iceland, Norway, and the Faroe Islands signed an agreement in 2019 extending the Faroe Islands’ northern continental shelf area</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 51,904 (Ukraine) (as of 10 October 2022)<br>
+_refugees (country of origin)_: 55,144 (Ukraine) (as of 25 October 2022)<br>
 _stateless persons_: 107 (mid-year 2021)<br>
 
 **Trafficking in persons**<br>

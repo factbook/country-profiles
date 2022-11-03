@@ -92,7 +92,7 @@ Protestant 75.9% (includes Anglican 68.9, Baptist 2.1%, Seventh Day Adventist 1.
 <strong>note:</strong> data represent Saint Helena only<br>
 
 **Demographic profile**<br>
-<p>The vast majority of the population of Saint Helena, Ascension, and Tristan da Cunha live on Saint Helena. Ascension has no indigenous or permanent residents and is inhabited only by persons contracted to work on the island (mainly with the UK and US military or in the space and communications industries) or their dependents, while Tristan da Cunha – the main island in a small archipelago – has fewer than 300 residents. The population of Saint Helena consists of the descendants of 17th century British sailors and settlers from the East India Company, African slaves, and indentured servants and laborers from India, Indonesia, and China. Most of the population of Ascension are Saint Helenians, Britons, and Americans, while that of Tristan da Cunha descends from shipwrecked sailors and Saint Helenians.</p><p>Change in Saint Helena’s population size is driven by net outward migration. Since the 1980s, Saint Helena’s population steadily has shrunk and aged as the birth rate has decreased and many working-age residents left for better opportunities elsewhere. The restoration of British citizenship in 2002 accelerated family emigration; from 1998 to 2008 alone, population declined by about 20%.</p><p>In the last few years, population has experienced some temporary growth, as foreigners and returning Saint Helenians, have come to build an international airport, but numbers are beginning to fade as the project reaches completion and workers depart. In the long term, once the airport is fully operational, increased access to the remote island has the potential to boost tourism and fishing, provide more jobs for Saint Helenians domestically, and could encourage some ex-patriots to return home. In the meantime, however, Saint Helena, Ascension, and Tristan da Cunha have to contend with the needs of an aging population. The elderly population of the islands has risen from an estimated 9.4% in 1998 to 20.4% in 2016.</p><br>
+<p>The vast majority of the population of Saint Helena, Ascension, and Tristan da Cunha live on Saint Helena. Ascension has no indigenous or permanent residents and is inhabited only by persons contracted to work on the island (mainly with the UK and US military or in the space and communications industries) or their dependents, while Tristan da Cunha – the main island in a small archipelago – has fewer than 300 residents. The population of Saint Helena consists of the descendants of 17th century British sailors and settlers from the East India Company, African slaves, and indentured servants and laborers from India, Indonesia, and China. Most of the population of Ascension are Saint Helenians, Britons, and Americans, while that of Tristan da Cunha descends from shipwrecked sailors and Saint Helenians.</p> <p>Change in Saint Helena’s population size is driven by net outward migration. Since the 1980s, Saint Helena’s population steadily has shrunk and aged as the birth rate has decreased and many working-age residents left for better opportunities elsewhere. The restoration of British citizenship in 2002 accelerated family emigration; from 1998 to 2008 alone, population declined by about 20%.</p> <p>In the 2010s, the population experienced some temporary growth, as foreigners and returning Saint Helenians, came to build an international airport, but numbers faded as the project reached completion and workers departed. With the airport fully operational, increased access to the remote island has the potential to boost tourism and fishing, provide more jobs for Saint Helenians domestically, and could encourage some ex-patriots to return home. In the meantime, however, Saint Helena, Ascension, and Tristan da Cunha have to contend with the needs of an aging population. The elderly population of the islands has risen from an estimated 9.4% in 1998 to 18% in 2022.</p><br>
 
 **Age structure**<br>
 _0-14 years_: 14.66% (male 592/female 570)<br>
@@ -247,7 +247,7 @@ _etymology_: founded in 1659 and named after James, Duke of York, who would beco
 none (overseas territory of the UK)<br>
 
 **National holiday**<br>
-Birthday of Queen ELIZABETH II, third Monday in April (1926)<br>
+Official birthday of King Charles III, April or June as designated by the governor<br>
 
 **Constitution**<br>
 _history_: several previous; latest effective 1 September 2009 (St Helena, Ascension and Tristan da Cunha Constitution Order 2009)<br>
@@ -263,7 +263,7 @@ see United Kingdom<br>
 
 **Executive branch**<br>
 _chief of state_: King CHARLES III (since 8 September 2022)<br>
-_head of government_: Governor Nigel Phillips (since 13 August 2022)<br>
+_head of government_: Governor Nigel PHILLIPS (since 13 August 2022)<br>
 _cabinet_: Executive Council consists of the governor, 3 ex-officio officers, and 5 elected members of the Legislative Council<br>
 _elections/appointments_: none; the monarchy is hereditary; governor appointed by the monarch<br>
 <strong>note:</strong> the constitution order provides for an administrator for Ascension and Tristan da Cunha appointed by the governor<br>
@@ -276,7 +276,7 @@ _election results_: percent of vote - NA; seats by party - independent 12; compo
 
 **Judicial branch**<br>
 _highest court(s)_: Court of Appeal (consists of the court president and 2 justices); Supreme Court (consists of the chief justice - a nonresident - and NA judges); note - appeals beyond the Court of Appeal are heard by the Judicial Committee of the Privy Council (in London)<br>
-_judge selection and term of office_: Court of Appeal and Supreme Court justices appointed by the governor acting upon the instructions from a secretary of state acting on behalf of Queen ELIZABETH II; justices of both courts serve until retirement at age 70, but terms can be extended<br>
+_judge selection and term of office_: Court of Appeal and Supreme Court justices appointed by the governor acting upon the instructions from a secretary of state acting on behalf of King CHARLES III; justices of both courts serve until retirement at age 70, but terms can be extended<br>
 _subordinate courts_: Magistrates' Court; Small Claims Court; Juvenile Court<br>
 
 **Political parties and leaders**<br>
@@ -492,7 +492,7 @@ _total_: 2 (2021)<br>
 _total_: 2<br>
 _over 3,047 m_: 1 Ascension Island - Wideawake Field (ASI)<br>
 _1,524 to 2,437 m_: 1 (2021) Saint Helena (HLE);<br>
-note - weekly commercial air service to South Africa via Namibia commenced on 14 October 2017<br>
+<strong>note:</strong> weekly commercial air service to South Africa via Namibia commenced on 14 October 2017<br>
 
 **Roadways**<br>
 _total_: 198 km (2002) (Saint Helena 138 km, Ascension 40 km, Tristan da Cunha 20 km)<br>

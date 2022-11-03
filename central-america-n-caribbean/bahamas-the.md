@@ -632,11 +632,11 @@ Royal Bahamas Defense Force (RBDF): includes land, air, maritime elements (2022)
 <strong>note:</strong> the RBDF is primarily responsible for external security but also provides security at a detention center for migrants and performs some domestic security functions, such as guarding embassies; the Royal Bahamas Police Force (RBPF) maintains internal security; both the RBDF and the RBPF report to the minister of national security<br>
 
 **Military expenditures**<br>
-0.9% of GDP (2021 est.)<br>
+0.8% of GDP (2022 est.)<br>
+0.9% of GDP (2021)<br>
 0.9% of GDP (2020)<br>
 0.7% of GDP (2019)<br>
 0.7% of GDP (2018)<br>
-0.7% of GDP (2017)<br>
 
 **Military and security service personnel strengths**<br>
 approximately 1,500 active RBDF personnel (2022)<br>

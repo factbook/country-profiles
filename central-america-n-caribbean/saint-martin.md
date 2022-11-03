@@ -58,7 +58,7 @@ subject to hurricanes from July to November<br>
 32,792 (2022 est.)<br>
 
 **Ethnic groups**<br>
-Creole (Mulatto), Black, Guadeloupe Mestizo (French-East Asia), White, East Indian, other<br>
+Creole (Mulatto), Black, Guadeloupe Mestizo (French-East Asian), White, East Indian, other<br>
 
 **Languages**<br>
 French (official), Dutch, English, Guadeloupian Creole, Haitian Creole, Italian, Martiniquan Creole, Papiamento (dialect of Netherlands Antilles), Spanish<br>
@@ -227,7 +227,7 @@ _elections/appointments_: French president directly elected by absolute majority
 _election results_: <em>2022:</em> Louis MUSSINGTON (RSM) elected president; Territorial Council vote - 23 out of 23 votes<br><br><em>2017: </em>Daniel Gibbs elected president:  Territorial Council vote - 18 out of 23 votes<br>
 
 **Legislative branch**<br>
-_description_: unicameral Territorial Council (23 seats; members directly elected by absolute majority vote in 2 rounds if needed to serve 5-year terms); Saint Martin elects 1 member to the French Senate and 1member (shared with Saint Barthelemy) to the French National Assembly<br>
+_description_: unicameral Territorial Council (23 seats; members directly elected by absolute majority vote in 2 rounds if needed to serve 5-year terms); Saint Martin elects 1 member to the French Senate and 1 member (shared with Saint Barthelemy) to the French National Assembly<br>
 _elections_: Territorial Council - first round held on 20 March 2022 (next to be held in March 2027) and second round held on 27 March 2022<br>
 _election results_: Territorial Council - percent of vote by party (first round) - RSM 25.4%, UD 24.7%, HOPE 17.5%, Saint Martin with You 13.8%, Alternative 11.2%, Future Saint Martin 7.5%; percent of vote by party (second rate) - RSM and Alternative 49.1%, UD 33.3%, HOPE, Saint Martin with You, and Future Saint Martin 17.6%; seats by party - RSM and Alternative 15, UD 5, HOPE, Saint Martin with You, and Future Saint Martin 3;&nbsp;composition - men 13, women 10, percent of women 43.5%<br>
 French Senate - held on 28 September 2014 (next to be held not later than September 2020) French National Assembly - last held on 11 and 18 June 2017 (next to be held by June 2022) French Senate - 1 seat: UMP 1 French National Assembly - 1 seat: UMP 1<br>

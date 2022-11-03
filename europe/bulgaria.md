@@ -724,7 +724,7 @@ Islamic State of Iraq and ash-Sham (ISIS); Islamic Revolutionary Guard Corps/Qod
 <p>none</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 19,014 (Syria) (mid-year 2021); 54,878 (Ukraine) (as of 18 October 2022)<br>
+_refugees (country of origin)_: 19,014 (Syria) (mid-year 2021); 55,016 (Ukraine) (as of 1 November 2022)<br>
 _stateless persons_: 1,143 (mid-year 2021)<br>
 <strong>note:</strong> 80,428 estimated refugee and migrant arrivals (January 2015-August 2022); Bulgaria is predominantly a transit country<br>
 

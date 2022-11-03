@@ -602,7 +602,7 @@ _total subscriptions_: 890,000 (2020 est.)<br>
 _subscriptions per 100 inhabitants_: 142 (2020 est.)<br>
 
 **Telecommunication systems**<br>
-_general assessment_: Luxembourg has a small telecom sector dominated by state-owned POST Luxembourg; there remains some pressure from regulatory measures, though no further reductions to fixed and mobile interconnection tariffs have been imposed through to 2024; POST Luxembourg is extending the footprint of its 1Gb/s service in line with a government program to make Luxembourg the first fully fiber country in Europe; by early 2021 about 72% of premises could access such a service; investment in infrastructure is geared towards fulfilling these ambitions;&nbsp; the level of investment as a proportion of revenue has fallen in recent years, largely as a response to the completion of major projects, there was an increase in investment in 2020, partly due to the spectrum auction held during the year, as also to the continuing shift by POST Luxembourg to an all-IP platform and the rollout of fiber infrastructure; high mobile penetration has slowed subscriber growth in the mobile market since 2005, though a recent law requiring SIM card registration has not had an adverse effect on the number of mobile subscribers despite network operators deactivating unregistered cards. (2021)<br>
+_general assessment_: Luxembourg has a small telecom sector; there remains some pressure from regulatory measures, though no further reductions to fixed and mobile interconnection tariffs have been imposed through to 2024; high mobile penetration has slowed subscriber growth in the mobile market since 2005, though a recent law requiring SIM card registration has not had an adverse effect on the number of mobile subscribers despite network operators deactivating unregistered cards (2021)<br>
 _domestic_: fixed-line teledensity about 43 per 100 persons; nationwide mobile-cellular telephone system with market for mobile-cellular phones virtually saturated with about 142 per 100 mobile-cellular (2020)<br>
 _international_: country code - 352<br>
 <strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress toward 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>
@@ -685,8 +685,8 @@ approximately 900 active personnel (2022)<br>
 the inventory of Luxembourg's Army is a small mix of Western-origin equipment; since 2010, it has received equipment from several European countries (2021)<br>
 
 **Military service age and obligation**<br>
-18-26 years of age for voluntary military service for men and women; no conscription (abolished 1969); Luxembourg citizen or EU citizen with 3-year residency in Luxembourg (2022)<br>
-<strong>note:</strong> as of 2019, women made up about 8% of the military's full-time personnel<br>
+18-26 years of age for voluntary military service for men and women; no conscription (abolished 1969) (2022)<br>
+<strong>note 1: </strong>since 2003, the Army has allowed EU citizens 18-24 years of age who have been a resident in the country for at least 36 months to volunteer<strong><br><br>note 2:</strong> as of 2019, women made up about 8% of the military's full-time personnel<br>
 
 **Military - note**<br>
 Luxembourg is a member of NATO and was one of the original 12 countries to sign the North Atlantic Treaty (also known as the Washington Treaty) in 1949<br><br>in 2015, Belgium, the Netherlands, and Luxembourg signed an agreement to conduct joint air policing of their territories; under the agreement, which went into effect in January of 2017, the Belgian and Dutch Air Forces trade responsibility for patrolling the skies over the three countries (2022)<br>
@@ -697,6 +697,6 @@ Luxembourg is a member of NATO and was one of the original 12 countries to sign 
 <p>none identified</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 6,756 (Ukraine) (as of 18 October 2022)<br>
+_refugees (country of origin)_: 6,756 (Ukraine) (as of 25 October 2022)<br>
 _stateless persons_: 194 (mid-year 2021)<br>
 

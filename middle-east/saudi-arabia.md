@@ -706,7 +706,7 @@ the inventory of the Saudi military forces, including the SANG, includes a mix o
 
 **Military service age and obligation**<br>
 men (17-40) and women (21-40) may volunteer for military service; no conscription (2022)<br>
-<strong>note: </strong>in 2021, women were allowed to serve in the Army, Air Defense, Navy, Strategic Missile Force, medical services, and internal security forces up to the rank of non-commissioned officer <br>
+<strong>note 1: </strong>in 2021, women were allowed to serve in the Army, Air Defense, Navy, Strategic Missile Force, medical services, and internal security forces up to the rank of non-commissioned officer<br><br><strong>note 2:</strong> the National Guard is restricted to citizens, but the regular Saudi military has hired foreigners on contract for operations associated with its intervention in Yemen<br>
 
 **Military deployments**<br>
 estimated 2,500-5,000 Yemen (varies depending on operations) (2022)<br>

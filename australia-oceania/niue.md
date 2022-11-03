@@ -466,7 +466,7 @@ _total subscriptions_: 1,000 (2018 est.)<br>
 _subscriptions per 100 inhabitants_: 62 (2018 est.)<br>
 
 **Telecommunication systems**<br>
-_general assessment_: sole provider service for over 1000 landlines and fixed wireless lines; cellular telephone service operates on AMPS and GSM platforms; difficult geography presents challenges for rural areas; mobile is primary source of Internet access; mobile broadband demand is growing&nbsp;due to mobile services (2020)<br>
+_general assessment_: service for over 1000 landlines and fixed wireless lines; cellular telephone service operates on AMPS and GSM platforms; difficult geography presents challenges for rural areas; mobile is primary source of Internet access; mobile broadband demand is growing due to mobile services (2020)<br>
 _domestic_: single-line (fixed line) telephone system connects all villages on island; fixed teledensity at nearly 62 per 100 (2018)<br>
 _international_: country code - 683; landing point for the Manatua submarine cable linking Niue to several South Pacific Ocean Islands; expansion of satellite services (2019)<br>
 <strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress toward 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>

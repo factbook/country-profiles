@@ -698,11 +698,11 @@ _major seaport(s)_: Puerto Quetzal, Santo Tomas de Castilla<br>
 Army of Guatemala (Ejercito de Guatemala): Land Forces (Fuerzas de Tierra), Naval Forces (Fuerzas de Mar), and Air Force (Fuerza de Aire); Ministry of Government (Interior): National Civil Police (Policia Nacional Civil; includes paramilitary units) (2022)<br>
 
 **Military expenditures**<br>
-0.4% of GDP (2021 est.)<br>
+0.4% of GDP (2022 est.)<br>
+0.4% of GDP (2021)<br>
 0.4% of GDP (2020)<br>
 0.4% of GDP (2019) (approximately $530 million)<br>
 0.4% of GDP (2018) (approximately $470 million)<br>
-0.4% of GDP (2017) (approximately $460 million)<br>
 
 **Military and security service personnel strengths**<br>
 information varies; approximately 20,000 active military personnel (18,000 Land Forces; 1,000 Naval Forces; 1,000 Air Forces); approximately 30,000 National Civil Police (2022)<br>

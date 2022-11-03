@@ -340,7 +340,7 @@ _elections/appointments_: the monarchy is hereditary; following legislative elec
 
 **Legislative branch**<br>
 _description_: unicameral People's Assembly or Folketing (179 seats, including 2 each representing Greenland and the Faroe Islands; members directly elected in multi-seat constituencies by party-list proportional representation vote; members serve 4-year terms unless the Folketing is dissolved earlier)<br>
-_elections_: last held on 5 June 2019 (next to be held in June 2023)<br>
+_elections_: last held on 5 June 2019 (next to be held on 1 November 2022)<br>
 _election results_: percent of vote by party - SDP 27.4%, V 24.6%, DF 9.1%, SLP 9.1%, SF 8%, EL 7.4%, C 6.9%, AP 2.9%, NB 2.3%, LA 2.3%; seats by party - SDP 48, V 43, DF 16, SLP 16, SF 14, EL 13, C 12, AP 5, NB 4, LA 4; composition (as of September 2021) - men 108, women 71 (includes 2 from Greenland), percent of women 39.7%<br>
 
 **Judicial branch**<br>
@@ -694,11 +694,11 @@ approximately 17,000 active duty personnel (10,000 Army; 3,500 Navy; 3,500 Air F
 the Danish military inventory is comprised of a mix of modern European, US, and domestically-produced equipment; the US has been the largest supplier of military equipment to Denmark since 2010; the Danish defense industry is active in the production of naval vessels, defense electronics, and subcomponents of larger weapons systems, such as the US F-35 fighter aircraft (2022)<br>
 
 **Military service age and obligation**<br>
-18 years of age for compulsory and voluntary military service; conscripts serve an initial training period that varies from 4 to 12 months depending on specialization; former conscripts are assigned to mobilization units; women eligible to volunteer for military service; in addition to full time employment, the Danish Military offers reserve contracts in all three branches (2022)<br>
-<strong>note 1:</strong> women have been able serve in all military occupations, including combat arms, since 1988; as of 2019, they made up about 8% of the military's full-time personnel; conscientious objectors can choose to instead serve 6 months in a non-military position, for example in Beredskabsstyrelsen (dealing with non-military disasters like fires, flood, pollution, etc.) or overseas foreign aid work<br><br><strong>note 2: </strong>foreign nationals living in another EU country may apply to join the Danish armed forces, provided they are fluent in Dutch and have lived one year in Denmark or six years if applying within an EU country<br><br><strong>note 2: </strong>Denmark has had compulsory military service since 1849<br>
+18 years of age for compulsory and voluntary military service; conscripts serve an initial training period that varies from 4 to 12 months depending on specialization; former conscripts are assigned to mobilization units; women eligible to volunteer for military service; in addition to full time employment, the Danish military offers reserve contracts in all three branches (2022)<br>
+<strong>note 1:</strong> women have been able serve in all military occupations, including combat arms, since 1988; as of 2019, they made up about 8% of the military's full-time personnel; conscientious objectors can choose to instead serve 6 months in a non-military position, for example in Beredskabsstyrelsen (dealing with non-military disasters like fires, flood, pollution, etc.) or overseas foreign aid work<br><br><strong>note 2: </strong>foreigners who have lived in Denmark for at least 1 year or in another EU country for 6 years may apply to join the armed forces, provided they are fluent in Danish <br><br><strong>note 2: </strong>Denmark has had compulsory military service since 1849<br>
 
 **Military deployments**<br>
-approximately 220 Estonia (NATO); approximately 100 Middle East/Iraq (NATO) (2022)<br>
+approximately 220 Estonia (NATO); approximately 750 Latvia (NATO); approximately 100 Middle East/Iraq (NATO) (2022)<br>
 <strong>note: </strong>in response to Russia’s 2022 invasion of Ukraine, some NATO countries, including Denmark, have sent additional troops and equipment to the battlegroups deployed in NATO territory in eastern Europe<br>
 
 **Military - note**<br>
@@ -716,6 +716,6 @@ Islamic State of Iraq and ash-Sham (ISIS); Islamic Revolutionary Guard Corps/Qod
 <p>Iceland, the UK, and Ireland dispute Denmark's claim that the Faroe Islands' continental shelf extends beyond 200 nm; sovereignty dispute with Canada over Hans Island in the Kennedy Channel between Ellesmere Island and Greenland; Denmark (Greenland) and Norway have made submissions to the Commission on the Limits of the Continental Shelf (CLCS) and Russia is collecting additional data to augment its 2001 CLCS submission</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 19,833 (Syria), 5,634 (Eritrea) (mid-year 2021); 36,174 (Ukraine) (as of 18 October 2022)<br>
+_refugees (country of origin)_: 19,833 (Syria), 5,634 (Eritrea) (mid-year 2021); 36,449 (Ukraine) (as of 25 October 2022)<br>
 _stateless persons_: 11,608 (mid-year 2021)<br>
 

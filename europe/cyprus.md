@@ -697,6 +697,7 @@ the inventory of the Cypriot National Guard is a mix of Soviet-era and some more
 
 **Military service age and obligation**<br>
 Cypriot National Guard (CNG): 18-50 years of age for compulsory military service for all Greek Cypriot males; 17 years of age for voluntary service; 14-month service obligation (2022)<br>
+<strong>note:</strong> the CNG accepts all foreign nationals of at least partial Cypriot descent under age 32 as volunteers; dual citizenship Cypriot origin citizens, who were born in Cyprus or abroad, have the obligation to serve in the CNG on repatriation, regardless of whether or not they possess a foreign citizenship; a person is considered as having Cypriot origin where a grandparent or parent was/is a Cypriot citizen<br>
 
 **Military - note**<br>
 the United Nations Peacekeeping Force in Cyprus (UNFICYP) was set up in 1964 to prevent further fighting between the Greek Cypriot and Turkish Cypriot communities on the island and bring about a return to normal conditions; the UNFICYP mission had about 800 personnel as of mid-2022<br>
@@ -713,7 +714,7 @@ Islamic State of Iraq and ash-Sham (ISIS)<br>
 <p>hostilities in 1974 divided the island into two de facto autonomous entities, the internationally recognized Cypriot Government and a Turkish-Cypriot community (north Cyprus); the 1,000-strong UN Peacekeeping Force in Cyprus (UNFICYP) has served in Cyprus since 1964 and maintains the buffer zone between north and south; on 1 May 2004, Cyprus entered the EU still divided, with the EU's body of legislation and standards (acquis communitaire) suspended in the north; Turkey protests Cypriot Government creating hydrocarbon blocks and maritime boundary with Lebanon in March 2007</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 9,820 (Syria) (mid-year 2021); 14,380 (Ukraine) (as of 18 October 2022)<br>
+_refugees (country of origin)_: 9,820 (Syria) (mid-year 2021); 14,404 (Ukraine) (as of 25 October 2022)<br>
 _IDPs_: 242,000 (both Turkish and Greek Cypriots; many displaced since 1974) (2021)<br>
 _stateless persons_: 66 (mid-year 2021)<br>
 <strong>note:</strong> 44,693 estimated refugee and migrant arrivals (January 2015-September 2022)<br>

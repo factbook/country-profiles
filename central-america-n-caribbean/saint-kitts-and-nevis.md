@@ -315,11 +315,11 @@ _elections/appointments_: the monarchy is hereditary; governor general appointed
 **Legislative branch**<br>
 _description_: unicameral National Assembly (14 or 15 seats, depending on inclusion of attorney general; 11 members directly elected in single-seat constituencies by simple majority vote and 3 appointed by the governor general - 2 on the advice of the prime minister and the third on the advice of the opposition leader; members serve 5-year terms)<br>
 _elections_: last held on 5 August 2022 (next to be held on 2027)<br>
-_election results_: percent of vote by party - SKNLP 44.4%, PLP 16.1%, PAM 16.2%, CCM 12.7%; seats by party - SKNLP 6, CCM 3, PLP 1, CCM 1<br>
+_election results_: percent of vote by party - SKNLP 44.4%, PLP 16.1%, PAM 16.2%, CCM 12.7%, other 10.6%; seats by party - SKNLP 6, CCM 3, PLP 1, CCM 1<br>
 
 **Judicial branch**<br>
 _highest court(s)_: the Eastern Caribbean Supreme Court (ECSC) is the superior court of the Organization of Eastern Caribbean States; the ECSC - headquartered on St. Lucia - consists of the Court of Appeal - headed by the chief justice and 4 judges - and the High Court with 18 judges; the Court of Appeal is itinerant, traveling to member states on a schedule to hear appeals from the High Court and subordinate courts; High Court judges reside in the member states, with 2 assigned to Saint Kitts and Nevis; note - the ECSC in 2003 replaced the Judicial Committee of the Privy Council (in London) as the final court of appeal on Saint Kitts and Nevis; Saint Kitts and Nevis is also a member of the Caribbean Court of Justice<br>
-_judge selection and term of office_: chief justice of Eastern Caribbean Supreme Court appointed by Her Majesty, Queen ELIZABETH II; other justices and judges appointed by the Judicial and Legal Services Commission, an independent body of judicial officials; Court of Appeal justices appointed for life with mandatory retirement at age 65; High Court judges appointed for life with mandatory retirement at age 62<br>
+_judge selection and term of office_: chief justice of Eastern Caribbean Supreme Court appointed by His Majesty, King Charles III; other justices and judges appointed by the Judicial and Legal Services Commission, an independent body of judicial officials; Court of Appeal justices appointed for life with mandatory retirement at age 65; High Court judges appointed for life with mandatory retirement at age 62<br>
 _subordinate courts_: magistrates' courts<br>
 
 **Political parties and leaders**<br>

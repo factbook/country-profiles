@@ -719,11 +719,11 @@ Armed Forces of Bangladesh (aka Bangladesh Defense Force): Bangladesh Army, Bang
 <strong>note 1: </strong>the Armed Forces of Bangladesh are jointly administered by the Ministry of Defense (MOD) and the Armed Forces Division (AFD), both under the Prime Minister's Office; the AFD has ministerial status and parallel functions with MOD; the AFD is a joint coordinating headquarters for the three services and also functions as a joint command center during wartime; to coordinate policy, the prime minister and the president are advised by a six-member board, which includes the three service chiefs of staff, the principal staff officer of the AFD, and the military secretaries to the prime minister and president<br><br><strong>note 2: </strong>the RAB, Ansars, and VDP are paramilitary organizations for internal security; the RAB is a joint task force founded in 2004 and composed of members of the police, Army, Navy, Air Force, and Border Guards seconded to the RAB from their respective units; its mandate includes internal security, intelligence gathering related to criminal activities, and government-directed investigations<br>
 
 **Military expenditures**<br>
+1.1% of GDP (2022 est.)<br>
 1.2% of GDP (2021 est.)<br>
-1.3% of GDP (2020 est.)<br>
+1.3% of GDP (2020)<br>
 1.4% of GDP (2019) (approximately $5.12 billion)<br>
 1.4% of GDP (2018) (approximately $4.57 billion)<br>
-1.3% of GDP (2017) (approximately $4.21 billion)<br>
 
 **Military and security service personnel strengths**<br>
 information varies; approximately 165,000 total active personnel (135,000 Army; 15,000 Navy; 15,000 Air Force) (2022)<br>

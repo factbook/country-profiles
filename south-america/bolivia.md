@@ -729,7 +729,8 @@ information varies widely; approximately 40,000 active troops (28,000 Army; 5,00
 the Bolivian Armed Forces are equipped with a mix of mostly older Brazilian, Chinese, European, and US equipment; since 2010, China and France have been the leading suppliers of military hardware to Bolivia (2022)<br>
 
 **Military service age and obligation**<br>
-compulsory for all men between the ages of 18 and 22; men can volunteer from the age of 16, women from 18; service is for one year; Search and Rescue service can be substituted for citizens who have reached the age of compulsory military service; duration of this service is 2 years (2022)<br>
+compulsory for all men between the ages of 18 and 22; men can volunteer from the age of 16, women from 18; service is for 12 months; Search and Rescue service can be substituted for citizens who have reached the age of compulsory military service; duration of this service is 24 months (2022)<br>
+<strong>note:</strong> foreign nationals 18-22 residing in Bolivia may join the armed forces; joining speeds the process of acquiring Bolivian citizenship by naturalization<br>
 
 **Military - note**<br>
 Bolivia has a small naval force for patrolling some 5,000 miles of navigable rivers to combat narcotics trafficking and smuggling, provide disaster relief, and deliver supplies to remote rural areas, as well as for maintaining a presence on Lake Titicaca; the Navy also exists in part to cultivate a maritime tradition and as a reminder of Bolivia&rsquo;s desire to regain the access to the Pacific Ocean that the country lost to Chile in the War of the Pacific (1879-1884); every year on 23 March, the Navy participates in parades and government ceremonies commemorating the D&iacute;a Del Mar (Day of the Sea) holiday that remembers the loss (2022)<br>

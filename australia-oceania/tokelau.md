@@ -47,7 +47,7 @@ _highest point_: unnamed location 5 m<br>
 _lowest point_: Pacific Ocean 0 m<br>
 
 **Natural resources**<br>
-NEGL<br>
+Fisheries<br>
 
 **Land use**<br>
 _agricultural land_: 60% (2018 est.)<br>
@@ -227,7 +227,7 @@ self-administering territory of New Zealand; note - Tokelau and New Zealand have
 
 **Capital**<br>
 _time difference_: UTC+13 (18 hours ahead of Washington, DC during Standard Time)<br>
-note: there is no designated, official capital for Tokelau; the location of the capital rotates among the three atolls along with the head of government or Ulu o Tokelau<br>
+<strong>note</strong>: there is no designated, official capital for Tokelau; the location of the capital rotates among the three atolls along with the head of government or Ulu o Tokelau<br>
 
 **Administrative divisions**<br>
 none (territory of New Zealand)<br>
@@ -325,7 +325,7 @@ _industry_: NA<br>
 _services_: NA<br>
 
 **Agricultural products**<br>
-coconuts, roots/tubers nes, tropical fruit, pork, bananas, eggs, poultry, pig offals, pig fat, fruit<br>
+coconuts, roots/tubers, tropical fruit, pork, bananas, eggs, poultry, pig offals, pig fat, fruit<br>
 
 **Industries**<br>
 small-scale enterprises for copra production, woodworking, plaited craft goods; stamps, coins; fishing<br>

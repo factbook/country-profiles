@@ -729,9 +729,9 @@ Islamic State of Iraq and ash-Sham (ISIS)<br>
 <p><em>Romania-Bulgaria</em>: none identified</p> <p><em>Romania-Hungary</em>: none identified</p> <p><em>Romania-Moldova</em>: none identified</p> <p><em>Romania-Serbia</em>: none identified</p> <p><em>Romania-Ukraine</em>: the International Court of Justice ruled largely in favor of Romania in its dispute submitted in 2004 over Ukrainian-administered Zmiyinyy/Serpilor (Snake) Island and Black Sea maritime boundary delimitation; in 2007, Romania opposed Ukraine's construction of a navigation canal from the Danube border through Ukraine to the Black Sea, arguing that it runs through a unique ecological area, the Danube Delta</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 83,748 (Ukraine) (as of 16 October 2022)<br>
+_refugees (country of origin)_: 87,853 (Ukraine) (as of 30 October 2022)<br>
 _stateless persons_: 314 (mid-year 2021)<br>
-<strong>note:</strong> 11,467 estimated refugee and migrant arrivals (January 2015-September 2022)<br>
+<strong>note:</strong> 11,627 estimated refugee and migrant arrivals (January 2015-October 2022)<br>
 
 **Trafficking in persons**<br>
 _current situation_: human traffickers exploit domestic and foreign victims in Romania and Romanians abroad;&nbsp; Romania remains a primary source country for sex and labor trafficking victims in Europe; Romanian men, women, and children are subjected to forced labor in agriculture, construction, hotels, manufacturing, domestic service, commercial sex, and forced begging and theft; Romania is a destination country for a limited number of foreign trafficking victims, including migrants from Africa, Europe, and South and Southeast Asia, exploited in the construction, hotel, and food-processing industries<br>

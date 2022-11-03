@@ -664,11 +664,11 @@ Belize Defense Force (BDF): Army, Air Wing; Belize Coast Guard (2022)<br>
 <strong>note:</strong> the Ministry of National Defense and Border Security is responsible for oversight of the BDF and the Coast Guard, while the Ministry of Home Affairs and New Growth Industries has responsibility for police and prisons<br>
 
 **Military expenditures**<br>
+1.2% of GDP (2022 est.)<br>
 1.3% of GDP (2021 est.)<br>
 1.5% of GDP (2020 est.)<br>
 1.4% of GDP (2019 est.) (approximately $35 million)<br>
 1.4% of GDP (2018 est.) (approximately $35 million)<br>
-1.4% of GDP (2017 est.) (approximately $30 million)<br>
 
 **Military and security service personnel strengths**<br>
 approximately 1,300 BDF personnel; approximately 300 Belize Coast Guard (2022)<br>

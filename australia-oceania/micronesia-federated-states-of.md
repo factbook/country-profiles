@@ -585,7 +585,7 @@ _major seaport(s)_: Colonia (Tamil Harbor), Molsron Lele Harbor, Pohnepi Harbor<
 no military forces; Federated States of Micronesia National Police (includes a maritime wing)<br>
 
 **Military - note**<br>
-defense is the responsibility of the US<br>
+defense is the responsibility of the US<br><br>Micronesia has a "shiprider" agreement with the US, which allows local maritime law enforcement officers to embark on US Coast Guard (USCG) and US Navy (USN) vessels, including to board and search vessels suspected of violating laws or regulations within Micronesia's designated exclusive economic zone (EEZ) or on the high seas; "shiprider" agreements also enable USCG personnel and USN vessels with embarked USCG law enforcement personnel to work with host nations to protect critical regional resources (2022)<br>
 
 ## Transnational Issues
 

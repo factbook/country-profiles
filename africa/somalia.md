@@ -649,7 +649,7 @@ Ministry of Defense: Somali National Army (SNA); Ministry of Internal Security: 
 5.9% of GDP (2015 est.) (approximately $110 million)<br>
 
 **Military and security service personnel strengths**<br>
-estimates vary widely due to inconsistent data and ongoing efforts to integrate various militias; up to 20,000 active duty SNA personnel (2022)<br>
+estimates vary widely due to inconsistent data and ongoing efforts to integrate various militias; up to 20,000 active-duty SNA personnel (2022)<br>
 <strong>note 1:</strong> in 2017, the Somali Government announced a plan for the SNA to eventually number about 18,000 troops; the same plan called for 32,000 federal and regional police<br><br><strong>note 2:</strong> as of 2021, there were estimates of up to 50,000 militia forces operating in the country<br>
 
 **Military equipment inventories and acquisitions**<br>

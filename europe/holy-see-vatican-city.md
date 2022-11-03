@@ -321,8 +321,8 @@ _electrification - total population_: 100% (2020)<br>
 ## Communications
 
 **Telecommunication systems**<br>
-_general assessment_: automatic digital exchange (2018)<br>
-_domestic_: connected via fiber-optic cable to Telecom Italia network (2018)<br>
+_general assessment_: the Vatican&rsquo;s interior telecommunication system is composed of two strongly integrated sub-system: fixed infrastructure and mobile infrastructure; it is important to note that the mobile communication system has been designed to be capable of using satellite connections so that it is possible to ensure the telecommunication services whenever needed, following the Pastoral travels of the Pope; the telephone system operates through an automatic digital exchange (2020)<br>
+_domestic_: the telephone system operates through an automatic digital exchange (2020)<br>
 _international_: country code - 39; uses Italian system<br>
 <strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress toward 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>
 

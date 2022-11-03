@@ -633,11 +633,11 @@ _major seaport(s)_: Bridgetown<br>
 Barbados Defense Force: The Barbados Regiment, The Barbados Coast Guard (2022)<br>
 
 **Military expenditures**<br>
+0.8% of GDP (2022 est.)<br>
 0.9% of GDP (2021 est.)<br>
 0.9% of GDP (2020 est.)<br>
 0.8% of GDP (2019 est.) (approximately $35 million)<br>
 0.8% of GDP (2018 est.) (approximately $40 million)<br>
-0.8% of GDP (2017 est.) (approximately $40 million)<br>
 
 **Military and security service personnel strengths**<br>
 approximately 600 active personnel (2022)<br>

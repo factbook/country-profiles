@@ -637,7 +637,8 @@ _LNG terminal(s) (export)_: Lumut<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Royal Brunei Armed Forces: Royal Brunei Land Force, Royal Brunei Navy, Royal Brunei Air Force (2022)<br>
+Royal Brunei Armed Forces: Land Force, Navy, Air Force, Joint Force (2022)<br>
+<strong>note: </strong>the Gurkha Reserve Unit (GRU) under the Ministry of Defense is a special guard force for the Sultan, the royal family, and the country’s oil installations<br>
 
 **Military expenditures**<br>
 3.1% of GDP (2021 est.)<br>
@@ -654,6 +655,7 @@ the Brunei imports nearly all of its military equipment and weapons systems and 
 
 **Military service age and obligation**<br>
 17 years of age for voluntary military service; non-Malays are ineligible to serve (2022)<br>
+<strong>note:</strong> the Gurkha Reserve Unit (GRU) employs about 500 Gurkhas from Nepal, the majority of whom are veterans of the British Army and the Singapore Police Force who have joined the GRU as a second career<br>
 
 **Military - note**<br>
 Brunei has a long-standing defense relationship with the United Kingdom and hosts a British Army garrison, which includes a Gurkha battalion and a jungle warfare school; Brunei also hosts a Singaporean military training base (2022)<br>

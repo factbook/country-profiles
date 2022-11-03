@@ -610,8 +610,8 @@ _total subscriptions_: 6.148 million (2020 est.)<br>
 _subscriptions per 100 inhabitants_: 127 (2020 est.)<br>
 
 **Telecommunication systems**<br>
-_general assessment_: the principal growth areas in in New Zealand&rsquo;s telecom market have been in mobile broadband and fiber; the UFB1 rollout was completed in November 2019 and the UFB2 rollout is scheduled to be completed by the end of 2022; Chorus noted that as of the beginning of 2022, 1Gb/s plans accounted for about 23% of all fiber connections, while 43% of business customers adopted a gigabit service; New Zealand&rsquo;s mobile market continues to undergo significant developments; there have been considerable gains made in LTE services, with effective competition between Spark, Vodafone NZ, and 2degrees; the widening coverage of LTE networks has been supported by the Rural Broadband Initiative rollout, which added a significant number of mobile sites to new or underserved areas; as the initiative is winding down, this has enabled the participating telcos to invest in NB-IoT and other platforms; Vodafone NZ expects to extend its NB-IoT footprint to cover at least 60% of the country by 2024; the market is undergoing additional consolidation, with approval of the merger between 2degrees and Orcon Group having been granted by regulators in May 2022; this will create the country&rsquo;s third-largest integrated telco, offering fixed and mobile services in competition with Spark and Vodafone NZ. The merger proposal came fast of the heels of Vocus Group and its local subsidiary Orcon having acquired 2degrees from Trilogy International in December 2021; this deal created a new company, Voyage Digital. (2022)<br>
-_domestic_: fixed-line roughly 37 per 100 and mobile-cellular telephone subscribership 136 per 100 persons (2019)<br>
+_general assessment_: the principal growth areas in in New Zealand&rsquo;s telecom market have been in mobile broadband and fiber; the UFB1 rollout was completed in November 2019 and the UFB2 rollout is scheduled to be completed by the end of 2022; Chorus noted that as of the beginning of 2022, 1Gb/s plans accounted for about 23% of all fiber connections, while 43% of business customers adopted a gigabit service; New Zealand&rsquo;s mobile market continues to undergo significant developments; there have been considerable gains made in LTE services, with effective competition between Spark, Vodafone NZ, and 2degrees; the widening coverage of LTE networks has been supported by the Rural Broadband Initiative rollout, which added a significant number of mobile sites to new or underserved areas; as the initiative is winding down, this has enabled the participating telcos to invest in NB-IoT and other platforms; Vodafone NZ expects to extend its NB-IoT footprint to cover at least 60% of the country by 2024; the market is undergoing additional consolidation, with approval of the merger between 2degrees and Orcon Group having been granted by regulators in May 2022; this will create the country&rsquo;s third-largest integrated telco, offering fixed and mobile services in competition with Spark and Vodafone NZ. The merger proposal came fast of the heels of Vocus Group and its local subsidiary Orcon having acquired 2degrees from Trilogy International in December 2021; this deal created a new company, Voyage Digital. (2020)<br>
+_domestic_: fixed-line roughly 18 per 100 and mobile-cellular telephone subscribership 127 per 100 persons (2020)<br>
 _international_: country code - 64; landing points for the Southern Cross NEXT, Aqualink, Nelson-Levin, SCCN and Hawaiki submarine cable system providing links to Australia, Fiji, American Samoa, Kiribati, Samo, Tokelau, US and around New Zealand; satellite earth stations - 8 (1 Inmarsat - Pacific Ocean, 7 other) (2019)<br>
 <strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress toward 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>
 
@@ -682,11 +682,11 @@ _major seaport(s)_: Auckland, Lyttelton, Manukau Harbor, Marsden Point, Tauranga
 New Zealand Defense Force (NZDF): New Zealand Army, Royal New Zealand Navy, Royal New Zealand Air Force (2022)<br>
 
 **Military expenditures**<br>
-1.3% of GDP (2021 est.)<br>
+1.4% of GDP (2022 est.)<br>
+1.3% of GDP (2021)<br>
 1.5% of GDP (2020)<br>
 1.4% of GDP (2019) (approximately $3.1 billion)<br>
 1.2% of GDP (2018) (approximately $2.62 billion)<br>
-1.1% of GDP (2017) (approximately $2.43 billion)<br>
 
 **Military and security service personnel strengths**<br>
 approximately 9,500 active duty troops (4,700 Army; 2,300 Navy; 2,500 Air Force) (2022)<br>
@@ -696,7 +696,7 @@ the NZDF is equipped mostly with imported weapons and equipment from Western sup
 
 **Military service age and obligation**<br>
 17 years of age for men and women for voluntary military service; soldiers cannot be deployed until the age of 18; no conscription (2022)<br>
-<strong>note: </strong>New Zealand opened up all military occupations to women in 2000; in 2019, women accounted for about 18% of the uniformed full-time personnel<br>
+<strong>note 1: </strong>New Zealand opened up all military occupations to women in 2000; in 2019, women accounted for about 18% of the uniformed full-time personnel<br><br><strong>note 2:</strong> as of 2022, the NZDF’s program for recruiting foreign volunteers had been suspended<br>
 
 **Military deployments**<br>
 up to 220 Antarctica (summer season only) (2022)<br>

@@ -638,7 +638,7 @@ _major seaport(s)_: Betio (Tarawa Atoll), Canton Island, English Harbor<br>
 no regular military forces; Kiribati Police and Prison Service (Ministry of Justice)<br>
 
 **Military - note**<br>
-defense assistance is provided by Australia and NZ<br>
+defense assistance is provided by Australia and NZ<br><br>Kiribati has a "shiprider" agreement with the US, which allows local maritime law enforcement officers to embark on US Coast Guard (USCG) and US Navy (USN) vessels, including to board and search vessels suspected of violating laws or regulations within Kiribati's designated exclusive economic zone (EEZ) or on the high seas; "shiprider" agreements also enable USCG personnel and USN vessels with embarked USCG law enforcement personnel to work with host nations to protect critical regional resources (2022)<br>
 
 ## Transnational Issues
 
