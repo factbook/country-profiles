@@ -64,7 +64,7 @@ _other_: 21.6% (2018 est.)<br>
 64,150 sq km (2012)<br>
 
 **Major lakes (area sq km)**<br>
-_Salt water lake(s)_: Thalesap Songkhla - 1,290 sq km<br>
+_salt water lake(s)_: Thalesap Songkhla - 1,290 sq km<br>
 
 **Major rivers (by length in km)**<br>
 Mekong (shared with China [s], Burma, Laos, Cambodia, and Vietnam [m]) - 4,350 km; Salween (shared with China [s] and Burma [m]) - 3,060 km; Mun - 1,162 km<br><strong>note</strong> – [s] after country name indicates river source; [m] after country name indicates river mouth<br>
@@ -299,7 +299,7 @@ _municipal solid waste recycled annually_: 5,128,993 tons (2012 est.)<br>
 _percent of municipal solid waste recycled_: 19.1% (2012 est.)<br>
 
 **Major lakes (area sq km)**<br>
-_Salt water lake(s)_: Thalesap Songkhla - 1,290 sq km<br>
+_salt water lake(s)_: Thalesap Songkhla - 1,290 sq km<br>
 
 **Major rivers (by length in km)**<br>
 Mekong (shared with China [s], Burma, Laos, Cambodia, and Vietnam [m]) - 4,350 km; Salween (shared with China [s] and Burma [m]) - 3,060 km; Mun - 1,162 km<br><strong>note</strong> – [s] after country name indicates river source; [m] after country name indicates river mouth<br>
@@ -595,8 +595,8 @@ _proven reserves_: 1.063 billion metric tons (2019 est.)<br>
 **Petroleum**<br>
 _total petroleum production_: 438,200 bbl/day (2021 est.)<br>
 _refined petroleum consumption_: 1,284,800 bbl/day (2019 est.)<br>
-_crude oil and lease condensate exports_: 28,600 barrels/day (2018 est.)<br>
-_crude oil and lease condensate imports_: 979,800 barrels/day (2018 est.)<br>
+_crude oil and lease condensate exports_: 28,600 bbl/day (2018 est.)<br>
+_crude oil and lease condensate imports_: 979,800 bbl/day (2018 est.)<br>
 _crude oil estimated reserves_: 252.8 million barrels (2021 est.)<br>
 
 **Refined petroleum products - production**<br>
@@ -726,11 +726,11 @@ Royal Thai Armed Forces (Kongthap Thai, RTARF): Royal Thai Army (Kongthap Bok Th
 estimated 300,000 active duty personnel (200,000 Army; 70,000 Navy; 30,000 Air Force); approximately 230,000 Royal Thai Police (2022)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the RTARF has a diverse array of foreign-supplied weapons systems, including a large amount of obsolescent or second-hand US equipment; since 2010, Thailand has received military equipment from nearly 20 countries, including China, South Korea, Sweden, Ukraine, and the US (2022)<br>
+the RTARF has a diverse array of foreign-supplied weapons systems, including a large amount of obsolescent or second-hand US equipment; since 2010, Thailand has received military equipment from nearly 20 countries, including China, South Korea, Sweden, Ukraine, and the US; as of 2022, Thailand was making efforts to increase its domestic defense production capabilities in such areas as armored vehicles, unmanned aerial systems, and military technologies (2022)<br>
 
 **Military service age and obligation**<br>
-18 years of age for voluntary military service for men and women; 21 years of age for compulsory military service (men only); men register at 18 years of age; 2-year conscript service obligation varies by educational qualifications (2022)<br>
-<strong>note 1:</strong> serving in the armed forces is a national duty of all Thai citizens; conscription was introduced in 1905; it includes women, however, only men over the age of 21 who have not gone through reserve training are conscripted; conscripts are chosen by lottery (on draft day, eligible draftees can request volunteer service, or they may choose to stay for the conscription lottery); there are reductions or deferments of service obligation for those with higher educational qualifications, but most conscripts serve for 24 months; approximately 75-100,000 men are drafted for military service each year and conscripts reportedly comprise as much as 50% of the armed forces<br><br><strong>note 2:</strong> as of 2020, women comprised about 8% of active duty military personnel<br>
+18 years of age for voluntary military service for men and women; 21 years of age for compulsory military service for men; men register at 18 years of age; volunteer service obligation may be as short as 6 or 12 months, depending on educational qualifications; conscript service obligation also varies by educational qualifications, but is typically 24 months (2022)<br>
+<strong>note 1:</strong> serving in the armed forces is a national duty of all Thai citizens; conscription was introduced in 1905; it includes women, however, only men over the age of 21 who have not gone through reserve training are conscripted; conscripts are chosen by lottery (on draft day, eligible draftees can request volunteer service, or they may choose to stay for the conscription lottery); approximately 75-100,000 men are drafted for military service each year and conscripts reportedly comprise as much as 50% of the armed forces<br><br><strong>note 2:</strong> as of 2020, women comprised about 8% of active-duty military personnel<br>
 
 **Military deployments**<br>
 280 South Sudan (UNMISS) (May 2022)<br>

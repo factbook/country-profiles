@@ -65,8 +65,8 @@ _other_: 35.4% (2018 est.)<br>
 23,600 sq km (2012)<br>
 
 **Major lakes (area sq km)**<br>
-_Fresh water lake(s)_: Lago Buenos Aires (shared with Chile) - 2,240 sq km; Lago Argentino - 1,410 sq km; Lago Viedma - 1,090 sq km; Lago San Martin (shared with Chile) - 1,010 sq km; Lago Colhue Huapi - 800 sq km; Lago Fagnano (shared with Chile) - 590 sq km; Lago Nahuel Huapi - 550 sq km<br>
-_Salt water lake(s)_: Laguna Mar Chiquita - 1,850 sq km;<br>
+_fresh water lake(s)_: Lago Buenos Aires (shared with Chile) - 2,240 sq km; Lago Argentino - 1,410 sq km; Lago Viedma - 1,090 sq km; Lago San Martin (shared with Chile) - 1,010 sq km; Lago Colhue Huapi - 800 sq km; Lago Fagnano (shared with Chile) - 590 sq km; Lago Nahuel Huapi - 550 sq km<br>
+_salt water lake(s)_: Laguna Mar Chiquita - 1,850 sq km;<br>
 
 **Major rivers (by length in km)**<br>
 Rio de la Plata/Parana river mouth (shared with Brazil [s], Paraguay, and Uruguay) - 4,880 km; Paraguay (shared with Brazil [s], and Paraguay [m]) - 2,549 km; Uruguay (shared with Brazil [s] and Uruguay [m]) - 1,610 km<br><strong>note</strong> – [s] after country name indicates river source; [m] after country name indicates river mouth<br>
@@ -294,8 +294,8 @@ _municipal solid waste recycled annually_: 1,074,633 tons (2010 est.)<br>
 _percent of municipal solid waste recycled_: 6% (2010 est.)<br>
 
 **Major lakes (area sq km)**<br>
-_Fresh water lake(s)_: Lago Buenos Aires (shared with Chile) - 2,240 sq km; Lago Argentino - 1,410 sq km; Lago Viedma - 1,090 sq km; Lago San Martin (shared with Chile) - 1,010 sq km; Lago Colhue Huapi - 800 sq km; Lago Fagnano (shared with Chile) - 590 sq km; Lago Nahuel Huapi - 550 sq km<br>
-_Salt water lake(s)_: Laguna Mar Chiquita - 1,850 sq km;<br>
+_fresh water lake(s)_: Lago Buenos Aires (shared with Chile) - 2,240 sq km; Lago Argentino - 1,410 sq km; Lago Viedma - 1,090 sq km; Lago San Martin (shared with Chile) - 1,010 sq km; Lago Colhue Huapi - 800 sq km; Lago Fagnano (shared with Chile) - 590 sq km; Lago Nahuel Huapi - 550 sq km<br>
+_salt water lake(s)_: Laguna Mar Chiquita - 1,850 sq km;<br>
 
 **Major rivers (by length in km)**<br>
 Rio de la Plata/Parana river mouth (shared with Brazil [s], Paraguay, and Uruguay) - 4,880 km; Paraguay (shared with Brazil [s], and Paraguay [m]) - 2,549 km; Uruguay (shared with Brazil [s] and Uruguay [m]) - 1,610 km<br><strong>note</strong> – [s] after country name indicates river source; [m] after country name indicates river mouth<br>
@@ -595,8 +595,8 @@ _proven reserves_: 500 million metric tons (2019 est.)<br>
 **Petroleum**<br>
 _total petroleum production_: 690,200 bbl/day (2021 est.)<br>
 _refined petroleum consumption_: 680,000 bbl/day (2019 est.)<br>
-_crude oil and lease condensate exports_: 59,100 barrels/day (2018 est.)<br>
-_crude oil and lease condensate imports_: 11,400 barrels/day (2018 est.)<br>
+_crude oil and lease condensate exports_: 59,100 bbl/day (2018 est.)<br>
+_crude oil and lease condensate imports_: 11,400 bbl/day (2018 est.)<br>
 _crude oil estimated reserves_: 2,482,700,000 barrels (2021 est.)<br>
 
 **Refined petroleum products - production**<br>
@@ -635,7 +635,7 @@ _total subscriptions_: 54,763,900 (2020 est.)<br>
 _subscriptions per 100 inhabitants_: 121 (2020 est.)<br>
 
 **Telecommunication systems**<br>
-_general assessment_: Argentina&rsquo;s ongoing hyperinflation continues to distort the telecom market&rsquo;s performance, which shows strong growth in revenue but only modest gains in subscriber numbers each year; fixed-line teledensity continues on its slow, gradual decline year upon year, the fixed broadband segment has increased levels only slightly higher than the fixed-line teledensity; nearly a quarter of the country&rsquo;s broadband connections are via DSL, although fiber is&nbsp;&nbsp; increasing it's share of that market as networks expand across most of the main cities; mobile broadband continues to be the preferred platform for internet access, supported by high mobile levels and nationwide LTE coverage; the first 5G service was launched in February 2021 using re-farmed LTE frequencies; the various fixed, mobile, and cable operators are expanding and enhancing their services, the government is also making an active contribution towards boosting broadband connectivity around the country; its national connectivity plan &lsquo;Plan Conectar&rsquo;, launched in September 2020, provides funding for a range of programs to increase coverage (2021)<br>
+_general assessment_: Argentina&rsquo;s ongoing problem with hyperinflation continues to distort the telecom market&rsquo;s performance, which shows strong growth in revenue but only modest gains in subscriber numbers each year; the fixed broadband segment has penetration levels only slightly higher than the fixed-line teledensity; nearly a quarter of the country&rsquo;s broadband connections are via DSL, although fiber is starting claim an increasing share of that market as networks expand across most of the main cities; mobile broadband continues to be the preferred platform for internet access, supported by high mobile penetration levels and nationwide LTE coverage; the first 5G service was launched in February 2021 using refarmed LTE frequencies; the anticipated 5G spectrum auctions should drive even stronger uptake in mobile broadband services; while the various fixed, mobile, and cable operators push to expand and enhance their services, the government is also making an active contribution towards boosting broadband connectivity around the country; its national connectivity plan &lsquo;Plan Conectar&rsquo;, launched in September 2020, provides funding for a range of programs to increase coverage; in August 2021, the telecom regulator announced the release funding to help operators accelerate the rollout of their broadband infrastructure and services (2021)<br>
 _domestic_: roughly 16 per 100 fixed-line and 121 per 100 mobile-cellular; microwave radio relay, fiber-optic cable, and a domestic satellite system with 40 earth stations serve the trunk network (2020)<br>
 _international_: country code - 54; landing points for the UNISUR, Bicentenario,&nbsp;Atlantis-2, SAm-1, and&nbsp;SAC, Tannat, Malbec and ARBR&nbsp;submarine cable systems that provide links to Europe, Africa, South and Central America, and US; satellite earth stations - 112 (2019)<br>
 <strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress toward 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>

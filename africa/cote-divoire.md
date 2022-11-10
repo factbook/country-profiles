@@ -64,7 +64,7 @@ _other_: 2.5% (2018 est.)<br>
 730 sq km (2012)<br>
 
 **Major lakes (area sq km)**<br>
-_Salt water lake(s)_: Lagune Aby - 780 sq km<br>
+_salt water lake(s)_: Lagune Aby - 780 sq km<br>
 
 **Major watersheds (area sq km)**<br>
 Atlantic Ocean drainage: Niger (2,261,741 sq km), Volta (410,991 sq km)<br>
@@ -304,7 +304,7 @@ _municipal solid waste recycled annually_: 133,224 tons (2005 est.)<br>
 _percent of municipal solid waste recycled_: 3% (2005 est.)<br>
 
 **Major lakes (area sq km)**<br>
-_Salt water lake(s)_: Lagune Aby - 780 sq km<br>
+_salt water lake(s)_: Lagune Aby - 780 sq km<br>
 
 **Major watersheds (area sq km)**<br>
 Atlantic Ocean drainage: Niger (2,261,741 sq km), Volta (410,991 sq km)<br>
@@ -592,8 +592,8 @@ _proven reserves_: 0 metric tons (2019 est.)<br>
 **Petroleum**<br>
 _total petroleum production_: 33,000 bbl/day (2021 est.)<br>
 _refined petroleum consumption_: 56,500 bbl/day (2019 est.)<br>
-_crude oil and lease condensate exports_: 30,200 barrels/day (2018 est.)<br>
-_crude oil and lease condensate imports_: 69,200 barrels/day (2018 est.)<br>
+_crude oil and lease condensate exports_: 30,200 bbl/day (2018 est.)<br>
+_crude oil and lease condensate imports_: 69,200 bbl/day (2018 est.)<br>
 _crude oil estimated reserves_: 100 million barrels (2021 est.)<br>
 
 **Refined petroleum products - production**<br>

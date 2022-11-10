@@ -343,7 +343,7 @@ _chief of state_: President Alar KARIS (since 11 October 2021)<br>
 _head of government_: Prime Minister Kaja KALLAS (since 26 January 2021)<br>
 _cabinet_: Cabinet appointed by the prime minister, approved by Parliament<br>
 _elections/appointments_: <p>president indirectly elected by Parliament for a 5-year term (eligible for a second term); if a candidate does not secure two thirds of the votes after 3 rounds of balloting, then an electoral college consisting of Parliament members and local council members elects the president, choosing between the 2 candidates with the highest number of votes; election last held on 30-31 August 2021 (next to be held in 2026); in a first round of voting on 30 August, parliament failed to elect a president; in a second round on 31 August, the sole candidate, Alar KARIS, received 72 votes of 101 votes (there were 8 blank votes and 21 electors not present); prime minister nominated by the president and approved by Parliament</p><br>
-_election results_: <p>2021: Alar KARIS elected president; parliamentary vote Alar KARIS (independent) 72 of 101 votes;  KALLAS is Estonia's first female prime minister<br><br>2016: Kersti KALJULAID is indirectly elected president with 81 of 98 votes in parliament (17 ballots blank). She is sworn in on October 10 as the first female head of state of Estonia.</p><br>
+_election results_: <p><em>2021</em>: Alar KARIS elected president; parliamentary vote Alar KARIS (independent) 72 of 101 votes;  KALLAS is Estonia's first female prime minister<br><br><em>2016</em>: Kersti KALJULAID is indirectly elected president with 81 of 98 votes in parliament (17 ballots blank). She is sworn in on October 10 as the first female head of state of Estonia.</p><br>
 
 **Legislative branch**<br>
 _description_: unicameral Parliament or Riigikogu (101 seats; members directly elected in multi-seat constituencies by open- list proportional representation vote to serve 4-year terms)<br>
@@ -569,8 +569,8 @@ _proven reserves_: 0 metric tons (2019 est.)<br>
 **Petroleum**<br>
 _total petroleum production_: 21,800 bbl/day (2021 est.)<br>
 _refined petroleum consumption_: 27,500 bbl/day (2019 est.)<br>
-_crude oil and lease condensate exports_: 0 barrels/day (2018 est.)<br>
-_crude oil and lease condensate imports_: 0 barrels/day (2018 est.)<br>
+_crude oil and lease condensate exports_: 0 bbl/day (2018 est.)<br>
+_crude oil and lease condensate imports_: 0 bbl/day (2018 est.)<br>
 _crude oil estimated reserves_: 0 barrels (2021 est.)<br>
 
 **Refined petroleum products - production**<br>
@@ -711,7 +711,7 @@ Estonia became a member of NATO in 2004<br><br>since 2017, Estonia has hosted a 
 <p>Russia and Estonia in May 2005 signed a technical border agreement, but Russia in June 2005 recalled its signature after the Estonian parliament added to its domestic ratification act a historical preamble referencing the Soviet occupation and Estonia's pre-war borders under the 1920 Treaty of Tartu; Russia contends that the preamble allows Estonia to make territorial claims on Russia in the future, while Estonian officials deny that the preamble has any legal impact on the treaty text; Russia demands better treatment of the Russian-speaking population in Estonia; as a member state that forms part of the EU's external border, Estonia implements strict Schengen border rules with Russia</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 60,980 (Ukraine) (as of 25 October 2022)<br>
+_refugees (country of origin)_: 61,276 (Ukraine) (as of 28 October 2022)<br>
 _stateless persons_: 71,873 (mid-year 2021); note - following independence in 1991, automatic citizenship was restricted to those who were Estonian citizens prior to the 1940 Soviet occupation and their descendants; thousands of ethnic Russians remained stateless when forced to choose between passing Estonian language and citizenship tests or applying for Russian citizenship; one reason for demurring on Estonian citizenship was to retain the right of visa-free travel to Russia; stateless residents can vote in local elections but not general elections; stateless parents who have been lawful residents of Estonia for at least five years can apply for citizenship for their children before they turn 15 years old<br>
 
 **Illicit drugs**<br>

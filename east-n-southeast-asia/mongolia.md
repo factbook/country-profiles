@@ -62,8 +62,8 @@ _other_: 20% (2018 est.)<br>
 840 sq km (2012)<br>
 
 **Major lakes (area sq km)**<br>
-_Fresh water lake(s)_: Hovsgol Nuur - 2,620 sq km; Har Us Nuur - 1,760 sq km;&nbsp;<br>
-_Salt water lake(s)_: Uvs Nuur - 3,350 sq km; Hyargas Nuur - 1,360 sq km<br>
+_fresh water lake(s)_: Hovsgol Nuur - 2,620 sq km; Har Us Nuur - 1,760 sq km;&nbsp;<br>
+_salt water lake(s)_: Uvs Nuur - 3,350 sq km; Hyargas Nuur - 1,360 sq km<br>
 
 **Major rivers (by length in km)**<br>
 Amur (shared with China [s] and Russia [m]) - 4,444 km<br><strong>note</strong> – [s] after country name indicates river source; [m] after country name indicates river mouth<br>
@@ -284,8 +284,8 @@ _coal revenues_: 8.62% of GDP (2018 est.)<br>
 _municipal solid waste generated annually_: 2.9 million tons (2016 est.)<br>
 
 **Major lakes (area sq km)**<br>
-_Fresh water lake(s)_: Hovsgol Nuur - 2,620 sq km; Har Us Nuur - 1,760 sq km;&nbsp;<br>
-_Salt water lake(s)_: Uvs Nuur - 3,350 sq km; Hyargas Nuur - 1,360 sq km<br>
+_fresh water lake(s)_: Hovsgol Nuur - 2,620 sq km; Har Us Nuur - 1,760 sq km;&nbsp;<br>
+_salt water lake(s)_: Uvs Nuur - 3,350 sq km; Hyargas Nuur - 1,360 sq km<br>
 
 **Major rivers (by length in km)**<br>
 Amur (shared with China [s] and Russia [m]) - 4,444 km<br><strong>note</strong> – [s] after country name indicates river source; [m] after country name indicates river mouth<br>
@@ -579,8 +579,8 @@ _proven reserves_: 2.52 billion metric tons (2019 est.)<br>
 **Petroleum**<br>
 _total petroleum production_: 16,700 bbl/day (2021 est.)<br>
 _refined petroleum consumption_: 35,800 bbl/day (2019 est.)<br>
-_crude oil and lease condensate exports_: 14,700 barrels/day (2018 est.)<br>
-_crude oil and lease condensate imports_: 0 barrels/day (2018 est.)<br>
+_crude oil and lease condensate exports_: 14,700 bbl/day (2018 est.)<br>
+_crude oil and lease condensate imports_: 0 bbl/day (2018 est.)<br>
 
 **Refined petroleum products - production**<br>
 0 bbl/day (2015 est.)<br>

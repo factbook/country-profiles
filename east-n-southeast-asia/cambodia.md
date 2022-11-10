@@ -65,7 +65,7 @@ _other_: 11.4% (2018 est.)<br>
 3,540 sq km (2012)<br>
 
 **Major lakes (area sq km)**<br>
-_Fresh water lake(s)_: Tonle Sap - 2,700-16,000 sq km<br>
+_fresh water lake(s)_: Tonle Sap - 2,700-16,000 sq km<br>
 
 **Major rivers (by length in km)**<br>
 Mekong (shared with China [s], Burma, Thailand, Laos, and Vietnam [m]) - 4,350 km<br><strong>note</strong> – [s] after country name indicates river source; [m] after country name indicates river mouth<br>
@@ -296,7 +296,7 @@ _vectorborne diseases_: dengue fever, Japanese encephalitis, and malaria<br>
 _municipal solid waste generated annually_: 1.089 million tons (2014 est.)<br>
 
 **Major lakes (area sq km)**<br>
-_Fresh water lake(s)_: Tonle Sap - 2,700-16,000 sq km<br>
+_fresh water lake(s)_: Tonle Sap - 2,700-16,000 sq km<br>
 
 **Major rivers (by length in km)**<br>
 Mekong (shared with China [s], Burma, Thailand, Laos, and Vietnam [m]) - 4,350 km<br><strong>note</strong> – [s] after country name indicates river source; [m] after country name indicates river mouth<br>
@@ -590,8 +590,8 @@ _proven reserves_: 0 metric tons (2019 est.)<br>
 **Petroleum**<br>
 _total petroleum production_: 0 bbl/day (2021 est.)<br>
 _refined petroleum consumption_: 64,100 bbl/day (2019 est.)<br>
-_crude oil and lease condensate exports_: 0 barrels/day (2018 est.)<br>
-_crude oil and lease condensate imports_: 0 barrels/day (2018 est.)<br>
+_crude oil and lease condensate exports_: 0 bbl/day (2018 est.)<br>
+_crude oil and lease condensate imports_: 0 bbl/day (2018 est.)<br>
 _crude oil estimated reserves_: 0 barrels (2021 est.)<br>
 
 **Refined petroleum products - production**<br>
@@ -712,7 +712,7 @@ Royal Cambodian Armed Forces (RCAF): Royal Cambodian Army, Royal Khmer Navy, Roy
 2.1% of GDP (2017 est.) (approximately $1.02 billion)<br>
 
 **Military and security service personnel strengths**<br>
-information varies; approximately 110,000 total active troops including about 3,000 Navy and 1,000 Air Force; approximately 10,000 Gendarmerie (2022)<br>
+information varies; approximately 100,000 total active troops including less than 5,000 Navy and Air Force personnel; approximately 10,000 Gendarmerie (2022)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the RCAF is armed largely with older Chinese and Russian-origin equipment; since 2010, it has received limited amounts of more modern equipment from a variety of suppliers, particularly China (2022)<br>

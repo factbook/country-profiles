@@ -62,7 +62,7 @@ _other_: 29.8% (2018 est.)<br>
 630 sq km (2012)<br>
 
 **Major lakes (area sq km)**<br>
-_Fresh water lake(s)_: Lake Constance (shared with Germany and Austria) - 540 sq km; Lake Geneva (shared with France) - 580 sq km<br>
+_fresh water lake(s)_: Lake Constance (shared with Germany and Austria) - 540 sq km; Lake Geneva (shared with France) - 580 sq km<br>
 
 **Major rivers (by length in km)**<br>
 Rhine  river source (shared with Germany, France, and Netherlands [m]) - 1,233 km<br><strong>note</strong> – [s] after country name indicates river source; [m] after country name indicates river mouth<br>
@@ -283,7 +283,7 @@ _municipal solid waste recycled annually_: 1,937,920 tons (2015 est.)<br>
 _percent of municipal solid waste recycled_: 32% (2015 est.)<br>
 
 **Major lakes (area sq km)**<br>
-_Fresh water lake(s)_: Lake Constance (shared with Germany and Austria) - 540 sq km; Lake Geneva (shared with France) - 580 sq km<br>
+_fresh water lake(s)_: Lake Constance (shared with Germany and Austria) - 540 sq km; Lake Geneva (shared with France) - 580 sq km<br>
 
 **Major rivers (by length in km)**<br>
 Rhine  river source (shared with Germany, France, and Netherlands [m]) - 1,233 km<br><strong>note</strong> – [s] after country name indicates river source; [m] after country name indicates river mouth<br>
@@ -583,8 +583,8 @@ _proven reserves_: 0 metric tons (2019 est.)<br>
 **Petroleum**<br>
 _total petroleum production_: 300 bbl/day (2021 est.)<br>
 _refined petroleum consumption_: 220,000 bbl/day (2019 est.)<br>
-_crude oil and lease condensate exports_: 0 barrels/day (2018 est.)<br>
-_crude oil and lease condensate imports_: 60,900 barrels/day (2018 est.)<br>
+_crude oil and lease condensate exports_: 0 bbl/day (2018 est.)<br>
+_crude oil and lease condensate imports_: 60,900 bbl/day (2018 est.)<br>
 _crude oil estimated reserves_: 0 barrels (2021 est.)<br>
 
 **Refined petroleum products - production**<br>
@@ -733,7 +733,7 @@ Islamic State of Iraq and ash-Sham (ISIS)<br>
 <p>none identified</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 38,219 (Eritrea), 20,043 (Syria), 14,649 (Afghanistan), 6,069 (Sri Lanka), 6,197 (Turkey) (mid-year 2021); 66,812 (Ukraine) (as of 25 October 2022)<br>
+_refugees (country of origin)_: 38,219 (Eritrea), 20,043 (Syria), 14,649 (Afghanistan), 6,069 (Sri Lanka), 6,197 (Turkey) (mid-year 2021); 68,086 (Ukraine) (as of 30 October 2022)<br>
 _stateless persons_: 684 (mid-year 2021)<br>
 
 **Illicit drugs**<br>

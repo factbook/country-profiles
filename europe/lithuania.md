@@ -62,7 +62,7 @@ _other_: 20.6% (2018 est.)<br>
 44 sq km (2012)<br>
 
 **Major lakes (area sq km)**<br>
-_Salt water lake(s)_: Curonian Lagoon (shared with Russia) - 1,620 sq km<br>
+_salt water lake(s)_: Curonian Lagoon (shared with Russia) - 1,620 sq km<br>
 
 **Population distribution**<br>
 fairly even population distribution throughout the country, but somewhat greater concentrations in the southern cities of Vilnius and Kaunas, and the western port of Klaipeda<br>
@@ -283,7 +283,7 @@ _municipal solid waste recycled annually_: 297,960 tons (2015 est.)<br>
 _percent of municipal solid waste recycled_: 22.9% (2015 est.)<br>
 
 **Major lakes (area sq km)**<br>
-_Salt water lake(s)_: Curonian Lagoon (shared with Russia) - 1,620 sq km<br>
+_salt water lake(s)_: Curonian Lagoon (shared with Russia) - 1,620 sq km<br>
 
 **Total water withdrawal**<br>
 _municipal_: 130.4 million cubic meters (2017 est.)<br>
@@ -572,8 +572,8 @@ _proven reserves_: 0 metric tons (2019 est.)<br>
 **Petroleum**<br>
 _total petroleum production_: 4,000 bbl/day (2021 est.)<br>
 _refined petroleum consumption_: 68,000 bbl/day (2019 est.)<br>
-_crude oil and lease condensate exports_: 900 barrels/day (2018 est.)<br>
-_crude oil and lease condensate imports_: 194,900 barrels/day (2018 est.)<br>
+_crude oil and lease condensate exports_: 900 bbl/day (2018 est.)<br>
+_crude oil and lease condensate imports_: 194,900 bbl/day (2018 est.)<br>
 _crude oil estimated reserves_: 12 million barrels (2021 est.)<br>
 
 **Refined petroleum products - production**<br>
@@ -718,7 +718,7 @@ Lithuania became a member of NATO in 2004<br> <p>since 2017, Lithuania has hoste
 <p><em>Lithuania-Belarus</em>: as of January 2007, ground demarcation of the boundary with Belarus was complete and mapped with final ratification documents in preparation</p> <p><em>Lithuania-Lativa</em>: boundary demarcated with Latvia was completed in 1998</p> <p><em>Lithuania-Russia</em>:<strong> </strong>Lithuania and Russia committed to demarcating their boundary in 2006 in accordance with the land and maritime treaty ratified by Russia in May 2003 and by Lithuania in 1999; Lithuania operates a simplified transit regime for Russian nationals traveling from the Kaliningrad coastal exclave into Russia, while still conforming, as a EU member state having an external border with a non-EU member, to strict Schengen border rules; in January 2018, demarcation of the Lithuania-Russia border was completed</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 68,925 (Ukraine) (as of 25 October 2022)<br>
+_refugees (country of origin)_: 69,317 (Ukraine) (as of 27 October 2022)<br>
 _stateless persons_: 2,721 (mid-year 2021)<br>
 
 **Illicit drugs**<br>

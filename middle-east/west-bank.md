@@ -63,7 +63,7 @@ _other_: 55.2% (2018 est.)<br>
 (2012) 240 sq km; note - includes Gaza Strip<br>
 
 **Major lakes (area sq km)**<br>
-_Salt water lake(s)_: Dead Sea (shared with Jordan and Israel) - 1,020 sq km<br>note - endorheic hypersaline lake; 9.6 times saltier than the ocean; lake shore is 431 meters below sea level<br>
+_salt water lake(s)_: Dead Sea (shared with Jordan and Israel) - 1,020 sq km<br>note - endorheic hypersaline lake; 9.6 times saltier than the ocean; lake shore is 431 meters below sea level<br>
 
 **Population distribution**<br>
 the most populous Palestinian communities in the West Bank are located in the central ridge and western half of its territory; Jewish settlements are located throughout the West Bank, the most populous in the Seam Zone--between the 1949 Armistice Line and the separation barrier--and around Jerusalem<br>
@@ -273,7 +273,7 @@ _percent of municipal solid waste recycled_: 0.5% (2013 est.)<br>
 <strong>note:</strong> data represent combined total from the Gaza Strip and the West Bank.<br>
 
 **Major lakes (area sq km)**<br>
-_Salt water lake(s)_: Dead Sea (shared with Jordan and Israel) - 1,020 sq km<br>note - endorheic hypersaline lake; 9.6 times saltier than the ocean; lake shore is 431 meters below sea level<br>
+_salt water lake(s)_: Dead Sea (shared with Jordan and Israel) - 1,020 sq km<br>note - endorheic hypersaline lake; 9.6 times saltier than the ocean; lake shore is 431 meters below sea level<br>
 
 **Total water withdrawal**<br>
 _municipal_: 181.2 million cubic meters (2017 est.)<br>
@@ -464,8 +464,8 @@ _biomass and waste_: 0% of total installed capacity (2020 est.) Data represented
 **Petroleum**<br>
 _total petroleum production_: 0 bbl/day (2021 est.) Data represented includes both the Gaza Strip and West Bank<br>
 _refined petroleum consumption_: 24,600 bbl/day (2019 est.) Data represented includes both the Gaza Strip and West Bank<br>
-_crude oil and lease condensate exports_: 0 barrels/day (2018 est.) Data represented includes both the Gaza Strip and West Bank<br>
-_crude oil and lease condensate imports_: 0 barrels/day (2018 est.) Data represented includes both the Gaza Strip and West Bank<br>
+_crude oil and lease condensate exports_: 0 bbl/day (2018 est.) Data represented includes both the Gaza Strip and West Bank<br>
+_crude oil and lease condensate imports_: 0 bbl/day (2018 est.) Data represented includes both the Gaza Strip and West Bank<br>
 _crude oil estimated reserves_: 0 barrels (2021 est.) Data represented includes both the Gaza Strip and West Bank<br>
 
 **Refined petroleum products - production**<br>

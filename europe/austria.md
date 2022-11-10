@@ -62,7 +62,7 @@ _other_: 14.4% (2018 est.)<br>
 1,170 sq km (2012)<br>
 
 **Major lakes (area sq km)**<br>
-_Fresh water lake(s)_: Lake Constance (shared with Switzerland and Germany) - 540 sq km<br>
+_fresh water lake(s)_: Lake Constance (shared with Switzerland and Germany) - 540 sq km<br>
 
 **Major rivers (by length in km)**<br>
 Danube (shared with Germany [s], Slovakia, Czechia, Hungary, Croatia, Serbia, Bulgaria, Ukraine, Moldova, and Romania [m]) - 2,888 km<br><strong>note</strong> – [s] after country name indicates river source; [m] after country name indicates river mouth<br>
@@ -283,7 +283,7 @@ _municipal solid waste recycled annually_: 1,240,918 tons (2015 est.)<br>
 _percent of municipal solid waste recycled_: 25.7% (2015 est.)<br>
 
 **Major lakes (area sq km)**<br>
-_Fresh water lake(s)_: Lake Constance (shared with Switzerland and Germany) - 540 sq km<br>
+_fresh water lake(s)_: Lake Constance (shared with Switzerland and Germany) - 540 sq km<br>
 
 **Major rivers (by length in km)**<br>
 Danube (shared with Germany [s], Slovakia, Czechia, Hungary, Croatia, Serbia, Bulgaria, Ukraine, Moldova, and Romania [m]) - 2,888 km<br><strong>note</strong> – [s] after country name indicates river source; [m] after country name indicates river mouth<br>
@@ -578,8 +578,8 @@ _proven reserves_: 0 metric tons (2019 est.)<br>
 **Petroleum**<br>
 _total petroleum production_: 20,100 bbl/day (2021 est.)<br>
 _refined petroleum consumption_: 278,700 bbl/day (2019 est.)<br>
-_crude oil and lease condensate exports_: 0 barrels/day (2018 est.)<br>
-_crude oil and lease condensate imports_: 168,300 barrels/day (2018 est.)<br>
+_crude oil and lease condensate exports_: 0 bbl/day (2018 est.)<br>
+_crude oil and lease condensate imports_: 168,300 bbl/day (2018 est.)<br>
 _crude oil estimated reserves_: 35.2 million barrels (2021 est.)<br>
 
 **Refined petroleum products - production**<br>
@@ -732,7 +732,7 @@ Islamic State of Iraq and ash-Sham (ISIS)<br>
 <p>none identified</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 57,887 (Syria), 41,037 (Afghanistan), 9,661 (Iraq), 8,212 (Somalia), 7,046 (Iran), 7,003 (Russia) (mid-year 2021); 84,756 (Ukraine) (as of 25 October 2022)<br>
+_refugees (country of origin)_: 57,887 (Syria), 41,037 (Afghanistan), 9,661 (Iraq), 8,212 (Somalia), 7,046 (Iran), 7,003 (Russia) (mid-year 2021); 85,415 (Ukraine) (as of 1 November 2022)<br>
 _stateless persons_: 3,229 (mid-year 2021)<br>
 
 **Illicit drugs**<br>

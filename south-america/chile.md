@@ -66,7 +66,7 @@ _other_: 57% (2018 est.)<br>
 11,100 sq km (2012)<br>
 
 **Major lakes (area sq km)**<br>
-_Fresh water lake(s)_: Lago General Carrera (shared with Argentina) - 2,240 sq km; Lago O'Higgins (shared with Argentina) - 1,010 sq km; Lago Llanquihue - 800 sq km; Lago Fagnano (shared with Argentina) - 590 sq km<br>
+_fresh water lake(s)_: Lago General Carrera (shared with Argentina) - 2,240 sq km; Lago O'Higgins (shared with Argentina) - 1,010 sq km; Lago Llanquihue - 800 sq km; Lago Fagnano (shared with Argentina) - 590 sq km<br>
 
 **Population distribution**<br>
 90% of the population is located in the middle third of the country around the capital of Santiago; the far north (anchored by the Atacama Desert) and the extreme south are relatively underpopulated<br>
@@ -279,7 +279,7 @@ _municipal solid waste recycled annually_: 24,113 tons (2009 est.)<br>
 _percent of municipal solid waste recycled_: 0.4% (2009 est.)<br>
 
 **Major lakes (area sq km)**<br>
-_Fresh water lake(s)_: Lago General Carrera (shared with Argentina) - 2,240 sq km; Lago O'Higgins (shared with Argentina) - 1,010 sq km; Lago Llanquihue - 800 sq km; Lago Fagnano (shared with Argentina) - 590 sq km<br>
+_fresh water lake(s)_: Lago General Carrera (shared with Argentina) - 2,240 sq km; Lago O'Higgins (shared with Argentina) - 1,010 sq km; Lago Llanquihue - 800 sq km; Lago Fagnano (shared with Argentina) - 590 sq km<br>
 
 **Total water withdrawal**<br>
 _municipal_: 1.267 billion cubic meters (2017 est.)<br>
@@ -569,8 +569,8 @@ _proven reserves_: 1.181 billion metric tons (2019 est.)<br>
 **Petroleum**<br>
 _total petroleum production_: 11,900 bbl/day (2021 est.)<br>
 _refined petroleum consumption_: 361,700 bbl/day (2019 est.)<br>
-_crude oil and lease condensate exports_: 0 barrels/day (2018 est.)<br>
-_crude oil and lease condensate imports_: 172,700 barrels/day (2018 est.)<br>
+_crude oil and lease condensate exports_: 0 bbl/day (2018 est.)<br>
+_crude oil and lease condensate imports_: 172,700 bbl/day (2018 est.)<br>
 _crude oil estimated reserves_: 150 million barrels (2021 est.)<br>
 
 **Refined petroleum products - production**<br>
@@ -609,7 +609,7 @@ _total subscriptions_: 25,068,249 (2020 est.)<br>
 _subscriptions per 100 inhabitants_: 131 (2020 est.)<br>
 
 **Telecommunication systems**<br>
-_general assessment_: the market for fixed and mobile telephony is highly competitive and rapidly evolving; the mobile rate is among the highest in South America; LTE infrastructure is extensive and 5G spectrum auctions which took place in February 2021 are expected to prompt the deployment of 5G networks by the end of the year, following extensive trials held by the MNOs; fixed broadband is relatively high for the region, with services among the fastest and least expensive in Latin America; government initiatives such as the National Fiber Optic project and Fibra &Oacute;ptica Austral are providing high-capacity connectivity across the country and will further increase fixed-line broadband; there is a strong focus on fiber broadband, with the number of fiber subscribers having increased 61.7% in 2020, year-on-year; technological improvements have allowed operators to provide a variety of services via their networks, giving rise to a number of bundled packages at competitive prices, including access to video on demand services which in turn is increasing fixed-line broadband; traditional fixed-line teledensity continues to fall as consumers switch to mobile networks and to fixed broadband for voice and data connectivity; Humboldt submarine cable project to link Chile with New Zealand and Australia; more than 8,300 schools receive free broadband as part of the &lsquo;Connectivity for Education 2030&rsquo; project; regulator completes multi-band 5G spectrum auction (2021)<br>
+_general assessment_: the market for fixed and mobile telephony is highly competitive and rapidly evolving; the mobile rate is among the highest in South America; LTE infrastructure is extensive and 5G spectrum auctions which took place in February 2021 are expected to prompt the deployment of 5G networks by the end of the year, following extensive trials held by the MNOs; fixed broadband is relatively high for the region, with services among the fastest and least expensive in Latin America; government initiatives such as the National Fiber Optic project and Fibra &Oacute;ptica Austral are providing high-capacity connectivity across the country and will further increase fixed-line broadband; there is a strong focus on fiber broadband, with the number of fiber subscribers having increased 61.7% in 2020, year-on-year; technological improvements have allowed operators to provide a variety of services via their networks, giving rise to a number of bundled packages at competitive prices, including access to video on demand services which in turn is increasing fixed-line broadband; traditional fixed-line teledensity continues to fall as consumers switch to mobile networks and to fixed broadband for voice and data connectivity; more than 8,300 schools receive free broadband as part of the &lsquo;Connectivity for Education 2030&rsquo; project (2021)<br>
 _domestic_: number of fixed-line connections have dropped to about 13 per 100 in recent years as mobile-cellular usage continues to increase, reaching 131 telephones per 100 persons; domestic satellite system with 3 earth stations (2020)<br>
 _international_: country code - 56; landing points for the Pan-Am, Prat, SAm-1, American Movil-Telxius West Coast Cable, FOS Quellon-Chacabuco, Fibra Optical Austral, SAC&nbsp;and&nbsp;Curie submarine cables providing links to the US, Caribbean&nbsp;and to Central and South America; satellite earth stations - 2 Intelsat (Atlantic Ocean) (2019)<br>
 <strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress toward 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>

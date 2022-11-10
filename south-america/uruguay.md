@@ -65,7 +65,7 @@ _other_: 2.6% (2018 est.)<br>
 2,380 sq km (2012)<br>
 
 **Major lakes (area sq km)**<br>
-_Salt water lake(s)_: Lagoa Mirim (shared with Brazil) - 2,970 sq km<br>
+_salt water lake(s)_: Lagoa Mirim (shared with Brazil) - 2,970 sq km<br>
 
 **Major rivers (by length in km)**<br>
 Rio de la Plata/Parana river mouth (shared with Brazil [s], Argentina, Paraguay) - 4,880 km; Uruguay river mouth (shared with Brazil [s] and Argentina) - 1,610 km<br><strong>note</strong> – [s] after country name indicates river source; [m] after country name indicates river mouth<br>
@@ -286,7 +286,7 @@ _municipal solid waste recycled annually_: 100,811 tons (2011 est.)<br>
 _percent of municipal solid waste recycled_: 8% (2011 est.)<br>
 
 **Major lakes (area sq km)**<br>
-_Salt water lake(s)_: Lagoa Mirim (shared with Brazil) - 2,970 sq km<br>
+_salt water lake(s)_: Lagoa Mirim (shared with Brazil) - 2,970 sq km<br>
 
 **Major rivers (by length in km)**<br>
 Rio de la Plata/Parana river mouth (shared with Brazil [s], Argentina, Paraguay) - 4,880 km; Uruguay river mouth (shared with Brazil [s] and Argentina) - 1,610 km<br><strong>note</strong> – [s] after country name indicates river source; [m] after country name indicates river mouth<br>
@@ -581,8 +581,8 @@ _proven reserves_: 0 metric tons (2019 est.)<br>
 **Petroleum**<br>
 _total petroleum production_: 400 bbl/day (2021 est.)<br>
 _refined petroleum consumption_: 50,200 bbl/day (2019 est.)<br>
-_crude oil and lease condensate exports_: 0 barrels/day (2018 est.)<br>
-_crude oil and lease condensate imports_: 41,500 barrels/day (2018 est.)<br>
+_crude oil and lease condensate exports_: 0 bbl/day (2018 est.)<br>
+_crude oil and lease condensate imports_: 41,500 bbl/day (2018 est.)<br>
 _crude oil estimated reserves_: 0 barrels (2021 est.)<br>
 
 **Refined petroleum products - production**<br>

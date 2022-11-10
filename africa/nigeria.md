@@ -64,7 +64,7 @@ _other_: 12.5% (2018 est.)<br>
 2,930 sq km (2012)<br>
 
 **Major lakes (area sq km)**<br>
-_Fresh water lake(s)_: Lake Chad (endorheic lake shared with Niger, Chad, and Cameroon) - 10,360-25,900 sq km<br>note - area varies by season and year to year<br>
+_fresh water lake(s)_: Lake Chad (endorheic lake shared with Niger, Chad, and Cameroon) - 10,360-25,900 sq km<br>note - area varies by season and year to year<br>
 
 **Major rivers (by length in km)**<br>
 Niger river mouth (shared with Guinea [s], Mali, Benin, and Niger) - 4,200 km<br><strong>note</strong> – [s] after country name indicates river source; [m] after country name indicates river mouth<br>
@@ -314,7 +314,7 @@ _widespread lack of access_: <em><em>due to persistent civil conflict in the nor
 _municipal solid waste generated annually_: 27,614,830 tons (2009 est.)<br>
 
 **Major lakes (area sq km)**<br>
-_Fresh water lake(s)_: Lake Chad (endorheic lake shared with Niger, Chad, and Cameroon) - 10,360-25,900 sq km<br>note - area varies by season and year to year<br>
+_fresh water lake(s)_: Lake Chad (endorheic lake shared with Niger, Chad, and Cameroon) - 10,360-25,900 sq km<br>note - area varies by season and year to year<br>
 
 **Major rivers (by length in km)**<br>
 Niger river mouth (shared with Guinea [s], Mali, Benin, and Niger) - 4,200 km<br><strong>note</strong> – [s] after country name indicates river source; [m] after country name indicates river mouth<br>
@@ -610,8 +610,8 @@ _proven reserves_: 344 million metric tons (2019 est.)<br>
 **Petroleum**<br>
 _total petroleum production_: 1,646,900 bbl/day (2021 est.)<br>
 _refined petroleum consumption_: 483,100 bbl/day (2019 est.)<br>
-_crude oil and lease condensate exports_: 1,889,100 barrels/day (2018 est.)<br>
-_crude oil and lease condensate imports_: 0 barrels/day (2018 est.)<br>
+_crude oil and lease condensate exports_: 1,889,100 bbl/day (2018 est.)<br>
+_crude oil and lease condensate imports_: 0 bbl/day (2018 est.)<br>
 _crude oil estimated reserves_: 36.89 billion barrels (2021 est.)<br>
 
 **Refined petroleum products - production**<br>

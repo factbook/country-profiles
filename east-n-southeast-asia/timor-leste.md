@@ -559,8 +559,8 @@ _proven reserves_: 0 metric tons (2019 est.)<br>
 **Petroleum**<br>
 _total petroleum production_: 14,000 bbl/day (2021 est.)<br>
 _refined petroleum consumption_: 3,500 bbl/day (2019 est.)<br>
-_crude oil and lease condensate exports_: 32,900 barrels/day (2018 est.)<br>
-_crude oil and lease condensate imports_: 0 barrels/day (2018 est.)<br>
+_crude oil and lease condensate exports_: 32,900 bbl/day (2018 est.)<br>
+_crude oil and lease condensate imports_: 0 bbl/day (2018 est.)<br>
 _crude oil estimated reserves_: 0 barrels (2021 est.)<br>
 
 **Refined petroleum products - production**<br>
@@ -671,7 +671,7 @@ Timor-Leste Defense Force (Falintil-Forcas de Defesa de Timor-L'este, Falintil (
 approximately 2,000 personnel (2022)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the military is lightly armed and has a limited inventory consisting of equipment donated by other countries; since 2010 it has received naval patrol craft from China and South Korea (2022)<br>
+the military is lightly armed and has a limited inventory consisting of equipment donated by other countries; since 2010 it has received small amounts of material from China, South Korea, and the US (2022)<br>
 
 **Military service age and obligation**<br>
 18 years of age for voluntary military service; compulsory service was&nbsp; authorized in 2020 for men and women aged 18-30 for 18 months of service, but the level of implementation is unclear&nbsp; (2021)<br>

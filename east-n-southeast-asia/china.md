@@ -65,8 +65,8 @@ _other_: 23% (2018 est.)<br>
 690,070 sq km (2012)<br>
 
 **Major lakes (area sq km)**<br>
-_Fresh water lake(s)_: Dongting Hu - 3,100 sq km; Poyang Hu - 3,350 sq km; Hongze Hu - 2,700 sq km; Tai Hu - 2,210 sq km; Hulun Nur - 1,590<br>
-_Salt water lake(s)_: Quinghai Hu - 4,460 sq km; Nam Co - 2,500 sq km; Siling Co - 1,860 sq km; Tangra Yumco - 1,400 sq km;&nbsp;Bosten Hu 1,380 sq km<br>
+_fresh water lake(s)_: Dongting Hu - 3,100 sq km; Poyang Hu - 3,350 sq km; Hongze Hu - 2,700 sq km; Tai Hu - 2,210 sq km; Hulun Nur - 1,590<br>
+_salt water lake(s)_: Quinghai Hu - 4,460 sq km; Nam Co - 2,500 sq km; Siling Co - 1,860 sq km; Tangra Yumco - 1,400 sq km;&nbsp;Bosten Hu 1,380 sq km<br>
 
 **Major rivers (by length in km)**<br>
 Yangtze - 6,300 km; Huang He - 5,464 km; Amur river source (shared with Mongolia and Russia [m]) - 4,444 km; Mekong river source (shared with Burma, Laos, Thailand, Cambodia, and Vietnam [m]) - 4,350 km; Brahmaputra river source (shared with India and Bangladesh [m]) - 3,969 km; Indus river source (shared with India and Pakistan [m]) - 3,610 km; Salween river source (shared with Thailand and Burma [m]) - 3,060 km; Irrawaddy river source (shared with Burma [m]) - 2,809 km; Pearl (shared with Vietnam [s]) - 2,200 km; Red river source (shared with Vietnam [m]) - 1,149 km<br><strong>note</strong> – [s] after country name indicates river source; [m] after country name indicates river mouth<br>
@@ -300,8 +300,8 @@ _soil contact diseases_: hantaviral hemorrhagic fever with renal syndrome (HFRS)
 _municipal solid waste generated annually_: 210 million tons (2015 est.)<br>
 
 **Major lakes (area sq km)**<br>
-_Fresh water lake(s)_: Dongting Hu - 3,100 sq km; Poyang Hu - 3,350 sq km; Hongze Hu - 2,700 sq km; Tai Hu - 2,210 sq km; Hulun Nur - 1,590<br>
-_Salt water lake(s)_: Quinghai Hu - 4,460 sq km; Nam Co - 2,500 sq km; Siling Co - 1,860 sq km; Tangra Yumco - 1,400 sq km;&nbsp;Bosten Hu 1,380 sq km<br>
+_fresh water lake(s)_: Dongting Hu - 3,100 sq km; Poyang Hu - 3,350 sq km; Hongze Hu - 2,700 sq km; Tai Hu - 2,210 sq km; Hulun Nur - 1,590<br>
+_salt water lake(s)_: Quinghai Hu - 4,460 sq km; Nam Co - 2,500 sq km; Siling Co - 1,860 sq km; Tangra Yumco - 1,400 sq km;&nbsp;Bosten Hu 1,380 sq km<br>
 
 **Major rivers (by length in km)**<br>
 Yangtze - 6,300 km; Huang He - 5,464 km; Amur river source (shared with Mongolia and Russia [m]) - 4,444 km; Mekong river source (shared with Burma, Laos, Thailand, Cambodia, and Vietnam [m]) - 4,350 km; Brahmaputra river source (shared with India and Bangladesh [m]) - 3,969 km; Indus river source (shared with India and Pakistan [m]) - 3,610 km; Salween river source (shared with Thailand and Burma [m]) - 3,060 km; Irrawaddy river source (shared with Burma [m]) - 2,809 km; Pearl (shared with Vietnam [s]) - 2,200 km; Red river source (shared with Vietnam [m]) - 1,149 km<br><strong>note</strong> – [s] after country name indicates river source; [m] after country name indicates river mouth<br>
@@ -605,8 +605,8 @@ _proven reserves_: 141.595 billion metric tons (2019 est.)<br>
 **Petroleum**<br>
 _total petroleum production_: 4,712,200 bbl/day (2021 est.)<br>
 _refined petroleum consumption_: 14,007,500 bbl/day (2019 est.)<br>
-_crude oil and lease condensate exports_: 52,500 barrels/day (2018 est.)<br>
-_crude oil and lease condensate imports_: 9,238,100 barrels/day (2018 est.)<br>
+_crude oil and lease condensate exports_: 52,500 bbl/day (2018 est.)<br>
+_crude oil and lease condensate imports_: 9,238,100 bbl/day (2018 est.)<br>
 _crude oil estimated reserves_: 26,022,600,000 barrels (2021 est.)<br>
 
 **Refined petroleum products - production**<br>

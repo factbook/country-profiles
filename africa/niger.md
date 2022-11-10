@@ -62,7 +62,7 @@ _other_: 63.9% (2018 est.)<br>
 1,000 sq km (2012)<br>
 
 **Major lakes (area sq km)**<br>
-_Fresh water lake(s)_: Lake Chad (endorheic lake shared with Chad, Nigeria, and Cameroon) - 10,360-25,900 sq km<br>note - area varies by season and year to year<br>
+_fresh water lake(s)_: Lake Chad (endorheic lake shared with Chad, Nigeria, and Cameroon) - 10,360-25,900 sq km<br>note - area varies by season and year to year<br>
 
 **Major rivers (by length in km)**<br>
 Niger (shared with Guinea [s], Mali, Benin, and Nigeria [m]) - 4,200 km<br><strong>note</strong> – [s] after country name indicates river source; [m] after country name indicates river mouth<br>
@@ -308,7 +308,7 @@ _municipal solid waste recycled annually_: 74,626 tons (2005 est.)<br>
 _percent of municipal solid waste recycled_: 4% (2005 est.)<br>
 
 **Major lakes (area sq km)**<br>
-_Fresh water lake(s)_: Lake Chad (endorheic lake shared with Chad, Nigeria, and Cameroon) - 10,360-25,900 sq km<br>note - area varies by season and year to year<br>
+_fresh water lake(s)_: Lake Chad (endorheic lake shared with Chad, Nigeria, and Cameroon) - 10,360-25,900 sq km<br>note - area varies by season and year to year<br>
 
 **Major rivers (by length in km)**<br>
 Niger (shared with Guinea [s], Mali, Benin, and Nigeria [m]) - 4,200 km<br><strong>note</strong> – [s] after country name indicates river source; [m] after country name indicates river mouth<br>
@@ -603,8 +603,8 @@ _proven reserves_: 6 million metric tons (2019 est.)<br>
 **Petroleum**<br>
 _total petroleum production_: 8,000 bbl/day (2021 est.)<br>
 _refined petroleum consumption_: 13,800 bbl/day (2019 est.)<br>
-_crude oil and lease condensate exports_: 0 barrels/day (2018 est.)<br>
-_crude oil and lease condensate imports_: 0 barrels/day (2018 est.)<br>
+_crude oil and lease condensate exports_: 0 bbl/day (2018 est.)<br>
+_crude oil and lease condensate imports_: 0 bbl/day (2018 est.)<br>
 _crude oil estimated reserves_: 150 million barrels (2021 est.)<br>
 
 **Refined petroleum products - production**<br>

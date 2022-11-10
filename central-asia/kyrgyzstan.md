@@ -62,7 +62,7 @@ _other_: 39.5% (2018 est.)<br>
 10,233 sq km (2012)<br>
 
 **Major lakes (area sq km)**<br>
-_Salt water lake(s)_: Ozero Issyk-Kul 6,240 sq km<br>note - second largest saline lake after the Caspian Sea; second highest mountain lake after Lake Titicaca; it is an endorheic mountain basin; although surrounded by snow capped mountains it never freezes<br>
+_salt water lake(s)_: Ozero Issyk-Kul 6,240 sq km<br>note - second largest saline lake after the Caspian Sea; second highest mountain lake after Lake Titicaca; it is an endorheic mountain basin; although surrounded by snow capped mountains it never freezes<br>
 
 **Major rivers (by length in km)**<br>
 Syr Darya river source (shared with Tajikistan, Uzbekistan, and Kazakhstan [m] ) - 3,078 km<br><strong>note</strong> – [s] after country name indicates river source; [m] after country name indicates river mouth<br>
@@ -286,7 +286,7 @@ _coal revenues_: 0.21% of GDP (2018 est.)<br>
 _municipal solid waste generated annually_: 1,113,300 tons (2015 est.)<br>
 
 **Major lakes (area sq km)**<br>
-_Salt water lake(s)_: Ozero Issyk-Kul 6,240 sq km<br>note - second largest saline lake after the Caspian Sea; second highest mountain lake after Lake Titicaca; it is an endorheic mountain basin; although surrounded by snow capped mountains it never freezes<br>
+_salt water lake(s)_: Ozero Issyk-Kul 6,240 sq km<br>note - second largest saline lake after the Caspian Sea; second highest mountain lake after Lake Titicaca; it is an endorheic mountain basin; although surrounded by snow capped mountains it never freezes<br>
 
 **Major rivers (by length in km)**<br>
 Syr Darya river source (shared with Tajikistan, Uzbekistan, and Kazakhstan [m] ) - 3,078 km<br><strong>note</strong> – [s] after country name indicates river source; [m] after country name indicates river mouth<br>
@@ -579,8 +579,8 @@ _proven reserves_: 971 million metric tons (2019 est.)<br>
 **Petroleum**<br>
 _total petroleum production_: 700 bbl/day (2021 est.)<br>
 _refined petroleum consumption_: 32,100 bbl/day (2019 est.)<br>
-_crude oil and lease condensate exports_: 1,400 barrels/day (2018 est.)<br>
-_crude oil and lease condensate imports_: 8,200 barrels/day (2018 est.)<br>
+_crude oil and lease condensate exports_: 1,400 bbl/day (2018 est.)<br>
+_crude oil and lease condensate imports_: 8,200 bbl/day (2018 est.)<br>
 _crude oil estimated reserves_: 40 million barrels (2021 est.)<br>
 
 **Refined petroleum products - production**<br>

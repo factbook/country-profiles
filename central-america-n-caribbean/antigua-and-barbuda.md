@@ -505,8 +505,8 @@ _proven reserves_: 0 metric tons (2019 est.)<br>
 **Petroleum**<br>
 _total petroleum production_: 0 bbl/day (2021 est.)<br>
 _refined petroleum consumption_: 5,000 bbl/day (2019 est.)<br>
-_crude oil and lease condensate exports_: 0 barrels/day (2018 est.)<br>
-_crude oil and lease condensate imports_: 0 barrels/day (2018 est.)<br>
+_crude oil and lease condensate exports_: 0 bbl/day (2018 est.)<br>
+_crude oil and lease condensate imports_: 0 bbl/day (2018 est.)<br>
 _crude oil estimated reserves_: 0 barrels (2021 est.)<br>
 
 **Refined petroleum products - production**<br>
@@ -545,8 +545,8 @@ _total subscriptions_: 184,000 (2020 est.)<br>
 _subscriptions per 100 inhabitants_: 188 (2020 est.)<br>
 
 **Telecommunication systems**<br>
-_general assessment_: the telecom sector has seen a decline in subscriber numbers (particularly for prepaid mobile services the mainstay of short term visitors) and revenue; fixed and mobile broadband services are two areas that have benefited from the crisis as employees and students have resorted to working from home; one area of the telecom market that is not prepared for growth is 5G mobile; governments, regulators, and even the mobile network operators have shown that they have not been investing in 5G opportunities at the present time; network expansion and enhancements remain concentrated around improving LTE coverage. (2021)<br>
-_domestic_: fixed-line teledensity roughly 25 per 100 persons; mobile-cellular teledensity is about 193 per 100 persons (2019)<br>
+_general assessment_: the telecom sector has seen a decline in subscriber numbers (particularly for prepaid mobile services the mainstay of short term visitors) and revenue; fixed and mobile broadband services are two areas that have benefited from the crisis as employees and students have resorted to working from home; one area of the telecom market that is not prepared for growth is 5G mobile; governments, regulators, and even the mobile network operators have shown that they have not been investing in 5G opportunities at the present time; network expansion and enhancements remain concentrated around improving LTE coverage (2021)<br>
+_domestic_: fixed-line teledensity roughly 28 per 100 persons; mobile-cellular teledensity is about 188 per 100 persons (2020)<br>
 _international_: country code - 1-268; landing points for the ECFS and&nbsp;Southern Caribbean Fiber&nbsp;submarine cable systems with links to other islands in the eastern Caribbean; satellite earth stations&nbsp;- 1 Intelsat (Atlantic Ocean) (2019)<br>
 
 **Broadcast media**<br>

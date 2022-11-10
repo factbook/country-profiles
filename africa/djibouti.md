@@ -64,7 +64,7 @@ _other_: 26.4% (2018 est.)<br>
 10 sq km (2012)<br>
 
 **Major lakes (area sq km)**<br>
-_Salt water lake(s)_: Abhe Bad/Abhe Bid Hayk (shared with Ethiopia) - 780 sq km<br>
+_salt water lake(s)_: Abhe Bad/Abhe Bid Hayk (shared with Ethiopia) - 780 sq km<br>
 
 **Population distribution**<br>
 most densely populated areas are in the east; the largest city is Djibouti, with a population over 600,000; no other city in the country has a total population over 50,000 as shown in this population distribution map<br>
@@ -283,7 +283,7 @@ _widespread lack of access_: <em>due to unfavorable weather and high food prices
 _municipal solid waste generated annually_: 114,997 tons (2002 est.)<br>
 
 **Major lakes (area sq km)**<br>
-_Salt water lake(s)_: Abhe Bad/Abhe Bid Hayk (shared with Ethiopia) - 780 sq km<br>
+_salt water lake(s)_: Abhe Bad/Abhe Bid Hayk (shared with Ethiopia) - 780 sq km<br>
 
 **Total water withdrawal**<br>
 _municipal_: 16 million cubic meters (2017 est.)<br>
@@ -558,8 +558,8 @@ _proven reserves_: 0 metric tons (2019 est.)<br>
 **Petroleum**<br>
 _total petroleum production_: 0 bbl/day (2021 est.)<br>
 _refined petroleum consumption_: 4,300 bbl/day (2019 est.)<br>
-_crude oil and lease condensate exports_: 0 barrels/day (2018 est.)<br>
-_crude oil and lease condensate imports_: 0 barrels/day (2018 est.)<br>
+_crude oil and lease condensate exports_: 0 bbl/day (2018 est.)<br>
+_crude oil and lease condensate imports_: 0 bbl/day (2018 est.)<br>
 _crude oil estimated reserves_: 0 barrels (2021 est.)<br>
 
 **Refined petroleum products - production**<br>
@@ -598,7 +598,7 @@ _total subscriptions_: 434,035 (2020 est.)<br>
 _subscriptions per 100 inhabitants_: 44 (2020 est.)<br>
 
 **Telecommunication systems**<br>
-_general assessment_: Djibouti remains one of the last bastions where the national telco has a monopoly on all telecom services, including fixed lines, mobile, internet, and broadband; despite the country benefiting from its location as a hub for international submarine cables, and with Djibouti Telecom being a partner in at least eight of them, prices for telecom services remain relatively high, and out of reach for a number of customers, weighing on market advancement; the Djibouti government is aiming to sell a minority stake in the incumbent telco (retaining some control of decisions) while securing the financial backing and the management acumen of a foreign operator; this is part of a larger plan to modernize the country&rsquo;s economy more generally; the state expects to conduct of a sale of up to 40% of the company to an international investor by end-2022 (2022)<br>
+_general assessment_: Djibouti remains one of the last bastions where the national telco has a monopoly on all telecom services, including fixed lines, mobile, internet, and broadband; despite the country benefiting from its location as a hub for international submarine cables, prices for telecom services remain relatively high, and out of reach for a number of customers, weighing on market advancement; the Djibouti government is aiming to sell a minority stake in the incumbent telco (retaining some control of decisions) while securing the financial backing and the management acumen of a foreign operator; this is part of a larger plan to modernize the country&rsquo;s economy more generally; the state expects to conduct a sale of up to 40% of the company to an international investor by the end 2022 (2022)<br>
 _domestic_: about 4 per 100 fixed-line teledensity and nearly 44 per 100 mobile-cellular; Djibouti Telecom (DT) is the sole provider of telecommunications services and utilizes mostly a microwave radio relay network; fiber-optic cable is installed in the capital; rural areas connected via wireless local loop radio systems; mobile cellular coverage is primarily limited to the area in and around Djibouti city (2020)<br>
 _international_: country code - 253; landing points for the SEA-ME-WE-3 &amp; 5, EASSy, Aden-Djibouti, Africa-1, DARE-1, EIG, MENA, Bridge International, PEACE Cable, and SEACOM&nbsp;fiber-optic submarine cable systems providing links to Asia, the Middle East, Europe,&nbsp;Southeast Asia, Australia&nbsp;and Africa; satellite earth stations - 2 (1 Intelsat - Indian Ocean and 1 Arabsat) (2019)<br>
 <!-- x-tinymce/html --><strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress toward 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>

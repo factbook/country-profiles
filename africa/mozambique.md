@@ -63,7 +63,7 @@ _other_: 0% (2018 est.)<br>
 1,180 sq km (2012)<br>
 
 **Major lakes (area sq km)**<br>
-_Fresh water lake(s)_: Lake Malawi (shared with Malawi and Tanzania) - 22,490<br>
+_fresh water lake(s)_: Lake Malawi (shared with Malawi and Tanzania) - 22,490<br>
 
 **Major rivers (by length in km)**<br>
 Zambezi river mouth (shared with Zambia [s]), Angola, Namibia, Botswana, and Zimbabwe) - 2,740 km; Limpopo river mouth (shared with South Africa [s], Botswana, and Zimbabwe) - 1,800 km<br><strong>note</strong> – [s] after country name indicates river source; [m] after country name indicates river mouth<br>
@@ -100,7 +100,7 @@ Makhuwa 26.1%, Portuguese (official) 16.6%, Tsonga 8.6%, Nyanja 8.1, Sena 7.1%, 
 Roman Catholic 27.2%, Muslim 18.9%, Zionist Christian 15.6%, Evangelical/Pentecostal 15.3%, Anglican 1.7%, other 4.8%, none 13.9%, unspecified 2.5% (2017 est.)<br>
 
 **Demographic profile**<br>
-<p>Mozambique is a poor, sparsely populated country with high fertility and mortality rates and a rapidly growing youthful population – 45% of the population is younger than 15. Mozambique’s high poverty rate is sustained by natural disasters, disease, high population growth, low agricultural productivity, and the unequal distribution of wealth. The country’s birth rate is among the world’s highest, averaging around more than 5 children per woman (and higher in rural areas) for at least the last three decades. The sustained high level of fertility reflects gender inequality, low contraceptive use, early marriages and childbearing, and a lack of education, particularly among women. The high population growth rate is somewhat restrained by the country’s high HIV/AIDS and overall mortality rates. Mozambique ranks among the worst in the world for HIV/AIDS prevalence, HIV/AIDS deaths, and life expectancy at birth.</p><p>Mozambique is predominantly a country of emigration, but internal, rural-urban migration has begun to grow. Mozambicans, primarily from the country’s southern region, have been migrating to South Africa for work for more than a century. Additionally, approximately 1.7 million Mozambicans fled to Malawi, South Africa, and other neighboring countries between 1979 and 1992 to escape from civil war. Labor migrants have usually been men from rural areas whose crops have failed or who are unemployed and have headed to South Africa to work as miners; multiple generations of the same family often become miners. Since the abolition of apartheid in South Africa in 1991, other job opportunities have opened to Mozambicans, including in the informal and manufacturing sectors, but mining remains their main source of employment.</p><br>
+<p>Mozambique is a poor, sparsely populated country with high fertility and mortality rates and a rapidly growing youthful population – 45% of the population is younger than 15, as of 2022. Mozambique’s high poverty rate is sustained by natural disasters, disease, high population growth, low agricultural productivity, and the unequal distribution of wealth. The country’s birth rate is among the world’s highest, averaging around more than 5 children per woman (and higher in rural areas) for at least the last three decades. The sustained high level of fertility reflects gender inequality, low contraceptive use, early marriages and childbearing, and a lack of education, particularly among women. The high population growth rate is somewhat restrained by the country’s high HIV/AIDS and overall mortality rates. Mozambique ranks among the worst in the world for HIV/AIDS prevalence, HIV/AIDS deaths, and life expectancy at birth, as of 2022.</p> <p>Mozambique is predominantly a country of emigration, but internal, rural-urban migration has begun to grow. Mozambicans, primarily from the country’s southern region, have been migrating to South Africa for work for more than a century. Additionally, approximately 1.7 million Mozambicans fled to Malawi, South Africa, and other neighboring countries between 1979 and 1992 to escape from civil war. Labor migrants have usually been men from rural areas whose crops have failed or who are unemployed and have headed to South Africa to work as miners; multiple generations of the same family often become miners. Since the abolition of apartheid in South Africa in 1991, other job opportunities have opened to Mozambicans, including in the informal and manufacturing sectors, but mining remains their main source of employment.</p><br>
 
 **Age structure**<br>
 _0-14 years_: 45.57% (male 6,950,800/female 6,766,373)<br>
@@ -305,7 +305,7 @@ _municipal solid waste recycled annually_: 25,000 tons (2014 est.)<br>
 _percent of municipal solid waste recycled_: 1% (2014 est.)<br>
 
 **Major lakes (area sq km)**<br>
-_Fresh water lake(s)_: Lake Malawi (shared with Malawi and Tanzania) - 22,490<br>
+_fresh water lake(s)_: Lake Malawi (shared with Malawi and Tanzania) - 22,490<br>
 
 **Major rivers (by length in km)**<br>
 Zambezi river mouth (shared with Zambia [s]), Angola, Namibia, Botswana, and Zimbabwe) - 2,740 km; Limpopo river mouth (shared with South Africa [s], Botswana, and Zimbabwe) - 1,800 km<br><strong>note</strong> – [s] after country name indicates river source; [m] after country name indicates river mouth<br>
@@ -599,8 +599,8 @@ _proven reserves_: 1.792 billion metric tons (2019 est.)<br>
 **Petroleum**<br>
 _total petroleum production_: 0 bbl/day (2021 est.)<br>
 _refined petroleum consumption_: 35,400 bbl/day (2019 est.)<br>
-_crude oil and lease condensate exports_: 0 barrels/day (2018 est.)<br>
-_crude oil and lease condensate imports_: 0 barrels/day (2018 est.)<br>
+_crude oil and lease condensate exports_: 0 bbl/day (2018 est.)<br>
+_crude oil and lease condensate imports_: 0 bbl/day (2018 est.)<br>
 _crude oil estimated reserves_: 0 barrels (2021 est.)<br>
 
 **Refined petroleum products - production**<br>

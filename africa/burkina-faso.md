@@ -591,8 +591,8 @@ _proven reserves_: 0 metric tons (2019 est.)<br>
 **Petroleum**<br>
 _total petroleum production_: 0 bbl/day (2021 est.)<br>
 _refined petroleum consumption_: 30,800 bbl/day (2019 est.)<br>
-_crude oil and lease condensate exports_: 0 barrels/day (2018 est.)<br>
-_crude oil and lease condensate imports_: 0 barrels/day (2018 est.)<br>
+_crude oil and lease condensate exports_: 0 bbl/day (2018 est.)<br>
+_crude oil and lease condensate imports_: 0 bbl/day (2018 est.)<br>
 _crude oil estimated reserves_: 0 barrels (2021 est.)<br>
 
 **Refined petroleum products - production**<br>
@@ -631,7 +631,7 @@ _total subscriptions_: 22,117,218 (2020 est.)<br>
 _subscriptions per 100 inhabitants_: 106 (2020 est.)<br>
 
 **Telecommunication systems**<br>
-_general assessment_: Burkina Faso&rsquo;s telecom sector in recent years has made some gains in providing the necessary infrastructure and bandwidth to support telecom services; an IXP completed in September 2020 increased international bandwidth capacity by a third, while in mid-2021 the government was able to start the second phase of a national fiber backbone project; this will link the capital city to an addition 145 municipalities, and provide additional connectivity to terrestrial cables in neighboring countries; this new infrastructure is also making it possible for the government to trial tele medicine, and so address the very poor availability of medical services in almost all parts of the country; the activities of the militants in side areas of the country jeopardize overall security, and render it difficult for the telcos to safeguard their networks and equipment; Burkina Faso joins G5 Sahel countries to eliminate roaming fees (2022)<br>
+_general assessment_: Burkina Faso&rsquo;s telecom sector in recent years has made some gains in providing the necessary infrastructure and bandwidth to support telecom services; an IXP completed in September 2020 increased international bandwidth capacity by a third, while in mid-2021 the government was able to start the second phase of a national fiber backbone project; this will link the capital city to an addition 145 municipalities, and provide additional connectivity to terrestrial cables in neighboring countries; the activities of the militants in side areas of the country jeopardize overall security, and render it difficult for the telcos to safeguard their networks and equipment; Burkina Faso joins G5 Sahel countries to eliminate roaming fees (2022)<br>
 _domestic_: fixed-line connections stand at less than 1 per 100 persons; mobile-cellular usage nearly 106 per 100, with multiple providers there is competition and the hope for growth from a low base; Internet penetration is 16% (2020)<br>
 _international_: country code - 226; satellite earth station - 1 Intelsat (Atlantic Ocean)<br>
 <strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress toward 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>

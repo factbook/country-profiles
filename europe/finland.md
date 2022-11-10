@@ -65,7 +65,7 @@ _other_: 19.6% (2018 est.)<br>
 690 sq km (2012)<br>
 
 **Major lakes (area sq km)**<br>
-_Fresh water lake(s)_: Saimaa - 1,760 sq km; Paijanne - 1,090 sq km; Inarijarvi - 1,000 sq km; Oulujarvi - 900 sq km; Pielinen - 850 sq km<br>
+_fresh water lake(s)_: Saimaa - 1,760 sq km; Paijanne - 1,090 sq km; Inarijarvi - 1,000 sq km; Oulujarvi - 900 sq km; Pielinen - 850 sq km<br>
 
 **Population distribution**<br>
 the vast majority of people are found in the south; the northern interior areas remain sparsely poplulated<br>
@@ -282,7 +282,7 @@ _municipal solid waste recycled annually_: 769,926 tons (2015 est.)<br>
 _percent of municipal solid waste recycled_: 28.1% (2015 est.)<br>
 
 **Major lakes (area sq km)**<br>
-_Fresh water lake(s)_: Saimaa - 1,760 sq km; Paijanne - 1,090 sq km; Inarijarvi - 1,000 sq km; Oulujarvi - 900 sq km; Pielinen - 850 sq km<br>
+_fresh water lake(s)_: Saimaa - 1,760 sq km; Paijanne - 1,090 sq km; Inarijarvi - 1,000 sq km; Oulujarvi - 900 sq km; Pielinen - 850 sq km<br>
 
 **Total water withdrawal**<br>
 _municipal_: 400 million cubic meters (2017 est.)<br>
@@ -571,8 +571,8 @@ _proven reserves_: 0 metric tons (2019 est.)<br>
 **Petroleum**<br>
 _total petroleum production_: 8,300 bbl/day (2021 est.)<br>
 _refined petroleum consumption_: 207,400 bbl/day (2019 est.)<br>
-_crude oil and lease condensate exports_: 0 barrels/day (2018 est.)<br>
-_crude oil and lease condensate imports_: 232,400 barrels/day (2018 est.)<br>
+_crude oil and lease condensate exports_: 0 bbl/day (2018 est.)<br>
+_crude oil and lease condensate imports_: 232,400 bbl/day (2018 est.)<br>
 _crude oil estimated reserves_: 0 barrels (2021 est.)<br>
 
 **Refined petroleum products - production**<br>
@@ -717,6 +717,6 @@ Finland is not a member of NATO, but Finland and NATO have actively cooperated i
 <p>various groups in Finland advocate restoration of Karelia and other areas ceded to the former Soviet Union, but the Finnish Government asserts no territorial demands</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 9,053 (Iraq) (mid-year 2021); 38,588 (Ukraine) (as of 25 October 2022)<br>
+_refugees (country of origin)_: 9,053 (Iraq) (mid-year 2021); 38,588 (Ukraine) (as of 26 October 2022)<br>
 _stateless persons_: 3,416 (mid-year 2021)<br>
 

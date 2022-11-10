@@ -115,8 +115,8 @@ _proven reserves_: 0 metric tons (2019 est.)<br>
 **Petroleum**<br>
 _total petroleum production_: 0 bbl/day (2021 est.)<br>
 _refined petroleum consumption_: 100 bbl/day (2019 est.)<br>
-_crude oil and lease condensate exports_: 0 barrels/day (2018 est.)<br>
-_crude oil and lease condensate imports_: 0 barrels/day (2018 est.)<br>
+_crude oil and lease condensate exports_: 0 bbl/day (2018 est.)<br>
+_crude oil and lease condensate imports_: 0 bbl/day (2018 est.)<br>
 _crude oil estimated reserves_: 0 barrels (2021 est.)<br>
 
 **Natural gas**<br>
@@ -138,7 +138,7 @@ _Total energy consumption per capita 2019_: 0 Btu/person (2019 est.)<br>
 ## Communications
 
 **Telecommunication systems**<br>
-_general assessment_: local systems at some research stations (2019)<br>
+_general assessment_: scientists with the United States Antarctic Program at McMurdo Station have now got their hands on a Starlink terminal of their own, where it is said to be improving connectivity as they carry out their research; this was made possible through laser links between the SpaceX satellites in orbit that eliminate the need for ground stations at the poles, and makes Antarctica the seventh and final continent to receive Starlink internet coverage (2022)<br>
 _domestic_: commercial cellular networks operating in a small number of locations (2019)<br>
 _international_: country code - none allocated; via satellite (including mobile Inmarsat and Iridium systems) to and from all research stations, ships, aircraft, and most field parties<br>
 

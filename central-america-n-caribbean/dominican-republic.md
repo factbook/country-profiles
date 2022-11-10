@@ -66,7 +66,7 @@ _other_: 7.7% (2018 est.)<br>
 3,070 sq km (2012)<br>
 
 **Major lakes (area sq km)**<br>
-_Salt water lake(s)_: Lago de Enriquillo - 500 sq km<br>
+_salt water lake(s)_: Lago de Enriquillo - 500 sq km<br>
 
 **Population distribution**<br>
 coastal development is significant, especially in the southern coastal plains and the Cibao Valley, where population density is highest; smaller population clusters exist in the interior mountains (Cordillera Central)<br>
@@ -291,7 +291,7 @@ _municipal solid waste recycled annually_: 333,241 tons (2015 est.)<br>
 _percent of municipal solid waste recycled_: 8.2% (2015 est.)<br>
 
 **Major lakes (area sq km)**<br>
-_Salt water lake(s)_: Lago de Enriquillo - 500 sq km<br>
+_salt water lake(s)_: Lago de Enriquillo - 500 sq km<br>
 
 **Total water withdrawal**<br>
 _municipal_: 855 million cubic meters (2017 est.)<br>
@@ -578,8 +578,8 @@ _proven reserves_: 0 metric tons (2019 est.)<br>
 **Petroleum**<br>
 _total petroleum production_: 0 bbl/day (2021 est.)<br>
 _refined petroleum consumption_: 148,200 bbl/day (2019 est.)<br>
-_crude oil and lease condensate exports_: 0 barrels/day (2018 est.)<br>
-_crude oil and lease condensate imports_: 24,900 barrels/day (2018 est.)<br>
+_crude oil and lease condensate exports_: 0 bbl/day (2018 est.)<br>
+_crude oil and lease condensate imports_: 24,900 bbl/day (2018 est.)<br>
 _crude oil estimated reserves_: 0 barrels (2021 est.)<br>
 
 **Refined petroleum products - production**<br>

@@ -61,7 +61,7 @@ _other_: 29.7% (2018 est.)<br>
 42,150 sq km (2012)<br>
 
 **Major lakes (area sq km)**<br>
-_Fresh water lake(s)_: Aral Sea (shared with Kazakhstan) - largely dried up<br>
+_fresh water lake(s)_: Aral Sea (shared with Kazakhstan) - largely dried up<br>
 
 **Major rivers (by length in km)**<br>
 Syr Darya (shared with Kyrgyzstan [s], Tajikistan, and Kazakhstan [m]) - 3,078 km; Amu Darya river mouth (shared with Tajikistan [s], Afghanistan, and Turkmenistan) - 2,620 km<br><strong>note</strong> – [s] after country name indicates river source; [m] after country name indicates river mouth<br>
@@ -274,7 +274,7 @@ _coal revenues_: 0.06% of GDP (2018 est.)<br>
 _municipal solid waste generated annually_: 4 million tons (2016 est.)<br>
 
 **Major lakes (area sq km)**<br>
-_Fresh water lake(s)_: Aral Sea (shared with Kazakhstan) - largely dried up<br>
+_fresh water lake(s)_: Aral Sea (shared with Kazakhstan) - largely dried up<br>
 
 **Major rivers (by length in km)**<br>
 Syr Darya (shared with Kyrgyzstan [s], Tajikistan, and Kazakhstan [m]) - 3,078 km; Amu Darya river mouth (shared with Tajikistan [s], Afghanistan, and Turkmenistan) - 2,620 km<br><strong>note</strong> – [s] after country name indicates river source; [m] after country name indicates river mouth<br>
@@ -565,8 +565,8 @@ _proven reserves_: 1.375 billion metric tons (2019 est.)<br>
 **Petroleum**<br>
 _total petroleum production_: 5,200 bbl/day (2021 est.)<br>
 _refined petroleum consumption_: 98,200 bbl/day (2019 est.)<br>
-_crude oil and lease condensate exports_: 0 barrels/day (2018 est.)<br>
-_crude oil and lease condensate imports_: 24,000 barrels/day (2018 est.)<br>
+_crude oil and lease condensate exports_: 0 bbl/day (2018 est.)<br>
+_crude oil and lease condensate imports_: 24,000 bbl/day (2018 est.)<br>
 _crude oil estimated reserves_: 594 million barrels (2021 est.)<br>
 
 **Refined petroleum products - production**<br>

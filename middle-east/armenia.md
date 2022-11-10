@@ -62,7 +62,7 @@ _other_: 31.2% (2018 est.)<br>
 2,740 sq km (2012)<br>
 
 **Major lakes (area sq km)**<br>
-_Fresh water lake(s)_: Lake Sevan - 1,360 sq km<br>
+_fresh water lake(s)_: Lake Sevan - 1,360 sq km<br>
 
 **Population distribution**<br>
 most of the population is located in the northern half of the country; the capital of Yerevan is home to more than five times as many people as Gyumri, the second largest city in the country<br>
@@ -281,7 +281,7 @@ _coal revenues_: 0% of GDP (2018 est.)<br>
 _municipal solid waste generated annually_: 492,800 tons (2014 est.)<br>
 
 **Major lakes (area sq km)**<br>
-_Fresh water lake(s)_: Lake Sevan - 1,360 sq km<br>
+_fresh water lake(s)_: Lake Sevan - 1,360 sq km<br>
 
 **Total water withdrawal**<br>
 _municipal_: 616.4 million cubic meters (2017 est.)<br>
@@ -568,8 +568,8 @@ _proven reserves_: 163 million metric tons (2019 est.)<br>
 **Petroleum**<br>
 _total petroleum production_: 0 bbl/day (2021 est.)<br>
 _refined petroleum consumption_: 10,900 bbl/day (2019 est.)<br>
-_crude oil and lease condensate exports_: 0 barrels/day (2018 est.)<br>
-_crude oil and lease condensate imports_: 0 barrels/day (2018 est.)<br>
+_crude oil and lease condensate exports_: 0 bbl/day (2018 est.)<br>
+_crude oil and lease condensate imports_: 0 bbl/day (2018 est.)<br>
 _crude oil estimated reserves_: 0 barrels (2021 est.)<br>
 
 **Refined petroleum products - production**<br>
@@ -608,7 +608,7 @@ _total subscriptions_: 3,488,797 (2020 est.)<br>
 _subscriptions per 100 inhabitants_: 118 (2020 est.)<br>
 
 **Telecommunication systems**<br>
-_general assessment_: the telecom sector was still able to post modest gains at least in the mobile and broadband segments; the fixed-line penetration continues to slide downwards, only buttressed by the rollout of fiber networks which have encouraged the take up of bundled services; the fixed broadband market remains undeveloped, being somewhat hamstrung by the lack of underlying infrastructure outside the main cities; the one bright spot for the sector is mobile broadband, which is expected reach 130% subscriptions rate by 2026, at a CAGR of more than 8.6%, this is subject to the country managing to avoid conflict. (2021)<br>
+_general assessment_: Armenia&rsquo;s telecom sector was able to post in the mobile and broadband segments; its fixed-line penetration continues to slide downwards, with the rollout of fiber networks which have encouraged the increase in bundled services; the fixed broadband market remains undeveloped due to the lack of underlying infrastructure outside the main cities (2021)<br>
 _domestic_: roughly 14 per 100 fixed-line and 118 per 100 mobile-cellular; reliable fixed-line and mobile-cellular services are available across Yerevan and in major cities and towns; mobile-cellular coverage available in most rural areas (2020)<br>
 _international_: country code - 374; Yerevan is connected to the&nbsp;Caucasus Cable System&nbsp;fiber-optic cable through Georgia and Iran to Europe; additional international service is available by microwave radio relay and landline connections to the other countries of the Commonwealth of Independent States, through the Moscow international switch, and by satellite to the rest of the world; satellite earth stations - 3 (2019)<br>
 <strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress toward 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>

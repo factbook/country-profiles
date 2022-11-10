@@ -555,8 +555,8 @@ _proven reserves_: 0 metric tons (2019 est.)<br>
 **Petroleum**<br>
 _total petroleum production_: 1,815,100 bbl/day (2021 est.)<br>
 _refined petroleum consumption_: 293,800 bbl/day (2019 est.)<br>
-_crude oil and lease condensate exports_: 1,264,400 barrels/day (2018 est.)<br>
-_crude oil and lease condensate imports_: 0 barrels/day (2018 est.)<br>
+_crude oil and lease condensate exports_: 1,264,400 bbl/day (2018 est.)<br>
+_crude oil and lease condensate imports_: 0 bbl/day (2018 est.)<br>
 _crude oil estimated reserves_: 25.244 billion barrels (2021 est.)<br>
 
 **Refined petroleum products - production**<br>
@@ -595,7 +595,7 @@ _total subscriptions_: 3,798,514 (2020 est.)<br>
 _subscriptions per 100 inhabitants_: 132 (2020 est.)<br>
 
 **Telecommunication systems**<br>
-_general assessment_: Qatar had developed a mature telecom sector which has been able to absorb the additional data demands made on it during the pandemic; mobile services based on LTE are universally available, and this has helped the two operators Ooredoo Qatar and Vodafone Qatar to migrate to 5G; in combination with a strong fiber rollout, the country is aiming to provide gigabit services nationally; 5G services are largely based on 3.5GHz spectrum made available following an auction in early 2019. (2022)<br>
+_general assessment_: Qatar had developed a mature telecom sector which has been able to absorb the additional data demands made on it during the pandemic; mobile services based on LTE are universally available to migrate to 5G; in combination with a strong fiber rollout, the country is aiming to provide gigabit services nationally; 5G services are largely based on 3.5GHz spectrum made available following an auction in early 2019 (2022)<br>
 _domestic_: fixed-line nearly 16 per 100 and mobile-cellular telephone subscribership nearly 132 telephones per 100 persons (2020)<br>
 _international_: country code - 974; landing points for the&nbsp;Qatar-UAE Submarine&nbsp;Cable&nbsp;System, AAE-1, FOG, GBICS/East North Africa MENA and the FALCON submarine cable network that provides links to Asia, Africa, the Middle East, Europe and Southeast Asia; tropospheric scatter to Bahrain; microwave radio relay to Saudi Arabia and the UAE; satellite earth stations - 2 Intelsat (1 Atlantic Ocean and 1 Indian Ocean) and 1 Arabsat; retains full ownership of two commercial satellites, Es'hailSat 1 and 2 (2019)<br>
 <strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress toward 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>

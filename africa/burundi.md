@@ -62,7 +62,7 @@ _other_: 20.1% (2018 est.)<br>
 230 sq km (2012)<br>
 
 **Major lakes (area sq km)**<br>
-_Fresh water lake(s)_: Lake Tanganyika (shared with Democratic Republic of Congo, Tanzania, and Zambia) - 32,000 sq km<br>
+_fresh water lake(s)_: Lake Tanganyika (shared with Democratic Republic of Congo, Tanzania, and Zambia) - 32,000 sq km<br>
 
 **Major watersheds (area sq km)**<br>
 Atlantic Ocean drainage: Congo (3,730,881 sq km), <em>(Mediterranean Sea)</em> Nile (3,254,853 sq km)<br>
@@ -304,7 +304,7 @@ _widespread lack of access_: <em>due to the effects of weather - </em>about 646,
 _municipal solid waste generated annually_: 1,872,016 tons (2002 est.)<br>
 
 **Major lakes (area sq km)**<br>
-_Fresh water lake(s)_: Lake Tanganyika (shared with Democratic Republic of Congo, Tanzania, and Zambia) - 32,000 sq km<br>
+_fresh water lake(s)_: Lake Tanganyika (shared with Democratic Republic of Congo, Tanzania, and Zambia) - 32,000 sq km<br>
 
 **Major watersheds (area sq km)**<br>
 Atlantic Ocean drainage: Congo (3,730,881 sq km), <em>(Mediterranean Sea)</em> Nile (3,254,853 sq km)<br>
@@ -582,8 +582,8 @@ _proven reserves_: 0 metric tons (2019 est.)<br>
 **Petroleum**<br>
 _total petroleum production_: 0 bbl/day (2021 est.)<br>
 _refined petroleum consumption_: 5,000 bbl/day (2019 est.)<br>
-_crude oil and lease condensate exports_: 0 barrels/day (2018 est.)<br>
-_crude oil and lease condensate imports_: 0 barrels/day (2018 est.)<br>
+_crude oil and lease condensate exports_: 0 bbl/day (2018 est.)<br>
+_crude oil and lease condensate imports_: 0 bbl/day (2018 est.)<br>
 _crude oil estimated reserves_: 0 barrels (2021 est.)<br>
 
 **Refined petroleum products - production**<br>
@@ -622,7 +622,7 @@ _total subscriptions_: 6,631,151 (2020 est.)<br>
 _subscriptions per 100 inhabitants_: 56 (2020 est.)<br>
 
 **Telecommunication systems**<br>
-_general assessment_: Burundi provides an attractive telecom market given its high population density and existing low subscription rates for all services; one downside for investors is that the country has a very low economic output, disposable income is also very low, and fixed-line infrastructure is poor outside the main urban areas; this is a greater motivation for investors to focus on improving mobile networks than in expanding fixed-line infrastructure; to overcome difficulties associated with the poor telecom infrastructure, the government has supported a number of prominent telcos building a national fiber backbone network; this network offers onward connectivity to submarine cable infrastructure landings in Kenya and Tanzania; the first sections of this network were switched on in early 2014, and additional provinces have since been connected; in addition, the government in early 2018 kick-started the Burundi Broadband project, which aims to deliver national connectivity by 2025; based on this improved infrastructure the government and ITU have developed an ICT strategy to make use of telecoms to promote the country&rsquo;s socio-economic development through to 2028; progress made by Tanzania with its own national backbone network has benefited Burundi, which has been provided with onward connectivity to most countries in the region; International bandwidth capacity has continued to increase in recent years, including a 38% increase in the nine months to September 2021, resulting in lower retail prices for consumers; two of the mobile operators have launched 3G and LTE services to capitalize on the growing demand for internet access; the number of mobile subscribers increased 7% in the third quarter of 2021, quarter-on-quarter; similar growth is expected for the next two years at least, which will help bring the mobile level closer to the average for the region. (2022)<br>
+_general assessment_: Burundi provides an attractive telecom market given its high population density and existing low subscription rates for all services; one downside for investors is that the country has a very low economic output, disposable income is also very low, and fixed-line infrastructure is poor outside the main urban areas; this is a greater motivation for investors to focus on improving mobile networks than in expanding fixed-line infrastructure; to overcome difficulties associated with the poor telecom infrastructure, the government has supported a number of prominent telcos building a national fiber backbone network; this network offers onward connectivity to submarine cable infrastructure landings in Kenya and Tanzania; the first sections of this network were switched on in early 2014, and additional provinces have since been connected; in addition, the government in early 2018 kick-started the Burundi Broadband project, which aims to deliver national connectivity by 2025; based on this improved infrastructure the government and ITU have developed an ICT strategy to make use of telecoms to promote the country&rsquo;s socio-economic development through to 2028; progress made by Tanzania with its own national backbone network has benefited Burundi, which has been provided with onward connectivity to most countries in the region; International bandwidth capacity has continued to increase in recent years, including a 38% increase in the nine months to September 2021, resulting in lower retail prices for consumers; two of the mobile operators have launched 3G and LTE services to capitalize on the growing demand for internet access; the number of mobile subscribers increased 7% in the third quarter of 2021, quarter-on-quarter; similar growth is expected for the next two years at least, which will help bring the mobile level closer to the average for the region (2022)<br>
 _domestic_: telephone density one of the lowest in the world; fixed-line connections stand at less than 1 per 100 persons; mobile-cellular usage is about 56 per 100 persons (2020)<br>
 _international_: country code - 257; satellite earth station - 1 Intelsat (Indian Ocean); the government, supported by the Word Bank, has backed a joint venture with a number of prominent telecoms to build a national fiber backbone network, offering onward connectivity to submarine cable infrastructure landings in Kenya and Tanzania (2019)<br>
 <strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress toward 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>

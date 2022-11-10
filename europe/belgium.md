@@ -566,8 +566,8 @@ _proven reserves_: 0 metric tons (2019 est.)<br>
 **Petroleum**<br>
 _total petroleum production_: 11,400 bbl/day (2021 est.)<br>
 _refined petroleum consumption_: 642,300 bbl/day (2019 est.)<br>
-_crude oil and lease condensate exports_: 0 barrels/day (2018 est.)<br>
-_crude oil and lease condensate imports_: 666,700 barrels/day (2018 est.)<br>
+_crude oil and lease condensate exports_: 0 bbl/day (2018 est.)<br>
+_crude oil and lease condensate imports_: 666,700 bbl/day (2018 est.)<br>
 _crude oil estimated reserves_: 0 barrels (2021 est.)<br>
 
 **Refined petroleum products - production**<br>
@@ -606,7 +606,7 @@ _total subscriptions_: 11,529,728 (2020 est.)<br>
 _subscriptions per 100 inhabitants_: 99 (2020 est.)<br>
 
 **Telecommunication systems**<br>
-_general assessment_: mobile networks have been upgraded to support growing mobile data use among subscribers, with near-comprehensive LTE coverage; operators have also trialed 5G in preparation for launching services; the auction of 5G-suitable spectrum has been delayed to the beginning of 2022, while the onerous restrictions on radiation have meant that some 5G trials have been suspended; there is effective competition in Belgium between the DSL and cable platforms, while in recent years government support has also encouraged investment in fiber networks; in a bid to encourage investment in under served areas, the regulator in 2018 amended the conditions by which market players grant wholesale access to copper and fiber infrastructure; in May 2019 it opened a further consultation on cost models for access to the networks of cablecos and those of Proximus&rsquo;s fiber infrastructure. (2021)<br>
+_general assessment_: mobile networks have been upgraded to support growing mobile data use among subscribers, with near-comprehensive LTE coverage; operators have also trialed 5G in preparation for launching services; the auction of 5G-suitable spectrum has been delayed to the beginning of 2022, while the onerous restrictions on radiation have meant that some 5G trials have been suspended; there is effective competition in Belgium between the DSL and cable platforms, while in recent years government support has also encouraged investment in fiber networks; in a bid to encourage investment in under served areas, the regulator in 2018 amended the conditions by which market players grant wholesale access to copper and fiber infrastructure; in May 2019 it opened a further consultation on cost models for access to the networks of cablecos and fiber infrastructure (2021)<br>
 _domestic_: about 31 per 100 fixed-line and 99 per 100 mobile-cellular; nationwide mobile-cellular telephone system; extensive cable network; limited microwave radio relay network (2020)<br>
 _international_: country code - 32; landing points for Concerto, UK-Belgium, Tangerine, and SeaMeWe-3, submarine cables that provide links to Europe, the Middle East, Australia, and Asia; satellite earth stations - 7 (Intelsat - 3) (2019)<br>
 <strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress toward 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>

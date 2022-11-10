@@ -62,7 +62,7 @@ _other_: 18.6% (2018 est.)<br>
 1,721 sq km (2012)<br>
 
 **Major lakes (area sq km)**<br>
-_Fresh water lake(s)_: Lake Balaton - 590 sq km<br>
+_fresh water lake(s)_: Lake Balaton - 590 sq km<br>
 
 **Major rivers (by length in km)**<br>
 Danube (shared with Germany [s], Austria, Slovakia, Croatia, Serbia, Bulgaria, Ukraine, Moldova, and Romania [m]) - 2,888 km<br><strong>note</strong> – [s] after country name indicates river source; [m] after country name indicates river mouth<br>
@@ -287,7 +287,7 @@ _municipal solid waste recycled annually_: 962,893 tons (2015 est.)<br>
 _percent of municipal solid waste recycled_: 25.9% (2015 est.)<br>
 
 **Major lakes (area sq km)**<br>
-_Fresh water lake(s)_: Lake Balaton - 590 sq km<br>
+_fresh water lake(s)_: Lake Balaton - 590 sq km<br>
 
 **Major rivers (by length in km)**<br>
 Danube (shared with Germany [s], Austria, Slovakia, Croatia, Serbia, Bulgaria, Ukraine, Moldova, and Romania [m]) - 2,888 km<br><strong>note</strong> – [s] after country name indicates river source; [m] after country name indicates river mouth<br>
@@ -583,8 +583,8 @@ _proven reserves_: 2.909 billion metric tons (2019 est.)<br>
 **Petroleum**<br>
 _total petroleum production_: 35,200 bbl/day (2021 est.)<br>
 _refined petroleum consumption_: 180,600 bbl/day (2019 est.)<br>
-_crude oil and lease condensate exports_: 8,000 barrels/day (2018 est.)<br>
-_crude oil and lease condensate imports_: 134,800 barrels/day (2018 est.)<br>
+_crude oil and lease condensate exports_: 8,000 bbl/day (2018 est.)<br>
+_crude oil and lease condensate imports_: 134,800 bbl/day (2018 est.)<br>
 _crude oil estimated reserves_: 12.1 million barrels (2021 est.)<br>
 
 **Refined petroleum products - production**<br>

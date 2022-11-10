@@ -567,8 +567,8 @@ _proven reserves_: 0 metric tons (2019 est.)<br>
 **Petroleum**<br>
 _total petroleum production_: 0 bbl/day (2021 est.)<br>
 _refined petroleum consumption_: 1.448 million bbl/day (2019 est.)<br>
-_crude oil and lease condensate exports_: 13,000 barrels/day (2018 est.)<br>
-_crude oil and lease condensate imports_: 1,121,200 barrels/day (2018 est.)<br>
+_crude oil and lease condensate exports_: 13,000 bbl/day (2018 est.)<br>
+_crude oil and lease condensate imports_: 1,121,200 bbl/day (2018 est.)<br>
 _crude oil estimated reserves_: 0 barrels (2021 est.)<br>
 
 **Refined petroleum products - production**<br>
@@ -607,7 +607,7 @@ _total subscriptions_: 9,034,300 (2019)<br>
 _subscriptions per 100 inhabitants_: 156 (2019)<br>
 
 **Telecommunication systems**<br>
-_general assessment_: a wealthy city-state, Singapore has a highly developed ICT infrastructure; government supported near universal home broadband penetration and free public access to wireless network; the government's telecommunication regulator, Infocomm Media Development Authority (IMDA), issued awards in mid-2020 to telecom operators with the goal of having at least 50% of the city-state covered with a standalone 5G network by the end of 2022; government actively promoting Smart Nation initiative supporting digital innovation; government oversees service providers and controls Internet content; well served by submarine cable and satellite connections; major importer of integrated circuits and broadcasting equipment from China and exporter of same to SE Asian neighboring countries (2021)<br>
+_general assessment_: a wealthy city-state, Singapore has a highly developed ICT infrastructure; government supported near universal home broadband penetration and free public access to wireless network; the government's telecommunication regulator, Infocomm Media Development Authority (IMDA), issued awards in mid-2020 to telecom operators with the goal of having at least 50% of the city-state covered with a standalone 5G network by the end of 2022; government actively promoting Smart Nation initiative supporting digital innovation; government oversees service providers and controls Internet content; well served by submarine cable and satellite connections (2021)<br>
 _domestic_: excellent domestic facilities; fixed-line roughly 32 per 100 and mobile-cellular 144 per 100 teledensity; multiple providers of high-speed Internet connectivity (2020)<br>
 _international_: country code - 65; landing points for INDIGO-West, SeaMeWe -3,-4,-5, SIGMAR, SJC, i2icn,&nbsp;PGASCOM, BSCS,&nbsp;IGG,&nbsp;B3JS, SAEx2, APCN-2, APG, ASC, SEAX-1, ASE, EAC-C2C, Matrix Cable System and SJC2 submarine cables providing links throughout Asia, Southeast Asia, Africa, Australia, the Middle East, and Europe; satellite earth stations - 3, Bukit Timah, Seletar, and Sentosa; supplemented by VSAT coverage (2019 )<br>
 <strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress toward 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>

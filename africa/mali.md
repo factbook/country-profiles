@@ -62,7 +62,7 @@ _other_: 55.7% (2018 est.)<br>
 3,780 sq km (2012)<br>
 
 **Major lakes (area sq km)**<br>
-_Fresh water lake(s)_: Lac Faguibine - 590 sq km<br>note - the Niger River is the only source of water for the lake; in recent years the lake is dry<br>
+_fresh water lake(s)_: Lac Faguibine - 590 sq km<br>note - the Niger River is the only source of water for the lake; in recent years the lake is dry<br>
 
 **Major rivers (by length in km)**<br>
 Niger (shared with Guinea [s], Niger, and Nigeria [m]) - 4,200 km; Senegal (shared with Guinea [s], Senegal, and Mauritania [m]) - 1,641 km<br><strong>note</strong> – [s] after country name indicates river source; [m] after country name indicates river mouth<br>
@@ -310,7 +310,7 @@ _severe localized food insecurity_: <p><em>due to civil insecurity and </em><em>
 _municipal solid waste generated annually_: 1,937,354 tons (2012 est.)<br>
 
 **Major lakes (area sq km)**<br>
-_Fresh water lake(s)_: Lac Faguibine - 590 sq km<br>note - the Niger River is the only source of water for the lake; in recent years the lake is dry<br>
+_fresh water lake(s)_: Lac Faguibine - 590 sq km<br>note - the Niger River is the only source of water for the lake; in recent years the lake is dry<br>
 
 **Major rivers (by length in km)**<br>
 Niger (shared with Guinea [s], Niger, and Nigeria [m]) - 4,200 km; Senegal (shared with Guinea [s], Senegal, and Mauritania [m]) - 1,641 km<br><strong>note</strong> – [s] after country name indicates river source; [m] after country name indicates river mouth<br>
@@ -602,8 +602,8 @@ _proven reserves_: 0 metric tons (2019 est.)<br>
 **Petroleum**<br>
 _total petroleum production_: 0 bbl/day (2021 est.)<br>
 _refined petroleum consumption_: 37,600 bbl/day (2019 est.)<br>
-_crude oil and lease condensate exports_: 0 barrels/day (2018 est.)<br>
-_crude oil and lease condensate imports_: 0 barrels/day (2018 est.)<br>
+_crude oil and lease condensate exports_: 0 bbl/day (2018 est.)<br>
+_crude oil and lease condensate imports_: 0 bbl/day (2018 est.)<br>
 _crude oil estimated reserves_: 0 barrels (2021 est.)<br>
 
 **Refined petroleum products - production**<br>
@@ -704,8 +704,8 @@ _river port(s)_: Koulikoro (Niger)<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Malian Armed Forces (FAMA): Army (includes a riverine patrol force), Republic of Mali Air Force; National Gendarmerie; National Guard (2022)<br>
-<strong>note 1:</strong> the Gendarmerie and the National Guard are under the authority of the Ministry of Defense and Veterans Affairs (Ministere De La Defense Et Des Anciens Combattants, MDAC), but operational control is shared with the Ministry of Internal Security and Civil Protection<br><br><strong>note 2: </strong>the Gendarmerie's primary mission is internal security and public order; its duties also include territorial defense, humanitarian operations, intelligence gathering, and protecting private property, mainly in rural areas; it also has a specialized border security unit<br><br><strong>note 3: </strong>the National Guard is a military force responsible for providing security to government facilities and institutions, prison service, public order, humanitarian operations, some border security, and intelligence gathering; its forces include a camel corps for patrolling the deserts and borders of northern Mali<br><br><strong>note 4: </strong>there are also pro-government militias operating in Mali, such as the Imghad Tuareg Self-Defense Group and Allies (GATIA)<br>
+Malian Armed Forces (Forces Armées Maliennes or FAMA): Army (includes a riverine patrol force), Republic of Mali Air Force; National Gendarmerie; National Guard (2022)<br>
+<strong>note 1:</strong> the Gendarmerie and the National Guard are under the authority of the Ministry of Defense and Veterans Affairs (Ministere De La Defense Et Des Anciens Combattants, MDAC), but operational control is shared with the Ministry of Internal Security and Civil Protection<br><br><strong>note 2: </strong>the Gendarmerie's primary mission is internal security and public order; its duties also include territorial defense, humanitarian operations, intelligence gathering, and protecting private property, mainly in rural areas; it also has a specialized border security unit<br><br><strong>note 3: </strong>the National Guard is a military force responsible for providing security to government facilities and institutions, prison service, public order, humanitarian operations, some border security, and intelligence gathering; its forces include a camel corps for patrolling the deserts and borders of northern Mali<br><br><strong>note 4: </strong>there are also pro-government militias operating in Mali, such as the Imghad Tuareg Self-Defense Group and Allies (GATIA); the leader of GATIA is also a general in the national army<br>
 
 **Military expenditures**<br>
 3.5% of GDP (2021 est.)<br>

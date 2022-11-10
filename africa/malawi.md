@@ -62,8 +62,8 @@ _other_: 6.8% (2018 est.)<br>
 740 sq km (2012)<br>
 
 **Major lakes (area sq km)**<br>
-_Fresh water lake(s)_: Lake Malawi (shared with Mozambique and Tanzania) - 22,490<br>
-_Salt water lake(s)_: Lake Chilwa - 1,040 sq km<br>
+_fresh water lake(s)_: Lake Malawi (shared with Mozambique and Tanzania) - 22,490<br>
+_salt water lake(s)_: Lake Chilwa - 1,040 sq km<br>
 
 **Major rivers (by length in km)**<br>
 Zambezi (shared with Zambia [s], Angola, Zimbabwe, Namibia, Tanzania, and Mozambique [m]) - 2,740 km<br><strong>note</strong> – [s] after country name indicates river source; [m] after country name indicates river mouth<br>
@@ -304,8 +304,8 @@ _severe localized food insecurity_: <em>due to reduced incomes and shortfalls in
 _municipal solid waste generated annually_: 1,297,844 tons (2013 est.)<br>
 
 **Major lakes (area sq km)**<br>
-_Fresh water lake(s)_: Lake Malawi (shared with Mozambique and Tanzania) - 22,490<br>
-_Salt water lake(s)_: Lake Chilwa - 1,040 sq km<br>
+_fresh water lake(s)_: Lake Malawi (shared with Mozambique and Tanzania) - 22,490<br>
+_salt water lake(s)_: Lake Chilwa - 1,040 sq km<br>
 
 **Major rivers (by length in km)**<br>
 Zambezi (shared with Zambia [s], Angola, Zimbabwe, Namibia, Tanzania, and Mozambique [m]) - 2,740 km<br><strong>note</strong> – [s] after country name indicates river source; [m] after country name indicates river mouth<br>
@@ -593,8 +593,8 @@ _proven reserves_: 2 million metric tons (2019 est.)<br>
 **Petroleum**<br>
 _total petroleum production_: 0 bbl/day (2021 est.)<br>
 _refined petroleum consumption_: 9,400 bbl/day (2019 est.)<br>
-_crude oil and lease condensate exports_: 0 barrels/day (2018 est.)<br>
-_crude oil and lease condensate imports_: 0 barrels/day (2018 est.)<br>
+_crude oil and lease condensate exports_: 0 bbl/day (2018 est.)<br>
+_crude oil and lease condensate imports_: 0 bbl/day (2018 est.)<br>
 _crude oil estimated reserves_: 0 barrels (2021 est.)<br>
 
 **Refined petroleum products - production**<br>

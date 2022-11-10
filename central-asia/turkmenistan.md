@@ -62,7 +62,7 @@ _other_: 19.2% (2018 est.)<br>
 19,950 sq km (2012)<br>
 
 **Major lakes (area sq km)**<br>
-_Salt water lake(s)_: Caspian Sea (shared with Iran, Azerbaijan, Russia, and Kazakhstan) - 374,000 sq km<br>
+_salt water lake(s)_: Caspian Sea (shared with Iran, Azerbaijan, Russia, and Kazakhstan) - 374,000 sq km<br>
 
 **Major rivers (by length in km)**<br>
 Amu Darya (shared with Tajikistan [s], Afghanistan, and Uzbekistan [m]) - 2,620 km<br><strong>note</strong> – [s] after country name indicates river source; [m] after country name indicates river mouth<br>
@@ -282,7 +282,7 @@ _coal revenues_: 0% of GDP (2018 est.)<br>
 _municipal solid waste generated annually_: 500,000 tons (2013 est.)<br>
 
 **Major lakes (area sq km)**<br>
-_Salt water lake(s)_: Caspian Sea (shared with Iran, Azerbaijan, Russia, and Kazakhstan) - 374,000 sq km<br>
+_salt water lake(s)_: Caspian Sea (shared with Iran, Azerbaijan, Russia, and Kazakhstan) - 374,000 sq km<br>
 
 **Major rivers (by length in km)**<br>
 Amu Darya (shared with Tajikistan [s], Afghanistan, and Uzbekistan [m]) - 2,620 km<br><strong>note</strong> – [s] after country name indicates river source; [m] after country name indicates river mouth<br>
@@ -562,8 +562,8 @@ _proven reserves_: 0 metric tons (2019 est.)<br>
 **Petroleum**<br>
 _total petroleum production_: 235,300 bbl/day (2021 est.)<br>
 _refined petroleum consumption_: 153,400 bbl/day (2019 est.)<br>
-_crude oil and lease condensate exports_: 59,900 barrels/day (2018 est.)<br>
-_crude oil and lease condensate imports_: 0 barrels/day (2018 est.)<br>
+_crude oil and lease condensate exports_: 59,900 bbl/day (2018 est.)<br>
+_crude oil and lease condensate imports_: 0 bbl/day (2018 est.)<br>
 _crude oil estimated reserves_: 600 million barrels (2021 est.)<br>
 
 **Refined petroleum products - production**<br>

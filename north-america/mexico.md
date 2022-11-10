@@ -65,8 +65,8 @@ _other_: 11.8% (2018 est.)<br>
 65,000 sq km (2012)<br>
 
 **Major lakes (area sq km)**<br>
-_Fresh water lake(s)_: Laguna de Chapala - 1,140 sq km<br>
-_Salt water lake(s)_: Laguna de Terminos - 1,550 sq km<br>
+_fresh water lake(s)_: Laguna de Chapala - 1,140 sq km<br>
+_salt water lake(s)_: Laguna de Terminos - 1,550 sq km<br>
 
 **Major rivers (by length in km)**<br>
 Rio Grande river mouth (shared with US [s]) - 3,057 km; Colorado river mouth (shared with US [s]) - 2,333 km<br><strong>note</strong> – [s] after country name indicates river source; [m] after country name indicates river mouth<br>
@@ -306,8 +306,8 @@ _municipal solid waste recycled annually_: 2.655 million tons (2013 est.)<br>
 _percent of municipal solid waste recycled_: 5% (2013 est.)<br>
 
 **Major lakes (area sq km)**<br>
-_Fresh water lake(s)_: Laguna de Chapala - 1,140 sq km<br>
-_Salt water lake(s)_: Laguna de Terminos - 1,550 sq km<br>
+_fresh water lake(s)_: Laguna de Chapala - 1,140 sq km<br>
+_salt water lake(s)_: Laguna de Terminos - 1,550 sq km<br>
 
 **Major rivers (by length in km)**<br>
 Rio Grande river mouth (shared with US [s]) - 3,057 km; Colorado river mouth (shared with US [s]) - 2,333 km<br><strong>note</strong> – [s] after country name indicates river source; [m] after country name indicates river mouth<br>
@@ -613,8 +613,8 @@ _proven reserves_: 1.211 billion metric tons (2019 est.)<br>
 **Petroleum**<br>
 _total petroleum production_: 1,905,500 bbl/day (2021 est.)<br>
 _refined petroleum consumption_: 1,928,800 bbl/day (2019 est.)<br>
-_crude oil and lease condensate exports_: 1,283,300 barrels/day (2018 est.)<br>
-_crude oil and lease condensate imports_: 3,900 barrels/day (2018 est.)<br>
+_crude oil and lease condensate exports_: 1,283,300 bbl/day (2018 est.)<br>
+_crude oil and lease condensate imports_: 3,900 bbl/day (2018 est.)<br>
 _crude oil estimated reserves_: 5,786,100,000 barrels (2021 est.)<br>
 
 **Refined petroleum products - production**<br>

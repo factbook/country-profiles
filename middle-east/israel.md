@@ -63,7 +63,7 @@ _other_: 69.1% (2018 est.)<br>
 2,250 sq km (2012)<br>
 
 **Major lakes (area sq km)**<br>
-_Salt water lake(s)_: Dead Sea (shared with Jordan and West Bank) - 1,020 sq km<br>note - endorheic hypersaline lake; 9.6 times saltier than the ocean; lake shore is 431 meters below sea level<br>
+_salt water lake(s)_: Dead Sea (shared with Jordan and West Bank) - 1,020 sq km<br>note - endorheic hypersaline lake; 9.6 times saltier than the ocean; lake shore is 431 meters below sea level<br>
 
 **Population distribution**<br>
 population concentrated in and around Tel-Aviv, as well as around the Sea of Galilee; the south remains sparsely populated with the exception of the shore of the Gulf of Aqaba<br>
@@ -283,7 +283,7 @@ _municipal solid waste recycled annually_: 1.35 million tons (2017 est.)<br>
 _percent of municipal solid waste recycled_: 25% (2017 est.)<br>
 
 **Major lakes (area sq km)**<br>
-_Salt water lake(s)_: Dead Sea (shared with Jordan and West Bank) - 1,020 sq km<br>note - endorheic hypersaline lake; 9.6 times saltier than the ocean; lake shore is 431 meters below sea level<br>
+_salt water lake(s)_: Dead Sea (shared with Jordan and West Bank) - 1,020 sq km<br>note - endorheic hypersaline lake; 9.6 times saltier than the ocean; lake shore is 431 meters below sea level<br>
 
 **Total water withdrawal**<br>
 _municipal_: 983 million cubic meters (2017 est.)<br>
@@ -583,8 +583,8 @@ _proven reserves_: 0 metric tons (2019 est.)<br>
 **Petroleum**<br>
 _total petroleum production_: 0 bbl/day (2021 est.)<br>
 _refined petroleum consumption_: 232,400 bbl/day (2019 est.)<br>
-_crude oil and lease condensate exports_: 0 barrels/day (2018 est.)<br>
-_crude oil and lease condensate imports_: 232,900 barrels/day (2018 est.)<br>
+_crude oil and lease condensate exports_: 0 bbl/day (2018 est.)<br>
+_crude oil and lease condensate imports_: 232,900 bbl/day (2018 est.)<br>
 _crude oil estimated reserves_: 12.7 million barrels (2021 est.)<br>
 
 **Refined petroleum products - production**<br>

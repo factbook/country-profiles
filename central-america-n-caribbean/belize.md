@@ -557,8 +557,8 @@ _proven reserves_: 0 metric tons (2019 est.)<br>
 **Petroleum**<br>
 _total petroleum production_: 1,300 bbl/day (2021 est.)<br>
 _refined petroleum consumption_: 3,900 bbl/day (2019 est.)<br>
-_crude oil and lease condensate exports_: 1,200 barrels/day (2018 est.)<br>
-_crude oil and lease condensate imports_: 0 barrels/day (2018 est.)<br>
+_crude oil and lease condensate exports_: 1,200 bbl/day (2018 est.)<br>
+_crude oil and lease condensate imports_: 0 bbl/day (2018 est.)<br>
 _crude oil estimated reserves_: 6.7 million barrels (2021 est.)<br>
 
 **Refined petroleum products - production**<br>
@@ -597,8 +597,8 @@ _total subscriptions_: 264,000 (2020 est.)<br>
 _subscriptions per 100 inhabitants_: 66 (2020 est.)<br>
 
 **Telecommunication systems**<br>
-_general assessment_: Belize&rsquo;s fixed-line teledensity and mobile subscriptions remain lower than average for the region, a legacy of insufficient market competition and low investment in telecoms services; the telecom market was liberalized in 2003; the government has undertaken some measures to improve competition and open its networks to VoIP services (2021)<br>
-_domestic_: roughly 5 per 100 fixed-line and mobile-cellular teledensity of 65 per 100 persons; mobile sector accounting for over 90% of all phone subscriptions (2019)<br>
+_general assessment_: Belize&rsquo;s fixed-line teledensity and mobile penetration remain lower than average for the region, a legacy of insufficient market competition and under investment in telecoms services; a significant investment in infrastructure, launching an LTE-A service at the end of 2016 and in mid-2017 completing a submarine cable to Ambergris Caye, enabling it to launch an FttP service in San Pedro; the nfrastructure has been updated from the legacy copper to fiber; investments have been made to provide high speed broadband to 80% of residences across Belize. (2021)<br>
+_domestic_: roughly 5 per 100 fixed-line and mobile-cellular teledensity of 66 per 100 persons; mobile sector accounting for over 90% of all phone subscriptions (2020)<br>
 _international_: country code - 501; landing points for the&nbsp;ARCOS and SEUL&nbsp;fiber-optic telecommunications submarine cable that provides links to South and Central America, parts of the Caribbean, and the US; satellite earth station - 8 (Intelsat - 2, unknown - 6) (2019)<br>
 <strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress toward 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>
 

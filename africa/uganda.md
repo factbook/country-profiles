@@ -61,7 +61,7 @@ _other_: 14.3% (2018 est.)<br>
 140 sq km (2012)<br>
 
 **Major lakes (area sq km)**<br>
-_Fresh water lake(s)_: Lake Victoria (shared with Tanzania and Kenya) - 62,940 sq km; Lake Albert (shared with Democratic Republic of Congo) - 5,590 sq km; Lake Kyoga - 4,430 sq km; Lake Edward (shared with Democratic Republic of Congo) - 2,150 sq km<br>
+_fresh water lake(s)_: Lake Victoria (shared with Tanzania and Kenya) - 62,940 sq km; Lake Albert (shared with Democratic Republic of Congo) - 5,590 sq km; Lake Kyoga - 4,430 sq km; Lake Edward (shared with Democratic Republic of Congo) - 2,150 sq km<br>
 
 **Major rivers (by length in km)**<br>
 <p>Nile (shared with Rwanda [s], Tanzania, South Sudan, Sudan, and Egypt [m]) - 6,650 km<br><strong>note</strong> – [s] after country name indicates river source; [m] after country name indicates river mouth</p><br>
@@ -308,7 +308,7 @@ _municipal solid waste recycled annually_: 422,703 tons (2017 est.)<br>
 _percent of municipal solid waste recycled_: 6% (2017 est.)<br>
 
 **Major lakes (area sq km)**<br>
-_Fresh water lake(s)_: Lake Victoria (shared with Tanzania and Kenya) - 62,940 sq km; Lake Albert (shared with Democratic Republic of Congo) - 5,590 sq km; Lake Kyoga - 4,430 sq km; Lake Edward (shared with Democratic Republic of Congo) - 2,150 sq km<br>
+_fresh water lake(s)_: Lake Victoria (shared with Tanzania and Kenya) - 62,940 sq km; Lake Albert (shared with Democratic Republic of Congo) - 5,590 sq km; Lake Kyoga - 4,430 sq km; Lake Edward (shared with Democratic Republic of Congo) - 2,150 sq km<br>
 
 **Major rivers (by length in km)**<br>
 <p>Nile (shared with Rwanda [s], Tanzania, South Sudan, Sudan, and Egypt [m]) - 6,650 km<br><strong>note</strong> – [s] after country name indicates river source; [m] after country name indicates river mouth</p><br>
@@ -600,8 +600,8 @@ _proven reserves_: 0 metric tons (2019 est.)<br>
 **Petroleum**<br>
 _total petroleum production_: 0 bbl/day (2021 est.)<br>
 _refined petroleum consumption_: 40,900 bbl/day (2019 est.)<br>
-_crude oil and lease condensate exports_: 0 barrels/day (2018 est.)<br>
-_crude oil and lease condensate imports_: 0 barrels/day (2018 est.)<br>
+_crude oil and lease condensate exports_: 0 bbl/day (2018 est.)<br>
+_crude oil and lease condensate imports_: 0 bbl/day (2018 est.)<br>
 _crude oil estimated reserves_: 2.5 billion barrels (2021 est.)<br>
 
 **Refined petroleum products - production**<br>
@@ -724,6 +724,7 @@ the UPDF's inventory is mostly older Russian/Soviet-era equipment with a limited
 
 **Military deployments**<br>
 6,800 Somalia (6,200 ATMIS; 625 UNSOM); 250 Equatorial Guinea (training mission) (2022)<br>
+<strong>note: </strong>in December 2021, Uganda sent an undetermined number of troops into the Democratic Republic of the Congo to combat rebels from the Alliance of Democratic Front (ADF) group<br>
 
 **Military - note**<br>
 the UPDF, which is constitutionally granted seats in parliament, is widely viewed as a key constituency for MUSEVENI; it has been used by MUSEVENI and his political party to break up rallies, raid opposition offices, and surveil rival candidates<br><br>as of 2022, the UPDF was conducting operations along the border with the Democratic Republic of the Congo (including cross-border operations) against a Congo-based (and formerly based in western Uganda) Ugandan rebel group, the Allied Democratic Front (ADF), which was designated as a Foreign Terrorist Organization by the US in March 2021 as the Islamic State of Iraq and ash-Sham in the Democratic Republic of the Congo (ISIS-DRC; see Appendix T); in addition, elements of the UPDF were deployed in the northeast region of Karamoja against cattle rustlers and criminal gangs<br><br>beginning in 2012, the UPDF led regional efforts to pursue the Lord’s Resistance Army (LRA), a small, violent group of Ugandan origin that conducted widespread attacks against civilians in much of Central Africa; the UPDF withdrew from the mission in 2017 after declaring that the LRA no longer posed a security threat; Uganda intervened in the South Sudan civil war in 2013-2016 and UPDF forces have clashed with South Sudanese forces along the border as recently as 2020<br><br>the military traces its history back to the formation of the Uganda Rifles in 1895 under the British colonial government; the Uganda Rifles were merged with the Central Africa Regiment and the East Africa Rifles to form the King’s African Rifles (KAR) in 1902, which participated in both world wars, as well as the Mau Mau rebellion in Kenya (1952-1960); in 1962, the Ugandan battalion of the KAR was transformed into the country's first military force, the Uganda Rifles, which was subsequently renamed the Uganda Army; the Uganda People's Defense Force was established in 1995 from the former rebel National Resistance Army following the enactment of the 1995 Constitution of Uganda (2022)<br>

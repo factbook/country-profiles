@@ -64,8 +64,8 @@ _other_: 35.4% (2018 est.)<br>
 52,150 sq km (2012)<br>
 
 **Major lakes (area sq km)**<br>
-_Fresh water lake(s)_: Lake Beysehir - 650 sq km; Lake Egridir - 520 sq km<br>
-_Salt water lake(s)_: Lake Van - 3,740 sq km; Lake Tuz - 1,640 sq km;<br>
+_fresh water lake(s)_: Lake Beysehir - 650 sq km; Lake Egridir - 520 sq km<br>
+_salt water lake(s)_: Lake Van - 3,740 sq km; Lake Tuz - 1,640 sq km;<br>
 
 **Major rivers (by length in km)**<br>
 Euphrates river source (shared with Syria, Iran, and Iraq [m]) - 3,596 km; Tigris river source (shared with Syria, Iran, and Iraq [m]) - 1,950 km<br><strong>note</strong> – [s] after country name indicates river source; [m] after country name indicates river mouth<br>
@@ -292,8 +292,8 @@ _coal revenues_: 0.05% of GDP (2018 est.)<br>
 _municipal solid waste generated annually_: 31.283 million tons (2015 est.)<br>
 
 **Major lakes (area sq km)**<br>
-_Fresh water lake(s)_: Lake Beysehir - 650 sq km; Lake Egridir - 520 sq km<br>
-_Salt water lake(s)_: Lake Van - 3,740 sq km; Lake Tuz - 1,640 sq km;<br>
+_fresh water lake(s)_: Lake Beysehir - 650 sq km; Lake Egridir - 520 sq km<br>
+_salt water lake(s)_: Lake Van - 3,740 sq km; Lake Tuz - 1,640 sq km;<br>
 
 **Major rivers (by length in km)**<br>
 Euphrates river source (shared with Syria, Iran, and Iraq [m]) - 3,596 km; Tigris river source (shared with Syria, Iran, and Iraq [m]) - 1,950 km<br><strong>note</strong> – [s] after country name indicates river source; [m] after country name indicates river mouth<br>
@@ -590,8 +590,8 @@ _proven reserves_: 11.525 billion metric tons (2019 est.)<br>
 **Petroleum**<br>
 _total petroleum production_: 70,300 bbl/day (2021 est.)<br>
 _refined petroleum consumption_: 987,300 bbl/day (2019 est.)<br>
-_crude oil and lease condensate exports_: 0 barrels/day (2018 est.)<br>
-_crude oil and lease condensate imports_: 423,500 barrels/day (2018 est.)<br>
+_crude oil and lease condensate exports_: 0 bbl/day (2018 est.)<br>
+_crude oil and lease condensate imports_: 423,500 bbl/day (2018 est.)<br>
 _crude oil estimated reserves_: 366 million barrels (2021 est.)<br>
 
 **Refined petroleum products - production**<br>

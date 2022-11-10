@@ -565,8 +565,8 @@ _proven reserves_: 2.876 billion metric tons (2019 est.)<br>
 **Petroleum**<br>
 _total petroleum production_: 4,800 bbl/day (2021 est.)<br>
 _refined petroleum consumption_: 309,600 bbl/day (2019 est.)<br>
-_crude oil and lease condensate exports_: 4,100 barrels/day (2018 est.)<br>
-_crude oil and lease condensate imports_: 491,300 barrels/day (2018 est.)<br>
+_crude oil and lease condensate exports_: 4,100 bbl/day (2018 est.)<br>
+_crude oil and lease condensate imports_: 491,300 bbl/day (2018 est.)<br>
 _crude oil estimated reserves_: 10 million barrels (2021 est.)<br>
 
 **Refined petroleum products - production**<br>
@@ -721,7 +721,7 @@ Islamic State of Iraq and ash-Sham (ISIS); Revolutionary Struggle; Revolutionary
 <p>Greece and Turkey continue discussions to resolve their complex maritime, air, territorial, and boundary disputes in the Aegean Sea; the mass migration of unemployed Albanians still remains a problem for developed countries, chiefly Greece and Italy</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 38,496 (Syria), 25,188 (Afghanistan), 12,657 (Iraq), 5,002 (West Bank and Gaza) (mid-year 2021); 19,997 (Ukraine) (as of 25 October 2022)<br>
+_refugees (country of origin)_: 38,496 (Syria), 25,188 (Afghanistan), 12,657 (Iraq), 5,002 (West Bank and Gaza) (mid-year 2021); 19,997 (Ukraine) (as of 1 November 2022)<br>
 _stateless persons_: 5,552 (mid-year 2021)<br>
 <strong>note:</strong> 1,226,306 estimated refugee and migrant arrivals (January 2015-October 2022); as of the end of February 2022, Greece hosted an estimated 161,419 refugees and asylum seekers<br>
 

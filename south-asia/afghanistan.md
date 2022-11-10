@@ -62,7 +62,7 @@ _other_: 40.1% (2018)<br>
 32,080 sq km (2012)<br>
 
 **Major lakes (area sq km)**<br>
-_Salt water lake(s)_: Ab-e Istadah-ye Muqur (endorheic basin) - 520 sq km<br>
+_salt water lake(s)_: Ab-e Istadah-ye Muqur (endorheic basin) - 520 sq km<br>
 
 **Major rivers (by length in km)**<br>
 Amu Darya (shared with Tajikistan [s], Turkmenistan, and Uzbekistan [m]) - 2,620 km; Helmand river source (shared with Iran) - 1,130 km<br><strong>note</strong> – [s] after country name indicates river source; [m] after country name indicates river mouth<br>
@@ -301,7 +301,7 @@ _severe localized food insecurity_: <em>due to civil conflict, population displa
 _municipal solid waste generated annually_: 5,628,525 tons (2016 est.)<br>
 
 **Major lakes (area sq km)**<br>
-_Salt water lake(s)_: Ab-e Istadah-ye Muqur (endorheic basin) - 520 sq km<br>
+_salt water lake(s)_: Ab-e Istadah-ye Muqur (endorheic basin) - 520 sq km<br>
 
 **Major rivers (by length in km)**<br>
 Amu Darya (shared with Tajikistan [s], Turkmenistan, and Uzbekistan [m]) - 2,620 km; Helmand river source (shared with Iran) - 1,130 km<br><strong>note</strong> – [s] after country name indicates river source; [m] after country name indicates river mouth<br>
@@ -588,8 +588,8 @@ _proven reserves_: 66 million metric tons (2019 est.)<br>
 **Petroleum**<br>
 _total petroleum production_: 0 bbl/day (2021 est.)<br>
 _refined petroleum consumption_: 24,300 bbl/day (2019 est.)<br>
-_crude oil and lease condensate exports_: 0 barrels/day (2018 est.)<br>
-_crude oil and lease condensate imports_: 0 barrels/day (2018 est.)<br>
+_crude oil and lease condensate exports_: 0 bbl/day (2018 est.)<br>
+_crude oil and lease condensate imports_: 0 bbl/day (2018 est.)<br>
 _crude oil estimated reserves_: 0 barrels (2021 est.)<br>
 
 **Refined petroleum products - production**<br>
@@ -628,7 +628,7 @@ _total subscriptions_: 22,678,024 (2020 est.)<br>
 _subscriptions per 100 inhabitants_: 58 (2020 est.)<br>
 
 **Telecommunication systems**<br>
-_general assessment_: before 15 August 2021, Afghanistan had successfully rebuilt infrastructure to create a functional telecom sector that covered nearly all of the population; due to mountainous geography, Afghanistan relies on its mobile network; mobile broadband penetration growing, but is still low compared to other countries in Asia; operator launched LTE in Kabul; World Bank and other donors support development of a nationwide fiber backbone; terrestrial cable connectivity to five neighboring countries; work on the &lsquo;Wakhan Corridor Fiber Optic Survey Project&rsquo; to connect to China is nearing completion; major importer of broadcasting equipment from UAE (2021)<br>
+_general assessment_: the return of the Taliban to power in August 2021 following the American-led withdrawal of security forces has thrown the telecom sector into disarray; Afghanistan was near the bottom of the world&rsquo;s rankings in terms of its telecom market maturity, but it had been making some positive progress toward establishing widespread coverage over the prior decade under civilian administration; after the first Taliban regime was toppled in 2001, considerable foreign investment along with open competition in the telecom sector resulted in the transformation of the mobile market; the first mobile network was set up in 2002, and by 2020 coverage had reached 90%; mobile penetration rates, too, had climbed from zero to almost 100% by the time a new insurgency kicked off in 2019 that was closely followed by the start of the Covid-19 pandemic; both events caused a drop in subscriber numbers and in revenue for the mobile operators; it was additional costs involved with repairing and replacing network infrastructure destroyed by the Taliban in the build up to their takeover that put a strain on the operators&rsquo; finances; with increased levels of risk and uncertainty now associated with running a telecom company in the embattled state (2021)<br>
 _domestic_: before 15 August 2021, less than 1 per 100 for fixed-line teledensity; 58 per 100 for mobile-cellular; an increasing number of Afghans utilize mobile-cellular phone networks (2021)<br>
 _international_: country code - 93; multiple VSAT's&nbsp;provide international and domestic voice and data connectivity (2019)<br>
 <strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress toward 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>

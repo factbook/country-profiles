@@ -64,7 +64,7 @@ _other_: 19% (2018 est.)<br>
 24,690 sq km (2012)<br>
 
 **Major lakes (area sq km)**<br>
-_Fresh water lake(s)_: Biwa-ko 688 sq km<br>
+_fresh water lake(s)_: Biwa-ko 688 sq km<br>
 
 **Population distribution**<br>
 all primary and secondary regions of high population density lie on the coast; one-third of the population resides in and around Tokyo on the central plain (Kanto Plain)<br>
@@ -289,7 +289,7 @@ _municipal solid waste recycled annually_: 2,155,069 tons (2015 est.)<br>
 _percent of municipal solid waste recycled_: 4.9% (2015 est.)<br>
 
 **Major lakes (area sq km)**<br>
-_Fresh water lake(s)_: Biwa-ko 688 sq km<br>
+_fresh water lake(s)_: Biwa-ko 688 sq km<br>
 
 **Total water withdrawal**<br>
 _municipal_: 15.41 billion cubic meters (2017 est.)<br>
@@ -576,8 +576,8 @@ _proven reserves_: 350 million metric tons (2019 est.)<br>
 **Petroleum**<br>
 _total petroleum production_: 10,200 bbl/day (2021 est.)<br>
 _refined petroleum consumption_: 3,739,300 bbl/day (2019 est.)<br>
-_crude oil and lease condensate exports_: 0 barrels/day (2018 est.)<br>
-_crude oil and lease condensate imports_: 3,012,800 barrels/day (2018 est.)<br>
+_crude oil and lease condensate exports_: 0 bbl/day (2018 est.)<br>
+_crude oil and lease condensate imports_: 3,012,800 bbl/day (2018 est.)<br>
 _crude oil estimated reserves_: 44.1 million barrels (2021 est.)<br>
 
 **Refined petroleum products - production**<br>

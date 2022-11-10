@@ -563,8 +563,8 @@ _proven reserves_: 0 metric tons (2019 est.)<br>
 **Petroleum**<br>
 _total petroleum production_: 69,000 bbl/day (2021 est.)<br>
 _refined petroleum consumption_: 165,400 bbl/day (2019 est.)<br>
-_crude oil and lease condensate exports_: 56,700 barrels/day (2018 est.)<br>
-_crude oil and lease condensate imports_: 95,200 barrels/day (2018 est.)<br>
+_crude oil and lease condensate exports_: 56,700 bbl/day (2018 est.)<br>
+_crude oil and lease condensate imports_: 95,200 bbl/day (2018 est.)<br>
 _crude oil estimated reserves_: 441 million barrels (2021 est.)<br>
 
 **Refined petroleum products - production**<br>
@@ -716,6 +716,6 @@ Islamic State of Iraq and ash-Sham (ISIS); Islamic Revolutionary Guard Corps/Qod
 <p>Iceland, the UK, and Ireland dispute Denmark's claim that the Faroe Islands' continental shelf extends beyond 200 nm; sovereignty dispute with Canada over Hans Island in the Kennedy Channel between Ellesmere Island and Greenland; Denmark (Greenland) and Norway have made submissions to the Commission on the Limits of the Continental Shelf (CLCS) and Russia is collecting additional data to augment its 2001 CLCS submission</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 19,833 (Syria), 5,634 (Eritrea) (mid-year 2021); 36,449 (Ukraine) (as of 25 October 2022)<br>
+_refugees (country of origin)_: 19,833 (Syria), 5,634 (Eritrea) (mid-year 2021); 36,736 (Ukraine) (as of 30 October 2022)<br>
 _stateless persons_: 11,608 (mid-year 2021)<br>
 

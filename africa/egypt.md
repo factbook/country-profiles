@@ -65,7 +65,7 @@ _other_: 96.3% (2018 est.)<br>
 36,500 sq km (2012)<br>
 
 **Major lakes (area sq km)**<br>
-_Salt water lake(s)_: Lake Manzala - 1,360 sq km<br>note - largest of Nile Delta lakes<br>
+_salt water lake(s)_: Lake Manzala - 1,360 sq km<br>note - largest of Nile Delta lakes<br>
 
 **Major rivers (by length in km)**<br>
 Nile river mouth (shared with Rwanda [s], Tanzania, Uganda, South Sudan, and Sudan) - 6,650 km<br><strong>note</strong> – [s] after country name indicates river source; [m] after country name indicates river mouth<br>
@@ -299,7 +299,7 @@ _municipal solid waste recycled annually_: 2.625 million tons (2013 est.)<br>
 _percent of municipal solid waste recycled_: 12.5% (2013 est.)<br>
 
 **Major lakes (area sq km)**<br>
-_Salt water lake(s)_: Lake Manzala - 1,360 sq km<br>note - largest of Nile Delta lakes<br>
+_salt water lake(s)_: Lake Manzala - 1,360 sq km<br>note - largest of Nile Delta lakes<br>
 
 **Major rivers (by length in km)**<br>
 Nile river mouth (shared with Rwanda [s], Tanzania, Uganda, South Sudan, and Sudan) - 6,650 km<br><strong>note</strong> – [s] after country name indicates river source; [m] after country name indicates river mouth<br>
@@ -598,8 +598,8 @@ _proven reserves_: 16 million metric tons (2019 est.)<br>
 **Petroleum**<br>
 _total petroleum production_: 660,800 bbl/day (2021 est.)<br>
 _refined petroleum consumption_: 810,200 bbl/day (2019 est.)<br>
-_crude oil and lease condensate exports_: 204,100 barrels/day (2018 est.)<br>
-_crude oil and lease condensate imports_: 117,400 barrels/day (2018 est.)<br>
+_crude oil and lease condensate exports_: 204,100 bbl/day (2018 est.)<br>
+_crude oil and lease condensate imports_: 117,400 bbl/day (2018 est.)<br>
 _crude oil estimated reserves_: 3.3 billion barrels (2021 est.)<br>
 
 **Refined petroleum products - production**<br>

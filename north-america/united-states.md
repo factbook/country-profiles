@@ -70,8 +70,8 @@ _other_: 22.2% (2018 est.)<br>
 264,000 sq km (2012)<br>
 
 **Major lakes (area sq km)**<br>
-_Fresh water lake(s)_: Michigan – 57,750 sq km; Superior* – 53,348 sq km; Huron* – 23,597 sq km; Erie* – 12,890 sq km; Ontario* – 9,220 sq km; Lake of the Woods – 4,350 sq km; Iliamna – 2,590 sq km; Okeechobee – 1,810 sq km; Belcharof – 1,190 sq km; Red – 1,170 sq km; Saint Clair – 1,113 sq km; Champlain – 1,100 sq km<br>note - Great Lakes* area shown as US waters<br>
-_Salt water lake(s)_: Great Salt &ndash; 4,360 sq km; Pontchartrain &ndash; 1,620 sq km; &nbsp;Selawik &ndash; 1,400 sq km; Salton Sea &ndash; 950 sq km<br>
+_fresh water lake(s)_: Michigan – 57,750 sq km; Superior* – 53,348 sq km; Huron* – 23,597 sq km; Erie* – 12,890 sq km; Ontario* – 9,220 sq km; Lake of the Woods – 4,350 sq km; Iliamna – 2,590 sq km; Okeechobee – 1,810 sq km; Belcharof – 1,190 sq km; Red – 1,170 sq km; Saint Clair – 1,113 sq km; Champlain – 1,100 sq km<br>note - Great Lakes* area shown as US waters<br>
+_salt water lake(s)_: Great Salt &ndash; 4,360 sq km; Pontchartrain &ndash; 1,620 sq km; &nbsp;Selawik &ndash; 1,400 sq km; Salton Sea &ndash; 950 sq km<br>
 
 **Major rivers (by length in km)**<br>
 <p>Missouri - 3,768 km; Mississippi - 3,544 km; Yukon river mouth (shared with Canada [s]) - 3,190 km; Saint Lawrence (shared with Canada) - 3,058 km; Rio Grande river source ( mouth shared with Mexico) - 3,057 km; Colorado river source (shared with Mexico [m]) - 2,333 km; Arkansas - 2,348 km; Columbia river mouth (shared with Canada [s]) - 2,250 km; Red - 2,188 km; Ohio - 2,102 km; Snake - 1,670 km<br><strong>note</strong> – [s] after country name indicates river source; [m] after country name indicates river mouth</p><br>
@@ -295,8 +295,8 @@ _municipal solid waste recycled annually_: 89.268 million tons (2014 est.)<br>
 _percent of municipal solid waste recycled_: 34.6% (2014 est.)<br>
 
 **Major lakes (area sq km)**<br>
-_Fresh water lake(s)_: Michigan – 57,750 sq km; Superior* – 53,348 sq km; Huron* – 23,597 sq km; Erie* – 12,890 sq km; Ontario* – 9,220 sq km; Lake of the Woods – 4,350 sq km; Iliamna – 2,590 sq km; Okeechobee – 1,810 sq km; Belcharof – 1,190 sq km; Red – 1,170 sq km; Saint Clair – 1,113 sq km; Champlain – 1,100 sq km<br>note - Great Lakes* area shown as US waters<br>
-_Salt water lake(s)_: Great Salt &ndash; 4,360 sq km; Pontchartrain &ndash; 1,620 sq km; &nbsp;Selawik &ndash; 1,400 sq km; Salton Sea &ndash; 950 sq km<br>
+_fresh water lake(s)_: Michigan – 57,750 sq km; Superior* – 53,348 sq km; Huron* – 23,597 sq km; Erie* – 12,890 sq km; Ontario* – 9,220 sq km; Lake of the Woods – 4,350 sq km; Iliamna – 2,590 sq km; Okeechobee – 1,810 sq km; Belcharof – 1,190 sq km; Red – 1,170 sq km; Saint Clair – 1,113 sq km; Champlain – 1,100 sq km<br>note - Great Lakes* area shown as US waters<br>
+_salt water lake(s)_: Great Salt &ndash; 4,360 sq km; Pontchartrain &ndash; 1,620 sq km; &nbsp;Selawik &ndash; 1,400 sq km; Salton Sea &ndash; 950 sq km<br>
 
 **Major rivers (by length in km)**<br>
 <p>Missouri - 3,768 km; Mississippi - 3,544 km; Yukon river mouth (shared with Canada [s]) - 3,190 km; Saint Lawrence (shared with Canada) - 3,058 km; Rio Grande river source ( mouth shared with Mexico) - 3,057 km; Colorado river source (shared with Mexico [m]) - 2,333 km; Arkansas - 2,348 km; Columbia river mouth (shared with Canada [s]) - 2,250 km; Red - 2,188 km; Ohio - 2,102 km; Snake - 1,670 km<br><strong>note</strong> – [s] after country name indicates river source; [m] after country name indicates river mouth</p><br>
@@ -591,8 +591,8 @@ _proven reserves_: 228.662 billion metric tons (2019 est.)<br>
 **Petroleum**<br>
 _total petroleum production_: 17,924,200 bbl/day (2021 est.)<br>
 _refined petroleum consumption_: 20,542,900 bbl/day (2019 est.)<br>
-_crude oil and lease condensate exports_: 2,048,100 barrels/day (2018 est.)<br>
-_crude oil and lease condensate imports_: 7,768,500 barrels/day (2018 est.)<br>
+_crude oil and lease condensate exports_: 2,048,100 bbl/day (2018 est.)<br>
+_crude oil and lease condensate imports_: 7,768,500 bbl/day (2018 est.)<br>
 _crude oil estimated reserves_: 47.107 billion barrels (2020 est.)<br>
 
 **Refined petroleum products - production**<br>

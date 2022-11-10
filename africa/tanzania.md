@@ -64,8 +64,8 @@ _other_: 19% (2018 est.)<br>
 1,840 sq km (2012)<br>
 
 **Major lakes (area sq km)**<br>
-_Fresh water lake(s)_: Lake Victoria (shared with Uganda and Kenya) - 62,940 sq km; Lake Tanganyika (shared with Democratic Republic of Congo, Burundi, and Zambia) - 32,000 sq km; Lake Malawi (shared with Mozambique and Malawi) - 22,490<br>
-_Salt water lake(s)_: Lake Rukwa - 5,760 sq km<br>
+_fresh water lake(s)_: Lake Victoria (shared with Uganda and Kenya) - 62,940 sq km; Lake Tanganyika (shared with Democratic Republic of Congo, Burundi, and Zambia) - 32,000 sq km; Lake Malawi (shared with Mozambique and Malawi) - 22,490<br>
+_salt water lake(s)_: Lake Rukwa - 5,760 sq km<br>
 
 **Major rivers (by length in km)**<br>
 Nile (shared with Rwanda [s], Uganda, South Sudan, Sudan, and Egypt [m]) - 6,650 km<br><strong>note</strong> – [s] after country name indicates river source; [m] after country name indicates river mouth<br>
@@ -104,7 +104,7 @@ Christian 63.1%, Muslim 34.1%, folk religion 1.1%, Buddhist &lt;1%, Hindu &lt;1%
 <strong>note:</strong> Zanzibar is almost entirely Muslim<br>
 
 **Demographic profile**<br>
-<p>Tanzania has the largest population in East Africa and the lowest population density; almost a third of the population is urban. Tanzania’s youthful population – about two-thirds of the population is under 25 – is growing rapidly because of the high total fertility rate of 4.8 children per woman. Progress in reducing the birth rate has stalled, sustaining the country’s nearly 3% annual growth. The maternal mortality rate has improved since 2000, yet it remains very high because of early and frequent pregnancies, inadequate maternal health services, and a lack of skilled birth attendants – problems that are worse among poor and rural women. Tanzania has made strides in reducing under-5 and infant mortality rates, but a recent drop in immunization threatens to undermine gains in child health. Malaria is a leading killer of children under 5, while HIV is the main source of adult mortality</p><p>For Tanzania, most migration is internal, rural to urban movement, while some temporary labor migration from towns to plantations takes place seasonally for harvests. Tanzania was Africa’s largest refugee-hosting country for decades, hosting hundreds of thousands of refugees from the Great Lakes region, primarily Burundi, over the last fifty years. However, the assisted repatriation and naturalization of tens of thousands of Burundian refugees between 2002 and 2014 dramatically reduced the refugee population. Tanzania is increasingly a transit country for illegal migrants from the Horn of Africa and the Great Lakes region who are heading to southern Africa for security reasons and/or economic opportunities. Some of these migrants choose to settle in Tanzania.</p><br>
+<p>Tanzania has the largest population in East Africa and the lowest population density; almost a third of the population is urban. Tanzania’s youthful population – about two-thirds of the population is under 25 – is growing rapidly because of the high total fertility rate of 4.4 children per woman, as of 2022. Progress in reducing the birth rate has stalled, sustaining the country’s nearly 3% annual growth. The maternal mortality rate has improved since 2000, yet it remains very high because of early and frequent pregnancies, inadequate maternal health services, and a lack of skilled birth attendants – problems that are worse among poor and rural women. Tanzania has made strides in reducing under-5 and infant mortality rates, but a recent drop in immunization threatens to undermine gains in child health. Malaria is a leading killer of children under 5, while HIV is the main source of adult mortality</p> <p>For Tanzania, most migration is internal, rural to urban movement, while some temporary labor migration from towns to plantations takes place seasonally for harvests. Tanzania was Africa’s largest refugee-hosting country for decades, hosting hundreds of thousands of refugees from the Great Lakes region, primarily Burundi, over the last fifty years. However, the assisted repatriation and naturalization of tens of thousands of Burundian refugees between 2002 and 2014 dramatically reduced the refugee population. Tanzania is increasingly a transit country for illegal migrants from the Horn of Africa and the Great Lakes region who are heading to southern Africa for security reasons and/or economic opportunities. Some of these migrants choose to settle in Tanzania.</p><br>
 
 **Age structure**<br>
 _0-14 years_: 42.7% (male 12,632,772/female 12,369,115)<br>
@@ -310,8 +310,8 @@ _severe localized food insecurity_: <em>due to localized shortfalls in staple fo
 _municipal solid waste generated annually_: 9,276,995 tons (2012 est.)<br>
 
 **Major lakes (area sq km)**<br>
-_Fresh water lake(s)_: Lake Victoria (shared with Uganda and Kenya) - 62,940 sq km; Lake Tanganyika (shared with Democratic Republic of Congo, Burundi, and Zambia) - 32,000 sq km; Lake Malawi (shared with Mozambique and Malawi) - 22,490<br>
-_Salt water lake(s)_: Lake Rukwa - 5,760 sq km<br>
+_fresh water lake(s)_: Lake Victoria (shared with Uganda and Kenya) - 62,940 sq km; Lake Tanganyika (shared with Democratic Republic of Congo, Burundi, and Zambia) - 32,000 sq km; Lake Malawi (shared with Mozambique and Malawi) - 22,490<br>
+_salt water lake(s)_: Lake Rukwa - 5,760 sq km<br>
 
 **Major rivers (by length in km)**<br>
 Nile (shared with Rwanda [s], Uganda, South Sudan, Sudan, and Egypt [m]) - 6,650 km<br><strong>note</strong> – [s] after country name indicates river source; [m] after country name indicates river mouth<br>
@@ -602,8 +602,8 @@ _proven reserves_: 269 million metric tons (2019 est.)<br>
 **Petroleum**<br>
 _total petroleum production_: 0 bbl/day (2021 est.)<br>
 _refined petroleum consumption_: 52,800 bbl/day (2019 est.)<br>
-_crude oil and lease condensate exports_: 0 barrels/day (2018 est.)<br>
-_crude oil and lease condensate imports_: 0 barrels/day (2018 est.)<br>
+_crude oil and lease condensate exports_: 0 bbl/day (2018 est.)<br>
+_crude oil and lease condensate imports_: 0 bbl/day (2018 est.)<br>
 _crude oil estimated reserves_: 0 barrels (2021 est.)<br>
 
 **Refined petroleum products - production**<br>
@@ -641,8 +641,8 @@ _total subscriptions_: 47,685,200 (2019)<br>
 _subscriptions per 100 inhabitants_: 82.21 (2019)<br>
 
 **Telecommunication systems**<br>
-_general assessment_: Tanzania&rsquo;s telecom services are being developed to reach parity with more advanced networks from neighboring countries such as Kenya and fierce competition exists amongst Tanzania's 5 major mobile network operators; one fixed-line operator with competition in mobile networks; high tariffs on telecom; mobile use remains popular, with the government subsidizing expansion of mobile networks into rural communities; most mobile networks rely on older 2G and 3G technology with 4G/LTE service available in urban centers; the government is currently testing 5G technology and plans to begin rolling out 5G service in 2024; the government continues to improve rural telecom infrastructure including work on a national fiber backbone network connecting the entire population; in late 2021, the government announced plans to extend the national backbone network from about 8,300km to 15,000km by 2023, and to provide ongoing connectivity to more countries in the region (2022)<br>
-_domestic_: fixed-line telephone network inadequate with less than 1 connection per 100 persons; mobile-cellular service, aided by multiple providers, is increasing rapidly and exceeds 82 telephones per 100 persons; trunk service provided by open-wire, microwave radio relay, tropospheric scatter, and fiber-optic cable; some links being made digital (2019)<br>
+_general assessment_: Tanzania&rsquo;s telecom sector enjoys effective competition, particularly in the mobile segment; the government has encouraged foreign participation to promote economic growth and social development, and policy reforms have led to the country having one of the most liberal telecom sectors in Africa; the government has sought to increase broadband penetration by a range of measures, including the reduction in VAT charged on the sale of smartphones and other devices, and reductions in the cost of data; the MNOs became the leading ISPs following the launch of mobile broadband services based on 3G and LTE technologies; operators are hoping for revenue growth in the mobile data services market, given that the voice market is almost entirely prepaid; the MNOs have invested in network upgrades, which in turn has supported m-mobile data use, as well as m-money transfer services and banking services. Together, these have become a fast-developing source of revenue; the landing of the first international submarine cables in the country some years ago revolutionized the telecom market, which up to that point had entirely depended on expensive satellite connections; the government aims to complete a national fiber backbone network, having signed an agreement; in late 2021, the government announced plans to extend the national backbone network from about 8,300km to 15,000km by 2023, and to provide ongoing connectivity to more countries in the region (2022)<br>
+_domestic_: fixed-line telephone network inadequate with less than 1 connection per 100 persons; mobile-cellular service, aided by multiple providers, is increasing rapidly and exceeds 86 telephones per 100 persons; trunk service provided by open-wire, microwave radio relay, tropospheric scatter, and fiber-optic cable; some links being made digital (2020)<br>
 _international_: country code - 255; landing points for the EASSy, SEACOM/Tata TGN-Eurasia, and SEAS&nbsp;fiber-optic submarine cable system linking East Africa with the Middle East; satellite earth stations - 2 Intelsat (1 Indian Ocean, 1 Atlantic Ocean) (2019)<br>
 <strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress toward 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>
 

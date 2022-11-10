@@ -62,7 +62,7 @@ _other_: 87.5% (2018 est.)<br>
 964 sq km (2012)<br>
 
 **Major lakes (area sq km)**<br>
-_Salt water lake(s)_: Dead Sea (shared with Israel and West Bank) - 1,020 sq km<br>note - endorheic hypersaline lake; 9.6 times saltier than the ocean; lake shore is 431 meters below sea level<br>
+_salt water lake(s)_: Dead Sea (shared with Israel and West Bank) - 1,020 sq km<br>note - endorheic hypersaline lake; 9.6 times saltier than the ocean; lake shore is 431 meters below sea level<br>
 
 **Major watersheds (area sq km)**<br>
 Indian Ocean drainage: <em>(Persian Gulf)</em> Tigris and Euphrates (918,044 sq km)<br>
@@ -295,7 +295,7 @@ _municipal solid waste recycled annually_: 177,100 tons (2014 est.)<br>
 _percent of municipal solid waste recycled_: 7% (2014 est.)<br>
 
 **Major lakes (area sq km)**<br>
-_Salt water lake(s)_: Dead Sea (shared with Israel and West Bank) - 1,020 sq km<br>note - endorheic hypersaline lake; 9.6 times saltier than the ocean; lake shore is 431 meters below sea level<br>
+_salt water lake(s)_: Dead Sea (shared with Israel and West Bank) - 1,020 sq km<br>note - endorheic hypersaline lake; 9.6 times saltier than the ocean; lake shore is 431 meters below sea level<br>
 
 **Major watersheds (area sq km)**<br>
 Indian Ocean drainage: <em>(Persian Gulf)</em> Tigris and Euphrates (918,044 sq km)<br>
@@ -587,8 +587,8 @@ _proven reserves_: 0 metric tons (2019 est.)<br>
 **Petroleum**<br>
 _total petroleum production_: 0 bbl/day (2021 est.)<br>
 _refined petroleum consumption_: 114,800 bbl/day (2019 est.)<br>
-_crude oil and lease condensate exports_: 0 barrels/day (2018 est.)<br>
-_crude oil and lease condensate imports_: 47,400 barrels/day (2018 est.)<br>
+_crude oil and lease condensate exports_: 0 bbl/day (2018 est.)<br>
+_crude oil and lease condensate imports_: 47,400 bbl/day (2018 est.)<br>
 _crude oil estimated reserves_: 1 million barrels (2021 est.)<br>
 
 **Refined petroleum products - production**<br>

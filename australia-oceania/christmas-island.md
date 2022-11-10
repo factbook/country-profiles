@@ -211,7 +211,7 @@ see Australia<br>
 
 **Executive branch**<br>
 _chief of state_: King CHARLES III (since 8 September 2022); represented by Governor General of the Commonwealth of Australia General David HURLEY (since 1 July 2019)<br>
-_head of government_: Administrator Natasha GRIGGS (since 5 October 2017)<br>
+_head of government_: Acting Administrator Sarah VANDENBROEK (since 4 October 2022)<br>
 _cabinet_: NA<br>
 _elections/appointments_: the monarchy is hereditary; governor general appointed by the monarch on the recommendation of the Australian prime minister; administrator appointed by the governor general of Australia for a 2-year term and represents the monarch and Australia<br>
 
@@ -298,8 +298,8 @@ _Currency_: Australian dollars (AUD) per US dollar -<br>
 ## Communications
 
 **Telecommunication systems**<br>
-_general assessment_: service provided by the Australian network<br>
-_domestic_: local area code - 08; GSM mobile-cellular telephone service is provided by Telstra as part of the Australian network<br>
+_general assessment_: internet access on Christmas Island is provided by satellite; improvements through the Regional Connectivity Program to the macro and small cell mobile sites will provide new and improved mobile, voice and data connectivity for residents and visitors; the upgrade will also support local businesses and community facilities, enabling increased residential access to essential services such as telehealth and education (2022)<br>
+_domestic_: improvements to Christmas Island include an upgrade to the macro cell base stations and deploy a new macro cell base station at the airport (2022)<br>
 _international_: international code - 61 8; ASC submarine cable to Singapore and Australia; satellite earth station - 1 (Intelsat provides telephone and telex service) (2019)<br>
 
 **Broadcast media**<br>

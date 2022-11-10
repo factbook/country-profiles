@@ -65,7 +65,7 @@ _other_: 25.9% (2018 est.)<br>
 900 sq km (2012)<br>
 
 **Major lakes (area sq km)**<br>
-_Salt water lake(s)_: Laguna de Caratasca - 1,110 sq km<br>
+_salt water lake(s)_: Laguna de Caratasca - 1,110 sq km<br>
 
 **Population distribution**<br>
 most residents live in the mountainous western half of the country; unlike other Central American nations, Honduras is the only one with an urban population that is distributed between two large centers - the capital of Tegucigalpa and the city of San Pedro Sula; the Rio Ulua valley in the north is the only densely populated lowland area<br>
@@ -286,7 +286,7 @@ _vectorborne diseases_: dengue fever and malaria<br>
 _municipal solid waste generated annually_: 2,162,028 tons (2016 est.)<br>
 
 **Major lakes (area sq km)**<br>
-_Salt water lake(s)_: Laguna de Caratasca - 1,110 sq km<br>
+_salt water lake(s)_: Laguna de Caratasca - 1,110 sq km<br>
 
 **Total water withdrawal**<br>
 _municipal_: 315 million cubic meters (2017 est.)<br>
@@ -575,8 +575,8 @@ _proven reserves_: 0 metric tons (2019 est.)<br>
 **Petroleum**<br>
 _total petroleum production_: 0 bbl/day (2021 est.)<br>
 _refined petroleum consumption_: 66,800 bbl/day (2019 est.)<br>
-_crude oil and lease condensate exports_: 0 barrels/day (2018 est.)<br>
-_crude oil and lease condensate imports_: 0 barrels/day (2018 est.)<br>
+_crude oil and lease condensate exports_: 0 bbl/day (2018 est.)<br>
+_crude oil and lease condensate imports_: 0 bbl/day (2018 est.)<br>
 _crude oil estimated reserves_: 0 barrels (2021 est.)<br>
 
 **Refined petroleum products - production**<br>

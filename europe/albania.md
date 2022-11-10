@@ -63,7 +63,7 @@ _other_: 28.2% (2018 est.)<br>
 3,537 sq km (2014)<br>
 
 **Major lakes (area sq km)**<br>
-_Fresh water lake(s)_: Lake Scutari (shared with Montenegro) - 400 sq km<br>note - largest lake in the Balkans<br>
+_fresh water lake(s)_: Lake Scutari (shared with Montenegro) - 400 sq km<br>note - largest lake in the Balkans<br>
 
 **Major watersheds (area sq km)**<br>
 Atlantic Ocean drainage: <em>(Black Sea)</em> Danube (795,656 sq km)<br>
@@ -286,7 +286,7 @@ _coal revenues_: 0.03% of GDP (2018 est.)<br>
 _municipal solid waste generated annually_: 1,142,964 tons (2015 est.)<br>
 
 **Major lakes (area sq km)**<br>
-_Fresh water lake(s)_: Lake Scutari (shared with Montenegro) - 400 sq km<br>note - largest lake in the Balkans<br>
+_fresh water lake(s)_: Lake Scutari (shared with Montenegro) - 400 sq km<br>note - largest lake in the Balkans<br>
 
 **Major watersheds (area sq km)**<br>
 Atlantic Ocean drainage: <em>(Black Sea)</em> Danube (795,656 sq km)<br>
@@ -577,8 +577,8 @@ _proven reserves_: 522 million metric tons (2019 est.)<br>
 **Petroleum**<br>
 _total petroleum production_: 16,100 bbl/day (2021 est.)<br>
 _refined petroleum consumption_: 26,400 bbl/day (2019 est.)<br>
-_crude oil and lease condensate exports_: 10,500 barrels/day (2018 est.)<br>
-_crude oil and lease condensate imports_: 0 barrels/day (2018 est.)<br>
+_crude oil and lease condensate exports_: 10,500 bbl/day (2018 est.)<br>
+_crude oil and lease condensate imports_: 0 bbl/day (2018 est.)<br>
 _crude oil estimated reserves_: 150 million barrels (2021 est.)<br>
 
 **Refined petroleum products - production**<br>
@@ -617,7 +617,7 @@ _total subscriptions_: 2,618,880 (2020 est.)<br>
 _subscriptions per 100 inhabitants_: 91 (2020 est.)<br>
 
 **Telecommunication systems**<br>
-_general assessment_: Albania&rsquo;s small telecom market has improved through signatory status of EU accession plan; EU financial aid will build infrastructure and enhance cooperation; operator committed &euro;100 million to upgrade fixed-line infrastructure, supporting broadband services nationally; consistent with the region, fixed-line telephony use and penetration is declining as subscribers prefer mobile solutions; mobile sector is supported through LTE networks; operators have invested in 5G, including the intention to create a corridor with Kosovo; importer of broadcasting equipment from EU neighbors (2021)<br>
+_general assessment_: Albania&rsquo;s small telecom market has experienced some significant changes in recent years;&nbsp; upgrades were made to the fixed-line infrastructure to support broadband services; fixed-line telephony use and penetration in Albania is declining steadily as subscribers migrate to mobile solutions; the mobile sector is well provided with LTE networks, while operators have invested in 5G; some of these efforts have been made in conjunction with neighboring Kosovo, with the intention of a seamless 5G corridor along the highway connecting the two countries; the country has long sought accession to the European Union (EU) which has benefited its telecoms sector through closer scrutiny of its regulatory regime and through the injection of funding to help modernize infrastructure (2021)<br>
 _domestic_: fixed-line approximately 8 per 100, teledensity continues to decline due to heavy use of mobile-cellular telephone services; mobile-cellular telephone use is widespread and generally effective, 91 per 100 for mobile-cellular (2020)<br>
 _international_: country code - 355; submarine cables&nbsp;for the Adria 1 and Italy-Albania provide connectivity to Italy, Croatia, and Greece; a combination submarine cable and land fiber-optic system, provides additional connectivity to Bulgaria, Macedonia, and Turkey; international traffic carried by fiber-optic cable and, when necessary, by microwave radio relay from the Tirana exchange to Italy and Greece (2019)<br>
 <strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress toward 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>

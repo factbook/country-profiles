@@ -64,7 +64,7 @@ _other_: 25.9% (2018 est.)<br>
 321 sq km (2012)<br>
 
 **Major lakes (area sq km)**<br>
-_Salt water lake(s)_: Laguna de Chiriqui - 900 sq km<br>
+_salt water lake(s)_: Laguna de Chiriqui - 900 sq km<br>
 
 **Population distribution**<br>
 population is concentrated towards the center of the country, particularly around the Canal, but a sizeable segment of the populace also lives in the far west around David; the eastern third of the country is sparsely inhabited<br>
@@ -287,7 +287,7 @@ _vectorborne diseases_: dengue fever<br>
 _municipal solid waste generated annually_: 1,472,262 tons (2015 est.)<br>
 
 **Major lakes (area sq km)**<br>
-_Salt water lake(s)_: Laguna de Chiriqui - 900 sq km<br>
+_salt water lake(s)_: Laguna de Chiriqui - 900 sq km<br>
 
 **Total water withdrawal**<br>
 _municipal_: 759.1 million cubic meters (2017 est.)<br>
@@ -577,8 +577,8 @@ _proven reserves_: 0 metric tons (2019 est.)<br>
 **Petroleum**<br>
 _total petroleum production_: 0 bbl/day (2021 est.)<br>
 _refined petroleum consumption_: 143,700 bbl/day (2019 est.)<br>
-_crude oil and lease condensate exports_: 0 barrels/day (2018 est.)<br>
-_crude oil and lease condensate imports_: 0 barrels/day (2018 est.)<br>
+_crude oil and lease condensate exports_: 0 bbl/day (2018 est.)<br>
+_crude oil and lease condensate imports_: 0 bbl/day (2018 est.)<br>
 _crude oil estimated reserves_: 0 barrels (2021 est.)<br>
 
 **Refined petroleum products - production**<br>
@@ -617,7 +617,7 @@ _total subscriptions_: 5,825,677 (2020 est.)<br>
 _subscriptions per 100 inhabitants_: 135 (2020 est.)<br>
 
 **Telecommunication systems**<br>
-_general assessment_: Panama has seen a steady increase in revenue from the telecom sector in recent years; mobile services and broadband remain the key growth sectors, with mobile connections accounting for 90% of all connections, and over half of telecom sector revenue; the mobile sector has flourished since the arrival of Digicel Panam&aacute; in 2008 and of Am&eacute;rica M&oacute;vil in 2009, which ended the duopoly long enjoyed by Cable &amp; Wireless Panam&aacute; and Telef&oacute;nica&rsquo;s Movistar. Millicom International Cellular (trading as Tigo) acquired Telef&oacute;nica&rsquo;s telecom assets in Panama in 2019; the mobile market has effective competition among these players; internet services have grown in recent years as consumers responded to government fixed-line projects, improved mobile broadband connectivity and a plethora of mobile applications. (2021)<br>
+_general assessment_: Panama has seen a steady increase in revenue from the telecom sector in recent years; mobile services and broadband remain the key growth sectors, with mobile connections accounting for 90% of all connections, and over half of telecom sector revenue; the mobile market has effective competition; internet services have grown in recent years as consumers responded to government fixed-line projects, improved mobile broadband connectivity and mobile applications (2021)<br>
 _domestic_: fixed-line about 14 per 100 and rapid subscribership of mobile-cellular telephone roughly 132 per 100 (2020)<br>
 _international_: country code - 507; landing points for the&nbsp;PAN-AM, ARCOS, SAC, AURORA,&nbsp;PCCS, PAC, and the MAYA-1 submarine cable systems that together provide links to the US and parts of the Caribbean, Central America, and South America; satellite earth stations - 2 Intelsat (Atlantic Ocean); connected to the Central American Microwave System (2019)<br>
 <strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress toward 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>

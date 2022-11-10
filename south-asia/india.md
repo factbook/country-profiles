@@ -65,7 +65,7 @@ _other_: 16.4% (2018 est.)<br>
 667,000 sq km (2012)<br>
 
 **Major lakes (area sq km)**<br>
-_Salt water lake(s)_: Chilika Lake - 1,170 sq km<br>
+_salt water lake(s)_: Chilika Lake - 1,170 sq km<br>
 
 **Major rivers (by length in km)**<br>
 Brahmaputra (shared with China [s] and Bangladesh [m]) - 3,969 km; Indus (shared with China [s] and Pakistan [m]) - 3,610 km; Ganges river source (shared with Bangladesh [m]) - 2,704 km; Godavari - 1,465 km; Sutlej (shared with China [s] and Pakistan [m]) - 1,372 km; Yamuna - 1,370 km; Narmada - 1,289 km; Chenab river source (shared with Pakistan [m]) - 1,086 km; Ghaghara river mouth (shared with China [s] and Nepal) - 1,080 km<br><strong>note</strong> – [s] after country name indicates river source; [m] after country name indicates river mouth<br>
@@ -309,7 +309,7 @@ _municipal solid waste recycled annually_: 8,420,162 tons (2013 est.)<br>
 _percent of municipal solid waste recycled_: 5% (2013 est.)<br>
 
 **Major lakes (area sq km)**<br>
-_Salt water lake(s)_: Chilika Lake - 1,170 sq km<br>
+_salt water lake(s)_: Chilika Lake - 1,170 sq km<br>
 
 **Major rivers (by length in km)**<br>
 Brahmaputra (shared with China [s] and Bangladesh [m]) - 3,969 km; Indus (shared with China [s] and Pakistan [m]) - 3,610 km; Ganges river source (shared with Bangladesh [m]) - 2,704 km; Godavari - 1,465 km; Sutlej (shared with China [s] and Pakistan [m]) - 1,372 km; Yamuna - 1,370 km; Narmada - 1,289 km; Chenab river source (shared with Pakistan [m]) - 1,086 km; Ghaghara river mouth (shared with China [s] and Nepal) - 1,080 km<br><strong>note</strong> – [s] after country name indicates river source; [m] after country name indicates river mouth<br>
@@ -612,8 +612,8 @@ _proven reserves_: 105.931 billion metric tons (2019 est.)<br>
 **Petroleum**<br>
 _total petroleum production_: 771,400 bbl/day (2021 est.)<br>
 _refined petroleum consumption_: 4,920,100 bbl/day (2019 est.)<br>
-_crude oil and lease condensate exports_: 0 barrels/day (2018 est.)<br>
-_crude oil and lease condensate imports_: 4.53 million barrels/day (2018 est.)<br>
+_crude oil and lease condensate exports_: 0 bbl/day (2018 est.)<br>
+_crude oil and lease condensate imports_: 4.53 million bbl/day (2018 est.)<br>
 _crude oil estimated reserves_: 4,604,900,000 barrels (2021 est.)<br>
 
 **Refined petroleum products - production**<br>

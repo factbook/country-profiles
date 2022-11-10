@@ -63,7 +63,7 @@ _other_: 21.2% (2018 est.)<br>
 970 sq km (2012)<br>
 
 **Major lakes (area sq km)**<br>
-_Salt water lake(s)_: Zalew Szczecinski/Stettiner Haff (shared with Germany) - 900 sq km<br>
+_salt water lake(s)_: Zalew Szczecinski/Stettiner Haff (shared with Germany) - 900 sq km<br>
 
 **Major rivers (by length in km)**<br>
 Vistula river source and mouth (shared with Belarus and Ukraine) - 1,213 km<br><strong>note </strong>- longest river in Poland<br>
@@ -291,7 +291,7 @@ _municipal solid waste recycled annually_: 2,866,746 tons (2015 est.)<br>
 _percent of municipal solid waste recycled_: 26.4% (2015 est.)<br>
 
 **Major lakes (area sq km)**<br>
-_Salt water lake(s)_: Zalew Szczecinski/Stettiner Haff (shared with Germany) - 900 sq km<br>
+_salt water lake(s)_: Zalew Szczecinski/Stettiner Haff (shared with Germany) - 900 sq km<br>
 
 **Major rivers (by length in km)**<br>
 Vistula river source and mouth (shared with Belarus and Ukraine) - 1,213 km<br><strong>note </strong>- longest river in Poland<br>
@@ -589,8 +589,8 @@ _proven reserves_: 26.932 billion metric tons (2019 est.)<br>
 **Petroleum**<br>
 _total petroleum production_: 28,400 bbl/day (2021 est.)<br>
 _refined petroleum consumption_: 697,700 bbl/day (2019 est.)<br>
-_crude oil and lease condensate exports_: 6,000 barrels/day (2018 est.)<br>
-_crude oil and lease condensate imports_: 542,100 barrels/day (2018 est.)<br>
+_crude oil and lease condensate exports_: 6,000 bbl/day (2018 est.)<br>
+_crude oil and lease condensate imports_: 542,100 bbl/day (2018 est.)<br>
 _crude oil estimated reserves_: 113 million barrels (2021 est.)<br>
 
 **Refined petroleum products - production**<br>
@@ -629,7 +629,7 @@ _total subscriptions_: 49,350,724 (2020 est.)<br>
 _subscriptions per 100 inhabitants_: 130 (2020 est.)<br>
 
 **Telecommunication systems**<br>
-_general assessment_: the liberalized telecom market has seen considerable development in the broadband and mobile sectors; the incumbent telco, Orange Poland, dominates the broadband market and has invested in fiber infrastructure to support the growing adoption of bundled services among customers; the regulatory environment has encouraged market competition, partly by encouraging operators to secure spectrum and also by ensuring access to cable and fiber infrastructure; the mobile market in recent years has been characterized by the rapid extension of LTE networks and the development of mobile data services based on newly released and re-farmed spectrum; the regulator&rsquo;s attempts to auction spectrum in a range of bands has been delayed, with spectrum in the 5G-suitable 3.4-3.8GHz range having been suspended to later in 2021 as a result of the Covid-19 outbreak and legislative changes. (2021)<br>
+_general assessment_: the liberalized telecom market has seen considerable development in the broadband and mobile sectors; the regulatory environment has encouraged market competition, partly by encouraging operators to secure spectrum and also by ensuring access to cable and fiber infrastructure; the mobile market in recent years has been characterized by the rapid extension of LTE networks and the development of mobile data services based on newly released and re-farmed spectrum; the regulator&rsquo;s attempts to auction spectrum in a range of bands has been delayed, with spectrum in the 5G-suitable 3.4-3.8GHz range having been suspended to later in 2021 as a result of the Covid-19 outbreak and legislative changes (2021)<br>
 _domestic_: several nation-wide networks provide mobile-cellular service; fixed-line roughly 15 per 100 (service lags in rural areas), mobile-cellular over 130 per 100 persons (2020)<br>
 _international_: country code - 48; landing points for the Baltica and the Denmark-Poland2 submarine cables connecting Poland, Denmark and Sweden; international direct dialing with automated exchanges; satellite earth station - 1 with access to Intelsat, Eutelsat, Inmarsat, and Intersputnik (2019)<br>
 <strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress toward 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>

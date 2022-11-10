@@ -578,8 +578,8 @@ _proven reserves_: 0 metric tons (2019 est.)<br>
 **Petroleum**<br>
 _total petroleum production_: 34,300 bbl/day (2021 est.)<br>
 _refined petroleum consumption_: 134,600 bbl/day (2019 est.)<br>
-_crude oil and lease condensate exports_: 32,200 barrels/day (2018 est.)<br>
-_crude oil and lease condensate imports_: 383,200 barrels/day (2018 est.)<br>
+_crude oil and lease condensate exports_: 32,200 bbl/day (2018 est.)<br>
+_crude oil and lease condensate imports_: 383,200 bbl/day (2018 est.)<br>
 _crude oil estimated reserves_: 198 million barrels (2021 est.)<br>
 
 **Refined petroleum products - production**<br>
@@ -618,7 +618,7 @@ _total subscriptions_: 11,704,084 (2020 est.)<br>
 _subscriptions per 100 inhabitants_: 124 (2020 est.)<br>
 
 **Telecommunication systems**<br>
-_general assessment_: the government of Belarus has successfully promoted the migration to an all-IP platform as part of a wider effort towards a digital transformation for the economy; the state-supported infrastructure operator beCloud has built an extensive fiber network which reaches all but the smallest settlements in the country; Belarus has the second highest fiber subscription rate in Europe, behind only Iceland; LTE coverage is almost universal, while considerable progress has also been made in developing 5G services. (2021)<br>
+_general assessment_: the government of Belarus has successfully promoted the migration to an all-IP platform as part of a wider effort towards a digital transformation for the economy; the state-supported infrastructure operator beCloud has built an extensive fiber network which reaches all but the smallest settlements in the country; Belarus has the second highest fiber subscription rate in Europe, behind only Iceland; LTE coverage is almost universal, while considerable progress has also been made in developing 5G services (2021)<br>
 _domestic_: fixed-line teledensity is improving although rural areas continue to be underserved, approximately 47 per 100 fixed-line; mobile-cellular teledensity now roughly 124 telephones per 100 persons (2020)<br>
 _international_: country code - 375; Belarus is landlocked and therefore a member of the Trans-European Line (TEL), Trans-Asia-Europe (TAE) fiber-optic line, and has access to the Trans-Siberia Line (TSL); 3 fiber-optic segments provide connectivity to Latvia, Poland, Russia, and Ukraine; worldwide service is available to Belarus through this infrastructure; additional analog lines to Russia; Intelsat, Eutelsat, and Intersputnik earth stations; almost 31,000 base stations in service in 2019 (2020)<br>
 <strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress toward 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>
@@ -721,7 +721,7 @@ Belarus has close security ties with Russia, including an integrated air and mis
 <p><em>Belarus-Latvia:</em> Boundary demarcated with Latvia.<br><br><em>Belarus-Lithuania:</em> Boundary demarcated with Lithuania.<br><br><em>Belarus-Poland:</em> As a member state that forms part of the EU's external border, Poland has implemented strict Schengen border rules to restrict illegal immigration and trade along its border with Belarus.</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 15,932 (Ukraine) (as of 24 October 2022)<br>
+_refugees (country of origin)_: 16,195 (Ukraine) (as of 31 October 2022)<br>
 _stateless persons_: 6,104 (mid-year 2021)<br>
 
 **Trafficking in persons**<br>

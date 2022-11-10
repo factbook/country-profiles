@@ -65,7 +65,7 @@ _other_: 23.4% (2018 est.)<br>
 10,550 sq km (2012)<br>
 
 **Major lakes (area sq km)**<br>
-_Salt water lake(s)_: Lago de Maracaibo - 13,010 sq km<br>
+_salt water lake(s)_: Lago de Maracaibo - 13,010 sq km<br>
 
 **Major rivers (by length in km)**<br>
 Rio Negro (shared with Colombia [s] and Brazil [m]) - 2,250 km; Orinoco river source and mouth (shared with Colombia) - 2,101 km<br><strong>note</strong> – [s] after country name indicates river source; [m] after country name indicates river mouth<br>
@@ -281,7 +281,7 @@ _widespread lack of access_: <em>due to severe economic crisis -</em> the nation
 _municipal solid waste generated annually_: 9,779,093 tons (2010 est.)<br>
 
 **Major lakes (area sq km)**<br>
-_Salt water lake(s)_: Lago de Maracaibo - 13,010 sq km<br>
+_salt water lake(s)_: Lago de Maracaibo - 13,010 sq km<br>
 
 **Major rivers (by length in km)**<br>
 Rio Negro (shared with Colombia [s] and Brazil [m]) - 2,250 km; Orinoco river source and mouth (shared with Colombia) - 2,101 km<br><strong>note</strong> – [s] after country name indicates river source; [m] after country name indicates river mouth<br>
@@ -571,8 +571,8 @@ _proven reserves_: 731 million metric tons (2019 est.)<br>
 **Petroleum**<br>
 _total petroleum production_: 604,800 bbl/day (2021 est.)<br>
 _refined petroleum consumption_: 470,600 bbl/day (2019 est.)<br>
-_crude oil and lease condensate exports_: 1,002,700 barrels/day (2018 est.)<br>
-_crude oil and lease condensate imports_: 0 barrels/day (2018 est.)<br>
+_crude oil and lease condensate exports_: 1,002,700 bbl/day (2018 est.)<br>
+_crude oil and lease condensate imports_: 0 bbl/day (2018 est.)<br>
 _crude oil estimated reserves_: 303.806 billion barrels (2021 est.)<br>
 
 **Refined petroleum products - production**<br>

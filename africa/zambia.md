@@ -62,7 +62,7 @@ _other_: 2% (2018 est.)<br>
 1,560 sq km (2012)<br>
 
 **Major lakes (area sq km)**<br>
-_Fresh water lake(s)_: Lake Tanganyika (shared with Democratic Republic of Congo, Tanzania, and Burundi) - 32,000 sq km; Lake Mweru (shared with Democratic Republic of Congo) - 4,350 sq km; Lake Bangweulu - 4,000-15,000 sq km seasonal variation<br>
+_fresh water lake(s)_: Lake Tanganyika (shared with Democratic Republic of Congo, Tanzania, and Burundi) - 32,000 sq km; Lake Mweru (shared with Democratic Republic of Congo) - 4,350 sq km; Lake Bangweulu - 4,000-15,000 sq km seasonal variation<br>
 
 **Major rivers (by length in km)**<br>
 <p>Congo river source (shared with Angola, Republic of Congo, and Democratic Republic of Congo [m]) - 4,700 km; Zambezi river source (shared with Angola, Namibia, Botswana, Zimbabwe, and Mozambique [m]) - 2,740 km<br><strong>note</strong> – [s] after country name indicates river source; [m] after country name indicates river mouth</p><br>
@@ -304,7 +304,7 @@ _severe localized food insecurity_: <em>due to reduced incomes and localized sho
 _municipal solid waste generated annually_: 2,608,268 tons (2002 est.)<br>
 
 **Major lakes (area sq km)**<br>
-_Fresh water lake(s)_: Lake Tanganyika (shared with Democratic Republic of Congo, Tanzania, and Burundi) - 32,000 sq km; Lake Mweru (shared with Democratic Republic of Congo) - 4,350 sq km; Lake Bangweulu - 4,000-15,000 sq km seasonal variation<br>
+_fresh water lake(s)_: Lake Tanganyika (shared with Democratic Republic of Congo, Tanzania, and Burundi) - 32,000 sq km; Lake Mweru (shared with Democratic Republic of Congo) - 4,350 sq km; Lake Bangweulu - 4,000-15,000 sq km seasonal variation<br>
 
 **Major rivers (by length in km)**<br>
 <p>Congo river source (shared with Angola, Republic of Congo, and Democratic Republic of Congo [m]) - 4,700 km; Zambezi river source (shared with Angola, Namibia, Botswana, Zimbabwe, and Mozambique [m]) - 2,740 km<br><strong>note</strong> – [s] after country name indicates river source; [m] after country name indicates river mouth</p><br>
@@ -599,8 +599,8 @@ _proven reserves_: 45 million metric tons (2019 est.)<br>
 **Petroleum**<br>
 _total petroleum production_: 0 bbl/day (2021 est.)<br>
 _refined petroleum consumption_: 25,300 bbl/day (2019 est.)<br>
-_crude oil and lease condensate exports_: 0 barrels/day (2018 est.)<br>
-_crude oil and lease condensate imports_: 12,400 barrels/day (2018 est.)<br>
+_crude oil and lease condensate exports_: 0 bbl/day (2018 est.)<br>
+_crude oil and lease condensate imports_: 12,400 bbl/day (2018 est.)<br>
 _crude oil estimated reserves_: 0 barrels (2021 est.)<br>
 
 **Refined petroleum products - production**<br>

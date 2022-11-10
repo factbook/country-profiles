@@ -588,8 +588,8 @@ _proven reserves_: 0 metric tons (2019 est.)<br>
 **Petroleum**<br>
 _total petroleum production_: 1,197,600 bbl/day (2021 est.)<br>
 _refined petroleum consumption_: 133,400 bbl/day (2019 est.)<br>
-_crude oil and lease condensate exports_: 1,367,400 barrels/day (2018 est.)<br>
-_crude oil and lease condensate imports_: 0 barrels/day (2018 est.)<br>
+_crude oil and lease condensate exports_: 1,367,400 bbl/day (2018 est.)<br>
+_crude oil and lease condensate imports_: 0 bbl/day (2018 est.)<br>
 _crude oil estimated reserves_: 7.783 billion barrels (2021 est.)<br>
 
 **Refined petroleum products - production**<br>
@@ -628,7 +628,7 @@ _total subscriptions_: 14,645,050 (2020 est.)<br>
 _subscriptions per 100 inhabitants_: 45 (2020 est.)<br>
 
 **Telecommunication systems**<br>
-_general assessment_: Angola&rsquo;s telecom sector in recent years has benefited from political stability, which has encouraged foreign investment in the sector; the government and regulator have also set in train mechanisms to open up the telecom sector to new competitors; following an extensive investment program, the company launched mobile services in April 2022; the MNOs were slow to develop LTE services, instead relying on their GSM and 3G network capabilities; there has been slow progress in LTE network development, with only a small proportion of the country covered by network infrastructure; some progress&nbsp; has been made with 5G; the Ministry of Telecommunications in early 2021 set up a 5G hub to assess 5G user cases; the government has continued to develop telecom infrastructure to help diversify the country&rsquo;s economy and lessen its dependence on offshore crude oil production; by extending and upgrading telecom networks the government expects businesses to become more efficient and for e-commerce to become a more prominent feature of economic growth; networks will facilitate rural access to education and health care. (2022)<br>
+_general assessment_: Angola&rsquo;s telecom sector in recent years has benefited from political stability, which has encouraged foreign investment in the sector; the government and regulator have also set in train mechanisms to open up the telecom sector to new competitors, mobile services were launched in April 2022; the MNOs were slow to develop LTE services, instead relying on their GSM and 3G network capabilities; there has been slow progress in LTE network development, with only a small proportion of the country covered by network infrastructure; the Ministry of Telecommunications in early 2021 set up a 5G hub to assess 5G user cases; the regulator in November 2021 granted licenses to various companies offering 5G services, with spectrum in the 3.3-3.7GHz range having been set aside for such services (2022)<br>
 _domestic_: only about one fixed-line per 100 persons; mobile-cellular teledensity about 45 telephones per 100 persons (2020)<br>
 _international_: country code - 244; landing points for the SAT-3/WASC, WACS, ACE and SACS&nbsp;fiber-optic submarine cable that provides connectivity to other countries in west Africa, Brazil, Europe and Asia; satellite earth stations - 29, Angosat-2 satellite expected by 2021 (2019)<br>
 <strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress toward 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>

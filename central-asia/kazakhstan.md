@@ -62,8 +62,8 @@ _other_: 21.4% (2018 est.)<br>
 20,660 sq km (2012)<br>
 
 **Major lakes (area sq km)**<br>
-_Fresh water lake(s)_: Ozero Balkhash - 22,000 sq km; Ozero Zaysan - 1,800 sq km<br>
-_Salt water lake(s)_: Caspian Sea (shared with Iran, Azerbaijan, Turkmenistan, and Russia) - 374,000 sq km; Aral Sea (north) - 3,300 sq km; Ozero Alakol - 2,650 sq km; Ozero Teniz 1,590 sq km; Ozero Seletytenzi - 780 sq km; Ozero Sasykkol - 740 sq km<br>
+_fresh water lake(s)_: Ozero Balkhash - 22,000 sq km; Ozero Zaysan - 1,800 sq km<br>
+_salt water lake(s)_: Caspian Sea (shared with Iran, Azerbaijan, Turkmenistan, and Russia) - 374,000 sq km; Aral Sea (north) - 3,300 sq km; Ozero Alakol - 2,650 sq km; Ozero Teniz 1,590 sq km; Ozero Seletytenzi - 780 sq km; Ozero Sasykkol - 740 sq km<br>
 
 **Major rivers (by length in km)**<br>
 Syr Darya river mouth (shared with Kyrgyzstan [s], Uzbekistan, and Tajikistan) - 3,078 km<br><strong>note</strong> – [s] after country name indicates river source; [m] after country name indicates river mouth<br>
@@ -286,8 +286,8 @@ _municipal solid waste recycled annually_: 136,064 tons (2012 est.)<br>
 _percent of municipal solid waste recycled_: 2.9% (2012 est.)<br>
 
 **Major lakes (area sq km)**<br>
-_Fresh water lake(s)_: Ozero Balkhash - 22,000 sq km; Ozero Zaysan - 1,800 sq km<br>
-_Salt water lake(s)_: Caspian Sea (shared with Iran, Azerbaijan, Turkmenistan, and Russia) - 374,000 sq km; Aral Sea (north) - 3,300 sq km; Ozero Alakol - 2,650 sq km; Ozero Teniz 1,590 sq km; Ozero Seletytenzi - 780 sq km; Ozero Sasykkol - 740 sq km<br>
+_fresh water lake(s)_: Ozero Balkhash - 22,000 sq km; Ozero Zaysan - 1,800 sq km<br>
+_salt water lake(s)_: Caspian Sea (shared with Iran, Azerbaijan, Turkmenistan, and Russia) - 374,000 sq km; Aral Sea (north) - 3,300 sq km; Ozero Alakol - 2,650 sq km; Ozero Teniz 1,590 sq km; Ozero Seletytenzi - 780 sq km; Ozero Sasykkol - 740 sq km<br>
 
 **Major rivers (by length in km)**<br>
 Syr Darya river mouth (shared with Kyrgyzstan [s], Uzbekistan, and Tajikistan) - 3,078 km<br><strong>note</strong> – [s] after country name indicates river source; [m] after country name indicates river mouth<br>
@@ -584,8 +584,8 @@ _proven reserves_: 25.605 billion metric tons (2019 est.)<br>
 **Petroleum**<br>
 _total petroleum production_: 1,864,900 bbl/day (2021 est.)<br>
 _refined petroleum consumption_: 320,600 bbl/day (2019 est.)<br>
-_crude oil and lease condensate exports_: 1,531,600 barrels/day (2018 est.)<br>
-_crude oil and lease condensate imports_: 500 barrels/day (2018 est.)<br>
+_crude oil and lease condensate exports_: 1,531,600 bbl/day (2018 est.)<br>
+_crude oil and lease condensate imports_: 500 bbl/day (2018 est.)<br>
 _crude oil estimated reserves_: 30 billion barrels (2021 est.)<br>
 
 **Refined petroleum products - production**<br>

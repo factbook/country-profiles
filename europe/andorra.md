@@ -482,8 +482,8 @@ _total subscriptions_: 94,000 (2020 est.)<br>
 _subscriptions per 100 inhabitants_: 122 (2020 est.)<br>
 
 **Telecommunication systems**<br>
-_general assessment_: modern automatic telephone system; broadband Internet and&nbsp;LTE mobile lines for both consumer and enterprise customers available (2019)<br>
-_domestic_: about 51 per 100 fixed-line, 114 per 100 mobile-cellular (2019)<br>
+_general assessment_: Andorra has a modern telecommunications system with microwave radio relay connections between the exchanges and land line circuits to France and Spain (2020)<br>
+_domestic_: about 52 per 100 fixed-line, 122 per 100 mobile-cellular (2020)<br>
 _international_: country code - 376; landline circuits to France and Spain; modern system with microwave radio relay connections between exchanges (2019)<br>
 <strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress toward 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>
 

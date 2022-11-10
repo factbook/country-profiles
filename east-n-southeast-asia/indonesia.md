@@ -64,7 +64,7 @@ _other_: 17.1% (2018 est.)<br>
 67,220 sq km (2012)<br>
 
 **Major lakes (area sq km)**<br>
-_Fresh water lake(s)_: Danau Toba - 1,150 sq km<br>note - located in the caldera of a super volcano that erupted more than 70,000 years ago; it is the largest volcanic lake in the World<br>
+_fresh water lake(s)_: Danau Toba - 1,150 sq km<br>note - located in the caldera of a super volcano that erupted more than 70,000 years ago; it is the largest volcanic lake in the World<br>
 
 **Major rivers (by length in km)**<br>
 Sepik (shared with Papua New Guinea [s]) - 1,126 km; Fly (shared with Papua New Guinea [s]) - 1,050 km<br><strong>note</strong> – [s] after country name indicates river source; [m] after country name indicates river mouth<br>
@@ -303,7 +303,7 @@ _municipal solid waste recycled annually_: 4.564 million tons (2016 est.)<br>
 _percent of municipal solid waste recycled_: 7% (2016 est.)<br>
 
 **Major lakes (area sq km)**<br>
-_Fresh water lake(s)_: Danau Toba - 1,150 sq km<br>note - located in the caldera of a super volcano that erupted more than 70,000 years ago; it is the largest volcanic lake in the World<br>
+_fresh water lake(s)_: Danau Toba - 1,150 sq km<br>note - located in the caldera of a super volcano that erupted more than 70,000 years ago; it is the largest volcanic lake in the World<br>
 
 **Major rivers (by length in km)**<br>
 Sepik (shared with Papua New Guinea [s]) - 1,126 km; Fly (shared with Papua New Guinea [s]) - 1,050 km<br><strong>note</strong> – [s] after country name indicates river source; [m] after country name indicates river mouth<br>
@@ -599,8 +599,8 @@ _proven reserves_: 39.891 billion metric tons (2019 est.)<br>
 **Petroleum**<br>
 _total petroleum production_: 842,300 bbl/day (2021 est.)<br>
 _refined petroleum consumption_: 1.649 million bbl/day (2019 est.)<br>
-_crude oil and lease condensate exports_: 204,000 barrels/day (2018 est.)<br>
-_crude oil and lease condensate imports_: 309,700 barrels/day (2018 est.)<br>
+_crude oil and lease condensate exports_: 204,000 bbl/day (2018 est.)<br>
+_crude oil and lease condensate imports_: 309,700 bbl/day (2018 est.)<br>
 _crude oil estimated reserves_: 2.48 billion barrels (2021 est.)<br>
 
 **Refined petroleum products - production**<br>

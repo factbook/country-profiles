@@ -64,7 +64,7 @@ _other_: 28.2% (2018 est.)<br>
 25,800 sq km (2012)<br>
 
 **Major lakes (area sq km)**<br>
-_Fresh water lake(s)_: Lago Titicaca (shared with Bolivia) - 8,030 sq km<br>
+_fresh water lake(s)_: Lago Titicaca (shared with Bolivia) - 8,030 sq km<br>
 
 **Major rivers (by length in km)**<br>
 Amazon river source (shared with Brazil [m]) - 6,400 km<br><strong>note</strong> – [s] after country name indicates river source; [m] after country name indicates river mouth<br>
@@ -306,7 +306,7 @@ _municipal solid waste recycled annually_: 334,268 tons (2012 est.)<br>
 _percent of municipal solid waste recycled_: 4% (2012 est.)<br>
 
 **Major lakes (area sq km)**<br>
-_Fresh water lake(s)_: Lago Titicaca (shared with Bolivia) - 8,030 sq km<br>
+_fresh water lake(s)_: Lago Titicaca (shared with Bolivia) - 8,030 sq km<br>
 
 **Major rivers (by length in km)**<br>
 Amazon river source (shared with Brazil [m]) - 6,400 km<br><strong>note</strong> – [s] after country name indicates river source; [m] after country name indicates river mouth<br>
@@ -609,8 +609,8 @@ _proven reserves_: 102 million metric tons (2019 est.)<br>
 **Petroleum**<br>
 _total petroleum production_: 122,500 bbl/day (2021 est.)<br>
 _refined petroleum consumption_: 265,500 bbl/day (2019 est.)<br>
-_crude oil and lease condensate exports_: 6,500 barrels/day (2018 est.)<br>
-_crude oil and lease condensate imports_: 112,900 barrels/day (2018 est.)<br>
+_crude oil and lease condensate exports_: 6,500 bbl/day (2018 est.)<br>
+_crude oil and lease condensate imports_: 112,900 bbl/day (2018 est.)<br>
 _crude oil estimated reserves_: 858.9 million barrels (2021 est.)<br>
 
 **Refined petroleum products - production**<br>
@@ -649,7 +649,7 @@ _total subscriptions_: 44 million (2020 est.)<br>
 _subscriptions per 100 inhabitants_: 133 (2020 est.)<br>
 
 **Telecommunication systems**<br>
-_general assessment_: after suffering a sharp retraction in the number of subscriptions and revenue during 2020 due to the pandemic, Peru&rsquo;s telecom sector managed to stage a small recovery in the first half of 2021; it will likely be two to three years before penetration rates return to the peak levels last seen in 2018; this is especially true given the overwhelming influence of mobile on Peru&rsquo;s telecommunications market, which now commands almost 95% of all connections; Peru&rsquo;s fixed-line teledensity continued its slow dropping below 7% at the end of 2021; investment in network infrastructure is mainly focused on rolling out fiber cable for fixed broadband services in (mainly) urban areas; fixed broadband services inched higher to reach 8.4% at the end of 2020, a positive result that reflected the shift to working from home during enforced lock downs at the start of the year; yet Peru has a relatively low level of computer use, and prices for fixed broadband services are among the highest in Latin America; the overwhelmingly preferred internet access platform will remain the smartphone, with a further 8.6% growth in the number of mobile broadband subscriptions expected in 2021; one drawback to success in the mobile broadband market was the decision in January 2021 by Google&rsquo;s parent company Alphabet to shut down Project Loon; this global endeavor involved the use of high-altitude balloons to provide internet access to remote, under served areas around the world; in Peru, Loon had signed a deal with Telef&oacute;nica to provide internet services in areas of the Amazon rain forest as part of the Telef&oacute;nica/Facebook &lsquo;Internet para Todos&rsquo; (IPT) project launched in 2018; Alphabet was unable to make the venture financially sustainable. (2021)<br>
+_general assessment_: after suffering a sharp retraction in the number of subscriptions and revenue during 2020 due to the pandemic, Peru&rsquo;s telecom sector managed to stage a small recovery in the first half of 2021; it will likely be two to three years before penetration rates return to the peak levels last seen in 2018; this is especially true given the overwhelming influence of mobile on Peru&rsquo;s telecommunications market, which now commands almost 95% of all connections; Peru&rsquo;s fixed-line teledensity continued its slow dropping below 7% at the end of 2021; investment in network infrastructure is mainly focused on rolling out fiber cable for fixed broadband services in (mainly) urban areas; fixed broadband services inched higher to reach 8.4% at the end of 2020, a positive result that reflected the shift to working from home during enforced lock downs at the start of the year; yet Peru has a relatively low level of computer use, and prices for fixed broadband services are among the highest in Latin America; the overwhelmingly preferred internet access platform will remain the smartphone, with a further 8.6% growth in the number of mobile broadband subscriptions expected in 2021 (2021)<br>
 _domestic_: fixed-line teledensity is nearly 10 per 100 persons; mobile-cellular teledensity, spurred by competition among multiple providers, now nearly 124 telephones per 100 persons; nationwide microwave radio relay system and a domestic satellite system with 12 earth stations (2019)<br>
 _international_: country code - 51; landing points for the SAM-1, IGW, American Movil-Telxius, SAC&nbsp;and PAN-AM submarine cable systems that provide links to parts of Central and South America, the Caribbean, and US; satellite earth stations - 2 Intelsat (Atlantic Ocean) (2019)<br>
 <strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress toward 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>

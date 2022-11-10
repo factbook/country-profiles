@@ -567,8 +567,8 @@ _proven reserves_: 2 million metric tons (2019 est.)<br>
 **Petroleum**<br>
 _total petroleum production_: 2.026 million bbl/day (2021 est.)<br>
 _refined petroleum consumption_: 215,900 bbl/day (2019 est.)<br>
-_crude oil and lease condensate exports_: 1,242,500 barrels/day (2018 est.)<br>
-_crude oil and lease condensate imports_: 66,300 barrels/day (2018 est.)<br>
+_crude oil and lease condensate exports_: 1,242,500 bbl/day (2018 est.)<br>
+_crude oil and lease condensate imports_: 66,300 bbl/day (2018 est.)<br>
 _crude oil estimated reserves_: 8,122,200,000 barrels (2021 est.)<br>
 
 **Refined petroleum products - production**<br>
@@ -711,6 +711,6 @@ Norway is a member of NATO and was one of the original 12 countries to sign the 
 <p><em>Norway-Antarctica</em>: Norway asserts a territorial claim in Antarctica (Queen Maud Land and its continental shelf)</p> <p><em>Norway-Russia</em>: Russia amended its 2001 CLCS submission in 2015 and 2021, each time delineating the outer limits of its continental shelf further into the Arctic Ocean; Norway and Russia signed a comprehensive maritime boundary agreement in 2010, ending a dispute over an area of the Barents Sea by dividing the territory equally</p> <p><em>Norway-Sweden</em>: none identified</p> <p> </p> <p> </p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 15,542 (Syria), 11,965 (Eritrea) (mid-year 2021); 30,570 (Ukraine) (as of 25 October 2022)<br>
+_refugees (country of origin)_: 15,542 (Syria), 11,965 (Eritrea) (mid-year 2021); 30,989 (Ukraine) (as of 28 October 2022)<br>
 _stateless persons_: 4,154 (mid-year 2021)<br>
 

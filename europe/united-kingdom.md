@@ -363,7 +363,7 @@ _judge selection and term of office_: judge candidates selected by an independen
 _subordinate courts_: England and Wales: Court of Appeal (civil and criminal divisions); High Court; Crown Court; County Courts; Magistrates' Courts; Scotland: Court of Sessions; Sheriff Courts; High Court of Justiciary; tribunals; Northern Ireland: Court of Appeal in Northern Ireland; High Court; county courts; magistrates' courts; specialized tribunals<br>
 
 **Political parties and leaders**<br>
-Alliance Party (Northern Ireland) [Naomi LONG] <br>Conservative and Unionist Party [Liz TRUSS]<br>Democratic Unionist Party or DUP (Northern Ireland) [Jeffrey DONALDSON]<br>Green Party of England and Wales or Greens [Carla DENYER and Adrian RAMSAY]<br>Labor (Labour) Party [Sir Keir STARMER]<br>Liberal Democrats (Lib Dems) [Sir Ed DAVEY]<br>Party of Wales (Plaid Cymru) [Adam PRICE]<br>Scottish National Party or SNP [Nicola STURGEON]<br>Sinn Fein (Northern Ireland) [Mary Lou MCDONALD]<br>Social Democratic and Labor Party or SDLP (Northern Ireland) [Colum EASTWOOD]<br>UK Independence Party or UKIP [Neil HAMILTON]<br>Ulster Unionist Party or UUP (Northern Ireland) [Doug BEATTIE]<br>
+Alliance Party (Northern Ireland) [Naomi LONG] <br>Conservative and Unionist Party [Rishi SUNAK]<br>Democratic Unionist Party or DUP (Northern Ireland) [Jeffrey DONALDSON]<br>Green Party of England and Wales or Greens [Carla DENYER and Adrian RAMSAY]<br>Labor (Labour) Party [Sir Keir STARMER]<br>Liberal Democrats (Lib Dems) [Sir Ed DAVEY]<br>Party of Wales (Plaid Cymru) [Adam PRICE]<br>Scottish National Party or SNP [Nicola STURGEON]<br>Sinn Fein (Northern Ireland) [Mary Lou MCDONALD]<br>Social Democratic and Labor Party or SDLP (Northern Ireland) [Colum EASTWOOD]<br>UK Independence Party or UKIP [Neil HAMILTON]<br>Ulster Unionist Party or UUP (Northern Ireland) [Doug BEATTIE]<br>
 
 **International organization participation**<br>
 ADB (nonregional member), AfDB (nonregional member), Arctic Council (observer), Australia Group, BIS, C, CBSS (observer), CD, CDB, CE, CERN, EAPC, EBRD, ECB, EIB, EITI (implementing country), ESA, EU, FAO, FATF, G-5, G-7, G-8, G-10, G-20, IADB, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IEA, IFAD, IFC, IFRCS, IGAD (partners), IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, MINUSMA, MONUSCO, NATO, NEA, NSG, OAS (observer), OECD, OPCW, OSCE, Pacific Alliance (observer), Paris Club, PCA, PIF (partner), SELEC (observer), SICA (observer), UN, UNCTAD, UNESCO, UNFICYP, UNHCR, UNHRC, UNMISS, UNRWA, UN Security Council (permanent), UNSOM, UPU, Wassenaar Arrangement, WCO, WHO, WIPO, WMO, WTO, ZC<br>
@@ -578,8 +578,8 @@ _proven reserves_: 26 million metric tons (2019 est.)<br>
 **Petroleum**<br>
 _total petroleum production_: 890,400 bbl/day (2021 est.)<br>
 _refined petroleum consumption_: 1,578,100 bbl/day (2019 est.)<br>
-_crude oil and lease condensate exports_: 818,200 barrels/day (2018 est.)<br>
-_crude oil and lease condensate imports_: 891,700 barrels/day (2018 est.)<br>
+_crude oil and lease condensate exports_: 818,200 bbl/day (2018 est.)<br>
+_crude oil and lease condensate imports_: 891,700 bbl/day (2018 est.)<br>
 _crude oil estimated reserves_: 2.5 billion barrels (2021 est.)<br>
 
 **Refined petroleum products - production**<br>

@@ -64,8 +64,8 @@ _other_: 20.2% (2018 est.)<br>
 6,500 sq km (2012)<br>
 
 **Major lakes (area sq km)**<br>
-_Fresh water lake(s)_: Lake Constance (shared with Switzerland and Austria) - 540 sq km<br>
-_Salt water lake(s)_: Stettiner Haff/Zalew Szczecinski (shared with Poland) - 900 sq km<br>
+_fresh water lake(s)_: Lake Constance (shared with Switzerland and Austria) - 540 sq km<br>
+_salt water lake(s)_: Stettiner Haff/Zalew Szczecinski (shared with Poland) - 900 sq km<br>
 
 **Major rivers (by length in km)**<br>
 Danube river source (shared with Austria, Slovakia, Czechia, Hungary, Croatia, Serbia, Bulgaria, Ukraine, Moldova, and Romania [m]) - 2,888 km; Elbe river mouth (shared with Czechia [s]) - 1,252 km; Rhine  (shared with Switzerland [s], France, and Netherlands [m]) - 1,233 km<br><strong>note</strong> – [s] after country name indicates river source; [m] after country name indicates river mouth<br>
@@ -287,8 +287,8 @@ _municipal solid waste recycled annually_: 24,415,302 tons (2015 est.)<br>
 _percent of municipal solid waste recycled_: 47.8% (2015 est.)<br>
 
 **Major lakes (area sq km)**<br>
-_Fresh water lake(s)_: Lake Constance (shared with Switzerland and Austria) - 540 sq km<br>
-_Salt water lake(s)_: Stettiner Haff/Zalew Szczecinski (shared with Poland) - 900 sq km<br>
+_fresh water lake(s)_: Lake Constance (shared with Switzerland and Austria) - 540 sq km<br>
+_salt water lake(s)_: Stettiner Haff/Zalew Szczecinski (shared with Poland) - 900 sq km<br>
 
 **Major rivers (by length in km)**<br>
 Danube river source (shared with Austria, Slovakia, Czechia, Hungary, Croatia, Serbia, Bulgaria, Ukraine, Moldova, and Romania [m]) - 2,888 km; Elbe river mouth (shared with Czechia [s]) - 1,252 km; Rhine  (shared with Switzerland [s], France, and Netherlands [m]) - 1,233 km<br><strong>note</strong> – [s] after country name indicates river source; [m] after country name indicates river mouth<br>
@@ -586,8 +586,8 @@ _proven reserves_: 35.9 billion metric tons (2019 est.)<br>
 **Petroleum**<br>
 _total petroleum production_: 135,000 bbl/day (2021 est.)<br>
 _refined petroleum consumption_: 2,346,500 bbl/day (2019 est.)<br>
-_crude oil and lease condensate exports_: 0 barrels/day (2018 est.)<br>
-_crude oil and lease condensate imports_: 1,720,600 barrels/day (2018 est.)<br>
+_crude oil and lease condensate exports_: 0 bbl/day (2018 est.)<br>
+_crude oil and lease condensate imports_: 1,720,600 bbl/day (2018 est.)<br>
 _crude oil estimated reserves_: 115.2 million barrels (2021 est.)<br>
 
 **Refined petroleum products - production**<br>
@@ -746,7 +746,7 @@ Islamic Revolutionary Guard Corps/Qods Force; Islamic State of Iraq and ash-Sham
 <p>none</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 616,325 (Syria), 152,677 (Afghanistan), 147,400 (Iraq), 62,152 (Eritrea), 45,704 (Iran), 34,465 (Turkey), 29,137 (Somalia), 9,329 (Russia), 9,323 (Nigeria), 8,600 (Pakistan), 7,503 (Serbia and Kosovo), 6,057 (Ethiopia) (mid-year 2021); 1,002,668 (Ukraine) (as of 8 October 2022)<br>
+_refugees (country of origin)_: 616,325 (Syria), 152,677 (Afghanistan), 147,400 (Iraq), 62,152 (Eritrea), 45,704 (Iran), 34,465 (Turkey), 29,137 (Somalia), 9,329 (Russia), 9,323 (Nigeria), 8,600 (Pakistan), 7,503 (Serbia and Kosovo), 6,057 (Ethiopia) (mid-year 2021); 1,008,935 (Ukraine) (as of 1 November 2022)<br>
 _stateless persons_: 26,980 (mid-year 2021)<br>
 
 **Illicit drugs**<br>

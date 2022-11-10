@@ -585,8 +585,8 @@ _proven reserves_: 0 metric tons (2019 est.)<br>
 **Petroleum**<br>
 _total petroleum production_: 2,000 bbl/day (2021 est.)<br>
 _refined petroleum consumption_: 56,900 bbl/day (2019 est.)<br>
-_crude oil and lease condensate exports_: 0 barrels/day (2018 est.)<br>
-_crude oil and lease condensate imports_: 0 barrels/day (2018 est.)<br>
+_crude oil and lease condensate exports_: 0 bbl/day (2018 est.)<br>
+_crude oil and lease condensate imports_: 0 bbl/day (2018 est.)<br>
 _crude oil estimated reserves_: 0 barrels (2021 est.)<br>
 
 **Refined petroleum products - production**<br>
@@ -625,7 +625,7 @@ _total subscriptions_: 7,865,050 (2020 est.)<br>
 _subscriptions per 100 inhabitants_: 110 (2020 est.)<br>
 
 **Telecommunication systems**<br>
-_general assessment_: limited progress on structural reform and deficient infrastructure of the landlocked country are obstacles to telecom platform; monopolized fixed-line service; effective competition in mobile market, serving 96% of population through LTE; deployment of fiber; South Korean investment in education centers; operator enabled 109 free Internet points across the country and is looking to expand to 430 points in 2022; Inter-American Development Bank loan supports modernization within regulatory framework; dependent on neighboring countries for access to submarine cables; major importer of broadcasting equipment from the USA (2022)<br>
+_general assessment_: limited progress on structural reform and deficient infrastructure of the landlocked country are obstacles to the telecom platform; effective competition in mobile market, serving 96% of population through LTE; deployment of fiber; operator enabled 109 free Internet points across the country and is looking to expand to 430 points in 2022; dependent on neighboring countries for access to submarine cables (2022)<br>
 _domestic_: deficiencies in provision of fixed-line service have resulted in expansion of mobile-cellular services fostered by competition among multiple providers; Internet market also open to competition; fixed-line just over 3 per 100 and mobile-cellular just over 105 per 100 of the population (2020)<br>
 _international_: country code - 595; Paraguay's landlocked position means they must depend on neighbors for interconnection with submarine cable networks, making it cost more for broadband services; satellite earth station - 1 Intelsat (Atlantic Ocean) (2019)<br>
 <strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress toward 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>

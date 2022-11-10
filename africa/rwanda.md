@@ -62,7 +62,7 @@ _other_: 7.5% (2018 est.)<br>
 96 sq km (2012)<br>
 
 **Major lakes (area sq km)**<br>
-_Fresh water lake(s)_: Lake Kivu (shared with Democratic Republic of Congo) - 2,220 sq km<br>
+_fresh water lake(s)_: Lake Kivu (shared with Democratic Republic of Congo) - 2,220 sq km<br>
 
 **Major rivers (by length in km)**<br>
 Nile river source (shared with Tanzania, Uganda, South Sudan, Sudan, and Egypt [m]) - 6,650 km<br><strong>note</strong> – [s] after country name indicates river source; [m] after country name indicates river mouth<br>
@@ -293,7 +293,7 @@ _animal contact diseases_: rabies<br>
 _municipal solid waste generated annually_: 4,384,969 tons (2016 est.)<br>
 
 **Major lakes (area sq km)**<br>
-_Fresh water lake(s)_: Lake Kivu (shared with Democratic Republic of Congo) - 2,220 sq km<br>
+_fresh water lake(s)_: Lake Kivu (shared with Democratic Republic of Congo) - 2,220 sq km<br>
 
 **Major rivers (by length in km)**<br>
 Nile river source (shared with Tanzania, Uganda, South Sudan, Sudan, and Egypt [m]) - 6,650 km<br><strong>note</strong> – [s] after country name indicates river source; [m] after country name indicates river mouth<br>
@@ -581,8 +581,8 @@ _proven reserves_: 0 metric tons (2019 est.)<br>
 **Petroleum**<br>
 _total petroleum production_: 0 bbl/day (2021 est.)<br>
 _refined petroleum consumption_: 8,300 bbl/day (2019 est.)<br>
-_crude oil and lease condensate exports_: 0 barrels/day (2018 est.)<br>
-_crude oil and lease condensate imports_: 0 barrels/day (2018 est.)<br>
+_crude oil and lease condensate exports_: 0 bbl/day (2018 est.)<br>
+_crude oil and lease condensate imports_: 0 bbl/day (2018 est.)<br>
 _crude oil estimated reserves_: 0 barrels (2021 est.)<br>
 
 **Refined petroleum products - production**<br>
@@ -620,7 +620,7 @@ _total subscriptions_: 10,614,408 (2020 est.)<br>
 _subscriptions per 100 inhabitants_: 82 (2020 est.)<br>
 
 **Telecommunication systems**<br>
-_general assessment_: Rwanda was slow to liberalize the mobile sector, allowing MTN a monopoly until 2006 when the fixed-line incumbent, Rwandatel (since acquired by Liquid Intelligence Technologies) became the second mobile operator; there was effective competition among three operators after Tigo launched services in 2009; the acquisition of Tigo by Airtel saw a significant consolidation in the market, and the cancellation of Rwandatel&rsquo;s license in 2011 resulted in the market becoming a duopoly between the dominant operator MTN and Airtel; the fixed broadband sector has suffered from limited fixed-line infrastructure and high prices; operators are rolling out national backbone networks which also allow them to connect to the international submarine cables on Africa&rsquo;s east coast; these cables gave the entire region greater internet bandwidth and ended the dependency on satellites; Liquid Technologies has continued to expand its FttP services across Kigali and a number of other towns, while the country also has a new cable link with Tanzania, and via Tanzania&rsquo;s national broadband backbone it has gained connectivity to the networks of several other countries in the region; the number of subscribers on LTE infrastructure has increased sharply, helped by national LTE coverage achieved in mid-2018; mobile remains the dominant platform for voice and data services; the regulator noted that the number of mobile subscribers increased 2.7% in 2021, year-on-year; there was a slight fall in the beginning of 2022, though this decline was entirely from Airtel. (2022)<br>
+_general assessment_: Rwanda was slow to liberalize the mobile sector; there was effective competition among three operators; the fixed broadband sector has suffered from limited fixed-line infrastructure and high prices; operators are rolling out national backbone networks which also allow them to connect to the international submarine cables on Africa&rsquo;s east coast; these cables gave the entire region greater internet bandwidth and ended the dependency on satellites; while the country also has a new cable link with Tanzania, and via Tanzania&rsquo;s national broadband backbone it has gained connectivity to the networks of several other countries in the region; the number of subscribers on LTE infrastructure has increased sharply, helped by national LTE coverage achieved in mid-2018; mobile remains the dominant platform for voice and data services; the regulator noted that the number of mobile subscribers increased 2.7% in 2021, year-on-year; there was a slight fall in the beginning of 2022 (2022)<br>
 _domestic_: the capital, Kigali, is connected to provincial centers by microwave radio relay, and recently by cellular telephone service; much of the network depends on wire and HF radiotelephone; fixed-line less than 1 per 100 and mobile-cellular telephone density has increased to nearly 82 telephones per 100 persons (2020)<br>
 _international_: country code - 250; international connections employ microwave radio relay to neighboring countries and satellite communications to more distant countries; satellite earth stations - 1 Intelsat (Indian Ocean) in Kigali (includes telex and telefax service); international submarine fiber-optic cables on the African east coast has brought international bandwidth and lessened the&nbsp;dependency on satellites<br>
 <strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress toward 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>
@@ -699,7 +699,7 @@ the RDF's inventory includes mostly Russian, Soviet-era, and older Western - lar
 2,450 (plus about 500 police) Central African Republic (approximately 1,700 for MINUSCA; an additional 750 troops sent separately under a bilateral agreement with CAR in August, 2021); up to 2,000 Mozambique (deployed mid-2021 under a bi-lateral agreement to assist with combating insurgency; includes both military and police forces); 2,600 (plus about 400 police) South Sudan (UNMISS) (2022)<br>
 
 **Military - note**<br>
-<p>the Rwandan Armed Forces (FAR) were established following independence in 1962; after the 1990-1994 civil war and genocide, the victorious Tutsi-dominated Rwandan Patriotic Front's military wing, the Rwandan Patriotic Army (RPA), became the country's military force; the RPA participated in the First (1996-1997) and Second (1998-2003) Congolese Wars; the RPA was renamed the Rwanda Defense Force (RDF) in 2003, by which time it had assumed a more national character with the inclusion of many former Hutu officers as well as newly recruited soldiers<br><br>the RDF is widely regarded as one of Africa’s best trained and most capable and professional military forces; as of 2022, over 7,000 RDF and police personnel were deployed on missions in Africa</p><br>
+since 2021, Rwanda has deployed troops to the border with the Democratic Republic of the Congo (DRC) to combat the rebel Democratic Forces for the Liberation of Rwanda (FDLR); it has also been accused by the DRC Government of providing material support to the March 23 Movement (M23, aka Congolese Revolutionary Army) rebel group, which as of 2022 was fighting with DRC troops and UN peacekeeping forces<br><br>the Rwandan Armed Forces (FAR) were established following independence in 1962; after the 1990-1994 civil war and genocide, the victorious Tutsi-dominated Rwandan Patriotic Front's military wing, the Rwandan Patriotic Army (RPA), became the country's military force; the RPA participated in the First (1996-1997) and Second (1998-2003) Congolese Wars; the RPA was renamed the Rwanda Defense Force (RDF) in 2003, by which time it had assumed a more national character with the inclusion of many former Hutu officers as well as newly recruited soldiers<br><br>the RDF is widely regarded as one of Africa’s best trained and most capable and professional military forces; as of 2022, over 7,000 RDF and police personnel were deployed on missions in Africa (2022)<br>
 
 ## Transnational Issues
 

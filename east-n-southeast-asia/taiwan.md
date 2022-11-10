@@ -485,8 +485,8 @@ _proven reserves_: 1 million metric tons (2019 est.)<br>
 **Petroleum**<br>
 _total petroleum production_: 800 bbl/day (2021 est.)<br>
 _refined petroleum consumption_: 998,100 bbl/day (2019 est.)<br>
-_crude oil and lease condensate exports_: 0 barrels/day (2018 est.)<br>
-_crude oil and lease condensate imports_: 886,200 barrels/day (2018 est.)<br>
+_crude oil and lease condensate exports_: 0 bbl/day (2018 est.)<br>
+_crude oil and lease condensate imports_: 886,200 bbl/day (2018 est.)<br>
 _crude oil estimated reserves_: 2.4 million barrels (2021 est.)<br>
 
 **Refined petroleum products - production**<br>
@@ -612,7 +612,7 @@ approximately 170,000 active duty troops (90,000 Army; 40,000 Navy, including ap
 <strong>note: </strong>Taiwan trains about 120,000 reservists annually, but in 2022 announced intentions to increase that figure to 260,000<br>
 
 **Military equipment inventories and acquisitions**<br>
-the Taiwan military is armed mostly with second-hand weapons and equipment provided by the US; since 2010, the US continued to be the largest provider of arms; Taiwan also has a domestic defense industry capable of building and upgrading a range of weapons systems, including surface ships and submarines (2022)<br>
+the Taiwan military is armed mostly with second-hand weapons and equipment provided by the US; since 2010, the US has continued to be the largest provider of arms; Taiwan also has a domestic defense industry capable of building and upgrading a range of weapons systems, including surface ships and submarines (2022)<br>
 
 **Military service age and obligation**<br>
 starting with those born in 1994, men 18-36 years of age may volunteer for military service or must complete 4 months of compulsory military training (5 weeks of basic training followed by 11 weeks of specialized training with field units); civil service can be substituted for military service in some cases; men born before December 1993 are required to complete compulsory service for 12 months (military or civil); men are subject to training recalls up to four times for periods not to exceed 20 days for 8 years after discharge; women may enlist but are restricted to noncombat roles in most cases; as part of its transition to an all-volunteer military, the last cohort of 12-month military conscripts completed their service obligations in December 2018 (2022)<br>

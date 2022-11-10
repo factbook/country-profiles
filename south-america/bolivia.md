@@ -62,8 +62,8 @@ _other_: 13.2% (2018 est.)<br>
 3,000 sq km (2012)<br>
 
 **Major lakes (area sq km)**<br>
-_Fresh water lake(s)_: Lago Titicaca (shared with Peru) - 8,030 sq km<br>
-_Salt water lake(s)_: Lago Poopo - 1,340 sq km<br>
+_fresh water lake(s)_: Lago Titicaca (shared with Peru) - 8,030 sq km<br>
+_salt water lake(s)_: Lago Poopo - 1,340 sq km<br>
 
 **Major watersheds (area sq km)**<br>
 Atlantic Ocean drainage: Amazon (6,145,186 sq km), Paran&aacute; (2,582,704 sq km)<br>
@@ -297,8 +297,8 @@ _municipal solid waste recycled annually_: 268,727 tons (2015 est.)<br>
 _percent of municipal solid waste recycled_: 12.1% (2015 est.)<br>
 
 **Major lakes (area sq km)**<br>
-_Fresh water lake(s)_: Lago Titicaca (shared with Peru) - 8,030 sq km<br>
-_Salt water lake(s)_: Lago Poopo - 1,340 sq km<br>
+_fresh water lake(s)_: Lago Titicaca (shared with Peru) - 8,030 sq km<br>
+_salt water lake(s)_: Lago Poopo - 1,340 sq km<br>
 
 **Major watersheds (area sq km)**<br>
 Atlantic Ocean drainage: Amazon (6,145,186 sq km), Paran&aacute; (2,582,704 sq km)<br>
@@ -598,8 +598,8 @@ _proven reserves_: 1 million metric tons (2019 est.)<br>
 **Petroleum**<br>
 _total petroleum production_: 65,400 bbl/day (2021 est.)<br>
 _refined petroleum consumption_: 87,800 bbl/day (2019 est.)<br>
-_crude oil and lease condensate exports_: 0 barrels/day (2018 est.)<br>
-_crude oil and lease condensate imports_: 0 barrels/day (2018 est.)<br>
+_crude oil and lease condensate exports_: 0 bbl/day (2018 est.)<br>
+_crude oil and lease condensate imports_: 0 bbl/day (2018 est.)<br>
 _crude oil estimated reserves_: 240.9 million barrels (2021 est.)<br>
 
 **Refined petroleum products - production**<br>
@@ -638,7 +638,7 @@ _total subscriptions_: 11,804,343 (2020 est.)<br>
 _subscriptions per 100 inhabitants_: 101 (2020 est.)<br>
 
 **Telecommunication systems**<br>
-_general assessment_: the structure of Bolivia’s fixed telecom market is different from most other countries; local services are primarily provided by 15 telecom cooperatives; these are non-profit-making companies privately owned and controlled by their users; since the market was liberalized, the cooperatives have also provided long-distance telephony, while several also offer broadband and pay TV service; they have invested in network upgrades in a bid to improve services for customers, and to expand their footprints; Bolivia has a multi-carrier system wherein consumers can choose a long-distance carrier for each call by dialing the carrier’s prefix; several operators have also adopted fixed-wireless technologies, and some rent fiber-optic capacity; the fixed broadband services remain expensive, though the cost of bandwidth is only a fraction of what it was only a few years ago; services are still unavailable in many rural and remote areas, and even in some of the major urban areas; being a landlocked country, Bolivia had no direct access to submarine cable networks, and relies on satellite services or terrestrial links across neighboring countries; in September 2020 a new cable running via Peru, has increased capacity and contributed to a dramatic fall in end-user prices; fixed broadband services are fast migrating from DSL to fiber, while there are also cable broadband services available in some major cities; in 2007 the focus was on providing telecom services in rural areas under a project known as ‘Territory with Total Coverage’; this project aims to increase telecom coverage through mobile rather than through fixed networks; <br>Bolivia has almost twenty times as many mobile phone subscribers as fixed line connections, and the trend towards fixed-mobile substitution continues; all the mobile companies offer 3G and LTE services; due to the poor quality, high cost, and poor reach of DSL, mobile networks have become the principal platform for voice services and data access; by early 2021 companies’ networks reached more than 95% of the population; about 92% of all internet accesses are via smartphones (2021)<br>
+_general assessment_: the structure of Bolivia&rsquo;s fixed telecom market is different from most other countries; local services are primarily provided by 15 telecom cooperatives; these are non-profit-making companies privately owned and controlled by their users; since the market was liberalized, the cooperatives have also provided long-distance telephony, while several also offer broadband and pay TV service; they have invested in network upgrades in a bid to improve services for customers, and to expand their footprints; Bolivia has a multi-carrier system wherein consumers can choose a long-distance carrier for each call by dialing the carrier&rsquo;s prefix; several operators have also adopted fixed-wireless technologies, and some rent fiber-optic capacity; the fixed broadband services remain expensive, though the cost of bandwidth is only a fraction of what it was only a few years ago; services are still unavailable in many rural and remote areas, and even in some of the major urban areas; being a landlocked country, Bolivia had no direct access to submarine cable networks, and relies on satellite services or terrestrial links across neighboring countries; in September 2020 a new cable running via Peru, has increased capacity and contributed to a dramatic fall in end-user prices; fixed broadband services are fast migrating from DSL to fiber, while there are also cable broadband services available in some major cities; in 2007 the focus was on providing telecom services in rural areas under a project known as &lsquo;Territory with Total Coverage&rsquo;; this project aims to increase telecom coverage through mobile rather than through fixed networks; Bolivia has almost twenty times as many mobile phone subscribers as fixed line connections, and the trend towards fixed-mobile substitution continues; all the mobile companies offer 3G and LTE services; due to the poor quality, high cost, and poor reach of DSL, mobile networks have become the principal platform for voice services and data access; by early 2021 companies&rsquo; networks reached more than 95% of the population; about 92% of all internet accesses are via smartphones (2021)<br>
 _domestic_: 5 per 100 fixed-line, mobile-cellular telephone use expanding rapidly and teledensity stands at 101 per 100 persons; most telephones are concentrated in La Paz, Santa Cruz, and other capital cities (2020)<br>
 _international_: country code - 591; Bolivia has no direct access to submarine cable networks and must therefore connect to the rest of the world either via satellite or through terrestrial links across neighboring countries; satellite earth station - 1 Intelsat (Atlantic Ocean) (2019)<br>
 <strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress toward 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>

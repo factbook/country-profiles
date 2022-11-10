@@ -539,8 +539,8 @@ _proven reserves_: 0 metric tons (2019 est.)<br>
 **Petroleum**<br>
 _total petroleum production_: 0 bbl/day (2021 est.)<br>
 _refined petroleum consumption_: 2,200 bbl/day (2019 est.)<br>
-_crude oil and lease condensate exports_: 0 barrels/day (2018 est.)<br>
-_crude oil and lease condensate imports_: 0 barrels/day (2018 est.)<br>
+_crude oil and lease condensate exports_: 0 bbl/day (2018 est.)<br>
+_crude oil and lease condensate imports_: 0 bbl/day (2018 est.)<br>
 _crude oil estimated reserves_: 0 barrels (2021 est.)<br>
 
 **Refined petroleum products - production**<br>
@@ -580,7 +580,7 @@ _subscriptions per 100 inhabitants_: 90 (2020 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: Qatar launched a special program for the construction of a wireless network to inter connect the 3 islands of the archipelago; telephone service limited to the islands' few towns (2020)<br>
-_domestic_: fixed-line connections less than 1 per 100 persons; mobile-cellular usage about 54 per 100 persons; 2 companies provide domestic and international mobile service and wireless data (2020)<br>
+_domestic_: fixed-line connections less than 1 per 100 persons; mobile-cellular usage about 90 per 100 persons; 2 companies provide domestic and international mobile service and wireless data (2020)<br>
 _international_: country code - 269; landing point for the EASSy, Comoros Domestic Cable System, Avassa, and FLY-LION3&nbsp;fiber-optic submarine cable system connecting East Africa with Europe; HF radiotelephone communications to Madagascar and Reunion (2019)<br>
 <strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress toward 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>
 

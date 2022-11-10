@@ -65,8 +65,8 @@ _other_: 33.42% (2018 est.)<br>
 25,460 sq km (2014)<br>
 
 **Major lakes (area sq km)**<br>
-_Fresh water lake(s)_: Lake Alexandrina - 570 sq km<br>
-_Salt water lake(s)_: Lake Eyre - 9,690 sq km; Lake Torrens (ephemeral) - 5,780 sq km; Lake Gairdner - 4,470 sq km; Lake Mackay (ephemeral) - 3,494 sq km; Lake Frome - 2,410 sq km; Lake Amadeus (ephemeral) - 1,032 sq km<br>
+_fresh water lake(s)_: Lake Alexandrina - 570 sq km<br>
+_salt water lake(s)_: Lake Eyre - 9,690 sq km; Lake Torrens (ephemeral) - 5,780 sq km; Lake Gairdner - 4,470 sq km; Lake Mackay (ephemeral) - 3,494 sq km; Lake Frome - 2,410 sq km; Lake Amadeus (ephemeral) - 1,032 sq km<br>
 
 **Major rivers (by length in km)**<br>
 River Murray - 2,508 km; Darling River - 1,545 km; Murrumbidgee River - 1,485 km; Lachlan River - 1,339 km; Cooper Creek - 1,113 km; Flinders River - 1,004 km<br>
@@ -293,8 +293,8 @@ _municipal solid waste recycled annually_: 5,618,245 tons (2015 est.)<br>
 _percent of municipal solid waste recycled_: 42.1% (2015 est.)<br>
 
 **Major lakes (area sq km)**<br>
-_Fresh water lake(s)_: Lake Alexandrina - 570 sq km<br>
-_Salt water lake(s)_: Lake Eyre - 9,690 sq km; Lake Torrens (ephemeral) - 5,780 sq km; Lake Gairdner - 4,470 sq km; Lake Mackay (ephemeral) - 3,494 sq km; Lake Frome - 2,410 sq km; Lake Amadeus (ephemeral) - 1,032 sq km<br>
+_fresh water lake(s)_: Lake Alexandrina - 570 sq km<br>
+_salt water lake(s)_: Lake Eyre - 9,690 sq km; Lake Torrens (ephemeral) - 5,780 sq km; Lake Gairdner - 4,470 sq km; Lake Mackay (ephemeral) - 3,494 sq km; Lake Frome - 2,410 sq km; Lake Amadeus (ephemeral) - 1,032 sq km<br>
 
 **Major rivers (by length in km)**<br>
 River Murray - 2,508 km; Darling River - 1,545 km; Murrumbidgee River - 1,485 km; Lachlan River - 1,339 km; Cooper Creek - 1,113 km; Flinders River - 1,004 km<br>
@@ -589,8 +589,8 @@ _proven reserves_: 149.079 billion metric tons (2019 est.)<br>
 **Petroleum**<br>
 _total petroleum production_: 442,500 bbl/day (2021 est.)<br>
 _refined petroleum consumption_: 1,174,100 bbl/day (2019 est.)<br>
-_crude oil and lease condensate exports_: 197,700 barrels/day (2018 est.)<br>
-_crude oil and lease condensate imports_: 356,900 barrels/day (2018 est.)<br>
+_crude oil and lease condensate exports_: 197,700 bbl/day (2018 est.)<br>
+_crude oil and lease condensate imports_: 356,900 bbl/day (2018 est.)<br>
 _crude oil estimated reserves_: 2.446 billion barrels (2021 est.)<br>
 
 **Refined petroleum products - production**<br>
@@ -630,7 +630,7 @@ _subscriptions per 100 inhabitants_: 108 (2020 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: the Australian telecom market since 2020 has been impacted by the pandemic, which forced many people to school and work from home and thus adopt fixed-line broadband services; internet traffic, both fixed and mobile, increased substantially as a result; in the fixed sector, there is an ongoing migration from copper-based platforms to fiber; the extension of fixed wireless access will mean that up to 120,000 premises currently dependent on satellite broadband will be able to access 5G-based fixed services; the fixed-line market has been falling steadily over the past five years; in the Australian fixed broadband market, there is a dynamic shift among customers to fiber networks; the DSL sector is steadily shrinking while subscribers on HFC infrastructure will continue to be provided by existing cable, with a steady migration to full fiber connectivity (2022)<br>
-_domestic_: roughly 24 per 100 fixed-line and 108 per 100 mobile-cellular; more subscribers to mobile services than there are people; 90% of all mobile device sales are now smartphones, growth in mobile traffic brisk (2020)<br>
+_domestic_: 24 per 100 fixed-line telephone subscriptions and 108 per 100 mobile-cellular; more subscribers to mobile services than there are people; 90% of all mobile device sales are now smartphones, growth in mobile traffic brisk (2020)<br>
 _international_: country code - 61; landing points for&nbsp;more than&nbsp;20 submarine cables including: the SeaMeWe-3 optical telecommunications submarine cable with links to Asia, the Middle East, and Europe; the INDIGO-Central, INDIGO West and ASC, North West Cable System, Australia-Papua New Guinea cable, CSCS, PPC-1, Gondwana-1, SCCN, Hawaiki, TGA, Basslink, Bass Strait-1, Bass Strait-2, JGA-S, with links to other Australian cities, New Zealand&nbsp;and many countries in southeast Asia, US and Europe; the H2 Cable, AJC, Telstra Endeavor, Southern Cross NEXT with links to Japan, Hong Kong, and other Pacific Ocean countries as well as the US; satellite earth stations - 10 Intelsat (4 Indian Ocean and 6 Pacific Ocean), 2 Inmarsat, 2 Globalstar, 5 other (2019)<br>
 <strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress toward 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>
 

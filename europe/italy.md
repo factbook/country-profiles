@@ -352,7 +352,7 @@ _election results_: <em>2022:</em> Sergio MATTARELLA (independent) reelected pre
 **Legislative branch**<br>
 _description_: bicameral Parliament or Parlamento consists of:<br>Senate or Senato della Repubblica (320 seats; 116 members directly elected in single-seat constituencies by simple majority vote, 193 members in multi-seat constituencies and 6 members in multi-seat constituencies abroad directly elected by party-list proportional representation vote to serve 5-year terms and 5 ex-officio members appointed by the president of the Republic to serve for life)<br>Chamber of Deputies or Camera dei Deputati (630 seats; 629 members directly elected in single- and multi-seat constituencies by proportional representation vote and 1 member from Valle d'Aosta elected by simple majority vote; members serve 5-year terms)<br>
 _elections_: <br>Senate - last held on 25 September 2022<br>Chamber of Deputies - last held on 25 September 2022; note - snap elections were called when Prime Minister DRAGHI resigned and the parliament was dissolved on 21 July 2022 (next to be held 30 September 2027)<br>
-_election results_: <br>Senate - percent of vote by party - NA; seats by party - center-right coalition (FdI 65, Lega 30, FI 18), center-left coalition (PD 40, AVS 3), M5S 28, Action-Italia Viva 9, SVP 2, MAIE 1, ScN 1; composition (as of March 2022) - men 208, women 112, percent of women 35%<br>Chamber of Deputies - percent of vote by party - NA; seats by party - center-right coalition (FdI 119, Lega 66, FI 45), center-left coalition (PD 69, AVS 12), M5S 52, Action-Italia Viva 21, SVP 3, MAIE 1, ScN 1; composition (as of September 2021) - men 401, women 229, percent of women 36.4%; note - total Parliament percent of women 35.9%<br>
+_election results_: <br>Senate - percent of vote by party - NA; seats by party - center-right coalition (FdI 65, Lega 30, FI 18), center-left coalition (PD 40, AVS 3), M5S 28, Action-Italia Viva 9, SVP 2, MAIE 1, ScN 1; composition (as of September 2022) - men 131, women 69, percent of women 34.5%<br>Chamber of Deputies - percent of vote by party - NA; seats by party - center-right coalition (FdI 119, Lega 66, FI 45), center-left coalition (PD 69, AVS 12), M5S 52, Action-Italia Viva 21, SVP 3, MAIE 1, ScN 1; composition (as of September 2022) - men 271, women 129, percent of women 32.3%; note - total Parliament percent of women 33%<br>
 <strong>note</strong>: in October 2019, Italy's Parliament voted to reduce the number of Senate seats from 315 to 200 and the number of Chamber of Deputies seats from 630 to 400; a referendum to reduce the membership of Parliament held on 20-21 September 2020 was approved, effective for the September 2022 snap election<br>
 
 **Judicial branch**<br>
@@ -577,8 +577,8 @@ _proven reserves_: 17 million metric tons (2019 est.)<br>
 **Petroleum**<br>
 _total petroleum production_: 107,700 bbl/day (2021 est.)<br>
 _refined petroleum consumption_: 1,255,100 bbl/day (2019 est.)<br>
-_crude oil and lease condensate exports_: 10,100 barrels/day (2018 est.)<br>
-_crude oil and lease condensate imports_: 1.253 million barrels/day (2018 est.)<br>
+_crude oil and lease condensate exports_: 10,100 bbl/day (2018 est.)<br>
+_crude oil and lease condensate imports_: 1.253 million bbl/day (2018 est.)<br>
 _crude oil estimated reserves_: 497.9 million barrels (2021 est.)<br>
 
 **Refined petroleum products - production**<br>
@@ -735,7 +735,7 @@ Islamic State of Iraq and ash-Sham (ISIS)<br>
 <p>Italy's long coastline and developed economy entices tens of thousands of illegal immigrants from southeastern Europe and northern Africa</p> <p><em>Italy-Austria-Switzerland</em>: borders are shifting because glacier peaks that had served as a natural boundary are melting</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 19,441 (Nigeria), 15,337 (Pakistan), 12,962 (Afghanistan), 10,609 (Mali), 7,901 (Somalia), 5,845 (Gambia), 5,079 (Iraq) (mid-year 2021); 171,546 (Ukraine) (as of 19 October 2022)<br>
+_refugees (country of origin)_: 19,441 (Nigeria), 15,337 (Pakistan), 12,962 (Afghanistan), 10,609 (Mali), 7,901 (Somalia), 5,845 (Gambia), 5,079 (Iraq) (mid-year 2021); 171,546 (Ukraine) (as of 31 October 2022)<br>
 _stateless persons_: 3,000 (mid-year 2021)<br>
 <strong>note:</strong> 666,559 estimated refugee and migrant arrivals (January 2015-October 2022)<br>
 

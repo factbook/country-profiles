@@ -584,8 +584,8 @@ _proven reserves_: 0 metric tons (2019 est.)<br>
 **Petroleum**<br>
 _total petroleum production_: 12,200 bbl/day (2021 est.)<br>
 _refined petroleum consumption_: 71,500 bbl/day (2019 est.)<br>
-_crude oil and lease condensate exports_: 0 barrels/day (2018 est.)<br>
-_crude oil and lease condensate imports_: 65,200 barrels/day (2018 est.)<br>
+_crude oil and lease condensate exports_: 0 bbl/day (2018 est.)<br>
+_crude oil and lease condensate imports_: 65,200 bbl/day (2018 est.)<br>
 _crude oil estimated reserves_: 71 million barrels (2021 est.)<br>
 
 **Refined petroleum products - production**<br>
@@ -732,7 +732,7 @@ Croatia joined NATO in 2009<br>
 <p>dispute remains with Bosnia and Herzegovina over several small sections of the boundary related to maritime access that hinders ratification of the 1999 border agreement; since the breakup of Yugoslavia in the early 1990s, Croatia and Slovenia have each claimed sovereignty over Piranski Bay and four villages, and Slovenia has objected to Croatia's claim of an exclusive economic zone in the Adriatic Sea; in 2009, however Croatia and Slovenia signed a binding international arbitration agreement to define their disputed land and maritime borders, which led to Slovenia lifting its objections to Croatia joining the EU; Slovenia continues to impose a hard border Schengen regime with Croatia, which joined the EU in 2013 but has not yet fulfilled Schengen requirements</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 18,931 (Ukraine) (as of 25 October 2022)<br>
+_refugees (country of origin)_: 18,990 (Ukraine) (as of 1 November 2022)<br>
 _stateless persons_: 2,910 (mid-year 2021)<br>
 <strong>note: </strong>759,830 estimated refugee and migrant arrivals (January 2015-September 2022)<br>
 

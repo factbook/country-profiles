@@ -64,7 +64,7 @@ _other_: 23.8% (2018 est.)<br>
 1,640 sq km (2012)<br>
 
 **Major lakes (area sq km)**<br>
-_Fresh water lake(s)_: Vanern - 5,580 sq km; Vattern - 1,910 sq km; Malaren - 1,140 sq km<br>
+_fresh water lake(s)_: Vanern - 5,580 sq km; Vattern - 1,910 sq km; Malaren - 1,140 sq km<br>
 
 **Population distribution**<br>
 most Swedes live in the south where the climate is milder and there is better connectivity to mainland Europe; population clusters are found all along the Baltic coast in the east; the interior areas of the north remain sparsely populated<br>
@@ -280,7 +280,7 @@ _municipal solid waste recycled annually_: 1,416,835 tons (2015 est.)<br>
 _percent of municipal solid waste recycled_: 32.4% (2015 est.)<br>
 
 **Major lakes (area sq km)**<br>
-_Fresh water lake(s)_: Vanern - 5,580 sq km; Vattern - 1,910 sq km; Malaren - 1,140 sq km<br>
+_fresh water lake(s)_: Vanern - 5,580 sq km; Vattern - 1,910 sq km; Malaren - 1,140 sq km<br>
 
 **Total water withdrawal**<br>
 _municipal_: 955 million cubic meters (2017 est.)<br>
@@ -567,8 +567,8 @@ _proven reserves_: 1 million metric tons (2019 est.)<br>
 **Petroleum**<br>
 _total petroleum production_: 10,600 bbl/day (2021 est.)<br>
 _refined petroleum consumption_: 295,800 bbl/day (2019 est.)<br>
-_crude oil and lease condensate exports_: 0 barrels/day (2018 est.)<br>
-_crude oil and lease condensate imports_: 403,200 barrels/day (2018 est.)<br>
+_crude oil and lease condensate exports_: 0 bbl/day (2018 est.)<br>
+_crude oil and lease condensate imports_: 403,200 bbl/day (2018 est.)<br>
 _crude oil estimated reserves_: 0 barrels (2021 est.)<br>
 
 **Refined petroleum products - production**<br>
@@ -720,6 +720,6 @@ Islamic State of Iraq and ash-Sham (ISIS)<br>
 <p>none identified</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 114,995 (Syria), 28,744 (Afghanistan), 26,911 (Eritrea), 11,574 (Somalia), 11,153 (Iraq), 7,516 (Iran) (2020); 47,376 (Ukraine) (as of 25 October 2022)<br>
+_refugees (country of origin)_: 114,995 (Syria), 28,744 (Afghanistan), 26,911 (Eritrea), 11,574 (Somalia), 11,153 (Iraq), 7,516 (Iran) (2020); 47,690 (Ukraine) (as of 28 October 2022)<br>
 _stateless persons_: 50,098 (mid-year 2021); note - the majority of stateless people are from the Middle East and Somalia<br>
 

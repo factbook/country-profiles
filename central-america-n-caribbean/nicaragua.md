@@ -64,7 +64,7 @@ _other_: 32.5% (2018 est.)<br>
 1,990 sq km (2012)<br>
 
 **Major lakes (area sq km)**<br>
-_Fresh water lake(s)_: Lago de Nicaragua - 8,150 sq km; Lago de Managua - 1,040 sq km<br>
+_fresh water lake(s)_: Lago de Nicaragua - 8,150 sq km; Lago de Managua - 1,040 sq km<br>
 
 **Population distribution**<br>
 the overwhelming majority of the population resides in the western half of the country, with much of the urban growth centered in the capital city of Managua; coastal areas also show large population clusters<br>
@@ -279,7 +279,7 @@ _vectorborne diseases_: dengue fever and malaria<br>
 _municipal solid waste generated annually_: 1,528,816 tons (2010 est.)<br>
 
 **Major lakes (area sq km)**<br>
-_Fresh water lake(s)_: Lago de Nicaragua - 8,150 sq km; Lago de Managua - 1,040 sq km<br>
+_fresh water lake(s)_: Lago de Nicaragua - 8,150 sq km; Lago de Managua - 1,040 sq km<br>
 
 **Total water withdrawal**<br>
 _municipal_: 286 million cubic meters (2017 est.)<br>
@@ -569,8 +569,8 @@ _proven reserves_: 0 metric tons (2019 est.)<br>
 **Petroleum**<br>
 _total petroleum production_: 200 bbl/day (2021 est.)<br>
 _refined petroleum consumption_: 35,100 bbl/day (2019 est.)<br>
-_crude oil and lease condensate exports_: 0 barrels/day (2018 est.)<br>
-_crude oil and lease condensate imports_: 13,000 barrels/day (2018 est.)<br>
+_crude oil and lease condensate exports_: 0 bbl/day (2018 est.)<br>
+_crude oil and lease condensate imports_: 13,000 bbl/day (2018 est.)<br>
 _crude oil estimated reserves_: 0 barrels (2021 est.)<br>
 
 **Refined petroleum products - production**<br>

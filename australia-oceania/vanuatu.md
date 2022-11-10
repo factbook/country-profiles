@@ -324,15 +324,15 @@ _residency requirement for naturalization_: 10 years<br>
 
 **Executive branch**<br>
 _chief of state_: President Nikenike VUROBARAVU (since 23 July 2022)<br>
-_head of government_: Prime Minister Bob LOUGHMAN (since 20 April 2020)<br>
+_head of government_: Prime Minister Ishmael KALSAKAU (since 4 November 2022)<br>
 _cabinet_: Council of Ministers appointed by the prime minister, responsible to Parliament<br>
 _elections/appointments_: president indirectly elected by an electoral college consisting of Parliament and presidents of the 6 provinces; Vanuatu president serves a 5-year term; election last held on 23 July 2022 (next to be held in 2027); following legislative elections, the leader of the majority party or majority coalition usually elected prime minister by Parliament from among its members; election for prime minister last held on 20 April 2020 (next to be held following general elections in 2024)<br>
-_election results_: Nikenike VUROBARAVU elected president in the eighth round on 23 July 2022 with 48 votes;<br>Bob LOUGHMAN elected prime minister on 20 April 2020; Bob LOUGHMAN (VP) 31 votes, Ralph REGENVANU (GJP) 21 votes<br>
+_election results_: Nikenike VUROBARAVU elected president in the eighth round on 23 July 2022 with 48 votes;<br>Ishmael KALSAKAU (UMP) elected prime minister on 4 November 2022 with 50 votes<br>
 
 **Legislative branch**<br>
 _description_: unicameral Parliament (52 seats; members directly elected in 8 single-seat and 9 multi-seat constituencies by single non-transferable vote to serve 4-year terms (candidates in multi-seat constituencies can be elected with only 4% of the vote)<br>
-_elections_: last held on 19&ndash;20 March 2020 (next to be held in 2024)<br>
-_election results_: percent of vote by party - NA; seats by party - GJP 9, RMC 7, VP 7, LPV 5, UMP 5, NUP 4, other 15; composition - men 52, women 0; percent of women 0%; note - political party associations are fluid<br>
+_elections_: last held on 13 October 2022 (next to be held in 2026)<br>
+_election results_: percent of vote by party - NA; seats by party - UMP 7, VP 7, LPV 5, RMC 5, GJP 4, NUP 4, RDP 4, IG 3, PPP 2, VNDP 2, NAG 1, VLM 1, other 6, independent 1; composition - men 51, women 1; percent of women 2%; note - political party associations are fluid<br>
 <strong>note:</strong> the National Council of Chiefs advises on matters of culture and language<br>
 
 **Judicial branch**<br>
@@ -541,8 +541,8 @@ _proven reserves_: 0 metric tons (2019 est.)<br>
 **Petroleum**<br>
 _total petroleum production_: 0 bbl/day (2021 est.)<br>
 _refined petroleum consumption_: 1,500 bbl/day (2019 est.)<br>
-_crude oil and lease condensate exports_: 0 barrels/day (2018 est.)<br>
-_crude oil and lease condensate imports_: 0 barrels/day (2018 est.)<br>
+_crude oil and lease condensate exports_: 0 bbl/day (2018 est.)<br>
+_crude oil and lease condensate imports_: 0 bbl/day (2018 est.)<br>
 _crude oil estimated reserves_: 0 barrels (2021 est.)<br>
 
 **Refined petroleum products - production**<br>

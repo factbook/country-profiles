@@ -564,8 +564,8 @@ _proven reserves_: 371 million metric tons (2019 est.)<br>
 **Petroleum**<br>
 _total petroleum production_: 0 bbl/day (2021 est.)<br>
 _refined petroleum consumption_: 54,900 bbl/day (2019 est.)<br>
-_crude oil and lease condensate exports_: 0 barrels/day (2018 est.)<br>
-_crude oil and lease condensate imports_: 0 barrels/day (2018 est.)<br>
+_crude oil and lease condensate exports_: 0 bbl/day (2018 est.)<br>
+_crude oil and lease condensate imports_: 0 bbl/day (2018 est.)<br>
 _crude oil estimated reserves_: 0 barrels (2021 est.)<br>
 
 **Refined petroleum products - production**<br>
@@ -604,7 +604,7 @@ _total subscriptions_: 2,511,980 (2019)<br>
 _subscriptions per 100 inhabitants_: 120.85 (2019)<br>
 
 **Telecommunication systems**<br>
-_general assessment_: Slovenia&rsquo;s telecom sector is dominated by four operators; the incumbent telco Telekom Slovenije has faced increasing pressure in all sectors; to address this, the company had diversified its business interests to reduce its reliance on telecom services; the mobile market has four MNOs and a small number of MVNOs, operating in a country with a potential market of just over two million people; the regulator in recent years has addressed the need for mobile operators to have more spectrum, so enabling them to improve the quality and range of services; a multi-spectrum auction was concluded in mid-2021, aimed at supporting 5G services; the broadband market continues to be dominated by a small number of players; DSL lost its dominance some years ago, being taken over by fiber as subscribers are migrated to new fiber-based networks; fiber accounted for almost half of all fixed broadband connections by March 2022. (2022)<br>
+_general assessment_: Slovenia&rsquo;s telecom sector is dominated by four operators; the mobile market has four MNOs and a small number of MVNOs, operating in a country with a potential market of just over two million people; the regulator in recent years has addressed the need for mobile operators to have more spectrum, so enabling them to improve the quality and range of services; a multi-spectrum auction was concluded in mid-2021, aimed at supporting 5G services; the broadband market continues to be dominated by a small number of players; DSL lost its dominance some years ago, being taken over by fiber as subscribers are migrated to new fiber-based networks; fiber accounted for almost half of all fixed broadband connections by March 2022 (2022)<br>
 _domestic_: fixed-line nearly 34 per 100 and mobile-cellular over 122 per 100 teledensity (2020)<br>
 _international_: country code - 386 (2016)<br>
 <strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress toward 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>
@@ -705,7 +705,7 @@ Slovenia became a member of NATO in 2004; Hungary and Italy provide NATO's air p
 <p><em>Slovenia-Austria</em>: none identified</p> <p><em>Slovenia-Croatia</em>: since the breakup of Yugoslavia in the early 1990s, Croatia and Slovenia have each claimed sovereignty over Piran Bay and four villages, and Slovenia has objected to Croatia's claim of an exclusive economic zone in the Adriatic Sea; in 2009, however Croatia and Slovenia signed a binding international arbitration agreement to define their disputed land and maritime borders, which led Slovenia to lift its objections to Croatia joining the EU; in June 2017, the Permanent Court of Arbitration issued a ruling on the border, but Croatia had withdrawn from the proceedings in 2015 and refused to implement it; as a member state that forms part of the EU's external border, Slovenia has implemented the strict Schengen border rules to curb illegal migration and commerce through southeastern Europe while encouraging close cross-border ties with Croatia; Slovenia continues to impose a hard border Schengen regime with Croatia, which joined the EU in 2013 but has not yet fulfilled Schengen requirements</p> <p><em>Slovenia-Hungary</em>: none identified</p> <p><em>Slovenia-Italy</em>: none identified</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 8,308 (Ukraine) (as of 25 October 2022)<br>
+_refugees (country of origin)_: 8,404 (Ukraine) (as of 1 November 2022)<br>
 _stateless persons_: 10 (2020)<br>
 <strong>note:  </strong>551,887 estimated refugee and migrant arrivals (January 2015-September 2022)<br>
 

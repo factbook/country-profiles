@@ -573,8 +573,8 @@ _proven reserves_: 3 million metric tons (2019 est.)<br>
 **Petroleum**<br>
 _total petroleum production_: 0 bbl/day (2021 est.)<br>
 _refined petroleum consumption_: 2,000 bbl/day (2019 est.)<br>
-_crude oil and lease condensate exports_: 0 barrels/day (2018 est.)<br>
-_crude oil and lease condensate imports_: 0 barrels/day (2018 est.)<br>
+_crude oil and lease condensate exports_: 0 bbl/day (2018 est.)<br>
+_crude oil and lease condensate imports_: 0 bbl/day (2018 est.)<br>
 _crude oil estimated reserves_: 0 barrels (2021 est.)<br>
 
 **Refined petroleum products - production**<br>
@@ -613,8 +613,8 @@ _total subscriptions_: 1.831 million (2020 est.)<br>
 _subscriptions per 100 inhabitants_: 38 (2020 est.)<br>
 
 **Telecommunication systems**<br>
-_general assessment_: network consists principally of microwave radio relay and at low-capacity; ongoing conflict has&nbsp;obstructed&nbsp;telecommunication and media development,&nbsp;although there are&nbsp;ISP (Internet service providers) and mobile phone carriers,&nbsp;radio is the most-popular communications medium (2018)<br>
-_domestic_: very limited telephone service with less than 1 fixed-line connection per 100 persons; with the presence of multiple providers mobile-cellular service has reached nearly 34 per 100 mobile-cellular subscribers; cellular usage is increasing from a low base; most fixed-line and mobile-cellular telephone services are concentrated in Bangui (2019)<br>
+_general assessment_: given the poor fixed-line infrastructure in most countries across Africa, voice and data services across the region are greatly dependent on mobile networks; in the majority of markets, including those with better developed fixed infrastructure such as South Africa, Nigeria, and Kenya, up to 98% of all voice and data connections are via mobile networks; during the last two to three years, national governments and telecom regulators have striven to improve fixed infrastructure with the wider aim of developing economic growth based on digital services and connectivity; this work is principally focused on delivering fiber-based connectivity; since the amount of copper infrastructure (DSL or HFC) used for broadband is so negligible, governments and private firms, including telcos are investing in fiber rather than in older technologies; while supporting broadband to premises, health centers, and government buildings, the new fiber infrastructure is mainly being deployed to provide mobile platforms and to support the rapid growth in data traffic (2022)<br>
+_domestic_: very limited telephone service with less than 1 fixed-line connection per 100 persons; with the presence of multiple providers mobile-cellular service has reached nearly 38 per 100 mobile-cellular subscribers; cellular usage is increasing from a low base; most fixed-line and mobile-cellular telephone services are concentrated in Bangui (2020)<br>
 _international_: country code - 236; satellite earth station - 1 Intelsat (Atlantic Ocean)<br>
 <strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress toward 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>
 

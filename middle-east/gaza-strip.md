@@ -416,8 +416,8 @@ _biomass and waste_: 0% of total installed capacity (2020 est.) Data represented
 **Petroleum**<br>
 _total petroleum production_: 0 bbl/day (2021 est.) Data represented includes both the Gaza Strip and West Bank<br>
 _refined petroleum consumption_: 24,600 bbl/day (2019 est.) Data represented includes both the Gaza Strip and West Bank<br>
-_crude oil and lease condensate exports_: 0 barrels/day (2018 est.) Data represented includes both the Gaza Strip and West Bank<br>
-_crude oil and lease condensate imports_: 0 barrels/day (2018 est.) Data represented includes both the Gaza Strip and West Bank<br>
+_crude oil and lease condensate exports_: 0 bbl/day (2018 est.) Data represented includes both the Gaza Strip and West Bank<br>
+_crude oil and lease condensate imports_: 0 bbl/day (2018 est.) Data represented includes both the Gaza Strip and West Bank<br>
 _crude oil estimated reserves_: 0 barrels (2021 est.) Data represented includes both the Gaza Strip and West Bank<br>
 
 **Natural gas**<br>

@@ -561,8 +561,8 @@ _proven reserves_: 0 metric tons (2019 est.)<br>
 **Petroleum**<br>
 _total petroleum production_: 3,769,100 bbl/day (2021 est.)<br>
 _refined petroleum consumption_: 863,700 bbl/day (2019 est.)<br>
-_crude oil and lease condensate exports_: 2,427,200 barrels/day (2018 est.)<br>
-_crude oil and lease condensate imports_: 172,900 barrels/day (2018 est.)<br>
+_crude oil and lease condensate exports_: 2,427,200 bbl/day (2018 est.)<br>
+_crude oil and lease condensate imports_: 172,900 bbl/day (2018 est.)<br>
 _crude oil estimated reserves_: 97.8 billion barrels (2021 est.)<br>
 
 **Refined petroleum products - production**<br>
