@@ -85,7 +85,7 @@ the vast majority of people live along, or relatively near, the Atlantic coast i
 recurring droughts in northeast; floods and occasional frost in south<br>
 
 **Geography - note**<br>
-<strong>note 1:</strong> largest country in South America and in the Southern Hemisphere; shares common boundaries with every South American country except Chile and Ecuador; most of the Pantanal, the world's largest tropical wetland, extends through the west central part of the country; shares Iguazu Falls, the world's largest waterfalls system, with Argentina<br><br><strong>note 2:</strong> cassava (manioc) the sixth most important food crop in the world - after maize, rice, wheat, potatoes, and soybeans - seems to have originated in the west-central part of Brazil; pineapples are probably indigenous to the southern Brazil-Paraguay region<br>
+<strong>note 1:</strong> largest country in South America and in the Southern Hemisphere; shares common boundaries with every South American country except Chile and Ecuador; most of the Pantanal, the world's largest tropical wetland, extends through the west central part of the country; shares Iguazu Falls, the world's largest waterfalls system, with Argentina<br><br><strong>note 2:</strong> cassava (manioc) the sixth most important food crop in the world - after maize, rice, wheat, potatoes, and soybeans - seems to have originated in the west-central part of Brazil; pineapples are probably indigenous to the southern Brazil-Paraguay region<br><br><strong>note 3:</strong> Rocas Atoll, located off the northeast coast of Brazil, is the only atoll in the South Atlantic.<br>
 
 ## People and Society
 
@@ -114,7 +114,7 @@ _0-14 years_: 21.11% (male 22,790,634/female 21,907,018)<br>
 _15-24 years_: 16.06% (male 17,254,363/female 16,750,581)<br>
 _25-54 years_: 43.83% (male 46,070,240/female 46,729,640)<br>
 _55-64 years_: 9.78% (male 9,802,995/female 10,911,140)<br>
-_65 years and over_: 9.21% (2020 est.) (male 8,323,344/female 11,176,018)<br>
+_65 years and over_: 9.21% (male 8,323,344/female 11,176,018) (2020 est.)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 43.5<br>

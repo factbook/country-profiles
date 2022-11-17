@@ -96,7 +96,7 @@ _0-14 years_: 36.68% (male 154,853/female 155,602)<br>
 _15-24 years_: 20.75% (male 85,208/female 90,422)<br>
 _25-54 years_: 33.99% (male 136,484/female 151,178)<br>
 _55-64 years_: 4.49% (male 17,237/female 20,781)<br>
-_65 years and over_: 4.08% (2020 est.) (male 15,437/female 19,079)<br>
+_65 years and over_: 4.08% (male 15,437/female 19,079) (2020 est.)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 75.5<br>
@@ -335,7 +335,7 @@ _election results_: <em>2019</em>: AZALI Assoumani (CRC) elected president in fi
 **Legislative branch**<br>
 _description_: unicameral Assembly of the Union (33 seats; 24 members directly elected by absolute majority vote in 2 rounds if needed and 9 members indirectly elected by the 3 island assemblies; members serve 5-year terms) (2017)<br>
 _elections_: last held on&nbsp;19 January 2020 with a runoff on 23&nbsp;February 2020 (next to be held in 2025) (2020)<br>
-_election results_: seats by party -1st round - Boycotting parties 16, Independent 3, CRC 2, RDC 2, RADHI 1, Orange party 0; note -  9 additional seats filled by the 3 island assemblies; 2nd round - CRC 20, Orange Party 2, Independents 2; composition for elected members as of 2022 - men 20, women 4, percent of women 16.7%<br> <h3> </h3> (2019)<br>
+_election results_: seats by party -1st round - Boycotting parties 16, Independent 3, CRC 2, RDC 2, RADHI 1, Orange party 0; note - 9 additional seats filled by the 3 island assemblies; 2nd round - CRC 20, Orange Party 2, Independents 2; composition for elected members as of 2022 - men 20, women 4, percent of women 16.7%<br> <h3> </h3> (2019)<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme Court or Cour Supreme (consists of 7 judges)<br>
@@ -648,7 +648,7 @@ the security forces are limited in capabilities to performing search and rescue 
 ## Transnational Issues
 
 **Disputes - international**<br>
-<p>claims French-administered Mayotte and challenges France's and Madagascar's claims to Banc du Geyser, a drying reef in the Mozambique Channel; in May 2008, African Union forces assisted the Comoros military recapture Anjouan Island from rebels who seized it in 2001</p><br>
+<p>claims French-administered Mayotte and challenges France's and Madagascar's claims to Banc du Geyser, a drying reef in the Mozambique Channel; in May 2008, African Union forces assisted the Comoros military in recapturing Anjouan Island from rebels who seized it in 2001</p><br>
 
 **Trafficking in persons**<br>
 _current situation_: human traffickers may exploit domestic and foreign victims in Comoros and Comorians abroad; some Comorian and Malagasy women are subject to forced labor in the Middle East; adults and children may be forced to work in agriculture, construction, or as domestics in Mayotte; children abandoned by parents who left to seek jobs abroad are vulnerable to exploitation in domestic service, vending, baking, fishing, and agriculture; children from poor families whose parents place them with a relative or acquaintance for educational opportunities are vulnerable to domestic servitude and physical and sexual abuse; some children in Koranic schools may experience forced labor in agriculture or domestic servitude; inadequate border controls; government corruption, and international crime networks leave Comorians vulnerable to international trafficking<br>

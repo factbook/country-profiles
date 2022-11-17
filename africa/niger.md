@@ -108,7 +108,7 @@ _0-14 years_: 50.58% (male 5,805,102/female 5,713,815)<br>
 _15-24 years_: 19.99% (male 2,246,670/female 2,306,285)<br>
 _25-54 years_: 23.57% (male 2,582,123/female 2,784,464)<br>
 _55-64 years_: 3.17% (male 357,832/female 364,774)<br>
-_65 years and over_: 2.68% (2020 est.) (male 293,430/female 317,866)<br>
+_65 years and over_: 2.68% (male 293,430/female 317,866) (2020 est.)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 109.5<br>
@@ -744,7 +744,7 @@ Boko Haram; Islamic State of Iraq and ash-Sham in the Greater Sahara (ISIS-GS); 
 <p><em>Niger-Benin-Nigeria</em>: location of Niger-Benin-Nigeria tripoint is unresolved</p> <p><em>Niger-Burkina Faso</em>: the dispute with Burkina Faso was referred to the International Court of Justice (ICJ) in 2010; the ICJ ruled in 2013 that 786 sq km should go to Burkina Faso and 277 sq km to Niger; the ruling was implemented in 2015 and 2016, with Burkina Faso gaining 14 towns and Niger 4</p> <p><em>Niger-Cameroon-Nigeria</em>: only Nigeria and Cameroon have heeded the Lake Chad Commission's admonition to ratify the delimitation treaty that also includes the Chad-Niger and Niger-Nigeria boundaries</p> <p><em>Niger-Libya</em>: Libya claims about 25,000 sq km in a currently dormant dispute in the Tummo region</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 187,130 (Nigeria), 65,026 (Mali) (refugees and asylum seekers) (2022)<br>
+_refugees (country of origin)_: 187,136 (Nigeria), 65,026 (Mali) (refugees and asylum seekers) (2022)<br>
 _IDPs_: 376,809 (includes the regions of Diffa, Tillaberi, and Tahoua; unknown how many of the 11,000 people displaced by clashes between government forces and the Tuareg militant group, Niger Movement for Justice, in 2007 are still displaced; inter-communal violence; Boko Haram attacks in southern Niger, 2015) (2022)<br>
 
 **Illicit drugs**<br>

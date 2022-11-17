@@ -93,7 +93,7 @@ _0-14 years_: 16.63% (male 8,689/female 8,124)<br>
 _15-24 years_: 12.98% (male 6,764/female 6,354)<br>
 _25-54 years_: 40.12% (male 20,499/female 20,054)<br>
 _55-64 years_: 13.22% (male 6,515/female 6,844)<br>
-_65 years and over_: 17.05% (2020 est.) (male 7,324/female 9,906)<br>
+_65 years and over_: 17.05% (male 7,324/female 9,906) (2020 est.)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 49<br>
@@ -421,8 +421,8 @@ _total subscriptions_: 83,900 (2009 est.)<br>
 _subscriptions per 100 inhabitants_: 95 (2009 est.)<br>
 
 **Telecommunication systems**<br>
-_general assessment_: good system with broadband access (2018)<br>
-_domestic_: fixed-line 45 per 100 and mobile-cellular 115 per 100 subscriptions (2020)<br>
+_general assessment_: the telecommunication services comprise of Internet, telephone, broadcasting and postal services, which allow islanders to contact people and receive information; Internet connectivity to the rest of the world is provided by undersea cables linked to Guernsey, the UK and France; (2021)<br>
+_domestic_: fixed-line 47 per 100 and mobile-cellular 120 per 100 subscriptions (2021)<br>
 _international_: country code - 44; landing points for the INGRID, UK-Channel Islands-8, and Guernsey-Jersey-4, submarine cable connectivity to Guernsey, the UK, and France (2019)<br>
 <strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress toward 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>
 

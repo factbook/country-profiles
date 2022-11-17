@@ -95,7 +95,7 @@ _0-14 years_: 20.31% (male 36,394/female 34,837)<br>
 _15-24 years_: 12.85% (male 22,748/female 22,317)<br>
 _25-54 years_: 39.44% (male 70,227/female 68,095)<br>
 _55-64 years_: 11.94% (male 20,762/female 21,111)<br>
-_65 years and over_: 15.47% (2020 est.) (male 25,546/female 28,697)<br>
+_65 years and over_: 15.47% (male 25,546/female 28,697) (2020 est.)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 54<br>
@@ -595,7 +595,7 @@ _subscriptions per 100 inhabitants_: 123 (2020 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: Iceland has one of the smallest yet most progressive telecom markets in Europe; the country in 2020 became the top in Europe for fiber penetration; it aims to provide a fixed broadband service of at least 100Mb/s to 99.9% of the population by the end of 2021, an ambitious target by international standards and one which it is likely to achieve given the progress which operators have made in extending the reach of fiber networks; there is effective competition in the mobile and broadband markets, with a number of players having emerged to challenge the dominance of the two leading operators which have interests across the telecom sectors; the telecom market has shown some resilience in recent years following the significant economic downturn a decade ago, supported by continuing investment in mobile and fixed-line broadband infrastructure by operators and well as by the government&rsquo;s Telecommunications Fund which is supporting Next Generation Access networks, particularly in rural areas (2022)<br>
-_domestic_: liberalization of the telecommunications sector beginning in the late 1990s has led to increased competition especially in the mobile services segment of the market; roughly 31 per 100 for fixed line and nearing 124 per 100 for mobile-cellular subscriptions (2020)<br>
+_domestic_: 31 per 100 for fixed line and nearing 123 per 100 for mobile-cellular subscriptions (2020)<br>
 _international_: country code - 354; landing points for the CANTAT-3, FARICE-1, Greenland Connect and DANICE&nbsp;submarine cable system that provides connectivity to Canada, the Faroe Islands, Greenland, UK, Denmark, and Germany;&nbsp;satellite earth stations - 2 Intelsat (Atlantic Ocean), 1 Inmarsat (Atlantic and Indian Ocean regions); note - Iceland shares the Inmarsat earth station with the other Nordic countries (Denmark, Finland, Norway, and Sweden) (2019)<br>
 <strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress toward 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>
 

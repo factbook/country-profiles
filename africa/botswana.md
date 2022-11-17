@@ -83,7 +83,7 @@ landlocked; population concentrated in the southern and eastern parts of the cou
 
 **Population**<br>
 2,384,246 (2022 est.)<br>
-<strong>note:</strong> estimates for this country explicitly taken into account the impact of the HIV/AIDS epidemic<br>
+<strong>note:</strong> estimates for this country explicitly take into account the impact of the HIV/AIDS epidemic<br>
 
 **Nationality**<br>
 _noun_: Motswana (singular), Batswana (plural)<br>
@@ -106,7 +106,7 @@ _0-14 years_: 30.54% (male 357,065/female 350,550)<br>
 _15-24 years_: 18.31% (male 208,824/female 215,462)<br>
 _25-54 years_: 39.67% (male 434,258/female 484,922)<br>
 _55-64 years_: 5.92% (male 59,399/female 77,886)<br>
-_65 years and over_: 5.56% (2020 est.) (male 53,708/female 75,159)<br>
+_65 years and over_: 5.56% (male 53,708/female 75,159) (2020 est.)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 61.1<br>
@@ -623,7 +623,7 @@ _total subscriptions_: 3,829,408 (2020 est.)<br>
 _subscriptions per 100 inhabitants_: 163 (2020 est.)<br>
 
 **Telecommunication systems**<br>
-_general assessment_: effective regulatory reform has made Botswana&rsquo;s telecom market one of the most liberalized in the region; there is a service-neutral licensing regime adapted to the convergence of technologies and services, and several operators now compete in all telecom sectors;&nbsp; Botswana has one of the highest mobile penetration rates in Africa; in a bid to generate new revenue streams and secure market share, the three MNOs have entered the underdeveloped broadband sector by adopting of 3G, LTE, and WiMAX technologies; in the fixed-line broadband market they compete with a large number of ISPs, some of which have rolled out their own wireless access infrastructure; the landlocked country depends on satellites for international bandwidth, and on other countries for transit capacity to the landing points of international submarine cables; the landing of additional cables in the region in recent years has improved the competitive situation in this sector, while prices for connectivity have fallen dramatically (2022)<br>
+_general assessment_: effective regulatory reform has made Botswana&rsquo;s telecom market one of the most liberalized in the region; there is a service-neutral licensing regime adapted to the convergence of technologies and services, and several operators now compete in all telecom sectors; Botswana has one of the highest mobile penetration rates in Africa; in a bid to generate new revenue streams and secure market share, the three mobile network operators have entered the underdeveloped broadband sector by adopting of 3G, LTE, and WiMAX technologies; in the fixed-line broadband market they compete with a large number of ISPs, some of which have rolled out their own wireless access infrastructure; the landlocked country depends on satellites for international bandwidth, and on other countries for transit capacity to the landing points of international submarine cables; the landing of additional cables in the region in recent years has improved the competitive situation in this sector, while prices for connectivity have fallen dramatically (2022)<br>
 _domestic_: fixed-line teledensity has declined in recent years and now stands at roughly 6 telephones per 100 persons; mobile-cellular teledensity is roughly 163 telephones per 100 persons (2020)<br>
 _international_: country code - 267; international calls are made via satellite, using international direct dialing; 2 international exchanges; digital microwave radio relay links to Namibia, Zambia, Zimbabwe, and South Africa; satellite earth station - 1 Intelsat (Indian Ocean)<br>
 <strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress toward 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>

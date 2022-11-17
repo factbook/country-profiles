@@ -105,7 +105,7 @@ _0-14 years_: 14.83% (male 2,918,518/female 2,756,968)<br>
 _15-24 years_: 9.8% (male 1,928,637/female 1,823,894)<br>
 _25-54 years_: 43.33% (male 8,384,017/female 8,203,646)<br>
 _55-64 years_: 13.32% (male 2,424,638/female 2,675,351)<br>
-_65 years and over_: 18.72% (2020 est.) (male 2,867,315/female 4,299,341)<br>
+_65 years and over_: 18.72% (male 2,867,315/female 4,299,341) (2020 est.)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 51.4<br>
@@ -750,7 +750,7 @@ Islamic State of Iraq and ash-Sham (ISIS)<br>
 <p><em>Poland-Belarus-Ukraine</em>: as a member state that forms part of the EU's external border, Poland has implemented the strict Schengen border rules to restrict illegal immigration and trade along its eastern borders with Belarus and Ukraine</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 9,870 (Russia) (2019); 1,469,032 (Ukraine) (as of 1 November 2022)<br>
+_refugees (country of origin)_: 9,870 (Russia) (2019); 1,489,155 (Ukraine) (as of 8 November 2022)<br>
 _stateless persons_: 1,389 (mid-year 2021)<br>
 
 **Illicit drugs**<br>

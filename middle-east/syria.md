@@ -105,7 +105,7 @@ _0-14 years_: 33.47% (male 3,323,072/female 3,170,444)<br>
 _15-24 years_: 19.34% (male 1,872,903/female 1,879,564)<br>
 _25-54 years_: 37.31% (male 3,558,241/female 3,679,596)<br>
 _55-64 years_: 5.41% (male 516,209/female 534,189)<br>
-_65 years and over_: 4.46% (2020 est.) (male 404,813/female 459,417)<br>
+_65 years and over_: 4.46% (male 404,813/female 459,417) (2020 est.)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 55.4<br>
@@ -705,7 +705,7 @@ Abdallah Azzam Brigades; Ansar al-Islam; Asa’ib Ahl Al-Haq; Hizballah; Hurras 
 _refugees (country of origin)_: 568,730 (Palestinian Refugees) (2020); 12,435 (Iraq) (mid-year 2021)<br>
 _IDPs_: 6.662 million (ongoing civil war since 2011) (2021)<br>
 _stateless persons_: 160,000 (mid-year 2021); note - Syria's stateless population consists of Kurds and Palestinians; stateless persons are prevented from voting, owning land, holding certain jobs, receiving food subsidies or public healthcare, enrolling in public schools, or being legally married to Syrian citizens; in 1962, some 120,000 Syrian Kurds were stripped of their Syrian citizenship, rendering them and their descendants stateless; in 2011, the Syrian Government granted citizenship to thousands of Syrian Kurds as a means of appeasement; however, resolving the question of statelessness is not a priority given Syria's ongoing civil war<br>
-<strong>note:</strong> the ongoing civil war has resulted in almost 5.6 million registered Syrian refugees - dispersed mainly in Egypt, Iraq, Jordan, Lebanon, and Turkey - as of October 2022<br>
+<strong>note:</strong> the ongoing civil war has resulted in almost 5.3 million registered Syrian refugees - dispersed mainly in Egypt, Iraq, Jordan, Lebanon, and Turkey - as of November 2022<br>
 
 **Trafficking in persons**<br>
 _current situation_: due to Syria&rsquo;s civil war, hundreds of thousands of Syrians, foreign migrant workers, and refugees have fled the country and are vulnerable to human trafficking; the lack of security and inaccessibility of the majority of the country makes it impossible to conduct a thorough analysis of the impact of the ongoing conflict on the scope and magnitude of Syria&rsquo;s human trafficking situation; prior to the uprising, the Syrian armed forces and opposition forces used Syrian children in combat and support roles and as human shields<br>

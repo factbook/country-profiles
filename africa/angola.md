@@ -106,7 +106,7 @@ _0-14 years_: 47.83% (male 7,758,636/female 7,797,869)<br>
 _15-24 years_: 18.64% (male 2,950,999/female 3,109,741)<br>
 _25-54 years_: 27.8% (male 4,301,618/female 4,740,463)<br>
 _55-64 years_: 3.43% (male 523,517/female 591,249)<br>
-_65 years and over_: 2.3% (2020 est.) (male 312,197/female 436,050)<br>
+_65 years and over_: 2.3% (male 312,197/female 436,050) (2020 est.)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 94.5<br>
@@ -736,7 +736,7 @@ the International Maritime Bureau reports the territorial waters of Angola are a
 <p><em>Angola-Democratic Republic of Congo (DRC): </em>DRC accuses Angola of shifting monuments<br><br><em>Angola-Namibia: n</em>one identified<br><br><em>Angola-Republic of Congo:</em> (Kabinda Exclave) none identified<br><br><em>Angola-Zambia: </em>because the straight-line segments along the left bank (Zambian side) of the Cuando/Kwando River do not conform with the physical alignment of the unstable shoreline, Zambian residents in some areas have settled illegally on sections of shoreline that fall on the Angolan side of the boundary</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 37,162 (Democratic Republic of the Congo) (refugees and asylum seekers), 9,272 (Guinea), 6,357 (Cote d'Ivoire), 5,725 (Mauritania) (2022)<br>
+_refugees (country of origin)_: 37,159 (Democratic Republic of the Congo) (refugees and asylum seekers), 9,272 (Guinea), 6,357 (Cote d'Ivoire), 5,725 (Mauritania) (2022)<br>
 
 **Illicit drugs**<br>
 <p>used as a transshipment point for cocaine destined for Western Europe and other African states, particularly South Africa</p><br>

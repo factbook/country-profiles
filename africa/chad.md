@@ -106,7 +106,7 @@ _0-14 years_: 47.43% (male 4,050,505/female 3,954,413)<br>
 _15-24 years_: 19.77% (male 1,676,495/female 1,660,417)<br>
 _25-54 years_: 27.14% (male 2,208,181/female 2,371,490)<br>
 _55-64 years_: 3.24% (male 239,634/female 306,477)<br>
-_65 years and over_: 2.43% (2020 est.) (male 176,658/female 233,087)<br>
+_65 years and over_: 2.43% (male 176,658/female 233,087) (2020 est.)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 96<br>
@@ -726,7 +726,7 @@ Boko Haram; Islamic State of Iraq and ash-Sham - West Africa (ISIS-WA)<br>
 <p>since 2003, ad hoc armed militia groups and the Sudanese military have driven hundreds of thousands of Darfur residents into Chad; Chad wishes to be a helpful mediator in resolving the Darfur conflict, and in 2010 established a joint border monitoring force with Sudan, which has helped to reduce cross-border banditry and violence; only Nigeria and Cameroon have heeded the Lake Chad Commission's admonition to ratify the delimitation treaty, which also includes the Chad-Niger and Niger-Nigeria boundaries</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 393,590 (Sudan), 124,509 (Central African Republic), 35,137 (Cameroon), 20,272 (Nigeria) (2022)<br>
+_refugees (country of origin)_: 393,590 (Sudan), 124,491 (Central African Republic), 35,137 (Cameroon), 20,257 (Nigeria) (2022)<br>
 _IDPs_: 381,289 (majority are in the east) (2022)<br>
 
 **Trafficking in persons**<br>

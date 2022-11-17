@@ -92,7 +92,7 @@ _0-14 years_: 19.69% (male 5,247/female 4,920)<br>
 _15-24 years_: 13.89% (male 3,708/female 3,465)<br>
 _25-54 years_: 37.01% (male 10,277/female 8,828)<br>
 _55-64 years_: 12% (male 3,199/female 2,996)<br>
-_65 years and over_: 17.41% (2020 est.) (male 4,352/female 4,636)<br>
+_65 years and over_: 17.41% (male 4,352/female 4,636) (2020 est.)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: NA<br>
@@ -503,7 +503,7 @@ _total subscriptions_: 59,213 (2020 est.)<br>
 _subscriptions per 100 inhabitants_: 121 (2020 est.)<br>
 
 **Telecommunication systems**<br>
-_general assessment_: good international and domestic communications; telecommunications network of high standards with excellent coverage throughout most parts of the country and at competitive prices (2020)<br>
+_general assessment_: the Faroe Islands have a highly developed communication network, which covers the whole country; from telecommunication and mobile phones to the internet and media, the Faroe Islands are at the forefront of modern communications technology; working within the special geographic circumstances of the Faroe Islands; companies have become world experts in providing digital communication solutions to remote and sparsely populated areas (2022)<br>
 _domestic_: roughly 31 per 100 teledensity for fixed-line and nearly 121 per 100 for mobile-cellular; both NMT (analog) and GSM (digital) mobile telephone systems are installed (2020)<br>
 _international_: country code - 298; landing points for the SHEFA-2, FARICE-1, and CANTAT-3 fiber-optic submarine cables from the Faroe Islands, to Denmark, Germany, UK and Iceland; satellite earth stations - 1 Orion; (2019)<br>
 <strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress toward 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>

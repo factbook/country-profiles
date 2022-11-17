@@ -99,7 +99,7 @@ _0-14 years_: 25.83% (male 857,003/female 817,336)<br>
 _15-24 years_: 18.82% (male 619,368/female 600,501)<br>
 _25-54 years_: 40.51% (male 1,221,545/female 1,404,163)<br>
 _55-64 years_: 7.23% (male 198,029/female 270,461)<br>
-_65 years and over_: 7.6% (2020 est.) (male 214,717/female 277,979)<br>
+_65 years and over_: 7.6% (male 214,717/female 277,979) (2020 est.)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 54.4<br>
@@ -611,7 +611,7 @@ _subscriptions per 100 inhabitants_: 153 (2020 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: El Salvador is the smallest country in central America geographically, it has the fourth largest economy in the region; the country&rsquo;s telecom sector has been restricted by poor infrastructure and unequal income distribution; there have been organizational delays which have slowed the development of telecom services; El Salvador&rsquo;s fixed-line teledensity is substantially lower than the Latin American and Caribbean average; there has been a significant drop in the number of fixed lines since 2010, particularly in 2017, largely due to the substitution for mobile-only alternatives; about 94% of all telephony lines in the country are on mobile networks; mobile subscriptions are remarkably high considering El Salvador&rsquo;s economic indicators, being about a third higher than average for Latin America and the Caribbean; the country was one of the last in the region to provide LTE services, mainly due to the inadequate provision of suitable spectrum; the multi-spectrum auction conducted at the end of 2019 has allowed MNOs to improve the reach and quality of their service offerings; El Salvador&rsquo;s telecom legislation is one of the more liberal in Latin America, encouraging competition in most areas and permitting foreign investment; there are no regulations which promote wholesale broadband; the only effective cross-platform competition in the broadband market comes from the few cable operators; there has been some market consolidation in recent years (2021)<br>
-_domestic_: fixed-line services, roughly 14 per 100, has slowed in the face of mobile-cellular competition now at 161 subscribers per 100 inhabitants (2019)<br>
+_domestic_: fixed-line services, roughly 14 per 100, has slowed in the face of mobile-cellular competition now at 153 subscribers per 100 inhabitants (2020)<br>
 _international_: country code - 503; satellite earth station - 1 Intelsat (Atlantic Ocean); connected to Central American Microwave System (2019)<br>
 <!-- x-tinymce/html --><strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress toward 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>
 

@@ -62,7 +62,7 @@ _other_: 55.7% (2018 est.)<br>
 10 sq km (2012)<br>
 
 **Major rivers (by length in km)**<br>
-Ubangi river source (shared with Democratic Republic of Congo and Republic of Congo [m]) - 2,270 km<br><strong>note</strong> – [s] after country name indicates river source; [m] after country name indicates river mouth<br>
+Ubangi river [s] (shared with Democratic Republic of Congo and Republic of Congo [m]) - 2,270 km<br><strong>note</strong> – [s] after country name indicates river source; [m] after country name indicates river mouth<br>
 
 **Major watersheds (area sq km)**<br>
 Atlantic Ocean drainage: Congo (3,730,881 sq km), <em>(Mediterranean Sea)</em> Nile (3,254,853 sq km)<br>Internal <em>(endorheic basin) </em>drainage: Lake Chad (2,497,738 sq km)<br>
@@ -107,7 +107,7 @@ _0-14 years_: 39.49% (male 1,188,682/female 1,176,958)<br>
 _15-24 years_: 19.89% (male 598,567/female 593,075)<br>
 _25-54 years_: 32.95% (male 988,077/female 986,019)<br>
 _55-64 years_: 4.32% (male 123,895/female 134,829)<br>
-_65 years and over_: 3.35% (2020 est.) (male 78,017/female 122,736)<br>
+_65 years and over_: 3.35% (male 78,017/female 122,736) (2020 est.)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 86.4<br>
@@ -290,13 +290,13 @@ _respiratory diseases_: meningococcal meningitis<br>
 <strong>note: </strong>on 21 March 2022, the US Centers for Disease Control and Prevention (CDC) issued a Travel Alert for polio in Africa; the Central African Republic is currently considered a high risk to travelers for circulating vaccine-derived polioviruses (cVDPV); vaccine-derived poliovirus (VDPV) is a strain of the weakened poliovirus that was initially included in oral polio vaccine (OPV) and <em>that has changed over time and behaves more like the wild or naturally occurring virus</em>; this means it can be spread more easily to people who are unvaccinated against polio and who come in contact with the stool or respiratory secretions, such as from a sneeze, of an “infected” person who received oral polio vaccine; the CDC recommends that before any international travel, anyone unvaccinated, incompletely vaccinated, or with an unknown polio vaccination status should complete the routine polio vaccine series; before travel to any high-risk destination, the CDC recommends that adults who previously completed the full, routine polio vaccine series receive a single, lifetime booster dose of polio vaccine<br>
 
 **Food insecurity**<br>
-_exceptional shortfall in aggregate food production/supplies_: <em>due to internal conflict -</em> persisting conflicts and displacements are expected to continue affecting agricultural activities and limit farmers’ access to crop growing areas and inputs, with a negative impact on 2022 crop production; according to an analysis issued in April 2022, the number of severely food insecure people in "Crisis" and above is estimated at 2.2 million between April and August 2022, mainly due to high levels of civil insecurity, population displacements and high food prices (2022)<br>
+_exceptional shortfall in aggregate food production/supplies_: <em>due to internal conflict -</em> persisting conflicts and displacements are expected to continue affecting agricultural activities and limit farmers’ access to crop growing areas and inputs, with a negative impact on 2022 crop production; according to an analysis issued in April 2022, the number of severely food insecure people in "Crisis" and above were estimated at 2.2 million between April and August 2022, mainly due to high levels of civil insecurity, population displacements and high food prices (2022)<br>
 
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 1,105,983 tons (2014 est.)<br>
 
 **Major rivers (by length in km)**<br>
-Ubangi river source (shared with Democratic Republic of Congo and Republic of Congo [m]) - 2,270 km<br><strong>note</strong> – [s] after country name indicates river source; [m] after country name indicates river mouth<br>
+Ubangi river [s] (shared with Democratic Republic of Congo and Republic of Congo [m]) - 2,270 km<br><strong>note</strong> – [s] after country name indicates river source; [m] after country name indicates river mouth<br>
 
 **Major watersheds (area sq km)**<br>
 Atlantic Ocean drainage: Congo (3,730,881 sq km), <em>(Mediterranean Sea)</em> Nile (3,254,853 sq km)<br>Internal <em>(endorheic basin) </em>drainage: Lake Chad (2,497,738 sq km)<br>
@@ -378,7 +378,7 @@ _judge selection and term of office_: Supreme Court judges appointed by the pres
 _subordinate courts_: high courts; magistrates' courts<br>
 
 **Political parties and leaders**<br>
-African Party for Radical Transformation and Integration of States or PATRIE [Crepin MBOLI-GOUMBA]<br>Central African Democratic Rally or RDC [Desire KOLINGBA]<br>Movement for the Liberation of the Central African People or MLPC [Martin ZIGUELE]<br>National Convergence (also known as Kwa Na Kwa) or KNK [Francois BOZIZE]<br>National Movement of Independents or MOUNI <br>National Union for Democracy and Progress or UNDP [Michel AMINE]<br>National Union of Republican Democrats or UNADER<br>Party for Democratic Governance or PGD<br>Path of Hope [Karim MECKASSOUA]<br>Union for Central African Renewal or URCA [Anicet-Georges DOLOGUELE]<br>United Hearts Movement or MCU [Faustin-Archange TOUADERA]<br><br><strong>note:</strong> only parties with seats in the Parliament included<strong><br></strong><br>
+African Party for Radical Transformation and Integration of States or PATRIE [Crepin MBOLI-GOUMBA]<br>Central African Democratic Rally or RDC [Desire KOLINGBA]<br>Movement for the Liberation of the Central African People or MLPC [Martin ZIGUELE]<br>National Convergence (also known as Kwa Na Kwa or KNK) [Francois BOZIZE]<br>National Movement of Independents or MOUNI <br>National Union for Democracy and Progress or UNDP [Michel AMINE]<br>National Union of Republican Democrats or UNADER<br>Party for Democratic Governance or PGD<br>Path of Hope [Karim MECKASSOUA]<br>Union for Central African Renewal or URCA [Anicet-Georges DOLOGUELE]<br>United Hearts Movement or MCU [Faustin-Archange TOUADERA]<br><br><strong>note:</strong> only parties with seats in the Parliament included<strong><br></strong><br>
 
 **International organization participation**<br>
 ACP, AfDB, AU, BDEAC, CEMAC, EITI (compliant country) (suspended), FAO, FZ, G-77, IAEA, IBRD, ICAO, ICCt, ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, Interpol, IOC, IOM, ITSO, ITU, ITUC (NGOs), LCBC, MIGA, NAM, OIC (observer), OIF, OPCW, UN, UNCTAD, UNESCO, UNIDO, UNWTO, UPU, WCO, WHO, WIPO, WMO, WTO<br>
@@ -698,7 +698,7 @@ the 2013 coup resulted in the institutional collapse of the FACA; its forces wer
 ## Transnational Issues
 
 **Disputes - international**<br>
-<p><em>Central African Republic-South Sudan:</em> periodic violent skirmishes persist among related pastoral populations along the border with the Central African Republic over water and grazing rights</p> <p><em>Central African Republic-Sudan: </em>periodic violent skirmishes persist among related pastoral populations along the border with the Central African Republic over water and grazing rights</p><br>
+<p><em>Central African Republic-South Sudan:</em> periodic violent skirmishes persist among related pastoral populations along the border with South Sudan over water and grazing rights</p> <p><em>Central African Republic-Sudan: </em>periodic violent skirmishes persist among related pastoral populations along the border with Sudan over water and grazing rights</p><br>
 
 **Refugees and internally displaced persons**<br>
 _refugees (country of origin)_: 6,342 (Democratic Republic of Congo) (2022)<br>

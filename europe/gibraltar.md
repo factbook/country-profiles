@@ -86,7 +86,7 @@ _0-14 years_: 20.24% (male 3,080/female 2,907)<br>
 _15-24 years_: 13.07% (male 2,000/female 1,866)<br>
 _25-54 years_: 41.28% (male 6,289/female 5,922)<br>
 _55-64 years_: 8.71% (male 1,082/female 1,495)<br>
-_65 years and over_: 16.7% (2020 est.) (male 2,378/female 2,562)<br>
+_65 years and over_: 16.7% (male 2,378/female 2,562) (2020 est.)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: NA<br>
@@ -463,7 +463,7 @@ _subscriptions per 100 inhabitants_: 105 (2020 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: Gibraltar&rsquo;s population is urban based, served by a digital telephone exchange supported by a fiber optic and copper infrastructure; near universal mobile and Internet use (2019)<br>
-_domestic_: automatic exchange facilities; over 50 per 100 fixed-line and 120 per 100 mobile-cellular (2019)<br>
+_domestic_: automatic exchange facilities; over 51 per 100 fixed-line and 105 per 100 mobile-cellular (2020)<br>
 _international_: country code - 350; landing point for the EIG to Europe, Asia, Africa and the Middle East via submarine cables;&nbsp;radiotelephone; microwave radio relay; satellite earth station - 1 Intelsat (Atlantic Ocean) (2019)<br>
 <strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress toward 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>
 

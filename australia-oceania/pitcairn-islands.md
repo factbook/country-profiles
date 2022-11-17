@@ -243,8 +243,8 @@ see United Kingdom<br>
 _chief of state_: King CHARLES III (since 8 September 2022); represented by UK High Commissioner to New Zealand and Governor (nonresident) of the Pitcairn Islands Iona THOMAS (since 9 August 2022)<br>
 _head of government_: Mayor and Chairman of the Island Council Charlene WARREN-PEU (since 1 January 2020)<br>
 _cabinet_: none<br>
-_elections/appointments_: the monarchy is hereditary; governor and commissioner appointed by the monarch; island mayor directly elected by majority popular vote for a 3-year term; election last held on&nbsp;6 November 2019 (next to be held not later than December 2022)<br>
-_election results_: Charlene WARREN-PEU elected mayor and chairman of the Island Council; Island Council vote - NA<br>
+_elections/appointments_: the monarchy is hereditary; governor and commissioner appointed by the monarch; island mayor directly elected by majority popular vote for a 3-year term; election last held on 9 November 2022 (next to be held not later than December 2025)<br>
+_election results_: <p>Simon YOUNG elected mayor and chairman of the Island Council; Island Council vote - NA; takes office 1 January 2023</p><br>
 
 **Legislative branch**<br>
 _description_: unicameral Island Council: 10 seats; (7 members - 5 councillors, the mayor, and the deputy mayor - elected by popular vote, and 3 ex officio non-voting members - the administrator, who serves as both the head of government and the representative of the governor of Pitcairn Islands, the governor, and the deputy governor; the councillors and the deputy mayor serve 2-year terms, the mayor serves a 3-year term, and the administrator is appointed by the governor for an indefinite term)<br>

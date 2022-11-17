@@ -94,7 +94,7 @@ _0-14 years_: 20.82% (male 6,079/female 5,916)<br>
 _15-24 years_: 14.45% (male 4,186/female 4,137)<br>
 _25-54 years_: 39.72% (male 11,962/female 10,921)<br>
 _55-64 years_: 14.66% (male 4,561/female 3,886)<br>
-_65 years and over_: 10.36% (2020 est.) (male 3,170/female 2,798)<br>
+_65 years and over_: 10.36% (male 3,170/female 2,798) (2020 est.)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: NA<br>
@@ -517,8 +517,8 @@ _total subscriptions_: 65,958 (2020 est.)<br>
 _subscriptions per 100 inhabitants_: 116 (2020 est.)<br>
 
 **Telecommunication systems**<br>
-_general assessment_: adequate domestic and international service provided by satellite, cables, and microwave radio relay; the fundamental telecommunications infrastructure consists of a digital radio link from Nanortalik in south Greenland to Uummannaq in north Greenland; satellites cover north and east Greenland for domestic and foreign telecommunications; a marine cable connects south and west Greenland to the rest of the world, extending from Nuuk and Qaqortoq to Canada and Iceland (2018)<br>
-_domestic_: nearly 13 per 100 for fixed-line subscriptions and 109 per 100 for mobile-cellular (2019)<br>
+_general assessment_: adequate domestic and international service provided by satellite, cables, and microwave radio relay; the fundamental telecommunications infrastructure consists of a digital radio link from Nanortalik in south Greenland to Uummannaq in north Greenland; satellites cover north and east Greenland for domestic and foreign telecommunications; a marine cable connects south and west Greenland to the rest of the world, extending from Nuuk and Qaqortoq to Canada and Iceland; a contract has been awarded to build a 5G network in Greenland, initially covering three towns, with 10 towns, including Greenland's capital Nuuk to follow (2022)<br>
+_domestic_: nearly 11 per 100 for fixed-line subscriptions and 116 per 100 for mobile-cellular (2020)<br>
 _international_: country code - 299; landing points for Greenland Connect, Greenland Connect North, Nunavut Undersea Fiber System submarine cables to Greenland, Iceland, and Canada;&nbsp;satellite earth stations - 15 (12 Intelsat, 1 Eutelsat, 2 Americom GE-2 (all Atlantic Ocean)) (2019)<br>
 <strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress toward 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>
 

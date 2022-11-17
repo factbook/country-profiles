@@ -82,7 +82,7 @@ most of the inhabitants live along the sandy coastal region; apart from the capi
 
 **Population**<br>
 28,713,423 (2022 est.)<br>
-<strong>note:</strong> estimates for this country explicitly taken into account the impact of the HIV/AIDS epidemic<br>
+<strong>note:</strong> estimates for this country explicitly take into account the impact of the HIV/AIDS epidemic<br>
 
 **Nationality**<br>
 _noun_: Ivoirian(s)<br>
@@ -107,7 +107,7 @@ _0-14 years_: 38.53% (male 5,311,971/female 5,276,219)<br>
 _15-24 years_: 20.21% (male 2,774,374/female 2,779,012)<br>
 _25-54 years_: 34.88% (male 4,866,957/female 4,719,286)<br>
 _55-64 years_: 3.53% (male 494,000/female 476,060)<br>
-_65 years and over_: 2.85% (2020 est.) (male 349,822/female 433,385)<br>
+_65 years and over_: 2.85% (male 349,822/female 433,385) (2020 est.)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 79.8<br>
@@ -638,7 +638,7 @@ _international_: country code - 225; landing point for the SAT-3/WASC, ACE, Main
 <strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress toward 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>
 
 **Broadcast media**<br>
-state-controlled Radiodiffusion Television Ivoirieinne (RTI) is made up of&nbsp;2 radios stations (Radio Cote d'Ivoire and Frequence2) and&nbsp;2 television stations (RTI1 and RTI2), with nationwide coverage, broadcasts mainly in French; after 2011 post-electoral crisis, President OUATTARA's administration reopened RTI Bouake', the broadcaster's&nbsp;office in Cote d'Ivoire's 2nd largest city, where facilities were destroyed during the 2002 rebellion; Cote d'Ivoire is also home to 178 proximity radios stations, 16 religious radios stations, 5 commercial radios stations, and 5 international radios stations, according to the Haute Autorite' de la Communication Audiovisuelle (HACA); govt now runs radio UNOCIFM, a radio station previously owned by the UN Operation in Cote d'Ivoire; in Dec 2016, the govt announced 4 companies had been granted licenses to operate -Live TV, Optimum Media Cote d'Ivoire, the Audiovisual Company of Cote d'Ivoire (Sedaci), and Sorano-CI, out of the 4 companies only one has started operating (2019)<br>
+state-controlled Radiodiffusion Television Ivoirieinne (RTI) is made up of 2 radio stations (Radio Cote d'Ivoire and Frequence2) and 2 television stations (RTI1 and RTI2), with nationwide coverage, broadcasts mainly in French; after 2011 post-electoral crisis, President OUATTARA's administration reopened RTI Bouake', the broadcaster's office in Cote d'Ivoire's 2nd largest city, where facilities were destroyed during the 2002 rebellion; Cote d'Ivoire is also home to 178 proximity radio stations, 16 religious radio stations, 5 commercial radio stations, and 5 international radios stations, according to the Haute Autorite' de la Communication Audiovisuelle (HACA); govt now runs radio UNOCIFM, a radio station previously owned by the UN Operation in Cote d'Ivoire; in Dec 2016, the govt announced 4 companies had been granted licenses to operate -Live TV, Optimum Media Cote d'Ivoire, the Audiovisual Company of Cote d'Ivoire (Sedaci), and Sorano-CI, out of the 4 companies only one has started operating (2019)<br>
 
 **Internet country code**<br>
 .ci<br>

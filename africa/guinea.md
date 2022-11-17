@@ -104,7 +104,7 @@ _0-14 years_: 41.2% (male 2,601,221/female 2,559,918)<br>
 _15-24 years_: 19.32% (male 1,215,654/female 1,204,366)<br>
 _25-54 years_: 30.85% (male 1,933,141/female 1,930,977)<br>
 _55-64 years_: 4.73% (male 287,448/female 305,420)<br>
-_65 years and over_: 3.91% (2020 est.) (male 218,803/female 270,492)<br>
+_65 years and over_: 3.91% (male 218,803/female 270,492) (2020 est.)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 85.2<br>
@@ -634,7 +634,7 @@ _subscriptions per 100 inhabitants_: 105 (2020 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: the number of mobile subscribers grew strongly while revenue also increased steadily; fixed broadband services are still very limited and expensive, though there have been some positive developments in recent years; the landing of the first international submarine cable in 2012, and the setting up of an IXP in mid-2013, increased the bandwidth available to the ISPs, and helped reduce the cost of internet services for end-users; a National Backbone Network was completed in mid-2020, connecting administrative centers across the country; almost all internet connections are made via mobile networks; GSM services account for a dwindling proportion of connections, in line with the greater reach of services based on 3G and LTE (2022)<br>
-_domestic_: there is national coverage and Conakry is reasonably well-served; coverage elsewhere remains inadequate but is improving; fixed-line teledensity is less than 1 per 100 persons; mobile-cellular subscribership is just over 100 per 100 persons (2019)<br>
+_domestic_: fixed-line teledensity is less than 1 per 100 persons; mobile-cellular subscribership is just over 105 per 100 persons (2020)<br>
 _international_: country code - 224; ACE submarine cable connecting Guinea with 20 landing points in Western and South Africa and Europe; satellite earth station - 1 Intelsat (Atlantic Ocean (2019)<br>
 <strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress toward 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>
 

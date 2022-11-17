@@ -102,7 +102,7 @@ _0-14 years_: 26.96% (male 435,596/female 418,524)<br>
 _15-24 years_: 14.93% (male 239,495/female 233,459)<br>
 _25-54 years_: 45.29% (male 694,481/female 740,334)<br>
 _55-64 years_: 8.04% (male 115,560/female 139,129)<br>
-_65 years and over_: 4.78% (2020 est.) (male 60,966/female 90,482)<br>
+_65 years and over_: 4.78% (male 60,966/female 90,482) (2020 est.)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 54.8<br>
@@ -687,7 +687,7 @@ _by type_: bulk carrier 4, container ship 7, general cargo 131, oil tanker 64, o
 ## Military and Security
 
 **Military and security forces**<br>
-Mongolian Armed Forces (MAF): General Purpose Troops (Mongolian Army), Air/Air Defense Force, Cyber Security, Special Forces, Civil Engineering, Civil Defense Forces (2022)<br>
+Mongolian Armed Forces (MAF): Mongolian Ground Force (aka General Purpose Troops), Air/Air Defense Force, Cyber Security, Special Forces, Civil Engineering, Civil Defense Forces (2022)<br>
 <strong>note: </strong>the National Police Agency and the General Authority for Border Protection, which operate under the Ministry of Justice and Home Affairs, are primarily responsible for internal security; they are assisted by the General Intelligence Agency under the prime minister; the Armed Forces assist the internal security forces in providing domestic emergency assistance and disaster relief<br>
 
 **Military expenditures**<br>

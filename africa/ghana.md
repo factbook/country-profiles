@@ -107,7 +107,7 @@ _0-14 years_: 37.44% (male 5,524,932/female 5,460,943)<br>
 _15-24 years_: 18.64% (male 2,717,481/female 2,752,601)<br>
 _25-54 years_: 34.27% (male 4,875,985/female 5,177,959)<br>
 _55-64 years_: 5.21% (male 743,757/female 784,517)<br>
-_65 years and over_: 4.44% (2020 est.) (male 598,387/female 703,686)<br>
+_65 years and over_: 4.44% (male 598,387/female 703,686) (2020 est.)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 67.4<br>
@@ -637,7 +637,7 @@ _subscriptions per 100 inhabitants_: 130 (2020 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: challenged by unreliable electricity and shortage of skilled labor, Ghana seeks to extend telecom services nationally; investment in fiber infrastructure and off-grid solutions provide data coverage to over 23 million people; launch of LTE has improved mobile data services, including m-commerce and banking; moderately competitive Internet market, most through mobile networks; international submarine cables, and terrestrial cables have improved Internet capacity; LTE services are widely available; the relatively high cost of 5G-compatible devices also inhibits most subscribers from migrating from 3G and LTE platforms (2022)<br>
-_domestic_: fixed-line data about 1 per 200 subscriptions; competition among multiple mobile-cellular providers has spurred growth with a voice subscribership of more than 130 per 100 persons (2022)<br>
+_domestic_: fixed-line data less than 1 per 100 subscriptions; competition among multiple mobile-cellular providers has spurred growth with a voice subscribership of more than 130 per 100 persons (2020)<br>
 _international_: country code - 233; landing points for the SAT-3/WASC, MainOne, ACE, WACS and GLO-1 fiber-optic submarine cables that provide connectivity to South and West Africa, and Europe; satellite earth stations - 4 Intelsat (Atlantic Ocean); microwave radio relay link to Panaftel system connects Ghana to its neighbors; GhanaSat-1 nanosatellite launched in 2017 (2017)<br>
 <strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress toward 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>
 

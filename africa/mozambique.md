@@ -107,7 +107,7 @@ _0-14 years_: 45.57% (male 6,950,800/female 6,766,373)<br>
 _15-24 years_: 19.91% (male 2,997,529/female 2,994,927)<br>
 _25-54 years_: 28.28% (male 3,949,085/female 4,564,031)<br>
 _55-64 years_: 3.31% (male 485,454/female 509,430)<br>
-_65 years and over_: 2.93% (2020 est.) (male 430,797/female 449,771)<br>
+_65 years and over_: 2.93% (male 430,797/female 449,771) (2020 est.)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 88.4<br>
@@ -707,6 +707,7 @@ _by type_: general cargo 9, other 21 (2021)<br>
 
 **Ports and terminals**<br>
 _major seaport(s)_: Beira, Maputo, Nacala<br>
+_LNG terminal(s) (export)_: Coral Sul (FLNG)<br>
 
 ## Military and Security
 

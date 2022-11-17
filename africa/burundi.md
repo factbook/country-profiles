@@ -43,7 +43,7 @@ equatorial; high plateau with considerable altitude variation (772 m to 2,670 m 
 hilly and mountainous, dropping to a plateau in east, some plains<br>
 
 **Elevation**<br>
-_highest point_: unnamed elevation on Mukike Range 2,685 m<br>note - the Factbook map is incorrect; it shows the wrong high elevation<br>
+_highest point_: unnamed elevation on Mukike Range 2,685 m<br>
 _lowest point_: Lake Tanganyika 772 m<br>
 _mean elevation_: 1,504 m<br>
 
@@ -80,7 +80,7 @@ landlocked; straddles crest of the Nile-Congo watershed; the Kagera, which drain
 
 **Population**<br>
 12,696,478 (2022 est.)<br>
-<strong>note:</strong> estimates for this country explicitly taken into account the impact of the HIV/AIDS epidemic<br>
+<strong>note:</strong> estimates for this country explicitly take into account the impact of the HIV/AIDS epidemic<br>
 
 **Nationality**<br>
 _noun_: Burundian(s)<br>
@@ -105,7 +105,7 @@ _0-14 years_: 43.83% (male 2,618,868/female 2,581,597)<br>
 _15-24 years_: 19.76% (male 1,172,858/female 1,171,966)<br>
 _25-54 years_: 29.18% (male 1,713,985/female 1,748,167)<br>
 _55-64 years_: 4.17% (male 231,088/female 264,131)<br>
-_65 years and over_: 3.06% (2020 est.) (male 155,262/female 207,899)<br>
+_65 years and over_: 3.06% (male 155,262/female 207,899) (2020 est.)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 91<br>

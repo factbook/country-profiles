@@ -100,7 +100,7 @@ _0-14 years_: 18.31% (male 317,243/female 298,673)<br>
 _15-24 years_: 11.27% (male 196,874/female 182,456)<br>
 _25-54 years_: 43.13% (male 738,103/female 712,892)<br>
 _55-64 years_: 13.26% (male 205,693/female 240,555)<br>
-_65 years and over_: 14.03% (2020 est.) (male 186,949/female 285,058)<br>
+_65 years and over_: 14.03% (male 186,949/female 285,058) (2020 est.)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 39.6<br>
@@ -705,7 +705,7 @@ Moldova is constitutionally neutral, but has maintained a relationship with NATO
 <p><em>Moldova-Romania</em>: none identified</p> <p><em>Moldova-Ukraine</em>: Ukraine and Moldova signed an agreement officially delimiting their border in 1999, but the border has not been demarcated due to Moldova's difficulties with the break-away region of Transnistria; Moldova and Ukraine operate joint customs posts to monitor the transit of people and commodities through Moldova's break-away Transnistria region, which remains under the auspices of an Organization for Security and Cooperation in Europe-mandated peacekeeping mission comprised of Moldovan, Transnistrian, Russian, and Ukrainian troops</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 95,473 (Ukraine) (as of 1 November 2022)<br>
+_refugees (country of origin)_: 95,928 (Ukraine) (as of 8 November 2022)<br>
 _stateless persons_: 3,372 (mid-year 2021)<br>
 
 **Illicit drugs**<br>

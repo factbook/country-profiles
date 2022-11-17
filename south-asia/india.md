@@ -98,7 +98,7 @@ _adjective_: Indian<br>
 Indo-Aryan 72%, Dravidian 25%, and other 3% (2000)<br>
 
 **Languages**<br>
-Hindi 43.6%, Bengali 8%, Marathi 6.9%, Telugu 6.7%, Tamil 5.7%, Gujarati 4.6%, Urdu 4.2%, Kannada 3.6%, Odia 3.1%, Malayalam 2.9%, Punjabi 2.7%, Assamese 1.3%, Maithili 1.1%, other 5.6%; note - English enjoys the status of subsidiary official language but is the most important language for national, political, and commercial communication; there are 22 other officially recognized languages: Assamese, Bengali, Bodo, Dogri, Gujarati, Hindi, Kannada, Kashmiri, Konkani, Maithili, Malayalam, Manipuri, Nepali, Odia, Punjabi, Sanskrit, Santali, Sindhi, Tamil, Telugu, Urdu; Hindustani is a popular variant of Hindi/Urdu spoken widely throughout northern India but is not an official language (2011 est.)<br>
+Hindi 43.6%, Bengali 8%, Marathi 6.9%, Telugu 6.7%, Tamil 5.7%, Gujarati 4.6%, Urdu 4.2%, Kannada 3.6%, Odia 3.1%, Malayalam 2.9%, Punjabi 2.7%, Assamese 1.3%, Maithili 1.1%, other 5.6%; note - English enjoys the status of subsidiary official language but is the most important language for national, political, and commercial communication; there are 22 other officially recognized languages: Assamese, Bengali, Bodo, Dogri, Gujarati, Hindi, Kannada, Kashmiri, Konkani, Maithili, Malayalam, Manipuri, Marathi, Nepali, Odia, Punjabi, Sanskrit, Santali, Sindhi, Tamil, Telugu, Urdu; Hindustani is a popular variant of Hindi/Urdu spoken widely throughout northern India but is not an official language (2011 est.)<br>
 _major-language sample(s)_: <br>विश्व फ़ैक्टबुक, आधारभूत जानकारी का एक अपरिहार्य स्त्रोत  (Hindi)<br><br>The World Factbook, the indispensable source for basic information.<br>
 
 **Religions**<br>
@@ -109,7 +109,7 @@ _0-14 years_: 26.31% (male 185,017,089/female 163,844,572)<br>
 _15-24 years_: 17.51% (male 123,423,531/female 108,739,780)<br>
 _25-54 years_: 41.56% (male 285,275,667/female 265,842,319)<br>
 _55-64 years_: 7.91% (male 52,444,817/female 52,447,038)<br>
-_65 years and over_: 6.72% (2020 est.) (male 42,054,459/female 47,003,975)<br>
+_65 years and over_: 6.72% (male 42,054,459/female 47,003,975) (2020 est.)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 48.7<br>
@@ -155,7 +155,7 @@ _total population_: 1.06 male(s)/female (2022 est.)<br>
 
 **Mother's mean age at first birth**<br>
 21.2 years (2019/21)<br>
-<strong>note:</strong> data represents median age a first birth among women 25-49<br>
+<strong>note:</strong> data represents median age at first birth among women 25-49<br>
 
 **Maternal mortality ratio**<br>
 145 deaths/100,000 live births (2017 est.)<br>
@@ -653,7 +653,7 @@ _subscriptions per 100 inhabitants_: 84 (2020 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: India&rsquo;s telecommunications sector has struggled for growth over the last five years; the sector&rsquo;s lackluster performance has been in spite of concerted efforts by the government to bolster the underlying infrastructure in a bid to achieve universal coverage; instead, the country&rsquo;s relatively liberal regulatory environment has encouraged fierce competition and price wars among the operators; State-owned as well as private operators have been forced to seek redress from the government in order to avoid bankruptcy; one particular area of contention has been the billions owed by the operators to the government in the form of Adjusted Gross Revenue (AGR) dues &ndash; usage and licensing fees charged by the Department of Telecommunications (DoT) &ndash; that have been the subject of long-standing court battles over what should be counted as revenue; the government won that battle in the Supreme Court in 2019, but the financial impairment of that decision has pushed a number of telcos to the brink; add the impact of the Covid-19 crisis in 2020 and 2021 to the mix, and the government had to come to the industry&rsquo;s rescue by introducing a major reform package in September 2021; along with changes to the definition of AGR with regard to non-telecom revenue, the package includes a four-year moratorium on AGR dues and spectrum instalments; the government has also deferred the spectrum auctions for 5G until later in 2022; mobile spectrum in India is already in short supply in terms of providing the necessary capacity to reach universal coverage, but the cash-strapped MNOs may not yet be in a sufficiently strong financial position for which to make the 5G spectrum auction viable (2022)<br>
-_domestic_: fixed-line subscriptions stands at roughly 1 per 100 and mobile-cellular at nearly 84 per 100; mobile cellular service introduced in 1994 and organized nationwide into four metropolitan areas and 19 telecom circles, each with multiple private service providers and one or more state-owned service providers; in recent years significant trunk capacity added in the form of fiber-optic cable and one of the world's largest domestic satellite systems, the Indian National Satellite system (INSAT), with 6 satellites supporting 33,000 (very small aperture terminals) VSAT (2022)<br>
+_domestic_: fixed-line subscriptions stands at roughly 1 per 100 and mobile-cellular at nearly 84 per 100 (2020)<br>
 _international_: country code - 91; a number of major international submarine cable systems, including SEA-ME-WE-3 &amp; 4, AAE-1, BBG, EIG, FALCON, FEA, GBICS, MENA, IMEWE, SEACOM/ Tata TGN-Eurasia, SAFE, WARF, Bharat Lanka Cable System, IOX, Chennai-Andaman &amp; Nicobar Island Cable, SAEx2, Tata TGN-Tata Indicom and i2icn that provide connectivity to Europe, Africa, Asia, the Middle East, South East Asia, numerous Indian Ocean islands including Australia ; satellite earth stations - 8 Intelsat (Indian Ocean) and 1 Inmarsat; Indian Ocean region (2022)<br>
 <strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress toward 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>
 

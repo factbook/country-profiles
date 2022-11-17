@@ -110,7 +110,7 @@ _0-14 years_: 38.71% (male 10,412,321/female 10,310,908)<br>
 _15-24 years_: 20.45% (male 5,486,641/female 5,460,372)<br>
 _25-54 years_: 33.75% (male 9,046,946/female 9,021,207)<br>
 _55-64 years_: 4.01% (male 1,053,202/female 1,093,305)<br>
-_65 years and over_: 3.07% (2020 est.) (male 750,988/female 892,046)<br>
+_65 years and over_: 3.07% (male 750,988/female 892,046) (2020 est.)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 69.8<br>
@@ -366,7 +366,7 @@ _residency requirement for naturalization_: 4 out of the previous 7 years<br>
 _chief of state_: President William RUTO (since 13 September 2022); note - the president is both chief of state and head of government<br>
 _head of government_: President William RUTO (since 13 September 2022)<br>
 _cabinet_: Cabinet appointed by the president, subject to confirmation by the National Assembly<br>
-_elections/appointments_: president and deputy president directly elected on the same ballot by qualified majority popular vote for a 5-year term (eligible for a second term); in addition to receiving an absolute majority popular vote, the presidential candidate must also win at least 25% of the votes cast in at least 24 of the 47 counties to avoid a runoff; election last held on 26 October 2017 (next to be held on 9 August 2022)<br>
+_elections/appointments_: president and deputy president directly elected on the same ballot by qualified majority popular vote for a 5-year term (eligible for a second term); in addition to receiving an absolute majority popular vote, the presidential candidate must also win at least 25% of the votes cast in at least 24 of the 47 counties to avoid a runoff; election last held on 9 August 2022 (next to be held in 2027)<br>
 _election results_: <em>2017</em>: Uhuru KENYATTA reelected president; percent of vote - Uhuru KENYATTA (Jubilee Party) 98.3%, Raila ODINGA (ODM) 1%, other 0.7%; note - Kenya held a previous presidential election on 8 August 2017, but Kenya's Supreme Court on 1 September 2017 nullified the results, citing irregularities; the political opposition boycotted the October vote<br><br><em>2013</em>:  Uhuru KENYATTA elected president in first round; percent of vote - Uhuru KENYATTA (TNA) 50.1%, Raila ODINGA (ODM) 43.7%, Musalia MUDAVADI (UDF) 4.0%, other 2.2%<br>
 
 **Legislative branch**<br>

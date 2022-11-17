@@ -103,7 +103,7 @@ _0-14 years_: 17.6% (male 284,636/female 256,474)<br>
 _15-24 years_: 15.39% (male 246,931/female 226,318)<br>
 _25-54 years_: 42.04% (male 622,100/female 670,307)<br>
 _55-64 years_: 11.94% (male 178,419/female 188,783)<br>
-_65 years and over_: 13.03% (2020 est.) (male 186,335/female 214,276)<br>
+_65 years and over_: 13.03% (male 186,335/female 214,276) (2020 est.)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 46.9<br>
@@ -434,6 +434,7 @@ $15.273 billion (2019 est.)<br>
 **Credit ratings**<br>
 _Moody's rating_: B1 (2007)<br>
 _Standard & Poors rating_: B+ (2016)<br>
+<strong>note: </strong>The year refers to the year in which the current credit rating was first obtained.<br>
 
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 21.7% (2017 est.)<br>

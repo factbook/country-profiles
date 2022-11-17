@@ -102,7 +102,7 @@ _0-14 years_: 23.91% (male 91,317/female 88,025)<br>
 _15-24 years_: 21.23% (male 81,294/female 77,987)<br>
 _25-54 years_: 39.48% (male 154,825/female 141,385)<br>
 _55-64 years_: 8.37% (male 29,385/female 33,386)<br>
-_65 years and over_: 7.01% (2020 est.) (male 21,325/female 31,275)<br>
+_65 years and over_: 7.01% (male 21,325/female 31,275) (2020 est.)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 53.2<br>
@@ -607,7 +607,7 @@ _subscriptions per 100 inhabitants_: 109 (2020 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: after many years of delays and legal challenges, the 2016 Telecommunications Act was brought into force in October 2020 by the newly elected government of the People&rsquo;s Party Progressive (PPP); the Telecommunications Act sets out a framework for enabling competition across all segments of the telecommunications sector in Guyana; the mobile market has been open to competition since 2001; the Telecommunications Act presents the country with the potential to benefit from a more level playing field that may attract new players, but nevertheless Guyana&rsquo;s relatively small size and low GDP may restrict it from reaching its full potential for some more years to come (2021)<br>
-_domestic_: fixed-line teledensity is about 18 per 100 persons; mobile-cellular teledensity about 83 per 100 persons (2019)<br>
+_domestic_: fixed-line teledensity is about 16 per 100 persons; mobile-cellular teledensity about 83 per 109 persons (2020)<br>
 _international_: country code - 592; landing point for the SG-SCS submarine cable to Suriname,&nbsp;and the Caribbean;&nbsp;satellite earth station - 1 Intelsat (Atlantic Ocean) (2019)<br>
 <strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress toward 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>
 

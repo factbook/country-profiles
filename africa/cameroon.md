@@ -108,7 +108,7 @@ _0-14 years_: 42.34% (male 5,927,640/female 5,820,226)<br>
 _15-24 years_: 20.04% (male 2,782,376/female 2,776,873)<br>
 _25-54 years_: 30.64% (male 4,191,151/female 4,309,483)<br>
 _55-64 years_: 3.87% (male 520,771/female 552,801)<br>
-_65 years and over_: 3.11% (2020 est.) (male 403,420/female 460,248)<br>
+_65 years and over_: 3.11% (male 403,420/female 460,248) (2020 est.)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 81.1<br>
@@ -721,7 +721,7 @@ Garoua (Benoue)<br>
 
 **Military and security forces**<br>
 Cameroon Armed Forces (Forces Armees Camerounaises, FAC): Army (L'Armee de Terre), Navy (Marine Nationale Republique, MNR, includes naval infantry), Air Force (Armee de l'Air du Cameroun, AAC), Rapid Intervention Battalion (Bataillons d’Intervention Rapide or BIR), National Gendarmerie, Presidential Guard (2022)<br>
-<strong>note 1:</strong> the National Police and the National Gendarmerie are responsible for internal security; the Police report to the General Delegation of National Security, while the Gendarmerie reports to the Secretariat of State for Defense in charge of the Gendarmerie<br><br><strong>note 2:</strong> the Rapid Intervention Battalion (BIR) maintains its own command and control structure and reports directly to the president; the BIR is structured as a large brigade with approximately 9 battalions, detachments, or groups consisting of infantry, airborne, amphibious, armored reconnaissance, counter-terrorism, and support elements<br>
+<strong>note 1:</strong> the National Police and the National Gendarmerie are responsible for internal security; the Police report to the General Delegation of National Security, while the Gendarmerie reports to the Secretariat of State for Defense in charge of the Gendarmerie<br><br><strong>note 2:</strong> the Rapid Intervention Battalion (BIR) maintains its own command and control structure and reports directly to the president; the BIR is structured as a large brigade with up to 9 battalions, detachments, or groups consisting of infantry, airborne/airmobile, amphibious, armored reconnaissance, counterterrorism, and support elements, such as artillery and intelligence<br>
 
 **Military expenditures**<br>
 1% of GDP (2021 est.)<br>
@@ -731,7 +731,8 @@ Cameroon Armed Forces (Forces Armees Camerounaises, FAC): Army (L'Armee de Terre
 1.5% of GDP (2017 est.) (approximately $710 million)<br>
 
 **Military and security service personnel strengths**<br>
-information varies widely; approximately 40,000 active duty troops; (25,000 ground forces, including the BIR and Presidential Guard; 2,000 Navy; 1,000 Air Force; 12,000 Gendarmerie) (2022)<br>
+information varies; approximately 40,000 active-duty troops; (25,000 ground forces, including the Rapid Intervention Battalion/BIR and Presidential Guard; 2,000 Navy; 1,000 Air Force; 12,000 Gendarmerie) (2022)<br>
+<strong>note: </strong>the BIR has approximately 5,000 personnel<br>
 
 **Military equipment inventories and acquisitions**<br>
 the FAC inventory includes a wide mix of mostly older or second-hand Chinese, Russian, and Western equipment, with a limited quantity of more modern weapons; since 2010, China has been the leading supplier of armaments to the FAC (2021)<br>
@@ -761,7 +762,7 @@ Boko Haram; Islamic State of Iraq and ash-Sham – West Africa<br>
 <p>Joint Border Commission with Nigeria reviewed 2002 ICJ ruling on the entire boundary and bilaterally resolved differences, including June 2006 Greentree Agreement that immediately ceded sovereignty of the Bakassi Peninsula to Cameroon with a full phase-out of Nigerian control and patriation of residents in 2008; Cameroon and Nigeria agreed on maritime delimitation in March 2008; sovereignty dispute between Equatorial Guinea and Cameroon over an island at the mouth of the Ntem River; only Nigeria and Cameroon have heeded the Lake Chad Commission's admonition to ratify the delimitation treaty, which also includes the Chad-Niger and Niger-Nigeria boundaries</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 351,541 (Central African Republic), 136,036 (Nigeria) (2022)<br>
+_refugees (country of origin)_: 353,362 (Central African Republic), 138,107 (Nigeria) (2022)<br>
 _IDPs_: 975,786 (2022) (includes far north, northwest, and southwest)<br>
 
 **Trafficking in persons**<br>

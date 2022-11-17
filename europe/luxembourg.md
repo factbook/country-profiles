@@ -97,7 +97,7 @@ _0-14 years_: 16.73% (male 54,099/female 51,004)<br>
 _15-24 years_: 11.78% (male 37,946/female 36,061)<br>
 _25-54 years_: 43.93% (male 141,535/female 134,531)<br>
 _55-64 years_: 12.19% (male 39,289/female 37,337)<br>
-_65 years and over_: 15.37% (2020 est.) (male 43,595/female 52,984)<br>
+_65 years and over_: 15.37% (male 43,595/female 52,984) (2020 est.)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 42.8<br>

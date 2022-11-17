@@ -104,7 +104,7 @@ _0-14 years_: 15.34% (male 664,255/female 625,252)<br>
 _15-24 years_: 10.39% (male 446,196/female 426,708)<br>
 _25-54 years_: 42.05% (male 1,768,245/female 1,765,941)<br>
 _55-64 years_: 13.48% (male 569,717/female 563,482)<br>
-_65 years and over_: 18.73% (2020 est.) (male 699,750/female 874,448)<br>
+_65 years and over_: 18.73% (male 699,750/female 874,448) (2020 est.)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 51.6<br>
@@ -733,7 +733,7 @@ Islamic State of Iraq and ash-Sham (ISIS)<br>
 <p>none identified</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 38,219 (Eritrea), 20,043 (Syria), 14,649 (Afghanistan), 6,069 (Sri Lanka), 6,197 (Turkey) (mid-year 2021); 68,086 (Ukraine) (as of 30 October 2022)<br>
+_refugees (country of origin)_: 38,219 (Eritrea), 20,043 (Syria), 14,649 (Afghanistan), 6,069 (Sri Lanka), 6,197 (Turkey) (mid-year 2021); 68,620 (Ukraine) (as of 8 November 2022)<br>
 _stateless persons_: 684 (mid-year 2021)<br>
 
 **Illicit drugs**<br>

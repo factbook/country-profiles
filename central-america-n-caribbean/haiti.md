@@ -99,7 +99,7 @@ _0-14 years_: 31.21% (male 1,719,961/female 1,734,566)<br>
 _15-24 years_: 20.71% (male 1,145,113/female 1,146,741)<br>
 _25-54 years_: 38.45% (male 2,110,294/female 2,145,209)<br>
 _55-64 years_: 5.3% (male 280,630/female 305,584)<br>
-_65 years and over_: 4.33% (2020 est.) (male 210,451/female 269,228)<br>
+_65 years and over_: 4.33% (male 210,451/female 269,228) (2020 est.)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 60.4<br>
@@ -332,7 +332,7 @@ accepts compulsory ICJ jurisdiction; non-party state to the ICCt<br>
 **Citizenship**<br>
 _citizenship by birth_: no<br>
 _citizenship by descent only_: at least one parent must be a native-born citizen of Haiti<br>
-_dual citizenship recognized_: no<br>
+_dual citizenship recognized_: yes<br>
 _residency requirement for naturalization_: 5 years<br>
 
 **Suffrage**<br>
@@ -601,7 +601,7 @@ _subscriptions per 100 inhabitants_: 64 (2020 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: Haiti is in desperate need of maintaining effective communication services to enable it to keep going through the countless natural disasters, the country&rsquo;s telecoms sector is really only surviving on the back of international goodwill to repair and replace the systems destroyed in the latest upheaval; Haiti&rsquo;s fixed-line infrastructure is now practically non-existent, having been torn apart by Hurricane Matthew in 2016; what aid and additional investment has been forthcoming has been directed towards mobile solutions; over half of the country can afford a mobile handset or the cost of a monthly subscription; and mobile broadband subscriptions is half of that again &ndash; an estimated 28% in 2022; international aid continues to flow in to try and help the country&rsquo;s telecoms sector recover &ndash; the World Bank has released a further $120 million to go on top of the $60 million grant provided after the last major 7.2 earthquake in August 2021 (2022)<br>
-_domestic_: fixed-line is less than 1 per 100; mobile-cellular telephone services have expanded greatly in the last decade due to low-cost GSM (Global Systems for Mobile) phones and pay-as-you-go plans; mobile-cellular teledensity is nearly 61 per 100 persons (2019)<br>
+_domestic_: fixed-line is less than 1 per 100; mobile-cellular teledensity is nearly 64 per 100 persons (2020)<br>
 _international_: country code - 509; landing points for the BDSNi and Fibralink submarine cables to 14 points in the Bahamas and Dominican Republic; satellite earth station - 1 Intelsat (Atlantic Ocean) (2019)<br>
 <strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress toward 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>
 

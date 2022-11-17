@@ -97,7 +97,7 @@ _0-14 years_: 33.63% (male 185,640/female 185,808)<br>
 _15-24 years_: 18.71% (male 98,029/female 108,654)<br>
 _25-54 years_: 39.46% (male 202,536/female 233,275)<br>
 _55-64 years_: 4.36% (male 20,529/female 27,672)<br>
-_65 years and over_: 3.83% (2020 est.) (male 15,833/female 26,503)<br>
+_65 years and over_: 3.83% (male 15,833/female 26,503) (2020 est.)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 70.8<br>
@@ -603,7 +603,7 @@ _subscriptions per 100 inhabitants_: 107 (2020 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: Eswatini was one of the last countries in the world to open up its telecom market to competition; until 2011 the state-owned Eswatini Posts and Telecommunications also acted as the industry regulator and had a stake in the country&rsquo;s sole mobile network; a new independent regulatory authority was established in late 2013 and has since embarked on significant changes to the sector; mobile market subscriptions have been affected by the common use among subscribers when they use SIM cards from different networks in order to access cheaper on-net calls; subscriber growth has slowed in recent years, but was expected to have reached 8% in 2021, as people adapted to the changing needs for connectivity caused by the pandemic; the internet sector has been open to competition with a small number of licensed ISPs; DSL services were introduced in 2008, development of the sector has been hampered by the limited fixed-line infrastructure and by a lack of competition in the access and backbone networks; Eswatini is landlocked and so depends on neighboring countries for international bandwidth; this has meant that access pricing is relatively high, and market subscriptions remains relatively low; prices have fallen recently in line with greater bandwidth availability resulting from several new submarine cable systems which have reached the region in recent years; in September 2020 a terrestrial cable linked Mozambique with Eswatini and South Africa (2022)<br>
-_domestic_: Eswatini has 2 mobile-cellular providers; communication infrastructure has a geographic coverage of about 90% and a rising subscriber base; fixed-line stands at nearly 4 per 100 and mobile-cellular teledensity roughly 94 telephones per 100 persons; telephone system consists of carrier-equipped, open-wire lines and low-capacity, microwave radio relay (2019)<br>
+_domestic_: Eswatini has 2 mobile-cellular providers; communication infrastructure has a geographic coverage of about 90% and a rising subscriber base; fixed-line stands at nearly 3 per 100 and mobile-cellular teledensity roughly 107 telephones per 100 persons; telephone system consists of carrier-equipped, open-wire lines and low-capacity, microwave radio relay (2020)<br>
 _international_: country code - 268; satellite earth station - 1 Intelsat (Atlantic Ocean)<br>
 <strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress toward 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>
 

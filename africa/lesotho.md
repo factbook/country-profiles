@@ -103,7 +103,7 @@ _0-14 years_: 31.3% (male 309,991/female 306,321)<br>
 _15-24 years_: 19.26% (male 181,874/female 197,452)<br>
 _25-54 years_: 38.86% (male 373,323/female 391,901)<br>
 _55-64 years_: 4.98% (male 52,441/female 45,726)<br>
-_65 years and over_: 5.6% (2020 est.) (male 57,030/female 53,275)<br>
+_65 years and over_: 5.6% (male 57,030/female 53,275) (2020 est.)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 59.2<br>
@@ -355,7 +355,7 @@ _residency requirement for naturalization_: 5 years<br>
 
 **Executive branch**<br>
 _chief of state_: King LETSIE III (since 7 February 1996); note - King LETSIE III formerly occupied the throne from November 1990 to February 1995 while his father was in exile<br>
-_head of government_: Prime Minister Moeketsi MAJORO (since 20 May 2020); note - Prime Minister Thomas THABANE resigned on 19 May 2020<br>
+_head of government_: Prime Minister Ntsokoane Samuel MATEKANE (4 November 2022)<br>
 _cabinet_: consists of the prime minister, appointed by the King on the advice of the Council of State, the deputy prime minister, and 26 other ministers<br>
 _elections/appointments_: the monarchy is hereditary, but under the terms of the constitution that came into effect after the March 1993 election, the monarch is a "living symbol of national unity" with no executive or legislative powers; under traditional law, the College of Chiefs has the power to depose the monarch, to determine next in line of succession, or to serve as regent in the event that a successor is not of mature age; following legislative elections, the leader of the majority party or majority coalition in the Assembly automatically becomes prime minister<br>
 

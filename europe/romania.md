@@ -104,7 +104,7 @@ _0-14 years_: 14.12% (male 1,545,196/female 1,463,700)<br>
 _15-24 years_: 10.31% (male 1,126,997/female 1,068,817)<br>
 _25-54 years_: 46.26% (male 4,993,886/female 4,860,408)<br>
 _55-64 years_: 11.73% (male 1,176,814/female 1,322,048)<br>
-_65 years and over_: 17.58% (2020 est.) (male 1,516,472/female 2,228,555)<br>
+_65 years and over_: 17.58% (male 1,516,472/female 2,228,555) (2020 est.)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 53.3<br>
@@ -729,9 +729,9 @@ Islamic State of Iraq and ash-Sham (ISIS)<br>
 <p><em>Romania-Bulgaria</em>: none identified</p> <p><em>Romania-Hungary</em>: none identified</p> <p><em>Romania-Moldova</em>: none identified</p> <p><em>Romania-Serbia</em>: none identified</p> <p><em>Romania-Ukraine</em>: the International Court of Justice ruled largely in favor of Romania in its dispute submitted in 2004 over Ukrainian-administered Zmiyinyy/Serpilor (Snake) Island and Black Sea maritime boundary delimitation; in 2007, Romania opposed Ukraine's construction of a navigation canal from the Danube border through Ukraine to the Black Sea, arguing that it runs through a unique ecological area, the Danube Delta</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 87,853 (Ukraine) (as of 30 October 2022)<br>
+_refugees (country of origin)_: 88,831 (Ukraine) (as of 6 November 2022)<br>
 _stateless persons_: 314 (mid-year 2021)<br>
-<strong>note:</strong> 11,627 estimated refugee and migrant arrivals (January 2015-October 2022)<br>
+<strong>note:</strong> 11,847 estimated refugee and migrant arrivals (January 2015-November 2022)<br>
 
 **Trafficking in persons**<br>
 _current situation_: human traffickers exploit domestic and foreign victims in Romania and Romanians abroad;&nbsp; Romania remains a primary source country for sex and labor trafficking victims in Europe; Romanian men, women, and children are subjected to forced labor in agriculture, construction, hotels, manufacturing, domestic service, commercial sex, and forced begging and theft; Romania is a destination country for a limited number of foreign trafficking victims, including migrants from Africa, Europe, and South and Southeast Asia, exploited in the construction, hotel, and food-processing industries<br>

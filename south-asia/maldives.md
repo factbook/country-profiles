@@ -42,7 +42,7 @@ measured from claimed archipelagic straight baselines<br>
 tropical; hot, humid; dry, northeast monsoon (November to March); rainy, southwest monsoon (June to August)<br>
 
 **Terrain**<br>
-flat, with white sandy beaches<br>
+flat coral atolls, with white sandy beaches; sits atop the submarine volcanic Chagos-Laccadive Ridge<br>
 
 **Elevation**<br>
 _highest point_: 8th tee, golf course, Villingi Island 5 m<br>
@@ -95,7 +95,7 @@ _0-14 years_: 22.13% (male 44,260/female 42,477)<br>
 _15-24 years_: 17.24% (male 37,826/female 29,745)<br>
 _25-54 years_: 48.91% (male 104,217/female 87,465)<br>
 _55-64 years_: 6.91% (male 12,942/female 14,123)<br>
-_65 years and over_: 4.81% (2020 est.) (male 8,417/female 10,432)<br>
+_65 years and over_: 4.81% (male 8,417/female 10,432) (2020 est.)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 30.2<br>

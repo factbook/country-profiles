@@ -99,7 +99,7 @@ _0-14 years_: 13.45% (male 4,292,431/female 4,097,732)<br>
 _15-24 years_: 9.61% (male 3,005,402/female 2,989,764)<br>
 _25-54 years_: 40.86% (male 12,577,764/female 12,921,614)<br>
 _55-64 years_: 14% (male 4,243,735/female 4,493,581)<br>
-_65 years and over_: 22.08% (2020 est.) (male 5,949,560/female 7,831,076)<br>
+_65 years and over_: 22.08% (male 5,949,560/female 7,831,076) (2020 est.)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 57<br>
@@ -617,13 +617,13 @@ _total subscriptions_: 77,581,048 (2020 est.)<br>
 _subscriptions per 100 inhabitants_: 128 (2020 est.)<br>
 
 **Telecommunication systems**<br>
-_general assessment_: Italy&rsquo;s large telecom market has one of the most progressive fiber sectors in Europe, with regulatory measures encouraging network sharing; regulatory measures have also been introduced to facilitate access to NGNs, and a number of deals have been brokered which enable the main telcoms to provide bundled services to large numbers of the population; Italy&rsquo;s vibrant mobile market has one of the highest subscription rates in Europe, though the number of subscribers has fallen in recent years as customers respond to attractive off-net pricing which has reduced the financial benefit of having SIM cards from different providers; network companies were among the first in Europe to trial services based on 5G; the high cost also encouraged the regulator in early 2021 to consider extending the licenses by an additional six years (2021)<br>
+_general assessment_: Italy&rsquo;s large telecom market has one of the most progressive fiber sectors in Europe, with regulatory measures encouraging network sharing; regulatory measures have also been introduced to facilitate access to next generation networks (NGNs), and a number of deals have been brokered which enable the main telcoms to provide bundled services to large numbers of the population; Italy&rsquo;s vibrant mobile market has one of the highest subscription rates in Europe, though the number of subscribers has fallen in recent years as customers respond to attractive off-net pricing which has reduced the financial benefit of having SIM cards from different providers; network companies were among the first in Europe to trial services based on 5G; the high cost also encouraged the regulator in early 2021 to consider extending the licenses by an additional six years (2021)<br>
 _domestic_: high-capacity cable and microwave radio relay trunks; 32 per 100 for fixed-line and nearly 128 per 100 for mobile-cellular subscriptions (2020)<br>
 _international_: country code - 39; landing points for&nbsp;Italy-Monaco, Italy-Libya, Italy-Malta, Italy-Greece-1, Italy-Croatia, BlueMed, Janna, FEA, SeaMeWe-3 &amp; 4 &amp; 5, Trapani-Kelibia, Columbus-III, Didon, GO-1, HANNIBAL System, MENA, Bridge International, Malta-Italy Interconnector, Melita1, IMEWE, VMSCS, AAE-1, and OTEGLOBE, submarine cables that provide links to Asia, the&nbsp;Middle East, Europe, North Africa, Southeast Asia, Australia and US; satellite earth stations - 3 Intelsat (with a total of 5 antennas - 3 for Atlantic Ocean and 2 for Indian Ocean) (2019)<br>
 <strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress toward 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>
 
 **Broadcast media**<br>
-two Italian media giants dominate - the publicly owned Radiotelevisione Italiana (RAI) with 3 national terrestrial stations and privately owned Mediaset with 3 national terrestrial stations; a large number of private stations and Sky Italia - a satellite TV network; RAI operates 3 AM/FM nationwide radio stations; about 1,300 commercial radio stations<br>
+two Italian media giants dominate with 3 national terrestrial stations and privately owned companies with 3 national terrestrial stations; a large number of private stations, a satellite TV network; 3 AM/FM nationwide radio stations; about 1,300 commercial radio stations<br>
 
 **Internet country code**<br>
 .it<br>
@@ -737,7 +737,7 @@ Islamic State of Iraq and ash-Sham (ISIS)<br>
 **Refugees and internally displaced persons**<br>
 _refugees (country of origin)_: 19,441 (Nigeria), 15,337 (Pakistan), 12,962 (Afghanistan), 10,609 (Mali), 7,901 (Somalia), 5,845 (Gambia), 5,079 (Iraq) (mid-year 2021); 171,546 (Ukraine) (as of 31 October 2022)<br>
 _stateless persons_: 3,000 (mid-year 2021)<br>
-<strong>note:</strong> 666,559 estimated refugee and migrant arrivals (January 2015-October 2022)<br>
+<strong>note:</strong> 682,830 estimated refugee and migrant arrivals (January 2015-November 2022)<br>
 
 **Illicit drugs**<br>
 important gateway for drug trafficking; organized crime groups allied with Colombian and Spanish groups trafficking cocaine to Europe<br>

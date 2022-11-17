@@ -101,7 +101,7 @@ _0-14 years_: 14.54% (male 731,542/female 689,739)<br>
 _15-24 years_: 10.43% (male 526,933/female 492,388)<br>
 _25-54 years_: 42.17% (male 2,075,763/female 2,044,664)<br>
 _55-64 years_: 12.17% (male 552,876/female 636,107)<br>
-_65 years and over_: 20.69% (2020 est.) (male 773,157/female 1,248,658)<br>
+_65 years and over_: 20.69% (male 773,157/female 1,248,658) (2020 est.)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 46.9<br>
@@ -737,7 +737,7 @@ Islamic State of Iraq and ash-Sham (ISIS)<br>
 <p>bilateral government, legal, technical and economic working group negotiations continue in 2006 with Slovakia over Hungary's failure to complete its portion of the Gabcikovo-Nagymaros hydroelectric dam project along the Danube; as a member state that forms part of the EU's external border, Hungary has implemented the strict Schengen border rules</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 31,290 (Ukraine) (as of 1 November 2022)<br>
+_refugees (country of origin)_: 31,290 (Ukraine) (as of 8 November 2022)<br>
 _stateless persons_: 130 (mid-year 2021)<br>
 
 **Illicit drugs**<br>

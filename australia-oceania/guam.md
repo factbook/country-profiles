@@ -92,7 +92,7 @@ _0-14 years_: 27.22% (male 23,748/female 22,122)<br>
 _15-24 years_: 16.08% (male 14,522/female 12,572)<br>
 _25-54 years_: 36.65% (male 31,880/female 29,871)<br>
 _55-64 years_: 10.5% (male 9,079/female 8,610)<br>
-_65 years and over_: 9.54% (2020 est.) (male 7,504/female 8,577)<br>
+_65 years and over_: 9.54% (male 7,504/female 8,577) (2020 est.)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 52.4<br>
@@ -275,8 +275,8 @@ see United States<br>
 _chief of state_: President Joseph R. BIDEN Jr. (since 20 January 2021); Vice President Kamala D. HARRIS (since 20 January 2021)<br>
 _head of government_: Governor Lourdes LEON GUERRERO (since 7 January 2019); Lieutenant Governor Josh TENORIO (since 7 January 2019)<br>
 _cabinet_: Cabinet appointed by the governor with the consent of the Legislature<br>
-_elections/appointments_: president and vice president indirectly elected on the same ballot by an Electoral College of 'electors' chosen from each state to serve a 4-year term (eligible for a second term); under the US Constitution, residents of unincorporated territories, such as Guam, do not vote in elections for US president and vice president; however, they may vote in Democratic and Republican presidential primary elections; governor and lieutenant governor elected on the same ballot by absolute majority vote in 2 rounds if needed for a 4-year term (eligible for 2 consecutive terms); election last held on 6 November 2018 (next to be held in November 2022)<br>
-_election results_: Lourdes LEON GUERRERO elected governor; percent of vote - &nbsp;Lourdes LEON GUERRERO (Democratic Party) 50.7%, Ray TENORIO (Republican Party) 26.4%; Josh TENORIO (Democratic Party) elected lieutenant governor<br>
+_elections/appointments_: president and vice president indirectly elected on the same ballot by an Electoral College of 'electors' chosen from each state to serve a 4-year term (eligible for a second term); under the US Constitution, residents of unincorporated territories, such as Guam, do not vote in elections for US president and vice president; however, they may vote in Democratic and Republican presidential primary elections; governor and lieutenant governor elected on the same ballot by absolute majority vote in 2 rounds if needed for a 4-year term (eligible for 2 consecutive terms); election last held on 8 November 2022 (next to be held in November 2026)<br>
+_election results_: Lourdes LEON GUERRERO reelected governor; percent of vote - &nbsp;Lourdes LEON GUERRERO (Democratic Party) 55%, Felix CAMACHO (Republican Party) 44%; Josh TENORIO (Democratic Party) elected lieutenant governor<br>
 
 **Legislative branch**<br>
 _description_: unicameral Legislature of Guam or Liheslaturan Guahan (15 seats; members elected in a single countrywide constituency by simple majority vote to serve 2-year terms)<br>Guam directly elects 1 member by simple majority vote to serve a 2-year term as the delegate to the US House of Representatives; note - the delegate can vote when serving on a committee and when the House meets as the Committee of the Whole House, but not when legislation is submitted for a “full floor” House vote<br>
@@ -502,7 +502,7 @@ _subscriptions per 100 inhabitants_: 62 (2009 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: Guam&rsquo;s telecommunications companies provide important services that allow other businesses on island to operate; Guam plays a larger, and growing role, in global telecommunications infrastructure, the submarine fiber optic cables that land on Guam benefit island residents and the local economy; in the Asia-Pacific region the demand for 4G, 5G, and broadband access is rapidly increasing; the 11 submarine cables that currently land on Guam, connecting the U.S. to the Asia-Pacific region, are some of the more than 400 cables that are the backbone of global telecommunications, providing nearly all of the world&rsquo;s internet and phone service (2021)<br>
-_domestic_: three major companies provide both fixed-line and mobile services, as well as access to the Internet; fixed-line subscriptions in 2018 were 42 per 100 and 62 per 100 mobile-cellular subscriptions in 2004 (2019)<br>
+_domestic_: fixed-line subscriptions 41 per 100 and 62 per 100 mobile-cellular subscriptions in 2004 (2020)<br>
 _international_: country code - 1-671; major landing points for Atisa, HANTRU1, HK-G, JGA-N, JGA-S, PIPE-1, SEA-US, SxS, Tata TGN-Pacific, AJC, GOKI, AAG, AJC and Mariana-Guam Cable submarine cables between Asia, Australia, and the US (Guam is a transpacific communications hub for major carriers linking the US and Asia); satellite earth stations - 2 Intelsat (Pacific Ocean) (2019)<br>
 <strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress toward 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>
 

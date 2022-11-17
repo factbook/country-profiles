@@ -83,7 +83,7 @@ _0-14 years_: 14.5% (male 5,008/female 4,712)<br>
 _15-24 years_: 10.58% (male 3,616/female 3,476)<br>
 _25-54 years_: 40.73% (male 13,821/female 13,492)<br>
 _55-64 years_: 13.96% (male 4,635/female 4,728)<br>
-_65 years and over_: 20.23% (2020 est.) (male 6,229/female 7,335)<br>
+_65 years and over_: 20.23% (male 6,229/female 7,335) (2020 est.)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 49<br>
@@ -386,8 +386,8 @@ _total subscriptions_: 43,824 (2009 est.)<br>
 _subscriptions per 100 inhabitants_: 79 (2009 est.)<br>
 
 **Telecommunication systems**<br>
-_general assessment_: high performance global connections with quality service; connections to major cities around the world to rival and attract future investment and future needs of islanders and businesses (2018)<br>
-_domestic_: fixed-line 54 per 100 and mobile-cellular 114 per 100 persons (2020)<br>
+_general assessment_: fixed network broadband services are those delivered over physical copper connections, fiber connections and fixed wireless communications links (e.g. WiMax); they do not include services delivered over 2G, 3G and 4G mobile networks (2021)<br>
+_domestic_: fixed-line 47 per 100 and mobile-cellular 112 per 100 persons (2021)<br>
 _international_: country code - 44;&nbsp;landing points for Guernsey-Jersey, HUGO, INGRID, Channel Islands -9 Liberty&nbsp;and UK-Channel Islands-7&nbsp;submarine cable to UK and&nbsp;France (2019)<br>
 <strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress toward 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>
 

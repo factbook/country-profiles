@@ -107,7 +107,7 @@ _0-14 years_: 26.13% (male 2,438,148/female 2,550,535)<br>
 _15-24 years_: 12.97% (male 1,262,766/female 1,212,645)<br>
 _25-54 years_: 42.23% (male 3,960,188/female 4,102,845)<br>
 _55-64 years_: 10.25% (male 856,180/female 1,099,923)<br>
-_65 years and over_: 8.43% (2020 est.) (male 567,269/female 1,041,450)<br>
+_65 years and over_: 8.43% (male 567,269/female 1,041,450) (2020 est.)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 58.8<br>
@@ -625,7 +625,7 @@ _subscriptions per 100 inhabitants_: 129 (2020 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: Kazakhstan has one of the most developed telecommunications sectors in the Central Asian region; this is especially true of the mobile segment, where widespread network coverage has enabled very high penetration rates reaching 180% as far back as 2012; the mobile and fixed-line segments have both pared back their subscriber numbers to more modest levels; the telcos have still been successful in terms of improving their margins and revenues by growing value-added services along with exploiting the capabilities of their higher speed networks (4G LTE as well as fiber) to drive significant increases in data usage; Kazakhstan has enjoyed a&nbsp; high fixed-line teledensity thanks to concerted efforts to invest in the fixed-line infrastructure as well as next-generation networks; demand for traditional voice services is on the wane as customers take a preference for the flexibility and ubiquity of the mobile platform for voice as well as data services; mobile clearly dominates the telecom sector in Kazakhstan, yet 2020 saw a sharp drop in subscriber numbers for both mobile voice and mobile broadband services as the Covid-19 crisis took hold; with the exception of fixed-line voice services, Kazakhstan&rsquo;s telecom market is expected to return to moderate growth from 2022 onward; the extensive deployment of LTE networks across the country (along with the prospect of 5G services being added to the mix in 2023) points towards an even greater uptake of lucrative mobile broadband services, in particular (2021)<br>
-_domestic_: intercity by landline and microwave radio relay; number of fixed-line connections is approximately 17 per 100 persons; mobile-cellular subscriber base 134 per 100 persons (2020)<br>
+_domestic_: intercity by landline and microwave radio relay; number of fixed-line connections is approximately 16 per 100 persons; mobile-cellular subscriber base 129 per 100 persons (2020)<br>
 _international_: country code - 7; international traffic with other former Soviet republics and China carried by landline and microwave radio relay and with other countries by satellite and by the TAE fiber-optic cable; satellite earth stations - 2 Intelsat<br>
 <strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress toward 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>
 

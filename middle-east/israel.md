@@ -99,7 +99,7 @@ _0-14 years_: 26.76% (male 1,187,819/female 1,133,365)<br>
 _15-24 years_: 15.67% (male 694,142/female 665,721)<br>
 _25-54 years_: 37.2% (male 1,648,262/female 1,579,399)<br>
 _55-64 years_: 8.4% (male 363,262/female 365,709)<br>
-_65 years and over_: 11.96% (2020 est.) (male 467,980/female 569,816)<br>
+_65 years and over_: 11.96% (male 467,980/female 569,816) (2020 est.)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 67.3<br>
@@ -344,15 +344,15 @@ _residency requirement for naturalization_: 3 out of the 5 years preceding the a
 
 **Executive branch**<br>
 _chief of state_: President Isaac HERZOG (since 7 July 2021)<br>
-_head of government_: Prime Minister Yair LAPID serving as caretaker (since 1 July 2022); under the terms of the coalition government made a year ago, LAPID became prime minister on 1 July 2022, replacing former Prime Minister Naftali BENNETT<br>
+_head of government_: on 13 November 2022, President HERZOG tasked Benjamin NETANYHU with forming a new government<br>
 _cabinet_: Cabinet selected by prime minister and approved by the Knesset<br>
 _elections/appointments_: president indirectly elected by the Knesset for a single 7-year term; election last held on 2 June 2021 (next to be held in June 2028); following legislative elections, the president, in consultation with party leaders, tasks a Knesset member (usually the member of the largest party) with forming a new government<br>
 _election results_: <em>2021:</em> Issac HERZOG elected president; Knesset vote - Issac HERZOG (independent) 87, Miriam PERETZ (independent) 26, invalid/blank 7<br>
 
 **Legislative branch**<br>
 _description_: unicameral Knesset (120 seats; members directly elected in a single nationwide constituency by closed-list proportional representation vote, with a 3.25% vote threshold to gain representation; members serve 4-year terms)<br>
-_elections_: last held on 23 March 2021; the Knesset was dissolved on 30 June 2022 (next scheduled for 1 November 2022)<br>
-_election results_: percent by party - Likud 24.2%, Yesh Atid 13.9%, Shas 7.2%, Blue and White 6.6%, Yamina 6.2%, Labor 6.1%, UTJ 5.6%, Yisrael Beiteinu 5.6%, Religious Zionist Party 5.1%, Joint List 4.8%, New Hope 4.7%, Meretz 4.6%, Ra'am 3.8%, other 0.5%; seats by party - Likud 30, Yesh Atid 17, Shas 9, Blue and White 8, Yamina 7, Labor 7, UTJ 7, Yisrael Beiteinu 7, Religious Zionist Party 6, Joint List 6, New Hope 6, Meretz 6, Ra'am 4; composition as of March 2022 - men 84, women 36, percentage of women 30%<br>
+_elections_: last held on 1 November 2022 (next scheduled for November 2026)<br>
+_election results_: percent by party - Likud 23.4%, Yesh Atid 17.8%, Religious Zionist Party 10.8%, National Unity 9.1%, Shas 8.2%, UTJ 5.9%, Yisrael Beiteinu 4.5%, United Arab List 4.1%, Hadash-Ta'al 3.8%, Labor 3.7%, Meretz 3.2%, other 1.6%; seats by party - Likud 32, Yesh Atid 24, Religious Zionist Party 14, National Unity 12, Shas 11, UTJ 7, Yisrael Beiteinu 6, Hadash-Ta'al 5, United Arab List 5, Labor 4; composition - men 91, women 29, percentage of women 24.2%<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme Court (consists of the president, deputy president, 13 justices, and 2 registrars) and normally sits in panels of 3 justices; in special cases, the panel is expanded with an uneven number of justices<br>
@@ -360,7 +360,7 @@ _judge selection and term of office_: judges selected by the 9-member Judicial S
 _subordinate courts_: district and magistrate courts; national and regional labor courts; family and juvenile courts; special and Rabbinical courts<br>
 
 **Political parties and leaders**<br>
-Blue and White [Benny GANTZ]<br>Joint Arab List [Ayman ODEH] (alliance includes Hadash, Ta’al, Balad)<br>Labor Party or HaAvoda [Merav MICHAELI]<br>Likud [Binyamin NETANYAHU]<br>Meretz [Zehava GAL-ON]<br>New Hope [Gideon SA'AR]<br>Religious Zionist Party [Bezalel SMOTRICH, chairperson]<br>SHAS [Aryeh DERI]<br>United Arab List [Mansour ABBAS]<br>United Torah Judaism or UTJ [Moshe GAFNI] (alliance includes Agudat Israel and Degel HaTorah)<br>Yamina [Ayelet SHAKED]<br>Yesh Atid [Yair LAPID]<br>Yisrael Beiteinu [Avigdor LIEBERMAN]<br>
+Blue and White [Benny GANTZ]<br>Joint Arab List [Ayman ODEH] (alliance includes Hadash, Ta’al, Balad)<br>Labor Party or HaAvoda [Merav MICHAELI]<br>Likud [Binyamin NETANYAHU]<br>Meretz [Zehava GAL-ON]<br>National Unity [alliance includes Blue and White and New Hope]<br>New Hope [Gideon SA'AR]<br>Religious Zionist Party [Bezalel SMOTRICH, chairperson] <br>SHAS [Aryeh DERI]<br>United Arab List [Mansour ABBAS]<br>United Torah Judaism or UTJ [Moshe GAFNI] (alliance includes Agudat Israel and Degel HaTorah)<br>Yamina [Ayelet SHAKED]<br>Yesh Atid [Yair LAPID]<br>Yisrael Beiteinu [Avigdor LIEBERMAN]<br>
 
 **International organization participation**<br>
 BIS, BSEC (observer), CE (observer), CERN, CICA, EBRD, FAO, IADB, IAEA, IBRD, ICAO, ICC (national committees), ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, OAS (observer), OECD, OPCW (signatory), OSCE (partner), Pacific Alliance (observer), Paris Club, PCA, SELEC (observer), UN, UNCTAD, UNESCO, UNHCR, UNIDO, UNWTO, UPU, WCO, WHO, WIPO, WMO, WTO<br>
@@ -433,7 +433,7 @@ $394.93 billion (2019 est.)<br>
 _Fitch rating_: A+ (2016)<br>
 _Moody's rating_: A1 (2008)<br>
 _Standard & Poors rating_: AA- (2018)<br>
-<strong>Note: </strong>The year refers to the year in which the current credit rating was first obtained.<br>
+<strong>note: </strong>The year refers to the year in which the current credit rating was first obtained.<br>
 
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 2.4% (2017 est.)<br>
@@ -624,7 +624,7 @@ _subscriptions per 100 inhabitants_: 142 (2020 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: Israel&rsquo;s developed economy largely revolves around high technology products, primarily used in the medical, biotechnology, agricultural, materials, and military industries; the country also attracts investment in its cyber-security industry, and has established itself as a hub for thousands of start-up companies; to underpin these developments, Israel has developed a robust telecoms sector; household broadband subscriptions is high, with a focus on fiber-network deployment; LTE services are almost universally available, while the August 2020 multi-frequency bands also enabled the MNOs to provide services based on 5G; 5G will be supported by moves to close down GSM and 3G networks in stages through to the end of 2025, with the physical assets and frequencies to be repurposed for LTE and 5G use (2022)<br>
-_domestic_: good system of coaxial cable and microwave radio relay; all systems are digital; competition among both fixed-line and mobile cellular providers results in good coverage countrywide; fixed-line nearly 36 per 100 and nearly 132 per 100 for mobile-cellular subscriptions (2020)<br>
+_domestic_: good system of coaxial cable and microwave radio relay; all systems are digital; competition among both fixed-line and mobile cellular providers results in good coverage countrywide; fixed-line nearly 39 per 100 and nearly 142 per 100 for mobile-cellular subscriptions (2020)<br>
 _international_: country code - 972; landing points for the MedNautilus Submarine System, Tameres North, Jonah and Lev Submarine System, submarine cables that provide links to Europe, Cyprus, and parts of the Middle East; satellite earth stations - 3 Intelsat (2 Atlantic Ocean and 1 Indian Ocean) (2019)<br>
 <strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress toward 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>
 

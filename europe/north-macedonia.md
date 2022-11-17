@@ -98,7 +98,7 @@ _0-14 years_: 16.16% (male 177,553/female 165,992)<br>
 _15-24 years_: 12.65% (male 139,250/female 129,770)<br>
 _25-54 years_: 44.47% (male 480,191/female 465,145)<br>
 _55-64 years_: 12.55% (male 131,380/female 135,407)<br>
-_65 years and over_: 14.17% (2020 est.) (male 131,674/female 169,609)<br>
+_65 years and over_: 14.17% (male 131,674/female 169,609) (2020 est.)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 44.5<br>
@@ -690,7 +690,7 @@ Islamic State of Iraq and ash-Sham (ISIS)<br>
 <p><em>North Macedonia-Albania</em>: none identified</p> <p><em>North Macedonia-Greece</em>: none identified</p> <p><em>North Macedonia-Kosovo</em>: North Macedonia and Kosovo completed demarcation of their boundary in October 2009</p> <p><em>North Macedonia-Serbia</em>: none identified</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 6,200 (Ukraine) (as of 1 November 2022)<br>
+_refugees (country of origin)_: 6,265 (Ukraine) (as of 8 November 2022)<br>
 _stateless persons_: 553 (mid-year 2021)<br>
 <strong>note:</strong> 545,889 estimated refugee and migrant arrivals (January 2015-September 2022)<br>
 

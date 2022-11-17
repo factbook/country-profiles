@@ -96,7 +96,7 @@ _0-14 years_: 39.77% (male 42,690/female 41,277)<br>
 _15-24 years_: 21.59% (male 23,088/female 22,487)<br>
 _25-54 years_: 31.61% (male 32,900/female 33,834)<br>
 _55-64 years_: 4.17% (male 4,095/female 4,700)<br>
-_65 years and over_: 2.87% (2020 est.) (male 2,631/female 3,420)<br>
+_65 years and over_: 2.87% (male 2,631/female 3,420) (2020 est.)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 81<br>
@@ -345,15 +345,15 @@ _residency requirement for naturalization_: 5 years<br>
 
 **Executive branch**<br>
 _chief of state_: President Carlos Manuel VILA NOVA (since 2 October 2021)<br>
-_head of government_: Prime Minister Jorge BOM JESUS (since 3 December 2018)<br>
+_head of government_: Prime Minister Patrice TROVOADA (since 11 November 2022)<br>
 _cabinet_: Council of Ministers proposed by the prime minister, appointed by the president<br>
-_elections/appointments_: president directly elected by absolute majority popular vote in 2 rounds if needed for a 5-year term (eligible for a second term); election last held on 18 July 2021 and runoff on 5 September 2021 (next to be held in 2026); prime minister chosen by the National Assembly and approved by the president&nbsp;<br>
+_elections/appointments_: president directly elected by absolute majority popular vote in 2 rounds if needed for a 5-year term (eligible for a second term); election last held on 18 July 2021 and runoff on 5 September 2021 (next to be held in 2026); prime minister chosen by the National Assembly and approved by the president<br>
 _election results_: <br><em>2021:</em> Carlos Manuel VILA NOVA elected president in the second round; percent of vote in the first round - Carlos Manuel VILA NOVA (IDA) 39.5%; Guilherme POSSER DA COSTA (MLSTP-PSD) 20.8%; Delfim NEVES (PCD-GR) 16.9%; Abel BOM JESUS (independent) 3.6%; Maria DAS NEVES (independent) 3.3%; other 15.9%; percent of the vote in the second round - Carlos Manuel VILA NOVA (IDA) 57.5%, Guilherme POSSER DA COSTA (MLSTP-PSD) 42.5%; note - VILA NOVA is scheduled to take office 29 September 2021 <br><br><em>2016:</em> Evaristo CARVALHO elected president; percent of vote - Evaristo CARVALHO (ADI) 49.8%, Manuel Pinto DA COSTA (independent) 24.8%, Maria DAS NEVES (MLSTP-PSD) 24.1%; note - first round results for CARVALHO were revised downward from just over 50%, prompting the 7 August runoff; however, on 1 August 2016 DA COSTA withdrew from the runoff, citing voting irregularities, and CARVALHO was declared the winner<br>
 
 **Legislative branch**<br>
 _description_: unicameral National Assembly or Assembleia Nacional (55 seats; members directly elected in multi-seat constituencies by closed party-list proportional representation vote to serve 4-year terms)<br>
-_elections_: last held on 7 October 2018 (next to be held in October 2022)<br>
-_election results_: percent of vote by party - ADI 41.8%, MLSTP/PSD 40.3%, PCD-GR 9.5%, MCISTP 2.1%, other 6.3%; seats by party - ADI 25, MLSTP-PSD 23, PCD-MDFM-UDD 5, MCISTP 2; composition - men 42, women 13, percent of women 23.6%<br>
+_elections_: last held on 25 September 2022 (next to be held 30 September 2026)<br>
+_election results_: percent of vote by party - ADI 46.81%, MLSTP/PSD 32.70%, MCI-PS -PUN 6.56%, BASTA Movement- 8.8%, other 5.14%; seats by party - ADI 30, MLSTP-PSD 18, MCI-PS -PUN 5, BASTA Movement 2; composition - men 47, women 8, percent of women 14.5%<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme Court or Supremo Tribunal Justica (consists of 5 judges); Constitutional Court or Tribunal Constitucional (consists of 5 judges, 3 of whom are from the Supreme Court)<br>

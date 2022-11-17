@@ -109,7 +109,7 @@ _0-14 years_: 37.02% (male 7,349,868/female 7,041,405)<br>
 _15-24 years_: 19.83% (male 3,918,433/female 3,788,157)<br>
 _25-54 years_: 35.59% (male 6,919,569/female 6,914,856)<br>
 _55-64 years_: 4.23% (male 805,397/female 839,137)<br>
-_65 years and over_: 3.33% (2020 est.) (male 576,593/female 719,240)<br>
+_65 years and over_: 3.33% (male 576,593/female 719,240) (2020 est.)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 69.9<br>
@@ -631,7 +631,7 @@ _subscriptions per 100 inhabitants_: 93 (2020 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: Iraq continues to face a number of political and economic challenges, though increasing civil stability has made it easier for mobile and fixed-line operators to rebuild telecom services and infrastructure damaged during the last few years; the government extended the licenses held by the MNOs for an additional three years to compensate for the chaos and destruction caused between 2014 and 2017 when Islamic State held sway in many areas of the country; the companies have struggled to develop LTE services; with LTE services being very low, there is little chance for 5G to be available in the short term; most services are still based on GSM and 3G, except in the Kurdish region where LTE is more widely available (2022)<br>
-_domestic_: 3G services offered by three major mobile operators; 4G offered by one operator in Iraqi; conflict has destroyed infrastructure in areas; about 10 per 100 for fixed-line and 92 per 100 for mobile-cellular subscriptions (2020)<br>
+_domestic_: about 7 per 100 for fixed-line and 93 per 100 for mobile-cellular subscriptions (2020)<br>
 _international_: country code - 964; landing points for FALCON, and GBICS/MENA submarine cables providing connections to the Middle East, Africa and India; satellite earth stations - 4 (2 Intelsat - 1 Atlantic Ocean and 1 Indian Ocean, 1 Intersputnik - Atlantic Ocean region, and 1 Arabsat (inoperative)); local microwave radio relay connects border regions to Jordan, Kuwait, Syria, and Turkey (2019)<br>
 <strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress toward 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>
 
@@ -740,7 +740,7 @@ Ansar al-Islam; Asa'ib Ahl al-Haq; Islamic Revolutionary Guard Corps (IRGC)/Qods
 <p><em>Iraq-Iran</em>: Iraq's lack of a maritime boundary with Iran prompts jurisdiction disputes beyond the mouth of the Shatt al Arab in the Persian Gulf</p> <p><em>Iraq-Turkey</em>: Turkey has expressed concern over the autonomous status of Kurds in Iraq</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 15,272 (Turkey), 7,881 (West Bank and Gaza Strip) (mid-year 2021); 262,412 (Syria) (2022)<br>
+_refugees (country of origin)_: 15,272 (Turkey), 7,881 (West Bank and Gaza Strip) (mid-year 2021); 261,046 (Syria) (2022)<br>
 _IDPs_: 1,184,818 (displacement in central and northern Iraq since January 2014) (2022)<br>
 _stateless persons_: 47,253 (mid-year 2021); note - in the 1970s and 1980s under SADDAM Husayn's regime, thousands of Iraq's Faili Kurds, followers of Shia Islam, were stripped of their Iraqi citizenship, had their property seized by the government, and many were deported; some Faili Kurds had their citizenship reinstated under the 2006 Iraqi Nationality Law, but others lack the documentation to prove their Iraqi origins; some Palestinian refugees persecuted by the SADDAM regime remain stateless<br>
 

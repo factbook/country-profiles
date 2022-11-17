@@ -96,7 +96,7 @@ _0-14 years_: 24.07% (male 241,563/female 223,568)<br>
 _15-24 years_: 16.95% (male 170,566/female 157,063)<br>
 _25-54 years_: 42.56% (male 433,914/female 388,595)<br>
 _55-64 years_: 8.67% (male 85,840/female 81,782)<br>
-_65 years and over_: 7.75% (2020 est.) (male 63,943/female 85,940)<br>
+_65 years and over_: 7.75% (male 63,943/female 85,940) (2020 est.)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: NA<br>
@@ -623,5 +623,5 @@ Islamic State of Iraq and ash-Sham (ISIS)<br>
 
 **Refugees and internally displaced persons**<br>
 _IDPs_: 16,000 (primarily ethnic Serbs displaced during the 1998-1999 war fearing reprisals from the majority ethnic-Albanian population; a smaller number of ethnic Serbs, Roma, Ashkali, and Egyptians fled their homes in 2004 as a result of violence) (2021)<br>
-<strong>note:</strong> 8,259 estimated refugee and migrant arrivals (January 2015-September 2022)<br>
+<strong>note:</strong> 8,372 estimated refugee and migrant arrivals (January 2015-October 2022)<br>
 

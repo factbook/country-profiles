@@ -97,7 +97,7 @@ _0-14 years_: 17.96% (male 503,013/female 478,901)<br>
 _15-24 years_: 12.02% (male 336,597/female 320,720)<br>
 _25-54 years_: 40.75% (male 1,150,762/female 1,077,357)<br>
 _55-64 years_: 11.84% (male 328,865/female 318,398)<br>
-_65 years and over_: 17.43% (2020 est.) (male 442,232/female 510,594)<br>
+_65 years and over_: 17.43% (male 442,232/female 510,594) (2020 est.)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 53.3<br>
@@ -711,6 +711,6 @@ Norway is a member of NATO and was one of the original 12 countries to sign the 
 <p><em>Norway-Antarctica</em>: Norway asserts a territorial claim in Antarctica (Queen Maud Land and its continental shelf)</p> <p><em>Norway-Russia</em>: Russia amended its 2001 CLCS submission in 2015 and 2021, each time delineating the outer limits of its continental shelf further into the Arctic Ocean; Norway and Russia signed a comprehensive maritime boundary agreement in 2010, ending a dispute over an area of the Barents Sea by dividing the territory equally</p> <p><em>Norway-Sweden</em>: none identified</p> <p> </p> <p> </p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 15,542 (Syria), 11,965 (Eritrea) (mid-year 2021); 30,989 (Ukraine) (as of 28 October 2022)<br>
+_refugees (country of origin)_: 15,542 (Syria), 11,965 (Eritrea) (mid-year 2021); 31,798 (Ukraine) (as of 8 November 2022)<br>
 _stateless persons_: 4,154 (mid-year 2021)<br>
 

@@ -109,7 +109,7 @@ _0-14 years_: 27.04% (male 4,905,626/female 4,709,333)<br>
 _15-24 years_: 16.55% (male 2,953,523/female 2,930,708)<br>
 _25-54 years_: 40.64% (male 7,126,781/female 7,325,709)<br>
 _55-64 years_: 8.67% (male 1,533,771/female 1,548,315)<br>
-_65 years and over_: 7.11% (2020 est.) (male 1,225,307/female 1,302,581)<br>
+_65 years and over_: 7.11% (male 1,225,307/female 1,302,581) (2020 est.)<br>
 <strong>note:</strong> does not include data from the former Western Sahara<br>
 
 **Dependency ratios**<br>

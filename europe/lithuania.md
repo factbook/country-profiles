@@ -86,18 +86,18 @@ _adjective_: Lithuanian<br>
 Lithuanian 84.6%, Polish 6.5%, Russian 5%, Belarusian 1%, other 1.1%, unspecified 1.8% (2021 est.)<br>
 
 **Languages**<br>
-Lithuanian (official) 85.3%, Russian 6.8%, Polish 5.1%, other 1.1%, two mother tongues 1.7%% (2021 est.)<br>
+Lithuanian (official) 85.3%, Russian 6.8%, Polish 5.1%, other 1.1%, two mother tongues 1.7% (2021 est.)<br>
 _major-language sample(s)_: <br>Pasaulio enciklopedija – naudingas bendrosios informacijos šaltinis. (Lithuanian)<br><br>The World Factbook, the indispensable source for basic information.<br>
 
 **Religions**<br>
-Roman Catholic 74.2%, Russian Orthodox 3.7%, Old Believer 0.6%, Evangelical Lutheran 0.6%, Evangelical Reformist 0.2%, other (including Sunni Muslim Jewish, Greek Catholic, and Karaite) 0.9%, none 6.1%, unspecified 13.7% (2021 est.)<br>
+Roman Catholic 74.2%, Russian Orthodox 3.7%, Old Believer 0.6%, Evangelical Lutheran 0.6%, Evangelical Reformist 0.2%, other (including Sunni Muslim, Jewish, Greek Catholic, and Karaite) 0.9%, none 6.1%, unspecified 13.7% (2021 est.)<br>
 
 **Age structure**<br>
 _0-14 years_: 15.26% (male 213,802/female 202,948)<br>
 _15-24 years_: 10.23% (male 144,679/female 134,822)<br>
 _25-54 years_: 38.96% (male 528,706/female 535,485)<br>
 _55-64 years_: 15.1% (male 183,854/female 228,585)<br>
-_65 years and over_: 20.45% (2020 est.) (male 190,025/female 368,558)<br>
+_65 years and over_: 20.45% (male 190,025/female 368,558) (2020 est.)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 56.5<br>
@@ -718,7 +718,7 @@ Lithuania became a member of NATO in 2004<br> <p>since 2017, Lithuania has hoste
 <p><em>Lithuania-Belarus</em>: as of January 2007, ground demarcation of the boundary with Belarus was complete and mapped with final ratification documents in preparation</p> <p><em>Lithuania-Lativa</em>: boundary demarcated with Latvia was completed in 1998</p> <p><em>Lithuania-Russia</em>:<strong> </strong>Lithuania and Russia committed to demarcating their boundary in 2006 in accordance with the land and maritime treaty ratified by Russia in May 2003 and by Lithuania in 1999; Lithuania operates a simplified transit regime for Russian nationals traveling from the Kaliningrad coastal exclave into Russia, while still conforming, as a EU member state having an external border with a non-EU member, to strict Schengen border rules; in January 2018, demarcation of the Lithuania-Russia border was completed</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 69,317 (Ukraine) (as of 27 October 2022)<br>
+_refugees (country of origin)_: 69,522 (Ukraine) (as of 8 November 2022)<br>
 _stateless persons_: 2,721 (mid-year 2021)<br>
 
 **Illicit drugs**<br>

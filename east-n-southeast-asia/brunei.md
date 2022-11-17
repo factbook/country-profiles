@@ -96,7 +96,7 @@ _0-14 years_: 22.41% (male 53,653/female 50,446)<br>
 _15-24 years_: 16.14% (male 37,394/female 37,559)<br>
 _25-54 years_: 47.21% (male 103,991/female 115,291)<br>
 _55-64 years_: 8.34% (male 19,159/female 19,585)<br>
-_65 years and over_: 5.9% (2020 est.) (male 13,333/female 14,067)<br>
+_65 years and over_: 5.9% (male 13,333/female 14,067) (2020 est.)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 38.7<br>
@@ -658,7 +658,7 @@ the Brunei imports nearly all of its military equipment and weapons systems and 
 <strong>note:</strong> the Gurkha Reserve Unit (GRU) employs about 500 Gurkhas from Nepal, the majority of whom are veterans of the British Army and the Singapore Police Force who have joined the GRU as a second career<br>
 
 **Military - note**<br>
-Brunei has a long-standing defense relationship with the United Kingdom and hosts a British Army garrison, which includes a Gurkha battalion and a jungle warfare school; Brunei also hosts a Singaporean military training base (2022)<br>
+the Royal Brunei Armed Forces were formed in 1961 with British support as the Brunei Malay Regiment; "Royal" was added as an honorary title in 1965; the military was given its current title in 1984<br><br>Brunei has a long-standing defense relationship with the United Kingdom and hosts a British Army garrison, which includes a Gurkha battalion and a jungle warfare school; Brunei also hosts a Singaporean military training base (2022)<br>
 
 ## Transnational Issues
 

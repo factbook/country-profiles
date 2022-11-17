@@ -87,11 +87,11 @@ English (official) 27.6%, Mandarin 17.2%, Malay 17.1%, Cantonese 3.9%, Min Nan 1
 Muslim 19.4%, Buddhist 18.3%, Roman Catholic 8.8%, Protestant 6.5% (includes Anglican 3.6%, Uniting Church 1.2%, other 1.7%), other Christian 3.3%, other 0.6%, none 15.3%, unspecified 27.7% (2016 est.)<br>
 
 **Age structure**<br>
-_0-14 years_: 12.79% (2017 est.) (male 147/female 135)<br>
-_15-24 years_: 12.2% (2017 est.) (male 202/female 67)<br>
-_25-54 years_: 57.91% (2017 est.) (male 955/female 322)<br>
-_55-64 years_: 11.66% (2017 est.) (male 172/female 85)<br>
-_65 years and over_: 5.44% (2017 est.) (male 84/female 36)<br>
+_0-14 years_: 12.79% (male 147/female 135)<br>
+_15-24 years_: 12.2% (male 202/female 67)<br>
+_25-54 years_: 57.91% (male 955/female 322)<br>
+_55-64 years_: 11.66% (male 172/female 85)<br>
+_65 years and over_: 5.44% (male 84/female 36) (2017 est.)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: NA<br>

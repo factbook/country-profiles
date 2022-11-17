@@ -104,7 +104,7 @@ _0-14 years_: 40.62% (male 7,562,703/female 7,321,646)<br>
 _15-24 years_: 21.26% (male 3,960,044/female 3,828,670)<br>
 _25-54 years_: 31.44% (male 5,858,675/female 5,661,887)<br>
 _55-64 years_: 4.01% (male 724,597/female 744,910)<br>
-_65 years and over_: 2.68% (2020 est.) (male 451,852/female 528,831)<br>
+_65 years and over_: 2.68% (male 451,852/female 528,831) (2020 est.)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 88.8<br>
@@ -717,7 +717,7 @@ not available<br>
 <strong>note: </strong>the Taliban dismissed nearly all women from the former Afghan Government security forces, except those serving in detention facilities and assisting with body searches <br>
 
 **Military - note**<br>
-as of mid-2022, the Taliban&rsquo;s primary security threats included ISIS-Khorasan and&nbsp;former Afghan Government resistance elements known as the National Resistance Front and Afghanistan Freedom Front<br>
+as of 2022, the Taliban&rsquo;s primary security threats included ISIS-Khorasan and anti-Taliban resistance elements known as the National Resistance Front and Afghanistan Freedom Front<br>
 
 ## Terrorism
 

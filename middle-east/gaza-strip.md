@@ -86,7 +86,7 @@ _0-14 years_: 42.53% (male 418,751/female 397,013)<br>
 _15-24 years_: 21.67% (male 210,240/female 205,385)<br>
 _25-54 years_: 29.47% (male 275,976/female 289,277)<br>
 _55-64 years_: 3.66% (male 36,409/female 33,731)<br>
-_65 years and over_: 2.68% (2020 est.) (male 27,248/female 24,191)<br>
+_65 years and over_: 2.68% (male 27,248/female 24,191) (2020 est.)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 71.2<br>
@@ -449,8 +449,8 @@ _subscriptions per 100 inhabitants_: 84 (2020 est.)<br>
 includes the West Bank<br>
 
 **Telecommunication systems**<br>
-_general assessment_: Israel has final say in allocating frequencies in the Gaza Strip and does not permit anything beyond a 2G network (2018)<br>
-_domestic_: Israeli company BEZEQ and the Palestinian company PALTEL are responsible for fixed-line services; the Palestinian JAWWAL company provides cellular services; a slow 2G network allows calls and limited data transmission; fixed-line 9 per 100 and mobile-cellular 76 per 100 (includes West Bank)<br>
+_general assessment_: <p class="paywall">Israel, which controls Palestinian frequencies and telecom infrastructure, limits mobile internet speeds in the Palestinian territories to levels that are significantly lower than in Israel and Jewish West Bank settlements; the World Bank urged Israel to let Palestinian cellular companies set up more advanced networks, and to ease restrictions on the import of equipment needed to build and operate them; Israel is rolling out fifth generation technology for its citizens, while the West Bank operates on 3G and Gaza, 2G; Israeli mobile operators don’t officially service Palestinian areas, but many Palestinians use the faster Israeli networks with SIM cards; the Times of Israel reported in November that Israel tentatively agreed to let Palestinian operators launch 4G services</p> (2022)<br>
+_domestic_: Israeli company BEZEQ and the Palestinian company PALTEL are responsible for fixed-line services; the Palestinian JAWWAL company provides cellular services; a slow 2G network allows calls and limited data transmission; fixed-line 9 per 100 and mobile-cellular 84 per 100 (includes West Bank) (2020)<br>
 _international_: country code 970 or 972 (2018)<br>
 <strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress toward 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>
 
@@ -458,7 +458,7 @@ _international_: country code 970 or 972 (2018)<br>
 1 TV station and about 10 radio stations; satellite TV accessible<br>
 
 **Internet country code**<br>
-.ps; note - IANA has designated .ps for the Gaza Strip, same as the West Bank<br>
+.ps; <strong>note</strong> - IANA has designated .ps for the Gaza Strip, same as the West Bank<br>
 
 **Internet users**<br>
 _total_: 3,602,452 (2020 est.)<br>

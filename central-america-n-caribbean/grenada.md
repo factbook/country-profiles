@@ -92,7 +92,7 @@ _0-14 years_: 23.23% (male 13,709/female 12,564)<br>
 _15-24 years_: 14.14% (male 8,034/female 7,959)<br>
 _25-54 years_: 40.05% (male 23,104/female 22,187)<br>
 _55-64 years_: 11.69% (male 6,734/female 6,490)<br>
-_65 years and over_: 10.89% (2020 est.) (male 5,774/female 6,539)<br>
+_65 years and over_: 10.89% (male 5,774/female 6,539) (2020 est.)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 50.5<br>
@@ -554,7 +554,7 @@ _subscriptions per 100 inhabitants_: 108 (2020 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: the telecom sector has seen a decline in subscriber numbers (particularly for prepaid mobile services the mainstay of short term visitors) and revenue; fixed and mobile broadband services are two areas that have benefited from the crisis as employees and students have resorted to working from home; one area of the telecom market that is not prepared for growth is 5G mobile; governments, regulators, and even the mobile network operators have shown that they have not been investing in 5G opportunities at the present time; network expansion and enhancements remain concentrated around improving LTE coverage (2021)<br>
-_domestic_: interisland VHF and UHF radiotelephone links; 29 per 100 for fixed-line and 102 per 100 for mobile-cellular (2019)<br>
+_domestic_: 14 per 100 for fixed-line and 108 per 100 for mobile-cellular (2020)<br>
 _international_: country code - 1-473; landing points for the&nbsp;ECFS, Southern Caribbean Fiber and CARCIP&nbsp;submarine cables with links to&nbsp;13 Caribbean islands extending from the British Virgin Islands to Trinidad &amp; Tobago including Puerto Rico and Barbados; SHF radiotelephone links to Trinidad and Tobago and Saint Vincent; VHF and UHF radio links to Trinidad (2019)<br>
 <strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress toward 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>
 

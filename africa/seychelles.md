@@ -42,7 +42,7 @@ _continental shelf_: 200 nm or to the edge of the continental margin<br>
 tropical marine; humid; cooler season during southeast monsoon (late May to September); warmer season during northwest monsoon (March to May)<br>
 
 **Terrain**<br>
-Mahe Group is volcanic with a narrow coastal strip and rocky, hilly interior; others are coral, flat, elevated reefs<br>
+Mahe Group is volcanic with a narrow coastal strip and rocky, hilly interior; others are relatively flat coral atolls, or elevated reefs; sits atop the submarine Mascarene Plateau<br>
 
 **Elevation**<br>
 _highest point_: Morne Seychellois 905 m<br>
@@ -97,7 +97,7 @@ _0-14 years_: 18.85% (male 9,297/female 8,798)<br>
 _15-24 years_: 12.39% (male 6,283/female 5,607)<br>
 _25-54 years_: 49.03% (male 25,209/female 21,851)<br>
 _55-64 years_: 11.46% (male 5,545/female 5,455)<br>
-_65 years and over_: 8.27% (2020 est.) (male 3,272/female 4,664)<br>
+_65 years and over_: 8.27% (male 3,272/female 4,664) (2020 est.)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 46.7<br>

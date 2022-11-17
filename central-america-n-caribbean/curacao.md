@@ -90,7 +90,7 @@ _0-14 years_: 19.68% (male 15,227/female 14,553)<br>
 _15-24 years_: 13.38% (male 10,438/female 9,806)<br>
 _25-54 years_: 36.55% (male 27,733/female 27,589)<br>
 _55-64 years_: 13.88% (male 9,130/female 11,873)<br>
-_65 years and over_: 16.52% (2020 est.) (male 10,127/female 14,869)<br>
+_65 years and over_: 16.52% (male 10,127/female 14,869) (2020 est.)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 55.9<br>
@@ -452,7 +452,7 @@ _subscriptions per 100 inhabitants_: 111 (2020 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: fully automatic modern telecommunications system; telecom sector across the Caribbean region continues to be one of&nbsp;the growth areas; given the lack of economic diversity in the region, with a high dependence on tourism and activities such as fisheries and offshore financial services the telecom sector contributes greatly to the GDP (2020)<br>
-_domestic_: roughly 33 per 100 users for fixed-line and 113 per 100 users for cellular-mobile, majority of the islanders have Internet; market revenue has been affected in recent quarters as a result of competition and regulatory measures on termination rates and roaming tariffs (2019)<br>
+_domestic_: roughly 33 per 100 users for fixed-line and 111 per 100 users for cellular-mobile, majority of the islanders have Internet; market revenue has been affected in recent quarters as a result of competition and regulatory measures on termination rates and roaming tariffs (2020)<br>
 _international_: country code - +599, PCCS submarine cable system to US, Caribbean and Central and South America (2019)<br>
 <strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress toward 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>
 

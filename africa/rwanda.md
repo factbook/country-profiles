@@ -107,7 +107,7 @@ _0-14 years_: 39.95% (male 2,564,893/female 2,513,993)<br>
 _15-24 years_: 20.1% (male 1,280,948/female 1,273,853)<br>
 _25-54 years_: 33.06% (male 2,001,629/female 2,201,132)<br>
 _55-64 years_: 4.24% (male 241,462/female 298,163)<br>
-_65 years and over_: 2.65% (2020 est.) (male 134,648/female 201,710)<br>
+_65 years and over_: 2.65% (male 134,648/female 201,710) (2020 est.)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 74.2<br>
@@ -707,6 +707,6 @@ since 2021, Rwanda has deployed troops to the border with the Democratic Republi
 <p><em>Rwanda-Burundi: </em>Burundi's Ngozi province and Rwanda's Butare province dispute the two-kilometer-square hilly farmed area of Sabanerwa in the Rukurazi Valley where the Akanyaru/Kanyaru River shifted its course southward after heavy rains in 1965 around Kibinga Hill in Rwanda's Butare Province<br><em><br>Rwanda-Democratic Republic of Congo (DRC): </em>the 2005 DRC and Rwanda border verification mechanism to stem rebel actions on both sides of the border remains in place<em><br><br>Rwanda-Uganda:</em> a joint technical committee established in 2007 to demarcate sections of the border<br><br><br></p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 76,465 (Democratic Republic of the Congo) 48,474 (Burundi) (2022)<br>
+_refugees (country of origin)_: 76,465 (Democratic Republic of the Congo) 48,369 (Burundi) (2022)<br>
 _stateless persons_: 9,500 (mid-year 2021)<br>
 

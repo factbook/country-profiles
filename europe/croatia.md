@@ -102,7 +102,7 @@ _0-14 years_: 14.16% (male 308,668/female 289,996)<br>
 _15-24 years_: 10.76% (male 233,602/female 221,495)<br>
 _25-54 years_: 39.77% (male 841,930/female 839,601)<br>
 _55-64 years_: 14.24% (male 290,982/female 310,969)<br>
-_65 years and over_: 21.06% (2020 est.) (male 364,076/female 526,427)<br>
+_65 years and over_: 21.06% (male 364,076/female 526,427) (2020 est.)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 55.7<br>
@@ -732,7 +732,7 @@ Croatia joined NATO in 2009<br>
 <p>dispute remains with Bosnia and Herzegovina over several small sections of the boundary related to maritime access that hinders ratification of the 1999 border agreement; since the breakup of Yugoslavia in the early 1990s, Croatia and Slovenia have each claimed sovereignty over Piranski Bay and four villages, and Slovenia has objected to Croatia's claim of an exclusive economic zone in the Adriatic Sea; in 2009, however Croatia and Slovenia signed a binding international arbitration agreement to define their disputed land and maritime borders, which led to Slovenia lifting its objections to Croatia joining the EU; Slovenia continues to impose a hard border Schengen regime with Croatia, which joined the EU in 2013 but has not yet fulfilled Schengen requirements</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 18,990 (Ukraine) (as of 1 November 2022)<br>
+_refugees (country of origin)_: 19,011 (Ukraine) (as of 8 November 2022)<br>
 _stateless persons_: 2,910 (mid-year 2021)<br>
 <strong>note: </strong>759,830 estimated refugee and migrant arrivals (January 2015-September 2022)<br>
 

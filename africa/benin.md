@@ -79,7 +79,7 @@ sandbanks create difficult access to a coast with no natural harbors, river mout
 
 **Population**<br>
 13,754,688 (2022 est.)<br>
-<strong>note:</strong> estimates for this country explicitly taken into account the impact of the HIV/AIDS epidemic<br>
+<strong>note:</strong> estimates for this country explicitly take into account the impact of the HIV/AIDS epidemic<br>
 
 **Nationality**<br>
 _noun_: Beninese (singular and plural)<br>
@@ -102,7 +102,7 @@ _0-14 years_: 45.56% (male 2,955,396/female 2,906,079)<br>
 _15-24 years_: 20.36% (male 1,300,453/female 1,318,880)<br>
 _25-54 years_: 28.54% (male 1,735,229/female 1,935,839)<br>
 _55-64 years_: 3.15% (male 193,548/female 211,427)<br>
-_65 years and over_: 2.39% (2020 est.) (male 140,513/female 167,270)<br>
+_65 years and over_: 2.39% (male 140,513/female 167,270) (2020 est.)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 82.6<br>

@@ -107,7 +107,7 @@ _0-14 years_: 12.89% (male 5,302,850/female 5,025,863)<br>
 _15-24 years_: 9.81% (male 4,012,412/female 3,854,471)<br>
 _25-54 years_: 38.58% (male 15,553,328/female 15,370,417)<br>
 _55-64 years_: 15.74% (male 6,297,886/female 6,316,024)<br>
-_65 years and over_: 22.99% (2020 est.) (male 8,148,873/female 10,277,538)<br>
+_65 years and over_: 22.99% (male 8,148,873/female 10,277,538) (2020 est.)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 55.4<br>
@@ -746,7 +746,7 @@ Islamic Revolutionary Guard Corps/Qods Force; Islamic State of Iraq and ash-Sham
 <p>none</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 616,325 (Syria), 152,677 (Afghanistan), 147,400 (Iraq), 62,152 (Eritrea), 45,704 (Iran), 34,465 (Turkey), 29,137 (Somalia), 9,329 (Russia), 9,323 (Nigeria), 8,600 (Pakistan), 7,503 (Serbia and Kosovo), 6,057 (Ethiopia) (mid-year 2021); 1,008,935 (Ukraine) (as of 1 November 2022)<br>
+_refugees (country of origin)_: 616,325 (Syria), 152,677 (Afghanistan), 147,400 (Iraq), 62,152 (Eritrea), 45,704 (Iran), 34,465 (Turkey), 29,137 (Somalia), 9,329 (Russia), 9,323 (Nigeria), 8,600 (Pakistan), 7,503 (Serbia and Kosovo), 6,057 (Ethiopia) (mid-year 2021); 1,019,789 (Ukraine) (as of 8 November 2022)<br>
 _stateless persons_: 26,980 (mid-year 2021)<br>
 
 **Illicit drugs**<br>

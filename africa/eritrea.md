@@ -97,7 +97,7 @@ _0-14 years_: 38.23% (male 1,169,456/female 1,155,460)<br>
 _15-24 years_: 20.56% (male 622,172/female 627,858)<br>
 _25-54 years_: 33.42% (male 997,693/female 1,034,550)<br>
 _55-64 years_: 3.8% (male 105,092/female 125,735)<br>
-_65 years and over_: 4% (2020 est.) (male 99,231/female 143,949)<br>
+_65 years and over_: 4% (male 99,231/female 143,949) (2020 est.)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 83.9<br>
@@ -581,8 +581,8 @@ _total subscriptions_: 1.801 million (2020 est.)<br>
 _subscriptions per 100 inhabitants_: 51 (2020 est.)<br>
 
 **Telecommunication systems**<br>
-_general assessment_: Eritrea&rsquo;s telecom sector operates under a state-owned monopoly for fixed and mobile services; the country has the least developed telecommunications market in Africa; mobile subscriptions stands at only about 20%, while fixed-line internet use barely registers; this is exacerbated by the very low use of computers, with only about 4% of households having a computer, and most of these being in the capital, Asmara; the provision of internet services is open to competition, about 2% of households have access to the internet; considerable investment in telecom infrastructure is still required to improve the quality of services; the government has embarked on a work program aimed at extending services to remote areas, improving the quality of services, and ensuring that more telecoms infrastructure is supported by solar power to compensate for the poor state of the electricity network; additional foreign investment in telecom infrastructure, as well as introduction of more competition, would help transform what remains a virtually untapped market (2021)<br>
-_domestic_: fixed-line subscribership is less than 2 per 100 persons and mobile-cellular is just over 20 per 100 (2019)<br>
+_general assessment_: Eritrea&rsquo;s telecom sector operates under a state-owned monopoly for fixed and mobile services; as a result of such restrictions on competition, the country has the least developed telecommunications market in Africa; mobile penetration stands at only about 20%, while fixed-line internet use barely registers; this is exacerbated by the very low use of computers, with only about 4% of households having a computer, and most of these being in the capital, Asmara; the 3G network continues to rollout which provides basic internet access to the majority or Eritreans; investment in telecom infrastructure is still required to improve the quality of services; the government has embarked on a work program to do exactly that, specifically aimed at extending services to remote areas, improving the quality of services, and ensuring that more telecoms infrastructure is supported by solar power to compensate for the poor state of the electricity network; additional foreign investment in telecom infrastructure, as well as introduction of more competition, would help transform what remains a virtually untapped market (2022)<br>
+_domestic_: fixed-line subscribership is less than 2 per 100 persons and mobile-cellular is just over 51 per 100 (2020)<br>
 _international_: country code - 291 (2019)<br>
 <strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress toward 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>
 

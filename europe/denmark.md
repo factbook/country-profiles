@@ -99,7 +99,7 @@ _0-14 years_: 16.42% (male 494,806/female 469,005)<br>
 _15-24 years_: 12.33% (male 370,557/female 352,977)<br>
 _25-54 years_: 38.71% (male 1,149,991/female 1,122,016)<br>
 _55-64 years_: 12.63% (male 370,338/female 371,149)<br>
-_65 years and over_: 19.91% (2020 est.) (male 538,096/female 630,475)<br>
+_65 years and over_: 19.91% (male 538,096/female 630,475) (2020 est.)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 57.3<br>
@@ -340,8 +340,8 @@ _elections/appointments_: the monarchy is hereditary; following legislative elec
 
 **Legislative branch**<br>
 _description_: unicameral People's Assembly or Folketing (179 seats, including 2 each representing Greenland and the Faroe Islands; members directly elected in multi-seat constituencies by party-list proportional representation vote; members serve 4-year terms unless the Folketing is dissolved earlier)<br>
-_elections_: last held on 5 June 2019 (next to be held on 1 November 2022)<br>
-_election results_: percent of vote by party - SDP 27.4%, V 24.6%, DF 9.1%, SLP 9.1%, SF 8%, EL 7.4%, C 6.9%, AP 2.9%, NB 2.3%, LA 2.3%; seats by party - SDP 48, V 43, DF 16, SLP 16, SF 14, EL 13, C 12, AP 5, NB 4, LA 4; composition (as of September 2021) - men 108, women 71 (includes 2 from Greenland), percent of women 39.7%<br>
+_elections_: last held on 1 November 2022 (next to be held on 31 October 2026)<br>
+_election results_: percent of vote by party - SDP 27.5%, V 13.3%, M 9.3%, E 8.1%, DF 2.6%, SLP 3.8%, SF 8.3%, EL 5.1%, C 5.5%, AP 3.3%, NB 3.3%, LA 8.1%; seats by party - SDP 50, V 23, M 16, E 14, DF 5, SLP 7, SF 15, EL 9, C 10, AP 6, NB 6, LA 14; composition<br><br>5 June 2019:  percent of vote by party - SDP 27.4%, V 24.6%, DF 9.1%, SLP 9.1%, SF 8%, EL 7.4%, C 6.9%, AP 2.9%, NB 2.3%, LA 2.3%; seats by party - SDP 48, V 43, DF 16, SLP 16, SF 14, EL 13, C 12, AP 5, NB 4, LA 4; composition (as of September 2021) - men 108, women 71 (includes 2 from Greenland), percent of women 39.7%<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme Court (consists of the court president and 18 judges)<br>
@@ -349,7 +349,7 @@ _judge selection and term of office_: judges appointed by the monarch upon the r
 _subordinate courts_: Special Court of Indictment and Revision; 2 High Courts; Maritime and Commercial Court; county courts<br>
 
 **Political parties and leaders**<br>
-The Alternative AP [Franciska ROSENKILDE]<br>Conservative People's Party or DKF or C [Soren PAPE POULSEN]<br>Danish People's Party or DF or O [Morten MESSERSCHMIDT]<br>Green Left or SF or F [Pia OLSEN DYHR] (formerly Socialist People's Party or SF or F)<br>Liberal Alliance or LA or I [Alex VANOPSLAGH]<br>Liberal Party (Venstre) or V [Jakob ELLEMANN-JENSEN]<br>New Right Party or NB or D [Pernille VERMUND]<br>Red-Green Alliance (Unity List) or EL [collective leadership, Mai VILLADSEN, spokesperson]<br>Social Democrats or SDP or A [Mette FREDERIKSEN]<br>Social Liberal Party or SLP or B [Sofie CARSTEN NIELSEN]<br>
+The Alternative AP [Franciska ROSENKILDE]<br>Conservative People's Party or DKF or C [Soren PAPE POULSEN]<br>Danish People's Party or DF or O [Morten MESSERSCHMIDT]<br>Denmark Democrats or E [Inger STOJBERG]<br>Green Left or SF or F [Pia OLSEN DYHR] (formerly Socialist People's Party or SF or F)<br>Liberal Alliance or LA or I [Alex VANOPSLAGH]<br>Liberal Party (Venstre) or V [Jakob ELLEMANN-JENSEN]<br>Moderates or M [Lars Lokke RASMUSSEN]<br>New Right Party or NB or D [Ann Pernille VERMUND TVEDE]<br>Red-Green Alliance (Unity List) or EL [collective leadership, Mai VILLADSEN, spokesperson]<br>Social Democrats or SDP or A [Mette FREDERIKSEN]<br>Social Liberal Party or SLP or B [Sofie CARSTEN NIELSEN]<br>
 
 **International organization participation**<br>
 ADB (nonregional member), AfDB (nonregional member), Arctic Council, Australia Group, BIS, CBSS, CD, CE, CERN, EAPC, EBRD, ECB, EIB, EITI (implementing country), ESA, EU, FAO, FATF, G-9, IADB, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IEA, IFAD, IFC, IFRCS, IGAD (partners), IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, MINUSMA, NATO, NC, NEA, NIB, NSG, OAS (observer), OECD, OPCW, OSCE, Paris Club, PCA, Schengen Convention, UN, UNCTAD, UNESCO, UNHCR, UNIDO, UNMIL, UNMISS, UNRWA, UNTSO, UPU, Wassenaar Arrangement, WCO, WHO, WIPO, WMO, WTO, ZC<br>
@@ -716,6 +716,6 @@ Islamic State of Iraq and ash-Sham (ISIS); Islamic Revolutionary Guard Corps/Qod
 <p>Iceland, the UK, and Ireland dispute Denmark's claim that the Faroe Islands' continental shelf extends beyond 200 nm; sovereignty dispute with Canada over Hans Island in the Kennedy Channel between Ellesmere Island and Greenland; Denmark (Greenland) and Norway have made submissions to the Commission on the Limits of the Continental Shelf (CLCS) and Russia is collecting additional data to augment its 2001 CLCS submission</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 19,833 (Syria), 5,634 (Eritrea) (mid-year 2021); 36,736 (Ukraine) (as of 30 October 2022)<br>
+_refugees (country of origin)_: 19,833 (Syria), 5,634 (Eritrea) (mid-year 2021); 36,983 (Ukraine) (as of 8 November 2022)<br>
 _stateless persons_: 11,608 (mid-year 2021)<br>
 

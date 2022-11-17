@@ -98,7 +98,7 @@ _0-14 years_: 15.69% (male 102,095/female 96,676)<br>
 _15-24 years_: 12.29% (male 84,832/female 70,879)<br>
 _25-54 years_: 47.12% (male 316,710/female 280,167)<br>
 _55-64 years_: 11.92% (male 72,476/female 78,511)<br>
-_65 years and over_: 12.97% (2020 est.) (male 71,053/female 93,277)<br>
+_65 years and over_: 12.97% (male 71,053/female 93,277) (2020 est.)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 44.9<br>
@@ -615,8 +615,8 @@ _total subscriptions_: 1,239,960 (2020 est.)<br>
 _subscriptions per 100 inhabitants_: 140 (2020 est.)<br>
 
 **Telecommunication systems**<br>
-_general assessment_: Cyprus has suffered from the effects of the pandemic, which essentially closed down the tourism sector during 2020 and into 2021; the mobile market is served by four mobile network operators; in mid-2021 Monaco agreed to sell its entire passive infrastructure in Cyprus; the number of mobile subscribers fell in 2020, largely the result of subscribers scaling back on multiple SIM cards as an economic measure; the broadband market continues to develop steadily, providing the country with one of the highest broadband subscription rates in the region; DSL remains the dominant access platform, accounting for about two-thirds of fixed broadband connections; fiber infrastructure in Cyprus is minimal, in common with other markets in the region there are efforts underway (supported by the government and regulator) to extend an FttP service to about 200,000 premises; the number of DSL subscribers is set to fall steadily in coming years as customers are migrated to the fiber platform; regulator concludes multi-spectrum auction for 5G, issues licenses; Epic signs vendor agreement with Huawei to develop 5G (2021)<br>
-_domestic_: fixed-line about 35 per 100 and about 139 per 100 for mobile-cellular teledensity; open-wire, fiber-optic cable, and microwave radio relay (2020)<br>
+_general assessment_: Cyprus suffered from the effects of the pandemic in 2020 and 2021, when the tourism sector was essentially closed; during 2022, there have been adverse effects caused by Russia&rsquo;s invasion of Ukraine, which has resulted in a dramatic drop in the number of Russian tourists entering the country; the mobile market is served by four mobile network operators; the number of mobile subscribers fell in 2020, largely the result of subscribers scaling back on multiple SIM cards as an economic measure; the broadband market continues to develop steadily, providing the country with one of the highest broadband penetration rates in the region; DSL remains the dominant access platform, accounting for about two-thirds of fixed broadband connections; although fiber infrastructure in Cyprus is minimal (supported by the government and regulator) to extend an FttP service to about 200,000 premises; as a result, the number of DSL subscribers is set to fall steadily in coming years as customers are migrated to the fiber platform (2021)<br>
+_domestic_: fixed-line about 35 per 100 and about 140 per 100 for mobile-cellular teledensity; open-wire, fiber-optic cable, and microwave radio relay (2020)<br>
 _international_: country code - 357 (area administered by Turkish Cypriots uses the country code of Turkey - 90); a number of submarine cables, including the SEA-ME-WE-3, CADMOS, MedNautilus Submarine System, POSEIDON, TE North/TGN-Eurasia/SEACOM/Alexandros/Medes, UGARIT, Aphrodite2, Hawk, Lev Submarine System, and Tamares combine to provide connectivity to&nbsp;Europe, the Middle East, Africa, Asia, Australia, and Southeast Asia; Turcyos-1 and Turcyos-2 submarine cable in Turkish North Cyprus link to Turkey; tropospheric scatter; satellite earth stations - 8 (3 Intelsat - 1 Atlantic Ocean and 2 Indian Ocean, 2 Eutelsat, 2 Intersputnik, and 1 Arabsat) (2019)<br>
 <strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress toward 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>
 
@@ -714,7 +714,7 @@ Islamic State of Iraq and ash-Sham (ISIS)<br>
 <p>hostilities in 1974 divided the island into two de facto autonomous entities, the internationally recognized Cypriot Government and a Turkish-Cypriot community (north Cyprus); the 1,000-strong UN Peacekeeping Force in Cyprus (UNFICYP) has served in Cyprus since 1964 and maintains the buffer zone between north and south; on 1 May 2004, Cyprus entered the EU still divided, with the EU's body of legislation and standards (acquis communitaire) suspended in the north; Turkey protests Cypriot Government creating hydrocarbon blocks and maritime boundary with Lebanon in March 2007</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 9,820 (Syria) (mid-year 2021); 14,523 (Ukraine) (as of 30 October 2022)<br>
+_refugees (country of origin)_: 9,820 (Syria) (mid-year 2021); 14,818 (Ukraine) (as of 8 November 2022)<br>
 _IDPs_: 242,000 (both Turkish and Greek Cypriots; many displaced since 1974) (2021)<br>
 _stateless persons_: 66 (mid-year 2021)<br>
 <strong>note:</strong> 44,693 estimated refugee and migrant arrivals (January 2015-September 2022)<br>

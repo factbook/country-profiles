@@ -41,7 +41,7 @@ _Environment (Protection and Preservation) Zone_: 200 nm<br>
 tropical marine; hot, humid, moderated by trade winds<br>
 
 **Terrain**<br>
-flat and low (most areas do not exceed two m in elevation)<br>
+flat and low coral atolls (most areas do not exceed two m in elevation); sits atop the submarine volcanic Chagos-Laccadive Ridge<br>
 
 **Elevation**<br>
 _highest point_: ocean-side dunes on Diego Garcia 9 m<br>

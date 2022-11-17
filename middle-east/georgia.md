@@ -96,7 +96,7 @@ _0-14 years_: 18.42% (male 472,731/female 435,174)<br>
 _15-24 years_: 10.9% (male 286,518/female 250,882)<br>
 _25-54 years_: 40.59% (male 984,942/female 1,016,353)<br>
 _55-64 years_: 13.24% (male 288,650/female 364,117)<br>
-_65 years and over_: 16.85% (2020 est.) (male 326,219/female 504,444)<br>
+_65 years and over_: 16.85% (male 326,219/female 504,444) (2020 est.)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 55<br>
@@ -705,7 +705,7 @@ as of 2022, up to 10,000 Russian troops continued to occupy the breakaway region
 <p>Russia's military support and subsequent recognition of Abkhazia and South Ossetia independence in 2008 continue to sour relations with Georgia</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 26,793 (Ukraine) (as of 11 October 2022)<br>
+_refugees (country of origin)_: 24,912 (Ukraine) (as of 1 November 2022)<br>
 _IDPs_: 305,000 (displaced in the 1990s as a result of armed conflict in the breakaway republics of Abkhazia and South Ossetia; displaced in 2008 by fighting between Georgia and Russia over South Ossetia) (2021)<br>
 _stateless persons_: 534 (mid-year 2021)<br>
 

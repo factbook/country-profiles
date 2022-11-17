@@ -90,9 +90,8 @@ Czech 57.3%, Moravian 3.4%, other 7.7%, unspecified 31.6% (2021 est.)<br>
 <strong>note:</strong> includes only persons with one ethnicity<br>
 
 **Languages**<br>
-Czech (official) 88.4%, Slovak 1.5%, other 2.6%, unspecified 7.2% (2021 est.)<br>
+Czech (official) 88.4%, Slovak 1.5%, other 2.6%, unspecified 7.2%<br><br><strong>note:</strong> includes only persons with one mother tongue (2021 est.)<br>
 _major-language sample(s)_: <br>World Fackbook, nepostradatelný zdroj základních informací. (Czech)<br><br>The World Factbook, the indispensable source for basic information.<br>
-<strong>note:</strong> includes only persons with one mother tongue<br>
 
 **Religions**<br>
 Roman Catholic 7%, other believers belonging to a church or religious society 6% (includes Evangelical United Brethren Church and Czechoslovak Hussite Church), believers unaffiliated with a religious society 9.1%, none 47.8%, unspecified 30.1% (2021 est.)<br>
@@ -102,7 +101,7 @@ _0-14 years_: 15.17% (male 834,447/female 789,328)<br>
 _15-24 years_: 9.2% (male 508,329/female 475,846)<br>
 _25-54 years_: 43.29% (male 2,382,899/female 2,249,774)<br>
 _55-64 years_: 12.12% (male 636,357/female 660,748)<br>
-_65 years and over_: 20.23% (2020 est.) (male 907,255/female 1,257,515)<br>
+_65 years and over_: 20.23% (male 907,255/female 1,257,515) (2020 est.)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 56<br>
@@ -349,8 +348,8 @@ _election results_: <em><br>2018:</em> Milos ZEMAN reelected president in the se
 
 **Legislative branch**<br>
 _description_: bicameral Parliament or Parlament consists of:<br>Senate or Senat (81 seats; members directly elected in single-seat constituencies by absolute majority vote in 2 rounds if needed; members serve 6-year terms with one-third of the membership renewed every 2 years)<br><br>Chamber of Deputies or Poslanecka Snemovna (200 seats; members directly elected in 14 multi-seat constituencies by proportional representation vote with a 5% threshold required to fill a seat; members serve 4-year terms)<br>
-_elections_: Senate - last held in 2 rounds on 2-3 and 9-10 October 2020 (next to be held in October 2022)<br>Chamber of Deputies - last held on 8-9 October 2021 (next to be held by October 2025)<br>
-_election results_: Senate - percent of vote by party - NA; seats by party - STAN 19, ODS 18, KDU-CSL 12, ANO 5, TOP 09 5, CSSD 3, SEN 21 3, Pirates 2, SZ 1, minor parties with one seat each 9, independents 4; composition (as of October 2021) - men 69, women 12, percent of women 14.8%<br>Chamber of Deputies - percent of vote by party – SPOLU 27.8%, Action of Dissatisfied Persons 27.1%, Pirates and Mayors 15.6%, Freedom and Direct Democracy 9.6%, other 19.9%; seats by party - Action of Dissatisfied Persons 72, SPOLU 71, Pirates and Mayors 37, Freedom and Direct Democracy 20; composition (as of October 2021) - men 154, women 46, percent of women 23%; note - total Parliament percent of women 26%<br>
+_elections_: Senate - last held in 2 rounds on 23-24 September and 30 September and 1 October 2022 (next to be held in October 2024)<br>Chamber of Deputies - last held on 8-9 October 2021 (next to be held by October 2025)<br>
+_election results_: Senate - percent of vote by party - seats by party - ODS 23, STAN 15, KDU-CSL 12, ANO 5, TOP 09 6, CSSD 1, SEN 21 4, Pirates 2, minor parties with one seat each 9, independents 1 <br><br>Chamber of Deputies - percent of vote by party – SPOLU 27.8%, Action of Dissatisfied Persons (ANO)27.1%, Pirates and Mayors of Independents (STAN) 15.6%, Freedom and Direct Democracy 9.6%, other 19.9%; seats by party - Action of Dissatisfied Persons 72, SPOLU 71, Pirates and Mayors 37, Freedom and Direct Democracy 20<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme Court (organized into Civil Law and Commercial Division, and Criminal Division each with a court chief justice, vice justice, and several judges); Constitutional Court (consists of 15 justices); Supreme Administrative Court (consists of 36 judges, including the court president and vice president, and organized into 6-, 7-, and 9-member chambers)<br>
@@ -358,7 +357,7 @@ _judge selection and term of office_: Supreme Court judges proposed by the Chamb
 _subordinate courts_: High Court; regional and district courts<br>
 
 **Political parties and leaders**<br>
-Christian Democratic Union-Czechoslovak People's Party or KDU-CSL [Marian JURECKA]<br>Civic Democratic Party or ODS [Petr FIALA]<br>Communist Party of Bohemia and Moravia or KSCM [Katerina KONECNA]<br>Czech Social Democratic Party or CSSD [Michal SMARDA]<br>Czech Sovereignty [Jana VOLFOVA] (formerly Free Bloc or VB)<br>Freedom and Direct Democracy or SPD [Tomio OKAMURA]<br>Mayors and Independents or STAN [Vit RAKUSAN]<br>Movement of Dissatisfied Citizens or ANO [Andrej BABIS]<br>Oath or Prisaha or PSH [Robert SLACHTA]<br>Pirate Party or Pirates [Ivan BARTOS]<br>Tradition Responsibility Prosperity 09 or TOP 09 [Marketa PEKAROVA ADAMOVA]<br>Tricolor Freedomites Freeholders or TSS [Zuzana MAJEROVA ZAHRADNIKOVA]<br>
+Christian Democratic Union-Czechoslovak People's Party or KDU-CSL [Marian JURECKA]<br>Civic Democratic Party or ODS [Petr FIALA]<br>Communist Party of Bohemia and Moravia or KSCM [Katerina KONECNA]<br>Czech Social Democratic Party or CSSD [Michal SMARDA]<br>Freedom and Direct Democracy or SPD [Tomio OKAMURA]<br>Mayors and Independents or STAN [Vit RAKUSAN]<br>Mayors for the Liberec Region [Martin PUTA]<br>Movement of Dissatisfied Citizens or ANO [Andrej BABIS]<br>Party of Free Citizens Svobodni [Libor VONDRACEK]<br>Pirate Party or Pirates [Ivan BARTOS]<br>Senator 21 [Vaclav LASKA]<br>Tradition Responsibility Prosperity 09 or TOP 09 [Marketa PEKAROVA ADAMOVA]<br>
 
 **International organization participation**<br>
 Australia Group, BIS, BSEC (observer), CD, CE, CEI, CERN, EAPC, EBRD, ECB, EIB, ESA, EU, FAO, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IEA, IFC, IFRCS, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, MONUSCO, NATO, NEA, NSG, OAS (observer), OECD, OIF (observer), OPCW, OSCE, PCA, Schengen Convention, SELEC, UN, UNCTAD, UNESCO, UNHCR, UNHRC, UNIDO, UNWTO, UPU, Wassenaar Arrangement, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO, ZC<br>
@@ -372,7 +371,7 @@ _email address and website_: <br>washington@embassy.mzv.cz<br><br>https://www.mz
 _consulate(s) general_: Chicago, Los Angeles, New York<br>
 
 **Diplomatic representation from the US**<br>
-_chief of mission_: Ambassador (vacant); Charge d'Affaires Michael J. DODMAN (since 29 March 2022)<br>
+_chief of mission_: Ambassador (vacant); Charge d'Affaires Christy AGOR (since 18 August 2022)<br>
 _embassy_: Trziste 15, 118 01 Praha 1 - Mala Strana<br>
 _mailing address_: 5630 Prague Place, Washington DC&nbsp; 20521-5630<br>
 _telephone_: [420] 257-022-000<br>
@@ -716,7 +715,7 @@ Czechia joined NATO in 1999; Czechia, Hungary, and Poland were invited to begin 
 <p>none</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 455,731 (Ukraine) (as of 31 October 2022)<br>
+_refugees (country of origin)_: 458,679 (Ukraine) (as of 8 November 2022)<br>
 _stateless persons_: 1,498 (mid-year 2021)<br>
 
 **Illicit drugs**<br>

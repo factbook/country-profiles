@@ -101,7 +101,7 @@ _0-14 years_: 18.14% (male 57,402/female 53,217)<br>
 _15-24 years_: 12.78% (male 40,220/female 37,720)<br>
 _25-54 years_: 39.65% (male 120,374/female 121,461)<br>
 _55-64 years_: 13.41% (male 40,099/female 41,670)<br>
-_65 years and over_: 16.02% (2020 est.) (male 42,345/female 55,351)<br>
+_65 years and over_: 16.02% (male 42,345/female 55,351) (2020 est.)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 51.1<br>
@@ -718,7 +718,7 @@ Montenegro became a member of NATO in 2017; as of 2022, Greece and Italy provide
 **Refugees and internally displaced persons**<br>
 _refugees (country of origin)_: 28,639 (Ukraine) (as of 1 November 2022)<br>
 _stateless persons_: 458 (mid-year 2021)<br>
-<strong>note:</strong> 27,078 estimated refugee and migrant arrivals (January 2015-October 2022)<br>
+<strong>note:</strong> 27,811 estimated refugee and migrant arrivals (January 2015-November 2022)<br>
 
 **Illicit drugs**<br>
 <p>drug trafficking groups are major players in the procurement and transportation of large quantities of cocaine  destined for  European markets</p><br>

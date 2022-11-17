@@ -98,7 +98,7 @@ _0-14 years_: 38.73% (male 164,417/female 159,400)<br>
 _15-24 years_: 19.94% (male 84,820/female 81,880)<br>
 _25-54 years_: 32.72% (male 137,632/female 135,973)<br>
 _55-64 years_: 4.69% (male 17,252/female 22,006)<br>
-_65 years and over_: 3.92% (2020 est.) (male 13,464/female 19,334)<br>
+_65 years and over_: 3.92% (male 13,464/female 19,334) (2020 est.)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 64.4<br>
@@ -567,8 +567,8 @@ _total subscriptions_: 645,000 (2020 est.)<br>
 _subscriptions per 100 inhabitants_: 46 (2020 est.)<br>
 
 **Telecommunication systems**<br>
-_general assessment_: Equatorial Guinea&rsquo;s climate for operator competition boosted mobile subscribership; broadband services are limited and expensive; submarine cable supported broadband and reliability of infrastructure; government backbone network will connect administrative centers; regional roaming agreement in process (2018)<br>
-_domestic_: fixed-line density is less than 1 per 100 persons and mobile-cellular subscribership is roughly 45 per 100 (2019)<br>
+_general assessment_: the telecom service is forecasted to register a growth of more than 6% during the period of 2022-2026; mobile data is the largest contributor to total service revenue in 2021, followed by mobile voice, fixed broadband, mobile messaging, and fixed voice; the launch of the international submarine cable ACE, which connects 13 West African countries with Europe, will improve international capacity, bringing opportunities to data center providers; 4G network expansion and 4G service promotion will allow consumers and businesses to leverage 4G services (2022)<br>
+_domestic_: fixed-line density is less than 1 per 100 persons and mobile-cellular subscribership is roughly 46 per 100 (2020)<br>
 _international_: country code - 240;&nbsp;landing points for the ACE, Ceiba-1, and Ceiba-2 submarine&nbsp;cables providing communication from Bata&nbsp;and Malabo, Equatorial Guinea&nbsp;to numerous Western African and European countries; satellite earth station - 1 Intelsat (Indian Ocean) (2019)<br>
 <!-- x-tinymce/html --><strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress toward 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>
 

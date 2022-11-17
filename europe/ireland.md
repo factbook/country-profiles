@@ -94,7 +94,7 @@ _0-14 years_: 21.15% (male 560,338/female 534,570)<br>
 _15-24 years_: 12.08% (male 316,239/female 308,872)<br>
 _25-54 years_: 42.19% (male 1,098,058/female 1,085,794)<br>
 _55-64 years_: 10.77% (male 278,836/female 278,498)<br>
-_65 years and over_: 13.82% (2020 est.) (male 331,772/female 383,592)<br>
+_65 years and over_: 13.82% (male 331,772/female 383,592) (2020 est.)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 54.8<br>
@@ -711,7 +711,7 @@ Continuity Irish Republican Army; New Irish Republican Army; Islamic State of Ir
 <p><em>Ireland-Denmark</em>: Ireland, Iceland, and the UK dispute Denmark's claim that the Faroe Islands' continental shelf extends beyond 200 nm; Iceland, Norway, and the Faroe Islands signed an agreement in 2019 extending the Faroe Islands’ northern continental shelf area</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 56,333 (Ukraine) (as of 31 October 2022)<br>
+_refugees (country of origin)_: 56,829 (Ukraine) (as of 8 November 2022)<br>
 _stateless persons_: 107 (mid-year 2021)<br>
 
 **Trafficking in persons**<br>

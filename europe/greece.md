@@ -97,7 +97,7 @@ _0-14 years_: 14.53% (male 794,918/female 745,909)<br>
 _15-24 years_: 10.34% (male 577,134/female 519,819)<br>
 _25-54 years_: 39.6% (male 2,080,443/female 2,119,995)<br>
 _55-64 years_: 13.1% (male 656,404/female 732,936)<br>
-_65 years and over_: 22.43% (2020 est.) (male 1,057,317/female 1,322,176)<br>
+_65 years and over_: 22.43% (male 1,057,317/female 1,322,176) (2020 est.)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 56.1<br>
@@ -721,9 +721,9 @@ Islamic State of Iraq and ash-Sham (ISIS); Revolutionary Struggle; Revolutionary
 <p>Greece and Turkey continue discussions to resolve their complex maritime, air, territorial, and boundary disputes in the Aegean Sea; the mass migration of unemployed Albanians still remains a problem for developed countries, chiefly Greece and Italy</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 38,496 (Syria), 25,188 (Afghanistan), 12,657 (Iraq), 5,002 (West Bank and Gaza) (mid-year 2021); 19,997 (Ukraine) (as of 1 November 2022)<br>
+_refugees (country of origin)_: 38,496 (Syria), 25,188 (Afghanistan), 12,657 (Iraq), 5,002 (West Bank and Gaza) (mid-year 2021); 19,997 (Ukraine) (as of 8 November 2022)<br>
 _stateless persons_: 5,552 (mid-year 2021)<br>
-<strong>note:</strong> 1,226,306 estimated refugee and migrant arrivals (January 2015-October 2022); as of the end of February 2022, Greece hosted an estimated 161,419 refugees and asylum seekers<br>
+<strong>note:</strong> 1,227,836 estimated refugee and migrant arrivals (January 2015-November 2022); as of the end of February 2022, Greece hosted an estimated 161,419 refugees and asylum seekers<br>
 
 **Illicit drugs**<br>
 a gateway to Europe for traffickers smuggling cannabis products and heroin from the Middle East and Southwest Asia to the West and precursor chemicals to the East; some South American cocaine transits or is consumed in Greece; money laundering related to drug trafficking and organized crime<br>

@@ -93,7 +93,7 @@ _0-14 years_: 21.69% (male 32,920/female 31,100)<br>
 _15-24 years_: 14.72% (male 22,640/female 20,793)<br>
 _25-54 years_: 44.24% (male 66,921/female 63,636)<br>
 _55-64 years_: 10.31% (male 15,610/female 14,823)<br>
-_65 years and over_: 9.04% (2020 est.) (male 12,854/female 13,824)<br>
+_65 years and over_: 9.04% (male 12,854/female 13,824) (2020 est.)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 45.5<br>
@@ -523,7 +523,7 @@ _subscriptions per 100 inhabitants_: 119 (2020 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: French Polynesia has one of the most advanced telecoms infrastructures in the Pacific Islands region; the remoteness of the country with its scattering of 130 islands and atolls has made connectivity vital for its inhabitants; the first submarine cable was deployed in 2010 and since then additional cables have been connected to the islands, vastly improving French Polynesia&rsquo;s international connectivity; an additional domestic submarine cable, the Natitua Sud, will connect more remote islands by the end of 2022; French Polynesia is also a hub for satellite communications in the region; a considerable number of consumers access FttP-based services; with the first data center in French Polynesia on the cards, the quality and price of broadband services is expected to improve as content will be able to be cached locally, reducing costs for consumers; for 2022, fixed broadband subscriptions reached an estimated 22%; about 43% of the country&rsquo;s mobile connections are on 3G networks, while LTE accounts for 12%; by 2025, LTE is expected to account for more than half of all connections; it is also estimated that 77% of mobile subscribers will have smart phones by 2025 (2022)<br>
-_domestic_: fixed-line subscriptions nearly 22 per 100 persons and mobile-cellular density is roughly 104 per 100 persons (2019)<br>
+_domestic_: fixed-line subscriptions nearly 33 per 100 persons and mobile-cellular density is roughly 119 per 100 persons (2020)<br>
 _international_: country code - 689; landing points for the NATITUA, Manatua, and Honotua submarine cables to other French Polynesian Islands, Cook Islands, Niue, Samoa and US; satellite earth station - 1 Intelsat (Pacific Ocean) (2019)<br>
 <strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress toward 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>
 

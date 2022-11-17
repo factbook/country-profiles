@@ -101,7 +101,7 @@ _0-14 years_: 16.41% (male 467,220/female 447,005)<br>
 _15-24 years_: 10.95% (male 312,179/female 297,717)<br>
 _25-54 years_: 37.37% (male 1,064,326/female 1,017,545)<br>
 _55-64 years_: 13.02% (male 357,687/female 367,610)<br>
-_65 years and over_: 22.26% (2020 est.) (male 543,331/female 697,045)<br>
+_65 years and over_: 22.26% (male 543,331/female 697,045) (2020 est.)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 62.4<br>
@@ -717,6 +717,6 @@ Finland is not a member of NATO, but Finland and NATO have actively cooperated i
 <p>various groups in Finland advocate restoration of Karelia and other areas ceded to the former Soviet Union, but the Finnish Government asserts no territorial demands</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 9,053 (Iraq) (mid-year 2021); 38,588 (Ukraine) (as of 26 October 2022)<br>
+_refugees (country of origin)_: 9,053 (Iraq) (mid-year 2021); 38,588 (Ukraine) (as of 8 November 2022)<br>
 _stateless persons_: 3,416 (mid-year 2021)<br>
 

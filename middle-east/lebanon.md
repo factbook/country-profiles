@@ -96,7 +96,7 @@ _0-14 years_: 20.75% (male 581,015/female 554,175)<br>
 _15-24 years_: 14.98% (male 417,739/female 401,357)<br>
 _25-54 years_: 46.69% (male 1,296,250/female 1,257,273)<br>
 _55-64 years_: 9.62% (male 250,653/female 275,670)<br>
-_65 years and over_: 7.96% (2020 est.) (male 187,001/female 248,479)<br>
+_65 years and over_: 7.96% (male 187,001/female 248,479) (2020 est.)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 48.4<br>
@@ -344,7 +344,7 @@ _chief of state_: President Michel AWN (since 31 October 2016)<br>
 _head of government_: Prime Minister Najib MIQATI (since 20 September 2021)<br>
 _cabinet_: Cabinet chosen by the prime minister in consultation with the president and Parliament<br>
 _elections/appointments_: president indirectly elected by Parliament with two-thirds majority vote in the first round and if needed absolute majority vote in a second round for a 6-year term (eligible for non-consecutive terms); last held on 31 October 2016 (next to be held in 2022); prime minister appointed by the president in consultation with Parliament; deputy prime minister determined during cabinet formation<br>
-_election results_: 2022: on 29 September, Parliament failed to elect a new president ; blank votes 63 , Michel<br>MOAWAD 36; on 13 October 2022, the vote was postponed because Parliament lacked the necessary quorum of 86 members to hold a vote<br><em><br>2016:</em> Michel AWN elected president in second round; National Assembly vote - Michel AWN (FPM) 83 votes; note - in the initial election held on 23 April 2014, no candidate received the required two-thirds vote, and subsequent attempts failed because Parliament lacked the necessary quorum of 86 members to hold a vote; the president was finally elected in its 46th attempt on 31 October 2016<br>
+_election results_: 2022: on 10 November 2022, Parliament in its fifth session failed to elect a president; next session is called for November 17 <br><em><br>2016:</em> Michel AWN elected president in second round; National Assembly vote - Michel AWN (FPM) 83 votes; note - in the initial election held on 23 April 2014, no candidate received the required two-thirds vote, and subsequent attempts failed because Parliament lacked the necessary quorum of 86 members to hold a vote; the president was finally elected in its 46th attempt on 31 October 2016<br>
 
 **Legislative branch**<br>
 _description_: unicameral Lebanese Parliament or Majlis al-Nuwab in Arabic, Chambre des d&eacute;put&eacute;s in French (128 seats; members directly elected in multi-member constituencies by open list proportional representation vote, apportioned evenly between Christian and Muslims; members serve 4-year terms)<br>
