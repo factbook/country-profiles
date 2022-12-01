@@ -190,13 +190,6 @@ _unimproved: total_: total: 1% of population (2020 est.)<br>
 **HIV/AIDS - adult prevalence rate**<br>
 (2020 est.) <.1%<br>
 
-**HIV/AIDS - people living with HIV/AIDS**<br>
-(2020 est.) &lt;1,000<br>
-<strong>note: </strong>estimate does not include children<br>
-
-**HIV/AIDS - deaths**<br>
-(2018 est.) <100<br>
-
 **Obesity - adult prevalence rate**<br>
 20.2% (2016)<br>
 
@@ -421,6 +414,7 @@ $54.16 billion (2019 est.)<br>
 _Fitch rating_: A (2019)<br>
 _Moody's rating_: A3 (2020)<br>
 _Standard & Poors rating_: AA- (2019)<br>
+<strong>note: </strong>The year refers to the year in which the current credit rating was first obtained.<br>
 
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 1.8% (2017 est.)<br>
@@ -705,9 +699,9 @@ Slovenia became a member of NATO in 2004; Hungary and Italy provide NATO's air p
 <p><em>Slovenia-Austria</em>: none identified</p> <p><em>Slovenia-Croatia</em>: since the breakup of Yugoslavia in the early 1990s, Croatia and Slovenia have each claimed sovereignty over Piran Bay and four villages, and Slovenia has objected to Croatia's claim of an exclusive economic zone in the Adriatic Sea; in 2009, however Croatia and Slovenia signed a binding international arbitration agreement to define their disputed land and maritime borders, which led Slovenia to lift its objections to Croatia joining the EU; in June 2017, the Permanent Court of Arbitration issued a ruling on the border, but Croatia had withdrawn from the proceedings in 2015 and refused to implement it; as a member state that forms part of the EU's external border, Slovenia has implemented the strict Schengen border rules to curb illegal migration and commerce through southeastern Europe while encouraging close cross-border ties with Croatia; Slovenia continues to impose a hard border Schengen regime with Croatia, which joined the EU in 2013 but has not yet fulfilled Schengen requirements</p> <p><em>Slovenia-Hungary</em>: none identified</p> <p><em>Slovenia-Italy</em>: none identified</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 8,439 (Ukraine) (as of 8 November 2022)<br>
+_refugees (country of origin)_: 8,490 (Ukraine) (as of 22 November 2022)<br>
 _stateless persons_: 10 (2020)<br>
-<strong>note:  </strong>551,887 estimated refugee and migrant arrivals (January 2015-September 2022)<br>
+<strong>note:  </strong>557,468 estimated refugee and migrant arrivals (January 2015-October 2022)<br>
 
 **Illicit drugs**<br>
 minor transit point for cocaine and Southwest Asian heroin bound for Western Europe, and for precursor chemicals<br>

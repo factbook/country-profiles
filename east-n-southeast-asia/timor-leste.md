@@ -190,12 +190,6 @@ _unimproved: total_: total: 33.7% of population (2020 est.)<br>
 **HIV/AIDS - adult prevalence rate**<br>
 0.2% (2020 est.)<br>
 
-**HIV/AIDS - people living with HIV/AIDS**<br>
-1,200 (2020)<br>
-
-**HIV/AIDS - deaths**<br>
-(2020) <100<br>
-
 **Major infectious diseases**<br>
 _degree of risk_: very high (2020)<br>
 _food or waterborne diseases_: bacterial diarrhea, hepatitis A, and typhoid fever<br>
@@ -683,10 +677,6 @@ since achieving independence, Timor-Leste has received security assistance from 
 
 **Disputes - international**<br>
 <p><em>Timor-Leste-Australia</em>: Timor-Leste and Australia reached agreement on a treaty delimiting a permanent maritime boundary in March 2018; both countries ratified the treaty in August 2019</p> <p><em>Timor-Leste-Indonesia</em>: three stretches of land borders with Indonesia have yet to be delimited, two of which are in the Oecussi exclave area, and no maritime or Economic Exclusion Zone boundaries have been established between the countries; maritime boundaries with Indonesia remain unresolved; between 2005 and 2015, 500 border landmarks were placed and another 200 were proposed</p><br>
-
-**Trafficking in persons**<br>
-_current situation_: human traffickers exploit domestic and foreign victims in Timor-Leste, and traffickers exploit victims from Timor-Leste abroad; traffickers exploit Timorese women, girls, and occasionally young men and boys from rural areas in sex trafficking or domestic servitude; Timorese men are exploited in forced labor in agriculture, construction, and mining; families place children in bonded domestic and agricultural labor to pay debts; traffickers deceive young men and women with promises of a scholarship or employment opportunities in Indonesia, Malaysia, and other countries in the region only taking them to a different county, taking their passports, and forcing them into labor, including domestic servitude; sex traffickers in Timor-Leste prey on foreign women from East and Southeast Asia; traffickers also recruit Timorese women to send them to China, Indonesia, or Malaysia for commercial sex<br>
-_tier rating_: Tier 2 Watch List &mdash; Timor-Leste does not fully meet the minimum standards for the elimination of trafficking but is making significant efforts to do so; efforts include re-establishing funding to NGOs for victim services and integrating an anti-trafficking curriculum for officials; however, authorities decreased investigations and convictions; victim protection services were inadequate, and no government-wide standard operating procedures for victim identification were implemented; understanding of trafficking remains low among officials (2020)<br>
 
 **Illicit drugs**<br>
 NA<br>

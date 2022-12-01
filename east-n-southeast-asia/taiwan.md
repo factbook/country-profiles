@@ -153,7 +153,8 @@ _female_: 84.34 years (2022 est.)<br>
 1.08 children born/woman (2022 est.)<br>
 
 **Contraceptive prevalence rate**<br>
-NA<br>
+75.2% (2016)<br>
+<strong>note:</strong> percent of women aged 20-52<br>
 
 **Drinking water source**<br>
 _improved: urban_: urban: NA<br>
@@ -178,12 +179,6 @@ _unimproved: rural_: rural: NA<br>
 _unimproved: total_: total: NA<br>
 
 **HIV/AIDS - adult prevalence rate**<br>
-NA<br>
-
-**HIV/AIDS - people living with HIV/AIDS**<br>
-NA<br>
-
-**HIV/AIDS - deaths**<br>
 NA<br>
 
 **Children under the age of 5 years underweight**<br>
@@ -285,7 +280,7 @@ _judge selection and term of office_: Supreme Court justices appointed by the pr
 _subordinate courts_: high courts; district courts; hierarchy of administrative courts<br>
 
 **Political parties and leaders**<br>
-Democratic Progressive Party or DPP [TSAI Ing-wen]<br>Kuomintang or KMT (Nationalist Party) [Eric CHU Chi-luan]<br>New Power Party or NPP [CHEN Jiau-hua]<br>People First Party or PFP [James SOONG]<br>Taiwan People's Party or TPP [KO Wen-je]<br>Taiwan Statebuilding Party or TSP [CHEN Yi-chi]<br>
+Democratic Progressive Party or DPP [vacant; TSAI Ing-wen resigned Nov 2022]<br>Kuomintang or KMT (Nationalist Party) [Eric CHU Chi-luan]<br>New Power Party or NPP [CHEN Jiau-hua]<br>People First Party or PFP [James SOONG]<br>Taiwan People's Party or TPP [KO Wen-je]<br>Taiwan Statebuilding Party or TSP [CHEN Yi-chi]<br>
 <strong>note:</strong> the DPP and the KMT are the two major political parties; there are hundreds of registered minor parties<br>
 
 **International organization participation**<br>
@@ -350,6 +345,7 @@ $611.391 billion (2019 est.)<br>
 _Fitch rating_: AA- (2016)<br>
 _Moody's rating_: Aa3 (1994)<br>
 _Standard & Poors rating_: AA- (2002)<br>
+<strong>note: </strong>The year refers to the year in which the current credit rating was first obtained.<br>
 
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 1.8% (2017 est.)<br>

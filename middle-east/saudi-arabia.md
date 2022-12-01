@@ -195,12 +195,6 @@ _unimproved: total_: total: 0% of population (2020 est.)<br>
 **HIV/AIDS - adult prevalence rate**<br>
 (2020 est.) <.1%<br>
 
-**HIV/AIDS - people living with HIV/AIDS**<br>
-12,000 (2020 est.)<br>
-
-**HIV/AIDS - deaths**<br>
-(2020 est.) <200<br>
-
 **Obesity - adult prevalence rate**<br>
 35.4% (2016)<br>
 
@@ -340,7 +334,7 @@ _residency requirement for naturalization_: 5 years<br>
 
 **Executive branch**<br>
 _chief of state_: King SALMAN bin Abd al-Aziz Al Saud (since 23 January 2015); Crown Prince MUHAMMAD BIN SALMAN bin Abd al-Aziz Al Saud (born 31 August 1985)<br>
-_head of government_: King and Prime Minister SALMAN bin Abd al-Aziz Al Saud (since 23 January 2015); Crown Prince MUHAMMAD BIN SALMAN bin Abd al-Aziz Al Saud (born 31 August 1985)<br>
+_head of government_: Crown Prince and Prime Minister MUHAMMAD BIN SALMAN bin Abd al-Aziz Al Saud (born 31 August 1985)<br>
 _cabinet_: Council of Ministers appointed by the monarch every 4 years and includes many royal family members<br>
 _elections/appointments_: none; the monarchy is hereditary; an Allegiance Council created by royal decree in October 2006 established a committee of Saudi princes for a voice in selecting future Saudi kings<br>
 
@@ -426,6 +420,7 @@ $792.849 billion (2019 est.)<br>
 _Fitch rating_: A (2019)<br>
 _Moody's rating_: A1 (2016)<br>
 _Standard & Poors rating_: A- (2016)<br>
+<strong>note: </strong>The year refers to the year in which the current credit rating was first obtained.<br>
 
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 2.6% (2017 est.)<br>
@@ -727,10 +722,6 @@ Islamic State of Iraq and ash-Sham (ISIS); al-Qa’ida; al-Qa’ida in the Arabi
 
 **Refugees and internally displaced persons**<br>
 _stateless persons_: 70,000 (mid-year 2021); note - thousands of biduns (stateless Arabs) are descendants of nomadic tribes who were not officially registered when national borders were established, while others migrated to Saudi Arabia in search of jobs; some have temporary identification cards that must be renewed every five years, but their rights remain restricted; most Palestinians have only legal resident status; some naturalized Yemenis were made stateless after being stripped of their passports when Yemen backed Iraq in its invasion of Kuwait in 1990; Saudi women cannot pass their citizenship on to their children, so if they marry a non-national, their children risk statelessness<br>
-
-**Trafficking in persons**<br>
-_current situation_: Saudi Arabia is a destination country for men and women subjected to forced labor and, to a lesser extent, forced prostitution; men and women primarily from South and Southeast Asia and Africa voluntarily travel to Saudi Arabia to work in domestic service, construction, agriculture or other low-skilled jobs, but some subsequently face conditions indicative of involuntary servitude (many are forced to work months or years beyond their contract term because employers withhold passports and required exit visas); women, primarily from Asian and African countries, are reported to be forced into prostitution in Saudi Arabia<br>
-_tier rating_: <p>Tier 2 Watch List — Saudi Arabia does not fully meet the minimum standards for the elimination of trafficking, but is making significant efforts to do so and was upgraded to Tier 2 Watch List;</p> the government enacted the country’s first-ever national referral mechanism (NRM) and increased the number of prosecutions and convictions under the anti-trafficking law; victims are identified and referred for care; the government convicted and sentenced two Saudi officials complicit in trafficking crimes; however, the government continued to fine, jail, and/or deport migrant workers for prostitution or immigration violations who may have been trafficking victims; authorities regularly misclassified potential trafficking crimes as labor law violations rather than as criminal offenses (2020)<br>
 
 **Illicit drugs**<br>
 regularly sentences drug traffickers to the death penalty, although a moratorium on executions for drug offences has been in place since at least 2020; improving anti-money-laundering legislation and enforcement<br>

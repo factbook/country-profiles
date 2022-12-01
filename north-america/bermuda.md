@@ -178,12 +178,6 @@ _unimproved: total_: total: 0.1% of population (2020)<br>
 **HIV/AIDS - adult prevalence rate**<br>
 NA<br>
 
-**HIV/AIDS - people living with HIV/AIDS**<br>
-NA<br>
-
-**HIV/AIDS - deaths**<br>
-NA<br>
-
 **Children under the age of 5 years underweight**<br>
 NA<br>
 
@@ -363,6 +357,7 @@ $6.127 billion (2016 est.)<br>
 _Fitch rating_: N/A (2015)<br>
 _Moody's rating_: A2 (2016)<br>
 _Standard & Poors rating_: A+ (2015)<br>
+<strong>note: </strong>The year refers to the year in which the current credit rating was first obtained.<br>
 
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 0.9% (2017 est.)<br>
@@ -431,8 +426,9 @@ $818.6 million (2017 est.)<br>
 $763 million (2016 est.)<br>
 
 **Exports**<br>
-$1.59 billion (2019 est.) note: data are in current year dollars<br>
-$1.59 billion (2018 est.) note: data are in current year dollars<br>
+$1.59 billion (2019 est.)<br>
+$1.59 billion (2018 est.)<br>
+<strong>note:</strong> Data are in current year dollars and do not include illicit exports or re-exports.<br>
 
 **Exports - partners**<br>
 Jamaica 49.1%, Luxembourg 36.1%, US 4.9% (2017)<br>

@@ -196,12 +196,6 @@ _unimproved: total_: total: 6.6% of population (2020 est.)<br>
 **HIV/AIDS - adult prevalence rate**<br>
 0.2% (2020 est.)<br>
 
-**HIV/AIDS - people living with HIV/AIDS**<br>
-120,000 (2020 est.)<br>
-
-**HIV/AIDS - deaths**<br>
-1,600 (2020 est.) <1,000<br>
-
 **Major infectious diseases**<br>
 _degree of risk_: high (2020)<br>
 _food or waterborne diseases_: bacterial diarrhea, hepatitis A, and typhoid fever<br>
@@ -444,6 +438,7 @@ $377.205 billion (2019 est.)<br>
 _Fitch rating_: BBB (2017)<br>
 _Moody's rating_: Baa2 (2014)<br>
 _Standard & Poors rating_: BBB+ (2019)<br>
+<strong>note: </strong>The year refers to the year in which the current credit rating was first obtained.<br>
 
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 9.6% (2017 est.)<br>
@@ -629,7 +624,7 @@ _subscriptions per 100 inhabitants_: 137 (2020 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: the Covid-19 pandemic had a relatively minor impact on the Philippine&rsquo;s telecom sector in 2020; subscriber numbers fell in some areas, but this was offset by strong growth in mobile data and broadband usage since a significant proportion of the population transitioned to working or studying from home; major investment programs covering LTE, 5G, and fiber broadband networks suffered slight delays due to holdups in supply chains, but activity has since ramped up in an attempt to complete the roll outs as per the original schedule; the major telecom operators had mixed financial results for the past year; overall, the number of mobile subscribers is expected to grow to 153 million by the end of 2021, with the penetration rate approaching 144%; the government remains keen, and committed, to seeing strong competition, growth, and service excellence in the telecom sector, so there is likely to be continued support (financially as well as through legislation such as enabling mobile tower sharing and number portability) to ensure that the sector remains viable for emerging players; the mobile sector will remain the Philippines&rsquo; primary market for telecommunications well into the future; the unique terrain and resulting challenges associated with accessing remote parts of the archipelago means that in many areas fixed networks are neither cost-effective nor logistically viable; the bulk of telecoms investment over the coming years will continue to be in 5G and 5G-enabled LTE networks; coverage of LTE and 5G networks extends to over 95% of the population, and for the vast majority of people mobile will likely remain their only platform for telecom services (2021)<br>
-_domestic_: telecommunications infrastructure includes the following platforms: fixed line, mobile cellular, cable TV, over-the-air TV, radio and (very small aperture terminal) VSAT, fiber-optic cable, and satellite for redundant international connectivity; fixed-line nearly 4 per 100 and mobile-cellular nearly 155 per 100 (2019)<br>
+_domestic_: telecommunications infrastructure includes the following platforms: fixed line, mobile cellular, cable TV, over-the-air TV, radio and (very small aperture terminal) VSAT, fiber-optic cable, and satellite for redundant international connectivity; fixed-line nearly 4 per 100 and mobile-cellular nearly 137 per 100 (2020)<br>
 _international_: country code - 63; landing points for the NDTN, TGN-IA, AAG, PLCN, EAC-02C, DFON, SJC, APCN-2, SeaMeWe, Boracay-Palawan Submarine Cable System, Palawa-Illoilo Cable System, NDTN, SEA-US, SSSFOIP, ASE and JUPITAR submarine cables that together provide connectivity to the US, Southeast Asia, Asia, Europe, Africa, the Middle East, and Australia (2019)<br>
 <strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress toward 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>
 

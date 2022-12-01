@@ -204,12 +204,6 @@ _unimproved: total_: total: 14.8% of population (2020 est.)<br>
 **HIV/AIDS - adult prevalence rate**<br>
 0.6% (2019 est.)<br>
 
-**HIV/AIDS - people living with HIV/AIDS**<br>
-240,000 (2019 est.)<br>
-
-**HIV/AIDS - deaths**<br>
-7,700 (2019 est.)<br>
-
 **Major infectious diseases**<br>
 _degree of risk_: very high (2020)<br>
 _food or waterborne diseases_: bacterial and protozoal diarrhea, hepatitis A, and typhoid fever<br>
@@ -525,9 +519,9 @@ $240 million (2019 est.)<br>
 -$2.398 billion (2018 est.)<br>
 
 **Exports**<br>
-$17.52 billion (2019 est.) note: data are in current year dollars<br>
-$15.73 billion (2018 est.) note: data are in current year dollars<br>
-<strong>note:</strong> official export figures are grossly underestimated due to the value of timber, gems, narcotics, rice, and other products smuggled to Thailand, China, and Bangladesh<br>
+$17.52 billion (2019 est.)<br>
+$15.73 billion (2018 est.)<br>
+<strong>note:</strong> Data are in current year dollars and do not include illicit exports or re-exports.<br>
 
 **Exports - partners**<br>
 China 24%, Thailand 24%, Japan 7%, Germany 5% (2019)<br>

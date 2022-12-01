@@ -197,12 +197,6 @@ _unimproved: total_: total: 0% of population (2020 est.)<br>
 **HIV/AIDS - adult prevalence rate**<br>
 (2019 est.) <.1%<br>
 
-**HIV/AIDS - people living with HIV/AIDS**<br>
-3,300 (2019 est.)<br>
-
-**HIV/AIDS - deaths**<br>
-(2019 est.) <100<br>
-
 **Obesity - adult prevalence rate**<br>
 25% (2016)<br>
 
@@ -431,6 +425,7 @@ $68.49 billion (2019 est.)<br>
 _Fitch rating_: BBB (2017)<br>
 _Moody's rating_: Baa1 (2020)<br>
 _Standard & Poors rating_: BBB (2019)<br>
+<strong>note: </strong>The year refers to the year in which the current credit rating was first obtained.<br>
 
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 4.3% (2017 est.)<br>
@@ -506,9 +501,10 @@ $2.06 billion (2019 est.)<br>
 $611 million (2018 est.)<br>
 
 **Exports**<br>
-$39.27 billion (2020 est.) note: data are in current year dollars<br>
-$44.04 billion (2019 est.) note: data are in current year dollars<br>
-$43.52 billion (2018 est.) note: data are in current year dollars<br>
+$39.27 billion (2020 est.)<br>
+$44.04 billion (2019 est.)<br>
+$43.52 billion (2018 est.)<br>
+<strong>note:</strong> Data are in current year dollars and do not include illicit exports or re-exports.<br>
 
 **Exports - partners**<br>
 Germany 16%, Romania 8%, Italy 7%, Turkey 7%, Greece 6% (2019)<br>
@@ -724,9 +720,9 @@ Islamic State of Iraq and ash-Sham (ISIS); Islamic Revolutionary Guard Corps/Qod
 <p>none</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 19,014 (Syria) (mid-year 2021); 55,016 (Ukraine) (as of 1 November 2022)<br>
+_refugees (country of origin)_: 19,014 (Syria) (mid-year 2021); 51,864 (Ukraine) (as of 22 November 2022)<br>
 _stateless persons_: 1,143 (mid-year 2021)<br>
-<strong>note:</strong> 80,428 estimated refugee and migrant arrivals (January 2015-August 2022); Bulgaria is predominantly a transit country<br>
+<strong>note:</strong> 83,250 estimated refugee and migrant arrivals (January 2015-September 2022); Bulgaria is predominantly a transit country<br>
 
 **Illicit drugs**<br>
 source country for amphetamine tablets<br>

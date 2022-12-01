@@ -182,12 +182,6 @@ _unimproved: total_: total: 12.7% of population (2017 est.)<br>
 **HIV/AIDS - adult prevalence rate**<br>
 0.5% (2018 est.)<br>
 
-**HIV/AIDS - people living with HIV/AIDS**<br>
-(2018) <200<br>
-
-**HIV/AIDS - deaths**<br>
-(2018) <100<br>
-
 **Obesity - adult prevalence rate**<br>
 22.9% (2016)<br>
 
@@ -548,7 +542,7 @@ _subscriptions per 100 inhabitants_: 147 (2020 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: good interisland and international connections; broadband access; expanded FttP (Fiber to the Home) and LTE markets; regulatory development; telecom sector contributes greatly to the overall GDP; telecom sector is a growth area (2020)<br>
-_domestic_: interisland links via ECFS; fixed-line teledensity about 33 per 100 persons; mobile-cellular teledensity is roughly 148 per 100 persons (2019)<br>
+_domestic_: interisland links via ECFS; fixed-line teledensity about 28 per 100 persons; mobile-cellular teledensity is roughly 147 per 100 persons (2020)<br>
 _international_: country code - 1-869; landing points for&nbsp;the ECFS, Southern Caribbean Fiber and the SSCS&nbsp;submarine cables providing connectivity for numerous Caribbean Islands (2019)<br>
 <strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress toward 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>
 

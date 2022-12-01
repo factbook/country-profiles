@@ -200,12 +200,6 @@ _unimproved: total_: total: 7.5% of population (2020 est.)<br>
 **HIV/AIDS - adult prevalence rate**<br>
 0.4% (2020 est.)<br>
 
-**HIV/AIDS - people living with HIV/AIDS**<br>
-540,000 (2020 est.)<br>
-
-**HIV/AIDS - deaths**<br>
-24,000 (2020 est.)<br>
-
 **Major infectious diseases**<br>
 _degree of risk_: very high (2020)<br>
 _food or waterborne diseases_: bacterial diarrhea, hepatitis A, and typhoid fever<br>
@@ -456,6 +450,7 @@ $1,119,720,000,000 (2019 est.)<br>
 _Fitch rating_: BBB (2017)<br>
 _Moody's rating_: Baa2 (2018)<br>
 _Standard & Poors rating_: BBB (2019)<br>
+<strong>note: </strong>The year refers to the year in which the current credit rating was first obtained.<br>
 
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 13.7% (2017 est.)<br>
@@ -718,8 +713,8 @@ _LNG terminal(s) (import)_: Arun, Lampung, West Java<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Indonesian National Armed Forces (Tentara Nasional Indonesia, TNI): Army (TNI-Angkatan Darat (TNI-AD)), Navy (TNI-Angkatan Laut (TNI-AL), includes Marine Corps (Korps Marinir, KorMar), Naval Aviation Center (PUSPENERBAL)), Air Force (TNI-Angkatan Udara (TNI-AU)), National Air Defense Command (Komando Pertahanan Udara Nasional (Kohanudnas)), Armed Forces Special Operations Command (Kopassus), Strategic Reserve Command (Kostrad), National Army Reserve Component (Komcad) (2022)<br>
-<strong>note 1:</strong> in 2014, Indonesia created a Maritime Security Agency (Bakamla) to coordinate the actions of all maritime security agencies, including the Navy, the Indonesian Sea and Coast Guard (Kesatuan Penjagaan Laut dan Pantai, KPLP), the Water Police (Polair), Customs (Bea Cukai), and Ministry of Marine Affairs and Fisheries<br><br><strong>note 2: </strong>the Indonesian National Police includes a paramilitary Mobile Brigade Corps (BRIMOB); following the Bali terror bombing in 2002, the National Police formed a special counter-terrorism force called Detachment 88 (Densus or Detasemen Khusus 88 Antiteror)<br>
+Indonesian National Armed Forces (Tentara Nasional Indonesia, TNI): Army (TNI-Angkatan Darat (TNI-AD)), Navy (TNI-Angkatan Laut (TNI-AL); includes Marine Corps (Korps Marinir or KorMar)), Air Force (TNI-Angkatan Udara (TNI-AU)) (2022)<br>
+<strong>note 1:</strong> in 2014, Indonesia created a Maritime Security Agency (Bakamla) to coordinate the actions of all maritime security agencies, including the Navy, the Indonesian Sea and Coast Guard (Kesatuan Penjagaan Laut dan Pantai, KPLP), the Water Police (Polair), Customs (Bea Cukai), and Ministry of Marine Affairs and Fisheries<br><br><strong>note 2: </strong>the Indonesian National Police includes a paramilitary Mobile Brigade Corps (BRIMOB); following the Bali terror bombing in 2002, the National Police formed a special counterterrorism force called Detachment 88 (Densus or Detasemen Khusus 88 Antiteror); Detachment 88 often works with the TNI's Joint Special Operations Command, which has counterterrorism and counterinsurgency units<br>
 
 **Military expenditures**<br>
 0.8% of GDP (2021 est.)<br>
@@ -732,7 +727,7 @@ Indonesian National Armed Forces (Tentara Nasional Indonesia, TNI): Army (TNI-An
 approximately 400,000 active duty troops (300,000 Army; 60,000 Navy, including about 20,000 marines; 30,000 Air Force) (2022)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the Indonesian military inventory comes from a wide variety of sources; since 2010, the top suppliers have included China, France, Germany, the Netherlands, Russia, South Korea, the UK, and the US; the TNI has been engaged in a long-term modernization program since 2010 with uneven success; Indonesia has a growing defense industry fueled by technology transfers and cooperation agreements with several countries; in 2019, the Indonesian Government said that growing its domestic defense industry was a national priority over the next 5-10 years (2022)<br>
+the Indonesian military inventory comes from a wide variety of sources; since 2010, the top suppliers have included China, France, Germany, the Netherlands, Russia, South Korea, the UK, and the US; the TNI has been engaged in a long-term modernization program since 2010 with uneven success; Indonesia has a growing defense industry fueled by technology transfers and cooperation agreements with several countries; in 2019, the Indonesian Government said that growing its domestic defense industry was a national priority over the following 10 years (2022)<br>
 
 **Military service age and obligation**<br>
 18-45 years of age for voluntary military service, with selective conscription authorized (males, age 18), but not utilized; 2-year service obligation, with reserve obligation to age 45 (officers) (2021)<br>

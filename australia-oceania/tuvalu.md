@@ -179,12 +179,6 @@ _unimproved: total_: total: 8.5% of population (2017 est.)<br>
 **HIV/AIDS - adult prevalence rate**<br>
 NA<br>
 
-**HIV/AIDS - people living with HIV/AIDS**<br>
-NA<br>
-
-**HIV/AIDS - deaths**<br>
-NA<br>
-
 **Obesity - adult prevalence rate**<br>
 51.6% (2016)<br>
 
@@ -516,7 +510,7 @@ _subscriptions per 100 inhabitants_: 70.36 (2019)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: internal communications needs met; small global scale of over 11,000 people on 9 inhabited islands; mobile subscriber penetration about 40% and broadband&nbsp;about 10% penetration; govt. owned and sole provider of telecommunications services;&nbsp;2G widespread; the launch in 2019 of the Kacific-1 satellite will improve the telecommunication sector&nbsp;for the Asia Pacific region (2020)<br>
-_domestic_: radiotelephone communications between islands; fixed-line teledensity over 17 per 100 and mobile-cellular over 70 per 100 (2019)<br>
+_domestic_: radiotelephone communications between islands; fixed-line teledensity over 17 per 100 and mobile-cellular over 76 per 100 (2020)<br>
 _international_: country code - 688; international calls can be made by satellite<br>
 <strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress toward 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>
 

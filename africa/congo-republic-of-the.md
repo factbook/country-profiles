@@ -85,7 +85,6 @@ about 70% of the population lives in Brazzaville, Pointe-Noire, or along the rai
 
 **Population**<br>
 5,546,307 (2022 est.)<br>
-<strong>note:</strong> estimates for this country explicitly taken into account the impact of the HIV/AIDS epidemic<br>
 
 **Nationality**<br>
 _noun_: Congolese (singular and plural)<br>
@@ -200,12 +199,6 @@ _unimproved: total_: total: 45.3% of population (2020 est.)<br>
 
 **HIV/AIDS - adult prevalence rate**<br>
 3.3% (2020 est.)<br>
-
-**HIV/AIDS - people living with HIV/AIDS**<br>
-110,000 (2020 est.)<br>
-
-**HIV/AIDS - deaths**<br>
-6,100 (2020 est.)<br>
 
 **Major infectious diseases**<br>
 _degree of risk_: very high (2020)<br>
@@ -385,7 +378,7 @@ _judge selection and term of office_: Supreme Court judges elected by Parliament
 _subordinate courts_: Court of Audit and Budgetary Discipline; courts of appeal; regional and district courts; employment tribunals; juvenile courts<br>
 
 **Political parties and leaders**<br>
-Alliance of the Presidential Majority or AMP<br>Action Movement for Renewal or MAR [Roland BOUITI-VIAUDO]<br>Citizen's Rally or RC [Claude Alphonse NSILOU]<br>Congolese Labour Party or PCT [Denis SASSOU-NGUESSO]<br>Congolese Movement for Democracy and Integral Development or MCDDI [VACANT]<br>Movement for Unity, Solidarity, and Work or MUST [Claudine MUNARI]<br>Pan-African Union for Social Development or UPADS [Pascal Tsaty MABIALA]<br>Party for the Unity and the Republic or PUR [Wilfrid NGUESSO]<br>Patriotic Union for Democracy and Progress or UPDP [Auguste-Celestin GONGARD NKOUA]<br>Perspectives and Realities Club or CPR<br>Rally for Democracy and Social Progress or RDPS [Jean-Pierre Thystère TCHICAYA]<br>Republican and Liberal Party or PRL [Bonaventure MIZIDY]<br>Union of Democratic Forces or UDF [Josué Rodrigue NGOUONIMBA]<br>Union for Democracy and Republic or UDR [Guy Kinfoussia ROMAIN]<br>Union for the Republic or UR [Michel Bidimbou POUELA]<br>
+Alliance of the Presidential Majority or AMP<br>Action Movement for Renewal or MAR [Roland BOUITI-VIAUDO]<br>Citizen's Rally or RC [Claude Alphonse NSILOU]<br>Congolese Labour Party or PCT [Denis SASSOU-Nguesso]<br>Congolese Movement for Democracy and Integral Development or MCDDI [VACANT]<br>Movement for Unity, Solidarity, and Work or MUST [Claudine MUNARI]<br>Pan-African Union for Social Development or UPADS [Pascal Tsaty MABIALA]<br>Party for the Unity and the Republic or PUR [Wilfrid NGUESSO]<br>Patriotic Union for Democracy and Progress or UPDP [Auguste-Celestin GONGARD NKOUA]<br>Perspectives and Realities Club or CPR [Aimé Hydevert MOUAGNI]<br>Rally for Democracy and Social Progress or RDPS [Jean-Pierre Thystère TCHICAYA]<br>Republican and Liberal Party or PRL [Bonaventure MIZIDY]<br>Union of Democratic Forces or UDF [Josué Rodrigue NGOUONIMBA]<br>Union for Democracy and Republic or UDR [Guy Kinfoussia ROMAIN]<br>Union for the Republic or UR [Michel Bidimbou POUELA]<br>
 
 **International organization participation**<br>
 ACP, AfDB, AU, BDEAC, CEMAC, EITI (compliant country), FAO, FZ, G-77, IAEA, IBRD, ICAO, ICCt, ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ISO (correspondent), ITSO, ITU, ITUC (NGOs), LCBC (observer), MIGA, NAM, OIF, OPCW, UN, UNCTAD, UNESCO, UNHCR, UNIDO, UNITAR, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
@@ -399,7 +392,7 @@ _email address and website_: <br>info@ambacongo-us.org<br><br>http://www.ambacon
 _consulate(s)_: New Orleans<br>
 
 **Diplomatic representation from the US**<br>
-_chief of mission_: Ambassador Eugene S. YOUNG (since 2022)<br>
+_chief of mission_: Ambassador Eugene S. YOUNG (since 30 March 2022)<br>
 _embassy_: 70-83 Section D, Boulevard Denis Sassou N'Guesso, Brazzaville<br>
 _mailing address_: 2090 Brazzaville Place, Washington DC 20521-2090<br>
 _telephone_: [242] 06 612-2000, [242] 05 387-9700<br>
@@ -455,6 +448,7 @@ $8.718 billion (2017 est.)<br>
 _Fitch rating_: CCC (2019)<br>
 _Moody's rating_: Caa2 (2018)<br>
 _Standard & Poors rating_: CCC+ (2020)<br>
+<strong>note: </strong>The year refers to the year in which the current credit rating was first obtained.<br>
 
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 9.3% (2017 est.)<br>
@@ -523,6 +517,7 @@ calendar year<br>
 **Exports**<br>
 $4.193 billion (2017 est.)<br>
 $4.116 billion (2016 est.)<br>
+<strong>note:</strong> Data are in current year dollars and do not include illicit exports or re-exports.<br>
 
 **Exports - partners**<br>
 China 49%, United Arab Emirates 15%, India 6%, Italy 5% (2019)<br>
@@ -630,8 +625,8 @@ _total subscriptions_: 4.89 million (2020 est.)<br>
 _subscriptions per 100 inhabitants_: 89 (2020 est.)<br>
 
 **Telecommunication systems**<br>
-_general assessment_: suffering from economic challenges of stimulating recovery and reducing poverty; primary network consists of microwave radio relay and coaxial cable with services barely adequate for government use; key exchanges are in Brazzaville, Pointe-Noire, and Loubomo; intercity lines frequently out of order; youth are seeking the Internet more than their parents and often gain access through cyber cafes; only the most affluent have Internet access in their homes; operator has plans to upgrade national broadband through fiber link to WACS landing station at Pointe-Noire with connections to Angola and DRC; fiber network project with aims to connect north and south regions; DRC operator added fiber link between Brazzaville and Kinshasa (2020)<br>
-_domestic_: fixed-line infrastructure inadequate, providing less than 1 fixed-line connection per 100 persons; mobile-cellular subscribership has surged to nearly 99 per 100 persons (2019)<br>
+_general assessment_: suffering from economic challenges of stimulating recovery and reducing poverty; primary network consists of microwave radio relay and coaxial cable with services barely adequate for government use; key exchanges are in Brazzaville, Pointe-Noire, and Loubomo; intercity lines frequently out of order; youth are seeking the Internet more than their parents and often gain access through cyber cafes; only the most affluent have Internet access in their homes; operator has plans to upgrade national broadband through fiber link to West Africa Cable System (WACS) landing station at Pointe-Noire with connections to Angola and DRC; fiber network project with aims to connect north and south regions; DRC operator added fiber link between Brazzaville and Kinshasa (2020)<br>
+_domestic_: fixed-line infrastructure inadequate, providing less than 1 fixed-line connection per 100 persons; mobile-cellular 89 per 100 persons (2020)<br>
 _international_: country code - 242; WACS submarine cables to Europe and Western and South Africa; satellite earth station - 1 Intelsat (Atlantic Ocean) (2019)<br>
 <strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress toward 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>
 

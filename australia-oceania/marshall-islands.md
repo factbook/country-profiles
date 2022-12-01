@@ -185,12 +185,6 @@ _unimproved: total_: total: 10.3% of population (2020 est.)<br>
 **HIV/AIDS - adult prevalence rate**<br>
 NA<br>
 
-**HIV/AIDS - people living with HIV/AIDS**<br>
-NA<br>
-
-**HIV/AIDS - deaths**<br>
-NA<br>
-
 **Major infectious diseases**<br>
 _degree of risk_: high (2020)<br>
 _food or waterborne diseases_: bacterial diarrhea<br>
@@ -523,8 +517,8 @@ _total subscriptions_: 16,000 (2020 est.)<br>
 _subscriptions per 100 inhabitants_: 27 (2020 est.)<br>
 
 **Telecommunication systems**<br>
-_general assessment_: some telecom infrastructure improvements made in recent years; modern services include fiber optic cable service, cellular, Internet, international calling, caller ID, and leased data circuits;&nbsp;the US Government, World Bank, UN and International Telecommunication Union (ITU), have aided in&nbsp;improvements and monetary aid to the islands telecom; mobile penetrations is around 30%; radio communication is&nbsp;especially&nbsp;vital to remote islands (2018)<br>
-_domestic_: Majuro Atoll and Ebeye and Kwajalein islands have regular, seven-digit, direct-dial telephones; other islands interconnected by high frequency radiotelephone (used mostly for government purposes) and mini-satellite telephones; fixed-line roughly 4 per 100 persons and mobile-cellular is nearly 28 per 100 persons (2019)<br>
+_general assessment_: the National Telecommunications Act, through Bill No. 66, ushered in a new era in telecommunications in the Marshall Islands; this will enable an open, competitive market for telecommunications that is regulated by a Telecommunications Commissioner; telecom officials announced that they would be able to offer satellite internet services beginning in mid-2023; the World Bank has been promoting telecommunications reform here for a decade and has a multi-million-dollar telecommunications reform grant program in progress (2022)<br>
+_domestic_: Majuro Atoll and Ebeye and Kwajalein islands have regular, seven-digit, direct-dial telephones; other islands interconnected by high frequency radiotelephone (used mostly for government purposes) and mini-satellite telephones; fixed-line roughly 4 per 100 persons and mobile-cellular is nearly 27 per 100 persons (2020)<br>
 _international_: country code - 692; satellite earth stations - 2 Intelsat (Pacific Ocean); US Government satellite communications system on Kwajalein<br>
 <strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress toward 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>
 
@@ -593,8 +587,4 @@ defense is the responsibility of the US<br><br>the Marshall Islands have a "ship
 
 **Disputes - international**<br>
 <p><em>Marshall Islands-US</em>: claims US territory of Wake Island; the Marshall Islands put its claim on record with the UN in 2016</p> <p> </p><br>
-
-**Trafficking in persons**<br>
-_current situation_: The Marshall Islands are a destination country for women from East Asia subjected to sex trafficking; foreign women are reportedly forced into prostitution in bars frequented by crew members of fishing vessels; some Chinese women are recruited to the Marshall Islands with promises of legitimate work and are subsequently forced into prostitution; wealthy or powerful families use traditional cultural practices to exploit impoverished Marshallese from outer islands as indentured laborers on their property; Marshallese children are transported to the United States and subjected to sexual abuse<br>
-_tier rating_: Tier 2 Watch List &mdash; the Marshall Islands does not fully comply with the minimum standards for the elimination of trafficking but is making significant efforts to do so; efforts include its first trafficking prosecution since 2011 and opening an investigation into an immigration official for alleged trafficking complicity; however, no efforts were made to identify trafficking victims and no assistance was provided to victims; the government has not convicted any traffickers since 2011 (2020)<br>
 

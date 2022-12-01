@@ -193,12 +193,6 @@ _unimproved: total_: total: 0.4% of population (2020 est.)<br>
 **HIV/AIDS - adult prevalence rate**<br>
 NA<br>
 
-**HIV/AIDS - people living with HIV/AIDS**<br>
-NA<br>
-
-**HIV/AIDS - deaths**<br>
-NA<br>
-
 **Major infectious diseases**<br>
 <p><strong>note: </strong>on 21 March 2022, the US Centers for Disease Control and Prevention (CDC) issued a Travel Alert for polio in Asia; the West Bank is currently considered a high risk to travelers for polio; the CDC recommends that before any international travel, anyone unvaccinated, incompletely vaccinated, or with an unknown polio vaccination status should complete the routine polio vaccine series; before travel to any high-risk destination, the CDC recommends that adults who previously completed the full, routine polio vaccine series receive a single, lifetime booster dose of polio vaccine</p><br>
 

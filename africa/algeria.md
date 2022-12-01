@@ -167,7 +167,7 @@ _female_: 79.57 years (2022 est.)<br>
 2.51 children born/woman (2022 est.)<br>
 
 **Contraceptive prevalence rate**<br>
-57.1% (2012/13)<br>
+53.6% (2018/19)<br>
 
 **Drinking water source**<br>
 _improved: urban_: urban: 99.6% of population<br>
@@ -196,12 +196,6 @@ _unimproved: total_: total: 3.5% of population (2020 est.)<br>
 
 **HIV/AIDS - adult prevalence rate**<br>
 (2020 est.) <0.1%<br>
-
-**HIV/AIDS - people living with HIV/AIDS**<br>
-18,000 (2020 est.)<br>
-
-**HIV/AIDS - deaths**<br>
-(2020 est.) <200<br>
 
 **Obesity - adult prevalence rate**<br>
 27.4% (2016)<br>
@@ -504,8 +498,9 @@ calendar year<br>
 -$26.47 billion (2016 est.)<br>
 
 **Exports**<br>
-$38.32 billion (2019 est.) note: data are in current year dollars<br>
-$44.39 billion (2018 est.) note: data are in current year dollars<br>
+$38.32 billion (2019 est.)<br>
+$44.39 billion (2018 est.)<br>
+<strong>note:</strong> Data are in current year dollars and do not include illicit exports or re-exports.<br>
 
 **Exports - partners**<br>
 Italy 13%, France 13%, Spain 12%, United States 7%, United Kingdom 7%, India 5%, South Korea 5% (2019)<br>

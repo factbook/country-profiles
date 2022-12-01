@@ -174,8 +174,7 @@ _female_: 81.59 years (2022 est.)<br>
 2.18 children born/woman (2022 est.)<br>
 
 **Contraceptive prevalence rate**<br>
-81.3% (2013)<br>
-<strong>note:</strong>  percent of women aged 14-49<br>
+70.1% (2019/20)<br>
 
 **Drinking water source**<br>
 _improved: urban_: urban: 99.8% of population<br>
@@ -203,12 +202,6 @@ _unimproved: total_: total: (2020 est.) NA<br>
 
 **HIV/AIDS - adult prevalence rate**<br>
 0.4% (2020 est.)<br>
-
-**HIV/AIDS - people living with HIV/AIDS**<br>
-140,000 (2020 est.)<br>
-
-**HIV/AIDS - deaths**<br>
-1,400 (2020 est.)<br>
 
 **Major infectious diseases**<br>
 <strong>note:</strong> widespread ongoing transmission of a respiratory illness caused by the novel coronavirus (COVID-19) is occurring throughout Argentina; as of 18 August 2022, Argentina has reported a total of 9,633,732 cases of COVID-19 or 21,315.55 cumulative cases of COVID-19 per 100,000 population with a total of 129,566 cumulative deaths or 286.67 cumulative deaths per 100,000 population; as of 17 August 2022, 91.07% of the population has received at least one dose of COVID-19 vaccine<br>
@@ -449,6 +442,7 @@ $447.467 billion (2019 est.)<br>
 _Fitch rating_: CCC (2020)<br>
 _Moody's rating_: Ca (2020)<br>
 _Standard & Poors rating_: CCC+ (2020)<br>
+<strong>note: </strong>The year refers to the year in which the current credit rating was first obtained.<br>
 
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 10.8% (2017 est.)<br>
@@ -524,9 +518,10 @@ calendar year<br>
 -$27.049 billion (2018 est.)<br>
 
 **Exports**<br>
-$64.18 billion (2020 est.) note: data are in current year dollars<br>
-$79.29 billion (2019 est.) note: data are in current year dollars<br>
-$77.07 billion (2018 est.) note: data are in current year dollars<br>
+$64.18 billion (2020 est.)<br>
+$79.29 billion (2019 est.)<br>
+$77.07 billion (2018 est.)<br>
+<strong>note:</strong> Data are in current year dollars and do not include illicit exports or re-exports.<br>
 
 **Exports - partners**<br>
 Brazil 16%, China 11%, United States 7%, Chile 5% (2019)<br>

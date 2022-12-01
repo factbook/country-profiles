@@ -200,12 +200,6 @@ _unimproved: total_: total: 1.3% of population (2020 est.)<br>
 **HIV/AIDS - adult prevalence rate**<br>
 (2020 est.) <.1%<br>
 
-**HIV/AIDS - people living with HIV/AIDS**<br>
-(2020 est.) <1,000<br>
-
-**HIV/AIDS - deaths**<br>
-(2020 est.) <100<br>
-
 **Major infectious diseases**<br>
 <strong>note:</strong> widespread ongoing transmission of a respiratory illness caused by the novel coronavirus (COVID-19) is occurring throughout Jordan; as of 18 August 2022, Jordan has reported a total of 1,726,717 cases of COVID-19 or 16,923.39 cumulative cases of COVID-19 per 100,000 population with a total of 14,095 cumulative deaths or a rate of 138.14 cumulative deaths per 100,000 population; as of 7 August 2022, 43.21% of the population has received at least one dose of COVID-19 vaccine<br>
 
@@ -445,6 +439,7 @@ $44.568 billion (2019 est.)<br>
 _Fitch rating_: BB- (2019)<br>
 _Moody's rating_: B1 (2013)<br>
 _Standard & Poors rating_: B+ (2017)<br>
+<strong>note: </strong>The year refers to the year in which the current credit rating was first obtained.<br>
 
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 4.5% (2017 est.)<br>
@@ -628,7 +623,7 @@ _subscriptions per 100 inhabitants_: 68 (2020 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: Jordan&rsquo;s government has focused on the use of ICT in a range of sectors, aimed at transforming the relatively small economy through the use of digital services; this policy has helped the country rise in the league tables for digital connectivity and internet readiness, and it has also attracted investment from foreign companies; during the ongoing global pandemic, the start-up sector has been further encouraged to develop solutions to combat the crisis, while other efforts have facilitated e-government services and encouraged businesses to adapt to new methods of working through their own digital transformation; these developments have been supported by the highly developed mobile sector, led by three major regional players which have near-comprehensive LTE network coverage (2022)<br>
-_domestic_: 1995 a telecommunications law opened all non-fixed-line services to private competition; in 2005, the monopoly over fixed-line services terminated and the entire telecommunications sector was opened to competition; currently fixed-line stands at nearly 4 per 100 persons and multiple mobile-cellular providers with subscribership over 68 per 100 persons (2020)<br>
+_domestic_: a 1995 telecommunications law opened all non-fixed-line services to private competition; in 2005, the monopoly over fixed-line services terminated and the entire telecommunications sector was opened to competition; currently fixed-line stands at nearly 4 per 100 persons and multiple mobile-cellular providers with subscribership over 68 per 100 persons (2020)<br>
 _international_: country code - 962; landing point for the&nbsp;FEA and&nbsp;Taba-Aqaba submarine cable networks providing connectivity to Europe, the Middle East, Southeast Asia and Asia; satellite earth stations - 33 (3 Intelsat, 1 Arabsat, and 29 land and maritime Inmarsat terminals (2019)<br>
 <strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress toward 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>
 
@@ -735,10 +730,6 @@ Islamic State of Iraq and ash-Sham (ISIS)<br>
 **Refugees and internally displaced persons**<br>
 _refugees (country of origin)_: 2,307,011 (Palestinian refugees) (2020); 66,665 (Iraq), 12,866 (Yemen), 6,013 Sudan (2021); 676,621 (Syria) (2022)<br>
 _stateless persons_: 63 (mid-year 2021)<br>
-
-**Trafficking in persons**<br>
-_current situation_: <p>human traffickers exploit domestic and foreign victims in Jordan and Jordanians abroad; victims are primarily from South and Southeast Asia, East Africa, Egypt, and Syria; foreign migrants, many undocumented, working in construction, agriculture, textiles, and domestic work are the most vulnerable to trafficking because of informal work agreements and frequently changing employers; forced labor victims experience withheld or unpaid wages, confiscation of identity documents, restricted freedom of movement, unsafe living conditions, long hours without rest, isolation, and verbal and physical abuse; child labor and potential forced child labor increased; traffickers exploit Lebanese, North African, and Eastern European women who have migrated to Jordan to work in restaurants and nightclubs are subject to sex trafficking</p><br>
-_tier rating_: Tier 2 Watch List —<strong> </strong>Jordan does not fully meet the minimum standards for the elimination of trafficking but is making significant efforts to do so; the government increased the training of law enforcement personnel and victim advocates, maintained a trafficking shelter offering a wide range of services, partnered with civil society actors to proactively identify and protect trafficking victims, and conducted anti-trafficking awareness campaigns; the government did not demonstrate overall increasing efforts as fewer traffickers were investigated, prosecuted, and convicted; fewer victims were identified and assisted, and victims were still arrested, detained, and deported for unlawful acts traffickers compelled them to commit; under Jordan’s anti-trafficking law, penalties for sex trafficking offenses were not commensurate with penalties for other serious crimes (2020)<br>
 
 **Illicit drugs**<br>
 primarily a transshipment country for amphetamine tablets originating in Lebanon and Syria and destined for Saudi Arabia, Israel, and Gulf countries; the government is increasingly concerned about domestic consumption of illicit drugs<br>

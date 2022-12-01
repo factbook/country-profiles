@@ -198,12 +198,6 @@ _unimproved: total_: total: 82.7% of population (2020 est.)<br>
 **HIV/AIDS - adult prevalence rate**<br>
 1.1% (2020 est.)<br>
 
-**HIV/AIDS - people living with HIV/AIDS**<br>
-110,000 (2020 est.)<br>
-
-**HIV/AIDS - deaths**<br>
-3,000 (2020 est.)<br>
-
 **Major infectious diseases**<br>
 _degree of risk_: very high (2020)<br>
 _food or waterborne diseases_: bacterial and protozoal diarrhea, hepatitis A and E, and typhoid fever<br>
@@ -526,6 +520,7 @@ calendar year<br>
 **Exports**<br>
 $2.464 billion (2017 est.)<br>
 $2.187 billion (2016 est.)<br>
+<strong>note:</strong> Data are in current year dollars and do not include illicit exports or re-exports.<br>
 
 **Exports - partners**<br>
 China 32%, United Arab Emirates 21%, India 19%, United States 10%, France 6%, Germany 5% (2019)<br>
@@ -712,7 +707,7 @@ the ANT is mostly armed with older or second-hand equipment from Belgium, France
 <strong>note 1:</strong> Chad has committed approximately 1,000-1,500 troops to the Multinational Joint Task Force (MNJTF) against Boko Haram and other terrorist groups operating in the general area of the Lake Chad Basin and along Nigeria's northeast border; national MNJTF troop contingents are deployed within their own territories, although cross‐border operations are conducted periodically; in 2019, Chad sent more than 1,000 troops to Nigeria’s Borno State to fight Boko Haram as part of the MNJTF mission<br><br><strong>note 2: </strong>Chad is also part of a four (formerly five)-nation anti-jihadist task force known as the G4 Sahel Group, set up in 2014 with Chad, Mali (withdrew in 2022), Mauritania, and Niger; it has committed 550 troops and 100 gendarmes to the force; as of 2020, defense forces from each of the participating states were allowed to pursue terrorist fighters up to 100 km into neighboring countries; the force is backed by France, the UN, and the US<br>
 
 **Military - note**<br>
-as of 2022, the ANT was chiefly focused on counterterrorism and counterinsurgency operations; it was engaged with the Boko Haram (BH) and the Islamic State in West Africa (ISWA) terrorist groups in the Lake Chad Basin area (primarily the Lac Province) and in the Sahel, particularly the tri-border area with Burkina Faso, Mali, and Niger; in addition, the ANT was conducting operations against internal anti-government militias and armed dissident groups; several Chadian rebel groups, including the Union of Resistance Forces (UFR) and the Front for Change and Concord in Chad (FACT), operate in northern Chad from bases in Libya; former Chadian President Idriss DEBY<strong> </strong>was killed in April 2021 during fighting in the northern part of the country between FACT and the Chadian Army (2022)<br>
+as of 2022, the ANT was chiefly focused on counterterrorism and counterinsurgency operations; it was engaged with the Boko Haram (BH) and the Islamic State in West Africa (ISWA) terrorist groups in the Lake Chad Basin area (primarily the Lac Province) and in the Sahel, particularly the tri-border area with Burkina Faso, Mali, and Niger; in addition, the ANT was conducting operations against internal anti-government militias and armed dissident groups<br><br>several rebel groups operate in northern Chad from bases in southern Libya, including the FACT (Front pour le Changement et la Concorde au Tchad), the Military Command Council for the Salvation of the Republic le Conseil de Commandement Militaire pour le salut de la République or CCSMR), the Union of Forces for Democracy and Development (le Union des Forces pour la Démocratie et le Développement or UFDD), and the Union of Resistance Forces (le Union des Forces de la Résistance UFR); former Chadian President Idriss DEBY<strong> </strong>was killed in April 2021 during fighting in the northern part of the country between the FACT and the Chadian Army; some armed groups, including the UFDD and UFR, signed an accord in August 2022 in return for the release of prisoners, amnesty, and an end to hostilities between the Chadian Government and these armed factions; however, other armed groups, including the FACT and CCSMR, refused to join the accord (2022)<br>
 
 ## Terrorism
 
@@ -726,7 +721,7 @@ Boko Haram; Islamic State of Iraq and ash-Sham - West Africa (ISIS-WA)<br>
 <p>since 2003, ad hoc armed militia groups and the Sudanese military have driven hundreds of thousands of Darfur residents into Chad; Chad wishes to be a helpful mediator in resolving the Darfur conflict, and in 2010 established a joint border monitoring force with Sudan, which has helped to reduce cross-border banditry and violence; only Nigeria and Cameroon have heeded the Lake Chad Commission's admonition to ratify the delimitation treaty, which also includes the Chad-Niger and Niger-Nigeria boundaries</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 393,590 (Sudan), 124,491 (Central African Republic), 35,137 (Cameroon), 20,257 (Nigeria) (2022)<br>
+_refugees (country of origin)_: 394,666 (Sudan), 124,491 (Central African Republic), 35,907 (Cameroon), 20,257 (Nigeria) (2022)<br>
 _IDPs_: 381,289 (majority are in the east) (2022)<br>
 
 **Trafficking in persons**<br>

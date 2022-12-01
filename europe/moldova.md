@@ -93,7 +93,7 @@ Moldovan/Romanian 80.2% (official) (56.7% identify their mother tongue as Moldov
 _major-language sample(s)_: <br>Cartea informativa a lumii, sursa indispensabila pentru informatii de baza. (Moldovan/Romanian)<br><br>The World Factbook, the indispensable source for basic information.<br>
 
 **Religions**<br>
-Orthodox 90.1%, other Christian 2.6%, other 0.1%, agnostic <.1%, atheist 0.2%, unspecified 6.9% (2014 est.)<br>
+Orthodox 90.1%, other Christian 2.6%, other 0.1%, agnostic &lt;0.1%, atheist 0.2%, unspecified 6.9% (2014 est.)<br>
 
 **Age structure**<br>
 _0-14 years_: 18.31% (male 317,243/female 298,673)<br>
@@ -193,12 +193,6 @@ _unimproved: total_: total: 10.1% of population (2020 est.)<br>
 
 **HIV/AIDS - adult prevalence rate**<br>
 0.8% (2020 est.)<br>
-
-**HIV/AIDS - people living with HIV/AIDS**<br>
-14,000 (2020 est.)<br>
-
-**HIV/AIDS - deaths**<br>
-(2020 est.) <500<br>
 
 **Obesity - adult prevalence rate**<br>
 18.9% (2016)<br>
@@ -426,6 +420,7 @@ $11.982 billion (2019 est.)<br>
 
 **Credit ratings**<br>
 _Moody's rating_: B3 (2010)<br>
+<strong>note: </strong>The year refers to the year in which the current credit rating was first obtained.<br>
 
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 17.7% (2017 est.)<br>
@@ -705,7 +700,7 @@ Moldova is constitutionally neutral, but has maintained a relationship with NATO
 <p><em>Moldova-Romania</em>: none identified</p> <p><em>Moldova-Ukraine</em>: Ukraine and Moldova signed an agreement officially delimiting their border in 1999, but the border has not been demarcated due to Moldova's difficulties with the break-away region of Transnistria; Moldova and Ukraine operate joint customs posts to monitor the transit of people and commodities through Moldova's break-away Transnistria region, which remains under the auspices of an Organization for Security and Cooperation in Europe-mandated peacekeeping mission comprised of Moldovan, Transnistrian, Russian, and Ukrainian troops</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 95,928 (Ukraine) (as of 8 November 2022)<br>
+_refugees (country of origin)_: 96,646 (Ukraine) (as of 22 November 2022)<br>
 _stateless persons_: 3,372 (mid-year 2021)<br>
 
 **Illicit drugs**<br>

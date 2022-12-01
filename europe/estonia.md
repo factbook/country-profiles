@@ -189,14 +189,6 @@ _unimproved: total_: total: 0.2% of population (2020 est.)<br>
 **HIV/AIDS - adult prevalence rate**<br>
 0.8% (2020 est.)<br>
 
-**HIV/AIDS - people living with HIV/AIDS**<br>
-7,100 (2020 est.)<br>
-<strong>note: </strong>estimate does not include children<br>
-
-**HIV/AIDS - deaths**<br>
-(2020 est.) &lt;100<br>
-<strong>note: </strong>estimate does not include children<br>
-
 **Major infectious diseases**<br>
 _degree of risk_: intermediate (2020)<br>
 _vectorborne diseases_: tickborne encephalitis<br>
@@ -426,6 +418,7 @@ $31.461 billion (2019 est.)<br>
 _Fitch rating_: AA- (2018)<br>
 _Moody's rating_: A1 (2002)<br>
 _Standard & Poors rating_: AA- (2011)<br>
+<strong>note: </strong>The year refers to the year in which the current credit rating was first obtained.<br>
 
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 2.8% (2017 est.)<br>
@@ -711,7 +704,7 @@ Estonia became a member of NATO in 2004<br><br>since 2017, Estonia has hosted a 
 <p>Russia and Estonia in May 2005 signed a technical border agreement, but Russia in June 2005 recalled its signature after the Estonian parliament added to its domestic ratification act a historical preamble referencing the Soviet occupation and Estonia's pre-war borders under the 1920 Treaty of Tartu; Russia contends that the preamble allows Estonia to make territorial claims on Russia in the future, while Estonian officials deny that the preamble has any legal impact on the treaty text; Russia demands better treatment of the Russian-speaking population in Estonia; as a member state that forms part of the EU's external border, Estonia implements strict Schengen border rules with Russia</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 62,023 (Ukraine) (as of 8 November 2022)<br>
+_refugees (country of origin)_: 62,239 (Ukraine) (as of 15 November 2022)<br>
 _stateless persons_: 71,873 (mid-year 2021); note - following independence in 1991, automatic citizenship was restricted to those who were Estonian citizens prior to the 1940 Soviet occupation and their descendants; thousands of ethnic Russians remained stateless when forced to choose between passing Estonian language and citizenship tests or applying for Russian citizenship; one reason for demurring on Estonian citizenship was to retain the right of visa-free travel to Russia; stateless residents can vote in local elections but not general elections; stateless parents who have been lawful residents of Estonia for at least five years can apply for citizenship for their children before they turn 15 years old<br>
 
 **Illicit drugs**<br>

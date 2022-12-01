@@ -200,12 +200,6 @@ _unimproved: total_: total: 25.9% of population (2020 est.)<br>
 **HIV/AIDS - adult prevalence rate**<br>
 0.3% (2020 est.)<br>
 
-**HIV/AIDS - people living with HIV/AIDS**<br>
-39,000 (2020 est.)<br>
-
-**HIV/AIDS - deaths**<br>
-1,100 (2020 est.)<br>
-
 **Major infectious diseases**<br>
 _degree of risk_: very high (2020)<br>
 _food or waterborne diseases_: bacterial and protozoal diarrhea, hepatitis A, and typhoid fever<br>
@@ -458,6 +452,7 @@ $23.576 billion (2019 est.)<br>
 **Credit ratings**<br>
 _Moody's rating_: Ba3 (2017)<br>
 _Standard & Poors rating_: B+ (2000)<br>
+<strong>note: </strong>The year refers to the year in which the current credit rating was first obtained.<br>
 
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 16.9% (2017 est.)<br>
@@ -745,7 +740,7 @@ Jama&rsquo;at Nusrat al-Islam wal-Muslimin (JNIM)<br>
 <p><em>Senegal-Guinea-Bissau</em>: rebels from the Movement of Democratic Forces in the Casamance find refuge in Guinea-Bissau</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 11,489 (Mauritania) (2022)<br>
+_refugees (country of origin)_: 11,490 (Mauritania) (2022)<br>
 _IDPs_: 8,400 (2021)<br>
 
 **Trafficking in persons**<br>

@@ -84,7 +84,6 @@ sometimes referred to as the hinge of Africa because of its central location on 
 
 **Population**<br>
 29,321,637 (2022 est.)<br>
-<strong>note:</strong> estimates for this country explicitly taken into account the impact of the HIV/AIDS epidemic<br>
 
 **Nationality**<br>
 _noun_: Cameroonian(s)<br>
@@ -202,12 +201,6 @@ _unimproved: total_: total: 40.3% of population (2020 est.)<br>
 
 **HIV/AIDS - adult prevalence rate**<br>
 3% (2020 est.)<br>
-
-**HIV/AIDS - people living with HIV/AIDS**<br>
-500,000 (2020 est.)<br>
-
-**HIV/AIDS - deaths**<br>
-14,000 (2020 est.)<br>
 
 **Major infectious diseases**<br>
 _degree of risk_: very high (2020)<br>
@@ -394,7 +387,7 @@ _judge selection and term of office_: Supreme Court judges appointed by the pres
 _subordinate courts_: Parliamentary Court of Justice (jurisdiction limited to cases involving the president and prime minister); appellate and first instance courts; circuit and magistrates' courts<br>
 
 **Political parties and leaders**<br>
-Alliance for Democracy and Development<br>Cameroon People's Democratic Movement or CPDM [Paul BIYA]<br>Cameroon People's Party or CPP [Edith Kah WALLA]<br>Cameroon Renaissance Movement or MRC [Maurice KAMTO]<br>Cameroonian Democratic Union or UDC [Adamou Ndam NJOYA]<br>Cameroonian Party for National Reconciliation or PCRN [Cabral LIBII]<br>Front for the National Salvation of Cameroon or FSNC [Issa Tchiroma BAKARY]<br>Movement for the Defense of the Republic or MDR [Dakole DAISSALA]<br>Movement for the Liberation and Development of Cameroon or MLDC [Marcel YONDO]<br>National Union for Democracy and Progress or UNDP [Maigari BELLO BOUBA]<br>Progressive Movement or MP [Jean-Jacques EKINDI]<br>Social Democratic Front or SDF [John FRU NDI]<br>Union of Peoples of Cameroon or UPC [Provisionary Management Bureau]<br>Union of Socialist Movements<br>
+Alliance for Democracy and Development [Marcel YONDO]<br>Cameroon People's Democratic Movement or CPDM [Paul BIYA]<br>Cameroon People's Party or CPP [Edith Kah WALLA]<br>Cameroon Renaissance Movement or MRC [Maurice KAMTO]<br>Cameroonian Democratic Union or UDC [Adamou Ndam NJOYA]<br>Cameroonian Party for National Reconciliation or PCRN [Cabral LIBII]<br>Front for the National Salvation of Cameroon or FSNC [Issa Tchiroma BAKARY]<br>Movement for the Defense of the Republic or MDR [Dakole DAISSALA]<br>Movement for the Liberation and Development of Cameroon or MLDC [Marcel YONDO]<br>National Union for Democracy and Progress or UNDP [Maigari BELLO BOUBA]<br>Progressive Movement or MP [Jean-Jacques EKINDI]<br>Social Democratic Front or SDF [John FRU NDI]<br>Union of Peoples of Cameroon or UPC [Provisionary Management Bureau] [Cecil ODHIAMBO] <br>Union of Socialist Movements<br>
 
 **International organization participation**<br>
 ACP, AfDB, AU, BDEAC, C, CEMAC, EITI (compliant country), FAO, FZ, G-77, IAEA, IBRD, ICAO, ICRM, IDA, IDB, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), LCBC, MIGA, MNJTF, MONUSCO, NAM, OIC, OIF, OPCW, PCA, UN, UNCTAD, UNESCO, UNHCR, UNHRC, UNIDO, UNOCI, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
@@ -465,6 +458,7 @@ $34.99 billion (2017 est.)<br>
 _Fitch rating_: B (2006)<br>
 _Moody's rating_: B2 (2016)<br>
 _Standard & Poors rating_: B- (2020)<br>
+<strong>note: </strong>The year refers to the year in which the current credit rating was first obtained.<br>
 
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 16.7% (2017 est.)<br>
@@ -537,8 +531,9 @@ _expenditures_: 6.556 billion (2017 est.)<br>
 -$1.034 billion (2016 est.)<br>
 
 **Exports**<br>
-$7.73 billion (2019 est.) note: data are in current year dollars<br>
-$7.3 billion (2018 est.) note: data are in current year dollars<br>
+$7.73 billion (2019 est.)<br>
+$7.3 billion (2018 est.)<br>
+<strong>note:</strong> Data are in current year dollars and do not include illicit exports or re-exports.<br>
 
 **Exports - partners**<br>
 China 17%, Netherlands 14%, Italy 9%, United Arab Emirates 8%, India 7%, United States 6%, Belgium 6%, Spain 5%, France 5% (2019)<br>

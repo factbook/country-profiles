@@ -80,7 +80,6 @@ has only a short Pacific coast but a long Caribbean shoreline, including the vir
 
 **Population**<br>
 9,459,440 (2022 est.)<br>
-<strong>note:</strong> estimates for this country explicitly taken into account the impact of the HIV/AIDS epidemic<br>
 
 **Nationality**<br>
 _noun_: Honduran(s)<br>
@@ -169,7 +168,7 @@ _female_: 78.82 years (2022 est.)<br>
 2.01 children born/woman (2022 est.)<br>
 
 **Contraceptive prevalence rate**<br>
-73.2% (2011/12)<br>
+69.4% (2019)<br>
 
 **Drinking water source**<br>
 _improved: urban_: urban: 100% of population<br>
@@ -198,12 +197,6 @@ _unimproved: total_: total: 7% of population (2020 est.)<br>
 
 **HIV/AIDS - adult prevalence rate**<br>
 0.2% (2020 est.)<br>
-
-**HIV/AIDS - people living with HIV/AIDS**<br>
-22,000 (2020 est.)<br>
-
-**HIV/AIDS - deaths**<br>
-(2020 est.) <1000<br>
 
 **Major infectious diseases**<br>
 _degree of risk_: high (2020)<br>
@@ -432,6 +425,7 @@ $25.145 billion (2019 est.)<br>
 **Credit ratings**<br>
 _Moody's rating_: B1 (2017)<br>
 _Standard & Poors rating_: BB- (2017)<br>
+<strong>note: </strong>The year refers to the year in which the current credit rating was first obtained.<br>
 
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 14.2% (2017 est.)<br>
@@ -686,7 +680,7 @@ _major seaport(s)_: La Ceiba, Puerto Cortes, San Lorenzo, Tela<br>
 
 **Military and security forces**<br>
 Honduran Armed Forces (Fuerzas Armadas de Honduras, FFAA): Army (Ejercito), Honduran Naval Force (FNH; includes marines), Honduran Air Force (Fuerza Aerea Hondurena, FAH), Honduran Military Police of Public Order (PMOP); Security Secretariat: Public Security Forces (includes Honduran National Police paramilitary units) (2022)<br>
-<strong>note:</strong> the PMOP was created in 2013 to support the Honduran National Police (HNP) against narcotics trafficking and organized crime; since its creation, the PMOP’s role in internal security has expanded; it was used against election protesters in 2017, for example, and it has been accused of human rights violations; as of 2022, the PMOP was composed of 8 battalions of military personnel (approximately 5,000 troops) who had undergone some police training; it reported to military authorities but conducted operations sanctioned by both civilian security officials and military leaders<br>
+<strong>note:</strong> the PMOP was created in 2013 to support the Honduran National Police (HNP) against narcotics trafficking and organized crime; as of 2022, the PMOP had approximately 5,000 troops; it reported to military authorities but conducted operations sanctioned by both civilian security officials and military leaders<br>
 
 **Military expenditures**<br>
 1.6% of GDP (2021 est.)<br>

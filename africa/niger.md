@@ -101,7 +101,7 @@ French (official), Hausa, Djerma<br>
 Muslim 99.3%, Christian 0.3%, animist 0.2%, none 0.1% (2012 est.)<br>
 
 **Demographic profile**<br>
-<p>Niger has the highest total fertility rate (TFR) of any country in the world, averaging close to 7 children per woman in 2016. A slight decline in fertility over the last few decades has stalled. This leveling off of the high fertility rate is in large part a product of the continued desire for large families. In Niger, the TFR is lower than the desired fertility rate, which makes it unlikely that contraceptive use will increase. The high TFR sustains rapid population growth and a large youth population – almost 70% of the populace is under the age of 25. Gender inequality, including a lack of educational opportunities for women and early marriage and childbirth, also contributes to high population growth.</p><p>Because of large family sizes, children are inheriting smaller and smaller parcels of land. The dependence of most Nigeriens on subsistence farming on increasingly small landholdings, coupled with declining rainfall and the resultant shrinkage of arable land, are all preventing food production from keeping up with population growth.</p><p>For more than half a century, Niger's lack of economic development has led to steady net outmigration. In the 1960s, Nigeriens mainly migrated to coastal West African countries to work on a seasonal basis. Some headed to Libya and Algeria in the 1970s to work in the booming oil industry until its decline in the 1980s. Since the 1990s, the principal destinations for Nigerien labor migrants have been West African countries, especially Burkina Faso and Cote d’Ivoire, while emigration to Europe and North America has remained modest. During the same period, Niger’s desert trade route town Agadez became a hub for West African and other Sub-Saharan migrants crossing the Sahara to North Africa and sometimes onward to Europe.</p><p>More than 60,000 Malian refugees have fled to Niger since violence between Malian government troops and armed rebels began in early 2012. Ongoing attacks by the Boko Haram Islamist insurgency, dating to 2013 in northern Nigeria and February 2015 in southeastern Niger, have pushed tens of thousands of Nigerian refugees and Nigerien returnees across the border to Niger and to displace thousands of locals in Niger’s already impoverished Diffa region.</p><br>
+<p>Niger has the highest total fertility rate (TFR) of any country in the world, averaging close to 7 children per woman in 2022. A slight decline in fertility over the last few decades has stalled. This leveling off of the high fertility rate is in large part a product of the continued desire for large families. In Niger, the TFR is lower than the desired fertility rate, which makes it unlikely that contraceptive use will increase. The high TFR sustains rapid population growth and a large youth population – almost 70% of the populace is under the age of 25, as of 2022. Gender inequality, including a lack of educational opportunities for women and early marriage and childbirth, also contributes to high population growth.</p> <p>Because of large family sizes, children are inheriting smaller and smaller parcels of land. The dependence of most Nigeriens on subsistence farming on increasingly small landholdings, coupled with declining rainfall and the resultant shrinkage of arable land, are all preventing food production from keeping up with population growth.</p> <p>For more than half a century, Niger's lack of economic development has led to steady net outmigration. In the 1960s, Nigeriens mainly migrated to coastal West African countries to work on a seasonal basis. Some headed to Libya and Algeria in the 1970s to work in the booming oil industry until its decline in the 1980s. Since the 1990s, the principal destinations for Nigerien labor migrants have been West African countries, especially Burkina Faso and Cote d’Ivoire, while emigration to Europe and North America has remained modest. During the same period, Niger’s desert trade route town Agadez became a hub for West African and other Sub-Saharan migrants crossing the Sahara to North Africa and sometimes onward to Europe.</p> <p>More than 60,000 Malian refugees have fled to Niger since violence between Malian government troops and armed rebels began in early 2012. Ongoing attacks by the Boko Haram Islamist insurgency, dating to 2013 in northern Nigeria and February 2015 in southeastern Niger, pushed tens of thousands of Nigerian refugees and Nigerien returnees across the border to Niger and displaced thousands of locals in Niger’s already impoverished Diffa region.</p><br>
 
 **Age structure**<br>
 _0-14 years_: 50.58% (male 5,805,102/female 5,713,815)<br>
@@ -173,7 +173,7 @@ _female_: 61.68 years (2022 est.)<br>
 6.82 children born/woman (2022 est.)<br>
 
 **Contraceptive prevalence rate**<br>
-11% (2017/18)<br>
+11% (2021)<br>
 
 **Drinking water source**<br>
 _improved: urban_: urban: 95.8% of population<br>
@@ -202,12 +202,6 @@ _unimproved: total_: total: 75.2% of population (2020 est.)<br>
 
 **HIV/AIDS - adult prevalence rate**<br>
 0.2% (2020 est.)<br>
-
-**HIV/AIDS - people living with HIV/AIDS**<br>
-31,000 (2020 est.)<br>
-
-**HIV/AIDS - deaths**<br>
-1,100 (2020 est.)<br>
 
 **Major infectious diseases**<br>
 _degree of risk_: very high (2020)<br>
@@ -461,6 +455,7 @@ $12.926 billion (2019 est.)<br>
 
 **Credit ratings**<br>
 _Moody's rating_: B3 (2019)<br>
+<strong>note: </strong>The year refers to the year in which the current credit rating was first obtained.<br>
 
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 41.6% (2017 est.)<br>
@@ -643,7 +638,7 @@ _subscriptions per 100 inhabitants_: 59 (2020 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: Niger is one of the largest countries in West Africa but also one of the poorest in the world; as with many African markets, a lack of fixed telecoms infrastructure has led to growth in mobile services; Niger&rsquo;s mobile penetration is modest compared to other countries in the region, while fixed broadband penetration is negligible; recent international investment to complete the Trans-Saharan Dorsal optical fibre (SDR) network has extended the reach of fiber infrastructure in the country, and also increased international capacity; new cables linking the country with Chad and Burkina Faso have extended Niger&rsquo;s connectivity with international cable infrastructure (2022)<br>
-_domestic_: fixed-line less than 1 per 100 persons and mobile-cellular teledensity at nearly 41 per 100 persons; a rapidly increasing cellular subscribership base; small system of wire, radio telephone communications, and microwave radio relay links concentrated in southwestern Niger; domestic satellite system with 3 earth stations and 1 planned (2019)<br>
+_domestic_: fixed-line less than 1 per 100 persons and mobile-cellular at nearly 59 per 100 persons (2020)<br>
 _international_: country code - 227; satellite earth stations - 2 Intelsat (1 Atlantic Ocean and 1 Indian Ocean)<br>
 <strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress toward 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>
 
@@ -744,7 +739,7 @@ Boko Haram; Islamic State of Iraq and ash-Sham in the Greater Sahara (ISIS-GS); 
 <p><em>Niger-Benin-Nigeria</em>: location of Niger-Benin-Nigeria tripoint is unresolved</p> <p><em>Niger-Burkina Faso</em>: the dispute with Burkina Faso was referred to the International Court of Justice (ICJ) in 2010; the ICJ ruled in 2013 that 786 sq km should go to Burkina Faso and 277 sq km to Niger; the ruling was implemented in 2015 and 2016, with Burkina Faso gaining 14 towns and Niger 4</p> <p><em>Niger-Cameroon-Nigeria</em>: only Nigeria and Cameroon have heeded the Lake Chad Commission's admonition to ratify the delimitation treaty that also includes the Chad-Niger and Niger-Nigeria boundaries</p> <p><em>Niger-Libya</em>: Libya claims about 25,000 sq km in a currently dormant dispute in the Tummo region</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 187,136 (Nigeria), 65,026 (Mali) (refugees and asylum seekers) (2022)<br>
+_refugees (country of origin)_: 187,136 (Nigeria), 65,621 (Mali) (refugees and asylum seekers) (2022)<br>
 _IDPs_: 376,809 (includes the regions of Diffa, Tillaberi, and Tahoua; unknown how many of the 11,000 people displaced by clashes between government forces and the Tuareg militant group, Niger Movement for Justice, in 2007 are still displaced; inter-communal violence; Boko Haram attacks in southern Niger, 2015) (2022)<br>
 
 **Illicit drugs**<br>

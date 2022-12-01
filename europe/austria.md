@@ -200,12 +200,6 @@ _unimproved: total_: total: 0% of population (2020 est.)<br>
 **HIV/AIDS - adult prevalence rate**<br>
 0.1% (2017 est.)<br>
 
-**HIV/AIDS - people living with HIV/AIDS**<br>
-7,400 (2017 est.)<br>
-
-**HIV/AIDS - deaths**<br>
-(2017 est.) <100<br>
-
 **Obesity - adult prevalence rate**<br>
 20.1% (2016)<br>
 
@@ -435,6 +429,7 @@ $445.025 billion (2019 est.)<br>
 _Fitch rating_: AA+ (2015)<br>
 _Moody's rating_: Aa1 (2016)<br>
 _Standard & Poors rating_: AA+ (2012)<br>
+<strong>note: </strong>The year refers to the year in which the current credit rating was first obtained.<br>
 
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 1.3% (2017 est.)<br>
@@ -509,9 +504,10 @@ $12.667 billion (2019 est.)<br>
 $5.989 billion (2018 est.)<br>
 
 **Exports**<br>
-$226.79 billion (2020 est.) note: data are in current year dollars<br>
-$247.17 billion (2019 est.) note: data are in current year dollars<br>
-$253.3 billion (2018 est.) note: data are in current year dollars<br>
+$226.79 billion (2020 est.)<br>
+$247.17 billion (2019 est.)<br>
+$253.3 billion (2018 est.)<br>
+<strong>note:</strong> Data are in current year dollars and do not include illicit exports or re-exports.<br>
 
 **Exports - partners**<br>
 Germany 28%, United States 7%, Italy 6%, Switzerland 5% (2019)<br>
@@ -732,7 +728,7 @@ Islamic State of Iraq and ash-Sham (ISIS)<br>
 <p>none identified</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 57,887 (Syria), 41,037 (Afghanistan), 9,661 (Iraq), 8,212 (Somalia), 7,046 (Iran), 7,003 (Russia) (mid-year 2021); 85,868 (Ukraine) (as of 8 November 2022)<br>
+_refugees (country of origin)_: 57,887 (Syria), 41,037 (Afghanistan), 9,661 (Iraq), 8,212 (Somalia), 7,046 (Iran), 7,003 (Russia) (mid-year 2021); 86,903 (Ukraine) (as of 22 November 2022)<br>
 _stateless persons_: 3,229 (mid-year 2021)<br>
 
 **Illicit drugs**<br>

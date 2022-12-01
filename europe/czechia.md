@@ -195,12 +195,6 @@ _unimproved: total_: total: 0% of population (2020 est.)<br>
 **HIV/AIDS - adult prevalence rate**<br>
 (2018 est.) <.1%<br>
 
-**HIV/AIDS - people living with HIV/AIDS**<br>
-4,400 (2018 est.)<br>
-
-**HIV/AIDS - deaths**<br>
-(2018 est.) <100<br>
-
 **Obesity - adult prevalence rate**<br>
 26% (2016)<br>
 
@@ -428,6 +422,7 @@ $250.631 billion (2019 est.)<br>
 _Fitch rating_: AA- (2018)<br>
 _Moody's rating_: Aa3 (2019)<br>
 _Standard & Poors rating_: AA- (2011)<br>
+<strong>note: </strong>The year refers to the year in which the current credit rating was first obtained.<br>
 
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 2.3% (2017 est.)<br>
@@ -501,9 +496,10 @@ calendar year<br>
 $1.259 billion (2018 est.)<br>
 
 **Exports**<br>
-$174.92 billion (2020 est.) note: data are in current year dollars<br>
-$186.54 billion (2019 est.) note: data are in current year dollars<br>
-$191.69 billion (2018 est.) note: data are in current year dollars<br>
+$174.92 billion (2020 est.)<br>
+$186.54 billion (2019 est.)<br>
+$191.69 billion (2018 est.)<br>
+<strong>note:</strong> Data are in current year dollars and do not include illicit exports or re-exports.<br>
 
 **Exports - partners**<br>
 Germany 31%, Slovakia 7%, Poland 6%, France 5% (2019)<br>
@@ -715,7 +711,7 @@ Czechia joined NATO in 1999; Czechia, Hungary, and Poland were invited to begin 
 <p>none</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 458,679 (Ukraine) (as of 8 November 2022)<br>
+_refugees (country of origin)_: 462,622 (Ukraine) (as of 22 November 2022)<br>
 _stateless persons_: 1,498 (mid-year 2021)<br>
 
 **Illicit drugs**<br>

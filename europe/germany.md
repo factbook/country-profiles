@@ -202,14 +202,6 @@ _unimproved: total_: total: 0% of population (2020 est.)<br>
 **HIV/AIDS - adult prevalence rate**<br>
 0.1% (2020 est.)<br>
 
-**HIV/AIDS - people living with HIV/AIDS**<br>
-93,000 (2020 est.)<br>
-<strong>note: </strong>estimate does not include children<br>
-
-**HIV/AIDS - deaths**<br>
-(2020 est.) &lt;500<br>
-<strong>note: </strong>estimate does not include children<br>
-
 **Obesity - adult prevalence rate**<br>
 22.3% (2016)<br>
 
@@ -442,7 +434,7 @@ $3,860,923,000,000 (2019 est.)<br>
 _Fitch rating_: AAA (1994)<br>
 _Moody's rating_: Aaa (1986)<br>
 _Standard & Poors rating_: AAA (1983)<br>
-Credit ratings prior to 1989 refer to West Germany.<br>
+<strong>note: </strong>The year refers to the year in which the current credit rating was first obtained. Credit ratings prior to 1989 refer to West Germany.<br>
 
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 0.7% (2017 est.)<br>
@@ -729,7 +721,7 @@ the German Federal Armed Forces inventory is comprised of weapons systems produc
 
 **Military deployments**<br>
 up to 500 Iraq (NATO); 1,030 Lithuania (NATO); up to 1,400 Mali (MINUSMA/EUTM); 280 Slovakia (NATO) (2022)<br>
-<strong>note 1: </strong> Germany is a contributing member of the EuroCorps<br><br><strong>note 2: </strong>in response to Russia’s 2022 invasion of Ukraine, some NATO countries, including Germany, have sent additional troops and equipment to the battlegroups deployed in NATO territory in eastern Europe<br>
+<strong>note 1: </strong>in November 2022, Germany pledged to withdraw its troops from Mali by Spring 2024<br><br><strong>note 2: </strong>in response to Russia’s 2022 invasion of Ukraine, some NATO countries, including Germany, have sent additional troops and equipment to the battlegroups deployed in NATO territory in eastern Europe<br>
 
 **Military - note**<br>
 the Federal Republic of Germany joined NATO in May 1955; with the reunification of Germany in October 1990, the states of the former German Democratic Republic joined the Federal Republic of Germany in its membership of NATO<br><br>the German Army has incorporated a joint Franco-German mechanized infantry brigade since 1989, a Dutch airmobile infantry brigade since 2014, and a Dutch mechanized infantry brigade since 2016; in addition, the German Navy’s Sea Battalion (includes marine infantry, naval divers, reconnaissance, and security forces) has worked closely with the Dutch Marine Corps since 2016, including as a binational amphibious landing group (2022)<br>
@@ -746,7 +738,7 @@ Islamic Revolutionary Guard Corps/Qods Force; Islamic State of Iraq and ash-Sham
 <p>none</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 616,325 (Syria), 152,677 (Afghanistan), 147,400 (Iraq), 62,152 (Eritrea), 45,704 (Iran), 34,465 (Turkey), 29,137 (Somalia), 9,329 (Russia), 9,323 (Nigeria), 8,600 (Pakistan), 7,503 (Serbia and Kosovo), 6,057 (Ethiopia) (mid-year 2021); 1,019,789 (Ukraine) (as of 8 November 2022)<br>
+_refugees (country of origin)_: 616,325 (Syria), 152,677 (Afghanistan), 147,400 (Iraq), 62,152 (Eritrea), 45,704 (Iran), 34,465 (Turkey), 29,137 (Somalia), 9,329 (Russia), 9,323 (Nigeria), 8,600 (Pakistan), 7,503 (Serbia and Kosovo), 6,057 (Ethiopia) (mid-year 2021); 1,021,667 (Ukraine) (as of 22 November 2022)<br>
 _stateless persons_: 26,980 (mid-year 2021)<br>
 
 **Illicit drugs**<br>

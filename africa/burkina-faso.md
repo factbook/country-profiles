@@ -80,7 +80,6 @@ landlocked savanna cut by the three principal rivers of the Black, Red, and Whit
 
 **Population**<br>
 21,935,389 (2022 est.)<br>
-<strong>note:</strong> estimates for this country explicitly taken into account the impact of the HIV/AIDS epidemic<br>
 
 **Nationality**<br>
 _noun_: Burkinabe (singular and plural)<br>
@@ -168,7 +167,7 @@ _female_: 65.31 years (2022 est.)<br>
 4.27 children born/woman (2022 est.)<br>
 
 **Contraceptive prevalence rate**<br>
-30.1% (2020)<br>
+35.3% (2020/21)<br>
 
 **Drinking water source**<br>
 _improved: urban_: urban: 94.7% of population<br>
@@ -197,12 +196,6 @@ _unimproved: total_: total: 46% of population (2020 est.)<br>
 
 **HIV/AIDS - adult prevalence rate**<br>
 0.7% (2020 est.)<br>
-
-**HIV/AIDS - people living with HIV/AIDS**<br>
-97,000 (2020 est.)<br>
-
-**HIV/AIDS - deaths**<br>
-3,300 (2020 est.)<br>
 
 **Major infectious diseases**<br>
 _degree of risk_: very high (2020)<br>
@@ -449,6 +442,7 @@ $14.271 billion (2018 est.)<br>
 
 **Credit ratings**<br>
 _Standard & Poors rating_: B (2017)<br>
+<strong>note: </strong>The year refers to the year in which the current credit rating was first obtained.<br>
 
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 31% (2017 est.)<br>
@@ -521,8 +515,9 @@ calendar year<br>
 -$820 million (2016 est.)<br>
 
 **Exports**<br>
-$4.47 billion (2019 est.) note: data are in current year dollars<br>
-$4.51 billion (2018 est.) note: data are in current year dollars<br>
+$4.47 billion (2019 est.)<br>
+$4.51 billion (2018 est.)<br>
+<strong>note:</strong> Data are in current year dollars and do not include illicit exports or re-exports.<br>
 
 **Exports - partners**<br>
 Switzerland 59%, India 21% (2019)<br>
@@ -727,6 +722,6 @@ Ansarul Islam; Islamic State of Iraq and ash-Sham in the Greater Sahara (ISIS-GS
 <p>adding to illicit cross-border activities, Burkina Faso has issues concerning unresolved boundary alignments with its neighbors; demarcation is currently underway with Mali; the dispute with Niger was referred to the ICJ in 2010, and a dispute over several villages with Benin persists; Benin retains a border dispute with Burkina Faso around the town of Koualau/Kourou</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 26,609 (Mali) (2022)<br>
-_IDPs_: <p>1,902,150 (2022)</p><br>
+_refugees (country of origin)_: 33,611 (Mali) (2022)<br>
+_IDPs_: <p>1,761,915 (2022)</p><br>
 

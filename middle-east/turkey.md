@@ -200,12 +200,6 @@ _unimproved: total_: total: 0.4% of population (2020 est.)<br>
 **HIV/AIDS - adult prevalence rate**<br>
 NA<br>
 
-**HIV/AIDS - people living with HIV/AIDS**<br>
-NA<br>
-
-**HIV/AIDS - deaths**<br>
-NA<br>
-
 **Major infectious diseases**<br>
 <strong>note:</strong> widespread ongoing transmission of a respiratory illness caused by the novel coronavirus (COVID-19) is occurring throughout Turkey; as of 18 August 2022, Turkey has reported a total of 16,528,070 cases of COVID-19 or 19,597.17 cumulative cases of COVID-19 per 100,000 population with a total of 100,058 cumulative deaths or a rate of 118.63 cumulative deaths per 100,000 population; as of 17 August 2022, 68.31% of the population has received at least one dose of COVID-19 vaccine<br>
 
@@ -447,6 +441,7 @@ $760.028 billion (2019 est.)<br>
 _Fitch rating_: BB- (2019)<br>
 _Moody's rating_: B2 (2020)<br>
 _Standard & Poors rating_: B+ (2018)<br>
+<strong>note: </strong>The year refers to the year in which the current credit rating was first obtained.<br>
 
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 6.8% (2017 est.)<br>
@@ -729,7 +724,7 @@ mandatory military service for men, age 20-41; service can be delayed if in univ
 
 **Military deployments**<br>
 approximately 150 (Azerbaijan; monitoring cease-fire, clearing mines); 250 Bosnia-Herzegovina (EUFOR); approximately 30,000 Cyprus; estimated 5,000 Iraq; 300 Kosovo (NATO/KFOR); 110 Lebanon (UNIFIL); estimated 500 Libya; up to 5,000 Qatar; approximately 200 Somalia (training mission); estimated 5,000-10,000 Syria (2022)<br>
-<strong>note 1:</strong> between 2016 and 2020, Turkey conducted four significant military campaigns in northern Syria; Turkey also has deployed troops into northern Iraq on numerous occasions to combat the Kurdistan Worker's Party (PKK), including large operations involving thousands of troops in 2007, 2011, and 2018, and smaller-scale operations in 2021 and 2022; in October of 2021, Turkey’s parliament extended the military’s mandate to launch cross-border operations in Iraq and Syria by two more years<br><br><strong>note 2:</strong> in 2020, Turkey deployed hundreds of Turkish troops and as many as 5,000 Syrian fighters to Libya to support the Libyan Government of National Accord<br>
+<strong>note 1:</strong> between 2016 and 2020, Turkey conducted four significant military ground campaigns in northern Syria; Turkey also has deployed troops into northern Iraq on numerous occasions to combat the Kurdistan Worker's Party (PKK), including large operations involving thousands of troops in 2007, 2011, and 2018, and smaller-scale operations in 2021 and 2022; Turkey has also conducted numerous air strikes in both Iraq and Syria; in October of 2021, Turkey’s parliament extended the military’s mandate to launch cross-border operations in Iraq and Syria by two more years<br><br><strong>note 2:</strong> in 2020, Turkey deployed hundreds of Turkish troops and as many as 5,000 Syrian fighters to Libya to support the Libyan Government of National Accord<br>
 
 **Military - note**<br>
 Turkey has been a member of NATO since 1952 and hosts NATO's Land Forces Command in Izmir, as well as a NATO/US airbase at Incirlik and a NATO missile defense radar system in eastern Turkey<br><br>under a long-range (2033) strategic plan, the Turkish Armed Forces continued efforts to modernize its equipment and force structure; Land Forces sought to produce a 20-30% smaller, more highly trained force characterized by greater mobility and firepower and capable of joint and combined operations<br><br>the Turkish Navy is a regional naval power that wants to develop the capability to project power beyond Turkey's coastal waters; it is planning to launch new frigates, submarines, and a light aircraft carrier/amphibious assault ship in the next few years, adding to its current force of about 16 frigates and 12 submarines; the Navy is heavily involved in NATO, multinational, and UN operations; its roles include control of territorial waters and security for sea lines of communications <br><br>the Turkish Air Force adopted an "Aerospace and Missile Defense Concept" in 2002 and is developing an integrated missile defense system; in a controversial move that complicated its relationship with NATO and the US, it purchased the Russian S-400 air defense system for an estimated $2.5 billion in 2019; Air Force priorities include attaining a modern deployable, survivable, and sustainable force structure, and establishing a sustainable command and control system <br><br>in recent years, Turkey has taken on a greater level of international peacekeeping responsibilities, including keeping a substantial force under NATO in Afghanistan until withdrawing in 2021; Turkey also has built expeditionary military bases in Qatar, Somalia, northern Cyprus, and Sudan<br><br>the military has a substantial stake in Turkey's economy through a holding company that is involved in the automotive, energy, finance, and logistics sectors, as well as iron and steel production (2022)<br>
@@ -746,7 +741,7 @@ Islamic State of Iraq and ash-Sham (ISIS); Islamic Movement of Uzbekistan (IMU);
 <p><em>Turkey-Armenia</em>: in 2009, Swiss mediators facilitated an accord reestablishing diplomatic ties between Armenia and Turkey, but neither side has ratified the agreement and the rapprochement effort has faltered;  in early 2022, the two countries held talks twice aimed at normalizing relations, which could lead to the opening of their land border, shut since 1993; in 2000, Turkish authorities complained to UNESCO that blasting from quarries in Armenia was damaging the medieval ruins of Ani, on the other side of the Arpacay valley</p> <p><em>Turkey-Azerbaijan</em>: none identified</p> <p><em>Turkey-Bulgaria</em>: none identified</p> <p><em>Turkey-Cyprus</em>: status of northern Cyprus question remains</p> <p><em>Turkey-Georgia</em>: none identified</p> <p><em>Turkey-Greece</em>: complex maritime, air, and territorial disputes with Greece in the Aegean Sea, including rights to explore oil and gas reserves in the eastern Mediterranean and illegal migrants transiting from Turkey into Greece; the Aegean Maritime Boundary is complicated by the close proximity of Greek islands to the western shores of the Turkish Anatolian peninsula, representing the primary source of conflict between the two countries</p> <p><em>Turkey-Iran</em>: none identified</p> <p><em>Turkey-Iraq</em>: Turkey has expressed concern over the status of Kurds in Iraq</p> <p><em>Turkey-Syria</em>: Turkey completed building a wall along its border with Syria in 2018 to prevent illegal border crossings and smuggling</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 3,603,724 (Syria) (2022); 145,000 (Ukraine) (as of 19 May 2022)<br>
+_refugees (country of origin)_: 3,585,447 (Syria) (2022); 145,000 (Ukraine) (as of 19 May 2022)<br>
 _IDPs_: 1.099 million (displaced from 1984-2005 because of fighting between the Kurdish PKK and Turkish military; most IDPs are Kurds from eastern and southeastern provinces; no information available on persons displaced by development projects) (2021)<br>
 _stateless persons_: 117 (2018)<br>
 

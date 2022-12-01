@@ -83,7 +83,6 @@ landlocked; most of the country is intensively cultivated and rugged with the po
 
 **Population**<br>
 13,173,730 (2022 est.)<br>
-<strong>note:</strong> estimates for this country explicitly taken into account the impact of the HIV/AIDS epidemic<br>
 
 **Nationality**<br>
 _noun_: Rwandan(s)<br>
@@ -198,12 +197,6 @@ _unimproved: total_: total: 15.8% of population (2020 est.)<br>
 
 **HIV/AIDS - adult prevalence rate**<br>
 2.5% (2020 est.)<br>
-
-**HIV/AIDS - people living with HIV/AIDS**<br>
-220,000 (2020 est.)<br>
-
-**HIV/AIDS - deaths**<br>
-2,500 (2020 est.)<br>
 
 **Major infectious diseases**<br>
 _degree of risk_: very high (2020)<br>
@@ -440,6 +433,7 @@ $9.136 billion (2017 est.)<br>
 _Fitch rating_: B+ (2014)<br>
 _Moody's rating_: B2 (2016)<br>
 _Standard & Poors rating_: B+ (2019)<br>
+<strong>note: </strong>The year refers to the year in which the current credit rating was first obtained.<br>
 
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 30.9% (2017 est.)<br>
@@ -707,6 +701,6 @@ since 2021, Rwanda has deployed troops to the border with the Democratic Republi
 <p><em>Rwanda-Burundi: </em>Burundi's Ngozi province and Rwanda's Butare province dispute the two-kilometer-square hilly farmed area of Sabanerwa in the Rukurazi Valley where the Akanyaru/Kanyaru River shifted its course southward after heavy rains in 1965 around Kibinga Hill in Rwanda's Butare Province<br><em><br>Rwanda-Democratic Republic of Congo (DRC): </em>the 2005 DRC and Rwanda border verification mechanism to stem rebel actions on both sides of the border remains in place<em><br><br>Rwanda-Uganda:</em> a joint technical committee established in 2007 to demarcate sections of the border<br><br><br></p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 76,465 (Democratic Republic of the Congo) 48,369 (Burundi) (2022)<br>
+_refugees (country of origin)_: 76,465 (Democratic Republic of the Congo), 48,369 (Burundi) (2022)<br>
 _stateless persons_: 9,500 (mid-year 2021)<br>
 

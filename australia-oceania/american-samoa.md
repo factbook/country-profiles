@@ -174,12 +174,6 @@ _unimproved: total_: total: 1% of population (2020 est.)<br>
 **HIV/AIDS - adult prevalence rate**<br>
 NA<br>
 
-**HIV/AIDS - people living with HIV/AIDS**<br>
-NA<br>
-
-**HIV/AIDS - deaths**<br>
-NA<br>
-
 **Children under the age of 5 years underweight**<br>
 NA<br>
 
@@ -391,6 +385,7 @@ _expenditures_: 262.5 million (2016 est.)<br>
 **Exports**<br>
 $428 million (2016 est.)<br>
 $427 million (2015 est.)<br>
+<strong>note:</strong> Data are in current year dollars and do not include illicit exports or re-exports.<br>
 
 **Exports - partners**<br>
 Australia 25%, Ghana 19%, Indonesia 15.6%, Burma 10.4%, Portugal 5.1% (2017)<br>

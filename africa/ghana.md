@@ -83,7 +83,6 @@ Lake Volta is the world's largest artificial lake (manmade reservoir) by surface
 
 **Population**<br>
 33,107,275 (2022 est.)<br>
-<strong>note:</strong> estimates for this country explicitly taken into account the impact of the HIV/AIDS epidemic<br>
 
 **Nationality**<br>
 _noun_: Ghanaian(s)<br>
@@ -201,12 +200,6 @@ _unimproved: total_: total: 28.9% of population (2020 est.)<br>
 
 **HIV/AIDS - adult prevalence rate**<br>
 1.7% (2020 est.)<br>
-
-**HIV/AIDS - people living with HIV/AIDS**<br>
-350,000 (2020 est.)<br>
-
-**HIV/AIDS - deaths**<br>
-13,000 (2020 est.)<br>
 
 **Major infectious diseases**<br>
 _degree of risk_: very high (2020)<br>
@@ -454,6 +447,7 @@ $65.363 billion (2019 est.)<br>
 _Fitch rating_: B (2013)<br>
 _Moody's rating_: B3 (2015)<br>
 _Standard & Poors rating_: B- (2020)<br>
+<strong>note: </strong>The year refers to the year in which the current credit rating was first obtained.<br>
 
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 18.3% (2017 est.)<br>

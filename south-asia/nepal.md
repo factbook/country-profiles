@@ -196,12 +196,6 @@ _unimproved: total_: total: 12.3% of population (2020 est.)<br>
 **HIV/AIDS - adult prevalence rate**<br>
 0.1% (2020 est.)<br>
 
-**HIV/AIDS - people living with HIV/AIDS**<br>
-30,000 (2020 est.)<br>
-
-**HIV/AIDS - deaths**<br>
-(2020 est.) <1000<br>
-
 **Major infectious diseases**<br>
 _degree of risk_: high (2020)<br>
 _food or waterborne diseases_: bacterial diarrhea, hepatitis A and E, and typhoid fever<br>
@@ -621,7 +615,7 @@ _subscriptions per 100 inhabitants_: 131 (2020 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: in relation to its telecom sector, Nepal has several topographical and economic constraints which have impeded efforts to expand network infrastructure and improve the quality of service for end-users; the fixed line market remains underdeveloped, and as a result most traffic is channeled via mobile networks; fixed broadband penetration remains very low, though to address this the government has initiated several programs as part of the Digital Nepal Framework and the wider Optical Fiber Backbone Network Expansion Project, started in 2012; supported by the Rural Telecommunications Development Fund, the programs include building out fiber backbone infrastructure and using this to provide broadband to schools and community centers nationally; telcos have also invested in fiber networks, and competition in the market is intensifying; cheap fiber-based services launched in mid-2021 prompted responses from other ISPs to provide faster and more competitively priced offers; Nepal&rsquo;s mobile market is relatively developed, with a focus on LTE; in 2021, the regulator considered a range of spectrum bands which could be used for 5G (2021)<br>
-_domestic_: 3G coverage is available in 20 major cities (2019); disparity between high coverage in cities and coverage available in underdeveloped rural regions; fixed-line less than 3 per 100 persons and mobile-cellular nearly 131 per 100 persons; fair radiotelephone communication service; 20% of the market share is fixed (wired) broadband, 2% is fixed (wireless) broadband, and 78% is mobile broadband (2019)<br>
+_domestic_: fixed-line less than 2 per 100 persons and mobile-cellular nearly 131 per 100 persons (2020)<br>
 _international_: country code - 977; Nepal, China and Tibet connected across borders with underground and all-dielectric self-supporting (ADSS) fiber-optic cables; radiotelephone communications; microwave and fiber landlines to India; satellite earth station - 1 Intelsat (Indian Ocean) (2019)<br>
 <strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress toward 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>
 

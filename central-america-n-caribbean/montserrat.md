@@ -175,12 +175,6 @@ _unimproved: total_: total: NA<br>
 **HIV/AIDS - adult prevalence rate**<br>
 NA<br>
 
-**HIV/AIDS - people living with HIV/AIDS**<br>
-NA<br>
-
-**HIV/AIDS - deaths**<br>
-NA<br>
-
 **Children under the age of 5 years underweight**<br>
 NA<br>
 
@@ -320,6 +314,7 @@ $167.4 million (2011 est.)<br>
 
 **Credit ratings**<br>
 _Standard & Poors rating_: BBB- (2020)<br>
+<strong>note: </strong>The year refers to the year in which the current credit rating was first obtained.<br>
 
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 1.9% (2017 est.)<br>

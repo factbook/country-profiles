@@ -175,12 +175,6 @@ _unimproved: total_: total: 0.9% of population (2017 est.)<br>
 **HIV/AIDS - adult prevalence rate**<br>
 NA<br>
 
-**HIV/AIDS - people living with HIV/AIDS**<br>
-NA<br>
-
-**HIV/AIDS - deaths**<br>
-NA<br>
-
 **Children under the age of 5 years underweight**<br>
 NA<br>
 
@@ -384,6 +378,7 @@ _expenditures_: 80.32 million (2017 est.)<br>
 **Exports**<br>
 $7.9 million (2017 est.)<br>
 $3.9 million (2016 est.)<br>
+<strong>note:</strong> Data are in current year dollars and do not include illicit exports or re-exports.<br>
 
 **Exports - commodities**<br>
 lobster, fish, livestock, salt, concrete blocks, rum<br>

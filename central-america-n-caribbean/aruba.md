@@ -178,12 +178,6 @@ _unimproved: total_: total: 2.3% of population (2015 est.)<br>
 **HIV/AIDS - adult prevalence rate**<br>
 NA<br>
 
-**HIV/AIDS - people living with HIV/AIDS**<br>
-NA<br>
-
-**HIV/AIDS - deaths**<br>
-NA<br>
-
 **Children under the age of 5 years underweight**<br>
 NA<br>
 
@@ -343,6 +337,7 @@ $2.7 billion (2017 est.)<br>
 **Credit ratings**<br>
 _Fitch rating_: BB (2020)<br>
 _Standard & Poors rating_: BBB+ (2013)<br>
+<strong>note: </strong>The year refers to the year in which the current credit rating was first obtained.<br>
 
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 0.4% (2002 est.)<br>
@@ -408,9 +403,10 @@ $22 million (2017 est.)<br>
 $133 million (2016 est.)<br>
 
 **Exports**<br>
-$1.45 billion (2020 est.) note: data are in current year dollars<br>
-$2.56 billion (2019 est.) note: data are in current year dollars<br>
-$2.56 billion (2018 est.) note: data are in current year dollars<br>
+$1.45 billion (2020 est.)<br>
+$2.56 billion (2019 est.)<br>
+$2.56 billion (2018 est.)<br>
+<strong>note:</strong> Data are in current year dollars and do not include illicit exports or re-exports.<br>
 
 **Exports - partners**<br>
 Malaysia 57%, United States 11%, Netherlands 6%, Jordan 6%, Venezuela 5% (2019)<br>

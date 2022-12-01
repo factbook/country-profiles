@@ -86,7 +86,6 @@ landlocked; the Zambezi forms a natural riverine boundary with Zimbabwe; Lake Ka
 
 **Population**<br>
 19,642,123 (2022 est.)<br>
-<strong>note: </strong>estimates for this country explicitly taken into account the impact of the HIV/AIDS epidemic<br>
 
 **Nationality**<br>
 _noun_: Zambian(s)<br>
@@ -204,12 +203,6 @@ _unimproved: total_: total: 48.3% of population (2020 est.)<br>
 
 **HIV/AIDS - adult prevalence rate**<br>
 11.1% (2020 est.)<br>
-
-**HIV/AIDS - people living with HIV/AIDS**<br>
-1.5 million (2020 est.)<br>
-
-**HIV/AIDS - deaths**<br>
-24,000 (2020 est.)<br>
 
 **Major infectious diseases**<br>
 _degree of risk_: very high (2020)<br>
@@ -455,6 +448,7 @@ $25.71 billion (2017 est.)<br>
 _Fitch rating_: RD (2020)<br>
 _Moody's rating_: Ca (2020)<br>
 _Standard & Poors rating_: SD (2020)<br>
+<strong>note: </strong>The year refers to the year in which the current credit rating was first obtained.<br>
 
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 7.5% (2017 est.)<br>

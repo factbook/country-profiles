@@ -196,14 +196,6 @@ _unimproved: total_: total: 1% of population (2020 est.)<br>
 **HIV/AIDS - adult prevalence rate**<br>
 (2020 est.) <.1%<br>
 
-**HIV/AIDS - people living with HIV/AIDS**<br>
-1,700 (2020 est.)<br>
-<strong>note: </strong>estimate does not include children<br>
-
-**HIV/AIDS - deaths**<br>
-(2020 est.) &lt;100<br>
-<strong>note: </strong>estimate does not include children<br>
-
 **Major infectious diseases**<br>
 _degree of risk_: intermediate (2020)<br>
 _vectorborne diseases_: tickborne encephalitis<br>
@@ -442,6 +434,7 @@ $60.687 billion (2019 est.)<br>
 _Fitch rating_: BBB- (2019)<br>
 _Moody's rating_: Ba1 (2020)<br>
 _Standard & Poors rating_: BBB- (2019)<br>
+<strong>note: </strong>The year refers to the year in which the current credit rating was first obtained.<br>
 
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 3.7% (2017 est.)<br>
@@ -515,9 +508,10 @@ $1.597 billion (2019 est.)<br>
 $1 billion (2018 est.)<br>
 
 **Exports**<br>
-$23.66 billion (2020 est.) note: data are in current year dollars<br>
-$31.07 billion (2019 est.) note: data are in current year dollars<br>
-$30.71 billion (2018 est.) note: data are in current year dollars<br>
+$23.66 billion (2020 est.)<br>
+$31.07 billion (2019 est.)<br>
+$30.71 billion (2018 est.)<br>
+<strong>note:</strong> Data are in current year dollars and do not include illicit exports or re-exports.<br>
 
 **Exports - partners**<br>
 Italy 13%, Germany 13%, Slovenia 10%, Bosnia and Herzegovina 9%, Austria 6%, Serbia 5% (2019)<br>
@@ -732,9 +726,9 @@ Croatia joined NATO in 2009<br>
 <p>dispute remains with Bosnia and Herzegovina over several small sections of the boundary related to maritime access that hinders ratification of the 1999 border agreement; since the breakup of Yugoslavia in the early 1990s, Croatia and Slovenia have each claimed sovereignty over Piranski Bay and four villages, and Slovenia has objected to Croatia's claim of an exclusive economic zone in the Adriatic Sea; in 2009, however Croatia and Slovenia signed a binding international arbitration agreement to define their disputed land and maritime borders, which led to Slovenia lifting its objections to Croatia joining the EU; Slovenia continues to impose a hard border Schengen regime with Croatia, which joined the EU in 2013 but has not yet fulfilled Schengen requirements</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 19,011 (Ukraine) (as of 8 November 2022)<br>
+_refugees (country of origin)_: 19,134 (Ukraine) (as of 22 November 2022)<br>
 _stateless persons_: 2,910 (mid-year 2021)<br>
-<strong>note: </strong>759,830 estimated refugee and migrant arrivals (January 2015-September 2022)<br>
+<strong>note: </strong>771,932 estimated refugee and migrant arrivals (January 2015-October 2022)<br>
 
 **Illicit drugs**<br>
 <p>drug trafficking groups are major players in the procurement and transportation of large quantities of cocaine destined for European markets</p> <p> </p><br>

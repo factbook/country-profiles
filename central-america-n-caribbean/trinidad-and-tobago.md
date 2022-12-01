@@ -188,14 +188,6 @@ _unimproved: total_: total: 0.1% of population (2020 est.)<br>
 **HIV/AIDS - adult prevalence rate**<br>
 0.7% (2020 est.)<br>
 
-**HIV/AIDS - people living with HIV/AIDS**<br>
-10,000 (2020 est.)<br>
-<strong>note: </strong>estimate does not include children<br>
-
-**HIV/AIDS - deaths**<br>
-(2020 est.) &lt;200<br>
-<strong>note: </strong>estimate does not include children<br>
-
 **Obesity - adult prevalence rate**<br>
 18.6% (2016)<br>
 
@@ -396,6 +388,7 @@ $24.031 billion (2019 est.)<br>
 **Credit ratings**<br>
 _Moody's rating_: Ba1 (2017)<br>
 _Standard & Poors rating_: BBB- (2020)<br>
+<strong>note: </strong>The year refers to the year in which the current credit rating was first obtained.<br>
 
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 0.4% (2017 est.)<br>

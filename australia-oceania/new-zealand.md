@@ -197,14 +197,6 @@ _unimproved: total_: total: 0% of population (2020)<br>
 **HIV/AIDS - adult prevalence rate**<br>
 (2020 est.) <.1%<br>
 
-**HIV/AIDS - people living with HIV/AIDS**<br>
-3,600 (2020 est.)<br>
-<strong>note: </strong>estimate does not include children<br>
-
-**HIV/AIDS - deaths**<br>
-(2020 est.) &lt;100<br>
-<strong>note: </strong>estimate does not include children<br>
-
 **Obesity - adult prevalence rate**<br>
 30.8% (2016)<br>
 
@@ -428,6 +420,7 @@ $205.202 billion (2019 est.)<br>
 _Fitch rating_: AA (2011)<br>
 _Moody's rating_: Aaa (2002)<br>
 _Standard & Poors rating_: AA (2011)<br>
+<strong>note: </strong>The year refers to the year in which the current credit rating was first obtained.<br>
 
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 5.7% (2017 est.)<br>
@@ -689,7 +682,7 @@ New Zealand Defense Force (NZDF): New Zealand Army, Royal New Zealand Navy, Roya
 1.2% of GDP (2018) (approximately $2.62 billion)<br>
 
 **Military and security service personnel strengths**<br>
-approximately 9,500 active duty troops (4,700 Army; 2,300 Navy; 2,500 Air Force) (2022)<br>
+approximately 9,500 active-duty troops (4,700 Army; 2,300 Navy; 2,500 Air Force) (2022)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the NZDF is equipped mostly with imported weapons and equipment from Western suppliers; the US has been the leading provider since 2010 (2022)<br>

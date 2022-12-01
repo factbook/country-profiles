@@ -183,12 +183,6 @@ _unimproved: total_: total: 0% of population (2020 est.)<br>
 **HIV/AIDS - adult prevalence rate**<br>
 1.1% (2019 est.)<br>
 
-**HIV/AIDS - people living with HIV/AIDS**<br>
-2,700 (2019 est.)<br>
-
-**HIV/AIDS - deaths**<br>
-(2019 est.) <100<br>
-
 **Obesity - adult prevalence rate**<br>
 23.1% (2016)<br>
 
@@ -406,6 +400,7 @@ $4.99 billion (2017 est.)<br>
 **Credit ratings**<br>
 _Moody's rating_: Caa1 (2019)<br>
 _Standard & Poors rating_: B- (2019)<br>
+<strong>note: </strong>The year refers to the year in which the current credit rating was first obtained.<br>
 
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 1.5% (2017 est.)<br>
@@ -477,6 +472,7 @@ _expenditures_: 1.664 billion (2017 est.)<br>
 **Exports**<br>
 $485.4 million (2017 est.)<br>
 $516.9 million (2016 est.)<br>
+<strong>note:</strong> Data are in current year dollars and do not include illicit exports or re-exports.<br>
 
 **Exports - partners**<br>
 US 21%, Poland 14%, Jamaica 8%, Guyana 6%,Trinidad and Tobago 6% (2019)<br>
@@ -655,10 +651,6 @@ Barbados has been a member of the Caribbean Regional Security System (RSS) since
 
 **Disputes - international**<br>
 <p><em>Barbados-Venezuela (Maritime Boundary):</em> Barbados joins other Caribbean states and the United Kingdom to counter Venezuela's claim that Aves Island, a large sandbar with some vegetation, sustains human habitation or economic life, the criteria under the UN Convention on the Law of the Sea (UNCLOS), Article 121, which would permit Venezuela to extend its EEZ/continental shelf over a large portion of the eastern Caribbean Sea.  The dispute hampers hydrocarbon prospecting and creation of exploration blocks. <br><br><em>Barbados-Trinidad and Tobago (Maritime Boundary):</em> Barbados and Trinidad and Tobago abide by the April 2006 Permanent Court of Arbitration decision delimiting a maritime boundary and limiting catches of flying fish in Trinidad and Tobago's exclusive economic zone.</p><br>
-
-**Trafficking in persons**<br>
-_current situation_: human traffickers exploit domestic and foreign victims in Barbados; foreign women are subject to sex trafficking; children are exploited in sex trafficking by parents and caregivers, according to anecdotal reports; documented and undocumented migrants from Guyana, Haiti, Jamaica, and Venezuela are at high risk for trafficking, while migrants from other nearby countries are increasingly vulnerable<br>
-_tier rating_: Tier 2 Watch List &mdash; Barbados does not fully meet the minimum standards for the elimination of trafficking but is making significant efforts to do so; the government completed an anti-trafficking manual on assisting and interviewing victims, reinstated the anti-trafficking task force, and increased training for law enforcement and child care officials; however, authorities again did not identify any trafficking victims, reported no new prosecutions, and have never convicted anyone of trafficking; the national action plan has yet to be completed (2020)<br>
 
 **Illicit drugs**<br>
 <p>a transit point for cocaine and marijuana destined for North America, Europe, and elsewhere in the Caribbean</p><br>

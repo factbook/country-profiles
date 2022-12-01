@@ -86,7 +86,6 @@ the Kenyan Highlands comprise one of the most successful agricultural production
 
 **Population**<br>
 55,864,655 (2022 est.)<br>
-<strong>note:</strong> estimates for this country explicitly taken into account the impact of the HIV/AIDS epidemic<br>
 
 **Nationality**<br>
 _noun_: Kenyan(s)<br>
@@ -175,7 +174,7 @@ _female_: 71.43 years (2022 est.)<br>
 3.29 children born/woman (2022 est.)<br>
 
 **Contraceptive prevalence rate**<br>
-59.7% (2019)<br>
+64.6% (2020)<br>
 
 **Drinking water source**<br>
 _improved: urban_: urban: 91.3% of population<br>
@@ -201,12 +200,6 @@ _unimproved: total_: total: 41.8% of population (2020 est.)<br>
 
 **HIV/AIDS - adult prevalence rate**<br>
 4.2% (2020 est.)<br>
-
-**HIV/AIDS - people living with HIV/AIDS**<br>
-1.4 million (2020 est.)<br>
-
-**HIV/AIDS - deaths**<br>
-29,000 (2020 est.)<br>
 
 **Major infectious diseases**<br>
 _degree of risk_: very high (2020)<br>
@@ -451,6 +444,7 @@ $95.52 billion (2019 est.)<br>
 _Fitch rating_: B+ (2007)<br>
 _Moody's rating_: B2 (2018)<br>
 _Standard & Poors rating_: B+ (2010)<br>
+<strong>note: </strong>The year refers to the year in which the current credit rating was first obtained.<br>
 
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 34.5% (2017 est.)<br>
@@ -709,7 +703,7 @@ _LNG terminal(s) (import)_: Mombasa<br>
 
 **Military and security forces**<br>
 Kenya Defense Forces (KDF): Kenya Army, Kenya Navy, Kenya Air Force (2022)<br>
-<strong>note 1:</strong> the National Police Service maintains internal security and reports to the Ministry of Interior and Coordination of National Government; it includes a paramilitary General Service Unit<br><br><strong>note 2:</strong> the Kenya Coast Guard Service (established 2018) is under the Ministry of Interior but led by a military officer and comprised of personnel from the military, as well as the National Police Service, intelligence services, and other government agencies<br>
+<strong>note 1:</strong> the National Police Service maintains internal security and reports to the Ministry of Interior and Coordination of National Government; it includes a paramilitary General Service Unit and Rapid Deployment Unit<br><br><strong>note 2:</strong> the Kenya Coast Guard Service (established 2018) is under the Ministry of Interior but led by a military officer and comprised of personnel from the military, as well as the National Police Service, intelligence services, and other government agencies<br>
 
 **Military expenditures**<br>
 1.2% of GDP (2021 est.)<br>
@@ -729,6 +723,7 @@ no conscription; 18-26 years of age for male and female voluntary service (under
 
 **Military deployments**<br>
 260 Democratic Republic of the Congo (MONUSCO); 3,650 Somalia (ATMIS) (2022)<br>
+<strong>note:</strong> in November 2022, Kenya sent approximately 900 troops to the eastern part of the Democratic Republic of the Congo (DRC) as part of a newly-formed East Africa Community Regional Force (EACRF) to assist the DRC military against the rebel group M23; the force is led by Kenya<br>
 
 **Military - note**<br>
 Kenyan military forces intervened in Somalia in October 2011 to combat the al Qaida-affiliated al-Shabaab terrorist group, which had conducted numerous cross-border attacks into Kenya; in November 2011, the UN and the African Union invited Kenya to incorporate its forces into the African Union Mission in Somalia (AMISOM); Kenyan forces were formally integrated into AMISOM in February 2012; as of 2022, they consisted of approximately 3,600 troops and were responsible for AMISOM’s Sector 2 comprising Lower and Middle Jubba (see Appendix T for additional details on al-Shabaab; note - as of May 2022, AMISOM was renamed the AU Transition Mission in Somalia or ATMIS)<br><br>the Kenya Military Forces were created following independence in 1963; the current Kenya Defense Forces (KDF) were established, and its composition laid out, in the 2010 constitution; the KDF is governed by the Kenya Defense Forces Act of 2012; the Kenya Army traces its origins back to the Kings African Rifles (KAR); the KAR was a British colonial regiment raised from Britain's various possessions in East Africa from 1902 until independence in the 1960s; it conducted both military and internal security functions within the colonial territories, and served outside the territories during the World Wars (2022)<br>
@@ -748,7 +743,7 @@ al-Shabaab; Islamic Revolutionary Guard Corps (IRGC)/Qods Force<br>
 <p><em>Kenya-Ethiopia</em>: their border was demarcated in the 1950s and approved in 1970; in 2012, Kenya and Ethiopia agreed to redemarcate their boundary following disputes over beacons and cross-border crime</p> <p><em>Kenya-Somalia</em>: Kenya works hard to prevent the clan and militia fighting in Somalia from spreading across the border, which has long been open to nomadic pastoralists; in 2021, the International Court of Justice (ICJ) gave Somalia control over a disputed ocean area where the seabeds are believed to hold vasts oil and gas deposits; the ICJ ruling gave Somalia the rights to several offshore oil exploration blocks previously claimed by Kenya; Kenya did not recognize the court’s decision</p> <p><em>Kenya-South Sudan</em>: two thirds of the boundary that separates Kenya and South Sudan's sovereignty known as the Ilemi Triangle has been unclear since British colonial times; Kenya has administered the area since colonial times; officials from Kenya and South Sudan signed a memorandum of understanding on boundary delimitation and demarcation and agreed to set up a joint committee; as of July 2019, the demarcation process was to begin in 90 days, but was delayed due to a lack of funding</p> <p><em>Kenya-Sudan</em>: Kenya served as an important mediator in brokering Sudan's north-south separation in February 2005</p> <p><em>Kenya-Tanzania</em>: Kenya and Tanzania were conducting a joint reaffirmation process in November 2021 to ensure the border was visibly marked with pillars</p> <p><em>Kenya-Uganda:</em> Kenya and Uganda began a joint demarcation of the boundary in 2021 </p> <p> </p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 279,200 (Somalia), 144,441 (South Sudan), 52,312 (Democratic Republic of the Congo), 21,066 (Ethiopia), 7,697 (Burundi), 5,022 (Sudan) (2022)<br>
+_refugees (country of origin)_: 279,625 (Somalia), 151,087 (South Sudan), 52,312 (Democratic Republic of the Congo), 21,066 (Ethiopia), 7,697 (Burundi), 5,022 (Sudan) (2022)<br>
 _IDPs_: 190,000 (election-related violence, intercommunal violence, resource conflicts, al-Shabaab attacks in 2017 and 2018) (2021)<br>
 _stateless persons_: 16,820 (mid-year 2021); note - the stateless population consists of Nubians, Kenyan Somalis, and coastal Arabs; the Nubians are descendants of Sudanese soldiers recruited by the British to fight for them in East Africa more than a century ago; Nubians did not receive Kenyan citizenship when the country became independent in 1963; only recently have Nubians become a formally recognized tribe and had less trouble obtaining national IDs; Galjeel and other Somalis who have lived in Kenya for decades are included with more recent Somali refugees and denied ID cards<br>
 

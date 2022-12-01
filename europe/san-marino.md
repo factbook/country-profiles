@@ -178,12 +178,6 @@ _unimproved: total_: total: 0% of population (2020)<br>
 **HIV/AIDS - adult prevalence rate**<br>
 NA<br>
 
-**HIV/AIDS - people living with HIV/AIDS**<br>
-NA<br>
-
-**HIV/AIDS - deaths**<br>
-NA<br>
-
 **Children under the age of 5 years underweight**<br>
 NA<br>
 
@@ -367,6 +361,7 @@ $1.643 billion (2017 est.)<br>
 
 **Credit ratings**<br>
 _Fitch rating_: BB+ (2020)<br>
+<strong>note: </strong>The year refers to the year in which the current credit rating was first obtained.<br>
 
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 0.1% (2009)<br>
@@ -487,7 +482,7 @@ _subscriptions per 100 inhabitants_: 115 (2020 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: automatic telephone system completely integrated into Italian system (2018)<br>
-_domestic_: fixed-line a little over 47 per 100 and mobile-cellular teledensity roughly 114 telephones per 100 persons (2019)<br>
+_domestic_: fixed-line a little over 47 per 100 and mobile-cellular teledensity roughly 115 telephones per 100 persons (2020)<br>
 _international_: country code - 378; connected to Italian international network<br>
 <strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress toward 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>
 

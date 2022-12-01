@@ -157,7 +157,7 @@ _female_: 77.07 years (2022 est.)<br>
 2.26 children born/woman (2022 est.)<br>
 
 **Contraceptive prevalence rate**<br>
-NA<br>
+35.5% (2021)<br>
 
 **Drinking water source**<br>
 _improved: urban_: urban: 98.2% of population<br>
@@ -186,12 +186,6 @@ _unimproved: total_: total: 0% of population (2020 est.)<br>
 
 **HIV/AIDS - adult prevalence rate**<br>
 0.2% (2020 est.)<br>
-
-**HIV/AIDS - people living with HIV/AIDS**<br>
-1,300 (2020 est.)<br>
-
-**HIV/AIDS - deaths**<br>
-(2020 est.) <100<br>
 
 **Major infectious diseases**<br>
 _degree of risk_: high (2020)<br>
@@ -413,6 +407,7 @@ $4.891 billion (2017 est.)<br>
 **Credit ratings**<br>
 _Moody's rating_: Ba3 (2017)<br>
 _Standard & Poors rating_: BB- (2019)<br>
+<strong>note: </strong>The year refers to the year in which the current credit rating was first obtained.<br>
 
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 13.5% (2017 est.)<br>
@@ -692,8 +687,4 @@ the RFMF was established in 1920; it has a history of intervening in the country
 
 **Disputes - international**<br>
 <em>Fiji-Tonga</em>: Fiji does not recognize Tonga’s 1972 claim to the Minerva Reefs and their surrounding waters; the Minerva Reefs’ 200-mile exclusive economic zone includes valuable fishing grounds<br>
-
-**Trafficking in persons**<br>
-_current situation_: human traffickers exploit domestic and foreign victims in Fiji and Fijians abroad; Fijian women and children and victims from Thailand and China are sex trafficked in illegal brothels, local hotels, private homes, and massage parlors; Fijian children sent to live with families in larger cities are vulnerable to forced labor or sexual activity in exchange for food, clothing, shelter, or school fees; labor traffickers exploit Southeast Asian workers on small informal farms and factories and in construction; Southeast Asian fisherman may be subject to forced labor on Fijian-flagged ships or foreign-flagged ships transiting Fijian ports and water<br>
-_tier rating_: Tier 2 Watch List &mdash; Fiji does not fully meet the minimum standards for the elimination of trafficking but is making significant efforts to do so; authorities maintained anti-trafficking law enforcement, investigating a similar number of cases as the prior year and convicting a trafficker for the first time since 2014; a government-convened working group finalized an updated anti-trafficking national action plan; however, the government did not demonstrate overall increasing efforts; law enforcement was often unaware of the definition of trafficking, procedures for interviewing victims, and how to proactively screen vulnerable populations for trafficking victims; inspectors did not adequately investigate labor violations for trafficking indicators or provide adequate support to victims (2020)<br>
 

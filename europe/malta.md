@@ -189,12 +189,6 @@ _unimproved: total_: total: 0% of population (2020 est.)<br>
 **HIV/AIDS - adult prevalence rate**<br>
 0.1% (2016 est.)<br>
 
-**HIV/AIDS - people living with HIV/AIDS**<br>
-(2016 est.) <500<br>
-
-**HIV/AIDS - deaths**<br>
-(2016 est.) <100<br>
-
 **Obesity - adult prevalence rate**<br>
 28.9% (2016)<br>
 
@@ -413,6 +407,7 @@ $14.986 billion (2019 est.)<br>
 _Fitch rating_: A+ (2017)<br>
 _Moody's rating_: A2 (2019)<br>
 _Standard & Poors rating_: A- (2016)<br>
+<strong>note: </strong>The year refers to the year in which the current credit rating was first obtained.<br>
 
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 1.1% (2017 est.)<br>
@@ -684,7 +679,7 @@ the military has a small inventory that consists of equipment from a mix of Euro
 
 **Refugees and internally displaced persons**<br>
 _stateless persons_: 11 (mid-year 2021)<br>
-<strong>note:</strong> 8,402 estimated refugee and migrant arrivals by sea (January 2015-September 2022)<br>
+<strong>note:</strong> 8,440 estimated refugee and migrant arrivals by sea (January 2015-October 2022)<br>
 
 **Illicit drugs**<br>
 minor transshipment point for hashish from North Africa to Western Europe<br>

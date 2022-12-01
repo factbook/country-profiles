@@ -192,12 +192,6 @@ _unimproved: total_: total: 0.8% of population (2020 est.)<br>
 **HIV/AIDS - adult prevalence rate**<br>
 (2018 est.) <.1%<br>
 
-**HIV/AIDS - people living with HIV/AIDS**<br>
-(2018 est.) <500<br>
-
-**HIV/AIDS - deaths**<br>
-300 (2018 est.)<br>
-
 **Obesity - adult prevalence rate**<br>
 22.4% (2016)<br>
 
@@ -420,6 +414,7 @@ $12.696 billion (2019 est.)<br>
 **Credit ratings**<br>
 _Fitch rating_: BB+ (2019)<br>
 _Standard & Poors rating_: BB- (2013)<br>
+<strong>note: </strong>The year refers to the year in which the current credit rating was first obtained.<br>
 
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 10.9% (2017 est.)<br>
@@ -604,7 +599,7 @@ _subscriptions per 100 inhabitants_: 89 (2020 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: as part of the EU pre-accession process, North Macedonia has built closer economic ties with the Union which accounts for 77.5% of Macedonia&rsquo;s exports and just over half of its imports; closer regulatory and administrative ties with European Commission (EC) institutions have done much to develop the telecom sector and prepare the market for the competitive environment encouraged in the EU; as part of EU integration legislation North Macedonia has implemented the principles of the EU&rsquo;s regulatory framework for communications, established an independent regulator and set out several provisions to provide for a competitive telecom market, including wholesale access to the incumbent&rsquo;s fixed-line network; broadband services are widely available, with effective competition between DSL and cable platforms complemented by wireless broadband and a developing fiber sector; the number of DSL subscribers has continued to fall in recent years as customers are migrated to fiber networks; the MNOs are increasingly focused on expanding their 5G networks, seeking stronger coverage across North Macedonia&rsquo;s high value urban areas; mobile data services are also becoming increasingly important following investments in LTE network rollouts and in upgrades to LTE-A technology (2022)<br>
-_domestic_: fixed-line roughly 19 per 100 and mobile-cellular 92 per 100 subscriptions (2019)<br>
+_domestic_: fixed-line roughly 20 per 100 and mobile-cellular 89 per 100 subscriptions (2020)<br>
 _international_: country code - 389<br>
 <strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress toward 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>
 
@@ -690,9 +685,9 @@ Islamic State of Iraq and ash-Sham (ISIS)<br>
 <p><em>North Macedonia-Albania</em>: none identified</p> <p><em>North Macedonia-Greece</em>: none identified</p> <p><em>North Macedonia-Kosovo</em>: North Macedonia and Kosovo completed demarcation of their boundary in October 2009</p> <p><em>North Macedonia-Serbia</em>: none identified</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 6,265 (Ukraine) (as of 8 November 2022)<br>
+_refugees (country of origin)_: 6,386 (Ukraine) (as of 22 November 2022)<br>
 _stateless persons_: 553 (mid-year 2021)<br>
-<strong>note:</strong> 545,889 estimated refugee and migrant arrivals (January 2015-September 2022)<br>
+<strong>note:</strong> 549,217 estimated refugee and migrant arrivals (January 2015-October 2022)<br>
 
 **Illicit drugs**<br>
 major transshipment point for Southwest Asian heroin and hashish; minor transit point for South American cocaine destined for Europe; although not a financial center and most criminal activity is thought to be domestic, money laundering is a problem due to a mostly cash-based economy and weak enforcement<br>

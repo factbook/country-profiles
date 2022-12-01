@@ -189,12 +189,6 @@ _unimproved: total_: total: 59.4% of population (2020 est.)<br>
 **HIV/AIDS - adult prevalence rate**<br>
 NA<br>
 
-**HIV/AIDS - people living with HIV/AIDS**<br>
-NA<br>
-
-**HIV/AIDS - deaths**<br>
-NA<br>
-
 **Major infectious diseases**<br>
 _degree of risk_: high (2020)<br>
 _food or waterborne diseases_: bacterial diarrhea<br>
@@ -404,6 +398,7 @@ $1.298 billion (2017 est.)<br>
 
 **Credit ratings**<br>
 _Moody's rating_: B3 (2015)<br>
+<strong>note: </strong>The year refers to the year in which the current credit rating was first obtained.<br>
 
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 34.3% (2017 est.)<br>
@@ -587,7 +582,7 @@ _subscriptions per 100 inhabitants_: 71 (2019)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: mobile services have continually expanded in the Solomon Islands; 3G services became available in 2010, leading to an increase in mobile broadband uptake; Solomon Islands currently host three ISPs; fixed broadband services are largely limited to government, corporations, and educational organizations in the Solomon Islands; telecommunication infrastructure in the Solomon Islands requires significant investment due to the geographical make-up of the islands; this presents a great challenge to rural connectivity in the country; although various international organizations such as the World Bank and the Asian Development Bank have taken a special interest in having communication services improved in both the Solomon Islands and the Pacific region in general, internet and broadband penetration remain low; the provision of broadband infrastructure, particularly to rural areas, is also hindered by land disputes; internet services have, improved with the build-out of the Coral Sea Cable System linking Papua New Guinea to the Solomon Islands, as also with a connecting cable to a landing station at Sydney; the Australian government provided most of the funding for the Coral Sea Cable System, with contributions and support from the Solomon Islands and Papua New Guinea governments; the launch of the Kacific-1 satellite in late 2019 also improved broadband satellite capacity for the region, though for telcos in Solomon Islands satellite services are now largely used as backup for international traffic; in recent years, the country has stabilized both politically and economically and this, along with improvements to mobile infrastructure, has led to a rise in mobile services and the slow uptake of broadband services; while the first LTE services were launched in late 2017 in the capital Honiara, the main platform for mobile voice and data services remains 3G, while in outlying areas GSM is still an important technology for the provision of services (2022)<br>
-_domestic_: fixed-line is just over 1 per 100 persons and mobile-cellular telephone density is about 71 per 100 persons; domestic cable system to extend to key major islands (2019)<br>
+_domestic_: fixed-line is just over 1 per 100 persons and mobile-cellular telephone density is about 69 per 100 persons; domestic cable system to extend to key major islands (2020)<br>
 _international_: country code - 677; landing points for the CSCS and ICNS2 submarine cables providing connectivity from Solomon Islands, to PNG, Vanuatu and Australia; satellite earth station - 1 Intelsat (Pacific Ocean) (2019)<br>
 <strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress toward 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>
 

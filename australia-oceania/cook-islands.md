@@ -177,12 +177,6 @@ _unimproved: total_: total: 0.9% of population (2020 est.)<br>
 **HIV/AIDS - adult prevalence rate**<br>
 NA<br>
 
-**HIV/AIDS - people living with HIV/AIDS**<br>
-NA<br>
-
-**HIV/AIDS - deaths**<br>
-NA<br>
-
 **Major infectious diseases**<br>
 _degree of risk_: high (2020)<br>
 _food or waterborne diseases_: bacterial diarrhea<br>
@@ -408,6 +402,7 @@ $26.67 million (2005)<br>
 **Exports**<br>
 $3.125 million (2011 est.)<br>
 $5.163 million (2010 est.)<br>
+<strong>note:</strong> Data are in current year dollars and do not include illicit exports or re-exports.<br>
 
 **Exports - partners**<br>
 Japan 37%, Thailand 21%, France 17% (2019)<br>

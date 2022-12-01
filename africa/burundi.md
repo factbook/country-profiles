@@ -80,7 +80,6 @@ landlocked; straddles crest of the Nile-Congo watershed; the Kagera, which drain
 
 **Population**<br>
 12,696,478 (2022 est.)<br>
-<strong>note:</strong> estimates for this country explicitly take into account the impact of the HIV/AIDS epidemic<br>
 
 **Nationality**<br>
 _noun_: Burundian(s)<br>
@@ -90,7 +89,7 @@ _adjective_: Burundian<br>
 Hutu, Tutsi, Twa (Pygmy)<br>
 
 **Languages**<br>
-Kirundi only 29.7% (official); French only .3% (official); Swahili only .2%; English only .1% (official); Kirundi and French 8.4%; Kirundi, French, and English 2.4%, other language combinations 2%, unspecified 56.9% (2008 est.)<br>
+Kirundi only 29.7% (official); French only 0.3% (official); Swahili only 0.2%; English only 0.1% (official); Kirundi and French 8.4%; Kirundi, French, and English 2.4%, other language combinations 2%, unspecified 56.9% (2008 est.)<br>
 _major-language sample(s)_: <br>Igitabo Mpuzamakungu c'ibimenyetso bifatika, isoko ntabanduka ku nkuru z'urufatiro. (Kirundi)<br><br>The World Factbook, the indispensable source for basic information.<br>
 <strong>note:</strong> data represent languages read and written by people 10 years of age or older; spoken Kirundi is nearly universal<br>
 
@@ -199,12 +198,6 @@ _unimproved: total_: total: 41.6% of population (2020 est.)<br>
 
 **HIV/AIDS - adult prevalence rate**<br>
 1% (2020 est.)<br>
-
-**HIV/AIDS - people living with HIV/AIDS**<br>
-83,000 (2020 est.)<br>
-
-**HIV/AIDS - deaths**<br>
-1,700 (2020 est.)<br>
 
 **Major infectious diseases**<br>
 _degree of risk_: very high (2020)<br>
@@ -366,10 +359,10 @@ _residency requirement for naturalization_: 10 years<br>
 
 **Executive branch**<br>
 _chief of state_: President Evariste NDAYISHIMIYE (since 18 June 2020); Vice President Prosper BAZOMBANZA (since 24 June 2020); note - the president is both chief of state and head of government<br>
-_head of government_: President Evariste NDAYISHIMIYE (since 18 June 2020); Vice President Prosper BAZOMBANZA (since 24 June 2020); Prime Minister Gervais NDIRAKOBUCA (since 7 September 2022)<br><br><br> <br>
+_head of government_: President Evariste NDAYISHIMIYE (since 18 June 2020); Vice President Prosper BAZOMBANZA (since 24 June 2020); Prime Minister Gervais NDIRAKOBUCA (since 7 September 2022)<br><br>
 _cabinet_: Council of Ministers appointed by president<br>
-_elections/appointments_: president directly elected by absolute majority popular vote in 2 rounds if needed for a 7-year term (eligible for a second term); election last held on 20 May 2020 (next to be held in 2025); vice presidents nominated by the president, endorsed by Parliament; note - a 2018 constitutional referendum effective for the 2020 election, increased the presidential term from 5 to 7 years with a 2-consecutive-term limit, reinstated the position of the prime minister position, and reduced the number of vice presidents from 2 to 1 (2020)<br>
-_election results_: Evariste NDAYISHIMIYE elected president; percent of vote - Evariste NDAYISHIMIYE (CNDD-FDD) 71.5%, Agathon RWASA (CNL) 25.2%, Gaston SINDIMWO (UPRONA) 1.7%, OTHER 1.6%<br>
+_elections/appointments_: president directly elected by absolute majority popular vote in 2 rounds if needed for a 7-year term (eligible for a second term); election last held on 20 May 2020 (next to be held in 2027); vice presidents nominated by the president, endorsed by Parliament; note - a 2018 constitutional referendum effective for the 2020 election, increased the presidential term from 5 to 7 years with a 2-consecutive-term limit, reinstated the position of the prime minister position, and reduced the number of vice presidents from 2 to 1<br>
+_election results_: <em>2020: </em>Evariste NDAYISHIMIYE elected president; percent of vote - Evariste NDAYISHIMIYE (CNDD-FDD) 71.5%, Agathon RWASA (CNL) 25.2%, Gaston SINDIMWO (UPRONA) 1.7%, OTHER 1.6%<br>
 
 **Legislative branch**<br>
 _description_: bicameral Parliament or Parlement consists of:<br>Senate or Inama Nkenguzamateka (39 seats in the July 2020 election); 36 members indirectly elected by an electoral college of provincial councils using a three-round voting system, which requires a two-thirds majority vote in the first two rounds and simple majority vote for the two leading candidates in the final round; 3 seats reserved for Twas, and 30% of all votes reserved for women; members serve 5-year terms)<br>National Assembly or Inama Nshingamateka (123 seats in the May 2020 election; 100 members directly elected in multi-seat constituencies by proportional representation vote and 23 co-opted members; 60% of seats allocated to Hutu and 40% to Tutsi; 3 seats reserved for Twas; 30% of total seats reserved for women; members serve 5-year terms)<br>
@@ -515,6 +508,7 @@ calendar year<br>
 **Exports**<br>
 $283 million (2018 est.)<br>
 $315 million (2017 est.)<br>
+<strong>note:</strong> Data are in current year dollars and do not include illicit exports or re-exports.<br>
 
 **Exports - partners**<br>
 United Arab Emirates 50%, Democratic Republic of the Congo 7% (2019)<br>
@@ -624,7 +618,7 @@ _subscriptions per 100 inhabitants_: 56 (2020 est.)<br>
 **Telecommunication systems**<br>
 _general assessment_: Burundi provides an attractive telecom market given its high population density and existing low subscription rates for all services; one downside for investors is that the country has a very low economic output, disposable income is also very low, and fixed-line infrastructure is poor outside the main urban areas; this is a greater motivation for investors to focus on improving mobile networks than in expanding fixed-line infrastructure; to overcome difficulties associated with the poor telecom infrastructure, the government has supported a number of prominent telcos building a national fiber backbone network; this network offers onward connectivity to submarine cable infrastructure landings in Kenya and Tanzania; the first sections of this network were switched on in early 2014, and additional provinces have since been connected; in addition, the government in early 2018 kick-started the Burundi Broadband project, which aims to deliver national connectivity by 2025; based on this improved infrastructure the government and ITU have developed an ICT strategy to make use of telecoms to promote the country&rsquo;s socio-economic development through to 2028; progress made by Tanzania with its own national backbone network has benefited Burundi, which has been provided with onward connectivity to most countries in the region; International bandwidth capacity has continued to increase in recent years, including a 38% increase in the nine months to September 2021, resulting in lower retail prices for consumers; two of the mobile operators have launched 3G and LTE services to capitalize on the growing demand for internet access; the number of mobile subscribers increased 7% in the third quarter of 2021, quarter-on-quarter; similar growth is expected for the next two years at least, which will help bring the mobile level closer to the average for the region (2022)<br>
 _domestic_: telephone density one of the lowest in the world; fixed-line connections stand at less than 1 per 100 persons; mobile-cellular usage is about 56 per 100 persons (2020)<br>
-_international_: country code - 257; satellite earth station - 1 Intelsat (Indian Ocean); the government, supported by the Word Bank, has backed a joint venture with a number of prominent telecoms to build a national fiber backbone network, offering onward connectivity to submarine cable infrastructure landings in Kenya and Tanzania (2019)<br>
+_international_: country code - 257; satellite earth station - 1 Intelsat (Indian Ocean); the government, supported by the World Bank, has backed a joint venture with a number of prominent telecoms to build a national fiber backbone network, offering onward connectivity to submarine cable infrastructure landings in Kenya and Tanzania (2019)<br>
 <strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress toward 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>
 
 **Broadcast media**<br>
@@ -708,8 +702,4 @@ in addition to its foreign deployments, the FDN was focused on internal security
 _refugees (country of origin)_: 85,470 (Democratic Republic of the Congo) (refugees and asylum seekers) (2022)<br>
 _IDPs_: 84,791 (some ethnic Tutsis remain displaced from intercommunal violence that broke out after the 1993 coup and fighting between government forces and rebel groups; violence since April 2015) (2022)<br>
 _stateless persons_: 767 (mid-year 2021)<br>
-
-**Trafficking in persons**<br>
-_current situation_: human traffickers exploit domestic and foreign victims in Burundi and victims from Burundi abroad; traffickers take advantage of Burundians in precarious or desperate situations, including returned refugees; children were reportedly recruited by armed groups and forced to participate in anti-government activities; non-state armed groups allegedly used threats, intimidation, and physical assaults to coerce refugees in a camp in Rwanda to support the Burundian opposition; children and young adults are trafficked by relatives, neighbors, and friends and are subjected to forced labor in agriculture, mining, informal commerce, charcoal production, and fishing; some girls and young women are forced into domestic servitude and sex trafficking in restaurants and bars around Lake Tanganyika; women and girls who go to the Middle East for domestic service jobs report physical and sexual abuse<br>
-_tier rating_: Tier 3 &mdash; Burundi does not fully meet the minimum standards for the elimination of trafficking and is not making significant efforts to do so; the government worked with an international organization to provide training to immigration officials, identified victims of trafficking abroad, and conducted public awareness campaigns with an international organization; however, authorities did not convict any traffickers for the fifth consecutive year and did not investigate, prosecute, or convict officials allegedly complicit in human trafficking; the government did not have standard operating procedures to identify and refer victims to services and did not have adequate protection services for victims; authorities continued to lack a clear understanding of trafficking despite the government providing training to immigration officials (2020)<br>
 

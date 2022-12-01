@@ -169,12 +169,6 @@ _unimproved: urban_: urban: 4.3% of population<br>
 **HIV/AIDS - adult prevalence rate**<br>
 0.6% (2018 est.)<br>
 
-**HIV/AIDS - people living with HIV/AIDS**<br>
-(2018) <500<br>
-
-**HIV/AIDS - deaths**<br>
-(2018) <100<br>
-
 **Obesity - adult prevalence rate**<br>
 27.9% (2016)<br>
 

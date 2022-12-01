@@ -200,12 +200,6 @@ _unimproved: total_: total: 0% of population (2020 est.)<br>
 **HIV/AIDS - adult prevalence rate**<br>
 NA<br>
 
-**HIV/AIDS - people living with HIV/AIDS**<br>
-NA<br>
-
-**HIV/AIDS - deaths**<br>
-NA<br>
-
 **Major infectious diseases**<br>
 _degree of risk_: intermediate (2020)<br>
 _food or waterborne diseases_: bacterial diarrhea, hepatitis A, and typhoid fever<br>
@@ -333,7 +327,7 @@ _time difference_: UTC+3 (8 hours ahead of Washington, DC, during Standard Time)
 _etymology_: although the origin of the name is disputed, it likely has compound Persian roots with <em>bagh</em> and <em>dad</em> meaning "god" and "given" respectively to create the meaning of "bestowed by God"<br>
 
 **Administrative divisions**<br>
-18 governorates (muhafazat, singular - muhafazah (Arabic); parezgakan, singular - parezga (Kurdish)) and 1 region*; 'Al Anbar; Al Basrah; Al Muthanna; Al Qadisiyah (Ad Diwaniyah); An Najaf; Arbil (Erbil) (Arabic), Hewler (Kurdish); As Sulaymaniyah (Arabic), Slemani (Kurdish); Babil; Baghdad; Dahuk (Arabic), Dihok (Kurdish); Dhi Qar; Diyala; Karbala'; Kirkuk; Maysan; Ninawa; Salah ad Din; Wasit<br>
+18 governorates (muhafazat, singular - muhafazah (Arabic); parezgakan, singular - parezga (Kurdish)); 'Al Anbar; Al Basrah; Al Muthanna; Al Qadisiyah (Ad Diwaniyah); An Najaf; Arbil (Erbil) (Arabic), Hewler (Kurdish); As Sulaymaniyah (Arabic), Slemani (Kurdish); Babil; Baghdad; Dahuk (Arabic), Dihok (Kurdish); Dhi Qar; Diyala; Karbala'; Kirkuk; Maysan; Ninawa; Salah ad Din; Wasit<br>
 <strong>note: </strong>Iraq's Kurdistan Regional Government administers Arbil, Dahuk, and As Sulaymaniyah (as Hewler, Dihok, and Slemani respectively)<br>
 
 **Independence**<br>
@@ -449,6 +443,7 @@ $231.994 billion (2019 est.)<br>
 _Fitch rating_: B- (2015)<br>
 _Moody's rating_: Caa1 (2017)<br>
 _Standard & Poors rating_: B- (2015)<br>
+<strong>note: </strong>The year refers to the year in which the current credit rating was first obtained.<br>
 
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 3.3% (2017 est.)<br>
@@ -630,7 +625,7 @@ _total subscriptions_: 37,475,325 (2020 est.)<br>
 _subscriptions per 100 inhabitants_: 93 (2020 est.)<br>
 
 **Telecommunication systems**<br>
-_general assessment_: Iraq continues to face a number of political and economic challenges, though increasing civil stability has made it easier for mobile and fixed-line operators to rebuild telecom services and infrastructure damaged during the last few years; the government extended the licenses held by the MNOs for an additional three years to compensate for the chaos and destruction caused between 2014 and 2017 when Islamic State held sway in many areas of the country; the companies have struggled to develop LTE services; with LTE services being very low, there is little chance for 5G to be available in the short term; most services are still based on GSM and 3G, except in the Kurdish region where LTE is more widely available (2022)<br>
+_general assessment_: Iraq continues to face a number of political and economic challenges, though increasing civil stability has made it easier for mobile and fixed-line operators to rebuild telecom services and infrastructure damaged during the last few years; the government extended the licenses held by the MNOs for an additional three years to compensate for the chaos and destruction caused between 2014 and 2017 when Islamic State held sway in many areas of the country; the companies have struggled to develop LTE services; most services are still based on GSM and 3G, except in the Kurdish region where LTE is more widely available (2022)<br>
 _domestic_: about 7 per 100 for fixed-line and 93 per 100 for mobile-cellular subscriptions (2020)<br>
 _international_: country code - 964; landing points for FALCON, and GBICS/MENA submarine cables providing connections to the Middle East, Africa and India; satellite earth stations - 4 (2 Intelsat - 1 Atlantic Ocean and 1 Indian Ocean, 1 Intersputnik - Atlantic Ocean region, and 1 Arabsat (inoperative)); local microwave radio relay connects border regions to Jordan, Kuwait, Syria, and Turkey (2019)<br>
 <strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress toward 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>

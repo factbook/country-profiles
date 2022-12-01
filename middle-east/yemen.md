@@ -193,12 +193,6 @@ _unimproved: total_: total: 40.9% of population (2020 est.)<br>
 **HIV/AIDS - adult prevalence rate**<br>
 (2020 est.) <.1%<br>
 
-**HIV/AIDS - people living with HIV/AIDS**<br>
-11,000 (2020 est.)<br>
-
-**HIV/AIDS - deaths**<br>
-(2020 est.) <500<br>
-
 **Major infectious diseases**<br>
 _degree of risk_: high (2020)<br>
 _food or waterborne diseases_: bacterial diarrhea, hepatitis A, and typhoid fever<br>
@@ -711,6 +705,6 @@ Islamic Revolutionary Guard Corps (IRGC)/Qods Force; Islamic State of Iraq and a
 <p><em>Yemen-Oman</em>: none identified</p> <p><em>Yemen-Saudia Arabia:</em> in 2004, Saudi Arabia reinforced its concrete-filled security barrier along sections of the fully demarcated border with Yemen to stem illegal cross-border activities, including militants and arms; in 2013 and 2015, Saudi Arabia again erected fences<br><br><br></p> <p> </p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 69,900 (Somalia), 18,687 (Ethiopia) (2022)<br>
+_refugees (country of origin)_: 69,900 (Somalia), 18,968 (Ethiopia) (2022)<br>
 _IDPs_: 4,288,739 (conflict in Sa'ada Governorate; clashes between al-Qa'ida in the Arabian Peninsula and government forces) (2022)<br>
 

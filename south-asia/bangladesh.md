@@ -196,12 +196,6 @@ _unimproved: total_: total: 22% of population (2020 est.)<br>
 **HIV/AIDS - adult prevalence rate**<br>
 (2018 est.) <.1%<br>
 
-**HIV/AIDS - people living with HIV/AIDS**<br>
-14,000 (2018 est.)<br>
-
-**HIV/AIDS - deaths**<br>
-(2018 est.) <1000<br>
-
 **Major infectious diseases**<br>
 _degree of risk_: high (2020)<br>
 _food or waterborne diseases_: bacterial and protozoal diarrhea, hepatitis A and E, and typhoid fever<br>
@@ -452,6 +446,7 @@ $329.545 billion (2020 est.)<br>
 _Fitch rating_: BB- (2014)<br>
 _Moody's rating_: Ba3 (2012)<br>
 _Standard & Poors rating_: BB- (2010)<br>
+<strong>note: </strong>The year refers to the year in which the current credit rating was first obtained.<br>
 
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 14.2% (2017 est.)<br>
@@ -527,9 +522,10 @@ _expenditures_: 33.5 billion (2017 est.)<br>
 $1.391 billion (2016 est.)<br>
 
 **Exports**<br>
-$38.78 billion (2020 est.) note: data are in current year dollars<br>
-$44.96 billion (2019 est.) note: data are in current year dollars<br>
-$44.13 billion (2018 est.) note: data are in current year dollars<br>
+$38.78 billion (2020 est.)<br>
+$44.96 billion (2019 est.)<br>
+$44.13 billion (2018 est.)<br>
+<strong>note:</strong> Data are in current year dollars and do not include illicit exports or re-exports.<br>
 
 **Exports - partners**<br>
 United States 15%, Germany 14%, United Kingdom 8%, Spain 7%, France 7% (2019)<br>

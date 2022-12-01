@@ -198,14 +198,6 @@ _unimproved: total_: total: 12.7% of population (2020 est.)<br>
 **HIV/AIDS - adult prevalence rate**<br>
 0.1% (2020 est.)<br>
 
-**HIV/AIDS - people living with HIV/AIDS**<br>
-19,000 (2020 est.)<br>
-<strong>note: </strong>estimate does not include children<br>
-
-**HIV/AIDS - deaths**<br>
-(2020 est.) &lt;500<br>
-<strong>note: </strong>estimate does not include children<br>
-
 **Obesity - adult prevalence rate**<br>
 22.5% (2016)<br>
 
@@ -434,6 +426,7 @@ $249.543 billion (2019 est.)<br>
 _Fitch rating_: BBB- (2011)<br>
 _Moody's rating_: Baa3 (2006)<br>
 _Standard & Poors rating_: BBB- (2014)<br>
+<strong>note: </strong>The year refers to the year in which the current credit rating was first obtained.<br>
 
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 4.2% (2017 est.)<br>
@@ -729,13 +722,9 @@ Islamic State of Iraq and ash-Sham (ISIS)<br>
 <p><em>Romania-Bulgaria</em>: none identified</p> <p><em>Romania-Hungary</em>: none identified</p> <p><em>Romania-Moldova</em>: none identified</p> <p><em>Romania-Serbia</em>: none identified</p> <p><em>Romania-Ukraine</em>: the International Court of Justice ruled largely in favor of Romania in its dispute submitted in 2004 over Ukrainian-administered Zmiyinyy/Serpilor (Snake) Island and Black Sea maritime boundary delimitation; in 2007, Romania opposed Ukraine's construction of a navigation canal from the Danube border through Ukraine to the Black Sea, arguing that it runs through a unique ecological area, the Danube Delta</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 88,831 (Ukraine) (as of 6 November 2022)<br>
+_refugees (country of origin)_: 92,076 (Ukraine) (as of 20 November 2022)<br>
 _stateless persons_: 314 (mid-year 2021)<br>
 <strong>note:</strong> 11,847 estimated refugee and migrant arrivals (January 2015-November 2022)<br>
-
-**Trafficking in persons**<br>
-_current situation_: human traffickers exploit domestic and foreign victims in Romania and Romanians abroad;&nbsp; Romania remains a primary source country for sex and labor trafficking victims in Europe; Romanian men, women, and children are subjected to forced labor in agriculture, construction, hotels, manufacturing, domestic service, commercial sex, and forced begging and theft; Romania is a destination country for a limited number of foreign trafficking victims, including migrants from Africa, Europe, and South and Southeast Asia, exploited in the construction, hotel, and food-processing industries<br>
-_tier rating_: Tier 2 Watch List &mdash; Romania does not fully meet the minimum standards for the elimination of trafficking but is making significant efforts to do so; the government identified more trafficking victims during the reporting period, participated in more international investigations, and conducted awareness campaigns; however, authorities investigated, prosecuted, and convicted fewer traffickers; officials complicit in trafficking crimes, especially with minors in government-run homes or placement centers, were not prosecuted; government funding of services for child trafficking victims remained inadequate (2020)<br>
 
 **Illicit drugs**<br>
 <p>a source country for cannabis</p><br>

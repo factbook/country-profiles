@@ -84,7 +84,7 @@ overwhelming majority of the population is found in the eastern half of the coun
 <p>frequent typhoons (about five per year along southern and eastern coasts); damaging floods; tsunamis; earthquakes; droughts; land subsidence</p><p><strong>volcanism:</strong> China contains some historically active volcanoes including Changbaishan (also known as Baitoushan, Baegdu, or P'aektu-san), Hainan Dao, and Kunlun although most have been relatively inactive in recent centuries</p><br>
 
 **Geography - note**<br>
-<strong>note 1:</strong> world's fourth largest country (after Russia, Canada, and US) and largest country situated entirely in Asia; Mount Everest on the border with Nepal is the world's tallest peak above sea level<br><br><strong>note 2:</strong> the largest cave chamber in the world is the Miao Room, in the Gebihe cave system at China's Ziyun Getu He Chuandong National Park, which encloses some 10.78 million cu m (380.7 million cu ft) of volume<br><br><strong>note 3:</strong> China appears to have been the center of domestication for two of the world's leading cereal crops: millet in the north along the Yellow River and rice in the south along the lower or middle Yangtze River<br>
+<strong>note 1:</strong> world's fourth largest country (after Russia, Canada, and US) and largest country situated entirely in Asia; Mount Everest on the border with Nepal is the world's tallest peak above sea level<br><br><strong>note 2:</strong> the largest cave chamber in the world is the Miao Room, in the Gebihe cave system at China's Ziyun Getu He Chuandong National Park, which encloses some 10.78 million cu m (380.7 million cu ft) of volume; the world's largest sinkhole is the Xiaoxhai Tiankeng sinkhole in Chongqing Municipality, which is 660 m deep, with a volume of 130 million cu m<br><br><strong>note 3:</strong> China appears to have been the center of domestication for two of the world's leading cereal crops: millet in the north along the Yellow River and rice in the south along the lower or middle Yangtze River<br>
 
 ## People and Society
 
@@ -203,12 +203,6 @@ _unimproved: rural_: rural: 9.4% of population<br>
 _unimproved: total_: total: 5.1% of population (2020 est.)<br>
 
 **HIV/AIDS - adult prevalence rate**<br>
-NA<br>
-
-**HIV/AIDS - people living with HIV/AIDS**<br>
-NA<br>
-
-**HIV/AIDS - deaths**<br>
 NA<br>
 
 **Major infectious diseases**<br>
@@ -464,6 +458,7 @@ $14,327,359,000,000 (2019 est.)<br>
 _Fitch rating_: A+ (2007)<br>
 _Moody's rating_: A1 (2017)<br>
 _Standard & Poors rating_: A+ (2017)<br>
+<strong>note: </strong>The year refers to the year in which the current credit rating was first obtained.<br>
 
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 7.9% (2017 est.)<br>
@@ -536,9 +531,10 @@ $141.335 billion (2019 est.)<br>
 $25.499 billion (2018 est.)<br>
 
 **Exports**<br>
-$2,732,370,000,000 (2020 est.) note: data are in current year dollars<br>
-$2.631 trillion (2019 est.) note: data are in current year dollars<br>
-$2,651,010,000,000 (2018 est.) note: data are in current year dollars<br>
+$2,732,370,000,000 (2020 est.)<br>
+$2.631 trillion (2019 est.)<br>
+$2,651,010,000,000 (2018 est.)<br>
+<strong>note:</strong> Data are in current year dollars and do not include illicit exports or re-exports.<br>
 
 **Exports - partners**<br>
 United States 17%, Hong Kong 10%, Japan 6% (2019)<br>

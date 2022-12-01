@@ -193,12 +193,6 @@ _unimproved: total_: total: 0.1% of population (2020 est.)<br>
 **HIV/AIDS - adult prevalence rate**<br>
 NA<br>
 
-**HIV/AIDS - people living with HIV/AIDS**<br>
-NA<br>
-
-**HIV/AIDS - deaths**<br>
-NA<br>
-
 **Major infectious diseases**<br>
 _respiratory diseases_: Covid-19 (see note) (2020)<br>
 <strong>note:</strong> a novel coronavirus is causing an outbreak of respiratory illness (COVID-19) in South Korea; as of 18 August 2022, South Korea has reported a total of 21,861,296 cases of COVID-19 or 42,640.22 cumulative cases of COVID-19 per 100,000 population with a total of 25,813 cumulative deaths or a rate of 50.34 cumulative deaths per 100,000 population; as of 17 August 2022, 87.01% of the population has received at least one dose of COVID-19 vaccine<br>
@@ -356,7 +350,7 @@ _judge selection and term of office_: Supreme Court chief justice appointed by t
 _subordinate courts_: High Courts; District Courts; Branch Courts (organized under the District Courts); specialized courts for family and administrative issues<br>
 
 **Political parties and leaders**<br>
-Basic Income Party [SHIN Ji-hye] <br>Democratic Party or DP [LEE Jae-myung] (renamed from Minjoo Party of Korea or MPK in October 2016; formerly New Politics Alliance for Democracy or NPAD, which was a merger of the Democratic Party or DP (formerly DUP) [KIM Han-gil] and the New Political Vision Party or NPVP [AHN Cheol-soo] in March 2014; includes the former Open Democratic Party [CHOI Kong-wook], which merged with the DP in January 2022; also includes the Together Citizens' Party or Platform Party [WOO Hee-jong, CHOI Bae-geun], which merged with the DP in May 2022)<br>Justice Party or JP [YEO Young-kug]<br>People Power Party or PPP [LEE Jun-seok] (renamed from United Future Party in September 2020, formerly Liberty Korea Party)<br>People's Party or PP [AHN Cheol-soo] <br>Transition Korea [CHO Jung-hun] <br>
+Basic Income Party [SHIN Ji-hye] <br>Democratic Party of Korea or DPK [LEE Jae-myung] (renamed from Minjoo Party of Korea or MPK in October 2016; formerly New Politics Alliance for Democracy or NPAD, which was a merger of the Democratic Party or DP (formerly DUP) [KIM Han-gil] and the New Political Vision Party or NPVP [AHN Cheol-soo] in March 2014; includes the former Open Democratic Party [CHOI Kong-wook], which merged with the DP in January 2022; also includes the Together Citizens' Party or Platform Party [WOO Hee-jong, CHOI Bae-geun], which merged with the DP in May 2022)<br>Justice Party or JP [YEO Young-kug]<br>People Power Party or PPP [LEE Jun-seok] (renamed from United Future Party in September 2020, formerly Liberty Korea Party)<br>People's Party or PP [AHN Cheol-soo] <br>Transition Korea [CHO Jung-hun]<br>
 <strong>note: </strong>the Democratic (Minjoo) Party is South Korea’s largest party and its main progressive party; the People Power Party (PPP) is a conservative grouping and is South Korea’s second-largest party; the PPP and its predecessor parties have controlled the National Assembly for all but nine of the 33 years since the 1987 Constitution went into effect<br>
 
 **International organization participation**<br>
@@ -428,6 +422,7 @@ $1,646,604,000,000 (2019 est.)<br>
 _Fitch rating_: AA- (2012)<br>
 _Moody's rating_: Aa2 (2015)<br>
 _Standard & Poors rating_: AA (2016)<br>
+<strong>note: </strong>The year refers to the year in which the current credit rating was first obtained.<br>
 
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 2.2% (2017 est.)<br>
@@ -610,7 +605,7 @@ _subscriptions per 100 inhabitants_: 138 (2020 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: South Korea is second only to Hong Kong in the world rankings of telecom market maturity; it is also on the leading edge of the latest telecom technology developments, including around 6G; with its highly urbanized, tech-savvy population, South Korea also enjoys very high communication levels across all segments &ndash; fixed-line telephony (44% at the start of 2022), fixed broadband (46%), mobile voice and data (144%), and mobile broadband (120%); the performance of the mobile sector is on a par with other developed markets around the region, but it&rsquo;s the wire line segment that allows South Korea to stand out from the crowd; this is partly a reflection of the large proportion of its population who live in apartment buildings (around 60%), making fiber and apartment LAN connections relatively easy and cost-effective to deploy; the government&rsquo;s Ultra Broadband convergence Network (UBcN) had aimed to reach 50% adoption by the end of 2022, but that target may be a few more years away; fixed-line teledensity is also at a very high level compared to most of the rest of the world, but it has been on a sharp decline from a rate of 60% ten years ago; on the mobile front, users have enthusiastically migrated from one generation of mobile platform to the next as each iteration becomes available; there also doesn&rsquo;t appear to be any great concern about there being a lack of demand for 5G in South Korea (when the country is already well supported by 4G networks), with 30% of all subscribers having already made the switch; part of the reason behind the rapid transition may be the subsidized handsets on offer from each of the MNOs and the MVNOs (2022)<br>
-_domestic_: fixed-line approximately 47 per 100 and mobile-cellular services 138 per 100 persons; rapid assimilation of a full range of telecommunications technologies leading to a boom in e-commerce (2020)<br>
+_domestic_: fixed-line approximately 47 per 100 and mobile-cellular services 134 per 100 persons; rapid assimilation of a full range of telecommunications technologies leading to a boom in e-commerce (2020)<br>
 _international_: country code - 82;&nbsp;landing points for EAC-C2C, FEA, SeaMeWe-3, TPE, APCN-2, APG, FLAG North Asia Loop/REACH North Asia Loop, KJCN, NCP, and&nbsp;SJC2 submarine cables providing links throughout Asia, Australia, the Middle East, Africa, Europe, Southeast Asia and US; satellite earth stations - 66 (2019)<br>
 <strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress toward 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>
 

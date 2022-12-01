@@ -194,12 +194,6 @@ _unimproved: total_: total: 5.6% of population (2020 est.)<br>
 **HIV/AIDS - adult prevalence rate**<br>
 0.2% (2020 est.)<br>
 
-**HIV/AIDS - people living with HIV/AIDS**<br>
-4,800 (2020 est.)<br>
-
-**HIV/AIDS - deaths**<br>
-(2020 est.) <100<br>
-
 **Obesity - adult prevalence rate**<br>
 20.2% (2016)<br>
 
@@ -357,7 +351,7 @@ _judge selection and term of office_: Court of Cassation judges nominated by the
 _subordinate courts_: criminal and civil appellate courts; administrative appellate court; first instance courts; specialized administrative and bankruptcy courts<br>
 
 **Political parties and leaders**<br>
-the below parties received 1% or more of the vote:<br>5165 National Conservative Movement Party [Karin TONOYAN]<br>Alliance of Democrats [Arman BABAJANYAN]<br>Armenia Alliance or HD [Robert KOCHARYAN] (alliance of the Armenian Revolutionary Federation and the Reborn Armenia Party)<br>Armenian National Congress or ANC [Levon TER-PETROSSIAN] (bloc of independent and opposition parties)<br>Bright Armenia [Edmon MARUKYAN]<br>Civil Contract or KP [Nikol PASHINYAN]<br>Homeland of Armenians [Artak GALSTYAN]<br>Homeland Party [Artur VANETSYAN]<br>I Have Honor Alliance (alliance of the RPA and the Homeland Party, co-led by the two allied parties' leaders)<br>Liberal Party [Samvel BABAYAN]<br>National Democratic Party [Vahe GASPARYAN]<br>Prosperous Armenia or BHK [Gagik TSARUKYAN]<br>Republic Party (Hanrapetutyun Party) [Aram SARGSYAN]<br>Republican Party of Armenia or RPA [Serzh SARGSIAN]<br>
+5165 National Conservative Movement Party [Karin TONOYAN]<br>Alliance of Democrats [Arman BABAJANYAN]<br>Armenia Alliance or HD [Robert KOCHARYAN]<br>(alliance of the Armenian Revolutionary Federation and the Reborn Armenia Party)<br>Armenian National Congress or ANC [Levon TER-PETROSSIAN] (bloc of independent and opposition parties)<br>Bright Armenia [Edmon MARUKYAN]<br>Civil Contract or KP [Nikol PASHINYAN]<br>Homeland of Armenians [Artak GALSTYAN]<br>Homeland Party [Artur VANETSYAN]<br>I Have Honor Alliance (alliance of the RPA and the Homeland Party, [Serzh SARGSIAN and Artur VANETSYAN]<br>Liberal Party [Samvel BABAYAN]<br>National Democratic Party [Vahe GASPARYAN]<br>Prosperous Armenia or BHK [Gagik TSARUKYAN]<br>Republic Party (Hanrapetutyun Party) [Aram SARGSYAN]<br>Republican Party of Armenia or RPA [Serzh SARGSIAN]<br>
 
 **International organization participation**<br>
 ADB, BSEC, CD, CE, CIS, CSTO, EAEC (observer), EAEU, EAPC, EBRD, FAO, GCTU, IAEA, IBRD, ICAO, ICC (NGOs), ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, MIGA, NAM (observer), OAS (observer), OIF, OPCW, OSCE, PFP, UN, UNCTAD, UNESCO, UNHRC, UNIDO, UNIFIL, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
@@ -426,6 +420,7 @@ $13.694 billion (2019 est.)<br>
 **Credit ratings**<br>
 _Fitch rating_: B+ (2020)<br>
 _Moody's rating_: Ba3 (2019)<br>
+<strong>note: </strong>The year refers to the year in which the current credit rating was first obtained.<br>
 
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 16.7% (2017 est.)<br>
@@ -499,9 +494,10 @@ calendar year<br>
 -$238 million (2016 est.)<br>
 
 **Exports**<br>
-$3.82 billion (2020 est.) note: data are in current year dollars<br>
-$5.64 billion (2019 est.) note: data are in current year dollars<br>
-$4.91 billion (2018 est.) note: data are in current year dollars<br>
+$3.82 billion (2020 est.)<br>
+$5.64 billion (2019 est.)<br>
+$4.91 billion (2018 est.)<br>
+<strong>note:</strong> Data are in current year dollars and do not include illicit exports or re-exports.<br>
 
 **Exports - partners**<br>
 Russia 22%, Switzerland 20%, China 7%, Bulgaria 6%, Iraq 5%, Serbia 5%, Netherlands 5%, Germany 5% (2019)<br>
@@ -696,10 +692,6 @@ since November 2020, Russia has deployed about 2,000 peacekeeping troops to the 
 **Refugees and internally displaced persons**<br>
 _refugees (country of origin)_: 38,774 (Azerbaijan), 5,205 (Syria - ethnic Armenians) (mid-year 2021)<br>
 _stateless persons_: 892 (mid-year 2021)<br>
-
-**Trafficking in persons**<br>
-_current situation_: Armenians may be exploited domestically or abroad, and foreigners may be subjected to sex trafficking or forced labor in Armenia; Armenian women and children are exploited in sex and labor trafficking domestically, as well as sex trafficking in the UAE and Turkey; Armenian migrants experience forced labor in Russia, the UAE, and Turkey; Ukrainian, Belarusian, and Russian women working as dancers are vulnerable to sex trafficking, while Indian employment seekers are subjected to forced labor in Armenia<br>
-_tier rating_: <p>Tier 2 Watch List — Armenia does not fully meet the minimum standards for the elimination of trafficking but is making significant efforts to do so; law enforcement authorities did not conduct proactive investigations and relied on victims to self-identify; prevention efforts decreased and protection efforts were weak, with the government continuing to lack a formal victim-witness protection program; the government had no convictions, including convictions of complicit government employees, for the second consecutive year and has not had a forced labor conviction since 2014; legislation was passed to strengthen the health and labor body and training was provided to law enforcement officials; government and local NGOs provided legal, medical, and psychological assistance, housing, and monetary compensation to victims; however, civil society continued to provide reintegration and long-term support services without government funding (2020)</p><br>
 
 **Illicit drugs**<br>
 <p>a transit country for illicit drugs with its location between source countries Afghanistan and Iran and the markets of Europe and Russia</p><br>

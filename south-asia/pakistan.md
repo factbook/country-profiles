@@ -202,12 +202,6 @@ _unimproved: total_: total: 21.1% of population (2020 est.)<br>
 **HIV/AIDS - adult prevalence rate**<br>
 0.2% (2020 est.)<br>
 
-**HIV/AIDS - people living with HIV/AIDS**<br>
-200,000 (2020 est.)<br>
-
-**HIV/AIDS - deaths**<br>
-8,200 (2020 est.)<br>
-
 **Major infectious diseases**<br>
 _degree of risk_: high (2020)<br>
 _food or waterborne diseases_: bacterial diarrhea, hepatitis A and E, and typhoid fever<br>
@@ -462,6 +456,7 @@ $253.183 billion (2019 est.)<br>
 _Fitch rating_: B- (2018)<br>
 _Moody's rating_: B3 (2015)<br>
 _Standard & Poors rating_: B- (2019)<br>
+<strong>note: </strong>The year refers to the year in which the current credit rating was first obtained.<br>
 
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 24.4% (2016 est.)<br>
@@ -765,10 +760,6 @@ Haqqani Network; Harakat ul-Jihad-i-Islami; Harakat ul-Mujahidin; Hizbul Mujahid
 _refugees (country of origin)_: 2.62-2.88 million (1.28 million registered, 1.34-1.6&nbsp; million undocumented or otherwise categorized) (Afghanistan) (2022)<br>
 _IDPs_: 104,000 (primarily those who remain displaced by counter-terrorism and counter-insurgency operations and violent conflict between armed non-state groups in the Federally Administered Tribal Areas and Khyber-Paktunkwa Province; more than 1 million displaced in northern Waziristan in 2014; individuals also have been displaced by repeated monsoon floods) (2021)<br>
 _stateless persons_: 47 (mid-year 2021)<br>
-
-**Trafficking in persons**<br>
-_current situation_: human traffickers exploit domestic and foreign victims in Pakistan and Pakistanis abroad; the largest human trafficking problem is bonded labor, where traffickers exploit a debt assumed by a worker as part of the terms of employment, entrapping sometimes generations of a family; bonded laborers are forced to work in agriculture, brick kilns, fisheries, mining, textile manufacturing, bangle- and carpet-making; traffickers buy, sell, rent, and kidnap children for forced labor in begging, domestic work, small shops, sex trafficking and stealing; some children are maimed to bring in more money for begging; Afghans, Iranians, and Pakistanis are forced into drug trafficking in border areas and Karachi; Pakistani traffickers lure women and girls away from their families with promises of marriage and exploit the women and girls in sex trafficking; militant groups kidnap, buy, or recruit children and force them to spy, fight, and conduct suicide attacks in Pakistan and Afghanistan<br>
-_tier rating_: Tier 2 Watch List —<strong> </strong>Pakistan does not fully meet the minimum standards for the elimination of trafficking but is making significant efforts to do so; government efforts include convicting traffickers under the comprehensive human trafficking law, convicting more traffickers for bonded labor, and increasing registration of brick kilns nationwide for the oversight of workers traffickers target; more trafficking victims were identified; authorities initiated eight investigations against suspected traffickers of Pakistani victims overseas; authorities collaborated with international partners and foreign governments on anti-trafficking efforts; however, the government  significantly decreased investigations and prosecutions of sex traffickers; bonded labor exists on farms and in brick kilns in Punjab province; no action was taken against officials involved in trafficking; several high-profile trafficking cases were dropped during the reporting period; resources were lacking for the care of identified victims; Pakistan was downgraded to Tier 2 Watch List (2020)<br>
 
 **Illicit drugs**<br>
 <p>minor cultivator of opium poppy and cannabis with 1,400 hectares of poppy cultivated 2016; one of the world’s top transit corridors for opiates and cannabis products along with Afghanistan and Iran; precursor chemicals also pass through Pakistan as a major transit point for global distribution</p> <p> </p><br>

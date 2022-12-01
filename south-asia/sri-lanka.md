@@ -191,12 +191,6 @@ _unimproved: total_: total: 2.4% of population (2020 est.)<br>
 **HIV/AIDS - adult prevalence rate**<br>
 (2020 est.) <.1%<br>
 
-**HIV/AIDS - people living with HIV/AIDS**<br>
-3,700 (2020 est.)<br>
-
-**HIV/AIDS - deaths**<br>
-(2020 est.) <200<br>
-
 **Major infectious diseases**<br>
 _degree of risk_: intermediate (2020)<br>
 _vectorborne diseases_: dengue fever<br>
@@ -437,6 +431,7 @@ $84.016 billion (2019 est.)<br>
 _Fitch rating_: CCC (2020)<br>
 _Moody's rating_: Caa1 (2020)<br>
 _Standard & Poors rating_: CCC+ (2020)<br>
+<strong>note: </strong>The year refers to the year in which the current credit rating was first obtained.<br>
 
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 7.8% (2017 est.)<br>
@@ -732,8 +727,4 @@ Islamic State of Iraq and ash-Sham (ISIS); Liberation Tigers of Tamil Eelam (LTT
 
 **Refugees and internally displaced persons**<br>
 _IDPs_: 12,000 (civil war; more than half displaced prior to 2008; many of the more than 480,000 IDPs registered as returnees have not reached durable solutions) (2021)<br>
-
-**Trafficking in persons**<br>
-_current situation_: Sri Lanka is primarily a source and, to a much lesser extent, a destination country for men, women, and children subjected to forced labor and sex trafficking; the majority of trafficking cases involve traffickers forcing Sri Lankan workers into labor overseas; men, women, and children are subjected to forced labor in the Middle East, Asia, Europe, and the United States in construction, garment manufacturing, and domestic service; authorities have identified labor trafficking victims among Sri Lankan female migrant workers who seek employment in Saudi Arabia, Kuwait, Qatar, Japan, and South Korea; traffickers force children, individuals with physical deformities, and those from socially vulnerable groups to beg or engage in criminal activity in Sri Lanka&rsquo;s largest cities<br>
-_tier rating_: Tier 2 Watch List &mdash; Sri Lanka does not fully meet the minimum standards for the elimination of trafficking but is making significant efforts to do so; efforts include convicting traffickers under its trafficking statute, identifying victims, and working on anti-trafficking training and raising awareness; however, some officials reportedly complicit in trafficking are inadequately investigated; fewer victims were identified in country and abroad; social and legal assistance for victims remained inadequate and inconsistent; the Sri Lankan Bureau of Foreign Employment did not refer potential trafficking cases to police for criminal investigation; police continued to arrest&nbsp; trafficking victims for prostitution, vagrancy, and immigration offenses; child sex trafficking victims remained in government detention centers (2020)<br>
 

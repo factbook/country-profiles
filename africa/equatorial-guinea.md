@@ -159,7 +159,7 @@ _female_: 66.03 years (2022 est.)<br>
 4.26 children born/woman (2022 est.)<br>
 
 **Contraceptive prevalence rate**<br>
-12.6% (2011)<br>
+NA<br>
 
 **Drinking water source**<br>
 _improved: urban_: urban: 81.7% of population<br>
@@ -185,12 +185,6 @@ _unimproved: total_: total: 23.8% of population (2020 est.)<br>
 
 **HIV/AIDS - adult prevalence rate**<br>
 7.3% (2020 est.)<br>
-
-**HIV/AIDS - people living with HIV/AIDS**<br>
-68,000 (2020 est.)<br>
-
-**HIV/AIDS - deaths**<br>
-2,300 (2020 est.)<br>
 
 **Major infectious diseases**<br>
 _degree of risk_: very high (2020)<br>
@@ -337,7 +331,7 @@ _judge selection and term of office_: Supreme Court judges appointed by the pres
 _subordinate courts_: Court of Guarantees; military courts; Courts of Appeal; first instance tribunals; district and county tribunals<br>
 
 **Political parties and leaders**<br>
-Convergence Party for Social Democracy or CPDS [Andres ESONO ONDO]<br>Democratic Party for Equatorial Guinea or PDGE [Teodoro Obiang NGUEMA MBASOGO]<br>Electoral Coalition or EC<br>Juntos Podemos (coalition includes CPDS, FDR, UDC)<br>National Congress of Equatorial Guinea [Agustin MASOKO ABEGUE]<br>National Democratic Party [Benedicto OBIANG MANGUE]<br>National Union for Democracy [Thomas MBA MONABANG]<br>Popular Action of Equatorial Guinea or APGE [Carmelo MBA BACALE]<br>Popular Union or UP [Daniel MARTINEZ AYECABA]<br>Center Right Union or UCD [Avelino MOCACHE MEHENGA]<br><strong>not officially registered parties:<br></strong>Citizens for Innovation or CI [Gabriel Nse Obiang OBONO]<br>Democratic Republican Force or FDR [Guillermo NGUEMA ELA]<br>Party for Progress of Equatorial Guinea or PPGE [Severo MOTO NSA]<br>
+Convergence Party for Social Democracy or CPDS [Andres ESONO ONDO]<br>Democratic Party for Equatorial Guinea or PDGE [Teodoro Obiang NGUEMA MBASOGO]<br>Juntos Podemos (coalition includes CPDS, FDR, UDC)<br>National Congress of Equatorial Guinea [Agustin MASOKO ABEGUE]<br>National Democratic Party [Benedicto OBIANG MANGUE]<br>National Union for Democracy [Thomas MBA MONABANG]<br>Popular Action of Equatorial Guinea or APGE [Carmelo MBA BACALE]<br>Popular Union or UP [Daniel MARTINEZ AYECABA]<br>Center Right Union or UCD [Avelino MOCACHE MEHENGA]<br>
 
 **International organization participation**<br>
 ACP, AfDB, AU, BDEAC, CEMAC, CPLP, FAO, Francophonie, FZ, G-77, IBRD, ICAO, ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, IMO, Interpol, IOC, IPU, ITSO, ITU, MIGA, NAM, OAS (observer), OIF, OPCW, UN, UNCTAD, UNESCO, UNIDO, , UNWTO, UPU, WHO, WIPO, WTO (observer)<br>

@@ -83,7 +83,6 @@ landlocked; population concentrated in the southern and eastern parts of the cou
 
 **Population**<br>
 2,384,246 (2022 est.)<br>
-<strong>note:</strong> estimates for this country explicitly take into account the impact of the HIV/AIDS epidemic<br>
 
 **Nationality**<br>
 _noun_: Motswana (singular), Batswana (plural)<br>
@@ -196,12 +195,6 @@ _unimproved: total_: total: 14.4% of population (2020 est.)<br>
 
 **HIV/AIDS - adult prevalence rate**<br>
 19.9% (2020 est.)<br>
-
-**HIV/AIDS - people living with HIV/AIDS**<br>
-370,000 (2020 est.)<br>
-
-**HIV/AIDS - deaths**<br>
-5,100 (2020 est.)<br>
 
 **Major infectious diseases**<br>
 _degree of risk_: high (2020)<br>
@@ -441,6 +434,7 @@ $18.335 billion (2019 est.)<br>
 **Credit ratings**<br>
 _Moody's rating_: A2 (2020)<br>
 _Standard & Poors rating_: BBB+ (2020)<br>
+<strong>note: </strong>The year refers to the year in which the current credit rating was first obtained.<br>
 
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 1.8% (2017 est.)<br>
@@ -514,8 +508,9 @@ $2.146 billion (2017 est.)<br>
 $2.147 billion (2016 est.)<br>
 
 **Exports**<br>
-$6.16 billion (2019 est.) note: data are in current year dollars<br>
-$7.53 billion (2018 est.) note: data are in current year dollars<br>
+$6.16 billion (2019 est.)<br>
+$7.53 billion (2018 est.)<br>
+<strong>note:</strong> Data are in current year dollars and do not include illicit exports or re-exports.<br>
 
 **Exports - partners**<br>
 India 21%, Belgium 19%, United Arab Emirates 19%, South Africa 9%, Israel 7%, Hong Kong 6%, Singapore 5% (2019)<br>

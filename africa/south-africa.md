@@ -87,7 +87,6 @@ South Africa completely surrounds Lesotho and almost completely surrounds Eswati
 
 **Population**<br>
 57,516,665 (2022 est.)<br>
-<strong>note:</strong> estimates for this country explicitly taken into account the impact of the HIV/AIDS epidemic<br>
 
 **Nationality**<br>
 _noun_: South African(s)<br>
@@ -199,12 +198,6 @@ _unimproved: total_: total: 6.8% of population (2020 est.)<br>
 
 **HIV/AIDS - adult prevalence rate**<br>
 19.1% (2020 est.)<br>
-
-**HIV/AIDS - people living with HIV/AIDS**<br>
-7.8 million (2020 est.)<br>
-
-**HIV/AIDS - deaths**<br>
-83,000 (2020 est.)<br>
 
 **Major infectious diseases**<br>
 _degree of risk_: intermediate (2020)<br>
@@ -450,6 +443,7 @@ $350.032 billion (2019 est.)<br>
 _Fitch rating_: BB- (2020)<br>
 _Moody's rating_: Ba2 (2020)<br>
 _Standard & Poors rating_: BB- (2020)<br>
+<strong>note: </strong>The year refers to the year in which the current credit rating was first obtained.<br>
 
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 2.8% (2017 est.)<br>

@@ -185,12 +185,6 @@ _unimproved: total_: total: 0% of population (2020 est.)<br>
 **HIV/AIDS - adult prevalence rate**<br>
 NA<br>
 
-**HIV/AIDS - people living with HIV/AIDS**<br>
-NA<br>
-
-**HIV/AIDS - deaths**<br>
-NA<br>
-
 **Obesity - adult prevalence rate**<br>
 25.6% (2016)<br>
 
@@ -384,6 +378,7 @@ $2.712 billion (2016 est.)<br>
 **Credit ratings**<br>
 _Fitch rating_: BBB+ (2018)<br>
 _Standard & Poors rating_: BBB (2017)<br>
+<strong>note: </strong>The year refers to the year in which the current credit rating was first obtained.<br>
 
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 11.9% (2015 est.)<br>
@@ -435,6 +430,7 @@ calendar year<br>
 **Exports**<br>
 $78.71 million (2015 est.)<br>
 $79.57 million (2014 est.)<br>
+<strong>note:</strong> Data are in current year dollars and do not include illicit exports or re-exports.<br>
 
 **Exports - partners**<br>
 Spain 40%, France 19%, United States 11%, Mauritania 5% (2019)<br>

@@ -88,7 +88,6 @@ the Niger River enters the country in the northwest and flows southward through 
 
 **Population**<br>
 225,082,083 (2022 est.)<br>
-<strong>note:</strong> estimates for this country explicitly taken into account the impact of the HIV/AIDS epidemic<br>
 
 **Nationality**<br>
 _noun_: Nigerian(s)<br>
@@ -203,12 +202,6 @@ _unimproved: total_: total: 37.7% of population (2020 est.)<br>
 
 **HIV/AIDS - adult prevalence rate**<br>
 1.3% (2020 est.)<br>
-
-**HIV/AIDS - people living with HIV/AIDS**<br>
-1.7 million (2020 est.)<br>
-
-**HIV/AIDS - deaths**<br>
-49,000 (2020 est.)<br>
 
 **Major infectious diseases**<br>
 _degree of risk_: very high (2020)<br>
@@ -466,6 +459,7 @@ $475.062 billion (2019 est.)<br>
 _Fitch rating_: B (2020)<br>
 _Moody's rating_: B2 (2017)<br>
 _Standard & Poors rating_: B- (2020)<br>
+<strong>note: </strong>The year refers to the year in which the current credit rating was first obtained.<br>
 
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 21.1% (2016 est.)<br>
@@ -769,12 +763,8 @@ Boko Haram; Islamic State of Iraq and ash-Sham – West Africa; Jama’atu Ansar
 <p><em>Nigeria-Benin</em>: none identified</p> <p><em>Nigeria-Cameroon</em>: Joint Border Commission with Cameroon reviewed 2002 ICJ ruling on the entire boundary and bilaterally resolved differences, including June 2006 Greentree Agreement that immediately ceded sovereignty of the Bakassi Peninsula to Cameroon with a phaseout of Nigerian control within two years while resolving patriation issues; demarcation of the Bakassi Peninsula and adjoining border areas should be finalized in 2022; as Lake Chad’s evaporation exposed dry land, only Nigeria and Cameroon have heeded the Lake Chad Commission's admonition to ratify the delimitation treaty which also includes the Chad-Niger and Niger-Nigeria boundaries</p> <p><em>Nigeria-Cameroon-Equatorial Guinea</em>: the ICJ ruled on an equidistance settlement of Cameroon-Equatorial Guinea-Nigeria maritime boundary in the Gulf of Guinea, but imprecisely defined coordinates in the ICJ decision and a sovereignty dispute between Equatorial Guinea and Cameroon over an island at the mouth of the Ntem River all contribute to the delay in implementation</p> <p><em>Nigeria-Niger</em>: none identified</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 85,967 (Cameroon) (2022)<br>
+_refugees (country of origin)_: 87,054 (Cameroon) (2022)<br>
 _IDPs_: 3,030,544 (northeast Nigeria; Boko Haram attacks and counterinsurgency efforts in northern Nigeria; communal violence between Christians and Muslims in the middle belt region, political violence; flooding; forced evictions; cattle rustling; competition for resources) (2022)<br>
-
-**Trafficking in persons**<br>
-_current situation_: human traffickers exploit domestic and foreign victims in Nigeria along with victims from Nigeria abroad; internal trafficking involving recruiting victims from rural areas for commercial sex  and forced labor in domestic work, street vending, mining, agriculture, begging and textile <br>manufacturing; traffickers operate “baby factories” where women held against their will are raped and children are sold into forced labor or sex trafficking or rented to beggars to increase their profits; women are often taken to other West and Central African countries, South Africa, Europe and the Middle East for commercial sex; Boko Haram and ISIS-WA forcibly recruit, abduct, and use child soldiers as young as 12 as cooks, spies, messengers, bodyguards, armed combatants, and suicide bombers; they abduct women and girls in the northern region of Nigeria for sexual slavery and forced labor<br>
-_tier rating_: Tier 2 Watch List —<strong> </strong>Nigeria does not fully meet the minimum standards for the elimination of trafficking but is making significant efforts to do so; the government is continuing to train officials and raise public awareness; the government established anti-trafficking task forces in Borno and Ekiti states and used new technology to collect victim testimony; authorities prosecuted three government officials complicit in human trafficking; the government is drafting a memoranda of understanding that will improve coordination between government agencies; however, security forces used at least two children in support roles; some security officials were involved in sex trafficking; no criminal charges were made against military officials or members of the Civilian Joint Task Force for sex trafficking or the use of child soldiers; no protections were given to female and child trafficking victims allegedly associated with insurgencies; fewer traffickers were convicted; Nigeria was downgraded to Tier 2 Watch List (2020)<br>
 
 **Illicit drugs**<br>
 a significant source for cannabis cultivation and methamphetamine production; a major place for transnational drug trafficking networks that supply cocaine to Asia and Europe, heroin to Europe and North America, and methamphetamine to South Africa, Southeast Asia, Australia, and New Zealand; traffickers also involved in the transportation, facilitation, and distribution of illicitly diverted tramadol<br>

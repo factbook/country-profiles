@@ -189,12 +189,6 @@ _unimproved: total_: total: 0% of population (2020 est.)<br>
 **HIV/AIDS - adult prevalence rate**<br>
 (2017 est.) <.1%<br>
 
-**HIV/AIDS - people living with HIV/AIDS**<br>
-(2017 est.) <500<br>
-
-**HIV/AIDS - deaths**<br>
-(2017 est.) <100<br>
-
 **Obesity - adult prevalence rate**<br>
 29.8% (2016)<br>
 
@@ -419,6 +413,7 @@ $38.472 billion (2019 est.)<br>
 _Fitch rating_: B+ (2020)<br>
 _Moody's rating_: B2 (2018)<br>
 _Standard & Poors rating_: B+ (2017)<br>
+<strong>note: </strong>The year refers to the year in which the current credit rating was first obtained.<br>
 
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 0.3% (2017 est.)<br>
@@ -490,8 +485,9 @@ calendar year<br>
 -$1.493 billion (2016 est.)<br>
 
 **Exports**<br>
-$30.1 billion (2018 est.) note: data are in current year dollars<br>
+$30.1 billion (2018 est.)<br>
 $26.762 billion (2017 est.)<br>
+<strong>note:</strong> Data are in current year dollars and do not include illicit exports or re-exports.<br>
 
 **Exports - partners**<br>
 United Arab Emirates 31%, Saudi Arabia 12%, Japan 8%, United States 8% (2019)<br>

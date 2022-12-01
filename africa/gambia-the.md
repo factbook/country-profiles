@@ -171,8 +171,7 @@ _female_: 69.41 years (2022 est.)<br>
 3.79 children born/woman (2022 est.)<br>
 
 **Contraceptive prevalence rate**<br>
-16.8% (2018)<br>
-<strong>note:</strong> percent of women aged 15-49<br>
+18.9% (2019/20)<br>
 
 **Drinking water source**<br>
 _improved: urban_: urban: 91.8% of population<br>
@@ -201,12 +200,6 @@ _unimproved: total_: total: 40% of population (2020 est.)<br>
 
 **HIV/AIDS - adult prevalence rate**<br>
 1.8% (2020 est.)<br>
-
-**HIV/AIDS - people living with HIV/AIDS**<br>
-27,000 (2020 est.)<br>
-
-**HIV/AIDS - deaths**<br>
-1,300 (2020 est.)<br>
 
 **Major infectious diseases**<br>
 _degree of risk_: very high (2020)<br>
@@ -701,8 +694,4 @@ in 2017, several members of the Economic Community of West African States (ECOWA
 
 **Disputes - international**<br>
 <p>attempts to stem refugees, cross-border raids, arms smuggling, and other illegal activities by separatists from southern Senegal's Casamance region, as well as from conflicts in other west African states</p><br>
-
-**Trafficking in persons**<br>
-_current situation_: The Gambia is a source, transit, and destination country for women and children subjected to forced labor and sex trafficking; Gambian women, children, and, to a lesser extent, boys are exploited for prostitution and domestic servitude; women, girls, and boys from West African countries are trafficked to the Gambia for sexual exploitation, particularly catering to European tourists seeking sex with children; some Gambian trafficking victims have been identified in neighboring West African countries and the UK; boys in some Koranic schools are forced into street vending or begging<br>
-_tier rating_: Tier 2 Watch List &mdash; The Gambia does not meet the minimum standards for eliminating trafficking, but it is making significant efforts to do so; the government has increased investigations, identified more trafficking victims, improved security at a Department of Social Welfare shelter, increased training for officials, and raised public awareness of the problem of trafficking; the government was upgraded to Tier 2 Watch List during this rating period; despite these efforts, the government did not convict a trafficker for the third consecutive year; victim services remained inadequate, and some law enforcement officers reportedly requested&nbsp; bribes to register trafficking complaints (2020)<br>
 

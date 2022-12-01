@@ -75,7 +75,7 @@ Atlantic Ocean drainage: Congo (3,730,881 sq km), <em>(Mediterranean Sea)</em> N
 Congo Basin<br>
 
 **Population distribution**<br>
-urban clusters are spread throughout the country, particularly in the northeast along the boarder with Uganda, Rwanda, and Burundi; the largest city is the capital, Kinshasha, located in the west along the Congo River; the south is least densely populated as shown in this population distribution map<br>
+urban clusters are spread throughout the country, particularly in the northeast along the border with Uganda, Rwanda, and Burundi; the largest city is the capital, Kinshasha, located in the west along the Congo River; the south is least densely populated as shown in this population distribution map<br>
 
 **Natural hazards**<br>
 <p>periodic droughts in south; Congo River floods (seasonal); active volcanoes in the east along the Great Rift Valley</p><p><strong>volcanism:</strong> Nyiragongo (3,470 m), which erupted in 2002 and is experiencing ongoing activity, poses a major threat to the city of Goma, home to a quarter million people; the volcano produces unusually fast-moving lava, known to travel up to 100 km /hr; Nyiragongo has been deemed a Decade Volcano by the International Association of Volcanology and Chemistry of the Earth's Interior, worthy of study due to its explosive history and close proximity to human populations; its neighbor, Nyamuragira, which erupted in 2010, is Africa's most active volcano; Visoke is the only other historically active volcano</p><br>
@@ -87,7 +87,6 @@ urban clusters are spread throughout the country, particularly in the northeast 
 
 **Population**<br>
 108,407,721 (2022 est.)<br>
-<strong>note:</strong> estimates for this country explicitly taken into account the impact of the HIV/AIDS epidemic<br>
 
 **Nationality**<br>
 _noun_: Congolese (singular and plural)<br>
@@ -104,7 +103,7 @@ _major-language sample(s)_: <br>Buku oyo ya bosembo ya Mokili Mobimba Ezali na M
 Roman Catholic 29.9%, Protestant 26.7%, other Christian 36.5%, Kimbanguist 2.8%, Muslim 1.3%, other (includes syncretic sects and indigenous beliefs) 1.2%, none 1.3%, unspecified 0.2% (2014 est.)<br>
 
 **Demographic profile**<br>
-<p>Despite a wealth of fertile soil, hydroelectric power potential, and mineral resources, the Democratic Republic of the Congo (DRC) struggles with many socioeconomic problems, including high infant and maternal mortality rates, malnutrition, poor vaccination coverage, lack of access to improved water sources and sanitation, and frequent and early fertility. Ongoing conflict, mismanagement of resources, and a lack of investment have resulted in food insecurity; almost 30 percent of children under the age of 5 are malnourished. The overall coverage of basic public services – education, health, sanitation, and potable water – is very limited and piecemeal, with substantial regional and rural/urban disparities. Fertility remains high at almost 5 children per woman and is likely to remain high because of the low use of contraception and the cultural preference for larger families.</p><p>The DRC is a source and host country for refugees. Between 2012 and 2014, more than 119,000 Congolese refugees returned from the Republic of Congo to the relative stability of northwest DRC, but more than 540,000 Congolese refugees remained abroad as of year-end 2015. In addition, an estimated 3.9 million Congolese were internally displaced as of October 2017, the vast majority fleeing violence between rebel group and Congolese armed forces. Thousands of refugees have come to the DRC from neighboring countries, including Rwanda, the Central African Republic, and Burundi.</p><br>
+<p>Despite a wealth of fertile soil, hydroelectric power potential, and mineral resources, the Democratic Republic of the Congo (DRC) struggles with many socioeconomic problems, including high infant and maternal mortality rates, malnutrition, poor vaccination coverage, lack of access to improved water sources and sanitation, and frequent and early fertility. Ongoing conflict, mismanagement of resources, and a lack of investment have resulted in food insecurity; almost 30% of children under the age of 5 are malnourished. The overall coverage of basic public services – education, health, sanitation, and potable water – is very limited and piecemeal, with substantial regional and rural/urban disparities. Fertility remains high at more than 5 children per woman and is likely to remain high because of the low use of contraception and the cultural preference for larger families.</p> <p>The DRC is a source and host country for refugees. Between 2012 and 2014, more than 119,000 Congolese refugees returned from the Republic of Congo to the relative stability of northwest DRC, but more than 850,000 Congolese refugees and asylum seekers were hosted by neighboring countries as of December 2021. In addition, an estimated 5.5 million Congolese were internally displaced as of July 2022, the vast majority fleeing violence between rebel group and Congolese armed forces. Thousands of refugees have come to the DRC from neighboring countries, including Rwanda, the Central African Republic, South Sudan, and Burundi.</p><br>
 
 **Age structure**<br>
 _0-14 years_: 46.38% (male 23,757,297/female 23,449,057)<br>
@@ -137,7 +136,7 @@ _female_: 16.8 years (2020 est.)<br>
 -0.71 migrant(s)/1,000 population (2022 est.)<br>
 
 **Population distribution**<br>
-urban clusters are spread throughout the country, particularly in the northeast along the boarder with Uganda, Rwanda, and Burundi; the largest city is the capital, Kinshasha, located in the west along the Congo River; the south is least densely populated as shown in this population distribution map<br>
+urban clusters are spread throughout the country, particularly in the northeast along the border with Uganda, Rwanda, and Burundi; the largest city is the capital, Kinshasha, located in the west along the Congo River; the south is least densely populated as shown in this population distribution map<br>
 
 **Urbanization**<br>
 _urban population_: 46.8% of total population (2022)<br>
@@ -202,12 +201,6 @@ _unimproved: total_: total: 64.5% of population (2020 est.)<br>
 
 **HIV/AIDS - adult prevalence rate**<br>
 0.7% (2020 est.)<br>
-
-**HIV/AIDS - people living with HIV/AIDS**<br>
-510,000 (2020 est.)<br>
-
-**HIV/AIDS - deaths**<br>
-17,000 (2020 est.)<br>
 
 **Major infectious diseases**<br>
 _degree of risk_: very high (2020)<br>
@@ -465,6 +458,7 @@ $47.16 billion (2019 est.)<br>
 **Credit ratings**<br>
 _Moody's rating_: Caa1 (2019)<br>
 _Standard & Poors rating_: CCC+ (2017)<br>
+<strong>note: </strong>The year refers to the year in which the current credit rating was first obtained.<br>
 
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 19.7% (2017 est.)<br>
@@ -536,9 +530,10 @@ calendar year<br>
 -$1.215 billion (2016 est.)<br>
 
 **Exports**<br>
-$13.93 billion (2020 est.) note: data are in current year dollars<br>
-$15.17 billion (2019 est.) note: data are in current year dollars<br>
-$16.08 billion (2018 est.) note: data are in current year dollars<br>
+$13.93 billion (2020 est.)<br>
+$15.17 billion (2019 est.)<br>
+$16.08 billion (2018 est.)<br>
+<strong>note:</strong> Data are in current year dollars and do not include illicit exports or re-exports.<br>
 
 **Exports - partners**<br>
 China 53%, United Arab Emirates 11%, Saudi Arabia 6%, South Korea 5% (2019)<br>
@@ -757,7 +752,7 @@ Islamic State of Iraq and ash-Sham – Democratic Republic of the Congo (ISIS-DR
 <p>heads of the Great Lakes states and UN pledged in 2004 to abate tribal, rebel, and militia fighting in the region, including northeast Congo, where the UN Organization Mission in the Democratic Republic of the Congo (MONUC), organized in 1999, maintains over 16,500 uniformed peacekeepers<br><br><em>Democratic Republic of Congo(DRC)-Republic of the Congo: </em>the location of the boundary in the broad Congo River is indefinite except in the Pool Malebo/Stanley Pool area<br><br><em>Democratic Republic of Congo(DRC)-Uganda:</em> Uganda rejects the DRC claim to Margherita Peak in the Rwenzori mountains and considers it a boundary divide; there is tension and violence on Lake Albert over prospective oil reserves at the mouth of the Semliki River<br><br><em>Democratic Republic of Congo(DRC)-Zambia: </em>boundary commission continues discussions over Congolese-administered triangle of land on the right bank of the Lunkinda River claimed by Zambia near the DRC village of Pweto<br><br><em>Democratic Republic of Congo(DRC)-Angola: </em>DRC accuses Angola of shifting monuments</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 212,120 (Central African Republic), 209,761 (Rwanda), 56,653 (South Sudan) (refugees and asylum seekers), 41,836 (Burundi) (2022)<br>
+_refugees (country of origin)_: 212,120 (Central African Republic), 209,798 (Rwanda), 56,653 (South Sudan) (refugees and asylum seekers), 41,836 (Burundi) (2022)<br>
 _IDPs_: 5.53 million (fighting between government forces and rebels since mid-1990s; conflict in Kasai region since 2016) (2022)<br>
 
 **Trafficking in persons**<br>

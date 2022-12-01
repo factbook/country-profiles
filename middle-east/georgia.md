@@ -192,12 +192,6 @@ _unimproved: total_: total: 13.3% of population (2020 est.)<br>
 **HIV/AIDS - adult prevalence rate**<br>
 0.3% (2020 est.)<br>
 
-**HIV/AIDS - people living with HIV/AIDS**<br>
-9,100 (2020 est.)<br>
-
-**HIV/AIDS - deaths**<br>
-(2020 est.) <100<br>
-
 **Obesity - adult prevalence rate**<br>
 21.7% (2016)<br>
 
@@ -423,6 +417,7 @@ $17.694 billion (2019 est.)<br>
 _Fitch rating_: BB (2019)<br>
 _Moody's rating_: Ba2 (2017)<br>
 _Standard & Poors rating_: BB (2019)<br>
+<strong>note: </strong>The year refers to the year in which the current credit rating was first obtained.<br>
 
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 8.2% (2017 est.)<br>
@@ -705,7 +700,7 @@ as of 2022, up to 10,000 Russian troops continued to occupy the breakaway region
 <p>Russia's military support and subsequent recognition of Abkhazia and South Ossetia independence in 2008 continue to sour relations with Georgia</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 24,912 (Ukraine) (as of 1 November 2022)<br>
+_refugees (country of origin)_: 25,204 (Ukraine) (as of 15 November 2022)<br>
 _IDPs_: 305,000 (displaced in the 1990s as a result of armed conflict in the breakaway republics of Abkhazia and South Ossetia; displaced in 2008 by fighting between Georgia and Russia over South Ossetia) (2021)<br>
 _stateless persons_: 534 (mid-year 2021)<br>
 

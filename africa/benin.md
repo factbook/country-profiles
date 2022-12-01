@@ -79,7 +79,6 @@ sandbanks create difficult access to a coast with no natural harbors, river mout
 
 **Population**<br>
 13,754,688 (2022 est.)<br>
-<strong>note:</strong> estimates for this country explicitly take into account the impact of the HIV/AIDS epidemic<br>
 
 **Nationality**<br>
 _noun_: Beninese (singular and plural)<br>
@@ -196,12 +195,6 @@ _unimproved: total_: total: 63.4% of population (2020 est.)<br>
 
 **HIV/AIDS - adult prevalence rate**<br>
 0.9% (2020 est.)<br>
-
-**HIV/AIDS - people living with HIV/AIDS**<br>
-75,000 (2020 est.)<br>
-
-**HIV/AIDS - deaths**<br>
-2,000 (2020 est.)<br>
 
 **Major infectious diseases**<br>
 _degree of risk_: very high (2020)<br>
@@ -369,7 +362,7 @@ _election results_: Patrice TALON elected to a second term; percent of vote - Pa
 **Legislative branch**<br>
 _description_: unicameral National Assembly or Assemblee Nationale (83 seats - current 81; members directly elected in multi-seat constituencies by proportional representation vote; members serve 4-year terms)<br>
 _elections_: last held on 28 April 2019 (next to be held in April 2023)<br>
-_election results_: percent of vote by party - Union Progressiste 56.2%, Bloc Republicain 43.8%; seats by party - Union Progressiste 47, Bloc Republicain 36; composition as of February 2022) - men 75, women 6, percent of women 7.4%<br>
+_election results_: percent of vote by party - Union Progressiste 56.2%, Bloc Republicain 43.8%; seats by party - Union Progressiste 47, Bloc Republicain 36; composition as of February 2022 - men 75, women 6, percent of women 7.4%<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme Court or Cour Supreme (consists of the chief justice and 16 justices organized into an administrative division, judicial chamber, and chamber of accounts); Constitutional Court or Cour Constitutionnelle (consists of 7 members, including the court president); High Court of Justice (consists of the Constitutional Court members, 6 members appointed by the National Assembly, and the Supreme Court president); note - jurisdiction of the High Court of Justice is limited to cases of high treason by the national president or members of the government while in office<br>
@@ -448,6 +441,7 @@ $10.315 billion (2018 est.)<br>
 _Fitch rating_: B (2019)<br>
 _Moody's rating_: B2 (2019)<br>
 _Standard & Poors rating_: B+ (2018)<br>
+<strong>note: </strong>The year refers to the year in which the current credit rating was first obtained.<br>
 
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 26.1% (2017 est.)<br>
@@ -514,8 +508,9 @@ calendar year<br>
 -$808 million (2016 est.)<br>
 
 **Exports**<br>
-$3.58 billion (2019 est.) note: data are in current year dollars<br>
-$3.85 billion (2018 est.) note: data are in current year dollars<br>
+$3.58 billion (2019 est.)<br>
+$3.85 billion (2018 est.)<br>
+<strong>note:</strong> Data are in current year dollars and do not include illicit exports or re-exports.<br>
 
 **Exports - partners**<br>
 Nigeria 25%, Bangladesh 14%, United Arab Emirates 14%, India 13%, China 8%, Vietnam 5% (2019)<br>

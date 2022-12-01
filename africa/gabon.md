@@ -82,7 +82,6 @@ a small population and oil and mineral reserves have helped Gabon become one of 
 
 **Population**<br>
 2,340,613 (2022 est.)<br>
-<strong>note:</strong> estimates for this country explicitly taken into account the impact of the HIV/AIDS epidemic<br>
 
 **Nationality**<br>
 _noun_: Gabonese (singular and plural)<br>
@@ -199,12 +198,6 @@ _unimproved: total_: total: 21.3% of population (2020 est.)<br>
 
 **HIV/AIDS - adult prevalence rate**<br>
 3% (2020 est.)<br>
-
-**HIV/AIDS - people living with HIV/AIDS**<br>
-46,000 (2020 est.)<br>
-
-**HIV/AIDS - deaths**<br>
-(2020 est.) <1000<br>
 
 **Major infectious diseases**<br>
 _degree of risk_: very high (2020)<br>
@@ -428,6 +421,7 @@ $16.064 billion (2019 est.)<br>
 _Fitch rating_: CCC (2020)<br>
 _Moody's rating_: Caa1 (2018)<br>
 _Standard & Poors rating_: N/A (2016)<br>
+<strong>note: </strong>The year refers to the year in which the current credit rating was first obtained.<br>
 
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 5% (2017 est.)<br>

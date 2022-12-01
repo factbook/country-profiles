@@ -195,12 +195,6 @@ _unimproved: total_: total: 17.8% of population (2020 est.)<br>
 **HIV/AIDS - adult prevalence rate**<br>
 0.3% (2020 est.)<br>
 
-**HIV/AIDS - people living with HIV/AIDS**<br>
-15,000 (2020 est.)<br>
-
-**HIV/AIDS - deaths**<br>
-(2020 est.) <500<br>
-
 **Major infectious diseases**<br>
 _degree of risk_: very high (2020)<br>
 _food or waterborne diseases_: bacterial and protozoal diarrhea, hepatitis A, and typhoid fever<br>
@@ -437,6 +431,7 @@ $16.97 billion (2017 est.)<br>
 **Credit ratings**<br>
 _Fitch rating_: CCC (2020)<br>
 _Moody's rating_: Caa2 (2020)<br>
+<strong>note: </strong>The year refers to the year in which the current credit rating was first obtained.<br>
 
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 20.9% (2017 est.)<br>
@@ -620,7 +615,7 @@ _subscriptions per 100 inhabitants_: 56 (2020 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: Laos joined the World Trade Organization (WTO) in 2013; one of the conditions of admittance was to establish an independent regulator for its telecom sector within two years; the government had committed to do so by February 2015 as part of the accession agreement; there still has been no sign of any firm plans being made to create an independent regulatory body; the Ministry of Posts and Telecommunications (MPT) retains the primary role in regulating the country&rsquo;s telecom market; with the government also having a financial stake (in part or in whole) in every one of the major fixed-line and mobile operators, the MPT&rsquo;s position and decision-making is far from what could be considered independent; sufficient returns on investment cannot be guaranteed with such strict pricing controls as well as the potential for political interference; fixed-line and mobile penetration levels have, as a result, remained much lower than what&rsquo;s seen in neighboring South East Asian markets; there are signs of growth in the mobile broadband segment as LTE network coverage slowly widens and, more recently, the country&rsquo;s first 5G services start to come on stream; residents in the capital will at least be able to enjoy high-speed services in the near future, while the rest of the country waits patiently to catch up with the rest of the world. (2022)<br>
-_domestic_: fixed-line nearly 21 per 100 and 61 per 100 for mobile-cellular subscriptions (2019)<br>
+_domestic_: fixed-line nearly 20 per 100 and 56 per 100 for mobile-cellular subscriptions (2020)<br>
 _international_: country code - 856; satellite earth station - 1 Intersputnik (Indian Ocean region) and a second to be developed by China<br>
 <strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress toward 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>
 

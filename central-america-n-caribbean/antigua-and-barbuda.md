@@ -180,12 +180,6 @@ _unimproved: total_: total: 8.1% of population (2017 est.)<br>
 **HIV/AIDS - adult prevalence rate**<br>
 1.1% (2018 est.)<br>
 
-**HIV/AIDS - people living with HIV/AIDS**<br>
-(2018) <1,000<br>
-
-**HIV/AIDS - deaths**<br>
-(2018) <100<br>
-
 **Obesity - adult prevalence rate**<br>
 18.9% (2016)<br>
 
@@ -442,8 +436,9 @@ _expenditures_: 334 million (2017 est.)<br>
 $2 million (2016 est.)<br>
 
 **Exports**<br>
-$1.15 billion (2018 est.) note: data are in current year dollars<br>
+$1.15 billion (2018 est.)<br>
 $56.5 million (2016 est.)<br>
+<strong>note:</strong> Data are in current year dollars and do not include illicit exports or re-exports.<br>
 
 **Exports - partners**<br>
 Poland 37%, Suriname 33%, United Arab Emirates 8% (2019)<br>

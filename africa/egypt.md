@@ -208,12 +208,6 @@ _unimproved: total_: total: 1.1% of population (2020 est.)<br>
 **HIV/AIDS - adult prevalence rate**<br>
 (2020 est.) <.1%<br>
 
-**HIV/AIDS - people living with HIV/AIDS**<br>
-24,000 (2020 est.)<br>
-
-**HIV/AIDS - deaths**<br>
-(2020 est.) <500<br>
-
 **Major infectious diseases**<br>
 _degree of risk_: intermediate (2020)<br>
 _food or waterborne diseases_: bacterial diarrhea, hepatitis A, and typhoid fever<br>
@@ -455,6 +449,7 @@ $323.763 billion (2019 est.)<br>
 _Fitch rating_: B+ (2019)<br>
 _Moody's rating_: B2 (2019)<br>
 _Standard & Poors rating_: B (2018)<br>
+<strong>note: </strong>The year refers to the year in which the current credit rating was first obtained.<br>
 
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 11.7% (2017 est.)<br>
@@ -758,7 +753,7 @@ Army of Islam; Islamic State of Iraq and ash-Sham – Sinai Province (ISIS-SP); 
 <p>Sudan claims but Egypt de facto administers security and economic development of Halaib region north of the 22nd parallel boundary; Egypt no longer shows its administration of the Bir Tawil trapezoid in Sudan on its maps; Gazan breaches in the security wall with Egypt in January 2008 highlight difficulties in monitoring the Sinai border</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 70,022 (West Bank and Gaza Strip) (mid-year 2021); 144,768 (Syria), 52,446 (Sudan) (refugees and asylum seekers), 20,970 (South Sudan) (refugees and asylum seekers), 21,105 (Eritrea) (refugees and asylum seekers), 15,585 (Ethiopia) (refugees and asylum seekers), 10,025 (Yemen) (refugees and asylum seekers), 6,815 (Iraq) (refugees and asylum seekers), 6,802 (Somalia) (refugees and asylum seekers) (2022)<br>
+_refugees (country of origin)_: 70,022 (West Bank and Gaza Strip) (mid-year 2021); 144,683 (Syria), 52,446 (Sudan) (refugees and asylum seekers), 20,970 (South Sudan) (refugees and asylum seekers), 21,105 (Eritrea) (refugees and asylum seekers), 15,585 (Ethiopia) (refugees and asylum seekers), 10,025 (Yemen) (refugees and asylum seekers), 6,815 (Iraq) (refugees and asylum seekers), 6,802 (Somalia) (refugees and asylum seekers) (2022)<br>
 _stateless persons_: 7 (mid-year 2021)<br>
 
 **Illicit drugs**<br>

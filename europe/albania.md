@@ -197,14 +197,6 @@ _unimproved: total_: total: 0.1% of population (2020 est.)<br>
 **HIV/AIDS - adult prevalence rate**<br>
 (2020 est.) <.1<br>
 
-**HIV/AIDS - people living with HIV/AIDS**<br>
-1,400 (2020 est.)<br>
-<strong>note: </strong>estimate does not include children<br>
-
-**HIV/AIDS - deaths**<br>
-(2020 est.) &lt;100<br>
-<strong>note: </strong>estimate does not include children<br>
-
 **Obesity - adult prevalence rate**<br>
 21.7% (2016)<br>
 
@@ -509,9 +501,10 @@ calendar year<br>
 -$899 million (2016 est.)<br>
 
 **Exports**<br>
-$3.47 billion (2020 est.) note: data are in current year dollars<br>
-$4.82 billion (2019 est.) note: data are in current year dollars<br>
-$4.78 billion (2018 est.) note: data are in current year dollars<br>
+$3.47 billion (2020 est.)<br>
+$4.82 billion (2019 est.)<br>
+$4.78 billion (2018 est.)<br>
+<strong>note:</strong> Data are in current year dollars and do not include illicit exports or re-exports.<br>
 
 **Exports - partners**<br>
 Italy 45%, Spain 8%, Germany 6%, Greece 5%, France 4%, China 4% (2019)<br>
@@ -714,6 +707,7 @@ Islamic Revolutionary Guard Corps/Qods Force; Islamic State of Iraq and ash-Sham
 
 **Refugees and internally displaced persons**<br>
 _stateless persons_: 1,528 (mid-year 2021)<br>
+<strong>note:</strong> 40,186 estimated refugee and migrant arrivals (January 2015-October 2022)<br>
 
 **Illicit drugs**<br>
 <p>active transshipment point for Albanian narco-trafficking organizations moving illicit drugs such as cocaine and heroin from Turkey and countries in South America and Asia throughout Europe; significant source country for cannabis production</p><br>

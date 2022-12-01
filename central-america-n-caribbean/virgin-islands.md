@@ -178,12 +178,6 @@ _unimproved: total_: total: 0.6% of population (2020 est.)<br>
 **HIV/AIDS - adult prevalence rate**<br>
 NA<br>
 
-**HIV/AIDS - people living with HIV/AIDS**<br>
-NA<br>
-
-**HIV/AIDS - deaths**<br>
-NA<br>
-
 **Children under the age of 5 years underweight**<br>
 NA<br>
 
@@ -477,7 +471,7 @@ _subscriptions per 100 inhabitants_: 204.5 (2019)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: modern system with total digital switching, uses fiber-optic cable and microwave radio relay; good interisland and international connections; broadband access; expansion of&nbsp;FttP (Fiber to the Home) markets; LTE launches; regulatory development and expansion in several markets point to investment and focus on data (2020)<br>
-_domestic_: full range of services available; fixed-line roughly 72 per 100 persons, no recent teledensity numbers available for mobile-cellular usage, although it was approximately 75 per 100 in 2010 (2018)<br>
+_domestic_: fixed-line 75 per 100 persons, with mobile-cellular 77 per 100 (2020)<br>
 _international_: country code - 1-340; landing points for the BSCS, St Thomas-ST Croix System, Southern Caribbean Fiber, Americas II, GCN, MAC, PAN-AM and SAC submarine cable connections to US, the Caribbean, Central and South America; satellite earth stations - NA (2020)<br>
 <strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress toward 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>
 

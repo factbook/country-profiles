@@ -195,14 +195,6 @@ _unimproved: total_: total: 2% of population (2020 est.)<br>
 **HIV/AIDS - adult prevalence rate**<br>
 (2020 est.) <.1%<br>
 
-**HIV/AIDS - people living with HIV/AIDS**<br>
-(2020 est.) &lt;500<br>
-<strong>note: </strong>estimate does not include children<br>
-
-**HIV/AIDS - deaths**<br>
-(2020 est.) &lt;100<br>
-<strong>note: </strong>estimate does not include children<br>
-
 **Major infectious diseases**<br>
 _degree of risk_: intermediate (2020)<br>
 _food or waterborne diseases_: bacterial diarrhea<br>
@@ -441,6 +433,7 @@ $5.486 billion (2019 est.)<br>
 **Credit ratings**<br>
 _Moody's rating_: B1 (2016)<br>
 _Standard & Poors rating_: B+ (2014)<br>
+<strong>note: </strong>The year refers to the year in which the current credit rating was first obtained.<br>
 
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 7.5% (2016 est.)<br>
@@ -718,7 +711,7 @@ Montenegro became a member of NATO in 2017; as of 2022, Greece and Italy provide
 **Refugees and internally displaced persons**<br>
 _refugees (country of origin)_: 28,639 (Ukraine) (as of 1 November 2022)<br>
 _stateless persons_: 458 (mid-year 2021)<br>
-<strong>note:</strong> 27,811 estimated refugee and migrant arrivals (January 2015-November 2022)<br>
+<strong>note:</strong> 28,034 estimated refugee and migrant arrivals (January 2015-November 2022)<br>
 
 **Illicit drugs**<br>
 <p>drug trafficking groups are major players in the procurement and transportation of large quantities of cocaine  destined for  European markets</p><br>

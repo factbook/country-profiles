@@ -174,7 +174,7 @@ _female_: 67.75 years (2022 est.)<br>
 3.53 children born/woman (2022 est.)<br>
 
 **Contraceptive prevalence rate**<br>
-17.8% (2015)<br>
+11.5% (2019/20)<br>
 
 **Drinking water source**<br>
 _improved: urban_: urban: 98.7% of population<br>
@@ -200,12 +200,6 @@ _unimproved: total_: total: 42.5% of population (2020 est.)<br>
 
 **HIV/AIDS - adult prevalence rate**<br>
 0.3% (2020 est.)<br>
-
-**HIV/AIDS - people living with HIV/AIDS**<br>
-8,500 (2020 est.)<br>
-
-**HIV/AIDS - deaths**<br>
-(2020 est.) <500<br>
 
 **Major infectious diseases**<br>
 _degree of risk_: very high (2020)<br>
@@ -737,7 +731,7 @@ Al-Qa'ida in the Islamic Maghreb (AQIM)<br>
 <p><em>Mauritania-Algeria</em>: none identified</p> <p><em>Mauritania-Mali</em>: there are no border disputes, but the border has not been demarcated; talks on demarcation were reportedly being held in February 2022</p> <p><em>Mauritania-Morocco</em>: Mauritanian claims to Western Sahara remain dormant; tensions arose in 2016 when Mauritanian soldiers were deployed to Lagouira, a city in the southernmost part of Morocco, and raised their flag</p> <p><em>Mauritania-Senegal</em>: none identified</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 26,001 (Sahrawis) (mid-year 2021); 90,240 (Mali) (2022)<br>
+_refugees (country of origin)_: 26,001 (Sahrawis) (mid-year 2021); 97,127 (Mali) (2022)<br>
 
 **Trafficking in persons**<br>
 _current situation_: Mauritania is a source, transit, and destination country for men, women, and children subjected to conditions of forced labor and sex trafficking; adults and children from traditional slave castes are subjected to slavery-related practices rooted in ancestral master-slave relationships; Mauritanian boys&nbsp; are trafficked within the country by religious teachers for forced begging; Mauritanian girls, as well as girls from Mali, Senegal, The Gambia, and other West African countries, are forced into domestic servitude; Mauritanian women and girls are forced into prostitution in the country or transported to countries in the Middle East for the same purpose<br>

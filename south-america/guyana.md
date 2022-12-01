@@ -79,7 +79,6 @@ the third-smallest country in South America after Suriname and Uruguay; substant
 
 **Population**<br>
 789,683 (2022 est.)<br>
-<strong>note:</strong> estimates for this country explicitly taken into account the impact of the HIV/AIDS epidemic<br>
 
 **Nationality**<br>
 _noun_: Guyanese (singular and plural)<br>
@@ -167,7 +166,7 @@ _female_: 73.8 years (2022 est.)<br>
 2.06 children born/woman (2022 est.)<br>
 
 **Contraceptive prevalence rate**<br>
-33.9% (2014)<br>
+29.9% (2019/20)<br>
 
 **Drinking water source**<br>
 _improved: urban_: urban: 100% of population<br>
@@ -196,12 +195,6 @@ _unimproved: total_: total: 4% of population (2020 est.)<br>
 
 **HIV/AIDS - adult prevalence rate**<br>
 1.3% (2020 est.)<br>
-
-**HIV/AIDS - people living with HIV/AIDS**<br>
-9,000 (2020 est.)<br>
-
-**HIV/AIDS - deaths**<br>
-(2020 est.) <200<br>
 
 **Major infectious diseases**<br>
 _degree of risk_: very high (2020)<br>

@@ -200,12 +200,6 @@ _unimproved: total_: total: 4.2% of population (2020 est.)<br>
 **HIV/AIDS - adult prevalence rate**<br>
 0.5% (2020 est.)<br>
 
-**HIV/AIDS - people living with HIV/AIDS**<br>
-100,000 (2020 est.)<br>
-
-**HIV/AIDS - deaths**<br>
-4,200 (2020 est.)<br>
-
 **Major infectious diseases**<br>
 _degree of risk_: high (2020)<br>
 _food or waterborne diseases_: bacterial diarrhea and hepatitis A<br>
@@ -428,6 +422,7 @@ $210.1 billion (2017 est.)<br>
 _Fitch rating_: RD (2017)<br>
 _Moody's rating_: WR (2019)<br>
 _Standard & Poors rating_: SD (2017)<br>
+<strong>note: </strong>The year refers to the year in which the current credit rating was first obtained.<br>
 
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 4.7% (2017 est.)<br>

@@ -80,7 +80,6 @@ landlocked, an enclave of (completely surrounded by) South Africa; mountainous, 
 
 **Population**<br>
 2,193,970 (2022 est.)<br>
-<strong>note:</strong> estimates for this country explicitly taken into account the impact of the HIV/AIDS epidemic<br>
 
 **Nationality**<br>
 _noun_: Mosotho (singular), Basotho (plural)<br>
@@ -194,12 +193,6 @@ _unimproved: total_: total: 28.6% of population (2020 est.)<br>
 
 **HIV/AIDS - adult prevalence rate**<br>
 21.1% (2020 est.)<br>
-
-**HIV/AIDS - people living with HIV/AIDS**<br>
-280,000 (2020 est.)<br>
-
-**HIV/AIDS - deaths**<br>
-4,700 (2020 est.)<br>
 
 **Major infectious diseases**<br>
 _degree of risk_: intermediate (2020)<br>
@@ -437,6 +430,7 @@ $2.462 billion (2019 est.)<br>
 
 **Credit ratings**<br>
 _Fitch rating_: B (2019)<br>
+<strong>note: </strong>The year refers to the year in which the current credit rating was first obtained.<br>
 
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 5.8% (2016 est.)<br>
@@ -693,8 +687,4 @@ Lesotho's declared policy for its military is the maintenance of the country's s
 
 **Disputes - international**<br>
 <p><em>Lesotho-South Africa</em>: South Africa has placed military units to assist police operations along the border of Lesotho, Zimbabwe, and Mozambique to control smuggling, poaching, and illegal migration</p> <p> </p><br>
-
-**Trafficking in persons**<br>
-_current situation_: Lesotho is a source, transit, and destination country for women and children subjected to forced labor and sex trafficking and for men subjected to forced labor; Basotho women and children are subjected to domestic servitude and children, to a lesser extent, commercial sexual exploitation within Lesotho and South Africa; some Basotho women willingly migrate to South Africa seeking work in domestic service only to be forced into prostitution; some Basotho men who voluntarily migrate to South Africa for work become victims of forced labor in agriculture and mining or are coerced into committing crimes<br>
-_tier rating_: Tier 3 &mdash; Lesotho does not fully meet the minimum standards for the elimination of trafficking and is not making significant efforts to do so, therefore it was downgraded to Tier 3; positive steps included partnering with an NGO and an international organization in awareness-raising activities, participating in a regional data collection tool, and training 27 diplomats on trafficking in persons; however, authorities did not investigate, prosecute, or convict any traffickers or officials complicit in trafficking and did not investigate concerns of official complicity in trafficking crimes restricted law enforcement actions; fewer victims were identified and received no protective services; no standard operating procedures for victim identification or implementation of the national referral mechanism; the government did not finance &nbsp;the Victims of Trafficking Trust Fund or the Child and Gender Protection Unit; front-line responders to trafficking crimes are inadequately trained; penalties for human trafficking are not stringent enough to serve as a deterrent (2020)<br>
 

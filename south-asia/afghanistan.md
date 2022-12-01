@@ -200,12 +200,6 @@ _unimproved: total_: total: 38.6% of population (2020 est.)<br>
 **HIV/AIDS - adult prevalence rate**<br>
 (2020 est.) <.1%<br>
 
-**HIV/AIDS - people living with HIV/AIDS**<br>
-12,000 (2020 est.)<br>
-
-**HIV/AIDS - deaths**<br>
-(2020 est.) <1,000<br>
-
 **Major infectious diseases**<br>
 _degree of risk_: intermediate (2020)<br>
 _food or waterborne diseases_: bacterial diarrhea, hepatitis A, and typhoid fever<br>
@@ -517,10 +511,10 @@ $1.014 billion (2017 est.)<br>
 $1.409 billion (2016 est.)<br>
 
 **Exports**<br>
-$1.48 billion (2020 est.) note: data are in current year dollars<br>
-$1.52 billion (2019 est.) note: data are in current year dollars<br>
-$1.61 billion (2018 est.) note: data are in current year dollars<br>
-<strong>note:</strong> not including illicit exports or reexports<br>
+$1.48 billion (2020 est.)<br>
+$1.52 billion (2019 est.)<br>
+$1.61 billion (2018 est.)<br>
+<strong>note:</strong> Data are in current year dollars and do not include illicit exports or re-exports.<br>
 
 **Exports - partners**<br>
 United Arab Emirates 45%, Pakistan 24%, India 22%, China 1% (2019)<br>

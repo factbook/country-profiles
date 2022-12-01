@@ -164,8 +164,7 @@ _female_: 79.97 years (2022 est.)<br>
 1.51 children born/woman (2022 est.)<br>
 
 **Contraceptive prevalence rate**<br>
-71.2% (2017)<br>
-<strong>note:</strong>  percent of women aged 18-49<br>
+52.6% (2019)<br>
 
 **Drinking water source**<br>
 _improved: urban_: urban: 100% of population<br>
@@ -194,14 +193,6 @@ _unimproved: total_: total: 0.5% of population (2020 est.)<br>
 
 **HIV/AIDS - adult prevalence rate**<br>
 0.5% (2020 est.)<br>
-
-**HIV/AIDS - people living with HIV/AIDS**<br>
-28,000 (2020 est.)<br>
-<strong>note: </strong>estimate does not include children<br>
-
-**HIV/AIDS - deaths**<br>
-(2020 est.) &lt;200<br>
-<strong>note: </strong>estimate does not include children<br>
 
 **Obesity - adult prevalence rate**<br>
 24.5% (2016)<br>
@@ -435,6 +426,7 @@ $63.168 billion (2019 est.)<br>
 _Fitch rating_: B (2018)<br>
 _Moody's rating_: B3 (2018)<br>
 _Standard & Poors rating_: B (2017)<br>
+<strong>note: </strong>The year refers to the year in which the current credit rating was first obtained.<br>
 
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 8.1% (2017 est.)<br>
@@ -509,9 +501,10 @@ calendar year<br>
 -$1.669 billion (2016 est.)<br>
 
 **Exports**<br>
-$37.04 billion (2020 est.) note: data are in current year dollars<br>
-$41.97 billion (2019 est.) note: data are in current year dollars<br>
-$42.27 billion (2018 est.) note: data are in current year dollars<br>
+$37.04 billion (2020 est.)<br>
+$41.97 billion (2019 est.)<br>
+$42.27 billion (2018 est.)<br>
+<strong>note:</strong> Data are in current year dollars and do not include illicit exports or re-exports.<br>
 
 **Exports - partners**<br>
 Russia 42%, Ukraine 13%, United Kingdom 7% (2019)<br>
@@ -713,7 +706,7 @@ the inventory of the Belarus Armed Forces is comprised mostly of Russian/Soviet-
 <strong>note:</strong> conscripts can be assigned to the military, to the Ministry of Interior as internal or border troops, or to the Ministry of Labor and Social Protection (alternative service); as of 2020, conscripts comprised an estimated 40% of the military<br>
 
 **Military - note**<br>
-Belarus has close security ties with Russia, including an integrated air and missile defense system, joint training exercises, and the establishment of three joint training centers since 2020 (1 in Belarus, 2 in Russia); Russia has been the principal supplier of arms to Belarus, and Belarusian troops reportedly train on Russian equipment; Russia leases from Belarus a strategic ballistic missile defense site operated by Russian Aerospace Forces and a global communications facility for the Russian Navy; in 2020, the countries signed an agreement allowing for close security cooperation between the Belarusian Ministry of Interior and the Russian National Guard, including protecting public order and key government facilities, and combating extremism and terrorism; in 2022, Belarus allowed Russian military forces to stage on its territory during its invasion of Ukraine<br><br>Belarus has been a member of the Collective Security Treaty Organization (CSTO) since 1994 and contributes an airborne brigade to CSTO's rapid reaction force (KSOR) (2022)<br>
+Belarus has close security ties with Russia, including an integrated air and missile defense system, joint training exercises, and the establishment of three joint training centers since 2020 (1 in Belarus, 2 in Russia); Russia has been the principal supplier of arms to Belarus, and Belarusian troops reportedly train on Russian equipment; Russia leases from Belarus a strategic ballistic missile defense site operated by Russian Aerospace Forces and a global communications facility for the Russian Navy; in 2020, the countries signed an agreement allowing for close security cooperation between the Belarusian Ministry of Interior and the Russian National Guard, including protecting public order and key government facilities, and combating extremism and terrorism; in 2022, Belarus allowed Russian military forces to stage on its territory for its invasion of Ukraine<br><br>Belarus has been a member of the Collective Security Treaty Organization (CSTO) since 1994 and contributes an airborne brigade to CSTO's rapid reaction force (KSOR) (2022)<br>
 
 ## Transnational Issues
 
@@ -721,7 +714,7 @@ Belarus has close security ties with Russia, including an integrated air and mis
 <p><em>Belarus-Latvia:</em> Boundary demarcated with Latvia.<br><br><em>Belarus-Lithuania:</em> Boundary demarcated with Lithuania.<br><br><em>Belarus-Poland:</em> As a member state that forms part of the EU's external border, Poland has implemented strict Schengen border rules to restrict illegal immigration and trade along its border with Belarus.</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 16,571 (Ukraine) (as of 7 November 2022)<br>
+_refugees (country of origin)_: 16,433 (Ukraine) (as of 22 November 2022)<br>
 _stateless persons_: 6,104 (mid-year 2021)<br>
 
 **Trafficking in persons**<br>

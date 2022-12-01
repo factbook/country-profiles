@@ -200,14 +200,6 @@ _unimproved: total_: total: 2.1% of population (2020 est.)<br>
 **HIV/AIDS - adult prevalence rate**<br>
 (2020 est.) <.1%<br>
 
-**HIV/AIDS - people living with HIV/AIDS**<br>
-3,300 (2020 est.)<br>
-<strong>note: </strong>estimate does not include children<br>
-
-**HIV/AIDS - deaths**<br>
-(2020 est.) &lt;100<br>
-<strong>note: </strong>estimate does not include children<br>
-
 **Major infectious diseases**<br>
 _degree of risk_: intermediate (2020)<br>
 _food or waterborne diseases_: bacterial diarrhea<br>
@@ -451,6 +443,7 @@ $51.449 billion (2019 est.)<br>
 _Fitch rating_: BB+ (2019)<br>
 _Moody's rating_: Ba3 (2017)<br>
 _Standard & Poors rating_: BB+ (2019)<br>
+<strong>note: </strong>The year refers to the year in which the current credit rating was first obtained.<br>
 
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 9.8% (2017 est.)<br>
@@ -730,10 +723,10 @@ the Serbian Armed Forces were established in June 2006; the Serbian military tra
 <p><em>Serbia-Bosnia and Herzegovina</em>: Serbia delimited about half of the boundary with Bosnia and Herzegovina, but sections along the Drina River remain in dispute</p> <p><em>Serbia-Bulgaria</em>: none identified</p> <p><em>Serbia-Croatia</em>: Serbia and Croatia dispute their border along the Danube; Serbia claims the border is the median between the current Danube shorelines, with the land to the eastern side of the median belonging to Serbia; Croatia contends that the boundary is demarcated according to historic maps, despite the river having meandered since then</p> <p><em>Serbia-Hungary</em>: none identified</p> <p><em>Serbia-Kosovo</em>: Serbia with several other states protested the US and other states' recognition of Kosovo's declaration of its status as a sovereign and independent state in February 2008; ethnic Serbian municipalities along Kosovo's northern border challenge final status of Kosovo-Serbia boundary; since 1999, NATO-led Kosovo Force peacekeepers under UN Interim Administration Mission in Kosovo (UNMIK) authority have continued to keep the peace within Kosovo between the ethnic Albanian majority and the Serb minority; in October 2021, NATO-led KFOR increased patrols along the border with Serbia to deescalate hostilities caused by a dispute over license plates</p> <p><em>Serbia-Montenegro</em>: the former republic boundary serves as the boundary until a line is formally delimited and demarcated</p> <p><em>Serbia-North Macedonia</em>: none identified</p> <p><em>Serbia-Romania</em>: none identified</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 17,336 (Croatia), 7,997 (Bosnia and Herzegovina) (mid-year 2021); 22,019 (Ukraine) (includes Ukrainian refugees in Kosovo; as of 8 November 2022)<br>
+_refugees (country of origin)_: 17,336 (Croatia), 7,997 (Bosnia and Herzegovina) (mid-year 2021); 22,716 (Ukraine) (includes Ukrainian refugees in Kosovo; as of 22 November 2022)<br>
 _IDPs_: 196,995 (most are Kosovar Serbs, some are Roma, Ashkalis, and Egyptian (RAE); some RAE IDPs are unregistered) (2021)<br>
 _stateless persons_: 2,113 (includes stateless persons in Kosovo) (mid-year 2021)<br>
-<strong>note:</strong> 915,658 estimated refugee and migrant arrivals (January 2015-November 2022); Serbia is predominantly a transit country and hosts an estimated 6,313 migrants and asylum seekers as of June 2022<br>
+<strong>note:</strong> 918,319 estimated refugee and migrant arrivals (January 2015-November 2022); Serbia is predominantly a transit country and hosts an estimated 6,313 migrants and asylum seekers as of June 2022<br>
 
 **Illicit drugs**<br>
 <p>drug trafficking groups are major players in the procurement and transportation of large quantities of cocaine destined for European markets</p><br>

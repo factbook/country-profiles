@@ -193,14 +193,6 @@ _unimproved: total_: total: 12.8% of population (2020 est.)<br>
 **HIV/AIDS - adult prevalence rate**<br>
 1% (2020 est.)<br>
 
-**HIV/AIDS - people living with HIV/AIDS**<br>
-31,000 (2020 est.)<br>
-<strong>note: </strong>estimate does not include children<br>
-
-**HIV/AIDS - deaths**<br>
-(2020 est.) &lt;500<br>
-<strong>note: </strong>estimate does not include children<br>
-
 **Major infectious diseases**<br>
 _degree of risk_: intermediate (2020)<br>
 _food or waterborne diseases_: bacterial diarrhea<br>
@@ -430,6 +422,7 @@ $66.801 billion (2019 est.)<br>
 _Fitch rating_: BBB (2011)<br>
 _Moody's rating_: Baa1 (2019)<br>
 _Standard & Poors rating_: BBB (2020)<br>
+<strong>note: </strong>The year refers to the year in which the current credit rating was first obtained.<br>
 
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 2.4% (2017 est.)<br>

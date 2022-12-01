@@ -88,7 +88,6 @@ highest density is found in the highlands of the north and middle areas of the c
 
 **Population**<br>
 113,656,596 (2022 est.)<br>
-<strong>note:</strong> estimates for this country explicitly taken into account the impact of the HIV/AIDS epidemic<br>
 
 **Nationality**<br>
 _noun_: Ethiopian(s)<br>
@@ -177,7 +176,7 @@ _female_: 70.44 years (2022 est.)<br>
 3.99 children born/woman (2022 est.)<br>
 
 **Contraceptive prevalence rate**<br>
-37% (2019)<br>
+37.7% (2020)<br>
 
 **Drinking water source**<br>
 _improved: urban_: urban: 98.5% of population<br>
@@ -206,12 +205,6 @@ _unimproved: total_: total: 82.3% of population (2020 est.)<br>
 
 **HIV/AIDS - adult prevalence rate**<br>
 0.9% (2020 est.)<br>
-
-**HIV/AIDS - people living with HIV/AIDS**<br>
-620,000 (2020 est.)<br>
-
-**HIV/AIDS - deaths**<br>
-13,000 (2020 est.)<br>
 
 **Major infectious diseases**<br>
 _degree of risk_: very high (2020)<br>
@@ -476,6 +469,7 @@ $92.154 billion (2019 est.)<br>
 _Fitch rating_: B (2014)<br>
 _Moody's rating_: B2 (2020)<br>
 _Standard & Poors rating_: B (2014)<br>
+<strong>note: </strong>The year refers to the year in which the current credit rating was first obtained.<br>
 
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 34.8% (2017 est.)<br>
@@ -761,8 +755,8 @@ al-Shabaab; Islamic Revolutionary Guard Corps (IRGC)/Qods Force<br>
 <p><em>Ethiopia-Eritrea:</em> Eritrea and Ethiopia agreed to abide by the 2002 Eritrea-Ethiopia Boundary Commission's (EEBC) delimitation decision, but neither party responded to the revised line detailed in the November 2006 EEBC Demarcation Statement <br><br><em>Ethiopia-Somalia:</em> While border clashes continue in the al-Fashqa (Fashaga) area, the US views the 1902 boundary treaty between Ethiopia and Sudan as being in force; the undemarcated former British administrative line has little meaning as a political separation to rival clans within Ethiopia's Ogaden and southern Somalia's Oromo region; Ethiopian forces invaded southern Somalia and routed Islamist courts from Mogadishu in January 2007; "Somaliland" secessionists provide port facilities in Berbera and trade ties to landlocked Ethiopia; <br><br><em>Ethiopia-Sudan:</em> Ethiopia's construction of a large dam (the Grand Ethiopian Renaissance Dam) on the Blue Nile since 2011 has become a focal point of relations with Egypt and Sudan; as of 2020, four years of three-way talks between the three capitals over operating the dam and filling its reservoir had made little progress; Ethiopia began filling the dam in July 2020; civil unrest in eastern Sudan has hampered efforts to demarcate the porous boundary with Ethiopia</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 407,382 (South Sudan), 251,126 (Somalia), 161,963 (Eritrea), 48,132 (Sudan) (2022)<br>
-_IDPs_: 2,114,653 (includes conflict- and climate-induced IDPs, excluding unverified estimates from the Amhara region; border war with Eritrea from 1998-2000; ethnic clashes; and ongoing fighting between the Ethiopian military and separatist rebel groups in the Somali and Oromia regions; natural disasters; intercommunal violence; most IDPs live in Sumale state) (2021)<br>
+_refugees (country of origin)_: 407,382 (South Sudan), 251,126 (Somalia), 162,011 (Eritrea), 48,445 (Sudan) (2022)<br>
+_IDPs_: 2.72 million (includes conflict- and climate-induced IDPs, excluding unverified estimates from the Amhara region; border war with Eritrea from 1998-2000; ethnic clashes; and ongoing fighting between the Ethiopian military and separatist rebel groups in the Somali and Oromia regions; natural disasters; intercommunal violence; most IDPs live in Sumale state) (2022)<br>
 
 **Illicit drugs**<br>
 transit hub for heroin originating in Southwest and Southeast Asia and destined for Europe, as well as cocaine destined for markets in southern Africa; cultivates qat (khat) for local use and regional export, principally to Djibouti and Somalia (legal in all three countries); the lack of a well-developed financial system limits the country's utility as a money laundering center<br>

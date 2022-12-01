@@ -188,12 +188,6 @@ _unimproved: total_: total: 51% of population (2017 est.)<br>
 **HIV/AIDS - adult prevalence rate**<br>
 (2020 est.) <0.1%<br>
 
-**HIV/AIDS - people living with HIV/AIDS**<br>
-(2020 est.) <200<br>
-
-**HIV/AIDS - deaths**<br>
-(2020 est.) <100<br>
-
 **Obesity - adult prevalence rate**<br>
 7.8% (2016)<br>
 
@@ -470,8 +464,9 @@ calendar year<br>
 -$45 million (2016 est.)<br>
 
 **Exports**<br>
-$140 million (2019 est.) note: data are in current year dollars<br>
-$150 million (2018 est.) note: data are in current year dollars<br>
+$140 million (2019 est.)<br>
+$150 million (2018 est.)<br>
+<strong>note:</strong> Data are in current year dollars and do not include illicit exports or re-exports.<br>
 
 **Exports - partners**<br>
 France 32%, India 23%, Germany 10%, Turkey 9%, Madagascar 7% (2019)<br>

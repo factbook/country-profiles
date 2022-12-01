@@ -178,12 +178,6 @@ _unimproved: total_: total: NA<br>
 **HIV/AIDS - adult prevalence rate**<br>
 NA<br>
 
-**HIV/AIDS - people living with HIV/AIDS**<br>
-NA<br>
-
-**HIV/AIDS - deaths**<br>
-NA<br>
-
 **Children under the age of 5 years underweight**<br>
 NA<br>
 
@@ -343,6 +337,7 @@ $6.792 billion (2015 est.)<br>
 **Credit ratings**<br>
 _Moody's rating_: Aa3 (2020)<br>
 _Standard & Poors rating_: N/A (2014)<br>
+<strong>note: </strong>The year refers to the year in which the current credit rating was first obtained.<br>
 
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 1% (FY12/13 est.)<br>

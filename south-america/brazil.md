@@ -175,8 +175,7 @@ _female_: 79.5 years (2022 est.)<br>
 1.8 children born/woman (2022 est.)<br>
 
 **Contraceptive prevalence rate**<br>
-80.2% (2013)<br>
-<strong>note:</strong> percent of women aged 18-49<br>
+80.5% (2019)<br>
 
 **Drinking water source**<br>
 _improved: urban_: urban: 99.8% of population<br>
@@ -205,12 +204,6 @@ _unimproved: total_: total: 9.8% of population (2020 est.)<br>
 
 **HIV/AIDS - adult prevalence rate**<br>
 0.6% (2020 est.)<br>
-
-**HIV/AIDS - people living with HIV/AIDS**<br>
-930,000 (2020 est.)<br>
-
-**HIV/AIDS - deaths**<br>
-13,000 (2020 est.)<br>
 
 **Major infectious diseases**<br>
 _degree of risk_: very high (2020)<br>
@@ -462,6 +455,7 @@ $1,877,942,000,000 (2019 est.)<br>
 _Fitch rating_: BB- (2018)<br>
 _Moody's rating_: Ba2 (2016)<br>
 _Standard & Poors rating_: BB- (2018)<br>
+<strong>note: </strong>The year refers to the year in which the current credit rating was first obtained.<br>
 
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 6.6% (2017 est.)<br>
@@ -536,9 +530,10 @@ calendar year<br>
 -$41.54 billion (2018 est.)<br>
 
 **Exports**<br>
-$239.18 billion (2020 est.) note: data are in current year dollars<br>
-$260.07 billion (2019 est.) note: data are in current year dollars<br>
-$274.9 billion (2018 est.) note: data are in current year dollars<br>
+$239.18 billion (2020 est.)<br>
+$260.07 billion (2019 est.)<br>
+$274.9 billion (2018 est.)<br>
+<strong>note:</strong> Data are in current year dollars and do not include illicit exports or re-exports.<br>
 
 **Exports - partners**<br>
 China 28%, United States 13% (2019)<br>

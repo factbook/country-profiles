@@ -191,12 +191,6 @@ _unimproved: total_: total: 52.5% of population (2020 est.)<br>
 **HIV/AIDS - adult prevalence rate**<br>
 1.1% (2020 est.)<br>
 
-**HIV/AIDS - people living with HIV/AIDS**<br>
-35,000 (2020 est.)<br>
-
-**HIV/AIDS - deaths**<br>
-1,300 (2020 est.)<br>
-
 **Major infectious diseases**<br>
 _degree of risk_: very high (2020)<br>
 _food or waterborne diseases_: bacterial and protozoal diarrhea, hepatitis A, and typhoid fever<br>
@@ -608,7 +602,7 @@ _subscriptions per 100 inhabitants_: 33 (2020 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: Liberia has a telecom market which is mainly based on mobile networks; this is due to the civil war which destroyed much of the fixed-line infrastructure; to facilitate LTC Mobile&rsquo;s market entry, the government in January 2022 set in train amendments to telecom legislation; internet services are available from a number of wireless ISPs as well as the mobile operators; the high cost and limited bandwidth of connections means that internet access is expensive and rates are very low; additional bandwidth is available from an international submarine cable but considerable investment is still needed in domestic fixed-line infrastructure before end-users can make full use of the cable (2022)<br>
-_domestic_: fixed-line less than 1 per 100; mobile-cellular subscription base growing and teledensity approached 57 per 100 persons (2019)<br>
+_domestic_: fixed-line less than 1 per 100; mobile-cellular subscription base growing and teledensity approached 33 per 100 persons (2020)<br>
 _international_: country code - 231; landing point for the ACE submarine cable&nbsp;linking 20 West&nbsp;African countries and Europe;&nbsp;satellite earth station - 1 Intelsat (Atlantic Ocean) (2019)<br>
 <strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress toward 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>
 

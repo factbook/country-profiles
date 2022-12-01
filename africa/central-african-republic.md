@@ -83,7 +83,6 @@ landlocked; almost the precise center of Africa<br>
 
 **Population**<br>
 5,454,533 (2022 est.)<br>
-<strong>note:</strong> estimates for this country explicitly taken into account the impact of the HIV/AIDS epidemic<br>
 
 **Nationality**<br>
 _noun_: Central African(s)<br>
@@ -197,12 +196,6 @@ _unimproved: total_: total: 70.1% of population (2020 est.)<br>
 
 **HIV/AIDS - adult prevalence rate**<br>
 2.9% (2020 est.)<br>
-
-**HIV/AIDS - people living with HIV/AIDS**<br>
-88,000 (2020 est.)<br>
-
-**HIV/AIDS - deaths**<br>
-3,200 (2020 est.)<br>
 
 **Major infectious diseases**<br>
 _degree of risk_: very high (2020)<br>
@@ -506,6 +499,7 @@ calendar year<br>
 **Exports**<br>
 $113.7 million (2017 est.)<br>
 $101.5 million (2016 est.)<br>
+<strong>note:</strong> Data are in current year dollars and do not include illicit exports or re-exports.<br>
 
 **Exports - partners**<br>
 China 41%, United Arab Emirates 19%, France 7% (2019)<br>
@@ -701,6 +695,6 @@ the 2013 coup resulted in the institutional collapse of the FACA; its forces wer
 <p><em>Central African Republic-South Sudan:</em> periodic violent skirmishes persist among related pastoral populations along the border with South Sudan over water and grazing rights</p> <p><em>Central African Republic-Sudan: </em>periodic violent skirmishes persist among related pastoral populations along the border with Sudan over water and grazing rights</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 6,342 (Democratic Republic of Congo) (2022)<br>
+_refugees (country of origin)_: 6,351 (Democratic Republic of Congo) (2022)<br>
 _IDPs_: 484,335 (clashes between army and rebel groups since 2005; tensions between ethnic groups) (2022)<br>
 

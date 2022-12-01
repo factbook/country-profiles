@@ -83,7 +83,6 @@ landlocked; the Zambezi forms a natural riverine boundary with Zambia; in full f
 
 **Population**<br>
 15,121,004 (2022 est.)<br>
-<strong>note:</strong> estimates for this country explicitly taken into account the impact of the HIV/AIDS epidemic<br>
 
 **Nationality**<br>
 _noun_: Zimbabwean(s)<br>
@@ -200,12 +199,6 @@ _unimproved: total_: total: 35.8% of population (2017 est.)<br>
 
 **HIV/AIDS - adult prevalence rate**<br>
 11.9% (2020 est.)<br>
-
-**HIV/AIDS - people living with HIV/AIDS**<br>
-1.3 million (2020 est.)<br>
-
-**HIV/AIDS - deaths**<br>
-22,000 (2020 est.)<br>
 
 **Major infectious diseases**<br>
 _degree of risk_: high (2020)<br>

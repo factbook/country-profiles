@@ -191,12 +191,6 @@ _unimproved: total_: total: 46.6% of population (2020 est.)<br>
 **HIV/AIDS - adult prevalence rate**<br>
 0.3% (2020 est.)<br>
 
-**HIV/AIDS - people living with HIV/AIDS**<br>
-(2020) <1,000<br>
-
-**HIV/AIDS - deaths**<br>
-(2020) <100<br>
-
 **Major infectious diseases**<br>
 _degree of risk_: high (2020)<br>
 _food or waterborne diseases_: bacterial diarrhea, hepatitis A, and typhoid fever<br>

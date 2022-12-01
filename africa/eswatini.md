@@ -74,7 +74,6 @@ landlocked; almost completely surrounded by South Africa<br>
 
 **Population**<br>
 1,121,761 (2022 est.)<br>
-<strong>note:</strong> estimates for this country explicitly taken into account the impact of the HIV/AIDS epidemic<br>
 
 **Nationality**<br>
 _noun_: liSwati (singular), emaSwati (plural); note - former term, Swazi(s), still used among English speakers<br>
@@ -187,12 +186,6 @@ _unimproved: total_: total: 14.1% of population (2020 est.)<br>
 
 **HIV/AIDS - adult prevalence rate**<br>
 26.8% (2020 est.)<br>
-
-**HIV/AIDS - people living with HIV/AIDS**<br>
-200,000 (2020 est.)<br>
-
-**HIV/AIDS - deaths**<br>
-2,400 (2020 est.)<br>
 
 **Major infectious diseases**<br>
 _degree of risk_: intermediate (2020)<br>
@@ -419,6 +412,7 @@ $4.484 billion (2019 est.)<br>
 
 **Credit ratings**<br>
 _Moody's rating_: B3 (2020)<br>
+<strong>note: </strong>The year refers to the year in which the current credit rating was first obtained.<br>
 
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 6.5% (2017 est.)<br>

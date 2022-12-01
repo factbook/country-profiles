@@ -202,12 +202,6 @@ _unimproved: total_: total: 0.8% of population (2020 est.)<br>
 **HIV/AIDS - adult prevalence rate**<br>
 0.4% (2020 est.)<br>
 
-**HIV/AIDS - people living with HIV/AIDS**<br>
-12,000 (2020 est.)<br>
-
-**HIV/AIDS - deaths**<br>
-(2020 est.) <200<br>
-
 **Obesity - adult prevalence rate**<br>
 27.9% (2016)<br>
 
@@ -438,6 +432,7 @@ $56.108 billion (2019 est.)<br>
 _Fitch rating_: BBB- (2013)<br>
 _Moody's rating_: Baa2 (2014)<br>
 _Standard & Poors rating_: BBB (2015)<br>
+<strong>note: </strong>The year refers to the year in which the current credit rating was first obtained.<br>
 
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 6.2% (2017 est.)<br>
@@ -622,7 +617,7 @@ _subscriptions per 100 inhabitants_: 138.08 (2019)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: Uruguay has an advanced telecom market, with excellent infrastructure and one of the highest broadband penetration rates in Latin America; fixed-line teledensity is also particularly high for the region, while mobile penetration is the second highest after Panama; in terms of computer penetration, Uruguay tops all other countries in the region by a considerable margin, and this has facilitated growth in fixed-line broadband adoption; the government and telecom regulator have introduced a range of measures to help develop the deployment of fiber infrastructure, partly in a bid to encourage economic growth and stimulate e-commerce; fiber accounted for about 77% of all fixed and fixed-wireless broadband connections as of June 2020; with investment projected to reach $800 million, the state-owned incumbent Antel is expected to provide national FttP coverage by early 2022; together with the FttP network, the opening of the submarine cable system in early 2012 and August 2017 have helped boost Uruguay&rsquo;s internet bandwidth, and increase the data rate available to end-users; Uruguay is one of the very few Latin American countries where the local fixed-line market is neither privatized nor liberalized; other segments of the telecom market have been opened to competition, including international long-distance telephony, mobile telephony, and fixed-wireless broadband; Uruguay is also one of the few countries in the world where broadband access via cable modem does not exist; although cable networks are well equipped technologically, and digital cable TV is widely available, telecom legislation prohibits data transmission over pay TV networks; the government announced in December 2020 that it intended to introduce changes to the law to permit pay TV providers to offer internet and telephony packages over their own networks; all three operators offer mobile broadband through 3G and LTE networks; operators have achieved nationwide 3G coverage and the number of mobile broadband subscribers continues to grow; at the end of 2019, spectrum in the 5G-suitable range was auctioned, enabling operators to launch 5G services; the regulator is working on a spectrum and connectivity policy that emphasizes 5G (2021)<br>
-_domestic_: most modern facilities concentrated in Montevideo; nationwide microwave radio relay network; overall fixed-line roughly 34 per 100 and mobile-cellular teledensity 138 per 100 persons (2019)<br>
+_domestic_: most modern facilities concentrated in Montevideo; nationwide microwave radio relay network; overall fixed-line roughly 35 per 100 and mobile-cellular teledensity 131 per 100 persons (2020)<br>
 _international_: country code - 598; landing points for the Unisor, Tannat, and Bicentenario&nbsp;submarine cable system providing direct connectivity to Brazil and Argentina; Bicentenario 2012 and Tannat&nbsp;2017 cables helped end-users with Internet bandwidth; satellite earth stations - 2 Intelsat (Atlantic Ocean) (2020)<br>
 <strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress toward 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>
 

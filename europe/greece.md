@@ -191,14 +191,6 @@ _unimproved: total_: total: 0% of population (2020 est.)<br>
 **HIV/AIDS - adult prevalence rate**<br>
 0.2% (2020 est.)<br>
 
-**HIV/AIDS - people living with HIV/AIDS**<br>
-17,000 (2020 est.)<br>
-<strong>note: </strong>estimate does not include children<br>
-
-**HIV/AIDS - deaths**<br>
-(2020 est.) &lt;100<br>
-<strong>note: </strong>estimate does not include children<br>
-
 **Obesity - adult prevalence rate**<br>
 24.9% (2016)<br>
 
@@ -423,6 +415,7 @@ $209.79 billion (2019 est.)<br>
 _Fitch rating_: BB (2020)<br>
 _Moody's rating_: Ba3 (2020)<br>
 _Standard & Poors rating_: BB- (2019)<br>
+<strong>note: </strong>The year refers to the year in which the current credit rating was first obtained.<br>
 
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 4.1% (2017 est.)<br>
@@ -723,7 +716,7 @@ Islamic State of Iraq and ash-Sham (ISIS); Revolutionary Struggle; Revolutionary
 **Refugees and internally displaced persons**<br>
 _refugees (country of origin)_: 38,496 (Syria), 25,188 (Afghanistan), 12,657 (Iraq), 5,002 (West Bank and Gaza) (mid-year 2021); 19,997 (Ukraine) (as of 8 November 2022)<br>
 _stateless persons_: 5,552 (mid-year 2021)<br>
-<strong>note:</strong> 1,227,836 estimated refugee and migrant arrivals (January 2015-November 2022); as of the end of February 2022, Greece hosted an estimated 161,419 refugees and asylum seekers<br>
+<strong>note:</strong> 1,228,228 estimated refugee and migrant arrivals (January 2015-November 2022); as of the end of February 2022, Greece hosted an estimated 161,419 refugees and asylum seekers<br>
 
 **Illicit drugs**<br>
 a gateway to Europe for traffickers smuggling cannabis products and heroin from the Middle East and Southwest Asia to the West and precursor chemicals to the East; some South American cocaine transits or is consumed in Greece; money laundering related to drug trafficking and organized crime<br>

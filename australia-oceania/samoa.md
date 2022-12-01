@@ -182,12 +182,6 @@ _unimproved: total_: total: 0.5% of population (2020 est.)<br>
 **HIV/AIDS - adult prevalence rate**<br>
 NA<br>
 
-**HIV/AIDS - people living with HIV/AIDS**<br>
-NA<br>
-
-**HIV/AIDS - deaths**<br>
-NA<br>
-
 **Major infectious diseases**<br>
 _degree of risk_: high (2020)<br>
 _food or waterborne diseases_: bacterial diarrhea<br>
@@ -583,7 +577,7 @@ _subscriptions per 100 inhabitants_: 35 (2020 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: Samoa was one of the first Pacific Island countries to establish a regulatory infrastructure and to liberalize its telecom market; the advent of competition in the mobile market saw prices fall by around 50% and network coverage increase to more than 90% of the population; Samoa also boasts one of the highest rates of mobile phone coverage in the Pacific region; the growth of fixed-line internet has been impeded by factors including the high costs for bandwidth, under investment in fixed-line infrastructure; Samoa&rsquo;s telecoms sector has been inhibited by a lack of international connectivity; Samoa has had access to the Samoa-America-Samoa (SAS) cable laid in 2009, this cable has insufficient capacity to meet the country&rsquo;s future bandwidth needs; this issue was addressed with two new submarine cables that became available in 2018 and 2019; combined with the Samoa National Broadband Highway (SNBH), have improved internet data rates and reliability, and have helped to reduce the high costs previously associated with internet access in Samoa; in April 2022, the Samoan government announced its decision to take over control of the Samoa Submarine Cable Company, looking to the cable to generate additional revenue for the state (2022)<br>
-_domestic_: fixed-line roughly 4 per 100 and mobile-cellular teledensity nearly 64 telephones per 100 persons (2019)<br>
+_domestic_: fixed-line roughly 3 per 100 and mobile-cellular teledensity nearly 35 telephones per 100 persons (2020)<br>
 _international_: country code - 685; landing points for the Tui-Samo, Manatua, SAS, and Southern Cross NEXT submarine cables providing connectivity to Samoa, Fiji,&nbsp;Wallis&nbsp;&amp; Futuna, Cook Islands, Niue, French Polynesia, American Samoa, Australia, New Zealand, Kiribati, Los Angeles (US), and Tokelau;&nbsp;satellite earth station - 1 Intelsat (Pacific Ocean) (2019)<br>
 <strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress toward 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>
 

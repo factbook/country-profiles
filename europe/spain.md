@@ -198,14 +198,6 @@ _unimproved: total_: total: 0% of population (2020 est.)<br>
 **HIV/AIDS - adult prevalence rate**<br>
 0.4% (2020 est.)<br>
 
-**HIV/AIDS - people living with HIV/AIDS**<br>
-150,000 (2020 est.)<br>
-<strong>note: </strong>estimate does not include children<br>
-
-**HIV/AIDS - deaths**<br>
-(2020) &lt;1,000<br>
-<strong>note: </strong>estimate does not include children<br>
-
 **Major infectious diseases**<br>
 _respiratory diseases_: Covid-19 (see note) (2020)<br>
 <strong>note:</strong> widespread ongoing transmission of a respiratory illness caused by the novel coronavirus (COVID-19) is occurring throughout Spain; as of 18 August 2022, Spain has reported a total of 13,306,301 cases of COVID-19 or 28,112.33 cumulative cases of COVID-19 per 100,000 population with a total of 111,906 cumulative deaths or a rate of 236.42 cumulative deaths per 100,000 population; as of 10 August 2022, 86.94% of the population has received at least one dose of COVID-19 vaccine; the Department of Homeland Security has issued instructions requiring US passengers who have been in Spain to travel through select airports where the US Government has implemented enhanced screening procedures<br>
@@ -443,6 +435,7 @@ $1,393,351,000,000 (2019 est.)<br>
 _Fitch rating_: A- (2018)<br>
 _Moody's rating_: Baa1 (2018)<br>
 _Standard & Poors rating_: A (2019)<br>
+<strong>note: </strong>The year refers to the year in which the current credit rating was first obtained.<br>
 
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 2.6% (2017 est.)<br>
@@ -744,9 +737,9 @@ Islamic State of Iraq and ash-Sham (ISIS); al-Qa’ida<br>
 <p><em>Spain-Andorra</em>: none identified</p> <p><em>Spain-France</em>: none identified</p> <p><em>Spain-Gibraltar (UK)</em>: in 2002, Gibraltar residents voted overwhelmingly by referendum to reject any "shared sovereignty" arrangement; the Government of Gibraltar insists on equal participation in talks between the UK and Spain; Spain does not recognize British sovereignty beyond the original fortified perimeter of the city and disapproves of UK plans to grant Gibraltar greater autonomy; after voters in the UK chose to leave the EU in a June 2016 referendum, Spain again proposed shared sovereignty of Gibraltar; UK officials rejected Spain’s joint sovereignty proposal</p> <p><em>Spain-Morocco</em>: Morocco protests Spain's control over the coastal enclaves of Ceuta, Melilla, and the islands of Penon de Velez de la Gomera, Penon de Alhucemas, and Islas Chafarinas, and surrounding waters; both countries claim Isla Perejil (Leila Island), which remains unoccupied but was the site of a  military standoff in 2002; Morocco serves as the primary embarkation area for illegal migration into mainland Spain from North Africa</p> <p><em>Spain-Portugal</em>: Portugal does not recognize Spanish sovereignty over the territory of Olivenza based on a difference of interpretation of the 1815 Congress of Vienna and the 1801 Treaty of Badajoz</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 14,823 (Syria) (mid-year 2021); 418,200 (Venezuela) (economic and political crisis; includes Venezuelans who have claimed asylum, are recognized as refugees, or have received alternative legal stay) (2021); 151,786 (Ukraine) (as of 7 November 2022)<br>
+_refugees (country of origin)_: 14,823 (Syria) (mid-year 2021); 418,200 (Venezuela) (economic and political crisis; includes Venezuelans who have claimed asylum, are recognized as refugees, or have received alternative legal stay) (2021); 154,457 (Ukraine) (as of 21 November 2022)<br>
 _stateless persons_: 692 (mid-year 2021)<br>
-<strong>note: </strong>276,667 estimated refugee and migrant arrivals, including Canary Islands (January 2015-November 2022)<br>
+<strong>note: </strong>276,683 estimated refugee and migrant arrivals, including Canary Islands (January 2015-November 2022)<br>
 
 **Illicit drugs**<br>
 primary transit point in Europe for cocaine from South America and for hashish from Morocco; cocaine is shipped in raw or liquid form with mixed cargo to avoid detection; traffickers ship methamphetamine via express mail; increasing number of indoor cannabis production; illegal labs cutting, mixing, and reconstituting cocaine, and heroin and methamphetamine labs; synthetic drugs, including ketamine and MDMA (ecstasy) transit from Spain to the United States<br>

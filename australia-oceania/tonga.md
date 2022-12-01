@@ -186,12 +186,6 @@ _unimproved: total_: total: 1.1% of population (2020 est.)<br>
 **HIV/AIDS - adult prevalence rate**<br>
 NA<br>
 
-**HIV/AIDS - people living with HIV/AIDS**<br>
-NA<br>
-
-**HIV/AIDS - deaths**<br>
-NA<br>
-
 **Major infectious diseases**<br>
 _degree of risk_: high (2020)<br>
 _food or waterborne diseases_: bacterial diarrhea<br>
@@ -590,7 +584,7 @@ _subscriptions per 100 inhabitants_: 59.43 (2019)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: high speed Internet provided by 3 MNOs, has subsequently allowed for better health care services, faster connections for education and growing e-commerce services; in 2018 new 4G LTE network; fixed-line teledensity has dropped given mobile subscriptions; mobile technology dominates given the island's geography; satellite technology is widespread and is important especially in areas away from the city; the launch in 2019 of the Kacific-1 broadband satellite has made broadband more widely available for around 89 remote communities (2020)<br>
-_domestic_: fixed-line 6 per 100 persons and mobile-cellular teledensity 59 telephones per 100; fully automatic switched network (2019)<br>
+_domestic_: fixed-line 7 per 100 persons and mobile-cellular teledensity 59 telephones per 100; fully automatic switched network (2020)<br>
 _international_: country code - 676; landing point for the Tonga Cable and the TDCE connecting to Fiji and 3 separate Tonga islands; satellite earth station - 1 Intelsat (Pacific Ocean) (2020)<br>
 <strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress toward 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>
 

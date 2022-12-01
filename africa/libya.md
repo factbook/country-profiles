@@ -198,12 +198,6 @@ _unimproved: total_: total: 0.7% of population (2020 est.)<br>
 **HIV/AIDS - adult prevalence rate**<br>
 0.1% (2020 est.)<br>
 
-**HIV/AIDS - people living with HIV/AIDS**<br>
-9,500 (2020)<br>
-
-**HIV/AIDS - deaths**<br>
-(2020) <100<br>
-
 **Obesity - adult prevalence rate**<br>
 32.5% (2016)<br>
 
@@ -584,7 +578,7 @@ _subscriptions per 100 inhabitants_: 43 (2020 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: political and security instability in Libya has disrupted its telecom sector; much of its infrastructure remains superior to that in most other African countries; rival operators fight for control; investment in fiber backbone and upgrades to international cables; limited LTE and 5G service; some satellite broadband; in 2021 Libya signed deals and projects with US firms to upgrade portions of its infrastructure, increasing the diversity of its telecommunications networks (2022)<br>
-_domestic_: nearly 24 per 100 fixed-line and over 91 per 100 mobile-cellular subscriptions; service generally adequate (2019)<br>
+_domestic_: nearly 23 per 100 fixed-line and over 43 per 100 mobile-cellular subscriptions; service generally adequate (2020)<br>
 _international_: country code - 218; landing points for LFON, EIG, Italy-Libya, Silphium and Tobrok-Emasaed&nbsp;submarine cable system connecting Europe, Africa, the Middle East and Asia; satellite earth stations - 4 Intelsat, Arabsat, and Intersputnik;&nbsp; microwave radio relay to Tunisia and Egypt; tropospheric scatter to Greece; participant in Medarabtel (2019)<br>
 <strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress toward 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>
 
@@ -670,7 +664,7 @@ both the forces aligned with the GNU and the LNA are largely equipped with weapo
 not available<br>
 
 **Military - note**<br>
-Turkey has been the primary backer of the GNU/GNA; Turkish military advisers have trained and assisted western/GNU Libyan forces in accordance with a 2019 Turkey-GNA security agreement; Turkey has also provided thousands of Syrian mercenaries to Libya, as well as ammunition, weapons and aerial drones; Russia, the United Arab Emirates, and Egypt have been the main supporters of the LNA; the LNA has used fighters from other countries, including Chad, Sudan, and Syria <br><br>as of 2022, ISIS continued to maintain a relatively weak presence in Libya with small bands of fighters operating out of ungoverned spaces and conducting small-scale attacks throughout the country<br>
+Turkey has been the primary backer of the GNU/GNA; Turkish military advisers have trained and assisted western/GNU Libyan forces in accordance with a 2019 Turkey-GNA security agreement; Turkey has also provided thousands of Syrian mercenaries to Libya, as well as ammunition, weapons and aerial drones; Russia, the United Arab Emirates, and Egypt have been the main supporters of the LNA; the LNA has used fighters from other countries, including Chad, Sudan, and Syria <br><br>as of 2022, ISIS continued to maintain a relatively weak presence in Libya with small bands of fighters operating out of ungoverned spaces and conducting small-scale attacks throughout the country (2022)<br>
 
 ## Terrorism
 
@@ -684,6 +678,6 @@ Ansar al-Sharia groups; Islamic State of Iraq and ash-Sham - Libya (ISIS-L); al-
 <p><em>Libya-Algeria:</em> dormant disputes include Libyan claims of about 32,000 sq km still reflected on its maps of southeastern Algeria<br><br><em>Libya-Chad:</em> various Chadian rebels from the Aozou region reside in southern Libya; Libyan forces clashed with Chadian rebels in September 2021</p> <p><em>Libya-Egypt</em>: none identified</p> <p><em>Libya-Niger</em>: the boundary is poorly defined but has never been disputed by either country</p> <p><em>Libya-Sudan</em>: none identified</p> <p><em>Libya-Tunisia</em>: none identified</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 17,452 (Sudan) (refugees and asylum seekers), 16,481 (Syria) (refugees and asylum seekers) (2022)<br>
+_refugees (country of origin)_: 18,322 (Sudan) (refugees and asylum seekers), 15,325 (Syria) (refugees and asylum seekers), 5,004 (Eritrea) (2022)<br>
 _IDPs_: 159,996 (conflict between pro-QADHAFI and anti-QADHAFI forces in 2011; post-QADHAFI tribal clashes 2014) (2022)<br>
 

@@ -185,12 +185,6 @@ _unimproved: total_: total: 75.4% of population (2020 est.)<br>
 **HIV/AIDS - adult prevalence rate**<br>
 2.3% (2020 est.)<br>
 
-**HIV/AIDS - people living with HIV/AIDS**<br>
-180,000 (2020 est.)<br>
-
-**HIV/AIDS - deaths**<br>
-8,900 (2020 est.)<br>
-
 **Major infectious diseases**<br>
 _degree of risk_: very high (2020)<br>
 _food or waterborne diseases_: bacterial and protozoal diarrhea, hepatitis A and E, and typhoid fever<br>
@@ -536,7 +530,7 @@ _subscriptions per 100 inhabitants_: 20.09 (2019)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: following a referendum, oil-rich South Sudan seceded from Sudan in 2011 and became an independent nation; having been deprived of investment for decades, it inherited one of the least developed telecom markets in the world; there was once investment activity among mobile network operators who sought to expand their networks in some areas of the country; operators in the telecom sector placed themselves in survival mode and are hoping for a political settlement and a return to some degree of social stability; South Sudan has one of the lowest mobile penetration rates in Africa; growth in the sector in coming years is premised on a resolution to the political crisis and a recovery of the country&rsquo;s economy; the virtually untapped internet and broadband market also depends to a large extent on the country gaining access to international fiber cables and on a national backbone network being in place; sophisticated infrastructure solutions are needed to reach the 80% of the population that live outside of the main urban centers; some improvement has followed from the cable link in February 2020 which connects Juba directly to the company&rsquo;s submarine landing station at Mombasa; the cable was South Sudan&rsquo;s first direct international fiber link, and has helped drive down the price of retail internet services for residential and business customers; a second cable linking to the border with Kenya was completed in December 2021 (2022)<br>
-_domestic_: fixed-line less than 1 per 100 subscriptions, mobile-cellular roughly 20 per 100 persons (2019)<br>
+_domestic_: fixed-line less than 1 per 100 subscriptions, mobile-cellular roughly 12 per 100 persons (2020)<br>
 _international_: country code - 211 (2017)<br>
 <strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress toward 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>
 

@@ -206,12 +206,6 @@ _unimproved: total_: total: 1% of population (2020 est.)<br>
 **HIV/AIDS - adult prevalence rate**<br>
 NA<br>
 
-**HIV/AIDS - people living with HIV/AIDS**<br>
-NA<br>
-
-**HIV/AIDS - deaths**<br>
-NA<br>
-
 **Obesity - adult prevalence rate**<br>
 29.4% (2016)<br>
 
@@ -414,7 +408,7 @@ _selected World Heritage Site locales_: L'Anse aux Meadows (c); Canadian Rocky M
 ## Economy
 
 **Economic overview**<br>
-<p>Canada resembles the US in its market-oriented economic system, pattern of production, and high living standards. Since World War II, the impressive growth of the manufacturing, mining, and service sectors has transformed the nation from a largely rural economy into one primarily industrial and urban. Canada has a large oil and natural gas sector with the majority of crude oil production derived from oil sands in the western provinces, especially Alberta. Canada now ranks third in the world in proved oil reserves behind Venezuela and Saudi Arabia and is the world’s seventh-largest oil producer.</p> <p> </p> <p>TThe 1989 Canada-US Free Trade Agreement and the 1994 North American Free Trade Agreement (which includes Mexico) dramatically increased trade and economic integration between the US and Canada. Canada and the US enjoy the world’s most comprehensive bilateral trade and investment relationship, with goods and services trade totaling more than $680 billion in 2017, and two-way investment stocks of more than $800 billion. Over three-fourths of Canada’s merchandise exports are destined for the US each year. Canada is the largest foreign supplier of energy to the US, including oil, natural gas, and electric power, and a top source of US uranium imports.</p> <p> </p> <p>Given its abundant natural resources, highly skilled labor force, and modern capital stock, Canada enjoyed solid economic growth from 1993 through 2007. The global economic crisis of 2007-08 moved the Canadian economy into sharp recession by late 2008, and Ottawa posted its first fiscal deficit in 2009 after 12 years of surplus. Canada's major banks emerged from the financial crisis of 2008-09 among the strongest in the world, owing to the financial sector's tradition of conservative lending practices and strong capitalization. Canada’s economy posted strong growth in 2017 at 3%, but most analysts are projecting Canada’s economic growth will drop back closer to 2% in 2018.</p><br>
+<p>Canada resembles the US in its market-oriented economic system, pattern of production, and high living standards. Since World War II, the impressive growth of the manufacturing, mining, and service sectors has transformed the nation from a largely rural economy into one primarily industrial and urban. Canada has a large oil and natural gas sector with the majority of crude oil production derived from oil sands in the western provinces, especially Alberta. Canada now ranks third in the world in proved oil reserves behind Venezuela and Saudi Arabia and is the world’s seventh-largest oil producer.</p> <p> </p> <p>The 1989 Canada-US Free Trade Agreement and the 1994 North American Free Trade Agreement (which includes Mexico) dramatically increased trade and economic integration between the US and Canada. Canada and the US enjoy the world’s most comprehensive bilateral trade and investment relationship, with goods and services trade totaling more than $680 billion in 2017, and two-way investment stocks of more than $800 billion. Over three-fourths of Canada’s merchandise exports are destined for the US each year. Canada is the largest foreign supplier of energy to the US, including oil, natural gas, and electric power, and a top source of US uranium imports.</p> <p> </p> <p>Given its abundant natural resources, highly skilled labor force, and modern capital stock, Canada enjoyed solid economic growth from 1993 through 2007. The global economic crisis of 2007-08 moved the Canadian economy into sharp recession by late 2008, and Ottawa posted its first fiscal deficit in 2009 after 12 years of surplus. Canada's major banks emerged from the financial crisis of 2008-09 among the strongest in the world, owing to the financial sector's tradition of conservative lending practices and strong capitalization. Canada’s economy posted strong growth in 2017 at 3%, but most analysts are projecting Canada’s economic growth will drop back closer to 2% in 2018.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
 $1,742,790,000,000 (2020 est.)<br>
@@ -445,6 +439,7 @@ $1,741,865,000,000 (2019 est.)<br>
 _Fitch rating_: AA+ (2020)<br>
 _Moody's rating_: Aaa (2002)<br>
 _Standard & Poors rating_: AAA (2002)<br>
+<strong>note: </strong>The year refers to the year in which the current credit rating was first obtained.<br>
 
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 1.6% (2017 est.)<br>
@@ -522,9 +517,10 @@ _expenditures_: 665.7 billion (2017 est.)<br>
 -$42.862 billion (2018 est.)<br>
 
 **Exports**<br>
-$477.31 billion (2020 est.) note: data are in current year dollars<br>
-$555.83 billion (2019 est.) note: data are in current year dollars<br>
-$556.89 billion (2018 est.) note: data are in current year dollars<br>
+$477.31 billion (2020 est.)<br>
+$555.83 billion (2019 est.)<br>
+$556.89 billion (2018 est.)<br>
+<strong>note:</strong> Data are in current year dollars and do not include illicit exports or re-exports.<br>
 
 **Exports - partners**<br>
 US 73% (2019)<br>

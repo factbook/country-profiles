@@ -77,7 +77,6 @@ shares island of Hispaniola with Dominican Republic (western one-third is Haiti,
 
 **Population**<br>
 11,334,637 (2022 est.)<br>
-<strong>note:</strong> estimates for this country explicitly taken into account the impact of the HIV/AIDS epidemic<br>
 
 **Nationality**<br>
 _noun_: Haitian(s)<br>
@@ -193,12 +192,6 @@ _unimproved: total_: total: 34.4% of population (2020 est.)<br>
 
 **HIV/AIDS - adult prevalence rate**<br>
 1.9% (2020 est.)<br>
-
-**HIV/AIDS - people living with HIV/AIDS**<br>
-150,000 (2020 est.)<br>
-
-**HIV/AIDS - deaths**<br>
-2,200 (2020 est.)<br>
 
 **Major infectious diseases**<br>
 _degree of risk_: very high (2020)<br>

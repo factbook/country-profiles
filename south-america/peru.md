@@ -176,7 +176,7 @@ _female_: 72.67 years (2022 est.)<br>
 2.2 children born/woman (2022 est.)<br>
 
 **Contraceptive prevalence rate**<br>
-76.3% (2018)<br>
+77.4% (2020)<br>
 
 **Drinking water source**<br>
 _improved: urban_: urban: 97.2% of population<br>
@@ -205,12 +205,6 @@ _unimproved: total_: total: 12.6% of population (2020 est.)<br>
 
 **HIV/AIDS - adult prevalence rate**<br>
 0.3% (2020 est.)<br>
-
-**HIV/AIDS - people living with HIV/AIDS**<br>
-91,000 (2020 est.)<br>
-
-**HIV/AIDS - deaths**<br>
-(2020 est.) <1000<br>
 
 **Major infectious diseases**<br>
 _degree of risk_: very high (2020)<br>
@@ -462,6 +456,7 @@ $230.707 billion (2019 est.)<br>
 _Fitch rating_: BBB+ (2013)<br>
 _Moody's rating_: A3 (2014)<br>
 _Standard & Poors rating_: BBB+ (2013)<br>
+<strong>note: </strong>The year refers to the year in which the current credit rating was first obtained.<br>
 
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 7.6% (2017 est.)<br>
@@ -650,7 +645,7 @@ _subscriptions per 100 inhabitants_: 133 (2020 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: after suffering a sharp retraction in the number of subscriptions and revenue during 2020 due to the pandemic, Peru&rsquo;s telecom sector managed to stage a small recovery in the first half of 2021; it will likely be two to three years before penetration rates return to the peak levels last seen in 2018; this is especially true given the overwhelming influence of mobile on Peru&rsquo;s telecommunications market, which now commands almost 95% of all connections; Peru&rsquo;s fixed-line teledensity continued its slow dropping below 7% at the end of 2021; investment in network infrastructure is mainly focused on rolling out fiber cable for fixed broadband services in (mainly) urban areas; fixed broadband services inched higher to reach 8.4% at the end of 2020, a positive result that reflected the shift to working from home during enforced lock downs at the start of the year; yet Peru has a relatively low level of computer use, and prices for fixed broadband services are among the highest in Latin America; the overwhelmingly preferred internet access platform will remain the smartphone, with a further 8.6% growth in the number of mobile broadband subscriptions expected in 2021 (2021)<br>
-_domestic_: fixed-line teledensity is nearly 10 per 100 persons; mobile-cellular teledensity, spurred by competition among multiple providers, now nearly 124 telephones per 100 persons; nationwide microwave radio relay system and a domestic satellite system with 12 earth stations (2019)<br>
+_domestic_: fixed-line teledensity is nearly 7 per 100 persons; mobile-cellular teledensity, spurred by competition among multiple providers, now nearly 133 telephones per 100 persons; nationwide microwave radio relay system and a domestic satellite system with 12 earth stations (2020)<br>
 _international_: country code - 51; landing points for the SAM-1, IGW, American Movil-Telxius, SAC&nbsp;and PAN-AM submarine cable systems that provide links to parts of Central and South America, the Caribbean, and US; satellite earth stations - 2 Intelsat (Atlantic Ocean) (2019)<br>
 <strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress toward 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>
 

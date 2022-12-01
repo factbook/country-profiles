@@ -195,12 +195,6 @@ _unimproved: total_: total: 0% of population (2020 est.)<br>
 **HIV/AIDS - adult prevalence rate**<br>
 0.6% (2020 est.)<br>
 
-**HIV/AIDS - people living with HIV/AIDS**<br>
-77,000 (2020 est.)<br>
-
-**HIV/AIDS - deaths**<br>
-(2018) <1,000<br>
-
 **Obesity - adult prevalence rate**<br>
 28% (2016)<br>
 
@@ -427,6 +421,7 @@ $282.655 billion (2019 est.)<br>
 _Fitch rating_: A- (2020)<br>
 _Moody's rating_: A1 (2018)<br>
 _Standard & Poors rating_: A+ (2017)<br>
+<strong>note: </strong>The year refers to the year in which the current credit rating was first obtained.<br>
 
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 4.2% (2017 est.)<br>
@@ -500,9 +495,10 @@ calendar year<br>
 -$10.601 billion (2018 est.)<br>
 
 **Exports**<br>
-$79.8 billion (2020 est.) note: data are in current year dollars<br>
-$78.02 billion (2019 est.) note: data are in current year dollars<br>
-$84.65 billion (2018 est.) note: data are in current year dollars<br>
+$79.8 billion (2020 est.)<br>
+$78.02 billion (2019 est.)<br>
+$84.65 billion (2018 est.)<br>
+<strong>note:</strong> Data are in current year dollars and do not include illicit exports or re-exports.<br>
 
 **Exports - partners**<br>
 China 32%, United States 14%, Japan 9%, South Korea 7% (2019)<br>

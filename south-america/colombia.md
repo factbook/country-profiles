@@ -204,12 +204,6 @@ _unimproved: total_: total: 3% of population (2020 est.)<br>
 **HIV/AIDS - adult prevalence rate**<br>
 0.4% (2020 est.)<br>
 
-**HIV/AIDS - people living with HIV/AIDS**<br>
-180,000 (2020 est.)<br>
-
-**HIV/AIDS - deaths**<br>
-3,000 (2020 est.)<br>
-
 **Major infectious diseases**<br>
 _degree of risk_: high (2020)<br>
 _food or waterborne diseases_: bacterial diarrhea<br>
@@ -453,6 +447,7 @@ $323.255 billion (2019 est.)<br>
 _Fitch rating_: BBB- (2020)<br>
 _Moody's rating_: Baa2 (2014)<br>
 _Standard & Poors rating_: BBB- (2017)<br>
+<strong>note: </strong>The year refers to the year in which the current credit rating was first obtained.<br>
 
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 7.2% (2017 est.)<br>
@@ -527,9 +522,10 @@ calendar year<br>
 -$13.118 billion (2018 est.)<br>
 
 **Exports**<br>
-$39.14 billion (2020 est.) note: data are in current year dollars<br>
-$52.96 billion (2019 est.) note: data are in current year dollars<br>
-$55.06 billion (2018 est.) note: data are in current year dollars<br>
+$39.14 billion (2020 est.)<br>
+$52.96 billion (2019 est.)<br>
+$55.06 billion (2018 est.)<br>
+<strong>note:</strong> Data are in current year dollars and do not include illicit exports or re-exports.<br>
 
 **Exports - partners**<br>
 United States 31%, China 11%, Panama 6%, Ecuador 5% (2019)<br>
@@ -741,7 +737,7 @@ the Colombian military inventory includes a wide mix of equipment from a variety
 275 Egypt (MFO) (2022)<br>
 
 **Military - note**<br>
-as of 2022, the Colombian Armed Forces were primarily focused on internal security, particularly counter-narcotics, counter-terrorism, and counterinsurgency operations against drug traffickers, militants from several factions of the Revolutionary Armed Forces of Colombia (FARC) and National Liberation Army (ELN) terrorist/guerrilla organizations, and other illegal armed groups; the Colombian Government signed a peace agreement with the FARC in 2016, but some former members (known as dissidents) have returned to fighting (note - these dissident groups include the designated terrorist groups Revolutionary Armed Forces of Colombia - People's Army or FARC-EP and Segunda Marquetalia; see Appendix T); the Colombian military resumed operations against FARC dissidents and their successor paramilitary groups in late 2019; in 2017, the Colombian Government initiated formal peace talks with the ELN, but in January 2019, the government ended the peace talks shortly after the ELN exploded a car bomb at the National Police Academy in Bogot&aacute; and resumed counter-terrorism/counterinsurgency operations against the group; operations against the FARC dissident groups and the ELN continued into 2022 (see Appendix T); the military was also focused on the security challenges posed by its neighbor, Venezuela, where instability has attracted narcotics traffickers and both the ELN and FARC dissidents, including FARC-EP and Segunda Marquetalia, operate openly<br>
+as of 2022, the Colombian Armed Forces were primarily focused on internal security, particularly counter-narcotics, counter-terrorism, and counterinsurgency operations against drug traffickers, militants from several factions of the Revolutionary Armed Forces of Colombia (FARC) and National Liberation Army (ELN) terrorist/guerrilla organizations, and other illegal armed groups; the Colombian Government signed a peace agreement with the FARC in 2016, but some former members (known as dissidents) have returned to fighting (note - these dissident groups include the designated terrorist groups Revolutionary Armed Forces of Colombia - People's Army or FARC-EP and Segunda Marquetalia; see Appendix T); the Colombian military resumed operations against FARC dissidents and their successor paramilitary groups in late 2019; in 2017, the Colombian Government initiated formal peace talks with the ELN, but in January 2019, the government suspended the peace talks shortly after the ELN exploded a car bomb at the National Police Academy in Bogot&aacute; and resumed counter-terrorism/counterinsurgency operations against the group; operations against the FARC dissident groups and the ELN continued into 2022, although the Colombian Government resumed talks with ELN in November 2022; the military was also focused on the security challenges posed by its neighbor, Venezuela, where instability has attracted narcotics traffickers and both the ELN and FARC dissidents, including FARC-EP and Segunda Marquetalia, operate openly<br>
 
 **Maritime threats**<br>
 the International Maritime Bureau reports the territorial waters of Colombia are a risk for armed robbery against ships; in 2021, six attacks against commercial vessels were reported, an increase over the single attack in 2020; most of these occurred in the main port of Cartagena while ships were berthed or at anchor<br>

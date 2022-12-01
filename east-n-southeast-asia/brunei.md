@@ -185,12 +185,6 @@ _unimproved: total_: total: NA<br>
 **HIV/AIDS - adult prevalence rate**<br>
 NA<br>
 
-**HIV/AIDS - people living with HIV/AIDS**<br>
-NA<br>
-
-**HIV/AIDS - deaths**<br>
-NA<br>
-
 **Obesity - adult prevalence rate**<br>
 14.1% (2016)<br>
 
@@ -466,8 +460,9 @@ $2.021 billion (2017 est.)<br>
 $1.47 billion (2016 est.)<br>
 
 **Exports**<br>
-$7.83 billion (2019 est.) note: data are in current year dollars<br>
-$7.04 billion (2018 est.) note: data are in current year dollars<br>
+$7.83 billion (2019 est.)<br>
+$7.04 billion (2018 est.)<br>
+<strong>note:</strong> Data are in current year dollars and do not include illicit exports or re-exports.<br>
 
 **Exports - partners**<br>
 Japan 34%, Australia 12%, Singapore 10%, India 8%, Malaysia 8%, Thailand 7%, China 6%, South Korea 5% (2019)<br>

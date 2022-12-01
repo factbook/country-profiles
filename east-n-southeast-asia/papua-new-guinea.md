@@ -193,14 +193,6 @@ _unimproved: total_: total: 76.5% of population (2020 est.)<br>
 **HIV/AIDS - adult prevalence rate**<br>
 0.9% (2020 est.)<br>
 
-**HIV/AIDS - people living with HIV/AIDS**<br>
-55,000 (2020 est.)<br>
-<strong>note: </strong>estimate does not include children<br>
-
-**HIV/AIDS - deaths**<br>
-(2020 est.) &lt;500<br>
-<strong>note: </strong>estimate does not include children<br>
-
 **Major infectious diseases**<br>
 _degree of risk_: very high (2020)<br>
 _food or waterborne diseases_: bacterial diarrhea, hepatitis A, and typhoid fever<br>
@@ -429,6 +421,7 @@ $19.82 billion (2017 est.)<br>
 **Credit ratings**<br>
 _Moody's rating_: B2 (2016)<br>
 _Standard & Poors rating_: B- (2020)<br>
+<strong>note: </strong>The year refers to the year in which the current credit rating was first obtained.<br>
 
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 22.1% (2017 est.)<br>
@@ -606,7 +599,7 @@ _subscriptions per 100 inhabitants_: 54 (2020 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: fixed-line teledensity in Papua New Guinea has seen little change over the past two decades; progress in the country&rsquo;s telecom sector has come primarily from mobile networks, where accessibility has expanded considerably in recent years, with population coverage increasing from less than 3% in 2006 to more than 90% by early 2021; the MNOs operate networks offering services based on GSM, 3G, and LTE, depending on location; GSM is prevalent in many rural and remote areas, while 3G and LTE are centered more on urban areas; MNOs&rsquo; investments in 4G are growing, though GSM still represents the bulk of all mobile connections owing to the low penetration of smartphones and the concentration of high-speed data networks predominantly in high value urban areas; a lack of sufficient competition and investment in the wire line segment has driven up prices and hampered network coverage and quality; infrastructure deployment costs are high, partly due to the relatively low subscriber base, the difficult terrain, and the high proportion of the population living in rural areas; fixed telecom infrastructure is almost non-existent outside urban centers, leaving most of the population under served; PNG is the Pacific region&rsquo;s largest poorly developed telecom market, with only around 22% of its people connected to the internet; this falls far behind the recommended targets set in the country&rsquo;s National Broadband Policy drafted in 2013, which aimed to provide broadband access to 90% of the total population by 2018; the existing submarine cable infrastructure is insufficient to serve the country&rsquo;s needs; low international capacity has meant that internet services are expensive and slow; the cable links PNG to the Solomon Islands and Australia (landing at Sydney); despite the improvement in recent years, the country is still impacted by a connectivity infrastructure deficit, making it reliant on more expensive alternatives such as satellites, also weighing on the affordability of services for end-users (2022)<br>
-_domestic_: access to telephone services is not widely available; fixed-line nearly 2 per 100 and mobile-cellular nearly 48 per 100 persons (2019)<br>
+_domestic_: access to telephone services is not widely available; fixed-line nearly 2 per 100 and mobile-cellular nearly 54 per 100 persons (2020)<br>
 _international_: country code - 675; landing points for the Kumul Domestic Submarine Cable System, PNG-LNG, APNG-2, CSCS and the PPC-1&nbsp;submarine cables to Australia, Guam, PNG and Solomon Islands; satellite earth station - 1 Intelsat (Pacific Ocean) (2019)<br>
 <strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress toward 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>
 

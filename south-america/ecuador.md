@@ -167,7 +167,8 @@ _female_: 81.1 years (2022 est.)<br>
 2.04 children born/woman (2022 est.)<br>
 
 **Contraceptive prevalence rate**<br>
-80.1% (2007/12)<br>
+77.9% (2018/19)<br>
+<strong>note:</strong> percent of women aged 15-50<br>
 
 **Drinking water source**<br>
 _improved: urban_: urban: 100% of population<br>
@@ -196,12 +197,6 @@ _unimproved: total_: total: 1.1% of population (2020 est.)<br>
 
 **HIV/AIDS - adult prevalence rate**<br>
 0.3% (2020 est.)<br>
-
-**HIV/AIDS - people living with HIV/AIDS**<br>
-45,000 (2020 est.)<br>
-
-**HIV/AIDS - deaths**<br>
-(2020 est.) <500<br>
 
 **Major infectious diseases**<br>
 _degree of risk_: high (2020)<br>
@@ -441,6 +436,7 @@ $107.436 billion (2019 est.)<br>
 _Fitch rating_: B- (2020)<br>
 _Moody's rating_: Caa3 (2020)<br>
 _Standard & Poors rating_: B- (2020)<br>
+<strong>note: </strong>The year refers to the year in which the current credit rating was first obtained.<br>
 
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 6.7% (2017 est.)<br>

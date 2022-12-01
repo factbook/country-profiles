@@ -194,13 +194,6 @@ _unimproved: total_: total: 0% of population (2020 est.)<br>
 **HIV/AIDS - adult prevalence rate**<br>
 0.1% (2018 est.)<br>
 
-**HIV/AIDS - people living with HIV/AIDS**<br>
-5,800 (2018 est.)<br>
-
-**HIV/AIDS - deaths**<br>
-(2020 est.) &lt;100<br>
-<strong>note: </strong>estimate does not include children<br>
-
 **Obesity - adult prevalence rate**<br>
 23.1% (2016)<br>
 
@@ -423,6 +416,7 @@ $405.695 billion (2019 est.)<br>
 _Fitch rating_: AAA (1995)<br>
 _Moody's rating_: Aaa (1997)<br>
 _Standard & Poors rating_: AAA (1975)<br>
+<strong>note: </strong>The year refers to the year in which the current credit rating was first obtained.<br>
 
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 2.3% (2017 est.)<br>
@@ -711,6 +705,6 @@ Norway is a member of NATO and was one of the original 12 countries to sign the 
 <p><em>Norway-Antarctica</em>: Norway asserts a territorial claim in Antarctica (Queen Maud Land and its continental shelf)</p> <p><em>Norway-Russia</em>: Russia amended its 2001 CLCS submission in 2015 and 2021, each time delineating the outer limits of its continental shelf further into the Arctic Ocean; Norway and Russia signed a comprehensive maritime boundary agreement in 2010, ending a dispute over an area of the Barents Sea by dividing the territory equally</p> <p><em>Norway-Sweden</em>: none identified</p> <p> </p> <p> </p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 15,542 (Syria), 11,965 (Eritrea) (mid-year 2021); 31,798 (Ukraine) (as of 8 November 2022)<br>
+_refugees (country of origin)_: 15,542 (Syria), 11,965 (Eritrea) (mid-year 2021); 32,102 (Ukraine) (as of 15 November 2022)<br>
 _stateless persons_: 4,154 (mid-year 2021)<br>
 

@@ -169,7 +169,7 @@ _female_: 77.41 years (2022 est.)<br>
 1.86 children born/woman (2022 est.)<br>
 
 **Contraceptive prevalence rate**<br>
-54.9% (2011)<br>
+NA<br>
 
 **Drinking water source**<br>
 _improved: urban_: urban: 100% of population<br>
@@ -198,12 +198,6 @@ _unimproved: total_: total: (2020 est.) NA<br>
 
 **HIV/AIDS - adult prevalence rate**<br>
 0.1% (2020 est.)<br>
-
-**HIV/AIDS - people living with HIV/AIDS**<br>
-9,900 (2020 est.)<br>
-
-**HIV/AIDS - deaths**<br>
-(2020 est.) <200<br>
 
 **Obesity - adult prevalence rate**<br>
 19.9% (2016)<br>
@@ -430,6 +424,7 @@ $48.104 billion (2019 est.)<br>
 _Fitch rating_: BB+ (2016)<br>
 _Moody's rating_: Ba2 (2017)<br>
 _Standard & Poors rating_: BB+ (2016)<br>
+<strong>note: </strong>The year refers to the year in which the current credit rating was first obtained.<br>
 
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 6.1% (2017 est.)<br>
@@ -503,9 +498,10 @@ $1.685 billion (2017 est.)<br>
 -$1.363 billion (2016 est.)<br>
 
 **Exports**<br>
-$15.21 billion (2020 est.) note: data are in current year dollars<br>
-$23.63 billion (2019 est.) note: data are in current year dollars<br>
-$25.48 billion (2018 est.) note: data are in current year dollars<br>
+$15.21 billion (2020 est.)<br>
+$23.63 billion (2019 est.)<br>
+$25.48 billion (2018 est.)<br>
+<strong>note:</strong> Data are in current year dollars and do not include illicit exports or re-exports.<br>
 
 **Exports - partners**<br>
 Italy 28%, Turkey 15%, Israel 7%, Germany 5%, India 5% (2017)<br>
@@ -717,10 +713,6 @@ Islamic State of Iraq and ash-Sham (ISIS); Islamic Revolutionary Guard Corps (IR
 **Refugees and internally displaced persons**<br>
 _IDPs_: 655,000 (conflict with Armenia over Nagorno-Karabakh; IDPs are mainly ethnic Azerbaijanis but also include ethnic Kurds, Russians, and Turks predominantly from occupied territories around Nagorno-Karabakh; includes IDPs' descendants, returned IDPs, and people living in insecure areas and excludes people displaced by natural disasters; around half the IDPs live in the capital Baku) (2021)<br>
 _stateless persons_: 3,585 (mid-year 2021)<br>
-
-**Trafficking in persons**<br>
-_current situation_: human traffickers exploit domestic and foreign victims in Azerbaijan and exploit Azerbaijanis abroad; Azerbaijani men and boys experience forced labor domestically and in Qatar, Russia, and the UAE; Azerbaijani women and children are subjected to sex trafficking domestically and in Iran, Malaysia, Pakistan, Qatar, Russia, Turkey, and the UAE; Azerbaijan is a destination country for sex and forced labor trafficking victims from China, Russia, Tajikistan, Turkmenistan, Ukraine, and Uzbekistan; some children are exploited domestically for forced begging and forced labor as roadside vendors and at tea houses and wedding venues<br>
-_tier rating_: Tier 2 Watch List &mdash; Azerbaijan does not fully meet the minimum standards for the elimination of trafficking but is making significant efforts to do so; more traffickers were convicted and judges received guidance to issue stricter sentences; the government significantly increased funding for victim protection by establishing grants for civil society; however, authorities identified fewer victims than in the previous year, did not regularly screen vulnerable populations, and continued to lack proactive identification methods, resulting in victims being penalized for unlawful acts traffickers compelled them to commit (2020)<br>
 
 **Illicit drugs**<br>
 limited illicit cultivation of cannabis and opium poppy, mostly for CIS consumption; small government eradication program; transit point for Southwest Asian opiates bound for Russia and to a lesser extent the rest of Europe<br>

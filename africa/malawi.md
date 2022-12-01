@@ -84,7 +84,6 @@ landlocked; Lake Nyasa, some 580 km long, is the country's most prominent physic
 
 **Population**<br>
 20,794,353 (2022 est.)<br>
-<strong>note:</strong> estimates for this country explicitly taken into account the impact of the HIV/AIDS epidemic<br>
 
 **Nationality**<br>
 _noun_: Malawian(s)<br>
@@ -173,7 +172,7 @@ _female_: 75.59 years (2022 est.)<br>
 3.4 children born/woman (2022 est.)<br>
 
 **Contraceptive prevalence rate**<br>
-59.2% (2015/16)<br>
+65.6% (2019/20)<br>
 
 **Drinking water source**<br>
 _improved: urban_: urban: 96.7% of population<br>
@@ -202,12 +201,6 @@ _unimproved: total_: total: 60% of population (2020 est.)<br>
 
 **HIV/AIDS - adult prevalence rate**<br>
 8.1% (2020 est.)<br>
-
-**HIV/AIDS - people living with HIV/AIDS**<br>
-990,000 (2020 est.)<br>
-
-**HIV/AIDS - deaths**<br>
-12,000 (2020 est.)<br>
 
 **Major infectious diseases**<br>
 _degree of risk_: very high (2020)<br>

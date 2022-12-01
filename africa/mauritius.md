@@ -190,12 +190,6 @@ _unimproved: total_: total: (2020 est.) NA<br>
 **HIV/AIDS - adult prevalence rate**<br>
 1.7% (2020 est.)<br>
 
-**HIV/AIDS - people living with HIV/AIDS**<br>
-14,000 (2020)<br>
-
-**HIV/AIDS - deaths**<br>
-(2020) <1000<br>
-
 **Obesity - adult prevalence rate**<br>
 10.8% (2016)<br>
 
@@ -412,6 +406,7 @@ $14.004 billion (2019 est.)<br>
 
 **Credit ratings**<br>
 _Moody's rating_: Baa1 (2012)<br>
+<strong>note: </strong>The year refers to the year in which the current credit rating was first obtained.<br>
 
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 4% (2017 est.)<br>
@@ -675,10 +670,6 @@ as of 2022, the country’s primary security partner was India, and Indian naval
 
 **Disputes - international**<br>
 <p>Mauritius and Seychelles claim the Chagos Islands (UK-administered British Indian Ocean Territory); claims French-administered Tromelin Island</p> <p><em>Mauritius-France</em>: Mauritius has claimed French-administered Tromelin Island (part of the French Southern and Antarctic Lands) since 1976<br><br><em>Mauritius-UK</em>: Mauritius and Seychelles claim the Chagos Islands (UK-administered British Indian Ocean Territory)</p><br>
-
-**Trafficking in persons**<br>
-_current situation_: Mauritius is a source, transit, and destination country for men, women, and children subjected to forced labor and sex trafficking; Mauritian girls are induced or sold into prostitution, often by peers, family members, or businessmen offering other forms of employment; Mauritian adults have been identified as labor trafficking victims in the UK, Belgium, and Canada, while Mauritian women from Rodrigues Island are also subject to domestic servitude in Mauritius; Malagasy women transit Mauritius en route to the Middle East for jobs as domestic servants and subsequently are subjected to forced labor; Cambodian men are victims of forced labor on foreign fishing vessels in Mauritius’ territorial waters; other migrant workers from East and South Asia and Madagascar are also subject to forced labor in Mauritius’ manufacturing and construction sectors<br>
-_tier rating_: Tier 2 Watch List – Mauritius does not fully comply with the minimum standards for the elimination of trafficking; however, it is making significant efforts to do so; in 2014, the government made modest efforts to address child sex trafficking but none related to adult forced labor; law enforcement lacks an understanding of trafficking crimes outside of child sex trafficking, despite increasing evidence of other forms of human trafficking; authorities made no trafficking prosecutions or convictions and made modest efforts to assist a couple of child sex trafficking victims; officials sustained an extensive public awareness campaign to prevent child sex trafficking, but no efforts were made to raise awareness or reduce demand for forced adult or child labor (2015)<br>
 
 **Illicit drugs**<br>
 <p>consumer and transshipment point for heroin from South Asia; small amounts of cannabis produced and consumed locally; significant offshore financial industry creates potential for money laundering</p><br>

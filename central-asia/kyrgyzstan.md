@@ -200,12 +200,6 @@ _unimproved: total_: total: 0% of population (2020 est.)<br>
 **HIV/AIDS - adult prevalence rate**<br>
 0.2% (2020 est.)<br>
 
-**HIV/AIDS - people living with HIV/AIDS**<br>
-9,200 (2020 est.)<br>
-
-**HIV/AIDS - deaths**<br>
-(2020 est.) <100<br>
-
 **Obesity - adult prevalence rate**<br>
 16.6% (2016)<br>
 
@@ -437,6 +431,7 @@ $8.442 billion (2019 est.)<br>
 **Credit ratings**<br>
 _Moody's rating_: B2 (2015)<br>
 _Standard & Poors rating_: NR (2016)<br>
+<strong>note: </strong>The year refers to the year in which the current credit rating was first obtained.<br>
 
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 14.6% (2017 est.)<br>
@@ -620,7 +615,7 @@ _subscriptions per 100 inhabitants_: 130 (2020 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: the country&rsquo;s telecom sector (specifically the mobile segment) has likewise been able to prosper; ongoing political tension, increasing repression of the media and information, and continuing problems with corporate governance may be putting a strain on further growth by reducing the country&rsquo;s appeal to much-needed foreign investors; Kyrgyzstan has been reasonably successful in its attempts to liberalize its economy and open up its telecom market to competition; the mobile market has achieved high levels of penetration (140% in 2021) along with a fairly competitive operating environment with four major players; mobile broadband has come along strongly, reaching over 125% penetration in 2019 before falling back slightly during the Covid-19 crisis; slow-to-moderate growth is expected for both segments in coming years, supported by the anticipated rollout of 5G services starting from late 2022 (2022)<br>
-_domestic_: fixed-line penetration at nearly 5 per 100 persons remains low and concentrated in urban areas; mobile-cellular subscribership up to over 134 per 100 persons (2019)<br>
+_domestic_: fixed-line penetration at nearly 5 per 100 persons remains low and concentrated in urban areas; mobile-cellular subscribership up to over 130 per 100 persons (2020)<br>
 _international_: country code - 996; connections with other CIS (Commonwealth of Independent States, 9 members post-Soviet Republics in EU) countries by landline or microwave radio relay and with other countries by leased connections with Moscow international gateway switch and by satellite; satellite earth stations - 2 (1 Intersputnik, 1 Intelsat) (2019)<br>
 <strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress toward 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>
 
@@ -711,10 +706,6 @@ Kyrgyzstan has been a member of the Collective Security Treaty Organization (CST
 
 **Refugees and internally displaced persons**<br>
 _stateless persons_: 16 (mid-year 2021)<br>
-
-**Trafficking in persons**<br>
-_current situation_: human traffickers exploit domestic and foreign victims in Kyrgyzstan and Kyrgyzstanis abroad; Kyrgyz men, women, and children are exploited in forced labor in Kyrgyzstan, Russia, Kazakhstan, Turkey and other European countries specifically in agriculture, construction, textiles, domestic service, and childcare; sex traffickers exploit Kyrgyz women and girls domestically and in India, Kazakhstan, Russia, South Korea, Turkey, and the United Arab Emirates; problems with police misconduct and corruption include allegations that police threaten and extort sex trafficking victims and accept bribes from alleged traffickers to drop cases; street children who beg or do domestic work are vulnerable to traffickers<br>
-_tier rating_: Tier 2 Watch List —<strong> </strong>Kyrgyzstan does not fully meet the minimum standards for the elimination of trafficking but is making significant efforts to do so; the government adopted a National Referral Mechanism (NRM) that established formal policies on victim identification and the provision of social services;  the government established an interagency focus group to accelerate implementation of the NRM and improve law enforcement investigations; authorities increased investigations but did not prosecute or convict any traffickers; the government conducted limited training on the NRM; some officials reportedly  dropped charges or tipped off suspects and allowed victims to be pressured or paid to drop charges against alleged traffickers; the government’s written plan, if implemented, would meet the minimum standards for the elimination of trafficking, Kyrgyzstan was granted a waiver per the Trafficking Victims Protection Act from an otherwise required downgrade to Tier 3 (2020)<br>
 
 **Illicit drugs**<br>
 <p>a prime transshipment location; illegal drugs move from Afghanistan to Russia, and sometimes into Europe</p> <p> </p><br>

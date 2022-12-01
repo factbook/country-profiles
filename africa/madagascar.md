@@ -164,7 +164,7 @@ _female_: 69.57 years (2022 est.)<br>
 3.62 children born/woman (2022 est.)<br>
 
 **Contraceptive prevalence rate**<br>
-44.4% (2018)<br>
+49.7% (2020)<br>
 
 **Drinking water source**<br>
 _improved: urban_: urban: 85% of population<br>
@@ -193,12 +193,6 @@ _unimproved: total_: total: 67.4% of population (2020 est.)<br>
 
 **HIV/AIDS - adult prevalence rate**<br>
 0.3% (2020 est.)<br>
-
-**HIV/AIDS - people living with HIV/AIDS**<br>
-42,000 (2020 est.)<br>
-
-**HIV/AIDS - deaths**<br>
-1,800 (2020 est.)<br>
 
 **Major infectious diseases**<br>
 _degree of risk_: very high (2020)<br>
@@ -616,7 +610,7 @@ _subscriptions per 100 inhabitants_: 57 (2020 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: Telecom services in Madagascar have benefited from intensifying competition between the main operators; there have been positive developments with the country&rsquo;s link to international submarine cables, particularly the METISS cable connecting to South Africa and Mauritius; in addition, the country&rsquo;s connection to the Africa-1 cable, expected in late 2023, will provide it with links to Kenya, Djibouti, countries in north and south Africa, as well Pakistan, the UAE, Saudi Arabia, and France; a national fiber backbone has been implemented connecting the major cities; in addition, the government has progressed with its five-year plan to develop a digital platform running to 2024; various schemes within the program have been managed by a unit within the President&rsquo;s office; penetration rates in all market sectors remain below the average for the African region, and so there remains considerable growth potential; much progress was made in 2020, stimulated by the particular conditions related to the pandemic, which encouraged greater use of voice and data services (2022)<br>
-_domestic_: less than 1 per 100 for fixed-line and mobile-cellular teledensity about 34 per 100 persons (2019)<br>
+_domestic_: less than 1 per 100 for fixed-line and mobile-cellular teledensity about 57 per 100 persons (2020)<br>
 _international_: country code - 261; landing points for the EASSy, METISS, and LION fiber-optic submarine cable systems connecting to numerous Indian Ocean Islands, South Africa, and Eastern African countries; satellite earth stations - 2 (1 Intelsat - Indian Ocean, 1 Intersputnik - Atlantic Ocean region) (2019)<br>
 <strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress toward 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>
 

@@ -144,12 +144,6 @@ NA<br>
 **HIV/AIDS - adult prevalence rate**<br>
 NA<br>
 
-**HIV/AIDS - people living with HIV/AIDS**<br>
-NA<br>
-
-**HIV/AIDS - deaths**<br>
-NA<br>
-
 **Children under the age of 5 years underweight**<br>
 NA<br>
 
@@ -268,9 +262,6 @@ _expenditures_: NA<br>
 
 **Fiscal year**<br>
 1 July - 30 June<br>
-
-**Exports**<br>
-<p>NA</p><br>
 
 **Exports - partners**<br>
 Malaysia 36%, New Zealand 21%, Indonesia 20%, Australia 10% (2019)<br>

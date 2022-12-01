@@ -220,14 +220,6 @@ _unimproved: total_: total: 11.2% of population (2020 est.)<br>
 (2020 est.) &lt;.1%<br>
 <strong>note:</strong> does not include data from the former Western Sahara<br>
 
-**HIV/AIDS - people living with HIV/AIDS**<br>
-22,000 (2020 est.)<br>
-<strong>note:</strong> does not include data from the former Western Sahara<br>
-
-**HIV/AIDS - deaths**<br>
-(2020 est.) &lt;500<br>
-<strong>note:</strong> does not include data from the former Western Sahara<br>
-
 **Obesity - adult prevalence rate**<br>
 26.1% (2016)<br>
 <strong>note:</strong> does not include data from the former Western Sahara<br>
@@ -470,6 +462,7 @@ $118.858 billion (2019 est.)<br>
 _Fitch rating_: BB+ (2020)<br>
 _Moody's rating_: Ba1 (1999)<br>
 _Standard & Poors rating_: BBB- (2010)<br>
+<strong>note: </strong>The year refers to the year in which the current credit rating was first obtained.<br>
 
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 14% (2017 est.)<br>

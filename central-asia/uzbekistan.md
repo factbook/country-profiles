@@ -197,12 +197,6 @@ _unimproved: total_: total: 0% of population (2020 est.)<br>
 **HIV/AIDS - adult prevalence rate**<br>
 0.2% (2020 est.)<br>
 
-**HIV/AIDS - people living with HIV/AIDS**<br>
-58,000 (2020 est.)<br>
-
-**HIV/AIDS - deaths**<br>
-(2020 est.) <1,000<br>
-
 **Obesity - adult prevalence rate**<br>
 16.6% (2016)<br>
 
@@ -427,6 +421,7 @@ $57.789 billion (2019 est.)<br>
 _Fitch rating_: BB- (2018)<br>
 _Moody's rating_: B1 (2019)<br>
 _Standard & Poors rating_: BB- (2018)<br>
+<strong>note: </strong>The year refers to the year in which the current credit rating was first obtained.<br>
 
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 17.9% (2017 est.)<br>
@@ -707,10 +702,6 @@ Islamic Jihad Union; Islamic Movement of Uzbekistan; Islamic State of Iraq and a
 
 **Refugees and internally displaced persons**<br>
 _stateless persons_: 59,136 (mid-year 2021)<br>
-
-**Trafficking in persons**<br>
-_current situation_: Uzbekistan is a source country for men, women, and children subjected to forced labor and women and children subjected to sex trafficking; adults are victims of government-organized forced labor during Uzbekistan&rsquo;s annual cotton harvest; local officials in some instances force teachers, students (including children), private businesses employees, and others to work in construction and other forms of non-cotton agriculture and to clean parks, streets, and buildings; traffickers exploit Uzbek women and children in sex trafficking in the Middle East, Eurasia, and Asia, and internally in brothels, clubs, and private residences; traffickers subject Uzbek men, and to a lesser extent women, to forced labor in Kazakhstan, Russia, Moldova, Turkey, and in other Asian, Middle Eastern, and European countries in the construction, oil and gas, agricultural, retail, and food sectors<br>
-_tier rating_: Tier 2 Watch List &mdash; Uzbekistan does not fully comply with the minimum standards for the elimination of trafficking but is making significant efforts to do so; government efforts included addressing the use of forced adult labor during the cotton harvest by increasing pay to laborers and improving working conditions for voluntary workers and ceasing the forced use of students, teachers, and health care workers; third-party monitors were allowed access to the harvest to view changes; the government created a National Commission on Trafficking chaired by the regional governor in every area of the country; however, reports continued of corrupt officials requiring public sector employees to pick cotton or pay for a replacement worker with extorted penalties paid to them; fewer cases of traffickers were investigated and prosecuted, fewer victims of trafficking were identified, and fewer convictions carried a prison sentence; authorities conducted no investigations against corrupt officials extorting money during the cotton harvest (2020)<br>
 
 **Illicit drugs**<br>
 <p>transit country for Afghan opium and heroin destined for Russia and the European Union; also transit country for hashish, cannabis products, New Psychoactive Substances (NPS), and synthetic drugs; cannabis and poppy are cultivated in small amounts for personal use and local sale</p><br>

@@ -201,12 +201,6 @@ _unimproved: total_: total: 0.2% of population (2020 est.)<br>
 **HIV/AIDS - adult prevalence rate**<br>
 NA<br>
 
-**HIV/AIDS - people living with HIV/AIDS**<br>
-NA<br>
-
-**HIV/AIDS - deaths**<br>
-NA<br>
-
 **Obesity - adult prevalence rate**<br>
 18.6% (2016)<br>
 
@@ -603,7 +597,7 @@ _subscriptions per 100 inhabitants_: 162.86 (2019)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: the nation of Turkmenistan, which rivals only North Korea for its isolationism, continues to keep its telecom sector along with the broader populace under tight control; the country inched up just one point off the bottom of the world rankings for press and internet freedom in the most recent report from Reporters Without Borders; most social networks in the country are blocked, although locals do have access to the government-developed platform released in 2019; all internet users, however, need to identify themselves before logging on, and strict censorship over what can be viewed is in force; the end result is that Turkmenistan has one of the lowest penetration rates for internet access in the world (2022)<br>
-_domestic_: fixed-line nearly 12 per 100 and mobile-cellular teledensity is about 163 per 100 persons; first telecommunication satellite was launched in 2015 (2019)<br>
+_domestic_: fixed-line nearly 12 per 100 and mobile-cellular teledensity is about 155 per 100 persons; first telecommunication satellite was launched in 2015 (2020)<br>
 _international_: country code - 993; linked by fiber-optic cable and microwave radio relay to other CIS republics and to other countries by leased connections to the Moscow international gateway switch; an exchange in Ashgabat switches international traffic through Turkey via Intelsat; satellite earth stations - 1 Orbita and 1 Intelsat (2018)<br>
 <strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress toward 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>
 

@@ -188,12 +188,6 @@ _unimproved: total_: total: 14.4% of population (2020 est.)<br>
 **HIV/AIDS - adult prevalence rate**<br>
 0.5% (2020 est.)<br>
 
-**HIV/AIDS - people living with HIV/AIDS**<br>
-2,400 (2020 est.)<br>
-
-**HIV/AIDS - deaths**<br>
-(2020 est.) <100<br>
-
 **Obesity - adult prevalence rate**<br>
 11.8% (2016)<br>
 
@@ -327,14 +321,14 @@ _residency requirement for naturalization_: 5 years<br>
 _chief of state_: President Jose Maria NEVES (since 9 November 2021)<br>
 _head of government_: Prime Minister Ulisses CORREIA E. SILVA (since 22 April 2016)<br>
 _cabinet_: Council of Ministers appointed by the president on the recommendation of the prime minister<br>
-_elections/appointments_: president directly elected by absolute majority popular vote in 2 rounds if needed for a 5-year term (eligible for a second term); election last held on 17 October 2021 (next to be held on 17 October 2026); prime minister nominated by the National Assembly and appointed by the president (2021)<br>
-_election results_: Jose Maria NEVES elected president; percent of vote - Jose Maria NEVES (APICV) 51.73%, Carlos VEIGA (MFD) 42.37%, Casimiro DE PINA (Independent) 1.81%, Fernando Rocha DELGADO (Independent) 1.36%, Helio SANCHES (Independent) 1.14%, Gilson ALVES (Independent)  0.84%, Joaquim MONTEIRO (Independent) 3.4%<br><br>Jorge Carlos FONSECA reelected president; percent of vote - Jorge Carlos FONSECA (MPD) 74.1%, Albertino GRACA (independent) 22.5%, other 3% (2021)<br>
+_elections/appointments_: president directly elected by absolute majority popular vote in 2 rounds if needed for a 5-year term (eligible for a second term); election last held on 17 October 2021 (next to be held in October 2026); prime minister nominated by the National Assembly and appointed by the president (2021)<br>
+_election results_: <em>election results: 2020: </em>Jose Maria NEVES elected president; percent of vote - Jose Maria NEVES (PAICV) 51.7%, Carlos VEIGA (MPD) 42.4%, Casimiro DE PINA (Independent) 1.8%, Fernando Rocha DELGADO (Independent) 1.4%, Helio SANCHES (independent) 1.14%, Gilson ALVES (independent) 0.8%, Joaquim MONTEIRO (independent) 3.4%<br><br><em>election results: 2015: </em>Jorge Carlos FONSECA reelected president; percent of vote - Jorge Carlos FONSECA (MPD) 74.1%, Albertino GRACA (independent) 22.5%, other 3% (2021)<br>
 African Party for the Independence of Cape Verde (APICV)<br>Movement for Democracy (MFD)<br>
 
 **Legislative branch**<br>
 _description_: unicameral National Assembly or Assembleia Nacional (72 seats; members directly elected in multi-seat constituencies by proportional representation vote; members serve 5-year terms)<br>
-_elections_: last held on 18 April 2021 (next to be held on 18 April 2026) (2021)<br>
-_election results_: percent of vote by party Monument for Democracy 50.2%, African Party for Independence in Cape Verde 39.55%, Democratic and Independent Cape Verdean Union 9.0%; seats by party - MD 38, APICV 30, DICVU 4; composition - men 44, women 28, percent of women 37.5% (2021)<br>
+_elections_: last held on 18 April 2021 (next to be held in April 2026) (2021)<br>
+_election results_: percent of vote by party MPD 50.2%, PAICV 39.6%, UCID 9.0%; seats by party - MPD 38, PAICV 30, UCID 4; composition - men 44, women 28, percent of women 37.5% (2021)<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme Court of Justice (consists of the chief justice and at least 7 judges and organized into civil, criminal, and administrative sections)<br>
@@ -342,7 +336,7 @@ _judge selection and term of office_: judge appointments - 1 by the president of
 _subordinate courts_: appeals courts, first instance (municipal) courts; audit, military, and fiscal and customs courts<br>
 
 **Political parties and leaders**<br>
-African Party for Independence of Cabo Verde or PAICV [Janira Hopffer ALMADA]<br>Democratic and Independent Cabo Verdean Union or UCID [João DOS SANTOS LUIS]<br>Democratic Christian Party or PDC [Manuel RODRIGUES]<br>Democratic Renewal Party or PRD [Victor FIDALGO]<br>Movement for Democracy or MPD [Ulisses CORREIA E SILVA]<br>Party for Democratic Convergence or PCD [Dr. Eurico MONTEIRO]<br>Party of Work and Solidarity or PTS [Anibal MEDINA]<br>Social Democratic Party or PSD [Joao ALEM]<br>
+African Party for Independence of Cabo Verde or PAICV [Jose Maria NEVES]<br>Democratic and Independent Cabo Verdean Union or UCID [João DOS SANTOS LUIS]<br>Democratic Christian Party or PDC [Manuel RODRIGUES]<br>Democratic Renewal Party or PRD [Victor FIDALGO]<br>Movement for Democracy or MPD [Ulisses CORREIA E SILVA]<br>Party for Democratic Convergence or PCD [Dr. Eurico MONTEIRO]<br>Party of Work and Solidarity or PTS [Anibal MEDINA]<br>Social Democratic Party or PSD [Joao ALEM]<br>
 
 **International organization participation**<br>
 ACP, AfDB, AOSIS, AU, CD, CPLP, ECOWAS, FAO, G-77, IAEA, IBRD, ICAO, ICCt (signatory), ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ITSO, ITU, ITUC (NGOs), MIGA, NAM, OIF, OPCW, UN, UNCTAD, UNESCO, UNIDO, Union Latina, UNWTO, UPU, WCO, WHO, WIPO, WMO, WTO<br>
@@ -411,6 +405,7 @@ $1.971 billion (2019 est.)<br>
 **Credit ratings**<br>
 _Fitch rating_: B- (2020)<br>
 _Standard & Poors rating_: B (2013)<br>
+<strong>note: </strong>The year refers to the year in which the current credit rating was first obtained.<br>
 
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 8.9% (2017 est.)<br>
@@ -426,7 +421,7 @@ _exports of goods and services_: 48.6% (2017 est.)<br>
 _imports of goods and services_: -51.1% (2017 est.)<br>
 
 **Agricultural products**<br>
-sugar cane, tomatoes, bananas, cabbages, coconuts, cassava, pulses nes, vegetables, milk, goat milk<br>
+sugar cane, tomatoes, bananas, cabbages, coconuts, cassava, pulses,vegetables, milk, goat milk<br>
 
 **Industries**<br>
 food and beverages, fish processing, shoes and garments, salt mining, ship repair<br>
@@ -478,9 +473,10 @@ calendar year<br>
 -$40 million (2016 est.)<br>
 
 **Exports**<br>
-$420 million (2020 est.) note: data are in current year dollars<br>
-$1 billion (2019 est.) note: data are in current year dollars<br>
-$960 million (2018 est.) note: data are in current year dollars<br>
+$420 million (2020 est.)<br>
+$1 billion (2019 est.)<br>
+$960 million (2018 est.)<br>
+<strong>note:</strong> Data are in current year dollars and do not include illicit exports or re-exports.<br>
 
 **Exports - partners**<br>
 Spain 65%, Portugal 14%, Italy 8% (2019)<br>

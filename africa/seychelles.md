@@ -185,12 +185,6 @@ _unimproved: total_: total: 0% of population (2020 est.)<br>
 **HIV/AIDS - adult prevalence rate**<br>
 NA<br>
 
-**HIV/AIDS - people living with HIV/AIDS**<br>
-NA<br>
-
-**HIV/AIDS - deaths**<br>
-NA<br>
-
 **Obesity - adult prevalence rate**<br>
 14% (2016)<br>
 
@@ -401,6 +395,7 @@ $1.748 billion (2019 est.)<br>
 
 **Credit ratings**<br>
 _Fitch rating_: B+ (2020)<br>
+<strong>note: </strong>The year refers to the year in which the current credit rating was first obtained.<br>
 
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 2.5% (2017 est.)<br>
@@ -670,8 +665,4 @@ formed in 1977, the SDF's primary responsibility is maritime security, particula
 
 **Disputes - international**<br>
 <p><em>Seychelles-UK</em>: Mauritius and Seychelles claim the Chagos Islands (UK-administered British Indian Ocean Territory)</p><br>
-
-**Trafficking in persons**<br>
-_current situation_: Seychelles is a source and destination country for children and women subjected to sex trafficking; Seychellois girls and, to a lesser extent boys, are forced into prostitution in nightclubs, bars, guest houses, hotels, brothels, private homes, and on the streets by peers, family members, and pimps; foreign tourists, sailors, and migrant workers contribute to the demand for commercial sex acts in Seychelles; some of the large population of foreign migrant workers reportedly experience the underpayment of wages and substandard housing<br>
-_tier rating_: Tier 2 Watch List &mdash; Seychelles does not fully meet the minimum standards for the elimination of trafficking but is making significant efforts to do so; the government allocated an operational and programmatic budget to the National Coordinating Committee on Trafficking in Persons, signed a bilateral agreement outlining procedures for employment and repatriation in Seychelles of migrant workers from Bangladesh and established a hotline to report forced labor concerns; however, no victims of trafficking were identified; efforts to address sex trafficking remained inadequate, its standard operating procedures for victim identification and referral to care services were not implemented; there are no shelters or care facilities for trafficking victims; investigations, prosecutions, and convictions of traffickers decreased; Seychelles did not establish a secretariat to support the Coordinating Committee, hindering the committee&rsquo;s ability to direct anti-trafficking efforts across government and drive national policy; Seychelles was downgraded to Tier 2 Watch List (2020)<br>
 

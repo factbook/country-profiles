@@ -194,13 +194,6 @@ _unimproved: total_: total: 0% of population (2020 est.)<br>
 **HIV/AIDS - adult prevalence rate**<br>
 0.2% (2020 est.)<br>
 
-**HIV/AIDS - people living with HIV/AIDS**<br>
-140,000 (2020 est.)<br>
-<strong>note: </strong>estimate does not include children<br>
-
-**HIV/AIDS - deaths**<br>
-(2020 est.) <1000<br>
-
 **Major infectious diseases**<br>
 <strong>note:</strong> a new coronavirus is causing respiratory illness (COVID-19) in Italy; illness with this virus has ranged from mild to severe with fatalities reported; as of 6 June 2022, Italy has reported a total of 17,505,973 cases of COVID-19 or 29,352 cumulative cases of COVID-19 per 100,000 population with a total of 166,949 cumulative deaths or a rate of 279.9 cumulative deaths per 100,000 population; as of 6 June 2022, 84.1% of the population has received at least one dose of COVID-19 vaccine; the US Department of Homeland Security has issued instructions requiring US passengers who have been in Italy to travel through select airports where the US Government has implemented enhanced screening procedures<br>
 
@@ -434,6 +427,7 @@ $2,002,763,000,000 (2019 est.)<br>
 _Fitch rating_: BBB- (2020)<br>
 _Moody's rating_: Baa3 (2018)<br>
 _Standard & Poors rating_: BBB (2017)<br>
+<strong>note: </strong>The year refers to the year in which the current credit rating was first obtained.<br>
 
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 2.1% (2017 est.)<br>
@@ -735,9 +729,9 @@ Islamic State of Iraq and ash-Sham (ISIS)<br>
 <p>Italy's long coastline and developed economy entices tens of thousands of illegal immigrants from southeastern Europe and northern Africa</p> <p><em>Italy-Austria-Switzerland</em>: borders are shifting because glacier peaks that had served as a natural boundary are melting</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 19,441 (Nigeria), 15,337 (Pakistan), 12,962 (Afghanistan), 10,609 (Mali), 7,901 (Somalia), 5,845 (Gambia), 5,079 (Iraq) (mid-year 2021); 171,546 (Ukraine) (as of 31 October 2022)<br>
+_refugees (country of origin)_: 19,441 (Nigeria), 15,337 (Pakistan), 12,962 (Afghanistan), 10,609 (Mali), 7,901 (Somalia), 5,845 (Gambia), 5,079 (Iraq) (mid-year 2021); 173,231 (Ukraine) (as of 22 November 2022)<br>
 _stateless persons_: 3,000 (mid-year 2021)<br>
-<strong>note:</strong> 682,830 estimated refugee and migrant arrivals (January 2015-November 2022)<br>
+<strong>note:</strong> 685,463 estimated refugee and migrant arrivals (January 2015-November 2022)<br>
 
 **Illicit drugs**<br>
 important gateway for drug trafficking; organized crime groups allied with Colombian and Spanish groups trafficking cocaine to Europe<br>

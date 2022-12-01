@@ -199,12 +199,6 @@ _unimproved: total_: total: 0% of population (2020 est.)<br>
 **HIV/AIDS - adult prevalence rate**<br>
 NA<br>
 
-**HIV/AIDS - people living with HIV/AIDS**<br>
-NA<br>
-
-**HIV/AIDS - deaths**<br>
-NA<br>
-
 **Major infectious diseases**<br>
 _degree of risk_: intermediate (2016)<br>
 _vectorborne diseases_: tickborne encephalitis (2016)<br>
@@ -446,6 +440,7 @@ $595.72 billion (2019 est.)<br>
 _Fitch rating_: A- (2007)<br>
 _Moody's rating_: A2 (2002)<br>
 _Standard & Poors rating_: A- (2018)<br>
+<strong>note: </strong>The year refers to the year in which the current credit rating was first obtained.<br>
 
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 2.4% (2017 est.)<br>
@@ -724,8 +719,8 @@ approximately 120,000 active duty personnel (65,000 Army; 7,000 Navy; 15,000 Air
 <strong>note: </strong>in June 2019, the Polish Government approved a plan to increase the size of the military over a period of 10 years to over 200,000 troops, including doubling the size of the Territorial Defense Forces; in 2021, it announced additional plans to increase the size of the military to over 300,000 personnel<br>
 
 **Military equipment inventories and acquisitions**<br>
-the inventory of the Polish Armed Forces consists of a mix of Soviet-era and more modern Western weapons systems; since 2010, the leading suppliers of armaments have included Finland, Germany, Italy, and the US (2021)<br>
-<strong>note:</strong> in late 2018, Poland announced a 7-year (through 2026) approximately $50 billion defense modernization plan that would include such items as 5th generation combat aircraft, unmanned aerial vehicles, rocket artillery, helicopters, submarines, frigates, and improved cyber security<br>
+the inventory of the Polish Armed Forces consists of a mix of Soviet-era and more modern Western weapons systems; since 2010, the leading suppliers of armaments have included Finland, Germany, Italy, and the US (2022)<br>
+<strong>note:</strong> in late 2018, Poland announced a 7-year (through 2026) approximately $50 billion defense modernization plan that would include such items as 5th generation combat aircraft, unmanned aerial vehicles, rocket artillery, helicopters, submarines, frigates, and improved cyber security; in 2022, it signed large military weapons contracts with South Korea and the US<br>
 
 **Military service age and obligation**<br>
 18-28 years of age for male and female voluntary military service; conscription phased out in 2009-12; professional soldiers serve on a permanent basis (for an unspecified period of time) or on a contract basis (for a specified period of time); initial contract period is 24 months; women serve in the military on the same terms as men (2022)<br>
@@ -750,7 +745,7 @@ Islamic State of Iraq and ash-Sham (ISIS)<br>
 <p><em>Poland-Belarus-Ukraine</em>: as a member state that forms part of the EU's external border, Poland has implemented the strict Schengen border rules to restrict illegal immigration and trade along its eastern borders with Belarus and Ukraine</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 9,870 (Russia) (2019); 1,489,155 (Ukraine) (as of 8 November 2022)<br>
+_refugees (country of origin)_: 9,870 (Russia) (2019); 1,507,893 (Ukraine) (as of 22 November 2022)<br>
 _stateless persons_: 1,389 (mid-year 2021)<br>
 
 **Illicit drugs**<br>

@@ -202,12 +202,6 @@ _unimproved: total_: total: 0.1% of population (2020 est.)<br>
 **HIV/AIDS - adult prevalence rate**<br>
 0.3% (2020 est.)<br>
 
-**HIV/AIDS - people living with HIV/AIDS**<br>
-35,000 (2020 est.)<br>
-
-**HIV/AIDS - deaths**<br>
-(2020 est.) <500<br>
-
 **Obesity - adult prevalence rate**<br>
 21% (2016)<br>
 
@@ -325,7 +319,7 @@ _etymology_: the name means "capital city" in Kazakh<br><br>
 <strong>note:</strong> on 17 September 2022, Kazakhstan changed the name of its capital city from Nur-Sultan back to Astana; this was not the first time the city had its name changed; founded in 1830 as Akmoly, it became Akmolinsk in 1832, Tselinograd in 1961, Akmola (Aqmola) in 1992, Astana in 1998, and Nur-Sultan in 2019; the latest name change occurred just three and a half years after the city was renamed to honor a long-serving (28-year) former president, who subsequently fell out of favor<br>
 
 **Administrative divisions**<br>
-17 provinces (oblyslar, singular - oblys) and 4 cities* (qalalar, singular - qala); Abay (Semey), Almaty (Qonaev), Almaty*, Aqmola (Kokshetau), Aqtobe, Astana*, Atyrau, Batys Qazaqstan [West Kazakhstan] (Oral), Bayqongyr*, Mangghystau (Aqtau), Pavlodar, Qaraghandy, Qostanay, Qyzylorda, Shyghys Qazaqstan [East Kazakhstan] (Oskemen), Shymkent*, Soltustik Qazaqstan [North Kazakhstan] (Petropavl), Turkistan, Ulytau (Zhezqazghan), Zhambyl (Taraz), Zhetisu (Taldyqorghan)<br>
+17 provinces (oblystar, singular - oblys) and 4 cities* (qalalar, singular - qala); Abay (Semey), Almaty (Qonaev), Almaty*, Aqmola (Kokshetau), Aqtobe, Astana*, Atyrau, Batys Qazaqstan [West Kazakhstan] (Oral), Bayqongyr*, Mangghystau (Aqtau), Pavlodar, Qaraghandy, Qostanay, Qyzylorda, Shyghys Qazaqstan [East Kazakhstan] (Oskemen), Shymkent*, Soltustik Qazaqstan [North Kazakhstan] (Petropavl), Turkistan, Ulytau (Zhezqazghan), Zhambyl (Taraz), Zhetisu (Taldyqorghan)<br>
 <strong>note:</strong> administrative divisions have the same names as their administrative centers (exceptions have the administrative center name following in parentheses); in 1995, the Governments of Kazakhstan and Russia entered into an agreement whereby Russia would lease for a period of 20 years an area of 6,000 sq km enclosing the Baikonur space launch facilities and the city of Bayqongyr (Baikonur, formerly Leninsk); in 2004, a new agreement extended the lease to 2050<br>
 
 **Independence**<br>
@@ -354,11 +348,11 @@ _residency requirement for naturalization_: 5 years<br>
 18 years of age; universal<br>
 
 **Executive branch**<br>
-_chief of state_: President Kasym-Zhomart TOKAYEV (since 20 March 2019); note - Nursultan NAZARBAYEV, who was president since 24 April 1990 (and in power since 22 June 1989 under the Soviet Union), resigned on 20 March 2019; NAZARBAYEV retained the title and powers of "First President"; TOKAYEV completed NAZARBAYEV's term, which was shortened due to the early election of 9 June 2019, and then continued as president following his election victory<br>
+_chief of state_: President Kasym-Zhomart TOKAYEV (since 20 March 2019)<br>
 _head of government_: Prime Minister Alikhan SMAILOV (since 11 January 2022); note - Prime Minister Askar MAMIN resigned on 5 January 2022 in the wake of massive protests of his government that began 2 January 2022 following a sudden, steep rise in gasoline prices<br>
 _cabinet_: the president appoints ministers after consultations with the Chair of the Security Council; the president has veto power over all appointments except for the ministers of defense, internal affairs, and foreign affairs; however, the president is required to discuss these three offices with the National Security Committee<br>
-_elections/appointments_: president directly elected by simple majority popular vote for a 5-year term (eligible for a second consecutive term); election last held on 9 June 2019 (next to be held in 2024); prime minister and deputy prime ministers appointed by the president, approved by the Mazhilis<br>
-_election results_: 2019: Kasym-Zhomart TOKAYEV elected president; percent of vote - Kasym-Zhomart TOKAYEV (Nur Otan) 71%, Amirzhan KOSANOV (Ult Tagdyry) 16.2%, Daniya YESPAYEVA (Ak Zhol) 5.1%, other 7.7%<br><br>1991: Nursultan NAZARBAYEV elected the first president of Kazakhstan; percent of vote 98.8%, other 1.2%<br> <pre> </pre><br>
+_elections/appointments_: president directly elected by simple majority popular vote for a 7-year term (prior to September 2022, the president of Kazakhstan could serve up to two terms of five years each; the legislation was changed in September 2022, reducing the maximum number of terms to one term of seven years); election last held on 20 November 2022 (next to be held in 2029); prime minister and deputy prime ministers appointed by the president, approved by the Mazhilis<br>
+_election results_: 2022: Kasym-Zhomart TOKAYEV elected president; percent of vote - Kasym-Zhomart TOKAYEV (Nur Otan) 81.3%, Jiguli DAIRABAEV 3.4%, Qaraqat ABDEN 2.6%, Meiram QAJYKEN 2.5%, Nurian AUESBAEV 2.2%, Saltanat TURSYNBEKOVA 2.1%, other 5.8%<br><br>2019: Kasym-Zhomart TOKAYEV elected president; percent of vote - Kasym-Zhomart TOKAYEV (Nur Otan) 71%, Amirzhan KOSANOV (Ult Tagdyry) 16.2%, Daniya YESPAYEVA (Ak Zhol) 5.1%, other 7.7%<br><br>1991: Nursultan NAZARBAYEV elected the first president of Kazakhstan; percent of vote 98.8%, other 1.2%<br> <pre> </pre><br>
 
 **Legislative branch**<br>
 _description_: bicameral Parliament consists of:<br>Senate (49 seats statutory, 48 as of October 2021); 34 members indirectly elected by 2-round majority vote by the oblast-level assemblies and 15 members appointed by decree of the president; members serve 6-year terms, with one-half of the membership renewed every 3 years)<br>Mazhilis (107 seats; 98 members directly elected in a single national constituency by proportional representation vote to serve 5-year terms and 9 indirectly elected by the Assembly of People of Kazakhstan, a 351-member, presidentially appointed advisory body designed to represent the country's ethnic minorities)<br>
@@ -442,6 +436,7 @@ $181.194 billion (2019 est.)<br>
 _Fitch rating_: BBB (2016)<br>
 _Moody's rating_: Baa3 (2016)<br>
 _Standard & Poors rating_: BBB- (2016)<br>
+<strong>note: </strong>The year refers to the year in which the current credit rating was first obtained.<br>
 
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 4.7% (2017 est.)<br>
@@ -730,10 +725,6 @@ Kazakhstan has been a member of the Collective Security Treaty Organization (CST
 
 **Refugees and internally displaced persons**<br>
 _stateless persons_: 7,915 (mid-year 2021)<br>
-
-**Trafficking in persons**<br>
-_current situation_: human traffickers exploit domestic and foreign victims in Kazakhstan and Kazakhstanis abroad; traffickers lure victims from rural areas to larger cities with fake offers of employment; traffickers coerce or force Kazakhstani men and women into labor in Russia, Bahrain, Brazil, the Republic of Korea, Turkey, and the United Arab Emirates; sex traffickers exploit Kazakhstani women and girls in the Middle East, Europe, East Asia, the United States, Central Asian and Eastern European countries and rural areas in Kazakhstan; children are forced to beg and adults and children may be coerced into criminal behavior; traffickers are increasingly using debt-based coercion; traffickers capitalize on tough law enforcement policies on migrants to coerce them to remain and leverage these policies to threaten victims with punishment and deportation if they notify authorities, which fosters a distrust in law enforcement<br>
-_tier rating_: Tier 2 Watch List —<strong> </strong>Kazakhstan does not fully meet the minimum standards for the elimination of trafficking but is making significant efforts to do so; the government adopted amendments increasing criminal penalties for traffickers, including rescinding the provision allowing alleged traffickers to pay a settlement to victims to withdraw their criminal cases; authorities developed victim identification guidelines for diplomatic staff and provided victim identification training to some labor inspectors; the government took initial steps toward improving its annual NGO funding process; the government’s efforts to identify and protect foreign victims increased; foreign victims who did not participate in criminal investigations were ineligible for services and were deported; law enforcement continued to make limited efforts to investigate, prosecute, and convict labor trafficking crimes; trafficking convictions decreased for the fourth consecutive year; NGOs reported allegations of police officers’ involvement in human trafficking, but few police or other officials suspected of complicity were investigated or prosecuted (2020)<br>
 
 **Illicit drugs**<br>
 <p>synthetic drugs dominate the local illicit drug market, smuggled from Southeast Asia, China, Russia and Europe; however the number of domestic clandestine laboratories producing synthetic drugs continues to increase;  remains a transit country for Afghan heroin destined for Russia and Europe.</p><br>

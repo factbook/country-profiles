@@ -192,12 +192,6 @@ _unimproved: total_: total: (2020 est.) NA<br>
 **HIV/AIDS - adult prevalence rate**<br>
 (2018) <.1%<br>
 
-**HIV/AIDS - people living with HIV/AIDS**<br>
-(2018) <500<br>
-
-**HIV/AIDS - deaths**<br>
-(2018) <100<br>
-
 **Obesity - adult prevalence rate**<br>
 17.9% (2016)<br>
 
@@ -336,7 +330,7 @@ _residency requirement for naturalization_: 8 years<br>
 18 years of age, 16 if employed; universal<br>
 
 **Executive branch**<br>
-_chief of state_: Chairman of the Presidency Sefik DZAFEROVIC (chairman since 20 March 2022; presidency member since 20 November 2018 - Bosniak seat); Zeljko KOMSIC&nbsp; (presidency member since 20 November 2018 - Croat seat); Milorad DODIK (presidency member since 20 November 2018 - Serb seat)<br>
+_chief of state_: Chairman of the Presidency Zeljka CVIJANOVIC (chairman since 16 November 2022; presidency member since 16 November 2022 - Serb seat); Zeljko KOMSIC (presidency member since 20 November 2018 - Croat seat); Denis BECIROVIC (presidency member since 16 November 2022 - Bosniak seat)<br>
 _head of government_: Chairman of the Council of Ministers Zoran TEGELTIJA &nbsp;(since 5 December 2019)<br>
 _cabinet_: Council of Ministers nominated by the council chairman, approved by the state-level House of Representatives<br>
 _elections/appointments_: 3-member presidency (1 Bosniak and 1 Croat elected from the Federation of Bosnia and Herzegovina and 1 Serb elected from the Republika Srpska) directly elected by simple majority popular vote for a 4-year term (eligible for a second term, but then ineligible for 4 years); the presidency chairpersonship rotates every 8 months with the new member of the presidency elected with the highest number of votes starting the new mandate as chair; election last held on 2 October 2022 (next to be held in October 2026); the chairman of the Council of Ministers appointed by the presidency and confirmed by the state-level House of Representatives<br>
@@ -424,6 +418,7 @@ $20.078 billion (2019 est.)<br>
 **Credit ratings**<br>
 _Moody's rating_: B3 (2012)<br>
 _Standard & Poors rating_: B (2011)<br>
+<strong>note: </strong>The year refers to the year in which the current credit rating was first obtained.<br>
 
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 6.8% (2017 est.)<br>
@@ -499,9 +494,10 @@ calendar year<br>
 -$821 million (2016 est.)<br>
 
 **Exports**<br>
-$6.81 billion (2020 est.) note: data are in current year dollars<br>
-$8.17 billion (2019 est.) note: data are in current year dollars<br>
-$8.57 billion (2018 est.) note: data are in current year dollars<br>
+$6.81 billion (2020 est.)<br>
+$8.17 billion (2019 est.)<br>
+$8.57 billion (2018 est.)<br>
+<strong>note:</strong> Data are in current year dollars and do not include illicit exports or re-exports.<br>
 
 **Exports - partners**<br>
 Germany 14%, Italy 12%, Croatia 11%, Serbia 11%, Austria 9%, Slovenia 8% (2019)<br>
@@ -714,11 +710,7 @@ Islamic Revolutionary Guard Corps/Qods Force<br>
 _refugees (country of origin)_: 5,112 (Croatia) (2020)<br>
 _IDPs_: 92,000 (Bosnian Croats, Serbs, and Bosniaks displaced by inter-ethnic violence, human rights violations, and armed conflict during the 1992-95 war) (2021)<br>
 _stateless persons_: 149 (mid-year 2021)<br>
-<strong>note: </strong>108,229 estimated refugee and migrant arrivals (January 2015-November 2022)<br>
-
-**Trafficking in persons**<br>
-_current situation_: human traffickers exploit domestic and foreign victims in Bosnia and Herzegovina and Bosnians and Herzegovinians abroad; Bosnian and foreign women and girls are sex trafficked within the country; Bosnians are also exploited through forced labor in construction and other industries in neighboring Balkan countries and throughout Europe; thousands of migrants and refugees smuggled through Bosnia and Herzegovina are vulnerable to trafficking, especially women and unaccompanied minors; Romani children are victims of forced begging, sex trafficking, and domestic servitude<br>
-_tier rating_: Tier 2 Watch List &mdash; Bosnia and Herzegovina does not fully meet the minimum standards for the elimination of trafficking but is making significant efforts to do so; because the government devoted sufficient resources to a written plan that, if implemented, would constitute significant efforts to meet minimum standards, Bosnia and Herzegovina was granted a waiver from being downgraded to Tier 3; the government adopted a national strategy in January 2020; the State Prosecutor&rsquo;s Office appointed a prosecutor to the anti-trafficking strike force, the only mechanism to coordinate law enforcement efforts across entities on trafficking cases; the government identified more trafficking victims and revised the structure and guidelines of regional coordinating teams to increase effectiveness; however, the lack of an approved state budget delayed funding for anti-trafficking efforts; law enforcement continued to regularly investigate trafficking under lesser offenses, while judges continued to issue sentences below the minimum penalty; the government continued to penalize victims and did not disburse annual funds to NGOs for victim protection (2020)<br>
+<strong>note: </strong>108,942 estimated refugee and migrant arrivals (January 2015-November 2022)<br>
 
 **Illicit drugs**<br>
 <p>drug trafficking groups are major players in the procurement and transportation of large quantities of cocaine  destined for  European markets</p><br>

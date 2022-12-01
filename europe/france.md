@@ -110,7 +110,7 @@ French (official) 100%, declining regional dialects and languages (Provencal, Br
 _major-language sample(s)_: <br>The World Factbook, une source indispensable d'informations de base. (French)<br><br>The World Factbook, the indispensable source for basic information.<br>
 
 **Religions**<br>
-Roman Catholic 47%, Muslim 4%, Protestant 2%, Buddhists 2%, Orthodox 1%, Jewish 1%, other 1%, none 33%, unspecified 9%<br>
+Roman Catholic 47%, Muslim 4%, Protestant 2%, Buddhist 2%, Orthodox 1%, Jewish 1%, other 1%, none 33%, unspecified 9%<br>
 <strong>note:</strong> France maintains a tradition of secularism and has not officially collected data on religious affiliation since the 1872 national census, which complicates assessments of France's religious composition; an 1872 law prohibiting state authorities from collecting data on individuals' ethnicity or religious beliefs was reaffirmed by a 1978 law emphasizing the prohibition of the collection or exploitation of personal data revealing an individual's race, ethnicity, or political, philosophical, or religious opinions; a 1905 law codified France's separation of church and state<br>
 
 **Age structure**<br>
@@ -182,7 +182,7 @@ _female_: 85.79 years (2022 est.)<br>
 2.03 children born/woman (2022 est.)<br>
 
 **Contraceptive prevalence rate**<br>
-78.4% (2010/11)<br>
+NA<br>
 
 **Drinking water source**<br>
 _improved: urban_: urban: 100% of population<br>
@@ -211,12 +211,6 @@ _unimproved: total_: total: 0% of population (2020 est.)<br>
 
 **HIV/AIDS - adult prevalence rate**<br>
 0.3% (2019 est.)<br>
-
-**HIV/AIDS - people living with HIV/AIDS**<br>
-190,000 (2019 est.)<br>
-
-**HIV/AIDS - deaths**<br>
-(2019 est.) <500<br>
 
 **Major infectious diseases**<br>
 <strong>note:</strong> widespread ongoing transmission of a respiratory illness caused by the novel coronavirus (COVID-19) is occurring throughout France; as of 18 August 2022, France has reported a total of 33,275,006 cases of COVID-19 or 51,161.33 cumulative cases of COVID-19 per 100,000 population with a total of 149,848 cumulative deaths or a rate 230.39 cumulative deaths per 100,000 population; as of 16 August 2022, 80.89% of the population has received at least one dose of COVID-19 vaccine<br>
@@ -464,6 +458,7 @@ $2,715,574,000,000 (2019 est.)<br>
 _Fitch rating_: AA (2014)<br>
 _Moody's rating_: Aa2 (2015)<br>
 _Standard & Poors rating_: AA (2013)<br>
+<strong>note: </strong>The year refers to the year in which the current credit rating was first obtained.<br>
 
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 1.7% (2017 est.)<br>
@@ -744,10 +739,11 @@ French Armed Forces (Forces Armées Françaises): Army (l'Armee de Terre; includ
 1.8% of GDP (2018) (approximately $57 billion)<br>
 
 **Military and security service personnel strengths**<br>
-approximately 205,000 active duty troops (115,000 Army; 35,000 Navy; 40,000 Air Force; 15,000 other, such as joint staffs, administration, logistics, procurement, medical service, etc.); approximately 100,000 National Gendarmerie; approximately 75,000 National Guard (2022)<br>
+approximately 205,000 active-duty troops (115,000 Army; 35,000 Navy; 40,000 Air Force; 15,000 other, such as joint staffs, administration, logistics, procurement, medical service, etc.); approximately 100,000 National Gendarmerie; approximately 75,000 National Guard (2022)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the French military's inventory consists mostly of domestically-produced weapons systems, including some jointly-produced with other European countries; there is a limited mix of armaments from other Western countries, particularly the US; France has a defense industry capable of manufacturing the full spectrum of air, land, and naval military weapons systems (2022)<br>
+the French military's inventory consists mostly of domestically produced weapons systems, including some jointly produced with other European countries; there is a limited mix of armaments from other Western countries, particularly the US; France has a defense industry capable of manufacturing the full spectrum of air, land, and naval military weapons systems (2022)<br>
+<strong>note:</strong> as of 2022, two major future acquisition programs for the French military included the Franco-German-Spanish Future Combat Air System, or FCAS (known in France as the système combat aérien du futur, or SCAF) and a next-generation tank development project with Germany known as the Main Ground Combat System, or MGCS <br>
 
 **Military service age and obligation**<br>
 18-25 years of age for voluntary military service for men and women; no conscription (abolished 2001); 12-month service obligation; women serve in noncombat posts (2022)<br>
@@ -758,7 +754,7 @@ approximately 3,000 Burkina Faso/Chad/Niger (Operation Barkhane, Operation Sabre
 <strong>note 1:</strong> France has been a contributing member of the EuroCorps since 1992 <br><br><strong>note 2: </strong>in response to Russia’s 2022 invasion of Ukraine, some NATO countries, including France, have sent additional troops to the battlegroups deployed in NATO territory in eastern Europe<br>
 
 **Military - note**<br>
-France was one of the original 12 countries to sign the North Atlantic Treaty (also known as the Washington Treaty), which created NATO in 1949; in 1966, President Charles DE GAULLE decided to withdraw France from NATO’s integrated military structure, reflecting his desire for greater military independence, particularly vis-à-vis the US, and the refusal to integrate France’s nuclear deterrent or accept any form of control over its armed forces; it did, however, sign agreements with NATO setting out procedures in the event of Soviet aggression; beginning with the fall of the Berlin Wall in 1989, France distanced itself from the 1966 decision and has regularly contributed troops to NATO’s military operations, being one of the largest troop-contributing states; in 2009 it officially announced its decision to fully participate in NATO structures<br><br> <p>in 2010, France and the UK signed a declaration on defense and security cooperation that included greater military interoperability and a Combined Joint Expeditionary Force (CJEF), a deployable, combined Anglo-French military force for use in a wide range of crisis scenarios, up to and including high intensity combat operations; the CJEF has no standing forces, but would be available at short notice for French-UK bilateral, NATO, EU, UN, or other operations; combined training exercises began in 2011; as of 2020, the CJEF was assessed as having full operating capacity with the ability to rapidly deploy over 10,000 personnel capable of high intensity operations, peacekeeping, disaster relief, and humanitarian assistance</p> <p>the French Foreign Legion, established in 1831, is a military force that is open to foreign recruits willing to serve in the French Armed Forces for service in France and abroad; the Foreign Legion is an integrated part of the French Army and is comprised of approximately 8,000 personnel in eight regiments, a regiment-sized demi-brigade, a battalion-sized overseas detachment, a battalion-sized recruiting group, and a command staff; the combat units are a mix of armored cavalry and airborne, light, mechanized, and motorized infantry</p> (2022)<br>
+France was one of the original 12 countries to sign the North Atlantic Treaty (also known as the Washington Treaty), which created NATO in 1949; in 1966, President Charles DE GAULLE decided to withdraw France from NATO’s integrated military structure, reflecting his desire for greater military independence, particularly vis-à-vis the US, and the refusal to integrate France’s nuclear deterrent or accept any form of control over its armed forces; it did, however, sign agreements with NATO setting out procedures in the event of Soviet aggression; beginning with the fall of the Berlin Wall in 1989, France distanced itself from the 1966 decision and has regularly contributed troops to NATO’s military operations, being one of the largest troop-contributing states; in 2009 it officially announced its decision to fully participate in NATO structures<br><br>in 2010, France and the UK signed a declaration on defense and security cooperation that included greater military interoperability and a Combined Joint Expeditionary Force (CJEF), a deployable, combined Anglo-French military force for use in a wide range of crisis scenarios, up to and including high intensity combat operations; the CJEF has no standing forces, but would be available at short notice for French-UK bilateral, NATO, EU, UN, or other operations; combined training exercises began in 2011; as of 2020, the CJEF was assessed as having full operating capacity with the ability to rapidly deploy over 10,000 personnel capable of high intensity operations, peacekeeping, disaster relief, and humanitarian assistance <br><br>the French Foreign Legion, established in 1831, is a military force that is open to foreign recruits willing to serve in the French Armed Forces for service in France and abroad; the Foreign Legion is an integrated part of the French Army and is comprised of approximately 8,000 personnel in eight regiments, a regiment-sized demi-brigade, a battalion-sized overseas detachment, a battalion-sized recruiting group, and a command staff; the combat units are a mix of armored cavalry and airborne, light, mechanized, and motorized infantry (2022)<br>
 
 ## Terrorism
 

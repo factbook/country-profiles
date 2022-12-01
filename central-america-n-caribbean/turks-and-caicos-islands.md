@@ -173,12 +173,6 @@ _unimproved: total_: total: 12% of population (2017)<br>
 **HIV/AIDS - adult prevalence rate**<br>
 NA<br>
 
-**HIV/AIDS - people living with HIV/AIDS**<br>
-NA<br>
-
-**HIV/AIDS - deaths**<br>
-NA<br>
-
 **Children under the age of 5 years underweight**<br>
 NA<br>
 
@@ -475,7 +469,7 @@ _subscriptions per 100 inhabitants_: 10 (2020 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: fully digital system with international direct dialing; broadband access; expanded FttP (Fiber to the Home) markets; LTE expansion points to investment and focus on data; regulatory development; telecommunication contributes to greatly to GDP (2020)<br>
-_domestic_: full range of services available; GSM wireless service available; fixed-line teledensity roughly 11 per 100 persons (2019)<br>
+_domestic_: full range of services available; GSM wireless service available; fixed-line teledensity roughly 10 per 100 persons (2020)<br>
 _international_: country code - 1-649;&nbsp;landing point for the&nbsp;ARCOS fiber-optic telecommunications submarine cable providing connectivity to South and Central America, parts of the Caribbean, and the US; satellite earth station - 1 Intelsat (Atlantic Ocean) (2020)<br>
 <strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress toward 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>
 

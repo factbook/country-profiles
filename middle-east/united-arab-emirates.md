@@ -191,12 +191,6 @@ _unimproved: total_: total: 0% of population (2020 est.)<br>
 **HIV/AIDS - adult prevalence rate**<br>
 0.1% (2020)<br>
 
-**HIV/AIDS - people living with HIV/AIDS**<br>
-(2020) <1,000<br>
-
-**HIV/AIDS - deaths**<br>
-100 (2020) <100<br>
-
 **Major infectious diseases**<br>
 <strong>note:</strong> widespread ongoing transmission of a respiratory illness caused by the novel coronavirus (COVID-19) is occurring throughout UAE; as of 18 August 2022, UAE has reported a total of 1,007,039 cases of COVID-19 or 10,181.98 cumulative cases of COVID-19 per 100,000 population with a total of 2,340 cumulative deaths or a rate of 23.65 cumulative deaths per 100,000 population<br>
 
@@ -420,6 +414,7 @@ $421.077 billion (2019 est.)<br>
 _Fitch rating_: AA- (2020)<br>
 _Moody's rating_: Aa2 (2007)<br>
 _Standard & Poors rating_: AA (2007)<br>
+<strong>note: </strong>The year refers to the year in which the current credit rating was first obtained.<br>
 
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 0.9% (2017 est.)<br>

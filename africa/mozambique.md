@@ -84,7 +84,6 @@ the Zambezi River flows through the north-central and most fertile part of the c
 
 **Population**<br>
 31,693,239 (2022 est.)<br>
-<strong>note:</strong> estimates for this country explicitly taken into account the impact of the HIV/AIDS epidemic<br>
 
 **Nationality**<br>
 _noun_: Mozambican(s)<br>
@@ -201,12 +200,6 @@ _unimproved: total_: total: 57.8% of population (2020 est.)<br>
 
 **HIV/AIDS - adult prevalence rate**<br>
 11.5% (2020 est.)<br>
-
-**HIV/AIDS - people living with HIV/AIDS**<br>
-2.1 million (2020 est.)<br>
-
-**HIV/AIDS - deaths**<br>
-38,000 (2020 est.)<br>
 
 **Major infectious diseases**<br>
 _degree of risk_: very high (2020)<br>
@@ -455,6 +448,7 @@ $14.964 billion (2019 est.)<br>
 _Fitch rating_: CCC (2019)<br>
 _Moody's rating_: Caa2 (2019)<br>
 _Standard & Poors rating_: CCC+ (2019)<br>
+<strong>note: </strong>The year refers to the year in which the current credit rating was first obtained.<br>
 
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 23.9% (2017 est.)<br>
@@ -639,7 +633,7 @@ _subscriptions per 100 inhabitants_: 49 (2020 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: one of the first countries in the region to embark upon telecom reform and to open the sector to competition; the mobile segment in particular has shown strong growth; additional competition followed in late 2020; in the process, the structure of the market changed from having four operators to three; at the same time, a new licensing regime ensured that by mid-2019 all three operators had been provided with universal licenses, enabling them to offer all types of telephony and data services; mobile, fixed-line and broadband penetration rates remain far below the average for the region; in recent years the government has enforced the registration of SIM cards, but with varying success; at the end of 2016 almost five million unregistered SIM cards were deactivated but poor monitoring meant that the process was revisited in mid-2019 and again in late 2020; the high cost of international bandwidth had long hampered internet use, though the landing of two international submarine cables (SEACOM and EASSy) has reduced the cost of bandwidth and so led to drastic reductions in broadband retail prices as well as a significant jump in available bandwidth; there is some cross-platform competition, with DSL, cable, fibre, WiMAX, and mobile broadband options available, though fixed broadband options can be limited to urban areas; improvements can be expected from the ongoing rollout of a national fiber backbone networks and of upgrades to mobile infrastructure (2022)<br>
-_domestic_: extremely low fixed-line teledensity contrasts with rapid growth in the mobile-cellular network; operators provide coverage that includes all the main cities and key roads; fixed-line less than 1 per 100 and nearly 49 per 100 mobile-cellular teledensity (2019)<br>
+_domestic_: extremely low fixed-line teledensity contrasts with rapid growth in the mobile-cellular network; operators provide coverage that includes all the main cities and key roads; fixed-line less than 1 per 100 and nearly 49 per 100 mobile-cellular teledensity (2020)<br>
 _international_: country code - 258; landing points for the EASSy and SEACOM/ Tata TGN-Eurasia fiber-optic submarine cable systems linking numerous&nbsp;east African&nbsp;countries, the Middle East and Asia&nbsp;; satellite earth stations - 5 Intelsat (2 Atlantic Ocean and 3 Indian Ocean); TdM contracts for Itelsat for satellite broadband and bulk haul services (2020)<br>
 <strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress toward 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>
 
@@ -746,7 +740,7 @@ Islamic State of Iraq and ash-Sham - Mozambique (ISIS-M)<br>
 <p><em>Mozambique-Eswatini</em>: none identified</p> <p><em>Mozambique-Malawi</em>:  the two countries have held exercises to reaffirm boundaries a number of times</p> <p><em>Mozambique-South Africa</em>: South Africa has placed military units to assist police operations along the border of Lesotho, Zimbabwe, and Mozambique to control smuggling, poaching, and illegal migration</p> <p><em>Mozambique-Tanzania</em>: none identified</p> <p><em>Mozambique-Zambia</em>: none identified</p> <p><em>Mozambique-Zimbabwe</em>: none identified</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 10,968 (Democratic Republic of Congo) (refugees and asylum seekers), 8,491 (Burundi) (refugees and asylum seekers) (2022)<br>
+_refugees (country of origin)_: 10,968 (Democratic Republic of Congo) (refugees and asylum seekers), 8,589 (Burundi) (refugees and asylum seekers) (2022)<br>
 _IDPs_: 946,508 (violence between the government and an opposition group, violence associated with extremists groups in 2018, political violence 2019) (2022)<br>
 
 **Illicit drugs**<br>

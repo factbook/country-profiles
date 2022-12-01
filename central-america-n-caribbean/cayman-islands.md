@@ -176,12 +176,6 @@ _unimproved: total_: total: 4.4% of population (2015 est.)<br>
 **HIV/AIDS - adult prevalence rate**<br>
 NA<br>
 
-**HIV/AIDS - people living with HIV/AIDS**<br>
-NA<br>
-
-**HIV/AIDS - deaths**<br>
-NA<br>
-
 **Children under the age of 5 years underweight**<br>
 NA<br>
 
@@ -341,6 +335,7 @@ $2.25 billion (2008 est.)<br>
 
 **Credit ratings**<br>
 _Moody's rating_: Aa3 (1997)<br>
+<strong>note: </strong>The year refers to the year in which the current credit rating was first obtained.<br>
 
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 0.3% (2017 est.)<br>
@@ -407,8 +402,9 @@ _expenditures_: 766.6 million (2017 est.)<br>
 -$493.5 million (2016 est.)<br>
 
 **Exports**<br>
-$4.13 billion (2019 est.) note: data are in current year dollars<br>
-$3.96 billion (2018 est.) note: data are in current year dollars<br>
+$4.13 billion (2019 est.)<br>
+$3.96 billion (2018 est.)<br>
+<strong>note:</strong> Data are in current year dollars and do not include illicit exports or re-exports.<br>
 
 **Exports - partners**<br>
 Netherlands 82%, Spain 11% (2019)<br>

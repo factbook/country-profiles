@@ -86,7 +86,6 @@ Kilimanjaro is the highest point in Africa and one of only three mountain ranges
 
 **Population**<br>
 63,852,892 (2022 est.)<br>
-<strong>note:</strong> estimates for this country explicitly taken into account the impact of the HIV/AIDS epidemic<br>
 
 **Nationality**<br>
 _noun_: Tanzanian(s)<br>
@@ -205,12 +204,6 @@ _unimproved: total_: total: 49.6% of population (2020 est.)<br>
 
 **HIV/AIDS - adult prevalence rate**<br>
 4.7% (2020 est.)<br>
-
-**HIV/AIDS - people living with HIV/AIDS**<br>
-1.7 million (2020 est.)<br>
-
-**HIV/AIDS - deaths**<br>
-32,000 (2020 est.)<br>
 
 **Major infectious diseases**<br>
 _degree of risk_: very high (2020)<br>
@@ -460,6 +453,7 @@ $60.633 billion (2019 est.)<br>
 
 **Credit ratings**<br>
 _Moody's rating_: B2 (2020)<br>
+<strong>note: </strong>The year refers to the year in which the current credit rating was first obtained.<br>
 
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 23.4% (2017 est.)<br>
@@ -756,10 +750,6 @@ Islamic State of Iraq and ash-Sham - Mozambique (ISIS-M)<br>
 
 **Refugees and internally displaced persons**<br>
 _refugees (country of origin)_: 126,205 (Burundi), 80,860 (Democratic Republic of the Congo) (2022)<br>
-
-**Trafficking in persons**<br>
-_current situation_: Tanzania is a source, transit, and destination country for men, women, and children subjected to forced labor and sex trafficking; the exploitation of young girls in domestic servitude continues to be Tanzania&rsquo;s largest human trafficking problem; Tanzanian boys are subject to forced labor mainly on farms but also in mines, in the commercial service sector, in the sex trade, and possibly on small fishing boats; internal trafficking is more prevalent than transnational trafficking and is usually facilitated by friends, family members, or intermediaries offering education or legitimate job opportunities; trafficking victims from Burundi, Kenya, Bangladesh, Nepal, Yemen, and India are forced to work in Tanzania&rsquo;s agricultural, mining, and domestic service sectors or may be sex trafficked; traffickers transported Tanzanian children with physical disabilities to Kenya to work as beggars or in massage parlors; girls forced to donate a kidney to pay for supposed transportation fees to the United Arab Emirates; traffickers subject Tanzanians to forced labor, including in domestic service, and sex trafficking in other African countries, the Middle East, Europe, Asia, and the United States<br>
-_tier rating_: Tier 2 Watch List &mdash; Tanzania does not fully meet the minimum standards for the elimination of trafficking but is making significant efforts to do so; efforts were made to&nbsp; identify and refer victims for care; investigations and convictions of traffickers, training for officials, and public awareness campaigns were increased along with a National Guideline for Safe Houses; however, the government did not amend its law to remove sentencing provisions that allow fines in lieu of imprisonment; fewer prosecutions were initiated; the government did not implement the 2018-2021 national action plan; officials did not fully implement the creation of the anti-trafficking fund nor disperse funds; no formal victim identification and protection was provided (2020)<br>
 
 **Illicit drugs**<br>
 <p>significant transit country for illicit drugs in East Africa; international drug-trafficking organizations and courier networks transit through Tanzania to smuggle heroin and methamphetamine from Southwest Asia; produces cannabis products and khat for domestic consumption and regional and international distribution; traffickers influence politicians, law enforcement, and others in positions of power with money</p> (2021)<br>

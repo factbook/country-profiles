@@ -186,12 +186,6 @@ _unimproved: total_: total: 0% of population (2020)<br>
 **HIV/AIDS - adult prevalence rate**<br>
 NA<br>
 
-**HIV/AIDS - people living with HIV/AIDS**<br>
-NA<br>
-
-**HIV/AIDS - deaths**<br>
-NA<br>
-
 **Children under the age of 5 years underweight**<br>
 NA<br>
 
@@ -372,6 +366,7 @@ $6.672 billion (2014 est.)<br>
 
 **Credit ratings**<br>
 _Standard & Poors rating_: AAA (1996)<br>
+<strong>note: </strong>The year refers to the year in which the current credit rating was first obtained.<br>
 
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 7% (2014)<br>

@@ -181,12 +181,6 @@ _unimproved: total_: total: 9.8% of population (2017 est.)<br>
 **HIV/AIDS - adult prevalence rate**<br>
 1.5% (2018 est.)<br>
 
-**HIV/AIDS - people living with HIV/AIDS**<br>
-1,200 (2018)<br>
-
-**HIV/AIDS - deaths**<br>
-(2018) <100<br>
-
 **Obesity - adult prevalence rate**<br>
 23.7% (2016)<br>
 
@@ -378,6 +372,7 @@ $785 million (2017 est.)<br>
 
 **Credit ratings**<br>
 _Moody's rating_: B3 (2014)<br>
+<strong>note: </strong>The year refers to the year in which the current credit rating was first obtained.<br>
 
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 7.1% (2017 est.)<br>

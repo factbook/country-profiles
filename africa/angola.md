@@ -90,7 +90,7 @@ _noun_: Angolan(s)<br>
 _adjective_: Angolan<br>
 
 **Ethnic groups**<br>
-Ovimbundu 37%, Kimbundu 25%, Bakongo 13%, mestico (mixed European and native African) 2%, European 1%, other 22%<br>
+Ovimbundu 37%, Kimbundu 25%, Bakongo 13%, Mestico (mixed European and native African) 2%, European 1%, other 22%<br>
 
 **Languages**<br>
 Portuguese 71.2% (official), Umbundu 23%, Kikongo 8.2%, Kimbundu 7.8%, Chokwe 6.5%, Nhaneca 3.4%, Nganguela 3.1%, Fiote 2.4%, Kwanhama 2.3%, Muhumbi 2.1%, Luvale 1%, other 3.6%; note - data represent most widely spoken languages; shares sum to more than 100% because some respondents gave more than one answer on the census (2014 est.)<br>
@@ -99,7 +99,7 @@ Portuguese 71.2% (official), Umbundu 23%, Kikongo 8.2%, Kimbundu 7.8%, Chokwe 6.
 Roman Catholic 41.1%, Protestant 38.1%, other 8.6%, none 12.3% (2014 est.)<br>
 
 **Demographic profile**<br>
-<p>More than a decade after the end of Angola's 27-year civil war, the country still faces a variety of socioeconomic problems, including poverty, high maternal and child mortality, and illiteracy. Despite the country's rapid post-war economic growth based on oil production, about 40 percent of Angolans live below the poverty line and unemployment is widespread, especially among the large young-adult population. Only about 70% of the population is literate, and the rate drops to around 60% for women. The youthful population - about 45% are under the age of 15 - is expected to continue growing rapidly with a fertility rate of more than 5 children per woman and a low rate of contraceptive use. Fewer than half of women deliver their babies with the assistance of trained health care personnel, which contributes to Angola's high maternal mortality rate.</p> <p>Of the estimated 550,000 Angolans who fled their homeland during its civil war, most have returned home since 2002. In 2012, the UN assessed that conditions in Angola had been stable for several years and invoked a cessation of refugee status for Angolans. Following the cessation clause, some of those still in exile returned home voluntarily through UN repatriation programs, and others integrated into host countries.</p><br>
+<p>More than two decades after the end of Angola's 27-year civil war, the country still faces a variety of socioeconomic problems, including poverty, high maternal and child mortality, and illiteracy. Despite the country's rapid post-war economic growth based on oil production, about 40 percent of Angolans live below the poverty line and unemployment is widespread, especially among the large young-adult population. Only about 70% of the population is literate, and the rate drops to around 60% for women. The youthful population - about 45% are under the age of 15 - is expected to continue growing rapidly with a fertility rate of more than 5 children per woman and a low rate of contraceptive use. Fewer than half of women deliver their babies with the assistance of trained health care personnel, which contributes to Angola's high maternal mortality rate.</p> <p>Of the estimated 550,000 Angolans who fled their homeland during its civil war, most have returned home since 2002. In 2012, the UN assessed that conditions in Angola had been stable for several years and invoked a cessation of refugee status for Angolans. Following the cessation clause, some of those still in exile returned home voluntarily through UN repatriation programs, and others integrated into host countries.</p><br>
 
 **Age structure**<br>
 _0-14 years_: 47.83% (male 7,758,636/female 7,797,869)<br>
@@ -197,12 +197,6 @@ _unimproved: total_: total: 27.3% of population (2020 est.)<br>
 
 **HIV/AIDS - adult prevalence rate**<br>
 1.8% (2020 est.)<br>
-
-**HIV/AIDS - people living with HIV/AIDS**<br>
-340,000 (2020 est.)<br>
-
-**HIV/AIDS - deaths**<br>
-16,000 (2020 est.)<br>
 
 **Major infectious diseases**<br>
 _degree of risk_: very high (2020)<br>
@@ -359,16 +353,16 @@ _residency requirement for naturalization_: 10 years<br>
 18 years of age; universal<br>
 
 **Executive branch**<br>
-_chief of state_: President Joao Manuel Goncalves LOURENCO (since 15 September 2022); Vice President Bornito De Sousa Baltazar DIOGO (since 15 September 2022); note - the president is both chief of state and head of government (2022)<br>
-_head of government_: President Joao Manuel Goncalves LOURENCO (since 15 September 2022); Vice President Bornito De Sousa Baltazar DIOGO (since 15 September 2022) (2022)<br>
+_chief of state_: President Joao Manuel Goncalves LOURENCO (since 15 September 2022); Vice President Bornito De Sousa Baltazar DIOGO (since 15 September 2022); note - the president is both chief of state and head of government<br>
+_head of government_: President Joao Manuel Goncalves LOURENCO (since 15 September 2022); Vice President Bornito De Sousa Baltazar DIOGO (since 15 September 2022)<br>
 _cabinet_: Council of Ministers appointed by the president<br>
-_elections/appointments_: the candidate of the winning party or coalition in the last legislative election becomes the president; president serves a 5-year term (eligible for a second consecutive or discontinuous term); last held on 24 August 2022 (next to be held in 24 August 2027) (2022)<br>
-_election results_: Joao Manuel Goncalves LOURENCO (MPLA) elected president by then winning party following the 24 August 2022 general election (2022)<br>
+_elections/appointments_: the candidate of the winning party or coalition in the last legislative election becomes the president; president serves a 5-year term (eligible for a second consecutive or discontinuous term); last held on 24 August 2022 (next to be held on 24 August 2027) (2022)<br>
+_election results_: Joao Manuel Goncalves LOURENCO (MPLA) elected president by then winning party following the 24 August 2022 general election<br>
 
 **Legislative branch**<br>
 _description_: unicameral National Assembly or Assembleia Nacional (220 seats; members directly elected in a single national constituency and in multi-seat constituencies by closed list proportional representation vote; members serve 5-year terms)<br>
-_elections_: last held on 24 August 2022 (next to be held on 24 August 2027) (2022)<br>
-_election results_: percent of vote by party - MPLA 51.17%, UNITA 43.95%, PRS 1.14%, FNLA 1.06%, PHA 1.02%, other 1.67%; seats by party - MPLA 124, UNITA 90, PRS 2, FNLA 2; PHA-2; composition - men 155, women 65, percent of women 29.5%<br><br>percent of vote by party - MPLA 61.1%, UNITA 26.7%, CASA-CE 9.5%, PRS 1.4%, FNLA 0.9%, other 0.5%; seats by party - MPLA 150, UNITA 51, CASA-CE 16, PRS 2, FNLA 1; composition - men 155, women 65, percent of women 29.5% (2022)<br>
+_elections_: last held on 24 August 2022 (next to be held on 24 August 2027)<br>
+_election results_: percent of vote by party - MPLA 51.1%, UNITA 43.9%, PRS 1.1%, FNLA 1.1%, PHA 1%, other 1.7%; seats by party - MPLA 124, UNITA 90, PRS 2, FNLA 2; PHA-2; composition - men 146, women 74, percent of women 33.6%<br><br>
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme Court or Supremo Tribunal de Justica (consists of the court president, vice president, and a minimum of 16 judges); Constitutional Court or Tribunal Constitucional (consists of 11 judges)<br>
@@ -376,7 +370,7 @@ _judge selection and term of office_: Supreme Court judges appointed by the pres
 _subordinate courts_: provincial and municipal courts<br>
 
 **Political parties and leaders**<br>
-Broad Convergence for the Salvation of Angola Electoral Coalition or CASA-CE [Manuel FERNANDES]<br>National Front for the Liberation of Angola or FNLA; note - party has two factions; one led by Lucas NGONDA; the other by Ngola KABANGU<br>National Union for the Total Independence of Angola or UNITA [Adalberto Costa JUNIOR] (largest opposition party)<br>Popular Movement for the Liberation of Angola or MPLA [Joao LOURENCO]; note- ruling party in power since 1975<br>Social Renewal Party or PRS [Benedito DANIEL] (2022)<br>
+Broad Convergence for the Salvation of Angola Electoral Coalition or CASA-CE [Manuel FERNANDES]<br>National Front for the Liberation of Angola or FNLA; note - party has two factions; one led by Lucas NGONDA; the other by Ngola KABANGU<br>National Union for the Total Independence of Angola or UNITA [Adalberto Costa JUNIOR] (largest opposition party)<br>Popular Movement for the Liberation of Angola or MPLA [Joao LOURENCO]; note- ruling party in power since 1975<br>Social Renewal Party or PRS [Benedito DANIEL]<br>
 
 **International organization participation**<br>
 ACP, AfDB, AU, CEMAC, CPLP, FAO, G-77, IAEA, IBRD, ICAO, ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ISO (correspondent), ITSO, ITU, ITUC (NGOs), MIGA, NAM, OAS (observer), OPEC, SADC, UN, UNCTAD, UNESCO, UNIDO, Union Latina, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
@@ -446,6 +440,7 @@ $97.261 billion (2019 est.)<br>
 _Fitch rating_: CCC (2020)<br>
 _Moody's rating_: Caa1 (2020)<br>
 _Standard & Poors rating_: CCC+ (2020)<br>
+<strong>note: </strong>The year refers to the year in which the current credit rating was first obtained.<br>
 
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 10.2% (2011 est.)<br>
@@ -517,9 +512,10 @@ calendar year<br>
 -$4.834 billion (2016 est.)<br>
 
 **Exports**<br>
-$21 billion (2020 est.) note: data are in current year dollars<br>
-$35.18 billion (2019 est.) note: data are in current year dollars<br>
-$41.39 billion (2018 est.) note: data are in current year dollars<br>
+$21 billion (2020 est.)<br>
+$35.18 billion (2019 est.)<br>
+$41.39 billion (2018 est.)<br>
+<strong>note:</strong> Data are in current year dollars and do not include illicit exports or re-exports.<br>
 
 **Exports - partners**<br>
 China 62%, India 10%, United Arab Emirates 4%, Portugal 3%, Spain 3% (2019)<br>
@@ -733,7 +729,7 @@ the International Maritime Bureau reports the territorial waters of Angola are a
 ## Transnational Issues
 
 **Disputes - international**<br>
-<p><em>Angola-Democratic Republic of Congo (DRC): </em>DRC accuses Angola of shifting monuments<br><br><em>Angola-Namibia: n</em>one identified<br><br><em>Angola-Republic of Congo:</em> (Kabinda Exclave) none identified<br><br><em>Angola-Zambia: </em>because the straight-line segments along the left bank (Zambian side) of the Cuando/Kwando River do not conform with the physical alignment of the unstable shoreline, Zambian residents in some areas have settled illegally on sections of shoreline that fall on the Angolan side of the boundary</p><br>
+<p><em>Angola-Democratic Republic of Congo (DRC): </em>DRC accuses Angola of shifting monuments<br><br><em>Angola-Namibia: </em>none identified<br><br><em>Angola-Republic of Congo:</em> (Kabinda Exclave) none identified<br><br><em>Angola-Zambia: </em>because the straight-line segments along the left bank (Zambian side) of the Cuando/Kwando River do not conform with the physical alignment of the unstable shoreline, Zambian residents in some areas have settled illegally on sections of shoreline that fall on the Angolan side of the boundary</p><br>
 
 **Refugees and internally displaced persons**<br>
 _refugees (country of origin)_: 37,159 (Democratic Republic of the Congo) (refugees and asylum seekers), 9,272 (Guinea), 6,357 (Cote d'Ivoire), 5,725 (Mauritania) (2022)<br>

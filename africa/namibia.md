@@ -85,7 +85,6 @@ the Namib Desert, after which the country is named, is considered to be the olde
 
 **Population**<br>
 2,727,409 (2022 est.)<br>
-<strong>note:</strong> estimates for this country explicitly taken into account the impact of the HIV/AIDS epidemic<br>
 
 **Nationality**<br>
 _noun_: Namibian(s)<br>
@@ -203,12 +202,6 @@ _unimproved: total_: total: 51.9% of population (2020 est.)<br>
 
 **HIV/AIDS - adult prevalence rate**<br>
 11.6% (2020 est.)<br>
-
-**HIV/AIDS - people living with HIV/AIDS**<br>
-210,000 (2020 est.)<br>
-
-**HIV/AIDS - deaths**<br>
-3,000 (2020 est.)<br>
 
 **Major infectious diseases**<br>
 _degree of risk_: high (2020)<br>
@@ -448,6 +441,7 @@ $12.372 billion (2019 est.)<br>
 **Credit ratings**<br>
 _Fitch rating_: BB (2019)<br>
 _Moody's rating_: Ba3 (2020)<br>
+<strong>note: </strong>The year refers to the year in which the current credit rating was first obtained.<br>
 
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 6.7% (2016 est.)<br>

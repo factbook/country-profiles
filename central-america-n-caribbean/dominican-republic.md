@@ -167,7 +167,7 @@ _female_: 74.33 years (2022 est.)<br>
 2.21 children born/woman (2022 est.)<br>
 
 **Contraceptive prevalence rate**<br>
-69.5% (2014)<br>
+62.8% (2019)<br>
 
 **Drinking water source**<br>
 _improved: urban_: urban: 98.3% of population<br>
@@ -196,12 +196,6 @@ _unimproved: total_: total: 3.7% of population (2020 est.)<br>
 
 **HIV/AIDS - adult prevalence rate**<br>
 0.9% (2020 est.)<br>
-
-**HIV/AIDS - people living with HIV/AIDS**<br>
-72,000 (2020 est.)<br>
-
-**HIV/AIDS - deaths**<br>
-1,900 (2020 est.)<br>
 
 **Major infectious diseases**<br>
 _degree of risk_: high (2020)<br>
@@ -436,6 +430,7 @@ $88.956 billion (2019 est.)<br>
 _Fitch rating_: BB- (2016)<br>
 _Moody's rating_: Ba3 (2017)<br>
 _Standard & Poors rating_: BB- (2015)<br>
+<strong>note: </strong>The year refers to the year in which the current credit rating was first obtained.<br>
 
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 5.6% (2017 est.)<br>
@@ -722,10 +717,6 @@ the military is primarily focused on countering illegal immigration and refugees
 **Refugees and internally displaced persons**<br>
 _refugees (country of origin)_: 115,283 (Venezuela) (economic and political crisis; includes Venezuelans who have claimed asylum or have received alternative legal stay) (2021)<br>
 _stateless persons_: 133,770 (2016); note - a September 2013 Constitutional Court ruling revoked the citizenship of those born after 1929 to immigrants without proper documentation, even though the constitution at the time automatically granted citizenship to children born in the Dominican Republic and the 2010 constitution provides that constitutional provisions cannot be applied retroactively; the decision overwhelmingly affected people of Haitian descent whose relatives had come to the Dominican Republic since the 1890s as a cheap source of labor for sugar plantations; a May 2014 law passed by the Dominican Congress regularizes the status of those with birth certificates but will require those without them to prove they were born in the Dominican Republic and to apply for naturalization; the government has issued documents to thousands of individuals who may claim citizenship under this law, but no official estimate has been released<br>
-
-**Trafficking in persons**<br>
-_current situation_: human traffickers exploit domestic and foreign victims in the Dominican Republic and Dominicans abroad; Dominican women and children are sex trafficked throughout the Dominican Republic, the Caribbean, South and Central America, Europe, the Middle East, and the United States; victims from Haiti and elsewhere in the Caribbean, Asia, and Latin America are trafficked in the Dominican Republic; Dominican women are lured to the Middle East, Africa, the Caribbean, and Latin America to work in nightclubs but are then sex trafficked; domestically, children are forced into domestic servitude, street vending, begging, agricultural work, construction, and moving illicit narcotics, while adults are forced to work in construction, agriculture, and the services sector<br>
-_tier rating_: Tier 2 Watch List &mdash; the Dominican Republic does not fully meet the minimum standards for the elimination of trafficking but is making significant efforts to do so; the government has drafted a revised trafficking law that would be consistent with international law by removing the requirement for force, fraud, or coercion of sex trafficking of victims younger than 18; authorities increased investigations and prosecutions but convicted fewer traffickers and issued inadequate sentences; the country lacks a dedicated victim assistance budget and a full-time victim shelter; authorities did not effectively screen for trafficking indicators or refer all vulnerable individuals to care; the government has not allocated specific funds to implement its national anti-trafficking plan beyond the standard operating budget for the 14 institutions that are part of its Inter-Institutional Commission against Trafficking in Persons and Smuggling of Migrants (2020)<br>
 
 **Illicit drugs**<br>
 a major transshipment point for cocaine transiting through the Caribbean<br>

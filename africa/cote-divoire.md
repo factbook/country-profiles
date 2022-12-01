@@ -82,7 +82,6 @@ most of the inhabitants live along the sandy coastal region; apart from the capi
 
 **Population**<br>
 28,713,423 (2022 est.)<br>
-<strong>note:</strong> estimates for this country explicitly take into account the impact of the HIV/AIDS epidemic<br>
 
 **Nationality**<br>
 _noun_: Ivoirian(s)<br>
@@ -100,7 +99,7 @@ Muslim 42.9%, Catholic 17.2%, Evangelical 11.8%, Methodist 1.7%, other Christian
 <strong>note:</strong> the majority of foreign migrant workers are Muslim (72.7%) and Christian (17.7%)<br>
 
 **Demographic profile**<br>
-<p>Cote d’Ivoire’s population is likely to continue growing for the foreseeable future because almost 60% of the populace is younger than 25, the total fertility rate is holding steady at about 3.5 children per woman, and contraceptive use is under 20%. The country will need to improve education, health care, and gender equality in order to turn its large and growing youth cohort into human capital. Even prior to 2010 unrest that shuttered schools for months, access to education was poor, especially for women. As of 2015, only 53% of men and 33% of women were literate. The lack of educational attainment contributes to Cote d’Ivoire’s high rates of unskilled labor, adolescent pregnancy, and HIV/AIDS prevalence.</p><p>Following its independence in 1960, Cote d’Ivoire’s stability and the blossoming of its labor-intensive cocoa and coffee industries in the southwest made it an attractive destination for migrants from other parts of the country and its neighbors, particularly Burkina Faso. The HOUPHOUET-BOIGNY administration continued the French colonial policy of encouraging labor immigration by offering liberal land ownership laws. Foreigners from West Africa, Europe (mainly France), and Lebanon composed about 25% of the population by 1998.</p><p>Ongoing economic decline since the 1980s and the power struggle after HOUPHOUET-BOIGNY’s death in 1993 ushered in the politics of "Ivoirite," institutionalizing an Ivoirian identity that further marginalized northern Ivoirians and scapegoated immigrants. The hostile Muslim north-Christian south divide snowballed into a 2002 civil war, pushing tens of thousands of foreign migrants, Liberian refugees, and Ivoirians to flee to war-torn Liberia or other regional countries and more than a million people to be internally displaced. Subsequently, violence following the contested 2010 presidential election prompted some 250,000 people to seek refuge in Liberia and other neighboring countries and again internally displaced as many as a million people. By July 2012, the majority had returned home, but ongoing inter-communal tension and armed conflict continue to force people from their homes.</p><br>
+<p>Cote d’Ivoire’s population is likely to continue growing for the foreseeable future because almost 60% of the populace is younger than 25, the total fertility rate is holding steady at about 3.5 children per woman, and contraceptive use is under 20%. The country will need to improve education, health care, and gender equality in order to turn its large and growing youth cohort into human capital. Even prior to 2010 unrest that shuttered schools for months, access to education was poor, especially for women. The lack of educational attainment contributes to Cote d’Ivoire’s high rates of unskilled labor, adolescent pregnancy, and HIV/AIDS prevalence.</p> <p>Following its independence in 1960, Cote d’Ivoire’s stability and the blossoming of its labor-intensive cocoa and coffee industries in the southwest made it an attractive destination for migrants from other parts of the country and its neighbors, particularly Burkina Faso. The HOUPHOUET-BOIGNY administration continued the French colonial policy of encouraging labor immigration by offering liberal land ownership laws. Foreigners from West Africa, Europe (mainly France), and Lebanon composed about 25% of the population by 1998.</p> <p>Ongoing economic decline since the 1980s and the power struggle after HOUPHOUET-BOIGNY’s death in 1993 ushered in the politics of "Ivoirite," institutionalizing an Ivoirian identity that further marginalized northern Ivoirians and scapegoated immigrants. The hostile Muslim north-Christian south divide snowballed into a 2002 civil war, pushing tens of thousands of foreign migrants, Liberian refugees, and Ivoirians to flee to war-torn Liberia or other regional countries and more than a million people to be internally displaced. Subsequently, violence following the contested 2010 presidential election prompted some 250,000 people to seek refuge in Liberia and other neighboring countries and again internally displaced as many as a million people. By July 2012, the majority had returned home, but ongoing inter-communal tension and armed conflict continue to force people from their homes.</p><br>
 
 **Age structure**<br>
 _0-14 years_: 38.53% (male 5,311,971/female 5,276,219)<br>
@@ -172,7 +171,7 @@ _female_: 64.52 years (2022 est.)<br>
 3.53 children born/woman (2022 est.)<br>
 
 **Contraceptive prevalence rate**<br>
-23.3% (2018)<br>
+27.8% (2020)<br>
 
 **Drinking water source**<br>
 _improved: urban_: urban: 89.9% of population<br>
@@ -198,12 +197,6 @@ _unimproved: total_: total: 42.9% of population (2020 est.)<br>
 
 **HIV/AIDS - adult prevalence rate**<br>
 2.1% (2020 est.)<br>
-
-**HIV/AIDS - people living with HIV/AIDS**<br>
-380,000 (2020 est.)<br>
-
-**HIV/AIDS - deaths**<br>
-13,000 (2020 est.)<br>
 
 **Major infectious diseases**<br>
 _degree of risk_: very high (2020)<br>
@@ -375,7 +368,7 @@ _election results_: Alassane OUATTARA reelected president; percent of vote - Ala
 **Legislative branch**<br>
 _description_: bicameral Parliament consists of:<br>Senate or Senat (99 seats; 66 members indirectly elected by the National Assembly and members of municipal, autonomous districts, and regional councils, and 33 members appointed by the president; members serve 5-year terms)<br>National Assembly (255 seats - 254 for 2021-2026 term; members directly elected in single- and multi-seat constituencies by simple majority vote to serve 5-year terms)<br>
 _elections_: <br>Senate - first ever held on 25 March 2018 (next to be held on 31 March 2023)<br>National Assembly - last held on 6 March 2021 (next to be held on 31 March 2026)<br>
-_election results_: <strong><br></strong>Senate - percent by party NA; seats by party - RHDP 50, independent 16; composition - men 80, women 19, percent of women 19.2%<br>National Assembly - percent of vote by party - RHDP 49.2%, PDCI-RRA-EDS 16.5%, DPIC 6%, TTB 2.1%  IPF 2%  seats by party - RHDP, 137, PDCI-RRA-EDS 50, DPIC 23, EDS 8, TTB 8, IPF 2, independent 26; composition - men 218, women 36, percent of women 14.2%; note - total Parliament percent of women 15.6%<br>
+_election results_: <strong><br></strong>Senate - percent by party NA; seats by party - RHDP 50, independent 16; composition - men 80, women 19, percent of women 19.2%<br>National Assembly - percent of vote by party - RHDP 49.2%, PDCI-RRA-EDS 16.5%, DPIC 6%, TTB 2.1%,<br> IPF 2%, other seats 24.2%; seats by party - RHDP, 137, PDCI-RRA-EDS 50, DPIC 23, EDS 8, TTB 8, IPF 2, independent 26; composition - men 218, women 36, percent of women 14.2%; note - total Parliament percent of women 15.6%<br>
 <br><br><br>
 
 **Judicial branch**<br>
@@ -453,6 +446,7 @@ $42.498 billion (2018 est.)<br>
 **Credit ratings**<br>
 _Fitch rating_: B+ (2015)<br>
 _Moody's rating_: Ba3 (2015)<br>
+<strong>note: </strong>The year refers to the year in which the current credit rating was first obtained.<br>
 
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 20.1% (2017 est.)<br>
@@ -523,8 +517,9 @@ calendar year<br>
 -$414 million (2016 est.)<br>
 
 **Exports**<br>
-$13.79 billion (2019 est.) note: data are in current year dollars<br>
-$13.08 billion (2018 est.) note: data are in current year dollars<br>
+$13.79 billion (2019 est.)<br>
+$13.08 billion (2018 est.)<br>
+<strong>note:</strong> Data are in current year dollars and do not include illicit exports or re-exports.<br>
 
 **Exports - partners**<br>
 Netherlands 10%, United States 6%, France 6%, Spain 5%, Malaysia 5%, Switzerland 5%, Germany 5%, Vietnam 5% (2019)<br>

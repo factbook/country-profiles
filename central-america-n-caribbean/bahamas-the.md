@@ -73,7 +73,6 @@ strategic location adjacent to US and Cuba; extensive island chain of which 30 a
 
 **Population**<br>
 355,608 (2022 est.)<br>
-<strong>note: </strong>estimates for this country explicitly taken into account the impact of the HIV/AIDS epidemic<br>
 
 **Nationality**<br>
 _noun_: Bahamian(s)<br>
@@ -173,12 +172,6 @@ _unimproved: total_: total: 1.8% of population (2017 est.)<br>
 
 **HIV/AIDS - adult prevalence rate**<br>
 1.2% (2020 est.)<br>
-
-**HIV/AIDS - people living with HIV/AIDS**<br>
-4,700 (2020 est.)<br>
-
-**HIV/AIDS - deaths**<br>
-(2018) <200<br>
 
 **Obesity - adult prevalence rate**<br>
 31.6% (2016)<br>
@@ -383,6 +376,7 @@ $12.16 billion (2017 est.)<br>
 **Credit ratings**<br>
 _Moody's rating_: Ba2 (2020)<br>
 _Standard & Poors rating_: BB- (2020)<br>
+<strong>note: </strong>The year refers to the year in which the current credit rating was first obtained.<br>
 
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 2.3% (2017 est.)<br>
@@ -453,9 +447,10 @@ _expenditures_: 2.46 billion (2017 est.)<br>
 -$868 million (2016 est.)<br>
 
 **Exports**<br>
-$1.69 billion (2020 est.) note: data are in current year dollars<br>
-$5.14 billion (2019 est.) note: data are in current year dollars<br>
-$4.75 billion (2018 est.) note: data are in current year dollars<br>
+$1.69 billion (2020 est.)<br>
+$5.14 billion (2019 est.)<br>
+$4.75 billion (2018 est.)<br>
+<strong>note:</strong> Data are in current year dollars and do not include illicit exports or re-exports.<br>
 
 **Exports - partners**<br>
 Poland 32%, United States 17%, Ecuador 9%, China 6%, Japan 5% (2019)<br>

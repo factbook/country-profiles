@@ -195,12 +195,6 @@ _unimproved: total_: total: 0% of population (2020 est.)<br>
 **HIV/AIDS - adult prevalence rate**<br>
 (2018 est.) <.1%<br>
 
-**HIV/AIDS - people living with HIV/AIDS**<br>
-3,700 (2018 est.)<br>
-
-**HIV/AIDS - deaths**<br>
-(2018 est.) <100<br>
-
 **Major infectious diseases**<br>
 _degree of risk_: intermediate (2016)<br>
 _vectorborne diseases_: tickborne encephalitis (2016)<br>
@@ -439,6 +433,7 @@ $163.251 billion (2019 est.)<br>
 _Fitch rating_: BBB (2019)<br>
 _Moody's rating_: Baa3 (2016)<br>
 _Standard & Poors rating_: BBB (2019)<br>
+<strong>note: </strong>The year refers to the year in which the current credit rating was first obtained.<br>
 
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 3.9% (2017 est.)<br>
@@ -737,7 +732,7 @@ Islamic State of Iraq and ash-Sham (ISIS)<br>
 <p>bilateral government, legal, technical and economic working group negotiations continue in 2006 with Slovakia over Hungary's failure to complete its portion of the Gabcikovo-Nagymaros hydroelectric dam project along the Danube; as a member state that forms part of the EU's external border, Hungary has implemented the strict Schengen border rules</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 31,290 (Ukraine) (as of 8 November 2022)<br>
+_refugees (country of origin)_: 32,271 (Ukraine) (as of 22 November 2022)<br>
 _stateless persons_: 130 (mid-year 2021)<br>
 
 **Illicit drugs**<br>

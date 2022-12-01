@@ -188,14 +188,6 @@ _unimproved: total_: total: 1.7% of population (2020 est.)<br>
 **HIV/AIDS - adult prevalence rate**<br>
 0.2% (2020 est.)<br>
 
-**HIV/AIDS - people living with HIV/AIDS**<br>
-7,800 (2020 est.)<br>
-<strong>note: </strong>estimate does not include children<br>
-
-**HIV/AIDS - deaths**<br>
-(2020 est.) &lt;100<br>
-<strong>note: </strong>estimate does not include children<br>
-
 **Obesity - adult prevalence rate**<br>
 25.3% (2016)<br>
 
@@ -416,6 +408,7 @@ $398.476 billion (2019 est.)<br>
 _Fitch rating_: A+ (2017)<br>
 _Moody's rating_: A2 (2017)<br>
 _Standard & Poors rating_: AA- (2019)<br>
+<strong>note: </strong>The year refers to the year in which the current credit rating was first obtained.<br>
 
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 1.2% (2017 est.)<br>
@@ -711,12 +704,8 @@ Continuity Irish Republican Army; New Irish Republican Army; Islamic State of Ir
 <p><em>Ireland-Denmark</em>: Ireland, Iceland, and the UK dispute Denmark's claim that the Faroe Islands' continental shelf extends beyond 200 nm; Iceland, Norway, and the Faroe Islands signed an agreement in 2019 extending the Faroe Islands’ northern continental shelf area</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 56,829 (Ukraine) (as of 8 November 2022)<br>
+_refugees (country of origin)_: 58,511 (Ukraine) (as of 22 November 2022)<br>
 _stateless persons_: 107 (mid-year 2021)<br>
-
-**Trafficking in persons**<br>
-_current situation_: human traffickers exploit domestic and foreign victims in Ireland and Irish victims abroad; traffickers subject Irish children and foreign trafficking victims from Africa, Asia, Eastern Europe, and South America to sex trafficking; victims are exploited in forced domestic work, the restaurant industry, waste management, fishing, seasonal agriculture, and car washing services; Vietnamese and Chinese nationals convicted for cannabis cultivation often report indicators of forced labor, such as document retention, restriction of movement, and non-payment of wages; undocumented workers in the fishing industry and domestic workers, particularly au pairs, are vulnerable to trafficking; women from Eastern Europe forced into marriage in Ireland are at risk for sex trafficking and forced labor; the problem of forced labor in the country is growing<br>
-_tier rating_: Tier 2 Watch List —<strong> </strong>Ireland does not fully meet the minimum standards for the elimination of trafficking but is making significant efforts to do so; efforts included increasing prosecutions and funding to NGOs for victim assistance, increasing the number of police and immigration officers receiving anti-trafficking training, and reorganizing its anti-trafficking coordination unit; however, the government did not demonstrate overall increasing efforts; no traffickers have been convicted since the anti-trafficking law was amended in 2013; weakened deterrence meant impunity for traffickers and undermined efforts to support victims testifying against traffickers; systematic deficiencies in victim identification, a lack of specialized services for victims continued, and the amended working scheme for sea fishers increased their vulnerability to trafficking (2020)<br>
 
 **Illicit drugs**<br>
 transshipment point for and consumer of hashish from North Africa to the UK and Netherlands and of European-produced synthetic drugs; increasing consumption of South American cocaine; minor transshipment point for heroin and cocaine destined for Western Europe; despite recent legislation, narcotics-related money laundering - using bureaux de change, trusts, and shell companies involving the offshore financial community - remains a concern<br>

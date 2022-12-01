@@ -167,12 +167,6 @@ _unimproved: total_: total: 0% of population (2017)<br>
 **HIV/AIDS - adult prevalence rate**<br>
 NA<br>
 
-**HIV/AIDS - people living with HIV/AIDS**<br>
-NA<br>
-
-**HIV/AIDS - deaths**<br>
-NA<br>
-
 **Children under the age of 5 years underweight**<br>
 NA<br>
 
@@ -396,8 +390,9 @@ _female_: 34.5% (2018 est.)<br>
 -$600 million (2010 est.)<br>
 
 **Exports**<br>
-$1.77 billion (2019 est.) note: data are in current year dollars<br>
-$1.93 billion (2018 est.) note: data are in current year dollars<br>
+$1.77 billion (2019 est.)<br>
+$1.93 billion (2018 est.)<br>
+<strong>note:</strong> Data are in current year dollars and do not include illicit exports or re-exports.<br>
 
 **Exports - partners**<br>
 Switzerland 27%, United States 17%, Spain 14%, Ecuador 7%, India 7%, Antigua and Barbuda 5% (2019)<br>

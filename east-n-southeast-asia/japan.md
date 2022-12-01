@@ -196,14 +196,6 @@ _unimproved: total_: total: 0.1% of population (2020 est.)<br>
 **HIV/AIDS - adult prevalence rate**<br>
 (2020 est.) <.1%<br>
 
-**HIV/AIDS - people living with HIV/AIDS**<br>
-30,000 (2020 est.)<br>
-<strong>note: </strong>estimate does not include children<br>
-
-**HIV/AIDS - deaths**<br>
-(2020 est.) &lt;100<br>
-<strong>note: </strong>estimate does not include children<br>
-
 **Major infectious diseases**<br>
 _respiratory diseases_: Covid-19 (see note) (2020)<br>
 <strong>note:</strong> clusters of cases of respiratory illness caused by a new coronavirus (COVID-19) in Japan; illness with this virus has ranged from mild to severe with fatalities reported; as of 18 August 2022, Japan has reported a total of 16,161,801 cases of COVID-19 or 12,778.50 cumulative cases of COVID-19 per 100,000 population with a total of 35,955 cumulative deaths or a rate of 28.42 cumulative deaths per 100,000 population; as of 17 August 2022, 83.48% of the population has received at least one dose of COVID-19 vaccine<br>
@@ -434,6 +426,7 @@ $5,078,679,000,000 (2019 est.)<br>
 _Fitch rating_: A (2015)<br>
 _Moody's rating_: A1 (2014)<br>
 _Standard & Poors rating_: A+ (2015)<br>
+<strong>note: </strong>The year refers to the year in which the current credit rating was first obtained.<br>
 
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 1.1% (2017 est.)<br>
@@ -704,6 +697,7 @@ Japan Self-Defense Force (JSDF): Ground Self-Defense Force (Rikujou Jieitai, GSD
 1% of GDP (2020)<br>
 0.9% of GDP (2019) (approximately $53.4 billion)<br>
 0.9% of GDP (2018) (approximately $53.5 billion)<br>
+<strong>note:</strong> the Japanese Government in 2022 pledged to "substantially" increase defense spending in the next few years to counter what Tokyo sees as a growing security threat posed by China<br>
 
 **Military and security service personnel strengths**<br>
 approximately 240,000 active personnel (150,000 Ground; 45,000 Maritime; 45,000 Air); 14,000 Coast Guard (2022)<br>

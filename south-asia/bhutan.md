@@ -178,12 +178,6 @@ _unimproved: total_: total: 13.6% of population (2020 est.)<br>
 **HIV/AIDS - adult prevalence rate**<br>
 0.2% (2020 est.)<br>
 
-**HIV/AIDS - people living with HIV/AIDS**<br>
-1,300 (2020)<br>
-
-**HIV/AIDS - deaths**<br>
-(2020) <100<br>
-
 **Obesity - adult prevalence rate**<br>
 6.4% (2016)<br>
 
@@ -458,9 +452,10 @@ _expenditures_: 737.4 million (2017 est.)<br>
 -$621 million (2016 est.)<br>
 
 **Exports**<br>
-$790 million (2020 est.) note: data are in current year dollars<br>
-$780 million (2019 est.) note: data are in current year dollars<br>
-$790 million (2018 est.) note: data are in current year dollars<br>
+$790 million (2020 est.)<br>
+$780 million (2019 est.)<br>
+$790 million (2018 est.)<br>
+<strong>note:</strong> Data are in current year dollars and do not include illicit exports or re-exports.<br>
 
 **Exports - partners**<br>
 India 94% (2019)<br>

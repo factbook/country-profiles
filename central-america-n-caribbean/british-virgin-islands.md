@@ -174,12 +174,6 @@ _unimproved: total_: total: 2.5% of population (2015 est.)<br>
 **HIV/AIDS - adult prevalence rate**<br>
 NA<br>
 
-**HIV/AIDS - people living with HIV/AIDS**<br>
-NA<br>
-
-**HIV/AIDS - deaths**<br>
-NA<br>
-
 **Children under the age of 5 years underweight**<br>
 NA<br>
 
@@ -387,6 +381,7 @@ $279.8 million (2010 est.)<br>
 **Exports**<br>
 $23 million (2017 est.)<br>
 $23 million (2015 est.)<br>
+<strong>note:</strong> Data are in current year dollars and do not include illicit exports or re-exports.<br>
 
 **Exports - partners**<br>
 Malta 30%, Seychelles 29%, Switzerland 14% (2019)<br>

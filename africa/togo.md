@@ -78,7 +78,6 @@ the country's length allows it to stretch through six distinct geographic region
 
 **Population**<br>
 8,492,333 (2022 est.)<br>
-<strong>note:</strong> estimates for this country explicitly taken into account the impact of the HIV/AIDS epidemic<br>
 
 **Nationality**<br>
 _noun_: Togolese (singular and plural)<br>
@@ -196,12 +195,6 @@ _unimproved: total_: total: 54.5% of population (2020 est.)<br>
 
 **HIV/AIDS - adult prevalence rate**<br>
 2% (2020 est.)<br>
-
-**HIV/AIDS - people living with HIV/AIDS**<br>
-110,000 (2020 est.)<br>
-
-**HIV/AIDS - deaths**<br>
-3,000 (2020 est.)<br>
 
 **Major infectious diseases**<br>
 _degree of risk_: very high (2020)<br>
@@ -446,6 +439,7 @@ $5.232 billion (2018 est.)<br>
 **Credit ratings**<br>
 _Moody's rating_: B3 (2019)<br>
 _Standard & Poors rating_: B (2019)<br>
+<strong>note: </strong>The year refers to the year in which the current credit rating was first obtained.<br>
 
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 28.8% (2017 est.)<br>

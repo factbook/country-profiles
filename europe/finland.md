@@ -196,12 +196,6 @@ _unimproved: total_: total: 0% of population (2020 est.)<br>
 **HIV/AIDS - adult prevalence rate**<br>
 0.1% (2018 est.)<br>
 
-**HIV/AIDS - people living with HIV/AIDS**<br>
-4,000 (2018)<br>
-
-**HIV/AIDS - deaths**<br>
-(2018) <100<br>
-
 **Obesity - adult prevalence rate**<br>
 22.2% (2016)<br>
 
@@ -427,6 +421,7 @@ $269.259 billion (2019 est.)<br>
 _Fitch rating_: AA+ (2016)<br>
 _Moody's rating_: Aa1 (2016)<br>
 _Standard & Poors rating_: AA+ (2014)<br>
+<strong>note: </strong>The year refers to the year in which the current credit rating was first obtained.<br>
 
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 2.7% (2017 est.)<br>
@@ -717,6 +712,6 @@ Finland is not a member of NATO, but Finland and NATO have actively cooperated i
 <p>various groups in Finland advocate restoration of Karelia and other areas ceded to the former Soviet Union, but the Finnish Government asserts no territorial demands</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 9,053 (Iraq) (mid-year 2021); 38,588 (Ukraine) (as of 8 November 2022)<br>
+_refugees (country of origin)_: 9,053 (Iraq) (mid-year 2021); 38,588 (Ukraine) (as of 15 November 2022)<br>
 _stateless persons_: 3,416 (mid-year 2021)<br>
 

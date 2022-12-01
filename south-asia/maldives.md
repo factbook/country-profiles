@@ -190,12 +190,6 @@ _unimproved: total_: total: 0.5% of population (2020 est.)<br>
 **HIV/AIDS - adult prevalence rate**<br>
 NA<br>
 
-**HIV/AIDS - people living with HIV/AIDS**<br>
-NA<br>
-
-**HIV/AIDS - deaths**<br>
-NA<br>
-
 **Obesity - adult prevalence rate**<br>
 8.6% (2016)<br>
 
@@ -406,6 +400,7 @@ $4.505 billion (2017 est.)<br>
 **Credit ratings**<br>
 _Fitch rating_: CCC (2020)<br>
 _Moody's rating_: B3 (2020)<br>
+<strong>note: </strong>The year refers to the year in which the current credit rating was first obtained.<br>
 
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 3% (2015 est.)<br>
@@ -670,10 +665,6 @@ Islamic State of Iraq and ash-Sham (ISIS)<br>
 
 **Disputes - international**<br>
 <p>none identified</p><br>
-
-**Trafficking in persons**<br>
-_current situation_: Maldives is a destination country for men, women, and children subjected to forced labor and sex trafficking and a source country for Maldivian children subjected to human trafficking within the country; Bangladeshi and Indian migrants working both legally and illegally in the construction and service sectors face conditions of forced labor, including fraudulent recruitment, confiscation of identity and travel documents, nonpayment of wages, and debt bondage; a small number of women from Sri Lanka, Thailand, India, China, the Philippines, Bangladesh, Eastern Europe, and former Soviet states are trafficked to Maldives for sexual exploitation; some Maldivian children are transported to the capital for forced domestic service, where they may also be sexually abused<br>
-_tier rating_: Tier 2 Watch List &mdash; Maldives does not fully meet the minimum standards for the elimination of trafficking but is making significant efforts to do so; efforts included convicting two individuals for trafficking-related offenses, convening the National Anti-Trafficking Steering Committee for the first time in two years; drafting and finalizing a 2020-2022 national action plan; however, efforts to hold employers accountable for trafficking did not increase, non-payment of wages and of the retention of migrant workers&rsquo; passports continued; standard operating procedures for victim identification, protection, and referral were not adopted; insufficient resources were devoted to the national action plan; Maldives was granted a waiver per the Trafficking Victims Protection Act from an otherwise required downgrade to Tier 3 (2020)<br>
 
 **Illicit drugs**<br>
 NA<br>

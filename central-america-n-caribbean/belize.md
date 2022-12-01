@@ -190,12 +190,6 @@ _unimproved: total_: total: 2.7% of population (2020 est.)<br>
 **HIV/AIDS - adult prevalence rate**<br>
 1.2% (2020 est.)<br>
 
-**HIV/AIDS - people living with HIV/AIDS**<br>
-3,800 (2020 est.)<br>
-
-**HIV/AIDS - deaths**<br>
-(2020 est.) <200<br>
-
 **Obesity - adult prevalence rate**<br>
 24.1% (2016)<br>
 
@@ -416,6 +410,7 @@ $1.854 billion (2017 est.)<br>
 **Credit ratings**<br>
 _Moody's rating_: Caa3 (2020)<br>
 _Standard & Poors rating_: CCC+ (2020)<br>
+<strong>note: </strong>The year refers to the year in which the current credit rating was first obtained.<br>
 
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 10.3% (2017 est.)<br>
@@ -486,9 +481,10 @@ _expenditures_: 572 million (2017 est.)<br>
 -$163 million (2016 est.)<br>
 
 **Exports**<br>
-$710 million (2020 est.) note: data are in current year dollars<br>
-$1.1 billion (2019 est.) note: data are in current year dollars<br>
-$1.07 billion (2018 est.) note: data are in current year dollars<br>
+$710 million (2020 est.)<br>
+$1.1 billion (2019 est.)<br>
+$1.07 billion (2018 est.)<br>
+<strong>note:</strong> Data are in current year dollars and do not include illicit exports or re-exports.<br>
 
 **Exports - partners**<br>
 United Kingdom 27%, United States 24%, Spain 6%, Jamaica 5%, Ireland 5% (2019)<br>
@@ -686,10 +682,6 @@ the BDF's inventory is limited and consists mostly of UK- and US-origin equipmen
 
 **Disputes - international**<br>
 <p><em>Belize-Guatemala: </em>Demarcated but insecure boundary due to Guatemala’s claims to more than half of Belizean territory.  Line of Adjacency operates in lieu of an international boundary to control influx of Guatemalan squatters onto Belizean territory. Smuggling, narcotics trafficking, and human trafficking for sexual exploitation and debt bondage are all problems. Belize lacks resources to detect and extradite impoverished Guatemalan peasants squatting in Belizean rain forests in the remote border areas. At present, Belize and Honduras 12-nm territorial sea claims close off Guatemalan access to Caribbean in the Bahia de Amatique. Maritime boundary remains unresolved pending further negotiation.<br><br><em>Belize-Honduras:</em> Honduras claims the Belizean-administered Sapodilla Cays off the coast of Belize in its constitution, but agreed to a joint ecological park around the cays should Guatemala consent to a maritime corridor in the Caribbean under the OAS-sponsored 2002 Belize-Guatemala Differendum.</p> <p><em>Belize-Mexico:</em> Belize and Mexico are working to solve minor border demarcation discrepancies arising from inaccuracies in the 1898 border treaty. Transshipment of illegal<strong> </strong>narcotics, smuggling, human trafficking, illegal immigration, and the growing of marijuana in very low population areas are all issues in the region today.</p><br>
-
-**Trafficking in persons**<br>
-_current situation_: human traffickers exploit domestic and foreign victims and Belizeans abroad; Belizean and foreign women, men, and girls and LGBTI persons, mainly from Central America, are sex trafficked in bars, nightclubs, hotels, and brothels; men, women, and children from Central America, Mexico, and Asia may migrate voluntarily to Belize seeking work and then are subjected to forced labor in restaurants, shops, domestic work, and agriculture; foreign child sex tourists exploit children in tourist areas<br>
-_tier rating_: Tier 2 Watch List &mdash; Belize does not fully meet the minimum standards for the elimination of trafficking but is making significant efforts to do so; authorities initiated more trafficking investigations, convicted a trafficker, screened for potential trafficking victims during labor inspections, and continued to implement a 2018-2020 national anti-trafficking action plan; anti-trafficking training was provided to the anti-trafficking police unit, immigration officers, prosecutors, judges, prison officials, and social workers; however, the government did not initiate any new trafficking prosecutions and continued to apply victim identification procedures inconsistently; corruption and official complicity in trafficking remained concerns, but no investigations, prosecutions, or convictions of government employees were reported (2020)<br>
 
 **Illicit drugs**<br>
 <p>a transit country for illegal drugs, mainly cocaine, originating from countries in South America; low domestic drug consumption problem outside of recreational cannabis</p><br>
