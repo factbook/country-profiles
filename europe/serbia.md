@@ -59,7 +59,7 @@ _forest_: 31.6% (2018 est.)<br>
 _other_: 10.5% (2018 est.)<br>
 
 **Irrigated land**<br>
-950 sq km (2012)<br>
+520 sq km (2020)<br>
 
 **Major rivers (by length in km)**<br>
 Danube (shared with Germany [s], Austria, Slovakia, Czechia, Hungary, Croatia, Bulgaria, Ukraine, Moldova, and Romania [m]) - 2,888 km<br><strong>note</strong> – [s] after country name indicates river source; [m] after country name indicates river mouth<br>
@@ -106,10 +106,10 @@ _55-64 years_: 13.7% (male 464,881/female 495,663)<br>
 _65 years and over_: 20% (male 585,705/female 816,685) (2020 est.)<br>
 
 **Dependency ratios**<br>
-_total dependency ratio_: 52.5<br>
-_youth dependency ratio_: 23.4<br>
-_elderly dependency ratio_: 29.1<br>
-_potential support ratio_: 3.4 (2020 est.)<br>
+_total dependency ratio_: 53.8<br>
+_youth dependency ratio_: 21.9<br>
+_elderly dependency ratio_: 31.9<br>
+_potential support ratio_: 3.1 (2021 est.)<br>
 <strong>note:</strong> data include Kosovo<br>
 
 **Median age**<br>
@@ -198,7 +198,7 @@ _unimproved: rural_: rural: 4.3% of population<br>
 _unimproved: total_: total: 2.1% of population (2020 est.)<br>
 
 **HIV/AIDS - adult prevalence rate**<br>
-(2020 est.) <.1%<br>
+(2021 est.) <0.1%<br>
 
 **Major infectious diseases**<br>
 _degree of risk_: intermediate (2020)<br>
@@ -240,7 +240,7 @@ _total_: 14 years<br>
 _male_: 14 years<br>
 _female_: 15 years (2020)<br>
 
-**Unemployment, youth ages 15-24**<br>
+**Youth unemployment rate (ages 15-24)**<br>
 _total_: 26.7%<br>
 _male_: 25%<br>
 _female_: 29.5% (2020 est.)<br>
@@ -479,7 +479,7 @@ _services_: 56.1% (2017 est.)<br>
 14.1% (2017 est.)<br>
 15.9% (2016 est.)<br>
 
-**Unemployment, youth ages 15-24**<br>
+**Youth unemployment rate (ages 15-24)**<br>
 _total_: 26.7%<br>
 _male_: 25%<br>
 _female_: 29.5% (2020 est.)<br>

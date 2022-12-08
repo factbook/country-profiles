@@ -57,7 +57,7 @@ _agricultural land_: 0% (2011 est.)<br>
 _other_: 100% (2018 est.)<br>
 
 **Irrigated land**<br>
-0 sq km (2012)<br>
+0 sq km (2022)<br>
 
 **Natural hazards**<br>
 <p>dominated by the volcano Beerenberg</p><p><strong>volcanism:</strong> Beerenberg (2,227 m) is Norway's only active volcano; volcanic activity resumed in 1970; the most recent eruption occurred in 1985</p><br>

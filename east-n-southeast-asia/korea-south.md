@@ -101,10 +101,10 @@ _55-64 years_: 15.66% (male 3,958,718/female 4,142,322)<br>
 _65 years and over_: 16.74% (male 3,766,138/female 4,888,799) (2020 est.)<br>
 
 **Dependency ratios**<br>
-_total dependency ratio_: 39.5<br>
-_youth dependency ratio_: 17.5<br>
-_elderly dependency ratio_: 22<br>
-_potential support ratio_: 4.5 (2020 est.)<br>
+_total dependency ratio_: 39.9<br>
+_youth dependency ratio_: 16.6<br>
+_elderly dependency ratio_: 23.3<br>
+_potential support ratio_: 4.3 (2021 est.)<br>
 
 **Median age**<br>
 _total_: 43.2 years<br>
@@ -228,7 +228,7 @@ _total_: 17 years<br>
 _male_: 17 years<br>
 _female_: 16 years (2019)<br>
 
-**Unemployment, youth ages 15-24**<br>
+**Youth unemployment rate (ages 15-24)**<br>
 _total_: 10.3%<br>
 _male_: 11%<br>
 _female_: 9.7% (2020 est.)<br>
@@ -458,7 +458,7 @@ _services_: 70.6% (2017 est.)<br>
 3.76% (2019 est.)<br>
 3.85% (2018 est.)<br>
 
-**Unemployment, youth ages 15-24**<br>
+**Youth unemployment rate (ages 15-24)**<br>
 _total_: 10.3%<br>
 _male_: 11%<br>
 _female_: 9.7% (2020 est.)<br>
@@ -676,6 +676,9 @@ _by type_: bulk carrier 78, container ship 91, general cargo 360, oil tanker 184
 _major seaport(s)_: Busan, Incheon, Gunsan, Kwangyang, Mokpo, Pohang, Ulsan, Yeosu<br>
 _container port(s) (TEUs)_: Busan (21,992,001), Incheon (3,091,955), Kwangyang (2,378,337) (2019)<br>
 _LNG terminal(s) (import)_: Incheon, Kwangyang, Pyeongtaek, Samcheok, Tongyeong, Yeosu<br>
+
+**Transportation - note**<br>
+South Korea operates one PC 5 or 6 class icebreaker<br><strong>note </strong>- PC 5 - Year-round operation in medium first-year ice which may include old ice inclusions (ice thickness up to 70-120 cm); PC 6 - Summer/autumn operation in medium first-year ice which may include old ice inclusions (ice thickness up to 30-70 cm)<br>
 
 ## Military and Security
 

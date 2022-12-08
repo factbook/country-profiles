@@ -59,7 +59,7 @@ _forest_: 47.2% (2018 est.)<br>
 _other_: 14.4% (2018 est.)<br>
 
 **Irrigated land**<br>
-1,170 sq km (2012)<br>
+382 sq km (2016)<br>
 
 **Major lakes (area sq km)**<br>
 _fresh water lake(s)_: Lake Constance (shared with Switzerland and Germany) - 540 sq km<br>
@@ -108,10 +108,10 @@ _55-64 years_: 14.41% (male 635,342/female 641,389)<br>
 _65 years and over_: 19.87% (male 768,687/female 991,621) (2020 est.)<br>
 
 **Dependency ratios**<br>
-_total dependency ratio_: 50.6<br>
+_total dependency ratio_: 51.1<br>
 _youth dependency ratio_: 21.7<br>
-_elderly dependency ratio_: 28.9<br>
-_potential support ratio_: 3.5 (2020 est.)<br>
+_elderly dependency ratio_: 29.4<br>
+_potential support ratio_: 3.4 (2021 est.)<br>
 
 **Median age**<br>
 _total_: 44.5 years<br>
@@ -197,9 +197,6 @@ _unimproved: urban_: urban: 0% of population<br>
 _unimproved: rural_: rural: 0% of population<br>
 _unimproved: total_: total: 0% of population (2020 est.)<br>
 
-**HIV/AIDS - adult prevalence rate**<br>
-0.1% (2017 est.)<br>
-
 **Obesity - adult prevalence rate**<br>
 20.1% (2016)<br>
 
@@ -231,7 +228,7 @@ _total_: 16 years<br>
 _male_: 16 years<br>
 _female_: 16 years (2019)<br>
 
-**Unemployment, youth ages 15-24**<br>
+**Youth unemployment rate (ages 15-24)**<br>
 _total_: 10.5%<br>
 _male_: 11.3%<br>
 _female_: 9.5% (2020 est.)<br>
@@ -465,7 +462,7 @@ _services_: 74.1% (2017 est.)<br>
 7.35% (2019 est.)<br>
 7.7% (2018 est.)<br>
 
-**Unemployment, youth ages 15-24**<br>
+**Youth unemployment rate (ages 15-24)**<br>
 _total_: 10.5%<br>
 _male_: 11.3%<br>
 _female_: 9.5% (2020 est.)<br>
@@ -728,7 +725,7 @@ Islamic State of Iraq and ash-Sham (ISIS)<br>
 <p>none identified</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 57,887 (Syria), 41,037 (Afghanistan), 9,661 (Iraq), 8,212 (Somalia), 7,046 (Iran), 7,003 (Russia) (mid-year 2021); 86,903 (Ukraine) (as of 22 November 2022)<br>
+_refugees (country of origin)_: 57,887 (Syria), 41,037 (Afghanistan), 9,661 (Iraq), 8,212 (Somalia), 7,046 (Iran), 7,003 (Russia) (mid-year 2021); 88,748 (Ukraine) (as of 29 November 2022)<br>
 _stateless persons_: 3,229 (mid-year 2021)<br>
 
 **Illicit drugs**<br>

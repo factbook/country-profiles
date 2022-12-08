@@ -61,7 +61,7 @@ _forest_: 43.6% (2018 est.)<br>
 _other_: 25.9% (2018 est.)<br>
 
 **Irrigated land**<br>
-321 sq km (2012)<br>
+407 sq km (2020)<br>
 
 **Major lakes (area sq km)**<br>
 _salt water lake(s)_: Laguna de Chiriqui - 900 sq km<br>
@@ -105,10 +105,10 @@ _55-64 years_: 8.54% (male 165,129/female 167,317)<br>
 _65 years and over_: 9.01% (male 160,516/female 190,171) (2020 est.)<br>
 
 **Dependency ratios**<br>
-_total dependency ratio_: 53.9<br>
-_youth dependency ratio_: 40.8<br>
-_elderly dependency ratio_: 13.1<br>
-_potential support ratio_: 7.6 (2020 est.)<br>
+_total dependency ratio_: 53.8<br>
+_youth dependency ratio_: 40.6<br>
+_elderly dependency ratio_: 13.2<br>
+_potential support ratio_: 7.6 (2021 est.)<br>
 
 **Median age**<br>
 _total_: 30.1 years<br>
@@ -191,7 +191,7 @@ _unimproved: rural_: rural: 30.9% of population<br>
 _unimproved: total_: total: 12.8% of population (2020 est.)<br>
 
 **HIV/AIDS - adult prevalence rate**<br>
-1% (2020 est.)<br>
+NA<br>
 
 **Major infectious diseases**<br>
 _degree of risk_: intermediate (2020)<br>
@@ -230,7 +230,7 @@ _total_: 13 years<br>
 _male_: 12 years<br>
 _female_: 13 years (2016)<br>
 
-**Unemployment, youth ages 15-24**<br>
+**Youth unemployment rate (ages 15-24)**<br>
 _total_: 40.1%<br>
 _male_: 30.8%<br>
 _female_: 51.9% (2020 est.)<br>
@@ -459,7 +459,7 @@ _services_: 64.4% (2009 est.)<br>
 6.14% (2018 est.)<br>
 6% (2017 est.)<br>
 
-**Unemployment, youth ages 15-24**<br>
+**Youth unemployment rate (ages 15-24)**<br>
 _total_: 40.1%<br>
 _male_: 30.8%<br>
 _female_: 51.9% (2020 est.)<br>

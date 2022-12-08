@@ -5,7 +5,7 @@ _Africa / Countries_
 ## Introduction
 
 **Background**<br>
-Seeking to stop the incorporation of their land into Rhodesia (Zimbabwe) or the Union of South Africa, in 1885, three tribal chiefs traveled to Great Britain and successfully lobbied the British Government to put "Bechuanaland" under UK protection. Upon independence in 1966, the British protectorate of Bechuanaland adopted the new name of Botswana. More than five decades of uninterrupted civilian leadership, progressive social policies, and significant capital investment have created one of the most stable economies in Africa. The ruling Botswana Democratic Party has won every national election since independence; President Mokgweetsi Eric MASISI assumed the presidency in April 2018 following the retirement of former President Ian KHAMA due to constitutional term limits. MASISI won his first election as president in October 2019, and he is Botswana&rsquo;s fifth president since independence. Mineral extraction, principally diamond mining, dominates economic activity, though tourism is a growing sector due to the country's conservation practices and extensive nature preserves. Botswana has one of the world's highest rates of HIV/AIDS infection, but also one of Africa's most progressive and comprehensive programs for dealing with the disease.<br>
+Seeking to stop the incorporation of their land into Rhodesia (Zimbabwe) or the Union of South Africa, in 1885, three tribal chiefs traveled to Great Britain and successfully lobbied the British Government to put "Bechuanaland" under UK protection. Upon independence in 1966, the British protectorate of Bechuanaland adopted the new name of Botswana. More than five decades of uninterrupted civilian leadership, progressive social policies, and significant capital investment have created one of the most stable economies in Africa. The ruling Botswana Democratic Party has won every national election since independence; President Mokgweetsi Eric MASISI assumed the presidency in April 2018 following the retirement of former President Ian KHAMA due to constitutional term limits. MASISI won his first election as president in October 2019, and he is Botswana&rsquo;s fifth president since independence. Mineral extraction, principally diamond mining, dominates economic activity, though tourism is a growing sector due to the country's conservation practices and extensive nature preserves. Botswana has one of the world's highest rates of HIV/AIDS infection but also one of Africa's most progressive and comprehensive programs for dealing with the disease.<br>
 
 ## Geography
 
@@ -59,7 +59,7 @@ _forest_: 19.8% (2018 est.)<br>
 _other_: 34.4% (2018 est.)<br>
 
 **Irrigated land**<br>
-20 sq km (2012)<br>
+25 sq km (2014)<br>
 
 **Major rivers (by length in km)**<br>
 <p>Zambezi (shared with Zambia [s]), Angola, Namibia, Zimbabwe, and Mozambique [m]) - 2,740 km; Limpopo (shared with South Africa [s], Zimbabwe, and Mozambique [m]) - 1,800 km; Okavango river mouth (shared with Angola [s], and Namibia) - 1,600 km<br><strong>note</strong> – [s] after country name indicates river source; [m] after country name indicates river mouth</p><br>
@@ -108,10 +108,10 @@ _55-64 years_: 5.92% (male 59,399/female 77,886)<br>
 _65 years and over_: 5.56% (male 53,708/female 75,159) (2020 est.)<br>
 
 **Dependency ratios**<br>
-_total dependency ratio_: 61.1<br>
-_youth dependency ratio_: 53.8<br>
-_elderly dependency ratio_: 7.3<br>
-_potential support ratio_: 13.8 (2020 est.)<br>
+_total dependency ratio_: 57.5<br>
+_youth dependency ratio_: 51.8<br>
+_elderly dependency ratio_: 5.7<br>
+_potential support ratio_: 13.8 (2021 est.)<br>
 
 **Median age**<br>
 _total_: 25.7 years<br>
@@ -194,7 +194,7 @@ _unimproved: rural_: rural: 37% of population<br>
 _unimproved: total_: total: 14.4% of population (2020 est.)<br>
 
 **HIV/AIDS - adult prevalence rate**<br>
-19.9% (2020 est.)<br>
+18.6% (2021 est.)<br>
 
 **Major infectious diseases**<br>
 _degree of risk_: high (2020)<br>
@@ -233,7 +233,7 @@ _total_: 13 years<br>
 _male_: 13 years<br>
 _female_: 13 years (2013)<br>
 
-**Unemployment, youth ages 15-24**<br>
+**Youth unemployment rate (ages 15-24)**<br>
 _total_: 46.2%<br>
 _male_: 44.9%<br>
 _female_: 47.8% (2020 est.)<br>
@@ -470,7 +470,7 @@ _services_: NA<br>
 20% (2013 est.)<br>
 17.8% (2009 est.)<br>
 
-**Unemployment, youth ages 15-24**<br>
+**Youth unemployment rate (ages 15-24)**<br>
 _total_: 46.2%<br>
 _male_: 44.9%<br>
 _female_: 47.8% (2020 est.)<br>

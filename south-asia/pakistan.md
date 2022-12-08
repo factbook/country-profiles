@@ -62,7 +62,7 @@ _forest_: 2.1% (2018 est.)<br>
 _other_: 62.7% (2018 est.)<br>
 
 **Irrigated land**<br>
-202,000 sq km (2012)<br>
+193,400 sq km (2020)<br>
 
 **Major rivers (by length in km)**<br>
 Indus river mouth (shared with China [s] and India) - 3,610 km; Sutlej river mouth (shared with China [s] and India) - 1,372 km; Chenab river mouth (shared with India [s]) - 1,086 km<br><strong>note</strong> – [s] after country name indicates river source; [m] after country name indicates river mouth<br>
@@ -110,10 +110,10 @@ _55-64 years_: 5.55% (male 6,526,656/female 6,423,993)<br>
 _65 years and over_: 4.44% (male 4,802,165/female 5,570,595) (2020 est.)<br>
 
 **Dependency ratios**<br>
-_total dependency ratio_: 64.4<br>
-_youth dependency ratio_: 57.2<br>
-_elderly dependency ratio_: 7.1<br>
-_potential support ratio_: 14 (2020 est.)<br>
+_total dependency ratio_: 70<br>
+_youth dependency ratio_: 62.8<br>
+_elderly dependency ratio_: 7.2<br>
+_potential support ratio_: 13.9 (2021 est.)<br>
 
 **Median age**<br>
 _total_: 22 years<br>
@@ -200,7 +200,7 @@ _unimproved: rural_: rural: 26.8% of population<br>
 _unimproved: total_: total: 21.1% of population (2020 est.)<br>
 
 **HIV/AIDS - adult prevalence rate**<br>
-0.2% (2020 est.)<br>
+0.2% (2021 est.)<br>
 
 **Major infectious diseases**<br>
 _degree of risk_: high (2020)<br>
@@ -246,7 +246,7 @@ _total_: 9 years<br>
 _male_: 9 years<br>
 _female_: 8 years (2019)<br>
 
-**Unemployment, youth ages 15-24**<br>
+**Youth unemployment rate (ages 15-24)**<br>
 _total_: 7.9%<br>
 _male_: 8.2%<br>
 _female_: 6.8% (2018 est.)<br>
@@ -494,7 +494,7 @@ _services_: 35.1% (FY2015 est.)<br>
 6% (2016 est.)<br>
 <strong>note:</strong> Pakistan has substantial underemployment<br>
 
-**Unemployment, youth ages 15-24**<br>
+**Youth unemployment rate (ages 15-24)**<br>
 _total_: 7.9%<br>
 _male_: 8.2%<br>
 _female_: 6.8% (2018 est.)<br>

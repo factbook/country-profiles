@@ -63,7 +63,7 @@ _forest_: 12.9% (2018 est.)<br>
 _other_: 23.7% (2018 est.)<br>
 
 **Irrigated land**<br>
-4,350 sq km (2012)<br>
+2,360 sq km (2020)<br>
 
 **Population distribution**<br>
 with excellent access to the North Sea, Skagerrak, Kattegat, and the Baltic Sea, population centers tend to be along coastal areas, particularly in Copenhagen and the eastern side of the country's mainland<br>
@@ -103,9 +103,9 @@ _65 years and over_: 19.91% (male 538,096/female 630,475) (2020 est.)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 57.3<br>
-_youth dependency ratio_: 25.6<br>
-_elderly dependency ratio_: 31.7<br>
-_potential support ratio_: 3.2 (2020 est.)<br>
+_youth dependency ratio_: 25.4<br>
+_elderly dependency ratio_: 31.9<br>
+_potential support ratio_: 3.1 (2021 est.)<br>
 
 **Median age**<br>
 _total_: 42 years<br>
@@ -191,7 +191,7 @@ _unimproved: rural_: rural: 0% of population<br>
 _unimproved: total_: total: 0% of population (2020 est.)<br>
 
 **HIV/AIDS - adult prevalence rate**<br>
-0.1% (2020 est.)<br>
+0.1% (2021 est.)<br>
 
 **Obesity - adult prevalence rate**<br>
 19.7% (2016)<br>
@@ -224,7 +224,7 @@ _total_: 19 years<br>
 _male_: 18 years<br>
 _female_: 19 years (2019)<br>
 
-**Unemployment, youth ages 15-24**<br>
+**Youth unemployment rate (ages 15-24)**<br>
 _total_: 11.6%<br>
 _male_: 12.6%<br>
 _female_: 10.6% (2020 est.)<br>
@@ -448,7 +448,7 @@ _services_: 79.3% (2016 est.)<br>
 3.05% (2019 est.)<br>
 3.07% (2018 est.)<br>
 
-**Unemployment, youth ages 15-24**<br>
+**Youth unemployment rate (ages 15-24)**<br>
 _total_: 11.6%<br>
 _male_: 12.6%<br>
 _female_: 10.6% (2020 est.)<br>
@@ -666,6 +666,9 @@ _cruise port(s)_: Copenhagen<br>
 _river port(s)_: Aalborg (Langerak)<br>
 _dry bulk cargo port(s)_: Ensted (coal)<br>
 North Sea - Esbjerg,<br>
+
+**Transportation - note**<br>
+Denmark operates icebreakers in the Baltic Sea and Danish Straits; currently operating three PC 5 or 6 ships<br><strong>note </strong>- PC 5 - Year-round operation in medium first-year ice which may include old ice inclusions (ice thickness up to 70-120 cm); PC 6 - Summer/autumn operation in medium first-year ice which may include old ice inclusions (ice thickness up to 30-70 cm)<br>
 
 ## Military and Security
 

@@ -59,7 +59,7 @@ _forest_: 11.9% (2018 est.)<br>
 _other_: 13.2% (2018 est.)<br>
 
 **Irrigated land**<br>
-2,283 sq km (2012)<br>
+2,155 sq km (2020)<br>
 
 **Major rivers (by length in km)**<br>
 Danube (shared with Germany [s], Austria, Slovakia, Czechia, Hungary, Croatia, Serbia, Bulgaria, Ukraine, and Romania [m]) - 2,888 km; Dniester (shared with Ukraine [s/m]) - 1,411 km<br><strong>note</strong> – [s] after country name indicates river source; [m] after country name indicates river mouth<br>
@@ -104,9 +104,9 @@ _65 years and over_: 14.03% (male 186,949/female 285,058) (2020 est.)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 39.6<br>
-_youth dependency ratio_: 22.2<br>
-_elderly dependency ratio_: 17.4<br>
-_potential support ratio_: 5.7 (2020 est.)<br>
+_youth dependency ratio_: 29.7<br>
+_elderly dependency ratio_: 20.4<br>
+_potential support ratio_: 4.9 (2021 est.)<br>
 
 **Median age**<br>
 _total_: 37.7 years<br>
@@ -192,7 +192,7 @@ _unimproved: rural_: rural: 16.9% of population<br>
 _unimproved: total_: total: 10.1% of population (2020 est.)<br>
 
 **HIV/AIDS - adult prevalence rate**<br>
-0.8% (2020 est.)<br>
+0.8% (2021 est.)<br>
 
 **Obesity - adult prevalence rate**<br>
 18.9% (2016)<br>
@@ -226,7 +226,7 @@ _total_: 14 years<br>
 _male_: 14 years<br>
 _female_: 15 years (2020)<br>
 
-**Unemployment, youth ages 15-24**<br>
+**Youth unemployment rate (ages 15-24)**<br>
 _total_: 10.9%<br>
 _male_: 9.9%<br>
 _female_: 12.3% (2020 est.)<br>
@@ -456,7 +456,7 @@ _services_: 55.7% (2017 est.)<br>
 4.99% (2019 est.)<br>
 3.16% (2018 est.)<br>
 
-**Unemployment, youth ages 15-24**<br>
+**Youth unemployment rate (ages 15-24)**<br>
 _total_: 10.9%<br>
 _male_: 9.9%<br>
 _female_: 12.3% (2020 est.)<br>
@@ -700,7 +700,7 @@ Moldova is constitutionally neutral, but has maintained a relationship with NATO
 <p><em>Moldova-Romania</em>: none identified</p> <p><em>Moldova-Ukraine</em>: Ukraine and Moldova signed an agreement officially delimiting their border in 1999, but the border has not been demarcated due to Moldova's difficulties with the break-away region of Transnistria; Moldova and Ukraine operate joint customs posts to monitor the transit of people and commodities through Moldova's break-away Transnistria region, which remains under the auspices of an Organization for Security and Cooperation in Europe-mandated peacekeeping mission comprised of Moldovan, Transnistrian, Russian, and Ukrainian troops</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 96,646 (Ukraine) (as of 22 November 2022)<br>
+_refugees (country of origin)_: 96,913 (Ukraine) (as of 29 November 2022)<br>
 _stateless persons_: 3,372 (mid-year 2021)<br>
 
 **Illicit drugs**<br>

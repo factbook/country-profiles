@@ -112,10 +112,10 @@ _55-64 years_: 3.01% (male 242,993/female 280,804)<br>
 _65 years and over_: 2.27% (male 173,582/female 221,316) (2020 est.)<br>
 
 **Dependency ratios**<br>
-_total dependency ratio_: 85.7<br>
-_youth dependency ratio_: 81.7<br>
-_elderly dependency ratio_: 4<br>
-_potential support ratio_: 25.3 (2020 est.)<br>
+_total dependency ratio_: 81.8<br>
+_youth dependency ratio_: 78.7<br>
+_elderly dependency ratio_: 3.2<br>
+_potential support ratio_: 31.6 (2021 est.)<br>
 
 **Median age**<br>
 _total_: 16.9 years<br>
@@ -202,7 +202,7 @@ _unimproved: rural_: rural: 68.1% of population<br>
 _unimproved: total_: total: 48.3% of population (2020 est.)<br>
 
 **HIV/AIDS - adult prevalence rate**<br>
-11.1% (2020 est.)<br>
+10.8% (2021 est.)<br>
 
 **Major infectious diseases**<br>
 _degree of risk_: very high (2020)<br>
@@ -243,7 +243,7 @@ _total population_: 86.7%<br>
 _male_: 90.6%<br>
 _female_: 83.1% (2018)<br>
 
-**Unemployment, youth ages 15-24**<br>
+**Youth unemployment rate (ages 15-24)**<br>
 _total_: 30.1%<br>
 _male_: 32.1%<br>
 _female_: 27.6% (2019 est.)<br>
@@ -484,7 +484,7 @@ _services_: 35.3% (2017 est.)<br>
 15% (2008 est.)<br>
 50% (2000 est.)<br>
 
-**Unemployment, youth ages 15-24**<br>
+**Youth unemployment rate (ages 15-24)**<br>
 _total_: 30.1%<br>
 _male_: 32.1%<br>
 _female_: 27.6% (2019 est.)<br>

@@ -61,7 +61,7 @@ _forest_: 62% (2018 est.)<br>
 _other_: 14.8% (2018 est.)<br>
 
 **Irrigated land**<br>
-3,800 sq km (2012)<br>
+4,420 sq km (2020)<br>
 
 **Population distribution**<br>
 a highly uneven distribution with over 80% of the population residing on the Malay Peninsula<br>
@@ -102,10 +102,10 @@ _55-64 years_: 8.81% (male 1,458,038/female 1,418,280)<br>
 _65 years and over_: 6.9% (male 1,066,627/female 1,184,863) (2020 est.)<br>
 
 **Dependency ratios**<br>
-_total dependency ratio_: 44.2<br>
-_youth dependency ratio_: 33.8<br>
+_total dependency ratio_: 43.3<br>
+_youth dependency ratio_: 32.9<br>
 _elderly dependency ratio_: 10.4<br>
-_potential support ratio_: 9.7 (2020 est.)<br>
+_potential support ratio_: 9.6 (2021 est.)<br>
 
 **Median age**<br>
 _total_: 29.2 years<br>
@@ -188,7 +188,7 @@ _unimproved: rural_: rural: NA<br>
 _unimproved: total_: total: (2020 est.) NA<br>
 
 **HIV/AIDS - adult prevalence rate**<br>
-0.4% (2020 est.)<br>
+0.3% (2021 est.)<br>
 
 **Major infectious diseases**<br>
 _degree of risk_: intermediate (2020)<br>
@@ -228,7 +228,7 @@ _total_: 13 years<br>
 _male_: 13 years<br>
 _female_: 14 years (2019)<br>
 
-**Unemployment, youth ages 15-24**<br>
+**Youth unemployment rate (ages 15-24)**<br>
 _total_: 12%<br>
 _male_: 11.4%<br>
 _female_: 13% (2020 est.)<br>
@@ -461,7 +461,7 @@ _services_: 53% (2012 est.)<br>
 3.3% (2019 est.)<br>
 3.33% (2018 est.)<br>
 
-**Unemployment, youth ages 15-24**<br>
+**Youth unemployment rate (ages 15-24)**<br>
 _total_: 12%<br>
 _male_: 11.4%<br>
 _female_: 13% (2020 est.)<br>

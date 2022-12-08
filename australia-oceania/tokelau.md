@@ -58,7 +58,7 @@ _forest_: 0% (2018 est.)<br>
 _other_: 40% (2018 est.)<br>
 
 **Irrigated land**<br>
-0 sq km (2012)<br>
+0 sq km (2022)<br>
 
 **Population distribution**<br>
 the country's small population is fairly evenly distributed amongst the three atolls<br>
@@ -96,10 +96,10 @@ _55-64 years_: NA<br>
 _65 years and over_: NA<br>
 
 **Dependency ratios**<br>
-_total dependency ratio_: NA<br>
-_youth dependency ratio_: NA<br>
-_elderly dependency ratio_: NA<br>
-_potential support ratio_: NA<br>
+_total dependency ratio_: 60.4<br>
+_youth dependency ratio_: 47<br>
+_elderly dependency ratio_: 13.4<br>
+_potential support ratio_: 7.5 (2021)<br>
 
 **Population growth rate**<br>
 -0.01% (2019 est.)<br>

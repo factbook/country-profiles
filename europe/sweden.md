@@ -61,7 +61,7 @@ _forest_: 68.7% (2018 est.)<br>
 _other_: 23.8% (2018 est.)<br>
 
 **Irrigated land**<br>
-1,640 sq km (2012)<br>
+519 sq km (2013)<br>
 
 **Major lakes (area sq km)**<br>
 _fresh water lake(s)_: Vanern - 5,580 sq km; Vattern - 1,910 sq km; Malaren - 1,140 sq km<br>
@@ -105,10 +105,10 @@ _55-64 years_: 11.9% (male 610,521/female 603,795)<br>
 _65 years and over_: 20.59% (male 974,410/female 1,126,142) (2020 est.)<br>
 
 **Dependency ratios**<br>
-_total dependency ratio_: 61.2<br>
-_youth dependency ratio_: 28.4<br>
-_elderly dependency ratio_: 32.8<br>
-_potential support ratio_: 3.1 (2020 est.)<br>
+_total dependency ratio_: 60.8<br>
+_youth dependency ratio_: 28.5<br>
+_elderly dependency ratio_: 32.3<br>
+_potential support ratio_: 3.1 (2021 est.)<br>
 
 **Median age**<br>
 _total_: 41.1 years<br>
@@ -195,7 +195,7 @@ _unimproved: rural_: rural: 0% of population<br>
 _unimproved: total_: total: 0% of population (2020 est.)<br>
 
 **HIV/AIDS - adult prevalence rate**<br>
-0.2% (2016 est.)<br>
+NA<br>
 
 **Obesity - adult prevalence rate**<br>
 20.6% (2016)<br>
@@ -228,7 +228,7 @@ _total_: 19 years<br>
 _male_: 18 years<br>
 _female_: 21 years (2019)<br>
 
-**Unemployment, youth ages 15-24**<br>
+**Youth unemployment rate (ages 15-24)**<br>
 _total_: 24%<br>
 _male_: 25%<br>
 _female_: 22.8% (2020 est.)<br>
@@ -454,7 +454,7 @@ _services_: 86% (2014 est.)<br>
 6.78% (2019 est.)<br>
 6.33% (2018 est.)<br>
 
-**Unemployment, youth ages 15-24**<br>
+**Youth unemployment rate (ages 15-24)**<br>
 _total_: 24%<br>
 _male_: 25%<br>
 _female_: 22.8% (2020 est.)<br>
@@ -673,6 +673,9 @@ _by type_: general cargo 49, oil tanker 22, other 299 (2021)<br>
 **Ports and terminals**<br>
 _major seaport(s)_: Brofjorden, Goteborg, Helsingborg, Karlshamn, Lulea, Malmo, Stockholm, Trelleborg, Visby<br>
 _LNG terminal(s) (import)_: Brunnsviksholme, Lysekil<br>
+
+**Transportation - note**<br>
+Sweden operates four PC 3 or 4 class icebreakers in the Baltic Sea<br><strong>note </strong>- PC 3 - Year-round operation in second-year ice which may include multi-year ice inclusions (ice thickness up to 2.5 m); PC 4 - Year-round operation in thick first-year ice which may include old ice inclusions (ice thickness up to 120 cm)<br>
 
 ## Military and Security
 

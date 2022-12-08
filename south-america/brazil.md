@@ -63,7 +63,7 @@ _forest_: 61.9% (2018 est.)<br>
 _other_: 5.2% (2018 est.)<br>
 
 **Irrigated land**<br>
-54,000 sq km (2012)<br>
+69,029 sq km (2017)<br>
 
 **Major lakes (area sq km)**<br>
 _fresh water lake(s)_: Lagoa dos Patos - 10,140 sq km<br>
@@ -117,10 +117,10 @@ _55-64 years_: 9.78% (male 9,802,995/female 10,911,140)<br>
 _65 years and over_: 9.21% (male 8,323,344/female 11,176,018) (2020 est.)<br>
 
 **Dependency ratios**<br>
-_total dependency ratio_: 43.5<br>
-_youth dependency ratio_: 29.7<br>
-_elderly dependency ratio_: 13.8<br>
-_potential support ratio_: 7.3 (2020 est.)<br>
+_total dependency ratio_: 43.1<br>
+_youth dependency ratio_: 29.4<br>
+_elderly dependency ratio_: 13.7<br>
+_potential support ratio_: 7.3 (2021 est.)<br>
 
 **Median age**<br>
 _total_: 33.2 years<br>
@@ -203,7 +203,7 @@ _unimproved: rural_: rural: 36.4% of population<br>
 _unimproved: total_: total: 9.8% of population (2020 est.)<br>
 
 **HIV/AIDS - adult prevalence rate**<br>
-0.6% (2020 est.)<br>
+0.6% (2021 est.)<br>
 
 **Major infectious diseases**<br>
 _degree of risk_: very high (2020)<br>
@@ -244,7 +244,7 @@ _total_: 16 years<br>
 _male_: 15 years<br>
 _female_: 16 years (2019)<br>
 
-**Unemployment, youth ages 15-24**<br>
+**Youth unemployment rate (ages 15-24)**<br>
 _total_: 31.3%<br>
 _male_: 27.5%<br>
 _female_: 36.3% (2020 est.)<br>
@@ -491,7 +491,7 @@ _services_: 58.5% (2017 est.)<br>
 11.93% (2019 est.)<br>
 12.26% (2018 est.)<br>
 
-**Unemployment, youth ages 15-24**<br>
+**Youth unemployment rate (ages 15-24)**<br>
 _total_: 31.3%<br>
 _male_: 27.5%<br>
 _female_: 36.3% (2020 est.)<br>

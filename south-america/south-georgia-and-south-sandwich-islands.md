@@ -54,7 +54,7 @@ fish<br>
 _other_: 100% (2018 est.)<br>
 
 **Irrigated land**<br>
-0 sq km (2011)<br>
+0 sq km (2022)<br>
 
 **Natural hazards**<br>
 the South Sandwich Islands have prevailing weather conditions that generally make them difficult to approach by ship; they are also subject to active volcanism<br>

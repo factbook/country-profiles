@@ -59,7 +59,7 @@ _forest_: 5.1% (2018 est.)<br>
 _other_: 39.5% (2018 est.)<br>
 
 **Irrigated land**<br>
-10,233 sq km (2012)<br>
+10,043 sq km (2020)<br>
 
 **Major lakes (area sq km)**<br>
 _salt water lake(s)_: Ozero Issyk-Kul 6,240 sq km<br>note - second largest saline lake after the Caspian Sea; second highest mountain lake after Lake Titicaca; it is an endorheic mountain basin; although surrounded by snow capped mountains it never freezes<br>
@@ -109,10 +109,10 @@ _55-64 years_: 8.09% (male 210,994/female 271,480)<br>
 _65 years and over_: 5.8% (male 132,134/female 213,835) (2020 est.)<br>
 
 **Dependency ratios**<br>
-_total dependency ratio_: 59.7<br>
-_youth dependency ratio_: 52.1<br>
-_elderly dependency ratio_: 7.5<br>
-_potential support ratio_: 13.2 (2020 est.)<br>
+_total dependency ratio_: 63.5<br>
+_youth dependency ratio_: 56.4<br>
+_elderly dependency ratio_: 7.2<br>
+_potential support ratio_: 13.9 (2021 est.)<br>
 
 **Median age**<br>
 _total_: 27.3 years<br>
@@ -198,7 +198,7 @@ _unimproved: rural_: rural: 0% of population<br>
 _unimproved: total_: total: 0% of population (2020 est.)<br>
 
 **HIV/AIDS - adult prevalence rate**<br>
-0.2% (2020 est.)<br>
+0.2% (2021 est.)<br>
 
 **Obesity - adult prevalence rate**<br>
 16.6% (2016)<br>
@@ -236,7 +236,7 @@ _total_: 13 years<br>
 _male_: 13 years<br>
 _female_: 13 years (2020)<br>
 
-**Unemployment, youth ages 15-24**<br>
+**Youth unemployment rate (ages 15-24)**<br>
 _total_: 9.6%<br>
 _male_: 7.8%<br>
 _female_: 13.4% (2018 est.)<br>
@@ -467,7 +467,7 @@ _services_: 39.5% (2005 est.)<br>
 3.18% (2019 est.)<br>
 2.59% (2018 est.)<br>
 
-**Unemployment, youth ages 15-24**<br>
+**Youth unemployment rate (ages 15-24)**<br>
 _total_: 9.6%<br>
 _male_: 7.8%<br>
 _female_: 13.4% (2018 est.)<br>

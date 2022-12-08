@@ -116,10 +116,10 @@ _55-64 years_: 9.07% (male 2,000,536/female 2,122,699)<br>
 _65 years and over_: 12.13% (male 2,331,679/female 3,185,262) (2020 est.)<br>
 
 **Dependency ratios**<br>
-_total dependency ratio_: 56.5<br>
-_youth dependency ratio_: 38.1<br>
-_elderly dependency ratio_: 17.7<br>
-_potential support ratio_: 5.6 (2020 est.)<br>
+_total dependency ratio_: 54.3<br>
+_youth dependency ratio_: 36<br>
+_elderly dependency ratio_: 18.2<br>
+_potential support ratio_: 5.5 (2021 est.)<br>
 
 **Median age**<br>
 _total_: 32.4 years<br>
@@ -201,7 +201,7 @@ _unimproved: rural_: rural: NA<br>
 _unimproved: total_: total: (2020 est.) NA<br>
 
 **HIV/AIDS - adult prevalence rate**<br>
-0.4% (2020 est.)<br>
+0.4% (2021 est.)<br>
 
 **Major infectious diseases**<br>
 <strong>note:</strong> widespread ongoing transmission of a respiratory illness caused by the novel coronavirus (COVID-19) is occurring throughout Argentina; as of 18 August 2022, Argentina has reported a total of 9,633,732 cases of COVID-19 or 21,315.55 cumulative cases of COVID-19 per 100,000 population with a total of 129,566 cumulative deaths or 286.67 cumulative deaths per 100,000 population; as of 17 August 2022, 91.07% of the population has received at least one dose of COVID-19 vaccine<br>
@@ -238,7 +238,7 @@ _total_: 18 years<br>
 _male_: 17 years<br>
 _female_: 19 years (2019)<br>
 
-**Unemployment, youth ages 15-24**<br>
+**Youth unemployment rate (ages 15-24)**<br>
 _total_: 30.2%<br>
 _male_: 26.8%<br>
 _female_: 35% (2020 est.)<br>
@@ -480,7 +480,7 @@ _services_: 66.1% (2017 est.)<br>
 9.84% (2019 est.)<br>
 9.18% (2018 est.)<br>
 
-**Unemployment, youth ages 15-24**<br>
+**Youth unemployment rate (ages 15-24)**<br>
 _total_: 30.2%<br>
 _male_: 26.8%<br>
 _female_: 35% (2020 est.)<br>
@@ -709,6 +709,9 @@ _major seaport(s)_: Bahia Blanca, Buenos Aires, La Plata, Punta Colorada, Ushuai
 _container port(s) (TEUs)_: Buenos Aires (1,485,328) (2019)<br>
 _LNG terminal(s) (import)_: Bahia Blanca<br>
 _river port(s)_: Arroyo Seco, Rosario, San Lorenzo-San Martin (Parana)<br>
+
+**Transportation - note**<br>
+Argentina operates one PC 5 or 6 class icebreaker<br><strong>note </strong>- PC 5 - Year-round operation in medium first-year ice which may include old ice inclusions (ice thickness up to 70-120 cm); PC 6 - Summer/autumn operation in medium first-year ice which may include old ice inclusions (ice thickness up to 30-70 cm)<br>
 
 ## Military and Security
 

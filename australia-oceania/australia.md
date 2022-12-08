@@ -62,7 +62,7 @@ _forest_: 17.42% (2018 est.)<br>
 _other_: 33.42% (2018 est.)<br>
 
 **Irrigated land**<br>
-25,460 sq km (2014)<br>
+15,210 sq km (2020)<br>
 
 **Major lakes (area sq km)**<br>
 _fresh water lake(s)_: Lake Alexandrina - 570 sq km<br>
@@ -114,10 +114,10 @@ _55-64 years_: 11.35% (male 1,395,844/female 1,495,806)<br>
 _65 years and over_: 15.88% (male 1,866,761/female 2,177,996) (2020 est.)<br>
 
 **Dependency ratios**<br>
-_total dependency ratio_: 55.1<br>
-_youth dependency ratio_: 29.9<br>
-_elderly dependency ratio_: 25.1<br>
-_potential support ratio_: 4 (2020 est.)<br>
+_total dependency ratio_: 53.7<br>
+_youth dependency ratio_: 28.2<br>
+_elderly dependency ratio_: 25.5<br>
+_potential support ratio_: 3.9 (2020 est.)<br>
 
 **Median age**<br>
 _total_: 37.5 years<br>
@@ -205,7 +205,7 @@ _unimproved: rural_: rural: NA<br>
 _unimproved: total_: total: 0% of population (2020 est.)<br>
 
 **HIV/AIDS - adult prevalence rate**<br>
-0.1% (2020 est.)<br>
+0.1% (2021 est.)<br>
 
 **Obesity - adult prevalence rate**<br>
 29% (2016)<br>
@@ -238,7 +238,7 @@ _total_: 22 years<br>
 _male_: 21 years<br>
 _female_: 22 years (2019)<br>
 
-**Unemployment, youth ages 15-24**<br>
+**Youth unemployment rate (ages 15-24)**<br>
 _total_: 14.3%<br>
 _male_: 15.3%<br>
 _female_: 13.2% (2020 est.)<br>
@@ -478,7 +478,7 @@ _services_: 75.3% (2009 est.)<br>
 5.16% (2019 est.)<br>
 5.29% (2018 est.)<br>
 
-**Unemployment, youth ages 15-24**<br>
+**Youth unemployment rate (ages 15-24)**<br>
 _total_: 14.3%<br>
 _male_: 15.3%<br>
 _female_: 13.2% (2020 est.)<br>
@@ -699,6 +699,9 @@ _major seaport(s)_: <em><br>Indian Ocean:</em> Adelaide, Darwin, Fremantle, Geel
 _container port(s) (TEUs)_: Melbourne (2,967,315), Sydney (2,572,714) (2019)<br>
 _LNG terminal(s) (export)_: Australia Pacific, Barrow Island, Burrup (Pluto), Curtis Island, Darwin, Karratha, Bladin Point (Ichthys), Gladstone,&nbsp;Prelude (offshore FLNG), Wheatstone<br>
 _dry bulk cargo port(s)_: Dampier (iron ore), Dalrymple Bay (coal), Hay Point (coal), Port Hedland (iron ore), Port Walcott (iron ore)<br>
+
+**Transportation - note**<br>
+Australia operates one PC 3 or 4 class icebreaker based in Tasmania in support of operations in Antarctica<br><strong>note </strong>- PC 3 - Year-round operation in second-year ice which may include multi-year ice inclusions (ice thickness up to 2.5 m); PC 4 - Year-round operation in thick first-year ice which may include old ice inclusions (ice thickness up to 120 cm)<br>
 
 ## Military and Security
 

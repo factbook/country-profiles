@@ -58,7 +58,7 @@ _forest_: 7.7% (2018 est.)<br>
 _other_: 29.7% (2018 est.)<br>
 
 **Irrigated land**<br>
-42,150 sq km (2012)<br>
+37,320 sq km (2020)<br>
 
 **Major lakes (area sq km)**<br>
 _fresh water lake(s)_: Aral Sea (shared with Kazakhstan) - largely dried up<br>
@@ -106,10 +106,10 @@ _55-64 years_: 8.63% (male 1,245,035/female 1,392,263)<br>
 _65 years and over_: 5.87% (male 768,769/female 1,025,840) (2020 est.)<br>
 
 **Dependency ratios**<br>
-_total dependency ratio_: 50.6<br>
-_youth dependency ratio_: 43.4<br>
+_total dependency ratio_: 54<br>
+_youth dependency ratio_: 46.3<br>
 _elderly dependency ratio_: 7.2<br>
-_potential support ratio_: 13.9 (2020 est.)<br>
+_potential support ratio_: 13 (2021 est.)<br>
 
 **Median age**<br>
 _total_: 30.1 years<br>
@@ -195,7 +195,7 @@ _unimproved: rural_: rural: 0% of population<br>
 _unimproved: total_: total: 0% of population (2020 est.)<br>
 
 **HIV/AIDS - adult prevalence rate**<br>
-0.2% (2020 est.)<br>
+0.2% (2021 est.)<br>
 
 **Obesity - adult prevalence rate**<br>
 16.6% (2016)<br>

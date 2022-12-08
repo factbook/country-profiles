@@ -115,9 +115,9 @@ _65 years and over_: 3.3% (male 3,329,083/female 3,733,801) (2020 est.)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 86<br>
-_youth dependency ratio_: 80.9<br>
-_elderly dependency ratio_: 5.1<br>
-_potential support ratio_: 19.6 (2020 est.)<br>
+_youth dependency ratio_: 80.6<br>
+_elderly dependency ratio_: 5.5<br>
+_potential support ratio_: 18 (2021 est.)<br>
 
 **Median age**<br>
 _total_: 18.6 years<br>
@@ -201,7 +201,7 @@ _unimproved: rural_: rural: 58.6% of population<br>
 _unimproved: total_: total: 37.7% of population (2020 est.)<br>
 
 **HIV/AIDS - adult prevalence rate**<br>
-1.3% (2020 est.)<br>
+1.3% (2021 est.)<br>
 
 **Major infectious diseases**<br>
 _degree of risk_: very high (2020)<br>
@@ -250,7 +250,7 @@ _total_: 9 years<br>
 _male_: 9 years<br>
 _female_: 8 years (2011)<br>
 
-**Unemployment, youth ages 15-24**<br>
+**Youth unemployment rate (ages 15-24)**<br>
 _total_: 18.3%<br>
 _male_: 18.4% NA<br>
 _female_: 18.2% (2019 est.) NA<br>
@@ -301,7 +301,7 @@ _aerosolized dust or soil contact diseases_: Lassa fever<br>
 <strong>note 1:</strong> on 4 May 2022, the Centers for Disease Control and Prevention issued a Travel Health Notice for a Yellow Fever outbreak in Nigeria; a large, ongoing outbreak of yellow fever in Nigeria began in September 2017; the outbreak is now spread throughout the country with the Nigerian Ministry of Health reporting cases of the disease in multiple states (Bauchi, Benue, Delta, Ebonyi, and Enugu); the CDC recommends travelers going to Nigeria should receive vaccination against yellow fever at least 10 days before travel and should take steps to prevent mosquito bites while there; those never vaccinated against yellow fever should avoid travel to Nigeria during the outbreak<br><br><strong>note 2:</strong> widespread ongoing transmission of a respiratory illness caused by the novel coronavirus (COVID-19) is occurring throughout Nigeria; as of 18 August 2022, Nigeria has reported a total of 262,664 cases of COVID-19 or 127.42 cumulative cases of COVID-19 per 100,000 population with a total of 3,147 cumulative deaths or a rate of 1.52 cumulative death per 100,000 population<br> <strong>note 3: </strong>on 21 March 2022, the US Centers for Disease Control and Prevention (CDC) issued a Travel Alert for polio in Africa; Nigeria is currently considered a high risk to travelers for circulating vaccine-derived polioviruses (cVDPV); vaccine-derived poliovirus (VDPV) is a strain of the weakened poliovirus that was initially included in oral polio vaccine (OPV) and <em>that has changed over time and behaves more like the wild or naturally occurring virus</em>; this means it can be spread more easily to people who are unvaccinated against polio and who come in contact with the stool or respiratory secretions, such as from a sneeze, of an “infected” person who received oral polio vaccine; the CDC recommends that before any international travel, anyone unvaccinated, incompletely vaccinated, or with an unknown polio vaccination status should complete the routine polio vaccine series; before travel to any high-risk destination, the CDC recommends that adults who previously completed the full, routine polio vaccine series receive a single, lifetime booster dose of polio vaccine<br>
 
 **Food insecurity**<br>
-_widespread lack of access_: <em><em>due to persistent civil conflict in the northern areas, </em></em><em>localized shortfalls in cereal production, and high food prices </em><em>-</em> according to the latest analysis, about 19.45 million people are projected to be in need of humanitarian food assistance between June and August 2022, owing to the deterioration of security conditions and conflicts in northern states, localized shortfalls in staple food production, high food prices and reduced incomes (2022)<br>
+_widespread lack of access_: <em><em>due to persistent civil conflict in the northern areas, </em></em><em>localized shortfalls in cereal production, and high food prices </em><em>-</em> according to the latest analysis, about 19.45 million people were projected to be in need of humanitarian food assistance between June and August 2022, owing to the deterioration of security conditions and conflicts in northern states, localized shortfalls in staple food production, high food prices and reduced incomes;as of September 2022, flood affected about 190,000 people in areas already affected by high levels of food insecurity, malnutrition and violence in northeastern states (2022)<br>
 
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 27,614,830 tons (2009 est.)<br>
@@ -495,7 +495,7 @@ _services_: 20% (1999 est.)<br>
 16.5% (2017 est.)<br>
 13.9% (2016 est.)<br>
 
-**Unemployment, youth ages 15-24**<br>
+**Youth unemployment rate (ages 15-24)**<br>
 _total_: 18.3%<br>
 _male_: 18.4% NA<br>
 _female_: 18.2% (2019 est.) NA<br>

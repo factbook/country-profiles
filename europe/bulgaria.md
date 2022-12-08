@@ -61,7 +61,7 @@ _forest_: 36.7% (2018 est.)<br>
 _other_: 16.4% (2018 est.)<br>
 
 **Irrigated land**<br>
-1,020 sq km (2012)<br>
+987 sq km (2013)<br>
 
 **Major rivers (by length in km)**<br>
 Danube (shared with Germany [s], Austria, Slovakia, Czechia, Hungary, Croatia, Serbia, Ukraine, Moldova, and Romania [m]) - 2,888 km<br><strong>note</strong> – [s] after country name indicates river source; [m] after country name indicates river mouth<br>
@@ -106,10 +106,10 @@ _55-64 years_: 13.15% (male 433,943/female 482,474)<br>
 _65 years and over_: 20.06% (male 562,513/female 835,053) (2020 est.)<br>
 
 **Dependency ratios**<br>
-_total dependency ratio_: 56.6<br>
-_youth dependency ratio_: 23<br>
-_elderly dependency ratio_: 33.6<br>
-_potential support ratio_: 3 (2020 est.)<br>
+_total dependency ratio_: 57.3<br>
+_youth dependency ratio_: 22<br>
+_elderly dependency ratio_: 35.3<br>
+_potential support ratio_: 2.8 (2021 est.)<br>
 
 **Median age**<br>
 _total_: 43.7 years<br>
@@ -195,7 +195,7 @@ _unimproved: rural_: rural: 0% of population<br>
 _unimproved: total_: total: 0% of population (2020 est.)<br>
 
 **HIV/AIDS - adult prevalence rate**<br>
-(2019 est.) <.1%<br>
+(21 est.) <0.1%<br>
 
 **Obesity - adult prevalence rate**<br>
 25% (2016)<br>
@@ -229,7 +229,7 @@ _total_: 14 years<br>
 _male_: 14 years<br>
 _female_: 14 years (2019)<br>
 
-**Unemployment, youth ages 15-24**<br>
+**Youth unemployment rate (ages 15-24)**<br>
 _total_: 14.2%<br>
 _male_: 14.6%<br>
 _female_: 13.7% (2020 est.)<br>
@@ -462,7 +462,7 @@ _services_: 66.6% (2016 est.)<br>
 5.66% (2019 est.)<br>
 6.18% (2018 est.)<br>
 
-**Unemployment, youth ages 15-24**<br>
+**Youth unemployment rate (ages 15-24)**<br>
 _total_: 14.2%<br>
 _male_: 14.6%<br>
 _female_: 13.7% (2020 est.)<br>
@@ -720,7 +720,7 @@ Islamic State of Iraq and ash-Sham (ISIS); Islamic Revolutionary Guard Corps/Qod
 <p>none</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 19,014 (Syria) (mid-year 2021); 51,864 (Ukraine) (as of 22 November 2022)<br>
+_refugees (country of origin)_: 19,014 (Syria) (mid-year 2021); 51,516 (Ukraine) (as of 29 November 2022)<br>
 _stateless persons_: 1,143 (mid-year 2021)<br>
 <strong>note:</strong> 83,250 estimated refugee and migrant arrivals (January 2015-September 2022); Bulgaria is predominantly a transit country<br>
 

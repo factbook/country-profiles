@@ -58,7 +58,7 @@ _forest_: 14.5% (2018 est.)<br>
 _other_: 14.3% (2018 est.)<br>
 
 **Irrigated land**<br>
-140 sq km (2012)<br>
+105 sq km (2013)<br>
 
 **Major lakes (area sq km)**<br>
 _fresh water lake(s)_: Lake Victoria (shared with Tanzania and Kenya) - 62,940 sq km; Lake Albert (shared with Democratic Republic of Congo) - 5,590 sq km; Lake Kyoga - 4,430 sq km; Lake Edward (shared with Democratic Republic of Congo) - 2,150 sq km<br>
@@ -107,10 +107,10 @@ _55-64 years_: 2.91% (male 579,110/female 681,052)<br>
 _65 years and over_: 2.38% (male 442,159/female 589,053) (2020 est.)<br>
 
 **Dependency ratios**<br>
-_total dependency ratio_: 92.3<br>
-_youth dependency ratio_: 88.5<br>
-_elderly dependency ratio_: 3.8<br>
-_potential support ratio_: 26.2 (2020 est.)<br>
+_total dependency ratio_: 88.2<br>
+_youth dependency ratio_: 85.1<br>
+_elderly dependency ratio_: 3.2<br>
+_potential support ratio_: 31.7 (2021 est.)<br>
 
 **Median age**<br>
 _total_: 15.7 years<br>
@@ -169,7 +169,7 @@ _female_: 71.27 years (2022 est.)<br>
 5.36 children born/woman (2022 est.)<br>
 
 **Contraceptive prevalence rate**<br>
-41.8% (2018)<br>
+50.2% (2021)<br>
 
 **Drinking water source**<br>
 _improved: urban_: urban: 92.5% of population<br>
@@ -244,7 +244,7 @@ _total_: 10 years<br>
 _male_: 10 years<br>
 _female_: 10 years (2011)<br>
 
-**Unemployment, youth ages 15-24**<br>
+**Youth unemployment rate (ages 15-24)**<br>
 _total_: 15.6%<br>
 _male_: 13.8%<br>
 _female_: 17.6% (2017 est.)<br>
@@ -483,7 +483,7 @@ _services_: 22% (2013 est.)<br>
 **Unemployment rate**<br>
 9.4% (2014 est.)<br>
 
-**Unemployment, youth ages 15-24**<br>
+**Youth unemployment rate (ages 15-24)**<br>
 _total_: 15.6%<br>
 _male_: 13.8%<br>
 _female_: 17.6% (2017 est.)<br>
@@ -718,7 +718,7 @@ the UPDF's inventory is mostly older Russian/Soviet-era equipment with a limited
 
 **Military deployments**<br>
 6,800 Somalia (6,200 ATMIS; 625 UNSOM); 250 Equatorial Guinea (training mission) (2022)<br>
-<strong>note: </strong>in December 2021, Uganda sent an undetermined number of troops into the Democratic Republic of the Congo to combat rebels from the Alliance of Democratic Front (ADF) group<br>
+<strong>note:</strong> in December 2022, Uganda sent approximately 1,000 troops to the eastern part of the Democratic Republic of the Congo (DRC) as part of a newly formed East Africa Community Regional Force (EACRF) to assist the DRC military against the rebel group M23<br>
 
 **Military - note**<br>
 the UPDF, which is constitutionally granted seats in parliament, is widely viewed as a key constituency for MUSEVENI; it has been used by MUSEVENI and his political party to break up rallies, raid opposition offices, and surveil rival candidates<br><br>as of 2022, the UPDF was conducting operations along the border with the Democratic Republic of the Congo (including cross-border operations) against a Congo-based (and formerly based in western Uganda) Ugandan rebel group, the Allied Democratic Front (ADF), which was designated as a Foreign Terrorist Organization by the US in March 2021 as the Islamic State of Iraq and ash-Sham in the Democratic Republic of the Congo (ISIS-DRC; see Appendix T); in addition, elements of the UPDF were deployed in the northeast region of Karamoja against cattle rustlers and criminal gangs<br><br>beginning in 2012, the UPDF led regional efforts to pursue the Lord’s Resistance Army (LRA), a small, violent group of Ugandan origin that conducted widespread attacks against civilians in much of Central Africa; the UPDF withdrew from the mission in 2017 after declaring that the LRA no longer posed a security threat; Uganda intervened in the South Sudan civil war in 2013-2016 and UPDF forces have clashed with South Sudanese forces along the border as recently as 2020<br><br>the military traces its history back to the formation of the Uganda Rifles in 1895 under the British colonial government; the Uganda Rifles were merged with the Central Africa Regiment and the East Africa Rifles to form the King’s African Rifles (KAR) in 1902, which participated in both world wars, as well as the Mau Mau rebellion in Kenya (1952-1960); in 1962, the Ugandan battalion of the KAR was transformed into the country's first military force, the Uganda Rifles, which was subsequently renamed the Uganda Army; the Uganda People's Defense Force was established in 1995 from the former rebel National Resistance Army following the enactment of the 1995 Constitution of Uganda (2022)<br>

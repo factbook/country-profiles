@@ -60,7 +60,7 @@ _other_: 55.2% (2018 est.)<br>
 <strong>note:</strong> includes Gaza Strip<br>
 
 **Irrigated land**<br>
-(2012) 240 sq km; note - includes Gaza Strip<br>
+(2013) 151 sq km; note - includes Gaza Strip<br>
 
 **Major lakes (area sq km)**<br>
 _salt water lake(s)_: Dead Sea (shared with Jordan and Israel) - 1,020 sq km<br>note - endorheic hypersaline lake; 9.6 times saltier than the ocean; lake shore is 431 meters below sea level<br>
@@ -102,10 +102,10 @@ _55-64 years_: 5.12% (male 76,615/female 72,006)<br>
 _65 years and over_: 3.62% (2022 est.) (male 48,387/female 56,650) (2020 est.)<br>
 
 **Dependency ratios**<br>
-_total dependency ratio_: 71.2<br>
-_youth dependency ratio_: 65.7<br>
-_elderly dependency ratio_: 5.5<br>
-_potential support ratio_: 18.2 (2020 est.)<br>
+_total dependency ratio_: 74.3<br>
+_youth dependency ratio_: 68.2<br>
+_elderly dependency ratio_: 6.1<br>
+_potential support ratio_: 16.5 (2021 est.)<br>
 <strong>note:</strong> data represent Gaza Strip and the West Bank<br>
 
 **Median age**<br>
@@ -222,7 +222,7 @@ _male_: 12 years<br>
 _female_: 14 years (2020)<br>
 <strong>note:</strong> data represent Gaza Strip and the West Bank<br>
 
-**Unemployment, youth ages 15-24**<br>
+**Youth unemployment rate (ages 15-24)**<br>
 _total_: 42.1%<br>
 _male_: 36.6%<br>
 _female_: 70% (2020 est.)<br>
@@ -358,7 +358,7 @@ _services_: 54.1% (2013 est.)<br>
 27% (2016 est.)<br>
 <strong>note:</strong> excludes Gaza Strip<br>
 
-**Unemployment, youth ages 15-24**<br>
+**Youth unemployment rate (ages 15-24)**<br>
 _total_: 42.1%<br>
 _male_: 36.6%<br>
 _female_: 70% (2020 est.)<br>

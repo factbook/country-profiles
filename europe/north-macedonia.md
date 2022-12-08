@@ -59,7 +59,7 @@ _forest_: 39.8% (2018 est.)<br>
 _other_: 15.9% (2018 est.)<br>
 
 **Irrigated land**<br>
-1,280 sq km (2012)<br>
+844 sq km (2016)<br>
 
 **Major watersheds (area sq km)**<br>
 Atlantic Ocean drainage: <em>(Black Sea)</em> Danube (795,656 sq km)<br>
@@ -101,10 +101,10 @@ _55-64 years_: 12.55% (male 131,380/female 135,407)<br>
 _65 years and over_: 14.17% (male 131,674/female 169,609) (2020 est.)<br>
 
 **Dependency ratios**<br>
-_total dependency ratio_: 44.5<br>
-_youth dependency ratio_: 23.6<br>
-_elderly dependency ratio_: 20.9<br>
-_potential support ratio_: 4.8 (2020 est.)<br>
+_total dependency ratio_: 44.6<br>
+_youth dependency ratio_: 23.2<br>
+_elderly dependency ratio_: 21.4<br>
+_potential support ratio_: 4.7 (2021 est.)<br>
 
 **Median age**<br>
 _total_: 39 years<br>
@@ -190,7 +190,7 @@ _unimproved: rural_: rural: 2% of population<br>
 _unimproved: total_: total: 0.8% of population (2020 est.)<br>
 
 **HIV/AIDS - adult prevalence rate**<br>
-(2018 est.) <.1%<br>
+NA<br>
 
 **Obesity - adult prevalence rate**<br>
 22.4% (2016)<br>
@@ -223,7 +223,7 @@ _total_: 14 years<br>
 _male_: 13 years<br>
 _female_: 14 years (2018)<br>
 
-**Unemployment, youth ages 15-24**<br>
+**Youth unemployment rate (ages 15-24)**<br>
 _total_: 37%<br>
 _male_: 35.2%<br>
 _female_: 40% (2020 est.)<br>
@@ -450,7 +450,7 @@ _services_: 54.5% (2017 est.)<br>
 17.29% (2019 est.)<br>
 20.7% (2018 est.)<br>
 
-**Unemployment, youth ages 15-24**<br>
+**Youth unemployment rate (ages 15-24)**<br>
 _total_: 37%<br>
 _male_: 35.2%<br>
 _female_: 40% (2020 est.)<br>
@@ -685,7 +685,7 @@ Islamic State of Iraq and ash-Sham (ISIS)<br>
 <p><em>North Macedonia-Albania</em>: none identified</p> <p><em>North Macedonia-Greece</em>: none identified</p> <p><em>North Macedonia-Kosovo</em>: North Macedonia and Kosovo completed demarcation of their boundary in October 2009</p> <p><em>North Macedonia-Serbia</em>: none identified</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 6,386 (Ukraine) (as of 22 November 2022)<br>
+_refugees (country of origin)_: 6,386 (Ukraine) (as of 29 November 2022)<br>
 _stateless persons_: 553 (mid-year 2021)<br>
 <strong>note:</strong> 549,217 estimated refugee and migrant arrivals (January 2015-October 2022)<br>
 

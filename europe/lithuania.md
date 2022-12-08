@@ -59,7 +59,7 @@ _forest_: 34.6% (2018 est.)<br>
 _other_: 20.6% (2018 est.)<br>
 
 **Irrigated land**<br>
-44 sq km (2012)<br>
+16 sq km (2013)<br>
 
 **Major lakes (area sq km)**<br>
 _salt water lake(s)_: Curonian Lagoon (shared with Russia) - 1,620 sq km<br>
@@ -100,10 +100,10 @@ _55-64 years_: 15.1% (male 183,854/female 228,585)<br>
 _65 years and over_: 20.45% (male 190,025/female 368,558) (2020 est.)<br>
 
 **Dependency ratios**<br>
-_total dependency ratio_: 56.5<br>
-_youth dependency ratio_: 24.2<br>
-_elderly dependency ratio_: 32.3<br>
-_potential support ratio_: 3.1 (2020 est.)<br>
+_total dependency ratio_: 55.7<br>
+_youth dependency ratio_: 23.6<br>
+_elderly dependency ratio_: 32.1<br>
+_potential support ratio_: 3.1 (2021 est.)<br>
 
 **Median age**<br>
 _total_: 44.5 years<br>
@@ -189,7 +189,7 @@ _unimproved: rural_: rural: 11.3% of population<br>
 _unimproved: total_: total: 4% of population (2020 est.)<br>
 
 **HIV/AIDS - adult prevalence rate**<br>
-0.1% (2019 est.)<br>
+0.2% (2021 est.)<br>
 
 **Major infectious diseases**<br>
 _degree of risk_: intermediate (2020)<br>
@@ -227,7 +227,7 @@ _total_: 16 years<br>
 _male_: 16 years<br>
 _female_: 17 years (2019)<br>
 
-**Unemployment, youth ages 15-24**<br>
+**Youth unemployment rate (ages 15-24)**<br>
 _total_: 19.6%<br>
 _male_: 21.5%<br>
 _female_: 17.3% (2020 est.)<br>
@@ -459,7 +459,7 @@ _services_: 65.8% (2015 est.)<br>
 8.4% (2019 est.)<br>
 8.5% (2018 est.)<br>
 
-**Unemployment, youth ages 15-24**<br>
+**Youth unemployment rate (ages 15-24)**<br>
 _total_: 19.6%<br>
 _male_: 21.5%<br>
 _female_: 17.3% (2020 est.)<br>

@@ -59,7 +59,7 @@ _forest_: 1.1% (2018 est.)<br>
 _other_: 87.5% (2018 est.)<br>
 
 **Irrigated land**<br>
-964 sq km (2012)<br>
+833 sq km (2020)<br>
 
 **Major lakes (area sq km)**<br>
 _salt water lake(s)_: Dead Sea (shared with Israel and West Bank) - 1,020 sq km<br>note - endorheic hypersaline lake; 9.6 times saltier than the ocean; lake shore is 431 meters below sea level<br>
@@ -108,10 +108,10 @@ _55-64 years_: 5.11% (male 290,633/female 262,827)<br>
 _65 years and over_: 3.67% (male 194,464/female 202,386) (2020 est.)<br>
 
 **Dependency ratios**<br>
-_total dependency ratio_: 58.2<br>
-_youth dependency ratio_: 52<br>
-_elderly dependency ratio_: 6.3<br>
-_potential support ratio_: 16 (2020 est.)<br>
+_total dependency ratio_: 57.1<br>
+_youth dependency ratio_: 51.2<br>
+_elderly dependency ratio_: 5.8<br>
+_potential support ratio_: 17.1 (2021 est.)<br>
 
 **Median age**<br>
 _total_: 23.5 years<br>
@@ -198,7 +198,7 @@ _unimproved: rural_: rural: 2.2% of population<br>
 _unimproved: total_: total: 1.3% of population (2020 est.)<br>
 
 **HIV/AIDS - adult prevalence rate**<br>
-(2020 est.) <.1%<br>
+NA<br>
 
 **Major infectious diseases**<br>
 <strong>note:</strong> widespread ongoing transmission of a respiratory illness caused by the novel coronavirus (COVID-19) is occurring throughout Jordan; as of 18 August 2022, Jordan has reported a total of 1,726,717 cases of COVID-19 or 16,923.39 cumulative cases of COVID-19 per 100,000 population with a total of 14,095 cumulative deaths or a rate of 138.14 cumulative deaths per 100,000 population; as of 7 August 2022, 43.21% of the population has received at least one dose of COVID-19 vaccine<br>
@@ -240,7 +240,7 @@ _total_: 11 years<br>
 _male_: 10 years<br>
 _female_: 11 years (2020)<br>
 
-**Unemployment, youth ages 15-24**<br>
+**Youth unemployment rate (ages 15-24)**<br>
 _total_: 37.3%<br>
 _male_: 34.8%<br>
 _female_: 49.4% (2019 est.)<br>
@@ -476,7 +476,7 @@ _services_: 78% (2013 est.)<br>
 18.61% (2018 est.)<br>
 <strong>note:</strong> official rate; unofficial rate is approximately 30%<br>
 
-**Unemployment, youth ages 15-24**<br>
+**Youth unemployment rate (ages 15-24)**<br>
 _total_: 37.3%<br>
 _male_: 34.8%<br>
 _female_: 49.4% (2019 est.)<br>

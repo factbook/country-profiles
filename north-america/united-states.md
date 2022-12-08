@@ -67,7 +67,7 @@ _forest_: 33.3% (2018 est.)<br>
 _other_: 22.2% (2018 est.)<br>
 
 **Irrigated land**<br>
-264,000 sq km (2012)<br>
+234,782 sq km (2017)<br>
 
 **Major lakes (area sq km)**<br>
 _fresh water lake(s)_: Michigan – 57,750 sq km; Superior* – 53,348 sq km; Huron* – 23,597 sq km; Erie* – 12,890 sq km; Ontario* – 9,220 sq km; Lake of the Woods – 4,350 sq km; Iliamna – 2,590 sq km; Okeechobee – 1,810 sq km; Belcharof – 1,190 sq km; Red – 1,170 sq km; Saint Clair – 1,113 sq km; Champlain – 1,100 sq km<br>note - Great Lakes* area shown as US waters<br>
@@ -120,10 +120,10 @@ _55-64 years_: 12.86% (male 20,690,736/female 22,091,808)<br>
 _65 years and over_: 16.85% (male 25,014,147/female 31,037,419) (2020 est.)<br>
 
 **Dependency ratios**<br>
-_total dependency ratio_: 53.9<br>
-_youth dependency ratio_: 28.3<br>
+_total dependency ratio_: 53.7<br>
+_youth dependency ratio_: 28<br>
 _elderly dependency ratio_: 25.6<br>
-_potential support ratio_: 3.9 (2020 est.)<br>
+_potential support ratio_: 3.9 (2021 est.)<br>
 
 **Median age**<br>
 _total_: 38.5 years<br>
@@ -242,7 +242,7 @@ _total_: 16 years<br>
 _male_: 16 years<br>
 _female_: 17 years (2019)<br>
 
-**Unemployment, youth ages 15-24**<br>
+**Youth unemployment rate (ages 15-24)**<br>
 _total_: 14.9%<br>
 _male_: 15%<br>
 _female_: 14.8% (2020 est.)<br>
@@ -480,7 +480,7 @@ _other services_: 17.6% (2009)<br>
 3.89% (2018 est.)<br>
 4.4% (2017 est.)<br>
 
-**Unemployment, youth ages 15-24**<br>
+**Youth unemployment rate (ages 15-24)**<br>
 _total_: 14.9%<br>
 _male_: 15%<br>
 _female_: 14.8% (2020 est.)<br>
@@ -709,6 +709,9 @@ _LNG terminal(s) (import)_: Cove Point (MD), Elba Island (GA), Everett (MA), Fre
 _river port(s)_: Baton Rouge, Plaquemines, New Orleans (Mississippi River)<br>
 _cargo ports_: Baton Rouge, Corpus Christi, Hampton Roads, Houston, Long Beach, Los Angeles, New Orleans, New York, Plaquemines (LA), Tampa, Texas City<br>
 _cruise departure ports (passengers)_: Miami, Port Everglades, Port Canaveral, Seattle, Long Beach<br>
+
+**Transportation - note**<br>
+the US operates one PC 1 or 2 class heavy icebreaker, two PC 3 or 4 class medium icebreakers, and two PC 5 or 6 class light icebreakers; the heavy and medium icebreakers carry out various polar missions including opening passage for the annual resupply of McMurdo Station in Antarctica<br><strong>note </strong>- PC 1 - Year-round operation in all polar waters (ice thickness &gt;3 m); PC 2 - Year-round operation in moderate multi-year ice conditions (ice thickness up to 3 m); PC 3 - Year-round operation in second-year ice which may include multi-year ice inclusions (ice thickness up to 2.5 m); PC 4 - Year-round operation in thick first-year ice which may include old ice inclusions (ice thickness up to 120 cm); PC 5 - Year-round operation in medium first-year ice which may include old ice inclusions (ice thickness up to 70-120 cm); PC 6 - Summer/autumn operation in medium first-year ice which may include old ice inclusions (ice thickness up to 30-70 cm)<br>
 
 ## Military and Security
 

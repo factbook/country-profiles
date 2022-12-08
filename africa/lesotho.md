@@ -59,7 +59,7 @@ _forest_: 1.5% (2018 est.)<br>
 _other_: 22.4% (2018 est.)<br>
 
 **Irrigated land**<br>
-30 sq km (2012)<br>
+12 sq km (2013)<br>
 
 **Major rivers (by length in km)**<br>
 Orange river source (shared with South Africa and Namibia [m]) - 2,092 km<br><strong>note</strong> – [s] after country name indicates river source; [m] after country name indicates river mouth<br>
@@ -105,10 +105,10 @@ _55-64 years_: 4.98% (male 52,441/female 45,726)<br>
 _65 years and over_: 5.6% (male 57,030/female 53,275) (2020 est.)<br>
 
 **Dependency ratios**<br>
-_total dependency ratio_: 59.2<br>
-_youth dependency ratio_: 51.3<br>
-_elderly dependency ratio_: 7.9<br>
-_potential support ratio_: 12.7 (2020 est.)<br>
+_total dependency ratio_: 62.1<br>
+_youth dependency ratio_: 55.3<br>
+_elderly dependency ratio_: 6.8<br>
+_potential support ratio_: 14.7 (2021 est.)<br>
 
 **Median age**<br>
 _total_: 24.7 years<br>
@@ -192,7 +192,7 @@ _unimproved: rural_: rural: 37.6% of population<br>
 _unimproved: total_: total: 28.6% of population (2020 est.)<br>
 
 **HIV/AIDS - adult prevalence rate**<br>
-21.1% (2020 est.)<br>
+20.9% (2021 est.)<br>
 
 **Major infectious diseases**<br>
 _degree of risk_: intermediate (2020)<br>
@@ -235,7 +235,7 @@ _total_: 12 years<br>
 _male_: 12 years<br>
 _female_: 13 years (2017)<br>
 
-**Unemployment, youth ages 15-24**<br>
+**Youth unemployment rate (ages 15-24)**<br>
 _total_: 35.5%<br>
 _male_: 31.2% NA<br>
 _female_: 41.5% (2019 est.) NA<br>
@@ -466,7 +466,7 @@ _industry and services_: 14% (2002 est.)<br>
 28.1% (2014 est.)<br>
 25% (2008 est.)<br>
 
-**Unemployment, youth ages 15-24**<br>
+**Youth unemployment rate (ages 15-24)**<br>
 _total_: 35.5%<br>
 _male_: 31.2% NA<br>
 _female_: 41.5% (2019 est.) NA<br>

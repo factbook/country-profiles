@@ -58,7 +58,7 @@ _forest_: 3.3% (2018 est.)<br>
 _other_: 95.7% (2018 est.)<br>
 
 **Irrigated land**<br>
-0 sq km (2012)<br>
+0 sq km (2022)<br>
 
 **Population distribution**<br>
 most of the urbanization is along the southern coast, with relatively dense population clusters found in the central areas<br>
@@ -100,10 +100,10 @@ _55-64 years_: 10.58% (male 328,024/female 328,808)<br>
 _65 years and over_: 10.89% (male 310,123/female 366,259) (2020 est.)<br>
 
 **Dependency ratios**<br>
-_total dependency ratio_: 34.5<br>
-_youth dependency ratio_: 16.5<br>
-_elderly dependency ratio_: 18<br>
-_potential support ratio_: 5.6 (2020 est.)<br>
+_total dependency ratio_: 35.4<br>
+_youth dependency ratio_: 16.2<br>
+_elderly dependency ratio_: 19.1<br>
+_potential support ratio_: 5.2 (2021 est.)<br>
 
 **Median age**<br>
 _total_: 35.6 years<br>
@@ -190,7 +190,7 @@ _unimproved: rural_: rural: NA<br>
 _unimproved: total_: total: 0% of population (2020 est.)<br>
 
 **HIV/AIDS - adult prevalence rate**<br>
-0.2% (2020 est.)<br>
+0.2% (2021 est.)<br>
 
 **Obesity - adult prevalence rate**<br>
 6.1% (2016)<br>
@@ -224,7 +224,7 @@ _total_: 17 years<br>
 _male_: 16 years<br>
 _female_: 17 years (2019)<br>
 
-**Unemployment, youth ages 15-24**<br>
+**Youth unemployment rate (ages 15-24)**<br>
 _total_: 10.6%<br>
 _male_: 8.1%<br>
 _female_: 13.5% (2020 est.)<br>
@@ -451,7 +451,7 @@ _services_: 73.7% (2017)<br>
 2.25% (2019 est.)<br>
 2.1% (2018 est.)<br>
 
-**Unemployment, youth ages 15-24**<br>
+**Youth unemployment rate (ages 15-24)**<br>
 _total_: 10.6%<br>
 _male_: 8.1%<br>
 _female_: 13.5% (2020 est.)<br>

@@ -62,7 +62,7 @@ _forest_: 22.4% (2018 est.)<br>
 _other_: 33.5% (2018 est.)<br>
 
 **Irrigated land**<br>
-230 sq km (2012)<br>
+57 sq km (2013)<br>
 
 **Major watersheds (area sq km)**<br>
 Atlantic Ocean drainage: Seine (78,919 sq km), Rhine-Maas (198,735 sq km)<br>
@@ -103,10 +103,10 @@ _55-64 years_: 13.14% (male 764,902/female 775,454)<br>
 _65 years and over_: 19.21% (male 988,148/female 1,263,109) (2020 est.)<br>
 
 **Dependency ratios**<br>
-_total dependency ratio_: 57<br>
-_youth dependency ratio_: 26.7<br>
-_elderly dependency ratio_: 30.2<br>
-_potential support ratio_: 3.3 (2020 est.)<br>
+_total dependency ratio_: 56.5<br>
+_youth dependency ratio_: 26.1<br>
+_elderly dependency ratio_: 30.4<br>
+_potential support ratio_: 3.3 (2021 est.)<br>
 
 **Median age**<br>
 _total_: 41.6 years<br>
@@ -225,7 +225,7 @@ _total_: 20 years<br>
 _male_: 19 years<br>
 _female_: 21 years (2019)<br>
 
-**Unemployment, youth ages 15-24**<br>
+**Youth unemployment rate (ages 15-24)**<br>
 _total_: 15.3%<br>
 _male_: 15.5%<br>
 _female_: 15.1% (2020 est.)<br>
@@ -453,7 +453,7 @@ _services_: 80.1% (2013 est.)<br>
 5.36% (2019 est.)<br>
 5.96% (2018 est.)<br>
 
-**Unemployment, youth ages 15-24**<br>
+**Youth unemployment rate (ages 15-24)**<br>
 _total_: 15.3%<br>
 _male_: 15.5%<br>
 _female_: 15.1% (2020 est.)<br>
@@ -716,7 +716,7 @@ Islamic Revolutionary Guard Corps/Qods Force; Islamic State of Iraq and ash-Sham
 <p>none identified</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 18,493 (Syria), 5,094 (Iraq) (2020); 60,241 (Ukraine) (as of 22 November 2022)<br>
+_refugees (country of origin)_: 18,493 (Syria), 5,094 (Iraq) (2020); 62,181 (Ukraine) (as of 29 November 2022)<br>
 _stateless persons_: 1,159 (mid-year 2021)<br>
 
 **Illicit drugs**<br>

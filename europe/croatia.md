@@ -60,7 +60,7 @@ _forest_: 34.4% (2018 est.)<br>
 _other_: 41.9% (2018 est.)<br>
 
 **Irrigated land**<br>
-240 sq km (2012)<br>
+171 sq km (2020)<br>
 
 **Major rivers (by length in km)**<br>
 Danube (shared with Germany [s], Austria, Slovakia, Czechia, Hungary, Serbia, Bulgaria, Ukraine, Moldova, and Romania [m]) - 2,888 km<br><strong>note</strong> – [s] after country name indicates river source; [m] after country name indicates river mouth<br>
@@ -105,10 +105,10 @@ _55-64 years_: 14.24% (male 290,982/female 310,969)<br>
 _65 years and over_: 21.06% (male 364,076/female 526,427) (2020 est.)<br>
 
 **Dependency ratios**<br>
-_total dependency ratio_: 55.7<br>
-_youth dependency ratio_: 22.6<br>
-_elderly dependency ratio_: 33.1<br>
-_potential support ratio_: 3 (2020 est.)<br>
+_total dependency ratio_: 56.5<br>
+_youth dependency ratio_: 22.1<br>
+_elderly dependency ratio_: 34.4<br>
+_potential support ratio_: 2.9 (2021 est.)<br>
 
 **Median age**<br>
 _total_: 43.9 years<br>
@@ -194,7 +194,7 @@ _unimproved: rural_: rural: 1.6% of population<br>
 _unimproved: total_: total: 1% of population (2020 est.)<br>
 
 **HIV/AIDS - adult prevalence rate**<br>
-(2020 est.) <.1%<br>
+(2021 est.) <0.1%<br>
 
 **Major infectious diseases**<br>
 _degree of risk_: intermediate (2020)<br>
@@ -232,7 +232,7 @@ _total_: 15 years<br>
 _male_: 14 years<br>
 _female_: 16 years (2019)<br>
 
-**Unemployment, youth ages 15-24**<br>
+**Youth unemployment rate (ages 15-24)**<br>
 _total_: 21.1%<br>
 _male_: 18.7%<br>
 _female_: 25% (2020 est.)<br>
@@ -470,7 +470,7 @@ _services_: 70.8% (2017 est.)<br>
 8.07% (2019 est.)<br>
 9.86% (2018 est.)<br>
 
-**Unemployment, youth ages 15-24**<br>
+**Youth unemployment rate (ages 15-24)**<br>
 _total_: 21.1%<br>
 _male_: 18.7%<br>
 _female_: 25% (2020 est.)<br>
@@ -726,7 +726,7 @@ Croatia joined NATO in 2009<br>
 <p>dispute remains with Bosnia and Herzegovina over several small sections of the boundary related to maritime access that hinders ratification of the 1999 border agreement; since the breakup of Yugoslavia in the early 1990s, Croatia and Slovenia have each claimed sovereignty over Piranski Bay and four villages, and Slovenia has objected to Croatia's claim of an exclusive economic zone in the Adriatic Sea; in 2009, however Croatia and Slovenia signed a binding international arbitration agreement to define their disputed land and maritime borders, which led to Slovenia lifting its objections to Croatia joining the EU; Slovenia continues to impose a hard border Schengen regime with Croatia, which joined the EU in 2013 but has not yet fulfilled Schengen requirements</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 19,134 (Ukraine) (as of 22 November 2022)<br>
+_refugees (country of origin)_: 19,259 (Ukraine) (as of 29 November 2022)<br>
 _stateless persons_: 2,910 (mid-year 2021)<br>
 <strong>note: </strong>771,932 estimated refugee and migrant arrivals (January 2015-October 2022)<br>
 

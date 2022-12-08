@@ -62,7 +62,7 @@ _forest_: 10.8% (2018 est.)<br>
 _other_: 34.1% (2018 est.)<br>
 
 **Irrigated land**<br>
-4,860 sq km (2012)<br>
+2,969 sq km (2019)<br>
 
 **Major rivers (by length in km)**<br>
 Rhine river mouth (shared with Switzerland [s], Germany, and France) - 1,233 km<br><strong>note</strong> – [s] after country name indicates river source; [m] after country name indicates river mouth<br>
@@ -106,10 +106,10 @@ _55-64 years_: 13.69% (male 1,177,657/female 1,188,613)<br>
 _65 years and over_: 19.82% (male 1,558,241/female 1,866,380) (2020 est.)<br>
 
 **Dependency ratios**<br>
-_total dependency ratio_: 55.6<br>
-_youth dependency ratio_: 24.4<br>
-_elderly dependency ratio_: 31.2<br>
-_potential support ratio_: 3.2 (2020 est.)<br>
+_total dependency ratio_: 54.9<br>
+_youth dependency ratio_: 24<br>
+_elderly dependency ratio_: 30.9<br>
+_potential support ratio_: 3.2 (2021 est.)<br>
 
 **Median age**<br>
 _total_: 42.8 years<br>
@@ -196,7 +196,7 @@ _unimproved: rural_: rural: 0% of population<br>
 _unimproved: total_: total: 0% of population (2020 est.)<br>
 
 **HIV/AIDS - adult prevalence rate**<br>
-0.2% (2020 est.)<br>
+0.1% (2021 est.)<br>
 
 **Obesity - adult prevalence rate**<br>
 20.4% (2016)<br>
@@ -229,7 +229,7 @@ _total_: 19 years<br>
 _male_: 18 years<br>
 _female_: 19 years (2018)<br>
 
-**Unemployment, youth ages 15-24**<br>
+**Youth unemployment rate (ages 15-24)**<br>
 _total_: 9.1%<br>
 _male_: 9.2%<br>
 _female_: 9% (2020 est.)<br>
@@ -462,7 +462,7 @@ _services_: 81.6% (2015 est.)<br>
 3.41% (2019 est.)<br>
 3.84% (2018 est.)<br>
 
-**Unemployment, youth ages 15-24**<br>
+**Youth unemployment rate (ages 15-24)**<br>
 _total_: 9.1%<br>
 _male_: 9.2%<br>
 _female_: 9% (2020 est.)<br>

@@ -60,7 +60,7 @@ _forest_: 30.6% (2018 est.)<br>
 _other_: 21.2% (2018 est.)<br>
 
 **Irrigated land**<br>
-970 sq km (2012)<br>
+760 sq km (2013)<br>
 
 **Major lakes (area sq km)**<br>
 _salt water lake(s)_: Zalew Szczecinski/Stettiner Haff (shared with Germany) - 900 sq km<br>
@@ -109,9 +109,9 @@ _65 years and over_: 18.72% (male 2,867,315/female 4,299,341) (2020 est.)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 51.4<br>
-_youth dependency ratio_: 23<br>
-_elderly dependency ratio_: 28.4<br>
-_potential support ratio_: 3.5 (2020 est.)<br>
+_youth dependency ratio_: 23.4<br>
+_elderly dependency ratio_: 28.6<br>
+_potential support ratio_: 3.5 (2021 est.)<br>
 
 **Median age**<br>
 _total_: 41.9 years<br>
@@ -235,7 +235,7 @@ _total_: 16 years<br>
 _male_: 15 years<br>
 _female_: 17 years (2019)<br>
 
-**Unemployment, youth ages 15-24**<br>
+**Youth unemployment rate (ages 15-24)**<br>
 _total_: 10.8%<br>
 _male_: 10.3%<br>
 _female_: 11.6% (2020 est.)<br>
@@ -476,7 +476,7 @@ _services_: 57.6% (2015)<br>
 5.43% (2019 est.)<br>
 6.08% (2018 est.)<br>
 
-**Unemployment, youth ages 15-24**<br>
+**Youth unemployment rate (ages 15-24)**<br>
 _total_: 10.8%<br>
 _male_: 10.3%<br>
 _female_: 11.6% (2020 est.)<br>
@@ -745,7 +745,7 @@ Islamic State of Iraq and ash-Sham (ISIS)<br>
 <p><em>Poland-Belarus-Ukraine</em>: as a member state that forms part of the EU's external border, Poland has implemented the strict Schengen border rules to restrict illegal immigration and trade along its eastern borders with Belarus and Ukraine</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 9,870 (Russia) (2019); 1,507,893 (Ukraine) (as of 22 November 2022)<br>
+_refugees (country of origin)_: 9,870 (Russia) (2019); 1,521,085 (Ukraine) (as of 29 November 2022)<br>
 _stateless persons_: 1,389 (mid-year 2021)<br>
 
 **Illicit drugs**<br>

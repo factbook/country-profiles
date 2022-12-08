@@ -59,7 +59,7 @@ _forest_: 9.1% (2018 est.)<br>
 _other_: 31.2% (2018 est.)<br>
 
 **Irrigated land**<br>
-2,740 sq km (2012)<br>
+1,554 sq km (2020)<br>
 
 **Major lakes (area sq km)**<br>
 _fresh water lake(s)_: Lake Sevan - 1,360 sq km<br>
@@ -103,10 +103,10 @@ _55-64 years_: 14.08% (male 195,754/female 229,580)<br>
 _65 years and over_: 12.6% (male 154,117/female 226,607) (2020 est.)<br>
 
 **Dependency ratios**<br>
-_total dependency ratio_: 48.4<br>
-_youth dependency ratio_: 30.9<br>
-_elderly dependency ratio_: 17.5<br>
-_potential support ratio_: 5.7 (2020 est.)<br>
+_total dependency ratio_: 49.6<br>
+_youth dependency ratio_: 30.6<br>
+_elderly dependency ratio_: 19.1<br>
+_potential support ratio_: 5.2 (2021 est.)<br>
 
 **Median age**<br>
 _total_: 36.6 years<br>
@@ -192,7 +192,7 @@ _unimproved: rural_: rural: 15.4% of population<br>
 _unimproved: total_: total: 5.6% of population (2020 est.)<br>
 
 **HIV/AIDS - adult prevalence rate**<br>
-0.2% (2020 est.)<br>
+NA<br>
 
 **Obesity - adult prevalence rate**<br>
 20.2% (2016)<br>
@@ -231,7 +231,7 @@ _total_: 13 years<br>
 _male_: 13 years<br>
 _female_: 14 years (2020)<br>
 
-**Unemployment, youth ages 15-24**<br>
+**Youth unemployment rate (ages 15-24)**<br>
 _total_: 32.6%<br>
 _male_: 31.2%<br>
 _female_: 34.4% (2019 est.)<br>
@@ -456,7 +456,7 @@ _services_: 46.7% (2013 est.)<br>
 18.9% (2017 est.)<br>
 18.8% (2016 est.)<br>
 
-**Unemployment, youth ages 15-24**<br>
+**Youth unemployment rate (ages 15-24)**<br>
 _total_: 32.6%<br>
 _male_: 31.2%<br>
 _female_: 34.4% (2019 est.)<br>

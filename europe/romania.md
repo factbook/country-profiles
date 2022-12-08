@@ -62,7 +62,7 @@ _forest_: 28.7% (2018 est.)<br>
 _other_: 10.6% (2018 est.)<br>
 
 **Irrigated land**<br>
-31,490 sq km (2012)<br>
+4,730 sq km (2020)<br>
 
 **Major rivers (by length in km)**<br>
 Danube river mouth (shared with Germany [s], Austria, Slovakia, Czechia, Hungary, Croatia, Serbia, Bulgaria, Moldova, and Ukraine) - 2,888 km<br><strong>note</strong> – [s] after country name indicates river source; [m] after country name indicates river mouth<br>
@@ -107,10 +107,10 @@ _55-64 years_: 11.73% (male 1,176,814/female 1,322,048)<br>
 _65 years and over_: 17.58% (male 1,516,472/female 2,228,555) (2020 est.)<br>
 
 **Dependency ratios**<br>
-_total dependency ratio_: 53.3<br>
-_youth dependency ratio_: 23.8<br>
-_elderly dependency ratio_: 29.5<br>
-_potential support ratio_: 3.4 (2020 est.)<br>
+_total dependency ratio_: 53.7<br>
+_youth dependency ratio_: 24.6<br>
+_elderly dependency ratio_: 29.1<br>
+_potential support ratio_: 3.4 (2021 est.)<br>
 
 **Median age**<br>
 _total_: 42.5 years<br>
@@ -196,7 +196,7 @@ _unimproved: rural_: rural: 24% of population<br>
 _unimproved: total_: total: 12.7% of population (2020 est.)<br>
 
 **HIV/AIDS - adult prevalence rate**<br>
-0.1% (2020 est.)<br>
+0.2% (2021 est.)<br>
 
 **Obesity - adult prevalence rate**<br>
 22.5% (2016)<br>
@@ -230,7 +230,7 @@ _total_: 14 years<br>
 _male_: 14 years<br>
 _female_: 15 years (2019)<br>
 
-**Unemployment, youth ages 15-24**<br>
+**Youth unemployment rate (ages 15-24)**<br>
 _total_: 17.3%<br>
 _male_: 17.9%<br>
 _female_: 16.5% (2020 est.)<br>
@@ -462,7 +462,7 @@ _services_: 42.8% (2014)<br>
 3.06% (2019 est.)<br>
 3.56% (2018 est.)<br>
 
-**Unemployment, youth ages 15-24**<br>
+**Youth unemployment rate (ages 15-24)**<br>
 _total_: 17.3%<br>
 _male_: 17.9%<br>
 _female_: 16.5% (2020 est.)<br>
@@ -722,9 +722,9 @@ Islamic State of Iraq and ash-Sham (ISIS)<br>
 <p><em>Romania-Bulgaria</em>: none identified</p> <p><em>Romania-Hungary</em>: none identified</p> <p><em>Romania-Moldova</em>: none identified</p> <p><em>Romania-Serbia</em>: none identified</p> <p><em>Romania-Ukraine</em>: the International Court of Justice ruled largely in favor of Romania in its dispute submitted in 2004 over Ukrainian-administered Zmiyinyy/Serpilor (Snake) Island and Black Sea maritime boundary delimitation; in 2007, Romania opposed Ukraine's construction of a navigation canal from the Danube border through Ukraine to the Black Sea, arguing that it runs through a unique ecological area, the Danube Delta</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 92,076 (Ukraine) (as of 20 November 2022)<br>
+_refugees (country of origin)_: 94,526 (Ukraine) (as of 27 November 2022)<br>
 _stateless persons_: 314 (mid-year 2021)<br>
-<strong>note:</strong> 11,847 estimated refugee and migrant arrivals (January 2015-November 2022)<br>
+<strong>note:</strong> 11,909 estimated refugee and migrant arrivals (January 2015-November 2022)<br>
 
 **Illicit drugs**<br>
 <p>a source country for cannabis</p><br>

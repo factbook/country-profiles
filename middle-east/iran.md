@@ -62,7 +62,7 @@ _forest_: 6.8% (2018 est.)<br>
 _other_: 63.1% (2018 est.)<br>
 
 **Irrigated land**<br>
-95,530 sq km (2012)<br>
+79,721 sq km (2020)<br>
 
 **Major lakes (area sq km)**<br>
 _salt water lake(s)_: Caspian Sea (shared with Russia, Azerbaijan, Turkmenistan, and Kazakhstan) - 374,000 sq km; Lake Urmia - 5,200 sq km; Lake Namak - 750 sq km<br>
@@ -109,10 +109,10 @@ _55-64 years_: 7.72% (male 3,220,074/female 3,337,420)<br>
 _65 years and over_: 5.87% (male 2,316,677/female 2,670,254) (2020 est.)<br>
 
 **Dependency ratios**<br>
-_total dependency ratio_: 45.6<br>
-_youth dependency ratio_: 36<br>
-_elderly dependency ratio_: 9.6<br>
-_potential support ratio_: 14.2 (2020 est.)<br>
+_total dependency ratio_: 45.3<br>
+_youth dependency ratio_: 34.6<br>
+_elderly dependency ratio_: 10.7<br>
+_potential support ratio_: 9.3 (2021 est.)<br>
 
 **Median age**<br>
 _total_: 31.7 years<br>
@@ -195,7 +195,7 @@ _unimproved: rural_: rural: 0% of population<br>
 _unimproved: total_: total: 0% of population (2020 est.)<br>
 
 **HIV/AIDS - adult prevalence rate**<br>
-(2020 est.) <.1%<br>
+(2021 est.) <0.1%<br>
 
 **Major infectious diseases**<br>
 _degree of risk_: intermediate (2020)<br>
@@ -235,7 +235,7 @@ _total_: 15 years<br>
 _male_: 15 years<br>
 _female_: 15 years (2017)<br>
 
-**Unemployment, youth ages 15-24**<br>
+**Youth unemployment rate (ages 15-24)**<br>
 _total_: 23.7%<br>
 _male_: 21.2%<br>
 _female_: 36% (2020 est.)<br>
@@ -462,7 +462,7 @@ _services_: 48.6% (2013 est.)<br>
 12.4% (2016 est.)<br>
 <strong>note:</strong> data are Iranian Government numbers<br>
 
-**Unemployment, youth ages 15-24**<br>
+**Youth unemployment rate (ages 15-24)**<br>
 _total_: 23.7%<br>
 _male_: 21.2%<br>
 _female_: 36% (2020 est.)<br>

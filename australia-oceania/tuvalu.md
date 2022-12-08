@@ -60,7 +60,7 @@ _forest_: 33.3% (2018 est.)<br>
 _other_: 6.7% (2018 est.)<br>
 
 **Irrigated land**<br>
-0 sq km (2012)<br>
+0 sq km (2022)<br>
 
 **Population distribution**<br>
 over half of the population resides on the atoll of Funafuti<br>
@@ -97,10 +97,10 @@ _55-64 years_: 9.25% (male 451/female 617)<br>
 _65 years and over_: 7.21% (male 307/female 525) (2022 est.)<br>
 
 **Dependency ratios**<br>
-_total dependency ratio_: NA<br>
-_youth dependency ratio_: NA<br>
-_elderly dependency ratio_: NA<br>
-_potential support ratio_: NA<br>
+_total dependency ratio_: 60.9<br>
+_youth dependency ratio_: 50.9<br>
+_elderly dependency ratio_: 10<br>
+_potential support ratio_: 10 (2021)<br>
 
 **Median age**<br>
 _total_: 26.6 years<br>
@@ -152,7 +152,7 @@ _female_: 70.92 years (2022 est.)<br>
 2.83 children born/woman (2022 est.)<br>
 
 **Contraceptive prevalence rate**<br>
-NA<br>
+23.7% (2019/20)<br>
 
 **Drinking water source**<br>
 _improved: urban_: urban: 100% of population<br>
@@ -177,7 +177,7 @@ _unimproved: rural_: rural: 9% of population<br>
 _unimproved: total_: total: 8.5% of population (2017 est.)<br>
 
 **HIV/AIDS - adult prevalence rate**<br>
-NA<br>
+5.2% (2021)<br>
 
 **Obesity - adult prevalence rate**<br>
 51.6% (2016)<br>
@@ -205,7 +205,7 @@ _total population_: NA<br>
 _male_: NA<br>
 _female_: NA<br>
 
-**Unemployment, youth ages 15-24**<br>
+**Youth unemployment rate (ages 15-24)**<br>
 _total_: 20.6%<br>
 _male_: 9.8%<br>
 _female_: 45.9% (2016)<br>
@@ -400,7 +400,7 @@ fishing<br>
 **Unemployment rate**<br>
 <p>NA</p><br>
 
-**Unemployment, youth ages 15-24**<br>
+**Youth unemployment rate (ages 15-24)**<br>
 _total_: 20.6%<br>
 _male_: 9.8%<br>
 _female_: 45.9% (2016)<br>

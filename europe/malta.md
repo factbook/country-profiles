@@ -60,7 +60,7 @@ _forest_: 0.9% (2018 est.)<br>
 _other_: 66.8% (2018 est.)<br>
 
 **Irrigated land**<br>
-35 sq km (2012)<br>
+35 sq km (2020)<br>
 
 **Population distribution**<br>
 most of the population lives on the eastern half of Malta, the largest of the three inhabited islands<br>
@@ -97,10 +97,10 @@ _55-64 years_: 12.88% (male 29,533/female 29,353)<br>
 _65 years and over_: 21.3% (male 44,644/female 52,775) (2020 est.)<br>
 
 **Dependency ratios**<br>
-_total dependency ratio_: 55.5<br>
-_youth dependency ratio_: 22.4<br>
-_elderly dependency ratio_: 33.2<br>
-_potential support ratio_: 3 (2020 est.)<br>
+_total dependency ratio_: 47.1<br>
+_youth dependency ratio_: 19.3<br>
+_elderly dependency ratio_: 27.7<br>
+_potential support ratio_: 3.6 (2021 est.)<br>
 
 **Median age**<br>
 _total_: 42.3 years<br>
@@ -187,7 +187,7 @@ _unimproved: rural_: rural: 0% of population<br>
 _unimproved: total_: total: 0% of population (2020 est.)<br>
 
 **HIV/AIDS - adult prevalence rate**<br>
-0.1% (2016 est.)<br>
+NA<br>
 
 **Obesity - adult prevalence rate**<br>
 28.9% (2016)<br>
@@ -221,7 +221,7 @@ _total_: 17 years<br>
 _male_: 16 years<br>
 _female_: 17 years (2019)<br>
 
-**Unemployment, youth ages 15-24**<br>
+**Youth unemployment rate (ages 15-24)**<br>
 _total_: 10.7%<br>
 _male_: 13.1%<br>
 _female_: 8% (2020 est.)<br>
@@ -443,7 +443,7 @@ _services_: 77.7% (2016 est.)<br>
 0.78% (2019 est.)<br>
 0.89% (2018 est.)<br>
 
-**Unemployment, youth ages 15-24**<br>
+**Youth unemployment rate (ages 15-24)**<br>
 _total_: 10.7%<br>
 _male_: 13.1%<br>
 _female_: 8% (2020 est.)<br>

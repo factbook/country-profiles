@@ -7,6 +7,9 @@ _World / World_
 **Background**<br>
 Globally, the 20th century was marked by: (a) two devastating World Wars; (b) the Great Depression of the 1930s; (c) the end of vast colonial empires; (d) rapid advances in science and technology, from the first airplane flight at Kitty Hawk, North Carolina (US) to the landing on the moon; (e) the Cold War between the Western alliance and the Warsaw Pact nations; (f) a sharp rise in living standards in North America, Europe, and Japan; (g) increased concerns about environmental degradation including deforestation, energy and water shortages, declining biological diversity, and air pollution; (h) the onset of the AIDS epidemic; and (i) the ultimate emergence of the US as the only world superpower. The planet's population continues to explode: from 1 billion in 1820 to 2 billion in 1930, 3 billion in 1960, 4 billion in 1974, 5 billion in 1987, 6 billion in 1999, 7 billion in 2012, and 8 billion in 2022. For the 21st century, the continued exponential growth in science and technology raises both hopes (e.g., advances in medicine and agriculture) and fears (e.g., development of even more lethal weapons of war).<br>
 
+**World Cup 2022**<br>
+Special World Cup One-Page Country Summaries of the eight quarterfinalists of this quadrennial football (soccer) tournament.<br>
+
 ## Geography
 
 **Geographic overview**<br>
@@ -101,10 +104,10 @@ _55-64 years_: 9.23% (male 351,094,945/female 366,240,730)<br>
 _65 years and over_: 9.69% male 337,244,947/female 415,884,753) (2021 est.)<br>
 
 **Dependency ratios**<br>
-_total dependency ratio_: 53.3<br>
-_youth dependency ratio_: 39<br>
-_elderly dependency ratio_: 14.3<br>
-_potential support ratio_: 7 (2020 est.)<br>
+_total dependency ratio_: 54.1<br>
+_youth dependency ratio_: 39.3<br>
+_elderly dependency ratio_: 14.8<br>
+_potential support ratio_: 7 (2021 est.)<br>
 
 **Median age**<br>
 _total_: 31 years<br>
@@ -185,7 +188,7 @@ _unimproved: rural_: rural: 49.5% of population<br>
 _unimproved: total_: total: 32.3% of population (2015 est.)<br>
 
 **HIV/AIDS - adult prevalence rate**<br>
-0.7% (2020 est.)<br>
+0.7% (2021 est.)<br>
 
 **Major infectious diseases**<br>
 <strong>note:</strong> widespread ongoing transmission of a respiratory illness caused by the novel coronavirus (COVID-19) is occurring globally; older adults and people of any age with serious chronic medical conditions are at increased risk for severe disease; some health care systems are becoming overwhelmed and there may be limited access to adequate medical care in affected areas; many countries are implementing travel restrictions and mandatory quarantines, closing borders, and prohibiting non-citizens from entry with little advance notice; US residents may have difficulty returning to the United States; as of 18 August 2022, 590,659,276 confirmed cases of COVID-19 and 6,440,163 deaths have been reported to the World Health Organization; as of 17 August 2022, 67.41% of the World population has received at least one dose of COVID-19 vaccine<br>

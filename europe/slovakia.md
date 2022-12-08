@@ -59,7 +59,7 @@ _forest_: 40.2% (2018 est.)<br>
 _other_: 19.7% (2018 est.)<br>
 
 **Irrigated land**<br>
-869 sq km (2012)<br>
+211 sq km (2015)<br>
 
 **Major rivers (by length in km)**<br>
 Danube (shared with Germany [s], Austria, Hungary, Croatia, Serbia, Bulgaria, Ukraine, Moldova, and Romania [m]) - 2,888 km<br><strong>note</strong> – [s] after country name indicates river source; [m] after country name indicates river mouth<br>
@@ -104,10 +104,10 @@ _55-64 years_: 13.15% (male 342,124/female 373,452)<br>
 _65 years and over_: 17.05% (male 366,267/female 561,120) (2020 est.)<br>
 
 **Dependency ratios**<br>
-_total dependency ratio_: 47.6<br>
-_youth dependency ratio_: 23<br>
-_elderly dependency ratio_: 24.6<br>
-_potential support ratio_: 4.1 (2020 est.)<br>
+_total dependency ratio_: 49.5<br>
+_youth dependency ratio_: 23.7<br>
+_elderly dependency ratio_: 25.8<br>
+_potential support ratio_: 3.9 (2021 est.)<br>
 
 **Median age**<br>
 _total_: 41.8 years<br>
@@ -193,7 +193,7 @@ _unimproved: rural_: rural: 0% of population<br>
 _unimproved: total_: total: 0% of population (2020 est.)<br>
 
 **HIV/AIDS - adult prevalence rate**<br>
-(2018 est.) <.1%<br>
+(2021 est.) <0.1%<br>
 
 **Obesity - adult prevalence rate**<br>
 20.5% (2016)<br>
@@ -226,7 +226,7 @@ _total_: 15 years<br>
 _male_: 14 years<br>
 _female_: 15 years (2019)<br>
 
-**Unemployment, youth ages 15-24**<br>
+**Youth unemployment rate (ages 15-24)**<br>
 _total_: 19.4%<br>
 _male_: 18.3%<br>
 _female_: 21.2% (2020 est.)<br>
@@ -457,7 +457,7 @@ _services_: 73.4% (2015)<br>
 5% (2019 est.)<br>
 5.42% (2018 est.)<br>
 
-**Unemployment, youth ages 15-24**<br>
+**Youth unemployment rate (ages 15-24)**<br>
 _total_: 19.4%<br>
 _male_: 18.3%<br>
 _female_: 21.2% (2020 est.)<br>
@@ -705,7 +705,7 @@ Slovakia became a member of NATO in 2004<br><br>in 2022, Slovakia agreed to host
 <p><em>Slovakia-Austria</em>: none identified</p> <p><em>Slovakia-Czechia</em>: none identified</p> <p><em>Slovakia-Hungary</em>: initiated by the 1977 Budapest Treaty, Hungary and formerly Czechoslovakia agreed to a hydroelectric dam project on the Danube with dams to be constructed at Gabcikovo (Slovakia) and Nagymaros (Hungary) to prevent floods, improve river navigability, and to generate electricity; when Hungary suspended work on the project until its environmental impact could be assessed, Slovakia continued working on it and adopted a pared down strategy to divert the Danube so that all construction was within Czechoslovakian territory; Hungary terminated the project on environmental and economic grounds in 1989, and in 1992 both countries took the matter to the International Court of Justice (ICJ); the ICJ found largely in favor of then Slovakia, finding Hungary had breached their agreement; however, then Czechoslovakia should not have begun the alternative plan before the ICJ ruled on the case; in 2017, Hungary and Slovakia agreed to discontinue the ICJ proceedings</p> <p><em>Slovakia-Poland</em>: none identified</p> <p><em>Slovakia-Ukraine</em>: tens of thousands of Ukrainian refugees are crossing the border to Slovakia to escape the Russian invasion in their country</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 101,434 (Ukraine) (as of 22 November 2022)<br>
+_refugees (country of origin)_: 102,476 (Ukraine) (as of 29 November 2022)<br>
 _stateless persons_: 1,532 (mid-year 2021)<br>
 
 **Illicit drugs**<br>

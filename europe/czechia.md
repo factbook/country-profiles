@@ -59,7 +59,7 @@ _forest_: 34.4% (2018 est.)<br>
 _other_: 10.8% (2018 est.)<br>
 
 **Irrigated land**<br>
-320 sq km (2012)<br>
+220 sq km (2020)<br>
 
 **Major rivers (by length in km)**<br>
 Danube (shared with Germany [s], Austria, Slovakia, Hungary, Croatia, Serbia, Bulgaria, Ukraine, Moldova, and Romania [m]) - 2,888 km; Elbe river source (shared with Germany [m]) - 1,252 km<br><strong>note</strong> – [s] after country name indicates river source; [m] after country name indicates river mouth<br>
@@ -104,10 +104,10 @@ _55-64 years_: 12.12% (male 636,357/female 660,748)<br>
 _65 years and over_: 20.23% (male 907,255/female 1,257,515) (2020 est.)<br>
 
 **Dependency ratios**<br>
-_total dependency ratio_: 56<br>
-_youth dependency ratio_: 24.6<br>
-_elderly dependency ratio_: 31.4<br>
-_potential support ratio_: 3.2 (2020 est.)<br>
+_total dependency ratio_: 57.4<br>
+_youth dependency ratio_: 25.2<br>
+_elderly dependency ratio_: 32.2<br>
+_potential support ratio_: 3.1 (2021 est.)<br>
 
 **Median age**<br>
 _total_: 43.3 years<br>
@@ -227,7 +227,7 @@ _total_: 16 years<br>
 _male_: 16 years<br>
 _female_: 17 years (2019)<br>
 
-**Unemployment, youth ages 15-24**<br>
+**Youth unemployment rate (ages 15-24)**<br>
 _total_: 8%<br>
 _male_: 7.2%<br>
 _female_: 9.2% (2020 est.)<br>
@@ -458,7 +458,7 @@ _services_: 59.2% (2015)<br>
 2.8% (2019 est.)<br>
 3.18% (2018 est.)<br>
 
-**Unemployment, youth ages 15-24**<br>
+**Youth unemployment rate (ages 15-24)**<br>
 _total_: 8%<br>
 _male_: 7.2%<br>
 _female_: 9.2% (2020 est.)<br>
@@ -711,7 +711,7 @@ Czechia joined NATO in 1999; Czechia, Hungary, and Poland were invited to begin 
 <p>none</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 462,622 (Ukraine) (as of 22 November 2022)<br>
+_refugees (country of origin)_: 464,910 (Ukraine) (as of 29 November 2022)<br>
 _stateless persons_: 1,498 (mid-year 2021)<br>
 
 **Illicit drugs**<br>

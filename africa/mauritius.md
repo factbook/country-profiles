@@ -61,7 +61,7 @@ _forest_: 17.3% (2018 est.)<br>
 _other_: 38.9% (2018 est.)<br>
 
 **Irrigated land**<br>
-190 sq km (2012)<br>
+158 sq km (2020)<br>
 
 **Population distribution**<br>
 population density is one of the highest in the world; urban cluster are found throught the main island, with a greater density in and around Port Luis; population on Rodrigues Island is spread across the island with a slightly denser cluster on the north coast as shown in this population distribution map<br>
@@ -102,10 +102,10 @@ _55-64 years_: 12.31% (male 80,952/female 88,785)<br>
 _65 years and over_: 11.08% (male 63,230/female 89,638) (2020 est.)<br>
 
 **Dependency ratios**<br>
-_total dependency ratio_: 41.5<br>
-_youth dependency ratio_: 23.7<br>
-_elderly dependency ratio_: 17.7<br>
-_potential support ratio_: 5.6 (2020 est.)<br>
+_total dependency ratio_: 40.7<br>
+_youth dependency ratio_: 23.4<br>
+_elderly dependency ratio_: 17.3<br>
+_potential support ratio_: 5.8 (2021 est.)<br>
 
 **Median age**<br>
 _total_: 36.3 years<br>
@@ -188,7 +188,7 @@ _unimproved: rural_: rural: NA<br>
 _unimproved: total_: total: (2020 est.) NA<br>
 
 **HIV/AIDS - adult prevalence rate**<br>
-1.7% (2020 est.)<br>
+1.4% (2021 est.)<br>
 
 **Obesity - adult prevalence rate**<br>
 10.8% (2016)<br>
@@ -222,7 +222,7 @@ _total_: 15 years<br>
 _male_: 14 years<br>
 _female_: 16 years (2017)<br>
 
-**Unemployment, youth ages 15-24**<br>
+**Youth unemployment rate (ages 15-24)**<br>
 _total_: 21.8%<br>
 _male_: 16.8%<br>
 _female_: 28.4% (2019 est.)<br>
@@ -442,7 +442,7 @@ _services_: 62.2% (2014 est.)<br>
 6.65% (2019 est.)<br>
 6.84% (2018 est.)<br>
 
-**Unemployment, youth ages 15-24**<br>
+**Youth unemployment rate (ages 15-24)**<br>
 _total_: 21.8%<br>
 _male_: 16.8%<br>
 _female_: 28.4% (2019 est.)<br>

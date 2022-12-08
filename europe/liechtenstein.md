@@ -91,7 +91,7 @@ German 91.5% (official) (Alemannic is the main dialect), Italian 1.5%, Turkish 1
 _major-language sample(s)_: <br>Das World Factbook, die unverzichtbare Quelle für grundlegende Informationen. (German)<br><br>The World Factbook, the indispensable source for basic information.<br>
 
 **Religions**<br>
-Roman Catholic (official) 73.4%, Protestant Reformed 6.3%, Muslim 5.9%,&nbsp; Christian Orthodox 1.3%, Lutheran 1.2%, other Protestant 0.7%, other Christian 0.3%, other 0.8%, none 7%, unspecified 3.3% (2015 est.)<br>
+Roman Catholic (official) 73.4%, Protestant Reformed 6.3%, Muslim 5.9%, Christian Orthodox 1.3%, Lutheran 1.2%, other Protestant 0.7%, other Christian 0.3%, other 0.8%, none 7%, unspecified 3.3% (2015 est.)<br>
 
 **Age structure**<br>
 _0-14 years_: 15.2% (male 3,259/female 2,688)<br>
@@ -101,10 +101,10 @@ _55-64 years_: 14.41% (male 2,711/female 2,930)<br>
 _65 years and over_: 18.88% (male 3,403/female 3,986) (2020 est.)<br>
 
 **Dependency ratios**<br>
-_total dependency ratio_: NA<br>
-_youth dependency ratio_: NA<br>
-_elderly dependency ratio_: NA<br>
-_potential support ratio_: NA<br>
+_total dependency ratio_: 50.2<br>
+_youth dependency ratio_: 21.8<br>
+_elderly dependency ratio_: 28.3<br>
+_potential support ratio_: 3.5 (2021)<br>
 
 **Median age**<br>
 _total_: 43.7 years<br>
@@ -340,7 +340,7 @@ _lyrics/music_: Jakob Joseph JAUCH/Josef FROMMELT<br>
 ## Economy
 
 **Economic overview**<br>
-<p>Despite its small size and lack of natural resources, Liechtenstein has developed into a prosperous, highly industrialized, free-enterprise economy with a vital financial services sector and one of the highest per capita income levels in the world. The Liechtenstein economy is widely diversified with a large number of small and medium-sized businesses, particularly in the services sector. Low business taxes - a flat tax of 12.5% on income is applied - and easy incorporation rules have induced many holding companies to establish nominal offices in Liechtenstein, providing 30% of state revenues.</p> <p> </p> <p>The country participates in a customs union with Switzerland and uses the Swiss franc as its national currency. It imports more than 90% of its energy requirements. Liechtenstein has been a member of the European Economic Area (an organization serving as a bridge between the European Free Trade Association and the EU) since May 1995. The government is working to harmonize its economic policies with those of an integrated EU. As of 2015, 54% of Liechtenstein’s workforce consisted of cross-border commuters, largely from Austria, Germany, and Switzerland.</p> <p> </p> <p>Since 2008, Liechtenstein has faced renewed international pressure - particularly from Germany and the US - to improve transparency in its banking and tax systems. In December 2008, Liechtenstein signed a Tax Information Exchange Agreement with the US. Upon Liechtenstein's conclusion of 12 bilateral information-sharing agreements, the OECD in October 2009 removed the principality from its "grey list" of countries that had yet to implement the organization's Model Tax Convention. By the end of 2010, Liechtenstein had signed 25 Tax Information Exchange Agreements or Double Tax Agreements. In 2011, Liechtenstein joined the Schengen area, which allows passport-free travel across 26 European countries. In 2015, Liechtenstein and the EU agreed to clamp down on tax fraud and evasion and in 2018 will start automatically exchanging information on the bank accounts of each other’s residents.</p><br>
+<p>Despite its small size and lack of natural resources, Liechtenstein has developed into a prosperous, highly industrialized, free-enterprise economy with a vital financial services sector and one of the highest per capita income levels in the world. The Liechtenstein economy is widely diversified with a large number of small and medium-sized businesses, particularly in the services sector. Low business taxes - a flat tax of 12.5% on income is applied - and easy incorporation rules have induced many holding companies to establish nominal offices in Liechtenstein, providing 30% of state revenues.</p> <p>The country participates in a customs union with Switzerland and uses the Swiss franc as its national currency. It imports more than 90% of its energy requirements. Liechtenstein has been a member of the European Economic Area (an organization serving as a bridge between the European Free Trade Association and the EU) since May 1995. The government is working to harmonize its economic policies with those of an integrated EU. As of 2015, 54% of Liechtenstein’s workforce consisted of cross-border commuters, largely from Austria, Germany, and Switzerland.</p> <p>Since 2008, Liechtenstein has faced renewed international pressure - particularly from Germany and the US - to improve transparency in its banking and tax systems. In December 2008, Liechtenstein signed a Tax Information Exchange Agreement with the US. Upon Liechtenstein's conclusion of 12 bilateral information-sharing agreements, the OECD in October 2009 removed the principality from its "grey list" of countries that had yet to implement the organization's Model Tax Convention. By the end of 2010, Liechtenstein had signed 25 Tax Information Exchange Agreements or Double Tax Agreements. In 2011, Liechtenstein joined the Schengen area, which allows passport-free travel across 26 European countries. In 2015, Liechtenstein and the EU agreed to clamp down on tax fraud and evasion and in 2018 will start automatically exchanging information on the bank accounts of each other’s residents.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
 $4.978 billion (2014 est.)<br>

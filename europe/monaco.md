@@ -59,7 +59,7 @@ _forest_: 0% (2018 est.)<br>
 _other_: 99% (2018 est.)<br>
 
 **Irrigated land**<br>
-0 sq km (2012)<br>
+0 sq km (2022)<br>
 
 **Population distribution**<br>
 the second most densely populated country in the world (after Macau); its entire population living on 2 square km<br>
@@ -99,10 +99,10 @@ _55-64 years_: 15.47% (male 2,370/female 2,417)<br>
 _65 years and over_: 35.15% (male 4,817/female 6,057) (2020 est.)<br>
 
 **Dependency ratios**<br>
-_total dependency ratio_: NA<br>
-_youth dependency ratio_: NA<br>
-_elderly dependency ratio_: NA<br>
-_potential support ratio_: NA<br>
+_total dependency ratio_: 95.2<br>
+_youth dependency ratio_: 25<br>
+_elderly dependency ratio_: 70.2<br>
+_potential support ratio_: 1.4 (2021)<br>
 
 **Median age**<br>
 _total_: 55.4 years<br>
@@ -195,7 +195,7 @@ _total population_: NA<br>
 _male_: NA<br>
 _female_: NA<br>
 
-**Unemployment, youth ages 15-24**<br>
+**Youth unemployment rate (ages 15-24)**<br>
 _total_: 26.7%<br>
 _male_: 25.7%<br>
 _female_: 27.9% (2016 est.)<br>
@@ -386,7 +386,7 @@ _services_: 83.9% (2012 est.)<br>
 **Unemployment rate**<br>
 2% (2012)<br>
 
-**Unemployment, youth ages 15-24**<br>
+**Youth unemployment rate (ages 15-24)**<br>
 _total_: 26.7%<br>
 _male_: 25.7%<br>
 _female_: 27.9% (2016 est.)<br>

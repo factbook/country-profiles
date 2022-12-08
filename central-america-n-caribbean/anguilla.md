@@ -59,7 +59,7 @@ _forest_: 61.1% (2018 est.)<br>
 _other_: 38.9% (2018 est.)<br>
 
 **Irrigated land**<br>
-0 sq km (2012)<br>
+0 sq km (2020)<br>
 
 **Population distribution**<br>
 most of the population is concentrated in The Valley in the center of the island; settlmement is fairly uniform in the southwest, but rather sparce in the northeast<br>
@@ -97,10 +97,10 @@ _55-64 years_: 12.42% (male 993/female 1,254)<br>
 _65 years and over_: 9.78% (male 874/female 895) (2020 est.)<br>
 
 **Dependency ratios**<br>
-_total dependency ratio_: NA<br>
-_youth dependency ratio_: NA<br>
-_elderly dependency ratio_: NA<br>
-_potential support ratio_: NA<br>
+_total dependency ratio_: 38.6<br>
+_youth dependency ratio_: 24.4<br>
+_elderly dependency ratio_: 14.1<br>
+_potential support ratio_: 7.1 (2021)<br>
 
 **Median age**<br>
 _total_: 35.7 years<br>

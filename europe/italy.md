@@ -61,7 +61,7 @@ _forest_: 31.4% (2018 est.)<br>
 _other_: 21.5% (2018 est.)<br>
 
 **Irrigated land**<br>
-39,500 sq km (2012)<br>
+26,010 sq km (2013)<br>
 
 **Major watersheds (area sq km)**<br>
 Atlantic Ocean drainage: Rhine-Maas (198,735 sq km), <em>(Black Sea)</em> Danube (795,656 sq km), <em>(Adriatic Sea)</em> Po (76,997 sq km), <em>(Mediterranean Sea) </em>Rhone (100,543 sq km)<br>
@@ -102,10 +102,10 @@ _55-64 years_: 14% (male 4,243,735/female 4,493,581)<br>
 _65 years and over_: 22.08% (male 5,949,560/female 7,831,076) (2020 est.)<br>
 
 **Dependency ratios**<br>
-_total dependency ratio_: 57<br>
-_youth dependency ratio_: 20.4<br>
-_elderly dependency ratio_: 36.6<br>
-_potential support ratio_: 2.7 (2020 est.)<br>
+_total dependency ratio_: 57.1<br>
+_youth dependency ratio_: 19.9<br>
+_elderly dependency ratio_: 37.2<br>
+_potential support ratio_: 2.7 (2021 est.)<br>
 
 **Median age**<br>
 _total_: 46.5 years<br>
@@ -192,7 +192,7 @@ _unimproved: rural_: rural: 0% of population<br>
 _unimproved: total_: total: 0% of population (2020 est.)<br>
 
 **HIV/AIDS - adult prevalence rate**<br>
-0.2% (2020 est.)<br>
+0.2% (2021 est.)<br>
 
 **Major infectious diseases**<br>
 <strong>note:</strong> a new coronavirus is causing respiratory illness (COVID-19) in Italy; illness with this virus has ranged from mild to severe with fatalities reported; as of 6 June 2022, Italy has reported a total of 17,505,973 cases of COVID-19 or 29,352 cumulative cases of COVID-19 per 100,000 population with a total of 166,949 cumulative deaths or a rate of 279.9 cumulative deaths per 100,000 population; as of 6 June 2022, 84.1% of the population has received at least one dose of COVID-19 vaccine; the US Department of Homeland Security has issued instructions requiring US passengers who have been in Italy to travel through select airports where the US Government has implemented enhanced screening procedures<br>
@@ -229,7 +229,7 @@ _total_: 16 years<br>
 _male_: 16 years<br>
 _female_: 17 years (2019)<br>
 
-**Unemployment, youth ages 15-24**<br>
+**Youth unemployment rate (ages 15-24)**<br>
 _total_: 29.4%<br>
 _male_: 27.9%<br>
 _female_: 31.8% (2020 est.)<br>
@@ -463,7 +463,7 @@ _services_: 67.8% (2011)<br>
 9.88% (2019 est.)<br>
 10.63% (2018 est.)<br>
 
-**Unemployment, youth ages 15-24**<br>
+**Youth unemployment rate (ages 15-24)**<br>
 _total_: 29.4%<br>
 _male_: 27.9%<br>
 _female_: 31.8% (2020 est.)<br>
@@ -687,6 +687,9 @@ _oil terminal(s)_: Melilli (Santa Panagia) oil terminal, Sarroch oil terminal<br
 _container port(s) (TEUs)_: Genoa (2,621,472), Gioia Tauro (2,523,000) (2019)<br>
 _LNG terminal(s) (import)_: Panigaglia (La Spezia), Adriatic (Porto Levante), Oristano (Sardinia), Ravenna, Toscana (Livorno)<br>
 
+**Transportation - note**<br>
+Italy operates one PC 5 or 6 class icebreaker, it is based in the Mediterranean<br><strong>note </strong>- PC 5 - Year-round operation in medium first-year ice which may include old ice inclusions (ice thickness up to 70-120 cm); PC 6 - Summer/autumn operation in medium first-year ice which may include old ice inclusions (ice thickness up to 30-70 cm)<br>
+
 ## Military and Security
 
 **Military and security forces**<br>
@@ -729,9 +732,9 @@ Islamic State of Iraq and ash-Sham (ISIS)<br>
 <p>Italy's long coastline and developed economy entices tens of thousands of illegal immigrants from southeastern Europe and northern Africa</p> <p><em>Italy-Austria-Switzerland</em>: borders are shifting because glacier peaks that had served as a natural boundary are melting</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 19,441 (Nigeria), 15,337 (Pakistan), 12,962 (Afghanistan), 10,609 (Mali), 7,901 (Somalia), 5,845 (Gambia), 5,079 (Iraq) (mid-year 2021); 173,231 (Ukraine) (as of 22 November 2022)<br>
+_refugees (country of origin)_: 19,441 (Nigeria), 15,337 (Pakistan), 12,962 (Afghanistan), 10,609 (Mali), 7,901 (Somalia), 5,845 (Gambia), 5,079 (Iraq) (mid-year 2021); 173,231 (Ukraine) (as of 29 November 2022)<br>
 _stateless persons_: 3,000 (mid-year 2021)<br>
-<strong>note:</strong> 685,463 estimated refugee and migrant arrivals (January 2015-November 2022)<br>
+<strong>note:</strong> 685,460 estimated refugee and migrant arrivals (January 2015-November 2022)<br>
 
 **Illicit drugs**<br>
 important gateway for drug trafficking; organized crime groups allied with Colombian and Spanish groups trafficking cocaine to Europe<br>

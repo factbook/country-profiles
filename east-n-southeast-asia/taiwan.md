@@ -98,10 +98,10 @@ _55-64 years_: 14.73% (male 1,698,555/female 1,778,529)<br>
 _65 years and over_: 15.72% (male 1,681,476/female 2,029,576) (2020 est.)<br>
 
 **Dependency ratios**<br>
-_total dependency ratio_: 40<br>
+_total dependency ratio_: 40.2<br>
 _youth dependency ratio_: 17.8<br>
-_elderly dependency ratio_: 22.2<br>
-_potential support ratio_: 4.5 (2020 est.)<br>
+_elderly dependency ratio_: 22.4<br>
+_potential support ratio_: 4.5 (2021 est.)<br>
 
 **Median age**<br>
 _total_: 42.3 years<br>
@@ -280,7 +280,7 @@ _judge selection and term of office_: Supreme Court justices appointed by the pr
 _subordinate courts_: high courts; district courts; hierarchy of administrative courts<br>
 
 **Political parties and leaders**<br>
-Democratic Progressive Party or DPP [vacant; TSAI Ing-wen resigned Nov 2022]<br>Kuomintang or KMT (Nationalist Party) [Eric CHU Chi-luan]<br>New Power Party or NPP [CHEN Jiau-hua]<br>People First Party or PFP [James SOONG]<br>Taiwan People's Party or TPP [KO Wen-je]<br>Taiwan Statebuilding Party or TSP [CHEN Yi-chi]<br>
+Democratic Progressive Party or DPP [CHEN Chi-mai (acting)]<br>Kuomintang or KMT (Nationalist Party) [Eric CHU Chi-luan]<br>New Power Party or NPP [CHEN Jiau-hua]<br>People First Party or PFP [James SOONG]<br>Taiwan People's Party or TPP [KO Wen-je]<br>Taiwan Statebuilding Party or TSP [CHEN Yi-chi]<br>
 <strong>note:</strong> the DPP and the KMT are the two major political parties; there are hundreds of registered minor parties<br>
 
 **International organization participation**<br>

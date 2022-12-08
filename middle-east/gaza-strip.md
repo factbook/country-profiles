@@ -50,7 +50,7 @@ _lowest point_: Mediterranean Sea 0 m<br>
 arable land, natural gas<br>
 
 **Irrigated land**<br>
-(2012) 240 sq km; note - includes the West Bank<br>
+(2013) 151 sq km; note - includes the West Bank<br>
 
 **Population distribution**<br>
 population concentrated in major cities, particularly Gaza City in the north<br>
@@ -89,10 +89,10 @@ _55-64 years_: 3.66% (male 36,409/female 33,731)<br>
 _65 years and over_: 2.68% (male 27,248/female 24,191) (2020 est.)<br>
 
 **Dependency ratios**<br>
-_total dependency ratio_: 71.2<br>
-_youth dependency ratio_: 65.7<br>
-_elderly dependency ratio_: 5.5<br>
-_potential support ratio_: 18.2 (2020 est.)<br>
+_total dependency ratio_: 74.3<br>
+_youth dependency ratio_: 68.2<br>
+_elderly dependency ratio_: 6.1<br>
+_potential support ratio_: 16.5 (2021 est.)<br>
 <strong>note:</strong> data represent Gaza Strip and the West Bank<br>
 
 **Median age**<br>
@@ -212,7 +212,7 @@ _male_: 12 years<br>
 _female_: 14 years (2020)<br>
 <strong>note:</strong> data represent Gaza Strip and the West Bank<br>
 
-**Unemployment, youth ages 15-24**<br>
+**Youth unemployment rate (ages 15-24)**<br>
 _total_: 42.1%<br>
 _male_: 36.6%<br>
 _female_: 70% (2020 est.)<br>
@@ -335,7 +335,7 @@ _services_: 84.8% (2015 est.)<br>
 27% (2016 est.)<br>
 <strong>note:</strong> data exclude the West Bank<br>
 
-**Unemployment, youth ages 15-24**<br>
+**Youth unemployment rate (ages 15-24)**<br>
 _total_: 42.1%<br>
 _male_: 36.6%<br>
 _female_: 70% (2020 est.)<br>

@@ -59,7 +59,7 @@ _forest_: 1.2% (2018 est.)<br>
 _other_: 21.4% (2018 est.)<br>
 
 **Irrigated land**<br>
-20,660 sq km (2012)<br>
+18,099 sq km (2020)<br>
 
 **Major lakes (area sq km)**<br>
 _fresh water lake(s)_: Ozero Balkhash - 22,000 sq km; Ozero Zaysan - 1,800 sq km<br>
@@ -110,10 +110,10 @@ _55-64 years_: 10.25% (male 856,180/female 1,099,923)<br>
 _65 years and over_: 8.43% (male 567,269/female 1,041,450) (2020 est.)<br>
 
 **Dependency ratios**<br>
-_total dependency ratio_: 58.8<br>
-_youth dependency ratio_: 46.3<br>
-_elderly dependency ratio_: 12.6<br>
-_potential support ratio_: 8 (2020 est.)<br>
+_total dependency ratio_: 60<br>
+_youth dependency ratio_: 47.2<br>
+_elderly dependency ratio_: 12.7<br>
+_potential support ratio_: 7.9 (2021 est.)<br>
 
 **Median age**<br>
 _total_: 31.6 years<br>
@@ -200,7 +200,7 @@ _unimproved: rural_: rural: 0.1% of population<br>
 _unimproved: total_: total: 0.1% of population (2020 est.)<br>
 
 **HIV/AIDS - adult prevalence rate**<br>
-0.3% (2020 est.)<br>
+0.3% (2021 est.)<br>
 
 **Obesity - adult prevalence rate**<br>
 21% (2016)<br>
@@ -234,7 +234,7 @@ _total_: 16 years<br>
 _male_: 15 years<br>
 _female_: 16 years (2020)<br>
 
-**Unemployment, youth ages 15-24**<br>
+**Youth unemployment rate (ages 15-24)**<br>
 _total_: 3.8%<br>
 _male_: 3.4%<br>
 _female_: 4.2% (2020 est.)<br>
@@ -472,7 +472,7 @@ _services_: 61.6% (2017 est.)<br>
 4.8% (2019 est.)<br>
 4.85% (2018 est.)<br>
 
-**Unemployment, youth ages 15-24**<br>
+**Youth unemployment rate (ages 15-24)**<br>
 _total_: 3.8%<br>
 _male_: 3.4%<br>
 _female_: 4.2% (2020 est.)<br>

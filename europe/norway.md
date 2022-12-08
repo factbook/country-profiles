@@ -62,7 +62,7 @@ _forest_: 27.8% (2018 est.)<br>
 _other_: 69.5% (2018 est.)<br>
 
 **Irrigated land**<br>
-900 sq km (2012)<br>
+337 sq km (2016)<br>
 
 **Population distribution**<br>
 most Norwegians live in the south where the climate is milder and there is better connectivity to mainland Europe; population clusters are found all along the North Sea coast in the southwest, and Skaggerak in the southeast; the interior areas of the north remain sparsely populated<br>
@@ -100,10 +100,10 @@ _55-64 years_: 11.84% (male 328,865/female 318,398)<br>
 _65 years and over_: 17.43% (male 442,232/female 510,594) (2020 est.)<br>
 
 **Dependency ratios**<br>
-_total dependency ratio_: 53.3<br>
-_youth dependency ratio_: 26.5<br>
-_elderly dependency ratio_: 26.9<br>
-_potential support ratio_: 3.7 (2020 est.)<br>
+_total dependency ratio_: 54<br>
+_youth dependency ratio_: 26.1<br>
+_elderly dependency ratio_: 27.9<br>
+_potential support ratio_: 3.6 (2021 est.)<br>
 <strong>note:</strong> data include Svalbard and Jan Mayen Islands<br>
 
 **Median age**<br>
@@ -192,7 +192,7 @@ _unimproved: rural_: rural: 0% of population<br>
 _unimproved: total_: total: 0% of population (2020 est.)<br>
 
 **HIV/AIDS - adult prevalence rate**<br>
-0.1% (2018 est.)<br>
+(2021 est.) <0.1%<br>
 
 **Obesity - adult prevalence rate**<br>
 23.1% (2016)<br>
@@ -225,7 +225,7 @@ _total_: 18 years<br>
 _male_: 18 years<br>
 _female_: 19 years (2019)<br>
 
-**Unemployment, youth ages 15-24**<br>
+**Youth unemployment rate (ages 15-24)**<br>
 _total_: 11.3%<br>
 _male_: 12.1%<br>
 _female_: 10.5% (2020 est.)<br>
@@ -356,16 +356,16 @@ _chief of mission_: Ambassador Anniken Ramberg KRUTNES (since 17 September 2020)
 _chancery_: 2720 34th Street NW, Washington, DC 20008<br>
 _telephone_: [1] (202) 333-6000<br>
 _FAX_: [1] (202) 469-3990<br>
-_email address and website_: <br>emb.washington@mfa.no<br><br>https://www.norway.no/en/usa/<br>
+_email address and website_: <br>emb.washington@mfa.no<br>https://www.norway.no/en/usa/<br>
 _consulate(s) general_: Houston, New York, San Francisco<br>
 
 **Diplomatic representation from the US**<br>
 _chief of mission_: Ambassador Marc NATHANSON (since 16 June 2022)<br>
 _embassy_: Morgedalsvegen 36, 0378 Oslo<br>
-_mailing address_: 5460 Oslo Place,&nbsp; Washington DC&nbsp; 20521-5460<br>
+_mailing address_: 5460 Oslo Place, Washington DC&nbsp; 20521-5460<br>
 _telephone_: [47] 21-30-85-40<br>
 _FAX_: [47] 22-56-27-51<br>
-_email address and website_: <br>OsloACS@state.gov<br><br>https://no.usembassy.gov/<br>
+_email address and website_: <br>OsloACS@state.gov<br>https://no.usembassy.gov/<br>
 
 **Flag description**<br>
 red with a blue cross outlined in white that extends to the edges of the flag; the vertical part of the cross is shifted to the hoist side in the style of the Dannebrog (Danish flag); the colors recall Norway's past political unions with Denmark (red and white) and Sweden (blue)<br>
@@ -385,7 +385,7 @@ _selected World Heritage Site locales_: Bryggen (c); Urnes Stave Church (c); Rø
 ## Economy
 
 **Economic overview**<br>
-<p>Norway has a stable economy with a vibrant private sector, a large state sector, and an extensive social safety net. Norway opted out of the EU during a referendum in November 1994. However, as a member of the European Economic Area, Norway partially participates in the EU’s single market and contributes sizably to the EU budget.</p> <p> </p> <p>The country is richly endowed with natural resources such as oil and gas, fish, forests, and minerals. Norway is a leading producer and the world’s second largest exporter of seafood, after China. The government manages the country’s petroleum resources through extensive regulation. The petroleum sector provides about 9% of jobs, 12% of GDP, 13% of the state’s revenue, and 37% of exports, according to official national estimates. Norway is one of the world's leading petroleum exporters, although oil production is close to 50% below its peak in 2000. Gas production, conversely, has more than doubled since 2000. Although oil production is historically low, it rose in 2016 for the third consecutive year due to the higher production of existing oil fields and to new fields coming on stream. Norway’s domestic electricity production relies almost entirely on hydropower.</p> <p> </p> <p>In anticipation of eventual declines in oil and gas production, Norway saves state revenue from petroleum sector activities in the world's largest sovereign wealth fund, valued at over $1 trillion at the end of 2017. To help balance the federal budget each year, the government follows a "fiscal rule," which states that spending of revenues from petroleum and fund investments shall correspond to the expected real rate of return on the fund, an amount it estimates is sustainable over time. In February 2017, the government revised the expected rate of return for the fund downward from 4% to 3%.</p> <p> </p> <p>After solid GDP growth in the 2004-07 period, the economy slowed in 2008, and contracted in 2009, before returning to modest, positive growth from 2010 to 2017. The Norwegian economy has been adjusting to lower energy prices, as demonstrated by growth in labor force participation and employment in 2017. GDP growth was about 1.5% in 2017, driven largely by domestic demand, which has been boosted by the rebound in the labor market and supportive fiscal policies. Economic growth is expected to remain constant or improve slightly in the next few years.</p><br>
+<p>Norway has a stable economy with a vibrant private sector, a large state sector, and an extensive social safety net. Norway opted out of the EU during a referendum in November 1994. However, as a member of the European Economic Area, Norway partially participates in the EU’s single market and contributes sizably to the EU budget.</p> <p>The country is richly endowed with natural resources such as oil and gas, fish, forests, and minerals. Norway is a leading producer and the world’s second largest exporter of seafood, after China. The government manages the country’s petroleum resources through extensive regulation. The petroleum sector provides about 9% of jobs, 12% of GDP, 13% of the state’s revenue, and 37% of exports, according to official national estimates. Norway is one of the world's leading petroleum exporters, although oil production is close to 50% below its peak in 2000. Gas production, conversely, has more than doubled since 2000. Although oil production is historically low, it rose in 2016 for the third consecutive year due to the higher production of existing oil fields and to new fields coming on stream. Norway’s domestic electricity production relies almost entirely on hydropower.</p> <p>In anticipation of eventual declines in oil and gas production, Norway saves state revenue from petroleum sector activities in the world's largest sovereign wealth fund, valued at over $1 trillion at the end of 2017. To help balance the federal budget each year, the government follows a "fiscal rule," which states that spending of revenues from petroleum and fund investments shall correspond to the expected real rate of return on the fund, an amount it estimates is sustainable over time. In February 2017, the government revised the expected rate of return for the fund downward from 4% to 3%.</p> <p> </p> <p>After solid GDP growth in the 2004-07 period, the economy slowed in 2008, and contracted in 2009, before returning to modest, positive growth from 2010 to 2017. The Norwegian economy has been adjusting to lower energy prices, as demonstrated by growth in labor force participation and employment in 2017. GDP growth was about 1.5% in 2017, driven largely by domestic demand, which has been boosted by the rebound in the labor market and supportive fiscal policies. Economic growth is expected to remain constant or improve slightly in the next few years.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
 $342.06 billion (2020 est.)<br>
@@ -452,7 +452,7 @@ _services_: 78.6% (2016 est.)<br>
 3.72% (2019 est.)<br>
 3.89% (2018 est.)<br>
 
-**Unemployment, youth ages 15-24**<br>
+**Youth unemployment rate (ages 15-24)**<br>
 _total_: 11.3%<br>
 _male_: 12.1%<br>
 _female_: 10.5% (2020 est.)<br>
@@ -502,9 +502,9 @@ United Kingdom 18%, Germany 14%, Netherlands 10%, Sweden 9%, France 6%, United S
 crude petroleum, natural gas, fish, refined petroleum, aluminum (2019)<br>
 
 **Imports**<br>
-$119.08 billion (2020 est.) note: data are in current year dollars<br>
-$140.14 billion (2019 est.) note: data are in current year dollars<br>
-$140.3 billion (2018 est.) note: data are in current year dollars<br>
+$119 (2020 est.) note: data are in current year dollars<br>
+$140 (2019 est.) note: data are in current year dollars<br>
+$140 (2018 est.) note: data are in current year dollars<br>
 
 **Imports - partners**<br>
 Sweden 17%, Germany 12%, China 8%, Denmark 7%, United States 6%, United Kingdom 5%, Netherlands 5% (2019)<br>
@@ -669,6 +669,9 @@ _major seaport(s)_: Bergen, Haugesund, Maaloy, Mongstad, Narvik, Sture<br>
 _LNG terminal(s) (export)_: Kamoy, Kollsnes, Melkoya Island, Tjeldbergodden<br>
 _LNG terminal(s) (import)_: Fredrikstad, Mosjoen<br>
 
+**Transportation - note**<br>
+Norway operates one PC 3 or 4 class icebreaker and one PC 5 or 6 class icebreaker in the Arctic Ocean<br><strong>note </strong>- PC 3 - Year-round operation in second-year ice which may include multi-year ice inclusions (ice thickness up to 2.5 m); PC 4 - Year-round operation in thick first-year ice which may include old ice inclusions (ice thickness up to 120 cm); PC 5 - Year-round operation in medium first-year ice which may include old ice inclusions (ice thickness up to 70-120 cm); PC 6 - Summer/autumn operation in medium first-year ice which may include old ice inclusions (ice thickness up to 30-70 cm)<br>
+
 ## Military and Security
 
 **Military and security forces**<br>
@@ -697,7 +700,7 @@ up to 190 Lithuania (NATO) (2022)<br>
 <strong>note: </strong>in response to Russia’s 2022 invasion of Ukraine, some NATO countries, including Norway, have sent additional troops and equipment to the battlegroups deployed in NATO territory in eastern Europe<br>
 
 **Military - note**<br>
-Norway is a member of NATO and was one of the original 12 countries to sign the North Atlantic Treaty (also known as the Washington Treaty) in 1949<br><br>the Norwegian Armed Forces cooperate closely with the militaries of other Nordic countries through the Nordic Defense Cooperation (NORDEFCO), which consists of Denmark, Finland, Iceland, Norway, and Sweden; areas of cooperation include armaments, education, human resources, training and exercises, and operations; NORDEFCO was established in 2009<br><br>the first Norwegian defense organization, the leidangen, was established along the coastline in the 10th century to protect the Norwegian coast (2022)<br>
+Norway is a member of NATO and was one of the original 12 countries to sign the North Atlantic Treaty (also known as the Washington Treaty) in 1949; the Norwegian Armed Forces cooperate closely with the militaries of other Nordic countries through the Nordic Defense Cooperation (NORDEFCO), which consists of Denmark, Finland, Iceland, Norway, and Sweden; areas of cooperation include armaments, education, human resources, training and exercises, and operations; NORDEFCO was established in 2009<br><br>the first Norwegian defense organization, the leidangen, was established along the coastline in the 10th century to protect the Norwegian coast (2022)<br>
 
 ## Transnational Issues
 

@@ -105,9 +105,9 @@ _65 years and over_: 3.97% (male 16,245/female 20,319) (2020 est.)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 50.6<br>
-_youth dependency ratio_: 43.6<br>
-_elderly dependency ratio_: 7.1<br>
-_potential support ratio_: 14.1 (2020 est.)<br>
+_youth dependency ratio_: 47.5<br>
+_elderly dependency ratio_: 6.9<br>
+_potential support ratio_: 14.4 (2021 est.)<br>
 
 **Median age**<br>
 _total_: 24.9 years<br>
@@ -190,7 +190,7 @@ _unimproved: rural_: rural: 75.8% of population<br>
 _unimproved: total_: total: 26.2% of population (2020 est.)<br>
 
 **HIV/AIDS - adult prevalence rate**<br>
-0.8% (2020 est.)<br>
+0.7% (2021 est.)<br>
 
 **Major infectious diseases**<br>
 _degree of risk_: high (2020)<br>
@@ -224,7 +224,7 @@ _total_: 7 years<br>
 _male_: 7 years<br>
 _female_: 7 years (2011)<br>
 
-**Unemployment, youth ages 15-24**<br>
+**Youth unemployment rate (ages 15-24)**<br>
 _total_: 73%<br>
 _male_: 72%<br>
 _female_: 74.6% (2017)<br>
@@ -271,7 +271,7 @@ _vectorborne diseases_: dengue fever<br>
 <strong>note: </strong>on 21 March 2022, the US Centers for Disease Control and Prevention (CDC) issued a Travel Alert for polio in Africa; Djibouti is currently considered a high risk to travelers for circulating vaccine-derived polioviruses (cVDPV); vaccine-derived poliovirus (VDPV) is a strain of the weakened poliovirus that was initially included in oral polio vaccine (OPV) and <em>that has changed over time and behaves more like the wild or naturally occurring virus</em>; this means it can be spread more easily to people who are unvaccinated against polio and who come in contact with the stool or respiratory secretions, such as from a sneeze, of an “infected” person who received oral polio vaccine; the CDC recommends that before any international travel, anyone unvaccinated, incompletely vaccinated, or with an unknown polio vaccination status should complete the routine polio vaccine series; before travel to any high-risk destination, the CDC recommends that adults who previously completed the full, routine polio vaccine series receive a single, lifetime booster dose of polio vaccine<br>
 
 **Food insecurity**<br>
-_widespread lack of access_: <em>due to unfavorable weather and high food prices -</em> about 132,000 people were estimated to be severely food insecure between March and June 2022 mainly due to insufficient rains in 2021 and 2022, which affected rangelands and pastoral livelihoods, and high food prices (2022)<br>
+_widespread lack of access_: <em>due to unfavorable weather and high food prices - </em>about 192,000 people are estimated to be experiencing acute food insecurity between July and December 2022 mainly due to insufficient rains in 2021 and 2022, which affected rangelands and pastoral livelihoods, and high food prices (2022)<br>
 
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 114,997 tons (2002 est.)<br>
@@ -446,7 +446,7 @@ _services_: NA<br>
 40% (2017 est.)<br>
 60% (2014 est.)<br>
 
-**Unemployment, youth ages 15-24**<br>
+**Youth unemployment rate (ages 15-24)**<br>
 _total_: 73%<br>
 _male_: 72%<br>
 _female_: 74.6% (2017)<br>

@@ -59,7 +59,7 @@ _forest_: 5.1% (2018 est.)<br>
 _other_: 64.1% (2018 est.)<br>
 
 **Irrigated land**<br>
-0 sq km (2012)<br>
+0 sq km (2022)<br>
 
 **Population distribution**<br>
 Saint Helena - population is concentrated in and around the capital Jamestown in the northwest, with another significant cluster in the interior Longwood area; Ascension - largest settlement, and location of most of the population, is Georgetown; Tristan da Cunha - most of the nearly 300 inhabitants live in the northern coastal town of Edinburgh of the Seven Seas<br>
@@ -102,10 +102,10 @@ _55-64 years_: 13.53% (male 523/female 549)<br>
 _65 years and over_: 18.06% (male 730/female 701) (2022 est.)<br>
 
 **Dependency ratios**<br>
-_total dependency ratio_: NA<br>
-_youth dependency ratio_: NA<br>
-_elderly dependency ratio_: NA<br>
-_potential support ratio_: NA<br>
+_total dependency ratio_: 68.6 NA<br>
+_youth dependency ratio_: 23.6 NA<br>
+_elderly dependency ratio_: 45.1 NA<br>
+_potential support ratio_: 2.2 (2021) NA<br>
 
 **Median age**<br>
 _total_: 43.2 years<br>

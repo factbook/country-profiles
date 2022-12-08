@@ -62,7 +62,7 @@ _forest_: 3.6% (2018 est.)<br>
 _other_: 30% (2018 est.)<br>
 
 **Irrigated land**<br>
-970 sq km (2012)<br>
+800 sq km (2013)<br>
 
 **Population distribution**<br>
 fairly even distribution; largest concentrations located near coastal areas<br>
@@ -101,10 +101,10 @@ _55-64 years_: 5.3% (male 280,630/female 305,584)<br>
 _65 years and over_: 4.33% (male 210,451/female 269,228) (2020 est.)<br>
 
 **Dependency ratios**<br>
-_total dependency ratio_: 60.4<br>
-_youth dependency ratio_: 52.1<br>
-_elderly dependency ratio_: 8.3<br>
-_potential support ratio_: 13.3 (2020 est.)<br>
+_total dependency ratio_: 58.3<br>
+_youth dependency ratio_: 51.2<br>
+_elderly dependency ratio_: 7.1<br>
+_potential support ratio_: 14.1 (2021 est.)<br>
 
 **Median age**<br>
 _total_: 24.1 years<br>
@@ -191,7 +191,7 @@ _unimproved: rural_: rural: 57.4% of population<br>
 _unimproved: total_: total: 34.4% of population (2020 est.)<br>
 
 **HIV/AIDS - adult prevalence rate**<br>
-1.9% (2020 est.)<br>
+1.8% (2021 est.)<br>
 
 **Major infectious diseases**<br>
 _degree of risk_: very high (2020)<br>

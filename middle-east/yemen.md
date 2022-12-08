@@ -102,9 +102,9 @@ _65 years and over_: 2.8% (male 366,891 /female 435,855) (2018 est.)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 71.7<br>
-_youth dependency ratio_: 66.7<br>
-_elderly dependency ratio_: 5<br>
-_potential support ratio_: 19.9 (2020 est.)<br>
+_youth dependency ratio_: 69.4<br>
+_elderly dependency ratio_: 4.7<br>
+_potential support ratio_: 19.9 (2021 est.)<br>
 
 **Median age**<br>
 _total_: 19.8 years (2018 est.)<br>
@@ -191,7 +191,7 @@ _unimproved: rural_: rural: 55.8% of population<br>
 _unimproved: total_: total: 40.9% of population (2020 est.)<br>
 
 **HIV/AIDS - adult prevalence rate**<br>
-(2020 est.) <.1%<br>
+(2021 est.) <0.1%<br>
 
 **Major infectious diseases**<br>
 _degree of risk_: high (2020)<br>
@@ -232,7 +232,7 @@ _total_: 9 years<br>
 _male_: 11 years<br>
 _female_: 8 years (2011)<br>
 
-**Unemployment, youth ages 15-24**<br>
+**Youth unemployment rate (ages 15-24)**<br>
 _total_: 24.5%<br>
 _male_: 23.5%<br>
 _female_: 34.6% (2014 est.)<br>
@@ -458,7 +458,7 @@ crude oil production and petroleum refining; small-scale production of cotton te
 27% (2014 est.)<br>
 35% (2003 est.)<br>
 
-**Unemployment, youth ages 15-24**<br>
+**Youth unemployment rate (ages 15-24)**<br>
 _total_: 24.5%<br>
 _male_: 23.5%<br>
 _female_: 34.6% (2014 est.)<br>

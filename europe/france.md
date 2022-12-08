@@ -56,7 +56,7 @@ _mean elevation_: 375 m<br>
 <strong>note:</strong> to assess the possible effects of climate change on the ice and snow cap of Mont Blanc, its surface and peak have been extensively measured in recent years; these new peak measurements have exceeded the traditional height of 4,807 m and have varied between 4,808 m and 4,811 m; the actual rock summit is 4,792 m and is 40 m away from the ice-covered summit<br>
 
 **Natural resources**<br>
-<em>metropolitan France:</em> coal, iron ore, bauxite, zinc, uranium, antimony, arsenic, potash, feldspar, fluorspar, gypsum, timber, arable land, fish, French Guiana, gold deposits, petroleum, kaolin, niobium, tantalum, clay<br>
+<em>metropolitan France:</em> coal, iron ore, bauxite, zinc, uranium, antimony, arsenic, potash, feldspar, fluorspar, gypsum, timber, arable land, fish <em>French Guiana</em><em>:</em> gold deposits, petroleum, kaolin, niobium, tantalum, clay<br>
 
 **Land use**<br>
 _agricultural land_: 52.7% (2018 est.)<br>
@@ -67,8 +67,7 @@ _forest_: 29.2% (2018 est.)<br>
 _other_: 18.1% (2018 est.)<br>
 
 **Irrigated land**<br>
-26,420 sq km (2012) 26,950 sq km<br>
-<strong>metropolitan France: </strong>26,000 sq km (2012)<br>
+14,236 sq km (2013)<br>
 
 **Major lakes (area sq km)**<br>
 _fresh water lake(s)_: Lake Geneva (shared with Switzerland) - 580 sq km<br>
@@ -121,10 +120,10 @@ _55-64 years_: 12.47% (male 4,085,564/female 4,376,272)<br>
 _65 years and over_: 20.46% (male 6,029,303/female 7,855,244) (2020 est.)<br>
 
 **Dependency ratios**<br>
-_total dependency ratio_: 62.4<br>
-_youth dependency ratio_: 28.7<br>
-_elderly dependency ratio_: 33.7<br>
-_potential support ratio_: 3 (2020 est.)<br>
+_total dependency ratio_: 63.1<br>
+_youth dependency ratio_: 28.3<br>
+_elderly dependency ratio_: 34.8<br>
+_potential support ratio_: 2.9 (2021 est.)<br>
 
 **Median age**<br>
 _total_: 41.7 years<br>
@@ -210,7 +209,7 @@ _unimproved: rural_: rural: 0% of population<br>
 _unimproved: total_: total: 0% of population (2020 est.)<br>
 
 **HIV/AIDS - adult prevalence rate**<br>
-0.3% (2019 est.)<br>
+0.3% (2021 est.)<br>
 
 **Major infectious diseases**<br>
 <strong>note:</strong> widespread ongoing transmission of a respiratory illness caused by the novel coronavirus (COVID-19) is occurring throughout France; as of 18 August 2022, France has reported a total of 33,275,006 cases of COVID-19 or 51,161.33 cumulative cases of COVID-19 per 100,000 population with a total of 149,848 cumulative deaths or a rate 230.39 cumulative deaths per 100,000 population; as of 16 August 2022, 80.89% of the population has received at least one dose of COVID-19 vaccine<br>
@@ -246,7 +245,7 @@ _total_: 16 years<br>
 _male_: 15 years<br>
 _female_: 16 years (2019)<br>
 
-**Unemployment, youth ages 15-24**<br>
+**Youth unemployment rate (ages 15-24)**<br>
 _total_: 20.2%<br>
 _male_: 20.3%<br>
 _female_: 19.9% (2020 est.)<br>
@@ -413,7 +412,7 @@ three equal vertical bands of blue (hoist side), white, and red; known as the "L
 <strong>note:</strong> for the first four years, 1790-94, the order of colors was reversed, red-white-blue, instead of the current blue-white-red; the design and/or colors are similar to a number of other flags, including those of Belgium, Chad, Cote d'Ivoire, Ireland, Italy, Luxembourg, and Netherlands<br>
 
 **National symbol(s)**<br>
-Gallic rooster, fleur-de-lis, Marianne (female personification); national colors: blue, white, red<br>
+Gallic rooster, fleur-de-lis, Marianne (female personification of the country); national colors: blue, white, red<br>
 
 **National anthem**<br>
 _name_: "La Marseillaise" (The Song of Marseille)<br>
@@ -495,7 +494,7 @@ _services_: 77.2% (2016 est.)<br>
 8.69% (2018 est.)<br>
 <strong>note:</strong> includes overseas territories<br>
 
-**Unemployment, youth ages 15-24**<br>
+**Youth unemployment rate (ages 15-24)**<br>
 _total_: 20.2%<br>
 _male_: 20.3%<br>
 _female_: 19.9% (2020 est.)<br>
@@ -723,7 +722,7 @@ _river port(s)_: Bordeaux (Garronne); Nantes - Saint Nazaire (Loire); Paris, Rou
 _cruise/ferry port(s)_: Calais, Cherbourg, Le Havre<br>
 
 **Transportation - note**<br>
-begun in 1988 and completed in 1994, the Channel Tunnel (nicknamed the Chunnel) is a 50.5-km (31.4-mi) rail tunnel&nbsp;beneath the English Channel at the Strait of Dover that runs from Folkestone, Kent, England to Coquelles, Pas-de-Calais in northern France; it is the only fixed link between the island of Great Britain and mainland Europe<br>
+begun in 1988 and completed in 1994, the Channel Tunnel (nicknamed the Chunnel) is a 50.5-km (31.4-mi) rail tunnel beneath the English Channel at the Strait of Dover that runs from Folkestone, Kent, England to Coquelles, Pas-de-Calais in northern France; it is the only fixed link between the island of Great Britain and mainland Europe; France operates two icebreakers, one PC 3 or 4 class icebreaker based in French Polynesia for operations in Antarctica and one PC 5 or 6 class icebreaker based in the North Atlantic<br><strong>note </strong>- PC 3 - Year-round operation in second-year ice which may include multi-year ice inclusions (ice thickness up to 2.5 m); PC 4 - Year-round operation in thick first-year ice which may include old ice inclusions (ice thickness up to 120 cm); PC 5 - Year-round operation in medium first-year ice which may include old ice inclusions (ice thickness up to 70-120 cm); PC 6 - Summer/autumn operation in medium first-year ice which may include old ice inclusions (ice thickness up to 30-70 cm)<br>
 
 ## Military and Security
 

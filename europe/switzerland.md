@@ -59,7 +59,7 @@ _forest_: 31.5% (2018 est.)<br>
 _other_: 29.8% (2018 est.)<br>
 
 **Irrigated land**<br>
-630 sq km (2012)<br>
+327 sq km (2016)<br>
 
 **Major lakes (area sq km)**<br>
 _fresh water lake(s)_: Lake Constance (shared with Germany and Austria) - 540 sq km; Lake Geneva (shared with France) - 580 sq km<br>
@@ -108,9 +108,9 @@ _65 years and over_: 18.73% (male 699,750/female 874,448) (2020 est.)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 51.6<br>
-_youth dependency ratio_: 22.7<br>
-_elderly dependency ratio_: 29<br>
-_potential support ratio_: 3.5 (2020 est.)<br>
+_youth dependency ratio_: 22.8<br>
+_elderly dependency ratio_: 28.7<br>
+_potential support ratio_: 3.5 (2021 est.)<br>
 
 **Median age**<br>
 _total_: 42.7 years<br>
@@ -196,7 +196,7 @@ _unimproved: rural_: rural: 0% of population<br>
 _unimproved: total_: total: 0% of population (2020 est.)<br>
 
 **HIV/AIDS - adult prevalence rate**<br>
-0.2% (2020 est.)<br>
+0.2% (2021 est.)<br>
 
 **Obesity - adult prevalence rate**<br>
 19.5% (2016)<br>
@@ -229,7 +229,7 @@ _total_: 17 years<br>
 _male_: 17 years<br>
 _female_: 16 years (2019)<br>
 
-**Unemployment, youth ages 15-24**<br>
+**Youth unemployment rate (ages 15-24)**<br>
 _total_: 8.6%<br>
 _male_: 9.2%<br>
 _female_: 8% (2020 est.)<br>
@@ -466,7 +466,7 @@ _services_: 76.9% (2015)<br>
 2.31% (2019 est.)<br>
 2.55% (2018 est.)<br>
 
-**Unemployment, youth ages 15-24**<br>
+**Youth unemployment rate (ages 15-24)**<br>
 _total_: 8.6%<br>
 _male_: 9.2%<br>
 _female_: 8% (2020 est.)<br>

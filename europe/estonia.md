@@ -61,7 +61,7 @@ _forest_: 52.1% (2018 est.)<br>
 _other_: 25.7% (2018 est.)<br>
 
 **Irrigated land**<br>
-40 sq km (2012)<br>
+20 sq km (2016)<br>
 
 **Population distribution**<br>
 a fairly even distribution throughout most of the country, with urban areas attracting larger and denser populations<br>
@@ -98,10 +98,10 @@ _55-64 years_: 13.58% (male 76,251/female 90,576)<br>
 _65 years and over_: 21% (male 89,211/female 168,762) (2020 est.)<br>
 
 **Dependency ratios**<br>
-_total dependency ratio_: 58.4<br>
+_total dependency ratio_: 58.3<br>
 _youth dependency ratio_: 26.1<br>
 _elderly dependency ratio_: 32.3<br>
-_potential support ratio_: 3.1 (2020 est.)<br>
+_potential support ratio_: 3.1 (2021 est.)<br>
 
 **Median age**<br>
 _total_: 43.7 years<br>
@@ -187,7 +187,7 @@ _unimproved: rural_: rural: 0% of population<br>
 _unimproved: total_: total: 0.2% of population (2020 est.)<br>
 
 **HIV/AIDS - adult prevalence rate**<br>
-0.8% (2020 est.)<br>
+NA<br>
 
 **Major infectious diseases**<br>
 _degree of risk_: intermediate (2020)<br>
@@ -225,7 +225,7 @@ _total_: 16 years<br>
 _male_: 15 years<br>
 _female_: 17 years (2019)<br>
 
-**Unemployment, youth ages 15-24**<br>
+**Youth unemployment rate (ages 15-24)**<br>
 _total_: 17.9%<br>
 _male_: 17.4%<br>
 _female_: 18.4% (2020 est.)<br>
@@ -454,7 +454,7 @@ _services_: 76.8% (2017 est.)<br>
 4.94% (2019 est.)<br>
 4.73% (2018 est.)<br>
 
-**Unemployment, youth ages 15-24**<br>
+**Youth unemployment rate (ages 15-24)**<br>
 _total_: 17.9%<br>
 _male_: 17.4%<br>
 _female_: 18.4% (2020 est.)<br>
@@ -672,6 +672,9 @@ _by type_: general cargo 2, oil tanker 4, other 62 (2021)<br>
 
 **Ports and terminals**<br>
 _major seaport(s)_: Kuivastu, Kunda, Muuga, Parnu Reid, Sillamae, Tallinn<br>
+
+**Transportation - note**<br>
+Estonia operates two PC 5 or 6 class icebreakers in the Baltic Sea<br><strong>note </strong>- PC 5 - Year-round operation in medium first-year ice which may include old ice inclusions (ice thickness up to 70-120 cm); PC 6 - Summer/autumn operation in medium first-year ice which may include old ice inclusions (ice thickness up to 30-70 cm)<br>
 
 ## Military and Security
 

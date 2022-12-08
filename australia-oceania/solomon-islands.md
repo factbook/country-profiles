@@ -60,7 +60,7 @@ _forest_: 78.9% (2018 est.)<br>
 _other_: 17.2% (2018 est.)<br>
 
 **Irrigated land**<br>
-0 sq km (2012) NA<br>
+0 sq km (2022)<br>
 
 **Population distribution**<br>
 most of the population lives along the coastal regions; about one in five live in urban areas, and of these some two-thirds reside in Honiara, the largest town and chief port<br>
@@ -97,10 +97,10 @@ _55-64 years_: 5.04% (male 17,844/female 16,704)<br>
 _65 years and over_: 4.51% (male 14,461/female 16,417) (2020 est.)<br>
 
 **Dependency ratios**<br>
-_total dependency ratio_: 77.6<br>
-_youth dependency ratio_: 71.1<br>
-_elderly dependency ratio_: 6.5<br>
-_potential support ratio_: 15.3 (2020 est.)<br>
+_total dependency ratio_: 74.8<br>
+_youth dependency ratio_: 68.8<br>
+_elderly dependency ratio_: 6<br>
+_potential support ratio_: 16.5 (2021 est.)<br>
 
 **Median age**<br>
 _total_: 23.5 years<br>
@@ -220,7 +220,7 @@ _total population_: NA<br>
 _male_: NA<br>
 _female_: NA<br>
 
-**Unemployment, youth ages 15-24**<br>
+**Youth unemployment rate (ages 15-24)**<br>
 _total_: 1.3%<br>
 _male_: 1%<br>
 _female_: 1.6% (2013)<br>
@@ -433,7 +433,7 @@ _services_: 20% (2000 est.)<br>
 **Unemployment rate**<br>
 <p>NA</p><br>
 
-**Unemployment, youth ages 15-24**<br>
+**Youth unemployment rate (ages 15-24)**<br>
 _total_: 1.3%<br>
 _male_: 1%<br>
 _female_: 1.6% (2013)<br>

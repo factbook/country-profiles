@@ -59,7 +59,7 @@ _forest_: 1.8% (2018 est.)<br>
 _other_: 40.1% (2018)<br>
 
 **Irrigated land**<br>
-32,080 sq km (2012)<br>
+24,930 sq km (2020)<br>
 
 **Major lakes (area sq km)**<br>
 _salt water lake(s)_: Ab-e Istadah-ye Muqur (endorheic basin) - 520 sq km<br>
@@ -107,10 +107,10 @@ _55-64 years_: 4.01% (male 724,597/female 744,910)<br>
 _65 years and over_: 2.68% (male 451,852/female 528,831) (2020 est.)<br>
 
 **Dependency ratios**<br>
-_total dependency ratio_: 88.8<br>
-_youth dependency ratio_: 75.3<br>
+_total dependency ratio_: 84.6<br>
+_youth dependency ratio_: 80.2<br>
 _elderly dependency ratio_: 4.8<br>
-_potential support ratio_: 21 (2020 est.)<br>
+_potential support ratio_: 22.5 (2021 est.)<br>
 
 **Median age**<br>
 _total_: 19.5 years<br>
@@ -198,7 +198,7 @@ _unimproved: rural_: rural: 48% of population<br>
 _unimproved: total_: total: 38.6% of population (2020 est.)<br>
 
 **HIV/AIDS - adult prevalence rate**<br>
-(2020 est.) <.1%<br>
+(2021 est.) <0.1%<br>
 
 **Major infectious diseases**<br>
 _degree of risk_: intermediate (2020)<br>
@@ -242,10 +242,10 @@ _total_: 10 years<br>
 _male_: 13 years<br>
 _female_: 8 years (2018)<br>
 
-**Unemployment, youth ages 15-24**<br>
+**Youth unemployment rate (ages 15-24)**<br>
 _total_: 16.2%<br>
 _male_: 14.5%<br>
-_female_: 21.1% (2020)<br>
+_female_: 21.1% (2020 est.)<br>
 
 ## Environment
 
@@ -474,10 +474,10 @@ _services_: 37.6% (2017 est.)<br>
 23.9% (2017 est.)<br>
 22.6% (2016 est.)<br>
 
-**Unemployment, youth ages 15-24**<br>
+**Youth unemployment rate (ages 15-24)**<br>
 _total_: 16.2%<br>
 _male_: 14.5%<br>
-_female_: 21.1% (2020)<br>
+_female_: 21.1% (2020 est.)<br>
 
 **Population below poverty line**<br>
 54.5% (2016 est.)<br>
@@ -504,7 +504,7 @@ _expenditures_: 5.328 billion (2017 est.)<br>
 11.2% (of GDP) (2017 est.)<br>
 
 **Fiscal year**<br>
-21 December - 20 December<br>
+21 March - 20 March<br>
 
 **Current account balance**<br>
 $1.014 billion (2017 est.)<br>
@@ -557,7 +557,7 @@ _electrification - rural areas_: 98% (2018)<br>
 
 **Electricity**<br>
 _installed generating capacity_: 776,000 kW (2020 est.)<br>
-_consumption_: 5,913,090,000 kWh (2019 est.)<br>
+_consumption_: 5.913 billion kWh (2019 est.)<br>
 _exports_: 0 kWh (2019 est.)<br>
 _imports_: 4.912 billion kWh (2019 est.)<br>
 _transmission/distribution losses_: 61.6 million kWh (2019 est.)<br>
@@ -729,8 +729,9 @@ _refugees (country of origin)_: 72,188 (Pakistan) (mid-year 2021)<br>
 _IDPs_: 4.314 million (mostly Pashtuns and Kuchis displaced in the south and west due to natural disasters and political instability) (2021)<br>
 
 **Trafficking in persons**<br>
-_current situation_: human traffickers exploit domestic and foreign victims and returning Afghan migrants and exploit Afghan victims abroad; internal trafficking is more prevalent than transnational trafficking; traffickers exploit men, women, and a large number of children domestically; victims are subjected to forced labor in agriculture, brick kilns, carpet weaving, domestic servitude, commercial sex, begging, poppy cultivation and harvesting, salt mining, transnational drug smuggling, and truck driving; Afghan security forces and non-state armed groups, including the pro-government militias and the Taliban, continue to unlawfully recruit and use child soldiers; sexual exploitation of boys remains pervasive nationwide, and traffickers subject some boys to sexual exploitation abroad<br>
-_tier rating_: <p>Tier 3<strong> —</strong><strong> </strong>Afghanistan does not fully comply with the minimum standards for the elimination of trafficking in persons and is not making significant efforts to do so; the government decreased law enforcement efforts against civilian and official perpetrators of trafficking, and officials complicit in recruitment and use of child soldiers and the sexual exploitation of boys continued to operate with impunity; authorities continued to arrest, detain, and penalize many trafficking victims, including punishing sex trafficking victims for “moral crimes”; the judiciary remained underfunded, understaffed, and undertrained (2020)</p><br>
+_current situation_: human traffickers exploit domestic and foreign victims in Afghanistan and exploit Afghan victims abroad; internal trafficking is more prevalent than transnational trafficking; since the Taliban takeover, vulnerabilities to exploitation have intensified; traffickers exploit men, women, and a large number of children domestically; victims are subjected to forced labor in agriculture, brick kilns, carpet weaving, domestic servitude, commercial sex, begging, poppy cultivation and harvesting, salt mining, transnational drug smuggling, and truck driving; the Taliban and non-state armed groups, such as the Islamic State in Khorasan Province (ISIS-K), continue to unlawfully recruit and use child soldiers; sexual exploitation of boys remains pervasive nationwide, and traffickers subject some boys to sexual exploitation abroad; after the Taliban takeover, restrictions on the movement of women and girls, and severely diminished access to employment and education, increased their vulnerability to trafficking; LGBTQI+ individuals are among the most vulnerable groups in Afghanistan under the Taliban<br>
+_tier rating_: <p>Tier 3<strong> —</strong> Afghanistan does not fully meet the minimum standards for the elimination of trafficking and is not making significant efforts to do so; therefore, Afghanistan remains on Tier 3; substantial personnel turnover and closing of some ministries after the August 15, 2021 Taliban takeover hindered Afghanistan’s ability to maintain consistent anti-trafficking efforts; although the pre-August 15 government took some training and awareness steps to address trafficking, it employed or recruited child soldiers and sexual slaves in government compounds; After August 15, the Taliban continued recruiting or employing child soldiers and did not investigate, prosecute, or convict any traffickers; the Taliban shut down shelters for victims, did not identify or protect victims, and did not make any efforts to prevent trafficking; Taliban undermining the rights of women, minorities, and other vulnerable populations, further exacerbated vulnerabilities to trafficking (2022)</p><br>
+<strong>note: </strong>The United States has not recognized the Taliban or another entity as the government of Afghanistan. On August 15, 2021, the Taliban culminated its takeover of Kabul, and on September 7, 2021, the Taliban announced a so-called interim government. As of December 2021, the Taliban had not outlined steps or a timeline to establish a new permanent government. All references to “the pre-August 15 government” refer to the Islamic Republic of Afghanistan. References to the Taliban reflect events both prior to and after August 15.<br>
 
 **Illicit drugs**<br>
 <p>the world’s largest producer of illicit opiates, but it is not a major supplier to the United States; 215,000 hectares (ha) of opium poppy cultivated in Afghanistan in 2020; also produces methamphetamine and cannabis products; one of the highest domestic substance abuse rates in the world</p> (2022)<br>

@@ -61,7 +61,7 @@ _forest_: 0% (2018 est.)<br>
 _other_: 94.4% (2018 est.)<br>
 
 **Irrigated land**<br>
-130 sq km (2012)<br>
+130 sq km (2020)<br>
 
 **Major aquifers**<br>
 Arabian Aquifer System<br>
@@ -102,10 +102,10 @@ _55-64 years_: 3.53% (male 66,561/female 19,600)<br>
 _65 years and over_: 1.19% (male 19,067/female 10,068) (2020 est.)<br>
 
 **Dependency ratios**<br>
-_total dependency ratio_: 18.1<br>
+_total dependency ratio_: 20.7<br>
 _youth dependency ratio_: 16.1<br>
 _elderly dependency ratio_: 2<br>
-_potential support ratio_: 50.1 (2020 est.)<br>
+_potential support ratio_: 50.1 (2021 est.)<br>
 
 **Median age**<br>
 _total_: 33.7 years<br>
@@ -188,7 +188,7 @@ _unimproved: rural_: rural: NA<br>
 _unimproved: total_: total: 0% of population (2020 est.)<br>
 
 **HIV/AIDS - adult prevalence rate**<br>
-(2020 est.) <.1%<br>
+0.2% (2021 est.)<br>
 
 **Obesity - adult prevalence rate**<br>
 35.1% (2016)<br>
@@ -222,7 +222,7 @@ _total_: 13 years<br>
 _male_: 12 years<br>
 _female_: 15 years (2020)<br>
 
-**Unemployment, youth ages 15-24**<br>
+**Youth unemployment rate (ages 15-24)**<br>
 _total_: 0.4%<br>
 _male_: 0.2%<br>
 _female_: 1.5% (2018 est.)<br>
@@ -444,7 +444,7 @@ liquefied natural gas, crude oil production and refining, ammonia, fertilizer, p
 8.9% (2017 est.)<br>
 11.1% (2016 est.)<br>
 
-**Unemployment, youth ages 15-24**<br>
+**Youth unemployment rate (ages 15-24)**<br>
 _total_: 0.4%<br>
 _male_: 0.2%<br>
 _female_: 1.5% (2018 est.)<br>

@@ -63,7 +63,7 @@ _forest_: 36.8% (2018 est.)<br>
 _other_: 9.1% (2018 est.)<br>
 
 **Irrigated land**<br>
-38,000 sq km (2012)<br>
+37,593 sq km (2020)<br>
 
 **Major rivers (by length in km)**<br>
 Tagus river source (shared with Portugal [m]) - 1,006<br><strong>note</strong> – [s] after country name indicates river source; [m] after country name indicates river mouth<br>
@@ -107,8 +107,8 @@ _65 years and over_: 18.49% (male 3,970,417/female 5,276,984) (2020 est.)<br>
 **Dependency ratios**<br>
 _total dependency ratio_: 52.4<br>
 _youth dependency ratio_: 21.9<br>
-_elderly dependency ratio_: 30.4<br>
-_potential support ratio_: 3.3 (2020 est.)<br>
+_elderly dependency ratio_: 30.2<br>
+_potential support ratio_: 3.3 (2021 est.)<br>
 
 **Median age**<br>
 _total_: 43.9 years<br>
@@ -196,17 +196,17 @@ _unimproved: rural_: rural: 0% of population<br>
 _unimproved: total_: total: 0% of population (2020 est.)<br>
 
 **HIV/AIDS - adult prevalence rate**<br>
-0.4% (2020 est.)<br>
+0.3% (2021 est.)<br>
 
 **Major infectious diseases**<br>
 _respiratory diseases_: Covid-19 (see note) (2020)<br>
-<strong>note:</strong> widespread ongoing transmission of a respiratory illness caused by the novel coronavirus (COVID-19) is occurring throughout Spain; as of 18 August 2022, Spain has reported a total of 13,306,301 cases of COVID-19 or 28,112.33 cumulative cases of COVID-19 per 100,000 population with a total of 111,906 cumulative deaths or a rate of 236.42 cumulative deaths per 100,000 population; as of 10 August 2022, 86.94% of the population has received at least one dose of COVID-19 vaccine; the Department of Homeland Security has issued instructions requiring US passengers who have been in Spain to travel through select airports where the US Government has implemented enhanced screening procedures<br>
+<strong>note:</strong> widespread ongoing transmission of a respiratory illness caused by the novel coronavirus (COVID-19) is occurring throughout Spain; as of 18 August 2022, Spain has reported a total of 13,306,301 cases of COVID-19 or 28,112.33 cumulative cases of COVID-19 per 100,000 population with a total of 111,906 cumulative deaths or a rate of 236.42 cumulative deaths per 100,000 population; as of 10 August 2022, 86.94% of the population has received at least one dose of COVID-19 vaccine; the US Department of Homeland Security has issued instructions requiring US passengers who have been in Spain to travel through select airports where the US Government has implemented enhanced screening procedures<br>
 
 **Obesity - adult prevalence rate**<br>
 23.8% (2016)<br>
 
 **Alcohol consumption per capita**<br>
-_total_: 10.73 liters of pure alcohol (2019 est.)<br>
+_total_: 10.72 liters of pure alcohol (2019 est.)<br>
 _beer_: 4.67 liters of pure alcohol (2019 est.)<br>
 _wine_: 3.52 liters of pure alcohol (2019 est.)<br>
 _spirits_: 2.34 liters of pure alcohol (2019 est.)<br>
@@ -234,7 +234,7 @@ _total_: 18 years<br>
 _male_: 17 years<br>
 _female_: 18 years (2019)<br>
 
-**Unemployment, youth ages 15-24**<br>
+**Youth unemployment rate (ages 15-24)**<br>
 _total_: 38.3%<br>
 _male_: 37.1%<br>
 _female_: 39.7% (2020 est.)<br>
@@ -277,7 +277,7 @@ _coal revenues_: 0% of GDP (2018 est.)<br>
 
 **Major infectious diseases**<br>
 _respiratory diseases_: Covid-19 (see note) (2020)<br>
-<strong>note:</strong> widespread ongoing transmission of a respiratory illness caused by the novel coronavirus (COVID-19) is occurring throughout Spain; as of 18 August 2022, Spain has reported a total of 13,306,301 cases of COVID-19 or 28,112.33 cumulative cases of COVID-19 per 100,000 population with a total of 111,906 cumulative deaths or a rate of 236.42 cumulative deaths per 100,000 population; as of 10 August 2022, 86.94% of the population has received at least one dose of COVID-19 vaccine; the Department of Homeland Security has issued instructions requiring US passengers who have been in Spain to travel through select airports where the US Government has implemented enhanced screening procedures<br>
+<strong>note:</strong> widespread ongoing transmission of a respiratory illness caused by the novel coronavirus (COVID-19) is occurring throughout Spain; as of 18 August 2022, Spain has reported a total of 13,306,301 cases of COVID-19 or 28,112.33 cumulative cases of COVID-19 per 100,000 population with a total of 111,906 cumulative deaths or a rate of 236.42 cumulative deaths per 100,000 population; as of 10 August 2022, 86.94% of the population has received at least one dose of COVID-19 vaccine; the US Department of Homeland Security has issued instructions requiring US passengers who have been in Spain to travel through select airports where the US Government has implemented enhanced screening procedures<br>
 
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 20.151 million tons (2015 est.)<br>
@@ -355,7 +355,7 @@ _election results_: percent of National Assembly vote - NA<br>
 **Legislative branch**<br>
 _description_: bicameral General Courts or Las Cortes Generales consists of:<br>Senate or Senado (265 seats; 208 members directly elected in multi-seat constituencies by simple majority vote and 57 members indirectly elected by the legislatures of the autonomous communities; members serve 4-year terms)<br>Congress of Deputies or Congreso de los Diputados (350 seats; 348 members directly elected in 50 multi-seat constituencies by closed-list proportional representation vote, with a 3% threshold needed to gain a seat, and 2 directly elected from the North African Ceuta and Melilla enclaves by simple majority vote; members serve 4-year terms or until the government is dissolved)<br>
 _elections_: <br>Senate - last held on 10 November 2019 (next to be held no later than 30 November 2023)<br>Congress of Deputies - last held on 10 November 2019 (next to be held no later than 30 November 2023)<br>
-_election results_: <br>Senate - percent of vote by party - NA; seats by party - PSOE 113, PP 101, ERC 14, PNV 10, Cs 3, Junts 5, Vox 3, other 16; composition (as of mid-2022) - men 161, women 104; percent of women 39.3%<br>Congress of Deputies - percent of vote by party - PSOE 34.3%, PP 25.1%, Vox 14.9%, UP 9.4%, Cs 2.6%, ERC 3.7%, PNV 10, EH-Bildu 1.4, other 7.4%; seats by party - PSOE 120, PP 88, Vox 52, UP 33, Cs 9, ERC 13, PNV 6, EH-Bildu 5, other 26; composition (as mid-2022, 349 members) - men 199, women 150, percent of women 43%; note - overall General Courts percent of women 42%<br>
+_election results_: <br>Senate - percent of vote by party - NA; seats by party - PSOE 113, PP 101, ERC 14, PNV 10, Junts 5, Cs 3, Vox 3, other 16; composition (as of mid-2022) - men 161, women 104; percent of women 39.3%<br>Congress of Deputies - percent of vote by party - PSOE 34.3%, PP 25.1%, Vox 14.9%, UP 9.4%, ERC 3.7%, Cs 2.9%, PNV 1.7%, EH-Bildu 1.4%, other 4.3%; seats by party - PSOE 120, PP 88, Vox 52, UP 33, ERC 13, Cs 9, PNV 6, EH-Bildu 5, other 15; men 196, women 154, percent of women 44%; note - overall General Courts percent of women 42%<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme Court or Tribunal Supremo (consists of the court president and organized into the Civil Room, with a president and 9 judges; the Penal Room, with a president and 14 judges; the Administrative Room, with a president and 32 judges; the Social Room, with a president and 12 judges; and the Military Room, with a president and 7 judges); Constitutional Court or Tribunal Constitucional de Espana (consists of 12 judges)<br>
@@ -373,7 +373,7 @@ _chief of mission_: Ambassador Santiago CABANAS Ansorena (since 17 September 201
 _chancery_: 2375 Pennsylvania Avenue NW, Washington, DC 20037<br>
 _telephone_: [1] (202) 452-0100<br>
 _FAX_: [1] (202) 833-5670<br>
-_email address and website_: <br>emb.washington@maec.es<br><br>http://www.exteriores.gob.es/embajadas/washington/en/pages/inicio2.aspx<br>
+_email address and website_: <br>emb.washington@maec.es<br>http://www.exteriores.gob.es/embajadas/washington/en/pages/inicio2.aspx<br>
 _consulate(s) general_: Boston, Chicago, Houston, Los Angeles, Miami, New York, San Francisco, San Juan (Puerto Rico)<br>
 
 **Diplomatic representation from the US**<br>
@@ -382,7 +382,7 @@ _embassy_: Calle de Serrano, 75, 28006 Madrid<br>
 _mailing address_: 8500 Madrid Place, Washington DC&nbsp; 20521-8500<br>
 _telephone_: [34] (91) 587-2200<br>
 _FAX_: [34] (91) 587-2303<br>
-_email address and website_: <br>askACS@state.gov<br><br>https://es.usembassy.gov/<br>
+_email address and website_: <br>askACS@state.gov<br>https://es.usembassy.gov/<br>
 _consulate(s) general_: Barcelona<br>
 
 **Flag description**<br>
@@ -404,12 +404,12 @@ _selected World Heritage Site locales_: Cave of Altamira and Paleolithic Cave Ar
 ## Economy
 
 **Economic overview**<br>
-<p>After a prolonged recession that began in 2008 in the wake of the global financial crisis, Spain marked the fourth full year of positive economic growth in 2017, with economic activity surpassing its pre-crisis peak, largely because of increased private consumption. The financial crisis of 2008 broke 16 consecutive years of economic growth for Spain, leading to an economic contraction that lasted until late 2013. In that year, the government successfully shored up its struggling banking sector - heavily exposed to the collapse of Spain’s real estate boom - with the help of an EU-funded restructuring and recapitalization program.</p> <p> </p> <p>Until 2014, contraction in bank lending, fiscal austerity, and high unemployment constrained domestic consumption and investment. The unemployment rate rose from a low of about 8% in 2007 to more than 26% in 2013, but labor reforms prompted a modest reduction to 16.4% in 2017. High unemployment strained Spain's public finances, as spending on social benefits increased while tax revenues fell. Spain’s budget deficit peaked at 11.4% of GDP in 2010, but Spain gradually reduced the deficit to about 3.3% of GDP in 2017. Public debt has increased substantially – from 60.1% of GDP in 2010 to nearly 96.7% in 2017.</p> <p> </p> <p>Strong export growth helped bring Spain's current account into surplus in 2013 for the first time since 1986 and sustain Spain’s economic growth. Increasing labor productivity and an internal devaluation resulting from moderating labor costs and lower inflation have improved Spain’s export competitiveness and generated foreign investor interest in the economy, restoring FDI flows.</p> <p> </p> <p>In 2017, the Spanish Government’s minority status constrained its ability to implement controversial labor, pension, health care, tax, and education reforms. The European Commission expects the government to meet its 2017 budget deficit target and anticipates that expected economic growth in 2018 will help the government meet its deficit target. Spain’s borrowing costs are dramatically lower since their peak in mid-2012, and increased economic activity has generated a modest level of inflation, at 2% in 2017.</p><br>
+<p>After a prolonged recession that began in 2008 in the wake of the global financial crisis, Spain marked the fourth full year of positive economic growth in 2017, with economic activity surpassing its pre-crisis peak, largely because of increased private consumption. The financial crisis of 2008 broke 16 consecutive years of economic growth for Spain, leading to an economic contraction that lasted until late 2013. In that year, the government successfully shored up its struggling banking sector - heavily exposed to the collapse of Spain’s real estate boom - with the help of an EU-funded restructuring and recapitalization program.</p> <p>Until 2014, contraction in bank lending, fiscal austerity, and high unemployment constrained domestic consumption and investment. The unemployment rate rose from a low of about 8% in 2007 to more than 26% in 2013, but labor reforms prompted a modest reduction to 16.4% in 2017. High unemployment strained Spain's public finances, as spending on social benefits increased while tax revenues fell. Spain’s budget deficit peaked at 11.4% of GDP in 2010, but Spain gradually reduced the deficit to about 3.3% of GDP in 2017. Public debt has increased substantially – from 60.1% of GDP in 2010 to nearly 96.7% in 2017.</p> <p>Strong export growth helped bring Spain's current account into surplus in 2013 for the first time since 1986 and sustain Spain’s economic growth. Increasing labor productivity and an internal devaluation resulting from moderating labor costs and lower inflation have improved Spain’s export competitiveness and generated foreign investor interest in the economy, restoring FDI flows.</p> <p>In 2017, the Spanish Government’s minority status constrained its ability to implement controversial labor, pension, health care, tax, and education reforms. The European Commission expects the government to meet its 2017 budget deficit target and anticipates that expected economic growth in 2018 will help the government meet its deficit target. Spain’s borrowing costs are dramatically lower since their peak in mid-2012 and increased economic activity has generated a modest level of inflation, at 2% in 2017.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
-$1,714,860,000,000 (2020 est.)<br>
-$1,923,330,000,000 (2019 est.)<br>
-$1,886,540,000,000 (2018 est.)<br>
+$1.715 billion (2020 est.)<br>
+$1.923 billion (2019 est.)<br>
+$1.887 billion (2018 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
@@ -451,7 +451,7 @@ _exports of goods and services_: 34.1% (2017 est.)<br>
 _imports of goods and services_: -31.4% (2017 est.)<br>
 
 **Agricultural products**<br>
-barley, milk, wheat, olives, grapes, tomatoes, pork, maize, oranges, sugar beet<br>
+barley, milk, wheat, olives, grapes, tomatoes, pork, maize, oranges, sugar beets<br>
 
 **Industries**<br>
 textiles and apparel (including footwear), food and beverages, metals and metal manufactures, chemicals, shipbuilding, automobiles, machine tools, tourism, clay and refractory products, footwear, pharmaceuticals, medical equipment<br>
@@ -471,7 +471,7 @@ _services_: 71.7% (2009)<br>
 14.13% (2019 est.)<br>
 15.25% (2018 est.)<br>
 
-**Unemployment, youth ages 15-24**<br>
+**Youth unemployment rate (ages 15-24)**<br>
 _total_: 38.3%<br>
 _male_: 37.1%<br>
 _female_: 39.7% (2020 est.)<br>
@@ -509,12 +509,12 @@ $29.603 billion (2019 est.)<br>
 $27.206 billion (2018 est.)<br>
 
 **Exports**<br>
-$392.85 billion (2020 est.) note: data are in current year dollars<br>
-$486.15 billion (2019 est.) note: data are in current year dollars<br>
-$499.55 billion (2018 est.) note: data are in current year dollars<br>
+$392.85 billion (2020 est.) ; note: data are in current year dollars<br>
+$486.15 billion (2019 est.) ; note: data are in current year dollars<br>
+$499.55 billion (2018 est.) ; note: data are in current year dollars<br>
 
 **Exports - partners**<br>
-France 15%, Germany 11%, Portugal 8%, Italy 8%, United Kingdom 7%, United States 5% (2019)<br>
+France 15%, Germany 11%, Italy 8%, Portugal 8%, United Kingdom 7%, United States 5% (2019)<br>
 
 **Exports - commodities**<br>
 cars and vehicle parts, refined petroleum, packaged medicines, delivery trucks, clothing and apparel (2019)<br>
@@ -535,8 +535,8 @@ $69.41 billion (31 December 2017 est.)<br>
 $63.14 billion (31 December 2016 est.)<br>
 
 **Debt - external**<br>
-$2,338,853,000,000 (2019 est.)<br>
-$2,366,534,000,000 (2018 est.)<br>
+$2.338 billion (2019 est.)<br>
+$2.366 billion (2018 est.)<br>
 
 **Exchange rates**<br>
 _Currency_: euros (EUR) per US dollar -<br>
@@ -592,10 +592,10 @@ _crude oil estimated reserves_: 150 million barrels (2021 est.)<br>
 464,800 bbl/day (2017 est.)<br>
 
 **Natural gas**<br>
-_production_: 57.993 million cubic meters (2020 est.)<br>
-_consumption_: 32,026,216,000 cubic meters (2020 est.)<br>
-_exports_: 1,185,285,000 cubic meters (2020 est.)<br>
-_imports_: 32,489,309,000 cubic meters (2020 est.)<br>
+_production_: 57.99 million cubic meters (2020 est.)<br>
+_consumption_: 32.03 billion cubic meters (2020 est.)<br>
+_exports_: 1.185 billion cubic meters (2020 est.)<br>
+_imports_: 32.489 billion cubic meters (2020 est.)<br>
 _proven reserves_: 2.549 billion cubic meters (2021 est.)<br>
 
 **Carbon dioxide emissions**<br>
@@ -643,7 +643,7 @@ _subscriptions per 100 inhabitants_: 35 (2020 est.)<br>
 _number of registered air carriers_: 21 (2020)<br>
 _inventory of registered aircraft operated by air carriers_: 552<br>
 _annual passenger traffic on registered air carriers_: 80,672,105 (2018)<br>
-_annual freight traffic on registered air carriers_: 1,117,070,000 (2018) mt-km<br>
+_annual freight traffic on registered air carriers_: 1.117 billion (2018) mt-km<br>
 
 **Civil aircraft registration country code prefix**<br>
 EC<br>
@@ -719,11 +719,11 @@ the inventory of the Spanish military is comprised of domestically-produced and 
 <strong>note 1:</strong> as of 2019, women comprised about 13% of the military's full-time personnel<br><br><strong>note 2:</strong> the military recruits foreign nationals with residency in Spain from countries of its former empire, including Argentina, Costa Rica, Bolivia, Colombia, Chile, Cuba, Dominican Republic, Ecuador, El Salvador, Equatorial Guinea, Guatemala, Honduras, Mexico, Nicaragua, Panama, Paraguay, Peru, Uruguay, and Venezuela<br>
 
 **Military deployments**<br>
-approximately 200 Iraq (NATO/EU training assistance); up to 600 Latvia (NATO); 650 Lebanon (UNIFIL); approximately 500 Mali (EUTM); 150 Turkey (NATO) (2022)<br>
+approximately 200 Iraq (NATO/EU training assistance); up to 600 Latvia (NATO); 650 Lebanon (UNIFIL); approximately 200 Romania (NATO); approximately 500 Mali (EUTM); 150 Turkey (NATO) (2022)<br>
 <strong>note: </strong>in response to Russia’s invasion of Ukraine, some NATO countries, including Spain, have sent additional troops and equipment to the battlegroups deployed in NATO territory in eastern Europe<br>
 
 **Military - note**<br>
-Spain joined NATO in 1982 but refrained from participating in the integrated military structure until 1996<br><br>the Spanish Marine Corps, established in 1537, is the oldest marine corps in the world; the Spanish Army has an infantry regiment, formed in the 13th century, that is considered the oldest still active military unit in the western world<br><br>Spain created a Spanish Legion for foreigners in 1920, but early on the Legion was primarily filled by native Spaniards due to difficulties in recruiting foreigners and most of its foreign members were from the Republic of Cuba; it was modeled after the French Foreign Legion and its purpose was to provide a corps of professional troops to fight in Spain's colonial campaigns in North Africa; in more recent years, it has been used in NATO peacekeeping deployments; today’s Legion includes a mix of native Spaniards and foreigners with Spanish residency (2022)<br>
+Spain joined NATO in 1982 but refrained from participating in the integrated military structure until 1996; the Spanish Marine Corps, established in 1537, is the oldest marine corps in the world; the Spanish Army has an infantry regiment, formed in the 13th century, that is considered the oldest still active military unit in the western world<br><br>Spain created a Spanish Legion for foreigners in 1920, but early on the Legion was primarily filled by native Spaniards due to difficulties in recruiting foreigners and most of its foreign members were from the Republic of Cuba; it was modeled after the French Foreign Legion and its purpose was to provide a corps of professional troops to fight in Spain's colonial campaigns in North Africa; in more recent years, it has been used in NATO peacekeeping deployments; today’s Legion includes a mix of native Spaniards and foreigners with Spanish residency (2022)<br>
 
 ## Terrorism
 
@@ -737,10 +737,10 @@ Islamic State of Iraq and ash-Sham (ISIS); al-Qa’ida<br>
 <p><em>Spain-Andorra</em>: none identified</p> <p><em>Spain-France</em>: none identified</p> <p><em>Spain-Gibraltar (UK)</em>: in 2002, Gibraltar residents voted overwhelmingly by referendum to reject any "shared sovereignty" arrangement; the Government of Gibraltar insists on equal participation in talks between the UK and Spain; Spain does not recognize British sovereignty beyond the original fortified perimeter of the city and disapproves of UK plans to grant Gibraltar greater autonomy; after voters in the UK chose to leave the EU in a June 2016 referendum, Spain again proposed shared sovereignty of Gibraltar; UK officials rejected Spain’s joint sovereignty proposal</p> <p><em>Spain-Morocco</em>: Morocco protests Spain's control over the coastal enclaves of Ceuta, Melilla, and the islands of Penon de Velez de la Gomera, Penon de Alhucemas, and Islas Chafarinas, and surrounding waters; both countries claim Isla Perejil (Leila Island), which remains unoccupied but was the site of a  military standoff in 2002; Morocco serves as the primary embarkation area for illegal migration into mainland Spain from North Africa</p> <p><em>Spain-Portugal</em>: Portugal does not recognize Spanish sovereignty over the territory of Olivenza based on a difference of interpretation of the 1815 Congress of Vienna and the 1801 Treaty of Badajoz</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 14,823 (Syria) (mid-year 2021); 418,200 (Venezuela) (economic and political crisis; includes Venezuelans who have claimed asylum, are recognized as refugees, or have received alternative legal stay) (2021); 154,457 (Ukraine) (as of 21 November 2022)<br>
+_refugees (country of origin)_: 14,823 (Syria) (mid-year 2021); 418,200 (Venezuela) (economic and political crisis; includes Venezuelans who have claimed asylum, are recognized as refugees, or have received alternative legal stay) (2021); 155,473 (Ukraine) (as of 27 November 2022)<br>
 _stateless persons_: 692 (mid-year 2021)<br>
-<strong>note: </strong>276,683 estimated refugee and migrant arrivals, including Canary Islands (January 2015-November 2022)<br>
+<strong>note: </strong>276,899 estimated refugee and migrant arrivals, including Canary Islands (January 2015-November 2022)<br>
 
 **Illicit drugs**<br>
-primary transit point in Europe for cocaine from South America and for hashish from Morocco; cocaine is shipped in raw or liquid form with mixed cargo to avoid detection; traffickers ship methamphetamine via express mail; increasing number of indoor cannabis production; illegal labs cutting, mixing, and reconstituting cocaine, and heroin and methamphetamine labs; synthetic drugs, including ketamine and MDMA (ecstasy) transit from Spain to the United States<br>
+primary transit point in Europe for cocaine from South America and for hashish from Morocco; cocaine is shipped in raw or liquid form with mixed cargo to avoid detection; traffickers ship methamphetamine via express mail; increasing indoor cannabis production; illegal labs cutting, mixing, and reconstituting cocaine, heroin, and methamphetamine labs; synthetic drugs, including ketamine and MDMA (ecstasy) transit from Spain to the US<br>
 

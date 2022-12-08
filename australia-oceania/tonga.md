@@ -59,7 +59,7 @@ _forest_: 12.5% (2018 est.)<br>
 _other_: 44.4% (2018 est.)<br>
 
 **Irrigated land**<br>
-0 sq km (2012)<br>
+0 sq km (2022)<br>
 
 **Population distribution**<br>
 over two-thirds of the population lives on the island of Tongatapu; only 45 of the nation's 171 islands are occupied<br>
@@ -98,9 +98,9 @@ _65 years and over_: 6.83% (male 3,249/female 3,994) (2020 est.)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 68.6<br>
-_youth dependency ratio_: 58.6<br>
-_elderly dependency ratio_: 10<br>
-_potential support ratio_: 10 (2020 est.)<br>
+_youth dependency ratio_: 58.5<br>
+_elderly dependency ratio_: 10.5<br>
+_potential support ratio_: 9.5 (2021 est.)<br>
 
 **Median age**<br>
 _total_: 24.1 years<br>
@@ -228,7 +228,7 @@ _total_: 16 years<br>
 _male_: 15 years<br>
 _female_: 17 years (2020)<br>
 
-**Unemployment, youth ages 15-24**<br>
+**Youth unemployment rate (ages 15-24)**<br>
 _total_: 8.9%<br>
 _male_: 5.7%<br>
 _female_: 13.1% (2018)<br>
@@ -435,7 +435,7 @@ _services_: 2,006% (2006 est.)<br>
 1.1% (2011 est.)<br>
 1.1% (2006)<br>
 
-**Unemployment, youth ages 15-24**<br>
+**Youth unemployment rate (ages 15-24)**<br>
 _total_: 8.9%<br>
 _male_: 5.7%<br>
 _female_: 13.1% (2018)<br>

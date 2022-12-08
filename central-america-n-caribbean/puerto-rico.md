@@ -98,10 +98,10 @@ _55-64 years_: 13.5% (male 197,438/female 232,931)<br>
 _65 years and over_: 21.77% (male 297,749/female 396,551) (2020 est.)<br>
 
 **Dependency ratios**<br>
-_total dependency ratio_: 57.7<br>
-_youth dependency ratio_: 24.8<br>
-_elderly dependency ratio_: 32.8<br>
-_potential support ratio_: 3 (2020 est.)<br>
+_total dependency ratio_: 56.3<br>
+_youth dependency ratio_: 21.3<br>
+_elderly dependency ratio_: 34.9<br>
+_potential support ratio_: 2.9 (2021 est.)<br>
 
 **Median age**<br>
 _total_: 43.6 years<br>
@@ -200,7 +200,7 @@ _total_: 16 years<br>
 _male_: 15 years<br>
 _female_: 18 years (2018)<br>
 
-**Unemployment, youth ages 15-24**<br>
+**Youth unemployment rate (ages 15-24)**<br>
 _total_: 26.6%<br>
 _male_: 28.9%<br>
 _female_: 23.1% (2012 est.)<br>
@@ -398,7 +398,7 @@ _services_: 79% (2005 est.)<br>
 10.8% (2017 est.)<br>
 11.8% (2016 est.)<br>
 
-**Unemployment, youth ages 15-24**<br>
+**Youth unemployment rate (ages 15-24)**<br>
 _total_: 26.6%<br>
 _male_: 28.9%<br>
 _female_: 23.1% (2012 est.)<br>

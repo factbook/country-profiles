@@ -106,7 +106,7 @@ _65 years and over_: 2.53% (male 153,502/female 113,930) (2020 est.)<br>
 _total dependency ratio_: 80.8<br>
 _youth dependency ratio_: 74.7<br>
 _elderly dependency ratio_: 6.1<br>
-_potential support ratio_: 16.5 (2020 est.)<br>
+_potential support ratio_: 18.4 (2021 est.)<br>
 
 **Median age**<br>
 _total_: 18.6 years<br>
@@ -183,7 +183,7 @@ _unimproved: rural_: rural: 84.5% of population<br>
 _unimproved: total_: total: 75.4% of population (2020 est.)<br>
 
 **HIV/AIDS - adult prevalence rate**<br>
-2.3% (2020 est.)<br>
+2.1% (2021 est.)<br>
 
 **Major infectious diseases**<br>
 _degree of risk_: very high (2020)<br>
@@ -209,7 +209,7 @@ _total population_: 34.5%<br>
 _male_: 40.3%<br>
 _female_: 28.9% (2018)<br>
 
-**Unemployment, youth ages 15-24**<br>
+**Youth unemployment rate (ages 15-24)**<br>
 _total_: 38.6%<br>
 _male_: 39.5%<br>
 _female_: 37.4% (2017 est.)<br>
@@ -255,7 +255,7 @@ _respiratory diseases_: meningococcal meningitis<br>
 <strong>note: </strong>on 21 March 2022, the US Centers for Disease Control and Prevention (CDC) issued a Travel Alert for polio in Africa; South Sudan is currently considered a high risk to travelers for circulating vaccine-derived polioviruses (cVDPV); vaccine-derived poliovirus (VDPV) is a strain of the weakened poliovirus that was initially included in oral polio vaccine (OPV) and <em>that has changed over time and behaves more like the wild or naturally occurring virus</em>; this means it can be spread more easily to people who are unvaccinated against polio and who come in contact with the stool or respiratory secretions, such as from a sneeze, of an “infected” person who received oral polio vaccine; the CDC recommends that before any international travel, anyone unvaccinated, incompletely vaccinated, or with an unknown polio vaccination status should complete the routine polio vaccine series; before travel to any high-risk destination, the CDC recommends that adults who previously completed the full, routine polio vaccine series receive a single, lifetime booster dose of polio vaccine<br>
 
 **Food insecurity**<br>
-_widespread lack of access_: <em>due to economic downturn, civil insecurity, lingering impact of floods and prolonged conflict -</em> despite sustained humanitarian assistance, food insecurity still affects large segments of the population, driven by macroeconomic challenges that have resulted in rampant food and non-food inflation, insufficient food supplies due to a stagnant agricultural production, livelihood losses owing to consecutive years with widespread floods and the escalation of organized violence at the sub-national level since 2020; about 7.74 million people, approximately 63% of the total population, are estimated to be severely food insecure during the lean season between April and July 2022 (2022)<br>
+_widespread lack of access_: <em>due to economic downturn, civil insecurity, lingering impact of floods and prolonged conflict -</em> despite sustained humanitarian assistance, food insecurity still affects large segments of the population, driven by macroeconomic challenges that have resulted in rampant food and non-food inflation, insufficient food supplies due to a stagnant agricultural production, livelihood losses owing to consecutive years with widespread floods and the escalation of organized violence at the sub-national level since 2020; about 7.74 million people, approximately 63% of the total population, were estimated to be severely food insecure during the lean season between April and July 2022 (2022)<br>
 
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 2,680,681 tons (2013 est.)<br>
@@ -400,7 +400,7 @@ _imports of goods and services_: -27.2% (2011 est.)<br>
 **Agricultural products**<br>
 milk, sorghum, vegetables, cassava, goat milk, fruit, beef, sesame seed, sheep milk, mutton<br>
 
-**Unemployment, youth ages 15-24**<br>
+**Youth unemployment rate (ages 15-24)**<br>
 _total_: 38.6%<br>
 _male_: 39.5%<br>
 _female_: 37.4% (2017 est.)<br>

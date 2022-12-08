@@ -61,7 +61,7 @@ _forest_: 0.8% (2018 est.)<br>
 _other_: 81.8% (2018 est.)<br>
 
 **Irrigated land**<br>
-13,600 sq km (2014)<br>
+12,605 sq km (2016)<br>
 
 **Major watersheds (area sq km)**<br>
 Atlantic Ocean drainage: Niger (2,261,741 sq km)<br>Internal <em>(endorheic basin) </em>drainage: Lake Chad (2,497,738 sq km)<br>
@@ -109,10 +109,10 @@ _55-64 years_: 7.41% (male 1,599,369/female 1,585,233)<br>
 _65 years and over_: 6.17% (male 1,252,084/female 1,401,357) (2020 est.)<br>
 
 **Dependency ratios**<br>
-_total dependency ratio_: 60.1<br>
-_youth dependency ratio_: 49.3<br>
-_elderly dependency ratio_: 10.8<br>
-_potential support ratio_: 9.3 (2020 est.)<br>
+_total dependency ratio_: 58.5<br>
+_youth dependency ratio_: 48.7<br>
+_elderly dependency ratio_: 9.8<br>
+_potential support ratio_: 10.2 (2021 est.)<br>
 
 **Median age**<br>
 _total_: 28.9 years<br>
@@ -195,7 +195,7 @@ _unimproved: rural_: rural: 8.7% of population<br>
 _unimproved: total_: total: 3.5% of population (2020 est.)<br>
 
 **HIV/AIDS - adult prevalence rate**<br>
-(2020 est.) <0.1%<br>
+(2021 est.) <0.1%<br>
 
 **Obesity - adult prevalence rate**<br>
 27.4% (2016)<br>
@@ -233,7 +233,7 @@ _total_: 14 years<br>
 _male_: 14 years<br>
 _female_: 15 years (2011)<br>
 
-**Unemployment, youth ages 15-24**<br>
+**Youth unemployment rate (ages 15-24)**<br>
 _total_: 39.3%<br>
 _male_: 33.1%<br>
 _female_: 82% (2017 est.)<br>
@@ -460,7 +460,7 @@ _services_: 58.4% (2011 est.)<br>
 11.7% (2017 est.)<br>
 10.5% (2016 est.)<br>
 
-**Unemployment, youth ages 15-24**<br>
+**Youth unemployment rate (ages 15-24)**<br>
 _total_: 39.3%<br>
 _male_: 33.1%<br>
 _female_: 82% (2017 est.)<br>

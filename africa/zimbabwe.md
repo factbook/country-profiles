@@ -108,10 +108,10 @@ _55-64 years_: 4.07% (male 227,506/female 363,824)<br>
 _65 years and over_: 4.52% (male 261,456/female 396,396) (2020 est.)<br>
 
 **Dependency ratios**<br>
-_total dependency ratio_: 81.6<br>
-_youth dependency ratio_: 76.1<br>
-_elderly dependency ratio_: 5.5<br>
-_potential support ratio_: 18.3 (2020 est.)<br>
+_total dependency ratio_: 79.4<br>
+_youth dependency ratio_: 73.4<br>
+_elderly dependency ratio_: 6<br>
+_potential support ratio_: 16.6 (2021 est.)<br>
 
 **Median age**<br>
 _total_: 20.5 years<br>
@@ -198,7 +198,7 @@ _unimproved: rural_: rural: 51% of population<br>
 _unimproved: total_: total: 35.8% of population (2017 est.)<br>
 
 **HIV/AIDS - adult prevalence rate**<br>
-11.9% (2020 est.)<br>
+11.6% (2021 est.)<br>
 
 **Major infectious diseases**<br>
 _degree of risk_: high (2020)<br>
@@ -244,7 +244,7 @@ _total_: 11 years<br>
 _male_: 12 years<br>
 _female_: 11 years (2013)<br>
 
-**Unemployment, youth ages 15-24**<br>
+**Youth unemployment rate (ages 15-24)**<br>
 _total_: 27.5%<br>
 _male_: 25%<br>
 _female_: 31.4% (2019 est.)<br>
@@ -292,7 +292,7 @@ _water contact diseases_: schistosomiasis<br>
 _animal contact diseases_: rabies<br>
 
 **Food insecurity**<br>
-_widespread lack of access_: <em><em>due to high food prices and </em></em><em>cereal production downturn </em><em>-</em> based on the current situation, the prevalence of food insecurity is foreseen to increase from the latest assessment that estimated 2.5 to 3 million people in need of humanitarian assistance during the peak of the lean season between February and May 2022; this most likely scenario predominantly reflects the impact of the downturn in domestic food production and rising costs of food; the forecasted slowdown in economic growth in 2022 and the lingering impacts of the COVID‑19 pandemic present further downside risks to food security in 2022-2023; the decline in economic growth is seen to continue to adversely affect employment and livelihood opportunities, with negative implications for households’ income and their ability to purchase foods (2022)<br>
+_widespread lack of access_: <em><em>due to high food prices and </em></em><em>cereal production downturn </em><em>-</em> based on a government assessment, an estimated 3.8 million people are expected to be in need of humanitarian assistance between January and March 2023, this number is higher than the level estimated in the first quarter of 2022; the downturn in food security conditions is largely on account of poor food access due to prevailing high food prices and reduced incomes owing to the effects of an economic downturn; a decline in cereal production in 2022 has also aggravated conditions (2022)<br>
 
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 1,449,752 tons (2015 est.)<br>
@@ -479,7 +479,7 @@ _services_: 25.2% (2017 est.)<br>
 80% (2005 est.)<br>
 <strong>note:</strong> data include both unemployment and underemployment; true unemployment is unknown and, under current economic conditions, unknowable<br>
 
-**Unemployment, youth ages 15-24**<br>
+**Youth unemployment rate (ages 15-24)**<br>
 _total_: 27.5%<br>
 _male_: 25%<br>
 _female_: 31.4% (2019 est.)<br>

@@ -102,9 +102,9 @@ _65 years and over_: 16.22% (male 249,624/female 372,594) (2020 est.)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 48<br>
-_youth dependency ratio_: 21.5<br>
-_elderly dependency ratio_: 26.5<br>
-_potential support ratio_: 3.8 (2020 est.)<br>
+_youth dependency ratio_: 22.3<br>
+_elderly dependency ratio_: 27.1<br>
+_potential support ratio_: 3.7 (2021 est.)<br>
 
 **Median age**<br>
 _total_: 43.3 years<br>
@@ -190,7 +190,7 @@ _unimproved: rural_: rural: NA<br>
 _unimproved: total_: total: (2020 est.) NA<br>
 
 **HIV/AIDS - adult prevalence rate**<br>
-(2018) <.1%<br>
+NA<br>
 
 **Obesity - adult prevalence rate**<br>
 17.9% (2016)<br>
@@ -224,7 +224,7 @@ _total_: 14 years<br>
 _male_: 14 years<br>
 _female_: 15 years (2014)<br>
 
-**Unemployment, youth ages 15-24**<br>
+**Youth unemployment rate (ages 15-24)**<br>
 _total_: 36.6%<br>
 _male_: 32.5%<br>
 _female_: 42.8% (2020 est.)<br>
@@ -455,7 +455,7 @@ _services_: 51.7% (2017 est.)<br>
 35.97% (2018 est.)<br>
 <strong>note:</strong> official rate; actual rate is lower as many technically unemployed persons work in the gray economy<br>
 
-**Unemployment, youth ages 15-24**<br>
+**Youth unemployment rate (ages 15-24)**<br>
 _total_: 36.6%<br>
 _male_: 32.5%<br>
 _female_: 42.8% (2020 est.)<br>
@@ -710,7 +710,7 @@ Islamic Revolutionary Guard Corps/Qods Force<br>
 _refugees (country of origin)_: 5,112 (Croatia) (2020)<br>
 _IDPs_: 92,000 (Bosnian Croats, Serbs, and Bosniaks displaced by inter-ethnic violence, human rights violations, and armed conflict during the 1992-95 war) (2021)<br>
 _stateless persons_: 149 (mid-year 2021)<br>
-<strong>note: </strong>108,942 estimated refugee and migrant arrivals (January 2015-November 2022)<br>
+<strong>note: </strong>109,285 estimated refugee and migrant arrivals (January 2015-November 2022)<br>
 
 **Illicit drugs**<br>
 <p>drug trafficking groups are major players in the procurement and transportation of large quantities of cocaine  destined for  European markets</p><br>

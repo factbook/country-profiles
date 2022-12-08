@@ -62,7 +62,7 @@ _forest_: 36.1% (2018 est.)<br>
 _other_: 48.6% (2018 est.)<br>
 
 **Irrigated land**<br>
-0 sq km (2012)<br>
+0 sq km (2022)<br>
 
 **Population distribution**<br>
 three-quarters of the population lives in rural areas; the urban populace lives primarily in two cities, Port-Vila and Lugenville; three largest islands - Espiritu Santo, Malakula, and Efate - accomodate over half of the populace<br>
@@ -99,10 +99,10 @@ _55-64 years_: 5.89% (male 8,666/female 8,904)<br>
 _65 years and over_: 4.39% (male 6,518/female 6,564) (2020 est.)<br>
 
 **Dependency ratios**<br>
-_total dependency ratio_: 72.5<br>
-_youth dependency ratio_: 66.2<br>
+_total dependency ratio_: 76.5<br>
+_youth dependency ratio_: 69.9<br>
 _elderly dependency ratio_: 12.3<br>
-_potential support ratio_: 8.1 (2020 est.)<br>
+_potential support ratio_: 15.2 (2021 est.)<br>
 
 **Median age**<br>
 _total_: 23 years<br>
@@ -216,7 +216,7 @@ _total population_: 87.5%<br>
 _male_: 88.3%<br>
 _female_: 86.7% (2018)<br>
 
-**Unemployment, youth ages 15-24**<br>
+**Youth unemployment rate (ages 15-24)**<br>
 _total_: 18%<br>
 _male_: 16.1%<br>
 _female_: 20.1% (2019 est.)<br>
@@ -429,7 +429,7 @@ _services_: 30% (2000 est.)<br>
 **Unemployment rate**<br>
 1.7% (1999 est.)<br>
 
-**Unemployment, youth ages 15-24**<br>
+**Youth unemployment rate (ages 15-24)**<br>
 _total_: 18%<br>
 _male_: 16.1%<br>
 _female_: 20.1% (2019 est.)<br>

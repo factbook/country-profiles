@@ -5,7 +5,7 @@ _Middle East / Countries_
 ## Introduction
 
 **Background**<br>
-<p>Azerbaijan - a secular nation with a majority-Turkic and majority-Shia Muslim population - was briefly independent (from 1918 to 1920) following the collapse of the Russian Empire; it was subsequently incorporated into the Soviet Union for seven decades. Azerbaijan remains involved in the protracted Nagorno-Karabakh conflict with Armenia. Nagorno-Karabakh was a primarily ethnic Armenian region that Moscow recognized in 1923 as an autonomous oblast within Soviet Azerbaijan. In the late Soviet period, a separatist movement developed which sought to end Azerbaijani control over the region. Fighting over Nagorno-Karabakh began in 1988 and escalated after Armenia and Azerbaijan attained independence from the Soviet Union in 1991. By the time a ceasefire took effect in May 1994, separatists, with Armenian support, controlled Nagorno‑Karabakh and seven surrounding Azerbaijani territories.</p> <p>Under the terms of a cease-fire agreement following Azerbaijan’s victory in the Second Nagorno-Karabakh War that took place from September-November 2020, Armenia returned to Azerbaijan the remaining territories it had occupied and also the southern part of Nagorno-Karabakh, including the culturally and historically important city that Azerbaijanis call Shusha and Armenians call Shushi. Despite Azerbaijan’s territorial gains, peace in the region remains elusive because of unsettled issues concerning the delimitation of borders, the opening of regional transportation and communication links, the status of ethnic enclaves near border regions, and the final status of the Nagorno-Karabakh region. Russian peacekeepers deployed to Nagorno-Karabakh to supervise the cease-fire for a minimum five-year term have not prevented the outbreak of sporadic, low-level military clashes along the Azerbaijan-Armenia border in 2021.<br><br>In the three decades following its independence in 1991, Azerbaijan has succeeded in significantly reducing the poverty rate and has directed revenues from its oil and gas production to develop the country’s infrastructure. However, corruption remains a burden on the economy, and Western observers and members of the country’s political opposition have accused the government of authoritarianism, pointing to elections that are neither free nor fair, state control of the media, and the systematic abuse of human rights targeting individuals and groups who are perceived as threats to the administration. The country’s leadership has remained in the ALIYEV family since Heydar ALIYEV, formerly the most highly ranked Azerbaijani member of the Communist Party during the Soviet period, became president in the midst of the first Nagorno-Karabakh War in 1993. Heydar ALIYEV groomed his son to succeed him, and Ilham ALIYEV subsequently became president in 2003. As a result of two national referendums that eliminated presidential term limits and extended the presidential term from 5 to 7 years, President ALIYEV secured a fourth term in April 2018 in an election that international observers noted had serious shortcomings. Reforms are underway to diversify the country’s economy away from its dependence on oil and gas; additional reforms are needed to address weaknesses in government institutions, particularly in the education and health sectors, and the court system.</p><br>
+<p>Azerbaijan - a secular nation with a majority-Turkic and majority-Shia Muslim population - was briefly independent (from 1918 to 1920) following the collapse of the Russian Empire; it was subsequently incorporated into the Soviet Union for seven decades. Azerbaijan remains involved in the protracted Nagorno-Karabakh conflict with Armenia. Nagorno-Karabakh was a primarily ethnic Armenian region that Moscow recognized in 1923 as an autonomous oblast within Soviet Azerbaijan. In the late Soviet period, a separatist movement developed which sought to end Azerbaijani control over the region. Fighting over Nagorno-Karabakh began in 1988 and escalated after Armenia and Azerbaijan attained independence from the Soviet Union in 1991. By the time a ceasefire took effect in May 1994, separatists, with Armenian support, controlled Nagorno‑Karabakh and seven surrounding Azerbaijani territories.</p> <p>Under the terms of a cease-fire agreement following Azerbaijan’s victory in the Second Nagorno-Karabakh War that took place from September-November 2020, Armenia returned to Azerbaijan the remaining territories it had occupied and also the southern part of Nagorno-Karabakh, including the culturally and historically important city that Azerbaijanis call Shusha and Armenians call Shushi. Despite Azerbaijan’s territorial gains, peace in the region remains elusive because of unsettled issues concerning the delimitation of borders, the opening of regional transportation and communication links, the status of ethnic enclaves near border regions, and the final status of the Nagorno-Karabakh region. Russian peacekeepers deployed to Nagorno-Karabakh to supervise the cease-fire for a minimum five-year term did not prevent the outbreak of sporadic, low-level military clashes along the Azerbaijan-Armenia border in 2021.<br><br>In the three decades following its independence in 1991, Azerbaijan has succeeded in significantly reducing the poverty rate and has directed revenues from its oil and gas production to develop the country’s infrastructure. However, corruption remains a burden on the economy, and Western observers and members of the country’s political opposition have accused the government of authoritarianism, pointing to elections that are neither free nor fair, state control of the media, and the systematic abuse of human rights targeting individuals and groups who are perceived as threats to the administration. The country’s leadership has remained in the ALIYEV family since Heydar ALIYEV, formerly the most highly ranked Azerbaijani member of the Communist Party during the Soviet period, became president in the midst of the first Nagorno-Karabakh War in 1993. Heydar ALIYEV groomed his son to succeed him, and Ilham ALIYEV subsequently became president in 2003. As a result of two national referendums that eliminated presidential term limits and extended the presidential term from 5 to 7 years, President ALIYEV secured a fourth term in April 2018 in an election that international observers noted had serious shortcomings. Reforms are underway to diversify the country’s economy away from its dependence on oil and gas; additional reforms are needed to address weaknesses in government institutions, particularly in the education and health sectors, and the court system.</p><br>
 
 ## Geography
 
@@ -60,7 +60,7 @@ _forest_: 11.3% (2018 est.)<br>
 _other_: 31.1% (2018 est.)<br>
 
 **Irrigated land**<br>
-14,277 sq km (2012)<br>
+14,649 sq km (2020)<br>
 
 **Major lakes (area sq km)**<br>
 _salt water lake(s)_: Caspian Sea (shared with Iran, Russia, Turkmenistan, and Kazakhstan) - 374,000 sq km<br>
@@ -107,10 +107,10 @@ _55-64 years_: 11.41% (male 530,046/female 634,136)<br>
 _65 years and over_: 7.29% (male 289,604/female 454,769) (2020 est.)<br>
 
 **Dependency ratios**<br>
-_total dependency ratio_: 43.4<br>
-_youth dependency ratio_: 33.7<br>
+_total dependency ratio_: 44.2<br>
+_youth dependency ratio_: 34.7<br>
 _elderly dependency ratio_: 9.7<br>
-_potential support ratio_: 10.3 (2020 est.)<br>
+_potential support ratio_: 10.3 (2021 est.)<br>
 
 **Median age**<br>
 _total_: 32.6 years<br>
@@ -197,7 +197,7 @@ _unimproved: rural_: rural: NA<br>
 _unimproved: total_: total: (2020 est.) NA<br>
 
 **HIV/AIDS - adult prevalence rate**<br>
-0.1% (2020 est.)<br>
+0.1% (2021 est.)<br>
 
 **Obesity - adult prevalence rate**<br>
 19.9% (2016)<br>
@@ -231,7 +231,7 @@ _total_: 14 years<br>
 _male_: 13 years<br>
 _female_: 14 years (2020)<br>
 
-**Unemployment, youth ages 15-24**<br>
+**Youth unemployment rate (ages 15-24)**<br>
 _total_: 12.4%<br>
 _male_: 10.9%<br>
 _female_: 14.2% (2019 est.)<br>
@@ -460,7 +460,7 @@ _services_: 48.9% (2014)<br>
 5% (2017 est.)<br>
 5% (2016 est.)<br>
 
-**Unemployment, youth ages 15-24**<br>
+**Youth unemployment rate (ages 15-24)**<br>
 _total_: 12.4%<br>
 _male_: 10.9%<br>
 _female_: 14.2% (2019 est.)<br>
@@ -543,7 +543,7 @@ _electrification - total population_: 100% (2020)<br>
 
 **Electricity**<br>
 _installed generating capacity_: 7.677 million kW (2020 est.)<br>
-_consumption_: 21,026,630,000 kWh (2019 est.)<br>
+_consumption_: 21.027 billion kWh (2019 est.)<br>
 _exports_: 1.491 billion kWh (2020 est.)<br>
 _imports_: 137 million kWh (2020 est.)<br>
 _transmission/distribution losses_: 2.226 billion kWh (2019 est.)<br>
@@ -582,11 +582,11 @@ _crude oil estimated reserves_: 7 billion barrels (2021 est.)<br>
 5,576 bbl/day (2015 est.)<br>
 
 **Natural gas**<br>
-_production_: 23,075,077,000 cubic meters (2019 est.)<br>
-_consumption_: 11,467,681,000 cubic meters (2019 est.)<br>
-_exports_: 11,586,357,000 cubic meters (2019 est.)<br>
-_imports_: 1,233,225,000 cubic meters (2019 est.)<br>
-_proven reserves_: 1,699,008,000,000 cubic meters (2021 est.)<br>
+_production_: 23.075 billion cubic meters (2019 est.)<br>
+_consumption_: 11.468 billion cubic meters (2019 est.)<br>
+_exports_: 11.586 billion cubic meters (2019 est.)<br>
+_imports_: 1.233 billion cubic meters (2019 est.)<br>
+_proven reserves_: 1.699 trillion cubic meters (2021 est.)<br>
 
 **Carbon dioxide emissions**<br>
 _total emissions_: 35.389 million metric tonnes of CO2 (2019 est.)<br>

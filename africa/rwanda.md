@@ -109,10 +109,10 @@ _55-64 years_: 4.24% (male 241,462/female 298,163)<br>
 _65 years and over_: 2.65% (male 134,648/female 201,710) (2020 est.)<br>
 
 **Dependency ratios**<br>
-_total dependency ratio_: 74.2<br>
-_youth dependency ratio_: 68.8<br>
+_total dependency ratio_: 72.5<br>
+_youth dependency ratio_: 67.1<br>
 _elderly dependency ratio_: 5.4<br>
-_potential support ratio_: 18.4 (2020 est.)<br>
+_potential support ratio_: 18.4 (2021 est.)<br>
 
 **Median age**<br>
 _total_: 19.7 years<br>
@@ -171,7 +171,7 @@ _female_: 67.86 years (2022 est.)<br>
 3.33 children born/woman (2022 est.)<br>
 
 **Contraceptive prevalence rate**<br>
-53.2% (2014/15)<br>
+64.1% (2019/20)<br>
 
 **Drinking water source**<br>
 _improved: urban_: urban: 92.3% of population<br>
@@ -196,7 +196,7 @@ _unimproved: rural_: rural: 16.8% of population<br>
 _unimproved: total_: total: 15.8% of population (2020 est.)<br>
 
 **HIV/AIDS - adult prevalence rate**<br>
-2.5% (2020 est.)<br>
+2.3% (2021 est.)<br>
 
 **Major infectious diseases**<br>
 _degree of risk_: very high (2020)<br>
@@ -236,7 +236,7 @@ _total_: 11 years<br>
 _male_: 11 years<br>
 _female_: 11 years (2019)<br>
 
-**Unemployment, youth ages 15-24**<br>
+**Youth unemployment rate (ages 15-24)**<br>
 _total_: 20.5%<br>
 _male_: 18.8%<br>
 _female_: 22.4% (2019 est.)<br>
@@ -468,7 +468,7 @@ _services_: 18% (2012 est.)<br>
 **Unemployment rate**<br>
 2.7% (2014 est.)<br>
 
-**Unemployment, youth ages 15-24**<br>
+**Youth unemployment rate (ages 15-24)**<br>
 _total_: 20.5%<br>
 _male_: 18.8%<br>
 _female_: 22.4% (2019 est.)<br>

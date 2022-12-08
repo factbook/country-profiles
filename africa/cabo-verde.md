@@ -5,7 +5,7 @@ _Africa / Countries_
 ## Introduction
 
 **Background**<br>
-The uninhabited islands were discovered and colonized by the Portuguese in the 15th century; Cabo Verde subsequently became a trading center for African slaves and later an important coaling and resupply stop for whaling and transatlantic shipping. The fusing of European and various African cultural traditions is reflected in Cabo Verde&rsquo;s Krioulo language, music, and pano textiles. Following independence in 1975, and a tentative interest in unification with Guinea-Bissau, a one-party system was established and maintained until multi-party elections were held in 1990. Cabo Verde continues to sustain one of Africa's most stable democratic governments and one of its most stable economies, maintaining a currency formerly pegged to the Portuguese escudo and then the euro since 1998. Repeated droughts during the second half of the 20th century caused significant hardship and prompted heavy emigration. As a result, Cabo Verde's expatriate population - concentrated in Boston and Western Europe - is greater than its domestic one. Most Cabo Verdeans have both African and Portuguese antecedents. Cabo Verde&rsquo;s population descends from its first permanent inhabitants in the late 15th-century &ndash; a preponderance of West African slaves, a small share of Portuguese colonists, and even fewer Italians and Spaniards. Among the nine inhabited islands, population distribution is variable. Islands in the east are very dry and are home to the country's growing tourism industry. The more western islands receive more precipitation and support larger populations, but agriculture and livestock grazing have damaged their soil fertility and vegetation. For centuries, the country&rsquo;s overall population size has fluctuated significantly, as recurring periods of famine and epidemics have caused high death tolls and emigration. In November 2021, Jose Maria NEVES was sworn in as Cabo Verde's latest president.<br>
+The uninhabited islands were discovered and colonized by the Portuguese in the 15th century; Cabo Verde subsequently became a trading center for African slaves and later an important coaling and resupply stop for whaling and transatlantic shipping. The fusing of European and various African cultural traditions is reflected in Cabo Verde’s Krioulo language, music, and pano textiles. Following independence in 1975, and a tentative interest in unification with Guinea-Bissau, a one-party system was established and maintained until multi-party elections were held in 1990. Cabo Verde continues to sustain one of Africa's most stable democratic governments and one of its most stable economies, maintaining a currency formerly pegged to the Portuguese escudo and then the euro since 1998. Repeated droughts during the second half of the 20th century caused significant hardship and prompted heavy emigration. As a result, Cabo Verde's expatriate population - concentrated in Boston and Western Europe - is greater than its domestic one. <br><br>Most Cabo Verdeans have both African and Portuguese antecedents. Cabo Verde’s population descends from its first permanent inhabitants in the late 15th-century – a preponderance of West African slaves, a small share of Portuguese colonists, and even fewer Italians and Spaniards. Among the nine inhabited islands, population distribution is variable. Islands in the east are very dry and are home to the country's growing tourism industry. The more western islands receive more precipitation and support larger populations, but agriculture and livestock grazing have damaged their soil fertility and vegetation. For centuries, the country’s overall population size has fluctuated significantly, as recurring periods of famine and epidemics have caused high death tolls and emigration. In November 2021, Jose Maria NEVES was sworn in as Cabo Verde's latest president.<br>
 
 ## Geography
 
@@ -100,10 +100,10 @@ _55-64 years_: 7.12% (male 18,939/female 22,597)<br>
 _65 years and over_: 5.48% (male 12,037/female 19,901) (2020 est.)<br>
 
 **Dependency ratios**<br>
-_total dependency ratio_: 49<br>
-_youth dependency ratio_: 41.8<br>
-_elderly dependency ratio_: 7.1<br>
-_potential support ratio_: 14 (2020 est.)<br>
+_total dependency ratio_: 47.2<br>
+_youth dependency ratio_: 39.2<br>
+_elderly dependency ratio_: 8<br>
+_potential support ratio_: 12.5 (2021 est.)<br>
 
 **Median age**<br>
 _total_: 26.8 years<br>
@@ -186,7 +186,7 @@ _unimproved: rural_: rural: 26.7% of population<br>
 _unimproved: total_: total: 14.4% of population (2020 est.)<br>
 
 **HIV/AIDS - adult prevalence rate**<br>
-0.5% (2020 est.)<br>
+0.6% (2021 est.)<br>
 
 **Obesity - adult prevalence rate**<br>
 11.8% (2016)<br>
@@ -220,7 +220,7 @@ _total_: 13 years<br>
 _male_: 12 years<br>
 _female_: 13 years (2018)<br>
 
-**Unemployment, youth ages 15-24**<br>
+**Youth unemployment rate (ages 15-24)**<br>
 _total_: 50.4%<br>
 _male_: 41.4%<br>
 _female_: 65.3% (2019)<br>
@@ -421,7 +421,7 @@ _exports of goods and services_: 48.6% (2017 est.)<br>
 _imports of goods and services_: -51.1% (2017 est.)<br>
 
 **Agricultural products**<br>
-sugar cane, tomatoes, bananas, cabbages, coconuts, cassava, pulses,vegetables, milk, goat milk<br>
+sugar cane, tomatoes, bananas, cabbages, coconuts, cassava, pulses, vegetables, milk, goat milk<br>
 
 **Industries**<br>
 food and beverages, fish processing, shoes and garments, salt mining, ship repair<br>
@@ -436,7 +436,7 @@ food and beverages, fish processing, shoes and garments, salt mining, ship repai
 9% (2017 est.)<br>
 9% (2016 est.)<br>
 
-**Unemployment, youth ages 15-24**<br>
+**Youth unemployment rate (ages 15-24)**<br>
 _total_: 50.4%<br>
 _male_: 41.4%<br>
 _female_: 65.3% (2019)<br>

@@ -58,7 +58,7 @@ _forest_: 6.1% (2018 est.)<br>
 _other_: 19.2% (2018 est.)<br>
 
 **Irrigated land**<br>
-0 sq km (2012)<br>
+0 sq km (2022)<br>
 
 **Population distribution**<br>
 most people concentrated in cities and large towns of which Douglas, in the southeast, is the largest<br>
@@ -75,7 +75,7 @@ one small islet, the Calf of Man, lies to the southwest and is a bird sanctuary<
 91,382 (2022 est.)<br>
 
 **Nationality**<br>
-_noun_: Manxman(men), Manxwoman(women)<br>
+_noun_: Manxman (men), Manxwoman (women)<br>
 _adjective_: Manx<br>
 
 **Ethnic groups**<br>
@@ -96,10 +96,10 @@ _55-64 years_: 13.82% (male 6,284/female 6,219)<br>
 _65 years and over_: 21.08% (male 9,023/female 10,058) (2020 est.)<br>
 
 **Dependency ratios**<br>
-_total dependency ratio_: NA<br>
-_youth dependency ratio_: NA<br>
-_elderly dependency ratio_: NA<br>
-_potential support ratio_: NA<br>
+_total dependency ratio_: 58.6<br>
+_youth dependency ratio_: 23.6<br>
+_elderly dependency ratio_: 34.9<br>
+_potential support ratio_: 2.9 (2021)<br>
 
 **Median age**<br>
 _total_: 44.6 years<br>
@@ -189,7 +189,7 @@ _total population_: NA<br>
 _male_: NA<br>
 _female_: NA<br>
 
-**Unemployment, youth ages 15-24**<br>
+**Youth unemployment rate (ages 15-24)**<br>
 _total_: 10.1%<br>
 _male_: 11.8%<br>
 _female_: 8.2% (2011 est.)<br>
@@ -275,7 +275,7 @@ _election results_: <em>2021:</em> Alfred CANNAN (independent) elected chief min
 **Legislative branch**<br>
 _description_: bicameral Tynwald or the High Court of Tynwald consists of:<br>Legislative Council (11 seats; includes the President of Tynwald, 2 ex-officio members - the Lord Bishop of Sodor and Man and the attorney general (non-voting) - and 8 members indirectly elected by the House of Keys with renewal of 4 members every 2 years; elected members serve 4-year terms) <br>House of Keys (24 seats; 2 members directly elected by simple majority vote from 12 constituencies to serve 5-year terms)<br>
 _elections_: <br>Legislative Council - last held 29 February 2020 (next to be held on 28 February 2022)<br>House of Keys - last held on 23 September 2021 (next to be held in September 2026)<br>
-_election results_: <p>Legislative Council - composition (as of 2021) - men 6, women 4, 1 vacancies; percent of women 36.4%</p> <p>House of Keys - percent of vote by party - Liberal Vannin 5.3%, Manx Labour Prty 5.1%, Green Party 3.3% independent 86.3%; seats by party - independent 21; Manx Labour Party 2, Liberal Vannin 1, Green Party 0; composition – men 14, women 10, percent of women 41.7%; note - total Tynwald percent of women 37.1%</p><br>
+_election results_: <p>Legislative Council - composition (as of 2022) - men 6, women 4, 1 vacancy; percent of women 36.4%</p> <p>House of Keys - percent of vote by party - Liberal Vannin 5.3%, Manx Labour Prty 5.1%, Green Party 3.3% independent 86.3%; seats by party - independent 21; Manx Labour Party 2, Liberal Vannin 1; composition – men 14, women 10, percent of women 41.7%; note - total Tynwald percent of women 37.1%</p><br>
 
 **Judicial branch**<br>
 _highest court(s)_: Isle of Man High Court of Justice (consists of 3 permanent judges or "deemsters" and 1 judge of appeal; organized into the Staff of Government Division or Court of Appeal and the Civil Division); the Court of General Gaol Delivery is not formally part of the High Court but is administered as though part of the High Court and deals with serious criminal cases; note - appeals beyond the Court of Appeal are referred to the Judicial Committee of the Privy Council (in London)<br>
@@ -296,7 +296,7 @@ none (British crown dependency)<br>
 _embassy_: none (British crown dependency)<br>
 
 **Flag description**<br>
-red with the Three Legs of Man emblem (triskelion), in the center; the three legs are joined at the thigh and bent at the knee; in order to have the toes pointing clockwise on both sides of the flag, a two-sided emblem is used; the flag is based on the coat of arms of the last recognized Norse King of Mann, Magnus III (r. 1252-65); the triskelion has its roots in an early Celtic sun symbol<br>
+red with the Three Legs of Man emblem (triskelion), in the center; the three legs are joined at the thigh and bent at the knee; in order to have the toes pointing clockwise on both sides of the flag, a two-sided emblem is used; the flag is based on the coat of arms of the last recognized Norse King of Mann, MAGNUS III (r. 1252-65); the triskelion has its roots in an early Celtic sun symbol<br>
 
 **National symbol(s)**<br>
 triskelion (a motif of three legs); national colors: red, white<br>
@@ -336,7 +336,7 @@ $6.792 billion (2015 est.)<br>
 
 **Credit ratings**<br>
 _Moody's rating_: Aa3 (2020)<br>
-_Standard & Poors rating_: N/A (2014)<br>
+_Standard & Poors rating_: N/A<br>
 <strong>note: </strong>The year refers to the year in which the current credit rating was first obtained.<br>
 
 **GDP - composition, by sector of origin**<br>
@@ -371,7 +371,7 @@ _miscellaneous services_: 8% (2006 est.)<br>
 1.1% (2017 est.)<br>
 2% (April 2011 est.)<br>
 
-**Unemployment, youth ages 15-24**<br>
+**Youth unemployment rate (ages 15-24)**<br>
 _total_: 10.1%<br>
 _male_: 11.8%<br>
 _female_: 8.2% (2011 est.)<br>

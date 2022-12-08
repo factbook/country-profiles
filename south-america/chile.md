@@ -107,10 +107,10 @@ _55-64 years_: 11.98% (male 1,034,049/female 1,145,022)<br>
 _65 years and over_: 11.81% (male 902,392/female 1,245,890) (2020 est.)<br>
 
 **Dependency ratios**<br>
-_total dependency ratio_: 45.9<br>
-_youth dependency ratio_: 28.1<br>
-_elderly dependency ratio_: 17.9<br>
-_potential support ratio_: 5.6 (2020 est.)<br>
+_total dependency ratio_: 45.2<br>
+_youth dependency ratio_: 26.8<br>
+_elderly dependency ratio_: 18.4<br>
+_potential support ratio_: 5.4 (2021 est.)<br>
 
 **Median age**<br>
 _total_: 35.5 years<br>
@@ -193,7 +193,7 @@ _unimproved: rural_: rural: 0% of population<br>
 _unimproved: total_: total: 0% of population (2020 est.)<br>
 
 **HIV/AIDS - adult prevalence rate**<br>
-0.6% (2020 est.)<br>
+0.6% (2021 est.)<br>
 
 **Obesity - adult prevalence rate**<br>
 28% (2016)<br>
@@ -227,7 +227,7 @@ _total_: 17 years<br>
 _male_: 17 years<br>
 _female_: 17 years (2019)<br>
 
-**Unemployment, youth ages 15-24**<br>
+**Youth unemployment rate (ages 15-24)**<br>
 _total_: 24.9%<br>
 _male_: 23.7%<br>
 _female_: 26.6% (2020 est.)<br>
@@ -457,7 +457,7 @@ _services_: 67.1% (2013)<br>
 7.22% (2019 est.)<br>
 7.33% (2018 est.)<br>
 
-**Unemployment, youth ages 15-24**<br>
+**Youth unemployment rate (ages 15-24)**<br>
 _total_: 24.9%<br>
 _male_: 23.7%<br>
 _female_: 26.6% (2020 est.)<br>
@@ -675,6 +675,9 @@ _by type_: bulk carrier 6, container ship 5, general cargo 58, oil tanker 14, ot
 _major seaport(s)_: Coronel, Huasco, Lirquen, Puerto Ventanas, San Antonio, San Vicente, Valparaiso<br>
 _container port(s) (TEUs)_: San Antonio (1,709,635), Valparaiso (898,715) (2019)<br>
 _LNG terminal(s) (import)_: Mejillones, Quintero<br>
+
+**Transportation - note**<br>
+Chile operates one PC 5 or 6 class icebreaker for operations in Antarctica and the Southern Ocean<br><strong>note </strong>- PC 5 - Year-round operation in medium first-year ice which may include old ice inclusions (ice thickness up to 70-120 cm); PC 6 - Summer/autumn operation in medium first-year ice which may include old ice inclusions (ice thickness up to 30-70 cm)<br>
 
 ## Military and Security
 

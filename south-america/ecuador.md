@@ -64,7 +64,7 @@ _forest_: 38.9% (2018 est.)<br>
 _other_: 31.4% (2018 est.)<br>
 
 **Irrigated land**<br>
-15,000 sq km (2012)<br>
+10,000 sq km (2020)<br>
 
 **Major watersheds (area sq km)**<br>
 Atlantic Ocean drainage: Amazon (6,145,186 sq km)<br>
@@ -109,10 +109,10 @@ _55-64 years_: 7.92% (male 647,718/female 691,759)<br>
 _65 years and over_: 8.15% (male 648,761/female 728,491) (2020 est.)<br>
 
 **Dependency ratios**<br>
-_total dependency ratio_: 53.8<br>
-_youth dependency ratio_: 42.1<br>
-_elderly dependency ratio_: 11.7<br>
-_potential support ratio_: 8.6 (2020 est.)<br>
+_total dependency ratio_: 50.9<br>
+_youth dependency ratio_: 39.4<br>
+_elderly dependency ratio_: 11.5<br>
+_potential support ratio_: 8.7 (2021 est.)<br>
 
 **Median age**<br>
 _total_: 28.8 years<br>
@@ -196,7 +196,7 @@ _unimproved: rural_: rural: 3.1% of population<br>
 _unimproved: total_: total: 1.1% of population (2020 est.)<br>
 
 **HIV/AIDS - adult prevalence rate**<br>
-0.3% (2020 est.)<br>
+0.4% (2021 est.)<br>
 
 **Major infectious diseases**<br>
 _degree of risk_: high (2020)<br>
@@ -239,7 +239,7 @@ _total_: 15 years<br>
 _male_: 14 years<br>
 _female_: 15 years (2019)<br>
 
-**Unemployment, youth ages 15-24**<br>
+**Youth unemployment rate (ages 15-24)**<br>
 _total_: 11.1%<br>
 _male_: 8.7%<br>
 _female_: 15.4% (2020 est.)<br>
@@ -473,7 +473,7 @@ _services_: 55.5% (2017 est.)<br>
 5.71% (2019 est.)<br>
 5.26% (2018 est.)<br>
 
-**Unemployment, youth ages 15-24**<br>
+**Youth unemployment rate (ages 15-24)**<br>
 _total_: 11.1%<br>
 _male_: 8.7%<br>
 _female_: 15.4% (2020 est.)<br>

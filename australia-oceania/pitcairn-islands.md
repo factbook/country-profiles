@@ -55,7 +55,7 @@ _forest_: 74.5% (2018 est.)<br>
 _other_: 25.5% (2018 est.)<br>
 
 **Irrigated land**<br>
-0 sq km (2012)<br>
+0 sq km (2022)<br>
 
 **Population distribution**<br>
 less than 50 inhabitants on Pitcairn Island, most reside near the village of Adamstown<br>

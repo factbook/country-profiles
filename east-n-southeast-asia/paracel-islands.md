@@ -52,7 +52,7 @@ none<br>
 _other_: 100% (2018 est.)<br>
 
 **Irrigated land**<br>
-0 sq km (2012)<br>
+0 sq km (2022)<br>
 
 **Population distribution**<br>
 a population of over 1,000 Chinese resides on Woody Island, the largest of the Paracels; there are scattered Chinese garrisons on some other islands<br>

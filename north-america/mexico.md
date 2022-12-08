@@ -62,7 +62,7 @@ _forest_: 33.3% (2018 est.)<br>
 _other_: 11.8% (2018 est.)<br>
 
 **Irrigated land**<br>
-65,000 sq km (2012)<br>
+60,620 sq km (2020)<br>
 
 **Major lakes (area sq km)**<br>
 _fresh water lake(s)_: Laguna de Chapala - 1,140 sq km<br>
@@ -114,10 +114,10 @@ _55-64 years_: 8.29% (male 4,879,048/female 5,784,176)<br>
 _65 years and over_: 7.67% (male 4,373,807/female 5,491,581) (2020 est.)<br>
 
 **Dependency ratios**<br>
-_total dependency ratio_: 50.3<br>
-_youth dependency ratio_: 38.8<br>
-_elderly dependency ratio_: 11.4<br>
-_potential support ratio_: 8.7 (2020 est.)<br>
+_total dependency ratio_: 49.4<br>
+_youth dependency ratio_: 37.3<br>
+_elderly dependency ratio_: 12.2<br>
+_potential support ratio_: 8.2 (2021 est.)<br>
 
 **Median age**<br>
 _total_: 29.3 years<br>
@@ -203,7 +203,7 @@ _unimproved: rural_: rural: 3.6% of population<br>
 _unimproved: total_: total: 0.8% of population (2020 est.)<br>
 
 **HIV/AIDS - adult prevalence rate**<br>
-0.4% (2020 est.)<br>
+0.4% (2021 est.)<br>
 
 **Major infectious diseases**<br>
 _degree of risk_: intermediate (2020)<br>
@@ -247,7 +247,7 @@ _total_: 15 years<br>
 _male_: 15 years<br>
 _female_: 15 years (2019)<br>
 
-**Unemployment, youth ages 15-24**<br>
+**Youth unemployment rate (ages 15-24)**<br>
 _total_: 8.1%<br>
 _male_: 7.8%<br>
 _female_: 8.7% (2020 est.)<br>
@@ -500,7 +500,7 @@ _services_: 61.9% (2011)<br>
 3.33% (2018 est.)<br>
 <strong>note:</strong> underemployment may be as high as 25%<br>
 
-**Unemployment, youth ages 15-24**<br>
+**Youth unemployment rate (ages 15-24)**<br>
 _total_: 8.1%<br>
 _male_: 7.8%<br>
 _female_: 8.7% (2020 est.)<br>

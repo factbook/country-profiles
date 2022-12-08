@@ -98,10 +98,10 @@ _55-64 years_: 15.69% (male 711/female 564)<br>
 _65 years and over_: 14.74% (male 584/female 614) (2022 est.)<br>
 
 **Dependency ratios**<br>
-_total dependency ratio_: NA<br>
-_youth dependency ratio_: NA<br>
-_elderly dependency ratio_: NA<br>
-_potential support ratio_: NA<br>
+_total dependency ratio_: 53.8<br>
+_youth dependency ratio_: 36.4<br>
+_elderly dependency ratio_: 17.4<br>
+_potential support ratio_: 5.8 (2021)<br>
 
 **Median age**<br>
 _total_: 38.3 years<br>

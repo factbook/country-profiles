@@ -115,10 +115,10 @@ _55-64 years_: 12.08% (male 84,827,645/female 83,557,507)<br>
 _65 years and over_: 12.34% (male 81,586,490/female 90,458,292) (2020 est.)<br>
 
 **Dependency ratios**<br>
-_total dependency ratio_: 42.2<br>
-_youth dependency ratio_: 25.2<br>
-_elderly dependency ratio_: 17<br>
-_potential support ratio_: 5.9 (2020 est.)<br>
+_total dependency ratio_: 44.5<br>
+_youth dependency ratio_: 25.5<br>
+_elderly dependency ratio_: 19<br>
+_potential support ratio_: 5.3 (2021 est.)<br>
 <strong>note:</strong> data do not include Hong Kong, Macau, and Taiwan<br>
 
 **Median age**<br>
@@ -718,7 +718,7 @@ _LNG terminal(s) (import)_: Fujian, Guangdong, Jiangsu, Shandong, Shanghai, Tang
 _river port(s)_: Guangzhou (Pearl)<br>
 
 **Transportation - note**<br>
-seven of the world’s ten largest container ports are in China<br>
+seven of the world’s ten largest container ports are in China; China operates one PC 3 or 4 class and three PC 5 or 6 class icebreakers<br><strong>note </strong>- PC 3 - Year-round operation in second-year ice which may include multi-year ice inclusions (ice thickness up to 2.5 m); PC 4 - Year-round operation in thick first-year ice which may include old ice inclusions (ice thickness up to 120 cm); PC 5 - Year-round operation in medium first-year ice which may include old ice inclusions (ice thickness up to 70-120 cm); PC 6 - Summer/autumn operation in medium first-year ice which may include old ice inclusions (ice thickness up to 30-70 cm)<br>
 
 ## Military and Security
 
@@ -734,7 +734,7 @@ People's Liberation Army (PLA): Ground Forces, Navy (PLAN, includes marines and 
 1.8% of GDP (2017) (approximately $260 billion)<br>
 
 **Military and security service personnel strengths**<br>
-approximately 2 million active duty troops (approximately 1 million Ground; 250,000 Navy/Marines; 350-400,000 Air Force; 120,000 Rocket Forces; 150-175,000 Strategic Support Forces); estimated 600-650,000 People&rsquo;s Armed Police (2022)<br>
+approximately 2 million active-duty troops (approximately 1 million Ground; 250,000 Navy/Marines; 350-400,000 Air Force; 120,000 Rocket Forces; 150-175,000 Strategic Support Forces); estimated 600-650,000 People&rsquo;s Armed Police (2022)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the PLA is outfitted primarily with a wide mix of older and modern domestically-produced systems heavily influenced by technology derived from other countries; Russia has been the top supplier of foreign military equipment since 2010; China has a large defense-industrial sector capable of producing advanced weapons systems across all military domains (2022)<br>
@@ -748,7 +748,7 @@ the PLA is outfitted primarily with a wide mix of older and modern domestically-
 425 Mali (MINUSMA); 225 Democratic Republic of the Congo (MONUSCO); 420 Lebanon (UNIFIL); 1,050 South Sudan (UNMISS); up to 2,000 Djibouti (May 2022)<br>
 
 **Military - note**<br>
-<p>established in 1927, the PLA is the military arm of the ruling Chinese Communist Party (CCP), which oversees the PLA through its Central Military Commission; the Central Military Commission is China’s top military decision making body</p> <p>the PRC's <strong>internal security forces </strong>consist primarily of the <strong>Ministry of Public Security (MPS)</strong>, the <strong>Ministry of State Security (MSS)</strong>, the <strong>People’s Armed Police (PAP)</strong>, and the <strong>militia</strong>; the PLA support the internal security forces as necessary:</p> <p>the <strong>MPS</strong> controls the civilian national police, which serves as the first-line force for public order; its primary mission is domestic law enforcement and maintaining order, including anti-rioting and anti-terrorism</p> <p>the <strong>MSS</strong> is the PRC’s main civilian intelligence and counterintelligence service</p> <p>the <strong>PAP</strong> is a paramilitary component (or adjunct) of the PLA; its primary missions include internal security, maintaining public order, maritime security, and assisting the PLA in times of war; it is under the command of the Central Military Commission (CMC); the <strong>China Coast Guard (CCG)</strong> administratively falls under the PAP; the CCG has a variety of missions, such as maritime sovereignty enforcement, surveillance, resource protection, anti-smuggling, and general law enforcement</p> <p>the <strong>militia</strong> is an armed reserve of civilians which serves as an auxiliary and reserve force for the PLA upon mobilization; it is distinct from the PLA’s reserve forces; militia units are organized around towns, villages, urban sub-districts, and enterprises, and vary widely in composition and mission; they have dual civilian-military command structures; a key component of the militia are the local maritime forces, commonly referred to as the <strong>People’s Armed Forces Maritime Militia (PAFMM)</strong>; the PAFMM consists of mariners (and their vessels) who receive training, equipment, and other forms of support from the Navy and CCG (although the PAFMM remains separate from both) to perform tasks such as maritime patrolling, surveillance and reconnaissance, emergency/disaster response, transportation, search and rescue, and auxiliary tasks in support of naval operations in wartime; the PAFMM’s tasks are often conducted in conjunction or coordination with the Navy and the CCG; it has been used to assert Beijing's maritime claims in the Sea of Japan and South China Sea</p> (2022)<br>
+<p>established in 1927, the PLA is the military arm of the ruling Chinese Communist Party (CCP), which oversees the PLA through its Central Military Commission; the Central Military Commission is China’s top military decision making body</p> <p>the PRC's <strong>internal security forces </strong>consist primarily of the <strong>Ministry of Public Security (MPS)</strong>, the <strong>Ministry of State Security (MSS)</strong>, the <strong>People’s Armed Police (PAP)</strong>, and the <strong>militia</strong>; the PLA support the internal security forces as necessary:</p> <p>the <strong>MPS</strong> controls the civilian national police, which serves as the first-line force for public order; its primary mission is domestic law enforcement and maintaining order, including anti-rioting and anti-terrorism</p> <p>the <strong>MSS</strong> is the PRC’s main civilian intelligence and counterintelligence service</p> <p>the <strong>PAP</strong> is a paramilitary component (or adjunct) of the PLA; its primary missions include internal security, maintaining public order, maritime security, and assisting the PLA in times of war; it is under the command of the Central Military Commission (CMC); the <strong>China Coast Guard (CCG)</strong> administratively falls under the PAP; the CCG has a variety of missions, such as maritime sovereignty enforcement, surveillance, resource protection, anti-smuggling, and general law enforcement; as of 2022, it was the largest maritime law enforcement fleet in the world</p> <p>the <strong>militia</strong> is an armed reserve of civilians which serves as an auxiliary and reserve force for the PLA upon mobilization; it is distinct from the PLA’s reserve forces; militia units are organized around towns, villages, urban sub-districts, and enterprises, and vary widely in composition and mission; they have dual civilian-military command structures; a key component of the militia are the local maritime forces, commonly referred to as the <strong>People’s Armed Forces Maritime Militia (PAFMM)</strong>; the PAFMM consists of mariners (and their vessels) who receive training, equipment, and other forms of support from the Navy and CCG (although the PAFMM remains separate from both) to perform tasks such as maritime patrolling, surveillance and reconnaissance, emergency/disaster response, transportation, search and rescue, and auxiliary tasks in support of naval operations in wartime; the PAFMM’s tasks are often conducted in conjunction or coordination with the Navy and the CCG; it has been used to assert Beijing's maritime claims in the Sea of Japan and South China Sea</p> (2022)<br>
 
 ## Transnational Issues
 

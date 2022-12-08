@@ -114,10 +114,10 @@ _55-64 years_: 8.28% (male 1,266,595/female 1,375,708)<br>
 _65 years and over_: 8.05% (male 1,207,707/female 1,361,276) (2020 est.)<br>
 
 **Dependency ratios**<br>
-_total dependency ratio_: 50.2<br>
+_total dependency ratio_: 53<br>
 _youth dependency ratio_: 37.1<br>
 _elderly dependency ratio_: 13.1<br>
-_potential support ratio_: 7.6 (2020 est.)<br>
+_potential support ratio_: 7.9 (2021 est.)<br>
 
 **Median age**<br>
 _total_: 29.1 years<br>
@@ -204,7 +204,7 @@ _unimproved: rural_: rural: 34.7% of population<br>
 _unimproved: total_: total: 12.6% of population (2020 est.)<br>
 
 **HIV/AIDS - adult prevalence rate**<br>
-0.3% (2020 est.)<br>
+0.4% (2021 est.)<br>
 
 **Major infectious diseases**<br>
 _degree of risk_: very high (2020)<br>
@@ -248,7 +248,7 @@ _total_: 15 years<br>
 _male_: 15 years<br>
 _female_: 15 years (2017)<br>
 
-**Unemployment, youth ages 15-24**<br>
+**Youth unemployment rate (ages 15-24)**<br>
 _total_: 12.6%<br>
 _male_: 13%<br>
 _female_: 12.1% (2020 est.)<br>
@@ -494,7 +494,7 @@ _services_: 56.8% (2011)<br>
 6.73% (2018 est.)<br>
 <strong>note:</strong> data are for metropolitan Lima; widespread underemployment<br>
 
-**Unemployment, youth ages 15-24**<br>
+**Youth unemployment rate (ages 15-24)**<br>
 _total_: 12.6%<br>
 _male_: 13%<br>
 _female_: 12.1% (2020 est.)<br>

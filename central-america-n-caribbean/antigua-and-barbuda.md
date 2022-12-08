@@ -99,10 +99,10 @@ _55-64 years_: 10.74% (male 4,693/female 5,848)<br>
 _65 years and over_: 8.91% (male 3,736/female 5,012) (2020 est.)<br>
 
 **Dependency ratios**<br>
-_total dependency ratio_: 45.3<br>
-_youth dependency ratio_: 31.8<br>
-_elderly dependency ratio_: 13.6<br>
-_potential support ratio_: 7.4 (2020 est.)<br>
+_total dependency ratio_: 40.9<br>
+_youth dependency ratio_: 26.5<br>
+_elderly dependency ratio_: 14.4<br>
+_potential support ratio_: 7 (2020 est.)<br>
 
 **Median age**<br>
 _total_: 32.7 years<br>
@@ -178,7 +178,7 @@ _improved: total_: total: 91.7% of population<br>
 _unimproved: total_: total: 8.1% of population (2017 est.)<br>
 
 **HIV/AIDS - adult prevalence rate**<br>
-1.1% (2018 est.)<br>
+NA<br>
 
 **Obesity - adult prevalence rate**<br>
 18.9% (2016)<br>

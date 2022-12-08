@@ -62,7 +62,7 @@ _forest_: 11.1% (2018 est.)<br>
 _other_: 18.8% (2018 est.)<br>
 
 **Irrigated land**<br>
-53,000 sq km (2012)<br>
+81,270 sq km (2020)<br>
 
 **Major rivers (by length in km)**<br>
 Brahmaputra river mouth (shared with China [s] and India) - 3,969 km; Ganges river mouth (shared with India [s]) - 2,704 km<br><strong>note</strong> – [s] after country name indicates river source; [m] after country name indicates river mouth<br>
@@ -107,10 +107,10 @@ _55-64 years_: 7.41% (male 5,941,825/female 6,115,856)<br>
 _65 years and over_: 6.82% (male 5,218,206/female 5,879,411) (2020 est.)<br>
 
 **Dependency ratios**<br>
-_total dependency ratio_: 47<br>
-_youth dependency ratio_: 39.3<br>
-_elderly dependency ratio_: 7.7<br>
-_potential support ratio_: 13 (2020 est.)<br>
+_total dependency ratio_: 47.7<br>
+_youth dependency ratio_: 39.1<br>
+_elderly dependency ratio_: 8.6<br>
+_potential support ratio_: 11.6 (2021 est.)<br>
 
 **Median age**<br>
 _total_: 27.9 years<br>
@@ -194,7 +194,7 @@ _unimproved: rural_: rural: 26.5% of population<br>
 _unimproved: total_: total: 22% of population (2020 est.)<br>
 
 **HIV/AIDS - adult prevalence rate**<br>
-(2018 est.) <.1%<br>
+(2021 est.) <0.1%<br>
 
 **Major infectious diseases**<br>
 _degree of risk_: high (2020)<br>
@@ -240,7 +240,7 @@ _total_: 12 years<br>
 _male_: 12 years<br>
 _female_: 13 years (2020)<br>
 
-**Unemployment, youth ages 15-24**<br>
+**Youth unemployment rate (ages 15-24)**<br>
 _total_: 12.8%<br>
 _male_: 10.8%<br>
 _female_: 16.8% (2017 est.)<br>
@@ -484,7 +484,7 @@ _services_: 36.9% (2016 est.)<br>
 4.4% (2016 est.)<br>
 <strong>note:</strong> about 40% of the population is underemployed; many persons counted as employed work only a few hours a week and at low wages<br>
 
-**Unemployment, youth ages 15-24**<br>
+**Youth unemployment rate (ages 15-24)**<br>
 _total_: 12.8%<br>
 _male_: 10.8%<br>
 _female_: 16.8% (2017 est.)<br>

@@ -115,9 +115,9 @@ _65 years and over_: 6.09% (male 1,443,956/female 1,992,205) (2020 est.)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 52.2<br>
-_youth dependency ratio_: 43.8<br>
+_youth dependency ratio_: 43.9<br>
 _elderly dependency ratio_: 8.4<br>
-_potential support ratio_: 11.9 (2020 est.)<br>
+_potential support ratio_: 10.9 (2021 est.)<br>
 
 **Median age**<br>
 _total_: 28 years<br>
@@ -197,7 +197,7 @@ _unimproved: rural_: rural: 13.6% of population<br>
 _unimproved: total_: total: 6.8% of population (2020 est.)<br>
 
 **HIV/AIDS - adult prevalence rate**<br>
-19.1% (2020 est.)<br>
+18.3% (2021 est.)<br>
 
 **Major infectious diseases**<br>
 _degree of risk_: intermediate (2020)<br>
@@ -242,7 +242,7 @@ _total_: 14 years<br>
 _male_: 13 years<br>
 _female_: 14 years (2019)<br>
 
-**Unemployment, youth ages 15-24**<br>
+**Youth unemployment rate (ages 15-24)**<br>
 _total_: 59.4%<br>
 _male_: 55.4%<br>
 _female_: 64.1% (2020 est.)<br>
@@ -479,7 +479,7 @@ _services_: 71.9% (2014 est.)<br>
 28.53% (2019 est.)<br>
 27.09% (2018 est.)<br>
 
-**Unemployment, youth ages 15-24**<br>
+**Youth unemployment rate (ages 15-24)**<br>
 _total_: 59.4%<br>
 _male_: 55.4%<br>
 _female_: 64.1% (2020 est.)<br>
@@ -698,6 +698,9 @@ _by type_: bulk carrier 2, general cargo 1, oil tanker 7, other 95 (2021)<br>
 _major seaport(s)_: Cape Town, Durban, Port Elizabeth, Richards Bay, Saldanha Bay<br>
 _container port(s) (TEUs)_: Durban (2,769,869) (2019)<br>
 _LNG terminal(s) (import)_: Mossel Bay<br>
+
+**Transportation - note**<br>
+South Africa operates one PC 5 or 6 class icebreaker<br><strong>note </strong>- PC 5 - Year-round operation in medium first-year ice which may include old ice inclusions (ice thickness up to 70-120 cm); PC 6 - Summer/autumn operation in medium first-year ice which may include old ice inclusions (ice thickness up to 30-70 cm)<br>
 
 ## Military and Security
 

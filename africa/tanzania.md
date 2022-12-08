@@ -103,7 +103,7 @@ Christian 63.1%, Muslim 34.1%, folk religion 1.1%, Buddhist &lt;1%, Hindu &lt;1%
 <strong>note:</strong> Zanzibar is almost entirely Muslim<br>
 
 **Demographic profile**<br>
-<p>Tanzania has the largest population in East Africa and the lowest population density; almost a third of the population is urban. Tanzania’s youthful population – about two-thirds of the population is under 25 – is growing rapidly because of the high total fertility rate of 4.4 children per woman, as of 2022. Progress in reducing the birth rate has stalled, sustaining the country’s nearly 3% annual growth. The maternal mortality rate has improved since 2000, yet it remains very high because of early and frequent pregnancies, inadequate maternal health services, and a lack of skilled birth attendants – problems that are worse among poor and rural women. Tanzania has made strides in reducing under-5 and infant mortality rates, but a recent drop in immunization threatens to undermine gains in child health. Malaria is a leading killer of children under 5, while HIV is the main source of adult mortality</p> <p>For Tanzania, most migration is internal, rural to urban movement, while some temporary labor migration from towns to plantations takes place seasonally for harvests. Tanzania was Africa’s largest refugee-hosting country for decades, hosting hundreds of thousands of refugees from the Great Lakes region, primarily Burundi, over the last fifty years. However, the assisted repatriation and naturalization of tens of thousands of Burundian refugees between 2002 and 2014 dramatically reduced the refugee population. Tanzania is increasingly a transit country for illegal migrants from the Horn of Africa and the Great Lakes region who are heading to southern Africa for security reasons and/or economic opportunities. Some of these migrants choose to settle in Tanzania.</p><br>
+<p>Tanzania has the largest population in East Africa and the lowest population density; almost a third of the population is urban. Tanzania’s youthful population – about two-thirds of the population is under 25 – is growing rapidly because of the high total fertility rate of 4.4 children per woman, as of 2022. Progress in reducing the birth rate has stalled, sustaining the country’s nearly 3% annual growth. The maternal mortality rate has improved since 2000, yet it remains very high because of early and frequent pregnancies, inadequate maternal health services, and a lack of skilled birth attendants – problems that are worse among poor and rural women. Tanzania has made strides in reducing under-5 and infant mortality rates, but a recent drop in immunization threatens to undermine gains in child health. Malaria is a leading killer of children under 5, while HIV is the main source of adult mortality.</p> <p>For Tanzania, most migration is internal, rural to urban movement, while some temporary labor migration from towns to plantations takes place seasonally for harvests. Tanzania was Africa’s largest refugee-hosting country for decades, hosting hundreds of thousands of refugees from the Great Lakes region, primarily Burundi, over the last fifty years. However, the assisted repatriation and naturalization of tens of thousands of Burundian refugees between 2002 and 2014 dramatically reduced the refugee population. Tanzania is increasingly a transit country for illegal migrants from the Horn of Africa and the Great Lakes region who are heading to southern Africa for security reasons and/or economic opportunities. Some of these migrants choose to settle in Tanzania.</p><br>
 
 **Age structure**<br>
 _0-14 years_: 42.7% (male 12,632,772/female 12,369,115)<br>
@@ -113,10 +113,10 @@ _55-64 years_: 3.52% (male 954,251/female 1,107,717)<br>
 _65 years and over_: 3.08% (male 747,934/female 1,056,905) (2020 est.)<br>
 
 **Dependency ratios**<br>
-_total dependency ratio_: 85.9<br>
-_youth dependency ratio_: 81<br>
-_elderly dependency ratio_: 4.9<br>
-_potential support ratio_: 20.4 (2020 est.)<br>
+_total dependency ratio_: 87.7<br>
+_youth dependency ratio_: 81.9<br>
+_elderly dependency ratio_: 5.9<br>
+_potential support ratio_: 20.4 (2021 est.)<br>
 
 **Median age**<br>
 _total_: 18.2 years<br>
@@ -203,7 +203,7 @@ _unimproved: rural_: rural: 70.8% of population<br>
 _unimproved: total_: total: 49.6% of population (2020 est.)<br>
 
 **HIV/AIDS - adult prevalence rate**<br>
-4.7% (2020 est.)<br>
+4.5% (2021 est.)<br>
 
 **Major infectious diseases**<br>
 _degree of risk_: very high (2020)<br>
@@ -249,7 +249,7 @@ _total_: 9 years<br>
 _male_: 9 years<br>
 _female_: 9 years (2020)<br>
 
-**Unemployment, youth ages 15-24**<br>
+**Youth unemployment rate (ages 15-24)**<br>
 _total_: 3.9%<br>
 _male_: 3.1%<br>
 _female_: 4.6% (2014 est.)<br>
@@ -488,7 +488,7 @@ _services_: 26.6% (2014 est.)<br>
 **Unemployment rate**<br>
 10.3% (2014 est.)<br>
 
-**Unemployment, youth ages 15-24**<br>
+**Youth unemployment rate (ages 15-24)**<br>
 _total_: 3.9%<br>
 _male_: 3.1%<br>
 _female_: 4.6% (2014 est.)<br>

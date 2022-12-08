@@ -96,10 +96,10 @@ _55-64 years_: 13.22% (male 6,515/female 6,844)<br>
 _65 years and over_: 17.05% (male 7,324/female 9,906) (2020 est.)<br>
 
 **Dependency ratios**<br>
-_total dependency ratio_: 49<br>
-_youth dependency ratio_: 22.3<br>
-_elderly dependency ratio_: 26.7<br>
-_potential support ratio_: 3.7 (2020 est.)<br>
+_total dependency ratio_: 44.5<br>
+_youth dependency ratio_: 21.3<br>
+_elderly dependency ratio_: 23.2<br>
+_potential support ratio_: 4.3 (2021 est.)<br>
 <strong>note:</strong> data represent Guernsey and Jersey<br>
 
 **Median age**<br>
@@ -267,12 +267,12 @@ _elections/appointments_: the monarchy is hereditary; Council of Ministers, incl
 **Legislative branch**<br>
 _description_: unicameral Assembly of the States of Jersey (49 elected members; 8 senators to serve 4-year terms, and 29 deputies and 12 connetables, or heads of parishes, to serve 4-year terms; 5 non-voting members appointed by the monarch include the bailiff, lieutenant governor, dean of Jersey, attorney general, and the solicitor general)<br>
 _elections_: last held on 22 June 2022 (next to be held in 2026)<br>
-_election results_: percent of vote - BW 71.4%, RJ 20.4%, JA 2%, PP 2%, JLC 4.1%; seats by party - BW 35, RJ 10, JA 1, PP 1, JLC 2; composition - men NA, women NA, percent of women NA%<br>
+_election results_: percent of vote by party - BW 71.4%, RJ 20.4%, JA 2%, PP 2%, JLC 4.1%; seats by party - BW 35, RJ 10, JA 1, PP 1, JLC 2; composition - men NA, women NA, percent of women NA<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Jersey Court of Appeal (consists of the bailiff, deputy bailiff, and 12 judges); Royal Court (consists of the bailiff, deputy bailiff, 6 commissioners and lay people referred to as jurats, and is organized into Heritage, Family, Probate, and Samedi Divisions); appeals beyond the Court of Appeal are heard by the Judicial Committee of the Privy Council (in London)<br>
 _judge selection and term of office_: Jersey Court of Appeal bailiffs and judges appointed by the Crown upon the advice of the Secretary of State for Justice; bailiffs and judges appointed for "extent of good behavior;" Royal Court bailiffs appointed by the Crown upon the advice of the Secretary of State for Justice; commissioners appointed by the bailiff; jurats appointed by the Electoral College; bailiffs and commissioners appointed for "extent of good behavior;" jurats appointed until retirement at age 72<br>
-_subordinate courts_: Magistrate's Court; Youth Court; Petty Debts Court; Parish Hall Enquires (a process of preliminary investigation into youth and minor adult offenses to determine need for presentation before a court)<br>
+_subordinate courts_: Magistrate's Court; Youth Court; Petty Debts Court; Parish Hall Enquiries (a process of preliminary investigation into youth and minor adult offenses to determine need for presentation before a court)<br>
 
 **Political parties and leaders**<br>
 Better Way or BW (group of independent candidates)<br>Jersey Alliance or JA [Mark BOLEAT]<br>Jersey Liberal Conservatives or JLC [Sir Philip BAILHACHE]<br>Progress Party or PP [Steve PALLETT]<br>Reform Jersey or RJ [Sam MEZEC]<br>

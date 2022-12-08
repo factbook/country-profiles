@@ -54,7 +54,7 @@ _agricultural land_: 0% (2018 est.)<br>
 _other_: 100% (2018 est.)<br>
 
 **Irrigated land**<br>
-0 sq km (2012)<br>
+0 sq km (2022)<br>
 
 **Natural hazards**<br>
 subject to occasional typhoons<br>

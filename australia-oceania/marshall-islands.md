@@ -61,7 +61,7 @@ _forest_: 49.3% (2018 est.)<br>
 _other_: 0% (2018 est.)<br>
 
 **Irrigated land**<br>
-0 sq km (2012)<br>
+0 sq km (2022)<br>
 
 **Population distribution**<br>
 most people live in urban clusters found on many of the country's islands; more than two-thirds of the population lives on the atolls of Majuro and Ebeye<br>
@@ -100,10 +100,10 @@ _55-64 years_: 5.92% (male 2,269/female 2,341)<br>
 _65 years and over_: 4.7% (male 1,805/female 1,857) (2020 est.)<br>
 
 **Dependency ratios**<br>
-_total dependency ratio_: NA<br>
-_youth dependency ratio_: NA<br>
-_elderly dependency ratio_: NA<br>
-_potential support ratio_: NA<br>
+_total dependency ratio_: 59.9<br>
+_youth dependency ratio_: 53<br>
+_elderly dependency ratio_: 6.8<br>
+_potential support ratio_: 14.7 (2021)<br>
 
 **Median age**<br>
 _total_: 23.8 years<br>
@@ -215,7 +215,7 @@ _total_: 10 years<br>
 _male_: 10 years<br>
 _female_: 10 years (2019)<br>
 
-**Unemployment, youth ages 15-24**<br>
+**Youth unemployment rate (ages 15-24)**<br>
 _total_: 26%<br>
 _male_: 31%<br>
 _female_: 14.2% (2019 est.)<br>
@@ -428,7 +428,7 @@ _services_: 72.7% (2011 est.)<br>
 36% (2006 est.)<br>
 30.9% (2000 est.)<br>
 
-**Unemployment, youth ages 15-24**<br>
+**Youth unemployment rate (ages 15-24)**<br>
 _total_: 26%<br>
 _male_: 31%<br>
 _female_: 14.2% (2019 est.)<br>

@@ -59,7 +59,7 @@ _forest_: 22.5% (2018 est.)<br>
 _other_: 18.6% (2018 est.)<br>
 
 **Irrigated land**<br>
-1,721 sq km (2012)<br>
+1,010 sq km (2019)<br>
 
 **Major lakes (area sq km)**<br>
 _fresh water lake(s)_: Lake Balaton - 590 sq km<br>
@@ -104,10 +104,10 @@ _55-64 years_: 12.17% (male 552,876/female 636,107)<br>
 _65 years and over_: 20.69% (male 773,157/female 1,248,658) (2020 est.)<br>
 
 **Dependency ratios**<br>
-_total dependency ratio_: 46.9<br>
-_youth dependency ratio_: 22<br>
-_elderly dependency ratio_: 30.8<br>
-_potential support ratio_: 3.2 (2020 est.)<br>
+_total dependency ratio_: 53.8<br>
+_youth dependency ratio_: 22.4<br>
+_elderly dependency ratio_: 31.4<br>
+_potential support ratio_: 3.2 (2021 est.)<br>
 
 **Median age**<br>
 _total_: 43.6 years<br>
@@ -193,7 +193,7 @@ _unimproved: rural_: rural: 0% of population<br>
 _unimproved: total_: total: 0% of population (2020 est.)<br>
 
 **HIV/AIDS - adult prevalence rate**<br>
-(2018 est.) <.1%<br>
+NA<br>
 
 **Major infectious diseases**<br>
 _degree of risk_: intermediate (2016)<br>
@@ -231,7 +231,7 @@ _total_: 13 years<br>
 _male_: 12 years<br>
 _female_: 14 years (2019)<br>
 
-**Unemployment, youth ages 15-24**<br>
+**Youth unemployment rate (ages 15-24)**<br>
 _total_: 12.8%<br>
 _male_: 11.9%<br>
 _female_: 14% (2020 est.)<br>
@@ -469,7 +469,7 @@ _services_: 64.5% (2015 est.)<br>
 3.45% (2019 est.)<br>
 3.71% (2018 est.)<br>
 
-**Unemployment, youth ages 15-24**<br>
+**Youth unemployment rate (ages 15-24)**<br>
 _total_: 12.8%<br>
 _male_: 11.9%<br>
 _female_: 14% (2020 est.)<br>
@@ -732,7 +732,7 @@ Islamic State of Iraq and ash-Sham (ISIS)<br>
 <p>bilateral government, legal, technical and economic working group negotiations continue in 2006 with Slovakia over Hungary's failure to complete its portion of the Gabcikovo-Nagymaros hydroelectric dam project along the Danube; as a member state that forms part of the EU's external border, Hungary has implemented the strict Schengen border rules</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 32,271 (Ukraine) (as of 22 November 2022)<br>
+_refugees (country of origin)_: 32,271 (Ukraine) (as of 29 November 2022)<br>
 _stateless persons_: 130 (mid-year 2021)<br>
 
 **Illicit drugs**<br>

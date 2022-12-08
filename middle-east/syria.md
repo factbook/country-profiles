@@ -61,7 +61,7 @@ _forest_: 2.7% (2018 est.)<br>
 _other_: 21.5% (2018 est.)<br>
 
 **Irrigated land**<br>
-14,280 sq km (2012)<br>
+13,100 sq km (2013)<br>
 
 **Major rivers (by length in km)**<br>
 Euphrates (shared with Turkey [s], Iran, and Iraq [m]) - 3,596 km; Tigris (shared with Turkey, Iran, and Iraq [m]) - 1,950 km<br><strong>note</strong> – [s] after country name indicates river source; [m] after country name indicates river mouth<br>
@@ -109,9 +109,9 @@ _65 years and over_: 4.46% (male 404,813/female 459,417) (2020 est.)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 55.4<br>
-_youth dependency ratio_: 47.8<br>
-_elderly dependency ratio_: 7.6<br>
-_potential support ratio_: 13.2 (2020 est.)<br>
+_youth dependency ratio_: 53<br>
+_elderly dependency ratio_: 7.4<br>
+_potential support ratio_: 13.5 (2021 est.)<br>
 
 **Median age**<br>
 _total_: 23.5 years<br>
@@ -195,7 +195,7 @@ _unimproved: rural_: rural: 0.5% of population<br>
 _unimproved: total_: total: 0.5% of population (2020 est.)<br>
 
 **HIV/AIDS - adult prevalence rate**<br>
-(2020 est.) <.1%<br>
+(2021 est.) <0.1%<br>
 
 **Obesity - adult prevalence rate**<br>
 27.8% (2016)<br>
@@ -224,7 +224,7 @@ _total_: 9 years<br>
 _male_: 9 years<br>
 _female_: 9 years (2013)<br>
 
-**Unemployment, youth ages 15-24**<br>
+**Youth unemployment rate (ages 15-24)**<br>
 _total_: 35.8%<br>
 _male_: 26.6%<br>
 _female_: 71.1% (2011 est.)<br>
@@ -441,7 +441,7 @@ _services_: 67% (2008 est.)<br>
 50% (2017 est.)<br>
 50% (2016 est.)<br>
 
-**Unemployment, youth ages 15-24**<br>
+**Youth unemployment rate (ages 15-24)**<br>
 _total_: 35.8%<br>
 _male_: 26.6%<br>
 _female_: 71.1% (2011 est.)<br>

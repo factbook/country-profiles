@@ -61,7 +61,7 @@ _forest_: 6.6% (2018 est.)<br>
 _other_: 28.6% (2018 est.)<br>
 
 **Irrigated land**<br>
-4,590 sq km (2012)<br>
+3,920 sq km (2013)<br>
 
 **Major aquifers**<br>
 North Western Sahara Aquifer System<br>
@@ -105,10 +105,10 @@ _55-64 years_: 10.12% (male 587,481/female 598,140)<br>
 _65 years and over_: 8.86% (male 491,602/female 546,458) (2020 est.)<br>
 
 **Dependency ratios**<br>
-_total dependency ratio_: 49.6<br>
+_total dependency ratio_: 50.9<br>
 _youth dependency ratio_: 36.3<br>
 _elderly dependency ratio_: 13.3<br>
-_potential support ratio_: 7.5 (2020 est.)<br>
+_potential support ratio_: 7.5 (2021 est.)<br>
 
 **Median age**<br>
 _total_: 32.7 years<br>
@@ -191,7 +191,7 @@ _unimproved: rural_: rural: 0.6% of population<br>
 _unimproved: total_: total: 1% of population (2020 est.)<br>
 
 **HIV/AIDS - adult prevalence rate**<br>
-(2020 est.) <.1%<br>
+(2021 est.) <0.1%<br>
 
 **Obesity - adult prevalence rate**<br>
 26.9% (2016)<br>
@@ -225,7 +225,7 @@ _total_: 15 years<br>
 _male_: 14 years<br>
 _female_: 16 years (2016)<br>
 
-**Unemployment, youth ages 15-24**<br>
+**Youth unemployment rate (ages 15-24)**<br>
 _total_: 34.9%<br>
 _male_: 33.8%<br>
 _female_: 37.2% (2017 est.)<br>
@@ -452,7 +452,7 @@ _services_: 51.7% (2014 est.)<br>
 15.5% (2017 est.)<br>
 15.5% (2016 est.)<br>
 
-**Unemployment, youth ages 15-24**<br>
+**Youth unemployment rate (ages 15-24)**<br>
 _total_: 34.9%<br>
 _male_: 33.8%<br>
 _female_: 37.2% (2017 est.)<br>

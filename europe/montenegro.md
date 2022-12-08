@@ -104,10 +104,10 @@ _55-64 years_: 13.41% (male 40,099/female 41,670)<br>
 _65 years and over_: 16.02% (male 42,345/female 55,351) (2020 est.)<br>
 
 **Dependency ratios**<br>
-_total dependency ratio_: 51.1<br>
-_youth dependency ratio_: 27.3<br>
-_elderly dependency ratio_: 23.8<br>
-_potential support ratio_: 4.2 (2020 est.)<br>
+_total dependency ratio_: 52.5<br>
+_youth dependency ratio_: 27.7<br>
+_elderly dependency ratio_: 24.8<br>
+_potential support ratio_: 4 (2021 est.)<br>
 
 **Median age**<br>
 _total_: 39.6 years<br>
@@ -193,7 +193,7 @@ _unimproved: rural_: rural: 6.1% of population<br>
 _unimproved: total_: total: 2% of population (2020 est.)<br>
 
 **HIV/AIDS - adult prevalence rate**<br>
-(2020 est.) <.1%<br>
+(2021 est.) <0.1%<br>
 
 **Major infectious diseases**<br>
 _degree of risk_: intermediate (2020)<br>
@@ -237,7 +237,7 @@ _total_: 15 years<br>
 _male_: 15 years<br>
 _female_: 16 years (2020)<br>
 
-**Unemployment, youth ages 15-24**<br>
+**Youth unemployment rate (ages 15-24)**<br>
 _total_: 36%<br>
 _male_: 33.6%<br>
 _female_: 39.7% (2020 est.)<br>
@@ -469,7 +469,7 @@ _services_: 75% (2017 est.)<br>
 15.82% (2019 est.)<br>
 18.8% (2018 est.)<br>
 
-**Unemployment, youth ages 15-24**<br>
+**Youth unemployment rate (ages 15-24)**<br>
 _total_: 36%<br>
 _male_: 33.6%<br>
 _female_: 39.7% (2020 est.)<br>
@@ -711,7 +711,7 @@ Montenegro became a member of NATO in 2017; as of 2022, Greece and Italy provide
 **Refugees and internally displaced persons**<br>
 _refugees (country of origin)_: 28,639 (Ukraine) (as of 1 November 2022)<br>
 _stateless persons_: 458 (mid-year 2021)<br>
-<strong>note:</strong> 28,034 estimated refugee and migrant arrivals (January 2015-November 2022)<br>
+<strong>note:</strong> 28,201 estimated refugee and migrant arrivals (January 2015-November 2022)<br>
 
 **Illicit drugs**<br>
 <p>drug trafficking groups are major players in the procurement and transportation of large quantities of cocaine  destined for  European markets</p><br>

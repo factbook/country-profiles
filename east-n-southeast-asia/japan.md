@@ -61,7 +61,7 @@ _forest_: 68.5% (2018 est.)<br>
 _other_: 19% (2018 est.)<br>
 
 **Irrigated land**<br>
-24,690 sq km (2012)<br>
+15,730 sq km (2014)<br>
 
 **Major lakes (area sq km)**<br>
 _fresh water lake(s)_: Biwa-ko 688 sq km<br>
@@ -104,10 +104,10 @@ _55-64 years_: 12.06% (male 7,564,067/female 7,570,732)<br>
 _65 years and over_: 29.18% (male 16,034,973/female 20,592,496) (2020 est.)<br>
 
 **Dependency ratios**<br>
-_total dependency ratio_: 69<br>
-_youth dependency ratio_: 21<br>
-_elderly dependency ratio_: 48<br>
-_potential support ratio_: 2.1 (2020 est.)<br>
+_total dependency ratio_: 71.1<br>
+_youth dependency ratio_: 20.1<br>
+_elderly dependency ratio_: 51<br>
+_potential support ratio_: 2 (2021 est.)<br>
 
 **Median age**<br>
 _total_: 48.6 years<br>
@@ -194,7 +194,7 @@ _unimproved: rural_: rural: NA<br>
 _unimproved: total_: total: 0.1% of population (2020 est.)<br>
 
 **HIV/AIDS - adult prevalence rate**<br>
-(2020 est.) <.1%<br>
+NA<br>
 
 **Major infectious diseases**<br>
 _respiratory diseases_: Covid-19 (see note) (2020)<br>
@@ -231,7 +231,7 @@ _total_: 15 years<br>
 _male_: 15 years<br>
 _female_: 15 years (2018)<br>
 
-**Unemployment, youth ages 15-24**<br>
+**Youth unemployment rate (ages 15-24)**<br>
 _total_: 4.6%<br>
 _male_: 5%<br>
 _female_: 4.2% (2020 est.)<br>
@@ -462,7 +462,7 @@ _services_: 70.9% (February 2015 est.)<br>
 2.36% (2019 est.)<br>
 2.44% (2018 est.)<br>
 
-**Unemployment, youth ages 15-24**<br>
+**Youth unemployment rate (ages 15-24)**<br>
 _total_: 4.6%<br>
 _male_: 5%<br>
 _female_: 4.2% (2020 est.)<br>
@@ -685,6 +685,9 @@ _major seaport(s)_: Chiba, Kawasaki, Kobe, Mizushima, Moji, Nagoya, Osaka, Tokyo
 _container port(s) (TEUs)_: Kobe (2,871,642), Nagoya (2,844,004), Osaka (2,456,028), Tokyo (4,510,000), Yokohama (2,990,000) (2019)<br>
 _LNG terminal(s) (import)_: Chita, Fukwoke, Futtsu, Hachinone, Hakodate, Hatsukaichi, Higashi Ohgishima, Higashi Niigata, Himeiji, Joetsu, Kagoshima, Kawagoe, Kita Kyushu, Mizushima, Nagasaki, Naoetsu, Negishi, Ohgishima, Oita, Sakai, Sakaide, Senboku, Shimizu, Shin Minato, Sodegaura, Tobata, Yanai, Yokkaichi<br>
 Okinawa - Nakagusuku<br>
+
+**Transportation - note**<br>
+Japan operates one PC 3 or 4 class icebreaker<br><strong>note </strong>- PC 3 - Year-round operation in second-year ice which may include multi-year ice inclusions (ice thickness up to 2.5 m); PC 4 - Year-round operation in thick first-year ice which may include old ice inclusions (ice thickness up to 120 cm)<br>
 
 ## Military and Security
 

@@ -62,7 +62,7 @@ _forest_: 3.8% (2018 est.)<br>
 _other_: 91.6% (2018 est.)<br>
 
 **Irrigated land**<br>
-923 sq km (2012)<br>
+898 sq km (2020)<br>
 
 **Population distribution**<br>
 population is heavily concentrated to the northeast on the Musandam Peninsula; the three largest emirates - Abu Dhabi, Dubai, and Sharjah - are home to nearly 85% of the population<br>
@@ -103,10 +103,10 @@ _55-64 years_: 7.68% (male 658,892/female 108,850)<br>
 _65 years and over_: 1.9% (male 146,221/female 43,138) (2020 est.)<br>
 
 **Dependency ratios**<br>
-_total dependency ratio_: 19.2<br>
-_youth dependency ratio_: 17.7<br>
-_elderly dependency ratio_: 1.5<br>
-_potential support ratio_: 66.4 (2020 est.)<br>
+_total dependency ratio_: 20.3<br>
+_youth dependency ratio_: 18.2<br>
+_elderly dependency ratio_: 2.1<br>
+_potential support ratio_: 47.3 (2021 est.)<br>
 
 **Median age**<br>
 _total_: 38.4 years<br>
@@ -189,7 +189,7 @@ _unimproved: rural_: rural: NA<br>
 _unimproved: total_: total: 0% of population (2020 est.)<br>
 
 **HIV/AIDS - adult prevalence rate**<br>
-0.1% (2020)<br>
+NA<br>
 
 **Major infectious diseases**<br>
 <strong>note:</strong> widespread ongoing transmission of a respiratory illness caused by the novel coronavirus (COVID-19) is occurring throughout UAE; as of 18 August 2022, UAE has reported a total of 1,007,039 cases of COVID-19 or 10,181.98 cumulative cases of COVID-19 per 100,000 population with a total of 2,340 cumulative deaths or a rate of 23.65 cumulative deaths per 100,000 population<br>
@@ -221,7 +221,7 @@ _total_: 16 years<br>
 _male_: 15 years<br>
 _female_: 17 years (2020)<br>
 
-**Unemployment, youth ages 15-24**<br>
+**Youth unemployment rate (ages 15-24)**<br>
 _total_: 7.2%<br>
 _male_: 4.9%<br>
 _female_: 15% (2019 est.)<br>
@@ -451,7 +451,7 @@ _services_: 78% (2000 est.)<br>
 1.6% (2016 est.)<br>
 3.6% (2014 est.)<br>
 
-**Unemployment, youth ages 15-24**<br>
+**Youth unemployment rate (ages 15-24)**<br>
 _total_: 7.2%<br>
 _male_: 4.9%<br>
 _female_: 15% (2019 est.)<br>

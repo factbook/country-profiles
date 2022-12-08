@@ -58,7 +58,7 @@ _forest_: 25% (2018 est.)<br>
 _other_: 45% (2018 est.)<br>
 
 **Irrigated land**<br>
-0 sq km (2012)<br>
+0 sq km (2022)<br>
 
 **Population distribution**<br>
 only the northern half of the island is populated, the southern portion is uninhabitable due to volcanic activity<br>
@@ -96,10 +96,10 @@ _55-64 years_: 10.47% (male 258/female 309)<br>
 _65 years and over_: 7.15% (male 209/female 178) (2022 est.)<br>
 
 **Dependency ratios**<br>
-_total dependency ratio_: NA<br>
-_youth dependency ratio_: NA<br>
-_elderly dependency ratio_: NA<br>
-_potential support ratio_: NA<br>
+_total dependency ratio_: 43.9<br>
+_youth dependency ratio_: 19.2<br>
+_elderly dependency ratio_: 24.7<br>
+_potential support ratio_: 4 (2021)<br>
 
 **Median age**<br>
 _total_: 34.8 years<br>

@@ -61,7 +61,7 @@ _forest_: 13.6% (2018 est.)<br>
 _other_: 11.7% (2018 est.)<br>
 
 **Irrigated land**<br>
-452 sq km (2012)<br>
+274 sq km (2020)<br>
 
 **Population distribution**<br>
 athough it is the smallest country in land area in Central America, El Salvador has a population that is 18 times larger than Belize; at least 20% of the population lives abroad; high population density country-wide, with particular concentration around the capital of San Salvador<br>
@@ -102,10 +102,10 @@ _55-64 years_: 7.23% (male 198,029/female 270,461)<br>
 _65 years and over_: 7.6% (male 214,717/female 277,979) (2020 est.)<br>
 
 **Dependency ratios**<br>
-_total dependency ratio_: 54.4<br>
-_youth dependency ratio_: 41.1<br>
-_elderly dependency ratio_: 13.4<br>
-_potential support ratio_: 7.5 (2020 est.)<br>
+_total dependency ratio_: 51.3<br>
+_youth dependency ratio_: 39<br>
+_elderly dependency ratio_: 12.3<br>
+_potential support ratio_: 8.1 (2021 est.)<br>
 
 **Median age**<br>
 _total_: 27.7 years<br>
@@ -192,7 +192,7 @@ _unimproved: rural_: rural: 2.9% of population<br>
 _unimproved: total_: total: 0.8% of population (2020 est.)<br>
 
 **HIV/AIDS - adult prevalence rate**<br>
-0.5% (2020 est.)<br>
+0.5% (2021 est.)<br>
 
 **Major infectious diseases**<br>
 _degree of risk_: high (2020)<br>
@@ -231,7 +231,7 @@ _total_: 12 years<br>
 _male_: 12 years<br>
 _female_: 12 years (2018)<br>
 
-**Unemployment, youth ages 15-24**<br>
+**Youth unemployment rate (ages 15-24)**<br>
 _total_: 10%<br>
 _male_: 8.3%<br>
 _female_: 12.8% (2019)<br>
@@ -459,7 +459,7 @@ _services_: 58% (2011 est.)<br>
 6.9% (2016 est.)<br>
 <strong>note:</strong> data are official rates; but underemployment is high<br>
 
-**Unemployment, youth ages 15-24**<br>
+**Youth unemployment rate (ages 15-24)**<br>
 _total_: 10%<br>
 _male_: 8.3%<br>
 _female_: 12.8% (2019)<br>

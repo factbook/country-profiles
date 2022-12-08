@@ -59,7 +59,7 @@ _forest_: 0% (2018 est.)<br>
 _other_: 80% (2018 est.)<br>
 
 **Irrigated land**<br>
-0 sq km (2012)<br>
+0 sq km (2022)<br>
 
 **Population distribution**<br>
 extensive phosphate mining made approximately 90% of the island unsuitable for farming; most people live in the fertile coastal areas, especially along the southwest coast<br>
@@ -97,10 +97,10 @@ _55-64 years_: 6.97% (male 283/female 401)<br>
 _65 years and over_: 3.94% (male 133/female 254) (2022 est.)<br>
 
 **Dependency ratios**<br>
-_total dependency ratio_: NA<br>
-_youth dependency ratio_: NA<br>
-_elderly dependency ratio_: NA<br>
-_potential support ratio_: NA<br>
+_total dependency ratio_: 69.9<br>
+_youth dependency ratio_: 66<br>
+_elderly dependency ratio_: 3.9<br>
+_potential support ratio_: 25.8 (2021)<br>
 
 **Median age**<br>
 _total_: 27 years<br>
@@ -207,7 +207,7 @@ _total population_: NA<br>
 _male_: NA<br>
 _female_: NA<br>
 
-**Unemployment, youth ages 15-24**<br>
+**Youth unemployment rate (ages 15-24)**<br>
 _total_: 26.6%<br>
 _male_: 20.9%<br>
 _female_: 37.5% (2013)<br>
@@ -397,7 +397,7 @@ NA<br>
 23% (2011 est.)<br>
 90% (2004 est.)<br>
 
-**Unemployment, youth ages 15-24**<br>
+**Youth unemployment rate (ages 15-24)**<br>
 _total_: 26.6%<br>
 _male_: 20.9%<br>
 _female_: 37.5% (2013)<br>

@@ -60,7 +60,7 @@ _forest_: 0.3% (2018 est.)<br>
 _other_: 81% (2018 est.)<br>
 
 **Irrigated land**<br>
-NA<br>
+0.5 sq km (2020)<br>
 
 **Population distribution**<br>
 Iceland is almost entirely urban with half of the population located in and around the capital of Reykjavik; smaller clusters are primarily found along the coast in the north and west<br>
@@ -98,10 +98,10 @@ _55-64 years_: 11.94% (male 20,762/female 21,111)<br>
 _65 years and over_: 15.47% (male 25,546/female 28,697) (2020 est.)<br>
 
 **Dependency ratios**<br>
-_total dependency ratio_: 54<br>
-_youth dependency ratio_: 29.9<br>
-_elderly dependency ratio_: 24.1<br>
-_potential support ratio_: 4.2 (2020 est.)<br>
+_total dependency ratio_: 50.5<br>
+_youth dependency ratio_: 28<br>
+_elderly dependency ratio_: 22.5<br>
+_potential support ratio_: 4.5 (2021 est.)<br>
 
 **Median age**<br>
 _total_: 37.1 years<br>
@@ -187,7 +187,7 @@ _unimproved: rural_: rural: 0% of population<br>
 _unimproved: total_: total: 0% of population (2020 est.)<br>
 
 **HIV/AIDS - adult prevalence rate**<br>
-0.1% (2020)<br>
+0.1% (2021)<br>
 
 **Obesity - adult prevalence rate**<br>
 21.9% (2016)<br>
@@ -220,7 +220,7 @@ _total_: 19 years<br>
 _male_: 18 years<br>
 _female_: 20 years (2019)<br>
 
-**Unemployment, youth ages 15-24**<br>
+**Youth unemployment rate (ages 15-24)**<br>
 _total_: 10%<br>
 _male_: 11.1%<br>
 _female_: 9% (2020 est.)<br>
@@ -276,9 +276,9 @@ _agricultural_: 300,000 cubic meters (2017 est.)<br>
 ## Government
 
 **Country name**<br>
-_conventional long form_: Republic of Iceland<br>
+_conventional long form_: none<br>
 _conventional short form_: Iceland<br>
-_local long form_: Lydveldid Island<br>
+_local long form_: none<br>
 _local short form_: Island<br>
 _etymology_: Floki VILGERDARSON, an early Norse explorer of the island (9th century), applied the name "Land of Ice" after spotting a fjord full of drift ice to the north and spending a bitter winter on the island; he eventually settled on the island, however, after he saw how it greened up in the summer and that it was, in fact, habitable<br>
 
@@ -443,7 +443,7 @@ _services_: 73% (2008)<br>
 3.62% (2019 est.)<br>
 2.73% (2018 est.)<br>
 
-**Unemployment, youth ages 15-24**<br>
+**Youth unemployment rate (ages 15-24)**<br>
 _total_: 10%<br>
 _male_: 11.1%<br>
 _female_: 9% (2020 est.)<br>

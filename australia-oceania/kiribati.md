@@ -60,7 +60,7 @@ _forest_: 15% (2018 est.)<br>
 _other_: 43% (2018 est.)<br>
 
 **Irrigated land**<br>
-0 sq km (2012)<br>
+0 sq km (2022)<br>
 
 **Population distribution**<br>
 consists of three achipelagos spread out over an area roughly the size of India; the eastern Line Islands and central Phoenix Islands are sparsely populated, but the western Gilbert Islands are some of the most densely settled places on earth, with the main island of South Tarawa boasting a population density similar to Tokyo or Hong Kong<br>
@@ -97,10 +97,10 @@ _55-64 years_: 6.65% (male 3,350/female 4,084)<br>
 _65 years and over_: 4.59% (male 2,004/female 3,122) (2020 est.)<br>
 
 **Dependency ratios**<br>
-_total dependency ratio_: 67<br>
-_youth dependency ratio_: 60<br>
-_elderly dependency ratio_: 7<br>
-_potential support ratio_: 14.2 (2020 est.)<br>
+_total dependency ratio_: 66.4<br>
+_youth dependency ratio_: 60.2<br>
+_elderly dependency ratio_: 6.2<br>
+_potential support ratio_: 16.1 (2021 est.)<br>
 
 **Median age**<br>
 _total_: 25.7 years<br>
@@ -225,7 +225,7 @@ _total population_: NA<br>
 _male_: NA<br>
 _female_: NA<br>
 
-**Unemployment, youth ages 15-24**<br>
+**Youth unemployment rate (ages 15-24)**<br>
 _total_: 22.5%<br>
 _male_: 21.2%<br>
 _female_: 24.6% (2019 est.)<br>
@@ -430,7 +430,7 @@ _services_: 75% (2010)<br>
 30.6% (2010 est.)<br>
 6.1% (2005)<br>
 
-**Unemployment, youth ages 15-24**<br>
+**Youth unemployment rate (ages 15-24)**<br>
 _total_: 22.5%<br>
 _male_: 21.2%<br>
 _female_: 24.6% (2019 est.)<br>

@@ -59,7 +59,7 @@ _forest_: 2.9% (2018 est.)<br>
 _other_: 62.4% (2018 est.)<br>
 
 **Irrigated land**<br>
-7,420 sq km (2012)<br>
+5,690 sq km (2020)<br>
 
 **Major rivers (by length in km)**<br>
 Syr Darya (shared with Kyrgyzstan [s], Uzbekistan, and Kazakhstan [m]) - 3,078 km; Amu Darya river source (shared with Turkmenistan, Afghanistan, and Uzbekistan [m]) - 2,620 km<br><strong>note</strong> – [s] after country name indicates river source; [m] after country name indicates river mouth<br>
@@ -107,10 +107,10 @@ _55-64 years_: 6.23% (male 253,862/female 299,378)<br>
 _65 years and over_: 3.63% (male 132,831/female 189,156) (2020 est.)<br>
 
 **Dependency ratios**<br>
-_total dependency ratio_: 67.9<br>
-_youth dependency ratio_: 62.6<br>
-_elderly dependency ratio_: 5.3<br>
-_potential support ratio_: 18.7 (2020 est.)<br>
+_total dependency ratio_: 65.9<br>
+_youth dependency ratio_: 60.4<br>
+_elderly dependency ratio_: 5.5<br>
+_potential support ratio_: 18.1 (2021 est.)<br>
 
 **Median age**<br>
 _total_: 25.3 years<br>
@@ -196,7 +196,7 @@ _unimproved: rural_: rural: 0.4% of population<br>
 _unimproved: total_: total: 0.6% of population (2020 est.)<br>
 
 **HIV/AIDS - adult prevalence rate**<br>
-0.2% (2020 est.)<br>
+0.2% (2021 est.)<br>
 
 **Major infectious diseases**<br>
 _degree of risk_: high (2020)<br>

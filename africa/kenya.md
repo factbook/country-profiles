@@ -112,10 +112,10 @@ _55-64 years_: 4.01% (male 1,053,202/female 1,093,305)<br>
 _65 years and over_: 3.07% (male 750,988/female 892,046) (2020 est.)<br>
 
 **Dependency ratios**<br>
-_total dependency ratio_: 69.8<br>
-_youth dependency ratio_: 65.5<br>
-_elderly dependency ratio_: 4.3<br>
-_potential support ratio_: 23.5 (2020 est.)<br>
+_total dependency ratio_: 70.2<br>
+_youth dependency ratio_: 65.3<br>
+_elderly dependency ratio_: 4.8<br>
+_potential support ratio_: 20.7 (2021 est.)<br>
 
 **Median age**<br>
 _total_: 20 years<br>
@@ -199,7 +199,7 @@ _unimproved: rural_: rural: 51.9% of population<br>
 _unimproved: total_: total: 41.8% of population (2020 est.)<br>
 
 **HIV/AIDS - adult prevalence rate**<br>
-4.2% (2020 est.)<br>
+4% (2021 est.)<br>
 
 **Major infectious diseases**<br>
 _degree of risk_: very high (2020)<br>
@@ -235,7 +235,7 @@ _total population_: 81.5%<br>
 _male_: 85%<br>
 _female_: 78.2% (2018)<br>
 
-**Unemployment, youth ages 15-24**<br>
+**Youth unemployment rate (ages 15-24)**<br>
 _total_: 12.9%<br>
 _male_: 12%<br>
 _female_: 13.8% (2019)<br>
@@ -283,7 +283,7 @@ _water contact diseases_: schistosomiasis<br>
 _animal contact diseases_: rabies<br>
 
 **Food insecurity**<br>
-_exceptional shortfall in aggregate food production/supplies_: <em>due to drought conditions -</em> in the March to June 2022 period, about 4.1 million people were estimated to be severely food insecure; this figure is about 40% higher than the same time last year; severe rainfall deficits during the March-May 2022 rainy season have impaired pasture regeneration in several central, northern and eastern pastoral and agro-pastoral areas; as of late July 2022, between 25% and more than 85% of the grassland was affected by severe drought reflecting consecutive poor rainy seasons since late 2020 affecting both crop and livestock production; prices of maize are at high levels across the country due to reduced availability and high fuel prices inflating production and transportation costs; as the June–September 2022 dry season has started and forecasts point to a poor October–December 2022 “short‑rains” season, food insecurity conditions are expected to further deteriorate (2022)<br>
+_exceptional shortfall in aggregate food production/supplies_: <em>due to drought conditions - </em>about 4.4 million people are projected to be severely acutely food insecure between October and December 2022 reflecting consecutive poor rainy seasons since late 2020 that affected crop and livestock production, mainly in northern and eastern pastoral, agro-pastoral and marginal agricultural areas (2022)<br>
 
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 5,595,099 tons (2010 est.)<br>
@@ -480,7 +480,7 @@ _services_: 32.2% (2005 est.)<br>
 40% (2013 est.)<br>
 40% (2001 est.)<br>
 
-**Unemployment, youth ages 15-24**<br>
+**Youth unemployment rate (ages 15-24)**<br>
 _total_: 12.9%<br>
 _male_: 12%<br>
 _female_: 13.8% (2019)<br>
@@ -723,7 +723,7 @@ no conscription; 18-26 years of age for male and female voluntary service (under
 
 **Military deployments**<br>
 260 Democratic Republic of the Congo (MONUSCO); 3,650 Somalia (ATMIS) (2022)<br>
-<strong>note:</strong> in November 2022, Kenya sent approximately 900 troops to the eastern part of the Democratic Republic of the Congo (DRC) as part of a newly-formed East Africa Community Regional Force (EACRF) to assist the DRC military against the rebel group M23; the force is led by Kenya<br>
+<strong>note:</strong> in November 2022, Kenya sent approximately 900 troops to the eastern part of the Democratic Republic of the Congo (DRC) as part of a newly formed East Africa Community Regional Force (EACRF) to assist the DRC military against the rebel group M23; the force is led by Kenya<br>
 
 **Military - note**<br>
 Kenyan military forces intervened in Somalia in October 2011 to combat the al Qaida-affiliated al-Shabaab terrorist group, which had conducted numerous cross-border attacks into Kenya; in November 2011, the UN and the African Union invited Kenya to incorporate its forces into the African Union Mission in Somalia (AMISOM); Kenyan forces were formally integrated into AMISOM in February 2012; as of 2022, they consisted of approximately 3,600 troops and were responsible for AMISOM’s Sector 2 comprising Lower and Middle Jubba (see Appendix T for additional details on al-Shabaab; note - as of May 2022, AMISOM was renamed the AU Transition Mission in Somalia or ATMIS)<br><br>the Kenya Military Forces were created following independence in 1963; the current Kenya Defense Forces (KDF) were established, and its composition laid out, in the 2010 constitution; the KDF is governed by the Kenya Defense Forces Act of 2012; the Kenya Army traces its origins back to the Kings African Rifles (KAR); the KAR was a British colonial regiment raised from Britain's various possessions in East Africa from 1902 until independence in the 1960s; it conducted both military and internal security functions within the colonial territories, and served outside the territories during the World Wars (2022)<br>

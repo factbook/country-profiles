@@ -63,7 +63,7 @@ _forest_: 40.8% (2018 est.)<br>
 _other_: 7.7% (2018 est.)<br>
 
 **Irrigated land**<br>
-3,070 sq km (2012)<br>
+2,980 sq km (2018)<br>
 
 **Major lakes (area sq km)**<br>
 _salt water lake(s)_: Lago de Enriquillo - 500 sq km<br>
@@ -108,7 +108,7 @@ _65 years and over_: 6.29% (male 310,262/female 350,076) (2020 est.)<br>
 _total dependency ratio_: 53.8<br>
 _youth dependency ratio_: 42.2<br>
 _elderly dependency ratio_: 11.6<br>
-_potential support ratio_: 8.6 (2020 est.)<br>
+_potential support ratio_: 8.6 (2021 est.)<br>
 
 **Median age**<br>
 _total_: 27.9 years<br>
@@ -195,7 +195,7 @@ _unimproved: rural_: rural: 8.7% of population<br>
 _unimproved: total_: total: 3.7% of population (2020 est.)<br>
 
 **HIV/AIDS - adult prevalence rate**<br>
-0.9% (2020 est.)<br>
+0.9% (2021 est.)<br>
 
 **Major infectious diseases**<br>
 _degree of risk_: high (2020)<br>
@@ -234,7 +234,7 @@ _total_: 14 years<br>
 _male_: 14 years<br>
 _female_: 15 years (2017)<br>
 
-**Unemployment, youth ages 15-24**<br>
+**Youth unemployment rate (ages 15-24)**<br>
 _total_: 14.9%<br>
 _male_: 11.6%<br>
 _female_: 20.7% (2020 est.)<br>
@@ -466,7 +466,7 @@ _services_: 64.7% (2014 est.)<br>
 5.1% (2017 est.)<br>
 5.5% (2016 est.)<br>
 
-**Unemployment, youth ages 15-24**<br>
+**Youth unemployment rate (ages 15-24)**<br>
 _total_: 14.9%<br>
 _male_: 11.6%<br>
 _female_: 20.7% (2020 est.)<br>

@@ -61,7 +61,7 @@ _forest_: 40% (2018 est.)<br>
 _other_: 28.7% (2018 est.)<br>
 
 **Irrigated land**<br>
-230 sq km (2012)<br>
+172 sq km (2017)<br>
 
 **Major watersheds (area sq km)**<br>
 Atlantic Ocean drainage: Niger (2,261,741 sq km), Volta (410,991 sq km)<br>
@@ -104,10 +104,10 @@ _55-64 years_: 3.15% (male 193,548/female 211,427)<br>
 _65 years and over_: 2.39% (male 140,513/female 167,270) (2020 est.)<br>
 
 **Dependency ratios**<br>
-_total dependency ratio_: 82.6<br>
-_youth dependency ratio_: 76.6<br>
-_elderly dependency ratio_: 6<br>
-_potential support ratio_: 16.7 (2020 est.)<br>
+_total dependency ratio_: 84<br>
+_youth dependency ratio_: 78.3<br>
+_elderly dependency ratio_: 5.7<br>
+_potential support ratio_: 17.7 (2021 est.)<br>
 
 **Median age**<br>
 _total_: 17 years<br>
@@ -194,7 +194,7 @@ _unimproved: rural_: rural: 81.9% of population<br>
 _unimproved: total_: total: 63.4% of population (2020 est.)<br>
 
 **HIV/AIDS - adult prevalence rate**<br>
-0.9% (2020 est.)<br>
+0.8% (2021 est.)<br>
 
 **Major infectious diseases**<br>
 _degree of risk_: very high (2020)<br>
@@ -241,7 +241,7 @@ _total_: 13 years<br>
 _male_: 14 years<br>
 _female_: 11 years (2016)<br>
 
-**Unemployment, youth ages 15-24**<br>
+**Youth unemployment rate (ages 15-24)**<br>
 _total_: 3.9%<br>
 _male_: 3.2%<br>
 _female_: 4.5% (2018 est.)<br>
@@ -471,7 +471,7 @@ textiles, food processing, construction materials, cement<br>
 **Unemployment rate**<br>
 1% (2014 est.)<br>
 
-**Unemployment, youth ages 15-24**<br>
+**Youth unemployment rate (ages 15-24)**<br>
 _total_: 3.9%<br>
 _male_: 3.2%<br>
 _female_: 4.5% (2018 est.)<br>
@@ -688,7 +688,7 @@ _LNG terminal(s) (import)_: Cotonou<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Benin Armed Forces (Forces Armees Beninoises, FAB): Army, Navy, Air Force; Ministry of Interior and Public Security: Republican Police (Police Republicaine, DGPR) (2022)<br>
+Beninese Armed Forces (Forces Armees Beninoises, FAB; aka Benin Defense Forces): Army, Navy, Air Force; Ministry of Interior and Public Security: Republican Police (Police Republicaine, DGPR) (2022)<br>
 
 **Military expenditures**<br>
 0.7% of GDP (2021 est.)<br>
@@ -698,7 +698,7 @@ Benin Armed Forces (Forces Armees Beninoises, FAB): Army, Navy, Air Force; Minis
 0.9% of GDP (2017 est.) (approximately $160 million)<br>
 
 **Military and security service personnel strengths**<br>
-approximately 7,000 active duty BDF troops; estimated 5,000 Republican Police (2022)<br>
+approximately 7,000 active-duty troops; estimated 5,000 Republican Police (2022)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the FAB is equipped with a small mix of mostly older French and Soviet-era equipment (2021)<br>

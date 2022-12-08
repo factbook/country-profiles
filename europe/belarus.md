@@ -59,7 +59,7 @@ _forest_: 42.7% (2018 est.)<br>
 _other_: 13.6% (2018 est.)<br>
 
 **Irrigated land**<br>
-1,140 sq km (2012)<br>
+303 sq km (2020)<br>
 
 **Major rivers (by length in km)**<br>
 Dnieper (shared with Russia [s] and Ukraine [m]) - 2,287 km<br><strong>note</strong> – [s] after country name indicates river source; [m] after country name indicates river mouth<br>
@@ -103,10 +103,10 @@ _55-64 years_: 14.45% (male 605,330/female 763,972)<br>
 _65 years and over_: 15.93% (male 493,055/female 1,017,211) (2020 est.)<br>
 
 **Dependency ratios**<br>
-_total dependency ratio_: 48.9<br>
-_youth dependency ratio_: 25.7<br>
-_elderly dependency ratio_: 23.2<br>
-_potential support ratio_: 4.3 (2020 est.)<br>
+_total dependency ratio_: 50.8<br>
+_youth dependency ratio_: 25.4<br>
+_elderly dependency ratio_: 25.4<br>
+_potential support ratio_: 3.9 (2021 est.)<br>
 
 **Median age**<br>
 _total_: 40.9 years<br>
@@ -192,7 +192,7 @@ _unimproved: rural_: rural: 1.7% of population<br>
 _unimproved: total_: total: 0.5% of population (2020 est.)<br>
 
 **HIV/AIDS - adult prevalence rate**<br>
-0.5% (2020 est.)<br>
+0.5% (2021 est.)<br>
 
 **Obesity - adult prevalence rate**<br>
 24.5% (2016)<br>
@@ -231,7 +231,7 @@ _total_: 15 years<br>
 _male_: 15 years<br>
 _female_: 16 years (2018)<br>
 
-**Unemployment, youth ages 15-24**<br>
+**Youth unemployment rate (ages 15-24)**<br>
 _total_: 12.4%<br>
 _male_: 14.3%<br>
 _female_: 10.2% (2020 est.)<br>
@@ -442,7 +442,7 @@ _exports of goods and services_: 67% (2017 est.)<br>
 _imports of goods and services_: -67% (2017 est.)<br>
 
 **Agricultural products**<br>
-milk, potatoes, sugar beet, wheat, triticale, barley, maize, rye, rapeseed, poultry<br>
+milk, potatoes, sugar beets, wheat, triticale, barley, maize, rye, rapeseed, poultry<br>
 
 **Industries**<br>
 metal-cutting machine tools, tractors, trucks, earthmovers, motorcycles, synthetic fibers, fertilizer, textiles, refrigerators, washing machines and other household appliances<br>
@@ -463,7 +463,7 @@ _services_: 66.8% (2015 est.)<br>
 1% (2016 est.)<br>
 <strong>note:</strong> official registered unemployed; large number of underemployed workers<br>
 
-**Unemployment, youth ages 15-24**<br>
+**Youth unemployment rate (ages 15-24)**<br>
 _total_: 12.4%<br>
 _male_: 14.3%<br>
 _female_: 10.2% (2020 est.)<br>
@@ -714,7 +714,7 @@ Belarus has close security ties with Russia, including an integrated air and mis
 <p><em>Belarus-Latvia:</em> Boundary demarcated with Latvia.<br><br><em>Belarus-Lithuania:</em> Boundary demarcated with Lithuania.<br><br><em>Belarus-Poland:</em> As a member state that forms part of the EU's external border, Poland has implemented strict Schengen border rules to restrict illegal immigration and trade along its border with Belarus.</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 16,433 (Ukraine) (as of 22 November 2022)<br>
+_refugees (country of origin)_: 17,209 (Ukraine) (as of 29 November 2022)<br>
 _stateless persons_: 6,104 (mid-year 2021)<br>
 
 **Trafficking in persons**<br>

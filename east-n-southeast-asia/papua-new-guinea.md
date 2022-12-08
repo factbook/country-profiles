@@ -62,7 +62,7 @@ _forest_: 63.1% (2018 est.)<br>
 _other_: 34.3% (2018 est.)<br>
 
 **Irrigated land**<br>
-0 sq km (2012)<br>
+0 sq km (2022)<br>
 
 **Major rivers (by length in km)**<br>
 Sepik river source and mouth (shared with Indonesia) - 1,126 km; Fly river source and mouth (shared with Indonesia) - 1,050 km<br>
@@ -104,10 +104,10 @@ _55-64 years_: 5.83% (male 218,529/female 204,717)<br>
 _65 years and over_: 4.64% (male 164,734/female 171,916) (2020 est.)<br>
 
 **Dependency ratios**<br>
-_total dependency ratio_: 63.2<br>
-_youth dependency ratio_: 57.4<br>
-_elderly dependency ratio_: 5.8<br>
-_potential support ratio_: 17.2 (2020 est.)<br>
+_total dependency ratio_: 60.5<br>
+_youth dependency ratio_: 55.5<br>
+_elderly dependency ratio_: 5<br>
+_potential support ratio_: 20.1 (2021 est.)<br>
 
 **Median age**<br>
 _total_: 24 years<br>
@@ -191,7 +191,7 @@ _unimproved: rural_: rural: 81.8% of population<br>
 _unimproved: total_: total: 76.5% of population (2020 est.)<br>
 
 **HIV/AIDS - adult prevalence rate**<br>
-0.9% (2020 est.)<br>
+0.9% (2021 est.)<br>
 
 **Major infectious diseases**<br>
 _degree of risk_: very high (2020)<br>

@@ -58,7 +58,7 @@ _forest_: 71.2% (2018 est.)<br>
 _other_: 9.7% (2018 est.)<br>
 
 **Irrigated land**<br>
-0 sq km (2012)<br>
+0 sq km (2022)<br>
 
 **Population distribution**<br>
 population distributed around the peripheral coastal areas of the island<br>
@@ -97,10 +97,10 @@ _55-64 years_: NA<br>
 _65 years and over_: NA<br>
 
 **Dependency ratios**<br>
-_total dependency ratio_: NA<br>
-_youth dependency ratio_: NA<br>
-_elderly dependency ratio_: NA<br>
-_potential support ratio_: NA<br>
+_total dependency ratio_: 70.4<br>
+_youth dependency ratio_: 44.9<br>
+_elderly dependency ratio_: 25.4<br>
+_potential support ratio_: 3.9 (2021)<br>
 
 **Population growth rate**<br>
 -0.03% (2021 est.)<br>

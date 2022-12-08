@@ -99,10 +99,10 @@ _55-64 years_: NA<br>
 _65 years and over_: NA<br>
 
 **Dependency ratios**<br>
-_total dependency ratio_: NA<br>
-_youth dependency ratio_: NA<br>
-_elderly dependency ratio_: NA<br>
-_potential support ratio_: NA<br>
+_total dependency ratio_: 39.8<br>
+_youth dependency ratio_: 24.8<br>
+_elderly dependency ratio_: 14.9<br>
+_potential support ratio_: 6.7 (2021)<br>
 
 **Population growth rate**<br>
 0.01% (2014 est.)<br>

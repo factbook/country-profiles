@@ -61,7 +61,7 @@ _forest_: 54.1% (2018 est.)<br>
 _other_: 16.7% (2018 est.)<br>
 
 **Irrigated land**<br>
-12 sq km (2012)<br>
+6 sq km (2016)<br>
 <strong>note:</strong> land in Latvia is often too wet and in need of drainage not irrigation; approximately 16,000 sq km or 85% of agricultural land has been improved by drainage<br>
 
 **Population distribution**<br>
@@ -100,10 +100,10 @@ _55-64 years_: 14.77% (male 125,401/female 152,548)<br>
 _65 years and over_: 20.5% (male 128,151/female 257,471) (2020 est.)<br>
 
 **Dependency ratios**<br>
-_total dependency ratio_: 59<br>
-_youth dependency ratio_: 26.1<br>
-_elderly dependency ratio_: 32.9<br>
-_potential support ratio_: 3 (2020 est.)<br>
+_total dependency ratio_: 59.3<br>
+_youth dependency ratio_: 24.9<br>
+_elderly dependency ratio_: 34.4<br>
+_potential support ratio_: 2.9 (2021 est.)<br>
 
 **Median age**<br>
 _total_: 44.4 years<br>
@@ -189,7 +189,7 @@ _unimproved: rural_: rural: 14.7% of population<br>
 _unimproved: total_: total: 5.4% of population (2020 est.)<br>
 
 **HIV/AIDS - adult prevalence rate**<br>
-0.3% (2019 est.)<br>
+0.7% (2021 est.)<br>
 
 **Major infectious diseases**<br>
 _degree of risk_: intermediate (2020)<br>
@@ -227,7 +227,7 @@ _total_: 16 years<br>
 _male_: 16 years<br>
 _female_: 17 years (2019)<br>
 
-**Unemployment, youth ages 15-24**<br>
+**Youth unemployment rate (ages 15-24)**<br>
 _total_: 14.9%<br>
 _male_: 14.4%<br>
 _female_: 15.5% (2020 est.)<br>
@@ -455,7 +455,7 @@ _services_: 68.1% (2016 est.)<br>
 6.14% (2019 est.)<br>
 6.51% (2018 est.)<br>
 
-**Unemployment, youth ages 15-24**<br>
+**Youth unemployment rate (ages 15-24)**<br>
 _total_: 14.9%<br>
 _male_: 14.4%<br>
 _female_: 15.5% (2020 est.)<br>
@@ -673,6 +673,9 @@ _by type_: general cargo 22, oil tanker 9, other 39 (2021)<br>
 
 **Ports and terminals**<br>
 _major seaport(s)_: Riga, Ventspils<br>
+
+**Transportation - note**<br>
+Latvia operates one PC 5 or 6 class icebreaker in the Baltic Sea<br><strong>note </strong>- PC 5 - Year-round operation in medium first-year ice which may include old ice inclusions (ice thickness up to 70-120 cm); PC 6 - Summer/autumn operation in medium first-year ice which may include old ice inclusions (ice thickness up to 30-70 cm)<br>
 
 ## Military and Security
 

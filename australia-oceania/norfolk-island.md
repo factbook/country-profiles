@@ -59,7 +59,7 @@ _forest_: 11.5% (2018 est.)<br>
 _other_: 63.5% (2018 est.)<br>
 
 **Irrigated land**<br>
-0 sq km (2012)<br>
+0 sq km (2022)<br>
 
 **Population distribution**<br>
 population concentrated around the capital of Kingston<br>

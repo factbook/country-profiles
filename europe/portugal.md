@@ -63,7 +63,7 @@ _forest_: 37.8% (2018 est.)<br>
 _other_: 22.5% (2018 est.)<br>
 
 **Irrigated land**<br>
-5,400 sq km (2012)<br>
+5,662 sq km (2019)<br>
 
 **Population distribution**<br>
 concentrations are primarily along or near the Atlantic coast; both Lisbon and the second largest city, Porto, are coastal cities<br>
@@ -101,10 +101,10 @@ _55-64 years_: 13.08% (male 615,925/female 731,334)<br>
 _65 years and over_: 20.92% (male 860,198/female 1,294,899) (2020 est.)<br>
 
 **Dependency ratios**<br>
-_total dependency ratio_: 55.8<br>
-_youth dependency ratio_: 20.3<br>
-_elderly dependency ratio_: 35.5<br>
-_potential support ratio_: 2.8 (2020 est.)<br>
+_total dependency ratio_: 56<br>
+_youth dependency ratio_: 20.8<br>
+_elderly dependency ratio_: 35.2<br>
+_potential support ratio_: 2.8 (2021 est.)<br>
 
 **Median age**<br>
 _total_: 44.6 years<br>
@@ -190,7 +190,7 @@ _unimproved: rural_: rural: 0% of population<br>
 _unimproved: total_: total: 0.1% of population (2020 est.)<br>
 
 **HIV/AIDS - adult prevalence rate**<br>
-0.5% (2020 est.)<br>
+0.5% (2021 est.)<br>
 
 **Obesity - adult prevalence rate**<br>
 20.8% (2016)<br>
@@ -224,7 +224,7 @@ _total_: 17 years<br>
 _male_: 17 years<br>
 _female_: 17 years (2019)<br>
 
-**Unemployment, youth ages 15-24**<br>
+**Youth unemployment rate (ages 15-24)**<br>
 _total_: 22.6%<br>
 _male_: 21%<br>
 _female_: 24.4% (2020 est.)<br>
@@ -330,13 +330,13 @@ _chief of state_: President Marcelo REBELO DE SOUSA (since 9 March 2016)<br>
 _head of government_: Prime Minister Antonio Luis Santos da COSTA (since 24 November 2015)<br>
 _cabinet_: Council of Ministers appointed by the president on the recommendation of the prime minister<br>
 _elections/appointments_: president directly elected by absolute majority popular vote in 2 rounds if needed for a 5-year term (eligible for a second term); election last held on 24 January 2021 (next to be held in January 2026); following legislative elections the leader of the majority party or majority coalition is usually appointed prime minister by the president<br>
-_election results_: <em>2021:</em> Marcelo REBELO DE SOUSA reelected president in the first round; percent of vote - Marcelo REBELO DE SOUSA (PSD) 60.7%, Ana GOMES (ran as an independent but is a member of PS) 13%, Andre VENTURA (CH) 11.9%, João FERREIRA (PCP-PEV) 4.32%, Marisa MATIAS (BE) 3.95%, other 6.16%<br><br><em>2016:</em> Marcelo REBELO DE SOUSA elected president; percent of vote -  Marcelo REBELO DE SOUSA (PSD) 52%, António SAMPAIO DA NOVOA (independent) 22.9%, Marisa MATIAS (BE) 10.1%, Maria DE BELEM ROSEIRA (PS) 4.2%<br>
+_election results_: <em>2021:</em> Marcelo REBELO DE SOUSA reelected president in the first round; percent of vote - Marcelo REBELO DE SOUSA (PSD) 60.7%, Ana GOMES (ran as an independent but is a member of PS) 13%, Andre VENTURA (CH) 11.9%, João FERREIRA (PCP-PEV) 4.3%, Marisa MATIAS (BE) 3.9%, other 6.2%<br><br><em>2016:</em> Marcelo REBELO DE SOUSA elected president; percent of vote - Marcelo REBELO DE SOUSA (PSD) 52%, António SAMPAIO DA NOVOA (independent) 22.9%, Marisa MATIAS (BE) 10.1%, Maria DE BELEM ROSEIRA (PS) 4.2%, other 10.8%<br>
 <strong>note:</strong> there is also a Council of State that acts as a consultative body to the president<br>
 
 **Legislative branch**<br>
 _description_: unicameral Assembly of the Republic or Assembleia da Republica (230 seats; 226 members directly elected in multi-seat constituencies by closed-list proportional representation vote and 4 members - 2 each in 2 constituencies representing Portuguese living abroad - directly elected by proportional representation vote; members serve 4-year terms)<br>
 _elections_: last held on 30 January 2022 (next to be held in January 2026); note - early elections were called after parliament was dissolved on 3 November 2021 because of the 27 October 2021 rejection of the government's budget<br>
-_election results_: percent of vote by party - PS 42.5%, PSD 28.4%, Enough 7.4%, IL 5%, BE 4.5%, CDU 4.4%, other 7.8%; seats by party - PS 120, PSD 72, Enough 12, IL 8, CDU 6, BE 5, other 3; composition - men NA, women NA, percent of women NA%<br>
+_election results_: percent of vote by party - PS 42.5%, PSD 28.4%, Enough 7.4%, IL 5%, BE 4.5%, PCP-PEV 4.4%, other 7.8%; seats by party - PS 120, PSD 72, Enough 12, IL 8, PCP-PEV 6, BE 5, other 3; composition - men 145, women 85, percent of women 37%<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme Court or Supremo Tribunal de Justica (consists of 12 justices); Constitutional Court or Tribunal Constitucional (consists of 13 judges)<br>
@@ -354,7 +354,7 @@ _chief of mission_: Ambassador Francisco Antonio Duarte LOPES (since 7 June 2022
 _chancery_: 2012 Massachusetts Avenue NW, Washington, DC 20036<br>
 _telephone_: [1] (202) 350-5400; [1] (202) 332-3007<br>
 _FAX_: [1] (202) 462-3726; [1] (202) 387-2768<br>
-_email address and website_: <br>info.washington@mne.pt; sconsular.washington@mne.pt<br><br>https://washingtondc.embaixadaportugal.mne.gov.pt/en/<br>
+_email address and website_: <br>info.washington@mne.pt; sconsular.washington@mne.pt<br>https://washingtondc.embaixadaportugal.mne.gov.pt/en/<br>
 _consulate(s) general_: Boston, Newark (NJ), New York, San Francisco<br>
 _consulate(s)_: New Bedford (MA), Providence (RI)<br>
 
@@ -364,7 +364,7 @@ _embassy_: Avenida das Forcas Armadas, 1600-081 Lisboa<br>
 _mailing address_: 5320 Lisbon Place, Washington DC&nbsp; 20521-5320<br>
 _telephone_: [351] (21) 727-3300<br>
 _FAX_: [351] (21) 726-9109<br>
-_email address and website_: <br>conslisbon@state.gov<br><br>https://pt.usembassy.gov/<br>
+_email address and website_: <br>conslisbon@state.gov<br>https://pt.usembassy.gov/<br>
 _consulate(s)_: Ponta Delgada (Azores)<br>
 
 **Flag description**<br>
@@ -385,7 +385,7 @@ _selected World Heritage Site locales_: Historic Évora (c); Central Zone of the
 ## Economy
 
 **Economic overview**<br>
-<p>Portugal has become a diversified and increasingly service-based economy since joining the European Community - the EU's predecessor - in 1986. Over the following two decades, successive governments privatized many state-controlled firms and liberalized key areas of the economy, including the financial and telecommunications sectors. The country joined the Economic and Monetary Union in 1999 and began circulating the euro on 1 January 2002 along with 11 other EU members.</p> <p> </p> <p>The economy grew by more than the EU average for much of the 1990s, but the rate of growth slowed in 2001-08. After the global financial crisis in 2008, Portugal’s economy contracted in 2009 and fell into recession from 2011 to 2013, as the government implemented spending cuts and tax increases to comply with conditions of an EU-IMF financial rescue package, signed in May 2011. Portugal successfully exited its EU-IMF program in May 2014, and its economic recovery gained traction in 2015 because of strong exports and a rebound in private consumption. GDP growth accelerated in 2016, and probably reached 2.5 % in 2017. Unemployment remained high, at 9.7% in 2017, but has improved steadily since peaking at 18% in 2013.</p> <p> </p> <p>The center-left minority Socialist government has unwound some unpopular austerity measures while managing to remain within most EU fiscal targets. The budget deficit fell from 11.2% of GDP in 2010 to 1.8% in 2017, the country’s lowest since democracy was restored in 1974, and surpassing the EU and IMF projections of 3%. Portugal exited the EU’s excessive deficit procedure in mid-2017.</p><br>
+<p>Portugal has become a diversified and increasingly service-based economy since joining the European Community - the EU's predecessor - in 1986. Over the following two decades, successive governments privatized many state-controlled firms and liberalized key areas of the economy, including the financial and telecommunications sectors. The country joined the Economic and Monetary Union in 1999 and began circulating the euro on 1 January 2002 along with 11 other EU members.</p> <p>The economy grew by more than the EU average for much of the 1990s, but the rate of growth slowed in 2001-08. After the global financial crisis in 2008, Portugal’s economy contracted in 2009 and fell into recession from 2011 to 2013, as the government implemented spending cuts and tax increases to comply with conditions of an EU-IMF financial rescue package, signed in May 2011. Portugal successfully exited its EU-IMF program in May 2014, and its economic recovery gained traction in 2015 because of strong exports and a rebound in private consumption. GDP growth accelerated in 2016, and probably reached 2.5 % in 2017. Unemployment remained high, at 9.7% in 2017, but has improved steadily since peaking at 18% in 2013.</p> <p>The center-left minority Socialist government has unwound some unpopular austerity measures while managing to remain within most EU fiscal targets. The budget deficit fell from 11.2% of GDP in 2010 to 1.8% in 2017, the country’s lowest since democracy was restored in 1974, and surpassing the EU and IMF projections of 3%. Portugal exited the EU’s excessive deficit procedure in mid-2017.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
 $331.64 billion (2020 est.)<br>
@@ -452,7 +452,7 @@ _services_: 67.5% (2014 est.)<br>
 6.55% (2019 est.)<br>
 7.05% (2018 est.)<br>
 
-**Unemployment, youth ages 15-24**<br>
+**Youth unemployment rate (ages 15-24)**<br>
 _total_: 22.6%<br>
 _male_: 21%<br>
 _female_: 24.4% (2020 est.)<br>
@@ -575,9 +575,9 @@ _crude oil estimated reserves_: 0 barrels (2021 est.)<br>
 
 **Natural gas**<br>
 _production_: 0 cubic meters (2021 est.)<br>
-_consumption_: 5,935,938,000 cubic meters (2020 est.)<br>
+_consumption_: 5.94 billion cubic meters (2020 est.)<br>
 _exports_: 0 cubic meters (2021 est.)<br>
-_imports_: 6,091,114,000 cubic meters (2020 est.)<br>
+_imports_: 6.09 billion cubic meters (2020 est.)<br>
 _proven reserves_: 0 cubic meters (2021 est.)<br>
 
 **Carbon dioxide emissions**<br>
@@ -692,12 +692,12 @@ approximately 27,000 active duty personnel (14,000 Army; 7,000 Navy, including a
 the military's inventory includes mostly European- and US-origin weapons systems along with a smaller mix of domestically-produced equipment; since 2010, Germany and the US have been the leading suppliers of armaments to Portugal; Portugal's defense industry is primarily focused on shipbuilding (2021)<br>
 
 **Military service age and obligation**<br>
-18-30 years of age for voluntary or contract military service; no compulsory military service (abolished 2004), but conscription possible if insufficient volunteers available; women serve in the armed forces, but are prohibited from serving in some combatant specialties; contract service lasts for an initial period from two to six years, and can be extended to a maximum of 20 years of service; initial voluntary military service lasts 12 months; reserve obligation to age 35 (2022)<br>
+18-30 years of age for voluntary or contract military service; no compulsory military service (abolished 2004) but conscription possible if insufficient volunteers available; women serve in the armed forces but are prohibited from serving in some combatant specialties; contract service lasts for an initial period from two to six years, and can be extended to a maximum of 20 years of service; initial voluntary military service lasts 12 months; reserve obligation to age 35 (2022)<br>
 <strong>note: </strong>as of 2019, women made up about 12% of the military's full-time personnel<br>
 
 **Military deployments**<br>
 200 Central African Republic (MINUSCA/EUTM); up to 150 Lithuania (NATO); approximately 170 Romania (2022)<br>
-<strong>note 1: </strong>in 2021, Portugal deployed about 80 troops to Mozambique to assist with the EU training mission<br><br><strong>note 2: </strong>in response to Russia’s 2022 invasion of Ukraine, some NATO countries, including Portugal, have sent additional troops to the battlegroups deployed in NATO territory in eastern Europe<br><br><strong>note 3: </strong>Portugal also participates in several NATO maritime and air policing operations, as well as some EU international missions<br>
+<strong>note 1: </strong>in 2021, Portugal deployed about 80 troops to Mozambique to assist with the EU training mission<br><strong>note 2: </strong>in response to Russia’s 2022 invasion of Ukraine, some NATO countries, including Portugal, have sent additional troops to the battlegroups deployed in NATO territory in eastern Europe<br><strong>note 3: </strong>Portugal also participates in several NATO maritime and air policing operations, as well as some EU international missions<br>
 
 **Military - note**<br>
 Portugal is a member of NATO and was one of the original 12 countries to sign the North Atlantic Treaty (also known as the Washington Treaty) in 1949<br>

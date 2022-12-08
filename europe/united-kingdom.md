@@ -62,7 +62,7 @@ _forest_: 11.9% (2018 est.)<br>
 _other_: 17.1% (2018 est.)<br>
 
 **Irrigated land**<br>
-950 sq km (2012)<br>
+718 sq km (2018)<br>
 
 **Population distribution**<br>
 the core of the population lies in and around London, with significant clusters found in central Britain around Manchester and Liverpool, in the Scottish lowlands between Edinburgh and Glasgow, southern Wales in and around Cardiff, and far eastern Northern Ireland centered on Belfast<br>
@@ -101,10 +101,10 @@ _55-64 years_: 12.73% (male 4,139,378/female 4,234,701)<br>
 _65 years and over_: 18.48% (male 5,470,116/female 6,681,311) (2020 est.)<br>
 
 **Dependency ratios**<br>
-_total dependency ratio_: 57.1<br>
+_total dependency ratio_: 57.7<br>
 _youth dependency ratio_: 27.8<br>
-_elderly dependency ratio_: 29.3<br>
-_potential support ratio_: 3.4 (2020 est.)<br>
+_elderly dependency ratio_: 29.8<br>
+_potential support ratio_: 3.4 (2021 est.)<br>
 
 **Median age**<br>
 _total_: 40.6 years<br>
@@ -232,7 +232,7 @@ _total_: 17 years<br>
 _male_: 17 years<br>
 _female_: 18 years (2019)<br>
 
-**Unemployment, youth ages 15-24**<br>
+**Youth unemployment rate (ages 15-24)**<br>
 _total_: 11.2%<br>
 _male_: 13%<br>
 _female_: 9.2% (2019 est.)<br>
@@ -465,7 +465,7 @@ _services_: 83.5% (2014 est.)<br>
 3.17% (2019 est.)<br>
 2.51% (2018 est.)<br>
 
-**Unemployment, youth ages 15-24**<br>
+**Youth unemployment rate (ages 15-24)**<br>
 _total_: 11.2%<br>
 _male_: 13%<br>
 _female_: 9.2% (2019 est.)<br>
@@ -692,7 +692,7 @@ _container port(s) (TEUs)_: Felixstowe (3,584,000), London (2,790,000), Southamp
 _LNG terminal(s) (import)_: Dragon, Isle of Grain, South Hook, Teesside<br>
 
 **Transportation - note**<br>
-begun in 1988 and completed in 1994, the Channel Tunnel (nicknamed the Chunnel) is a 50.5-km (31.4-mi) rail tunnel&nbsp;beneath the English Channel at the Strait of Dover that runs from Folkestone, Kent, England to Coquelles, Pas-de-Calais in northern France; it is the only fixed link between the island of Great Britain and mainland Europe<br>
+begun in 1988 and completed in 1994, the Channel Tunnel (nicknamed the Chunnel) is a 50.5-km (31.4-mi) rail tunnel beneath the English Channel at the Strait of Dover that runs from Folkestone, Kent, England to Coquelles, Pas-de-Calais in northern France; it is the only fixed link between the island of Great Britain and mainland Europe; the UK operates one PC 3 or 4 class icebreaker in the South Atlantic in support of operations in Antarctica<br><strong>note </strong>- PC 3 - Year-round operation in second-year ice which may include multi-year ice inclusions (ice thickness up to 2.5 m); PC 4 - Year-round operation in thick first-year ice which may include old ice inclusions (ice thickness up to 120 cm)<br>
 
 ## Military and Security
 

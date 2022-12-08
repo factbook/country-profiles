@@ -60,7 +60,7 @@ _forest_: 12.2% (2018 est.)<br>
 _other_: 51.5% (2018 est.)<br>
 
 **Irrigated land**<br>
-2,900 sq km (2012)<br>
+1,813 sq km (2020)<br>
 
 **Major lakes (area sq km)**<br>
 _fresh water lake(s)_: Lake Tana - 3,600 sq km; Abaya Hayk - 1,160 sq km; Ch'amo Hayk - 550 sq km<br>
@@ -114,10 +114,10 @@ _55-64 years_: 4.42% (male 2,350,606/female 2,433,319)<br>
 _65 years and over_: 3.38% (male 1,676,478/female 1,977,857) (2020 est.)<br>
 
 **Dependency ratios**<br>
-_total dependency ratio_: 76.8<br>
-_youth dependency ratio_: 70.6<br>
-_elderly dependency ratio_: 6.3<br>
-_potential support ratio_: 16 (2020 est.)<br>
+_total dependency ratio_: 75.7<br>
+_youth dependency ratio_: 70.2<br>
+_elderly dependency ratio_: 5.5<br>
+_potential support ratio_: 18.1 (2021 est.)<br>
 
 **Median age**<br>
 _total_: 19.8 years<br>
@@ -204,7 +204,7 @@ _unimproved: rural_: rural: 91.9% of population<br>
 _unimproved: total_: total: 82.3% of population (2020 est.)<br>
 
 **HIV/AIDS - adult prevalence rate**<br>
-0.9% (2020 est.)<br>
+0.8% (2021 est.)<br>
 
 **Major infectious diseases**<br>
 _degree of risk_: very high (2020)<br>
@@ -252,7 +252,7 @@ _total_: 9 years<br>
 _male_: 8 years<br>
 _female_: 8 years (2012)<br>
 
-**Unemployment, youth ages 15-24**<br>
+**Youth unemployment rate (ages 15-24)**<br>
 _total_: 3.5%<br>
 _male_: 2.7%<br>
 _female_: 4.5% (2013 est.)<br>
@@ -505,7 +505,7 @@ _services_: 19.9% (2013 est.)<br>
 17.5% (2012 est.)<br>
 18% (2011 est.)<br>
 
-**Unemployment, youth ages 15-24**<br>
+**Youth unemployment rate (ages 15-24)**<br>
 _total_: 3.5%<br>
 _male_: 2.7%<br>
 _female_: 4.5% (2013 est.)<br>

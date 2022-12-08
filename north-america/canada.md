@@ -64,7 +64,7 @@ _forest_: 34.1% (2018 est.)<br>
 _other_: 59.1% (2018 est.)<br>
 
 **Irrigated land**<br>
-8,700 sq km (2012)<br>
+9,045 sq km (2015)<br>
 
 **Major lakes (area sq km)**<br>
 _fresh water lake(s)_: Huron* - 35,972 sq km; Great Bear Lake - 31,328 sq km; Superior* - 28,754 sq km; Great Slave Lake - 28,568 sq km; Lake Winnipeg - 24,387 sq km; Erie* - 12,776 sq km; Ontario* - 9,790 sq km; Lake Athabasca - 7,935 sq km; Reindeer Lake - 6,650 sq km; Nettilling Lake - 5,542 sq km<br>note - Great Lakes* area shown as Canadian waters<br>
@@ -115,10 +115,10 @@ _55-64 years_: 14.08% (male 2,624,474/female 2,682,858)<br>
 _65 years and over_: 18.98% (male 3,274,298/female 3,881,126) (2020 est.)<br>
 
 **Dependency ratios**<br>
-_total dependency ratio_: 51.2<br>
+_total dependency ratio_: 52.1<br>
 _youth dependency ratio_: 23.9<br>
-_elderly dependency ratio_: 27.4<br>
-_potential support ratio_: 3.7 (2020 est.)<br>
+_elderly dependency ratio_: 28.2<br>
+_potential support ratio_: 3.6 (2021 est.)<br>
 
 **Median age**<br>
 _total_: 41.8 years<br>
@@ -237,7 +237,7 @@ _total_: 16 years<br>
 _male_: 16 years<br>
 _female_: 17 years (2019)<br>
 
-**Unemployment, youth ages 15-24**<br>
+**Youth unemployment rate (ages 15-24)**<br>
 _total_: 20.2%<br>
 _male_: 20.9%<br>
 _female_: 19.4% (2020 est.)<br>
@@ -477,7 +477,7 @@ _manufacturing_: 3% (2006 est.)<br>
 5.67% (2019 est.)<br>
 5.83% (2018 est.)<br>
 
-**Unemployment, youth ages 15-24**<br>
+**Youth unemployment rate (ages 15-24)**<br>
 _total_: 20.2%<br>
 _male_: 20.9%<br>
 _female_: 19.4% (2020 est.)<br>

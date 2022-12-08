@@ -113,10 +113,10 @@ _55-64 years_: 3.36% (male 1,647,267/female 1,769,429)<br>
 _65 years and over_: 2.47% (male 1,085,539/female 1,423,782) (2020 est.)<br>
 
 **Dependency ratios**<br>
-_total dependency ratio_: 95.4<br>
-_youth dependency ratio_: 89.5<br>
+_total dependency ratio_: 98<br>
+_youth dependency ratio_: 92.1<br>
 _elderly dependency ratio_: 5.9<br>
-_potential support ratio_: 17 (2020 est.)<br>
+_potential support ratio_: 17.1 (2021 est.)<br>
 
 **Median age**<br>
 _total_: 16.7 years<br>
@@ -200,7 +200,7 @@ _unimproved: rural_: rural: 79.5% of population<br>
 _unimproved: total_: total: 64.5% of population (2020 est.)<br>
 
 **HIV/AIDS - adult prevalence rate**<br>
-0.7% (2020 est.)<br>
+0.7% (2021 est.)<br>
 
 **Major infectious diseases**<br>
 _degree of risk_: very high (2020)<br>
@@ -247,7 +247,7 @@ _total_: 11 years<br>
 _male_: 10 years<br>
 _female_: 9 years (2013)<br>
 
-**Unemployment, youth ages 15-24**<br>
+**Youth unemployment rate (ages 15-24)**<br>
 _total_: 8.7%<br>
 _male_: 11.3%<br>
 _female_: 6.8% (2012 est.)<br>
@@ -377,12 +377,12 @@ _chief of state_: President Felix TSHISEKEDI (since 24 January 2019)<br>
 _head of government_: Prime Minister Anatole Collinet MAKOSSO (since 12 May 2021); Deputy Prime Ministers Jose MAKILA, Leonard She OKITUNDU, Henri MOVA Sankanyi (since February 2018)<br>
 _cabinet_: Ministers of State appointed by the president<br>
 _elections/appointments_: president directly elected by simple majority vote for a 5-year term (eligible for a second term); election last held on 30 December 2018 (next to be held in December 2023); prime minister appointed by the president<br>
-_election results_: Felix TSHISEKEDI elected president; percent of vote - Felix TSHISEKEDI (UDPS) 38.6%, Martin FAYULU (Lamuka coalition) 34.8%, Emmanuel Ramazani SHADARY (PPRD) 23.9%, other 2.7%; note - election marred by serious voting irregularities (2018)<br>
+_election results_: <em>2018:</em> Felix TSHISEKEDI elected president; percent of vote - Felix TSHISEKEDI (UDPS) 38.6%, Martin FAYULU (Lamuka coalition) 34.8%, Emmanuel Ramazani SHADARY (PPRD) 23.9%, other 2.7%; note - election marred by serious voting irregularities (2018)<br>
 
 **Legislative branch**<br>
 _description_: bicameral Parliament or Parlement consists of:<br>Senate (109 seats; 109 members to include 108 indirectly elected by provincial assemblies by proportional representation vote to serve 5-year terms and a former president, appointed for life)<br><br>National Assembly (500 seats; 439 members directly elected in multi-seat constituencies by proportional representation vote and 61 directly elected in single-seat constituencies by simple majority vote; members serve 5-year terms)<br>
-_elections_: Senate - last held on 14 March 2019<br>National Assembly - last held on 30 December 2018 (first round), 31 March 2019 (second round)<br>
-_election results_: Senate - percent of vote by party - NA; seats by party - PPRD 22, MLC 14, FR 7, RCD 7, PDC 6, CDC 3, MSR 3, PALU 2, other 18, independent 26; composition as of 2022 - men 83, women 26, percent of women 23.9%<br>National Assembly - percent of vote by party - NA; seats by party - PPRD 62, UDPS 41, PPPD 29, MSR 27, MLC 22, PALU 19, UNC 17, ARC 16, AFDC 15, ECT 11, RRC 11, other 214 (includes numerous political parties that won 10 or fewer seats and 2 constituencies where voting was halted), independent 16; composition as of 2022 - men 436, women 64, percent of women  12.8%; total Parliament percent of women 14.8%<br>
+_elections_: Senate - last held on 14 March 2019<br>National Assembly - last held on 30 December 2018 (first round), with a second round on 31 March 2019<br>
+_election results_: Senate - percent of vote by party - NA; seats by party - PPRD 22, MLC 14, FR 7, RCD 7, PDC 6, CDC 3, MSR 3, PALU 2, other 18, independent 26; composition as of 2022 - men 83, women 26, percent of women 23.9%<br>National Assembly - percent of vote by party - NA; seats by party - PPRD 62, UDPS 41, PPPD 29, MSR 27, MLC 22, PALU 19, UNC 17, ARC 16, AFDC 15, ECT 11, RRC 11, other 214 (includes numerous political parties that won 10 or fewer seats and 2 constituencies where voting was halted), independent 16; composition as of 2022 - men 436, women 64, percent of women 12.8%; total Parliament percent of women 14.8%<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Court of Cassation or Cour de Cassation (consists of 26 justices and organized into legislative and judiciary sections); Constitutional Court (consists of 9 judges)<br>
@@ -390,7 +390,7 @@ _judge selection and term of office_: Court of Cassation judges nominated by the
 _subordinate courts_: State Security Court; Court of Appeals (organized into administrative and judiciary sections); Tribunal de Grande; magistrates' courts; customary courts<br>
 
 **Political parties and leaders**<br>
-Christian Democrat Party or PDC [Jose ENDUNDO]<br>Congolese Rally for Democracy or RCD [Azarias RUBERWA]<br>Convention of Christian Democrats or CDC<br>Engagement for Citizenship and Development or ECiDe [Martin FAYULU]<br>Forces of Renewal or FR [Mbusa NYAMWISI]<br>Lamuka coalition [Martin FAYULU] (includes ECiDe, MLC, Together for Change, CNB, and, Nouvel Elan)<br>Movement for the Liberation of the Congo or MLC [Jean-Pierre BEMBA]<br>Nouvel Elan [Adolphe MUZITO]<br>Our Congo or CNB ("Congo Na Biso") [Freddy MATUNGULU]<br>People's Party for Reconstruction and Democracy or PPRD [Henri MOVA Sakanyi]<br>Social Movement for Renewal or MSR [Pierre LUMBI]<br>Together for Change ("Ensemble") [Moise KATUMBI]<br>Unified Lumumbist Party or PALU<br>Union for the Congolese Nation or UNC [Vital KAMERHE]<br>Union for Democracy and Social Progress or UDPS [Felix TSHISEKEDI]<br>
+Christian Democrat Party or PDC [Jose ENDUNDO]<br>Congolese Rally for Democracy or RCD [Azarias RUBERWA]<br>Convention of Christian Democrats or CDC [NA]<br>Engagement for Citizenship and Development or ECiDe [Martin FAYULU]<br>Forces of Renewal or FR [Mbusa NYAMWISI]<br>Lamuka coalition [Martin FAYULU] (includes ECiDe, MLC, Together for Change, CNB, and Nouvel Elan)<br>Movement for the Liberation of the Congo or MLC [Jean-Pierre BEMBA]<br>Nouvel Elan [Adolphe MUZITO]<br>Our Congo or CNB ("Congo Na Biso") [Freddy MATUNGULU]<br>People's Party for Reconstruction and Democracy or PPRD [Henri MOVA Sakanyi]<br>Social Movement for Renewal or MSR [Pierre LUMBI]<br>Together for Change ("Ensemble") [Moise KATUMBI]<br>Unified Lumumbist Party or PALU [NA]<br>Union for the Congolese Nation or UNC [Vital KAMERHE]<br>Union for Democracy and Social Progress or UDPS [Felix TSHISEKEDI]<br>
 
 **International organization participation**<br>
 ACP, AfDB, AU, CEMAC, CEPGL, COMESA, EITI (compliant country), FAO, G-24, G-77, IAEA, IBRD, ICAO, ICC (NGOs), ICCt, ICRM, IDA, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), LCBC (observer), MIGA, NAM, OIF, OPCW, PCA, SADC, UN, UNCTAD, UNESCO, UNHCR, UNIDO, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
@@ -404,7 +404,7 @@ _email address and website_: <br>https://www.ambardcusa.org/<br>
 _representative office_: New York<br>
 
 **Diplomatic representation from the US**<br>
-_chief of mission_: Ambassador Michael A. HAMMER (since 22 December 2018)<br>
+_chief of mission_: Ambassador (vacant); Charge d'Affaires Stephanie MILEY (since July 2022)<br>
 _embassy_: 310 Avenue des Aviateurs, Kinshasa, Gombe<br>
 _mailing address_: 2220 Kinshasa Place, Washington DC&nbsp; 20521-2220<br>
 _telephone_: [243] 081 556-0151<br>
@@ -493,7 +493,7 @@ _services_: NA<br>
 **Unemployment rate**<br>
 <p>NA</p><br>
 
-**Unemployment, youth ages 15-24**<br>
+**Youth unemployment rate (ages 15-24)**<br>
 _total_: 8.7%<br>
 _male_: 11.3%<br>
 _female_: 6.8% (2012 est.)<br>

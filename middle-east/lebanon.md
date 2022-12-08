@@ -99,10 +99,10 @@ _55-64 years_: 9.62% (male 250,653/female 275,670)<br>
 _65 years and over_: 7.96% (male 187,001/female 248,479) (2020 est.)<br>
 
 **Dependency ratios**<br>
-_total dependency ratio_: 48.4<br>
-_youth dependency ratio_: 37.2<br>
-_elderly dependency ratio_: 11.2<br>
-_potential support ratio_: 8.9 (2020 est.)<br>
+_total dependency ratio_: 59.3<br>
+_youth dependency ratio_: 44<br>
+_elderly dependency ratio_: 15.3<br>
+_potential support ratio_: 6.5 (2021 est.)<br>
 
 **Median age**<br>
 _total_: 33.7 years<br>
@@ -185,7 +185,7 @@ _unimproved: rural_: rural: NA<br>
 _unimproved: total_: total: 0% of population (2020 est.)<br>
 
 **HIV/AIDS - adult prevalence rate**<br>
-(2020 est.) <.1%<br>
+(2021 est.) <0.1%<br>
 
 **Major infectious diseases**<br>
 <strong>note:</strong> widespread ongoing transmission of a respiratory illness caused by the novel coronavirus (COVID-19) is occurring throughout Lebanon; as of 18 August 2022, Lebanon has reported a total of 1,200,111 cases of COVID-19 or 17,582.89 cumulative cases of COVID-19 per 100,000 population with a total of 10,589 cumulative deaths or a rate of 155.14 cumulative deaths per 100,000 population; as of 7 August 2022, 48.5% of the population has received at least one dose of COVID-19 vaccine<br>
@@ -226,7 +226,7 @@ _total_: 11 years<br>
 _male_: 12 years<br>
 _female_: 11 years (2014)<br>
 
-**Unemployment, youth ages 15-24**<br>
+**Youth unemployment rate (ages 15-24)**<br>
 _total_: 23.4%<br>
 _male_: 24.5%<br>
 _female_: 21.4% (2019)<br>
@@ -458,7 +458,7 @@ _services_: NA<br>
 **Unemployment rate**<br>
 9.7% (2007)<br>
 
-**Unemployment, youth ages 15-24**<br>
+**Youth unemployment rate (ages 15-24)**<br>
 _total_: 23.4%<br>
 _male_: 24.5%<br>
 _female_: 21.4% (2019)<br>

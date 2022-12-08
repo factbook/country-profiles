@@ -58,7 +58,7 @@ _forest_: 36.2% (2018 est.)<br>
 _other_: 62.7% (2018 est.)<br>
 
 **Irrigated land**<br>
-0 sq km (2012)<br>
+0 sq km (2022)<br>
 
 **Population distribution**<br>
 eight of the thirty islands are inhabited; the island of Providenciales is the most populated, but the most densely populated is Grand Turk<br>
@@ -95,10 +95,10 @@ _55-64 years_: 7.81% (male 2,297/female 2,069)<br>
 _65 years and over_: 5.17% (male 1,364/female 1,525) (2020 est.)<br>
 
 **Dependency ratios**<br>
-_total dependency ratio_: NA<br>
-_youth dependency ratio_: NA<br>
-_elderly dependency ratio_: NA<br>
-_potential support ratio_: NA<br>
+_total dependency ratio_: 36.8<br>
+_youth dependency ratio_: 22.9<br>
+_elderly dependency ratio_: 13.9<br>
+_potential support ratio_: 7.2 (2021)<br>
 
 **Median age**<br>
 _total_: 34.6 years<br>
@@ -150,7 +150,7 @@ _female_: 83.71 years (2022 est.)<br>
 1.7 children born/woman (2022 est.)<br>
 
 **Contraceptive prevalence rate**<br>
-NA<br>
+34.4% (2019/20)<br>
 
 **Drinking water source**<br>
 _improved: total_: total: 94.3% of population<br>

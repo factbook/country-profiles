@@ -59,7 +59,7 @@ _forest_: 52.5% (2018 est.)<br>
 _other_: 13.2% (2018 est.)<br>
 
 **Irrigated land**<br>
-3,000 sq km (2012)<br>
+2,972 sq km (2017)<br>
 
 **Major lakes (area sq km)**<br>
 _fresh water lake(s)_: Lago Titicaca (shared with Peru) - 8,030 sq km<br>
@@ -111,10 +111,10 @@ _55-64 years_: 6.06% (male 323,210/female 382,139)<br>
 _65 years and over_: 5.71% (male 291,368/female 373,535) (2020 est.)<br>
 
 **Dependency ratios**<br>
-_total dependency ratio_: 60.5<br>
-_youth dependency ratio_: 48.5<br>
+_total dependency ratio_: 56.3<br>
+_youth dependency ratio_: 48.7<br>
 _elderly dependency ratio_: 12<br>
-_potential support ratio_: 8.3 (2020 est.)<br>
+_potential support ratio_: 8.3 (2021 est.)<br>
 
 **Median age**<br>
 _total_: 25.3 years<br>
@@ -201,7 +201,7 @@ _unimproved: rural_: rural: 51.6% of population<br>
 _unimproved: total_: total: 16.9% of population (2020 est.)<br>
 
 **HIV/AIDS - adult prevalence rate**<br>
-0.2% (2020 est.)<br>
+0.3% (2021 est.)<br>
 
 **Major infectious diseases**<br>
 _degree of risk_: very high (2020)<br>
@@ -240,7 +240,7 @@ _total population_: 92.5%<br>
 _male_: 96.5%<br>
 _female_: 88.6% (2015)<br>
 
-**Unemployment, youth ages 15-24**<br>
+**Youth unemployment rate (ages 15-24)**<br>
 _total_: 16.1%<br>
 _male_: 15.7%<br>
 _female_: 16.6% (2020 est.)<br>
@@ -483,7 +483,7 @@ _services_: 48.6% (2015 est.)<br>
 4% (2016 est.)<br>
 <strong>note:</strong> data are for urban areas; widespread underemployment<br>
 
-**Unemployment, youth ages 15-24**<br>
+**Youth unemployment rate (ages 15-24)**<br>
 _total_: 16.1%<br>
 _male_: 15.7%<br>
 _female_: 16.6% (2020 est.)<br>

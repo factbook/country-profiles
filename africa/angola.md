@@ -109,10 +109,10 @@ _55-64 years_: 3.43% (male 523,517/female 591,249)<br>
 _65 years and over_: 2.3% (male 312,197/female 436,050) (2020 est.)<br>
 
 **Dependency ratios**<br>
-_total dependency ratio_: 94.5<br>
-_youth dependency ratio_: 90.2<br>
-_elderly dependency ratio_: 4.3<br>
-_potential support ratio_: 23.5 (2020 est.)<br>
+_total dependency ratio_: 91.5<br>
+_youth dependency ratio_: 86.5<br>
+_elderly dependency ratio_: 5<br>
+_potential support ratio_: 20.1 (2021 est.)<br>
 
 **Median age**<br>
 _total_: 15.9 years<br>
@@ -196,7 +196,7 @@ _unimproved: rural_: rural: 69.7% of population<br>
 _unimproved: total_: total: 27.3% of population (2020 est.)<br>
 
 **HIV/AIDS - adult prevalence rate**<br>
-1.8% (2020 est.)<br>
+1.6% (2021 est.)<br>
 
 **Major infectious diseases**<br>
 _degree of risk_: very high (2020)<br>
@@ -237,7 +237,7 @@ _total_: 10 years<br>
 _male_: 12 years<br>
 _female_: 7 years (2011)<br>
 
-**Unemployment, youth ages 15-24**<br>
+**Youth unemployment rate (ages 15-24)**<br>
 _total_: 17.3%<br>
 _male_: 17.9%<br>
 _female_: 16.7% (2014 est.)<br>
@@ -475,7 +475,7 @@ _industry and services_: 15% (2003 est.)<br>
 **Unemployment rate**<br>
 6.6% (2016 est.)<br>
 
-**Unemployment, youth ages 15-24**<br>
+**Youth unemployment rate (ages 15-24)**<br>
 _total_: 17.3%<br>
 _male_: 17.9%<br>
 _female_: 16.7% (2014 est.)<br>
@@ -732,7 +732,7 @@ the International Maritime Bureau reports the territorial waters of Angola are a
 <p><em>Angola-Democratic Republic of Congo (DRC): </em>DRC accuses Angola of shifting monuments<br><br><em>Angola-Namibia: </em>none identified<br><br><em>Angola-Republic of Congo:</em> (Kabinda Exclave) none identified<br><br><em>Angola-Zambia: </em>because the straight-line segments along the left bank (Zambian side) of the Cuando/Kwando River do not conform with the physical alignment of the unstable shoreline, Zambian residents in some areas have settled illegally on sections of shoreline that fall on the Angolan side of the boundary</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 37,159 (Democratic Republic of the Congo) (refugees and asylum seekers), 9,272 (Guinea), 6,357 (Cote d'Ivoire), 5,725 (Mauritania) (2022)<br>
+_refugees (country of origin)_: 37,158 (Democratic Republic of the Congo) (refugees and asylum seekers), 9,272 (Guinea), 6,357 (Cote d'Ivoire), 5,725 (Mauritania) (2022)<br>
 
 **Illicit drugs**<br>
 <p>used as a transshipment point for cocaine destined for Western Europe and other African states, particularly South Africa</p><br>

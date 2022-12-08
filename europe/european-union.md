@@ -162,7 +162,7 @@ _total population_: NA<br>
 _male_: NA<br>
 _female_: NA<br>
 
-**Unemployment, youth ages 15-24**<br>
+**Youth unemployment rate (ages 15-24)**<br>
 _total_: 18.7%<br>
 _male_: 18.5%<br>
 _female_: 19.2% (2020 est.)<br>
@@ -345,7 +345,7 @@ _services_: 73.1% (2014 est.)<br>
 8.6% (2016 est.)<br>
 9.4% (2015 est.)<br>
 
-**Unemployment, youth ages 15-24**<br>
+**Youth unemployment rate (ages 15-24)**<br>
 _total_: 18.7%<br>
 _male_: 18.5%<br>
 _female_: 19.2% (2020 est.)<br>

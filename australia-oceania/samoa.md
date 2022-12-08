@@ -59,7 +59,7 @@ _forest_: 60.4% (2018 est.)<br>
 _other_: 27.2% (2018 est.)<br>
 
 **Irrigated land**<br>
-0 sq km (2012)<br>
+0 sq km (2022)<br>
 
 **Population distribution**<br>
 about three-quarters of the population lives on the island of Upolu<br>
@@ -97,10 +97,10 @@ _55-64 years_: 7.5% (male 7,780/female 7,505)<br>
 _65 years and over_: 6.18% (male 5,513/female 7,082) (2020 est.)<br>
 
 **Dependency ratios**<br>
-_total dependency ratio_: 73.3<br>
-_youth dependency ratio_: 64.5<br>
-_elderly dependency ratio_: 8.8<br>
-_potential support ratio_: 11.4 (2020 est.)<br>
+_total dependency ratio_: 74.9<br>
+_youth dependency ratio_: 66<br>
+_elderly dependency ratio_: 8.9<br>
+_potential support ratio_: 11.2 (2020 est.)<br>
 
 **Median age**<br>
 _total_: 25.6 years<br>
@@ -219,7 +219,7 @@ _total population_: 99.1%<br>
 _male_: 99%<br>
 _female_: 99.2% (2018)<br>
 
-**Unemployment, youth ages 15-24**<br>
+**Youth unemployment rate (ages 15-24)**<br>
 _total_: 31.9%<br>
 _male_: 24.6%<br>
 _female_: 43.4% (2017 est.)<br>
@@ -434,7 +434,7 @@ _services_: 29% (2015 est.)<br>
 5.5% (2016 est.)<br>
 NA<br>
 
-**Unemployment, youth ages 15-24**<br>
+**Youth unemployment rate (ages 15-24)**<br>
 _total_: 31.9%<br>
 _male_: 24.6%<br>
 _female_: 43.4% (2017 est.)<br>

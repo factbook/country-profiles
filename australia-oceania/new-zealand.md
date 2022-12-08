@@ -62,7 +62,7 @@ _forest_: 31.4% (2018 est.)<br>
 _other_: 25.4% (2018 est.)<br>
 
 **Irrigated land**<br>
-7,210 sq km (2012)<br>
+7,000 sq km (2014)<br>
 
 **Major lakes (area sq km)**<br>
 _fresh water lake(s)_: Lake Taupo - 610 sq km<br>
@@ -105,10 +105,10 @@ _55-64 years_: 11.93% (male 285,989/female 301,692)<br>
 _65 years and over_: 15.54% (male 358,228/female 407,031) (2020 est.)<br>
 
 **Dependency ratios**<br>
-_total dependency ratio_: 55.8<br>
-_youth dependency ratio_: 30.3<br>
-_elderly dependency ratio_: 25.5<br>
-_potential support ratio_: 3.9 (2020 est.)<br>
+_total dependency ratio_: 53.4<br>
+_youth dependency ratio_: 29<br>
+_elderly dependency ratio_: 24.4<br>
+_potential support ratio_: 4.1 (2021 est.)<br>
 
 **Median age**<br>
 _total_: 37.2 years<br>
@@ -195,7 +195,7 @@ _unimproved: rural_: rural: 0% of population<br>
 _unimproved: total_: total: 0% of population (2020)<br>
 
 **HIV/AIDS - adult prevalence rate**<br>
-(2020 est.) <.1%<br>
+(2021 est.) <0.1%<br>
 
 **Obesity - adult prevalence rate**<br>
 30.8% (2016)<br>
@@ -228,7 +228,7 @@ _total_: 20 years<br>
 _male_: 20 years<br>
 _female_: 21 years (2019)<br>
 
-**Unemployment, youth ages 15-24**<br>
+**Youth unemployment rate (ages 15-24)**<br>
 _total_: 12.4%<br>
 _male_: 12.2%<br>
 _female_: 12.6% (2020 est.)<br>
@@ -456,7 +456,7 @@ _services_: 72.7% (2017 est.)<br>
 4.13% (2019 est.)<br>
 4.32% (2018 est.)<br>
 
-**Unemployment, youth ages 15-24**<br>
+**Youth unemployment rate (ages 15-24)**<br>
 _total_: 12.4%<br>
 _male_: 12.2%<br>
 _female_: 12.6% (2020 est.)<br>

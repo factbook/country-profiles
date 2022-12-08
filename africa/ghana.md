@@ -62,7 +62,7 @@ _forest_: 21.2% (2018 est.)<br>
 _other_: 9.7% (2018 est.)<br>
 
 **Irrigated land**<br>
-340 sq km (2012)<br>
+360 sq km (2013)<br>
 
 **Major rivers (by length in km)**<br>
 Volta river mouth (shared with Burkina Faso [s]) - 1,600 km<br><strong>note</strong> – [s] after country name indicates river source; [m] after country name indicates river mouth<br>
@@ -109,10 +109,10 @@ _55-64 years_: 5.21% (male 743,757/female 784,517)<br>
 _65 years and over_: 4.44% (male 598,387/female 703,686) (2020 est.)<br>
 
 **Dependency ratios**<br>
-_total dependency ratio_: 67.4<br>
-_youth dependency ratio_: 62.2<br>
-_elderly dependency ratio_: 5.3<br>
-_potential support ratio_: 17.1 (2020 est.)<br>
+_total dependency ratio_: 68.7<br>
+_youth dependency ratio_: 62.9<br>
+_elderly dependency ratio_: 5.9<br>
+_potential support ratio_: 17 (2021 est.)<br>
 
 **Median age**<br>
 _total_: 21.4 years<br>
@@ -199,7 +199,7 @@ _unimproved: rural_: rural: 47.2% of population<br>
 _unimproved: total_: total: 28.9% of population (2020 est.)<br>
 
 **HIV/AIDS - adult prevalence rate**<br>
-1.7% (2020 est.)<br>
+1.7% (2021 est.)<br>
 
 **Major infectious diseases**<br>
 _degree of risk_: very high (2020)<br>
@@ -247,7 +247,7 @@ _total_: 12 years<br>
 _male_: 12 years<br>
 _female_: 12 years (2020)<br>
 
-**Unemployment, youth ages 15-24**<br>
+**Youth unemployment rate (ages 15-24)**<br>
 _total_: 9.1%<br>
 _male_: 9.4%<br>
 _female_: 8.7% (2017 est.)<br>
@@ -483,7 +483,7 @@ _services_: 40.9% (2013 est.)<br>
 11.9% (2015 est.)<br>
 5.2% (2013 est.)<br>
 
-**Unemployment, youth ages 15-24**<br>
+**Youth unemployment rate (ages 15-24)**<br>
 _total_: 9.1%<br>
 _male_: 9.4%<br>
 _female_: 8.7% (2017 est.)<br>

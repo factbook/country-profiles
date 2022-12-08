@@ -59,7 +59,7 @@ _forest_: 7% (2018 est.)<br>
 _other_: 20% (2018 est.)<br>
 
 **Irrigated land**<br>
-840 sq km (2012)<br>
+602 sq km (2020)<br>
 
 **Major lakes (area sq km)**<br>
 _fresh water lake(s)_: Hovsgol Nuur - 2,620 sq km; Har Us Nuur - 1,760 sq km;&nbsp;<br>
@@ -105,10 +105,10 @@ _55-64 years_: 8.04% (male 115,560/female 139,129)<br>
 _65 years and over_: 4.78% (male 60,966/female 90,482) (2020 est.)<br>
 
 **Dependency ratios**<br>
-_total dependency ratio_: 54.8<br>
-_youth dependency ratio_: 48.1<br>
-_elderly dependency ratio_: 6.7<br>
-_potential support ratio_: 15 (2020 est.)<br>
+_total dependency ratio_: 58.4<br>
+_youth dependency ratio_: 51.4<br>
+_elderly dependency ratio_: 7<br>
+_potential support ratio_: 14.3 (2021 est.)<br>
 
 **Median age**<br>
 _total_: 29.8 years<br>
@@ -195,7 +195,7 @@ _unimproved: rural_: rural: 30.1% of population<br>
 _unimproved: total_: total: 11.2% of population (2020 est.)<br>
 
 **HIV/AIDS - adult prevalence rate**<br>
-(2020 est.) <.1%<br>
+(2021 est.) <0.1%<br>
 
 **Obesity - adult prevalence rate**<br>
 20.6% (2016)<br>
@@ -234,7 +234,7 @@ _total_: 15 years<br>
 _male_: 14 years<br>
 _female_: 16 years (2019)<br>
 
-**Unemployment, youth ages 15-24**<br>
+**Youth unemployment rate (ages 15-24)**<br>
 _total_: 17.9%<br>
 _male_: 16.9%<br>
 _female_: 19.5% (2020 est.)<br>
@@ -465,7 +465,7 @@ _services_: 50.5% (2016)<br>
 8% (2017 est.)<br>
 7.9% (2016 est.)<br>
 
-**Unemployment, youth ages 15-24**<br>
+**Youth unemployment rate (ages 15-24)**<br>
 _total_: 17.9%<br>
 _male_: 16.9%<br>
 _female_: 19.5% (2020 est.)<br>

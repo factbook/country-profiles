@@ -60,7 +60,7 @@ _forest_: 7.1% (2018 est.)<br>
 _other_: 69.1% (2018 est.)<br>
 
 **Irrigated land**<br>
-2,250 sq km (2012)<br>
+2,159 sq km (2020)<br>
 
 **Major lakes (area sq km)**<br>
 _salt water lake(s)_: Dead Sea (shared with Jordan and West Bank) - 1,020 sq km<br>note - endorheic hypersaline lake; 9.6 times saltier than the ocean; lake shore is 431 meters below sea level<br>
@@ -102,10 +102,10 @@ _55-64 years_: 8.4% (male 363,262/female 365,709)<br>
 _65 years and over_: 11.96% (male 467,980/female 569,816) (2020 est.)<br>
 
 **Dependency ratios**<br>
-_total dependency ratio_: 67.3<br>
-_youth dependency ratio_: 46.6<br>
-_elderly dependency ratio_: 20.8<br>
-_potential support ratio_: 4.8 (2020 est.)<br>
+_total dependency ratio_: 66.9<br>
+_youth dependency ratio_: 47<br>
+_elderly dependency ratio_: 19.9<br>
+_potential support ratio_: 5 (2021 est.)<br>
 
 **Median age**<br>
 _total_: 30.4 years<br>
@@ -190,9 +190,6 @@ _unimproved: urban_: urban: 0% of population<br>
 _unimproved: rural_: rural: 0.7% of population<br>
 _unimproved: total_: total: 0.1% of population (2020 est.)<br>
 
-**HIV/AIDS - adult prevalence rate**<br>
-0.2% (2018 est.)<br>
-
 **Major infectious diseases**<br>
 <p><strong>note: </strong>on 21 March 2022, the US Centers for Disease Control and Prevention (CDC) issued a Travel Alert for polio in Asia; Israel is currently considered a high risk to travelers for circulating vaccine-derived polioviruses (cVDPV); vaccine-derived poliovirus (VDPV) is a strain of the weakened poliovirus that was initially included in oral polio vaccine (OPV) and <em>that has changed over time and behaves more like the wild or naturally occurring virus</em>; this means it can be spread more easily to people who are unvaccinated against polio and who come in contact with the stool or respiratory secretions, such as from a sneeze, of an “infected” person who received oral polio vaccine; the CDC recommends that before any international travel, anyone unvaccinated, incompletely vaccinated, or with an unknown polio vaccination status should complete the routine polio vaccine series; before travel to any high-risk destination, the CDC recommends that adults who previously completed the full, routine polio vaccine series receive a single, lifetime booster dose of polio vaccine</p><br>
 
@@ -228,7 +225,7 @@ _total_: 16 years<br>
 _male_: 15 years<br>
 _female_: 17 years (2019)<br>
 
-**Unemployment, youth ages 15-24**<br>
+**Youth unemployment rate (ages 15-24)**<br>
 _total_: 7.9%<br>
 _male_: 7.6%<br>
 _female_: 8.2% (2020 est.)<br>
@@ -464,7 +461,7 @@ _services_: 81.6% (2015 est.)<br>
 3.81% (2019 est.)<br>
 4% (2018 est.)<br>
 
-**Unemployment, youth ages 15-24**<br>
+**Youth unemployment rate (ages 15-24)**<br>
 _total_: 7.9%<br>
 _male_: 7.6%<br>
 _female_: 8.2% (2020 est.)<br>

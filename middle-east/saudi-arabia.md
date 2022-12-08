@@ -61,7 +61,7 @@ _forest_: 0.5% (2018 est.)<br>
 _other_: 18.8% (2018 est.)<br>
 
 **Irrigated land**<br>
-16,200 sq km (2012)<br>
+11,910 sq km (2018)<br>
 
 **Major watersheds (area sq km)**<br>
 Indian Ocean drainage: <em>(Persian Gulf)</em> Tigris and Euphrates (918,044 sq km)<br>
@@ -107,10 +107,10 @@ _55-64 years_: 5.95% (male 1,254,921/female 778,467)<br>
 _65 years and over_: 3.63% (male 657,395/female 584,577) (2020 est.)<br>
 
 **Dependency ratios**<br>
-_total dependency ratio_: 39.3<br>
-_youth dependency ratio_: 34.4<br>
-_elderly dependency ratio_: 4.9<br>
-_potential support ratio_: 20.5 (2020 est.)<br>
+_total dependency ratio_: 40.4<br>
+_youth dependency ratio_: 36.8<br>
+_elderly dependency ratio_: 3.7<br>
+_potential support ratio_: 27.4 (2021 est.)<br>
 
 **Median age**<br>
 _total_: 30.8 years<br>
@@ -165,7 +165,7 @@ _female_: 78.32 years (2022 est.)<br>
 1.92 children born/woman (2022 est.)<br>
 
 **Contraceptive prevalence rate**<br>
-24.6% (2016)<br>
+27.9% (2019)<br>
 
 **Drinking water source**<br>
 _improved: urban_: urban: NA<br>
@@ -193,7 +193,7 @@ _unimproved: rural_: rural: NA<br>
 _unimproved: total_: total: 0% of population (2020 est.)<br>
 
 **HIV/AIDS - adult prevalence rate**<br>
-(2020 est.) <.1%<br>
+NA<br>
 
 **Obesity - adult prevalence rate**<br>
 35.4% (2016)<br>
@@ -227,7 +227,7 @@ _total_: 16 years<br>
 _male_: 16 years<br>
 _female_: 16 years (2020)<br>
 
-**Unemployment, youth ages 15-24**<br>
+**Youth unemployment rate (ages 15-24)**<br>
 _total_: 27.2%<br>
 _male_: 21.5%<br>
 _female_: 43.8% (2020 est.)<br>
@@ -458,7 +458,7 @@ _services_: 71.9% (2005 est.)<br>
 5.6% (2016 est.)<br>
 <strong>note:</strong> data are for total population; unemployment among Saudi nationals is more than double<br>
 
-**Unemployment, youth ages 15-24**<br>
+**Youth unemployment rate (ages 15-24)**<br>
 _total_: 27.2%<br>
 _male_: 21.5%<br>
 _female_: 43.8% (2020 est.)<br>

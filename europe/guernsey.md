@@ -86,10 +86,10 @@ _55-64 years_: 13.96% (male 4,635/female 4,728)<br>
 _65 years and over_: 20.23% (male 6,229/female 7,335) (2020 est.)<br>
 
 **Dependency ratios**<br>
-_total dependency ratio_: 49<br>
-_youth dependency ratio_: 22.3<br>
-_elderly dependency ratio_: 26.7<br>
-_potential support ratio_: 3.7 (2020 est.)<br>
+_total dependency ratio_: 48.6<br>
+_youth dependency ratio_: 23.9<br>
+_elderly dependency ratio_: 24.6<br>
+_potential support ratio_: 4.1 (2021 est.)<br>
 <strong>note:</strong> data represent Guernsey and Jersey<br>
 
 **Median age**<br>

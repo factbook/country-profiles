@@ -61,7 +61,7 @@ _forest_: 31.8% (2018 est.)<br>
 _other_: 20.2% (2018 est.)<br>
 
 **Irrigated land**<br>
-6,500 sq km (2012)<br>
+5,056 sq km (2020)<br>
 
 **Major lakes (area sq km)**<br>
 _fresh water lake(s)_: Lake Constance (shared with Switzerland and Austria) - 540 sq km<br>
@@ -110,10 +110,10 @@ _55-64 years_: 15.74% (male 6,297,886/female 6,316,024)<br>
 _65 years and over_: 22.99% (male 8,148,873/female 10,277,538) (2020 est.)<br>
 
 **Dependency ratios**<br>
-_total dependency ratio_: 55.4<br>
+_total dependency ratio_: 56.4<br>
 _youth dependency ratio_: 21.7<br>
-_elderly dependency ratio_: 33.7<br>
-_potential support ratio_: 3 (2020 est.)<br>
+_elderly dependency ratio_: 34.7<br>
+_potential support ratio_: 2.9 (2021 est.)<br>
 
 **Median age**<br>
 _total_: 47.8 years<br>
@@ -200,7 +200,7 @@ _unimproved: rural_: rural: 0% of population<br>
 _unimproved: total_: total: 0% of population (2020 est.)<br>
 
 **HIV/AIDS - adult prevalence rate**<br>
-0.1% (2020 est.)<br>
+NA<br>
 
 **Obesity - adult prevalence rate**<br>
 22.3% (2016)<br>
@@ -233,7 +233,7 @@ _total_: 17 years<br>
 _male_: 17 years<br>
 _female_: 17 years (2019)<br>
 
-**Unemployment, youth ages 15-24**<br>
+**Youth unemployment rate (ages 15-24)**<br>
 _total_: 7.2%<br>
 _male_: 7.9%<br>
 _female_: 6.4% (2020 est.)<br>
@@ -470,7 +470,7 @@ _services_: 74.3% (2016)<br>
 4.98% (2019 est.)<br>
 5.19% (2018 est.)<br>
 
-**Unemployment, youth ages 15-24**<br>
+**Youth unemployment rate (ages 15-24)**<br>
 _total_: 7.2%<br>
 _male_: 7.9%<br>
 _female_: 6.4% (2020 est.)<br>
@@ -696,6 +696,9 @@ _container port(s) (TEUs)_: Bremen/Bremerhaven (4,856,900), Hamburg (9,274,215) 
 _LNG terminal(s) (import)_: Hamburg<br>
 _river port(s)_: Bremen (Weser); Bremerhaven (Geeste); Duisburg, Karlsruhe, Neuss-Dusseldorf (Rhine); Lubeck (Wakenitz); Brunsbuttel, Hamburg (Elbe)<br>
 
+**Transportation - note**<br>
+Germany operates one PC 5 or 6 class icebreaker based in the North Atlantic<br><strong>note </strong>- PC 5 - Year-round operation in medium first-year ice which may include old ice inclusions (ice thickness up to 70-120 cm); PC 6 - Summer/autumn operation in medium first-year ice which may include old ice inclusions (ice thickness up to 30-70 cm)<br>
+
 ## Military and Security
 
 **Military and security forces**<br>
@@ -707,6 +710,7 @@ Federal Armed Forces (Bundeswehr): Army (Heer), Navy (Deutsche Marine, includes 
 1.5% of GDP (2020)<br>
 1.4% of GDP (2019) (approximately $60.1 billion)<br>
 1.3% of GDP (2018) (approximately $55.4 billion)<br>
+<strong>note:</strong> in 2022, the German Government said defense spending would reach 2% of GDP by 2025<br>
 
 **Military and security service personnel strengths**<br>
 approximately 184,000 active duty personnel (63,000 Army; 16,000 Navy; 27,000 Air Force; 27,000 Joint Support Service; 20,000 Medical Service, 16,000 Cyber and Information Space Command; 15,000 other, including central staff, support, etc.) (2022)<br>

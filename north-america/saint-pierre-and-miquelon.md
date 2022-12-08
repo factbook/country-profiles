@@ -59,7 +59,7 @@ _forest_: 12.5% (2018 est.)<br>
 _other_: 78.8% (2018 est.)<br>
 
 **Irrigated land**<br>
-0 sq km (2012)<br>
+0 sq km (2022)<br>
 
 **Population distribution**<br>
 most of the population is found on Saint Pierre Island; a small settlement is located on the north end of Miquelon Island<br>
@@ -97,10 +97,10 @@ _55-64 years_: 15.52% (male 419/female 397)<br>
 _65 years and over_: 24.1% (male 556/female 711) (2022 est.)<br>
 
 **Dependency ratios**<br>
-_total dependency ratio_: NA<br>
-_youth dependency ratio_: NA<br>
-_elderly dependency ratio_: NA<br>
-_potential support ratio_: NA<br>
+_total dependency ratio_: 52<br>
+_youth dependency ratio_: 26.1<br>
+_elderly dependency ratio_: 25.9<br>
+_potential support ratio_: 3.9 (2021)<br>
 
 **Median age**<br>
 _total_: 48.5 years<br>

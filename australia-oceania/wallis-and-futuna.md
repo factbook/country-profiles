@@ -59,7 +59,7 @@ _forest_: 41.9% (2018 est.)<br>
 _other_: 15.3% (2018 est.)<br>
 
 **Irrigated land**<br>
-0 sq km (2012)<br>
+0.6 sq km (2020)<br>
 
 **Natural hazards**<br>
 cyclones; tsunamis<br>
@@ -93,10 +93,10 @@ _55-64 years_: 9.99% (male 745/female 842)<br>
 _65 years and over_: 11.73% (male 953/female 911) (2022 est.)<br>
 
 **Dependency ratios**<br>
-_total dependency ratio_: NA<br>
-_youth dependency ratio_: NA<br>
-_elderly dependency ratio_: NA<br>
-_potential support ratio_: NA<br>
+_total dependency ratio_: 57<br>
+_youth dependency ratio_: 36.6<br>
+_elderly dependency ratio_: 20.4<br>
+_potential support ratio_: 4.9 (2021)<br>
 
 **Median age**<br>
 _total_: 34 years<br>

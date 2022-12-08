@@ -110,10 +110,10 @@ _55-64 years_: 3.87% (male 520,771/female 552,801)<br>
 _65 years and over_: 3.11% (male 403,420/female 460,248) (2020 est.)<br>
 
 **Dependency ratios**<br>
-_total dependency ratio_: 81.1<br>
-_youth dependency ratio_: 76.2<br>
+_total dependency ratio_: 82.3<br>
+_youth dependency ratio_: 77.3<br>
 _elderly dependency ratio_: 4.9<br>
-_potential support ratio_: 20.3 (2020 est.)<br>
+_potential support ratio_: 20.3 (2021 est.)<br>
 
 **Median age**<br>
 _total_: 18.5 years<br>
@@ -200,7 +200,7 @@ _unimproved: rural_: rural: 72.3% of population<br>
 _unimproved: total_: total: 40.3% of population (2020 est.)<br>
 
 **HIV/AIDS - adult prevalence rate**<br>
-3% (2020 est.)<br>
+2.9% (2021 est.)<br>
 
 **Major infectious diseases**<br>
 _degree of risk_: very high (2020)<br>
@@ -248,7 +248,7 @@ _total_: 12 years<br>
 _male_: 13 years<br>
 _female_: 11 years (2016)<br>
 
-**Unemployment, youth ages 15-24**<br>
+**Youth unemployment rate (ages 15-24)**<br>
 _total_: 6.3%<br>
 _male_: 5.8%<br>
 _female_: 6.8% (2014 est.)<br>
@@ -494,7 +494,7 @@ _services_: 17% (2001 est.)<br>
 4.3% (2014 est.)<br>
 30% (2001 est.)<br>
 
-**Unemployment, youth ages 15-24**<br>
+**Youth unemployment rate (ages 15-24)**<br>
 _total_: 6.3%<br>
 _male_: 5.8%<br>
 _female_: 6.8% (2014 est.)<br>
@@ -647,7 +647,7 @@ _international_: country code - 237; landing points for the SAT-3/WASC, SAIL, AC
 <strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress toward 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>
 
 **Broadcast media**<br>
-government maintains tight control over broadcast media; state-owned Cameroon Radio Television (CRTV), broadcasting on both a TV and radio network, was the only officially recognized and fully licensed broadcaster until August 2007, when the government finally issued licenses to 2 private TV broadcasters and 1 private radio broadcaster; about 70 privately owned, unlicensed radio stations operating but are subject to closure at any time; foreign news services required to partner with state-owned national station (2019)<br>
+government maintains tight control over broadcast media; state-owned Cameroon Radio Television (CRTV), broadcasting on both a TV and radio network, was the only officially recognized and fully licensed broadcaster until August 2007, when the government finally issued licenses to 2 private TV broadcasters and 1 private radio broadcaster; about 70 privately owned, unlicensed radio stations operate but are subject to closure at any time; foreign news services required to partner with state-owned national station (2019)<br>
 
 **Internet country code**<br>
 .cm<br>

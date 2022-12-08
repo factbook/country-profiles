@@ -59,7 +59,7 @@ _forest_: 75.5% (2018 est.)<br>
 _other_: 0% (2018 est.)<br>
 
 **Irrigated land**<br>
-0 sq km (2012)<br>
+0 sq km (2022)<br>
 
 **Natural hazards**<br>
 <p>cyclones common from December to March</p><p><strong>volcanism:</strong> limited volcanic activity on the Ofu and Olosega Islands; neither has erupted since the 19th century</p><br>
@@ -95,10 +95,10 @@ _55-64 years_: 9.69% (male 2,341/female 2,447)<br>
 _65 years and over_: 6.9% (male 1,580/female 1,831) (2020 est.)<br>
 
 **Dependency ratios**<br>
-_total dependency ratio_: NA<br>
-_youth dependency ratio_: NA<br>
-_elderly dependency ratio_: NA<br>
-_potential support ratio_: NA<br>
+_total dependency ratio_: 52.3<br>
+_youth dependency ratio_: 41.9<br>
+_elderly dependency ratio_: 10.4<br>
+_potential support ratio_: 9.6 (2021)<br>
 
 **Median age**<br>
 _total_: 27.2 years<br>

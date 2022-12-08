@@ -59,7 +59,7 @@ _forest_: 1% (2018 est.)<br>
 _other_: 63.9% (2018 est.)<br>
 
 **Irrigated land**<br>
-1,000 sq km (2012)<br>
+2,666 sq km (2020)<br>
 
 **Major lakes (area sq km)**<br>
 _fresh water lake(s)_: Lake Chad (endorheic lake shared with Chad, Nigeria, and Cameroon) - 10,360-25,900 sq km<br>note - area varies by season and year to year<br>
@@ -111,10 +111,10 @@ _55-64 years_: 3.17% (male 357,832/female 364,774)<br>
 _65 years and over_: 2.68% (male 293,430/female 317,866) (2020 est.)<br>
 
 **Dependency ratios**<br>
-_total dependency ratio_: 109.5<br>
-_youth dependency ratio_: 104.1<br>
-_elderly dependency ratio_: 5.4<br>
-_potential support ratio_: 18.4 (2020 est.)<br>
+_total dependency ratio_: 105.4<br>
+_youth dependency ratio_: 100.4<br>
+_elderly dependency ratio_: 5<br>
+_potential support ratio_: 20.1 (2021 est.)<br>
 
 **Median age**<br>
 _total_: 14.8 years<br>
@@ -201,7 +201,7 @@ _unimproved: rural_: rural: 86.5% of population<br>
 _unimproved: total_: total: 75.2% of population (2020 est.)<br>
 
 **HIV/AIDS - adult prevalence rate**<br>
-0.2% (2020 est.)<br>
+0.2% (2021 est.)<br>
 
 **Major infectious diseases**<br>
 _degree of risk_: very high (2020)<br>
@@ -244,7 +244,7 @@ _total_: 6 years<br>
 _male_: 7 years<br>
 _female_: 6 years (2017)<br>
 
-**Unemployment, youth ages 15-24**<br>
+**Youth unemployment rate (ages 15-24)**<br>
 _total_: 16.6%<br>
 _male_: 16.1%<br>
 _female_: 17.5% (2017 est.)<br>
@@ -491,7 +491,7 @@ _services_: 17.5% (2012 est.)<br>
 0.3% (2017 est.)<br>
 0.3% (2016 est.)<br>
 
-**Unemployment, youth ages 15-24**<br>
+**Youth unemployment rate (ages 15-24)**<br>
 _total_: 16.6%<br>
 _male_: 16.1%<br>
 _female_: 17.5% (2017 est.)<br>

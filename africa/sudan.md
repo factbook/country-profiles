@@ -62,7 +62,7 @@ _forest_: 0% (2018 est.)<br>
 _other_: 0% (2018 est.)<br>
 
 **Irrigated land**<br>
-18,900 sq km (2012)<br>
+15,666 sq km (2020)<br>
 
 **Major rivers (by length in km)**<br>
 <p>Nile (shared with Rwanda [s], Tanzania, Uganda, South Sudan, and Egypt [m]) - 6,650 km; Blue Nile river mouth (shared with Ethiopia [s]) - 1,600 km<br><strong>note</strong> – [s] after country name indicates river source; [m] after country name indicates river mouth</p><br>
@@ -110,9 +110,9 @@ _65 years and over_: 3.03% (male 729,214/female 649,721) (2020 est.)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 76.9<br>
-_youth dependency ratio_: 70.4<br>
-_elderly dependency ratio_: 6.5<br>
-_potential support ratio_: 15.4 (2020 est.)<br>
+_youth dependency ratio_: 74<br>
+_elderly dependency ratio_: 6.2<br>
+_potential support ratio_: 16.2 (2021 est.)<br>
 
 **Median age**<br>
 _total_: 18.3 years<br>
@@ -195,7 +195,7 @@ _unimproved: rural_: rural: 69.4% of population<br>
 _unimproved: total_: total: 54.7% of population (2020 est.)<br>
 
 **HIV/AIDS - adult prevalence rate**<br>
-0.2% (2020 est.)<br>
+0.1% (2021 est.)<br>
 
 **Major infectious diseases**<br>
 _degree of risk_: very high (2020)<br>
@@ -232,7 +232,7 @@ _total_: 8 years<br>
 _male_: 8 years<br>
 _female_: 7 years (2015)<br>
 
-**Unemployment, youth ages 15-24**<br>
+**Youth unemployment rate (ages 15-24)**<br>
 _total_: 32.6%<br>
 _male_: 27.4%<br>
 _female_: 43.5% (2011 est.)<br>
@@ -467,7 +467,7 @@ _services_: 13% (1998 est.)<br>
 19.6% (2017 est.)<br>
 20.6% (2016 est.)<br>
 
-**Unemployment, youth ages 15-24**<br>
+**Youth unemployment rate (ages 15-24)**<br>
 _total_: 32.6%<br>
 _male_: 27.4%<br>
 _female_: 43.5% (2011 est.)<br>

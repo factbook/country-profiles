@@ -87,6 +87,9 @@ Economic activity is limited to the exploitation of natural resources, including
 
 ## Transportation
 
+**Icebreakers**<br>
+Norway: PC 3 or 4 - 1, PC 5 or 6 - 1;<br>Russia: PC 1 or 2 - 7, PC 3 or 4 - 8, PC 5 or 6 - 3;<br><strong>note </strong>- PC 1 - Year-round operation in all polar waters (ice thickness &gt;3 m); PC 2 - Year-round operation in moderate multi-year ice conditions (ice thickness up to 3 m); PC 3 - Year-round operation in second-year ice which may include multi-year ice inclusions (ice thickness up to 2.5 m); PC 4 - Year-round operation in thick first-year ice which may include old ice inclusions (ice thickness up to 120 cm); PC 5 - Year-round operation in medium first-year ice which may include old ice inclusions (ice thickness up to 70-120 cm); PC 6 - Summer/autumn operation in medium first-year ice which may include old ice inclusions (ice thickness up to 30-70 cm)<br>
+
 **Ports and terminals**<br>
 _major seaport(s)_: Churchill (Canada), Murmansk (Russia), Prudhoe Bay (US)<br>
 

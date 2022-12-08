@@ -105,10 +105,10 @@ _55-64 years_: 4.61% (male 278,132/female 264,325)<br>
 _65 years and over_: 2.27% (male 106,187/female 161,242) (2020 est.)<br>
 
 **Dependency ratios**<br>
-_total dependency ratio_: 96.3<br>
-_youth dependency ratio_: 90.6<br>
-_elderly dependency ratio_: 5.7<br>
-_potential support ratio_: 17.6 (2020 est.)<br>
+_total dependency ratio_: 99.4<br>
+_youth dependency ratio_: 94.2<br>
+_elderly dependency ratio_: 5.2<br>
+_potential support ratio_: 19.3 (2021 est.)<br>
 
 **Median age**<br>
 _total_: 18.5 years<br>
@@ -191,7 +191,7 @@ _unimproved: rural_: rural: 66.2% of population<br>
 _unimproved: total_: total: 43.8% of population (2020 est.)<br>
 
 **HIV/AIDS - adult prevalence rate**<br>
-(2020 est.) <.1%<br>
+(2021 est.) <0.1%<br>
 
 **Major infectious diseases**<br>
 _degree of risk_: very high (2020)<br>
@@ -265,7 +265,7 @@ _animal contact diseases_: rabies<br>
 <strong>note: </strong>on 21 March 2022, the US Centers for Disease Control and Prevention (CDC) issued a Travel Alert for polio in Africa; Somalia is currently considered a high risk to travelers for circulating vaccine-derived polioviruses (cVDPV); vaccine-derived poliovirus (VDPV) is a strain of the weakened poliovirus that was initially included in oral polio vaccine (OPV) and <em>that has changed over time and behaves more like the wild or naturally occurring virus</em>; this means it can be spread more easily to people who are unvaccinated against polio and who come in contact with the stool or respiratory secretions, such as from a sneeze, of an “infected” person who received oral polio vaccine; the CDC recommends that before any international travel, anyone unvaccinated, incompletely vaccinated, or with an unknown polio vaccination status should complete the routine polio vaccine series; before travel to any high-risk destination, the CDC recommends that adults who previously completed the full, routine polio vaccine series receive a single, lifetime booster dose of polio vaccine<br>
 
 **Food insecurity**<br>
-_exceptional shortfall in aggregate food production/supplies_: <em>due to drought conditions and internal conflict -</em> about 5.2 million people were estimated to face severe food insecurity in May 2022, as a result of consecutive poor rainy seasons since late 2020, which severely affected crop and livestock production, and due to worsening civil conflict since early 2021; if humanitarian assistance is not adequately scaled up, the number of food insecure is projected to increase to 7.11 million (45% of the total population) between June and September 2022 (2022)<br>
+_exceptional shortfall in aggregate food production/supplies_: <em>due to drought conditions and internal conflict - </em>an estimated 6.7 million people are expected to face severe acute food insecurity between October and December 2022, including about 300,000  people facing “Catastrophe” levels of food insecurity, resulting from consecutive poor rainy seasons since late 2020, which severely affected crop and livestock production, and due to heightened conflict since early 2021; famine is expected to occur in Bay region between October and December 2022 if humanitarian assistance is not urgently scaled up (2022)<br>
 
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 2,326,099 tons (2016 est.)<br>

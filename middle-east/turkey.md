@@ -61,7 +61,7 @@ _forest_: 14.9% (2018 est.)<br>
 _other_: 35.4% (2018 est.)<br>
 
 **Irrigated land**<br>
-52,150 sq km (2012)<br>
+52,150 sq km (2020)<br>
 
 **Major lakes (area sq km)**<br>
 _fresh water lake(s)_: Lake Beysehir - 650 sq km; Lake Egridir - 520 sq km<br>
@@ -110,9 +110,9 @@ _65 years and over_: 8.35% (male 3,070,258/female 3,782,174) (2020 est.)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 49.1<br>
-_youth dependency ratio_: 35.7<br>
-_elderly dependency ratio_: 13.4<br>
-_potential support ratio_: 7.5 (2020 est.)<br>
+_youth dependency ratio_: 34.5<br>
+_elderly dependency ratio_: 12.3<br>
+_potential support ratio_: 8.1 (2021 est.)<br>
 
 **Median age**<br>
 _total_: 32.2 years<br>
@@ -239,7 +239,7 @@ _total_: 18 years<br>
 _male_: 19 years<br>
 _female_: 18 years (2019)<br>
 
-**Unemployment, youth ages 15-24**<br>
+**Youth unemployment rate (ages 15-24)**<br>
 _total_: 25.1%<br>
 _male_: 22.5%<br>
 _female_: 29.9% (2020 est.)<br>
@@ -478,7 +478,7 @@ _services_: 54.9% (2016)<br>
 13.68% (2019 est.)<br>
 11% (2018 est.)<br>
 
-**Unemployment, youth ages 15-24**<br>
+**Youth unemployment rate (ages 15-24)**<br>
 _total_: 25.1%<br>
 _male_: 22.5%<br>
 _female_: 29.9% (2020 est.)<br>
@@ -741,7 +741,7 @@ Islamic State of Iraq and ash-Sham (ISIS); Islamic Movement of Uzbekistan (IMU);
 <p><em>Turkey-Armenia</em>: in 2009, Swiss mediators facilitated an accord reestablishing diplomatic ties between Armenia and Turkey, but neither side has ratified the agreement and the rapprochement effort has faltered;  in early 2022, the two countries held talks twice aimed at normalizing relations, which could lead to the opening of their land border, shut since 1993; in 2000, Turkish authorities complained to UNESCO that blasting from quarries in Armenia was damaging the medieval ruins of Ani, on the other side of the Arpacay valley</p> <p><em>Turkey-Azerbaijan</em>: none identified</p> <p><em>Turkey-Bulgaria</em>: none identified</p> <p><em>Turkey-Cyprus</em>: status of northern Cyprus question remains</p> <p><em>Turkey-Georgia</em>: none identified</p> <p><em>Turkey-Greece</em>: complex maritime, air, and territorial disputes with Greece in the Aegean Sea, including rights to explore oil and gas reserves in the eastern Mediterranean and illegal migrants transiting from Turkey into Greece; the Aegean Maritime Boundary is complicated by the close proximity of Greek islands to the western shores of the Turkish Anatolian peninsula, representing the primary source of conflict between the two countries</p> <p><em>Turkey-Iran</em>: none identified</p> <p><em>Turkey-Iraq</em>: Turkey has expressed concern over the status of Kurds in Iraq</p> <p><em>Turkey-Syria</em>: Turkey completed building a wall along its border with Syria in 2018 to prevent illegal border crossings and smuggling</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 3,585,447 (Syria) (2022); 145,000 (Ukraine) (as of 19 May 2022)<br>
+_refugees (country of origin)_: 3,577,714 (Syria) (2022); 145,000 (Ukraine) (as of 19 May 2022)<br>
 _IDPs_: 1.099 million (displaced from 1984-2005 because of fighting between the Kurdish PKK and Turkish military; most IDPs are Kurds from eastern and southeastern provinces; no information available on persons displaced by development projects) (2021)<br>
 _stateless persons_: 117 (2018)<br>
 

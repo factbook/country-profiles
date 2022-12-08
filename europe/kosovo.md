@@ -99,10 +99,10 @@ _55-64 years_: 8.67% (male 85,840/female 81,782)<br>
 _65 years and over_: 7.75% (male 63,943/female 85,940) (2020 est.)<br>
 
 **Dependency ratios**<br>
-_total dependency ratio_: NA<br>
-_youth dependency ratio_: NA<br>
-_elderly dependency ratio_: NA<br>
-_potential support ratio_: NA<br>
+_total dependency ratio_: 46.9<br>
+_youth dependency ratio_: 32.3<br>
+_elderly dependency ratio_: 14.6<br>
+_potential support ratio_: 6.9 (2021)<br>
 
 **Median age**<br>
 _total_: 30.5 years<br>
@@ -183,7 +183,7 @@ NA<br>
 **Education expenditures**<br>
 NA<br>
 
-**Unemployment, youth ages 15-24**<br>
+**Youth unemployment rate (ages 15-24)**<br>
 _total_: 49.7%<br>
 _male_: 45.9%<br>
 _female_: 57.6% (2020 est.)<br>
@@ -390,7 +390,7 @@ _services_: 78.2% (2017 est.)<br>
 27.5% (2016 est.)<br>
 <strong>note:</strong> Kosovo has a large informal sector that may not be reflected in these data<br>
 
-**Unemployment, youth ages 15-24**<br>
+**Youth unemployment rate (ages 15-24)**<br>
 _total_: 49.7%<br>
 _male_: 45.9%<br>
 _female_: 57.6% (2020 est.)<br>

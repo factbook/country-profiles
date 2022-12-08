@@ -58,7 +58,7 @@ _forest_: 0% (2018 est.)<br>
 _other_: 83.3% (2018 est.)<br>
 
 **Irrigated land**<br>
-0 sq km (2012)<br>
+0 sq km (2022)<br>
 
 **Natural hazards**<br>
 occasional earthquakes<br>
@@ -93,10 +93,10 @@ _55-64 years_: 14.28% (male 2,367/female 2,520)<br>
 _65 years and over_: 20.24% (male 3,123/female 3,805) (2020 est.)<br>
 
 **Dependency ratios**<br>
-_total dependency ratio_: NA<br>
-_youth dependency ratio_: NA<br>
-_elderly dependency ratio_: NA<br>
-_potential support ratio_: NA<br>
+_total dependency ratio_: 49.6<br>
+_youth dependency ratio_: 19.6<br>
+_elderly dependency ratio_: 30<br>
+_potential support ratio_: 3.3 (2021)<br>
 
 **Median age**<br>
 _total_: 45.2 years<br>
@@ -194,7 +194,7 @@ _total_: 12 years<br>
 _male_: 13 years<br>
 _female_: 12 years (2020)<br>
 
-**Unemployment, youth ages 15-24**<br>
+**Youth unemployment rate (ages 15-24)**<br>
 _total_: 27.4%<br>
 _male_: 21.4%<br>
 _female_: 36% (2016 est.)<br>
@@ -397,7 +397,7 @@ _services_: 66.3% (September 2013 est.)<br>
 8.1% (2017 est.)<br>
 8.6% (2016 est.)<br>
 
-**Unemployment, youth ages 15-24**<br>
+**Youth unemployment rate (ages 15-24)**<br>
 _total_: 27.4%<br>
 _male_: 21.4%<br>
 _female_: 36% (2016 est.)<br>

@@ -60,7 +60,7 @@ _forest_: 87.6% (2018 est.)<br>
 _other_: 1.6% (2018 est.)<br>
 
 **Irrigated land**<br>
-0 sq km (2012)<br>
+0 sq km (2022)<br>
 
 **Population distribution**<br>
 most of the population is located on the southern end of the main island of Babelthuap<br>
@@ -98,10 +98,10 @@ _55-64 years_: 10.68% (male 853/female 1,463)<br>
 _65 years and over_: 9.45% (male 501/female 1,548) (2020 est.)<br>
 
 **Dependency ratios**<br>
-_total dependency ratio_: NA<br>
-_youth dependency ratio_: NA<br>
-_elderly dependency ratio_: NA<br>
-_potential support ratio_: NA<br>
+_total dependency ratio_: 43.8<br>
+_youth dependency ratio_: 30.2<br>
+_elderly dependency ratio_: 13.7<br>
+_potential support ratio_: 7.3 (2021)<br>
 
 **Median age**<br>
 _total_: 33.9 years<br>
@@ -210,7 +210,7 @@ _total_: 17 years<br>
 _male_: 16 years<br>
 _female_: 17 years (2013)<br>
 
-**Unemployment, youth ages 15-24**<br>
+**Youth unemployment rate (ages 15-24)**<br>
 _total_: 5.6%<br>
 _male_: NA<br>
 _female_: (2014) NA<br>
@@ -422,7 +422,7 @@ _services_: 86.4% (2016)<br>
 1.7% (2015 est.)<br>
 4.1% (2012)<br>
 
-**Unemployment, youth ages 15-24**<br>
+**Youth unemployment rate (ages 15-24)**<br>
 _total_: 5.6%<br>
 _male_: NA<br>
 _female_: (2014) NA<br>

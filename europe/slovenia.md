@@ -59,7 +59,7 @@ _forest_: 62.3% (2018 est.)<br>
 _other_: 14.9% (2018 est.)<br>
 
 **Irrigated land**<br>
-60 sq km (2012)<br>
+39 sq km (2020)<br>
 
 **Major watersheds (area sq km)**<br>
 Atlantic Ocean drainage: <em>(Black Sea)</em> Danube (795,656 sq km)<br>
@@ -100,10 +100,10 @@ _55-64 years_: 14.19% (male 148,785/female 149,635)<br>
 _65 years and over_: 21.23% (male 192,420/female 253,896) (2020 est.)<br>
 
 **Dependency ratios**<br>
-_total dependency ratio_: 55.9<br>
+_total dependency ratio_: 55.5<br>
 _youth dependency ratio_: 23.6<br>
-_elderly dependency ratio_: 32.3<br>
-_potential support ratio_: 3.1 (2020 est.)<br>
+_elderly dependency ratio_: 31.9<br>
+_potential support ratio_: 3.1 (2021 est.)<br>
 
 **Median age**<br>
 _total_: 44.9 years<br>
@@ -188,7 +188,7 @@ _unimproved: rural_: rural: NA<br>
 _unimproved: total_: total: 1% of population (2020 est.)<br>
 
 **HIV/AIDS - adult prevalence rate**<br>
-(2020 est.) <.1%<br>
+(2021 est.) <0.1%<br>
 
 **Obesity - adult prevalence rate**<br>
 20.2% (2016)<br>
@@ -222,7 +222,7 @@ _total_: 18 years<br>
 _male_: 17 years<br>
 _female_: 18 years (2019)<br>
 
-**Unemployment, youth ages 15-24**<br>
+**Youth unemployment rate (ages 15-24)**<br>
 _total_: 14.2%<br>
 _male_: 12.7%<br>
 _female_: 16.2% (2020 est.)<br>
@@ -450,7 +450,7 @@ _services_: 63.3% (2017 est.)<br>
 7.64% (2019 est.)<br>
 8.25% (2018 est.)<br>
 
-**Unemployment, youth ages 15-24**<br>
+**Youth unemployment rate (ages 15-24)**<br>
 _total_: 14.2%<br>
 _male_: 12.7%<br>
 _female_: 16.2% (2020 est.)<br>
@@ -699,7 +699,7 @@ Slovenia became a member of NATO in 2004; Hungary and Italy provide NATO's air p
 <p><em>Slovenia-Austria</em>: none identified</p> <p><em>Slovenia-Croatia</em>: since the breakup of Yugoslavia in the early 1990s, Croatia and Slovenia have each claimed sovereignty over Piran Bay and four villages, and Slovenia has objected to Croatia's claim of an exclusive economic zone in the Adriatic Sea; in 2009, however Croatia and Slovenia signed a binding international arbitration agreement to define their disputed land and maritime borders, which led Slovenia to lift its objections to Croatia joining the EU; in June 2017, the Permanent Court of Arbitration issued a ruling on the border, but Croatia had withdrawn from the proceedings in 2015 and refused to implement it; as a member state that forms part of the EU's external border, Slovenia has implemented the strict Schengen border rules to curb illegal migration and commerce through southeastern Europe while encouraging close cross-border ties with Croatia; Slovenia continues to impose a hard border Schengen regime with Croatia, which joined the EU in 2013 but has not yet fulfilled Schengen requirements</p> <p><em>Slovenia-Hungary</em>: none identified</p> <p><em>Slovenia-Italy</em>: none identified</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 8,490 (Ukraine) (as of 22 November 2022)<br>
+_refugees (country of origin)_: 8,655 (Ukraine) (as of 29 November 2022)<br>
 _stateless persons_: 10 (2020)<br>
 <strong>note:  </strong>557,468 estimated refugee and migrant arrivals (January 2015-October 2022)<br>
 

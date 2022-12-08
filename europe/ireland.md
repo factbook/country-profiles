@@ -60,7 +60,7 @@ _forest_: 10.9% (2018 est.)<br>
 _other_: 23% (2018 est.)<br>
 
 **Irrigated land**<br>
-0 sq km (2012)<br>
+0 sq km (2022)<br>
 
 **Population distribution**<br>
 population distribution is weighted to the eastern side of the island, with the largest concentration being in and around Dublin; populations in the west are small due to mountainous land, poorer soil, lack of good transport routes, and fewer job opportunities<br>
@@ -97,10 +97,10 @@ _55-64 years_: 10.77% (male 278,836/female 278,498)<br>
 _65 years and over_: 13.82% (male 331,772/female 383,592) (2020 est.)<br>
 
 **Dependency ratios**<br>
-_total dependency ratio_: 54.8<br>
-_youth dependency ratio_: 32.3<br>
-_elderly dependency ratio_: 22.6<br>
-_potential support ratio_: 4.4 (2020 est.)<br>
+_total dependency ratio_: 53.2<br>
+_youth dependency ratio_: 30.5<br>
+_elderly dependency ratio_: 22.7<br>
+_potential support ratio_: 4.4 (2021 est.)<br>
 
 **Median age**<br>
 _total_: 37.8 years<br>
@@ -186,7 +186,7 @@ _unimproved: rural_: rural: 0.9% of population<br>
 _unimproved: total_: total: 1.7% of population (2020 est.)<br>
 
 **HIV/AIDS - adult prevalence rate**<br>
-0.2% (2020 est.)<br>
+0.3% (2021 est.)<br>
 
 **Obesity - adult prevalence rate**<br>
 25.3% (2016)<br>
@@ -219,7 +219,7 @@ _total_: 19 years<br>
 _male_: 19 years<br>
 _female_: 19 years (2019)<br>
 
-**Unemployment, youth ages 15-24**<br>
+**Youth unemployment rate (ages 15-24)**<br>
 _total_: 15.3%<br>
 _male_: 15.3%<br>
 _female_: 15.3% (2020 est.)<br>
@@ -444,7 +444,7 @@ _services_: 84% (2015 est.)<br>
 4.98% (2019 est.)<br>
 5.78% (2018 est.)<br>
 
-**Unemployment, youth ages 15-24**<br>
+**Youth unemployment rate (ages 15-24)**<br>
 _total_: 15.3%<br>
 _male_: 15.3%<br>
 _female_: 15.3% (2020 est.)<br>

@@ -60,7 +60,7 @@ _forest_: 28.8% (2018 est.)<br>
 _other_: 28.2% (2018 est.)<br>
 
 **Irrigated land**<br>
-3,537 sq km (2014)<br>
+1,820 sq km (2020)<br>
 
 **Major lakes (area sq km)**<br>
 _fresh water lake(s)_: Lake Scutari (shared with Montenegro) - 400 sq km<br>note - largest lake in the Balkans<br>
@@ -106,10 +106,10 @@ _55-64 years_: 11.94% (male 178,419/female 188,783)<br>
 _65 years and over_: 13.03% (male 186,335/female 214,276) (2020 est.)<br>
 
 **Dependency ratios**<br>
-_total dependency ratio_: 46.9<br>
-_youth dependency ratio_: 25.3<br>
-_elderly dependency ratio_: 21.6<br>
-_potential support ratio_: 4.6 (2020 est.)<br>
+_total dependency ratio_: 48.2<br>
+_youth dependency ratio_: 24.1<br>
+_elderly dependency ratio_: 24.1<br>
+_potential support ratio_: 4.2 (2021 est.)<br>
 
 **Median age**<br>
 _total_: 34.3 years<br>
@@ -195,7 +195,7 @@ _unimproved: rural_: rural: 0.5% of population<br>
 _unimproved: total_: total: 0.1% of population (2020 est.)<br>
 
 **HIV/AIDS - adult prevalence rate**<br>
-(2020 est.) <.1<br>
+(2021 est.) <0.1<br>
 
 **Obesity - adult prevalence rate**<br>
 21.7% (2016)<br>
@@ -234,7 +234,7 @@ _total_: 15 years<br>
 _male_: 14 years<br>
 _female_: 15 years (2020)<br>
 
-**Unemployment, youth ages 15-24**<br>
+**Youth unemployment rate (ages 15-24)**<br>
 _total_: 27%<br>
 _male_: 27.8%<br>
 _female_: 25.9% (2019 est.)<br>
@@ -463,7 +463,7 @@ _services_: 40.3% (2017 est.)<br>
 6.32% (2018 est.)<br>
 <strong>note:</strong> these official rates may not include those working at near-subsistence farming<br>
 
-**Unemployment, youth ages 15-24**<br>
+**Youth unemployment rate (ages 15-24)**<br>
 _total_: 27%<br>
 _male_: 27.8%<br>
 _female_: 25.9% (2019 est.)<br>

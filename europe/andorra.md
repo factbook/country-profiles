@@ -59,7 +59,7 @@ _forest_: 34% (2018 est.)<br>
 _other_: 26% (2018 est.)<br>
 
 **Irrigated land**<br>
-0 sq km (2012)<br>
+0 sq km (2022)<br>
 
 **Population distribution**<br>
 population is unevenly distributed and is concentrated in the seven urbanized valleys that make up the country's parishes (political administrative divisions)<br>
@@ -97,10 +97,10 @@ _55-64 years_: 15.91% (male 7,184/female 6,443)<br>
 _65 years and over_: 17.36% (male 7,544/female 7,323) (2020 est.)<br>
 
 **Dependency ratios**<br>
-_total dependency ratio_: NA<br>
-_youth dependency ratio_: NA<br>
-_elderly dependency ratio_: NA<br>
-_potential support ratio_: NA<br>
+_total dependency ratio_: 38.1<br>
+_youth dependency ratio_: 18.1<br>
+_elderly dependency ratio_: 20.1<br>
+_potential support ratio_: 5 (2021)<br>
 
 **Median age**<br>
 _total_: 46.2 years<br>

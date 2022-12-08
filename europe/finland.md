@@ -62,7 +62,7 @@ _forest_: 72.9% (2018 est.)<br>
 _other_: 19.6% (2018 est.)<br>
 
 **Irrigated land**<br>
-690 sq km (2012)<br>
+80 sq km (2015)<br>
 
 **Major lakes (area sq km)**<br>
 _fresh water lake(s)_: Saimaa - 1,760 sq km; Paijanne - 1,090 sq km; Inarijarvi - 1,000 sq km; Oulujarvi - 900 sq km; Pielinen - 850 sq km<br>
@@ -104,10 +104,10 @@ _55-64 years_: 13.02% (male 357,687/female 367,610)<br>
 _65 years and over_: 22.26% (male 543,331/female 697,045) (2020 est.)<br>
 
 **Dependency ratios**<br>
-_total dependency ratio_: 62.4<br>
-_youth dependency ratio_: 25.8<br>
-_elderly dependency ratio_: 36.6<br>
-_potential support ratio_: 2.7 (2020 est.)<br>
+_total dependency ratio_: 62.1<br>
+_youth dependency ratio_: 25<br>
+_elderly dependency ratio_: 37.1<br>
+_potential support ratio_: 2.7 (2021 est.)<br>
 
 **Median age**<br>
 _total_: 42.8 years<br>
@@ -194,7 +194,7 @@ _unimproved: rural_: rural: 0% of population<br>
 _unimproved: total_: total: 0% of population (2020 est.)<br>
 
 **HIV/AIDS - adult prevalence rate**<br>
-0.1% (2018 est.)<br>
+NA<br>
 
 **Obesity - adult prevalence rate**<br>
 22.2% (2016)<br>
@@ -230,7 +230,7 @@ _total_: 19 years<br>
 _male_: 18 years<br>
 _female_: 20 years (2019)<br>
 
-**Unemployment, youth ages 15-24**<br>
+**Youth unemployment rate (ages 15-24)**<br>
 _total_: 21.4%<br>
 _male_: 23.2%<br>
 _female_: 19.4% (2020 est.)<br>
@@ -457,7 +457,7 @@ _services_: 75.3% (2017 est.)<br>
 6.63% (2019 est.)<br>
 7.38% (2018 est.)<br>
 
-**Unemployment, youth ages 15-24**<br>
+**Youth unemployment rate (ages 15-24)**<br>
 _total_: 21.4%<br>
 _male_: 23.2%<br>
 _female_: 19.4% (2020 est.)<br>
@@ -676,6 +676,9 @@ _by type_: bulk carrier 9, container ship 1, general cargo 74, oil tanker 4, oth
 **Ports and terminals**<br>
 _major seaport(s)_: Helsinki, Kotka, Naantali, Porvoo, Raahe, Rauma<br>
 _LNG terminal(s) (import)_: Pori, Tornio Manga; note - an additional terminal at Hamina is under construction and due to come online in October 2022<br>
+
+**Transportation - note**<br>
+Finland operates icebreakers in the Baltic Sea; seven PC 3 or 4 and two PC 5 or 6 ships<br><strong>note </strong>- PC 3 - Year-round operation in second-year ice which may include multi-year ice inclusions (ice thickness up to 2.5 m); PC 4 - Year-round operation in thick first-year ice which may include old ice inclusions (ice thickness up to 120 cm); PC 5 - Year-round operation in medium first-year ice which may include old ice inclusions (ice thickness up to 70-120 cm); PC 6 - Summer/autumn operation in medium first-year ice which may include old ice inclusions (ice thickness up to 30-70 cm)<br>
 
 ## Military and Security
 

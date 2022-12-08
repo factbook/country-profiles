@@ -59,7 +59,7 @@ _forest_: 0.4% (2018 est.)<br>
 _other_: 91.1% (2018 est.)<br>
 
 **Irrigated land**<br>
-105 sq km (2012)<br>
+100 sq km (2015)<br>
 
 **Major watersheds (area sq km)**<br>
 Indian Ocean drainage: <em>(Persian Gulf)</em> Tigris and Euphrates (918,044 sq km)<br>
@@ -105,10 +105,10 @@ _55-64 years_: 5.43% (male 90,583/female 72,026)<br>
 _65 years and over_: 2.92% (male 38,614/female 48,752) (2020 est.)<br>
 
 **Dependency ratios**<br>
-_total dependency ratio_: 32.4<br>
+_total dependency ratio_: 34.4<br>
 _youth dependency ratio_: 28.4<br>
-_elderly dependency ratio_: 4<br>
-_potential support ratio_: 24.9 (2020 est.)<br>
+_elderly dependency ratio_: 6<br>
+_potential support ratio_: 24.9 (2021 est.)<br>
 
 **Median age**<br>
 _total_: 29.7 years<br>
@@ -191,7 +191,7 @@ _unimproved: rural_: rural: NA<br>
 _unimproved: total_: total: 0% of population (2020 est.)<br>
 
 **HIV/AIDS - adult prevalence rate**<br>
-(2018 est.) <.1%<br>
+NA<br>
 
 **Obesity - adult prevalence rate**<br>
 37.9% (2016)<br>
@@ -225,7 +225,7 @@ _total_: 15 years<br>
 _male_: 13 years<br>
 _female_: 16 years (2015)<br>
 
-**Unemployment, youth ages 15-24**<br>
+**Youth unemployment rate (ages 15-24)**<br>
 _total_: 15.4%<br>
 _male_: 9.4%<br>
 _female_: 30% (2016 est.)<br>
@@ -446,7 +446,7 @@ _services_: NA<br>
 1.1% (2017 est.)<br>
 1.1% (2016 est.)<br>
 
-**Unemployment, youth ages 15-24**<br>
+**Youth unemployment rate (ages 15-24)**<br>
 _total_: 15.4%<br>
 _male_: 9.4%<br>
 _female_: 30% (2016 est.)<br>

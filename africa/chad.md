@@ -109,10 +109,10 @@ _55-64 years_: 3.24% (male 239,634/female 306,477)<br>
 _65 years and over_: 2.43% (male 176,658/female 233,087) (2020 est.)<br>
 
 **Dependency ratios**<br>
-_total dependency ratio_: 96<br>
-_youth dependency ratio_: 91.1<br>
-_elderly dependency ratio_: 4.9<br>
-_potential support ratio_: 20.4 (2020 est.)<br>
+_total dependency ratio_: 98.7<br>
+_youth dependency ratio_: 94.7<br>
+_elderly dependency ratio_: 4<br>
+_potential support ratio_: 24.9 (2021 est.)<br>
 
 **Median age**<br>
 _total_: 16.1 years<br>
@@ -196,7 +196,7 @@ _unimproved: rural_: rural: 95.1% of population<br>
 _unimproved: total_: total: 82.7% of population (2020 est.)<br>
 
 **HIV/AIDS - adult prevalence rate**<br>
-1.1% (2020 est.)<br>
+1.1% (2021 est.)<br>
 
 **Major infectious diseases**<br>
 _degree of risk_: very high (2020)<br>
@@ -244,7 +244,7 @@ _total_: 7 years<br>
 _male_: 9 years<br>
 _female_: 6 years (2015)<br>
 
-**Unemployment, youth ages 15-24**<br>
+**Youth unemployment rate (ages 15-24)**<br>
 _total_: 1.5%<br>
 _male_: 2.4%<br>
 _female_: 0.7% (2018)<br>
@@ -294,7 +294,7 @@ _respiratory diseases_: meningococcal meningitis<br>
 <strong>note: </strong>on 21 March 2022, the US Centers for Disease Control and Prevention (CDC) issued a Travel Alert for polio in Africa; Chad is currently considered a high risk to travelers for circulating vaccine-derived polioviruses (cVDPV); vaccine-derived poliovirus (VDPV) is a strain of the weakened poliovirus that was initially included in oral polio vaccine (OPV) and <em>that has changed over time and behaves more like the wild or naturally occurring virus</em>; this means it can be spread more easily to people who are unvaccinated against polio and who come in contact with the stool or respiratory secretions, such as from a sneeze, of an “infected” person who received oral polio vaccine; the CDC recommends that before any international travel, anyone unvaccinated, incompletely vaccinated, or with an unknown polio vaccination status should complete the routine polio vaccine series; before travel to any high-risk destination, the CDC recommends that adults who previously completed the full, routine polio vaccine series receive a single, lifetime booster dose of polio vaccine<br>
 
 **Food insecurity**<br>
-_widespread lack of access_: <em>due to civil insecurity and shortfall in cereal production - </em>according to the latest analysis, about 2.1 million people are projected to be in "Crisis" and above, between June and August 2022 due to persisting insecurity in Lac and Tibesti regions that disrupted livelihood activities and caused population displacements, as well as a below-average cereal production in 2021 (2022)<br>
+_widespread lack of access_: <em>due to civil insecurity and shortfall in cereal production - </em>according to the latest analysis, about 2.1 million people are projected to be in "Crisis" and above, between June and August 2022 due to persisting insecurity in Lac and Tibesti regions that disrupted livelihood activities and caused population displacements, as well as a below-average cereal production in 2021; as of September 2022, floods destroyed about 45,000 hectares of crops and affected more than 450,000 people, mostly in the provinces of Logone Occidental, Mandoul and Sila, increasing the risk of a deterioration of food insecurity (2022)<br>
 
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 1,358,851 tons (2010 est.)<br>
@@ -481,7 +481,7 @@ _industry_: 20% (2006 est.)<br>
 **Unemployment rate**<br>
 <p>NA</p><br>
 
-**Unemployment, youth ages 15-24**<br>
+**Youth unemployment rate (ages 15-24)**<br>
 _total_: 1.5%<br>
 _male_: 2.4%<br>
 _female_: 0.7% (2018)<br>

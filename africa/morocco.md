@@ -65,7 +65,7 @@ _other_: 21% (2018 est.)<br>
 <strong>note:</strong> does not include the area of the former Western Sahara, which is almost exclusively desert<br>
 
 **Irrigated land**<br>
-14,850 sq km (2012)<br>
+17,645 sq km (2019)<br>
 
 **Major rivers (by length in km)**<br>
 Draa - 1,100 km<br>
@@ -113,10 +113,10 @@ _65 years and over_: 7.11% (male 1,225,307/female 1,302,581) (2020 est.)<br>
 <strong>note:</strong> does not include data from the former Western Sahara<br>
 
 **Dependency ratios**<br>
-_total dependency ratio_: 52.4<br>
-_youth dependency ratio_: 40.8<br>
-_elderly dependency ratio_: 11.6<br>
-_potential support ratio_: 8.6 (2020 est.)<br>
+_total dependency ratio_: 52.2<br>
+_youth dependency ratio_: 40.9<br>
+_elderly dependency ratio_: 11.3<br>
+_potential support ratio_: 8.9 (2021 est.)<br>
 <strong>note:</strong> does not include data from the former Western Sahara<br>
 
 **Median age**<br>
@@ -217,7 +217,7 @@ _unimproved: total_: total: 11.2% of population (2020 est.)<br>
 <strong>note:</strong> does not include data from the former Western Sahara<br>
 
 **HIV/AIDS - adult prevalence rate**<br>
-(2020 est.) &lt;.1%<br>
+(2021 est.) &lt;0.1%<br>
 <strong>note:</strong> does not include data from the former Western Sahara<br>
 
 **Obesity - adult prevalence rate**<br>
@@ -261,7 +261,7 @@ _male_: 14 years<br>
 _female_: 14 years (2020)<br>
 <strong>note:</strong> does not include data from the former Western Sahara<br>
 
-**Unemployment, youth ages 15-24**<br>
+**Youth unemployment rate (ages 15-24)**<br>
 _total_: 22.2%<br>
 _male_: 22%<br>
 _female_: 22.8% (2016 est.)<br>
@@ -498,7 +498,7 @@ _services_: 40.5% (2014 est.)<br>
 9.23% (2019 est.)<br>
 9.65% (2018 est.)<br>
 
-**Unemployment, youth ages 15-24**<br>
+**Youth unemployment rate (ages 15-24)**<br>
 _total_: 22.2%<br>
 _male_: 22%<br>
 _female_: 22.8% (2016 est.)<br>

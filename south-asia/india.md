@@ -62,7 +62,7 @@ _forest_: 23.1% (2018 est.)<br>
 _other_: 16.4% (2018 est.)<br>
 
 **Irrigated land**<br>
-667,000 sq km (2012)<br>
+715,539 sq km (2020)<br>
 
 **Major lakes (area sq km)**<br>
 _salt water lake(s)_: Chilika Lake - 1,170 sq km<br>
@@ -112,10 +112,10 @@ _55-64 years_: 7.91% (male 52,444,817/female 52,447,038)<br>
 _65 years and over_: 6.72% (male 42,054,459/female 47,003,975) (2020 est.)<br>
 
 **Dependency ratios**<br>
-_total dependency ratio_: 48.7<br>
-_youth dependency ratio_: 38.9<br>
-_elderly dependency ratio_: 9.8<br>
-_potential support ratio_: 10.2 (2020 est.)<br>
+_total dependency ratio_: 48.1<br>
+_youth dependency ratio_: 38.1<br>
+_elderly dependency ratio_: 10.1<br>
+_potential support ratio_: 9.9 (2021 est.)<br>
 
 **Median age**<br>
 _total_: 28.7 years<br>
@@ -202,7 +202,7 @@ _unimproved: rural_: rural: 24.8% of population<br>
 _unimproved: total_: total: 16.6% of population (2020 est.)<br>
 
 **HIV/AIDS - adult prevalence rate**<br>
-0.2% (2017 est.)<br>
+0.2% (2021 est.)<br>
 
 **Major infectious diseases**<br>
 _degree of risk_: very high (2020)<br>
@@ -249,7 +249,7 @@ _total_: 12 years<br>
 _male_: 12 years<br>
 _female_: 12 years (2020)<br>
 
-**Unemployment, youth ages 15-24**<br>
+**Youth unemployment rate (ages 15-24)**<br>
 _total_: 19.8%<br>
 _male_: 19.5%<br>
 _female_: 21% (2020 est.)<br>
@@ -497,7 +497,7 @@ _services_: 31% (FY 2014 est.)<br>
 8.5% (2017 est.)<br>
 8.5% (2016 est.)<br>
 
-**Unemployment, youth ages 15-24**<br>
+**Youth unemployment rate (ages 15-24)**<br>
 _total_: 19.8%<br>
 _male_: 19.5%<br>
 _female_: 21% (2020 est.)<br>
