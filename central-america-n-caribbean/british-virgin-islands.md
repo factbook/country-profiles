@@ -122,7 +122,7 @@ _female_: 37.5 years (2020 est.)<br>
 a fairly even distribution throughout the inhabited islands, with the largest islands of Tortola, Anegada, Virgin Gorda, and Jost Van Dyke having the largest populations<br>
 
 **Urbanization**<br>
-_urban population_: 49.3% of total population (2022)<br>
+_urban population_: 49.7% of total population (2023)<br>
 _rate of urbanization_: 1.73% annual rate of change (2020-25 est.)<br>
 
 **Major urban areas - population**<br>
@@ -178,7 +178,7 @@ NA<br>
 NA<br>
 
 **Education expenditures**<br>
-2.9% of GDP (2019 est.)<br>
+2.6% of GDP (2020 est.)<br>
 
 **Literacy**<br>
 _total population_: NA<br>
@@ -210,7 +210,7 @@ _forest_: 24.3% (2018 est.)<br>
 _other_: 29% (2018 est.)<br>
 
 **Urbanization**<br>
-_urban population_: 49.3% of total population (2022)<br>
+_urban population_: 49.7% of total population (2023)<br>
 _rate of urbanization_: 1.73% annual rate of change (2020-25 est.)<br>
 
 **Waste and recycling**<br>

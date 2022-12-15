@@ -128,7 +128,7 @@ _female_: 39.4 years (2020 est.)<br>
 population concentrated in central Nicosia and in the major cities of the south: Paphos, Limassol, and Larnaca<br>
 
 **Urbanization**<br>
-_urban population_: 66.9% of total population (2022)<br>
+_urban population_: 67% of total population (2023)<br>
 _rate of urbanization_: 0.76% annual rate of change (2020-25 est.)<br>
 
 **Major urban areas - population**<br>
@@ -213,7 +213,7 @@ _female_: 23.2% (2020 est.)<br>
 NA<br>
 
 **Education expenditures**<br>
-5.8% of GDP (2017 est.)<br>
+6.1% of GDP (2020 est.)<br>
 
 **Literacy**<br>
 _definition_: age 15 and over can read and write<br>
@@ -224,12 +224,12 @@ _female_: 98.7% (2015)<br>
 **School life expectancy (primary to tertiary education)**<br>
 _total_: 16 years<br>
 _male_: 16 years<br>
-_female_: 16 years (2019)<br>
+_female_: 16 years (2020)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 18.2%<br>
-_male_: 24.4%<br>
-_female_: 12.3% (2020 est.)<br>
+_total_: 17.1%<br>
+_male_: 17.8%<br>
+_female_: 16.3% (2021 est.)<br>
 
 **People - note**<br>
 demographic data for Cyprus represent the population of the government-controlled area and the area administered by Turkish Cypriots, unless otherwise indicated<br>
@@ -260,7 +260,7 @@ _forest_: 18.8% (2018 est.)<br>
 _other_: 67.8% (2018 est.)<br>
 
 **Urbanization**<br>
-_urban population_: 66.9% of total population (2022)<br>
+_urban population_: 67% of total population (2023)<br>
 _rate of urbanization_: 0.76% annual rate of change (2020-25 est.)<br>
 
 **Revenue from forest resources**<br>
@@ -460,9 +460,9 @@ _services_: 81% (2014 est.)<br>
 8.37% (2018 est.)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 18.2%<br>
-_male_: 24.4%<br>
-_female_: 12.3% (2020 est.)<br>
+_total_: 17.1%<br>
+_male_: 17.8%<br>
+_female_: 16.3% (2021 est.)<br>
 
 **Population below poverty line**<br>
 14.7% (2018 est.)<br>
@@ -710,7 +710,7 @@ Islamic State of Iraq and ash-Sham (ISIS)<br>
 <p>hostilities in 1974 divided the island into two de facto autonomous entities, the internationally recognized Cypriot Government and a Turkish-Cypriot community (north Cyprus); the 1,000-strong UN Peacekeeping Force in Cyprus (UNFICYP) has served in Cyprus since 1964 and maintains the buffer zone between north and south; on 1 May 2004, Cyprus entered the EU still divided, with the EU's body of legislation and standards (acquis communitaire) suspended in the north; Turkey protests Cypriot Government creating hydrocarbon blocks and maritime boundary with Lebanon in March 2007</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 9,820 (Syria) (mid-year 2021); 14,336 (Ukraine) (as of 15 November 2022)<br>
+_refugees (country of origin)_: 9,820 (Syria) (mid-year 2021); 14,326 (Ukraine) (as of 6 December 2022)<br>
 _IDPs_: 242,000 (both Turkish and Greek Cypriots; many displaced since 1974) (2021)<br>
 _stateless persons_: 66 (mid-year 2021)<br>
 <strong>note:</strong> 46,379 estimated refugee and migrant arrivals (January 2015-October 2022)<br>

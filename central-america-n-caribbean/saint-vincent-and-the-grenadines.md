@@ -123,7 +123,7 @@ _female_: 35.1 years (2020 est.)<br>
 most of the population is concentrated in and around the capital of Kingstown<br>
 
 **Urbanization**<br>
-_urban population_: 53.9% of total population (2022)<br>
+_urban population_: 54.3% of total population (2023)<br>
 _rate of urbanization_: 0.94% annual rate of change (2020-25 est.)<br>
 
 **Major urban areas - population**<br>
@@ -233,7 +233,7 @@ _forest_: 68.7% (2018 est.)<br>
 _other_: 5.7% (2018 est.)<br>
 
 **Urbanization**<br>
-_urban population_: 53.9% of total population (2022)<br>
+_urban population_: 54.3% of total population (2023)<br>
 _rate of urbanization_: 0.94% annual rate of change (2020-25 est.)<br>
 
 **Revenue from forest resources**<br>

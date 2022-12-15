@@ -135,7 +135,7 @@ _female_: 17.6 years (2020 est.)<br>
 three large populations clusters are found along the southern coast between Maputo and Inhambane, in the central area between Beira and Chimoio along the Zambezi River, and in and around the northern cities of Nampula, Cidade de Nacala, and Pemba; the northwest and southwest are the least populated areas as shown in this population distribution map<br>
 
 **Urbanization**<br>
-_urban population_: 38.2% of total population (2022)<br>
+_urban population_: 38.8% of total population (2023)<br>
 _rate of urbanization_: 4.24% annual rate of change (2020-25 est.)<br>
 
 **Major urban areas - population**<br>
@@ -228,7 +228,7 @@ _female_: 5.6% (2020 est.)<br>
 15.6% (2014/15)<br>
 
 **Education expenditures**<br>
-6.2% of GDP (2019 est.)<br>
+6.3% of GDP (2020 est.)<br>
 
 **Literacy**<br>
 _definition_: age 15 and over can read and write<br>
@@ -272,7 +272,7 @@ _forest_: 43.7% (2018 est.)<br>
 _other_: 0% (2018 est.)<br>
 
 **Urbanization**<br>
-_urban population_: 38.2% of total population (2022)<br>
+_urban population_: 38.8% of total population (2023)<br>
 _rate of urbanization_: 4.24% annual rate of change (2020-25 est.)<br>
 
 **Revenue from forest resources**<br>
@@ -632,7 +632,7 @@ _total subscriptions_: 15,463,226 (2020 est.)<br>
 _subscriptions per 100 inhabitants_: 49 (2020 est.)<br>
 
 **Telecommunication systems**<br>
-_general assessment_: one of the first countries in the region to embark upon telecom reform and to open the sector to competition; the mobile segment in particular has shown strong growth; additional competition followed in late 2020; in the process, the structure of the market changed from having four operators to three; at the same time, a new licensing regime ensured that by mid-2019 all three operators had been provided with universal licenses, enabling them to offer all types of telephony and data services; mobile, fixed-line and broadband penetration rates remain far below the average for the region; in recent years the government has enforced the registration of SIM cards, but with varying success; at the end of 2016 almost five million unregistered SIM cards were deactivated but poor monitoring meant that the process was revisited in mid-2019 and again in late 2020; the high cost of international bandwidth had long hampered internet use, though the landing of two international submarine cables (SEACOM and EASSy) has reduced the cost of bandwidth and so led to drastic reductions in broadband retail prices as well as a significant jump in available bandwidth; there is some cross-platform competition, with DSL, cable, fibre, WiMAX, and mobile broadband options available, though fixed broadband options can be limited to urban areas; improvements can be expected from the ongoing rollout of a national fiber backbone networks and of upgrades to mobile infrastructure (2022)<br>
+_general assessment_: one of the first countries in the region to embark upon telecom reform and to open the sector to competition; the mobile segment in particular has shown strong growth; additional competition followed in late 2020; a new licensing regime ensured that by mid-2019 all operators had been provided with universal licenses, enabling them to offer all types of telephony and data services; mobile, fixed-line and broadband penetration rates remain far below the average for the region; in recent years the government has enforced the registration of SIM cards, but with varying success; at the end of 2016 almost five million unregistered SIM cards were deactivated but poor monitoring meant that the process was revisited in mid-2019 and again in late 2020; the high cost of international bandwidth had long hampered internet use, though the landing of two international submarine cables (SEACOM and EASSy) has reduced the cost of bandwidth and so led to drastic reductions in broadband retail prices as well as a significant jump in available bandwidth; there is some cross-platform competition, with DSL, cable, fibre, WiMAX, and mobile broadband options available, though fixed broadband options can be limited to urban areas; improvements can be expected from the ongoing rollout of a national fiber backbone networks and of upgrades to mobile infrastructure (2022)<br>
 _domestic_: extremely low fixed-line teledensity contrasts with rapid growth in the mobile-cellular network; operators provide coverage that includes all the main cities and key roads; fixed-line less than 1 per 100 and nearly 49 per 100 mobile-cellular teledensity (2020)<br>
 _international_: country code - 258; landing points for the EASSy and SEACOM/ Tata TGN-Eurasia fiber-optic submarine cable systems linking numerous&nbsp;east African&nbsp;countries, the Middle East and Asia&nbsp;; satellite earth stations - 5 Intelsat (2 Atlantic Ocean and 3 Indian Ocean); TdM contracts for Itelsat for satellite broadband and bulk haul services (2020)<br>
 <strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress toward 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>

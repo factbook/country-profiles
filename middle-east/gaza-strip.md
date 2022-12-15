@@ -116,7 +116,7 @@ _female_: 18.4 years (2020 est.)<br>
 population concentrated in major cities, particularly Gaza City in the north<br>
 
 **Urbanization**<br>
-_urban population_: 77.3% of total population (2022)<br>
+_urban population_: 77.6% of total population (2023)<br>
 _rate of urbanization_: 2.85% annual rate of change (2020-25 est.)<br>
 <strong>note:</strong> data represent Gaza Strip and the West Bank<br>
 
@@ -209,13 +209,13 @@ _female_: 96.2% (2020)<br>
 **School life expectancy (primary to tertiary education)**<br>
 _total_: 13 years<br>
 _male_: 12 years<br>
-_female_: 14 years (2020)<br>
+_female_: 14 years (2021)<br>
 <strong>note:</strong> data represent Gaza Strip and the West Bank<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 42.1%<br>
-_male_: 36.6%<br>
-_female_: 70% (2020 est.)<br>
+_total_: 41.7%<br>
+_male_: 37.3%<br>
+_female_: 64.5% (2021 est.)<br>
 <strong>note:</strong> includes the West Bank<br>
 
 ## Environment
@@ -231,7 +231,7 @@ _carbon dioxide emissions_: 3.23 megatons (2016 est.)<br>
 temperate, mild winters, dry and warm to hot summers<br>
 
 **Urbanization**<br>
-_urban population_: 77.3% of total population (2022)<br>
+_urban population_: 77.6% of total population (2023)<br>
 _rate of urbanization_: 2.85% annual rate of change (2020-25 est.)<br>
 <strong>note:</strong> data represent Gaza Strip and the West Bank<br>
 
@@ -336,9 +336,9 @@ _services_: 84.8% (2015 est.)<br>
 <strong>note:</strong> data exclude the West Bank<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 42.1%<br>
-_male_: 36.6%<br>
-_female_: 70% (2020 est.)<br>
+_total_: 41.7%<br>
+_male_: 37.3%<br>
+_female_: 64.5% (2021 est.)<br>
 <strong>note:</strong> includes the West Bank<br>
 
 **Population below poverty line**<br>

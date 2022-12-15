@@ -23,7 +23,7 @@ _total_: 4,236,351 sq km<br>
 <strong>rank by area (sq km):<br></strong>1. France (includes five overseas regions) 643,801 <br>2. Spain 505,370 <br>3. Sweden 450,295 <br>4. Germany 357,022 <br>5. Finland 338,145 <br>6. Poland 312,685 <br>7. Italy 301,340<br>8. Romania 238,391 <br>9. Greece 131,957 <br>10. Bulgaria 110,879 <br>11. Hungary 93,028 <br>12. Portugal 92,090 <br>13. Austria 83,871 <br>14. Czechia 78,867 <br>15. Ireland 70,273 <br>16. Lithuania 65,300 <br>17. Latvia 64,589 <br>18. Croatia 56,594 <br>19. Slovakia 49,035 <br>20. Estonia 45,228 <br>21. Denmark 43,094 <br>22. Netherlands 41,543 <br>23. Belgium 30,528 <br>24. Slovenia 20,273 <br>25. Cyprus 9,251 <br>26. Luxembourg 2,586 <br>27. Malta 316<br>
 
 **Area - comparative**<br>
-less than one-half the size of the US<br>
+less than one half the size of the United States<br>
 
 **Land boundaries**<br>
 _total_: 13,770 km<br>
@@ -50,7 +50,7 @@ iron ore, natural gas, petroleum, coal, copper, lead, zinc, bauxite, uranium, po
 154,539.82 sq km (2011 est.)<br>
 
 **Population distribution**<br>
-population distribution varies considerably from country to country, but tends to follow a pattern of coastal and river settlement, with urban agglomerations forming large hubs facilitating large scale housing, industry, and commerce; the area in and around the Netherlands, Belgium, and Luxembourg (known collectively as Benelux), is the most densely populated area in the EU<br>
+population distribution varies considerably from country to country but tends to follow a pattern of coastal and river settlement, with urban agglomerations forming large hubs facilitating large scale housing, industry, and commerce; the area in and around the Netherlands, Belgium, and Luxembourg (known collectively as Benelux), is the most densely populated area in the EU<br>
 
 **Natural hazards**<br>
 flooding along coasts; avalanches in mountainous area; earthquakes in the south; volcanic eruptions in Italy; periodic droughts in Spain; ice floes in the Baltic Sea region<br>
@@ -99,7 +99,7 @@ _female_: 45.5 years (2020 est.)<br>
 -2.85 migrant(s)/1,000 population<br>
 
 **Population distribution**<br>
-population distribution varies considerably from country to country, but tends to follow a pattern of coastal and river settlement, with urban agglomerations forming large hubs facilitating large scale housing, industry, and commerce; the area in and around the Netherlands, Belgium, and Luxembourg (known collectively as Benelux), is the most densely populated area in the EU<br>
+population distribution varies considerably from country to country but tends to follow a pattern of coastal and river settlement, with urban agglomerations forming large hubs facilitating large scale housing, industry, and commerce; the area in and around the Netherlands, Belgium, and Luxembourg (known collectively as Benelux), is the most densely populated area in the EU<br>
 
 **Sex ratio**<br>
 _at birth_: 1.06 male(s)/female<br>
@@ -149,13 +149,13 @@ _unimproved: total_: total: NA<br>
 note - see individual entries of member states<br>
 
 **Major infectious diseases**<br>
-<strong>note:</strong> widespread ongoing transmission of a respiratory illness caused by the novel coronavirus (COVID-19) is occurring regionally; the US Department of Homeland Security has issued instructions requiring US passengers who have been in the European Union’s Schengen Area (comprised of the following 26 European states: Austria, Belgium, Czech Republic, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Iceland, Italy, Latvia, Liechtenstein, Lithuania, Luxembourg, Malta, Netherlands, Norway, Poland, Portugal, Slovakia, Slovenia, Spain, Sweden, and Switzerland) to travel through select airports where the US Government has implemented enhanced screening procedures<br>
+<strong>note:</strong> widespread ongoing transmission of a respiratory illness caused by the novel coronavirus (COVID-19) is occurring regionally; the US Department of Homeland Security has issued instructions requiring US passengers who have been in the European Union’s Schengen Area (comprised of the following 27 European states: Austria, Belgium, Croatia, Czech Republic, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Iceland, Italy, Latvia, Liechtenstein, Lithuania, Luxembourg, Malta, Netherlands, Norway, Poland, Portugal, Slovakia, Slovenia, Spain, Sweden, and Switzerland) to travel through select airports where the US Government has implemented enhanced screening procedures<br>
 
 **Children under the age of 5 years underweight**<br>
 NA<br>
 
 **Education expenditures**<br>
-4.7% of GDP (2019 est.)<br>
+5% of GDP (2020 est.)<br>
 
 **Literacy**<br>
 _total population_: NA<br>
@@ -163,9 +163,9 @@ _male_: NA<br>
 _female_: NA<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 18.7%<br>
-_male_: 18.5%<br>
-_female_: 19.2% (2020 est.)<br>
+_total_: 18.5%<br>
+_male_: 18.1%<br>
+_female_: 19.2% (2021 est.)<br>
 
 ## Environment
 
@@ -189,7 +189,7 @@ _forest revenues_: 0.05% of GDP (2018 est.)<br>
 _coal revenues_: 0.02% of GDP (2018 est.)<br>
 
 **Major infectious diseases**<br>
-<strong>note:</strong> widespread ongoing transmission of a respiratory illness caused by the novel coronavirus (COVID-19) is occurring regionally; the US Department of Homeland Security has issued instructions requiring US passengers who have been in the European Union’s Schengen Area (comprised of the following 26 European states: Austria, Belgium, Czech Republic, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Iceland, Italy, Latvia, Liechtenstein, Lithuania, Luxembourg, Malta, Netherlands, Norway, Poland, Portugal, Slovakia, Slovenia, Spain, Sweden, and Switzerland) to travel through select airports where the US Government has implemented enhanced screening procedures<br>
+<strong>note:</strong> widespread ongoing transmission of a respiratory illness caused by the novel coronavirus (COVID-19) is occurring regionally; the US Department of Homeland Security has issued instructions requiring US passengers who have been in the European Union’s Schengen Area (comprised of the following 27 European states: Austria, Belgium, Croatia, Czech Republic, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Iceland, Italy, Latvia, Liechtenstein, Lithuania, Luxembourg, Malta, Netherlands, Norway, Poland, Portugal, Slovakia, Slovenia, Spain, Sweden, and Switzerland) to travel through select airports where the US Government has implemented enhanced screening procedures<br>
 
 **Total renewable water resources**<br>
 2,057.8 cubic meters (2011)<br>
@@ -246,7 +246,7 @@ _judge selection and term of office_: judges appointed by the common consent of 
 <strong>note:</strong> the ECJ is the supreme judicial authority of the EU; it ensures that EU law is interpreted and applied uniformly throughout the EU, resolves disputed issues among the EU institutions and with member states, and reviews issues and opinions regarding questions of EU law referred by member state courts<br>
 
 **Political parties and leaders**<br>
-European United Left-Nordic Green Left or GUE/NGL [Manon AUBRY and Martin SCHIRDEWAN]<br>European Conservatives and Reformists or ECR [Raffaele FITTO and Ryszard LEGUTKO]<br>European Greens/European Free Alliance or Greens/EFA [Ska KELLER and Philippe LAMBERTS]<br>European People's Party or EPP [Manfred WEBER]<br>Identity and Democracy Party or ID [Marco ZANNI]<br>Progressive Alliance of Socialists and Democrats or S&amp;D [Iratxe GARCIA]<br>Renew Europe or RE [Stephane SEJOURNE](successor to Alliance of Liberals and Democrats for Europe or ALDE) <br>
+European United Left-Nordic Green Left or GUE/NGL [Manon AUBRY and Martin SCHIRDEWAN]<br>European Conservatives and Reformists or ECR [Raffaele FITTO and Ryszard LEGUTKO]<br>European Greens/European Free Alliance or Greens/EFA [Ska KELLER and Philippe LAMBERTS]<br>European People's Party or EPP [Manfred WEBER]<br>Identity and Democracy Party or ID [Marco ZANNI]<br>Progressive Alliance of Socialists and Democrats or S&amp;D [Iratxe GARCIA]<br>Renew Europe or RE [Stephane SEJOURNE] (successor to Alliance of Liberals and Democrats for Europe or ALDE)<br>
 
 **International organization participation**<br>
 ARF, ASEAN (dialogue member), Australian Group, BIS, BSEC (observer), CBSS, CERN, EBRD, FAO, FATF, G-8, G-10, G-20, IDA, IEA, IGAD (partners), LAIA (observer), NSG (observer), OAS (observer), OECD, PIF (partner), SAARC (observer), SICA (observer), UN (observer), UNRWA (observer), WCO, WTO, ZC (observer)<br>
@@ -281,9 +281,9 @@ _lyrics/music_: no lyrics/Ludwig VAN BEETHOVEN, arranged by Herbert VON KARAJAN<
 <p>The 27 member states that make up the EU have adopted an internal single market with free movement of goods, services, capital, and labor. The EU, which is also a customs union, aims to bolster Europe's trade position and its political and economic weight in international affairs.</p> <p> </p> <p>Despite great differences in per capita income among member states (from $28,000 to $109,000) and in national attitudes toward issues like inflation, debt, and foreign trade, the EU has achieved a high degree of coordination of monetary and fiscal policies. A common currency – the euro – circulates among 19 of the member states that make up the European Economic and Monetary Union (EMU). Eleven member states introduced the euro as their common currency on 1 January 1999 (Greece did so two years later). Since 2004, 13 states acceded to the EU. Of the 13, Slovenia (2007), Cyprus and Malta (2008), Slovakia (2009), Estonia (2011), Latvia (2014), and Lithuania (2015) have adopted the euro; seven other member states - excluding Denmark, which has a formal opt-out - are required by EU treaties to adopt the common currency upon meeting fiscal and monetary convergence criteria.</p> <p> </p> <p>The EU economy posted moderate GDP growth for 2014 through 2017, capping five years of sustained growth since the 2008-09 global economic crisis and the ensuing sovereign debt crisis in the euro zone in 2011. However, the bloc’s recovery was uneven. Some EU member states (Czechia, Ireland, Malta, Romania, Sweden, and Spain) recorded strong growth, others (Italy) experienced modest expansion, and Greece finally ended its EU rescue program in August 2018. Overall, the EU’s recovery was buoyed by lower commodities prices and accommodative monetary policy, which lowered interest rates and stimulated demand. The euro zone, which makes up about 70% of the total EU economy, performed well, achieving a growth rate not seen in a decade. In October 2017 the European Central Bank (ECB) announced it would extend its bond-buying program through September 2018, and possibly beyond that date, to keep the euro zone recovery on track. The ECB’s efforts to spur more lending and investment through its asset-buying program, negative interest rates, and long-term loan refinancing programs have not yet raised inflation in line with the ECB’s statutory target of just under 2%.</p> <p> </p> <p>Despite its performance, high unemployment in some member states, high levels of public and private debt, muted productivity, an incomplete single market in services, and an aging population remain sources of potential drag on the EU’s future growth. Moreover, the EU economy remains vulnerable to a slowdown of global trade and bouts of political and financial turmoil. In June 2016, the UK voted to withdraw from the EU, the first member country ever to attempt to secede. Continued uncertainty about the implications of the UK’s exit from the EU (concluded January 2020) could hurt consumer and investor confidence and dampen EU growth, particularly if trade and cross-border investment significantly declines. Political disagreements between EU member states on reforms to fiscal and economic policy also may impair the EU’s ability to bolster its crisis-prevention and resolution mechanisms. International investors’ fears of a broad dissolution of the single currency area have largely dissipated, but these concerns could resurface if elected leaders implement policies that contravene euro-zone budget or banking rules. State interventions in ailing banks, including rescue of banks in Italy and resolution of banks in Spain, have eased financial vulnerabilities in the European banking sector even though some banks are struggling with low profitability and a large stock of bad loans, fragilities that could precipitate localized crises. Externally, the EU has continued to pursue comprehensive free trade agreements to expand EU external market share, particularly with Asian countries; EU and Japanese leaders reached a political-level agreement on a free trade agreement in July 2017, and agreement with Mexico in April 2018 on updates to an existing free trade agreement.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
-$19,885,625,000,000 (2019 est.)<br>
-$19,551,328,000,000 (2018 est.)<br>
-$19,115,988,000,000 (2017 est.)<br>
+$19.89 trillion (2019 est.)<br>
+$19.55 trillion (2018 est.)<br>
+$19.12 trillion (2017 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
@@ -346,9 +346,9 @@ _services_: 73.1% (2014 est.)<br>
 9.4% (2015 est.)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 18.7%<br>
-_male_: 18.5%<br>
-_female_: 19.2% (2020 est.)<br>
+_total_: 18.5%<br>
+_male_: 18.1%<br>
+_female_: 19.2% (2021 est.)<br>
 
 **Population below poverty line**<br>
 9.8% (2013 est.)<br>
@@ -380,9 +380,9 @@ $404.9 billion (2017 est.)<br>
 $359.7 billion (2016 est.)<br>
 
 **Exports**<br>
-$7,102,345,000,000 (2019 est.)<br>
-$6,929,845,000,000 (2018 est.)<br>
-$6,690,764,000,000 (2017 est.)<br>
+$7.102 trillion (2019 est.)<br>
+$6.93 trillion (2018 est.)<br>
+$6.691 trillion (2017 est.)<br>
 <strong>note:</strong> external exports, excluding intra-EU trade<br>
 
 **Exports - partners**<br>
@@ -392,9 +392,9 @@ U.S. 20.7%, China 9.6%, Switzerland 8.1%, Turkey 4.4%, Russia 4.1% (2016 est.)<b
 machinery, motor vehicles, pharmaceuticals and other chemicals, fuels, aircraft, plastics, iron and steel, wood pulp and paper products, alcoholic beverages, furniture<br>
 
 **Imports**<br>
-$6,649,513,000,000 (2019 est.)<br>
-$6,400,412,000,000 (2018 est.)<br>
-$6,177,446,000,000 (2017 est.)<br>
+$6.65 trillion (2019 est.)<br>
+$6.4 trillion (2018 est.)<br>
+$6.177 trillion (2017 est.)<br>
 <strong>note:</strong> external imports, excluding intra-EU trade<br>
 
 **Imports - partners**<br>
@@ -498,7 +498,7 @@ _major port(s)_: Antwerp (Belgium), Barcelona (Spain), Braila (Romania), Bremen 
 ## Military and Security
 
 **Military and security forces**<br>
-<p>the EU's Common Security and Defense Policy (CSDP) provides the civilian, military, and political structures for EU crisis management and security issues; the highest bodies are:</p> <p>the <strong>Political and Security Committee (PSC)</strong>, which meets at the ambassadorial level as a preparatory body for the Council of the EU; it assists with defining policies and preparing a crisis response</p> <p>the <strong>European Union Military Committee (EUMC)</strong> is the EU's highest military body; it is composed of the chiefs of defense (CHODs) of the Member States, who are regularly represented by their permanent Military Representatives; the EUMC provides the PSC with advice and recommendations on all military matters within the EU</p> <p>the <strong>Committee for Civilian Aspects of Crisis Management (CIVCOM) </strong>provides advice and recommendations to the PSC in parallel with the EUMC on civilian aspects of crisis management</p> <p>the<strong> Politico-Military Group (PMG)</strong> provides advice and recommendations to the PSC on political aspects of EU military and civil-military issues, including concepts, capabilities and operations and missions, and monitors implementation</p> <p>other bodies set up under the CSDP include; the Security and Defense Policy Directorate (SECDEFPOL), the Integrated approach for Security and Peace Directorate (ISP), the EU Military Staff (EUMS), the Civilian Planning and Conduct Capability (CPCC), the Military Planning and Conduct  Capability (MPCC), the European Defense Agency, the European Security and Defense College (ESDC), the EU Institute for Security Studies, and the EU Satellite Center (2022)</p><br>
+<p>the EU's Common Security and Defense Policy (CSDP) provides the civilian, military, and political structures for EU crisis management and security issues; the highest bodies are:</p> <p>the <strong>Political and Security Committee (PSC)</strong>, which meets at the ambassadorial level as a preparatory body for the Council of the EU; it assists with defining policies and preparing a crisis response</p> <p>the <strong>European Union Military Committee (EUMC)</strong> is the EU's highest military body; it is composed of the chiefs of defense (CHODs) of the Member States, who are regularly represented by their permanent Military Representatives; the EUMC provides the PSC with advice and recommendations on all military matters within the EU</p> <p>the <strong>Committee for Civilian Aspects of Crisis Management (CIVCOM) </strong>provides advice and recommendations to the PSC in parallel with the EUMC on civilian aspects of crisis management</p> <p>the<strong> Politico-Military Group (PMG)</strong> provides advice and recommendations to the PSC on political aspects of EU military and civil-military issues, including concepts, capabilities and operations and missions, and monitors implementation</p> <p>other bodies set up under the CSDP include the Security and Defense Policy Directorate (SECDEFPOL), the Integrated approach for Security and Peace Directorate (ISP), the EU Military Staff (EUMS), the Civilian Planning and Conduct Capability (CPCC), the Military Planning and Conduct Capability (MPCC), the European Defense Agency, the European Security and Defense College (ESDC), the EU Institute for Security Studies, and the EU Satellite Center (2022)</p><br>
 <strong>note:</strong> in 2017, the EU set up the Permanent Structured Cooperation on Defense (PESCO), a mechanism for deepening defense cooperation amongst member states through binding commitments and collaborative programs on a variety of military-related capabilities such as cyber, maritime surveillance, medical support, operational readiness, procurement, and training; similar efforts to promote collaboration and cooperation that same year amongst members included the Military Planning and Conduct Capability (MPCC), the Coordinated Annual Review on Defense (CARD), and the European Defense Fund (EDF)<br>
 
 **Military expenditures**<br>
@@ -507,7 +507,7 @@ _major port(s)_: Antwerp (Belgium), Barcelona (Spain), Braila (Romania), Bremen 
 1.4% of GDP (2019)<br>
 1.4% of GDP (2018)<br>
 1.35% of GDP (2017)<br>
-note: the European Defense Fund (EDF) has a budget of &nbsp;approximately $8 billion for 2021-2027; about $2.7 billion is devoted to funding collaborative defense research while about $5.3 billion is allocated for collaborative capability development projects that complement national contributions; EDF "categories for action" include areas such as information air and missile defense, cyber and information security, digital transformation, force protection, medical services, space, training, and air, ground, and naval combat capabilities (2022)<br>
+<strong>note:</strong> the European Defense Fund (EDF) has a budget of  approximately $8 billion for 2021-2027; about $2.7 billion is devoted to funding collaborative defense research while about $5.3 billion is allocated for collaborative capability development projects that complement national contributions; EDF "categories for action" include areas such as information air and missile defense, cyber and information security, digital transformation, force protection, medical services, space, training, and air, ground, and naval combat capabilities (2022)<br>
 
 **Military and security service personnel strengths**<br>
 the 27 EU countries have a cumulative total of approximately 1.34 million active duty troops; the largest EU country military forces belong to France, Germany, and Italy (2021)<br>
@@ -528,5 +528,6 @@ see individual EU member states<br>
 ## Transnational Issues
 
 **Disputes - international**<br>
-<p>as a political union, the EU has no border disputes with neighboring countries, but Estonia has no land boundary agreements with Russia, Slovenia disputes its land and maritime boundaries with Croatia, and Spain has territorial and maritime disputes with Morocco and with the UK over Gibraltar; the EU has set up a Schengen area - consisting of 22 EU member states that have signed the convention implementing the Schengen agreements or "acquis" (1985 and 1990) on the free movement of persons and the harmonization of border controls in Europe; these agreements became incorporated into EU law with the implementation of the 1997 Treaty of Amsterdam on 1 May 1999; in addition, non-EU states Iceland and Norway (as part of the Nordic Union) have been included in the Schengen area since 1996 (full members in 2001), Switzerland since 2008, and Liechtenstein since 2011 bringing the total current membership to 26; the UK (since 2000) and Ireland (since 2002) take part in only some aspects of the Schengen area, especially with respect to police and criminal matters; nine of the 13 new member states that joined the EU since 2004 joined Schengen on 21 December 2007; of the four remaining EU states, Romania, Bulgaria, and Croatia are obligated to eventually join, while Cyprus' entry is held up by the ongoing Cyprus dispute</p><br>
+<p>as a political union, the EU has no border disputes with neighboring countries, but Estonia has no land boundary agreements with Russia, Slovenia disputes its land and maritime boundaries with Croatia, and Spain has territorial and maritime disputes with Morocco and with the UK over Gibraltar; the EU has set up a Schengen area - consisting of 23 EU member states that have signed the convention implementing the Schengen agreements or "acquis" (1985 and 1990) on the free movement of persons and the harmonization of border controls in Europe; these agreements became incorporated into EU law with the implementation of the 1997 Treaty of Amsterdam on 1 May 1999; in addition, non-EU states Iceland and Norway (as part of the Nordic Union) have been included in the Schengen area since 1996 (full members in 2001), Switzerland since 2008, and Liechtenstein since 2011 bringing the total current membership to 27; the UK (since 2000) and Ireland (since 2002) take part in only some aspects of the Schengen area, especially with respect to police and criminal matters; nine of the 13 new member states that joined the EU since 2004 joined Schengen on 21 December 2007; EU member state Croatia joined on 1 January 2023; of the three remaining EU states, Romania and Bulgaria are obligated to eventually join, while Cyprus' entry is held up by the ongoing Cyprus dispute</p><br>
+<strong>note: </strong>three of Europe's microstates - Monaco, San Marino, and the Holy See (Vatican City) - maintain open borders for passenger traffic with their neighbors and are thus <em>de facto</em> members of the Schengen Area, since it is impossible to travel to or from them without transiting another Schengen member country<br>
 

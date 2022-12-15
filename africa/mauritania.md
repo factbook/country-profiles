@@ -138,7 +138,7 @@ _female_: 22 years (2020 est.)<br>
 with most of the country being a desert, vast areas of the country, particularly in the central, northern, and eastern areas, are without sizeable population clusters; half the population lives in or around the coastal capital of Nouakchott; smaller clusters are found near the southern border with Mali and Senegal as shown in this population distribution map<br>
 
 **Urbanization**<br>
-_urban population_: 56.9% of total population (2022)<br>
+_urban population_: 57.7% of total population (2023)<br>
 _rate of urbanization_: 3.84% annual rate of change (2020-25 est.)<br>
 
 **Major urban areas - population**<br>
@@ -238,8 +238,8 @@ _female_: 43.4% (2017)<br>
 
 **School life expectancy (primary to tertiary education)**<br>
 _total_: 9 years<br>
-_male_: 9 years<br>
-_female_: 10 years (2019)<br>
+_male_: 8 years<br>
+_female_: 9 years (2020)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
 _total_: 21.1%<br>
@@ -272,7 +272,7 @@ _forest_: 0.2% (2018 est.)<br>
 _other_: 61.3% (2018 est.)<br>
 
 **Urbanization**<br>
-_urban population_: 56.9% of total population (2022)<br>
+_urban population_: 57.7% of total population (2023)<br>
 _rate of urbanization_: 3.84% annual rate of change (2020-25 est.)<br>
 
 **Revenue from forest resources**<br>

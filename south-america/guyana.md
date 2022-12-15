@@ -130,7 +130,7 @@ _female_: 27.9 years (2020 est.)<br>
 population is heavily concentrated in the northeast in and around Georgetown, with noteable concentrations along the Berbice River to the east; the remainder of the country is sparsely populated<br>
 
 **Urbanization**<br>
-_urban population_: 27% of total population (2022)<br>
+_urban population_: 27.2% of total population (2023)<br>
 _rate of urbanization_: 1.01% annual rate of change (2020-25 est.)<br>
 
 **Major urban areas - population**<br>
@@ -234,9 +234,9 @@ _male_: 11 years<br>
 _female_: 12 years (2012)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 26.5%<br>
-_male_: 20.7%<br>
-_female_: 34.6% (2018 est.)<br>
+_total_: 27.4%<br>
+_male_: 23%<br>
+_female_: 33.4% (2019 est.)<br>
 
 ## Environment
 
@@ -264,7 +264,7 @@ _forest_: 77.4% (2018 est.)<br>
 _other_: 14.2% (2018 est.)<br>
 
 **Urbanization**<br>
-_urban population_: 27% of total population (2022)<br>
+_urban population_: 27.2% of total population (2023)<br>
 _rate of urbanization_: 1.01% annual rate of change (2020-25 est.)<br>
 
 **Revenue from forest resources**<br>
@@ -453,9 +453,9 @@ _services_: NA<br>
 11.3% (2012)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 26.5%<br>
-_male_: 20.7%<br>
-_female_: 34.6% (2018 est.)<br>
+_total_: 27.4%<br>
+_male_: 23%<br>
+_female_: 33.4% (2019 est.)<br>
 
 **Population below poverty line**<br>
 35% (2006 est.)<br>

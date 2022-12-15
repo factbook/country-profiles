@@ -130,7 +130,7 @@ _female_: 26.4 years (2020 est.)<br>
 most densely populated areas are in the east; the largest city is Djibouti, with a population over 600,000; no other city in the country has a total population over 50,000 as shown in this population distribution map<br>
 
 **Urbanization**<br>
-_urban population_: 78.4% of total population (2022)<br>
+_urban population_: 78.6% of total population (2023)<br>
 _rate of urbanization_: 1.56% annual rate of change (2020-25 est.)<br>
 
 **Major urban areas - population**<br>
@@ -255,7 +255,7 @@ _forest_: 0.2% (2018 est.)<br>
 _other_: 26.4% (2018 est.)<br>
 
 **Urbanization**<br>
-_urban population_: 78.4% of total population (2022)<br>
+_urban population_: 78.6% of total population (2023)<br>
 _rate of urbanization_: 1.56% annual rate of change (2020-25 est.)<br>
 
 **Revenue from forest resources**<br>

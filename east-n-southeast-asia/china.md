@@ -142,7 +142,7 @@ _female_: 39.4 years (2020 est.)<br>
 overwhelming majority of the population is found in the eastern half of the country; the west, with its vast mountainous and desert areas, remains sparsely populated; though ranked first in the world in total population, overall density is less than that of many other countries in Asia and Europe; high population density is found along the Yangtze and Yellow River valleys, the Xi Jiang River delta, the Sichuan Basin (around Chengdu), in and around Beijing, and the industrial area around Shenyang<br>
 
 **Urbanization**<br>
-_urban population_: 63.6% of total population (2022)<br>
+_urban population_: 64.6% of total population (2023)<br>
 _rate of urbanization_: 1.78% annual rate of change (2020-25 est.)<br>
 <strong>note:</strong> data do not include Hong Kong and Macau<br>
 
@@ -210,7 +210,7 @@ _degree of risk_: high (2020)<br>
 _food or waterborne diseases_: bacterial diarrhea, hepatitis A, and typhoid fever<br>
 _vectorborne diseases_: Crimean-Congo hemorrhagic fever, Japanese encephalitis<br>
 _soil contact diseases_: hantaviral hemorrhagic fever with renal syndrome (HFRS)<br>
-<strong>note:</strong> a new coronavirus is causing an outbreak of respiratory illness (COVID-19) in China; illness with this virus has ranged from mild to severe with fatalities reported; the US Department of State has issued a do not travel advisory for China due to COVID-19; the Centers for Disease Control and Prevention has also recommended against travel to China and published additional guidance at https://wwwnc.cdc.gov/travel/notices/warning/novel-coronavirus-china; the US Department of Homeland Security has issued instructions requiring US passengers who have been in China to travel through select airports where the US Government has implemented enhanced screening procedures; as of 18 August 2022, China has reported a total of 6,041,468 cases of COVID-19 or 410.62 cumulative cases of COVID-19 per 100,000 population with a total of 24,322 cumulative deaths or a rate 1.65 cumulative deaths per 100,000 population; as of 9 August 2022, 91.27% of the population has received at least one dose of COVID-19 vaccine<br>
+<strong>note:</strong> a new coronavirus is causing an outbreak of respiratory illness (COVID-19) in China; illness with this virus has ranged from mild to severe with fatalities reported; the US Department of State has issued a do not travel advisory for China due to COVID-19; the Centers for Disease Control and Prevention has also recommended against travel to China and published additional guidance at https://wwwnc.cdc.gov/travel/notices/warning/novel-coronavirus-china; the US Department of Homeland Security has issued instructions requiring US passengers who have been in China to travel through select airports where the US Government has implemented enhanced screening procedures; as of 9 December 2022, China has reported a total of 9,862,129 cases of COVID-19 or 670.3 cumulative cases of COVID-19 per 100,000 population with a total of 30,717 cumulative deaths or a rate 2.1 cumulative deaths per 100,000 population; as of 28 November 2022, 91.5% of the population has received at least one dose of COVID-19 vaccine<br>
 
 **Obesity - adult prevalence rate**<br>
 6.2% (2016)<br>
@@ -231,7 +231,7 @@ _female_: 1.7% (2020 est.)<br>
 2.4% (2013)<br>
 
 **Education expenditures**<br>
-3.5% of GDP (2018 est.)<br>
+3.6% of GDP (2020 est.)<br>
 
 **Literacy**<br>
 _definition_: age 15 and over can read and write<br>
@@ -273,7 +273,7 @@ _forest_: 22.3% (2018 est.)<br>
 _other_: 23% (2018 est.)<br>
 
 **Urbanization**<br>
-_urban population_: 63.6% of total population (2022)<br>
+_urban population_: 64.6% of total population (2023)<br>
 _rate of urbanization_: 1.78% annual rate of change (2020-25 est.)<br>
 <strong>note:</strong> data do not include Hong Kong and Macau<br>
 
@@ -288,7 +288,7 @@ _degree of risk_: high (2020)<br>
 _food or waterborne diseases_: bacterial diarrhea, hepatitis A, and typhoid fever<br>
 _vectorborne diseases_: Crimean-Congo hemorrhagic fever, Japanese encephalitis<br>
 _soil contact diseases_: hantaviral hemorrhagic fever with renal syndrome (HFRS)<br>
-<strong>note:</strong> a new coronavirus is causing an outbreak of respiratory illness (COVID-19) in China; illness with this virus has ranged from mild to severe with fatalities reported; the US Department of State has issued a do not travel advisory for China due to COVID-19; the Centers for Disease Control and Prevention has also recommended against travel to China and published additional guidance at https://wwwnc.cdc.gov/travel/notices/warning/novel-coronavirus-china; the US Department of Homeland Security has issued instructions requiring US passengers who have been in China to travel through select airports where the US Government has implemented enhanced screening procedures; as of 18 August 2022, China has reported a total of 6,041,468 cases of COVID-19 or 410.62 cumulative cases of COVID-19 per 100,000 population with a total of 24,322 cumulative deaths or a rate 1.65 cumulative deaths per 100,000 population; as of 9 August 2022, 91.27% of the population has received at least one dose of COVID-19 vaccine<br>
+<strong>note:</strong> a new coronavirus is causing an outbreak of respiratory illness (COVID-19) in China; illness with this virus has ranged from mild to severe with fatalities reported; the US Department of State has issued a do not travel advisory for China due to COVID-19; the Centers for Disease Control and Prevention has also recommended against travel to China and published additional guidance at https://wwwnc.cdc.gov/travel/notices/warning/novel-coronavirus-china; the US Department of Homeland Security has issued instructions requiring US passengers who have been in China to travel through select airports where the US Government has implemented enhanced screening procedures; as of 9 December 2022, China has reported a total of 9,862,129 cases of COVID-19 or 670.3 cumulative cases of COVID-19 per 100,000 population with a total of 30,717 cumulative deaths or a rate 2.1 cumulative deaths per 100,000 population; as of 28 November 2022, 91.5% of the population has received at least one dose of COVID-19 vaccine<br>
 
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 210 million tons (2015 est.)<br>
@@ -718,7 +718,7 @@ _LNG terminal(s) (import)_: Fujian, Guangdong, Jiangsu, Shandong, Shanghai, Tang
 _river port(s)_: Guangzhou (Pearl)<br>
 
 **Transportation - note**<br>
-seven of the world’s ten largest container ports are in China; China operates one PC 3 or 4 class and three PC 5 or 6 class icebreakers<br><strong>note </strong>- PC 3 - Year-round operation in second-year ice which may include multi-year ice inclusions (ice thickness up to 2.5 m); PC 4 - Year-round operation in thick first-year ice which may include old ice inclusions (ice thickness up to 120 cm); PC 5 - Year-round operation in medium first-year ice which may include old ice inclusions (ice thickness up to 70-120 cm); PC 6 - Summer/autumn operation in medium first-year ice which may include old ice inclusions (ice thickness up to 30-70 cm)<br>
+<strong>note 1:</strong> seven of the world’s ten largest container ports are in China<br><br><strong>note 2:</strong> China operates one PC 3 or 4 class medium ice breaker and three PC 5 or 6 class light icebreakers<br>note - PC indicates a Polar Class vessel: PC 3 - year-round operation in second-year ice which may include multi-year ice inclusions (ice thickness up to 2.5 m); PC 4 - year-round operation in thick first-year ice which may include old ice inclusions (ice thickness up to 120 cm); PC 5 - year-round operation in medium first-year ice which may include old ice inclusions (ice thickness up to 70-120 cm); PC 6 - summer/autumn operation in medium first-year ice which may include old ice inclusions (ice thickness up to 30-70 cm)<br>
 
 ## Military and Security
 

@@ -140,7 +140,7 @@ _female_: 38.5 years (2020 est.)<br>
 population is primarily located on the periphery, with the highest concentration of people residing in the east and southeast; a secondary population center is located in and around Perth in the west; of the States and Territories, New South Wales has, by far, the largest population; the interior, or "outback", has a very sparse population<br>
 
 **Urbanization**<br>
-_urban population_: 86.5% of total population (2022)<br>
+_urban population_: 86.6% of total population (2023)<br>
 _rate of urbanization_: 1.27% annual rate of change (2020-25 est.)<br>
 <strong>note:</strong> data include Christmas Island, Cocos Islands, and Norfolk Island<br>
 
@@ -226,7 +226,7 @@ _female_: 11.5% (2020 est.)<br>
 NA<br>
 
 **Education expenditures**<br>
-5.1% of GDP (2018 est.)<br>
+6.1% of GDP (2020 est.)<br>
 
 **Literacy**<br>
 _total population_: NA<br>
@@ -234,14 +234,14 @@ _male_: NA<br>
 _female_: NA<br>
 
 **School life expectancy (primary to tertiary education)**<br>
-_total_: 22 years<br>
-_male_: 21 years<br>
-_female_: 22 years (2019)<br>
+_total_: 21 years<br>
+_male_: 20 years<br>
+_female_: 22 years (2020)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 14.3%<br>
-_male_: 15.3%<br>
-_female_: 13.2% (2020 est.)<br>
+_total_: 11.3%<br>
+_male_: 12.6%<br>
+_female_: 9.8% (2021 est.)<br>
 
 ## Environment
 
@@ -269,7 +269,7 @@ _forest_: 17.42% (2018 est.)<br>
 _other_: 33.42% (2018 est.)<br>
 
 **Urbanization**<br>
-_urban population_: 86.5% of total population (2022)<br>
+_urban population_: 86.6% of total population (2023)<br>
 _rate of urbanization_: 1.27% annual rate of change (2020-25 est.)<br>
 <strong>note:</strong> data include Christmas Island, Cocos Islands, and Norfolk Island<br>
 
@@ -479,9 +479,9 @@ _services_: 75.3% (2009 est.)<br>
 5.29% (2018 est.)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 14.3%<br>
-_male_: 15.3%<br>
-_female_: 13.2% (2020 est.)<br>
+_total_: 11.3%<br>
+_male_: 12.6%<br>
+_female_: 9.8% (2021 est.)<br>
 
 **Gini Index coefficient - distribution of family income**<br>
 34.4 (2014 est.)<br>
@@ -701,7 +701,7 @@ _LNG terminal(s) (export)_: Australia Pacific, Barrow Island, Burrup (Pluto), Cu
 _dry bulk cargo port(s)_: Dampier (iron ore), Dalrymple Bay (coal), Hay Point (coal), Port Hedland (iron ore), Port Walcott (iron ore)<br>
 
 **Transportation - note**<br>
-Australia operates one PC 3 or 4 class icebreaker based in Tasmania in support of operations in Antarctica<br><strong>note </strong>- PC 3 - Year-round operation in second-year ice which may include multi-year ice inclusions (ice thickness up to 2.5 m); PC 4 - Year-round operation in thick first-year ice which may include old ice inclusions (ice thickness up to 120 cm)<br>
+Australia operates one PC 3 or 4 class medium icebreaker based in Tasmania in support of operations in Antarctica<br>note - PC indicates a Polar Class vessel: PC 3 - year-round operation in second-year ice which may include multi-year ice inclusions (ice thickness up to 2.5 m); PC 4 - year-round operation in thick first-year ice which may include old ice inclusions (ice thickness up to 120 cm)<br>
 
 ## Military and Security
 

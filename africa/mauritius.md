@@ -128,7 +128,7 @@ _female_: 37.6 years (2020 est.)<br>
 population density is one of the highest in the world; urban cluster are found throught the main island, with a greater density in and around Port Luis; population on Rodrigues Island is spread across the island with a slightly denser cluster on the north coast as shown in this population distribution map<br>
 
 **Urbanization**<br>
-_urban population_: 40.8% of total population (2022)<br>
+_urban population_: 40.9% of total population (2023)<br>
 _rate of urbanization_: 0.28% annual rate of change (2020-25 est.)<br>
 
 **Major urban areas - population**<br>
@@ -209,7 +209,7 @@ _female_: 3% (2020 est.)<br>
 NA<br>
 
 **Education expenditures**<br>
-4.6% of GDP (2020 est.)<br>
+4.9% of GDP (2021 est.)<br>
 
 **Literacy**<br>
 _definition_: age 15 and over can read and write<br>
@@ -223,9 +223,9 @@ _male_: 14 years<br>
 _female_: 16 years (2017)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 21.8%<br>
-_male_: 16.8%<br>
-_female_: 28.4% (2019 est.)<br>
+_total_: 24.5%<br>
+_male_: 21.7%<br>
+_female_: 28% (2020 est.)<br>
 
 ## Environment
 
@@ -253,7 +253,7 @@ _forest_: 17.3% (2018 est.)<br>
 _other_: 38.9% (2018 est.)<br>
 
 **Urbanization**<br>
-_urban population_: 40.8% of total population (2022)<br>
+_urban population_: 40.9% of total population (2023)<br>
 _rate of urbanization_: 0.28% annual rate of change (2020-25 est.)<br>
 
 **Revenue from forest resources**<br>
@@ -443,9 +443,9 @@ _services_: 62.2% (2014 est.)<br>
 6.84% (2018 est.)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 21.8%<br>
-_male_: 16.8%<br>
-_female_: 28.4% (2019 est.)<br>
+_total_: 24.5%<br>
+_male_: 21.7%<br>
+_female_: 28% (2020 est.)<br>
 
 **Population below poverty line**<br>
 10.3% (2017 est.)<br>
@@ -587,13 +587,13 @@ _total subscriptions_: 1,912,900 (2020 est.)<br>
 _subscriptions per 100 inhabitants_: 150 (2020 est.)<br>
 
 **Telecommunication systems**<br>
-_general assessment_: the telecom sector in Mauritius has long been supported by the varied needs of tourists; this has stimulated the mobile market, leading to a particularly high penetration rate; the response of the country&rsquo;s telcos to tourist requirements also contributed to the country being among the first in the region to provide services based on 3G and WiMAX technologies; the country has seen improved international internet capacity in recent years, with direct cables linking to India, Madagascar, and South Africa, as well as other connections to Rodrigues and Reunion; despite these advantages, some services remain slow; at the end of 2021, the median mobile data rate available was only 21Mb/s, ranking the country 84th of 138 monitored; the median fixed broadband data rate was about 19.8Mb/s, with a rank of 117th of 178 countries; mobile subscribers in Mauritius secured 5G services in mid-2021; this followed the regulator&rsquo;s award of spectrum in two bands to the MNOs; the award was made directly, rather than via an auction, since the regulator was keen to see services made available as soon as possible; this will help the government&rsquo;s ambition to make telecommunications a pillar of economic growth, and to have a fully digital-based infrastructure; such infrastructure will also contribute to a revival of tourism, the mainstay of the economy; although GDP growth returned in 2021, the number of tourist arrivals remains a fraction of the pre-pandemic level (2022)<br>
+_general assessment_: the telecom sector in Mauritius has long been supported by the varied needs of tourists; this has stimulated the mobile market, leading to a particularly high penetration rate; the response of the country&rsquo;s telcos to tourist requirements also contributed to the country being among the first in the region to provide services based on 3G and WiMAX technologies; the incumbent telco provides comprehensive LTE and fiber broadband coverage, and in late 2021 it launched a gigabit fiber-based broadband service; the country has seen improved international internet capacity in recent years, with direct cables linking to India, Madagascar, and South Africa, as well as other connections to Rodrigues and Reunion; mobile subscribers in Mauritius secured 5G services in mid-2021;&nbsp; this followed the regulator&rsquo;s award of spectrum in two bands to the MNOs (2022)<br>
 _domestic_: fixed-line teledensity over 37 per 100 persons and mobile-cellular services teledensity roughly 150 per 100 persons (2020)<br>
 _international_: country code - 230; landing points for the SAFE, MARS, IOX Cable System, METISS&nbsp;and LION submarine cable system that provides links to Asia, Africa, Southeast Asia, Indian Ocean Islands of Reunion, Madagascar, and Mauritius; satellite earth station - 1 Intelsat (Indian Ocean); new microwave link to Reunion; HF radiotelephone links to several countries (2019)<br>
 <strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress toward 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>
 
 **Broadcast media**<br>
-the government maintains control over TV broadcasting through the Mauritius Broadcasting Corporation (MBC), which only operates digital TV stations since June 2015; MBC is a shareholder in a local company that operates 2 pay-TV stations; the state retains the largest radio broadcast network with multiple stations; several private radio broadcasters have entered the market since 2001; transmissions of at least 2 international broadcasters are available (2019)<br>
+the Mauritius Broadcasting Corporation is the national public television and radio broadcaster; it broadcasts programming in French, English, Hindi, Creole and Chinese, it provides 17 television channels in Mauritius; there are nine Mauritian FM radio stations and two operating on the AM band<br> (2022)<br>
 
 **Internet country code**<br>
 .mu<br>

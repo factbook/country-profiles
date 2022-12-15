@@ -128,7 +128,7 @@ _female_: 24.8 years (2020 est.)<br>
 approximately 25% to 30% of the population lives in the former capital, Belize City; over half of the overall population is rural; population density is slightly higher in the north and east<br>
 
 **Urbanization**<br>
-_urban population_: 46.4% of total population (2022)<br>
+_urban population_: 46.6% of total population (2023)<br>
 _rate of urbanization_: 2.3% annual rate of change (2020-25 est.)<br>
 
 **Major urban areas - population**<br>
@@ -214,7 +214,7 @@ _women married by age 18_: 33.5%<br>
 _men married by age 18_: 22.2% (2016 est.)<br>
 
 **Education expenditures**<br>
-7.9% of GDP (2020 est.)<br>
+8.7% of GDP (2021 est.)<br>
 
 **Literacy**<br>
 _total population_: NA<br>
@@ -223,8 +223,8 @@ _female_: NA<br>
 
 **School life expectancy (primary to tertiary education)**<br>
 _total_: 13 years<br>
-_male_: 13 years<br>
-_female_: 13 years (2020)<br>
+_male_: 12 years<br>
+_female_: 13 years (2021)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
 _total_: 19.3%<br>
@@ -257,7 +257,7 @@ _forest_: 60.6% (2018 est.)<br>
 _other_: 32.5% (2018 est.)<br>
 
 **Urbanization**<br>
-_urban population_: 46.4% of total population (2022)<br>
+_urban population_: 46.6% of total population (2023)<br>
 _rate of urbanization_: 2.3% annual rate of change (2020-25 est.)<br>
 
 **Revenue from forest resources**<br>

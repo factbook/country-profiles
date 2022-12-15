@@ -224,11 +224,6 @@ _total_: 9 years<br>
 _male_: 9 years<br>
 _female_: 9 years (2013)<br>
 
-**Youth unemployment rate (ages 15-24)**<br>
-_total_: 35.8%<br>
-_male_: 26.6%<br>
-_female_: 71.1% (2011 est.)<br>
-
 ## Environment
 
 **Environment - current issues**<br>
@@ -440,11 +435,6 @@ _services_: 67% (2008 est.)<br>
 **Unemployment rate**<br>
 50% (2017 est.)<br>
 50% (2016 est.)<br>
-
-**Youth unemployment rate (ages 15-24)**<br>
-_total_: 35.8%<br>
-_male_: 26.6%<br>
-_female_: 71.1% (2011 est.)<br>
 
 **Population below poverty line**<br>
 82.5% (2014 est.)<br>

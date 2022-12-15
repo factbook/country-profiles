@@ -126,7 +126,7 @@ _female_: 46.8 years (2020 est.)<br>
 one-third of the population lives in and around metropolitan Athens; the remainder of the country has moderate population density mixed with sizeable urban clusters<br>
 
 **Urbanization**<br>
-_urban population_: 80.4% of total population (2022)<br>
+_urban population_: 80.7% of total population (2023)<br>
 _rate of urbanization_: 0.11% annual rate of change (2020-25 est.)<br>
 
 **Major urban areas - population**<br>
@@ -210,7 +210,7 @@ _female_: 30.5% (2020 est.)<br>
 NA<br>
 
 **Education expenditures**<br>
-3.6% of GDP (2018 est.)<br>
+4.4% of GDP (2020 est.)<br>
 
 **Literacy**<br>
 _definition_: age 15 and over can read and write<br>
@@ -221,12 +221,12 @@ _female_: 97.4% (2018)<br>
 **School life expectancy (primary to tertiary education)**<br>
 _total_: 20 years<br>
 _male_: 20 years<br>
-_female_: 20 years (2019)<br>
+_female_: 20 years (2020)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 35%<br>
-_male_: 31.4%<br>
-_female_: 39.3% (2020 est.)<br>
+_total_: 35.5%<br>
+_male_: 31.1%<br>
+_female_: 40.9% (2021 est.)<br>
 
 ## Environment
 
@@ -254,7 +254,7 @@ _forest_: 30.5% (2018 est.)<br>
 _other_: 6.1% (2018 est.)<br>
 
 **Urbanization**<br>
-_urban population_: 80.4% of total population (2022)<br>
+_urban population_: 80.7% of total population (2023)<br>
 _rate of urbanization_: 0.11% annual rate of change (2020-25 est.)<br>
 
 **Revenue from forest resources**<br>
@@ -452,9 +452,9 @@ _services_: 72.4% (30 October 2015 est.)<br>
 19.34% (2018 est.)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 35%<br>
-_male_: 31.4%<br>
-_female_: 39.3% (2020 est.)<br>
+_total_: 35.5%<br>
+_male_: 31.1%<br>
+_female_: 40.9% (2021 est.)<br>
 
 **Population below poverty line**<br>
 17.9% (2018 est.)<br>
@@ -714,9 +714,9 @@ Islamic State of Iraq and ash-Sham (ISIS); Revolutionary Struggle; Revolutionary
 <p>Greece and Turkey continue discussions to resolve their complex maritime, air, territorial, and boundary disputes in the Aegean Sea; the mass migration of unemployed Albanians still remains a problem for developed countries, chiefly Greece and Italy</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 38,496 (Syria), 25,188 (Afghanistan), 12,657 (Iraq), 5,002 (West Bank and Gaza) (mid-year 2021); 19,997 (Ukraine) (as of 8 November 2022)<br>
+_refugees (country of origin)_: 38,496 (Syria), 25,188 (Afghanistan), 12,657 (Iraq), 5,002 (West Bank and Gaza) (mid-year 2021); 20,955 (Ukraine) (as of 6 December 2022)<br>
 _stateless persons_: 5,552 (mid-year 2021)<br>
-<strong>note:</strong> 1,228,737 estimated refugee and migrant arrivals (January 2015-November 2022); as of the end of February 2022, Greece hosted an estimated 161,419 refugees and asylum seekers<br>
+<strong>note:</strong> 1,229,347 estimated refugee and migrant arrivals (January 2015-December 2022); as of the end of February 2022, Greece hosted an estimated 161,419 refugees and asylum seekers<br>
 
 **Illicit drugs**<br>
 a gateway to Europe for traffickers smuggling cannabis products and heroin from the Middle East and Southwest Asia to the West and precursor chemicals to the East; some South American cocaine transits or is consumed in Greece; money laundering related to drug trafficking and organized crime<br>

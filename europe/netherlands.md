@@ -77,7 +77,7 @@ an area known as the Randstad, anchored by the cities of Amsterdam, Rotterdam, t
 <p>flooding</p><p><strong>volcanism:</strong> Mount Scenery (887 m), located on the island of Saba in the Caribbean, last erupted in 1640;; Round Hill (601 m), a dormant volcano also known as The Quill, is located on the island of St. Eustatius in the Caribbean;; these islands are at the northern end of the volcanic island arc of the Lesser Antilles that extends south to Grenada</p><br>
 
 **Geography - note**<br>
-located at mouths of three major European rivers (Rhine, Maas or Meuse, and Schelde); about a quarter of the country lies below sea level and only about half of the land exceeds one meter above sea level<br>
+located at mouths of three major European rivers (Rhine, Maas or Meuse, and Scheldt); about a quarter of the country lies below sea level and only about half of the land exceeds one meter above sea level<br>
 
 ## People and Society
 
@@ -132,7 +132,7 @@ _female_: 44 years (2020 est.)<br>
 an area known as the Randstad, anchored by the cities of Amsterdam, Rotterdam, the Hague, and Utrecht, is the most densely populated region; the north tends to be less dense, though sizeable communities can be found throughout the entire country<br>
 
 **Urbanization**<br>
-_urban population_: 92.9% of total population (2022)<br>
+_urban population_: 93.2% of total population (2023)<br>
 _rate of urbanization_: 0.59% annual rate of change (2020-25 est.)<br>
 
 **Major urban areas - population**<br>
@@ -217,7 +217,7 @@ _female_: 19.9% (2020 est.)<br>
 NA<br>
 
 **Education expenditures**<br>
-5.4% of GDP (2018 est.)<br>
+5.3% of GDP (2020 est.)<br>
 
 **Literacy**<br>
 _total population_: NA<br>
@@ -227,12 +227,12 @@ _female_: NA<br>
 **School life expectancy (primary to tertiary education)**<br>
 _total_: 19 years<br>
 _male_: 18 years<br>
-_female_: 19 years (2018)<br>
+_female_: 19 years (2020)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 9.1%<br>
-_male_: 9.2%<br>
-_female_: 9% (2020 est.)<br>
+_total_: 9.3%<br>
+_male_: 9.7%<br>
+_female_: 9% (2021 est.)<br>
 
 ## Environment
 
@@ -260,7 +260,7 @@ _forest_: 10.8% (2018 est.)<br>
 _other_: 34.1% (2018 est.)<br>
 
 **Urbanization**<br>
-_urban population_: 92.9% of total population (2022)<br>
+_urban population_: 93.2% of total population (2023)<br>
 _rate of urbanization_: 0.59% annual rate of change (2020-25 est.)<br>
 
 **Revenue from forest resources**<br>
@@ -463,9 +463,9 @@ _services_: 81.6% (2015 est.)<br>
 3.84% (2018 est.)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 9.1%<br>
-_male_: 9.2%<br>
-_female_: 9% (2020 est.)<br>
+_total_: 9.3%<br>
+_male_: 9.7%<br>
+_female_: 9% (2021 est.)<br>
 
 **Population below poverty line**<br>
 13.6% (2019 est.)<br>

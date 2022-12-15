@@ -140,7 +140,7 @@ _female_: 30.4 years (2020 est.)<br>
 most of the population is found in the middle of the country between the states of Jalisco and Veracruz; approximately a quarter of the population lives in and around Mexico City<br>
 
 **Urbanization**<br>
-_urban population_: 81.3% of total population (2022)<br>
+_urban population_: 81.6% of total population (2023)<br>
 _rate of urbanization_: 1.4% annual rate of change (2020-25 est.)<br>
 
 **Major urban areas - population**<br>
@@ -209,7 +209,7 @@ _unimproved: total_: total: 0.8% of population (2020 est.)<br>
 _degree of risk_: intermediate (2020)<br>
 _food or waterborne diseases_: bacterial diarrhea and hepatitis A<br>
 _vectorborne diseases_: dengue fever<br>
-<strong>note:</strong> a new coronavirus is causing sustained community spread of respiratory illness (COVID-19) in Mexico; sustained community spread means that people have been infected with the virus, but how or where they became infected is not known, and the spread is ongoing; illness with this virus has ranged from mild to severe with fatalities reported; as of 18 August 2022, Mexico has reported a total of 6,939,755 cases of COVID-19 or 5,382.46 cumulative cases of COVID-19 per 100,000 population with a total of 328,798 cumulative deaths or a rate of 255.01 cumulative deaths per 100,000 population; as of 5 August 2022, 74.23% of the population has received at least one dose of COVID-19 vaccine<br>
+<strong>note:</strong> a new coronavirus is causing sustained community spread of respiratory illness (COVID-19) in Mexico; sustained community spread means that people have been infected with the virus, but how or where they became infected is not known, and the spread is ongoing; illness with this virus has ranged from mild to severe with fatalities reported; as of 9 December 2022, Mexico has reported a total of 7,152,852 cases of COVID-19 or 5,547.74 cumulative cases of COVID-19 per 100,000 population with a total of 330,633 cumulative deaths or a rate of 256.43 cumulative deaths per 100,000 population; as of 2 December 2022, 77.7% of the population has received at least one dose of COVID-19 vaccine<br>
 
 **Obesity - adult prevalence rate**<br>
 28.9% (2016)<br>
@@ -245,12 +245,12 @@ _female_: 94.5% (2020)<br>
 **School life expectancy (primary to tertiary education)**<br>
 _total_: 15 years<br>
 _male_: 15 years<br>
-_female_: 15 years (2019)<br>
+_female_: 15 years (2020)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 8.1%<br>
-_male_: 7.8%<br>
-_female_: 8.7% (2020 est.)<br>
+_total_: 7.9%<br>
+_male_: 7.5%<br>
+_female_: 8.6% (2021 est.)<br>
 
 ## Environment
 
@@ -279,7 +279,7 @@ _forest_: 33.3% (2018 est.)<br>
 _other_: 11.8% (2018 est.)<br>
 
 **Urbanization**<br>
-_urban population_: 81.3% of total population (2022)<br>
+_urban population_: 81.6% of total population (2023)<br>
 _rate of urbanization_: 1.4% annual rate of change (2020-25 est.)<br>
 
 **Revenue from forest resources**<br>
@@ -292,7 +292,7 @@ _coal revenues_: 0.03% of GDP (2018 est.)<br>
 _degree of risk_: intermediate (2020)<br>
 _food or waterborne diseases_: bacterial diarrhea and hepatitis A<br>
 _vectorborne diseases_: dengue fever<br>
-<strong>note:</strong> a new coronavirus is causing sustained community spread of respiratory illness (COVID-19) in Mexico; sustained community spread means that people have been infected with the virus, but how or where they became infected is not known, and the spread is ongoing; illness with this virus has ranged from mild to severe with fatalities reported; as of 18 August 2022, Mexico has reported a total of 6,939,755 cases of COVID-19 or 5,382.46 cumulative cases of COVID-19 per 100,000 population with a total of 328,798 cumulative deaths or a rate of 255.01 cumulative deaths per 100,000 population; as of 5 August 2022, 74.23% of the population has received at least one dose of COVID-19 vaccine<br>
+<strong>note:</strong> a new coronavirus is causing sustained community spread of respiratory illness (COVID-19) in Mexico; sustained community spread means that people have been infected with the virus, but how or where they became infected is not known, and the spread is ongoing; illness with this virus has ranged from mild to severe with fatalities reported; as of 9 December 2022, Mexico has reported a total of 7,152,852 cases of COVID-19 or 5,547.74 cumulative cases of COVID-19 per 100,000 population with a total of 330,633 cumulative deaths or a rate of 256.43 cumulative deaths per 100,000 population; as of 2 December 2022, 77.7% of the population has received at least one dose of COVID-19 vaccine<br>
 
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 53.1 million tons (2015 est.)<br>
@@ -501,9 +501,9 @@ _services_: 61.9% (2011)<br>
 <strong>note:</strong> underemployment may be as high as 25%<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 8.1%<br>
-_male_: 7.8%<br>
-_female_: 8.7% (2020 est.)<br>
+_total_: 7.9%<br>
+_male_: 7.5%<br>
+_female_: 8.6% (2021 est.)<br>
 
 **Population below poverty line**<br>
 41.9% (2018 est.)<br>

@@ -129,7 +129,7 @@ _female_: 22.2 years (2020 est.)<br>
 the most populous Palestinian communities in the West Bank are located in the central ridge and western half of its territory; Jewish settlements are located throughout the West Bank, the most populous in the Seam Zone--between the 1949 Armistice Line and the separation barrier--and around Jerusalem<br>
 
 **Urbanization**<br>
-_urban population_: 77.3% of total population (2022)<br>
+_urban population_: 77.6% of total population (2023)<br>
 _rate of urbanization_: 2.85% annual rate of change (2020-25 est.)<br>
 <strong>note:</strong> data represent Gaza Strip and the West Bank<br>
 
@@ -219,13 +219,13 @@ _female_: 96.2% (2020)<br>
 **School life expectancy (primary to tertiary education)**<br>
 _total_: 13 years<br>
 _male_: 12 years<br>
-_female_: 14 years (2020)<br>
+_female_: 14 years (2021)<br>
 <strong>note:</strong> data represent Gaza Strip and the West Bank<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 42.1%<br>
-_male_: 36.6%<br>
-_female_: 70% (2020 est.)<br>
+_total_: 41.7%<br>
+_male_: 37.3%<br>
+_female_: 64.5% (2021 est.)<br>
 <strong>note:</strong> includes Gaza Strip<br>
 
 ## Environment
@@ -250,7 +250,7 @@ _other_: 55.2% (2018 est.)<br>
 <strong>note:</strong> includes Gaza Strip<br>
 
 **Urbanization**<br>
-_urban population_: 77.3% of total population (2022)<br>
+_urban population_: 77.6% of total population (2023)<br>
 _rate of urbanization_: 2.85% annual rate of change (2020-25 est.)<br>
 <strong>note:</strong> data represent Gaza Strip and the West Bank<br>
 
@@ -359,9 +359,9 @@ _services_: 54.1% (2013 est.)<br>
 <strong>note:</strong> excludes Gaza Strip<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 42.1%<br>
-_male_: 36.6%<br>
-_female_: 70% (2020 est.)<br>
+_total_: 41.7%<br>
+_male_: 37.3%<br>
+_female_: 64.5% (2021 est.)<br>
 <strong>note:</strong> includes Gaza Strip<br>
 
 **Population below poverty line**<br>

@@ -138,7 +138,7 @@ _female_: 29.5 years (2020 est.)<br>
 with the notable exception of the deserts in the northwest, including the Thar Desert, and the mountain fringe in the north, a very high population density exists throughout most of the country; the core of the population is in the north along the banks of the Ganges, with other river valleys and southern coastal areas also having large population concentrations<br>
 
 **Urbanization**<br>
-_urban population_: 35.9% of total population (2022)<br>
+_urban population_: 36.4% of total population (2023)<br>
 _rate of urbanization_: 2.33% annual rate of change (2020-25 est.)<br>
 
 **Major urban areas - population**<br>
@@ -210,7 +210,7 @@ _food or waterborne diseases_: bacterial diarrhea, hepatitis A and E, and typhoi
 _vectorborne diseases_: dengue fever, Crimean-Congo hemorrhagic fever, Japanese encephalitis, and malaria<br>
 _water contact diseases_: leptospirosis<br>
 _animal contact diseases_: rabies<br>
-<strong>note:</strong> clusters of cases of a respiratory illness caused by the novel coronavirus (COVID-19) are being reported across 27 States and Union Territories in India; as of 18 August 2022, India has reported a total of 44,298,864 cases of COVID-19 or 3,210.05 cumulative cases of COVID-19 per 100,000 population with a total of 527,206 cumulative deaths or a rate 38.20 cumulative deaths per 100,000 population; as of 17 August 2022, 72.69% of the population has received at least one dose of COVID-19 vaccine<br>
+<strong>note:</strong> clusters of cases of a respiratory illness caused by the novel coronavirus (COVID-19) are being reported across 27 States and Union Territories in India; as of 9 December 2022, India has reported a total of 44,674,439 cases of COVID-19 or 3,237.27 cumulative cases of COVID-19 per 100,000 population with a total of 530,653 cumulative deaths or a rate 38.45 cumulative deaths per 100,000 population; as of 8 December 2022, 72.48% of the population has received at least one dose of COVID-19 vaccine<br>
 
 **Obesity - adult prevalence rate**<br>
 3.9% (2016)<br>
@@ -236,7 +236,7 @@ _women married by age 18_: 27.3%<br>
 _men married by age 18_: 4.2% (2016 est.)<br>
 
 **Education expenditures**<br>
-3.5% of GDP (2016 est.)<br>
+4.5% of GDP (2020 est.)<br>
 
 **Literacy**<br>
 _definition_: age 15 and over can read and write<br>
@@ -280,7 +280,7 @@ _forest_: 23.1% (2018 est.)<br>
 _other_: 16.4% (2018 est.)<br>
 
 **Urbanization**<br>
-_urban population_: 35.9% of total population (2022)<br>
+_urban population_: 36.4% of total population (2023)<br>
 _rate of urbanization_: 2.33% annual rate of change (2020-25 est.)<br>
 
 **Revenue from forest resources**<br>
@@ -295,7 +295,7 @@ _food or waterborne diseases_: bacterial diarrhea, hepatitis A and E, and typhoi
 _vectorborne diseases_: dengue fever, Crimean-Congo hemorrhagic fever, Japanese encephalitis, and malaria<br>
 _water contact diseases_: leptospirosis<br>
 _animal contact diseases_: rabies<br>
-<strong>note:</strong> clusters of cases of a respiratory illness caused by the novel coronavirus (COVID-19) are being reported across 27 States and Union Territories in India; as of 18 August 2022, India has reported a total of 44,298,864 cases of COVID-19 or 3,210.05 cumulative cases of COVID-19 per 100,000 population with a total of 527,206 cumulative deaths or a rate 38.20 cumulative deaths per 100,000 population; as of 17 August 2022, 72.69% of the population has received at least one dose of COVID-19 vaccine<br>
+<strong>note:</strong> clusters of cases of a respiratory illness caused by the novel coronavirus (COVID-19) are being reported across 27 States and Union Territories in India; as of 9 December 2022, India has reported a total of 44,674,439 cases of COVID-19 or 3,237.27 cumulative cases of COVID-19 per 100,000 population with a total of 530,653 cumulative deaths or a rate 38.45 cumulative deaths per 100,000 population; as of 8 December 2022, 72.48% of the population has received at least one dose of COVID-19 vaccine<br>
 
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 168,403,240 tons (2001 est.)<br>
@@ -370,11 +370,11 @@ _residency requirement for naturalization_: 5 years<br>
 18 years of age; universal<br>
 
 **Executive branch**<br>
-_chief of state_: President Ram Nath KOVIND (since 25 July 2017); Vice President M. Venkaiah NAIDU (since 11 August 2017)&nbsp;<br>
-_head of government_: Prime Minister Narendra MODI (since 26 May 2014)&nbsp;<br>
+_chief of state_: President Droupadi MURMU (since 25 July 2022); Vice President Jagdeep DHANKHAR (since 11 August 2022)<br>
+_head of government_: Prime Minister Narendra MODI (since 26 May 2014)<br>
 _cabinet_: Union Council of Ministers recommended by the prime minister, appointed by the president<br>
-_elections/appointments_: president indirectly elected by an electoral college consisting of elected members of both houses of Parliament for a 5-year term (no term limits); election last held on 17 July 2017 (next to be held in July 2022); vice president indirectly elected by an electoral college consisting of elected members of both houses of Parliament for a 5-year term (no term limits); election last held on 5 August 2017 (next to be held in August 2022); following legislative elections, the prime minister is elected by Lok Sabha members of the majority party<br>
-_election results_: Ram Nath KOVIND elected president; percent of electoral college vote - Ram Nath KOVIND (BJP) 65.7% Meira KUMAR (INC) 34.3%; M. Venkaiah NAIDU elected vice president; electoral college vote - M. Venkaiah NAIDU (BJP) 516, Gopalkrishna GANDHI (independent) 244<br>
+_elections/appointments_: president indirectly elected by an electoral college consisting of elected members of both houses of Parliament for a 5-year term (no term limits); election last held on 18 July 2022 (next to be held in July 2027); vice president indirectly elected by an electoral college consisting of elected members of both houses of Parliament for a 5-year term (no term limits); election last held on 5 August 2022 (next to be held in August 2027); following legislative elections, the prime minister is elected by Lok Sabha members of the majority party<br>
+_election results_: 2022: Droupadi MURMU elected president; percent of electoral college vote - Droupadi MURMU (BJP) 64%, Yashwant SINHA (AITC) 35.9%; Jagdeep DHANKHAR elected vice president; percent of electoral college vote - Jagdeep DHANKHAR (BJP) 74.4%, Margaret ALVA (INC) 25.4%<br>
 
 **Legislative branch**<br>
 _description_: bicameral Parliament or Sansad consists of:<br>Council of States or Rajya Sabha (245 seats; 233 members indirectly elected by state and territorial assemblies by proportional representation vote and 12 members appointed by the president; members serve 6-year terms with one-third of the membership renewed every 2 years at various dates)<br>House of the People or Lok Sabha (545 seats; 543 members directly elected in single-seat constituencies by simple majority vote and 2 appointed by the president; members serve 5-year terms)<br>
@@ -433,9 +433,9 @@ _selected World Heritage Site locales_: Taj Mahal (c); Red Fort Complex (c); Ell
 <p>India's diverse economy encompasses traditional village farming, modern agriculture, handicrafts, a wide range of modern industries, and a multitude of services. Slightly less than half of the workforce is in agriculture, but services are the major source of economic growth, accounting for nearly two-thirds of India's output but employing less than one-third of its labor force. India has capitalized on its large educated English-speaking population to become a major exporter of information technology services, business outsourcing services, and software workers. Nevertheless, per capita income remains below the world average. India is developing into an open-market economy, yet traces of its past autarkic policies remain. Economic liberalization measures, including industrial deregulation, privatization of state-owned enterprises, and reduced controls on foreign trade and investment, began in the early 1990s and served to accelerate the country's growth, which averaged nearly 7% per year from 1997 to 2017.</p> <p> </p> <p>India's economic growth slowed in 2011 because of a decline in investment caused by high interest rates, rising inflation, and investor pessimism about the government's commitment to further economic reforms and about slow world growth. Investors’ perceptions of India improved in early 2014, due to a reduction of the current account deficit and expectations of post-election economic reform, resulting in a surge of inbound capital flows and stabilization of the rupee. Growth rebounded in 2014 through 2016. Despite a high growth rate compared to the rest of the world, India’s government-owned banks faced mounting bad debt, resulting in low credit growth. Rising macroeconomic imbalances in India and improving economic conditions in Western countries led investors to shift capital away from India, prompting a sharp depreciation of the rupee through 2016.</p> <p> </p> <p>The economy slowed again in 2017, due to shocks of "demonetizaton" in 2016 and introduction of GST in 2017. Since the election, the government has passed an important goods and services tax bill and raised foreign direct investment caps in some sectors, but most economic reforms have focused on administrative and governance changes, largely because the ruling party remains a minority in India’s upper house of Parliament, which must approve most bills.</p> <p> </p> <p>India has a young population and corresponding low dependency ratio, healthy savings and investment rates, and is increasing integration into the global economy. However, long-term challenges remain significant, including: India's discrimination against women and girls, an inefficient power generation and distribution system, ineffective enforcement of intellectual property rights, decades-long civil litigation dockets, inadequate transport and agricultural infrastructure, limited non-agricultural employment opportunities, high spending and poorly targeted subsidies, inadequate availability of quality basic and higher education, and accommodating rural-to-urban migration.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
-$8,443,360,000,000 (2020 est.)<br>
-$9,174,040,000,000 (2019 est.)<br>
-$8,817,670,000,000 (2018 est.)<br>
+$8.443 trillion (2020 est.)<br>
+$9.174 trillion (2019 est.)<br>
+$8.817 trillion (2018 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
@@ -450,7 +450,7 @@ $6,500 (2018 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$2,835,927,000,000 (2019 est.)<br>
+$2.836 trillion (2019 est.)<br>
 
 **Inflation rate (consumer prices)**<br>
 3.7% (2019 est.)<br>

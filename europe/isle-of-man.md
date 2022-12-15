@@ -122,7 +122,7 @@ _female_: 45.6 years (2020 est.)<br>
 most people concentrated in cities and large towns of which Douglas, in the southeast, is the largest<br>
 
 **Urbanization**<br>
-_urban population_: 53.3% of total population (2022)<br>
+_urban population_: 53.5% of total population (2023)<br>
 _rate of urbanization_: 0.97% annual rate of change (2020-25 est.)<br>
 
 **Major urban areas - population**<br>
@@ -211,7 +211,7 @@ _forest_: 6.1% (2018 est.)<br>
 _other_: 19.2% (2018 est.)<br>
 
 **Urbanization**<br>
-_urban population_: 53.3% of total population (2022)<br>
+_urban population_: 53.5% of total population (2023)<br>
 _rate of urbanization_: 0.97% annual rate of change (2020-25 est.)<br>
 
 **Revenue from forest resources**<br>

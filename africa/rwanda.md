@@ -223,7 +223,7 @@ _female_: 7.2% (2020 est.)<br>
 7.7% (2019/20)<br>
 
 **Education expenditures**<br>
-3.4% of GDP (2020 est.)<br>
+3.8% of GDP (2021 est.)<br>
 
 **Literacy**<br>
 _definition_: age 15 and over can read and write<br>
@@ -237,9 +237,9 @@ _male_: 11 years<br>
 _female_: 11 years (2019)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 20.5%<br>
-_male_: 18.8%<br>
-_female_: 22.4% (2019 est.)<br>
+_total_: 17.2%<br>
+_male_: 15.5%<br>
+_female_: 19% (2020 est.)<br>
 
 ## Environment
 
@@ -469,9 +469,9 @@ _services_: 18% (2012 est.)<br>
 2.7% (2014 est.)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 20.5%<br>
-_male_: 18.8%<br>
-_female_: 22.4% (2019 est.)<br>
+_total_: 17.2%<br>
+_male_: 15.5%<br>
+_female_: 19% (2020 est.)<br>
 
 **Population below poverty line**<br>
 38.2% (2016 est.)<br>
@@ -701,6 +701,6 @@ since 2021, Rwanda has deployed troops to the border with the Democratic Republi
 <p><em>Rwanda-Burundi: </em>Burundi's Ngozi province and Rwanda's Butare province dispute the two-kilometer-square hilly farmed area of Sabanerwa in the Rukurazi Valley where the Akanyaru/Kanyaru River shifted its course southward after heavy rains in 1965 around Kibinga Hill in Rwanda's Butare Province<br><em><br>Rwanda-Democratic Republic of Congo (DRC): </em>the 2005 DRC and Rwanda border verification mechanism to stem rebel actions on both sides of the border remains in place<em><br><br>Rwanda-Uganda:</em> a joint technical committee established in 2007 to demarcate sections of the border<br><br><br></p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 76,465 (Democratic Republic of the Congo), 48,369 (Burundi) (2022)<br>
+_refugees (country of origin)_: 76,465 (Democratic Republic of the Congo), 48,449 (Burundi) (2022)<br>
 _stateless persons_: 9,500 (mid-year 2021)<br>
 

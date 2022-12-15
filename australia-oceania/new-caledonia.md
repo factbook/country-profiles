@@ -5,7 +5,7 @@ _Australia-Oceania / Dependencies (France)_
 ## Introduction
 
 **Background**<br>
-The first humans settled in New Caledonia around 1600 B.C. The Lapita were skilled navigators and evidence of their pottery around the Pacific has served as a guide for understanding human expansion in the region. Successive waves of migrants from other islands in Melanesia intermarried with the Lapita, giving rise to the Kanak ethnic group considered indigenous to New Caledonia. British explorer James COOK was the first European to visit New Caledonia in 1774, giving it the Latin name for Scotland. Missionaries first landed in New Caledonia in 1840. In 1853, France annexed New Caledonia to preclude any British attempt to claim the island. France declared it a penal colony in 1864 and sent more than 20,000 prisoners to New Caledonia in the ensuing three decades.<br><br>Nickel was discovered in 1864 and French prisoners were directed to mine it. France brought in indentured servants and enslaved labor from elsewhere in Southeast Asia to work the mines, blocking Kanaks from accessing the most profitable part of the local economy. In 1878, High Chief ATAI led a rebellion against French rule. The Kanaks were relegated to reservations, leading to periodic smaller uprisings and culminating in a large revolt in 1917 that was brutally suppressed by colonial authorities. During World War II, New Caledonia became an important base for Allied troops, and the US moved its South Pacific headquarters to the island in 1942. Following the war, New Caledonia was made an overseas territory and French citizenship was granted to all inhabitants in 1953, thereby permitting the Kanaks to move off the reservations.<br><br>The Kanak nationalist movement began in the 1950s but most voters chose to remain a territory in an independence referendum in 1958. The European population of New Caledonia boomed in the 1970s with a renewed focus on nickel mining, reigniting Kanak nationalism. Key Kanak leaders were assassinated in the early 1980s, leading to escalating violence and dozens of fatalities. The Matignon Accords of 1988 provided for a 10-year transition period. The Noumea Accord of 1998 transferred an increasing amount of governing responsibility from France to New Caledonia over a 20-year period and provided for three independence referenda. In the first held in 2018, voters rejected independence by 57 to 43 percent; in the second held in 2020, voters rejected independence 53 to 47 percent. In the third referendum held in December 2021, voters rejected independence 96 to 4 percent; however, a boycott by key Kanak groups spurred challenges about the legitimacy of the vote. In February 2021, pro-independence parties gained a majority in the New Caledonian Government for the first time.<br>
+The first humans settled in New Caledonia around 1600 B.C. The Lapita were skilled navigators and evidence of their pottery around the Pacific has served as a guide for understanding human expansion in the region. Successive waves of migrants from other islands in Melanesia intermarried with the Lapita, giving rise to the Kanak ethnic group considered indigenous to New Caledonia. British explorer James COOK was the first European to visit New Caledonia in 1774, giving it the Latin name for Scotland. Missionaries first landed in New Caledonia in 1840. In 1853, France annexed New Caledonia to preclude any British attempt to claim the island. France declared it a penal colony in 1864 and sent more than 20,000 prisoners to New Caledonia in the ensuing three decades.<br><br>Nickel was discovered in 1864 and French prisoners were directed to mine it. France brought in indentured servants and enslaved labor from elsewhere in Southeast Asia to work the mines, blocking Kanaks from accessing the most profitable part of the local economy. In 1878, High Chief ATAI led a rebellion against French rule. The Kanaks were relegated to reservations, leading to periodic smaller uprisings and culminating in a large revolt in 1917 that was brutally suppressed by colonial authorities. During World War II, New Caledonia became an important base for Allied troops, and the US moved its South Pacific headquarters to the island in 1942. Following the war, New Caledonia was made an overseas territory and French citizenship was granted to all inhabitants in 1953, thereby permitting the Kanaks to move off the reservations.<br><br>The Kanak nationalist movement began in the 1950s, but most voters chose to remain a territory in an independence referendum in 1958. The European population of New Caledonia boomed in the 1970s with a renewed focus on nickel mining, reigniting Kanak nationalism. Key Kanak leaders were assassinated in the early 1980s, leading to escalating violence and dozens of fatalities. The Matignon Accords of 1988 provided for a 10-year transition period. The Noumea Accord of 1998 transferred increasing governing responsibility from France to New Caledonia over a 20-year period and provided for three independence referenda. In the first held in 2018, voters rejected independence by 57% to 43%; in the second held in 2020, voters rejected independence 53% to 47%. In the third referendum held in December 2021, voters rejected independence 96% to 4%; however, a boycott by key Kanak groups spurred challenges about the legitimacy of the vote. In February 2021, pro-independence parties gained a majority in the New Caledonian Government for the first time.<br>
 
 ## Geography
 
@@ -123,7 +123,7 @@ _female_: 33.7 years (2020 est.)<br>
 most of the populace lives in the southern part of the main island, in and around the capital of Noumea<br>
 
 **Urbanization**<br>
-_urban population_: 72.3% of total population (2022)<br>
+_urban population_: 72.7% of total population (2023)<br>
 _rate of urbanization_: 1.72% annual rate of change (2020-25 est.)<br>
 
 **Major urban areas - population**<br>
@@ -197,9 +197,9 @@ _male_: 97.3%<br>
 _female_: 96.5% (2015)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 38.4%<br>
-_male_: 37.1%<br>
-_female_: 40% (2014 est.)<br>
+_total_: 46.2%<br>
+_male_: 44.5%<br>
+_female_: 48.2% (2020 est.)<br>
 
 ## Environment
 
@@ -221,7 +221,7 @@ _forest_: 45.9% (2018 est.)<br>
 _other_: 43.7% (2018 est.)<br>
 
 **Urbanization**<br>
-_urban population_: 72.3% of total population (2022)<br>
+_urban population_: 72.7% of total population (2023)<br>
 _rate of urbanization_: 1.72% annual rate of change (2020-25 est.)<br>
 
 **Major infectious diseases**<br>
@@ -285,7 +285,7 @@ _election results_: <em>2021:</em> Louis MAPOU elected president by Territorial 
 **Legislative branch**<br>
 _description_: unicameral Territorial Congress or Congrès du Territoire (54 seats; members indirectly selected proportionally by the partisan makeup of the 3 Provincial Assemblies or Assemblés Provinciales; members of the 3 Provincial Assemblies directly elected by party-list proportional representation vote; members serve 5-year terms); note - the Customary Senate is the assembly of the various traditional councils of the Kanaks, the indigenous population, which rules on laws affecting the indigenous population<br>New Caledonia indirectly elects 2 members to the French Senate by an electoral colleges for a 6-year term with one seat renewed every 3 years and directly elects 2 members to the French National Assembly by absolute majority vote in 2 rounds if needed for a 5-year term<br>
 _elections_: <br>Territorial Congress - last held on 12 May 2019 (next to be held in May 2024)<br>French Senate - election last held in September 2019 (next to be held not later than 2021)<br>French National Assembly - election last held on 11 and 18 June 2017 (next to be held by June 2022)<br>
-_election results_: <p>Territorial Congress - percent of vote by party - N/A; seats by party - Future With Confidence 18, UNI 9, UC 9, CE 7, FLNKS 6, Oceanic Awakening 3, PT 1, LKS 1 (Anti-Independence 28, Pro-Independence 26); composition - NA<br>representation in French Senate - NA<br>representation in French National Assembly - NA</p> <br>French Senate - percent of vote by party - NA; seats by party - UMP 2<br><br>French National Assembly - percent of vote by party - NA; seats by party - CE 2<br>
+_election results_: <p>Territorial Congress - percent of vote by party - N/A; seats by party - Future With Confidence 18, UNI 9, UC 9, CE 7, FLNKS 6, Oceanic Awakening 3, PT 1, LKS 1 (Anti-Independence 28, Pro-Independence 26);<br>French Senate - percent of vote by party - NA; seats by party - UMP 2<br>French National Assembly - percent of vote by party - NA; seats by party - CE 2</p><br>
 
 **Judicial branch**<br>
 _highest court(s)_: Court of Appeal in Noumea or Cour d'Appel; organized into civil, commercial, social, and pre-trial investigation chambers; court bench normally includes the court president and 2 counselors); Administrative Court (number of judges NA); note - final appeals beyond the Court of Appeal are referred to the Court of Cassation or Cour de Cassation (in Paris); final appeals beyond the Administrative Court are referred to the Administrative Court of Appeal (in Paris)<br>
@@ -293,7 +293,7 @@ _judge selection and term of office_: judge appointment and tenure based on Fran
 _subordinate courts_: Courts of First Instance include: civil, juvenile, commercial, labor, police, criminal, assizes, and also a pre-trial investigation chamber; Joint Commerce Tribunal; administrative courts<br>
 
 **Political parties and leaders**<br>
-Build Our Rainbow Nation<br>Caledonia Together or CE [Philippe GERMAIN]<br>Caledonian Union or UC [Daniel GOA]<br>Future Together (l'Avenir Ensemble) [Harold MARTIN] (dissolved 2017)<br>Kanak Socialist Front for National Liberation or FLNKS (alliance includes PALIKA, UNI, UC, and UPM) [Victor TUTUGORO]<br>Labor Party (Parti Travailliste) or PT [Louis Kotra UREGEI]<br>National Union for Independence (Union Nationale pour l'Independance) or UNI [Louis MAPOU]<br>Party of Kanak Liberation (Parti de Liberation Kanak) or PALIKA [Paul NEAOUTYINE]<br>Socialist Kanak Liberation or LKS [Nidoish NAISSELINE]<br>The Republicans (formerly The Rally or UMP) [Christian JACOB]<br>Union for Caledonia in France<br>
+Caledonia Together or CE [Philippe GOMES]<br>Caledonian Union or UC [Daniel GOA]<br>Future With Confidence or AEC [Virginie RUFFENACH]<br>Kanak Socialist Front for National Liberation or FLNKS (alliance includes PALIKA, UNI, UC, and UPM) [Victor TUTUGORO]<br>Labor Party (Parti Travailliste) or PT [Louis Kotra UREGEI]<br>National Union for Independence (Union Nationale pour l'Independance) or UNI [Louis MAPOU]<br>Oceanian Awakening [Milakulo TUKUMULI]<br>Party of Kanak Liberation (Parti de Liberation Kanak) or PALIKA [Paul NEAOUTYINE]<br>Socialist Kanak Liberation or LKS [Basile CITRE]<br>The Republicans (formerly The Rally or UMP) [Christian JACOB]<br>
 
 **International organization participation**<br>
 ITUC (NGOs), PIF (associate member), SPC, UPU, WFTU (NGOs), WMO<br>
@@ -322,7 +322,7 @@ _selected World Heritage Site locales_: Lagoons of New Caledonia<br>
 ## Economy
 
 **Economic overview**<br>
-<p>New Caledonia has 11% of the world's nickel reserves, representing the second largest reserves on the planet. Only a small amount of the land is suitable for cultivation, and food accounts for about 20% of imports. In addition to nickel, substantial financial support from France - equal to more than 15% of GDP - and tourism are keys to the health of the economy.</p> <p> </p> <p>With the gradual increase in the production of two new nickel plants in 2015, average production of metallurgical goods stood at a record level of 94 thousand tons. However, the sector is exposed to the high volatility of nickel prices, which have been in decline since 2016. In 2017, one of the three major mining firms on the island, Vale, put its operations up for sale, triggering concerns of layoffs ahead of the 2018 independence referendum.</p><br>
+<p>New Caledonia has 11% of the world's nickel reserves, representing the second largest reserves on the planet. Only a small amount of the land is suitable for cultivation, and food accounts for about 20% of imports. In addition to nickel, substantial financial support from France - equal to more than 15% of GDP - and tourism are keys to the health of the economy.</p> <p>With the gradual increase in the production of two new nickel plants in 2015, average production of metallurgical goods stood at a record level of 94 thousand tons. However, the sector is exposed to the high volatility of nickel prices, which have been in decline since 2016. In 2017, one of the three major mining firms on the island, Vale, put its operations up for sale, triggering concerns of layoffs ahead of the 2018 independence referendum.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
 $11.11 billion (2017 est.)<br>
@@ -382,9 +382,9 @@ _services_: 74.9% (2010)<br>
 14% (2009)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 38.4%<br>
-_male_: 37.1%<br>
-_female_: 40% (2014 est.)<br>
+_total_: 46.2%<br>
+_male_: 44.5%<br>
+_female_: 48.2% (2020 est.)<br>
 
 **Population below poverty line**<br>
 17% (2008)<br>

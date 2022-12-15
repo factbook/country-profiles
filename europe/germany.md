@@ -68,13 +68,13 @@ _fresh water lake(s)_: Lake Constance (shared with Switzerland and Austria) - 54
 _salt water lake(s)_: Stettiner Haff/Zalew Szczecinski (shared with Poland) - 900 sq km<br>
 
 **Major rivers (by length in km)**<br>
-Danube river source (shared with Austria, Slovakia, Czechia, Hungary, Croatia, Serbia, Bulgaria, Ukraine, Moldova, and Romania [m]) - 2,888 km; Elbe river mouth (shared with Czechia [s]) - 1,252 km; Rhine  (shared with Switzerland [s], France, and Netherlands [m]) - 1,233 km<br><strong>note</strong> – [s] after country name indicates river source; [m] after country name indicates river mouth<br>
+Danube river source (shared with Austria, Slovakia, Czechia, Hungary, Croatia, Serbia, Bulgaria, Ukraine, Moldova, and Romania [m]) - 2,888 km; Elbe river mouth (shared with Czechia [s]) - 1,252 km; Rhine (shared with Switzerland [s], France, and Netherlands [m]) - 1,233 km<br><strong>note</strong> – [s] after country name indicates river source; [m] after country name indicates river mouth<br>
 
 **Major watersheds (area sq km)**<br>
 Atlantic Ocean drainage: Rhine-Maas (198,735 sq km), <em>(Black Sea)</em> Danube (795,656 sq km)<br>
 
 **Population distribution**<br>
-most populous country in Europe; a fairly even distribution throughout most of the country, with urban areas attracting larger and denser populations, particularly in the far western part of the industrial state of North Rhine-Westphalia<br>
+second most populous country in Europe; a fairly even distribution throughout most of the country, with urban areas attracting larger and denser populations, particularly in the far western part of the industrial state of North Rhine-Westphalia<br>
 
 **Natural hazards**<br>
 flooding<br>
@@ -133,10 +133,10 @@ _female_: 49.1 years (2020 est.)<br>
 1.78 migrant(s)/1,000 population (2022 est.)<br>
 
 **Population distribution**<br>
-most populous country in Europe; a fairly even distribution throughout most of the country, with urban areas attracting larger and denser populations, particularly in the far western part of the industrial state of North Rhine-Westphalia<br>
+second most populous country in Europe; a fairly even distribution throughout most of the country, with urban areas attracting larger and denser populations, particularly in the far western part of the industrial state of North Rhine-Westphalia<br>
 
 **Urbanization**<br>
-_urban population_: 77.6% of total population (2022)<br>
+_urban population_: 77.8% of total population (2023)<br>
 _rate of urbanization_: 0.13% annual rate of change (2020-25 est.)<br>
 
 **Major urban areas - population**<br>
@@ -221,7 +221,7 @@ _female_: 19.9% (2020 est.)<br>
 0.5% (2014/17)<br>
 
 **Education expenditures**<br>
-5% of GDP (2018 est.)<br>
+4.7% of GDP (2020 est.)<br>
 
 **Literacy**<br>
 _total population_: NA<br>
@@ -231,12 +231,12 @@ _female_: NA<br>
 **School life expectancy (primary to tertiary education)**<br>
 _total_: 17 years<br>
 _male_: 17 years<br>
-_female_: 17 years (2019)<br>
+_female_: 17 years (2020)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 7.2%<br>
-_male_: 7.9%<br>
-_female_: 6.4% (2020 est.)<br>
+_total_: 6.9%<br>
+_male_: 7.3%<br>
+_female_: 6.4% (2021 est.)<br>
 
 ## Environment
 
@@ -264,7 +264,7 @@ _forest_: 31.8% (2018 est.)<br>
 _other_: 20.2% (2018 est.)<br>
 
 **Urbanization**<br>
-_urban population_: 77.6% of total population (2022)<br>
+_urban population_: 77.8% of total population (2023)<br>
 _rate of urbanization_: 0.13% annual rate of change (2020-25 est.)<br>
 
 **Revenue from forest resources**<br>
@@ -283,7 +283,7 @@ _fresh water lake(s)_: Lake Constance (shared with Switzerland and Austria) - 54
 _salt water lake(s)_: Stettiner Haff/Zalew Szczecinski (shared with Poland) - 900 sq km<br>
 
 **Major rivers (by length in km)**<br>
-Danube river source (shared with Austria, Slovakia, Czechia, Hungary, Croatia, Serbia, Bulgaria, Ukraine, Moldova, and Romania [m]) - 2,888 km; Elbe river mouth (shared with Czechia [s]) - 1,252 km; Rhine  (shared with Switzerland [s], France, and Netherlands [m]) - 1,233 km<br><strong>note</strong> – [s] after country name indicates river source; [m] after country name indicates river mouth<br>
+Danube river source (shared with Austria, Slovakia, Czechia, Hungary, Croatia, Serbia, Bulgaria, Ukraine, Moldova, and Romania [m]) - 2,888 km; Elbe river mouth (shared with Czechia [s]) - 1,252 km; Rhine (shared with Switzerland [s], France, and Netherlands [m]) - 1,233 km<br><strong>note</strong> – [s] after country name indicates river source; [m] after country name indicates river mouth<br>
 
 **Major watersheds (area sq km)**<br>
 Atlantic Ocean drainage: Rhine-Maas (198,735 sq km), <em>(Black Sea)</em> Danube (795,656 sq km)<br>
@@ -471,9 +471,9 @@ _services_: 74.3% (2016)<br>
 5.19% (2018 est.)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 7.2%<br>
-_male_: 7.9%<br>
-_female_: 6.4% (2020 est.)<br>
+_total_: 6.9%<br>
+_male_: 7.3%<br>
+_female_: 6.4% (2021 est.)<br>
 
 **Population below poverty line**<br>
 14.8% (2018 est.)<br>
@@ -697,7 +697,7 @@ _LNG terminal(s) (import)_: Hamburg<br>
 _river port(s)_: Bremen (Weser); Bremerhaven (Geeste); Duisburg, Karlsruhe, Neuss-Dusseldorf (Rhine); Lubeck (Wakenitz); Brunsbuttel, Hamburg (Elbe)<br>
 
 **Transportation - note**<br>
-Germany operates one PC 5 or 6 class icebreaker based in the North Atlantic<br><strong>note </strong>- PC 5 - Year-round operation in medium first-year ice which may include old ice inclusions (ice thickness up to 70-120 cm); PC 6 - Summer/autumn operation in medium first-year ice which may include old ice inclusions (ice thickness up to 30-70 cm)<br>
+Germany operates one PC 5 or 6 class icebreaker based in the North Atlantic<br>note - PC indicates a Polar Class vessel: PC 5 - year-round operation in medium first-year ice which may include old ice inclusions (ice thickness up to 70-120 cm); PC 6 - summer/autumn operation in medium first-year ice which may include old ice inclusions (ice thickness up to 30-70 cm)<br>
 
 ## Military and Security
 

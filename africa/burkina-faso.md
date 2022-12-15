@@ -131,7 +131,7 @@ _female_: 18.7 years (2020 est.)<br>
  <p>Most of the population is located in the center and south. Nearly one-third of the population lives in cities. The capital and largest city is Ouagadougou (Ouaga), with a population of 1.8 million as shown in this population distribution map</p>  (2019)<br>
 
 **Urbanization**<br>
-_urban population_: 31.9% of total population (2022)<br>
+_urban population_: 32.5% of total population (2023)<br>
 _rate of urbanization_: 4.75% annual rate of change (2020-25 est.)<br>
 
 **Major urban areas - population**<br>
@@ -225,7 +225,7 @@ _female_: 6.4% (2020 est.)<br>
 16.4% (2019)<br>
 
 **Education expenditures**<br>
-5.8% of GDP (2019 est.)<br>
+5.5% of GDP (2020 est.)<br>
 
 **Literacy**<br>
 _definition_: age 15 and over can read and write<br>
@@ -241,7 +241,7 @@ _female_: 9 years (2020)<br>
 **Youth unemployment rate (ages 15-24)**<br>
 _total_: 8.6%<br>
 _male_: 8.9%<br>
-_female_: 8.4% (2019)<br>
+_female_: 8.4% (2018)<br>
 
 ## Environment
 
@@ -269,7 +269,7 @@ _forest_: 19.3% (2018 est.)<br>
 _other_: 36.5% (2018 est.)<br>
 
 **Urbanization**<br>
-_urban population_: 31.9% of total population (2022)<br>
+_urban population_: 32.5% of total population (2023)<br>
 _rate of urbanization_: 4.75% annual rate of change (2020-25 est.)<br>
 
 **Revenue from forest resources**<br>
@@ -480,7 +480,7 @@ _industry and services_: 10% (2000 est.)<br>
 **Youth unemployment rate (ages 15-24)**<br>
 _total_: 8.6%<br>
 _male_: 8.9%<br>
-_female_: 8.4% (2019)<br>
+_female_: 8.4% (2018)<br>
 
 **Population below poverty line**<br>
 41.4% (2018 est.)<br>

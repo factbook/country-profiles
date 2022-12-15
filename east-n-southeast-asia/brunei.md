@@ -122,7 +122,7 @@ _female_: 31.8 years (2020 est.)<br>
 2.18 migrant(s)/1,000 population (2022 est.)<br>
 
 **Urbanization**<br>
-_urban population_: 78.9% of total population (2022)<br>
+_urban population_: 79.1% of total population (2023)<br>
 _rate of urbanization_: 1.44% annual rate of change (2020-25 est.)<br>
 
 **Major urban areas - population**<br>
@@ -218,9 +218,9 @@ _male_: 14 years<br>
 _female_: 14 years (2020)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 21.4%<br>
-_male_: 19%<br>
-_female_: 25.8% (2019 est.)<br>
+_total_: 26.4%<br>
+_male_: 22.7%<br>
+_female_: 32.4% (2020 est.)<br>
 
 ## Environment
 
@@ -248,7 +248,7 @@ _forest_: 71.8% (2018 est.)<br>
 _other_: 25.7% (2018 est.)<br>
 
 **Urbanization**<br>
-_urban population_: 78.9% of total population (2022)<br>
+_urban population_: 79.1% of total population (2023)<br>
 _rate of urbanization_: 1.44% annual rate of change (2020-25 est.)<br>
 
 **Revenue from forest resources**<br>
@@ -427,9 +427,9 @@ _services_: 33% (2008 est.)<br>
 6.9% (2016 est.)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 21.4%<br>
-_male_: 19%<br>
-_female_: 25.8% (2019 est.)<br>
+_total_: 26.4%<br>
+_male_: 22.7%<br>
+_female_: 32.4% (2020 est.)<br>
 
 **Population below poverty line**<br>
 NA<br>

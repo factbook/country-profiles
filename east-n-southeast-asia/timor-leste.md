@@ -219,7 +219,7 @@ _women married by age 18_: 14.9%<br>
 _men married by age 18_: 1.2% (2016 est.)<br>
 
 **Education expenditures**<br>
-6.8% of GDP (2018 est.)<br>
+4.2% of GDP (2020 est.)<br>
 
 **Literacy**<br>
 _definition_: age 15 and over can read and write<br>

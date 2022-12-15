@@ -128,7 +128,7 @@ _female_: 43.8 years (2020 est.)<br>
 large population clusters found throughout the country, the more significant ones being in the larger towns and cities, particularly the capital of Havana<br>
 
 **Urbanization**<br>
-_urban population_: 77.4% of total population (2022)<br>
+_urban population_: 77.5% of total population (2023)<br>
 _rate of urbanization_: 0.19% annual rate of change (2020-25 est.)<br>
 
 **Major urban areas - population**<br>
@@ -229,8 +229,8 @@ _female_: 99.8% (2015)<br>
 
 **School life expectancy (primary to tertiary education)**<br>
 _total_: 14 years<br>
-_male_: 14 years<br>
-_female_: 15 years (2020)<br>
+_male_: 13 years<br>
+_female_: 15 years (2021)<br>
 
 **People - note**<br>
 illicit emigration is a continuing problem; Cubans attempt to depart the island and enter the US using homemade rafts, alien smugglers, direct flights, or falsified visas; Cubans also use non-maritime routes to enter the US including direct flights to Miami and overland via the southwest border; the number of Cubans migrating to the US surged after the announcement of normalization of US-Cuban relations in late December 2014 but has decreased since the end of the so-called "wet-foot, dry-foot" policy on 12 January 2017<br>
@@ -261,7 +261,7 @@ _forest_: 27.3% (2018 est.)<br>
 _other_: 12.4% (2018 est.)<br>
 
 **Urbanization**<br>
-_urban population_: 77.4% of total population (2022)<br>
+_urban population_: 77.5% of total population (2023)<br>
 _rate of urbanization_: 0.19% annual rate of change (2020-25 est.)<br>
 
 **Revenue from forest resources**<br>

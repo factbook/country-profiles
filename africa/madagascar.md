@@ -128,7 +128,7 @@ _female_: 20.5 years (2020 est.)<br>
 most of population lives on the eastern half of the island; significant clustering is found in the central highlands and eastern coastline as shown in this population distribution map<br>
 
 **Urbanization**<br>
-_urban population_: 39.9% of total population (2022)<br>
+_urban population_: 40.6% of total population (2023)<br>
 _rate of urbanization_: 4.26% annual rate of change (2020-25 est.)<br>
 
 **Major urban areas - population**<br>
@@ -226,7 +226,7 @@ _women married by age 18_: 40.3%<br>
 _men married by age 18_: 11.8% (2018 est.)<br>
 
 **Education expenditures**<br>
-2.9% of GDP (2019 est.)<br>
+3.1% of GDP (2020 est.)<br>
 
 **Literacy**<br>
 _definition_: age 15 and over can read and write<br>
@@ -270,7 +270,7 @@ _forest_: 21.5% (2018 est.)<br>
 _other_: 7.4% (2018 est.)<br>
 
 **Urbanization**<br>
-_urban population_: 39.9% of total population (2022)<br>
+_urban population_: 40.6% of total population (2023)<br>
 _rate of urbanization_: 4.26% annual rate of change (2020-25 est.)<br>
 
 **Revenue from forest resources**<br>

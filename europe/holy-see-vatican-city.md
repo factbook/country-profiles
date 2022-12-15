@@ -101,7 +101,7 @@ NA<br>
 NA<br>
 
 **Urbanization**<br>
-_urban population_: 100% of total population (2022)<br>
+_urban population_: 100% of total population (2023)<br>
 _rate of urbanization_: 0% annual rate of change (2020-25 est.)<br>
 
 **Major urban areas - population**<br>
@@ -159,7 +159,7 @@ _agricultural land_: 0% (2018 est.)<br>
 _other_: 100% (2018 est.)<br>
 
 **Urbanization**<br>
-_urban population_: 100% of total population (2022)<br>
+_urban population_: 100% of total population (2023)<br>
 _rate of urbanization_: 0% annual rate of change (2020-25 est.)<br>
 
 **Total renewable water resources**<br>

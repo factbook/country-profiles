@@ -138,7 +138,7 @@ _female_: 20.1 years (2020 est.)<br>
 population heavily concentrated in the west along the shore of Lake Victoria; other areas of high density include the capital of Nairobi, and in the southeast along the Indian Ocean coast as shown in this population distribution map<br>
 
 **Urbanization**<br>
-_urban population_: 29% of total population (2022)<br>
+_urban population_: 29.5% of total population (2023)<br>
 _rate of urbanization_: 4.09% annual rate of change (2020-25 est.)<br>
 
 **Major urban areas - population**<br>
@@ -227,7 +227,7 @@ _female_: 2.7% (2020 est.)<br>
 11.2% (2014)<br>
 
 **Education expenditures**<br>
-5.1% of GDP (2020 est.)<br>
+4.8% of GDP (2021 est.)<br>
 
 **Literacy**<br>
 _definition_: age 15 and over can read and write<br>
@@ -266,7 +266,7 @@ _forest_: 6.1% (2018 est.)<br>
 _other_: 45.8% (2018 est.)<br>
 
 **Urbanization**<br>
-_urban population_: 29% of total population (2022)<br>
+_urban population_: 29.5% of total population (2023)<br>
 _rate of urbanization_: 4.09% annual rate of change (2020-25 est.)<br>
 
 **Revenue from forest resources**<br>

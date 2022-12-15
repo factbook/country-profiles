@@ -136,7 +136,7 @@ _female_: 25.7 years (2020 est.)<br>
 well over 90% of the population lives along the Mediterranean coast in and between Tripoli to the west and Al Bayda to the east; the interior remains vastly underpopulated due to the Sahara and lack of surface water as shown in this population distribution map<br>
 
 **Urbanization**<br>
-_urban population_: 81.3% of total population (2022)<br>
+_urban population_: 81.6% of total population (2023)<br>
 _rate of urbanization_: 1.45% annual rate of change (2020-25 est.)<br>
 
 **Major urban areas - population**<br>
@@ -251,7 +251,7 @@ _forest_: 0.1% (2018 est.)<br>
 _other_: 91.1% (2018 est.)<br>
 
 **Urbanization**<br>
-_urban population_: 81.3% of total population (2022)<br>
+_urban population_: 81.6% of total population (2023)<br>
 _rate of urbanization_: 1.45% annual rate of change (2020-25 est.)<br>
 
 **Revenue from forest resources**<br>

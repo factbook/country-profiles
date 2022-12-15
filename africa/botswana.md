@@ -134,7 +134,7 @@ _female_: 26.7 years (2020 est.)<br>
 the population is primarily concentrated in the east with a focus in and around the captial of Gaborone, and the far central-eastern city of Francistown; population density remains low in other areas in the country, especially in the Kalahari to the west as shown in this population distribution map<br>
 
 **Urbanization**<br>
-_urban population_: 72.2% of total population (2022)<br>
+_urban population_: 72.9% of total population (2023)<br>
 _rate of urbanization_: 2.47% annual rate of change (2020-25 est.)<br>
 
 **Major urban areas - population**<br>
@@ -220,7 +220,7 @@ _female_: 8.3% (2020 est.)<br>
 NA<br>
 
 **Education expenditures**<br>
-6.9% of GDP (2019 est.)<br>
+8.7% of GDP (2020 est.)<br>
 
 **Literacy**<br>
 _definition_: age 15 and over can read and write<br>
@@ -229,14 +229,14 @@ _male_: 88%<br>
 _female_: 88.9% (2015)<br>
 
 **School life expectancy (primary to tertiary education)**<br>
-_total_: 13 years<br>
-_male_: 13 years<br>
-_female_: 13 years (2013)<br>
+_total_: 12 years<br>
+_male_: 12 years<br>
+_female_: 12 years (2021)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 46.2%<br>
-_male_: 44.9%<br>
-_female_: 47.8% (2020 est.)<br>
+_total_: 42%<br>
+_male_: 39.2%<br>
+_female_: 45.6% (2020 est.)<br>
 
 ## Environment
 
@@ -264,7 +264,7 @@ _forest_: 19.8% (2018 est.)<br>
 _other_: 34.4% (2018 est.)<br>
 
 **Urbanization**<br>
-_urban population_: 72.2% of total population (2022)<br>
+_urban population_: 72.9% of total population (2023)<br>
 _rate of urbanization_: 2.47% annual rate of change (2020-25 est.)<br>
 
 **Revenue from forest resources**<br>
@@ -471,9 +471,9 @@ _services_: NA<br>
 17.8% (2009 est.)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 46.2%<br>
-_male_: 44.9%<br>
-_female_: 47.8% (2020 est.)<br>
+_total_: 42%<br>
+_male_: 39.2%<br>
+_female_: 45.6% (2020 est.)<br>
 
 **Population below poverty line**<br>
 19.3% (2009 est.)<br>

@@ -131,7 +131,7 @@ _female_: 28.2 years (2020 est.)<br>
 the overwhelming majority of the population resides in the western half of the country, with much of the urban growth centered in the capital city of Managua; coastal areas also show large population clusters<br>
 
 **Urbanization**<br>
-_urban population_: 59.6% of total population (2022)<br>
+_urban population_: 59.8% of total population (2023)<br>
 _rate of urbanization_: 1.45% annual rate of change (2020-25 est.)<br>
 
 **Major urban areas - population**<br>
@@ -216,7 +216,7 @@ _other alcohols_: 0 liters of pure alcohol (2019 est.)<br>
 4.6% (2011/12)<br>
 
 **Education expenditures**<br>
-3.4% of GDP (2019 est.)<br>
+4.6% of GDP (2020 est.)<br>
 
 **Literacy**<br>
 _definition_: age 15 and over can read and write<br>
@@ -255,7 +255,7 @@ _forest_: 25.3% (2018 est.)<br>
 _other_: 32.5% (2018 est.)<br>
 
 **Urbanization**<br>
-_urban population_: 59.6% of total population (2022)<br>
+_urban population_: 59.8% of total population (2023)<br>
 _rate of urbanization_: 1.45% annual rate of change (2020-25 est.)<br>
 
 **Revenue from forest resources**<br>

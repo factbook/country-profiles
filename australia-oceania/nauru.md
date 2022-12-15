@@ -123,7 +123,7 @@ _female_: 25.9 years (2020 est.)<br>
 extensive phosphate mining made approximately 90% of the island unsuitable for farming; most people live in the fertile coastal areas, especially along the southwest coast<br>
 
 **Urbanization**<br>
-_urban population_: 100% of total population (2022)<br>
+_urban population_: 100% of total population (2023)<br>
 _rate of urbanization_: 0.18% annual rate of change (2020-25 est.)<br>
 
 **Sex ratio**<br>
@@ -200,7 +200,7 @@ _female_: 49.1% (2020 est.)<br>
 NA<br>
 
 **Education expenditures**<br>
-NA<br>
+7.1% of GDP (2021) NA<br>
 
 **Literacy**<br>
 _total population_: NA<br>
@@ -238,7 +238,7 @@ _forest_: 0% (2018 est.)<br>
 _other_: 80% (2018 est.)<br>
 
 **Urbanization**<br>
-_urban population_: 100% of total population (2022)<br>
+_urban population_: 100% of total population (2023)<br>
 _rate of urbanization_: 0.18% annual rate of change (2020-25 est.)<br>
 
 **Revenue from forest resources**<br>

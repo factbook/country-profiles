@@ -127,7 +127,7 @@ _female_: 30.3 years (2020 est.)<br>
 smallest population of the Gulf States, but urbanization rate exceeds 90%; largest settlement concentration is found on the far northern end of the island in and around Manamah and Al Muharraq<br>
 
 **Urbanization**<br>
-_urban population_: 89.7% of total population (2022)<br>
+_urban population_: 89.9% of total population (2023)<br>
 _rate of urbanization_: 1.99% annual rate of change (2020-25 est.)<br>
 
 **Major urban areas - population**<br>
@@ -208,7 +208,7 @@ _female_: 4.5% (2020 est.)<br>
 NA<br>
 
 **Education expenditures**<br>
-2.3% of GDP (2017 est.)<br>
+2.2% of GDP (2020 est.)<br>
 
 **Literacy**<br>
 _definition_: age 15 and over can read and write<br>
@@ -252,7 +252,7 @@ _forest_: 0.7% (2018 est.)<br>
 _other_: 88% (2018 est.)<br>
 
 **Urbanization**<br>
-_urban population_: 89.7% of total population (2022)<br>
+_urban population_: 89.9% of total population (2023)<br>
 _rate of urbanization_: 1.99% annual rate of change (2020-25 est.)<br>
 
 **Revenue from forest resources**<br>
@@ -333,8 +333,8 @@ _elections/appointments_: the monarchy is hereditary; prime minister appointed b
 
 **Legislative branch**<br>
 _description_: bicameral National Assembly consists of:<br>Consultative Council or Majlis al-Shura (40 seats; members appointed by the king)<br>Council of Representatives or Majlis al-Nuwab (40 seats; members directly elected in single-seat constituencies by absolute majority vote in 2 rounds if needed; members serve 4-year renewable terms)<br>
-_elections_: <br>Consultative Council - last appointments on 12 December 2018 (next NA)<br>Council of Representatives - first round for 9 members held on 24 November 2018; second round for remaining 31 members held on 1 December 2018 (next to be held on 12 November 2022)<br>
-_election results_: <br>Consultative Council - composition - men 31, women 9, percent of women 22.5%<br><br>Council of Representatives (for 2018 election)  - percent of vote by society - NA; seats by society - Islamic Al-Asalah (Sunni Salafi) 3, Minbar al-Taqadumi (Communist) 2, National Unity Gathering (Sunni progovernment) 1, National Islamic Minbar (Sunni Muslim Brotherhood) 1, independent 33; composition - men 34, women 6, percent of women 15%; note - total National Assembly percent of women 19%<br>
+_elections_: <br>Consultative Council - last appointments on 30 November 2022 (next appointments in 2026)<br>Council of Representatives - first round for 6 members held on 12 November 2022; second round for remaining 34 members held on 19 November 2022 (next to be held in November 2026)<br>
+_election results_: <br>2022: Consultative Council - all members appointed; composition - men 30, women 10, percent of women 25%<br>2018: Consultative Council - all members appointed; composition - men 31, women 9, percent of women 22.5%<br><br>2022: Council of Representatives - percent of vote by society - NA; seats by society - NA; composition - men 34, women 6, percent of women 15%; note - total National Assembly percent of women 20%<br>2018: Council of Representatives - percent of vote by society - NA; seats by society - Islamic Al-Asalah (Sunni Salafi) 3, Minbar al-Taqadumi (Communist) 2, National Unity Gathering (Sunni progovernment) 1, National Islamic Minbar (Sunni Muslim Brotherhood) 1, independent 33; composition - men 34, women 6, percent of women 15%; note - total National Assembly percent of women 19%<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Court of Cassation (consists of the chairman and 3 judges); Supreme Court of Appeal (consists of the chairman and 3 judges); Constitutional Court (consists of the president and 6 members); High Sharia Court of Appeal (court sittings include the president and at least one judge)<br>

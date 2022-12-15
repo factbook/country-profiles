@@ -138,7 +138,7 @@ _female_: 32.2 years (2020 est.)<br>
 the majority of people live in the north and west where agricultural opportunities and natural resources are found; the vast grasslands of the llanos to the south and east, which make up approximately 60% of the country, are sparsely populated<br>
 
 **Urbanization**<br>
-_urban population_: 82% of total population (2022)<br>
+_urban population_: 82.4% of total population (2023)<br>
 _rate of urbanization_: 1.01% annual rate of change (2020-25 est.)<br>
 
 **Major urban areas - population**<br>
@@ -208,7 +208,7 @@ _unimproved: total_: total: 3% of population (2020 est.)<br>
 _degree of risk_: high (2020)<br>
 _food or waterborne diseases_: bacterial diarrhea<br>
 _vectorborne diseases_: dengue fever, malaria, and yellow fever<br>
-<strong>note:</strong> widespread ongoing transmission of a respiratory illness caused by the novel coronavirus (COVID-19) is occurring throughout Colombia; as of 18 August 2022, Columbia has reported a total of 6,286,392 cases of COVID-19 or 12,354.62 cumulative cases of COVID-19 per 100,000 population with a total of 141,287 cumulative deaths or a rate 277.67 cumulative deaths per 100,000 population; as of 29 July 2022, 82.64% of the population has received at least one dose of COVID-19 vaccine<br>
+<strong>note:</strong> widespread ongoing transmission of a respiratory illness caused by the novel coronavirus (COVID-19) is occurring throughout Colombia; as of 9 December 2022, Columbia has reported a total of 6,323,357 cases of COVID-19 or 12,427.27 cumulative cases of COVID-19 per 100,000 population with a total of 141,943 cumulative deaths or a rate 278.96 cumulative deaths per 100,000 population; as of 25 November 2022, 82.68% of the population has received at least one dose of COVID-19 vaccine<br>
 
 **Obesity - adult prevalence rate**<br>
 22.3% (2016)<br>
@@ -229,7 +229,7 @@ _female_: 4.6% (2020 est.)<br>
 3.7% (2015/16)<br>
 
 **Education expenditures**<br>
-4.5% of GDP (2019 est.)<br>
+4.9% of GDP (2020 est.)<br>
 
 **Literacy**<br>
 _definition_: age 15 and over can read and write<br>
@@ -240,12 +240,12 @@ _female_: 95.9% (2020)<br>
 **School life expectancy (primary to tertiary education)**<br>
 _total_: 14 years<br>
 _male_: 14 years<br>
-_female_: 15 years (2019)<br>
+_female_: 15 years (2020)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 25.8%<br>
-_male_: 20.7%<br>
-_female_: 33% (2020 est.)<br>
+_total_: 24.6%<br>
+_male_: 19.4%<br>
+_female_: 31.7% (2021 est.)<br>
 
 ## Environment
 
@@ -273,7 +273,7 @@ _forest_: 54.4% (2018 est.)<br>
 _other_: 8.1% (2018 est.)<br>
 
 **Urbanization**<br>
-_urban population_: 82% of total population (2022)<br>
+_urban population_: 82.4% of total population (2023)<br>
 _rate of urbanization_: 1.01% annual rate of change (2020-25 est.)<br>
 
 **Revenue from forest resources**<br>
@@ -286,7 +286,7 @@ _coal revenues_: 0.75% of GDP (2018 est.)<br>
 _degree of risk_: high (2020)<br>
 _food or waterborne diseases_: bacterial diarrhea<br>
 _vectorborne diseases_: dengue fever, malaria, and yellow fever<br>
-<strong>note:</strong> widespread ongoing transmission of a respiratory illness caused by the novel coronavirus (COVID-19) is occurring throughout Colombia; as of 18 August 2022, Columbia has reported a total of 6,286,392 cases of COVID-19 or 12,354.62 cumulative cases of COVID-19 per 100,000 population with a total of 141,287 cumulative deaths or a rate 277.67 cumulative deaths per 100,000 population; as of 29 July 2022, 82.64% of the population has received at least one dose of COVID-19 vaccine<br>
+<strong>note:</strong> widespread ongoing transmission of a respiratory illness caused by the novel coronavirus (COVID-19) is occurring throughout Colombia; as of 9 December 2022, Columbia has reported a total of 6,323,357 cases of COVID-19 or 12,427.27 cumulative cases of COVID-19 per 100,000 population with a total of 141,943 cumulative deaths or a rate 278.96 cumulative deaths per 100,000 population; as of 25 November 2022, 82.68% of the population has received at least one dose of COVID-19 vaccine<br>
 
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 12,150,120 tons (2011 est.)<br>
@@ -484,9 +484,9 @@ _services_: 62% (2011 est.)<br>
 9.68% (2018 est.)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 25.8%<br>
-_male_: 20.7%<br>
-_female_: 33% (2020 est.)<br>
+_total_: 24.6%<br>
+_male_: 19.4%<br>
+_female_: 31.7% (2021 est.)<br>
 
 **Population below poverty line**<br>
 35.7% (2019 est.)<br>

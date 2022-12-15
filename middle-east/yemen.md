@@ -227,11 +227,6 @@ _total population_: 70.1%<br>
 _male_: 85.1%<br>
 _female_: 55% (2015)<br>
 
-**School life expectancy (primary to tertiary education)**<br>
-_total_: 9 years<br>
-_male_: 11 years<br>
-_female_: 8 years (2011)<br>
-
 **Youth unemployment rate (ages 15-24)**<br>
 _total_: 24.5%<br>
 _male_: 23.5%<br>

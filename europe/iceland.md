@@ -124,7 +124,7 @@ _female_: 37.7 years (2020 est.)<br>
 Iceland is almost entirely urban with half of the population located in and around the capital of Reykjavik; smaller clusters are primarily found along the coast in the north and west<br>
 
 **Urbanization**<br>
-_urban population_: 94% of total population (2022)<br>
+_urban population_: 94% of total population (2023)<br>
 _rate of urbanization_: 0.74% annual rate of change (2020-25 est.)<br>
 
 **Major urban areas - population**<br>
@@ -208,7 +208,7 @@ _female_: 12% (2020 est.)<br>
 NA<br>
 
 **Education expenditures**<br>
-7.6% of GDP (2018 est.)<br>
+7.7% of GDP (2020 est.)<br>
 
 **Literacy**<br>
 _total population_: NA<br>
@@ -218,12 +218,12 @@ _female_: NA<br>
 **School life expectancy (primary to tertiary education)**<br>
 _total_: 19 years<br>
 _male_: 18 years<br>
-_female_: 20 years (2019)<br>
+_female_: 21 years (2020)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 10%<br>
-_male_: 11.1%<br>
-_female_: 9% (2020 est.)<br>
+_total_: 12%<br>
+_male_: 13.2%<br>
+_female_: 10.7% (2021 est.)<br>
 
 ## Environment
 
@@ -251,7 +251,7 @@ _forest_: 0.3% (2018 est.)<br>
 _other_: 81% (2018 est.)<br>
 
 **Urbanization**<br>
-_urban population_: 94% of total population (2022)<br>
+_urban population_: 94% of total population (2023)<br>
 _rate of urbanization_: 0.74% annual rate of change (2020-25 est.)<br>
 
 **Revenue from forest resources**<br>
@@ -444,9 +444,9 @@ _services_: 73% (2008)<br>
 2.73% (2018 est.)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 10%<br>
-_male_: 11.1%<br>
-_female_: 9% (2020 est.)<br>
+_total_: 12%<br>
+_male_: 13.2%<br>
+_female_: 10.7% (2021 est.)<br>
 
 **Population below poverty line**<br>
 8.8% (2017 est.)<br>

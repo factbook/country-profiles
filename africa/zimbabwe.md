@@ -231,7 +231,7 @@ _women married by age 18_: 33.7%<br>
 _men married by age 18_: 1.9% (2019 est.)<br>
 
 **Education expenditures**<br>
-3.6% of GDP (2018 est.)<br>
+3.9% of GDP (2018 est.)<br>
 
 **Literacy**<br>
 _definition_: age 15 and over can read and write English<br>
@@ -245,9 +245,9 @@ _male_: 12 years<br>
 _female_: 11 years (2013)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 27.5%<br>
-_male_: 25%<br>
-_female_: 31.4% (2019 est.)<br>
+_total_: 11.9%<br>
+_male_: 11.2%<br>
+_female_: 12.8% (2019 est.)<br>
 
 ## Environment
 
@@ -370,8 +370,8 @@ _election results_: Emmerson MNANGAGWA reelected president in 1st round of votin
 
 **Legislative branch**<br>
 _description_: bicameral Parliament consists of:<br>Senate (80 seats; 60 members directly elected in multi-seat constituencies - 6 seats in each of the 10 provinces - by proportional representation vote, 16 indirectly elected by the regional governing councils, 2 reserved for the National Council Chiefs, and 2 reserved for members with disabilities; members serve 5-year terms)<br>National Assembly (270 seats; 210 members directly elected in single-seat constituencies by simple majority vote and 60 seats reserved for women directly elected by proportional representation vote; members serve 5-year terms)<br>
-_elections_: Senate - last held for elected member on 30 July 2018 (next to be held in 2023)<br> National Assembly - last held on 30 July 2018 (next to be held in 2023)<br>
-_election results_: Senate - percent of vote by party - NA; seats by party - ZANU-PF 34, MDC Alliance 25, Chiefs 18, people with disabilities 2, MDC-T 1; composition - men 45, women 35, percent of women 43.8%<br> National Assembly - percent of vote by party - NA; seats by party - ZANU-PF 179, MDC Alliance 88, MDC-T 1, NPF 1, independent 1; composition - men 185, women 25, percent of women 31.5%; note - total Parliament percent of women 34.3%<br>
+_elections_: Senate - last held for elected member on 30 July 2018 (next to be held in 2023)<br>National Assembly - last held on 30 July 2018 (next to be held in 2023)<br>
+_election results_: Senate - percent of vote by party - NA; seats by party - ZANU-PF 34, MDC Alliance 25, Chiefs 18, people with disabilities 2, MDC-T 1; composition - men 45, women 35, percent of women 43.8%<br>National Assembly - percent of vote by party - NA; seats by party - ZANU-PF 179, MDC Alliance 88, MDC-T 1, NPF 1, independent 1; composition - men 184, women 81, percent of women 31.5%; note - total Parliament percent of women 34.3%<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme Court (consists of the chief justice and 4 judges); Constitutional Court (consists of the chief and deputy chief justices and 9 judges)<br>
@@ -480,9 +480,9 @@ _services_: 25.2% (2017 est.)<br>
 <strong>note:</strong> data include both unemployment and underemployment; true unemployment is unknown and, under current economic conditions, unknowable<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 27.5%<br>
-_male_: 25%<br>
-_female_: 31.4% (2019 est.)<br>
+_total_: 11.9%<br>
+_male_: 11.2%<br>
+_female_: 12.8% (2019 est.)<br>
 
 **Population below poverty line**<br>
 38.3% (2019 est.)<br>

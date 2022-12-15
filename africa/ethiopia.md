@@ -140,7 +140,7 @@ _female_: 20.1 years (2020 est.)<br>
 highest density is found in the highlands of the north and middle areas of the country, particularly around the centrally located capital city of Addis Ababa; the far east and southeast are sparsely populated as shown in this population distribution map<br>
 
 **Urbanization**<br>
-_urban population_: 22.7% of total population (2022)<br>
+_urban population_: 23.2% of total population (2023)<br>
 _rate of urbanization_: 4.4% annual rate of change (2020-25 est.)<br>
 
 **Major urban areas - population**<br>
@@ -239,7 +239,7 @@ _women married by age 18_: 40.3%<br>
 _men married by age 18_: 5% (2016 est.)<br>
 
 **Education expenditures**<br>
-5.1% of GDP (2018 est.)<br>
+4.5% of GDP (2019 est.)<br>
 
 **Literacy**<br>
 _definition_: age 15 and over can read and write<br>
@@ -283,7 +283,7 @@ _forest_: 12.2% (2018 est.)<br>
 _other_: 51.5% (2018 est.)<br>
 
 **Urbanization**<br>
-_urban population_: 22.7% of total population (2022)<br>
+_urban population_: 23.2% of total population (2023)<br>
 _rate of urbanization_: 4.4% annual rate of change (2020-25 est.)<br>
 
 **Revenue from forest resources**<br>

@@ -137,7 +137,7 @@ _female_: 22.6 years (2020 est.)<br>
 population density is very low, with the largest clustering found in the extreme north-central area along the border with Angola as shown in this population distribution map<br>
 
 **Urbanization**<br>
-_urban population_: 54% of total population (2022)<br>
+_urban population_: 54.9% of total population (2023)<br>
 _rate of urbanization_: 3.64% annual rate of change (2020-25 est.)<br>
 
 **Major urban areas - population**<br>
@@ -228,7 +228,7 @@ _female_: 6% (2020 est.)<br>
 13.2% (2013)<br>
 
 **Education expenditures**<br>
-9.4% of GDP (2020 est.)<br>
+9.6% of GDP (2021 est.)<br>
 
 **Literacy**<br>
 _definition_: age 15 and over can read and write<br>
@@ -267,7 +267,7 @@ _forest_: 8.8% (2018 est.)<br>
 _other_: 44% (2018 est.)<br>
 
 **Urbanization**<br>
-_urban population_: 54% of total population (2022)<br>
+_urban population_: 54.9% of total population (2023)<br>
 _rate of urbanization_: 3.64% annual rate of change (2020-25 est.)<br>
 
 **Revenue from forest resources**<br>

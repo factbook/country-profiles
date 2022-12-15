@@ -122,7 +122,7 @@ _female_: 35.5 years (2020 est.)<br>
 population is mosly clustered along the coast, with roughly a third living in the parish of St. George, in or around the capital of Roseau; the volcanic interior is sparsely populated<br>
 
 **Urbanization**<br>
-_urban population_: 71.7% of total population (2022)<br>
+_urban population_: 72% of total population (2023)<br>
 _rate of urbanization_: 0.84% annual rate of change (2020-25 est.)<br>
 
 **Major urban areas - population**<br>
@@ -183,7 +183,7 @@ _other alcohols_: 0 liters of pure alcohol (2019 est.)<br>
 NA<br>
 
 **Education expenditures**<br>
-5% of GDP (2020 est.)<br>
+5.5% of GDP (2021 est.)<br>
 
 **Literacy**<br>
 _total population_: NA<br>
@@ -219,7 +219,7 @@ _forest_: 59.2% (2018 est.)<br>
 _other_: 6.1% (2018 est.)<br>
 
 **Urbanization**<br>
-_urban population_: 71.7% of total population (2022)<br>
+_urban population_: 72% of total population (2023)<br>
 _rate of urbanization_: 0.84% annual rate of change (2020-25 est.)<br>
 
 **Revenue from forest resources**<br>
@@ -292,8 +292,8 @@ _election results_: Charles A. SAVARIN (DLP) reelected president unopposed<br>
 
 **Legislative branch**<br>
 _description_: unicameral House of Assembly (32 seats; 21 representatives directly elected in single-seat constituencies by simple majority vote, 9 senators appointed by the president - 5 on the advice of the prime minister, and 4 on the advice of the leader of the opposition party, plus 2 ex-officio members - the house speaker and the attorney general; members serve 5-year terms)<br>
-_elections_: last held on&nbsp;6 December 2019 (next to be held in 2024); note - tradition dictates that the election is held within 5 years of the last election, but technically it is 5 years from the first seating of parliament plus a 90-day grace period<br>
-_election results_: percent of vote by party - DLP 59.0%, UWP 41.0%; seats by party - DLP 18, UWP 3; composition - men 21, women 11, percent of women 34.4%<br>
+_elections_: last held on 6 December 2022 (next to be held in 2027); note - tradition dictates that the election is held within 5 years of the last election, but technically it is 5 years from the first seating of parliament plus a 90-day grace period<br>
+_election results_: percent of vote by party - DLP 82.3%, independents 16.9%; seats by party - DLP 19, independents 2; composition - men 21, women 11, percent of women 34.4%<br>
 
 **Judicial branch**<br>
 _highest court(s)_: the Eastern Caribbean Supreme Court (ECSC) is the superior court of the Organization of Eastern Caribbean States; the ECSC - headquartered on St. Lucia - consists of the Court of Appeal - headed by the chief justice and 4 judges - and the High Court with 18 judges; the Court of Appeal is itinerant, traveling to member states on a schedule to hear appeals from the High Court and subordinate courts; High Court judges reside in the member states, with 2 in Dominica; note - in 2015, Dominica acceded to the Caribbean Court of Justice as final court of appeal, replacing that of the Judicial Committee of the Privy Council, in London<br>

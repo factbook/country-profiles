@@ -231,7 +231,7 @@ _women married by age 18_: 34%<br>
 _men married by age 18_: 5.5% (2016 est.)<br>
 
 **Education expenditures**<br>
-3% of GDP (2020 est.)<br>
+2.7% of GDP (2021 est.)<br>
 
 **Literacy**<br>
 _definition_: age 15 and over can read and write<br>
@@ -239,15 +239,10 @@ _total population_: 76.5%<br>
 _male_: 82.7%<br>
 _female_: 70.8% (2018)<br>
 
-**School life expectancy (primary to tertiary education)**<br>
-_total_: 10 years<br>
-_male_: 10 years<br>
-_female_: 10 years (2011)<br>
-
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 15.6%<br>
-_male_: 13.8%<br>
-_female_: 17.6% (2017 est.)<br>
+_total_: 5.8%<br>
+_male_: 5.6%<br>
+_female_: 5.9% (2017 est.)<br>
 
 ## Environment
 
@@ -371,7 +366,7 @@ _election results_: <em>2021: </em>Yoweri Kaguta MUSEVENI reelected president in
 **Legislative branch**<br>
 _description_: unicameral National Assembly or Parliament (556 seats; 353 members directly elected in single-seat constituencies by simple majority vote, 146 for women directly elected in single-seat districts by simple majority vote, and 30 "representatives" reserved for special interest groups - army 10, disabled 5, youth 5, labor 5, older persons 5; 27 ex officio members appointed by the president; members serve 5-year terms)<br>
 _elections_: last held on 14 January 2021 (next to be held in February 2026)<br>
-_election results_: percent of vote by party - NA; seats by party - NRM 336, NUP 57, FDC 32, DP 9, UPDF 10, UPC 9, independent 76 (excludes 27 ex-officio members)<br>
+_election results_: percent of vote by party - NA; seats by party - NRM 336, NUP 57, FDC 32, DP 9, UPDF 10, UPC 9, independent 76 (excludes 27 ex-officio members); composition - men 368, women 188, percent of women 33.8%<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme Court of Uganda (consists of the chief justice and at least 6 justices)<br>
@@ -484,9 +479,9 @@ _services_: 22% (2013 est.)<br>
 9.4% (2014 est.)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 15.6%<br>
-_male_: 13.8%<br>
-_female_: 17.6% (2017 est.)<br>
+_total_: 5.8%<br>
+_male_: 5.6%<br>
+_female_: 5.9% (2017 est.)<br>
 
 **Population below poverty line**<br>
 21.4% (2016 est.)<br>
@@ -634,7 +629,7 @@ _total subscriptions_: 25,395,500 (2019)<br>
 _subscriptions per 100 inhabitants_: 57.37 (2019)<br>
 
 **Telecommunication systems**<br>
-_general assessment_: a series of reforms within Uganda&rsquo;s telecom sector have provided the country with one of the most competitive markets in the region; in line with the regulator&rsquo;s licensing requirements by which Uganda-based companies should be broadly owned by Ugandans by mid-2022, MTN Group carried out a partial listing on the Uganda Stock Exchange in December 2021; a simplified and converged licensing regime has significantly reduced barriers to market entry and increased competition, but this has also led to price wars which have dented operator revenue; fixed-line infrastructure remains poor, with low penetration, and as a result fixed-line broadband penetration is also particularly low; consumers have largely depended on mobile infrastructure to provide voice and broadband services; there is sufficient capacity with LTE infrastructure to match data demand during the next few years;Uganda has anticipated the migration to 5G, having held trials in early 2020 though the roll out of 5G is not expected until later in 2022 (2022)<br>
+_general assessment_: a series of reforms within Uganda&rsquo;s telecom sector have provided the country with one of the most competitive markets in the region; in line with the regulator&rsquo;s licensing requirements by which Uganda-based companies should be broadly owned by Ugandans by mid-2022; fixed-line infrastructure remains poor, with low penetration, and as a result fixed-line broadband penetration is also particularly low; consumers have largely depended on mobile infrastructure to provide voice and broadband services; there is sufficient capacity with LTE infrastructure to match data demand during the next few years; Uganda has anticipated the migration to 5G, having held trials in early 2020 though the roll out of 5G is not expected until later in 2022 (2022)<br>
 _domestic_: fixed-line less than 1 per 100 and mobile cellular systems teledensity about 61 per 100 persons; intercity traffic by wire, microwave radio relay, and radiotelephone communication stations (2020)<br>
 _international_: country code - 256; satellite earth stations - 1 Intelsat (Atlantic Ocean) and 1 Inmarsat; analog and digital links to Kenya and Tanzania<br>
 <strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress toward 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>
@@ -732,8 +727,8 @@ al-Shabaab; Islamic State of Iraq and ash-Sham - Democratic Republic of Congo (I
 ## Transnational Issues
 
 **Disputes - international**<br>
-<p>Uganda is subject to armed fighting among hostile ethnic groups, rebels, armed gangs, militias, and various government forces that extend across its borders<br><br><em>Uganda-Kenya:</em> Kenya and Uganda have begun a joint demarcation of the boundary in 2021; Uganda and Kenya both claim Migingo Island, a tiny island in the middle of Lake Victoria, which offers good fishing<br><br><em>Uganda-Rwanda:</em> a joint technical committee established in 2007 to demarcate sections of the border<br><br><em>Uganda-Democratic Republic of Congo(DROC):</em> Uganda rejects the DROC claim to Margherita Peak in the Rwenzori mountains and considers it a boundary divide; there is tension and violence on Lake Albert over prospective oil reserves at the mouth of the Semliki River; Rukwanzi Island in Lake Albert is claimed by both countries<br><br><em>Uganda-South Sudan:</em> Government of South Sudan protests Lord's Resistance Army operations in western Equatorial State, displacing and driving out local populations and stealing grain stores<br><br><em>Uganda-Sudan</em>: none identified</p><br>
+<p>Uganda is subject to armed fighting among hostile ethnic groups, rebels, armed gangs, militias, and various government forces that extend across its borders<br><br><em>Uganda-Kenya:</em> Kenya and Uganda began a joint demarcation of the boundary in 2021; Uganda and Kenya both claim Migingo Island, a tiny island in the middle of Lake Victoria, which offers good fishing<br><br><em>Uganda-Rwanda:</em> a joint technical committee established in 2007 to demarcate sections of the border<br><br><em>Uganda-Democratic Republic of Congo(DROC):</em> Uganda rejects the DROC claim to Margherita Peak in the Rwenzori mountains and considers it a boundary divide; there is tension and violence on Lake Albert over prospective oil reserves at the mouth of the Semliki River; Rukwanzi Island in Lake Albert is claimed by both countries<br><br><em>Uganda-South Sudan:</em> Government of South Sudan protests Lord's Resistance Army operations in western Equatorial State, displacing and driving out local populations and stealing grain stores<br><br><em>Uganda-Sudan</em>: none identified</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 835,657 (South Sudan) (refugees and asylum seekers), 452,891 (Democratic Republic of the Congo), 61,492 (Somalia) (refugees and asylum seekers), 40,290 (Burundi), 26,700 (Eritrea), 23,154 (Rwanda), 5,307 (Ethiopia) (2022)<br>
+_refugees (country of origin)_: 845,711 (South Sudan) (refugees and asylum seekers), 452,891 (Democratic Republic of the Congo), 61,482 (Somalia) (refugees and asylum seekers), 40,311 (Burundi), 26,700 (Eritrea), 23,154 (Rwanda), 5,307 (Ethiopia) (2022)<br>
 

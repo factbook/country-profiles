@@ -123,7 +123,7 @@ _female_: 37.6 years (2020 est.)<br>
 most of the population is concentrated in The Valley in the center of the island; settlmement is fairly uniform in the southwest, but rather sparce in the northeast<br>
 
 **Urbanization**<br>
-_urban population_: 100% of total population (2022)<br>
+_urban population_: 100% of total population (2023)<br>
 _rate of urbanization_: 0.47% annual rate of change (2020-25 est.)<br>
 
 **Major urban areas - population**<br>
@@ -179,7 +179,7 @@ NA<br>
 NA<br>
 
 **Education expenditures**<br>
-3.6% of GDP (2018 est.)<br>
+4% of GDP (2020 est.)<br>
 
 **Literacy**<br>
 _total population_: NA<br>
@@ -203,7 +203,7 @@ _forest_: 61.1% (2018 est.)<br>
 _other_: 38.9% (2018 est.)<br>
 
 **Urbanization**<br>
-_urban population_: 100% of total population (2022)<br>
+_urban population_: 100% of total population (2023)<br>
 _rate of urbanization_: 0.47% annual rate of change (2020-25 est.)<br>
 
 ## Government

@@ -217,7 +217,7 @@ _female_: 20% (2020 est.)<br>
 NA<br>
 
 **Education expenditures**<br>
-3.3% of GDP (2018 est.)<br>
+3.7% of GDP (2020 est.)<br>
 
 **Literacy**<br>
 _definition_: age 15 and over can read and write<br>
@@ -228,12 +228,12 @@ _female_: 98.6% (2018)<br>
 **School life expectancy (primary to tertiary education)**<br>
 _total_: 14 years<br>
 _male_: 14 years<br>
-_female_: 15 years (2019)<br>
+_female_: 15 years (2020)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 17.3%<br>
-_male_: 17.9%<br>
-_female_: 16.5% (2020 est.)<br>
+_total_: 21%<br>
+_male_: 20.9%<br>
+_female_: 21.2% (2021 est.)<br>
 
 ## Environment
 
@@ -463,9 +463,9 @@ _services_: 42.8% (2014)<br>
 3.56% (2018 est.)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 17.3%<br>
-_male_: 17.9%<br>
-_female_: 16.5% (2020 est.)<br>
+_total_: 21%<br>
+_male_: 20.9%<br>
+_female_: 21.2% (2021 est.)<br>
 
 **Population below poverty line**<br>
 23.8% (2018 est.)<br>
@@ -722,9 +722,9 @@ Islamic State of Iraq and ash-Sham (ISIS)<br>
 <p><em>Romania-Bulgaria</em>: none identified</p> <p><em>Romania-Hungary</em>: none identified</p> <p><em>Romania-Moldova</em>: none identified</p> <p><em>Romania-Serbia</em>: none identified</p> <p><em>Romania-Ukraine</em>: the International Court of Justice ruled largely in favor of Romania in its dispute submitted in 2004 over Ukrainian-administered Zmiyinyy/Serpilor (Snake) Island and Black Sea maritime boundary delimitation; in 2007, Romania opposed Ukraine's construction of a navigation canal from the Danube border through Ukraine to the Black Sea, arguing that it runs through a unique ecological area, the Danube Delta</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 94,526 (Ukraine) (as of 27 November 2022)<br>
+_refugees (country of origin)_: 98,103 (Ukraine) (as of 4 December 2022)<br>
 _stateless persons_: 314 (mid-year 2021)<br>
-<strong>note:</strong> 11,909 estimated refugee and migrant arrivals (January 2015-November 2022)<br>
+<strong>note:</strong> 11,961 estimated refugee and migrant arrivals (January 2015-November 2022)<br>
 
 **Illicit drugs**<br>
 <p>a source country for cannabis</p><br>

@@ -203,7 +203,7 @@ _unimproved: total_: total: 6.8% of population (2020 est.)<br>
 _degree of risk_: intermediate (2020)<br>
 _food or waterborne diseases_: bacterial diarrhea, hepatitis A, and typhoid fever<br>
 _water contact diseases_: schistosomiasis<br>
-<strong>note:</strong> widespread ongoing transmission of a respiratory illness caused by the novel coronavirus (COVID-19) is occurring throughout South Africa; as of 18 August 2022, South Africa has reported a total of 4,008,988 cases of COVID-19 or 6,759.52 cumulative cases of COVID-19 per 100,000 population with a total of 101,982 cumulative deaths or a rate of 171.95 cumulative deaths per 100,000 population; as of 17 August 2022, 37.4% of the population has received at least one dose of COVID-19 vaccine<br>
+<strong>note:</strong> widespread ongoing transmission of a respiratory illness caused by the novel coronavirus (COVID-19) is occurring throughout South Africa; as of 9 December 2022, South Africa has reported a total of 4,042,912 cases of COVID-19 or 6816.72 cumulative cases of COVID-19 per 100,000 population with a total of 102,428 cumulative deaths or a rate of 172.7 cumulative deaths per 100,000 population; as of 8 December 2022, 37.54% of the population has received at least one dose of COVID-19 vaccine<br>
 
 **Obesity - adult prevalence rate**<br>
 28.3% (2016)<br>
@@ -229,7 +229,7 @@ _women married by age 18_: 3.6%<br>
 _men married by age 18_: 0.6% (2016 est.)<br>
 
 **Education expenditures**<br>
-6.8% of GDP (2020 est.)<br>
+6.6% of GDP (2021 est.)<br>
 
 **Literacy**<br>
 _definition_: age 15 and over can read and write<br>
@@ -238,14 +238,14 @@ _male_: 95.5%<br>
 _female_: 94.5% (2019)<br>
 
 **School life expectancy (primary to tertiary education)**<br>
-_total_: 14 years<br>
+_total_: 13 years<br>
 _male_: 13 years<br>
-_female_: 14 years (2019)<br>
+_female_: 14 years (2020)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 59.4%<br>
-_male_: 55.4%<br>
-_female_: 64.1% (2020 est.)<br>
+_total_: 49.6%<br>
+_male_: 45.5%<br>
+_female_: 54.3% (2021 est.)<br>
 
 ## Environment
 
@@ -283,7 +283,7 @@ _coal revenues_: 2.4% of GDP (2018 est.)<br>
 _degree of risk_: intermediate (2020)<br>
 _food or waterborne diseases_: bacterial diarrhea, hepatitis A, and typhoid fever<br>
 _water contact diseases_: schistosomiasis<br>
-<strong>note:</strong> widespread ongoing transmission of a respiratory illness caused by the novel coronavirus (COVID-19) is occurring throughout South Africa; as of 18 August 2022, South Africa has reported a total of 4,008,988 cases of COVID-19 or 6,759.52 cumulative cases of COVID-19 per 100,000 population with a total of 101,982 cumulative deaths or a rate of 171.95 cumulative deaths per 100,000 population; as of 17 August 2022, 37.4% of the population has received at least one dose of COVID-19 vaccine<br>
+<strong>note:</strong> widespread ongoing transmission of a respiratory illness caused by the novel coronavirus (COVID-19) is occurring throughout South Africa; as of 9 December 2022, South Africa has reported a total of 4,042,912 cases of COVID-19 or 6816.72 cumulative cases of COVID-19 per 100,000 population with a total of 102,428 cumulative deaths or a rate of 172.7 cumulative deaths per 100,000 population; as of 8 December 2022, 37.54% of the population has received at least one dose of COVID-19 vaccine<br>
 
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 18,457,232 tons (2011 est.)<br>
@@ -480,9 +480,9 @@ _services_: 71.9% (2014 est.)<br>
 27.09% (2018 est.)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 59.4%<br>
-_male_: 55.4%<br>
-_female_: 64.1% (2020 est.)<br>
+_total_: 49.6%<br>
+_male_: 45.5%<br>
+_female_: 54.3% (2021 est.)<br>
 
 **Population below poverty line**<br>
 55.5% (2014 est.)<br>
@@ -700,7 +700,7 @@ _container port(s) (TEUs)_: Durban (2,769,869) (2019)<br>
 _LNG terminal(s) (import)_: Mossel Bay<br>
 
 **Transportation - note**<br>
-South Africa operates one PC 5 or 6 class icebreaker<br><strong>note </strong>- PC 5 - Year-round operation in medium first-year ice which may include old ice inclusions (ice thickness up to 70-120 cm); PC 6 - Summer/autumn operation in medium first-year ice which may include old ice inclusions (ice thickness up to 30-70 cm)<br>
+South Africa operates one PC 5 or 6 class light icebreaker<br>note - PC indicates a Polar Class vessel: PC 5 - year-round operation in medium first-year ice which may include old ice inclusions (ice thickness up to 70-120 cm); PC 6 - summer/autumn operation in medium first-year ice which may include old ice inclusions (ice thickness up to 30-70 cm)<br>
 
 ## Military and Security
 

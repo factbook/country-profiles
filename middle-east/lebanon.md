@@ -125,7 +125,7 @@ _female_: 34.4 years (2020 est.)<br>
 the majority of the people live on or near the Mediterranean coast, and of these most live in and around the capital, Beirut; favorable growing conditions in the Bekaa Valley, on the southeastern side of the Lebanon Mountains, have attracted farmers and thus the area exhibits a smaller population density<br>
 
 **Urbanization**<br>
-_urban population_: 89.3% of total population (2022)<br>
+_urban population_: 89.4% of total population (2023)<br>
 _rate of urbanization_: -1.23% annual rate of change (2020-25 est.)<br>
 
 **Major urban areas - population**<br>
@@ -188,7 +188,7 @@ _unimproved: total_: total: 0% of population (2020 est.)<br>
 (2021 est.) <0.1%<br>
 
 **Major infectious diseases**<br>
-<strong>note:</strong> widespread ongoing transmission of a respiratory illness caused by the novel coronavirus (COVID-19) is occurring throughout Lebanon; as of 18 August 2022, Lebanon has reported a total of 1,200,111 cases of COVID-19 or 17,582.89 cumulative cases of COVID-19 per 100,000 population with a total of 10,589 cumulative deaths or a rate of 155.14 cumulative deaths per 100,000 population; as of 7 August 2022, 48.5% of the population has received at least one dose of COVID-19 vaccine<br>
+<strong>note:</strong> widespread ongoing transmission of a respiratory illness caused by the novel coronavirus (COVID-19) is occurring throughout Lebanon; as of 9 December 2022, Lebanon has reported a total of 1,220,831 cases of COVID-19 or 17,886.46 cumulative cases of COVID-19 per 100,000 population with a total of 10,740 cumulative deaths or a rate of 157.35 cumulative deaths per 100,000 population; as of 1 December 2022, 49.9% of the population has received at least one dose of COVID-19 vaccine<br>
 
 **Obesity - adult prevalence rate**<br>
 32% (2016)<br>
@@ -213,7 +213,7 @@ _women married by age 15_: 1.4%<br>
 _women married by age 18_: 6% (2016 est.)<br>
 
 **Education expenditures**<br>
-2.6% of GDP (2019 est.)<br>
+1.7% of GDP (2020 est.)<br>
 
 **Literacy**<br>
 _definition_: age 15 and over can read and write<br>
@@ -227,7 +227,7 @@ _male_: 12 years<br>
 _female_: 11 years (2014)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 23.4%<br>
+_total_: 23.3%<br>
 _male_: 24.5%<br>
 _female_: 21.4% (2019)<br>
 
@@ -257,7 +257,7 @@ _forest_: 13.4% (2018 est.)<br>
 _other_: 23.3% (2018 est.)<br>
 
 **Urbanization**<br>
-_urban population_: 89.3% of total population (2022)<br>
+_urban population_: 89.4% of total population (2023)<br>
 _rate of urbanization_: -1.23% annual rate of change (2020-25 est.)<br>
 
 **Revenue from forest resources**<br>
@@ -267,7 +267,7 @@ _forest revenues_: 0% of GDP (2018 est.)<br>
 _coal revenues_: 0% of GDP (2018 est.)<br>
 
 **Major infectious diseases**<br>
-<strong>note:</strong> widespread ongoing transmission of a respiratory illness caused by the novel coronavirus (COVID-19) is occurring throughout Lebanon; as of 18 August 2022, Lebanon has reported a total of 1,200,111 cases of COVID-19 or 17,582.89 cumulative cases of COVID-19 per 100,000 population with a total of 10,589 cumulative deaths or a rate of 155.14 cumulative deaths per 100,000 population; as of 7 August 2022, 48.5% of the population has received at least one dose of COVID-19 vaccine<br>
+<strong>note:</strong> widespread ongoing transmission of a respiratory illness caused by the novel coronavirus (COVID-19) is occurring throughout Lebanon; as of 9 December 2022, Lebanon has reported a total of 1,220,831 cases of COVID-19 or 17,886.46 cumulative cases of COVID-19 per 100,000 population with a total of 10,740 cumulative deaths or a rate of 157.35 cumulative deaths per 100,000 population; as of 1 December 2022, 49.9% of the population has received at least one dose of COVID-19 vaccine<br>
 
 **Food insecurity**<br>
 _widespread lack of access_: <em>due to the ongoing financial and economic crisis -</em> in September 2021, the United Nations estimated that, taking into account multiple factors other than income, such as access to health, education and public utilities, 82% of the population lives in multidimensional poverty in 2021, up from 42% in 2019 (2022)<br>
@@ -338,7 +338,7 @@ _chief of state_: President Michel AWN (since 31 October 2016)<br>
 _head of government_: Prime Minister Najib MIQATI (since 20 September 2021)<br>
 _cabinet_: Cabinet chosen by the prime minister in consultation with the president and Parliament<br>
 _elections/appointments_: president indirectly elected by Parliament with two-thirds majority vote in the first round and if needed absolute majority vote in a second round for a 6-year term (eligible for non-consecutive terms); last held on 31 October 2016 (next to be held in 2022); prime minister appointed by the president in consultation with Parliament; deputy prime minister determined during cabinet formation<br>
-_election results_: 2022: on 10 November 2022, Parliament in its fifth session failed to elect a president; next session is called for November 17 <br><em><br>2016:</em> Michel AWN elected president in second round; National Assembly vote - Michel AWN (FPM) 83 votes; note - in the initial election held on 23 April 2014, no candidate received the required two-thirds vote, and subsequent attempts failed because Parliament lacked the necessary quorum of 86 members to hold a vote; the president was finally elected in its 46th attempt on 31 October 2016<br>
+_election results_: <br>2022: on 1 December 2022, Parliament in its eighth session failed to elect a president<br><em><br>2016:</em> Michel AWN elected president in second round; National Assembly vote - Michel AWN (FPM) 83 votes; note - in the initial election held on 23 April 2014, no candidate received the required two-thirds vote, and subsequent attempts failed because Parliament lacked the necessary quorum of 86 members to hold a vote; the president was finally elected in its 46th attempt on 31 October 2016<br>
 
 **Legislative branch**<br>
 _description_: unicameral Lebanese Parliament or Majlis al-Nuwab in Arabic, Chambre des d&eacute;put&eacute;s in French (128 seats; members directly elected in multi-member constituencies by open list proportional representation vote, apportioned evenly between Christian and Muslims; members serve 4-year terms)<br>
@@ -459,7 +459,7 @@ _services_: NA<br>
 9.7% (2007)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 23.4%<br>
+_total_: 23.3%<br>
 _male_: 24.5%<br>
 _female_: 21.4% (2019)<br>
 

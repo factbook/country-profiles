@@ -217,7 +217,7 @@ _female_: 22.9% (2020 est.)<br>
 NA<br>
 
 **Education expenditures**<br>
-4.9% of GDP (2018 est.)<br>
+5.2% of GDP (2020 est.)<br>
 
 **Literacy**<br>
 _total population_: NA<br>
@@ -227,12 +227,12 @@ _female_: NA<br>
 **School life expectancy (primary to tertiary education)**<br>
 _total_: 17 years<br>
 _male_: 17 years<br>
-_female_: 16 years (2019)<br>
+_female_: 17 years (2020)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 8.6%<br>
-_male_: 9.2%<br>
-_female_: 8% (2020 est.)<br>
+_total_: 8.8%<br>
+_male_: 8.9%<br>
+_female_: 8.8% (2021 est.)<br>
 
 ## Environment
 
@@ -467,9 +467,9 @@ _services_: 76.9% (2015)<br>
 2.55% (2018 est.)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 8.6%<br>
-_male_: 9.2%<br>
-_female_: 8% (2020 est.)<br>
+_total_: 8.8%<br>
+_male_: 8.9%<br>
+_female_: 8.8% (2021 est.)<br>
 
 **Population below poverty line**<br>
 16% (2018 est.)<br>
@@ -726,7 +726,7 @@ Islamic State of Iraq and ash-Sham (ISIS)<br>
 <p>none identified</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 38,219 (Eritrea), 20,043 (Syria), 14,649 (Afghanistan), 6,069 (Sri Lanka), 6,197 (Turkey) (mid-year 2021); 69,607 (Ukraine) (as of 22 November 2022)<br>
+_refugees (country of origin)_: 38,219 (Eritrea), 20,043 (Syria), 14,649 (Afghanistan), 6,069 (Sri Lanka), 6,197 (Turkey) (mid-year 2021); 70,730 (Ukraine) (as of 6 December 2022)<br>
 _stateless persons_: 684 (mid-year 2021)<br>
 
 **Illicit drugs**<br>

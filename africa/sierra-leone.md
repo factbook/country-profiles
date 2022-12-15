@@ -227,7 +227,7 @@ _women married by age 18_: 29.6%<br>
 _men married by age 18_: 4.1% (2019 est.)<br>
 
 **Education expenditures**<br>
-9.3% of GDP (2020 est.)<br>
+9.1% of GDP (2021 est.)<br>
 
 **Literacy**<br>
 _definition_: age 15 and over can read and write English, Mende, Temne, or Arabic<br>
@@ -236,9 +236,9 @@ _male_: 51.6%<br>
 _female_: 39.8% (2018)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 9.4%<br>
-_male_: 14.8%<br>
-_female_: 6.1% (2014 est.)<br>
+_total_: 3.6%<br>
+_male_: 4.9%<br>
+_female_: 2.6% (2018 est.)<br>
 
 ## Environment
 
@@ -460,9 +460,9 @@ _services_: 33.4% (2014 est.)<br>
 17.2% (2016 est.)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 9.4%<br>
-_male_: 14.8%<br>
-_female_: 6.1% (2014 est.)<br>
+_total_: 3.6%<br>
+_male_: 4.9%<br>
+_female_: 2.6% (2018 est.)<br>
 
 **Population below poverty line**<br>
 56.8% (2018 est.)<br>

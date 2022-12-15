@@ -125,7 +125,7 @@ _female_: 41.4 years (2020 est.)<br>
 settlement concentrated in the central valley, particularly in the capital city of Tbilisi in the east; smaller urban agglomerations dot the Black Sea coast, with Bat'umi being the largest<br>
 
 **Urbanization**<br>
-_urban population_: 60.3% of total population (2022)<br>
+_urban population_: 60.7% of total population (2023)<br>
 _rate of urbanization_: 0.35% annual rate of change (2020-25 est.)<br>
 <strong>note:</strong> data include Abkhazia and South Ossetia<br>
 
@@ -216,7 +216,7 @@ _women married by age 18_: 13.9%<br>
 _men married by age 18_: 0.5% (2018 est.)<br>
 
 **Education expenditures**<br>
-3.8% of GDP (2020 est.)<br>
+3.6% of GDP (2021 est.)<br>
 
 **Literacy**<br>
 _definition_: age 15 and over can read and write<br>
@@ -226,13 +226,13 @@ _female_: 99.5% (2019)<br>
 
 **School life expectancy (primary to tertiary education)**<br>
 _total_: 16 years<br>
-_male_: 15 years<br>
-_female_: 16 years (2020)<br>
+_male_: 16 years<br>
+_female_: 16 years (2021)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 39.4%<br>
-_male_: 40.1%<br>
-_female_: 38.3% (2020 est.)<br>
+_total_: 31.3%<br>
+_male_: 30.5%<br>
+_female_: 32.7% (2020 est.)<br>
 
 ## Environment
 
@@ -260,7 +260,7 @@ _forest_: 39.4% (2018 est.)<br>
 _other_: 25.1% (2018 est.)<br>
 
 **Urbanization**<br>
-_urban population_: 60.3% of total population (2022)<br>
+_urban population_: 60.7% of total population (2023)<br>
 _rate of urbanization_: 0.35% annual rate of change (2020-25 est.)<br>
 <strong>note:</strong> data include Abkhazia and South Ossetia<br>
 
@@ -453,9 +453,9 @@ _services_: 35.5% (2006 est.)<br>
 11.8% (2016 est.)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 39.4%<br>
-_male_: 40.1%<br>
-_female_: 38.3% (2020 est.)<br>
+_total_: 31.3%<br>
+_male_: 30.5%<br>
+_female_: 32.7% (2020 est.)<br>
 
 **Population below poverty line**<br>
 19.5% (2019 est.)<br>

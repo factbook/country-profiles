@@ -225,7 +225,7 @@ _female_: 10.7% (2020 est.)<br>
 NA<br>
 
 **Education expenditures**<br>
-5.3% of GDP (2011 est.)<br>
+5.2% of GDP (2020 est.)<br>
 
 **Literacy**<br>
 _total population_: NA<br>
@@ -233,14 +233,14 @@ _male_: NA<br>
 _female_: NA<br>
 
 **School life expectancy (primary to tertiary education)**<br>
-_total_: 16 years<br>
+_total_: 17 years<br>
 _male_: 16 years<br>
-_female_: 17 years (2019)<br>
+_female_: 17 years (2020)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 20.2%<br>
-_male_: 20.9%<br>
-_female_: 19.4% (2020 est.)<br>
+_total_: 13.5%<br>
+_male_: 14.5%<br>
+_female_: 12.4% (2021 est.)<br>
 
 ## Environment
 
@@ -478,9 +478,9 @@ _manufacturing_: 3% (2006 est.)<br>
 5.83% (2018 est.)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 20.2%<br>
-_male_: 20.9%<br>
-_female_: 19.4% (2020 est.)<br>
+_total_: 13.5%<br>
+_male_: 14.5%<br>
+_female_: 12.4% (2021 est.)<br>
 
 **Population below poverty line**<br>
 9.4% (2008 est.)<br>
@@ -704,6 +704,9 @@ _LNG terminal(s) (import)_: Saint John<br>
 _river and lake port(s)_: Montreal, Quebec City, Sept-Isles (St. Lawrence)<br>
 _dry bulk cargo port(s)_: Port-Cartier (iron ore and grain),<br>
 Fraser River Port (Fraser) Hamilton (Lake Ontario)<br>
+
+**Transportation - note**<br>
+Canada operates a fleet of 12 icebreakers including two PC 3 or 4 class medium icebreakers and ten PC 5 or 6 class light icebreakers<br>note - PC indicates a Polar Class vessel: PC 3 - year-round operation in second-year ice which may include multi-year ice inclusions (ice thickness up to 2.5 m); PC 4 - year-round operation in thick first-year ice which may include old ice inclusions (ice thickness up to 120 cm); PC 5 - year-round operation in medium first-year ice which may include old ice inclusions (ice thickness up to 70-120 cm); PC 6 - summer/autumn operation in medium first-year ice which may include old ice inclusions (ice thickness up to 30-70 cm)<br>
 
 ## Military and Security
 

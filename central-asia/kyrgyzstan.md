@@ -135,7 +135,7 @@ _female_: 28.5 years (2020 est.)<br>
 the vast majority of Kyrgyzstanis live in rural areas; densest population settlement is to the north in and around the capital, Bishkek, followed by Osh in the west; the least densely populated area is the east, southeast in the Tien Shan mountains<br>
 
 **Urbanization**<br>
-_urban population_: 37.5% of total population (2022)<br>
+_urban population_: 37.8% of total population (2023)<br>
 _rate of urbanization_: 2.05% annual rate of change (2020-25 est.)<br>
 
 **Major urban areas - population**<br>
@@ -223,7 +223,7 @@ _women married by age 15_: 0.3%<br>
 _women married by age 18_: 12.9% (2018 est.)<br>
 
 **Education expenditures**<br>
-5.4% of GDP (2019 est.)<br>
+6.2% of GDP (2020 est.)<br>
 
 **Literacy**<br>
 _definition_: age 15 and over can read and write<br>
@@ -232,14 +232,14 @@ _male_: 99.7%<br>
 _female_: 99.5% (2018)<br>
 
 **School life expectancy (primary to tertiary education)**<br>
-_total_: 13 years<br>
+_total_: 14 years<br>
 _male_: 13 years<br>
-_female_: 13 years (2020)<br>
+_female_: 14 years (2021)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 9.6%<br>
-_male_: 7.8%<br>
-_female_: 13.4% (2018 est.)<br>
+_total_: 8.5%<br>
+_male_: 7.6%<br>
+_female_: 10% (2020 est.)<br>
 
 ## Environment
 
@@ -267,7 +267,7 @@ _forest_: 5.1% (2018 est.)<br>
 _other_: 39.5% (2018 est.)<br>
 
 **Urbanization**<br>
-_urban population_: 37.5% of total population (2022)<br>
+_urban population_: 37.8% of total population (2023)<br>
 _rate of urbanization_: 2.05% annual rate of change (2020-25 est.)<br>
 
 **Revenue from forest resources**<br>
@@ -468,9 +468,9 @@ _services_: 39.5% (2005 est.)<br>
 2.59% (2018 est.)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 9.6%<br>
-_male_: 7.8%<br>
-_female_: 13.4% (2018 est.)<br>
+_total_: 8.5%<br>
+_male_: 7.6%<br>
+_female_: 10% (2020 est.)<br>
 
 **Population below poverty line**<br>
 20.1% (2019 est.)<br>

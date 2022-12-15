@@ -230,7 +230,7 @@ _female_: 17.5% (2020 est.)<br>
 0.4% (2017/18)<br>
 
 **Education expenditures**<br>
-5% of GDP (2014 est.)<br>
+6.1% of GDP (2020 est.)<br>
 
 **Literacy**<br>
 _total population_: NA<br>
@@ -240,12 +240,12 @@ _female_: NA<br>
 **School life expectancy (primary to tertiary education)**<br>
 _total_: 16 years<br>
 _male_: 16 years<br>
-_female_: 17 years (2019)<br>
+_female_: 17 years (2020)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 14.9%<br>
-_male_: 15%<br>
-_female_: 14.8% (2020 est.)<br>
+_total_: 9.7%<br>
+_male_: 10.5%<br>
+_female_: 8.9% (2021 est.)<br>
 
 ## Environment
 
@@ -481,9 +481,9 @@ _other services_: 17.6% (2009)<br>
 4.4% (2017 est.)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 14.9%<br>
-_male_: 15%<br>
-_female_: 14.8% (2020 est.)<br>
+_total_: 9.7%<br>
+_male_: 10.5%<br>
+_female_: 8.9% (2021 est.)<br>
 
 **Population below poverty line**<br>
 15.1% (2010 est.)<br>
@@ -711,7 +711,7 @@ _cargo ports_: Baton Rouge, Corpus Christi, Hampton Roads, Houston, Long Beach, 
 _cruise departure ports (passengers)_: Miami, Port Everglades, Port Canaveral, Seattle, Long Beach<br>
 
 **Transportation - note**<br>
-the US operates one PC 1 or 2 class heavy icebreaker, two PC 3 or 4 class medium icebreakers, and two PC 5 or 6 class light icebreakers; the heavy and medium icebreakers carry out various polar missions including opening passage for the annual resupply of McMurdo Station in Antarctica<br><strong>note </strong>- PC 1 - Year-round operation in all polar waters (ice thickness &gt;3 m); PC 2 - Year-round operation in moderate multi-year ice conditions (ice thickness up to 3 m); PC 3 - Year-round operation in second-year ice which may include multi-year ice inclusions (ice thickness up to 2.5 m); PC 4 - Year-round operation in thick first-year ice which may include old ice inclusions (ice thickness up to 120 cm); PC 5 - Year-round operation in medium first-year ice which may include old ice inclusions (ice thickness up to 70-120 cm); PC 6 - Summer/autumn operation in medium first-year ice which may include old ice inclusions (ice thickness up to 30-70 cm)<br>
+the US operates one PC 1 or 2 class heavy icebreaker, two PC 3 or 4 class medium icebreakers, and two PC 5 or 6 class light icebreakers; the heavy and medium icebreakers carry out various polar missions including opening passage for the annual resupply of McMurdo Station in Antarctica<br>note - PC 1 - year-round operation in all polar waters (ice thickness &gt;3 m); PC 2 - year-round operation in moderate multi-year ice conditions (ice thickness up to 3 m); PC 3 - year-round operation in second-year ice which may include multi-year ice inclusions (ice thickness up to 2.5 m); PC 4 - year-round operation in thick first-year ice which may include old ice inclusions (ice thickness up to 120 cm); PC 5 - year-round operation in medium first-year ice which may include old ice inclusions (ice thickness up to 70-120 cm); PC 6 -  summer/autumn operation in medium first-year ice which may include old ice inclusions (ice thickness up to 30-70 cm)<br>
 
 ## Military and Security
 

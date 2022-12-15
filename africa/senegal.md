@@ -233,7 +233,7 @@ _women married by age 18_: 30.5%<br>
 _men married by age 18_: 0.7% (2019 est.)<br>
 
 **Education expenditures**<br>
-5.3% of GDP (2019 est.)<br>
+5.5% of GDP (2020 est.)<br>
 
 **Literacy**<br>
 _definition_: age 15 and over can read and write<br>
@@ -244,7 +244,7 @@ _female_: 39.8% (2017)<br>
 **School life expectancy (primary to tertiary education)**<br>
 _total_: 9 years<br>
 _male_: 8 years<br>
-_female_: 9 years (2020)<br>
+_female_: 10 years (2021)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
 _total_: 4.1%<br>

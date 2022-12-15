@@ -132,7 +132,7 @@ _female_: 30.7 years (2020 est.)<br>
 most of the population is concentrated in the fertile Fergana Valley in the easternmost arm of the country; the south has significant clusters of people, while the central and western deserts are sparsely populated<br>
 
 **Urbanization**<br>
-_urban population_: 50.5% of total population (2022)<br>
+_urban population_: 50.5% of total population (2023)<br>
 _rate of urbanization_: 1.25% annual rate of change (2020-25 est.)<br>
 
 **Major urban areas - population**<br>
@@ -216,7 +216,7 @@ _female_: 1.1% (2020 est.)<br>
 2.9% (2017)<br>
 
 **Education expenditures**<br>
-5.1% of GDP (2020 est.)<br>
+4.9% of GDP (2020 est.)<br>
 
 **Literacy**<br>
 _definition_: age 15 and over can read and write<br>
@@ -226,8 +226,13 @@ _female_: 100% (2019)<br>
 
 **School life expectancy (primary to tertiary education)**<br>
 _total_: 12 years<br>
-_male_: 13 years<br>
-_female_: 12 years (2019)<br>
+_male_: 12 years<br>
+_female_: 12 years (2021)<br>
+
+**Youth unemployment rate (ages 15-24)**<br>
+_total_: 13.2%<br>
+_male_: 21.5%<br>
+_female_: 8.3% (2020)<br>
 
 ## Environment
 
@@ -255,7 +260,7 @@ _forest_: 7.7% (2018 est.)<br>
 _other_: 29.7% (2018 est.)<br>
 
 **Urbanization**<br>
-_urban population_: 50.5% of total population (2022)<br>
+_urban population_: 50.5% of total population (2023)<br>
 _rate of urbanization_: 1.25% annual rate of change (2020-25 est.)<br>
 
 **Revenue from forest resources**<br>
@@ -340,9 +345,9 @@ _elections/appointments_: president directly elected by absolute majority popula
 _election results_: <em>2021</em>: Shavkat MIRZIYOYEV reelected president in first round; percent of vote - Shavkat MIRZIYOYEV (LDPU) 80.3%, Maqsuda VORISOVA (PDP) 6.7%, Alisher QODIROV (National Revival Democratic Party) 5.5%, Narzullo OBLOMURODOV (Ecological Party) 4.1%, Bahrom ABDUHALIMOV (Adolat) 3.4%<br><br><em>2016:</em> Shavkat MIRZIYOYEV elected president in first round; percent of vote - Shavkat MIRZIYOYEV (LDPU) 88.6%, Hotamjon KETMONOV (PDP) 3.7%, Narimon UMAROV (Adolat) 3.5%, Sarvar OTAMURODOV (National Revival Democratic Party) 2.4%, other 1.8%<br>
 
 **Legislative branch**<br>
-_description_: bicameral Supreme Assembly or Oliy Majlis consists of:<br>Senate or Senat (100 seats; 84 members indirectly elected by regional governing councils and 16 appointed by the president; members serve 5-year terms)<br>Legislative Chamber or Qonunchilik Palatasi (150 seats; members directly elected in single-seat constituencies by absolute majority vote with a second round if needed; members serve 5-year terms)<br>
+_description_: bicameral Supreme Assembly or Oliy Majlis consists of:<br>Senate or Senat (100 seats; 84 members indirectly elected by regional governing councils and 16 appointed by the president; members serve 5-year terms)<br>Legislative Chamber or Qonunchilik Palatasi (150 seats statutory, 144 seats current; members directly elected in single-seat constituencies by absolute majority vote with a second round if needed; members serve 5-year terms)<br>
 _elections_: Senate - last held 16-17 January 2020 (next to be held in 2025)<br>Legislative Chamber - last held on 22 December 2019 and 5 January 2020 (next to be held in December 2024)<br>
-_election results_: Senate - percent of vote by party - NA; seats by party - NA; composition - men 77, women 23, percent of women 23%<br>Legislative Chamber - percent of vote by party - NA; seats by party - LDPU 53, National Revival Democratic Party 36, Adolat 24, PDP 22, Ecological Movement 15; composition - men 83, women, 17, percent of women 17%<br>
+_election results_: Senate - percent of vote by party - NA; seats by party - NA; composition as of late 2022 - men 75, women 25, percent of women 25%<br>Legislative Chamber - percent of vote by party - NA; seats by party - LDPU 53, National Revival Democratic Party 36, Adolat 24, PDP 22, Ecological Movement 15; composition - men 96, women, 48, percent of women 33.3%; note - total Supreme Assembly percent of women 29.1%<br>
 <strong>note:</strong> all parties in the Supreme Assembly support President Shavkat MIRZIYOYEV<br>
 
 **Judicial branch**<br>
@@ -457,6 +462,11 @@ _services_: 60.9% (2012 est.)<br>
 5% (2017 est.)<br>
 5.1% (2016 est.)<br>
 <strong>note:</strong> official data; another 20% are underemployed<br>
+
+**Youth unemployment rate (ages 15-24)**<br>
+_total_: 13.2%<br>
+_male_: 21.5%<br>
+_female_: 8.3% (2020)<br>
 
 **Population below poverty line**<br>
 14.1% (2013 est.)<br>

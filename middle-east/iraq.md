@@ -138,7 +138,7 @@ _female_: 21.6 years (2020 est.)<br>
 population is concentrated in the north, center, and eastern parts of the country, with many of the larger urban agglomerations found along extensive parts of the Tigris and Euphrates Rivers; much of the western and southern areas are either lightly populated or uninhabited<br>
 
 **Urbanization**<br>
-_urban population_: 71.4% of total population (2022)<br>
+_urban population_: 71.6% of total population (2023)<br>
 _rate of urbanization_: 2.91% annual rate of change (2020-25 est.)<br>
 
 **Major urban areas - population**<br>
@@ -203,7 +203,7 @@ NA<br>
 **Major infectious diseases**<br>
 _degree of risk_: intermediate (2020)<br>
 _food or waterborne diseases_: bacterial diarrhea, hepatitis A, and typhoid fever<br>
-<strong>note:</strong> widespread ongoing transmission of a respiratory illness caused by the novel coronavirus (COVID-19) is occurring throughout Iraq; as of 18 August 2022, Iraq has reported a total of 2,454,213 cases of COVID-19 or 6,101.59 cumulative cases of COVID-19 per 100,000 population with a total of 25,338 cumulative deaths or a rate of 62.99 cumulative deaths per 100,000 population; as of 7 August 2022, 25.30% of the population has received at least one dose of COVID-19 vaccine<br>
+<strong>note:</strong> widespread ongoing transmission of a respiratory illness caused by the novel coronavirus (COVID-19) is occurring throughout Iraq; as of 9 December 2022, Iraq has reported a total of 2,463,296 cases of COVID-19 or 6,124.18 cumulative cases of COVID-19 per 100,000 population with a total of 25,363 cumulative deaths or a rate of 63.06 cumulative deaths per 100,000 population; as of 29 November 2022, 25.41% of the population has received at least one dose of COVID-19 vaccine<br>
 
 **Obesity - adult prevalence rate**<br>
 30.4% (2016)<br>
@@ -228,7 +228,7 @@ _women married by age 15_: 7.2%<br>
 _women married by age 18_: 27.9% (2018 est.)<br>
 
 **Education expenditures**<br>
-NA<br>
+4.7% of GDP (2016)<br>
 
 **Literacy**<br>
 _definition_: age 15 and over can read and write<br>
@@ -267,7 +267,7 @@ _forest_: 1.9% (2018 est.)<br>
 _other_: 80% (2018 est.)<br>
 
 **Urbanization**<br>
-_urban population_: 71.4% of total population (2022)<br>
+_urban population_: 71.6% of total population (2023)<br>
 _rate of urbanization_: 2.91% annual rate of change (2020-25 est.)<br>
 
 **Revenue from forest resources**<br>
@@ -279,7 +279,7 @@ _coal revenues_: 0% of GDP (2018 est.)<br>
 **Major infectious diseases**<br>
 _degree of risk_: intermediate (2020)<br>
 _food or waterborne diseases_: bacterial diarrhea, hepatitis A, and typhoid fever<br>
-<strong>note:</strong> widespread ongoing transmission of a respiratory illness caused by the novel coronavirus (COVID-19) is occurring throughout Iraq; as of 18 August 2022, Iraq has reported a total of 2,454,213 cases of COVID-19 or 6,101.59 cumulative cases of COVID-19 per 100,000 population with a total of 25,338 cumulative deaths or a rate of 62.99 cumulative deaths per 100,000 population; as of 7 August 2022, 25.30% of the population has received at least one dose of COVID-19 vaccine<br>
+<strong>note:</strong> widespread ongoing transmission of a respiratory illness caused by the novel coronavirus (COVID-19) is occurring throughout Iraq; as of 9 December 2022, Iraq has reported a total of 2,463,296 cases of COVID-19 or 6,124.18 cumulative cases of COVID-19 per 100,000 population with a total of 25,363 cumulative deaths or a rate of 63.06 cumulative deaths per 100,000 population; as of 29 November 2022, 25.41% of the population has received at least one dose of COVID-19 vaccine<br>
 
 **Food insecurity**<br>
 _severe localized food insecurity_: <em>due to civil conflict and economic slowdown -</em> the 2022 Humanitarian Needs Overview identified 2.5 million people in need of humanitarian assistance, of which 960,000 have acute humanitarian needs; while the number of people in need remained similar to the previous year, the severity of those needs increased, largely due to the impact of the COVID‑19 pandemic on top of an existing humanitarian crisis, leading to a 35% increase in the number of people in acute need; more than half of these are concentrated in the governorates of Nineveh and Anbar; the number of severely food insecure people is estimated at about 435,000, while 731,000 are vulnerable to food insecurity (2022)<br>

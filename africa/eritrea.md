@@ -126,7 +126,7 @@ _female_: 20.8 years (2020 est.)<br>
 density is highest in the center of the country in and around the cities of Asmara (capital) and Keren; smaller settlements exist in the north and south as shown in this population distribution map<br>
 
 **Urbanization**<br>
-_urban population_: 42.6% of total population (2022)<br>
+_urban population_: 43.3% of total population (2023)<br>
 _rate of urbanization_: 3.67% annual rate of change (2020-25 est.)<br>
 
 **Major urban areas - population**<br>
@@ -255,7 +255,7 @@ _forest_: 15.1% (2018 est.)<br>
 _other_: 9.8% (2018 est.)<br>
 
 **Urbanization**<br>
-_urban population_: 42.6% of total population (2022)<br>
+_urban population_: 43.3% of total population (2023)<br>
 _rate of urbanization_: 3.67% annual rate of change (2020-25 est.)<br>
 
 **Major infectious diseases**<br>

@@ -136,7 +136,7 @@ _female_: 22.1 years (2020 est.)<br>
 the Indus River and its tributaries attract most of the settlement, with Punjab province the most densely populated<br>
 
 **Urbanization**<br>
-_urban population_: 37.7% of total population (2022)<br>
+_urban population_: 38% of total population (2023)<br>
 _rate of urbanization_: 2.1% annual rate of change (2020-25 est.)<br>
 
 **Major urban areas - population**<br>
@@ -207,7 +207,7 @@ _degree of risk_: high (2020)<br>
 _food or waterborne diseases_: bacterial diarrhea, hepatitis A and E, and typhoid fever<br>
 _vectorborne diseases_: dengue fever and malaria<br>
 _animal contact diseases_: rabies<br>
-<strong>note 1:</strong> widespread ongoing transmission of a respiratory illness caused by the novel coronavirus (COVID-19) is occurring throughout Pakistan; as of 18 August 2022, Pakistan has reported a total of 1,564,231 cases of COVID-19 or 708.14 cumulative cases of COVID-19 per 100,000 population with a total of 30,542 cumulative deaths or a rate of 13.82 cumulative deaths per 100,000 population; as of 17 August 2022, 59.98% of the population has received at least one dose of COVID-19 vaccine<br><strong>note 2:</strong> Pakistan is one of two countries with endemic wild polio virus (the other is Afghanistan) and considered high risk for international spread of the disease; before any international travel, anyone unvaccinated, incompletely vaccinated, or with an unknown polio vaccination status should complete the routine polio vaccine series; before travel to any high-risk destination, the US Centers for Disease Control and Prevention (CDC) recommends that adults who previously completed the full, routine polio vaccine series receive a single, lifetime booster dose of polio vaccine<br>
+<strong>note 1:</strong> widespread ongoing transmission of a respiratory illness caused by the novel coronavirus (COVID-19) is occurring throughout Pakistan; as of 9 December 2022, Pakistan has reported a total of 1,575,382 cases of COVID-19 or 713.19 cumulative cases of COVID-19 per 100,000 population with a total of 30,634 cumulative deaths or a rate of 13.86 cumulative deaths per 100,000 population; as of 8 December 2022, 59.22% of the population has received at least one dose of COVID-19 vaccine<br><strong>note 2:</strong> Pakistan is one of two countries with endemic wild polio virus (the other is Afghanistan) and considered high risk for international spread of the disease; before any international travel, anyone unvaccinated, incompletely vaccinated, or with an unknown polio vaccination status should complete the routine polio vaccine series; before travel to any high-risk destination, the US Centers for Disease Control and Prevention (CDC) recommends that adults who previously completed the full, routine polio vaccine series receive a single, lifetime booster dose of polio vaccine<br>
 
 **Obesity - adult prevalence rate**<br>
 8.6% (2016)<br>
@@ -233,7 +233,7 @@ _women married by age 18_: 18.3%<br>
 _men married by age 18_: 4.7% (2018 est.)<br>
 
 **Education expenditures**<br>
-2.5% of GDP (2019 est.)<br>
+2.4% of GDP (2021 est.)<br>
 
 **Literacy**<br>
 _definition_: age 15 and over can read and write<br>
@@ -247,9 +247,9 @@ _male_: 9 years<br>
 _female_: 8 years (2019)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 7.9%<br>
-_male_: 8.2%<br>
-_female_: 6.8% (2018 est.)<br>
+_total_: 11.1%<br>
+_male_: 10%<br>
+_female_: 14.4% (2021 est.)<br>
 
 ## Environment
 
@@ -277,7 +277,7 @@ _forest_: 2.1% (2018 est.)<br>
 _other_: 62.7% (2018 est.)<br>
 
 **Urbanization**<br>
-_urban population_: 37.7% of total population (2022)<br>
+_urban population_: 38% of total population (2023)<br>
 _rate of urbanization_: 2.1% annual rate of change (2020-25 est.)<br>
 
 **Revenue from forest resources**<br>
@@ -291,7 +291,7 @@ _degree of risk_: high (2020)<br>
 _food or waterborne diseases_: bacterial diarrhea, hepatitis A and E, and typhoid fever<br>
 _vectorborne diseases_: dengue fever and malaria<br>
 _animal contact diseases_: rabies<br>
-<strong>note 1:</strong> widespread ongoing transmission of a respiratory illness caused by the novel coronavirus (COVID-19) is occurring throughout Pakistan; as of 18 August 2022, Pakistan has reported a total of 1,564,231 cases of COVID-19 or 708.14 cumulative cases of COVID-19 per 100,000 population with a total of 30,542 cumulative deaths or a rate of 13.82 cumulative deaths per 100,000 population; as of 17 August 2022, 59.98% of the population has received at least one dose of COVID-19 vaccine<br><strong>note 2:</strong> Pakistan is one of two countries with endemic wild polio virus (the other is Afghanistan) and considered high risk for international spread of the disease; before any international travel, anyone unvaccinated, incompletely vaccinated, or with an unknown polio vaccination status should complete the routine polio vaccine series; before travel to any high-risk destination, the US Centers for Disease Control and Prevention (CDC) recommends that adults who previously completed the full, routine polio vaccine series receive a single, lifetime booster dose of polio vaccine<br>
+<strong>note 1:</strong> widespread ongoing transmission of a respiratory illness caused by the novel coronavirus (COVID-19) is occurring throughout Pakistan; as of 9 December 2022, Pakistan has reported a total of 1,575,382 cases of COVID-19 or 713.19 cumulative cases of COVID-19 per 100,000 population with a total of 30,634 cumulative deaths or a rate of 13.86 cumulative deaths per 100,000 population; as of 8 December 2022, 59.22% of the population has received at least one dose of COVID-19 vaccine<br><strong>note 2:</strong> Pakistan is one of two countries with endemic wild polio virus (the other is Afghanistan) and considered high risk for international spread of the disease; before any international travel, anyone unvaccinated, incompletely vaccinated, or with an unknown polio vaccination status should complete the routine polio vaccine series; before travel to any high-risk destination, the US Centers for Disease Control and Prevention (CDC) recommends that adults who previously completed the full, routine polio vaccine series receive a single, lifetime booster dose of polio vaccine<br>
 
 **Food insecurity**<br>
 _severe localized food insecurity_: <em>due to population displacements, economic constraints, and high prices of the main food staple -</em> according to the latest analysis, about 4.7 million people, 25% of the population, are estimated to be facing high levels of acute food insecurity, between April and June 2022 in 25 districts analyzed in Balochistan, Sindh and Khyber Pakhtunkhwa provinces; prices of wheat flour, the country’s main staple, were at high levels in most markets in May 2022, constraining access to the staple food (2022)<br>
@@ -495,9 +495,9 @@ _services_: 35.1% (FY2015 est.)<br>
 <strong>note:</strong> Pakistan has substantial underemployment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 7.9%<br>
-_male_: 8.2%<br>
-_female_: 6.8% (2018 est.)<br>
+_total_: 11.1%<br>
+_male_: 10%<br>
+_female_: 14.4% (2021 est.)<br>
 
 **Population below poverty line**<br>
 24.3% (2015 est.)<br>

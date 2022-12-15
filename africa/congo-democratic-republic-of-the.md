@@ -139,7 +139,7 @@ _female_: 16.8 years (2020 est.)<br>
 urban clusters are spread throughout the country, particularly in the northeast along the border with Uganda, Rwanda, and Burundi; the largest city is the capital, Kinshasha, located in the west along the Congo River; the south is least densely populated as shown in this population distribution map<br>
 
 **Urbanization**<br>
-_urban population_: 46.8% of total population (2022)<br>
+_urban population_: 47.4% of total population (2023)<br>
 _rate of urbanization_: 4.33% annual rate of change (2020-25 est.)<br>
 
 **Major urban areas - population**<br>
@@ -234,7 +234,7 @@ _women married by age 18_: 0.1%<br>
 _men married by age 18_: 0% (2017 est.)<br>
 
 **Education expenditures**<br>
-1.5% of GDP (2017 est.)<br>
+2.7% of GDP (2021 est.)<br>
 
 **Literacy**<br>
 _definition_: age 15 and over can read and write French, Lingala, Kingwana, or Tshiluba<br>
@@ -278,7 +278,7 @@ _forest_: 67.9% (2018 est.)<br>
 _other_: 20.7% (2018 est.)<br>
 
 **Urbanization**<br>
-_urban population_: 46.8% of total population (2022)<br>
+_urban population_: 47.4% of total population (2023)<br>
 _rate of urbanization_: 4.33% annual rate of change (2020-25 est.)<br>
 
 **Revenue from forest resources**<br>

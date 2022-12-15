@@ -235,7 +235,7 @@ _women married by age 18_: 29%<br>
 _men married by age 18_: 2.8% (2018 est.)<br>
 
 **Education expenditures**<br>
-4.5% of GDP (2019)<br>
+3.7% of GDP (2020)<br>
 
 **Literacy**<br>
 _definition_: age 15 and over can read and write English<br>
@@ -244,9 +244,9 @@ _male_: 90.6%<br>
 _female_: 83.1% (2018)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 30.1%<br>
-_male_: 32.1%<br>
-_female_: 27.6% (2019 est.)<br>
+_total_: 11%<br>
+_male_: 11.4%<br>
+_female_: 10.6% (2020 est.)<br>
 
 ## Environment
 
@@ -369,9 +369,9 @@ _elections/appointments_: president directly elected by absolute majority popula
 _election results_: <em><br>2021</em>: Hakainde HICHILEMA elected president; percent of the vote -   Hakainde HICHILEMA (UPND) 57.9%, Edgar LUNGU (PF) 37.3%, other 4.8%<br><br><em>2016</em>: Edgar LUNGU re-elected president; percent of vote - Edgar LUNGU (PF) 50.4%, Hakainde HICHILEMA (UPND) 47.6%, other 2%<br>
 
 **Legislative branch**<br>
-_description_: unicameral National Assembly (167 seats; 156 members directly elected in single-seat constituencies by simple majority vote in 2 rounds if needed, and up to 8 appointed by the president; members serve 5-year terms); 3 ex-officio members elected by National Assembly membership<br>
+_description_: unicameral National Assembly (167 seats statutory, 166 seats current; 156 members directly elected in single-seat constituencies by simple majority vote in 2 rounds if needed, and up to 8 appointed by the president; members serve 5-year terms); 3 ex-officio members elected by National Assembly membership<br>
 _elections_: last held on 12 August 2021 (next to be held in 2026)<br>
-_election results_: percent of vote by party - UPND 53.9%, PF 38.1%, PNUP 0.6%, independent 7.4%; seats by party - UPND 82, PF 62, PNUP 1, independent 11; composition - men 136, women 20, percent of women 13.5%; 156 seats filled;&nbsp;<br>
+_election results_: percent of vote by party - UPND 53.9%, PF 38.1%, PNUP 0.6%, independent 7.4%; seats by party - UPND 82, PF 62, PNUP 1, independent 11; composition - men 136, women 20, percent of women 13.5%; composition - men 141, women 25, percent of women 15.1%<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme Court (consists of the chief justice, deputy chief justice, and at least 11 judges); Constitutional Court (consists of the court president, vice president, and 11 judges); note - the Constitutional Court began operation in June 2016<br>
@@ -485,9 +485,9 @@ _services_: 35.3% (2017 est.)<br>
 50% (2000 est.)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 30.1%<br>
-_male_: 32.1%<br>
-_female_: 27.6% (2019 est.)<br>
+_total_: 11%<br>
+_male_: 11.4%<br>
+_female_: 10.6% (2020 est.)<br>
 
 **Population below poverty line**<br>
 54.4% (2015 est.)<br>

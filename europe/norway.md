@@ -213,7 +213,7 @@ _female_: 15.4% (2020 est.)<br>
 NA<br>
 
 **Education expenditures**<br>
-7.6% of GDP (2018 est.)<br>
+5.9% of GDP (2020 est.)<br>
 
 **Literacy**<br>
 _total population_: NA<br>
@@ -223,12 +223,12 @@ _female_: NA<br>
 **School life expectancy (primary to tertiary education)**<br>
 _total_: 18 years<br>
 _male_: 18 years<br>
-_female_: 19 years (2019)<br>
+_female_: 19 years (2020)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 11.3%<br>
-_male_: 12.1%<br>
-_female_: 10.5% (2020 est.)<br>
+_total_: 12.6%<br>
+_male_: 13.3%<br>
+_female_: 11.8% (2021 est.)<br>
 
 ## Environment
 
@@ -453,9 +453,9 @@ _services_: 78.6% (2016 est.)<br>
 3.89% (2018 est.)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 11.3%<br>
-_male_: 12.1%<br>
-_female_: 10.5% (2020 est.)<br>
+_total_: 12.6%<br>
+_male_: 13.3%<br>
+_female_: 11.8% (2021 est.)<br>
 
 **Population below poverty line**<br>
 12.7% (2018 est.)<br>
@@ -670,7 +670,7 @@ _LNG terminal(s) (export)_: Kamoy, Kollsnes, Melkoya Island, Tjeldbergodden<br>
 _LNG terminal(s) (import)_: Fredrikstad, Mosjoen<br>
 
 **Transportation - note**<br>
-Norway operates one PC 3 or 4 class icebreaker and one PC 5 or 6 class icebreaker in the Arctic Ocean<br><strong>note </strong>- PC 3 - Year-round operation in second-year ice which may include multi-year ice inclusions (ice thickness up to 2.5 m); PC 4 - Year-round operation in thick first-year ice which may include old ice inclusions (ice thickness up to 120 cm); PC 5 - Year-round operation in medium first-year ice which may include old ice inclusions (ice thickness up to 70-120 cm); PC 6 - Summer/autumn operation in medium first-year ice which may include old ice inclusions (ice thickness up to 30-70 cm)<br>
+Norway operates one PC 3 or 4 class icebreaker and one PC 5 or 6 class icebreaker in the Arctic Ocean<br>note - PC indicates a Polar Class vessel: PC 3 - year-round operation in second-year ice which may include multi-year ice inclusions (ice thickness up to 2.5 m); PC 4 - year-round operation in thick first-year ice which may include old ice inclusions (ice thickness up to 120 cm); PC 5 - year-round operation in medium first-year ice which may include old ice inclusions (ice thickness up to 70-120 cm); PC 6 - summer/autumn operation in medium first-year ice which may include old ice inclusions (ice thickness up to 30-70 cm)<br>
 
 ## Military and Security
 
@@ -708,6 +708,6 @@ Norway is a member of NATO and was one of the original 12 countries to sign the 
 <p><em>Norway-Antarctica</em>: Norway asserts a territorial claim in Antarctica (Queen Maud Land and its continental shelf)</p> <p><em>Norway-Russia</em>: Russia amended its 2001 CLCS submission in 2015 and 2021, each time delineating the outer limits of its continental shelf further into the Arctic Ocean; Norway and Russia signed a comprehensive maritime boundary agreement in 2010, ending a dispute over an area of the Barents Sea by dividing the territory equally</p> <p><em>Norway-Sweden</em>: none identified</p> <p> </p> <p> </p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 15,542 (Syria), 11,965 (Eritrea) (mid-year 2021); 32,102 (Ukraine) (as of 15 November 2022)<br>
+_refugees (country of origin)_: 15,542 (Syria), 11,965 (Eritrea) (mid-year 2021); 34,005 (Ukraine) (as of 6 December 2022)<br>
 _stateless persons_: 4,154 (mid-year 2021)<br>
 

@@ -130,7 +130,7 @@ _female_: 17.6 years (2020 est.)<br>
 the population is primarily located in the south, with the highest concentration of people residing in and around the cities on the Atlantic coast; most of the north remains sparsely populated with higher concentrations of residents in the west at shown in this population distribution map<br>
 
 **Urbanization**<br>
-_urban population_: 49.5% of total population (2022)<br>
+_urban population_: 50.1% of total population (2023)<br>
 _rate of urbanization_: 3.74% annual rate of change (2020-25 est.)<br>
 
 **Major urban areas - population**<br>
@@ -228,7 +228,7 @@ _women married by age 18_: 30.6%<br>
 _men married by age 18_: 4.8% (2018 est.)<br>
 
 **Education expenditures**<br>
-3% of GDP (2019 est.)<br>
+3% of GDP (2020 est.)<br>
 
 **Literacy**<br>
 _definition_: age 15 and over can read and write<br>
@@ -237,9 +237,9 @@ _male_: 54%<br>
 _female_: 31.1% (2018)<br>
 
 **School life expectancy (primary to tertiary education)**<br>
-_total_: 13 years<br>
-_male_: 14 years<br>
-_female_: 11 years (2016)<br>
+_total_: 11 years<br>
+_male_: 12 years<br>
+_female_: 10 years (2020)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
 _total_: 3.9%<br>
@@ -272,7 +272,7 @@ _forest_: 40% (2018 est.)<br>
 _other_: 28.7% (2018 est.)<br>
 
 **Urbanization**<br>
-_urban population_: 49.5% of total population (2022)<br>
+_urban population_: 50.1% of total population (2023)<br>
 _rate of urbanization_: 3.74% annual rate of change (2020-25 est.)<br>
 
 **Revenue from forest resources**<br>

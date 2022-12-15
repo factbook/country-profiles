@@ -140,7 +140,7 @@ _female_: 18.9 years (2020 est.)<br>
 largest population of any African nation; significant population clusters are scattered throughout the country, with the highest density areas being in the south and southwest as shown in this population distribution map<br>
 
 **Urbanization**<br>
-_urban population_: 53.5% of total population (2022)<br>
+_urban population_: 54.3% of total population (2023)<br>
 _rate of urbanization_: 3.92% annual rate of change (2020-25 est.)<br>
 
 **Major urban areas - population**<br>
@@ -211,7 +211,7 @@ _water contact diseases_: leptospirosis and schistosomiasis<br>
 _animal contact diseases_: rabies<br>
 _respiratory diseases_: meningococcal meningitis<br>
 _aerosolized dust or soil contact diseases_: Lassa fever<br>
-<strong>note 1:</strong> on 4 May 2022, the Centers for Disease Control and Prevention issued a Travel Health Notice for a Yellow Fever outbreak in Nigeria; a large, ongoing outbreak of yellow fever in Nigeria began in September 2017; the outbreak is now spread throughout the country with the Nigerian Ministry of Health reporting cases of the disease in multiple states (Bauchi, Benue, Delta, Ebonyi, and Enugu); the CDC recommends travelers going to Nigeria should receive vaccination against yellow fever at least 10 days before travel and should take steps to prevent mosquito bites while there; those never vaccinated against yellow fever should avoid travel to Nigeria during the outbreak<br><br><strong>note 2:</strong> widespread ongoing transmission of a respiratory illness caused by the novel coronavirus (COVID-19) is occurring throughout Nigeria; as of 18 August 2022, Nigeria has reported a total of 262,664 cases of COVID-19 or 127.42 cumulative cases of COVID-19 per 100,000 population with a total of 3,147 cumulative deaths or a rate of 1.52 cumulative death per 100,000 population<br> <strong>note 3: </strong>on 21 March 2022, the US Centers for Disease Control and Prevention (CDC) issued a Travel Alert for polio in Africa; Nigeria is currently considered a high risk to travelers for circulating vaccine-derived polioviruses (cVDPV); vaccine-derived poliovirus (VDPV) is a strain of the weakened poliovirus that was initially included in oral polio vaccine (OPV) and <em>that has changed over time and behaves more like the wild or naturally occurring virus</em>; this means it can be spread more easily to people who are unvaccinated against polio and who come in contact with the stool or respiratory secretions, such as from a sneeze, of an “infected” person who received oral polio vaccine; the CDC recommends that before any international travel, anyone unvaccinated, incompletely vaccinated, or with an unknown polio vaccination status should complete the routine polio vaccine series; before travel to any high-risk destination, the CDC recommends that adults who previously completed the full, routine polio vaccine series receive a single, lifetime booster dose of polio vaccine<br>
+<strong>note 1:</strong> on 4 May 2022, the Centers for Disease Control and Prevention issued a Travel Health Notice for a Yellow Fever outbreak in Nigeria; a large, ongoing outbreak of yellow fever in Nigeria began in September 2017; the outbreak is now spread throughout the country with the Nigerian Ministry of Health reporting cases of the disease in multiple states (Bauchi, Benue, Delta, Ebonyi, and Enugu); the CDC recommends travelers going to Nigeria should receive vaccination against yellow fever at least 10 days before travel and should take steps to prevent mosquito bites while there; those never vaccinated against yellow fever should avoid travel to Nigeria during the outbreak<br><br><strong>note 2:</strong> widespread ongoing transmission of a respiratory illness caused by the novel coronavirus (COVID-19) is occurring throughout Nigeria; as of 9 December 2022, Nigeria has reported a total of 266,283 cases of COVID-19 or 129.17 cumulative cases of COVID-19 per 100,000 population with a total of 3,155 cumulative deaths or a rate of 1.53 cumulative death per 100,000 population; as of 13 November 2022, 29.28% of the population has received at least one dose of COVID-19 vaccine<br> <strong>note 3: </strong>on 21 March 2022, the US Centers for Disease Control and Prevention (CDC) issued a Travel Alert for polio in Africa; Nigeria is currently considered a high risk to travelers for circulating vaccine-derived polioviruses (cVDPV); vaccine-derived poliovirus (VDPV) is a strain of the weakened poliovirus that was initially included in oral polio vaccine (OPV) and <em>that has changed over time and behaves more like the wild or naturally occurring virus</em>; this means it can be spread more easily to people who are unvaccinated against polio and who come in contact with the stool or respiratory secretions, such as from a sneeze, of an “infected” person who received oral polio vaccine; the CDC recommends that before any international travel, anyone unvaccinated, incompletely vaccinated, or with an unknown polio vaccination status should complete the routine polio vaccine series; before travel to any high-risk destination, the CDC recommends that adults who previously completed the full, routine polio vaccine series receive a single, lifetime booster dose of polio vaccine<br>
 
 **Obesity - adult prevalence rate**<br>
 8.9% (2016)<br>
@@ -237,7 +237,7 @@ _women married by age 18_: 43.4%<br>
 _men married by age 18_: 3.2% (2018 est.)<br>
 
 **Education expenditures**<br>
-NA<br>
+0.5% of GDP (2013)<br>
 
 **Literacy**<br>
 _definition_: age 15 and over can read and write<br>
@@ -245,15 +245,10 @@ _total population_: 62%<br>
 _male_: 71.3%<br>
 _female_: 52.7% (2018)<br>
 
-**School life expectancy (primary to tertiary education)**<br>
-_total_: 9 years<br>
-_male_: 9 years<br>
-_female_: 8 years (2011)<br>
-
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 18.3%<br>
-_male_: 18.4% NA<br>
-_female_: 18.2% (2019 est.) NA<br>
+_total_: 29.9%<br>
+_male_: 26.8% NA<br>
+_female_: 33.5% (2019 est.) NA<br>
 
 ## Environment
 
@@ -281,7 +276,7 @@ _forest_: 9.5% (2018 est.)<br>
 _other_: 12.5% (2018 est.)<br>
 
 **Urbanization**<br>
-_urban population_: 53.5% of total population (2022)<br>
+_urban population_: 54.3% of total population (2023)<br>
 _rate of urbanization_: 3.92% annual rate of change (2020-25 est.)<br>
 
 **Revenue from forest resources**<br>
@@ -298,7 +293,7 @@ _water contact diseases_: leptospirosis and schistosomiasis<br>
 _animal contact diseases_: rabies<br>
 _respiratory diseases_: meningococcal meningitis<br>
 _aerosolized dust or soil contact diseases_: Lassa fever<br>
-<strong>note 1:</strong> on 4 May 2022, the Centers for Disease Control and Prevention issued a Travel Health Notice for a Yellow Fever outbreak in Nigeria; a large, ongoing outbreak of yellow fever in Nigeria began in September 2017; the outbreak is now spread throughout the country with the Nigerian Ministry of Health reporting cases of the disease in multiple states (Bauchi, Benue, Delta, Ebonyi, and Enugu); the CDC recommends travelers going to Nigeria should receive vaccination against yellow fever at least 10 days before travel and should take steps to prevent mosquito bites while there; those never vaccinated against yellow fever should avoid travel to Nigeria during the outbreak<br><br><strong>note 2:</strong> widespread ongoing transmission of a respiratory illness caused by the novel coronavirus (COVID-19) is occurring throughout Nigeria; as of 18 August 2022, Nigeria has reported a total of 262,664 cases of COVID-19 or 127.42 cumulative cases of COVID-19 per 100,000 population with a total of 3,147 cumulative deaths or a rate of 1.52 cumulative death per 100,000 population<br> <strong>note 3: </strong>on 21 March 2022, the US Centers for Disease Control and Prevention (CDC) issued a Travel Alert for polio in Africa; Nigeria is currently considered a high risk to travelers for circulating vaccine-derived polioviruses (cVDPV); vaccine-derived poliovirus (VDPV) is a strain of the weakened poliovirus that was initially included in oral polio vaccine (OPV) and <em>that has changed over time and behaves more like the wild or naturally occurring virus</em>; this means it can be spread more easily to people who are unvaccinated against polio and who come in contact with the stool or respiratory secretions, such as from a sneeze, of an “infected” person who received oral polio vaccine; the CDC recommends that before any international travel, anyone unvaccinated, incompletely vaccinated, or with an unknown polio vaccination status should complete the routine polio vaccine series; before travel to any high-risk destination, the CDC recommends that adults who previously completed the full, routine polio vaccine series receive a single, lifetime booster dose of polio vaccine<br>
+<strong>note 1:</strong> on 4 May 2022, the Centers for Disease Control and Prevention issued a Travel Health Notice for a Yellow Fever outbreak in Nigeria; a large, ongoing outbreak of yellow fever in Nigeria began in September 2017; the outbreak is now spread throughout the country with the Nigerian Ministry of Health reporting cases of the disease in multiple states (Bauchi, Benue, Delta, Ebonyi, and Enugu); the CDC recommends travelers going to Nigeria should receive vaccination against yellow fever at least 10 days before travel and should take steps to prevent mosquito bites while there; those never vaccinated against yellow fever should avoid travel to Nigeria during the outbreak<br><br><strong>note 2:</strong> widespread ongoing transmission of a respiratory illness caused by the novel coronavirus (COVID-19) is occurring throughout Nigeria; as of 9 December 2022, Nigeria has reported a total of 266,283 cases of COVID-19 or 129.17 cumulative cases of COVID-19 per 100,000 population with a total of 3,155 cumulative deaths or a rate of 1.53 cumulative death per 100,000 population; as of 13 November 2022, 29.28% of the population has received at least one dose of COVID-19 vaccine<br> <strong>note 3: </strong>on 21 March 2022, the US Centers for Disease Control and Prevention (CDC) issued a Travel Alert for polio in Africa; Nigeria is currently considered a high risk to travelers for circulating vaccine-derived polioviruses (cVDPV); vaccine-derived poliovirus (VDPV) is a strain of the weakened poliovirus that was initially included in oral polio vaccine (OPV) and <em>that has changed over time and behaves more like the wild or naturally occurring virus</em>; this means it can be spread more easily to people who are unvaccinated against polio and who come in contact with the stool or respiratory secretions, such as from a sneeze, of an “infected” person who received oral polio vaccine; the CDC recommends that before any international travel, anyone unvaccinated, incompletely vaccinated, or with an unknown polio vaccination status should complete the routine polio vaccine series; before travel to any high-risk destination, the CDC recommends that adults who previously completed the full, routine polio vaccine series receive a single, lifetime booster dose of polio vaccine<br>
 
 **Food insecurity**<br>
 _widespread lack of access_: <em><em>due to persistent civil conflict in the northern areas, </em></em><em>localized shortfalls in cereal production, and high food prices </em><em>-</em> according to the latest analysis, about 19.45 million people were projected to be in need of humanitarian food assistance between June and August 2022, owing to the deterioration of security conditions and conflicts in northern states, localized shortfalls in staple food production, high food prices and reduced incomes;as of September 2022, flood affected about 190,000 people in areas already affected by high levels of food insecurity, malnutrition and violence in northeastern states (2022)<br>
@@ -496,9 +491,9 @@ _services_: 20% (1999 est.)<br>
 13.9% (2016 est.)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 18.3%<br>
-_male_: 18.4% NA<br>
-_female_: 18.2% (2019 est.) NA<br>
+_total_: 29.9%<br>
+_male_: 26.8% NA<br>
+_female_: 33.5% (2019 est.) NA<br>
 
 **Population below poverty line**<br>
 40.1% (2018 est.)<br>

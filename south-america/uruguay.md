@@ -221,7 +221,7 @@ _female_: 18.5% (2020 est.)<br>
 1.8% (2018)<br>
 
 **Education expenditures**<br>
-4.7% of GDP (2019 est.)<br>
+4.6% of GDP (2020 est.)<br>
 
 **Literacy**<br>
 _definition_: age 15 and over can read and write<br>
@@ -235,9 +235,9 @@ _male_: 17 years<br>
 _female_: 20 years (2019)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 33.5%<br>
-_male_: 29.4%<br>
-_female_: 38.8% (2020 est.)<br>
+_total_: 33.1%<br>
+_male_: 29%<br>
+_female_: 38.5% (2020 est.)<br>
 
 ## Environment
 
@@ -353,7 +353,7 @@ _election results_: <br><em>2019:</em> Luis Alberto LACALLE POU elected presiden
 **Legislative branch**<br>
 _description_: bicameral General Assembly or Asamblea General consists of:<br>Chamber of Senators or Camara de Senadores (30 seats; members directly elected in a single nationwide constituency by proportional representation vote; the vice-president serves as the presiding ex-officio member; elected members serve 5-year terms)<br>Chamber of Representatives or Camara de Representantes (99 seats; members directly elected in multi-seat constituencies by party-list proportional representation vote using the D'Hondt method; members serve 5-year terms)<br>
 _elections_: <br>Chamber of Senators - last held on 27 October 2019 (next to be held in October 2024) <br>Chamber of Representatives - last held on 27 October 2019 (next to be held in October 2024)<br>
-_election results_: <br>Chamber of Senators - percent of vote by coalition/party - NA; seats by coalition/party - Frente Amplio 13, National Party 10, Colorado Party 4, Open Cabildo 3; composition - men 21, women 9, percent of women 30%<br><br>Chamber of Representatives - percent of vote by coalition/party - NA; seats by coalition/party - Frente Amplio 42, National Party 30, Colorado Party 13, Open Cabildo 11, Independent Party 1, other 2; composition - men 75, women 24, percent of women 24.2%; note - total General Assembly percent of women 25.6%<br>
+_election results_: <br>Chamber of Senators - percent of vote by coalition/party - NA; seats by coalition/party - Frente Amplio 13, National Party 10, Colorado Party 4, Open Cabildo 3; composition - men 21, women 10, percent of women 25.3%%<br><br>Chamber of Representatives - percent of vote by coalition/party - NA; seats by coalition/party - Frente Amplio 42, National Party 30, Colorado Party 13, Open Cabildo 11, Independent Party 1, other 2; composition - men 74, women 25, percent of women 25.3%; note - total General Assembly percent of women 26.9%<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme Court of Justice (consists of 5 judges)<br>
@@ -469,9 +469,9 @@ _services_: 73% (2010 est.)<br>
 7.9% (2016 est.)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 33.5%<br>
-_male_: 29.4%<br>
-_female_: 38.8% (2020 est.)<br>
+_total_: 33.1%<br>
+_male_: 29%<br>
+_female_: 38.5% (2020 est.)<br>
 
 **Population below poverty line**<br>
 8.8% (2019 est.)<br>

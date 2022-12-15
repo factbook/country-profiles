@@ -136,7 +136,7 @@ _female_: 29.7 years (2020 est.)<br>
 the most densely populated areas are the southern, eastern, and northeastern oases; approximately 50% of the population lives in and around the capital of Ashgabat<br>
 
 **Urbanization**<br>
-_urban population_: 53.5% of total population (2022)<br>
+_urban population_: 54% of total population (2023)<br>
 _rate of urbanization_: 2.23% annual rate of change (2020-25 est.)<br>
 
 **Major urban areas - population**<br>
@@ -263,7 +263,7 @@ _forest_: 8.8% (2018 est.)<br>
 _other_: 19.2% (2018 est.)<br>
 
 **Urbanization**<br>
-_urban population_: 53.5% of total population (2022)<br>
+_urban population_: 54% of total population (2023)<br>
 _rate of urbanization_: 2.23% annual rate of change (2020-25 est.)<br>
 
 **Revenue from forest resources**<br>

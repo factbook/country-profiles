@@ -213,7 +213,7 @@ _female_: 19.2% (2020 est.)<br>
 16.2% (2015)<br>
 
 **Education expenditures**<br>
-10.1% of GDP (2015 est.)<br>
+12.8% of GDP (2020 est.)<br>
 
 **Literacy**<br>
 _total population_: NA<br>

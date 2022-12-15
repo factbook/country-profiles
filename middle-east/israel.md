@@ -46,7 +46,7 @@ Negev desert in the south; low coastal plain; central mountains; Jordan Rift Val
 **Elevation**<br>
 _highest point_: Mitspe Shlagim 2,224 m; note - this is the highest named point, the actual highest point is an unnamed dome slightly to the west of Mitspe Shlagim at 2,236 m; both points are on the northeastern border of Israel, along the southern end of the Anti-Lebanon mountain range<br>
 _lowest point_: Dead Sea -431 m<br>
-_mean elevation_: 508 m note - does not include elevation data from the Golan Heights<br>
+_mean elevation_: 508 m<br>
 
 **Natural resources**<br>
 timber, potash, copper ore, natural gas, phosphate rock, magnesium bromide, clays, sand<br>
@@ -128,7 +128,7 @@ _female_: 31 years (2020 est.)<br>
 population concentrated in and around Tel-Aviv, as well as around the Sea of Galilee; the south remains sparsely populated with the exception of the shore of the Gulf of Aqaba<br>
 
 **Urbanization**<br>
-_urban population_: 92.8% of total population (2022)<br>
+_urban population_: 92.9% of total population (2023)<br>
 _rate of urbanization_: 1.51% annual rate of change (2020-25 est.)<br>
 
 **Major urban areas - population**<br>
@@ -191,7 +191,7 @@ _unimproved: rural_: rural: 0.7% of population<br>
 _unimproved: total_: total: 0.1% of population (2020 est.)<br>
 
 **Major infectious diseases**<br>
-<p><strong>note: </strong>on 21 March 2022, the US Centers for Disease Control and Prevention (CDC) issued a Travel Alert for polio in Asia; Israel is currently considered a high risk to travelers for circulating vaccine-derived polioviruses (cVDPV); vaccine-derived poliovirus (VDPV) is a strain of the weakened poliovirus that was initially included in oral polio vaccine (OPV) and <em>that has changed over time and behaves more like the wild or naturally occurring virus</em>; this means it can be spread more easily to people who are unvaccinated against polio and who come in contact with the stool or respiratory secretions, such as from a sneeze, of an “infected” person who received oral polio vaccine; the CDC recommends that before any international travel, anyone unvaccinated, incompletely vaccinated, or with an unknown polio vaccination status should complete the routine polio vaccine series; before travel to any high-risk destination, the CDC recommends that adults who previously completed the full, routine polio vaccine series receive a single, lifetime booster dose of polio vaccine</p><br>
+<p><strong>note: </strong>on 21 March 2022, the US Centers for Disease Control and Prevention (CDC) issued a Travel Alert for polio in Asia; Israel is currently considered a high risk to travelers for circulating vaccine-derived polioviruses (cVDPV); vaccine-derived poliovirus (VDPV) is a strain of the weakened poliovirus that was initially included in oral polio vaccine (OPV) and that has changed over time and behaves more like the wild or naturally occurring virus; this means it can be spread more easily to people who are unvaccinated against polio and who come in contact with the stool or respiratory secretions, such as from a sneeze, of an “infected” person who received oral polio vaccine; the CDC recommends that before any international travel, anyone unvaccinated, incompletely vaccinated, or with an unknown polio vaccination status should complete the routine polio vaccine series; before travel to any high-risk destination, the CDC recommends that adults who previously completed the full, routine polio vaccine series receive a single, lifetime booster dose of polio vaccine</p><br>
 
 **Obesity - adult prevalence rate**<br>
 26.1% (2016)<br>
@@ -212,7 +212,7 @@ _female_: 13.5% (2020 est.)<br>
 NA<br>
 
 **Education expenditures**<br>
-6.2% of GDP (2018 est.)<br>
+7.1% of GDP (2020 est.)<br>
 
 **Literacy**<br>
 _definition_: age 15 and over can read and write<br>
@@ -223,7 +223,7 @@ _female_: 96.8% (2011)<br>
 **School life expectancy (primary to tertiary education)**<br>
 _total_: 16 years<br>
 _male_: 15 years<br>
-_female_: 17 years (2019)<br>
+_female_: 17 years (2020)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
 _total_: 7.9%<br>
@@ -256,7 +256,7 @@ _forest_: 7.1% (2018 est.)<br>
 _other_: 69.1% (2018 est.)<br>
 
 **Urbanization**<br>
-_urban population_: 92.8% of total population (2022)<br>
+_urban population_: 92.9% of total population (2023)<br>
 _rate of urbanization_: 1.51% annual rate of change (2020-25 est.)<br>
 
 **Revenue from forest resources**<br>
@@ -266,7 +266,7 @@ _forest revenues_: 0% of GDP (2018 est.)<br>
 _coal revenues_: 0% of GDP (2018 est.)<br>
 
 **Major infectious diseases**<br>
-<p><strong>note: </strong>on 21 March 2022, the US Centers for Disease Control and Prevention (CDC) issued a Travel Alert for polio in Asia; Israel is currently considered a high risk to travelers for circulating vaccine-derived polioviruses (cVDPV); vaccine-derived poliovirus (VDPV) is a strain of the weakened poliovirus that was initially included in oral polio vaccine (OPV) and <em>that has changed over time and behaves more like the wild or naturally occurring virus</em>; this means it can be spread more easily to people who are unvaccinated against polio and who come in contact with the stool or respiratory secretions, such as from a sneeze, of an “infected” person who received oral polio vaccine; the CDC recommends that before any international travel, anyone unvaccinated, incompletely vaccinated, or with an unknown polio vaccination status should complete the routine polio vaccine series; before travel to any high-risk destination, the CDC recommends that adults who previously completed the full, routine polio vaccine series receive a single, lifetime booster dose of polio vaccine</p><br>
+<p><strong>note: </strong>on 21 March 2022, the US Centers for Disease Control and Prevention (CDC) issued a Travel Alert for polio in Asia; Israel is currently considered a high risk to travelers for circulating vaccine-derived polioviruses (cVDPV); vaccine-derived poliovirus (VDPV) is a strain of the weakened poliovirus that was initially included in oral polio vaccine (OPV) and that has changed over time and behaves more like the wild or naturally occurring virus; this means it can be spread more easily to people who are unvaccinated against polio and who come in contact with the stool or respiratory secretions, such as from a sneeze, of an “infected” person who received oral polio vaccine; the CDC recommends that before any international travel, anyone unvaccinated, incompletely vaccinated, or with an unknown polio vaccination status should complete the routine polio vaccine series; before travel to any high-risk destination, the CDC recommends that adults who previously completed the full, routine polio vaccine series receive a single, lifetime booster dose of polio vaccine</p><br>
 
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 5.4 million tons (2015 est.)<br>

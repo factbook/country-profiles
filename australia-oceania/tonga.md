@@ -215,7 +215,7 @@ _women married by age 18_: 10.1%<br>
 _men married by age 18_: 2.8% (2019 est.)<br>
 
 **Education expenditures**<br>
-8% of GDP (2019 est.)<br>
+6.6% of GDP (2021 est.)<br>
 
 **Literacy**<br>
 _definition_: can read and write Tongan and/or English<br>
@@ -229,9 +229,9 @@ _male_: 15 years<br>
 _female_: 17 years (2020)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 8.9%<br>
-_male_: 5.7%<br>
-_female_: 13.1% (2018)<br>
+_total_: 6.7%<br>
+_male_: 3.4%<br>
+_female_: 11.7% (2018)<br>
 
 ## Environment
 
@@ -436,9 +436,9 @@ _services_: 2,006% (2006 est.)<br>
 1.1% (2006)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 8.9%<br>
-_male_: 5.7%<br>
-_female_: 13.1% (2018)<br>
+_total_: 6.7%<br>
+_male_: 3.4%<br>
+_female_: 11.7% (2018)<br>
 
 **Population below poverty line**<br>
 22.5% (2010 est.)<br>

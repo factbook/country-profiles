@@ -137,7 +137,7 @@ _female_: 19.7 years (2020 est.)<br>
 the population is primarily located in the south, in and around the capital of Brazzaville as shown in this population distribution map<br>
 
 **Urbanization**<br>
-_urban population_: 68.7% of total population (2022)<br>
+_urban population_: 69.2% of total population (2023)<br>
 _rate of urbanization_: 3.19% annual rate of change (2020-25 est.)<br>
 
 **Major urban areas - population**<br>
@@ -232,7 +232,7 @@ _women married by age 18_: 29.1%<br>
 _men married by age 18_: 5.6% (2018 est.)<br>
 
 **Education expenditures**<br>
-3.9% of GDP (2019 est.)<br>
+4.5% of GDP (2020 est.)<br>
 
 **Literacy**<br>
 _definition_: age 15 and over can read and write<br>
@@ -271,7 +271,7 @@ _forest_: 65.6% (2018 est.)<br>
 _other_: 3.3% (2018 est.)<br>
 
 **Urbanization**<br>
-_urban population_: 68.7% of total population (2022)<br>
+_urban population_: 69.2% of total population (2023)<br>
 _rate of urbanization_: 3.19% annual rate of change (2020-25 est.)<br>
 
 **Revenue from forest resources**<br>
@@ -599,8 +599,8 @@ _crude oil estimated reserves_: 2.882 billion barrels (2021 est.)<br>
 7,162 bbl/day (2015 est.)<br>
 
 **Natural gas**<br>
-_production_: 1,400,209,000 cubic meters (2019 est.)<br>
-_consumption_: 1,400,209,000 cubic meters (2019 est.)<br>
+_production_: 1.4 billion cubic meters (2019 est.)<br>
+_consumption_: 1.4 billion cubic meters (2019 est.)<br>
 _exports_: 0 cubic meters (2021 est.)<br>
 _imports_: 0 cubic meters (2021 est.)<br>
 _proven reserves_: 283.989 billion cubic meters (2021 est.)<br>

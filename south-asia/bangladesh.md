@@ -130,7 +130,7 @@ _female_: 28.6 years (2020 est.)<br>
 -2.9 migrant(s)/1,000 population (2022 est.)<br>
 
 **Urbanization**<br>
-_urban population_: 39.7% of total population (2022)<br>
+_urban population_: 40.5% of total population (2023)<br>
 _rate of urbanization_: 2.88% annual rate of change (2020-25 est.)<br>
 
 **Major urban areas - population**<br>
@@ -202,7 +202,7 @@ _food or waterborne diseases_: bacterial and protozoal diarrhea, hepatitis A and
 _vectorborne diseases_: dengue fever and malaria are high risks in some locations<br>
 _water contact diseases_: leptospirosis<br>
 _animal contact diseases_: rabies<br>
-<strong>note:</strong> widespread ongoing transmission of a respiratory illness caused by the novel coronavirus (COVID-19) is occurring throughout Bangladesh; as of 18 August 2022, Bangladesh has reported a total of 2,009,434 cases of COVID-19 or 1,220.13 cumulative cases of COVID-19 per 100,000 population with a total of 29,314 cumulative deaths or a rate of 17.8 cumulative deaths per 100,000 population; as of 17 August 2022, 76.89% of the population has received at least one dose of COVID-19 vaccine<br>
+<strong>note:</strong> widespread ongoing transmission of a respiratory illness caused by the novel coronavirus (COVID-19) is occurring throughout Bangladesh; as of 9 December 2022, Bangladesh has reported a total of 2,036,760 cases of COVID-19 or 1,236.7 cumulative cases of COVID-19 per 100,000 population with a total of 29,436 cumulative deaths or a rate of 17.8 cumulative deaths per 100,000 population; as of 6 December 2022, 87.12% of the population has received at least one dose of COVID-19 vaccine<br>
 
 **Obesity - adult prevalence rate**<br>
 3.6% (2016)<br>
@@ -227,7 +227,7 @@ _women married by age 15_: 15.5%<br>
 _women married by age 18_: 51.4% (2019 est.)<br>
 
 **Education expenditures**<br>
-1.3% of GDP (2019 est.)<br>
+2.1% of GDP (2021 est.)<br>
 
 **Literacy**<br>
 _definition_: age 15 and over can read and write<br>
@@ -271,7 +271,7 @@ _forest_: 11.1% (2018 est.)<br>
 _other_: 18.8% (2018 est.)<br>
 
 **Urbanization**<br>
-_urban population_: 39.7% of total population (2022)<br>
+_urban population_: 40.5% of total population (2023)<br>
 _rate of urbanization_: 2.88% annual rate of change (2020-25 est.)<br>
 
 **Revenue from forest resources**<br>
@@ -286,7 +286,7 @@ _food or waterborne diseases_: bacterial and protozoal diarrhea, hepatitis A and
 _vectorborne diseases_: dengue fever and malaria are high risks in some locations<br>
 _water contact diseases_: leptospirosis<br>
 _animal contact diseases_: rabies<br>
-<strong>note:</strong> widespread ongoing transmission of a respiratory illness caused by the novel coronavirus (COVID-19) is occurring throughout Bangladesh; as of 18 August 2022, Bangladesh has reported a total of 2,009,434 cases of COVID-19 or 1,220.13 cumulative cases of COVID-19 per 100,000 population with a total of 29,314 cumulative deaths or a rate of 17.8 cumulative deaths per 100,000 population; as of 17 August 2022, 76.89% of the population has received at least one dose of COVID-19 vaccine<br>
+<strong>note:</strong> widespread ongoing transmission of a respiratory illness caused by the novel coronavirus (COVID-19) is occurring throughout Bangladesh; as of 9 December 2022, Bangladesh has reported a total of 2,036,760 cases of COVID-19 or 1,236.7 cumulative cases of COVID-19 per 100,000 population with a total of 29,436 cumulative deaths or a rate of 17.8 cumulative deaths per 100,000 population; as of 6 December 2022, 87.12% of the population has received at least one dose of COVID-19 vaccine<br>
 
 **Food insecurity**<br>
 _severe localized food insecurity_: <em>due to economic constraints -</em>  losses in income and remittances caused by the COVID‑19 pandemic and its containment measures led to an increase in poverty; in 2022, food insecurity is expected to increase and remain at high levels due to the impact of recent shocks, including floods that occurred in mid‑May 2022 in the northeastern parts of the country and the elevated international prices of energy, fuel and food, which have been transmitted to the domestic markets (2022)<br>

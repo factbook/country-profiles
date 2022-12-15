@@ -133,7 +133,7 @@ _female_: 19.5 years (2020 est.)<br>
 populations tend to cluster in the foothills and periphery of the rugged Hindu Kush range; smaller groups are found in many of the country's interior valleys; in general, the east is more densely settled, while the south is sparsely populated<br>
 
 **Urbanization**<br>
-_urban population_: 26.6% of total population (2022)<br>
+_urban population_: 26.9% of total population (2023)<br>
 _rate of urbanization_: 3.34% annual rate of change (2020-25 est.)<br>
 
 **Major urban areas - population**<br>
@@ -229,7 +229,7 @@ _women married by age 15_: 4.2%<br>
 _women married by age 18_: 28.3% (2017 est.)<br>
 
 **Education expenditures**<br>
-3.2% of GDP (2019 est.)<br>
+2.9% of GDP (2020 est.)<br>
 
 **Literacy**<br>
 _definition_: age 15 and over can read and write<br>
@@ -243,9 +243,9 @@ _male_: 13 years<br>
 _female_: 8 years (2018)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 16.2%<br>
-_male_: 14.5%<br>
-_female_: 21.1% (2020 est.)<br>
+_total_: 8.7%<br>
+_male_: 8.4%<br>
+_female_: 9.4% (2021 est.)<br>
 
 ## Environment
 
@@ -273,7 +273,7 @@ _forest_: 1.8% (2018 est.)<br>
 _other_: 40.1% (2018)<br>
 
 **Urbanization**<br>
-_urban population_: 26.6% of total population (2022)<br>
+_urban population_: 26.9% of total population (2023)<br>
 _rate of urbanization_: 3.34% annual rate of change (2020-25 est.)<br>
 
 **Revenue from forest resources**<br>
@@ -475,9 +475,9 @@ _services_: 37.6% (2017 est.)<br>
 22.6% (2016 est.)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 16.2%<br>
-_male_: 14.5%<br>
-_female_: 21.1% (2020 est.)<br>
+_total_: 8.7%<br>
+_male_: 8.4%<br>
+_female_: 9.4% (2021 est.)<br>
 
 **Population below poverty line**<br>
 54.5% (2016 est.)<br>

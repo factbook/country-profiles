@@ -236,7 +236,7 @@ _women married by age 18_: 30.5%<br>
 _men married by age 18_: 3.9% (2016 est.)<br>
 
 **Education expenditures**<br>
-3.1% of GDP (2020 est.)<br>
+3.3% of GDP (2021 est.)<br>
 
 **Literacy**<br>
 _definition_: age 15 and over can read and write Kiswahili (Swahili), English, or Arabic<br>
@@ -247,12 +247,12 @@ _female_: 73.1% (2015)<br>
 **School life expectancy (primary to tertiary education)**<br>
 _total_: 9 years<br>
 _male_: 9 years<br>
-_female_: 9 years (2020)<br>
+_female_: 9 years (2021)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
 _total_: 3.9%<br>
-_male_: 3.1%<br>
-_female_: 4.6% (2014 est.)<br>
+_male_: 2.9%<br>
+_female_: 4.9% (2020 est.)<br>
 
 ## Environment
 
@@ -490,8 +490,8 @@ _services_: 26.6% (2014 est.)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
 _total_: 3.9%<br>
-_male_: 3.1%<br>
-_female_: 4.6% (2014 est.)<br>
+_male_: 2.9%<br>
+_female_: 4.9% (2020 est.)<br>
 
 **Population below poverty line**<br>
 26.4% (2017 est.)<br>
@@ -746,10 +746,10 @@ Islamic State of Iraq and ash-Sham - Mozambique (ISIS-M)<br>
 ## Transnational Issues
 
 **Disputes - international**<br>
-<p><em>Tanzania-Burundi</em>: none identified</p> <p><em>Tanzania-Democratic Republic of the Congo</em>: none identified</p> <p><em>Tanzania-Kenya</em>: none identified</p> <p><em>Tanzania-Malawi</em>: dispute with Malawi over the boundary in Lake Nyasa (Lake Malawi) and the meandering Songwe River; Malawi contends that the entire lake up to the Tanzanian shoreline is its territory, while Tanzania claims the border is in the center of the lake; the conflict was reignited in 2012 when Malawi awarded a license to a British company for oil exploration in the lake</p> <p><em>Tanzania-Mozambique</em>: none identified</p> <p><em>Tanzania-Rwanda</em>: none identified</p> <p><em>Tanzania-Uganda</em>: none identified</p><br>
+<p><em>Tanzania-Burundi</em>: none identified</p> <p><em>Tanzania-Democratic Republic of the Congo</em>: none identified</p> <p><em>Tanzania-Kenya</em>: none identified</p> <p><em>Tanzania-Malawi</em>: dispute with Malawi over the boundary in Lake Nyasa (Lake Malawi) and the meandering Songwe River; Malawi contends that the entire lake up to the Tanzanian shoreline is its territory, while Tanzania claims the border is in the center of the lake</p> <p><em>Tanzania-Mozambique</em>: none identified</p> <p><em>Tanzania-Rwanda</em>: none identified</p> <p><em>Tanzania-Uganda</em>: none identified</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 126,205 (Burundi), 80,860 (Democratic Republic of the Congo) (2022)<br>
+_refugees (country of origin)_: 126,132 (Burundi), 80,860 (Democratic Republic of the Congo) (2022)<br>
 
 **Illicit drugs**<br>
 <p>significant transit country for illicit drugs in East Africa; international drug-trafficking organizations and courier networks transit through Tanzania to smuggle heroin and methamphetamine from Southwest Asia; produces cannabis products and khat for domestic consumption and regional and international distribution; traffickers influence politicians, law enforcement, and others in positions of power with money</p> (2021)<br>

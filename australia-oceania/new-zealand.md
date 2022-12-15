@@ -131,7 +131,7 @@ _female_: 37.9 years (2020 est.)<br>
 over three-quarters of New Zealanders, including the indigenous Maori, live on the North Island, primarily in urban areas<br>
 
 **Urbanization**<br>
-_urban population_: 86.9% of total population (2022)<br>
+_urban population_: 87% of total population (2023)<br>
 _rate of urbanization_: 0.92% annual rate of change (2020-25 est.)<br>
 
 **Major urban areas - population**<br>
@@ -216,7 +216,7 @@ _female_: 12.3% (2020 est.)<br>
 NA<br>
 
 **Education expenditures**<br>
-6% of GDP (2018 est.)<br>
+6% of GDP (2020 est.)<br>
 
 **Literacy**<br>
 _total population_: NA<br>
@@ -226,12 +226,12 @@ _female_: NA<br>
 **School life expectancy (primary to tertiary education)**<br>
 _total_: 20 years<br>
 _male_: 20 years<br>
-_female_: 21 years (2019)<br>
+_female_: 21 years (2020)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 12.4%<br>
-_male_: 12.2%<br>
-_female_: 12.6% (2020 est.)<br>
+_total_: 10.5%<br>
+_male_: 10.8%<br>
+_female_: 10.2% (2021 est.)<br>
 
 ## Environment
 
@@ -259,7 +259,7 @@ _forest_: 31.4% (2018 est.)<br>
 _other_: 25.4% (2018 est.)<br>
 
 **Urbanization**<br>
-_urban population_: 86.9% of total population (2022)<br>
+_urban population_: 87% of total population (2023)<br>
 _rate of urbanization_: 0.92% annual rate of change (2020-25 est.)<br>
 
 **Revenue from forest resources**<br>
@@ -457,9 +457,9 @@ _services_: 72.7% (2017 est.)<br>
 4.32% (2018 est.)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 12.4%<br>
-_male_: 12.2%<br>
-_female_: 12.6% (2020 est.)<br>
+_total_: 10.5%<br>
+_male_: 10.8%<br>
+_female_: 10.2% (2021 est.)<br>
 
 **Population below poverty line**<br>
 NA<br>

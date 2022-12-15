@@ -187,7 +187,7 @@ NA<br>
 NA<br>
 
 **Education expenditures**<br>
-6.1% of GDP (2014 est.)<br>
+3.6% of GDP (2021 est.)<br>
 
 **Literacy**<br>
 _definition_: age 15 and over can read and write<br>

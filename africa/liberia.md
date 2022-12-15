@@ -128,7 +128,7 @@ _female_: 18.2 years (2020 est.)<br>
 more than half of the population lives in urban areas, with approximately one-third living within an 80-km radius of Monrovia as shown in this population distribution map<br>
 
 **Urbanization**<br>
-_urban population_: 53.1% of total population (2022)<br>
+_urban population_: 53.6% of total population (2023)<br>
 _rate of urbanization_: 3.41% annual rate of change (2015-20 est.)<br>
 
 **Major urban areas - population**<br>
@@ -224,7 +224,7 @@ _women married by age 18_: NA<br>
 _men married by age 18_: 8.4% (2020 est.)<br>
 
 **Education expenditures**<br>
-2.3% of GDP (2020 est.)<br>
+2.7% of GDP (2021 est.)<br>
 
 **Literacy**<br>
 _definition_: age 15 and over can read and write<br>
@@ -233,9 +233,9 @@ _male_: 62.7%<br>
 _female_: 34.1% (2017)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 2.3%<br>
-_male_: 2.4%<br>
-_female_: 2.2% (2016 est.)<br>
+_total_: 8.9%<br>
+_male_: 8.8%<br>
+_female_: 9% (2017 est.)<br>
 
 ## Environment
 
@@ -263,7 +263,7 @@ _forest_: 44.6% (2018 est.)<br>
 _other_: 27.3% (2018 est.)<br>
 
 **Urbanization**<br>
-_urban population_: 53.1% of total population (2022)<br>
+_urban population_: 53.6% of total population (2023)<br>
 _rate of urbanization_: 3.41% annual rate of change (2015-20 est.)<br>
 
 **Revenue from forest resources**<br>
@@ -453,9 +453,9 @@ _services_: 22% (2000 est.)<br>
 2.8% (2014 est.)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 2.3%<br>
-_male_: 2.4%<br>
-_female_: 2.2% (2016 est.)<br>
+_total_: 8.9%<br>
+_male_: 8.8%<br>
+_female_: 9% (2017 est.)<br>
 
 **Population below poverty line**<br>
 50.9% (2016 est.)<br>

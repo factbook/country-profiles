@@ -122,7 +122,7 @@ _female_: 34 years (2020 est.)<br>
 most of the population lives in urban areas, with two-thirds living on New Providence Island where Nassau is located<br>
 
 **Urbanization**<br>
-_urban population_: 83.5% of total population (2022)<br>
+_urban population_: 83.6% of total population (2023)<br>
 _rate of urbanization_: 1.02% annual rate of change (2020-25 est.)<br>
 
 **Major urban areas - population**<br>
@@ -192,7 +192,7 @@ _female_: 2.4% (2020 est.)<br>
 NA<br>
 
 **Education expenditures**<br>
-2.5% of GDP (2020 est.)<br>
+2.8% of GDP (2021 est.)<br>
 
 **Literacy**<br>
 _total population_: NA<br>
@@ -230,7 +230,7 @@ _forest_: 51.4% (2018 est.)<br>
 _other_: 47.2% (2018 est.)<br>
 
 **Urbanization**<br>
-_urban population_: 83.5% of total population (2022)<br>
+_urban population_: 83.6% of total population (2023)<br>
 _rate of urbanization_: 1.02% annual rate of change (2020-25 est.)<br>
 
 **Revenue from forest resources**<br>

@@ -202,7 +202,7 @@ _other alcohols_: 0.09 liters of pure alcohol (2019 est.)<br>
 4.9% (2011)<br>
 
 **Education expenditures**<br>
-3.6% of GDP (2019 est.)<br>
+4.1% of GDP (2020 est.)<br>
 
 **Literacy**<br>
 _definition_: age 15 and over can read and write<br>

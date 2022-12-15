@@ -135,7 +135,7 @@ _female_: 20.3 years (2020 est.)<br>
 majority of residents live in the western and central areas of the country, especially in and around the capital of Bangui as shown in this population distribution map<br>
 
 **Urbanization**<br>
-_urban population_: 43.1% of total population (2022)<br>
+_urban population_: 43.6% of total population (2023)<br>
 _rate of urbanization_: 3.32% annual rate of change (2020-25 est.)<br>
 
 **Major urban areas - population**<br>
@@ -225,7 +225,7 @@ _women married by age 18_: 61%<br>
 _men married by age 18_: 17.1% (2019 est.)<br>
 
 **Education expenditures**<br>
-1.8% of GDP (2019 est.)<br>
+2.2% of GDP (2020 est.)<br>
 
 **Literacy**<br>
 _definition_: age 15 and over can read and write<br>
@@ -264,7 +264,7 @@ _forest_: 36.2% (2018 est.)<br>
 _other_: 55.7% (2018 est.)<br>
 
 **Urbanization**<br>
-_urban population_: 43.1% of total population (2022)<br>
+_urban population_: 43.6% of total population (2023)<br>
 _rate of urbanization_: 3.32% annual rate of change (2020-25 est.)<br>
 
 **Revenue from forest resources**<br>

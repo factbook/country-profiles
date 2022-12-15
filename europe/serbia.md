@@ -238,12 +238,12 @@ _female_: 99.1% (2019)<br>
 **School life expectancy (primary to tertiary education)**<br>
 _total_: 14 years<br>
 _male_: 14 years<br>
-_female_: 15 years (2020)<br>
+_female_: 15 years (2021)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 26.7%<br>
-_male_: 25%<br>
-_female_: 29.5% (2020 est.)<br>
+_total_: 25.5%<br>
+_male_: 23.5%<br>
+_female_: 28.8% (2021 est.)<br>
 
 ## Environment
 
@@ -480,9 +480,9 @@ _services_: 56.1% (2017 est.)<br>
 15.9% (2016 est.)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 26.7%<br>
-_male_: 25%<br>
-_female_: 29.5% (2020 est.)<br>
+_total_: 25.5%<br>
+_male_: 23.5%<br>
+_female_: 28.8% (2021 est.)<br>
 
 **Population below poverty line**<br>
 23.2% (2018 est.)<br>

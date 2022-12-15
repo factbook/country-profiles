@@ -124,7 +124,7 @@ _female_: 38.7 years (2020 est.)<br>
 most of the population is found on the island of Rarotonga<br>
 
 **Urbanization**<br>
-_urban population_: 75.9% of total population (2022)<br>
+_urban population_: 76.2% of total population (2023)<br>
 _rate of urbanization_: 0.52% annual rate of change (2020-25 est.)<br>
 
 **Sex ratio**<br>
@@ -201,7 +201,7 @@ _female_: 20.3% (2020 est.)<br>
 NA<br>
 
 **Education expenditures**<br>
-3.5% of GDP (2019 est.)<br>
+4.6% of GDP (2021 est.)<br>
 
 **Literacy**<br>
 _total population_: NA<br>
@@ -237,7 +237,7 @@ _forest_: 64.6% (2018 est.)<br>
 _other_: 27% (2018 est.)<br>
 
 **Urbanization**<br>
-_urban population_: 75.9% of total population (2022)<br>
+_urban population_: 76.2% of total population (2023)<br>
 _rate of urbanization_: 0.52% annual rate of change (2020-25 est.)<br>
 
 **Major infectious diseases**<br>

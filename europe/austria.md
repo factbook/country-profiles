@@ -134,7 +134,7 @@ _female_: 45.8 years (2020 est.)<br>
 the northern and eastern portions of the country are more densely populated; nearly two-thirds of the populace lives in urban areas<br>
 
 **Urbanization**<br>
-_urban population_: 59.3% of total population (2022)<br>
+_urban population_: 59.5% of total population (2023)<br>
 _rate of urbanization_: 0.68% annual rate of change (2020-25 est.)<br>
 
 **Major urban areas - population**<br>
@@ -216,7 +216,7 @@ _female_: 25% (2020 est.)<br>
 NA<br>
 
 **Education expenditures**<br>
-5.2% of GDP (2018 est.)<br>
+5.1% of GDP (2020 est.)<br>
 
 **Literacy**<br>
 _total population_: NA<br>
@@ -226,12 +226,12 @@ _female_: NA<br>
 **School life expectancy (primary to tertiary education)**<br>
 _total_: 16 years<br>
 _male_: 16 years<br>
-_female_: 16 years (2019)<br>
+_female_: 16 years (2020)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 10.5%<br>
-_male_: 11.3%<br>
-_female_: 9.5% (2020 est.)<br>
+_total_: 11%<br>
+_male_: 10.7%<br>
+_female_: 11.3% (2021 est.)<br>
 
 ## Environment
 
@@ -259,7 +259,7 @@ _forest_: 47.2% (2018 est.)<br>
 _other_: 14.4% (2018 est.)<br>
 
 **Urbanization**<br>
-_urban population_: 59.3% of total population (2022)<br>
+_urban population_: 59.5% of total population (2023)<br>
 _rate of urbanization_: 0.68% annual rate of change (2020-25 est.)<br>
 
 **Revenue from forest resources**<br>
@@ -463,9 +463,9 @@ _services_: 74.1% (2017 est.)<br>
 7.7% (2018 est.)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 10.5%<br>
-_male_: 11.3%<br>
-_female_: 9.5% (2020 est.)<br>
+_total_: 11%<br>
+_male_: 10.7%<br>
+_female_: 11.3% (2021 est.)<br>
 
 **Population below poverty line**<br>
 13.3% (2018 est.)<br>
@@ -725,7 +725,7 @@ Islamic State of Iraq and ash-Sham (ISIS)<br>
 <p>none identified</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 57,887 (Syria), 41,037 (Afghanistan), 9,661 (Iraq), 8,212 (Somalia), 7,046 (Iran), 7,003 (Russia) (mid-year 2021); 88,748 (Ukraine) (as of 29 November 2022)<br>
+_refugees (country of origin)_: 57,887 (Syria), 41,037 (Afghanistan), 9,661 (Iraq), 8,212 (Somalia), 7,046 (Iran), 7,003 (Russia) (mid-year 2021); 89,244 (Ukraine) (as of 6 December 2022)<br>
 _stateless persons_: 3,229 (mid-year 2021)<br>
 
 **Illicit drugs**<br>

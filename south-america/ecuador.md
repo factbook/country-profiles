@@ -135,7 +135,7 @@ _female_: 29.6 years (2020 est.)<br>
 nearly half of the population is concentrated in the interior in the Andean intermontane basins and valleys, with large concentrations also found along the western coastal strip; the rainforests of the east remain sparsely populated<br>
 
 **Urbanization**<br>
-_urban population_: 64.6% of total population (2022)<br>
+_urban population_: 64.8% of total population (2023)<br>
 _rate of urbanization_: 1.62% annual rate of change (2020-25 est.)<br>
 
 **Major urban areas - population**<br>
@@ -226,7 +226,7 @@ _women married by age 15_: 3.8%<br>
 _women married by age 18_: 22.2% (2018 est.)<br>
 
 **Education expenditures**<br>
-4.1% of GDP (2020 est.)<br>
+3.7% of GDP (2021 est.)<br>
 
 **Literacy**<br>
 _definition_: age 15 and over can read and write<br>
@@ -237,12 +237,12 @@ _female_: 92.5% (2020)<br>
 **School life expectancy (primary to tertiary education)**<br>
 _total_: 15 years<br>
 _male_: 14 years<br>
-_female_: 15 years (2019)<br>
+_female_: 15 years (2020)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 11.1%<br>
-_male_: 8.7%<br>
-_female_: 15.4% (2020 est.)<br>
+_total_: 9%<br>
+_male_: 6.9%<br>
+_female_: 12.9% (2021 est.)<br>
 
 ## Environment
 
@@ -270,7 +270,7 @@ _forest_: 38.9% (2018 est.)<br>
 _other_: 31.4% (2018 est.)<br>
 
 **Urbanization**<br>
-_urban population_: 64.6% of total population (2022)<br>
+_urban population_: 64.8% of total population (2023)<br>
 _rate of urbanization_: 1.62% annual rate of change (2020-25 est.)<br>
 
 **Revenue from forest resources**<br>
@@ -474,9 +474,9 @@ _services_: 55.5% (2017 est.)<br>
 5.26% (2018 est.)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 11.1%<br>
-_male_: 8.7%<br>
-_female_: 15.4% (2020 est.)<br>
+_total_: 9%<br>
+_male_: 6.9%<br>
+_female_: 12.9% (2021 est.)<br>
 
 **Population below poverty line**<br>
 25% (2019 est.)<br>

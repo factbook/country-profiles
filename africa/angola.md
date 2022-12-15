@@ -135,7 +135,7 @@ _female_: 16.4 years (2020 est.)<br>
 most people live in the western half of the country; urban areas account for the highest concentrations of people, particularly the capital of Luanda as shown in this population distribution map<br>
 
 **Urbanization**<br>
-_urban population_: 68.1% of total population (2022)<br>
+_urban population_: 68.7% of total population (2023)<br>
 _rate of urbanization_: 4.04% annual rate of change (2020-25 est.)<br>
 
 **Major urban areas - population**<br>
@@ -224,18 +224,13 @@ _women married by age 18_: 30.3%<br>
 _men married by age 18_: 6% (2016 est.)<br>
 
 **Education expenditures**<br>
-1.8% of GDP (2019 est.)<br>
+2.4% of GDP (2020 est.)<br>
 
 **Literacy**<br>
 _definition_: age 15 and over can read and write<br>
 _total population_: 71.1%<br>
 _male_: 82%<br>
 _female_: 60.7% (2015)<br>
-
-**School life expectancy (primary to tertiary education)**<br>
-_total_: 10 years<br>
-_male_: 12 years<br>
-_female_: 7 years (2011)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
 _total_: 17.3%<br>
@@ -267,7 +262,7 @@ _agricultural land: permanent pasture_: permanent pasture: 41.5% (2018 est.)<br>
 _forest_: 54.3% (2018 est.)<br>
 
 **Urbanization**<br>
-_urban population_: 68.1% of total population (2022)<br>
+_urban population_: 68.7% of total population (2023)<br>
 _rate of urbanization_: 4.04% annual rate of change (2020-25 est.)<br>
 
 **Revenue from forest resources**<br>
@@ -356,13 +351,13 @@ _residency requirement for naturalization_: 10 years<br>
 _chief of state_: President Joao Manuel Goncalves LOURENCO (since 15 September 2022); Vice President Bornito De Sousa Baltazar DIOGO (since 15 September 2022); note - the president is both chief of state and head of government<br>
 _head of government_: President Joao Manuel Goncalves LOURENCO (since 15 September 2022); Vice President Bornito De Sousa Baltazar DIOGO (since 15 September 2022)<br>
 _cabinet_: Council of Ministers appointed by the president<br>
-_elections/appointments_: the candidate of the winning party or coalition in the last legislative election becomes the president; president serves a 5-year term (eligible for a second consecutive or discontinuous term); last held on 24 August 2022 (next to be held on 24 August 2027) (2022)<br>
+_elections/appointments_: the candidate of the winning party or coalition in the last legislative election becomes the president; president serves a 5-year term (eligible for a second consecutive or discontinuous term); last held on 24 August 2022 (next to be held on 24 August 2027)<br>
 _election results_: Joao Manuel Goncalves LOURENCO (MPLA) elected president by then winning party following the 24 August 2022 general election<br>
 
 **Legislative branch**<br>
 _description_: unicameral National Assembly or Assembleia Nacional (220 seats; members directly elected in a single national constituency and in multi-seat constituencies by closed list proportional representation vote; members serve 5-year terms)<br>
 _elections_: last held on 24 August 2022 (next to be held on 24 August 2027)<br>
-_election results_: percent of vote by party - MPLA 51.1%, UNITA 43.9%, PRS 1.1%, FNLA 1.1%, PHA 1%, other 1.7%; seats by party - MPLA 124, UNITA 90, PRS 2, FNLA 2; PHA-2; composition - men 146, women 74, percent of women 33.6%<br><br>
+_election results_: percent of vote by party - MPLA 51.1%, UNITA 43.9%, PRS 1.1%, FNLA 1.1%, PHA 1%, other 1.7%; seats by party - MPLA 124, UNITA 90, PRS 2, FNLA 2; PHA-2; composition - men 146, women 74, percent of women 33.6%<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme Court or Supremo Tribunal de Justica (consists of the court president, vice president, and a minimum of 16 judges); Constitutional Court or Tribunal Constitucional (consists of 11 judges)<br>

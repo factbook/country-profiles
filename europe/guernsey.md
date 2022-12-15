@@ -110,7 +110,7 @@ _female_: 45.6 years (2020 est.)<br>
 1.7 migrant(s)/1,000 population (2022 est.)<br>
 
 **Urbanization**<br>
-_urban population_: 31.1% of total population (2022)<br>
+_urban population_: 31.2% of total population (2023)<br>
 _rate of urbanization_: 0.68% annual rate of change (2020-25 est.)<br>
 <strong>note:</strong> data include Guernsey and Jersey<br>
 
@@ -182,7 +182,7 @@ coastal erosion, coastal flooding; declining biodiversity due to land abandonmen
 temperate with mild winters and cool summers; about 50% of days are overcast<br>
 
 **Urbanization**<br>
-_urban population_: 31.1% of total population (2022)<br>
+_urban population_: 31.2% of total population (2023)<br>
 _rate of urbanization_: 0.68% annual rate of change (2020-25 est.)<br>
 <strong>note:</strong> data include Guernsey and Jersey<br>
 

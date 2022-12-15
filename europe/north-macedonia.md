@@ -219,14 +219,14 @@ _male_: 99.1%<br>
 _female_: 97.6% (2020)<br>
 
 **School life expectancy (primary to tertiary education)**<br>
-_total_: 14 years<br>
+_total_: 13 years<br>
 _male_: 13 years<br>
-_female_: 14 years (2018)<br>
+_female_: 14 years (2020)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 37%<br>
-_male_: 35.2%<br>
-_female_: 40% (2020 est.)<br>
+_total_: 36.4%<br>
+_male_: 33.5%<br>
+_female_: 41.5% (2021 est.)<br>
 
 ## Environment
 
@@ -451,9 +451,9 @@ _services_: 54.5% (2017 est.)<br>
 20.7% (2018 est.)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 37%<br>
-_male_: 35.2%<br>
-_female_: 40% (2020 est.)<br>
+_total_: 36.4%<br>
+_male_: 33.5%<br>
+_female_: 41.5% (2021 est.)<br>
 
 **Population below poverty line**<br>
 21.6% (2018 est.)<br>
@@ -685,7 +685,7 @@ Islamic State of Iraq and ash-Sham (ISIS)<br>
 <p><em>North Macedonia-Albania</em>: none identified</p> <p><em>North Macedonia-Greece</em>: none identified</p> <p><em>North Macedonia-Kosovo</em>: North Macedonia and Kosovo completed demarcation of their boundary in October 2009</p> <p><em>North Macedonia-Serbia</em>: none identified</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 6,386 (Ukraine) (as of 29 November 2022)<br>
+_refugees (country of origin)_: 6,433 (Ukraine) (as of 6 December 2022)<br>
 _stateless persons_: 553 (mid-year 2021)<br>
 <strong>note:</strong> 549,217 estimated refugee and migrant arrivals (January 2015-October 2022)<br>
 

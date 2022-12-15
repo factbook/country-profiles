@@ -121,7 +121,7 @@ _female_: 37.7 years (2020 est.)<br>
 the island of Streymoy is by far the most populous with over 40% of the population; it has approximately twice as many inhabitants as Eysturoy, the second most populous island; seven of the inhabited islands have fewer than 100 people<br>
 
 **Urbanization**<br>
-_urban population_: 42.8% of total population (2022)<br>
+_urban population_: 43% of total population (2023)<br>
 _rate of urbanization_: 0.89% annual rate of change (2020-25 est.)<br>
 
 **Major urban areas - population**<br>
@@ -184,7 +184,7 @@ NA<br>
 NA<br>
 
 **Education expenditures**<br>
-8.2% of GDP (2017 est.)<br>
+7.6% of GDP (2019 est.)<br>
 
 **Literacy**<br>
 _total population_: NA<br>
@@ -211,7 +211,7 @@ _forest_: 0.1% (2018 est.)<br>
 _other_: 97.8% (2018 est.)<br>
 
 **Urbanization**<br>
-_urban population_: 42.8% of total population (2022)<br>
+_urban population_: 43% of total population (2023)<br>
 _rate of urbanization_: 0.89% annual rate of change (2020-25 est.)<br>
 
 **Revenue from forest resources**<br>
@@ -278,15 +278,15 @@ _election results_: <em>2019:</em> Bardur A STEIGNIELSEN elected prime minister;
 
 **Legislative branch**<br>
 _description_: unicameral Faroese Parliament or Logting (33 seats; members directly elected in a single nationwide constituency by proportional representation vote; members serve 4-year terms)<br>the Faroe Islands elect 2 members to the Danish Parliament to serve 4-year terms<br>
-_elections_: Faroese Parliament - last held on 31 August 2019 (next to be held in 2023)<br>Faroese seats in the Danish Parliament last held on 5 June 2019 (next to be held no later than June 2023)<br>
-_election results_: Faroese Parliament percent of vote by party - People's Party 24.2%, JF 21.2%, Union Party 21.2%, Republic 18.2%, Center Party 6%, Progress Party 6%, Self-Government Party 3%, seats by party - People's Party 8, JF 7, Union Party 7, Republic 6, Center Party 2, Progress Party 2, Self-Government Party 1, composition - men 25, women 8; percent of women 24.2% <br>Faroese seats in Danish Parliament - percent of vote by party - NA; seats by party - JF 1, Republic 1; composition - men 2<br>
+_elections_: Faroese Parliament - last held on 8 December 2022 (next to be held in 2023)<br>Faroese seats in the Danish Parliament last held on 5 June 2019 (next to be held no later than June 2023)<br>
+_election results_: Faroese Parliament percent of vote by party - JF 27.3%, B 21.2%, A 18.2%, E 18.2%, F 9.1%, H 6.0%, seats by party - JF 9, B 7, A 6, E 6, F 3, H 2; composition - men 27, women 6; percent of women 18.2% <br>Faroese seats in Danish Parliament - percent of vote by party - NA; seats by party - JF 1, B 1; composition - men 2<br><br>2019: Faroese Parliament percent of vote by party - People's Party 24.2%, JF 21.2%, Union Party 21.2%, Republic 18.2%, Center Party 6%, Progress Party 6%, Self-Government Party 3%, seats by party - People's Party 8, JF 7, Union Party 7, Republic 6, Center Party 2, Progress Party 2, Self-Government Party 1, composition - men 25, women 8; percent of women 24.2% <br>Faroese seats in Danish Parliament - percent of vote by party - NA; seats by party - JF 1, Republic 1; composition - men 2<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Faroese Court or Raett (Rett - Danish) decides both civil and criminal cases; the Court is part of the Danish legal system<br>
 _subordinate courts_: Court of the First Instance or Tribunal de Premiere Instance; Court of Administrative Law or Tribunal Administratif; Mixed Commercial Court; Land Court<br>
 
 **Political parties and leaders**<br>
-Center Party (Midflokkurin) [Jenis av RANA]<br>People's Party (Folkaflokkurin) [Jorgen NICLASEN]<br>Progress Party (Framsokn) [Ruth VANG]<br>Republic (Tjodveldi) [Hogni HOYDAL] (formerly the Republican Party)<br>Self-Government Party (Sjalvstyri or Sjalvstyrisflokkurin) [Jogvan SKORHEIM]<br>Social Democratic Party (Javnadarflokkurin) or JF [Aksel V. JOHANNESEN]<br>Union Party (Sambandsflokkurin) [Bardur A STEIG NIELSEN]<br>
+Center Party or H (Midflokkurin) [Jenis av RANA]<br>People's Party or A (Folkaflokkurin) [Benir JOHANNESEN]<br>Progress Party or F (Framsokn) [Ruth VANG]<br>Republic or E (Tjodveldi) [Hogni HOYDAL] (formerly the Republican Party)<br>Self-Government Party or D (Sjalvstyri or Sjalvstyrisflokkurin) [Jogvan SKORHEIM]<br>Social Democratic Party or JF (Javnadarflokkurin) or JF [Aksel V. JOHANNESEN]<br>Union Party or B (Sambandsflokkurin) [Bardur A STEIG NIELSEN]<br>
 
 **International organization participation**<br>
 Arctic Council, IMO (associate), NC, NIB, UNESCO (associate), UPU<br>

@@ -127,7 +127,7 @@ _female_: 24.3 years (2020 est.)<br>
 fairly even distribution; largest concentrations located near coastal areas<br>
 
 **Urbanization**<br>
-_urban population_: 58.8% of total population (2022)<br>
+_urban population_: 59.7% of total population (2023)<br>
 _rate of urbanization_: 2.47% annual rate of change (2020-25 est.)<br>
 
 **Major urban areas - population**<br>
@@ -222,7 +222,7 @@ _women married by age 18_: 14.9%<br>
 _men married by age 18_: 1.6% (2017 est.)<br>
 
 **Education expenditures**<br>
-1.7% of GDP (2018 est.)<br>
+1.4% of GDP (2020 est.)<br>
 
 **Literacy**<br>
 _definition_: age 15 and over can read and write<br>
@@ -256,7 +256,7 @@ _forest_: 3.6% (2018 est.)<br>
 _other_: 30% (2018 est.)<br>
 
 **Urbanization**<br>
-_urban population_: 58.8% of total population (2022)<br>
+_urban population_: 59.7% of total population (2023)<br>
 _rate of urbanization_: 2.47% annual rate of change (2020-25 est.)<br>
 
 **Revenue from forest resources**<br>

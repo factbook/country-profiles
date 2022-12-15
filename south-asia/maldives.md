@@ -124,7 +124,7 @@ _female_: 30 years (2020 est.)<br>
 about a third of the population lives in the centrally located capital city of Male and almost a tenth in southern Addu City; the remainder of the populace is spread over the 200 or so populated islands of the archipelago<br>
 
 **Urbanization**<br>
-_urban population_: 41.5% of total population (2022)<br>
+_urban population_: 42% of total population (2023)<br>
 _rate of urbanization_: 2.34% annual rate of change (2020-25 est.)<br>
 
 **Major urban areas - population**<br>
@@ -214,7 +214,7 @@ _women married by age 18_: 2.2%<br>
 _men married by age 18_: 2.2% (2017 est.)<br>
 
 **Education expenditures**<br>
-4.1% of GDP (2019 est.)<br>
+5.8% of GDP (2020 est.)<br>
 
 **Literacy**<br>
 _definition_: age 15 and over can read and write<br>
@@ -228,9 +228,9 @@ _male_: 12 years<br>
 _female_: 14 years (2019)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 15.5%<br>
-_male_: 18.5%<br>
-_female_: 11.7% (2019 est.)<br>
+_total_: 13.9%<br>
+_male_: 9.7%<br>
+_female_: 17.2% (2019 est.)<br>
 
 ## Environment
 
@@ -258,7 +258,7 @@ _forest_: 3% (2018 est.)<br>
 _other_: 73.7% (2018 est.)<br>
 
 **Urbanization**<br>
-_urban population_: 41.5% of total population (2022)<br>
+_urban population_: 42% of total population (2023)<br>
 _rate of urbanization_: 2.34% annual rate of change (2020-25 est.)<br>
 
 **Revenue from forest resources**<br>
@@ -437,9 +437,9 @@ _services_: 69.5% (2017 est.)<br>
 3.2% (2016 est.)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 15.5%<br>
-_male_: 18.5%<br>
-_female_: 11.7% (2019 est.)<br>
+_total_: 13.9%<br>
+_male_: 9.7%<br>
+_female_: 17.2% (2019 est.)<br>
 
 **Population below poverty line**<br>
 8.2% (2016 est.)<br>

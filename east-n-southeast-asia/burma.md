@@ -138,7 +138,7 @@ _female_: 30 years (2020 est.)<br>
 population concentrated along coastal areas and in general proximity to the shores of the Irrawaddy River; the extreme north is relatively underpopulated<br>
 
 **Urbanization**<br>
-_urban population_: 31.8% of total population (2022)<br>
+_urban population_: 32.1% of total population (2023)<br>
 _rate of urbanization_: 1.85% annual rate of change (2020-25 est.)<br>
 
 **Major urban areas - population**<br>
@@ -234,7 +234,7 @@ _women married by age 18_: 16%<br>
 _men married by age 18_: 5% (2016 est.)<br>
 
 **Education expenditures**<br>
-2% of GDP (2019 est.)<br>
+2.1% of GDP (2019 est.)<br>
 
 **Literacy**<br>
 _definition_: age 15 and over can read and write<br>
@@ -248,9 +248,9 @@ _male_: 10 years<br>
 _female_: 11 years (2018)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 1.5%<br>
-_male_: 1.4%<br>
-_female_: 1.6% (2019 est.)<br>
+_total_: 4.9%<br>
+_male_: 4.1%<br>
+_female_: 5.8% (2020 est.)<br>
 
 ## Environment
 
@@ -278,7 +278,7 @@ _forest_: 48.2% (2018 est.)<br>
 _other_: 32.6% (2018 est.)<br>
 
 **Urbanization**<br>
-_urban population_: 31.8% of total population (2022)<br>
+_urban population_: 32.1% of total population (2023)<br>
 _rate of urbanization_: 1.85% annual rate of change (2020-25 est.)<br>
 
 **Revenue from forest resources**<br>
@@ -483,9 +483,9 @@ _services_: 23% (2001 est.)<br>
 4% (2016 est.)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 1.5%<br>
-_male_: 1.4%<br>
-_female_: 1.6% (2019 est.)<br>
+_total_: 4.9%<br>
+_male_: 4.1%<br>
+_female_: 5.8% (2020 est.)<br>
 
 **Population below poverty line**<br>
 24.8% (2017 est.)<br>

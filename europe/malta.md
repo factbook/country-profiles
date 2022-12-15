@@ -123,7 +123,7 @@ _female_: 43.5 years (2020 est.)<br>
 most of the population lives on the eastern half of Malta, the largest of the three inhabited islands<br>
 
 **Urbanization**<br>
-_urban population_: 94.9% of total population (2022)<br>
+_urban population_: 94.9% of total population (2023)<br>
 _rate of urbanization_: 0.28% annual rate of change (2020-25 est.)<br>
 
 **Major urban areas - population**<br>
@@ -208,7 +208,7 @@ _female_: 21.6% (2020 est.)<br>
 NA<br>
 
 **Education expenditures**<br>
-4.7% of GDP (2017 est.)<br>
+5.9% of GDP (2020 est.)<br>
 
 **Literacy**<br>
 _definition_: age 15 and over can read and write<br>
@@ -218,13 +218,13 @@ _female_: 96% (2018)<br>
 
 **School life expectancy (primary to tertiary education)**<br>
 _total_: 17 years<br>
-_male_: 16 years<br>
-_female_: 17 years (2019)<br>
+_male_: 17 years<br>
+_female_: 18 years (2020)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 10.7%<br>
-_male_: 13.1%<br>
-_female_: 8% (2020 est.)<br>
+_total_: 9.6%<br>
+_male_: 12.7%<br>
+_female_: 6% (2021 est.)<br>
 
 ## Environment
 
@@ -252,7 +252,7 @@ _forest_: 0.9% (2018 est.)<br>
 _other_: 66.8% (2018 est.)<br>
 
 **Urbanization**<br>
-_urban population_: 94.9% of total population (2022)<br>
+_urban population_: 94.9% of total population (2023)<br>
 _rate of urbanization_: 0.28% annual rate of change (2020-25 est.)<br>
 
 **Revenue from forest resources**<br>
@@ -444,9 +444,9 @@ _services_: 77.7% (2016 est.)<br>
 0.89% (2018 est.)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 10.7%<br>
-_male_: 13.1%<br>
-_female_: 8% (2020 est.)<br>
+_total_: 9.6%<br>
+_male_: 12.7%<br>
+_female_: 6% (2021 est.)<br>
 
 **Population below poverty line**<br>
 17.1% (2018 est.)<br>
@@ -679,7 +679,7 @@ the military has a small inventory that consists of equipment from a mix of Euro
 
 **Refugees and internally displaced persons**<br>
 _stateless persons_: 11 (mid-year 2021)<br>
-<strong>note:</strong> 8,440 estimated refugee and migrant arrivals by sea (January 2015-October 2022)<br>
+<strong>note:</strong> 8,556 estimated refugee and migrant arrivals by sea (January 2015-November 2022)<br>
 
 **Illicit drugs**<br>
 minor transshipment point for hashish from North Africa to Western Europe<br>

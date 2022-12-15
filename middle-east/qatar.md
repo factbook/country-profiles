@@ -220,12 +220,12 @@ _female_: 94.7% (2017)<br>
 **School life expectancy (primary to tertiary education)**<br>
 _total_: 13 years<br>
 _male_: 12 years<br>
-_female_: 15 years (2020)<br>
+_female_: 15 years (2021)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 0.4%<br>
+_total_: 0.5%<br>
 _male_: 0.2%<br>
-_female_: 1.5% (2018 est.)<br>
+_female_: 1.7% (2020 est.)<br>
 
 ## Environment
 
@@ -445,9 +445,9 @@ liquefied natural gas, crude oil production and refining, ammonia, fertilizer, p
 11.1% (2016 est.)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 0.4%<br>
+_total_: 0.5%<br>
 _male_: 0.2%<br>
-_female_: 1.5% (2018 est.)<br>
+_female_: 1.7% (2020 est.)<br>
 
 **Population below poverty line**<br>
 NA<br>

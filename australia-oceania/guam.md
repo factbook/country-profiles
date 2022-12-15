@@ -121,7 +121,7 @@ _female_: 30.2 years (2020 est.)<br>
 no large cities exist on the island, though large villages (municipalities) attract much of the population; the largest of these is Dededo<br>
 
 **Urbanization**<br>
-_urban population_: 95.1% of total population (2022)<br>
+_urban population_: 95.2% of total population (2022)<br>
 _rate of urbanization_: 0.84% annual rate of change (2020-25 est.)<br>
 
 **Major urban areas - population**<br>
@@ -207,7 +207,7 @@ _forest_: 47.9% (2018 est.)<br>
 _other_: 18.7% (2018 est.)<br>
 
 **Urbanization**<br>
-_urban population_: 95.1% of total population (2022)<br>
+_urban population_: 95.2% of total population (2022)<br>
 _rate of urbanization_: 0.84% annual rate of change (2020-25 est.)<br>
 
 **Revenue from forest resources**<br>

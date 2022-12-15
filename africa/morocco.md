@@ -94,7 +94,7 @@ Arab-Berber 99%, other 1%<br>
 <strong>note:</strong> does not include data from the former Western Sahara<br>
 
 **Languages**<br>
-Arabic (official), Berber languages (Tamazight (official), Tachelhit, Tarifit), French (often the language of business, government, and diplomacy); note - the proportion of Berber speakers is disputed; does not include data from the former Western Sahara<br>
+Arabic (official), Berber languages (Tamazight (official), Tachelhit, Tarifit), French (often the language of business, government, and diplomacy); note - the proportion of Berber speakers is disputed<br>
 _major-language sample(s)_: <br>كتاب ديال لحقائق متاع العالم، احسن مصدر متاع المعلومات الأساسية (Arabic)<br><br>The World Factbook, the indispensable source for basic information.<br>
 
 **Religions**<br>
@@ -145,7 +145,7 @@ note: does not include data from the former Western Sahara<br>
 the highest population density is found along the Atlantic and Mediterranean coasts; a number of densely populated agglomerations are found scattered through the Atlas Mountains as shown in this population distribution map<br>
 
 **Urbanization**<br>
-_urban population_: 64.6% of total population (2022)<br>
+_urban population_: 65.1% of total population (2023)<br>
 _rate of urbanization_: 1.88% annual rate of change (2020-25 est.)<br>
 <strong>note:</strong>  data does not include former Western Sahara<br>
 
@@ -245,7 +245,7 @@ _women married by age 15_: 0.5%<br>
 _women married by age 18_: 13.7% (2018 est.)<br>
 
 **Education expenditures**<br>
-NA<br>
+6.8% of GDP (2020)<br>
 <strong>note:</strong> does not include data from the former Western Sahara<br>
 
 **Literacy**<br>
@@ -258,7 +258,7 @@ _female_: 64.6% (2018)<br>
 **School life expectancy (primary to tertiary education)**<br>
 _total_: 14 years<br>
 _male_: 14 years<br>
-_female_: 14 years (2020)<br>
+_female_: 14 years (2021)<br>
 <strong>note:</strong> does not include data from the former Western Sahara<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
@@ -297,7 +297,7 @@ _other_: 21% (2018 est.)<br>
 <strong>note:</strong> does not include the area of the former Western Sahara, which is almost exclusively desert<br>
 
 **Urbanization**<br>
-_urban population_: 64.6% of total population (2022)<br>
+_urban population_: 65.1% of total population (2023)<br>
 _rate of urbanization_: 1.88% annual rate of change (2020-25 est.)<br>
 <strong>note:</strong>  data does not include former Western Sahara<br>
 

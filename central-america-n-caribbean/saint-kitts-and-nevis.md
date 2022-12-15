@@ -196,7 +196,7 @@ _other alcohols_: 0.21 liters of pure alcohol (2019 est.)<br>
 NA<br>
 
 **Education expenditures**<br>
-2.6% of GDP (2015 est.)<br>
+2.5% of GDP (2021 est.)<br>
 
 **Literacy**<br>
 _total population_: NA<br>

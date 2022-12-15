@@ -125,7 +125,7 @@ _female_: 35.1 years (2020 est.)<br>
 the population is primarily concentrated within a broad wet zone in the southwest, urban centers along the eastern coast, and on the Jaffna Peninsula in the north<br>
 
 **Urbanization**<br>
-_urban population_: 19% of total population (2022)<br>
+_urban population_: 19.2% of total population (2023)<br>
 _rate of urbanization_: 1.22% annual rate of change (2020-25 est.)<br>
 
 **Major urban areas - population**<br>
@@ -220,7 +220,7 @@ _women married by age 15_: 0.9%<br>
 _women married by age 18_: 9.8% (2016 est.)<br>
 
 **Education expenditures**<br>
-2.1% of GDP (2018 est.)<br>
+1.9% of GDP (2019 est.)<br>
 
 **Literacy**<br>
 _definition_: age 15 and over can read and write<br>
@@ -234,9 +234,9 @@ _male_: 14 years<br>
 _female_: 14 years (2018)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 21.1%<br>
-_male_: 16.6%<br>
-_female_: 29.4% (2018 est.)<br>
+_total_: 21%<br>
+_male_: 17.1%<br>
+_female_: 28.1% (2019 est.)<br>
 
 ## Environment
 
@@ -264,7 +264,7 @@ _forest_: 29.4% (2018 est.)<br>
 _other_: 27.1% (2018 est.)<br>
 
 **Urbanization**<br>
-_urban population_: 19% of total population (2022)<br>
+_urban population_: 19.2% of total population (2023)<br>
 _rate of urbanization_: 1.22% annual rate of change (2020-25 est.)<br>
 
 **Revenue from forest resources**<br>
@@ -468,9 +468,9 @@ _services_: 47% (31 December 2016)<br>
 4.44% (2018 est.)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 21.1%<br>
-_male_: 16.6%<br>
-_female_: 29.4% (2018 est.)<br>
+_total_: 21%<br>
+_male_: 17.1%<br>
+_female_: 28.1% (2019 est.)<br>
 
 **Population below poverty line**<br>
 4.1% (2016 est.)<br>

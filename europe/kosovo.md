@@ -184,9 +184,9 @@ NA<br>
 NA<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 49.7%<br>
-_male_: 45.9%<br>
-_female_: 57.6% (2020 est.)<br>
+_total_: 48.8%<br>
+_male_: 44.9%<br>
+_female_: 57.3% (2020 est.)<br>
 
 ## Environment
 
@@ -391,9 +391,9 @@ _services_: 78.2% (2017 est.)<br>
 <strong>note:</strong> Kosovo has a large informal sector that may not be reflected in these data<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 49.7%<br>
-_male_: 45.9%<br>
-_female_: 57.6% (2020 est.)<br>
+_total_: 48.8%<br>
+_male_: 44.9%<br>
+_female_: 57.3% (2020 est.)<br>
 
 **Population below poverty line**<br>
 17.6% (2015 est.)<br>

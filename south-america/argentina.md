@@ -142,7 +142,7 @@ _female_: 33.6 years (2020 est.)<br>
 one-third of the population lives in Buenos Aires; pockets of agglomeration occur throughout the northern and central parts of the country; Patagonia to the south remains sparsely populated<br>
 
 **Urbanization**<br>
-_urban population_: 92.3% of total population (2022)<br>
+_urban population_: 92.5% of total population (2023)<br>
 _rate of urbanization_: 0.97% annual rate of change (2020-25 est.)<br>
 
 **Major urban areas - population**<br>
@@ -204,7 +204,7 @@ _unimproved: total_: total: (2020 est.) NA<br>
 0.4% (2021 est.)<br>
 
 **Major infectious diseases**<br>
-<strong>note:</strong> widespread ongoing transmission of a respiratory illness caused by the novel coronavirus (COVID-19) is occurring throughout Argentina; as of 18 August 2022, Argentina has reported a total of 9,633,732 cases of COVID-19 or 21,315.55 cumulative cases of COVID-19 per 100,000 population with a total of 129,566 cumulative deaths or 286.67 cumulative deaths per 100,000 population; as of 17 August 2022, 91.07% of the population has received at least one dose of COVID-19 vaccine<br>
+<strong>note:</strong> widespread ongoing transmission of a respiratory illness caused by the novel coronavirus (COVID-19) is occurring throughout Argentina; as of 9 December 2022, Argentina has reported a total of 9,739,856 cases of COVID-19 or 21,550.36 cumulative cases of COVID-19 per 100,000 population with a total of 130,034 cumulative deaths or 287.7 cumulative deaths per 100,000 population; as of 8 December 2022, 91% of the population has received at least one dose of COVID-19 vaccine<br>
 
 **Obesity - adult prevalence rate**<br>
 28.3% (2016)<br>
@@ -225,7 +225,7 @@ _female_: 19.6% (2020 est.)<br>
 1.7% (2018/19)<br>
 
 **Education expenditures**<br>
-4.8% of GDP (2019 est.)<br>
+5% of GDP (2020 est.)<br>
 
 **Literacy**<br>
 _definition_: age 15 and over can read and write<br>
@@ -236,12 +236,12 @@ _female_: 99.1% (2018)<br>
 **School life expectancy (primary to tertiary education)**<br>
 _total_: 18 years<br>
 _male_: 17 years<br>
-_female_: 19 years (2019)<br>
+_female_: 20 years (2020)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 30.2%<br>
-_male_: 26.8%<br>
-_female_: 35% (2020 est.)<br>
+_total_: 23.2%<br>
+_male_: 20.8%<br>
+_female_: 26.7% (2021 est.)<br>
 
 ## Environment
 
@@ -269,7 +269,7 @@ _forest_: 10.7% (2018 est.)<br>
 _other_: 35.4% (2018 est.)<br>
 
 **Urbanization**<br>
-_urban population_: 92.3% of total population (2022)<br>
+_urban population_: 92.5% of total population (2023)<br>
 _rate of urbanization_: 0.97% annual rate of change (2020-25 est.)<br>
 
 **Revenue from forest resources**<br>
@@ -279,7 +279,7 @@ _forest revenues_: 0.09% of GDP (2018 est.)<br>
 _coal revenues_: 0% of GDP (2018 est.)<br>
 
 **Major infectious diseases**<br>
-<strong>note:</strong> widespread ongoing transmission of a respiratory illness caused by the novel coronavirus (COVID-19) is occurring throughout Argentina; as of 18 August 2022, Argentina has reported a total of 9,633,732 cases of COVID-19 or 21,315.55 cumulative cases of COVID-19 per 100,000 population with a total of 129,566 cumulative deaths or 286.67 cumulative deaths per 100,000 population; as of 17 August 2022, 91.07% of the population has received at least one dose of COVID-19 vaccine<br>
+<strong>note:</strong> widespread ongoing transmission of a respiratory illness caused by the novel coronavirus (COVID-19) is occurring throughout Argentina; as of 9 December 2022, Argentina has reported a total of 9,739,856 cases of COVID-19 or 21,550.36 cumulative cases of COVID-19 per 100,000 population with a total of 130,034 cumulative deaths or 287.7 cumulative deaths per 100,000 population; as of 8 December 2022, 91% of the population has received at least one dose of COVID-19 vaccine<br>
 
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 17,910,550 tons (2014 est.)<br>
@@ -481,9 +481,9 @@ _services_: 66.1% (2017 est.)<br>
 9.18% (2018 est.)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 30.2%<br>
-_male_: 26.8%<br>
-_female_: 35% (2020 est.)<br>
+_total_: 23.2%<br>
+_male_: 20.8%<br>
+_female_: 26.7% (2021 est.)<br>
 
 **Population below poverty line**<br>
 35.5% (2019 est.)<br>
@@ -711,7 +711,7 @@ _LNG terminal(s) (import)_: Bahia Blanca<br>
 _river port(s)_: Arroyo Seco, Rosario, San Lorenzo-San Martin (Parana)<br>
 
 **Transportation - note**<br>
-Argentina operates one PC 5 or 6 class icebreaker<br><strong>note </strong>- PC 5 - Year-round operation in medium first-year ice which may include old ice inclusions (ice thickness up to 70-120 cm); PC 6 - Summer/autumn operation in medium first-year ice which may include old ice inclusions (ice thickness up to 30-70 cm)<br>
+Argentina operates one PC 5 or 6 class light icebreaker<br>note - PC indicates a Polar Class vessel: PC 5 - year-round operation in medium first-year ice which may include old ice inclusions (ice thickness up to 70-120 cm); PC 6 - summer/autumn operation in medium first-year ice which may include old ice inclusions (ice thickness up to 30-70 cm)<br>
 
 ## Military and Security
 
@@ -739,7 +739,7 @@ note - as of 2021, women comprised over 21% of the active duty military<br>
 250 Cyprus (UNFICYP) (May 2022)<br>
 
 **Military - note**<br>
-the Army and Navy were both created in 1810 during the Argentine War of Independence, while the Air Force was established in 1945; the military coups d'état in 1930, 1943, 1955, 1962, 1966, and 1976; the 1976 coup, aka the "National Reorganization Process," marked the beginning of the so-called "Dirty War," a period of state-sponsored terrorism that saw the deaths or disappearances of thousands of Argentinians; the defeat in the 1983 Falklands War led to the downfall of the military junta<br><br>Argentina has Major Non-NATO Ally (MNNA) status with the US; MNNA is a designation under US law that provides foreign partners with certain benefits in the areas of defense trade and security cooperation; while MNNA status provides military and economic privileges, it does not entail any security commitments (2022)<br>
+the Army and Navy were both created in 1810 during the Argentine War of Independence, while the Air Force was established in 1945; the military coups d'état in 1930, 1943, 1955, 1962, 1966, and 1976; the 1976 coup, aka the "National Reorganization Process," marked the beginning of the so-called "Dirty War," a period of state-sponsored terrorism that saw the deaths or disappearances of thousands of Argentinians; the defeat in the 1983 Falklands War led to the downfall of the military junta<br><br>Argentina and Chile have a joint peacekeeping force known as the Combined Southern Cross Peacekeeping Force (FPC), designed to be made available to the UN; the FPC is made up of two battalions, one from each country, a command and service company, an air component (a squadron of Argentine and Chilean helicopters), a naval component, and a combined logistics support unit<br><br>Argentina has Major Non-NATO Ally (MNNA) status with the US; MNNA is a designation under US law that provides foreign partners with certain benefits in the areas of defense trade and security cooperation; while MNNA status provides military and economic privileges, it does not entail any security commitments (2022)<br>
 
 ## Terrorism
 

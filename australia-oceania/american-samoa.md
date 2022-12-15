@@ -118,7 +118,7 @@ _female_: 27.7 years (2020 est.)<br>
 -29.8 migrant(s)/1,000 population (2022 est.)<br>
 
 **Urbanization**<br>
-_urban population_: 87.2% of total population (2022)<br>
+_urban population_: 87.2% of total population (2023)<br>
 _rate of urbanization_: 0.26% annual rate of change (2020-25 est.)<br>
 
 **Major urban areas - population**<br>
@@ -202,7 +202,7 @@ _forest_: 75.5% (2018 est.)<br>
 _other_: 0% (2018 est.)<br>
 
 **Urbanization**<br>
-_urban population_: 87.2% of total population (2022)<br>
+_urban population_: 87.2% of total population (2023)<br>
 _rate of urbanization_: 0.26% annual rate of change (2020-25 est.)<br>
 
 **Revenue from forest resources**<br>

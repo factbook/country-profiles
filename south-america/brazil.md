@@ -143,7 +143,7 @@ _female_: 34.1 years (2020 est.)<br>
 the vast majority of people live along, or relatively near, the Atlantic coast in the east; the population core is in the southeast, anchored by the cities of Sao Paolo, Brasilia, and Rio de Janeiro<br>
 
 **Urbanization**<br>
-_urban population_: 87.6% of total population (2022)<br>
+_urban population_: 87.8% of total population (2023)<br>
 _rate of urbanization_: 0.87% annual rate of change (2020-25 est.)<br>
 
 **Major urban areas - population**<br>
@@ -210,7 +210,7 @@ _degree of risk_: very high (2020)<br>
 _food or waterborne diseases_: bacterial diarrhea and hepatitis A<br>
 _vectorborne diseases_: dengue fever and malaria<br>
 _water contact diseases_: schistosomiasis<br>
-<strong>note:</strong> widespread ongoing transmission of a respiratory illness caused by the novel coronavirus (COVID-19) is occurring throughout Brazil; as of 18 August 2022, Brazil has reported a total of 34,201,280 cases of COVID-19 or 16,090.22 cumulative cases of COVID-19 per 100,000 population with a total of 681,763 cumulative deaths or a rate 320.74 cumulative deaths per 100,000 population; as of 17 August 2022, 86.79% of the population has received at least one dose of COVID-19 vaccine<br>
+<strong>note:</strong> widespread ongoing transmission of a respiratory illness caused by the novel coronavirus (COVID-19) is occurring throughout Brazil; as of 9 December 2022, Brazil has reported a total of 35,497,781 cases of COVID-19 or 16,700.2 cumulative cases of COVID-19 per 100,000 population with a total of 690,577 cumulative deaths or a rate 324.9 cumulative deaths per 100,000 population; as of 7 December 2022, 87.36% of the population has received at least one dose of COVID-19 vaccine<br>
 
 **Obesity - adult prevalence rate**<br>
 22.1% (2016)<br>
@@ -231,7 +231,7 @@ _female_: 9.4% (2020 est.)<br>
 NA<br>
 
 **Education expenditures**<br>
-6.1% of GDP (2018 est.)<br>
+6% of GDP (2019 est.)<br>
 
 **Literacy**<br>
 _definition_: age 15 and over can read and write<br>
@@ -242,12 +242,12 @@ _female_: 93.4% (2018)<br>
 **School life expectancy (primary to tertiary education)**<br>
 _total_: 16 years<br>
 _male_: 15 years<br>
-_female_: 16 years (2019)<br>
+_female_: 16 years (2020)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 31.3%<br>
-_male_: 27.5%<br>
-_female_: 36.3% (2020 est.)<br>
+_total_: 28.5%<br>
+_male_: 24.4%<br>
+_female_: 33.9% (2021 est.)<br>
 
 ## Environment
 
@@ -275,7 +275,7 @@ _forest_: 61.9% (2018 est.)<br>
 _other_: 5.2% (2018 est.)<br>
 
 **Urbanization**<br>
-_urban population_: 87.6% of total population (2022)<br>
+_urban population_: 87.8% of total population (2023)<br>
 _rate of urbanization_: 0.87% annual rate of change (2020-25 est.)<br>
 
 **Revenue from forest resources**<br>
@@ -289,7 +289,7 @@ _degree of risk_: very high (2020)<br>
 _food or waterborne diseases_: bacterial diarrhea and hepatitis A<br>
 _vectorborne diseases_: dengue fever and malaria<br>
 _water contact diseases_: schistosomiasis<br>
-<strong>note:</strong> widespread ongoing transmission of a respiratory illness caused by the novel coronavirus (COVID-19) is occurring throughout Brazil; as of 18 August 2022, Brazil has reported a total of 34,201,280 cases of COVID-19 or 16,090.22 cumulative cases of COVID-19 per 100,000 population with a total of 681,763 cumulative deaths or a rate 320.74 cumulative deaths per 100,000 population; as of 17 August 2022, 86.79% of the population has received at least one dose of COVID-19 vaccine<br>
+<strong>note:</strong> widespread ongoing transmission of a respiratory illness caused by the novel coronavirus (COVID-19) is occurring throughout Brazil; as of 9 December 2022, Brazil has reported a total of 35,497,781 cases of COVID-19 or 16,700.2 cumulative cases of COVID-19 per 100,000 population with a total of 690,577 cumulative deaths or a rate 324.9 cumulative deaths per 100,000 population; as of 7 December 2022, 87.36% of the population has received at least one dose of COVID-19 vaccine<br>
 
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 79,889,010 tons (2015 est.)<br>
@@ -492,9 +492,9 @@ _services_: 58.5% (2017 est.)<br>
 12.26% (2018 est.)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 31.3%<br>
-_male_: 27.5%<br>
-_female_: 36.3% (2020 est.)<br>
+_total_: 28.5%<br>
+_male_: 24.4%<br>
+_female_: 33.9% (2021 est.)<br>
 
 **Population below poverty line**<br>
 4.2% (2016 est.)<br>

@@ -200,7 +200,7 @@ _unimproved: total_: total: 0% of population (2020 est.)<br>
 
 **Major infectious diseases**<br>
 _respiratory diseases_: Covid-19 (see note) (2020)<br>
-<strong>note:</strong> widespread ongoing transmission of a respiratory illness caused by the novel coronavirus (COVID-19) is occurring throughout Spain; as of 18 August 2022, Spain has reported a total of 13,306,301 cases of COVID-19 or 28,112.33 cumulative cases of COVID-19 per 100,000 population with a total of 111,906 cumulative deaths or a rate of 236.42 cumulative deaths per 100,000 population; as of 10 August 2022, 86.94% of the population has received at least one dose of COVID-19 vaccine; the US Department of Homeland Security has issued instructions requiring US passengers who have been in Spain to travel through select airports where the US Government has implemented enhanced screening procedures<br>
+<strong>note:</strong> widespread ongoing transmission of a respiratory illness caused by the novel coronavirus (COVID-19) is occurring throughout Spain; as of 9 December 2022, Spain has reported a total of 13,614,807 cases of COVID-19 or 28,764.1 cumulative cases of COVID-19 per 100,000 population with a total of 116,108 cumulative deaths or a rate of 245.3 cumulative deaths per 100,000 population; the US Department of Homeland Security has issued instructions requiring US passengers who have been in Spain to travel through select airports where the US Government has implemented enhanced screening procedures<br>
 
 **Obesity - adult prevalence rate**<br>
 23.8% (2016)<br>
@@ -221,7 +221,7 @@ _female_: 26.7% (2020 est.)<br>
 NA<br>
 
 **Education expenditures**<br>
-4.2% of GDP (2018 est.)<br>
+4.6% of GDP (2020 est.)<br>
 
 **Literacy**<br>
 _definition_: age 15 and over can read and write<br>
@@ -231,18 +231,18 @@ _female_: 98.2% (2020)<br>
 
 **School life expectancy (primary to tertiary education)**<br>
 _total_: 18 years<br>
-_male_: 17 years<br>
-_female_: 18 years (2019)<br>
+_male_: 18 years<br>
+_female_: 19 years (2020)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 38.3%<br>
-_male_: 37.1%<br>
-_female_: 39.7% (2020 est.)<br>
+_total_: 34.8%<br>
+_male_: 34.1%<br>
+_female_: 35.6% (2021 est.)<br>
 
 ## Environment
 
 **Environment - current issues**<br>
-pollution of the Mediterranean Sea from raw sewage and effluents from the offshore production of oil and gas; water quality and quantity nationwide; air pollution; deforestation; desertification<br>
+pollution of the Mediterranean Sea from raw sewage and effluents from the offshore production of oil and gas and drought are negatively impacting water quality and quantity nationwide; air pollution; deforestation; desertification<br>
 
 **Environment - international agreements**<br>
 _party to_: Air Pollution, Air Pollution-Heavy Metals, Air Pollution-Multi-effect Protocol, Air Pollution-Nitrogen Oxides, Air Pollution-Persistent Organic Pollutants, Air Pollution-Sulphur 94, Air Pollution-Volatile Organic Compounds, Antarctic-Environmental Protection, Antarctic-Marine Living Resources, Antarctic Treaty, Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Endangered Species, Environmental Modification, Hazardous Wastes, Law of the Sea, Marine Dumping-London Convention, Marine Dumping-London Protocol, Marine Life Conservation, Nuclear Test Ban, Ozone Layer Protection, Ship Pollution, Tropical Timber 2006, Wetlands, Whaling<br>
@@ -277,7 +277,7 @@ _coal revenues_: 0% of GDP (2018 est.)<br>
 
 **Major infectious diseases**<br>
 _respiratory diseases_: Covid-19 (see note) (2020)<br>
-<strong>note:</strong> widespread ongoing transmission of a respiratory illness caused by the novel coronavirus (COVID-19) is occurring throughout Spain; as of 18 August 2022, Spain has reported a total of 13,306,301 cases of COVID-19 or 28,112.33 cumulative cases of COVID-19 per 100,000 population with a total of 111,906 cumulative deaths or a rate of 236.42 cumulative deaths per 100,000 population; as of 10 August 2022, 86.94% of the population has received at least one dose of COVID-19 vaccine; the US Department of Homeland Security has issued instructions requiring US passengers who have been in Spain to travel through select airports where the US Government has implemented enhanced screening procedures<br>
+<strong>note:</strong> widespread ongoing transmission of a respiratory illness caused by the novel coronavirus (COVID-19) is occurring throughout Spain; as of 9 December 2022, Spain has reported a total of 13,614,807 cases of COVID-19 or 28,764.1 cumulative cases of COVID-19 per 100,000 population with a total of 116,108 cumulative deaths or a rate of 245.3 cumulative deaths per 100,000 population; the US Department of Homeland Security has issued instructions requiring US passengers who have been in Spain to travel through select airports where the US Government has implemented enhanced screening procedures<br>
 
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 20.151 million tons (2015 est.)<br>
@@ -472,9 +472,9 @@ _services_: 71.7% (2009)<br>
 15.25% (2018 est.)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 38.3%<br>
-_male_: 37.1%<br>
-_female_: 39.7% (2020 est.)<br>
+_total_: 34.8%<br>
+_male_: 34.1%<br>
+_female_: 35.6% (2021 est.)<br>
 
 **Population below poverty line**<br>
 20.7% (2018 est.)<br>
@@ -737,9 +737,9 @@ Islamic State of Iraq and ash-Sham (ISIS); al-Qa’ida<br>
 <p><em>Spain-Andorra</em>: none identified</p> <p><em>Spain-France</em>: none identified</p> <p><em>Spain-Gibraltar (UK)</em>: in 2002, Gibraltar residents voted overwhelmingly by referendum to reject any "shared sovereignty" arrangement; the Government of Gibraltar insists on equal participation in talks between the UK and Spain; Spain does not recognize British sovereignty beyond the original fortified perimeter of the city and disapproves of UK plans to grant Gibraltar greater autonomy; after voters in the UK chose to leave the EU in a June 2016 referendum, Spain again proposed shared sovereignty of Gibraltar; UK officials rejected Spain’s joint sovereignty proposal</p> <p><em>Spain-Morocco</em>: Morocco protests Spain's control over the coastal enclaves of Ceuta, Melilla, and the islands of Penon de Velez de la Gomera, Penon de Alhucemas, and Islas Chafarinas, and surrounding waters; both countries claim Isla Perejil (Leila Island), which remains unoccupied but was the site of a  military standoff in 2002; Morocco serves as the primary embarkation area for illegal migration into mainland Spain from North Africa</p> <p><em>Spain-Portugal</em>: Portugal does not recognize Spanish sovereignty over the territory of Olivenza based on a difference of interpretation of the 1815 Congress of Vienna and the 1801 Treaty of Badajoz</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 14,823 (Syria) (mid-year 2021); 418,200 (Venezuela) (economic and political crisis; includes Venezuelans who have claimed asylum, are recognized as refugees, or have received alternative legal stay) (2021); 155,473 (Ukraine) (as of 27 November 2022)<br>
+_refugees (country of origin)_: 14,823 (Syria) (mid-year 2021); 418,200 (Venezuela) (economic and political crisis; includes Venezuelans who have claimed asylum, are recognized as refugees, or have received alternative legal stay) (2021); 156,753 (Ukraine) (as of 6 December 2022)<br>
 _stateless persons_: 692 (mid-year 2021)<br>
-<strong>note: </strong>276,899 estimated refugee and migrant arrivals, including Canary Islands (January 2015-November 2022)<br>
+<strong>note: </strong>277,187 estimated refugee and migrant arrivals, including Canary Islands (January 2015-December 2022)<br>
 
 **Illicit drugs**<br>
 primary transit point in Europe for cocaine from South America and for hashish from Morocco; cocaine is shipped in raw or liquid form with mixed cargo to avoid detection; traffickers ship methamphetamine via express mail; increasing indoor cannabis production; illegal labs cutting, mixing, and reconstituting cocaine, heroin, and methamphetamine labs; synthetic drugs, including ketamine and MDMA (ecstasy) transit from Spain to the US<br>

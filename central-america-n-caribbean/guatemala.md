@@ -131,7 +131,7 @@ _female_: 23.8 years (2020 est.)<br>
 the vast majority of the populace resides in the southern half of the country, particularly in the mountainous regions; more than half of the population lives in rural areas<br>
 
 **Urbanization**<br>
-_urban population_: 52.7% of total population (2022)<br>
+_urban population_: 53.1% of total population (2023)<br>
 _rate of urbanization_: 2.59% annual rate of change (2020-25 est.)<br>
 
 **Major urban areas - population**<br>
@@ -221,7 +221,7 @@ _female_: 1.6% (2020 est.)<br>
 12.4% (2014/15)<br>
 
 **Education expenditures**<br>
-3.3% of GDP (2020 est.)<br>
+3.1% of GDP (2021 est.)<br>
 
 **Literacy**<br>
 _definition_: age 15 and over can read and write<br>
@@ -265,7 +265,7 @@ _forest_: 33.6% (2018 est.)<br>
 _other_: 25.2% (2018 est.)<br>
 
 **Urbanization**<br>
-_urban population_: 52.7% of total population (2022)<br>
+_urban population_: 53.1% of total population (2023)<br>
 _rate of urbanization_: 2.59% annual rate of change (2020-25 est.)<br>
 
 **Revenue from forest resources**<br>

@@ -124,7 +124,7 @@ _female_: 43.1 years (2020 est.)<br>
 distribution exhibits a peripheral coastal settlement pattern, with the largest populations on the north and west coasts<br>
 
 **Urbanization**<br>
-_urban population_: 79.7% of total population (2022)<br>
+_urban population_: 80.1% of total population (2023)<br>
 _rate of urbanization_: 0.65% annual rate of change (2020-25 est.)<br>
 
 **Major urban areas - population**<br>
@@ -208,7 +208,7 @@ _agricultural land: permanent crops_: permanent crops: 5.8% (2018 est.)<br>
 _other_: 77.3% (2018 est.)<br>
 
 **Urbanization**<br>
-_urban population_: 79.7% of total population (2022)<br>
+_urban population_: 80.1% of total population (2023)<br>
 _rate of urbanization_: 0.65% annual rate of change (2020-25 est.)<br>
 
 **Waste and recycling**<br>

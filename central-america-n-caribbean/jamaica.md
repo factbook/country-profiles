@@ -125,7 +125,7 @@ _female_: 30.1 years (2020 est.)<br>
 population density is high throughout, but increases in and around Kingston, Montego Bay, and Port Esquivel<br>
 
 **Urbanization**<br>
-_urban population_: 57% of total population (2022)<br>
+_urban population_: 57.4% of total population (2023)<br>
 _rate of urbanization_: 0.79% annual rate of change (2020-25 est.)<br>
 
 **Major urban areas - population**<br>
@@ -210,7 +210,7 @@ _female_: 3.8% (2020 est.)<br>
 4.4% (2016)<br>
 
 **Education expenditures**<br>
-5.4% of GDP (2020 est.)<br>
+6% of GDP (2021 est.)<br>
 
 **Literacy**<br>
 _definition_: age 15 and over has ever attended school<br>
@@ -224,9 +224,9 @@ _male_: 11 years<br>
 _female_: 13 years (2015)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 20.6%<br>
-_male_: 16.8%<br>
-_female_: 25.4% (2019 est.)<br>
+_total_: 22.4%<br>
+_male_: 19%<br>
+_female_: 26.7% (2021 est.)<br>
 
 ## Environment
 
@@ -254,7 +254,7 @@ _forest_: 31.1% (2018 est.)<br>
 _other_: 27.5% (2018 est.)<br>
 
 **Urbanization**<br>
-_urban population_: 57% of total population (2022)<br>
+_urban population_: 57.4% of total population (2023)<br>
 _rate of urbanization_: 0.79% annual rate of change (2020-25 est.)<br>
 
 **Revenue from forest resources**<br>
@@ -444,9 +444,9 @@ _services_: 67.9% (2017)<br>
 9.13% (2018 est.)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 20.6%<br>
-_male_: 16.8%<br>
-_female_: 25.4% (2019 est.)<br>
+_total_: 22.4%<br>
+_male_: 19%<br>
+_female_: 26.7% (2021 est.)<br>
 
 **Population below poverty line**<br>
 17.1% (2016 est.)<br>

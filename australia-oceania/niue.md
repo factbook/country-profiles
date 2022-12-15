@@ -115,7 +115,7 @@ NA<br>
 population distributed around the peripheral coastal areas of the island<br>
 
 **Urbanization**<br>
-_urban population_: 47.6% of total population (2022)<br>
+_urban population_: 48.2% of total population (2023)<br>
 _rate of urbanization_: 1.43% annual rate of change (2020-25 est.)<br>
 
 **Major urban areas - population**<br>
@@ -215,7 +215,7 @@ _forest_: 71.2% (2018 est.)<br>
 _other_: 9.7% (2018 est.)<br>
 
 **Urbanization**<br>
-_urban population_: 47.6% of total population (2022)<br>
+_urban population_: 48.2% of total population (2023)<br>
 _rate of urbanization_: 1.43% annual rate of change (2020-25 est.)<br>
 
 **Major infectious diseases**<br>

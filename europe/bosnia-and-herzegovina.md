@@ -127,7 +127,7 @@ _female_: 44.8 years (2020 est.)<br>
 the northern and central areas of the country are the most densely populated<br>
 
 **Urbanization**<br>
-_urban population_: 49.8% of total population (2022)<br>
+_urban population_: 50.3% of total population (2023)<br>
 _rate of urbanization_: 0.61% annual rate of change (2020-25 est.)<br>
 
 **Major urban areas - population**<br>
@@ -225,9 +225,9 @@ _male_: 14 years<br>
 _female_: 15 years (2014)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 36.6%<br>
-_male_: 32.5%<br>
-_female_: 42.8% (2020 est.)<br>
+_total_: 35.1%<br>
+_male_: 31.7%<br>
+_female_: 40.7% (2021 est.)<br>
 
 ## Environment
 
@@ -255,7 +255,7 @@ _forest_: 42.8% (2018 est.)<br>
 _other_: 15% (2018 est.)<br>
 
 **Urbanization**<br>
-_urban population_: 49.8% of total population (2022)<br>
+_urban population_: 50.3% of total population (2023)<br>
 _rate of urbanization_: 0.61% annual rate of change (2020-25 est.)<br>
 
 **Revenue from forest resources**<br>
@@ -456,9 +456,9 @@ _services_: 51.7% (2017 est.)<br>
 <strong>note:</strong> official rate; actual rate is lower as many technically unemployed persons work in the gray economy<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 36.6%<br>
-_male_: 32.5%<br>
-_female_: 42.8% (2020 est.)<br>
+_total_: 35.1%<br>
+_male_: 31.7%<br>
+_female_: 40.7% (2021 est.)<br>
 
 **Population below poverty line**<br>
 16.9% (2015 est.)<br>
@@ -710,7 +710,7 @@ Islamic Revolutionary Guard Corps/Qods Force<br>
 _refugees (country of origin)_: 5,112 (Croatia) (2020)<br>
 _IDPs_: 92,000 (Bosnian Croats, Serbs, and Bosniaks displaced by inter-ethnic violence, human rights violations, and armed conflict during the 1992-95 war) (2021)<br>
 _stateless persons_: 149 (mid-year 2021)<br>
-<strong>note: </strong>109,285 estimated refugee and migrant arrivals (January 2015-November 2022)<br>
+<strong>note: </strong>110,085 estimated refugee and migrant arrivals (January 2015-November 2022)<br>
 
 **Illicit drugs**<br>
 <p>drug trafficking groups are major players in the procurement and transportation of large quantities of cocaine  destined for  European markets</p><br>

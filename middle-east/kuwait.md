@@ -131,7 +131,7 @@ _female_: 27.9 years (2020 est.)<br>
 densest settlement is along the Persian Gulf, particularly in Kuwait City and on Bubiyan Island; significant population threads extend south and west along highways that radiate from the capital, particularly in the southern half of the country<br>
 
 **Urbanization**<br>
-_urban population_: 100% of total population (2022)<br>
+_urban population_: 100% of total population (2023)<br>
 _rate of urbanization_: 1.35% annual rate of change (2020-25 est.)<br>
 
 **Major urban areas - population**<br>
@@ -256,7 +256,7 @@ _forest_: 0.4% (2018 est.)<br>
 _other_: 91.1% (2018 est.)<br>
 
 **Urbanization**<br>
-_urban population_: 100% of total population (2022)<br>
+_urban population_: 100% of total population (2023)<br>
 _rate of urbanization_: 1.35% annual rate of change (2020-25 est.)<br>
 
 **Revenue from forest resources**<br>

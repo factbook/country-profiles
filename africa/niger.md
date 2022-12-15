@@ -137,7 +137,7 @@ _female_: 15.1 years (2020 est.)<br>
 majority of the populace is located in the southernmost extreme of the country along the border with Nigeria and Benin as shown in this population distribution map<br>
 
 **Urbanization**<br>
-_urban population_: 16.9% of total population (2022)<br>
+_urban population_: 17.1% of total population (2023)<br>
 _rate of urbanization_: 4.72% annual rate of change (2020-25 est.)<br>
 
 **Major urban areas - population**<br>
@@ -231,7 +231,7 @@ _female_: 1.1% (2020 est.)<br>
 31.3% (2019)<br>
 
 **Education expenditures**<br>
-3.5% of GDP (2019 est.)<br>
+3.8% of GDP (2020 est.)<br>
 
 **Literacy**<br>
 _definition_: age 15 and over can read and write<br>
@@ -275,7 +275,7 @@ _forest_: 1% (2018 est.)<br>
 _other_: 63.9% (2018 est.)<br>
 
 **Urbanization**<br>
-_urban population_: 16.9% of total population (2022)<br>
+_urban population_: 17.1% of total population (2023)<br>
 _rate of urbanization_: 4.72% annual rate of change (2020-25 est.)<br>
 
 **Revenue from forest resources**<br>

@@ -132,7 +132,7 @@ _female_: 45.6 years (2020 est.)<br>
 a fairly even distribution throughout most of the country, with urban areas attracting larger populations<br>
 
 **Urbanization**<br>
-_urban population_: 76.4% of total population (2022)<br>
+_urban population_: 76.7% of total population (2023)<br>
 _rate of urbanization_: -0.28% annual rate of change (2020-25 est.)<br>
 
 **Major urban areas - population**<br>
@@ -216,7 +216,7 @@ _female_: 37.1% (2020 est.)<br>
 1.9% (2014)<br>
 
 **Education expenditures**<br>
-4.1% of GDP (2017 est.)<br>
+4% of GDP (2020 est.)<br>
 
 **Literacy**<br>
 _definition_: age 15 and over can read and write<br>
@@ -226,13 +226,13 @@ _female_: 98.1% (2015)<br>
 
 **School life expectancy (primary to tertiary education)**<br>
 _total_: 14 years<br>
-_male_: 14 years<br>
-_female_: 14 years (2019)<br>
+_male_: 13 years<br>
+_female_: 14 years (2020)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 14.2%<br>
-_male_: 14.6%<br>
-_female_: 13.7% (2020 est.)<br>
+_total_: 15.8%<br>
+_male_: 16.1%<br>
+_female_: 15.3% (2021 est.)<br>
 
 ## Environment
 
@@ -260,7 +260,7 @@ _forest_: 36.7% (2018 est.)<br>
 _other_: 16.4% (2018 est.)<br>
 
 **Urbanization**<br>
-_urban population_: 76.4% of total population (2022)<br>
+_urban population_: 76.7% of total population (2023)<br>
 _rate of urbanization_: -0.28% annual rate of change (2020-25 est.)<br>
 
 **Revenue from forest resources**<br>
@@ -463,9 +463,9 @@ _services_: 66.6% (2016 est.)<br>
 6.18% (2018 est.)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 14.2%<br>
-_male_: 14.6%<br>
-_female_: 13.7% (2020 est.)<br>
+_total_: 15.8%<br>
+_male_: 16.1%<br>
+_female_: 15.3% (2021 est.)<br>
 
 **Population below poverty line**<br>
 23.8% (2019 est.)<br>
@@ -722,7 +722,7 @@ Islamic State of Iraq and ash-Sham (ISIS); Islamic Revolutionary Guard Corps/Qod
 **Refugees and internally displaced persons**<br>
 _refugees (country of origin)_: 19,014 (Syria) (mid-year 2021); 51,516 (Ukraine) (as of 29 November 2022)<br>
 _stateless persons_: 1,143 (mid-year 2021)<br>
-<strong>note:</strong> 83,250 estimated refugee and migrant arrivals (January 2015-September 2022); Bulgaria is predominantly a transit country<br>
+<strong>note:</strong> 84,937 estimated refugee and migrant arrivals (January 2015-October 2022); Bulgaria is predominantly a transit country<br>
 
 **Illicit drugs**<br>
 source country for amphetamine tablets<br>

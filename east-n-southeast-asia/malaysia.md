@@ -128,7 +128,7 @@ _female_: 29.6 years (2020 est.)<br>
 a highly uneven distribution with over 80% of the population residing on the Malay Peninsula<br>
 
 **Urbanization**<br>
-_urban population_: 78.2% of total population (2022)<br>
+_urban population_: 78.7% of total population (2023)<br>
 _rate of urbanization_: 1.87% annual rate of change (2020-25 est.)<br>
 
 **Major urban areas - population**<br>
@@ -215,7 +215,7 @@ _female_: 1.1% (2020 est.)<br>
 14.1% (2019)<br>
 
 **Education expenditures**<br>
-4.2% of GDP (2019 est.)<br>
+3.9% of GDP (2020 est.)<br>
 
 **Literacy**<br>
 _definition_: age 15 and over can read and write<br>
@@ -226,7 +226,7 @@ _female_: 93.6% (2019)<br>
 **School life expectancy (primary to tertiary education)**<br>
 _total_: 13 years<br>
 _male_: 13 years<br>
-_female_: 14 years (2019)<br>
+_female_: 14 years (2020)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
 _total_: 12%<br>
@@ -259,7 +259,7 @@ _forest_: 62% (2018 est.)<br>
 _other_: 14.8% (2018 est.)<br>
 
 **Urbanization**<br>
-_urban population_: 78.2% of total population (2022)<br>
+_urban population_: 78.7% of total population (2023)<br>
 _rate of urbanization_: 1.87% annual rate of change (2020-25 est.)<br>
 
 **Revenue from forest resources**<br>

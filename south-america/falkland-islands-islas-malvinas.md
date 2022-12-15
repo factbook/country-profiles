@@ -120,7 +120,7 @@ NA<br>
 a very small population, with most residents living in and around Stanley<br>
 
 **Urbanization**<br>
-_urban population_: 79.3% of total population (2022)<br>
+_urban population_: 79.7% of total population (2023)<br>
 _rate of urbanization_: 0.53% annual rate of change (2020-25 est.)<br>
 
 **Major urban areas - population**<br>
@@ -199,7 +199,7 @@ _forest_: 0% (2018 est.)<br>
 _other_: 7.6% (2018 est.)<br>
 
 **Urbanization**<br>
-_urban population_: 79.3% of total population (2022)<br>
+_urban population_: 79.7% of total population (2023)<br>
 _rate of urbanization_: 0.53% annual rate of change (2020-25 est.)<br>
 
 ## Government

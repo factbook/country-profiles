@@ -210,7 +210,7 @@ _unimproved: total_: total: 12.6% of population (2020 est.)<br>
 _degree of risk_: very high (2020)<br>
 _food or waterborne diseases_: bacterial diarrhea, hepatitis A, and typhoid fever<br>
 _vectorborne diseases_: dengue fever, malaria, and Bartonellosis (Oroya fever)<br>
-<strong>note:</strong> widespread ongoing transmission of a respiratory illness caused by the novel coronavirus (COVID-19) is occurring throughout Peru; as of 18 August 2022, Peru has reported a total of 4,037,977 cases of COVID-19 or 12,246.73 cumulative cases of COVID-19 per 100,000 population with a total of 215,088 cumulative deaths or a rate of 652.33 cumulative deaths per 100,000 population; as of 14 August 2022, 88.19% of the population has received at least one dose of COVID-19 vaccine<br>
+<strong>note:</strong> widespread ongoing transmission of a respiratory illness caused by the novel coronavirus (COVID-19) is occurring throughout Peru; as of 9 December 2022, Peru has reported a total of 4,330,521 cases of COVID-19 or 13,134 cumulative cases of COVID-19 per 100,000 population with a total of 217,566 cumulative deaths or a rate of 659.85 cumulative deaths per 100,000 population; as of 6 December 2022, 88.51% of the population has received at least one dose of COVID-19 vaccine<br>
 
 **Obesity - adult prevalence rate**<br>
 19.7% (2016)<br>
@@ -235,7 +235,7 @@ _women married by age 15_: 2.5%<br>
 _women married by age 18_: 17.4% (2018 est.)<br>
 
 **Education expenditures**<br>
-4.2% of GDP (2020 est.)<br>
+4% of GDP (2021 est.)<br>
 
 **Literacy**<br>
 _definition_: age 15 and over can read and write<br>
@@ -249,9 +249,9 @@ _male_: 15 years<br>
 _female_: 15 years (2017)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 12.6%<br>
-_male_: 13%<br>
-_female_: 12.1% (2020 est.)<br>
+_total_: 9.5%<br>
+_male_: 8.5%<br>
+_female_: 10.7% (2021 est.)<br>
 
 ## Environment
 
@@ -292,7 +292,7 @@ _coal revenues_: 0% of GDP (2018 est.)<br>
 _degree of risk_: very high (2020)<br>
 _food or waterborne diseases_: bacterial diarrhea, hepatitis A, and typhoid fever<br>
 _vectorborne diseases_: dengue fever, malaria, and Bartonellosis (Oroya fever)<br>
-<strong>note:</strong> widespread ongoing transmission of a respiratory illness caused by the novel coronavirus (COVID-19) is occurring throughout Peru; as of 18 August 2022, Peru has reported a total of 4,037,977 cases of COVID-19 or 12,246.73 cumulative cases of COVID-19 per 100,000 population with a total of 215,088 cumulative deaths or a rate of 652.33 cumulative deaths per 100,000 population; as of 14 August 2022, 88.19% of the population has received at least one dose of COVID-19 vaccine<br>
+<strong>note:</strong> widespread ongoing transmission of a respiratory illness caused by the novel coronavirus (COVID-19) is occurring throughout Peru; as of 9 December 2022, Peru has reported a total of 4,330,521 cases of COVID-19 or 13,134 cumulative cases of COVID-19 per 100,000 population with a total of 217,566 cumulative deaths or a rate of 659.85 cumulative deaths per 100,000 population; as of 6 December 2022, 88.51% of the population has received at least one dose of COVID-19 vaccine<br>
 
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 8,356,711 tons (2014 est.)<br>
@@ -367,12 +367,12 @@ _residency requirement for naturalization_: 2 years<br>
 18 years of age; universal and compulsory until the age of 70<br>
 
 **Executive branch**<br>
-_chief of state_: President Jose Pedro CASTILLO Terrones (since 28 July 2021); First Vice President Dina Ercilia BOLUARTE Zegarra (since 28 July 2021); Second Vice President (vacant); note - the president is both chief of state and head of government<br>
-_head of government_: President Jose Pedro CASTILLO Terrones (since 28 July 2021); First Vice President Dina Ercilia BOLUARTE Zegarra (since 28 July 2021); Second Vice President (vacant)<br>
+_chief of state_: President Dina Ercilia BOLUARTE Zegarra (since 7 December 2022); First Vice President (vacant); Second Vice President (vacant); note - the president is both chief of state and head of government<br>
+_head of government_: President Dina Ercilia BOLUARTE Zegarra (since 7 December 2022); First Vice President (vacant); Second Vice President (vacant)<br>
 _cabinet_: Council of Ministers appointed by the president<br>
 _elections/appointments_: president directly elected by absolute majority popular vote in 2 rounds if needed for a 5-year term (eligible for nonconsecutive terms); election last held on 11 April 2021 with a runoff on 6 June 2021 (next to be held in April 2026)<br>
 _election results_: <br><em>2021: </em>Jose Pedro CASTILLO Terrones elected president in second round; percent of vote in first round - Jose Pedro CASTILLO Terrones (Free Peru) 18.9%, Keiko Sofia FUJIMORI Higuchi (Popular Force) 13.4%, Rafael LOPEZ ALIAGA Cazorla (Popular Renewal) 11.8%, Hernando DE SOTO Polar (Social Integration Party) 11.6%, Yonhy LESCANO Ancieta (Popular Action) 9.1%, Veronika MENDOZA Frisch (JP) 7.9%, Cesar ACUNA Peralta (APP) 6%, George FORSYTH Sommer (National Victory) 5.7%, Daniel Belizario URRESTI Elera (We Can Peru) 5.6%, other 10%; percent of vote second round - Jose Pedro CASTILLO Terrones (Free Peru) 50.1%, Keiko Sofia FUJIMORI Higuchi (Popular Force) 49.9%<br><br><em>2016:</em> Pedro Pablo KUCZYNSKI Godard elected president in second round; percent of vote in first round - Keiko FUJIMORI Higuchi (Popular Force) 39.9%, Pedro Pablo KUCZYNSKI Godard (PPK) 21.1%, Veronika MENDOZA (Broad Front) 18.7%, Alfredo BARNECHEA (Popular Action) 7%, Alan GARCIA (APRA) 5.8%, other 7.5%; percent of vote in second round - Pedro Pablo KUCZYNSKI Godard 50.1%, Keiko FUJIMORI Higuchi 49.9%<br>
-<strong>note 1: </strong>President Martin Alberto VIZCARRA Cornejo assumed office after President Pedro Pablo KUCZYNSKI Godard resigned from office on 21 March 2018; after VIZCARRA was impeached on 9 November 2020, the constitutional line of succession led to the inauguration of the President of the Peruvian Congress, Manuel Arturo MERINO, as President of Peru on 10 November 2020; following his resignation only days later on 15 November 2020, Francisco Rafael SAGASTI Hochhausler - who had been elected by the legislature to be the new President of Congress on 16 November 2020 - was then sworn in as President of Peru on 17 November 2020 by line of succession and remained president until the inauguration of Jose Pedro CASTILLO Terrones, winner of the 2021 presidential election<strong><br><br>note 2:</strong> Prime Minister Anibal TORRES Vasquez (since 8 February 2022) does not exercise executive power; this power rests with the president<br>
+<strong>note 1: </strong>First Vice President Dina Ercilia BOLUARTE Zegarra assumed the office of the president on 7 December 2022 after President Jose Pedro CASTILLO Terrones was impeached and arrested; BOLUARTE is the first woman to become president of Peru <br><br><strong>note 2:</strong> Prime Minister Pedro Miguel ANGULO ARANA (since 10 December 2022) does not exercise executive power; this power rests with the president<br>
 
 **Legislative branch**<br>
 _description_: unicameral Congress of the Republic of Peru or Congreso de la Republica del Peru (130 seats; members directly elected in multi-seat constituencies by closed party-list proportional representation vote to serve single 5-year terms)<br>
@@ -495,9 +495,9 @@ _services_: 56.8% (2011)<br>
 <strong>note:</strong> data are for metropolitan Lima; widespread underemployment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 12.6%<br>
-_male_: 13%<br>
-_female_: 12.1% (2020 est.)<br>
+_total_: 9.5%<br>
+_male_: 8.5%<br>
+_female_: 10.7% (2021 est.)<br>
 
 **Population below poverty line**<br>
 20.2% (2019 est.)<br>

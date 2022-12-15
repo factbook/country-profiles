@@ -123,7 +123,7 @@ _female_: 46.1 years (2020 est.)<br>
 population is unevenly distributed and is concentrated in the seven urbanized valleys that make up the country's parishes (political administrative divisions)<br>
 
 **Urbanization**<br>
-_urban population_: 87.8% of total population (2022)<br>
+_urban population_: 87.8% of total population (2023)<br>
 _rate of urbanization_: 0.11% annual rate of change (2020-25 est.)<br>
 
 **Major urban areas - population**<br>
@@ -204,7 +204,7 @@ _female_: 28.3% (2020 est.)<br>
 NA<br>
 
 **Education expenditures**<br>
-3.2% of GDP (2019 est.)<br>
+2.9% of GDP (2021 est.)<br>
 
 **Literacy**<br>
 _definition_: age 15 and over can read and write<br>
@@ -238,7 +238,7 @@ _forest_: 34% (2018 est.)<br>
 _other_: 26% (2018 est.)<br>
 
 **Urbanization**<br>
-_urban population_: 87.8% of total population (2022)<br>
+_urban population_: 87.8% of total population (2023)<br>
 _rate of urbanization_: 0.11% annual rate of change (2020-25 est.)<br>
 
 **Revenue from forest resources**<br>

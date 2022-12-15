@@ -126,7 +126,7 @@ _female_: 48 years (2020 est.)<br>
 largest concentration of people is found in and around the port and capital city of Riga; small agglomerations are scattered throughout the country<br>
 
 **Urbanization**<br>
-_urban population_: 68.5% of total population (2022)<br>
+_urban population_: 68.7% of total population (2023)<br>
 _rate of urbanization_: -0.68% annual rate of change (2020-25 est.)<br>
 
 **Major urban areas - population**<br>
@@ -214,7 +214,7 @@ _female_: 23.7% (2020 est.)<br>
 NA<br>
 
 **Education expenditures**<br>
-4.2% of GDP (2018 est.)<br>
+6% of GDP (2020 est.)<br>
 
 **Literacy**<br>
 _definition_: age 15 and over can read and write<br>
@@ -225,12 +225,12 @@ _female_: 99.9% (2018)<br>
 **School life expectancy (primary to tertiary education)**<br>
 _total_: 16 years<br>
 _male_: 16 years<br>
-_female_: 17 years (2019)<br>
+_female_: 17 years (2020)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 14.9%<br>
-_male_: 14.4%<br>
-_female_: 15.5% (2020 est.)<br>
+_total_: 14.8%<br>
+_male_: 14.9%<br>
+_female_: 14.6% (2021 est.)<br>
 
 ## Environment
 
@@ -258,7 +258,7 @@ _forest_: 54.1% (2018 est.)<br>
 _other_: 16.7% (2018 est.)<br>
 
 **Urbanization**<br>
-_urban population_: 68.5% of total population (2022)<br>
+_urban population_: 68.7% of total population (2023)<br>
 _rate of urbanization_: -0.68% annual rate of change (2020-25 est.)<br>
 
 **Revenue from forest resources**<br>
@@ -456,9 +456,9 @@ _services_: 68.1% (2016 est.)<br>
 6.51% (2018 est.)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 14.9%<br>
-_male_: 14.4%<br>
-_female_: 15.5% (2020 est.)<br>
+_total_: 14.8%<br>
+_male_: 14.9%<br>
+_female_: 14.6% (2021 est.)<br>
 
 **Population below poverty line**<br>
 22.9% (2018 est.)<br>
@@ -675,7 +675,7 @@ _by type_: general cargo 22, oil tanker 9, other 39 (2021)<br>
 _major seaport(s)_: Riga, Ventspils<br>
 
 **Transportation - note**<br>
-Latvia operates one PC 5 or 6 class icebreaker in the Baltic Sea<br><strong>note </strong>- PC 5 - Year-round operation in medium first-year ice which may include old ice inclusions (ice thickness up to 70-120 cm); PC 6 - Summer/autumn operation in medium first-year ice which may include old ice inclusions (ice thickness up to 30-70 cm)<br>
+Latvia operates one PC 5 or 6 class icebreaker in the Baltic Sea<br>note - PC indicates a Polar Class vessel: PC 5 - year-round operation in medium first-year ice which may include old ice inclusions (ice thickness up to 70-120 cm); PC 6 - summer/autumn operation in medium first-year ice which may include old ice inclusions (ice thickness up to 30-70 cm)<br>
 
 ## Military and Security
 
@@ -711,7 +711,7 @@ Latvia became a member of NATO in 2004 <br><br>since 2017, Latvia has hosted a C
 <p><em>Latvia-Belarus</em>: Belarus and Latvia signed joint demarcation map in September 2008</p> <p><em>Latvia-Estonia</em>: demarcation reportedly completed in 1998</p> <p><em>Latvia-Lithuania</em>: boundary demarcation was completed by the end of 1998; the Latvian parliament has not ratified its 1998 maritime boundary treaty with Lithuania, primarily due to concerns over oil exploration rights</p> <p><em>Latvia-Russia</em>: Russia demands better Latvian treatment of ethnic Russians in Latvia; in March 2007, Latvia and Russia signed a border treaty, which includes Latvia withdrawing claims to a district now in Russia that was part of Latvia before WWII; the permanent demarcation of the boundary between Latvia and Russia was completed and came into force in April 2018; as a member state that forms part of the EU's external border, Latvia has implemented the strict Schengen border rules with Russia</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 35,283 (Ukraine) (as of 15 November 2022)<br>
+_refugees (country of origin)_: 34,439 (Ukraine) (as of 6 December 2022)<br>
 _stateless persons_: 209,168 (mid-year 2021); note - individuals who were Latvian citizens prior to the 1940 Soviet occupation and their descendants were recognized as Latvian citizens when the country's independence was restored in 1991; citizens of the former Soviet Union residing in Latvia who have neither Latvian nor other citizenship are considered non-citizens (officially there is no statelessness in Latvia) and are entitled to non-citizen passports; children born after Latvian independence to stateless parents are entitled to Latvian citizenship upon their parents' request; non-citizens cannot vote or hold certain government jobs and are exempt from military service but can travel visa-free in the EU under the Schengen accord like Latvian citizens; non-citizens can obtain naturalization if they have been permanent residents of Latvia for at least five years, pass tests in Latvian language and history, and know the words of the Latvian national anthem<br>
 
 **Illicit drugs**<br>

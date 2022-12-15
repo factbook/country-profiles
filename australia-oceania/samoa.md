@@ -123,7 +123,7 @@ _female_: 26 years (2020 est.)<br>
 about three-quarters of the population lives on the island of Upolu<br>
 
 **Urbanization**<br>
-_urban population_: 17.6% of total population (2022)<br>
+_urban population_: 17.5% of total population (2023)<br>
 _rate of urbanization_: -0.03% annual rate of change (2020-25 est.)<br>
 
 **Major urban areas - population**<br>
@@ -220,9 +220,9 @@ _male_: 99%<br>
 _female_: 99.2% (2018)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 31.9%<br>
-_male_: 24.6%<br>
-_female_: 43.4% (2017 est.)<br>
+_total_: 19.6%<br>
+_male_: 13.3%<br>
+_female_: 30% (2017 est.)<br>
 
 ## Environment
 
@@ -250,7 +250,7 @@ _forest_: 60.4% (2018 est.)<br>
 _other_: 27.2% (2018 est.)<br>
 
 **Urbanization**<br>
-_urban population_: 17.6% of total population (2022)<br>
+_urban population_: 17.5% of total population (2023)<br>
 _rate of urbanization_: -0.03% annual rate of change (2020-25 est.)<br>
 
 **Revenue from forest resources**<br>
@@ -435,9 +435,9 @@ _services_: 29% (2015 est.)<br>
 NA<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 31.9%<br>
-_male_: 24.6%<br>
-_female_: 43.4% (2017 est.)<br>
+_total_: 19.6%<br>
+_male_: 13.3%<br>
+_female_: 30% (2017 est.)<br>
 
 **Population below poverty line**<br>
 20.3% (2013 est.)<br>

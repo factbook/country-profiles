@@ -182,7 +182,7 @@ NA<br>
 NA<br>
 
 **Education expenditures**<br>
-1.3% of GDP (2017 est.)<br>
+1.9% of GDP (2021 est.)<br>
 
 **Literacy**<br>
 _total population_: NA<br>

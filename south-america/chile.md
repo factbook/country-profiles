@@ -133,7 +133,7 @@ _female_: 36.7 years (2020 est.)<br>
 90% of the population is located in the middle third of the country around the capital of Santiago; the far north (anchored by the Atacama Desert) and the extreme south are relatively underpopulated<br>
 
 **Urbanization**<br>
-_urban population_: 87.9% of total population (2022)<br>
+_urban population_: 88% of total population (2023)<br>
 _rate of urbanization_: 0.78% annual rate of change (2020-25 est.)<br>
 
 **Major urban areas - population**<br>
@@ -214,7 +214,7 @@ _female_: 26.8% (2020 est.)<br>
 0.5% (2014)<br>
 
 **Education expenditures**<br>
-5.4% of GDP (2018 est.)<br>
+5.6% of GDP (2019 est.)<br>
 
 **Literacy**<br>
 _definition_: age 15 and over can read and write<br>
@@ -224,13 +224,13 @@ _female_: 96.3% (2017)<br>
 
 **School life expectancy (primary to tertiary education)**<br>
 _total_: 17 years<br>
-_male_: 17 years<br>
-_female_: 17 years (2019)<br>
+_male_: 16 years<br>
+_female_: 17 years (2020)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 24.9%<br>
-_male_: 23.7%<br>
-_female_: 26.6% (2020 est.)<br>
+_total_: 20.6%<br>
+_male_: 19%<br>
+_female_: 22.7% (2021 est.)<br>
 
 ## Environment
 
@@ -258,7 +258,7 @@ _forest_: 21.9% (2018 est.)<br>
 _other_: 57% (2018 est.)<br>
 
 **Urbanization**<br>
-_urban population_: 87.9% of total population (2022)<br>
+_urban population_: 88% of total population (2023)<br>
 _rate of urbanization_: 0.78% annual rate of change (2020-25 est.)<br>
 
 **Revenue from forest resources**<br>
@@ -458,9 +458,9 @@ _services_: 67.1% (2013)<br>
 7.33% (2018 est.)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 24.9%<br>
-_male_: 23.7%<br>
-_female_: 26.6% (2020 est.)<br>
+_total_: 20.6%<br>
+_male_: 19%<br>
+_female_: 22.7% (2021 est.)<br>
 
 **Population below poverty line**<br>
 8.6% (2017 est.)<br>
@@ -677,7 +677,7 @@ _container port(s) (TEUs)_: San Antonio (1,709,635), Valparaiso (898,715) (2019)
 _LNG terminal(s) (import)_: Mejillones, Quintero<br>
 
 **Transportation - note**<br>
-Chile operates one PC 5 or 6 class icebreaker for operations in Antarctica and the Southern Ocean<br><strong>note </strong>- PC 5 - Year-round operation in medium first-year ice which may include old ice inclusions (ice thickness up to 70-120 cm); PC 6 - Summer/autumn operation in medium first-year ice which may include old ice inclusions (ice thickness up to 30-70 cm)<br>
+Chile operates one PC 5 or 6 class light icebreaker for operations in Antarctica and the Southern Ocean<br>note - PC indicates a Polar Class vessel: PC 5 - year-round operation in medium first-year ice which may include old ice inclusions (ice thickness up to 70-120 cm); PC 6 - summer/autumn operation in medium first-year ice which may include old ice inclusions (ice thickness up to 30-70 cm)<br>
 
 ## Military and Security
 
@@ -703,7 +703,7 @@ the Chilean military inventory is comprised of a wide mix of mostly Western equi
 <strong>note:</strong> as of 2021, women comprised approximately 18% of the armed forces<br>
 
 **Military - note**<br>
-the Chilean Army was founded in 1810, but traces its origins back to the Army of the Kingdom of Chile, which was established by the Spanish Crown in the early 1600s; the Navy traces its origins to 1817; it was first led by a British officer and its first ships were largely crewed by American, British, and Irish sailors; by the 1880s, the Chilean Navy was one of the most powerful in the Americas, and included the world&rsquo;s first protected cruiser (a ship with an armored deck to protect vital machine spaces); Chile's military aviation was inaugurated in 1913 with the creation of a military aviation school (2022)<br>
+the Chilean Army was founded in 1810, but traces its origins back to the Army of the Kingdom of Chile, which was established by the Spanish Crown in the early 1600s; the Navy traces its origins to 1817; it was first led by a British officer and its first ships were largely crewed by American, British, and Irish sailors; by the 1880s, the Chilean Navy was one of the most powerful in the Americas, and included the world’s first protected cruiser (a ship with an armored deck to protect vital machine spaces); Chile's military aviation was inaugurated in 1913 with the creation of a military aviation school<br><br>Chile and Argentina have a joint peacekeeping force known as the Combined Southern Cross Peacekeeping Force (FPC), designed to be made available to the UN; the FPC is made up of two battalions, one from each country, a command and service company, an air component (a squadron of Argentine and Chilean helicopters), a naval component, and a combined logistics support unit (2022)<br>
 
 ## Transnational Issues
 

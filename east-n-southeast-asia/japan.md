@@ -130,7 +130,7 @@ _female_: 50 years (2020 est.)<br>
 all primary and secondary regions of high population density lie on the coast; one-third of the population resides in and around Tokyo on the central plain (Kanto Plain)<br>
 
 **Urbanization**<br>
-_urban population_: 92% of total population (2022)<br>
+_urban population_: 92% of total population (2023)<br>
 _rate of urbanization_: -0.25% annual rate of change (2020-25 est.)<br>
 
 **Major urban areas - population**<br>
@@ -198,7 +198,7 @@ NA<br>
 
 **Major infectious diseases**<br>
 _respiratory diseases_: Covid-19 (see note) (2020)<br>
-<strong>note:</strong> clusters of cases of respiratory illness caused by a new coronavirus (COVID-19) in Japan; illness with this virus has ranged from mild to severe with fatalities reported; as of 18 August 2022, Japan has reported a total of 16,161,801 cases of COVID-19 or 12,778.50 cumulative cases of COVID-19 per 100,000 population with a total of 35,955 cumulative deaths or a rate of 28.42 cumulative deaths per 100,000 population; as of 17 August 2022, 83.48% of the population has received at least one dose of COVID-19 vaccine<br>
+<strong>note:</strong> clusters of cases of respiratory illness caused by a new coronavirus (COVID-19) in Japan; illness with this virus has ranged from mild to severe with fatalities reported; as of 9 December 2022, Japan has reported a total of 25,687,798 cases of COVID-19 or 20,310.33 cumulative cases of COVID-19 per 100,000 population with a total of 51,062 cumulative deaths or a rate of 40.37 cumulative deaths per 100,000 population; as of 8 December 2022, 84.27% of the population has received at least one dose of COVID-19 vaccine<br>
 
 **Obesity - adult prevalence rate**<br>
 4.3% (2016)<br>
@@ -219,7 +219,7 @@ _female_: 10% (2020 est.)<br>
 NA<br>
 
 **Education expenditures**<br>
-3.2% of GDP (2017 est.)<br>
+3.4% of GDP (2020 est.)<br>
 
 **Literacy**<br>
 _total population_: NA<br>
@@ -229,12 +229,12 @@ _female_: NA<br>
 **School life expectancy (primary to tertiary education)**<br>
 _total_: 15 years<br>
 _male_: 15 years<br>
-_female_: 15 years (2018)<br>
+_female_: 15 years (2019)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
 _total_: 4.6%<br>
-_male_: 5%<br>
-_female_: 4.2% (2020 est.)<br>
+_male_: 5.1%<br>
+_female_: 4.2% (2021 est.)<br>
 
 ## Environment
 
@@ -262,7 +262,7 @@ _forest_: 68.5% (2018 est.)<br>
 _other_: 19% (2018 est.)<br>
 
 **Urbanization**<br>
-_urban population_: 92% of total population (2022)<br>
+_urban population_: 92% of total population (2023)<br>
 _rate of urbanization_: -0.25% annual rate of change (2020-25 est.)<br>
 
 **Revenue from forest resources**<br>
@@ -273,7 +273,7 @@ _coal revenues_: 0% of GDP (2018 est.)<br>
 
 **Major infectious diseases**<br>
 _respiratory diseases_: Covid-19 (see note) (2020)<br>
-<strong>note:</strong> clusters of cases of respiratory illness caused by a new coronavirus (COVID-19) in Japan; illness with this virus has ranged from mild to severe with fatalities reported; as of 18 August 2022, Japan has reported a total of 16,161,801 cases of COVID-19 or 12,778.50 cumulative cases of COVID-19 per 100,000 population with a total of 35,955 cumulative deaths or a rate of 28.42 cumulative deaths per 100,000 population; as of 17 August 2022, 83.48% of the population has received at least one dose of COVID-19 vaccine<br>
+<strong>note:</strong> clusters of cases of respiratory illness caused by a new coronavirus (COVID-19) in Japan; illness with this virus has ranged from mild to severe with fatalities reported; as of 9 December 2022, Japan has reported a total of 25,687,798 cases of COVID-19 or 20,310.33 cumulative cases of COVID-19 per 100,000 population with a total of 51,062 cumulative deaths or a rate of 40.37 cumulative deaths per 100,000 population; as of 8 December 2022, 84.27% of the population has received at least one dose of COVID-19 vaccine<br>
 
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 43.981 million tons (2015 est.)<br>
@@ -464,8 +464,8 @@ _services_: 70.9% (February 2015 est.)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
 _total_: 4.6%<br>
-_male_: 5%<br>
-_female_: 4.2% (2020 est.)<br>
+_male_: 5.1%<br>
+_female_: 4.2% (2021 est.)<br>
 
 **Population below poverty line**<br>
 16.1% (2013 est.)<br>
@@ -687,7 +687,7 @@ _LNG terminal(s) (import)_: Chita, Fukwoke, Futtsu, Hachinone, Hakodate, Hatsuka
 Okinawa - Nakagusuku<br>
 
 **Transportation - note**<br>
-Japan operates one PC 3 or 4 class icebreaker<br><strong>note </strong>- PC 3 - Year-round operation in second-year ice which may include multi-year ice inclusions (ice thickness up to 2.5 m); PC 4 - Year-round operation in thick first-year ice which may include old ice inclusions (ice thickness up to 120 cm)<br>
+Japan operates one PC 3 or 4 class medium icebreaker<br>note - PC indicates a Polar Class vessel: PC 3 - year-round operation in second-year ice which may include multi-year ice inclusions (ice thickness up to 2.5 m); PC 4 - year-round operation in thick first-year ice which may include old ice inclusions (ice thickness up to 120 cm)<br>
 
 ## Military and Security
 

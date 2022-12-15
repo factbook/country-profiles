@@ -29,9 +29,9 @@ slightly more than four times the size of Georgia; slightly less than the size o
 
 **Land boundaries**<br>
 _total_: 3,956 km<br>
-_border countries_: Andorra 55 km; Belgium 556 km; Germany 418 k; Italy 476 km; Luxembourg 69 km; Monaco 6 km; Spain 646 km; Switzerland 525 km<br>
-_metropolitan France - total_: 2751<br>
-_French Guiana - total_: 1205<br>
+_border countries_: Andorra 55 km; Belgium 556 km; Germany 418 km; Italy 476 km; Luxembourg 69 km; Monaco 6 km; Spain 646 km; Switzerland 525 km<br>
+_metropolitan France - total_: 2751 km<br>
+_French Guiana - total_: 1205 km<br>
 
 **Coastline**<br>
 4,853 km<br>
@@ -41,7 +41,7 @@ _French Guiana - total_: 1205<br>
 _territorial sea_: 12 nm<br>
 _contiguous zone_: 24 nm<br>
 _exclusive economic zone_: 200 nm (does not apply to the Mediterranean Sea)<br>
-_continental shelf_: 200-m depth or to the depth of exploitation<br>
+_continental shelf_: 200m depth or to the depth of exploitation<br>
 
 **Climate**<br>
 <p><strong>metropolitan France:</strong> generally cool winters and mild summers, but mild winters and hot summers along the Mediterranean; occasional strong, cold, dry, north-to-northwesterly wind known as the mistral;</p> <p><strong>French Guiana:</strong> tropical; hot, humid; little seasonal temperature variation;</p> <p><strong>Guadeloupe and Martinique:</strong> subtropical tempered by trade winds; moderately high humidity; rainy season (June to October); vulnerable to devastating cyclones (hurricanes) every eight years on average;</p> <p><strong>Mayotte:</strong> tropical; marine; hot, humid, rainy season during northeastern monsoon (November to May); dry season is cooler (May to November);</p> <p><strong>Reunion:</strong> tropical, but temperature moderates with elevation; cool and dry (May to November), hot and rainy (November to April)</p><br>
@@ -56,7 +56,7 @@ _mean elevation_: 375 m<br>
 <strong>note:</strong> to assess the possible effects of climate change on the ice and snow cap of Mont Blanc, its surface and peak have been extensively measured in recent years; these new peak measurements have exceeded the traditional height of 4,807 m and have varied between 4,808 m and 4,811 m; the actual rock summit is 4,792 m and is 40 m away from the ice-covered summit<br>
 
 **Natural resources**<br>
-<em>metropolitan France:</em> coal, iron ore, bauxite, zinc, uranium, antimony, arsenic, potash, feldspar, fluorspar, gypsum, timber, arable land, fish <em>French Guiana</em><em>:</em> gold deposits, petroleum, kaolin, niobium, tantalum, clay<br>
+<em>metropolitan France:</em> coal, iron ore, bauxite, zinc, uranium, antimony, arsenic, potash, feldspar, fluorspar, gypsum, timber, arable land, fish; <em>French Guiana</em><em>:</em> gold deposits, petroleum, kaolin, niobium, tantalum, clay<br>
 
 **Land use**<br>
 _agricultural land_: 52.7% (2018 est.)<br>
@@ -76,7 +76,7 @@ _fresh water lake(s)_: Lake Geneva (shared with Switzerland) - 580 sq km<br>
 Rhine  (shared with Switzerland [s], Germany, and Netherlands [m]) - 1,233 km;  Loire - 1,012 km<br><strong>note</strong> – [s] after country name indicates river source; [m] after country name indicates river mouth<br>
 
 **Major watersheds (area sq km)**<br>
-Atlantic Ocean drainage: Loire (115,282 sq km), Seine 78,919 sq km), Rhine-Maas (198,735 sq km), <em>(Adriatic Sea)</em> Po (76,997 sq km), <em>(Mediterranean Sea) </em>Rhone (100,543 sq km)<br>
+Atlantic Ocean drainage: Loire (115,282 sq km), Seine (78,919 sq km), Rhine-Maas (198,735 sq km), <em>(Adriatic Sea)</em> Po (76,997 sq km), <em>(Mediterranean Sea) </em>Rhone (100,543 sq km)<br>
 
 **Major aquifers**<br>
 Paris Basin<br>
@@ -146,7 +146,7 @@ _female_: 43.4 years (2020 est.)<br>
 much of the population is concentrated in the north and southeast; although there are many urban agglomerations throughout the country, Paris is by far the largest city, with Lyon ranked a distant second<br>
 
 **Urbanization**<br>
-_urban population_: 81.5% of total population (2022)<br>
+_urban population_: 81.8% of total population (2023)<br>
 _rate of urbanization_: 0.67% annual rate of change (2020-25 est.)<br>
 
 **Major urban areas - population**<br>
@@ -212,7 +212,7 @@ _unimproved: total_: total: 0% of population (2020 est.)<br>
 0.3% (2021 est.)<br>
 
 **Major infectious diseases**<br>
-<strong>note:</strong> widespread ongoing transmission of a respiratory illness caused by the novel coronavirus (COVID-19) is occurring throughout France; as of 18 August 2022, France has reported a total of 33,275,006 cases of COVID-19 or 51,161.33 cumulative cases of COVID-19 per 100,000 population with a total of 149,848 cumulative deaths or a rate 230.39 cumulative deaths per 100,000 population; as of 16 August 2022, 80.89% of the population has received at least one dose of COVID-19 vaccine<br>
+<strong>note:</strong> widespread ongoing transmission of a respiratory illness caused by the novel coronavirus (COVID-19) is occurring throughout France; as of 9 December 2022, France has reported a total of 37,252,086 cases of COVID-19 or 57276.2 cumulative cases of COVID-19 per 100,000 population with a total of 155,898 cumulative deaths or a rate 239.7 cumulative deaths per 100,000 population; as of 7 December 2022, 80.54% of the population has received at least one dose of COVID-19 vaccine<br>
 
 **Obesity - adult prevalence rate**<br>
 21.6% (2016)<br>
@@ -233,7 +233,7 @@ _female_: 31.9% (2020 est.)<br>
 NA<br>
 
 **Education expenditures**<br>
-5.4% of GDP (2018 est.)<br>
+5.5% of GDP (2020 est.)<br>
 
 **Literacy**<br>
 _total population_: NA<br>
@@ -242,13 +242,13 @@ _female_: NA<br>
 
 **School life expectancy (primary to tertiary education)**<br>
 _total_: 16 years<br>
-_male_: 15 years<br>
-_female_: 16 years (2019)<br>
+_male_: 16 years<br>
+_female_: 16 years (2020)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 20.2%<br>
-_male_: 20.3%<br>
-_female_: 19.9% (2020 est.)<br>
+_total_: 18.9%<br>
+_male_: 19%<br>
+_female_: 18.8% (2021 est.)<br>
 
 ## Environment
 
@@ -275,7 +275,7 @@ _forest_: 29.2% (2018 est.)<br>
 _other_: 18.1% (2018 est.)<br>
 
 **Urbanization**<br>
-_urban population_: 81.5% of total population (2022)<br>
+_urban population_: 81.8% of total population (2023)<br>
 _rate of urbanization_: 0.67% annual rate of change (2020-25 est.)<br>
 
 **Revenue from forest resources**<br>
@@ -285,7 +285,7 @@ _forest revenues_: 0.03% of GDP (2018 est.)<br>
 _coal revenues_: 0% of GDP (2018 est.)<br>
 
 **Major infectious diseases**<br>
-<strong>note:</strong> widespread ongoing transmission of a respiratory illness caused by the novel coronavirus (COVID-19) is occurring throughout France; as of 18 August 2022, France has reported a total of 33,275,006 cases of COVID-19 or 51,161.33 cumulative cases of COVID-19 per 100,000 population with a total of 149,848 cumulative deaths or a rate 230.39 cumulative deaths per 100,000 population; as of 16 August 2022, 80.89% of the population has received at least one dose of COVID-19 vaccine<br>
+<strong>note:</strong> widespread ongoing transmission of a respiratory illness caused by the novel coronavirus (COVID-19) is occurring throughout France; as of 9 December 2022, France has reported a total of 37,252,086 cases of COVID-19 or 57276.2 cumulative cases of COVID-19 per 100,000 population with a total of 155,898 cumulative deaths or a rate 239.7 cumulative deaths per 100,000 population; as of 7 December 2022, 80.54% of the population has received at least one dose of COVID-19 vaccine<br>
 
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 33.399 million tons (2015 est.)<br>
@@ -299,7 +299,7 @@ _fresh water lake(s)_: Lake Geneva (shared with Switzerland) - 580 sq km<br>
 Rhine  (shared with Switzerland [s], Germany, and Netherlands [m]) - 1,233 km;  Loire - 1,012 km<br><strong>note</strong> – [s] after country name indicates river source; [m] after country name indicates river mouth<br>
 
 **Major watersheds (area sq km)**<br>
-Atlantic Ocean drainage: Loire (115,282 sq km), Seine 78,919 sq km), Rhine-Maas (198,735 sq km), <em>(Adriatic Sea)</em> Po (76,997 sq km), <em>(Mediterranean Sea) </em>Rhone (100,543 sq km)<br>
+Atlantic Ocean drainage: Loire (115,282 sq km), Seine (78,919 sq km), Rhine-Maas (198,735 sq km), <em>(Adriatic Sea)</em> Po (76,997 sq km), <em>(Mediterranean Sea) </em>Rhone (100,543 sq km)<br>
 
 **Major aquifers**<br>
 Paris Basin<br>
@@ -429,9 +429,9 @@ _selected World Heritage Site locales_: Chartres Cathedral (c); Palace and Park 
 <p>The French economy is diversified across all sectors. The government has partially or fully privatized many large companies, including Air France, France Telecom, Renault, and Thales. However, the government maintains a strong presence in some sectors, particularly power, public transport, and defense industries. France is the most visited country in the world with 89 million foreign tourists in 2017. France's leaders remain committed to a capitalism in which they maintain social equity by means of laws, tax policies, and social spending that mitigate economic inequality.</p> <p> </p> <p>France's real GDP grew by 1.9% in 2017, up from 1.2% the year before. The unemployment rate (including overseas territories) increased from 7.8% in 2008 to 10.2% in 2015, before falling to 9.0% in 2017. Youth unemployment in metropolitan France decreased from 24.6% in the fourth quarter of 2014 to 20.6% in the fourth quarter of 2017.</p> <p> </p> <p>France’s public finances have historically been strained by high spending and low growth. In 2017, the budget deficit improved to 2.7% of GDP, bringing it in compliance with the EU-mandated 3% deficit target. Meanwhile, France's public debt rose from 89.5% of GDP in 2012 to 97% in 2017.</p> <p> </p> <p>Since entering office in May 2017, President Emmanuel MACRON launched a series of economic reforms to improve competitiveness and boost economic growth. President MACRON campaigned on reforming France’s labor code and in late 2017 implemented a range of reforms to increase flexibility in the labor market by making it easier for firms to hire and fire and simplifying negotiations between employers and employees. In addition to labor reforms, President MACRON’s 2018 budget cuts public spending, taxes, and social security contributions to spur private investment and increase purchasing power. The government plans to gradually reduce corporate tax rate for businesses from 33.3% to 25% by 2022.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
-$2,832,170,000,000 (2020 est.)<br>
-$3,082,300,000,000 (2019 est.)<br>
-$3,036,490,000,000 (2018 est.)<br>
+$2.832 trillion (2020 est.)<br>
+$3.082 trillion (2019 est.)<br>
+$3.037 trillion (2018 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
@@ -446,7 +446,7 @@ $45,300 (2018 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$2,715,574,000,000 (2019 est.)<br>
+$2.716 trillion (2019 est.)<br>
 
 **Inflation rate (consumer prices)**<br>
 1.1% (2019 est.)<br>
@@ -473,10 +473,10 @@ _exports of goods and services_: 30.9% (2017 est.)<br>
 _imports of goods and services_: -32% (2017 est.)<br>
 
 **Agricultural products**<br>
-wheat, sugar beet, milk, barley, maize, potatoes, grapes, rapeseed, pork, apples<br>
+wheat, sugar beets, milk, barley, maize, potatoes, grapes, rapeseed, pork, apples<br>
 
 **Industries**<br>
-machinery, chemicals, automobiles, metallurgy, aircraft, electronics; textiles, food processing; tourism<br>
+machinery, chemicals, automobiles, metallurgy, aircraft, electronics, textiles, food processing, tourism<br>
 
 **Industrial production growth rate**<br>
 2% (2017 est.)<br>
@@ -495,9 +495,9 @@ _services_: 77.2% (2016 est.)<br>
 <strong>note:</strong> includes overseas territories<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 20.2%<br>
-_male_: 20.3%<br>
-_female_: 19.9% (2020 est.)<br>
+_total_: 18.9%<br>
+_male_: 19%<br>
+_female_: 18.8% (2021 est.)<br>
 
 **Population below poverty line**<br>
 13.6% (2018 est.)<br>
@@ -559,8 +559,8 @@ $156.4 billion (31 December 2017 est.)<br>
 $138.2 billion (31 December 2015 est.)<br>
 
 **Debt - external**<br>
-$6,356,459,000,000 (2019 est.)<br>
-$6,058,438,000,000 (2018 est.)<br>
+$6.356 trillion (2019 est.)<br>
+$6.058 trillion (2018 est.)<br>
 
 **Exchange rates**<br>
 _Currency_: euros (EUR) per US dollar -<br>
@@ -617,9 +617,9 @@ _crude oil estimated reserves_: 61.7 million barrels (2021 est.)<br>
 
 **Natural gas**<br>
 _production_: 16.226 million cubic meters (2019 est.)<br>
-_consumption_: 38,192,256,000 cubic meters (2020 est.)<br>
-_exports_: 9,103,795,000 cubic meters (2020 est.)<br>
-_imports_: 46,105,385,000 cubic meters (2020 est.)<br>
+_consumption_: 38.192 billion cubic meters (2020 est.)<br>
+_exports_: 9.104 billion cubic meters (2020 est.)<br>
+_imports_: 46.11 billion cubic meters (2020 est.)<br>
 _proven reserves_: 7.787 billion cubic meters (2021 est.)<br>
 
 **Carbon dioxide emissions**<br>
@@ -722,7 +722,7 @@ _river port(s)_: Bordeaux (Garronne); Nantes - Saint Nazaire (Loire); Paris, Rou
 _cruise/ferry port(s)_: Calais, Cherbourg, Le Havre<br>
 
 **Transportation - note**<br>
-begun in 1988 and completed in 1994, the Channel Tunnel (nicknamed the Chunnel) is a 50.5-km (31.4-mi) rail tunnel beneath the English Channel at the Strait of Dover that runs from Folkestone, Kent, England to Coquelles, Pas-de-Calais in northern France; it is the only fixed link between the island of Great Britain and mainland Europe; France operates two icebreakers, one PC 3 or 4 class icebreaker based in French Polynesia for operations in Antarctica and one PC 5 or 6 class icebreaker based in the North Atlantic<br><strong>note </strong>- PC 3 - Year-round operation in second-year ice which may include multi-year ice inclusions (ice thickness up to 2.5 m); PC 4 - Year-round operation in thick first-year ice which may include old ice inclusions (ice thickness up to 120 cm); PC 5 - Year-round operation in medium first-year ice which may include old ice inclusions (ice thickness up to 70-120 cm); PC 6 - Summer/autumn operation in medium first-year ice which may include old ice inclusions (ice thickness up to 30-70 cm)<br>
+<strong>note 1: </strong>begun in 1988 and completed in 1994, the Channel Tunnel (nicknamed the Chunnel) is a 50.5-km (31.4-mi) rail tunnel beneath the English Channel at the Strait of Dover that runs from Folkestone, Kent, England to Coquelles, Pas-de-Calais in northern France; it is the only fixed link between the island of Great Britain and mainland Europe<br><br><strong>note 2:</strong> France operates two icebreakers, one PC 3 or 4 class icebreaker based in French Polynesia for operations in Antarctica and one PC 5 or 6 class icebreaker based in the North Atlantic<br>note - PC indicates a Polar Class vessel: PC 3 - year-round operation in second-year ice which may include multi-year ice inclusions (ice thickness up to 2.5 m); PC 4 - year-round operation in thick first-year ice which may include old ice inclusions (ice thickness up to 120 cm); PC 5 - year-round operation in medium first-year ice which may include old ice inclusions (ice thickness up to 70-120 cm); PC 6 - summer/autumn operation in medium first-year ice which may include old ice inclusions (ice thickness up to 30-70 cm)<br>
 
 ## Military and Security
 
@@ -746,10 +746,10 @@ the French military's inventory consists mostly of domestically produced weapons
 
 **Military service age and obligation**<br>
 18-25 years of age for voluntary military service for men and women; no conscription (abolished 2001); 12-month service obligation; women serve in noncombat posts (2022)<br>
-<strong>note 1: </strong>in 2019, women comprised approximately approximately 16% of the uniformed armed forces  <br><br><strong>note 2: </strong>men between the ages of 17.5 and 39.5 years of age, of any nationality, may join the French Foreign Legion; those volunteers selected for service sign five-year contracts<br><br><strong>note 3:</strong> in 2018, Parliament passed a law that would require military service for all genders beginning in 2024; Prime Minister MACRON included the measure in his platform hoping that it would reinvigorate a sense of civic duty; the service would include two components: the first would take place around age 16 and include one month of training and civic service, while the second component would last between three months and a year and be more geared towards defense and security duties; France began a pilot for the program in 2019<br>
+<strong>note 1: </strong>in 2019, women comprised approximately 16% of the uniformed armed forces  <br><br><strong>note 2: </strong>men between the ages of 17.5 and 39.5 years of age, of any nationality, may join the French Foreign Legion; those volunteers selected for service sign five-year contracts<br><br><strong>note 3:</strong> in 2018, Parliament passed a law that would require military service for all genders beginning in 2024; Prime Minister MACRON included the measure in his platform hoping that it would reinvigorate a sense of civic duty; the service would include two components: the first would take place around age 16 and include one month of training and civic service, while the second component would last between three months and a year and be more geared towards defense and security duties; France began a pilot for the program in 2019<br>
 
 **Military deployments**<br>
-approximately 3,000 Burkina Faso/Chad/Niger (Operation Barkhane, Operation Sabre); approximately 300 Central African Republic; 300 Comoros; approximately 900 Cote D'Ivoire; approximately 1,450 Djibouti; 220 Estonia (NATO); approximately 2,000 French Guyana; approximately 900 French Polynesia; approximately 1,000 French West Indies; 350 Gabon; approximately 500 Middle East (Iraq/Jordan/Syria); 600 Lebanon (UNIFIL); approximately 1,400 New Caledonia; approximately 1,700 Reunion Island; approximately 800 Romania (NATO); approximately 350 Senegal; approximately 650 United Arab Emirates (2022)<br>
+approximately 3,000 Burkina Faso/Chad/Niger (Operation Barkhane, Operation Sabre); approximately 300 Central African Republic; 300 Comoros; approximately 900 Cote d'Ivoire; approximately 1,450 Djibouti; 220 Estonia (NATO); approximately 2,000 French Guyana; approximately 900 French Polynesia; approximately 1,000 French West Indies; 350 Gabon; approximately 500 Middle East (Iraq/Jordan/Syria); 600 Lebanon (UNIFIL); approximately 1,400 New Caledonia; approximately 1,700 Reunion Island; approximately 800 Romania (NATO); approximately 350 Senegal; approximately 650 United Arab Emirates (2022)<br>
 <strong>note 1:</strong> France has been a contributing member of the EuroCorps since 1992 <br><br><strong>note 2: </strong>in response to Russia’s 2022 invasion of Ukraine, some NATO countries, including France, have sent additional troops to the battlegroups deployed in NATO territory in eastern Europe<br>
 
 **Military - note**<br>

@@ -131,7 +131,7 @@ _female_: 24.7 years (2020 est.)<br>
 relatively higher population density in the western half of the nation, with the capital of Maseru, and the smaller cities of Mafeteng, Teyateyaneng, and Leribe attracting the most people as shown in this population distribution map<br>
 
 **Urbanization**<br>
-_urban population_: 29.9% of total population (2022)<br>
+_urban population_: 30.4% of total population (2023)<br>
 _rate of urbanization_: 2.77% annual rate of change (2020-25 est.)<br>
 
 **Major urban areas - population**<br>
@@ -222,7 +222,7 @@ _women married by age 18_: 16.4%<br>
 _men married by age 18_: 1.9% (2018 est.)<br>
 
 **Education expenditures**<br>
-7.4% of GDP (2020 est.)<br>
+8.7% of GDP (2021 est.)<br>
 
 **Literacy**<br>
 _definition_: age 15 and over can read and write<br>
@@ -236,9 +236,9 @@ _male_: 12 years<br>
 _female_: 13 years (2017)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 35.5%<br>
-_male_: 31.2% NA<br>
-_female_: 41.5% (2019 est.) NA<br>
+_total_: 25.6%<br>
+_male_: 18.6% NA<br>
+_female_: 38.1% (2019 est.) NA<br>
 
 ## Environment
 
@@ -266,7 +266,7 @@ _forest_: 1.5% (2018 est.)<br>
 _other_: 22.4% (2018 est.)<br>
 
 **Urbanization**<br>
-_urban population_: 29.9% of total population (2022)<br>
+_urban population_: 30.4% of total population (2023)<br>
 _rate of urbanization_: 2.77% annual rate of change (2020-25 est.)<br>
 
 **Revenue from forest resources**<br>
@@ -467,9 +467,9 @@ _industry and services_: 14% (2002 est.)<br>
 25% (2008 est.)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 35.5%<br>
-_male_: 31.2% NA<br>
-_female_: 41.5% (2019 est.) NA<br>
+_total_: 25.6%<br>
+_male_: 18.6% NA<br>
+_female_: 38.1% (2019 est.) NA<br>
 
 **Population below poverty line**<br>
 49.7% (2017 est.)<br>

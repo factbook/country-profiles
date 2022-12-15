@@ -129,7 +129,7 @@ _female_: 43.9 years (2020 est.)<br>
 a fairly even distribution throughout most of the country, with urban areas attracting larger and denser populations<br>
 
 **Urbanization**<br>
-_urban population_: 80.3% of total population (2022)<br>
+_urban population_: 80.7% of total population (2023)<br>
 _rate of urbanization_: 0.28% annual rate of change (2020-25 est.)<br>
 
 **Major urban areas - population**<br>
@@ -218,7 +218,7 @@ _women married by age 18_: 4.7%<br>
 _men married by age 18_: 1.6% (2019 est.)<br>
 
 **Education expenditures**<br>
-5% of GDP (2020 est.)<br>
+4.7% of GDP (2021 est.)<br>
 
 **Literacy**<br>
 _definition_: age 15 and over can read and write<br>
@@ -229,12 +229,12 @@ _female_: 99.9% (2019)<br>
 **School life expectancy (primary to tertiary education)**<br>
 _total_: 15 years<br>
 _male_: 15 years<br>
-_female_: 16 years (2018)<br>
+_female_: 15 years (2021)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 12.4%<br>
-_male_: 14.3%<br>
-_female_: 10.2% (2020 est.)<br>
+_total_: 12%<br>
+_male_: 13.8%<br>
+_female_: 10.1% (2020 est.)<br>
 
 ## Environment
 
@@ -262,7 +262,7 @@ _forest_: 42.7% (2018 est.)<br>
 _other_: 13.6% (2018 est.)<br>
 
 **Urbanization**<br>
-_urban population_: 80.3% of total population (2022)<br>
+_urban population_: 80.7% of total population (2023)<br>
 _rate of urbanization_: 0.28% annual rate of change (2020-25 est.)<br>
 
 **Revenue from forest resources**<br>
@@ -464,9 +464,9 @@ _services_: 66.8% (2015 est.)<br>
 <strong>note:</strong> official registered unemployed; large number of underemployed workers<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 12.4%<br>
-_male_: 14.3%<br>
-_female_: 10.2% (2020 est.)<br>
+_total_: 12%<br>
+_male_: 13.8%<br>
+_female_: 10.1% (2020 est.)<br>
 
 **Population below poverty line**<br>
 5% (2019 est.)<br>
@@ -714,7 +714,7 @@ Belarus has close security ties with Russia, including an integrated air and mis
 <p><em>Belarus-Latvia:</em> Boundary demarcated with Latvia.<br><br><em>Belarus-Lithuania:</em> Boundary demarcated with Lithuania.<br><br><em>Belarus-Poland:</em> As a member state that forms part of the EU's external border, Poland has implemented strict Schengen border rules to restrict illegal immigration and trade along its border with Belarus.</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 17,209 (Ukraine) (as of 29 November 2022)<br>
+_refugees (country of origin)_: 17,260 (Ukraine) (as of 6 December 2022)<br>
 _stateless persons_: 6,104 (mid-year 2021)<br>
 
 **Trafficking in persons**<br>

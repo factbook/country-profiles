@@ -22,7 +22,7 @@ Europe<br>
 _total_: 43,094 sq km<br>
 _land_: 42,434 sq km<br>
 _water_: 660 sq km<br>
-<strong>note:</strong> includes the island of Bornholm in the Baltic Sea and the rest of metropolitan Denmark (the Jutland Peninsula, and the major islands of Sjaelland and Fyn), but excludes the Faroe Islands and Greenland<br>
+<strong>note:</strong> includes the island of Bornholm in the Baltic Sea and the rest of metropolitan Denmark (the Jutland Peninsula, and the major islands of Sjaelland and Fyn) but excludes the Faroe Islands and Greenland<br>
 
 **Area - comparative**<br>
 slightly less than twice the size of Massachusetts; about two-thirds the size of West Virginia<br>
@@ -128,7 +128,7 @@ _female_: 43.1 years (2020 est.)<br>
 with excellent access to the North Sea, Skagerrak, Kattegat, and the Baltic Sea, population centers tend to be along coastal areas, particularly in Copenhagen and the eastern side of the country's mainland<br>
 
 **Urbanization**<br>
-_urban population_: 88.4% of total population (2022)<br>
+_urban population_: 88.5% of total population (2023)<br>
 _rate of urbanization_: 0.54% annual rate of change (2020-25 est.)<br>
 
 **Major urban areas - population**<br>
@@ -212,7 +212,7 @@ _female_: 17.1% (2020 est.)<br>
 NA<br>
 
 **Education expenditures**<br>
-7.8% of GDP (2017 est.)<br>
+6.4% of GDP (2020 est.)<br>
 
 **Literacy**<br>
 _total population_: NA<br>
@@ -222,12 +222,12 @@ _female_: NA<br>
 **School life expectancy (primary to tertiary education)**<br>
 _total_: 19 years<br>
 _male_: 18 years<br>
-_female_: 19 years (2019)<br>
+_female_: 19 years (2020)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 11.6%<br>
-_male_: 12.6%<br>
-_female_: 10.6% (2020 est.)<br>
+_total_: 10.8%<br>
+_male_: 10.7%<br>
+_female_: 11% (2021 est.)<br>
 
 ## Environment
 
@@ -255,7 +255,7 @@ _forest_: 12.9% (2018 est.)<br>
 _other_: 23.7% (2018 est.)<br>
 
 **Urbanization**<br>
-_urban population_: 88.4% of total population (2022)<br>
+_urban population_: 88.5% of total population (2023)<br>
 _rate of urbanization_: 0.54% annual rate of change (2020-25 est.)<br>
 
 **Revenue from forest resources**<br>
@@ -341,7 +341,7 @@ _judge selection and term of office_: judges appointed by the monarch upon the r
 _subordinate courts_: Special Court of Indictment and Revision; 2 High Courts; Maritime and Commercial Court; county courts<br>
 
 **Political parties and leaders**<br>
-The Alternative AP [Franciska ROSENKILDE]<br>Conservative People's Party or DKF or C [Soren PAPE POULSEN]<br>Danish People's Party or DF or O [Morten MESSERSCHMIDT]<br>Denmark Democrats or E [Inger STOJBERG]<br>Green Left or SF or F [Pia OLSEN DYHR] (formerly Socialist People's Party or SF or F)<br>Liberal Alliance or LA or I [Alex VANOPSLAGH]<br>Liberal Party (Venstre) or V [Jakob ELLEMANN-JENSEN]<br>Moderates or M [Lars Lokke RASMUSSEN]<br>New Right Party or NB or D [Ann Pernille VERMUND TVEDE]<br>Red-Green Alliance (Unity List) or EL [collective leadership, Mai VILLADSEN, spokesperson]<br>Social Democrats or SDP or A [Mette FREDERIKSEN]<br>Social Liberal Party or SLP or B [Sofie CARSTEN NIELSEN]<br>
+The Alternative or AP [Franciska ROSENKILDE]<br>Conservative People's Party or DKF or C [Soren PAPE POULSEN]<br>Danish People's Party or DF or O [Morten MESSERSCHMIDT]<br>Denmark Democrats or E [Inger STOJBERG]<br>Green Left or SF or F [Pia OLSEN DYHR] (formerly Socialist People's Party or SF or F)<br>Liberal Alliance or LA or I [Alex VANOPSLAGH]<br>Liberal Party (Venstre) or V [Jakob ELLEMANN-JENSEN]<br>Moderates or M [Lars Lokke RASMUSSEN]<br>New Right Party or NB or D [Ann Pernille VERMUND TVEDE]<br>Red-Green Alliance (Unity List) or EL [collective leadership, Mai VILLADSEN, spokesperson]<br>Social Democrats or SDP or A [Mette FREDERIKSEN]<br>Social Liberal Party or SLP or B [Sofie CARSTEN NIELSEN]<br>
 
 **International organization participation**<br>
 ADB (nonregional member), AfDB (nonregional member), Arctic Council, Australia Group, BIS, CBSS, CD, CE, CERN, EAPC, EBRD, ECB, EIB, EITI (implementing country), ESA, EU, FAO, FATF, G-9, IADB, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IEA, IFAD, IFC, IFRCS, IGAD (partners), IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, MINUSMA, NATO, NC, NEA, NIB, NSG, OAS (observer), OECD, OPCW, OSCE, Paris Club, PCA, Schengen Convention, UN, UNCTAD, UNESCO, UNHCR, UNIDO, UNMIL, UNMISS, UNRWA, UNTSO, UPU, Wassenaar Arrangement, WCO, WHO, WIPO, WMO, WTO, ZC<br>
@@ -428,7 +428,7 @@ _exports of goods and services_: 54.5% (2017 est.)<br>
 _imports of goods and services_: -47.5% (2017 est.)<br>
 
 **Agricultural products**<br>
-milk, wheat, barley, potatoes, sugar beet, pork, rye, rapeseed, oats, poultry<br>
+milk, wheat, barley, potatoes, sugar beets, pork, rye, rapeseed, oats, poultry<br>
 
 **Industries**<br>
 wind turbines, pharmaceuticals, medical equipment, shipbuilding and refurbishment, iron, steel, nonferrous metals, chemicals, food processing, machinery and transportation equipment, textiles and clothing, electronics, construction, furniture and other wood products<br>
@@ -449,9 +449,9 @@ _services_: 79.3% (2016 est.)<br>
 3.07% (2018 est.)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 11.6%<br>
-_male_: 12.6%<br>
-_female_: 10.6% (2020 est.)<br>
+_total_: 10.8%<br>
+_male_: 10.7%<br>
+_female_: 11% (2021 est.)<br>
 
 **Population below poverty line**<br>
 12.5% (2018 est.)<br>
@@ -570,10 +570,10 @@ _crude oil estimated reserves_: 441 million barrels (2021 est.)<br>
 109,700 bbl/day (2017 est.)<br>
 
 **Natural gas**<br>
-_production_: 1,314,636,000 cubic meters (2020 est.)<br>
-_consumption_: 2,188,096,000 cubic meters (2020 est.)<br>
-_exports_: 1,700,594,000 cubic meters (2020 est.)<br>
-_imports_: 2,645,893,000 cubic meters (2020 est.)<br>
+_production_: 1.315 billion cubic meters (2020 est.)<br>
+_consumption_: 2.188 billion cubic meters (2020 est.)<br>
+_exports_: 1.701 billion cubic meters (2020 est.)<br>
+_imports_: 2.646 billion cubic meters (2020 est.)<br>
 _proven reserves_: 29.534 billion cubic meters (2021 est.)<br>
 
 **Carbon dioxide emissions**<br>
@@ -596,7 +596,7 @@ _total subscriptions_: 7,252,675 (2020 est.)<br>
 _subscriptions per 100 inhabitants_: 125 (2020 est.)<br>
 
 **Telecommunication systems**<br>
-_general assessment_: Denmark has one of the highest broadband subscription rates globally, with a near universal availability of super fast connections; extensive cable and DSL infrastructure has been supported by a progressive regulatory regime which has encouraged operator access to both copper and fiber networks; fiber networks have a fast-growing footprint, while a number of community and metropolitan schemes have supplemented TDC NET&rsquo;s own commitments to build out fiber nationally; a number of wholesale fiber schemes have also added to the wider availability of fiber broadband; the reach of LTE infrastructure is comprehensive, while the Mobile Network Operators by mid-2021 had also provided about 90% population coverage with 5G; services based on 5G were initially launched using trial 3.5GHz licenses; the multi-spectrum auction held in April 2021 has enabled them to improve the resilience and capacity of 5G; all MNOs are engaged in closing down their 3G networks and repurposing spectrum for LTE and 5G use (2021)<br>
+_general assessment_: Denmark has one of the highest broadband subscription rates globally, with a near universal availability of super-fast connections; extensive cable and DSL infrastructure has been supported by a progressive regulatory regime which has encouraged operator access to both copper and fiber networks; fiber networks have a fast-growing footprint, while a number of community and metropolitan schemes have supplemented TDC NET&rsquo;s own commitments to build out fiber nationally; a number of wholesale fiber schemes have also added to the wider availability of fiber broadband; the reach of LTE infrastructure is comprehensive, while the Mobile Network Operators by mid-2021 had also provided about 90% population coverage with 5G; services based on 5G were initially launched using trial 3.5GHz licenses; the multi-spectrum auction held in April 2021 has enabled them to improve the resilience and capacity of 5G; all MNOs are engaged in closing down their 3G networks and repurposing spectrum for LTE and 5G use (2021)<br>
 _domestic_: fixed-line roughly 16 per 100 and about 123 per 100 for mobile-cellular subscriptions (2020)<br>
 _international_: country code - 45; landing points for the NSC, COBRAcable, CANTAT-3, DANICE, Havfrue/AEC-2, TAT-14m Denmark-Norway-5 &amp; 6, Skagenfiber West &amp; East, GC1, GC2, GC3, GC-KPN, Kattegat 1 &amp; 2 &amp; 3, Energinet Lyngsa-Laeso, Energinet Laeso-Varberg, Fehmarn Balt, Baltica, German-Denmark 2 &amp; 3, Ronne-Rodvig, Denmark-Sweden 15 &amp; 16 &amp; 17 &amp; 18, IP-Only Denmark-Sweden, Scandinavian South, Scandinavian Ring North, Danica North, 34 series of fiber-optic submarine cables link Denmark with Canada, Faroe Islands, Germany, Iceland, Netherlands, Norway, Poland, Russia, Sweden, US, and, UK; satellite earth stations - 18 (6 Intelsat, 10 Eutelsat, 1 Orion, 1 Inmarsat (Blaavand-Atlantic-East)); note - the Nordic countries (Denmark, Finland, Iceland, Norway, and Sweden) share the Danish earth station and the Eik, Norway, station for worldwide Inmarsat access (2019)<br>
 <strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress toward 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>
@@ -668,7 +668,7 @@ _dry bulk cargo port(s)_: Ensted (coal)<br>
 North Sea - Esbjerg,<br>
 
 **Transportation - note**<br>
-Denmark operates icebreakers in the Baltic Sea and Danish Straits; currently operating three PC 5 or 6 ships<br><strong>note </strong>- PC 5 - Year-round operation in medium first-year ice which may include old ice inclusions (ice thickness up to 70-120 cm); PC 6 - Summer/autumn operation in medium first-year ice which may include old ice inclusions (ice thickness up to 30-70 cm)<br>
+Denmark operates icebreakers in the Baltic Sea and Danish Straits; currently operating three PC 5 or 6 class light icebreakers<br>note - PC indicates a Polar Class vessel: PC 5 - year-round operation in medium first-year ice which may include old ice inclusions (ice thickness up to 70-120 cm); PC 6 - summer/autumn operation in medium first-year ice which may include old ice inclusions (ice thickness up to 30-70 cm)<br>
 
 ## Military and Security
 
@@ -712,6 +712,6 @@ Islamic State of Iraq and ash-Sham (ISIS); Islamic Revolutionary Guard Corps/Qod
 <p>Iceland, the UK, and Ireland dispute Denmark's claim that the Faroe Islands' continental shelf extends beyond 200 nm; sovereignty dispute with Canada over Hans Island in the Kennedy Channel between Ellesmere Island and Greenland; Denmark (Greenland) and Norway have made submissions to the Commission on the Limits of the Continental Shelf (CLCS) and Russia is collecting additional data to augment its 2001 CLCS submission</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 19,833 (Syria), 5,634 (Eritrea) (mid-year 2021); 36,983 (Ukraine) (as of 15 November 2022)<br>
+_refugees (country of origin)_: 19,833 (Syria), 5,634 (Eritrea) (mid-year 2021); 38,044 (Ukraine) (as of 6 December 2022)<br>
 _stateless persons_: 11,608 (mid-year 2021)<br>
 

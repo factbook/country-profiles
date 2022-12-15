@@ -127,7 +127,7 @@ _female_: 45 years (2020 est.)<br>
 with approximately 70% of the country considered mountainous, the country's population is primarily concentrated in the lowland areas, where density is quite high; Gyeonggi Province in the northwest, which surrounds the capital of Seoul and contains the port of Incheon, is the most densely populated province; Gangwon in the northeast is the least populated<br>
 
 **Urbanization**<br>
-_urban population_: 81.4% of total population (2022)<br>
+_urban population_: 81.5% of total population (2023)<br>
 _rate of urbanization_: 0.31% annual rate of change (2020-25 est.)<br>
 
 **Major urban areas - population**<br>
@@ -195,7 +195,7 @@ NA<br>
 
 **Major infectious diseases**<br>
 _respiratory diseases_: Covid-19 (see note) (2020)<br>
-<strong>note:</strong> a novel coronavirus is causing an outbreak of respiratory illness (COVID-19) in South Korea; as of 18 August 2022, South Korea has reported a total of 21,861,296 cases of COVID-19 or 42,640.22 cumulative cases of COVID-19 per 100,000 population with a total of 25,813 cumulative deaths or a rate of 50.34 cumulative deaths per 100,000 population; as of 17 August 2022, 87.01% of the population has received at least one dose of COVID-19 vaccine<br>
+<strong>note:</strong> a novel coronavirus is causing an outbreak of respiratory illness (COVID-19) in South Korea; as of 9 December 2022, South Korea has reported a total of 27,611,555 cases of COVID-19 or 53,856 cumulative cases of COVID-19 per 100,000 population with a total of 30,975 cumulative deaths or a rate of 60.4 cumulative deaths per 100,000 population; as of 8 December 2022, 87.1% of the population has received at least one dose of COVID-19 vaccine<br>
 
 **Obesity - adult prevalence rate**<br>
 4.7% (2016)<br>
@@ -216,7 +216,7 @@ _female_: 5.9% (2020 est.)<br>
 NA<br>
 
 **Education expenditures**<br>
-4.5% of GDP (2018 est.)<br>
+4.7% of GDP (2019 est.)<br>
 
 **Literacy**<br>
 _total population_: NA<br>
@@ -226,12 +226,12 @@ _female_: NA<br>
 **School life expectancy (primary to tertiary education)**<br>
 _total_: 17 years<br>
 _male_: 17 years<br>
-_female_: 16 years (2019)<br>
+_female_: 16 years (2020)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 10.3%<br>
-_male_: 11%<br>
-_female_: 9.7% (2020 est.)<br>
+_total_: 8.1%<br>
+_male_: 9.1%<br>
+_female_: 7.4% (2021 est.)<br>
 
 ## Environment
 
@@ -259,7 +259,7 @@ _forest_: 63.9% (2018 est.)<br>
 _other_: 18% (2018 est.)<br>
 
 **Urbanization**<br>
-_urban population_: 81.4% of total population (2022)<br>
+_urban population_: 81.5% of total population (2023)<br>
 _rate of urbanization_: 0.31% annual rate of change (2020-25 est.)<br>
 
 **Revenue from forest resources**<br>
@@ -270,7 +270,7 @@ _coal revenues_: 0% of GDP (2018 est.)<br>
 
 **Major infectious diseases**<br>
 _respiratory diseases_: Covid-19 (see note) (2020)<br>
-<strong>note:</strong> a novel coronavirus is causing an outbreak of respiratory illness (COVID-19) in South Korea; as of 18 August 2022, South Korea has reported a total of 21,861,296 cases of COVID-19 or 42,640.22 cumulative cases of COVID-19 per 100,000 population with a total of 25,813 cumulative deaths or a rate of 50.34 cumulative deaths per 100,000 population; as of 17 August 2022, 87.01% of the population has received at least one dose of COVID-19 vaccine<br>
+<strong>note:</strong> a novel coronavirus is causing an outbreak of respiratory illness (COVID-19) in South Korea; as of 9 December 2022, South Korea has reported a total of 27,611,555 cases of COVID-19 or 53,856 cumulative cases of COVID-19 per 100,000 population with a total of 30,975 cumulative deaths or a rate of 60.4 cumulative deaths per 100,000 population; as of 8 December 2022, 87.1% of the population has received at least one dose of COVID-19 vaccine<br>
 
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 18,218,975 tons (2014 est.)<br>
@@ -459,9 +459,9 @@ _services_: 70.6% (2017 est.)<br>
 3.85% (2018 est.)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 10.3%<br>
-_male_: 11%<br>
-_female_: 9.7% (2020 est.)<br>
+_total_: 8.1%<br>
+_male_: 9.1%<br>
+_female_: 7.4% (2021 est.)<br>
 
 **Population below poverty line**<br>
 14.4% (2016 est.)<br>
@@ -678,7 +678,7 @@ _container port(s) (TEUs)_: Busan (21,992,001), Incheon (3,091,955), Kwangyang (
 _LNG terminal(s) (import)_: Incheon, Kwangyang, Pyeongtaek, Samcheok, Tongyeong, Yeosu<br>
 
 **Transportation - note**<br>
-South Korea operates one PC 5 or 6 class icebreaker<br><strong>note </strong>- PC 5 - Year-round operation in medium first-year ice which may include old ice inclusions (ice thickness up to 70-120 cm); PC 6 - Summer/autumn operation in medium first-year ice which may include old ice inclusions (ice thickness up to 30-70 cm)<br>
+South Korea operates one PC 5 or 6 class light icebreaker<br>note - PC indicates a Polar Class vessel: PC 5 - year-round operation in medium first-year ice which may include old ice inclusions (ice thickness up to 70-120 cm); PC 6 - summer/autumn operation in medium first-year ice which may include old ice inclusions (ice thickness up to 30-70 cm)<br>
 
 ## Military and Security
 

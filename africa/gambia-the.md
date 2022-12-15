@@ -134,7 +134,7 @@ _female_: 22.2 years (2020 est.)<br>
 settlements are found scattered along the Gambia River; the largest communities, including the capital of Banjul, and the country's largest city, Serekunda, are found at the mouth of the Gambia River along the Atlantic coast as shown in this population distribution map<br>
 
 **Urbanization**<br>
-_urban population_: 63.9% of total population (2022)<br>
+_urban population_: 64.5% of total population (2023)<br>
 _rate of urbanization_: 3.75% annual rate of change (2020-25 est.)<br>
 
 **Major urban areas - population**<br>
@@ -234,7 +234,7 @@ _women married by age 18_: 25.7%<br>
 _men married by age 18_: 0.2% (2020 est.)<br>
 
 **Education expenditures**<br>
-2.9% of GDP (2019 est.)<br>
+2.8% of GDP (2020 est.)<br>
 
 **Literacy**<br>
 _definition_: age 15 and over can read and write<br>
@@ -243,9 +243,9 @@ _male_: 61.8%<br>
 _female_: 41.6% (2015)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 25.8%<br>
-_male_: 21%<br>
-_female_: 32.3% (2018 est.)<br>
+_total_: 7.1%<br>
+_male_: 8.1%<br>
+_female_: 6.2% (2018 est.)<br>
 
 ## Environment
 
@@ -273,7 +273,7 @@ _forest_: 43.9% (2018 est.)<br>
 _other_: 0% (2018 est.)<br>
 
 **Urbanization**<br>
-_urban population_: 63.9% of total population (2022)<br>
+_urban population_: 64.5% of total population (2023)<br>
 _rate of urbanization_: 3.75% annual rate of change (2020-25 est.)<br>
 
 **Revenue from forest resources**<br>
@@ -469,9 +469,9 @@ _services_: 6% (1996 est.)<br>
 <p>NA</p><br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 25.8%<br>
-_male_: 21%<br>
-_female_: 32.3% (2018 est.)<br>
+_total_: 7.1%<br>
+_male_: 8.1%<br>
+_female_: 6.2% (2018 est.)<br>
 
 **Population below poverty line**<br>
 48.6% (2015 est.)<br>

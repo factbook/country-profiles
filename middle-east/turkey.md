@@ -201,7 +201,7 @@ _unimproved: total_: total: 0.4% of population (2020 est.)<br>
 NA<br>
 
 **Major infectious diseases**<br>
-<strong>note:</strong> widespread ongoing transmission of a respiratory illness caused by the novel coronavirus (COVID-19) is occurring throughout Turkey; as of 18 August 2022, Turkey has reported a total of 16,528,070 cases of COVID-19 or 19,597.17 cumulative cases of COVID-19 per 100,000 population with a total of 100,058 cumulative deaths or a rate of 118.63 cumulative deaths per 100,000 population; as of 17 August 2022, 68.31% of the population has received at least one dose of COVID-19 vaccine<br>
+<strong>note:</strong> widespread ongoing transmission of a respiratory illness caused by the novel coronavirus (COVID-19) is occurring throughout Turkey; as of 9 December 2022, Turkey has reported a total of 16,919,638 cases of COVID-19 or 20,061.4 cumulative cases of COVID-19 per 100,000 population with a total of 101,203 cumulative deaths or a rate of 120 cumulative deaths per 100,000 population; as of 22 November 2022, 67.89% of the population has received at least one dose of COVID-19 vaccine<br>
 
 **Obesity - adult prevalence rate**<br>
 32.1% (2016)<br>
@@ -226,7 +226,7 @@ _women married by age 15_: 2%<br>
 _women married by age 18_: 14.7% (2018 est.)<br>
 
 **Education expenditures**<br>
-4.3% of GDP (2018 est.)<br>
+3.4% of GDP (2020 est.)<br>
 
 **Literacy**<br>
 _definition_: age 15 and over can read and write<br>
@@ -237,7 +237,7 @@ _female_: 94.4% (2019)<br>
 **School life expectancy (primary to tertiary education)**<br>
 _total_: 18 years<br>
 _male_: 19 years<br>
-_female_: 18 years (2019)<br>
+_female_: 18 years (2020)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
 _total_: 25.1%<br>
@@ -280,7 +280,7 @@ _forest revenues_: 0.08% of GDP (2018 est.)<br>
 _coal revenues_: 0.05% of GDP (2018 est.)<br>
 
 **Major infectious diseases**<br>
-<strong>note:</strong> widespread ongoing transmission of a respiratory illness caused by the novel coronavirus (COVID-19) is occurring throughout Turkey; as of 18 August 2022, Turkey has reported a total of 16,528,070 cases of COVID-19 or 19,597.17 cumulative cases of COVID-19 per 100,000 population with a total of 100,058 cumulative deaths or a rate of 118.63 cumulative deaths per 100,000 population; as of 17 August 2022, 68.31% of the population has received at least one dose of COVID-19 vaccine<br>
+<strong>note:</strong> widespread ongoing transmission of a respiratory illness caused by the novel coronavirus (COVID-19) is occurring throughout Turkey; as of 9 December 2022, Turkey has reported a total of 16,919,638 cases of COVID-19 or 20,061.4 cumulative cases of COVID-19 per 100,000 population with a total of 101,203 cumulative deaths or a rate of 120 cumulative deaths per 100,000 population; as of 22 November 2022, 67.89% of the population has received at least one dose of COVID-19 vaccine<br>
 
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 31.283 million tons (2015 est.)<br>
@@ -741,7 +741,7 @@ Islamic State of Iraq and ash-Sham (ISIS); Islamic Movement of Uzbekistan (IMU);
 <p><em>Turkey-Armenia</em>: in 2009, Swiss mediators facilitated an accord reestablishing diplomatic ties between Armenia and Turkey, but neither side has ratified the agreement and the rapprochement effort has faltered;  in early 2022, the two countries held talks twice aimed at normalizing relations, which could lead to the opening of their land border, shut since 1993; in 2000, Turkish authorities complained to UNESCO that blasting from quarries in Armenia was damaging the medieval ruins of Ani, on the other side of the Arpacay valley</p> <p><em>Turkey-Azerbaijan</em>: none identified</p> <p><em>Turkey-Bulgaria</em>: none identified</p> <p><em>Turkey-Cyprus</em>: status of northern Cyprus question remains</p> <p><em>Turkey-Georgia</em>: none identified</p> <p><em>Turkey-Greece</em>: complex maritime, air, and territorial disputes with Greece in the Aegean Sea, including rights to explore oil and gas reserves in the eastern Mediterranean and illegal migrants transiting from Turkey into Greece; the Aegean Maritime Boundary is complicated by the close proximity of Greek islands to the western shores of the Turkish Anatolian peninsula, representing the primary source of conflict between the two countries</p> <p><em>Turkey-Iran</em>: none identified</p> <p><em>Turkey-Iraq</em>: Turkey has expressed concern over the status of Kurds in Iraq</p> <p><em>Turkey-Syria</em>: Turkey completed building a wall along its border with Syria in 2018 to prevent illegal border crossings and smuggling</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 3,577,714 (Syria) (2022); 145,000 (Ukraine) (as of 19 May 2022)<br>
+_refugees (country of origin)_: 3,570,234 (Syria) (2022); 46,739 (Ukraine) (as of 6 December 2022)<br>
 _IDPs_: 1.099 million (displaced from 1984-2005 because of fighting between the Kurdish PKK and Turkish military; most IDPs are Kurds from eastern and southeastern provinces; no information available on persons displaced by development projects) (2021)<br>
 _stateless persons_: 117 (2018)<br>
 

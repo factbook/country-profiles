@@ -68,7 +68,7 @@ _other_: 19.6% (2018 est.)<br>
 _fresh water lake(s)_: Saimaa - 1,760 sq km; Paijanne - 1,090 sq km; Inarijarvi - 1,000 sq km; Oulujarvi - 900 sq km; Pielinen - 850 sq km<br>
 
 **Population distribution**<br>
-the vast majority of people are found in the south; the northern interior areas remain sparsely poplulated<br>
+the vast majority of people are found in the south; the northern interior areas remain sparsely populated<br>
 
 **Natural hazards**<br>
 severe winters in the north<br>
@@ -127,10 +127,10 @@ _female_: 44.4 years (2020 est.)<br>
 2.35 migrant(s)/1,000 population (2022 est.)<br>
 
 **Population distribution**<br>
-the vast majority of people are found in the south; the northern interior areas remain sparsely poplulated<br>
+the vast majority of people are found in the south; the northern interior areas remain sparsely populated<br>
 
 **Urbanization**<br>
-_urban population_: 85.7% of total population (2022)<br>
+_urban population_: 85.8% of total population (2023)<br>
 _rate of urbanization_: 0.42% annual rate of change (2020-25 est.)<br>
 
 **Major urban areas - population**<br>
@@ -218,7 +218,7 @@ NA<br>
 _women married by age 18_: 0% (2017 est.)<br>
 
 **Education expenditures**<br>
-6.3% of GDP (2018 est.)<br>
+5.9% of GDP (2020 est.)<br>
 
 **Literacy**<br>
 _total population_: NA<br>
@@ -228,12 +228,12 @@ _female_: NA<br>
 **School life expectancy (primary to tertiary education)**<br>
 _total_: 19 years<br>
 _male_: 18 years<br>
-_female_: 20 years (2019)<br>
+_female_: 20 years (2020)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 21.4%<br>
-_male_: 23.2%<br>
-_female_: 19.4% (2020 est.)<br>
+_total_: 17.1%<br>
+_male_: 17.8%<br>
+_female_: 16.4% (2021 est.)<br>
 
 ## Environment
 
@@ -261,7 +261,7 @@ _forest_: 72.9% (2018 est.)<br>
 _other_: 19.6% (2018 est.)<br>
 
 **Urbanization**<br>
-_urban population_: 85.7% of total population (2022)<br>
+_urban population_: 85.8% of total population (2023)<br>
 _rate of urbanization_: 0.42% annual rate of change (2020-25 est.)<br>
 
 **Revenue from forest resources**<br>
@@ -343,7 +343,7 @@ _election results_: <em>2018:</em> Sauli NIINISTO reelected president; percent o
 **Legislative branch**<br>
 _description_: unicameral Parliament or Eduskunta (200 seats; 199 members directly elected in single- and multi-seat constituencies by proportional representation vote and 1 member in the province of Aland directly elected by simple majority vote; members serve 4-year terms)<br>
 _elections_: last held on 14 April 2019 (next to be held in April 2023)<br>
-_election results_: percent of vote by party/coalition - SDP 20%, PS 19.5%, Kok 19.0%. Center Party&nbsp; 15.5%, Vihr 10%, Vas 8%, SFP 4.5%, KD 2.5%, Aland .5%; other .5%; seats by party/coalition - SDP 40, PS 39, Kok 38, Centre Party 31, Vihr 20, Vas 16, SFP 9, KD 5; Aland 1; other 1; composition men 109, women 91, percent of women 45.5%<br>
+_election results_: percent of vote by party/coalition - SDP 20%, PS 19.5%, Kok 19.0%. Center Party 15.5%, Vihr 10%, Vas 8%, SFP 4.5%, KD 2.5%, Aland 0.5%; other 0.5%; seats by party/coalition - SDP 40, PS 39, Kok 38, Centre Party 31, Vihr 20, Vas 16, SFP 9, KD 5; Aland 1; other 1; composition men 109, women 91, percent of women 45.5%<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme Court or Korkein Oikeus (consists of the court president and 18 judges); Supreme Administrative Court (consists of 21 judges, including the court president and organized into 3 chambers); note - Finland has a dual judicial system - courts with civil and criminal jurisdiction and administrative courts with jurisdiction for litigation between individuals and administrative organs of the state and communities<br>
@@ -437,7 +437,7 @@ _exports of goods and services_: 38.5% (2017 est.)<br>
 _imports of goods and services_: -38.2% (2017 est.)<br>
 
 **Agricultural products**<br>
-milk, barley, oats, wheat, potatoes, sugar beet, rye, pork, poultry, beef<br>
+milk, barley, oats, wheat, potatoes, sugar beets, rye, pork, poultry, beef<br>
 
 **Industries**<br>
 metals and metal products, electronics, machinery and scientific instruments, shipbuilding, pulp and paper, foodstuffs, chemicals, textiles, clothing<br>
@@ -458,9 +458,9 @@ _services_: 75.3% (2017 est.)<br>
 7.38% (2018 est.)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 21.4%<br>
-_male_: 23.2%<br>
-_female_: 19.4% (2020 est.)<br>
+_total_: 17.1%<br>
+_male_: 17.8%<br>
+_female_: 16.4% (2021 est.)<br>
 
 **Population below poverty line**<br>
 12.2% (2019 est.)<br>
@@ -581,9 +581,9 @@ _crude oil estimated reserves_: 0 barrels (2021 est.)<br>
 
 **Natural gas**<br>
 _production_: 0 cubic meters (2021 est.)<br>
-_consumption_: 2,392,826,000 cubic meters (2020 est.)<br>
+_consumption_: 2.393 billion cubic meters (2020 est.)<br>
 _exports_: 181.143 million cubic meters (2020 est.)<br>
-_imports_: 2,568,532,000 cubic meters (2020 est.)<br>
+_imports_: 2.569 billion cubic meters (2020 est.)<br>
 _proven reserves_: 0 cubic meters (2021 est.)<br>
 
 **Carbon dioxide emissions**<br>
@@ -675,10 +675,10 @@ _by type_: bulk carrier 9, container ship 1, general cargo 74, oil tanker 4, oth
 
 **Ports and terminals**<br>
 _major seaport(s)_: Helsinki, Kotka, Naantali, Porvoo, Raahe, Rauma<br>
-_LNG terminal(s) (import)_: Pori, Tornio Manga; note - an additional terminal at Hamina is under construction and due to come online in October 2022<br>
+_LNG terminal(s) (import)_: Pori, Tornio Manga, Hamina<br>
 
 **Transportation - note**<br>
-Finland operates icebreakers in the Baltic Sea; seven PC 3 or 4 and two PC 5 or 6 ships<br><strong>note </strong>- PC 3 - Year-round operation in second-year ice which may include multi-year ice inclusions (ice thickness up to 2.5 m); PC 4 - Year-round operation in thick first-year ice which may include old ice inclusions (ice thickness up to 120 cm); PC 5 - Year-round operation in medium first-year ice which may include old ice inclusions (ice thickness up to 70-120 cm); PC 6 - Summer/autumn operation in medium first-year ice which may include old ice inclusions (ice thickness up to 30-70 cm)<br>
+Finland operates icebreakers in the Baltic Sea including seven PC 3 or 4 class medium icebreakers and two PC 5 or 6 class light icebreakers<br>note - PC indicates a Polar Class vessel: PC 3 - year-round operation in second-year ice which may include multi-year ice inclusions (ice thickness up to 2.5 m); PC 4 - year-round operation in thick first-year ice which may include old ice inclusions (ice thickness up to 120 cm); PC 5 - year-round operation in medium first-year ice which may include old ice inclusions (ice thickness up to 70-120 cm); PC 6 - summer/autumn operation in medium first-year ice which may include old ice inclusions (ice thickness up to 30-70 cm)<br>
 
 ## Military and Security
 
@@ -715,6 +715,6 @@ Finland is not a member of NATO, but Finland and NATO have actively cooperated i
 <p>various groups in Finland advocate restoration of Karelia and other areas ceded to the former Soviet Union, but the Finnish Government asserts no territorial demands</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 9,053 (Iraq) (mid-year 2021); 38,588 (Ukraine) (as of 15 November 2022)<br>
+_refugees (country of origin)_: 9,053 (Iraq) (mid-year 2021); 47,067 (Ukraine) (as of 6 December 2022)<br>
 _stateless persons_: 3,416 (mid-year 2021)<br>
 

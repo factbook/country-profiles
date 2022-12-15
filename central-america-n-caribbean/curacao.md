@@ -119,7 +119,7 @@ _female_: 39.5 years (2020 est.)<br>
 largest concentration on the island is Willemstad; smaller settlements near the coast can be found throughout the island, particularly in the northwest<br>
 
 **Urbanization**<br>
-_urban population_: 89% of total population (2022)<br>
+_urban population_: 89% of total population (2023)<br>
 _rate of urbanization_: 0.57% annual rate of change (2020-25 est.)<br>
 
 **Major urban areas - population**<br>
@@ -171,7 +171,7 @@ NA<br>
 NA<br>
 
 **Education expenditures**<br>
-4.9% of GDP (2013 est.)<br>
+7.4% of GDP (2020 est.)<br>
 
 **School life expectancy (primary to tertiary education)**<br>
 _total_: 17 years<br>
@@ -179,9 +179,9 @@ _male_: 18 years<br>
 _female_: 18 years (2013)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 29.3%<br>
-_male_: 25.4%<br>
-_female_: 34.5% (2018 est.)<br>
+_total_: 42.2%<br>
+_male_: 38.1%<br>
+_female_: 47.1% (2020 est.)<br>
 
 ## Environment
 
@@ -200,7 +200,7 @@ _agricultural land: arable land_: arable land: 10% (2018)<br>
 _other_: 90% (2018 est.)<br>
 
 **Urbanization**<br>
-_urban population_: 89% of total population (2022)<br>
+_urban population_: 89% of total population (2023)<br>
 _rate of urbanization_: 0.57% annual rate of change (2020-25 est.)<br>
 
 **Revenue from forest resources**<br>
@@ -371,9 +371,9 @@ _services_: 81.8% (2008 est.)<br>
 9.8% (2011 est.)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 29.3%<br>
-_male_: 25.4%<br>
-_female_: 34.5% (2018 est.)<br>
+_total_: 42.2%<br>
+_male_: 38.1%<br>
+_female_: 47.1% (2020 est.)<br>
 
 **Budget surplus (+) or deficit (-)**<br>
 -0.4% (of GDP) (2012 est.)<br>

@@ -126,7 +126,7 @@ _female_: 27.6 years (2020 est.)<br>
 among the nine inhabited islands, population distribution is variable; islands in the east are very dry and are only sparsely settled to exploit their extensive salt deposits; the more southerly islands receive more precipitation and support larger populations, but agriculture and livestock grazing have damaged the soil fertility and vegetation; approximately half of the population lives on Sao Tiago Island, which is the location of the capital of Praia; Mindelo, on the northern island of Sao Vicente, also has a large urban population as shown in this population distribution map<br>
 
 **Urbanization**<br>
-_urban population_: 67.5% of total population (2022)<br>
+_urban population_: 68% of total population (2023)<br>
 _rate of urbanization_: 1.83% annual rate of change (2020-25 est.)<br>
 
 **Major urban areas - population**<br>
@@ -207,7 +207,7 @@ _female_: 5.4% (2020 est.)<br>
 NA<br>
 
 **Education expenditures**<br>
-4.7% of GDP (2019 est.)<br>
+7.6% of GDP (2020 est.)<br>
 
 **Literacy**<br>
 _definition_: age 15 and over can read and write<br>
@@ -251,7 +251,7 @@ _forest_: 21% (2018 est.)<br>
 _other_: 60.4% (2018 est.)<br>
 
 **Urbanization**<br>
-_urban population_: 67.5% of total population (2022)<br>
+_urban population_: 68% of total population (2023)<br>
 _rate of urbanization_: 1.83% annual rate of change (2020-25 est.)<br>
 
 **Revenue from forest resources**<br>

@@ -182,7 +182,7 @@ NA<br>
 NA<br>
 
 **Education expenditures**<br>
-3.4% of GDP (2019 est.)<br>
+3.4% of GDP (2020 est.)<br>
 
 **Literacy**<br>
 _total population_: 99.9%<br>
@@ -192,7 +192,7 @@ _female_: 99.9% (2018)<br>
 **School life expectancy (primary to tertiary education)**<br>
 _total_: 12 years<br>
 _male_: 13 years<br>
-_female_: 12 years (2020)<br>
+_female_: 12 years (2021)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
 _total_: 27.4%<br>

@@ -222,7 +222,7 @@ _female_: 20.1% (2020 est.)<br>
 0.7% (2010/12)<br>
 
 **Education expenditures**<br>
-4.6% of GDP (2018 est.)<br>
+5.2% of GDP (2020 est.)<br>
 
 **Literacy**<br>
 _definition_: age 15 and over can read and write<br>
@@ -233,12 +233,12 @@ _female_: 99.7% (2015)<br>
 **School life expectancy (primary to tertiary education)**<br>
 _total_: 16 years<br>
 _male_: 15 years<br>
-_female_: 17 years (2019)<br>
+_female_: 17 years (2020)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 10.8%<br>
-_male_: 10.3%<br>
-_female_: 11.6% (2020 est.)<br>
+_total_: 11.9%<br>
+_male_: 11.6%<br>
+_female_: 12.5% (2021 est.)<br>
 
 ## Environment
 
@@ -477,9 +477,9 @@ _services_: 57.6% (2015)<br>
 6.08% (2018 est.)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 10.8%<br>
-_male_: 10.3%<br>
-_female_: 11.6% (2020 est.)<br>
+_total_: 11.9%<br>
+_male_: 11.6%<br>
+_female_: 12.5% (2021 est.)<br>
 
 **Population below poverty line**<br>
 15.4% (2018 est.)<br>
@@ -745,7 +745,7 @@ Islamic State of Iraq and ash-Sham (ISIS)<br>
 <p><em>Poland-Belarus-Ukraine</em>: as a member state that forms part of the EU's external border, Poland has implemented the strict Schengen border rules to restrict illegal immigration and trade along its eastern borders with Belarus and Ukraine</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 9,870 (Russia) (2019); 1,521,085 (Ukraine) (as of 29 November 2022)<br>
+_refugees (country of origin)_: 9,870 (Russia) (2019); 1,529,355 (Ukraine) (as of 6 December 2022)<br>
 _stateless persons_: 1,389 (mid-year 2021)<br>
 
 **Illicit drugs**<br>

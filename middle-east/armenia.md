@@ -129,7 +129,7 @@ _female_: 38.3 years (2020 est.)<br>
 most of the population is located in the northern half of the country; the capital of Yerevan is home to more than five times as many people as Gyumri, the second largest city in the country<br>
 
 **Urbanization**<br>
-_urban population_: 63.6% of total population (2022)<br>
+_urban population_: 63.7% of total population (2023)<br>
 _rate of urbanization_: 0.23% annual rate of change (2020-25 est.)<br>
 
 **Major urban areas - population**<br>
@@ -218,7 +218,7 @@ _women married by age 18_: 5.3%<br>
 _men married by age 18_: 0.4% (2016 est.)<br>
 
 **Education expenditures**<br>
-2.7% of GDP (2020 est.)<br>
+2.8% of GDP (2021 est.)<br>
 
 **Literacy**<br>
 _definition_: age 15 and over can read and write<br>
@@ -229,12 +229,12 @@ _female_: 99.7% (2020)<br>
 **School life expectancy (primary to tertiary education)**<br>
 _total_: 13 years<br>
 _male_: 13 years<br>
-_female_: 14 years (2020)<br>
+_female_: 14 years (2021)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 32.6%<br>
-_male_: 31.2%<br>
-_female_: 34.4% (2019 est.)<br>
+_total_: 24%<br>
+_male_: 25.4%<br>
+_female_: 22.1% (2020 est.)<br>
 
 ## Environment
 
@@ -262,7 +262,7 @@ _forest_: 9.1% (2018 est.)<br>
 _other_: 31.2% (2018 est.)<br>
 
 **Urbanization**<br>
-_urban population_: 63.6% of total population (2022)<br>
+_urban population_: 63.7% of total population (2023)<br>
 _rate of urbanization_: 0.23% annual rate of change (2020-25 est.)<br>
 
 **Revenue from forest resources**<br>
@@ -457,9 +457,9 @@ _services_: 46.7% (2013 est.)<br>
 18.8% (2016 est.)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 32.6%<br>
-_male_: 31.2%<br>
-_female_: 34.4% (2019 est.)<br>
+_total_: 24%<br>
+_male_: 25.4%<br>
+_female_: 22.1% (2020 est.)<br>
 
 **Population below poverty line**<br>
 26.4% (2019 est.)<br>

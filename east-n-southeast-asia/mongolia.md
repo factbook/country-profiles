@@ -131,7 +131,7 @@ _female_: 30.7 years (2020 est.)<br>
 sparsely distributed population throughout the country; the capital of Ulaanbaatar and the northern city of Darhan support the highest population densities<br>
 
 **Urbanization**<br>
-_urban population_: 68.9% of total population (2022)<br>
+_urban population_: 69.1% of total population (2023)<br>
 _rate of urbanization_: 1.4% annual rate of change (2020-25 est.)<br>
 
 **Major urban areas - population**<br>
@@ -221,7 +221,7 @@ _women married by age 18_: 12%<br>
 _men married by age 18_: 2.1% (2018 est.)<br>
 
 **Education expenditures**<br>
-4.9% of GDP (2019 est.)<br>
+4.7% of GDP (2020 est.)<br>
 
 **Literacy**<br>
 _definition_: age 15 and over can read and write<br>
@@ -235,9 +235,9 @@ _male_: 14 years<br>
 _female_: 16 years (2019)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 17.9%<br>
-_male_: 16.9%<br>
-_female_: 19.5% (2020 est.)<br>
+_total_: 16.2%<br>
+_male_: 15.4%<br>
+_female_: 17.4% (2020 est.)<br>
 
 ## Environment
 
@@ -265,7 +265,7 @@ _forest_: 7% (2018 est.)<br>
 _other_: 20% (2018 est.)<br>
 
 **Urbanization**<br>
-_urban population_: 68.9% of total population (2022)<br>
+_urban population_: 69.1% of total population (2023)<br>
 _rate of urbanization_: 1.4% annual rate of change (2020-25 est.)<br>
 
 **Revenue from forest resources**<br>
@@ -466,9 +466,9 @@ _services_: 50.5% (2016)<br>
 7.9% (2016 est.)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 17.9%<br>
-_male_: 16.9%<br>
-_female_: 19.5% (2020 est.)<br>
+_total_: 16.2%<br>
+_male_: 15.4%<br>
+_female_: 17.4% (2020 est.)<br>
 
 **Population below poverty line**<br>
 28.4% (2018 est.)<br>

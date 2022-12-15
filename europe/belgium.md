@@ -129,7 +129,7 @@ _female_: 42.8 years (2020 est.)<br>
 most of the population concentrated in the northern two-thirds of the country; the southeast is more thinly populated; considered to have one of the highest population densities in the world; approximately 97% live in urban areas<br>
 
 **Urbanization**<br>
-_urban population_: 98.2% of total population (2022)<br>
+_urban population_: 98.2% of total population (2023)<br>
 _rate of urbanization_: 0.38% annual rate of change (2020-25 est.)<br>
 
 **Major urban areas - population**<br>
@@ -213,7 +213,7 @@ _female_: 21% (2020 est.)<br>
 1% (2014/15)<br>
 
 **Education expenditures**<br>
-6.4% of GDP (2018 est.)<br>
+6.7% of GDP (2020 est.)<br>
 
 **Literacy**<br>
 _total population_: NA<br>
@@ -221,14 +221,14 @@ _male_: NA<br>
 _female_: NA<br>
 
 **School life expectancy (primary to tertiary education)**<br>
-_total_: 20 years<br>
-_male_: 19 years<br>
-_female_: 21 years (2019)<br>
+_total_: 19 years<br>
+_male_: 18 years<br>
+_female_: 20 years (2020)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 15.3%<br>
-_male_: 15.5%<br>
-_female_: 15.1% (2020 est.)<br>
+_total_: 18.2%<br>
+_male_: 19.9%<br>
+_female_: 16.2% (2021 est.)<br>
 
 ## Environment
 
@@ -256,7 +256,7 @@ _forest_: 22.4% (2018 est.)<br>
 _other_: 33.5% (2018 est.)<br>
 
 **Urbanization**<br>
-_urban population_: 98.2% of total population (2022)<br>
+_urban population_: 98.2% of total population (2023)<br>
 _rate of urbanization_: 0.38% annual rate of change (2020-25 est.)<br>
 
 **Revenue from forest resources**<br>
@@ -454,9 +454,9 @@ _services_: 80.1% (2013 est.)<br>
 5.96% (2018 est.)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 15.3%<br>
-_male_: 15.5%<br>
-_female_: 15.1% (2020 est.)<br>
+_total_: 18.2%<br>
+_male_: 19.9%<br>
+_female_: 16.2% (2021 est.)<br>
 
 **Population below poverty line**<br>
 14.8% (2018 est.)<br>
@@ -577,9 +577,9 @@ _crude oil estimated reserves_: 0 barrels (2021 est.)<br>
 
 **Natural gas**<br>
 _production_: 0 cubic meters (2021 est.)<br>
-_consumption_: 18,171,598,000 cubic meters (2019 est.)<br>
-_exports_: 3,942,860,000 cubic meters (2019 est.)<br>
-_imports_: 22,606,066,000 cubic meters (2019 est.)<br>
+_consumption_: 18.17 billion cubic meters (2019 est.)<br>
+_exports_: 3.943 billion cubic meters (2019 est.)<br>
+_imports_: 22.61 billion cubic meters (2019 est.)<br>
 _proven reserves_: 0 cubic meters (2021 est.)<br>
 
 **Carbon dioxide emissions**<br>

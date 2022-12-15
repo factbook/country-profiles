@@ -192,7 +192,7 @@ _unimproved: total_: total: 0% of population (2020 est.)<br>
 NA<br>
 
 **Major infectious diseases**<br>
-<strong>note:</strong> widespread ongoing transmission of a respiratory illness caused by the novel coronavirus (COVID-19) is occurring throughout UAE; as of 18 August 2022, UAE has reported a total of 1,007,039 cases of COVID-19 or 10,181.98 cumulative cases of COVID-19 per 100,000 population with a total of 2,340 cumulative deaths or a rate of 23.65 cumulative deaths per 100,000 population<br>
+<strong>note:</strong> widespread ongoing transmission of a respiratory illness caused by the novel coronavirus (COVID-19) is occurring throughout UAE; as of 9 December 2022, UAE has reported a total of 1,045,040 cases of COVID-19 or 10,566.2 cumulative cases of COVID-19 per 100,000 population with a total of 2,348 cumulative deaths or a rate of 23.74 cumulative deaths per 100,000 population<br>
 
 **Obesity - adult prevalence rate**<br>
 31.7% (2016)<br>
@@ -208,7 +208,7 @@ _other alcohols_: 0.02 liters of pure alcohol (2019 est.)<br>
 NA<br>
 
 **Education expenditures**<br>
-3.1% of GDP (2019 est.)<br>
+3.9% of GDP (2020 est.)<br>
 
 **Literacy**<br>
 _definition_: age 15 and over can read and write<br>
@@ -222,9 +222,9 @@ _male_: 15 years<br>
 _female_: 17 years (2020)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 7.2%<br>
-_male_: 4.9%<br>
-_female_: 15% (2019 est.)<br>
+_total_: 14%<br>
+_male_: 12.5%<br>
+_female_: 18.7% (2020 est.)<br>
 
 ## Environment
 
@@ -262,7 +262,7 @@ _forest revenues_: 0% of GDP (2018 est.)<br>
 _coal revenues_: 0% of GDP (2018 est.)<br>
 
 **Major infectious diseases**<br>
-<strong>note:</strong> widespread ongoing transmission of a respiratory illness caused by the novel coronavirus (COVID-19) is occurring throughout UAE; as of 18 August 2022, UAE has reported a total of 1,007,039 cases of COVID-19 or 10,181.98 cumulative cases of COVID-19 per 100,000 population with a total of 2,340 cumulative deaths or a rate of 23.65 cumulative deaths per 100,000 population<br>
+<strong>note:</strong> widespread ongoing transmission of a respiratory illness caused by the novel coronavirus (COVID-19) is occurring throughout UAE; as of 9 December 2022, UAE has reported a total of 1,045,040 cases of COVID-19 or 10,566.2 cumulative cases of COVID-19 per 100,000 population with a total of 2,348 cumulative deaths or a rate of 23.74 cumulative deaths per 100,000 population<br>
 
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 5,413,453 tons (2015 est.)<br>
@@ -452,9 +452,9 @@ _services_: 78% (2000 est.)<br>
 3.6% (2014 est.)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 7.2%<br>
-_male_: 4.9%<br>
-_female_: 15% (2019 est.)<br>
+_total_: 14%<br>
+_male_: 12.5%<br>
+_female_: 18.7% (2020 est.)<br>
 
 **Population below poverty line**<br>
 19.5% (2003 est.)<br>

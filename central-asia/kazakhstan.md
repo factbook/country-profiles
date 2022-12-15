@@ -136,7 +136,7 @@ _female_: 32.8 years (2020 est.)<br>
 most of the country displays a low population density, particularly the interior; population clusters appear in urban agglomerations in the far northern and southern portions of the country<br>
 
 **Urbanization**<br>
-_urban population_: 58% of total population (2022)<br>
+_urban population_: 58.2% of total population (2023)<br>
 _rate of urbanization_: 1.19% annual rate of change (2020-25 est.)<br>
 
 **Major urban areas - population**<br>
@@ -221,7 +221,7 @@ _female_: 6.7% (2020 est.)<br>
 2% (2015)<br>
 
 **Education expenditures**<br>
-2.9% of GDP (2019 est.)<br>
+4.5% of GDP (2020 est.)<br>
 
 **Literacy**<br>
 _definition_: age 15 and over can read and write<br>
@@ -265,7 +265,7 @@ _forest_: 1.2% (2018 est.)<br>
 _other_: 21.4% (2018 est.)<br>
 
 **Urbanization**<br>
-_urban population_: 58% of total population (2022)<br>
+_urban population_: 58.2% of total population (2023)<br>
 _rate of urbanization_: 1.19% annual rate of change (2020-25 est.)<br>
 
 **Revenue from forest resources**<br>

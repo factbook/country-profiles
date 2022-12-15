@@ -137,7 +137,7 @@ _female_: 26 years (2020 est.)<br>
 a high altitude plain in the west between two cordillera of the Andes, known as the Altiplano, is the focal area for most of the population; a dense settlement pattern is also found in and around the city of Santa Cruz, located on the eastern side of the Andes<br>
 
 **Urbanization**<br>
-_urban population_: 70.8% of total population (2022)<br>
+_urban population_: 71.2% of total population (2023)<br>
 _rate of urbanization_: 1.87% annual rate of change (2020-25 est.)<br>
 
 **Major urban areas - population**<br>
@@ -232,7 +232,7 @@ _women married by age 18_: 19.7%<br>
 _men married by age 18_: 5.2% (2016 est.)<br>
 
 **Education expenditures**<br>
-7.3% of GDP (2014 est.)<br>
+9.8% of GDP (2020 est.)<br>
 
 **Literacy**<br>
 _definition_: age 15 and over can read and write<br>
@@ -271,7 +271,7 @@ _forest_: 52.5% (2018 est.)<br>
 _other_: 13.2% (2018 est.)<br>
 
 **Urbanization**<br>
-_urban population_: 70.8% of total population (2022)<br>
+_urban population_: 71.2% of total population (2023)<br>
 _rate of urbanization_: 1.87% annual rate of change (2020-25 est.)<br>
 
 **Revenue from forest resources**<br>

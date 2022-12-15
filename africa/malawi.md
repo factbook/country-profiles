@@ -136,7 +136,7 @@ _female_: 16.9 years (2020 est.)<br>
 population density is highest south of Lake Nyasa as shown in this population distribution map<br>
 
 **Urbanization**<br>
-_urban population_: 18% of total population (2022)<br>
+_urban population_: 18.3% of total population (2023)<br>
 _rate of urbanization_: 4.41% annual rate of change (2020-25 est.)<br>
 
 **Major urban areas - population**<br>
@@ -243,9 +243,9 @@ _male_: 11 years<br>
 _female_: 11 years (2011)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 8.5%<br>
-_male_: 6.7%<br>
-_female_: 10.6% (2017 est.)<br>
+_total_: 1.2%<br>
+_male_: 1%<br>
+_female_: 1.4% (2020 est.)<br>
 
 ## Environment
 
@@ -273,7 +273,7 @@ _forest_: 34% (2018 est.)<br>
 _other_: 6.8% (2018 est.)<br>
 
 **Urbanization**<br>
-_urban population_: 18% of total population (2022)<br>
+_urban population_: 18.3% of total population (2023)<br>
 _rate of urbanization_: 4.41% annual rate of change (2020-25 est.)<br>
 
 **Revenue from forest resources**<br>
@@ -478,9 +478,9 @@ _services_: 19% (2013 est.)<br>
 20.4% (2013 est.)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 8.5%<br>
-_male_: 6.7%<br>
-_female_: 10.6% (2017 est.)<br>
+_total_: 1.2%<br>
+_male_: 1%<br>
+_female_: 1.4% (2020 est.)<br>
 
 **Population below poverty line**<br>
 51.5% (2016 est.)<br>

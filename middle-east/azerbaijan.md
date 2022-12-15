@@ -133,7 +133,7 @@ _female_: 34.2 years (2020 est.)<br>
 highest population density is found in the far eastern area of the country, in and around Baku; apart from smaller urbanized areas, the rest of the country has a fairly light and evenly distributed population<br>
 
 **Urbanization**<br>
-_urban population_: 57.2% of total population (2022)<br>
+_urban population_: 57.6% of total population (2023)<br>
 _rate of urbanization_: 1.38% annual rate of change (2020-25 est.)<br>
 <strong>note:</strong> data include Nagorno-Karabakh<br>
 
@@ -218,7 +218,7 @@ _female_: 0.1% (2020 est.)<br>
 4.9% (2013)<br>
 
 **Education expenditures**<br>
-2.7% of GDP (2019 est.)<br>
+4.3% of GDP (2020 est.)<br>
 
 **Literacy**<br>
 _definition_: age 15 and over can read and write<br>
@@ -229,7 +229,7 @@ _female_: 99.7% (2019)<br>
 **School life expectancy (primary to tertiary education)**<br>
 _total_: 14 years<br>
 _male_: 13 years<br>
-_female_: 14 years (2020)<br>
+_female_: 14 years (2021)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
 _total_: 12.4%<br>
@@ -262,7 +262,7 @@ _forest_: 11.3% (2018 est.)<br>
 _other_: 31.1% (2018 est.)<br>
 
 **Urbanization**<br>
-_urban population_: 57.2% of total population (2022)<br>
+_urban population_: 57.6% of total population (2023)<br>
 _rate of urbanization_: 1.38% annual rate of change (2020-25 est.)<br>
 <strong>note:</strong> data include Nagorno-Karabakh<br>
 

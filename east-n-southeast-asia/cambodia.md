@@ -138,7 +138,7 @@ _female_: 27.2 years (2020 est.)<br>
 population concentrated in the southeast, particularly in and around the capital of Phnom Penh; further distribution is linked closely to the Tonle Sap and Mekong Rivers<br>
 
 **Urbanization**<br>
-_urban population_: 25.1% of total population (2022)<br>
+_urban population_: 25.6% of total population (2023)<br>
 _rate of urbanization_: 3.06% annual rate of change (2020-25 est.)<br>
 
 **Major urban areas - population**<br>
@@ -228,7 +228,7 @@ _female_: 6% (2020 est.)<br>
 24.1% (2014)<br>
 
 **Education expenditures**<br>
-2.2% of GDP (2018 est.)<br>
+3.1% of GDP (2020 est.)<br>
 
 **Literacy**<br>
 _definition_: age 15 and over can read and write<br>
@@ -236,15 +236,10 @@ _total population_: 80.5%<br>
 _male_: 86.5%<br>
 _female_: 75% (2015)<br>
 
-**School life expectancy (primary to tertiary education)**<br>
-_total_: 11 years<br>
-_male_: 11 years<br>
-_female_: 10 years<br>
-
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 2.5%<br>
-_male_: 2.7%<br>
-_female_: 2.3% (2019 est.)<br>
+_total_: 1.7%<br>
+_male_: 1.8%<br>
+_female_: 1.5% (2019 est.)<br>
 
 ## Environment
 
@@ -272,7 +267,7 @@ _forest_: 56.5% (2018 est.)<br>
 _other_: 11.4% (2018 est.)<br>
 
 **Urbanization**<br>
-_urban population_: 25.1% of total population (2022)<br>
+_urban population_: 25.6% of total population (2023)<br>
 _rate of urbanization_: 3.06% annual rate of change (2020-25 est.)<br>
 
 **Revenue from forest resources**<br>
@@ -477,9 +472,9 @@ _services_: 31.5% (2013 est.)<br>
 <strong>note:</strong> high underemployment, according to official statistics<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 2.5%<br>
-_male_: 2.7%<br>
-_female_: 2.3% (2019 est.)<br>
+_total_: 1.7%<br>
+_male_: 1.8%<br>
+_female_: 1.5% (2019 est.)<br>
 
 **Population below poverty line**<br>
 16.5% (2016 est.)<br>

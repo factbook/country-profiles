@@ -134,7 +134,7 @@ _female_: 22.9 years (2020 est.)<br>
 population heavily concentrated in the west, and particularly the northwest, in and around the capital of Amman; a sizeable, but smaller population is located in the southwest along the shore of the Gulf of Aqaba<br>
 
 **Urbanization**<br>
-_urban population_: 91.8% of total population (2022)<br>
+_urban population_: 92% of total population (2023)<br>
 _rate of urbanization_: 0.98% annual rate of change (2020-25 est.)<br>
 
 **Major urban areas - population**<br>
@@ -201,7 +201,7 @@ _unimproved: total_: total: 1.3% of population (2020 est.)<br>
 NA<br>
 
 **Major infectious diseases**<br>
-<strong>note:</strong> widespread ongoing transmission of a respiratory illness caused by the novel coronavirus (COVID-19) is occurring throughout Jordan; as of 18 August 2022, Jordan has reported a total of 1,726,717 cases of COVID-19 or 16,923.39 cumulative cases of COVID-19 per 100,000 population with a total of 14,095 cumulative deaths or a rate of 138.14 cumulative deaths per 100,000 population; as of 7 August 2022, 43.21% of the population has received at least one dose of COVID-19 vaccine<br>
+<strong>note:</strong> widespread ongoing transmission of a respiratory illness caused by the novel coronavirus (COVID-19) is occurring throughout Jordan; as of 9 December 2022, Jordan has reported a total of 1,746,997 cases of COVID-19 or 17,122.16 cumulative cases of COVID-19 per 100,000 population with a total of 14,122 cumulative deaths or a rate of 138.4 cumulative deaths per 100,000 population<br>
 
 **Obesity - adult prevalence rate**<br>
 35.5% (2016)<br>
@@ -227,7 +227,7 @@ _women married by age 18_: 9.7%<br>
 _men married by age 18_: 0.1% (2018 est.)<br>
 
 **Education expenditures**<br>
-3% of GDP (2019 est.)<br>
+3.2% of GDP (2021 est.)<br>
 
 **Literacy**<br>
 _definition_: age 15 and over can read and write<br>
@@ -241,9 +241,9 @@ _male_: 10 years<br>
 _female_: 11 years (2020)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 37.3%<br>
-_male_: 34.8%<br>
-_female_: 49.4% (2019 est.)<br>
+_total_: 43%<br>
+_male_: 40.5%<br>
+_female_: 54.5% (2020 est.)<br>
 
 ## Environment
 
@@ -271,7 +271,7 @@ _forest_: 1.1% (2018 est.)<br>
 _other_: 87.5% (2018 est.)<br>
 
 **Urbanization**<br>
-_urban population_: 91.8% of total population (2022)<br>
+_urban population_: 92% of total population (2023)<br>
 _rate of urbanization_: 0.98% annual rate of change (2020-25 est.)<br>
 
 **Revenue from forest resources**<br>
@@ -281,7 +281,7 @@ _forest revenues_: 0.02% of GDP (2018 est.)<br>
 _coal revenues_: 0% of GDP (2018 est.)<br>
 
 **Major infectious diseases**<br>
-<strong>note:</strong> widespread ongoing transmission of a respiratory illness caused by the novel coronavirus (COVID-19) is occurring throughout Jordan; as of 18 August 2022, Jordan has reported a total of 1,726,717 cases of COVID-19 or 16,923.39 cumulative cases of COVID-19 per 100,000 population with a total of 14,095 cumulative deaths or a rate of 138.14 cumulative deaths per 100,000 population; as of 7 August 2022, 43.21% of the population has received at least one dose of COVID-19 vaccine<br>
+<strong>note:</strong> widespread ongoing transmission of a respiratory illness caused by the novel coronavirus (COVID-19) is occurring throughout Jordan; as of 9 December 2022, Jordan has reported a total of 1,746,997 cases of COVID-19 or 17,122.16 cumulative cases of COVID-19 per 100,000 population with a total of 14,122 cumulative deaths or a rate of 138.4 cumulative deaths per 100,000 population<br>
 
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 2,529,997 tons (2013 est.)<br>
@@ -477,9 +477,9 @@ _services_: 78% (2013 est.)<br>
 <strong>note:</strong> official rate; unofficial rate is approximately 30%<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 37.3%<br>
-_male_: 34.8%<br>
-_female_: 49.4% (2019 est.)<br>
+_total_: 43%<br>
+_male_: 40.5%<br>
+_female_: 54.5% (2020 est.)<br>
 
 **Population below poverty line**<br>
 15.7% (2018 est.)<br>
@@ -728,7 +728,7 @@ Islamic State of Iraq and ash-Sham (ISIS)<br>
 <p><em>Jordan-Iraq</em>: the two countries signed a border agreement in 1984; Jordan has ratified the treaty, but it has not been confirmed that Iraq has ratified it; as of 2010, the agreement had not been registered with the UN</p> <p><em>Jordan-Israel</em>: none identified</p> <p><em>Jordan-Saudi Arabia</em>: Jordan and Saudi Arabia signed an agreement to demarcate their maritime borders in 2007</p> <p><em>Jordan-Syria</em>: the two countries signed an agreement in 2005 to settle the border dispute based on a 1931 demarcation accord; the two countries began demarcation in 2006</p> <p><em>Jordan-West Bank</em>: none identified</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 2,307,011 (Palestinian refugees) (2020); 66,665 (Iraq), 12,866 (Yemen), 6,013 Sudan (2021); 676,621 (Syria) (2022)<br>
+_refugees (country of origin)_: 2,307,011 (Palestinian refugees) (2020); 66,665 (Iraq), 12,866 (Yemen), 6,013 Sudan (2021); 669,483 (Syria) (2022)<br>
 _stateless persons_: 63 (mid-year 2021)<br>
 
 **Illicit drugs**<br>

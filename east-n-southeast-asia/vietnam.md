@@ -223,7 +223,7 @@ _female_: 2.2% (2020 est.)<br>
 13.4% (2017)<br>
 
 **Education expenditures**<br>
-4.1% of GDP (2019 est.)<br>
+4.1% of GDP (2020 est.)<br>
 
 **Literacy**<br>
 _definition_: age 15 and over can read and write<br>
@@ -232,9 +232,9 @@ _male_: 97%<br>
 _female_: 94.6% (2019)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 7.6%<br>
-_male_: 6.6%<br>
-_female_: 8.9% (2020 est.)<br>
+_total_: 7%<br>
+_male_: 7%<br>
+_female_: 7% (2021 est.)<br>
 
 ## Environment
 
@@ -470,9 +470,9 @@ _services_: 34% (2017)<br>
 2.2% (2017 est.)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 7.6%<br>
-_male_: 6.6%<br>
-_female_: 8.9% (2020 est.)<br>
+_total_: 7%<br>
+_male_: 7%<br>
+_female_: 7% (2021 est.)<br>
 
 **Population below poverty line**<br>
 6.7% (2018 est.)<br>

@@ -214,7 +214,7 @@ _female_: 2% (2020 est.)<br>
 NA<br>
 
 **Education expenditures**<br>
-NA<br>
+7.8% of GDP (2020) NA<br>
 
 **Literacy**<br>
 _definition_: age 15 and over can read and write<br>
@@ -223,14 +223,14 @@ _male_: 98.6%<br>
 _female_: 96% (2020)<br>
 
 **School life expectancy (primary to tertiary education)**<br>
-_total_: 16 years<br>
-_male_: 16 years<br>
-_female_: 16 years (2020)<br>
+_total_: 17 years<br>
+_male_: 17 years<br>
+_female_: 16 years (2021)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 27.2%<br>
-_male_: 21.5%<br>
-_female_: 43.8% (2020 est.)<br>
+_total_: 29.4%<br>
+_male_: 21.6%<br>
+_female_: 51.5% (2020 est.)<br>
 
 ## Environment
 
@@ -334,7 +334,7 @@ _residency requirement for naturalization_: 5 years<br>
 
 **Executive branch**<br>
 _chief of state_: King SALMAN bin Abd al-Aziz Al Saud (since 23 January 2015); Crown Prince MUHAMMAD BIN SALMAN bin Abd al-Aziz Al Saud (born 31 August 1985)<br>
-_head of government_: Crown Prince and Prime Minister MUHAMMAD BIN SALMAN bin Abd al-Aziz Al Saud (born 31 August 1985)<br>
+_head of government_: Crown Prince and Prime Minister MUHAMMAD BIN SALMAN bin Abd al-Aziz Al Saud (since 27 September 2022)<br>
 _cabinet_: Council of Ministers appointed by the monarch every 4 years and includes many royal family members<br>
 _elections/appointments_: none; the monarchy is hereditary; an Allegiance Council created by royal decree in October 2006 established a committee of Saudi princes for a voice in selecting future Saudi kings<br>
 
@@ -459,9 +459,9 @@ _services_: 71.9% (2005 est.)<br>
 <strong>note:</strong> data are for total population; unemployment among Saudi nationals is more than double<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 27.2%<br>
-_male_: 21.5%<br>
-_female_: 43.8% (2020 est.)<br>
+_total_: 29.4%<br>
+_male_: 21.6%<br>
+_female_: 51.5% (2020 est.)<br>
 
 **Population below poverty line**<br>
 NA<br>

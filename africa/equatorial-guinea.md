@@ -127,7 +127,7 @@ _female_: 20.7 years (2020 est.)<br>
 only two large cities over 30,000 people (Bata on the mainland, and the capital Malabo on the island of Bioko); small communities are scattered throughout the mainland and the five inhabited islands as shown in this population distribution map<br>
 
 **Urbanization**<br>
-_urban population_: 74% of total population (2022)<br>
+_urban population_: 74.4% of total population (2023)<br>
 _rate of urbanization_: 3.62% annual rate of change (2020-25 est.)<br>
 
 **Major urban areas - population**<br>
@@ -240,7 +240,7 @@ _forest_: 57.5% (2018 est.)<br>
 _other_: 32.4% (2018 est.)<br>
 
 **Urbanization**<br>
-_urban population_: 74% of total population (2022)<br>
+_urban population_: 74.4% of total population (2023)<br>
 _rate of urbanization_: 3.62% annual rate of change (2020-25 est.)<br>
 
 **Revenue from forest resources**<br>

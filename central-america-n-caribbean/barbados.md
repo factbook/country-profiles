@@ -121,7 +121,7 @@ _female_: 40.7 years (2020 est.)<br>
 most densely populated country in the eastern Caribbean; approximately one-third live in urban areas<br>
 
 **Urbanization**<br>
-_urban population_: 31.3% of total population (2022)<br>
+_urban population_: 31.4% of total population (2023)<br>
 _rate of urbanization_: 0.46% annual rate of change (2020-25 est.)<br>
 
 **Major urban areas - population**<br>
@@ -202,18 +202,13 @@ _female_: 1.9% (2020 est.)<br>
 3.5% (2012)<br>
 
 **Education expenditures**<br>
-4.3% of GDP (2020 est.)<br>
+6.5% of GDP (2021 est.)<br>
 
 **Literacy**<br>
 _definition_: age 15 and over can read and write<br>
 _total population_: 99.6%<br>
 _male_: 99.6%<br>
 _female_: 99.6% (2014)<br>
-
-**School life expectancy (primary to tertiary education)**<br>
-_total_: 15 years<br>
-_male_: 14 years<br>
-_female_: 17 years (2011)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
 _total_: 26%<br>
@@ -246,7 +241,7 @@ _forest_: 19.4% (2018 est.)<br>
 _other_: 48% (2018 est.)<br>
 
 **Urbanization**<br>
-_urban population_: 31.3% of total population (2022)<br>
+_urban population_: 31.4% of total population (2023)<br>
 _rate of urbanization_: 0.46% annual rate of change (2020-25 est.)<br>
 
 **Revenue from forest resources**<br>

@@ -128,7 +128,7 @@ _female_: 47.5 years (2020 est.)<br>
 despite a distinctive pattern with an industrial north and an agrarian south, a fairly even population distribution exists throughout most of the country, with coastal areas, the Po River Valley, and urban centers (particularly Milan, Rome, and Naples), attracting larger and denser populations<br>
 
 **Urbanization**<br>
-_urban population_: 71.7% of total population (2022)<br>
+_urban population_: 72% of total population (2023)<br>
 _rate of urbanization_: 0.27% annual rate of change (2020-25 est.)<br>
 
 **Major urban areas - population**<br>
@@ -195,7 +195,7 @@ _unimproved: total_: total: 0% of population (2020 est.)<br>
 0.2% (2021 est.)<br>
 
 **Major infectious diseases**<br>
-<strong>note:</strong> a new coronavirus is causing respiratory illness (COVID-19) in Italy; illness with this virus has ranged from mild to severe with fatalities reported; as of 6 June 2022, Italy has reported a total of 17,505,973 cases of COVID-19 or 29,352 cumulative cases of COVID-19 per 100,000 population with a total of 166,949 cumulative deaths or a rate of 279.9 cumulative deaths per 100,000 population; as of 6 June 2022, 84.1% of the population has received at least one dose of COVID-19 vaccine; the US Department of Homeland Security has issued instructions requiring US passengers who have been in Italy to travel through select airports where the US Government has implemented enhanced screening procedures<br>
+<strong>note:</strong> a new coronavirus is causing respiratory illness (COVID-19) in Italy; illness with this virus has ranged from mild to severe with fatalities reported; as of 9 December 2022, Italy has reported a total of 24,488,080 cases of COVID-19 or 41,058.8 cumulative cases of COVID-19 per 100,000 population with a total of 181,733 cumulative deaths or a rate of 304.7 cumulative deaths per 100,000 population; as of 8 December 2022, 86.15% of the population has received at least one dose of COVID-19 vaccine; the US Department of Homeland Security has issued instructions requiring US passengers who have been in Italy to travel through select airports where the US Government has implemented enhanced screening procedures<br>
 
 **Obesity - adult prevalence rate**<br>
 19.9% (2016)<br>
@@ -216,7 +216,7 @@ _female_: 19.5% (2020 est.)<br>
 NA<br>
 
 **Education expenditures**<br>
-4.3% of GDP (2018 est.)<br>
+4.3% of GDP (2020 est.)<br>
 
 **Literacy**<br>
 _definition_: age 15 and over can read and write<br>
@@ -227,12 +227,12 @@ _female_: 99% (2018)<br>
 **School life expectancy (primary to tertiary education)**<br>
 _total_: 16 years<br>
 _male_: 16 years<br>
-_female_: 17 years (2019)<br>
+_female_: 17 years (2020)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 29.4%<br>
-_male_: 27.9%<br>
-_female_: 31.8% (2020 est.)<br>
+_total_: 29.7%<br>
+_male_: 27.7%<br>
+_female_: 32.8% (2021 est.)<br>
 
 ## Environment
 
@@ -259,7 +259,7 @@ _forest_: 31.4% (2018 est.)<br>
 _other_: 21.5% (2018 est.)<br>
 
 **Urbanization**<br>
-_urban population_: 71.7% of total population (2022)<br>
+_urban population_: 72% of total population (2023)<br>
 _rate of urbanization_: 0.27% annual rate of change (2020-25 est.)<br>
 
 **Revenue from forest resources**<br>
@@ -269,7 +269,7 @@ _forest revenues_: 0.01% of GDP (2018 est.)<br>
 _coal revenues_: 0% of GDP (2018 est.)<br>
 
 **Major infectious diseases**<br>
-<strong>note:</strong> a new coronavirus is causing respiratory illness (COVID-19) in Italy; illness with this virus has ranged from mild to severe with fatalities reported; as of 6 June 2022, Italy has reported a total of 17,505,973 cases of COVID-19 or 29,352 cumulative cases of COVID-19 per 100,000 population with a total of 166,949 cumulative deaths or a rate of 279.9 cumulative deaths per 100,000 population; as of 6 June 2022, 84.1% of the population has received at least one dose of COVID-19 vaccine; the US Department of Homeland Security has issued instructions requiring US passengers who have been in Italy to travel through select airports where the US Government has implemented enhanced screening procedures<br>
+<strong>note:</strong> a new coronavirus is causing respiratory illness (COVID-19) in Italy; illness with this virus has ranged from mild to severe with fatalities reported; as of 9 December 2022, Italy has reported a total of 24,488,080 cases of COVID-19 or 41,058.8 cumulative cases of COVID-19 per 100,000 population with a total of 181,733 cumulative deaths or a rate of 304.7 cumulative deaths per 100,000 population; as of 8 December 2022, 86.15% of the population has received at least one dose of COVID-19 vaccine; the US Department of Homeland Security has issued instructions requiring US passengers who have been in Italy to travel through select airports where the US Government has implemented enhanced screening procedures<br>
 
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 29.524 million tons (2015 est.)<br>
@@ -344,7 +344,7 @@ _election results_: <em>2022:</em> Sergio MATTARELLA (independent) reelected pre
 
 **Legislative branch**<br>
 _description_: bicameral Parliament or Parlamento consists of:<br>Senate or Senato della Repubblica (320 seats; 116 members directly elected in single-seat constituencies by simple majority vote, 193 members in multi-seat constituencies and 6 members in multi-seat constituencies abroad directly elected by party-list proportional representation vote to serve 5-year terms and 5 ex-officio members appointed by the president of the Republic to serve for life)<br>Chamber of Deputies or Camera dei Deputati (630 seats; 629 members directly elected in single- and multi-seat constituencies by proportional representation vote and 1 member from Valle d'Aosta elected by simple majority vote; members serve 5-year terms)<br>
-_elections_: <br>Senate - last held on 25 September 2022<br>Chamber of Deputies - last held on 25 September 2022; note - snap elections were called when Prime Minister DRAGHI resigned and the parliament was dissolved on 21 July 2022 (next to be held 30 September 2027)<br>
+_elections_: <br>Senate - last held on 25 September 2022<br>Chamber of Deputies - last held on 25 September 2022; note - snap elections were called when Prime Minister DRAGHI resigned, and the parliament was dissolved on 21 July 2022 (next to be held 30 September 2027)<br>
 _election results_: <br>Senate - percent of vote by party - NA; seats by party - center-right coalition (FdI 65, Lega 30, FI 18), center-left coalition (PD 40, AVS 3), M5S 28, Action-Italia Viva 9, SVP 2, MAIE 1, ScN 1; composition (as of September 2022) - men 131, women 69, percent of women 34.5%<br>Chamber of Deputies - percent of vote by party - NA; seats by party - center-right coalition (FdI 119, Lega 66, FI 45), center-left coalition (PD 69, AVS 12), M5S 52, Action-Italia Viva 21, SVP 3, MAIE 1, ScN 1; composition (as of September 2022) - men 271, women 129, percent of women 32.3%; note - total Parliament percent of women 33%<br>
 <strong>note</strong>: in October 2019, Italy's Parliament voted to reduce the number of Senate seats from 315 to 200 and the number of Chamber of Deputies seats from 630 to 400; a referendum to reduce the membership of Parliament held on 20-21 September 2020 was approved, effective for the September 2022 snap election<br>
 
@@ -464,9 +464,9 @@ _services_: 67.8% (2011)<br>
 10.63% (2018 est.)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 29.4%<br>
-_male_: 27.9%<br>
-_female_: 31.8% (2020 est.)<br>
+_total_: 29.7%<br>
+_male_: 27.7%<br>
+_female_: 32.8% (2021 est.)<br>
 
 **Population below poverty line**<br>
 20.1% (2018 est.)<br>
@@ -688,7 +688,7 @@ _container port(s) (TEUs)_: Genoa (2,621,472), Gioia Tauro (2,523,000) (2019)<br
 _LNG terminal(s) (import)_: Panigaglia (La Spezia), Adriatic (Porto Levante), Oristano (Sardinia), Ravenna, Toscana (Livorno)<br>
 
 **Transportation - note**<br>
-Italy operates one PC 5 or 6 class icebreaker, it is based in the Mediterranean<br><strong>note </strong>- PC 5 - Year-round operation in medium first-year ice which may include old ice inclusions (ice thickness up to 70-120 cm); PC 6 - Summer/autumn operation in medium first-year ice which may include old ice inclusions (ice thickness up to 30-70 cm)<br>
+Italy operates one PC 5 or 6 class light icebreaker, it is based in the Mediterranean<br>note - PC indicates a Polar Class vessel: PC 5 - year-round operation in medium first-year ice which may include old ice inclusions (ice thickness up to 70-120 cm); PC 6 - summer/autumn operation in medium first-year ice which may include old ice inclusions (ice thickness up to 30-70 cm)<br>
 
 ## Military and Security
 
@@ -732,9 +732,9 @@ Islamic State of Iraq and ash-Sham (ISIS)<br>
 <p>Italy's long coastline and developed economy entices tens of thousands of illegal immigrants from southeastern Europe and northern Africa</p> <p><em>Italy-Austria-Switzerland</em>: borders are shifting because glacier peaks that had served as a natural boundary are melting</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 19,441 (Nigeria), 15,337 (Pakistan), 12,962 (Afghanistan), 10,609 (Mali), 7,901 (Somalia), 5,845 (Gambia), 5,079 (Iraq) (mid-year 2021); 173,231 (Ukraine) (as of 29 November 2022)<br>
+_refugees (country of origin)_: 19,441 (Nigeria), 15,337 (Pakistan), 12,962 (Afghanistan), 10,609 (Mali), 7,901 (Somalia), 5,845 (Gambia), 5,079 (Iraq) (mid-year 2021); 173,231 (Ukraine) (as of 6 December 2022)<br>
 _stateless persons_: 3,000 (mid-year 2021)<br>
-<strong>note:</strong> 685,460 estimated refugee and migrant arrivals (January 2015-November 2022)<br>
+<strong>note:</strong> 686,097 estimated refugee and migrant arrivals (January 2015-December 2022)<br>
 
 **Illicit drugs**<br>
 important gateway for drug trafficking; organized crime groups allied with Colombian and Spanish groups trafficking cocaine to Europe<br>

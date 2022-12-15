@@ -138,7 +138,7 @@ _female_: 16.7 years (2020 est.)<br>
 the overwhelming majority of the population lives in the southern half of the country, with greater density along the border with Burkina Faso as shown in this population distribution map<br>
 
 **Urbanization**<br>
-_urban population_: 45.4% of total population (2022)<br>
+_urban population_: 46.2% of total population (2023)<br>
 _rate of urbanization_: 4.57% annual rate of change (2020-25 est.)<br>
 
 **Major urban areas - population**<br>
@@ -236,7 +236,7 @@ _women married by age 18_: 53.7%<br>
 _men married by age 18_: 2.1% (2018 est.)<br>
 
 **Education expenditures**<br>
-3.4% of GDP (2019 est.)<br>
+4.4% of GDP (2021 est.)<br>
 
 **Literacy**<br>
 _definition_: age 15 and over can read and write<br>
@@ -250,9 +250,9 @@ _male_: 8 years<br>
 _female_: 7 years (2017)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 2.4%<br>
-_male_: 2.6%<br>
-_female_: 2.3% (2018 est.)<br>
+_total_: 7.5%<br>
+_male_: 6.6%<br>
+_female_: 8.5% (2020 est.)<br>
 
 ## Environment
 
@@ -280,7 +280,7 @@ _forest_: 10.2% (2018 est.)<br>
 _other_: 55.7% (2018 est.)<br>
 
 **Urbanization**<br>
-_urban population_: 45.4% of total population (2022)<br>
+_urban population_: 46.2% of total population (2023)<br>
 _rate of urbanization_: 4.57% annual rate of change (2020-25 est.)<br>
 
 **Revenue from forest resources**<br>
@@ -491,9 +491,9 @@ _industry and services_: 20% (2005 est.)<br>
 7.8% (2016 est.)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 2.4%<br>
-_male_: 2.6%<br>
-_female_: 2.3% (2018 est.)<br>
+_total_: 7.5%<br>
+_male_: 6.6%<br>
+_female_: 8.5% (2020 est.)<br>
 
 **Population below poverty line**<br>
 42.1% (2019 est.)<br>

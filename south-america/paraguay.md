@@ -229,7 +229,7 @@ _women married by age 15_: 3.6%<br>
 _women married by age 18_: 21.6% (2016 est.)<br>
 
 **Education expenditures**<br>
-3.5% of GDP (2019 est.)<br>
+3.3% of GDP (2020 est.)<br>
 
 **Literacy**<br>
 _definition_: age 15 and over can read and write<br>
@@ -238,9 +238,9 @@ _male_: 94.9%<br>
 _female_: 94.2% (2020)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 17.1%<br>
-_male_: 13.1%<br>
-_female_: 23.3% (2020 est.)<br>
+_total_: 16.1%<br>
+_male_: 12.2%<br>
+_female_: 22.1% (2021 est.)<br>
 
 ## Environment
 
@@ -474,9 +474,9 @@ _services_: 55% (2008)<br>
 6% (2016 est.)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 17.1%<br>
-_male_: 13.1%<br>
-_female_: 23.3% (2020 est.)<br>
+_total_: 16.1%<br>
+_male_: 12.2%<br>
+_female_: 22.1% (2021 est.)<br>
 
 **Population below poverty line**<br>
 23.5% (2019 est.)<br>

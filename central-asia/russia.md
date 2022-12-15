@@ -211,7 +211,7 @@ NA<br>
 _degree of risk_: intermediate (2020)<br>
 _food or waterborne diseases_: bacterial diarrhea<br>
 _vectorborne diseases_: Crimean-Congo hemorrhagic fever, tickborne encephalitis<br>
-<strong>note:</strong> widespread ongoing transmission of a respiratory illness caused by the novel coronavirus (COVID-19) is occurring throughout the Russia; as of 18 August 2022, Russia has reported a total of 19,000,055 cases of COVID-19 or 13,019.58 cumulative cases of COVID-19 per 100,000 population with a total of 383,362 cumulative deaths or a rate of 262.69 cumulative deaths per 100,000 population; as of 14 August 2022, 57.13% of the population has received at least one dose of COVID-19 vaccine<br>
+<strong>note:</strong> widespread ongoing transmission of a respiratory illness caused by the novel coronavirus (COVID-19) is occurring throughout the Russia; as of 9 December 2022, Russia has reported a total of 21,650,659 cases of COVID-19 or 14835.87 cumulative cases of COVID-19 per 100,000 population with a total of 392,506 cumulative deaths or a rate of 268.96 cumulative deaths per 100,000 population; as of 4 December 2022, 60.32% of the population has received at least one dose of COVID-19 vaccine<br>
 
 **Obesity - adult prevalence rate**<br>
 23.1% (2016)<br>
@@ -232,7 +232,7 @@ _female_: 12.8% (2020 est.)<br>
 NA<br>
 
 **Education expenditures**<br>
-4.7% of GDP (2018 est.)<br>
+3.7% of GDP (2020 est.)<br>
 
 **Literacy**<br>
 _definition_: age 15 and over can read and write<br>
@@ -289,7 +289,7 @@ _coal revenues_: 0.53% of GDP (2018 est.)<br>
 _degree of risk_: intermediate (2020)<br>
 _food or waterborne diseases_: bacterial diarrhea<br>
 _vectorborne diseases_: Crimean-Congo hemorrhagic fever, tickborne encephalitis<br>
-<strong>note:</strong> widespread ongoing transmission of a respiratory illness caused by the novel coronavirus (COVID-19) is occurring throughout the Russia; as of 18 August 2022, Russia has reported a total of 19,000,055 cases of COVID-19 or 13,019.58 cumulative cases of COVID-19 per 100,000 population with a total of 383,362 cumulative deaths or a rate of 262.69 cumulative deaths per 100,000 population; as of 14 August 2022, 57.13% of the population has received at least one dose of COVID-19 vaccine<br>
+<strong>note:</strong> widespread ongoing transmission of a respiratory illness caused by the novel coronavirus (COVID-19) is occurring throughout the Russia; as of 9 December 2022, Russia has reported a total of 21,650,659 cases of COVID-19 or 14835.87 cumulative cases of COVID-19 per 100,000 population with a total of 392,506 cumulative deaths or a rate of 268.96 cumulative deaths per 100,000 population; as of 4 December 2022, 60.32% of the population has received at least one dose of COVID-19 vaccine<br>
 
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 60 million tons (2012 est.)<br>
@@ -723,6 +723,9 @@ _oil terminal(s)_: Kavkaz oil terminal, Primorsk<br>
 _container port(s) (TEUs)_: Saint Petersburg (2,221,724) (2019)<br>
 _LNG terminal(s) (export)_: Sabetta, Sakhalin Island<br>
 _river port(s)_: Astrakhan, Kazan (Volga River); Rostov-on-Don (Don River); Saint Petersburg (Neva River)<br>
+
+**Transportation - note**<br>
+Russia operates the largest polar class icebreaker fleet in the World with 52 vessels, including the World's only seven nuclear powered heavy icebreakers; the primary missions of Russia's fleet includes keeping open the Northern Sea Route (NSR) in the Arctic Ocean (see Arctic Ocean map) along with Russia's Arctic ports and terminals, maintaining shipping lanes in the Baltic Sea, and supporting ports, terminals, and shipping in the Russian Far East including the Sea of Okhotsk; Russia operates seven PC 1 or 2 heavy icebreakers, 31 PC 3 or 4 medium icebreakers, and 14 PC 5 or 6 light icebreakers<br>note - PC indicates a Polar Class vessel: PC 1 - year-round operation in all polar waters (ice thickness &gt;3 m); PC 2 - year-round operation in moderate multi-year ice conditions (ice thickness up to 3 m); PC 3 - year-round operation in second-year ice which may include multi-year ice inclusions (ice thickness up to 2.5 m); PC 4 - year-round operation in thick first-year ice which may include old ice inclusions (ice thickness up to 120 cm); PC 5 - year-round operation in medium first-year ice which may include old ice inclusions (ice thickness up to 70-120 cm); PC 6 - summer/autumn operation in medium first-year ice which may include old ice inclusions (ice thickness up to 30-70 cm)<br>
 
 ## Military and Security
 

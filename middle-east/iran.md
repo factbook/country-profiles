@@ -135,7 +135,7 @@ _female_: 32 years (2020 est.)<br>
 population is concentrated in the north, northwest, and west, reflecting the position of the Zagros and Elburz Mountains; the vast dry areas in the center and eastern parts of the country, around the deserts of the Dasht-e Kavir and Dasht-e Lut, have a much lower population density<br>
 
 **Urbanization**<br>
-_urban population_: 76.8% of total population (2022)<br>
+_urban population_: 77.3% of total population (2023)<br>
 _rate of urbanization_: 1.32% annual rate of change (2020-25 est.)<br>
 
 **Major urban areas - population**<br>
@@ -201,7 +201,7 @@ _unimproved: total_: total: 0% of population (2020 est.)<br>
 _degree of risk_: intermediate (2020)<br>
 _food or waterborne diseases_: bacterial diarrhea<br>
 _vectorborne diseases_: Crimean-Congo hemorrhagic fever<br>
-<strong>note:</strong> a new coronavirus is causing sustained community spread of respiratory illness (COVID-19) in Iran; sustained community spread means that people have been infected with the virus, but how or where they became infected is not known, and the spread is ongoing; illness with this virus has ranged from mild to severe with fatalities reported; as of 18 August 2022, Iran has reported a total of 7,493,317 cases of COVID-19 or 8,921.36 cumulative cases of COVID-19 per 100,000 population with a total of 143,160 cumulative deaths or a rate 170.44 cumulative deaths per 100,000 population<br>
+<strong>note:</strong> a new coronavirus is causing sustained community spread of respiratory illness (COVID-19) in Iran; sustained community spread means that people have been infected with the virus, but how or where they became infected is not known, and the spread is ongoing; illness with this virus has ranged from mild to severe with fatalities reported; as of 9 December 2022, Iran has reported a total of 7,559,999 cases of COVID-19 or 9,000.75 cumulative cases of COVID-19 per 100,000 population with a total of 144,649 cumulative deaths or a rate 172.2 cumulative deaths per 100,000 population; as of 4 December 2022, 73.52% of the population has received at least one dose of COVID-19 vaccine<br>
 
 **Obesity - adult prevalence rate**<br>
 25.8% (2016)<br>
@@ -222,7 +222,7 @@ _female_: 3.1% (2020 est.)<br>
 4.1% (2010/11)<br>
 
 **Education expenditures**<br>
-3.7% of GDP (2019 est.)<br>
+3.6% of GDP (2020 est.)<br>
 
 **Literacy**<br>
 _definition_: age 15 and over can read and write<br>
@@ -233,7 +233,7 @@ _female_: 80.8% (2016)<br>
 **School life expectancy (primary to tertiary education)**<br>
 _total_: 15 years<br>
 _male_: 15 years<br>
-_female_: 15 years (2017)<br>
+_female_: 15 years (2020)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
 _total_: 23.7%<br>
@@ -266,7 +266,7 @@ _forest_: 6.8% (2018 est.)<br>
 _other_: 63.1% (2018 est.)<br>
 
 **Urbanization**<br>
-_urban population_: 76.8% of total population (2022)<br>
+_urban population_: 77.3% of total population (2023)<br>
 _rate of urbanization_: 1.32% annual rate of change (2020-25 est.)<br>
 
 **Revenue from forest resources**<br>
@@ -279,7 +279,7 @@ _coal revenues_: 0.01% of GDP (2017 est.)<br>
 _degree of risk_: intermediate (2020)<br>
 _food or waterborne diseases_: bacterial diarrhea<br>
 _vectorborne diseases_: Crimean-Congo hemorrhagic fever<br>
-<strong>note:</strong> a new coronavirus is causing sustained community spread of respiratory illness (COVID-19) in Iran; sustained community spread means that people have been infected with the virus, but how or where they became infected is not known, and the spread is ongoing; illness with this virus has ranged from mild to severe with fatalities reported; as of 18 August 2022, Iran has reported a total of 7,493,317 cases of COVID-19 or 8,921.36 cumulative cases of COVID-19 per 100,000 population with a total of 143,160 cumulative deaths or a rate 170.44 cumulative deaths per 100,000 population<br>
+<strong>note:</strong> a new coronavirus is causing sustained community spread of respiratory illness (COVID-19) in Iran; sustained community spread means that people have been infected with the virus, but how or where they became infected is not known, and the spread is ongoing; illness with this virus has ranged from mild to severe with fatalities reported; as of 9 December 2022, Iran has reported a total of 7,559,999 cases of COVID-19 or 9,000.75 cumulative cases of COVID-19 per 100,000 population with a total of 144,649 cumulative deaths or a rate 172.2 cumulative deaths per 100,000 population; as of 4 December 2022, 73.52% of the population has received at least one dose of COVID-19 vaccine<br>
 
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 17.885 million tons (2017 est.)<br>

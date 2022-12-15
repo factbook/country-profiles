@@ -133,7 +133,7 @@ _female_: 20.6 years (2020 est.)<br>
 the relatively small population is spread in pockets throughout the country; the largest urban center is the capital of Libreville, located along the Atlantic coast in the northwest as shown in this population distribution map<br>
 
 **Urbanization**<br>
-_urban population_: 90.7% of total population (2022)<br>
+_urban population_: 91% of total population (2023)<br>
 _rate of urbanization_: 2.27% annual rate of change (2020-25 est.)<br>
 
 **Major urban areas - population**<br>
@@ -220,7 +220,7 @@ _other alcohols_: 0.04 liters of pure alcohol (2019 est.)<br>
 6.4% (2012)<br>
 
 **Education expenditures**<br>
-2.8% of GDP (2019 est.)<br>
+3.2% of GDP (2020 est.)<br>
 
 **Literacy**<br>
 _definition_: age 15 and over can read and write<br>
@@ -254,7 +254,7 @@ _forest_: 81% (2018 est.)<br>
 _other_: 0% (2018 est.)<br>
 
 **Urbanization**<br>
-_urban population_: 90.7% of total population (2022)<br>
+_urban population_: 91% of total population (2023)<br>
 _rate of urbanization_: 2.27% annual rate of change (2020-25 est.)<br>
 
 **Revenue from forest resources**<br>

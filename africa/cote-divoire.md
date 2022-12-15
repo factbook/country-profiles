@@ -135,7 +135,7 @@ _female_: 20.3 years (2020 est.)<br>
 the population is primarily located in the forested south, with the highest concentration of people residing in and around the cities on the Atlantic coast; most of the northern savanna remains sparsely populated with higher concentrations located along transportation corridors as shown in this population distribution map<br>
 
 **Urbanization**<br>
-_urban population_: 52.7% of total population (2022)<br>
+_urban population_: 53.1% of total population (2023)<br>
 _rate of urbanization_: 3.38% annual rate of change (2020-25 est.)<br>
 
 **Major urban areas - population**<br>
@@ -230,7 +230,7 @@ _women married by age 18_: 27%<br>
 _men married by age 18_: 3.5% (2016 est.)<br>
 
 **Education expenditures**<br>
-3.7% of GDP (2019 est.)<br>
+3.4% of GDP (2020 est.)<br>
 
 **Literacy**<br>
 _definition_: age 15 and over can read and write<br>
@@ -239,14 +239,14 @@ _male_: 93.1%<br>
 _female_: 86.7% (2019)<br>
 
 **School life expectancy (primary to tertiary education)**<br>
-_total_: 10 years<br>
+_total_: 11 years<br>
 _male_: 11 years<br>
-_female_: 10 years (2019)<br>
+_female_: 10 years (2020)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 5.5%<br>
-_male_: 4.7%<br>
-_female_: 6.5% (2017 est.)<br>
+_total_: 4.1%<br>
+_male_: 3.4%<br>
+_female_: 4.9% (2019 est.)<br>
 
 ## Environment
 
@@ -274,7 +274,7 @@ _forest_: 32.7% (2018 est.)<br>
 _other_: 2.5% (2018 est.)<br>
 
 **Urbanization**<br>
-_urban population_: 52.7% of total population (2022)<br>
+_urban population_: 53.1% of total population (2023)<br>
 _rate of urbanization_: 3.38% annual rate of change (2020-25 est.)<br>
 
 **Revenue from forest resources**<br>
@@ -480,9 +480,9 @@ _agriculture_: 68% (2007 est.)<br>
 9.4% (2013 est.)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 5.5%<br>
-_male_: 4.7%<br>
-_female_: 6.5% (2017 est.)<br>
+_total_: 4.1%<br>
+_male_: 3.4%<br>
+_female_: 4.9% (2019 est.)<br>
 
 **Population below poverty line**<br>
 39.5% (2018 est.)<br>
@@ -601,8 +601,8 @@ _crude oil estimated reserves_: 100 million barrels (2021 est.)<br>
 7,405 bbl/day (2015 est.)<br>
 
 **Natural gas**<br>
-_production_: 2,424,768,000 cubic meters (2019 est.)<br>
-_consumption_: 2,424,768,000 cubic meters (2019 est.)<br>
+_production_: 2.425 billion cubic meters (2019 est.)<br>
+_consumption_: 2.425 billion cubic meters (2019 est.)<br>
 _exports_: 0 cubic meters (2021 est.)<br>
 _imports_: 0 cubic meters (2021 est.)<br>
 _proven reserves_: 28.317 billion cubic meters (2021 est.)<br>

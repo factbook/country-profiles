@@ -118,7 +118,7 @@ _female_: 40.9 years (2020 est.)<br>
 population fairly equally distributed<br>
 
 **Urbanization**<br>
-_urban population_: 100% of total population (2022)<br>
+_urban population_: 100% of total population (2023)<br>
 _rate of urbanization_: 1.46% annual rate of change (2020-25 est.)<br>
 
 **Major urban areas - population**<br>
@@ -170,7 +170,7 @@ NA<br>
 NA<br>
 
 **Education expenditures**<br>
-3.1% of GDP (2019 est.)<br>
+6.3% of GDP (2020 est.)<br>
 
 **Literacy**<br>
 _definition_: age 15 and over can read and write<br>
@@ -179,9 +179,9 @@ _male_: 98.2%<br>
 _female_: 95% (2016)<br>
 
 **School life expectancy (primary to tertiary education)**<br>
-_total_: 17 years<br>
-_male_: 16 years<br>
-_female_: 18 years (2020)<br>
+_total_: 18 years<br>
+_male_: 17 years<br>
+_female_: 19 years (2021)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
 _total_: 8.1%<br>
@@ -204,7 +204,7 @@ _agricultural land_: 0% (2018 est.)<br>
 _other_: 100% (2018 est.)<br>
 
 **Urbanization**<br>
-_urban population_: 100% of total population (2022)<br>
+_urban population_: 100% of total population (2023)<br>
 _rate of urbanization_: 1.46% annual rate of change (2020-25 est.)<br>
 
 **Revenue from forest resources**<br>

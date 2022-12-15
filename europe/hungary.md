@@ -130,7 +130,7 @@ _female_: 45.5 years (2020 est.)<br>
 a fairly even distribution throughout most of the country, with urban areas attracting larger and denser populations<br>
 
 **Urbanization**<br>
-_urban population_: 72.6% of total population (2022)<br>
+_urban population_: 72.9% of total population (2023)<br>
 _rate of urbanization_: 0.05% annual rate of change (2020-25 est.)<br>
 
 **Major urban areas - population**<br>
@@ -218,7 +218,7 @@ _female_: 27.8% (2020 est.)<br>
 NA<br>
 
 **Education expenditures**<br>
-4.6% of GDP (2018 est.)<br>
+4.8% of GDP (2020 est.)<br>
 
 **Literacy**<br>
 _definition_: age 15 and over can read and write<br>
@@ -227,14 +227,14 @@ _male_: 99.1%<br>
 _female_: 99% (2015)<br>
 
 **School life expectancy (primary to tertiary education)**<br>
-_total_: 13 years<br>
-_male_: 12 years<br>
-_female_: 14 years (2019)<br>
+_total_: 15 years<br>
+_male_: 15 years<br>
+_female_: 15 years (2020)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 12.8%<br>
-_male_: 11.9%<br>
-_female_: 14% (2020 est.)<br>
+_total_: 13.5%<br>
+_male_: 12%<br>
+_female_: 15.5% (2021 est.)<br>
 
 ## Environment
 
@@ -262,7 +262,7 @@ _forest_: 22.5% (2018 est.)<br>
 _other_: 18.6% (2018 est.)<br>
 
 **Urbanization**<br>
-_urban population_: 72.6% of total population (2022)<br>
+_urban population_: 72.9% of total population (2023)<br>
 _rate of urbanization_: 0.05% annual rate of change (2020-25 est.)<br>
 
 **Revenue from forest resources**<br>
@@ -470,9 +470,9 @@ _services_: 64.5% (2015 est.)<br>
 3.71% (2018 est.)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 12.8%<br>
-_male_: 11.9%<br>
-_female_: 14% (2020 est.)<br>
+_total_: 13.5%<br>
+_male_: 12%<br>
+_female_: 15.5% (2021 est.)<br>
 
 **Population below poverty line**<br>
 12.3% (2018 est.)<br>
@@ -732,7 +732,7 @@ Islamic State of Iraq and ash-Sham (ISIS)<br>
 <p>bilateral government, legal, technical and economic working group negotiations continue in 2006 with Slovakia over Hungary's failure to complete its portion of the Gabcikovo-Nagymaros hydroelectric dam project along the Danube; as a member state that forms part of the EU's external border, Hungary has implemented the strict Schengen border rules</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 32,271 (Ukraine) (as of 29 November 2022)<br>
+_refugees (country of origin)_: 32,628 (Ukraine) (as of 6 December 2022)<br>
 _stateless persons_: 130 (mid-year 2021)<br>
 
 **Illicit drugs**<br>

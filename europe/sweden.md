@@ -216,7 +216,7 @@ _female_: 18.2% (2020 est.)<br>
 NA<br>
 
 **Education expenditures**<br>
-7.6% of GDP (2018 est.)<br>
+7.2% of GDP (2020 est.)<br>
 
 **Literacy**<br>
 _total population_: NA<br>
@@ -224,14 +224,14 @@ _male_: NA<br>
 _female_: NA<br>
 
 **School life expectancy (primary to tertiary education)**<br>
-_total_: 19 years<br>
+_total_: 20 years<br>
 _male_: 18 years<br>
-_female_: 21 years (2019)<br>
+_female_: 21 years (2020)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 24%<br>
-_male_: 25%<br>
-_female_: 22.8% (2020 est.)<br>
+_total_: 24.8%<br>
+_male_: 25.3%<br>
+_female_: 24.1% (2021 est.)<br>
 
 ## Environment
 
@@ -455,9 +455,9 @@ _services_: 86% (2014 est.)<br>
 6.33% (2018 est.)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 24%<br>
-_male_: 25%<br>
-_female_: 22.8% (2020 est.)<br>
+_total_: 24.8%<br>
+_male_: 25.3%<br>
+_female_: 24.1% (2021 est.)<br>
 
 **Population below poverty line**<br>
 17.1% (2018 est.)<br>
@@ -675,7 +675,7 @@ _major seaport(s)_: Brofjorden, Goteborg, Helsingborg, Karlshamn, Lulea, Malmo, 
 _LNG terminal(s) (import)_: Brunnsviksholme, Lysekil<br>
 
 **Transportation - note**<br>
-Sweden operates four PC 3 or 4 class icebreakers in the Baltic Sea<br><strong>note </strong>- PC 3 - Year-round operation in second-year ice which may include multi-year ice inclusions (ice thickness up to 2.5 m); PC 4 - Year-round operation in thick first-year ice which may include old ice inclusions (ice thickness up to 120 cm)<br>
+Sweden operates four PC 3 or 4 class medium icebreakers in the Baltic Sea<br>note - PC indicates a Polar Class vessel: PC 3 - year-round operation in second-year ice which may include multi-year ice inclusions (ice thickness up to 2.5 m); PC 4 - year-round operation in thick first-year ice which may include old ice inclusions (ice thickness up to 120 cm)<br>
 
 ## Military and Security
 
@@ -718,6 +718,6 @@ Islamic State of Iraq and ash-Sham (ISIS)<br>
 <p>none identified</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 114,995 (Syria), 28,744 (Afghanistan), 26,911 (Eritrea), 11,574 (Somalia), 11,153 (Iraq), 7,516 (Iran) (2020); 48,360 (Ukraine) (as of 15 November 2022)<br>
+_refugees (country of origin)_: 114,995 (Syria), 28,744 (Afghanistan), 26,911 (Eritrea), 11,574 (Somalia), 11,153 (Iraq), 7,516 (Iran) (2020); 49,181 (Ukraine) (as of 6 December 2022)<br>
 _stateless persons_: 50,098 (mid-year 2021); note - the majority of stateless people are from the Middle East and Somalia<br>
 

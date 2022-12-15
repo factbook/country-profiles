@@ -129,7 +129,7 @@ _female_: 33.1 years (2020 est.)<br>
 roughly half of the nation's population resides in urban areas; the capital of San Jose is the largest city and home to approximately one-fifth of the population<br>
 
 **Urbanization**<br>
-_urban population_: 82% of total population (2022)<br>
+_urban population_: 82.6% of total population (2023)<br>
 _rate of urbanization_: 1.5% annual rate of change (2020-25 est.)<br>
 
 **Major urban areas - population**<br>
@@ -233,9 +233,9 @@ _male_: 16 years<br>
 _female_: 17 years (2019)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 40.7%<br>
-_male_: 34%<br>
-_female_: 50.9% (2020 est.)<br>
+_total_: 38.8%<br>
+_male_: 32.7%<br>
+_female_: 47.9% (2021 est.)<br>
 
 ## Environment
 
@@ -263,7 +263,7 @@ _forest_: 51.5% (2018 est.)<br>
 _other_: 11.4% (2018 est.)<br>
 
 **Urbanization**<br>
-_urban population_: 82% of total population (2022)<br>
+_urban population_: 82.6% of total population (2023)<br>
 _rate of urbanization_: 1.5% annual rate of change (2020-25 est.)<br>
 
 **Revenue from forest resources**<br>
@@ -464,9 +464,9 @@ _services_: 64% (2006 est.)<br>
 9.5% (2016 est.)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 40.7%<br>
-_male_: 34%<br>
-_female_: 50.9% (2020 est.)<br>
+_total_: 38.8%<br>
+_male_: 32.7%<br>
+_female_: 47.9% (2021 est.)<br>
 
 **Population below poverty line**<br>
 21% (2019 est.)<br>

@@ -142,7 +142,7 @@ _female_: 24.5 years (2020 est.)<br>
 approximately 95% of the population lives within 20 km of the Nile River and its delta; vast areas of the country remain sparsely populated or uninhabited as shown in this population distribution map<br>
 
 **Urbanization**<br>
-_urban population_: 43% of total population (2022)<br>
+_urban population_: 43.1% of total population (2023)<br>
 _rate of urbanization_: 1.9% annual rate of change (2020-25 est.)<br>
 
 **Major urban areas - population**<br>
@@ -232,7 +232,7 @@ _female_: 0.4% (2020 est.)<br>
 7% (2014)<br>
 
 **Education expenditures**<br>
-3.9% of GDP (2015 est.)<br>
+2.5% of GDP (2020 est.)<br>
 
 **Literacy**<br>
 _definition_: age 15 and over can read and write<br>
@@ -246,9 +246,9 @@ _male_: 14 years<br>
 _female_: 14 years (2018)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 19.2%<br>
-_male_: 12.2%<br>
-_female_: 49.3% (2019 est.)<br>
+_total_: 17.3%<br>
+_male_: 12.5%<br>
+_female_: 43.5% (2020 est.)<br>
 
 ## Environment
 
@@ -276,7 +276,7 @@ _forest_: 0.1% (2018 est.)<br>
 _other_: 96.3% (2018 est.)<br>
 
 **Urbanization**<br>
-_urban population_: 43% of total population (2022)<br>
+_urban population_: 43.1% of total population (2023)<br>
 _rate of urbanization_: 1.9% annual rate of change (2020-25 est.)<br>
 
 **Revenue from forest resources**<br>
@@ -486,9 +486,9 @@ _services_: 49.1% (2015 est.)<br>
 12.7% (2016 est.)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 19.2%<br>
-_male_: 12.2%<br>
-_female_: 49.3% (2019 est.)<br>
+_total_: 17.3%<br>
+_male_: 12.5%<br>
+_female_: 43.5% (2020 est.)<br>
 
 **Population below poverty line**<br>
 32.5% (2017 est.)<br>

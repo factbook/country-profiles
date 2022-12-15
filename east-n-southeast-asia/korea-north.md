@@ -126,7 +126,7 @@ _female_: 36.2 years (2020 est.)<br>
 population concentrated in the plains and lowlands; least populated regions are the mountainous provinces adjacent to the Chinese border; largest concentrations are in the western provinces, particularly the municipal district of Pyongyang, and around Hungnam and Wonsan in the east<br>
 
 **Urbanization**<br>
-_urban population_: 62.9% of total population (2022)<br>
+_urban population_: 63.2% of total population (2023)<br>
 _rate of urbanization_: 0.85% annual rate of change (2020-25 est.)<br>
 
 **Major urban areas - population**<br>
@@ -243,7 +243,7 @@ _forest_: 46% (2018 est.)<br>
 _other_: 32.2% (2018 est.)<br>
 
 **Urbanization**<br>
-_urban population_: 62.9% of total population (2022)<br>
+_urban population_: 63.2% of total population (2023)<br>
 _rate of urbanization_: 0.85% annual rate of change (2020-25 est.)<br>
 
 **Food insecurity**<br>
@@ -609,7 +609,7 @@ _major seaport(s)_: Ch'ongjin, Haeju, Hungnam, Namp'o, Songnim, Sonbong (formerl
 ## Military and Security
 
 **Military and security forces**<br>
-Korean People's Army (KPA): KPA Ground Forces, KPA Navy, KPA Air Force and Air Defense Forces, KPA Strategic Forces (missile forces), KPA Special Forces (special operations forces); Security Guard Command (aka Bodyguard Command); Ministry of Social Security (formerly Ministry of Public Security): Border Guards, civil security forces; Ministry of State Security: internal security, investigations (2021)<br>
+Korean People's Army (KPA): KPA Ground Forces, KPA Navy, KPA Air Force and Air Defense Forces, KPA Strategic Forces (missile forces), KPA Special Forces (special operations forces); Security Guard Command (aka Bodyguard Command); Ministry of Social Security (formerly Ministry of Public Security): Border Guard General Bureau, civil security forces; Ministry of State Security: internal security, investigations (2021)<br>
 <strong>note 1: </strong>the Security Guard Command protects the Kim family, other senior leadership figures, and government facilities<br><strong><br>note 2: </strong>the North also has a large paramilitary/militia force organized into the Worker Peasant Red Guard and Red Youth Guard; these organizations are present at all levels of government (province, county, ward) and are under the control of the Korean Workers' Party in peacetime, but revert to KPA control in crisis or war; they are often mobilized for domestic projects, such as road building and agricultural support<br>
 
 **Military expenditures**<br>

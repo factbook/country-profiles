@@ -123,7 +123,7 @@ _female_: 38.2 years (2020 est.)<br>
 population distribution is weighted to the eastern side of the island, with the largest concentration being in and around Dublin; populations in the west are small due to mountainous land, poorer soil, lack of good transport routes, and fewer job opportunities<br>
 
 **Urbanization**<br>
-_urban population_: 64.2% of total population (2022)<br>
+_urban population_: 64.5% of total population (2023)<br>
 _rate of urbanization_: 1.15% annual rate of change (2020-25 est.)<br>
 
 **Major urban areas - population**<br>
@@ -207,7 +207,7 @@ _female_: 19% (2020 est.)<br>
 NA<br>
 
 **Education expenditures**<br>
-3.4% of GDP (2018 est.)<br>
+3.1% of GDP (2020 est.)<br>
 
 **Literacy**<br>
 _total population_: NA<br>
@@ -216,13 +216,13 @@ _female_: NA<br>
 
 **School life expectancy (primary to tertiary education)**<br>
 _total_: 19 years<br>
-_male_: 19 years<br>
-_female_: 19 years (2019)<br>
+_male_: 18 years<br>
+_female_: 19 years (2020)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 15.3%<br>
-_male_: 15.3%<br>
-_female_: 15.3% (2020 est.)<br>
+_total_: 14.5%<br>
+_male_: 14.5%<br>
+_female_: 14.6% (2021 est.)<br>
 
 ## Environment
 
@@ -250,7 +250,7 @@ _forest_: 10.9% (2018 est.)<br>
 _other_: 23% (2018 est.)<br>
 
 **Urbanization**<br>
-_urban population_: 64.2% of total population (2022)<br>
+_urban population_: 64.5% of total population (2023)<br>
 _rate of urbanization_: 1.15% annual rate of change (2020-25 est.)<br>
 
 **Revenue from forest resources**<br>
@@ -445,9 +445,9 @@ _services_: 84% (2015 est.)<br>
 5.78% (2018 est.)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 15.3%<br>
-_male_: 15.3%<br>
-_female_: 15.3% (2020 est.)<br>
+_total_: 14.5%<br>
+_male_: 14.5%<br>
+_female_: 14.6% (2021 est.)<br>
 
 **Population below poverty line**<br>
 13.1% (2018 est.)<br>
@@ -704,7 +704,7 @@ Continuity Irish Republican Army; New Irish Republican Army; Islamic State of Ir
 <p><em>Ireland-Denmark</em>: Ireland, Iceland, and the UK dispute Denmark's claim that the Faroe Islands' continental shelf extends beyond 200 nm; Iceland, Norway, and the Faroe Islands signed an agreement in 2019 extending the Faroe Islands’ northern continental shelf area</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 58,511 (Ukraine) (as of 22 November 2022)<br>
+_refugees (country of origin)_: 58,511 (Ukraine) (as of 6 December 2022)<br>
 _stateless persons_: 107 (mid-year 2021)<br>
 
 **Illicit drugs**<br>

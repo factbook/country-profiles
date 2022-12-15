@@ -124,7 +124,7 @@ _female_: 47 years (2020 est.)<br>
 a fairly even distribution throughout most of the country, with urban areas attracting larger and denser populations<br>
 
 **Urbanization**<br>
-_urban population_: 69.6% of total population (2021)<br>
+_urban population_: 69.8% of total population (2023)<br>
 _rate of urbanization_: -0.03% annual rate of change (2020-25 est.)<br>
 
 **Major urban areas - population**<br>
@@ -212,7 +212,7 @@ _female_: 23% (2020 est.)<br>
 0.4% (2013/15)<br>
 
 **Education expenditures**<br>
-5.2% of GDP (2018 est.)<br>
+6.6% of GDP (2020 est.)<br>
 
 **Literacy**<br>
 _definition_: age 15 and over can read and write<br>
@@ -223,12 +223,12 @@ _female_: 99.8% (2015)<br>
 **School life expectancy (primary to tertiary education)**<br>
 _total_: 16 years<br>
 _male_: 15 years<br>
-_female_: 17 years (2019)<br>
+_female_: 17 years (2020)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 17.9%<br>
-_male_: 17.4%<br>
-_female_: 18.4% (2020 est.)<br>
+_total_: 16.7%<br>
+_male_: 18.4%<br>
+_female_: 15% (2021 est.)<br>
 
 ## Environment
 
@@ -256,7 +256,7 @@ _forest_: 52.1% (2018 est.)<br>
 _other_: 25.7% (2018 est.)<br>
 
 **Urbanization**<br>
-_urban population_: 69.6% of total population (2021)<br>
+_urban population_: 69.8% of total population (2023)<br>
 _rate of urbanization_: -0.03% annual rate of change (2020-25 est.)<br>
 
 **Revenue from forest resources**<br>
@@ -455,9 +455,9 @@ _services_: 76.8% (2017 est.)<br>
 4.73% (2018 est.)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 17.9%<br>
-_male_: 17.4%<br>
-_female_: 18.4% (2020 est.)<br>
+_total_: 16.7%<br>
+_male_: 18.4%<br>
+_female_: 15% (2021 est.)<br>
 
 **Population below poverty line**<br>
 21.7% (2018 est.)<br>
@@ -674,7 +674,7 @@ _by type_: general cargo 2, oil tanker 4, other 62 (2021)<br>
 _major seaport(s)_: Kuivastu, Kunda, Muuga, Parnu Reid, Sillamae, Tallinn<br>
 
 **Transportation - note**<br>
-Estonia operates two PC 5 or 6 class icebreakers in the Baltic Sea<br><strong>note </strong>- PC 5 - Year-round operation in medium first-year ice which may include old ice inclusions (ice thickness up to 70-120 cm); PC 6 - Summer/autumn operation in medium first-year ice which may include old ice inclusions (ice thickness up to 30-70 cm)<br>
+Estonia operates two PC 5 or 6 class icebreakers in the Baltic Sea<br>note - PC indicates a Polar Class vessel: PC 5 - year-round operation in medium first-year ice which may include old ice inclusions (ice thickness up to 70-120 cm); PC 6 - summer/autumn operation in medium first-year ice which may include old ice inclusions (ice thickness up to 30-70 cm)<br>
 
 ## Military and Security
 
@@ -707,7 +707,7 @@ Estonia became a member of NATO in 2004<br><br>since 2017, Estonia has hosted a 
 <p>Russia and Estonia in May 2005 signed a technical border agreement, but Russia in June 2005 recalled its signature after the Estonian parliament added to its domestic ratification act a historical preamble referencing the Soviet occupation and Estonia's pre-war borders under the 1920 Treaty of Tartu; Russia contends that the preamble allows Estonia to make territorial claims on Russia in the future, while Estonian officials deny that the preamble has any legal impact on the treaty text; Russia demands better treatment of the Russian-speaking population in Estonia; as a member state that forms part of the EU's external border, Estonia implements strict Schengen border rules with Russia</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 62,239 (Ukraine) (as of 15 November 2022)<br>
+_refugees (country of origin)_: 63,850 (Ukraine) (as of 6 December 2022)<br>
 _stateless persons_: 71,873 (mid-year 2021); note - following independence in 1991, automatic citizenship was restricted to those who were Estonian citizens prior to the 1940 Soviet occupation and their descendants; thousands of ethnic Russians remained stateless when forced to choose between passing Estonian language and citizenship tests or applying for Russian citizenship; one reason for demurring on Estonian citizenship was to retain the right of visa-free travel to Russia; stateless residents can vote in local elections but not general elections; stateless parents who have been lawful residents of Estonia for at least five years can apply for citizenship for their children before they turn 15 years old<br>
 
 **Illicit drugs**<br>

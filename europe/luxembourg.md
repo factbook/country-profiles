@@ -126,7 +126,7 @@ _female_: 40 years (2020 est.)<br>
 most people live in the south, on or near the border with France<br>
 
 **Urbanization**<br>
-_urban population_: 91.9% of total population (2022)<br>
+_urban population_: 92.1% of total population (2023)<br>
 _rate of urbanization_: 1.43% annual rate of change (2020-25 est.)<br>
 
 **Major urban areas - population**<br>
@@ -210,7 +210,7 @@ _female_: 19.8% (2020 est.)<br>
 NA<br>
 
 **Education expenditures**<br>
-3.7% of GDP (2018 est.)<br>
+5% of GDP (2020 est.)<br>
 
 **Literacy**<br>
 _total population_: NA<br>
@@ -218,14 +218,14 @@ _male_: NA<br>
 _female_: NA<br>
 
 **School life expectancy (primary to tertiary education)**<br>
-_total_: 14 years<br>
-_male_: 14 years<br>
-_female_: 14 years (2019)<br>
+_total_: 15 years<br>
+_male_: 15 years<br>
+_female_: 15 years (2020)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 23.2%<br>
-_male_: 24.8%<br>
-_female_: 21.3% (2020 est.)<br>
+_total_: 16.9%<br>
+_male_: 17.7%<br>
+_female_: 16.1% (2021 est.)<br>
 
 ## Environment
 
@@ -253,7 +253,7 @@ _forest_: 33.5% (2018 est.)<br>
 _other_: 15.8% (2018 est.)<br>
 
 **Urbanization**<br>
-_urban population_: 91.9% of total population (2022)<br>
+_urban population_: 92.1% of total population (2023)<br>
 _rate of urbanization_: 1.43% annual rate of change (2020-25 est.)<br>
 
 **Revenue from forest resources**<br>
@@ -450,9 +450,9 @@ _services_: 78.9% (2013 est.)<br>
 5.46% (2018 est.)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 23.2%<br>
-_male_: 24.8%<br>
-_female_: 21.3% (2020 est.)<br>
+_total_: 16.9%<br>
+_male_: 17.7%<br>
+_female_: 16.1% (2021 est.)<br>
 
 **Population below poverty line**<br>
 17.5% (2018 est.)<br>

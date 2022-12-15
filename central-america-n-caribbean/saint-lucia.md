@@ -212,9 +212,9 @@ _male_: 12 years<br>
 _female_: 13 years (2020)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 37.2%<br>
-_male_: 39.6%<br>
-_female_: 34.3% (2019 est.)<br>
+_total_: 44.7%<br>
+_male_: 46.4%<br>
+_female_: 42.6% (2021 est.)<br>
 
 ## Environment
 
@@ -418,9 +418,9 @@ _services_: 53.6% (2002 est.)<br>
 20% (2003 est.)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 37.2%<br>
-_male_: 39.6%<br>
-_female_: 34.3% (2019 est.)<br>
+_total_: 44.7%<br>
+_male_: 46.4%<br>
+_female_: 42.6% (2021 est.)<br>
 
 **Population below poverty line**<br>
 25% (2016 est.)<br>

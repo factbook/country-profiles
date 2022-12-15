@@ -125,7 +125,7 @@ _female_: 24.7 years (2020 est.)<br>
 because of its mountainous terrain, the population distribution is uneven throughout the country, concentrating primarily in valleys and plains as shown in this population distribution map<br>
 
 **Urbanization**<br>
-_urban population_: 24.6% of total population (2022)<br>
+_urban population_: 24.8% of total population (2023)<br>
 _rate of urbanization_: 2.42% annual rate of change (2020-25 est.)<br>
 
 **Major urban areas - population**<br>
@@ -212,7 +212,7 @@ _female_: 1.8% (2020 est.)<br>
 5.8% (2014)<br>
 
 **Education expenditures**<br>
-5.3% of GDP (2020 est.)<br>
+5% of GDP (2021 est.)<br>
 
 **Literacy**<br>
 _definition_: age 15 and over can read and write<br>
@@ -256,7 +256,7 @@ _forest_: 31.7% (2018 est.)<br>
 _other_: 0% (2018 est.)<br>
 
 **Urbanization**<br>
-_urban population_: 24.6% of total population (2022)<br>
+_urban population_: 24.8% of total population (2023)<br>
 _rate of urbanization_: 2.42% annual rate of change (2020-25 est.)<br>
 
 **Revenue from forest resources**<br>

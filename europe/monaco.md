@@ -125,7 +125,7 @@ _female_: 57 years (2020 est.)<br>
 the second most densely populated country in the world (after Macau); its entire population living on 2 square km<br>
 
 **Urbanization**<br>
-_urban population_: 100% of total population (2022)<br>
+_urban population_: 100% of total population (2023)<br>
 _rate of urbanization_: 0.5% annual rate of change (2020-25 est.)<br>
 
 **Major urban areas - population**<br>
@@ -196,7 +196,7 @@ _male_: NA<br>
 _female_: NA<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 26.7%<br>
+_total_: 26.6%<br>
 _male_: 25.7%<br>
 _female_: 27.9% (2016 est.)<br>
 
@@ -225,7 +225,7 @@ _forest_: 0% (2018 est.)<br>
 _other_: 99% (2018 est.)<br>
 
 **Urbanization**<br>
-_urban population_: 100% of total population (2022)<br>
+_urban population_: 100% of total population (2023)<br>
 _rate of urbanization_: 0.5% annual rate of change (2020-25 est.)<br>
 
 **Revenue from forest resources**<br>
@@ -387,7 +387,7 @@ _services_: 83.9% (2012 est.)<br>
 2% (2012)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 26.7%<br>
+_total_: 26.6%<br>
 _male_: 25.7%<br>
 _female_: 27.9% (2016 est.)<br>
 

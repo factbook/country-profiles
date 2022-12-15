@@ -129,7 +129,7 @@ _female_: 39.5 years (2020 est.)<br>
 pockets of agglomeration exist throughout the country, the largest being in the center of the country around the capital of Chisinau, followed by Tiraspol and Balti<br>
 
 **Urbanization**<br>
-_urban population_: 43.2% of total population (2022)<br>
+_urban population_: 43.4% of total population (2023)<br>
 _rate of urbanization_: 0.09% annual rate of change (2020-25 est.)<br>
 
 **Major urban areas - population**<br>
@@ -213,7 +213,7 @@ _female_: 6.2% (2020 est.)<br>
 2.2% (2012)<br>
 
 **Education expenditures**<br>
-6.1% of GDP (2019 est.)<br>
+6.4% of GDP (2020 est.)<br>
 
 **Literacy**<br>
 _definition_: age 15 and over can read and write<br>
@@ -224,12 +224,12 @@ _female_: 99.1% (2015)<br>
 **School life expectancy (primary to tertiary education)**<br>
 _total_: 14 years<br>
 _male_: 14 years<br>
-_female_: 15 years (2020)<br>
+_female_: 15 years (2021)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 10.9%<br>
-_male_: 9.9%<br>
-_female_: 12.3% (2020 est.)<br>
+_total_: 9.2%<br>
+_male_: 9%<br>
+_female_: 9.6% (2021 est.)<br>
 
 ## Environment
 
@@ -257,7 +257,7 @@ _forest_: 11.9% (2018 est.)<br>
 _other_: 13.2% (2018 est.)<br>
 
 **Urbanization**<br>
-_urban population_: 43.2% of total population (2022)<br>
+_urban population_: 43.4% of total population (2023)<br>
 _rate of urbanization_: 0.09% annual rate of change (2020-25 est.)<br>
 
 **Revenue from forest resources**<br>
@@ -457,9 +457,9 @@ _services_: 55.7% (2017 est.)<br>
 3.16% (2018 est.)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 10.9%<br>
-_male_: 9.9%<br>
-_female_: 12.3% (2020 est.)<br>
+_total_: 9.2%<br>
+_male_: 9%<br>
+_female_: 9.6% (2021 est.)<br>
 
 **Population below poverty line**<br>
 7.3% (2018 est.)<br>
@@ -700,7 +700,7 @@ Moldova is constitutionally neutral, but has maintained a relationship with NATO
 <p><em>Moldova-Romania</em>: none identified</p> <p><em>Moldova-Ukraine</em>: Ukraine and Moldova signed an agreement officially delimiting their border in 1999, but the border has not been demarcated due to Moldova's difficulties with the break-away region of Transnistria; Moldova and Ukraine operate joint customs posts to monitor the transit of people and commodities through Moldova's break-away Transnistria region, which remains under the auspices of an Organization for Security and Cooperation in Europe-mandated peacekeeping mission comprised of Moldovan, Transnistrian, Russian, and Ukrainian troops</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 96,913 (Ukraine) (as of 29 November 2022)<br>
+_refugees (country of origin)_: 98,027 (Ukraine) (as of 6 December 2022)<br>
 _stateless persons_: 3,372 (mid-year 2021)<br>
 
 **Illicit drugs**<br>

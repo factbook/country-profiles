@@ -128,7 +128,7 @@ _female_: 29.3 years (2020 est.)<br>
 athough it is the smallest country in land area in Central America, El Salvador has a population that is 18 times larger than Belize; at least 20% of the population lives abroad; high population density country-wide, with particular concentration around the capital of San Salvador<br>
 
 **Urbanization**<br>
-_urban population_: 74.8% of total population (2022)<br>
+_urban population_: 75.4% of total population (2023)<br>
 _rate of urbanization_: 1.33% annual rate of change (2020-25 est.)<br>
 
 **Major urban areas - population**<br>
@@ -218,7 +218,7 @@ _female_: 1.7% (2020 est.)<br>
 5% (2014)<br>
 
 **Education expenditures**<br>
-3.4% of GDP (2019 est.)<br>
+4.1% of GDP (2020 est.)<br>
 
 **Literacy**<br>
 _definition_: age 15 and over can read and write<br>
@@ -232,9 +232,9 @@ _male_: 12 years<br>
 _female_: 12 years (2018)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 10%<br>
-_male_: 8.3%<br>
-_female_: 12.8% (2019)<br>
+_total_: 11.6%<br>
+_male_: 9.6%<br>
+_female_: 15.1% (2020)<br>
 
 ## Environment
 
@@ -262,7 +262,7 @@ _forest_: 13.6% (2018 est.)<br>
 _other_: 11.7% (2018 est.)<br>
 
 **Urbanization**<br>
-_urban population_: 74.8% of total population (2022)<br>
+_urban population_: 75.4% of total population (2023)<br>
 _rate of urbanization_: 1.33% annual rate of change (2020-25 est.)<br>
 
 **Revenue from forest resources**<br>
@@ -460,9 +460,9 @@ _services_: 58% (2011 est.)<br>
 <strong>note:</strong> data are official rates; but underemployment is high<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 10%<br>
-_male_: 8.3%<br>
-_female_: 12.8% (2019)<br>
+_total_: 11.6%<br>
+_male_: 9.6%<br>
+_female_: 15.1% (2020)<br>
 
 **Population below poverty line**<br>
 22.8% (2019 est.)<br>

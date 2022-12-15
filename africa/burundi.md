@@ -133,7 +133,7 @@ _female_: 18 years (2020 est.)<br>
 one of Africa's most densely populated countries; concentrations tend to be in the north and along the northern shore of Lake Tanganyika in the west; most people live on farms near areas of fertile volcanic soil as shown in this population distribution map<br>
 
 **Urbanization**<br>
-_urban population_: 14.4% of total population (2022)<br>
+_urban population_: 14.8% of total population (2023)<br>
 _rate of urbanization_: 5.43% annual rate of change (2020-25 est.)<br>
 
 **Major urban areas - population**<br>
@@ -230,7 +230,7 @@ _women married by age 18_: 19%<br>
 _men married by age 18_: 1.4% (2017 est.)<br>
 
 **Education expenditures**<br>
-5.1% of GDP (2018 est.)<br>
+5% of GDP (2020 est.)<br>
 
 **Literacy**<br>
 _definition_: age 15 and over can read and write<br>
@@ -274,7 +274,7 @@ _forest_: 6.6% (2018 est.)<br>
 _other_: 20.1% (2018 est.)<br>
 
 **Urbanization**<br>
-_urban population_: 14.4% of total population (2022)<br>
+_urban population_: 14.8% of total population (2023)<br>
 _rate of urbanization_: 5.43% annual rate of change (2020-25 est.)<br>
 
 **Revenue from forest resources**<br>

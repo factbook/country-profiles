@@ -211,7 +211,7 @@ _female_: 5% (2020 est.)<br>
 NA<br>
 
 **Education expenditures**<br>
-2.5% of GDP (2020 est.)<br>
+2.8% of GDP (2021 est.)<br>
 
 **Literacy**<br>
 _definition_: age 15 and over can read and write<br>
@@ -222,12 +222,12 @@ _female_: 96.1% (2019)<br>
 **School life expectancy (primary to tertiary education)**<br>
 _total_: 17 years<br>
 _male_: 16 years<br>
-_female_: 17 years (2019)<br>
+_female_: 17 years (2020)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 10.6%<br>
-_male_: 8.1%<br>
-_female_: 13.5% (2020 est.)<br>
+_total_: 7.5%<br>
+_male_: 5%<br>
+_female_: 10.2% (2021 est.)<br>
 
 ## Environment
 
@@ -452,9 +452,9 @@ _services_: 73.7% (2017)<br>
 2.1% (2018 est.)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 10.6%<br>
-_male_: 8.1%<br>
-_female_: 13.5% (2020 est.)<br>
+_total_: 7.5%<br>
+_male_: 5%<br>
+_female_: 10.2% (2021 est.)<br>
 
 **Population below poverty line**<br>
 NA<br>

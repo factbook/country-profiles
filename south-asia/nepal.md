@@ -130,7 +130,7 @@ _female_: 26.9 years (2020 est.)<br>
 most of the population is divided nearly equally between a concentration in the southern-most plains of the Tarai region and the central hilly region; overall density is quite low<br>
 
 **Urbanization**<br>
-_urban population_: 21.5% of total population (2022)<br>
+_urban population_: 21.9% of total population (2023)<br>
 _rate of urbanization_: 3.09% annual rate of change (2020-25 est.)<br>
 
 **Major urban areas - population**<br>
@@ -225,7 +225,7 @@ _women married by age 18_: 32.8%<br>
 _men married by age 18_: 9% (2019 est.)<br>
 
 **Education expenditures**<br>
-4.4% of GDP (2018 est.)<br>
+4.2% of GDP (2020 est.)<br>
 
 **Literacy**<br>
 _definition_: age 15 and over can read and write<br>
@@ -236,12 +236,12 @@ _female_: 59.7% (2018)<br>
 **School life expectancy (primary to tertiary education)**<br>
 _total_: 13 years<br>
 _male_: 13 years<br>
-_female_: 13 years (2019)<br>
+_female_: 13 years (2020)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 21.4%<br>
-_male_: 19.7%<br>
-_female_: 23.9% (2017 est.)<br>
+_total_: 20.5%<br>
+_male_: 19.2%<br>
+_female_: 22.5% (2017 est.)<br>
 
 ## Environment
 
@@ -269,7 +269,7 @@ _forest_: 25.4% (2018 est.)<br>
 _other_: 45.8% (2018 est.)<br>
 
 **Urbanization**<br>
-_urban population_: 21.5% of total population (2022)<br>
+_urban population_: 21.9% of total population (2023)<br>
 _rate of urbanization_: 3.09% annual rate of change (2020-25 est.)<br>
 
 **Revenue from forest resources**<br>
@@ -354,9 +354,9 @@ _elections/appointments_: president indirectly elected by an electoral college o
 _election results_: Bidhya Devi BHANDARI reelected president; electoral vote - Bidhya Devi BHANDARI (CPN-UML) 39,275, Kumari Laxmi RAI (NC) 11,730<br>
 
 **Legislative branch**<br>
-_description_: bicameral Federal Parliament consists of:<br>National Assembly (59 seats; 56 members, including at least 3 women, 1 Dalit, 1 member with disabilities, or 1 minority indirectly elected by an electoral college of state and municipal government leaders, and 3 members, including 1 woman, nominated by the president of Nepal on the recommendation of the government; members serve 5-year terms with renewal of one-third of the membership every 2 years)<br>House of Representatives (275 seats statutory, current 271 with 4 vacant; 165 members directly elected in single-seat constituencies by simple majority vote and 110 members directly elected in a single nationwide constituency by closed-list proportional representation vote, with a threshold of 3% overall valid vote to be allocated a seat; members serve 5-year terms); note - the House of Representatives was dissolved on 22 May 2021, but on 13 July, the Supreme Court directed its reinstatement<br>
-_elections_: <br>National Assembly - last held on 26 January 2022 (next to be held in 2024)<br>first election for House of Representatives held on 26 November and 7 December 2017 (next to be held on 20 November 2022)<br>
-_election results_: <br>National Assembly - percent of vote by party - NA; seats by party - NCP 42, NC 13, FSFN 2, RJPN 2; composition - men 37, women 22, percent of women 37.3%<br>House of Representatives - percent of vote by party - NA; seats by party - NCP 174, NC 63, RJPN 17, FSFN 16, vacant 4, independent 1; composition - men 180, women 91, percent of women 33.6%; note - total Federal Parliament percent of women 33.8%<br>
+_description_: bicameral Federal Parliament consists of:<br>National Assembly (59 seats; 56 members, including at least 3 women, 1 Dalit, 1 member with disabilities, or 1 minority indirectly elected by an electoral college of state and municipal government leaders, and 3 members, including 1 woman, nominated by the president of Nepal on the recommendation of the government; members serve 5-year terms with renewal of one-third of the membership every 2 years)<br>House of Representatives (275 seats; 165 members directly elected in single-seat constituencies by simple majority vote and 110 members directly elected in a single nationwide constituency by closed-list proportional representation vote, with a threshold of 3% overall valid vote to be allocated a seat; members serve 5-year terms); note - the House of Representatives was dissolved on 22 May 2021, but on 13 July, the Supreme Court directed its reinstatement<br>
+_elections_: <br>2022: National Assembly - last held on 26 January 2022 (next to be held in 2024)<br><br>2022: House of Representatives - last held on 20 November 2022 (next to be held in November 2027)<br>2017: House of Representatives held on 26 November and 7 December 2017<br>
+_election results_: <br>2022: National Assembly - percent of vote by party - NA; seats by party - NCP 42, NC 13, FSFN 2, RJPN 2; composition - men 37, women 22, percent of women 37.3%<br>2022: House of Representatives - percent of vote by party - NA; seats by party - NC 89, NCP 78, CPN-MC 32, RSP 20, RPP 14, PSP-N 12, CPN (Unified Socialist) 10, Janamat Party 6, Loktantrik Samajwadi Party 4,<br>other 10; composition - NA<br>2017: House of Representatives - percent of vote by party - NA; seats by party - NCP 174, NC 63, RJPN 17, FSFN 16, vacant 4, independent 1; composition - men 180, women 91, percent of women 33.6%; note - total Federal Parliament percent of women 33.8%<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme Court (consists of the chief justice and up to 20 judges)<br>
@@ -364,7 +364,7 @@ _judge selection and term of office_: Supreme Court chief justice appointed by t
 _subordinate courts_: High Court; district courts<br>
 
 **Political parties and leaders**<br>
-<p>the Election Commission of Nepal granted ballot access under the proportional system to 88 political parties for the November-December 2017 House of Representatives election to the Federal Parliament; of these, the following 8 parties won seats:<br>Federal Socialist Forum, Nepal or FSFN [Upendra YADAV]<br>Naya Shakti Party, Nepal [Baburam BHATTARAI]<br>Nepal Communist Party or NCP [Khadga Prasad OLI, Pushpa Kamal DAHAL]<br>Nepali Congress or NC [Sher Bahadur DEUBA]<br>Nepal Mazdoor Kisan Party (Nepal Workers' and Peasants' Party) or NWPP [Narayan Man BIJUKCHHE]<br>Rastriya Janamorcha (National People's Front) [Chitra Bahadur K.C.]<br>Rastriya Janata Party (National People's Party, Nepal) or RJPN [Mahanta THAKUR]<br>Rastriya Prajatantra Party (National Democratic Party) or RPP [Rajendra Prasad LINGDEN]</p><br>
+<p><br>Federal Socialist Forum, Nepal or FSFN [Upendra YADAV]<br>Communist Party of Nepal (Maoist Centre) or CPN-UMC [Pushpa Kamal DAHAL]<br>Communist Party of Nepal (Unified Socialist) [Madhav Kumar NEPAL]<br>Janamat Party [Chandra Kant RAUT]<br>Loktantrik Samajwadi Party [Mahantha THAKUR]<br>Naya Shakti Party, Nepal [Baburam BHATTARAI]<br>Nepal Communist Party or CPN-UML [Khadga Prasad OLI]<br>Nepali Congress or NC [Sher Bahadur DEUBA]<br>Nepal Mazdoor Kisan Party (Nepal Workers' and Peasants' Party) or NWPP [Narayan Man BIJUKCHHE]<br>People's Socialist Party [Upendra YAKAV]<br>Rastriya Janamorcha (National People's Front) [Chitra Bahadur K.C.]<br>Rastriya Janata Party (National People's Party, Nepal) or RJPN [Mahanta THAKUR]<br>Rastriya Prajatantra Party (National Democratic Party) or RPP [Rajendra Prasad LINGDEN]<br>Rastriya Swatantra Party or RSP [Rabi LAMICHHANE]</p><br>
 
 **International organization participation**<br>
 ADB, BIMSTEC, CD, CP, FAO, G-77, IAEA, IBRD, ICAO, ICC (NGOs), ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, MINURSO, MINUSMA, MINUSTAH, MONUSCO, NAM, OPCW, SAARC, SACEP, UN, UNAMID, UNCTAD, UNDOF, UNESCO, UNHRC, UNIDO, UNIFIL, UNISFA, UNMIL, UNMISS, UNOCI, UNSOM, UNTSO, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
@@ -466,9 +466,9 @@ _services_: 19% (2015 est.)<br>
 3.2% (2016 est.)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 21.4%<br>
-_male_: 19.7%<br>
-_female_: 23.9% (2017 est.)<br>
+_total_: 20.5%<br>
+_male_: 19.2%<br>
+_female_: 22.5% (2017 est.)<br>
 
 **Population below poverty line**<br>
 25.2% (2011 est.)<br>

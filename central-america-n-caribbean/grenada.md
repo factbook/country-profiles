@@ -121,7 +121,7 @@ _female_: 33.4 years (2020 est.)<br>
 approximately one-third of the population is found in the capital of St. George's; the island's population is concentrated along the coast<br>
 
 **Urbanization**<br>
-_urban population_: 36.9% of total population (2022)<br>
+_urban population_: 37.1% of total population (2023)<br>
 _rate of urbanization_: 0.86% annual rate of change (2020-25 est.)<br>
 
 **Major urban areas - population**<br>
@@ -229,7 +229,7 @@ _forest_: 50% (2018 est.)<br>
 _other_: 17.7% (2018 est.)<br>
 
 **Urbanization**<br>
-_urban population_: 36.9% of total population (2022)<br>
+_urban population_: 37.1% of total population (2023)<br>
 _rate of urbanization_: 0.86% annual rate of change (2020-25 est.)<br>
 
 **Revenue from forest resources**<br>

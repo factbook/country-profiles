@@ -126,7 +126,7 @@ _female_: 48.2 years (2020 est.)<br>
 fairly even population distribution throughout the country, but somewhat greater concentrations in the southern cities of Vilnius and Kaunas, and the western port of Klaipeda<br>
 
 **Urbanization**<br>
-_urban population_: 68.5% of total population (2022)<br>
+_urban population_: 68.7% of total population (2023)<br>
 _rate of urbanization_: -0.12% annual rate of change (2020-25 est.)<br>
 
 **Major urban areas - population**<br>
@@ -214,7 +214,7 @@ _female_: 21.8% (2020 est.)<br>
 NA<br>
 
 **Education expenditures**<br>
-3.9% of GDP (2018 est.)<br>
+4% of GDP (2019 est.)<br>
 
 **Literacy**<br>
 _definition_: age 15 and over can read and write<br>
@@ -225,12 +225,12 @@ _female_: 99.8% (2015)<br>
 **School life expectancy (primary to tertiary education)**<br>
 _total_: 16 years<br>
 _male_: 16 years<br>
-_female_: 17 years (2019)<br>
+_female_: 17 years (2020)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 19.6%<br>
-_male_: 21.5%<br>
-_female_: 17.3% (2020 est.)<br>
+_total_: 14.3%<br>
+_male_: 14%<br>
+_female_: 14.7% (2021 est.)<br>
 
 ## Environment
 
@@ -258,7 +258,7 @@ _forest_: 34.6% (2018 est.)<br>
 _other_: 20.6% (2018 est.)<br>
 
 **Urbanization**<br>
-_urban population_: 68.5% of total population (2022)<br>
+_urban population_: 68.7% of total population (2023)<br>
 _rate of urbanization_: -0.12% annual rate of change (2020-25 est.)<br>
 
 **Revenue from forest resources**<br>
@@ -460,9 +460,9 @@ _services_: 65.8% (2015 est.)<br>
 8.5% (2018 est.)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 19.6%<br>
-_male_: 21.5%<br>
-_female_: 17.3% (2020 est.)<br>
+_total_: 14.3%<br>
+_male_: 14%<br>
+_female_: 14.7% (2021 est.)<br>
 
 **Population below poverty line**<br>
 20.6% (2018 est.)<br>
@@ -713,7 +713,7 @@ Lithuania became a member of NATO in 2004<br> <p>since 2017, Lithuania has hoste
 <p><em>Lithuania-Belarus</em>: as of January 2007, ground demarcation of the boundary with Belarus was complete and mapped with final ratification documents in preparation</p> <p><em>Lithuania-Lativa</em>: boundary demarcated with Latvia was completed in 1998</p> <p><em>Lithuania-Russia</em>:<strong> </strong>Lithuania and Russia committed to demarcating their boundary in 2006 in accordance with the land and maritime treaty ratified by Russia in May 2003 and by Lithuania in 1999; Lithuania operates a simplified transit regime for Russian nationals traveling from the Kaliningrad coastal exclave into Russia, while still conforming, as a EU member state having an external border with a non-EU member, to strict Schengen border rules; in January 2018, demarcation of the Lithuania-Russia border was completed</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 70,667 (Ukraine) (as of 22 November 2022)<br>
+_refugees (country of origin)_: 71,367 (Ukraine) (as of 6 December 2022)<br>
 _stateless persons_: 2,721 (mid-year 2021)<br>
 
 **Illicit drugs**<br>

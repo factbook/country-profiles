@@ -135,7 +135,7 @@ _female_: 21.9 years (2020 est.)<br>
 population is concentrated in the southern half of the country, with the highest concentrations being on or near the Atlantic coast as shown in this population distribution map<br>
 
 **Urbanization**<br>
-_urban population_: 58.6% of total population (2022)<br>
+_urban population_: 59.2% of total population (2023)<br>
 _rate of urbanization_: 3.06% annual rate of change (2020-25 est.)<br>
 
 **Major urban areas - population**<br>
@@ -234,7 +234,7 @@ _women married by age 18_: 19.3%<br>
 _men married by age 18_: 3.9% (2018 est.)<br>
 
 **Education expenditures**<br>
-4% of GDP (2018 est.)<br>
+3.9% of GDP (2018 est.)<br>
 
 **Literacy**<br>
 _definition_: age 15 and over can read and write<br>
@@ -248,9 +248,9 @@ _male_: 12 years<br>
 _female_: 12 years (2020)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 9.1%<br>
-_male_: 9.4%<br>
-_female_: 8.7% (2017 est.)<br>
+_total_: 6.2%<br>
+_male_: 6.4%<br>
+_female_: 6.1% (2017 est.)<br>
 
 ## Environment
 
@@ -278,7 +278,7 @@ _forest_: 21.2% (2018 est.)<br>
 _other_: 9.7% (2018 est.)<br>
 
 **Urbanization**<br>
-_urban population_: 58.6% of total population (2022)<br>
+_urban population_: 59.2% of total population (2023)<br>
 _rate of urbanization_: 3.06% annual rate of change (2020-25 est.)<br>
 
 **Revenue from forest resources**<br>
@@ -484,9 +484,9 @@ _services_: 40.9% (2013 est.)<br>
 5.2% (2013 est.)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 9.1%<br>
-_male_: 9.4%<br>
-_female_: 8.7% (2017 est.)<br>
+_total_: 6.2%<br>
+_male_: 6.4%<br>
+_female_: 6.1% (2017 est.)<br>
 
 **Population below poverty line**<br>
 23.4% (2016 est.)<br>

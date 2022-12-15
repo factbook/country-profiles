@@ -130,7 +130,7 @@ _female_: 44.7 years (2020 est.)<br>
 a fairly even distribution throughout most of the country, but the northern and eastern regions tend to have larger urban concentrations<br>
 
 **Urbanization**<br>
-_urban population_: 74.4% of total population (2022)<br>
+_urban population_: 74.6% of total population (2023)<br>
 _rate of urbanization_: 0.2% annual rate of change (2020-25 est.)<br>
 
 **Major urban areas - population**<br>
@@ -214,7 +214,7 @@ _female_: 26.4% (2020 est.)<br>
 NA<br>
 
 **Education expenditures**<br>
-4.3% of GDP (2018 est.)<br>
+5.1% of GDP (2020 est.)<br>
 
 **Literacy**<br>
 _definition_: NA<br>
@@ -225,12 +225,12 @@ _female_: 99% (2011)<br>
 **School life expectancy (primary to tertiary education)**<br>
 _total_: 16 years<br>
 _male_: 16 years<br>
-_female_: 17 years (2019)<br>
+_female_: 17 years (2020)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 8%<br>
-_male_: 7.2%<br>
-_female_: 9.2% (2020 est.)<br>
+_total_: 8.2%<br>
+_male_: 7.6%<br>
+_female_: 9.1% (2021 est.)<br>
 
 ## Environment
 
@@ -258,7 +258,7 @@ _forest_: 34.4% (2018 est.)<br>
 _other_: 10.8% (2018 est.)<br>
 
 **Urbanization**<br>
-_urban population_: 74.4% of total population (2022)<br>
+_urban population_: 74.6% of total population (2023)<br>
 _rate of urbanization_: 0.2% annual rate of change (2020-25 est.)<br>
 
 **Revenue from forest resources**<br>
@@ -459,9 +459,9 @@ _services_: 59.2% (2015)<br>
 3.18% (2018 est.)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 8%<br>
-_male_: 7.2%<br>
-_female_: 9.2% (2020 est.)<br>
+_total_: 8.2%<br>
+_male_: 7.6%<br>
+_female_: 9.1% (2021 est.)<br>
 
 **Population below poverty line**<br>
 10.1% (2018 est.)<br>
@@ -711,7 +711,7 @@ Czechia joined NATO in 1999; Czechia, Hungary, and Poland were invited to begin 
 <p>none</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 464,910 (Ukraine) (as of 29 November 2022)<br>
+_refugees (country of origin)_: 467,862 (Ukraine) (as of 6 December 2022)<br>
 _stateless persons_: 1,498 (mid-year 2021)<br>
 
 **Illicit drugs**<br>

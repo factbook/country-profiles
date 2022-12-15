@@ -125,7 +125,7 @@ _female_: 30.1 years (2020 est.)<br>
 approximately 70% of the population lives on the island of Viti Levu; roughly half of the population lives in urban areas<br>
 
 **Urbanization**<br>
-_urban population_: 58.2% of total population (2022)<br>
+_urban population_: 58.7% of total population (2023)<br>
 _rate of urbanization_: 1.37% annual rate of change (2020-25 est.)<br>
 
 **Major urban areas - population**<br>
@@ -211,7 +211,7 @@ _female_: 10.5% (2020 est.)<br>
 NA<br>
 
 **Education expenditures**<br>
-5.1% of GDP (2019 est.)<br>
+5.7% of GDP (2020 est.)<br>
 
 **Literacy**<br>
 _total population_: 99.1%<br>
@@ -249,7 +249,7 @@ _forest_: 55.7% (2018 est.)<br>
 _other_: 21% (2018 est.)<br>
 
 **Urbanization**<br>
-_urban population_: 58.2% of total population (2022)<br>
+_urban population_: 58.7% of total population (2023)<br>
 _rate of urbanization_: 1.37% annual rate of change (2020-25 est.)<br>
 
 **Revenue from forest resources**<br>

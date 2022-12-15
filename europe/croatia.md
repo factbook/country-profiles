@@ -5,7 +5,7 @@ _Europe / Countries_
 ## Introduction
 
 **Background**<br>
-<p>The lands that today comprise Croatia were part of the Austro-Hungarian Empire until the close of World War I. In 1918, the Croats, Serbs, and Slovenes formed a kingdom known after 1929 as Yugoslavia. Following World War II, Yugoslavia became a federal independent communist state consisting of six socialist republics under the strong hand of Marshal Josip Broz, aka TITO. Although Croatia declared its independence from Yugoslavia in 1991, it took four years of sporadic, but often bitter, fighting before occupying Yugoslav forces, dominated by Serb officers, were mostly cleared from Croatian lands, along with a majority of Croatia's ethnic Serb population. Under UN supervision, the last Serb-held enclave in eastern Slavonia was returned to Croatia in 1998. The country joined NATO in April 2009 and the EU in July 2013.</p><br>
+<p>The lands that today comprise Croatia were part of the Austro-Hungarian Empire until the close of World War I. In 1918, the Croats, Serbs, and Slovenes formed a kingdom known after 1929 as Yugoslavia. Following World War II, Yugoslavia became a federal independent communist state consisting of six socialist republics under the strong hand of Marshal Josip Broz, aka TITO. Although Croatia declared its independence from Yugoslavia in 1991, it took four years of sporadic, but often bitter, fighting before occupying Yugoslav forces, dominated by Serb officers, were mostly cleared from Croatian lands, along with a majority of Croatia's ethnic Serb population. Under UN supervision, the last Serb-held enclave in eastern Slavonia was returned to Croatia in 1998. The country joined NATO in April 2009 and the EU in July 2013. </p><br>
 
 ## Geography
 
@@ -131,7 +131,7 @@ _female_: 45.9 years (2020 est.)<br>
 more of the population lives in the northern half of the country, with approximately a quarter of the populace residing in and around the capital of Zagreb; many of the islands are sparsely populated<br>
 
 **Urbanization**<br>
-_urban population_: 58.2% of total population (2022)<br>
+_urban population_: 58.6% of total population (2023)<br>
 _rate of urbanization_: 0.05% annual rate of change (2020-25 est.)<br>
 
 **Major urban areas - population**<br>
@@ -219,7 +219,7 @@ _female_: 36.1% (2020 est.)<br>
 NA<br>
 
 **Education expenditures**<br>
-3.9% of GDP (2017 est.)<br>
+5.5% of GDP (2020 est.)<br>
 
 **Literacy**<br>
 _definition_: age 15 and over can read and write<br>
@@ -230,12 +230,12 @@ _female_: 98.9% (2015)<br>
 **School life expectancy (primary to tertiary education)**<br>
 _total_: 15 years<br>
 _male_: 14 years<br>
-_female_: 16 years (2019)<br>
+_female_: 16 years (2020)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 21.1%<br>
-_male_: 18.7%<br>
-_female_: 25% (2020 est.)<br>
+_total_: 21.9%<br>
+_male_: 18.9%<br>
+_female_: 26.4% (2021 est.)<br>
 
 ## Environment
 
@@ -263,7 +263,7 @@ _forest_: 34.4% (2018 est.)<br>
 _other_: 41.9% (2018 est.)<br>
 
 **Urbanization**<br>
-_urban population_: 58.2% of total population (2022)<br>
+_urban population_: 58.6% of total population (2023)<br>
 _rate of urbanization_: 0.05% annual rate of change (2020-25 est.)<br>
 
 **Revenue from forest resources**<br>
@@ -365,7 +365,7 @@ _subordinate courts_: Administrative Court; county, municipal, and specialized c
 Bloc for Croatia or BLOK or BZH [Zlatko HASANBEGOVIC]<br>The Bridge or Most [Bozo PETROV] (formerly the Bridge of Independent Lists)<br>Center or Centar [Ivica PULJAK] (formerly Pametno and Party with a First and Last Name or SSIP) <br>Civic Liberal Alliance or GLAS [Ankar Mrak TARITAS]<br>Croatian Demochristian Party or HDS [Goran DODIG]<br>Croatian Democratic Alliance of Slavonia and Baranja or HDSSB [Branimir GLAVAS]<br>Croatian Democratic Union or HDZ [Andrej PLENKOVIC]<br>Croatian Democratic Union-led coalition (includes HSLS, HDS, HDSSB)<br>Croatian Party of Pensioners or HSU [Veselko GABRICEVIC]<br>Croatian Peasant Party or HSS [Kreso BELJAK]<br>Croatian People's Party - Liberal Democrats or HNS-LD [Stjepan CURAJ]<br>Croatian Social Liberal Party or HSLS [Dario HREBAK]<br>Croatian Sovereignists or HS [Marijan PAVLICEK]<br>Focus on the Important or Focus [Davor NADI]<br>Green-Left coalition [collective leadership] (includes MOZEMO!, NL)<br>Homeland Movement or DP [Ivan PENAVA] (also known as Miroslav Škoro Homeland Movement or DPMS)<br>Independent Democratic Serb Party or SDSS [Milorad PUPOVAC]<br>Istrian Democratic Assembly or IDS [Dalibor PAUS]<br>New Left or NL [Ivana KEKIN]<br>People's Party - Reformists or NS-R [Radimir CACIC]<br>Restart Coalition (includes SDP, HSS, HSU, GLAS, IDS, NS-R)<br>Social Democratic Party of Croatia or SDP [Peda GRBIN]<br>We Can! or Mozemo! [collective leadership]<br>Workers' Front or RF [collective leadership]<strong><br></strong><br>
 
 **International organization participation**<br>
-Australia Group, BIS, BSEC (observer), CD, CE, CEI, EAPC, EBRD, ECB, EMU, EU, FAO, G-11, IADB, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, MINURSO, NAM (observer), NATO, NSG, OAS (observer), OIF (observer), OPCW, OSCE, PCA, SELEC, UN, UNCTAD, UNESCO, UNFICYP, UNHCR, UNIDO, UNIFIL, UNMIL, UNMOGIP, UNWTO, UPU, Wassenaar Arrangement, WCO, WHO, WIPO, WMO, WTO, ZC<br>
+Australia Group, BIS, BSEC (observer), CD, CE, CEI, EAPC, EBRD, ECB, EMU, EU, FAO, G-11, IADB, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, MINURSO, NAM (observer), NATO, NSG, OAS (observer), OIF (observer), OPCW, OSCE, PCA, Schengen Convention, SELEC, UN, UNCTAD, UNESCO, UNFICYP, UNHCR, UNIDO, UNIFIL, UNMIL, UNMOGIP, UNWTO, UPU, Wassenaar Arrangement, WCO, WHO, WIPO, WMO, WTO, ZC<br>
 
 **Diplomatic representation in the US**<br>
 _chief of mission_: Ambassador Pjer SIMUNOVIC (since 8 September 2017)<br>
@@ -471,9 +471,9 @@ _services_: 70.8% (2017 est.)<br>
 9.86% (2018 est.)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 21.1%<br>
-_male_: 18.7%<br>
-_female_: 25% (2020 est.)<br>
+_total_: 21.9%<br>
+_male_: 18.9%<br>
+_female_: 26.4% (2021 est.)<br>
 
 **Population below poverty line**<br>
 18.3% (2018 est.)<br>
@@ -723,10 +723,10 @@ Croatia joined NATO in 2009<br>
 ## Transnational Issues
 
 **Disputes - international**<br>
-<p>dispute remains with Bosnia and Herzegovina over several small sections of the boundary related to maritime access that hinders ratification of the 1999 border agreement; since the breakup of Yugoslavia in the early 1990s, Croatia and Slovenia have each claimed sovereignty over Piranski Bay and four villages, and Slovenia has objected to Croatia's claim of an exclusive economic zone in the Adriatic Sea; in 2009, however Croatia and Slovenia signed a binding international arbitration agreement to define their disputed land and maritime borders, which led to Slovenia lifting its objections to Croatia joining the EU; Slovenia continues to impose a hard border Schengen regime with Croatia, which joined the EU in 2013 but has not yet fulfilled Schengen requirements</p><br>
+<p>dispute remains with Bosnia and Herzegovina over several small sections of the boundary related to maritime access that hinders ratification of the 1999 border agreement; since the breakup of Yugoslavia in the early 1990s, Croatia and Slovenia have each claimed sovereignty over Piranski Bay and four villages, and Slovenia has objected to Croatia's claim of an exclusive economic zone in the Adriatic Sea; in 2009, however Croatia and Slovenia signed a binding international arbitration agreement to define their disputed land and maritime borders, which led to Slovenia lifting its objections to Croatia joining the EU; Croatia joined the Schengen Zone on 1 January 2023</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 19,259 (Ukraine) (as of 29 November 2022)<br>
+_refugees (country of origin)_: 19,403 (Ukraine) (as of 6 December 2022)<br>
 _stateless persons_: 2,910 (mid-year 2021)<br>
 <strong>note: </strong>771,932 estimated refugee and migrant arrivals (January 2015-October 2022)<br>
 

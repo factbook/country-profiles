@@ -123,7 +123,7 @@ _female_: 39.5 years (2020 est.)<br>
 fairly even distribution; no notable trends<br>
 
 **Urbanization**<br>
-_urban population_: 31.1% of total population (2022)<br>
+_urban population_: 31.2% of total population (2023)<br>
 _rate of urbanization_: 0.68% annual rate of change (2020-25 est.)<br>
 <strong>note:</strong> data include Guernsey and Jersey<br>
 
@@ -205,7 +205,7 @@ _forest_: 0% (2018 est.)<br>
 _other_: 34% (2018 est.)<br>
 
 **Urbanization**<br>
-_urban population_: 31.1% of total population (2022)<br>
+_urban population_: 31.2% of total population (2023)<br>
 _rate of urbanization_: 0.68% annual rate of change (2020-25 est.)<br>
 <strong>note:</strong> data include Guernsey and Jersey<br>
 

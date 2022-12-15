@@ -132,7 +132,7 @@ _female_: 25.2 years (2020 est.)<br>
 most residents live in the mountainous western half of the country; unlike other Central American nations, Honduras is the only one with an urban population that is distributed between two large centers - the capital of Tegucigalpa and the city of San Pedro Sula; the Rio Ulua valley in the north is the only densely populated lowland area<br>
 
 **Urbanization**<br>
-_urban population_: 59.6% of total population (2022)<br>
+_urban population_: 60.2% of total population (2023)<br>
 _rate of urbanization_: 2.48% annual rate of change (2020-25 est.)<br>
 
 **Major urban areas - population**<br>
@@ -217,7 +217,7 @@ _other alcohols_: 0 liters of pure alcohol (2019 est.)<br>
 7.1% (2011/12)<br>
 
 **Education expenditures**<br>
-4.9% of GDP (2019 est.)<br>
+6.4% of GDP (2020 est.)<br>
 
 **Literacy**<br>
 _definition_: age 15 and over can read and write<br>
@@ -231,9 +231,9 @@ _male_: 10 years<br>
 _female_: 11 years (2019)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 17.8%<br>
-_male_: 11.1%<br>
-_female_: 27.7% (2020 est.)<br>
+_total_: 17.6%<br>
+_male_: 10.9%<br>
+_female_: 27.6% (2020 est.)<br>
 
 ## Environment
 
@@ -261,7 +261,7 @@ _forest_: 45.3% (2018 est.)<br>
 _other_: 25.9% (2018 est.)<br>
 
 **Urbanization**<br>
-_urban population_: 59.6% of total population (2022)<br>
+_urban population_: 60.2% of total population (2023)<br>
 _rate of urbanization_: 2.48% annual rate of change (2020-25 est.)<br>
 
 **Revenue from forest resources**<br>
@@ -463,9 +463,9 @@ _services_: 39.8% (2005 est.)<br>
 <strong>note:</strong> about one-third of the people are underemployed<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 17.8%<br>
-_male_: 11.1%<br>
-_female_: 27.7% (2020 est.)<br>
+_total_: 17.6%<br>
+_male_: 10.9%<br>
+_female_: 27.6% (2020 est.)<br>
 
 **Population below poverty line**<br>
 48.3% (2018 est.)<br>

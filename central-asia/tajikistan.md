@@ -133,7 +133,7 @@ _female_: 26 years (2020 est.)<br>
 the country's population is concentrated at lower elevations, with perhaps as much as 90% of the people living in valleys; overall density increases from east to west<br>
 
 **Urbanization**<br>
-_urban population_: 28% of total population (2022)<br>
+_urban population_: 28.2% of total population (2023)<br>
 _rate of urbanization_: 2.73% annual rate of change (2020-25 est.)<br>
 
 **Major urban areas - population**<br>
@@ -222,7 +222,7 @@ _women married by age 15_: 0.1%<br>
 _women married by age 18_: 8.7% (2017 est.)<br>
 
 **Education expenditures**<br>
-5.7% of GDP (2019 est.)<br>
+5.9% of GDP (2020 est.)<br>
 
 **Literacy**<br>
 _definition_: age 15 and over can read and write<br>
@@ -261,7 +261,7 @@ _forest_: 2.9% (2018 est.)<br>
 _other_: 62.4% (2018 est.)<br>
 
 **Urbanization**<br>
-_urban population_: 28% of total population (2022)<br>
+_urban population_: 28.2% of total population (2023)<br>
 _rate of urbanization_: 2.73% annual rate of change (2020-25 est.)<br>
 
 **Revenue from forest resources**<br>

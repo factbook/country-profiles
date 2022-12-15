@@ -134,7 +134,7 @@ _female_: 31.8 years (2020 est.)<br>
 major concentration on the island of Java, which is considered one of the most densely populated places on earth; of the outer islands (those surrounding Java and Bali), Sumatra contains some of the most significant clusters, particularly in the south near the Selat Sunda, and along the northeastern coast near Medan; the cities of Makasar (Sulawesi), Banjarmasin (Kalimantan) are also heavily populated<br>
 
 **Urbanization**<br>
-_urban population_: 57.9% of total population (2022)<br>
+_urban population_: 58.6% of total population (2023)<br>
 _rate of urbanization_: 1.99% annual rate of change (2020-25 est.)<br>
 
 **Major urban areas - population**<br>
@@ -204,7 +204,7 @@ _unimproved: total_: total: 7.5% of population (2020 est.)<br>
 _degree of risk_: very high (2020)<br>
 _food or waterborne diseases_: bacterial diarrhea, hepatitis A, and typhoid fever<br>
 _vectorborne diseases_: dengue fever and malaria<br>
-<strong>note:</strong> a new coronavirus is causing sustained community spread of respiratory illness (COVID-19) in Indonesia; as of 18 August 2022, Indonesia has reported a total of 6,301,523 cases of COVID-19 or 2,303.83 cumulative cases of COVID-19 per 100,000 population with a total of 157,317 cumulative deaths or a rate 57.51 cumulative deaths per 100,000 population; as of 9 August 2022, 74.09% of the population has received at least one dose of COVID-19 vaccine<br>
+<strong>note:</strong> a new coronavirus is causing sustained community spread of respiratory illness (COVID-19) in Indonesia; as of 9 December 2022, Indonesia has reported a total of 6,695,010 cases of COVID-19 or 2,447.69 cumulative cases of COVID-19 per 100,000 population with a total of 160,175 cumulative deaths or a rate 58.56 cumulative deaths per 100,000 population; as of 30 November 2022, 73.94% of the population has received at least one dose of COVID-19 vaccine<br>
 
 **Obesity - adult prevalence rate**<br>
 6.9% (2016)<br>
@@ -229,7 +229,7 @@ _women married by age 15_: 2%<br>
 _women married by age 18_: 16.3% (2017 est.)<br>
 
 **Education expenditures**<br>
-2.8% of GDP (2019 est.)<br>
+3.5% of GDP (2020 est.)<br>
 
 **Literacy**<br>
 _definition_: age 15 and over can read and write<br>
@@ -243,9 +243,9 @@ _male_: 14 years<br>
 _female_: 14 years (2018)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 14.8%<br>
-_male_: 15.1%<br>
-_female_: 14.3% (2020 est.)<br>
+_total_: 13.9%<br>
+_male_: 14.7%<br>
+_female_: 12.6% (2021 est.)<br>
 
 **People - note**<br>
 Indonesia is the fourth most populous nation in the World after China, India, and the United States; more than half of the Indonesian population - roughly 150 million people or 55% - live on the island of Java (about the size of California) making it the most crowded island on earth<br>
@@ -276,7 +276,7 @@ _forest_: 51.7% (2018 est.)<br>
 _other_: 17.1% (2018 est.)<br>
 
 **Urbanization**<br>
-_urban population_: 57.9% of total population (2022)<br>
+_urban population_: 58.6% of total population (2023)<br>
 _rate of urbanization_: 1.99% annual rate of change (2020-25 est.)<br>
 
 **Revenue from forest resources**<br>
@@ -289,7 +289,7 @@ _coal revenues_: 1.06% of GDP (2018 est.)<br>
 _degree of risk_: very high (2020)<br>
 _food or waterborne diseases_: bacterial diarrhea, hepatitis A, and typhoid fever<br>
 _vectorborne diseases_: dengue fever and malaria<br>
-<strong>note:</strong> a new coronavirus is causing sustained community spread of respiratory illness (COVID-19) in Indonesia; as of 18 August 2022, Indonesia has reported a total of 6,301,523 cases of COVID-19 or 2,303.83 cumulative cases of COVID-19 per 100,000 population with a total of 157,317 cumulative deaths or a rate 57.51 cumulative deaths per 100,000 population; as of 9 August 2022, 74.09% of the population has received at least one dose of COVID-19 vaccine<br>
+<strong>note:</strong> a new coronavirus is causing sustained community spread of respiratory illness (COVID-19) in Indonesia; as of 9 December 2022, Indonesia has reported a total of 6,695,010 cases of COVID-19 or 2,447.69 cumulative cases of COVID-19 per 100,000 population with a total of 160,175 cumulative deaths or a rate 58.56 cumulative deaths per 100,000 population; as of 30 November 2022, 73.94% of the population has received at least one dose of COVID-19 vaccine<br>
 
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 65.2 million tons (2016 est.)<br>
@@ -487,9 +487,9 @@ _services_: 47% (2016 est.)<br>
 5.4% (2017 est.)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 14.8%<br>
-_male_: 15.1%<br>
-_female_: 14.3% (2020 est.)<br>
+_total_: 13.9%<br>
+_male_: 14.7%<br>
+_female_: 12.6% (2021 est.)<br>
 
 **Population below poverty line**<br>
 9.4% (2019 est.)<br>

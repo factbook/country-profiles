@@ -125,7 +125,7 @@ _female_: 34.4 years (2020 est.)<br>
 the island of Antigua is home to approximately 97% of the population; nearly the entire population of Barbuda lives in Codrington<br>
 
 **Urbanization**<br>
-_urban population_: 24.3% of total population (2022)<br>
+_urban population_: 24.3% of total population (2023)<br>
 _rate of urbanization_: 0.87% annual rate of change (2020-25 est.)<br>
 
 **Major urban areas - population**<br>
@@ -194,7 +194,7 @@ _other alcohols_: 0.41 liters of pure alcohol (2019 est.)<br>
 NA<br>
 
 **Education expenditures**<br>
-3.3% of GDP (2020 est.)<br>
+3.8% of GDP (202 est.)<br>
 
 **Literacy**<br>
 _definition_: age 15 and over has completed five or more years of schooling<br>
@@ -233,7 +233,7 @@ _forest_: 18.8% (2018 est.)<br>
 _other_: 60.8% (2018 est.)<br>
 
 **Urbanization**<br>
-_urban population_: 24.3% of total population (2022)<br>
+_urban population_: 24.3% of total population (2023)<br>
 _rate of urbanization_: 0.87% annual rate of change (2020-25 est.)<br>
 
 **Revenue from forest resources**<br>

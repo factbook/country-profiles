@@ -133,7 +133,7 @@ _female_: 24.4 years (2020 est.)<br>
 most densely populated area is in and around the capital city of Vientiane; large communities are primarily found along the Mekong River along the southwestern border; overall density is considered one of the lowest in Southeast Asia<br>
 
 **Urbanization**<br>
-_urban population_: 37.6% of total population (2022)<br>
+_urban population_: 38.2% of total population (2023)<br>
 _rate of urbanization_: 2.99% annual rate of change (2020-25 est.)<br>
 
 **Major urban areas - population**<br>
@@ -224,7 +224,7 @@ _women married by age 18_: 32.7%<br>
 _men married by age 18_: 10.8% (2017 est.)<br>
 
 **Education expenditures**<br>
-2.9% of GDP (2014 est.)<br>
+2.3% of GDP (2020 est.)<br>
 
 **Literacy**<br>
 _definition_: age 15 and over can read and write<br>
@@ -238,9 +238,9 @@ _male_: 10 years<br>
 _female_: 10 years (2020)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 18.2%<br>
-_male_: 20.8%<br>
-_female_: 15.5% (2017 est.)<br>
+_total_: 5.9%<br>
+_male_: 6.5%<br>
+_female_: 5.4% (2017 est.)<br>
 
 ## Environment
 
@@ -268,7 +268,7 @@ _forest_: 67.9% (2018 est.)<br>
 _other_: 21.5% (2018 est.)<br>
 
 **Urbanization**<br>
-_urban population_: 37.6% of total population (2022)<br>
+_urban population_: 38.2% of total population (2023)<br>
 _rate of urbanization_: 2.99% annual rate of change (2020-25 est.)<br>
 
 **Revenue from forest resources**<br>
@@ -468,9 +468,9 @@ _services_: 20.6% (2012 est.)<br>
 0.7% (2016 est.)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 18.2%<br>
-_male_: 20.8%<br>
-_female_: 15.5% (2017 est.)<br>
+_total_: 5.9%<br>
+_male_: 6.5%<br>
+_female_: 5.4% (2017 est.)<br>
 
 **Population below poverty line**<br>
 18.3% (2018 est.)<br>
