@@ -121,7 +121,7 @@ _female_: 34.4 years (2020 est.)<br>
 eight of the thirty islands are inhabited; the island of Providenciales is the most populated, but the most densely populated is Grand Turk<br>
 
 **Urbanization**<br>
-_urban population_: 94% of total population (2022)<br>
+_urban population_: 94.2% of total population (2023)<br>
 _rate of urbanization_: 1.46% annual rate of change (2020-25 est.)<br>
 
 **Major urban areas - population**<br>
@@ -212,7 +212,7 @@ _forest_: 36.2% (2018 est.)<br>
 _other_: 62.7% (2018 est.)<br>
 
 **Urbanization**<br>
-_urban population_: 94% of total population (2022)<br>
+_urban population_: 94.2% of total population (2023)<br>
 _rate of urbanization_: 1.46% annual rate of change (2020-25 est.)<br>
 
 **Revenue from forest resources**<br>

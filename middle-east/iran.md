@@ -139,7 +139,7 @@ _urban population_: 77.3% of total population (2023)<br>
 _rate of urbanization_: 1.32% annual rate of change (2020-25 est.)<br>
 
 **Major urban areas - population**<br>
-9.382 million TEHRAN (capital), 3.318 million Mashhad, 2.219 million Esfahan, 1.699 million Shiraz, 1.644 million Tabriz, 1.587 million Karaj (2022)<br>
+9.500 million TEHRAN (capital), 3.368 million Mashhad, 2.258 million Esfahan, 1.721 million Shiraz, 1.661 million Tabriz, 1.594 million Karaj (2023)<br>
 
 **Sex ratio**<br>
 _at birth_: 1.05 male(s)/female<br>
@@ -732,8 +732,8 @@ _refugees (country of origin)_: 2.6 million undocumented Afghans, 780,000 Afghan
 _stateless persons_: 34 (mid-year 2021)<br>
 
 **Trafficking in persons**<br>
-_current situation_: Iran is a presumed source, transit, and destination country for men, women, and children subjected to sex trafficking and forced labor; Iranian and Afghan boys and girls are forced into prostitution domestically; Iranian women are subjected to sex trafficking in Iran, Pakistan, the Persian Gulf, and Europe; Azerbaijani women and children are also sexually exploited in Iran; Afghan migrants and refugees and Pakistani men and women are subjected to conditions of forced labor in Iran; NGO reports indicate that criminal organizations play a significant role in human trafficking in Iran<br>
 _tier rating_: Tier 3 &mdash; Iran does not fully meet the minimum standards for the elimination of trafficking and is not making significant efforts to do so; therefore, Iran remained in Tier 3; the government continued a policy of recruiting and using child soldiers, government officials perpetrated sex trafficking of adults and children and continued trafficking both in Iran and overseas; the government continued to force or coerce children and adults to fight for Iranian-led militias operating in Syria and provided financial support to militias fighting in armed conflicts in the region using child soldiers; authorities failed to identify and protect trafficking victims among vulnerable populations; law enforcement treated trafficking victims as criminals, facing severe punishment or death for unlawful acts traffickers compelled them to commit (2020)<br>
+_trafficking profile_: Iran is a presumed source, transit, and destination country for men, women, and children subjected to sex trafficking and forced labor; Iranian and Afghan boys and girls are forced into prostitution domestically; Iranian women are subjected to sex trafficking in Iran, Pakistan, the Persian Gulf, and Europe; Azerbaijani women and children are also sexually exploited in Iran; Afghan migrants and refugees and Pakistani men and women are subjected to conditions of forced labor in Iran; NGO reports indicate that criminal organizations play a significant role in human trafficking in Iran<br>
 
 **Illicit drugs**<br>
 <p>significant transit and destination country for opiates and cannabis products mainly from Afghanistan; produces and consumes methamphetamine and traffics it to  international markets; one of the primary transshipment routes for Southwest Asian heroin to Europe</p><br>

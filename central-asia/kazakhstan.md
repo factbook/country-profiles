@@ -140,7 +140,7 @@ _urban population_: 58.2% of total population (2023)<br>
 _rate of urbanization_: 1.19% annual rate of change (2020-25 est.)<br>
 
 **Major urban areas - population**<br>
-1.958 million Almaty, 1.254 million NUR-SULTAN (capital), 1.126 million Shimkent (2022)<br>
+1.987 million Almaty, 1.291 million NUR-SULTAN (capital), 1.155 million Shimkent (2023)<br>
 
 **Sex ratio**<br>
 _at birth_: 0.94 male(s)/female<br>

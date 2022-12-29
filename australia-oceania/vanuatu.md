@@ -125,7 +125,7 @@ _female_: 23.5 years (2020 est.)<br>
 three-quarters of the population lives in rural areas; the urban populace lives primarily in two cities, Port-Vila and Lugenville; three largest islands - Espiritu Santo, Malakula, and Efate - accomodate over half of the populace<br>
 
 **Urbanization**<br>
-_urban population_: 25.8% of total population (2022)<br>
+_urban population_: 26% of total population (2023)<br>
 _rate of urbanization_: 2.55% annual rate of change (2020-25 est.)<br>
 
 **Major urban areas - population**<br>
@@ -247,7 +247,7 @@ _forest_: 36.1% (2018 est.)<br>
 _other_: 48.6% (2018 est.)<br>
 
 **Urbanization**<br>
-_urban population_: 25.8% of total population (2022)<br>
+_urban population_: 26% of total population (2023)<br>
 _rate of urbanization_: 2.55% annual rate of change (2020-25 est.)<br>
 
 **Revenue from forest resources**<br>
@@ -575,7 +575,7 @@ _total subscriptions_: 265,219 (2019)<br>
 _subscriptions per 100 inhabitants_: 88.44 (2019)<br>
 
 **Telecommunication systems**<br>
-_general assessment_: for many years, GSM was the primary mobile technology for Vanuatu&rsquo;s 300,000 people; recent infrastructure projects have improved access technologies, with a transition to 3G and, to a limited degree, to LTE; Vanuatu has also benefited from the ICN1 submarine cable and the launch of the Kacific-1 satellite, both of which have considerably improved access to telecom services in recent years; Vanuatu&rsquo;s telecom sector is liberalized, with the two prominent mobile operators; while fixed broadband penetration remains low, the incumbent operator is slowly exchanging copper fixed-lines for fiber; a number of ongoing submarine cable developments will also assist in increasing data rates and reduce internet pricing in coming years (2021)<br>
+_general assessment_: for many years, 2G Global System for Mobile Communications was the primary mobile technology for Vanuatu&rsquo;s 300,000 people; recent infrastructure projects have improved access technologies, with a transition to 3G and, to a limited degree, to LTE; Vanuatu has also benefited from the ICN1 submarine cable and the launch of the Kacific-1 satellite, both of which have considerably improved access to telecom services in recent years; Vanuatu&rsquo;s telecom sector is liberalized, with the two prominent mobile operators; while fixed broadband penetration remains low, the incumbent operator is slowly exchanging copper fixed-lines for fiber; a number of ongoing submarine cable developments will also assist in increasing data rates and reduce internet pricing in coming years (2021)<br>
 _domestic_: fixed-line teledensity a bit over 1 per 100 and mobile-cellular just over 80 per 100 (2020)<br>
 _international_: country code - 678; landing points for the ICN1 &amp; ICN2 submarine cables providing connectivity to the Solomon Islands and Fiji; cables helped end-users with Internet bandwidth; satellite earth station - 1 Intelsat (Pacific Ocean) (2020)<br>
 <strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress toward 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>

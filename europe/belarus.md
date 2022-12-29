@@ -133,7 +133,7 @@ _urban population_: 80.7% of total population (2023)<br>
 _rate of urbanization_: 0.28% annual rate of change (2020-25 est.)<br>
 
 **Major urban areas - population**<br>
-2.049 million MINSK (capital) (2022)<br>
+2.057 million MINSK (capital) (2023)<br>
 
 **Sex ratio**<br>
 _at birth_: 1.06 male(s)/female<br>
@@ -714,12 +714,12 @@ Belarus has close security ties with Russia, including an integrated air and mis
 <p><em>Belarus-Latvia:</em> Boundary demarcated with Latvia.<br><br><em>Belarus-Lithuania:</em> Boundary demarcated with Lithuania.<br><br><em>Belarus-Poland:</em> As a member state that forms part of the EU's external border, Poland has implemented strict Schengen border rules to restrict illegal immigration and trade along its border with Belarus.</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 17,260 (Ukraine) (as of 6 December 2022)<br>
+_refugees (country of origin)_: 17,787 (Ukraine) (as of 13 December 2022)<br>
 _stateless persons_: 6,104 (mid-year 2021)<br>
 
 **Trafficking in persons**<br>
-_current situation_: human traffickers exploit domestic and foreign victims and exploit Belarusians abroad; the majority of trafficking victims are men subjected to forced labor; most Belarusian victims are trafficked in Belarus and Russia, but also in Poland, Turkey, and other Eurasian and Middle Eastern countries; the government continued to subject factory workers, civil servants, and students to state-sponsored forced labor harvesting crops on state-owned farms or cleaning streets<br>
-_tier rating_: Tier 3 &mdash; Belarus does not fully meet the minimum standards for the elimination of trafficking because of a government policy or pattern of government-sponsored forced labor in public works projects and the agricultural sector; however, authorities convicted traffickers under its trafficking statute for the first time in eight years, increased training for law enforcement officers, and confirmed significantly more victims; the government adopted a national action plan to protect minors from sexual violence and exploitation (2020)<br>
+_tier rating_: Tier 3 &mdash; Belarus does not fully meet the minimum standards for the elimination of trafficking and is not making significant efforts to do so; therefore Belarus was downgraded to Tier 3; despite the lack of significant efforts, the government took some steps to address trafficking, including conducting trafficking-related investigations and prosecutions and identifying and referring to services more trafficking victims; however, the government did not report investigating, prosecuting, or convicting any traffickers under its trafficking statute and did not provide adequate protection services to trafficking victims nor conduct awareness activities; authorities reportedly returned many third-country migrants and asylum seekers to their countries of origin without screening them for trafficking (2022)<br>
+_trafficking profile_: human traffickers exploit domestic and foreign victims and exploit Belarusians abroad; the majority of trafficking victims are men subjected to forced labor, primarily in Russia; most Belarusian victims are exploited in Belarus and Russia, but also in Poland, Turkey, and other European, Eurasian and Middle Eastern countries; some Belarusian women seeking foreign employment in the adult entertainment and hotel industries are subjected to sex trafficking; the government has identified Belarusian, Moldovan, Russian, Ukrainian, and Vietnamese victims exploited in Belarus; the majority of traffickers are Belarusian citizens, and they increasingly use online methods to coerce victims into forced labor and sex trafficking (2022)<br>
 
 **Illicit drugs**<br>
 limited cultivation of opium poppy and cannabis, mostly for the domestic market; transshipment point for illicit drugs to and via Russia, and to the Baltics and Western Europe; a small and lightly regulated financial center; anti-money-laundering legislation does not meet international standards and was weakened further when know-your-customer requirements were curtailed in 2008; few investigations or prosecutions of money-laundering activities<br>

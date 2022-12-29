@@ -138,11 +138,11 @@ _female_: 17 years (2020 est.)<br>
 one of the highest levels of urbanization in Africa; high density in the central area, particularly around the cities of Lusaka, Ndola, Kitwe, and Mufulira as shown in this population distribution map<br>
 
 **Urbanization**<br>
-_urban population_: 45.8% of total population (2022)<br>
+_urban population_: 46.3% of total population (2023)<br>
 _rate of urbanization_: 4.15% annual rate of change (2020-25 est.)<br>
 
 **Major urban areas - population**<br>
-3.042 million LUSAKA (capital) (2022)<br>
+3.181 million LUSAKA (capital), 763,000 Kitwe (2023)<br>
 
 **Sex ratio**<br>
 _at birth_: 1.03 male(s)/female<br>
@@ -274,7 +274,7 @@ _forest_: 66.3% (2018 est.)<br>
 _other_: 2% (2018 est.)<br>
 
 **Urbanization**<br>
-_urban population_: 45.8% of total population (2022)<br>
+_urban population_: 46.3% of total population (2023)<br>
 _rate of urbanization_: 4.15% annual rate of change (2020-25 est.)<br>
 
 **Revenue from forest resources**<br>
@@ -740,8 +740,8 @@ the Zambian Defense Force (ZDF) traces its roots to the Northern Rhodesia Regime
 _refugees (country of origin)_: 60,236 (Democratic Republic of the Congo) (refugees and asylum seekers), 6,948 (Burundi) (2022)<br>
 
 **Trafficking in persons**<br>
-_current situation_: human traffickers exploit domestic and foreign victims in Zambia and Zambians abroad; most trafficking occurs within Zambia&rsquo;s borders, with traffickers exploiting women and children from rural areas in cities in domestic servitude or forced labor in agriculture, textile production, mining, construction, small businesses, such as bakeries, and forced begging; Jerabo gangs force Zambian children into illegal mining operations, such as loading stolen copper or crushing rocks; truck drivers exploit Zambian boys and girls in sex trafficking in towns along the Zimbabwean and Tanzanian borders, and miners exploit them in Solwezi; Zambian boys are exploited for sex trafficking in Zimbabwe and women and girls in South Africa; traffickers exploit victims from Tanzania and Malawi in the Zambian timber industry<br>
 _tier rating_: Tier 2 Watch List —<strong> </strong>Zambia does not fully meet the minimum standards for the elimination of trafficking but is making efforts to do so; efforts included increasing law enforcement training, establishing two fast-track human trafficking courts, conducting awareness campaigns about human trafficking, slightly increasing prosecutions and convictions, and strengthening prison sentences given to traffickers; however; investigations of trafficking crimes and funding to shelters and other victim assistance programs decreased; authorities did not proactively screen for trafficking among vulnerable populations, including foreign nationals and those involved in commercial sex; authorities detained and deported potential trafficking victims involved in smuggling; the national inter-ministerial committee is weak in overseeing national anti-trafficking efforts and trends (2020)<br>
+_trafficking profile_: human traffickers exploit domestic and foreign victims in Zambia and Zambians abroad; most trafficking occurs within Zambia&rsquo;s borders, with traffickers exploiting women and children from rural areas in cities in domestic servitude or forced labor in agriculture, textile production, mining, construction, small businesses, such as bakeries, and forced begging; Jerabo gangs force Zambian children into illegal mining operations, such as loading stolen copper or crushing rocks; truck drivers exploit Zambian boys and girls in sex trafficking in towns along the Zimbabwean and Tanzanian borders, and miners exploit them in Solwezi; Zambian boys are exploited for sex trafficking in Zimbabwe and women and girls in South Africa; traffickers exploit victims from Tanzania and Malawi in the Zambian timber industry<br>
 
 **Illicit drugs**<br>
 transshipment point for moderate amounts of methaqualone, small amounts of heroin, and cocaine bound for southern Africa and possibly Europe; a poorly developed financial infrastructure coupled with a government commitment to combating money laundering make it an unattractive venue for money launderers; major consumer of cannabis<br>

@@ -133,12 +133,12 @@ _female_: 45 years (2020 est.)<br>
 a fairly even distribution throughout most of the country, with urban areas attracting larger and denser populations<br>
 
 **Urbanization**<br>
-_urban population_: 56.9% of total population (2022)<br>
+_urban population_: 57.1% of total population (2023)<br>
 _rate of urbanization_: 0.04% annual rate of change (2020-25 est.)<br>
 <strong>note:</strong> data include Kosovo<br>
 
 **Major urban areas - population**<br>
-1.405 million BELGRADE (capital) (2022)<br>
+1.408 million BELGRADE (capital) (2023)<br>
 
 **Sex ratio**<br>
 _at birth_: 1.06 male(s)/female<br>
@@ -271,7 +271,7 @@ _forest_: 31.6% (2018 est.)<br>
 _other_: 10.5% (2018 est.)<br>
 
 **Urbanization**<br>
-_urban population_: 56.9% of total population (2022)<br>
+_urban population_: 57.1% of total population (2023)<br>
 _rate of urbanization_: 0.04% annual rate of change (2020-25 est.)<br>
 <strong>note:</strong> data include Kosovo<br>
 
@@ -376,6 +376,7 @@ Albanian Democratic Alternative (coalition of ethnic Albanian parties) [Shaip KA
 
 **International organization participation**<br>
 BIS, BSEC, CD, CE, CEI, EAPC, EBRD, EU (candidate country), FAO, G-9, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, MONUSCO, NAM (observer), NSG, OAS (observer), OIF (observer), OPCW, OSCE, PCA, PFP, SELEC, UN, UNCTAD, UNESCO, UNFICYP, UNHCR, UNIDO, UNIFIL, UNMIL, UNOCI, UNTSO, UNWTO, UPU, WCO, WHO, WIPO, WMO, WTO (observer)<br>
+<strong>note</strong>: Serbia is an EU candidate country whose satisfactory completion of accession criteria is required before being granted full EU membership<br>
 
 **Diplomatic representation in the US**<br>
 _chief of mission_: Ambassador Marko DJURIC (since 18 January 2021)<br>

@@ -128,11 +128,11 @@ _female_: 28.2 years (2020 est.)<br>
 most of the population is clustered in or around the capital of Doha on the eastern side of the peninsula<br>
 
 **Urbanization**<br>
-_urban population_: 99.3% of total population (2022)<br>
+_urban population_: 99.4% of total population (2023)<br>
 _rate of urbanization_: 1.66% annual rate of change (2020-25 est.)<br>
 
 **Major urban areas - population**<br>
-Ar-Rayyan 779,000, 652,000 DOHA (capital) (2022)<br>
+798,000 Ar-Rayyan, 658,000 DOHA (capital) (2023)<br>
 
 **Sex ratio**<br>
 _at birth_: 1.02 male(s)/female<br>
@@ -253,7 +253,7 @@ _forest_: 0% (2018 est.)<br>
 _other_: 94.4% (2018 est.)<br>
 
 **Urbanization**<br>
-_urban population_: 99.3% of total population (2022)<br>
+_urban population_: 99.4% of total population (2023)<br>
 _rate of urbanization_: 1.66% annual rate of change (2020-25 est.)<br>
 
 **Revenue from forest resources**<br>

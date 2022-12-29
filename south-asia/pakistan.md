@@ -140,7 +140,7 @@ _urban population_: 38% of total population (2023)<br>
 _rate of urbanization_: 2.1% annual rate of change (2020-25 est.)<br>
 
 **Major urban areas - population**<br>
-16.840 million Karachi, 13.542 million Lahore, 3.625 million Faisalabad, 2.353 million Gujranwala, 2.343 million Peshawar, 1.198 million ISLAMABAD (capital) (2022)<br>
+17.236 million Karachi, 13.979 million Lahore, 3.711 million Faisalabad, 2.415 million Gujranwala, 2.412 million Peshawar, 1.232 million ISLAMABAD (capital) (2023)<br>
 
 **Sex ratio**<br>
 _at birth_: 1.05 male(s)/female<br>

@@ -146,7 +146,7 @@ _urban population_: 43.1% of total population (2023)<br>
 _rate of urbanization_: 1.9% annual rate of change (2020-25 est.)<br>
 
 **Major urban areas - population**<br>
-21.750 million CAIRO (capital), 5.484 million Alexandria, 764,000 Bur Sa'id (2022)<br>
+22.183 million CAIRO (capital), 5.588 million Alexandria, 778,000 Bur Sa'id (2023)<br>
 
 **Sex ratio**<br>
 _at birth_: 1.06 male(s)/female<br>

@@ -133,7 +133,7 @@ _urban population_: 98.2% of total population (2023)<br>
 _rate of urbanization_: 0.38% annual rate of change (2020-25 est.)<br>
 
 **Major urban areas - population**<br>
-2.110 million BRUSSELS (capital), 1.053 million Antwerp (2022)<br>
+2.122 million BRUSSELS (capital), 1.057 million Antwerp (2023)<br>
 
 **Sex ratio**<br>
 _at birth_: 1.05 male(s)/female<br>
@@ -716,7 +716,7 @@ Islamic Revolutionary Guard Corps/Qods Force; Islamic State of Iraq and ash-Sham
 <p>none identified</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 18,493 (Syria), 5,094 (Iraq) (2020); 62,181 (Ukraine) (as of 29 November 2022)<br>
+_refugees (country of origin)_: 18,493 (Syria), 5,094 (Iraq) (2020); 64,436 (Ukraine) (as of 13 December 2022)<br>
 _stateless persons_: 1,159 (mid-year 2021)<br>
 
 **Illicit drugs**<br>

@@ -139,7 +139,7 @@ _urban population_: 59.2% of total population (2023)<br>
 _rate of urbanization_: 3.06% annual rate of change (2020-25 est.)<br>
 
 **Major urban areas - population**<br>
-3.630 million Kumasi, 2.605 million ACCRA (capital), 1.035 million Sekondi Takoradi (2022)<br>
+3.768 million Kumasi, 2.660 million ACCRA (capital), 1.078 million Sekondi Takoradi (2023)<br>
 
 **Sex ratio**<br>
 _at birth_: 1.03 male(s)/female<br>

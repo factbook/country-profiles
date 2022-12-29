@@ -89,7 +89,7 @@ _noun_: Swiss (singular and plural)<br>
 _adjective_: Swiss<br>
 
 **Ethnic groups**<br>
-Swiss 69.2%, German 4.2%, Italian 3.2%, Portuguese 2.5%, French 2.1%, Kosovo 1.1%, Turkish 1%, other 16.7% (2020 est.)<br>
+Swiss 69.2%, German 4.2%, Italian 3.2%, Portuguese 2.5%, French 2.1%, Kosovan 1.1%, Turkish 1%, other 16.7% (2020 est.)<br>
 <strong>note:</strong> data represent permanent and non-permanent resident population by country of birth<br>
 
 **Languages**<br>
@@ -133,11 +133,11 @@ _female_: 43.7 years (2020 est.)<br>
 population distribution corresponds to elevation with the northern and western areas far more heavily populated; the higher Alps of the south limit settlement<br>
 
 **Urbanization**<br>
-_urban population_: 74.1% of total population (2022)<br>
+_urban population_: 74.2% of total population (2023)<br>
 _rate of urbanization_: 0.79% annual rate of change (2020-25 est.)<br>
 
 **Major urban areas - population**<br>
-1.420 million Zurich, 437,000 BERN (capital) (2022)<br>
+1.432 million Zurich, 441,000 BERN (capital) (2023)<br>
 
 **Sex ratio**<br>
 _at birth_: 1.06 male(s)/female<br>
@@ -260,7 +260,7 @@ _forest_: 31.5% (2018 est.)<br>
 _other_: 29.8% (2018 est.)<br>
 
 **Urbanization**<br>
-_urban population_: 74.1% of total population (2022)<br>
+_urban population_: 74.2% of total population (2023)<br>
 _rate of urbanization_: 0.79% annual rate of change (2020-25 est.)<br>
 
 **Revenue from forest resources**<br>
@@ -271,7 +271,7 @@ _coal revenues_: 0% of GDP (2018 est.)<br>
 
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 6.056 million tons (2016 est.)<br>
-_municipal solid waste recycled annually_: 1,937,920 tons (2015 est.)<br>
+_municipal solid waste recycled annually_: 1.938 million tons (2015 est.)<br>
 _percent of municipal solid waste recycled_: 32% (2015 est.)<br>
 
 **Major lakes (area sq km)**<br>
@@ -309,7 +309,7 @@ _name_: Bern<br>
 _geographic coordinates_: 46 55 N, 7 28 E<br>
 _time difference_: UTC+1 (6 hours ahead of Washington, DC, during Standard Time)<br>
 _daylight saving time_: +1hr, begins last Sunday in March; ends last Sunday in October<br>
-_etymology_: origin of the name is uncertain, but may derive from a 2nd century B.C. Celtic place name, possibly "berna" meaning "cleft," that was subsequently adopted by a Roman settlement<br>
+_etymology_: origin of the name is uncertain but may derive from a 2nd century B.C. Celtic place name, possibly "berna" meaning "cleft," that was subsequently adopted by a Roman settlement<br>
 
 **Administrative divisions**<br>
 26 cantons (cantons, singular - canton in French; cantoni, singular - cantone in Italian; Kantone, singular - Kanton in German); Aargau, Appenzell Ausserrhoden, Appenzell Innerrhoden, Basel-Landschaft, Basel-Stadt, Berne/Bern, Fribourg/Freiburg, Geneve (Geneva), Glarus, Graubuenden/Grigioni/Grischun, Jura, Luzern (Lucerne), Neuchatel, Nidwalden, Obwalden, Sankt Gallen, Schaffhausen, Schwyz, Solothurn, Thurgau, Ticino, Uri, Valais/Wallis, Vaud, Zug, Zuerich<br>
@@ -348,9 +348,9 @@ _elections/appointments_: president and vice president elected by the Federal As
 _election results_: <em>2021:</em> Ignazio CASSIS elected president for 2022; Federal Assembly vote - Ignazio CASSIS (FDP.The Liberals) 156 of 197 votes; Alain BERSET (SP) elected vice president; Federal Assembly vote - 158 of 204<br><br><em>2020:</em> Guy PARMELIN elected president for 2021; Federal Assembly vote - Guy PARMELIN (SVP) 188 of 202 votes; Ignazio CASSIS (FDP.The Liberals) elected vice president; Federal Assembly vote - 162 of 191<br>
 
 **Legislative branch**<br>
-_description_: description: bicameral Federal Assembly or Bundesversammlung (in German), Assemblée Fédérale (in French), Assemblea Federale (in Italian) consists of:<br>Council of States or Ständerat (in German), Conseil des États (in French), Consiglio degli Stati (in Italian) (46 seats; members in multi-seat constituencies representing cantons and single-seat constituencies representing half cantons directly elected by simple majority vote except Jura and Neuchatel cantons which use list proportional representation vote; member term governed by cantonal law)<br>National Council or Nationalrat (in German), Conseil National (in French), Consiglio Nazionale (in Italian) (200 seats; 195 members in cantons directly elected by proportional representation vote and 6 in half cantons directly elected by simple majority vote; members serve 4-year terms)<br>
+_description_: bicameral Federal Assembly or Bundesversammlung (in German), Assemblée Fédérale (in French), Assemblea Federale (in Italian) consists of:<br>Council of States or Ständerat (in German), Conseil des États (in French), Consiglio degli Stati (in Italian) (46 seats; members in two-seat constituencies representing cantons and single-seat constituencies representing half cantons directly elected by simple majority vote except Jura and Neuchatel cantons, which use list proportional representation vote; member term governed by cantonal law)<br>National Council or Nationalrat (in German), Conseil National (in French), Consiglio Nazionale (in Italian) (200 seats; 194 members in cantons directly elected by proportional representation vote and 6 in half cantons directly elected by simple majority vote; members serve 4-year terms)<br>
 _elections_: <br>Council of States - last held in most cantons on 20 October 2019 (each canton determines when the next election will be held)<br>National Council - last held on 20 October 2019 (next to be held on 31 October 2023)<br>
-_election results_: <br>Council of States - percent of vote by party - NA; seats by party - The Center 13, FDP.The Liberals 12, SDP 9, Green Party 5, SVP 6, other 1; composition (as of mid-2022) - men 33, women 13, percent of women 28.3% <br>National Council - percent of vote by party - SDP 26.5%, SP 19.5%, FDP.The Liberals 15.1%, Green Party 14%, The Center 14%, GLP 7.8%, other 3.5%; seats by party - SVP 53, SP 39, FDP.The Liberals 29, Green Party 28, The Center 28, GLP 16, other 7; composition (as of mid-2022) - men 115, women 85, percent of women 42.5%; note - overall Federal Assembly percent of women 39.8%<br>
+_election results_: <br>Council of States - percent of vote by party - NA; seats by party - The Center 13, FDP.The Liberals 12, SDP 9, Green Party 5, SVP 6, other 1; composition (as of mid-2022) - men 33, women 13, percent of women 28.3% <br>National Council - percent of vote by party - SVP 26.5%, SP 19.5%, FDP.The Liberals 15.1%, Green Party 14%, The Center 14%, GLP 7.8%, other 3.5%; seats by party - SVP 53, SP 39, FDP.The Liberals 29, Green Party 28, The Center 28, GLP 16, other 7; composition (as of mid-2022) - men 115, women 85, percent of women 42.5%; note - overall Federal Assembly percent of women 39.8%<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Federal Supreme Court (consists of 38 justices and 19 deputy justices organized into 7 divisions)<br>
@@ -368,7 +368,7 @@ _chief of mission_: Ambassador Jacques Henri PITTELOUD (since 16 September 2019)
 _chancery_: 2201 Wisconsin Avenue NW, Suite 300, Washington, DC 20007-4105<br>
 _telephone_: [1] (202) 745-7900<br>
 _FAX_: [1] (202) 387-2564<br>
-_email address and website_: <br>washington@eda.admin.ch<br><br>https://www.eda.admin.ch/washington<br>
+_email address and website_: <br>washington@eda.admin.ch<br>https://www.eda.admin.ch/washington<br>
 _consulate(s) general_: Atlanta, Chicago, New York, San Francisco<br>
 _consulate(s)_: Boston<br>
 
@@ -382,7 +382,7 @@ _email address and website_: <br>https://ch.usembassy.gov/<br>
 
 **Flag description**<br>
 red square with a bold, equilateral white cross in the center that does not extend to the edges of the flag; various medieval legends purport to describe the origin of the flag; a white cross used as identification for troops of the Swiss Confederation is first attested at the Battle of Laupen (1339)<br>
-<strong>note:</strong> in 1863, a newly formed international relief organization convening in Geneva, Switzerland sought to come up with an identifying flag or logo, they chose the inverse of the Swiss flag - a red cross on a white field - as their symbol; today that organization is known throughout the world as the International Red Cross<br>
+<strong>note:</strong> in 1863, a newly formed international relief organization convening in Geneva, Switzerland sought to come up with an identifying flag or logo: they chose the inverse of the Swiss flag - a red cross on a white field - as their symbol; today that organization is known throughout the world as the International Red Cross<br>
 
 **National symbol(s)**<br>
 Swiss cross (white cross on red field, arms equal length); national colors: red, white<br>
@@ -399,7 +399,7 @@ _selected World Heritage Site locales_: Old City of Berne (c); Swiss Alps Jungfr
 ## Economy
 
 **Economic overview**<br>
-<p>Switzerland, a country that espouses neutrality, is a prosperous and modern market economy with low unemployment, a highly skilled labor force, and a per capita GDP among the highest in the world. Switzerland's economy benefits from a highly developed service sector, led by financial services, and a manufacturing industry that specializes in high-technology, knowledge-based production. Its economic and political stability, transparent legal system, exceptional infrastructure, efficient capital markets, and low corporate tax rates also make Switzerland one of the world's most competitive economies.</p> <p> </p> <p>The Swiss have brought their economic practices largely into conformity with the EU's to gain access to the Union’s Single Market and enhance the country’s international competitiveness. Some trade protectionism remains, however, particularly for its small agricultural sector. The fate of the Swiss economy is tightly linked to that of its neighbors in the euro zone, which purchases half of Swiss exports. The global financial crisis of 2008 and resulting economic downturn in 2009 stalled demand for Swiss exports and put Switzerland into a recession. During this period, the Swiss National Bank (SNB) implemented a zero-interest rate policy to boost the economy, as well as to prevent appreciation of the franc, and Switzerland's economy began to recover in 2010.</p> <p> </p> <p>The sovereign debt crises unfolding in neighboring euro-zone countries, however, coupled with economic instability in Russia and other Eastern European economies drove up demand for the Swiss franc by investors seeking a safehaven currency. In January 2015, the SNB abandoned the Swiss franc’s peg to the euro, roiling global currency markets and making active SNB intervention a necessary hallmark of present-day Swiss monetary policy. The independent SNB has upheld its zero interest rate policy and conducted major market interventions to prevent further appreciation of the Swiss franc, but parliamentarians have urged it to do more to weaken the currency. The franc's strength has made Swiss exports less competitive and weakened the country's growth outlook; GDP growth fell below 2% per year from 2011 through 2017.</p> <p> </p> <p>In recent years, Switzerland has responded to increasing pressure from neighboring countries and trading partners to reform its banking secrecy laws, by agreeing to conform to OECD regulations on administrative assistance in tax matters, including tax evasion. The Swiss Government has also renegotiated its double taxation agreements with numerous countries, including the US, to incorporate OECD standards.</p><br>
+<p>Switzerland, a country that espouses neutrality, is a prosperous and modern market economy with low unemployment, a highly skilled labor force, and a per capita GDP among the highest in the world. Switzerland's economy benefits from a highly developed service sector, led by financial services, and a manufacturing industry that specializes in high-technology, knowledge-based production. Its economic and political stability, transparent legal system, exceptional infrastructure, efficient capital markets, and low corporate tax rates also make Switzerland one of the world's most competitive economies.</p> <p>The Swiss have brought their economic practices largely into conformity with the EU's to gain access to the Union’s Single Market and enhance the country’s international competitiveness. Some trade protectionism remains, however, particularly for its small agricultural sector. The fate of the Swiss economy is tightly linked to that of its neighbors in the euro zone, which purchases half of Swiss exports. The global financial crisis of 2008 and resulting economic downturn in 2009 stalled demand for Swiss exports and put Switzerland into a recession. During this period, the Swiss National Bank (SNB) implemented a zero-interest rate policy to boost the economy, as well as to prevent appreciation of the franc, and Switzerland's economy began to recover in 2010.</p> <p>The sovereign debt crises unfolding in neighboring euro-zone countries, however, coupled with economic instability in Russia and other Eastern European economies drove up demand for the Swiss franc by investors seeking a safe haven currency. In January 2015, the SNB abandoned the Swiss franc’s peg to the euro, roiling global currency markets and making active SNB intervention a necessary hallmark of present-day Swiss monetary policy. The independent SNB has upheld its zero-interest rate policy and conducted major market interventions to prevent further appreciation of the Swiss franc, but parliamentarians have urged it to do more to weaken the currency. The franc's strength has made Swiss exports less competitive and weakened the country's growth outlook; GDP growth fell below 2% per year from 2011 through 2017.</p> <p>In recent years, Switzerland has responded to increasing pressure from neighboring countries and trading partners to reform its banking secrecy laws, by agreeing to conform to OECD regulations on administrative assistance in tax matters, including tax evasion. The Swiss Government has also renegotiated its double taxation agreements with numerous countries, including the US, to incorporate OECD standards.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
 $590.71 billion (2020 est.)<br>
@@ -493,7 +493,7 @@ _expenditures_: 234.4 billion (2017 est.)<br>
 **Public debt**<br>
 41.8% of GDP (2017 est.)<br>
 41.8% of GDP (2016 est.)<br>
-<strong>note:</strong> general government gross debt; gross debt consists of all liabilities that require payment or payments of interest and/or principal by the debtor to the creditor at a date or dates in the future; includes debt liabilities in the form of Special Drawing Rights (SDRs), currency and deposits, debt securities, loans, insurance, pensions and standardized guarantee schemes, and other accounts payable; all liabilities in the GFSM (Government Financial Systems Manual) 2001 system are debt, except for equity and investment fund shares and financial derivatives and employee stock options<br>
+<strong>note:</strong> general government gross debt; gross debt consists of all liabilities that require payment or payments of interest and/or principal by the debtor to the creditor at a date or dates in the future; includes debt liabilities in the form of Special Drawing Rights, currency and deposits, debt securities, loans, insurance, pensions and standardized guarantee schemes, and other accounts payable; all liabilities in the Government Financial Systems Manual 2001 system are debt, except for equity and investment fund shares and financial derivatives and employee stock options<br>
 
 **Taxes and other revenues**<br>
 35.7% (of GDP) (2017 est.)<br>
@@ -506,9 +506,9 @@ $79.937 billion (2019 est.)<br>
 $63.273 billion (2018 est.)<br>
 
 **Exports**<br>
-$470.91 billion (2020 est.) note: data are in current year dollars<br>
-$478.34 billion (2019 est.) note: data are in current year dollars<br>
-$482.58 billion (2018 est.) note: data are in current year dollars<br>
+$470.91 billion (2020 est.) ; note - data are in current year dollars<br>
+$478.34 billion (2019 est.) ; note - data are in current year dollars<br>
+$482.58 billion (2018 est.) ; note - data are in current year dollars<br>
 <strong>note:</strong> trade data exclude trade with Switzerland<br>
 
 **Exports - partners**<br>
@@ -518,12 +518,12 @@ Germany 16%, United States 14%, United Kingdom 8%, China 7%, France 6%, India 6%
 gold, packaged medicines, medical cultures/vaccines, watches, jewelry (2019)<br>
 
 **Imports**<br>
-$401.91 billion (2020 est.) note: data are in current year dollars<br>
-$394 billion (2019 est.) note: data are in current year dollars<br>
-$395.86 billion (2018 est.) note: data are in current year dollars<br>
+$401.91 billion (2020 est.) ; note - data are in current year dollars<br>
+$394 billion (2019 est.) ; note - data are in current year dollars<br>
+$395.86 billion (2018 est.) ; note - data are in current year dollars<br>
 
 **Imports - partners**<br>
-Germany 21%, Italy 8%, United States 6%, France 6%, United Kingdom 5%, United Arab Emirates 5% (2019)<br>
+Germany 21%, Italy 8%, France 6%, United States 6%, United Kingdom 5%, United Arab Emirates 5% (2019)<br>
 
 **Imports - commodities**<br>
 gold, packaged medicines, jewelry, cars, medical cultures/vaccines (2019)<br>
@@ -533,8 +533,8 @@ $811.2 billion (31 December 2017 est.)<br>
 $679.3 billion (31 December 2016 est.)<br>
 
 **Debt - external**<br>
-$1,909,446,000,000 (2019 est.)<br>
-$1,930,819,000,000 (2018 est.)<br>
+$1.909 trillion (2019 est.)<br>
+$1.931 trillion (2018 est.)<br>
 
 **Exchange rates**<br>
 _Currency_: Swiss francs (CHF) per US dollar -<br>
@@ -551,7 +551,7 @@ _electrification - total population_: 100% (2020)<br>
 
 **Electricity**<br>
 _installed generating capacity_: 22.921 million kW (2020 est.)<br>
-_consumption_: 56,406,647,000 kWh (2020 est.)<br>
+_consumption_: 56.407 billion kWh (2020 est.)<br>
 _exports_: 32.549 billion kWh (2020 est.)<br>
 _imports_: 26.988 billion kWh (2020 est.)<br>
 _transmission/distribution losses_: 4.19 billion kWh (2020 est.)<br>
@@ -617,7 +617,7 @@ _subscriptions per 100 inhabitants_: 126.05 (2019)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: Switzerland has one of the highest broadband penetration rates within Europe, with a focus on services of at least 1Gb/s; this has been supported by sympathetic regulatory measures as well as by cooperative agreements between the main telcos, and with local utilities; fast fiber is complemented by 5G services reaching about 97% of the population by early 2021; together, these networks will soon enable the telcos to provide ultra-fast broadband services nationally, ahead of most other countries in the region; the competitive mobile market is served by three network operators and a small number of MVNOs; 5G services offered by the MNOs offer data rates of up to 2Gb/s, and although various cantons have called a halt to extensions of 5G, citing health concerns, the regulator and environment ministry have put in place measures aimed at ensuring that network roll outs can continue without disruption; with the migration of subscribers to LTE and 5G networks, the MNOs have been able to begin closing down their GSM networks and repurpose physical assets and spectrum; although not a member of the EU, the country&rsquo;s economic integration has meant that its telecom market deregulation has followed the EU&rsquo;s liberalization framework, including the recent regulations on international voice roaming; this report presents an analysis of Switzerland&rsquo;s fixed-line telecom market, including an assessment of network infrastructure (2021)<br>
-_domestic_: fixed-line over 34 per 100 and mobile-cellular subscribership roughly 126 per 100 persons; extensive cable and microwave radio relay networks (2020)<br>
+_domestic_: fixed-line over 34 per 100 and mobile-cellular subscribership roughly 126 per 100 persons: extensive cable and microwave radio relay networks (2020)<br>
 _international_: country code - 41; satellite earth stations - 2 Intelsat (Atlantic Ocean and Indian Ocean)<br>
 <strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress toward 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>
 
@@ -712,7 +712,7 @@ the military's inventory includes a mix of domestically-produced and imported we
 up to 165 Kosovo (NATO/KFOR) (2022)<br>
 
 **Military - note**<br>
-<p>Switzerland has long maintained a policy of military neutrality, but does periodically participate in EU, NATO, Organization for Security and Cooperation in Europe (OSCE), and UN military operations; Swiss law excludes participation in combat operations for peace enforcement, and Swiss units will only participate in operations under the mandate of the UN or OSCE; Switzerland joined NATO’s Partnership for Peace program in 1996; it contributed to the NATO-led Kosovo peace-support force (KFOR) in 1999 and as of 2022, continued doing so with up to 165 personnel; Switzerland also provided a small number of staff officers to the NATO mission in Afghanistan from 2004-2007</p><br>
+<p>Switzerland has long maintained a policy of military neutrality but does periodically participate in EU, NATO, Organization for Security and Cooperation in Europe (OSCE), and UN military operations; Swiss law excludes participation in combat operations for peace enforcement, and Swiss units will only participate in operations under the mandate of the UN or OSCE; Switzerland joined NATO’s Partnership for Peace program in 1996; it contributed to the NATO-led Kosovo peace-support force (KFOR) in 1999 and as of 2022, continued doing so with up to 165 personnel; Switzerland also provided a small number of staff officers to the NATO mission in Afghanistan from 2004-2007</p><br>
 
 ## Terrorism
 
@@ -726,7 +726,7 @@ Islamic State of Iraq and ash-Sham (ISIS)<br>
 <p>none identified</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 38,219 (Eritrea), 20,043 (Syria), 14,649 (Afghanistan), 6,069 (Sri Lanka), 6,197 (Turkey) (mid-year 2021); 70,730 (Ukraine) (as of 6 December 2022)<br>
+_refugees (country of origin)_: 38,219 (Eritrea), 20,043 (Syria), 14,649 (Afghanistan), 6,069 (Sri Lanka), 6,197 (Turkey) (mid-year 2021); 71,342 (Ukraine) (as of 13 December 2022)<br>
 _stateless persons_: 684 (mid-year 2021)<br>
 
 **Illicit drugs**<br>

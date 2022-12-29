@@ -117,7 +117,7 @@ _female_: 35.1 years (2020 est.)<br>
 <strong>note:</strong> there has been steady emigration from Wallis and Futuna to New Caledonia<br>
 
 **Urbanization**<br>
-_urban population_: 0% of total population (2022)<br>
+_urban population_: 0% of total population (2023)<br>
 _rate of urbanization_: 0% annual rate of change (2020-25 est.)<br>
 
 **Major urban areas - population**<br>
@@ -206,7 +206,7 @@ _forest_: 41.9% (2018 est.)<br>
 _other_: 15.3% (2018 est.)<br>
 
 **Urbanization**<br>
-_urban population_: 0% of total population (2022)<br>
+_urban population_: 0% of total population (2023)<br>
 _rate of urbanization_: 0% annual rate of change (2020-25 est.)<br>
 
 **Major infectious diseases**<br>

@@ -131,7 +131,7 @@ _urban population_: 50.3% of total population (2023)<br>
 _rate of urbanization_: 0.61% annual rate of change (2020-25 est.)<br>
 
 **Major urban areas - population**<br>
-344,000 SARAJEVO (capital) (2022)<br>
+346,000 SARAJEVO (capital) (2023)<br>
 
 **Sex ratio**<br>
 _at birth_: 1.07 male(s)/female<br>
@@ -352,6 +352,7 @@ Alliance for a Better Future of BiH or SBB BiH [Fahrudin RADONCIC]<br>Alliance o
 
 **International organization participation**<br>
 BIS, CD, CE, CEI, EAPC, EBRD, FAO, G-77, IAEA, IBRD, ICAO, ICC (NGOs), ICCt, ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, MINUSMA, MONUSCO, NAM (observer), OAS (observer), OIC (observer), OIF (observer), OPCW, OSCE, PFP, SELEC, UN, UNCTAD, UNESCO, UNIDO, UNWTO, UPU, WCO, WHO, WIPO, WMO, WTO (observer)<br>
+<strong>note</strong>: Bosnia-Herzegovina is an EU candidate country whose satisfactory completion of accession criteria is required before being granted full EU membership<br>
 
 **Diplomatic representation in the US**<br>
 _chief of mission_: Ambassador Bojan VUJIC&nbsp;(since 16 September 2019)<br>

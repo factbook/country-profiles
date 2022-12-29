@@ -134,7 +134,7 @@ _urban population_: 50.1% of total population (2023)<br>
 _rate of urbanization_: 3.74% annual rate of change (2020-25 est.)<br>
 
 **Major urban areas - population**<br>
-285,000 PORTO-NOVO (capital) (2018); 1.189 million Abomey-Calavi, 709,000 COTONOU (seat of government) (2022)<br>
+285,000 PORTO-NOVO (capital) (2018); 1.253 million Abomey-Calavi, 722,000 COTONOU (seat of government) (2022)<br>
 
 **Sex ratio**<br>
 _at birth_: 1.05 male(s)/female<br>

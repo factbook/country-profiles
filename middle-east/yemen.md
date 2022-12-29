@@ -127,11 +127,11 @@ _female_: 19.9 years<br>
 the vast majority of the population is found in the Asir Mountains (part of the larger Sarawat Mountain system), located in the far western region of the country<br>
 
 **Urbanization**<br>
-_urban population_: 39.2% of total population (2022)<br>
+_urban population_: 39.8% of total population (2023)<br>
 _rate of urbanization_: 3.71% annual rate of change (2015-20 est.)<br>
 
 **Major urban areas - population**<br>
-3.182 million SANAA (capital), 1.045 million Aden (2022)<br>
+3.292 million SANAA (capital), 1.080 million Aden, 941,000 Taiz, 772,000 Ibb (2023)<br>
 
 **Sex ratio**<br>
 _at birth_: 1.05 male(s)/female<br>
@@ -258,7 +258,7 @@ _forest_: 1% (2018 est.)<br>
 _other_: 54.5% (2018 est.)<br>
 
 **Urbanization**<br>
-_urban population_: 39.2% of total population (2022)<br>
+_urban population_: 39.8% of total population (2023)<br>
 _rate of urbanization_: 3.71% annual rate of change (2015-20 est.)<br>
 
 **Revenue from forest resources**<br>
@@ -700,6 +700,6 @@ Islamic Revolutionary Guard Corps (IRGC)/Qods Force; Islamic State of Iraq and a
 <p><em>Yemen-Oman</em>: none identified</p> <p><em>Yemen-Saudia Arabia:</em> in 2004, Saudi Arabia reinforced its concrete-filled security barrier along sections of the fully demarcated border with Yemen to stem illegal cross-border activities, including militants and arms; in 2013 and 2015, Saudi Arabia again erected fences<br><br><br></p> <p> </p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 69,900 (Somalia), 18,968 (Ethiopia) (2022)<br>
+_refugees (country of origin)_: 69,671 (Somalia), 18,968 (Ethiopia) (2022)<br>
 _IDPs_: 4,288,739 (conflict in Sa'ada Governorate; clashes between al-Qa'ida in the Arabian Peninsula and government forces) (2022)<br>
 

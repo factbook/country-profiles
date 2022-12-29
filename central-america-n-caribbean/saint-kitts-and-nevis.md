@@ -123,7 +123,7 @@ _female_: 36.3 years (2020 est.)<br>
 population clusters are found in the small towns located on the periphery of both islands<br>
 
 **Urbanization**<br>
-_urban population_: 31% of total population (2022)<br>
+_urban population_: 31.1% of total population (2023)<br>
 _rate of urbanization_: 1.06% annual rate of change (2020-25 est.)<br>
 
 **Major urban areas - population**<br>
@@ -234,7 +234,7 @@ _forest_: 42.3% (2018 est.)<br>
 _other_: 34.6% (2018 est.)<br>
 
 **Urbanization**<br>
-_urban population_: 31% of total population (2022)<br>
+_urban population_: 31.1% of total population (2023)<br>
 _rate of urbanization_: 1.06% annual rate of change (2020-25 est.)<br>
 
 **Revenue from forest resources**<br>

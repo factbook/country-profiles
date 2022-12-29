@@ -94,7 +94,7 @@ Mestizo (mixed White and Amerindian ancestry) 68%, Indigenous 20%, White 5%, Cho
 <strong>note:</strong> results among surveys vary based on the wording of the ethnicity question and the available response choices; the 2001 national census did not provide "Mestizo" as a response choice, resulting in a much higher proportion of respondents identifying themselves as belonging to one of the available indigenous ethnicity choices; the use of "Mestizo" and "Cholo" varies among response choices in surveys, with surveys using the terms interchangeably, providing one or the other as a response choice, or providing the two as separate response choices<br>
 
 **Languages**<br>
-Spanish (official) 60.7%, Quechua (official) 21.2%, Aymara (official) 14.6%, Guarani (official) 0.6%, other native languages 0.4%, foreign languages 2.4%, none 0.1%; note -&nbsp;Bolivia's 2009 constitution designates Spanish and all indigenous languages as official; 36 indigenous languages are specified, including a few that are extinct (2001 est.)<br>
+Spanish (official) 68.1%, Quechua (official) 17.2%, Aymara (official) 10.5%, Guarani (official) 0.6%, other 1.5%, unspecified 2.1%; note - Bolivia's 2009 constitution designates Spanish and all indigenous languages as official; 36 indigenous languages are specified, including a few that are extinct (2012 est.)<br>
 _major-language sample(s)_: <br>La Libreta Informativa del Mundo, la fuente indispensable de información básica. (Spanish)<br><br>The World Factbook, the indispensable source for basic information.<br>
 
 **Religions**<br>
@@ -141,7 +141,7 @@ _urban population_: 71.2% of total population (2023)<br>
 _rate of urbanization_: 1.87% annual rate of change (2020-25 est.)<br>
 
 **Major urban areas - population**<br>
-1.908 million LA PAZ (capital), 1.784 million Santa Cruz, 1.369 million Cochabamba (2022); 278,000 Sucre (constitutional capital) (2018)<br>
+1.936 million LA PAZ (capital), 1.820 million Santa Cruz, 1.400 million Cochabamba (2022); 278,000 Sucre (constitutional capital) (2018)<br>
 
 **Sex ratio**<br>
 _at birth_: 1.05 male(s)/female<br>

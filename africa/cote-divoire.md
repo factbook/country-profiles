@@ -139,7 +139,7 @@ _urban population_: 53.1% of total population (2023)<br>
 _rate of urbanization_: 3.38% annual rate of change (2020-25 est.)<br>
 
 **Major urban areas - population**<br>
-231,000 YAMOUSSOUKRO (capital) (2018), 5.516 million ABIDJAN (seat of government) (2022)<br>
+231,000 YAMOUSSOUKRO (capital) (2018), 5.686 million ABIDJAN (seat of government) (2023)<br>
 
 **Sex ratio**<br>
 _at birth_: 1.03 male(s)/female<br>

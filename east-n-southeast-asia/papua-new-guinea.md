@@ -93,7 +93,7 @@ Tok Pisin (official), English (official), Hiri Motu (official), some 839 indigen
 <strong>note:</strong> Tok Pisin, a creole language, is widely used and understood; English is spoken by 1%-2%; Hiri Motu is spoken by less than 2%<br>
 
 **Religions**<br>
-Protestant 64.3% (Evangelical Lutheran 18.4%, Seventh Day Adventist 12.9%, Pentecostal 10.4%, United Church 10.3%, Evangelical Alliance 5.9%, Anglican 3.2%, Baptist 2.8%, Salvation Army .4%), Roman Catholic 26%, other Christian 5.3%, non-Christian 1.4%, unspecified 3.1% (2011 est.)<br>
+Protestant 64.3% (Evangelical Lutheran 18.4%, Seventh Day Adventist 12.9%, Pentecostal 10.4%, United Church 10.3%, Evangelical Alliance 5.9%, Anglican 3.2%, Baptist 2.8%, Salvation Army 0.4%), Roman Catholic 26%, other Christian 5.3%, non-Christian 1.4%, unspecified 3.1% (2011 est.)<br>
 <strong>note:</strong> data represent only the citizen population; roughly 0.3% of the population are non-citizens, consisting of Christian 52% (predominantly Roman Catholic), other 10.7% , none 37.3%<br>
 
 **Age structure**<br>
@@ -130,11 +130,11 @@ _female_: 24 years (2020 est.)<br>
 population concentrated in the highlands and eastern coastal areas on the island of New Guinea; predominantly a rural distribution with only about one-fifth of the population residing in urban areas<br>
 
 **Urbanization**<br>
-_urban population_: 13.6% of total population (2022)<br>
+_urban population_: 13.7% of total population (2023)<br>
 _rate of urbanization_: 2.91% annual rate of change (2020-25 est.)<br>
 
 **Major urban areas - population**<br>
-400,000 PORT MORESBY (capital) (2022)<br>
+410,000 PORT MORESBY (capital) (2023)<br>
 
 **Sex ratio**<br>
 _at birth_: 1.05 male(s)/female<br>
@@ -259,7 +259,7 @@ _forest_: 63.1% (2018 est.)<br>
 _other_: 34.3% (2018 est.)<br>
 
 **Urbanization**<br>
-_urban population_: 13.6% of total population (2022)<br>
+_urban population_: 13.7% of total population (2023)<br>
 _rate of urbanization_: 2.91% annual rate of change (2020-25 est.)<br>
 
 **Revenue from forest resources**<br>
@@ -702,8 +702,8 @@ _IDPs_: 24,000 (natural disasters, tribal conflict, inter-communal violence, dev
 _stateless persons_: 9 (mid-year 2021)<br>
 
 **Trafficking in persons**<br>
-_current situation_: Papua New Guinea is a source, destination, and transit country for men, women, and children subjected to sex trafficking and forced labor; women and children are subjected to sex trafficking and domestic servitude; families may sell girls into forced marriages to settle debts, leaving them vulnerable to forced domestic service; local and Chinese men are forced to labor in logging and mining camps; migrant women from Malaysia, Thailand, China, and the Philippines are subjected to sex trafficking and domestic servitude at logging and mining camps, fisheries, and entertainment sites<br>
 _tier rating_: Tier 3 &mdash; Papua New Guinea does not fully meet the minimum standards for the elimination of trafficking and is not making significant efforts to do so; despite remaining at Tier 3, the government continued to identify some trafficking victims and a prominent trafficking case was advanced; however, the government did not provide protective services for victims and did not systematically implement its victim identification procedures; corruption among officials in the logging sector remains a problem, and they continue to facilitate sex trafficking and forced labor; no alleged traffickers were convicted; the government dedicates little financial and human resources to combat trafficking, and awareness of trafficking is low among government officials (2020)<br>
+_trafficking profile_: Papua New Guinea is a source, destination, and transit country for men, women, and children subjected to sex trafficking and forced labor; women and children are subjected to sex trafficking and domestic servitude; families may sell girls into forced marriages to settle debts, leaving them vulnerable to forced domestic service; local and Chinese men are forced to labor in logging and mining camps; migrant women from Malaysia, Thailand, China, and the Philippines are subjected to sex trafficking and domestic servitude at logging and mining camps, fisheries, and entertainment sites<br>
 
 **Illicit drugs**<br>
 <p>transit point for smuggling drugs such as methamphetamine and cocaine; major consumer of cannabis</p><br>

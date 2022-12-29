@@ -142,7 +142,7 @@ _urban population_: 82.4% of total population (2023)<br>
 _rate of urbanization_: 1.01% annual rate of change (2020-25 est.)<br>
 
 **Major urban areas - population**<br>
-11.344 million BOGOTA (capital), 4.068 million Medellin, 2.837 million Cali, 2.325 million Barranquilla, 1.366 million Bucaramanga, 1.079 million Cartagena (2022)<br>
+11.508 million BOGOTA (capital), 4.102 million Medellin, 2.864 million Cali, 2.349 million Barranquilla, 1.381 million Bucaramanga, 1.088 million Cartagena (2023)<br>
 
 **Sex ratio**<br>
 _at birth_: 1.05 male(s)/female<br>

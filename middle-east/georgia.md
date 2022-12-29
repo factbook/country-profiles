@@ -130,7 +130,7 @@ _rate of urbanization_: 0.35% annual rate of change (2020-25 est.)<br>
 <strong>note:</strong> data include Abkhazia and South Ossetia<br>
 
 **Major urban areas - population**<br>
-1.080 million TBILISI (capital) (2022)<br>
+1.082 million TBILISI (capital) (2023)<br>
 
 **Sex ratio**<br>
 _at birth_: 1.05 male(s)/female<br>

@@ -114,7 +114,7 @@ NA<br>
 the country's small population is fairly evenly distributed amongst the three atolls<br>
 
 **Urbanization**<br>
-_urban population_: 0% of total population (2022)<br>
+_urban population_: 0% of total population (2023)<br>
 _rate of urbanization_: 0% annual rate of change (2020-25 est.)<br>
 
 **Sex ratio**<br>
@@ -194,7 +194,7 @@ _forest_: 0% (2018 est.)<br>
 _other_: 40% (2018 est.)<br>
 
 **Urbanization**<br>
-_urban population_: 0% of total population (2022)<br>
+_urban population_: 0% of total population (2023)<br>
 _rate of urbanization_: 0% annual rate of change (2020-25 est.)<br>
 
 **Major infectious diseases**<br>

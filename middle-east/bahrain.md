@@ -131,7 +131,7 @@ _urban population_: 89.9% of total population (2023)<br>
 _rate of urbanization_: 1.99% annual rate of change (2020-25 est.)<br>
 
 **Major urban areas - population**<br>
-689,000 MANAMA (capital) (2022)<br>
+709,000 MANAMA (capital) (2023)<br>
 
 **Sex ratio**<br>
 _at birth_: 1.03 male(s)/female<br>

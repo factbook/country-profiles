@@ -131,7 +131,7 @@ _urban population_: 59.7% of total population (2023)<br>
 _rate of urbanization_: 2.47% annual rate of change (2020-25 est.)<br>
 
 **Major urban areas - population**<br>
-2.915 million PORT-AU-PRINCE (capital) (2022)<br>
+2.987 million PORT-AU-PRINCE (capital) (2023)<br>
 
 **Sex ratio**<br>
 _at birth_: 1.01 male(s)/female<br>

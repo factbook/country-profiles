@@ -122,7 +122,7 @@ _urban population_: 100% of total population (2023)<br>
 _rate of urbanization_: 1.46% annual rate of change (2020-25 est.)<br>
 
 **Major urban areas - population**<br>
-672,000 Macau (2022)<br>
+682,000 Macau (2023)<br>
 
 **Sex ratio**<br>
 _at birth_: 1.05 male(s)/female<br>
@@ -581,8 +581,8 @@ defense is the responsibility of China; the Chinese People's Liberation Army (PL
 <p>none identified</p><br>
 
 **Trafficking in persons**<br>
-_current situation_: Macau is a destination and, to a much lesser extent, source for women and children subjected to sex trafficking and possibly forced labor; most victims come from the Chinese mainland, but others are trafficked from China, Russia, and Southeast Asia; victims are lured in by false job offers and forced into prostitution, often being confined to massage parlors and illegal brothels where their identity documents are confiscated and they are threatened with violence; Chinese, Russian, and Thai criminal organizations are believed to be involved in recruiting women for Macau&rsquo;s commercial sex industry<br>
 _tier rating_: Tier 2 Watch List &mdash; Macau does not fully meet the minimum standards for the elimination of trafficking but is making significant efforts to do so; the government trained police, customs, and social welfare officials on human trafficking, funded an awareness campaign, and provided services to victims; authorities convicted three sex traffickers but did not sentence anyone to significant prison terms; authorities investigated only one potential trafficking case and made no prosecutions; the government provided no assistance to any victims, and officials did not initiate any prosecutions or sentence convicted traffickers to significant terms of imprisonment; Macau was downgraded to Tier 2 Watch List (2020)<br>
+_trafficking profile_: Macau is a destination and, to a much lesser extent, source for women and children subjected to sex trafficking and possibly forced labor; most victims come from the Chinese mainland, but others are trafficked from China, Russia, and Southeast Asia; victims are lured in by false job offers and forced into prostitution, often being confined to massage parlors and illegal brothels where their identity documents are confiscated and they are threatened with violence; Chinese, Russian, and Thai criminal organizations are believed to be involved in recruiting women for Macau&rsquo;s commercial sex industry<br>
 
 **Illicit drugs**<br>
 <p>asian organized crime groups involved in drug trafficking and money laundering</p><br>

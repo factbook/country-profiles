@@ -135,7 +135,7 @@ _urban population_: 87% of total population (2023)<br>
 _rate of urbanization_: 0.92% annual rate of change (2020-25 est.)<br>
 
 **Major urban areas - population**<br>
-1.652 million Auckland, 419,000 WELLINGTON (capital) (2022)<br>
+1.673 million Auckland, 422,000 WELLINGTON (capital) (2023)<br>
 
 **Sex ratio**<br>
 _at birth_: 1.05 male(s)/female<br>

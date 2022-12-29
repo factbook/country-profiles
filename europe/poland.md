@@ -134,11 +134,11 @@ _female_: 43.6 years (2020 est.)<br>
 population concentrated in the southern area around Krakow and the central area around Warsaw and Lodz, with an extension to the northern coastal city of Gdansk<br>
 
 **Urbanization**<br>
-_urban population_: 60.1% of total population (2022)<br>
+_urban population_: 60.2% of total population (2023)<br>
 _rate of urbanization_: -0.16% annual rate of change (2020-25 est.)<br>
 
 **Major urban areas - population**<br>
-1.795 million WARSAW (capital), 770,000 Krakow (2022)<br>
+1.798 million WARSAW (capital), 769,000 Krakow (2023)<br>
 
 **Sex ratio**<br>
 _at birth_: 1.06 male(s)/female<br>
@@ -266,7 +266,7 @@ _forest_: 30.6% (2018 est.)<br>
 _other_: 21.2% (2018 est.)<br>
 
 **Urbanization**<br>
-_urban population_: 60.1% of total population (2022)<br>
+_urban population_: 60.2% of total population (2023)<br>
 _rate of urbanization_: -0.16% annual rate of change (2020-25 est.)<br>
 
 **Revenue from forest resources**<br>
@@ -745,7 +745,7 @@ Islamic State of Iraq and ash-Sham (ISIS)<br>
 <p><em>Poland-Belarus-Ukraine</em>: as a member state that forms part of the EU's external border, Poland has implemented the strict Schengen border rules to restrict illegal immigration and trade along its eastern borders with Belarus and Ukraine</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 9,870 (Russia) (2019); 1,529,355 (Ukraine) (as of 6 December 2022)<br>
+_refugees (country of origin)_: 9,870 (Russia) (2019); 1,544,074 (Ukraine) (as of 20 December 2022)<br>
 _stateless persons_: 1,389 (mid-year 2021)<br>
 
 **Illicit drugs**<br>

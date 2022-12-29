@@ -138,7 +138,7 @@ _urban population_: 58.6% of total population (2023)<br>
 _rate of urbanization_: 1.99% annual rate of change (2020-25 est.)<br>
 
 **Major urban areas - population**<br>
-11.075 million JAKARTA (capital), 3.622 million Bekasi, 3.005 million Surabaya, 2.942 million Depok, 2.638 million Bandung, 2.456 million Tangerang (2022)<br>
+11.249 million JAKARTA (capital), 3.729 million Bekasi, 3.044 million Surabaya, 3.041 million Depok, 2.674 million Bandung, 2.514 million Tangerang (2023)<br>
 
 **Sex ratio**<br>
 _at birth_: 1.05 male(s)/female<br>

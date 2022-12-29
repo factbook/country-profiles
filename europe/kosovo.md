@@ -125,7 +125,7 @@ _female_: 30.8 years (2020 est.)<br>
 population clusters exist throughout the country, the largest being in the east in and around the capital of Pristina<br>
 
 **Major urban areas - population**<br>
-216,870 PRISTINA (capital) (2019)<br>
+218,782 PRISTINA (capital) (2020)<br>
 
 **Sex ratio**<br>
 _at birth_: 1.08 male(s)/female<br>

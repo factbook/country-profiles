@@ -127,12 +127,12 @@ _female_: 40.2 years (2020 est.)<br>
 most Norwegians live in the south where the climate is milder and there is better connectivity to mainland Europe; population clusters are found all along the North Sea coast in the southwest, and Skaggerak in the southeast; the interior areas of the north remain sparsely populated<br>
 
 **Urbanization**<br>
-_urban population_: 83.7% of total population (2022)<br>
+_urban population_: 84% of total population (2023)<br>
 _rate of urbanization_: 1.32% annual rate of change (2020-25 est.)<br>
 <strong>note:</strong> data include Svalbard and Jan Mayen Islands<br>
 
 **Major urban areas - population**<br>
-1.071 million OSLO (capital) (2022)<br>
+1.086 million OSLO (capital) (2023)<br>
 
 **Sex ratio**<br>
 _at birth_: 1.05 male(s)/female<br>
@@ -256,7 +256,7 @@ _forest_: 27.8% (2018 est.)<br>
 _other_: 69.5% (2018 est.)<br>
 
 **Urbanization**<br>
-_urban population_: 83.7% of total population (2022)<br>
+_urban population_: 84% of total population (2023)<br>
 _rate of urbanization_: 1.32% annual rate of change (2020-25 est.)<br>
 <strong>note:</strong> data include Svalbard and Jan Mayen Islands<br>
 
@@ -708,6 +708,6 @@ Norway is a member of NATO and was one of the original 12 countries to sign the 
 <p><em>Norway-Antarctica</em>: Norway asserts a territorial claim in Antarctica (Queen Maud Land and its continental shelf)</p> <p><em>Norway-Russia</em>: Russia amended its 2001 CLCS submission in 2015 and 2021, each time delineating the outer limits of its continental shelf further into the Arctic Ocean; Norway and Russia signed a comprehensive maritime boundary agreement in 2010, ending a dispute over an area of the Barents Sea by dividing the territory equally</p> <p><em>Norway-Sweden</em>: none identified</p> <p> </p> <p> </p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 15,542 (Syria), 11,965 (Eritrea) (mid-year 2021); 34,005 (Ukraine) (as of 6 December 2022)<br>
+_refugees (country of origin)_: 15,542 (Syria), 11,965 (Eritrea) (mid-year 2021); 35,321 (Ukraine) (as of 20 December 2022)<br>
 _stateless persons_: 4,154 (mid-year 2021)<br>
 

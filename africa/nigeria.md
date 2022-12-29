@@ -144,7 +144,7 @@ _urban population_: 54.3% of total population (2023)<br>
 _rate of urbanization_: 3.92% annual rate of change (2020-25 est.)<br>
 
 **Major urban areas - population**<br>
-15.388 million Lagos, 4.219 million Kano, 3.756 million Ibadan, 3.652 million ABUJA (capital), 3.325 million Port Harcourt, 1.841 million Benin City (2022)<br>
+15.946 million Lagos, 4.348 million Kano, 3.875 million Ibadan, 3.840 million ABUJA (capital), 3.480 million Port Harcourt, 1.905 million Benin City (2023)<br>
 
 **Sex ratio**<br>
 _at birth_: 1.06 male(s)/female<br>

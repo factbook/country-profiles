@@ -127,11 +127,11 @@ _female_: 41.7 years (2020 est.)<br>
 the core of the population lies in and around London, with significant clusters found in central Britain around Manchester and Liverpool, in the Scottish lowlands between Edinburgh and Glasgow, southern Wales in and around Cardiff, and far eastern Northern Ireland centered on Belfast<br>
 
 **Urbanization**<br>
-_urban population_: 84.4% of total population (2022)<br>
+_urban population_: 84.6% of total population (2023)<br>
 _rate of urbanization_: 0.8% annual rate of change (2020-25 est.)<br>
 
 **Major urban areas - population**<br>
-9.426 million LONDON (capital), 2.750 million Manchester, 2.626 million Birmingham, 1.902 million West Yorkshire, 1.681 million Glasgow, 944,000 Southampton/Portsmouth (2022)<br>
+9.648 million LONDON (capital), 2.791 million Manchester, 2.665 million Birmingham, 1.929 million West Yorkshire, 1.698 million Glasgow, 952,000 Southampton/Portsmouth (2023)<br>
 
 **Sex ratio**<br>
 _at birth_: 1.05 male(s)/female<br>
@@ -263,7 +263,7 @@ _forest_: 11.9% (2018 est.)<br>
 _other_: 17.1% (2018 est.)<br>
 
 **Urbanization**<br>
-_urban population_: 84.4% of total population (2022)<br>
+_urban population_: 84.6% of total population (2023)<br>
 _rate of urbanization_: 0.8% annual rate of change (2020-25 est.)<br>
 
 **Revenue from forest resources**<br>
@@ -692,7 +692,7 @@ _container port(s) (TEUs)_: Felixstowe (3,584,000), London (2,790,000), Southamp
 _LNG terminal(s) (import)_: Dragon, Isle of Grain, South Hook, Teesside<br>
 
 **Transportation - note**<br>
-<strong>note 1: </strong>begun in 1988 and completed in 1994, the Channel Tunnel (nicknamed the Chunnel) is a 50.5-km (31.4-mi) rail tunnel beneath the English Channel at the Strait of Dover that runs from Folkestone, Kent, England to Coquelles, Pas-de-Calais in northern France; it is the only fixed link between the island of Great Britain and mainland Europe<br><br><strong>note 2:</strong> the UK operates one PC 3 or 4 class medium icebreaker in the South Atlantic in support of operations in Antarctica<br>note - PC 3 - year-round operation in second-year ice which may include multi-year ice inclusions (ice thickness up to 2.5 m); PC 4 - year-round operation in thick first-year ice which may include old ice inclusions (ice thickness up to 120 cm)<br>
+<strong>note 1: </strong>begun in 1988 and completed in 1994, the Channel Tunnel (nicknamed the Chunnel) is a 50.5-km (31.4-mi) rail tunnel beneath the English Channel at the Strait of Dover that runs from Folkestone, Kent, England to Coquelles, Pas-de-Calais in northern France; it is the only fixed link between the island of Great Britain and mainland Europe<br><br><strong>note 2:</strong> the UK operates one PC 3 or 4 class medium icebreaker in the South Atlantic in support of operations in Antarctica<br>note - PC indicates a Polar Class vessel: PC 3 - year-round operation in second-year ice which may include multi-year ice inclusions (ice thickness up to 2.5 m); PC 4 - year-round operation in thick first-year ice which may include old ice inclusions (ice thickness up to 120 cm)<br>
 
 ## Military and Security
 
@@ -737,7 +737,7 @@ Continuity Irish Republican Army; Islamic State of Iraq and ash-Sham (ISIS); New
 <p><em>UK-Argentina</em>: UK rejects sovereignty talks requested by Argentina, which still claims the Falkland Islands (Islas Malvinas) and South Georgia and the South Sandwich Islands</p> <p><em>UK-Argentina-Chile</em>: the UK’s territorial claim in Antarctica (British Antarctic Territory) overlaps Argentine claim and partially overlaps Chilean claim</p> <p><em>UK-Denmark</em>: the UK, Iceland, and Ireland dispute Denmark's claim that the Faroe Islands' continental shelf extends beyond 200 nm; Iceland, Norway, and the Faroe Islands signed an agreement in 2019 extending the Faroe Islands’ northern continental shelf area</p> <p><em>UK (Gibraltar)-Spain</em>: in 2002, Gibraltar residents voted overwhelmingly by referendum to reject any "shared sovereignty" arrangement between the UK and Spain; the Government of Gibraltar insisted on equal participation in talks between the two countries; Spain disapproved of UK plans to grant Gibraltar greater autonomy; London and Madrid reached a temporary agreement at the end of 2020 that allowed Gibraltar to be part of the passport-free Schengen zone; talks are expected to continue in 2022</p> <p><em>UK-Mauritius-Seychelles</em>: Mauritius and Seychelles claim the Chagos Archipelago (British Indian Ocean Territory); in 2001, the former inhabitants of the archipelago, evicted 1967 - 1973, were granted UK citizenship and the right of return, followed by Orders in Council in 2004 that banned rehabitation, a High Court ruling reversed the ban, a Court of Appeal refusal to hear the case, and a Law Lords' decision in 2008 denied the right of return; in addition, the UK created the world's largest marine protection area around the Chagos Islands prohibiting the extraction of any natural resources therein</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 21,011 (Iran), 14,503 (Eritrea), 11,251 (Sudan), 11,412 (Syria), 9,469 (Afghanistan), 8,357 (Pakistan), 6,933 (Iraq), 5,200 (Sri Lanka) (2020); 143,100 (Ukraine) (as of 8 November 2022)<br>
+_refugees (country of origin)_: 21,011 (Iran), 14,503 (Eritrea), 11,251 (Sudan), 11,412 (Syria), 9,469 (Afghanistan), 8,357 (Pakistan), 6,933 (Iraq), 5,200 (Sri Lanka) (2020); 150,600 (Ukraine) (as of 12 December 2022)<br>
 _stateless persons_: 3,968 (mid-year 2021)<br>
 
 **Illicit drugs**<br>

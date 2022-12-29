@@ -129,11 +129,11 @@ _female_: 31.5 years (2020 est.)<br>
 population is heavily concentrated to the northeast on the Musandam Peninsula; the three largest emirates - Abu Dhabi, Dubai, and Sharjah - are home to nearly 85% of the population<br>
 
 **Urbanization**<br>
-_urban population_: 87.5% of total population (2022)<br>
+_urban population_: 87.8% of total population (2023)<br>
 _rate of urbanization_: 1.5% annual rate of change (2020-25 est.)<br>
 
 **Major urban areas - population**<br>
-2.964 million Dubai, 1.786 million Sharjah, 1.540 million ABU DHABI (capital) (2022)<br>
+3.008 million Dubai, 1.831 million Sharjah, 1.567 million ABU DHABI (capital) (2023)<br>
 
 **Sex ratio**<br>
 _at birth_: 1.06 male(s)/female<br>
@@ -252,7 +252,7 @@ _forest_: 3.8% (2018 est.)<br>
 _other_: 91.6% (2018 est.)<br>
 
 **Urbanization**<br>
-_urban population_: 87.5% of total population (2022)<br>
+_urban population_: 87.8% of total population (2023)<br>
 _rate of urbanization_: 1.5% annual rate of change (2020-25 est.)<br>
 
 **Revenue from forest resources**<br>

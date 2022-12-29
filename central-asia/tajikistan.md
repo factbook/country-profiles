@@ -137,7 +137,7 @@ _urban population_: 28.2% of total population (2023)<br>
 _rate of urbanization_: 2.73% annual rate of change (2020-25 est.)<br>
 
 **Major urban areas - population**<br>
-962,000 DUSHANBE (capital) (2022)<br>
+987,000 DUSHANBE (capital) (2023)<br>
 
 **Sex ratio**<br>
 _at birth_: 1.05 male(s)/female<br>
@@ -685,7 +685,7 @@ approximately 9,500 active duty troops (8,000 Land and Mobile Forces; 1,500 Air 
 the military's inventory is comprised of older Russian and Soviet-era equipment; it has received limited quantities of weapons systems since 2010, most of which was second-hand material from Russia (2021)<br>
 
 **Military service age and obligation**<br>
-18-27 years of age for compulsory or voluntary military service for men; 24-month conscript service obligation; in August 2021, the Tajik Government began allowing men to pay a fee in order to avoid conscription (2022)<br>
+18-27 years of age for compulsory or voluntary military service for men; women may volunteer; 24-month conscript service obligation; in August 2021, the Tajik Government began allowing men to pay a fee in order to avoid conscription (2022)<br>
 
 **Military - note**<br>
 Tajikistan has been a member of the Collective Security Treaty Organization (CSTO) since 1994 and contributes troops to CSTO's rapid reaction force (2022)<br>

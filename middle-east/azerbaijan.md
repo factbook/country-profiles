@@ -138,7 +138,7 @@ _rate of urbanization_: 1.38% annual rate of change (2020-25 est.)<br>
 <strong>note:</strong> data include Nagorno-Karabakh<br>
 
 **Major urban areas - population**<br>
-2.401 million BAKU (capital) (2022)<br>
+2.432 million BAKU (capital) (2023)<br>
 
 **Sex ratio**<br>
 _at birth_: 1.06 male(s)/female<br>

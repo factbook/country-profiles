@@ -129,7 +129,7 @@ _urban population_: 19.2% of total population (2023)<br>
 _rate of urbanization_: 1.22% annual rate of change (2020-25 est.)<br>
 
 **Major urban areas - population**<br>
-103,000 Sri Jayewardenepura Kotte (legislative capital) (2018), 626,000 COLOMBO (capital) (2022)<br>
+103,000 Sri Jayewardenepura Kotte (legislative capital) (2018), 633,000 COLOMBO (capital) (2023)<br>
 
 **Sex ratio**<br>
 _at birth_: 1.04 male(s)/female<br>

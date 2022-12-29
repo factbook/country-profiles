@@ -140,7 +140,7 @@ _urban population_: 18.3% of total population (2023)<br>
 _rate of urbanization_: 4.41% annual rate of change (2020-25 est.)<br>
 
 **Major urban areas - population**<br>
-1.222 million LILONGWE (capital), 995,000 Blantyre-Limbe (2022)<br>
+1.276 million LILONGWE (capital), 1.031 million Blantyre-Limbe (2023)<br>
 
 **Sex ratio**<br>
 _at birth_: 1.02 male(s)/female<br>

@@ -126,11 +126,11 @@ _female_: 35.7 years (2020 est.)<br>
 most of the urbanization is along the southern coast, with relatively dense population clusters found in the central areas<br>
 
 **Urbanization**<br>
-_urban population_: 100% of total population (2022)<br>
+_urban population_: 100% of total population (2023)<br>
 _rate of urbanization_: 0.74% annual rate of change (2020-25 est.)<br>
 
 **Major urban areas - population**<br>
-3.040 million SINGAPORE (capital) (2022)<br>
+6.081 million SINGAPORE (capital) (2023)<br>
 
 **Sex ratio**<br>
 _at birth_: 1.05 male(s)/female<br>
@@ -255,7 +255,7 @@ _forest_: 3.3% (2018 est.)<br>
 _other_: 95.7% (2018 est.)<br>
 
 **Urbanization**<br>
-_urban population_: 100% of total population (2022)<br>
+_urban population_: 100% of total population (2023)<br>
 _rate of urbanization_: 0.74% annual rate of change (2020-25 est.)<br>
 
 **Revenue from forest resources**<br>

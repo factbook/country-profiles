@@ -123,7 +123,7 @@ _female_: 27.6 years (2020 est.)<br>
 over half of the population resides on the atoll of Funafuti<br>
 
 **Urbanization**<br>
-_urban population_: 65.5% of total population (2022)<br>
+_urban population_: 66.2% of total population (2023)<br>
 _rate of urbanization_: 2.08% annual rate of change (2020-25 est.)<br>
 
 **Major urban areas - population**<br>
@@ -236,7 +236,7 @@ _forest_: 33.3% (2018 est.)<br>
 _other_: 6.7% (2018 est.)<br>
 
 **Urbanization**<br>
-_urban population_: 65.5% of total population (2022)<br>
+_urban population_: 66.2% of total population (2023)<br>
 _rate of urbanization_: 2.08% annual rate of change (2020-25 est.)<br>
 
 **Revenue from forest resources**<br>

@@ -130,7 +130,7 @@ _female_: 31.4 years (2020 est.)<br>
 population concentrated along the nothern coastal strip; the remainder of the country is sparsely populated<br>
 
 **Urbanization**<br>
-_urban population_: 66.3% of total population (2022)<br>
+_urban population_: 66.4% of total population (2023)<br>
 _rate of urbanization_: 0.88% annual rate of change (2020-25 est.)<br>
 
 **Major urban areas - population**<br>
@@ -255,7 +255,7 @@ _forest_: 94.6% (2018 est.)<br>
 _other_: 4.9% (2018 est.)<br>
 
 **Urbanization**<br>
-_urban population_: 66.3% of total population (2022)<br>
+_urban population_: 66.4% of total population (2023)<br>
 _rate of urbanization_: 0.88% annual rate of change (2020-25 est.)<br>
 
 **Revenue from forest resources**<br>

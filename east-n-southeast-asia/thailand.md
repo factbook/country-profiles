@@ -138,11 +138,11 @@ _female_: 40.1 years (2020 est.)<br>
 highest population density is found in and around Bangkok; significant population clusters found througout large parts of the country, particularly north and northeast of Bangkok and in the extreme southern region of the country<br>
 
 **Urbanization**<br>
-_urban population_: 52.9% of total population (2022)<br>
+_urban population_: 53.6% of total population (2023)<br>
 _rate of urbanization_: 1.43% annual rate of change (2020-25 est.)<br>
 
 **Major urban areas - population**<br>
-10.900 million BANGKOK (capital), 1.436 Chon Buri, 1.342 million Samut Prakan, 1.198 million Chiang Mai, 992,000 Songkla, 988,000 Nothaburi (2022)<br>
+11.070 million BANGKOK (capital), 1.454 Chon Buri, 1.359 million Samut Prakan, 1.213 million Chiang Mai, 1.005 million Songkla, 1.001 million Nothaburi (2023)<br>
 
 **Sex ratio**<br>
 _at birth_: 1.05 male(s)/female<br>
@@ -273,7 +273,7 @@ _forest_: 37.2% (2018 est.)<br>
 _other_: 21.6% (2018 est.)<br>
 
 **Urbanization**<br>
-_urban population_: 52.9% of total population (2022)<br>
+_urban population_: 53.6% of total population (2023)<br>
 _rate of urbanization_: 1.43% annual rate of change (2020-25 est.)<br>
 
 **Revenue from forest resources**<br>

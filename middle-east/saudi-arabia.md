@@ -133,11 +133,11 @@ _female_: 27.9 years (2020 est.)<br>
 historically a population that was mostly nomadic or semi-nomadic, the Saudi population has become more settled since petroleum was discovered in the 1930s; most of the economic activities - and with it the country's population - is concentrated in a wide area across the middle of the peninsula, from Ad Dammam in the east, through Riyadh in the interior, to Mecca-Medina in the west near the Red Sea<br>
 
 **Urbanization**<br>
-_urban population_: 84.7% of total population (2022)<br>
+_urban population_: 85% of total population (2023)<br>
 _rate of urbanization_: 1.69% annual rate of change (2020-25 est.)<br>
 
 **Major urban areas - population**<br>
-7.538 million RIYADH (capital), 4.781 million Jeddah, 2.115 million Mecca, 1.545 million Medina, 1.305 million Ad Dammam, 860,000 million Hufuf-Mubarraz (2022)<br>
+7.682 million RIYADH (capital), 4.863 million Jeddah, 2.150 million Mecca, 1.573 million Medina, 1.329 million Ad Dammam, 872,000 million Hufuf-Mubarraz (2023)<br>
 
 **Sex ratio**<br>
 _at birth_: 1.05 male(s)/female<br>
@@ -258,7 +258,7 @@ _forest_: 0.5% (2018 est.)<br>
 _other_: 18.8% (2018 est.)<br>
 
 **Urbanization**<br>
-_urban population_: 84.7% of total population (2022)<br>
+_urban population_: 85% of total population (2023)<br>
 _rate of urbanization_: 1.69% annual rate of change (2020-25 est.)<br>
 
 **Revenue from forest resources**<br>

@@ -138,7 +138,7 @@ _urban population_: 64.5% of total population (2023)<br>
 _rate of urbanization_: 3.75% annual rate of change (2020-25 est.)<br>
 
 **Major urban areas - population**<br>
-470,000 BANJUL (capital) (2022)<br>
+481,000 BANJUL (capital) (2023)<br>
 <strong>note:</strong> includes the local government areas of Banjul and Kanifing<br>
 
 **Sex ratio**<br>

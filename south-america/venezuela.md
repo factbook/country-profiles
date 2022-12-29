@@ -138,11 +138,11 @@ _female_: 30.7 years (2020 est.)<br>
 most of the population is concentrated in the northern and western highlands along an eastern spur at the northern end of the Andes, an area that includes the capital of Caracas<br>
 
 **Urbanization**<br>
-_urban population_: 88.4% of total population (2022)<br>
+_urban population_: 88.4% of total population (2023)<br>
 _rate of urbanization_: 1.16% annual rate of change (2020-25 est.)<br>
 
 **Major urban areas - population**<br>
-2.957 million CARACAS (capital), 2.333 million Maracaibo, 1.959 million Valencia, 1.241 million Barquisimeto, 1.230 million Maracay, 950,000 Ciudad Guayana (2022)<br>
+2.972 million CARACAS (capital), 2.368 million Maracaibo, 1.983 million Valencia, 1.254 million Barquisimeto, 1.243 million Maracay, 964,000 Ciudad Guayana (2023)<br>
 
 **Sex ratio**<br>
 _at birth_: 1.05 male(s)/female<br>
@@ -259,7 +259,7 @@ _forest_: 52.1% (2018 est.)<br>
 _other_: 23.4% (2018 est.)<br>
 
 **Urbanization**<br>
-_urban population_: 88.4% of total population (2022)<br>
+_urban population_: 88.4% of total population (2023)<br>
 _rate of urbanization_: 1.16% annual rate of change (2020-25 est.)<br>
 
 **Major infectious diseases**<br>
@@ -723,8 +723,8 @@ _refugees (country of origin)_: 67,935 (Colombia) (2020)<br>
 <strong>note: </strong>As of September 2022, host governments report more than 7.1 million Venezuelan refugees and migrants worldwide<br>
 
 **Trafficking in persons**<br>
-_current situation_: Venezuela is a source, transit, and destination country for men, women, and children subjected to sex trafficking and forced labor; Venezuelan women and girls are trafficked within the country for sexual exploitation, lured from the nation's interior to urban and tourist areas; women from Colombia, Peru, Haiti, China, and South Africa are also reported to have been sexually exploited in Venezuela; some Venezuelan women are transported to Caribbean islands, particularly Aruba, Curacao, and Trinidad &amp; Tobago, where they are subjected to forced prostitution; some Venezuelan children are forced to beg on the streets or work as domestic servants, while Ecuadorian children, often from indigenous communities, are subjected to forced labor; the government provided support to FARC dissidents and the ELN, which grew through the recruitment of child soldiers and exploitation of children in sex trafficking and forced labor; Illegal armed groups lure children in vulnerable conditions and dire economic circumstances with gifts and promises of basic sustenance to later recruit them into their ranks<br>
 _tier rating_: Tier 3 &mdash; Venezuela does not fully meet the minimum standards for the elimination of trafficking and is not making significant efforts to do so; the government created a specialized prosecutor&rsquo;s office to oversee trafficking investigations and prosecutions; authorities began legal proceedings against three complicit officials in a notable case; however, the government did not assist any victims or investigate, prosecute, or convict any traffickers; little effort was made to curb the forced recruitment of Venezuelan children by Colombian armed groups operating illegally in Venezuela; authorities made little effort to screen Cuban medical professionals for trafficking indicators as the Cuban Government may have forced them to work by withholding their documentation, and coercing them to falsify medical records (2020)<br>
+_trafficking profile_: Venezuela is a source, transit, and destination country for men, women, and children subjected to sex trafficking and forced labor; Venezuelan women and girls are trafficked within the country for sexual exploitation, lured from the nation's interior to urban and tourist areas; women from Colombia, Peru, Haiti, China, and South Africa are also reported to have been sexually exploited in Venezuela; some Venezuelan women are transported to Caribbean islands, particularly Aruba, Curacao, and Trinidad &amp; Tobago, where they are subjected to forced prostitution; some Venezuelan children are forced to beg on the streets or work as domestic servants, while Ecuadorian children, often from indigenous communities, are subjected to forced labor; the government provided support to FARC dissidents and the ELN, which grew through the recruitment of child soldiers and exploitation of children in sex trafficking and forced labor; Illegal armed groups lure children in vulnerable conditions and dire economic circumstances with gifts and promises of basic sustenance to later recruit them into their ranks<br>
 
 **Illicit drugs**<br>
 <p> a major drug transit country and trafficking route in the Western Hemisphere largely destined for the Caribbean, Central America, the United States, West Africa, and Europe for illegal drugs, predominately cocaine; government officials reportedly complicit with illegal armed narcotrafficking groups; little international drug control cooperation;  significant narcotics-related money-laundering activity, increasing signs of drug-related activities by Colombian insurgents on border</p><br>

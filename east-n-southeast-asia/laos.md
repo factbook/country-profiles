@@ -137,7 +137,7 @@ _urban population_: 38.2% of total population (2023)<br>
 _rate of urbanization_: 2.99% annual rate of change (2020-25 est.)<br>
 
 **Major urban areas - population**<br>
-706,000 VIENTIANE (capital) (2022)<br>
+721,000 VIENTIANE (capital) (2023)<br>
 
 **Sex ratio**<br>
 _at birth_: 1.04 male(s)/female<br>
@@ -317,7 +317,7 @@ _time difference_: UTC+7 (12 hours ahead of Washington, DC, during Standard Time
 _etymology_: the meaning in Pali, a Buddhist liturgical language, is "city of sandalwood"<br>
 
 **Administrative divisions**<br>
-17 provinces (khoueng, singular and plural) and 1 prefecture* (kampheng nakhon); Attapu, Bokeo, Bolikhamxai, Champasak, Houaphan, Khammouan, Louangnamtha, Louangphabang, Oudomxai, Phongsali, Salavan, Savannakhet, Viangchan (Vientiane)*, Viangchan, Xaignabouli, Xaisomboun, Xekong, Xiangkhouang<br>
+17 provinces (khoueng, singular and plural) and 1 prefecture* (kampheng nakhon); Attapu, Bokeo, Bolikhamxai, Champasak, Houaphan, Khammouan, Louangnamtha, Louangphabang (Luang Prabang), Oudomxai, Phongsali, Salavan, Savannakhet, Viangchan (Vientiane)*, Viangchan, Xaignabouli, Xaisomboun, Xekong, Xiangkhouang<br>
 
 **Independence**<br>
 19 July 1949 (from France by the Franco-Lao General Convention); 22 October 1953 (Franco-Lao Treaty recognizes full independence)<br>

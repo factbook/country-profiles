@@ -140,7 +140,7 @@ _urban population_: 81.6% of total population (2023)<br>
 _rate of urbanization_: 1.45% annual rate of change (2020-25 est.)<br>
 
 **Major urban areas - population**<br>
-1.176 million TRIPOLI (capital), 953,000 Misratah, 848,000 Benghazi (2022)<br>
+1.183 million TRIPOLI (capital), 984,000 Misratah, 859,000 Benghazi (2023)<br>
 
 **Sex ratio**<br>
 _at birth_: 1.05 male(s)/female<br>

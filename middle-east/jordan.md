@@ -138,7 +138,7 @@ _urban population_: 92% of total population (2023)<br>
 _rate of urbanization_: 0.98% annual rate of change (2020-25 est.)<br>
 
 **Major urban areas - population**<br>
-2.210 million AMMAN (capital) (2022)<br>
+2.232 million AMMAN (capital) (2023)<br>
 
 **Sex ratio**<br>
 _at birth_: 1.06 male(s)/female<br>

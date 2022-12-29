@@ -132,7 +132,7 @@ _urban population_: 53.6% of total population (2023)<br>
 _rate of urbanization_: 3.41% annual rate of change (2015-20 est.)<br>
 
 **Major urban areas - population**<br>
-1.623 million MONROVIA (capital) (2022)<br>
+1.678 million MONROVIA (capital) (2023)<br>
 
 **Sex ratio**<br>
 _at birth_: 1.03 male(s)/female<br>

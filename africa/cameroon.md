@@ -140,7 +140,7 @@ _urban population_: 59.3% of total population (2023)<br>
 _rate of urbanization_: 3.43% annual rate of change (2020-25 est.)<br>
 
 **Major urban areas - population**<br>
-4.164 million YAOUNDE (capital), 3.927 million Douala (2022)<br>
+4.509 million YAOUNDE (capital), 4.063 million Douala (2023)<br>
 
 **Sex ratio**<br>
 _at birth_: 1.03 male(s)/female<br>
@@ -757,10 +757,10 @@ Boko Haram; Islamic State of Iraq and ash-Sham – West Africa<br>
 <p>Joint Border Commission with Nigeria reviewed 2002 ICJ ruling on the entire boundary and bilaterally resolved differences, including June 2006 Greentree Agreement that immediately ceded sovereignty of the Bakassi Peninsula to Cameroon with a full phase-out of Nigerian control and patriation of residents in 2008; Cameroon and Nigeria agreed on maritime delimitation in March 2008; sovereignty dispute between Equatorial Guinea and Cameroon over an island at the mouth of the Ntem River; only Nigeria and Cameroon have heeded the Lake Chad Commission's admonition to ratify the delimitation treaty, which also includes the Chad-Niger and Niger-Nigeria boundaries</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 353,362 (Central African Republic), 138,107 (Nigeria) (2022)<br>
+_refugees (country of origin)_: 355,667 (Central African Republic), 132,151 (Nigeria) (2022)<br>
 _IDPs_: 975,786 (2022) (includes far north, northwest, and southwest)<br>
 
 **Trafficking in persons**<br>
-_current situation_: human traffickers exploit domestic and foreign victims in Cameroon and Cameroonians abroad; deteriorating economic and education conditions and diminished police and judicial presence caused by conflict in the Northwest and Southwest has left displaced persons vulnerable to trafficking; parents may be lured by promises of education or a better life for their children in urban areas, and then the children are subject to forced labor and sex trafficking; teenagers and adolescents may be lured to cities with promises of employment and then become victims of forced labor and sex trafficking; children from neighboring countries are forced to work in spare parts shops or cattle grazing by business owners and herders; Cameroonians, often from rural areas, are exploited in forced labor and sex trafficking in the Middle East, Europe, the United States, and African countries<br>
 _tier rating_: Tier 2 Watch List —<strong> </strong>Cameroon does not meet the minimum standards for the elimination of trafficking, but is making significant efforts to do so; authorities investigated at least nine suspected trafficking cases, identified 77 victims, and provided some training on trafficking indicators to officials and teachers; however, officials prosecuted and convicted fewer traffickers; standard operating procedures for the identification and referral of trafficking victims were not implemented, and officials were not trained on the measures; the government did not report referring trafficking victims to government institutions for vulnerable children, but NGO-funded centers provided care for an unknown number of child victims; 2012 anti-trafficking legislation addressing victim and witness protection in conformity with international law was not passed for the eighth consecutive year (2020)<br>
+_trafficking profile_: human traffickers exploit domestic and foreign victims in Cameroon and Cameroonians abroad; deteriorating economic and education conditions and diminished police and judicial presence caused by conflict in the Northwest and Southwest has left displaced persons vulnerable to trafficking; parents may be lured by promises of education or a better life for their children in urban areas, and then the children are subject to forced labor and sex trafficking; teenagers and adolescents may be lured to cities with promises of employment and then become victims of forced labor and sex trafficking; children from neighboring countries are forced to work in spare parts shops or cattle grazing by business owners and herders; Cameroonians, often from rural areas, are exploited in forced labor and sex trafficking in the Middle East, Europe, the United States, and African countries<br>
 

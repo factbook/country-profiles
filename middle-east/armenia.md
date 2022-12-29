@@ -86,7 +86,7 @@ _adjective_: Armenian<br>
 Armenian 98.1%, Yezidi (Kurd) 1.2%, other 0.7% (2011 est.)<br>
 
 **Languages**<br>
-Armenian (official) 97.9%, Kurdish (spoken by Yezidi minority) 1%, other 1%; note - Russian is widely spoken (2011 est.)<br>
+Armenian (official) 97.9%, Kurmanji (spoken by Yezidi minority) 1%, other 1.1%; note - Russian is widely spoken (2011 est.)<br>
 _major-language sample(s)_: <br>Աշխարհի Փաստագիրք, Անփոխարինելի Աղբյւր Հիմնական Տեղեկատվւթյան. (Armenian)<br><br>The World Factbook, the indispensable source for basic information.<br>
 
 **Religions**<br>
@@ -133,7 +133,7 @@ _urban population_: 63.7% of total population (2023)<br>
 _rate of urbanization_: 0.23% annual rate of change (2020-25 est.)<br>
 
 **Major urban areas - population**<br>
-1.092 million YEREVAN (capital) (2022)<br>
+1.095 million YEREVAN (capital) (2023)<br>
 
 **Sex ratio**<br>
 _at birth_: 1.08 male(s)/female<br>

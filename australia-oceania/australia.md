@@ -96,15 +96,15 @@ _noun_: Australian(s)<br>
 _adjective_: Australian<br>
 
 **Ethnic groups**<br>
-<p>English 36.1%, Australian 33.5%, Irish 11.0%, Scottish 9.3%, Chinese 5.6%, Italian 4.6%, German 4.5%, Aboriginal and Torres Strait Islander 2.8%, Indian 2.8%, Greek 1.8%, Dutch 1.6%</p> (2016 est.)<br>
+<p>English 33%, Australian 29.9%, Irish 9.5%, Scottish 8.6%, Chinese 5.5%, Italian 4.4%, German 4%, Indian 3.1%, Australian Aboriginal 2.9%, Greek 1.7%, unspecified 4.7%<br><br></p> (2021 est.)<br>
 <strong>note:</strong> data represent self-identified ancestry, with the option of reporting two ancestries<br>
 
 **Languages**<br>
-English 72.7%, Mandarin 2.5%, Arabic 1.4%, Cantonese 1.2%, Vietnamese 1.2%, Italian 1.2%, Greek 1%, other 14.8%, unspecified 6.5% (2016 est.)<br>
+English 72%, Mandarin 2.7%, Arabic 1.4%, Vietnamese 1.3%, Cantonese 1.2%, other 15.7%, unspecified 5.7% (2021 est.)<br>
 <strong>note:</strong> data represent language spoken at home<br>
 
 **Religions**<br>
-Protestant 23.1% (Anglican 13.3%, Uniting Church 3.7%, Presbyterian and Reformed 2.3%, Baptist 1.5%, Pentecostal 1.1%, Lutheran .7%, other Protestant .5%), Roman Catholic 22.6%, other Christian 4.2%, Muslim 2.6%, Buddhist 2.4%, Orthodox 2.3% (Eastern Orthodox 2.1%, Oriental Orthodox .2%), Hindu 1.9%, other 1.3%, none 30.1%, unspecified 9.6% (2016 est.)<br>
+Protestant 23.1% (Anglican 13.3%, Uniting Church 3.7%, Presbyterian and Reformed 2.3%, Baptist 1.5%, Pentecostal 1.1%, Lutheran .7%, other Protestant 0.5%), Roman Catholic 22.6%, other Christian 4.2%, Muslim 2.6%, Buddhist 2.4%, Orthodox 2.3% (Eastern Orthodox 2.1%, Oriental Orthodox 0.2%), Hindu 1.9%, other 1.3%, none 30.1%, unspecified 9.6% (2016 est.)<br>
 
 **Age structure**<br>
 _0-14 years_: 18.72% (male 2,457,418/female 2,309,706)<br>
@@ -145,7 +145,7 @@ _rate of urbanization_: 1.27% annual rate of change (2020-25 est.)<br>
 <strong>note:</strong> data include Christmas Island, Cocos Islands, and Norfolk Island<br>
 
 **Major urban areas - population**<br>
-5,151 million Melbourne, 5.057 million Sydney, 2.472 million Brisbane, 2.093 million Perth, 1.356 million Adelaide, 467,000 CANBERRA (capital) (2022)<br>
+5.235 million Melbourne, 5.121 million Sydney, 2.505 million Brisbane, 2.118 million Perth, 1.367 million Adelaide, 472,000 CANBERRA (capital) (2023)<br>
 
 **Sex ratio**<br>
 _at birth_: 1.06 male(s)/female<br>

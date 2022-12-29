@@ -142,7 +142,7 @@ _urban population_: 29.5% of total population (2023)<br>
 _rate of urbanization_: 4.09% annual rate of change (2020-25 est.)<br>
 
 **Major urban areas - population**<br>
-5.119 million NAIROBI (capital), 1.389 million Mombassa (2022)<br>
+5.325 million NAIROBI (capital), 1.440 million Mombassa (2023)<br>
 
 **Sex ratio**<br>
 _at birth_: 1.02 male(s)/female<br>

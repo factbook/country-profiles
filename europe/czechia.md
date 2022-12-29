@@ -134,7 +134,7 @@ _urban population_: 74.6% of total population (2023)<br>
 _rate of urbanization_: 0.2% annual rate of change (2020-25 est.)<br>
 
 **Major urban areas - population**<br>
-1.318 million PRAGUE (capital) (2022)<br>
+1.323 million PRAGUE (capital) (2023)<br>
 
 **Sex ratio**<br>
 _at birth_: 1.05 male(s)/female<br>
@@ -711,7 +711,7 @@ Czechia joined NATO in 1999; Czechia, Hungary, and Poland were invited to begin 
 <p>none</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 467,862 (Ukraine) (as of 6 December 2022)<br>
+_refugees (country of origin)_: 472,473 (Ukraine) (as of 20 December 2022)<br>
 _stateless persons_: 1,498 (mid-year 2021)<br>
 
 **Illicit drugs**<br>

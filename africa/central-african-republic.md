@@ -139,7 +139,7 @@ _urban population_: 43.6% of total population (2023)<br>
 _rate of urbanization_: 3.32% annual rate of change (2020-25 est.)<br>
 
 **Major urban areas - population**<br>
-933,000 BANGUI (capital) (2022)<br>
+958,000 BANGUI (capital) (2023)<br>
 
 **Sex ratio**<br>
 _at birth_: 1.03 male(s)/female<br>

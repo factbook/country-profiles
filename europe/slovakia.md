@@ -130,11 +130,11 @@ _female_: 43.6 years (2020 est.)<br>
 a fairly even distribution throughout most of the country; slightly larger concentration in the west in proximity to the Czech border<br>
 
 **Urbanization**<br>
-_urban population_: 53.9% of total population (2022)<br>
+_urban population_: 54% of total population (2023)<br>
 _rate of urbanization_: 0.17% annual rate of change (2020-25 est.)<br>
 
 **Major urban areas - population**<br>
-439,000 BRATISLAVA (capital) (2022)<br>
+441,000 BRATISLAVA (capital) (2023)<br>
 
 **Sex ratio**<br>
 _at birth_: 1.07 male(s)/female<br>
@@ -257,7 +257,7 @@ _forest_: 40.2% (2018 est.)<br>
 _other_: 19.7% (2018 est.)<br>
 
 **Urbanization**<br>
-_urban population_: 53.9% of total population (2022)<br>
+_urban population_: 54% of total population (2023)<br>
 _rate of urbanization_: 0.17% annual rate of change (2020-25 est.)<br>
 
 **Revenue from forest resources**<br>
@@ -705,7 +705,7 @@ Slovakia became a member of NATO in 2004<br><br>in 2022, Slovakia agreed to host
 <p><em>Slovakia-Austria</em>: none identified</p> <p><em>Slovakia-Czechia</em>: none identified</p> <p><em>Slovakia-Hungary</em>: initiated by the 1977 Budapest Treaty, Hungary and formerly Czechoslovakia agreed to a hydroelectric dam project on the Danube with dams to be constructed at Gabcikovo (Slovakia) and Nagymaros (Hungary) to prevent floods, improve river navigability, and to generate electricity; when Hungary suspended work on the project until its environmental impact could be assessed, Slovakia continued working on it and adopted a pared down strategy to divert the Danube so that all construction was within Czechoslovakian territory; Hungary terminated the project on environmental and economic grounds in 1989, and in 1992 both countries took the matter to the International Court of Justice (ICJ); the ICJ found largely in favor of then Slovakia, finding Hungary had breached their agreement; however, then Czechoslovakia should not have begun the alternative plan before the ICJ ruled on the case; in 2017, Hungary and Slovakia agreed to discontinue the ICJ proceedings</p> <p><em>Slovakia-Poland</em>: none identified</p> <p><em>Slovakia-Ukraine</em>: tens of thousands of Ukrainian refugees are crossing the border to Slovakia to escape the Russian invasion in their country</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 102,873 (Ukraine) (as of 5 December 2022)<br>
+_refugees (country of origin)_: 104,140 (Ukraine) (as of 20 December 2022)<br>
 _stateless persons_: 1,532 (mid-year 2021)<br>
 
 **Illicit drugs**<br>

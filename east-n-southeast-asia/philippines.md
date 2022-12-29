@@ -130,11 +130,11 @@ _female_: 24.6 years (2020 est.)<br>
 population concentrated where good farmlands lie; highest concentrations are northwest and south-central Luzon, the southeastern extension of Luzon, and the islands of the Visayan Sea, particularly Cebu and Negros; Manila is home to one-eighth of the entire national population<br>
 
 **Urbanization**<br>
-_urban population_: 48% of total population (2022)<br>
+_urban population_: 48.3% of total population (2023)<br>
 _rate of urbanization_: 2.04% annual rate of change (2020-25 est.)<br>
 
 **Major urban areas - population**<br>
-14.406 million MANILA (capital), 1.908 million Davao, 1.009 million Cebu City, 931,000 Zamboanga, 925,000 Antipolo, 786,000 Cagayan de Oro City (2022)<br>
+14.667 million MANILA (capital), 1.949 million Davao, 1.025 million Cebu City, 931,000 Zamboanga, 960,000 Antipolo, 803,000 Cagayan de Oro City, 803,000 Dasmarinas (2023)<br>
 
 **Sex ratio**<br>
 _at birth_: 1.05 male(s)/female<br>
@@ -272,7 +272,7 @@ _forest_: 25.9% (2018 est.)<br>
 _other_: 33.1% (2018 est.)<br>
 
 **Urbanization**<br>
-_urban population_: 48% of total population (2022)<br>
+_urban population_: 48.3% of total population (2023)<br>
 _rate of urbanization_: 2.04% annual rate of change (2020-25 est.)<br>
 
 **Revenue from forest resources**<br>

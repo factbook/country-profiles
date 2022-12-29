@@ -62,6 +62,8 @@ occasional icebergs pose navigational hazard in southern reaches<br>
 **Geography - note**<br>
 major chokepoints include Bab el Mandeb, Strait of Hormuz, Strait of Malacca, southern access to the Suez Canal, and the Lombok Strait<br>
 
+## People and Society
+
 ## Environment
 
 **Environment - current issues**<br>

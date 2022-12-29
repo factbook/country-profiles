@@ -137,7 +137,7 @@ _urban population_: 88% of total population (2023)<br>
 _rate of urbanization_: 0.78% annual rate of change (2020-25 est.)<br>
 
 **Major urban areas - population**<br>
-6.857 million SANTIAGO (capital), 1.000 million Valparaiso, 902,000 Concepcion (2022)<br>
+6.903 million SANTIAGO (capital), 1.009 million Valparaiso, 912,000 Concepcion (2023)<br>
 
 **Sex ratio**<br>
 _at birth_: 1.04 male(s)/female<br>

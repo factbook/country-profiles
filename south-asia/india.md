@@ -142,7 +142,7 @@ _urban population_: 36.4% of total population (2023)<br>
 _rate of urbanization_: 2.33% annual rate of change (2020-25 est.)<br>
 
 **Major urban areas - population**<br>
-32.066 million NEW DELHI (capital), 20.961 million Mumbai, 15.134 million Kolkata, 13.193 million Bangalore, 11.503 million Chennai, 10.534 million Hyderabad (2022)<br>
+32.941 million NEW DELHI (capital), 21.297 million Mumbai, 15.333 million Kolkata, 13.608 million Bangalore, 11.776 million Chennai, 10.801 million Hyderabad (2023)<br>
 
 **Sex ratio**<br>
 _at birth_: 1.1 male(s)/female<br>
@@ -374,7 +374,7 @@ _chief of state_: President Droupadi MURMU (since 25 July 2022); Vice President 
 _head of government_: Prime Minister Narendra MODI (since 26 May 2014)<br>
 _cabinet_: Union Council of Ministers recommended by the prime minister, appointed by the president<br>
 _elections/appointments_: president indirectly elected by an electoral college consisting of elected members of both houses of Parliament for a 5-year term (no term limits); election last held on 18 July 2022 (next to be held in July 2027); vice president indirectly elected by an electoral college consisting of elected members of both houses of Parliament for a 5-year term (no term limits); election last held on 5 August 2022 (next to be held in August 2027); following legislative elections, the prime minister is elected by Lok Sabha members of the majority party<br>
-_election results_: 2022: Droupadi MURMU elected president; percent of electoral college vote - Droupadi MURMU (BJP) 64%, Yashwant SINHA (AITC) 35.9%; Jagdeep DHANKHAR elected vice president; percent of electoral college vote - Jagdeep DHANKHAR (BJP) 74.4%, Margaret ALVA (INC) 25.4%<br>
+_election results_: <br>2022: Droupadi MURMU elected president; percent of electoral college vote - Droupadi MURMU (BJP) 64%, Yashwant SINHA (AITC) 35.9%; Jagdeep DHANKHAR elected vice president; percent of electoral college vote - Jagdeep DHANKHAR (BJP) 74.4%, Margaret ALVA (INC) 25.6%<br>2017: Ram Nath KOVIND elected president; percent of electoral college vote - Ram Nath KOVIND (BJP) 65.6%, Meira KUMAR (INC) 34.4%; Venkaiah NAIDU elected vice president; percent of electoral college vote - Venkaiah NAIDU (BJP) 67.9%, Gopal kuishna GANDI 32.1%<br>
 
 **Legislative branch**<br>
 _description_: bicameral Parliament or Sansad consists of:<br>Council of States or Rajya Sabha (245 seats; 233 members indirectly elected by state and territorial assemblies by proportional representation vote and 12 members appointed by the president; members serve 6-year terms with one-third of the membership renewed every 2 years at various dates)<br>House of the People or Lok Sabha (545 seats; 543 members directly elected in single-seat constituencies by simple majority vote and 2 appointed by the president; members serve 5-year terms)<br>

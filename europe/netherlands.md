@@ -136,7 +136,7 @@ _urban population_: 93.2% of total population (2023)<br>
 _rate of urbanization_: 0.59% annual rate of change (2020-25 est.)<br>
 
 **Major urban areas - population**<br>
-1.166 million AMSTERDAM (capital), 1.015 million Rotterdam (2022)<br>
+1.174 million AMSTERDAM (capital), 1.018 million Rotterdam (2023)<br>
 
 **Sex ratio**<br>
 _at birth_: 1.05 male(s)/female<br>

@@ -99,7 +99,7 @@ _adjective_: Argentine<br>
 European (mostly Spanish and Italian descent) and Mestizo (mixed European and Amerindian ancestry) 97.2%, Amerindian 2.4%, African descent 0.4% (2010 est.)<br>
 
 **Languages**<br>
-Spanish (official), Italian, English, German, French, indigenous (Mapudungun, Quechua)<br>
+Spanish (official), Italian, English, German, French, indigenous (Quechua, Guarani, Mapudungun)<br>
 _major-language sample(s)_: <br>La Libreta Informativa del Mundo, la fuente indispensable de información básica. (Spanish)<br><br>The World Factbook, the indispensable source for basic information.<br>
 
 **Religions**<br>
@@ -146,7 +146,7 @@ _urban population_: 92.5% of total population (2023)<br>
 _rate of urbanization_: 0.97% annual rate of change (2020-25 est.)<br>
 
 **Major urban areas - population**<br>
-15.370 million BUENOS AIRES (capital), 1.598 million Cordoba, 1.574 million Rosario, 1.209 million Mendoza, 1.014 million San Miguel de Tucuman, 904,000 La Plata (2022)<br>
+15.490 million BUENOS AIRES (capital), 1.612 million Cordoba, 1.594 million Rosario, 1.226 million Mendoza, 1.027 million San Miguel de Tucuman, 914,000 La Plata (2023)<br>
 
 **Sex ratio**<br>
 _at birth_: 1.07 male(s)/female<br>

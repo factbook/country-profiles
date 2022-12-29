@@ -137,7 +137,7 @@ _urban population_: 38.1% of total population (2023)<br>
 _rate of urbanization_: 3.64% annual rate of change (2020-25 est.)<br>
 
 **Major urban areas - population**<br>
-2.049 million CONAKRY (capital) (2022)<br>
+2.111 million CONAKRY (capital) (2023)<br>
 
 **Sex ratio**<br>
 _at birth_: 1.03 male(s)/female<br>
@@ -722,8 +722,8 @@ the International Maritime Bureau reports the territorial and offshore waters in
 <p>Sierra Leone considers Guinea's definition of the flood plain limits to define the left bank boundary of the Makona and Moa Rivers excessive and protests Guinea's continued occupation of these lands, including the hamlet of Yenga, occupied since 1998</p><br>
 
 **Trafficking in persons**<br>
-_current situation_: Guinea is a source, transit, and, to a lesser extent, a destination country for men, women, and children subjected to forced labor and sex trafficking; the majority of trafficking victims are Guinean children; Guinean girls are subjected to domestic servitude and commercial sexual exploitation, while boys are forced to beg, work as street vendors, shoe shiners, or miners; some Guinean children are forced to mine in Senegal, Mali, and possibly other West African countries; Guinean women and girls are subjected to domestic servitude and sex trafficking in Nigeria, Cote d&rsquo;Ivoire, Benin, Senegal, Greece, and Spain, while Chinese and Vietnamese women are reportedly forced into prostitution in Guinea<br>
 _tier rating_: Tier 2 Watch List &mdash; Guinea does not fully meet the minimum standards for the elimination of trafficking; however it is making significant efforts to do so; the government&nbsp; drafted a new anti-trafficking action plan, provided support to eight victims exploited in the Middle East, and incorporated anti-trafficking training into the law enforcement curriculum; however, the government did not overall increase efforts compared to the last rating period; investigations and prosecutions of trafficking crimes decreased, victim identification was inadequate, and NGO&rsquo;s providing victim services did not receive government support; for the fourth year, resources for the anti-trafficking committee or the Office for the Protection of Gender, Children and Morals were inadequate; a Quranic teacher was not prosecuted for allegedly forcing child begging; Guinea was downgraded to Tier 2 Watch List (2020)<br>
+_trafficking profile_: Guinea is a source, transit, and, to a lesser extent, a destination country for men, women, and children subjected to forced labor and sex trafficking; the majority of trafficking victims are Guinean children; Guinean girls are subjected to domestic servitude and commercial sexual exploitation, while boys are forced to beg, work as street vendors, shoe shiners, or miners; some Guinean children are forced to mine in Senegal, Mali, and possibly other West African countries; Guinean women and girls are subjected to domestic servitude and sex trafficking in Nigeria, Cote d&rsquo;Ivoire, Benin, Senegal, Greece, and Spain, while Chinese and Vietnamese women are reportedly forced into prostitution in Guinea<br>
 
 **Illicit drugs**<br>
 NA<br>

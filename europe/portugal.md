@@ -127,11 +127,11 @@ _female_: 46.5 years (2020 est.)<br>
 concentrations are primarily along or near the Atlantic coast; both Lisbon and the second largest city, Porto, are coastal cities<br>
 
 **Urbanization**<br>
-_urban population_: 67.4% of total population (2022)<br>
+_urban population_: 67.9% of total population (2023)<br>
 _rate of urbanization_: 0.44% annual rate of change (2020-25 est.)<br>
 
 **Major urban areas - population**<br>
-2.986 million LISBON (capital), 1.320 million Porto (2022)<br>
+3.001 million LISBON (capital), 1.325 million Porto (2023)<br>
 
 **Sex ratio**<br>
 _at birth_: 1.05 male(s)/female<br>
@@ -255,7 +255,7 @@ _forest_: 37.8% (2018 est.)<br>
 _other_: 22.5% (2018 est.)<br>
 
 **Urbanization**<br>
-_urban population_: 67.4% of total population (2022)<br>
+_urban population_: 67.9% of total population (2023)<br>
 _rate of urbanization_: 0.44% annual rate of change (2020-25 est.)<br>
 
 **Revenue from forest resources**<br>
@@ -714,7 +714,7 @@ Islamic State of Iraq and ash-Sham (ISIS)<br>
 <p><em>Portugal-Spain</em>: Portugal does not recognize Spanish sovereignty over the territory of Olivenza based on a difference of interpretation of the 1815 Congress of Vienna and the 1801 Treaty of Badajoz</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 52,970 (Ukraine) (as of 3 October 2022)<br>
+_refugees (country of origin)_: 56,236 (Ukraine) (as of 20 October 2022)<br>
 _stateless persons_: 45 (mid-year 2021)<br>
 
 **Illicit drugs**<br>

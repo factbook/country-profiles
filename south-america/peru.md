@@ -140,11 +140,11 @@ _female_: 29.9 years (2020 est.)<br>
 approximately one-third of the population resides along the desert coastal belt in the west, with a strong focus on the capital city of Lima; the Andean highlands, or sierra, which is strongly identified with the country's Amerindian population, contains roughly half of the overall population; the eastern slopes of the Andes, and adjoining rainforest, are sparsely populated<br>
 
 **Urbanization**<br>
-_urban population_: 78.7% of total population (2022)<br>
+_urban population_: 78.9% of total population (2023)<br>
 _rate of urbanization_: 1.33% annual rate of change (2020-25 est.)<br>
 
 **Major urban areas - population**<br>
-11.045 million LIMA (capital), 947,000 Arequipa, 891,000 Trujillo (2022)<br>
+11.204 million LIMA (capital), 959,000 Arequipa, 904,000 Trujillo (2023)<br>
 
 **Sex ratio**<br>
 _at birth_: 1.05 male(s)/female<br>
@@ -279,7 +279,7 @@ _forest_: 53% (2018 est.)<br>
 _other_: 28.2% (2018 est.)<br>
 
 **Urbanization**<br>
-_urban population_: 78.7% of total population (2022)<br>
+_urban population_: 78.9% of total population (2023)<br>
 _rate of urbanization_: 1.33% annual rate of change (2020-25 est.)<br>
 
 **Revenue from forest resources**<br>

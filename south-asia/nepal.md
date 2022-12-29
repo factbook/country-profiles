@@ -134,7 +134,7 @@ _urban population_: 21.9% of total population (2023)<br>
 _rate of urbanization_: 3.09% annual rate of change (2020-25 est.)<br>
 
 **Major urban areas - population**<br>
-1.521 million KATHMANDU (capital) (2022)<br>
+1.571 million KATHMANDU (capital) (2023)<br>
 
 **Sex ratio**<br>
 _at birth_: 1.06 male(s)/female<br>

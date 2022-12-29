@@ -139,11 +139,11 @@ _female_: 37.3 years (2020 est.)<br>
 most of the country's population resides in the southern half of the country; approximately 80% of the populace is urban, living in towns or cities; nearly half of the population lives in and around the capital of Montevideo<br>
 
 **Urbanization**<br>
-_urban population_: 95.7% of total population (2022)<br>
+_urban population_: 95.8% of total population (2023)<br>
 _rate of urbanization_: 0.4% annual rate of change (2020-25 est.)<br>
 
 **Major urban areas - population**<br>
-1.767 million MONTEVIDEO (capital) (2022)<br>
+1.774 million MONTEVIDEO (capital) (2023)<br>
 
 **Sex ratio**<br>
 _at birth_: 1.04 male(s)/female<br>
@@ -265,7 +265,7 @@ _forest_: 10.2% (2018 est.)<br>
 _other_: 2.6% (2018 est.)<br>
 
 **Urbanization**<br>
-_urban population_: 95.7% of total population (2022)<br>
+_urban population_: 95.8% of total population (2023)<br>
 _rate of urbanization_: 0.4% annual rate of change (2020-25 est.)<br>
 
 **Revenue from forest resources**<br>

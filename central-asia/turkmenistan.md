@@ -140,7 +140,7 @@ _urban population_: 54% of total population (2023)<br>
 _rate of urbanization_: 2.23% annual rate of change (2020-25 est.)<br>
 
 **Major urban areas - population**<br>
-883,000 ASHGABAT (capital) (2022)<br>
+902,000 ASHGABAT (capital) (2023)<br>
 
 **Sex ratio**<br>
 _at birth_: 1.05 male(s)/female<br>
@@ -699,8 +699,8 @@ the inventory for Turkmenistan's military is comprised largely of older Russian 
 _stateless persons_: 4,107 (mid-year 2021)<br>
 
 **Trafficking in persons**<br>
-_current situation_: Turkmenistan is a source, and to a much lesser degree, destination country for men, women, and children who are subjected to forced labor and sex trafficking; Turkmen in search of work in other countries are forced to work in textile sweatshops, construction, and domestic service; some Turkmen women and girls are sex trafficked abroad; Turkey is the primary trafficking destination, followed by Russia, India, and other countries in the Middle East, South and Central Asia, and Europe; labor trafficking occurs within Turkmenistan, particularly in the construction industry; government officials require employees in private sector institutions, soldiers, and public sector workers to pick cotton without payment under the threat of penalty, such as dismissal, reduced work hours, or salary deductions to meet government-imposed quotas for the cotton harvest<br>
 _tier rating_: Tier 3 &mdash; Turkmenistan does not fully meet the minimum standards for the elimination of trafficking and is not making significant efforts to do so; the government approved the 2020-2022 national action plan, continued anti-trafficking awareness campaigns, worked with international organizations on combating trafficking, provided training to its diplomatic corps on human trafficking, and identified potential trafficking victims at the international airport; however, the &nbsp;government used forced labor in the cotton harvest and public works projects; no officials were held accountable for their role in trafficking crimes; authorities did not prosecute or convict any traffickers; no victims were identified and offered protection or assistance programs (2020)<br>
+_trafficking profile_: Turkmenistan is a source, and to a much lesser degree, destination country for men, women, and children who are subjected to forced labor and sex trafficking; Turkmen in search of work in other countries are forced to work in textile sweatshops, construction, and domestic service; some Turkmen women and girls are sex trafficked abroad; Turkey is the primary trafficking destination, followed by Russia, India, and other countries in the Middle East, South and Central Asia, and Europe; labor trafficking occurs within Turkmenistan, particularly in the construction industry; government officials require employees in private sector institutions, soldiers, and public sector workers to pick cotton without payment under the threat of penalty, such as dismissal, reduced work hours, or salary deductions to meet government-imposed quotas for the cotton harvest<br>
 
 **Illicit drugs**<br>
 <p>transit country for Afghan opiates to Turkish, Russian, and European markets, either directly from Afghanistan or through Iran; not a major producer or source country for illegal drugs or precursor chemicals</p> <p> </p><br>

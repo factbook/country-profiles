@@ -143,7 +143,7 @@ _urban population_: 47.4% of total population (2023)<br>
 _rate of urbanization_: 4.33% annual rate of change (2020-25 est.)<br>
 
 **Major urban areas - population**<br>
-15.628 million KINSHASA (capital), 2.765 million Mbuji-Mayi, 2.695 million Lubumbashi, 1.593 million Kananga, 1.366 million Kisangani, 1.190 million Bukavu (2022)<br>
+16.316 million KINSHASA (capital), 2.892 million Mbuji-Mayi, 2.812 million Lubumbashi, 1.664 million Kananga, 1.423 million Kisangani, 1.249 million Bukavu (2023)<br>
 
 **Sex ratio**<br>
 _at birth_: 1.03 male(s)/female<br>
@@ -756,8 +756,8 @@ _refugees (country of origin)_: 212,120 (Central African Republic), 209,798 (Rwa
 _IDPs_: 5.53 million (fighting between government forces and rebels since mid-1990s; conflict in Kasai region since 2016) (2022)<br>
 
 **Trafficking in persons**<br>
-_current situation_: human traffickers exploit domestic and foreign victims in Democratic Republic of the Congo and Congolese abroad; most trafficking is internal and involves the forced labor of men, women, and children in artisanal mining, agriculture, domestic servitude, sex trafficking, or child recruitment by armed groups; some traffickers are family members or others who promise victims or victims&rsquo; families educational or job opportunities and instead force victims to work as domestic servants, street vendors, gang members, or in commercial sex; some Congolese women and girls who migrate to other countries in Africa or the Middle East are exploited in sex trafficking or forced labor in agriculture, diamond mines, or domestic service; they may be fraudulently recruited by traffickers with false promises of jobs or education<br>
 _tier rating_: <p>Tier 2 Watch List — The Democratic Republic of the Congo (DRC) does not fully meet the minimum standards for the elimination of trafficking but is making significant efforts to do so; the DRC was upgraded to Tier 2 Watch List because of several accomplishments; the government drafted and launched its first national anti-trafficking action plan; authorities increased law enforcement efforts, including investigating and prosecuting more trafficking crimes; a number of traffickers were convicted, including a high-ranking army officer and the leader of an armed group; however, authorities continued to lack standard operating procedures for identifying victims and referring them to care; there were credible allegations that the army abducted women and girls for sexual slavery and recruited and used child soldiers (2020)</p><br>
+_trafficking profile_: human traffickers exploit domestic and foreign victims in Democratic Republic of the Congo and Congolese abroad; most trafficking is internal and involves the forced labor of men, women, and children in artisanal mining, agriculture, domestic servitude, sex trafficking, or child recruitment by armed groups; some traffickers are family members or others who promise victims or victims&rsquo; families educational or job opportunities and instead force victims to work as domestic servants, street vendors, gang members, or in commercial sex; some Congolese women and girls who migrate to other countries in Africa or the Middle East are exploited in sex trafficking or forced labor in agriculture, diamond mines, or domestic service; they may be fraudulently recruited by traffickers with false promises of jobs or education<br>
 
 **Illicit drugs**<br>
 country of origin of methamphetamine destined for overseas markets<br>

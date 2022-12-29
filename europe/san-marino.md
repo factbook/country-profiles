@@ -116,7 +116,7 @@ _female_: 46.3 years (2020 est.)<br>
 6.11 migrant(s)/1,000 population (2022 est.)<br>
 
 **Urbanization**<br>
-_urban population_: 97.7% of total population (2022)<br>
+_urban population_: 97.8% of total population (2023)<br>
 _rate of urbanization_: 0.41% annual rate of change (2020-25 est.)<br>
 
 **Major urban areas - population**<br>
@@ -224,7 +224,7 @@ _forest_: 0% (2018 est.)<br>
 _other_: 83.3% (2018 est.)<br>
 
 **Urbanization**<br>
-_urban population_: 97.7% of total population (2022)<br>
+_urban population_: 97.8% of total population (2023)<br>
 _rate of urbanization_: 0.41% annual rate of change (2020-25 est.)<br>
 
 **Revenue from forest resources**<br>
@@ -283,17 +283,17 @@ _residency requirement for naturalization_: 30 years<br>
 18 years of age; universal<br>
 
 **Executive branch**<br>
-_chief of state_: co-chiefs of state Captain Regent Oscar MONA and Captain Regent Paolo RONDELLI (for the period 1 April 2022 - 1 October 2022)<br>
+_chief of state_: co-chiefs of state Captain Regent Maria Luisa BERTI and Captain Manuel CIAVATTA (for the period 1 October 2022 - 1 April 2023)<br>
 _head of government_: Secretary of State for Foreign and Political Affairs Luca BECCARI (since 8 January 2020)<br>
 _cabinet_: Congress of State elected by the Grand and General Council<br>
-_elections/appointments_: co-chiefs of state (captains regent) indirectly elected by the Grand and General Council for a single 6-month term; election last held in September 2021 (next to be held in March 2022); secretary of state for foreign and political affairs indirectly elected by the Grand and General Council for a single 5-year term; election last held on 28 December 2019 (next to be held by November 2024)<br>
-_election results_: Oscar MINA (PDCS) and Paolo RONDELLI (RETE) elected captains regent; percent of Grand and General Council vote - NA; Luca BECCARI (PDCS) elected secretary of state for foreign and political affairs; percent of Grand and General Council vote - NA<br>
+_elections/appointments_: co-chiefs of state (captains regent) indirectly elected by the Grand and General Council for a single 6-month term; election last held in September 2022 (next to be held in March 2023); secretary of state for foreign and political affairs indirectly elected by the Grand and General Council for a single 5-year term; election last held on 28 December 2019 (next to be held by November 2024)<br>
+_election results_: Maria Luisa BERTI and Manuel CIAVATTA elected captains regent; percent of Grand and General Council vote - NA; Luca BECCARI (PDCS) elected secretary of state for foreign and political affairs; percent of Grand and General Council vote - NA<br>
 <strong>note:</strong> the captains regent preside over meetings of the Grand and General Council and its cabinet (Congress of State), which has 7 other members who are selected by the Grand and General Council; assisting the captains regent are 7 secretaries of state; the secretary of state for Foreign Affairs has some prime ministerial roles<br>
 
 **Legislative branch**<br>
 _description_: unicameral Grand and General Council or Consiglio Grande e Generale (60 seats; members directly elected in single- and multi-seat constituencies by list proportional representation vote in 2 rounds if needed; members serve 5-year terms)<br>
 _elections_: last held on 8 December 2019 (next to be held by 31 December 2024)<br>
-_election results_: percent of vote by coalition/party - PDCS 35%, Tomorrow in Movement coalition 25% (RETE Movement 18.3%, Domani - Motus Liberi 6.7%), Free San Marino 16.7%, We for the Republic 13.3%, Future Republic 10%; seats by coalition/party - PDCS 21, Tomorrow in Movement coalition 15 (RETE Movement 11, Domani - Motus Liberi 4), Free San Marino 10, We for the Republic 8, Future Republic 6; composition (as of October 2021) - men 40, women 20, percent of women 33.3%<br>
+_election results_: percent of vote by coalition/party - PDCS 35%, Tomorrow in Movement coalition 25% (RETE Movement 18.3%, DML 6.7%), Liberia 16.7%, We for the Republic 13.3%, RF 10%; seats by coalition/party - PDCS 21, Tomorrow in Movement coalition 15 (RETE Movement 11, DML 4), Liberia 10, We for the Republic 8, RF 6; composition (as of September 2022) - men 40, women 20, percent of women 33.3%<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Council of Twelve or Consiglio dei XII (consists of 12 members); note - the College of Guarantors for the Constitutionality and General Norms functions as San Marino's constitutional court<br>
@@ -334,7 +334,7 @@ _selected World Heritage Site locales_: San Marino Historic Center and Mount Tit
 ## Economy
 
 **Economic overview**<br>
-<p>San Marino's economy relies heavily on tourism, banking, and the manufacture and export of ceramics, clothing, fabrics, furniture, paints, spirits, tiles, and wine. The manufacturing and financial sectors account for more than half of San Marino's GDP. The per capita level of output and standard of living are comparable to those of the most prosperous regions of Italy.</p> <p> </p> <p>San Marino's economy contracted considerably in the years since 2008, largely due to weakened demand from Italy - which accounts for nearly 90% of its export market - and financial sector consolidation. Difficulties in the banking sector, the global economic downturn, and the sizable decline in tax revenues all contributed to negative real GDP growth. The government adopted measures to counter the downturn, including subsidized credit to businesses and is seeking to shift its growth model away from a reliance on bank and tax secrecy. San Marino does not issue public debt securities; when necessary, it finances deficits by drawing down central bank deposits.</p> <p> </p> <p>The economy benefits from foreign investment due to its relatively low corporate taxes and low taxes on interest earnings. The income tax rate is also very low, about one-third the average EU level. San Marino continues to work towards harmonizing its fiscal laws with EU and international standards. In September 2009, the OECD removed San Marino from its list of tax havens that have yet to fully adopt global tax standards, and in 2010 San Marino signed Tax Information Exchange Agreements with most major countries. In 2013, the San Marino Government signed a Double Taxation Agreement with Italy, but a referendum on EU membership failed to reach the quorum needed to bring it to a vote.</p><br>
+<p>San Marino's economy relies heavily on tourism, banking, and the manufacture and export of ceramics, clothing, fabrics, furniture, paints, spirits, tiles, and wine. The manufacturing and financial sectors account for more than half of San Marino's GDP. The per capita level of output and standard of living are comparable to those of the most prosperous regions of Italy.</p> <p>San Marino's economy contracted considerably in the years since 2008, largely due to weakened demand from Italy - which accounts for nearly 90% of its export market - and financial sector consolidation. Difficulties in the banking sector, the global economic downturn, and the sizable decline in tax revenues all contributed to negative real GDP growth. The government adopted measures to counter the downturn, including subsidized credit to businesses and is seeking to shift its growth model away from a reliance on bank and tax secrecy. San Marino does not issue public debt securities; when necessary, it finances deficits by drawing down central bank deposits.</p> <p>The economy benefits from foreign investment due to its relatively low corporate taxes and low taxes on interest earnings. The income tax rate is also very low, about one-third the average EU level. San Marino continues to work towards harmonizing its fiscal laws with EU and international standards. In September 2009, the OECD removed San Marino from its list of tax havens that have yet to fully adopt global tax standards, and in 2010 San Marino signed Tax Information Exchange Agreements with most major countries. In 2013, the San Marino Government signed a Double Taxation Agreement with Italy, but a referendum on EU membership failed to reach the quorum needed to bring it to a vote.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
 $2.06 billion (2019 est.)<br>
@@ -435,7 +435,7 @@ $3.827 billion (2011 est.)<br>
 $2.576 billion (2010 est.)<br>
 
 **Exports - partners**<br>
-Romania 10%, France 9%, United States 8%, Germany 8%, Poland 6%, Brazil 6%, Russia 6%, Austria 6% (2019)<br>
+Romania 10%, France 9%, Germany 8%, United States 8%, Austria 6%, Brazil 6%, Poland 6%, Russia 6%, (2019)<br>
 
 **Exports - commodities**<br>
 industrial washing/bottling machinery, packaged medicines, woodworking machinery, foodstuffs, aircraft (2019)<br>

@@ -137,7 +137,7 @@ _urban population_: 14.8% of total population (2023)<br>
 _rate of urbanization_: 5.43% annual rate of change (2020-25 est.)<br>
 
 **Major urban areas - population**<br>
-1.139 million BUJUMBURA (capital) (2022)<br>
+1.207 million BUJUMBURA (capital) (2023)<br>
 
 **Sex ratio**<br>
 _at birth_: 1.03 male(s)/female<br>

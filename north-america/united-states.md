@@ -146,11 +146,11 @@ _female_: 39.8 years (2020 est.)<br>
 large urban clusters are spread throughout the eastern half of the US (particularly the Great Lakes area, northeast, east, and southeast) and the western tier states; mountainous areas, principally the Rocky Mountains and Appalachian chain, deserts in the southwest, the dense boreal forests in the extreme north, and the central prarie states are less densely populated; Alaska's population is concentrated along its southern coast - with particular emphasis on the city of Anchorage - and Hawaii's is centered on the island of Oahu<br>
 
 **Urbanization**<br>
-_urban population_: 83.1% of total population (2022)<br>
+_urban population_: 83.3% of total population (2023)<br>
 _rate of urbanization_: 0.96% annual rate of change (2020-25 est.)<br>
 
 **Major urban areas - population**<br>
-18.867 million New York-Newark, 12.488 million Los Angeles-Long Beach-Santa Ana, 8.901 million Chicago, 6.603 million Houston, 6.488 million Dallas-Fort Worth, 5.434 million WASHINGTON, D.C. (capital) (2022)<br>
+18.937 million New York-Newark, 12.534 million Los Angeles-Long Beach-Santa Ana, 8.937 million Chicago, 6.707 million Houston, 6.574 million Dallas-Fort Worth, 5.490 million WASHINGTON, D.C. (capital) (2023)<br>
 
 **Sex ratio**<br>
 _at birth_: 1.05 male(s)/female NA<br>
@@ -274,7 +274,7 @@ _forest_: 33.3% (2018 est.)<br>
 _other_: 22.2% (2018 est.)<br>
 
 **Urbanization**<br>
-_urban population_: 83.1% of total population (2022)<br>
+_urban population_: 83.3% of total population (2023)<br>
 _rate of urbanization_: 0.96% annual rate of change (2020-25 est.)<br>
 
 **Revenue from forest resources**<br>
@@ -711,7 +711,7 @@ _cargo ports_: Baton Rouge, Corpus Christi, Hampton Roads, Houston, Long Beach, 
 _cruise departure ports (passengers)_: Miami, Port Everglades, Port Canaveral, Seattle, Long Beach<br>
 
 **Transportation - note**<br>
-the US operates one PC 1 or 2 class heavy icebreaker, two PC 3 or 4 class medium icebreakers, and two PC 5 or 6 class light icebreakers; the heavy and medium icebreakers carry out various polar missions including opening passage for the annual resupply of McMurdo Station in Antarctica<br>note - PC 1 - year-round operation in all polar waters (ice thickness &gt;3 m); PC 2 - year-round operation in moderate multi-year ice conditions (ice thickness up to 3 m); PC 3 - year-round operation in second-year ice which may include multi-year ice inclusions (ice thickness up to 2.5 m); PC 4 - year-round operation in thick first-year ice which may include old ice inclusions (ice thickness up to 120 cm); PC 5 - year-round operation in medium first-year ice which may include old ice inclusions (ice thickness up to 70-120 cm); PC 6 -  summer/autumn operation in medium first-year ice which may include old ice inclusions (ice thickness up to 30-70 cm)<br>
+the US operates one PC 1 or 2 class heavy icebreaker, two PC 3 or 4 class medium icebreakers, and two PC 5 or 6 class light icebreakers; the heavy and medium icebreakers carry out various polar missions including opening passage for the annual resupply of McMurdo Station in Antarctica<br>note - PC indicates a Polar Class vessel: PC 1 - year-round operation in all polar waters (ice thickness &gt;3 m); PC 2 - year-round operation in moderate multi-year ice conditions (ice thickness up to 3 m); PC 3 - year-round operation in second-year ice which may include multi-year ice inclusions (ice thickness up to 2.5 m); PC 4 - year-round operation in thick first-year ice which may include old ice inclusions (ice thickness up to 120 cm); PC 5 - year-round operation in medium first-year ice which may include old ice inclusions (ice thickness up to 70-120 cm); PC 6 -  summer/autumn operation in medium first-year ice which may include old ice inclusions (ice thickness up to 30-70 cm)<br>
 
 ## Military and Security
 

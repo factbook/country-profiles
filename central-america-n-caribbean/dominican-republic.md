@@ -135,7 +135,7 @@ _urban population_: 84.4% of total population (2023)<br>
 _rate of urbanization_: 1.64% annual rate of change (2020-25 est.)<br>
 
 **Major urban areas - population**<br>
-3.458 million SANTO DOMINGO (capital) (2022)<br>
+3.524 million SANTO DOMINGO (capital) (2023)<br>
 
 **Sex ratio**<br>
 _at birth_: 1.04 male(s)/female<br>

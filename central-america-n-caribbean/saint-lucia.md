@@ -123,7 +123,7 @@ _female_: 38 years (2020 est.)<br>
 most of the population is found on the periphery of the island, with a larger concentration in the north around the capital of Castries<br>
 
 **Urbanization**<br>
-_urban population_: 19% of total population (2022)<br>
+_urban population_: 19.2% of total population (2023)<br>
 _rate of urbanization_: 0.98% annual rate of change (2020-25 est.)<br>
 
 **Major urban areas - population**<br>
@@ -242,7 +242,7 @@ _forest_: 77% (2018 est.)<br>
 _other_: 5.6% (2018 est.)<br>
 
 **Urbanization**<br>
-_urban population_: 19% of total population (2022)<br>
+_urban population_: 19.2% of total population (2023)<br>
 _rate of urbanization_: 0.98% annual rate of change (2020-25 est.)<br>
 
 **Revenue from forest resources**<br>

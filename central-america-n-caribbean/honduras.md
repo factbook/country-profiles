@@ -136,7 +136,7 @@ _urban population_: 60.2% of total population (2023)<br>
 _rate of urbanization_: 2.48% annual rate of change (2020-25 est.)<br>
 
 **Major urban areas - population**<br>
-1.527 million TEGUCIGALPA (capital), 956,000 San Pedro Sula (2022)<br>
+1.568 million TEGUCIGALPA (capital), 982,000 San Pedro Sula (2023)<br>
 
 **Sex ratio**<br>
 _at birth_: 1.03 male(s)/female<br>

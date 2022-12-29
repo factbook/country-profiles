@@ -123,7 +123,7 @@ _female_: 23.7 years (2020 est.)<br>
 most of the population lives along the coastal regions; about one in five live in urban areas, and of these some two-thirds reside in Honiara, the largest town and chief port<br>
 
 **Urbanization**<br>
-_urban population_: 25.6% of total population (2022)<br>
+_urban population_: 26% of total population (2023)<br>
 _rate of urbanization_: 3.57% annual rate of change (2020-25 est.)<br>
 
 **Major urban areas - population**<br>
@@ -251,7 +251,7 @@ _forest_: 78.9% (2018 est.)<br>
 _other_: 17.2% (2018 est.)<br>
 
 **Urbanization**<br>
-_urban population_: 25.6% of total population (2022)<br>
+_urban population_: 26% of total population (2023)<br>
 _rate of urbanization_: 3.57% annual rate of change (2020-25 est.)<br>
 
 **Revenue from forest resources**<br>

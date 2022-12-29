@@ -147,7 +147,7 @@ _urban population_: 87.8% of total population (2023)<br>
 _rate of urbanization_: 0.87% annual rate of change (2020-25 est.)<br>
 
 **Major urban areas - population**<br>
-22.430 million Sao Paulo, 13.634 million Rio de Janeiro, 6.194 million Belo Horizonte, 4.804 million BRASILIA (capital), 4.220 million Recife, 4.185 million Porto Alegre (2022)<br>
+22.620 million Sao Paulo, 13.728 million Rio de Janeiro, 6.248 million Belo Horizonte, 4.873 million BRASILIA (capital), 4.264 million Recife, 4.212 million Porto Alegre (2023)<br>
 
 **Sex ratio**<br>
 _at birth_: 1.05 male(s)/female<br>

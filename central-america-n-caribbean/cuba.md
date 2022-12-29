@@ -132,7 +132,7 @@ _urban population_: 77.5% of total population (2023)<br>
 _rate of urbanization_: 0.19% annual rate of change (2020-25 est.)<br>
 
 **Major urban areas - population**<br>
-2.146 million HAVANA (capital) (2022)<br>
+2.149 million HAVANA (capital) (2023)<br>
 
 **Sex ratio**<br>
 _at birth_: 1.06 male(s)/female<br>
@@ -698,8 +698,8 @@ the FAR has a large role in the Cuban economy through several military owned and
 <p>US Naval Base at Guantanamo Bay is leased to US and only mutual agreement or US abandonment of the facility can terminate the lease</p><br>
 
 **Trafficking in persons**<br>
-_current situation_: human traffickers exploit domestic and foreign victims in Cuba and Cubans abroad; individuals are forced or coerced into participating and threatened to stay in labor export programs, most notably foreign medical missions; sex trafficking and sex tourism occur within Cuba; traffickers exploit Cubans in sex trafficking and forced labor in South America, the Caribbean, Asia, Africa, the Mediterranean, and the US; foreigners from Africa and Asia are subject to sex trafficking and forced labor in Cuba to pay off travel debts; the government uses high school students in some rural areas to harvest crops without pay, claiming that the work is voluntary<br>
 _tier rating_: <p>Tier 3 — Cuba does not fully meet the minimum standards for the elimination of trafficking and is not making significant efforts to do so; the government made some efforts to investigate, prosecute, and convict sex traffickers and sex tourists and identified and provided assistance to some victims; however, no efforts were made to address forced labor; there was a government policy or pattern to profit from labor export programs with strong indications of forced labor, particularly in foreign medical missions; authorities did not protect potential trafficking victims, leaving them at risk of being detained or charged for crimes their traffickers forced them to commit (2020)</p><br>
+_trafficking profile_: human traffickers exploit domestic and foreign victims in Cuba and Cubans abroad; individuals are forced or coerced into participating and threatened to stay in labor export programs, most notably foreign medical missions; sex trafficking and sex tourism occur within Cuba; traffickers exploit Cubans in sex trafficking and forced labor in South America, the Caribbean, Asia, Africa, the Mediterranean, and the US; foreigners from Africa and Asia are subject to sex trafficking and forced labor in Cuba to pay off travel debts; the government uses high school students in some rural areas to harvest crops without pay, claiming that the work is voluntary<br>
 
 **Illicit drugs**<br>
 <p>Cuba is not a major consumer, producer, or transit point of illicit drugs; strict policing on smuggling, production and consumption; prescription drug abuse is increasing</p><br>

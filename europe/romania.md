@@ -133,11 +133,11 @@ _female_: 44 years (2020 est.)<br>
 urbanization is not particularly high, and a fairly even population distribution can be found throughout most of the country, with urban areas attracting larger and denser populations; Hungarians, the country's largest minority, have a particularly strong presence in eastern Transylvania<br>
 
 **Urbanization**<br>
-_urban population_: 54.5% of total population (2022)<br>
+_urban population_: 54.7% of total population (2023)<br>
 _rate of urbanization_: -0.15% annual rate of change (2020-25 est.)<br>
 
 **Major urban areas - population**<br>
-1.785 million BUCHAREST (capital) (2022)<br>
+1.776 million BUCHAREST (capital) (2023)<br>
 
 **Sex ratio**<br>
 _at birth_: 1.06 male(s)/female<br>
@@ -261,7 +261,7 @@ _forest_: 28.7% (2018 est.)<br>
 _other_: 10.6% (2018 est.)<br>
 
 **Urbanization**<br>
-_urban population_: 54.5% of total population (2022)<br>
+_urban population_: 54.7% of total population (2023)<br>
 _rate of urbanization_: -0.15% annual rate of change (2020-25 est.)<br>
 
 **Revenue from forest resources**<br>
@@ -722,7 +722,7 @@ Islamic State of Iraq and ash-Sham (ISIS)<br>
 <p><em>Romania-Bulgaria</em>: none identified</p> <p><em>Romania-Hungary</em>: none identified</p> <p><em>Romania-Moldova</em>: none identified</p> <p><em>Romania-Serbia</em>: none identified</p> <p><em>Romania-Ukraine</em>: the International Court of Justice ruled largely in favor of Romania in its dispute submitted in 2004 over Ukrainian-administered Zmiyinyy/Serpilor (Snake) Island and Black Sea maritime boundary delimitation; in 2007, Romania opposed Ukraine's construction of a navigation canal from the Danube border through Ukraine to the Black Sea, arguing that it runs through a unique ecological area, the Danube Delta</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 98,103 (Ukraine) (as of 4 December 2022)<br>
+_refugees (country of origin)_: 103,167 (Ukraine) (as of 18 December 2022)<br>
 _stateless persons_: 314 (mid-year 2021)<br>
 <strong>note:</strong> 11,961 estimated refugee and migrant arrivals (January 2015-November 2022)<br>
 

@@ -84,7 +84,7 @@ _adjective_: Norfolk Islander(s)<br>
 <strong>note:</strong> respondents were able to identify up to two ancestries; percentages represent a proportion of all responses from people in Norfolk Island, including those who did not identify an ancestry; only top responses are shown<br>
 
 **Languages**<br>
-English (official) 44.9%, Norfolk (also known as Norfuk or Norf'k, which is a mixture of 18th century English and ancient Tahitian) 40.3%, Fijian 1.8%, other 6.8%, unspecified 6.2% (2016 est.)<br>
+English (official) 44.9%, Norfolk (official; also known as Norfuk or Norf'k, which is a mixture of 18th century English and ancient Tahitian) 40.3%, Fijian 1.8%, other 6.8%, unspecified 6.2% (2016 est.)<br>
 <strong>note:</strong> data represent language spoken at home<br>
 
 **Religions**<br>

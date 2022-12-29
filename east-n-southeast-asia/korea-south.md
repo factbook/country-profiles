@@ -131,7 +131,7 @@ _urban population_: 81.5% of total population (2023)<br>
 _rate of urbanization_: 0.31% annual rate of change (2020-25 est.)<br>
 
 **Major urban areas - population**<br>
-9.976 million SEOUL (capital), 3.468 million Busan, 2.834 million Incheon, 2.185 million Daegu (Taegu), 1.573 million Daejon (Taejon), 1.526 million Gwangju (Kwangju) (2022)<br>
+9.988 million SEOUL (capital), 3.472 million Busan, 2.849 million Incheon, 2.181 million Daegu (Taegu), 1.577 million Daejon (Taejon), 1.529 million Gwangju (Kwangju) (2023)<br>
 
 **Sex ratio**<br>
 _at birth_: 1.05 male(s)/female<br>

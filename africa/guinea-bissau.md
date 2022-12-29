@@ -133,7 +133,7 @@ _urban population_: 45.5% of total population (2023)<br>
 _rate of urbanization_: 3.22% annual rate of change (2020-25 est.)<br>
 
 **Major urban areas - population**<br>
-643,000 BISSAU (capital) (2022)<br>
+664,000 BISSAU (capital) (2023)<br>
 
 **Sex ratio**<br>
 _at birth_: 1.03 male(s)/female<br>
@@ -671,8 +671,8 @@ from 2012-2020, the Economic Community of West Africa (ECOWAS) deployed a securi
 _refugees (country of origin)_: 7,757 (Senegal) (2022)<br>
 
 **Trafficking in persons**<br>
-_current situation_: Guinea-Bissau is a country of origin and destination for children subjected to forced labor and sex trafficking; the scope of the problem of trafficking women or men for forced labor or forced prostitution is unknown; boys reportedly were transported to southern Senegal for forced manual and agricultural labor; girls may be subjected to forced domestic service and child prostitution in Senegal and Guinea; both boys and girls are forced to work as street vendors in cities in Guinea-Bissau and Senegal<br>
 _tier rating_: Tier 2 Watch List &mdash; Guinea-Bissau does not fully meet the minimum standards for the elimination of trafficking but is making significant efforts to do so; efforts include identifying forced child begging victims, cooperating with Moroccan authorities on international crime investigations, and approving a new action plan; yet, the government has not convicted a trafficker, identified fewer trafficking victims, and lacked resources or the political will to fight trafficking or to enact its action plan, which would meet minimum standards; Guinea-Bissau was granted a waiver under the Trafficking Victims Protection Act from downgrade to Tier 3 (2020)<br>
+_trafficking profile_: Guinea-Bissau is a country of origin and destination for children subjected to forced labor and sex trafficking; the scope of the problem of trafficking women or men for forced labor or forced prostitution is unknown; boys reportedly were transported to southern Senegal for forced manual and agricultural labor; girls may be subjected to forced domestic service and child prostitution in Senegal and Guinea; both boys and girls are forced to work as street vendors in cities in Guinea-Bissau and Senegal<br>
 
 **Illicit drugs**<br>
 important transit country for South American cocaine en route to Europe; enabling environment for trafficker operations due to pervasive corruption; archipelago-like geography near the capital facilitates drug smuggling<br>

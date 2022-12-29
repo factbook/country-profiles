@@ -141,7 +141,7 @@ _urban population_: 54.9% of total population (2023)<br>
 _rate of urbanization_: 3.64% annual rate of change (2020-25 est.)<br>
 
 **Major urban areas - population**<br>
-461,000 WINDHOEK (capital) (2022)<br>
+477,000 WINDHOEK (capital) (2023)<br>
 
 **Sex ratio**<br>
 _at birth_: 1.03 male(s)/female<br>

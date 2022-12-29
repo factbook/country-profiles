@@ -135,11 +135,11 @@ _female_: 29.9 years (2020 est.)<br>
 most of the population resides in the eastern half of the country; to the west lies the Gran Chaco (a semi-arid lowland plain), which accounts for 60% of the land territory, but only 2% of the overall population<br>
 
 **Urbanization**<br>
-_urban population_: 62.8% of total population (2022)<br>
+_urban population_: 63.1% of total population (2023)<br>
 _rate of urbanization_: 1.64% annual rate of change (2020-25 est.)<br>
 
 **Major urban areas - population**<br>
-3.452 million ASUNCION (capital) (2022)<br>
+3.511 million ASUNCION (capital) (2023)<br>
 
 **Sex ratio**<br>
 _at birth_: 1.05 male(s)/female<br>
@@ -268,7 +268,7 @@ _forest_: 43.8% (2018 est.)<br>
 _other_: 2.4% (2018 est.)<br>
 
 **Urbanization**<br>
-_urban population_: 62.8% of total population (2022)<br>
+_urban population_: 63.1% of total population (2023)<br>
 _rate of urbanization_: 1.64% annual rate of change (2020-25 est.)<br>
 
 **Revenue from forest resources**<br>

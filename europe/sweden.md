@@ -131,11 +131,11 @@ _female_: 42.1 years (2020 est.)<br>
 most Swedes live in the south where the climate is milder and there is better connectivity to mainland Europe; population clusters are found all along the Baltic coast in the east; the interior areas of the north remain sparsely populated<br>
 
 **Urbanization**<br>
-_urban population_: 88.5% of total population (2022)<br>
+_urban population_: 88.7% of total population (2023)<br>
 _rate of urbanization_: 0.89% annual rate of change (2020-25 est.)<br>
 
 **Major urban areas - population**<br>
-1.659 million STOCKHOLM (capital) (2022)<br>
+1.700 million STOCKHOLM (capital) (2023)<br>
 
 **Sex ratio**<br>
 _at birth_: 1.06 male(s)/female<br>
@@ -259,7 +259,7 @@ _forest_: 68.7% (2018 est.)<br>
 _other_: 23.8% (2018 est.)<br>
 
 **Urbanization**<br>
-_urban population_: 88.5% of total population (2022)<br>
+_urban population_: 88.7% of total population (2023)<br>
 _rate of urbanization_: 0.89% annual rate of change (2020-25 est.)<br>
 
 **Revenue from forest resources**<br>
@@ -718,6 +718,6 @@ Islamic State of Iraq and ash-Sham (ISIS)<br>
 <p>none identified</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 114,995 (Syria), 28,744 (Afghanistan), 26,911 (Eritrea), 11,574 (Somalia), 11,153 (Iraq), 7,516 (Iran) (2020); 49,181 (Ukraine) (as of 6 December 2022)<br>
+_refugees (country of origin)_: 114,995 (Syria), 28,744 (Afghanistan), 26,911 (Eritrea), 11,574 (Somalia), 11,153 (Iraq), 7,516 (Iran) (2020); 49,789 (Ukraine) (as of 20 December 2022)<br>
 _stateless persons_: 50,098 (mid-year 2021); note - the majority of stateless people are from the Middle East and Somalia<br>
 

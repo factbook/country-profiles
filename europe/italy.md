@@ -132,7 +132,7 @@ _urban population_: 72% of total population (2023)<br>
 _rate of urbanization_: 0.27% annual rate of change (2020-25 est.)<br>
 
 **Major urban areas - population**<br>
-4.298 million ROME (capital), 3.149 million Milan, 2.180 million Naples, 1.798 million Turin, 907,000 Bergamo, 850,000 Palermo (2022)<br>
+4.316 million ROME (capital), 3.155 million Milan, 2.179 million Naples, 1.802 million Turin, 913,000 Bergamo, 850,000 Palermo (2023)<br>
 
 **Sex ratio**<br>
 _at birth_: 1.06 male(s)/female<br>
@@ -714,7 +714,7 @@ the military's inventory includes a mix of domestically-produced, jointly-produc
 <strong>note:</strong> women may serve in any military branch; as of 2019, women made up about 6% of the military's full-time personnel<br>
 
 **Military deployments**<br>
-120 Djibouti; 900 Middle East/Iraq/Kuwait (NATO, European Assistance Mission Iraq); 640 Kosovo (NATO/KFOR); 250 Latvia (NATO); 875 Lebanon (UNIFIL); 400 Libya; 290 Niger; 250 Romania (NATO); 150 Somalia (EUTM) (2022)<br>
+120 Djibouti; approximately 700 Bulgaria (NATO); 900 Middle East/Iraq/Kuwait (NATO, European Assistance Mission Iraq); 640 Kosovo (NATO/KFOR); 250 Latvia (NATO); 875 Lebanon (UNIFIL); 400 Libya; 290 Niger; 250 Romania (NATO); 150 Somalia (EUTM) (2022)<br>
 <strong>note:</strong> in response to Russia’s invasion of Ukraine, some NATO countries, including Italy, have sent additional troops and equipment to the battlegroups deployed in NATO territory in eastern Europe<br>
 
 **Military - note**<br>
@@ -732,9 +732,9 @@ Islamic State of Iraq and ash-Sham (ISIS)<br>
 <p>Italy's long coastline and developed economy entices tens of thousands of illegal immigrants from southeastern Europe and northern Africa</p> <p><em>Italy-Austria-Switzerland</em>: borders are shifting because glacier peaks that had served as a natural boundary are melting</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 19,441 (Nigeria), 15,337 (Pakistan), 12,962 (Afghanistan), 10,609 (Mali), 7,901 (Somalia), 5,845 (Gambia), 5,079 (Iraq) (mid-year 2021); 173,231 (Ukraine) (as of 6 December 2022)<br>
+_refugees (country of origin)_: 19,441 (Nigeria), 15,337 (Pakistan), 12,962 (Afghanistan), 10,609 (Mali), 7,901 (Somalia), 5,845 (Gambia), 5,079 (Iraq) (mid-year 2021); 173,231 (Ukraine) (as of 20 December 2022)<br>
 _stateless persons_: 3,000 (mid-year 2021)<br>
-<strong>note:</strong> 686,097 estimated refugee and migrant arrivals (January 2015-December 2022)<br>
+<strong>note:</strong> 689,298 estimated refugee and migrant arrivals (January 2015-December 2022)<br>
 
 **Illicit drugs**<br>
 important gateway for drug trafficking; organized crime groups allied with Colombian and Spanish groups trafficking cocaine to Europe<br>

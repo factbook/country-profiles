@@ -128,7 +128,7 @@ _urban population_: 80.1% of total population (2023)<br>
 _rate of urbanization_: 0.65% annual rate of change (2020-25 est.)<br>
 
 **Major urban areas - population**<br>
-4.471 million New Taipei City, 2.742 million TAIPEI (capital), 2.296 million Taoyuan, 1.547 million Kaohsiung, 1.354 million Taichung, 863,000 Tainan (2022)<br>
+4.504 million New Taipei City, 2.754 million TAIPEI (capital), 2.319 million Taoyuan, 1.553 million Kaohsiung, 1.369 million Taichung, 863,000 Tainan (2023)<br>
 
 **Sex ratio**<br>
 _at birth_: 1.06 male(s)/female<br>
@@ -611,8 +611,8 @@ approximately 170,000 active duty troops (90,000 Army; 40,000 Navy, including ap
 the Taiwan military is armed mostly with second-hand weapons and equipment provided by the US; since 2010, the US has continued to be the largest provider of arms; Taiwan also has a domestic defense industry capable of building and upgrading a range of weapons systems, including surface ships and submarines (2022)<br>
 
 **Military service age and obligation**<br>
-starting with those born in 1994, men 18-36 years of age may volunteer for military service or must complete 4 months of compulsory military training (5 weeks of basic training followed by 11 weeks of specialized training with field units); civil service can be substituted for military service in some cases; men born before December 1993 are required to complete compulsory service for 12 months (military or civil); men are subject to training recalls up to four times for periods not to exceed 20 days for 8 years after discharge; women may enlist but are restricted to noncombat roles in most cases; as part of its transition to an all-volunteer military, the last cohort of 12-month military conscripts completed their service obligations in December 2018 (2022)<br>
-<strong>note:</strong> as of 2021, women made up about 15% of the active duty military<br>
+starting with those born in 1994, men 18-36 years of age may volunteer or must complete 4 months of compulsory military service; civil service can be substituted for military service in some cases; men born before December 1993 are required to complete compulsory service for 12 months (military or civil); men are subject to training recalls up to four times for periods not to exceed 20 days for 8 years after discharge; women may enlist but are restricted to noncombat roles in most cases; as part of its transition to an all-volunteer military, the last cohort of 12-month military conscripts completed their service obligations in December 2018 (2022)<br>
+<strong>note 1: </strong>compulsory service is 5 weeks of basic training followed by 11 weeks of specialized training with field units; in 2022, the Taiwan announced that compulsory service would be extended from 4 to 12 months beginning in January 2024<strong><br><br>note 2:</strong> as of 2021, women made up about 15% of the active-duty military<br>
 
 **Military - note**<br>
 the US Taiwan Relations Act of April 1979 states that the US shall provide Taiwan with arms of a defensive character and shall maintain the capacity of the US to resist any resort to force or other forms of coercion that would jeopardize the security, or social or economic system, of the people of Taiwan (2022)<br>

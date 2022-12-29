@@ -84,7 +84,8 @@ Andorran 48.3%, Spanish 24.8%, Portuguese 11.2%, French 4.5%, Argentine 1.4%, ot
 <strong>note:</strong> data represent population by nationality<br>
 
 **Languages**<br>
-Catalan (official), French, Castilian, Portuguese<br>
+Catalan (official) 35.7%, Castilian 43.2%, Portuguese 17.1%, French 8.9%, English 1.8%, other 5% (2018 est.)<br>
+<strong>note:</strong> data represent mother tongue<br>
 
 **Religions**<br>
 Christian (predominantly Roman Catholic) 89.5, other 8.8%, unaffiliated 1.7% (2020 est.)<br>

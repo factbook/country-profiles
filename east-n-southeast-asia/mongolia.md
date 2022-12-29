@@ -135,7 +135,7 @@ _urban population_: 69.1% of total population (2023)<br>
 _rate of urbanization_: 1.4% annual rate of change (2020-25 est.)<br>
 
 **Major urban areas - population**<br>
-1.645 million ULAANBAATAR (capital) (2022)<br>
+1.673 million ULAANBAATAR (capital) (2023)<br>
 
 **Sex ratio**<br>
 _at birth_: 1.05 male(s)/female<br>

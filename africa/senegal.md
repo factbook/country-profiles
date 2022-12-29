@@ -137,11 +137,11 @@ _female_: 20.3 years (2020 est.)<br>
 the population is concentrated in the west, with Dakar anchoring a well-defined core area; approximately 70% of the population is rural as shown in this population distribution map<br>
 
 **Urbanization**<br>
-_urban population_: 49.1% of total population (2022)<br>
+_urban population_: 49.6% of total population (2023)<br>
 _rate of urbanization_: 3.59% annual rate of change (2020-25 est.)<br>
 
 **Major urban areas - population**<br>
-3.326 million DAKAR (capital) (2022)<br>
+3.340 million DAKAR (capital) (2023)<br>
 
 **Sex ratio**<br>
 _at birth_: 1.05 male(s)/female<br>
@@ -277,7 +277,7 @@ _forest_: 43.8% (2018 est.)<br>
 _other_: 9.4% (2018 est.)<br>
 
 **Urbanization**<br>
-_urban population_: 49.1% of total population (2022)<br>
+_urban population_: 49.6% of total population (2023)<br>
 _rate of urbanization_: 3.59% annual rate of change (2020-25 est.)<br>
 
 **Revenue from forest resources**<br>
@@ -744,8 +744,8 @@ _refugees (country of origin)_: 11,490 (Mauritania) (2022)<br>
 _IDPs_: 8,400 (2021)<br>
 
 **Trafficking in persons**<br>
-_current situation_: Senegal is a source, transit, and destination country for children and women who are subjected to forced begging, forced labor, and sex trafficking; traffickers subject Senegalese children to forced labor in domestic service, mining, and prostitution; some Senegalese boys from Quranic schools and boys from The Gambia, Mali, Guinea-Bissau, and Guinea are forced to beg; Senegalese women and girls are forced into domestic servitude in neighboring countries, Europe, and the Middle East, while others are sexually exploited in Senegal; women and girls from other West African countries are subjected to domestic servitude and sexual exploitation in Senegal; Ukrainian and Chinese women are exploited for sex trafficking in bars and nightclubs; North Korean workers are forced to work in construction<br>
 _tier rating_: Tier 2 Watch List &mdash; Senegal does not fully meet the minimum standards for the elimination of trafficking but is making significant efforts to do so; efforts include establishing an anti-trafficking database; planning the third phase of its program to remove vulnerable children, including trafficking victims, from the streets of major cities; launching an emergency campaign to place vulnerable children and forced begging victims in shelters due to COVID 19 pandemic; however, the government rarely proactively investigated or prosecuted traffickers exploiting children in forced begging; authorities did not take action against officials who refused to investigate such cases; officials only applied adequate prison terms in accordance with the 2005 anti-trafficking law to two convicted traffickers; authorities did not identify any adult trafficking victims; government officials continued to have a limited knowledge of trafficking; Senegal was downgraded to Tier 2 Watch List (2020)<br>
+_trafficking profile_: Senegal is a source, transit, and destination country for children and women who are subjected to forced begging, forced labor, and sex trafficking; traffickers subject Senegalese children to forced labor in domestic service, mining, and prostitution; some Senegalese boys from Quranic schools and boys from The Gambia, Mali, Guinea-Bissau, and Guinea are forced to beg; Senegalese women and girls are forced into domestic servitude in neighboring countries, Europe, and the Middle East, while others are sexually exploited in Senegal; women and girls from other West African countries are subjected to domestic servitude and sexual exploitation in Senegal; Ukrainian and Chinese women are exploited for sex trafficking in bars and nightclubs; North Korean workers are forced to work in construction<br>
 
 **Illicit drugs**<br>
 <p>major transit point on the cocaine route from South America to Europe; the third-largest cannabis-producing country in West Africa</p><br>

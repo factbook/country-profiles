@@ -134,11 +134,11 @@ _female_: 20.6 years (2020 est.)<br>
 Aside from major urban agglomerations in Harare and Bulawayo, population distribution is fairly even, with slightly greater overall numbers in the eastern half as shown in this population distribution map<br>
 
 **Urbanization**<br>
-_urban population_: 32.4% of total population (2022)<br>
+_urban population_: 32.5% of total population (2023)<br>
 _rate of urbanization_: 2.41% annual rate of change (2020-25 est.)<br>
 
 **Major urban areas - population**<br>
-1.558 million HARARE (capital) (2022)<br>
+1.578 million HARARE (capital) (2023)<br>
 
 **Sex ratio**<br>
 _at birth_: 1.03 male(s)/female<br>
@@ -275,7 +275,7 @@ _forest_: 39.5% (2018 est.)<br>
 _other_: 18% (2018 est.)<br>
 
 **Urbanization**<br>
-_urban population_: 32.4% of total population (2022)<br>
+_urban population_: 32.5% of total population (2023)<br>
 _rate of urbanization_: 2.41% annual rate of change (2020-25 est.)<br>
 
 **Revenue from forest resources**<br>
@@ -723,8 +723,8 @@ the ZDF was formed after independence from the former Rhodesian Army and the two
 _refugees (country of origin)_: 11,613 (Democratic Republic of Congo) (refugees and asylum seekers), 9,871 (Mozambique) (2022)<br>
 
 **Trafficking in persons**<br>
-_current situation_: Zimbabwe is a source, transit, and destination country for men, women, and children subjected to forced labor and sex trafficking; Zimbabwean women and girls from towns bordering South Africa, Mozambique, and Zambia are subjected to forced labor, including domestic servitude, and prostitution catering to long-distance truck drivers; Zimbabwean men, women, and children experience forced labor in agriculture and domestic servitude in rural areas; family members may recruit children and other relatives from rural areas with promises of work or education in cities and towns where they end up in domestic servitude and sex trafficking; Zimbabwean women and men are lured into exploitative labor situations in South Africa and other neighboring countries<br>
 _tier rating_: Tier 3 - Zimbabwe does not fully comply with the minimum standards for the elimination of trafficking and is not making significant efforts to do so; the government passed an anti-trafficking law in 2014 defining trafficking in persons as a crime of transportation and failing to capture the key element of the international definition of human trafficking – the purpose of exploitation – which prevents the law from being comprehensive or consistent with the 2000 UN TIP Protocol that Zimbabwe acceded to in 2013; the government did not report on anti-trafficking law enforcement efforts during 2014, and corruption in law enforcement and the judiciary remain a concern; authorities made minimal efforts to identify and protect trafficking victims, relying on NGOs to identify and assist victims; Zimbabwe’s 2014 anti-trafficking law required the opening of 10 centers for trafficking victims, but none were established during the year; five existing shelters for vulnerable children and orphans may have accommodated child victims; in January 2015, an inter-ministerial anti-trafficking committee was established, but it is unclear if the committee ever met or initiated any activities (2015)<br>
+_trafficking profile_: Zimbabwe is a source, transit, and destination country for men, women, and children subjected to forced labor and sex trafficking; Zimbabwean women and girls from towns bordering South Africa, Mozambique, and Zambia are subjected to forced labor, including domestic servitude, and prostitution catering to long-distance truck drivers; Zimbabwean men, women, and children experience forced labor in agriculture and domestic servitude in rural areas; family members may recruit children and other relatives from rural areas with promises of work or education in cities and towns where they end up in domestic servitude and sex trafficking; Zimbabwean women and men are lured into exploitative labor situations in South Africa and other neighboring countries<br>
 
 **Illicit drugs**<br>
 <p>transit point for cannabis and South Asian heroin, methaqualone, and methamphetamines en route to South Africa</p><br>

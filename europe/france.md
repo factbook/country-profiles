@@ -150,7 +150,7 @@ _urban population_: 81.8% of total population (2023)<br>
 _rate of urbanization_: 0.67% annual rate of change (2020-25 est.)<br>
 
 **Major urban areas - population**<br>
-11.142 million PARIS (capital), 1.748 million Lyon, 1.620 million Marseille-Aix-en-Provence, 1.073 million Lille, 1.049 million Toulouse, 991,000 Bordeaux (2022)<br>
+11.208 million PARIS (capital), 1.761 million Lyon, 1.628 million Marseille-Aix-en-Provence, 1.079 million Lille, 1.060 million Toulouse, 1.000 million Bordeaux (2023)<br>
 
 **Sex ratio**<br>
 _at birth_: 1.05 male(s)/female<br>

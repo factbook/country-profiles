@@ -130,11 +130,11 @@ _female_: 20.3 years (2020 est.)<br>
 one of the more densely populated African nations with most of the population residing in rural communities, density is highest in the south on or near the Atlantic coast as shown in this population distribution map<br>
 
 **Urbanization**<br>
-_urban population_: 43.9% of total population (2022)<br>
+_urban population_: 44.5% of total population (2023)<br>
 _rate of urbanization_: 3.6% annual rate of change (2020-25 est.)<br>
 
 **Major urban areas - population**<br>
-1.926 million LOME (capital) (2022)<br>
+1.982 million LOME (capital) (2023)<br>
 
 **Sex ratio**<br>
 _at birth_: 1.03 male(s)/female<br>
@@ -272,7 +272,7 @@ _forest_: 4.9% (2018 est.)<br>
 _other_: 27.7% (2018 est.)<br>
 
 **Urbanization**<br>
-_urban population_: 43.9% of total population (2022)<br>
+_urban population_: 44.5% of total population (2023)<br>
 _rate of urbanization_: 3.6% annual rate of change (2020-25 est.)<br>
 
 **Revenue from forest resources**<br>

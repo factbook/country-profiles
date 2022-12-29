@@ -120,7 +120,7 @@ _male_: NA<br>
 _female_: NA<br>
 
 **Total fertility rate**<br>
-(2021 est.) NA<br>
+NA<br>
 
 **Contraceptive prevalence rate**<br>
 NA<br>
@@ -197,7 +197,7 @@ _etymology_: the name in Norwegian means Longyear Town; the site was established
 none (territory of Norway)<br>
 
 **Legal system**<br>
-the laws of Norway where applicable apply; only the laws of Norway made explicitly applicable to Svalbard have effect there; the Svalbard Act and the Svalbard Environmental Protection Act, and certain regulations, apply only to Svalbard; the Spitsbergen Treaty and the Svalbard Treaty grant certain rights to citizens and corporations of signatory nations; as of June 2017, 45 nations had ratified the Svalbard Treaty<br>
+only the laws of Norway made explicitly applicable to Svalbard have effect there; the Svalbard Act and the Svalbard Environmental Protection Act, and certain regulations, apply only to Svalbard; the Spitsbergen Treaty and the Svalbard Treaty grant certain rights to citizens and corporations of signatory nations; as of June 2017, 45 nations had ratified the Svalbard Treaty<br>
 
 **Citizenship**<br>
 see Norway<br>
@@ -230,7 +230,7 @@ the flag of Norway is used<br>
 ## Economy
 
 **Economic overview**<br>
-<p>Coal mining, tourism, and international research are Svalbard's major industries. Coal mining has historically been the dominant economic activity, and the Spitzbergen Treaty of 9 February 1920 gives the 45 countries that so far have ratified the treaty equal rights to exploit mineral deposits, subject to Norwegian regulation. Although US, UK, Dutch, and Swedish coal companies have mined in the past, the only companies still engaging in this are Norwegian and Russian. Low coal prices have forced the Norwegian coal company, Store Norske Spitsbergen Kulkompani, to close one of its two mines and to considerably reduce the activity of the other. Since the 1990s, the tourism and hospitality industry has grown rapidly, and Svalbard now receives 60,000 visitors annually.</p> <p> </p> <p>The settlements on Svalbard were established as company towns, and at their height in the 1950s, the Norwegian state-owned coal company supported nearly 1,000 jobs. Today, only about 300 people work in the mining industry.</p> <p> </p> <p>Goods such as alcohol, tobacco, and vehicles, normally highly taxed on mainland Norway, are considerably cheaper in Svalbard in an effort by the Norwegian Government to entice more people to live on the Arctic archipelago. By law, Norway collects only enough taxes to pay for the needs of the local government; none of tax proceeds go to the central government.</p><br>
+<p>Coal mining, tourism, and international research are Svalbard's major industries. Coal mining has historically been the dominant economic activity, and the Spitzbergen Treaty of 9 February 1920 gives the 45 countries that so far have ratified the treaty equal rights to exploit mineral deposits, subject to Norwegian regulation. Although US, UK, Dutch, and Swedish coal companies have mined in the past, the only companies still engaging in this are Norwegian and Russian. Low coal prices have forced the Norwegian coal company, Store Norske Spitsbergen Kulkompani, to close one of its two mines and to considerably reduce the activity of the other. Since the 1990s, the tourism and hospitality industry has grown rapidly, and Svalbard now receives 60,000 visitors annually.</p> <p>The settlements on Svalbard were established as company towns, and at their height in the 1950s, the Norwegian state-owned coal company supported nearly 1,000 jobs. Today, only about 300 people work in the mining industry.</p> <p>Goods such as alcohol, tobacco, and vehicles, normally highly taxed on mainland Norway, are considerably cheaper in Svalbard in an effort by the Norwegian Government to entice more people to live on the Arctic Archipelago. By law, Norway collects only enough taxes to pay for the needs of the local government; none of tax proceeds go to the central government.</p><br>
 
 **Real GDP growth rate**<br>
 <p>NA</p><br>

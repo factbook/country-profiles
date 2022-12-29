@@ -130,11 +130,11 @@ _female_: 25.1 years (2020 est.)<br>
 the vast majority of the population is located in and around the Al Hagar Mountains in the north of the country; another smaller cluster is found around the city of Salalah in the far south; most of the country remains sparsely poplulated<br>
 
 **Urbanization**<br>
-_urban population_: 87.8% of total population (2022)<br>
+_urban population_: 88.4% of total population (2023)<br>
 _rate of urbanization_: 2.32% annual rate of change (2020-25 est.)<br>
 
 **Major urban areas - population**<br>
-1.623 million MUSCAT (capital) (2022)<br>
+1.650 million MUSCAT (capital) (2023)<br>
 
 **Sex ratio**<br>
 _at birth_: 1.05 male(s)/female<br>
@@ -255,7 +255,7 @@ _forest_: 0% (2018 est.)<br>
 _other_: 95.3% (2018 est.)<br>
 
 **Urbanization**<br>
-_urban population_: 87.8% of total population (2022)<br>
+_urban population_: 88.4% of total population (2023)<br>
 _rate of urbanization_: 2.32% annual rate of change (2020-25 est.)<br>
 
 **Revenue from forest resources**<br>

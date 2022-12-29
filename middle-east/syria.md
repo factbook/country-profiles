@@ -135,11 +135,11 @@ significant population density along the Mediterranean coast; larger concentrati
 <strong>note:</strong> the ongoing civil war has altered the population distribution<br>
 
 **Urbanization**<br>
-_urban population_: 56.8% of total population (2022)<br>
+_urban population_: 57.4% of total population (2023)<br>
 _rate of urbanization_: 5.38% annual rate of change (2020-25 est.)<br>
 
 **Major urban areas - population**<br>
-2.503 million DAMASCUS (capital), 2.098 million Aleppo, 1.398 million Hims (Homs), 964,000 Hamah (2022)<br>
+2.585 million DAMASCUS (capital), 2.203 million Aleppo, 1.443 million Hims (Homs), 996,000 Hamah (2023)<br>
 
 **Sex ratio**<br>
 _at birth_: 1.06 male(s)/female<br>
@@ -250,7 +250,7 @@ _forest_: 2.7% (2018 est.)<br>
 _other_: 21.5% (2018 est.)<br>
 
 **Urbanization**<br>
-_urban population_: 56.8% of total population (2022)<br>
+_urban population_: 57.4% of total population (2023)<br>
 _rate of urbanization_: 5.38% annual rate of change (2020-25 est.)<br>
 
 **Food insecurity**<br>
@@ -692,8 +692,8 @@ _stateless persons_: 160,000 (mid-year 2021); note - Syria's stateless populatio
 <strong>note:</strong> the ongoing civil war has resulted in more than 5.5 million registered Syrian refugees - dispersed mainly in Egypt, Iraq, Jordan, Lebanon, and Turkey - as of November 2022<br>
 
 **Trafficking in persons**<br>
-_current situation_: due to Syria&rsquo;s civil war, hundreds of thousands of Syrians, foreign migrant workers, and refugees have fled the country and are vulnerable to human trafficking; the lack of security and inaccessibility of the majority of the country makes it impossible to conduct a thorough analysis of the impact of the ongoing conflict on the scope and magnitude of Syria&rsquo;s human trafficking situation; prior to the uprising, the Syrian armed forces and opposition forces used Syrian children in combat and support roles and as human shields<br>
 _tier rating_: Tier 3 &mdash; Syria does not fully meet the minimum standards for the elimination of trafficking and is not making significant efforts to do so; the government does not hold any traffickers, including complicit officials, criminally accountable for trafficking; no trafficking victims were identified or received protection during the reporting period; government and pro-Syrian militias continued to forcibly recruit and use child soldiers; the government does not prevent armed opposition forces and designated terrorist organizations from recruiting children; authorities continued to arrest, detain, and severely abuse trafficking victims, including child soldiers, and punished them for unlawful acts traffickers compelled them to commit (2020)<br>
+_trafficking profile_: due to Syria&rsquo;s civil war, hundreds of thousands of Syrians, foreign migrant workers, and refugees have fled the country and are vulnerable to human trafficking; the lack of security and inaccessibility of the majority of the country makes it impossible to conduct a thorough analysis of the impact of the ongoing conflict on the scope and magnitude of Syria&rsquo;s human trafficking situation; prior to the uprising, the Syrian armed forces and opposition forces used Syrian children in combat and support roles and as human shields<br>
 
 **Illicit drugs**<br>
 source country for amphetamine tablets destined for Saudi Arabia, Qatar, United Arab Emirates, Libya, Sudan , and other countries in the Gulf, Mediterranean region, and Europe&nbsp;<br>

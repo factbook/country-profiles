@@ -135,11 +135,11 @@ _female_: 18.5 years (2020 est.)<br>
 with the exception of a ribbon of settlement that corresponds to the banks of the Nile, northern Sudan, which extends into the dry Sahara, is sparsely populated; more abundant vegetation and broader access to water increases population distribution in the south extending habitable range along nearly the entire border with South Sudan; sizeable areas of population are found around Khartoum, southeast between the Blue and White Nile Rivers, and througout South Darfur as shown on this population distribution map<br>
 
 **Urbanization**<br>
-_urban population_: 36% of total population (2022)<br>
+_urban population_: 36.3% of total population (2023)<br>
 _rate of urbanization_: 3.43% annual rate of change (2020-25 est.)<br>
 
 **Major urban areas - population**<br>
-6.160 million KHARTOUM (capital), 1.012 million Nyala (2022)<br>
+6.344 million KHARTOUM (capital), 1.057 million Nyala (2023)<br>
 
 **Sex ratio**<br>
 _at birth_: 1.05 male(s)/female<br>
@@ -263,7 +263,7 @@ _forest_: 0% (2018 est.)<br>
 _other_: 0% (2018 est.)<br>
 
 **Urbanization**<br>
-_urban population_: 36% of total population (2022)<br>
+_urban population_: 36.3% of total population (2023)<br>
 _rate of urbanization_: 3.43% annual rate of change (2020-25 est.)<br>
 
 **Revenue from forest resources**<br>

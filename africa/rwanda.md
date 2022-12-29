@@ -135,11 +135,11 @@ _female_: 20.4 years (2020 est.)<br>
 one of Africa's most densely populated countries; large concentrations tend to be in the central regions and along the shore of Lake Kivu in the west as shown in this population distribution map<br>
 
 **Urbanization**<br>
-_urban population_: 17.7% of total population (2022)<br>
+_urban population_: 17.9% of total population (2023)<br>
 _rate of urbanization_: 3.07% annual rate of change (2020-25 est.)<br>
 
 **Major urban areas - population**<br>
-1.208 million KIGALI (capital) (2022)<br>
+1.248 million KIGALI (capital) (2023)<br>
 
 **Sex ratio**<br>
 _at birth_: 1.03 male(s)/female<br>
@@ -267,7 +267,7 @@ _forest_: 18% (2018 est.)<br>
 _other_: 7.5% (2018 est.)<br>
 
 **Urbanization**<br>
-_urban population_: 17.7% of total population (2022)<br>
+_urban population_: 17.9% of total population (2023)<br>
 _rate of urbanization_: 3.07% annual rate of change (2020-25 est.)<br>
 
 **Revenue from forest resources**<br>

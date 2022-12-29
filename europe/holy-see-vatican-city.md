@@ -215,7 +215,7 @@ election of the pope is limited to cardinals less than 80 years old<br>
 
 **Executive branch**<br>
 _chief of state_: Pope FRANCIS (since 13 March 2013)<br>
-_head of government_: President of the Pontifical Commission for the State of Vatican City and President of the Governorate of the Vatican City State is Fernando Vergez Alzaga (since 1 October 2021)<br>
+_head of government_: President of the Pontifical Commission for the State of Vatican City and President of the Governorate of the Vatican City State is Fernando VERGEZ ALZAGA (since 1 October 2021)<br>
 _cabinet_: Pontifical Commission for the State of Vatican City appointed by the pope<br>
 _elections/appointments_: pope elected by the College of Cardinals, usually for life or until voluntary resignation; election last held on 13 March 2013 (next to be held after the death or resignation of the current pope); Secretary of State appointed by the pope<br>
 _election results_: <em>2013:</em> Jorge Mario BERGOGLIO, former Archbishop of Buenos Aires, elected Pope FRANCIS<br>

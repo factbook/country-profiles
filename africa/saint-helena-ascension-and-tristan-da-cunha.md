@@ -128,7 +128,7 @@ _female_: 43.3 years (2020 est.)<br>
 Saint Helena - population is concentrated in and around the capital Jamestown in the northwest, with another significant cluster in the interior Longwood area; Ascension - largest settlement, and location of most of the population, is Georgetown; Tristan da Cunha - most of the nearly 300 inhabitants live in the northern coastal town of Edinburgh of the Seven Seas<br>
 
 **Urbanization**<br>
-_urban population_: 40.4% of total population (2022)<br>
+_urban population_: 40.7% of total population (2023)<br>
 _rate of urbanization_: 0.98% annual rate of change (2020-25 est.)<br>
 
 **Major urban areas - population**<br>
@@ -212,7 +212,7 @@ _forest_: 5.1% (2018 est.)<br>
 _other_: 64.1% (2018 est.)<br>
 
 **Urbanization**<br>
-_urban population_: 40.4% of total population (2022)<br>
+_urban population_: 40.7% of total population (2023)<br>
 _rate of urbanization_: 0.98% annual rate of change (2020-25 est.)<br>
 
 ## Government

@@ -142,7 +142,7 @@ _urban population_: 71.6% of total population (2023)<br>
 _rate of urbanization_: 2.91% annual rate of change (2020-25 est.)<br>
 
 **Major urban areas - population**<br>
-7.512 million BAGHDAD (capital), 1.737 million Mosul, 1.414 million Basra, 1.052 million Kirkuk, 930,000 Najaf, 878,000 Erbil (2022)<br>
+7.711 million BAGHDAD (capital), 1.792 million Mosul, 1.448 million Basra, 1.075 million Kirkuk, 958,000 Najaf, 897,000 Erbil (2023)<br>
 
 **Sex ratio**<br>
 _at birth_: 1.05 male(s)/female<br>
@@ -735,7 +735,7 @@ Ansar al-Islam; Asa'ib Ahl al-Haq; Islamic Revolutionary Guard Corps (IRGC)/Qods
 <p><em>Iraq-Iran</em>: Iraq's lack of a maritime boundary with Iran prompts jurisdiction disputes beyond the mouth of the Shatt al Arab in the Persian Gulf</p> <p><em>Iraq-Turkey</em>: Turkey has expressed concern over the autonomous status of Kurds in Iraq</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 15,272 (Turkey), 7,881 (West Bank and Gaza Strip) (mid-year 2021); 261,046 (Syria) (2022)<br>
+_refugees (country of origin)_: 15,272 (Turkey), 7,881 (West Bank and Gaza Strip) (mid-year 2021); 263,087 (Syria) (2022)<br>
 _IDPs_: 1,184,818 (displacement in central and northern Iraq since January 2014) (2022)<br>
 _stateless persons_: 47,253 (mid-year 2021); note - in the 1970s and 1980s under SADDAM Husayn's regime, thousands of Iraq's Faili Kurds, followers of Shia Islam, were stripped of their Iraqi citizenship, had their property seized by the government, and many were deported; some Faili Kurds had their citizenship reinstated under the 2006 Iraqi Nationality Law, but others lack the documentation to prove their Iraqi origins; some Palestinian refugees persecuted by the SADDAM regime remain stateless<br>
 

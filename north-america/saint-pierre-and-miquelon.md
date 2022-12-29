@@ -123,7 +123,7 @@ _female_: 49 years (2020 est.)<br>
 most of the population is found on Saint Pierre Island; a small settlement is located on the north end of Miquelon Island<br>
 
 **Urbanization**<br>
-_urban population_: 90% of total population (2022)<br>
+_urban population_: 90.1% of total population (2023)<br>
 _rate of urbanization_: 0.75% annual rate of change (2020-25 est.)<br>
 
 **Major urban areas - population**<br>
@@ -207,7 +207,7 @@ _forest_: 12.5% (2018 est.)<br>
 _other_: 78.8% (2018 est.)<br>
 
 **Urbanization**<br>
-_urban population_: 90% of total population (2022)<br>
+_urban population_: 90.1% of total population (2023)<br>
 _rate of urbanization_: 0.75% annual rate of change (2020-25 est.)<br>
 
 ## Government
@@ -258,13 +258,13 @@ see France<br>
 _chief of state_: President Emmanuel MACRON (since 14 May 2017); represented by Prefect Christian POUGET (since 6 January 2021)<br>
 _head of government_: President of Territorial Council Bernard BRIAND (since 13 October 2020)<br>
 _cabinet_: Le Cabinet du Prefet<br>
-_elections/appointments_: French president directly elected by absolute majority popular vote in 2 rounds if needed for a 5-year term (eligible for a second term); election last held on 10 April and 24 April 2022 (next to be held in 2027); prefect appointed by French president on the advice of French Ministry of Interior; Territorial Council president elected by Territorial Council councillors by absolute majority vote; term NA; election last held on 13 October 2020; next election NA<br>
-_election results_: <em>2020:</em> Bernard BRIAND elected President of Territorial Council; Territorial Council vote - 17 for, 2 abstentions<br><br>2017: Stephane LENORMAND elected President of Territorial Council<br>
+_elections/appointments_: French president directly elected by absolute majority popular vote in 2 rounds if needed for a 5-year term (eligible for a second term); election last held on 10 April and 24 April 2022 (next to be held in 2027); prefect appointed by French president on the advice of French Ministry of Interior; Territorial Council president elected by Territorial Council councilors by absolute majority vote; term NA; election last held on 13 October 2020 (next election to held in NA)<br>
+_election results_: <em>2020:</em> Bernard BRIAND elected President of Territorial Council; Territorial Council vote - 17 for, 2 abstentions<br>2017: Stephane LENORMAND elected President of Territorial Council<br>
 
 **Legislative branch**<br>
 _description_: unicameral Territorial Council or Conseil Territorial (19 seats - Saint Pierre 15, Miquelon 4; members directly elected in single-seat constituencies by absolute majority vote in 2 rounds if needed to serve 6-year terms);<br>Saint Pierre and Miquelon indirectly elects 1 senator to the French Senate by an electoral college to serve a 6-year term and directly elects 1 deputy to the French National Assembly by absolute majority vote to serve a 5-year term<br>
-_elections_: Territorial Council - first round held on 20 March 2022 (next to be held in March 2028); second round held on 27 March 2022<br>French Senate - last held on 24 September 2017 (next to be held no later than September 2023)<br>French National Assembly - last held on 11 and 18 June 2017 (next to be held by June 2022)<br>
-_election results_: Territorial Council - percent of vote by party (first round) - AD 45.9%, Focus on the Future 37%, Together to Build 17.1%; percent of vote by party (second round) - AD 51.8%, Focus on the Future 38.1%, Together to Build 10.1%, seats by party - AD 15, Focus on the Future 4; composition - men NA, women NA, percent of women NA%<br>French Senate - percent of vote by party - NA; seats by party - PS 1 (affiliated with UMP)<br>French National Assembly - percent of vote by party - NA; seats by party - Ensemble pour l'Avenir 1 (affiliated with PRG); the Republicans (LR) 1<br>
+_elections_: Territorial Council - first round held on 20 March and second round held on 27 March 2022 (next to be held in March 2028)<br>French Senate - last held on 27 September 2020 (next to be held no later than September 2025)<br>French National Assembly - last held on 12 and 19 June 2022 (next to be held by June 2027)<br>
+_election results_: Territorial Council - percent of vote by party (first round) - AD 45.9%, Focus on the Future 37%, Together to Build 17.1%; percent of vote by party (second round) - AD 51.8%, Focus on the Future 38.1%, Together to Build 10.1%, seats by party - AD 15, Focus on the Future 4; composition - men NA, women NA, percent of women NA<br>French Senate - percent of vote by party - NA; seats by party - PS 1 (affiliated with UMP)<br>French National Assembly - percent of vote by party - NA; seats by party - AD 1<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Superior Tribunal of Appeals or Tribunal Superieur d'Appel (composition NA)<br>

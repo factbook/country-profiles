@@ -127,7 +127,7 @@ _urban population_: 100% of total population (2023)<br>
 _rate of urbanization_: 0.58% annual rate of change (2020-25 est.)<br>
 
 **Major urban areas - population**<br>
-7.643 million Hong Kong (2022)<br>
+7.685 million Hong Kong (2023)<br>
 
 **Sex ratio**<br>
 _at birth_: 1.06 male(s)/female<br>
@@ -613,8 +613,8 @@ defense is the responsibility of China<br>
 <p>Hong Kong plans to reduce its 2,800-hectare Frontier Closed Area (FCA) to 400 hectares by 2015; the FCA was established in 1951 as a buffer zone between Hong Kong and mainland China to prevent illegal migration from and the smuggling of goods</p><br>
 
 **Trafficking in persons**<br>
-_current situation_: human traffickers exploit domestic and foreign victims in Hong Kong, and traffickers also exploit victims from Hong Kong abroad; traffickers exploit women from Eastern Europe, Africa, and Southeast Asia in sex trafficking; some women in Hong Kong &ndash; often with the assistance of their families &ndash; deceive Indian and Pakistani men into arranged marriages involving forced domestic service, bonded labor in construction and other physically demanding industries, and other forms of abuse via exploitative contracts; drug trafficking syndicates coerced South American women to carry drugs into Hong Kong; employment agencies hired foreign domestic workers under false pretenses and forced them into commercial sex, sometimes through debt-based coercion<br>
 _tier rating_: Tier 2 Watch List &mdash; &nbsp;Hong Kong does not fully meet the minimum standards for the elimination of trafficking but is making significant efforts to do so; Hong Kong is hiring and training 98 new employees within the immigration, customs, labor, and justice departments dedicated to trafficking issues; authorities screened more than 7,000 vulnerable individuals for trafficking; the labor department introduced a victim identification mechanism to its division offices; the government provided anti-trafficking training to various officials; the government did not investigate, prosecute, or convict any cases of labor trafficking, investigated fewer sex trafficking cases, and did not provide victims any government-funded services; the government continued to penalize victims for unlawful acts traffickers compelled them to commit; no legislation was enacted to fully criminalize all forms of trafficking (2020)<br>
+_trafficking profile_: human traffickers exploit domestic and foreign victims in Hong Kong, and traffickers also exploit victims from Hong Kong abroad; traffickers exploit women from Eastern Europe, Africa, and Southeast Asia in sex trafficking; some women in Hong Kong &ndash; often with the assistance of their families &ndash; deceive Indian and Pakistani men into arranged marriages involving forced domestic service, bonded labor in construction and other physically demanding industries, and other forms of abuse via exploitative contracts; drug trafficking syndicates coerced South American women to carry drugs into Hong Kong; employment agencies hired foreign domestic workers under false pretenses and forced them into commercial sex, sometimes through debt-based coercion<br>
 
 **Illicit drugs**<br>
 <p>modern banking system provides conduit for money laundering; groups involved in money laundering range from local street organizations to sophisticated international syndicates involved in assorted criminal activities, including drug trafficking; major source of precursor chemicals used in the production of illicit narcotics</p><br>

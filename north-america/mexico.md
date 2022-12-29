@@ -144,7 +144,7 @@ _urban population_: 81.6% of total population (2023)<br>
 _rate of urbanization_: 1.4% annual rate of change (2020-25 est.)<br>
 
 **Major urban areas - population**<br>
-22.085 million MEXICO CITY (capital), 5.340 million Guadalajara, 5.037 million Monterrey, 3.295 million Puebla, 2.576 million Toluca de Lerdo, 2.221 million Tijuana (2022)<br>
+22.281 million MEXICO CITY (capital), 5.420 million Guadalajara, 5.117 million Monterrey, 3.345 million Puebla, 2.626 million Toluca de Lerdo, 2.260 million Tijuana (2023)<br>
 
 **Sex ratio**<br>
 _at birth_: 1.05 male(s)/female<br>

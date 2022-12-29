@@ -136,7 +136,7 @@ _urban population_: 76.7% of total population (2023)<br>
 _rate of urbanization_: -0.28% annual rate of change (2020-25 est.)<br>
 
 **Major urban areas - population**<br>
-1.287 million SOFIA (capital) (2022)<br>
+1.288 million SOFIA (capital) (2023)<br>
 
 **Sex ratio**<br>
 _at birth_: 1.06 male(s)/female<br>
@@ -720,7 +720,7 @@ Islamic State of Iraq and ash-Sham (ISIS); Islamic Revolutionary Guard Corps/Qod
 <p>none</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 19,014 (Syria) (mid-year 2021); 51,516 (Ukraine) (as of 29 November 2022)<br>
+_refugees (country of origin)_: 19,014 (Syria) (mid-year 2021); 51,140 (Ukraine) (as of 13 December 2022)<br>
 _stateless persons_: 1,143 (mid-year 2021)<br>
 <strong>note:</strong> 84,937 estimated refugee and migrant arrivals (January 2015-October 2022); Bulgaria is predominantly a transit country<br>
 

@@ -140,11 +140,11 @@ _female_: 28.1 years (2020 est.)<br>
 the population concentrated along the southern and southeastern coast, and inland around Pretoria; the eastern half of the country is more densly populated than the west as shown in this population distribution map<br>
 
 **Urbanization**<br>
-_urban population_: 68.3% of total population (2022)<br>
+_urban population_: 68.8% of total population (2023)<br>
 _rate of urbanization_: 1.72% annual rate of change (2020-25 est.)<br>
 
 **Major urban areas - population**<br>
-10.110 million Johannesburg (includes Ekurhuleni), 4.801 million Cape Town (legislative capital), 3.199 million Durban, 2.74 million PRETORIA (administrative capital), 1.281 million Port Elizabeth, 909,000 West Rand (2022)<br>
+10.316 million Johannesburg (includes Ekurhuleni), 4.890 million Cape Town (legislative capital), 3.228 million Durban, 2.818 million PRETORIA (administrative capital), 1.296 million Port Elizabeth, 934,000 West Rand (2023)<br>
 
 **Sex ratio**<br>
 _at birth_: 1.02 male(s)/female<br>
@@ -273,7 +273,7 @@ _forest_: 7.6% (2018 est.)<br>
 _other_: 13% (2018 est.)<br>
 
 **Urbanization**<br>
-_urban population_: 68.3% of total population (2022)<br>
+_urban population_: 68.8% of total population (2023)<br>
 _rate of urbanization_: 1.72% annual rate of change (2020-25 est.)<br>
 
 **Revenue from coal**<br>

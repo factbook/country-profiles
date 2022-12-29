@@ -89,7 +89,7 @@ _adjective_: Burkinabe<br>
 Mossi 52%, Fulani 8.4%, Gurma 7%, Bobo 4.9%, Gurunsi 4.6%, Senufo 4.5%, Bissa 3.7%, Lobi 2.4%, Dagara 2.4%, Tuareg/Bella 1.9%, Dioula 0.8%, unspecified/no answer 0.3%, other 7.2% (2010 est.)<br>
 
 **Languages**<br>
-French (official), native African languages belonging to Sudanic family spoken by 90% of the population<br>
+Mossi 52.9%, Fula 7.8%, Gourmantche 6.8%, Dyula 5.7%, Bissa 3.3%, Gurunsi 3.2%, French (official) 2.2%, Bwamu 2%, Dagara 2%, San 1.7%, Marka 1.6%, Bobo 1.5%, Senufo 1.5%, Lobi 1.2%, other 6.6% (2019 est.)<br>
 
 **Religions**<br>
 Muslim 63.2%, Roman Catholic 24.6%, Protestant 6.9%, traditional/animist 4.2%, none 0.7%, unspecified 0.4% (2017-18 est.)<br>
@@ -135,7 +135,7 @@ _urban population_: 32.5% of total population (2023)<br>
 _rate of urbanization_: 4.75% annual rate of change (2020-25 est.)<br>
 
 **Major urban areas - population**<br>
-3.056 million OUAGADOUGOU (capital), 1.074 million Bobo-Dioulasso (2022)<br>
+3.204 million OUAGADOUGOU (capital), 1.129 million Bobo-Dioulasso (2023)<br>
 
 **Sex ratio**<br>
 _at birth_: 1.03 male(s)/female<br>

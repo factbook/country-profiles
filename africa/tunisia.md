@@ -131,11 +131,11 @@ _female_: 33.3 years (2020 est.)<br>
 the overwhelming majority of the population is located in the northern half of the country; the south remains largely underpopulated as shown in this population distribution map<br>
 
 **Urbanization**<br>
-_urban population_: 70.2% of total population (2022)<br>
+_urban population_: 70.5% of total population (2023)<br>
 _rate of urbanization_: 1.34% annual rate of change (2020-25 est.)<br>
 
 **Major urban areas - population**<br>
-2.439 million TUNIS (capital) (2022)<br>
+2.475 million TUNIS (capital) (2023)<br>
 
 **Sex ratio**<br>
 _at birth_: 1.06 male(s)/female<br>
@@ -256,7 +256,7 @@ _forest_: 6.6% (2018 est.)<br>
 _other_: 28.6% (2018 est.)<br>
 
 **Urbanization**<br>
-_urban population_: 70.2% of total population (2022)<br>
+_urban population_: 70.5% of total population (2023)<br>
 _rate of urbanization_: 1.34% annual rate of change (2020-25 est.)<br>
 
 **Revenue from forest resources**<br>

@@ -139,7 +139,7 @@ _urban population_: 38.8% of total population (2023)<br>
 _rate of urbanization_: 4.24% annual rate of change (2020-25 est.)<br>
 
 **Major urban areas - population**<br>
-1.797 million Matola, 1.139 million MAPUTO (capital), 927,000 Nampula (2022)<br>
+1.852 million Matola, 1.163 million MAPUTO (capital), 969,000 Nampula (2023)<br>
 
 **Sex ratio**<br>
 _at birth_: 1.03 male(s)/female<br>

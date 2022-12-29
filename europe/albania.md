@@ -136,7 +136,7 @@ _urban population_: 64.6% of total population (2023)<br>
 _rate of urbanization_: 1.29% annual rate of change (2020-25 est.)<br>
 
 **Major urban areas - population**<br>
-512,000 TIRANA (capital) (2022)<br>
+520,000 TIRANA (capital) (2023)<br>
 
 **Sex ratio**<br>
 _at birth_: 1.07 male(s)/female<br>
@@ -361,6 +361,7 @@ Alliance for Change (electoral coalition led by PD)<br>Democratic Party or PD [E
 
 **International organization participation**<br>
 BSEC, CD, CE, CEI, EAPC, EBRD, EITI (compliant country), FAO, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IDB, IFAD, IFC, IFRCS, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ISO (correspondent), ITU, ITUC (NGOs), MIGA, NATO, OAS (observer), OIC, OIF, OPCW, OSCE, PCA, SELEC, UN, UNCTAD, UNESCO, UNIDO, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
+<strong>note</strong>: Albania is an EU candidate country whose satisfactory completion of accession criteria is required before being granted full EU membership<br>
 
 **Diplomatic representation in the US**<br>
 _chief of mission_: Ambassador Floreta LULI-FABER (since 18 May 2015)<br>

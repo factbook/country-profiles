@@ -130,7 +130,7 @@ _female_: 31.8 years (2020 est.)<br>
 six of the world's seven continents are widely and permanently inhabited; Asia is easily the most populous continent with about 60% of the world's population (China and India together account for over 35%); Africa comes in second with over 15% of the earth's populace, Europe has about 10%, North America 8%, South America almost 6%, and Oceania less than 1%; the harsh conditions on Antarctica prevent any permanent habitation<br>
 
 **Urbanization**<br>
-_urban population_: 57% of total population (2022)<br>
+_urban population_: 57.5% of total population (2023)<br>
 _rate of urbanization_: 1.73% annual rate of change (2020-25 est.)<br>
 
 **Major urban areas - population**<br>
@@ -218,7 +218,7 @@ _ten coldest places on earth (lowest average monthly temperature)_: Verkhoyansk,
 _ten hottest places on earth (highest average monthly temperature)_: Death Valley, US (California) 39°C (101°F) July<br>Iranshahr, Iran 38.3°C (100.9°F) June <br>Ouallene, Algeria 38°C (100.4°F) July<br>Kuwait City, Kuwait 37.7°C (100°F) July<br>Medina, Saudi Arabia 36°C (97°F) July<br>Buckeye, US (Arizona) 34°C (93°F) July<br>Jazan, Saudi Arabia 33°C (91°F) June<br>Al Kufrah, Libya 31°C (87°F) July<br>Alice Springs, Australia 29°C (84°F) January<br>Tamanrasset, Algeria 29°C (84°F) June<br>
 
 **Urbanization**<br>
-_urban population_: 57% of total population (2022)<br>
+_urban population_: 57.5% of total population (2023)<br>
 _rate of urbanization_: 1.73% annual rate of change (2020-25 est.)<br>
 
 **Major infectious diseases**<br>
@@ -494,7 +494,8 @@ the International Maritime Bureau (IMB) reports that 2021 saw a decrease in glob
 <p>the UN High Commissioner for Refugees (UNHCR) estimated that as of year-end 2021 there were 89.3 million people forcibly displaced worldwide; this includes 53.2 million IDPs, 27.1 million refugees, 4.6 million asylum seekers, and 4.4 million Venezuelans displaced abroad; the UNHCR estimates there are currently more than 4.3 million stateless persons as of year-end 2021</p><br>
 
 **Trafficking in persons**<br>
-_current situation_: approximately 800,000 people, mostly women and children, are trafficked annually across national borders, not including millions trafficked within their own countries; at least 80% of the victims are female and up to 50% are minors; 75% of all victims are trafficked into commercial sexual exploitation; almost two-thirds of the global victims are trafficked intra-regionally within East Asia and the Pacific (260,000 to 280,000 people) and Europe and Eurasia (170,000 to 210,000 people)<br>
+_tier rating_: <strong>Tier 2 Watch List:</strong> (34 countries) Algeria, Antigua and Barbuda, Aruba, Bhutan, Bulgaria, Burkina Faso, Cameroon, Chad, Comoros, Democratic Republic of the Congo, Djibouti, El Salvador, Equatorial Guinea, Eswatini, Ethiopia, Gabon, Guinea, Haiti, Hong Kong, Indonesia, Kuwait, Madagascar, Mali, Mauritania, Palau, Papua New Guinea, Saint Lucia, Senegal, Serbia, South Africa, Tonga, Trinidad and Tobago, Zambia, Zimbabwe<br><br><strong>Tier 3:</strong>  Afghanistan, Belarus, Brunei, Burma, Cambodia, People's Republic of China, Cuba, Curacao, Eritrea, Guinea-Bissau, Iran, Democratic People's Republic of Korea, Macau, Malaysia, Nicaragua, Russia, Sint Maarten, South Sudan, Syria, Turkmenistan, Venezuela, Vietnam<br>
+_trafficking profile_: approximately 800,000 people, mostly women and children, are trafficked annually across national borders, not including millions trafficked within their own countries; at least 80% of the victims are female and up to 50% are minors; 75% of all victims are trafficked into commercial sexual exploitation; almost two-thirds of the global victims are trafficked intra-regionally within East Asia and the Pacific (260,000 to 280,000 people) and Europe and Eurasia (170,000 to 210,000 people)<br>
 <strong>Tier 2 Watch List:</strong>  (44 countries) Armenia, Aruba, Azerbaijan, Barbados, Belize, Bhutan, Bosnia and Herzegovina, Brunei, Cambodia, Cameroon, Chad, Democratic Republic of the Congo, Curacao, Dominican Republic, Equatorial Guinea, Fiji, The Gambia, Guinea, Guinea-Bissau, Hong Kong, Ireland, Jordan, Kazakhstan, Kyrgyzstan, Macau, Malaysia, Maldives, Mali, Marshall Islands, Mauritania, Nigeria, Pakistan, Romania, Saudi Arabia, Senegal, Seychelles, Sri Lanka, Sudan, Tanzania, Timor-Leste, Uganda, Uzbekistan, Vietnam, Zambia<br><br><strong>Tier 3:</strong>  (19 countries) Afghanistan, Algeria, Belarus, Burma, Burundi, China, Comoros, Cuba, Eritrea, Iran, Lesotho, Nicaragua, North Korea, Papua New Guinea, Russia, South Sudan, Syria, Turkmenistan, Venezuela (2020)<br>
 
 **Illicit drugs**<br>

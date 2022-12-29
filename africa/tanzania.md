@@ -139,11 +139,11 @@ _female_: 18.4 years (2020 est.)<br>
 the largest and most populous East African country; population distribution is extremely uneven, but greater population clusters occur in the northern half of country and along the east coast as shown in this population distribution map<br>
 
 **Urbanization**<br>
-_urban population_: 36.7% of total population (2022)<br>
+_urban population_: 37.4% of total population (2023)<br>
 _rate of urbanization_: 4.89% annual rate of change (2020-25 est.)<br>
 
 **Major urban areas - population**<br>
-262,000 Dodoma (legislative capital) (2018), 7.405 million DAR ES SALAAM (administrative capital), 1.245 million Mwanza, 766,000 Zanzibar (2022)<br>
+262,000 Dodoma (legislative capital) (2018), 7.776 million DAR ES SALAAM (administrative capital), 1.311 million Mwanza, 800,000 Zanzibar (2023)<br>
 
 **Sex ratio**<br>
 _at birth_: 1.03 male(s)/female<br>
@@ -280,7 +280,7 @@ _forest_: 37.3% (2018 est.)<br>
 _other_: 19% (2018 est.)<br>
 
 **Urbanization**<br>
-_urban population_: 36.7% of total population (2022)<br>
+_urban population_: 37.4% of total population (2023)<br>
 _rate of urbanization_: 4.89% annual rate of change (2020-25 est.)<br>
 
 **Revenue from forest resources**<br>

@@ -134,7 +134,7 @@ _urban population_: 92% of total population (2023)<br>
 _rate of urbanization_: -0.25% annual rate of change (2020-25 est.)<br>
 
 **Major urban areas - population**<br>
-37.274 million TOKYO (capital), 19.060 million Osaka, 9.572 million Nagoya, 5.503 million Kitakyushu-Fukuoka, 2.935 million Shizuoka-Hamamatsu, 2.669 million Sapporo (2022)<br>
+37.194 million TOKYO (capital), 19.013 million Osaka, 9.569 million Nagoya, 5.490 million Kitakyushu-Fukuoka, 2.937 million Shizuoka-Hamamatsu, 2.666 million Sapporo (2023)<br>
 
 **Sex ratio**<br>
 _at birth_: 1.06 male(s)/female<br>

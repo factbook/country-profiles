@@ -84,7 +84,7 @@ _adjective_: Macedonian<br>
 
 **Ethnic groups**<br>
 Macedonian 58.4%, Albanian 24.3%, Turkish 3.9%, Romani 2.5%, Serb 1.3%, other 2.3%, persons for whom data were taken from administrative sources and no ethnic affiliation data was available 7.2% (2021 est.)<br>
-<strong>note:</strong> Romani populations are usually underestimated in official statistics and may represent 6.5–13% of North Macedonia’s population<br>
+<strong>note:</strong> data represent total resident population; Romani populations are usually underestimated in official statistics and may represent 6.5–13% of North Macedonia’s population<br>
 
 **Languages**<br>
 Macedonian (official) 61.4%, Albanian (official) 24.3%, Turkish 3.4%, Romani 1.7%, other (includes Aromanian (Vlach) and Bosnian) 2%, persons for whom data were taken from administrative sources and no language data was available 7.2% (2021 est.); note - data represent mother tongue; minority languages are co-official with Macedonian in municipalities where they are spoken by at least 20% of the population; Albanian is co-official in Tetovo, Brvenica, Vrapciste, and other municipalities; Turkish is co-official in Centar Zupa and Plasnica; Romani is co-official in Suto Orizari; Aromanian is co-official in Krusevo; Serbian is co-official in Cucer Sandevo<br>
@@ -127,11 +127,11 @@ _female_: 40 years (2020 est.)<br>
 a fairly even distribution throughout most of the country, with urban areas attracting larger and denser populations<br>
 
 **Urbanization**<br>
-_urban population_: 59.1% of total population (2022)<br>
+_urban population_: 59.5% of total population (2023)<br>
 _rate of urbanization_: 0.61% annual rate of change (2020-25 est.)<br>
 
 **Major urban areas - population**<br>
-606,000 SKOPJE (capital) (2022)<br>
+611,000 SKOPJE (capital) (2023)<br>
 
 **Sex ratio**<br>
 _at birth_: 1.07 male(s)/female<br>
@@ -254,7 +254,7 @@ _forest_: 39.8% (2018 est.)<br>
 _other_: 15.9% (2018 est.)<br>
 
 **Urbanization**<br>
-_urban population_: 59.1% of total population (2022)<br>
+_urban population_: 59.5% of total population (2023)<br>
 _rate of urbanization_: 0.61% annual rate of change (2020-25 est.)<br>
 
 **Revenue from forest resources**<br>
@@ -348,7 +348,8 @@ _subordinate courts_: Courts of Appeal; Basic Courts<br>
 Alliance for Albanians or AfA [Ziadin SELA]<br>Alternative (Alternativa) [Afrim GASHI]<br>Besa Movement [Bilal KASAMI]<br>Democratic Party of Albanians or PDSh [Menduh THACI]<br>Democratic Union for Integration or BDI [Ali AHMETI]<br>Internal Macedonian Revolutionary Organization - Democratic Party for Macedonian National Unity or VMRO-DPMNE [Hristijan MICKOSKI]<br>Internal Macedonian Revolutionary Organization - People's Party or VMRO-NP [Ljubco GEORGIEVSKI]<br>Liberal Democratic Party or LDP [Goran MILEVSKI]<br>Renewal (VMRO-DPMNE coalition) [Maja MORACHANIN]<br>Social Democratic Union of Macedonia or SDSM [Dimitar KOVACHEVSKI]<br>The Left (Levica) [Dimitar APASIEV]<br>Turkish Democratic Party of DPT [Beycan ILYAS]<br>We Can (coalition includes SDSM/Besa/VMRO-NP, DPT, LDP)<br>
 
 **International organization participation**<br>
-BIS, CD, CE, CEI, EAPC, EBRD, EU (candidate country), FAO, IAEA, IBRD, ICAO, ICC (NGOs), ICCt, ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ISO, ITU, ITUC (NGOs), MIGA, NATO,&nbsp;OAS (observer), OIF, OPCW, OSCE, PCA, PFP, SELEC, UN, UNCTAD, UNESCO, UNHCR, UNIDO, UNIFIL, UNWTO, UPU, WCO, WHO, WIPO, WMO, WTO<br>
+BIS, CD, CE, CEI, EAPC, EBRD, EU (candidate country), FAO, IAEA, IBRD, ICAO, ICC (NGOs), ICCt, ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ISO, ITU, ITUC (NGOs), MIGA, NATO, OAS (observer), OIF, OPCW, OSCE, PCA, PFP, SELEC, UN, UNCTAD, UNESCO, UNHCR, UNIDO, UNIFIL, UNWTO, UPU, WCO, WHO, WIPO, WMO, WTO<br>
+<strong>note: </strong>North Macedonia is an EU candidate country whose satisfactory completion of accession criteria is required before being granted full EU membership<br>
 
 **Diplomatic representation in the US**<br>
 _chief of mission_: Ambassador Zoran POPOV (since 16 September 2022)<br>
@@ -685,7 +686,7 @@ Islamic State of Iraq and ash-Sham (ISIS)<br>
 <p><em>North Macedonia-Albania</em>: none identified</p> <p><em>North Macedonia-Greece</em>: none identified</p> <p><em>North Macedonia-Kosovo</em>: North Macedonia and Kosovo completed demarcation of their boundary in October 2009</p> <p><em>North Macedonia-Serbia</em>: none identified</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 6,433 (Ukraine) (as of 6 December 2022)<br>
+_refugees (country of origin)_: 6,430 (Ukraine) (as of 20 December 2022)<br>
 _stateless persons_: 553 (mid-year 2021)<br>
 <strong>note:</strong> 549,217 estimated refugee and migrant arrivals (January 2015-October 2022)<br>
 

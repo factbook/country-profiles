@@ -150,7 +150,7 @@ _rate of urbanization_: 1.88% annual rate of change (2020-25 est.)<br>
 <strong>note:</strong>  data does not include former Western Sahara<br>
 
 **Major urban areas - population**<br>
-3.840 million Casablanca, 1.932 million RABAT (capital), 1.267 million Fes, 1.238 million Tangier, 1.277 million Marrakech, 960,000 Agadir (2022)<br>
+3.893 million Casablanca, 1.959 million RABAT (capital), 1.290 million Fes, 1.314 million Tangier, 1.050 million Marrakech, 979,000 Agadir (2023)<br>
 
 **Sex ratio**<br>
 _at birth_: 1.05 male(s)/female<br>

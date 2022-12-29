@@ -127,7 +127,7 @@ _urban population_: 64.5% of total population (2023)<br>
 _rate of urbanization_: 1.15% annual rate of change (2020-25 est.)<br>
 
 **Major urban areas - population**<br>
-1.256 million DUBLIN (capital) (2022)<br>
+1.270 million DUBLIN (capital) (2023)<br>
 
 **Sex ratio**<br>
 _at birth_: 1.06 male(s)/female<br>
@@ -321,7 +321,7 @@ _residency requirement for naturalization_: 4 of the previous 8 years<br>
 
 **Executive branch**<br>
 _chief of state_: President Michael D. HIGGINS (since 11 November 2011)<br>
-_head of government_: Taoiseach (Prime Minister) Miche&aacute;l MARTIN (since 27 June 2020); note - MARTIN will serve through December 2022 and will then be succeeded by Leo VARADKAR<br>
+_head of government_: Taoiseach (Prime Minister) Leo VARADKAR (since 16 December 2022)<br>
 _cabinet_: Cabinet nominated by the prime minister, appointed by the president, approved by the Dali Eireann (lower house of Parliament)<br>
 _elections/appointments_: president directly elected by majority popular vote for a 7-year term (eligible for a second term); election last held on 26 October 2018 (next to be held no later than November 2025); taoiseach (prime minister) nominated by the House of Representatives (Dail Eireann), appointed by the president<br>
 _election results_: <em>2018:</em> Michael D. HIGGINS reelected president; percent of vote - Michael D. HIGGINS (independent) 55.8%, Peter CASEY (independent) 23.3%, Sean GALLAGHER (independent) 6.4%, Liadh NI RIADA (Sinn Fein) 6.4%, Joan FREEMAN (independent) 6%, Gavin DUFFY (independent) 2.2%<br><br><em>2011: </em>Michael D. HIGGINS elected president in second round; percent of vote in first round - Michael D. HIGGINS (Labor) 39.6%, Sean GALLAGHER (independent) 28.5%, Martin McGuinness (Sinn Féin) 13.7%, Gay Mitchell (Fine Gael) 6.4%, David Norris (independent) 6.2%, Mary DAVIS (independent) 2.7%; percent of vote in second round - Michael D. HIGGINS 56.8%, Sean GALLAGHER 35.5%<br>
@@ -509,8 +509,8 @@ $4.412 billion (31 December 2017 est.)<br>
 $2.203 billion (31 December 2015 est.)<br>
 
 **Debt - external**<br>
-$2,829,303,000,000 (2019 est.)<br>
-$2,758,949,000,000 (2018 est.)<br>
+$2.829 trillion (2019 est.)<br>
+$2.759 trillion (2018 est.)<br>
 
 **Exchange rates**<br>
 _Currency_: euros (EUR) per US dollar -<br>
@@ -566,10 +566,10 @@ _crude oil estimated reserves_: 0 barrels (2021 est.)<br>
 126,600 bbl/day (2017 est.)<br>
 
 **Natural gas**<br>
-_production_: 2,652,180,000 cubic meters (2019 est.)<br>
-_consumption_: 5,491,562,000 cubic meters (2019 est.)<br>
+_production_: 2.652 billion cubic meters (2019 est.)<br>
+_consumption_: 5.492 billion cubic meters (2019 est.)<br>
 _exports_: 0 cubic meters (2021 est.)<br>
-_imports_: 2,846,971,000 cubic meters (2019 est.)<br>
+_imports_: 2.847 billion cubic meters (2019 est.)<br>
 _proven reserves_: 9.911 billion cubic meters (2021 est.)<br>
 
 **Carbon dioxide emissions**<br>
@@ -616,7 +616,7 @@ _subscriptions per 100 inhabitants_: 31 (2020 est.)<br>
 **National air transport system**<br>
 _number of registered air carriers_: 9 (2020)<br>
 _inventory of registered aircraft operated by air carriers_: 450<br>
-_annual passenger traffic on registered air carriers_: 167,598,633 (2018)<br>
+_annual passenger traffic on registered air carriers_: 1.676 million (2018)<br>
 _annual freight traffic on registered air carriers_: 168.71 million (2018) mt-km<br>
 
 **Civil aircraft registration country code prefix**<br>
@@ -690,7 +690,7 @@ the Irish Defense Forces have a small inventory of imported weapons systems from
 130 Golan Heights (UNDOF); 320 Lebanon (UNIFIL) (May 2022)<br>
 
 **Military - note**<br>
-<p>the Irish Defense Forces trace their origins back to the Irish Volunteers, a unit established in 1913; the Irish Volunteers took part in the 1916 Easter Rising and the Irish War of Independence, 1919-1921</p> <p>Ireland has a long-standing policy of military neutrality; however, it participates in international peacekeeping and humanitarian operations, as well as crisis management; Ireland is a signatory of the EU’s Common Security and Defense Policy and has committed a battalion of troops to the EU’s Rapid Reaction Force; Ireland is not a member of NATO, but has a relationship going back to 1997 when it deployed personnel in support of the NATO-led peacekeeping operations in Bosnia and Herzegovina; Ireland joined NATO’s Partnership for Peace program in 1999; Ireland has been an active participate in UN peacekeeping operations since the 1950s</p><br>
+<p>the Irish Defense Forces trace their origins back to the Irish Volunteers, a unit established in 1913; the Irish Volunteers took part in the 1916 Easter Rising and the Irish War of Independence, 1919-1921</p> <p>Ireland has a long-standing policy of military neutrality; however, it participates in international peacekeeping and humanitarian operations, as well as crisis management; Ireland is a signatory of the EU’s Common Security and Defense Policy and has committed a battalion of troops to the EU’s Rapid Reaction Force; Ireland is not a member of NATO but has a relationship going back to 1997 when it deployed personnel in support of the NATO-led peacekeeping operations in Bosnia and Herzegovina; Ireland joined NATO’s Partnership for Peace program in 1999; Ireland has been an active participatant in UN peacekeeping operations since the 1950s</p><br>
 
 ## Terrorism
 
@@ -704,7 +704,7 @@ Continuity Irish Republican Army; New Irish Republican Army; Islamic State of Ir
 <p><em>Ireland-Denmark</em>: Ireland, Iceland, and the UK dispute Denmark's claim that the Faroe Islands' continental shelf extends beyond 200 nm; Iceland, Norway, and the Faroe Islands signed an agreement in 2019 extending the Faroe Islands’ northern continental shelf area</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 58,511 (Ukraine) (as of 6 December 2022)<br>
+_refugees (country of origin)_: 58,511 (Ukraine) (as of 20 December 2022)<br>
 _stateless persons_: 107 (mid-year 2021)<br>
 
 **Illicit drugs**<br>

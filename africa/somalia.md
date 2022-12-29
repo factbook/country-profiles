@@ -131,11 +131,11 @@ _female_: 18.3 years (2020 est.)<br>
 distribution varies greatly throughout the country; least densely populated areas are in the northeast and central regions, as well as areas along the Kenyan border; most populated areas are in and around the cities of Mogadishu, Marka, Boorama, Hargeysa, and Baidoa as shown on this population distribution map<br>
 
 **Urbanization**<br>
-_urban population_: 47.3% of total population (2022)<br>
+_urban population_: 47.9% of total population (2023)<br>
 _rate of urbanization_: 4.2% annual rate of change (2020-25 est.)<br>
 
 **Major urban areas - population**<br>
-2.497 million MOGADISHU (capital), 1.079 million Hargeysa (2022)<br>
+2.610 million MOGADISHU (capital), 1.127 million Hargeysa (2023)<br>
 
 **Sex ratio**<br>
 _at birth_: 1.03 male(s)/female<br>
@@ -258,7 +258,7 @@ _forest_: 10.6% (2018 est.)<br>
 _other_: 19.1% (2018 est.)<br>
 
 **Urbanization**<br>
-_urban population_: 47.3% of total population (2022)<br>
+_urban population_: 47.9% of total population (2023)<br>
 _rate of urbanization_: 4.2% annual rate of change (2020-25 est.)<br>
 
 **Major infectious diseases**<br>

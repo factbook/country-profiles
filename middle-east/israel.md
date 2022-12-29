@@ -132,7 +132,7 @@ _urban population_: 92.9% of total population (2023)<br>
 _rate of urbanization_: 1.51% annual rate of change (2020-25 est.)<br>
 
 **Major urban areas - population**<br>
-4.344 million Tel Aviv-Yafo, 1.164 million Haifa, 957,000 JERUSALEM (capital) (2022)<br>
+4.421 million Tel Aviv-Yafo, 1.174 million Haifa, 970,000 JERUSALEM (capital) (2023)<br>
 
 **Sex ratio**<br>
 _at birth_: 1.05 male(s)/female<br>

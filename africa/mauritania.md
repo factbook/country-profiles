@@ -142,7 +142,7 @@ _urban population_: 57.7% of total population (2023)<br>
 _rate of urbanization_: 3.84% annual rate of change (2020-25 est.)<br>
 
 **Major urban areas - population**<br>
-1.432 million NOUAKCHOTT (capital) (2022)<br>
+1.492 million NOUAKCHOTT (capital) (2023)<br>
 
 **Sex ratio**<br>
 _at birth_: 1.03 male(s)/female<br>
@@ -734,8 +734,8 @@ Al-Qa'ida in the Islamic Maghreb (AQIM)<br>
 _refugees (country of origin)_: 26,001 (Sahrawis) (mid-year 2021); 97,127 (Mali) (2022)<br>
 
 **Trafficking in persons**<br>
-_current situation_: Mauritania is a source, transit, and destination country for men, women, and children subjected to conditions of forced labor and sex trafficking; adults and children from traditional slave castes are subjected to slavery-related practices rooted in ancestral master-slave relationships; Mauritanian boys&nbsp; are trafficked within the country by religious teachers for forced begging; Mauritanian girls, as well as girls from Mali, Senegal, The Gambia, and other West African countries, are forced into domestic servitude; Mauritanian women and girls are forced into prostitution in the country or transported to countries in the Middle East for the same purpose<br>
 _tier rating_: Tier 2 Watch List &mdash; Mauritania does not fully meet the minimum standards for the elimination of trafficking but is making significant efforts to do so and was upgraded to Tier 2 Watch List; the government convicted five hereditary slaveholders, drafted new anti-trafficking legislation and a national action plan, raised awareness on child forced begging in Quranic schools with imams and religious leaders by establishing an inter-ministerial committee, published a child protection guide, and operated a cash transfer program; however, the government rarely imprisoned convicted slaveholders and did not identify any victims; government agencies lacked resources; government officials refuse to investigate or prosecute political offenders (2020)<br>
+_trafficking profile_: Mauritania is a source, transit, and destination country for men, women, and children subjected to conditions of forced labor and sex trafficking; adults and children from traditional slave castes are subjected to slavery-related practices rooted in ancestral master-slave relationships; Mauritanian boys&nbsp; are trafficked within the country by religious teachers for forced begging; Mauritanian girls, as well as girls from Mali, Senegal, The Gambia, and other West African countries, are forced into domestic servitude; Mauritanian women and girls are forced into prostitution in the country or transported to countries in the Middle East for the same purpose<br>
 
 **Illicit drugs**<br>
 NA<br>

@@ -141,11 +141,11 @@ _female_: 42.9 years (2020 est.)<br>
 vast majority of Canadians are positioned in a discontinuous band within approximately 300 km of the southern border with the United States; the most populated province is Ontario, followed by Quebec and British Columbia<br>
 
 **Urbanization**<br>
-_urban population_: 81.8% of total population (2022)<br>
+_urban population_: 81.9% of total population (2023)<br>
 _rate of urbanization_: 0.95% annual rate of change (2020-25 est.)<br>
 
 **Major urban areas - population**<br>
-6.313 million Toronto, 4.277 million Montreal, 2.632 million Vancouver, 1.611 million Calgary, 1.519 million Edmonton, 1.423 million OTTAWA (capital) (2022)<br>
+6.372 million Toronto, 4.308 million Montreal, 2.657 million Vancouver, 1.640 million Calgary, 1.544 million Edmonton, 1.437 million OTTAWA (capital) (2023)<br>
 
 **Sex ratio**<br>
 _at birth_: 1.05 male(s)/female<br>
@@ -268,7 +268,7 @@ _forest_: 34.1% (2018 est.)<br>
 _other_: 59.1% (2018 est.)<br>
 
 **Urbanization**<br>
-_urban population_: 81.8% of total population (2022)<br>
+_urban population_: 81.9% of total population (2023)<br>
 _rate of urbanization_: 0.95% annual rate of change (2020-25 est.)<br>
 
 **Revenue from forest resources**<br>

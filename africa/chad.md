@@ -139,7 +139,7 @@ _urban population_: 24.4% of total population (2023)<br>
 _rate of urbanization_: 4.1% annual rate of change (2020-25 est.)<br>
 
 **Major urban areas - population**<br>
-1.533 million N'DJAMENA (capital) (2022)<br>
+1.592 million N'DJAMENA (capital) (2023)<br>
 
 **Sex ratio**<br>
 _at birth_: 1.04 male(s)/female<br>
@@ -725,8 +725,8 @@ _refugees (country of origin)_: 394,666 (Sudan), 124,538 (Central African Republ
 _IDPs_: 381,289 (majority are in the east) (2022)<br>
 
 **Trafficking in persons**<br>
-_current situation_: human traffickers exploit domestic and foreign victims in Chad and Chadians abroad; most trafficking is internal; some children are sent by their parents to relatives or intermediaries to receive education, an apprenticeship, goods, or money and are then forced to work in domestic service or cattle herding; children are also forced to work in agriculture, gold mines, charcoal vending, and fishing, and those attending Koranic schools are forced into begging and street vending; girls from rural areas who search for work in larger towns are exploited in sex trafficking and domestic servitude; terrorist groups abduct children to serve as soldiers, suicide bombers, brides, and forced laborers<br>
 _tier rating_: Tier 2 Watch List &mdash; Chad does not fully meet the minimum standards for the elimination of trafficking but is making significant efforts to do so; one trafficker was convicted, the first under a 2018 law, but the government did not report investigating or prosecuting alleged traffickers, including complicit government officials; the government adopted a formal Road Map to implement its 2108 National Action Plan but did not report executing it; authorities did not identify any victims and have not drafted victim identification and referral procedures; the government continued to make no effort to raise awareness on trafficking (2020)<br>
+_trafficking profile_: human traffickers exploit domestic and foreign victims in Chad and Chadians abroad; most trafficking is internal; some children are sent by their parents to relatives or intermediaries to receive education, an apprenticeship, goods, or money and are then forced to work in domestic service or cattle herding; children are also forced to work in agriculture, gold mines, charcoal vending, and fishing, and those attending Koranic schools are forced into begging and street vending; girls from rural areas who search for work in larger towns are exploited in sex trafficking and domestic servitude; terrorist groups abduct children to serve as soldiers, suicide bombers, brides, and forced laborers<br>
 
 **Illicit drugs**<br>
 NA<br>

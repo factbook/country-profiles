@@ -134,7 +134,7 @@ _urban population_: 85.8% of total population (2023)<br>
 _rate of urbanization_: 0.42% annual rate of change (2020-25 est.)<br>
 
 **Major urban areas - population**<br>
-1.328 million HELSINKI (capital) (2022)<br>
+1.338 million HELSINKI (capital) (2023)<br>
 
 **Sex ratio**<br>
 _at birth_: 1.05 male(s)/female<br>
@@ -715,6 +715,6 @@ Finland is not a member of NATO, but Finland and NATO have actively cooperated i
 <p>various groups in Finland advocate restoration of Karelia and other areas ceded to the former Soviet Union, but the Finnish Government asserts no territorial demands</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 9,053 (Iraq) (mid-year 2021); 47,067 (Ukraine) (as of 6 December 2022)<br>
+_refugees (country of origin)_: 9,053 (Iraq) (mid-year 2021); 47,067 (Ukraine) (as of 20 December 2022)<br>
 _stateless persons_: 3,416 (mid-year 2021)<br>
 

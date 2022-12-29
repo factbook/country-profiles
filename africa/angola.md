@@ -139,7 +139,7 @@ _urban population_: 68.7% of total population (2023)<br>
 _rate of urbanization_: 4.04% annual rate of change (2020-25 est.)<br>
 
 **Major urban areas - population**<br>
-8.952 million LUANDA (capital), 914,000 Lubango, 862,000 Cabinda, Benguela 777,000 (2022)<br>
+9.292 million LUANDA (capital), 959,000 Lubango, 905,000 Cabinda, 809,000 Benguela, 783,000 Malanje&nbsp; (2023)<br>
 
 **Sex ratio**<br>
 _at birth_: 1.03 male(s)/female<br>

@@ -137,11 +137,11 @@ _female_: 33 years (2020 est.)<br>
 though it has one of the highest population densities in the world, the population is not evenly dispersed; clustering is heaviest along the South China Sea and Gulf of Tonkin, with the Mekong Delta (in the south) and the Red River Valley (in the north) having the largest concentrations of people<br>
 
 **Urbanization**<br>
-_urban population_: 38.8% of total population (2022)<br>
+_urban population_: 39.5% of total population (2023)<br>
 _rate of urbanization_: 2.7% annual rate of change (2020-25 est.)<br>
 
 **Major urban areas - population**<br>
-9.077 million Ho Chi Minh City, 5.067 million HANOI (capital), 1.786 million Can Tho, 1.382 million Hai Phong, 1.188 million Da Nang, 1.078 million Bien Hoa (2022)<br>
+9.321 million Ho Chi Minh City, 5.253 million HANOI (capital), 1.865 million Can Tho, 1.423 million Hai Phong, 1.221 million Da Nang, 1.111 million Bien Hoa (2023)<br>
 
 **Sex ratio**<br>
 _at birth_: 1.11 male(s)/female<br>
@@ -262,7 +262,7 @@ _forest_: 45% (2018 est.)<br>
 _other_: 20.2% (2018 est.)<br>
 
 **Urbanization**<br>
-_urban population_: 38.8% of total population (2022)<br>
+_urban population_: 39.5% of total population (2023)<br>
 _rate of urbanization_: 2.7% annual rate of change (2020-25 est.)<br>
 
 **Revenue from forest resources**<br>
@@ -728,8 +728,8 @@ the International Maritime Bureau reports the territorial and offshore waters in
 _stateless persons_: 30,581 (mid-year 2021); note - Vietnam's stateless ethnic Chinese Cambodian population dates to the 1970s when thousands of Cambodians fled to Vietnam to escape the Khmer Rouge and were no longer recognized as Cambodian citizens; Vietnamese women who gave up their citizenship to marry foreign men have found themselves stateless after divorcing and returning home to Vietnam; the government addressed this problem in 2009, and Vietnamese women are beginning to reclaim their citizenship<br>
 
 **Trafficking in persons**<br>
-_current situation_: human traffickers exploit domestic and foreign victims in Vietnam, and traffickers exploit Vietnamese abroad; Vietnamese men and women who migrate abroad for work may be subject to exploitation and illegally high fees from recruiters trapping them in debt bondage; traffickers subject victims to forced labor in construction, fishing, agriculture, mining, maritime industries, logging, and manufacturing, primarily in Taiwan, Malaysia, Republic of Korea, Laos, Japan, and to a lesser extent, some parts of Europe and the UK; traffickers mislead Vietnamese women and children with fraudulent employment opportunities and sex traffick them to brothels on the borders of China, Cambodia, Laos, and elsewhere in Asia; traffickers use the Internet, gaming sites, and particularly social media to lure victims; domestic traffickers are sometimes&nbsp; family members or small-scale networks exploiting Vietnamese men, women, and children - including street children and children with disabilities - in forced labor as street beggars or in brick kilns and mines; child sex tourists from elsewhere in Asia and other countries exploit children; prisoners reportedly are forced to work in agriculture, manufacturing, and hazardous industries, such as cashew processing<br>
 _tier rating_: Tier 2 Watch List —<strong> </strong>Vietnam does not fully meet the minimum standards for the elimination of trafficking but is making significant efforts to do so; efforts include providing trafficking victims the right to legal representation in judicial proceedings, increasing the amount of shelter time for victims by one month, providing financial support, continuing large-scale awareness campaigns in vulnerable communities and to workers going overseas, and training law enforcement; however, fewer victims were identified or assisted and procedures remained slow and ineffective; provincial officials unfamiliar with anti-trafficking law impede anti-trafficking efforts; labor recruitment firms extorted illegal high fees from workers looking for overseas employment putting them at risk for forced labor; no investigations, prosecutions, or convictions of officials complicit in trafficking offenses were made (2020)<br>
+_trafficking profile_: human traffickers exploit domestic and foreign victims in Vietnam, and traffickers exploit Vietnamese abroad; Vietnamese men and women who migrate abroad for work may be subject to exploitation and illegally high fees from recruiters trapping them in debt bondage; traffickers subject victims to forced labor in construction, fishing, agriculture, mining, maritime industries, logging, and manufacturing, primarily in Taiwan, Malaysia, Republic of Korea, Laos, Japan, and to a lesser extent, some parts of Europe and the UK; traffickers mislead Vietnamese women and children with fraudulent employment opportunities and sex traffick them to brothels on the borders of China, Cambodia, Laos, and elsewhere in Asia; traffickers use the Internet, gaming sites, and particularly social media to lure victims; domestic traffickers are sometimes&nbsp; family members or small-scale networks exploiting Vietnamese men, women, and children - including street children and children with disabilities - in forced labor as street beggars or in brick kilns and mines; child sex tourists from elsewhere in Asia and other countries exploit children; prisoners reportedly are forced to work in agriculture, manufacturing, and hazardous industries, such as cashew processing<br>
 
 **Illicit drugs**<br>
 transshipment point for transnational criminal organizations (TCOs) trafficking heroin, crystal methamphetamine, and ketamine throughout East Asia and the Pacific; approximately 90% of the illicit drugs in the country originate in Laos, Burma, and Thailand<br>

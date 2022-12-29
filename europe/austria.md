@@ -97,7 +97,7 @@ German (official nationwide) 88.6%, Turkish 2.3%, Serbian 2.2%, Croatian (offici
 _major-language sample(s)_: <br>Das World Factbook, die unverzichtbare Quelle für grundlegende Informationen. (German)<br><br>The World Factbook, the indispensable source for basic information.<br>
 
 **Religions**<br>
-Catholic 57%, Eastern Orthodox 8.7%, Muslim 7.9%, Evangelical Christian 3.3%, other/none/unspecified 23.1% (2018 est.)<br>
+Roman Catholic 55.2%, Muslim 8.3%, Orthodox 4.9%, Evangelical Christian 3.8%, Jewish 0.1%, other 5.4%, none 22.4% (2021 est.)<br>
 <strong>note:  </strong>data on Muslim is a 2016 estimate; data on other/none/unspecified are from 2012-2018 estimates<br>
 
 **Age structure**<br>
@@ -138,7 +138,7 @@ _urban population_: 59.5% of total population (2023)<br>
 _rate of urbanization_: 0.68% annual rate of change (2020-25 est.)<br>
 
 **Major urban areas - population**<br>
-1.960 million VIENNA (capital) (2022)<br>
+1.975 million VIENNA (capital) (2023)<br>
 
 **Sex ratio**<br>
 _at birth_: 1.05 male(s)/female<br>
@@ -338,11 +338,11 @@ _residency requirement for naturalization_: 10 years<br>
 16 years of age; universal<br>
 
 **Executive branch**<br>
-_chief of state_: President Alexander VAN DER BELLEN (since 26 January 2017); note - President Alexander VAN DER BELLEN was re-elected to a second six year term on 9 October 2022<br>
+_chief of state_: President Alexander VAN DER BELLEN (since 26 January 2017); note - President Alexander VAN DER BELLEN was re-elected to a second six-year term on 9 October 2022<br>
 _head of government_: Chancellor Karl NEHAMMER (since 6 December 2021); note - Chancellor Alexander SCHALLENBERG resigned on 2 December 2021<br>
 _cabinet_: Council of Ministers chosen by the president on the advice of the chancellor<br>
-_elections/appointments_: president directly elected by absolute majority popular vote in 2 rounds if needed for a 6-year term (eligible for a second term); elections last held on 24 April 2016 (first round), 22 May 2016 (second round, which was annulled), and 4 December 2016 (second round re-vote) (next election to be held on 9 October 2022); chancellor appointed by the president but determined by the majority coalition parties in the Federal Assembly; vice chancellor appointed by the president on the advice of the chancellor<br>
-_election results_: <em>2016:</em> Alexander VAN DER BELLEN elected in second round; percent of vote in first round - Norbert HOFER (FPOe) 35.1%, Alexander VAN DER BELLEN (independent, allied with the Greens) 21.3%, Irmgard GRISS (independent) 18.9%, Rudolf HUNDSTORFER (SPOe) 11.3%, Andreas KHOL (OeVP) 11.1%, Richard LUGNER (independent) 2.3%; percent of vote in second round re-vote - Alexander VAN DER BELLEN 53.8%, Norbert HOFER 46.2%<br><br><em>2010: </em> Heinz FISCHER re-elected; percent of vote - Heinz FISCHER 79.3%, Barbara ROSENKRANZ 15.2%, Rudolf GEHRING 5.4%<br>
+_elections/appointments_: president directly elected by absolute majority popular vote in 2 rounds if needed for a 6-year term (eligible for a second term); elections last held on 9 October 2022 (first round), (second round, which was annulled), (next election to be held in 2028); chancellor appointed by the president but determined by the majority coalition parties in the Federal Assembly; vice chancellor appointed by the president on the advice of the chancellor<br>
+_election results_: Alexander VAN DER BELLEN elected in first round; percent of vote - Alexander VAN DER BELLEN (the Greens) 56.7%, Walter ROSENKRANZ (FPO) 17.7%, Dominik WLAZNY (Bier) 8.3%, Tassilo WALLENTIN (independent) 8.1%, Gerald GROSZ (independent) 5.6%<em><br><br>2016:</em> Alexander VAN DER BELLEN elected in second round; percent of vote in first round - Norbert HOFER (FPOe) 35.1%, Alexander VAN DER BELLEN (independent, allied with the Greens) 21.3%, Irmgard GRISS (independent) 18.9%, Rudolf HUNDSTORFER (SPOe) 11.3%, Andreas KHOL (OeVP) 11.1%, Richard LUGNER (independent) 2.3%; percent of vote in second round re-vote - Alexander VAN DER BELLEN 53.8%, Norbert HOFER 46.2%<br><br><em>2010: </em> Heinz FISCHER re-elected; percent of vote - Heinz FISCHER 79.3%, Barbara ROSENKRANZ 15.2%, Rudolf GEHRING 5.4%<br>
 
 **Legislative branch**<br>
 _description_: bicameral Federal Assembly or Bundesversammlung consists of:<br>Federal Council or Bundesrat (61 seats; members appointed by state parliaments with each state receiving 3 to 12 seats in proportion to its population; members serve 5- or 6-year terms)<br>National Council or Nationalrat (183 seats; members directly elected in single-seat constituencies by proportional representation vote; members serve 5-year terms)<br>
@@ -395,7 +395,7 @@ _selected World Heritage Site locales_: Historic Salzburg (c); Palace and Garden
 ## Economy
 
 **Economic overview**<br>
-<p>Austria is a well-developed market economy with skilled labor force and high standard of living. It is closely tied to other EU economies, especially Germany's, but also the US’, its third-largest trade partner. Its economy features a large service sector, a sound industrial sector, and a small, but highly developed agricultural sector.</p> <p> </p> <p>Austrian economic growth strengthened in 2017, with a 2.9% increase in GDP. Austrian exports, accounting for around 60% of the GDP, were up 8.2% in 2017. Austria’s unemployment rate fell by 0.3% to 5.5%, which is low by European standards, but still at its second highest rate since the end of World War II, driven by an increased number of refugees and EU migrants entering the labor market.</p> <p> </p> <p>Austria's fiscal position compares favorably with other euro-zone countries. The budget deficit stood at a low 0.7% of GDP in 2017 and public debt declined again to 78.4% of GDP in 2017, after reaching a post-war high 84.6% in 2015. The Austrian government has announced it plans to balance the fiscal budget in 2019. Several external risks, such as Austrian banks' exposure to Central and Eastern Europe, the refugee crisis, and continued unrest in Russia/Ukraine, eased in 2017, but are still a factor for the Austrian economy. Exposure to the Russian banking sector and a deep energy relationship with Russia present additional risks.</p> <p> </p> <p>Austria elected a new pro-business government in October 2017 that campaigned on promises to reduce bureaucracy, improve public sector efficiency, reduce labor market protections, and provide positive investment incentives.</p><br>
+<p>Austria is a well-developed market economy with skilled labor force and high standard of living. It is closely tied to other EU economies, especially Germany's, but also the US’, its third-largest trade partner. Its economy features a large service sector, a sound industrial sector, and a small, but highly developed agricultural sector.</p> <p>Austrian economic growth strengthened in 2017, with a 2.9% increase in GDP. Austrian exports, accounting for around 60% of the GDP, were up 8.2% in 2017. Austria’s unemployment rate fell by 0.3% to 5.5%, which is low by European standards, but still at its second highest rate since the end of World War II, driven by an increased number of refugees and EU migrants entering the labor market.</p> <p>Austria's fiscal position compares favorably with other euro-zone countries. The budget deficit stood at a low 0.7% of GDP in 2017 and public debt declined again to 78.4% of GDP in 2017, after reaching a post-war high 84.6% in 2015. The Austrian government has announced it plans to balance the fiscal budget in 2019. Several external risks, such as Austrian banks' exposure to Central and Eastern Europe, the refugee crisis, and continued unrest in Russia/Ukraine, eased in 2017, but are still a factor for the Austrian economy. Exposure to the Russian banking sector and a deep energy relationship with Russia present additional risks.</p> <p>Austria elected a new pro-business government in October 2017 that campaigned on promises to reduce bureaucracy, improve public sector efficiency, reduce labor market protections, and provide positive investment incentives.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
 $463.12 billion (2020 est.)<br>
@@ -585,10 +585,10 @@ _crude oil estimated reserves_: 35.2 million barrels (2021 est.)<br>
 135,500 bbl/day (2017 est.)<br>
 
 **Natural gas**<br>
-_production_: 924.515 million cubic meters (2019 est.)<br>
-_consumption_: 9,207,632,000 cubic meters (2019 est.)<br>
-_exports_: 2,800,248,000 cubic meters (2019 est.)<br>
-_imports_: 14,114,028,000 cubic meters (2019 est.)<br>
+_production_: 924.5 million cubic meters (2019 est.)<br>
+_consumption_: 9.208 billion cubic meters (2019 est.)<br>
+_exports_: 2.8 billion cubic meters (2019 est.)<br>
+_imports_: 14.11 billion cubic meters (2019 est.)<br>
 _proven reserves_: 5.04 billion cubic meters (2021 est.)<br>
 
 **Carbon dioxide emissions**<br>
@@ -725,7 +725,7 @@ Islamic State of Iraq and ash-Sham (ISIS)<br>
 <p>none identified</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 57,887 (Syria), 41,037 (Afghanistan), 9,661 (Iraq), 8,212 (Somalia), 7,046 (Iran), 7,003 (Russia) (mid-year 2021); 89,244 (Ukraine) (as of 6 December 2022)<br>
+_refugees (country of origin)_: 57,887 (Syria), 41,037 (Afghanistan), 9,661 (Iraq), 8,212 (Somalia), 7,046 (Iran), 7,003 (Russia) (mid-year 2021); 90,126 (Ukraine) (as of 20 December 2022)<br>
 _stateless persons_: 3,229 (mid-year 2021)<br>
 
 **Illicit drugs**<br>

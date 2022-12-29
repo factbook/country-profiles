@@ -126,7 +126,7 @@ _female_: 46.6 years (2020 est.)<br>
 a fairly even distribution throughout most of the country, with urban areas attracting larger and denser populations; pockets in the mountainous northwest exhibit less density than elsewhere<br>
 
 **Urbanization**<br>
-_urban population_: 55.8% of total population (2022)<br>
+_urban population_: 56.1% of total population (2023)<br>
 _rate of urbanization_: 0.54% annual rate of change (2020-25 est.)<br>
 
 **Major urban areas - population**<br>
@@ -253,7 +253,7 @@ _forest_: 62.3% (2018 est.)<br>
 _other_: 14.9% (2018 est.)<br>
 
 **Urbanization**<br>
-_urban population_: 55.8% of total population (2022)<br>
+_urban population_: 56.1% of total population (2023)<br>
 _rate of urbanization_: 0.54% annual rate of change (2020-25 est.)<br>
 
 **Revenue from forest resources**<br>
@@ -699,7 +699,7 @@ Slovenia became a member of NATO in 2004; Hungary and Italy provide NATO's air p
 <p><em>Slovenia-Austria</em>: none identified</p> <p><em>Slovenia-Croatia</em>: since the breakup of Yugoslavia in the early 1990s, Croatia and Slovenia have each claimed sovereignty over Piran Bay and four villages, and Slovenia has objected to Croatia's claim of an exclusive economic zone in the Adriatic Sea; in 2009, however Croatia and Slovenia signed a binding international arbitration agreement to define their disputed land and maritime borders, which led Slovenia to lift its objections to Croatia joining the EU; in June 2017, the Permanent Court of Arbitration issued a ruling on the border, but Croatia had withdrawn from the proceedings in 2015 and refused to implement it; as a member state that forms part of the EU's external border, Slovenia has implemented the strict Schengen border rules to curb illegal migration and commerce through southeastern Europe while encouraging close cross-border ties with Croatia</p> <p><em>Slovenia-Hungary</em>: none identified</p> <p><em>Slovenia-Italy</em>: none identified</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 8,655 (Ukraine) (as of 29 November 2022)<br>
+_refugees (country of origin)_: 8,821 (Ukraine) (as of 20 December 2022)<br>
 _stateless persons_: 10 (2020)<br>
 <strong>note:  </strong>557,468 estimated refugee and migrant arrivals (January 2015-October 2022)<br>
 

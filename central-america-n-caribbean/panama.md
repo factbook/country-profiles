@@ -131,11 +131,11 @@ _female_: 30.5 years (2020 est.)<br>
 population is concentrated towards the center of the country, particularly around the Canal, but a sizeable segment of the populace also lives in the far west around David; the eastern third of the country is sparsely inhabited<br>
 
 **Urbanization**<br>
-_urban population_: 69.1% of total population (2022)<br>
+_urban population_: 69.5% of total population (2023)<br>
 _rate of urbanization_: 1.92% annual rate of change (2020-25 est.)<br>
 
 **Major urban areas - population**<br>
-1.938 million PANAMA CITY (capital) (2022)<br>
+1.977 million PANAMA CITY (capital) (2023)<br>
 
 **Sex ratio**<br>
 _at birth_: 1.06 male(s)/female<br>
@@ -261,7 +261,7 @@ _forest_: 43.6% (2018 est.)<br>
 _other_: 25.9% (2018 est.)<br>
 
 **Urbanization**<br>
-_urban population_: 69.1% of total population (2022)<br>
+_urban population_: 69.5% of total population (2023)<br>
 _rate of urbanization_: 1.92% annual rate of change (2020-25 est.)<br>
 
 **Revenue from forest resources**<br>

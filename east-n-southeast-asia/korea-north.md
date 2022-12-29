@@ -130,7 +130,7 @@ _urban population_: 63.2% of total population (2023)<br>
 _rate of urbanization_: 0.85% annual rate of change (2020-25 est.)<br>
 
 **Major urban areas - population**<br>
-3.133 million PYONGYANG (capital) (2022)<br>
+3.158 million PYONGYANG (capital) (2023)<br>
 
 **Sex ratio**<br>
 _at birth_: 1.06 male(s)/female<br>
@@ -638,8 +638,8 @@ in addition to the invasion of South Korea and the subsequent Korean War (1950-5
 _IDPs_: undetermined (2021)<br>
 
 **Trafficking in persons**<br>
-_current situation_: North Korea is a source country for men, women, and children who are subjected to forced labor, forced marriage, and sex trafficking; in the recent past, many North Korean women and girls lured by promises of food, jobs, and freedom migrated to China illegally to escape poor social and economic conditions only to be forced into prostitution, marriage, or exploitative labor arrangements; North Koreans do not have a choice in the work the government assigns them and are not free to change jobs at will; many North Korean workers recruited to work abroad under bilateral contracts with foreign governments are subjected to forced labor and reportedly face government reprisals if they try to escape or complain to outsiders; thousands of North Koreans, including children, are subjected to forced labor in prison camps<br>
 _tier rating_: Tier 3 &mdash; the government of North Korea does not fully meet the minimum standards for the elimination of trafficking and is not making significant efforts to do so; during this reporting period there was a government policy or pattern of forced labor of adults and children in prison camps, labor training centers, and through its imposition of forced labor conditions on North Korean overseas contract workers; &nbsp;proceeds from state-sponsored forced labor fund government functions and illicit activities; the government has made no effort to address human trafficking (2020)<br>
+_trafficking profile_: North Korea is a source country for men, women, and children who are subjected to forced labor, forced marriage, and sex trafficking; in the recent past, many North Korean women and girls lured by promises of food, jobs, and freedom migrated to China illegally to escape poor social and economic conditions only to be forced into prostitution, marriage, or exploitative labor arrangements; North Koreans do not have a choice in the work the government assigns them and are not free to change jobs at will; many North Korean workers recruited to work abroad under bilateral contracts with foreign governments are subjected to forced labor and reportedly face government reprisals if they try to escape or complain to outsiders; thousands of North Koreans, including children, are subjected to forced labor in prison camps<br>
 
 **Illicit drugs**<br>
 at present there is insufficient information to determine the current level of involvement of government officials in the production or trafficking of illicit drugs, but for years, from the 1970s into the 2000s, citizens of North Korea , many of them diplomatic employees of the government, were apprehended abroad while trafficking in narcotics; police investigations in Taiwan, Japan and Australia during that period have linked North Korea to large illicit shipments of heroin and methamphetamine<br>

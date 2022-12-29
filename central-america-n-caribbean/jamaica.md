@@ -129,7 +129,7 @@ _urban population_: 57.4% of total population (2023)<br>
 _rate of urbanization_: 0.79% annual rate of change (2020-25 est.)<br>
 
 **Major urban areas - population**<br>
-595,000 KINGSTON (capital) (2022)<br>
+597,000 KINGSTON (capital) (2023)<br>
 
 **Sex ratio**<br>
 _at birth_: 1.05 male(s)/female<br>

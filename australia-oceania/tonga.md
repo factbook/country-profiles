@@ -123,7 +123,7 @@ _female_: 24.5 years (2020 est.)<br>
 over two-thirds of the population lives on the island of Tongatapu; only 45 of the nation's 171 islands are occupied<br>
 
 **Urbanization**<br>
-_urban population_: 23.1% of total population (2022)<br>
+_urban population_: 23.2% of total population (2023)<br>
 _rate of urbanization_: 0.99% annual rate of change (2020-25 est.)<br>
 
 **Major urban areas - population**<br>
@@ -259,7 +259,7 @@ _forest_: 12.5% (2018 est.)<br>
 _other_: 44.4% (2018 est.)<br>
 
 **Urbanization**<br>
-_urban population_: 23.1% of total population (2022)<br>
+_urban population_: 23.2% of total population (2023)<br>
 _rate of urbanization_: 0.99% annual rate of change (2020-25 est.)<br>
 
 **Revenue from forest resources**<br>
@@ -583,7 +583,7 @@ _total subscriptions_: 62,104 (2019)<br>
 _subscriptions per 100 inhabitants_: 59.43 (2019)<br>
 
 **Telecommunication systems**<br>
-_general assessment_: high speed Internet provided by 3 MNOs, has subsequently allowed for better health care services, faster connections for education and growing e-commerce services; in 2018 new 4G LTE network; fixed-line teledensity has dropped given mobile subscriptions; mobile technology dominates given the island's geography; satellite technology is widespread and is important especially in areas away from the city; the launch in 2019 of the Kacific-1 broadband satellite has made broadband more widely available for around 89 remote communities (2020)<br>
+_general assessment_: high speed Internet provided by 3 Mobile Network Operators, has subsequently allowed for better health care services, faster connections for education and growing e-commerce services; in 2018 new 4G LTE network; fixed-line teledensity has dropped given mobile subscriptions; mobile technology dominates given the island's geography; satellite technology is widespread and is important especially in areas away from the city; the launch in 2019 of the Kacific-1 broadband satellite has made broadband more widely available for around 89 remote communities (2020)<br>
 _domestic_: fixed-line 7 per 100 persons and mobile-cellular teledensity 59 telephones per 100; fully automatic switched network (2020)<br>
 _international_: country code - 676; landing point for the Tonga Cable and the TDCE connecting to Fiji and 3 separate Tonga islands; satellite earth station - 1 Intelsat (Pacific Ocean) (2020)<br>
 <strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress toward 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>
