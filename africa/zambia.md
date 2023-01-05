@@ -173,6 +173,9 @@ _female_: 68.06 years (2022 est.)<br>
 **Total fertility rate**<br>
 4.56 children born/woman (2022 est.)<br>
 
+**Gross reproduction rate**<br>
+2.25 (2022 est.)<br>
+
 **Contraceptive prevalence rate**<br>
 49.6% (2018)<br>
 
@@ -225,6 +228,9 @@ _other alcohols_: 2.16 liters of pure alcohol (2019 est.)<br>
 _total_: 14.4% (2020 est.)<br>
 _male_: 25.1% (2020 est.)<br>
 _female_: 3.7% (2020 est.)<br>
+
+**Currently married women (ages 15-49)**<br>
+53.8% (2022 est.)<br>
 
 **Children under the age of 5 years underweight**<br>
 11.8% (2018/19)<br>
@@ -737,7 +743,7 @@ the Zambian Defense Force (ZDF) traces its roots to the Northern Rhodesia Regime
 <p><em>Zambia-Angola: </em>because the straight-line segments along the left bank (Zambian side) of the Cuando/Kwando River do not conform with the physical alignment of the unstable shoreline, Zambian residents in some areas have settled illegally on sections of shoreline that fall on the Angolan side of the boundary<em><br><br>Zambia-Democratic Republic of Congo(DRC): </em>boundary commission continues discussions over Congolese-administered triangle of land on the right bank of the Lunkinda River claimed by Zambia near the DRC village of Pweto</p> <p><em>Zambia-Tanzania</em>: some drug smuggling may take place across the Zambia-Tanzania border; there are no known current territorial issues, as both states have continued to recognize the colonial boundaries last modified in 1937; the boundary in Lake Tanganyika remains undefined.<br><br><em>Zambia-Zimbabwe: </em>in 2004, Zimbabwe dropped objections to plans between Botswana and Zambia to build a bridge over the Zambezi River, thereby de facto recognizing a short, but not clearly delimited, Botswana-Zambia boundary in the river; in May 2021, Botswana and Zambia agreed in principle to let Zimbabwe be a partner in the bridge project as it enters its lasts phase</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 60,236 (Democratic Republic of the Congo) (refugees and asylum seekers), 6,948 (Burundi) (2022)<br>
+_refugees (country of origin)_: 56,527 (Democratic Republic of the Congo) (refugees and asylum seekers), 7,083 (Burundi) (2022)<br>
 
 **Trafficking in persons**<br>
 _tier rating_: Tier 2 Watch List —<strong> </strong>Zambia does not fully meet the minimum standards for the elimination of trafficking but is making efforts to do so; efforts included increasing law enforcement training, establishing two fast-track human trafficking courts, conducting awareness campaigns about human trafficking, slightly increasing prosecutions and convictions, and strengthening prison sentences given to traffickers; however; investigations of trafficking crimes and funding to shelters and other victim assistance programs decreased; authorities did not proactively screen for trafficking among vulnerable populations, including foreign nationals and those involved in commercial sex; authorities detained and deported potential trafficking victims involved in smuggling; the national inter-ministerial committee is weak in overseeing national anti-trafficking efforts and trends (2020)<br>

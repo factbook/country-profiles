@@ -5,7 +5,7 @@ _Middle East / Countries_
 ## Introduction
 
 **Background**<br>
-Israel has emerged as a regional economic and military powerhouse, leveraging its booming high-tech sector, massive defense industry, and concerns about Iran to foster partnerships around the world. The State of Israel was established in 1948. The UN General Assembly had proposed to partition the British Mandate for Palestine into an Arab and Jewish state. Arab states rejected the UN plan and were subsequently defeated militarily in the 1948 war that followed the withdrawal of the British on 14 May 1948. Israel was admitted as a member of the UN in 1949 and saw rapid population growth, primarily due to migration from Europe and the Middle East, over the following years. Israel and its Arab neighbors fought wars in 1967 and 1973 and Israel signed peace treaties with Egypt in 1979 and Jordan in 1994. Israel took control of the West Bank and Gaza Strip in the course of the 1967 war, and subsequently administered those territories through military authorities. Israel and Palestinian officials signed interim agreements in the 1990s that created an interim period of Palestinian self-rule in parts of the West Bank and Gaza. Israel withdrew from Gaza in 2005. While the most recent formal efforts between Israel and the Palestinian Authority to negotiate final status issues occurred in 2013-2014, the US continues its efforts to advance peace. Immigration to Israel continues, with more than 20,000 new immigrants, mostly Jewish, in 2020.<br><br>The Israeli economy has undergone a dramatic transformation in the last 25 years, led by cutting-edge, high-tech sectors. Offshore gas discoveries in the Mediterranean, most notably in the Tamar and Leviathan gasfields, place Israel at the center of a potential regional natural gas market. However, longer-term structural issues such as low labor force participation among minority populations, low workforce productivity, high costs for housing and consumer staples, and a lack of competition, remain a concern for many Israelis and an important consideration for Israeli politicians. Former Prime Minister Benjamin NETANYAHU dominated Israel's political landscape from 2009 to June 2021, becoming Israel's longest serving prime minister before he was unseated by Naftali BENNETT, after Israel's fourth election in two years. BENNETT formed the most ideologically diverse coalition in Israel's history, including the participation of an Arab-Israeli party. He only served as prime minister for a year before stepping down on 1 July 2022 in favor of Yair LAPID. Israel signed normalization agreements – brokered by the US – with Bahrain, the United Arab Emirates, and Morocco in late 2020 and reached an agreement with Sudan in early 2021.<br>
+Israel has emerged as a regional economic and military powerhouse, leveraging its booming high-tech sector, massive defense industry, and concerns about Iran to foster partnerships around the world. The State of Israel was established in 1948. The UN General Assembly had proposed to partition the British Mandate for Palestine into an Arab and Jewish state. Arab states rejected the UN plan and were subsequently defeated militarily in the 1948 war that followed the withdrawal of the British on 14 May 1948. Israel was admitted as a member of the UN in 1949 and saw rapid population growth, primarily due to migration from Europe and the Middle East, over the following years. Israel and its Arab neighbors fought wars in 1967 and 1973 and Israel signed peace treaties with Egypt in 1979 and Jordan in 1994. Israel took control of the West Bank and Gaza Strip in the course of the 1967 war, and subsequently administered those territories through military authorities. Israel and Palestinian officials signed interim agreements in the 1990s that created an interim period of Palestinian self-rule in parts of the West Bank and Gaza. Israel withdrew from Gaza in 2005. While the most recent formal efforts between Israel and the Palestinian Authority to negotiate final status issues occurred in 2013-2014, the US continues its efforts to advance peace. Immigration to Israel continues, with more than 20,000 new immigrants, mostly Jewish, in 2020.<br><br>The Israeli economy has undergone a dramatic transformation in the last 25 years, led by cutting-edge, high-tech sectors. Offshore gas discoveries in the Mediterranean, most notably in the Tamar and Leviathan gasfields, place Israel at the center of a potential regional natural gas market. However, longer-term structural issues such as low labor force participation among minority populations, low workforce productivity, high costs for housing and consumer staples, and a lack of competition, remain a concern for many Israelis and an important consideration for Israeli politicians. Former Prime Minister Benjamin NETANYAHU dominated Israel's political landscape from 2009 to June 2021, becoming Israel's longest serving prime minister before he was unseated by Naftali BENNETT, after Israel's fourth election in two years. BENNETT formed the most ideologically diverse coalition in Israel's history, including the participation of an Arab-Israeli party. He served as prime minister for a year before stepping down on 1 July 2022 in favor of Yair LAPID, who was in office for only six months before himself being succeeded by Benjamin NETANYAHU in late 2022. Israel signed normalization agreements – brokered by the US – with Bahrain, the United Arab Emirates, and Morocco in late 2020 and reached an agreement with Sudan in early 2021.<br>
 
 ## Geography
 
@@ -162,6 +162,9 @@ _female_: 85.34 years (2022 est.)<br>
 **Total fertility rate**<br>
 2.56 children born/woman (2022 est.)<br>
 
+**Gross reproduction rate**<br>
+1.25 (2022 est.)<br>
+
 **Contraceptive prevalence rate**<br>
 NA<br>
 
@@ -207,6 +210,9 @@ _other alcohols_: 0.04 liters of pure alcohol (2019 est.)<br>
 _total_: 21.2% (2020 est.)<br>
 _male_: 28.9% (2020 est.)<br>
 _female_: 13.5% (2020 est.)<br>
+
+**Currently married women (ages 15-49)**<br>
+51.9% (2022 est.)<br>
 
 **Children under the age of 5 years underweight**<br>
 NA<br>
@@ -335,7 +341,7 @@ _residency requirement for naturalization_: 3 out of the 5 years preceding the a
 
 **Executive branch**<br>
 _chief of state_: President Isaac HERZOG (since 7 July 2021)<br>
-_head of government_: on 13 November 2022, President HERZOG tasked Benjamin NETANYHU with forming a new government<br>
+_head of government_: Benjamin NETANYAHU (since 29 December 2022)<br>
 _cabinet_: Cabinet selected by prime minister and approved by the Knesset<br>
 _elections/appointments_: president indirectly elected by the Knesset for a single 7-year term; election last held on 2 June 2021 (next to be held in June 2028); following legislative elections, the president, in consultation with party leaders, tasks a Knesset member (usually the member of the largest party) with forming a new government<br>
 _election results_: <em>2021:</em> Issac HERZOG elected president; Knesset vote - Issac HERZOG (independent) 87, Miriam PERETZ (independent) 26, invalid/blank 7<br>

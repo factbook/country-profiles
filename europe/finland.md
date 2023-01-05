@@ -164,6 +164,9 @@ _female_: 84.79 years (2022 est.)<br>
 **Total fertility rate**<br>
 1.74 children born/woman (2022 est.)<br>
 
+**Gross reproduction rate**<br>
+0.85 (2022 est.)<br>
+
 **Contraceptive prevalence rate**<br>
 85.5% (2015)<br>
 <strong>note:</strong> percent of women aged 18-49<br>
@@ -210,6 +213,9 @@ _other alcohols_: 0.91 liters of pure alcohol (2019 est.)<br>
 _total_: 21.6% (2020 est.)<br>
 _male_: 26.9% (2020 est.)<br>
 _female_: 16.3% (2020 est.)<br>
+
+**Currently married women (ages 15-49)**<br>
+57.3% (2022 est.)<br>
 
 **Children under the age of 5 years underweight**<br>
 NA<br>
@@ -657,8 +663,7 @@ _under 914 m_: 71 (2021)<br>
 1,288 km gas transmission pipes, 1,976 km distribution pipes (2016)<br>
 
 **Railways**<br>
-_total_: 5,926 km (2016)<br>
-_broad gauge_: 5,926 km (2016) 1.524-m gauge (3,270 km electrified)<br>
+_total_: 5,918 km (2020) 3,349 km electrified<br>
 
 **Roadways**<br>
 _total_: 454,000 km (2012)<br>
@@ -675,7 +680,7 @@ _by type_: bulk carrier 9, container ship 1, general cargo 74, oil tanker 4, oth
 
 **Ports and terminals**<br>
 _major seaport(s)_: Helsinki, Kotka, Naantali, Porvoo, Raahe, Rauma<br>
-_LNG terminal(s) (import)_: Pori, Tornio Manga, Hamina<br>
+_LNG terminal(s) (import)_: Hamina, Inkoo (operational 2023), Pori, Tornio Manga<br>
 
 **Transportation - note**<br>
 Finland operates icebreakers in the Baltic Sea including seven PC 3 or 4 class medium icebreakers and two PC 5 or 6 class light icebreakers<br>note - PC indicates a Polar Class vessel: PC 3 - year-round operation in second-year ice which may include multi-year ice inclusions (ice thickness up to 2.5 m); PC 4 - year-round operation in thick first-year ice which may include old ice inclusions (ice thickness up to 120 cm); PC 5 - year-round operation in medium first-year ice which may include old ice inclusions (ice thickness up to 70-120 cm); PC 6 - summer/autumn operation in medium first-year ice which may include old ice inclusions (ice thickness up to 30-70 cm)<br>
@@ -715,6 +720,6 @@ Finland is not a member of NATO, but Finland and NATO have actively cooperated i
 <p>various groups in Finland advocate restoration of Karelia and other areas ceded to the former Soviet Union, but the Finnish Government asserts no territorial demands</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 9,053 (Iraq) (mid-year 2021); 47,067 (Ukraine) (as of 20 December 2022)<br>
+_refugees (country of origin)_: 9,053 (Iraq) (mid-year 2021); 47,111 (Ukraine) (as of 27 December 2022)<br>
 _stateless persons_: 3,416 (mid-year 2021)<br>
 

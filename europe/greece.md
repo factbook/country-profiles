@@ -160,6 +160,9 @@ _female_: 84.2 years (2022 est.)<br>
 **Total fertility rate**<br>
 1.4 children born/woman (2022 est.)<br>
 
+**Gross reproduction rate**<br>
+0.68 (2022 est.)<br>
+
 **Contraceptive prevalence rate**<br>
 NA<br>
 
@@ -205,6 +208,9 @@ _other alcohols_: 0.08 liters of pure alcohol (2019 est.)<br>
 _total_: 33.5% (2020 est.)<br>
 _male_: 36.5% (2020 est.)<br>
 _female_: 30.5% (2020 est.)<br>
+
+**Currently married women (ages 15-49)**<br>
+54.5% (2022 est.)<br>
 
 **Children under the age of 5 years underweight**<br>
 NA<br>
@@ -651,10 +657,7 @@ _under 914 m_: 7 (2021)<br>
 1,466 km gas, 94 km oil (2013)<br>
 
 **Railways**<br>
-_total_: 2,548 km (2014)<br>
-_standard gauge_: 1,565 km (2014) 1.435-m gauge (764 km electrified)<br>
-_narrow gauge_: 961 km (2014) 1.000-m gauge<br>
-220.750 km-mm gauge<br>
+_total_: 2,345 km (2020) 731 km electrified<br>
 
 **Roadways**<br>
 _total_: 117,000 km (2018)<br>
@@ -716,7 +719,7 @@ Islamic State of Iraq and ash-Sham (ISIS); Revolutionary Struggle; Revolutionary
 **Refugees and internally displaced persons**<br>
 _refugees (country of origin)_: 38,496 (Syria), 25,188 (Afghanistan), 12,657 (Iraq), 5,002 (West Bank and Gaza) (mid-year 2021); 20,955 (Ukraine) (as of 6 December 2022)<br>
 _stateless persons_: 5,552 (mid-year 2021)<br>
-<strong>note:</strong> 1,229,532 estimated refugee and migrant arrivals (January 2015-December 2022); as of the end of February 2022, Greece hosted an estimated 161,419 refugees and asylum seekers<br>
+<strong>note:</strong> 1,232,524 estimated refugee and migrant arrivals (January 2015-December 2022)<br>
 
 **Illicit drugs**<br>
 a gateway to Europe for traffickers smuggling cannabis products and heroin from the Middle East and Southwest Asia to the West and precursor chemicals to the East; some South American cocaine transits or is consumed in Greece; money laundering related to drug trafficking and organized crime<br>

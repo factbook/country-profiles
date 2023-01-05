@@ -173,6 +173,9 @@ _female_: 72.59 years (2022 est.)<br>
 **Total fertility rate**<br>
 2.24 children born/woman (2022 est.)<br>
 
+**Gross reproduction rate**<br>
+1.1 (2022 est.)<br>
+
 **Contraceptive prevalence rate**<br>
 56.3% (2014)<br>
 
@@ -223,6 +226,9 @@ _other alcohols_: 0 liters of pure alcohol (2019 est.)<br>
 _total_: 21.1% (2020 est.)<br>
 _male_: 36.1% (2020 est.)<br>
 _female_: 6% (2020 est.)<br>
+
+**Currently married women (ages 15-49)**<br>
+66.7% (2022 est.)<br>
 
 **Children under the age of 5 years underweight**<br>
 24.1% (2014)<br>
@@ -728,8 +734,8 @@ the Royal Cambodian Armed Forces (RCAF) was re-established in 1993 under the fir
 _stateless persons_: 57,444 (mid-year 2021)<br>
 
 **Trafficking in persons**<br>
-_tier rating_: Tier 2 Watch List &mdash; Cambodia does not fully meet the minimum standards for the elimination of trafficking but is making significant efforts to do so; authorities continued to prosecute and convict traffickers and utilized new victim identification and data collection technologies; the government enacted a five-year national action plan to combat human trafficking; however, corruption continued to impede law enforcement efforts, criminal proceedings, and services to victims; some corrupt officials may have profited directly from sex and labor trafficking or accepted bribes to dismiss charges or reduce sentences; insufficient judicial monitoring systems enabled suspected traffickers to flee before trial; authorities failed to issue formal guidance allowing the use of undercover techniques in anti-trafficking investigations (2020)<br>
-_trafficking profile_: human traffickers exploit Cambodian men, women, and children in forced labor and sex trafficking in Cambodia and abroad, and foreign nationals are trafficked in Cambodia; Cambodian adults and children migrate to other countries in the region or increasingly to the Middle East where traffickers force them to work in agriculture, fishing, construction, manufacturing, and domestic servitude; significant numbers of Cambodian men and boys are subject to forced labor on Thai ships in international waters and may experience physical abuse, nonpayment or underpayment of wages, and confinement at sea for years; brick kiln owners exploit thousands of Cambodians, including children, through debt-based coercion; children from poor families are vulnerable to forced labor, often with the complicity of their parents, in domestic servitude, forced begging, or street vending in Thailand and Vietnam; Cambodian and ethnic Vietnamese women and girls from rural areas move to cities and tourist areas where they are sex trafficked<br>
+_tier rating_: Tier 3 &mdash; Cambodia does not fully meet the minimum standards for the elimination of trafficking and is not making significant efforts to do so; therefore, Cambodia was downgraded to Tier 3; authorities took some steps to address trafficking, including continuing to arrest, prosecute and convict some traffickers, and identifying and assisting some victims; however, corruption continued to impede law enforcement efforts, legal actions, and provision of services to victims; authorities did not investigate or take legal action against any officials involved in the large majority of credible reports of complicity; officials failed to proactively identify victims among the highly vulnerable groups of men, women, and children subjected to human trafficking throughout the country; authorities did not provide adequate protection for victims domestically or overseas and relied heavily on foreign donors and NGOs to provide care (2022)<br>
+_trafficking profile_: human traffickers exploit Cambodian men, women, and children in forced labor and sex trafficking in Cambodia and abroad, and foreign nationals are trafficked in Cambodia; Cambodian adults and children migrate to other countries in the region or increasingly to the Middle East where traffickers force them to work in agriculture, fishing, construction, manufacturing, and domestic servitude; significant numbers of Cambodian men and boys are subject to forced labor on Thai ships in international waters and may experience physical abuse, nonpayment or underpayment of wages, and confinement at sea; brick kiln owners exploit thousands of Cambodians, including children, through debt-based coercion; children from poor families are vulnerable to forced labor, often with the complicity of their parents, in domestic servitude, forced begging, or street vending in Thailand and Vietnam; traffickers recruit Cambodian women and girls from rural areas under false pretenses, or sometimes through complicit parents, to travel to the PRC to marry PRC-national men where they are subject to sex trafficking or forced labor; Cambodian and ethnic Vietnamese women and girls from rural areas move to cities and tourist areas where they are sex trafficked (2022)<br>
 
 **Illicit drugs**<br>
 <p>manufacture of methamphetamine expanding due to  transnational crime syndicates moving from China to evade the law; drugs destined for Australia, Japan, New Zealand and the Republic of Korea and the rest of East and South-East Asia</p> (2021)<br>

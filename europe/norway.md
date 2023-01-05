@@ -163,6 +163,9 @@ _female_: 84.79 years (2022 est.)<br>
 **Total fertility rate**<br>
 1.83 children born/woman (2022 est.)<br>
 
+**Gross reproduction rate**<br>
+0.89 (2022 est.)<br>
+
 **Contraceptive prevalence rate**<br>
 NA<br>
 
@@ -208,6 +211,9 @@ _other alcohols_: 0.19 liters of pure alcohol (2019 est.)<br>
 _total_: 16.2% (2020 est.)<br>
 _male_: 17% (2020 est.)<br>
 _female_: 15.4% (2020 est.)<br>
+
+**Currently married women (ages 15-49)**<br>
+50.5% (2022 est.)<br>
 
 **Children under the age of 5 years underweight**<br>
 NA<br>
@@ -651,8 +657,7 @@ _under 914 m_: 22 (2021)<br>
 8,520 km gas, 1,304 km oil/condensate (2017)<br>
 
 **Railways**<br>
-_total_: 4,200 km (2019)<br>
-_standard gauge_: 4,200 km (2019) 1.435-m gauge (2,480 km electrified)<br>
+_total_: 3,848 km (2020) 2,482 km electrified<br>
 
 **Roadways**<br>
 _total_: 94,902 km (2018) (includes 455 km of expressways)<br>
@@ -708,6 +713,6 @@ Norway is a member of NATO and was one of the original 12 countries to sign the 
 <p><em>Norway-Antarctica</em>: Norway asserts a territorial claim in Antarctica (Queen Maud Land and its continental shelf)</p> <p><em>Norway-Russia</em>: Russia amended its 2001 CLCS submission in 2015 and 2021, each time delineating the outer limits of its continental shelf further into the Arctic Ocean; Norway and Russia signed a comprehensive maritime boundary agreement in 2010, ending a dispute over an area of the Barents Sea by dividing the territory equally</p> <p><em>Norway-Sweden</em>: none identified</p> <p> </p> <p> </p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 15,542 (Syria), 11,965 (Eritrea) (mid-year 2021); 35,321 (Ukraine) (as of 20 December 2022)<br>
+_refugees (country of origin)_: 15,542 (Syria), 11,965 (Eritrea) (mid-year 2021); 35,649 (Ukraine) (as of 23 December 2022)<br>
 _stateless persons_: 4,154 (mid-year 2021)<br>
 

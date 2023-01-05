@@ -154,6 +154,9 @@ _female_: 77.01 years (2022 est.)<br>
 **Total fertility rate**<br>
 2.76 children born/woman (2022 est.)<br>
 
+**Gross reproduction rate**<br>
+1.35 (2022 est.)<br>
+
 **Contraceptive prevalence rate**<br>
 NA<br>
 
@@ -197,6 +200,9 @@ _vectorborne diseases_: malaria<br>
 _total_: 28.5% (2020 est.)<br>
 _male_: 48.7% (2020 est.)<br>
 _female_: 8.3% (2020 est.)<br>
+
+**Currently married women (ages 15-49)**<br>
+68.3% (2022 est.)<br>
 
 **Children under the age of 5 years underweight**<br>
 11.9% (2017)<br>

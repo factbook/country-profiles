@@ -164,6 +164,9 @@ _female_: 81.06 years (2022 est.)<br>
 **Total fertility rate**<br>
 1.48 children born/woman (2022 est.)<br>
 
+**Gross reproduction rate**<br>
+0.72 (2022 est.)<br>
+
 **Contraceptive prevalence rate**<br>
 NA<br>
 
@@ -213,6 +216,9 @@ _other alcohols_: 0 liters of pure alcohol (2019 est.)<br>
 _total_: 31.8% (2020 est.)<br>
 _male_: 35.8% (2020 est.)<br>
 _female_: 27.8% (2020 est.)<br>
+
+**Currently married women (ages 15-49)**<br>
+52.4% (2022 est.)<br>
 
 **Children under the age of 5 years underweight**<br>
 NA<br>
@@ -671,10 +677,7 @@ _under 914 m_: 11 (2021)<br>
 5,874 km gas (high-pressure transmission system), 83,732 km gas (low-pressure distribution network), 850 km oil, 1,200 km refined products (2018)<br>
 
 **Railways**<br>
-_total_: 8,049 km (2014)<br>
-_standard gauge_: 7,794 km (2014) 1.435-m gauge (2,889 km electrified)<br>
-_narrow gauge_: 219 km (2014) 0.760-m gauge<br>
-_broad gauge_: 36 km (2014) 1.524-m gauge<br>
+_total_: 7,687 km (2020) 3,111 km electrified<br>
 
 **Roadways**<br>
 _total_: 203,601 km (2014)<br>
@@ -732,7 +735,7 @@ Islamic State of Iraq and ash-Sham (ISIS)<br>
 <p>bilateral government, legal, technical and economic working group negotiations continue in 2006 with Slovakia over Hungary's failure to complete its portion of the Gabcikovo-Nagymaros hydroelectric dam project along the Danube; as a member state that forms part of the EU's external border, Hungary has implemented the strict Schengen border rules</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 32,850 (Ukraine) (as of 20 December 2022)<br>
+_refugees (country of origin)_: 33,316 (Ukraine) (as of 3 January 2022)<br>
 _stateless persons_: 130 (mid-year 2021)<br>
 
 **Illicit drugs**<br>

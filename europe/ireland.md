@@ -157,6 +157,9 @@ _female_: 84.1 years (2022 est.)<br>
 **Total fertility rate**<br>
 1.92 children born/woman (2022 est.)<br>
 
+**Gross reproduction rate**<br>
+0.93 (2022 est.)<br>
+
 **Contraceptive prevalence rate**<br>
 NA<br>
 
@@ -202,6 +205,9 @@ _other alcohols_: 0.82 liters of pure alcohol (2019 est.)<br>
 _total_: 20.8% (2020 est.)<br>
 _male_: 22.5% (2020 est.)<br>
 _female_: 19% (2020 est.)<br>
+
+**Currently married women (ages 15-49)**<br>
+52.4% (2022 est.)<br>
 
 **Children under the age of 5 years underweight**<br>
 NA<br>
@@ -643,9 +649,7 @@ _under 914 m_: 21 (2021)<br>
 2,427 km gas (2017)<br>
 
 **Railways**<br>
-_total_: 4,301 km (2018)<br>
-_narrow gauge_: 1,930 km (2018) 0.914-m gauge (operated by the Irish Peat Board to transport peat to power stations and briquetting plants)<br>
-_broad gauge_: 2,371 km (2018) 1.600-m gauge (53 km electrified)<br>
+_total_: 1,688 km (2020) 53 km electrified<br>
 
 **Roadways**<br>
 _total_: 99,830 km (2018)<br>
@@ -704,7 +708,7 @@ Continuity Irish Republican Army; New Irish Republican Army; Islamic State of Ir
 <p><em>Ireland-Denmark</em>: Ireland, Iceland, and the UK dispute Denmark's claim that the Faroe Islands' continental shelf extends beyond 200 nm; Iceland, Norway, and the Faroe Islands signed an agreement in 2019 extending the Faroe Islands’ northern continental shelf area</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 58,511 (Ukraine) (as of 20 December 2022)<br>
+_refugees (country of origin)_: 70,070 (Ukraine) (as of 22 December 2022)<br>
 _stateless persons_: 107 (mid-year 2021)<br>
 
 **Illicit drugs**<br>

@@ -149,6 +149,9 @@ _female_: 77.25 years (2022 est.)<br>
 **Total fertility rate**<br>
 3.44 children born/woman (2022 est.)<br>
 
+**Gross reproduction rate**<br>
+1.67 (2022 est.)<br>
+
 **Contraceptive prevalence rate**<br>
 57.3% (2019/20)<br>
 <strong>note:</strong>  includes Gaza Strip and West Bank<br>
@@ -185,6 +188,10 @@ NA<br>
 
 **Major infectious diseases**<br>
 <p><strong>note: </strong>on 21 March 2022, the US Centers for Disease Control and Prevention (CDC) issued a Travel Alert for polio in Asia; the Gaza Strip is currently considered a high risk to travelers for polio; the CDC recommends that before any international travel, anyone unvaccinated, incompletely vaccinated, or with an unknown polio vaccination status should complete the routine polio vaccine series; before travel to any high-risk destination, the CDC recommends that adults who previously completed the full, routine polio vaccine series receive a single, lifetime booster dose of polio vaccine</p><br>
+
+**Currently married women (ages 15-49)**<br>
+62.3% (2022 est.)<br>
+<strong>note:</strong> data includes Gaza and the West Bank<br>
 
 **Children under the age of 5 years underweight**<br>
 2.1% (2019/20)<br>

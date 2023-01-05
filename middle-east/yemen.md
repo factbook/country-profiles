@@ -162,6 +162,9 @@ _female_: 69.94 years (2022 est.)<br>
 **Total fertility rate**<br>
 3.01 children born/woman (2022 est.)<br>
 
+**Gross reproduction rate**<br>
+1.47 (2022 est.)<br>
+
 **Contraceptive prevalence rate**<br>
 33.5% (2013)<br>
 
@@ -214,6 +217,9 @@ _other alcohols_: 0 liters of pure alcohol (2019 est.)<br>
 _total_: 20.3% (2020 est.)<br>
 _male_: 32.5% (2020 est.)<br>
 _female_: 8.1% (2020 est.)<br>
+
+**Currently married women (ages 15-49)**<br>
+60.7% (2022 est.)<br>
 
 **Children under the age of 5 years underweight**<br>
 39.9% (2013)<br>
@@ -700,6 +706,6 @@ Islamic Revolutionary Guard Corps (IRGC)/Qods Force; Islamic State of Iraq and a
 <p><em>Yemen-Oman</em>: none identified</p> <p><em>Yemen-Saudia Arabia:</em> in 2004, Saudi Arabia reinforced its concrete-filled security barrier along sections of the fully demarcated border with Yemen to stem illegal cross-border activities, including militants and arms; in 2013 and 2015, Saudi Arabia again erected fences<br><br><br></p> <p> </p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 69,671 (Somalia), 18,968 (Ethiopia) (2022)<br>
-_IDPs_: 4,288,739 (conflict in Sa'ada Governorate; clashes between al-Qa'ida in the Arabian Peninsula and government forces) (2022)<br>
+_refugees (country of origin)_: 69,671 (Somalia), 20,306 (Ethiopia) (2022)<br>
+_IDPs_: 4.52 million (conflict in Sa'ada Governorate; clashes between al-Qa'ida in the Arabian Peninsula and government forces) (2022)<br>
 

@@ -174,6 +174,9 @@ _female_: 63.69 years (2022 est.)<br>
 **Total fertility rate**<br>
 5.63 children born/woman (2022 est.)<br>
 
+**Gross reproduction rate**<br>
+2.77 (2022 est.)<br>
+
 **Contraceptive prevalence rate**<br>
 28.1% (2017/18)<br>
 
@@ -224,6 +227,9 @@ _other alcohols_: 0 liters of pure alcohol (2019 est.)<br>
 _total_: 12.8% (2020 est.)<br>
 _male_: 22.7% (2020 est.)<br>
 _female_: 2.9% (2020 est.)<br>
+
+**Currently married women (ages 15-49)**<br>
+55.9% (2022 est.)<br>
 
 **Children under the age of 5 years underweight**<br>
 23.1% (2017/18)<br>
@@ -752,8 +758,8 @@ Islamic State of Iraq and ash-Sham – Democratic Republic of the Congo (ISIS-DR
 <p>heads of the Great Lakes states and UN pledged in 2004 to abate tribal, rebel, and militia fighting in the region, including northeast Congo, where the UN Organization Mission in the Democratic Republic of the Congo (MONUC), organized in 1999, maintains over 16,500 uniformed peacekeepers<br><br><em>Democratic Republic of Congo(DRC)-Republic of the Congo: </em>the location of the boundary in the broad Congo River is indefinite except in the Pool Malebo/Stanley Pool area<br><br><em>Democratic Republic of Congo(DRC)-Uganda:</em> Uganda rejects the DRC claim to Margherita Peak in the Rwenzori mountains and considers it a boundary divide; there is tension and violence on Lake Albert over prospective oil reserves at the mouth of the Semliki River<br><br><em>Democratic Republic of Congo(DRC)-Zambia: </em>boundary commission continues discussions over Congolese-administered triangle of land on the right bank of the Lunkinda River claimed by Zambia near the DRC village of Pweto<br><br><em>Democratic Republic of Congo(DRC)-Angola: </em>DRC accuses Angola of shifting monuments</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 212,120 (Central African Republic), 209,798 (Rwanda), 56,653 (South Sudan) (refugees and asylum seekers), 41,836 (Burundi) (2022)<br>
-_IDPs_: 5.53 million (fighting between government forces and rebels since mid-1990s; conflict in Kasai region since 2016) (2022)<br>
+_refugees (country of origin)_: 213,296 (Central African Republic), 208,789 (Rwanda), 57,127 (South Sudan) (refugees and asylum seekers), 43,143 (Burundi) (2022)<br>
+_IDPs_: 5.52 million (fighting between government forces and rebels since mid-1990s; conflict in Kasai region since 2016) (2022)<br>
 
 **Trafficking in persons**<br>
 _tier rating_: <p>Tier 2 Watch List — The Democratic Republic of the Congo (DRC) does not fully meet the minimum standards for the elimination of trafficking but is making significant efforts to do so; the DRC was upgraded to Tier 2 Watch List because of several accomplishments; the government drafted and launched its first national anti-trafficking action plan; authorities increased law enforcement efforts, including investigating and prosecuting more trafficking crimes; a number of traffickers were convicted, including a high-ranking army officer and the leader of an armed group; however, authorities continued to lack standard operating procedures for identifying victims and referring them to care; there were credible allegations that the army abducted women and girls for sexual slavery and recruited and used child soldiers (2020)</p><br>

@@ -104,7 +104,7 @@ English 72%, Mandarin 2.7%, Arabic 1.4%, Vietnamese 1.3%, Cantonese 1.2%, other 
 <strong>note:</strong> data represent language spoken at home<br>
 
 **Religions**<br>
-Protestant 23.1% (Anglican 13.3%, Uniting Church 3.7%, Presbyterian and Reformed 2.3%, Baptist 1.5%, Pentecostal 1.1%, Lutheran .7%, other Protestant 0.5%), Roman Catholic 22.6%, other Christian 4.2%, Muslim 2.6%, Buddhist 2.4%, Orthodox 2.3% (Eastern Orthodox 2.1%, Oriental Orthodox 0.2%), Hindu 1.9%, other 1.3%, none 30.1%, unspecified 9.6% (2016 est.)<br>
+Roman Catholic 20%, Protestant 18.1% (Anglican 9.8%, Uniting Church 2.6%, Presbyterian and Reformed 1.6%, Baptist 1.4%, Pentecostal 1%, other Protestant 1.7%), other Christian 3.5%, Muslim 3.2%, Hindu 2.7%, Buddhist 2.4%, Orthodox 2.3% (Eastern Orthodox 2.1%, Oriental Orthodox 0.2%), other 2.1%, none 38.4%, unspecified 7.3% (2021 est.)<br>
 
 **Age structure**<br>
 _0-14 years_: 18.72% (male 2,457,418/female 2,309,706)<br>
@@ -175,6 +175,9 @@ _female_: 85.36 years (2022 est.)<br>
 **Total fertility rate**<br>
 1.73 children born/woman (2022 est.)<br>
 
+**Gross reproduction rate**<br>
+0.84 (2022 est.)<br>
+
 **Contraceptive prevalence rate**<br>
 66.9% (2015/16)<br>
 <strong>note:</strong> percent of women aged 18-44<br>
@@ -221,6 +224,9 @@ _other alcohols_: 0.81 liters of pure alcohol (2019 est.)<br>
 _total_: 13.6% (2020 est.)<br>
 _male_: 15.6% (2020 est.)<br>
 _female_: 11.5% (2020 est.)<br>
+
+**Currently married women (ages 15-49)**<br>
+55.9% (2022 est.)<br>
 
 **Children under the age of 5 years underweight**<br>
 NA<br>

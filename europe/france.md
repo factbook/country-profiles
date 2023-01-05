@@ -180,6 +180,9 @@ _female_: 85.79 years (2022 est.)<br>
 **Total fertility rate**<br>
 2.03 children born/woman (2022 est.)<br>
 
+**Gross reproduction rate**<br>
+0.99 (2022 est.)<br>
+
 **Contraceptive prevalence rate**<br>
 NA<br>
 
@@ -228,6 +231,9 @@ _other alcohols_: 0.18 liters of pure alcohol (2019 est.)<br>
 _total_: 33.4% (2020 est.)<br>
 _male_: 34.9% (2020 est.)<br>
 _female_: 31.9% (2020 est.)<br>
+
+**Currently married women (ages 15-49)**<br>
+55.1% (2022 est.)<br>
 
 **Children under the age of 5 years underweight**<br>
 NA<br>
@@ -697,9 +703,8 @@ _under 914 m_: 105 (2021)<br>
 15,322 km gas, 2,939 km oil, 5,084 km refined products (2013)<br>
 
 **Railways**<br>
-_total_: 29,640 km (2014)<br>
-_standard gauge_: 29,473 km (2014) 1.435-m gauge (15,561 km electrified)<br>
-_narrow gauge_: 167 km (2014) 1.000-m gauge (63 km electrified)<br>
+_total_: 27,860 km (2020) 16,660 km electrified<br>
+_narrow gauge_: -5 km<br>
 
 **Roadways**<br>
 _total_: 1,053,215 km (2011)<br>

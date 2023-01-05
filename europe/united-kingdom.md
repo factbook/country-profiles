@@ -162,6 +162,9 @@ _female_: 84.04 years (2022 est.)<br>
 **Total fertility rate**<br>
 1.63 children born/woman (2022 est.)<br>
 
+**Gross reproduction rate**<br>
+0.79 (2022 est.)<br>
+
 **Contraceptive prevalence rate**<br>
 76.1% (2010/12)<br>
 <strong>note:</strong> percent of women aged 16-49<br>
@@ -212,6 +215,9 @@ _other alcohols_: 0.61 liters of pure alcohol (2019 est.)<br>
 _total_: 15.4% (2020 est.)<br>
 _male_: 17.3% (2020 est.)<br>
 _female_: 13.5% (2020 est.)<br>
+
+**Currently married women (ages 15-49)**<br>
+51% (2022 est.)<br>
 
 **Children under the age of 5 years underweight**<br>
 NA<br>
@@ -670,9 +676,7 @@ _under 914 m_: 160 (2021)<br>
 502 km condensate, 9 km condensate/gas, 28,603 km gas, 59 km liquid petroleum gas, 5,256 km oil, 175 km oil/gas/water, 4,919 km refined products, 255 km water (2013)<br>
 
 **Railways**<br>
-_total_: 16,837 km (2015)<br>
-_standard gauge_: 16,534 km (2015) 1.435-m gauge (5,357 km electrified)<br>
-_broad gauge_: 303 km (2015) 1.600-m gauge (in Northern Ireland)<br>
+_total_: 16,390 km (2020) 6,167 km electrified<br>
 
 **Roadways**<br>
 _total_: 394,428 km (2009)<br>
@@ -737,7 +741,7 @@ Continuity Irish Republican Army; Islamic State of Iraq and ash-Sham (ISIS); New
 <p><em>UK-Argentina</em>: UK rejects sovereignty talks requested by Argentina, which still claims the Falkland Islands (Islas Malvinas) and South Georgia and the South Sandwich Islands</p> <p><em>UK-Argentina-Chile</em>: the UK’s territorial claim in Antarctica (British Antarctic Territory) overlaps Argentine claim and partially overlaps Chilean claim</p> <p><em>UK-Denmark</em>: the UK, Iceland, and Ireland dispute Denmark's claim that the Faroe Islands' continental shelf extends beyond 200 nm; Iceland, Norway, and the Faroe Islands signed an agreement in 2019 extending the Faroe Islands’ northern continental shelf area</p> <p><em>UK (Gibraltar)-Spain</em>: in 2002, Gibraltar residents voted overwhelmingly by referendum to reject any "shared sovereignty" arrangement between the UK and Spain; the Government of Gibraltar insisted on equal participation in talks between the two countries; Spain disapproved of UK plans to grant Gibraltar greater autonomy; London and Madrid reached a temporary agreement at the end of 2020 that allowed Gibraltar to be part of the passport-free Schengen zone; talks are expected to continue in 2022</p> <p><em>UK-Mauritius-Seychelles</em>: Mauritius and Seychelles claim the Chagos Archipelago (British Indian Ocean Territory); in 2001, the former inhabitants of the archipelago, evicted 1967 - 1973, were granted UK citizenship and the right of return, followed by Orders in Council in 2004 that banned rehabitation, a High Court ruling reversed the ban, a Court of Appeal refusal to hear the case, and a Law Lords' decision in 2008 denied the right of return; in addition, the UK created the world's largest marine protection area around the Chagos Islands prohibiting the extraction of any natural resources therein</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 21,011 (Iran), 14,503 (Eritrea), 11,251 (Sudan), 11,412 (Syria), 9,469 (Afghanistan), 8,357 (Pakistan), 6,933 (Iraq), 5,200 (Sri Lanka) (2020); 150,600 (Ukraine) (as of 12 December 2022)<br>
+_refugees (country of origin)_: 21,011 (Iran), 14,503 (Eritrea), 11,251 (Sudan), 11,412 (Syria), 9,469 (Afghanistan), 8,357 (Pakistan), 6,933 (Iraq), 5,200 (Sri Lanka) (2020); 152,200 (Ukraine) (as of 19 December 2022)<br>
 _stateless persons_: 3,968 (mid-year 2021)<br>
 
 **Illicit drugs**<br>

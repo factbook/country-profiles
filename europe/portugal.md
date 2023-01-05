@@ -161,6 +161,9 @@ _female_: 84.79 years (2022 est.)<br>
 **Total fertility rate**<br>
 1.43 children born/woman (2022 est.)<br>
 
+**Gross reproduction rate**<br>
+0.7 (2022 est.)<br>
+
 **Contraceptive prevalence rate**<br>
 73.9% (2014)<br>
 
@@ -206,6 +209,9 @@ _other alcohols_: 0.37 liters of pure alcohol (2019 est.)<br>
 _total_: 25.4% (2020 est.)<br>
 _male_: 30.5% (2020 est.)<br>
 _female_: 20.2% (2020 est.)<br>
+
+**Currently married women (ages 15-49)**<br>
+53% (2022 est.)<br>
 
 **Children under the age of 5 years underweight**<br>
 0.4% (2015/16)<br>
@@ -650,10 +656,7 @@ _under 914 m_: 20 (2021)<br>
 1,344 km gas, 11 km oil, 188 km refined products (2013)<br>
 
 **Railways**<br>
-_total_: 3,075.1 km (2014)<br>
-_narrow gauge_: 108.1 km (2014) 1.000-m gauge<br>
-_broad gauge_: 2,439 km (2014) 1.668-m gauge (1,633.4 km electrified)<br>
-_other_: 528 km (2014) (gauge unspecified)<br>
+_total_: 2,526 km (2020) 1,696 km electrified<br>
 
 **Roadways**<br>
 _total_: 82,900 km (2008)<br>
@@ -714,7 +717,7 @@ Islamic State of Iraq and ash-Sham (ISIS)<br>
 <p><em>Portugal-Spain</em>: Portugal does not recognize Spanish sovereignty over the territory of Olivenza based on a difference of interpretation of the 1815 Congress of Vienna and the 1801 Treaty of Badajoz</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 56,236 (Ukraine) (as of 20 October 2022)<br>
+_refugees (country of origin)_: 56,236 (Ukraine) (as of 20 December 2022)<br>
 _stateless persons_: 45 (mid-year 2021)<br>
 
 **Illicit drugs**<br>

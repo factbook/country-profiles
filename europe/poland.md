@@ -168,6 +168,9 @@ _female_: 82.73 years (2022 est.)<br>
 **Total fertility rate**<br>
 1.4 children born/woman (2022 est.)<br>
 
+**Gross reproduction rate**<br>
+0.68 (2022 est.)<br>
+
 **Contraceptive prevalence rate**<br>
 62.3% (2014)<br>
 
@@ -217,6 +220,9 @@ _other alcohols_: 0 liters of pure alcohol (2019 est.)<br>
 _total_: 24% (2020 est.)<br>
 _male_: 27.9% (2020 est.)<br>
 _female_: 20.1% (2020 est.)<br>
+
+**Currently married women (ages 15-49)**<br>
+58.7% (2022 est.)<br>
 
 **Children under the age of 5 years underweight**<br>
 0.7% (2010/12)<br>
@@ -678,9 +684,7 @@ _under 914 m_: 21 (2021)<br>
 14,198 km gas, 1,374 km oil, 2,483 km refined products (2018)<br>
 
 **Railways**<br>
-_total_: 19,231 km (2016)<br>
-_standard gauge_: 18,836 km (2016) 1.435-m gauge (11,874 km electrified)<br>
-_broad gauge_: 395 km (2016) 1.524-m gauge<br>
+_total_: 19,461 km (2020) 11,946 km electrified<br>
 
 **Roadways**<br>
 _total_: 420,000 km (2016)<br>
@@ -745,7 +749,7 @@ Islamic State of Iraq and ash-Sham (ISIS)<br>
 <p><em>Poland-Belarus-Ukraine</em>: as a member state that forms part of the EU's external border, Poland has implemented the strict Schengen border rules to restrict illegal immigration and trade along its eastern borders with Belarus and Ukraine</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 9,870 (Russia) (2019); 1,544,074 (Ukraine) (as of 20 December 2022)<br>
+_refugees (country of origin)_: 9,870 (Russia) (2019); 1,553,707 (Ukraine) (as of 3 January 2022)<br>
 _stateless persons_: 1,389 (mid-year 2021)<br>
 
 **Illicit drugs**<br>

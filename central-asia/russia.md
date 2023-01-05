@@ -175,6 +175,9 @@ _female_: 78.3 years (2022 est.)<br>
 **Total fertility rate**<br>
 1.6 children born/woman (2022 est.)<br>
 
+**Gross reproduction rate**<br>
+0.78 (2022 est.)<br>
+
 **Contraceptive prevalence rate**<br>
 68% (2011)<br>
 <strong>note:</strong> percent of women aged 15-44<br>
@@ -227,6 +230,9 @@ _other alcohols_: 0.12 liters of pure alcohol (2019 est.)<br>
 _total_: 26.8% (2020 est.)<br>
 _male_: 40.8% (2020 est.)<br>
 _female_: 12.8% (2020 est.)<br>
+
+**Currently married women (ages 15-49)**<br>
+53.6% (2022 est.)<br>
 
 **Children under the age of 5 years underweight**<br>
 NA<br>
@@ -371,14 +377,14 @@ _residency requirement for naturalization_: 3-5 years<br>
 _chief of state_: President Vladimir Vladimirovich PUTIN (since 7 May 2012)<br>
 _head of government_: Premier Mikhail MISHUSTIN (since 16 January 2020); First Deputy Premier Andrey Removich BELOUSOV (since 21 January 2020); Deputy Premiers Yuriy TRUTNEV (since 31 August 2013), Yuriy Ivanovich BORISOV, Tatiana Alekseyevna GOLIKOVA (since 18 May 2018), Dmitriy Yuriyevich GRIGORENKO, Viktoriya Valeriyevna ABRAMCHENKO, Aleksey Logvinovich OVERCHUK, Marat Shakirzyanovich KHUSNULLIN, Dmitriy Nikolayevich CHERNYSHENKO (since 21 January 2020), Aleksandr NOVAK (since 10 November 2020)<br>
 _cabinet_: the "Government" is composed of the premier, his deputies, and ministers, all appointed by the president; the premier is also confirmed by the Duma<br>
-_elections/appointments_: president directly elected by absolute majority popular vote in 2 rounds if needed for a 6-year term (2020 constitutional amendments allow a second consecutive term); election last held on 18 March 2018 (next to be held in March 2024); note - for the 2024 presidential election, previous presidential terms are discounted; there is no vice president; premier appointed by the president with the approval of the Duma<br>
+_elections/appointments_: president directly elected by absolute majority popular vote in 2 rounds if needed for a 6-year term (2020 constitutional amendments allow a second consecutive term); election last held on 18 March 2018 (next to be held in March 2024); note - for the 2024 presidential election, previous presidential terms are discounted; there is no vice president<br>
 _election results_: <em><br>2018:</em> Vladimir PUTIN reelected president; percent of vote - Vladimir PUTIN (independent) 77.5%, Pavel GRUDININ (CPRF) 11.9%, Vladimir ZHIRINOVSKIY (LDPR) 5.7%, other 4.9%; Mikhail MISHUSTIN (independent) approved as premier by Duma; vote - 383 to 0<br><br><em>2012:</em> Vladimir PUTIN elected president; percent of vote - Vladimir PUTIN (United Russia) 63.6%, Gennadiy ZYUGANOV (CPRF) 17.2%, Mikhail PROKHOROV (CP) 8%, Vladimir ZHIRINOVSKIY (LDPR) 6.2%, Sergey MIRONOV (A Just Russia) 3.9%, other 1.1%; Dmitriy MEDVEDEV (United Russia) approved as premier by Duma; vote - 299 to 144<br>
 <strong>note:</strong> there is also a Presidential Administration that provides staff and policy support to the president, drafts presidential decrees, and coordinates policy among government agencies; a Security Council also reports directly to the president<br>
 
 **Legislative branch**<br>
 _description_: bicameral Federal Assembly or Federalnoye Sobraniye consists of:<br>Federation Council or Sovet Federatsii (170 seats; 2 members in each of the 83 federal administrative units (see note below) - oblasts, krays, republics, autonomous okrugs and oblasts, and federal cities of Moscow and Saint Petersburg - appointed by the top executive and legislative officials; members serve 4-year terms)<br>State Duma or Gosudarstvennaya Duma (450 seats (see note below); as of February 2014, the electoral system reverted to a mixed electoral system for the 2016 election, in which one-half of the members are directly elected by simple majority vote and one-half directly elected by proportional representation vote; members serve 5-year terms)<br>
 _elections_: <br>State Duma - last held 17 - 19 September 2021 (next to be held in September 2026)<br>
-_election results_: <br>Federation Council (members appointed); composition (as of October 2021) - men 132, women 37, percent of women 21.8%<br> <p>State Duma - United Russia 50.9%, CPRF 19.3%, LDPR 7.7%, A Just Russia 7.6%, New People 5.3% other minor parties and Independents 9.2%; seats by party - United Russia 324, CPRF 57, LDPR 21, A Just Russia 27, New People 13; Rodina 1, CP 1, Party of Growth 1, independent 5; composition - men 377, women 73, percent of women 16.2%; note - total Federal Assembly percent of women 17.7%</p><br>
+_election results_: <br>Federation Council (members appointed); composition (as of October 2021) - men 132, women 37, percent of women 21.8%<br> <p>State Duma - United Russia 50.9%, CPRF 19.3%, LDPR 7.7%, A Just Russia 7.6%, New People 5.3% other minor parties and independents 9.2%; seats by party - United Russia 324, CPRF 57, LDPR 21, A Just Russia 27, New People 13; Rodina 1, CP 1, Party of Growth 1, independent 5; composition - men 377, women 73, percent of women 16.2%; note - total Federal Assembly percent of women 17.7%</p><br>
 <strong>note 1:</strong> the State Duma now includes 3 representatives from the "Republic of Crimea," while the Federation Council includes 2 each from the "Republic of Crimea" and the "Federal City of Sevastopol," both regions that Russia occupied and attempted to annex from Ukraine and that the US does not recognize as part of Russia<br>
 
 **Judicial branch**<br>
@@ -476,7 +482,7 @@ _exports of goods and services_: 26.2% (2017 est.)<br>
 _imports of goods and services_: -20.6% (2017 est.)<br>
 
 **Agricultural products**<br>
-wheat, sugar beet, milk, potatoes, barley, sunflower seed, maize, poultry, oats, soybeans<br>
+wheat, sugar beets, milk, potatoes, barley, sunflower seed, maize, poultry, oats, soybeans<br>
 
 **Industries**<br>
 complete range of mining and extractive industries producing coal, oil, gas, chemicals, and metals; all forms of machine building from rolling mills to high-performance aircraft and space vehicles; defense industries (including radar, missile production, advanced electronic components), shipbuilding; road and rail transportation equipment; communications equipment; agricultural machinery, tractors, and construction equipment; electric power generating and transmitting equipment; medical and scientific instruments; consumer durables, textiles, foodstuffs, handicrafts<br>
@@ -579,7 +585,7 @@ _electrification - total population_: 100% (2020)<br>
 
 **Electricity**<br>
 _installed generating capacity_: 276.463 million kW (2020 est.)<br>
-_consumption_: 942,895,420,000 kWh (2019 est.)<br>
+_consumption_: 942.895 billion kWh (2019 est.)<br>
 _exports_: 12.116 billion kWh (2020 est.)<br>
 _imports_: 1.377 billion kWh (2020 est.)<br>
 _transmission/distribution losses_: 99.077 billion kWh (2019 est.)<br>
@@ -618,11 +624,11 @@ _crude oil estimated reserves_: 80 billion barrels (2021 est.)<br>
 41,920 bbl/day (2015 est.)<br>
 
 **Natural gas**<br>
-_production_: 701,544,189,000 cubic meters (2021 est.)<br>
-_consumption_: 460,612,169,000 cubic meters (2020 est.)<br>
-_exports_: 250,854,510,000 cubic meters (2021 est.)<br>
-_imports_: 16,112,146,000 cubic meters (2019 est.)<br>
-_proven reserves_: 47,805,215,000,000 cubic meters (2021 est.)<br>
+_production_: 701.544 billion cubic meters (2021 est.)<br>
+_consumption_: 460.612 billion cubic meters (2020 est.)<br>
+_exports_: 250.855 billion cubic meters (2021 est.)<br>
+_imports_: 16.112 billion cubic meters (2019 est.)<br>
+_proven reserves_: 47.805 trillion cubic meters (2021 est.)<br>
 
 **Carbon dioxide emissions**<br>
 _total emissions_: 1,848,070,000 metric tonnes of CO2 (2019 est.)<br>
@@ -700,10 +706,8 @@ _under 914 m_: 457 (2021)<br>
 177,700 km gas, 54,800 km oil, 19,300 km refined products (2017)<br>
 
 **Railways**<br>
-_total_: 87,157 km (2014)<br>
-_narrow gauge_: 957 km (2014) 1.067-m gauge (on Sakhalin Island)<br>
-_broad gauge_: 86,200 km (2014) 1.520-m gauge (40,300 km electrified)<br>
-<strong>note:</strong> an additional 30,000 km of non-common carrier lines serve industries<br>
+_total_: 85,494 km (2019)<br>
+_narrow gauge_: 957 km<br>
 
 **Roadways**<br>
 _total_: 1,283,387 km (2012)<br>

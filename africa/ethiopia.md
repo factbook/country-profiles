@@ -175,6 +175,9 @@ _female_: 70.44 years (2022 est.)<br>
 **Total fertility rate**<br>
 3.99 children born/woman (2022 est.)<br>
 
+**Gross reproduction rate**<br>
+1.97 (2022 est.)<br>
+
 **Contraceptive prevalence rate**<br>
 37.7% (2020)<br>
 
@@ -229,6 +232,9 @@ _other alcohols_: 0.03 liters of pure alcohol (2019 est.)<br>
 _total_: 5.1% (2020 est.)<br>
 _male_: 8.8% (2020 est.)<br>
 _female_: 1.3% (2020 est.)<br>
+
+**Currently married women (ages 15-49)**<br>
+67.4% (2022 est.)<br>
 
 **Children under the age of 5 years underweight**<br>
 21.1% (2019)<br>
@@ -755,7 +761,7 @@ al-Shabaab; Islamic Revolutionary Guard Corps (IRGC)/Qods Force<br>
 <p><em>Ethiopia-Eritrea:</em> Eritrea and Ethiopia agreed to abide by the 2002 Eritrea-Ethiopia Boundary Commission's (EEBC) delimitation decision, but neither party responded to the revised line detailed in the November 2006 EEBC Demarcation Statement <br><br><em>Ethiopia-Somalia:</em> While border clashes continue in the al-Fashqa (Fashaga) area, the US views the 1902 boundary treaty between Ethiopia and Sudan as being in force; the undemarcated former British administrative line has little meaning as a political separation to rival clans within Ethiopia's Ogaden and southern Somalia's Oromo region; Ethiopian forces invaded southern Somalia and routed Islamist courts from Mogadishu in January 2007; "Somaliland" secessionists provide port facilities in Berbera and trade ties to landlocked Ethiopia; <br><br><em>Ethiopia-Sudan:</em> Ethiopia's construction of a large dam (the Grand Ethiopian Renaissance Dam) on the Blue Nile since 2011 has become a focal point of relations with Egypt and Sudan; as of 2020, four years of three-way talks between the three capitals over operating the dam and filling its reservoir had made little progress; Ethiopia began filling the dam in July 2020; civil unrest in eastern Sudan has hampered efforts to demarcate the porous boundary with Ethiopia</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 408,541 (South Sudan), 251,593 (Somalia), 162,011 (Eritrea), 48,445 (Sudan) (2022)<br>
+_refugees (country of origin)_: 408,541 (South Sudan), 251,593 (Somalia), 162,286 (Eritrea), 48,551 (Sudan) (2022)<br>
 _IDPs_: 2.72 million (includes conflict- and climate-induced IDPs, excluding unverified estimates from the Amhara region; border war with Eritrea from 1998-2000; ethnic clashes; and ongoing fighting between the Ethiopian military and separatist rebel groups in the Somali and Oromia regions; natural disasters; intercommunal violence; most IDPs live in Sumale state) (2022)<br>
 
 **Illicit drugs**<br>

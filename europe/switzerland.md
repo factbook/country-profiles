@@ -167,6 +167,9 @@ _female_: 85.67 years (2022 est.)<br>
 **Total fertility rate**<br>
 1.58 children born/woman (2022 est.)<br>
 
+**Gross reproduction rate**<br>
+0.77 (2022 est.)<br>
+
 **Contraceptive prevalence rate**<br>
 71.6% (2017)<br>
 
@@ -212,6 +215,9 @@ _other alcohols_: 0.12 liters of pure alcohol (2019 est.)<br>
 _total_: 25.5% (2020 est.)<br>
 _male_: 28.1% (2020 est.)<br>
 _female_: 22.9% (2020 est.)<br>
+
+**Currently married women (ages 15-49)**<br>
+57.6% (2022 est.)<br>
 
 **Children under the age of 5 years underweight**<br>
 NA<br>
@@ -668,9 +674,7 @@ _under 914 m_: 23 (2021)<br>
 1,800 km gas, 94 km oil (of which 60 are inactive), 17 km refined products (2017)<br>
 
 **Railways**<br>
-_total_: 5,466 km (2015) (includes 19 km in neighboring countries)<br>
-_standard gauge_: 3,836 km (2015) 1.435-m gauge (3,634 km electrified)<br>
-_narrow gauge_: 1,630 km (2015) 1.200-m gauge (2 km electrified) (includes 19 km in neighboring countries)<br>
+_total_: 5,296 km (2020) 5,296 km electrified; Switzerland remains the only country with a fully electrified network<br>
 
 **Roadways**<br>
 _total_: 71,557 km (2017)<br>
@@ -726,7 +730,7 @@ Islamic State of Iraq and ash-Sham (ISIS)<br>
 <p>none identified</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 38,219 (Eritrea), 20,043 (Syria), 14,649 (Afghanistan), 6,069 (Sri Lanka), 6,197 (Turkey) (mid-year 2021); 71,342 (Ukraine) (as of 13 December 2022)<br>
+_refugees (country of origin)_: 38,219 (Eritrea), 20,043 (Syria), 14,649 (Afghanistan), 6,069 (Sri Lanka), 6,197 (Turkey) (mid-year 2021); 77,045 (Ukraine) (as of 3 January 2023)<br>
 _stateless persons_: 684 (mid-year 2021)<br>
 
 **Illicit drugs**<br>

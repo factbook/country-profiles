@@ -166,6 +166,9 @@ _female_: 76.67 years (2022 est.)<br>
 **Total fertility rate**<br>
 1.93 children born/woman (2022 est.)<br>
 
+**Gross reproduction rate**<br>
+0.94 (2022 est.)<br>
+
 **Contraceptive prevalence rate**<br>
 NA<br>
 
@@ -217,6 +220,9 @@ _other alcohols_: 0 liters of pure alcohol (2019 est.)<br>
 _total_: 13.6% (2020 est.)<br>
 _male_: 24.1% (2020 est.)<br>
 _female_: 3.1% (2020 est.)<br>
+
+**Currently married women (ages 15-49)**<br>
+70.6% (2022 est.)<br>
 
 **Children under the age of 5 years underweight**<br>
 4.1% (2010/11)<br>

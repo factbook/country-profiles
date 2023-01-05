@@ -166,6 +166,9 @@ _female_: 56.88 years (2022 est.)<br>
 **Total fertility rate**<br>
 4.04 children born/woman (2022 est.)<br>
 
+**Gross reproduction rate**<br>
+1.99 (2022 est.)<br>
+
 **Contraceptive prevalence rate**<br>
 17.8% (2019)<br>
 
@@ -215,6 +218,9 @@ _beer_: 0.55 liters of pure alcohol (2019 est.)<br>
 _wine_: 0.04 liters of pure alcohol (2019 est.)<br>
 _spirits_: 0.02 liters of pure alcohol (2019 est.)<br>
 _other alcohols_: 0.33 liters of pure alcohol (2019 est.)<br>
+
+**Currently married women (ages 15-49)**<br>
+64.8% (2022 est.)<br>
 
 **Children under the age of 5 years underweight**<br>
 20.5% (2019)<br>
@@ -695,6 +701,6 @@ the 2013 coup resulted in the institutional collapse of the FACA; its forces wer
 <p><em>Central African Republic-South Sudan:</em> periodic violent skirmishes persist among related pastoral populations along the border with South Sudan over water and grazing rights</p> <p><em>Central African Republic-Sudan: </em>periodic violent skirmishes persist among related pastoral populations along the border with Sudan over water and grazing rights</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 6,351 (Democratic Republic of Congo) (2022)<br>
+_refugees (country of origin)_: 6,613 (Democratic Republic of Congo) (2022)<br>
 _IDPs_: 484,335 (clashes between army and rebel groups since 2005; tensions between ethnic groups) (2022)<br>
 

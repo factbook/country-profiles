@@ -71,7 +71,7 @@ population is heavily concentrated to the northeast on the Musandam Peninsula; t
 frequent sand and dust storms<br>
 
 **Geography - note**<br>
-strategic location along southern approaches to Strait of Hormuz, a vital transit point for world crude oil<br>
+strategic location along southern approaches to Strait of Hormuz, a vital transit point for world crude oil; Abu Zaby (Abu Dhabi) and Dubayy (Dubai) together account for over 90% of the area of the country and two-thirds of the population<br>
 
 ## People and Society
 
@@ -160,6 +160,9 @@ _female_: 80.99 years (2022 est.)<br>
 **Total fertility rate**<br>
 1.64 children born/woman (2022 est.)<br>
 
+**Gross reproduction rate**<br>
+0.79 (2022 est.)<br>
+
 **Contraceptive prevalence rate**<br>
 NA<br>
 
@@ -203,6 +206,9 @@ _beer_: 0.21 liters of pure alcohol (2019 est.)<br>
 _wine_: 0.14 liters of pure alcohol (2019 est.)<br>
 _spirits_: 1.65 liters of pure alcohol (2019 est.)<br>
 _other alcohols_: 0.02 liters of pure alcohol (2019 est.)<br>
+
+**Currently married women (ages 15-49)**<br>
+72.8% (2022 est.)<br>
 
 **Children under the age of 5 years underweight**<br>
 NA<br>

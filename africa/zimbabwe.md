@@ -169,6 +169,9 @@ _female_: 65.52 years (2022 est.)<br>
 **Total fertility rate**<br>
 3.89 children born/woman (2022 est.)<br>
 
+**Gross reproduction rate**<br>
+1.92 (2022 est.)<br>
+
 **Contraceptive prevalence rate**<br>
 66.8% (2015)<br>
 
@@ -221,6 +224,9 @@ _other alcohols_: 1.47 liters of pure alcohol (2019 est.)<br>
 _total_: 11.7% (2020 est.)<br>
 _male_: 21.8% (2020 est.)<br>
 _female_: 1.5% (2020 est.)<br>
+
+**Currently married women (ages 15-49)**<br>
+61.7% (2022 est.)<br>
 
 **Children under the age of 5 years underweight**<br>
 9.7% (2019)<br>
@@ -720,7 +726,7 @@ the ZDF was formed after independence from the former Rhodesian Army and the two
 <p><em>Zimbabwe-Mozambique: none identified<br><br>Zimbabwe-South Africa: </em>South Africa has placed military units to assist police operations along the border of Lesotho, Zimbabwe, and Mozambique to control smuggling, poaching, and illegal migration<em><br><br>Zimbabwe-Zambia: </em>in 2004, Zimbabwe dropped objections to plans between Botswana and Zambia to build a bridge over the Zambezi River, thereby de facto recognizing a short, but not clearly delimited, Botswana-Zambia boundary in the river; in May 2021, Botswana and Zambia agreed in principle to let Zimbabwe be a partner in the bridge project as it enters its lasts phase</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 11,613 (Democratic Republic of Congo) (refugees and asylum seekers), 9,871 (Mozambique) (2022)<br>
+_refugees (country of origin)_: 11,728 (Democratic Republic of Congo) (refugees and asylum seekers), 9,887 (Mozambique) (2022)<br>
 
 **Trafficking in persons**<br>
 _tier rating_: Tier 3 - Zimbabwe does not fully comply with the minimum standards for the elimination of trafficking and is not making significant efforts to do so; the government passed an anti-trafficking law in 2014 defining trafficking in persons as a crime of transportation and failing to capture the key element of the international definition of human trafficking – the purpose of exploitation – which prevents the law from being comprehensive or consistent with the 2000 UN TIP Protocol that Zimbabwe acceded to in 2013; the government did not report on anti-trafficking law enforcement efforts during 2014, and corruption in law enforcement and the judiciary remain a concern; authorities made minimal efforts to identify and protect trafficking victims, relying on NGOs to identify and assist victims; Zimbabwe’s 2014 anti-trafficking law required the opening of 10 centers for trafficking victims, but none were established during the year; five existing shelters for vulnerable children and orphans may have accommodated child victims; in January 2015, an inter-ministerial anti-trafficking committee was established, but it is unclear if the committee ever met or initiated any activities (2015)<br>

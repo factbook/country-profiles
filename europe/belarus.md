@@ -163,6 +163,9 @@ _female_: 79.97 years (2022 est.)<br>
 **Total fertility rate**<br>
 1.51 children born/woman (2022 est.)<br>
 
+**Gross reproduction rate**<br>
+0.73 (2022 est.)<br>
+
 **Contraceptive prevalence rate**<br>
 52.6% (2019)<br>
 
@@ -208,6 +211,9 @@ _other alcohols_: 2.66 liters of pure alcohol (2019 est.)<br>
 _total_: 30.5% (2020 est.)<br>
 _male_: 47.4% (2020 est.)<br>
 _female_: 13.5% (2020 est.)<br>
+
+**Currently married women (ages 15-49)**<br>
+67.1% (2022 est.)<br>
 
 **Children under the age of 5 years underweight**<br>
 NA<br>
@@ -714,7 +720,7 @@ Belarus has close security ties with Russia, including an integrated air and mis
 <p><em>Belarus-Latvia:</em> Boundary demarcated with Latvia.<br><br><em>Belarus-Lithuania:</em> Boundary demarcated with Lithuania.<br><br><em>Belarus-Poland:</em> As a member state that forms part of the EU's external border, Poland has implemented strict Schengen border rules to restrict illegal immigration and trade along its border with Belarus.</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 17,787 (Ukraine) (as of 13 December 2022)<br>
+_refugees (country of origin)_: 17,787 (Ukraine) (as of 20 December 2022)<br>
 _stateless persons_: 6,104 (mid-year 2021)<br>
 
 **Trafficking in persons**<br>

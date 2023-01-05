@@ -164,6 +164,9 @@ _female_: 80.27 years (2022 est.)<br>
 **Total fertility rate**<br>
 1.81 children born/woman (2022 est.)<br>
 
+**Gross reproduction rate**<br>
+0.89 (2022 est.)<br>
+
 **Contraceptive prevalence rate**<br>
 20.7% (2018)<br>
 
@@ -214,6 +217,9 @@ _other alcohols_: 0.16 liters of pure alcohol (2019 est.)<br>
 _total_: 31.4% (2020 est.)<br>
 _male_: 31.6% (2020 est.)<br>
 _female_: 31.1% (2020 est.)<br>
+
+**Currently married women (ages 15-49)**<br>
+57.2% (2022 est.)<br>
 
 **Children under the age of 5 years underweight**<br>
 3.7% (2018/19)<br>
@@ -710,9 +716,9 @@ Montenegro became a member of NATO in 2017; as of 2022, Greece and Italy provide
 <p><em>Montenegro-Albania</em>: none identified</p> <p><em>Montenegro-Bosnia and Herzegovina</em>: the two countries signed a border agreement in August 2015; sovereignty of the disputed Sutorina territory was given to Montenegro</p> <p><em>Montenegro-Croatia</em>: the two countries in 2002 reached a temporary agreement designating the Prevlaka Peninsula as part of Croatia, in October 2020, a Montenegrin official resurrected the dormant dispute over the Prevlaka Peninsula by stating that Montenegro had a good chance of winning it through international arbitration</p> <p><em>Montenegro-Kosovo</em>: a 2015 border agreement was ratified by Montenegro in 2015 and by Kosovo in 2018, but the actual demarcation has not been completed</p> <p><em>Montenegro-Serbia</em>: The former republic boundary – when the two countries were one and called the Federal Republic of Yugoslavia – serves as the boundary until a line is formally delimited and demarcated</p> <p> </p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 31,665 (Ukraine) (as of 20 December 2022)<br>
+_refugees (country of origin)_: 31,895 (Ukraine) (as of 26 December 2022)<br>
 _stateless persons_: 458 (mid-year 2021)<br>
-<strong>note:</strong> 28,589 estimated refugee and migrant arrivals (January 2015-December 2022)<br>
+<strong>note:</strong> 28,825 estimated refugee and migrant arrivals (January 2015-December 2022)<br>
 
 **Illicit drugs**<br>
 <p>drug trafficking groups are major players in the procurement and transportation of large quantities of cocaine  destined for  European markets</p><br>

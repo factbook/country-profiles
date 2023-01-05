@@ -149,6 +149,9 @@ _female_: 73.58 years (2022 est.)<br>
 **Total fertility rate**<br>
 1.9 children born/woman (2022 est.)<br>
 
+**Gross reproduction rate**<br>
+0.91 (2022 est.)<br>
+
 **Contraceptive prevalence rate**<br>
 NA<br>
 
@@ -571,8 +574,7 @@ _under 914 m_: 3 (2021)<br>
 2 (2021)<br>
 
 **Railways**<br>
-_total_: 333 km (2015)<br>
-_standard gauge_: 333 km (2015) 1.435-m gauge<br>
+_total_: 437 km (2020)<br>
 
 **Roadways**<br>
 _total_: 2,012 km (2015)<br>
@@ -617,5 +619,5 @@ Islamic State of Iraq and ash-Sham (ISIS)<br>
 
 **Refugees and internally displaced persons**<br>
 _IDPs_: 16,000 (primarily ethnic Serbs displaced during the 1998-1999 war fearing reprisals from the majority ethnic-Albanian population; a smaller number of ethnic Serbs, Roma, Ashkali, and Egyptians fled their homes in 2004 as a result of violence) (2021)<br>
-<strong>note:</strong> 8,372 estimated refugee and migrant arrivals (January 2015-October 2022)<br>
+<strong>note:</strong> 8,409 estimated refugee and migrant arrivals (January 2015-November 2022)<br>
 

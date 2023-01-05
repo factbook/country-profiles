@@ -167,6 +167,9 @@ _female_: 79.53 years (2022 est.)<br>
 **Total fertility rate**<br>
 3.09 children born/woman (2022 est.)<br>
 
+**Gross reproduction rate**<br>
+1.51 (2022 est.)<br>
+
 **Contraceptive prevalence rate**<br>
 27.7% (2014)<br>
 
@@ -207,6 +210,9 @@ _beer_: 0 liters of pure alcohol (2019 est.)<br>
 _wine_: 0.01 liters of pure alcohol (2019 est.)<br>
 _spirits_: 0 liters of pure alcohol (2019 est.)<br>
 _other alcohols_: 0 liters of pure alcohol (2019 est.)<br>
+
+**Currently married women (ages 15-49)**<br>
+59.6% (2022 est.)<br>
 
 **Children under the age of 5 years underweight**<br>
 11.7% (2014)<br>
@@ -678,6 +684,6 @@ Ansar al-Sharia groups; Islamic State of Iraq and ash-Sham - Libya (ISIS-L); al-
 <p><em>Libya-Algeria:</em> dormant disputes include Libyan claims of about 32,000 sq km still reflected on its maps of southeastern Algeria<br><br><em>Libya-Chad:</em> various Chadian rebels from the Aozou region reside in southern Libya; Libyan forces clashed with Chadian rebels in September 2021</p> <p><em>Libya-Egypt</em>: none identified</p> <p><em>Libya-Niger</em>: the boundary is poorly defined but has never been disputed by either country</p> <p><em>Libya-Sudan</em>: none identified</p> <p><em>Libya-Tunisia</em>: none identified</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 18,322 (Sudan) (refugees and asylum seekers), 15,325 (Syria) (refugees and asylum seekers), 5,004 (Eritrea) (2022)<br>
+_refugees (country of origin)_: 18,831 (Sudan) (refugees and asylum seekers), 14,356 (Syria) (refugees and asylum seekers), 5,318 (Eritrea) (2022)<br>
 _IDPs_: 159,996 (conflict between pro-QADHAFI and anti-QADHAFI forces in 2011; post-QADHAFI tribal clashes 2014) (2022)<br>
 

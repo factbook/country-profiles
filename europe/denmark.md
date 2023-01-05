@@ -162,6 +162,9 @@ _female_: 83.71 years (2022 est.)<br>
 **Total fertility rate**<br>
 1.77 children born/woman (2022 est.)<br>
 
+**Gross reproduction rate**<br>
+0.86 (2022 est.)<br>
+
 **Contraceptive prevalence rate**<br>
 NA<br>
 
@@ -207,6 +210,9 @@ _other alcohols_: 0 liters of pure alcohol (2019 est.)<br>
 _total_: 17.5% (2020 est.)<br>
 _male_: 17.8% (2020 est.)<br>
 _female_: 17.1% (2020 est.)<br>
+
+**Currently married women (ages 15-49)**<br>
+59.7% (2022 est.)<br>
 
 **Children under the age of 5 years underweight**<br>
 NA<br>
@@ -646,8 +652,7 @@ _under 914 m_: 47 (2021)<br>
 1,536 km gas, 330 km oil (2015)<br>
 
 **Railways**<br>
-_total_: 3,476 km (2017)<br>
-_standard gauge_: 3,476 km (2017) 1.435-m gauge (1,756 km electrified)<br>
+_total_: 2,682 km (2020) 876 km electrified<br>
 
 **Roadways**<br>
 _total_: 74,558 km (2017)<br>
@@ -712,6 +717,6 @@ Islamic State of Iraq and ash-Sham (ISIS); Islamic Revolutionary Guard Corps/Qod
 <p>Iceland, the UK, and Ireland dispute Denmark's claim that the Faroe Islands' continental shelf extends beyond 200 nm; sovereignty dispute with Canada over Hans Island in the Kennedy Channel between Ellesmere Island and Greenland; Denmark (Greenland) and Norway have made submissions to the Commission on the Limits of the Continental Shelf (CLCS) and Russia is collecting additional data to augment its 2001 CLCS submission</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 19,833 (Syria), 5,634 (Eritrea) (mid-year 2021); 38,582 (Ukraine) (as of 20 December 2022)<br>
+_refugees (country of origin)_: 19,833 (Syria), 5,634 (Eritrea) (mid-year 2021); 39,482 (Ukraine) (as of 27 December 2022)<br>
 _stateless persons_: 11,608 (mid-year 2021)<br>
 

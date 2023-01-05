@@ -168,6 +168,9 @@ _female_: 71.27 years (2022 est.)<br>
 **Total fertility rate**<br>
 5.36 children born/woman (2022 est.)<br>
 
+**Gross reproduction rate**<br>
+2.64 (2022 est.)<br>
+
 **Contraceptive prevalence rate**<br>
 50.2% (2021)<br>
 
@@ -221,6 +224,9 @@ _other alcohols_: 5.46 liters of pure alcohol (2019 est.)<br>
 _total_: 8.4% (2020 est.)<br>
 _male_: 13% (2020 est.)<br>
 _female_: 3.7% (2020 est.)<br>
+
+**Currently married women (ages 15-49)**<br>
+58.4% (2022 est.)<br>
 
 **Children under the age of 5 years underweight**<br>
 10.4% (2016)<br>
@@ -730,5 +736,5 @@ al-Shabaab; Islamic State of Iraq and ash-Sham - Democratic Republic of Congo (I
 <p>Uganda is subject to armed fighting among hostile ethnic groups, rebels, armed gangs, militias, and various government forces that extend across its borders<br><br><em>Uganda-Kenya:</em> Kenya and Uganda began a joint demarcation of the boundary in 2021; Uganda and Kenya both claim Migingo Island, a tiny island in the middle of Lake Victoria, which offers good fishing<br><br><em>Uganda-Rwanda:</em> a joint technical committee established in 2007 to demarcate sections of the border<br><br><em>Uganda-Democratic Republic of Congo(DROC):</em> Uganda rejects the DROC claim to Margherita Peak in the Rwenzori mountains and considers it a boundary divide; there is tension and violence on Lake Albert over prospective oil reserves at the mouth of the Semliki River; Rukwanzi Island in Lake Albert is claimed by both countries<br><br><em>Uganda-South Sudan:</em> Government of South Sudan protests Lord's Resistance Army operations in western Equatorial State, displacing and driving out local populations and stealing grain stores<br><br><em>Uganda-Sudan</em>: none identified</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 845,711 (South Sudan) (refugees and asylum seekers), 452,891 (Democratic Republic of the Congo), 61,482 (Somalia) (refugees and asylum seekers), 40,311 (Burundi), 26,700 (Eritrea), 23,154 (Rwanda), 5,307 (Ethiopia) (2022)<br>
+_refugees (country of origin)_: 845,711 (South Sudan) (refugees and asylum seekers), 473,529 (Democratic Republic of the Congo), 61,482 (Somalia) (refugees and asylum seekers), 40,311 (Burundi), 26,671 (Eritrea), 23,251 (Rwanda), 5,317 (Ethiopia) (2022)<br>
 

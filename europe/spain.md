@@ -166,6 +166,9 @@ _female_: 85.4 years (2022 est.)<br>
 **Total fertility rate**<br>
 1.27 children born/woman (2022 est.)<br>
 
+**Gross reproduction rate**<br>
+0.62 (2022 est.)<br>
+
 **Contraceptive prevalence rate**<br>
 62.1% (2018)<br>
 <strong>note:</strong> percent of women aged 18-49<br>
@@ -216,6 +219,9 @@ _other alcohols_: 0.19 liters of pure alcohol (2019 est.)<br>
 _total_: 27.7% (2020 est.)<br>
 _male_: 28.6% (2020 est.)<br>
 _female_: 26.7% (2020 est.)<br>
+
+**Currently married women (ages 15-49)**<br>
+50.8% (2022 est.)<br>
 
 **Children under the age of 5 years underweight**<br>
 NA<br>
@@ -671,11 +677,7 @@ _under 914 m_: 19 (2021)<br>
 10,481 km gas, 358 km oil, 4,378 km refined products (2017)<br>
 
 **Railways**<br>
-_total_: 15,111 km (2017) (9,699 km electrified)<br>
-_standard gauge_: 2,571 km (2017) 1.435-m gauge (2,571 km electrified)<br>
-_narrow gauge_: 1,207 km (2017) 1.000-m gauge (400 km electrified)<br>
-_broad gauge_: 11,333 km (2017) 1.668-m gauge (6,538 km electrified)<br>
-mixed gauge: 190 km 1.668-mm and 1.435mm gauge (190.1 km electrified); 28 km 0.914-mm gauge (28 km electrified); 4 km 0.600-mm gauge<br>
+_total_: 15,489 km (2020) 9,953 km electrified<br>
 
 **Roadways**<br>
 _total_: 683,175 km (2011)<br>
@@ -737,9 +739,9 @@ Islamic State of Iraq and ash-Sham (ISIS); al-Qa’ida<br>
 <p><em>Spain-Andorra</em>: none identified</p> <p><em>Spain-France</em>: none identified</p> <p><em>Spain-Gibraltar (UK)</em>: in 2002, Gibraltar residents voted overwhelmingly by referendum to reject any "shared sovereignty" arrangement; the Government of Gibraltar insists on equal participation in talks between the UK and Spain; Spain does not recognize British sovereignty beyond the original fortified perimeter of the city and disapproves of UK plans to grant Gibraltar greater autonomy; after voters in the UK chose to leave the EU in a June 2016 referendum, Spain again proposed shared sovereignty of Gibraltar; UK officials rejected Spain’s joint sovereignty proposal</p> <p><em>Spain-Morocco</em>: Morocco protests Spain's control over the coastal enclaves of Ceuta, Melilla, and the islands of Penon de Velez de la Gomera, Penon de Alhucemas, and Islas Chafarinas, and surrounding waters; both countries claim Isla Perejil (Leila Island), which remains unoccupied but was the site of a  military standoff in 2002; Morocco serves as the primary embarkation area for illegal migration into mainland Spain from North Africa</p> <p><em>Spain-Portugal</em>: Portugal does not recognize Spanish sovereignty over the territory of Olivenza based on a difference of interpretation of the 1815 Congress of Vienna and the 1801 Treaty of Badajoz</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 14,823 (Syria) (mid-year 2021); 418,200 (Venezuela) (economic and political crisis; includes Venezuelans who have claimed asylum, are recognized as refugees, or have received alternative legal stay) (2021); 158,789 (Ukraine) (as of 20 December 2022)<br>
+_refugees (country of origin)_: 14,823 (Syria) (mid-year 2021); 418,200 (Venezuela) (economic and political crisis; includes Venezuelans who have claimed asylum, are recognized as refugees, or have received alternative legal stay) (2021); 160,287 (Ukraine) (as of 26 December 2022)<br>
 _stateless persons_: 692 (mid-year 2021)<br>
-<strong>note: </strong>277,496 estimated refugee and migrant arrivals, including Canary Islands (January 2015-December 2022)<br>
+<strong>note: </strong>278,084 estimated refugee and migrant arrivals, including Canary Islands (January 2015-December 2022)<br>
 
 **Illicit drugs**<br>
 primary transit point in Europe for cocaine from South America and for hashish from Morocco; cocaine is shipped in raw or liquid form with mixed cargo to avoid detection; traffickers ship methamphetamine via express mail; increasing indoor cannabis production; illegal labs cutting, mixing, and reconstituting cocaine, heroin, and methamphetamine labs; synthetic drugs, including ketamine and MDMA (ecstasy) transit from Spain to the US<br>

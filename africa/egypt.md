@@ -177,6 +177,9 @@ _female_: 75.72 years (2022 est.)<br>
 **Total fertility rate**<br>
 2.88 children born/woman (2022 est.)<br>
 
+**Gross reproduction rate**<br>
+1.39 (2022 est.)<br>
+
 **Contraceptive prevalence rate**<br>
 58.5% (2014)<br>
 
@@ -227,6 +230,9 @@ _other alcohols_: 0 liters of pure alcohol (2019 est.)<br>
 _total_: 24.3% (2020 est.)<br>
 _male_: 48.1% (2020 est.)<br>
 _female_: 0.4% (2020 est.)<br>
+
+**Currently married women (ages 15-49)**<br>
+71.2% (2022 est.)<br>
 
 **Children under the age of 5 years underweight**<br>
 7% (2014)<br>
@@ -753,7 +759,7 @@ Army of Islam; Islamic State of Iraq and ash-Sham – Sinai Province (ISIS-SP); 
 <p>Sudan claims but Egypt de facto administers security and economic development of Halaib region north of the 22nd parallel boundary; Egypt no longer shows its administration of the Bir Tawil trapezoid in Sudan on its maps; Gazan breaches in the security wall with Egypt in January 2008 highlight difficulties in monitoring the Sinai border</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 70,022 (West Bank and Gaza Strip) (mid-year 2021); 144,683 (Syria), 52,446 (Sudan) (refugees and asylum seekers), 20,970 (South Sudan) (refugees and asylum seekers), 21,105 (Eritrea) (refugees and asylum seekers), 15,585 (Ethiopia) (refugees and asylum seekers), 10,025 (Yemen) (refugees and asylum seekers), 6,815 (Iraq) (refugees and asylum seekers), 6,802 (Somalia) (refugees and asylum seekers) (2022)<br>
+_refugees (country of origin)_: 70,022 (West Bank and Gaza Strip) (mid-year 2021); 145,157 (Syria), 52,446 (Sudan) (refugees and asylum seekers), 20,970 (South Sudan) (refugees and asylum seekers), 21,105 (Eritrea) (refugees and asylum seekers), 15,585 (Ethiopia) (refugees and asylum seekers), 10,025 (Yemen) (refugees and asylum seekers), 6,815 (Iraq) (refugees and asylum seekers), 6,802 (Somalia) (refugees and asylum seekers) (2022)<br>
 _stateless persons_: 7 (mid-year 2021)<br>
 
 **Illicit drugs**<br>

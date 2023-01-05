@@ -170,6 +170,9 @@ _female_: 58.49 years (2022 est.)<br>
 **Total fertility rate**<br>
 4.81 children born/woman (2022 est.)<br>
 
+**Gross reproduction rate**<br>
+2.37 (2022 est.)<br>
+
 **Contraceptive prevalence rate**<br>
 27.1% (2015)<br>
 
@@ -223,6 +226,9 @@ _other alcohols_: 0 liters of pure alcohol (2019 est.)<br>
 _total_: 14.3% (2020 est.)<br>
 _male_: 23% (2020 est.)<br>
 _female_: 5.6% (2020 est.)<br>
+
+**Currently married women (ages 15-49)**<br>
+64.1% (2022 est.)<br>
 
 **Children under the age of 5 years underweight**<br>
 15.6% (2014/15)<br>
@@ -740,7 +746,7 @@ Islamic State of Iraq and ash-Sham - Mozambique (ISIS-M)<br>
 <p><em>Mozambique-Eswatini</em>: none identified</p> <p><em>Mozambique-Malawi</em>:  the two countries have held exercises to reaffirm boundaries a number of times</p> <p><em>Mozambique-South Africa</em>: South Africa has placed military units to assist police operations along the border of Lesotho, Zimbabwe, and Mozambique to control smuggling, poaching, and illegal migration</p> <p><em>Mozambique-Tanzania</em>: none identified</p> <p><em>Mozambique-Zambia</em>: none identified</p> <p><em>Mozambique-Zimbabwe</em>: none identified</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 10,968 (Democratic Republic of Congo) (refugees and asylum seekers), 8,589 (Burundi) (refugees and asylum seekers) (2022)<br>
+_refugees (country of origin)_: 11,479 (Democratic Republic of Congo) (refugees and asylum seekers), 8,589 (Burundi) (refugees and asylum seekers) (2022)<br>
 _IDPs_: 946,508 (violence between the government and an opposition group, violence associated with extremists groups in 2018, political violence 2019) (2022)<br>
 
 **Illicit drugs**<br>

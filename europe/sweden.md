@@ -165,6 +165,9 @@ _female_: 84.58 years (2022 est.)<br>
 **Total fertility rate**<br>
 1.67 children born/woman (2022 est.)<br>
 
+**Gross reproduction rate**<br>
+0.81 (2022 est.)<br>
+
 **Contraceptive prevalence rate**<br>
 70.3% (2017)<br>
 <strong>note:</strong> percent of women aged 16-49<br>
@@ -211,6 +214,9 @@ _other alcohols_: 0.1 liters of pure alcohol (2019 est.)<br>
 _total_: 24% (2020 est.)<br>
 _male_: 29.8% (2020 est.)<br>
 _female_: 18.2% (2020 est.)<br>
+
+**Currently married women (ages 15-49)**<br>
+53.7% (2022 est.)<br>
 
 **Children under the age of 5 years underweight**<br>
 NA<br>
@@ -653,9 +659,8 @@ _under 914 m_: 77 (2021)<br>
 1626 km gas (2013)<br>
 
 **Railways**<br>
-_total_: 14,127 km (2016)<br>
-_standard gauge_: 14,062 km (2016) 1.435-m gauge (12,322 km electrified)<br>
-_narrow gauge_: 65 km (2016) 0.891-m gauge (65 km electrified)<br>
+_total_: 10,910 km (2020) 8,184 km electrified<br>
+_narrow gauge_: 65 km<br>
 
 **Roadways**<br>
 _total_: 573,134 km (2016) (includes 2,050 km of expressways)<br>
@@ -718,6 +723,6 @@ Islamic State of Iraq and ash-Sham (ISIS)<br>
 <p>none identified</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 114,995 (Syria), 28,744 (Afghanistan), 26,911 (Eritrea), 11,574 (Somalia), 11,153 (Iraq), 7,516 (Iran) (2020); 49,789 (Ukraine) (as of 20 December 2022)<br>
+_refugees (country of origin)_: 114,995 (Syria), 28,744 (Afghanistan), 26,911 (Eritrea), 11,574 (Somalia), 11,153 (Iraq), 7,516 (Iran) (2020); 50,040 (Ukraine) (as of 23 December 2022)<br>
 _stateless persons_: 50,098 (mid-year 2021); note - the majority of stateless people are from the Middle East and Somalia<br>
 

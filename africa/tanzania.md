@@ -174,6 +174,9 @@ _female_: 72.02 years (2022 est.)<br>
 **Total fertility rate**<br>
 4.39 children born/woman (2022 est.)<br>
 
+**Gross reproduction rate**<br>
+2.16 (2022 est.)<br>
+
 **Contraceptive prevalence rate**<br>
 38.4% (2015/16)<br>
 
@@ -226,6 +229,9 @@ _other alcohols_: 6.6 liters of pure alcohol (2019 est.)<br>
 _total_: 8.7% (2020 est.)<br>
 _male_: 14% (2020 est.)<br>
 _female_: 3.4% (2020 est.)<br>
+
+**Currently married women (ages 15-49)**<br>
+59.9% (2022 est.)<br>
 
 **Children under the age of 5 years underweight**<br>
 14.6% (2018)<br>
@@ -749,7 +755,7 @@ Islamic State of Iraq and ash-Sham - Mozambique (ISIS-M)<br>
 <p><em>Tanzania-Burundi</em>: none identified</p> <p><em>Tanzania-Democratic Republic of the Congo</em>: none identified</p> <p><em>Tanzania-Kenya</em>: none identified</p> <p><em>Tanzania-Malawi</em>: dispute with Malawi over the boundary in Lake Nyasa (Lake Malawi) and the meandering Songwe River; Malawi contends that the entire lake up to the Tanzanian shoreline is its territory, while Tanzania claims the border is in the center of the lake</p> <p><em>Tanzania-Mozambique</em>: none identified</p> <p><em>Tanzania-Rwanda</em>: none identified</p> <p><em>Tanzania-Uganda</em>: none identified</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 126,132 (Burundi), 80,860 (Democratic Republic of the Congo) (2022)<br>
+_refugees (country of origin)_: 126,132 (Burundi), 80,360 (Democratic Republic of the Congo) (2022)<br>
 
 **Illicit drugs**<br>
 <p>significant transit country for illicit drugs in East Africa; international drug-trafficking organizations and courier networks transit through Tanzania to smuggle heroin and methamphetamine from Southwest Asia; produces cannabis products and khat for domestic consumption and regional and international distribution; traffickers influence politicians, law enforcement, and others in positions of power with money</p> (2021)<br>

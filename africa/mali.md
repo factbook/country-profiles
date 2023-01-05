@@ -173,6 +173,9 @@ _female_: 64.7 years (2022 est.)<br>
 **Total fertility rate**<br>
 5.54 children born/woman (2022 est.)<br>
 
+**Gross reproduction rate**<br>
+2.73 (2022 est.)<br>
+
 **Contraceptive prevalence rate**<br>
 17.2% (2018)<br>
 
@@ -226,6 +229,9 @@ _other alcohols_: 0.49 liters of pure alcohol (2019 est.)<br>
 _total_: 8.3% (2020 est.)<br>
 _male_: 15.6% (2020 est.)<br>
 _female_: 1% (2020 est.)<br>
+
+**Currently married women (ages 15-49)**<br>
+78.3% (2022 est.)<br>
 
 **Children under the age of 5 years underweight**<br>
 18.1% (2019)<br>
@@ -736,8 +742,8 @@ Ansar al-Dine; Islamic State of Iraq and ash-Sham in the Greater Sahara (ISIS-GS
 <p><em>Mali-Burkina Faso</em>: demarcation is underway with Burkina Faso</p> <p> </p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 24,519 (Burkina Faso) (refugees and asylum seekers), 15,229 (Niger) (refugees and asylum seekers), 14,950 (Mauritania) (refugees and asylum seekers) (2022)<br>
-_IDPs_: 422,620 (Tuareg rebellion since 2012) (2022)<br>
+_refugees (country of origin)_: 24,527 (Burkina Faso) (refugees and asylum seekers), 15,741 (Niger) (refugees and asylum seekers), 14,952 (Mauritania) (refugees and asylum seekers) (2022)<br>
+_IDPs_: 440,436 (Tuareg rebellion since 2012) (2022)<br>
 
 **Trafficking in persons**<br>
 _tier rating_: Tier 2 Watch List &mdash; Mali does not fully meet the minimum standards for the elimination of trafficking but is making significant efforts to do so; government efforts included prosecuting hereditary slavery cases, increasing convictions, continuing training and awareness raising activities, releasing all children associated with the Malian armed forces (FAMa) to an international organization for care, training law enforcement officials on protection of children in armed conflict, identifying 215 children used by armed groups and referring them to international organizations for care; however, the government did not stop all use of children in the FAMa; the government continued to provide support to and collaborate with the Imghad Tuareg and the Allies Self-Defense Group, which recruited and used child soldiers; authorities did not investigate any suspects for child soldier offenses or make efforts to prevent it; law enforcement lacked resources and training about human trafficking; services for victims remained insufficient; therefore, Mali was downgraded to Tier 2 Watch List (2020)<br>

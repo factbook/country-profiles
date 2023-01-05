@@ -162,6 +162,9 @@ _female_: 85.08 years (2022 est.)<br>
 **Total fertility rate**<br>
 1.22 children born/woman (2022 est.)<br>
 
+**Gross reproduction rate**<br>
+0.59 (2022 est.)<br>
+
 **Contraceptive prevalence rate**<br>
 65.1% (2013)<br>
 <strong>note:</strong> percent of women aged 18-49<br>
@@ -211,6 +214,9 @@ _other alcohols_: 0 liters of pure alcohol (2019 est.)<br>
 _total_: 23.1% (2020 est.)<br>
 _male_: 26.6% (2020 est.)<br>
 _female_: 19.5% (2020 est.)<br>
+
+**Currently married women (ages 15-49)**<br>
+52.9% (2022 est.)<br>
 
 **Children under the age of 5 years underweight**<br>
 NA<br>
@@ -665,9 +671,7 @@ _under 914 m_: 20 (2021)<br>
 20,223 km gas, 1,393 km oil, 1,574 km refined products (2013)<br>
 
 **Railways**<br>
-_total_: 18,892.4 km (2014)<br>
-_standard gauge_: 18,770.1 km (2014) 1.435-m gauge (12,893.6 km electrified)<br>
-_narrow gauge_: 122.3 km (2014) 1.000-m gauge (122.3 km electrified)<br>
+_total_: 18,475 km (2020) 12,936 km electrified<br>
 1289.3 0.950-mm gauge (151.3 km electrified)<br>
 
 **Roadways**<br>
@@ -732,9 +736,9 @@ Islamic State of Iraq and ash-Sham (ISIS)<br>
 <p>Italy's long coastline and developed economy entices tens of thousands of illegal immigrants from southeastern Europe and northern Africa</p> <p><em>Italy-Austria-Switzerland</em>: borders are shifting because glacier peaks that had served as a natural boundary are melting</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 19,441 (Nigeria), 15,337 (Pakistan), 12,962 (Afghanistan), 10,609 (Mali), 7,901 (Somalia), 5,845 (Gambia), 5,079 (Iraq) (mid-year 2021); 173,231 (Ukraine) (as of 20 December 2022)<br>
+_refugees (country of origin)_: 19,441 (Nigeria), 15,337 (Pakistan), 12,962 (Afghanistan), 10,609 (Mali), 7,901 (Somalia), 5,845 (Gambia), 5,079 (Iraq) (mid-year 2021); 173,231 (Ukraine) (as of 27 December 2022)<br>
 _stateless persons_: 3,000 (mid-year 2021)<br>
-<strong>note:</strong> 689,298 estimated refugee and migrant arrivals (January 2015-December 2022)<br>
+<strong>note:</strong> 693,041 estimated refugee and migrant arrivals (January 2015-December 2022)<br>
 
 **Illicit drugs**<br>
 important gateway for drug trafficking; organized crime groups allied with Colombian and Spanish groups trafficking cocaine to Europe<br>

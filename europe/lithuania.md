@@ -160,6 +160,9 @@ _female_: 81.44 years (2022 est.)<br>
 **Total fertility rate**<br>
 1.61 children born/woman (2022 est.)<br>
 
+**Gross reproduction rate**<br>
+0.78 (2022 est.)<br>
+
 **Contraceptive prevalence rate**<br>
 NA<br>
 
@@ -209,6 +212,9 @@ _other alcohols_: 1.48 liters of pure alcohol (2019 est.)<br>
 _total_: 32% (2020 est.)<br>
 _male_: 42.1% (2020 est.)<br>
 _female_: 21.8% (2020 est.)<br>
+
+**Currently married women (ages 15-49)**<br>
+53.4% (2022 est.)<br>
 
 **Children under the age of 5 years underweight**<br>
 NA<br>
@@ -340,12 +346,12 @@ _chief of state_: President Gitanas NAUSEDA (since 12 July 2019)<br>
 _head of government_: Prime Minister Ingrida SIMONYTE (since 24 November 2020)<br>
 _cabinet_: Council of Ministers nominated by the prime minister, appointed by the president, and approved by Parliament<br>
 _elections/appointments_: president directly elected by absolute majority popular vote in 2 rounds if needed for a 5-year term (eligible for a second term); election last held on 12 and 26 May 2019 (next to be held in May 2024); prime minister appointed by the president, approved by Parliament<br>
-_election results_: <em>2019:</em> Gitanas NAUSEDA elected president in second round; percent of vote - Gitanas NAUSEDA (independent) 66.7%, Ingrida SIMONYTE (independent) 33.3%; Saulius SKVERNELIS (LVZS) approved as prime minister by Parliament vote - 62 to 10<br><br><em>2009:</em> Dalia GRYBAUSKAITE elected president; Dalia GRYBAUSKAITE 69.1%, Algirdas BUTKEVICIUS 11.8%, Valentinas MAZURONIS 6.2%, Valdemar TOMASEVSKI 4.7%, and other 8.2%<br><br><br><br><br> <table style="background: transparent none repeat scroll 0% 0%; width: 31px; height: 39px;"> <tbody> <tr> <td style="width: 75px; text-align: center;"> </td> <td style="width: 75px; text-align: center;"> </td> </tr> </tbody> </table><br>
+_election results_: <em>2019:</em> Gitanas NAUSEDA elected president in second round; percent of vote - Gitanas NAUSEDA (independent) 66.7%, Ingrida SIMONYTE (independent) 33.3%; Saulius SKVERNELIS (LVZS) approved as prime minister by Parliament vote - 62 to 10<br><br><br><br> <table style="background: transparent none repeat scroll 0% 0%; width: 31px; height: 39px;"> <tbody> <tr> <td style="width: 75px; text-align: center;"> </td> <td style="width: 75px; text-align: center;"> </td> </tr> </tbody> </table><br>
 
 **Legislative branch**<br>
 _description_: unicameral Parliament or Seimas (141 seats; 71 members directly elected in single-seat constituencies by absolute majority vote and 70 directly elected in a single nationwide constituency by proportional representation vote; members serve 4-year terms)<br>
 _elections_: last held on 11 and 25 October 2020 (next to be held in October 2024)<br>
-_election results_: percent of vote by party - NA; seats by party - TS-LKD 50, LVZS 32, LSDP 13, LRLS 13, Freedom 11, DP 10, AWPL 3, LSDDP 3, LT 1, Greens 1, independent 4; composition as of July 2022 - men 101, women 40, percent of women 28.4%<br>
+_election results_: percent of vote by party - NA; seats by party - TS-LKD 50, LVZS 32, LSDP 13, LRLS 13, LP 11, DP 10, LLRA-KSS 3, LSDDP 3, LT 1, LZP 1, independent 4; composition as of July 2022 - men 101, women 40, women 28 percent<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme Court (consists of 37 judges); Constitutional Court (consists of 9 judges)<br>
@@ -439,7 +445,7 @@ _exports of goods and services_: 81.6% (2017 est.)<br>
 _imports of goods and services_: -79.3% (2017 est.)<br>
 
 **Agricultural products**<br>
-wheat, milk, sugar beet, rapeseed, barley, triticale, potatoes, oats, peas, beans<br>
+wheat, milk, sugar beets, rapeseeds, barley, triticale, potatoes, oats, peas, beans<br>
 
 **Industries**<br>
 metal-cutting machine tools, electric motors, televisions, refrigerators and freezers, petroleum refining, shipbuilding (small ships), furniture, textiles, food processing, fertilizer, agricultural machinery, optical equipment, lasers, electronic components, computers, amber jewelry, information technology, video game development, app/software development, biotechnology<br>
@@ -582,9 +588,9 @@ _crude oil estimated reserves_: 12 million barrels (2021 est.)<br>
 
 **Natural gas**<br>
 _production_: 0 cubic meters (2021 est.)<br>
-_consumption_: 2,230,854,000 cubic meters (2019 est.)<br>
+_consumption_: 2.231 billion cubic meters (2019 est.)<br>
 _exports_: 497.923 million cubic meters (2020 est.)<br>
-_imports_: 2,818,513,000 cubic meters (2020 est.)<br>
+_imports_: 2.819 billion cubic meters (2020 est.)<br>
 _proven reserves_: 0 cubic meters (2021 est.)<br>
 
 **Carbon dioxide emissions**<br>
@@ -599,16 +605,16 @@ _Total energy consumption per capita 2019_: 101.651 million Btu/person (2019 est
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 322,108 (2020 est.)<br>
-_subscriptions per 100 inhabitants_: 12 (2020 est.)<br>
+_total subscriptions_: 290,711 (2021 est.)<br>
+_subscriptions per 100 inhabitants_: 10 (2021 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 3,671,995 (2020 est.)<br>
-_subscriptions per 100 inhabitants_: 135 (2020 est.)<br>
+_total subscriptions_: 3,726,653 (2021 est.)<br>
+_subscriptions per 100 inhabitants_: 134 (2021 est.)<br>
 
 **Telecommunication systems**<br>
-_general assessment_: Lithuania&rsquo;s small telecoms market is among the more advanced in Europe, particularly given the universal access to LTE infrastructure and the extensive fiber footprint; in line with the country&rsquo;s Digital Agenda, the focus among telcos has been to invest in fiber, with an emphasis on delivering gigabyte data speeds; SIM card penetration is relatively high for the region and most subscribers are higher ARPU postpaid subscribers; network operators continue to market mobile broadband services, made possible from investments in LTE technologies; LTE services are available nationally, and although there have been some initial trials of 5G commercial services are not expected to be launched until mid to late 2021; the regulator has consulted on the release of spectrum for 5G in a range of bands, and the auction is tentatively scheduled for the first quarter of 2021; according to regulator data, the total revenue of the electronic communications sector in the third quarter of 2020 was the highest it has been since the fourth quarter of 2010; revenue growth in the mobile sector was driven mainly mobile internet services (2021)<br>
-_domestic_: nearly 12 per 100 for fixed-line subscriptions; rapid expansion of mobile-cellular services has resulted in a steady decline in the number of fixed-line connections; mobile-cellular teledensity stands at about 174 per 100 persons (2020)<br>
+_general assessment_: Lithuania&rsquo;s small telecoms market is among the more advanced in Europe, particularly given the universal access to LTE infrastructure and the extensive fiber footprint; investment has been focused on fiber broadband and mobile network upgrades; fiber is now by far the dominant fixed broadband platform, with the number of DSL and cable connections in steady decline; SIM card penetration is relatively high for the region, with a growing proportion of subscribers being on higher-Average Revenue Per User (ARPU) contract plans; while LTE services are available nationally, operators have made steady investments in 5G; the regulator has helped the network operators to develop 5G by allowing them to repurpose spectrum in the 2.1GHz and 2.4GHz bands; the regulator is expected to complete the auction of spectrum in the 700MHz and 3.4GHz bands later in 2022; service obligations on the licenses include the provision of services to the five main cities by the end of 2023 (2021)<br>
+_domestic_: nearly 10 per 100 for fixed-line subscriptions; expansion of mobile-cellular services has resulted in a steady decline in the number of fixed-line connections; mobile-cellular teledensity stands at about 134 per 100 persons (2021)<br>
 _international_: country code - 370; landing points for the BCS East, BCS East-West Interlink and NordBalt connecting Lithuania to Sweden, and Latvia&nbsp;; further transmission by satellite; landline connections to Latvia and Poland (2019)<br>
 <strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress toward 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>
 
@@ -657,9 +663,7 @@ _under 914 m_: 36 (2021)<br>
 1,921 km gas, 121 km refined products (2013)<br>
 
 **Railways**<br>
-_total_: 1,768 km (2014)<br>
-_standard gauge_: 22 km (2014) 1.435-m gauge<br>
-_broad gauge_: 1,746 km (2014) 1.520-m gauge (122 km electrified)<br>
+_total_: 1,911 km (2020) 152 km electrified<br>
 
 **Roadways**<br>
 _total_: 84,166 km (2012)<br>
@@ -713,7 +717,7 @@ Lithuania became a member of NATO in 2004<br> <p>since 2017, Lithuania has hoste
 <p><em>Lithuania-Belarus</em>: as of January 2007, ground demarcation of the boundary with Belarus was complete and mapped with final ratification documents in preparation</p> <p><em>Lithuania-Lativa</em>: boundary demarcated with Latvia was completed in 1998</p> <p><em>Lithuania-Russia</em>:<strong> </strong>Lithuania and Russia committed to demarcating their boundary in 2006 in accordance with the land and maritime treaty ratified by Russia in May 2003 and by Lithuania in 1999; Lithuania operates a simplified transit regime for Russian nationals traveling from the Kaliningrad coastal exclave into Russia, while still conforming, as a EU member state having an external border with a non-EU member, to strict Schengen border rules; in January 2018, demarcation of the Lithuania-Russia border was completed</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 72,051 (Ukraine) (as of 20 December 2022)<br>
+_refugees (country of origin)_: 72,302 (Ukraine) (as of 27 December 2022)<br>
 _stateless persons_: 2,721 (mid-year 2021)<br>
 
 **Illicit drugs**<br>

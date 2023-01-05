@@ -171,6 +171,9 @@ _female_: 75.59 years (2022 est.)<br>
 **Total fertility rate**<br>
 3.4 children born/woman (2022 est.)<br>
 
+**Gross reproduction rate**<br>
+1.69 (2022 est.)<br>
+
 **Contraceptive prevalence rate**<br>
 65.6% (2019/20)<br>
 
@@ -224,6 +227,9 @@ _other alcohols_: 1.7 liters of pure alcohol (2019 est.)<br>
 _total_: 10.8% (2020 est.)<br>
 _male_: 17.5% (2020 est.)<br>
 _female_: 4.1% (2020 est.)<br>
+
+**Currently married women (ages 15-49)**<br>
+60.7% (2022 est.)<br>
 
 **Children under the age of 5 years underweight**<br>
 9% (2019)<br>
@@ -719,7 +725,7 @@ the MDF’s primary responsibility is external security; it is also tasked as ne
 <p><em>Malawi-Mozambique</em>: the two countries have held exercises to reaffirm boundaries a number of times</p> <p><em>Malawi-Tanzania</em>: dispute with Tanzania over the boundary in Lake Nyasa (Lake Malawi) and the meandering Songwe River; Malawi contends that the entire lake up to the Tanzanian shoreline is its territory, while Tanzania claims the border is in the center of the lake; the conflict was reignited in 2012 when Malawi awarded a license to a British company for oil exploration in the lake</p> <p><em>Malawi-Zambia</em>: border demarcation was completed in 2011; in 2018, the redemarcation exercise determined that some parts of Malawi actually belonged to Zambia</p> <p> </p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 34,643 (Democratic Republic of the Congo) (refugees and asylum seekers), 12,959 (Burundi) (refugees and asylum seekers), 7,738 (Rwanda) (refugees and asylum seekers) (2022)<br>
+_refugees (country of origin)_: 34,840 (Democratic Republic of the Congo) (refugees and asylum seekers), 13,131 (Burundi) (refugees and asylum seekers), 7,738 (Rwanda) (refugees and asylum seekers) (2022)<br>
 
 **Illicit drugs**<br>
 NA<br>

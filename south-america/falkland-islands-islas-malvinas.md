@@ -171,6 +171,9 @@ _unimproved: total_: total: 0% of population (2020)<br>
 **HIV/AIDS - adult prevalence rate**<br>
 NA<br>
 
+**Currently married women (ages 15-49)**<br>
+45.1% (2022 est.)<br>
+
 **Children under the age of 5 years underweight**<br>
 NA<br>
 

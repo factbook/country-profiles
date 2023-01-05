@@ -169,6 +169,9 @@ _female_: 77.6 years (2022 est.)<br>
 **Total fertility rate**<br>
 2.96 children born/woman (2022 est.)<br>
 
+**Gross reproduction rate**<br>
+1.44 (2022 est.)<br>
+
 **Contraceptive prevalence rate**<br>
 51.8% (2017/18)<br>
 
@@ -217,6 +220,9 @@ _other alcohols_: 0 liters of pure alcohol (2019 est.)<br>
 _total_: 34.8% (2020 est.)<br>
 _male_: 56.8% (2020 est.)<br>
 _female_: 12.8% (2020 est.)<br>
+
+**Currently married women (ages 15-49)**<br>
+55.8% (2022 est.)<br>
 
 **Children under the age of 5 years underweight**<br>
 3% (2012)<br>
@@ -728,7 +734,7 @@ Islamic State of Iraq and ash-Sham (ISIS)<br>
 <p><em>Jordan-Iraq</em>: the two countries signed a border agreement in 1984; Jordan has ratified the treaty, but it has not been confirmed that Iraq has ratified it; as of 2010, the agreement had not been registered with the UN</p> <p><em>Jordan-Israel</em>: none identified</p> <p><em>Jordan-Saudi Arabia</em>: Jordan and Saudi Arabia signed an agreement to demarcate their maritime borders in 2007</p> <p><em>Jordan-Syria</em>: the two countries signed an agreement in 2005 to settle the border dispute based on a 1931 demarcation accord; the two countries began demarcation in 2006</p> <p><em>Jordan-West Bank</em>: none identified</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 2,307,011 (Palestinian refugees) (2020); 66,665 (Iraq), 12,866 (Yemen), 6,013 Sudan (2021); 669,483 (Syria) (2022)<br>
+_refugees (country of origin)_: 2,307,011 (Palestinian refugees) (2020); 66,665 (Iraq), 12,866 (Yemen), 6,013 Sudan (2021); 660,892 (Syria) (2022)<br>
 _stateless persons_: 63 (mid-year 2021)<br>
 
 **Illicit drugs**<br>

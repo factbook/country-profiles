@@ -5,7 +5,7 @@ _Europe / Countries_
 ## Introduction
 
 **Background**<br>
-<p>The lands that today comprise Croatia were part of the Austro-Hungarian Empire until the close of World War I. In 1918, the Croats, Serbs, and Slovenes formed a kingdom known after 1929 as Yugoslavia. Following World War II, Yugoslavia became a federal independent communist state consisting of six socialist republics under the strong hand of Marshal Josip Broz, aka TITO. Although Croatia declared its independence from Yugoslavia in 1991, it took four years of sporadic, but often bitter, fighting before occupying Yugoslav forces, dominated by Serb officers, were mostly cleared from Croatian lands, along with a majority of Croatia's ethnic Serb population. Under UN supervision, the last Serb-held enclave in eastern Slavonia was returned to Croatia in 1998. The country joined NATO in April 2009 and the EU in July 2013. </p><br>
+<p>The lands that today comprise Croatia were part of the Austro-Hungarian Empire until the close of World War I. In 1918, the Croats, Serbs, and Slovenes formed a kingdom known after 1929 as Yugoslavia. Following World War II, Yugoslavia became a federal independent communist state consisting of six socialist republics under the strong hand of Marshal Josip Broz, aka TITO. Although Croatia declared its independence from Yugoslavia in 1991, it took four years of sporadic, but often bitter, fighting before occupying Yugoslav forces, dominated by Serb officers, were mostly cleared from Croatian lands, along with a majority of Croatia's ethnic Serb population. Under UN supervision, the last Serb-held enclave in eastern Slavonia was returned to Croatia in 1998. The country joined NATO in April 2009 and the EU in July 2013. In January 2023, Croatia further integrated into the EU by joining the Eurozone and the Schengen Area.</p><br>
 
 ## Geography
 
@@ -165,6 +165,9 @@ _female_: 80.53 years (2022 est.)<br>
 **Total fertility rate**<br>
 1.45 children born/woman (2022 est.)<br>
 
+**Gross reproduction rate**<br>
+0.7 (2022 est.)<br>
+
 **Contraceptive prevalence rate**<br>
 NA<br>
 
@@ -214,6 +217,9 @@ _other alcohols_: 0.36 liters of pure alcohol (2019 est.)<br>
 _total_: 36.9% (2020 est.)<br>
 _male_: 37.6% (2020 est.)<br>
 _female_: 36.1% (2020 est.)<br>
+
+**Currently married women (ages 15-49)**<br>
+51.1% (2022 est.)<br>
 
 **Children under the age of 5 years underweight**<br>
 NA<br>
@@ -539,12 +545,9 @@ $48.263 billion (2019 est.)<br>
 $51.176 billion (2018 est.)<br>
 
 **Exchange rates**<br>
-_Currency_: kuna (HRK) per US dollar -<br>
-6.2474 (2020 est.)<br>
-6.72075 (2019 est.)<br>
-6.48905 (2018 est.)<br>
-6.8583 (2014 est.)<br>
-5.7482 (2013 est.)<br>
+_Currency_: euro per US dollar -<br>
+0.85 (2021 est.)<br>
+<strong>note:</strong> Prior to January 1, 2023, Croatia used the kuna as its currency, and it is currently accepting both currencies until January 15, 2023. However, kuna users will receive change in euros, and the exchange rate has been fixed at 7.53450 kuna to 1 euro. Persons may exchange currencies at Croatian post offices until June 30, 2023, free-of-charge, and at any Croatian bank until December 31, 2023.<br>
 
 ## Energy
 
@@ -672,8 +675,7 @@ _under 914 m_: 38 (2021)<br>
 2,410 km gas, 610 km oil (2011)<br>
 
 **Railways**<br>
-_total_: 2,722 km (2014)<br>
-_standard gauge_: 2,722 km (2014) 1.435-m gauge (980 km electrified)<br>
+_total_: 2,617 km (2020) 980 km electrified<br>
 
 **Roadways**<br>
 _total_: 26,958 km (2015) (includes 1,416 km of expressways)<br>
@@ -726,7 +728,7 @@ Croatia joined NATO in 2009<br>
 <p>dispute remains with Bosnia and Herzegovina over several small sections of the boundary related to maritime access that hinders ratification of the 1999 border agreement; since the breakup of Yugoslavia in the early 1990s, Croatia and Slovenia have each claimed sovereignty over Piranski Bay and four villages, and Slovenia has objected to Croatia's claim of an exclusive economic zone in the Adriatic Sea; in 2009, however Croatia and Slovenia signed a binding international arbitration agreement to define their disputed land and maritime borders, which led to Slovenia lifting its objections to Croatia joining the EU; Croatia joined the Schengen Zone on 1 January 2023</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 19,753 (Ukraine) (as of 20 December 2022)<br>
+_refugees (country of origin)_: 19,968 (Ukraine) (as of 25 December 2022)<br>
 _stateless persons_: 2,910 (mid-year 2021)<br>
 <strong>note: </strong>771,932 estimated refugee and migrant arrivals (January 2015-October 2022)<br>
 

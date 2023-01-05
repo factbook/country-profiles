@@ -165,6 +165,9 @@ _female_: 74.03 years (2022 est.)<br>
 **Total fertility rate**<br>
 4.23 children born/woman (2022 est.)<br>
 
+**Gross reproduction rate**<br>
+2.08 (2022 est.)<br>
+
 **Contraceptive prevalence rate**<br>
 23.9% (2017)<br>
 
@@ -218,6 +221,9 @@ _other alcohols_: 0.33 liters of pure alcohol (2019 est.)<br>
 _total_: 6.8% (2020 est.)<br>
 _male_: 12.3% (2020 est.)<br>
 _female_: 1.2% (2020 est.)<br>
+
+**Currently married women (ages 15-49)**<br>
+62.3% (2022 est.)<br>
 
 **Children under the age of 5 years underweight**<br>
 15.2% (2017)<br>
@@ -729,7 +735,7 @@ Jama’at Nusrat al Islam wal Muslimeen (JNIM)<br>
 <p><em>Togo-Benin</em>: in 2001, Benin claimed Togo moved boundary monuments - joint commission continues to resurvey the boundary; Benin’s and Togo’s Adjrala hydroelectric dam project on the Mona River, proposed in the 1990s, commenced in 2017 with funding from a Chinese bank</p> <p><em>Togo-Burkina Faso</em>: none identified</p> <p><em>Togo-Ghana</em>: none identified</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 8,391 (Ghana) (2022)<br>
+_refugees (country of origin)_: 8,395 (Ghana) (2022)<br>
 
 **Illicit drugs**<br>
 transit hub for Nigerian heroin and cocaine traffickers; money laundering not a significant problem<br>

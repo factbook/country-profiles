@@ -172,6 +172,9 @@ _female_: 68.53 years (2022 est.)<br>
 **Total fertility rate**<br>
 2.98 children born/woman (2022 est.)<br>
 
+**Gross reproduction rate**<br>
+1.47 (2022 est.)<br>
+
 **Contraceptive prevalence rate**<br>
 56.1% (2013)<br>
 
@@ -223,6 +226,9 @@ _other alcohols_: 0.32 liters of pure alcohol (2019 est.)<br>
 _total_: 15.1% (2020 est.)<br>
 _male_: 24.2% (2020 est.)<br>
 _female_: 6% (2020 est.)<br>
+
+**Currently married women (ages 15-49)**<br>
+33.2% (2022 est.)<br>
 
 **Children under the age of 5 years underweight**<br>
 13.2% (2013)<br>
@@ -720,5 +726,5 @@ the Namibian Defense Force (NDF) was created in 1990, largely from demobilized f
 <p><em>Namibia-Angola-Botswana</em>: concerns from international experts and local populations over the Okavango Delta ecology in Botswana and human displacement scuttled Namibian plans to construct a hydroelectric dam on Popa Falls along the Angola-Namibia border</p> <p><em>Namibia-Botswana-Zambia-Zimbabwe</em>: Namibia has supported, and in 2004 Zimbabwe dropped objections to, plans between Botswana and Zambia to build a bridge over the Zambezi River, thereby de facto recognizing a short, but not clearly delimited, Botswana-Zambia boundary in the river; the Kazungula Bridge opened to traffic in May 2021</p> <p><em>Namibia-South Africa</em>: the governments of South Africa and Namibia have not signed or ratified the text of the 1994 Surveyor's General agreement placing the boundary in the middle of the Orange River; Namibia claims a median line boundary, while South Africa supports the northern bank of the river</p> <p> </p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 6,096 (Democratic Republic of the Congo) (refugees and asylum seekers) (2022)<br>
+_refugees (country of origin)_: 6,211 (Democratic Republic of the Congo) (refugees and asylum seekers) (2022)<br>
 

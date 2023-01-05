@@ -182,6 +182,9 @@ _female_: 75.46 years (2022 est.)<br>
 2.29 children born/woman (2022 est.)<br>
 <strong>note:</strong> does not include data from the former Western Sahara<br>
 
+**Gross reproduction rate**<br>
+1.12 (2022 est.)<br>
+
 **Contraceptive prevalence rate**<br>
 70.8% (2018)<br>
 <strong>note:</strong> does not include data from the former Western Sahara<br>
@@ -235,6 +238,9 @@ _other alcohols_: 0 liters of pure alcohol (2019 est.)<br>
 _total_: 14.5% (2020 est.)<br>
 _male_: 28.2% (2020 est.)<br>
 _female_: 0.8% (2020 est.)<br>
+
+**Currently married women (ages 15-49)**<br>
+58.7% (2022 est.)<br>
 
 **Children under the age of 5 years underweight**<br>
 2.6% (2017/18)<br>

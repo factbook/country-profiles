@@ -193,6 +193,9 @@ _unimproved: total_: total: 32.3% of population (2015 est.)<br>
 **Major infectious diseases**<br>
 <strong>note:</strong> widespread ongoing transmission of a respiratory illness caused by the novel coronavirus (COVID-19) is occurring globally; older adults and people of any age with serious chronic medical conditions are at increased risk for severe disease; some health care systems are becoming overwhelmed and there may be limited access to adequate medical care in affected areas; many countries are implementing travel restrictions and mandatory quarantines, closing borders, and prohibiting non-citizens from entry with little advance notice; US residents may have difficulty returning to the United States; as of 9 December 2022, 643,875,406 confirmed cases of COVID-19 and 6,630,082 deaths have been reported to the World Health Organization; as of 8 December 2022, 68.6% of the World population has received at least one dose of COVID-19 vaccine<br>
 
+**Currently married women (ages 15-49)**<br>
+66.4% (2022 est.)<br>
+
 **Literacy**<br>
 _definition_: age 15 and over can read and write<br>
 _total population_: 86.7%<br>

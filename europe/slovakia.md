@@ -164,6 +164,9 @@ _female_: 82.04 years (2022 est.)<br>
 **Total fertility rate**<br>
 1.46 children born/woman (2022 est.)<br>
 
+**Gross reproduction rate**<br>
+0.7 (2022 est.)<br>
+
 **Contraceptive prevalence rate**<br>
 NA<br>
 
@@ -209,6 +212,9 @@ _other alcohols_: 0 liters of pure alcohol (2019 est.)<br>
 _total_: 31.5% (2020 est.)<br>
 _male_: 37.4% (2020 est.)<br>
 _female_: 25.6% (2020 est.)<br>
+
+**Currently married women (ages 15-49)**<br>
+49.8% (2022 est.)<br>
 
 **Children under the age of 5 years underweight**<br>
 NA<br>
@@ -342,7 +348,7 @@ _election results_: <em><br>2019:</em> Zuzana CAPUTOVA reelected president in se
 **Legislative branch**<br>
 _description_: unicameral National Council or Narodna Rada (150 seats; members directly elected in a single- and multi-seat constituencies by closed, party-list proportional representation vote; members serve 4-year terms)<br>
 _elections_: last held on 29 February 2020 (next to be held in February 2024)<br>
-_election results_: percent of vote by party - OLaNO-NOVA 25%, Smer-SD 18.3%, Sme-Rodina 8.2%, LSNS 8%, SaS 6.2%, Za Ludi 5.8%, other 28.5%; seats by party - OLaNO-NOVA 53, Smer-SD 38, Sme-Rodina 17, LSNS 17, SaS 13, Za Ludi 12; composition (as of mid-2022) - men 118, women 32, percent of women 21.3%<br>
+_election results_: percent of vote by party - OLaNO-NOVA 25%, Smer-SD 18.3%, Sme-Rodina or SR 8.2%, LSNS 8%, SaS 6.2%, Za Ludi or ZL 5.8%, other 28.5%; seats by party - OLaNO-NOVA 53, Smer-SD 38, Sme-Rodina 17, LSNS 17, SaS 13, Za Ludi 12; composition (as of mid-2022) - men 118, women 77, percent of women 21.3%<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme Court of the Slovak Republic (consists of the court president, vice president, and approximately 80 judges organized into criminal, civil, commercial, and administrative divisions with 3- and 5-judge panels); Constitutional Court of the Slovak Republic (consists of 13 judges organized into 3-judge panels)<br>
@@ -437,7 +443,7 @@ _exports of goods and services_: 96.3% (2017 est.)<br>
 _imports of goods and services_: -92.9% (2017 est.)<br>
 
 **Agricultural products**<br>
-wheat, maize, sugar beet, milk, barley, rapeseed, potatoes, sunflower seed, soybeans, pork<br>
+wheat, maize, sugar beets, milk, barley, rapeseeds, potatoes, sunflower seeds, soybeans, pork<br>
 
 **Industries**<br>
 automobiles; metal and metal products; electricity, gas, coke, oil, nuclear fuel; chemicals, synthetic fibers, wood and paper products; machinery; earthenware and ceramics; textiles; electrical and optical apparatus; rubber products; food and beverages; pharmaceutical<br>
@@ -580,9 +586,9 @@ _crude oil estimated reserves_: 9 million barrels (2021 est.)<br>
 
 **Natural gas**<br>
 _production_: 62.495 million cubic meters (2020 est.)<br>
-_consumption_: 4,928,199,000 cubic meters (2020 est.)<br>
+_consumption_: 4.928 billion cubic meters (2020 est.)<br>
 _exports_: 0 cubic meters (2020 est.)<br>
-_imports_: 4,361,410,000 cubic meters (2020 est.)<br>
+_imports_: 4.361 billion cubic meters (2020 est.)<br>
 _proven reserves_: 14.158 billion cubic meters (2021 est.)<br>
 
 **Carbon dioxide emissions**<br>
@@ -597,16 +603,16 @@ _Total energy consumption per capita 2019_: 129.665 million Btu/person (2019 est
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 648,462 (2020 est.)<br>
-_subscriptions per 100 inhabitants_: 12 (2020 est.)<br>
+_total subscriptions_: 577,390 (2021 est.)<br>
+_subscriptions per 100 inhabitants_: 11 (2021 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 7,399,530 (2019)<br>
-_subscriptions per 100 inhabitants_: 135.6 (2019)<br>
+_total subscriptions_: 7,362,325 (2021)<br>
+_subscriptions per 100 inhabitants_: 135 (2021)<br>
 
 **Telecommunication systems**<br>
-_general assessment_: the broadband market has shown steady growth in recent years; DSL remains the principal technology though in early 2020 it was eclipsed by the fast-developing fiber sector, which has been supported by sympathetic regulatory measures and considerable investment among operators; the cable sector is a distant third in terms of subscribers, though cable is particularly strong in urban areas; Slovakia&rsquo;s mobile market is served by four MNOs; mobile broadband access and content services are developing rapidly in line with operators having upgraded their networks; the regulator prepared the groundwork for 5G services in line with European Union requirements, with concessions in the 3.5GHz range followed by those in the 700MHz, 900MHz and 1800MHz bands; commercial services by the first quarter of 2021 were limited, licensees have invested in 5G infrastructure and also have considerable coverage obligations (2021)<br>
-_domestic_: four companies have a license to operate cellular networks and provide nationwide cellular services; a few other companies provide services but do not have their own networks; fixed-line roughly 11 per 100 and mobile-cellular over 133 per 100 teledensity (2020)<br>
+_general assessment_: the broadband market has shown steady growth in recent years; fiber has become the principal platform for fixed broadband services, followed by DSL; the cable sector is a distant third in terms of subscribers, though cable is particularly strong in urban areas; mobile broadband access and content services are developing rapidly in line with operators having upgraded their networks; the regulator prepared the groundwork for 5G services in line with European Union requirements, with concessions in the 3.5GHz range followed by those in the 700MHz, 900MHz and 1800MHz bands; 5G was launched in late 2021 and is expected to cover about a fifth of the population by the end of 2022 (2021)<br>
+_domestic_: four companies have a license to operate cellular networks and provide nationwide cellular services; a few other companies provide services but do not have their own networks; fixed-line roughly 11 per 100 and mobile-cellular over 135 per 100 teledensity (2021)<br>
 _international_: country code - 421; 3 international exchanges (1 in Bratislava and 2 in Banska Bystrica) are available; Slovakia is participating in several international telecommunications projects that will increase the availability of external services; connects to DREAM cable (2017)<br>
 <strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress toward 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>
 
@@ -656,10 +662,7 @@ _under 914 m_: 5 (2021)<br>
 2,270 km gas transmission pipelines, 6,278 km high-pressure gas distribution pipelines, 27,023 km mid- and low-pressure gas distribution pipelines (2016), 510 km oil (2015) (2016)<br>
 
 **Railways**<br>
-_total_: 3,580 km (2016)<br>
-_standard gauge_: 3,435 km (2016) 1.435-m gauge (1,587 km electrified)<br>
-_narrow gauge_: 46 km (2016) 1.000-m or 0.750-m gauge<br>
-_broad gauge_: 99 km (2016) 1.520-m gauge<br>
+_total_: 3,627 km (2020) 1,585 km electrified<br>
 
 **Roadways**<br>
 _total_: 56,926 km (2016) (includes local roads, national roads, and 464 km of highways)<br>
@@ -705,7 +708,7 @@ Slovakia became a member of NATO in 2004<br><br>in 2022, Slovakia agreed to host
 <p><em>Slovakia-Austria</em>: none identified</p> <p><em>Slovakia-Czechia</em>: none identified</p> <p><em>Slovakia-Hungary</em>: initiated by the 1977 Budapest Treaty, Hungary and formerly Czechoslovakia agreed to a hydroelectric dam project on the Danube with dams to be constructed at Gabcikovo (Slovakia) and Nagymaros (Hungary) to prevent floods, improve river navigability, and to generate electricity; when Hungary suspended work on the project until its environmental impact could be assessed, Slovakia continued working on it and adopted a pared down strategy to divert the Danube so that all construction was within Czechoslovakian territory; Hungary terminated the project on environmental and economic grounds in 1989, and in 1992 both countries took the matter to the International Court of Justice (ICJ); the ICJ found largely in favor of then Slovakia, finding Hungary had breached their agreement; however, then Czechoslovakia should not have begun the alternative plan before the ICJ ruled on the case; in 2017, Hungary and Slovakia agreed to discontinue the ICJ proceedings</p> <p><em>Slovakia-Poland</em>: none identified</p> <p><em>Slovakia-Ukraine</em>: tens of thousands of Ukrainian refugees are crossing the border to Slovakia to escape the Russian invasion in their country</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 104,140 (Ukraine) (as of 20 December 2022)<br>
+_refugees (country of origin)_: 105,205 (Ukraine) (as of 3 January 2023)<br>
 _stateless persons_: 1,532 (mid-year 2021)<br>
 
 **Illicit drugs**<br>

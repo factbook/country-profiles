@@ -168,6 +168,9 @@ _female_: 55.28 years (2022 est.)<br>
 **Total fertility rate**<br>
 4.62 children born/woman (2022 est.)<br>
 
+**Gross reproduction rate**<br>
+2.26 (2022 est.)<br>
+
 **Contraceptive prevalence rate**<br>
 18.9% (2018)<br>
 <strong>note:</strong>  percent of women aged 12-49<br>
@@ -220,6 +223,9 @@ _other alcohols_: 0 liters of pure alcohol (2019 est.)<br>
 _total_: 23.3% (2020 est.)<br>
 _male_: 39.4% (2020 est.)<br>
 _female_: 7.2% (2020 est.)<br>
+
+**Currently married women (ages 15-49)**<br>
+70.2% (2022 est.)<br>
 
 **Children under the age of 5 years underweight**<br>
 19.1% (2018)<br>
@@ -725,7 +731,7 @@ Haqqani Taliban Network; Harakat ul-Mujahidin; Harakat ul-Jihad-i-Islami; Islami
 <p><em>Afghanistan-China:</em> None identified<br><em><br>Afghanistan-Iran:</em> Afghan and Iranian commissioners have discussed boundary monument densification and resurvey; Iran protests Afghanistan's restricting flow of dammed Helmand River tributaries during drought<br><br><em>Afghanistan-Pakistan:</em> Pakistan has built fences in some portions of its border with Afghanistan which remains open in some areas to terrorist and other illegal activities. Their alignments may not always be in conformance with Durand Line and original surveyed definitions of the boundary.<br><br><em>Afghanistan-Tajikistan:</em> None identified<br><br><em>Afghanistan-Turkmenistan:</em> None identified<br><br><em>Afghanistan-Uzbekistan:</em> None identified. Boundary follows Amu Darya river as delimited in the Afghan-Soviet treaties and not by the river's current course. The boundary was delimited and possibly demarcated during Soviet times (pre-1991). No current negotiations between Afghanistan and Uzbekistan to redelimit the boundary have been identified. <br><br>Russia remains concerned about the smuggling of poppy derivatives from Afghanistan through Central Asian countries</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 72,188 (Pakistan) (mid-year 2021)<br>
+_refugees (country of origin)_: 59,486 (Pakistan) (mid-year 2022)<br>
 _IDPs_: 4.314 million (mostly Pashtuns and Kuchis displaced in the south and west due to natural disasters and political instability) (2021)<br>
 
 **Trafficking in persons**<br>

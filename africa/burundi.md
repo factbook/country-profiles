@@ -168,6 +168,9 @@ _female_: 69.59 years (2022 est.)<br>
 **Total fertility rate**<br>
 5.03 children born/woman (2022 est.)<br>
 
+**Gross reproduction rate**<br>
+2.48 (2022 est.)<br>
+
 **Contraceptive prevalence rate**<br>
 28.5% (2016/17)<br>
 
@@ -220,6 +223,9 @@ _other alcohols_: 2.23 liters of pure alcohol (2019 est.)<br>
 _total_: 11.8% (2020 est.)<br>
 _male_: 17.4% (2020 est.)<br>
 _female_: 6.1% (2020 est.)<br>
+
+**Currently married women (ages 15-49)**<br>
+54.9% (2022 est.)<br>
 
 **Children under the age of 5 years underweight**<br>
 27% (2018/19)<br>
@@ -699,7 +705,7 @@ in addition to its foreign deployments, the FDN was focused on internal security
 <p>cross-border conflicts persist among Tutsi, Hutu, other ethnic groups, associated political rebels, armed gangs, and various government forces in the Great Lakes region<em><br><br>Burundi-Rwanda: </em>Burundi's Ngozi province and Rwanda's Butare province dispute the two-kilometer-square hilly farmed area of Sabanerwa in the Rukurazi Valley where the Akanyaru/Kanyaru River shifted its course southward after heavy rains in 1965 around Kibinga Hill in Rwanda's Butare Province<br><br><br></p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 85,470 (Democratic Republic of the Congo) (refugees and asylum seekers) (2022)<br>
+_refugees (country of origin)_: 87,176 (Democratic Republic of the Congo) (refugees and asylum seekers) (2022)<br>
 _IDPs_: 84,791 (some ethnic Tutsis remain displaced from intercommunal violence that broke out after the 1993 coup and fighting between government forces and rebel groups; violence since April 2015) (2022)<br>
 _stateless persons_: 767 (mid-year 2021)<br>
 

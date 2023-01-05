@@ -150,6 +150,9 @@ _female_: 83.65 years (2022 est.)<br>
 **Total fertility rate**<br>
 2 children born/woman (2022 est.)<br>
 
+**Gross reproduction rate**<br>
+0.97 (2022 est.)<br>
+
 **Contraceptive prevalence rate**<br>
 NA<br>
 

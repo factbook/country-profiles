@@ -173,6 +173,9 @@ _female_: 67.75 years (2022 est.)<br>
 **Total fertility rate**<br>
 3.53 children born/woman (2022 est.)<br>
 
+**Gross reproduction rate**<br>
+1.74 (2022 est.)<br>
+
 **Contraceptive prevalence rate**<br>
 11.5% (2019/20)<br>
 
@@ -223,6 +226,9 @@ _other alcohols_: 0 liters of pure alcohol (2019 est.)<br>
 _total_: 10.7% (2020 est.)<br>
 _male_: 19.3% (2020 est.)<br>
 _female_: 2.1% (2020 est.)<br>
+
+**Currently married women (ages 15-49)**<br>
+66.1% (2022 est.)<br>
 
 **Children under the age of 5 years underweight**<br>
 19.2% (2018)<br>
@@ -731,7 +737,7 @@ Al-Qa'ida in the Islamic Maghreb (AQIM)<br>
 <p><em>Mauritania-Algeria</em>: none identified</p> <p><em>Mauritania-Mali</em>: there are no border disputes, but the border has not been demarcated; talks on demarcation were reportedly being held in February 2022</p> <p><em>Mauritania-Morocco</em>: Mauritanian claims to Western Sahara remain dormant; tensions arose in 2016 when Mauritanian soldiers were deployed to Lagouira, a city in the southernmost part of Morocco, and raised their flag</p> <p><em>Mauritania-Senegal</em>: none identified</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 26,001 (Sahrawis) (mid-year 2021); 97,127 (Mali) (2022)<br>
+_refugees (country of origin)_: 26,001 (Sahrawis) (mid-year 2021); 98,202 (Mali) (2022)<br>
 
 **Trafficking in persons**<br>
 _tier rating_: Tier 2 Watch List &mdash; Mauritania does not fully meet the minimum standards for the elimination of trafficking but is making significant efforts to do so and was upgraded to Tier 2 Watch List; the government convicted five hereditary slaveholders, drafted new anti-trafficking legislation and a national action plan, raised awareness on child forced begging in Quranic schools with imams and religious leaders by establishing an inter-ministerial committee, published a child protection guide, and operated a cash transfer program; however, the government rarely imprisoned convicted slaveholders and did not identify any victims; government agencies lacked resources; government officials refuse to investigate or prosecute political offenders (2020)<br>

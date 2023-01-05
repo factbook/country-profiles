@@ -163,6 +163,9 @@ _female_: 76.52 years (2022 est.)<br>
 **Total fertility rate**<br>
 1.59 children born/woman (2022 est.)<br>
 
+**Gross reproduction rate**<br>
+0.77 (2022 est.)<br>
+
 **Contraceptive prevalence rate**<br>
 56% (2020)<br>
 
@@ -208,6 +211,9 @@ _other alcohols_: 0.1 liters of pure alcohol (2019 est.)<br>
 _total_: 29% (2020 est.)<br>
 _male_: 51.7% (2020 est.)<br>
 _female_: 6.2% (2020 est.)<br>
+
+**Currently married women (ages 15-49)**<br>
+68.5% (2022 est.)<br>
 
 **Children under the age of 5 years underweight**<br>
 2.2% (2012)<br>
@@ -344,7 +350,7 @@ _election results_: 2020: Maia SANDU elected president; percent of vote (second 
 **Legislative branch**<br>
 _description_: unicameral Parliament (101 seats; 51 members directly elected in single-seat constituencies by simple majority vote and 50 members directly elected in a single, nationwide constituency by closed party-list proportional representation vote; all members serve 4-year terms<br>
 _elections_: <p>last held on 11 July 2021 (next scheduled in July 2025)</p><br>
-_election results_: <p>percent of vote by party - PAS 52.8%, BECS (PSRM+PCRM) 27.1%, SHOR 5.7%; seats by party - PAS 63, BECS 32, SHOR 6; composition as of July 2022 - men 60, women 41, percent of women 40.6%</p><br>
+_election results_: <p>percent of vote by party - PAS 52.8%, BECS (PSRM+PCRM) 27.1%, SOR 5.7%; seats by party - PAS 63, BECS 32, SOR 6; composition as of July 2022 - men 60 percent, women 40 percent</p><br>
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme Court of Justice (consists of the chief judge, 3 deputy-chief judges, 45 judges, and 7 assistant judges); Constitutional Court (consists of the court president and 6 judges); note - the Constitutional Court is autonomous to the other branches of government; the Court interprets the Constitution and reviews the constitutionality of parliamentary laws and decisions, decrees of the president, and acts of the government<br>
@@ -352,7 +358,7 @@ _judge selection and term of office_: Supreme Court of Justice judges appointed 
 _subordinate courts_: Courts of Appeal; Court of Business Audit; municipal courts<br>
 
 **Political parties and leaders**<br>
-<p>Party of Action and Solidarity or PAS [Igor GROSU]<br>Electoral Bloc of Communists and Socialists or BCS [Vlad BATRINCEA, PSRM and Vladimir VORONIN, PCRM]<br>Party of Communists of the Republic of Moldova or PCRM [Vladimir VORONIN]<br>Party of Socialists of the Republic of Moldova or PSRM [Vlad BATRINCEA]<br>SOR Party or PS [Ilan SHOR]</p><br>
+<p>Party of Action and Solidarity or PAS [Igor GROSU]<br>Bloc of Communists and Socialists or BECS [Vladimir VORONIN and Igor DODON]<br>SOR Party [llan SHOR]</p><br>
 
 **International organization participation**<br>
 BSEC, CD, CE, CEI, CIS, EAEU (observer), EAPC, EBRD, FAO, GCTU, GUAM, IAEA, IBRD, ICAO, ICC (NGOs), ICCt, ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ISO (correspondent), ITU, ITUC (NGOs), MIGA, OIF, OPCW, OSCE, PFP, SELEC, UN, UNCTAD, UNESCO, UNHCR, UNIDO, Union Latina, UNMIL, UNMISS, UNOCI, UNWTO, UPU, WCO, WHO, WIPO, WMO, WTO<br>
@@ -437,7 +443,7 @@ _exports of goods and services_: 42.5% (2017 est.)<br>
 _imports of goods and services_: -70.7% (2017 est.)<br>
 
 **Agricultural products**<br>
-maize, wheat, sunflower seed, grapes, apples, sugar beet, milk, potatoes, barley, plums/sloes<br>
+maize, wheat, sunflower seeds, grapes, apples, sugar beets, milk, potatoes, barley, plums/sloes<br>
 
 **Industries**<br>
 sugar processing, vegetable oil, food processing, agricultural machinery; foundry equipment, refrigerators and freezers, washing machines; hosiery, shoes, textiles<br>
@@ -527,11 +533,11 @@ $7.16 billion (2018 est.)<br>
 
 **Exchange rates**<br>
 _Currency_: Moldovan lei (MDL) per US dollar -<br>
-18.49 (2017 est.)<br>
-19.924 (2016 est.)<br>
-19.924 (2015 est.)<br>
-19.83 (2014 est.)<br>
-14.036 (2013 est.)<br>
+17.68 (2021 est.)<br>
+17.322 (2020 est.)<br>
+17.573 (2019 est.)<br>
+16.802 (2018 est.)<br>
+18.499 (2017 est.)<br>
 
 ## Energy
 
@@ -540,7 +546,7 @@ _electrification - total population_: 100% (2020)<br>
 
 **Electricity**<br>
 _installed generating capacity_: 594,000 kW (2020 est.)<br>
-_consumption_: 4,591,230,000 kWh (2019 est.)<br>
+_consumption_: 4.591 billion kWh (2019 est.)<br>
 _exports_: 0 kWh (2020 est.)<br>
 _imports_: 629 million kWh (2020 est.)<br>
 _transmission/distribution losses_: 571 million kWh (2019 est.)<br>
@@ -580,9 +586,9 @@ _crude oil estimated reserves_: 0 barrels (2021 est.)<br>
 
 **Natural gas**<br>
 _production_: 57,000 cubic meters (2019 est.)<br>
-_consumption_: 2,802,400,000 cubic meters (2019 est.)<br>
+_consumption_: 2.802 billion cubic meters (2019 est.)<br>
 _exports_: 0 cubic meters (2021 est.)<br>
-_imports_: 2,802,344,000 cubic meters (2019 est.)<br>
+_imports_: 2.802 billion cubic meters (2019 est.)<br>
 _proven reserves_: 0 cubic meters (2021 est.)<br>
 
 **Carbon dioxide emissions**<br>
@@ -605,7 +611,7 @@ _total subscriptions_: 3,420,383 (2020 est.)<br>
 _subscriptions per 100 inhabitants_: 85 (2020 est.)<br>
 
 **Telecommunication systems**<br>
-_general assessment_: the telecom market has been affected by a combination of high unemployment and economic difficulties which have led to constraints on consumer spending; this has resulted in telecom revenue having fallen steadily in recent years; this decline continued into 2020, with a 6.3% in revenue from the important mobile sector alone, year-on-year; Moldova&rsquo;s aspirations to join the EU have encouraged the government and regulator to adopt a range of measures to bring the country&rsquo;s telecoms sector into line with EU principles and standards; in July 2017 the Electronic Communications Act was amended to accommodate the 2009 European regulatory framework, while further amendments were adopted in December 2017 and additional changes were proposed in 2019; Moldova is also part of the Eastern Partnership group of countries, and as such has set in train a glide path to reducing roaming charges, effective between 2022 and 2026; the country&rsquo;s broadband strategy through to 2025 has been supported by the ITU and industry counterparts from Korea; the internet market is developing rapidly, and though the penetration rate is well below the average for most European countries there are many opportunities for further development; the market is highly competitive, with 101 active ISPs as of early 2021; the number of cable broadband subscribers is increasing steadily, though fiber is now by far the strongest sector; by the end of 2020 fiber accounted for about 72.3% of all fixed broadband connections; the mobile market has also grown rapidly, and the sector accounts for the majority of total telecoms revenue; the near comprehensive geographical reach of their mobile networks, market brand recognition and existing customer relationships will make for steady subscriber growth in coming years (2022)<br>
+_general assessment_: the telecom market has been affected by a combination of high unemployment and economic difficulties which have led to constraints on consumer spending; this has resulted in telecom revenue having fallen steadily in recent years; this decline continued into 2020, with a 6.3% in revenue from the important mobile sector alone, year-on-year; Moldova&rsquo;s aspirations to join the EU have encouraged the government and regulator to adopt a range of measures to bring the country&rsquo;s telecoms sector into line with EU principles and standards; in July 2017 the Electronic Communications Act was amended to accommodate the 2009 European regulatory framework, while further amendments were adopted in December 2017 and additional changes were proposed in 2019; Moldova is also part of the Eastern Partnership group of countries, and as such has set in train a glide path to reducing roaming charges, effective between 2022 and 2026; the country&rsquo;s broadband strategy through to 2025 has been supported by the ITU and industry counterparts from South Korea; the internet market is developing rapidly; the market is highly competitive, with 101 active ISPs as of early 2021; the number of cable broadband subscribers is increasing steadily, though fiber is now by far the strongest sector; by the end of 2020 fiber accounted for about 72.3% of all fixed broadband connections; the mobile market has also grown rapidly; the near comprehensive geographical reach of their mobile networks, market brand recognition and existing customer relationships will make for steady subscriber growth in coming years (2022)<br>
 _domestic_: competition among mobile telephone providers has spurred subscriptions; little interest in expanding fixed-line service which is roughly 25 per 100; mobile-cellular teledensity nearly 85 per 100 persons (2020)<br>
 _international_: country code - 373; service through Romania and Russia via landline; satellite earth stations - at least 3 - Intelsat, Eutelsat, and Intersputnik<br>
 <strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress toward 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>
@@ -701,7 +707,7 @@ Moldova is constitutionally neutral, but has maintained a relationship with NATO
 <p><em>Moldova-Romania</em>: none identified</p> <p><em>Moldova-Ukraine</em>: Ukraine and Moldova signed an agreement officially delimiting their border in 1999, but the border has not been demarcated due to Moldova's difficulties with the break-away region of Transnistria; Moldova and Ukraine operate joint customs posts to monitor the transit of people and commodities through Moldova's break-away Transnistria region, which remains under the auspices of an Organization for Security and Cooperation in Europe-mandated peacekeeping mission comprised of Moldovan, Transnistrian, Russian, and Ukrainian troops</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 99,524 (Ukraine) (as of 20 December 2022)<br>
+_refugees (country of origin)_: 102,103 (Ukraine) (as of 3 January 2023)<br>
 _stateless persons_: 3,372 (mid-year 2021)<br>
 
 **Illicit drugs**<br>

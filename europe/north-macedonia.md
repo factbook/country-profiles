@@ -161,6 +161,9 @@ _female_: 79.08 years (2022 est.)<br>
 **Total fertility rate**<br>
 1.51 children born/woman (2022 est.)<br>
 
+**Gross reproduction rate**<br>
+0.73 (2022 est.)<br>
+
 **Contraceptive prevalence rate**<br>
 59.9% (2018/19)<br>
 
@@ -201,6 +204,9 @@ _beer_: 1.93 liters of pure alcohol (2019 est.)<br>
 _wine_: 1.03 liters of pure alcohol (2019 est.)<br>
 _spirits_: 0.9 liters of pure alcohol (2019 est.)<br>
 _other alcohols_: 0.03 liters of pure alcohol (2019 est.)<br>
+
+**Currently married women (ages 15-49)**<br>
+66.5% (2022 est.)<br>
 
 **Children under the age of 5 years underweight**<br>
 0.9% (2018/19)<br>
@@ -640,8 +646,7 @@ _under 914 m_: 1 (2021)<br>
 262 km gas, 120 km oil (2017)<br>
 
 **Railways**<br>
-_total_: 925 km (2017)<br>
-_standard gauge_: 925 km (2017) 1.435-m gauge (313 km electrified)<br>
+_total_: 699 km (2020) 313 km electrified<br>
 
 **Roadways**<br>
 _total_: 14,182 km (2017) (includes 290 km of expressways)<br>
@@ -686,9 +691,9 @@ Islamic State of Iraq and ash-Sham (ISIS)<br>
 <p><em>North Macedonia-Albania</em>: none identified</p> <p><em>North Macedonia-Greece</em>: none identified</p> <p><em>North Macedonia-Kosovo</em>: North Macedonia and Kosovo completed demarcation of their boundary in October 2009</p> <p><em>North Macedonia-Serbia</em>: none identified</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 6,430 (Ukraine) (as of 20 December 2022)<br>
+_refugees (country of origin)_: 6,322 (Ukraine) (as of 26 December 2022)<br>
 _stateless persons_: 553 (mid-year 2021)<br>
-<strong>note:</strong> 549,217 estimated refugee and migrant arrivals (January 2015-October 2022)<br>
+<strong>note:</strong> 550,697 estimated refugee and migrant arrivals (January 2015-November 2022)<br>
 
 **Illicit drugs**<br>
 major transshipment point for Southwest Asian heroin and hashish; minor transit point for South American cocaine destined for Europe; although not a financial center and most criminal activity is thought to be domestic, money laundering is a problem due to a mostly cash-based economy and weak enforcement<br>

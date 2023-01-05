@@ -161,6 +161,9 @@ _female_: 81.15 years (2022 est.)<br>
 **Total fertility rate**<br>
 1.36 children born/woman (2022 est.)<br>
 
+**Gross reproduction rate**<br>
+0.66 (2022 est.)<br>
+
 **Contraceptive prevalence rate**<br>
 45.8% (2011/12)<br>
 
@@ -206,6 +209,9 @@ _other alcohols_: 0.17 liters of pure alcohol (2019 est.)<br>
 _total_: 35% (2020 est.)<br>
 _male_: 42% (2020 est.)<br>
 _female_: 28% (2020 est.)<br>
+
+**Currently married women (ages 15-49)**<br>
+63.9% (2022 est.)<br>
 
 **Children under the age of 5 years underweight**<br>
 1.6% (2012)<br>
@@ -711,7 +717,7 @@ Islamic Revolutionary Guard Corps/Qods Force<br>
 _refugees (country of origin)_: 5,112 (Croatia) (2020)<br>
 _IDPs_: 92,000 (Bosnian Croats, Serbs, and Bosniaks displaced by inter-ethnic violence, human rights violations, and armed conflict during the 1992-95 war) (2021)<br>
 _stateless persons_: 149 (mid-year 2021)<br>
-<strong>note: </strong>110,085 estimated refugee and migrant arrivals (January 2015-November 2022)<br>
+<strong>note: </strong>111,370 estimated refugee and migrant arrivals (January 2015-December 2022)<br>
 
 **Illicit drugs**<br>
 <p>drug trafficking groups are major players in the procurement and transportation of large quantities of cocaine  destined for  European markets</p><br>

@@ -153,6 +153,9 @@ _female_: 79.14 years (2022 est.)<br>
 **Total fertility rate**<br>
 1.98 children born/woman (2022 est.)<br>
 
+**Gross reproduction rate**<br>
+0.97 (2022 est.)<br>
+
 **Drinking water source**<br>
 _improved: total_: total: 98.9% of population<br>
 _unimproved: total_: total: 1.1% of population (2017 est.)<br>
@@ -187,6 +190,9 @@ _other alcohols_: 0.31 liters of pure alcohol (2019 est.)<br>
 _total_: 10.6% (2020 est.)<br>
 _male_: 18.8% (2020 est.)<br>
 _female_: 2.4% (2020 est.)<br>
+
+**Currently married women (ages 15-49)**<br>
+38.7% (2022 est.)<br>
 
 **Children under the age of 5 years underweight**<br>
 NA<br>
@@ -300,7 +306,7 @@ _cabinet_: Cabinet appointed by governor general on recommendation of prime mini
 _elections/appointments_: the monarchy is hereditary; governor general appointed by the monarch on the advice of the prime minister; following legislative elections, the leader of the majority party or majority coalition usually appointed prime minister by the governor general; the prime minister recommends the deputy prime minister<br>
 
 **Legislative branch**<br>
-_description_: bicameral Parliament consists of:<br>Senate (16 seats; members appointed by the governor general - 9 selected on the advice of the prime minister, 4 on the advice of  the leader of the opposition party, and 3 on the advice of the prime minister in consultation with the opposition leader; members serve 5-year terms)<br>House of Assembly (39 seats; members directly elected in single-seat constituencies by simple majority vote to serve 5-year terms)<br>
+_description_: bicameral Parliament consists of:<br>Senate (16 seats; members appointed by the governor general - 9 selected on the advice of the prime minister, 4 on the advice of the leader of the opposition party, and 3 on the advice of the prime minister in consultation with the opposition leader; members serve 5-year terms)<br>House of Assembly (39 seats; members directly elected in single-seat constituencies by simple majority vote to serve 5-year terms)<br>
 _elections_: <br>Senate - last appointments on 24 May 2017 (next appointments in 2022)<br>House of Assembly - last held on 16 September 2021 (next to be held by September 2026)<br>
 _election results_: <br>Senate - appointed; composition as of March 2022 - men 12, women 4, percent of women 25%<br>House of Assembly - percent of vote by party - PLP 52.5%, FNM 36.2%; seats by party - PLP 32, FNM 7; composition as of March 2022 - men 32, women 7, percent of women 18%; note - total Parliament percent of women 20%<br>
 <strong>note:</strong> the government may dissolve the parliament and call elections at any time<br>

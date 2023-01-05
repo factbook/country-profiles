@@ -158,6 +158,9 @@ _female_: 82.73 years (2022 est.)<br>
 **Total fertility rate**<br>
 1.61 children born/woman (2022 est.)<br>
 
+**Gross reproduction rate**<br>
+0.79 (2022 est.)<br>
+
 **Contraceptive prevalence rate**<br>
 NA<br>
 
@@ -207,6 +210,9 @@ _other alcohols_: 1.13 liters of pure alcohol (2019 est.)<br>
 _total_: 29.7% (2020 est.)<br>
 _male_: 36.3% (2020 est.)<br>
 _female_: 23% (2020 est.)<br>
+
+**Currently married women (ages 15-49)**<br>
+52.6% (2022 est.)<br>
 
 **Children under the age of 5 years underweight**<br>
 0.4% (2013/15)<br>
@@ -654,9 +660,7 @@ _under 914 m_: 3 (2021)<br>
 2,360 km gas (2016)<br>
 
 **Railways**<br>
-_total_: 2,146 km (2016)<br>
-_broad gauge_: 2,146 km (2016) 1.520-m and 1.524-m gauge (132 km electrified)<br>
-<strong>note:</strong> includes 1,510 km public and 636 km non-public railway<br>
+_total_: 1,441 km (2020) 225 km electrified<br>
 
 **Roadways**<br>
 _total_: 58,412 km (2011) (includes urban roads)<br>
@@ -707,7 +711,7 @@ Estonia became a member of NATO in 2004<br><br>since 2017, Estonia has hosted a 
 <p>Russia and Estonia in May 2005 signed a technical border agreement, but Russia in June 2005 recalled its signature after the Estonian parliament added to its domestic ratification act a historical preamble referencing the Soviet occupation and Estonia's pre-war borders under the 1920 Treaty of Tartu; Russia contends that the preamble allows Estonia to make territorial claims on Russia in the future, while Estonian officials deny that the preamble has any legal impact on the treaty text; Russia demands better treatment of the Russian-speaking population in Estonia; as a member state that forms part of the EU's external border, Estonia implements strict Schengen border rules with Russia</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 64,593 (Ukraine) (as of 20 December 2022)<br>
+_refugees (country of origin)_: 65,060 (Ukraine) (as of 26 December 2022)<br>
 _stateless persons_: 71,873 (mid-year 2021); note - following independence in 1991, automatic citizenship was restricted to those who were Estonian citizens prior to the 1940 Soviet occupation and their descendants; thousands of ethnic Russians remained stateless when forced to choose between passing Estonian language and citizenship tests or applying for Russian citizenship; one reason for demurring on Estonian citizenship was to retain the right of visa-free travel to Russia; stateless residents can vote in local elections but not general elections; stateless parents who have been lawful residents of Estonia for at least five years can apply for citizenship for their children before they turn 15 years old<br>
 
 **Illicit drugs**<br>

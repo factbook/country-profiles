@@ -169,6 +169,9 @@ _female_: 78.7 years (2022 est.)<br>
 **Total fertility rate**<br>
 1.93 children born/woman (2022 est.)<br>
 
+**Gross reproduction rate**<br>
+0.94 (2022 est.)<br>
+
 **Contraceptive prevalence rate**<br>
 69.8% (2018)<br>
 
@@ -217,6 +220,9 @@ _other alcohols_: 0 liters of pure alcohol (2019 est.)<br>
 _total_: 30.7% (2020 est.)<br>
 _male_: 42.1% (2020 est.)<br>
 _female_: 19.2% (2020 est.)<br>
+
+**Currently married women (ages 15-49)**<br>
+65.5% (2022 est.)<br>
 
 **Children under the age of 5 years underweight**<br>
 1.5% (2018/19)<br>
@@ -742,7 +748,7 @@ Islamic State of Iraq and ash-Sham (ISIS); Islamic Movement of Uzbekistan (IMU);
 <p><em>Turkey-Armenia</em>: in 2009, Swiss mediators facilitated an accord reestablishing diplomatic ties between Armenia and Turkey, but neither side has ratified the agreement and the rapprochement effort has faltered;  in early 2022, the two countries held talks twice aimed at normalizing relations, which could lead to the opening of their land border, shut since 1993; in 2000, Turkish authorities complained to UNESCO that blasting from quarries in Armenia was damaging the medieval ruins of Ani, on the other side of the Arpacay valley</p> <p><em>Turkey-Azerbaijan</em>: none identified</p> <p><em>Turkey-Bulgaria</em>: none identified</p> <p><em>Turkey-Cyprus</em>: status of northern Cyprus question remains</p> <p><em>Turkey-Georgia</em>: none identified</p> <p><em>Turkey-Greece</em>: complex maritime, air, and territorial disputes with Greece in the Aegean Sea, including rights to explore oil and gas reserves in the eastern Mediterranean and illegal migrants transiting from Turkey into Greece; the Aegean Maritime Boundary is complicated by the close proximity of Greek islands to the western shores of the Turkish Anatolian peninsula, representing the primary source of conflict between the two countries</p> <p><em>Turkey-Iran</em>: none identified</p> <p><em>Turkey-Iraq</em>: Turkey has expressed concern over the status of Kurds in Iraq</p> <p><em>Turkey-Syria</em>: Turkey completed building a wall along its border with Syria in 2018 to prevent illegal border crossings and smuggling</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 3,561,883 (Syria) (2022); 46,739 (Ukraine) (as of 20 December 2022)<br>
+_refugees (country of origin)_: 3,543,837 (Syria) (2022); 46,739 (Ukraine) (as of 3 January 2023)<br>
 _IDPs_: 1.099 million (displaced from 1984-2005 because of fighting between the Kurdish PKK and Turkish military; most IDPs are Kurds from eastern and southeastern provinces; no information available on persons displaced by development projects) (2021)<br>
 _stateless persons_: 117 (2018)<br>
 

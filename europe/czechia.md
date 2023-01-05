@@ -164,6 +164,9 @@ _female_: 82.82 years (2022 est.)<br>
 **Total fertility rate**<br>
 1.49 children born/woman (2022 est.)<br>
 
+**Gross reproduction rate**<br>
+0.73 (2022 est.)<br>
+
 **Contraceptive prevalence rate**<br>
 NA<br>
 
@@ -209,6 +212,9 @@ _other alcohols_: 0 liters of pure alcohol (2019 est.)<br>
 _total_: 30.7% (2020 est.)<br>
 _male_: 35% (2020 est.)<br>
 _female_: 26.4% (2020 est.)<br>
+
+**Currently married women (ages 15-49)**<br>
+49.1% (2022 est.)<br>
 
 **Children under the age of 5 years underweight**<br>
 NA<br>
@@ -660,9 +666,7 @@ _under 914 m_: 61 (2021)<br>
 7,160 km gas, 675 km oil, 94 km refined products (2016)<br>
 
 **Railways**<br>
-_total_: 9,408 km (2017)<br>
-_standard gauge_: 9,385 km (2017) 1.435-m gauge (3,218 km electrified)<br>
-_narrow gauge_: 23 km (2017) 0.760-m gauge<br>
+_total_: 9,548 km (2020) 3,242 km electrified<br>
 
 **Roadways**<br>
 _total_: 55,744 km (2019) (includes urban and category I, II, III roads)<br>
@@ -711,7 +715,7 @@ Czechia joined NATO in 1999; Czechia, Hungary, and Poland were invited to begin 
 <p>none</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 472,473 (Ukraine) (as of 20 December 2022)<br>
+_refugees (country of origin)_: 476,025 (Ukraine) (as of 1 January 2023)<br>
 _stateless persons_: 1,498 (mid-year 2021)<br>
 
 **Illicit drugs**<br>

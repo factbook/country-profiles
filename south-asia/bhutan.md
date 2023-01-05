@@ -147,6 +147,9 @@ _female_: 73.49 years (2022 est.)<br>
 **Total fertility rate**<br>
 1.79 children born/woman (2022 est.)<br>
 
+**Gross reproduction rate**<br>
+0.87 (2022 est.)<br>
+
 **Contraceptive prevalence rate**<br>
 NA<br>
 
@@ -187,6 +190,9 @@ _beer_: 0.01 liters of pure alcohol (2019 est.)<br>
 _wine_: 0.05 liters of pure alcohol (2019 est.)<br>
 _spirits_: 0 liters of pure alcohol (2019 est.)<br>
 _other alcohols_: 0 liters of pure alcohol (2019 est.)<br>
+
+**Currently married women (ages 15-49)**<br>
+61.8% (2022 est.)<br>
 
 **Children under the age of 5 years underweight**<br>
 NA<br>
@@ -632,6 +638,6 @@ India is responsible for military training, arms supplies, and the air defense o
 <p><em>Bhutan-China:</em> Lacking any treaty describing the boundary, Bhutan and China continue negotiations to establish a common boundary alignment to resolve territorial disputes arising from substantial cartographic discrepancies, the most contentious of which lie in Bhutan's west along China’s Chumbi salient.<br><br><em>Bhutan-India:</em> none identified</p><br>
 
 **Trafficking in persons**<br>
-_tier rating_: <p>Tier 2 Watch List — Bhutan does not fully meet the minimum standards for the elimination of trafficking but is making significant efforts to do so; among its accomplishments, Bhutan convicted one trafficker, appealed the dismissal of trafficking charges in a second case, finalized and disseminated standard operating procedures for victim identification and referral, and initiated an investigation into reports of labor exploitation; the government also continued to work with an international organization on anti-trafficking training and public awareness events; however, Bhutanese courts continued to dismiss and refile on lesser charges human trafficking cases due to inconsistencies between Bhutanese law and the international definition of trafficking; additionally, authorities did not identify any trafficking victims during the reporting period and did not provide protective services to Bhutanese victims of forced labor abroad (2020)</p><br>
+_tier rating_: <p>Tier 2 Watch List — Bhutan does not fully meet the minimum standards for the elimination of trafficking but is making significant efforts to do so; among its accomplishments, Bhutan convicted one trafficker, appealed the dismissal of trafficking charges in a second case, finalized and disseminated standard operating procedures for victim identification and referral, and initiated an investigation into reports of labor exploitation; the government also continued to work with an international organization on anti-trafficking training and public awareness events; however, Bhutanese courts continued to dismiss and refile on lesser charges human trafficking cases due to inconsistencies between Bhutanese law and the international definition of trafficking; additionally, authorities did not identify any trafficking victims during the reporting period and did not provide protective services to Bhutanese victims of forced labor abroad</p><br>
 _trafficking profile_: human traffickers exploit domestic and foreign victims in Bhutan and Bhutanese abroad; some traffickers posing as recruiters use the lure of well-paying jobs overseas to exploit Bhutanese citizens for forced labor; some Bhutanese working in hospitality, retail, and service industries in the Gulf states and India, Thailand, and the UK reported trafficking indicators, including illegal recruitment fees, wage deductions, restricted movement, passport retention, and non-payment of wages; Bhutanese women and girls working as domestics, caregivers, and entertainers are subject to sex and labor trafficking domestically; Bhutanese and Indian women may be forced to work in hotels, massage parlors, and nightclubs, while male Indian workers face unauthorized deductions and non-payment of wages in the construction and hydropower sectors<br>
 

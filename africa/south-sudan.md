@@ -160,6 +160,9 @@ _female_: 60.97 years (2022 est.)<br>
 **Total fertility rate**<br>
 5.32 children born/woman (2022 est.)<br>
 
+**Gross reproduction rate**<br>
+2.59 (2022 est.)<br>
+
 **Contraceptive prevalence rate**<br>
 NA<br>
 
@@ -196,6 +199,9 @@ _respiratory diseases_: meningococcal meningitis<br>
 
 **Obesity - adult prevalence rate**<br>
 6.6% (2014)<br>
+
+**Currently married women (ages 15-49)**<br>
+72.4% (2022 est.)<br>
 
 **Children under the age of 5 years underweight**<br>
 NA<br>
@@ -622,7 +628,7 @@ the South Sudan People’s Defense Force (SSPDF), formerly the Sudan People’s 
 <p><em>South Sudan- Central African Republic: </em>periodic violent skirmishes persist among related pastoral populations along the border with the Central African Republic over water and grazing rights<br><br><em>South Sudan-Democratic Republic of the Congo</em>: none identified<br><br><em>South Sudan-Ethiopia</em>: the unresolved demarcation of the boundary and lack of clear limitation create substantial room for territorial conflict both locally among the border populations and between the two capitals; besides a large number of indigenous farmers, the border region supports refugees and various rebel groups opposed to the governments in Khartoum and Addis Ababa</p> <p><br><em>South Sudan-Kenya:</em> the boundary that separates Kenya and South Sudan's sovereignty is unclear in the Ilemi Triangle and has been unclear since British colonial times; Kenya has administered the area since colonial times</p> <p><em>South Sudan-Sudan:</em> present boundary represents 1 January 1956 alignment, which clearly placed the Kafia Kingi area (adjacent to Central African Republic) within South Sudan as shown on US maps although it is mostly occupied by Sudan; final alignment pending negotiations and demarcation; the final sovereignty status of Abyei Area pending negotiations between South Sudan and Sudan; clashes continue in the oil-rich Abyei region; the United Nations interim security Force for Abyei (UNISFA) has been deployed since 2011, when South Sudan became independent, Sudan accuses South Sudan of supporting Sudanese rebel groups</p> <p><em>South Sudan-Uganda</em>: Lord’s Resistance Army operations in western Equatorial State displace and drive out local populations and steal grain stores</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 309,849 (Sudan), 19,452 (Democratic Republic of the Congo) (2022)<br>
+_refugees (country of origin)_: 309,849 (Sudan), 15,105 (Democratic Republic of the Congo) (2022)<br>
 _IDPs_: 2.23 million (alleged coup attempt and ethnic conflict beginning in December 2013; information is lacking on those displaced in earlier years by: fighting in Abyei between the Sudanese Armed Forces and the Sudan People's Liberation Army (SPLA) in May 2011; clashes between the SPLA and dissident militia groups in South Sudan; inter-ethnic conflicts over resources and cattle; attacks from the Lord's Resistance Army; floods and drought) (2022)<br>
 _stateless persons_: 10,000 (mid-year 2021)<br>
 

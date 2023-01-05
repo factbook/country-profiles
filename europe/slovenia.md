@@ -160,6 +160,9 @@ _female_: 84.79 years (2022 est.)<br>
 **Total fertility rate**<br>
 1.6 children born/woman (2022 est.)<br>
 
+**Gross reproduction rate**<br>
+0.78 (2022 est.)<br>
+
 **Contraceptive prevalence rate**<br>
 NA<br>
 
@@ -204,6 +207,9 @@ _other alcohols_: 0 liters of pure alcohol (2019 est.)<br>
 _total_: 22% (2020 est.)<br>
 _male_: 24.4% (2020 est.)<br>
 _female_: 19.6% (2020 est.)<br>
+
+**Currently married women (ages 15-49)**<br>
+46.8% (2022 est.)<br>
 
 **Children under the age of 5 years underweight**<br>
 NA<br>
@@ -328,7 +334,7 @@ _residency requirement for naturalization_: 10 years, the last 5 of which have b
 
 **Executive branch**<br>
 _chief of state_: President Borut PAHOR (since 22 December 2012)<br>
-_head of government_: Prime Minister Robert GOLOB (since 25 May 2022)<br>
+_head of government_: Prime Minister Natasa PIRC MUSAR (since 23 December 2022); note - PIRC MUSAR is Slovenia's first female prime minister<br>
 _cabinet_: Council of Ministers nominated by the prime minister, elected by the National Assembly<br>
 _elections/appointments_: president directly elected by absolute majority popular vote in 2 rounds if needed for a 5-year term (eligible for a second consecutive term); election last held on 23 October with a runoff on 13 November 2022 (next election to be held in 2027); following National Assembly elections, the leader of the majority party or majority coalition usually nominated prime minister by the president and elected by the National Assembly<br>
 _election results_: <em>2022:</em> Natasa PIRC MUSAR elected in second round: percent of vote in first round - Natasa PIRC MUSAR (independent) 26.9%, Anze LOGAR (SDS) 34%, Milan BRGLEZ (SD) 15.5%, Vladimir PREBILIC (independent) 10.6%, Sabina SENCAR (Resni.ca) 5.9%, Janez CIGLER KRALJ (NSi) 4.4%, Miha KORDIS (The Left) 2.8%; percent of vote in second round - Natasa PIRC MUSAR 53.9%, Anze LOGAR 46.1%<br><em><br>2017:</em> Borut PAHOR is reelected president in second round; percent of vote in first round - Borut PAHOR (independent) 47.1%, Marjan SAREC (Marjan Sarec List) 25%, Romana TOMC (SDS) 13.7%, Ljudmila NOVAK (NSi) 7.2%, other 7%; percent of vote in second round - Borut PAHOR 52.9%, Marjan SAREC 47.1%; Robert GOLOB (GS) elected prime minister on 25 May 2022, National Assembly vote - 54-30<br><br><em>2012:</em> Borut PAHOR elected president; percent of vote in second round - Borut PAHOR (SD) 67.4%, Danilo TURK (independent) 32.6%; note - a snap election was held on 13 July 2014 following the resignation of Prime Minister Alenka BRATUSEK on 5 May 2014; Miro CERAR (SMC) elected prime minister; National Assembly vote - 57 to 11<br>
@@ -647,8 +653,7 @@ _under 914 m_: 3 (2021)<br>
 1,155 km gas, 5 km oil (2018)<br>
 
 **Railways**<br>
-_total_: 1,229 km (2014)<br>
-_standard gauge_: 1,229 km (2014) 1.435-m gauge (503 km electrified)<br>
+_total_: 1,207 km (2020) 609 km electrified<br>
 
 **Roadways**<br>
 _total_: 38,985 km (2012)<br>
@@ -699,9 +704,9 @@ Slovenia became a member of NATO in 2004; Hungary and Italy provide NATO's air p
 <p><em>Slovenia-Austria</em>: none identified</p> <p><em>Slovenia-Croatia</em>: since the breakup of Yugoslavia in the early 1990s, Croatia and Slovenia have each claimed sovereignty over Piran Bay and four villages, and Slovenia has objected to Croatia's claim of an exclusive economic zone in the Adriatic Sea; in 2009, however Croatia and Slovenia signed a binding international arbitration agreement to define their disputed land and maritime borders, which led Slovenia to lift its objections to Croatia joining the EU; in June 2017, the Permanent Court of Arbitration issued a ruling on the border, but Croatia had withdrawn from the proceedings in 2015 and refused to implement it; as a member state that forms part of the EU's external border, Slovenia has implemented the strict Schengen border rules to curb illegal migration and commerce through southeastern Europe while encouraging close cross-border ties with Croatia</p> <p><em>Slovenia-Hungary</em>: none identified</p> <p><em>Slovenia-Italy</em>: none identified</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 8,821 (Ukraine) (as of 20 December 2022)<br>
+_refugees (country of origin)_: 8,824 (Ukraine) (as of 3 January 2023)<br>
 _stateless persons_: 10 (2020)<br>
-<strong>note:  </strong>557,468 estimated refugee and migrant arrivals (January 2015-October 2022)<br>
+<strong>note:  </strong>562,854 estimated refugee and migrant arrivals (January 2015-November 2022)<br>
 
 **Illicit drugs**<br>
 minor transit point for cocaine and Southwest Asian heroin bound for Western Europe, and for precursor chemicals<br>

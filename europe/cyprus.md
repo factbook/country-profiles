@@ -163,6 +163,9 @@ _female_: 82.68 years (2022 est.)<br>
 **Total fertility rate**<br>
 1.48 children born/woman (2022 est.)<br>
 
+**Gross reproduction rate**<br>
+0.72 (2022 est.)<br>
+
 **Contraceptive prevalence rate**<br>
 NA<br>
 
@@ -208,6 +211,9 @@ _other alcohols_: 0 liters of pure alcohol (2019 est.)<br>
 _total_: 35.1% (2020 est.)<br>
 _male_: 47% (2020 est.)<br>
 _female_: 23.2% (2020 est.)<br>
+
+**Currently married women (ages 15-49)**<br>
+54.5% (2022 est.)<br>
 
 **Children under the age of 5 years underweight**<br>
 NA<br>
@@ -710,7 +716,7 @@ Islamic State of Iraq and ash-Sham (ISIS)<br>
 <p>hostilities in 1974 divided the island into two de facto autonomous entities, the internationally recognized Cypriot Government and a Turkish-Cypriot community (north Cyprus); the 1,000-strong UN Peacekeeping Force in Cyprus (UNFICYP) has served in Cyprus since 1964 and maintains the buffer zone between north and south; on 1 May 2004, Cyprus entered the EU still divided, with the EU's body of legislation and standards (acquis communitaire) suspended in the north; Turkey protests Cypriot Government creating hydrocarbon blocks and maritime boundary with Lebanon in March 2007</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 9,820 (Syria) (mid-year 2021); 14,551 (Ukraine) (as of 13 December 2022)<br>
+_refugees (country of origin)_: 9,820 (Syria) (mid-year 2021); 14,510 (Ukraine) (as of 18 December 2022)<br>
 _IDPs_: 242,000 (both Turkish and Greek Cypriots; many displaced since 1974) (2021)<br>
 _stateless persons_: 66 (mid-year 2021)<br>
 <strong>note:</strong> 47,836 estimated refugee and migrant arrivals (January 2015-November 2022)<br>

@@ -172,6 +172,9 @@ _female_: 63.61 years (2022 est.)<br>
 **Total fertility rate**<br>
 4.36 children born/woman (2022 est.)<br>
 
+**Gross reproduction rate**<br>
+2.15 (2022 est.)<br>
+
 **Contraceptive prevalence rate**<br>
 30.1% (2014/15)<br>
 
@@ -222,6 +225,9 @@ _other alcohols_: 0.01 liters of pure alcohol (2019 est.)<br>
 _total_: 14.5% (2020 est.)<br>
 _male_: 26.8% (2020 est.)<br>
 _female_: 2.1% (2020 est.)<br>
+
+**Currently married women (ages 15-49)**<br>
+52.3% (2022 est.)<br>
 
 **Children under the age of 5 years underweight**<br>
 12.3% (2014/15)<br>
@@ -726,6 +732,6 @@ the FAC is armed with mostly aging Russian and Soviet-era weapons, with a smalle
 <p><em>Republic of the Congo-Democratic Republic of Congo(DRC): </em>the location of the boundary in the broad Congo River is indefinite except in the Pool Malebo/Stanley Pool area<br><br><em>Republic of the Congo-Angola:</em> (Kabinda Exclave) None identified</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 29,229 (Central African Republic), 22,150 (Democratic Republic of the Congo) (refugees and asylum seekers) (2022)<br>
+_refugees (country of origin)_: 29,644 (Central African Republic), 22,174 (Democratic Republic of the Congo) (refugees and asylum seekers) (2022)<br>
 _IDPs_: 159,830 (multiple civil wars since 1992) (2022)<br>
 

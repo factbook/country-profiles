@@ -160,6 +160,9 @@ _female_: 80.56 years (2022 est.)<br>
 **Total fertility rate**<br>
 1.54 children born/woman (2022 est.)<br>
 
+**Gross reproduction rate**<br>
+0.75 (2022 est.)<br>
+
 **Contraceptive prevalence rate**<br>
 NA<br>
 
@@ -209,6 +212,9 @@ _other alcohols_: 1 liters of pure alcohol (2019 est.)<br>
 _total_: 37% (2020 est.)<br>
 _male_: 50.3% (2020 est.)<br>
 _female_: 23.7% (2020 est.)<br>
+
+**Currently married women (ages 15-49)**<br>
+49.5% (2022 est.)<br>
 
 **Children under the age of 5 years underweight**<br>
 NA<br>
@@ -595,16 +601,16 @@ _Total energy consumption per capita 2019_: 86.645 million Btu/person (2019 est.
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 211,849 (2020 est.)<br>
-_subscriptions per 100 inhabitants_: 11 (2020 est.)<br>
+_total subscriptions_: 191,798 (2021 est.)<br>
+_subscriptions per 100 inhabitants_: 10 (2021 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 2,051,359 (2020 est.)<br>
-_subscriptions per 100 inhabitants_: 109 (2020 est.)<br>
+_total subscriptions_: 2,161,725 (2021 est.)<br>
+_subscriptions per 100 inhabitants_: 115 (2021 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: the telecom market continues to benefit from investment and from regulatory measures aimed at developing 5G and fiber based infrastructure; there is effective competition in the mobile market, with extensive services based on LTE-A technologies to boost data speeds; a large scale 5G deployment is not expected until 2023; in the fixed-line broadband sector, the country is ranked second highest in Europe (after Iceland) for fiber coverage and take-up, closely followed by Lithuania; with this infrastructure in place, the country has also developed a sophisticated digital economy, with e-commerce and e-government services widely available (2021)<br>
-_domestic_: fixed-line roughly 11 per 100 and mobile-cellular nearly 109 per 100 subscriptions (2020)<br>
+_domestic_: fixed-line roughly 10 per 100 and mobile-cellular nearly 115 per 100 subscriptions (2021)<br>
 _international_: country code - 371; the Latvian network is now connected via fiber-optic cable to Estonia, Finland, and Sweden<br>
 <strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress toward 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>
 
@@ -655,9 +661,7 @@ _under 914 m_: 24 (2021)<br>
 1,213 km gas, 417 km refined products (2018)<br>
 
 **Railways**<br>
-_total_: 1,860 km (2018)<br>
-_narrow gauge_: 34 km (2018) 0.750-m gauge<br>
-_broad gauge_: 1,826 km (2018) 1.520-m gauge<br>
+_total_: 2,216 km (2020) 257 km electrified<br>
 
 **Roadways**<br>
 _total_: 70,244 km (2018)<br>
@@ -711,7 +715,7 @@ Latvia became a member of NATO in 2004 <br><br>since 2017, Latvia has hosted a C
 <p><em>Latvia-Belarus</em>: Belarus and Latvia signed joint demarcation map in September 2008</p> <p><em>Latvia-Estonia</em>: demarcation reportedly completed in 1998</p> <p><em>Latvia-Lithuania</em>: boundary demarcation was completed by the end of 1998; the Latvian parliament has not ratified its 1998 maritime boundary treaty with Lithuania, primarily due to concerns over oil exploration rights</p> <p><em>Latvia-Russia</em>: Russia demands better Latvian treatment of ethnic Russians in Latvia; in March 2007, Latvia and Russia signed a border treaty, which includes Latvia withdrawing claims to a district now in Russia that was part of Latvia before WWII; the permanent demarcation of the boundary between Latvia and Russia was completed and came into force in April 2018; as a member state that forms part of the EU's external border, Latvia has implemented the strict Schengen border rules with Russia</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 34,792 (Ukraine) (as of 20 December 2022)<br>
+_refugees (country of origin)_: 34,854 (Ukraine) (as of 27 December 2022)<br>
 _stateless persons_: 209,168 (mid-year 2021); note - individuals who were Latvian citizens prior to the 1940 Soviet occupation and their descendants were recognized as Latvian citizens when the country's independence was restored in 1991; citizens of the former Soviet Union residing in Latvia who have neither Latvian nor other citizenship are considered non-citizens (officially there is no statelessness in Latvia) and are entitled to non-citizen passports; children born after Latvian independence to stateless parents are entitled to Latvian citizenship upon their parents' request; non-citizens cannot vote or hold certain government jobs and are exempt from military service but can travel visa-free in the EU under the Schengen accord like Latvian citizens; non-citizens can obtain naturalization if they have been permanent residents of Latvia for at least five years, pass tests in Latvian language and history, and know the words of the Latvian national anthem<br>
 
 **Illicit drugs**<br>

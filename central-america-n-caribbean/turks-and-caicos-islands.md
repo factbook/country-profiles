@@ -149,6 +149,9 @@ _female_: 83.71 years (2022 est.)<br>
 **Total fertility rate**<br>
 1.7 children born/woman (2022 est.)<br>
 
+**Gross reproduction rate**<br>
+0.83 (2022 est.)<br>
+
 **Contraceptive prevalence rate**<br>
 34.4% (2019/20)<br>
 
@@ -172,6 +175,9 @@ _unimproved: total_: total: 12% of population (2017)<br>
 
 **HIV/AIDS - adult prevalence rate**<br>
 NA<br>
+
+**Currently married women (ages 15-49)**<br>
+59.2% (2022 est.)<br>
 
 **Children under the age of 5 years underweight**<br>
 NA<br>
