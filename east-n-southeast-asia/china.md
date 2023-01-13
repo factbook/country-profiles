@@ -175,7 +175,7 @@ _female_: 80.7 years (2022 est.)<br>
 1.45 children born/woman (2022 est.)<br>
 
 **Gross reproduction rate**<br>
-0.69 (2022 est.)<br>
+0.69 (2023 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 84.5% (2017)<br>
@@ -230,11 +230,11 @@ _total_: 25.6% (2020 est.)<br>
 _male_: 49.4% (2020 est.)<br>
 _female_: 1.7% (2020 est.)<br>
 
-**Currently married women (ages 15-49)**<br>
-76.3% (2022 est.)<br>
-
 **Children under the age of 5 years underweight**<br>
 2.4% (2013)<br>
+
+**Currently married women (ages 15-49)**<br>
+75.9% (2023 est.)<br>
 
 **Education expenditures**<br>
 3.6% of GDP (2020 est.)<br>
@@ -249,6 +249,11 @@ _female_: 95.2% (2018)<br>
 _total_: 14 years<br>
 _male_: 14 years<br>
 _female_: 14 years (2015)<br>
+
+**Youth unemployment rate (ages 15-24)**<br>
+_total_: 11.4%<br>
+_male_: 12.1%<br>
+_female_: 10.4% (2021 est.)<br>
 
 **People - note**<br>
 in October 2015, the Chinese Government announced that it would change its rules to allow all couples to have two children, loosening a 1979 mandate that restricted many couples to one child; the new policy was implemented on 1 January 2016 to address China&rsquo;s rapidly aging population and future economic needs<br>
@@ -435,20 +440,20 @@ in 2018, the Beijing established an investigatory National Supervisory Commissio
 <p>Since the late 1970s, China has moved from a closed, centrally planned system to a more market-oriented one that plays a major global role. China has implemented reforms in a gradualist fashion, resulting in efficiency gains that have contributed to a more than tenfold increase in GDP since 1978. Reforms began with the phaseout of collectivized agriculture, and expanded to include the gradual liberalization of prices, fiscal decentralization, increased autonomy for state enterprises, growth of the private sector, development of stock markets and a modern banking system, and opening to foreign trade and investment. China continues to pursue an industrial policy, state support of key sectors, and a restrictive investment regime. From 2013 to 2017, China had one of the fastest growing economies in the world, averaging slightly more than 7% real growth per year. Measured on a purchasing power parity (PPP) basis that adjusts for price differences, China in 2017 stood as the largest economy in the world, surpassing the US in 2014 for the first time in modern history. China became the world's largest exporter in 2010, and the largest trading nation in 2013. Still, China's per capita income is below the world average.</p> <p> </p> <p>In July 2005 moved to an exchange rate system that references a basket of currencies. From mid-2005 to late 2008, the renminbi (RMB) appreciated more than 20% against the US dollar, but the exchange rate remained virtually pegged to the dollar from the onset of the global financial crisis until June 2010, when Beijing announced it would resume a gradual appreciation. From 2013 until early 2015, the renminbi held steady against the dollar, but it depreciated 13% from mid-2015 until end-2016 amid strong capital outflows; in 2017 the RMB resumed appreciating against the dollar – roughly 7% from end-of-2016 to end-of-2017. In 2015, the People’s Bank of China announced it would continue to carefully push for full convertibility of the renminbi, after the currency was accepted as part of the IMF’s special drawing rights basket. However, since late 2015 Beijing has strengthened capital controls and oversight of overseas investments to better manage the exchange rate and maintain financial stability.</p> <p> </p> <p>Beijing faces numerous economic challenges including: (a) reducing its high domestic savings rate and correspondingly low domestic household consumption; (b) managing its high corporate debt burden to maintain financial stability; (c) controlling off-balance sheet local government debt used to finance infrastructure stimulus; (d) facilitating higher-wage job opportunities for the aspiring middle class, including rural migrants and college graduates, while maintaining competitiveness; (e) dampening speculative investment in the real estate sector without sharply slowing the economy; (f) reducing industrial overcapacity; and (g) raising productivity growth rates through the more efficient allocation of capital and state-support for innovation. Economic development has progressed further in coastal provinces than in the interior, and by 2016 more than 169.3 million migrant workers and their dependents had relocated to urban areas to find work. One consequence of China’s population control policy known as the "one-child policy" - which was relaxed in 2016 to permit all families to have two children - is that China is now one of the most rapidly aging countries in the world. Deterioration in the environment - notably air pollution, soil erosion, and the steady fall of the water table, especially in the North - is another long-term problem. China continues to lose arable land because of erosion and urbanization. Beijing is seeking to add energy production capacity from sources other than coal and oil, focusing on natural gas, nuclear, and clean energy development. In 2016, China ratified the Paris Agreement, a multilateral agreement to combat climate change, and committed to peak its carbon dioxide emissions between 2025 and 2030.</p> <p> </p> <p>The government's 13th Five-Year Plan, unveiled in March 2016, emphasizes the need to increase innovation and boost domestic consumption to make the economy less dependent on government investment, exports, and heavy industry. However, China has made more progress on subsidizing innovation than rebalancing the economy. Beijing has committed to giving the market a more decisive role in allocating resources, but its policies continue to favor state-owned enterprises and emphasize stability. Beijing in 2010 pledged to double China’s GDP by 2020, and the 13th Five Year Plan includes annual economic growth targets of at least 6.5% through 2020 to achieve that goal. In recent years, China has renewed its support for state-owned enterprises in sectors considered important to "economic security," explicitly looking to foster globally competitive industries. Beijing also has undermined some market-oriented reforms by reaffirming the "dominant" role of the state in the economy, a stance that threatens to discourage private initiative and make the economy less efficient over time. The slight acceleration in economic growth in 2017—the first such uptick since 2010—gives Beijing more latitude to pursue its economic reforms, focusing on financial sector deleveraging and its Supply-Side Structural Reform agenda, first announced in late 2015.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
-$23,009,780,000,000 (2020 est.)<br>
-$22,492,450,000,000 (2019 est.)<br>
-$21,229,360,000,000 (2018 est.)<br>
+$24.861 trillion (2021 est.)<br>
+$22.996 trillion (2020 est.)<br>
+$22.493 trillion (2019 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
-6.14% (2019 est.)<br>
-6.75% (2018 est.)<br>
-6.92% (2017 est.)<br>
+8.11% (2021 est.)<br>
+2.24% (2020 est.)<br>
+5.95% (2019 est.)<br>
 
 **Real GDP per capita**<br>
-$16,400 (2020 est.)<br>
-$16,100 (2019 est.)<br>
-$15,200 (2018 est.)<br>
+$17,600 (2021 est.)<br>
+$16,300 (2020 est.)<br>
+$16,000 (2019 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
@@ -456,9 +461,9 @@ $14,327,359,000,000 (2019 est.)<br>
 <strong>note:</strong> because China's exchange rate is determined by fiat rather than by market forces, the official exchange rate measure of GDP is not an accurate measure of China's output; GDP at the official exchange rate substantially understates the actual level of China's output vis-a-vis the rest of the world; in China's situation, GDP at purchasing power parity provides the best measure for comparing output across countries<br>
 
 **Inflation rate (consumer prices)**<br>
-2.8% (2019 est.)<br>
-2% (2018 est.)<br>
-1.5% (2017 est.)<br>
+0.98% (2021 est.)<br>
+2.42% (2020 est.)<br>
+2.9% (2019 est.)<br>
 
 **Credit ratings**<br>
 _Fitch rating_: A+ (2007)<br>
@@ -486,10 +491,10 @@ maize, rice, vegetables, wheat, sugar cane, potatoes, cucumbers, tomatoes, water
 world leader in gross value of industrial output; mining and ore processing, iron, steel, aluminum, and other metals, coal; machine building; armaments; textiles and apparel; petroleum; cement; chemicals; fertilizer; consumer products (including footwear, toys, and electronics); food processing; transportation equipment, including automobiles, railcars and locomotives, ships, aircraft; telecommunications equipment, commercial space launch vehicles, satellites<br>
 
 **Industrial production growth rate**<br>
-6.1% (2017 est.)<br>
+8.22% (2021 est.)<br>
 
 **Labor force**<br>
-774.71 million (2019 est.)<br>
+791.383 million (2021 est.)<br>
 <strong>note:</strong> by the end of 2012, China's working age population (15-64 years) was 1.004 billion<br>
 
 **Labor force - by occupation**<br>
@@ -498,16 +503,21 @@ _industry_: 28.8%<br>
 _services_: 43.5% (2016 est.)<br>
 
 **Unemployment rate**<br>
-3.64% (2019 est.)<br>
-3.84% (2018 est.)<br>
+4.82% (2021 est.)<br>
+5% (2020 est.)<br>
+4.52% (2019 est.)<br>
 <strong>note:</strong> data are for registered urban unemployment, which excludes private enterprises and migrants<br>
+
+**Youth unemployment rate (ages 15-24)**<br>
+_total_: 11.4%<br>
+_male_: 12.1%<br>
+_female_: 10.4% (2021 est.)<br>
 
 **Population below poverty line**<br>
 0.6% (2019 est.)<br>
 
 **Gini Index coefficient - distribution of family income**<br>
-38.5 (2016 est.)<br>
-46.2 (2015 est.)<br>
+38.2 (2019 est.)<br>
 
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 2.1%<br>
@@ -527,19 +537,20 @@ _expenditures_: 3.008 trillion (2017 est.)<br>
 <strong>note:</strong> official data; data cover both central and local government debt, including debt officially recognized by China's National Audit Office report in 2011; data exclude policy bank bonds, Ministry of Railway debt, and China Asset Management Company debt<br>
 
 **Taxes and other revenues**<br>
-21.3% (of GDP) (2017 est.)<br>
+8.09% (of GDP) (2020 est.)<br>
 
 **Fiscal year**<br>
 calendar year<br>
 
 **Current account balance**<br>
-$141.335 billion (2019 est.)<br>
-$25.499 billion (2018 est.)<br>
+$317.301 billion (2021 est.)<br>
+$248.836 billion (2020 est.)<br>
+$102.91 billion (2019 est.)<br>
 
 **Exports**<br>
-$2,732,370,000,000 (2020 est.)<br>
+$3.554 trillion (2021 est.)<br>
+$2.739 trillion (2020 est.)<br>
 $2.631 trillion (2019 est.)<br>
-$2,651,010,000,000 (2018 est.)<br>
 <strong>note:</strong> Data are in current year dollars and do not include illicit exports or re-exports.<br>
 
 **Exports - partners**<br>
@@ -549,9 +560,9 @@ United States 17%, Hong Kong 10%, Japan 6% (2019)<br>
 broadcasting equipment, computers, integrated circuits, office machinery and parts, telephones (2019)<br>
 
 **Imports**<br>
-$2,362,690,000,000 (2020 est.) note: data are in current year dollars<br>
-$2,499,150,000,000 (2019 est.) note: data are in current year dollars<br>
-$2,563,100,000,000 (2018 est.) note: data are in current year dollars<br>
+$3.091 trillion (2021 est.) note: data are in current year dollars<br>
+$2.38 trillion (2020 est.) note: data are in current year dollars<br>
+$2.499 trillion (2019 est.) note: data are in current year dollars<br>
 
 **Imports - partners**<br>
 South Korea 9%, Japan 8%, Australia 7%, Germany 7%, US 7%, Taiwan 6% (2019)<br>
@@ -560,8 +571,9 @@ South Korea 9%, Japan 8%, Australia 7%, Germany 7%, US 7%, Taiwan 6% (2019)<br>
 crude petroleum, integrated circuits, iron, natural gas, cars, gold (2019)<br>
 
 **Reserves of foreign exchange and gold**<br>
-$3.236 trillion (31 December 2017 est.)<br>
-$3.098 trillion (31 December 2016 est.)<br>
+$3.428 trillion (31 December 2021 est.)<br>
+$3.357 trillion (31 December 2020 est.)<br>
+$3.223 trillion (31 December 2019 est.)<br>
 
 **Debt - external**<br>
 $2,027,950,000,000 (2019 est.)<br>
@@ -569,11 +581,11 @@ $1,935,206,000,000 (2018 est.)<br>
 
 **Exchange rates**<br>
 _Currency_: Renminbi yuan (RMB) per US dollar -<br>
-6.5374 (2020 est.)<br>
-7.0403 (2019 est.)<br>
-6.8798 (2018 est.)<br>
-6.1434 (2014 est.)<br>
-6.1958 (2013 est.)<br>
+6.449 (2021 est.)<br>
+6.901 (2020 est.)<br>
+6.908 (2019 est.)<br>
+6.616 (2018 est.)<br>
+6.759 (2017 est.)<br>
 
 ## Energy
 
@@ -766,7 +778,7 @@ _refugees (country of origin)_: 303,107 (Vietnam), undetermined (North Korea) (m
 _IDPs_: undetermined (2021)<br>
 
 **Trafficking in persons**<br>
-_tier rating_: Tier 3 &mdash; China does not fully meet the minimum standards for elimination of trafficking and is not making significant efforts to do so; the government prosecuted and convicted some traffickers and continued to cooperate with international authorities to address forced and fraudulent marriages in China; however, there was a government policy or pattern of widespread forced labor, including the continued mass arbitrary detention of more than one million Uyghurs, ethnic Kazakhs, ethnic Kyrgyz, and other Muslims in the Xinjiang Uyghur Autonomous Region; the government did not report any investigations, prosecutions, or convictions of law enforcement officials allegedly complicit despite continued reports of officials benefiting from, permitting, or directly facilitating sex trafficking; authorities did not report identifying any trafficking victims or referring them to protective services; it is likely that law enforcement arrested and detained unidentified trafficking victims for crimes traffickers compelled them to commit; for the third consecutive year, the government did not report the extent to which it funded anti-trafficking activities in furtherance of the 2013-2020 National Action Plan on Combating Human Trafficking (2020)<br>
+_tier rating_: Tier 3 &mdash; China does not fully meet the minimum standards for elimination of trafficking and is not making significant efforts to do so, therefore China remained on Tier 3; the government initiated its first prosecution of a domestic trafficking case, approved a new National Action Plan for 2021-2030, and conducted some anti-trafficking training; however, there was a government policy or pattern of widespread forced labor, including continued mass arbitrary detention of Uyghurs, ethnic Kazakhs, ethnic Kyrgyz, and members of other Turkic and Muslim minorities in the Xinjiang Uyghur Autonomous Region; the government also implemented similar policies against other religious minorities and Tibetans in other provinces; Chinese nationals reportedly suffered forced labor in several countries in Asia, the Middle East, Africa, and Europe hosting Belt and Road Initiative (BRI) projects; for the fifth consecutive year, the government did not report complete law enforcement data, nor did it identify any trafficking victims or refer them to protection services &nbsp;(2022)<br>
 _trafficking profile_: human traffickers exploit domestic and foreign victims in China and Chinese people abroad; Chinese men, women, and children are victims of forced labor and sex trafficking in at least 60 countries; traffickers also use China as a transit point to subject foreign individuals to trafficking in other countries throughout Asia and in international maritime industries; state-sponsored forced labor is intensifying under the government&rsquo;s mass detention and political indoctrination campaign against Muslim minorities in the Xinjiang Uyghur Autonomous Region; well-organized criminal syndicates and local gangs subject Chinese women and girls to sex trafficking within China; women and girls from South Asia, Southeast Asia, and several countries in Africa experience forced labor in domestic service, forced concubinism leading to forced childbearing, and sex trafficking via forced and fraudulent marriage to Chinese men; African and Asian men reportedly experience conditions indicative of forced labor aboard Chinese-flagged fishing vessels; many North Korean refugees and asylum-seekers living in China illegally are particularly vulnerable to trafficking<br>
 
 **Illicit drugs**<br>

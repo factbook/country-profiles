@@ -151,7 +151,7 @@ _female_: 79.03 years (2022 est.)<br>
 2.63 children born/woman (2022 est.)<br>
 
 **Gross reproduction rate**<br>
-1.21 (2022 est.)<br>
+1.2 (2023 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 NA<br>
@@ -265,10 +265,10 @@ see United States<br>
 
 **Executive branch**<br>
 _chief of state_: President Joseph R. BIDEN Jr. (since 20 January 2021); Vice President Kamala D. HARRIS (since 20 January 2021)<br>
-_head of government_: Governor Ralph TORRES (since 29 December 2015); Lieutenant Governor Victor HOCOG (since 29 December 2015)<br>
+_head of government_: Governor Arnold PALACIOS (since 9 January 2023); Lieutenant Governor David APATANG (since 9 January 2023)<br>
 _cabinet_: Cabinet appointed by the governor with the advice and consent of the Senate<br>
-_elections/appointments_: president and vice president indirectly elected on the same ballot by an Electoral College of 'electors' chosen from each state; president and vice president serve a 4-year term (eligible for a second term); under the US Constitution, residents of the Northern Mariana Islands do not vote in elections for US president and vice president; however, they may vote in Democratic and Republican party presidential primary elections; governor directly elected by absolute majority vote in 2 rounds if needed; election last held on 13 November 2018 (next to be held in 8 November 2022)<br>
-_election results_: Ralph TORRES elected governor; percent of vote - Ralph TORRES (Republican) 62.2%, Juan BABAUTA (independent) 37.8%;&nbsp;&nbsp;Arnold PALACIOS (independent) elected Lieutenant Governor<br>
+_elections/appointments_: president and vice president indirectly elected on the same ballot by an Electoral College of 'electors' chosen from each state; president and vice president serve a 4-year term (eligible for a second term); under the US Constitution, residents of the Northern Mariana Islands do not vote in elections for US president and vice president; however, they may vote in Democratic and Republican party presidential primary elections; governor directly elected by absolute majority vote in 2 rounds if needed; election last held on 8 November 2022 (next to be held in 2026)<br>
+_election results_: Arnold PALACIOS elected governor in runoff election held 25 November 2022; percent of vote - Arnold PALACIOS (independent) elected 54%, Ralph TORRES (Republican) 46%; David APATANG (independent) elected lieutenant governor<br>
 
 **Legislative branch**<br>
 _description_: bicameral Northern Marianas Commonwealth Legislature consists of:<br>Senate (9 seats; members directly elected in single-seat constituencies by simple majority vote to serve 4-year terms)<br>House of Representatives (20 seats; members directly elected in single-seat constituencies by simple majority vote to serve 2-year terms)<br><br>the Northern Mariana Islands directly elects 1 delegate to the US House of Representatives by simple majority vote to serve a 2-year term<br>
@@ -313,9 +313,9 @@ $845 million (2014 est.)<br>
 <strong>note:</strong> GDP estimate includes US subsidy; data are in 2013 dollars<br>
 
 **Real GDP growth rate**<br>
-28.6% (2016 est.)<br>
-3.8% (2015 est.)<br>
-3.5% (2014 est.)<br>
+-11.14% (2019 est.)<br>
+-19.35% (2018 est.)<br>
+23.17% (2017 est.)<br>
 
 **Real GDP per capita**<br>
 $24,500 (2016 est.)<br>

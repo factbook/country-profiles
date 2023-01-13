@@ -166,7 +166,7 @@ _female_: 76.96 years (2022 est.)<br>
 2.09 children born/woman (2022 est.)<br>
 
 **Gross reproduction rate**<br>
-1.02 (2022 est.)<br>
+1.02 (2023 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 62.7% (2019)<br>
@@ -222,11 +222,11 @@ _total_: 34.7% (2020 est.)<br>
 _male_: 52.2% (2020 est.)<br>
 _female_: 17.1% (2020 est.)<br>
 
-**Currently married women (ages 15-49)**<br>
-80% (2022 est.)<br>
-
 **Children under the age of 5 years underweight**<br>
 22.6% (2019)<br>
+
+**Currently married women (ages 15-49)**<br>
+80.1% (2023 est.)<br>
 
 **Child marriage**<br>
 _women married by age 15_: 15.5%<br>
@@ -247,9 +247,9 @@ _male_: 12 years<br>
 _female_: 13 years (2020)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 12.8%<br>
-_male_: 10.8%<br>
-_female_: 16.8% (2017 est.)<br>
+_total_: 14.7%<br>
+_male_: 12.5%<br>
+_female_: 19.6% (2021 est.)<br>
 
 ## Environment
 
@@ -424,29 +424,29 @@ _selected World Heritage Site locales_: Bagerhat Historic Mosque (c); Ruins of t
 <p>Bangladesh's economy has grown roughly 6% per year since 2005 despite prolonged periods of political instability, poor infrastructure, endemic corruption, insufficient power supplies, and slow implementation of economic reforms. Although more than half of GDP is generated through the services sector, almost half of Bangladeshis are employed in the agriculture sector, with rice as the single-most-important product.</p> <p> </p> <p>Garments, the backbone of Bangladesh's industrial sector, accounted for more than 80% of total exports in FY 2016-17. The industrial sector continues to grow, despite the need for improvements in factory safety conditions. Steady export growth in the garment sector, combined with $13 billion in remittances from overseas Bangladeshis, contributed to Bangladesh's rising foreign exchange reserves in FY 2016-17. Recent improvements to energy infrastructure, including the start of liquefied natural gas imports in 2018, represent a major step forward in resolving a key growth bottleneck.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
-$793.49 billion (2020 est.)<br>
-$775.08 billion (2019 est.)<br>
-$716.65 billion (2018 est.)<br>
+$1.001 trillion (2021 est.)<br>
+$936.113 billion (2020 est.)<br>
+$904.912 billion (2019 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
-7.4% (2017 est.)<br>
-7.2% (2016 est.)<br>
-6.8% (2015 est.)<br>
+6.94% (2021 est.)<br>
+3.45% (2020 est.)<br>
+7.88% (2019 est.)<br>
 
 **Real GDP per capita**<br>
-$4,800 (2020 est.)<br>
-$4,800 (2019 est.)<br>
-$4,400 (2018 est.)<br>
+$5,900 (2021 est.)<br>
+$5,600 (2020 est.)<br>
+$5,500 (2019 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
 $329.545 billion (2020 est.)<br>
 
 **Inflation rate (consumer prices)**<br>
-5.5% (2019 est.)<br>
-5.5% (2018 est.)<br>
-5.6% (2017 est.)<br>
+5.55% (2021 est.)<br>
+5.69% (2020 est.)<br>
+5.59% (2019 est.)<br>
 
 **Credit ratings**<br>
 _Fitch rating_: BB- (2014)<br>
@@ -474,10 +474,10 @@ rice, potatoes, maize, sugar cane, milk, vegetables, onions, jute, mangoes/guava
 jute, cotton, garments, paper, leather, fertilizer, iron and steel, cement, petroleum products, tobacco, pharmaceuticals, ceramics, tea, salt, sugar, edible oils, soap and detergent, fabricated metal products, electricity, natural gas<br>
 
 **Industrial production growth rate**<br>
-10.2% (2017 est.)<br>
+10.29% (2021 est.)<br>
 
 **Labor force**<br>
-66.64 million (2017 est.)<br>
+70.961 million (2021 est.)<br>
 <strong>note:</strong> extensive migration of labor to Saudi Arabia, Kuwait, UAE, Oman, Qatar, and Malaysia<br>
 
 **Labor force - by occupation**<br>
@@ -486,21 +486,21 @@ _industry_: 20.5%<br>
 _services_: 36.9% (2016 est.)<br>
 
 **Unemployment rate**<br>
-4.4% (2017 est.)<br>
-4.4% (2016 est.)<br>
+5.23% (2021 est.)<br>
+5.41% (2020 est.)<br>
+4.44% (2019 est.)<br>
 <strong>note:</strong> about 40% of the population is underemployed; many persons counted as employed work only a few hours a week and at low wages<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 12.8%<br>
-_male_: 10.8%<br>
-_female_: 16.8% (2017 est.)<br>
+_total_: 14.7%<br>
+_male_: 12.5%<br>
+_female_: 19.6% (2021 est.)<br>
 
 **Population below poverty line**<br>
 24.3% (2016 est.)<br>
 
 **Gini Index coefficient - distribution of family income**<br>
 32.4 (2016 est.)<br>
-33.2 (2005)<br>
 
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 4%<br>
@@ -518,19 +518,20 @@ _expenditures_: 33.5 billion (2017 est.)<br>
 33.3% of GDP (2016 est.)<br>
 
 **Taxes and other revenues**<br>
-9.6% (of GDP) (2017 est.)<br>
+7% (of GDP) (2020 est.)<br>
 
 **Fiscal year**<br>
 1 July - 30 June<br>
 
 **Current account balance**<br>
--$5.322 billion (2017 est.)<br>
-$1.391 billion (2016 est.)<br>
+-$15.563 billion (2021 est.)<br>
+$1.193 billion (2020 est.)<br>
+-$2.949 billion (2019 est.)<br>
 
 **Exports**<br>
-$38.78 billion (2020 est.)<br>
-$44.96 billion (2019 est.)<br>
-$44.13 billion (2018 est.)<br>
+$49.386 billion (2021 est.)<br>
+$38.476 billion (2020 est.)<br>
+$44.961 billion (2019 est.)<br>
 <strong>note:</strong> Data are in current year dollars and do not include illicit exports or re-exports.<br>
 
 **Exports - partners**<br>
@@ -540,9 +541,9 @@ United States 15%, Germany 14%, United Kingdom 8%, Spain 7%, France 7% (2019)<br
 clothing, knitwear, leather footwear (2019)<br>
 
 **Imports**<br>
-$57.26 billion (2020 est.) note: data are in current year dollars<br>
-$64.23 billion (2019 est.) note: data are in current year dollars<br>
-$65.59 billion (2018 est.) note: data are in current year dollars<br>
+$85.303 billion (2021 est.) note: data are in current year dollars<br>
+$56.776 billion (2020 est.) note: data are in current year dollars<br>
+$64.234 billion (2019 est.) note: data are in current year dollars<br>
 
 **Imports - partners**<br>
 China 31%, India 15%, Singapore 5% (2019)<br>
@@ -551,8 +552,9 @@ China 31%, India 15%, Singapore 5% (2019)<br>
 refined petroleum, cotton, natural gas, scrap iron, wheat (2019)<br>
 
 **Reserves of foreign exchange and gold**<br>
-$33.42 billion (31 December 2017 est.)<br>
-$32.28 billion (31 December 2016 est.)<br>
+$46.166 billion (31 December 2021 est.)<br>
+$43.172 billion (31 December 2020 est.)<br>
+$32.697 billion (31 December 2019 est.)<br>
 
 **Debt - external**<br>
 $50.26 billion (31 December 2017 est.)<br>
@@ -560,11 +562,11 @@ $41.85 billion (31 December 2016 est.)<br>
 
 **Exchange rates**<br>
 _Currency_: taka (BDT) per US dollar -<br>
-84.75 (2020 est.)<br>
-85 (2019 est.)<br>
-83.715 (2018 est.)<br>
-77.947 (2014 est.)<br>
-77.614 (2013 est.)<br>
+85.084 (2021 est.)<br>
+84.871 (2020 est.)<br>
+84.454 (2019 est.)<br>
+83.466 (2018 est.)<br>
+80.438 (2017 est.)<br>
 
 ## Energy
 

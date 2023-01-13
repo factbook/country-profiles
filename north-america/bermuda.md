@@ -151,7 +151,7 @@ _female_: 85.28 years (2022 est.)<br>
 1.9 children born/woman (2022 est.)<br>
 
 **Gross reproduction rate**<br>
-0.93 (2022 est.)<br>
+0.92 (2023 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 NA<br>
@@ -181,11 +181,11 @@ _unimproved: total_: total: 0.1% of population (2020)<br>
 **HIV/AIDS - adult prevalence rate**<br>
 NA<br>
 
-**Currently married women (ages 15-49)**<br>
-48% (2022 est.)<br>
-
 **Children under the age of 5 years underweight**<br>
 NA<br>
+
+**Currently married women (ages 15-49)**<br>
+47.6% (2023 est.)<br>
 
 **Education expenditures**<br>
 1.9% of GDP (2021 est.)<br>
@@ -338,19 +338,19 @@ _selected World Heritage Site locales_: Historic Town of St George and Related F
 <p>International business, which consists primarily of insurance and other financial services, is the real bedrock of Bermuda's economy, consistently accounting for about 85% of the island's GDP. Tourism is the country’s second largest industry, accounting for about 5% of Bermuda's GDP but a much larger share of employment. Over 80% of visitors come from the US and the sector struggled in the wake of the global recession of 2008-09. Even the financial sector has lost roughly 5,000 high-paying expatriate jobs since 2008, weighing heavily on household consumption and retail sales. Bermuda must import almost everything. Agriculture and industry are limited due to the small size of the island.</p> <p> </p> <p>Bermuda's economy returned to negative growth in 2016, reporting a contraction of 0.1% GDP, after growing by 0.6% in 2015. Unemployment reached 7% in 2016 and 2017, public debt is growing and exceeds $2.4 billion, and the government continues to work on attracting foreign investment. Still, Bermuda enjoys one of the highest per capita incomes in the world.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
-$5.23 billion (2019 est.) note: data are in 2017 dollars<br>
-$5.2 billion (2018 est.) note: data are in 2017 dollars<br>
-$5.227 billion (2017 est.)<br>
+$5.127 billion (2021 est.) note: data are in 2017 dollars<br>
+$4.863 billion (2020 est.) note: data are in 2017 dollars<br>
+$5.22 billion (2019 est.)<br>
 
 **Real GDP growth rate**<br>
--0.1% (2016 est.)<br>
-0.6% (2015 est.)<br>
--0.3% (2014 est.)<br>
+5.41% (2021 est.)<br>
+-6.84% (2020 est.)<br>
+0.31% (2019 est.)<br>
 
 **Real GDP per capita**<br>
-$81,800 (2019 est.) note: data are in 2017 dollars<br>
-$81,400 (2018 est.) note: data are in 2017 dollars<br>
-$81,835 (2017 est.)<br>
+$80,300 (2021 est.) note: data are in 2017 dollars<br>
+$76,100 (2020 est.) note: data are in 2017 dollars<br>
+$81,700 (2019 est.)<br>
 
 **GDP (official exchange rate)**<br>
 $6.127 billion (2016 est.)<br>
@@ -385,7 +385,7 @@ bananas, vegetables, citrus, flowers; dairy products, honey<br>
 international business, tourism, light manufacturing<br>
 
 **Industrial production growth rate**<br>
-2% (2017 est.)<br>
+0.1% (2021 est.)<br>
 
 **Labor force**<br>
 33,480 (2016 est.)<br>
@@ -428,12 +428,14 @@ _expenditures_: 1.176 billion (2017 est.)<br>
 1 April - 31 March<br>
 
 **Current account balance**<br>
-$818.6 million (2017 est.)<br>
-$763 million (2016 est.)<br>
+$1.015 billion (2021 est.)<br>
+$853.85 million (2020 est.)<br>
+$838.701 million (2019 est.)<br>
 
 **Exports**<br>
-$1.59 billion (2019 est.)<br>
-$1.59 billion (2018 est.)<br>
+$1.123 billion (2021 est.)<br>
+$1.027 billion (2020 est.)<br>
+$1.605 billion (2019 est.)<br>
 <strong>note:</strong> Data are in current year dollars and do not include illicit exports or re-exports.<br>
 
 **Exports - partners**<br>
@@ -443,8 +445,9 @@ Jamaica 49.1%, Luxembourg 36.1%, US 4.9% (2017)<br>
 re-exports of pharmaceuticals<br>
 
 **Imports**<br>
-$2.23 billion (2019 est.) note: data are in current year dollars<br>
-$2.2 billion (2018 est.) note: data are in current year dollars<br>
+$1.925 billion (2021 est.) note: data are in current year dollars<br>
+$1.723 billion (2020 est.) note: data are in current year dollars<br>
+$2.224 billion (2019 est.)<br>
 
 **Imports - partners**<br>
 United States 44%, South Korea 17%, Germany 10%, Canada 8% (2019)<br>
@@ -458,11 +461,11 @@ $2.435 billion (2015 est.)<br>
 
 **Exchange rates**<br>
 _Currency_: Bermudian dollars (BMD) per US dollar -<br>
+1 (2021 est.)<br>
 1 (2020 est.)<br>
 1 (2019 est.)<br>
 1 (2018 est.)<br>
-1 (2014 est.)<br>
-1 (2013 est.)<br>
+1 (2017 est.)<br>
 
 ## Energy
 

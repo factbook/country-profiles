@@ -167,7 +167,7 @@ _female_: 75.76 years (2022 est.)<br>
 1.91 children born/woman (2022 est.)<br>
 
 **Gross reproduction rate**<br>
-0.93 (2022 est.)<br>
+0.92 (2023 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 48.1% (2018)<br>
@@ -215,11 +215,11 @@ _total_: 29.4% (2020 est.)<br>
 _male_: 51.7% (2020 est.)<br>
 _female_: 7.1% (2020 est.)<br>
 
-**Currently married women (ages 15-49)**<br>
-59.6% (2022 est.)<br>
-
 **Children under the age of 5 years underweight**<br>
 1.8% (2018)<br>
+
+**Currently married women (ages 15-49)**<br>
+58.9% (2023 est.)<br>
 
 **Child marriage**<br>
 _women married by age 15_: 0.9%<br>
@@ -241,9 +241,9 @@ _male_: 14 years<br>
 _female_: 16 years (2019)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 16.2%<br>
-_male_: 15.4%<br>
-_female_: 17.4% (2020 est.)<br>
+_total_: 21%<br>
+_male_: 20.1%<br>
+_female_: 22.4% (2021 est.)<br>
 
 ## Environment
 
@@ -408,28 +408,29 @@ _selected World Heritage Site locales_: Uvs Nuur Basin (n); Orkhon Valley Cultur
 <p>Foreign direct investment in Mongolia's extractive industries – which are based on extensive deposits of copper, gold, coal, molybdenum, fluorspar, uranium, tin, and tungsten - has transformed Mongolia's landlocked economy from its traditional dependence on herding and agriculture. Exports now account for more than 40% of GDP. Mongolia depends on China for more than 60% of its external trade - China receives some 90% of Mongolia's exports and supplies Mongolia with more than one-third of its imports. Mongolia also relies on Russia for 90% of its energy supplies, leaving it vulnerable to price increases. Remittances from Mongolians working abroad, particularly in South Korea, are significant.</p> <p> </p> <p>Soviet assistance, at its height one-third of GDP, disappeared almost overnight in 1990 and 1991 at the time of the dismantlement of the USSR. The following decade saw Mongolia endure both deep recession, because of political inaction, and natural disasters, as well as strong economic growth, because of market reforms and extensive privatization of the formerly state-run economy. The country opened a fledgling stock exchange in 1991. Mongolia joined the WTO in 1997 and seeks to expand its participation in regional economic and trade regimes.</p> <p> </p> <p>Growth averaged nearly 9% per year in 2004-08 largely because of high copper prices globally and new gold production. By late 2008, Mongolia was hit by the global financial crisis and Mongolia's real economy contracted 1.3% in 2009. In early 2009, the IMF reached a $236 million Stand-by Arrangement with Mongolia and it emerged from the crisis with a stronger banking sector and better fiscal management. In October 2009, Mongolia passed long-awaited legislation on an investment agreement to develop the Oyu Tolgoi (OT) mine, among the world's largest untapped copper-gold deposits. However, a dispute with foreign investors developing OT called into question the attractiveness of Mongolia as a destination for foreign investment. This caused a severe drop in FDI, and a slowing economy, leading to the dismissal of Prime Minister Norovyn ALTANKHUYAG in November 2014. The economy had grown more than 10% per year between 2011 and 2013 - largely on the strength of commodity exports and high government spending - before slowing to 7.8% in 2014, and falling to the 2% level in 2015. Growth rebounded from a brief 1.6% contraction in the third quarter of 2016 to 5.8% during the first three quarters of 2017, largely due to rising commodity prices.</p> <p> </p> <p>The May 2015 agreement with Rio Tinto to restart the OT mine and the subsequent $4.4 billion finance package signing in December 2015 stemmed the loss of investor confidence. The current government has made restoring investor trust and reviving the economy its top priority, but has failed to invigorate the economy in the face of the large drop-off in foreign direct investment, mounting external debt, and a sizeable budget deficit. Mongolia secured a $5.5 billion financial assistance package from the IMF and a host of international creditors in May 2017, which is expected to improve Mongolia’s long-term fiscal and economic stability as long as Ulaanbaatar can advance the agreement’s difficult contingent reforms, such as consolidating the government’s off-balance sheet liabilities and rehabilitating the Mongolian banking sector.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
-$37.6 billion (2020 est.)<br>
-$39.72 billion (2019 est.)<br>
-$37.77 billion (2018 est.)<br>
+$39.063 billion (2021 est.)<br>
+$38.434 billion (2020 est.)<br>
+$40.27 billion (2019 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
-5.1% (2017 est.)<br>
-1.2% (2016 est.)<br>
-2.4% (2015 est.)<br>
+1.64% (2021 est.)<br>
+-4.56% (2020 est.)<br>
+5.6% (2019 est.)<br>
 
 **Real GDP per capita**<br>
-$11,500 (2020 est.)<br>
-$12,300 (2019 est.)<br>
-$11,900 (2018 est.)<br>
+$11,700 (2021 est.)<br>
+$11,700 (2020 est.)<br>
+$12,500 (2019 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
 $11.14 billion (2017 est.)<br>
 
 **Inflation rate (consumer prices)**<br>
-4.6% (2017 est.)<br>
-0.5% (2016 est.)<br>
+7.35% (2021 est.)<br>
+3.8% (2020 est.)<br>
+7.3% (2019 est.)<br>
 
 **Credit ratings**<br>
 _Fitch rating_: B (2018)<br>
@@ -457,10 +458,10 @@ milk, wheat, goat milk, potatoes, mutton, sheep milk, beef, goat meat, horse mea
 construction and construction materials; mining (coal, copper, molybdenum, fluorspar, tin, tungsten, gold); oil; food and beverages; processing of animal products, cashmere and natural fiber manufacturing<br>
 
 **Industrial production growth rate**<br>
--1% (2017 est.)<br>
+-2.22% (2021 est.)<br>
 
 **Labor force**<br>
-1.241 million (2017 est.)<br>
+1.331 million (2021 est.)<br>
 
 **Labor force - by occupation**<br>
 _agriculture_: 31.1%<br>
@@ -468,20 +469,20 @@ _industry_: 18.5%<br>
 _services_: 50.5% (2016)<br>
 
 **Unemployment rate**<br>
-8% (2017 est.)<br>
-7.9% (2016 est.)<br>
+7.08% (2021 est.)<br>
+7.01% (2020 est.)<br>
+5.44% (2019 est.)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 16.2%<br>
-_male_: 15.4%<br>
-_female_: 17.4% (2020 est.)<br>
+_total_: 21%<br>
+_male_: 20.1%<br>
+_female_: 22.4% (2021 est.)<br>
 
 **Population below poverty line**<br>
 28.4% (2018 est.)<br>
 
 **Gini Index coefficient - distribution of family income**<br>
 32.7 (2018 est.)<br>
-36.5 (2008)<br>
 
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 13.7%<br>
@@ -495,23 +496,25 @@ _expenditures_: 3.681 billion (2017 est.)<br>
 -6.4% (of GDP) (2017 est.)<br>
 
 **Public debt**<br>
-91.4% of GDP (2017 est.)<br>
-90% of GDP (2016 est.)<br>
+73.94% of GDP (2020 est.)<br>
+60.84% of GDP (2019 est.)<br>
+65.97% of GDP (2018 est.)<br>
 
 **Taxes and other revenues**<br>
-26.6% (of GDP) (2017 est.)<br>
+14.15% (of GDP) (2020 est.)<br>
 
 **Fiscal year**<br>
 calendar year<br>
 
 **Current account balance**<br>
--$1.155 billion (2017 est.)<br>
--$700 million (2016 est.)<br>
+-$2.108 billion (2021 est.)<br>
+-$674.612 million (2020 est.)<br>
+-$2.162 billion (2019 est.)<br>
 
 **Exports**<br>
-$7.65 billion (2020 est.) note: data are in current year dollars<br>
-$8.42 billion (2019 est.) note: data are in current year dollars<br>
-$7.71 billion (2018 est.) note: data are in current year dollars<br>
+$8.95 billion (2021 est.) note: data are in current year dollars<br>
+$7.646 billion (2020 est.) note: data are in current year dollars<br>
+$8.416 billion (2019 est.) note: data are in current year dollars<br>
 
 **Exports - partners**<br>
 China 81%, Switzerland 9% (2019)<br>
@@ -520,9 +523,9 @@ China 81%, Switzerland 9% (2019)<br>
 coal, copper, gold, iron, crude petroleum (2019)<br>
 
 **Imports**<br>
+$9.256 billion (2021 est.) note: data are in current year dollars<br>
 $7.34 billion (2020 est.) note: data are in current year dollars<br>
-$9.25 billion (2019 est.) note: data are in current year dollars<br>
-$8.48 billion (2018 est.) note: data are in current year dollars<br>
+$9.249 billion (2019 est.) note: data are in current year dollars<br>
 
 **Imports - partners**<br>
 China 31%, Russia 29%, Japan 10%, South Korea 5% (2019)<br>
@@ -531,8 +534,9 @@ China 31%, Russia 29%, Japan 10%, South Korea 5% (2019)<br>
 refined petroleum, cars, delivery trucks, construction vehicles, aircraft (2019)<br>
 
 **Reserves of foreign exchange and gold**<br>
-$3.016 billion (31 December 2017 est.)<br>
-$1.296 billion (31 December 2016 est.)<br>
+$4.38 billion (31 December 2021 est.)<br>
+$4.545 billion (31 December 2020 est.)<br>
+$4.364 billion (31 December 2019 est.)<br>
 
 **Debt - external**<br>
 $29.945 billion (2019 est.)<br>
@@ -540,11 +544,11 @@ $28.046 billion (2018 est.)<br>
 
 **Exchange rates**<br>
 _Currency_: togrog/tugriks (MNT) per US dollar -<br>
-2,378.1 (2017 est.)<br>
-2,140.3 (2016 est.)<br>
-2,140.3 (2015 est.)<br>
-1,970.3 (2014 est.)<br>
-1,817.9 (2013 est.)<br>
+2,849.289 (2021 est.)<br>
+2,813.29 (2020 est.)<br>
+2,663.541 (2019 est.)<br>
+2,472.484 (2018 est.)<br>
+2,439.777 (2017 est.)<br>
 
 ## Energy
 

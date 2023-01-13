@@ -169,7 +169,7 @@ _female_: 71.27 years (2022 est.)<br>
 5.36 children born/woman (2022 est.)<br>
 
 **Gross reproduction rate**<br>
-2.64 (2022 est.)<br>
+2.59 (2023 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 50.2% (2021)<br>
@@ -225,11 +225,11 @@ _total_: 8.4% (2020 est.)<br>
 _male_: 13% (2020 est.)<br>
 _female_: 3.7% (2020 est.)<br>
 
-**Currently married women (ages 15-49)**<br>
-58.4% (2022 est.)<br>
-
 **Children under the age of 5 years underweight**<br>
 10.4% (2016)<br>
+
+**Currently married women (ages 15-49)**<br>
+58.3% (2023 est.)<br>
 
 **Child marriage**<br>
 _women married by age 15_: 7.3%<br>
@@ -246,9 +246,9 @@ _male_: 82.7%<br>
 _female_: 70.8% (2018)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 5.8%<br>
-_male_: 5.6%<br>
-_female_: 5.9% (2017 est.)<br>
+_total_: 4.3%<br>
+_male_: 3.4%<br>
+_female_: 5.3% (2021 est.)<br>
 
 ## Environment
 
@@ -421,29 +421,29 @@ _selected World Heritage Site locales_: Bwindi Impenetrable National Park (n); R
 <p>Uganda has substantial natural resources, including fertile soils, regular rainfall, substantial reserves of recoverable oil, and small deposits of copper, gold, and other minerals. Agriculture is one of the most important sectors of the economy, employing 72% of the work force. The country’s export market suffered a major slump following the outbreak of conflict in South Sudan, but has recovered lately, largely due to record coffee harvests, which account for 16% of exports, and increasing gold exports, which account for 10% of exports. Uganda has a small industrial sector that is dependent on imported inputs such as refined oil and heavy equipment. Overall, productivity is hampered by a number of supply-side constraints, including insufficient infrastructure, lack of modern technology in agriculture, and corruption.</p> <p> </p> <p>Uganda’s economic growth has slowed since 2016 as government spending and public debt has grown. Uganda’s budget is dominated by energy and road infrastructure spending, while Uganda relies on donor support for long-term drivers of growth, including agriculture, health, and education. The largest infrastructure projects are externally financed through concessional loans, but at inflated costs. As a result, debt servicing for these loans is expected to rise.</p> <p> </p> <p>Oil revenues and taxes are expected to become a larger source of government funding as oil production starts in the next three to 10 years. Over the next three to five years, foreign investors are planning to invest $9 billion in production facilities projects, $4 billion in an export pipeline, as well as in a $2-3 billion refinery to produce petroleum products for the domestic and East African Community markets. Furthermore, the government is looking to build several hundred million dollars’ worth of highway projects to the oil region.</p> <p> </p> <p>Uganda faces many economic challenges. Instability in South Sudan has led to a sharp increase in Sudanese refugees and is disrupting Uganda's main export market. Additional economic risks include: poor economic management, endemic corruption, and the government’s failure to invest adequately in the health, education, and economic opportunities for a burgeoning young population. Uganda has one of the lowest electrification rates in Africa - only 22% of Ugandans have access to electricity, dropping to 10% in rural areas.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
-$99.61 billion (2020 est.)<br>
-$96.84 billion (2019 est.)<br>
-$90.67 billion (2018 est.)<br>
+$103.007 billion (2021 est.)<br>
+$99.488 billion (2020 est.)<br>
+$96.636 billion (2019 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
-4.8% (2017 est.)<br>
-2.3% (2016 est.)<br>
-5.7% (2015 est.)<br>
+3.54% (2021 est.)<br>
+2.95% (2020 est.)<br>
+6.44% (2019 est.)<br>
 
 **Real GDP per capita**<br>
+$2,200 (2021 est.)<br>
 $2,200 (2020 est.)<br>
-$2,200 (2019 est.)<br>
-$2,100 (2018 est.)<br>
+$2,300 (2019 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
 $34.683 billion (2019 est.)<br>
 
 **Inflation rate (consumer prices)**<br>
-2.8% (2019 est.)<br>
-2.6% (2018 est.)<br>
-5.6% (2017 est.)<br>
+2.2% (2021 est.)<br>
+3.31% (2020 est.)<br>
+2.87% (2019 est.)<br>
 
 **Credit ratings**<br>
 _Fitch rating_: B+ (2015)<br>
@@ -471,10 +471,10 @@ sugar cane, plantains, cassava, maize, sweet potatoes, milk, vegetables, beans, 
 sugar processing, brewing, tobacco, cotton textiles; cement, steel production<br>
 
 **Industrial production growth rate**<br>
-4.4% (2017 est.)<br>
+3.47% (2021 est.)<br>
 
 **Labor force**<br>
-15.84 million (2015 est.)<br>
+16.995 million (2021 est.)<br>
 
 **Labor force - by occupation**<br>
 _agriculture_: 71%<br>
@@ -482,19 +482,20 @@ _industry_: 7%<br>
 _services_: 22% (2013 est.)<br>
 
 **Unemployment rate**<br>
-9.4% (2014 est.)<br>
+2.94% (2021 est.)<br>
+2.77% (2020 est.)<br>
+1.92% (2019 est.)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 5.8%<br>
-_male_: 5.6%<br>
-_female_: 5.9% (2017 est.)<br>
+_total_: 4.3%<br>
+_male_: 3.4%<br>
+_female_: 5.3% (2021 est.)<br>
 
 **Population below poverty line**<br>
 21.4% (2016 est.)<br>
 
 **Gini Index coefficient - distribution of family income**<br>
 42.8 (2016 est.)<br>
-45.7 (2002)<br>
 
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 2.4%<br>
@@ -508,23 +509,25 @@ _expenditures_: 4.928 billion (2017 est.)<br>
 -4.1% (of GDP) (2017 est.)<br>
 
 **Public debt**<br>
-40% of GDP (2017 est.)<br>
-37.4% of GDP (2016 est.)<br>
+44.19% of GDP (2020 est.)<br>
+38.48% of GDP (2019 est.)<br>
+34.67% of GDP (2018 est.)<br>
 
 **Taxes and other revenues**<br>
-14.5% (of GDP) (2017 est.)<br>
+11.39% (of GDP) (2020 est.)<br>
 
 **Fiscal year**<br>
 1 July - 30 June<br>
 
 **Current account balance**<br>
--$1.212 billion (2017 est.)<br>
--$707 million (2016 est.)<br>
+-$3.553 billion (2021 est.)<br>
+-$3.552 billion (2020 est.)<br>
+-$2.508 billion (2019 est.)<br>
 
 **Exports**<br>
-$6.12 billion (2019 est.) note: data are in current year dollars<br>
-$5.63 billion (2018 est.) note: data are in current year dollars<br>
-$5.958 billion (2017 est.)<br>
+$6.177 billion (2021 est.) note: data are in current year dollars<br>
+$5.562 billion (2020 est.) note: data are in current year dollars<br>
+$6.172 billion (2019 est.)<br>
 
 **Exports - partners**<br>
 United Arab Emirates 58%, Kenya 9% (2019)<br>
@@ -533,9 +536,9 @@ United Arab Emirates 58%, Kenya 9% (2019)<br>
 gold, coffee, milk, fish and fish products, tobacco (2019)<br>
 
 **Imports**<br>
-$9.54 billion (2019 est.) note: data are in current year dollars<br>
-$8.65 billion (2018 est.) note: data are in current year dollars<br>
-$7.44 billion (2017 est.)<br>
+$10.705 billion (2021 est.) note: data are in current year dollars<br>
+$10.197 billion (2020 est.) note: data are in current year dollars<br>
+$9.795 billion (2019 est.)<br>
 
 **Imports - partners**<br>
 China 19%, India 17%, Kenya 16%, United Arab Emirates 7%, Japan 5% (2019)<br>
@@ -544,8 +547,8 @@ China 19%, India 17%, Kenya 16%, United Arab Emirates 7%, Japan 5% (2019)<br>
 packaged medicines, aircraft, delivery trucks, cars, wheat (2019)<br>
 
 **Reserves of foreign exchange and gold**<br>
-$3.654 billion (31 December 2017 est.)<br>
-$3.034 billion (31 December 2016 est.)<br>
+$3.359 billion (31 December 2018 est.)<br>
+$3.721 billion (31 December 2017 est.)<br>
 <strong>note:</strong> excludes gold<br>
 
 **Debt - external**<br>
@@ -555,11 +558,11 @@ $6.241 billion (31 December 2016 est.)<br>
 
 **Exchange rates**<br>
 _Currency_: Ugandan shillings (UGX) per US dollar -<br>
-3,680 (2020 est.)<br>
-3,685 (2019 est.)<br>
-3,735 (2018 est.)<br>
-3,234.1 (2014 est.)<br>
-2,599.8 (2013 est.)<br>
+3,587.052 (2021 est.)<br>
+3,718.249 (2020 est.)<br>
+3,704.049 (2019 est.)<br>
+3,727.069 (2018 est.)<br>
+3,611.224 (2017 est.)<br>
 
 ## Energy
 
@@ -736,5 +739,5 @@ al-Shabaab; Islamic State of Iraq and ash-Sham - Democratic Republic of Congo (I
 <p>Uganda is subject to armed fighting among hostile ethnic groups, rebels, armed gangs, militias, and various government forces that extend across its borders<br><br><em>Uganda-Kenya:</em> Kenya and Uganda began a joint demarcation of the boundary in 2021; Uganda and Kenya both claim Migingo Island, a tiny island in the middle of Lake Victoria, which offers good fishing<br><br><em>Uganda-Rwanda:</em> a joint technical committee established in 2007 to demarcate sections of the border<br><br><em>Uganda-Democratic Republic of Congo(DROC):</em> Uganda rejects the DROC claim to Margherita Peak in the Rwenzori mountains and considers it a boundary divide; there is tension and violence on Lake Albert over prospective oil reserves at the mouth of the Semliki River; Rukwanzi Island in Lake Albert is claimed by both countries<br><br><em>Uganda-South Sudan:</em> Government of South Sudan protests Lord's Resistance Army operations in western Equatorial State, displacing and driving out local populations and stealing grain stores<br><br><em>Uganda-Sudan</em>: none identified</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 845,711 (South Sudan) (refugees and asylum seekers), 473,529 (Democratic Republic of the Congo), 61,482 (Somalia) (refugees and asylum seekers), 40,311 (Burundi), 26,671 (Eritrea), 23,251 (Rwanda), 5,317 (Ethiopia) (2022)<br>
+_refugees (country of origin)_: 854,268 (South Sudan) (refugees and asylum seekers), 473,529 (Democratic Republic of the Congo), 61,563 (Somalia) (refugees and asylum seekers), 40,311 (Burundi), 26,671 (Eritrea), 23,251 (Rwanda), 5,317 (Ethiopia) (2022)<br>
 

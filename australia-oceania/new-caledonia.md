@@ -152,7 +152,7 @@ _female_: 82.92 years (2022 est.)<br>
 1.86 children born/woman (2022 est.)<br>
 
 **Gross reproduction rate**<br>
-0.91 (2022 est.)<br>
+0.9 (2023 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 NA<br>
@@ -187,11 +187,11 @@ _degree of risk_: high (2020)<br>
 _food or waterborne diseases_: bacterial diarrhea<br>
 _vectorborne diseases_: malaria<br>
 
-**Currently married women (ages 15-49)**<br>
-22.8% (2022 est.)<br>
-
 **Children under the age of 5 years underweight**<br>
 NA<br>
+
+**Currently married women (ages 15-49)**<br>
+22.5% (2023 est.)<br>
 
 **Education expenditures**<br>
 NA<br>
@@ -203,9 +203,9 @@ _male_: 97.3%<br>
 _female_: 96.5% (2015)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 46.2%<br>
-_male_: 44.5%<br>
-_female_: 48.2% (2020 est.)<br>
+_total_: 41%<br>
+_male_: 39.2%<br>
+_female_: 43.2% (2021 est.)<br>
 
 ## Environment
 
@@ -376,7 +376,7 @@ nickel mining and smelting<br>
 3.5% (2017 est.)<br>
 
 **Labor force**<br>
-119,500 (2016 est.)<br>
+132,200 (2021 est.)<br>
 
 **Labor force - by occupation**<br>
 _agriculture_: 2.7%<br>
@@ -384,13 +384,14 @@ _industry_: 22.4%<br>
 _services_: 74.9% (2010)<br>
 
 **Unemployment rate**<br>
-14.7% (2014)<br>
-14% (2009)<br>
+16.57% (2021 est.)<br>
+16.43% (2020 est.)<br>
+14.91% (2019 est.)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 46.2%<br>
-_male_: 44.5%<br>
-_female_: 48.2% (2020 est.)<br>
+_total_: 41%<br>
+_male_: 39.2%<br>
+_female_: 43.2% (2021 est.)<br>
 
 **Population below poverty line**<br>
 17% (2008)<br>
@@ -417,7 +418,7 @@ _expenditures_: 1.993 billion (2015 est.)<br>
 calendar year<br>
 
 **Current account balance**<br>
--$1.469 billion (2014 est.)<br>
+-$654.237 million (2016 est.)<br>
 -$1.861 billion (2013 est.)<br>
 
 **Exports**<br>
@@ -445,11 +446,11 @@ $79 million (31 December 1998 est.)<br>
 
 **Exchange rates**<br>
 _Currency_: Comptoirs Francais du Pacifique francs (XPF) per US dollar -<br>
-110.2 (2017 est.)<br>
-107.84 (2016 est.)<br>
-107.84 (2015 est.)<br>
-89.85 (2013 est.)<br>
-90.56 (2012 est.)<br>
+100.88 (2021 est.)<br>
+104.711 (2020 est.)<br>
+106.589 (2019 est.)<br>
+101.047 (2018 est.)<br>
+105.633 (2017 est.)<br>
 
 ## Energy
 

@@ -152,7 +152,7 @@ _female_: 70.92 years (2022 est.)<br>
 2.83 children born/woman (2022 est.)<br>
 
 **Gross reproduction rate**<br>
-1.38 (2022 est.)<br>
+1.37 (2023 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 23.7% (2019/20)<br>
@@ -197,11 +197,11 @@ _total_: 35.6% (2020 est.)<br>
 _male_: 49.8% (2020 est.)<br>
 _female_: 21.3% (2020 est.)<br>
 
-**Currently married women (ages 15-49)**<br>
-65.9% (2022 est.)<br>
-
 **Children under the age of 5 years underweight**<br>
 NA<br>
+
+**Currently married women (ages 15-49)**<br>
+66.1% (2023 est.)<br>
 
 **Education expenditures**<br>
 NA<br>
@@ -354,20 +354,20 @@ _lyrics/music_: Afaese MANOA<br>
 <p>Tuvalu consists of a densely populated, scattered group of nine coral atolls with poor soil. Only eight of the atolls are inhabited. It is one of the smallest countries in the world, with its highest point at 4.6 meters above sea level. The country is isolated, almost entirely dependent on imports, particularly of food and fuel, and vulnerable to climate change and rising sea levels, which pose significant challenges to development.</p> <p> </p> <p>The public sector dominates economic activity. Tuvalu has few natural resources, except for its fisheries. Earnings from fish exports and fishing licenses for Tuvalu’s territorial waters are a significant source of government revenue. In 2013, revenue from fishing licenses doubled and totaled more than 45% of GDP.</p> <p> </p> <p>Official aid from foreign development partners has also increased. Tuvalu has substantial assets abroad. The Tuvalu Trust Fund, an international trust fund established in 1987 by development partners, has grown to $104 million (A$141 million) in 2014 and is an important cushion for meeting shortfalls in the government's budget. While remittances are another substantial source of income, the value of remittances has declined since the 2008-09 global financial crisis, but has stabilized at nearly $4 million per year. The financial impact of climate change and the cost of climate related adaptation projects is one of many concerns for the nation.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
-$50 million (2020 est.)<br>
-$50 million (2019 est.)<br>
-$50 million (2018 est.)<br>
+$55.169 million (2021 est.)<br>
+$53.57 million (2020 est.)<br>
+$52.77 million (2019 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
-3.2% (2017 est.)<br>
-3% (2016 est.)<br>
-9.1% (2015 est.)<br>
+2.99% (2021 est.)<br>
+1.52% (2020 est.)<br>
+13.79% (2019 est.)<br>
 
 **Real GDP per capita**<br>
-$4,400 (2020 est.)<br>
-$4,300 (2019 est.)<br>
-$3,900 (2018 est.)<br>
+$4,900 (2021 est.)<br>
+$4,800 (2020 est.)<br>
+$4,800 (2019 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
@@ -441,12 +441,14 @@ _expenditures_: 32.46 million (2012 est.)<br>
 calendar year<br>
 
 **Current account balance**<br>
-$2 million (2017 est.)<br>
-$8 million (2016 est.)<br>
+$20.82 million (2021 est.)<br>
+$9.015 million (2020 est.)<br>
+-$6.051 million (2019 est.)<br>
 
 **Exports**<br>
-$10 million (2019 est.) note: data are in current year dollars<br>
-$10 million (2018 est.) note: data are in current year dollars<br>
+$2.699 million (2021 est.) note: data are in current year dollars<br>
+$3.087 million (2020 est.) note: data are in current year dollars<br>
+$10.266 million (2019 est.)<br>
 
 **Exports - partners**<br>
 Thailand 50%, Indonesia 40% (2019)<br>
@@ -455,8 +457,9 @@ Thailand 50%, Indonesia 40% (2019)<br>
 fish, ships, coins, metal-clad products, electrical power accessories (2019)<br>
 
 **Imports**<br>
-$70 million (2019 est.) note: data are in current year dollars<br>
-$60 million (2018 est.) note: data are in current year dollars<br>
+$51.187 million (2021 est.) note: data are in current year dollars<br>
+$50.792 million (2020 est.) note: data are in current year dollars<br>
+$65.24 million (2019 est.)<br>
 
 **Imports - partners**<br>
 China 32%, Japan 29%, Fiji 23%, New Zealand 6% (2019)<br>

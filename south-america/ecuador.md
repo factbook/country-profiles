@@ -167,7 +167,7 @@ _female_: 81.1 years (2022 est.)<br>
 2.04 children born/woman (2022 est.)<br>
 
 **Gross reproduction rate**<br>
-1 (2022 est.)<br>
+0.98 (2023 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 77.9% (2018/19)<br>
@@ -221,11 +221,11 @@ _total_: 11.3% (2020 est.)<br>
 _male_: 18.4% (2020 est.)<br>
 _female_: 4.2% (2020 est.)<br>
 
-**Currently married women (ages 15-49)**<br>
-55.1% (2022 est.)<br>
-
 **Children under the age of 5 years underweight**<br>
 5.2% (2018/19)<br>
+
+**Currently married women (ages 15-49)**<br>
+55.1% (2023 est.)<br>
 
 **Child marriage**<br>
 _women married by age 15_: 3.8%<br>
@@ -246,9 +246,9 @@ _male_: 14 years<br>
 _female_: 15 years (2020)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 9%<br>
-_male_: 6.9%<br>
-_female_: 12.9% (2021 est.)<br>
+_total_: 14.2%<br>
+_male_: 11.4%<br>
+_female_: 18.8% (2021 est.)<br>
 
 ## Environment
 
@@ -414,29 +414,29 @@ _selected World Heritage Site locales_: Historic Quito (c); Galápagos Islands (
 <p>Ecuador is substantially dependent on its petroleum resources, which accounted for about a third of the country's export earnings in 2017. Remittances from overseas Ecuadorian are also important.</p> <p> </p> <p>In 1999/2000, Ecuador's economy suffered from a banking crisis that lead to some reforms, including adoption of the US dollar as legal tender. Dollarization stabilized the economy, and positive growth returned in most of the years that followed. China has become Ecuador's largest foreign lender since 2008 and now accounts for 77.7% of the Ecuador’s bilateral debt. Various economic policies under the CORREA administration, such as an announcement in 2017 that Ecuador would terminate 13 bilateral investment treaties - including one with the US, generated economic uncertainty and discouraged private investment.</p> <p> </p> <p>Faced with a 2013 trade deficit of $1.1 billion, Ecuador imposed tariff surcharges from 5% to 45% on an estimated 32% of imports. Ecuador’s economy fell into recession in 2015 and remained in recession in 2016. Declining oil prices and exports forced the CORREA administration to cut government oulays. Foreign investment in Ecuador is low as a result of the unstable regulatory environment and weak rule of law.</p> <p> </p> <p>n April of 2017, Lenin MORENO was elected President of Ecuador by popular vote. His immediate challenge was to reengage the private sector to improve cash flow in the country. Ecuador’s economy returned to positive, but sluggish, growth. In early 2018, the MORENO administration held a public referendum on seven economic and political issues in a move counter to CORREA-administration policies, reduce corruption, strengthen democracy, and revive employment and the economy. The referendum resulted in repeal of taxes associated with recovery from the earthquake of 2016, reduced restrictions on metal mining in the Yasuni Intangible Zone - a protected area, and several political reforms.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
-$182.24 billion (2020 est.)<br>
-$197.55 billion (2019 est.)<br>
-$197.53 billion (2018 est.)<br>
+$189.88 billion (2021 est.)<br>
+$182.165 billion (2020 est.)<br>
+$197.549 billion (2019 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
-0.06% (2019 est.)<br>
-1.29% (2018 est.)<br>
-2.37% (2017 est.)<br>
+4.24% (2021 est.)<br>
+-7.79% (2020 est.)<br>
+0.01% (2019 est.)<br>
 
 **Real GDP per capita**<br>
-$10,300 (2020 est.)<br>
+$10,700 (2021 est.)<br>
+$10,400 (2020 est.)<br>
 $11,400 (2019 est.)<br>
-$11,600 (2018 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
 $107.436 billion (2019 est.)<br>
 
 **Inflation rate (consumer prices)**<br>
-0.2% (2019 est.)<br>
--0.2% (2018 est.)<br>
-0.4% (2017 est.)<br>
+0.13% (2021 est.)<br>
+-0.34% (2020 est.)<br>
+0.27% (2019 est.)<br>
 
 **Credit ratings**<br>
 _Fitch rating_: B- (2020)<br>
@@ -464,11 +464,11 @@ sugar cane, bananas, milk, oil palm fruit, maize, rice, plantains, poultry, coco
 petroleum, food processing, textiles, wood products, chemicals<br>
 
 **Industrial production growth rate**<br>
--0.6% (2017 est.)<br>
+0.49% (2021 est.)<br>
 <strong>note:</strong> excludes oil refining<br>
 
 **Labor force**<br>
-8.086 million (2017 est.)<br>
+8.528 million (2021 est.)<br>
 
 **Labor force - by occupation**<br>
 _agriculture_: 26.1%<br>
@@ -476,20 +476,20 @@ _industry_: 18.4%<br>
 _services_: 55.5% (2017 est.)<br>
 
 **Unemployment rate**<br>
-5.71% (2019 est.)<br>
-5.26% (2018 est.)<br>
+6.43% (2021 est.)<br>
+6.11% (2020 est.)<br>
+3.81% (2019 est.)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 9%<br>
-_male_: 6.9%<br>
-_female_: 12.9% (2021 est.)<br>
+_total_: 14.2%<br>
+_male_: 11.4%<br>
+_female_: 18.8% (2021 est.)<br>
 
 **Population below poverty line**<br>
 25% (2019 est.)<br>
 
 **Gini Index coefficient - distribution of family income**<br>
-45.4 (2018 est.)<br>
-48.5 (December 2017)<br>
+47.3 (2020 est.)<br>
 <strong>note:</strong> data are for urban households only<br>
 
 **Household income or consumption by percentage share**<br>
@@ -509,19 +509,20 @@ _expenditures_: 38.08 billion (2017 est.)<br>
 43.2% of GDP (2016 est.)<br>
 
 **Taxes and other revenues**<br>
-32% (of GDP) (2017 est.)<br>
+12.54% (of GDP) (2020 est.)<br>
 
 **Fiscal year**<br>
 calendar year<br>
 
 **Current account balance**<br>
--$53 million (2019 est.)<br>
--$1.328 billion (2018 est.)<br>
+$2.952 billion (2021 est.)<br>
+$2.69 billion (2020 est.)<br>
+-$59.36 million (2019 est.)<br>
 
 **Exports**<br>
-$22.23 billion (2020 est.) note: data are in current year dollars<br>
+$29.325 billion (2021 est.) note: data are in current year dollars<br>
+$22.401 billion (2020 est.) note: data are in current year dollars<br>
 $26.12 billion (2019 est.) note: data are in current year dollars<br>
-$25.38 billion (2018 est.) note: data are in current year dollars<br>
 
 **Exports - partners**<br>
 United States 30%, China 13%, Panama 8%, Chile 7% (2019)<br>
@@ -530,9 +531,9 @@ United States 30%, China 13%, Panama 8%, Chile 7% (2019)<br>
 crude petroleum, crustaceans, bananas, fish, refined petroleum (2019)<br>
 
 **Imports**<br>
-$19.89 billion (2020 est.) note: data are in current year dollars<br>
+$28.567 billion (2021 est.) note: data are in current year dollars<br>
+$19.877 billion (2020 est.) note: data are in current year dollars<br>
 $25.89 billion (2019 est.) note: data are in current year dollars<br>
-$26.29 billion (2018 est.) note: data are in current year dollars<br>
 
 **Imports - partners**<br>
 United States 22%, China 18%, Colombia 9%, Panama 5% (2019)<br>
@@ -541,17 +542,20 @@ United States 22%, China 18%, Colombia 9%, Panama 5% (2019)<br>
 refined petroleum, coal tar oil, cars, packaged medicines, soybean products (2019)<br>
 
 **Reserves of foreign exchange and gold**<br>
-$2.395 billion (31 December 2017 est.)<br>
-$4.259 billion (31 December 2016 est.)<br>
+$7.912 billion (31 December 2021 est.)<br>
+$7.137 billion (31 December 2020 est.)<br>
+$2.939 billion (31 December 2019 est.)<br>
 
 **Debt - external**<br>
 $50.667 billion (2019 est.)<br>
 $43.224 billion (2018 est.)<br>
 
 **Exchange rates**<br>
-25,000 (2020 est.)<br>
-25,000 (2019 est.)<br>
-25,000 (2018 est.)<br>
+1 (2021 est.)<br>
+1 (2020 est.)<br>
+1 (2019 est.)<br>
+1 (2018 est.)<br>
+1 (2017 est.)<br>
 the US dollar became Ecuador's currency in 2001<br>
 
 ## Energy

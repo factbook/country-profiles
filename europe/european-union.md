@@ -160,9 +160,9 @@ _male_: NA<br>
 _female_: NA<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 18.5%<br>
-_male_: 18.1%<br>
-_female_: 19.2% (2021 est.)<br>
+_total_: 19.5%<br>
+_male_: 18.9%<br>
+_female_: 20.4% (2021 est.)<br>
 
 ## Environment
 
@@ -275,29 +275,29 @@ _lyrics/music_: no lyrics/Ludwig VAN BEETHOVEN, arranged by Herbert VON KARAJAN<
 <p>The 27 member states that make up the EU have adopted an internal single market with free movement of goods, services, capital, and labor. The EU, which is also a customs union, aims to bolster Europe's trade position and its political and economic weight in international affairs.</p> <p> </p> <p>Despite great differences in per capita income among member states (from $28,000 to $109,000) and in national attitudes toward issues like inflation, debt, and foreign trade, the EU has achieved a high degree of coordination of monetary and fiscal policies. A common currency – the euro – circulates among 20 of the member states that make up the European Economic and Monetary Union (EMU). Eleven member states introduced the euro as their common currency on 1 January 1999 (Greece did so two years later). Since 2004, 13 states acceded to the EU. Of the 13, Slovenia (2007), Cyprus and Malta (2008), Slovakia (2009), Estonia (2011), Latvia (2014), Lithuania (2015), and Croatia (2023) have adopted the euro; six other member states - excluding Denmark, which has a formal opt-out - are required by EU treaties to adopt the common currency upon meeting fiscal and monetary convergence criteria.</p> <p> </p> <p>The EU economy posted moderate GDP growth for 2014 through 2017, capping five years of sustained growth since the 2008-09 global economic crisis and the ensuing sovereign debt crisis in the euro zone in 2011. However, the bloc’s recovery was uneven. Some EU member states (Czechia, Ireland, Malta, Romania, Sweden, and Spain) recorded strong growth, others (Italy) experienced modest expansion, and Greece finally ended its EU rescue program in August 2018. Overall, the EU’s recovery was buoyed by lower commodities prices and accommodative monetary policy, which lowered interest rates and stimulated demand. The euro zone, which makes up about 70% of the total EU economy, performed well, achieving a growth rate not seen in a decade. In October 2017 the European Central Bank (ECB) announced it would extend its bond-buying program through September 2018, and possibly beyond that date, to keep the euro zone recovery on track. The ECB’s efforts to spur more lending and investment through its asset-buying program, negative interest rates, and long-term loan refinancing programs have not yet raised inflation in line with the ECB’s statutory target of just under 2%.</p> <p> </p> <p>Despite its performance, high unemployment in some member states, high levels of public and private debt, muted productivity, an incomplete single market in services, and an aging population remain sources of potential drag on the EU’s future growth. Moreover, the EU economy remains vulnerable to a slowdown of global trade and bouts of political and financial turmoil. In June 2016, the UK voted to withdraw from the EU, the first member country ever to attempt to secede. Continued uncertainty about the implications of the UK’s exit from the EU (concluded January 2020) could hurt consumer and investor confidence and dampen EU growth, particularly if trade and cross-border investment significantly declines. Political disagreements between EU member states on reforms to fiscal and economic policy also may impair the EU’s ability to bolster its crisis-prevention and resolution mechanisms. International investors’ fears of a broad dissolution of the single currency area have largely dissipated, but these concerns could resurface if elected leaders implement policies that contravene euro-zone budget or banking rules. State interventions in ailing banks, including rescue of banks in Italy and resolution of banks in Spain, have eased financial vulnerabilities in the European banking sector even though some banks are struggling with low profitability and a large stock of bad loans, fragilities that could precipitate localized crises. Externally, the EU has continued to pursue comprehensive free trade agreements to expand EU external market share, particularly with Asian countries; EU and Japanese leaders reached a political-level agreement on a free trade agreement in July 2017, and agreement with Mexico in April 2018 on updates to an existing free trade agreement.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
-$19.89 trillion (2019 est.)<br>
-$19.55 trillion (2018 est.)<br>
-$19.12 trillion (2017 est.)<br>
+$19.739 trillion (2021 est.)<br>
+$18.716 trillion (2020 est.)<br>
+$19.847 trillion (2019 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
-2.3% (2017 est.)<br>
-2% (2016 est.)<br>
-2.3% (2015 est.)<br>
+5.39% (2021 est.)<br>
+-5.68% (2020 est.)<br>
+1.81% (2019 est.)<br>
 
 **Real GDP per capita**<br>
-$44,436 (2019 est.)<br>
-$43,761 (2018 est.)<br>
-$42,848 (2017 est.)<br>
+$44,100 (2021 est.)<br>
+$41,800 (2020 est.)<br>
+$44,400 (2019 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
 $17.11 trillion (2017 est.)<br>
 
 **Inflation rate (consumer prices)**<br>
-1.1% (2019 est.)<br>
-1.7% (2018 est.)<br>
-1.5% (2017 est.)<br>
+2.55% (2021 est.)<br>
+0.5% (2020 est.)<br>
+1.63% (2019 est.)<br>
 
 **Credit ratings**<br>
 _Fitch rating_: AAA (2010)<br>
@@ -325,10 +325,10 @@ wheat, barley, oilseeds, sugar beets, wine, grapes, dairy products, cattle, shee
 among the world's largest and most technologically advanced regions, the EU industrial base includes: ferrous and non-ferrous metal production and processing, metal products, petroleum, coal, cement, chemicals, pharmaceuticals, aerospace, rail transportation equipment, passenger and commercial vehicles, construction equipment, industrial equipment, shipbuilding, electrical power equipment, machine tools and automated manufacturing systems, electronics and telecommunications equipment, fishing, food and beverages, furniture, paper, textiles<br>
 
 **Industrial production growth rate**<br>
-3.5% (2017 est.)<br>
+6.43% (2021 est.)<br>
 
 **Labor force**<br>
-238.9 million (2016 est.)<br>
+217.042 million (2021 est.)<br>
 
 **Labor force - by occupation**<br>
 _agriculture_: 5%<br>
@@ -336,13 +336,14 @@ _industry_: 21.9%<br>
 _services_: 73.1% (2014 est.)<br>
 
 **Unemployment rate**<br>
-8.6% (2016 est.)<br>
-9.4% (2015 est.)<br>
+7.05% (2021 est.)<br>
+7.05% (2020 est.)<br>
+6.69% (2019 est.)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 18.5%<br>
-_male_: 18.1%<br>
-_female_: 19.2% (2021 est.)<br>
+_total_: 19.5%<br>
+_male_: 18.9%<br>
+_female_: 20.4% (2021 est.)<br>
 
 **Population below poverty line**<br>
 9.8% (2013 est.)<br>
@@ -350,7 +351,6 @@ _female_: 19.2% (2021 est.)<br>
 
 **Gini Index coefficient - distribution of family income**<br>
 30.8 (2016 est.)<br>
-31 (2015 est.)<br>
 
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 2.8%<br>
@@ -364,7 +364,7 @@ _highest 10%_: 23.8% (2016 est.)<br>
 85.5% of GDP (2013)<br>
 
 **Taxes and other revenues**<br>
-45.2% (of GDP) (2014)<br>
+19.41% (of GDP) (2020 est.)<br>
 
 **Fiscal year**<br>
 NA<br>
@@ -374,9 +374,9 @@ $404.9 billion (2017 est.)<br>
 $359.7 billion (2016 est.)<br>
 
 **Exports**<br>
-$7.102 trillion (2019 est.)<br>
-$6.93 trillion (2018 est.)<br>
-$6.691 trillion (2017 est.)<br>
+$8.705 trillion (2021 est.)<br>
+$7.175 trillion (2020 est.)<br>
+$7.765 trillion (2019 est.)<br>
 <strong>note:</strong> external exports, excluding intra-EU trade<br>
 
 **Exports - partners**<br>
@@ -386,9 +386,9 @@ U.S. 20.7%, China 9.6%, Switzerland 8.1%, Turkey 4.4%, Russia 4.1% (2016 est.)<b
 machinery, motor vehicles, pharmaceuticals and other chemicals, fuels, aircraft, plastics, iron and steel, wood pulp and paper products, alcoholic beverages, furniture<br>
 
 **Imports**<br>
-$6.65 trillion (2019 est.)<br>
-$6.4 trillion (2018 est.)<br>
-$6.177 trillion (2017 est.)<br>
+$8.037 trillion (2021 est.)<br>
+$6.6 trillion (2020 est.)<br>
+$7.18 trillion (2019 est.)<br>
 <strong>note:</strong> external imports, excluding intra-EU trade<br>
 
 **Imports - partners**<br>

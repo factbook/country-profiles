@@ -174,7 +174,7 @@ _female_: 78.69 years (2022 est.)<br>
 1.95 children born/woman (2022 est.)<br>
 
 **Gross reproduction rate**<br>
-0.95 (2022 est.)<br>
+0.95 (2023 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 81% (2015/16)<br>
@@ -228,11 +228,11 @@ _total_: 8.5% (2020 est.)<br>
 _male_: 12.4% (2020 est.)<br>
 _female_: 4.6% (2020 est.)<br>
 
-**Currently married women (ages 15-49)**<br>
-55% (2022 est.)<br>
-
 **Children under the age of 5 years underweight**<br>
 3.7% (2015/16)<br>
+
+**Currently married women (ages 15-49)**<br>
+55.3% (2023 est.)<br>
 
 **Education expenditures**<br>
 4.9% of GDP (2020 est.)<br>
@@ -249,9 +249,9 @@ _male_: 14 years<br>
 _female_: 15 years (2020)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 24.6%<br>
-_male_: 19.4%<br>
-_female_: 31.7% (2021 est.)<br>
+_total_: 26.4%<br>
+_male_: 21.9%<br>
+_female_: 32.8% (2021 est.)<br>
 
 ## Environment
 
@@ -425,29 +425,29 @@ _selected World Heritage Site locales_: Chiribiquete National Park (m); Coffee C
 <p>Colombia heavily depends on energy and mining exports, making it vulnerable to fluctuations in commodity prices. Colombia is Latin America’s fourth largest oil producer and the world’s fourth largest coal producer, third largest coffee exporter, and second largest cut flowers exporter. Colombia’s economic development is hampered by inadequate infrastructure, poverty, narcotrafficking, and an uncertain security situation, in addition to dependence on primary commodities (goods that have little value-added from processing or labor inputs).</p> <p> </p> <p>Colombia’s economy slowed in 2017 because of falling world market prices for oil and lower domestic oil production due to insurgent attacks on pipeline infrastructure. Although real GDP growth averaged 4.7% during the past decade, it fell to an estimated 1.8% in 2017. Declining oil prices also have contributed to reduced government revenues. In 2016, oil revenue dropped below 4% of the federal budget and likely remained below 4% in 2017. A Western credit rating agency in December 2017 downgraded Colombia’s sovereign credit rating to BBB-, because of weaker-than-expected growth and increasing external debt. Colombia has struggled to address local referendums against foreign investment, which have slowed its expansion, especially in the oil and mining sectors. Colombia’s FDI declined by 3% to $10.2 billion between January and September 2017.</p> <p> </p> <p>Colombia has signed or is negotiating Free Trade Agreements (FTA) with more than a dozen countries; the US-Colombia FTA went into effect in May 2012. Colombia is a founding member of the Pacific Alliance—a regional trade block formed in 2012 by Chile, Colombia, Mexico, and Peru to promote regional trade and economic integration. The Colombian government took steps in 2017 to address several bilateral trade irritants with the US, including those on truck scrappage, distilled spirits, pharmaceuticals, ethanol imports, and labor rights. Colombia hopes to accede to the Organization for Economic Cooperation and Development.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
-$683.94 billion (2020 est.)<br>
-$734.22 billion (2019 est.)<br>
-$710.89 billion (2018 est.)<br>
+$754.645 billion (2021 est.)<br>
+$681.844 billion (2020 est.)<br>
+$733.546 billion (2019 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
-3.26% (2019 est.)<br>
-2.51% (2018 est.)<br>
-1.36% (2017 est.)<br>
+10.68% (2021 est.)<br>
+-7.05% (2020 est.)<br>
+3.19% (2019 est.)<br>
 
 **Real GDP per capita**<br>
+$14,600 (2021 est.)<br>
 $13,400 (2020 est.)<br>
 $14,600 (2019 est.)<br>
-$14,300 (2018 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
 $323.255 billion (2019 est.)<br>
 
 **Inflation rate (consumer prices)**<br>
-3.5% (2019 est.)<br>
-3.2% (2018 est.)<br>
-4.3% (2017 est.)<br>
+3.5% (2021 est.)<br>
+2.53% (2020 est.)<br>
+3.52% (2019 est.)<br>
 
 **Credit ratings**<br>
 _Fitch rating_: BBB- (2020)<br>
@@ -475,10 +475,10 @@ sugar cane, milk, oil palm fruit, potatoes, rice, bananas, cassava leaves, plant
 textiles, food processing, oil, clothing and footwear, beverages, chemicals, cement; gold, coal, emeralds<br>
 
 **Industrial production growth rate**<br>
--2.2% (2017 est.)<br>
+9.65% (2021 est.)<br>
 
 **Labor force**<br>
-19.309 million (2020 est.)<br>
+26.137 million (2021 est.)<br>
 
 **Labor force - by occupation**<br>
 _agriculture_: 17%<br>
@@ -486,20 +486,20 @@ _industry_: 21%<br>
 _services_: 62% (2011 est.)<br>
 
 **Unemployment rate**<br>
-10.5% (2019 est.)<br>
-9.68% (2018 est.)<br>
+14.34% (2021 est.)<br>
+15.04% (2020 est.)<br>
+9.96% (2019 est.)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 24.6%<br>
-_male_: 19.4%<br>
-_female_: 31.7% (2021 est.)<br>
+_total_: 26.4%<br>
+_male_: 21.9%<br>
+_female_: 32.8% (2021 est.)<br>
 
 **Population below poverty line**<br>
 35.7% (2019 est.)<br>
 
 **Gini Index coefficient - distribution of family income**<br>
-50.4 (2018 est.)<br>
-53.5 (2014)<br>
+54.2 (2020 est.)<br>
 
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 1.2%<br>
@@ -513,24 +513,26 @@ _expenditures_: 91.73 billion (2017 est.)<br>
 -2.7% (of GDP) (2017 est.)<br>
 
 **Public debt**<br>
-49.4% of GDP (2017 est.)<br>
-49.8% of GDP (2016 est.)<br>
+90.4% of GDP (2020 est.)<br>
+72.7% of GDP (2019 est.)<br>
+71.65% of GDP (2018 est.)<br>
 <strong>note:</strong> data cover general government debt, and includes debt instruments issued (or owned) by government entities other than the treasury; the data include treasury debt held by foreign entities; the data include debt issued by subnational entities<br>
 
 **Taxes and other revenues**<br>
-26.5% (of GDP) (2017 est.)<br>
+14.23% (of GDP) (2020 est.)<br>
 
 **Fiscal year**<br>
 calendar year<br>
 
 **Current account balance**<br>
--$13.748 billion (2019 est.)<br>
--$13.118 billion (2018 est.)<br>
+-$17.621 billion (2021 est.)<br>
+-$9.347 billion (2020 est.)<br>
+-$14.808 billion (2019 est.)<br>
 
 **Exports**<br>
-$39.14 billion (2020 est.)<br>
-$52.96 billion (2019 est.)<br>
-$55.06 billion (2018 est.)<br>
+$50.793 billion (2021 est.)<br>
+$38.224 billion (2020 est.)<br>
+$51.324 billion (2019 est.)<br>
 <strong>note:</strong> Data are in current year dollars and do not include illicit exports or re-exports.<br>
 
 **Exports - partners**<br>
@@ -540,9 +542,9 @@ United States 31%, China 11%, Panama 6%, Ecuador 5% (2019)<br>
 crude petroleum, coal, refined petroleum, coffee, gold (2019)<br>
 
 **Imports**<br>
-$51.56 billion (2020 est.) note: data are in current year dollars<br>
-$65.83 billion (2019 est.) note: data are in current year dollars<br>
-$64.56 billion (2018 est.) note: data are in current year dollars<br>
+$70.84 billion (2021 est.) note: data are in current year dollars<br>
+$51.312 billion (2020 est.) note: data are in current year dollars<br>
+$65.47 billion (2019 est.) note: data are in current year dollars<br>
 
 **Imports - partners**<br>
 United States 27%, China 20%, Mexico 7%, Brazil 6% (2019)<br>
@@ -551,8 +553,9 @@ United States 27%, China 20%, Mexico 7%, Brazil 6% (2019)<br>
 refined petroleum, cars, broadcasting equipment, packaged medicines, corn (2019)<br>
 
 **Reserves of foreign exchange and gold**<br>
-$47.13 billion (31 December 2017 est.)<br>
-$46.18 billion (31 December 2016 est.)<br>
+$58.019 billion (31 December 2021 est.)<br>
+$58.499 billion (31 December 2020 est.)<br>
+$52.653 billion (31 December 2019 est.)<br>
 
 **Debt - external**<br>
 $135.644 billion (2019 est.)<br>
@@ -560,11 +563,11 @@ $128.238 billion (2018 est.)<br>
 
 **Exchange rates**<br>
 _Currency_: Colombian pesos (COP) per US dollar -<br>
-3,457.93 (2020 est.)<br>
-3,416.5 (2019 est.)<br>
-3,147.43 (2018 est.)<br>
-2,001 (2014 est.)<br>
-2,001.1 (2013 est.)<br>
+3,743.59 (2021 est.)<br>
+3,694.854 (2020 est.)<br>
+3,280.832 (2019 est.)<br>
+2,955.704 (2018 est.)<br>
+2,951.327 (2017 est.)<br>
 
 ## Energy
 

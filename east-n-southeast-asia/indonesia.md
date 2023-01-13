@@ -170,7 +170,7 @@ _female_: 75.4 years (2022 est.)<br>
 2.01 children born/woman (2022 est.)<br>
 
 **Gross reproduction rate**<br>
-0.98 (2022 est.)<br>
+0.97 (2023 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 55.5% (2018)<br>
@@ -224,11 +224,11 @@ _total_: 37.6% (2020 est.)<br>
 _male_: 71.4% (2020 est.)<br>
 _female_: 3.7% (2020 est.)<br>
 
-**Currently married women (ages 15-49)**<br>
-70.2% (2022 est.)<br>
-
 **Children under the age of 5 years underweight**<br>
 17.7% (2018)<br>
+
+**Currently married women (ages 15-49)**<br>
+70% (2023 est.)<br>
 
 **Child marriage**<br>
 _women married by age 15_: 2%<br>
@@ -249,9 +249,9 @@ _male_: 14 years<br>
 _female_: 14 years (2018)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 13.9%<br>
-_male_: 14.7%<br>
-_female_: 12.6% (2021 est.)<br>
+_total_: 16.1%<br>
+_male_: 16.3%<br>
+_female_: 15.7% (2021 est.)<br>
 
 **People - note**<br>
 Indonesia is the fourth most populous nation in the World after China, India, and the United States; more than half of the Indonesian population - roughly 150 million people or 55% - live on the island of Java (about the size of California) making it the most crowded island on earth<br>
@@ -428,29 +428,29 @@ _selected World Heritage Site locales_: Borobudur Temple Compounds (c); Komodo N
 <p>Indonesia, the largest economy in Southeast Asia, has seen a slowdown in growth since 2012, mostly due to the end of the commodities export boom. During the global financial crisis, Indonesia outperformed its regional neighbors and joined China and India as the only G20 members posting growth. Indonesia’s annual budget deficit is capped at 3% of GDP, and the Government of Indonesia lowered its debt-to-GDP ratio from a peak of 100% shortly after the Asian financial crisis in 1999 to 34% today. In May 2017 Standard &amp; Poor’s became the last major ratings agency to upgrade Indonesia’s sovereign credit rating to investment grade.</p> <p> </p> <p>Poverty and unemployment, inadequate infrastructure, corruption, a complex regulatory environment, and unequal resource distribution among its regions are still part of Indonesia’s economic landscape. President Joko WIDODO - elected in July 2014 – seeks to develop Indonesia’s maritime resources and pursue other infrastructure development, including significantly increasing its electrical power generation capacity. Fuel subsidies were significantly reduced in early 2015, a move which has helped the government redirect its spending to development priorities. Indonesia, with the nine other ASEAN members, will continue to move towards participation in the ASEAN Economic Community, though full implementation of economic integration has not yet materialized.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
-$3,130,470,000,000 (2020 est.)<br>
-$3,196,620,000,000 (2019 est.)<br>
-$3,043,880,000,000 (2018 est.)<br>
+$3.246 trillion (2021 est.)<br>
+$3.131 trillion (2020 est.)<br>
+$3.197 trillion (2019 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
-5.03% (2019 est.)<br>
-5.17% (2018 est.)<br>
-5.07% (2017 est.)<br>
+3.69% (2021 est.)<br>
+-2.07% (2020 est.)<br>
+5.02% (2019 est.)<br>
 
 **Real GDP per capita**<br>
-$11,400 (2020 est.)<br>
-$11,800 (2019 est.)<br>
-$11,400 (2018 est.)<br>
+$11,900 (2021 est.)<br>
+$11,500 (2020 est.)<br>
+$11,900 (2019 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
 $1,119,720,000,000 (2019 est.)<br>
 
 **Inflation rate (consumer prices)**<br>
-2.8% (2019 est.)<br>
-3.2% (2018 est.)<br>
-3.8% (2017 est.)<br>
+1.56% (2021 est.)<br>
+1.92% (2020 est.)<br>
+3.03% (2019 est.)<br>
 
 **Credit ratings**<br>
 _Fitch rating_: BBB (2017)<br>
@@ -478,10 +478,10 @@ oil palm fruit, rice, maize, sugar cane, coconuts, cassava, bananas, eggs, poult
 petroleum and natural gas, textiles, automotive, electrical appliances, apparel, footwear, mining, cement, medical instruments and appliances, handicrafts, chemical fertilizers, plywood, rubber, processed food, jewelry, and tourism<br>
 
 **Industrial production growth rate**<br>
-4.1% (2017 est.)<br>
+3.42% (2021 est.)<br>
 
 **Labor force**<br>
-129.366 million (2019 est.)<br>
+138.119 million (2021 est.)<br>
 
 **Labor force - by occupation**<br>
 _agriculture_: 32%<br>
@@ -489,20 +489,20 @@ _industry_: 21%<br>
 _services_: 47% (2016 est.)<br>
 
 **Unemployment rate**<br>
-5.31% (2018 est.)<br>
-5.4% (2017 est.)<br>
+4.41% (2021 est.)<br>
+4.28% (2020 est.)<br>
+3.62% (2019 est.)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 13.9%<br>
-_male_: 14.7%<br>
-_female_: 12.6% (2021 est.)<br>
+_total_: 16.1%<br>
+_male_: 16.3%<br>
+_female_: 15.7% (2021 est.)<br>
 
 **Population below poverty line**<br>
 9.4% (2019 est.)<br>
 
 **Gini Index coefficient - distribution of family income**<br>
-37.8 (2018 est.)<br>
-39.4 (2005)<br>
+37.9 (2021 est.)<br>
 
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 3.4%<br>
@@ -516,23 +516,25 @@ _expenditures_: 159.6 billion (2017 est.)<br>
 -2.7% (of GDP) (2017 est.)<br>
 
 **Public debt**<br>
-28.8% of GDP (2017 est.)<br>
-28.3% of GDP (2016 est.)<br>
+42.92% of GDP (2020 est.)<br>
+33.73% of GDP (2019 est.)<br>
+33.14% of GDP (2018 est.)<br>
 
 **Taxes and other revenues**<br>
-13% (of GDP) (2017 est.)<br>
+8.31% (of GDP) (2020 est.)<br>
 
 **Fiscal year**<br>
 calendar year<br>
 
 **Current account balance**<br>
--$30.359 billion (2019 est.)<br>
--$30.633 billion (2018 est.)<br>
+$3.459 billion (2021 est.)<br>
+-$4.433 billion (2020 est.)<br>
+-$30.279 billion (2019 est.)<br>
 
 **Exports**<br>
-$178.26 billion (2020 est.) note: data are in current year dollars<br>
-$200.1 billion (2019 est.) note: data are in current year dollars<br>
-$211.93 billion (2018 est.) note: data are in current year dollars<br>
+$246.87 billion (2021 est.) note: data are in current year dollars<br>
+$178.418 billion (2020 est.) note: data are in current year dollars<br>
+$200.097 billion (2019 est.) note: data are in current year dollars<br>
 
 **Exports - partners**<br>
 China 15%, United States 10%, Japan 9%, Singapore 8%, India 7%, Malaysia 5% (2019)<br>
@@ -541,9 +543,9 @@ China 15%, United States 10%, Japan 9%, Singapore 8%, India 7%, Malaysia 5% (201
 coal, palm oil, natural gas, cars, gold (2019)<br>
 
 **Imports**<br>
-$159.64 billion (2020 est.) note: data are in current year dollars<br>
+$217.715 billion (2021 est.) note: data are in current year dollars<br>
+$159.872 billion (2020 est.) note: data are in current year dollars<br>
 $204.23 billion (2019 est.) note: data are in current year dollars<br>
-$218.65 billion (2018 est.) note: data are in current year dollars<br>
 
 **Imports - partners**<br>
 China 27%, Singapore 12%, Japan 8%, Thailand 5%, United States 5%, South Korea 5%, Malaysia 5% (2019)<br>
@@ -552,7 +554,9 @@ China 27%, Singapore 12%, Japan 8%, Thailand 5%, United States 5%, South Korea 5
 refined petroleum, crude petroleum, vehicle parts, telephones, natural gas (2019)<br>
 
 **Reserves of foreign exchange and gold**<br>
-$130.2 billion (31 December 2017 est.)<br>
+$144.908 billion (31 December 2021 est.)<br>
+$135.916 billion (31 December 2020 est.)<br>
+$129.186 billion (31 December 2019 est.)<br>
 
 **Debt - external**<br>
 $393.252 billion (2019 est.)<br>
@@ -560,11 +564,11 @@ $360.945 billion (2018 est.)<br>
 
 **Exchange rates**<br>
 _Currency_: Indonesian rupiah (IDR) per US dollar -<br>
-14,110 (2020 est.)<br>
-14,015 (2019 est.)<br>
-14,470 (2018 est.)<br>
-13,389.4 (2014 est.)<br>
-11,865.2 (2013 est.)<br>
+14,308.144 (2021 est.)<br>
+14,582.203 (2020 est.)<br>
+14,147.671 (2019 est.)<br>
+14,236.939 (2018 est.)<br>
+13,380.834 (2017 est.)<br>
 
 ## Energy
 
@@ -759,7 +763,7 @@ Islamic State of Iraq and ash-Sham (aka Jemaah Anshorut Daulah); Jemaah Islamiya
 <p>Indonesia has a stated foreign policy objective of establishing stable fixed land and maritime boundaries with all of its neighbors; three stretches of land borders with Timor-Leste have yet to be delimited, two of which are in the Oecussi exclave area, and no maritime or Exclusive Economic Zone (EEZ) boundaries have been established between the countries; all borders between Indonesia and Australia have been agreed upon bilaterally, but a 1997 treaty that would settle the last of their maritime and EEZ boundary has yet to be ratified by Indonesia's legislature; Indonesian groups challenge Australia's claim to Ashmore Reef; Australia has closed parts of the Ashmore and Cartier Reserve to Indonesian traditional fishing and placed restrictions on certain catches; land and maritime negotiations with Malaysia are ongoing, and disputed areas include the controversial Tanjung Datu and Camar Wulan border area in Borneo and the maritime boundary in the Ambalat oil block in the Celebes Sea; Indonesia and Singapore continue to work on finalizing their 1973 maritime boundary agreement by defining unresolved areas north of Indonesia's Batam Island; Indonesian secessionists, squatters, and illegal migrants create repatriation problems for Papua New Guinea; maritime delimitation talks continue with Palau; EEZ negotiations with Vietnam are ongoing, and the two countries in Fall 2011 agreed to work together to reduce illegal fishing along their maritime boundary</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 5,792 (Afghanistan) (mid-year 2021)<br>
+_refugees (country of origin)_: 5,684 (Afghanistan) (mid-year 2022)<br>
 _IDPs_: 73,000 (inter-communal, inter-faith, and separatist violence between 1998 and 2004 in Aceh and Papua; religious attacks and land conflicts in 2007 and 2013; most IDPs in Aceh, Maluku, East Nusa Tengarra) (2021)<br>
 _stateless persons_: 668 (mid-year 2021)<br>
 

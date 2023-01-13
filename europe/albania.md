@@ -167,7 +167,7 @@ _female_: 82.33 years (2022 est.)<br>
 1.54 children born/woman (2022 est.)<br>
 
 **Gross reproduction rate**<br>
-0.74 (2022 est.)<br>
+0.75 (2023 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 46% (2017/18)<br>
@@ -215,11 +215,11 @@ _total_: 22.4% (2020 est.)<br>
 _male_: 38.8% (2020 est.)<br>
 _female_: 6% (2020 est.)<br>
 
-**Currently married women (ages 15-49)**<br>
-66.8% (2022 est.)<br>
-
 **Children under the age of 5 years underweight**<br>
 1.5% (2017/18)<br>
+
+**Currently married women (ages 15-49)**<br>
+67.2% (2023 est.)<br>
 
 **Child marriage**<br>
 _women married by age 15_: 1.4%<br>
@@ -241,9 +241,9 @@ _male_: 13 years<br>
 _female_: 15 years (2020)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 27%<br>
-_male_: 27.8%<br>
-_female_: 25.9% (2019 est.)<br>
+_total_: 27.8%<br>
+_male_: 28%<br>
+_female_: 27.6% (2021 est.)<br>
 
 ## Environment
 
@@ -406,29 +406,29 @@ _selected World Heritage Site locales_: Butrint (c); Historic Berat and Gjirokas
 <p>Albania, a formerly closed, centrally planned state, is a developing country with a modern open-market economy. Albania managed to weather the first waves of the global financial crisis but, the negative effects of the crisis caused a significant economic slowdown. Since 2014, Albania’s economy has steadily improved and economic growth reached 3.8% in 2017. However, close trade, remittance, and banking sector ties with Greece and Italy make Albania vulnerable to spillover effects of possible debt crises and weak growth in the euro zone.</p> <p>Remittances, a significant catalyst for economic growth, declined from 12-15% of GDP before the 2008 financial crisis to 5.8% of GDP in 2015, mostly from Albanians residing in Greece and Italy. The agricultural sector, which accounts for more than 40% of employment but less than one quarter of GDP, is limited primarily to small family operations and subsistence farming, because of a lack of modern equipment, unclear property rights, and the prevalence of small, inefficient plots of land. Complex tax codes and licensing requirements, a weak judicial system, endemic corruption, poor enforcement of contracts and property issues, and antiquated infrastructure contribute to Albania's poor business environment making attracting foreign investment difficult. Since 2015, Albania has launched an ambitious program to increase tax compliance and bring more businesses into the formal economy. In July 2016, Albania passed constitutional amendments reforming the judicial system in order to strengthen the rule of law and to reduce deeply entrenched corruption.</p> <p>Albania’s electricity supply is uneven despite upgraded transmission capacities with neighboring countries. However, the government has recently taken steps to stem non-technical losses and has begun to upgrade the distribution grid. Better enforcement of electricity contracts has improved the financial viability of the sector, decreasing its reliance on budget support. Also, with help from international donors, the government is taking steps to improve the poor road and rail networks, a long standing barrier to sustained economic growth.</p> <p>Inward foreign direct investment has increased significantly in recent years as the government has embarked on an ambitious program to improve the business climate through fiscal and legislative reforms. The government is focused on the simplification of licensing requirements and tax codes, and it entered into a new arrangement with the IMF for additional financial and technical support. Albania’s three-year IMF program, an extended fund facility arrangement, was successfully concluded in February 2017. The Albanian Government has strengthened tax collection amid moderate public wage and pension increases in an effort to reduce its budget deficit. The country continues to face high public debt, exceeding its former statutory limit of 60% of GDP in 2013 and reaching 72% in 2016.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
-$37.73 billion (2020 est.)<br>
-$39.02 billion (2019 est.)<br>
-$38.19 billion (2018 est.)<br>
+$40.822 billion (2021 est.)<br>
+$37.619 billion (2020 est.)<br>
+$38.976 billion (2019 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
-2.24% (2019 est.)<br>
-4.07% (2018 est.)<br>
-3.8% (2017 est.)<br>
+8.52% (2021 est.)<br>
+-3.48% (2020 est.)<br>
+2.09% (2019 est.)<br>
 
 **Real GDP per capita**<br>
+$14,500 (2021 est.)<br>
 $13,300 (2020 est.)<br>
 $13,700 (2019 est.)<br>
-$13,300 (2018 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
 $15.273 billion (2019 est.)<br>
 
 **Inflation rate (consumer prices)**<br>
-1.4% (2019 est.)<br>
-2% (2018 est.)<br>
-1.9% (2017 est.)<br>
+2.04% (2021 est.)<br>
+1.62% (2020 est.)<br>
+1.41% (2019 est.)<br>
 
 **Credit ratings**<br>
 _Moody's rating_: B1 (2007)<br>
@@ -455,10 +455,10 @@ milk, maize, tomatoes, potatoes, watermelons, wheat, grapes, cucumbers, onions, 
 food; footwear, apparel and clothing; lumber, oil, cement, chemicals, mining, basic metals, hydropower<br>
 
 **Industrial production growth rate**<br>
-6.8% (2017 est.)<br>
+16% (2021 est.)<br>
 
 **Labor force**<br>
-1.104 million (2020 est.)<br>
+1.378 million (2021 est.)<br>
 
 **Labor force - by occupation**<br>
 _agriculture_: 41.4%<br>
@@ -466,21 +466,21 @@ _industry_: 18.3%<br>
 _services_: 40.3% (2017 est.)<br>
 
 **Unemployment rate**<br>
-5.83% (2019 est.)<br>
-6.32% (2018 est.)<br>
+11.82% (2021 est.)<br>
+13.33% (2020 est.)<br>
+11.47% (2019 est.)<br>
 <strong>note:</strong> these official rates may not include those working at near-subsistence farming<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 27%<br>
-_male_: 27.8%<br>
-_female_: 25.9% (2019 est.)<br>
+_total_: 27.8%<br>
+_male_: 28%<br>
+_female_: 27.6% (2021 est.)<br>
 
 **Population below poverty line**<br>
 14.3% (2012 est.)<br>
 
 **Gini Index coefficient - distribution of family income**<br>
-33.2 (2017 est.)<br>
-30 (2008 est.)<br>
+30.8 (2019 est.)<br>
 
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 4.1%<br>
@@ -494,23 +494,25 @@ _expenditures_: 3.874 billion (2017 est.)<br>
 -2% (of GDP) (2017 est.)<br>
 
 **Public debt**<br>
-71.8% of GDP (2017 est.)<br>
-73.2% of GDP (2016 est.)<br>
+84.06% of GDP (2020 est.)<br>
+75.7% of GDP (2019 est.)<br>
+64.57% of GDP (2018 est.)<br>
 
 **Taxes and other revenues**<br>
-27.6% (of GDP) (2017 est.)<br>
+17.02% (of GDP) (2020 est.)<br>
 
 **Fiscal year**<br>
 calendar year<br>
 
 **Current account balance**<br>
--$908 million (2017 est.)<br>
--$899 million (2016 est.)<br>
+-$1.37 billion (2021 est.)<br>
+-$1.315 billion (2020 est.)<br>
+-$1.219 billion (2019 est.)<br>
 
 **Exports**<br>
-$3.47 billion (2020 est.)<br>
-$4.82 billion (2019 est.)<br>
-$4.78 billion (2018 est.)<br>
+$5.612 billion (2021 est.)<br>
+$3.461 billion (2020 est.)<br>
+$4.822 billion (2019 est.)<br>
 <strong>note:</strong> Data are in current year dollars and do not include illicit exports or re-exports.<br>
 
 **Exports - partners**<br>
@@ -520,9 +522,9 @@ Italy 45%, Spain 8%, Germany 6%, Greece 5%, France 4%, China 4% (2019)<br>
 leather footwear and parts, crude petroleum, iron alloys, clothing, electricity, perfumes (2019)<br>
 
 **Imports**<br>
-$5.67 billion (2020 est.) note: data are in current year dollars<br>
-$6.93 billion (2019 est.) note: data are in current year dollars<br>
-$6.85 billion (2018 est.) note: data are in current year dollars<br>
+$8.004 billion (2021 est.) note: data are in current year dollars<br>
+$5.671 billion (2020 est.) note: data are in current year dollars<br>
+$6.926 billion (2019 est.) note: data are in current year dollars<br>
 
 **Imports - partners**<br>
 Italy 28%, Greece 12%, China 11%, Turkey 9%, Germany 5% (2019)<br>
@@ -531,8 +533,9 @@ Italy 28%, Greece 12%, China 11%, Turkey 9%, Germany 5% (2019)<br>
 refined petroleum, cars, tanned hides, packaged medical supplies, footwear parts (2019)<br>
 
 **Reserves of foreign exchange and gold**<br>
-$3.59 billion (31 December 2017 est.)<br>
-$3.109 billion (31 December 2016 est.)<br>
+$5.635 billion (31 December 2021 est.)<br>
+$4.817 billion (31 December 2020 est.)<br>
+$3.764 billion (31 December 2019 est.)<br>
 
 **Debt - external**<br>
 $9.311 billion (2019 est.)<br>
@@ -540,11 +543,11 @@ $9.547 billion (2018 est.)<br>
 
 **Exchange rates**<br>
 _Currency_: leke (ALL) per US dollar -<br>
-102.43 (2020 est.)<br>
-111.36 (2019 est.)<br>
-108.57 (2018 est.)<br>
-125.96 (2014 est.)<br>
-105.48 (2013 est.)<br>
+103.52 (2021 est.)<br>
+108.65 (2020 est.)<br>
+109.851 (2019 est.)<br>
+107.989 (2018 est.)<br>
+119.1 (2017 est.)<br>
 
 ## Energy
 
@@ -659,8 +662,8 @@ _1,524 to 2,437 m_: 1 (2021)<br>
 498 km gas (a majority of the network is in disrepair and parts of it are missing), 249 km oil (2015)<br>
 
 **Railways**<br>
-_total_: 677 km (2015) (447 km of major railway lines and 230 km of secondary lines)<br>
-_standard gauge_: 677 km (2015) 1.435-m gauge<br>
+_total_: 424 km (2017)<br>
+2021-All the trains in the country suspended<br>
 
 **Roadways**<br>
 _total_: 3,945 km (2018)<br>

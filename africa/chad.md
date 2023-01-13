@@ -171,7 +171,7 @@ _female_: 61.06 years (2022 est.)<br>
 5.46 children born/woman (2022 est.)<br>
 
 **Gross reproduction rate**<br>
-2.68 (2022 est.)<br>
+2.62 (2023 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 8.1% (2019)<br>
@@ -225,11 +225,11 @@ _total_: 8.3% (2020 est.)<br>
 _male_: 13.8% (2020 est.)<br>
 _female_: 2.7% (2020 est.)<br>
 
-**Currently married women (ages 15-49)**<br>
-71.1% (2022 est.)<br>
-
 **Children under the age of 5 years underweight**<br>
 29.2% (2019)<br>
+
+**Currently married women (ages 15-49)**<br>
+70.6% (2023 est.)<br>
 
 **Child marriage**<br>
 _women married by age 15_: 24.2%<br>
@@ -251,9 +251,9 @@ _male_: 9 years<br>
 _female_: 6 years (2015)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 1.5%<br>
-_male_: 2.4%<br>
-_female_: 0.7% (2018)<br>
+_total_: 2.4%<br>
+_male_: 3.3%<br>
+_female_: 1.4% (2021 est.)<br>
 
 ## Environment
 
@@ -431,29 +431,29 @@ _selected World Heritage Site locales_: Lakes of Ounianga (n); Ennedi Massif: Na
 <p>Chad’s landlocked location results in high transportation costs for imported goods and dependence on neighboring countries. Oil and agriculture are mainstays of Chad’s economy. Oil provides about 60% of export revenues, while cotton, cattle, livestock, and gum arabic provide the bulk of Chad's non-oil export earnings. The services sector contributes less than one-third of GDP and has attracted foreign investment mostly through telecommunications and banking.</p> <p> </p> <p>Nearly all of Chad’s fuel is provided by one domestic refinery, and unanticipated shutdowns occasionally result in shortages. The country regulates the price of domestic fuel, providing an incentive for black market sales.</p> <p> </p> <p>Although high oil prices and strong local harvests supported the economy in the past, low oil prices now stress Chad’s fiscal position and have resulted in significant government cutbacks. Chad relies on foreign assistance and foreign capital for most of its public and private sector investment. Investment in Chad is difficult due to its limited infrastructure, lack of trained workers, extensive government bureaucracy, and corruption. Chad obtained a three-year extended credit facility from the IMF in 2014 and was granted debt relief under the Heavily Indebted Poor Countries Initiative in April 2015.</p> <p> </p> <p>In 2018, economic policy will be driven by efforts that started in 2016 to reverse the recession and to repair damage to public finances and exports. The government is implementing an emergency action plan to counterbalance the drop in oil revenue and to diversify the economy. Chad’s national development plan (NDP) cost just over $9 billion with a financing gap of $6.7 billion. The NDP emphasized the importance of private sector participation in Chad’s development, as well as the need to improve the business environment, particularly in priority sectors such as mining and agriculture.</p> <p> </p> <p>The Government of Chad reached a deal with Glencore and four other banks on the restructuring of a $1.45 billion oil-backed loan in February 2018, after a long negotiation. The new terms include an extension of the maturity to 2030 from 2022, a two-year grace period on principal repayments, and a lower interest rate of the London Inter-bank Offer Rate (Libor) plus 2% - down from Libor plus 7.5%. The original Glencore loan was to be repaid with crude oil assets, however, Chad's oil sales were hit by the downturn in the price of oil. Chad had secured a $312 million credit from the IMF in June 2017, but release of those funds hinged on restructuring the Glencore debt. Chad had already cut public spending to try to meet the terms of the IMF program, but that prompted strikes and protests in a country where nearly 40% of the population lives below the poverty line. Multinational partners, such as the African Development Bank, the EU, and the World Bank are likely to continue budget support in 2018, but Chad will remain at high debt risk, given its dependence on oil revenue and pressure to spend on subsidies and security.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
-$24.97 billion (2020 est.)<br>
+$24.49 billion (2021 est.)<br>
+$24.787 billion (2020 est.)<br>
 $25.19 billion (2019 est.)<br>
-$24.4 billion (2018 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
--3.1% (2017 est.)<br>
--6.4% (2016 est.)<br>
-1.8% (2015 est.)<br>
+-1.2% (2021 est.)<br>
+-1.6% (2020 est.)<br>
+3.25% (2019 est.)<br>
 
 **Real GDP per capita**<br>
+$1,400 (2021 est.)<br>
 $1,500 (2020 est.)<br>
 $1,600 (2019 est.)<br>
-$1,600 (2018 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
 $10.912 billion (2019 est.)<br>
 
 **Inflation rate (consumer prices)**<br>
--0.9% (2019 est.)<br>
-4.2% (2018 est.)<br>
--1.5% (2017 est.)<br>
+-0.77% (2021 est.)<br>
+4.46% (2020 est.)<br>
+-0.97% (2019 est.)<br>
 
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 52.3% (2017 est.)<br>
@@ -475,28 +475,31 @@ sorghum, groundnuts, millet, yams, cereals, sugar cane, beef, maize, cotton, cas
 oil, cotton textiles, brewing, natron (sodium carbonate), soap, cigarettes, construction materials<br>
 
 **Industrial production growth rate**<br>
--4% (2017 est.)<br>
+0.3% (2021 est.)<br>
 
 **Labor force**<br>
-5.654 million (2017 est.)<br>
+5.246 million (2021 est.)<br>
 
 **Labor force - by occupation**<br>
 _agriculture_: 80%<br>
 _industry_: 20% (2006 est.)<br>
 
 **Unemployment rate**<br>
-<p>NA</p><br>
+1.88% (2021 est.)<br>
+1.74% (2020 est.)<br>
+1.12% (2019 est.)<br>
+NA<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 1.5%<br>
-_male_: 2.4%<br>
-_female_: 0.7% (2018)<br>
+_total_: 2.4%<br>
+_male_: 3.3%<br>
+_female_: 1.4% (2021 est.)<br>
 
 **Population below poverty line**<br>
 42.3% (2018 est.)<br>
 
 **Gini Index coefficient - distribution of family income**<br>
-43.3 (2011 est.)<br>
+37.5 (2018 est.)<br>
 
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 2.6%<br>
@@ -545,8 +548,9 @@ China 29%, United Arab Emirates 16%, France 10%, United States 8%, India 5% (201
 delivery trucks, paints, packaged medicines, aircraft, broadcasting equipment (2019)<br>
 
 **Reserves of foreign exchange and gold**<br>
-$22.9 million (31 December 2017 est.)<br>
-$20.92 million (31 December 2016 est.)<br>
+$310.032 million (31 December 2019 est.)<br>
+$147.75 million (31 December 2018 est.)<br>
+$8.575 million (31 December 2017 est.)<br>
 
 **Debt - external**<br>
 $1.724 billion (31 December 2017 est.)<br>
@@ -554,11 +558,11 @@ $1.281 billion (31 December 2016 est.)<br>
 
 **Exchange rates**<br>
 _Currency_: Cooperation Financiere en Afrique Centrale francs (XAF) per US dollar -<br>
-605.3 (2017 est.)<br>
-593.01 (2016 est.)<br>
-593.01 (2015 est.)<br>
-591.45 (2014 est.)<br>
-494.42 (2013 est.)<br>
+554.531 (2021 est.)<br>
+575.586 (2020 est.)<br>
+585.911 (2019 est.)<br>
+555.446 (2018 est.)<br>
+580.657 (2017 est.)<br>
 
 ## Energy
 
@@ -727,7 +731,7 @@ Boko Haram; Islamic State of Iraq and ash-Sham - West Africa (ISIS-WA)<br>
 <p>since 2003, ad hoc armed militia groups and the Sudanese military have driven hundreds of thousands of Darfur residents into Chad; Chad wishes to be a helpful mediator in resolving the Darfur conflict, and in 2010 established a joint border monitoring force with Sudan, which has helped to reduce cross-border banditry and violence; only Nigeria and Cameroon have heeded the Lake Chad Commission's admonition to ratify the delimitation treaty, which also includes the Chad-Niger and Niger-Nigeria boundaries</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 400,986 (Sudan), 124,538 (Central African Republic), 29,990 (Cameroon), 20,388 (Nigeria) (2022)<br>
+_refugees (country of origin)_: 400,986 (Sudan), 124,529 (Central African Republic), 29,990 (Cameroon), 20,461 (Nigeria) (2022)<br>
 _IDPs_: 381,289 (majority are in the east) (2022)<br>
 
 **Trafficking in persons**<br>

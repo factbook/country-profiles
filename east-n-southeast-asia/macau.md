@@ -147,7 +147,7 @@ _female_: 88.02 years (2022 est.)<br>
 1.22 children born/woman (2022 est.)<br>
 
 **Gross reproduction rate**<br>
-0.6 (2022 est.)<br>
+0.6 (2023 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 NA<br>
@@ -169,11 +169,11 @@ NA<br>
 **HIV/AIDS - adult prevalence rate**<br>
 NA<br>
 
-**Currently married women (ages 15-49)**<br>
-52.9% (2022 est.)<br>
-
 **Children under the age of 5 years underweight**<br>
 NA<br>
+
+**Currently married women (ages 15-49)**<br>
+53.5% (2023 est.)<br>
 
 **Education expenditures**<br>
 6.3% of GDP (2020 est.)<br>
@@ -190,9 +190,9 @@ _male_: 17 years<br>
 _female_: 19 years (2021)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 8.1%<br>
-_male_: 9.9%<br>
-_female_: 6.4% (2020 est.)<br>
+_total_: 9.2%<br>
+_male_: 11.7%<br>
+_female_: 6.6% (2021 est.)<br>
 
 ## Environment
 
@@ -306,29 +306,29 @@ lotus blossom; national colors: green, white, yellow<br>
 <p>Since opening up its locally-controlled casino industry to foreign competition in 2001, Macau has attracted tens of billions of dollars in foreign investment, transforming the territory into one of the world's largest gaming centers. Macau's gaming and tourism businesses were fueled by China's decision to relax travel restrictions on Chinese citizens wishing to visit Macau. In 2016, Macau's gaming-related taxes accounted for more than 76% of total government revenue.</p> <p> </p> <p>Macau's economy slowed dramatically in 2009 as a result of the global economic slowdown, but strong growth resumed in the 2010-13 period, largely on the back of tourism from mainland China and the gaming sectors. In 2015, this city of 646,800 hosted nearly 30.7 million visitors. Almost 67% came from mainland China. Macau's traditional manufacturing industry has slowed greatly since the termination of the Multi-Fiber Agreement in 2005. Services export — primarily gaming — increasingly has driven Macau’s economic performance. Mainland China’s anti-corruption campaign brought Macau’s gambling boom to a halt in 2014, with spending in casinos contracting 34.3% in 2015. As a result, Macau's inflation-adjusted GDP contracted 21.5% in 2015 and another 2.1% in 2016 - down from double-digit expansion rates in the period 2010-13 - but the economy recovered handsomely in 2017.</p> <p> </p> <p>Macau continues to face the challenges of managing its growing casino industry, risks from money-laundering activities, and the need to diversify the economy away from heavy dependence on gaming revenues. Macau's currency, the pataca, is closely tied to the Hong Kong dollar, which is also freely accepted in the territory.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
-$35.58 billion (2020 est.)<br>
-$81.44 billion (2019 est.)<br>
-$83.64 billion (2018 est.)<br>
+$44.49 billion (2021 est.)<br>
+$37.303 billion (2020 est.)<br>
+$81.511 billion (2019 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
-9.1% (2017 est.)<br>
--0.9% (2016 est.)<br>
--21.6% (2015 est.)<br>
+19.27% (2021 est.)<br>
+-54.24% (2020 est.)<br>
+-2.51% (2019 est.)<br>
 
 **Real GDP per capita**<br>
-$54,800 (2020 est.)<br>
-$127,200 (2019 est.)<br>
-$132,400 (2018 est.)<br>
+$64,800 (2021 est.)<br>
+$55,200 (2020 est.)<br>
+$122,800 (2019 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
 $53.841 billion (2019 est.)<br>
 
 **Inflation rate (consumer prices)**<br>
-2.7% (2019 est.)<br>
+0.81% (2020 est.)<br>
+2.75% (2019 est.)<br>
 3% (2018 est.)<br>
-1.2% (2017 est.)<br>
 
 **Credit ratings**<br>
 _Fitch rating_: AA (2018)<br>
@@ -355,10 +355,10 @@ pork, poultry, beef, pig fat, pig offals, eggs, pepper, cattle offals, cattle hi
 tourism, gambling, clothing, textiles, electronics, footwear, toys<br>
 
 **Industrial production growth rate**<br>
-2% (2017 est.)<br>
+5.17% (2021 est.)<br>
 
 **Labor force**<br>
-392,000 (2020 est.)<br>
+404,500 (2021 est.)<br>
 
 **Labor force - by occupation**<br>
 _agriculture_: 2.5%<br>
@@ -372,20 +372,20 @@ _transportation and utilities_: 2.6%<br>
 _commerce_: 20.3% (2013 est.)<br>
 
 **Unemployment rate**<br>
-2% (2017 est.)<br>
-1.9% (2016 est.)<br>
+3.01% (2021 est.)<br>
+2.57% (2020 est.)<br>
+1.75% (2019 est.)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 8.1%<br>
-_male_: 9.9%<br>
-_female_: 6.4% (2020 est.)<br>
+_total_: 9.2%<br>
+_male_: 11.7%<br>
+_female_: 6.6% (2021 est.)<br>
 
 **Population below poverty line**<br>
 NA<br>
 
 **Gini Index coefficient - distribution of family income**<br>
-35 (2013)<br>
-38 (2008)<br>
+35 (2013 est.)<br>
 
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: NA<br>
@@ -403,18 +403,20 @@ _expenditures_: 9.684 billion (2017 est.)<br>
 0% of GDP (2016 est.)<br>
 
 **Taxes and other revenues**<br>
-29.2% (of GDP) (2017 est.)<br>
+21.73% (of GDP) (2020 est.)<br>
 
 **Fiscal year**<br>
 calendar year<br>
 
 **Current account balance**<br>
-$16.75 billion (2017 est.)<br>
-$12.22 billion (2016 est.)<br>
+$2.956 billion (2021 est.)<br>
+$3.926 billion (2020 est.)<br>
+$18.714 billion (2019 est.)<br>
 
 **Exports**<br>
-$45.35 billion (2019 est.) note: data are in current year dollars<br>
-$45.62 billion (2018 est.) note: data are in current year dollars<br>
+$26.625 billion (2021 est.) note: data are in current year dollars<br>
+$15.807 billion (2020 est.) note: data are in current year dollars<br>
+$45.557 billion (2019 est.)<br>
 <strong>note:</strong> includes reexports<br>
 
 **Exports - partners**<br>
@@ -424,8 +426,9 @@ Hong Kong 66%, China 9% (2019)<br>
 broadcasting equipment, jewelry, watches, trunks/cases, telephones (2019)<br>
 
 **Imports**<br>
-$17.35 billion (2019 est.) note: data are in current year dollars<br>
-$18.28 billion (2018 est.) note: data are in current year dollars<br>
+$22.788 billion (2021 est.) note: data are in current year dollars<br>
+$15.216 billion (2020 est.) note: data are in current year dollars<br>
+$17.594 billion (2019 est.)<br>
 
 **Imports - partners**<br>
 China 33%, Hong Kong 31%, France 5% (2019)<br>
@@ -434,8 +437,9 @@ China 33%, Hong Kong 31%, France 5% (2019)<br>
 jewelry, watches, electricity, aircraft, cars (2019)<br>
 
 **Reserves of foreign exchange and gold**<br>
-$20.17 billion (31 December 2017 est.)<br>
-$18.89 billion (31 December 2015 est.)<br>
+$26.665 billion (31 December 2021 est.)<br>
+$25.145 billion (31 December 2020 est.)<br>
+$22.215 billion (31 December 2019 est.)<br>
 <strong>note:</strong> the Fiscal Reserves Act that came into force on 1 January 2012 requires the fiscal reserves to be separated from the foreign exchange reserves and to be managed separately; the transfer of assets took place in February 2012<br>
 
 **Debt - external**<br>
@@ -444,11 +448,11 @@ $0 (31 December 2012)<br>
 
 **Exchange rates**<br>
 _Currency_: patacas (MOP) per US dollar -<br>
-8 (2017 est.)<br>
-7.9951 (2016 est.)<br>
-7.9951 (2015 est.)<br>
-7.985 (2014 est.)<br>
-7.9871 (2013 est.)<br>
+8.006 (2021 est.)<br>
+7.989 (2020 est.)<br>
+8.07 (2019 est.)<br>
+8.073 (2018 est.)<br>
+8.026 (2017 est.)<br>
 
 ## Energy
 

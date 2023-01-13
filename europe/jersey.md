@@ -153,7 +153,7 @@ _female_: 85.28 years (2022 est.)<br>
 1.66 children born/woman (2022 est.)<br>
 
 **Gross reproduction rate**<br>
-0.8 (2022 est.)<br>
+0.8 (2023 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 NA<br>
@@ -190,6 +190,11 @@ NA<br>
 _total population_: NA<br>
 _male_: NA<br>
 _female_: NA<br>
+
+**Youth unemployment rate (ages 15-24)**<br>
+_total_: 15.8%<br>
+_male_: 15.9%<br>
+_female_: 15.6% (2021 est.)<br>
 
 ## Environment
 
@@ -341,7 +346,7 @@ tourism, banking and finance, dairy, electronics<br>
 NA<br>
 
 **Labor force**<br>
-59,950 (2017 est.)<br>
+86,800 (2021 est.)<br>
 
 **Labor force - by occupation**<br>
 _agriculture_: 3%<br>
@@ -349,15 +354,20 @@ _industry_: 12%<br>
 _services_: 85% (2014 est.)<br>
 
 **Unemployment rate**<br>
-4% (2015 est.)<br>
-4.6% (2014 est.)<br>
+7.37% (2021 est.)<br>
+7.69% (2020 est.)<br>
+6.41% (2019 est.)<br>
+
+**Youth unemployment rate (ages 15-24)**<br>
+_total_: 15.8%<br>
+_male_: 15.9%<br>
+_female_: 15.6% (2021 est.)<br>
 
 **Population below poverty line**<br>
 NA<br>
 
 **Gini Index coefficient - distribution of family income**<br>
 0.3 (2014 est.)<br>
-0.3 (2013 est.)<br>
 
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: NA<br>

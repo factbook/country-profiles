@@ -171,7 +171,7 @@ _female_: 81.15 years (2022 est.)<br>
 1.89 children born/woman (2022 est.)<br>
 
 **Gross reproduction rate**<br>
-0.92 (2022 est.)<br>
+0.92 (2023 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 68.4% (2016)<br>
@@ -224,11 +224,11 @@ _total_: 11.5% (2020 est.)<br>
 _male_: 18.6% (2020 est.)<br>
 _female_: 4.4% (2020 est.)<br>
 
-**Currently married women (ages 15-49)**<br>
-59.3% (2022 est.)<br>
-
 **Children under the age of 5 years underweight**<br>
 1.3% (2016)<br>
+
+**Currently married women (ages 15-49)**<br>
+59.4% (2023 est.)<br>
 
 **Child marriage**<br>
 _women married by age 15_: 3.6%<br>
@@ -244,9 +244,9 @@ _male_: 94.9%<br>
 _female_: 94.2% (2020)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 16.1%<br>
-_male_: 12.2%<br>
-_female_: 22.1% (2021 est.)<br>
+_total_: 16.3%<br>
+_male_: 12.7%<br>
+_female_: 21.9% (2021 est.)<br>
 
 ## Environment
 
@@ -416,28 +416,29 @@ _selected World Heritage Site locales_: Jesuit Missions of La Sant&iacute;sima T
 <p>Landlocked Paraguay has a market economy distinguished by a large informal sector, featuring re-export of imported consumer goods to neighboring countries, as well as the activities of thousands of microenterprises and urban street vendors. A large percentage of the population, especially in rural areas, derives its living from agricultural activity, often on a subsistence basis. Because of the importance of the informal sector, accurate economic measures are difficult to obtain.</p> <p> </p> <p>On a per capita basis, real income has grown steadily over the past five years as strong world demand for commodities, combined with high prices and favorable weather, supported Paraguay's commodity-based export expansion. Paraguay is the fifth largest soy producer in the world. Drought hit in 2008, reducing agricultural exports and slowing the economy even before the onset of the global recession. The economy fell 3.8% in 2009, as lower world demand and commodity prices caused exports to contract. Severe drought and outbreaks of hoof-and-mouth disease in 2012 led to a brief drop in beef and other agricultural exports. Since 2014, however, Paraguay’s economy has grown at a 4% average annual rate due to strong production and high global prices, at a time when other countries in the region have contracted.</p> <p> </p> <p>The Paraguayan Government recognizes the need to diversify its economy and has taken steps in recent years to do so. In addition to looking for new commodity markets in the Middle East and Europe, Paraguayan officials have promoted the country’s low labor costs, cheap energy from its massive Itaipu Hydroelectric Dam, and single-digit tax rate on foreign firms. As a result, the number of factories operating in the country – mostly transplants from Brazil - has tripled since 2014.</p> <p> </p> <p>Corruption, limited progress on structural reform, and deficient infrastructure are the main obstacles to long-term growth. Judicial corruption is endemic and is seen as the greatest barrier to attracting more foreign investment. Paraguay has been adverse to public debt throughout its history, but has recently sought to finance infrastructure improvements to attract foreign investment.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
-$87.98 billion (2020 est.)<br>
-$88.87 billion (2019 est.)<br>
-$89.23 billion (2018 est.)<br>
+$91.759 billion (2021 est.)<br>
+$88.143 billion (2020 est.)<br>
+$88.872 billion (2019 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
-4.8% (2017 est.)<br>
-4.3% (2016 est.)<br>
-3.1% (2015 est.)<br>
+4.1% (2021 est.)<br>
+-0.82% (2020 est.)<br>
+-0.4% (2019 est.)<br>
 
 **Real GDP per capita**<br>
-$12,300 (2020 est.)<br>
-$12,600 (2019 est.)<br>
-$12,800 (2018 est.)<br>
+$13,700 (2021 est.)<br>
+$13,300 (2020 est.)<br>
+$13,600 (2019 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
 $38.94 billion (2017 est.)<br>
 
 **Inflation rate (consumer prices)**<br>
-3.6% (2017 est.)<br>
-4.1% (2016 est.)<br>
+4.79% (2021 est.)<br>
+1.77% (2020 est.)<br>
+2.76% (2019 est.)<br>
 
 **Credit ratings**<br>
 _Fitch rating_: BB+ (2018)<br>
@@ -465,10 +466,10 @@ soybeans, sugar cane, maize, cassava, wheat, rice, beef, milk, oranges, oil palm
 sugar processing, cement, textiles, beverages, wood products, steel, base metals, electric power<br>
 
 **Industrial production growth rate**<br>
-2% (2017 est.)<br>
+4.69% (2021 est.)<br>
 
 **Labor force**<br>
-3.428 million (2017 est.)<br>
+3.43 million (2021 est.)<br>
 
 **Labor force - by occupation**<br>
 _agriculture_: 26.5%<br>
@@ -476,20 +477,20 @@ _industry_: 18.5%<br>
 _services_: 55% (2008)<br>
 
 **Unemployment rate**<br>
-5.7% (2017 est.)<br>
-6% (2016 est.)<br>
+7.21% (2021 est.)<br>
+7.55% (2020 est.)<br>
+6.59% (2019 est.)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 16.1%<br>
-_male_: 12.2%<br>
-_female_: 22.1% (2021 est.)<br>
+_total_: 16.3%<br>
+_male_: 12.7%<br>
+_female_: 21.9% (2021 est.)<br>
 
 **Population below poverty line**<br>
 23.5% (2019 est.)<br>
 
 **Gini Index coefficient - distribution of family income**<br>
 46.2 (2018 est.)<br>
-53.2 (2009)<br>
 
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 1.5%<br>
@@ -507,19 +508,20 @@ _expenditures_: 5.968 billion (2017 est.)<br>
 18.9% of GDP (2016 est.)<br>
 
 **Taxes and other revenues**<br>
-14.2% (of GDP) (2017 est.)<br>
+9.51% (of GDP) (2020 est.)<br>
 
 **Fiscal year**<br>
 calendar year<br>
 
 **Current account balance**<br>
--$298 million (2017 est.)<br>
-$416 million (2016 est.)<br>
+$311.068 million (2021 est.)<br>
+$959.673 million (2020 est.)<br>
+-$178.179 million (2019 est.)<br>
 
 **Exports**<br>
-$11.81 billion (2020 est.) note: data are in current year dollars<br>
-$13.27 billion (2019 est.) note: data are in current year dollars<br>
-$14.36 billion (2018 est.) note: data are in current year dollars<br>
+$14.154 billion (2021 est.) note: data are in current year dollars<br>
+$11.794 billion (2020 est.) note: data are in current year dollars<br>
+$13.272 billion (2019 est.) note: data are in current year dollars<br>
 
 **Exports - partners**<br>
 Brazil 32%, Argentina 22%, Chile 8%, Russia 8% (2019)<br>
@@ -528,9 +530,9 @@ Brazil 32%, Argentina 22%, Chile 8%, Russia 8% (2019)<br>
 soybeans and soybean products, electricity, beef, corn, insulated wiring (2019)<br>
 
 **Imports**<br>
-$10.62 billion (2020 est.) note: data are in current year dollars<br>
-$13.15 billion (2019 est.) note: data are in current year dollars<br>
-$13.88 billion (2018 est.) note: data are in current year dollars<br>
+$13.454 billion (2021 est.) note: data are in current year dollars<br>
+$10.46 billion (2020 est.) note: data are in current year dollars<br>
+$13.146 billion (2019 est.) note: data are in current year dollars<br>
 
 **Imports - partners**<br>
 Brazil 24%, United States 22%, China 17%, Argentina 10%, Chile 5% (2019)<br>
@@ -539,8 +541,9 @@ Brazil 24%, United States 22%, China 17%, Argentina 10%, Chile 5% (2019)<br>
 broadcasting equipment, cars, pesticides, refined petroleum, tires (2019)<br>
 
 **Reserves of foreign exchange and gold**<br>
-$7.877 billion (31 December 2017 est.)<br>
-$6.881 billion (31 December 2016 est.)<br>
+$9.661 billion (31 December 2021 est.)<br>
+$9.202 billion (31 December 2020 est.)<br>
+$7.717 billion (31 December 2019 est.)<br>
 
 **Debt - external**<br>
 $16.622 billion (2019 est.)<br>
@@ -548,11 +551,11 @@ $16.238 billion (2018 est.)<br>
 
 **Exchange rates**<br>
 _Currency_: guarani (PYG) per US dollar -<br>
-7,045 (2020 est.)<br>
-6,426 (2019 est.)<br>
-5,915.4 (2018 est.)<br>
-5,160.4 (2014 est.)<br>
-4,462.2 (2013 est.)<br>
+6,774.163 (2021 est.)<br>
+6,771.097 (2020 est.)<br>
+6,240.722 (2019 est.)<br>
+5,732.105 (2018 est.)<br>
+5,618.933 (2017 est.)<br>
 
 ## Energy
 

@@ -141,7 +141,7 @@ _female_: 83.41 years (2022 est.)<br>
 1.9 children born/woman (2022 est.)<br>
 
 **Gross reproduction rate**<br>
-0.93 (2022 est.)<br>
+0.93 (2023 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 NA<br>
@@ -171,11 +171,11 @@ _unimproved: total_: total: 0% of population (2020)<br>
 **HIV/AIDS - adult prevalence rate**<br>
 NA<br>
 
-**Currently married women (ages 15-49)**<br>
-40.9% (2022 est.)<br>
-
 **Children under the age of 5 years underweight**<br>
 NA<br>
+
+**Currently married women (ages 15-49)**<br>
+40.7% (2023 est.)<br>
 
 **Education expenditures**<br>
 NA<br>
@@ -384,11 +384,11 @@ refined petroleum, recreational boats, cars, coal tar oil, crude petroleum (2019
 
 **Exchange rates**<br>
 _Currency_: Gibraltar pounds (GIP) per US dollar -<br>
-0.885 (2017 est.)<br>
-0.903 (2016 est.)<br>
-0.9214 (2015 est.)<br>
-0.885 (2014 est.)<br>
-0.7634 (2013 est.)<br>
+0.727 (2021 est.)<br>
+0.78 (2020 est.)<br>
+0.783 (2019 est.)<br>
+0.75 (2018 est.)<br>
+0.777 (2017 est.)<br>
 
 ## Energy
 

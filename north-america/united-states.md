@@ -181,7 +181,7 @@ _female_: 82.79 years (2022 est.)<br>
 1.84 children born/woman (2022 est.)<br>
 
 **Gross reproduction rate**<br>
-0.9 (2022 est.)<br>
+0.9 (2023 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 73.9% (2017/19)<br>
@@ -229,11 +229,11 @@ _total_: 23% (2020 est.)<br>
 _male_: 28.4% (2020 est.)<br>
 _female_: 17.5% (2020 est.)<br>
 
-**Currently married women (ages 15-49)**<br>
-52.1% (2022 est.)<br>
-
 **Children under the age of 5 years underweight**<br>
 0.4% (2017/18)<br>
+
+**Currently married women (ages 15-49)**<br>
+51.9% (2023 est.)<br>
 
 **Education expenditures**<br>
 6.1% of GDP (2020 est.)<br>
@@ -249,9 +249,9 @@ _male_: 16 years<br>
 _female_: 17 years (2020)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 9.7%<br>
+_total_: 9.6%<br>
 _male_: 10.5%<br>
-_female_: 8.9% (2021 est.)<br>
+_female_: 8.6% (2021 est.)<br>
 
 ## Environment
 
@@ -413,29 +413,29 @@ _selected World Heritage Site locales_: Yellowstone National Park (n); Grand Can
 <p>The US has the most technologically powerful economy in the world, with a per capita GDP of $59,500. US firms are at or near the forefront in technological advances, especially in computers, pharmaceuticals, and medical, aerospace, and military equipment; however, their advantage has narrowed since the end of World War II. Based on a comparison of GDP measured at purchasing power parity conversion rates, the US economy in 2014, having stood as the largest in the world for more than a century, slipped into second place behind China, which has more than tripled the US growth rate for each year of the past four decades.</p> <p>In the US, private individuals and business firms make most of the decisions, and the federal and state governments buy needed goods and services predominantly in the private marketplace. US business firms enjoy greater flexibility than their counterparts in Western Europe and Japan in decisions to expand capital plant, to lay off surplus workers, and to develop new products. At the same time, businesses face higher barriers to enter their rivals' home markets than foreign firms face entering US markets.</p> <p>Long-term problems for the US include stagnation of wages for lower-income families, inadequate investment in deteriorating infrastructure, rapidly rising medical and pension costs of an aging population, energy shortages, and sizable current account and budget deficits.</p> <p>The onrush of technology has been a driving factor in the gradual development of a "two-tier" labor market in which those at the bottom lack the education and the professional/technical skills of those at the top and, more and more, fail to get comparable pay raises, health insurance coverage, and other benefits. But the globalization of trade, and especially the rise of low-wage producers such as China, has put additional downward pressure on wages and upward pressure on the return to capital. Since 1975, practically all the gains in household income have gone to the top 20% of households. Since 1996, dividends and capital gains have grown faster than wages or any other category of after-tax income.</p> <p>Imported oil accounts for more than 50% of US consumption and oil has a major impact on the overall health of the economy. Crude oil prices doubled between 2001 and 2006, the year home prices peaked; higher gasoline prices ate into consumers' budgets and many individuals fell behind in their mortgage payments. Oil prices climbed another 50% between 2006 and 2008, and bank foreclosures more than doubled in the same period. Besides dampening the housing market, soaring oil prices caused a drop in the value of the dollar and a deterioration in the US merchandise trade deficit, which peaked at $840 billion in 2008. Because the US economy is energy-intensive, falling oil prices since 2013 have alleviated many of the problems the earlier increases had created.</p> <p>The sub-prime mortgage crisis, falling home prices, investment bank failures, tight credit, and the global economic downturn pushed the US into a recession by mid-2008. GDP contracted until the third quarter of 2009, the deepest and longest downturn since the Great Depression. To help stabilize financial markets, the US Congress established a $700 billion Troubled Asset Relief Program in October 2008. The government used some of these funds to purchase equity in US banks and industrial corporations, much of which had been returned to the government by early 2011. In January 2009, Congress passed and former President Barack OBAMA signed a bill providing an additional $787 billion fiscal stimulus to be used over 10 years - two-thirds on additional spending and one-third on tax cuts - to create jobs and to help the economy recover. In 2010 and 2011, the federal budget deficit reached nearly 9% of GDP. In 2012, the Federal Government reduced the growth of spending and the deficit shrank to 7.6% of GDP. US revenues from taxes and other sources are lower, as a percentage of GDP, than those of most other countries.</p> <p>Wars in Iraq and Afghanistan required major shifts in national resources from civilian to military purposes and contributed to the growth of the budget deficit and public debt. Through FY 2018, the direct costs of the wars will have totaled more than $1.9 trillion, according to US Government figures.</p> <p>In March 2010, former President OBAMA signed into law the Patient Protection and Affordable Care Act (ACA), a health insurance reform that was designed to extend coverage to an additional 32 million Americans by 2016, through private health insurance for the general population and Medicaid for the impoverished. Total spending on healthcare - public plus private - rose from 9.0% of GDP in 1980 to 17.9% in 2010.</p> <p>In July 2010, the former president signed the DODD-FRANK Wall Street Reform and Consumer Protection Act, a law designed to promote financial stability by protecting consumers from financial abuses, ending taxpayer bailouts of financial firms, dealing with troubled banks that are "too big to fail," and improving accountability and transparency in the financial system - in particular, by requiring certain financial derivatives to be traded in markets that are subject to government regulation and oversight.</p> <p>The Federal Reserve Board (Fed) announced plans in December 2012 to purchase $85 billion per month of mortgage-backed and Treasury securities in an effort to hold down long-term interest rates, and to keep short-term rates near zero until unemployment dropped below 6.5% or inflation rose above 2.5%. The Fed ended its purchases during the summer of 2014, after the unemployment rate dropped to 6.2%, inflation stood at 1.7%, and public debt fell below 74% of GDP. In December 2015, the Fed raised its target for the benchmark federal funds rate by 0.25%, the first increase since the recession began. With continued low growth, the Fed opted to raise rates several times since then, and in December 2017, the target rate stood at 1.5%.</p> <p>In December 2017, Congress passed and former President Donald TRUMP signed the Tax Cuts and Jobs Act, which, among its various provisions, reduces the corporate tax rate from 35% to 21%; lowers the individual tax rate for those with the highest incomes from 39.6% to 37%, and by lesser percentages for those at lower income levels; changes many deductions and credits used to calculate taxable income; and eliminates in 2019 the penalty imposed on taxpayers who do not obtain the minimum amount of health insurance required under the ACA. The new taxes took effect on 1 January 2018; the tax cut for corporations are permanent, but those for individuals are scheduled to expire after 2025. The Joint Committee on Taxation (JCT) under the Congressional Budget Office estimates that the new law will reduce tax revenues and increase the federal deficit by about $1.45 trillion over the 2018-2027 period. This amount would decline if economic growth were to exceed the JCT’s estimate.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
-$19,846,720,000,000 (2020 est.)<br>
-$20,563,590,000,000 (2019 est.)<br>
-$20,128,580,000,000 (2018 est.)<br>
+$21.132 trillion (2021 est.)<br>
+$19.946 trillion (2020 est.)<br>
+$20.513 trillion (2019 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
-2.16% (2019 est.)<br>
-3% (2018 est.)<br>
-2.33% (2017 est.)<br>
+5.95% (2021 est.)<br>
+-2.77% (2020 est.)<br>
+2.29% (2019 est.)<br>
 
 **Real GDP per capita**<br>
+$63,700 (2021 est.)<br>
 $60,200 (2020 est.)<br>
-$62,600 (2019 est.)<br>
-$61,600 (2018 est.)<br>
+$62,500 (2019 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
 $21,433,228,000,000 (2019 est.)<br>
 
 **Inflation rate (consumer prices)**<br>
-1.8% (2019 est.)<br>
-2.4% (2018 est.)<br>
-2.1% (2017 est.)<br>
+4.7% (2021 est.)<br>
+1.23% (2020 est.)<br>
+1.81% (2019 est.)<br>
 
 **Credit ratings**<br>
 _Fitch rating_: AAA (1994)<br>
@@ -463,10 +463,10 @@ maize, milk, soybeans, wheat, sugar cane, sugar beet, poultry, potatoes, cotton,
 highly diversified, world leading, high-technology innovator, second-largest industrial output in the world; petroleum, steel, motor vehicles, aerospace, telecommunications, chemicals, electronics, food processing, consumer goods, lumber, mining<br>
 
 **Industrial production growth rate**<br>
-2.3% (2017 est.)<br>
+3.25% (2021 est.)<br>
 
 **Labor force**<br>
-146.128 million (2020 est.)<br>
+164.797 million (2021 est.)<br>
 <strong>note:</strong> includes unemployed<br>
 
 **Labor force - by occupation**<br>
@@ -483,20 +483,20 @@ _other services_: 17.6% (2009)<br>
 <strong>note:</strong> figures exclude the unemployed<br>
 
 **Unemployment rate**<br>
-3.89% (2018 est.)<br>
-4.4% (2017 est.)<br>
+5.46% (2021 est.)<br>
+8.05% (2020 est.)<br>
+3.67% (2019 est.)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 9.7%<br>
+_total_: 9.6%<br>
 _male_: 10.5%<br>
-_female_: 8.9% (2021 est.)<br>
+_female_: 8.6% (2021 est.)<br>
 
 **Population below poverty line**<br>
 15.1% (2010 est.)<br>
 
 **Gini Index coefficient - distribution of family income**<br>
 41.1 (2016 est.)<br>
-40.8 (1997)<br>
 
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 2%<br>
@@ -511,25 +511,27 @@ _expenditures_: 3.981 trillion (2017 est.)<br>
 -3.4% (of GDP) (2017 est.)<br>
 
 **Public debt**<br>
-78.8% of GDP (2017 est.)<br>
-81.2% of GDP (2016 est.)<br>
+126.39% of GDP (2020 est.)<br>
+100.9% of GDP (2019 est.)<br>
+99.15% of GDP (2018 est.)<br>
 <strong>note:</strong> data cover only what the United States Treasury denotes as "Debt Held by the Public," which includes all debt instruments issued by the Treasury that are owned by non-US Government entities; the data include Treasury debt held by foreign entities; the data exclude debt issued by individual US states, as well as intragovernmental debt; intragovernmental debt consists of Treasury borrowings from surpluses in the trusts for Federal Social Security, Federal Employees, Hospital and Supplemental Medical Insurance (Medicare), Disability and Unemployment, and several other smaller trusts; if data for intragovernment debt were added, "gross debt" would increase by about one-third of GDP<br>
 
 **Taxes and other revenues**<br>
-17% (of GDP) (2017 est.)<br>
+9.86% (of GDP) (2020 est.)<br>
 <strong>note:</strong> excludes contributions for social security and other programs; if social contributions were added, taxes and other revenues would amount to approximately 22% of GDP<br>
 
 **Fiscal year**<br>
 1 October - 30 September<br>
 
 **Current account balance**<br>
--$480.225 billion (2019 est.)<br>
--$449.694 billion (2018 est.)<br>
+-$846.354 billion (2021 est.)<br>
+-$619.702 billion (2020 est.)<br>
+-$445.955 billion (2019 est.)<br>
 
 **Exports**<br>
-$2,127,250,000,000 (2020 est.) note: data are in current year dollars<br>
-$2,528,270,000,000 (2019 est.) note: data are in current year dollars<br>
-$2,539,380,000,000 (2018 est.) note: data are in current year dollars<br>
+$2.557 trillion (2021 est.) note: data are in current year dollars<br>
+$2.159 trillion (2020 est.) note: data are in current year dollars<br>
+$2.546 trillion (2019 est.) note: data are in current year dollars<br>
 
 **Exports - partners**<br>
 Canada 17%, Mexico 16%, China 7%, Japan 5% (2019)<br>
@@ -538,9 +540,9 @@ Canada 17%, Mexico 16%, China 7%, Japan 5% (2019)<br>
 refined petroleum, crude petroleum, cars and vehicle parts, integrated circuits, aircraft (2019)<br>
 
 **Imports**<br>
-$2,808,960,000,000 (2020 est.) note: data are in current year dollars<br>
-$3,105,130,000,000 (2019 est.) note: data are in current year dollars<br>
-$3,119,320,000,000 (2018 est.) note: data are in current year dollars<br>
+$3.402 trillion (2021 est.) note: data are in current year dollars<br>
+$2.813 trillion (2020 est.) note: data are in current year dollars<br>
+$3.106 trillion (2019 est.) note: data are in current year dollars<br>
 
 **Imports - partners**<br>
 China 18%, Mexico 15%, Canada 13%, Japan 6%, Germany 5% (2019)<br>
@@ -549,8 +551,9 @@ China 18%, Mexico 15%, Canada 13%, Japan 6%, Germany 5% (2019)<br>
 cars, crude petroleum, computers, broadcasting equipment, packaged medicines (2019)<br>
 
 **Reserves of foreign exchange and gold**<br>
-$123.3 billion (31 December 2017 est.)<br>
-$117.6 billion (31 December 2015 est.)<br>
+$716.152 billion (31 December 2021 est.)<br>
+$628.37 billion (31 December 2020 est.)<br>
+$516.701 billion (31 December 2019 est.)<br>
 
 **Debt - external**<br>
 $20,275,951,000,000 (2019 est.)<br>
@@ -558,7 +561,12 @@ $19,452,478,000,000 (2018 est.)<br>
 <strong>note:</strong> approximately 4/5ths of US external debt is denominated in US dollars; foreign lenders have been willing to hold US dollar denominated debt instruments because they view the dollar as the world's reserve currency<br>
 
 **Exchange rates**<br>
-<strong>British pounds per US dollar: </strong>0.7836 (2017 est.), 0.738 (2016 est.), 0.738 (2015 est.), 0.607 (2014 est), 0.6391 (2013 est.)<br><strong>Canadian dollars per US dollar: </strong>1, 1.308 (2017 est.), 1.3256 (2016 est.), 1.3256 (2015 est.), 1.2788 (2014 est.), 1.0298 (2013 est.)<br><strong>Chinese yuan per US dollar: </strong>1, 6.7588 (2017 est.), 6.6445 (2016 est.), 6.2275 (2015 est.), 6.1434 (2014 est.), 6.1958 (2013 est.)<br><strong>euros per US dollar: </strong>0.885 (2017 est.), 0.903 (2016 est.), 0.9214(2015 est.), 0.885 (2014 est.), 0.7634 (2013 est.)<br><strong>Japanese yen per US dollar: </strong>111.10 (2017 est.), 108.76 (2016 est.), 108.76 (2015 est.), 121.02 (2014 est.), 97.44 (2013 est.)<br><br><strong>note 1: </strong>the following countries and territories use the US dollar officially as their legal tender: British Virgin Islands, Ecuador, El Salvador, Marshall Islands, Micronesia, Palau, Timor Leste, Turks and Caicos, and islands of the Caribbean Netherlands (Bonaire, Sint Eustatius, and Saba)<br><br><strong>note 2: </strong>the following countries and territories use the US dollar as official legal tender alongside local currency: Bahamas, Barbados, Belize, Costa Rica, and Panama<br><br><strong>note 3: </strong>the following countries and territories widely accept the US dollar as a dominant currency but have yet to declare it as legal tender: Bermuda, Burma, Cambodia, Cayman Islands, Honduras, Nicaragua, and Somalia<br>
+_Currency_: <strong>British pounds per US dollar: </strong>0.7836 (2017 est.), 0.738 (2016 est.), 0.738 (2015 est.), 0.607 (2014 est), 0.6391 (2013 est.)<br><strong>Canadian dollars per US dollar: </strong>1, 1.308 (2017 est.), 1.3256 (2016 est.), 1.3256 (2015 est.), 1.2788 (2014 est.), 1.0298 (2013 est.)<br><strong>Chinese yuan per US dollar: </strong>1, 6.7588 (2017 est.), 6.6445 (2016 est.), 6.2275 (2015 est.), 6.1434 (2014 est.), 6.1958 (2013 est.)<br><strong>euros per US dollar: </strong>0.885 (2017 est.), 0.903 (2016 est.), 0.9214(2015 est.), 0.885 (2014 est.), 0.7634 (2013 est.)<br><strong>Japanese yen per US dollar: </strong>111.10 (2017 est.), 108.76 (2016 est.), 108.76 (2015 est.), 121.02 (2014 est.), 97.44 (2013 est.)<br><br><strong>note 1: </strong>the following countries and territories use the US dollar officially as their legal tender: British Virgin Islands, Ecuador, El Salvador, Marshall Islands, Micronesia, Palau, Timor Leste, Turks and Caicos, and islands of the Caribbean Netherlands (Bonaire, Sint Eustatius, and Saba)<br><br><strong>note 2: </strong>the following countries and territories use the US dollar as official legal tender alongside local currency: Bahamas, Barbados, Belize, Costa Rica, and Panama<br><br><strong>note 3: </strong>the following countries and territories widely accept the US dollar as a dominant currency but have yet to declare it as legal tender: Bermuda, Burma, Cambodia, Cayman Islands, Honduras, Nicaragua, and Somalia<br>
+1 (2021 est.)<br>
+1 (2020 est.)<br>
+1 (2019 est.)<br>
+1 (2018 est.)<br>
+1 (2017 est.)<br>
 
 ## Energy
 
@@ -761,7 +769,7 @@ Hizballah; Islamic Revolutionary Guard Corps (IRGC)/Qods Force; Islamic State of
 <p><em>US-Antarctica</em>: the US has made no territorial claim in Antarctica (but has reserved the right to do so) and does not recognize the claims of any other states</p> <p><em>US-Bahamas</em>: the Bahamas and US have not been able to agree on a maritime boundary; the two countries have met several times to define their maritime boundary</p> <p><em>US-Canada</em>: Canada and the United States dispute how to divide the Beaufort Sea and the status of the Northwest Passage but continue to work cooperatively to survey the Arctic continental shelf; because of the dispute over Machias Seal Island and adjoining North Rock, the terminus of the land boundary beyond Canada's Grand Manon Island and the US state of Maine is not defined</p> <p><em>US-Canada-Mexico</em>: the US has intensified domestic security measures and is collaborating closely with its neighbors, Canada and Mexico, to monitor and control legal and illegal personnel, transport, and commodities across the international borders</p> <p><em>US-Cuba</em>: the US Naval Base at Guantanamo Bay is leased from Cuba and only mutual agreement or US abandonment of the area can terminate the lease</p> <p><em>US-Haiti</em>: Haiti claims US-administered Navassa Island; the dispute dates to 1857, when the US claimed the Navassa Island under the 1856 Guano Act; Haiti claims it has had ownership over Navassa Island continuously since its 1801 constitution laid claim to “adjacent lands”</p> <p><em>US-Marshall Islands</em>: in May 2016, the Marshall Islands filed a declaration of authority with the UN over Wake Island, which is currently a US territory, reaffirming that it considers Wake Island part of its territory; control over Wake Island would drastically increase the Marshall Islands’ exclusive economic zone; the US State Department is assembling a group of experts from both countries to discuss the maritime boundary</p> <p><em>US-Russia</em>: 1990 Maritime Boundary Agreement in the Bering Sea still awaits Russian Duma ratification</p> <p><em>US-Tokelau</em>: Tokelau included American Samoa's Swains Island among the islands listed in its 2006 draft constitution; Swains Island has been administered by American Samoa since 1925; the 1980 Treaty of Tokehega delineates the maritime boundary between American Samoa and Tokelau; while not specifically mentioning Swains Island, the treaty notes in its preamble that New Zealand does not claim as part of Tokelau any island administered as part of American Samoa</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: the US admitted 11,411 refugees during FY2021 including: 4,891 (Democratic Republic of the Congo), 1,246 (Syria), 872 (Afghanistan), 803 (Ukraine), 772 (Burma), 513 (Sudan)<br>
+_refugees (country of origin)_: the US admitted 25,465 refugees during FY2022, including: 7,810 (Democratic Republic of the Congo), 4,556 (Syria), 2,156 (Burma), 1,669 (Sudan), 1,618 (Afghanistan), 1,610 (Ukraine)<br>
 _stateless persons_: 47 (mid-year 2021)<br>
 
 **Illicit drugs**<br>

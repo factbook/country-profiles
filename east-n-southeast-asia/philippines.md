@@ -166,7 +166,7 @@ _female_: 73.86 years (2022 est.)<br>
 2.78 children born/woman (2022 est.)<br>
 
 **Gross reproduction rate**<br>
-1.36 (2022 est.)<br>
+1.35 (2023 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 54.1% (2017)<br>
@@ -220,11 +220,11 @@ _total_: 22.9% (2020 est.)<br>
 _male_: 39.3% (2020 est.)<br>
 _female_: 6.5% (2020 est.)<br>
 
-**Currently married women (ages 15-49)**<br>
-59.5% (2022 est.)<br>
-
 **Children under the age of 5 years underweight**<br>
 19.1% (2018)<br>
+
+**Currently married women (ages 15-49)**<br>
+59.3% (2023 est.)<br>
 
 **Child marriage**<br>
 _women married by age 15_: 2.2%<br>
@@ -245,9 +245,9 @@ _male_: 13 years<br>
 _female_: 13 years (2020)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 7%<br>
-_male_: 6.1%<br>
-_female_: 8.5% (2020 est.)<br>
+_total_: 7.3%<br>
+_male_: 6.3%<br>
+_female_: 9% (2021 est.)<br>
 
 **People - note**<br>
 one of only two predominantly Christian nations in Southeast Asia, the other being Timor-Leste<br>
@@ -416,29 +416,29 @@ _selected World Heritage Site locales_: Baroque Churches of the Philippines (c);
 <p>The economy has been relatively resilient to global economic shocks due to less exposure to troubled international securities, lower dependence on exports, relatively resilient domestic consumption, large remittances from about 10 million overseas Filipino workers and migrants, and a rapidly expanding services industry. During 2017, the current account balance fell into the negative range, the first time since the 2008 global financial crisis, in part due to an ambitious new infrastructure spending program announced this year. However, international reserves remain at comfortable levels and the banking system is stable.</p> <p> </p> <p>Efforts to improve tax administration and expenditures management have helped ease the Philippines' debt burden and tight fiscal situation. The Philippines received investment-grade credit ratings on its sovereign debt under the former AQUINO administration and has had little difficulty financing its budget deficits. However, weak absorptive capacity and implementation bottlenecks have prevented the government from maximizing its expenditure plans. Although it has improved, the low tax-to-GDP ratio remains a constraint to supporting increasingly higher spending levels and sustaining high and inclusive growth over the longer term.</p> <p> </p> <p>Economic growth has accelerated, averaging over 6% per year from 2011 to 2017, compared with 4.5% under the MACAPAGAL-ARROYO government; and competitiveness rankings have improved. Although 2017 saw a new record year for net foreign direct investment inflows, FDI to the Philippines has continued to lag regional peers, in part because the Philippine constitution and other laws limit foreign investment and restrict foreign ownership in important activities/sectors - such as land ownership and public utilities.</p> <p> </p> <p>Although the economy grew at a rapid pace under the AQUINO government, challenges to achieving more inclusive growth remain. Wealth is concentrated in the hands of the rich. The unemployment rate declined from 7.3% to 5.7% between 2010 and 2017; while there has been some improvement, underemployment remains high at around 17% to 18% of the employed population. At least 40% of the employed work in the informal sector. Poverty afflicts more than a fifth of the total population but is as high as 75% in some areas of the southern Philippines. More than 60% of the poor reside in rural areas, where the incidence of poverty (about 30%) is more severe - a challenge to raising rural farm and non-farm incomes. Continued efforts are needed to improve governance, the judicial system, the regulatory environment, the infrastructure, and the overall ease of doing business.</p> <p> </p> <p>2016 saw the election of President Rodrigo DUTERTE, who has pledged to make inclusive growth and poverty reduction his top priority. DUTERTE believes that illegal drug use, crime and corruption are key barriers to economic development. The administration wants to reduce the poverty rate to 17% and graduate the economy to upper-middle income status by the end of President DUTERTE’s term in 2022. Key themes under the government’s Ten-Point Socioeconomic Agenda include continuity of macroeconomic policy, tax reform, higher investments in infrastructure and human capital development, and improving competitiveness and the overall ease of doing business. The administration sees infrastructure shortcomings as a key barrier to sustained economic growth and has pledged to spend $165 billion on infrastructure by 2022. Although the final outcome has yet to be seen, the current administration is shepherding legislation for a comprehensive tax reform program to raise revenues for its ambitious infrastructure spending plan and to promote a more equitable and efficient tax system. However, the need to finance rehabilitation and reconstruction efforts in the southern region of Mindanao following the 2017 Marawi City siege may compete with other spending on infrastructure.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
-$871.56 billion (2020 est.)<br>
+$921.826 billion (2021 est.)<br>
+$872.09 billion (2020 est.)<br>
 $963.83 billion (2019 est.)<br>
-$908.26 billion (2018 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
-6.04% (2019 est.)<br>
-6.34% (2018 est.)<br>
-6.94% (2017 est.)<br>
+5.7% (2021 est.)<br>
+-9.52% (2020 est.)<br>
+6.12% (2019 est.)<br>
 
 **Real GDP per capita**<br>
-$8,000 (2020 est.)<br>
-$8,900 (2019 est.)<br>
-$8,500 (2018 est.)<br>
+$8,100 (2021 est.)<br>
+$7,800 (2020 est.)<br>
+$8,700 (2019 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
 $377.205 billion (2019 est.)<br>
 
 **Inflation rate (consumer prices)**<br>
-2.4% (2019 est.)<br>
-5.2% (2018 est.)<br>
-2.8% (2017 est.)<br>
+3.93% (2021 est.)<br>
+2.39% (2020 est.)<br>
+2.39% (2019 est.)<br>
 
 **Credit ratings**<br>
 _Fitch rating_: BBB (2017)<br>
@@ -466,10 +466,10 @@ sugar cane, rice, coconuts, maize, bananas, vegetables, tropical fruit, plantain
 semiconductors and electronics assembly, business process outsourcing, food and beverage manufacturing, construction, electric/gas/water supply, chemical products, radio/television/communications equipment and apparatus, petroleum and fuel, textile and garments, non-metallic minerals, basic metal industries, transport equipment<br>
 
 **Industrial production growth rate**<br>
-7.2% (2017 est.)<br>
+8.49% (2021 est.)<br>
 
 **Labor force**<br>
-41.533 million (2020 est.)<br>
+44.242 million (2021 est.)<br>
 
 **Labor force - by occupation**<br>
 _agriculture_: 25.4%<br>
@@ -477,20 +477,20 @@ _industry_: 18.3%<br>
 _services_: 56.3% (2017 est.)<br>
 
 **Unemployment rate**<br>
-5.11% (2019 est.)<br>
-5.29% (2018 est.)<br>
+2.41% (2021 est.)<br>
+2.52% (2020 est.)<br>
+2.24% (2019 est.)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 7%<br>
-_male_: 6.1%<br>
-_female_: 8.5% (2020 est.)<br>
+_total_: 7.3%<br>
+_male_: 6.3%<br>
+_female_: 9% (2021 est.)<br>
 
 **Population below poverty line**<br>
 16.7% (2018 est.)<br>
 
 **Gini Index coefficient - distribution of family income**<br>
 44.4 (2015 est.)<br>
-46 (2012 est.)<br>
 
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 3.2%<br>
@@ -508,19 +508,20 @@ _expenditures_: 56.02 billion (2017 est.)<br>
 39% of GDP (2016 est.)<br>
 
 **Taxes and other revenues**<br>
-15.6% (of GDP) (2017 est.)<br>
+13.95% (of GDP) (2020 est.)<br>
 
 **Fiscal year**<br>
 calendar year<br>
 
 **Current account balance**<br>
--$3.386 billion (2019 est.)<br>
--$8.877 billion (2018 est.)<br>
+-$6.009 billion (2021 est.)<br>
+$11.578 billion (2020 est.)<br>
+-$3.047 billion (2019 est.)<br>
 
 **Exports**<br>
-$78.82 billion (2020 est.) note: data are in current year dollars<br>
-$94.74 billion (2019 est.) note: data are in current year dollars<br>
-$90.37 billion (2018 est.) note: data are in current year dollars<br>
+$87.79 billion (2021 est.) note: data are in current year dollars<br>
+$80.034 billion (2020 est.) note: data are in current year dollars<br>
+$94.741 billion (2019 est.) note: data are in current year dollars<br>
 
 **Exports - partners**<br>
 China 16%, United States 15%, Japan 13%, Hong Kong 12%, Singapore 7%, Germany 5% (2019)<br>
@@ -529,9 +530,9 @@ China 16%, United States 15%, Japan 13%, Hong Kong 12%, Singapore 7%, Germany 5%
 integrated circuits, office machinery/parts, insulated wiring, semiconductors, transformers (2019)<br>
 
 **Imports**<br>
-$97.58 billion (2020 est.) note: data are in current year dollars<br>
-$131.01 billion (2019 est.) note: data are in current year dollars<br>
-$129.74 billion (2018 est.) note: data are in current year dollars<br>
+$126.508 billion (2021 est.) note: data are in current year dollars<br>
+$99.943 billion (2020 est.) note: data are in current year dollars<br>
+$131.013 billion (2019 est.) note: data are in current year dollars<br>
 
 **Imports - partners**<br>
 China 29%, Japan 8%, South Korea 7%, United States 6%, Singapore 6%, Indonesia 6%, Thailand 5%, Taiwan 5% (2019)<br>
@@ -540,8 +541,9 @@ China 29%, Japan 8%, South Korea 7%, United States 6%, Singapore 6%, Indonesia 6
 integrated circuits, refined petroleum, cars, crude petroleum, broadcasting equipment (2019)<br>
 
 **Reserves of foreign exchange and gold**<br>
-$81.57 billion (31 December 2017 est.)<br>
-$80.69 billion (31 December 2016 est.)<br>
+$108.755 billion (31 December 2021 est.)<br>
+$109.99 billion (31 December 2020 est.)<br>
+$89.515 billion (31 December 2019 est.)<br>
 
 **Debt - external**<br>
 $81.995 billion (2019 est.)<br>
@@ -549,11 +551,11 @@ $75.192 billion (2018 est.)<br>
 
 **Exchange rates**<br>
 _Currency_: Philippine pesos (PHP) per US dollar -<br>
-48.055 (2020 est.)<br>
-50.81 (2019 est.)<br>
-52.71 (2018 est.)<br>
-45.503 (2014 est.)<br>
-44.395 (2013 est.)<br>
+49.255 (2021 est.)<br>
+49.624 (2020 est.)<br>
+51.796 (2019 est.)<br>
+52.661 (2018 est.)<br>
+50.404 (2017 est.)<br>
 
 ## Energy
 

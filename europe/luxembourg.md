@@ -161,7 +161,7 @@ _female_: 85.58 years (2022 est.)<br>
 1.63 children born/woman (2022 est.)<br>
 
 **Gross reproduction rate**<br>
-0.79 (2022 est.)<br>
+0.79 (2023 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 NA<br>
@@ -209,11 +209,11 @@ _total_: 21.1% (2020 est.)<br>
 _male_: 22.4% (2020 est.)<br>
 _female_: 19.8% (2020 est.)<br>
 
-**Currently married women (ages 15-49)**<br>
-51.4% (2022 est.)<br>
-
 **Children under the age of 5 years underweight**<br>
 NA<br>
+
+**Currently married women (ages 15-49)**<br>
+51.4% (2023 est.)<br>
 
 **Education expenditures**<br>
 5% of GDP (2020 est.)<br>
@@ -229,9 +229,9 @@ _male_: 15 years<br>
 _female_: 15 years (2020)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 16.9%<br>
-_male_: 17.7%<br>
-_female_: 16.1% (2021 est.)<br>
+_total_: 15.2%<br>
+_male_: 16.3%<br>
+_female_: 14.1% (2021 est.)<br>
 
 ## Environment
 
@@ -390,29 +390,29 @@ _selected World Heritage Site locales_: Luxembourg City Old Quarters and Fortifi
 <p>This small, stable, high-income economy has historically featured solid growth, low inflation, and low unemployment. Luxembourg, the only Grand Duchy in the world, is a landlocked country in northwestern Europe surrounded by Belgium, France, and Germany. Despite its small landmass and small population, Luxembourg is the fifth-wealthiest country in the world when measured on a gross domestic product (PPP) per capita basis. Luxembourg has one of the highest current account surpluses as a share of GDP in the euro zone, and it maintains a healthy budgetary position, with a 2017 surplus of 0.5% of GDP, and the lowest public debt level in the region.</p> <p> </p> <p>Since 2002, Luxembourg’s government has proactively implemented policies and programs to support economic diversification and to attract foreign direct investment. The government focused on key innovative industries that showed promise for supporting economic growth: logistics, information and communications technology (ICT); health technologies, including biotechnology and biomedical research; clean energy technologies, and more recently, space technology and financial services technologies. The economy has evolved and flourished, posting strong GDP growth of 3.4% in 2017, far outpacing the European average of 1.8%.</p> <p> </p> <p>Luxembourg remains a financial powerhouse – the financial sector accounts for more than 35% of GDP - because of the exponential growth of the investment fund sector through the launch and development of cross-border funds (UCITS) in the 1990s. Luxembourg is the world’s second-largest investment fund asset domicile, after the US, with $4 trillion of assets in custody in financial institutions.</p> <p> </p> <p>Luxembourg has lost some of its advantage as a favorable tax location because of OECD and EU pressure, as well as the "LuxLeaks" scandal, which revealed advantageous tax treatments offered to foreign corporations. In 2015, the government’s compliance with EU requirements to implement automatic exchange of tax information on savings accounts - thus ending banking secrecy - has constricted banking activity. Likewise, changes to the way EU members collect taxes from e-commerce has cut Luxembourg’s sales tax revenues, requiring the government to raise additional levies and to reduce some direct social benefits as part of the tax reform package of 2017. The tax reform package also included reductions in the corporate tax rate and increases in deductions for families, both intended to increase purchasing power and increase competitiveness.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
-$69.72 billion (2020 est.)<br>
-$70.64 billion (2019 est.)<br>
-$69.06 billion (2018 est.)<br>
+$74.045 billion (2021 est.)<br>
+$70.45 billion (2020 est.)<br>
+$71.016 billion (2019 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
-2.31% (2019 est.)<br>
-3.14% (2018 est.)<br>
-1.81% (2017 est.)<br>
+5.1% (2021 est.)<br>
+-0.8% (2020 est.)<br>
+2.32% (2019 est.)<br>
 
 **Real GDP per capita**<br>
-$110,300 (2020 est.)<br>
-$113,900 (2019 est.)<br>
-$113,600 (2018 est.)<br>
+$115,700 (2021 est.)<br>
+$111,800 (2020 est.)<br>
+$114,500 (2019 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
 $71.089 billion (2019 est.)<br>
 
 **Inflation rate (consumer prices)**<br>
-1.7% (2019 est.)<br>
-1.5% (2018 est.)<br>
-1.7% (2017 est.)<br>
+2.53% (2021 est.)<br>
+0.82% (2020 est.)<br>
+1.74% (2019 est.)<br>
 
 **Credit ratings**<br>
 _Fitch rating_: AAA (1994)<br>
@@ -440,10 +440,10 @@ milk, wheat, barley, triticale, potatoes, pork, beef, grapes, rapeseed, oats<br>
 banking and financial services, construction, real estate services, iron, metals, and steel, information technology, telecommunications, cargo transportation and logistics, chemicals, engineering, tires, glass, aluminum, tourism, biotechnology<br>
 
 **Industrial production growth rate**<br>
-1.9% (2017 est.)<br>
+2.87% (2021 est.)<br>
 
 **Labor force**<br>
-476,000 (2020 est.)<br>
+333,900 (2021 est.)<br>
 <strong>note:</strong> data exclude foreign workers; in addition to the figure for domestic labor force, about 150,000 workers commute daily from France, Belgium, and Germany<br>
 
 **Labor force - by occupation**<br>
@@ -452,20 +452,20 @@ _industry_: 20%<br>
 _services_: 78.9% (2013 est.)<br>
 
 **Unemployment rate**<br>
-5.36% (2019 est.)<br>
-5.46% (2018 est.)<br>
+5.23% (2021 est.)<br>
+6.77% (2020 est.)<br>
+5.59% (2019 est.)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 16.9%<br>
-_male_: 17.7%<br>
-_female_: 16.1% (2021 est.)<br>
+_total_: 15.2%<br>
+_male_: 16.3%<br>
+_female_: 14.1% (2021 est.)<br>
 
 **Population below poverty line**<br>
 17.5% (2018 est.)<br>
 
 **Gini Index coefficient - distribution of family income**<br>
-34.9 (2017 est.)<br>
-26 (2005 est.)<br>
+34.2 (2019 est.)<br>
 
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 3.5%<br>
@@ -484,19 +484,20 @@ _expenditures_: 26.8 billion (2017 est.)<br>
 <strong>note:</strong> data cover general government debt and include debt instruments issued (or owned) by government entities other than the treasury; the data include treasury debt held by foreign entities; the data include debt issued by subnational entities, as well as intragovernmental debt; intragovernmental debt consists of treasury borrowings from surpluses in the social funds, such as for retirement, medical care, and unemployment; debt instruments for the social funds are not sold at public auctions<br>
 
 **Taxes and other revenues**<br>
-44.4% (of GDP) (2017 est.)<br>
+25.13% (of GDP) (2020 est.)<br>
 
 **Fiscal year**<br>
 calendar year<br>
 
 **Current account balance**<br>
-$3.254 billion (2019 est.)<br>
-$3.296 billion (2018 est.)<br>
+$4.141 billion (2021 est.)<br>
+$3.496 billion (2020 est.)<br>
+$2.459 billion (2019 est.)<br>
 
 **Exports**<br>
-$137.09 billion (2020 est.) note: data are in current year dollars<br>
-$133.59 billion (2019 est.) note: data are in current year dollars<br>
-$136.11 billion (2018 est.) note: data are in current year dollars<br>
+$177.831 billion (2021 est.) note: data are in current year dollars<br>
+$145.417 billion (2020 est.) note: data are in current year dollars<br>
+$139.559 billion (2019 est.) note: data are in current year dollars<br>
 
 **Exports - partners**<br>
 Germany 23%, France 13%, Belgium 12%, Netherlands 6%, Italy 5% (2019)<br>
@@ -505,9 +506,9 @@ Germany 23%, France 13%, Belgium 12%, Netherlands 6%, Italy 5% (2019)<br>
 iron and iron products, tires, cars, broadcasting equipment, clothing and apparel&nbsp; (2019)<br>
 
 **Imports**<br>
-$110.1 billion (2020 est.) note: data are in current year dollars<br>
-$108.29 billion (2019 est.) note: data are in current year dollars<br>
-$110.28 billion (2018 est.) note: data are in current year dollars<br>
+$148.15 billion (2021 est.) note: data are in current year dollars<br>
+$121.328 billion (2020 est.) note: data are in current year dollars<br>
+$116.803 billion (2019 est.) note: data are in current year dollars<br>
 
 **Imports - partners**<br>
 Belgium 27%, Germany 24%, France 11%, Netherlands 5% (2019)<br>
@@ -516,8 +517,9 @@ Belgium 27%, Germany 24%, France 11%, Netherlands 5% (2019)<br>
 cars, refined petroleum, broadcasting equipment, scrap iron, aircraft (2019)<br>
 
 **Reserves of foreign exchange and gold**<br>
-$878 million (31 December 2017 est.)<br>
-$974 million (31 December 2016 est.)<br>
+$2.921 billion (31 December 2021 est.)<br>
+$1.119 billion (31 December 2020 est.)<br>
+$1.055 billion (31 December 2019 est.)<br>
 
 **Debt - external**<br>
 $4,266,792,000,000 (2019 est.)<br>
@@ -525,11 +527,11 @@ $4,581,617,000,000 (2018 est.)<br>
 
 **Exchange rates**<br>
 _Currency_: euros (EUR) per US dollar -<br>
-0.82771 (2020 est.)<br>
-0.90338 (2019 est.)<br>
-0.87789 (2018 est.)<br>
-0.885 (2014 est.)<br>
-0.7634 (2013 est.)<br>
+0.845 (2021 est.)<br>
+0.876 (2020 est.)<br>
+0.893 (2019 est.)<br>
+0.847 (2018 est.)<br>
+0.885 (2017 est.)<br>
 
 ## Energy
 

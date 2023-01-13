@@ -166,7 +166,7 @@ _female_: 84.39 years (2022 est.)<br>
 1.86 children born/woman (2022 est.)<br>
 
 **Gross reproduction rate**<br>
-0.91 (2022 est.)<br>
+0.9 (2023 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 79.9% (2014/15)<br>
@@ -215,11 +215,11 @@ _total_: 13.7% (2020 est.)<br>
 _male_: 15% (2020 est.)<br>
 _female_: 12.3% (2020 est.)<br>
 
-**Currently married women (ages 15-49)**<br>
-57.6% (2022 est.)<br>
-
 **Children under the age of 5 years underweight**<br>
 NA<br>
+
+**Currently married women (ages 15-49)**<br>
+57.6% (2023 est.)<br>
 
 **Education expenditures**<br>
 6% of GDP (2020 est.)<br>
@@ -235,9 +235,9 @@ _male_: 20 years<br>
 _female_: 21 years (2020)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 10.5%<br>
-_male_: 10.8%<br>
-_female_: 10.2% (2021 est.)<br>
+_total_: 11.4%<br>
+_male_: 12.2%<br>
+_female_: 10.6% (2021 est.)<br>
 
 ## Environment
 
@@ -398,29 +398,29 @@ _selected World Heritage Site locales_: Te Wahipounamu – South West New Zealan
 <p>Over the past 40 years, the government has transformed New Zealand from an agrarian economy, dependent on concessionary British market access, to a more industrialized, free market economy that can compete globally. This dynamic growth has boosted real incomes, but left behind some at the bottom of the ladder and broadened and deepened the technological capabilities of the industrial sector.</p> <p> </p> <p>Per capita income rose for 10 consecutive years until 2007 in purchasing power parity terms, but fell in 2008-09. Debt-driven consumer spending drove robust growth in the first half of the decade, fueling a large balance of payments deficit that posed a challenge for policymakers. Inflationary pressures caused the central bank to raise its key rate steadily from January 2004 until it was among the highest in the OECD in 2007 and 2008. The higher rate attracted international capital inflows, which strengthened the currency and housing market while aggravating the current account deficit. Rising house prices, especially in Auckland, have become a political issue in recent years, as well as a policy challenge in 2016 and 2017, as the ability to afford housing has declined for many.</p> <p> </p> <p>Expanding New Zealand’s network of free trade agreements remains a top foreign policy priority. New Zealand was an early promoter of the Trans-Pacific Partnership (TPP) and was the second country to ratify the agreement in May 2017. Following the United States’ withdrawal from the TPP in January 2017, on 10 November 2017 the remaining 11 countries agreed on the core elements of a modified agreement, which they renamed the Comprehensive and Progressive Agreement for Trans-Pacific Partnership (CPTPP). In November 2016, New Zealand opened negotiations to upgrade its FTA with China; China is one of New Zealand’s most important trading partners.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
-$215.6 billion (2020 est.)<br>
-$213.5 billion (2019 est.)<br>
-$210.07 billion (2018 est.)<br>
+$219.839 billion (2021 est.)<br>
+$211.966 billion (2020 est.)<br>
+$214.655 billion (2019 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
-2.22% (2019 est.)<br>
-3.22% (2018 est.)<br>
-3.8% (2017 est.)<br>
+3.71% (2021 est.)<br>
+-1.25% (2020 est.)<br>
+2.19% (2019 est.)<br>
 
 **Real GDP per capita**<br>
-$42,400 (2020 est.)<br>
-$42,900 (2019 est.)<br>
-$42,900 (2018 est.)<br>
+$42,900 (2021 est.)<br>
+$41,600 (2020 est.)<br>
+$43,100 (2019 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
 $205.202 billion (2019 est.)<br>
 
 **Inflation rate (consumer prices)**<br>
-1.6% (2019 est.)<br>
-1.5% (2018 est.)<br>
-1.8% (2017 est.)<br>
+3.94% (2021 est.)<br>
+1.71% (2020 est.)<br>
+1.62% (2019 est.)<br>
 
 **Credit ratings**<br>
 _Fitch rating_: AA (2011)<br>
@@ -448,10 +448,10 @@ milk, beef, kiwi fruit, apples, potatoes, mutton, grapes, wheat, barley, green o
 agriculture, forestry, fishing, logs and wood articles, manufacturing, mining, construction, financial services, real estate services, tourism<br>
 
 **Industrial production growth rate**<br>
-1.8% (2017 est.)<br>
+-2.09% (2020 est.)<br>
 
 **Labor force**<br>
-2.709 million (2020 est.)<br>
+2.911 million (2021 est.)<br>
 
 **Labor force - by occupation**<br>
 _agriculture_: 6.6%<br>
@@ -459,13 +459,14 @@ _industry_: 20.7%<br>
 _services_: 72.7% (2017 est.)<br>
 
 **Unemployment rate**<br>
-4.13% (2019 est.)<br>
-4.32% (2018 est.)<br>
+4.12% (2021 est.)<br>
+4.59% (2020 est.)<br>
+4.11% (2019 est.)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 10.5%<br>
-_male_: 10.8%<br>
-_female_: 10.2% (2021 est.)<br>
+_total_: 11.4%<br>
+_male_: 12.2%<br>
+_female_: 10.6% (2021 est.)<br>
 
 **Population below poverty line**<br>
 NA<br>
@@ -485,24 +486,26 @@ _expenditures_: 70.97 billion (2017 est.)<br>
 1.6% (of GDP) (2017 est.)<br>
 
 **Public debt**<br>
-31.7% of GDP (2017 est.)<br>
-33.5% of GDP (2016 est.)<br>
+46.33% of GDP (2020 est.)<br>
+32.7% of GDP (2019 est.)<br>
+36.61% of GDP (2018 est.)<br>
 
 **Taxes and other revenues**<br>
-36.8% (of GDP) (2017 est.)<br>
+27.5% (of GDP) (2020 est.)<br>
 
 **Fiscal year**<br>
 1 April - 31 March<br>
 <strong>note:</strong> this is the fiscal year for tax purposes<br>
 
 **Current account balance**<br>
--$6.962 billion (2019 est.)<br>
--$8.742 billion (2018 est.)<br>
+-$14.827 billion (2021 est.)<br>
+-$2.014 billion (2020 est.)<br>
+-$5.945 billion (2019 est.)<br>
 
 **Exports**<br>
-$50.43 billion (2020 est.) note: data are in current year dollars<br>
-$57.16 billion (2019 est.) note: data are in current year dollars<br>
-$57.71 billion (2018 est.) note: data are in current year dollars<br>
+$54.777 billion (2021 est.) note: data are in current year dollars<br>
+$50.544 billion (2020 est.) note: data are in current year dollars<br>
+$57.875 billion (2019 est.) note: data are in current year dollars<br>
 
 **Exports - partners**<br>
 China 28%, Australia 14%, United States 9%, Japan 6% (2019)<br>
@@ -511,9 +514,9 @@ China 28%, Australia 14%, United States 9%, Japan 6% (2019)<br>
 dairy products, sheep/goat meats, lumber, beef products, fresh fruits (2019)<br>
 
 **Imports**<br>
-$47.86 billion (2020 est.) note: data are in current year dollars<br>
-$57.75 billion (2019 est.) note: data are in current year dollars<br>
-$58.39 billion (2018 est.) note: data are in current year dollars<br>
+$62.862 billion (2021 est.) note: data are in current year dollars<br>
+$48.104 billion (2020 est.) note: data are in current year dollars<br>
+$57.682 billion (2019 est.) note: data are in current year dollars<br>
 
 **Imports - partners**<br>
 China 18%, Australia 15%, United States 9%, Japan 6%, Germany 5% (2019)<br>
@@ -522,8 +525,9 @@ China 18%, Australia 15%, United States 9%, Japan 6%, Germany 5% (2019)<br>
 cars, crude petroleum, refined petroleum, delivery trucks, gas turbines (2019)<br>
 
 **Reserves of foreign exchange and gold**<br>
-$20.68 billion (31 December 2017 est.)<br>
-$17.81 billion (31 December 2016 est.)<br>
+$16.114 billion (31 December 2021 est.)<br>
+$13.733 billion (31 December 2020 est.)<br>
+$17.814 billion (31 December 2019 est.)<br>
 
 **Debt - external**<br>
 $190.621 billion (2019 est.)<br>
@@ -531,11 +535,11 @@ $192.327 billion (2018 est.)<br>
 
 **Exchange rates**<br>
 _Currency_: New Zealand dollars (NZD) per US dollar -<br>
-1.41794 (2020 est.)<br>
-1.52334 (2019 est.)<br>
-1.45709 (2018 est.)<br>
-1.4279 (2014 est.)<br>
-1.2039 (2013 est.)<br>
+1.414 (2021 est.)<br>
+1.542 (2020 est.)<br>
+1.518 (2019 est.)<br>
+1.445 (2018 est.)<br>
+1.407 (2017 est.)<br>
 
 ## Energy
 

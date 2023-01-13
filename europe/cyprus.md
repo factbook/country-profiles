@@ -164,7 +164,7 @@ _female_: 82.68 years (2022 est.)<br>
 1.48 children born/woman (2022 est.)<br>
 
 **Gross reproduction rate**<br>
-0.72 (2022 est.)<br>
+0.72 (2023 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 NA<br>
@@ -212,11 +212,11 @@ _total_: 35.1% (2020 est.)<br>
 _male_: 47% (2020 est.)<br>
 _female_: 23.2% (2020 est.)<br>
 
-**Currently married women (ages 15-49)**<br>
-54.5% (2022 est.)<br>
-
 **Children under the age of 5 years underweight**<br>
 NA<br>
+
+**Currently married women (ages 15-49)**<br>
+54.5% (2023 est.)<br>
 
 **Education expenditures**<br>
 6.1% of GDP (2020 est.)<br>
@@ -233,9 +233,9 @@ _male_: 16 years<br>
 _female_: 16 years (2020)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 17.1%<br>
-_male_: 17.8%<br>
-_female_: 16.3% (2021 est.)<br>
+_total_: 11.8%<br>
+_male_: 9.2%<br>
+_female_: 14.9% (2021 est.)<br>
 
 **People - note**<br>
 demographic data for Cyprus represent the population of the government-controlled area and the area administered by Turkish Cypriots, unless otherwise indicated<br>
@@ -401,29 +401,29 @@ _selected World Heritage Site locales_: Paphos; Painted Churches in the Troodos 
 <p>The area of the Republic of Cyprus under government control has a market economy dominated by a services sector that accounts for more than four-fifths of GDP. Tourism, finance, shipping, and real estate have traditionally been the most important services. Cyprus has been a member of the EU since May 2004 and adopted the euro as its national currency in January 2008.</p> <p> </p> <p>During the first five years of EU membership, the Cyprus economy grew at an average rate of about 4%, with unemployment between 2004 and 2008 averaging about 4%. However, the economy tipped into recession in 2009 as the ongoing global financial crisis and resulting low demand hit the tourism and construction sectors. An overextended banking sector with excessive exposure to Greek debt added to the contraction. Cyprus’ biggest two banks were among the largest holders of Greek bonds in Europe and had a substantial presence in Greece through bank branches and subsidiaries. Following numerous downgrades of its credit rating, Cyprus lost access to international capital markets in May 2011. In July 2012, Cyprus became the fifth euro-zone government to request an economic bailout program from the European Commission, European Central Bank and the International Monetary Fund - known collectively as the "Troika."</p> <p> </p> <p>Shortly after the election of President Nikos ANASTASIADES in February 2013, Cyprus reached an agreement with the Troika on a $13 billion bailout that triggered a two-week bank closure and the imposition of capital controls that remained partially in place until April 2015. Cyprus' two largest banks merged and the combined entity was recapitalized through conversion of some large bank deposits to shares and imposition of losses on bank bondholders. As with other EU countries, the Troika conditioned the bailout on passing financial and structural reforms and privatizing state-owned enterprises. Despite downsizing and restructuring, the Cypriot financial sector remains burdened by the largest stock of non-performing loans in the euro zone, equal to nearly half of all loans. Since the bailout, Cyprus has received positive appraisals by the Troika and outperformed fiscal targets but has struggled to overcome political opposition to bailout-mandated legislation, particularly regarding privatizations. The rate of non-performing loans (NPLs) is still very high at around 49%, and growth would accelerate if Cypriot banks could increase the pace of resolution of the NPLs.</p> <p> </p> <p>In October 2013, a US-Israeli consortium completed preliminary appraisals of hydrocarbon deposits in Cyprus’ exclusive economic zone (EEZ), which estimated gross mean reserves of about 130 billion cubic meters. Though exploration continues in Cyprus’ EEZ, no additional commercially exploitable reserves have been identified. Developing offshore hydrocarbon resources remains a critical component of the government’s economic recovery efforts, but development has been delayed as a result of regional developments and disagreements about exploitation methods.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
-$33.67 billion (2020 est.)<br>
-$35.48 billion (2019 est.)<br>
-$34.42 billion (2018 est.)<br>
+$37.546 billion (2021 est.)<br>
+$35.209 billion (2020 est.)<br>
+$36.819 billion (2019 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
-3.08% (2019 est.)<br>
-5.25% (2018 est.)<br>
-5.16% (2017 est.)<br>
+6.64% (2021 est.)<br>
+-4.37% (2020 est.)<br>
+5.53% (2019 est.)<br>
 
 **Real GDP per capita**<br>
-$37,700 (2020 est.)<br>
-$40,200 (2019 est.)<br>
-$39,600 (2018 est.)<br>
+$41,700 (2021 est.)<br>
+$39,500 (2020 est.)<br>
+$41,700 (2019 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
 $24.946 billion (2019 est.)<br>
 
 **Inflation rate (consumer prices)**<br>
-0.2% (2019 est.)<br>
-1.4% (2018 est.)<br>
-0.5% (2017 est.)<br>
+2.45% (2021 est.)<br>
+-0.64% (2020 est.)<br>
+0.25% (2019 est.)<br>
 
 **Credit ratings**<br>
 _Fitch rating_: BBB- (2018)<br>
@@ -451,10 +451,10 @@ milk, potatoes, pork, sheep milk, goat milk, barley, wheat, poultry, olives, tan
 tourism, food and beverage processing, cement and gypsum, ship repair and refurbishment, textiles, light chemicals, metal products, wood, paper, stone and clay products<br>
 
 **Industrial production growth rate**<br>
-13.4% (2017 est.)<br>
+8.1% (2021 est.)<br>
 
 **Labor force**<br>
-416,000 (2019 est.)<br>
+655,100 (2021 est.)<br>
 
 **Labor force - by occupation**<br>
 _agriculture_: 3.8%<br>
@@ -462,20 +462,20 @@ _industry_: 15.2%<br>
 _services_: 81% (2014 est.)<br>
 
 **Unemployment rate**<br>
+6.13% (2021 est.)<br>
+7.59% (2020 est.)<br>
 7.07% (2019 est.)<br>
-8.37% (2018 est.)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 17.1%<br>
-_male_: 17.8%<br>
-_female_: 16.3% (2021 est.)<br>
+_total_: 11.8%<br>
+_male_: 9.2%<br>
+_female_: 14.9% (2021 est.)<br>
 
 **Population below poverty line**<br>
 14.7% (2018 est.)<br>
 
 **Gini Index coefficient - distribution of family income**<br>
-31.4 (2017 est.)<br>
-32.4 (2013 est.)<br>
+31.2 (2019 est.)<br>
 
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 3.3%<br>
@@ -494,19 +494,20 @@ _expenditures_: 8.275 billion (2017 est.)<br>
 <strong>note:</strong> data cover general government debt and include debt instruments issued (or owned) by government entities other than the treasury; the data include treasury debt held by foreign entities; the data exclude debt issued by subnational entities, as well as intragovernmental debt; intragovernmental debt consists of treasury borrowings from surpluses in the social funds, such as for retirement, medical care, and unemployment<br>
 
 **Taxes and other revenues**<br>
-39.9% (of GDP) (2017 est.)<br>
+22.42% (of GDP) (2020 est.)<br>
 
 **Fiscal year**<br>
 calendar year<br>
 
 **Current account balance**<br>
--$1.578 billion (2019 est.)<br>
--$958 million (2018 est.)<br>
+-$1.957 billion (2021 est.)<br>
+-$2.523 billion (2020 est.)<br>
+-$1.445 billion (2019 est.)<br>
 
 **Exports**<br>
-$16.1 billion (2020 est.)<br>
-$17.92 billion (2019 est.)<br>
-$19.02 billion (2018 est.)<br>
+$24.551 billion (2021 est.)<br>
+$20.379 billion (2020 est.)<br>
+$19.835 billion (2019 est.)<br>
 <strong>note:</strong> Data are in current year dollars and do not include illicit exports or re-exports.<br>
 
 **Exports - partners**<br>
@@ -516,9 +517,9 @@ India 9%, Greece 9%, Libya 8%, United Kingdom 7% (2019)<br>
 ships, refined petroleum, packaged medicines, cheese, crude petroleum (2019)<br>
 
 **Imports**<br>
-$17.58 billion (2020 est.) note: data are in current year dollars<br>
-$18.2 billion (2019 est.) note: data are in current year dollars<br>
-$18.6 billion (2018 est.) note: data are in current year dollars<br>
+$23.748 billion (2021 est.) note: data are in current year dollars<br>
+$20.711 billion (2020 est.) note: data are in current year dollars<br>
+$19.575 billion (2019 est.) note: data are in current year dollars<br>
 
 **Imports - partners**<br>
 Greece 16%, Italy 10%, Turkey 8%, Russia 5%, Germany 5%, United Kingdom 5%, China 5% (2019)<br>
@@ -527,8 +528,9 @@ Greece 16%, Italy 10%, Turkey 8%, Russia 5%, Germany 5%, United Kingdom 5%, Chin
 refined petroleum, ships, cars, coal tar oil, packaged medicines (2019)<br>
 
 **Reserves of foreign exchange and gold**<br>
-$888.2 million (31 December 2017 est.)<br>
-$817.7 million (31 December 2016 est.)<br>
+$1.611 billion (31 December 2021 est.)<br>
+$1.237 billion (31 December 2020 est.)<br>
+$1.033 billion (31 December 2019 est.)<br>
 
 **Debt - external**<br>
 $213.19 billion (2019 est.)<br>
@@ -536,11 +538,11 @@ $231.885 billion (2018 est.)<br>
 
 **Exchange rates**<br>
 _Currency_: euros (EUR) per US dollar -<br>
-0.82771 (2020 est.)<br>
-0.90338 (2019 est.)<br>
-0.87789 (2018 est.)<br>
-0.885 (2014 est.)<br>
-0.7634 (2013 est.)<br>
+0.845 (2021 est.)<br>
+0.876 (2020 est.)<br>
+0.893 (2019 est.)<br>
+0.847 (2018 est.)<br>
+0.885 (2017 est.)<br>
 
 **Economy of the area administered by Turkish Cypriots**<br>
 <p><strong>Economy - overview:</strong> Even though the whole of the island is part of the EU, implementation of the EU "acquis communautaire" has been suspended in the area administered by Turkish Cypriots, known locally as the "Turkish Republic of Northern Cyprus" ("TRNC"), until political conditions permit the reunification of the island. The market-based economy of the "TRNC" is roughly one-fifth the size of its southern neighbor and is likewise dominated by the service sector with a large portion of the population employed by the government. In 2012 - the latest year for which data are available - the services sector, which includes the public sector, trade, tourism, and education, contributed 58.7% to economic output. In the same year, light manufacturing and agriculture contributed 2.7% and 6.2%, respectively. Manufacturing is limited mainly to food and beverages, furniture and fixtures, construction materials, metal and non-metal products, textiles and clothing. The "TRNC" maintains few economic ties with the Republic of Cyprus outside of trade in construction materials. Since its creation, the "TRNC" has heavily relied on financial assistance from Turkey, which supports the "TRNC" defense, telecommunications, water and postal services. The Turkish Lira is the preferred currency, though foreign currencies are widely accepted in business transactions. The "TRNC" remains vulnerable to the Turkish market and monetary policy because of its use of the Turkish Lira. The "TRNC" weathered the European financial crisis relatively unscathed - compared to the Republic of Cyprus - because of the lack of financial sector development, the health of the Turkish economy, and its separation from the rest of the island. The "TRNC" economy experienced growth estimated at 2.8% in 2013 and 2.3% in 2014 and is projected to grow 3.8% in 2015.; </p><p><strong>GDP (purchasing power parity):</strong> $1.829 billion (2007 est.); </p><p><strong>GDP - real growth rate:</strong> 2.3% (2014 est.); </p><p>2.8% (2013 est.); </p><p><strong>GDP - per capita:</strong> $11,700 (2007 est.); </p><p><strong>GDP - composition by sector:</strong> agriculture: 6.2%,; industry: 35.1%,; services: 58.7% (2012 est.); </p><p><strong>Labor force:</strong> 95,030 (2007 est.); </p><p><strong>Labor force - by occupation:</strong> agriculture: 14.5%,; industry: 29%,; services: 56.5% (2004); </p><p><strong>Unemployment rate:</strong> 9.4% (2005 est.); </p><p><strong>Population below poverty line:</strong> %NA; </p><p><strong>Inflation rate:</strong> 11.4% (2006); </p><p><strong>Budget:</strong> revenues: $2.5 billion,; expenditures: $2.5 billion (2006); </p><p><strong>Agriculture - products:</strong> citrus fruit, dairy, potatoes, grapes, olives, poultry, lamb; </p><p><strong>Industries:</strong> foodstuffs, textiles, clothing, ship repair, clay, gypsum, copper, furniture; </p><p><strong>Industrial production growth rate:</strong> -0.3% (2007 est.); </p><p><strong>Electricity production:</strong> 998.9 million kWh (2005); </p><p><strong>Electricity consumption:</strong> 797.9 million kWh (2005); </p><p><strong>Exports:</strong> $68.1 million, f.o.b. (2007 est.); </p><p><strong>Export - commodities:</strong> citrus, dairy, potatoes, textiles; </p><p><strong>Export - partners:</strong> Turkey 40%; direct trade between the area administered by Turkish Cypriots and the area under government control remains limited; </p><p><strong>Imports:</strong> $1.2 billion, f.o.b. (2007 est.); </p><p><strong>Import - commodities:</strong> vehicles, fuel, cigarettes, food, minerals, chemicals, machinery; </p><p><strong>Import - partners:</strong> Turkey 60%; direct trade between the area administered by Turkish Cypriots and the area under government control remains limited; </p><p><strong>Reserves of foreign exchange and gold:</strong> NA; </p><p><strong>Debt - external:</strong> NA; </p><p><strong>Currency (code):</strong> Turkish new lira (YTL); </p><p><strong>Exchange rates:</strong> Turkish new lira per US dollar:; 1.9 (2013); 1.8 (2012); 1.668 (2011); 1.5026 (2010); 1.55 (2009); </p><br>
@@ -716,7 +718,7 @@ Islamic State of Iraq and ash-Sham (ISIS)<br>
 <p>hostilities in 1974 divided the island into two de facto autonomous entities, the internationally recognized Cypriot Government and a Turkish-Cypriot community (north Cyprus); the 1,000-strong UN Peacekeeping Force in Cyprus (UNFICYP) has served in Cyprus since 1964 and maintains the buffer zone between north and south; on 1 May 2004, Cyprus entered the EU still divided, with the EU's body of legislation and standards (acquis communitaire) suspended in the north; Turkey protests Cypriot Government creating hydrocarbon blocks and maritime boundary with Lebanon in March 2007</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 9,820 (Syria) (mid-year 2021); 14,510 (Ukraine) (as of 18 December 2022)<br>
+_refugees (country of origin)_: 10,869 (Syria) (mid-year 2022); 14,510 (Ukraine) (as of 18 December 2022)<br>
 _IDPs_: 242,000 (both Turkish and Greek Cypriots; many displaced since 1974) (2021)<br>
 _stateless persons_: 66 (mid-year 2021)<br>
 <strong>note:</strong> 47,836 estimated refugee and migrant arrivals (January 2015-November 2022)<br>

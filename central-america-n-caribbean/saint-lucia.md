@@ -155,7 +155,7 @@ _female_: 81.84 years (2022 est.)<br>
 1.72 children born/woman (2022 est.)<br>
 
 **Gross reproduction rate**<br>
-0.84 (2022 est.)<br>
+0.84 (2023 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 55.5% (2011/12)<br>
@@ -198,11 +198,11 @@ _wine_: 0.4 liters of pure alcohol (2019 est.)<br>
 _spirits_: 5.1 liters of pure alcohol (2019 est.)<br>
 _other alcohols_: 0.6 liters of pure alcohol (2019 est.)<br>
 
-**Currently married women (ages 15-49)**<br>
-53.5% (2022 est.)<br>
-
 **Children under the age of 5 years underweight**<br>
 2.8% (2012)<br>
+
+**Currently married women (ages 15-49)**<br>
+53.6% (2023 est.)<br>
 
 **Education expenditures**<br>
 3.6% of GDP (2020 est.)<br>
@@ -218,9 +218,9 @@ _male_: 12 years<br>
 _female_: 13 years (2020)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 44.7%<br>
-_male_: 46.4%<br>
-_female_: 42.6% (2021 est.)<br>
+_total_: 38.7%<br>
+_male_: 41%<br>
+_female_: 36.2% (2021 est.)<br>
 
 ## Environment
 
@@ -367,28 +367,29 @@ _selected World Heritage Site locales_: Pitons Management Area<br>
 <p>The island nation has been able to attract foreign business and investment, especially in its offshore banking and tourism industries. Tourism is Saint Lucia's main source of jobs and income - accounting for 65% of GDP - and the island's main source of foreign exchange earnings. The manufacturing sector is the most diverse in the Eastern Caribbean area. Crops such as bananas, mangos, and avocados continue to be grown for export, but St. Lucia's once solid banana industry has been devastated by strong competition.</p> <p> </p> <p>Saint Lucia is vulnerable to a variety of external shocks, including volatile tourism receipts, natural disasters, and dependence on foreign oil. Furthermore, high public debt - 77% of GDP in 2012 - and high debt servicing obligations constrain the CHASTANET administration's ability to respond to adverse external shocks.</p> <p> </p> <p>St. Lucia has experienced anemic growth since the onset of the global financial crisis in 2008, largely because of a slowdown in tourism - airlines cut back on their routes to St. Lucia in 2012. Also, St. Lucia introduced a value added tax in 2012 of 15%, becoming the last country in the Eastern Caribbean to do so. In 2013, the government introduced a National Competitiveness and Productivity Council to address St. Lucia's high public wages and lack of productivity.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
-$2.25 billion (2020 est.)<br>
-$2.82 billion (2019 est.)<br>
-$2.78 billion (2018 est.)<br>
+$2.344 billion (2021 est.)<br>
+$2.088 billion (2020 est.)<br>
+$2.761 billion (2019 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
-3% (2017 est.)<br>
-3.4% (2016 est.)<br>
--0.9% (2015 est.)<br>
+12.23% (2021 est.)<br>
+-24.36% (2020 est.)<br>
+-0.65% (2019 est.)<br>
 
 **Real GDP per capita**<br>
-$12,300 (2020 est.)<br>
-$15,400 (2019 est.)<br>
-$15,300 (2018 est.)<br>
+$13,000 (2021 est.)<br>
+$11,700 (2020 est.)<br>
+$15,500 (2019 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
 $1.686 billion (2017 est.)<br>
 
 **Inflation rate (consumer prices)**<br>
-0.1% (2017 est.)<br>
--3.1% (2016 est.)<br>
+2.41% (2021 est.)<br>
+-1.76% (2020 est.)<br>
+0.54% (2019 est.)<br>
 
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 2.9% (2017 est.)<br>
@@ -410,10 +411,10 @@ bananas, coconuts, fruit, tropical fruit, plantains, roots/tubers, cassava, poul
 tourism; clothing, assembly of electronic components, beverages, corrugated cardboard boxes, lime processing, coconut processing<br>
 
 **Industrial production growth rate**<br>
-6% (2017 est.)<br>
+10.8% (2021 est.)<br>
 
 **Labor force**<br>
-79,700 (2012 est.)<br>
+99,900 (2021 est.)<br>
 
 **Labor force - by occupation**<br>
 _agriculture_: 21.7%<br>
@@ -421,12 +422,14 @@ _industry_: 24.7%<br>
 _services_: 53.6% (2002 est.)<br>
 
 **Unemployment rate**<br>
-20% (2003 est.)<br>
+16.91% (2021 est.)<br>
+16.89% (2020 est.)<br>
+15.32% (2019 est.)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 44.7%<br>
-_male_: 46.4%<br>
-_female_: 42.6% (2021 est.)<br>
+_total_: 38.7%<br>
+_male_: 41%<br>
+_female_: 36.2% (2021 est.)<br>
 
 **Population below poverty line**<br>
 25% (2016 est.)<br>
@@ -450,18 +453,20 @@ _expenditures_: 392.8 million (2017 est.)<br>
 69.2% of GDP (2016 est.)<br>
 
 **Taxes and other revenues**<br>
-23.6% (of GDP) (2017 est.)<br>
+18.24% (of GDP) (2017 est.)<br>
 
 **Fiscal year**<br>
 1 April - 31 March<br>
 
 **Current account balance**<br>
-$21 million (2017 est.)<br>
--$31 million (2016 est.)<br>
+-$2.289 million (2021 est.)<br>
+-$237.61 million (2020 est.)<br>
+$119.6 million (2019 est.)<br>
 
 **Exports**<br>
-$1.22 billion (2018 est.) note: data are in current year dollars<br>
-$188.2 million (2016 est.)<br>
+$890.724 million (2021 est.) note: data are in current year dollars<br>
+$445.965 million (2020 est.)<br>
+$1.209 billion (2019 est.)<br>
 
 **Exports - partners**<br>
 United States 29%, Uruguay 16%, Barbados 8%, Trinidad and Tobago 5.5%, United Kingdom 6%, Dominica 6%, Guyana 5%, France 5% (2019)<br>
@@ -470,8 +475,9 @@ United States 29%, Uruguay 16%, Barbados 8%, Trinidad and Tobago 5.5%, United Ki
 crude petroleum, beer, jewelry, bananas, refined petroleum, rum (2019)<br>
 
 **Imports**<br>
-$1 billion (2018 est.) note: data are in current year dollars<br>
-$575.9 million (2016 est.)<br>
+$846.484 million (2021 est.) note: data are in current year dollars<br>
+$672.769 million (2020 est.)<br>
+$968.174 million (2019 est.)<br>
 
 **Imports - partners**<br>
 Colombia 46%, United States 30%, Trinidad and Tobago 5% (2019)<br>
@@ -480,8 +486,9 @@ Colombia 46%, United States 30%, Trinidad and Tobago 5% (2019)<br>
 crude petroleum, refined petroleum, cars, poultry meats, natural gas (2019)<br>
 
 **Reserves of foreign exchange and gold**<br>
-$321.8 million (31 December 2017 est.)<br>
-$320.7 million (31 December 2016 est.)<br>
+$433.117 million (31 December 2021 est.)<br>
+$231.361 million (31 December 2020 est.)<br>
+$260.87 million (31 December 2019 est.)<br>
 
 **Debt - external**<br>
 $570.6 million (31 December 2017 est.)<br>
@@ -489,11 +496,11 @@ $529 million (31 December 2015 est.)<br>
 
 **Exchange rates**<br>
 _Currency_: East Caribbean dollars (XCD) per US dollar -<br>
+2.7 (2021 est.)<br>
+2.7 (2020 est.)<br>
+2.7 (2019 est.)<br>
+2.7 (2018 est.)<br>
 2.7 (2017 est.)<br>
-2.7 (2016 est.)<br>
-2.7 (2015 est.)<br>
-2.7 (2014 est.)<br>
-2.7 (2013 est.)<br>
 
 ## Energy
 

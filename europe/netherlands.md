@@ -167,7 +167,7 @@ _female_: 84.49 years (2022 est.)<br>
 1.78 children born/woman (2022 est.)<br>
 
 **Gross reproduction rate**<br>
-0.87 (2022 est.)<br>
+0.86 (2023 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 73% (2013)<br>
@@ -216,11 +216,11 @@ _total_: 22.2% (2020 est.)<br>
 _male_: 24.4% (2020 est.)<br>
 _female_: 19.9% (2020 est.)<br>
 
-**Currently married women (ages 15-49)**<br>
-53.8% (2022 est.)<br>
-
 **Children under the age of 5 years underweight**<br>
 NA<br>
+
+**Currently married women (ages 15-49)**<br>
+53.7% (2023 est.)<br>
 
 **Education expenditures**<br>
 5.3% of GDP (2020 est.)<br>
@@ -236,9 +236,9 @@ _male_: 18 years<br>
 _female_: 19 years (2020)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 9.3%<br>
-_male_: 9.7%<br>
-_female_: 9% (2021 est.)<br>
+_total_: 9.6%<br>
+_male_: 10%<br>
+_female_: 9.2% (2021 est.)<br>
 
 ## Environment
 
@@ -404,29 +404,29 @@ _selected World Heritage Site locales_: Schokland and Surroundings (c); Dutch Wa
 <p>The Netherlands, the sixth-largest economy in the European Union, plays an important role as a European transportation hub, with a consistently high trade surplus, stable industrial relations, and low unemployment. Industry focuses on food processing, chemicals, petroleum refining, and electrical machinery. A highly mechanized agricultural sector employs only 2% of the labor force but provides large surpluses for food-processing and underpins the country’s status as the world’s second largest agricultural exporter.</p> <p> </p> <p>The Netherlands is part of the euro zone, and as such, its monetary policy is controlled by the European Central Bank. The Dutch financial sector is highly concentrated, with four commercial banks possessing over 80% of banking assets, and is four times the size of Dutch GDP.</p> <p> </p> <p>In 2008, during the financial crisis, the government budget deficit hit 5.3% of GDP. Following a protracted recession from 2009 to 2013, during which unemployment doubled to 7.4% and household consumption contracted for four consecutive years, economic growth began inching forward in 2014. Since 2010, Prime Minister Mark RUTTE’s government has implemented significant austerity measures to improve public finances and has instituted broad structural reforms in key policy areas, including the labor market, the housing sector, the energy market, and the pension system. In 2017, the government budget returned to a surplus of 0.7% of GDP, with economic growth of 3.2%, and GDP per capita finally surpassed pre-crisis levels. The fiscal policy announced by the new government in the 2018-2021 coalition plans for increases in government consumption and public investment, fueling domestic demand and household consumption and investment. The new government’s policy also plans to increase demand for workers in the public and private sector, forecasting a further decline in the unemployment rate, which hit 4.8% in 2017.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
-$945.48 billion (2020 est.)<br>
-$982.22 billion (2019 est.)<br>
-$966.02 billion (2018 est.)<br>
+$992.675 billion (2021 est.)<br>
+$946.637 billion (2020 est.)<br>
+$984.912 billion (2019 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
-1.63% (2019 est.)<br>
-2.32% (2018 est.)<br>
-3.02% (2017 est.)<br>
+4.86% (2021 est.)<br>
+-3.89% (2020 est.)<br>
+1.96% (2019 est.)<br>
 
 **Real GDP per capita**<br>
-$54,200 (2020 est.)<br>
-$56,600 (2019 est.)<br>
-$56,100 (2018 est.)<br>
+$56,600 (2021 est.)<br>
+$54,300 (2020 est.)<br>
+$56,800 (2019 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
 $907.042 billion (2019 est.)<br>
 
 **Inflation rate (consumer prices)**<br>
-2.6% (2019 est.)<br>
-1.7% (2018 est.)<br>
-1.3% (2017 est.)<br>
+2.68% (2021 est.)<br>
+1.27% (2020 est.)<br>
+2.63% (2019 est.)<br>
 
 **Credit ratings**<br>
 _Fitch rating_: AAA (1994)<br>
@@ -454,10 +454,10 @@ milk, potatoes, sugar beet, pork, onions, wheat, poultry, tomatoes, carrots/turn
 agroindustries, metal and engineering products, electrical machinery and equipment, chemicals, petroleum, construction, microelectronics, fishing<br>
 
 **Industrial production growth rate**<br>
-3.3% (2017 est.)<br>
+4.93% (2021 est.)<br>
 
 **Labor force**<br>
-8.907 million (2020 est.)<br>
+9.902 million (2021 est.)<br>
 
 **Labor force - by occupation**<br>
 _agriculture_: 1.2%<br>
@@ -465,20 +465,20 @@ _industry_: 17.2%<br>
 _services_: 81.6% (2015 est.)<br>
 
 **Unemployment rate**<br>
-3.41% (2019 est.)<br>
-3.84% (2018 est.)<br>
+4.01% (2021 est.)<br>
+3.82% (2020 est.)<br>
+3.38% (2019 est.)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 9.3%<br>
-_male_: 9.7%<br>
-_female_: 9% (2021 est.)<br>
+_total_: 9.6%<br>
+_male_: 10%<br>
+_female_: 9.2% (2021 est.)<br>
 
 **Population below poverty line**<br>
 13.6% (2019 est.)<br>
 
 **Gini Index coefficient - distribution of family income**<br>
 28.5 (2017 est.)<br>
-25.1 (2013 est.)<br>
 
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 2.3%<br>
@@ -497,19 +497,20 @@ _expenditures_: 352.4 billion (2017 est.)<br>
 <strong>note:</strong> data cover general government debt and include debt instruments issued (or owned) by government entities other than the treasury; the data include treasury debt held by foreign entities; the data include debt issued by subnational entities, as well as intragovernmental debt; intragovernmental debt consists of treasury borrowings from surpluses in the social funds, such as for retirement, medical care, and unemployment, debt instruments for the social funds are not sold at public auctions<br>
 
 **Taxes and other revenues**<br>
-43.4% (of GDP) (2017 est.)<br>
+24.38% (of GDP) (2020 est.)<br>
 
 **Fiscal year**<br>
 calendar year<br>
 
 **Current account balance**<br>
-$90.207 billion (2019 est.)<br>
-$98.981 billion (2018 est.)<br>
+$73.138 billion (2021 est.)<br>
+$46.794 billion (2020 est.)<br>
+$62.998 billion (2019 est.)<br>
 
 **Exports**<br>
-$719.78 billion (2020 est.) note: data are in current year dollars<br>
-$755.77 billion (2019 est.) note: data are in current year dollars<br>
-$773.74 billion (2018 est.) note: data are in current year dollars<br>
+$839.646 billion (2021 est.) note: data are in current year dollars<br>
+$712.259 billion (2020 est.) note: data are in current year dollars<br>
+$751.225 billion (2019 est.) note: data are in current year dollars<br>
 
 **Exports - partners**<br>
 Germany 20%, Belgium 12%, United Kingdom 9%, France 7%, United States 5% (2019)<br>
@@ -518,9 +519,9 @@ Germany 20%, Belgium 12%, United Kingdom 9%, France 7%, United States 5% (2019)<
 refined petroleum, packaged medicines, broadcasting equipment, photography equipment, computers (2019)<br>
 
 **Imports**<br>
-$622.66 billion (2020 est.) note: data are in current year dollars<br>
-$661.18 billion (2019 est.) note: data are in current year dollars<br>
-$677.38 billion (2018 est.) note: data are in current year dollars<br>
+$735.748 billion (2021 est.) note: data are in current year dollars<br>
+$620.532 billion (2020 est.) note: data are in current year dollars<br>
+$661.973 billion (2019 est.) note: data are in current year dollars<br>
 
 **Imports - partners**<br>
 Germany 15%, China 11%, Belgium 9%, United States 8%, Russia 7%, United Kingdom 5% (2019)<br>
@@ -529,8 +530,9 @@ Germany 15%, China 11%, Belgium 9%, United States 8%, Russia 7%, United Kingdom 
 crude petroleum, refined petroleum, broadcasting equipment, computers, cars (2019)<br>
 
 **Reserves of foreign exchange and gold**<br>
-$38.44 billion (31 December 2017 est.)<br>
-$38.21 billion (31 December 2015 est.)<br>
+$64.469 billion (31 December 2021 est.)<br>
+$53.971 billion (31 December 2020 est.)<br>
+$43.32 billion (31 December 2019 est.)<br>
 
 **Debt - external**<br>
 $4,345,413,000,000 (2019 est.)<br>
@@ -538,11 +540,11 @@ $4,625,016,000,000 (2018 est.)<br>
 
 **Exchange rates**<br>
 _Currency_: euros (EUR) per US dollar -<br>
-0.82771 (2020 est.)<br>
-0.90338 (2019 est.)<br>
-0.87789 (2018 est.)<br>
-0.885 (2014 est.)<br>
-0.7634 (2013 est.)<br>
+0.845 (2021 est.)<br>
+0.876 (2020 est.)<br>
+0.893 (2019 est.)<br>
+0.847 (2018 est.)<br>
+0.885 (2017 est.)<br>
 
 ## Energy
 
@@ -730,7 +732,7 @@ Islamic State of Iraq and ash-Sham (ISIS)<br>
 <p>none identified</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 37,792 (Syria), 14,787 (Eritrea), 8,368 (Somalia), 6,636 (Iraq), 5,346 (Iran) (mid-year 2021); 79,250 (Ukraine) (as of 30 September 2022)<br>
+_refugees (country of origin)_: 53,496 (Syria), 19,204 (Eritrea), 7,106 (Turkey), 5,593 (Iran), 5,152 (Iraq) (mid-year 2022); 79,250 (Ukraine) (as of 30 September 2022)<br>
 _stateless persons_: 2,087 (mid-year 2021)<br>
 
 **Illicit drugs**<br>

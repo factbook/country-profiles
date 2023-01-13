@@ -167,7 +167,7 @@ _female_: 78.97 years (2022 est.)<br>
 1.5 children born/woman (2022 est.)<br>
 
 **Gross reproduction rate**<br>
-0.73 (2022 est.)<br>
+0.73 (2023 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 NA<br>
@@ -215,11 +215,11 @@ _total_: 39% (2020 est.)<br>
 _male_: 40.9% (2020 est.)<br>
 _female_: 37.1% (2020 est.)<br>
 
-**Currently married women (ages 15-49)**<br>
-57.8% (2022 est.)<br>
-
 **Children under the age of 5 years underweight**<br>
 1.9% (2014)<br>
+
+**Currently married women (ages 15-49)**<br>
+57.3% (2023 est.)<br>
 
 **Education expenditures**<br>
 4% of GDP (2020 est.)<br>
@@ -236,9 +236,9 @@ _male_: 13 years<br>
 _female_: 14 years (2020)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 15.8%<br>
-_male_: 16.1%<br>
-_female_: 15.3% (2021 est.)<br>
+_total_: 14.2%<br>
+_male_: 14.3%<br>
+_female_: 14% (2021 est.)<br>
 
 ## Environment
 
@@ -403,29 +403,29 @@ _selected World Heritage Site locales_: Boyana Church (c); Madara Rider (c); Thr
 <p>Bulgaria, a former communist country that entered the EU in 2007, has an open economy that historically has demonstrated strong growth, but its per-capita income remains the lowest among EU members and its reliance on energy imports and foreign demand for its exports makes its growth sensitive to external market conditions.</p> <p> </p> <p>The government undertook significant structural economic reforms in the 1990s to move the economy from a centralized, planned economy to a more liberal, market-driven economy. These reforms included privatization of state-owned enterprises, liberalization of trade, and strengthening of the tax system - changes that initially caused some economic hardships but later helped to attract investment, spur growth, and make gradual improvements to living conditions. From 2000 through 2008, Bulgaria maintained robust, average annual real GDP growth in excess of 6%, which was followed by a deep recession in 2009 as the financial crisis caused domestic demand, exports, capital inflows and industrial production to contract, prompting the government to rein in spending. Real GDP growth remained slow - less than 2% annually - until 2015, when demand from EU countries for Bulgarian exports, plus an inflow of EU development funds, boosted growth to more than 3%. In recent years, strong domestic demand combined with low international energy prices have contributed to Bulgaria’s economic growth approaching 4% and have also helped to ease inflation. Bulgaria’s prudent public financial management contributed to budget surpluses both in 2016 and 2017.</p> <p> </p> <p>Bulgaria is heavily reliant on energy imports from Russia, a potential vulnerability, and is a participant in EU-backed efforts to diversify regional natural gas supplies. In late 2016, the Bulgarian Government provided funding to Bulgaria’s National Electric Company to cover the $695 million compensation owed to Russian nuclear equipment manufacturer Atomstroyexport for the cancellation of the Belene Nuclear Power Plant project, which the Bulgarian Government terminated in 2012. As of early 2018, the government was floating the possibility of resurrecting the Belene project. The natural gas market, dominated by state-owned Bulgargaz, is also almost entirely supplied by Russia. Infrastructure projects such as the Inter-Connector Greece-Bulgaria and Inter-Connector Bulgaria-Serbia, which would enable Bulgaria to have access to non-Russian gas, have either stalled or made limited progress. In 2016, the Bulgarian Government established the State eGovernment Agency. This new agency is responsible for the electronic governance, coordinating national policies with the EU, and strengthening cybersecurity.</p> <p> </p> <p>Despite a favorable investment regime, including low, flat corporate income taxes, significant challenges remain. Corruption in public administration, a weak judiciary, low productivity, lack of transparency in public procurements, and the presence of organized crime continue to hamper the country's investment climate and economic prospects.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
-$155.06 billion (2020 est.)<br>
-$161.78 billion (2019 est.)<br>
-$156.02 billion (2018 est.)<br>
+$167.804 billion (2021 est.)<br>
+$155.902 billion (2020 est.)<br>
+$162.328 billion (2019 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
-3.39% (2019 est.)<br>
-3.2% (2018 est.)<br>
-3.5% (2017 est.)<br>
+7.63% (2021 est.)<br>
+-3.96% (2020 est.)<br>
+4.04% (2019 est.)<br>
 
 **Real GDP per capita**<br>
-$22,400 (2020 est.)<br>
-$23,200 (2019 est.)<br>
-$22,200 (2018 est.)<br>
+$24,400 (2021 est.)<br>
+$22,500 (2020 est.)<br>
+$23,300 (2019 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
 $68.49 billion (2019 est.)<br>
 
 **Inflation rate (consumer prices)**<br>
+3.3% (2021 est.)<br>
+1.67% (2020 est.)<br>
 3.1% (2019 est.)<br>
-2.8% (2018 est.)<br>
-2% (2017 est.)<br>
 
 **Credit ratings**<br>
 _Fitch rating_: BBB (2017)<br>
@@ -453,10 +453,10 @@ wheat, maize, sunflower seed, milk, barley, rapeseed, potatoes, grapes, tomatoes
 electricity, gas, water; food, beverages, tobacco; machinery and equipment, automotive parts, base metals, chemical products, coke, refined petroleum, nuclear fuel; outsourcing centers<br>
 
 **Industrial production growth rate**<br>
-3.6% (2017 est.)<br>
+1.72% (2021 est.)<br>
 
 **Labor force**<br>
-3.113 million (2020 est.)<br>
+3.291 million (2021 est.)<br>
 <strong>note:</strong> number of employed persons<br>
 
 **Labor force - by occupation**<br>
@@ -465,20 +465,20 @@ _industry_: 26.6%<br>
 _services_: 66.6% (2016 est.)<br>
 
 **Unemployment rate**<br>
-5.66% (2019 est.)<br>
-6.18% (2018 est.)<br>
+5.42% (2021 est.)<br>
+5.12% (2020 est.)<br>
+4.23% (2019 est.)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 15.8%<br>
-_male_: 16.1%<br>
-_female_: 15.3% (2021 est.)<br>
+_total_: 14.2%<br>
+_male_: 14.3%<br>
+_female_: 14% (2021 est.)<br>
 
 **Population below poverty line**<br>
 23.8% (2019 est.)<br>
 
 **Gini Index coefficient - distribution of family income**<br>
-40.4 (2017 est.)<br>
-38.3 (2016)<br>
+40.3 (2019 est.)<br>
 
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 1.9%<br>
@@ -492,24 +492,26 @@ _expenditures_: 19.35 billion (2017 est.)<br>
 1.8% (of GDP) (2017 est.)<br>
 
 **Public debt**<br>
-23.9% of GDP (2017 est.)<br>
-27.4% of GDP (2016 est.)<br>
+32.24% of GDP (2020 est.)<br>
+26.92% of GDP (2019 est.)<br>
+28.69% of GDP (2018 est.)<br>
 <strong>note:</strong> defined by the EU's Maastricht Treaty as consolidated general government gross debt at nominal value, outstanding at the end of the year in the following categories of government liabilities: currency and deposits, securities other than shares excluding financial derivatives, and loans; general government sector comprises the subsectors: central government, state government, local government, and social security funds<br>
 
 **Taxes and other revenues**<br>
-35.7% (of GDP) (2017 est.)<br>
+20.27% (of GDP) (2020 est.)<br>
 
 **Fiscal year**<br>
 calendar year<br>
 
 **Current account balance**<br>
-$2.06 billion (2019 est.)<br>
-$611 million (2018 est.)<br>
+-$373.66 million (2021 est.)<br>
+-$31.19 million (2020 est.)<br>
+$1.264 billion (2019 est.)<br>
 
 **Exports**<br>
-$39.27 billion (2020 est.)<br>
-$44.04 billion (2019 est.)<br>
-$43.52 billion (2018 est.)<br>
+$51.505 billion (2021 est.)<br>
+$39.541 billion (2020 est.)<br>
+$44.041 billion (2019 est.)<br>
 <strong>note:</strong> Data are in current year dollars and do not include illicit exports or re-exports.<br>
 
 **Exports - partners**<br>
@@ -519,9 +521,9 @@ Germany 16%, Romania 8%, Italy 7%, Turkey 7%, Greece 6% (2019)<br>
 refined petroleum, packaged medicines, copper, wheat, electricity (2019)<br>
 
 **Imports**<br>
-$38.07 billion (2020 est.) note: data are in current year dollars<br>
-$41.84 billion (2019 est.) note: data are in current year dollars<br>
-$41.91 billion (2018 est.) note: data are in current year dollars<br>
+$50.059 billion (2021 est.) note: data are in current year dollars<br>
+$38.197 billion (2020 est.) note: data are in current year dollars<br>
+$41.843 billion (2019 est.) note: data are in current year dollars<br>
 
 **Imports - partners**<br>
 Germany 11%, Russia 9%, Italy 7%, Romania 7%, Turkey 7% (2019)<br>
@@ -530,8 +532,9 @@ Germany 11%, Russia 9%, Italy 7%, Romania 7%, Turkey 7% (2019)<br>
 crude petroleum, copper, cars, packaged medicines, refined petroleum (2019)<br>
 
 **Reserves of foreign exchange and gold**<br>
-$28.38 billion (31 December 2017 est.)<br>
-$25.13 billion (31 December 2016 est.)<br>
+$39.188 billion (31 December 2021 est.)<br>
+$37.86 billion (31 December 2020 est.)<br>
+$27.902 billion (31 December 2019 est.)<br>
 
 **Debt - external**<br>
 $39.059 billion (2019 est.)<br>
@@ -539,11 +542,11 @@ $41.139 billion (2018 est.)<br>
 
 **Exchange rates**<br>
 _Currency_: leva (BGN) per US dollar -<br>
-1.61885 (2020 est.)<br>
-1.7669 (2019 est.)<br>
-1.7172 (2018 est.)<br>
-1.7644 (2014 est.)<br>
-1.4742 (2013 est.)<br>
+1.654 (2021 est.)<br>
+1.716 (2020 est.)<br>
+1.747 (2019 est.)<br>
+1.657 (2018 est.)<br>
+1.735 (2017 est.)<br>
 
 ## Energy
 
@@ -724,7 +727,7 @@ Islamic State of Iraq and ash-Sham (ISIS); Islamic Revolutionary Guard Corps/Qod
 <p>none</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 19,014 (Syria) (mid-year 2021); 51,140 (Ukraine) (as of 13 December 2022)<br>
+_refugees (country of origin)_: 22,226 (Syria) (mid-year 2022); 51,140 (Ukraine) (as of 13 December 2022)<br>
 _stateless persons_: 1,143 (mid-year 2021)<br>
 <strong>note:</strong> 84,937 estimated refugee and migrant arrivals (January 2015-October 2022); Bulgaria is predominantly a transit country<br>
 

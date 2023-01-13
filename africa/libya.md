@@ -168,7 +168,7 @@ _female_: 79.53 years (2022 est.)<br>
 3.09 children born/woman (2022 est.)<br>
 
 **Gross reproduction rate**<br>
-1.51 (2022 est.)<br>
+1.48 (2023 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 27.7% (2014)<br>
@@ -211,11 +211,11 @@ _wine_: 0.01 liters of pure alcohol (2019 est.)<br>
 _spirits_: 0 liters of pure alcohol (2019 est.)<br>
 _other alcohols_: 0 liters of pure alcohol (2019 est.)<br>
 
-**Currently married women (ages 15-49)**<br>
-59.6% (2022 est.)<br>
-
 **Children under the age of 5 years underweight**<br>
 11.7% (2014)<br>
+
+**Currently married women (ages 15-49)**<br>
+59.2% (2023 est.)<br>
 
 **Education expenditures**<br>
 NA<br>
@@ -227,9 +227,9 @@ _male_: 96.7%<br>
 _female_: 85.6% (2015)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 48.7%<br>
-_male_: 40.8%<br>
-_female_: 67.8% (2012 est.)<br>
+_total_: 50.5%<br>
+_male_: 41.4%<br>
+_female_: 73.8% (2021 est.)<br>
 
 ## Environment
 
@@ -386,20 +386,20 @@ _selected World Heritage Site locales_: Archaeological Site of Cyrene; Archaeolo
 <p>Libya's economy, almost entirely dependent on oil and gas exports, has struggled since 2014 given security and political instability, disruptions in oil production, and decline in global oil prices. The Libyan dinar has lost much of its value since 2014 and the resulting gap between official and black market exchange rates has spurred the growth of a shadow economy and contributed to inflation. The country suffers from widespread power outages, caused by shortages of fuel for power generation. Living conditions, including access to clean drinking water, medical services, and safe housing have all declined since 2011. Oil production in 2017 reached a five-year high, driving GDP growth, with daily average production rising to 879,000 barrels per day. However, oil production levels remain below the average pre-Revolution highs of 1.6 million barrels per day.</p> <p> </p> <p>The Central Bank of Libya continued to pay government salaries to a majority of the Libyan workforce and to fund subsidies for fuel and food, resulting in an estimated budget deficit of about 17% of GDP in 2017. Low consumer confidence in the banking sector and the economy as a whole has driven a severe liquidity shortage.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
-$70.65 billion (2020 est.)<br>
-$102.84 billion (2019 est.)<br>
-$100.3 billion (2018 est.)<br>
+$147.942 billion (2021 est.)<br>
+$112.612 billion (2020 est.)<br>
+$148.037 billion (2019 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
-64% (2017 est.)<br>
--7.4% (2016 est.)<br>
--13% (2015 est.)<br>
+31.37% (2021 est.)<br>
+-23.93% (2020 est.)<br>
+-11.2% (2019 est.)<br>
 
 **Real GDP per capita**<br>
-$10,300 (2020 est.)<br>
-$15,200 (2019 est.)<br>
-$15,000 (2018 est.)<br>
+$22,000 (2021 est.)<br>
+$16,900 (2020 est.)<br>
+$22,500 (2019 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
@@ -429,10 +429,10 @@ potatoes, watermelons, tomatoes, onions, dates, milk, olives, wheat, poultry, ve
 petroleum, petrochemicals, aluminum, iron and steel, food processing, textiles, handicrafts, cement<br>
 
 **Industrial production growth rate**<br>
-60.3% (2017 est.)<br>
+-10.57% (2019 est.)<br>
 
 **Labor force**<br>
-1.114 million (2017 est.)<br>
+2.28 million (2021 est.)<br>
 
 **Labor force - by occupation**<br>
 _agriculture_: 17%<br>
@@ -440,12 +440,14 @@ _industry_: 23%<br>
 _services_: 59% (2004 est.)<br>
 
 **Unemployment rate**<br>
-30% (2004 est.)<br>
+19.58% (2021 est.)<br>
+20.07% (2020 est.)<br>
+19.66% (2019 est.)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 48.7%<br>
-_male_: 40.8%<br>
-_female_: 67.8% (2012 est.)<br>
+_total_: 50.5%<br>
+_male_: 41.4%<br>
+_female_: 73.8% (2021 est.)<br>
 
 **Population below poverty line**<br>
 <p><strong>note:</strong> about one-third of Libyans live at or below the national poverty line</p><br>
@@ -472,12 +474,14 @@ _expenditures_: 23.46 billion (2017 est.)<br>
 calendar year<br>
 
 **Current account balance**<br>
-$2.574 billion (2017 est.)<br>
--$4.575 billion (2016 est.)<br>
+-$4.78 billion (2020 est.)<br>
+$4.817 billion (2019 est.)<br>
+$11.276 billion (2018 est.)<br>
 
 **Exports**<br>
-$29.96 billion (2018 est.) note: data are in current year dollars<br>
-$11.99 billion (2016 est.)<br>
+$9.537 billion (2020 est.) note: data are in current year dollars<br>
+$29.326 billion (2019 est.)<br>
+$29.964 billion (2018 est.)<br>
 
 **Exports - partners**<br>
 Italy 18%, China 16%, Germany 15%, Spain 15%, United Arab Emirates 6%, France 6%, United States 5% (2019)<br>
@@ -486,8 +490,9 @@ Italy 18%, China 16%, Germany 15%, Spain 15%, United Arab Emirates 6%, France 6%
 crude petroleum, natural gas, gold, refined petroleum, scrap iron (2019)<br>
 
 **Imports**<br>
-$18.85 billion (2018 est.) note: data are in current year dollars<br>
-$8.667 billion (2016 est.)<br>
+$14.334 billion (2020 est.) note: data are in current year dollars<br>
+$25.368 billion (2019 est.)<br>
+$18.849 billion (2018 est.)<br>
 
 **Imports - partners**<br>
 China 16%, Turkey 14%, Italy 9%, United Arab Emirates 9%, Egypt 5% (2019)<br>
@@ -496,8 +501,9 @@ China 16%, Turkey 14%, Italy 9%, United Arab Emirates 9%, Egypt 5% (2019)<br>
 refined petroleum, cars, broadcasting equipment, cigarettes, jewelry (2019)<br>
 
 **Reserves of foreign exchange and gold**<br>
-$74.71 billion (31 December 2017 est.)<br>
-$66.05 billion (31 December 2016 est.)<br>
+$82.262 billion (31 December 2021 est.)<br>
+$79.656 billion (31 December 2020 est.)<br>
+$84.664 billion (31 December 2019 est.)<br>
 
 **Debt - external**<br>
 $3.02 billion (31 December 2017 est.)<br>
@@ -505,11 +511,11 @@ $3.116 billion (31 December 2016 est.)<br>
 
 **Exchange rates**<br>
 _Currency_: Libyan dinars (LYD) per US dollar -<br>
-1.413 (2017 est.)<br>
-1.3904 (2016 est.)<br>
-1.3904 (2015 est.)<br>
-1.379 (2014 est.)<br>
-1.2724 (2013 est.)<br>
+4.514 (2021 est.)<br>
+1.389 (2020 est.)<br>
+1.398 (2019 est.)<br>
+1.365 (2018 est.)<br>
+1.394 (2017 est.)<br>
 
 ## Energy
 

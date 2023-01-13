@@ -153,7 +153,7 @@ _female_: 84.79 years (2022 est.)<br>
 1.82 children born/woman (2022 est.)<br>
 
 **Gross reproduction rate**<br>
-0.91 (2022 est.)<br>
+0.9 (2023 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 NA<br>
@@ -179,11 +179,11 @@ _unimproved: total_: total: 4.4% of population (2015 est.)<br>
 **HIV/AIDS - adult prevalence rate**<br>
 NA<br>
 
-**Currently married women (ages 15-49)**<br>
-51.2% (2022 est.)<br>
-
 **Children under the age of 5 years underweight**<br>
 NA<br>
+
+**Currently married women (ages 15-49)**<br>
+51.4% (2023 est.)<br>
 
 **Education expenditures**<br>
 2.1% of GDP (2019)<br>
@@ -318,19 +318,19 @@ _lyrics/music_: Leila E. ROSS<br>
 <p>With no direct taxation, the islands are a thriving offshore financial center. More than 65,000 companies were registered in the Cayman Islands as of 2017, including more than 280 banks, 700 insurers, and 10,500 mutual funds. A stock exchange was opened in 1997. Nearly 90% of the islands' food and consumer goods must be imported. The Caymanians enjoy a standard of living comparable to that of Switzerland.</p> <p> </p> <p>Tourism is also a mainstay, accounting for about 70% of GDP and 75% of foreign currency earnings. The tourist industry is aimed at the luxury market and caters mainly to visitors from North America. Total tourist arrivals exceeded 2.1 million in 2016, with more than three-quarters from the US.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
-$4.78 billion (2019 est.) note: data are in 2017 dollars<br>
-$4.61 billion (2018 est.) note: data are in 2017 dollars<br>
-$4.409 billion (2017 est.)<br>
+$4.599 billion (2021 est.) note: data are in 2017 dollars<br>
+$4.516 billion (2020 est.) note: data are in 2017 dollars<br>
+$4.788 billion (2019 est.)<br>
 
 **Real GDP growth rate**<br>
-1.7% (2014 est.)<br>
-1.2% (2013 est.)<br>
-1.6% (2012 est.)<br>
+1.84% (2021 est.)<br>
+-5.68% (2020 est.)<br>
+3.87% (2019 est.)<br>
 
 **Real GDP per capita**<br>
-$73,600 (2019 est.) note: data are in 2017 dollars<br>
-$71,800 (2018 est.) note: data are in 2017 dollars<br>
-$69,573 (2017 est.)<br>
+$67,500 (2021 est.) note: data are in 2017 dollars<br>
+$67,100 (2020 est.) note: data are in 2017 dollars<br>
+$72,400 (2019 est.)<br>
 
 **GDP (official exchange rate)**<br>
 $2.25 billion (2008 est.)<br>
@@ -363,7 +363,7 @@ vegetables, fruit; livestock; turtle farming<br>
 tourism, banking, insurance and finance, construction, construction materials, furniture<br>
 
 **Industrial production growth rate**<br>
-2.2% (2017 est.)<br>
+-3.36% (2020 est.)<br>
 
 **Labor force**<br>
 39,000 (2007 est.)<br>
@@ -404,12 +404,14 @@ _expenditures_: 766.6 million (2017 est.)<br>
 1 April - 31 March<br>
 
 **Current account balance**<br>
--$492.6 million (2017 est.)<br>
--$493.5 million (2016 est.)<br>
+-$763.556 million (2020 est.)<br>
+-$646.843 million (2019 est.)<br>
+-$927.544 million (2018 est.)<br>
 
 **Exports**<br>
-$4.13 billion (2019 est.)<br>
-$3.96 billion (2018 est.)<br>
+$3.652 billion (2020 est.)<br>
+$4.205 billion (2019 est.)<br>
+$3.959 billion (2018 est.)<br>
 <strong>note:</strong> Data are in current year dollars and do not include illicit exports or re-exports.<br>
 
 **Exports - partners**<br>
@@ -419,8 +421,9 @@ Netherlands 82%, Spain 11% (2019)<br>
 recreational boats, gold, broadcasting equipment, sulfates, collector's items (2019)<br>
 
 **Imports**<br>
-$2.7 billion (2019 est.) note: data are in current year dollars<br>
-$2.52 billion (2018 est.) note: data are in current year dollars<br>
+$2.507 billion (2020 est.) note: data are in current year dollars<br>
+$2.743 billion (2019 est.) note: data are in current year dollars<br>
+$2.518 billion (2018 est.)<br>
 
 **Imports - partners**<br>
 Netherlands 56%, United States 18%, Italy 8%, Switzerland 5% (2019)<br>
@@ -428,13 +431,18 @@ Netherlands 56%, United States 18%, Italy 8%, Switzerland 5% (2019)<br>
 **Imports - commodities**<br>
 recreational boats, ships, gold, refined petroleum, cars (2019)<br>
 
+**Reserves of foreign exchange and gold**<br>
+$216.8 million (31 December 2020 est.)<br>
+$183.5 million (31 December 2019 est.)<br>
+$162.074 million (31 December 2018 est.)<br>
+
 **Exchange rates**<br>
 _Currency_: Caymanian dollars (KYD) per US dollar -<br>
-0.82 (2017 est.)<br>
-0.82 (2016 est.)<br>
-0.82 (2015 est.)<br>
-0.82 (2014 est.)<br>
-0.83 (2013 est.)<br>
+0.833 (2021 est.)<br>
+0.833 (2020 est.)<br>
+0.833 (2019 est.)<br>
+0.833 (2018 est.)<br>
+0.833 (2017 est.)<br>
 
 ## Energy
 

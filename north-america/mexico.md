@@ -175,7 +175,7 @@ _female_: 75.88 years (2022 est.)<br>
 1.68 children born/woman (2022 est.)<br>
 
 **Gross reproduction rate**<br>
-0.82 (2022 est.)<br>
+0.85 (2023 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 73.1% (2018)<br>
@@ -229,11 +229,11 @@ _total_: 13.1% (2020 est.)<br>
 _male_: 19.9% (2020 est.)<br>
 _female_: 6.2% (2020 est.)<br>
 
-**Currently married women (ages 15-49)**<br>
-56.7% (2022 est.)<br>
-
 **Children under the age of 5 years underweight**<br>
 4.7% (2018/19)<br>
+
+**Currently married women (ages 15-49)**<br>
+56.6% (2023 est.)<br>
 
 **Child marriage**<br>
 _women married by age 15_: 3.6%<br>
@@ -254,8 +254,8 @@ _male_: 15 years<br>
 _female_: 15 years (2020)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 7.9%<br>
-_male_: 7.5%<br>
+_total_: 8.1%<br>
+_male_: 7.9%<br>
 _female_: 8.6% (2021 est.)<br>
 
 ## Environment
@@ -441,29 +441,29 @@ _selected World Heritage Site locales_: Historic Mexico City (c); Earliest 16th-
 <p>Mexico's $2.4 trillion economy – 11th largest in the world - has become increasingly oriented toward manufacturing since the North American Free Trade Agreement (NAFTA) entered into force in 1994. Per capita income is roughly one-third that of the US; income distribution remains highly unequal.</p> <p> </p> <p>Mexico has become the US' second-largest export market and third-largest source of imports. In 2017, two-way trade in goods and services exceeded $623 billion. Mexico has free trade agreements with 46 countries, putting more than 90% of its trade under free trade agreements. In 2012, Mexico formed the Pacific Alliance with Peru, Colombia, and Chile.</p> <p> </p> <p>Mexico's current government, led by President Enrique PENA NIETO, has emphasized economic reforms, passing and implementing sweeping energy, financial, fiscal, and telecommunications reform legislation, among others, with the long-term aim to improve competitiveness and economic growth across the Mexican economy. Since 2015, Mexico has held public auctions of oil and gas exploration and development rights and for long-term electric power generation contracts. Mexico has also issued permits for private sector import, distribution, and retail sales of refined petroleum products in an effort to attract private investment into the energy sector and boost production.</p> <p> </p> <p>Since 2013, Mexico’s economic growth has averaged 2% annually, falling short of private-sector expectations that President PENA NIETO’s sweeping reforms would bolster economic prospects. Growth is predicted to remain below potential given falling oil production, weak oil prices, structural issues such as low productivity, high inequality, a large informal sector employing over half of the workforce, weak rule of law, and corruption. Mexico’s economy remains vulnerable to uncertainty surrounding the future of NAFTA — because the United States is its top trading partner and the two countries share integrated supply chains — and to potential shifts in domestic policies following the inauguration of a new a president in December 2018.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
-$2,306,320,000,000 (2020 est.)<br>
-$2,513,410,000,000 (2019 est.)<br>
-$2,514,780,000,000 (2018 est.)<br>
+$2.418 trillion (2021 est.)<br>
+$2.309 trillion (2020 est.)<br>
+$2.51 trillion (2019 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
--0.3% (2019 est.)<br>
-2.19% (2018 est.)<br>
-2.34% (2017 est.)<br>
+4.72% (2021 est.)<br>
+-7.99% (2020 est.)<br>
+-0.2% (2019 est.)<br>
 
 **Real GDP per capita**<br>
-$17,900 (2020 est.)<br>
-$19,700 (2019 est.)<br>
-$19,900 (2018 est.)<br>
+$19,100 (2021 est.)<br>
+$18,300 (2020 est.)<br>
+$20,100 (2019 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
 $1,269,956,000,000 (2019 est.)<br>
 
 **Inflation rate (consumer prices)**<br>
-3.6% (2019 est.)<br>
-4.9% (2018 est.)<br>
-6% (2017 est.)<br>
+5.69% (2021 est.)<br>
+3.4% (2020 est.)<br>
+3.64% (2019 est.)<br>
 
 **Credit ratings**<br>
 _Fitch rating_: BBB- (2020)<br>
@@ -491,10 +491,10 @@ sugarcane, maize, milk, oranges, sorghum, tomatoes, poultry, wheat, green chilli
 food and beverages, tobacco, chemicals, iron and steel, petroleum, mining, textiles, clothing, motor vehicles, consumer durables, tourism<br>
 
 **Industrial production growth rate**<br>
--0.6% (2017 est.)<br>
+5.44% (2021 est.)<br>
 
 **Labor force**<br>
-50.914 million (2020 est.)<br>
+56.132 million (2021 est.)<br>
 
 **Labor force - by occupation**<br>
 _agriculture_: 13.4%<br>
@@ -502,21 +502,21 @@ _industry_: 24.1%<br>
 _services_: 61.9% (2011)<br>
 
 **Unemployment rate**<br>
-3.49% (2019 est.)<br>
-3.33% (2018 est.)<br>
+4.38% (2021 est.)<br>
+4.45% (2020 est.)<br>
+3.48% (2019 est.)<br>
 <strong>note:</strong> underemployment may be as high as 25%<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 7.9%<br>
-_male_: 7.5%<br>
+_total_: 8.1%<br>
+_male_: 7.9%<br>
 _female_: 8.6% (2021 est.)<br>
 
 **Population below poverty line**<br>
 41.9% (2018 est.)<br>
 
 **Gini Index coefficient - distribution of family income**<br>
-36.8 (2018 est.)<br>
-48.3 (2008)<br>
+45.4 (2020 est.)<br>
 
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 2%<br>
@@ -534,19 +534,20 @@ _expenditures_: 273.8 billion (2017 est.)<br>
 56.8% of GDP (2016 est.)<br>
 
 **Taxes and other revenues**<br>
-22.7% (of GDP) (2017 est.)<br>
+14.29% (of GDP) (2020 est.)<br>
 
 **Fiscal year**<br>
 calendar year<br>
 
 **Current account balance**<br>
--$4.351 billion (2019 est.)<br>
--$25.415 billion (2018 est.)<br>
+-$4.817 billion (2021 est.)<br>
+$27.103 billion (2020 est.)<br>
+-$3.406 billion (2019 est.)<br>
 
 **Exports**<br>
-$434.93 billion (2020 est.) note: data are in current year dollars<br>
-$492.73 billion (2019 est.) note: data are in current year dollars<br>
-$480.1 billion (2018 est.) note: data are in current year dollars<br>
+$522.235 billion (2021 est.) note: data are in current year dollars<br>
+$434.366 billion (2020 est.) note: data are in current year dollars<br>
+$492.657 billion (2019 est.) note: data are in current year dollars<br>
 
 **Exports - partners**<br>
 United States 75% (2019)<br>
@@ -555,9 +556,9 @@ United States 75% (2019)<br>
 cars and vehicle parts, computers, delivery trucks, crude petroleum, insulated wiring (2019)<br>
 
 **Imports**<br>
-$410.66 billion (2020 est.) note: data are in current year dollars<br>
-$495.79 billion (2019 est.) note: data are in current year dollars<br>
-$505.05 billion (2018 est.) note: data are in current year dollars<br>
+$544.752 billion (2021 est.) note: data are in current year dollars<br>
+$411.458 billion (2020 est.) note: data are in current year dollars<br>
+$495.391 billion (2019 est.) note: data are in current year dollars<br>
 
 **Imports - partners**<br>
 United States 54%, China 14% (2019)<br>
@@ -566,8 +567,9 @@ United States 54%, China 14% (2019)<br>
 integrated circuits, refined petroleum, cars and vehicle parts, office machinery/parts, telephones (2019)<br>
 
 **Reserves of foreign exchange and gold**<br>
-$175.3 billion (31 December 2017 est.)<br>
-$178.4 billion (31 December 2016 est.)<br>
+$207.799 billion (31 December 2021 est.)<br>
+$199.069 billion (31 December 2020 est.)<br>
+$183.056 billion (31 December 2019 est.)<br>
 <strong>note:</strong> Mexico also maintains access to an $88 million Flexible Credit Line with the IMF<br>
 
 **Debt - external**<br>
@@ -576,11 +578,11 @@ $448.268 billion (2018 est.)<br>
 
 **Exchange rates**<br>
 _Currency_: Mexican pesos (MXN) per US dollar -<br>
-19.8 (2020 est.)<br>
-19.22824 (2019 est.)<br>
-20.21674 (2018 est.)<br>
-15.848 (2014 est.)<br>
-13.292 (2013 est.)<br>
+20.272 (2021 est.)<br>
+21.486 (2020 est.)<br>
+19.264 (2019 est.)<br>
+19.244 (2018 est.)<br>
+18.927 (2017 est.)<br>
 
 ## Energy
 
@@ -764,7 +766,7 @@ the constitution was amended in 2019 to grant the president the authority to use
 <p><em>Mexico-Belize</em>: Mexico and Belize are working to solve minor border demarcation discrepancies arising from inaccuracies in the 1898 border treaty</p> <p><em>Mexico-Guatemala</em>: Mexico must deal with thousands of impoverished Guatemalans and other Central Americans who cross the porous border looking for work in Mexico and the US</p> <p><em>Mexico-US</em>: the US has intensified security measures to monitor and control legal and illegal persons, transport, and commodities across its border with Mexico</p> <p> </p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 22,254 (Honduras), 10,662 (El Salvador) (mid-year 2021); 82,976 (Venezuela) (economic and political crisis; includes Venezuelans who have claimed asylum, are recognized as refugees, or have received alternative legal stay) (2021)<br>
+_refugees (country of origin)_: 35,755 (Honduras), 13,531 (El Salvador) (mid-year 2022); 82,976 (Venezuela) (economic and political crisis; includes Venezuelans who have claimed asylum, are recognized as refugees, or have received alternative legal stay) (2021)<br>
 _IDPs_: 379,000 (government's quashing of Zapatista uprising in 1994 in eastern Chiapas Region; drug cartel violence and government's military response since 2007; violence between and within indigenous groups) (2021)<br>
 _stateless persons_: 13 (mid-year 2021)<br>
 

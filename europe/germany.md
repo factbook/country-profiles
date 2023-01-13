@@ -171,7 +171,7 @@ _female_: 84 years (2022 est.)<br>
 1.57 children born/woman (2022 est.)<br>
 
 **Gross reproduction rate**<br>
-0.77 (2022 est.)<br>
+0.77 (2023 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 67% (2018)<br>
@@ -220,11 +220,11 @@ _total_: 22% (2020 est.)<br>
 _male_: 24.1% (2020 est.)<br>
 _female_: 19.9% (2020 est.)<br>
 
-**Currently married women (ages 15-49)**<br>
-54.4% (2022 est.)<br>
-
 **Children under the age of 5 years underweight**<br>
 0.5% (2014/17)<br>
+
+**Currently married women (ages 15-49)**<br>
+54.4% (2023 est.)<br>
 
 **Education expenditures**<br>
 4.7% of GDP (2020 est.)<br>
@@ -240,9 +240,9 @@ _male_: 17 years<br>
 _female_: 17 years (2020)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 6.9%<br>
-_male_: 7.3%<br>
-_female_: 6.4% (2021 est.)<br>
+_total_: 7%<br>
+_male_: 7.2%<br>
+_female_: 6.6% (2021 est.)<br>
 
 ## Environment
 
@@ -412,29 +412,29 @@ _selected World Heritage Site locales_: Museumsinsel (Museum Island), Berlin (c)
 <p>The German economy - the fifth largest economy in the world in PPP terms and Europe's largest - is a leading exporter of machinery, vehicles, chemicals, and household equipment. Germany benefits from a highly skilled labor force, but, like its Western European neighbors, faces significant demographic challenges to sustained long-term growth. Low fertility rates and a large increase in net immigration are increasing pressure on the country's social welfare system and necessitate structural reforms.</p> <p>Reforms launched by the government of Chancellor Gerhard SCHROEDER (1998-2005), deemed necessary to address chronically high unemployment and low average growth, contributed to strong economic growth and falling unemployment. These advances, as well as a government subsidized, reduced working hour scheme, help explain the relatively modest increase in unemployment during the 2008-09 recession - the deepest since World War II. The German Government introduced a minimum wage in 2015 that increased to $9.79 (8.84 euros) in January 2017.</p> <p>Stimulus and stabilization efforts initiated in 2008 and 2009 and tax cuts introduced in Chancellor Angela MERKEL's second term increased Germany's total budget deficit - including federal, state, and municipal - to 4.1% in 2010, but slower spending and higher tax revenues reduced the deficit to 0.8% in 2011 and in 2017 Germany reached a budget surplus of 0.7%. A constitutional amendment approved in 2009 limits the federal government to structural deficits of no more than 0.35% of GDP per annum as of 2016, though the target was already reached in 2012.</p> <p>Following the March 2011 Fukushima nuclear disaster, Chancellor Angela MERKEL announced in May 2011 that eight of the country's 17 nuclear reactors would be shut down immediately and the remaining plants would close by 2022. Germany plans to replace nuclear power largely with renewable energy, which accounted for 29.5% of gross electricity consumption in 2016, up from 9% in 2000. Before the shutdown of the eight reactors, Germany relied on nuclear power for 23% of its electricity generating capacity and 46% of its base-load electricity production.</p> <p>The German economy suffers from low levels of investment, and a government plan to invest 15 billion euros during 2016-18, largely in infrastructure, is intended to spur needed private investment. Domestic consumption, investment, and exports are likely to drive German GDP growth in 2018, and the country’s budget and trade surpluses are likely to remain high.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
-$4.239 trillion (2020 est.)<br>
-$4.457 trillion (2019 est.)<br>
-$4.432 trillion (2018 est.)<br>
+$4.424 trillion (2021 est.)<br>
+$4.311 trillion (2020 est.)<br>
+$4.477 trillion (2019 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
-0.59% (2019 est.)<br>
-1.3% (2018 est.)<br>
-2.91% (2017 est.)<br>
+2.63% (2021 est.)<br>
+-3.7% (2020 est.)<br>
+1.06% (2019 est.)<br>
 
 **Real GDP per capita**<br>
-$50,900 (2020 est.)<br>
-$53,600 (2019 est.)<br>
-$53,500 (2018 est.)<br>
+$53,200 (2021 est.)<br>
+$51,800 (2020 est.)<br>
+$53,900 (2019 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
 $3,860,923,000,000 (2019 est.)<br>
 
 **Inflation rate (consumer prices)**<br>
-1.4% (2019 est.)<br>
-1.7% (2018 est.)<br>
-1.5% (2017 est.)<br>
+3.14% (2021 est.)<br>
+0.51% (2020 est.)<br>
+1.45% (2019 est.)<br>
 
 **Credit ratings**<br>
 _Fitch rating_: AAA (1994)<br>
@@ -462,10 +462,10 @@ milk, sugar beets, wheat, barley, potatoes, pork, maize, rye, rapeseed, tritical
 among the world's largest and most technologically advanced producers of iron, steel, coal, cement, chemicals, machinery, vehicles, machine tools, electronics, automobiles, food and beverages, shipbuilding, textiles<br>
 
 **Industrial production growth rate**<br>
-3.3% (2017 est.)<br>
+3.61% (2021 est.)<br>
 
 **Labor force**<br>
-44.585 million (2020 est.)<br>
+43.968 million (2021 est.)<br>
 
 **Labor force - by occupation**<br>
 _agriculture_: 1.4%<br>
@@ -473,20 +473,20 @@ _industry_: 24.2%<br>
 _services_: 74.3% (2016)<br>
 
 **Unemployment rate**<br>
-4.98% (2019 est.)<br>
-5.19% (2018 est.)<br>
+3.54% (2021 est.)<br>
+3.81% (2020 est.)<br>
+3.14% (2019 est.)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 6.9%<br>
-_male_: 7.3%<br>
-_female_: 6.4% (2021 est.)<br>
+_total_: 7%<br>
+_male_: 7.2%<br>
+_female_: 6.6% (2021 est.)<br>
 
 **Population below poverty line**<br>
 14.8% (2018 est.)<br>
 
 **Gini Index coefficient - distribution of family income**<br>
-31.9 (2016 est.)<br>
-30 (1994)<br>
+31.7 (2018 est.)<br>
 
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 3.6%<br>
@@ -505,19 +505,20 @@ _expenditures_: 1.619 trillion (2017 est.)<br>
 <strong>note:</strong> general government gross debt is defined in the Maastricht Treaty as consolidated general government gross debt at nominal value, outstanding at the end of the year in the following categories of government liabilities (as defined in ESA95): currency and deposits (AF.2), securities other than shares excluding financial derivatives (AF.3, excluding AF.34), and loans (AF.4); the general government sector comprises the sub-sectors of central government, state government, local government and social security funds; the series are presented as a percentage of GDP and in millions of euros; GDP used as a denominator is the gross domestic product at current market prices; data expressed in national currency are converted into euro using end-of-year exchange rates provided by the European Central Bank<br>
 
 **Taxes and other revenues**<br>
-45% (of GDP) (2017 est.)<br>
+10.55% (of GDP) (2020 est.)<br>
 
 **Fiscal year**<br>
 calendar year<br>
 
 **Current account balance**<br>
-$280.238 billion (2019 est.)<br>
-$297.434 billion (2018 est.)<br>
+$313.754 billion (2021 est.)<br>
+$274.2 billion (2020 est.)<br>
+$294.407 billion (2019 est.)<br>
 
 **Exports**<br>
-$1.672 trillion (2020 est.) note: data are in current year dollars<br>
-$1.813 trillion (2019 est.) note: data are in current year dollars<br>
-$1.882 trillion (2018 est.) note: data are in current year dollars<br>
+$2.004 trillion (2021 est.) note: data are in current year dollars<br>
+$1.676 trillion (2020 est.) note: data are in current year dollars<br>
+$1.816 trillion (2019 est.) note: data are in current year dollars<br>
 
 **Exports - partners**<br>
 United States 9%, France 8%, China 7%, Netherlands 6%, United Kingdom 6%, Italy 5%, Poland 5%, Austria 5% (2019)<br>
@@ -526,9 +527,9 @@ United States 9%, France 8%, China 7%, Netherlands 6%, United Kingdom 6%, Italy 
 cars and vehicle parts, packaged medicines, aircraft, medical cultures/vaccines, industrial machinery (2019)<br>
 
 **Imports**<br>
-$1,452,300,000,000 (2020 est.) note: data are in current year dollars<br>
-$1.594 trillion (2019 est.) note: data are in current year dollars<br>
-$1,635,600,000,000 (2018 est.) note: data are in current year dollars<br>
+$1.775 trillion (2021 est.) note: data are in current year dollars<br>
+$1.454 trillion (2020 est.) note: data are in current year dollars<br>
+$1.595 trillion (2019 est.) note: data are in current year dollars<br>
 
 **Imports - partners**<br>
 Netherlands 9%, China 8%, France 7%, Belgium 6%, Poland 6%, Italy 6%, Czechia 5%, United States 5% (2019)<br>
@@ -537,8 +538,9 @@ Netherlands 9%, China 8%, France 7%, Belgium 6%, Poland 6%, Italy 6%, Czechia 5%
 cars and vehicle parts, packaged medicines, crude petroleum, refined petroleum, medical cultures/vaccines (2019)<br>
 
 **Reserves of foreign exchange and gold**<br>
-$200.1 billion (31 December 2017 est.)<br>
-$173.7 billion (31 December 2015 est.)<br>
+$295.736 billion (31 December 2021 est.)<br>
+$268.409 billion (31 December 2020 est.)<br>
+$224.028 billion (31 December 2019 est.)<br>
 
 **Debt - external**<br>
 $5,671,463,000,000 (2019 est.)<br>
@@ -546,11 +548,11 @@ $5,751,408,000,000 (2018 est.)<br>
 
 **Exchange rates**<br>
 _Currency_: euros (EUR) per US dollar -<br>
-0.82771 (2020 est.)<br>
-0.90338 (2019 est.)<br>
-0.87789 (2018 est.)<br>
-0.885 (2014 est.)<br>
-0.7634 (2013 est.)<br>
+0.845 (2021 est.)<br>
+0.876 (2020 est.)<br>
+0.893 (2019 est.)<br>
+0.847 (2018 est.)<br>
+0.885 (2017 est.)<br>
 
 ## Energy
 
@@ -697,7 +699,7 @@ _by type_: container ship 77, general cargo 85, oil tanker 36, other 401 (2021)<
 _major seaport(s)_: <br><em>Baltic Sea:</em> Kiel, Rostock<br><em>North Sea:</em> Bremerhaven, Brunsbuttel, Emden, Hamburg, Wilhelmshaven<br>
 _oil terminal(s)_: Brunsbuttel Canal terminals<br>
 _container port(s) (TEUs)_: Bremen/Bremerhaven (4,856,900), Hamburg (9,274,215) (2019)<br>
-_LNG terminal(s) (import)_: Hamburg<br>
+_LNG terminal(s) (import)_: Hamburg; Wilhelmshaven (FSRU)<br>
 _river port(s)_: Bremen (Weser); Bremerhaven (Geeste); Duisburg, Karlsruhe, Neuss-Dusseldorf (Rhine); Lubeck (Wakenitz); Brunsbuttel, Hamburg (Elbe)<br>
 
 **Transportation - note**<br>
@@ -746,7 +748,7 @@ Islamic Revolutionary Guard Corps/Qods Force; Islamic State of Iraq and ash-Sham
 <p>none</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 616,325 (Syria), 152,677 (Afghanistan), 147,400 (Iraq), 62,152 (Eritrea), 45,704 (Iran), 34,465 (Turkey), 29,137 (Somalia), 9,329 (Russia), 9,323 (Nigeria), 8,600 (Pakistan), 7,503 (Serbia and Kosovo), 6,057 (Ethiopia) (mid-year 2021); 1,021,667 (Ukraine) (as of 22 November 2022)<br>
+_refugees (country of origin)_: 664,238 (Syria), 183,631 (Afghanistan), 151,254 (Iraq), 64,496 (Eritrea), 47,658 (Iran), 38,755 (Turkey), 32,155 (Somalia), 13,334 (Russia), 12,155 (Nigeria), 9,250 (Pakistan), 6,257 (Serbia and Kosovo), 6,912 (Ethiopia), 5,532 (Azerbaijan) (mid-year 2022); 1,021,667 (Ukraine) (as of 22 November 2022)<br>
 _stateless persons_: 26,980 (mid-year 2021)<br>
 
 **Illicit drugs**<br>

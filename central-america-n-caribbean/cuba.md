@@ -160,7 +160,7 @@ _female_: 82.14 years (2022 est.)<br>
 1.71 children born/woman (2022 est.)<br>
 
 **Gross reproduction rate**<br>
-0.83 (2022 est.)<br>
+0.83 (2023 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 69% (2019)<br>
@@ -213,11 +213,11 @@ _total_: 17.9% (2020 est.)<br>
 _male_: 25.5% (2020 est.)<br>
 _female_: 10.3% (2020 est.)<br>
 
-**Currently married women (ages 15-49)**<br>
-58.1% (2022 est.)<br>
-
 **Children under the age of 5 years underweight**<br>
 2.4% (2019)<br>
+
+**Currently married women (ages 15-49)**<br>
+58% (2023 est.)<br>
 
 **Child marriage**<br>
 _women married by age 15_: 4.8%<br>
@@ -237,6 +237,11 @@ _female_: 99.8% (2015)<br>
 _total_: 14 years<br>
 _male_: 13 years<br>
 _female_: 15 years (2021)<br>
+
+**Youth unemployment rate (ages 15-24)**<br>
+_total_: 7.4%<br>
+_male_: 7.6%<br>
+_female_: 7% (2021 est.)<br>
 
 **People - note**<br>
 illicit emigration is a continuing problem; Cubans attempt to depart the island and enter the US using homemade rafts, alien smugglers, direct flights, or falsified visas; Cubans also use non-maritime routes to enter the US including direct flights to Miami and overland via the southwest border; the number of Cubans migrating to the US surged after the announcement of normalization of US-Cuban relations in late December 2014 but has decreased since the end of the so-called "wet-foot, dry-foot" policy on 12 January 2017<br>
@@ -408,9 +413,9 @@ $134.2 billion (2015 est.)<br>
 <strong>note:</strong> data are in 2016 US dollars<br>
 
 **Real GDP growth rate**<br>
-1.6% (2017 est.)<br>
-0.5% (2016 est.)<br>
-4.4% (2015 est.)<br>
+1.25% (2021 est.)<br>
+-10.95% (2020 est.)<br>
+-0.16% (2019 est.)<br>
 
 **Real GDP per capita**<br>
 $12,300 (2016 est.)<br>
@@ -450,10 +455,10 @@ sugar cane, cassava, vegetables, plantains, sweet potatoes, tomatoes, milk, pump
 petroleum, nickel, cobalt, pharmaceuticals, tobacco, construction, steel, cement, agricultural machinery, sugar<br>
 
 **Industrial production growth rate**<br>
--1.2% (2017 est.)<br>
+-6.75% (2021 est.)<br>
 
 **Labor force**<br>
-4.691 million (2017 est.)<br>
+5.135 million (2021 est.)<br>
 <strong>note:</strong> state sector 72.3%, non-state sector 27.7%<br>
 
 **Labor force - by occupation**<br>
@@ -462,9 +467,15 @@ _industry_: 10%<br>
 _services_: 72% (2016 est.)<br>
 
 **Unemployment rate**<br>
-2.6% (2017 est.)<br>
-2.4% (2016 est.)<br>
+2.76% (2021 est.)<br>
+2.62% (2020 est.)<br>
+1.74% (2019 est.)<br>
 <strong>note:</strong> data are official rates; unofficial estimates are about double<br>
+
+**Youth unemployment rate (ages 15-24)**<br>
+_total_: 7.4%<br>
+_male_: 7.6%<br>
+_female_: 7% (2021 est.)<br>
 
 **Population below poverty line**<br>
 NA<br>

@@ -153,7 +153,7 @@ _female_: 84.34 years (2022 est.)<br>
 1.08 children born/woman (2022 est.)<br>
 
 **Gross reproduction rate**<br>
-0.53 (2022 est.)<br>
+0.53 (2023 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 75.2% (2016)<br>
@@ -184,11 +184,11 @@ _unimproved: total_: total: NA<br>
 **HIV/AIDS - adult prevalence rate**<br>
 NA<br>
 
-**Currently married women (ages 15-49)**<br>
-50.8% (2022 est.)<br>
-
 **Children under the age of 5 years underweight**<br>
 NA<br>
+
+**Currently married women (ages 15-49)**<br>
+51% (2023 est.)<br>
 
 **Education expenditures**<br>
 NA<br>
@@ -392,7 +392,6 @@ _services_: 59.2% (2016 est.)<br>
 
 **Gini Index coefficient - distribution of family income**<br>
 33.6 (2014)<br>
-32.6 (2000)<br>
 
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 6.4% (2010)<br>

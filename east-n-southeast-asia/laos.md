@@ -165,7 +165,7 @@ _female_: 69.88 years (2022 est.)<br>
 2.35 children born/woman (2022 est.)<br>
 
 **Gross reproduction rate**<br>
-1.15 (2022 est.)<br>
+1.13 (2023 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 54.1% (2017)<br>
@@ -218,11 +218,11 @@ _total_: 31.8% (2020 est.)<br>
 _male_: 53.3% (2020 est.)<br>
 _female_: 10.3% (2020 est.)<br>
 
-**Currently married women (ages 15-49)**<br>
-60.2% (2022 est.)<br>
-
 **Children under the age of 5 years underweight**<br>
 21.1% (2017)<br>
+
+**Currently married women (ages 15-49)**<br>
+60.1% (2023 est.)<br>
 
 **Child marriage**<br>
 _women married by age 15_: 7.1%<br>
@@ -244,9 +244,9 @@ _male_: 10 years<br>
 _female_: 10 years (2020)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 5.9%<br>
-_male_: 6.5%<br>
-_female_: 5.4% (2017 est.)<br>
+_total_: 3.3%<br>
+_male_: 3.4%<br>
+_female_: 3.2% (2021 est.)<br>
 
 ## Environment
 
@@ -411,28 +411,29 @@ _selected World Heritage Site locales_: Town of Luangphrabang; Vat Phou and Asso
 <p>The government of Laos, one of the few remaining one-party communist states, began decentralizing control and encouraging private enterprise in 1986. Economic growth averaged more than 6% per year in the period 1988-2008, and Laos' growth has more recently been amongst the fastest in Asia, averaging more than 7% per year for most of the last decade.</p> <p> </p> <p>Nevertheless, Laos remains a country with an underdeveloped infrastructure, particularly in rural areas. It has a basic, but improving, road system, and limited external and internal land-line telecommunications. Electricity is available to 83% of the population. Agriculture, dominated by rice cultivation in lowland areas, accounts for about 20% of GDP and 73% of total employment. Recently, the country has faced a persistent current account deficit, falling foreign currency reserves, and growing public debt.</p> <p> </p> <p>Laos' economy is heavily dependent on capital-intensive natural resource exports. The economy has benefited from high-profile foreign direct investment in hydropower dams along the Mekong River, copper and gold mining, logging, and construction, although some projects in these industries have drawn criticism for their environmental impacts.</p> <p> </p> <p>Laos gained Normal Trade Relations status with the US in 2004 and applied for Generalized System of Preferences trade benefits in 2013 after being admitted to the World Trade Organization earlier in the year. Laos held the chairmanship of ASEAN in 2016. Laos is in the process of implementing a value-added tax system. The government appears committed to raising the country's profile among foreign investors and has developed special economic zones replete with generous tax incentives, but a limited labor pool, a small domestic market, and corruption remain impediments to investment. Laos also has ongoing problems with the business environment, including onerous registration requirements, a gap between legislation and implementation, and unclear or conflicting regulations.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
-$56.79 billion (2020 est.)<br>
-$56.54 billion (2019 est.)<br>
-$53.62 billion (2018 est.)<br>
+$58.264 billion (2021 est.)<br>
+$56.827 billion (2020 est.)<br>
+$56.543 billion (2019 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
-6.9% (2017 est.)<br>
-7% (2016 est.)<br>
-7.3% (2015 est.)<br>
+2.53% (2021 est.)<br>
+0.5% (2020 est.)<br>
+5.46% (2019 est.)<br>
 
 **Real GDP per capita**<br>
+$7,800 (2021 est.)<br>
 $7,800 (2020 est.)<br>
-$7,900 (2019 est.)<br>
-$7,600 (2018 est.)<br>
+$7,800 (2019 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
 $16.97 billion (2017 est.)<br>
 
 **Inflation rate (consumer prices)**<br>
-0.8% (2017 est.)<br>
-1.6% (2016 est.)<br>
+3.76% (2021 est.)<br>
+5.1% (2020 est.)<br>
+3.32% (2019 est.)<br>
 
 **Credit ratings**<br>
 _Fitch rating_: CCC (2020)<br>
@@ -459,10 +460,10 @@ rice, roots/tubers nes, cassava, sugar cane, vegetables, bananas, maize, waterme
 mining (copper, tin, gold, gypsum); timber, electric power, agricultural processing, rubber, construction, garments, cement, tourism<br>
 
 **Industrial production growth rate**<br>
-8% (2017 est.)<br>
+7.61% (2021 est.)<br>
 
 **Labor force**<br>
-3.582 million (2017 est.)<br>
+3.915 million (2021 est.)<br>
 
 **Labor force - by occupation**<br>
 _agriculture_: 73.1%<br>
@@ -470,20 +471,20 @@ _industry_: 6.1%<br>
 _services_: 20.6% (2012 est.)<br>
 
 **Unemployment rate**<br>
-0.7% (2017 est.)<br>
-0.7% (2016 est.)<br>
+1.26% (2021 est.)<br>
+1.03% (2020 est.)<br>
+0.85% (2019 est.)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 5.9%<br>
-_male_: 6.5%<br>
-_female_: 5.4% (2017 est.)<br>
+_total_: 3.3%<br>
+_male_: 3.4%<br>
+_female_: 3.2% (2021 est.)<br>
 
 **Population below poverty line**<br>
 18.3% (2018 est.)<br>
 
 **Gini Index coefficient - distribution of family income**<br>
-36.4 (2012 est.)<br>
-34.6 (2002)<br>
+38.8 (2018 est.)<br>
 
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 3.3%<br>
@@ -507,12 +508,14 @@ _expenditures_: 4.038 billion (2017 est.)<br>
 1 October - 30 September<br>
 
 **Current account balance**<br>
--$2.057 billion (2017 est.)<br>
--$2.07 billion (2016 est.)<br>
+$446.572 million (2021 est.)<br>
+-$230.973 million (2020 est.)<br>
+-$1.32 billion (2019 est.)<br>
 
 **Exports**<br>
-$6.99 billion (2019 est.) note: data are in current year dollars<br>
-$6.39 billion (2018 est.) note: data are in current year dollars<br>
+$7.82 billion (2021 est.) note: data are in current year dollars<br>
+$6.461 billion (2020 est.) note: data are in current year dollars<br>
+$6.985 billion (2019 est.)<br>
 
 **Exports - partners**<br>
 Thailand 36%, China 28%, Vietnam 16% (2019)<br>
@@ -521,8 +524,9 @@ Thailand 36%, China 28%, Vietnam 16% (2019)<br>
 electricity, copper, rubber, gold, flavored water (2019)<br>
 
 **Imports**<br>
-$7.52 billion (2019 est.) note: data are in current year dollars<br>
-$7.56 billion (2018 est.) note: data are in current year dollars<br>
+$6.527 billion (2021 est.) note: data are in current year dollars<br>
+$5.816 billion (2020 est.) note: data are in current year dollars<br>
+$7.518 billion (2019 est.)<br>
 
 **Imports - partners**<br>
 Thailand 53%, China 26%, Vietnam 10% (2019)<br>
@@ -531,8 +535,9 @@ Thailand 53%, China 26%, Vietnam 10% (2019)<br>
 refined petroleum, cars, cattle, iron structures, steel products (2019)<br>
 
 **Reserves of foreign exchange and gold**<br>
-$1.27 billion (31 December 2017 est.)<br>
-$940.1 million (31 December 2016 est.)<br>
+$1.476 billion (31 December 2021 est.)<br>
+$1.393 billion (31 December 2020 est.)<br>
+$1.111 billion (31 December 2019 est.)<br>
 
 **Debt - external**<br>
 $14.9 billion (31 December 2017 est.)<br>
@@ -540,11 +545,11 @@ $12.9 billion (31 December 2016 est.)<br>
 
 **Exchange rates**<br>
 _Currency_: kips (LAK) per US dollar -<br>
-8,231.1 (2017 est.)<br>
-8,129.1 (2016 est.)<br>
-8,129.1 (2015 est.)<br>
-8,147.9 (2014 est.)<br>
-8,049 (2013 est.)<br>
+9,697.916 (2021 est.)<br>
+9,045.788 (2020 est.)<br>
+8,679.409 (2019 est.)<br>
+8,401.335 (2018 est.)<br>
+8,244.843 (2017 est.)<br>
 
 ## Energy
 

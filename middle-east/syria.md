@@ -167,7 +167,7 @@ _female_: 75.84 years (2022 est.)<br>
 2.8 children born/woman (2022 est.)<br>
 
 **Gross reproduction rate**<br>
-1.36 (2022 est.)<br>
+1.33 (2023 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 NA<br>
@@ -210,11 +210,11 @@ _wine_: 0 liters of pure alcohol (2019 est.)<br>
 _spirits_: 0.11 liters of pure alcohol (2019 est.)<br>
 _other alcohols_: 0 liters of pure alcohol (2019 est.)<br>
 
-**Currently married women (ages 15-49)**<br>
-52.7% (2022 est.)<br>
-
 **Children under the age of 5 years underweight**<br>
 NA<br>
+
+**Currently married women (ages 15-49)**<br>
+52.6% (2023 est.)<br>
 
 **Education expenditures**<br>
 NA<br>
@@ -229,6 +229,11 @@ _female_: 81% (2015)<br>
 _total_: 9 years<br>
 _male_: 9 years<br>
 _female_: 9 years (2013)<br>
+
+**Youth unemployment rate (ages 15-24)**<br>
+_total_: 26.2%<br>
+_male_: 21.6%<br>
+_female_: 51.1% (2021 est.)<br>
 
 ## Environment
 
@@ -391,8 +396,9 @@ $61.9 billion (2013 est.)<br>
 <strong>note:</strong> data are in 2015 US dollars<br>the war-driven deterioration of the economy resulted in a disappearance of quality national level statistics in the 2012-13 period<br>
 
 **Real GDP growth rate**<br>
--36.5% (2014 est.)<br>
--30.9% (2013 est.)<br>
+-3.87% (2020 est.)<br>
+1.22% (2019 est.)<br>
+1.39% (2018 est.)<br>
 <strong>note:</strong> data are in 2015 dollars<br>
 
 **Real GDP per capita**<br>
@@ -428,10 +434,10 @@ wheat, barley, milk, olives, tomatoes, oranges, potatoes, sheep milk, lemons, li
 petroleum, textiles, food processing, beverages, tobacco, phosphate rock mining, cement, oil seeds crushing, automobile assembly<br>
 
 **Industrial production growth rate**<br>
-4.3% (2017 est.)<br>
+-14.77% (2020 est.)<br>
 
 **Labor force**<br>
-3.767 million (2017 est.)<br>
+6.143 million (2021 est.)<br>
 
 **Labor force - by occupation**<br>
 _agriculture_: 17%<br>
@@ -439,8 +445,14 @@ _industry_: 16%<br>
 _services_: 67% (2008 est.)<br>
 
 **Unemployment rate**<br>
-50% (2017 est.)<br>
-50% (2016 est.)<br>
+10.57% (2021 est.)<br>
+10.26% (2020 est.)<br>
+8.77% (2019 est.)<br>
+
+**Youth unemployment rate (ages 15-24)**<br>
+_total_: 26.2%<br>
+_male_: 21.6%<br>
+_female_: 51.1% (2021 est.)<br>
 
 **Population below poverty line**<br>
 82.5% (2014 est.)<br>
@@ -692,7 +704,7 @@ Abdallah Azzam Brigades; Ansar al-Islam; Asa’ib Ahl Al-Haq; Hizballah; Hurras 
 <p><em>Syria-Iraq</em>: none identified</p> <p><em>Syria-Israel</em>: Golan Heights is Israeli-controlled with UN Disengagement Observer Force (UNDOF) patrolling a buffer zone since 1974; because of ceasefire violations and increased military activity in the Golan Heights, the UN Security Council continues to extend UNDOF’s mandate; since 2000, Lebanon has claimed Shab'a Farms in the Golan Heights</p> <p><em>Syria-Jordan</em>: the two countries signed an agreement in 2005 to settle the border dispute based on a 1931 demarcation accord; the two countries began demarcation in 2006</p> <p><em>Syria-Lebanon</em>: discussions on demarcating the two countries’ maritime borders were held in April 2021, after Syria signed a contract with a Russian company to conduct oil and gas exploration in a disputed maritime area, but the issue was not resolved</p> <p><em>Syria-Turkey</em>: none identified</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 568,730 (Palestinian Refugees) (2020); 12,435 (Iraq) (mid-year 2021)<br>
+_refugees (country of origin)_: 568,730 (Palestinian Refugees) (2020); 11,121 (Iraq) (mid-year 2022)<br>
 _IDPs_: 6.75 million (ongoing civil war since 2011) (2022)<br>
 _stateless persons_: 160,000 (mid-year 2021); note - Syria's stateless population consists of Kurds and Palestinians; stateless persons are prevented from voting, owning land, holding certain jobs, receiving food subsidies or public healthcare, enrolling in public schools, or being legally married to Syrian citizens; in 1962, some 120,000 Syrian Kurds were stripped of their Syrian citizenship, rendering them and their descendants stateless; in 2011, the Syrian Government granted citizenship to thousands of Syrian Kurds as a means of appeasement; however, resolving the question of statelessness is not a priority given Syria's ongoing civil war<br>
 <strong>note:</strong> the ongoing civil war has resulted in more than 5.5 million registered Syrian refugees - dispersed mainly in Egypt, Iraq, Jordan, Lebanon, and Turkey - as of November 2022<br>

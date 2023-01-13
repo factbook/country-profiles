@@ -161,7 +161,7 @@ _female_: 77.6 years (2022 est.)<br>
 2.06 children born/woman (2022 est.)<br>
 
 **Gross reproduction rate**<br>
-1 (2022 est.)<br>
+1 (2023 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 NA<br>
@@ -209,11 +209,11 @@ _total_: 9.4% (2020 est.)<br>
 _male_: 15% (2020 est.)<br>
 _female_: 3.8% (2020 est.)<br>
 
-**Currently married women (ages 15-49)**<br>
-32.4% (2022 est.)<br>
-
 **Children under the age of 5 years underweight**<br>
 4.4% (2016)<br>
+
+**Currently married women (ages 15-49)**<br>
+32.7% (2023 est.)<br>
 
 **Education expenditures**<br>
 6% of GDP (2021 est.)<br>
@@ -230,9 +230,9 @@ _male_: 11 years<br>
 _female_: 13 years (2015)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 22.4%<br>
-_male_: 19%<br>
-_female_: 26.7% (2021 est.)<br>
+_total_: 26.1%<br>
+_male_: 22.1%<br>
+_female_: 31.4% (2021 est.)<br>
 
 ## Environment
 
@@ -385,29 +385,29 @@ _selected World Heritage Site locales_: Blue and John Crow Mountains<br>
 <p>The Jamaican economy is heavily dependent on services, which accounts for more than 70% of GDP. The country derives most of its foreign exchange from tourism, remittances, and bauxite/alumina. Earnings from remittances and tourism each account for 14% and 20% of GDP, while bauxite/alumina exports have declined to less than 5% of GDP.</p> <p> </p> <p>Jamaica's economy has grown on average less than 1% a year for the last three decades and many impediments remain to growth: a bloated public sector which crowds out spending on important projects; high crime and corruption; red-tape; and a high debt-to-GDP ratio. Jamaica, however, has made steady progress in reducing its debt-to-GDP ratio from a high of almost 150% in 2012 to less than 110% in 2017, in close collaboration with the International Monetary Fund (IMF). The current IMF Stand-By Agreement requires Jamaica to produce an annual primary surplus of 7%, in an attempt to reduce its debt burden below 60% by 2025.</p> <p> </p> <p>Economic growth reached 1.6% in 2016, but declined to 0.9% in 2017 after intense rainfall, demonstrating the vulnerability of the economy to weather-related events. The HOLNESS administration therefore faces the difficult prospect of maintaining fiscal discipline to reduce the debt load while simultaneously implementing growth inducing policies and attacking a serious crime problem. High unemployment exacerbates the crime problem, including gang violence fueled by advanced fee fraud (lottery scamming) and the drug trade.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
-$25.89 billion (2020 est.)<br>
-$28.83 billion (2019 est.)<br>
-$28.57 billion (2018 est.)<br>
+$27.136 billion (2021 est.)<br>
+$25.943 billion (2020 est.)<br>
+$28.825 billion (2019 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
-0.7% (2017 est.)<br>
-1.5% (2016 est.)<br>
-0.9% (2015 est.)<br>
+4.6% (2021 est.)<br>
+-10% (2020 est.)<br>
+0.89% (2019 est.)<br>
 
 **Real GDP per capita**<br>
-$8,700 (2020 est.)<br>
-$9,800 (2019 est.)<br>
-$9,700 (2018 est.)<br>
+$9,600 (2021 est.)<br>
+$9,200 (2020 est.)<br>
+$10,200 (2019 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
 $15.847 billion (2019 est.)<br>
 
 **Inflation rate (consumer prices)**<br>
-3.9% (2019 est.)<br>
-3.7% (2018 est.)<br>
-4.3% (2017 est.)<br>
+5.86% (2021 est.)<br>
+5.23% (2020 est.)<br>
+3.91% (2019 est.)<br>
 
 **Credit ratings**<br>
 _Fitch rating_: B+ (2019)<br>
@@ -435,10 +435,10 @@ sugar cane, goat milk, yams, poultry, coconuts, oranges, bananas, gourds, planta
 agriculture, mining, manufacture, construction, financial and insurance services, tourism, telecommunications<br>
 
 **Industrial production growth rate**<br>
-0.9% (2017 est.)<br>
+2.38% (2021 est.)<br>
 
 **Labor force**<br>
-1.113 million (2020 est.)<br>
+1.418 million (2021 est.)<br>
 
 **Labor force - by occupation**<br>
 _agriculture_: 16.1%<br>
@@ -446,20 +446,20 @@ _industry_: 16%<br>
 _services_: 67.9% (2017)<br>
 
 **Unemployment rate**<br>
-7.72% (2019 est.)<br>
-9.13% (2018 est.)<br>
+9.18% (2021 est.)<br>
+9.48% (2020 est.)<br>
+7.69% (2019 est.)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 22.4%<br>
-_male_: 19%<br>
-_female_: 26.7% (2021 est.)<br>
+_total_: 26.1%<br>
+_male_: 22.1%<br>
+_female_: 31.4% (2021 est.)<br>
 
 **Population below poverty line**<br>
 17.1% (2016 est.)<br>
 
 **Gini Index coefficient - distribution of family income**<br>
-35 (2016)<br>
-38 (2015)<br>
+35 (2016 est.)<br>
 
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 2.6%<br>
@@ -473,22 +473,25 @@ _expenditures_: 4.314 billion (2017 est.)<br>
 0.5% (of GDP) (2017 est.)<br>
 
 **Public debt**<br>
-101% of GDP (2017 est.)<br>
-113.6% of GDP (2016 est.)<br>
+106.28% of GDP (2020 est.)<br>
+92.25% of GDP (2019 est.)<br>
+102.46% of GDP (2017 est.)<br>
 
 **Taxes and other revenues**<br>
-29.7% (of GDP) (2017 est.)<br>
+25.71% (of GDP) (2020 est.)<br>
 
 **Fiscal year**<br>
 1 April - 31 March<br>
 
 **Current account balance**<br>
--$298 million (2019 est.)<br>
--$288 million (2018 est.)<br>
+$125.275 million (2021 est.)<br>
+-$61.433 million (2020 est.)<br>
+-$350.949 million (2019 est.)<br>
 
 **Exports**<br>
-$5.92 billion (2019 est.) note: data are in current year dollars<br>
-$5.79 billion (2018 est.) note: data are in current year dollars<br>
+$4.385 billion (2021 est.) note: data are in current year dollars<br>
+$3.343 billion (2020 est.) note: data are in current year dollars<br>
+$5.991 billion (2019 est.)<br>
 
 **Exports - partners**<br>
 United States 32%, Netherlands 11%, Germany 9%, Canada 7%, Iceland 7% (2019)<br>
@@ -497,8 +500,9 @@ United States 32%, Netherlands 11%, Germany 9%, Canada 7%, Iceland 7% (2019)<br>
 bauxite, refined petroleum, aluminum, rum, fruits, nuts (2019)<br>
 
 **Imports**<br>
-$8.25 billion (2019 est.) note: data are in current year dollars<br>
-$7.89 billion (2018 est.) note: data are in current year dollars<br>
+$7.414 billion (2021 est.) note: data are in current year dollars<br>
+$5.911 billion (2020 est.) note: data are in current year dollars<br>
+$8.317 billion (2019 est.)<br>
 
 **Imports - partners**<br>
 United States 43%, China 11% (2019)<br>
@@ -507,8 +511,9 @@ United States 43%, China 11% (2019)<br>
 refined petroleum, cars, crude petroleum, natural gas, packaged medicines (2019)<br>
 
 **Reserves of foreign exchange and gold**<br>
-$3.781 billion (31 December 2017 est.)<br>
-$2.719 billion (31 December 2016 est.)<br>
+$4.838 billion (31 December 2021 est.)<br>
+$3.938 billion (31 December 2020 est.)<br>
+$3.631 billion (31 December 2019 est.)<br>
 
 **Debt - external**<br>
 $13.876 billion (2019 est.)<br>
@@ -516,11 +521,11 @@ $13.912 billion (2018 est.)<br>
 
 **Exchange rates**<br>
 _Currency_: Jamaican dollars (JMD) per US dollar -<br>
-128.36 (2017 est.)<br>
-125.14 (2016 est.)<br>
-125.126 (2015 est.)<br>
-116.898 (2014 est.)<br>
-110.935 (2013 est.)<br>
+150.79 (2021 est.)<br>
+142.403 (2020 est.)<br>
+133.312 (2019 est.)<br>
+128.872 (2018 est.)<br>
+127.965 (2017 est.)<br>
 
 ## Energy
 

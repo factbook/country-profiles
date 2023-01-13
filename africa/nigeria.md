@@ -176,7 +176,7 @@ _female_: 63.27 years (2022 est.)<br>
 4.62 children born/woman (2022 est.)<br>
 
 **Gross reproduction rate**<br>
-2.24 (2022 est.)<br>
+2.22 (2023 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 16.6% (2018)<br>
@@ -231,11 +231,11 @@ _total_: 3.7% (2020 est.)<br>
 _male_: 6.9% (2020 est.)<br>
 _female_: 0.5% (2020 est.)<br>
 
-**Currently married women (ages 15-49)**<br>
-66.5% (2022 est.)<br>
-
 **Children under the age of 5 years underweight**<br>
 18.4% (2019/20)<br>
+
+**Currently married women (ages 15-49)**<br>
+66.2% (2023 est.)<br>
 
 **Child marriage**<br>
 _women married by age 15_: 15.7%<br>
@@ -252,9 +252,9 @@ _male_: 71.3%<br>
 _female_: 52.7% (2018)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 29.9%<br>
-_male_: 26.8% NA<br>
-_female_: 33.5% (2019 est.) NA<br>
+_total_: 19.6%<br>
+_male_: 19.8% NA<br>
+_female_: 19.4% (2021 est.) NA<br>
 
 ## Environment
 
@@ -432,29 +432,29 @@ _selected World Heritage Site locales_: Sukur Cultural Landscape; Osun-Osogbo Sa
 <p>Nigeria is Sub Saharan Africa’s largest economy and relies heavily on oil as its main source of foreign exchange earnings and government revenues. Following the 2008-09 global financial crises, the banking sector was effectively recapitalized and regulation enhanced. Since then, Nigeria’s economic growth has been driven by growth in agriculture, telecommunications, and services. Economic diversification and strong growth have not translated into a significant decline in poverty levels; over 62% of Nigeria's over 180 million people still live in extreme poverty.</p> <p> </p> <p>Despite its strong fundamentals, oil-rich Nigeria has been hobbled by inadequate power supply, lack of infrastructure, delays in the passage of legislative reforms, an inefficient property registration system, restrictive trade policies, an inconsistent regulatory environment, a slow and ineffective judicial system, unreliable dispute resolution mechanisms, insecurity, and pervasive corruption. Regulatory constraints and security risks have limited new investment in oil and natural gas, and Nigeria's oil production had been contracting every year since 2012 until a slight rebound in 2017.</p> <p> </p> <p>President BUHARI, elected in March 2015, has established a cabinet of economic ministers that includes several technocrats, and he has announced plans to increase transparency, diversify the economy away from oil, and improve fiscal management, but has taken a primarily protectionist approach that favors domestic producers at the expense of consumers. President BUHARI ran on an anti-corruption platform, and has made some headway in alleviating corruption, such as implementation of a Treasury Single Account that allows the government to better manage its resources and a more transparent government payroll and personnel system that eliminated duplicate and "ghost workers." The government also is working to develop stronger public-private partnerships for roads, agriculture, and power.</p> <p> </p> <p>Nigeria entered recession in 2016 as a result of lower oil prices and production, exacerbated by militant attacks on oil and gas infrastructure in the Niger Delta region, coupled with detrimental economic policies, including foreign exchange restrictions. GDP growth turned positive in 2017 as oil prices recovered and output stabilized.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
-$1,013,530,000,000 (2020 est.)<br>
-$1,032,050,000,000 (2019 est.)<br>
-$1,009,750,000,000 (2018 est.)<br>
+$1.05 trillion (2021 est.)<br>
+$1.014 trillion (2020 est.)<br>
+$1.032 trillion (2019 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
-0.8% (2017 est.)<br>
--1.6% (2016 est.)<br>
-2.7% (2015 est.)<br>
+3.65% (2021 est.)<br>
+-1.79% (2020 est.)<br>
+2.21% (2019 est.)<br>
 
 **Real GDP per capita**<br>
+$4,900 (2021 est.)<br>
 $4,900 (2020 est.)<br>
 $5,100 (2019 est.)<br>
-$5,200 (2018 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
 $475.062 billion (2019 est.)<br>
 
 **Inflation rate (consumer prices)**<br>
-11.3% (2019 est.)<br>
-12.1% (2018 est.)<br>
-16.5% (2017 est.)<br>
+16.95% (2021 est.)<br>
+13.25% (2020 est.)<br>
+11.4% (2019 est.)<br>
 
 **Credit ratings**<br>
 _Fitch rating_: B (2020)<br>
@@ -482,10 +482,10 @@ cassava, yams, maize, oil palm fruit, rice, vegetables, sorghum, groundnuts, fru
 crude oil, coal, tin, columbite; rubber products, wood; hides and skins, textiles, cement and other construction materials, food products, footwear, chemicals, fertilizer, printing, ceramics, steel<br>
 
 **Industrial production growth rate**<br>
-2.2% (2017 est.)<br>
+-0.47% (2021 est.)<br>
 
 **Labor force**<br>
-60.08 million (2017 est.)<br>
+65.116 million (2021 est.)<br>
 
 **Labor force - by occupation**<br>
 _agriculture_: 70%<br>
@@ -493,20 +493,20 @@ _industry_: 10%<br>
 _services_: 20% (1999 est.)<br>
 
 **Unemployment rate**<br>
-16.5% (2017 est.)<br>
-13.9% (2016 est.)<br>
+9.79% (2021 est.)<br>
+9.71% (2020 est.)<br>
+8.53% (2019 est.)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 29.9%<br>
-_male_: 26.8% NA<br>
-_female_: 33.5% (2019 est.) NA<br>
+_total_: 19.6%<br>
+_male_: 19.8% NA<br>
+_female_: 19.4% (2021 est.) NA<br>
 
 **Population below poverty line**<br>
 40.1% (2018 est.)<br>
 
 **Gini Index coefficient - distribution of family income**<br>
 35.1 (2018 est.)<br>
-50.6 (1997)<br>
 
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 1.8%<br>
@@ -530,13 +530,14 @@ _expenditures_: 19.54 billion (2017 est.)<br>
 calendar year<br>
 
 **Current account balance**<br>
-$10.38 billion (2017 est.)<br>
-$2.714 billion (2016 est.)<br>
+-$1.849 billion (2021 est.)<br>
+-$15.986 billion (2020 est.)<br>
+-$13.685 billion (2019 est.)<br>
 
 **Exports**<br>
-$39.94 billion (2020 est.) note: data are in current year dollars<br>
-$69.93 billion (2019 est.) note: data are in current year dollars<br>
-$66.04 billion (2018 est.) note: data are in current year dollars<br>
+$50.856 billion (2021 est.) note: data are in current year dollars<br>
+$39.937 billion (2020 est.) note: data are in current year dollars<br>
+$69.927 billion (2019 est.) note: data are in current year dollars<br>
 
 **Exports - partners**<br>
 India 16%, Spain 10%, United States 7%, France 7%, Netherlands 6% (2019)<br>
@@ -545,9 +546,9 @@ India 16%, Spain 10%, United States 7%, France 7%, Netherlands 6% (2019)<br>
 crude petroleum, natural gas, scrap vessels, flexible metal tubing, cocoa beans (2019)<br>
 
 **Imports**<br>
-$72.18 billion (2020 est.) note: data are in current year dollars<br>
+$66.107 billion (2021 est.) note: data are in current year dollars<br>
+$72.178 billion (2020 est.) note: data are in current year dollars<br>
 $100.82 billion (2019 est.) note: data are in current year dollars<br>
-$71.64 billion (2018 est.) note: data are in current year dollars<br>
 
 **Imports - partners**<br>
 China 30%, Netherlands 11%, United States 6%, Belgium 5% (2019)<br>
@@ -556,8 +557,9 @@ China 30%, Netherlands 11%, United States 6%, Belgium 5% (2019)<br>
 refined petroleum, cars, wheat, laboratory glassware, packaged medicines (2019)<br>
 
 **Reserves of foreign exchange and gold**<br>
-$38.77 billion (31 December 2017 est.)<br>
-$25.84 billion (31 December 2016 est.)<br>
+$36.73 billion (31 December 2020 est.)<br>
+$38.336 billion (31 December 2019 est.)<br>
+$42.839 billion (31 December 2018 est.)<br>
 
 **Debt - external**<br>
 $26.847 billion (2019 est.)<br>
@@ -565,11 +567,11 @@ $22.755 billion (2018 est.)<br>
 
 **Exchange rates**<br>
 _Currency_: nairas (NGN) per US dollar -<br>
-383.5 (2020 est.)<br>
-362.75 (2019 est.)<br>
-363 (2018 est.)<br>
-192.73 (2014 est.)<br>
-158.55 (2013 est.)<br>
+358.811 (2020 est.)<br>
+306.921 (2019 est.)<br>
+306.084 (2018 est.)<br>
+305.79 (2017 est.)<br>
+253.492 (2016 est.)<br>
 
 ## Energy
 

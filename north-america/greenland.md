@@ -152,7 +152,7 @@ _female_: 76.82 years (2022 est.)<br>
 1.91 children born/woman (2022 est.)<br>
 
 **Gross reproduction rate**<br>
-0.93 (2022 est.)<br>
+0.92 (2023 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 NA<br>
@@ -185,11 +185,11 @@ _unimproved: total_: total: 0% of population (2020 est.)<br>
 **HIV/AIDS - adult prevalence rate**<br>
 NA<br>
 
-**Currently married women (ages 15-49)**<br>
-39.1% (2022 est.)<br>
-
 **Children under the age of 5 years underweight**<br>
 NA<br>
+
+**Currently married women (ages 15-49)**<br>
+39.4% (2023 est.)<br>
 
 **Education expenditures**<br>
 10.2% of GDP (2019 est.)<br>
@@ -339,9 +339,9 @@ $2.203 billion (2013 est.)<br>
 <strong>note:</strong> data are in 2015 US dollars<br>
 
 **Real GDP growth rate**<br>
-7.7% (2016 est.)<br>
-1.7% (2015 est.)<br>
--0.8% (2014 est.)<br>
+0.36% (2020 est.)<br>
+2.27% (2019 est.)<br>
+0.62% (2018 est.)<br>
 
 **Real GDP per capita**<br>
 $41,800 (2015 est.)<br>
@@ -375,7 +375,7 @@ sheep, cattle, reindeer, fish, shellfish<br>
 fish processing (mainly shrimp and Greenland halibut), anorthosite and ruby mining, handicrafts, hides and skins, small shipyards<br>
 
 **Industrial production growth rate**<br>
-NA<br>
+8.56% (2019 est.) NA<br>
 
 **Labor force**<br>
 26,840 (2015 est.)<br>
@@ -394,7 +394,6 @@ _services_: 73.9% (2015 est.)<br>
 
 **Gini Index coefficient - distribution of family income**<br>
 33.9 (2015 est.)<br>
-34.3 (2014 est.)<br>
 
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: NA<br>
@@ -442,11 +441,11 @@ $58 million (2009)<br>
 
 **Exchange rates**<br>
 _Currency_: Danish kroner (DKK) per US dollar -<br>
-6.586 (2017 est.)<br>
-6.7309 (2016 est.)<br>
-6.7309 (2015 est.)<br>
-6.7326 (2014 est.)<br>
-5.6125 (2013 est.)<br>
+6.287 (2021 est.)<br>
+6.542 (2020 est.)<br>
+6.669 (2019 est.)<br>
+6.315 (2018 est.)<br>
+6.603 (2017 est.)<br>
 
 ## Energy
 

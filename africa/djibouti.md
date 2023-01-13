@@ -162,7 +162,7 @@ _female_: 67.96 years (2022 est.)<br>
 2.15 children born/woman (2022 est.)<br>
 
 **Gross reproduction rate**<br>
-1.06 (2022 est.)<br>
+1.05 (2023 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 19% (2012)<br>
@@ -211,11 +211,11 @@ _wine_: 0.02 liters of pure alcohol (2019 est.)<br>
 _spirits_: 0.14 liters of pure alcohol (2019 est.)<br>
 _other alcohols_: 0 liters of pure alcohol (2019 est.)<br>
 
-**Currently married women (ages 15-49)**<br>
-50.4% (2022 est.)<br>
-
 **Children under the age of 5 years underweight**<br>
 29.9% (2012)<br>
+
+**Currently married women (ages 15-49)**<br>
+50.6% (2023 est.)<br>
 
 **Education expenditures**<br>
 3.6% of GDP (2018 est.)<br>
@@ -231,9 +231,9 @@ _male_: 7 years<br>
 _female_: 7 years (2011)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 73%<br>
-_male_: 72%<br>
-_female_: 74.6% (2017)<br>
+_total_: 79.9%<br>
+_male_: 78.6%<br>
+_female_: 82.2% (2021 est.)<br>
 
 ## Environment
 
@@ -395,28 +395,29 @@ _lyrics/music_: Aden ELMI/Abdi ROBLEH<br>
 <p>Djibouti's economy is based on service activities connected with the country's strategic location as a deepwater port on the Red Sea. Three-fourths of Djibouti's inhabitants live in the capital city; the remainder are mostly nomadic herders. Scant rainfall and less than 4% arable land limits crop production to small quantities of fruits and vegetables, and most food must be imported.</p> <p> </p> <p>Djibouti provides services as both a transit port for the region and an international transshipment and refueling center. Imports, exports, and reexports represent 70% of port activity at Djibouti's container terminal. Reexports consist primarily of coffee from landlocked neighbor Ethiopia. Djibouti has few natural resources and little industry. The nation is, therefore, heavily dependent on foreign assistance to support its balance of payments and to finance development projects. An official unemployment rate of nearly 40% - with youth unemployment near 80% - continues to be a major problem. Inflation was a modest 3% in 2014-2017, due to low international food prices and a decline in electricity tariffs.</p> <p> </p> <p>Djibouti’s reliance on diesel-generated electricity and imported food and water leave average consumers vulnerable to global price shocks, though in mid-2015 Djibouti passed new legislation to liberalize the energy sector. The government has emphasized infrastructure development for transportation and energy and Djibouti – with the help of foreign partners, particularly China – has begun to increase and modernize its port capacity. In 2017, Djibouti opened two of the largest projects in its history, the Doraleh Port and Djibouti-Addis Ababa Railway, funded by China as part of the "Belt and Road Initiative," which will increase the country’s ability to capitalize on its strategic location.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
-$5.42 billion (2020 est.)<br>
-$5.39 billion (2019 est.)<br>
-$5 billion (2018 est.)<br>
+$5.432 billion (2021 est.)<br>
+$5.182 billion (2020 est.)<br>
+$5.121 billion (2019 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
-6.7% (2017 est.)<br>
-6.5% (2016 est.)<br>
-6.5% (2015 est.)<br>
+4.81% (2021 est.)<br>
+1.2% (2020 est.)<br>
+5.55% (2019 est.)<br>
 
 **Real GDP per capita**<br>
-$5,500 (2020 est.)<br>
-$5,500 (2019 est.)<br>
-$5,200 (2018 est.)<br>
+$4,900 (2021 est.)<br>
+$4,800 (2020 est.)<br>
+$4,800 (2019 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
 $3.323 billion (2019 est.)<br>
 
 **Inflation rate (consumer prices)**<br>
-0.7% (2017 est.)<br>
-2.7% (2016 est.)<br>
+1.78% (2020 est.)<br>
+3.32% (2019 est.)<br>
+0.15% (2018 est.)<br>
 
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 2.4% (2017 est.)<br>
@@ -438,10 +439,10 @@ vegetables, milk, beef, camel milk, lemons, limes, goat meat, mutton, beans, tom
 construction, agricultural processing, shipping<br>
 
 **Industrial production growth rate**<br>
-2.7% (2017 est.)<br>
+-4.43% (2020 est.)<br>
 
 **Labor force**<br>
-294,600 (2012)<br>
+240,500 (2021 est.)<br>
 
 **Labor force - by occupation**<br>
 _agriculture_: NA<br>
@@ -449,13 +450,14 @@ _industry_: NA<br>
 _services_: NA<br>
 
 **Unemployment rate**<br>
-40% (2017 est.)<br>
-60% (2014 est.)<br>
+28.39% (2021 est.)<br>
+28.39% (2020 est.)<br>
+26.36% (2019 est.)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 73%<br>
-_male_: 72%<br>
-_female_: 74.6% (2017)<br>
+_total_: 79.9%<br>
+_male_: 78.6%<br>
+_female_: 82.2% (2021 est.)<br>
 
 **Population below poverty line**<br>
 21.1% (2017 est.)<br>
@@ -485,12 +487,14 @@ _expenditures_: 899.2 million (2017 est.)<br>
 calendar year<br>
 
 **Current account balance**<br>
--$280 million (2017 est.)<br>
--$178 million (2016 est.)<br>
+-$225.106 million (2021 est.)<br>
+$366.358 million (2020 est.)<br>
+$563.976 million (2019 est.)<br>
 
 **Exports**<br>
-$5.15 billion (2019 est.) note: data are in current year dollars<br>
-$4.56 billion (2018 est.) note: data are in current year dollars<br>
+$5.16 billion (2021 est.) note: data are in current year dollars<br>
+$3.695 billion (2020 est.) note: data are in current year dollars<br>
+$5.15 billion (2019 est.)<br>
 
 **Exports - partners**<br>
 Saudi Arabia 42%, India 15%, China 14%, Egypt 5%, South Korea 5% (2019)<br>
@@ -499,8 +503,9 @@ Saudi Arabia 42%, India 15%, China 14%, Egypt 5%, South Korea 5% (2019)<br>
 various animals, chlorides, dried legumes, industrial fatty acids/oils, coffee, chickpeas (2019)<br>
 
 **Imports**<br>
-$4.76 billion (2019 est.) note: data are in current year dollars<br>
-$4.19 billion (2018 est.) note: data are in current year dollars<br>
+$5.483 billion (2021 est.) note: data are in current year dollars<br>
+$3.425 billion (2020 est.) note: data are in current year dollars<br>
+$4.764 billion (2019 est.)<br>
 
 **Imports - partners**<br>
 China 43%, United Arab Emirates 15%, India 7%, Turkey 5% (2019)<br>
@@ -509,8 +514,9 @@ China 43%, United Arab Emirates 15%, India 7%, Turkey 5% (2019)<br>
 refined petroleum, fertilizers, iron sheeting, cars, palm oil (2019)<br>
 
 **Reserves of foreign exchange and gold**<br>
-$547.7 million (31 December 2017 est.)<br>
-$398.5 million (31 December 2016 est.)<br>
+$588.418 million (31 December 2021 est.)<br>
+$686.339 million (31 December 2020 est.)<br>
+$501.858 million (31 December 2019 est.)<br>
 
 **Debt - external**<br>
 $1.954 billion (31 December 2017 est.)<br>
@@ -518,11 +524,11 @@ $1.519 billion (31 December 2016 est.)<br>
 
 **Exchange rates**<br>
 _Currency_: Djiboutian francs (DJF) per US dollar -<br>
-177.7 (2017 est.)<br>
-177.72 (2016 est.)<br>
-177.72 (2015 est.)<br>
-177.72 (2014 est.)<br>
-177.72 (2013 est.)<br>
+177.721 (2021 est.)<br>
+177.721 (2020 est.)<br>
+177.721 (2019 est.)<br>
+177.721 (2018 est.)<br>
+177.721 (2017 est.)<br>
 
 ## Energy
 
@@ -698,5 +704,5 @@ al-Shabaab<br>
 <p><em>Djibouti-Somalia:</em> Djibouti maintains economic ties and border accords with "Somaliland" leadership while maintaining some political ties to various factions in Somalia;</p> <p><em>Djibouti-Eritrea:</em> in 2008, Eritrean troops moved across the border on Ras Doumera peninsula and occupied Doumera Island with undefined sovereignty in the Red Sea; the Eritrean occupation of remote Doumeira Island and portions peninsula persists unabated as of September 2009; porous boundary over largely uninhabited areas provides access for smuggling and other illegal activities; as of 7 June 2010, Qatar was mediating Eritrea-Djibouti border dispute, </p> <p><em>Djibouti-Ethiopia:</em> While Djibouti has had significant issues along its border with neighbors such as Somalia and Eritrea, the Ethiopia-Djibouti relationship has been relatively harmonious; diplomatic relations between the two countries were initially established in 1984; historically, there is co-ownership of the Addis Ababa-Djibout railways and acts as a symbol of the healthy bi-lateral partnership between both Ethiopia and Djibouti; in 1991 a Treaty of Friendship and Cooperation was signed by the two countries; Ethiopia uses the Port of Djibouti as a major hub for export and import of goods since 1998; after establishing independence, there have been no major disputes along this border.</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 5,972 (Yemen) (mid-year 2021); 14,227 (Somalia) (2021)<br>
+_refugees (country of origin)_: 14,152 (Somalia), 6,518 (Yemen) (mid-year 2022)<br>
 

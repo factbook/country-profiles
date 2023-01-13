@@ -171,7 +171,7 @@ _female_: 75 years (2022 est.)<br>
 2.03 children born/woman (2022 est.)<br>
 
 **Gross reproduction rate**<br>
-0.99 (2022 est.)<br>
+0.99 (2023 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 49.7% (2019)<br>
@@ -219,11 +219,11 @@ _total_: 5.5% (2020 est.)<br>
 _male_: 10.6% (2020 est.)<br>
 _female_: 0.4% (2020 est.)<br>
 
-**Currently married women (ages 15-49)**<br>
-64.5% (2022 est.)<br>
-
 **Children under the age of 5 years underweight**<br>
 3.1% (2019)<br>
+
+**Currently married women (ages 15-49)**<br>
+64.3% (2023 est.)<br>
 
 **Child marriage**<br>
 _women married by age 15_: 0.2%<br>
@@ -242,6 +242,11 @@ _female_: 99.6% (2015)<br>
 _total_: 13 years<br>
 _male_: 13 years<br>
 _female_: 13 years (2020)<br>
+
+**Youth unemployment rate (ages 15-24)**<br>
+_total_: 11%<br>
+_male_: 13.4%<br>
+_female_: 7.6% (2021 est.)<br>
 
 ## Environment
 
@@ -355,7 +360,7 @@ _election results_: <em>2022:</em> Serdar BERDIMUHAMEDOW elected president; perc
 
 **Legislative branch**<br>
 _description_: bicameral National Council or Milli Genesi consists of:<br>People's Council or Halk Maslahaty (56 seats; 48 members indirectly elected by provincial councils and 8 members appointed by the president)<br>Assembly or Mejlisi (125 seats; members directly elected in single-seat constituencies by absolute majority vote in 2 rounds if needed to serve 5-year terms)<br><br>note: in September 2020, the Turkmenistani legislature (Milli Genesi) adopted a constitutional amendment creating an upper chamber, making the legislature bicameral; the chairperson of the Halk Maslahaty is now designated as the constitutional successor to the presidency; as of March 2022, Gurbanguly BERDIMUHAMEDOW continues to serve in this position after stepping away from the presidency<br>
-_elections_: People's Council - first held on 28 March 2021 for 48 indirectly elected members (next to be held in 2026); first held on 14 April 2021 for 8 presidentially appointed members (next to be held NA)<br>Assembly - last held on 25 March 2018 (next to be held NA)<br>
+_elections_: People's Council - first held on 28 March 2021 for 48 indirectly elected members (next to be held in 2026); first held on 14 April 2021 for 8 presidentially appointed members (next to be held NA)<br>Assembly - last held on 25 March 2018 (next to be held 2023)<br>
 _election results_: People's Council - percent of vote by party - NA; seats by party - DPT 3, independent 45; composition as of mid-2022 (55 members) - men 41, women 14, percent of women 25.5%<br>Assembly - percent of vote by party - NA; seats by party - DPT 55, APT 11, PIE 11, independent 48 (individuals nominated by citizen groups); composition as of mid-2022 (116 members) - men 86, women 30, percent of women 25.9%; note - total percent of National Council percent of women 25.7%<br>
 
 **Judicial branch**<br>
@@ -407,20 +412,20 @@ _selected World Heritage Site locales_: Ancient Merv; Kunya-Urgench; Parthian Fo
 <p>Turkmenistan is largely a desert country with intensive agriculture in irrigated oases and significant natural gas and oil resources. The two largest crops are cotton, most of which is produced for export, and wheat, which is domestically consumed. Although agriculture accounts for almost 8% of GDP, it continues to employ nearly half of the country's workforce. Hydrocarbon exports, the bulk of which is natural gas going to China, make up 25% of Turkmenistan’s GDP. Ashgabat has explored two initiatives to bring gas to new markets: a trans-Caspian pipeline that would carry gas to Europe and the Turkmenistan-Afghanistan-Pakistan-India gas pipeline. Both face major financing, political, and security hurdles and are unlikely to be completed soon.</p> <p>Turkmenistan’s autocratic governments under presidents NIYAZOW (1991-2006) and BERDIMUHAMEDOW (since 2007) have made little progress improving the business climate, privatizing state-owned industries, combatting corruption, and limiting economic development outside the energy sector. High energy prices in the mid-2000s allowed the government to undertake extensive development and social spending, including providing heavy utility subsidies.</p> <p>Low energy prices since mid-2014 are hampering Turkmenistan’s economic growth and reducing government revenues. The government has cut subsidies in several areas, and wage arrears have increased. In January 2014, the Central Bank of Turkmenistan devalued the manat by 19%, and downward pressure on the currency continues. There is a widening spread between the official exchange rate (3.5 TMM per US dollar) and the black market exchange rate (approximately 14 TMM per US dollar). Currency depreciation and conversion restrictions, corruption, isolationist policies, and declining spending on public services have resulted in a stagnate economy that is nearing crisis. Turkmenistan claims substantial foreign currency reserves, but non-transparent data limit international institutions’ ability to verify this information.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
-$92.33 billion (2019 est.)<br>
-$86.86 billion (2018 est.)<br>
-$81.787 billion (2017 est.)<br>
+$92.331 billion (2019 est.)<br>
+$86.859 billion (2018 est.)<br>
+$81.788 billion (2017 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
+6.3% (2019 est.)<br>
+6.2% (2018 est.)<br>
 6.5% (2017 est.)<br>
-6.2% (2016 est.)<br>
-6.5% (2015 est.)<br>
 
 **Real GDP per capita**<br>
-$15,500 (2019 est.) note: data are in 2017 dollars<br>
-$14,800 (2018 est.) note: data are in 2017 dollars<br>
-$14,205 (2017 est.)<br>
+$15,000 (2019 est.) note: data are in 2017 dollars<br>
+$14,300 (2018 est.) note: data are in 2017 dollars<br>
+$13,700 (2017 est.)<br>
 
 **GDP (official exchange rate)**<br>
 $40.819 billion (2018 est.)<br>
@@ -452,7 +457,7 @@ natural gas, oil, petroleum products, textiles, food processing<br>
 1% (2017 est.)<br>
 
 **Labor force**<br>
-2.305 million (2013 est.)<br>
+1.998 million (2021 est.)<br>
 
 **Labor force - by occupation**<br>
 _agriculture_: 48.2%<br>
@@ -460,8 +465,14 @@ _industry_: 14%<br>
 _services_: 37.8% (2004 est.)<br>
 
 **Unemployment rate**<br>
-11% (2014 est.)<br>
-10.6% (2013)<br>
+5.08% (2021 est.)<br>
+4.95% (2020 est.)<br>
+4.27% (2019 est.)<br>
+
+**Youth unemployment rate (ages 15-24)**<br>
+_total_: 11%<br>
+_male_: 13.4%<br>
+_female_: 7.6% (2021 est.)<br>
 
 **Population below poverty line**<br>
 0.2% (2012 est.)<br>
@@ -598,8 +609,8 @@ _total subscriptions_: 717,000 (2020 est.)<br>
 _subscriptions per 100 inhabitants_: 12 (2020 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 9.377 million (2018)<br>
-_subscriptions per 100 inhabitants_: 162.86 (2019)<br>
+_total subscriptions_: 9.377 million (2020)<br>
+_subscriptions per 100 inhabitants_: 150 (2020)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: the nation of Turkmenistan, which rivals only North Korea for its isolationism, continues to keep its telecom sector along with the broader populace under tight control; the country inched up just one point off the bottom of the world rankings for press and internet freedom in the most recent report from Reporters Without Borders; most social networks in the country are blocked, although locals do have access to the government-developed platform released in 2019; all internet users, however, need to identify themselves before logging on, and strict censorship over what can be viewed is in force; the end result is that Turkmenistan has one of the lowest penetration rates for internet access in the world (2022)<br>

@@ -162,7 +162,7 @@ _female_: 84.79 years (2022 est.)<br>
 1.43 children born/woman (2022 est.)<br>
 
 **Gross reproduction rate**<br>
-0.7 (2022 est.)<br>
+0.7 (2023 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 73.9% (2014)<br>
@@ -210,11 +210,11 @@ _total_: 25.4% (2020 est.)<br>
 _male_: 30.5% (2020 est.)<br>
 _female_: 20.2% (2020 est.)<br>
 
-**Currently married women (ages 15-49)**<br>
-53% (2022 est.)<br>
-
 **Children under the age of 5 years underweight**<br>
 0.4% (2015/16)<br>
+
+**Currently married women (ages 15-49)**<br>
+52.6% (2023 est.)<br>
 
 **Education expenditures**<br>
 5% of GDP (2020 est.)<br>
@@ -231,9 +231,9 @@ _male_: 17 years<br>
 _female_: 17 years (2020)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 23.4%<br>
-_male_: 21%<br>
-_female_: 26.4% (2021 est.)<br>
+_total_: 23.1%<br>
+_male_: 20.6%<br>
+_female_: 26.2% (2021 est.)<br>
 
 ## Environment
 
@@ -394,29 +394,29 @@ _selected World Heritage Site locales_: Historic Évora (c); Central Zone of the
 <p>Portugal has become a diversified and increasingly service-based economy since joining the European Community - the EU's predecessor - in 1986. Over the following two decades, successive governments privatized many state-controlled firms and liberalized key areas of the economy, including the financial and telecommunications sectors. The country joined the Economic and Monetary Union in 1999 and began circulating the euro on 1 January 2002 along with 11 other EU members.</p> <p>The economy grew by more than the EU average for much of the 1990s, but the rate of growth slowed in 2001-08. After the global financial crisis in 2008, Portugal’s economy contracted in 2009 and fell into recession from 2011 to 2013, as the government implemented spending cuts and tax increases to comply with conditions of an EU-IMF financial rescue package, signed in May 2011. Portugal successfully exited its EU-IMF program in May 2014, and its economic recovery gained traction in 2015 because of strong exports and a rebound in private consumption. GDP growth accelerated in 2016, and probably reached 2.5 % in 2017. Unemployment remained high, at 9.7% in 2017, but has improved steadily since peaking at 18% in 2013.</p> <p>The center-left minority Socialist government has unwound some unpopular austerity measures while managing to remain within most EU fiscal targets. The budget deficit fell from 11.2% of GDP in 2010 to 1.8% in 2017, the country’s lowest since democracy was restored in 1974, and surpassing the EU and IMF projections of 3%. Portugal exited the EU’s excessive deficit procedure in mid-2017.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
-$331.64 billion (2020 est.)<br>
-$358.78 billion (2019 est.)<br>
-$350.07 billion (2018 est.)<br>
+$347.694 billion (2021 est.)<br>
+$329.623 billion (2020 est.)<br>
+$359.46 billion (2019 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
-2.24% (2019 est.)<br>
-2.85% (2018 est.)<br>
-3.51% (2017 est.)<br>
+5.48% (2021 est.)<br>
+-8.3% (2020 est.)<br>
+2.68% (2019 est.)<br>
 
 **Real GDP per capita**<br>
-$32,200 (2020 est.)<br>
+$33,700 (2021 est.)<br>
+$32,000 (2020 est.)<br>
 $34,900 (2019 est.)<br>
-$34,000 (2018 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
 $237.698 billion (2019 est.)<br>
 
 **Inflation rate (consumer prices)**<br>
-0.3% (2019 est.)<br>
-0.9% (2018 est.)<br>
-1.3% (2017 est.)<br>
+1.27% (2021 est.)<br>
+-0.01% (2020 est.)<br>
+0.34% (2019 est.)<br>
 
 **Credit ratings**<br>
 _Fitch rating_: BBB (2007)<br>
@@ -444,10 +444,10 @@ milk, tomatoes, olives, grapes, maize, potatoes, pork, apples, oranges, poultry<
 textiles, clothing, footwear, wood and cork, paper and pulp, chemicals, fuels and lubricants, automobiles and auto parts, base metals, minerals, porcelain and ceramics, glassware, technology, telecommunications; dairy products, wine, other foodstuffs; ship construction and refurbishment; tourism, plastics, financial services, optics<br>
 
 **Industrial production growth rate**<br>
-3.5% (2017 est.)<br>
+5.63% (2021 est.)<br>
 
 **Labor force**<br>
-4.717 million (2020 est.)<br>
+5.174 million (2021 est.)<br>
 
 **Labor force - by occupation**<br>
 _agriculture_: 8.6%<br>
@@ -455,20 +455,20 @@ _industry_: 23.9%<br>
 _services_: 67.5% (2014 est.)<br>
 
 **Unemployment rate**<br>
-6.55% (2019 est.)<br>
-7.05% (2018 est.)<br>
+6.65% (2021 est.)<br>
+6.79% (2020 est.)<br>
+6.46% (2019 est.)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 23.4%<br>
-_male_: 21%<br>
-_female_: 26.4% (2021 est.)<br>
+_total_: 23.1%<br>
+_male_: 20.6%<br>
+_female_: 26.2% (2021 est.)<br>
 
 **Population below poverty line**<br>
 17.2% (2018 est.)<br>
 
 **Gini Index coefficient - distribution of family income**<br>
 33.8 (2017 est.)<br>
-34 (2014 est.)<br>
 
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 2.6%<br>
@@ -487,19 +487,20 @@ _expenditures_: 100 billion (2017 est.)<br>
 <strong>note:</strong> data cover general government debt and include debt instruments issued (or owned) by government entities other than the treasury; the data include treasury debt held by foreign entities; the data include debt issued by subnational entities, as well as intragovernmental debt; intragovernmental debt consists of treasury borrowings from surpluses in the social funds, such as for retirement, medical care, and unemployment; debt instruments for the social funds are not sold at public auctions<br>
 
 **Taxes and other revenues**<br>
-42.9% (of GDP) (2017 est.)<br>
+22.04% (of GDP) (2020 est.)<br>
 
 **Fiscal year**<br>
 calendar year<br>
 
 **Current account balance**<br>
--$203 million (2019 est.)<br>
-$988 million (2018 est.)<br>
+-$2.987 billion (2021 est.)<br>
+-$2.292 billion (2020 est.)<br>
+$1.013 billion (2019 est.)<br>
 
 **Exports**<br>
-$85.28 billion (2020 est.) note: data are in current year dollars<br>
-$104.77 billion (2019 est.) note: data are in current year dollars<br>
-$105.76 billion (2018 est.) note: data are in current year dollars<br>
+$105.648 billion (2021 est.) note: data are in current year dollars<br>
+$85.128 billion (2020 est.) note: data are in current year dollars<br>
+$104.846 billion (2019 est.) note: data are in current year dollars<br>
 
 **Exports - partners**<br>
 Spain 23%, France 13%, Germany 12%, United Kingdom 6%, United States 5% (2019)<br>
@@ -508,9 +509,9 @@ Spain 23%, France 13%, Germany 12%, United Kingdom 6%, United States 5% (2019)<b
 cars and vehicle parts, refined petroleum, leather footwear, paper products, tires (2019)<br>
 
 **Imports**<br>
-$89.31 billion (2020 est.) note: data are in current year dollars<br>
-$103.05 billion (2019 est.) note: data are in current year dollars<br>
-$103.59 billion (2018 est.) note: data are in current year dollars<br>
+$112.413 billion (2021 est.) note: data are in current year dollars<br>
+$89.515 billion (2020 est.) note: data are in current year dollars<br>
+$103.009 billion (2019 est.) note: data are in current year dollars<br>
 
 **Imports - partners**<br>
 Spain 29%, Germany 13%, France 9%, Italy 5%, Netherlands 5% (2019)<br>
@@ -519,8 +520,9 @@ Spain 29%, Germany 13%, France 9%, Italy 5%, Netherlands 5% (2019)<br>
 cars and vehicle parts, crude petroleum, aircraft, packaged medicines, refined petroleum, natural gas (2019)<br>
 
 **Reserves of foreign exchange and gold**<br>
-$26.11 billion (31 December 2017 est.)<br>
-$19.4 billion (31 December 2015 est.)<br>
+$32.535 billion (31 December 2021 est.)<br>
+$29.46 billion (31 December 2020 est.)<br>
+$25.003 billion (31 December 2019 est.)<br>
 
 **Debt - external**<br>
 $462.431 billion (2019 est.)<br>
@@ -528,11 +530,11 @@ $483.206 billion (2018 est.)<br>
 
 **Exchange rates**<br>
 _Currency_: euros (EUR) per US dollar -<br>
-0.82771 (2020 est.)<br>
-0.90338 (2019 est.)<br>
-0.87789 (2018 est.)<br>
-0.7525 (2014 est.)<br>
-0.7634 (2013 est.)<br>
+0.845 (2021 est.)<br>
+0.876 (2020 est.)<br>
+0.893 (2019 est.)<br>
+0.847 (2018 est.)<br>
+0.885 (2017 est.)<br>
 
 ## Energy
 

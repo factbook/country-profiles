@@ -164,7 +164,7 @@ _female_: 69.57 years (2022 est.)<br>
 3.62 children born/woman (2022 est.)<br>
 
 **Gross reproduction rate**<br>
-1.79 (2022 est.)<br>
+1.75 (2023 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 49.7% (2020)<br>
@@ -220,11 +220,11 @@ _total_: 27.8% (2020 est.)<br>
 _male_: 42.7% (2020 est.)<br>
 _female_: 12.8% (2020 est.)<br>
 
-**Currently married women (ages 15-49)**<br>
-62.3% (2022 est.)<br>
-
 **Children under the age of 5 years underweight**<br>
 26.4% (2018)<br>
+
+**Currently married women (ages 15-49)**<br>
+60.1% (2023 est.)<br>
 
 **Child marriage**<br>
 _women married by age 15_: 12.7%<br>
@@ -246,9 +246,9 @@ _male_: 10 years<br>
 _female_: 10 years (2018)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 3.4%<br>
-_male_: 3.9%<br>
-_female_: 3% (2015 est.)<br>
+_total_: 4.8%<br>
+_male_: 5.2%<br>
+_female_: 4.4% (2021 est.)<br>
 
 ## Environment
 
@@ -414,29 +414,29 @@ _selected World Heritage Site locales_: Tsingy de Bemaraha Strict Nature Reserve
 <p>Madagascar is a mostly unregulated economy with many untapped natural resources, but no capital markets, a weak judicial system, poorly enforced contracts, and rampant government corruption. The country faces challenges to improve education, healthcare, and the environment to boost long-term economic growth. Agriculture, including fishing and forestry, is a mainstay of the economy, accounting for more than one-fourth of GDP and employing roughly 80% of the population. Deforestation and erosion, aggravated by bushfires, slash-and-burn clearing techniques, and the use of firewood as the primary source of fuel, are serious concerns to the agriculture dependent economy.</p> <p> </p> <p>After discarding socialist economic policies in the mid-1990s, Madagascar followed a World Bank- and IMF-led policy of privatization and liberalization until a 2009 coup d’état led many nations, including the United States, to suspend non-humanitarian aid until a democratically-elected president was inaugurated in 2014. The pre-coup strategy had placed the country on a slow and steady growth path from an extremely low starting point. Exports of apparel boomed after gaining duty-free access to the US market in 2000 under the African Growth and Opportunity Act (AGOA); however, Madagascar's failure to comply with the requirements of the AGOA led to the termination of the country's duty-free access in January 2010, a sharp fall in textile production, a loss of more than 100,000 jobs, and a GDP drop of nearly 11%.</p> <p> </p> <p>Madagascar regained AGOA access in January 2015 and ensuing growth has been slow and fragile. Madagascar produces around 80% of the world’s vanilla and its reliance on this commodity for most of its foreign exchange is a significant source of vulnerability. Economic reforms have been modest and the country’s financial sector remains weak, limiting the use of monetary policy to control inflation. An ongoing IMF program aims to strengthen financial and investment management capacity.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
-$41.82 billion (2020 est.)<br>
-$43.65 billion (2019 est.)<br>
-$41.81 billion (2018 est.)<br>
+$42.322 billion (2021 est.)<br>
+$40.537 billion (2020 est.)<br>
+$43.653 billion (2019 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
-4.2% (2017 est.)<br>
-4.2% (2016 est.)<br>
-3.1% (2015 est.)<br>
+4.4% (2021 est.)<br>
+-7.14% (2020 est.)<br>
+4.41% (2019 est.)<br>
 
 **Real GDP per capita**<br>
-$1,500 (2020 est.)<br>
+$1,500 (2021 est.)<br>
+$1,400 (2020 est.)<br>
 $1,600 (2019 est.)<br>
-$1,600 (2018 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
 $13.964 billion (2019 est.)<br>
 
 **Inflation rate (consumer prices)**<br>
-5.6% (2019 est.)<br>
-8.6% (2018 est.)<br>
-8.5% (2017 est.)<br>
+5.81% (2021 est.)<br>
+4.2% (2020 est.)<br>
+5.61% (2019 est.)<br>
 
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 24% (2017 est.)<br>
@@ -458,26 +458,26 @@ rice, sugar cane, cassava, sweet potatoes, milk, vegetables, bananas, mangoes/gu
 meat processing, seafood, soap, beer, leather, sugar, textiles, glassware, cement, automobile assembly plant, paper, petroleum, tourism, mining<br>
 
 **Industrial production growth rate**<br>
-5.2% (2017 est.)<br>
+-21.56% (2020 est.)<br>
 
 **Labor force**<br>
-13.4 million (2017 est.)<br>
+14.813 million (2021 est.)<br>
 
 **Unemployment rate**<br>
-1.8% (2017 est.)<br>
-1.8% (2016 est.)<br>
+2.59% (2021 est.)<br>
+2.47% (2020 est.)<br>
+1.86% (2019 est.)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 3.4%<br>
-_male_: 3.9%<br>
-_female_: 3% (2015 est.)<br>
+_total_: 4.8%<br>
+_male_: 5.2%<br>
+_female_: 4.4% (2021 est.)<br>
 
 **Population below poverty line**<br>
 70.7% (2012 est.)<br>
 
 **Gini Index coefficient - distribution of family income**<br>
 42.6 (2012 est.)<br>
-42.7 (2010)<br>
 
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 2.2%<br>
@@ -495,19 +495,20 @@ _expenditures_: 2.136 billion (2017 est.)<br>
 38.4% of GDP (2016 est.)<br>
 
 **Taxes and other revenues**<br>
-15.9% (of GDP) (2017 est.)<br>
+9.52% (of GDP) (2020 est.)<br>
 
 **Fiscal year**<br>
 calendar year<br>
 
 **Current account balance**<br>
--$35 million (2017 est.)<br>
-$57 million (2016 est.)<br>
+-$732.252 million (2021 est.)<br>
+-$623.149 million (2020 est.)<br>
+-$302.357 million (2019 est.)<br>
 
 **Exports**<br>
-$4.09 billion (2019 est.) note: data are in current year dollars<br>
-$4.41 billion (2018 est.) note: data are in current year dollars<br>
-$4.839 billion (2017 est.)<br>
+$3.341 billion (2021 est.) note: data are in current year dollars<br>
+$2.589 billion (2020 est.) note: data are in current year dollars<br>
+$4.082 billion (2019 est.)<br>
 
 **Exports - partners**<br>
 United States 19%, France 18%, United Arab Emirates 7%, China 6%, Japan 6%, Germany 5%, India 5% (2019)<br>
@@ -516,9 +517,9 @@ United States 19%, France 18%, United Arab Emirates 7%, China 6%, Japan 6%, Germ
 vanilla, nickel, gold, clothing and apparel, gemstones (2019)<br>
 
 **Imports**<br>
-$4.7 billion (2019 est.) note: data are in current year dollars<br>
-$4.82 billion (2018 est.) note: data are in current year dollars<br>
-$5.796 billion (2017 est.)<br>
+$4.768 billion (2021 est.) note: data are in current year dollars<br>
+$3.718 billion (2020 est.) note: data are in current year dollars<br>
+$4.685 billion (2019 est.)<br>
 
 **Imports - partners**<br>
 China 24%, France 11%, United Arab Emirates 9%, India 7%, South Africa 5% (2019)<br>
@@ -527,8 +528,9 @@ China 24%, France 11%, United Arab Emirates 9%, India 7%, South Africa 5% (2019)
 refined petroleum, rice, cars, packaged medicines, clothing and apparel (2019)<br>
 
 **Reserves of foreign exchange and gold**<br>
-$1.6 billion (31 December 2017 est.)<br>
-$1.076 billion (31 December 2016 est.)<br>
+$2.335 billion (31 December 2021 est.)<br>
+$1.981 billion (31 December 2020 est.)<br>
+$1.693 billion (31 December 2019 est.)<br>
 
 **Debt - external**<br>
 $3.085 billion (2019 est.)<br>
@@ -536,11 +538,11 @@ $4.107 billion (2018 est.)<br>
 
 **Exchange rates**<br>
 _Currency_: Malagasy ariary (MGA) per US dollar -<br>
-3,116.1 (2017 est.)<br>
-3,176.5 (2016 est.)<br>
-3,176.5 (2015 est.)<br>
-2,933.5 (2014 est.)<br>
-2,414.8 (2013 est.)<br>
+3,829.978 (2021 est.)<br>
+3,787.754 (2020 est.)<br>
+3,618.322 (2019 est.)<br>
+3,334.752 (2018 est.)<br>
+3,116.11 (2017 est.)<br>
 
 ## Energy
 

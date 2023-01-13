@@ -168,7 +168,7 @@ _female_: 79.4 years (2022 est.)<br>
 1.63 children born/woman (2022 est.)<br>
 
 **Gross reproduction rate**<br>
-0.79 (2022 est.)<br>
+0.79 (2023 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 NA<br>
@@ -216,11 +216,11 @@ _total_: 28% (2020 est.)<br>
 _male_: 35.9% (2020 est.)<br>
 _female_: 20% (2020 est.)<br>
 
-**Currently married women (ages 15-49)**<br>
-56.1% (2022)<br>
-
 **Children under the age of 5 years underweight**<br>
 NA<br>
+
+**Currently married women (ages 15-49)**<br>
+54.8% (2023)<br>
 
 **Education expenditures**<br>
 3.7% of GDP (2020 est.)<br>
@@ -237,9 +237,9 @@ _male_: 14 years<br>
 _female_: 15 years (2020)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 21%<br>
+_total_: 20.6%<br>
 _male_: 20.9%<br>
-_female_: 21.2% (2021 est.)<br>
+_female_: 20.1% (2021 est.)<br>
 
 ## Environment
 
@@ -404,29 +404,29 @@ _selected World Heritage Site locales_: Danube Delta (n); Churches of Moldavia (
 <p>Romania, which joined the EU on 1 January 2007, began the transition from communism in 1989 with a largely obsolete industrial base and a pattern of output unsuited to the country's needs. Romania's macroeconomic gains have only recently started to spur creation of a middle class and to address Romania's widespread poverty. Corruption and red tape continue to permeate the business environment.</p> <p> </p> <p>In the aftermath of the global financial crisis, Romania signed a $26 billion emergency assistance package from the IMF, the EU, and other international lenders, but GDP contracted until 2011. In March 2011, Romania and the IMF/EU/World Bank signed a 24-month precautionary standby agreement, worth $6.6 billion, to promote fiscal discipline, encourage progress on structural reforms, and strengthen financial sector stability; no funds were drawn. In September 2013, Romanian authorities and the IMF/EU agreed to a follow-on standby agreement, worth $5.4 billion, to continue with reforms. This agreement expired in September 2015, and no funds were drawn. Progress on structural reforms has been uneven, and the economy still is vulnerable to external shocks.</p> <p> </p> <p>Economic growth rebounded in the 2013-17 period, driven by strong industrial exports, excellent agricultural harvests, and, more recently, expansionary fiscal policies in 2016-2017 that nearly quadrupled Bucharest’s annual fiscal deficit, from +0.8% of GDP in 2015 to -3% of GDP in 2016 and an estimated -3.4% in 2017. Industry outperformed other sectors of the economy in 2017. Exports remained an engine of economic growth, led by trade with the EU, which accounts for roughly 70% of Romania trade. Domestic demand was the major driver, due to tax cuts and large wage increases that began last year and are set to continue in 2018.</p> <p> </p> <p>An aging population, emigration of skilled labor, significant tax evasion, insufficient health care, and an aggressive loosening of the fiscal package compromise Romania’s long-term growth and economic stability and are the economy's top vulnerabilities.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
-$556.07 billion (2020 est.)<br>
-$578.39 billion (2019 est.)<br>
-$555.47 billion (2018 est.)<br>
+$588.451 billion (2021 est.)<br>
+$559.896 billion (2020 est.)<br>
+$581.272 billion (2019 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
-4.2% (2019 est.)<br>
-4.54% (2018 est.)<br>
-7.11% (2017 est.)<br>
+5.1% (2021 est.)<br>
+-3.68% (2020 est.)<br>
+3.85% (2019 est.)<br>
 
 **Real GDP per capita**<br>
-$28,800 (2020 est.)<br>
-$29,900 (2019 est.)<br>
-$28,500 (2018 est.)<br>
+$30,800 (2021 est.)<br>
+$29,100 (2020 est.)<br>
+$30,000 (2019 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
 $249.543 billion (2019 est.)<br>
 
 **Inflation rate (consumer prices)**<br>
-3.8% (2019 est.)<br>
-4.6% (2018 est.)<br>
-1.3% (2017 est.)<br>
+5.05% (2021 est.)<br>
+2.63% (2020 est.)<br>
+3.83% (2019 est.)<br>
 
 **Credit ratings**<br>
 _Fitch rating_: BBB- (2011)<br>
@@ -454,10 +454,10 @@ maize, wheat, milk, sunflower seed, potatoes, barley, grapes, sugar beet, rapese
 electric machinery and equipment, auto assembly, textiles and footwear, light machinery, metallurgy, chemicals, food processing, petroleum refining, mining, timber, construction materials<br>
 
 **Industrial production growth rate**<br>
-5.5% (2017 est.)<br>
+4.07% (2021 est.)<br>
 
 **Labor force**<br>
-4.889 million (2020 est.)<br>
+8.381 million (2021 est.)<br>
 
 **Labor force - by occupation**<br>
 _agriculture_: 28.3%<br>
@@ -465,20 +465,20 @@ _industry_: 28.9%<br>
 _services_: 42.8% (2014)<br>
 
 **Unemployment rate**<br>
-3.06% (2019 est.)<br>
-3.56% (2018 est.)<br>
+5.17% (2021 est.)<br>
+5.03% (2020 est.)<br>
+3.91% (2019 est.)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 21%<br>
+_total_: 20.6%<br>
 _male_: 20.9%<br>
-_female_: 21.2% (2021 est.)<br>
+_female_: 20.1% (2021 est.)<br>
 
 **Population below poverty line**<br>
 23.8% (2018 est.)<br>
 
 **Gini Index coefficient - distribution of family income**<br>
 36 (2017 est.)<br>
-28.2 (2010)<br>
 
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 15.3%<br>
@@ -492,24 +492,26 @@ _expenditures_: 68.13 billion (2017 est.)<br>
 -2.8% (of GDP) (2017 est.)<br>
 
 **Public debt**<br>
-36.8% of GDP (2017 est.)<br>
-38.8% of GDP (2016 est.)<br>
+57.11% of GDP (2020 est.)<br>
+43.21% of GDP (2019 est.)<br>
+42.56% of GDP (2018 est.)<br>
 <strong>note:</strong> defined by the EU's Maastricht Treaty as consolidated general government gross debt at nominal value, outstanding at the end of the year in the following categories of government liabilities: currency and deposits, securities other than shares excluding financial derivatives, and loans; general government sector comprises the subsectors: central government, state government, local government, and social security funds<br>
 
 **Taxes and other revenues**<br>
-29.3% (of GDP) (2017 est.)<br>
+14.18% (of GDP) (2020 est.)<br>
 
 **Fiscal year**<br>
 calendar year<br>
 
 **Current account balance**<br>
--$11.389 billion (2019 est.)<br>
--$10.78 billion (2018 est.)<br>
+-$20.627 billion (2021 est.)<br>
+-$12.535 billion (2020 est.)<br>
+-$12.184 billion (2019 est.)<br>
 
 **Exports**<br>
-$93.01 billion (2020 est.) note: data are in current year dollars<br>
-$100.9 billion (2019 est.) note: data are in current year dollars<br>
-$101.11 billion (2018 est.) note: data are in current year dollars<br>
+$115.879 billion (2021 est.) note: data are in current year dollars<br>
+$93.024 billion (2020 est.) note: data are in current year dollars<br>
+$100.901 billion (2019 est.) note: data are in current year dollars<br>
 
 **Exports - partners**<br>
 Germany 22%, Italy 10%, France 7% (2019)<br>
@@ -518,9 +520,9 @@ Germany 22%, Italy 10%, France 7% (2019)<br>
 cars and vehicle parts, insulated wiring, refined petroleum, electrical control boards, seats (2019)<br>
 
 **Imports**<br>
-$104.16 billion (2020 est.) note: data are in current year dollars<br>
-$111.18 billion (2019 est.) note: data are in current year dollars<br>
-$109.26 billion (2018 est.) note: data are in current year dollars<br>
+$132.056 billion (2021 est.) note: data are in current year dollars<br>
+$103.899 billion (2020 est.) note: data are in current year dollars<br>
+$111.184 billion (2019 est.) note: data are in current year dollars<br>
 
 **Imports - partners**<br>
 Germany 19%, Italy 9%, Hungary 7%, Poland 6%, China 5%, France 5% (2019)<br>
@@ -529,8 +531,9 @@ Germany 19%, Italy 9%, Hungary 7%, Poland 6%, China 5%, France 5% (2019)<br>
 cars and vehicle parts, crude petroleum, packaged medicines, insulated wiring, broadcasting equipment (2019)<br>
 
 **Reserves of foreign exchange and gold**<br>
-$44.43 billion (31 December 2017 est.)<br>
-$40 billion (31 December 2016 est.)<br>
+$51.886 billion (31 December 2021 est.)<br>
+$52.191 billion (31 December 2020 est.)<br>
+$42.007 billion (31 December 2019 est.)<br>
 
 **Debt - external**<br>
 $117.829 billion (2019 est.)<br>
@@ -538,11 +541,11 @@ $115.803 billion (2018 est.)<br>
 
 **Exchange rates**<br>
 _Currency_: lei (RON) per US dollar -<br>
-4.02835 (2020 est.)<br>
-4.31655 (2019 est.)<br>
-4.0782 (2018 est.)<br>
-4.0057 (2014 est.)<br>
-3.3492 (2013 est.)<br>
+4.16 (2021 est.)<br>
+4.244 (2020 est.)<br>
+4.238 (2019 est.)<br>
+3.942 (2018 est.)<br>
+4.052 (2017 est.)<br>
 
 ## Energy
 

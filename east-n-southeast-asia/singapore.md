@@ -162,7 +162,7 @@ _female_: 89.2 years (2022 est.)<br>
 1.16 children born/woman (2022 est.)<br>
 
 **Gross reproduction rate**<br>
-0.56 (2022 est.)<br>
+0.57 (2023 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 NA<br>
@@ -210,11 +210,11 @@ _total_: 16.5% (2020 est.)<br>
 _male_: 28% (2020 est.)<br>
 _female_: 5% (2020 est.)<br>
 
-**Currently married women (ages 15-49)**<br>
-54.1% (2022 est.)<br>
-
 **Children under the age of 5 years underweight**<br>
 NA<br>
+
+**Currently married women (ages 15-49)**<br>
+54.3% (2023 est.)<br>
 
 **Education expenditures**<br>
 2.8% of GDP (2021 est.)<br>
@@ -231,9 +231,9 @@ _male_: 16 years<br>
 _female_: 17 years (2020)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 7.5%<br>
-_male_: 5%<br>
-_female_: 10.2% (2021 est.)<br>
+_total_: 9.1%<br>
+_male_: 7%<br>
+_female_: 11.8% (2021 est.)<br>
 
 ## Environment
 
@@ -391,29 +391,29 @@ _selected World Heritage Site locales_: Singapore Botanic Gardens<br>
 <p>Singapore has a highly developed and successful free-market economy. It enjoys an open and corruption-free environment, stable prices, and a per capita GDP higher than that of most developed countries. Unemployment is very low. The economy depends heavily on exports, particularly of electronics, petroleum products, chemicals, medical and optical devices, pharmaceuticals, and on Singapore’s vibrant transportation, business, and financial services sectors.</p> <p> </p> <p>The economy contracted 0.6% in 2009 as a result of the global financial crisis, but has continued to grow since 2010. Growth from 2012-2017 was slower than during the previous decade, a result of slowing structural growth - as Singapore reached high-income levels - and soft global demand for exports. Growth recovered to 3.6% in 2017 with a strengthening global economy.</p> <p> </p> <p>The government is attempting to restructure Singapore’s economy to reduce its dependence on foreign labor, raise productivity growth, and increase wages amid slowing labor force growth and an aging population. Singapore has attracted major investments in advanced manufacturing, pharmaceuticals, and medical technology production and will continue efforts to strengthen its position as Southeast Asia's leading financial and technology hub. Singapore is a signatory of the Comprehensive and Progressive Agreement for Trans-Pacific Partnership (CPTPP), and a party to the Regional Comprehensive Economic Partnership (RCEP) negotiations with nine other ASEAN members plus Australia, China, India, Japan, South Korea, and New Zealand. In 2015, Singapore formed, with the other ASEAN members, the ASEAN Economic Community.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
-$531.04 billion (2020 est.)<br>
-$561.3 billion (2019 est.)<br>
-$553.85 billion (2018 est.)<br>
+$578.254 billion (2021 est.)<br>
+$537.341 billion (2020 est.)<br>
+$560.566 billion (2019 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
-0.73% (2019 est.)<br>
-3.48% (2018 est.)<br>
-4.34% (2017 est.)<br>
+7.61% (2021 est.)<br>
+-4.14% (2020 est.)<br>
+1.1% (2019 est.)<br>
 
 **Real GDP per capita**<br>
-$93,400 (2020 est.)<br>
-$98,400 (2019 est.)<br>
-$98,200 (2018 est.)<br>
+$106,000 (2021 est.)<br>
+$94,500 (2020 est.)<br>
+$98,300 (2019 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
 $372.088 billion (2019 est.)<br>
 
 **Inflation rate (consumer prices)**<br>
-0.5% (2019 est.)<br>
-0.4% (2018 est.)<br>
-0.5% (2017 est.)<br>
+2.3% (2021 est.)<br>
+-0.18% (2020 est.)<br>
+0.57% (2019 est.)<br>
 
 **Credit ratings**<br>
 _Fitch rating_: AAA (2003)<br>
@@ -441,10 +441,10 @@ poultry, eggs, vegetables, pork, duck meat, spinach, pig offals, bird eggs, pig 
 electronics, chemicals, financial services, oil drilling equipment, petroleum refining, biomedical products, scientific instruments, telecommunication equipment, processed food and beverages, ship repair, offshore platform construction, entrepot trade<br>
 
 **Industrial production growth rate**<br>
-5.7% (2017 est.)<br>
+13.32% (2021 est.)<br>
 
 **Labor force**<br>
-3.778 million (2019 est.)<br>
+3.29 million (2021 est.)<br>
 <strong>note:</strong> excludes non-residents<br>
 
 **Labor force - by occupation**<br>
@@ -454,20 +454,20 @@ _services_: 73.7% (2017)<br>
 <strong>note:</strong> excludes non-residents<br>
 
 **Unemployment rate**<br>
-2.25% (2019 est.)<br>
-2.1% (2018 est.)<br>
+3.62% (2021 est.)<br>
+4.1% (2020 est.)<br>
+3.1% (2019 est.)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 7.5%<br>
-_male_: 5%<br>
-_female_: 10.2% (2021 est.)<br>
+_total_: 9.1%<br>
+_male_: 7%<br>
+_female_: 11.8% (2021 est.)<br>
 
 **Population below poverty line**<br>
 NA<br>
 
 **Gini Index coefficient - distribution of family income**<br>
 45.9 (2017)<br>
-45.8 (2016)<br>
 
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 1.6%<br>
@@ -482,24 +482,26 @@ _expenditures_: 51.87 billion (2017 est.)<br>
 -0.3% (of GDP) (2017 est.)<br>
 
 **Public debt**<br>
-111.1% of GDP (2017 est.)<br>
-106.8% of GDP (2016 est.)<br>
+153.41% of GDP (2020 est.)<br>
+128.31% of GDP (2019 est.)<br>
+110.73% of GDP (2018 est.)<br>
 <strong>note:</strong> Singapore's public debt consists largely of Singapore Government Securities (SGS) issued to assist the Central Provident Fund (CPF), which administers Singapore's defined contribution pension fund; special issues of SGS are held by the CPF, and are non-tradable; the government has not borrowed to finance deficit expenditures since the 1980s; Singapore has no external public debt<br>
 
 **Taxes and other revenues**<br>
-15.7% (of GDP) (2017 est.)<br>
+12.89% (of GDP) (2020 est.)<br>
 
 **Fiscal year**<br>
 1 April - 31 March<br>
 
 **Current account balance**<br>
-$63.109 billion (2019 est.)<br>
-$64.042 billion (2018 est.)<br>
+$71.926 billion (2021 est.)<br>
+$58.139 billion (2020 est.)<br>
+$54.273 billion (2019 est.)<br>
 
 **Exports**<br>
-$599.2 billion (2020 est.) note: data are in current year dollars<br>
-$658.54 billion (2019 est.) note: data are in current year dollars<br>
-$665.7 billion (2018 est.) note: data are in current year dollars<br>
+$733.782 billion (2021 est.) note: data are in current year dollars<br>
+$627.442 billion (2020 est.) note: data are in current year dollars<br>
+$658.127 billion (2019 est.) note: data are in current year dollars<br>
 
 **Exports - partners**<br>
 China 15%, Hong Kong 13%, Malaysia 9%, United States 8%, Indonesia 7%, India 5% (2019)<br>
@@ -508,9 +510,9 @@ China 15%, Hong Kong 13%, Malaysia 9%, United States 8%, Indonesia 7%, India 5% 
 integrated circuits, refined petroleum, gold, gas turbines, packaged medicines (2019)<br>
 
 **Imports**<br>
-$490.68 billion (2020 est.) note: data are in current year dollars<br>
-$552.71 billion (2019 est.) note: data are in current year dollars<br>
-$557.49 billion (2018 est.) note: data are in current year dollars<br>
+$609.28 billion (2021 est.) note: data are in current year dollars<br>
+$517.967 billion (2020 est.) note: data are in current year dollars<br>
+$550.209 billion (2019 est.) note: data are in current year dollars<br>
 
 **Imports - partners**<br>
 China 16%, Malaysia 11%, United States 9%, Taiwan 7%, Japan 5%, Indonesia 5% (2019)<br>
@@ -519,8 +521,9 @@ China 16%, Malaysia 11%, United States 9%, Taiwan 7%, Japan 5%, Indonesia 5% (20
 integrated circuits, refined petroleum, crude petroleum, gold, gas turbines (2019)<br>
 
 **Reserves of foreign exchange and gold**<br>
-$279.9 billion (31 December 2017 est.)<br>
-$271.8 billion (31 December 2016 est.)<br>
+$425.098 billion (31 December 2021 est.)<br>
+$369.834 billion (31 December 2020 est.)<br>
+$285.478 billion (31 December 2019 est.)<br>
 
 **Debt - external**<br>
 $1,557,646,000,000 (2019 est.)<br>
@@ -528,11 +531,11 @@ $1,528,177,000,000 (2018 est.)<br>
 
 **Exchange rates**<br>
 _Currency_: Singapore dollars (SGD) per US dollar -<br>
-1.33685 (2020 est.)<br>
-1.35945 (2019 est.)<br>
-1.3699 (2018 est.)<br>
-1.3748 (2014 est.)<br>
-1.2671 (2013 est.)<br>
+1.343 (2021 est.)<br>
+1.38 (2020 est.)<br>
+1.364 (2019 est.)<br>
+1.349 (2018 est.)<br>
+1.381 (2017 est.)<br>
 
 ## Energy
 

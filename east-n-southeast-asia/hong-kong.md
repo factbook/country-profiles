@@ -155,7 +155,7 @@ _female_: 86.46 years (2022 est.)<br>
 1.22 children born/woman (2022 est.)<br>
 
 **Gross reproduction rate**<br>
-0.59 (2022 est.)<br>
+0.6 (2023 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 66.7% (2017)<br>
@@ -188,11 +188,11 @@ _unimproved: total_: total: 3.6% of population (2017)<br>
 **HIV/AIDS - adult prevalence rate**<br>
 NA<br>
 
-**Currently married women (ages 15-49)**<br>
-47.7% (2022 est.)<br>
-
 **Children under the age of 5 years underweight**<br>
 NA<br>
+
+**Currently married women (ages 15-49)**<br>
+47.7% (2023 est.)<br>
 
 **Education expenditures**<br>
 4% of GDP (2021 est.)<br>
@@ -208,9 +208,9 @@ _male_: 17 years<br>
 _female_: 17 years (2021)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 15.5%<br>
-_male_: 17.3%<br>
-_female_: 13.6% (2020 est.)<br>
+_total_: 15%<br>
+_male_: 16.3%<br>
+_female_: 13.6% (2021 est.)<br>
 
 ## Environment
 
@@ -336,29 +336,29 @@ orchid tree flower; national colors: red, white<br>
 <p>Hong Kong has a free market economy, highly dependent on international trade and finance - the value of goods and services trade, including the sizable share of reexports, is about four times GDP. Hong Kong has no tariffs on imported goods, and it levies excise duties on only four commodities, whether imported or produced locally: hard alcohol, tobacco, oil, and methyl alcohol. There are no quotas or dumping laws. Hong Kong continues to link its currency closely to the US dollar, maintaining an arrangement established in 1983.</p> <p> </p> <p>Excess liquidity, low interest rates and a tight housing supply have caused Hong Kong property prices to rise rapidly. The lower and middle-income segments of the population increasingly find housing unaffordable.</p> <p> </p> <p>Hong Kong's open economy has left it exposed to the global economic situation. Its continued reliance on foreign trade and investment makes it vulnerable to renewed global financial market volatility or a slowdown in the global economy.</p> <p> </p> <p>Mainland China has long been Hong Kong's largest trading partner, accounting for about half of Hong Kong's total trade by value. Hong Kong's natural resources are limited, and food and raw materials must be imported. As a result of China's easing of travel restrictions, the number of mainland tourists to the territory surged from 4.5 million in 2001 to 47.3 million in 2014, outnumbering visitors from all other countries combined. After peaking in 2014, overall tourist arrivals dropped 2.5% in 2015 and 4.5% in 2016. The tourism sector rebounded in 2017, with visitor arrivals rising 3.2% to 58.47 million. Travelers from Mainland China totaled 44.45 million, accounting for 76% of the total.</p> <p> </p> <p>The Hong Kong Government is promoting the Special Administrative Region (SAR) as the preferred business hub for renminbi (RMB) internationalization. Hong Kong residents are allowed to establish RMB-denominated savings accounts, RMB-denominated corporate and Chinese government bonds have been issued in Hong Kong, RMB trade settlement is allowed, and investment schemes such as the Renminbi Qualified Foreign Institutional Investor (RQFII) Program was first launched in Hong Kong. Offshore RMB activities experienced a setback, however, after the People’s Bank of China changed the way it set the central parity rate in August 2015. RMB deposits in Hong Kong fell from 1.0 trillion RMB at the end of 2014 to 559 billion RMB at the end of 2017, while RMB trade settlement handled by banks in Hong Kong also shrank from 6.8 trillion RMB in 2015 to 3.9 trillion RMB in 2017.</p> <p> </p> <p>Hong Kong has also established itself as the premier stock market for Chinese firms seeking to list abroad. In 2015, mainland Chinese companies constituted about 50% of the firms listed on the Hong Kong Stock Exchange and accounted for about 66% of the exchange's market capitalization.</p> <p> </p> <p>During the past decade, as Hong Kong's manufacturing industry moved to the mainland, its service industry has grown rapidly. In 2014, Hong Kong and China signed a new agreement on achieving basic liberalization of trade in services in Guangdong Province under the Closer Economic Partnership Agreement (CEPA), adopted in 2003 to forge closer ties between Hong Kong and the mainland. The new measures, which took effect in March 2015, cover a negative list and a most-favored treatment provision. On the basis of the Guangdong Agreement, the Agreement on Trade in Services signed in November 2015 further enhanced liberalization, including extending the implementation of the majority of Guangdong pilot liberalization measures to the whole Mainland, reducing the restrictive measures in the negative list, and adding measures in the positive lists for cross-border services as well as cultural and telecommunications services. In June 2017, the Investment Agreement and the Agreement on Economic and Technical Cooperation (Ecotech Agreement) were signed under the framework of CEPA.</p> <p> </p> <p>Hong Kong’s economic integration with the mainland continues to be most evident in the banking and finance sector. Initiatives like the Hong Kong-Shanghai Stock Connect, the Hong Kong- Shenzhen Stock Connect the Mutual Recognition of Funds, and the Bond Connect scheme are all important steps towards opening up the Mainland’s capital markets and have reinforced Hong Kong’s role as China’s leading offshore RMB market. Additional connect schemes such as ETF Connect (for exchange-traded fund products) are also under exploration by Hong Kong authorities. In 2017, Chief Executive Carrie LAM announced plans to increase government spending on research and development, education, and technological innovation with the aim of spurring continued economic growth through greater sector diversification.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
-$420.13 billion (2020 est.)<br>
-$447.34 billion (2019 est.)<br>
-$454.98 billion (2018 est.)<br>
+$444.624 billion (2021 est.)<br>
+$418.103 billion (2020 est.)<br>
+$447.385 billion (2019 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
--1.25% (2019 est.)<br>
-2.86% (2018 est.)<br>
-3.8% (2017 est.)<br>
+6.34% (2021 est.)<br>
+-6.55% (2020 est.)<br>
+-1.68% (2019 est.)<br>
 
 **Real GDP per capita**<br>
-$56,200 (2020 est.)<br>
+$60,000 (2021 est.)<br>
+$55,900 (2020 est.)<br>
 $59,600 (2019 est.)<br>
-$61,100 (2018 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
 $365.753 billion (2019 est.)<br>
 
 **Inflation rate (consumer prices)**<br>
-2.8% (2019 est.)<br>
-2.4% (2018 est.)<br>
-1.4% (2017 est.)<br>
+1.57% (2021 est.)<br>
+0.25% (2020 est.)<br>
+2.88% (2019 est.)<br>
 
 **Credit ratings**<br>
 _Fitch rating_: AA- (2020)<br>
@@ -386,10 +386,10 @@ pork, poultry, spinach, vegetables, pork offals, game meat, fruit, lettuce, gree
 trading and logistics, financial services, professional services, tourism, cultural and creative, clothing and textiles, shipping, electronics, toys, clocks and watches<br>
 
 **Industrial production growth rate**<br>
-1.7% (2017 est.)<br>
+2.08% (2021 est.)<br>
 
 **Labor force**<br>
-3.627 million (2020 est.)<br>
+3.842 million (2021 est.)<br>
 
 **Labor force - by occupation**<br>
 _agriculture_: 3.8% (2013 est.)<br>
@@ -401,20 +401,20 @@ _manufacturing_: 17.1% (2013 est.)<br>
 <strong>note:</strong> above data exclude public sector<br>
 
 **Unemployment rate**<br>
+5.32% (2021 est.)<br>
+5.83% (2020 est.)<br>
 2.93% (2019 est.)<br>
-2.83% (2018 est.)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 15.5%<br>
-_male_: 17.3%<br>
-_female_: 13.6% (2020 est.)<br>
+_total_: 15%<br>
+_male_: 16.3%<br>
+_female_: 13.6% (2021 est.)<br>
 
 **Population below poverty line**<br>
 19.9% (2016 est.)<br>
 
 **Gini Index coefficient - distribution of family income**<br>
-53.9 (2016)<br>
-53.7 (2011 est.)<br>
+53.9 (2016 est.)<br>
 
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 1.8% NA<br>
@@ -438,13 +438,14 @@ _expenditures_: 61.64 billion (2017 est.)<br>
 1 April - 31 March<br>
 
 **Current account balance**<br>
-$22.469 billion (2019 est.)<br>
-$13.516 billion (2018 est.)<br>
+$41.712 billion (2021 est.)<br>
+$24.092 billion (2020 est.)<br>
+$21.23 billion (2019 est.)<br>
 
 **Exports**<br>
-$615.88 billion (2020 est.) note: data are in current year dollars<br>
-$649.02 billion (2019 est.) note: data are in current year dollars<br>
-$681.28 billion (2018 est.) note: data are in current year dollars<br>
+$751.26 billion (2021 est.) note: data are in current year dollars<br>
+$608.159 billion (2020 est.) note: data are in current year dollars<br>
+$645.007 billion (2019 est.) note: data are in current year dollars<br>
 
 **Exports - partners**<br>
 China 23%, India 14%, Netherlands 6%, United Kingdom 5% (2019)<br>
@@ -453,9 +454,9 @@ China 23%, India 14%, Netherlands 6%, United Kingdom 5% (2019)<br>
 gold, broadcasting equipment, integrated circuits, diamonds, telephones (2019)<br>
 
 **Imports**<br>
-$609.13 billion (2020 est.) note: data are in current year dollars<br>
-$642.8 billion (2019 est.) note: data are in current year dollars<br>
-$682.05 billion (2018 est.) note: data are in current year dollars<br>
+$733.459 billion (2021 est.) note: data are in current year dollars<br>
+$601.528 billion (2020 est.) note: data are in current year dollars<br>
+$639.363 billion (2019 est.) note: data are in current year dollars<br>
 
 **Imports - partners**<br>
 China 46%, Taiwan 7%, Singapore 7%, South Korea 5%, United States 5%, Japan 5% (2019)<br>
@@ -464,8 +465,9 @@ China 46%, Taiwan 7%, Singapore 7%, South Korea 5%, United States 5%, Japan 5% (
 integrated circuits, broadcasting equipment, office machinery, telephones, diamonds (2019)<br>
 
 **Reserves of foreign exchange and gold**<br>
-$431.4 billion (31 December 2017 est.)<br>
-$386.2 billion (31 December 2016 est.)<br>
+$496.867 billion (31 December 2021 est.)<br>
+$491.776 billion (31 December 2020 est.)<br>
+$441.35 billion (31 December 2019 est.)<br>
 
 **Debt - external**<br>
 $1,648,409,000,000 (2019 est.)<br>
@@ -473,11 +475,11 @@ $1,670,919,000,000 (2018 est.)<br>
 
 **Exchange rates**<br>
 _Currency_: Hong Kong dollars (HKD) per US dollar -<br>
-7.75225 (2020 est.)<br>
-7.8285 (2019 est.)<br>
-7.8133 (2018 est.)<br>
-7.752 (2014 est.)<br>
-7.754 (2013 est.)<br>
+7.773 (2021 est.)<br>
+7.757 (2020 est.)<br>
+7.836 (2019 est.)<br>
+7.839 (2018 est.)<br>
+7.793 (2017 est.)<br>
 
 ## Energy
 

@@ -181,7 +181,7 @@ _female_: 85.79 years (2022 est.)<br>
 2.03 children born/woman (2022 est.)<br>
 
 **Gross reproduction rate**<br>
-0.99 (2022 est.)<br>
+0.99 (2023 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 NA<br>
@@ -232,11 +232,11 @@ _total_: 33.4% (2020 est.)<br>
 _male_: 34.9% (2020 est.)<br>
 _female_: 31.9% (2020 est.)<br>
 
-**Currently married women (ages 15-49)**<br>
-55.1% (2022 est.)<br>
-
 **Children under the age of 5 years underweight**<br>
 NA<br>
+
+**Currently married women (ages 15-49)**<br>
+54.8% (2023 est.)<br>
 
 **Education expenditures**<br>
 5.5% of GDP (2020 est.)<br>
@@ -252,9 +252,9 @@ _male_: 16 years<br>
 _female_: 16 years (2020)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 18.9%<br>
-_male_: 19%<br>
-_female_: 18.8% (2021 est.)<br>
+_total_: 20.1%<br>
+_male_: 19.9%<br>
+_female_: 20.3% (2021 est.)<br>
 
 ## Environment
 
@@ -435,29 +435,29 @@ _selected World Heritage Site locales_: Chartres Cathedral (c); Palace and Park 
 <p>The French economy is diversified across all sectors. The government has partially or fully privatized many large companies, including Air France, France Telecom, Renault, and Thales. However, the government maintains a strong presence in some sectors, particularly power, public transport, and defense industries. France is the most visited country in the world with 89 million foreign tourists in 2017. France's leaders remain committed to a capitalism in which they maintain social equity by means of laws, tax policies, and social spending that mitigate economic inequality.</p> <p> </p> <p>France's real GDP grew by 1.9% in 2017, up from 1.2% the year before. The unemployment rate (including overseas territories) increased from 7.8% in 2008 to 10.2% in 2015, before falling to 9.0% in 2017. Youth unemployment in metropolitan France decreased from 24.6% in the fourth quarter of 2014 to 20.6% in the fourth quarter of 2017.</p> <p> </p> <p>France’s public finances have historically been strained by high spending and low growth. In 2017, the budget deficit improved to 2.7% of GDP, bringing it in compliance with the EU-mandated 3% deficit target. Meanwhile, France's public debt rose from 89.5% of GDP in 2012 to 97% in 2017.</p> <p> </p> <p>Since entering office in May 2017, President Emmanuel MACRON launched a series of economic reforms to improve competitiveness and boost economic growth. President MACRON campaigned on reforming France’s labor code and in late 2017 implemented a range of reforms to increase flexibility in the labor market by making it easier for firms to hire and fire and simplifying negotiations between employers and employees. In addition to labor reforms, President MACRON’s 2018 budget cuts public spending, taxes, and social security contributions to spur private investment and increase purchasing power. The government plans to gradually reduce corporate tax rate for businesses from 33.3% to 25% by 2022.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
-$2.832 trillion (2020 est.)<br>
-$3.082 trillion (2019 est.)<br>
-$3.037 trillion (2018 est.)<br>
+$3.048 trillion (2021 est.)<br>
+$2.854 trillion (2020 est.)<br>
+$3.095 trillion (2019 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
-1.49% (2019 est.)<br>
-1.81% (2018 est.)<br>
-2.42% (2017 est.)<br>
+6.82% (2021 est.)<br>
+-7.78% (2020 est.)<br>
+1.84% (2019 est.)<br>
 
 **Real GDP per capita**<br>
-$42,000 (2020 est.)<br>
-$45,800 (2019 est.)<br>
-$45,300 (2018 est.)<br>
+$45,000 (2021 est.)<br>
+$42,200 (2020 est.)<br>
+$45,900 (2019 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
 $2.716 trillion (2019 est.)<br>
 
 **Inflation rate (consumer prices)**<br>
-1.1% (2019 est.)<br>
-1.8% (2018 est.)<br>
-1% (2017 est.)<br>
+1.64% (2021 est.)<br>
+0.48% (2020 est.)<br>
+1.11% (2019 est.)<br>
 
 **Credit ratings**<br>
 _Fitch rating_: AA (2014)<br>
@@ -485,10 +485,10 @@ wheat, sugar beets, milk, barley, maize, potatoes, grapes, rapeseed, pork, apple
 machinery, chemicals, automobiles, metallurgy, aircraft, electronics, textiles, food processing, tourism<br>
 
 **Industrial production growth rate**<br>
-2% (2017 est.)<br>
+6.98% (2021 est.)<br>
 
 **Labor force**<br>
-27.742 million (2020 est.)<br>
+31.132 million (2021 est.)<br>
 
 **Labor force - by occupation**<br>
 _agriculture_: 2.8% (2016 est.)<br>
@@ -496,21 +496,21 @@ _industry_: 20% (2016 est.)<br>
 _services_: 77.2% (2016 est.)<br>
 
 **Unemployment rate**<br>
-8.12% (2019 est.)<br>
-8.69% (2018 est.)<br>
+8.06% (2021 est.)<br>
+8.01% (2020 est.)<br>
+8.41% (2019 est.)<br>
 <strong>note:</strong> includes overseas territories<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 18.9%<br>
-_male_: 19%<br>
-_female_: 18.8% (2021 est.)<br>
+_total_: 20.1%<br>
+_male_: 19.9%<br>
+_female_: 20.3% (2021 est.)<br>
 
 **Population below poverty line**<br>
 13.6% (2018 est.)<br>
 
 **Gini Index coefficient - distribution of family income**<br>
-31.6 (2017 est.)<br>
-29.2 (2015)<br>
+32.4 (2018 est.)<br>
 
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 3.6%<br>
@@ -524,24 +524,26 @@ _expenditures_: 1.459 trillion (2017 est.)<br>
 -2.6% (of GDP) (2017 est.)<br>
 
 **Public debt**<br>
-96.8% of GDP (2017 est.)<br>
-96.6% of GDP (2016 est.)<br>
+123.01% of GDP (2020 est.)<br>
+104.99% of GDP (2019 est.)<br>
+101.62% of GDP (2018 est.)<br>
 <strong>note:</strong> data cover general government debt and include debt instruments issued (or owned) by government entities other than the treasury; the data include treasury debt held by foreign entities; the data include debt issued by subnational entities, as well as intragovernmental debt; intragovernmental debt consists of treasury borrowings from surpluses in the social funds, such as for retirement, medical care, and unemployment; debt instruments for the social funds are not sold at public auctions<br>
 
 **Taxes and other revenues**<br>
-53.8% (of GDP) (2017 est.)<br>
+24.69% (of GDP) (2020 est.)<br>
 
 **Fiscal year**<br>
 calendar year<br>
 
 **Current account balance**<br>
--$18.102 billion (2019 est.)<br>
--$16.02 billion (2018 est.)<br>
+$9.947 billion (2021 est.)<br>
+-$46.341 billion (2020 est.)<br>
+$13.699 billion (2019 est.)<br>
 
 **Exports**<br>
-$746.91 billion (2020 est.) note: data are in current year dollars<br>
-$891.18 billion (2019 est.) note: data are in current year dollars<br>
-$918.97 billion (2018 est.) note: data are in current year dollars<br>
+$920.864 billion (2021 est.) note: data are in current year dollars<br>
+$751.384 billion (2020 est.) note: data are in current year dollars<br>
+$892.016 billion (2019 est.) note: data are in current year dollars<br>
 
 **Exports - partners**<br>
 Germany 14%, United States 8%, Italy 7%, Spain 7%, Belgium 7%, United Kingdom 7% (2019)<br>
@@ -550,9 +552,9 @@ Germany 14%, United States 8%, Italy 7%, Spain 7%, Belgium 7%, United Kingdom 7%
 aircraft, packaged medicines, cars and vehicle parts, gas turbines, wine (2019)<br>
 
 **Imports**<br>
-$803.66 billion (2020 est.) note: data are in current year dollars<br>
-$919.63 billion (2019 est.) note: data are in current year dollars<br>
-$947.31 billion (2018 est.) note: data are in current year dollars<br>
+$957.717 billion (2021 est.) note: data are in current year dollars<br>
+$796.353 billion (2020 est.) note: data are in current year dollars<br>
+$916.214 billion (2019 est.) note: data are in current year dollars<br>
 
 **Imports - partners**<br>
 Germany 18%, Belgium 9%, Italy 9%, Spain 7%, China 7%, Netherlands 6%, United Kingdom 5% (2019)<br>
@@ -561,8 +563,9 @@ Germany 18%, Belgium 9%, Italy 9%, Spain 7%, China 7%, Netherlands 6%, United Ki
 cars, crude petroleum, refined petroleum, packaged medicines, aircraft machinery (2019)<br>
 
 **Reserves of foreign exchange and gold**<br>
-$156.4 billion (31 December 2017 est.)<br>
-$138.2 billion (31 December 2015 est.)<br>
+$244.28 billion (31 December 2021 est.)<br>
+$224.236 billion (31 December 2020 est.)<br>
+$189.006 billion (31 December 2019 est.)<br>
 
 **Debt - external**<br>
 $6.356 trillion (2019 est.)<br>
@@ -570,11 +573,11 @@ $6.058 trillion (2018 est.)<br>
 
 **Exchange rates**<br>
 _Currency_: euros (EUR) per US dollar -<br>
-0.82771 (2020 est.)<br>
-0.90338 (2019 est.)<br>
-0.87789 (2018 est.)<br>
-0.885 (2014 est.)<br>
-0.7634 (2013 est.)<br>
+0.845 (2021 est.)<br>
+0.876 (2020 est.)<br>
+0.893 (2019 est.)<br>
+0.847 (2018 est.)<br>
+0.885 (2017 est.)<br>
 
 ## Energy
 
@@ -772,7 +775,7 @@ Islamic Revolutionary Guard Corps/Qods Force; Islamic State of Iraq and ash-Sham
 <p>Madagascar claims the French territories of Bassas da India, Europa Island, Glorioso Islands, and Juan de Nova Island; Comoros claims Mayotte; Mauritius claims Tromelin Island; territorial dispute between Suriname and the French overseas department of French Guiana; France asserts a territorial claim in Antarctica (Adelie Land); France and Vanuatu claim Matthew and Hunter Islands, east of New Caledonia</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 37,744 (Afghanistan), 23,980 (Sri Lanka), 23,510 (Syria), 21,070 (Sudan), 19,007 (Democratic Republic of the Congo), 16,995 (Russia), 15,090 (Guinea), 14,296 (Serbia and Kosovo), 13,180 (Turkey), 10,849 (Cambodia), 9,328 (Iraq) 8,519 (China), 8,338 (Cote d'Ivoire), 8,218 (Eritrea), 7,628 (Vietnam), 6,947 (Bangladesh), 6,649 (Somalia), 6,642 (Albania), 6,371 (Laos), 6,074 (Mauritania), 5,908 (Mali) (mid-year 2021); 118,994 (Ukraine) (as of 31 October 2022)<br>
+_refugees (country of origin)_: 55,681 (Afghanistan), 39,091 (Syria), 33,834 (Sri Lanka), 33,148 (Russia), 31,935 (Democratic Republic of the Congo), 24,223 (Sudan), 21,225 (Guinea), 18,008 (Serbia and Kosovo), 17,032 (Turkey), 13,974 (Iraq), 12,286 (Cote d'Ivoire), 11,489 (Eritrea), 11,012 (Cambodia), 10,543 (China), 10,236 (Albania), 10,210 (Somalia), 8,858 (Bangladesh), 8,124 (Mauritania), 8,101 (Mali), 7,991 (Vietnam), 6,913 (Bosnia and Herzegovina), 6,910 (Haiti), 6,808 (Angola), 6,498 (Laos), 6,417 (Armenia), 6,111 (Nigeria), 5,896 (Georgia) (mid-year 2022); 118,994 (Ukraine) (as of 31 October 2022)<br>
 _stateless persons_: 2,094 (mid-year 2021)<br>
 
 **Illicit drugs**<br>

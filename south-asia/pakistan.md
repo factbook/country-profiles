@@ -172,7 +172,7 @@ _female_: 71.82 years (2022 est.)<br>
 3.46 children born/woman (2022 est.)<br>
 
 **Gross reproduction rate**<br>
-1.69 (2022 est.)<br>
+1.66 (2023 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 34% (2018/19)<br>
@@ -227,11 +227,11 @@ _total_: 20.2% (2020 est.)<br>
 _male_: 33% (2020 est.)<br>
 _female_: 7.3% (2020 est.)<br>
 
-**Currently married women (ages 15-49)**<br>
-63.4% (2022 est.)<br>
-
 **Children under the age of 5 years underweight**<br>
 23.1% (2017/18)<br>
+
+**Currently married women (ages 15-49)**<br>
+63.5% (2023 est.)<br>
 
 **Child marriage**<br>
 _women married by age 15_: 3.6%<br>
@@ -253,9 +253,9 @@ _male_: 9 years<br>
 _female_: 8 years (2019)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 11.1%<br>
-_male_: 10%<br>
-_female_: 14.4% (2021 est.)<br>
+_total_: 9.4%<br>
+_male_: 9.7%<br>
+_female_: 8.2% (2021 est.)<br>
 
 ## Environment
 
@@ -433,30 +433,30 @@ _selected World Heritage Site locales_: Archaeological Ruins at Moenjodaro; Budd
 <p>Decades of internal political disputes and low levels of foreign investment have led to underdevelopment in Pakistan. Pakistan has a large English-speaking population, with English-language skills less prevalent outside urban centers. Despite some progress in recent years in both security and energy, a challenging security environment, electricity shortages, and a burdensome investment climate have traditionally deterred investors. Agriculture accounts for one-fifth of output and two-fifths of employment. Textiles and apparel account for more than half of Pakistan's export earnings; Pakistan's failure to diversify its exports has left the country vulnerable to shifts in world demand. Pakistan’s GDP growth has gradually increased since 2012, and was 5.3% in 2017. Official unemployment was 6% in 2017, but this fails to capture the true picture, because much of the economy is informal and underemployment remains high. Human development continues to lag behind most of the region.</p> <p> </p> <p>In 2013, Pakistan embarked on a $6.3 billion IMF Extended Fund Facility, which focused on reducing energy shortages, stabilizing public finances, increasing revenue collection, and improving its balance of payments position. The program concluded in September 2016. Although Pakistan missed several structural reform criteria, it restored macroeconomic stability, improved its credit rating, and boosted growth. The Pakistani rupee has remained relatively stable against the US dollar since 2015, though it declined about 10% between November 2017 and March 2018. Balance of payments concerns have reemerged, however, as a result of a significant increase in imports and weak export and remittance growth.</p> <p> </p> <p>Pakistan must continue to address several longstanding issues, including expanding investment in education, healthcare, and sanitation; adapting to the effects of climate change and natural disasters; improving the country’s business environment; and widening the country’s tax base. Given demographic challenges, Pakistan’s leadership will be pressed to implement economic reforms, promote further development of the energy sector, and attract foreign investment to support sufficient economic growth necessary to employ its growing and rapidly urbanizing population, much of which is under the age of 25.</p> <p> </p> <p>In an effort to boost development, Pakistan and China are implementing the "China-Pakistan Economic Corridor" (CPEC) with $60 billion in investments targeted towards energy and other infrastructure projects. Pakistan believes CPEC investments will enable growth rates of over 6% of GDP by laying the groundwork for increased exports. CPEC-related obligations, however, have raised IMF concern about Pakistan’s capital outflows and external financing needs over the medium term.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
-$1,021,130,000,000 (2020 est.)<br>
-$1,015,800,000,000 (2019 est.)<br>
-$1,005,850,000,000 (2018 est.)<br>
+$1.211 trillion (2021 est.)<br>
+$1.137 trillion (2020 est.)<br>
+$1.152 trillion (2019 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>data are for fiscal years<br>
 
 **Real GDP growth rate**<br>
-5.4% (2017 est.)<br>
-4.6% (2016 est.)<br>
-4.1% (2015 est.)<br>
+6.49% (2021 est.)<br>
+-1.27% (2020 est.)<br>
+2.5% (2019 est.)<br>
 <strong>note:</strong> data are for fiscal years<br>
 
 **Real GDP per capita**<br>
-$4,600 (2020 est.)<br>
-$4,700 (2019 est.)<br>
-$4,700 (2018 est.)<br>
+$5,200 (2021 est.)<br>
+$5,000 (2020 est.)<br>
+$5,200 (2019 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
 $253.183 billion (2019 est.)<br>
 
 **Inflation rate (consumer prices)**<br>
-9.3% (2019 est.)<br>
-5.2% (2018 est.)<br>
-4.2% (2017 est.)<br>
+9.5% (2021 est.)<br>
+9.74% (2020 est.)<br>
+10.58% (2019 est.)<br>
 
 **Credit ratings**<br>
 _Fitch rating_: B- (2018)<br>
@@ -484,10 +484,10 @@ sugar cane, buffalo milk, wheat, milk, rice, maize, potatoes, cotton, fruit, man
 textiles and apparel, food processing, pharmaceuticals, surgical instruments, construction materials, paper products, fertilizer, shrimp<br>
 
 **Industrial production growth rate**<br>
-5.4% (2017 est.)<br>
+7.81% (2021 est.)<br>
 
 **Labor force**<br>
-61.71 million (2017 est.)<br>
+73.133 million (2021 est.)<br>
 <strong>note:</strong> extensive export of labor, mostly to the Middle East, and use of child labor<br>
 
 **Labor force - by occupation**<br>
@@ -496,21 +496,21 @@ _industry_: 22.6%<br>
 _services_: 35.1% (FY2015 est.)<br>
 
 **Unemployment rate**<br>
-6% (2017 est.)<br>
-6% (2016 est.)<br>
+4.35% (2021 est.)<br>
+4.3% (2020 est.)<br>
+3.54% (2019 est.)<br>
 <strong>note:</strong> Pakistan has substantial underemployment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 11.1%<br>
-_male_: 10%<br>
-_female_: 14.4% (2021 est.)<br>
+_total_: 9.4%<br>
+_male_: 9.7%<br>
+_female_: 8.2% (2021 est.)<br>
 
 **Population below poverty line**<br>
 24.3% (2015 est.)<br>
 
 **Gini Index coefficient - distribution of family income**<br>
 33.5 (2015 est.)<br>
-30.9 (FY2011)<br>
 
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 4%<br>
@@ -535,13 +535,14 @@ _expenditures_: 64.49 billion (2017 est.)<br>
 1 July - 30 June<br>
 
 **Current account balance**<br>
--$7.143 billion (2019 est.)<br>
--$19.482 billion (2018 est.)<br>
+-$12.262 billion (2021 est.)<br>
+-$650.874 million (2020 est.)<br>
+-$8.558 billion (2019 est.)<br>
 
 **Exports**<br>
-$27.3 billion (2020 est.) note: data are in current year dollars<br>
+$35.566 billion (2021 est.) note: data are in current year dollars<br>
+$27.333 billion (2020 est.) note: data are in current year dollars<br>
 $30.67 billion (2019 est.) note: data are in current year dollars<br>
-$30.77 billion (2018 est.) note: data are in current year dollars<br>
 
 **Exports - partners**<br>
 United States 14%, China 8%, Germany 7%, United Kingdom 6% (2019)<br>
@@ -550,9 +551,9 @@ United States 14%, China 8%, Germany 7%, United Kingdom 6% (2019)<br>
 textiles, clothing and apparel, rice, leather goods, surgical instruments (2019)<br>
 
 **Imports**<br>
-$51.07 billion (2020 est.) note: data are in current year dollars<br>
-$57.98 billion (2019 est.) note: data are in current year dollars<br>
-$68.42 billion (2018 est.) note: data are in current year dollars<br>
+$76.392 billion (2021 est.) note: data are in current year dollars<br>
+$52.098 billion (2020 est.) note: data are in current year dollars<br>
+$57.976 billion (2019 est.) note: data are in current year dollars<br>
 
 **Imports - partners**<br>
 China 28%, United Arab Emirates 11%, United States 5% (2019)<br>
@@ -561,8 +562,9 @@ China 28%, United Arab Emirates 11%, United States 5% (2019)<br>
 refined petroleum, crude petroleum, natural gas, palm oil, scrap iron (2019)<br>
 
 **Reserves of foreign exchange and gold**<br>
-$18.46 billion (31 December 2017 est.)<br>
-$22.05 billion (31 December 2016 est.)<br>
+$22.812 billion (31 December 2021 est.)<br>
+$18.522 billion (31 December 2020 est.)<br>
+$16.586 billion (31 December 2019 est.)<br>
 
 **Debt - external**<br>
 $107.527 billion (2019 est.)<br>
@@ -570,11 +572,11 @@ $95.671 billion (2018 est.)<br>
 
 **Exchange rates**<br>
 _Currency_: Pakistani rupees (PKR) per US dollar -<br>
-160.425 (2020 est.)<br>
-155.04 (2019 est.)<br>
-138.8 (2018 est.)<br>
-102.769 (2014 est.)<br>
-101.1 (2013 est.)<br>
+162.906 (2021 est.)<br>
+161.838 (2020 est.)<br>
+150.036 (2019 est.)<br>
+121.824 (2018 est.)<br>
+105.455 (2017 est.)<br>
 
 ## Energy
 

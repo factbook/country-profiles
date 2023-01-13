@@ -149,7 +149,7 @@ _female_: 71.62 years (2022 est.)<br>
 2.62 children born/woman (2022 est.)<br>
 
 **Gross reproduction rate**<br>
-1.28 (2022 est.)<br>
+1.27 (2023 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 NA<br>
@@ -199,11 +199,11 @@ _total_: 48.5% (2020 est.)<br>
 _male_: 47.8% (2020 est.)<br>
 _female_: 49.1% (2020 est.)<br>
 
-**Currently married women (ages 15-49)**<br>
-60% (2022 est.)<br>
-
 **Children under the age of 5 years underweight**<br>
 NA<br>
+
+**Currently married women (ages 15-49)**<br>
+59.6% (2023 est.)<br>
 
 **Education expenditures**<br>
 7.1% of GDP (2021) NA<br>
@@ -350,20 +350,20 @@ _lyrics/music_: Margaret HENDRIE/Laurence Henry HICKS<br>
 <p>Revenues of this tiny island - a coral atoll with a land area of 21 square kilometers - traditionally have come from exports of phosphates. Few other resources exist, with most necessities being imported, mainly from Australia, its former occupier and later major source of support. Primary reserves of phosphates were exhausted and mining ceased in 2006, but mining of a deeper layer of "secondary phosphate" in the interior of the island began the following year. The secondary phosphate deposits may last another 30 years. Earnings from Nauru’s export of phosphate remains an important source of income. Few comprehensive statistics on the Nauru economy exist; estimates of Nauru's GDP vary widely.</p> <p> </p> <p>The rehabilitation of mined land and the replacement of income from phosphates are serious long-term problems. In anticipation of the exhaustion of Nauru's phosphate deposits, substantial amounts of phosphate income were invested in trust funds to help cushion the transition and provide for Nauru's economic future.</p> <p> </p> <p>Although revenue sources for government are limited, the opening of the Australian Regional Processing Center for asylum seekers since 2012 has sparked growth in the economy. Revenue derived from fishing licenses under the "vessel day scheme" has also boosted government income. Housing, hospitals, and other capital plant are deteriorating. The cost to Australia of keeping the Nauruan government and economy afloat continues to climb.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
-$150 million (2019 est.)<br>
-$150 million (2018 est.)<br>
-$137 million (2017 est.)<br>
+$149.474 million (2021 est.)<br>
+$147.265 million (2020 est.)<br>
+$145.591 million (2019 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
-4% (2017 est.)<br>
-10.4% (2016 est.)<br>
-2.8% (2015 est.)<br>
+1.5% (2021 est.)<br>
+1.15% (2020 est.)<br>
+0% (2019 est.)<br>
 
 **Real GDP per capita**<br>
-$13,500 (2019 est.) note: data are in 2017 dollars<br>
-$13,600 (2018 est.) note: data are in 2017 dollars<br>
-$10,667 (2017 est.)<br>
+$11,900 (2021 est.) note: data are in 2017 dollars<br>
+$12,000 (2020 est.) note: data are in 2017 dollars<br>
+$12,000 (2019 est.)<br>
 
 **GDP (official exchange rate)**<br>
 $114 million (2017 est.)<br>
@@ -427,18 +427,19 @@ _expenditures_: 113.4 million (2017 est.)<br>
 65% of GDP (2016 est.)<br>
 
 **Taxes and other revenues**<br>
-90.3% (of GDP) (2017 est.)<br>
+48.24% (of GDP) (2020 est.)<br>
 
 **Fiscal year**<br>
 1 July - 30 June<br>
 
 **Current account balance**<br>
-$5 million (2017 est.)<br>
-$2 million (2016 est.)<br>
+$8.406 million (2018 est.)<br>
+$14.11 million (2017 est.)<br>
+$2.079 million (2016 est.)<br>
 
 **Exports**<br>
-$30 million (2018 est.) note: data are in current year dollars<br>
-$110.3 million (2012 est.)<br>
+$31.101 million (2018 est.) note: data are in current year dollars<br>
+$39.883 million (2017 est.)<br>
 
 **Exports - partners**<br>
 Thailand 34%, Australia 16%, United States 13%, South Korea 10%, Philippines 9%, Japan 7%, France 5% (2019)<br>
@@ -447,8 +448,8 @@ Thailand 34%, Australia 16%, United States 13%, South Korea 10%, Philippines 9%,
 fish, calcium phosphates, low-voltage protection equipment, air conditioners, leather apparel (2019)<br>
 
 **Imports**<br>
-$90 million (2018 est.) note: data are in current year dollars<br>
-$64.9 million (2016 est.)<br>
+$94.796 million (2018 est.) note: data are in current year dollars<br>
+$91.571 million (2017 est.)<br>
 
 **Imports - partners**<br>
 Taiwan 52%, Australia 28% (2019)<br>
@@ -461,11 +462,11 @@ $33.3 million (2004 est.)<br>
 
 **Exchange rates**<br>
 _Currency_: Australian dollars (AUD) per US dollar -<br>
-1.311 (2017 est.)<br>
-1.3452 (2016 est.)<br>
-1.3452 (2015 est.)<br>
-1.3291 (2014 est.)<br>
-1.1094 (2013 est.)<br>
+1.331 (2021 est.)<br>
+1.453 (2020 est.)<br>
+1.439 (2019 est.)<br>
+1.338 (2018 est.)<br>
+1.305 (2017 est.)<br>
 
 ## Energy
 

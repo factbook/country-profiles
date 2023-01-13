@@ -161,7 +161,7 @@ _female_: 69.54 years (2022 est.)<br>
 2.78 children born/woman (2022 est.)<br>
 
 **Gross reproduction rate**<br>
-1.37 (2022 est.)<br>
+1.33 (2023 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 19.4% (2012)<br>
@@ -206,11 +206,11 @@ _total_: 20.3% (2020 est.)<br>
 _male_: 29.5% (2020 est.)<br>
 _female_: 11.1% (2020 est.)<br>
 
-**Currently married women (ages 15-49)**<br>
-61% (2022 est.)<br>
-
 **Children under the age of 5 years underweight**<br>
 16.9% (2012)<br>
+
+**Currently married women (ages 15-49)**<br>
+61.2% (2023 est.)<br>
 
 **Education expenditures**<br>
 2.6% of GDP (2015 est.)<br>
@@ -227,9 +227,9 @@ _male_: 11 years<br>
 _female_: 11 years (2014)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 19.5%<br>
-_male_: 20%<br>
-_female_: 18.8% (2014)<br>
+_total_: 21.7%<br>
+_male_: 21.8%<br>
+_female_: 21.5% (2021 est.)<br>
 
 ## Environment
 
@@ -377,20 +377,20 @@ _lyrics/music_: Said Hachim SIDI ABDEREMANE/Said Hachim SIDI ABDEREMANE and Kami
 <p>One of the world's poorest and smallest economies, the Comoros is made up of three islands that are hampered by inadequate transportation links, a young and rapidly increasing population, and few natural resources. The low educational level of the labor force contributes to a subsistence level of economic activity and a heavy dependence on foreign grants and technical assistance. Agriculture, including fishing, hunting, and forestry, accounts for about 50% of GDP, employs a majority of the labor force, and provides most of the exports. Export income is heavily reliant on the three main crops of vanilla, cloves, and ylang ylang (perfume essence); and the Comoros' export earnings are easily disrupted by disasters such as fires and extreme weather. Despite agriculture’s importance to the economy, the country imports roughly 70% of its food; rice, the main staple, and other dried vegetables account for more than 25% of imports. Remittances from about 300,000 Comorans contribute about 25% of the country’s GDP. France, Comoros’s colonial power, remains a key trading partner and bilateral donor.</p> <p> </p> <p>Comoros faces an education system in need of upgrades, limited opportunities for private commercial and industrial enterprises, poor health services, limited exports, and a high population growth rate. Recurring political instability, sometimes initiated from outside the country, and an ongoing electricity crisis have inhibited growth. The government, elected in mid-2016, has moved to improve revenue mobilization, reduce expenditures, and improve electricity access, although the public sector wage bill remains one of the highest in Sub-Saharan Africa. In mid-2017, Comoros joined the Southern African Development Community with 15 other regional member states.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
-$2.73 billion (2020 est.)<br>
-$2.6 billion (2019 est.)<br>
-$2.55 billion (2018 est.)<br>
+$2.653 billion (2021 est.)<br>
+$2.598 billion (2020 est.)<br>
+$2.603 billion (2019 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
-2.7% (2017 est.)<br>
-2.2% (2016 est.)<br>
-1% (2015 est.)<br>
+2.11% (2021 est.)<br>
+-0.2% (2020 est.)<br>
+1.76% (2019 est.)<br>
 
 **Real GDP per capita**<br>
-$3,100 (2020 est.)<br>
-$3,100 (2019 est.)<br>
-$3,100 (2018 est.)<br>
+$3,200 (2021 est.)<br>
+$3,200 (2020 est.)<br>
+$3,300 (2019 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
@@ -420,10 +420,10 @@ coconuts, cassava, rice, bananas, pulses nes, milk, taro, sweet potatoes, maize,
 fishing, tourism, perfume distillation<br>
 
 **Industrial production growth rate**<br>
-1% (2017 est.)<br>
+-0.25% (2021 est.)<br>
 
 **Labor force**<br>
-278,500 (2016 est.)<br>
+219,900 (2021 est.)<br>
 
 **Labor force - by occupation**<br>
 _agriculture_: 80%<br>
@@ -431,12 +431,14 @@ _industry_: 20% (1996 est.)<br>
 _industry and services_: 20% (1996 est.)<br>
 
 **Unemployment rate**<br>
-6.5% (2014 est.)<br>
+9.45% (2021 est.)<br>
+9.22% (2020 est.)<br>
+8.08% (2019 est.)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 19.5%<br>
-_male_: 20%<br>
-_female_: 18.8% (2014)<br>
+_total_: 21.7%<br>
+_male_: 21.8%<br>
+_female_: 21.5% (2021 est.)<br>
 
 **Population below poverty line**<br>
 42.4% (2013 est.)<br>
@@ -466,12 +468,14 @@ _expenditures_: 207.3 million (2017 est.)<br>
 calendar year<br>
 
 **Current account balance**<br>
--$27 million (2017 est.)<br>
--$45 million (2016 est.)<br>
+$6.145 million (2021 est.)<br>
+-$22.048 million (2020 est.)<br>
+-$39.814 million (2019 est.)<br>
 
 **Exports**<br>
-$140 million (2019 est.)<br>
-$150 million (2018 est.)<br>
+$139.575 million (2021 est.)<br>
+$68.937 million (2020 est.)<br>
+$142.21 million (2019 est.)<br>
 <strong>note:</strong> Data are in current year dollars and do not include illicit exports or re-exports.<br>
 
 **Exports - partners**<br>
@@ -481,8 +485,9 @@ France 32%, India 23%, Germany 10%, Turkey 9%, Madagascar 7% (2019)<br>
 cloves, essential oils, vacuum flask, vanilla, scrap vessels (2019)<br>
 
 **Imports**<br>
-$350 million (2019 est.) note: data are in current year dollars<br>
-$360 million (2018 est.) note: data are in current year dollars<br>
+$407 million (2021 est.) note: data are in current year dollars<br>
+$344 million (2020 est.) note: data are in current year dollars<br>
+$353 million (2019 est.)<br>
 
 **Imports - partners**<br>
 China 22%, United Arab Emirates 16%, France 11%, Pakistan 9%, India 6% (2019)<br>
@@ -491,8 +496,9 @@ China 22%, United Arab Emirates 16%, France 11%, Pakistan 9%, India 6% (2019)<br
 rice, chicken products, refined petroleum, cement, cars (2019)<br>
 
 **Reserves of foreign exchange and gold**<br>
-$208 million (31 December 2017 est.)<br>
-$159.5 million (31 December 2016 est.)<br>
+$329,671,800 (31 December 2021 est.)<br>
+$294,339,900 (31 December 2020 est.)<br>
+$202,031,700 (31 December 2019 est.)<br>
 
 **Debt - external**<br>
 $199.8 million (31 December 2017 est.)<br>
@@ -500,11 +506,11 @@ $132 million (31 December 2016 est.)<br>
 
 **Exchange rates**<br>
 _Currency_: Comoran francs (KMF) per US dollar -<br>
-458.2 (2017 est.)<br>
-444.76 (2016 est.)<br>
-444.76 (2015 est.)<br>
-443.6 (2014 est.)<br>
-370.81 (2013 est.)<br>
+415.956 (2021 est.)<br>
+430.721 (2020 est.)<br>
+439.463 (2019 est.)<br>
+416.585 (2018 est.)<br>
+435.493 (2017 est.)<br>
 
 ## Energy
 

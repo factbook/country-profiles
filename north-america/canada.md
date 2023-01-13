@@ -176,7 +176,7 @@ _female_: 86.21 years (2022 est.)<br>
 1.57 children born/woman (2022 est.)<br>
 
 **Gross reproduction rate**<br>
-0.76 (2022 est.)<br>
+0.77 (2023 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 NA<br>
@@ -224,11 +224,11 @@ _total_: 13% (2020 est.)<br>
 _male_: 15.3% (2020 est.)<br>
 _female_: 10.7% (2020 est.)<br>
 
-**Currently married women (ages 15-49)**<br>
-52.2% (2022 est.)<br>
-
 **Children under the age of 5 years underweight**<br>
 NA<br>
+
+**Currently married women (ages 15-49)**<br>
+52.2% (2023 est.)<br>
 
 **Education expenditures**<br>
 5.2% of GDP (2020 est.)<br>
@@ -244,9 +244,9 @@ _male_: 16 years<br>
 _female_: 17 years (2020)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 13.5%<br>
-_male_: 14.5%<br>
-_female_: 12.4% (2021 est.)<br>
+_total_: 14%<br>
+_male_: 15%<br>
+_female_: 13.1% (2021 est.)<br>
 
 ## Environment
 
@@ -417,29 +417,29 @@ _selected World Heritage Site locales_: L'Anse aux Meadows (c); Canadian Rocky M
 <p>Canada resembles the US in its market-oriented economic system, pattern of production, and high living standards. Since World War II, the impressive growth of the manufacturing, mining, and service sectors has transformed the nation from a largely rural economy into one primarily industrial and urban. Canada has a large oil and natural gas sector with the majority of crude oil production derived from oil sands in the western provinces, especially Alberta. Canada now ranks third in the world in proved oil reserves behind Venezuela and Saudi Arabia and is the world’s seventh-largest oil producer.</p> <p> </p> <p>The 1989 Canada-US Free Trade Agreement and the 1994 North American Free Trade Agreement (which includes Mexico) dramatically increased trade and economic integration between the US and Canada. Canada and the US enjoy the world’s most comprehensive bilateral trade and investment relationship, with goods and services trade totaling more than $680 billion in 2017, and two-way investment stocks of more than $800 billion. Over three-fourths of Canada’s merchandise exports are destined for the US each year. Canada is the largest foreign supplier of energy to the US, including oil, natural gas, and electric power, and a top source of US uranium imports.</p> <p> </p> <p>Given its abundant natural resources, highly skilled labor force, and modern capital stock, Canada enjoyed solid economic growth from 1993 through 2007. The global economic crisis of 2007-08 moved the Canadian economy into sharp recession by late 2008, and Ottawa posted its first fiscal deficit in 2009 after 12 years of surplus. Canada's major banks emerged from the financial crisis of 2008-09 among the strongest in the world, owing to the financial sector's tradition of conservative lending practices and strong capitalization. Canada’s economy posted strong growth in 2017 at 3%, but most analysts are projecting Canada’s economic growth will drop back closer to 2% in 2018.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
-$1,742,790,000,000 (2020 est.)<br>
-$1,842,330,000,000 (2019 est.)<br>
-$1,808,660,000,000 (2018 est.)<br>
+$1.832 trillion (2021 est.)<br>
+$1.752 trillion (2020 est.)<br>
+$1.849 trillion (2019 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
-1.66% (2019 est.)<br>
-2.02% (2018 est.)<br>
-3.17% (2017 est.)<br>
+4.54% (2021 est.)<br>
+-5.23% (2020 est.)<br>
+1.88% (2019 est.)<br>
 
 **Real GDP per capita**<br>
-$45,900 (2020 est.)<br>
-$49,000 (2019 est.)<br>
-$48,800 (2018 est.)<br>
+$47,900 (2021 est.)<br>
+$46,100 (2020 est.)<br>
+$49,200 (2019 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
 $1,741,865,000,000 (2019 est.)<br>
 
 **Inflation rate (consumer prices)**<br>
-1.9% (2019 est.)<br>
-2.2% (2018 est.)<br>
-1.5% (2017 est.)<br>
+3.4% (2021 est.)<br>
+0.72% (2020 est.)<br>
+1.95% (2019 est.)<br>
 
 **Credit ratings**<br>
 _Fitch rating_: AA+ (2020)<br>
@@ -467,10 +467,10 @@ wheat, rapeseed, maize, barley, milk, soybeans, potatoes, oats, peas, pork<br>
 transportation equipment, chemicals, processed and unprocessed minerals, food products, wood and paper products, fish products, petroleum, natural gas<br>
 
 **Industrial production growth rate**<br>
-4.9% (2017 est.)<br>
+4.74% (2021 est.)<br>
 
 **Labor force**<br>
-18.136 million (2020 est.)<br>
+21.017 million (2021 est.)<br>
 
 **Labor force - by occupation**<br>
 _agriculture_: 2%<br>
@@ -480,13 +480,14 @@ _industry and services_: 76%<br>
 _manufacturing_: 3% (2006 est.)<br>
 
 **Unemployment rate**<br>
-5.67% (2019 est.)<br>
-5.83% (2018 est.)<br>
+7.51% (2021 est.)<br>
+9.46% (2020 est.)<br>
+5.66% (2019 est.)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 13.5%<br>
-_male_: 14.5%<br>
-_female_: 12.4% (2021 est.)<br>
+_total_: 14%<br>
+_male_: 15%<br>
+_female_: 13.1% (2021 est.)<br>
 
 **Population below poverty line**<br>
 9.4% (2008 est.)<br>
@@ -494,7 +495,6 @@ _female_: 12.4% (2021 est.)<br>
 
 **Gini Index coefficient - distribution of family income**<br>
 33.3 (2017 est.)<br>
-31.5 (1994)<br>
 
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 2.6%<br>
@@ -508,24 +508,26 @@ _expenditures_: 665.7 billion (2017 est.)<br>
 -1% (of GDP) (2017 est.)<br>
 
 **Public debt**<br>
-89.7% of GDP (2017 est.)<br>
-91.1% of GDP (2016 est.)<br>
+72.09% of GDP (2020 est.)<br>
+48.01% of GDP (2019 est.)<br>
+48.18% of GDP (2018 est.)<br>
 <strong>note:</strong> figures are for gross general government debt, as opposed to net federal debt; gross general government debt includes both intragovernmental debt and the debt of public entities at the sub-national level<br>
 
 **Taxes and other revenues**<br>
-39.3% (of GDP) (2017 est.)<br>
+13.3% (of GDP) (2020 est.)<br>
 
 **Fiscal year**<br>
 1 April - 31 March<br>
 
 **Current account balance**<br>
--$35.425 billion (2019 est.)<br>
--$42.862 billion (2018 est.)<br>
+$826.662 million (2021 est.)<br>
+-$29.216 billion (2020 est.)<br>
+-$35.434 billion (2019 est.)<br>
 
 **Exports**<br>
-$477.31 billion (2020 est.)<br>
-$555.83 billion (2019 est.)<br>
-$556.89 billion (2018 est.)<br>
+$611.146 billion (2021 est.)<br>
+$484.226 billion (2020 est.)<br>
+$561.63 billion (2019 est.)<br>
 <strong>note:</strong> Data are in current year dollars and do not include illicit exports or re-exports.<br>
 
 **Exports - partners**<br>
@@ -535,9 +537,9 @@ US 73% (2019)<br>
 crude petroleum, cars and vehicle parts, gold, refined petroleum, natural gas (2019)<br>
 
 **Imports**<br>
-$510.29 billion (2020 est.) note: data are in current year dollars<br>
-$583.6 billion (2019 est.) note: data are in current year dollars<br>
-$589.55 billion (2018 est.) note: data are in current year dollars<br>
+$609.256 billion (2021 est.) note: data are in current year dollars<br>
+$517.964 billion (2020 est.) note: data are in current year dollars<br>
+$589.037 billion (2019 est.) note: data are in current year dollars<br>
 
 **Imports - partners**<br>
 US 57%, China 11%, Mexico 5% (2019)<br>
@@ -546,8 +548,9 @@ US 57%, China 11%, Mexico 5% (2019)<br>
 cars and vehicle parts, delivery trucks, crude petroleum, refined petroleum (2019)<br>
 
 **Reserves of foreign exchange and gold**<br>
-$86.68 billion (31 December 2017 est.)<br>
-$82.72 billion (31 December 2016 est.)<br>
+$106.615 billion (31 December 2021 est.)<br>
+$90.428 billion (31 December 2020 est.)<br>
+$85.297 billion (31 December 2019 est.)<br>
 
 **Debt - external**<br>
 $2,124,887,000,000 (2019 est.)<br>
@@ -555,11 +558,11 @@ $1,949,796,000,000 (2018 est.)<br>
 
 **Exchange rates**<br>
 _Currency_: Canadian dollars (CAD) per US dollar -<br>
-1.28035 (2020 est.)<br>
-1.3228 (2019 est.)<br>
-1.32925 (2018 est.)<br>
-1.2788 (2014 est.)<br>
-1.0298 (2013 est.)<br>
+1.254 (2021 est.)<br>
+1.341 (2020 est.)<br>
+1.327 (2019 est.)<br>
+1.296 (2018 est.)<br>
+1.298 (2017 est.)<br>
 
 ## Energy
 
@@ -757,7 +760,7 @@ Islamic State of Iraq and ash-Sham (ISIS); Hizballah<br>
 <p>managed maritime boundary disputes with the US at Dixon Entrance, Beaufort Sea, Strait of Juan de Fuca, and the Gulf of Maine, including the disputed Machias Seal Island and North Rock; Canada and the United States dispute how to divide the Beaufort Sea and the status of the Northwest Passage but continue to work cooperatively to survey the Arctic continental shelf; US works closely with Canada to intensify security measures for monitoring and controlling legal and illegal movement of people, transport, and commodities across the international border; sovereignty dispute with Denmark over Hans Island in the Kennedy Channel between Ellesmere Island and Greenland; commencing the collection of technical evidence for submission to the Commission on the Limits of the Continental Shelf in support of claims for continental shelf beyond 200 nm from its declared baselines in the Arctic, as stipulated in Article 76, paragraph 8, of the UN Convention on the Law of the Sea</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 22,400 (Venezuela) (refugees and migrants) (2020); 9,883 (Nigeria), 7,571 (Turkey), 7,385 (Iran), 6,965 (Pakistan), 6,287 (China), 5,244 (Colombia) (mid-year 2021)<br>
+_refugees (country of origin)_: 22,400 (Venezuela) (refugees and migrants) (2020); 5,254 (Iran) (mid-year 2021)<br>
 _stateless persons_: 3,823 (mid-year 2021)<br>
 
 **Illicit drugs**<br>

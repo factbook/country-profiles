@@ -94,7 +94,7 @@ Polish 96.9%, Silesian 1.1%, German 0.2%, Ukrainian 0.1%, other and unspecified 
 <strong>note:</strong> represents ethnicity declared first<br>
 
 **Languages**<br>
-Polish (official) 98.2%, Silesian 1.4%, other 1.1%, unspecified 1.3%; note - data represent the language spoken at home; shares sum to more than 100% because some respondents gave more than one answer on the census; Poland ratified the European Charter for Regional or Minority Languages in 2009 recognizing Kashub as a regional language, Czech, Hebrew, Yiddish, Belarusian, Lithuanian, German, Armenian, Russian, Slovak, and Ukrainian as national minority languages, and Karaim, Lemko, Romani (Polska Roma and Bergitka Roma), and Tatar as ethnic minority languages (2011 est.)<br>
+Polish (official) 98.2%, Silesian 1.4%, other 1.1%, unspecified 1.2%; note - data represent the language spoken at home; shares sum to more than 100% because some respondents gave more than one answer on the census; Poland ratified the European Charter for Regional or Minority Languages in 2009 recognizing Kashub as a regional language, Czech, Hebrew, Yiddish, Belarusian, Lithuanian, German, Armenian, Russian, Slovak, and Ukrainian as national minority languages, and Karaim, Lemko, Romani (Polska Roma and Bergitka Roma), and Tatar as ethnic minority languages (2011 est.)<br>
 _major-language sample(s)_: <br>Księga Faktów Świata, niezbędne źródło podstawowych informacji. (Polish)<br><br>The World Factbook, the indispensable source for basic information.<br>
 
 **Religions**<br>
@@ -169,7 +169,7 @@ _female_: 82.73 years (2022 est.)<br>
 1.4 children born/woman (2022 est.)<br>
 
 **Gross reproduction rate**<br>
-0.68 (2022 est.)<br>
+0.69 (2023 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 62.3% (2014)<br>
@@ -221,11 +221,11 @@ _total_: 24% (2020 est.)<br>
 _male_: 27.9% (2020 est.)<br>
 _female_: 20.1% (2020 est.)<br>
 
-**Currently married women (ages 15-49)**<br>
-58.7% (2022 est.)<br>
-
 **Children under the age of 5 years underweight**<br>
 0.7% (2010/12)<br>
+
+**Currently married women (ages 15-49)**<br>
+56.6% (2023 est.)<br>
 
 **Education expenditures**<br>
 5.2% of GDP (2020 est.)<br>
@@ -242,9 +242,9 @@ _male_: 15 years<br>
 _female_: 17 years (2020)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 11.9%<br>
-_male_: 11.6%<br>
-_female_: 12.5% (2021 est.)<br>
+_total_: 13.4%<br>
+_male_: 12.3%<br>
+_female_: 15% (2021 est.)<br>
 
 ## Environment
 
@@ -418,29 +418,29 @@ _selected World Heritage Site locales_: Historic Krakow (c); Historic Warsaw (c)
 <p>Poland has the sixth-largest economy in the EU and has long had a reputation as a business-friendly country with largely sound macroeconomic policies. Since 1990, Poland has pursued a policy of economic liberalization. During the 2008-09 economic slowdown Poland was the only EU country to avoid a recession, in part because of the government’s loose fiscal policy combined with a commitment to rein in spending in the medium-term Poland is the largest recipient of EU development funds and their cyclical allocation can significantly impact the rate of economic growth.</p> <p> </p> <p>The Polish economy performed well during the 2014-17 period, with the real GDP growth rate generally exceeding 3%, in part because of increases in government social spending that have helped to accelerate consumer-driven growth. However, since 2015, Poland has implemented new business restrictions and taxes on foreign-dominated economic sectors, including banking and insurance, energy, and healthcare, that have dampened investor sentiment and has increased the government’s ownership of some firms. The government reduced the retirement age in 2016 and has had mixed success in introducing new taxes and boosting tax compliance to offset the increased costs of social spending programs and relieve upward pressure on the budget deficit. Some credit ratings agencies estimate that Poland during the next few years is at risk of exceeding the EU’s 3%-of-GDP limit on budget deficits, possibly impacting its access to future EU funds. Poland’s economy is projected to perform well in the next few years in part because of an anticipated cyclical increase in the use of its EU development funds and continued, robust household spending.</p> <p> </p> <p>Poland faces several systemic challenges, which include addressing some of the remaining deficiencies in its road and rail infrastructure, business environment, rigid labor code, commercial court system, government red tape, and burdensome tax system, especially for entrepreneurs. Additional long-term challenges include diversifying Poland’s energy mix, strengthening investments in innovation, research, and development, as well as stemming the outflow of educated young Poles to other EU member states, especially in light of a coming demographic contraction due to emigration, persistently low fertility rates, and the aging of the Solidarity-era baby boom generation.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
-$1,223,460,000,000 (2020 est.)<br>
-$1,257,440,000,000 (2019 est.)<br>
-$1,202,820,000,000 (2018 est.)<br>
+$1.318 trillion (2021 est.)<br>
+$1.233 trillion (2020 est.)<br>
+$1.259 trillion (2019 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
-4.55% (2019 est.)<br>
-5.36% (2018 est.)<br>
-4.83% (2017 est.)<br>
+6.85% (2021 est.)<br>
+-2.02% (2020 est.)<br>
+4.45% (2019 est.)<br>
 
 **Real GDP per capita**<br>
-$32,200 (2020 est.)<br>
-$33,100 (2019 est.)<br>
-$31,700 (2018 est.)<br>
+$34,900 (2021 est.)<br>
+$32,500 (2020 est.)<br>
+$33,200 (2019 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
 $595.72 billion (2019 est.)<br>
 
 **Inflation rate (consumer prices)**<br>
-2.1% (2019 est.)<br>
-1.7% (2018 est.)<br>
-2% (2017 est.)<br>
+5.06% (2021 est.)<br>
+3.37% (2020 est.)<br>
+2.23% (2019 est.)<br>
 
 **Credit ratings**<br>
 _Fitch rating_: A- (2007)<br>
@@ -462,16 +462,16 @@ _exports of goods and services_: 54% (2017 est.)<br>
 _imports of goods and services_: -49.9% (2017 est.)<br>
 
 **Agricultural products**<br>
-milk, sugar beet, wheat, potatoes, triticale, maize, barley, apples, mixed grains, rye<br>
+milk, sugar beets, wheat, potatoes, triticale, maize, barley, apples, mixed grains, rye<br>
 
 **Industries**<br>
 machine building, iron and steel, coal mining, chemicals, shipbuilding, food processing, glass, beverages, textiles<br>
 
 **Industrial production growth rate**<br>
-7.5% (2017 est.)<br>
+3.36% (2021 est.)<br>
 
 **Labor force**<br>
-9.561 million (2020 est.)<br>
+18.212 million (2021 est.)<br>
 
 **Labor force - by occupation**<br>
 _agriculture_: 11.5%<br>
@@ -479,20 +479,20 @@ _industry_: 30.4%<br>
 _services_: 57.6% (2015)<br>
 
 **Unemployment rate**<br>
-5.43% (2019 est.)<br>
-6.08% (2018 est.)<br>
+3.37% (2021 est.)<br>
+3.16% (2020 est.)<br>
+3.28% (2019 est.)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 11.9%<br>
-_male_: 11.6%<br>
-_female_: 12.5% (2021 est.)<br>
+_total_: 13.4%<br>
+_male_: 12.3%<br>
+_female_: 15% (2021 est.)<br>
 
 **Population below poverty line**<br>
 15.4% (2018 est.)<br>
 
 **Gini Index coefficient - distribution of family income**<br>
 29.7 (2017 est.)<br>
-33.7 (2008)<br>
 
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 3%<br>
@@ -511,19 +511,20 @@ _expenditures_: 216.2 billion (2017 est.)<br>
 <strong>note:</strong> data cover general government debt and include debt instruments issued (or owned) by government entities other than the treasury; the data include treasury debt held by foreign entities, the data include subnational entities, as well as intragovernmental debt; intragovernmental debt consists of treasury borrowings from surpluses in the social funds, such as for retirement, medical care, and unemployment; debt instruments for the social funds are not sold at public auctions<br>
 
 **Taxes and other revenues**<br>
-39.5% (of GDP) (2017 est.)<br>
+17.48% (of GDP) (2020 est.)<br>
 
 **Fiscal year**<br>
 calendar year<br>
 
 **Current account balance**<br>
-$2.92 billion (2019 est.)<br>
--$7.52 billion (2018 est.)<br>
+-$4.568 billion (2021 est.)<br>
+$17.319 billion (2020 est.)<br>
+$2.832 billion (2019 est.)<br>
 
 **Exports**<br>
-$333.54 billion (2020 est.) note: data are in current year dollars<br>
-$330.68 billion (2019 est.) note: data are in current year dollars<br>
-$324.22 billion (2018 est.) note: data are in current year dollars<br>
+$411.621 billion (2021 est.) note: data are in current year dollars<br>
+$336.317 billion (2020 est.) note: data are in current year dollars<br>
+$330.934 billion (2019 est.) note: data are in current year dollars<br>
 
 **Exports - partners**<br>
 Germany 27%, Czechia 6%, United Kingdom 6%, France 6%, Italy 5% (2019)<br>
@@ -532,9 +533,9 @@ Germany 27%, Czechia 6%, United Kingdom 6%, France 6%, Italy 5% (2019)<br>
 cars and vehicle parts, seats, furniture, computers, video displays (2019)<br>
 
 **Imports**<br>
-$292.44 billion (2020 est.) note: data are in current year dollars<br>
-$302.87 billion (2019 est.) note: data are in current year dollars<br>
-$306.43 billion (2018 est.) note: data are in current year dollars<br>
+$380.699 billion (2021 est.) note: data are in current year dollars<br>
+$295.897 billion (2020 est.) note: data are in current year dollars<br>
+$302.525 billion (2019 est.) note: data are in current year dollars<br>
 
 **Imports - partners**<br>
 Germany 25%, China 10%, Italy 5%, Netherlands 5% (2019)<br>
@@ -543,8 +544,9 @@ Germany 25%, China 10%, Italy 5%, Netherlands 5% (2019)<br>
 cars and vehicle parts, crude petroleum,&nbsp; packaged medicines, broadcasting equipment, office machinery/parts (2019)<br>
 
 **Reserves of foreign exchange and gold**<br>
-$113.3 billion (31 December 2017 est.)<br>
-$114.4 billion (31 December 2016 est.)<br>
+$166.03 billion (31 December 2021 est.)<br>
+$154.219 billion (31 December 2020 est.)<br>
+$128.392 billion (31 December 2019 est.)<br>
 
 **Debt - external**<br>
 $351.77 billion (2019 est.)<br>
@@ -552,11 +554,11 @@ $373.721 billion (2018 est.)<br>
 
 **Exchange rates**<br>
 _Currency_: zlotych (PLN) per US dollar -<br>
-3.6684 (2020 est.)<br>
-3.8697 (2019 est.)<br>
-3.76615 (2018 est.)<br>
-3.7721 (2014 est.)<br>
-3.1538 (2013 est.)<br>
+3.862 (2021 est.)<br>
+3.9 (2020 est.)<br>
+3.839 (2019 est.)<br>
+3.612 (2018 est.)<br>
+3.779 (2017 est.)<br>
 
 ## Energy
 
@@ -622,16 +624,16 @@ _Total energy consumption per capita 2019_: 112.831 million Btu/person (2019 est
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 5,777,428 (2020 est.)<br>
-_subscriptions per 100 inhabitants_: 15 (2020 est.)<br>
+_total subscriptions_: 5,308,497 (2021 est.)<br>
+_subscriptions per 100 inhabitants_: 14 (2021 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 49,350,724 (2020 est.)<br>
-_subscriptions per 100 inhabitants_: 130 (2020 est.)<br>
+_total subscriptions_: 50,588,785 (2021 est.)<br>
+_subscriptions per 100 inhabitants_: 132 (2021 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: the liberalized telecom market has seen considerable development in the broadband and mobile sectors; the regulatory environment has encouraged market competition, partly by encouraging operators to secure spectrum and also by ensuring access to cable and fiber infrastructure; the mobile market in recent years has been characterized by the rapid extension of LTE networks and the development of mobile data services based on newly released and re-farmed spectrum; the regulator&rsquo;s attempts to auction spectrum in a range of bands has been delayed, with spectrum in the 5G-suitable 3.4-3.8GHz range having been suspended to later in 2021 as a result of the Covid-19 outbreak and legislative changes (2021)<br>
-_domestic_: several nation-wide networks provide mobile-cellular service; fixed-line roughly 15 per 100 (service lags in rural areas), mobile-cellular over 130 per 100 persons (2020)<br>
+_domestic_: several nation-wide networks provide mobile-cellular service; fixed-line roughly 14 per 100 (service lags in rural areas), mobile-cellular over 132 per 100 persons (2021)<br>
 _international_: country code - 48; landing points for the Baltica and the Denmark-Poland2 submarine cables connecting Poland, Denmark and Sweden; international direct dialing with automated exchanges; satellite earth station - 1 with access to Intelsat, Eutelsat, Inmarsat, and Intersputnik (2019)<br>
 <strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress toward 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>
 
@@ -749,7 +751,7 @@ Islamic State of Iraq and ash-Sham (ISIS)<br>
 <p><em>Poland-Belarus-Ukraine</em>: as a member state that forms part of the EU's external border, Poland has implemented the strict Schengen border rules to restrict illegal immigration and trade along its eastern borders with Belarus and Ukraine</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 9,870 (Russia) (2019); 1,553,707 (Ukraine) (as of 3 January 2022)<br>
+_refugees (country of origin)_: 1,553,707 (Ukraine) (as of 3 January 2022)<br>
 _stateless persons_: 1,389 (mid-year 2021)<br>
 
 **Illicit drugs**<br>

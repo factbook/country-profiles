@@ -162,7 +162,7 @@ _female_: 86.24 years (2022 est.)<br>
 1.1 children born/woman (2022 est.)<br>
 
 **Gross reproduction rate**<br>
-0.54 (2022 est.)<br>
+0.54 (2023 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 82.3% (2018)<br>
@@ -215,11 +215,11 @@ _total_: 20.8% (2020 est.)<br>
 _male_: 35.7% (2020 est.)<br>
 _female_: 5.9% (2020 est.)<br>
 
-**Currently married women (ages 15-49)**<br>
-52.9% (2022 est.)<br>
-
 **Children under the age of 5 years underweight**<br>
 NA<br>
+
+**Currently married women (ages 15-49)**<br>
+52.9% (2023 est.)<br>
 
 **Education expenditures**<br>
 4.7% of GDP (2019 est.)<br>
@@ -235,9 +235,9 @@ _male_: 17 years<br>
 _female_: 16 years (2020)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 8.1%<br>
-_male_: 9.1%<br>
-_female_: 7.4% (2021 est.)<br>
+_total_: 7.8%<br>
+_male_: 8.8%<br>
+_female_: 6.9% (2021 est.)<br>
 
 ## Environment
 
@@ -400,29 +400,29 @@ _selected World Heritage Site locales_: Jeju Volcanic Island and Lava Tubes (n);
 <p>After emerging from the 1950-53 war with North Korea, South Korea emerged as one of the 20th century’s most remarkable economic success stories, becoming a developed, globally connected, high-technology society within decades. In the 1960s, GDP per capita was comparable with levels in the poorest countries in the world. In 2004, South Korea's GDP surpassed one trillion dollars.</p> <p> </p> <p>Beginning in the 1960s under President PARK Chung-hee, the government promoted the import of raw materials and technology, encouraged saving and investment over consumption, kept wages low, and directed resources to export-oriented industries that remain important to the economy to this day. Growth surged under these policies, and frequently reached double-digits in the 1960s and 1970s. Growth gradually moderated in the 1990s as the economy matured, but remained strong enough to propel South Korea into the ranks of the advanced economies of the OECD by 1997. These policies also led to the emergence of family-owned chaebol conglomerates such as Daewoo, Hyundai, and Samsung, which retained their dominant positions even as the government loosened its grip on the economy amid the political changes of the 1980s and 1990s.</p> <p> </p> <p>The Asian financial crisis of 1997-98 hit South Korea’s companies hard because of their excessive reliance on short-term borrowing, and GDP ultimately plunged by 7% in 1998. South Korea tackled difficult economic reforms following the crisis, including restructuring some chaebols, increasing labor market flexibility, and opening up to more foreign investment and imports. These steps lead to a relatively rapid economic recovery. South Korea also began expanding its network of free trade agreements to help bolster exports, and has since implemented 16 free trade agreements covering 58 countries—including the United State and China—that collectively cover more than three-quarters of global GDP.</p> <p> </p> <p>In 2017, the election of President MOON Jae-in brought a surge in consumer confidence, in part, because of his successful efforts to increase wages and government spending. These factors combined with an uptick in export growth to drive real GDP growth to more than 3%, despite disruptions in South Korea’s trade with China over the deployment of a US missile defense system in South Korea.</p> <p> </p> <p>In 2018 and beyond, South Korea will contend with gradually slowing economic growth - in the 2-3% range - not uncommon for advanced economies. This could be partially offset by efforts to address challenges arising from its rapidly aging population, inflexible labor market, continued dominance of the chaebols, and heavy reliance on exports rather than domestic consumption. Socioeconomic problems also persist, and include rising inequality, poverty among the elderly, high youth unemployment, long working hours, low worker productivity, and corruption.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
-$2,187,800,000,000 (2020 est.)<br>
-$2,208,960,000,000 (2019 est.)<br>
-$2,164,810,000,000 (2018 est.)<br>
+$2.289 trillion (2021 est.)<br>
+$2.198 trillion (2020 est.)<br>
+$2.213 trillion (2019 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
-2.04% (2019 est.)<br>
-2.91% (2018 est.)<br>
-3.16% (2017 est.)<br>
+4.15% (2021 est.)<br>
+-0.71% (2020 est.)<br>
+2.24% (2019 est.)<br>
 
 **Real GDP per capita**<br>
-$42,300 (2020 est.)<br>
-$42,700 (2019 est.)<br>
-$41,900 (2018 est.)<br>
+$44,200 (2021 est.)<br>
+$42,400 (2020 est.)<br>
+$42,800 (2019 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
 $1,646,604,000,000 (2019 est.)<br>
 
 **Inflation rate (consumer prices)**<br>
-0.3% (2019 est.)<br>
-1.4% (2018 est.)<br>
-1.9% (2017 est.)<br>
+2.5% (2021 est.)<br>
+0.54% (2020 est.)<br>
+0.38% (2019 est.)<br>
 
 **Credit ratings**<br>
 _Fitch rating_: AA- (2012)<br>
@@ -450,10 +450,10 @@ rice, vegetables, cabbages, milk, onions, pork, poultry, eggs, tangerines/mandar
 electronics, telecommunications, automobile production, chemicals, shipbuilding, steel<br>
 
 **Industrial production growth rate**<br>
-4.6% (2017 est.)<br>
+5.09% (2021 est.)<br>
 
 **Labor force**<br>
-26.839 million (2020 est.)<br>
+28.674 million (2021 est.)<br>
 
 **Labor force - by occupation**<br>
 _agriculture_: 4.8%<br>
@@ -461,20 +461,20 @@ _industry_: 24.6%<br>
 _services_: 70.6% (2017 est.)<br>
 
 **Unemployment rate**<br>
-3.76% (2019 est.)<br>
-3.85% (2018 est.)<br>
+3.53% (2021 est.)<br>
+3.93% (2020 est.)<br>
+3.75% (2019 est.)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 8.1%<br>
-_male_: 9.1%<br>
-_female_: 7.4% (2021 est.)<br>
+_total_: 7.8%<br>
+_male_: 8.8%<br>
+_female_: 6.9% (2021 est.)<br>
 
 **Population below poverty line**<br>
 14.4% (2016 est.)<br>
 
 **Gini Index coefficient - distribution of family income**<br>
-35.4 (2015 est.)<br>
-31.6 (2012 est.)<br>
+31.4 (2016 est.)<br>
 
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 6.8%<br>
@@ -488,23 +488,25 @@ _expenditures_: 335.8 billion (2017 est.)<br>
 1.4% (of GDP) (2017 est.)<br>
 
 **Public debt**<br>
-39.5% of GDP (2017 est.)<br>
-39.9% of GDP (2016 est.)<br>
+46.43% of GDP (2020 est.)<br>
+39.97% of GDP (2019 est.)<br>
+37.56% of GDP (2018 est.)<br>
 
 **Taxes and other revenues**<br>
-23.2% (of GDP) (2017 est.)<br>
+14.86% (of GDP) (2020 est.)<br>
 
 **Fiscal year**<br>
 calendar year<br>
 
 **Current account balance**<br>
-$59.971 billion (2019 est.)<br>
-$77.467 billion (2018 est.)<br>
+$88.302 billion (2021 est.)<br>
+$75.902 billion (2020 est.)<br>
+$59.676 billion (2019 est.)<br>
 
 **Exports**<br>
-$606.71 billion (2020 est.) note: data are in current year dollars<br>
-$660.51 billion (2019 est.) note: data are in current year dollars<br>
-$729.94 billion (2018 est.) note: data are in current year dollars<br>
+$771.202 billion (2021 est.) note: data are in current year dollars<br>
+$607.505 billion (2020 est.) note: data are in current year dollars<br>
+$660.507 billion (2019 est.) note: data are in current year dollars<br>
 
 **Exports - partners**<br>
 China 25%, United States 14%, Vietnam 9%, Hong Kong 6%, Japan 5% (2019)<br>
@@ -513,9 +515,9 @@ China 25%, United States 14%, Vietnam 9%, Hong Kong 6%, Japan 5% (2019)<br>
 integrated circuits, cars and vehicle parts, refined petroleum, ships, office machinery (2019)<br>
 
 **Imports**<br>
-$540.96 billion (2020 est.) note: data are in current year dollars<br>
+$698.103 billion (2021 est.) note: data are in current year dollars<br>
+$541.57 billion (2020 est.) note: data are in current year dollars<br>
 $607.54 billion (2019 est.) note: data are in current year dollars<br>
-$649.23 billion (2018 est.) note: data are in current year dollars<br>
 
 **Imports - partners**<br>
 China 22%, United States 12%, Japan 9% (2019)<br>
@@ -524,8 +526,9 @@ China 22%, United States 12%, Japan 9% (2019)<br>
 crude petroleum, integrated circuits, natural gas, refined petroleum, coal (2019)<br>
 
 **Reserves of foreign exchange and gold**<br>
-$389.2 billion (31 December 2017 est.)<br>
-$371.1 billion (31 December 2016 est.)<br>
+$463.281 billion (31 December 2021 est.)<br>
+$443.463 billion (31 December 2020 est.)<br>
+$408.819 billion (31 December 2019 est.)<br>
 
 **Debt - external**<br>
 $457.745 billion (2019 est.)<br>
@@ -533,11 +536,11 @@ $435.98 billion (2018 est.)<br>
 
 **Exchange rates**<br>
 _Currency_: South Korean won (KRW) per US dollar -<br>
-1,084.65 (2020 est.)<br>
-1,189.9 (2019 est.)<br>
-1,119.8 (2018 est.)<br>
-1,130.95 (2014 est.)<br>
-1,052.96 (2013 est.)<br>
+1,143.952 (2021 est.)<br>
+1,180.266 (2020 est.)<br>
+1,165.358 (2019 est.)<br>
+1,100.163 (2018 est.)<br>
+1,131.001 (2017 est.)<br>
 
 ## Energy
 

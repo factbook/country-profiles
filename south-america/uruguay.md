@@ -171,7 +171,7 @@ _female_: 81.64 years (2022 est.)<br>
 1.76 children born/woman (2022 est.)<br>
 
 **Gross reproduction rate**<br>
-0.86 (2022 est.)<br>
+0.86 (2023 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 79.6% (2015)<br>
@@ -220,11 +220,11 @@ _total_: 21.5% (2020 est.)<br>
 _male_: 24.4% (2020 est.)<br>
 _female_: 18.5% (2020 est.)<br>
 
-**Currently married women (ages 15-49)**<br>
-55.4% (2022 est.)<br>
-
 **Children under the age of 5 years underweight**<br>
 1.8% (2018)<br>
+
+**Currently married women (ages 15-49)**<br>
+55.4% (2023 est.)<br>
 
 **Education expenditures**<br>
 4.6% of GDP (2020 est.)<br>
@@ -241,9 +241,9 @@ _male_: 17 years<br>
 _female_: 20 years (2019)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 33.1%<br>
-_male_: 29%<br>
-_female_: 38.5% (2020 est.)<br>
+_total_: 32.9%<br>
+_male_: 28.3%<br>
+_female_: 38.7% (2021 est.)<br>
 
 ## Environment
 
@@ -410,29 +410,29 @@ _selected World Heritage Site locales_: Historic City of Colonia del Sacramento;
 <p>Uruguay has a free market economy characterized by an export-oriented agricultural sector, a well-educated workforce, and high levels of social spending. Uruguay has sought to expand trade within the Common Market of the South (Mercosur) and with non-Mercosur members, and President VAZQUEZ has maintained his predecessor's mix of pro-market policies and a strong social safety net. <br><br></p> Following financial difficulties in the late 1990s and early 2000s, Uruguay's economic growth averaged 8% annually during the 2004-08 period. The 2008-09 global financial crisis put a brake on Uruguay's vigorous growth, which decelerated to 2.6% in 2009. Nevertheless, the country avoided a recession and kept growth rates positive, mainly through higher public expenditure and investment; GDP growth reached 8.9% in 2010 but slowed markedly in the 2012-16 period as a result of a renewed slowdown in the global economy and in Uruguay's main trade partners and Mercosur counterparts, Argentina and Brazil. Reforms in those countries should give Uruguay an economic boost. Growth picked up in 2017.<br>
 
 **Real GDP (purchasing power parity)**<br>
-$75.06 billion (2020 est.)<br>
-$79.73 billion (2019 est.)<br>
-$79.45 billion (2018 est.)<br>
+$78.121 billion (2021 est.)<br>
+$74.852 billion (2020 est.)<br>
+$79.733 billion (2019 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
-2.7% (2017 est.)<br>
-1.7% (2016 est.)<br>
-0.4% (2015 est.)<br>
+4.37% (2021 est.)<br>
+-6.12% (2020 est.)<br>
+0.35% (2019 est.)<br>
 
 **Real GDP per capita**<br>
-$21,600 (2020 est.)<br>
-$23,000 (2019 est.)<br>
-$23,000 (2018 est.)<br>
+$22,800 (2021 est.)<br>
+$21,800 (2020 est.)<br>
+$23,300 (2019 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
 $56.108 billion (2019 est.)<br>
 
 **Inflation rate (consumer prices)**<br>
-7.8% (2019 est.)<br>
-7.5% (2018 est.)<br>
-6.2% (2017 est.)<br>
+7.75% (2021 est.)<br>
+9.76% (2020 est.)<br>
+7.88% (2019 est.)<br>
 
 **Credit ratings**<br>
 _Fitch rating_: BBB- (2013)<br>
@@ -460,10 +460,10 @@ soybeans, milk, rice, maize, wheat, barley, beef, sugar cane, sorghum, oranges<b
 food processing, electrical machinery, transportation equipment, petroleum products, textiles, chemicals, beverages<br>
 
 **Industrial production growth rate**<br>
--3.6% (2017 est.)<br>
+5.87% (2021 est.)<br>
 
 **Labor force**<br>
-1.748 million (2017 est.)<br>
+1.702 million (2021 est.)<br>
 
 **Labor force - by occupation**<br>
 _agriculture_: 13%<br>
@@ -471,20 +471,20 @@ _industry_: 14%<br>
 _services_: 73% (2010 est.)<br>
 
 **Unemployment rate**<br>
-7.6% (2017 est.)<br>
-7.9% (2016 est.)<br>
+10.45% (2021 est.)<br>
+10.35% (2020 est.)<br>
+8.88% (2019 est.)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 33.1%<br>
-_male_: 29%<br>
-_female_: 38.5% (2020 est.)<br>
+_total_: 32.9%<br>
+_male_: 28.3%<br>
+_female_: 38.7% (2021 est.)<br>
 
 **Population below poverty line**<br>
 8.8% (2019 est.)<br>
 
 **Gini Index coefficient - distribution of family income**<br>
 39.7 (2018 est.)<br>
-41.9 (2013)<br>
 
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 1.9%<br>
@@ -498,24 +498,26 @@ _expenditures_: 19.72 billion (2017 est.)<br>
 -3.5% (of GDP) (2017 est.)<br>
 
 **Public debt**<br>
-65.7% of GDP (2017 est.)<br>
-61.6% of GDP (2016 est.)<br>
+60.4% of GDP (2020 est.)<br>
+50.94% of GDP (2019 est.)<br>
+47.95% of GDP (2018 est.)<br>
 <strong>note:</strong> data cover general government debt and include debt instruments issued (or owned) by government entities other than the treasury; the data include treasury debt held by foreign entities; the data include debt issued by subnational entities, as well as intragovernmental debt; intragovernmental debt consists of treasury borrowings from surpluses in the social funds, such as for retirement, medical care, and unemployment; debt instruments for the social funds are not sold at public auctions.<br>
 
 **Taxes and other revenues**<br>
-29.8% (of GDP) (2017 est.)<br>
+18.55% (of GDP) (2020 est.)<br>
 
 **Fiscal year**<br>
 calendar year<br>
 
 **Current account balance**<br>
-$879 million (2017 est.)<br>
-$410 million (2016 est.)<br>
+-$1.073 billion (2021 est.)<br>
+-$448.402 million (2020 est.)<br>
+$980.513 million (2019 est.)<br>
 
 **Exports**<br>
-$13.55 billion (2020 est.) note: data are in current year dollars<br>
-$16.99 billion (2019 est.) note: data are in current year dollars<br>
-$17.04 billion (2018 est.) note: data are in current year dollars<br>
+$18.82 billion (2021 est.) note: data are in current year dollars<br>
+$13.596 billion (2020 est.) note: data are in current year dollars<br>
+$17.087 billion (2019 est.) note: data are in current year dollars<br>
 
 **Exports - partners**<br>
 China 29%, Brazil 12%, United States 5%, Netherlands 5%, Argentina 5% (2019)<br>
@@ -524,9 +526,9 @@ China 29%, Brazil 12%, United States 5%, Netherlands 5%, Argentina 5% (2019)<br>
 sulfate wood pulp, beef, soybeans, concentrated milk, rice (2019)<br>
 
 **Imports**<br>
-$11.29 billion (2020 est.) note: data are in current year dollars<br>
-$13.31 billion (2019 est.) note: data are in current year dollars<br>
-$13.82 billion (2018 est.) note: data are in current year dollars<br>
+$15.051 billion (2021 est.) note: data are in current year dollars<br>
+$11.212 billion (2020 est.) note: data are in current year dollars<br>
+$13.336 billion (2019 est.) note: data are in current year dollars<br>
 
 **Imports - partners**<br>
 Brazil 25%, China 15%, United States 11%, Argentina 11% (2019)<br>
@@ -535,8 +537,9 @@ Brazil 25%, China 15%, United States 11%, Argentina 11% (2019)<br>
 crude petroleum, packaged medicines, cars, broadcasting equipment, delivery trucks (2019)<br>
 
 **Reserves of foreign exchange and gold**<br>
-$15.96 billion (31 December 2017 est.)<br>
-$13.47 billion (31 December 2016 est.)<br>
+$16.963 billion (31 December 2021 est.)<br>
+$16.25 billion (31 December 2020 est.)<br>
+$14.504 billion (31 December 2019 est.)<br>
 
 **Debt - external**<br>
 $43.705 billion (2019 est.)<br>
@@ -544,11 +547,11 @@ $42.861 billion (2018 est.)<br>
 
 **Exchange rates**<br>
 _Currency_: Uruguayan pesos (UYU) per US dollar -<br>
-42.645 (2020 est.)<br>
-37.735 (2019 est.)<br>
-32.2 (2018 est.)<br>
-27.52 (2014 est.)<br>
-23.25 (2013 est.)<br>
+43.555 (2021 est.)<br>
+42.013 (2020 est.)<br>
+35.255 (2019 est.)<br>
+30.725 (2018 est.)<br>
+28.676 (2017 est.)<br>
 
 ## Energy
 

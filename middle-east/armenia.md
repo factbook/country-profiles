@@ -164,7 +164,7 @@ _female_: 79.68 years (2022 est.)<br>
 1.65 children born/woman (2022 est.)<br>
 
 **Gross reproduction rate**<br>
-0.79 (2022 est.)<br>
+0.79 (2023 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 57.1% (2015/16)<br>
@@ -212,11 +212,11 @@ _total_: 25.5% (2020 est.)<br>
 _male_: 49.4% (2020 est.)<br>
 _female_: 1.5% (2020 est.)<br>
 
-**Currently married women (ages 15-49)**<br>
-64.8% (2022 est.)<br>
-
 **Children under the age of 5 years underweight**<br>
 2.6% (2015/16)<br>
+
+**Currently married women (ages 15-49)**<br>
+64.8% (2023 est.)<br>
 
 **Child marriage**<br>
 _women married by age 15_: 0%<br>
@@ -238,9 +238,9 @@ _male_: 13 years<br>
 _female_: 14 years (2021)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 24%<br>
-_male_: 25.4%<br>
-_female_: 22.1% (2020 est.)<br>
+_total_: 36.1%<br>
+_male_: 34%<br>
+_female_: 38.7% (2021 est.)<br>
 
 ## Environment
 
@@ -399,29 +399,29 @@ _selected World Heritage Site locales_: Monasteries of Haghpat and Sanahin; Mona
 <p>Under the old Soviet central planning system, Armenia developed a modern industrial sector, supplying machine tools, textiles, and other manufactured goods to sister republics, in exchange for raw materials and energy. Armenia has since switched to small-scale agriculture and away from the large agro industrial complexes of the Soviet era. Armenia has only two open trade borders - Iran and Georgia - because its borders with Azerbaijan and Turkey have been closed since 1991 and 1993, respectively, as a result of Armenia's ongoing conflict with Azerbaijan over the separatist Nagorno-Karabakh region.</p> <p> </p> <p>Armenia joined the World Trade Organization in January 2003. The government has made some improvements in tax and customs administration in recent years, but anti-corruption measures have been largely ineffective. Armenia will need to pursue additional economic reforms and strengthen the rule of law in order to raise its economic growth and improve economic competitiveness and employment opportunities, especially given its economic isolation from Turkey and Azerbaijan.</p> <p> </p> <p>Armenia's geographic isolation, a narrow export base, and pervasive monopolies in important business sectors have made it particularly vulnerable to volatility in the global commodity markets and the economic challenges in Russia. Armenia is particularly dependent on Russian commercial and governmental support, as most key Armenian infrastructure is Russian-owned and/or managed, especially in the energy sector. Remittances from expatriates working in Russia are equivalent to about 12-14% of GDP. Armenia joined the Russia-led Eurasian Economic Union in January 2015, but has remained interested in pursuing closer ties with the EU as well, signing a Comprehensive and Enhanced Partnership Agreement with the EU in November 2017. Armenia’s rising government debt is leading Yerevan to tighten its fiscal policies – the amount is approaching the debt to GDP ratio threshold set by national legislation.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
-$37.31 billion (2020 est.)<br>
-$40.38 billion (2019 est.)<br>
-$37.53 billion (2018 est.)<br>
+$39.613 billion (2021 est.)<br>
+$37.476 billion (2020 est.)<br>
+$40.384 billion (2019 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
-7.5% (2017 est.)<br>
-0.3% (2016 est.)<br>
-3.3% (2015 est.)<br>
+5.7% (2021 est.)<br>
+-7.2% (2020 est.)<br>
+7.6% (2019 est.)<br>
 
 **Real GDP per capita**<br>
-$12,600 (2020 est.)<br>
-$13,700 (2019 est.)<br>
-$12,700 (2018 est.)<br>
+$14,200 (2021 est.)<br>
+$13,400 (2020 est.)<br>
+$14,300 (2019 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
 $13.694 billion (2019 est.)<br>
 
 **Inflation rate (consumer prices)**<br>
-1.4% (2019 est.)<br>
-2.5% (2018 est.)<br>
-0.9% (2017 est.)<br>
+7.18% (2021 est.)<br>
+1.21% (2020 est.)<br>
+1.44% (2019 est.)<br>
 
 **Credit ratings**<br>
 _Fitch rating_: B+ (2020)<br>
@@ -448,10 +448,10 @@ milk, potatoes, grapes, vegetables, tomatoes, watermelons, wheat, apples, cabbag
 brandy, mining, diamond processing, metal-cutting machine tools, forging and pressing machines, electric motors, knitted wear, hosiery, shoes, silk fabric, chemicals, trucks, instruments, microelectronics, jewelry, software, food processing<br>
 
 **Industrial production growth rate**<br>
-5.4% (2017 est.)<br>
+3.4% (2021 est.)<br>
 
 **Labor force**<br>
-1.507 million (2017 est.)<br>
+1.153 million (2021 est.)<br>
 
 **Labor force - by occupation**<br>
 _agriculture_: 36.3%<br>
@@ -459,20 +459,20 @@ _industry_: 17%<br>
 _services_: 46.7% (2013 est.)<br>
 
 **Unemployment rate**<br>
-18.9% (2017 est.)<br>
-18.8% (2016 est.)<br>
+20.9% (2021 est.)<br>
+21.21% (2020 est.)<br>
+18.3% (2019 est.)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 24%<br>
-_male_: 25.4%<br>
-_female_: 22.1% (2020 est.)<br>
+_total_: 36.1%<br>
+_male_: 34%<br>
+_female_: 38.7% (2021 est.)<br>
 
 **Population below poverty line**<br>
 26.4% (2019 est.)<br>
 
 **Gini Index coefficient - distribution of family income**<br>
-34.4 (2018 est.)<br>
-31.5 (2013 est.)<br>
+25.2 (2020 est.)<br>
 
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 3.5%<br>
@@ -486,23 +486,24 @@ _expenditures_: 3.192 billion (2017 est.)<br>
 -4.8% (of GDP) (2017 est.)<br>
 
 **Public debt**<br>
-53.5% of GDP (2017 est.)<br>
-51.9% of GDP (2016 est.)<br>
+63.4% of GDP (2020 est.)<br>
+50.03% of GDP (2019 est.)<br>
 
 **Taxes and other revenues**<br>
-22.9% (of GDP) (2017 est.)<br>
+21.86% (of GDP) (2020 est.)<br>
 
 **Fiscal year**<br>
 calendar year<br>
 
 **Current account balance**<br>
--$328 million (2017 est.)<br>
--$238 million (2016 est.)<br>
+-$515.126 million (2021 est.)<br>
+-$477.811 million (2020 est.)<br>
+-$996.978 million (2019 est.)<br>
 
 **Exports**<br>
-$3.82 billion (2020 est.)<br>
-$5.64 billion (2019 est.)<br>
-$4.91 billion (2018 est.)<br>
+$5.012 billion (2021 est.)<br>
+$3.818 billion (2020 est.)<br>
+$5.794 billion (2019 est.)<br>
 <strong>note:</strong> Data are in current year dollars and do not include illicit exports or re-exports.<br>
 
 **Exports - partners**<br>
@@ -512,9 +513,9 @@ Russia 22%, Switzerland 20%, China 7%, Bulgaria 6%, Iraq 5%, Serbia 5%, Netherla
 copper ore, gold, tobacco, liquors, iron alloys (2019)<br>
 
 **Imports**<br>
-$5 billion (2020 est.) note: data are in current year dollars<br>
-$7.47 billion (2019 est.) note: data are in current year dollars<br>
-$6.61 billion (2018 est.) note: data are in current year dollars<br>
+$6.12 billion (2021 est.) note: data are in current year dollars<br>
+$5.082 billion (2020 est.) note: data are in current year dollars<br>
+$7.603 billion (2019 est.) note: data are in current year dollars<br>
 
 **Imports - partners**<br>
 Russia 29%, China 10%, Georgia 8%, Iran 6%, Turkey 5% (2019)<br>
@@ -523,8 +524,9 @@ Russia 29%, China 10%, Georgia 8%, Iran 6%, Turkey 5% (2019)<br>
 natural gas, cars, refined petroleum, broadcasting equipment, diamonds (2019)<br>
 
 **Reserves of foreign exchange and gold**<br>
-$2.314 billion (31 December 2017 est.)<br>
-$2.204 billion (31 December 2016 est.)<br>
+$3.23 billion (31 December 2021 est.)<br>
+$2.616 billion (31 December 2020 est.)<br>
+$2.85 billion (31 December 2019 est.)<br>
 
 **Debt - external**<br>
 $11.637 billion (2019 est.)<br>
@@ -532,11 +534,11 @@ $10.785 billion (2018 est.)<br>
 
 **Exchange rates**<br>
 _Currency_: drams (AMD) per US dollar -<br>
-487.9 (2017 est.)<br>
-480.49 (2016 est.)<br>
-480.49 (2015 est.)<br>
-477.92 (2014 est.)<br>
-415.92 (2013 est.)<br>
+503.77 (2021 est.)<br>
+489.009 (2020 est.)<br>
+480.445 (2019 est.)<br>
+482.988 (2018 est.)<br>
+482.716 (2017 est.)<br>
 
 ## Energy
 
@@ -656,9 +658,7 @@ _914 to 1,523 m_: 1 (2021)<br>
 3,838 km gas (high and medium pressure) (2017)<br>
 
 **Railways**<br>
-_total_: 780 km (2014)<br>
-_broad gauge_: 780 km (2014) 1.520-m gauge (780 km electrified)<br>
-<strong>note:</strong> 726 km operational<br>
+_total_: 686 km (2017)<br>
 
 **Roadways**<br>
 _total_: 7,700 km (2019)<br>
@@ -696,7 +696,7 @@ since November 2020, Russia has deployed about 2,000 peacekeeping troops to the 
 <p>local border forces struggle to control the illegal transit of goods and people across the porous, undemarcated Armenian, Azerbaijani, and Georgian borders<br><br><em>Armenia-Azerbaijan:</em> The dispute over the break-away Nagorno-Karabakh region and the Armenian military occupation of surrounding lands in Azerbaijan remains the primary focus of regional instability. Residents have evacuated the former Soviet-era small ethnic enclaves in Armenia and Azerbaijan.<br><br><em>Armenia-Georgia:</em> Georgians restrict Armenian access into Samtse-Javakheti ethnic Armenian areas. Armenia has made no claims to the region.<br><br><em>Armenia-Iran:</em> None identified<br><br><em>Armenia-Turkey:</em> In 2009, Swiss mediators facilitated an accord reestablishing diplomatic ties between Armenia and Turkey, but neither side has ratified the agreement and the rapprochement effort has faltered, in part due to resistance from Azerbaijan. The border has been closed since 1993, and no diplomatic relations established after Armenian independence. In 2022, Turkey and Armenia have agreed to move forward with efforts to normalize relations.<br>Turkish authorities have complained that blasting from quarries in Armenia might be damaging the ruins of Ani, an ancient city on the high ridge overlooking the Arpaçay valley on the opposite shore. </p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 38,774 (Azerbaijan), 5,205 (Syria - ethnic Armenians) (mid-year 2021)<br>
+_refugees (country of origin)_: 27,929 (Azerbaijan) (mid-year 2022)<br>
 _stateless persons_: 892 (mid-year 2021)<br>
 
 **Illicit drugs**<br>

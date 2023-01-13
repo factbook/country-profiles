@@ -158,7 +158,7 @@ _female_: 84.1 years (2022 est.)<br>
 1.92 children born/woman (2022 est.)<br>
 
 **Gross reproduction rate**<br>
-0.93 (2022 est.)<br>
+0.93 (2023 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 NA<br>
@@ -206,11 +206,11 @@ _total_: 20.8% (2020 est.)<br>
 _male_: 22.5% (2020 est.)<br>
 _female_: 19% (2020 est.)<br>
 
-**Currently married women (ages 15-49)**<br>
-52.4% (2022 est.)<br>
-
 **Children under the age of 5 years underweight**<br>
 NA<br>
+
+**Currently married women (ages 15-49)**<br>
+52.1% (2023 est.)<br>
 
 **Education expenditures**<br>
 3.1% of GDP (2020 est.)<br>
@@ -226,9 +226,9 @@ _male_: 18 years<br>
 _female_: 19 years (2020)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 14.5%<br>
-_male_: 14.5%<br>
-_female_: 14.6% (2021 est.)<br>
+_total_: 17.4%<br>
+_male_: 16.1%<br>
+_female_: 18.8% (2021 est.)<br>
 
 ## Environment
 
@@ -386,29 +386,29 @@ _selected World Heritage Site locales_: Br&uacute; na B&oacute;inne - Archaeolog
 <p>Ireland is a small, modern, trade-dependent economy. It was among the initial group of 12 EU nations that began circulating the euro on 1 January 2002. GDP growth averaged 6% in 1995-2007, but economic activity dropped sharply during the world financial crisis and the subsequent collapse of its domestic property market and construction industry during 2008-11. Faced with sharply reduced revenues and a burgeoning budget deficit from efforts to stabilize its fragile banking sector, the Irish Government introduced the first in a series of draconian budgets in 2009. These measures were not sufficient to stabilize Ireland’s public finances. In 2010, the budget deficit reached 32.4% of GDP - the world's largest deficit, as a percentage of GDP. In late 2010, the former COWEN government agreed to a $92 billion loan package from the EU and IMF to help Dublin recapitalize Ireland’s banking sector and avoid defaulting on its sovereign debt. In March 2011, the KENNY government intensified austerity measures to meet the deficit targets under Ireland's EU-IMF bailout program.</p> <p> </p> <p>In late 2013, Ireland formally exited its EU-IMF bailout program, benefiting from its strict adherence to deficit-reduction targets and success in refinancing a large amount of banking-related debt. In 2014, the economy rapidly picked up. In late 2014, the government introduced a fiscally neutral budget, marking the end of the austerity program. Continued growth of tax receipts has allowed the government to lower some taxes and increase public spending while keeping to its deficit-reduction targets. In 2015, GDP growth exceeded 26%. The magnitude of the increase reflected one-off statistical revisions, multinational corporate restructurings in intellectual property, and the aircraft leasing sector, rather than real gains in the domestic economy, which was still growing. Growth moderated to around 4.1% in 2017, but the recovering economy assisted lowering the deficit to 0.6% of GDP.</p> <p> </p> <p>In the wake of the collapse of the construction sector and the downturn in consumer spending and business investment during the 2008-11 economic crisis, the export sector, dominated by foreign multinationals, has become an even more important component of Ireland's economy. Ireland’s low corporation tax of 12.5% and a talented pool of high-tech laborers have been some of the key factors in encouraging business investment. Loose tax residency requirements made Ireland a common destination for international firms seeking to pay less tax or, in the case of U.S. multinationals, defer taxation owed to the United States. In 2014, amid growing international pressure, the Irish government announced it would phase in more stringent tax laws, effectively closing a commonly used loophole. The Irish economy continued to grow in 2017 and is forecast to do so through 2019, supported by a strong export sector, robust job growth, and low inflation, to the point that the Government must now address concerns about overheating and potential loss of competitiveness. The greatest risks to the economy are the UK’s scheduled departure from the European Union ("Brexit") in March 2019, possible changes to international taxation policies that could affect Ireland’s revenues, and global trade pressures.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
-$447.97 billion (2020 est.)<br>
-$433.17 billion (2019 est.)<br>
-$410.33 billion (2018 est.)<br>
+$515.88 billion (2021 est.)<br>
+$454.167 billion (2020 est.)<br>
+$427.715 billion (2019 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
-5.86% (2019 est.)<br>
-9.42% (2018 est.)<br>
-9.49% (2017 est.)<br>
+13.59% (2021 est.)<br>
+6.18% (2020 est.)<br>
+5.44% (2019 est.)<br>
 
 **Real GDP per capita**<br>
-$89,700 (2020 est.)<br>
-$87,800 (2019 est.)<br>
-$84,300 (2018 est.)<br>
+$102,500 (2021 est.)<br>
+$91,100 (2020 est.)<br>
+$86,700 (2019 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
 $398.476 billion (2019 est.)<br>
 
 **Inflation rate (consumer prices)**<br>
-0.9% (2019 est.)<br>
-0.4% (2018 est.)<br>
-0.3% (2017 est.)<br>
+2.36% (2021 est.)<br>
+-0.33% (2020 est.)<br>
+0.94% (2019 est.)<br>
 
 **Credit ratings**<br>
 _Fitch rating_: A+ (2017)<br>
@@ -436,10 +436,10 @@ milk, barley, beef, wheat, potatoes, pork, oats, poultry, mushrooms/truffles, mu
 pharmaceuticals, chemicals, computer hardware and software, food products, beverages and brewing; medical devices<br>
 
 **Industrial production growth rate**<br>
-7.8% (2017 est.)<br>
+20.33% (2021 est.)<br>
 
 **Labor force**<br>
-2.289 million (2020 est.)<br>
+2.518 million (2021 est.)<br>
 
 **Labor force - by occupation**<br>
 _agriculture_: 5%<br>
@@ -447,20 +447,20 @@ _industry_: 11%<br>
 _services_: 84% (2015 est.)<br>
 
 **Unemployment rate**<br>
-4.98% (2019 est.)<br>
-5.78% (2018 est.)<br>
+6.63% (2021 est.)<br>
+5.62% (2020 est.)<br>
+4.95% (2019 est.)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 14.5%<br>
-_male_: 14.5%<br>
-_female_: 14.6% (2021 est.)<br>
+_total_: 17.4%<br>
+_male_: 16.1%<br>
+_female_: 18.8% (2021 est.)<br>
 
 **Population below poverty line**<br>
 13.1% (2018 est.)<br>
 
 **Gini Index coefficient - distribution of family income**<br>
-32.8 (2016 est.)<br>
-35.9 (1987 est.)<br>
+30.6 (2018 est.)<br>
 
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 2.9%<br>
@@ -474,24 +474,26 @@ _expenditures_: 87.19 billion (2017 est.)<br>
 -0.3% (of GDP) (2017 est.)<br>
 
 **Public debt**<br>
-68.6% of GDP (2017 est.)<br>
-73.6% of GDP (2016 est.)<br>
+71.58% of GDP (2020 est.)<br>
+69.7% of GDP (2019 est.)<br>
+75.19% of GDP (2018 est.)<br>
 <strong>note:</strong> data cover general government debt and include debt instruments issued (or owned) by government entities other than the treasury; the data include treasury debt held by foreign entities; the data include debt issued by subnational entities, as well as intragovernmental debt; intragovernmental debt consists of treasury borrowings from surpluses in the social funds, such as for retirement, medical care, and unemployment; debt instruments for the social funds are not sold at public auctions<br>
 
 **Taxes and other revenues**<br>
-26% (of GDP) (2017 est.)<br>
+16.51% (of GDP) (2020 est.)<br>
 
 **Fiscal year**<br>
 calendar year<br>
 
 **Current account balance**<br>
--$44.954 billion (2019 est.)<br>
-$24.154 billion (2018 est.)<br>
+$72.22 billion (2021 est.)<br>
+-$27.412 billion (2020 est.)<br>
+-$44.934 billion (2019 est.)<br>
 
 **Exports**<br>
-$502.31 billion (2019 est.) note: data are in current year dollars<br>
-$471.6 billion (2018 est.) note: data are in current year dollars<br>
-$440.693 billion (2017 est.)<br>
+$677.028 billion (2021 est.) note: data are in current year dollars<br>
+$569.061 billion (2020 est.) note: data are in current year dollars<br>
+$502.313 billion (2019 est.)<br>
 
 **Exports - partners**<br>
 United States 28%, Belgium 10%, Germany 10%, UK 9%, China 5%, Netherlands 5% (2019)<br>
@@ -500,9 +502,9 @@ United States 28%, Belgium 10%, Germany 10%, UK 9%, China 5%, Netherlands 5% (20
 medical cultures/vaccines, nitrogen compounds, packaged medicines, integrated circuits, scented mixtures (2019)<br>
 
 **Imports**<br>
-$452.98 billion (2019 est.) note: data are in current year dollars<br>
-$361.12 billion (2018 est.) note: data are in current year dollars<br>
-$359.725 billion (2017 est.)<br>
+$477.544 billion (2021 est.) note: data are in current year dollars<br>
+$486.946 billion (2020 est.) note: data are in current year dollars<br>
+$452.979 billion (2019 est.)<br>
 
 **Imports - partners**<br>
 United Kingdom 31%, United States 16%, Germany 10%, Netherlands 5%, France 5% (2019)<br>
@@ -511,8 +513,9 @@ United Kingdom 31%, United States 16%, Germany 10%, Netherlands 5%, France 5% (2
 aircraft, computers, packaged medicines, refined petroleum, medical cultures/vaccines (2019)<br>
 
 **Reserves of foreign exchange and gold**<br>
-$4.412 billion (31 December 2017 est.)<br>
-$2.203 billion (31 December 2015 est.)<br>
+$13.247 billion (31 December 2021 est.)<br>
+$7.463 billion (31 December 2020 est.)<br>
+$5.733 billion (31 December 2019 est.)<br>
 
 **Debt - external**<br>
 $2.829 trillion (2019 est.)<br>
@@ -520,11 +523,11 @@ $2.759 trillion (2018 est.)<br>
 
 **Exchange rates**<br>
 _Currency_: euros (EUR) per US dollar -<br>
-0.82771 (2020 est.)<br>
-0.90338 (2019 est.)<br>
-0.87789 (2018 est.)<br>
-0.885 (2014 est.)<br>
-0.7634 (2013 est.)<br>
+0.845 (2021 est.)<br>
+0.876 (2020 est.)<br>
+0.893 (2019 est.)<br>
+0.847 (2018 est.)<br>
+0.885 (2017 est.)<br>
 
 ## Energy
 
@@ -708,7 +711,7 @@ Continuity Irish Republican Army; New Irish Republican Army; Islamic State of Ir
 <p><em>Ireland-Denmark</em>: Ireland, Iceland, and the UK dispute Denmark's claim that the Faroe Islands' continental shelf extends beyond 200 nm; Iceland, Norway, and the Faroe Islands signed an agreement in 2019 extending the Faroe Islands’ northern continental shelf area</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 70,070 (Ukraine) (as of 22 December 2022)<br>
+_refugees (country of origin)_: 70,077 (Ukraine) (as of 3 January 2023)<br>
 _stateless persons_: 107 (mid-year 2021)<br>
 
 **Illicit drugs**<br>

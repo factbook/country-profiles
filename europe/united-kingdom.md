@@ -163,7 +163,7 @@ _female_: 84.04 years (2022 est.)<br>
 1.63 children born/woman (2022 est.)<br>
 
 **Gross reproduction rate**<br>
-0.79 (2022 est.)<br>
+0.79 (2023 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 76.1% (2010/12)<br>
@@ -216,11 +216,11 @@ _total_: 15.4% (2020 est.)<br>
 _male_: 17.3% (2020 est.)<br>
 _female_: 13.5% (2020 est.)<br>
 
-**Currently married women (ages 15-49)**<br>
-51% (2022 est.)<br>
-
 **Children under the age of 5 years underweight**<br>
 NA<br>
+
+**Currently married women (ages 15-49)**<br>
+50.7% (2023 est.)<br>
 
 **Child marriage**<br>
 _women married by age 18_: 0.1% (2020 est.)<br>
@@ -239,9 +239,9 @@ _male_: 17 years<br>
 _female_: 18 years (2020)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 11.2%<br>
-_male_: 13%<br>
-_female_: 9.2% (2019 est.)<br>
+_total_: 13.2%<br>
+_male_: 14.6%<br>
+_female_: 11.8% (2021 est.)<br>
 
 ## Environment
 
@@ -407,29 +407,29 @@ _selected World Heritage Site locales_: Giant's Causeway and Causeway Coast (n);
 <p>The UK, a leading trading power and financial center, is the third largest economy in Europe after Germany and France. Agriculture is intensive, highly mechanized, and efficient by European standards, producing about 60% of food needs with less than 2% of the labor force. The UK has large coal, natural gas, and oil resources, but its oil and natural gas reserves are declining; the UK has been a net importer of energy since 2005. Services, particularly banking, insurance, and business services, are key drivers of British GDP growth. Manufacturing, meanwhile, has declined in importance but still accounts for about 10% of economic output.</p> <p>In 2008, the global financial crisis hit the economy particularly hard, due to the importance of its financial sector. Falling home prices, high consumer debt, and the global economic slowdown compounded the UK’s economic problems, pushing the economy into recession in the latter half of 2008 and prompting the then BROWN (Labour) government to implement a number of measures to stimulate the economy and stabilize the financial markets. Facing burgeoning public deficits and debt levels, in 2010 the then CAMERON-led coalition government (between Conservatives and Liberal Democrats) initiated an austerity program, which has continued under the Conservative government. However, the deficit still remains one of the highest in the G7, standing at 3.6% of GDP as of 2017, and the UK has pledged to lower its corporation tax from 20% to 17% by 2020. The UK had a debt burden of 90.4% GDP at the end of 2017.</p> <p>The UK economy has begun to slow since the referendum vote to leave the EU in June 2016. A sustained depreciation of the British pound has increased consumer and producer prices, weighing on consumer spending without spurring a meaningful increase in exports. The UK has an extensive trade relationship with other EU members through its single market membership, and economic observers have warned the exit will jeopardize its position as the central location for European financial services. The UK is slated to leave the EU at the end of January 2020.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
-$2,797,980,000,000 (2020 est.)<br>
-$3,101,640,000,000 (2019 est.)<br>
-$3,059,690,000,000 (2018 est.)<br>
+$3.028 trillion (2021 est.)<br>
+$2.816 trillion (2020 est.)<br>
+$3.166 trillion (2019 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
-1.26% (2019 est.)<br>
-1.25% (2018 est.)<br>
-1.74% (2017 est.)<br>
+7.52% (2021 est.)<br>
+-11.03% (2020 est.)<br>
+1.6% (2019 est.)<br>
 
 **Real GDP per capita**<br>
-$41,600 (2020 est.)<br>
-$46,400 (2019 est.)<br>
-$46,000 (2018 est.)<br>
+$45,000 (2021 est.)<br>
+$42,000 (2020 est.)<br>
+$47,400 (2019 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
 $2,827,918,000,000 (2019 est.)<br>
 
 **Inflation rate (consumer prices)**<br>
-1.7% (2019 est.)<br>
-2.4% (2018 est.)<br>
-2.6% (2017 est.)<br>
+2.52% (2021 est.)<br>
+0.99% (2020 est.)<br>
+1.74% (2019 est.)<br>
 
 **Credit ratings**<br>
 _Fitch rating_: AA- (2020)<br>
@@ -457,10 +457,10 @@ wheat, milk, barley, sugar beet, potatoes, rapeseed, poultry, oats, pork, beef<b
 machine tools, electric power equipment, automation equipment, railroad equipment, shipbuilding, aircraft, motor vehicles and parts, electronics and communications equipment, metals, chemicals, coal, petroleum, paper and paper products, food processing, textiles, clothing, other consumer goods<br>
 
 **Industrial production growth rate**<br>
-3.4% (2017 est.)<br>
+9.12% (2021 est.)<br>
 
 **Labor force**<br>
-35.412 million (2020 est.)<br>
+34.637 million (2021 est.)<br>
 
 **Labor force - by occupation**<br>
 _agriculture_: 1.3%<br>
@@ -468,20 +468,20 @@ _industry_: 15.2%<br>
 _services_: 83.5% (2014 est.)<br>
 
 **Unemployment rate**<br>
-3.17% (2019 est.)<br>
-2.51% (2018 est.)<br>
+4.53% (2021 est.)<br>
+4.47% (2020 est.)<br>
+3.74% (2019 est.)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 11.2%<br>
-_male_: 13%<br>
-_female_: 9.2% (2019 est.)<br>
+_total_: 13.2%<br>
+_male_: 14.6%<br>
+_female_: 11.8% (2021 est.)<br>
 
 **Population below poverty line**<br>
 18.6% (2017 est.)<br>
 
 **Gini Index coefficient - distribution of family income**<br>
 34.8 (2016 est.)<br>
-33.4 (2010)<br>
 
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 1.7%<br>
@@ -495,24 +495,26 @@ _expenditures_: 1.079 trillion (2017 est.)<br>
 -1.9% (of GDP) (2017 est.)<br>
 
 **Public debt**<br>
-87.5% of GDP (2017 est.)<br>
-87.9% of GDP (2016 est.)<br>
+195.39% of GDP (2020 est.)<br>
+160.02% of GDP (2019 est.)<br>
+157.8% of GDP (2018 est.)<br>
 <strong>note:</strong> data cover general government debt and include debt instruments issued (or owned) by government entities other than the treasury; the data include treasury debt held by foreign entities; the data include debt issued by subnational entities, as well as intragovernmental debt; intragovernmental debt consists of treasury borrowings from surpluses in the social funds, such as for retirement, medical care, and unemployment; debt instruments for the social funds are not sold at public auctions<br>
 
 **Taxes and other revenues**<br>
-39.1% (of GDP) (2017 est.)<br>
+24.73% (of GDP) (2020 est.)<br>
 
 **Fiscal year**<br>
 6 April - 5 April<br>
 
 **Current account balance**<br>
--$121.921 billion (2019 est.)<br>
--$104.927 billion (2018 est.)<br>
+-$62.941 billion (2021 est.)<br>
+-$87.814 billion (2020 est.)<br>
+-$80.779 billion (2019 est.)<br>
 
 **Exports**<br>
-$741.95 billion (2020 est.) note: data are in current year dollars<br>
-$879.92 billion (2019 est.) note: data are in current year dollars<br>
-$882.65 billion (2018 est.) note: data are in current year dollars<br>
+$874.486 billion (2021 est.) note: data are in current year dollars<br>
+$791.733 billion (2020 est.) note: data are in current year dollars<br>
+$893.142 billion (2019 est.) note: data are in current year dollars<br>
 
 **Exports - partners**<br>
 United States 15%, Germany 10%, China 7%, Netherlands 7%, France 7%, Ireland 6% (2019)<br>
@@ -521,9 +523,9 @@ United States 15%, Germany 10%, China 7%, Netherlands 7%, France 7%, Ireland 6% 
 cars, gas turbines, gold, crude petroleum, packaged medicines (2019)<br>
 
 **Imports**<br>
-$752.77 billion (2020 est.) note: data are in current year dollars<br>
-$914.96 billion (2019 est.) note: data are in current year dollars<br>
-$916.4 billion (2018 est.) note: data are in current year dollars<br>
+$898.719 billion (2021 est.) note: data are in current year dollars<br>
+$783.438 billion (2020 est.) note: data are in current year dollars<br>
+$939.349 billion (2019 est.) note: data are in current year dollars<br>
 
 **Imports - partners**<br>
 Germany 13%, China 10%, United States 8%, Netherlands 7%, France 6%, Belgium 5% (2019)<br>
@@ -532,8 +534,9 @@ Germany 13%, China 10%, United States 8%, Netherlands 7%, France 6%, Belgium 5% 
 gold, cars, crude petroleum, refined petroleum, broadcasting equipment (2019)<br>
 
 **Reserves of foreign exchange and gold**<br>
-$150.8 billion (31 December 2017 est.)<br>
-$129.6 billion (31 December 2015 est.)<br>
+$194.181 billion (31 December 2021 est.)<br>
+$180.054 billion (31 December 2020 est.)<br>
+$173.569 billion (31 December 2019 est.)<br>
 
 **Debt - external**<br>
 $8,721,590,000,000 (2019 est.)<br>
@@ -541,11 +544,11 @@ $8,696,559,000,000 (2018 est.)<br>
 
 **Exchange rates**<br>
 _Currency_: British pounds (GBP) per US dollar -<br>
-0.7836 (2017 est.)<br>
-0.738 (2016 est.)<br>
-0.738 (2015 est.)<br>
-0.607 (2014 est.)<br>
-0.6391 (2013 est.)<br>
+0.727 (2021 est.)<br>
+0.78 (2020 est.)<br>
+0.783 (2019 est.)<br>
+0.75 (2018 est.)<br>
+0.777 (2017 est.)<br>
 
 ## Energy
 
@@ -741,7 +744,7 @@ Continuity Irish Republican Army; Islamic State of Iraq and ash-Sham (ISIS); New
 <p><em>UK-Argentina</em>: UK rejects sovereignty talks requested by Argentina, which still claims the Falkland Islands (Islas Malvinas) and South Georgia and the South Sandwich Islands</p> <p><em>UK-Argentina-Chile</em>: the UK’s territorial claim in Antarctica (British Antarctic Territory) overlaps Argentine claim and partially overlaps Chilean claim</p> <p><em>UK-Denmark</em>: the UK, Iceland, and Ireland dispute Denmark's claim that the Faroe Islands' continental shelf extends beyond 200 nm; Iceland, Norway, and the Faroe Islands signed an agreement in 2019 extending the Faroe Islands’ northern continental shelf area</p> <p><em>UK (Gibraltar)-Spain</em>: in 2002, Gibraltar residents voted overwhelmingly by referendum to reject any "shared sovereignty" arrangement between the UK and Spain; the Government of Gibraltar insisted on equal participation in talks between the two countries; Spain disapproved of UK plans to grant Gibraltar greater autonomy; London and Madrid reached a temporary agreement at the end of 2020 that allowed Gibraltar to be part of the passport-free Schengen zone; talks are expected to continue in 2022</p> <p><em>UK-Mauritius-Seychelles</em>: Mauritius and Seychelles claim the Chagos Archipelago (British Indian Ocean Territory); in 2001, the former inhabitants of the archipelago, evicted 1967 - 1973, were granted UK citizenship and the right of return, followed by Orders in Council in 2004 that banned rehabitation, a High Court ruling reversed the ban, a Court of Appeal refusal to hear the case, and a Law Lords' decision in 2008 denied the right of return; in addition, the UK created the world's largest marine protection area around the Chagos Islands prohibiting the extraction of any natural resources therein</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 21,011 (Iran), 14,503 (Eritrea), 11,251 (Sudan), 11,412 (Syria), 9,469 (Afghanistan), 8,357 (Pakistan), 6,933 (Iraq), 5,200 (Sri Lanka) (2020); 152,200 (Ukraine) (as of 19 December 2022)<br>
+_refugees (country of origin)_: 21,904 (Iran), 15,615 (Eritrea), 11,371 (Sudan), 12,155 (Syria), 10,259 (Afghanistan), 8,009 (Pakistan), 7,699 (Iraq) (mid-year 2022); 152,200 (Ukraine) (as of 19 December 2022)<br>
 _stateless persons_: 3,968 (mid-year 2021)<br>
 
 **Illicit drugs**<br>

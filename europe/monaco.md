@@ -154,7 +154,7 @@ _female_: 93.49 years (2022 est.)<br>
 1.53 children born/woman (2022 est.)<br>
 
 **Gross reproduction rate**<br>
-0.75 (2022 est.)<br>
+0.75 (2023 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 NA<br>
@@ -348,9 +348,9 @@ $6.79 billion (2013 est.)<br>
 <strong>note:</strong> data are in 2015 US dollars<br>
 
 **Real GDP growth rate**<br>
-5.4% (2015 est.)<br>
-7.2% (2014 est.)<br>
-9.6% (2013 est.)<br>
+21.55% (2021 est.)<br>
+-12.97% (2020 est.)<br>
+6.91% (2019 est.)<br>
 
 **Real GDP per capita**<br>
 $115,700 (2015 est.)<br>

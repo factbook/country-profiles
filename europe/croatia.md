@@ -166,7 +166,7 @@ _female_: 80.53 years (2022 est.)<br>
 1.45 children born/woman (2022 est.)<br>
 
 **Gross reproduction rate**<br>
-0.7 (2022 est.)<br>
+10.7 (2023 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 NA<br>
@@ -218,11 +218,11 @@ _total_: 36.9% (2020 est.)<br>
 _male_: 37.6% (2020 est.)<br>
 _female_: 36.1% (2020 est.)<br>
 
-**Currently married women (ages 15-49)**<br>
-51.1% (2022 est.)<br>
-
 **Children under the age of 5 years underweight**<br>
 NA<br>
+
+**Currently married women (ages 15-49)**<br>
+50.8% (2023 est.)<br>
 
 **Education expenditures**<br>
 5.5% of GDP (2020 est.)<br>
@@ -239,9 +239,9 @@ _male_: 14 years<br>
 _female_: 16 years (2020)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 21.9%<br>
-_male_: 18.9%<br>
-_female_: 26.4% (2021 est.)<br>
+_total_: 23.6%<br>
+_male_: 21.8%<br>
+_female_: 26.3% (2021 est.)<br>
 
 ## Environment
 
@@ -412,29 +412,29 @@ _selected World Heritage Site locales_: Plitvice Lakes National Park (n); Histor
 <p>Though still one of the wealthiest of the former Yugoslav republics, Croatia’s economy suffered badly during the 1991-95 war. The country's output during that time collapsed, and Croatia missed the early waves of investment in Central and Eastern Europe that followed the fall of the Berlin Wall. Between 2000 and 2007, however, Croatia's economic fortunes began to improve with moderate but steady GDP growth between 4% and 6%, led by a rebound in tourism and credit-driven consumer spending. Inflation over the same period remained tame and the currency, the kuna, stable.</p> <p> </p> <p>Croatia experienced an abrupt slowdown in the economy in 2008; economic growth was stagnant or negative in each year between 2009 and 2014, but has picked up since the third quarter of 2014, ending 2017 with an average of 2.8% growth. Challenges remain including uneven regional development, a difficult investment climate, an inefficient judiciary, and loss of educated young professionals seeking higher salaries elsewhere in the EU. In 2016, Croatia revised its tax code to stimulate growth from domestic consumption and foreign investment. Income tax reduction began in 2017, and in 2018 various business costs were removed from income tax calculations. At the start of 2018, the government announced its economic reform plan, slated for implementation in 2019.</p> <p> </p> <p>Tourism is one of the main pillars of the Croatian economy, comprising 19.6% of Croatia’s GDP. Croatia is working to become a regional energy hub, and is undertaking plans to open a floating liquefied natural gas (LNG) regasification terminal by the end of 2019 or early in 2020 to import LNG for re-distribution in southeast Europe.</p> <p> </p> <p>Croatia joined the EU on July 1, 2013, following a decade-long accession process. Croatia has developed a plan for Eurozone accession, and the government projects Croatia will adopt the Euro by 2024. In 2017, the Croatian government decreased public debt to 78% of GDP, from an all-time high of 84% in 2014, and realized a 0.8% budget surplus - the first surplus since independence in 1991. The government has also sought to accelerate privatization of non-strategic assets with mixed success. Croatia’s economic recovery is still somewhat fragile; Croatia’s largest private company narrowly avoided collapse in 2017, thanks to a capital infusion from an American investor. Restructuring is ongoing, and projected to finish by mid-July 2018.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
-$107.11 billion (2020 est.)<br>
-$116.89 billion (2019 est.)<br>
-$113.64 billion (2018 est.)<br>
+$123.348 billion (2021 est.)<br>
+$109.088 billion (2020 est.)<br>
+$119.327 billion (2019 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
-2.94% (2019 est.)<br>
-2.7% (2018 est.)<br>
-3.14% (2017 est.)<br>
+13.07% (2021 est.)<br>
+-8.58% (2020 est.)<br>
+3.42% (2019 est.)<br>
 
 **Real GDP per capita**<br>
-$26,500 (2020 est.)<br>
-$28,800 (2019 est.)<br>
-$27,800 (2018 est.)<br>
+$31,600 (2021 est.)<br>
+$27,000 (2020 est.)<br>
+$29,400 (2019 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
 $60.687 billion (2019 est.)<br>
 
 **Inflation rate (consumer prices)**<br>
-0.7% (2019 est.)<br>
-1.4% (2018 est.)<br>
-1.1% (2017 est.)<br>
+2.55% (2021 est.)<br>
+0.15% (2020 est.)<br>
+0.77% (2019 est.)<br>
 
 **Credit ratings**<br>
 _Fitch rating_: BBB- (2019)<br>
@@ -462,10 +462,10 @@ maize, wheat, sugar beet, milk, barley, soybeans, potatoes, pork, grapes, sunflo
 chemicals and plastics, machine tools, fabricated metal, electronics, pig iron and rolled steel products, aluminum, paper, wood products, construction materials, textiles, shipbuilding, petroleum and petroleum refining, food and beverages, tourism<br>
 
 **Industrial production growth rate**<br>
-1.2% (2017 est.)<br>
+9.11% (2021 est.)<br>
 
 **Labor force**<br>
-1.656 million (2020 est.)<br>
+1.742 million (2021 est.)<br>
 
 **Labor force - by occupation**<br>
 _agriculture_: 1.9%<br>
@@ -473,20 +473,20 @@ _industry_: 27.3%<br>
 _services_: 70.8% (2017 est.)<br>
 
 **Unemployment rate**<br>
-8.07% (2019 est.)<br>
-9.86% (2018 est.)<br>
+8.68% (2021 est.)<br>
+7.51% (2020 est.)<br>
+6.62% (2019 est.)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 21.9%<br>
-_male_: 18.9%<br>
-_female_: 26.4% (2021 est.)<br>
+_total_: 23.6%<br>
+_male_: 21.8%<br>
+_female_: 26.3% (2021 est.)<br>
 
 **Population below poverty line**<br>
 18.3% (2018 est.)<br>
 
 **Gini Index coefficient - distribution of family income**<br>
-30.4 (2017 est.)<br>
-32.1 (2014 est.)<br>
+28.9 (2019 est.)<br>
 
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 2.7%<br>
@@ -500,23 +500,25 @@ _expenditures_: 24.83 billion (2017 est.)<br>
 0.8% (of GDP) (2017 est.)<br>
 
 **Public debt**<br>
-77.8% of GDP (2017 est.)<br>
-82.3% of GDP (2016 est.)<br>
+104.89% of GDP (2020 est.)<br>
+87.08% of GDP (2019 est.)<br>
+89.45% of GDP (2018 est.)<br>
 
 **Taxes and other revenues**<br>
-46.1% (of GDP) (2017 est.)<br>
+20.6% (of GDP) (2020 est.)<br>
 
 **Fiscal year**<br>
 calendar year<br>
 
 **Current account balance**<br>
-$1.597 billion (2019 est.)<br>
-$1 billion (2018 est.)<br>
+$2.082 billion (2021 est.)<br>
+-$184.775 million (2020 est.)<br>
+$1.7 billion (2019 est.)<br>
 
 **Exports**<br>
-$23.66 billion (2020 est.)<br>
-$31.07 billion (2019 est.)<br>
-$30.71 billion (2018 est.)<br>
+$35.308 billion (2021 est.)<br>
+$24.007 billion (2020 est.)<br>
+$31.504 billion (2019 est.)<br>
 <strong>note:</strong> Data are in current year dollars and do not include illicit exports or re-exports.<br>
 
 **Exports - partners**<br>
@@ -526,9 +528,9 @@ Italy 13%, Germany 13%, Slovenia 10%, Bosnia and Herzegovina 9%, Austria 6%, Ser
 refined petroleum, packaged medicines, cars, medical cultures/vaccines, lumber (2019)<br>
 
 **Imports**<br>
-$27.59 billion (2020 est.) note: data are in current year dollars<br>
-$31.39 billion (2019 est.) note: data are in current year dollars<br>
-$31.32 billion (2018 est.) note: data are in current year dollars<br>
+$36.331 billion (2021 est.) note: data are in current year dollars<br>
+$27.954 billion (2020 est.) note: data are in current year dollars<br>
+$31.793 billion (2019 est.) note: data are in current year dollars<br>
 
 **Imports - partners**<br>
 Italy 14%, Germany 14%, Slovenia 11%, Hungary 7%, Austria 6% (2019)<br>
@@ -537,17 +539,22 @@ Italy 14%, Germany 14%, Slovenia 11%, Hungary 7%, Austria 6% (2019)<br>
 crude petroleum, cars, refined petroleum, packaged medicines, electricity (2019)<br>
 
 **Reserves of foreign exchange and gold**<br>
-$18.82 billion (31 December 2017 est.)<br>
-$14.24 billion (31 December 2016 est.)<br>
+$28.309 billion (31 December 2021 est.)<br>
+$23.254 billion (31 December 2020 est.)<br>
+$20.771 billion (31 December 2019 est.)<br>
 
 **Debt - external**<br>
 $48.263 billion (2019 est.)<br>
 $51.176 billion (2018 est.)<br>
 
 **Exchange rates**<br>
-_Currency_: euro per US dollar -<br>
-0.85 (2021 est.)<br>
-<strong>note:</strong> Prior to January 1, 2023, Croatia used the kuna as its currency, and it is currently accepting both currencies until January 15, 2023. However, kuna users will receive change in euros, and the exchange rate has been fixed at 7.53450 kuna to 1 euro. Persons may exchange currencies at Croatian post offices until June 30, 2023, free-of-charge, and at any Croatian bank until December 31, 2023.<br>
+_Currency_: euros (EUR) per US dollar -<br>
+0.845 (2021 est.)<br>
+0.876 (2020 est.)<br>
+0.893 (2019 est.)<br>
+0.847 (2018 est.)<br>
+0.885 (2017 est.)<br>
+<strong>note:</strong> Prior to 1 January 2023, Croatia used the kuna as its currency, and it is currently accepting both currencies until 15 January 2023. However, kuna users will receive change in euros, and the exchange rate has been fixed at 7.53450 kuna to 1 euro. Persons may exchange currencies at Croatian post offices until 30 June 2023, free-of-charge, and at any Croatian bank until 31 December  2023.<br>
 
 ## Energy
 

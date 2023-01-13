@@ -163,7 +163,7 @@ _female_: 80.65 years (2022 est.)<br>
 2.24 children born/woman (2022 est.)<br>
 
 **Gross reproduction rate**<br>
-1.09 (2022 est.)<br>
+1.09 (2023 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 NA<br>
@@ -211,11 +211,11 @@ _total_: 17.9% (2020 est.)<br>
 _male_: 33.5% (2020 est.)<br>
 _female_: 2.2% (2020 est.)<br>
 
-**Currently married women (ages 15-49)**<br>
-60.4% (2022 est.)<br>
-
 **Children under the age of 5 years underweight**<br>
 3% (2014)<br>
+
+**Currently married women (ages 15-49)**<br>
+59.6% (2023 est.)<br>
 
 **Education expenditures**<br>
 6.6% of GDP (2020 est.)<br>
@@ -232,9 +232,9 @@ _male_: 13 years<br>
 _female_: 16 years (2015)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 15.4%<br>
-_male_: 9.4%<br>
-_female_: 30% (2016 est.)<br>
+_total_: 25.5%<br>
+_male_: 17.1%<br>
+_female_: 46.2% (2021 est.)<br>
 
 ## Environment
 
@@ -389,27 +389,28 @@ _lyrics/music_: Ahmad MUSHARI al-Adwani/Ibrahim Nasir al-SOULA<br>
 <p>Kuwait has a geographically small, but wealthy, relatively open economy with crude oil reserves of about 102 billion barrels - more than 6% of world reserves. Kuwaiti officials plan to increase production to 4 million barrels of oil equivalent per day by 2020. Petroleum accounts for over half of GDP, 92% of export revenues, and 90% of government income.</p> <p> </p> <p>With world oil prices declining, Kuwait realized a budget deficit in 2015 for the first time more than a decade; in 2016, the deficit grew to 16.5% of GDP. Kuwaiti authorities announced cuts to fuel subsidies in August 2016, provoking outrage among the public and National Assembly, and the Amir dissolved the government for the seventh time in ten years. In 2017 the deficit was reduced to 7.2% of GDP, and the government raised $8 billion by issuing international bonds. Despite Kuwait’s dependence on oil, the government has cushioned itself against the impact of lower oil prices, by saving annually at least 10% of government revenue in the Fund for Future Generations.</p> <p> </p> <p>Kuwait has failed to diversify its economy or bolster the private sector, because of a poor business climate, a large public sector that employs about 74% of citizens, and an acrimonious relationship between the National Assembly and the executive branch that has stymied most economic reforms. The Kuwaiti Government has made little progress on its long-term economic development plan first passed in 2010. While the government planned to spend up to $104 billion over four years to diversify the economy, attract more investment, and boost private sector participation in the economy, many of the projects did not materialize because of an uncertain political situation or delays in awarding contracts. To increase non-oil revenues, the Kuwaiti Government in August 2017 approved draft bills supporting a Gulf Cooperation Council-wide value added tax scheduled to take effect in 2018.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
-$209.74 billion (2019 est.)<br>
-$208.85 billion (2018 est.)<br>
-$206.274 billion (2017 est.)<br>
+$191.522 billion (2020 est.)<br>
+$210.13 billion (2019 est.)<br>
+$211.296 billion (2018 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
--3.3% (2017 est.)<br>
-2.2% (2016 est.)<br>
--1% (2015 est.)<br>
+-8.86% (2020 est.)<br>
+-0.55% (2019 est.)<br>
+2.43% (2018 est.)<br>
 
 **Real GDP per capita**<br>
-$49,900 (2019 est.) note: data are in 2017 dollars<br>
-$50,500 (2018 est.) note: data are in 2017 dollars<br>
-$50,856 (2017 est.)<br>
+$43,900 (2020 est.) note: data are in 2017 dollars<br>
+$47,300 (2019 est.) note: data are in 2017 dollars<br>
+$48,900 (2018 est.)<br>
 
 **GDP (official exchange rate)**<br>
 $134.638 billion (2019 est.)<br>
 
 **Inflation rate (consumer prices)**<br>
-1.5% (2017 est.)<br>
-3.5% (2016 est.)<br>
+3.42% (2021 est.)<br>
+2.1% (2020 est.)<br>
+1.09% (2019 est.)<br>
 
 **Credit ratings**<br>
 _Fitch rating_: AA (2008)<br>
@@ -437,10 +438,10 @@ eggs, dates, tomatoes, cucumbers, poultry, milk, mutton, potatoes, vegetables, e
 petroleum, petrochemicals, cement, shipbuilding and repair, water desalination, food processing, construction materials<br>
 
 **Industrial production growth rate**<br>
-2.8% (2017 est.)<br>
+-12.2% (2020 est.)<br>
 
 **Labor force**<br>
-2.695 million (2017 est.)<br>
+2.363 million (2021 est.)<br>
 <strong>note:</strong> non-Kuwaitis represent about 60% of the labor force<br>
 
 **Labor force - by occupation**<br>
@@ -449,13 +450,14 @@ _industry_: NA<br>
 _services_: NA<br>
 
 **Unemployment rate**<br>
-1.1% (2017 est.)<br>
-1.1% (2016 est.)<br>
+3.71% (2021 est.)<br>
+3.54% (2020 est.)<br>
+2.17% (2019 est.)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 15.4%<br>
-_male_: 9.4%<br>
-_female_: 30% (2016 est.)<br>
+_total_: 25.5%<br>
+_male_: 17.1%<br>
+_female_: 46.2% (2021 est.)<br>
 
 **Population below poverty line**<br>
 NA<br>
@@ -482,12 +484,14 @@ _expenditures_: 62.6 billion (2017 est.)<br>
 1 April - 31 March<br>
 
 **Current account balance**<br>
-$7.127 billion (2017 est.)<br>
--$5.056 billion (2016 est.)<br>
+$34.943 billion (2021 est.)<br>
+$22.03 billion (2020 est.)<br>
+$30.255 billion (2019 est.)<br>
 
 **Exports**<br>
-$72.83 billion (2019 est.) note: data are in current year dollars<br>
-$85.2 billion (2018 est.) note: data are in current year dollars<br>
+$77.121 billion (2021 est.) note: data are in current year dollars<br>
+$47.416 billion (2020 est.) note: data are in current year dollars<br>
+$72.833 billion (2019 est.)<br>
 
 **Exports - partners**<br>
 China 20%, South Korea 16%, India 15%, Japan 10%, Taiwan 6%, Vietnam 5% (2019)<br>
@@ -496,8 +500,9 @@ China 20%, South Korea 16%, India 15%, Japan 10%, Taiwan 6%, Vietnam 5% (2019)<b
 crude petroleum, refined petroleum, aircraft, natural gas, industrial hydrocarbon products (2019)<br>
 
 **Imports**<br>
-$59.65 billion (2019 est.) note: data are in current year dollars<br>
-$68.2 billion (2018 est.) note: data are in current year dollars<br>
+$48.954 billion (2021 est.) note: data are in current year dollars<br>
+$44.015 billion (2020 est.) note: data are in current year dollars<br>
+$59.654 billion (2019 est.)<br>
 
 **Imports - partners**<br>
 China 14%, United Arab Emirates 12%, United States 10%, Saudi Arabia 6%, Japan 6%, Germany 5%, India 5% (2019)<br>
@@ -506,8 +511,9 @@ China 14%, United Arab Emirates 12%, United States 10%, Saudi Arabia 6%, Japan 6
 cars, broadcasting equipment, natural gas, packaged medicines, jewelry (2019)<br>
 
 **Reserves of foreign exchange and gold**<br>
-$33.7 billion (31 December 2017 est.)<br>
-$31.13 billion (31 December 2016 est.)<br>
+$49.525 billion (31 December 2021 est.)<br>
+$52.919 billion (31 December 2020 est.)<br>
+$43.668 billion (31 December 2019 est.)<br>
 
 **Debt - external**<br>
 $47.24 billion (31 December 2017 est.)<br>
@@ -515,11 +521,11 @@ $38.34 billion (31 December 2016 est.)<br>
 
 **Exchange rates**<br>
 _Currency_: Kuwaiti dinars (KD) per US dollar -<br>
-0.3049 (2020 est.)<br>
-0.3037 (2019 est.)<br>
-0.304 (2018 est.)<br>
-0.3009 (2014 est.)<br>
-0.2845 (2013 est.)<br>
+0.302 (2021 est.)<br>
+0.306 (2020 est.)<br>
+0.304 (2019 est.)<br>
+0.302 (2018 est.)<br>
+0.303 (2017 est.)<br>
 
 ## Energy
 

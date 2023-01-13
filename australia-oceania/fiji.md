@@ -157,7 +157,7 @@ _female_: 77.07 years (2022 est.)<br>
 2.26 children born/woman (2022 est.)<br>
 
 **Gross reproduction rate**<br>
-1.1 (2022 est.)<br>
+1.09 (2023 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 35.5% (2021)<br>
@@ -210,11 +210,11 @@ _total_: 23.1% (2020 est.)<br>
 _male_: 35.6% (2020 est.)<br>
 _female_: 10.5% (2020 est.)<br>
 
-**Currently married women (ages 15-49)**<br>
-59% (2022 est.)<br>
-
 **Children under the age of 5 years underweight**<br>
 NA<br>
+
+**Currently married women (ages 15-49)**<br>
+58.8% (2023 est.)<br>
 
 **Education expenditures**<br>
 5.7% of GDP (2020 est.)<br>
@@ -225,9 +225,9 @@ _male_: 99.1%<br>
 _female_: 99.1% (2018)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 15.4%<br>
-_male_: 11.9%<br>
-_female_: 22.4% (2016 est.)<br>
+_total_: 18.1%<br>
+_male_: 14.1%<br>
+_female_: 25.9% (2021 est.)<br>
 
 ## Environment
 
@@ -387,28 +387,29 @@ _selected World Heritage Site locales_: Levuka Historical Port Town<br>
 <p>Fiji, endowed with forest, mineral, and fish resources, is one of the most developed and connected of the Pacific island economies. Earnings from the tourism industry, with an estimated 842,884 tourists visiting in 2017, and remittances from Fijian’s working abroad are the country’s largest foreign exchange earners.</p> <p> </p> <p>Bottled water exports to the US is Fiji’s largest domestic export. Fiji's sugar sector remains a significant industry and a major export, but crops and one of the sugar mills suffered damage during Cyclone Winston in 2016. Fiji’s trade imbalance continues to widen with increased imports and sluggish performance of domestic exports.</p> <p> </p> <p>The return to parliamentary democracy and successful elections in September 2014 improved investor confidence, but increasing bureaucratic regulation, new taxes, and lack of consultation with relevant stakeholders brought four consecutive years of decline for Fiji on the World Bank Ease of Doing Business index. Private sector investment in 2017 approached 20% of GDP, compared to 13% in 2013.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
-$9.86 billion (2020 est.)<br>
-$12.18 billion (2019 est.)<br>
-$12.23 billion (2018 est.)<br>
+$9.578 billion (2021 est.)<br>
+$10.094 billion (2020 est.)<br>
+$12.162 billion (2019 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
-3% (2017 est.)<br>
-0.7% (2016 est.)<br>
-3.8% (2015 est.)<br>
+-5.11% (2021 est.)<br>
+-17% (2020 est.)<br>
+-0.58% (2019 est.)<br>
 
 **Real GDP per capita**<br>
+$10,400 (2021 est.)<br>
 $11,000 (2020 est.)<br>
-$13,700 (2019 est.)<br>
-$13,800 (2018 est.)<br>
+$13,200 (2019 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
 $4.891 billion (2017 est.)<br>
 
 **Inflation rate (consumer prices)**<br>
-3.4% (2017 est.)<br>
-3.9% (2016 est.)<br>
+0.16% (2021 est.)<br>
+-2.6% (2020 est.)<br>
+1.77% (2019 est.)<br>
 
 **Credit ratings**<br>
 _Moody's rating_: Ba3 (2017)<br>
@@ -435,10 +436,10 @@ sugar cane, cassava, taro, poultry, vegetables, coconuts, eggs, milk, ginger, sw
 tourism, sugar processing, clothing, copra, gold, silver, lumber<br>
 
 **Industrial production growth rate**<br>
-2.8% (2017 est.)<br>
+-8.34% (2021 est.)<br>
 
 **Labor force**<br>
-353,100 (2017 est.)<br>
+372,200 (2021 est.)<br>
 
 **Labor force - by occupation**<br>
 _agriculture_: 44.2%<br>
@@ -446,19 +447,20 @@ _industry_: 14.3%<br>
 _services_: 41.6% (2011)<br>
 
 **Unemployment rate**<br>
-4.5% (2017 est.)<br>
-5.5% (2016 est.)<br>
+5.24% (2021 est.)<br>
+4.72% (2020 est.)<br>
+4.45% (2019 est.)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 15.4%<br>
-_male_: 11.9%<br>
-_female_: 22.4% (2016 est.)<br>
+_total_: 18.1%<br>
+_male_: 14.1%<br>
+_female_: 25.9% (2021 est.)<br>
 
 **Population below poverty line**<br>
 29.9% (2019 est.)<br>
 
 **Gini Index coefficient - distribution of family income**<br>
-36.7 (2013 est.)<br>
+30.7 (2019 est.)<br>
 
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 2.6%<br>
@@ -476,19 +478,20 @@ _expenditures_: 1.648 billion (2017 est.)<br>
 47.5% of GDP (2016 est.)<br>
 
 **Taxes and other revenues**<br>
-29.7% (of GDP) (2017 est.)<br>
+19.26% (of GDP) (2020 est.)<br>
 
 **Fiscal year**<br>
 calendar year<br>
 
 **Current account balance**<br>
--$277 million (2017 est.)<br>
--$131 million (2016 est.)<br>
+-$597.29 million (2021 est.)<br>
+-$575.635 million (2020 est.)<br>
+-$689.438 million (2019 est.)<br>
 
 **Exports**<br>
+$1.171 billion (2021 est.) note: data are in current year dollars<br>
 $1.23 billion (2020 est.) note: data are in current year dollars<br>
-$2.64 billion (2019 est.) note: data are in current year dollars<br>
-$2.67 billion (2018 est.) note: data are in current year dollars<br>
+$2.636 billion (2019 est.) note: data are in current year dollars<br>
 
 **Exports - partners**<br>
 United States 29%, Australia 14%, New Zealand 7%, Japan 6%, Tonga 6% (2019)<br>
@@ -497,9 +500,9 @@ United States 29%, Australia 14%, New Zealand 7%, Japan 6%, Tonga 6% (2019)<br>
 water, refined petroleum, fish, raw sugar, gold (2019)<br>
 
 **Imports**<br>
-$1.97 billion (2020 est.) note: data are in current year dollars<br>
-$3.21 billion (2019 est.) note: data are in current year dollars<br>
-$3.1 billion (2018 est.) note: data are in current year dollars<br>
+$2.344 billion (2021 est.) note: data are in current year dollars<br>
+$1.977 billion (2020 est.) note: data are in current year dollars<br>
+$3.206 billion (2019 est.) note: data are in current year dollars<br>
 
 **Imports - partners**<br>
 Singapore 18%, Australia 13%, China 13.8%, New Zealand 11%, France 11%, South Korea 8% (2017)<br>
@@ -508,8 +511,9 @@ Singapore 18%, Australia 13%, China 13.8%, New Zealand 11%, France 11%, South Ko
 refined petroleum, aircraft, cars, wheat, broadcasting equipment (2019)<br>
 
 **Reserves of foreign exchange and gold**<br>
-$1.116 billion (31 December 2017 est.)<br>
-$908.6 million (31 December 2016 est.)<br>
+$1.518 billion (31 December 2021 est.)<br>
+$1.082 billion (31 December 2020 est.)<br>
+$1.043 billion (31 December 2019 est.)<br>
 
 **Debt - external**<br>
 $1.022 billion (31 December 2017 est.)<br>
@@ -517,11 +521,11 @@ $696.4 million (31 December 2016 est.)<br>
 
 **Exchange rates**<br>
 _Currency_: Fijian dollars (FJD) per US dollar -<br>
-2.05955 (2020 est.)<br>
-2.17345 (2019 est.)<br>
-2.1104 (2018 est.)<br>
-2.0976 (2014 est.)<br>
-1.8874 (2013 est.)<br>
+2.071 (2021 est.)<br>
+2.169 (2020 est.)<br>
+2.16 (2019 est.)<br>
+2.087 (2018 est.)<br>
+2.067 (2017 est.)<br>
 
 ## Energy
 

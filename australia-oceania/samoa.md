@@ -155,7 +155,7 @@ _female_: 78.25 years (2022 est.)<br>
 2.42 children born/woman (2022 est.)<br>
 
 **Gross reproduction rate**<br>
-1.18 (2022 est.)<br>
+1.16 (2023 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 16.6% (2019/20)<br>
@@ -205,11 +205,11 @@ _total_: 25.3% (2020 est.)<br>
 _male_: 36.1% (2020 est.)<br>
 _female_: 14.5% (2020 est.)<br>
 
-**Currently married women (ages 15-49)**<br>
-61.7% (2022 est.)<br>
-
 **Children under the age of 5 years underweight**<br>
 3.4% (2019/20)<br>
+
+**Currently married women (ages 15-49)**<br>
+61.7% (2023 est.)<br>
 
 **Child marriage**<br>
 _women married by age 15_: 0.9%<br>
@@ -226,9 +226,9 @@ _male_: 99%<br>
 _female_: 99.2% (2018)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 19.6%<br>
-_male_: 13.3%<br>
-_female_: 30% (2017 est.)<br>
+_total_: 19.7%<br>
+_male_: 16.7%<br>
+_female_: 24.5% (2021 est.)<br>
 
 ## Environment
 
@@ -382,28 +382,29 @@ _lyrics/music_: Sauni Liga KURESA<br>
 <p>The economy of Samoa has traditionally been dependent on development aid, family remittances from overseas, tourism, agriculture, and fishing. It has a nominal GDP of $844 million. Agriculture, including fishing, furnishes 90% of exports, featuring fish, coconut oil, nonu products, and taro. The manufacturing sector mainly processes agricultural products. Industry accounts for nearly 22% of GDP while employing less than 6% of the work force. The service sector accounts for nearly two-thirds of GDP and employs approximately 50% of the labor force. Tourism is an expanding sector accounting for 25% of GDP; 132,000 tourists visited the islands in 2013.</p> <p> </p> <p>The country is vulnerable to devastating storms. In September 2009, an earthquake and the resulting tsunami severely damaged Samoa and nearby American Samoa, disrupting transportation and power generation, and resulting in about 200 deaths. In December 2012, extensive flooding and wind damage from Tropical Cyclone Evan killed four people, displaced over 6,000, and damaged or destroyed an estimated 1,500 homes on Samoa's Upolu Island.</p> <p> </p> <p>The Samoan Government has called for deregulation of the country's financial sector, encouragement of investment, and continued fiscal discipline, while at the same time protecting the environment. Foreign reserves are relatively healthy and inflation is low, but external debt is approximately 45% of GDP. Samoa became the 155th member of the WTO in May 2012, and graduated from least developed country status in January 2014.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
-$1.25 billion (2020 est.)<br>
-$1.28 billion (2019 est.)<br>
-$1.24 billion (2018 est.)<br>
+$1.211 billion (2021 est.)<br>
+$1.303 billion (2020 est.)<br>
+$1.345 billion (2019 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
-2.5% (2017 est.)<br>
-7.1% (2016 est.)<br>
-1.6% (2015 est.)<br>
+-7.08% (2021 est.)<br>
+-3.11% (2020 est.)<br>
+4.45% (2019 est.)<br>
 
 **Real GDP per capita**<br>
-$6,300 (2020 est.)<br>
-$6,500 (2019 est.)<br>
-$6,300 (2018 est.)<br>
+$5,500 (2021 est.)<br>
+$6,100 (2020 est.)<br>
+$6,300 (2019 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
 $841 million (2017 est.)<br>
 
 **Inflation rate (consumer prices)**<br>
-1.3% (2017 est.)<br>
-0.1% (2016 est.)<br>
+3.13% (2021 est.)<br>
+-1.57% (2020 est.)<br>
+0.98% (2019 est.)<br>
 
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 10.4% (2017 est.)<br>
@@ -425,10 +426,10 @@ coconuts, taro, bananas, yams, tropical fruit, pineapples, mangoes/guavas, papay
 food processing, building materials, auto parts<br>
 
 **Industrial production growth rate**<br>
--1.8% (2017 est.)<br>
+-9.65% (2021 est.)<br>
 
 **Labor force**<br>
-50,700 (2016 est.)<br>
+58,400 (2021 est.)<br>
 
 **Labor force - by occupation**<br>
 _agriculture_: 65%<br>
@@ -436,14 +437,15 @@ _industry_: 6%<br>
 _services_: 29% (2015 est.)<br>
 
 **Unemployment rate**<br>
-5.2% (2017 est.)<br>
-5.5% (2016 est.)<br>
+9.84% (2021 est.)<br>
+9.15% (2020 est.)<br>
+8.41% (2019 est.)<br>
 NA<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 19.6%<br>
-_male_: 13.3%<br>
-_female_: 30% (2017 est.)<br>
+_total_: 19.7%<br>
+_male_: 16.7%<br>
+_female_: 24.5% (2021 est.)<br>
 
 **Population below poverty line**<br>
 20.3% (2013 est.)<br>
@@ -467,17 +469,20 @@ _expenditures_: 276.8 million (2017 est.)<br>
 52.6% of GDP (2016 est.)<br>
 
 **Taxes and other revenues**<br>
-28.2% (of GDP) (2017 est.)<br>
+24.42% (of GDP) (2020 est.)<br>
 
 **Fiscal year**<br>
 June 1 - May 31<br>
 
 **Current account balance**<br>
--$19 million (2017 est.)<br>
--$37 million (2016 est.)<br>
+-$118.081 million (2021 est.)<br>
+-$79.68 million (2020 est.)<br>
+$34.073 million (2019 est.)<br>
 
 **Exports**<br>
-$310 million (2018 est.) note: data are in current year dollars<br>
+$97.774 million (2021 est.) note: data are in current year dollars<br>
+$116.519 million (2020 est.)<br>
+$336.782 million (2019 est.)<br>
 
 **Exports - partners**<br>
 American Samoa 21%, United States 13%, New Zealand 12%, Australia 10%, Tokelau 6%, Taiwan 5% (2019)<br>
@@ -486,8 +491,9 @@ American Samoa 21%, United States 13%, New Zealand 12%, Australia 10%, Tokelau 6
 refined petroleum, fish, fruit juice, coconut oil, beer (2019)<br>
 
 **Imports**<br>
-$430 million (2018 est.) note: data are in current year dollars<br>
-$312.6 million (2016 est.)<br>
+$430.011 million (2021 est.) note: data are in current year dollars<br>
+$376.791 million (2020 est.)<br>
+$456.707 million (2019 est.)<br>
 
 **Imports - partners**<br>
 New Zealand 22%, China 16%, Singapore 13%, United States 10%, Australia 9%, South Korea 8%, Fiji 5% (2019)<br>
@@ -496,19 +502,20 @@ New Zealand 22%, China 16%, Singapore 13%, United States 10%, Australia 9%, Sout
 refined petroleum, iron products, poultry meats, cars, insulated wiring (2019)<br>
 
 **Reserves of foreign exchange and gold**<br>
-$133 million (31 December 2017 est.)<br>
-$122.5 million (31 December 2015 est.)<br>
+$294.682 million (31 December 2021 est.)<br>
+$277.056 million (31 December 2020 est.)<br>
+$177.244 million (31 December 2019 est.)<br>
 
 **Debt - external**<br>
 $447.2 million (31 December 2013 est.)<br>
 
 **Exchange rates**<br>
 _Currency_: tala (SAT) per US dollar -<br>
-2.54712 (2020 est.)<br>
-2.65534 (2019 est.)<br>
-2.57069 (2018 est.)<br>
-2.5609 (2014 est.)<br>
-2.3318 (2013 est.)<br>
+2.556 (2021 est.)<br>
+2.665 (2020 est.)<br>
+2.649 (2019 est.)<br>
+2.587 (2018 est.)<br>
+2.554 (2017 est.)<br>
 
 ## Energy
 

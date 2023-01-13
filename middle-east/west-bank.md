@@ -160,7 +160,7 @@ _female_: 78.6 years (2022 est.)<br>
 2.96 children born/woman (2022 est.)<br>
 
 **Gross reproduction rate**<br>
-1.44 (2022 est.)<br>
+1.41 (2023 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 57.3% (2019/20)<br>
@@ -199,13 +199,13 @@ NA<br>
 **Major infectious diseases**<br>
 <p><strong>note: </strong>on 21 March 2022, the US Centers for Disease Control and Prevention (CDC) issued a Travel Alert for polio in Asia; the West Bank is currently considered a high risk to travelers for polio; the CDC recommends that before any international travel, anyone unvaccinated, incompletely vaccinated, or with an unknown polio vaccination status should complete the routine polio vaccine series; before travel to any high-risk destination, the CDC recommends that adults who previously completed the full, routine polio vaccine series receive a single, lifetime booster dose of polio vaccine</p><br>
 
-**Currently married women (ages 15-49)**<br>
-62.3% (2022 est.)<br>
-<strong>note:</strong> data includes Gaza and the West Bank<br>
-
 **Children under the age of 5 years underweight**<br>
 2.1% (2019/20)<br>
 <strong>note:</strong> estimate is for Gaza Strip and the West Bank<br>
+
+**Currently married women (ages 15-49)**<br>
+62.4% (2023 est.)<br>
+<strong>note:</strong> data includes Gaza and the West Bank<br>
 
 **Child marriage**<br>
 _women married by age 15_: 0.7%<br>
@@ -230,9 +230,9 @@ _female_: 14 years (2021)<br>
 <strong>note:</strong> data represent Gaza Strip and the West Bank<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 41.7%<br>
-_male_: 37.3%<br>
-_female_: 64.5% (2021 est.)<br>
+_total_: 39.6%<br>
+_male_: 33.7%<br>
+_female_: 69% (2021 est.)<br>
 <strong>note:</strong> includes Gaza Strip<br>
 
 ## Environment
@@ -299,21 +299,21 @@ _etymology_: name refers to the location of the region of the British Mandate of
 <p>In 2017, the economic outlook in the West Bank - the larger of the two areas comprising the Palestinian Territories – remained fragile, as security concerns and political friction slowed economic growth. Unemployment in the West Bank remained high at 19.0% in the third quarter of 2017, only slightly better than 19.6% at the same point the previous year, while the labor force participation rate remained flat, year-on-year.</p><p></p><p>Longstanding Israeli restrictions on imports, exports, and movement of goods and people continue to disrupt labor and trade flows and the territory’s industrial capacity, and constrain private sector development. The PA’s budget benefited from an effort to improve tax collection, coupled with lower spending in 2017, but the PA for the foreseeable future will continue to rely heavily on donor aid for its budgetary needs and infrastructure development.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
-$25.91 billion (2020 est.)<br>
-$29.26 billion (2019 est.)<br>
-$28.87 billion (2018 est.)<br>
+$27.779 billion (2021 est.)<br>
+$25.95 billion (2020 est.)<br>
+$29.262 billion (2019 est.)<br>
 <strong>note: </strong>data are in 2017 dollars and includes Gaza Strip<br>
 
 **Real GDP growth rate**<br>
-5.3% (2014 est.)<br>
-1% (2013 est.)<br>
-6% (2012 est.)<br>
+7.05% (2021 est.)<br>
+-11.32% (2020 est.)<br>
+1.36% (2019 est.)<br>
 <strong>note:</strong> excludes Gaza Strip<br>
 
 **Real GDP per capita**<br>
+$5,600 (2021 est.)<br>
 $5,400 (2020 est.)<br>
 $6,200 (2019 est.)<br>
-$6,300 (2018 est.)<br>
 <strong>note: </strong>data are in 2017 dollars and includes Gaza Strip<br>
 
 **GDP (official exchange rate)**<br>
@@ -321,8 +321,9 @@ $9.828 billion (2014 est.)<br>
 <strong>note:</strong> excludes Gaza Strip<br>
 
 **Inflation rate (consumer prices)**<br>
-0.2% (2017 est.)<br>
--0.2% (2016 est.)<br>
+1.24% (2021 est.)<br>
+-0.74% (2020 est.)<br>
+1.58% (2019 est.)<br>
 <strong>note:</strong> excludes Gaza Strip<br>
 
 **GDP - composition, by sector of origin**<br>
@@ -347,11 +348,11 @@ tomatoes, cucumbers, olives, poultry, milk, potatoes, sheep milk, eggplants, gou
 small-scale manufacturing, quarrying, textiles, soap, olive-wood carvings, and mother-of-pearl souvenirs<br>
 
 **Industrial production growth rate**<br>
-2.2% (2017 est.)<br>
+6.22% (2021 est.)<br>
 <strong>note:</strong> includes Gaza Strip<br>
 
 **Labor force**<br>
-1.24 million (2017 est.)<br>
+1.249 million (2021 est.)<br>
 <strong>note:</strong> excludes Gaza Strip<br>
 
 **Labor force - by occupation**<br>
@@ -361,14 +362,15 @@ _services_: 54.1% (2013 est.)<br>
 <strong>note:</strong> excludes Gaza Strip<br>
 
 **Unemployment rate**<br>
-27.9% (2017 est.)<br>
-27% (2016 est.)<br>
+24.9% (2021 est.)<br>
+25.89% (2020 est.)<br>
+25.34% (2019 est.)<br>
 <strong>note:</strong> excludes Gaza Strip<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 41.7%<br>
-_male_: 37.3%<br>
-_female_: 64.5% (2021 est.)<br>
+_total_: 39.6%<br>
+_male_: 33.7%<br>
+_female_: 69% (2021 est.)<br>
 <strong>note:</strong> includes Gaza Strip<br>
 
 **Population below poverty line**<br>
@@ -376,7 +378,6 @@ _female_: 64.5% (2021 est.)<br>
 
 **Gini Index coefficient - distribution of family income**<br>
 33.7 (2016 est.)<br>
-38.7 (2007 est.)<br>
 <strong>note:</strong> includes Gaza Strip<br>
 
 **Household income or consumption by percentage share**<br>
@@ -397,34 +398,38 @@ _expenditures_: 1.278 billion (2017 est.)<br>
 23.8% of GDP (2013 est.)<br>
 
 **Taxes and other revenues**<br>
-13.4% (of GDP) (2017 est.)<br>
+18.78% (of GDP) (2018 est.)<br>
 
 **Fiscal year**<br>
 calendar year<br>
 
 **Current account balance**<br>
--$1.444 billion (2017 est.)<br>
--$1.348 billion (2016 est.)<br>
+-$1.486 billion (2021 est.)<br>
+-$1.903 billion (2020 est.)<br>
+-$1.779 billion (2019 est.)<br>
 
 **Exports**<br>
-$2.65 billion (2019 est.) note: data are in current year dollars and includes Gaza Strip<br>
-$2.6 billion (2018 est.) note: data are in current year dollars and includes Gaza Strip<br>
+$3.18 billion (2021 est.) note: data are in current year dollars and includes Gaza Strip<br>
+$2.385 billion (2020 est.) note: data are in current year dollars and includes Gaza Strip<br>
+$2.659 billion (2019 est.)<br>
 <strong>note:</strong> excludes Gaza Strip<br>
 
 **Exports - commodities**<br>
 stone, olives, fruit, vegetables, limestone<br>
 
 **Imports**<br>
-$9.15 billion (2019 est.) note: data are in current year dollars and includes Gaza Strip<br>
-$9.02 billion (2018 est.) note: data are in current year dollars and includes Gaza Strip<br>
+$10.245 billion (2021 est.) note: data are in current year dollars and includes Gaza Strip<br>
+$8.065 billion (2020 est.) note: data are in current year dollars and includes Gaza Strip<br>
+$9.161 billion (2019 est.)<br>
 <strong>note:</strong> data include the Gaza Strip<br>
 
 **Imports - commodities**<br>
 food, consumer goods, construction materials, petroleum, chemicals<br>
 
 **Reserves of foreign exchange and gold**<br>
-$0 (31 December 2017 est.)<br>
-$583 million (31 December 2015 est.)<br>
+$872.541 million (31 December 2021 est.)<br>
+$697.075 million (31 December 2020 est.)<br>
+$658.352 million (31 December 2019 est.)<br>
 
 **Debt - external**<br>
 $1.662 billion (31 March 2016 est.)<br>

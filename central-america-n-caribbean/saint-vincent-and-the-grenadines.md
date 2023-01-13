@@ -155,7 +155,7 @@ _female_: 78.79 years (2022 est.)<br>
 1.75 children born/woman (2022 est.)<br>
 
 **Gross reproduction rate**<br>
-0.86 (2022 est.)<br>
+0.86 (2023 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 NA<br>
@@ -194,11 +194,11 @@ _wine_: 0.24 liters of pure alcohol (2019 est.)<br>
 _spirits_: 4.48 liters of pure alcohol (2019 est.)<br>
 _other alcohols_: 0.23 liters of pure alcohol (2019 est.)<br>
 
-**Currently married women (ages 15-49)**<br>
-53.3% (2022 est.)<br>
-
 **Children under the age of 5 years underweight**<br>
 NA<br>
+
+**Currently married women (ages 15-49)**<br>
+53.3% (2023 est.)<br>
 
 **Education expenditures**<br>
 5.7% of GDP (2018 est.)<br>
@@ -212,6 +212,11 @@ _female_: NA<br>
 _total_: 14 years<br>
 _male_: 14 years<br>
 _female_: 15 years (2015)<br>
+
+**Youth unemployment rate (ages 15-24)**<br>
+_total_: 41.1%<br>
+_male_: 39.7%<br>
+_female_: 43.9% (2021 est.)<br>
 
 ## Environment
 
@@ -353,28 +358,29 @@ _lyrics/music_: Phyllis Joyce MCCLEAN PUNNETT/Joel Bertram MIGUEL<br>
 <p>Success of the economy hinges upon seasonal variations in agriculture, tourism, and construction activity, as well as remittances. Much of the workforce is employed in banana production and tourism. Saint Vincent and the Grenadines is home to a small offshore banking sector and continues to fully adopt international regulatory standards.</p> <p> </p> <p>This lower-middle-income country remains vulnerable to natural and external shocks. The economy has shown some signs of recovery due to increased tourist arrivals, falling oil prices and renewed growth in the construction sector. The much anticipated international airport opened in early 2017 with hopes for increased airlift and tourism activity. The government's ability to invest in social programs and respond to external shocks is constrained by its high public debt burden, which was 67% of GDP at the end of 2013.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
-$1.34 billion (2020 est.)<br>
-$1.38 billion (2019 est.)<br>
-$1.37 billion (2018 est.)<br>
+$1.429 billion (2021 est.)<br>
+$1.41 billion (2020 est.)<br>
+$1.489 billion (2019 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
-0.7% (2017 est.)<br>
-0.8% (2016 est.)<br>
-0.8% (2015 est.)<br>
+1.35% (2021 est.)<br>
+-5.31% (2020 est.)<br>
+0.4% (2019 est.)<br>
 
 **Real GDP per capita**<br>
-$12,100 (2020 est.)<br>
-$12,500 (2019 est.)<br>
-$12,500 (2018 est.)<br>
+$13,700 (2021 est.)<br>
+$13,500 (2020 est.)<br>
+$14,200 (2019 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
 $785 million (2017 est.)<br>
 
 **Inflation rate (consumer prices)**<br>
-2.2% (2017 est.)<br>
--0.2% (2016 est.)<br>
+1.57% (2021 est.)<br>
+-0.63% (2020 est.)<br>
+0.91% (2019 est.)<br>
 
 **Credit ratings**<br>
 _Moody's rating_: B3 (2014)<br>
@@ -400,10 +406,10 @@ bananas, sugar cane, roots/tubers, plantains, vegetables, fruit, coconuts, sweet
 tourism; food processing, cement, furniture, clothing, starch<br>
 
 **Industrial production growth rate**<br>
-2.5% (2017 est.)<br>
+5.7% (2021 est.)<br>
 
 **Labor force**<br>
-57,520 (2007 est.)<br>
+51,700 (2021 est.)<br>
 
 **Labor force - by occupation**<br>
 _agriculture_: 26%<br>
@@ -411,7 +417,14 @@ _industry_: 17%<br>
 _services_: 57% (1980 est.)<br>
 
 **Unemployment rate**<br>
-18.8% (2008 est.)<br>
+21.62% (2021 est.)<br>
+21% (2020 est.)<br>
+19.28% (2019 est.)<br>
+
+**Youth unemployment rate (ages 15-24)**<br>
+_total_: 41.1%<br>
+_male_: 39.7%<br>
+_female_: 43.9% (2021 est.)<br>
 
 **Population below poverty line**<br>
 NA<br>
@@ -432,18 +445,20 @@ _expenditures_: 230 million (2017 est.)<br>
 82.8% of GDP (2016 est.)<br>
 
 **Taxes and other revenues**<br>
-28.7% (of GDP) (2017 est.)<br>
+23.7% (of GDP) (2017 est.)<br>
 
 **Fiscal year**<br>
 calendar year<br>
 
 **Current account balance**<br>
--$116 million (2017 est.)<br>
--$122 million (2016 est.)<br>
+-$211.643 million (2021 est.)<br>
+-$131.46 million (2020 est.)<br>
+-$27.903 million (2019 est.)<br>
 
 **Exports**<br>
-$320 million (2018 est.) note: data are in current year dollars<br>
-$47.3 million (2016 est.)<br>
+$125.777 million (2021 est.) note: data are in current year dollars<br>
+$188.834 million (2020 est.)<br>
+$327.51 million (2019 est.)<br>
 
 **Exports - partners**<br>
 Jordan 39%, Singapore 14% (2019)<br>
@@ -452,8 +467,9 @@ Jordan 39%, Singapore 14% (2019)<br>
 natural gas, drilling platforms and ships, recreational boats, collector's items, eddoes and dasheen (taro), arrowroot starch (2019)<br>
 
 **Imports**<br>
-$450 million (2018 est.) note: data are in current year dollars<br>
-$294.6 million (2016 est.)<br>
+$415.725 million (2021 est.) note: data are in current year dollars<br>
+$373.621 million (2020 est.)<br>
+$425.28 million (2019 est.)<br>
 
 **Imports - partners**<br>
 United States 30%, Trinidad and Tobago 12%, China 8%, United Kingdom 6% (2019)<br>
@@ -462,8 +478,9 @@ United States 30%, Trinidad and Tobago 12%, China 8%, United Kingdom 6% (2019)<b
 refined petroleum, ships, poultry meats, tug boats, recreational boats (2019)<br>
 
 **Reserves of foreign exchange and gold**<br>
-$182.1 million (31 December 2017 est.)<br>
-$192.3 million (31 December 2016 est.)<br>
+$311.903 million (31 December 2021 est.)<br>
+$205.195 million (31 December 2020 est.)<br>
+$193.357 million (31 December 2019 est.)<br>
 
 **Debt - external**<br>
 $362.2 million (31 December 2017 est.)<br>
@@ -471,11 +488,11 @@ $330.8 million (31 December 2016 est.)<br>
 
 **Exchange rates**<br>
 _Currency_: East Caribbean dollars (XCD) per US dollar -<br>
+2.7 (2021 est.)<br>
+2.7 (2020 est.)<br>
+2.7 (2019 est.)<br>
+2.7 (2018 est.)<br>
 2.7 (2017 est.)<br>
-2.7 (2016 est.)<br>
-2.7 (2015 est.)<br>
-2.7 (2014 est.)<br>
-2.7 (2013 est.)<br>
 
 ## Energy
 

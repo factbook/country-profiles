@@ -171,7 +171,7 @@ _female_: 67.86 years (2022 est.)<br>
 3.33 children born/woman (2022 est.)<br>
 
 **Gross reproduction rate**<br>
-1.64 (2022 est.)<br>
+1.59 (2023 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 64.1% (2019/20)<br>
@@ -222,11 +222,11 @@ _total_: 13.7% (2020 est.)<br>
 _male_: 20.1% (2020 est.)<br>
 _female_: 7.2% (2020 est.)<br>
 
-**Currently married women (ages 15-49)**<br>
-50.4% (2022 est.)<br>
-
 **Children under the age of 5 years underweight**<br>
 7.7% (2019/20)<br>
+
+**Currently married women (ages 15-49)**<br>
+50.4% (2023 est.)<br>
 
 **Education expenditures**<br>
 3.8% of GDP (2021 est.)<br>
@@ -243,9 +243,9 @@ _male_: 11 years<br>
 _female_: 11 years (2019)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 17.2%<br>
-_male_: 15.5%<br>
-_female_: 19% (2020 est.)<br>
+_total_: 2.9%<br>
+_male_: 2.2%<br>
+_female_: 3.6% (2021 est.)<br>
 
 ## Environment
 
@@ -411,29 +411,29 @@ _lyrics/music_: Faustin MURIGO/Jean-Bosco HASHAKAIMANA<br>
 <p>Rwanda is a rural, agrarian country with agriculture accounting for about 63% of export earnings, and with some mineral and agro-processing. Population density is high but, with the exception of the capital Kigali, is not concentrated in large cities – its 12 million people are spread out on a small amount of land (smaller than the state of Maryland). Tourism, minerals, coffee, and tea are Rwanda's main sources of foreign exchange. Despite Rwanda's fertile ecosystem, food production often does not keep pace with demand, requiring food imports. Energy shortages, instability in neighboring states, and lack of adequate transportation linkages to other countries continue to handicap private sector growth.</p> <p> </p> <p>The 1994 genocide decimated Rwanda's fragile economic base, severely impoverished the population, particularly women, and temporarily stalled the country's ability to attract private and external investment. However, Rwanda has made substantial progress in stabilizing and rehabilitating its economy well beyond pre-1994 levels. GDP has rebounded with an average annual growth of 6%-8% since 2003 and inflation has been reduced to single digits. In 2015, 39% of the population lived below the poverty line, according to government statistics, compared to 57% in 2006.</p> <p> </p> <p>The government has embraced an expansionary fiscal policy to reduce poverty by improving education, infrastructure, and foreign and domestic investment. Rwanda consistently ranks well for ease of doing business and transparency.</p> <p> </p> <p>The Rwandan Government is seeking to become a regional leader in information and communication technologies and aims to reach middle-income status by 2020 by leveraging the service industry. In 2012, Rwanda completed the first modern Special Economic Zone (SEZ) in Kigali. The SEZ seeks to attract investment in all sectors, but specifically in agribusiness, information and communications, trade and logistics, mining, and construction. In 2016, the government launched an online system to give investors information about public land and its suitability for agricultural development.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
-$27.18 billion (2020 est.)<br>
-$28.13 billion (2019 est.)<br>
-$25.7 billion (2018 est.)<br>
+$30.141 billion (2021 est.)<br>
+$27.182 billion (2020 est.)<br>
+$28.127 billion (2019 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
-6.1% (2017 est.)<br>
-6% (2016 est.)<br>
-8.9% (2015 est.)<br>
+10.88% (2021 est.)<br>
+-3.36% (2020 est.)<br>
+9.46% (2019 est.)<br>
 
 **Real GDP per capita**<br>
+$2,200 (2021 est.)<br>
 $2,100 (2020 est.)<br>
 $2,200 (2019 est.)<br>
-$2,100 (2018 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
 $9.136 billion (2017 est.)<br>
 
 **Inflation rate (consumer prices)**<br>
-3.3% (2019 est.)<br>
--0.3% (2018 est.)<br>
-8.4% (2017 est.)<br>
+-0.39% (2021 est.)<br>
+9.85% (2020 est.)<br>
+3.35% (2019 est.)<br>
 
 **Credit ratings**<br>
 _Fitch rating_: B+ (2014)<br>
@@ -461,10 +461,10 @@ bananas, sweet potatoes, cassava, potatoes, plantains, beans, maize, gourds, mil
 cement, agricultural products, small-scale beverages, soap, furniture, shoes, plastic goods, textiles, cigarettes<br>
 
 **Industrial production growth rate**<br>
-4.2% (2017 est.)<br>
+13.4% (2021 est.)<br>
 
 **Labor force**<br>
-6.227 million (2017 est.)<br>
+6.776 million (2021 est.)<br>
 
 **Labor force - by occupation**<br>
 _agriculture_: 75.3%<br>
@@ -472,19 +472,20 @@ _industry_: 6.7%<br>
 _services_: 18% (2012 est.)<br>
 
 **Unemployment rate**<br>
-2.7% (2014 est.)<br>
+1.61% (2021 est.)<br>
+1.49% (2020 est.)<br>
+1.1% (2019 est.)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 17.2%<br>
-_male_: 15.5%<br>
-_female_: 19% (2020 est.)<br>
+_total_: 2.9%<br>
+_male_: 2.2%<br>
+_female_: 3.6% (2021 est.)<br>
 
 **Population below poverty line**<br>
 38.2% (2016 est.)<br>
 
 **Gini Index coefficient - distribution of family income**<br>
 43.7 (2016 est.)<br>
-51.3 (2010 est.)<br>
 
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 2.1%<br>
@@ -502,18 +503,20 @@ _expenditures_: 2.337 billion (2017 est.)<br>
 37.3% of GDP (2016 est.)<br>
 
 **Taxes and other revenues**<br>
-21.3% (of GDP) (2017 est.)<br>
+15.06% (of GDP) (2020 est.)<br>
 
 **Fiscal year**<br>
 calendar year<br>
 
 **Current account balance**<br>
--$622 million (2017 est.)<br>
--$1.336 billion (2016 est.)<br>
+-$1.209 billion (2021 est.)<br>
+-$1.228 billion (2020 est.)<br>
+-$1.231 billion (2019 est.)<br>
 
 **Exports**<br>
-$2.25 billion (2019 est.) note: data are in current year dollars<br>
-$2.04 billion (2018 est.) note: data are in current year dollars<br>
+$2.11 billion (2021 est.) note: data are in current year dollars<br>
+$1.929 billion (2020 est.) note: data are in current year dollars<br>
+$2.255 billion (2019 est.)<br>
 
 **Exports - partners**<br>
 United Arab Emirates 35%, Democratic Republic of the Congo 28%, Uganda 5% (2019)<br>
@@ -522,8 +525,9 @@ United Arab Emirates 35%, Democratic Republic of the Congo 28%, Uganda 5% (2019)
 gold, refined petroleum, coffee, tea, tin (2019)<br>
 
 **Imports**<br>
-$3.74 billion (2019 est.) note: data are in current year dollars<br>
-$3.34 billion (2018 est.) note: data are in current year dollars<br>
+$3.856 billion (2021 est.) note: data are in current year dollars<br>
+$3.578 billion (2020 est.) note: data are in current year dollars<br>
+$3.737 billion (2019 est.)<br>
 
 **Imports - partners**<br>
 China 17%, Kenya 10%, Tanzania 9%, United Arab Emirates 9%, India 7%, Saudi Arabia 5% (2019)<br>
@@ -532,8 +536,9 @@ China 17%, Kenya 10%, Tanzania 9%, United Arab Emirates 9%, India 7%, Saudi Arab
 refined petroleum, gold, raw sugar, packaged medicines, broadcasting equipment (2019)<br>
 
 **Reserves of foreign exchange and gold**<br>
-$997.6 million (31 December 2017 est.)<br>
-$1.104 billion (31 December 2016 est.)<br>
+$1.895 billion (31 December 2021 est.)<br>
+$1.806 billion (31 December 2020 est.)<br>
+$1.465 billion (31 December 2019 est.)<br>
 
 **Debt - external**<br>
 $3.258 billion (31 December 2017 est.)<br>
@@ -541,11 +546,11 @@ $2.611 billion (31 December 2016 est.)<br>
 
 **Exchange rates**<br>
 _Currency_: Rwandan francs (RWF) per US dollar -<br>
-839.1 (2017 est.)<br>
-787.25 (2016 est.)<br>
-787.25 (2015 est.)<br>
-720.54 (2014 est.)<br>
-680.95 (2013 est.)<br>
+988.625 (2021 est.)<br>
+943.278 (2020 est.)<br>
+899.351 (2019 est.)<br>
+861.093 (2018 est.)<br>
+831.554 (2017 est.)<br>
 
 ## Energy
 

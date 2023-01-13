@@ -174,7 +174,7 @@ _female_: 71.43 years (2022 est.)<br>
 3.29 children born/woman (2022 est.)<br>
 
 **Gross reproduction rate**<br>
-1.63 (2022 est.)<br>
+1.6 (2023 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 64.6% (2020)<br>
@@ -226,11 +226,11 @@ _total_: 11.1% (2020 est.)<br>
 _male_: 19.5% (2020 est.)<br>
 _female_: 2.7% (2020 est.)<br>
 
-**Currently married women (ages 15-49)**<br>
-56.9% (2022 est.)<br>
-
 **Children under the age of 5 years underweight**<br>
 11.2% (2014)<br>
+
+**Currently married women (ages 15-49)**<br>
+56.8% (2023 est.)<br>
 
 **Education expenditures**<br>
 4.8% of GDP (2021 est.)<br>
@@ -242,9 +242,9 @@ _male_: 85%<br>
 _female_: 78.2% (2018)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 12.9%<br>
-_male_: 12%<br>
-_female_: 13.8% (2019)<br>
+_total_: 13.8%<br>
+_male_: 12.8%<br>
+_female_: 14.9% (2021 est.)<br>
 
 ## Environment
 
@@ -422,29 +422,29 @@ _selected World Heritage Site locales_: Lake Turkana National Parks (n); Mount K
 <p>Kenya is the economic, financial, and transport hub of East Africa. Kenya’s real GDP growth has averaged over 5% for the last decade. Since 2014, Kenya has been ranked as a lower middle income country because its per capita GDP crossed a World Bank threshold. While Kenya has a growing entrepreneurial middle class and steady growth, its economic development has been impaired by weak governance and corruption. Although reliable numbers are hard to find, unemployment and under-employment are extremely high, and could be near 40% of the population. In 2013, the country adopted a devolved system of government with the creation of 47 counties, and is in the process of devolving state revenues and responsibilities to the counties.</p> <p> </p> <p>Agriculture remains the backbone of the Kenyan economy, contributing one-third of GDP. About 75% of Kenya’s population of roughly 48.5 million work at least part-time in the agricultural sector, including livestock and pastoral activities. Over 75% of agricultural output is from small-scale, rain-fed farming or livestock production. Tourism also holds a significant place in Kenya’s economy. In spite of political turmoil throughout the second half of 2017, tourism was up 20%, showcasing the strength of this sector. Kenya has long been a target of terrorist activity and has struggled with instability along its northeastern borders. Some high visibility terrorist attacks during 2013-2015 (e.g., at Nairobi’s Westgate Mall and Garissa University) affected the tourism industry severely, but the sector rebounded strongly in 2016-2017 and appears poised to continue growing.</p> <p> </p> <p>Inadequate infrastructure continues to hamper Kenya’s efforts to improve its annual growth so that it can meaningfully address poverty and unemployment. The KENYATTA administration has been successful in courting external investment for infrastructure development. International financial institutions and donors remain important to Kenya's growth and development, but Kenya has also successfully raised capital in the global bond market issuing its first sovereign bond offering in mid-2014, with a second occurring in February 2018. The first phase of a Chinese-financed and constructed standard gauge railway connecting Mombasa and Nairobi opened in May 2017.</p> <p> </p> <p>In 2016 the government was forced to take over three small and undercapitalized banks when underlying weaknesses were exposed. The government also enacted legislation that limits interest rates banks can charge on loans and set a rate that banks must pay their depositors. This measure led to a sharp shrinkage of credit in the economy. A prolonged election cycle in 2017 hurt the economy, drained government resources, and slowed GDP growth. Drought-like conditions in parts of the country pushed 2017 inflation above 8%, but the rate had fallen to 4.5% in February 2018.</p> <p> </p> <p>The economy, however, is well placed to resume its decade-long 5%-6% growth rate. While fiscal deficits continue to pose risks in the medium term, other economic indicators, including foreign exchange reserves, interest rates, current account deficits, remittances and FDI are positive. The credit and drought-related impediments were temporary. Now In his second term, President KENYATTA has pledged to make economic growth and development a centerpiece of his second administration, focusing on his "Big Four" initiatives of universal healthcare, food security, affordable housing, and expansion of manufacturing.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
-$226.94 billion (2020 est.)<br>
-$227.64 billion (2019 est.)<br>
-$216.05 billion (2018 est.)<br>
+$251.431 billion (2021 est.)<br>
+$233.852 billion (2020 est.)<br>
+$234.438 billion (2019 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
-5.39% (2019 est.)<br>
-6.32% (2018 est.)<br>
-4.79% (2017 est.)<br>
+7.52% (2021 est.)<br>
+-0.25% (2020 est.)<br>
+5.11% (2019 est.)<br>
 
 **Real GDP per capita**<br>
-$4,200 (2020 est.)<br>
-$4,300 (2019 est.)<br>
-$4,200 (2018 est.)<br>
+$4,700 (2021 est.)<br>
+$4,500 (2020 est.)<br>
+$4,600 (2019 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
 $95.52 billion (2019 est.)<br>
 
 **Inflation rate (consumer prices)**<br>
-5.1% (2019 est.)<br>
-4.6% (2018 est.)<br>
-8% (2017 est.)<br>
+6.11% (2021 est.)<br>
+5.4% (2020 est.)<br>
+5.24% (2019 est.)<br>
 
 **Credit ratings**<br>
 _Fitch rating_: B+ (2007)<br>
@@ -472,10 +472,10 @@ sugar cane, milk, maize, potatoes, bananas, camel milk, cassava, sweet potatoes,
 small-scale consumer goods (plastic, furniture, batteries, textiles, clothing, soap, cigarettes, flour), agricultural products, horticulture, oil refining; aluminum, steel, lead; cement, commercial ship repair, tourism, information technology<br>
 
 **Industrial production growth rate**<br>
-3.6% (2017 est.)<br>
+7.17% (2021 est.)<br>
 
 **Labor force**<br>
-19.6 million (2017 est.)<br>
+23.915 million (2021 est.)<br>
 
 **Labor force - by occupation**<br>
 _agriculture_: 61.1%<br>
@@ -483,20 +483,20 @@ _industry_: 6.7%<br>
 _services_: 32.2% (2005 est.)<br>
 
 **Unemployment rate**<br>
-40% (2013 est.)<br>
-40% (2001 est.)<br>
+5.74% (2021 est.)<br>
+5.73% (2020 est.)<br>
+5.01% (2019 est.)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 12.9%<br>
-_male_: 12%<br>
-_female_: 13.8% (2019)<br>
+_total_: 13.8%<br>
+_male_: 12.8%<br>
+_female_: 14.9% (2021 est.)<br>
 
 **Population below poverty line**<br>
 36.1% (2015 est.)<br>
 
 **Gini Index coefficient - distribution of family income**<br>
 40.8 (2015 est.)<br>
-42.5 (2008 est.)<br>
 
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 1.8%<br>
@@ -514,19 +514,20 @@ _expenditures_: 19.24 billion (2017 est.)<br>
 53.2% of GDP (2016 est.)<br>
 
 **Taxes and other revenues**<br>
-17.6% (of GDP) (2017 est.)<br>
+14.3% (of GDP) (2020 est.)<br>
 
 **Fiscal year**<br>
 1 July - 30 June<br>
 
 **Current account balance**<br>
--$57.594 billion (2019 est.)<br>
--$56.194 billion (2018 est.)<br>
+-$5.744 billion (2021 est.)<br>
+-$4.792 billion (2020 est.)<br>
+-$5.258 billion (2019 est.)<br>
 
 **Exports**<br>
-$11.49 billion (2019 est.) note: data are in current year dollars<br>
-$11.56 billion (2018 est.) note: data are in current year dollars<br>
-$9.723 billion (2017 est.)<br>
+$11.825 billion (2021 est.) note: data are in current year dollars<br>
+$9.709 billion (2020 est.) note: data are in current year dollars<br>
+$11.471 billion (2019 est.)<br>
 
 **Exports - partners**<br>
 Uganda 10%, United States 9%, Netherlands 8%, Pakistan 7%, United Kingdom 6%, United Arab Emirates 6%, Tanzania 5% (2019)<br>
@@ -535,9 +536,9 @@ Uganda 10%, United States 9%, Netherlands 8%, Pakistan 7%, United Kingdom 6%, Un
 tea, cut flowers, refined petroleum, coffee, titanium (2019)<br>
 
 **Imports**<br>
-$20.41 billion (2019 est.) note: data are in current year dollars<br>
-$20.17 billion (2018 est.) note: data are in current year dollars<br>
-$18.653 billion (2017 est.)<br>
+$21.853 billion (2021 est.) note: data are in current year dollars<br>
+$17.717 billion (2020 est.) note: data are in current year dollars<br>
+$20.408 billion (2019 est.)<br>
 
 **Imports - partners**<br>
 China 24%, United Arab Emirates 10%, India 10%, Saudi Arabia 7%, Japan 5% (2019)<br>
@@ -546,8 +547,9 @@ China 24%, United Arab Emirates 10%, India 10%, Saudi Arabia 7%, Japan 5% (2019)
 refined petroleum, cars, packaged medicines, wheat, iron products (2019)<br>
 
 **Reserves of foreign exchange and gold**<br>
-$7.354 billion (31 December 2017 est.)<br>
-$7.256 billion (31 December 2016 est.)<br>
+$9.491 billion (31 December 2021 est.)<br>
+$8.297 billion (31 December 2020 est.)<br>
+$9.116 billion (31 December 2019 est.)<br>
 
 **Debt - external**<br>
 $29.289 billion (2019 est.)<br>
@@ -555,11 +557,11 @@ $25.706 billion (2018 est.)<br>
 
 **Exchange rates**<br>
 _Currency_: Kenyan shillings (KES) per US dollar -<br>
-111.45 (2020 est.)<br>
-101.4 (2019 est.)<br>
-102.4 (2018 est.)<br>
-98.179 (2014 est.)<br>
-87.921 (2013 est.)<br>
+109.638 (2021 est.)<br>
+106.451 (2020 est.)<br>
+101.991 (2019 est.)<br>
+101.302 (2018 est.)<br>
+103.41 (2017 est.)<br>
 
 ## Energy
 

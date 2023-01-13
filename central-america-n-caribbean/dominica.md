@@ -151,7 +151,7 @@ _female_: 81.31 years (2022 est.)<br>
 2.02 children born/woman (2022 est.)<br>
 
 **Gross reproduction rate**<br>
-0.98 (2022 est.)<br>
+0.98 (2023 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 NA<br>
@@ -182,11 +182,11 @@ _wine_: 0.29 liters of pure alcohol (2019 est.)<br>
 _spirits_: 4.39 liters of pure alcohol (2019 est.)<br>
 _other alcohols_: 0 liters of pure alcohol (2019 est.)<br>
 
-**Currently married women (ages 15-49)**<br>
-39.8% (2022 est.)<br>
-
 **Children under the age of 5 years underweight**<br>
 NA<br>
+
+**Currently married women (ages 15-49)**<br>
+40.3% (2023 est.)<br>
 
 **Education expenditures**<br>
 5.5% of GDP (2021 est.)<br>
@@ -344,28 +344,29 @@ _selected World Heritage Site locales_: Pitons Management Area<br>
 The Dominican economy was dependent on agriculture - primarily bananas - in years past, but increasingly has been driven by tourism, as the government seeks to promote Dominica as an "ecotourism" destination. However, Hurricane Maria, which passed through the island in September 2017, destroyed much of the country&rsquo;s agricultural sector and caused damage to all of the country&rsquo;s transportation and physical infrastructure. Before Hurricane Maria, the government had attempted to foster an offshore financial industry and planned to sign agreements with the private sector to develop geothermal energy resources. At a time when government finances are fragile, the government&rsquo;s focus has been to get the country back in shape to service cruise ships. The economy contracted in 2015 and recovered to positive growth in 2016 due to a recovery of agriculture and tourism. Dominica suffers from high debt levels, which increased from 67% of GDP in 2010 to 77% in 2016. Dominica is one of five countries in the East Caribbean that have citizenship by investment programs whereby foreigners can obtain passports for a fee and revenue from this contribute to government budgets.<br>
 
 **Real GDP (purchasing power parity)**<br>
-$710 million (2020 est.)<br>
-$850 million (2019 est.)<br>
-$830 million (2018 est.)<br>
+$787.7 million (2021 est.)<br>
+$738.364 million (2020 est.)<br>
+$885.38 million (2019 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
--4.7% (2017 est.)<br>
-2.6% (2016 est.)<br>
--3.7% (2015 est.)<br>
+6.68% (2021 est.)<br>
+-16.6% (2020 est.)<br>
+5.5% (2019 est.)<br>
 
 **Real GDP per capita**<br>
-$9,900 (2020 est.)<br>
-$11,900 (2019 est.)<br>
-$11,500 (2018 est.)<br>
+$10,900 (2021 est.)<br>
+$10,300 (2020 est.)<br>
+$12,400 (2019 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
 $557 million (2017 est.)<br>
 
 **Inflation rate (consumer prices)**<br>
-0.6% (2017 est.)<br>
-0% (2016 est.)<br>
+-0.73% (2020 est.)<br>
+1.5% (2019 est.)<br>
+0.99% (2018 est.)<br>
 
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 22.3% (2017 est.)<br>
@@ -388,7 +389,7 @@ bananas, yams, grapefruit, taro, milk, coconuts, oranges, yautia, plantains, sug
 soap, coconut oil, tourism, copra, furniture, cement blocks, shoes<br>
 
 **Industrial production growth rate**<br>
--13% (2017 est.)<br>
+5.01% (2021 est.)<br>
 
 **Labor force**<br>
 25,000 (2000 est.)<br>
@@ -426,12 +427,14 @@ _expenditures_: 260.4 million (2017 est.)<br>
 1 July - 30 June<br>
 
 **Current account balance**<br>
--$70 million (2017 est.)<br>
-$5 million (2016 est.)<br>
+-$178.763 million (2021 est.)<br>
+-$147.521 million (2020 est.)<br>
+-$210.115 million (2019 est.)<br>
 
 **Exports**<br>
-$160 million (2018 est.) note: data are in current year dollars<br>
-$43.7 million (2016 est.)<br>
+$104.959 million (2021 est.) note: data are in current year dollars<br>
+$94.823 million (2020 est.)<br>
+$211.175 million (2019 est.)<br>
 
 **Exports - partners**<br>
 Saudi Arabia 47%, Qatar 5% (2019)<br>
@@ -440,8 +443,9 @@ Saudi Arabia 47%, Qatar 5% (2019)<br>
 medical instruments, pharmaceuticals, low-voltage protection equipment, tropical fruits, bandages (2019)<br>
 
 **Imports**<br>
-$430 million (2018 est.) note: data are in current year dollars<br>
-$188.4 million (2016 est.)<br>
+$302 million (2021 est.) note: data are in current year dollars<br>
+$279 million (2020 est.)<br>
+$415 million (2019 est.)<br>
 
 **Imports - partners**<br>
 United States 57%, Nigeria 11%, China 6%, Italy 5% (2019)<br>
@@ -450,8 +454,9 @@ United States 57%, Nigeria 11%, China 6%, Italy 5% (2019)<br>
 refined petroleum, natural gas, crude petroleum, recreational boats, cars (2019)<br>
 
 **Reserves of foreign exchange and gold**<br>
-$212.3 million (31 December 2017 est.)<br>
-$221.9 million (31 December 2016 est.)<br>
+$190.843 million (31 December 2021 est.)<br>
+$165.824 million (31 December 2020 est.)<br>
+$155.172 million (31 December 2019 est.)<br>
 
 **Debt - external**<br>
 $280.4 million (31 December 2017 est.)<br>
@@ -459,11 +464,11 @@ $314.2 million (31 December 2015 est.)<br>
 
 **Exchange rates**<br>
 _Currency_: East Caribbean dollars (XCD) per US dollar -<br>
+2.7 (2021 est.)<br>
+2.7 (2020 est.)<br>
+2.7 (2019 est.)<br>
+2.7 (2018 est.)<br>
 2.7 (2017 est.)<br>
-2.7 (2016 est.)<br>
-2.7 (2015 est.)<br>
-2.7 (2014 est.)<br>
-2.7 (2013 est.)<br>
 
 ## Energy
 

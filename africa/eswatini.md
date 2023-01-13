@@ -157,7 +157,7 @@ _female_: 61.81 years (2022 est.)<br>
 2.44 children born/woman (2022 est.)<br>
 
 **Gross reproduction rate**<br>
-1.2 (2022 est.)<br>
+1.19 (2023 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 66.1% (2014)<br>
@@ -211,11 +211,11 @@ _total_: 9.2% (2020 est.)<br>
 _male_: 16.5% (2020 est.)<br>
 _female_: 1.8% (2020 est.)<br>
 
-**Currently married women (ages 15-49)**<br>
-37.4% (2022 est.)<br>
-
 **Children under the age of 5 years underweight**<br>
 5.8% (2014)<br>
+
+**Currently married women (ages 15-49)**<br>
+37.1% (2023 est.)<br>
 
 **Education expenditures**<br>
 5% of GDP (2021 est.)<br>
@@ -232,9 +232,9 @@ _male_: 13 years<br>
 _female_: 12 years (2013)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 47.1%<br>
-_male_: 44.2%<br>
-_female_: 50% (2016)<br>
+_total_: 50.9%<br>
+_male_: 47.7%<br>
+_female_: 54.1% (2021 est.)<br>
 
 ## Environment
 
@@ -393,28 +393,29 @@ _lyrics/music_: Andrease Enoke Fanyana SIMELANE/David Kenneth RYCROFT<br>
 <p>A small, landlocked kingdom, Eswatini is bordered in the north, west and south by the Republic of South Africa and by Mozambique in the east. Eswatini depends on South Africa for a majority of its exports and imports. Eswatini's currency is pegged to the South African rand, effectively relinquishing Eswatini's monetary policy to South Africa. The government is dependent on customs duties from the Southern African Customs Union (SACU) for almost half of its revenue. Eswatini is a lower middle income country. As of 2017, more than one-quarter of the adult population was infected by HIV/AIDS; Eswatini has the world’s highest HIV prevalence rate, a financial strain and source of economic instability.</p> <p> </p> <p>The manufacturing sector diversified in the 1980s and 1990s, but manufacturing has grown little in the last decade. Sugar and soft drink concentrate are the largest foreign exchange earners, although a drought in 2015-16 decreased sugar production and exports. Overgrazing, soil depletion, drought, and floods are persistent problems. Mining has declined in importance in recent years. Coal, gold, diamond, and quarry stone mines are small scale, and the only iron ore mine closed in 2014. With an estimated 28% unemployment rate, Eswatini's need to increase the number and size of small and medium enterprises and to attract foreign direct investment is acute.</p> <p> </p> <p>Eswatini's national development strategy, which expires in 2022, prioritizes increases in infrastructure, agriculture production, and economic diversification, while aiming to reduce poverty and government spending. Eswatini's revenue from SACU receipts are likely to continue to decline as South Africa pushes for a new distribution scheme, making it harder for the government to maintain fiscal balance without introducing new sources of revenue.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
-$9.74 billion (2020 est.)<br>
-$9.9 billion (2019 est.)<br>
-$9.68 billion (2018 est.)<br>
+$10.56 billion (2021 est.)<br>
+$9.788 billion (2020 est.)<br>
+$9.943 billion (2019 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
-1.6% (2017 est.)<br>
-1.4% (2016 est.)<br>
-0.4% (2015 est.)<br>
+7.88% (2021 est.)<br>
+-1.56% (2020 est.)<br>
+2.7% (2019 est.)<br>
 
 **Real GDP per capita**<br>
-$8,400 (2020 est.)<br>
-$8,600 (2019 est.)<br>
-$8,500 (2018 est.)<br>
+$8,900 (2021 est.)<br>
+$8,300 (2020 est.)<br>
+$8,500 (2019 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
 $4.484 billion (2019 est.)<br>
 
 **Inflation rate (consumer prices)**<br>
-6.2% (2017 est.)<br>
-7.8% (2016 est.)<br>
+2.6% (2019 est.)<br>
+4.82% (2018 est.)<br>
+6.22% (2017 est.)<br>
 
 **Credit ratings**<br>
 _Moody's rating_: B3 (2020)<br>
@@ -440,10 +441,10 @@ sugar cane, maize, roots/tubers nes, grapefruit, oranges, milk, beef, potatoes, 
 soft drink concentrates, coal, forestry, sugar processing, textiles, and apparel<br>
 
 **Industrial production growth rate**<br>
-5.6% (2017 est.)<br>
+15.38% (2021 est.)<br>
 
 **Labor force**<br>
-427,900 (2016 est.)<br>
+383,500 (2021 est.)<br>
 
 **Labor force - by occupation**<br>
 _agriculture_: 10.7%<br>
@@ -451,13 +452,14 @@ _industry_: 30.4%<br>
 _services_: 58.9% (2014 est.)<br>
 
 **Unemployment rate**<br>
-28% (2014 est.)<br>
-28% (2013 est.)<br>
+25.76% (2021 est.)<br>
+25.51% (2020 est.)<br>
+22.84% (2019 est.)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 47.1%<br>
-_male_: 44.2%<br>
-_female_: 50% (2016)<br>
+_total_: 50.9%<br>
+_male_: 47.7%<br>
+_female_: 54.1% (2021 est.)<br>
 
 **Population below poverty line**<br>
 58.9% (2016 est.)<br>
@@ -487,13 +489,14 @@ _expenditures_: 1.639 billion (2017 est.)<br>
 1 April - 31 March<br>
 
 **Current account balance**<br>
-$604 million (2017 est.)<br>
-$642 million (2016 est.)<br>
+$124.463 million (2021 est.)<br>
+$270.942 million (2020 est.)<br>
+$176.144 million (2019 est.)<br>
 
 **Exports**<br>
-$1.81 billion (2020 est.) note: data are in current year dollars<br>
-$2.07 billion (2019 est.) note: data are in current year dollars<br>
-$1.9 billion (2018 est.) note: data are in current year dollars<br>
+$2.132 billion (2021 est.) note: data are in current year dollars<br>
+$1.808 billion (2020 est.) note: data are in current year dollars<br>
+$2.048 billion (2019 est.) note: data are in current year dollars<br>
 
 **Exports - partners**<br>
 South Africa 94% (2017)<br>
@@ -502,9 +505,9 @@ South Africa 94% (2017)<br>
 soft drink concentrates, sugar, timber, cotton yarn, refrigerators, citrus, and canned fruit<br>
 
 **Imports**<br>
-$1.7 billion (2020 est.) note: data are in current year dollars<br>
-$1.93 billion (2019 est.) note: data are in current year dollars<br>
-$2.07 billion (2018 est.) note: data are in current year dollars<br>
+$2.173 billion (2021 est.) note: data are in current year dollars<br>
+$1.686 billion (2020 est.) note: data are in current year dollars<br>
+$1.924 billion (2019 est.) note: data are in current year dollars<br>
 
 **Imports - partners**<br>
 South Africa 81.6%, China 5.2% (2017)<br>
@@ -513,8 +516,9 @@ South Africa 81.6%, China 5.2% (2017)<br>
 motor vehicles, machinery, transport equipment, foodstuffs, petroleum products, chemicals<br>
 
 **Reserves of foreign exchange and gold**<br>
-$563.1 million (31 December 2017 est.)<br>
-$564.4 million (31 December 2016 est.)<br>
+$572,281,500 (31 December 2021 est.)<br>
+$545,564,200 (31 December 2020 est.)<br>
+$440,314,200 (31 December 2019 est.)<br>
 
 **Debt - external**<br>
 $535 million (2019 est.)<br>
@@ -522,11 +526,11 @@ $456 million (2018 est.)<br>
 
 **Exchange rates**<br>
 _Currency_: emalangeni per US dollar -<br>
-14.44 (2017 est.)<br>
-14.6924 (2016 est.)<br>
-14.6924 (2015 est.)<br>
-12.7581 (2014 est.)<br>
-10.8469 (2013 est.)<br>
+14.783 (2021 est.)<br>
+16.47 (2020 est.)<br>
+14.452 (2019 est.)<br>
+13.234 (2018 est.)<br>
+13.324 (2017 est.)<br>
 
 ## Energy
 

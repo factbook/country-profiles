@@ -165,7 +165,7 @@ _female_: 78.32 years (2022 est.)<br>
 1.92 children born/woman (2022 est.)<br>
 
 **Gross reproduction rate**<br>
-0.94 (2022 est.)<br>
+0.92 (2023 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 27.9% (2019)<br>
@@ -213,11 +213,11 @@ _total_: 14.3% (2020 est.)<br>
 _male_: 26.5% (2020 est.)<br>
 _female_: 2% (2020 est.)<br>
 
-**Currently married women (ages 15-49)**<br>
-63.4% (2022 est.)<br>
-
 **Children under the age of 5 years underweight**<br>
 NA<br>
+
+**Currently married women (ages 15-49)**<br>
+63.2% (2023 est.)<br>
 
 **Education expenditures**<br>
 7.8% of GDP (2020) NA<br>
@@ -234,9 +234,9 @@ _male_: 17 years<br>
 _female_: 16 years (2021)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 29.4%<br>
-_male_: 21.6%<br>
-_female_: 51.5% (2020 est.)<br>
+_total_: 28.8%<br>
+_male_: 22.4%<br>
+_female_: 47.9% (2021 est.)<br>
 
 ## Environment
 
@@ -398,29 +398,29 @@ _selected World Heritage Site locales_: Hegra Archaeological Site (al-Hijr / Mad
 <p>Saudi Arabia has an oil-based economy with strong government controls over major economic activities. It possesses about 16% of the world's proven petroleum reserves, ranks as the largest exporter of petroleum, and plays a leading role in OPEC. The petroleum sector accounts for roughly 87% of budget revenues, 42% of GDP, and 90% of export earnings.</p> <p> </p> <p>Saudi Arabia is encouraging the growth of the private sector in order to diversify its economy and to employ more Saudi nationals. Approximately 6 million foreign workers play an important role in the Saudi economy, particularly in the oil and service sectors; at the same time, however, Riyadh is struggling to reduce unemployment among its own nationals. Saudi officials are particularly focused on employing its large youth population.</p> <p> </p> <p>In 2017, the Kingdom incurred a budget deficit estimated at 8.3% of GDP, which was financed by bond sales and drawing down reserves. Although the Kingdom can finance high deficits for several years by drawing down its considerable foreign assets or by borrowing, it has cut capital spending and reduced subsidies on electricity, water, and petroleum products and recently introduced a value-added tax of 5%. In January 2016, Crown Prince and Deputy Prime Minister MUHAMMAD BIN SALMAN announced that Saudi Arabia intends to list shares of its state-owned petroleum company, ARAMCO - another move to increase revenue and outside investment. The government has also looked at privatization and diversification of the economy more closely in the wake of a diminished oil market. Historically, Saudi Arabia has focused diversification efforts on power generation, telecommunications, natural gas exploration, and petrochemical sectors. More recently, the government has approached investors about expanding the role of the private sector in the health care, education and tourism industries. While Saudi Arabia has emphasized their goals of diversification for some time, current low oil prices may force the government to make more drastic changes ahead of their long-run timeline.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
-$1,543,240,000,000 (2020 est.)<br>
-$1,609,320,000,000 (2019 est.)<br>
-$1,604,010,000,000 (2018 est.)<br>
+$1.594 trillion (2021 est.)<br>
+$1.544 trillion (2020 est.)<br>
+$1.611 trillion (2019 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
--0.9% (2017 est.)<br>
-1.7% (2016 est.)<br>
-4.1% (2015 est.)<br>
+3.24% (2021 est.)<br>
+-4.14% (2020 est.)<br>
+0.33% (2019 est.)<br>
 
 **Real GDP per capita**<br>
-$44,300 (2020 est.)<br>
-$47,000 (2019 est.)<br>
-$47,600 (2018 est.)<br>
+$44,300 (2021 est.)<br>
+$42,900 (2020 est.)<br>
+$45,000 (2019 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
 $792.849 billion (2019 est.)<br>
 
 **Inflation rate (consumer prices)**<br>
--2% (2019 est.)<br>
--4.5% (2018 est.)<br>
--0.8% (2017 est.)<br>
+3.06% (2021 est.)<br>
+3.45% (2020 est.)<br>
+-2.09% (2019 est.)<br>
 
 **Credit ratings**<br>
 _Fitch rating_: A (2019)<br>
@@ -448,10 +448,10 @@ milk, dates, poultry, fruit, watermelons, barley, wheat, potatoes, eggs, tomatoe
 crude oil production, petroleum refining, basic petrochemicals, ammonia, industrial gases, sodium hydroxide (caustic soda), cement, fertilizer, plastics, metals, commercial ship repair, commercial aircraft repair, construction<br>
 
 **Industrial production growth rate**<br>
--2.4% (2017 est.)<br>
+1.71% (2021 est.)<br>
 
 **Labor force**<br>
-13.8 million (2017 est.)<br>
+16.06 million (2021 est.)<br>
 <strong>note:</strong> comprised of 3.1 million Saudis and 10.7 million non-Saudis<br>
 
 **Labor force - by occupation**<br>
@@ -460,14 +460,15 @@ _industry_: 21.4%<br>
 _services_: 71.9% (2005 est.)<br>
 
 **Unemployment rate**<br>
-6% (2017 est.)<br>
-5.6% (2016 est.)<br>
+7.36% (2021 est.)<br>
+7.45% (2020 est.)<br>
+5.67% (2019 est.)<br>
 <strong>note:</strong> data are for total population; unemployment among Saudi nationals is more than double<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 29.4%<br>
-_male_: 21.6%<br>
-_female_: 51.5% (2020 est.)<br>
+_total_: 28.8%<br>
+_male_: 22.4%<br>
+_female_: 47.9% (2021 est.)<br>
 
 **Population below poverty line**<br>
 NA<br>
@@ -491,19 +492,20 @@ _expenditures_: 241.8 billion (2017 est.)<br>
 13.1% of GDP (2016 est.)<br>
 
 **Taxes and other revenues**<br>
-26.4% (of GDP) (2017 est.)<br>
+8.6% (of GDP) (2020 est.)<br>
 
 **Fiscal year**<br>
 calendar year<br>
 
 **Current account balance**<br>
-$15.23 billion (2017 est.)<br>
--$23.87 billion (2016 est.)<br>
+$44.324 billion (2021 est.)<br>
+-$22.814 billion (2020 est.)<br>
+$38.23 billion (2019 est.)<br>
 
 **Exports**<br>
-$184.11 billion (2020 est.) note: data are in current year dollars<br>
+$286.502 billion (2021 est.) note: data are in current year dollars<br>
+$182.848 billion (2020 est.) note: data are in current year dollars<br>
 $285.86 billion (2019 est.) note: data are in current year dollars<br>
-$314.92 billion (2018 est.) note: data are in current year dollars<br>
 
 **Exports - partners**<br>
 China 20%, India 11%, Japan 11%, South Korea 9%, United States 5% (2019)<br>
@@ -512,9 +514,9 @@ China 20%, India 11%, Japan 11%, South Korea 9%, United States 5% (2019)<br>
 crude petroleum, refined petroleum, polymers, industrial alcohols, natural gas (2019)<br>
 
 **Imports**<br>
-$179.8 billion (2020 est.) note: data are in current year dollars<br>
-$218.94 billion (2019 est.) note: data are in current year dollars<br>
-$209.59 billion (2018 est.) note: data are in current year dollars<br>
+$213.016 billion (2021 est.) note: data are in current year dollars<br>
+$182.184 billion (2020 est.) note: data are in current year dollars<br>
+$218.941 billion (2019 est.) note: data are in current year dollars<br>
 
 **Imports - partners**<br>
 China 18%, United Arab Emirates 12%, United States 9%, Germany 5% (2019)<br>
@@ -523,8 +525,9 @@ China 18%, United Arab Emirates 12%, United States 9%, Germany 5% (2019)<br>
 cars, broadcasting equipment, refined petroleum, packaged medicines, telephones (2019)<br>
 
 **Reserves of foreign exchange and gold**<br>
-$496.4 billion (31 December 2017 est.)<br>
-$535.8 billion (31 December 2016 est.)<br>
+$473.89 billion (31 December 2021 est.)<br>
+$472.851 billion (31 December 2020 est.)<br>
+$514.963 billion (31 December 2019 est.)<br>
 
 **Debt - external**<br>
 $205.1 billion (31 December 2017 est.)<br>
@@ -532,11 +535,11 @@ $189.3 billion (31 December 2016 est.)<br>
 
 **Exchange rates**<br>
 _Currency_: Saudi riyals (SAR) per US dollar -<br>
-3.7514 (2020 est.)<br>
+3.75 (2021 est.)<br>
+3.75 (2020 est.)<br>
 3.75 (2019 est.)<br>
-3.7518 (2018 est.)<br>
-3.75 (2014 est.)<br>
-3.75 (2013 est.)<br>
+3.75 (2018 est.)<br>
+3.75 (2017 est.)<br>
 
 ## Energy
 

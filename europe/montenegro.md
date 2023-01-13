@@ -165,7 +165,7 @@ _female_: 80.27 years (2022 est.)<br>
 1.81 children born/woman (2022 est.)<br>
 
 **Gross reproduction rate**<br>
-0.89 (2022 est.)<br>
+0.89 (2023 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 20.7% (2018)<br>
@@ -218,11 +218,11 @@ _total_: 31.4% (2020 est.)<br>
 _male_: 31.6% (2020 est.)<br>
 _female_: 31.1% (2020 est.)<br>
 
-**Currently married women (ages 15-49)**<br>
-57.2% (2022 est.)<br>
-
 **Children under the age of 5 years underweight**<br>
 3.7% (2018/19)<br>
+
+**Currently married women (ages 15-49)**<br>
+57.1% (2023 est.)<br>
 
 **Child marriage**<br>
 _women married by age 15_: 1.9%<br>
@@ -244,9 +244,9 @@ _male_: 15 years<br>
 _female_: 16 years (2021)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 36%<br>
-_male_: 33.6%<br>
-_female_: 39.7% (2020 est.)<br>
+_total_: 31.6%<br>
+_male_: 28.3%<br>
+_female_: 36.7% (2021 est.)<br>
 
 ## Environment
 
@@ -413,29 +413,29 @@ _selected World Heritage Site locales_: Natural and Culturo-Historical Region of
 <p>Montenegro's economy is transitioning to a market system. Around 90% of Montenegrin state-owned companies have been privatized, including 100% of banking, telecommunications, and oil distribution. Tourism, which accounts for more than 20% of Montenegro’s GDP, brings in three times as many visitors as Montenegro’s total population every year. Several new luxury tourism complexes are in various stages of development along the coast, and a number are being offered in connection with nearby boating and yachting facilities. In addition to tourism, energy and agriculture are considered two distinct pillars of the economy. Only 20% of Montenegro’s hydropower potential is utilized. Montenegro plans to become a net energy exporter, and the construction of an underwater cable to Italy, which will be completed by the end of 2018, will help meet its goal.</p> <p> </p> <p>Montenegro uses the euro as its domestic currency, though it is not an official member of the euro zone. In January 2007, Montenegro joined the World Bank and IMF, and in December 2011, the WTO. Montenegro began negotiations to join the EU in 2012, having met the conditions set down by the European Council, which called on Montenegro to take steps to fight corruption and organized crime.</p> <p> </p> <p>The government recognizes the need to remove impediments in order to remain competitive and open the economy to foreign investors. Net foreign direct investment in 2017 reached $848 million and investment per capita is one of the highest in Europe, due to a low corporate tax rate. The biggest foreign investors in Montenegro in 2017 were Norway, Russia, Italy, Azerbaijan and Hungary.</p> <p> </p> <p>Montenegro is currently planning major overhauls of its road and rail networks, and possible expansions of its air transportation system. In 2014, the Government of Montenegro selected two Chinese companies to construct a 41 km-long section of the country’s highway system, which will become part of China’s Belt and Road Initiative. Cheaper borrowing costs have stimulated Montenegro’s growing debt, which currently sits at 65.9% of GDP, with a forecast, absent fiscal consolidation, to increase to 80% once the repayment to China’s Ex/Im Bank of a €800 million highway loan begins in 2019. Montenegro first instituted a value-added tax (VAT) in April 2003, and introduced differentiated VAT rates of 17% and 7% (for tourism) in January 2006. The Montenegrin Government increased the non-tourism Value Added Tax (VAT) rate to 21% as of January 2018, with the goal of reducing its public debt.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
-$11.36 billion (2020 est.)<br>
-$13.39 billion (2019 est.)<br>
-$12.87 billion (2018 est.)<br>
+$12.757 billion (2021 est.)<br>
+$11.346 billion (2020 est.)<br>
+$13.397 billion (2019 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
-4.3% (2017 est.)<br>
-2.9% (2016 est.)<br>
-3.4% (2015 est.)<br>
+12.43% (2021 est.)<br>
+-15.31% (2020 est.)<br>
+4.06% (2019 est.)<br>
 
 **Real GDP per capita**<br>
+$20,600 (2021 est.)<br>
 $18,300 (2020 est.)<br>
 $21,500 (2019 est.)<br>
-$20,700 (2018 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
 $5.486 billion (2019 est.)<br>
 
 **Inflation rate (consumer prices)**<br>
-0.3% (2019 est.)<br>
-2.6% (2018 est.)<br>
-2.3% (2017 est.)<br>
+2.41% (2021 est.)<br>
+-0.26% (2020 est.)<br>
+0.36% (2019 est.)<br>
 
 **Credit ratings**<br>
 _Moody's rating_: B1 (2016)<br>
@@ -462,10 +462,10 @@ milk, potatoes, grapes, vegetables, tomatoes, watermelons, wheat, apples, cabbag
 steelmaking, aluminum, agricultural processing, consumer goods, tourism<br>
 
 **Industrial production growth rate**<br>
--4.2% (2017 est.)<br>
+1.39% (2021 est.)<br>
 
 **Labor force**<br>
-167,000 (2020 est.)<br>
+277,400 (2021 est.)<br>
 
 **Labor force - by occupation**<br>
 _agriculture_: 7.9%<br>
@@ -473,20 +473,20 @@ _industry_: 17.1%<br>
 _services_: 75% (2017 est.)<br>
 
 **Unemployment rate**<br>
-15.82% (2019 est.)<br>
-18.8% (2018 est.)<br>
+18.49% (2021 est.)<br>
+17.9% (2020 est.)<br>
+15.12% (2019 est.)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 36%<br>
-_male_: 33.6%<br>
-_female_: 39.7% (2020 est.)<br>
+_total_: 31.6%<br>
+_male_: 28.3%<br>
+_female_: 36.7% (2021 est.)<br>
 
 **Population below poverty line**<br>
 24.5% (2018 est.)<br>
 
 **Gini Index coefficient - distribution of family income**<br>
 39 (2015 est.)<br>
-32.3 (2013 est.)<br>
 
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 3.5%<br>
@@ -511,13 +511,14 @@ _expenditures_: 2.05 billion (2017 est.)<br>
 calendar year<br>
 
 **Current account balance**<br>
--$780 million (2017 est.)<br>
--$710 million (2016 est.)<br>
+-$540.073 million (2021 est.)<br>
+-$1.237 billion (2020 est.)<br>
+-$796.134 million (2019 est.)<br>
 
 **Exports**<br>
-$1.24 billion (2020 est.) note: data are in current year dollars<br>
-$2.42 billion (2019 est.) note: data are in current year dollars<br>
-$2.35 billion (2018 est.) note: data are in current year dollars<br>
+$2.502 billion (2021 est.) note: data are in current year dollars<br>
+$1.247 billion (2020 est.) note: data are in current year dollars<br>
+$2.424 billion (2019 est.) note: data are in current year dollars<br>
 
 **Exports - partners**<br>
 Serbia 17%, Hungary 15%, China 11%, Russia 7%, Bosnia and Herzegovina 6%, Germany 6%, Italy 5%, Poland 5% (2019)<br>
@@ -526,9 +527,9 @@ Serbia 17%, Hungary 15%, China 11%, Russia 7%, Bosnia and Herzegovina 6%, German
 aluminum, packaged medicines, cars, zinc, wine (2019)<br>
 
 **Imports**<br>
-$2.9 billion (2020 est.) note: data are in current year dollars<br>
-$3.59 billion (2019 est.) note: data are in current year dollars<br>
-$3.67 billion (2018 est.) note: data are in current year dollars<br>
+$3.637 billion (2021 est.) note: data are in current year dollars<br>
+$2.917 billion (2020 est.) note: data are in current year dollars<br>
+$3.6 billion (2019 est.) note: data are in current year dollars<br>
 
 **Imports - partners**<br>
 Serbia 30%, Bosnia and Herzegovina 8%, Croatia 8%, Italy 6%, Greece 6%, Germany 5% (2019)<br>
@@ -537,8 +538,9 @@ Serbia 30%, Bosnia and Herzegovina 8%, Croatia 8%, Italy 6%, Greece 6%, Germany 
 refined petroleum, cars, packaged medicines, recreational boats, cigarettes (2019)<br>
 
 **Reserves of foreign exchange and gold**<br>
-$1.077 billion (31 December 2017 est.)<br>
-$846.5 million (31 December 2016 est.)<br>
+$1.982 billion (31 December 2021 est.)<br>
+$2.135 billion (31 December 2020 est.)<br>
+$1.529 billion (31 December 2019 est.)<br>
 
 **Debt - external**<br>
 $2.516 billion (31 December 2017 est.)<br>
@@ -546,11 +548,11 @@ $2.224 billion (31 December 2016 est.)<br>
 
 **Exchange rates**<br>
 _Currency_: euros (EUR) per US dollar -<br>
+0.845 (2021 est.)<br>
+0.877 (2020 est.)<br>
+0.893 (2019 est.)<br>
+0.847 (2018 est.)<br>
 0.885 (2017 est.)<br>
-0.903 (2016 est.)<br>
-0.9214 (2015 est.)<br>
-0.885 (2014 est.)<br>
-0.7634 (2013 est.)<br>
 
 ## Energy
 
@@ -718,7 +720,7 @@ Montenegro became a member of NATO in 2017; as of 2022, Greece and Italy provide
 **Refugees and internally displaced persons**<br>
 _refugees (country of origin)_: 31,895 (Ukraine) (as of 26 December 2022)<br>
 _stateless persons_: 458 (mid-year 2021)<br>
-<strong>note:</strong> 28,825 estimated refugee and migrant arrivals (January 2015-December 2022)<br>
+<strong>note:</strong> 28,856 estimated refugee and migrant arrivals (January 2015-December 2022)<br>
 
 **Illicit drugs**<br>
 <p>drug trafficking groups are major players in the procurement and transportation of large quantities of cocaine  destined for  European markets</p><br>

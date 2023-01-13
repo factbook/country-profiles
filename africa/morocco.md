@@ -183,7 +183,7 @@ _female_: 75.46 years (2022 est.)<br>
 <strong>note:</strong> does not include data from the former Western Sahara<br>
 
 **Gross reproduction rate**<br>
-1.12 (2022 est.)<br>
+1.12 (2023 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 70.8% (2018)<br>
@@ -239,12 +239,12 @@ _total_: 14.5% (2020 est.)<br>
 _male_: 28.2% (2020 est.)<br>
 _female_: 0.8% (2020 est.)<br>
 
-**Currently married women (ages 15-49)**<br>
-58.7% (2022 est.)<br>
-
 **Children under the age of 5 years underweight**<br>
 2.6% (2017/18)<br>
 <strong>note:</strong> does not include data from the former Western Sahara<br>
+
+**Currently married women (ages 15-49)**<br>
+58.8% (2023 est.)<br>
 
 **Child marriage**<br>
 _women married by age 15_: 0.5%<br>
@@ -268,9 +268,9 @@ _female_: 14 years (2021)<br>
 <strong>note:</strong> does not include data from the former Western Sahara<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 22.2%<br>
-_male_: 22%<br>
-_female_: 22.8% (2016 est.)<br>
+_total_: 27.2%<br>
+_male_: 26.7%<br>
+_female_: 28.7% (2021 est.)<br>
 <strong>note: </strong>does not include data from the former Western Sahara<br>
 
 ## Environment
@@ -440,29 +440,29 @@ _selected World Heritage Site locales_: Medina of Fez; Medina of Marrakesh; Ksar
 <p>Morocco has capitalized on its proximity to Europe and relatively low labor costs to work towards building a diverse, open, market-oriented economy. Key sectors of the economy include agriculture, tourism, aerospace, automotive, phosphates, textiles, apparel, and subcomponents. Morocco has increased investment in its port, transportation, and industrial infrastructure to position itself as a center and broker for business throughout Africa. Industrial development strategies and infrastructure improvements - most visibly illustrated by a new port and free trade zone near Tangier - are improving Morocco's competitiveness.</p> <p> </p> <p>In the 1980s, Morocco was a heavily indebted country before pursuing austerity measures and pro-market reforms, overseen by the IMF. Since taking the throne in 1999, King MOHAMMED VI has presided over a stable economy marked by steady growth, low inflation, and gradually falling unemployment, although poor harvests and economic difficulties in Europe contributed to an economic slowdown. To boost exports, Morocco entered into a bilateral Free Trade Agreement with the US in 2006 and an Advanced Status agreement with the EU in 2008. In late 2014, Morocco eliminated subsidies for gasoline, diesel, and fuel oil, dramatically reducing outlays that weighed on the country’s budget and current account. Subsidies on butane gas and certain food products remain in place. Morocco also seeks to expand its renewable energy capacity with a goal of making renewable more than 50% of installed electricity generation capacity by 2030.</p> <p> </p> <p>Despite Morocco's economic progress, the country suffers from high unemployment, poverty, and illiteracy, particularly in rural areas. Key economic challenges for Morocco include reforming the education system and the judiciary.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
-$259.42 billion (2020 est.)<br>
-$279.3 billion (2019 est.)<br>
-$272.53 billion (2018 est.)<br>
+$303.336 billion (2021 est.)<br>
+$281.049 billion (2020 est.)<br>
+$302.813 billion (2019 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
-2.5% (2019 est.)<br>
-2.96% (2018 est.)<br>
-3.98% (2017 est.)<br>
+7.93% (2021 est.)<br>
+-7.19% (2020 est.)<br>
+2.89% (2019 est.)<br>
 
 **Real GDP per capita**<br>
-$6,900 (2020 est.)<br>
-$7,500 (2019 est.)<br>
-$7,400 (2018 est.)<br>
+$8,100 (2021 est.)<br>
+$7,500 (2020 est.)<br>
+$8,200 (2019 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
 $118.858 billion (2019 est.)<br>
 
 **Inflation rate (consumer prices)**<br>
-0.2% (2019 est.)<br>
-2% (2018 est.)<br>
-0.7% (2017 est.)<br>
+1.4% (2021 est.)<br>
+0.71% (2020 est.)<br>
+0.3% (2019 est.)<br>
 
 **Credit ratings**<br>
 _Fitch rating_: BB+ (2020)<br>
@@ -490,10 +490,10 @@ wheat, sugar beet, milk, potatoes, olives, tangerines/mandarins, tomatoes, orang
 automotive parts, phosphate mining and processing, aerospace, food processing, leather goods, textiles, construction, energy, tourism<br>
 
 **Industrial production growth rate**<br>
-2.8% (2017 est.)<br>
+6.84% (2021 est.)<br>
 
 **Labor force**<br>
-10.399 million (2020 est.)<br>
+11.814 million (2021 est.)<br>
 
 **Labor force - by occupation**<br>
 _agriculture_: 39.1%<br>
@@ -501,13 +501,14 @@ _industry_: 20.3%<br>
 _services_: 40.5% (2014 est.)<br>
 
 **Unemployment rate**<br>
-9.23% (2019 est.)<br>
-9.65% (2018 est.)<br>
+11.47% (2021 est.)<br>
+11.45% (2020 est.)<br>
+9.28% (2019 est.)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 22.2%<br>
-_male_: 22%<br>
-_female_: 22.8% (2016 est.)<br>
+_total_: 27.2%<br>
+_male_: 26.7%<br>
+_female_: 28.7% (2021 est.)<br>
 <strong>note: </strong>does not include data from the former Western Sahara<br>
 
 **Population below poverty line**<br>
@@ -515,7 +516,6 @@ _female_: 22.8% (2016 est.)<br>
 
 **Gini Index coefficient - distribution of family income**<br>
 39.5 (2013 est.)<br>
-39.5 (1999 est.)<br>
 
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 2.7%<br>
@@ -533,19 +533,20 @@ _expenditures_: 26.75 billion (2017 est.)<br>
 64.9% of GDP (2016 est.)<br>
 
 **Taxes and other revenues**<br>
-20.9% (of GDP) (2017 est.)<br>
+20.02% (of GDP) (2020 est.)<br>
 
 **Fiscal year**<br>
 calendar year<br>
 
 **Current account balance**<br>
--$5.075 billion (2019 est.)<br>
--$6.758 billion (2018 est.)<br>
+-$3.261 billion (2021 est.)<br>
+-$1.368 billion (2020 est.)<br>
+-$4.407 billion (2019 est.)<br>
 
 **Exports**<br>
-$37.52 billion (2020 est.) note: data are in current year dollars<br>
-$44.05 billion (2019 est.) note: data are in current year dollars<br>
-$43.25 billion (2018 est.) note: data are in current year dollars<br>
+$47.078 billion (2021 est.) note: data are in current year dollars<br>
+$37.545 billion (2020 est.) note: data are in current year dollars<br>
+$44.048 billion (2019 est.) note: data are in current year dollars<br>
 
 **Exports - partners**<br>
 Spain 23%, France 19% (2019)<br>
@@ -554,9 +555,9 @@ Spain 23%, France 19% (2019)<br>
 cars, insulated wiring, fertilizers, phosphoric acid, clothing and apparel (2019)<br>
 
 **Imports**<br>
-$46.26 billion (2020 est.) note: data are in current year dollars<br>
-$54.1 billion (2019 est.) note: data are in current year dollars<br>
-$55.38 billion (2018 est.) note: data are in current year dollars<br>
+$60.047 billion (2021 est.) note: data are in current year dollars<br>
+$46.358 billion (2020 est.) note: data are in current year dollars<br>
+$54.097 billion (2019 est.) note: data are in current year dollars<br>
 
 **Imports - partners**<br>
 Spain 19%, France 11%, China 9%, United States 7%, Germany 5%, Turkey 5%, Italy 5% (2019)<br>
@@ -565,8 +566,9 @@ Spain 19%, France 11%, China 9%, United States 7%, Germany 5%, Turkey 5%, Italy 
 refined petroleum, cars and vehicle parts, natural gas, coal, low-voltage protection equipment (2019)<br>
 
 **Reserves of foreign exchange and gold**<br>
-$26.27 billion (31 December 2017 est.)<br>
-$25.37 billion (31 December 2016 est.)<br>
+$35.648 billion (31 December 2021 est.)<br>
+$35.998 billion (31 December 2020 est.)<br>
+$26.413 billion (31 December 2019 est.)<br>
 
 **Debt - external**<br>
 $52.957 billion (2019 est.)<br>
@@ -574,11 +576,11 @@ $51.851 billion (2018 est.)<br>
 
 **Exchange rates**<br>
 _Currency_: Moroccan dirhams (MAD) per US dollar -<br>
-9.0065 (2020 est.)<br>
-9.657 (2019 est.)<br>
-9.48825 (2018 est.)<br>
-9.7351 (2014 est.)<br>
-8.3798 (2013 est.)<br>
+8.988 (2021 est.)<br>
+9.497 (2020 est.)<br>
+9.617 (2019 est.)<br>
+9.386 (2018 est.)<br>
+9.692 (2017 est.)<br>
 
 ## Energy
 
@@ -763,6 +765,9 @@ Islamic State of Iraq and ash-Sham (ISIS)<br>
 
 **Disputes - international**<br>
 <p><em>Morocco-Algeria</em>: Algeria's border with Morocco remains an irritant to bilateral relations, each nation accusing the other of harboring militants and arms smuggling</p> <p><em>Morocco-Mauritania</em>: tensions arose in 2016 when Mauritanian soldiers were deployed to Lagouira, a city in the southernmost part of Morocco, and raised their flag</p> <p><em>Morocco-Spain</em>: Morocco protests Spain's control over the coastal enclaves of Ceuta, Melilla, and Penon de Velez de la Gomera, the islands of Penon de Alhucemas and Islas Chafarinas, and surrounding waters; both countries claim Isla Perejil (Leila Island); discussions have not progressed on a comprehensive maritime delimitation, setting limits on resource exploration and refugee interdiction, since Morocco's 2002 rejection of Spain's unilateral designation of a median line from the Canary Islands; Morocco serves as one of the primary launching areas of illegal migration into Spain from North Africa</p><br>
+
+**Refugees and internally displaced persons**<br>
+_refugees (country of origin)_: 5,250 (Syria) (mid-year 2022)<br>
 
 **Illicit drugs**<br>
 <p>one of the world’s largest cannabis-producing countries with Europe as the main  market; hashish is also smuggled to South America and the Caribbean where it is exchanged for cocaine which is distributed in Europe; MDMA (ecstasy), originating in Belgium and the Netherlands is smuggled into northern Morocco for sale on the domestic market</p><br>

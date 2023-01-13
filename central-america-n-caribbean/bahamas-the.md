@@ -154,7 +154,7 @@ _female_: 79.14 years (2022 est.)<br>
 1.98 children born/woman (2022 est.)<br>
 
 **Gross reproduction rate**<br>
-0.97 (2022 est.)<br>
+0.97 (2023 est.)<br>
 
 **Drinking water source**<br>
 _improved: total_: total: 98.9% of population<br>
@@ -191,11 +191,11 @@ _total_: 10.6% (2020 est.)<br>
 _male_: 18.8% (2020 est.)<br>
 _female_: 2.4% (2020 est.)<br>
 
-**Currently married women (ages 15-49)**<br>
-38.7% (2022 est.)<br>
-
 **Children under the age of 5 years underweight**<br>
 NA<br>
+
+**Currently married women (ages 15-49)**<br>
+38.9% (2023 est.)<br>
 
 **Education expenditures**<br>
 2.8% of GDP (2021 est.)<br>
@@ -206,9 +206,9 @@ _male_: NA<br>
 _female_: NA<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 25.8%<br>
-_male_: 20.8%<br>
-_female_: 31.6% (2016 est.)<br>
+_total_: 30.8%<br>
+_male_: 27.5%<br>
+_female_: 35.6% (2021 est.)<br>
 
 ## Environment
 
@@ -356,28 +356,29 @@ _lyrics/music_: Timothy GIBSON<br>
 The Bahamas has the second highest per capita GDP in the English-speaking Caribbean with an economy heavily dependent on tourism and financial services. Tourism accounts for approximately 50% of GDP and directly or indirectly employs half of the archipelago's labor force. Financial services constitute the second-most important sector of the Bahamian economy, accounting for about 15% of GDP. Manufacturing and agriculture combined contribute less than 7% of GDP and show little growth, despite government incentives aimed at those sectors. The new government led by Prime Minister Hubert MINNIS has prioritized addressing fiscal imbalances and rising debt, which stood at 75% of GDP in 2016. Large capital projects like the Baha Mar Casino and Hotel are driving growth. Public debt increased in 2017 in large part due to hurricane reconstruction and relief financing. The primary fiscal balance was a deficit of 0.4% of GDP in 2016. The Bahamas is the only country in the Western Hemisphere that is not a member of the World Trade Organization.<br>
 
 **Real GDP (purchasing power parity)**<br>
-$12.1 billion (2020 est.)<br>
-$14.45 billion (2019 est.)<br>
-$14.28 billion (2018 est.)<br>
+$12.323 billion (2021 est.)<br>
+$10.836 billion (2020 est.)<br>
+$14.225 billion (2019 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
-1.4% (2017 est.)<br>
--1.7% (2016 est.)<br>
-1% (2015 est.)<br>
+13.72% (2021 est.)<br>
+-23.82% (2020 est.)<br>
+1.9% (2019 est.)<br>
 
 **Real GDP per capita**<br>
-$30,800 (2020 est.)<br>
-$37,100 (2019 est.)<br>
-$37,000 (2018 est.)<br>
+$30,200 (2021 est.)<br>
+$26,700 (2020 est.)<br>
+$35,200 (2019 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
 $12.16 billion (2017 est.)<br>
 
 **Inflation rate (consumer prices)**<br>
-1.4% (2017 est.)<br>
--0.3% (2016 est.)<br>
+2.9% (2021 est.)<br>
+0.04% (2020 est.)<br>
+2.49% (2019 est.)<br>
 
 **Credit ratings**<br>
 _Moody's rating_: Ba2 (2020)<br>
@@ -404,10 +405,10 @@ sugar cane, grapefruit, vegetables, bananas, tomatoes, poultry, tropical fruit, 
 tourism, banking, oil bunkering, maritime industries, transshipment and logistics, salt, aragonite, pharmaceuticals<br>
 
 **Industrial production growth rate**<br>
-5.8% (2017 est.)<br>
+8.51% (2021 est.)<br>
 
 **Labor force**<br>
-196,900 (2013 est.)<br>
+224,400 (2021 est.)<br>
 
 **Labor force - by occupation**<br>
 _agriculture_: 3%<br>
@@ -416,13 +417,14 @@ _services_: 49%<br>
 _tourism_: 37% (2011 est.)<br>
 
 **Unemployment rate**<br>
-10.1% (2017 est.)<br>
-12.2% (2016 est.)<br>
+13.24% (2021 est.)<br>
+13.32% (2020 est.)<br>
+10.06% (2019 est.)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 25.8%<br>
-_male_: 20.8%<br>
-_female_: 31.6% (2016 est.)<br>
+_total_: 30.8%<br>
+_male_: 27.5%<br>
+_female_: 35.6% (2021 est.)<br>
 
 **Population below poverty line**<br>
 9.3% (2010 est.)<br>
@@ -439,23 +441,25 @@ _expenditures_: 2.46 billion (2017 est.)<br>
 -2.6% (of GDP) (2017 est.)<br>
 
 **Public debt**<br>
-54.6% of GDP (2017 est.)<br>
-50.5% of GDP (2016 est.)<br>
+84.45% of GDP (2020 est.)<br>
+57.05% of GDP (2019 est.)<br>
+56.78% of GDP (2018 est.)<br>
 
 **Taxes and other revenues**<br>
-17.6% (of GDP) (2017 est.)<br>
+19.16% (of GDP) (2020 est.)<br>
 
 **Fiscal year**<br>
 1 July - 30 June<br>
 
 **Current account balance**<br>
--$1.909 billion (2017 est.)<br>
--$868 million (2016 est.)<br>
+-$2.592 billion (2021 est.)<br>
+-$2.373 billion (2020 est.)<br>
+-$345.481 million (2019 est.)<br>
 
 **Exports**<br>
-$1.69 billion (2020 est.)<br>
-$5.14 billion (2019 est.)<br>
-$4.75 billion (2018 est.)<br>
+$3.202 billion (2021 est.)<br>
+$1.65 billion (2020 est.)<br>
+$5.164 billion (2019 est.)<br>
 <strong>note:</strong> Data are in current year dollars and do not include illicit exports or re-exports.<br>
 
 **Exports - partners**<br>
@@ -465,9 +469,9 @@ Poland 32%, United States 17%, Ecuador 9%, China 6%, Japan 5% (2019)<br>
 ships, refined petroleum, nitrogen compounds, crustaceans, styrene polymers (2019)<br>
 
 **Imports**<br>
-$3.64 billion (2020 est.) note: data are in current year dollars<br>
-$4.91 billion (2019 est.) note: data are in current year dollars<br>
-$5.12 billion (2018 est.) note: data are in current year dollars<br>
+$4.924 billion (2021 est.) note: data are in current year dollars<br>
+$3.411 billion (2020 est.) note: data are in current year dollars<br>
+$4.84 billion (2019 est.) note: data are in current year dollars<br>
 
 **Imports - partners**<br>
 United States 31%, South Korea 29%, Japan 14% (2019)<br>
@@ -476,8 +480,9 @@ United States 31%, South Korea 29%, Japan 14% (2019)<br>
 ships, refined petroleum, crude petroleum, recreational boats, cars (2019)<br>
 
 **Reserves of foreign exchange and gold**<br>
-$1.522 billion (31 December 2017 est.)<br>
-$1.002 billion (31 December 2016 est.)<br>
+$2.433 billion (31 December 2021 est.)<br>
+$2.382 billion (31 December 2020 est.)<br>
+$1.758 billion (31 December 2019 est.)<br>
 
 **Debt - external**<br>
 $17.56 billion (31 December 2013 est.)<br>
@@ -485,11 +490,11 @@ $16.35 billion (31 December 2012 est.)<br>
 
 **Exchange rates**<br>
 _Currency_: Bahamian dollars (BSD) per US dollar -<br>
+1 (2021 est.)<br>
+1 (2020 est.)<br>
+1 (2019 est.)<br>
+1 (2018 est.)<br>
 1 (2017 est.)<br>
-1 (2016 est.)<br>
-1 (2015 est.)<br>
-1 (2014 est.)<br>
-1 (2013 est.)<br>
 
 ## Energy
 

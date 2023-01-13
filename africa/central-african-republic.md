@@ -167,7 +167,7 @@ _female_: 56.88 years (2022 est.)<br>
 4.04 children born/woman (2022 est.)<br>
 
 **Gross reproduction rate**<br>
-1.99 (2022 est.)<br>
+1.97 (2023 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 17.8% (2019)<br>
@@ -219,11 +219,11 @@ _wine_: 0.04 liters of pure alcohol (2019 est.)<br>
 _spirits_: 0.02 liters of pure alcohol (2019 est.)<br>
 _other alcohols_: 0.33 liters of pure alcohol (2019 est.)<br>
 
-**Currently married women (ages 15-49)**<br>
-64.8% (2022 est.)<br>
-
 **Children under the age of 5 years underweight**<br>
 20.5% (2019)<br>
+
+**Currently married women (ages 15-49)**<br>
+64.7% (2023 est.)<br>
 
 **Child marriage**<br>
 _women married by age 15_: 25.8%<br>
@@ -243,6 +243,11 @@ _female_: 25.8% (2018)<br>
 _total_: 7 years<br>
 _male_: 8 years<br>
 _female_: 6 years (2012)<br>
+
+**Youth unemployment rate (ages 15-24)**<br>
+_total_: 11.8%<br>
+_male_: 10.6%<br>
+_female_: 13.1% (2021 est.)<br>
 
 ## Environment
 
@@ -424,23 +429,23 @@ $4.195 billion (2017 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
-4.3% (2017 est.)<br>
-4.5% (2016 est.)<br>
-4.8% (2015 est.)<br>
+0.9% (2021 est.)<br>
+0.9% (2020 est.)<br>
+3.1% (2019 est.)<br>
 
 **Real GDP per capita**<br>
-$900 (2020 est.)<br>
+$800 (2021 est.)<br>
+$800 (2020 est.)<br>
 $900 (2019 est.)<br>
-$900 (2018 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
 $1.937 billion (2017 est.)<br>
 
 **Inflation rate (consumer prices)**<br>
-2.7% (2019 est.)<br>
-1.6% (2018 est.)<br>
-4.2% (2017 est.)<br>
+4.26% (2021 est.)<br>
+1.71% (2020 est.)<br>
+2.69% (2019 est.)<br>
 
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 43.2% (2017 est.)<br>
@@ -462,20 +467,26 @@ cassava, yams, groundnuts, taro, bananas, sugar cane, beef, maize, plantains, mi
 gold and diamond mining, logging, brewing, sugar refining<br>
 
 **Industrial production growth rate**<br>
-3.9% (2017 est.)<br>
+-0.24% (2021 est.)<br>
 
 **Labor force**<br>
-2.242 million (2017 est.)<br>
+2.015 million (2021 est.)<br>
 
 **Unemployment rate**<br>
-6.9% (2017 est.)<br>
+6.57% (2021 est.)<br>
+6.36% (2020 est.)<br>
+5.62% (2019 est.)<br>
+
+**Youth unemployment rate (ages 15-24)**<br>
+_total_: 11.8%<br>
+_male_: 10.6%<br>
+_female_: 13.1% (2021 est.)<br>
 
 **Population below poverty line**<br>
 62% (2008 est.) NA<br>
 
 **Gini Index coefficient - distribution of family income**<br>
-43.6 (2003 est.)<br>
-61.3 (1993)<br>
+56.2 (2008 est.)<br>
 
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 2.1%<br>
@@ -493,7 +504,7 @@ _expenditures_: 300.1 million (2017 est.)<br>
 56% of GDP (2016 est.)<br>
 
 **Taxes and other revenues**<br>
-14.6% (of GDP) (2017 est.)<br>
+8.71% (of GDP) (2020 est.)<br>
 
 **Fiscal year**<br>
 calendar year<br>
@@ -524,8 +535,9 @@ India 18%, France 12%, United States 11%, China 9%, Netherlands 7%, Belgium 7%, 
 refined petroleum, packaged medicines, natural gas, broadcasting equipment, second-hand clothing (2019)<br>
 
 **Reserves of foreign exchange and gold**<br>
-$304.3 million (31 December 2017 est.)<br>
-$252.5 million (31 December 2016 est.)<br>
+$350.305 million (31 December 2019 est.)<br>
+$361.797 million (31 December 2018 est.)<br>
+$362.717 million (31 December 2017 est.)<br>
 
 **Debt - external**<br>
 $779.9 million (31 December 2017 est.)<br>
@@ -533,11 +545,11 @@ $691.5 million (31 December 2016 est.)<br>
 
 **Exchange rates**<br>
 _Currency_: Cooperation Financiere en Afrique Centrale francs (XAF) per US dollar -<br>
-605.3 (2017 est.)<br>
-593.01 (2016 est.)<br>
-593.01 (2015 est.)<br>
-591.45 (2014 est.)<br>
-494.42 (2013 est.)<br>
+554.531 (2021 est.)<br>
+575.586 (2020 est.)<br>
+585.911 (2019 est.)<br>
+555.446 (2018 est.)<br>
+580.657 (2017 est.)<br>
 
 ## Energy
 

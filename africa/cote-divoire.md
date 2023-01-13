@@ -171,7 +171,7 @@ _female_: 64.52 years (2022 est.)<br>
 3.53 children born/woman (2022 est.)<br>
 
 **Gross reproduction rate**<br>
-1.74 (2022 est.)<br>
+1.74 (2023 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 27.8% (2020)<br>
@@ -224,11 +224,11 @@ _total_: 9.4% (2020 est.)<br>
 _male_: 17.9% (2020 est.)<br>
 _female_: 0.9% (2020 est.)<br>
 
-**Currently married women (ages 15-49)**<br>
-60.4% (2022 est.)<br>
-
 **Children under the age of 5 years underweight**<br>
 12.8% (2016)<br>
+
+**Currently married women (ages 15-49)**<br>
+60.3% (2023 est.)<br>
 
 **Child marriage**<br>
 _women married by age 15_: 7%<br>
@@ -250,9 +250,9 @@ _male_: 11 years<br>
 _female_: 10 years (2020)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 4.1%<br>
-_male_: 3.4%<br>
-_female_: 4.9% (2019 est.)<br>
+_total_: 5.7%<br>
+_male_: 4.8%<br>
+_female_: 6.8% (2021 est.)<br>
 
 ## Environment
 
@@ -425,29 +425,29 @@ _selected World Heritage Site locales_: Como&eacute; National Park (n); Historic
 <p>For the last 5 years Cote d'Ivoire's growth rate has been among the highest in the world. Cote d'Ivoire is heavily dependent on agriculture and related activities, which engage roughly two-thirds of the population. Cote d'Ivoire is the world's largest producer and exporter of cocoa beans and a significant producer and exporter of coffee and palm oil. Consequently, the economy is highly sensitive to fluctuations in international prices for these products and to climatic conditions. Cocoa, oil, and coffee are the country's top export revenue earners, but the country has targeted agricultural processing of cocoa, cashews, mangoes, and other commodities as a high priority. Mining gold and exporting electricity are growing industries outside agriculture.</p> <p> </p> <p>Following the end of more than a decade of civil conflict in 2011, Cote d’Ivoire has experienced a boom in foreign investment and economic growth. In June 2012, the IMF and the World Bank announced $4.4 billion in debt relief for Cote d'Ivoire under the Highly Indebted Poor Countries Initiative.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
-$136.48 billion (2020 est.)<br>
-$134.05 billion (2019 est.)<br>
-$126.19 billion (2018 est.)<br>
+$146.323 billion (2021 est.)<br>
+$136.702 billion (2020 est.)<br>
+$134.049 billion (2019 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
-7.8% (2017 est.)<br>
-8.3% (2016 est.)<br>
-8.8% (2015 est.)<br>
+7.04% (2021 est.)<br>
+1.98% (2020 est.)<br>
+6.23% (2019 est.)<br>
 
 **Real GDP per capita**<br>
-$5,200 (2020 est.)<br>
-$5,200 (2019 est.)<br>
-$5,000 (2018 est.)<br>
+$5,300 (2021 est.)<br>
+$5,100 (2020 est.)<br>
+$5,100 (2019 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
 $42.498 billion (2018 est.)<br>
 
 **Inflation rate (consumer prices)**<br>
--1.1% (2019 est.)<br>
-0.3% (2018 est.)<br>
-0.6% (2017 est.)<br>
+4.09% (2021 est.)<br>
+2.43% (2020 est.)<br>
+-1.11% (2019 est.)<br>
 
 **Credit ratings**<br>
 _Fitch rating_: B+ (2015)<br>
@@ -474,28 +474,29 @@ yams, cassava, cocoa, oil palm fruit, sugar cane, rice, plantains, maize, cashew
 foodstuffs, beverages; wood products, oil refining, gold mining, truck and bus assembly, textiles, fertilizer, building materials, electricity<br>
 
 **Industrial production growth rate**<br>
-4.2% (2017 est.)<br>
+6.2% (2021 est.)<br>
 
 **Labor force**<br>
-8.747 million (2017 est.)<br>
+8.876 million (2021 est.)<br>
 
 **Labor force - by occupation**<br>
 _agriculture_: 68% (2007 est.)<br>
 
 **Unemployment rate**<br>
-9.4% (2013 est.)<br>
+3.47% (2021 est.)<br>
+3.49% (2020 est.)<br>
+3.32% (2019 est.)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 4.1%<br>
-_male_: 3.4%<br>
-_female_: 4.9% (2019 est.)<br>
+_total_: 5.7%<br>
+_male_: 4.8%<br>
+_female_: 6.8% (2021 est.)<br>
 
 **Population below poverty line**<br>
 39.5% (2018 est.)<br>
 
 **Gini Index coefficient - distribution of family income**<br>
-41.5 (2015 est.)<br>
-36.7 (1995)<br>
+37.2 (2018 est.)<br>
 
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 2.2%<br>
@@ -513,18 +514,20 @@ _expenditures_: 9.464 billion (2017 est.)<br>
 47% of GDP (2016 est.)<br>
 
 **Taxes and other revenues**<br>
-19.1% (of GDP) (2017 est.)<br>
+12.11% (of GDP) (2020 est.)<br>
 
 **Fiscal year**<br>
 calendar year<br>
 
 **Current account balance**<br>
--$1.86 billion (2017 est.)<br>
--$414 million (2016 est.)<br>
+-$1.974 billion (2020 est.)<br>
+-$1.349 billion (2019 est.)<br>
+-$2.285 billion (2018 est.)<br>
 
 **Exports**<br>
-$13.79 billion (2019 est.)<br>
-$13.08 billion (2018 est.)<br>
+$13.232 billion (2020 est.)<br>
+$13.791 billion (2019 est.)<br>
+$13.084 billion (2018 est.)<br>
 <strong>note:</strong> Data are in current year dollars and do not include illicit exports or re-exports.<br>
 
 **Exports - partners**<br>
@@ -534,8 +537,9 @@ Netherlands 10%, United States 6%, France 6%, Spain 5%, Malaysia 5%, Switzerland
 cocoa beans, gold, rubber, refined petroleum, crude petroleum (2019)<br>
 
 **Imports**<br>
-$12.88 billion (2019 est.) note: data are in current year dollars<br>
-$13.18 billion (2018 est.) note: data are in current year dollars<br>
+$12.66 billion (2020 est.) note: data are in current year dollars<br>
+$12.881 billion (2019 est.) note: data are in current year dollars<br>
+$13.183 billion (2018 est.)<br>
 
 **Imports - partners**<br>
 China 18%, Nigeria 13%, France 11% (2019)<br>
@@ -553,11 +557,11 @@ $11.02 billion (31 December 2016 est.)<br>
 
 **Exchange rates**<br>
 _Currency_: Communaute Financiere Africaine francs (XOF) per US dollar -<br>
-594.3 (2017 est.)<br>
-593.01 (2016 est.)<br>
-593.01 (2015 est.)<br>
-591.45 (2014 est.)<br>
-494.42 (2013 est.)<br>
+554.531 (2021 est.)<br>
+575.586 (2020 est.)<br>
+585.911 (2019 est.)<br>
+555.446 (2018 est.)<br>
+580.657 (2017 est.)<br>
 
 ## Energy
 

@@ -167,7 +167,7 @@ _female_: 77.11 years (2022 est.)<br>
 1.8 children born/woman (2022 est.)<br>
 
 **Gross reproduction rate**<br>
-0.88 (2022 est.)<br>
+0.87 (2023 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 80.4% (2011/12)<br>
@@ -215,11 +215,11 @@ _wine_: 0.02 liters of pure alcohol (2019 est.)<br>
 _spirits_: 2.1 liters of pure alcohol (2019 est.)<br>
 _other alcohols_: 0 liters of pure alcohol (2019 est.)<br>
 
-**Currently married women (ages 15-49)**<br>
-56% (2022 est.)<br>
-
 **Children under the age of 5 years underweight**<br>
 4.6% (2011/12)<br>
+
+**Currently married women (ages 15-49)**<br>
+56% (2023 est.)<br>
 
 **Education expenditures**<br>
 4.6% of GDP (2020 est.)<br>
@@ -231,9 +231,9 @@ _male_: 82.4%<br>
 _female_: 82.8% (2015)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 8.5%<br>
-_male_: 6.4%<br>
-_female_: 12.9% (2014 est.)<br>
+_total_: 11.6%<br>
+_male_: 10.2%<br>
+_female_: 15.5% (2021 est.)<br>
 
 ## Environment
 
@@ -395,29 +395,29 @@ _selected World Heritage Site locales_: Ruins of Le&oacute;n Viejo; Le&oacute;n 
 <p>Nicaragua, the poorest country in Central America and the second poorest in the Western Hemisphere, has widespread underemployment and poverty. GDP growth of 4.5% in 2017 was insufficient to make a significant difference. Textiles and agriculture combined account for nearly 50% of Nicaragua's exports. Beef, coffee, and gold are Nicaragua’s top three export commodities.</p> <p> </p> <p>The Dominican Republic-Central America-United States Free Trade Agreement has been in effect since April 2006 and has expanded export opportunities for many Nicaraguan agricultural and manufactured goods.</p> <p> </p> <p>In 2013, the government granted a 50-year concession with the option for an additional 50 years to a newly formed Chinese-run company to finance and build an inter-oceanic canal and related projects, at an estimated cost of $50 billion. The canal construction has not started.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
-$34.98 billion (2020 est.)<br>
-$35.68 billion (2019 est.)<br>
-$37.05 billion (2018 est.)<br>
+$38.628 billion (2021 est.)<br>
+$35.007 billion (2020 est.)<br>
+$35.645 billion (2019 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
-4.9% (2017 est.)<br>
-4.7% (2016 est.)<br>
-4.8% (2015 est.)<br>
+10.34% (2021 est.)<br>
+-1.79% (2020 est.)<br>
+-3.78% (2019 est.)<br>
 
 **Real GDP per capita**<br>
-$5,300 (2020 est.)<br>
-$5,500 (2019 est.)<br>
-$5,700 (2018 est.)<br>
+$5,600 (2021 est.)<br>
+$5,200 (2020 est.)<br>
+$5,300 (2019 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
 $12.57 billion (2019 est.)<br>
 
 **Inflation rate (consumer prices)**<br>
-5.3% (2019 est.)<br>
-4.9% (2018 est.)<br>
-3.8% (2017 est.)<br>
+4.93% (2021 est.)<br>
+3.68% (2020 est.)<br>
+5.38% (2019 est.)<br>
 
 **Credit ratings**<br>
 _Fitch rating_: B- (2018)<br>
@@ -445,10 +445,10 @@ sugar cane, milk, rice, maize, plantains, groundnuts, cassava, beans, coffee, po
 food processing, chemicals, machinery and metal products, knit and woven apparel, petroleum refining and distribution, beverages, footwear, wood, electric wire harness manufacturing, mining<br>
 
 **Industrial production growth rate**<br>
-3.5% (2017 est.)<br>
+21.28% (2021 est.)<br>
 
 **Labor force**<br>
-3.046 million (2017 est.)<br>
+3.042 million (2021 est.)<br>
 
 **Labor force - by occupation**<br>
 _agriculture_: 31%<br>
@@ -456,21 +456,21 @@ _industry_: 18%<br>
 _services_: 50% (2011 est.)<br>
 
 **Unemployment rate**<br>
-6.4% (2017 est.)<br>
-6.2% (2016 est.)<br>
+5.96% (2021 est.)<br>
+6.08% (2020 est.)<br>
+5.21% (2019 est.)<br>
 <strong>note:</strong> underemployment was 46.5% in 2008<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 8.5%<br>
-_male_: 6.4%<br>
-_female_: 12.9% (2014 est.)<br>
+_total_: 11.6%<br>
+_male_: 10.2%<br>
+_female_: 15.5% (2021 est.)<br>
 
 **Population below poverty line**<br>
 24.9% (2016 est.)<br>
 
 **Gini Index coefficient - distribution of family income**<br>
 46.2 (2014 est.)<br>
-45.8 (2009)<br>
 
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 1.8%<br>
@@ -489,19 +489,20 @@ _expenditures_: 4.15 billion (2017 est.)<br>
 <strong>note:</strong> official data; data cover general government debt and include debt instruments issued (or owned) by Government entities other than the treasury; the data include treasury debt held by foreign entities, as well as intragovernmental debt; intragovernmental debt consists of treasury borrowings from surpluses in the social funds, such as retirement, medical care, and unemployment, debt instruments for the social funds are not sold at public auctions; Nicaragua rebased its GDP figures in 2012, which reduced the figures for debt as a percentage of GDP<br>
 
 **Taxes and other revenues**<br>
-28% (of GDP) (2017 est.)<br>
+17.2% (of GDP) (2020 est.)<br>
 
 **Fiscal year**<br>
 calendar year<br>
 
 **Current account balance**<br>
--$694 million (2017 est.)<br>
--$989 million (2016 est.)<br>
+-$316.6 million (2021 est.)<br>
+$496.7 million (2020 est.)<br>
+$754.1 million (2019 est.)<br>
 
 **Exports**<br>
-$5.34 billion (2020 est.) note: data are in current year dollars<br>
-$5.71 billion (2019 est.) note: data are in current year dollars<br>
-$5.56 billion (2018 est.) note: data are in current year dollars<br>
+$6.617 billion (2021 est.) note: data are in current year dollars<br>
+$5.342 billion (2020 est.) note: data are in current year dollars<br>
+$5.714 billion (2019 est.) note: data are in current year dollars<br>
 
 **Exports - partners**<br>
 United States 60%, El Salvador 5%, Mexico 5% (2019)<br>
@@ -510,9 +511,9 @@ United States 60%, El Salvador 5%, Mexico 5% (2019)<br>
 clothing and apparel, gold, insulated wiring, coffee, beef (2019)<br>
 
 **Imports**<br>
-$5.94 billion (2020 est.) note: data are in current year dollars<br>
-$6.25 billion (2019 est.) note: data are in current year dollars<br>
-$6.75 billion (2018 est.) note: data are in current year dollars<br>
+$8.306 billion (2021 est.) note: data are in current year dollars<br>
+$5.939 billion (2020 est.) note: data are in current year dollars<br>
+$6.252 billion (2019 est.) note: data are in current year dollars<br>
 
 **Imports - partners**<br>
 United States 27%, Mexico 12%, China 11%, Guatemala 9%, Costa Rica 7%, El Salvador 6%, Honduras 6% (2019)<br>
@@ -521,8 +522,9 @@ United States 27%, Mexico 12%, China 11%, Guatemala 9%, Costa Rica 7%, El Salvad
 refined petroleum, clothing and apparel, crude petroleum, packaged medicines, insulated wiring (2019)<br>
 
 **Reserves of foreign exchange and gold**<br>
-$2.758 billion (31 December 2017 est.)<br>
-$2.448 billion (31 December 2016 est.)<br>
+$4.047 billion (31 December 2021 est.)<br>
+$3.212 billion (31 December 2020 est.)<br>
+$2.397 billion (31 December 2019 est.)<br>
 
 **Debt - external**<br>
 $11.674 billion (2019 est.)<br>
@@ -530,11 +532,11 @@ $11.771 billion (2018 est.)<br>
 
 **Exchange rates**<br>
 _Currency_: cordobas (NIO) per US dollar -<br>
-30.11 (2017 est.)<br>
-28.678 (2016 est.)<br>
-28.678 (2015 est.)<br>
-27.257 (2014 est.)<br>
-26.01 (2013 est.)<br>
+35.171 (2021 est.)<br>
+34.342 (2020 est.)<br>
+33.122 (2019 est.)<br>
+31.553 (2018 est.)<br>
+30.051 (2017 est.)<br>
 
 ## Energy
 

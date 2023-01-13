@@ -171,7 +171,7 @@ _female_: 58.49 years (2022 est.)<br>
 4.81 children born/woman (2022 est.)<br>
 
 **Gross reproduction rate**<br>
-2.37 (2022 est.)<br>
+2.33 (2023 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 27.1% (2015)<br>
@@ -227,11 +227,11 @@ _total_: 14.3% (2020 est.)<br>
 _male_: 23% (2020 est.)<br>
 _female_: 5.6% (2020 est.)<br>
 
-**Currently married women (ages 15-49)**<br>
-64.1% (2022 est.)<br>
-
 **Children under the age of 5 years underweight**<br>
 15.6% (2014/15)<br>
+
+**Currently married women (ages 15-49)**<br>
+63.7% (2023 est.)<br>
 
 **Education expenditures**<br>
 6.3% of GDP (2020 est.)<br>
@@ -248,9 +248,9 @@ _male_: 10 years<br>
 _female_: 9 years (2017)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 7.4%<br>
-_male_: 7.7%<br>
-_female_: 7.1% (2015 est.)<br>
+_total_: 8.1%<br>
+_male_: 8.1%<br>
+_female_: 8.2% (2021 est.)<br>
 
 ## Environment
 
@@ -427,28 +427,29 @@ _selected World Heritage Site locales_: Island of Mozambique<br>
 <p>At independence in 1975, Mozambique was one of the world's poorest countries. Socialist policies, economic mismanagement, and a brutal civil war from 1977 to 1992 further impoverished the country. In 1987, the government embarked on a series of macroeconomic reforms designed to stabilize the economy. These steps, combined with donor assistance and with political stability since the multi-party elections in 1994, propelled the country’s GDP, in purchasing power parity terms, from $4 billion in 1993 to about $37 billion in 2017. Fiscal reforms, including the introduction of a value-added tax and reform of the customs service, have improved the government's revenue collection abilities. In spite of these gains, about half the population remains below the poverty line and subsistence agriculture continues to employ the vast majority of the country's work force.</p> <p> </p> <p>Mozambique's once substantial foreign debt was reduced through forgiveness and rescheduling under the IMF's Heavily Indebted Poor Countries (HIPC) and Enhanced HIPC initiatives. However, in 2016, information surfaced revealing that the Mozambican Government was responsible for over $2 billion in government-backed loans secured between 2012-14 by state-owned defense and security companies without parliamentary approval or national budget inclusion; this prompted the IMF and international donors to halt direct budget support to the Government of Mozambique. An international audit was performed on Mozambique’s debt in 2016-17, but debt restructuring and resumption of donor support have yet to occur.</p> <p> </p> <p>Mozambique grew at an average annual rate of 6%-8% in the decade leading up to 2015, one of Africa's strongest performances, but the sizable external debt burden, donor withdrawal, elevated inflation, and currency depreciation contributed to slower growth in 2016-17.</p> <p> </p> <p>Two major International consortiums, led by American companies ExxonMobil and Anadarko, are seeking approval to develop massive natural gas deposits off the coast of Cabo Delgado province, in what has the potential to become the largest infrastructure project in Africa. . The government predicts sales of liquefied natural gas from these projects could generate several billion dollars in revenues annually sometime after 2022.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
-$38.42 billion (2020 est.)<br>
-$38.91 billion (2019 est.)<br>
-$38.04 billion (2018 est.)<br>
+$39.351 billion (2021 est.)<br>
+$38.442 billion (2020 est.)<br>
+$38.923 billion (2019 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
-3.11% (2018 est.)<br>
-4.07% (2017 est.)<br>
+2.36% (2021 est.)<br>
+-1.23% (2020 est.)<br>
+2.31% (2019 est.)<br>
 
 **Real GDP per capita**<br>
+$1,200 (2021 est.)<br>
 $1,200 (2020 est.)<br>
 $1,300 (2019 est.)<br>
-$1,300 (2018 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
 $14.964 billion (2019 est.)<br>
 
 **Inflation rate (consumer prices)**<br>
-2.7% (2019 est.)<br>
-3.9% (2018 est.)<br>
-15.4% (2017 est.)<br>
+5.69% (2021 est.)<br>
+3.14% (2020 est.)<br>
+2.78% (2019 est.)<br>
 
 **Credit ratings**<br>
 _Fitch rating_: CCC (2019)<br>
@@ -476,10 +477,10 @@ sugar cane, cassava, maize, milk, bananas, tomatoes, sweet potatoes, rice, sorgh
 aluminum, petroleum products, chemicals (fertilizer, soap, paints), textiles, cement, glass, asbestos, tobacco, food, beverages<br>
 
 **Industrial production growth rate**<br>
-4.9% (2017 est.)<br>
+-0.42% (2019 est.)<br>
 
 **Labor force**<br>
-12.9 million (2017 est.)<br>
+14.137 million (2021 est.)<br>
 
 **Labor force - by occupation**<br>
 _agriculture_: 74.4%<br>
@@ -487,20 +488,20 @@ _industry_: 3.9%<br>
 _services_: 21.7% (2015 est.)<br>
 
 **Unemployment rate**<br>
-24.5% (2017 est.)<br>
-25% (2016 est.)<br>
+3.98% (2021 est.)<br>
+3.81% (2020 est.)<br>
+3.47% (2019 est.)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 7.4%<br>
-_male_: 7.7%<br>
-_female_: 7.1% (2015 est.)<br>
+_total_: 8.1%<br>
+_male_: 8.1%<br>
+_female_: 8.2% (2021 est.)<br>
 
 **Population below poverty line**<br>
 46.1% (2014 est.)<br>
 
 **Gini Index coefficient - distribution of family income**<br>
 54 (2014 est.)<br>
-47.3 (2002)<br>
 
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 1.9%<br>
@@ -514,23 +515,25 @@ _expenditures_: 4.054 billion (2017 est.)<br>
 -5.6% (of GDP) (2017 est.)<br>
 
 **Public debt**<br>
-102.1% of GDP (2017 est.)<br>
-121.6% of GDP (2016 est.)<br>
+102.88% of GDP (2020 est.)<br>
+79.51% of GDP (2019 est.)<br>
+82.3% of GDP (2018 est.)<br>
 
 **Taxes and other revenues**<br>
-26.7% (of GDP) (2017 est.)<br>
+21.84% (of GDP) (2020 est.)<br>
 
 **Fiscal year**<br>
 calendar year<br>
 
 **Current account balance**<br>
--$3.025 billion (2019 est.)<br>
--$4.499 billion (2018 est.)<br>
+-$3.601 billion (2021 est.)<br>
+-$3.869 billion (2020 est.)<br>
+-$2.934 billion (2019 est.)<br>
 
 **Exports**<br>
-$4.35 billion (2020 est.) note: data are in current year dollars<br>
+$6.404 billion (2021 est.) note: data are in current year dollars<br>
+$4.37 billion (2020 est.) note: data are in current year dollars<br>
 $5.6 billion (2019 est.) note: data are in current year dollars<br>
-$5.97 billion (2018 est.) note: data are in current year dollars<br>
 
 **Exports - partners**<br>
 South Africa 16%, India 13%, China 12%, Italy 7%, United Arab Emirates 5%, Germany 5% (2019)<br>
@@ -539,9 +542,9 @@ South Africa 16%, India 13%, China 12%, Italy 7%, United Arab Emirates 5%, Germa
 coal, aluminum, natural gas, tobacco, electricity, gold, lumber (2019)<br>
 
 **Imports**<br>
-$8.38 billion (2020 est.) note: data are in current year dollars<br>
-$9.57 billion (2019 est.) note: data are in current year dollars<br>
-$10.52 billion (2018 est.) note: data are in current year dollars<br>
+$10.392 billion (2021 est.) note: data are in current year dollars<br>
+$8.63 billion (2020 est.) note: data are in current year dollars<br>
+$9.503 billion (2019 est.) note: data are in current year dollars<br>
 
 **Imports - partners**<br>
 South Africa 31%, India 18%, China 17% (2019)<br>
@@ -550,8 +553,9 @@ South Africa 31%, India 18%, China 17% (2019)<br>
 refined petroleum, chromium, iron, bauxite, electricity (2019)<br>
 
 **Reserves of foreign exchange and gold**<br>
-$3.361 billion (31 December 2017 est.)<br>
-$2.081 billion (31 December 2016 est.)<br>
+$67.51 billion (31 December 2021 est.)<br>
+$47.597 billion (31 December 2020 est.)<br>
+$20.664 billion (31 December 2019 est.)<br>
 
 **Debt - external**<br>
 $10.91 billion (31 December 2017 est.)<br>
@@ -559,11 +563,11 @@ $10.48 billion (31 December 2016 est.)<br>
 
 **Exchange rates**<br>
 _Currency_: meticais (MZM) per US dollar -<br>
-74.12 (2020 est.)<br>
-63.885 (2019 est.)<br>
-61.625 (2018 est.)<br>
-39.983 (2014 est.)<br>
-31.367 (2013 est.)<br>
+65.465 (2021 est.)<br>
+69.465 (2020 est.)<br>
+62.548 (2019 est.)<br>
+60.326 (2018 est.)<br>
+63.584 (2017 est.)<br>
 
 ## Energy
 

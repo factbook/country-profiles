@@ -91,6 +91,9 @@ _major-language sample(s)_: <br>მსოფლიო ფაქტების �
 **Religions**<br>
 Orthodox (official) 83.4%, Muslim 10.7%, Armenian Apostolic 2.9%, other 1.2% (includes Catholic, Jehovah's Witness, Yazidi, Protestant, Jewish), none 0.5%, unspecified/no answer 1.2% (2014 est.)<br>
 
+**Demographic profile**<br>
+<p>Analyzing population trends in Georgia since independence in 1991 has proven difficult due to a lack of reliable demographic statistics.  Censuses were fairly accurately and regularly updated through a vital statistics system during Georgia’s period of Soviet rule, but from independence until about 2010, the system broke down as a result of institutional and economic change, social unrest, and large-scale outmigration.  The 2002 census is believed to have significantly overestimated the size of Georgia’s population, in part because respondents continued to include relatives living abroad as part of their household count.  The 2014 census indicates that Georgia’s population is decreasing and aging.  Census data shows that the median age increased from 34.5 years in 2002 to 37.7 years in 2014.  The working-age population (ages 15-65 years) was fairly high in 2002 and rose between 2005 and 2011. Nonetheless, Georgia did not reap economic benefits from this age structure, since the working-age population increase seems to have stimulated labor outmigration to Russia, Ukraine, and other neighboring countries.</p> <p>Since the Russian invasion of Ukraine in 2022, Georgia has seen its economy grow to its highest level in years due to the influx of Russian businesses, information and communications technology specialists, and money transfers.  This growth may only be temporary and conditions could still easily change depending on future events.  Meanwhile, the Russian inflow is also a source of concern, as some Georgians fear it could prompt Putin to target their country next.  In addition, Ukrainian refugees use Georgia not just as a transit country but also a destination.  Some 25,000 Ukrainians remain in the country as of November 2022; they pose an additional strain on resources in Georgia, which has a significant population of its own displaced citizens – from the 2008 Russian occupation of Abkhazia and South Ossetia – who continue to need government support.</p><br>
+
 **Age structure**<br>
 _0-14 years_: 18.42% (male 472,731/female 435,174)<br>
 _15-24 years_: 10.9% (male 286,518/female 250,882)<br>
@@ -162,7 +165,7 @@ _female_: 81.74 years (2022 est.)<br>
 1.75 children born/woman (2022 est.)<br>
 
 **Gross reproduction rate**<br>
-0.85 (2022 est.)<br>
+0.85 (2023 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 40.6% (2018)<br>
@@ -210,11 +213,11 @@ _total_: 31.7% (2020 est.)<br>
 _male_: 56.3% (2020 est.)<br>
 _female_: 7.1% (2020 est.)<br>
 
-**Currently married women (ages 15-49)**<br>
-67.3% (2022 est.)<br>
-
 **Children under the age of 5 years underweight**<br>
 2.1% (2018)<br>
+
+**Currently married women (ages 15-49)**<br>
+67.1% (2023 est.)<br>
 
 **Child marriage**<br>
 _women married by age 15_: 0.3%<br>
@@ -236,9 +239,9 @@ _male_: 16 years<br>
 _female_: 16 years (2021)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 31.3%<br>
-_male_: 30.5%<br>
-_female_: 32.7% (2020 est.)<br>
+_total_: 28.3%<br>
+_male_: 27.4%<br>
+_female_: 29.9% (2021 est.)<br>
 
 ## Environment
 
@@ -340,7 +343,7 @@ _chief of state_: President Salome ZOURABICHVILI (since 16 December 2018)<br>
 _head of government_: Prime Minister Irakli GARIBASHVILI (since 22 February 2021)<br>
 _cabinet_: Cabinet of Ministers<br>
 _elections/appointments_: president directly elected by absolute majority popular vote in 2 rounds if needed for a 5-year term (eligible for a second term); election last held on 28 November 2018 (next to be held in 2024); prime minister nominated by Parliament, appointed by the president <br><br>note - 2017 constitutional amendments made the 2018 election the last where the president was directly elected; future presidents will be elected by a 300-member College of Electors; in light of these changes, ZOURABICHVILI was allowed a six-year term<br>
-_election results_: 2018 Salome ZOURABICHVILI elected president in runoff; percent of vote - Salome ZOURABICHVILI (independent, backed by Georgian Dream) 59.5%, Grigol VASHADZE (UNM) 40.5%; Irakli GARIBASHVILI approved as prime minister by Parliamentary vote 89-2<br><br>2013 Giorgi MARGVELASHVILI is sworn in as president (Georgian Dream) 62.1%, David BAKRADZE (ENM) 21.7%, Nino BURJANADZE (DM-UG) 10.2%, other 6%<br>
+_election results_: <em>2018:</em> Salome ZOURABICHVILI elected president in runoff; percent of vote - Salome ZOURABICHVILI (independent, backed by Georgian Dream) 59.5%, Grigol VASHADZE (UNM) 40.5%; Irakli GARIBASHVILI approved as prime minister by Parliamentary vote 89-2<br><br><em>2013:</em> Giorgi MARGVELASHVILI elected president (Georgian Dream) 62.1%, David BAKRADZE (ENM) 21.7%, Nino BURJANADZE (DM-UG) 10.2%, other 6%<br>
 
 **Legislative branch**<br>
 _description_: unicameral Parliament or Sakartvelos Parlamenti (150 seats statutory, 144 current; 120 members directly elected in a single nationwide constituency by closed, party-list proportional representation vote and 30 directly elected in single-seat constituencies by at least 50% majority vote, with a runoff if needed; no party earning less than 40% of total votes may claim a majority; members serve 4-year terms)<br>
@@ -395,29 +398,29 @@ _selected World Heritage Site locales_: Gelati Monastery (c); Historical Monumen
 <p>Georgia's main economic activities include cultivation of agricultural products such as grapes, citrus fruits, and hazelnuts; mining of manganese, copper, and gold; and producing alcoholic and nonalcoholic beverages, metals, machinery, and chemicals in small-scale industries. The country imports nearly all of its needed supplies of natural gas and oil products. It has sizeable hydropower capacity that now provides most of its electricity needs.</p> <p> </p> <p>Georgia has overcome the chronic energy shortages and gas supply interruptions of the past by renovating hydropower plants and by increasingly relying on natural gas imports from Azerbaijan instead of from Russia. Construction of the Baku-Tbilisi-Ceyhan oil pipeline, the South Caucasus gas pipeline, and the Baku-Tbilisi-Kars railroad are part of a strategy to capitalize on Georgia's strategic location between Europe and Asia and develop its role as a transit hub for gas, oil, and other goods.</p> <p> </p> <p>Georgia's economy sustained GDP growth of more than 10% in 2006-07, based on strong inflows of foreign investment, remittances, and robust government spending. However, GDP growth slowed following the August 2008 conflict with Russia, and sank to negative 4% in 2009 as foreign direct investment and workers' remittances declined in the wake of the global financial crisis. The economy rebounded in the period 2010-17, but FDI inflows, the engine of Georgian economic growth prior to the 2008 conflict, have not recovered fully. Unemployment remains persistently high.</p> <p> </p> <p>The country is pinning its hopes for faster growth on a continued effort to build up infrastructure, enhance support for entrepreneurship, simplify regulations, and improve professional education, in order to attract foreign investment and boost employment, with a focus on transportation projects, tourism, hydropower, and agriculture. Georgia had historically suffered from a chronic failure to collect tax revenues; however, since 2004 the government has simplified the tax code, increased tax enforcement, and cracked down on petty corruption, leading to higher revenues. The government has received high marks from the World Bank for improvements in business transparency. Since 2012, the Georgian Dream-led government has continued the previous administration's low-regulation, low-tax, free market policies, while modestly increasing social spending and amending the labor code to comply with International Labor Standards. In mid-2014, Georgia concluded an association agreement with the EU, paving the way to free trade and visa-free travel. In 2017, Georgia signed Free Trade Agreement (FTA) with China as part of Tbilisi’s efforts to diversify its economic ties. Georgia is seeking to develop its Black Sea ports to further facilitate East-West trade.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
-$52.33 billion (2020 est.)<br>
-$55.76 billion (2019 est.)<br>
-$53.12 billion (2018 est.)<br>
+$57.434 billion (2021 est.)<br>
+$51.993 billion (2020 est.)<br>
+$55.762 billion (2019 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
-5% (2017 est.)<br>
-2.8% (2016 est.)<br>
-2.9% (2015 est.)<br>
+10.47% (2021 est.)<br>
+-6.76% (2020 est.)<br>
+4.98% (2019 est.)<br>
 
 **Real GDP per capita**<br>
-$14,100 (2020 est.)<br>
+$15,500 (2021 est.)<br>
+$14,000 (2020 est.)<br>
 $15,000 (2019 est.)<br>
-$14,300 (2018 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
 $17.694 billion (2019 est.)<br>
 
 **Inflation rate (consumer prices)**<br>
-4.8% (2019 est.)<br>
-2.6% (2018 est.)<br>
-6% (2017 est.)<br>
+9.57% (2021 est.)<br>
+5.2% (2020 est.)<br>
+4.85% (2019 est.)<br>
 
 **Credit ratings**<br>
 _Fitch rating_: BB (2019)<br>
@@ -445,10 +448,10 @@ milk, grapes, maize, potatoes, wheat, watermelons, tomatoes, tangerines/mandarin
 steel, machine tools, electrical appliances, mining (manganese, copper, gold), chemicals, wood products, wine<br>
 
 **Industrial production growth rate**<br>
-6.7% (2017 est.)<br>
+2.4% (2021 est.)<br>
 
 **Labor force**<br>
-686,000 (2019 est.)<br>
+1.724 million (2021 est.)<br>
 
 **Labor force - by occupation**<br>
 _agriculture_: 55.6%<br>
@@ -456,19 +459,20 @@ _industry_: 8.9%<br>
 _services_: 35.5% (2006 est.)<br>
 
 **Unemployment rate**<br>
-11.8% (2016 est.)<br>
+10.66% (2021 est.) NA%<br>
+18.5% (2020 est.)<br>
+11.57% (2019 est.)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 31.3%<br>
-_male_: 30.5%<br>
-_female_: 32.7% (2020 est.)<br>
+_total_: 28.3%<br>
+_male_: 27.4%<br>
+_female_: 29.9% (2021 est.)<br>
 
 **Population below poverty line**<br>
 19.5% (2019 est.)<br>
 
 **Gini Index coefficient - distribution of family income**<br>
-36.4 (2018 est.)<br>
-46 (2011)<br>
+34.5 (2020 est.)<br>
 
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 2%<br>
@@ -482,24 +486,26 @@ _expenditures_: 4.925 billion (2017 est.)<br>
 -3.8% (of GDP) (2017 est.)<br>
 
 **Public debt**<br>
-44.9% of GDP (2017 est.)<br>
-44.4% of GDP (2016 est.)<br>
+65.88% of GDP (2020 est.)<br>
+45.15% of GDP (2019 est.)<br>
+38.89% of GDP (2018 est.)<br>
 <strong>note:</strong> data cover general government debt and include debt instruments issued (or owned) by government entities other than the treasury; the data include treasury debt held by foreign entities; the data include debt issued by subnational entities; Georgia does not maintain intragovernmental debt or social funds<br>
 
 **Taxes and other revenues**<br>
-28.7% (of GDP) (2017 est.)<br>
+21.41% (of GDP) (2020 est.)<br>
 
 **Fiscal year**<br>
 calendar year<br>
 
 **Current account balance**<br>
--$1.348 billion (2017 est.)<br>
--$1.84 billion (2016 est.)<br>
+-$1.937 billion (2021 est.)<br>
+-$1.981 billion (2020 est.)<br>
+-$1.025 billion (2019 est.)<br>
 
 **Exports**<br>
-$5.94 billion (2020 est.) note: data are in current year dollars<br>
-$9.54 billion (2019 est.) note: data are in current year dollars<br>
-$8.9 billion (2018 est.) note: data are in current year dollars<br>
+$8.086 billion (2021 est.) note: data are in current year dollars<br>
+$5.927 billion (2020 est.) note: data are in current year dollars<br>
+$9.546 billion (2019 est.) note: data are in current year dollars<br>
 
 **Exports - partners**<br>
 Russia 12%, Azerbaijan 12%, Armenia 9%, Bulgaria 8%, China 6%, Turkey 6%, Ukraine 6% (2019)<br>
@@ -508,9 +514,9 @@ Russia 12%, Azerbaijan 12%, Armenia 9%, Bulgaria 8%, China 6%, Turkey 6%, Ukrain
 copper, cars, iron alloys, wine, packaged medicines (2019)<br>
 
 **Imports**<br>
-$8.94 billion (2020 est.) note: data are in current year dollars<br>
-$11.11 billion (2019 est.) note: data are in current year dollars<br>
-$10.77 billion (2018 est.) note: data are in current year dollars<br>
+$11.151 billion (2021 est.) note: data are in current year dollars<br>
+$8.967 billion (2020 est.) note: data are in current year dollars<br>
+$11.162 billion (2019 est.) note: data are in current year dollars<br>
 
 **Imports - partners**<br>
 Turkey 17%, China 11%, Russia 9%, Azerbaijan 6%, United States 6%, Germany 5% (2019)<br>
@@ -519,8 +525,9 @@ Turkey 17%, China 11%, Russia 9%, Azerbaijan 6%, United States 6%, Germany 5% (2
 cars, refined petroleum, copper, packaged medicines, natural gas (2019)<br>
 
 **Reserves of foreign exchange and gold**<br>
-$3.039 billion (31 December 2017 est.)<br>
-$2.756 billion (31 December 2016 est.)<br>
+$4.271 billion (31 December 2021 est.)<br>
+$3.913 billion (31 December 2020 est.)<br>
+$3.506 billion (31 December 2019 est.)<br>
 
 **Debt - external**<br>
 $18.149 billion (2019 est.)<br>
@@ -528,11 +535,11 @@ $17.608 billion (2018 est.)<br>
 
 **Exchange rates**<br>
 _Currency_: laris (GEL) per US dollar -<br>
-2.535 (2017 est.)<br>
-2.3668 (2016 est.)<br>
-2.3668 (2015 est.)<br>
-2.2694 (2014 est.)<br>
-1.7657 (2013 est.)<br>
+3.222 (2021 est.)<br>
+3.109 (2020 est.)<br>
+2.818 (2019 est.)<br>
+2.534 (2018 est.)<br>
+2.51 (2017 est.)<br>
 
 ## Energy
 
@@ -598,12 +605,12 @@ _Total energy consumption per capita 2019_: 63.286 million Btu/person (2019 est.
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 387,698 (2020 est.)<br>
-_subscriptions per 100 inhabitants_: 10 (2020 est.)<br>
+_total subscriptions_: 337,923 (2021 est.)<br>
+_subscriptions per 100 inhabitants_: 9 (2021 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 5,100,101 (2020 est.)<br>
-_subscriptions per 100 inhabitants_: 128 (2020 est.)<br>
+_total subscriptions_: 5,163,558 (2021 est.)<br>
+_subscriptions per 100 inhabitants_: 137 (2021 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: the telecom sector has been attempting for many years to overcome the decades of under-investment in its fixed-line infrastructure during the Soviet era; concerted efforts to privatize state-owned enterprises and open up the telecom market have been mostly successful, with a large number of networks now competing in both the fixed-line and the mobile segments; more needs to be done, however, to give investors the confidence to enter a market that has barely moved in terms of revenue growth over the last decade, and where regulatory overreach has sometimes come perilously close to arresting further development; Georgia&rsquo;s government moved fast following the collapse of the Soviet Union to liberalize the country&rsquo;s telecom market; this resulted in a relatively high number of networks competing in the under-developed fixed-line segment as well as in the emerging mobile market; both segments remain dominated by just a few companies (2022)<br>
@@ -622,8 +629,8 @@ _total_: 3,628,500 (July 2022 est.)<br>
 _percent of population_: 91.2% (July 2022 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 972,162 (2020 est.)<br>
-_subscriptions per 100 inhabitants_: 24 (2020 est.)<br>
+_total_: 986,809 (2021 est.)<br>
+_subscriptions per 100 inhabitants_: 25 (2021 est.)<br>
 
 ## Transportation
 

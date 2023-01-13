@@ -173,7 +173,7 @@ _female_: 63.61 years (2022 est.)<br>
 4.36 children born/woman (2022 est.)<br>
 
 **Gross reproduction rate**<br>
-2.15 (2022 est.)<br>
+2.13 (2023 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 30.1% (2014/15)<br>
@@ -226,11 +226,11 @@ _total_: 14.5% (2020 est.)<br>
 _male_: 26.8% (2020 est.)<br>
 _female_: 2.1% (2020 est.)<br>
 
-**Currently married women (ages 15-49)**<br>
-52.3% (2022 est.)<br>
-
 **Children under the age of 5 years underweight**<br>
 12.3% (2014/15)<br>
+
+**Currently married women (ages 15-49)**<br>
+51.8% (2023 est.)<br>
 
 **Child marriage**<br>
 _women married by age 15_: 8.4%<br>
@@ -250,6 +250,11 @@ _female_: 74.6% (2018)<br>
 _total_: 11 years<br>
 _male_: 11 years<br>
 _female_: 11 years (2012)<br>
+
+**Youth unemployment rate (ages 15-24)**<br>
+_total_: 42.3%<br>
+_male_: 42.2%<br>
+_female_: 42.5% (2021 est.)<br>
 
 ## Environment
 
@@ -426,29 +431,29 @@ _selected World Heritage Site locales_: Sangha Trinational Forest<br>
 <p>The Republic of the Congo’s economy is a mixture of subsistence farming, an industrial sector based largely on oil and support services, and government spending. Oil has supplanted forestry as the mainstay of the economy, providing a major share of government revenues and exports. Natural gas is increasingly being converted to electricity rather than being flared, greatly improving energy prospects. New mining projects, particularly iron ore, which entered production in late 2013, may add as much as $1 billion to annual government revenue. The Republic of the Congo is a member of the Central African Economic and Monetary Community (CEMAC) and shares a common currency – the Central African Franc – with five other member states in the region.</p> <p> </p> <p>The current administration faces difficult economic challenges of stimulating recovery and reducing poverty. The drop in oil prices that began in 2014 has constrained government spending; lower oil prices forced the government to cut more than $1 billion in planned spending. The fiscal deficit amounted to 11% of GDP in 2017. The government’s inability to pay civil servant salaries has resulted in multiple rounds of strikes by many groups, including doctors, nurses, and teachers. In the wake of a multi-year recession, the country reached out to the IMF in 2017 for a new program; the IMF noted that the country’s continued dependence on oil, unsustainable debt, and significant governance weakness are key impediments to the country’s economy. In 2018, the country’s external debt level will approach 120% of GDP. The IMF urged the government to renegotiate debts levels to sustainable levels before it agreed to a new macroeconomic adjustment package.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
-$19.03 billion (2020 est.)<br>
-$20.68 billion (2019 est.)<br>
-$20.63 billion (2018 est.)<br>
+$18.875 billion (2021 est.)<br>
+$19.3 billion (2020 est.)<br>
+$20.584 billion (2019 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
--3.1% (2017 est.)<br>
--2.8% (2016 est.)<br>
-2.6% (2015 est.)<br>
+-2.2% (2021 est.)<br>
+-6.24% (2020 est.)<br>
+-0.09% (2019 est.)<br>
 
 **Real GDP per capita**<br>
+$3,200 (2021 est.)<br>
 $3,400 (2020 est.)<br>
-$3,800 (2019 est.)<br>
-$3,900 (2018 est.)<br>
+$3,700 (2019 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
 $8.718 billion (2017 est.)<br>
 
 **Inflation rate (consumer prices)**<br>
-2.2% (2019 est.)<br>
-1.1% (2018 est.)<br>
-0.4% (2017 est.)<br>
+1.72% (2021 est.)<br>
+1.8% (2020 est.)<br>
+2.21% (2019 est.)<br>
 
 **Credit ratings**<br>
 _Fitch rating_: CCC (2019)<br>
@@ -476,10 +481,10 @@ cassava, sugar cane, oil palm fruit, cassava leaves, bananas, plantains, roots/t
 petroleum extraction, cement, lumber, brewing, sugar, palm oil, soap, flour, cigarettes<br>
 
 **Industrial production growth rate**<br>
--3% (2017 est.)<br>
+-7.91% (2021 est.)<br>
 
 **Labor force**<br>
-2.055 million (2016 est.)<br>
+2.268 million (2021 est.)<br>
 
 **Labor force - by occupation**<br>
 _agriculture_: 35.4%<br>
@@ -487,7 +492,14 @@ _industry_: 20.6%<br>
 _services_: 44% (2005 est.)<br>
 
 **Unemployment rate**<br>
-36% (2014 est.)<br>
+23.01% (2021 est.)<br>
+22.84% (2020 est.)<br>
+20.62% (2019 est.)<br>
+
+**Youth unemployment rate (ages 15-24)**<br>
+_total_: 42.3%<br>
+_male_: 42.2%<br>
+_female_: 42.5% (2021 est.)<br>
 
 **Population below poverty line**<br>
 40.9% (2011 est.)<br>
@@ -511,18 +523,19 @@ _expenditures_: 2.578 billion (2017 est.)<br>
 128.7% of GDP (2016 est.)<br>
 
 **Taxes and other revenues**<br>
-22.5% (of GDP) (2017 est.)<br>
+8.95% (of GDP) (2020 est.)<br>
 
 **Fiscal year**<br>
 calendar year<br>
 
 **Current account balance**<br>
--$1.128 billion (2017 est.)<br>
--$5.735 billion (2016 est.)<br>
+$1.441 billion (2020 est.)<br>
+$1.632 billion (2019 est.)<br>
+-$3.596 billion (2016 est.)<br>
 
 **Exports**<br>
-$4.193 billion (2017 est.)<br>
-$4.116 billion (2016 est.)<br>
+$4.67 billion (2020 est.)<br>
+$7.855 billion (2019 est.)<br>
 <strong>note:</strong> Data are in current year dollars and do not include illicit exports or re-exports.<br>
 
 **Exports - partners**<br>
@@ -532,8 +545,8 @@ China 49%, United Arab Emirates 15%, India 6%, Italy 5% (2019)<br>
 crude petroleum, copper, lumber, ships, refined petroleum (2019)<br>
 
 **Imports**<br>
-$2.501 billion (2017 est.)<br>
-$5.639 billion (2016 est.)<br>
+$3.279 billion (2020 est.)<br>
+$4.945 billion (2019 est.)<br>
 
 **Imports - partners**<br>
 China 15%, France 12%, Belgium 6%, Angola 5% (2019)<br>
@@ -542,8 +555,9 @@ China 15%, France 12%, Belgium 6%, Angola 5% (2019)<br>
 ships, chicken products, refined petroleum, processed fish, packaged medicines (2019)<br>
 
 **Reserves of foreign exchange and gold**<br>
-$505.7 million (31 December 2017 est.)<br>
-$727.1 million (31 December 2016 est.)<br>
+$988.316 million (31 December 2019 est.)<br>
+$423.617 million (31 December 2018 est.)<br>
+$379.984 million (31 December 2017 est.)<br>
 
 **Debt - external**<br>
 $4.605 billion (31 December 2017 est.)<br>
@@ -551,11 +565,11 @@ $4.721 billion (31 December 2016 est.)<br>
 
 **Exchange rates**<br>
 _Currency_: Cooperation Financiere en Afrique Centrale francs (XAF) per US dollar -<br>
-579.8 (2017 est.)<br>
-593.01 (2016 est.)<br>
-593.01 (2015 est.)<br>
-591.45 (2014 est.)<br>
-494.42 (2013 est.)<br>
+554.531 (2021 est.)<br>
+575.586 (2020 est.)<br>
+585.911 (2019 est.)<br>
+555.446 (2018 est.)<br>
+580.657 (2017 est.)<br>
 
 ## Energy
 

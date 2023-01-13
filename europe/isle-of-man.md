@@ -151,7 +151,7 @@ _female_: 84 years (2022 est.)<br>
 1.89 children born/woman (2022 est.)<br>
 
 **Gross reproduction rate**<br>
-0.91 (2022 est.)<br>
+0.91 (2023 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 NA<br>
@@ -321,9 +321,9 @@ $6.298 billion (2013 est.)<br>
 <strong>note:</strong> data are in 2014 US dollars<br>
 
 **Real GDP growth rate**<br>
--8.6% (2015 est.)<br>
-17.9% (2014 est.)<br>
-2.1% (2010 est.)<br>
+0.25% (2019 est.)<br>
+2.21% (2018 est.)<br>
+4.69% (2017 est.)<br>
 
 **Real GDP per capita**<br>
 $84,600 (2014 est.)<br>
@@ -352,6 +352,9 @@ cereals, vegetables; cattle, sheep, pigs, poultry<br>
 
 **Industries**<br>
 financial services, light manufacturing, tourism<br>
+
+**Industrial production growth rate**<br>
+-5.1% (2019 est.)<br>
 
 **Labor force**<br>
 41,790 (2006)<br>
@@ -416,11 +419,11 @@ timber, fertilizers, fish<br>
 
 **Exchange rates**<br>
 _Currency_: Manx pounds (IMP) per US dollar -<br>
-0.7836 (2017 est.)<br>
-0.738 (2016 est.)<br>
-0.738 (2015)<br>
-0.6542 (2014)<br>
-0.6472 (2013 est.)<br>
+0.727 (2021 est.)<br>
+0.78 (2020 est.)<br>
+0.783 (2019 est.)<br>
+0.75 (2018 est.)<br>
+0.777 (2017 est.)<br>
 
 ## Energy
 

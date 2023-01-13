@@ -167,7 +167,7 @@ _female_: 61.64 years (2022 est.)<br>
 2.92 children born/woman (2022 est.)<br>
 
 **Gross reproduction rate**<br>
-1.44 (2022 est.)<br>
+1.42 (2023 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 64.9% (2018)<br>
@@ -216,11 +216,11 @@ _total_: 24.3% (2020 est.)<br>
 _male_: 43.1% (2020 est.)<br>
 _female_: 5.4% (2020 est.)<br>
 
-**Currently married women (ages 15-49)**<br>
-53.7% (2022 est.)<br>
-
 **Children under the age of 5 years underweight**<br>
 10.5% (2018)<br>
+
+**Currently married women (ages 15-49)**<br>
+53.7% (2023 est.)<br>
 
 **Child marriage**<br>
 _women married by age 15_: 1%<br>
@@ -242,9 +242,9 @@ _male_: 12 years<br>
 _female_: 13 years (2017)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 25.6%<br>
-_male_: 18.6% NA<br>
-_female_: 38.1% (2019 est.) NA<br>
+_total_: 37.4%<br>
+_male_: 32.8% NA<br>
+_female_: 43.8% (2021 est.) NA<br>
 
 ## Environment
 
@@ -410,29 +410,29 @@ _selected World Heritage Site locales_: Maloti-Drakensberg Park<br>
 <p>Small, mountainous, and completely landlocked by South Africa, Lesotho depends on a narrow economic base of textile manufacturing, agriculture, remittances, and regional customs revenue. About three-fourths of the people live in rural areas and engage in animal herding and subsistence agriculture, although Lesotho produces less than 20% of the nation's demand for food. Agriculture is vulnerable to weather and climate variability.</p> <p> </p> <p>Lesotho relies on South Africa for much of its economic activity; Lesotho imports 85% of the goods it consumes from South Africa, including most agricultural inputs. Households depend heavily on remittances from family members working in South Africa in mines, on farms, and as domestic workers, though mining employment has declined substantially since the 1990s. Lesotho is a member of the Southern Africa Customs Union (SACU), and revenues from SACU accounted for roughly 26% of total GDP in 2016; however, SACU revenues are volatile and expected to decline over the next 5 years. Lesotho also gains royalties from the South African Government for water transferred to South Africa from a dam and reservoir system in Lesotho. However, the government continues to strengthen its tax system to reduce dependency on customs duties and other transfers.</p> <p> </p> <p>The government maintains a large presence in the economy - government consumption accounted for about 26% of GDP in 2017. The government remains Lesotho's largest employer; in 2016, the government wage bill rose to 23% of GDP – the largest in Sub-Saharan Africa. Lesotho's largest private employer is the textile and garment industry - approximately 36,000 Basotho, mainly women, work in factories producing garments for export to South Africa and the US. Diamond mining in Lesotho has grown in recent years and accounted for nearly 35% of total exports in 2015. Lesotho managed steady GDP growth at an average of 4.5% from 2010 to 2014, dropping to about 2.5% in 2015-16, but poverty remains widespread around 57% of the total population.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
-$4.88 billion (2020 est.)<br>
-$5.49 billion (2019 est.)<br>
-$5.51 billion (2018 est.)<br>
+$5.236 billion (2021 est.)<br>
+$5.167 billion (2020 est.)<br>
+$5.638 billion (2019 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
--1.6% (2017 est.)<br>
-3.1% (2016 est.)<br>
-2.5% (2015 est.)<br>
+1.35% (2021 est.)<br>
+-8.36% (2020 est.)<br>
+0.93% (2019 est.)<br>
 
 **Real GDP per capita**<br>
+$2,300 (2021 est.)<br>
 $2,300 (2020 est.)<br>
-$2,600 (2019 est.)<br>
-$2,600 (2018 est.)<br>
+$2,500 (2019 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
 $2.462 billion (2019 est.)<br>
 
 **Inflation rate (consumer prices)**<br>
-5.3% (2019 est.)<br>
-3.8% (2018 est.)<br>
-5.1% (2017 est.)<br>
+6.05% (2021 est.)<br>
+4.98% (2020 est.)<br>
+5.19% (2019 est.)<br>
 
 **Credit ratings**<br>
 _Fitch rating_: B (2019)<br>
@@ -458,10 +458,10 @@ milk, potatoes, maize, vegetables, fruit, beef, game meat, mutton, beans, wool<b
 food, beverages, textiles, apparel assembly, handicrafts, construction, tourism<br>
 
 **Industrial production growth rate**<br>
-12.5% (2017 est.)<br>
+8.52% (2021 est.)<br>
 
 **Labor force**<br>
-930,800 (2017 est.)<br>
+955,600 (2021 est.)<br>
 
 **Labor force - by occupation**<br>
 _agriculture_: 86%<br>
@@ -469,13 +469,14 @@ _industry and services_: 14% (2002 est.)<br>
 <strong>note:</strong> most of the resident population is engaged in subsistence agriculture; roughly 35% of the active male wage earners work in South Africa<br>
 
 **Unemployment rate**<br>
-28.1% (2014 est.)<br>
-25% (2008 est.)<br>
+24.6% (2021 est.)<br>
+24.56% (2020 est.)<br>
+22.44% (2019 est.)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 25.6%<br>
-_male_: 18.6% NA<br>
-_female_: 38.1% (2019 est.) NA<br>
+_total_: 37.4%<br>
+_male_: 32.8% NA<br>
+_female_: 43.8% (2021 est.) NA<br>
 
 **Population below poverty line**<br>
 49.7% (2017 est.)<br>
@@ -500,19 +501,20 @@ _expenditures_: 1.255 billion (2017 est.)<br>
 36.2% of GDP (2016 est.)<br>
 
 **Taxes and other revenues**<br>
-39.7% (of GDP) (2017 est.)<br>
+18.47% (of GDP) (2020 est.)<br>
 
 **Fiscal year**<br>
 1 April - 31 March<br>
 
 **Current account balance**<br>
--$102 million (2017 est.)<br>
--$201 million (2016 est.)<br>
+-$90.886 million (2021 est.)<br>
+-$18.211 million (2020 est.)<br>
+-$72.308 million (2019 est.)<br>
 
 **Exports**<br>
-$900 million (2020 est.) note: data are in current year dollars<br>
-$1.09 billion (2019 est.) note: data are in current year dollars<br>
-$1.25 billion (2018 est.) note: data are in current year dollars<br>
+$1.08 billion (2021 est.) note: data are in current year dollars<br>
+$902.123 million (2020 est.) note: data are in current year dollars<br>
+$1.093 billion (2019 est.) note: data are in current year dollars<br>
 
 **Exports - partners**<br>
 United States 29%, Belgium 26%, South Africa 25%, Switzerland 6% (2019)<br>
@@ -521,9 +523,9 @@ United States 29%, Belgium 26%, South Africa 25%, Switzerland 6% (2019)<br>
 diamonds, clothing and apparel, low-voltage protection equipment, wheat products, footwear (2019)<br>
 
 **Imports**<br>
-$1.96 billion (2020 est.) note: data are in current year dollars<br>
-$2.2 billion (2019 est.) note: data are in current year dollars<br>
-$2.39 billion (2018 est.) note: data are in current year dollars<br>
+$2.221 billion (2021 est.) note: data are in current year dollars<br>
+$1.98 billion (2020 est.) note: data are in current year dollars<br>
+$2.23 billion (2019 est.) note: data are in current year dollars<br>
 
 **Imports - partners**<br>
 South Africa 85%, China 5% (2019)<br>
@@ -532,8 +534,9 @@ South Africa 85%, China 5% (2019)<br>
 refined petroleum, clothing and apparel, packaged medicines, delivery trucks, poultry meats (2019)<br>
 
 **Reserves of foreign exchange and gold**<br>
-$657.7 million (31 December 2017 est.)<br>
-$925.2 million (31 December 2016 est.)<br>
+$774.095 million (31 December 2019 est.)<br>
+$728.528 million (31 December 2018 est.)<br>
+$657.668 million (31 December 2017 est.)<br>
 
 **Debt - external**<br>
 $868 million (2019 est.)<br>
@@ -541,11 +544,11 @@ $834 million (2018 est.)<br>
 
 **Exchange rates**<br>
 _Currency_: maloti (LSL) per US dollar -<br>
-14.48 (2017 est.)<br>
-14.71 (2016 est.)<br>
-14.71 (2015 est.)<br>
-12.76 (2014 est.)<br>
-10.85 (2013 est.)<br>
+14.779 (2021 est.)<br>
+16.459 (2020 est.)<br>
+14.448 (2019 est.)<br>
+13.234 (2018 est.)<br>
+13.324 (2017 est.)<br>
 
 ## Energy
 

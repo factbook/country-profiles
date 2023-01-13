@@ -168,7 +168,7 @@ _female_: 85.67 years (2022 est.)<br>
 1.58 children born/woman (2022 est.)<br>
 
 **Gross reproduction rate**<br>
-0.77 (2022 est.)<br>
+0.77 (2023 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 71.6% (2017)<br>
@@ -216,11 +216,11 @@ _total_: 25.5% (2020 est.)<br>
 _male_: 28.1% (2020 est.)<br>
 _female_: 22.9% (2020 est.)<br>
 
-**Currently married women (ages 15-49)**<br>
-57.6% (2022 est.)<br>
-
 **Children under the age of 5 years underweight**<br>
 NA<br>
+
+**Currently married women (ages 15-49)**<br>
+57.5% (2023 est.)<br>
 
 **Education expenditures**<br>
 5.2% of GDP (2020 est.)<br>
@@ -236,8 +236,8 @@ _male_: 17 years<br>
 _female_: 17 years (2020)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 8.8%<br>
-_male_: 8.9%<br>
+_total_: 9.1%<br>
+_male_: 9.4%<br>
 _female_: 8.8% (2021 est.)<br>
 
 ## Environment
@@ -408,29 +408,29 @@ _selected World Heritage Site locales_: Old City of Berne (c); Swiss Alps Jungfr
 <p>Switzerland, a country that espouses neutrality, is a prosperous and modern market economy with low unemployment, a highly skilled labor force, and a per capita GDP among the highest in the world. Switzerland's economy benefits from a highly developed service sector, led by financial services, and a manufacturing industry that specializes in high-technology, knowledge-based production. Its economic and political stability, transparent legal system, exceptional infrastructure, efficient capital markets, and low corporate tax rates also make Switzerland one of the world's most competitive economies.</p> <p>The Swiss have brought their economic practices largely into conformity with the EU's to gain access to the Union’s Single Market and enhance the country’s international competitiveness. Some trade protectionism remains, however, particularly for its small agricultural sector. The fate of the Swiss economy is tightly linked to that of its neighbors in the euro zone, which purchases half of Swiss exports. The global financial crisis of 2008 and resulting economic downturn in 2009 stalled demand for Swiss exports and put Switzerland into a recession. During this period, the Swiss National Bank (SNB) implemented a zero-interest rate policy to boost the economy, as well as to prevent appreciation of the franc, and Switzerland's economy began to recover in 2010.</p> <p>The sovereign debt crises unfolding in neighboring euro-zone countries, however, coupled with economic instability in Russia and other Eastern European economies drove up demand for the Swiss franc by investors seeking a safe haven currency. In January 2015, the SNB abandoned the Swiss franc’s peg to the euro, roiling global currency markets and making active SNB intervention a necessary hallmark of present-day Swiss monetary policy. The independent SNB has upheld its zero-interest rate policy and conducted major market interventions to prevent further appreciation of the Swiss franc, but parliamentarians have urged it to do more to weaken the currency. The franc's strength has made Swiss exports less competitive and weakened the country's growth outlook; GDP growth fell below 2% per year from 2011 through 2017.</p> <p>In recent years, Switzerland has responded to increasing pressure from neighboring countries and trading partners to reform its banking secrecy laws, by agreeing to conform to OECD regulations on administrative assistance in tax matters, including tax evasion. The Swiss Government has also renegotiated its double taxation agreements with numerous countries, including the US, to incorporate OECD standards.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
-$590.71 billion (2020 est.)<br>
-$608.16 billion (2019 est.)<br>
-$601.65 billion (2018 est.)<br>
+$618.228 billion (2021 est.)<br>
+$593.185 billion (2020 est.)<br>
+$607.619 billion (2019 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
-1.11% (2019 est.)<br>
-3.04% (2018 est.)<br>
-1.65% (2017 est.)<br>
+4.22% (2021 est.)<br>
+-2.38% (2020 est.)<br>
+1.14% (2019 est.)<br>
 
 **Real GDP per capita**<br>
-$68,400 (2020 est.)<br>
+$71,000 (2021 est.)<br>
+$68,700 (2020 est.)<br>
 $70,900 (2019 est.)<br>
-$70,700 (2018 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
 $731.502 billion (2019 est.)<br>
 
 **Inflation rate (consumer prices)**<br>
-0.3% (2019 est.)<br>
-0.9% (2018 est.)<br>
-0.5% (2017 est.)<br>
+0.58% (2021 est.)<br>
+-0.73% (2020 est.)<br>
+0.36% (2019 est.)<br>
 
 **Credit ratings**<br>
 _Fitch rating_: AAA (2000)<br>
@@ -458,10 +458,10 @@ milk, sugar beet, wheat, potatoes, pork, barley, apples, maize, beef, grapes<br>
 machinery, chemicals, watches, textiles, precision instruments, tourism, banking, insurance, pharmaceuticals<br>
 
 **Industrial production growth rate**<br>
-3.4% (2017 est.)<br>
+7.91% (2021 est.)<br>
 
 **Labor force**<br>
-5.067 million (2020 est.)<br>
+4.963 million (2021 est.)<br>
 
 **Labor force - by occupation**<br>
 _agriculture_: 3.3%<br>
@@ -469,12 +469,13 @@ _industry_: 19.8%<br>
 _services_: 76.9% (2015)<br>
 
 **Unemployment rate**<br>
-2.31% (2019 est.)<br>
-2.55% (2018 est.)<br>
+5.32% (2021 est.)<br>
+4.82% (2020 est.)<br>
+4.39% (2019 est.)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 8.8%<br>
-_male_: 8.9%<br>
+_total_: 9.1%<br>
+_male_: 9.4%<br>
 _female_: 8.8% (2021 est.)<br>
 
 **Population below poverty line**<br>
@@ -482,7 +483,6 @@ _female_: 8.8% (2021 est.)<br>
 
 **Gini Index coefficient - distribution of family income**<br>
 32.7 (2017 est.)<br>
-33.1 (1992)<br>
 
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 7.5%<br>
@@ -497,24 +497,26 @@ _expenditures_: 234.4 billion (2017 est.)<br>
 1.1% (of GDP) (2017 est.)<br>
 
 **Public debt**<br>
-41.8% of GDP (2017 est.)<br>
-41.8% of GDP (2016 est.)<br>
+20.91% of GDP (2020 est.)<br>
+18.95% of GDP (2019 est.)<br>
+18.68% of GDP (2018 est.)<br>
 <strong>note:</strong> general government gross debt; gross debt consists of all liabilities that require payment or payments of interest and/or principal by the debtor to the creditor at a date or dates in the future; includes debt liabilities in the form of Special Drawing Rights, currency and deposits, debt securities, loans, insurance, pensions and standardized guarantee schemes, and other accounts payable; all liabilities in the Government Financial Systems Manual 2001 system are debt, except for equity and investment fund shares and financial derivatives and employee stock options<br>
 
 **Taxes and other revenues**<br>
-35.7% (of GDP) (2017 est.)<br>
+9.37% (of GDP) (2020 est.)<br>
 
 **Fiscal year**<br>
 calendar year<br>
 
 **Current account balance**<br>
-$79.937 billion (2019 est.)<br>
-$63.273 billion (2018 est.)<br>
+$59.159 billion (2021 est.)<br>
+$11.067 billion (2020 est.)<br>
+$30.806 billion (2019 est.)<br>
 
 **Exports**<br>
-$470.91 billion (2020 est.) ; note - data are in current year dollars<br>
-$478.34 billion (2019 est.) ; note - data are in current year dollars<br>
-$482.58 billion (2018 est.) ; note - data are in current year dollars<br>
+$571.376 billion (2021 est.) ; note - data are in current year dollars<br>
+$474.236 billion (2020 est.) ; note - data are in current year dollars<br>
+$478.505 billion (2019 est.) ; note - data are in current year dollars<br>
 <strong>note:</strong> trade data exclude trade with Switzerland<br>
 
 **Exports - partners**<br>
@@ -524,9 +526,9 @@ Germany 16%, United States 14%, United Kingdom 8%, China 7%, France 6%, India 6%
 gold, packaged medicines, medical cultures/vaccines, watches, jewelry (2019)<br>
 
 **Imports**<br>
-$401.91 billion (2020 est.) ; note - data are in current year dollars<br>
-$394 billion (2019 est.) ; note - data are in current year dollars<br>
-$395.86 billion (2018 est.) ; note - data are in current year dollars<br>
+$480.522 billion (2021 est.) ; note - data are in current year dollars<br>
+$429.979 billion (2020 est.) ; note - data are in current year dollars<br>
+$413.404 billion (2019 est.) ; note - data are in current year dollars<br>
 
 **Imports - partners**<br>
 Germany 21%, Italy 8%, France 6%, United States 6%, United Kingdom 5%, United Arab Emirates 5% (2019)<br>
@@ -535,8 +537,9 @@ Germany 21%, Italy 8%, France 6%, United States 6%, United Kingdom 5%, United Ar
 gold, packaged medicines, jewelry, cars, medical cultures/vaccines (2019)<br>
 
 **Reserves of foreign exchange and gold**<br>
-$811.2 billion (31 December 2017 est.)<br>
-$679.3 billion (31 December 2016 est.)<br>
+$1.11 trillion (31 December 2021 est.)<br>
+$1.083 trillion (31 December 2020 est.)<br>
+$854.929 billion (31 December 2019 est.)<br>
 
 **Debt - external**<br>
 $1.909 trillion (2019 est.)<br>
@@ -544,11 +547,11 @@ $1.931 trillion (2018 est.)<br>
 
 **Exchange rates**<br>
 _Currency_: Swiss francs (CHF) per US dollar -<br>
-0.88995 (2020 est.)<br>
-0.98835 (2019 est.)<br>
-0.99195 (2018 est.)<br>
-0.9627 (2014 est.)<br>
-0.9152 (2013 est.)<br>
+0.914 (2021 est.)<br>
+0.939 (2020 est.)<br>
+0.994 (2019 est.)<br>
+0.978 (2018 est.)<br>
+0.985 (2017 est.)<br>
 
 ## Energy
 
@@ -730,7 +733,7 @@ Islamic State of Iraq and ash-Sham (ISIS)<br>
 <p>none identified</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 38,219 (Eritrea), 20,043 (Syria), 14,649 (Afghanistan), 6,069 (Sri Lanka), 6,197 (Turkey) (mid-year 2021); 77,045 (Ukraine) (as of 3 January 2023)<br>
+_refugees (country of origin)_: 14,726 (Eritrea), 11,441 (Afghanistan), 8,039 (Syria), (mid-year 2022); 77,045 (Ukraine) (as of 3 January 2023)<br>
 _stateless persons_: 684 (mid-year 2021)<br>
 
 **Illicit drugs**<br>

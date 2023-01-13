@@ -146,7 +146,7 @@ _female_: 83.81 years (2022 est.)<br>
 1.71 children born/woman (2022 est.)<br>
 
 **Gross reproduction rate**<br>
-0.83 (2022 est.)<br>
+0.83 (2023 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 NA<br>
@@ -183,6 +183,9 @@ _vectorborne diseases_: malaria<br>
 
 **Children under the age of 5 years underweight**<br>
 NA<br>
+
+**Currently married women (ages 15-49)**<br>
+56% (2023)<br>
 
 **Education expenditures**<br>
 NA<br>

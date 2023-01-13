@@ -164,7 +164,7 @@ _female_: 79.04 years (2022 est.)<br>
 2.05 children born/woman (2022 est.)<br>
 
 **Gross reproduction rate**<br>
-1 (2022 est.)<br>
+0.99 (2023 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 71.9% (2014)<br>
@@ -217,11 +217,11 @@ _total_: 7.9% (2020 est.)<br>
 _male_: 14.1% (2020 est.)<br>
 _female_: 1.7% (2020 est.)<br>
 
-**Currently married women (ages 15-49)**<br>
-54.8% (2022 est.)<br>
-
 **Children under the age of 5 years underweight**<br>
 5% (2014)<br>
+
+**Currently married women (ages 15-49)**<br>
+55% (2023 est.)<br>
 
 **Education expenditures**<br>
 4.1% of GDP (2020 est.)<br>
@@ -238,9 +238,9 @@ _male_: 12 years<br>
 _female_: 12 years (2018)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 11.6%<br>
-_male_: 9.6%<br>
-_female_: 15.1% (2020)<br>
+_total_: 13.7%<br>
+_male_: 11.3%<br>
+_female_: 18.3% (2021 est.)<br>
 
 ## Environment
 
@@ -400,29 +400,29 @@ _selected World Heritage Site locales_: Joya de Cer&eacute;n Archaeological Site
 <p>The smallest country in Central America geographically, El Salvador has the fourth largest economy in the region. With the global recession, real GDP contracted in 2009 and economic growth has since remained low, averaging less than 2% from 2010 to 2014, but recovered somewhat in 2015-17 with an average annual growth rate of 2.4%. Remittances accounted for approximately 18% of GDP in 2017 and were received by about a third of all households.</p> <p> </p> <p>In 2006, El Salvador was the first country to ratify the Dominican Republic-Central American Free Trade Agreement, which has bolstered the export of processed foods, sugar, and ethanol, and supported investment in the apparel sector amid increased Asian competition. In September 2015, El Salvador kicked off a five-year $277 million second compact with the Millennium Challenge Corporation - a US Government agency aimed at stimulating economic growth and reducing poverty - to improve El Salvador's competitiveness and productivity in international markets.</p> <p> </p> <p>The Salvadoran Government maintained fiscal discipline during reconstruction and rebuilding following earthquakes in 2001 and hurricanes in 1998 and 2005, but El Salvador's public debt, estimated at 59.3% of GDP in 2017, has been growing over the last several years.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
-$52.26 billion (2020 est.)<br>
-$56.77 billion (2019 est.)<br>
-$55.31 billion (2018 est.)<br>
+$57.371 billion (2021 est.)<br>
+$52.024 billion (2020 est.)<br>
+$56.657 billion (2019 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
-2.3% (2017 est.)<br>
-2.6% (2016 est.)<br>
-2.4% (2015 est.)<br>
+10.28% (2021 est.)<br>
+-8.18% (2020 est.)<br>
+2.44% (2019 est.)<br>
 
 **Real GDP per capita**<br>
-$8,100 (2020 est.)<br>
-$8,800 (2019 est.)<br>
-$8,600 (2018 est.)<br>
+$9,100 (2021 est.)<br>
+$8,300 (2020 est.)<br>
+$9,000 (2019 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
 $27.023 billion (2019 est.)<br>
 
 **Inflation rate (consumer prices)**<br>
-0% (2019 est.)<br>
-1% (2018 est.)<br>
-1% (2017 est.)<br>
+3.47% (2021 est.)<br>
+-0.37% (2020 est.)<br>
+0.08% (2019 est.)<br>
 
 **Credit ratings**<br>
 _Fitch rating_: B- (2017)<br>
@@ -450,10 +450,10 @@ sugar cane, maize, milk, poultry, sorghum, beans, coconuts, eggs, apples, orange
 food processing, beverages, petroleum, chemicals, fertilizer, textiles, furniture, light metals<br>
 
 **Industrial production growth rate**<br>
-3.6% (2017 est.)<br>
+9.47% (2021 est.)<br>
 
 **Labor force**<br>
-2.908 million (2019 est.)<br>
+2.658 million (2021 est.)<br>
 
 **Labor force - by occupation**<br>
 _agriculture_: 21%<br>
@@ -461,21 +461,21 @@ _industry_: 20%<br>
 _services_: 58% (2011 est.)<br>
 
 **Unemployment rate**<br>
-7% (2017 est.)<br>
-6.9% (2016 est.)<br>
+5.94% (2021 est.)<br>
+6.25% (2020 est.)<br>
+4.17% (2019 est.)<br>
 <strong>note:</strong> data are official rates; but underemployment is high<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 11.6%<br>
-_male_: 9.6%<br>
-_female_: 15.1% (2020)<br>
+_total_: 13.7%<br>
+_male_: 11.3%<br>
+_female_: 18.3% (2021 est.)<br>
 
 **Population below poverty line**<br>
 22.8% (2019 est.)<br>
 
 **Gini Index coefficient - distribution of family income**<br>
-38.6 (2018 est.)<br>
-38 (2014)<br>
+38.8 (2019 est.)<br>
 
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 2.2%<br>
@@ -489,24 +489,26 @@ _expenditures_: 6.517 billion (2017 est.)<br>
 -2.5% (of GDP) (2017 est.)<br>
 
 **Public debt**<br>
-67.9% of GDP (2017 est.)<br>
-66.4% of GDP (2016 est.)<br>
+71.41% of GDP (2020 est.)<br>
+53.88% of GDP (2019 est.)<br>
+52.21% of GDP (2018 est.)<br>
 <strong>note:</strong> El Salvador's total public debt includes non-financial public sector debt, financial public sector debt, and central bank debt<br>
 
 **Taxes and other revenues**<br>
-23.7% (of GDP) (2017 est.)<br>
+18.66% (of GDP) (2020 est.)<br>
 
 **Fiscal year**<br>
 calendar year<br>
 
 **Current account balance**<br>
--$501 million (2017 est.)<br>
--$500 million (2016 est.)<br>
+-$1.457 billion (2021 est.)<br>
+$202.947 million (2020 est.)<br>
+-$113.356 million (2019 est.)<br>
 
 **Exports**<br>
-$6.29 billion (2020 est.) note: data are in current year dollars<br>
-$7.98 billion (2019 est.) note: data are in current year dollars<br>
-$7.56 billion (2018 est.) note: data are in current year dollars<br>
+$8.491 billion (2021 est.) note: data are in current year dollars<br>
+$6.295 billion (2020 est.) note: data are in current year dollars<br>
+$8.057 billion (2019 est.) note: data are in current year dollars<br>
 
 **Exports - partners**<br>
 United States 40%, Guatemala 15%, Honduras 15%, Nicaragua 6% (2019)<br>
@@ -515,9 +517,9 @@ United States 40%, Guatemala 15%, Honduras 15%, Nicaragua 6% (2019)<br>
 textiles and apparel, electrical capacitors, plastic lids, raw sugar, toilet paper (2019)<br>
 
 **Imports**<br>
-$10.82 billion (2020 est.) note: data are in current year dollars<br>
-$12.45 billion (2019 est.) note: data are in current year dollars<br>
-$12.32 billion (2018 est.) note: data are in current year dollars<br>
+$15.754 billion (2021 est.) note: data are in current year dollars<br>
+$10.764 billion (2020 est.) note: data are in current year dollars<br>
+$12.469 billion (2019 est.) note: data are in current year dollars<br>
 
 **Imports - partners**<br>
 United States 30%, China 14%, Guatemala 13%, Mexico 8%, Honduras 6% (2019)<br>
@@ -526,8 +528,9 @@ United States 30%, China 14%, Guatemala 13%, Mexico 8%, Honduras 6% (2019)<br>
 refined petroleum, packaged medicines, clothing, broadcasting equipment, natural gas (2019)<br>
 
 **Reserves of foreign exchange and gold**<br>
-$3.567 billion (31 December 2017 est.)<br>
-$3.238 billion (31 December 2016 est.)<br>
+$3.426 billion (31 December 2021 est.)<br>
+$3.083 billion (31 December 2020 est.)<br>
+$4.446 billion (31 December 2019 est.)<br>
 
 **Debt - external**<br>
 $17.24 billion (2019 est.)<br>
@@ -535,6 +538,10 @@ $16.712 billion (2018 est.)<br>
 
 **Exchange rates**<br>
 _Currency_: <strong>note:</strong> the US dollar is used as a medium of exchange and circulates freely in the economy<br>
+1 (2021 est.)<br>
+1 (2020 est.)<br>
+1 (2019 est.)<br>
+1 (2018 est.)<br>
 1 (2017 est.)<br>
 
 ## Energy

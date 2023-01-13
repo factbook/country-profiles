@@ -164,7 +164,7 @@ _female_: 79.97 years (2022 est.)<br>
 1.51 children born/woman (2022 est.)<br>
 
 **Gross reproduction rate**<br>
-0.73 (2022 est.)<br>
+0.74 (2023 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 52.6% (2019)<br>
@@ -212,11 +212,11 @@ _total_: 30.5% (2020 est.)<br>
 _male_: 47.4% (2020 est.)<br>
 _female_: 13.5% (2020 est.)<br>
 
-**Currently married women (ages 15-49)**<br>
-67.1% (2022 est.)<br>
-
 **Children under the age of 5 years underweight**<br>
 NA<br>
+
+**Currently married women (ages 15-49)**<br>
+66.6% (2023 est.)<br>
 
 **Child marriage**<br>
 _women married by age 15_: 0.1%<br>
@@ -238,9 +238,9 @@ _male_: 15 years<br>
 _female_: 15 years (2021)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 12%<br>
-_male_: 13.8%<br>
-_female_: 10.1% (2020 est.)<br>
+_total_: 11.3%<br>
+_male_: 14%<br>
+_female_: 8.4% (2021 est.)<br>
 
 ## Environment
 
@@ -404,29 +404,29 @@ _selected World Heritage Site locales_: Białowieża Forest (n); Mir Castle Comp
 <p>As part of the former Soviet Union, Belarus had a relatively well-developed industrial base, but it is now outdated, inefficient, and dependent on subsidized Russian energy and preferential access to Russian markets. The country’s agricultural base is largely dependent on government subsidies. Following the collapse of the Soviet Union, an initial burst of economic reforms included privatization of state enterprises, creation of private property rights, and the acceptance of private entrepreneurship, but by 1994 the reform effort dissipated. About 80% of industry remains in state hands, and foreign investment has virtually disappeared. Several businesses have been renationalized. State-owned entities account for 70-75% of GDP, and state banks make up 75% of the banking sector.</p> <p> </p> <p>Economic output declined for several years following the break-up of the Soviet Union, but revived in the mid-2000s. Belarus has only small reserves of crude oil and imports crude oil and natural gas from Russia at subsidized, below market, prices. Belarus derives export revenue by refining Russian crude and selling it at market prices. Russia and Belarus have had serious disagreements over prices and quantities for Russian energy. Beginning in early 2016, Russia claimed Belarus began accumulating debt – reaching $740 million by April 2017 – for paying below the agreed price for Russian natural gas and Russia cut back its export of crude oil as a result of the debt. In April 2017, Belarus agreed to pay its gas debt and Russia restored the flow of crude.</p> <p> </p> <p>New non-Russian foreign investment has been limited in recent years, largely because of an unfavorable financial climate. In 2011, a financial crisis lead to a nearly three-fold devaluation of the Belarusian ruble. The Belarusian economy has continued to struggle under the weight of high external debt servicing payments and a trade deficit. In mid-December 2014, the devaluation of the Russian ruble triggered a near 40% devaluation of the Belarusian ruble.</p> <p> </p> <p>Belarus’s economy stagnated between 2012 and 2016, widening productivity and income gaps between Belarus and neighboring countries. Budget revenues dropped because of falling global prices on key Belarusian export commodities. Since 2015, the Belarusian government has tightened its macro-economic policies, allowed more flexibility to its exchange rate, taken some steps towards price liberalization, and reduced subsidized government lending to state-owned enterprises. Belarus returned to modest growth in 2017, largely driven by improvement of external conditions and Belarus issued sovereign debt for the first time since 2011, which provided the country with badly-needed liquidity, and issued $600 million worth of Eurobonds in February 2018, predominantly to US and British investors.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
-$179.97 billion (2020 est.)<br>
-$181.61 billion (2019 est.)<br>
-$179.1 billion (2018 est.)<br>
+$184.482 billion (2021 est.)<br>
+$180.335 billion (2020 est.)<br>
+$181.605 billion (2019 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
-1.22% (2019 est.)<br>
-3.17% (2018 est.)<br>
-2.53% (2017 est.)<br>
+2.3% (2021 est.)<br>
+-0.7% (2020 est.)<br>
+1.4% (2019 est.)<br>
 
 **Real GDP per capita**<br>
-$19,100 (2020 est.)<br>
+$19,800 (2021 est.)<br>
+$19,200 (2020 est.)<br>
 $19,300 (2019 est.)<br>
-$18,900 (2018 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
 $63.168 billion (2019 est.)<br>
 
 **Inflation rate (consumer prices)**<br>
+9.46% (2021 est.)<br>
+5.55% (2020 est.)<br>
 5.6% (2019 est.)<br>
-4.8% (2018 est.)<br>
-6% (2017 est.)<br>
 
 **Credit ratings**<br>
 _Fitch rating_: B (2018)<br>
@@ -454,10 +454,10 @@ milk, potatoes, sugar beets, wheat, triticale, barley, maize, rye, rapeseed, pou
 metal-cutting machine tools, tractors, trucks, earthmovers, motorcycles, synthetic fibers, fertilizer, textiles, refrigerators, washing machines and other household appliances<br>
 
 **Industrial production growth rate**<br>
-5.6% (2017 est.)<br>
+6.7% (2021 est.)<br>
 
 **Labor force**<br>
-4.381 million (2016 est.)<br>
+4.95 million (2021 est.)<br>
 
 **Labor force - by occupation**<br>
 _agriculture_: 9.7%<br>
@@ -465,21 +465,21 @@ _industry_: 23.4%<br>
 _services_: 66.8% (2015 est.)<br>
 
 **Unemployment rate**<br>
-0.8% (2017 est.)<br>
-1% (2016 est.)<br>
+4.74% (2021 est.)<br>
+4.77% (2020 est.)<br>
+4.16% (2019 est.)<br>
 <strong>note:</strong> official registered unemployed; large number of underemployed workers<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 12%<br>
-_male_: 13.8%<br>
-_female_: 10.1% (2020 est.)<br>
+_total_: 11.3%<br>
+_male_: 14%<br>
+_female_: 8.4% (2021 est.)<br>
 
 **Population below poverty line**<br>
 5% (2019 est.)<br>
 
 **Gini Index coefficient - distribution of family income**<br>
-25.2 (2018 est.)<br>
-21.7 (1998)<br>
+24.4 (2020 est.)<br>
 
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 3.8%<br>
@@ -493,23 +493,25 @@ _expenditures_: 20.57 billion (2017 est.)<br>
 2.9% (of GDP) (2017 est.)<br>
 
 **Public debt**<br>
-53.4% of GDP (2017 est.)<br>
-53.5% of GDP (2016 est.)<br>
+33.24% of GDP (2019 est.)<br>
+37.1% of GDP (2018 est.)<br>
+39.88% of GDP (2017 est.)<br>
 
 **Taxes and other revenues**<br>
-40.7% (of GDP) (2017 est.)<br>
+12.02% (of GDP) (2020 est.)<br>
 
 **Fiscal year**<br>
 calendar year<br>
 
 **Current account balance**<br>
--$931 million (2017 est.)<br>
--$1.669 billion (2016 est.)<br>
+$2.153 billion (2021 est.)<br>
+-$178.4 million (2020 est.)<br>
+-$1.246 billion (2019 est.)<br>
 
 **Exports**<br>
-$37.04 billion (2020 est.)<br>
-$41.97 billion (2019 est.)<br>
-$42.27 billion (2018 est.)<br>
+$49.425 billion (2021 est.)<br>
+$37.183 billion (2020 est.)<br>
+$41.975 billion (2019 est.)<br>
 <strong>note:</strong> Data are in current year dollars and do not include illicit exports or re-exports.<br>
 
 **Exports - partners**<br>
@@ -519,9 +521,9 @@ Russia 42%, Ukraine 13%, United Kingdom 7% (2019)<br>
 refined petroleum, fertilizers, cheese, delivery trucks, crude petroleum (2019)<br>
 
 **Imports**<br>
-$35.16 billion (2020 est.) note: data are in current year dollars<br>
-$42.38 billion (2019 est.) note: data are in current year dollars<br>
-$41.34 billion (2018 est.) note: data are in current year dollars<br>
+$45.459 billion (2021 est.) note: data are in current year dollars<br>
+$35.236 billion (2020 est.) note: data are in current year dollars<br>
+$42.378 billion (2019 est.) note: data are in current year dollars<br>
 
 **Imports - partners**<br>
 Russia 57%, China 7%, Poland 5%, Germany 5%, Ukraine 5% (2019)<br>
@@ -530,8 +532,9 @@ Russia 57%, China 7%, Poland 5%, Germany 5%, Ukraine 5% (2019)<br>
 crude petroleum, natural gas, cars and vehicle parts, packaged medicines, broadcasting equipment (2019)<br>
 
 **Reserves of foreign exchange and gold**<br>
-$7.315 billion (31 December 2017 est.)<br>
-$4.927 billion (31 December 2016 est.)<br>
+$8.425 billion (31 December 2021 est.)<br>
+$7.468 billion (31 December 2020 est.)<br>
+$9.394 billion (31 December 2019 est.)<br>
 
 **Debt - external**<br>
 $39.847 billion (2019 est.)<br>
@@ -539,11 +542,11 @@ $39.297 billion (2018 est.)<br>
 
 **Exchange rates**<br>
 _Currency_: Belarusian rubles (BYB/BYR) per US dollar -<br>
-1.9 (2017 est.)<br>
-2 (2016 est.)<br>
-2 (2015 est.)<br>
-15,926 (2014 est.)<br>
-10,224.1 (2013 est.)<br>
+2.539 (2021 est.)<br>
+2.44 (2020 est.)<br>
+2.092 (2019 est.)<br>
+2.038 (2018 est.)<br>
+1.932 (2017 est.)<br>
 
 ## Energy
 

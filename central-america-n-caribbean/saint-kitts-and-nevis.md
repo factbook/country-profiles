@@ -152,7 +152,7 @@ _female_: 79.58 years (2022 est.)<br>
 1.76 children born/woman (2022 est.)<br>
 
 **Gross reproduction rate**<br>
-0.87 (2022 est.)<br>
+0.87 (2023 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 NA<br>
@@ -195,11 +195,11 @@ _wine_: 1.02 liters of pure alcohol (2019 est.)<br>
 _spirits_: 3.89 liters of pure alcohol (2019 est.)<br>
 _other alcohols_: 0.21 liters of pure alcohol (2019 est.)<br>
 
-**Currently married women (ages 15-49)**<br>
-57.1% (2022 est.)<br>
-
 **Children under the age of 5 years underweight**<br>
 NA<br>
+
+**Currently married women (ages 15-49)**<br>
+57.2% (2023 est.)<br>
 
 **Education expenditures**<br>
 2.5% of GDP (2021 est.)<br>
@@ -360,28 +360,29 @@ _selected World Heritage Site locales_: Brimstone Hill Fortress National Park<br
 <p>The economy of Saint Kitts and Nevis depends on tourism; since the 1970s, tourism has replaced sugar as the economy’s traditional mainstay. Roughly 200,000 tourists visited the islands in 2009, but reduced tourism arrivals and foreign investment led to an economic contraction in the 2009-2013 period, and the economy returned to growth only in 2014. Like other tourist destinations in the Caribbean, Saint Kitts and Nevis is vulnerable to damage from natural disasters and shifts in tourism demand.</p> <p> </p> <p>Following the 2005 harvest, the government closed the sugar industry after several decades of losses. To compensate for lost jobs, the government has embarked on a program to diversify the agricultural sector and to stimulate other sectors of the economy, such as export-oriented manufacturing and offshore banking. The government has made notable progress in reducing its public debt, from 154% of GDP in 2011 to 83% in 2013, although it still faces one of the highest levels in the world, largely attributable to public enterprise losses. Saint Kitts and Nevis is among other countries in the Caribbean that supplement their economic activity through economic citizenship programs, whereby foreigners can obtain citizenship from Saint Kitts and Nevis by investing there.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
-$1.24 billion (2020 est.)<br>
-$1.39 billion (2019 est.)<br>
-$1.36 billion (2018 est.)<br>
+$1.261 billion (2021 est.)<br>
+$1.272 billion (2020 est.)<br>
+$1.488 billion (2019 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
-2.1% (2017 est.)<br>
-2.9% (2016 est.)<br>
-2.7% (2015 est.)<br>
+-0.88% (2021 est.)<br>
+-14.53% (2020 est.)<br>
+4.05% (2019 est.)<br>
 
 **Real GDP per capita**<br>
-$23,300 (2020 est.)<br>
-$26,200 (2019 est.)<br>
-$25,900 (2018 est.)<br>
+$26,500 (2021 est.)<br>
+$26,700 (2020 est.)<br>
+$31,200 (2019 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
 $964 million (2017 est.)<br>
 
 **Inflation rate (consumer prices)**<br>
-0% (2017 est.)<br>
--0.3% (2016 est.)<br>
+1.2% (2021 est.)<br>
+-1.17% (2020 est.)<br>
+-0.33% (2019 est.)<br>
 
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 1.1% (2017 est.)<br>
@@ -403,7 +404,7 @@ coconuts, tropical fruit, roots/tubers, vegetables, sweet potatoes, pulses, wate
 tourism, cotton, salt, copra, clothing, footwear, beverages<br>
 
 **Industrial production growth rate**<br>
-5% (2017 est.)<br>
+1.55% (2021 est.)<br>
 
 **Labor force**<br>
 18,170 (June 1995 est.)<br>
@@ -430,18 +431,20 @@ _expenditures_: 291.1 million (2017 est.)<br>
 61.5% of GDP (2016 est.)<br>
 
 **Taxes and other revenues**<br>
-31.9% (of GDP) (2017 est.)<br>
+15.03% (of GDP) (2020 est.)<br>
 
 **Fiscal year**<br>
 calendar year<br>
 
 **Current account balance**<br>
--$97 million (2017 est.)<br>
--$102 million (2016 est.)<br>
+-$61.009 million (2021 est.)<br>
+-$78.456 million (2020 est.)<br>
+-$25.045 million (2019 est.)<br>
 
 **Exports**<br>
-$610 million (2018 est.) note: data are in current year dollars<br>
-$53.9 million (2016 est.)<br>
+$408.471 million (2021 est.) note: data are in current year dollars<br>
+$383.152 million (2020 est.)<br>
+$598.343 million (2019 est.)<br>
 
 **Exports - partners**<br>
 United States 69%, Germany 8%, Italy 5% (2019)<br>
@@ -450,8 +453,9 @@ United States 69%, Germany 8%, Italy 5% (2019)<br>
 low-voltage protection equipment, broadcasting equipment, measuring instruments, electric motor parts, electrical transformers (2019)<br>
 
 **Imports**<br>
-$590 million (2018 est.) note: data are in current year dollars<br>
-$307.9 million (2016 est.)<br>
+$441.192 million (2021 est.) note: data are in current year dollars<br>
+$432.584 million (2020 est.)<br>
+$602.385 million (2019 est.)<br>
 
 **Imports - partners**<br>
 United States 59%, Peru 6%, Germany 5% (2019)<br>
@@ -460,8 +464,9 @@ United States 59%, Peru 6%, Germany 5% (2019)<br>
 refined petroleum, jewelry, ships, cars, poultry meats, cement (2019)<br>
 
 **Reserves of foreign exchange and gold**<br>
-$365.1 million (31 December 2017 est.)<br>
-$320.5 million (31 December 2016 est.)<br>
+$337.533 million (31 December 2021 est.)<br>
+$373.502 million (31 December 2020 est.)<br>
+$362.798 million (31 December 2019 est.)<br>
 
 **Debt - external**<br>
 $201.8 million (31 December 2017 est.)<br>
@@ -469,11 +474,11 @@ $187.9 million (31 December 2016 est.)<br>
 
 **Exchange rates**<br>
 _Currency_: East Caribbean dollars (XCD) per US dollar -<br>
+2.7 (2021 est.)<br>
+2.7 (2020 est.)<br>
+2.7 (2019 est.)<br>
+2.7 (2018 est.)<br>
 2.7 (2017 est.)<br>
-2.7 (2016 est.)<br>
-2.7 (2015 est.)<br>
-2.7 (2014 est.)<br>
-2.7 (2013 est.)<br>
 
 ## Energy
 

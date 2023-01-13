@@ -173,7 +173,7 @@ _female_: 68.53 years (2022 est.)<br>
 2.98 children born/woman (2022 est.)<br>
 
 **Gross reproduction rate**<br>
-1.47 (2022 est.)<br>
+1.45 (2023 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 56.1% (2013)<br>
@@ -227,11 +227,11 @@ _total_: 15.1% (2020 est.)<br>
 _male_: 24.2% (2020 est.)<br>
 _female_: 6% (2020 est.)<br>
 
-**Currently married women (ages 15-49)**<br>
-33.2% (2022 est.)<br>
-
 **Children under the age of 5 years underweight**<br>
 13.2% (2013)<br>
+
+**Currently married women (ages 15-49)**<br>
+33.3% (2023 est.)<br>
 
 **Education expenditures**<br>
 9.6% of GDP (2021 est.)<br>
@@ -243,9 +243,9 @@ _male_: 91.6%<br>
 _female_: 91.4% (2018)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 38%<br>
-_male_: 37.5%<br>
-_female_: 38.5% (2018 est.)<br>
+_total_: 40.4%<br>
+_male_: 39.4%<br>
+_female_: 41.7% (2021 est.)<br>
 
 ## Environment
 
@@ -420,29 +420,29 @@ _selected World Heritage Site locales_: Twyfelfontein or /Ui-//aes (c); Namib Sa
 <p>Namibia’s economy is heavily dependent on the extraction and processing of minerals for export. Mining accounts for about 12.5% of GDP, but provides more than 50% of foreign exchange earnings. Rich alluvial diamond deposits make Namibia a primary source for gem-quality diamonds. Marine diamond mining is increasingly important as the terrestrial diamond supply has dwindled. The rising cost of mining diamonds, especially from the sea, combined with increased diamond production in Russia and China, has reduced profit margins. Namibian authorities have emphasized the need to add value to raw materials, do more in-country manufacturing, and exploit the services market, especially in the logistics and transportation sectors.</p> <p> </p> <p>Namibia is one of the world’s largest producers of uranium. The Chinese-owned Husab uranium mine began producing uranium ore in 2017, and is expected to reach full production in August 2018 and produce 15 million pounds of uranium a year. Namibia also produces large quantities of zinc and is a smaller producer of gold and copper. Namibia's economy remains vulnerable to world commodity price fluctuations and drought.</p> <p> </p> <p>Namibia normally imports about 50% of its cereal requirements; in drought years, food shortages are problematic in rural areas. A high per capita GDP, relative to the region, obscures one of the world's most unequal income distributions; the current government has prioritized exploring wealth redistribution schemes while trying to maintain a pro-business environment. GDP growth in 2017 slowed to about 1%, however, due to contractions in both the construction and mining sectors, as well as an ongoing drought. Growth is expected to recover modestly in 2018.</p> <p> </p> <p>A five-year Millennium Challenge Corporation compact ended in September 2014. As an upper middle income country, Namibia is ineligible for a second compact. The Namibian economy is closely linked to South Africa with the Namibian dollar pegged one-to-one to the South African rand. Namibia receives 30%-40% of its revenues from the Southern African Customs Union (SACU); volatility in the size of Namibia's annual SACU allotment and global mineral prices complicates budget planning.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
-$22.6 billion (2020 est.)<br>
-$24.56 billion (2019 est.)<br>
-$24.71 billion (2018 est.)<br>
+$23.12 billion (2021 est.)<br>
+$22.522 billion (2020 est.)<br>
+$24.49 billion (2019 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
--1.56% (2019 est.)<br>
-1.13% (2018 est.)<br>
--1.02% (2017 est.)<br>
+2.66% (2021 est.)<br>
+-8.04% (2020 est.)<br>
+-0.84% (2019 est.)<br>
 
 **Real GDP per capita**<br>
-$8,900 (2020 est.)<br>
-$9,800 (2019 est.)<br>
-$10,100 (2018 est.)<br>
+$9,100 (2021 est.)<br>
+$9,000 (2020 est.)<br>
+$10,000 (2019 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
 $12.372 billion (2019 est.)<br>
 
 **Inflation rate (consumer prices)**<br>
-3.7% (2019 est.)<br>
-4.2% (2018 est.)<br>
-6.1% (2017 est.)<br>
+3.62% (2021 est.)<br>
+2.21% (2020 est.)<br>
+3.72% (2019 est.)<br>
 
 **Credit ratings**<br>
 _Fitch rating_: BB (2019)<br>
@@ -469,10 +469,10 @@ roots/tubers nes, milk, maize, onions, beef, grapes, fruit, pulses nes, vegetabl
 meatpacking, fish processing, dairy products, pasta, beverages; mining (diamonds, lead, zinc, tin, silver, tungsten, uranium, copper)<br>
 
 **Industrial production growth rate**<br>
--0.4% (2017 est.)<br>
+1.44% (2021 est.)<br>
 
 **Labor force**<br>
-956,800 (2017 est.)<br>
+939,000 (2021 est.)<br>
 
 **Labor force - by occupation**<br>
 _agriculture_: 31%<br>
@@ -481,20 +481,20 @@ _services_: 54% (2013 est.)<br>
 <strong>note:</strong> about half of Namibia's people are unemployed while about two-thirds live in rural areas; roughly two-thirds of rural dwellers rely on subsistence agriculture<br>
 
 **Unemployment rate**<br>
-34% (2016 est.)<br>
-28.1% (2014 est.)<br>
+21.68% (2021 est.)<br>
+21.45% (2020 est.)<br>
+19.99% (2019 est.)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 38%<br>
-_male_: 37.5%<br>
-_female_: 38.5% (2018 est.)<br>
+_total_: 40.4%<br>
+_male_: 39.4%<br>
+_female_: 41.7% (2021 est.)<br>
 
 **Population below poverty line**<br>
 17.4% (2015 est.)<br>
 
 **Gini Index coefficient - distribution of family income**<br>
 59.1 (2015 est.)<br>
-70.7 (2003)<br>
 
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 2.4%<br>
@@ -508,23 +508,25 @@ _expenditures_: 5 billion (2017 est.)<br>
 -5.5% (of GDP) (2017 est.)<br>
 
 **Public debt**<br>
-41.3% of GDP (2017 est.)<br>
-39.5% of GDP (2016 est.)<br>
+4.64% of GDP (2019 est.)<br>
+5.49% of GDP (2018 est.)<br>
+5.44% of GDP (2017 est.)<br>
 
 **Taxes and other revenues**<br>
-32.2% (of GDP) (2017 est.)<br>
+31.17% (of GDP) (2020 est.)<br>
 
 **Fiscal year**<br>
 1 April - 31 March<br>
 
 **Current account balance**<br>
--$216 million (2019 est.)<br>
--$465 million (2018 est.)<br>
+-$1.21 billion (2021 est.)<br>
+$270.277 million (2020 est.)<br>
+-$222.969 million (2019 est.)<br>
 
 **Exports**<br>
-$3.56 billion (2020 est.) note: data are in current year dollars<br>
-$4.56 billion (2019 est.) note: data are in current year dollars<br>
-$4.95 billion (2018 est.) note: data are in current year dollars<br>
+$3.955 billion (2021 est.) note: data are in current year dollars<br>
+$3.565 billion (2020 est.) note: data are in current year dollars<br>
+$4.581 billion (2019 est.) note: data are in current year dollars<br>
 
 **Exports - partners**<br>
 China 27%, South Africa 18%, Botswana 8%, Belgium 7% (2019)<br>
@@ -533,9 +535,9 @@ China 27%, South Africa 18%, Botswana 8%, Belgium 7% (2019)<br>
 copper, diamonds, uranium, thorium, gold, radioactive chemicals, fish (2019)<br>
 
 **Imports**<br>
-$4.54 billion (2020 est.) note: data are in current year dollars<br>
-$5.77 billion (2019 est.) note: data are in current year dollars<br>
-$6.33 billion (2018 est.) note: data are in current year dollars<br>
+$6.055 billion (2021 est.) note: data are in current year dollars<br>
+$4.614 billion (2020 est.) note: data are in current year dollars<br>
+$5.808 billion (2019 est.) note: data are in current year dollars<br>
 
 **Imports - partners**<br>
 South Africa 47%, Zambia 16% (2019)<br>
@@ -544,8 +546,9 @@ South Africa 47%, Zambia 16% (2019)<br>
 copper, refined petroleum, delivery trucks, diamonds, cars (2019)<br>
 
 **Reserves of foreign exchange and gold**<br>
-$2.432 billion (31 December 2017 est.)<br>
-$1.834 billion (31 December 2016 est.)<br>
+$2.764 billion (31 December 2021 est.)<br>
+$2.171 billion (31 December 2020 est.)<br>
+$2.049 billion (31 December 2019 est.)<br>
 
 **Debt - external**<br>
 $7.969 billion (31 December 2017 est.)<br>
@@ -553,11 +556,11 @@ $6.904 billion (31 December 2016 est.)<br>
 
 **Exchange rates**<br>
 _Currency_: Namibian dollars (NAD) per US dollar -<br>
-13.67 (2017 est.)<br>
-14.7096 (2016 est.)<br>
-14.7096 (2015 est.)<br>
-12.7589 (2014 est.)<br>
-10.8526 (2013 est.)<br>
+14.779 (2021 est.)<br>
+16.463 (2020 est.)<br>
+14.449 (2019 est.)<br>
+13.234 (2018 est.)<br>
+13.313 (2017 est.)<br>
 
 ## Energy
 

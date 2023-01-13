@@ -157,7 +157,7 @@ _female_: 80.23 years (2022 est.)<br>
 1.71 children born/woman (2022 est.)<br>
 
 **Gross reproduction rate**<br>
-0.83 (2022 est.)<br>
+0.83 (2023 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 NA<br>
@@ -208,11 +208,11 @@ _total_: 38.2% (2020 est.)<br>
 _male_: 47.5% (2020 est.)<br>
 _female_: 28.9% (2020 est.)<br>
 
-**Currently married women (ages 15-49)**<br>
-51.6% (2022 est.)<br>
-
 **Children under the age of 5 years underweight**<br>
 NA<br>
+
+**Currently married women (ages 15-49)**<br>
+51.4% (2023 est.)<br>
 
 **Child marriage**<br>
 _women married by age 15_: 1.4%<br>
@@ -233,9 +233,9 @@ _male_: 12 years<br>
 _female_: 11 years (2014)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 23.3%<br>
-_male_: 24.5%<br>
-_female_: 21.4% (2019)<br>
+_total_: 29.6%<br>
+_male_: 30.8%<br>
+_female_: 26.7% (2021 est.)<br>
 
 ## Environment
 
@@ -400,29 +400,29 @@ _selected World Heritage Site locales_: Anjar; Baalbek; Byblos; Tyre; Ouadi Qadi
 <p>Lebanon has a free-market economy and a strong laissez-faire commercial tradition. The government does not restrict foreign investment; however, the investment climate suffers from red tape, corruption, arbitrary licensing decisions, complex customs procedures, high taxes, tariffs, and fees, archaic legislation, and inadequate intellectual property rights protection. The Lebanese economy is service-oriented; main growth sectors include banking and tourism.</p> <p> </p> <p>The 1975-90 civil war seriously damaged Lebanon's economic infrastructure, cut national output by half, and derailed Lebanon's position as a Middle Eastern banking hub. Following the civil war, Lebanon rebuilt much of its war-torn physical and financial infrastructure by borrowing heavily, mostly from domestic banks, which saddled the government with a huge debt burden. Pledges of economic and financial reforms made at separate international donor conferences during the 2000s have mostly gone unfulfilled, including those made during the Paris III Donor Conference in 2007, following the July 2006 war. The "CEDRE" investment event hosted by France in April 2018 again rallied the international community to assist Lebanon with concessional financing and some grants for capital infrastructure improvements, conditioned upon long-delayed structural economic reforms in fiscal management, electricity tariffs, and transparent public procurement, among many others.</p> <p> </p> <p>The Syria conflict cut off one of Lebanon's major markets and a transport corridor through the Levant. The influx of nearly one million registered and an estimated 300,000 unregistered Syrian refugees has increased social tensions and heightened competition for low-skill jobs and public services. Lebanon continues to face several long-term structural weaknesses that predate the Syria crisis, notably, weak infrastructure, poor service delivery, institutionalized corruption, and bureaucratic over-regulation. Chronic fiscal deficits have increased Lebanon’s debt-to-GDP ratio, the third highest in the world; most of the debt is held internally by Lebanese banks. These factors combined to slow economic growth to the 1-2% range in 2011-17, after four years of averaging 8% growth. Weak economic growth limits tax revenues, while the largest government expenditures remain debt servicing, salaries for government workers, and transfers to the electricity sector. These limitations constrain other government spending, limiting its ability to invest in necessary infrastructure improvements, such as water, electricity, and transportation. In early 2018, the Lebanese government signed long-awaited contract agreements with an international consortium for petroleum exploration and production as part of the country’s first offshore licensing round. Exploration is expected to begin in 2019.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
-$79.51 billion (2020 est.)<br>
-$99.76 billion (2019 est.)<br>
-$106.93 billion (2018 est.)<br>
+$72.577 billion (2021 est.)<br>
+$78.041 billion (2020 est.)<br>
+$99.288 billion (2019 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
-1.5% (2017 est.)<br>
-1.7% (2016 est.)<br>
-0.2% (2015 est.)<br>
+-7% (2021 est.)<br>
+-21.4% (2020 est.)<br>
+-7.16% (2019 est.)<br>
 
 **Real GDP per capita**<br>
-$11,600 (2020 est.)<br>
-$14,600 (2019 est.)<br>
-$15,600 (2018 est.)<br>
+$13,000 (2021 est.)<br>
+$13,800 (2020 est.)<br>
+$17,200 (2019 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
 $53.253 billion (2019 est.)<br>
 
 **Inflation rate (consumer prices)**<br>
-2.8% (2019 est.)<br>
-6% (2018 est.)<br>
-4.4% (2017 est.)<br>
+154.76% (2021 est.)<br>
+84.86% (2020 est.)<br>
+3.01% (2019 est.)<br>
 
 **Credit ratings**<br>
 _Fitch rating_: RD (2020)<br>
@@ -450,10 +450,10 @@ potatoes, milk, tomatoes, apples, oranges, olives, wheat, cucumbers, poultry, le
 banking, tourism, real estate and construction, food processing, wine, jewelry, cement, textiles, mineral and chemical products, wood and furniture products, oil refining, metal fabricating<br>
 
 **Industrial production growth rate**<br>
--21.1% (2017 est.)<br>
+-6.85% (2021 est.)<br>
 
 **Labor force**<br>
-2.166 million (2016 est.)<br>
+1.719 million (2021 est.)<br>
 <strong>note:</strong> excludes as many as 1 million foreign workers and refugees<br>
 
 **Labor force - by occupation**<br>
@@ -462,12 +462,14 @@ _industry_: NA<br>
 _services_: NA<br>
 
 **Unemployment rate**<br>
-9.7% (2007)<br>
+14.49% (2021 est.)<br>
+13.3% (2020 est.)<br>
+11.35% (2019 est.)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 23.3%<br>
-_male_: 24.5%<br>
-_female_: 21.4% (2019)<br>
+_total_: 29.6%<br>
+_male_: 30.8%<br>
+_female_: 26.7% (2021 est.)<br>
 
 **Population below poverty line**<br>
 27.4% (2011 est.)<br>
@@ -492,18 +494,20 @@ _expenditures_: 15.38 billion (2017 est.)<br>
 <strong>note:</strong> data cover central government debt and exclude debt instruments issued (or owned) by government entities other than the treasury; the data include treasury debt held by foreign entities; the data include debt issued by subnational entities, as well as intragovernmental debt; intragovernmental debt consists of treasury borrowings from surpluses in the social funds, such as for retirement, medical care, and unemployment<br>
 
 **Taxes and other revenues**<br>
-21.5% (of GDP) (2017 est.)<br>
+8.9% (of GDP) (2020 est.)<br>
 
 **Fiscal year**<br>
 calendar year<br>
 
 **Current account balance**<br>
--$12.37 billion (2017 est.)<br>
--$11.18 billion (2016 est.)<br>
+-$2.985 billion (2021 est.)<br>
+-$2.995 billion (2020 est.)<br>
+-$11.265 billion (2019 est.)<br>
 
 **Exports**<br>
-$18.17 billion (2019 est.) note: data are in current year dollars<br>
-$19.16 billion (2018 est.) note: data are in current year dollars<br>
+$10.147 billion (2021 est.) note: data are in current year dollars<br>
+$8.773 billion (2020 est.) note: data are in current year dollars<br>
+$18.208 billion (2019 est.)<br>
 
 **Exports - partners**<br>
 Switzerland 27%, United Arab Emirates 15%, South Korea 11%, Saudi Arabia 7%, Kuwait 6% (2019)<br>
@@ -512,8 +516,9 @@ Switzerland 27%, United Arab Emirates 15%, South Korea 11%, Saudi Arabia 7%, Kuw
 gold, jewelry, shotguns, diamonds, scrap copper (2019)<br>
 
 **Imports**<br>
-$31.34 billion (2019 est.) note: data are in current year dollars<br>
-$32.78 billion (2018 est.) note: data are in current year dollars<br>
+$17.383 billion (2021 est.) note: data are in current year dollars<br>
+$15.206 billion (2020 est.) note: data are in current year dollars<br>
+$31.147 billion (2019 est.)<br>
 
 **Imports - partners**<br>
 United Arab Emirates 11%, China 10%, Italy 8%, Greece 8%, Turkey 7%, United States 6% (2019)<br>
@@ -522,8 +527,9 @@ United Arab Emirates 11%, China 10%, Italy 8%, Greece 8%, Turkey 7%, United Stat
 refined petroleum, cars, packaged medicines, jewelry, gold (2019)<br>
 
 **Reserves of foreign exchange and gold**<br>
-$55.42 billion (31 December 2017 est.)<br>
-$54.04 billion (31 December 2016 est.)<br>
+$35.239 billion (31 December 2021 est.)<br>
+$42.44 billion (31 December 2020 est.)<br>
+$52.213 billion (31 December 2019 est.)<br>
 
 **Debt - external**<br>
 $33.077 billion (2019 est.)<br>
@@ -531,11 +537,11 @@ $33.655 billion (2018 est.)<br>
 
 **Exchange rates**<br>
 _Currency_: Lebanese pounds (LBP) per US dollar -<br>
-1,517.5 (2020 est.)<br>
-1,513 (2019 est.)<br>
-1,506.5 (2018 est.)<br>
-1,507.5 (2014 est.)<br>
-1,507.5 (2013 est.)<br>
+1,507.5 (2021 est.)<br>
+1,507.5 (2020 est.)<br>
+1,507.5 (2019 est.)<br>
+1,507.5 (2018 est.)<br>
+1,507.5 (2017 est.)<br>
 
 ## Energy
 
@@ -715,7 +721,7 @@ Abdallah Azzam Brigades; al-Aqsa Martyrs Brigade; Asbat al-Ansar; HAMAS; Hizball
 <p><em>Lebanon-Syria</em>: lacking a treaty or other documentation describing the boundary, portions of the Lebanon-Syria boundary are unclear with several sections in dispute; in March 2021, Syria signed a contract with a Russian company for oil and gas exploration in a maritime area Lebanon claims as its own based on a 2011 map sent to the UN</p> <p><em>Lebanon-Israel</em>: Lebanon has claimed Shab'a Farms area in the Israeli-controlled Golan Heights; Lebanon and Israel resumed negotiations over their maritime border in 2020, but their efforts were derailed when Lebanon argued that the map the UN was using needed modifications</p> <p> </p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 479,537 (Palestinian refugees) (2020); 825,081 (Syria) (2022)<br>
+_refugees (country of origin)_: 479,537 (Palestinian refugees) (2020); 814,715 (Syria) (2022)<br>
 _IDPs_: 7,000 (2020)<br>
 _stateless persons_: undetermined (2016); note - tens of thousands of persons are stateless in Lebanon, including many Palestinian refugees and their descendants, Syrian Kurds denaturalized in Syria in 1962, children born to Lebanese women married to foreign or stateless men; most babies born to Syrian refugees, and Lebanese children whose births are unregistered<br>
 

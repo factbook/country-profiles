@@ -171,7 +171,7 @@ _female_: 71.09 years (2022 est.)<br>
 3.66 children born/woman (2022 est.)<br>
 
 **Gross reproduction rate**<br>
-1.8 (2022 est.)<br>
+1.78 (2023 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 27.2% (2017/18)<br>
@@ -228,11 +228,11 @@ _total_: 3.5% (2020 est.)<br>
 _male_: 6.6% (2020 est.)<br>
 _female_: 0.3% (2020 est.)<br>
 
-**Currently married women (ages 15-49)**<br>
-54.7% (2022 est.)<br>
-
 **Children under the age of 5 years underweight**<br>
 12.6% (2017/18)<br>
+
+**Currently married women (ages 15-49)**<br>
+54.3% (2023 est.)<br>
 
 **Child marriage**<br>
 _women married by age 15_: 5%<br>
@@ -254,9 +254,9 @@ _male_: 12 years<br>
 _female_: 12 years (2020)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 6.2%<br>
-_male_: 6.4%<br>
-_female_: 6.1% (2017 est.)<br>
+_total_: 9.6%<br>
+_male_: 9.7%<br>
+_female_: 9.4% (2021 est.)<br>
 
 ## Environment
 
@@ -425,29 +425,29 @@ _selected World Heritage Site locales_: Forts and Castles, Volta, Greater Accra,
 <p>Ghana has a market-based economy with relatively few policy barriers to trade and investment in comparison with other countries in the region, and Ghana is endowed with natural resources. Ghana's economy was strengthened by a quarter century of relatively sound management, a competitive business environment, and sustained reductions in poverty levels, but in recent years has suffered the consequences of loose fiscal policy, high budget and current account deficits, and a depreciating currency.</p> <p> </p> <p>Agriculture accounts for about 20% of GDP and employs more than half of the workforce, mainly small landholders. Gold, oil, and cocoa exports, and individual remittances, are major sources of foreign exchange. Expansion of Ghana’s nascent oil industry has boosted economic growth, but the fall in oil prices since 2015 reduced by half Ghana’s oil revenue. Production at Jubilee, Ghana's first commercial offshore oilfield, began in mid-December 2010. Production from two more fields, TEN and Sankofa, started in 2016 and 2017 respectively. The country’s first gas processing plant at Atuabo is also producing natural gas from the Jubilee field, providing power to several of Ghana’s thermal power plants.</p> <p> </p> <p>As of 2018, key economic concerns facing the government include the lack of affordable electricity, lack of a solid domestic revenue base, and the high debt burden. The AKUFO-ADDO administration has made some progress by committing to fiscal consolidation, but much work is still to be done. Ghana signed a $920 million extended credit facility with the IMF in April 2015 to help it address its growing economic crisis. The IMF fiscal targets require Ghana to reduce the deficit by cutting subsidies, decreasing the bloated public sector wage bill, strengthening revenue administration, boosting tax revenues, and improving the health of Ghana’s banking sector. Priorities for the new administration include rescheduling some of Ghana’s $31 billion debt, stimulating economic growth, reducing inflation, and stabilizing the currency. Prospects for new oil and gas production and follow through on tighter fiscal management are likely to help Ghana’s economy in 2018.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
-$164.84 billion (2020 est.)<br>
-$164.16 billion (2019 est.)<br>
-$154.13 billion (2018 est.)<br>
+$178.455 billion (2021 est.)<br>
+$169.382 billion (2020 est.)<br>
+$168.516 billion (2019 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
-8.4% (2017 est.)<br>
-3.7% (2016 est.)<br>
-3.8% (2015 est.)<br>
+5.36% (2021 est.)<br>
+0.51% (2020 est.)<br>
+6.51% (2019 est.)<br>
 
 **Real GDP per capita**<br>
+$5,400 (2021 est.)<br>
 $5,300 (2020 est.)<br>
-$5,400 (2019 est.)<br>
-$5,200 (2018 est.)<br>
+$5,300 (2019 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
 $65.363 billion (2019 est.)<br>
 
 **Inflation rate (consumer prices)**<br>
-8.4% (2019 est.)<br>
-9.8% (2018 est.)<br>
-12.3% (2017 est.)<br>
+9.97% (2021 est.)<br>
+9.89% (2020 est.)<br>
+7.14% (2019 est.)<br>
 
 **Credit ratings**<br>
 _Fitch rating_: B (2013)<br>
@@ -475,10 +475,10 @@ cassava, yams, plantains, maize, oil palm fruit, taro, rice, cocoa, oranges, pin
 mining, lumbering, light manufacturing, aluminum smelting, food processing, cement, small commercial ship building, petroleum<br>
 
 **Industrial production growth rate**<br>
-16.7% (2017 est.)<br>
+-0.8% (2021 est.)<br>
 
 **Labor force**<br>
-12.49 million (2017 est.)<br>
+14.095 million (2021 est.)<br>
 
 **Labor force - by occupation**<br>
 _agriculture_: 44.7%<br>
@@ -486,20 +486,20 @@ _industry_: 14.4%<br>
 _services_: 40.9% (2013 est.)<br>
 
 **Unemployment rate**<br>
-11.9% (2015 est.)<br>
-5.2% (2013 est.)<br>
+4.7% (2021 est.)<br>
+4.65% (2020 est.)<br>
+4.32% (2019 est.)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 6.2%<br>
-_male_: 6.4%<br>
-_female_: 6.1% (2017 est.)<br>
+_total_: 9.6%<br>
+_male_: 9.7%<br>
+_female_: 9.4% (2021 est.)<br>
 
 **Population below poverty line**<br>
 23.4% (2016 est.)<br>
 
 **Gini Index coefficient - distribution of family income**<br>
 43.5 (2016 est.)<br>
-42.3 (2012-13)<br> 41.9 (2005-06)<br>
 
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 2%<br>
@@ -517,18 +517,20 @@ _expenditures_: 12.36 billion (2017 est.)<br>
 73.4% of GDP (2016 est.)<br>
 
 **Taxes and other revenues**<br>
-20.3% (of GDP) (2017 est.)<br>
+11.34% (of GDP) (2020 est.)<br>
 
 **Fiscal year**<br>
 calendar year<br>
 
 **Current account balance**<br>
--$2.131 billion (2017 est.)<br>
--$2.86 billion (2016 est.)<br>
+-$2.541 billion (2021 est.)<br>
+-$2.134 billion (2020 est.)<br>
+-$1.864 billion (2019 est.)<br>
 
 **Exports**<br>
-$25.59 billion (2019 est.) note: data are in current year dollars<br>
-$22.51 billion (2018 est.) note: data are in current year dollars<br>
+$23.901 billion (2021 est.) note: data are in current year dollars<br>
+$22.077 billion (2020 est.) note: data are in current year dollars<br>
+$25.592 billion (2019 est.)<br>
 
 **Exports - partners**<br>
 Switzerland 23%, India 17%, China 12%, United Arab Emirates 8%, South Africa 8% (2019)<br>
@@ -537,8 +539,9 @@ Switzerland 23%, India 17%, China 12%, United Arab Emirates 8%, South Africa 8% 
 gold, crude petroleum, cocoa products, manganese, cashews (2019)<br>
 
 **Imports**<br>
-$26.91 billion (2019 est.) note: data are in current year dollars<br>
-$23.22 billion (2018 est.) note: data are in current year dollars<br>
+$25.967 billion (2021 est.) note: data are in current year dollars<br>
+$24.545 billion (2020 est.) note: data are in current year dollars<br>
+$26.908 billion (2019 est.)<br>
 
 **Imports - partners**<br>
 China 24%, Nigeria 22%, United States 5% (2019)<br>
@@ -547,8 +550,9 @@ China 24%, Nigeria 22%, United States 5% (2019)<br>
 metal tubing, ships, cars, refined petroleum, rice (2019)<br>
 
 **Reserves of foreign exchange and gold**<br>
-$7.555 billion (31 December 2017 est.)<br>
-$6.162 billion (31 December 2016 est.)<br>
+$9.917 billion (31 December 2021 est.)<br>
+$7.884 billion (31 December 2020 est.)<br>
+$7.563 billion (31 December 2019 est.)<br>
 
 **Debt - external**<br>
 $20.467 billion (2019 est.)<br>
@@ -556,11 +560,11 @@ $17.885 billion (2018 est.)<br>
 
 **Exchange rates**<br>
 _Currency_: cedis (GHC) per US dollar -<br>
-5.86 (2020 est.)<br>
-5.68 (2019 est.)<br>
-4.9 (2018 est.)<br>
-3.712 (2014 est.)<br>
-2.895 (2013 est.)<br>
+5.806 (2021 est.)<br>
+5.596 (2020 est.)<br>
+5.217 (2019 est.)<br>
+4.585 (2018 est.)<br>
+4.351 (2017 est.)<br>
 
 ## Energy
 

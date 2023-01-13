@@ -169,7 +169,7 @@ _female_: 77.41 years (2022 est.)<br>
 1.86 children born/woman (2022 est.)<br>
 
 **Gross reproduction rate**<br>
-0.91 (2022 est.)<br>
+0.9 (2023 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 NA<br>
@@ -217,11 +217,11 @@ _total_: 24% (2020 est.)<br>
 _male_: 47.9% (2020 est.)<br>
 _female_: 0.1% (2020 est.)<br>
 
-**Currently married women (ages 15-49)**<br>
-63.1% (2022 est.)<br>
-
 **Children under the age of 5 years underweight**<br>
 4.9% (2013)<br>
+
+**Currently married women (ages 15-49)**<br>
+62.9% (2023 est.)<br>
 
 **Education expenditures**<br>
 4.3% of GDP (2020 est.)<br>
@@ -238,9 +238,9 @@ _male_: 13 years<br>
 _female_: 14 years (2021)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 12.4%<br>
-_male_: 10.9%<br>
-_female_: 14.2% (2019 est.)<br>
+_total_: 16.5%<br>
+_male_: 14.4%<br>
+_female_: 18.9% (2021 est.)<br>
 
 ## Environment
 
@@ -402,29 +402,29 @@ _selected World Heritage Site locales_: Walled City of Baku; Gobustan Rock Art C
 <p>Prior to the decline in global oil prices since 2014, Azerbaijan's high economic growth was attributable to rising energy exports and to some non-export sectors. Oil exports through the Baku-Tbilisi-Ceyhan Pipeline, the Baku-Novorossiysk, and the Baku-Supsa Pipelines remain the main economic driver, but efforts to boost Azerbaijan's gas production are underway. The expected completion of the geopolitically important Southern Gas Corridor (SGC) between Azerbaijan and Europe will open up another source of revenue from gas exports. First gas to Turkey through the SGC is expected in 2018 with project completion expected by 2020-21.</p> <p> </p> <p>Declining oil prices caused a 3.1% contraction in GDP in 2016, and a 0.8% decline in 2017, highlighted by a sharp reduction in the construction sector. The economic decline was accompanied by higher inflation, a weakened banking sector, and two sharp currency devaluations in 2015. Azerbaijan’s financial sector continued to struggle. In May 2017, Baku allowed the majority state-owed International Bank of Azerbaijan (IBA), the nation’s largest bank, to default on some of its outstanding debt and file for restructuring in Azerbaijani courts; IBA also filed in US and UK bankruptcy courts to have its restructuring recognized in their respective jurisdictions.</p> <p> </p> <p>Azerbaijan has made limited progress with market-based economic reforms. Pervasive public and private sector corruption and structural economic inefficiencies remain a drag on long-term growth, particularly in non-energy sectors. The government has, however, made efforts to combat corruption, particularly in customs and government services. Several other obstacles impede Azerbaijan's economic progress, including the need for more foreign investment in the non-energy sector and the continuing conflict with Armenia over the Nagorno-Karabakh region. While trade with Russia and the other former Soviet republics remains important, Azerbaijan has expanded trade with Turkey and Europe and is seeking new markets for non-oil/gas exports - mainly in the agricultural sector - with Gulf Cooperation Council member countries, the US, and others. It is also improving Baku airport and the Caspian Sea port of Alat for use as a regional transportation and logistics hub.</p> <p> </p> <p>Long-term prospects depend on world oil prices, Azerbaijan's ability to develop export routes for its growing gas production, and its ability to improve the business environment and diversify the economy. In late 2016, the president approved a strategic roadmap for economic reforms that identified key non-energy segments of the economy for development, such as agriculture, logistics, information technology, and tourism. In October 2017, the long-awaited Baku-Tbilisi-Kars railway, stretching from the Azerbaijani capital to Kars in north-eastern Turkey, began limited service.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
-$138.51 billion (2020 est.)<br>
-$144.74 billion (2019 est.)<br>
-$141.24 billion (2018 est.)<br>
+$146.305 billion (2021 est.)<br>
+$138.546 billion (2020 est.)<br>
+$144.771 billion (2019 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
-0.1% (2017 est.)<br>
--3.1% (2016 est.)<br>
-0.6% (2015 est.)<br>
+5.6% (2021 est.)<br>
+-4.3% (2020 est.)<br>
+2.5% (2019 est.)<br>
 
 **Real GDP per capita**<br>
+$14,400 (2021 est.)<br>
 $13,700 (2020 est.)<br>
 $14,400 (2019 est.)<br>
-$14,200 (2018 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
 $48.104 billion (2019 est.)<br>
 
 **Inflation rate (consumer prices)**<br>
-2.6% (2019 est.)<br>
-2.3% (2018 est.)<br>
-12.8% (2017 est.)<br>
+6.65% (2021 est.)<br>
+2.76% (2020 est.)<br>
+2.61% (2019 est.)<br>
 
 **Credit ratings**<br>
 _Fitch rating_: BB+ (2016)<br>
@@ -452,10 +452,10 @@ milk, wheat, potatoes, barley, tomatoes, watermelons, cotton, apples, maize, oni
 petroleum and petroleum products, natural gas, oilfield equipment; steel, iron ore; cement; chemicals and petrochemicals; textiles<br>
 
 **Industrial production growth rate**<br>
--3.8% (2017 est.)<br>
+1.95% (2021 est.)<br>
 
 **Labor force**<br>
-4.939 million (2019 est.)<br>
+4.919 million (2021 est.)<br>
 
 **Labor force - by occupation**<br>
 _agriculture_: 37%<br>
@@ -463,20 +463,20 @@ _industry_: 14.3%<br>
 _services_: 48.9% (2014)<br>
 
 **Unemployment rate**<br>
-5% (2017 est.)<br>
-5% (2016 est.)<br>
+6.58% (2021 est.)<br>
+6.46% (2020 est.)<br>
+4.85% (2019 est.)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 12.4%<br>
-_male_: 10.9%<br>
-_female_: 14.2% (2019 est.)<br>
+_total_: 16.5%<br>
+_male_: 14.4%<br>
+_female_: 18.9% (2021 est.)<br>
 
 **Population below poverty line**<br>
 4.9% (2015 est.)<br>
 
 **Gini Index coefficient - distribution of family income**<br>
 33.7 (2008)<br>
-36.5 (2001)<br>
 
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 3.4%<br>
@@ -494,19 +494,20 @@ _expenditures_: 10.22 billion (2017 est.)<br>
 50.7% of GDP (2016 est.)<br>
 
 **Taxes and other revenues**<br>
-23.5% (of GDP) (2017 est.)<br>
+14.22% (of GDP) (2019 est.)<br>
 
 **Fiscal year**<br>
 calendar year<br>
 
 **Current account balance**<br>
-$1.685 billion (2017 est.)<br>
--$1.363 billion (2016 est.)<br>
+$8.292 billion (2021 est.)<br>
+-$227.568 million (2020 est.)<br>
+$4.365 billion (2019 est.)<br>
 
 **Exports**<br>
-$15.21 billion (2020 est.)<br>
+$25.488 billion (2021 est.)<br>
+$15.209 billion (2020 est.)<br>
 $23.63 billion (2019 est.)<br>
-$25.48 billion (2018 est.)<br>
 <strong>note:</strong> Data are in current year dollars and do not include illicit exports or re-exports.<br>
 
 **Exports - partners**<br>
@@ -516,9 +517,9 @@ Italy 28%, Turkey 15%, Israel 7%, Germany 5%, India 5% (2017)<br>
 crude petroleum, natural gas, refined petroleum, tomatoes, gold (2019)<br>
 
 **Imports**<br>
-$15.54 billion (2020 est.) note: data are in current year dollars<br>
-$17.71 billion (2019 est.) note: data are in current year dollars<br>
-$17.71 billion (2018 est.) note: data are in current year dollars<br>
+$16.337 billion (2021 est.) note: data are in current year dollars<br>
+$15.538 billion (2020 est.) note: data are in current year dollars<br>
+$17.712 billion (2019 est.) note: data are in current year dollars<br>
 
 **Imports - partners**<br>
 United Kingdom 17%, Russia 17%, Turkey 12%, China 6% (2019)<br>
@@ -527,8 +528,9 @@ United Kingdom 17%, Russia 17%, Turkey 12%, China 6% (2019)<br>
 gold, cars, refined petroleum, wheat, packaged medical supplies (2019)<br>
 
 **Reserves of foreign exchange and gold**<br>
-$6.681 billion (31 December 2017 est.)<br>
-$7.142 billion (31 December 2016 est.)<br>
+$8.307 billion (31 December 2021 est.)<br>
+$7.634 billion (31 December 2020 est.)<br>
+$7.043 billion (31 December 2019 est.)<br>
 
 **Debt - external**<br>
 $17.41 billion (31 December 2017 est.)<br>
@@ -536,11 +538,11 @@ $13.83 billion (31 December 2016 est.)<br>
 
 **Exchange rates**<br>
 _Currency_: Azerbaijani manats (AZN) per US dollar -<br>
-1.723 (2017 est.)<br>
-1.5957 (2016 est.)<br>
-1.5957 (2015 est.)<br>
-1.0246 (2014 est.)<br>
-0.7844 (2013 est.)<br>
+1.7 (2021 est.)<br>
+1.7 (2020 est.)<br>
+1.7 (2019 est.)<br>
+1.7 (2018 est.)<br>
+1.721 (2017 est.)<br>
 
 ## Energy
 

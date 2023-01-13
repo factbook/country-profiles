@@ -159,7 +159,7 @@ _female_: 66.03 years (2022 est.)<br>
 4.26 children born/woman (2022 est.)<br>
 
 **Gross reproduction rate**<br>
-2.1 (2022 est.)<br>
+2.06 (2023 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 NA<br>
@@ -205,11 +205,11 @@ _wine_: 1.24 liters of pure alcohol (2019 est.)<br>
 _spirits_: 0.99 liters of pure alcohol (2019 est.)<br>
 _other alcohols_: 0.05 liters of pure alcohol (2019 est.)<br>
 
-**Currently married women (ages 15-49)**<br>
-60.8% (2022 est.)<br>
-
 **Children under the age of 5 years underweight**<br>
 5.6% (2011)<br>
+
+**Currently married women (ages 15-49)**<br>
+60.2% (2023 est.)<br>
 
 **Education expenditures**<br>
 NA<br>
@@ -219,6 +219,11 @@ _definition_: age 15 and over can read and write<br>
 _total population_: 95.3%<br>
 _male_: 97.4%<br>
 _female_: 93% (2015)<br>
+
+**Youth unemployment rate (ages 15-24)**<br>
+_total_: 18.3%<br>
+_male_: 17.1%<br>
+_female_: 19.9% (2021 est.)<br>
 
 ## Environment
 
@@ -374,29 +379,29 @@ _lyrics/music_: Atanasio Ndongo MIYONO/Atanasio Ndongo MIYONO or Ramiro Sanchez 
 <p>Exploitation of oil and gas deposits, beginning in the 1990s, has driven economic growth in Equatorial Guinea; a recent rebasing of GDP resulted in an upward revision of the size of the economy by approximately 30%. Forestry and farming are minor components of GDP. Although preindependence Equatorial Guinea counted on cocoa production for hard currency earnings, the neglect of the rural economy since independence has diminished the potential for agriculture-led growth. Subsistence farming is the dominant form of livelihood. Declining revenue from hydrocarbon production, high levels of infrastructure expenditures, lack of economic diversification, and corruption have pushed the economy into decline in recent years and limited improvements in the general population’s living conditions. Equatorial Guinea’s real GDP growth has been weak in recent years, averaging -0.5% per year from 2010 to 2014, because of a declining hydrocarbon sector. Inflation remained very low in 2016, down from an average of 4% in 2014.</p> <p> </p> <p>As a middle income country, Equatorial Guinea is now ineligible for most low-income World Bank and the IMF funding. The government has been widely criticized for its lack of transparency and misuse of oil revenues and has attempted to address this issue by working toward compliance with the Extractive Industries Transparency Initiative. US foreign assistance to Equatorial Guinea is limited in part because of US restrictions pursuant to the Trafficking Victims Protection Act.</p> <p> </p> <p>Equatorial Guinea hosted two economic diversification symposia in 2014 that focused on attracting investment in five sectors: agriculture and animal ranching, fishing, mining and petrochemicals, tourism, and financial services. Undeveloped mineral resources include gold, zinc, diamonds, columbite-tantalite, and other base metals. In 2017 Equatorial Guinea signed a preliminary agreement with Ghana to sell liquefied natural gas (LNG); as oil production wanes, the government believes LNG could provide a boost to revenues, but it will require large investments and long lead times to develop.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
-$23.86 billion (2020 est.)<br>
-$25.09 billion (2019 est.)<br>
-$26.68 billion (2018 est.)<br>
+$23.924 billion (2021 est.)<br>
+$24.152 billion (2020 est.)<br>
+$25.222 billion (2019 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
--3.2% (2017 est.)<br>
--8.6% (2016 est.)<br>
--9.1% (2015 est.)<br>
+-0.95% (2021 est.)<br>
+-4.24% (2020 est.)<br>
+-5.48% (2019 est.)<br>
 
 **Real GDP per capita**<br>
-$17,000 (2020 est.)<br>
-$18,500 (2019 est.)<br>
-$20,400 (2018 est.)<br>
+$14,600 (2021 est.)<br>
+$15,100 (2020 est.)<br>
+$16,200 (2019 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
 $10.634 billion (2019 est.)<br>
 
 **Inflation rate (consumer prices)**<br>
-1.2% (2019 est.)<br>
-1.3% (2018 est.)<br>
-0.7% (2017 est.)<br>
+4.77% (2020 est.)<br>
+1.24% (2019 est.)<br>
+1.35% (2018 est.)<br>
 
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 2.5% (2017 est.)<br>
@@ -418,14 +423,20 @@ sweet potatoes, cassava, roots/tubers nes, plantains, oil palm fruit, bananas, c
 petroleum, natural gas, sawmilling<br>
 
 **Industrial production growth rate**<br>
--6.9% (2017 est.)<br>
+-6.46% (2021 est.)<br>
 
 **Labor force**<br>
-195,200 (2007 est.)<br>
+549,800 (2021 est.)<br>
 
 **Unemployment rate**<br>
-8.6% (2014 est.)<br>
-22.3% (2009 est.)<br>
+9.24% (2021 est.)<br>
+9.9% (2020 est.)<br>
+8.68% (2019 est.)<br>
+
+**Youth unemployment rate (ages 15-24)**<br>
+_total_: 18.3%<br>
+_male_: 17.1%<br>
+_female_: 19.9% (2021 est.)<br>
 
 **Population below poverty line**<br>
 44% (2011 est.)<br>
@@ -446,7 +457,7 @@ _expenditures_: 2.523 billion (2017 est.)<br>
 43.3% of GDP (2016 est.)<br>
 
 **Taxes and other revenues**<br>
-16.9% (of GDP) (2017 est.)<br>
+7.85% (of GDP) (2020 est.)<br>
 
 **Fiscal year**<br>
 calendar year<br>
@@ -478,8 +489,9 @@ United States 22%, Spain 19%, China 12%, United Kingdom 6%, United Arab Emirates
 gas turbines, beer, ships, industrial machinery, excavation machinery (2019)<br>
 
 **Reserves of foreign exchange and gold**<br>
-$45.5 million (31 December 2017 est.)<br>
-$62.31 million (31 December 2016 est.)<br>
+$40.817 million (31 December 2019 est.)<br>
+$48.93 million (31 December 2018 est.)<br>
+$45.503 million (31 December 2017 est.)<br>
 
 **Debt - external**<br>
 $1.211 billion (31 December 2017 est.)<br>
@@ -487,11 +499,11 @@ $1.074 billion (31 December 2016 est.)<br>
 
 **Exchange rates**<br>
 _Currency_: Cooperation Financiere en Afrique Centrale francs (XAF) per US dollar -<br>
-605.3 (2017 est.)<br>
-593.01 (2016 est.)<br>
-593.01 (2015 est.)<br>
-591.45 (2014 est.)<br>
-494.42 (2013 est.)<br>
+554.531 (2021 est.)<br>
+575.586 (2020 est.)<br>
+585.911 (2019 est.)<br>
+555.446 (2018 est.)<br>
+580.657 (2017 est.)<br>
 
 ## Energy
 

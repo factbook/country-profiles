@@ -167,7 +167,7 @@ _female_: 65.31 years (2022 est.)<br>
 4.27 children born/woman (2022 est.)<br>
 
 **Gross reproduction rate**<br>
-2.1 (2022 est.)<br>
+2.04 (2023 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 35.3% (2020/21)<br>
@@ -224,11 +224,11 @@ _total_: 14.3% (2020 est.)<br>
 _male_: 22.1% (2020 est.)<br>
 _female_: 6.4% (2020 est.)<br>
 
-**Currently married women (ages 15-49)**<br>
-73.9% (2022 est.)<br>
-
 **Children under the age of 5 years underweight**<br>
 16.4% (2019)<br>
+
+**Currently married women (ages 15-49)**<br>
+73.5% (2023)<br>
 
 **Education expenditures**<br>
 5.5% of GDP (2020 est.)<br>
@@ -245,9 +245,9 @@ _male_: 9 years<br>
 _female_: 9 years (2020)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 8.6%<br>
-_male_: 8.9%<br>
-_female_: 8.4% (2018)<br>
+_total_: 7.7%<br>
+_male_: 7.5%<br>
+_female_: 8% (2021 est.)<br>
 
 ## Environment
 
@@ -422,29 +422,29 @@ _selected World Heritage Site locales_: Ruins of Lorop&eacute;ni (c); Ancient Fe
 <p>Burkina Faso is a poor, landlocked country that depends on adequate rainfall. Irregular patterns of rainfall, poor soil, and the lack of adequate communications and other infrastructure contribute to the economy’s vulnerability to external shocks. About 80% of the population is engaged in subsistence farming and cotton is the main cash crop. The country has few natural resources and a weak industrial base.</p> <p> </p> <p>Cotton and gold are Burkina Faso’s key exports - gold has accounted for about three-quarters of the country’s total export revenues. Burkina Faso’s economic growth and revenue depends largely on production levels and global prices for the two commodities. The country has seen an upswing in gold exploration, production, and exports.</p> <p> </p> <p>In 2016, the government adopted a new development strategy, set forth in the 2016-2020 National Plan for Economic and Social Development, that aims to reduce poverty, build human capital, and to satisfy basic needs. A new three-year IMF program (2018-2020), approved in 2018, will allow the government to reduce the budget deficit and preserve critical spending on social services and priority public investments.</p> <p> </p> <p>While the end of the political crisis has allowed Burkina Faso’s economy to resume positive growth, the country’s fragile security situation could put these gains at risk. Political insecurity in neighboring Mali, unreliable energy supplies, and poor transportation links pose long-term challenges.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
-$45.16 billion (2020 est.)<br>
-$44.27 billion (2019 est.)<br>
-$41.88 billion (2018 est.)<br>
+$48.175 billion (2021 est.)<br>
+$45.063 billion (2020 est.)<br>
+$44.209 billion (2019 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
-6.4% (2017 est.)<br>
-5.9% (2016 est.)<br>
-3.9% (2015 est.)<br>
+6.91% (2021 est.)<br>
+1.93% (2020 est.)<br>
+5.69% (2019 est.)<br>
 
 **Real GDP per capita**<br>
-$2,200 (2020 est.)<br>
-$2,200 (2019 est.)<br>
-$2,100 (2018 est.)<br>
+$2,200 (2021 est.)<br>
+$2,100 (2020 est.)<br>
+$2,100 (2019 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
 $14.271 billion (2018 est.)<br>
 
 **Inflation rate (consumer prices)**<br>
--3.2% (2019 est.)<br>
-1.9% (2018 est.)<br>
-1.4% (2017 est.)<br>
+3.65% (2021 est.)<br>
+1.88% (2020 est.)<br>
+-3.23% (2019 est.)<br>
 
 **Credit ratings**<br>
 _Standard & Poors rating_: B (2017)<br>
@@ -470,10 +470,10 @@ sorghum, maize, millet, cotton, cow peas, sugar cane, groundnuts, rice, sesame s
 cotton lint, beverages, agricultural processing, soap, cigarettes, textiles, gold<br>
 
 **Industrial production growth rate**<br>
-10.4% (2017 est.)<br>
+8.73% (2021 est.)<br>
 
 **Labor force**<br>
-8.501 million (2016 est.)<br>
+8.016 million (2021 est.)<br>
 <strong>note:</strong> a large part of the male labor force migrates annually to neighboring countries for seasonal employment<br>
 
 **Labor force - by occupation**<br>
@@ -481,19 +481,20 @@ _agriculture_: 90%<br>
 _industry and services_: 10% (2000 est.)<br>
 
 **Unemployment rate**<br>
-77% (2004)<br>
+4.76% (2021 est.)<br>
+4.89% (2020 est.)<br>
+4.69% (2019 est.)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 8.6%<br>
-_male_: 8.9%<br>
-_female_: 8.4% (2018)<br>
+_total_: 7.7%<br>
+_male_: 7.5%<br>
+_female_: 8% (2021 est.)<br>
 
 **Population below poverty line**<br>
 41.4% (2018 est.)<br>
 
 **Gini Index coefficient - distribution of family income**<br>
-35.3 (2014 est.)<br>
-48.2 (1994)<br>
+47.3 (2018 est.)<br>
 
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 2.9%<br>
@@ -507,22 +508,25 @@ _expenditures_: 3.655 billion (2017 est.)<br>
 -7.9% (of GDP) (2017 est.)<br>
 
 **Public debt**<br>
-38.1% of GDP (2017 est.)<br>
-38.3% of GDP (2016 est.)<br>
+72.53% of GDP (2020 est.)<br>
+46.64% of GDP (2019 est.)<br>
+45.57% of GDP (2018 est.)<br>
 
 **Taxes and other revenues**<br>
-21.2% (of GDP) (2017 est.)<br>
+13.28% (of GDP) (2020 est.)<br>
 
 **Fiscal year**<br>
 calendar year<br>
 
 **Current account balance**<br>
--$1.019 billion (2017 est.)<br>
--$820 million (2016 est.)<br>
+$743.232 million (2020 est.)<br>
+-$523.837 million (2019 est.)<br>
+-$664.797 million (2018 est.)<br>
 
 **Exports**<br>
-$4.47 billion (2019 est.)<br>
-$4.51 billion (2018 est.)<br>
+$5.356 billion (2020 est.)<br>
+$4.468 billion (2019 est.)<br>
+$4.511 billion (2018 est.)<br>
 <strong>note:</strong> Data are in current year dollars and do not include illicit exports or re-exports.<br>
 
 **Exports - partners**<br>
@@ -532,9 +536,9 @@ Switzerland 59%, India 21% (2019)<br>
 gold, cotton, zinc, cashews, sesame seeds (2019)<br>
 
 **Imports**<br>
-$5.02 billion (2019 est.) note: data are in current year dollars<br>
-$5.17 billion (2018 est.) note: data are in current year dollars<br>
-$5.3 billion (2017 est.)<br>
+$4.779 billion (2020 est.) note: data are in current year dollars<br>
+$5.023 billion (2019 est.) note: data are in current year dollars<br>
+$5.167 billion (2018 est.)<br>
 
 **Imports - partners**<br>
 Cote d'Ivoire 15%, China 9%, Ghana 8%, France 8%, India 6%, United States 5% (2019)<br>
@@ -552,11 +556,11 @@ $2.88 billion (31 December 2016 est.)<br>
 
 **Exchange rates**<br>
 _Currency_: Communaute Financiere Africaine francs (XOF) per US dollar -<br>
-605.3 (2017 est.)<br>
-593.01 (2016 est.)<br>
-593.01 (2015 est.)<br>
-591.45 (2014 est.)<br>
-494.42 (2013 est.)<br>
+554.531 (2021 est.)<br>
+575.586 (2020 est.)<br>
+585.911 (2019 est.)<br>
+555.446 (2018 est.)<br>
+580.657 (2017 est.)<br>
 
 ## Energy
 

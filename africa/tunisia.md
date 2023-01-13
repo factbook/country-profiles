@@ -163,7 +163,7 @@ _female_: 78.6 years (2022 est.)<br>
 2 children born/woman (2022 est.)<br>
 
 **Gross reproduction rate**<br>
-0.97 (2022 est.)<br>
+0.95 (2023 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 50.7% (2018)<br>
@@ -211,11 +211,11 @@ _total_: 24.6% (2020 est.)<br>
 _male_: 47.2% (2020 est.)<br>
 _female_: 2% (2020 est.)<br>
 
-**Currently married women (ages 15-49)**<br>
-54% (2022 est.)<br>
-
 **Children under the age of 5 years underweight**<br>
 1.6% (2018)<br>
+
+**Currently married women (ages 15-49)**<br>
+53.9% (2023 est.)<br>
 
 **Education expenditures**<br>
 7.3% of GDP (2016 est.)<br>
@@ -232,9 +232,9 @@ _male_: 14 years<br>
 _female_: 16 years (2016)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 34.9%<br>
-_male_: 33.8%<br>
-_female_: 37.2% (2017 est.)<br>
+_total_: 38.3%<br>
+_male_: 37.1%<br>
+_female_: 41.2% (2021 est.)<br>
 
 ## Environment
 
@@ -394,29 +394,29 @@ _selected World Heritage Site locales_: Amphitheatre of El Jem (c); Archaeologic
 <p>Tunisia's economy – structurally designed to favor vested interests – faced an array of challenges exposed by the 2008 global financial crisis that helped precipitate the 2011 Arab Spring revolution. After the revolution and a series of terrorist attacks, including on the country’s tourism sector, barriers to economic inclusion continued to add to slow economic growth and high unemployment.</p> <p> </p> <p>Following an ill-fated experiment with socialist economic policies in the 1960s, Tunisia focused on bolstering exports, foreign investment, and tourism, all of which have become central to the country's economy. Key exports now include textiles and apparel, food products, petroleum products, chemicals, and phosphates, with about 80% of exports bound for Tunisia's main economic partner, the EU. Tunisia's strategy, coupled with investments in education and infrastructure, fueled decades of 4-5% annual GDP growth and improved living standards. Former President Zine el Abidine BEN ALI (1987-2011) continued these policies, but as his reign wore on cronyism and corruption stymied economic performance, unemployment rose, and the informal economy grew. Tunisia’s economy became less and less inclusive. These grievances contributed to the January 2011 overthrow of BEN ALI, further depressing Tunisia's economy as tourism and investment declined sharply.</p> <p> </p> <p>Tunisia’s government remains under pressure to boost economic growth quickly to mitigate chronic socio-economic challenges, especially high levels of youth unemployment, which has persisted since the 2011 revolution. Successive terrorist attacks against the tourism sector and worker strikes in the phosphate sector, which combined account for nearly 15% of GDP, slowed growth from 2015 to 2017. Tunis is seeking increased foreign investment and working with the IMF through an Extended Fund Facility agreement to fix fiscal deficiencies.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
-$114.97 billion (2020 est.)<br>
-$125.78 billion (2019 est.)<br>
-$124.48 billion (2018 est.)<br>
+$127.509 billion (2021 est.)<br>
+$122.226 billion (2020 est.)<br>
+$133.757 billion (2019 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
-2% (2017 est.)<br>
-1.1% (2016 est.)<br>
-1.2% (2015 est.)<br>
+4.32% (2021 est.)<br>
+-8.62% (2020 est.)<br>
+1.5% (2019 est.)<br>
 
 **Real GDP per capita**<br>
-$9,700 (2020 est.)<br>
-$10,800 (2019 est.)<br>
-$10,800 (2018 est.)<br>
+$10,400 (2021 est.)<br>
+$10,100 (2020 est.)<br>
+$11,100 (2019 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
 $38.884 billion (2019 est.)<br>
 
 **Inflation rate (consumer prices)**<br>
-6.7% (2019 est.)<br>
-7.2% (2018 est.)<br>
-5.3% (2017 est.)<br>
+5.71% (2021 est.)<br>
+5.63% (2020 est.)<br>
+6.72% (2019 est.)<br>
 
 **Credit ratings**<br>
 _Fitch rating_: B (2020)<br>
@@ -444,10 +444,10 @@ wheat, milk, tomatoes, barley, olives, watermelons, green chillies/peppers, pota
 petroleum, mining (particularly phosphate, iron ore), tourism, textiles, footwear, agribusiness, beverages<br>
 
 **Industrial production growth rate**<br>
-0.5% (2017 est.)<br>
+8.6% (2021 est.)<br>
 
 **Labor force**<br>
-4.054 million (2017 est.)<br>
+4.226 million (2021 est.)<br>
 
 **Labor force - by occupation**<br>
 _agriculture_: 14.8%<br>
@@ -455,20 +455,20 @@ _industry_: 33.2%<br>
 _services_: 51.7% (2014 est.)<br>
 
 **Unemployment rate**<br>
-15.5% (2017 est.)<br>
-15.5% (2016 est.)<br>
+16.82% (2021 est.)<br>
+16.59% (2020 est.)<br>
+15.13% (2019 est.)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 34.9%<br>
-_male_: 33.8%<br>
-_female_: 37.2% (2017 est.)<br>
+_total_: 38.3%<br>
+_male_: 37.1%<br>
+_female_: 41.2% (2021 est.)<br>
 
 **Population below poverty line**<br>
 15.2% (2015 est.)<br>
 
 **Gini Index coefficient - distribution of family income**<br>
 32.8 (2015 est.)<br>
-41.7 (1995 est.)<br>
 
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 2.6%<br>
@@ -492,12 +492,14 @@ _expenditures_: 12.21 billion (2017 est.)<br>
 calendar year<br>
 
 **Current account balance**<br>
--$4.191 billion (2017 est.)<br>
--$3.694 billion (2016 est.)<br>
+-$2.781 billion (2021 est.)<br>
+-$2.533 billion (2020 est.)<br>
+-$3.391 billion (2019 est.)<br>
 
 **Exports**<br>
-$19.17 billion (2019 est.) note: data are in current year dollars<br>
-$19.42 billion (2018 est.) note: data are in current year dollars<br>
+$19.743 billion (2021 est.) note: data are in current year dollars<br>
+$16.017 billion (2020 est.) note: data are in current year dollars<br>
+$19.175 billion (2019 est.)<br>
 
 **Exports - partners**<br>
 France 29%, Italy 17%, Germany 13% (2019)<br>
@@ -506,8 +508,9 @@ France 29%, Italy 17%, Germany 13% (2019)<br>
 insulated wiring, clothing and apparel, crude petroleum, olive oil, vehicle parts (2019)<br>
 
 **Imports**<br>
-$23.42 billion (2019 est.) note: data are in current year dollars<br>
-$24.65 billion (2018 est.) note: data are in current year dollars<br>
+$24.269 billion (2021 est.) note: data are in current year dollars<br>
+$19.603 billion (2020 est.) note: data are in current year dollars<br>
+$23.546 billion (2019 est.)<br>
 
 **Imports - partners**<br>
 France 17%, Italy 16%, Germany 8%, China 8%, Algeria 7% (2019)<br>
@@ -516,8 +519,9 @@ France 17%, Italy 16%, Germany 8%, China 8%, Algeria 7% (2019)<br>
 refined petroleum, natural gas, low-voltage protection equipment, cars, insulated wiring (2019)<br>
 
 **Reserves of foreign exchange and gold**<br>
-$5.594 billion (31 December 2017 est.)<br>
-$5.941 billion (31 December 2016 est.)<br>
+$8.846 billion (31 December 2021 est.)<br>
+$9.811 billion (31 December 2020 est.)<br>
+$7.92 billion (31 December 2019 est.)<br>
 
 **Debt - external**<br>
 $35.911 billion (2019 est.)<br>
@@ -525,11 +529,11 @@ $33.79 billion (2018 est.)<br>
 
 **Exchange rates**<br>
 _Currency_: Tunisian dinars (TND) per US dollar -<br>
-2.71795 (2020 est.)<br>
-2.8518 (2019 est.)<br>
-2.95875 (2018 est.)<br>
-1.9617 (2014 est.)<br>
-1.6976 (2013 est.)<br>
+2.794 (2021 est.)<br>
+2.812 (2020 est.)<br>
+2.934 (2019 est.)<br>
+2.647 (2018 est.)<br>
+2.419 (2017 est.)<br>
 
 ## Energy
 

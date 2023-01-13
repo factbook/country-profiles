@@ -161,7 +161,7 @@ _female_: 80.56 years (2022 est.)<br>
 1.54 children born/woman (2022 est.)<br>
 
 **Gross reproduction rate**<br>
-0.75 (2022 est.)<br>
+0.76 (2023 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 NA<br>
@@ -213,11 +213,11 @@ _total_: 37% (2020 est.)<br>
 _male_: 50.3% (2020 est.)<br>
 _female_: 23.7% (2020 est.)<br>
 
-**Currently married women (ages 15-49)**<br>
-49.5% (2022 est.)<br>
-
 **Children under the age of 5 years underweight**<br>
 NA<br>
+
+**Currently married women (ages 15-49)**<br>
+49.1% (2023 est.)<br>
 
 **Education expenditures**<br>
 6% of GDP (2020 est.)<br>
@@ -234,9 +234,9 @@ _male_: 16 years<br>
 _female_: 17 years (2020)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 14.8%<br>
-_male_: 14.9%<br>
-_female_: 14.6% (2021 est.)<br>
+_total_: 15.5%<br>
+_male_: 12%<br>
+_female_: 19.6% (2021 est.)<br>
 
 ## Environment
 
@@ -343,12 +343,12 @@ _chief of state_: President Egils LEVITS (since 8 July 2019)<br>
 _head of government_: Prime Minister Krisjanis KARINS (since 23 January 2019)<br>
 _cabinet_: Cabinet of Ministers nominated by the prime minister, appointed by Parliament<br>
 _elections/appointments_: president indirectly elected by Parliament for a 4-year term (eligible for a second term); election last held on 29 May 2019 (next to be held in 2023); prime minister appointed by the president, confirmed by Parliament<br>
-_election results_: <em>2019:</em> Egils LEVITS elected president; Parliament vote - Egils LEVITS 61 votes, Didzis SMITS 24 votes, Juris JANSONS 8 votes; Krisjanis KARINS confirmed prime minister 61-39<br><br><em>2015: </em>Raimonds VEJONIS elected president; Raimonds VEJOONIS 55 votes, Egils LEVITS 42 votes<br>
+_election results_: <em>2019:</em> Egils LEVITS elected president; Parliament vote - Egils LEVITS 61 votes, Didzis SMITS 24 votes, Juris JANSONS 8 votes; Krisjanis KARINS confirmed prime minister 61-39<br><br><em>2015: </em>Raimonds VEJONIS elected president; Raimonds VEJONIS (the Green Party) 55 votes, Egils LEVITS (National Alliance) 42 votes<br>
 
 **Legislative branch**<br>
 _description_: unicameral Parliament or Saeima (100 seats; members directly elected in multi-seat constituencies by party-list proportional representation vote; members serve 4-year terms)<br>
-_elections_: last held on 6 October 2018 (next to be held in October 2022)<br>
-_election results_: percent of vote by party - S 19.8%, KPV LV 14.3%, JKP 13.6%, AP! 12%, NA 11%, ZZS 9.9%, JV 6.7%, other 12.7%; seats by party - S 23, KPV LV 16, JKP 16, AP! 13, NA 13, ZZS 11, JV 8; composition as of April 2022 - men 73, women 27, percent of women 27%<br>
+_elections_: last held on 1 October 20122 (next to be held no later than 3 October 2026)<br>
+_election results_: percent of vote by party - JV 19.2%, ZZS 12.6%, AS 11.1%, NA 9.4%, S! 6.9%, LPV 6.3%, and PRO 6.2%; seats by party - JV 26, ZZS 16, AS 15, NA 13, S! 11, LPV 9, and PRO 10<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme Court (consists of the Senate with 36 judges); Constitutional Court (consists of 7 judges)<br>
@@ -356,7 +356,7 @@ _judge selection and term of office_: Supreme Court judges nominated by chief ju
 _subordinate courts_: district (city) and regional courts<br>
 
 **Political parties and leaders**<br>
-Development/For! or AP! [Daniels PAVLUTS, Juris PUCE]<br>For a Humane Latvia or PCL [Maris MOZVILLO] (formerly known as Who Owns the State?)<br>National Alliance "All For Latvia!"-"For Fatherland and Freedom/LNNK" or NA [Raivis DZINTARS] <br>New Unity or JV [Arturs Krišjānis KARINS]<br>Social Democratic Party "Harmony" or S [Janis URBANOVICS]<br>The Conservatives or K [Janis BORDANS] (formerly known as New Conservative Party or JKP)<br>Union of Greens and Farmers or ZZS [Aivars LEMBERGS]<br>United List or AS [Uldis PILENS] (electoral coalition including the Latvian Green Party or LZP, Latvian Association of Regions or LRA, Liepaja Party)<br>
+Development/For! or AP! [Daniels PAVLUTS, Ivars IJABS]<br>For Stability or S! [Aleksejs ROSLIKOVS]<br>Latvia First [Ainars SLESERS]<br>National Alliance "All For Latvia!"-"For Fatherland and Freedom/LNNK" or NA [Raivis DZINTARS] <br>New Unity or JV [Arturs Krišjānis KARINS]<br>Social Democratic Party "Harmony" or S [Janis URBANOVICS]<br>The Progressives or PRO [Kaspars BRISKENS]<br>Union of Greens and Farmers or ZZS [Aivars LEMBERGS]<br>United List or AS [Uldis PILENS] (electoral coalition including the Latvian Green Party or LZP, Latvian Association of Regions or LRA, Liepaja Party)<br>
 
 **International organization participation**<br>
 Australia Group, BA, BIS, CBSS, CD, CE, EAPC, EBRD, ECB, EIB, EMU, ESA (cooperating state), EU, FAO, IAEA, IBRD, ICAO, ICC (NGOs), ICCt, ICRM, IDA, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO (correspondent), ITU, ITUC (NGOs), MIGA, NATO, NIB, NSG, OAS (observer), OIF (observer), OPCW, OSCE, PCA, Schengen Convention, UN, UNCTAD, UNESCO, UNHCR, UNWTO, UPU, Wassenaar Arrangement, WCO, WHO, WIPO, WMO, WTO<br>
@@ -397,29 +397,29 @@ _selected World Heritage Site locales_: Historic Center of Riga; Struve Geodetic
 <p>Latvia is a small, open economy with exports contributing more than half of GDP. Due to its geographical location, transit services are highly-developed, along with timber and wood-processing, agriculture and food products, and manufacturing of machinery and electronics industries. Corruption continues to be an impediment to attracting foreign direct investment and Latvia's low birth rate and decreasing population are major challenges to its long-term economic vitality.</p> <p> </p> <p>Latvia's economy experienced GDP growth of more than 10% per year during 2006-07, but entered a severe recession in 2008 as a result of an unsustainable current account deficit and large debt exposure amid the slowing world economy. Triggered by the collapse of the second largest bank, GDP plunged by more than 14% in 2009 and, despite strong growth since 2011, the economy took until 2017 return to pre-crisis levels in real terms. Strong investment and consumption, the latter stoked by rising wages, helped the economy grow by more than 4% in 2017, while inflation rose to 3%. Continued gains in competitiveness and investment will be key to maintaining economic growth, especially in light of unfavorable demographic trends, including the emigration of skilled workers, and one of the highest levels of income inequality in the EU.</p> <p> </p> <p>In the wake of the 2008-09 crisis, the IMF, EU, and other international donors provided substantial financial assistance to Latvia as part of an agreement to defend the currency's peg to the euro in exchange for the government's commitment to stringent austerity measures. The IMF/EU program successfully concluded in December 2011, although, the austerity measures imposed large social costs. The majority of companies, banks, and real estate have been privatized, although the state still holds sizable stakes in a few large enterprises, including 80% ownership of the Latvian national airline. Latvia officially joined the World Trade Organization in February 1999 and the EU in May 2004. Latvia also joined the euro zone in 2014 and the OECD in 2016.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
-$56.92 billion (2020 est.)<br>
-$59.06 billion (2019 est.)<br>
-$57.88 billion (2018 est.)<br>
+$60.457 billion (2021 est.)<br>
+$58.094 billion (2020 est.)<br>
+$59.403 billion (2019 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
-2.08% (2019 est.)<br>
-4.2% (2018 est.)<br>
-3.23% (2017 est.)<br>
+4.07% (2021 est.)<br>
+-2.2% (2020 est.)<br>
+2.57% (2019 est.)<br>
 
 **Real GDP per capita**<br>
-$29,900 (2020 est.)<br>
-$30,900 (2019 est.)<br>
-$30,000 (2018 est.)<br>
+$32,100 (2021 est.)<br>
+$30,600 (2020 est.)<br>
+$31,000 (2019 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
 $34.084 billion (2019 est.)<br>
 
 **Inflation rate (consumer prices)**<br>
-2.8% (2019 est.)<br>
-2.5% (2018 est.)<br>
-2.9% (2017 est.)<br>
+3.28% (2021 est.)<br>
+0.22% (2020 est.)<br>
+2.81% (2019 est.)<br>
 
 **Credit ratings**<br>
 _Fitch rating_: A- (2014)<br>
@@ -447,10 +447,10 @@ wheat, milk, rapeseed, barley, oats, potatoes, rye, beans, pork, poultry<br>
 processed foods, processed wood products, textiles, processed metals, pharmaceuticals, railroad cars, synthetic fibers, electronics<br>
 
 **Industrial production growth rate**<br>
-10.6% (2017 est.)<br>
+1.93% (2021 est.)<br>
 
 **Labor force**<br>
-885,000 (2020 est.)<br>
+955,000 (2021 est.)<br>
 
 **Labor force - by occupation**<br>
 _agriculture_: 7.7%<br>
@@ -458,20 +458,20 @@ _industry_: 24.1%<br>
 _services_: 68.1% (2016 est.)<br>
 
 **Unemployment rate**<br>
-6.14% (2019 est.)<br>
-6.51% (2018 est.)<br>
+7.6% (2021 est.)<br>
+8.1% (2020 est.)<br>
+6.31% (2019 est.)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 14.8%<br>
-_male_: 14.9%<br>
-_female_: 14.6% (2021 est.)<br>
+_total_: 15.5%<br>
+_male_: 12%<br>
+_female_: 19.6% (2021 est.)<br>
 
 **Population below poverty line**<br>
 22.9% (2018 est.)<br>
 
 **Gini Index coefficient - distribution of family income**<br>
-35.6 (2017 est.)<br>
-35.4 (2014)<br>
+34.5 (2019 est.)<br>
 
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 2.2%<br>
@@ -490,19 +490,20 @@ _expenditures_: 11.53 billion (2017 est.)<br>
 <strong>note:</strong> data cover general government debt, and includes debt instruments issued (or owned) by government entities, including sub-sectors of central government, state government, local government, and social security funds<br>
 
 **Taxes and other revenues**<br>
-37.5% (of GDP) (2017 est.)<br>
+21.77% (of GDP) (2020 est.)<br>
 
 **Fiscal year**<br>
 calendar year<br>
 
 **Current account balance**<br>
--$222 million (2019 est.)<br>
--$99 million (2018 est.)<br>
+-$1.7 billion (2021 est.)<br>
+$918.67 million (2020 est.)<br>
+-$200.203 million (2019 est.)<br>
 
 **Exports**<br>
-$20.23 billion (2020 est.) note: data are in current year dollars<br>
-$20.5 billion (2019 est.) note: data are in current year dollars<br>
-$21.12 billion (2018 est.) note: data are in current year dollars<br>
+$25.248 billion (2021 est.) note: data are in current year dollars<br>
+$20.768 billion (2020 est.) note: data are in current year dollars<br>
+$20.539 billion (2019 est.) note: data are in current year dollars<br>
 
 **Exports - partners**<br>
 Lithuania 16%, Estonia 10%, Russia 9%, Germany 7%, Sweden 6%, United Kingdom 6% (2019)<br>
@@ -511,9 +512,9 @@ Lithuania 16%, Estonia 10%, Russia 9%, Germany 7%, Sweden 6%, United Kingdom 6% 
 lumber, broadcasting equipment, whiskey and other hard liquors, wheat, packaged medicines (2019)<br>
 
 **Imports**<br>
-$19.84 billion (2020 est.) note: data are in current year dollars<br>
-$20.79 billion (2019 est.) note: data are in current year dollars<br>
-$21.38 billion (2018 est.) note: data are in current year dollars<br>
+$26.622 billion (2021 est.) note: data are in current year dollars<br>
+$20.427 billion (2020 est.) note: data are in current year dollars<br>
+$20.765 billion (2019 est.) note: data are in current year dollars<br>
 
 **Imports - partners**<br>
 Russia 21%, Lithuania 14%, Germany 9%, Poland 7%, Estonia 7% (2019)<br>
@@ -522,8 +523,9 @@ Russia 21%, Lithuania 14%, Germany 9%, Poland 7%, Estonia 7% (2019)<br>
 refined petroleum, broadcasting equipment, cars, packaged medicines, aircraft (2019)<br>
 
 **Reserves of foreign exchange and gold**<br>
-$4.614 billion (31 December 2017 est.)<br>
-$3.514 billion (31 December 2016 est.)<br>
+$5.491 billion (31 December 2021 est.)<br>
+$5.29 billion (31 December 2020 est.)<br>
+$4.48 billion (31 December 2019 est.)<br>
 
 **Debt - external**<br>
 $40.164 billion (2019 est.)<br>
@@ -531,11 +533,11 @@ $42.488 billion (2018 est.)<br>
 
 **Exchange rates**<br>
 _Currency_: euros (EUR) per US dollar -<br>
-0.82771 (2020 est.)<br>
-0.90338 (2019 est.)<br>
-0.87789 (2018 est.)<br>
-0.885 (2014 est.)<br>
-0.7634 (2013 est.)<br>
+0.845 (2021 est.)<br>
+0.876 (2020 est.)<br>
+0.893 (2019 est.)<br>
+0.847 (2018 est.)<br>
+0.885 (2017 est.)<br>
 
 ## Energy
 
@@ -584,9 +586,9 @@ _crude oil estimated reserves_: 0 barrels (2021 est.)<br>
 
 **Natural gas**<br>
 _production_: 0 cubic meters (2021 est.)<br>
-_consumption_: 1,067,798,000 cubic meters (2020 est.)<br>
+_consumption_: 1.068 billion cubic meters (2020 est.)<br>
 _exports_: 0 cubic meters (2021 est.)<br>
-_imports_: 1,067,798,000 cubic meters (2020 est.)<br>
+_imports_: 1.068 billion cubic meters (2020 est.)<br>
 _proven reserves_: 0 cubic meters (2021 est.)<br>
 
 **Carbon dioxide emissions**<br>
@@ -715,7 +717,7 @@ Latvia became a member of NATO in 2004 <br><br>since 2017, Latvia has hosted a C
 <p><em>Latvia-Belarus</em>: Belarus and Latvia signed joint demarcation map in September 2008</p> <p><em>Latvia-Estonia</em>: demarcation reportedly completed in 1998</p> <p><em>Latvia-Lithuania</em>: boundary demarcation was completed by the end of 1998; the Latvian parliament has not ratified its 1998 maritime boundary treaty with Lithuania, primarily due to concerns over oil exploration rights</p> <p><em>Latvia-Russia</em>: Russia demands better Latvian treatment of ethnic Russians in Latvia; in March 2007, Latvia and Russia signed a border treaty, which includes Latvia withdrawing claims to a district now in Russia that was part of Latvia before WWII; the permanent demarcation of the boundary between Latvia and Russia was completed and came into force in April 2018; as a member state that forms part of the EU's external border, Latvia has implemented the strict Schengen border rules with Russia</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 34,854 (Ukraine) (as of 27 December 2022)<br>
+_refugees (country of origin)_: 34,978 (Ukraine) (as of 3 January 2023)<br>
 _stateless persons_: 209,168 (mid-year 2021); note - individuals who were Latvian citizens prior to the 1940 Soviet occupation and their descendants were recognized as Latvian citizens when the country's independence was restored in 1991; citizens of the former Soviet Union residing in Latvia who have neither Latvian nor other citizenship are considered non-citizens (officially there is no statelessness in Latvia) and are entitled to non-citizen passports; children born after Latvian independence to stateless parents are entitled to Latvian citizenship upon their parents' request; non-citizens cannot vote or hold certain government jobs and are exempt from military service but can travel visa-free in the EU under the Schengen accord like Latvian citizens; non-citizens can obtain naturalization if they have been permanent residents of Latvia for at least five years, pass tests in Latvian language and history, and know the words of the Latvian national anthem<br>
 
 **Illicit drugs**<br>

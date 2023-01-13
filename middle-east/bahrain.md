@@ -159,7 +159,7 @@ _female_: 82.24 years (2022 est.)<br>
 1.67 children born/woman (2022 est.)<br>
 
 **Gross reproduction rate**<br>
-0.82 (2022 est.)<br>
+0.82 (2023 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 NA<br>
@@ -207,11 +207,11 @@ _total_: 14.9% (2020 est.)<br>
 _male_: 25.3% (2020 est.)<br>
 _female_: 4.5% (2020 est.)<br>
 
-**Currently married women (ages 15-49)**<br>
-44.4% (2022 est.)<br>
-
 **Children under the age of 5 years underweight**<br>
 NA<br>
+
+**Currently married women (ages 15-49)**<br>
+43.8% (2023 est.)<br>
 
 **Education expenditures**<br>
 2.2% of GDP (2020 est.)<br>
@@ -228,9 +228,9 @@ _male_: 16 years<br>
 _female_: 17 years (2019)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 5.3%<br>
-_male_: 2.6%<br>
-_female_: 12.2% (2012 est.)<br>
+_total_: 9.9%<br>
+_male_: 6.1%<br>
+_female_: 20.5% (2021 est.)<br>
 
 ## Environment
 
@@ -392,28 +392,29 @@ _selected World Heritage Site locales_: Dilmun Burial Mounds; Qal'at al-Bahrain 
 <p>Oil and natural gas play a dominant role in Bahrain’s economy. Despite the Government’s past efforts to diversify the economy, oil still comprises 85% of Bahraini budget revenues. In the last few years lower world energy prices have generated sizable budget deficits - about 10% of GDP in 2017 alone. Bahrain has few options for covering these deficits, with low foreign assets and fewer oil resources compared to its GCC neighbors. The three major US credit agencies downgraded Bahrain’s sovereign debt rating to "junk" status in 2016, citing persistently low oil prices and the government’s high debt levels. Nevertheless, Bahrain was able to raise about $4 billion by issuing foreign currency denominated debt in 2017.</p> <p> </p> <p>Other major economic activities are production of aluminum - Bahrain's second biggest export after oil and gas –finance, and construction. Bahrain continues to seek new natural gas supplies as feedstock to support its expanding petrochemical and aluminum industries. In April 2018 Bahrain announced it had found a significant oil field off the country’s west coast, but is still assessing how much of the oil can be extracted profitably.</p> <p> </p> <p>In addition to addressing its current fiscal woes, Bahraini authorities face the long-term challenge of boosting Bahrain’s regional competitiveness — especially regarding industry, finance, and tourism — and reconciling revenue constraints with popular pressure to maintain generous state subsidies and a large public sector. Since 2015, the government lifted subsidies on meat, diesel, kerosene, and gasoline and has begun to phase in higher prices for electricity and water. As part of its diversification plans, Bahrain implemented a Free Trade Agreement (FTA) with the US in August 2006, the first FTA between the US and a Gulf state. It plans to introduce a Value Added Tax (VAT) by the end of 2018.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
-$69.65 billion (2020 est.)<br>
-$73.95 billion (2019 est.)<br>
-$72.51 billion (2018 est.)<br>
+$72.267 billion (2021 est.)<br>
+$70.694 billion (2020 est.)<br>
+$74.364 billion (2019 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
-2.49% (2019 est.)<br>
-13.89% (2018 est.)<br>
-3.85% (2017 est.)<br>
+2.23% (2021 est.)<br>
+-4.94% (2020 est.)<br>
+2.17% (2019 est.)<br>
 
 **Real GDP per capita**<br>
-$40,900 (2020 est.)<br>
-$45,100 (2019 est.)<br>
-$46,200 (2018 est.)<br>
+$49,400 (2021 est.)<br>
+$47,800 (2020 est.)<br>
+$49,800 (2019 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
 $38.472 billion (2019 est.)<br>
 
 **Inflation rate (consumer prices)**<br>
-1.4% (2017 est.)<br>
-2.8% (2016 est.)<br>
+-0.61% (2021 est.)<br>
+-2.32% (2020 est.)<br>
+1.01% (2019 est.)<br>
 
 **Credit ratings**<br>
 _Fitch rating_: B+ (2020)<br>
@@ -441,10 +442,10 @@ mutton, dates, milk, poultry, tomatoes, fruit, sheep offals, sheep skins, eggs, 
 petroleum processing and refining, aluminum smelting, iron pelletization, fertilizers, Islamic and offshore banking, insurance, ship repairing, tourism<br>
 
 **Industrial production growth rate**<br>
-0.6% (2017 est.)<br>
+0.4% (2021 est.)<br>
 
 **Labor force**<br>
-831,600 (2017 est.)<br>
+819,100 (2021 est.)<br>
 <strong>note:</strong> excludes unemployed; 44% of the population in the 15-64 age group is non-national<br>
 
 **Labor force - by occupation**<br>
@@ -453,14 +454,15 @@ _industry_: 32%<br>
 _services_: 67% (2004 est.)<br>
 
 **Unemployment rate**<br>
-3.6% (2017 est.)<br>
-3.7% (2016 est.)<br>
+1.87% (2021 est.)<br>
+1.78% (2020 est.)<br>
+1.2% (2019 est.)<br>
 <strong>note:</strong> official estimate; actual rate is higher<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 5.3%<br>
-_male_: 2.6%<br>
-_female_: 12.2% (2012 est.)<br>
+_total_: 9.9%<br>
+_male_: 6.1%<br>
+_female_: 20.5% (2021 est.)<br>
 
 **Population below poverty line**<br>
 NA<br>
@@ -487,12 +489,13 @@ _expenditures_: 9.407 billion (2017 est.)<br>
 calendar year<br>
 
 **Current account balance**<br>
+-$2.435 billion (2018 est.)<br>
 -$1.6 billion (2017 est.)<br>
 -$1.493 billion (2016 est.)<br>
 
 **Exports**<br>
-$30.1 billion (2018 est.)<br>
-$26.762 billion (2017 est.)<br>
+$30.097 billion (2018 est.)<br>
+$26.732 billion (2017 est.)<br>
 <strong>note:</strong> Data are in current year dollars and do not include illicit exports or re-exports.<br>
 
 **Exports - partners**<br>
@@ -502,8 +505,8 @@ United Arab Emirates 31%, Saudi Arabia 12%, Japan 8%, United States 8% (2019)<br
 refined petroleum, aluminum and plating, crude petroleum, iron ore, gold (2019)<br>
 
 **Imports**<br>
-$27.19 billion (2018 est.) note: data are in current year dollars<br>
-$22.132 billion (2017 est.)<br>
+$27.187 billion (2018 est.) note: data are in current year dollars<br>
+$23.876 billion (2017 est.)<br>
 
 **Imports - partners**<br>
 United Arab Emirates 27%, China 11%, Saudi Arabia 7%, United States 5%, Brazil 5%, Japan 5%, India 5% (2019)<br>
@@ -512,8 +515,9 @@ United Arab Emirates 27%, China 11%, Saudi Arabia 7%, United States 5%, Brazil 5
 cars, iron ore, jewelry, gold, gas turbines (2019)<br>
 
 **Reserves of foreign exchange and gold**<br>
-$2.349 billion (31 December 2017 est.)<br>
-$3.094 billion (31 December 2016 est.)<br>
+$4.993 billion (31 December 2021 est.)<br>
+$2.523 billion (31 December 2020 est.)<br>
+$3.903 billion (31 December 2019 est.)<br>
 
 **Debt - external**<br>
 $52.15 billion (31 December 2017 est.)<br>
@@ -521,11 +525,11 @@ $42.55 billion (31 December 2016 est.)<br>
 
 **Exchange rates**<br>
 _Currency_: Bahraini dinars (BHD) per US dollar -<br>
-0.37705 (2020 est.)<br>
-0.37705 (2019 est.)<br>
-0.377 (2018 est.)<br>
-0.376 (2014 est.)<br>
-0.376 (2013 est.)<br>
+0.376 (2021 est.)<br>
+0.376 (2020 est.)<br>
+0.376 (2019 est.)<br>
+0.376 (2018 est.)<br>
+0.376 (2017 est.)<br>
 
 ## Energy
 

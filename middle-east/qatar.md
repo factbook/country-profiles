@@ -160,7 +160,7 @@ _female_: 81.96 years (2022 est.)<br>
 1.9 children born/woman (2022 est.)<br>
 
 **Gross reproduction rate**<br>
-0.94 (2022 est.)<br>
+0.94 (2023 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 37.5% (2012)<br>
@@ -208,11 +208,11 @@ _total_: 11.8% (2020 est.)<br>
 _male_: 21.7% (2020 est.)<br>
 _female_: 1.9% (2020 est.)<br>
 
-**Currently married women (ages 15-49)**<br>
-66.8% (2022 est.)<br>
-
 **Children under the age of 5 years underweight**<br>
 NA<br>
+
+**Currently married women (ages 15-49)**<br>
+65.8% (2023 est.)<br>
 
 **Education expenditures**<br>
 3.2% of GDP (2020 est.)<br>
@@ -229,9 +229,9 @@ _male_: 12 years<br>
 _female_: 15 years (2021)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 0.5%<br>
-_male_: 0.2%<br>
-_female_: 1.7% (2020 est.)<br>
+_total_: 1.1%<br>
+_male_: 0.9%<br>
+_female_: 2.1% (2021 est.)<br>
 
 ## Environment
 
@@ -391,29 +391,29 @@ _selected World Heritage Site locales_: Al Zubarah Archaeological Site<br>
 <p>Qatar’s oil and natural gas resources are the country’s main economic engine and government revenue source, driving Qatar’s high economic growth and per capita income levels, robust state spending on public entitlements, and booming construction spending, particularly as Qatar prepares to host the World Cup in 2022. Although the government has maintained high capital spending levels for ongoing infrastructure projects, low oil and natural gas prices in recent years have led the Qatari Government to tighten some spending to help stem its budget deficit.</p> <p> </p> <p>Qatar’s reliance on oil and natural gas is likely to persist for the foreseeable future. Proved natural gas reserves exceed 25 trillion cubic meters - 13% of the world total and, among countries, third largest in the world. Proved oil reserves exceed 25 billion barrels, allowing production to continue at current levels for about 56 years. Despite the dominance of oil and natural gas, Qatar has made significant gains in strengthening non-oil sectors, such as manufacturing, construction, and financial services, leading non-oil GDP to steadily rise in recent years to just over half the total.</p> <p> </p> <p>Following trade restriction imposed by Saudi Arabia, the UAE, Bahrain, and Egypt in 2017, Qatar established new trade routes with other countries to maintain access to imports.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
-$245.66 billion (2020 est.)<br>
+$249.636 billion (2021 est.)<br>
+$245.727 billion (2020 est.)<br>
 $255.01 billion (2019 est.)<br>
-$253.05 billion (2018 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
-1.6% (2017 est.)<br>
-2.1% (2016 est.)<br>
-3.7% (2015 est.)<br>
+1.59% (2021 est.)<br>
+-3.64% (2020 est.)<br>
+0.77% (2019 est.)<br>
 
 **Real GDP per capita**<br>
-$85,300 (2020 est.)<br>
-$90,000 (2019 est.)<br>
-$91,000 (2018 est.)<br>
+$92,900 (2021 est.)<br>
+$89,000 (2020 est.)<br>
+$90,800 (2019 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
 $191.29 billion (2018 est.)<br>
 
 **Inflation rate (consumer prices)**<br>
--0.6% (2019 est.)<br>
-0.2% (2018 est.)<br>
-0.3% (2017 est.)<br>
+2.3% (2021 est.)<br>
+-2.54% (2020 est.)<br>
+-0.67% (2019 est.)<br>
 
 **Credit ratings**<br>
 _Fitch rating_: AA- (2017)<br>
@@ -441,19 +441,20 @@ tomatoes, dates, camel milk, sheep milk, goat milk, pumpkins/gourds, mutton, pou
 liquefied natural gas, crude oil production and refining, ammonia, fertilizer, petrochemicals, steel reinforcing bars, cement, commercial ship repair<br>
 
 **Industrial production growth rate**<br>
-3% (2017 est.)<br>
+0.66% (2021 est.)<br>
 
 **Labor force**<br>
-1.953 million (2017 est.)<br>
+1.977 million (2021 est.)<br>
 
 **Unemployment rate**<br>
-8.9% (2017 est.)<br>
-11.1% (2016 est.)<br>
+0.26% (2021 est.)<br>
+0.21% (2020 est.)<br>
+0.1% (2019 est.)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 0.5%<br>
-_male_: 0.2%<br>
-_female_: 1.7% (2020 est.)<br>
+_total_: 1.1%<br>
+_male_: 0.9%<br>
+_female_: 2.1% (2021 est.)<br>
 
 **Population below poverty line**<br>
 NA<br>
@@ -483,13 +484,14 @@ _expenditures_: 53.82 billion (2017 est.)<br>
 1 April - 31 March<br>
 
 **Current account balance**<br>
-$6.426 billion (2017 est.)<br>
--$8.27 billion (2016 est.)<br>
+$26.319 billion (2021 est.)<br>
+-$2.986 billion (2020 est.)<br>
+$4.26 billion (2019 est.)<br>
 
 **Exports**<br>
-$70.93 billion (2020 est.) note: data are in current year dollars<br>
-$92.05 billion (2019 est.) note: data are in current year dollars<br>
-$102.56 billion (2018 est.) note: data are in current year dollars<br>
+$105.549 billion (2021 est.) note: data are in current year dollars<br>
+$70.933 billion (2020 est.) note: data are in current year dollars<br>
+$92.046 billion (2019 est.) note: data are in current year dollars<br>
 
 **Exports - partners**<br>
 Japan 17%, South Korea 16%, India 14%, China 13%, Singapore 7% (2019)<br>
@@ -498,9 +500,9 @@ Japan 17%, South Korea 16%, India 14%, China 13%, Singapore 7% (2019)<br>
 natural gas, crude petroleum, refined petroleum, ethylene polymers, fertilizers (2019)<br>
 
 **Imports**<br>
-$59.06 billion (2020 est.) note: data are in current year dollars<br>
+$61.204 billion (2021 est.) note: data are in current year dollars<br>
+$59.065 billion (2020 est.) note: data are in current year dollars<br>
 $66.77 billion (2019 est.) note: data are in current year dollars<br>
-$65.81 billion (2018 est.) note: data are in current year dollars<br>
 
 **Imports - partners**<br>
 United States 15%, France 13%, United Kingdom 9%, China 9%, Germany 5%, Italy 5% (2019)<br>
@@ -509,8 +511,9 @@ United States 15%, France 13%, United Kingdom 9%, China 9%, Germany 5%, Italy 5%
 aircraft, gas turbines, cars, jewelry, iron piping (2019)<br>
 
 **Reserves of foreign exchange and gold**<br>
-$15.01 billion (31 December 2017 est.)<br>
-$31.89 billion (31 December 2016 est.)<br>
+$42.213 billion (31 December 2021 est.)<br>
+$40.973 billion (31 December 2020 est.)<br>
+$39.718 billion (31 December 2019 est.)<br>
 
 **Debt - external**<br>
 $167.8 billion (31 December 2017 est.)<br>
@@ -518,11 +521,11 @@ $157.9 billion (31 December 2016 est.)<br>
 
 **Exchange rates**<br>
 _Currency_: Qatari rials (QAR) per US dollar -<br>
-3.641 (2020 est.)<br>
-3.641 (2019 est.)<br>
-3.641 (2018 est.)<br>
-3.64 (2014 est.)<br>
-3.64 (2013 est.)<br>
+3.64 (2021 est.)<br>
+3.64 (2020 est.)<br>
+3.64 (2019 est.)<br>
+3.64 (2018 est.)<br>
+3.64 (2017 est.)<br>
 
 ## Energy
 

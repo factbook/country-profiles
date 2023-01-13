@@ -172,7 +172,7 @@ _female_: 66.68 years (2022 est.)<br>
 2.18 children born/woman (2022 est.)<br>
 
 **Gross reproduction rate**<br>
-1.08 (2022 est.)<br>
+1.07 (2023 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 54.6% (2016)<br>
@@ -223,11 +223,11 @@ _total_: 20.3% (2020 est.)<br>
 _male_: 34% (2020 est.)<br>
 _female_: 6.5% (2020 est.)<br>
 
-**Currently married women (ages 15-49)**<br>
-36.8% (2022 est.)<br>
-
 **Children under the age of 5 years underweight**<br>
 5.5% (2017)<br>
+
+**Currently married women (ages 15-49)**<br>
+36.9% (2023 est.)<br>
 
 **Child marriage**<br>
 _women married by age 15_: 0.9%<br>
@@ -249,9 +249,9 @@ _male_: 13 years<br>
 _female_: 14 years (2020)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 49.6%<br>
-_male_: 45.5%<br>
-_female_: 54.3% (2021 est.)<br>
+_total_: 64.2%<br>
+_male_: 59.8%<br>
+_female_: 69.3% (2021 est.)<br>
 
 ## Environment
 
@@ -421,29 +421,29 @@ _selected World Heritage Site locales_: Fossil Hominid Sites of South Africa (c)
 <p>South Africa is a middle-income emerging market with an abundant supply of natural resources; well-developed financial, legal, communications, energy, and transport sectors; and a stock exchange that is Africa’s largest and among the top 20 in the world.</p> <p> </p> <p>Economic growth has decelerated in recent years, slowing to an estimated 0.7% in 2017. Unemployment, poverty, and inequality - among the highest in the world - remain a challenge. Official unemployment is roughly 27% of the workforce, and runs significantly higher among black youth. Even though the country's modern infrastructure supports a relatively efficient distribution of goods to major urban centers throughout the region, unstable electricity supplies retard growth. Eskom, the state-run power company, is building three new power stations and is installing new power demand management programs to improve power grid reliability but has been plagued with accusations of mismanagement and corruption and faces an increasingly high debt burden.</p> <p> </p> <p>South Africa's economic policy has focused on controlling inflation while empowering a broader economic base; however, the country faces structural constraints that also limit economic growth, such as skills shortages, declining global competitiveness, and frequent work stoppages due to strike action. The government faces growing pressure from urban constituencies to improve the delivery of basic services to low-income areas, to increase job growth, and to provide university level-education at affordable prices. Political infighting among South Africa’s ruling party and the volatility of the rand risks economic growth. International investors are concerned about the country’s long-term economic stability; in late 2016, most major international credit ratings agencies downgraded South Africa’s international debt to junk bond status.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
-$680.04 billion (2020 est.)<br>
-$730.91 billion (2019 est.)<br>
-$729.8 billion (2018 est.)<br>
+$790.625 billion (2021 est.)<br>
+$753.6 billion (2020 est.)<br>
+$804.634 billion (2019 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
-0.06% (2019 est.)<br>
-0.7% (2018 est.)<br>
-1.4% (2017 est.)<br>
+4.91% (2021 est.)<br>
+-6.34% (2020 est.)<br>
+0.3% (2019 est.)<br>
 
 **Real GDP per capita**<br>
-$11,500 (2020 est.)<br>
-$12,500 (2019 est.)<br>
-$12,600 (2018 est.)<br>
+$13,300 (2021 est.)<br>
+$12,800 (2020 est.)<br>
+$13,900 (2019 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
 $350.032 billion (2019 est.)<br>
 
 **Inflation rate (consumer prices)**<br>
-4.1% (2019 est.)<br>
-4.6% (2018 est.)<br>
-5.2% (2017 est.)<br>
+4.61% (2021 est.)<br>
+3.21% (2020 est.)<br>
+4.12% (2019 est.)<br>
 
 **Credit ratings**<br>
 _Fitch rating_: BB- (2020)<br>
@@ -471,10 +471,10 @@ sugar cane, maize, milk, potatoes, grapes, poultry, oranges, wheat, soybeans, be
 mining (world's largest producer of platinum, gold, chromium), automobile assembly, metalworking, machinery, textiles, iron and steel, chemicals, fertilizer, foodstuffs, commercial ship repair<br>
 
 **Industrial production growth rate**<br>
-1.2% (2017 est.)<br>
+6.12% (2021 est.)<br>
 
 **Labor force**<br>
-14.687 million (2020 est.)<br>
+22.398 million (2021 est.)<br>
 
 **Labor force - by occupation**<br>
 _agriculture_: 4.6%<br>
@@ -482,20 +482,20 @@ _industry_: 23.5%<br>
 _services_: 71.9% (2014 est.)<br>
 
 **Unemployment rate**<br>
-28.53% (2019 est.)<br>
-27.09% (2018 est.)<br>
+33.56% (2021 est.)<br>
+29.22% (2020 est.)<br>
+28.47% (2019 est.)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 49.6%<br>
-_male_: 45.5%<br>
-_female_: 54.3% (2021 est.)<br>
+_total_: 64.2%<br>
+_male_: 59.8%<br>
+_female_: 69.3% (2021 est.)<br>
 
 **Population below poverty line**<br>
 55.5% (2014 est.)<br>
 
 **Gini Index coefficient - distribution of family income**<br>
 63 (2014 est.)<br>
-63.4 (2011 est.)<br>
 
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 1.2%<br>
@@ -513,19 +513,20 @@ _expenditures_: 108.3 billion (2017 est.)<br>
 51.6% of GDP (2016 est.)<br>
 
 **Taxes and other revenues**<br>
-26.6% (of GDP) (2017 est.)<br>
+23.3% (of GDP) (2020 est.)<br>
 
 **Fiscal year**<br>
 1 April - 31 March<br>
 
 **Current account balance**<br>
--$10.626 billion (2019 est.)<br>
--$13.31 billion (2018 est.)<br>
+$15.569 billion (2021 est.)<br>
+$6.788 billion (2020 est.)<br>
+-$10.037 billion (2019 est.)<br>
 
 **Exports**<br>
-$93.01 billion (2020 est.) note: data are in current year dollars<br>
-$104.85 billion (2019 est.) note: data are in current year dollars<br>
-$110.07 billion (2018 est.) note: data are in current year dollars<br>
+$130.885 billion (2021 est.) note: data are in current year dollars<br>
+$94.123 billion (2020 est.) note: data are in current year dollars<br>
+$105.988 billion (2019 est.) note: data are in current year dollars<br>
 
 **Exports - partners**<br>
 China 15%, United Kingdom 8%, Germany 7%, United States 6%, India 6% (2019)<br>
@@ -534,9 +535,9 @@ China 15%, United Kingdom 8%, Germany 7%, United States 6%, India 6% (2019)<br>
 gold, platinum, cars, iron products, coal, manganese, diamonds&nbsp; (2019)<br>
 
 **Imports**<br>
-$77.86 billion (2020 est.) note: data are in current year dollars<br>
-$103.12 billion (2019 est.) note: data are in current year dollars<br>
-$108.91 billion (2018 est.) note: data are in current year dollars<br>
+$104.806 billion (2021 est.) note: data are in current year dollars<br>
+$79.022 billion (2020 est.) note: data are in current year dollars<br>
+$103.92 billion (2019 est.) note: data are in current year dollars<br>
 
 **Imports - partners**<br>
 China 18%, Germany 11%, United States 6%, India 5% (2019)<br>
@@ -545,8 +546,9 @@ China 18%, Germany 11%, United States 6%, India 5% (2019)<br>
 crude petroleum, refined petroleum, cars and vehicle parts, gold, broadcasting equipment (2019)<br>
 
 **Reserves of foreign exchange and gold**<br>
-$50.72 billion (31 December 2017 est.)<br>
-$47.23 billion (31 December 2016 est.)<br>
+$57.597 billion (31 December 2021 est.)<br>
+$55.008 billion (31 December 2020 est.)<br>
+$55.056 billion (31 December 2019 est.)<br>
 
 **Debt - external**<br>
 $179.871 billion (2019 est.)<br>
@@ -554,11 +556,11 @@ $173.714 billion (2018 est.)<br>
 
 **Exchange rates**<br>
 _Currency_: rand (ZAR) per US dollar -<br>
-14.9575 (2020 est.)<br>
-14.64 (2019 est.)<br>
-14.05125 (2018 est.)<br>
-12.7581 (2014 est.)<br>
-10.8469 (2013 est.)<br>
+14.779 (2021 est.)<br>
+16.459 (2020 est.)<br>
+14.448 (2019 est.)<br>
+13.234 (2018 est.)<br>
+13.324 (2017 est.)<br>
 
 ## Energy
 
@@ -749,7 +751,7 @@ Islamic State of Iraq and ash-Sham (ISIS)<br>
 <p><em>South Africa-Botswana</em>: none identified</p> <p><em>South Africa-Eswatini</em>: Eswatini seeks to reclaim land it says was stolen by South Africa</p> <p><em>South Africa-Lesotho</em>: crossborder livestock thieving, smuggling of drugs and arms, and illegal migration are problematic</p> <p><em>South Africa-Mozambique</em>: animal poachers cross the South Africa-Mozambique border to hunt wildlife in South Africa’s Kruger National Park; border fences were removed in some areas to allow animals to roam between nature reserves in the two countries; improved patrols, technology, and crossborder cooperation are reducing the problem</p> <p><em>South Africa-Namibia</em>: the governments of South Africa and Namibia have not signed or ratified the text of the 1994 Surveyor's General agreement placing the boundary in the middle of the Orange River; the location of the border could affect diamond mining rights; South Africa has always claimed that the northern bank of the Orange River is the border between the two countries, while Namibia’s constitution states that the border lies in the middle of the Orange River</p> <p><em>South Africa-various</em>: South Africa has placed military units to assist police operations along the border of Lesotho, Zimbabwe, and Mozambique to control smuggling, poaching, and illegal migration</p> <p><em>South Africa-Zimbabwe</em>: Zimbabweans migrate illegally into South Africa in search of work or smuggle goods to sell at a profit back home</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 23,054 (Somalia), 15,629 (Ethiopia) (mid-year 2021); 56,080 (Democratic Republic of the Congo) (refugees and asylum seekers) (2022)<br>
+_refugees (country of origin)_: 22,388 (Somalia), 15,240 (Ethiopia) (mid-year 2022); 56,080 (Democratic Republic of the Congo) (refugees and asylum seekers) (2022)<br>
 _IDPs_: 5,000 (2020)<br>
 
 **Illicit drugs**<br>

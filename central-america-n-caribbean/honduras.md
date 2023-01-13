@@ -168,7 +168,7 @@ _female_: 78.82 years (2022 est.)<br>
 2.01 children born/woman (2022 est.)<br>
 
 **Gross reproduction rate**<br>
-0.99 (2022 est.)<br>
+0.97 (2023 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 69.4% (2019)<br>
@@ -216,11 +216,11 @@ _wine_: 0.04 liters of pure alcohol (2019 est.)<br>
 _spirits_: 1.09 liters of pure alcohol (2019 est.)<br>
 _other alcohols_: 0 liters of pure alcohol (2019 est.)<br>
 
-**Currently married women (ages 15-49)**<br>
-53.7% (2022 est.)<br>
-
 **Children under the age of 5 years underweight**<br>
 7.1% (2011/12)<br>
+
+**Currently married women (ages 15-49)**<br>
+53.5% (2023 est.)<br>
 
 **Education expenditures**<br>
 6.4% of GDP (2020 est.)<br>
@@ -237,9 +237,9 @@ _male_: 10 years<br>
 _female_: 11 years (2019)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 17.6%<br>
-_male_: 10.9%<br>
-_female_: 27.6% (2020 est.)<br>
+_total_: 15.5%<br>
+_male_: 11.4%<br>
+_female_: 24.6% (2021 est.)<br>
 
 ## Environment
 
@@ -404,29 +404,29 @@ _selected World Heritage Site locales_: Maya Site of Copan (c); Río Plátano Bi
 <p>Honduras, the second poorest country in Central America, suffers from extraordinarily unequal distribution of income, as well as high underemployment. While historically dependent on the export of bananas and coffee, Honduras has diversified its export base to include apparel and automobile wire harnessing.</p> <p> </p> <p>Honduras’s economy depends heavily on US trade and remittances. The US-Central America-Dominican Republic Free Trade Agreement came into force in 2006 and has helped foster foreign direct investment, but physical and political insecurity, as well as crime and perceptions of corruption, may deter potential investors; about 15% of foreign direct investment is from US firms.</p> <p> </p> <p>The economy registered modest economic growth of 3.1%-4.0% from 2010 to 2017, insufficient to improve living standards for the nearly 65% of the population in poverty. In 2017, Honduras faced rising public debt, but its economy has performed better than expected due to low oil prices and improved investor confidence. Honduras signed a three-year standby arrangement with the IMF in December 2014, aimed at easing Honduras’s poor fiscal position.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
-$50.89 billion (2020 est.)<br>
-$55.91 billion (2019 est.)<br>
-$54.46 billion (2018 est.)<br>
+$57.273 billion (2021 est.)<br>
+$50.894 billion (2020 est.)<br>
+$55.905 billion (2019 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
-4.8% (2017 est.)<br>
-3.8% (2016 est.)<br>
-3.8% (2015 est.)<br>
+12.53% (2021 est.)<br>
+-8.96% (2020 est.)<br>
+2.65% (2019 est.)<br>
 
 **Real GDP per capita**<br>
-$5,100 (2020 est.)<br>
-$5,700 (2019 est.)<br>
-$5,700 (2018 est.)<br>
+$5,600 (2021 est.)<br>
+$5,000 (2020 est.)<br>
+$5,600 (2019 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
 $25.145 billion (2019 est.)<br>
 
 **Inflation rate (consumer prices)**<br>
-4.3% (2019 est.)<br>
-4.3% (2018 est.)<br>
-3.9% (2017 est.)<br>
+4.48% (2021 est.)<br>
+3.47% (2020 est.)<br>
+4.37% (2019 est.)<br>
 
 **Credit ratings**<br>
 _Moody's rating_: B1 (2017)<br>
@@ -453,10 +453,10 @@ sugarcane, oil palm fruit, milk, bananas, maize, coffee, melons, oranges, poultr
 sugar processing, coffee, woven and knit apparel, wood products, cigars<br>
 
 **Industrial production growth rate**<br>
-4.5% (2017 est.)<br>
+20.05% (2021 est.)<br>
 
 **Labor force**<br>
-3.735 million (2017 est.)<br>
+4.314 million (2021 est.)<br>
 
 **Labor force - by occupation**<br>
 _agriculture_: 39.2%<br>
@@ -464,21 +464,21 @@ _industry_: 20.9%<br>
 _services_: 39.8% (2005 est.)<br>
 
 **Unemployment rate**<br>
-5.6% (2017 est.)<br>
-6.3% (2016 est.)<br>
+8.51% (2021 est.)<br>
+8.37% (2020 est.)<br>
+5.7% (2019 est.)<br>
 <strong>note:</strong> about one-third of the people are underemployed<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 17.6%<br>
-_male_: 10.9%<br>
-_female_: 27.6% (2020 est.)<br>
+_total_: 15.5%<br>
+_male_: 11.4%<br>
+_female_: 24.6% (2021 est.)<br>
 
 **Population below poverty line**<br>
 48.3% (2018 est.)<br>
 
 **Gini Index coefficient - distribution of family income**<br>
-52.1 (2018 est.)<br>
-45.7 (2009)<br>
+48.2 (2019 est.)<br>
 
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 1.2%<br>
@@ -496,18 +496,20 @@ _expenditures_: 5.283 billion (2017 est.)<br>
 38.5% of GDP (2016 est.)<br>
 
 **Taxes and other revenues**<br>
-20.3% (of GDP) (2017 est.)<br>
+14.77% (of GDP) (2020 est.)<br>
 
 **Fiscal year**<br>
 calendar year<br>
 
 **Current account balance**<br>
--$380 million (2017 est.)<br>
--$587 million (2016 est.)<br>
+-$1.222 billion (2021 est.)<br>
+$676.895 million (2020 est.)<br>
+-$661.552 million (2019 est.)<br>
 
 **Exports**<br>
-$7.16 billion (2019 est.) note: data are in current year dollars<br>
-$7.14 billion (2018 est.) note: data are in current year dollars<br>
+$7.941 billion (2021 est.) note: data are in current year dollars<br>
+$6.269 billion (2020 est.) note: data are in current year dollars<br>
+$7.243 billion (2019 est.)<br>
 
 **Exports - partners**<br>
 United States 53%, El Salvador 8%, Guatemala 5%, Nicaragua 5% (2019)<br>
@@ -516,8 +518,9 @@ United States 53%, El Salvador 8%, Guatemala 5%, Nicaragua 5% (2019)<br>
 clothing and apparel, coffee, insulated wiring, bananas, palm oil (2019)<br>
 
 **Imports**<br>
-$11.5 billion (2019 est.) note: data are in current year dollars<br>
-$11.78 billion (2018 est.) note: data are in current year dollars<br>
+$14.495 billion (2021 est.) note: data are in current year dollars<br>
+$9.928 billion (2020 est.) note: data are in current year dollars<br>
+$11.825 billion (2019 est.)<br>
 
 **Imports - partners**<br>
 United States 42%, China 10%, Guatemala 8%, El Salvador 8%, Mexico 6% (2019)<br>
@@ -526,8 +529,9 @@ United States 42%, China 10%, Guatemala 8%, El Salvador 8%, Mexico 6% (2019)<br>
 refined petroleum, clothing and apparel, packaged medicines, broadcasting equipment, insulated wiring (2019)<br>
 
 **Reserves of foreign exchange and gold**<br>
-$4.708 billion (31 December 2017 est.)<br>
-$3.814 billion (31 December 2016 est.)<br>
+$8.138 billion (31 December 2020 est.)<br>
+$5.744 billion (31 December 2019 est.)<br>
+$4.769 billion (31 December 2018 est.)<br>
 
 **Debt - external**<br>
 $9.137 billion (2019 est.)<br>
@@ -535,11 +539,11 @@ $8.722 billion (2018 est.)<br>
 
 **Exchange rates**<br>
 _Currency_: lempiras (HNL) per US dollar -<br>
-23.74 (2017 est.)<br>
-22.995 (2016 est.)<br>
-22.995 (2015 est.)<br>
-22.098 (2014 est.)<br>
-21.137 (2013 est.)<br>
+24.017 (2021 est.)<br>
+24.582 (2020 est.)<br>
+24.509 (2019 est.)<br>
+23.903 (2018 est.)<br>
+23.487 (2017 est.)<br>
 
 ## Energy
 

@@ -165,7 +165,7 @@ _female_: 87.9 years (2022 est.)<br>
 1.38 children born/woman (2022 est.)<br>
 
 **Gross reproduction rate**<br>
-0.67 (2022 est.)<br>
+0.68 (2023 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 39.8% (2015)<br>
@@ -218,11 +218,11 @@ _total_: 20.1% (2020 est.)<br>
 _male_: 30.1% (2020 est.)<br>
 _female_: 10% (2020 est.)<br>
 
-**Currently married women (ages 15-49)**<br>
-47.2% (2022 est.)<br>
-
 **Children under the age of 5 years underweight**<br>
 NA<br>
+
+**Currently married women (ages 15-49)**<br>
+46.8% (2023 est.)<br>
 
 **Education expenditures**<br>
 3.4% of GDP (2020 est.)<br>
@@ -238,9 +238,9 @@ _male_: 15 years<br>
 _female_: 15 years (2019)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 4.6%<br>
-_male_: 5.1%<br>
-_female_: 4.2% (2021 est.)<br>
+_total_: 4.4%<br>
+_male_: 4.6%<br>
+_female_: 4.1% (2021 est.)<br>
 
 ## Environment
 
@@ -406,27 +406,27 @@ _selected World Heritage Site locales_: Buddhist Monuments in the Horyu-ji Area 
 <p>Over the past 70 years, government-industry cooperation, a strong work ethic, mastery of high technology, and a comparatively small defense allocation (slightly less than 1% of GDP) have helped Japan develop an advanced economy. Two notable characteristics of the post-World War II economy were the close interlocking structures of manufacturers, suppliers, and distributors, known as keiretsu, and the guarantee of lifetime employment for a substantial portion of the urban labor force. Both features have significantly eroded under the dual pressures of global competition and domestic demographic change.</p> <p> </p> <p>Measured on a purchasing power parity basis that adjusts for price differences, Japan in 2017 stood as the fourth-largest economy in the world after first-place China, which surpassed Japan in 2001, and third-place India, which edged out Japan in 2012. For three postwar decades, overall real economic growth was impressive - averaging 10% in the 1960s, 5% in the 1970s, and 4% in the 1980s. Growth slowed markedly in the 1990s, averaging just 1.7%, largely because of the aftereffects of inefficient investment and the collapse of an asset price bubble in the late 1980s, which resulted in several years of economic stagnation as firms sought to reduce excess debt, capital, and labor. Modest economic growth continued after 2000, but the economy has fallen into recession four times since 2008.</p> <p> </p> <p>Japan enjoyed an uptick in growth since 2013, supported by Prime Minister Shinzo ABE’s "Three Arrows" economic revitalization agenda - dubbed "Abenomics" - of monetary easing, "flexible" fiscal policy, and structural reform. Led by the Bank of Japan’s aggressive monetary easing, Japan is making modest progress in ending deflation, but demographic decline – a low birthrate and an aging, shrinking population – poses a major long-term challenge for the economy. The government currently faces the quandary of balancing its efforts to stimulate growth and institute economic reforms with the need to address its sizable public debt, which stands at 235% of GDP. To help raise government revenue, Japan adopted legislation in 2012 to gradually raise the consumption tax rate. However, the first such increase, in April 2014, led to a sharp contraction, so Prime Minister ABE has twice postponed the next increase, which is now scheduled for October 2019. Structural reforms to unlock productivity are seen as central to strengthening the economy in the long-run.</p> <p> </p> <p>Scarce in critical natural resources, Japan has long been dependent on imported energy and raw materials. After the complete shutdown of Japan’s nuclear reactors following the earthquake and tsunami disaster in 2011, Japan's industrial sector has become even more dependent than before on imported fossil fuels. However, ABE’s government is seeking to restart nuclear power plants that meet strict new safety standards and is emphasizing nuclear energy’s importance as a base-load electricity source. In August 2015, Japan successfully restarted one nuclear reactor at the Sendai Nuclear Power Plant in Kagoshima prefecture, and several other reactors around the country have since resumed operations; however, opposition from local governments has delayed several more restarts that remain pending. Reforms of the electricity and gas sectors, including full liberalization of Japan’s energy market in April 2016 and gas market in April 2017, constitute an important part of Prime Minister Abe’s economic program.</p> <p> </p> <p>Under the Abe Administration, Japan’s government sought to open the country’s economy to greater foreign competition and create new export opportunities for Japanese businesses, including by joining 11 trading partners in the Trans-Pacific Partnership (TPP). Japan became the first country to ratify the TPP in December 2016, but the United States signaled its withdrawal from the agreement in January 2017. In November 2017 the remaining 11 countries agreed on the core elements of a modified agreement, which they renamed the Comprehensive and Progressive Agreement for Trans-Pacific Partnership (CPTPP). Japan also reached agreement with the European Union on an Economic Partnership Agreement in July 2017, and is likely seek to ratify both agreements in the Diet this year.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
-$5,224,850,000,000 (2019 est.) note: data are in 2017 dollars<br>
-$5,210,770,000,000 (2018 est.) note: data are in 2017 dollars<br>
-$5,180,326,000,000 (2017 est.)<br>
+$5.126 trillion (2021 est.) note: data are in 2017 dollars<br>
+$5.042 trillion (2020 est.) note: data are in 2017 dollars<br>
+$5.28 trillion (2019 est.)<br>
 
 **Real GDP growth rate**<br>
-0.7% (2019 est.)<br>
-0.29% (2018 est.)<br>
-2.19% (2017 est.)<br>
+1.66% (2021 est.)<br>
+-4.51% (2020 est.)<br>
+-0.24% (2019 est.)<br>
 
 **Real GDP per capita**<br>
-$41,400 (2019 est.) note: data are in 2017 dollars<br>
-$41,200 (2018 est.) note: data are in 2017 dollars<br>
-$40,859 (2017 est.)<br>
+$40,800 (2021 est.) note: data are in 2017 dollars<br>
+$39,900 (2020 est.) note: data are in 2017 dollars<br>
+$41,700 (2019 est.)<br>
 
 **GDP (official exchange rate)**<br>
 $5,078,679,000,000 (2019 est.)<br>
 
 **Inflation rate (consumer prices)**<br>
-0.4% (2019 est.)<br>
-0.9% (2018 est.)<br>
-0.4% (2017 est.)<br>
+-0.23% (2021 est.)<br>
+-0.02% (2020 est.)<br>
+0.47% (2019 est.)<br>
 
 **Credit ratings**<br>
 _Fitch rating_: A (2015)<br>
@@ -454,10 +454,10 @@ rice, milk, sugar beet, vegetables, eggs, poultry, potatoes, cabbages, onions, p
 among world's largest and most technologically advanced producers of motor vehicles, electronic equipment, machine tools, steel and nonferrous metals, ships, chemicals, textiles, processed foods<br>
 
 **Industrial production growth rate**<br>
-1.4% (2017 est.)<br>
+-4.33% (2020 est.)<br>
 
 **Labor force**<br>
-66.54 million (2020 est.)<br>
+68.629 million (2021 est.)<br>
 
 **Labor force - by occupation**<br>
 _agriculture_: 2.9%<br>
@@ -465,20 +465,20 @@ _industry_: 26.2%<br>
 _services_: 70.9% (February 2015 est.)<br>
 
 **Unemployment rate**<br>
-2.36% (2019 est.)<br>
-2.44% (2018 est.)<br>
+2.8% (2021 est.)<br>
+2.8% (2020 est.)<br>
+2.4% (2019 est.)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 4.6%<br>
-_male_: 5.1%<br>
-_female_: 4.2% (2021 est.)<br>
+_total_: 4.4%<br>
+_male_: 4.6%<br>
+_female_: 4.1% (2021 est.)<br>
 
 **Population below poverty line**<br>
 16.1% (2013 est.)<br>
 
 **Gini Index coefficient - distribution of family income**<br>
 32.9 (2013 est.)<br>
-24.9 (1993)<br>
 
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 2.7%<br>
@@ -492,8 +492,9 @@ _expenditures_: 1.885 trillion (2017 est.)<br>
 -3.5% (of GDP) (2017 est.)<br>
 
 **Public debt**<br>
-237.6% of GDP (2017 est.)<br>
-235.6% of GDP (2016 est.)<br>
+216.28% of GDP (2020 est.)<br>
+197.8% of GDP (2019 est.)<br>
+197.45% of GDP (2018 est.)<br>
 
 **Taxes and other revenues**<br>
 35.2% (of GDP) (2017 est.)<br>
@@ -502,13 +503,14 @@ _expenditures_: 1.885 trillion (2017 est.)<br>
 1 April - 31 March<br>
 
 **Current account balance**<br>
-$185.644 billion (2019 est.)<br>
-$177.08 billion (2018 est.)<br>
+$157.743 billion (2021 est.)<br>
+$147.948 billion (2020 est.)<br>
+$176.61 billion (2019 est.)<br>
 
 **Exports**<br>
-$793.32 billion (2020 est.) note: data are in current year dollars<br>
-$904.63 billion (2019 est.) note: data are in current year dollars<br>
-$929.83 billion (2018 est.) note: data are in current year dollars<br>
+$919.158 billion (2021 est.) note: data are in current year dollars<br>
+$794.291 billion (2020 est.) note: data are in current year dollars<br>
+$904.632 billion (2019 est.) note: data are in current year dollars<br>
 
 **Exports - partners**<br>
 United States 19%, China 18%, South Korea 6%, Taiwan 6% (2019)<br>
@@ -517,9 +519,9 @@ United States 19%, China 18%, South Korea 6%, Taiwan 6% (2019)<br>
 cars and vehicle parts, integrated circuits, personal appliances, ships (2019)<br>
 
 **Imports**<br>
-$799.52 billion (2020 est.) note: data are in current year dollars<br>
-$913.25 billion (2019 est.) note: data are in current year dollars<br>
-$928.42 billion (2018 est.) note: data are in current year dollars<br>
+$941.671 billion (2021 est.) note: data are in current year dollars<br>
+$801.889 billion (2020 est.) note: data are in current year dollars<br>
+$913.248 billion (2019 est.) note: data are in current year dollars<br>
 
 **Imports - partners**<br>
 China 23%, United States 11%, Australia 6% (2019)<br>
@@ -528,8 +530,9 @@ China 23%, United States 11%, Australia 6% (2019)<br>
 crude petroleum, natural gas, coal, integrated circuits, broadcasting equipment (2019)<br>
 
 **Reserves of foreign exchange and gold**<br>
-$1.264 trillion (31 December 2017 est.)<br>
-$1.233 trillion (31 December 2015 est.)<br>
+$1.406 trillion (31 December 2021 est.)<br>
+$1.391 trillion (31 December 2020 est.)<br>
+$1.322 trillion (31 December 2019 est.)<br>
 
 **Debt - external**<br>
 $4,254,271,000,000 (2019 est.)<br>
@@ -537,11 +540,11 @@ $3,944,898,000,000 (2018 est.)<br>
 
 **Exchange rates**<br>
 _Currency_: yen (JPY) per US dollar -<br>
-104.205 (2020 est.)<br>
-108.605 (2019 est.)<br>
-112.7 (2018 est.)<br>
-121.02 (2014 est.)<br>
-97.44 (2013 est.)<br>
+109.754 (2021 est.)<br>
+106.775 (2020 est.)<br>
+109.01 (2019 est.)<br>
+110.423 (2018 est.)<br>
+112.166 (2017 est.)<br>
 
 ## Energy
 

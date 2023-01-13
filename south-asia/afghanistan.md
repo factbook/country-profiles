@@ -169,7 +169,7 @@ _female_: 55.28 years (2022 est.)<br>
 4.62 children born/woman (2022 est.)<br>
 
 **Gross reproduction rate**<br>
-2.26 (2022 est.)<br>
+2.21 (2023 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 18.9% (2018)<br>
@@ -224,11 +224,11 @@ _total_: 23.3% (2020 est.)<br>
 _male_: 39.4% (2020 est.)<br>
 _female_: 7.2% (2020 est.)<br>
 
-**Currently married women (ages 15-49)**<br>
-70.2% (2022 est.)<br>
-
 **Children under the age of 5 years underweight**<br>
 19.1% (2018)<br>
+
+**Currently married women (ages 15-49)**<br>
+70.3% (2023 est.)<br>
 
 **Child marriage**<br>
 _women married by age 15_: 4.2%<br>
@@ -249,9 +249,9 @@ _male_: 13 years<br>
 _female_: 8 years (2018)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 8.7%<br>
-_male_: 8.4%<br>
-_female_: 9.4% (2021 est.)<br>
+_total_: 20.2%<br>
+_male_: 18.6%<br>
+_female_: 26.4% (2021 est.)<br>
 
 ## Environment
 
@@ -328,7 +328,7 @@ _former_: Islamic Republic of Afghanistan<br>
 _etymology_: the name "Afghan" originally referred to the Pashtun people (today it is understood to include all the country's ethnic groups), while the suffix "-stan" means "place of" or "country"; so Afghanistan literally means the "Land of the Afghans"<br>
 
 **Government type**<br>
-<p>the United States does not recognize the Taliban government</p><br>
+the United States does not recognize the Taliban government<br>
 
 **Capital**<br>
 _name_: Kabul<br>
@@ -422,28 +422,29 @@ _selected World Heritage Site locales_: Minaret of Jam; Buddhas of Bamyan<br>
 <p>Prior to 2001, Afghanistan was an extremely poor, landlocked, and foreign aid-dependent country. Increased domestic economic activity occurred following the US-led invasion, as well as significant international economic development assistance. This increased activity expanded access to water, electricity, sanitation, education, and health services, and fostered consistent growth in government revenues since 2014. While international security forces have been drawing down since 2012, with much higher U.S. forces’ drawdowns occurring since 2017, economic progress continues, albeit uneven across sectors and key economic indicators. After recovering from the 2018 drought and growing 3.9% in 2019, political instability, expiring international financial commitments, and the COVID-19 pandemic have wrought significant adversity on the Afghan economy, with a projected 5% contraction.</p> <p>Current political parties’ power-sharing agreement following the September 2019 presidential elections as well as ongoing Taliban attacks and peace talks have led to Afghan economic instability. This instability, coupled with expiring international grant and assistance, endangers recent fiscal gains and has led to more internally displaced persons. In November 2020, Afghanistan secured $12 billion in additional international aid for 2021-2025, much of which is conditional upon Taliban peace progress. Additionally, Afghanistan continues to experience influxes of repatriating Afghanis, mostly from Iran, significantly straining economic and security institutions.</p> <p>Afghanistan’s trade deficit remains at approximately 31% of GDP and is highly dependent on financing through grants and aid. While Afghan agricultural growth remains consistent, recent industrial and services growth have been enormously impacted by COVID-19 lockdowns and trade cessations. While trade with the People’s Republic of China has rapidly expanded in recent years, Afghanistan still relies heavily upon India and Pakistan as export partners but is more diverse in its import partners. Furthermore, Afghanistan still struggles to effectively enforce business contracts, facilitate easy tax collection, and enable greater international trade for domestic enterprises.<br><br>Current Afghan priorities focus on the following goals:</p> <ul> <li>Securing international economic agreements, many of which are contingent on Taliban peace progress;</li> <li>Increasing exports to $2 billion USD by 2023;</li> <li>Continuing to expand government revenue collection;</li> <li>Countering corruption and navigating challenges from the power-sharing agreement; and</li> <li>Developing a strong private sector that can empower the economy.</li> </ul><br>
 
 **Real GDP (purchasing power parity)**<br>
-$77.04 billion (2020 est.)<br>
-$78.56 billion (2019 est.)<br>
-$75.6 billion (2018 est.)<br>
+$60.803 billion (2021 est.)<br>
+$76.711 billion (2020 est.)<br>
+$78.558 billion (2019 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
-2.7% (2017 est.)<br>
-2.2% (2016 est.)<br>
-1% (2015 est.)<br>
+-20.74% (2021 est.)<br>
+-2.35% (2020 est.)<br>
+3.91% (2019 est.)<br>
 
 **Real GDP per capita**<br>
+$1,500 (2021 est.)<br>
 $2,000 (2020 est.)<br>
 $2,100 (2019 est.)<br>
-$2,000 (2018 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
 $20.24 billion (2017 est.)<br>
 
 **Inflation rate (consumer prices)**<br>
-5% (2017 est.)<br>
-4.4% (2016 est.)<br>
+2.3% (2019 est.)<br>
+0.63% (2018 est.)<br>
+4.98% (2017 est.)<br>
 
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 23% (2016 est.)<br>
@@ -466,10 +467,10 @@ wheat, milk, grapes, vegetables, potatoes, watermelons, melons, rice, onions, ap
 small-scale production of bricks, textiles, soap, furniture, shoes, fertilizer, apparel, food products, non-alcoholic beverages, mineral water, cement; handwoven carpets; natural gas, coal, copper<br>
 
 **Industrial production growth rate**<br>
--1.9% (2016 est.)<br>
+-14.19% (2021 est.)<br>
 
 **Labor force**<br>
-8.478 million (2017 est.)<br>
+9.39 million (2021 est.)<br>
 
 **Labor force - by occupation**<br>
 _agriculture_: 44.3%<br>
@@ -477,13 +478,14 @@ _industry_: 18.1%<br>
 _services_: 37.6% (2017 est.)<br>
 
 **Unemployment rate**<br>
-23.9% (2017 est.)<br>
-22.6% (2016 est.)<br>
+13.28% (2021 est.)<br>
+11.71% (2020 est.)<br>
+11.22% (2019 est.)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 8.7%<br>
-_male_: 8.4%<br>
-_female_: 9.4% (2021 est.)<br>
+_total_: 20.2%<br>
+_male_: 18.6%<br>
+_female_: 26.4% (2021 est.)<br>
 
 **Population below poverty line**<br>
 54.5% (2016 est.)<br>
@@ -507,19 +509,20 @@ _expenditures_: 5.328 billion (2017 est.)<br>
 7.8% of GDP (2016 est.)<br>
 
 **Taxes and other revenues**<br>
-11.2% (of GDP) (2017 est.)<br>
+9.9% (of GDP) (2017 est.)<br>
 
 **Fiscal year**<br>
 21 March - 20 March<br>
 
 **Current account balance**<br>
-$1.014 billion (2017 est.)<br>
-$1.409 billion (2016 est.)<br>
+-$3.137 billion (2020 est.)<br>
+-$3.792 billion (2019 est.)<br>
+-$3.897 billion (2018 est.)<br>
 
 **Exports**<br>
-$1.48 billion (2020 est.)<br>
-$1.52 billion (2019 est.)<br>
-$1.61 billion (2018 est.)<br>
+$1.476 billion (2020 est.)<br>
+$1.516 billion (2019 est.)<br>
+$1.609 billion (2018 est.)<br>
 <strong>note:</strong> Data are in current year dollars and do not include illicit exports or re-exports.<br>
 
 **Exports - partners**<br>
@@ -529,9 +532,9 @@ United Arab Emirates 45%, Pakistan 24%, India 22%, China 1% (2019)<br>
 gold, grapes, opium, fruits and nuts, insect resins, cotton, handwoven carpets, soapstone, scrap metal (2019)<br>
 
 **Imports**<br>
-$6.98 billion (2020 est.) note: data are in current year dollars<br>
-$7.37 billion (2019 est.) note: data are in current year dollars<br>
-$7.98 billion (2018 est.) note: data are in current year dollars<br>
+$6.983 billion (2020 est.) note: data are in current year dollars<br>
+$7.371 billion (2019 est.) note: data are in current year dollars<br>
+$7.988 billion (2018 est.) note: data are in current year dollars<br>
 
 **Imports - partners**<br>
 United Arab Emirates 23%, Pakistan 17%, India 13%, China 9%, United States 9%, Uzbekistan 7%, Kazakhstan 6% (2019)<br>
@@ -540,19 +543,20 @@ United Arab Emirates 23%, Pakistan 17%, India 13%, China 9%, United States 9%, U
 wheat flours, broadcasting equipment, refined petroleum, rolled tobacco, aircraft parts, synthetic fabrics (2019)<br>
 
 **Reserves of foreign exchange and gold**<br>
-$7.187 billion (31 December 2017 est.)<br>
-$6.901 billion (31 December 2015 est.)<br>
+$9.749 billion (31 December 2020 est.)<br>
+$8.498 billion (31 December 2019 est.)<br>
+$8.207 billion (31 December 2018 est.)<br>
 
 **Debt - external**<br>
 $284 million (FY10/11)<br>
 
 **Exchange rates**<br>
 _Currency_: afghanis (AFA) per US dollar -<br>
-7.87 (2017 est.)<br>
-68.03 (2016 est.)<br>
-67.87 (2015)<br>
-61.14 (2014 est.)<br>
-57.25 (2013 est.)<br>
+76.814 (2020 est.)<br>
+77.738 (2019 est.)<br>
+72.083 (2018 est.)<br>
+68.027 (2017 est.)<br>
+67.866 (2016 est.)<br>
 
 ## Energy
 

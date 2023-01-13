@@ -150,7 +150,7 @@ _female_: 83.97 years (2022 est.)<br>
 2.29 children born/woman (2022 est.)<br>
 
 **Gross reproduction rate**<br>
-1.1 (2022 est.)<br>
+1.1 (2023 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 NA<br>
@@ -183,11 +183,11 @@ _unimproved: total_: total: NA<br>
 **HIV/AIDS - adult prevalence rate**<br>
 NA<br>
 
-**Currently married women (ages 15-49)**<br>
-35.5% (2022 est.)<br>
-
 **Children under the age of 5 years underweight**<br>
 NA<br>
+
+**Currently married women (ages 15-49)**<br>
+34.8% (2023 est.)<br>
 
 **Education expenditures**<br>
 7.6% of GDP (2019 est.)<br>
@@ -376,7 +376,6 @@ _services_: 70% (December 2016 est.)<br>
 
 **Gini Index coefficient - distribution of family income**<br>
 22.7 (2013 est.)<br>
-21.6 (2011 est.)<br>
 
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: NA<br>
@@ -425,11 +424,11 @@ $274.5 million (2010)<br>
 
 **Exchange rates**<br>
 _Currency_: Danish kroner (DKK) per US dollar -<br>
-6.586 (2017 est.)<br>
-6.7269 (2016 est.)<br>
-6.7269 (2015 est.)<br>
-6.7236 (2014 est.)<br>
-5.6125 (2013 est.)<br>
+6.287 (2021 est.)<br>
+6.542 (2020 est.)<br>
+6.669 (2019 est.)<br>
+6.315 (2018 est.)<br>
+6.603 (2017 est.)<br>
 
 ## Energy
 

@@ -172,7 +172,7 @@ _female_: 65.09 years (2022 est.)<br>
 4.55 children born/woman (2022 est.)<br>
 
 **Gross reproduction rate**<br>
-2.24 (2022 est.)<br>
+2.22 (2023 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 19.3% (2018)<br>
@@ -229,11 +229,11 @@ _total_: 7.3% (2020 est.)<br>
 _male_: 13.2% (2020 est.)<br>
 _female_: 1.4% (2020 est.)<br>
 
-**Currently married women (ages 15-49)**<br>
-55% (2022 est.)<br>
-
 **Children under the age of 5 years underweight**<br>
 11% (2018/19)<br>
+
+**Currently married women (ages 15-49)**<br>
+54.2% (2023 est.)<br>
 
 **Child marriage**<br>
 _women married by age 15_: 10.7%<br>
@@ -255,9 +255,9 @@ _male_: 13 years<br>
 _female_: 11 years (2016)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 6.3%<br>
-_male_: 5.8%<br>
-_female_: 6.8% (2014 est.)<br>
+_total_: 6.6%<br>
+_male_: 6%<br>
+_female_: 7.3% (2021 est.)<br>
 
 ## Environment
 
@@ -436,29 +436,29 @@ _selected World Heritage Site locales_: Dja Faunal Reserve; Sangha Trinational F
 <p>Cameroon’s market-based, diversified economy features oil and gas, timber, aluminum, agriculture, mining and the service sector. Oil remains Cameroon’s main export commodity, and despite falling global oil prices, still accounts for nearly 40% of exports. Cameroon’s economy suffers from factors that often impact underdeveloped countries, such as stagnant per capita income, a relatively inequitable distribution of income, a top-heavy civil service, endemic corruption, continuing inefficiencies of a large parastatal system in key sectors, and a generally unfavorable climate for business enterprise.</p> <p> </p> <p>Since 1990, the government has embarked on various IMF and World Bank programs designed to spur business investment, increase efficiency in agriculture, improve trade, and recapitalize the nation's banks. The IMF continues to press for economic reforms, including increased budget transparency, privatization, and poverty reduction programs. The Government of Cameroon provides subsidies for electricity, food, and fuel that have strained the federal budget and diverted funds from education, healthcare, and infrastructure projects, as low oil prices have led to lower revenues.</p> <p> </p> <p>Cameroon devotes significant resources to several large infrastructure projects currently under construction, including a deep seaport in Kribi and the Lom Pangar Hydropower Project. Cameroon’s energy sector continues to diversify, recently opening a natural gas-powered electricity generating plant. Cameroon continues to seek foreign investment to improve its inadequate infrastructure, create jobs, and improve its economic footprint, but its unfavorable business environment remains a significant deterrent to foreign investment.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
-$94.94 billion (2020 est.)<br>
-$94.25 billion (2019 est.)<br>
-$90.87 billion (2018 est.)<br>
+$100.648 billion (2021 est.)<br>
+$97.103 billion (2020 est.)<br>
+$96.852 billion (2019 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
-3.5% (2017 est.)<br>
-4.6% (2016 est.)<br>
-5.7% (2015 est.)<br>
+3.65% (2021 est.)<br>
+0.26% (2020 est.)<br>
+3.48% (2019 est.)<br>
 
 **Real GDP per capita**<br>
-$3,600 (2020 est.)<br>
-$3,600 (2019 est.)<br>
-$3,600 (2018 est.)<br>
+$3,700 (2021 est.)<br>
+$3,700 (2020 est.)<br>
+$3,800 (2019 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
 $34.99 billion (2017 est.)<br>
 
 **Inflation rate (consumer prices)**<br>
-2.4% (2019 est.)<br>
-1% (2018 est.)<br>
-0.6% (2017 est.)<br>
+2.27% (2021 est.)<br>
+2.44% (2020 est.)<br>
+2.45% (2019 est.)<br>
 
 **Credit ratings**<br>
 _Fitch rating_: B (2006)<br>
@@ -486,10 +486,10 @@ cassava, plantains, maize, oil palm fruit, taro, sugar cane, sorghum, tomatoes, 
 petroleum production and refining, aluminum production, food processing, light consumer goods, textiles, lumber, ship repair<br>
 
 **Industrial production growth rate**<br>
-3.3% (2017 est.)<br>
+3.22% (2021 est.)<br>
 
 **Labor force**<br>
-9.912 million (2017 est.)<br>
+11.81 million (2021 est.)<br>
 
 **Labor force - by occupation**<br>
 _agriculture_: 70%<br>
@@ -497,13 +497,14 @@ _industry_: 13%<br>
 _services_: 17% (2001 est.)<br>
 
 **Unemployment rate**<br>
-4.3% (2014 est.)<br>
-30% (2001 est.)<br>
+3.87% (2021 est.)<br>
+3.84% (2020 est.)<br>
+3.64% (2019 est.)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 6.3%<br>
-_male_: 5.8%<br>
-_female_: 6.8% (2014 est.)<br>
+_total_: 6.6%<br>
+_male_: 6%<br>
+_female_: 7.3% (2021 est.)<br>
 
 **Population below poverty line**<br>
 37.5% (2014 est.)<br>
@@ -527,18 +528,20 @@ _expenditures_: 6.556 billion (2017 est.)<br>
 32.5% of GDP (2016 est.)<br>
 
 **Taxes and other revenues**<br>
-15.3% (of GDP) (2017 est.)<br>
+10.87% (of GDP) (2020 est.)<br>
 
 **Fiscal year**<br>
 1 July - 30 June<br>
 
 **Current account balance**<br>
--$932 million (2017 est.)<br>
--$1.034 billion (2016 est.)<br>
+-$1.795 billion (2021 est.)<br>
+-$1.512 billion (2020 est.)<br>
+-$1.695 billion (2019 est.)<br>
 
 **Exports**<br>
-$7.73 billion (2019 est.)<br>
-$7.3 billion (2018 est.)<br>
+$7.449 billion (2021 est.)<br>
+$6.124 billion (2020 est.)<br>
+$7.731 billion (2019 est.)<br>
 <strong>note:</strong> Data are in current year dollars and do not include illicit exports or re-exports.<br>
 
 **Exports - partners**<br>
@@ -548,8 +551,9 @@ China 17%, Netherlands 14%, Italy 9%, United Arab Emirates 8%, India 7%, United 
 crude petroleum, cocoa beans, lumber, gold, natural gas, bananas (2019)<br>
 
 **Imports**<br>
-$9.09 billion (2019 est.) note: data are in current year dollars<br>
-$8.42 billion (2018 est.) note: data are in current year dollars<br>
+$9.027 billion (2021 est.) note: data are in current year dollars<br>
+$7.212 billion (2020 est.) note: data are in current year dollars<br>
+$9.085 billion (2019 est.)<br>
 
 **Imports - partners**<br>
 China 28%, Nigeria 15%, France 9%, Belgium 6% (2019)<br>
@@ -558,7 +562,8 @@ China 28%, Nigeria 15%, France 9%, Belgium 6% (2019)<br>
 crude petroleum, scrap vessels, rice, special purpose ships, packaged medicines (2019)<br>
 
 **Reserves of foreign exchange and gold**<br>
-$3.235 billion (31 December 2017 est.)<br>
+$3.459 billion (31 December 2018 est.)<br>
+$3.197 billion (31 December 2017 est.)<br>
 $2.26 billion (31 December 2016 est.)<br>
 
 **Debt - external**<br>
@@ -567,11 +572,11 @@ $7.364 billion (31 December 2016 est.)<br>
 
 **Exchange rates**<br>
 _Currency_: Cooperation Financiere en Afrique Centrale francs (XAF) per US dollar -<br>
-605.3 (2017 est.)<br>
-593.01 (2016 est.)<br>
-593.01 (2015 est.)<br>
-591.45 (2014 est.)<br>
-494.42 (2013 est.)<br>
+554.531 (2021 est.)<br>
+575.586 (2020 est.)<br>
+585.911 (2019 est.)<br>
+555.446 (2018 est.)<br>
+580.657 (2017 est.)<br>
 
 ## Energy
 

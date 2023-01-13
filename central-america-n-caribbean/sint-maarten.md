@@ -138,7 +138,7 @@ _female_: 81.73 years (2022 est.)<br>
 1.99 children born/woman (2022 est.)<br>
 
 **Gross reproduction rate**<br>
-0.97 (2022 est.)<br>
+0.97 (2023 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 NA<br>
@@ -289,8 +289,8 @@ $1.436 billion (2018 est.)<br>
 $1.538 billion (2017 est.)<br>
 
 **Real GDP growth rate**<br>
-3.6% (2014 est.)<br>
-4.1% (2013 est.)<br>
+-6.6% (2018 est.)<br>
+-5.8% (2017 est.)<br>
 1.9% (2012 est.)<br>
 
 **Real GDP per capita**<br>
@@ -301,7 +301,7 @@ $37,914 (2017 est.)<br>
 $304.1 million (2014 est.)<br>
 
 **Inflation rate (consumer prices)**<br>
-4% (2012 est.)<br>
+2.19% (2017 est.)<br>
 0.7% (2009 est.)<br>
 
 **GDP - composition, by sector of origin**<br>
@@ -327,24 +327,31 @@ _services_: 83.7% (2008 est.)<br>
 12% (2012 est.)<br>
 10.6% (2008 est.)<br>
 
+**Current account balance**<br>
+-$294.32 million (2021 est.)<br>
+-$290.458 million (2020 est.)<br>
+-$165.039 million (2019 est.)<br>
+
 **Exports**<br>
-$1.09 billion (2019 est.) note: data are in current year dollars<br>
-$800 million (2018 est.) note: data are in current year dollars<br>
+$787.981 million (2021 est.) note: data are in current year dollars<br>
+$527.044 million (2020 est.) note: data are in current year dollars<br>
+$1.091 billion (2019 est.)<br>
 
 **Exports - commodities**<br>
 sugar<br>
 
 **Imports**<br>
-$1.23 billion (2019 est.) note: data are in current year dollars<br>
-$1.22 billion (2018 est.) note: data are in current year dollars<br>
+$992.658 million (2021 est.) note: data are in current year dollars<br>
+$760.824 million (2020 est.) note: data are in current year dollars<br>
+$1.237 billion (2019 est.)<br>
 
 **Exchange rates**<br>
 _Currency_: Netherlands Antillean guilders (ANG) per US dollar -<br>
+1.79 (2021 est.)<br>
+1.79 (2020 est.)<br>
+1.79 (2019 est.)<br>
+1.79 (2018 est.)<br>
 1.79 (2017 est.)<br>
-1.79 (2016 est.)<br>
-1.79 (2015 est.)<br>
-1.79 (2014 est.)<br>
-1.79 (2013 est.)<br>
 
 ## Energy
 

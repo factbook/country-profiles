@@ -176,7 +176,7 @@ _female_: 78.3 years (2022 est.)<br>
 1.6 children born/woman (2022 est.)<br>
 
 **Gross reproduction rate**<br>
-0.78 (2022 est.)<br>
+0.78 (2023 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 68% (2011)<br>
@@ -231,11 +231,11 @@ _total_: 26.8% (2020 est.)<br>
 _male_: 40.8% (2020 est.)<br>
 _female_: 12.8% (2020 est.)<br>
 
-**Currently married women (ages 15-49)**<br>
-53.6% (2022 est.)<br>
-
 **Children under the age of 5 years underweight**<br>
 NA<br>
+
+**Currently married women (ages 15-49)**<br>
+53.1% (2023 est.)<br>
 
 **Education expenditures**<br>
 3.7% of GDP (2020 est.)<br>
@@ -252,9 +252,9 @@ _male_: 16 years<br>
 _female_: 16 years (2019)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 17%<br>
-_male_: 16%<br>
-_female_: 18.2% (2020 est.)<br>
+_total_: 16.9%<br>
+_male_: 15.7%<br>
+_female_: 18.4% (2021 est.)<br>
 
 ## Environment
 
@@ -438,29 +438,29 @@ _selected World Heritage Site locales_: Kremlin and Red Square, Moscow (c); Hist
 <p>Russia has undergone significant changes since the collapse of the Soviet Union, moving from a centrally planned economy towards a more market-based system. Both economic growth and reform have stalled in recent years, however, and Russia remains a predominantly statist economy with a high concentration of wealth in officials' hands. Economic reforms in the 1990s privatized most industry, with notable exceptions in the energy, transportation, banking, and defense-related sectors. The protection of property rights is still weak, and the state continues to interfere in the free operation of the private sector.</p> <p> </p> <p>Russia is one of the world's leading producers of oil and natural gas, and is also a top exporter of metals such as steel and primary aluminum. Russia is heavily dependent on the movement of world commodity prices as reliance on commodity exports makes it vulnerable to boom and bust cycles that follow the volatile swings in global prices. The economy, which had averaged 7% growth during the 1998-2008 period as oil prices rose rapidly, has seen diminishing growth rates since then due to the exhaustion of Russia’s commodity-based growth model.</p> <p> </p> <p>A combination of falling oil prices, international sanctions, and structural limitations pushed Russia into a deep recession in 2015, with GDP falling by close to 2.8%. The downturn continued through 2016, with GDP contracting another 0.2%, but was reversed in 2017 as world demand picked up. Government support for import substitution has increased recently in an effort to diversify the economy away from extractive industries.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
-$3,875,690,000,000 (2020 est.)<br>
-$3,993,550,000,000 (2019 est.)<br>
-$3,913,980,000,000 (2018 est.)<br>
+$4.078 trillion (2021 est.)<br>
+$3.893 trillion (2020 est.)<br>
+$4 trillion (2019 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
-1.34% (2019 est.)<br>
-2.54% (2018 est.)<br>
-1.83% (2017 est.)<br>
+4.75% (2021 est.)<br>
+-2.66% (2020 est.)<br>
+2.2% (2019 est.)<br>
 
 **Real GDP per capita**<br>
-$26,500 (2020 est.)<br>
-$27,200 (2019 est.)<br>
-$26,700 (2018 est.)<br>
+$28,000 (2021 est.)<br>
+$26,600 (2020 est.)<br>
+$27,300 (2019 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
 $1,702,361,000,000 (2019 est.)<br>
 
 **Inflation rate (consumer prices)**<br>
-4.4% (2019 est.)<br>
-2.8% (2018 est.)<br>
-3.7% (2017 est.)<br>
+6.69% (2021 est.)<br>
+3.38% (2020 est.)<br>
+4.47% (2019 est.)<br>
 
 **Credit ratings**<br>
 _Fitch rating_: BBB (2019)<br>
@@ -488,10 +488,10 @@ wheat, sugar beets, milk, potatoes, barley, sunflower seed, maize, poultry, oats
 complete range of mining and extractive industries producing coal, oil, gas, chemicals, and metals; all forms of machine building from rolling mills to high-performance aircraft and space vehicles; defense industries (including radar, missile production, advanced electronic components), shipbuilding; road and rail transportation equipment; communications equipment; agricultural machinery, tractors, and construction equipment; electric power generating and transmitting equipment; medical and scientific instruments; consumer durables, textiles, foodstuffs, handicrafts<br>
 
 **Industrial production growth rate**<br>
--1% (2017 est.)<br>
+4.9% (2021 est.)<br>
 
 **Labor force**<br>
-69.923 million (2020 est.)<br>
+72.444 million (2021 est.)<br>
 
 **Labor force - by occupation**<br>
 _agriculture_: 9.4%<br>
@@ -499,20 +499,20 @@ _industry_: 27.6%<br>
 _services_: 63% (2016 est.)<br>
 
 **Unemployment rate**<br>
-4.6% (2019 est.)<br>
-4.8% (2018 est.)<br>
+5.01% (2021 est.)<br>
+5.59% (2020 est.)<br>
+4.5% (2019 est.)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 17%<br>
-_male_: 16%<br>
-_female_: 18.2% (2020 est.)<br>
+_total_: 16.9%<br>
+_male_: 15.7%<br>
+_female_: 18.4% (2021 est.)<br>
 
 **Population below poverty line**<br>
 12.6% (2018 est.)<br>
 
 **Gini Index coefficient - distribution of family income**<br>
 37.5 (2018 est.)<br>
-41.9 (2013)<br>
 
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 2.3%<br>
@@ -526,24 +526,26 @@ _expenditures_: 281.4 billion (2017 est.)<br>
 -1.4% (of GDP) (2017 est.)<br>
 
 **Public debt**<br>
-15.5% of GDP (2017 est.)<br>
-16.1% of GDP (2016 est.)<br>
+23.05% of GDP (2020 est.)<br>
+17.28% of GDP (2019 est.)<br>
+16.17% of GDP (2018 est.)<br>
 <strong>note:</strong> data cover general government debt and include debt instruments issued (or owned) by government entities other than the treasury; the data include treasury debt held by foreign entities; the data include debt issued by subnational entities, as well as intragovernmental debt; intragovernmental debt consists of treasury borrowings from surpluses in the social funds, such as for retirement, medical care, and unemployment, debt instruments for the social funds are not sold at public auctions<br>
 
 **Taxes and other revenues**<br>
-16.4% (of GDP) (2017 est.)<br>
+10.83% (of GDP) (2020 est.)<br>
 
 **Fiscal year**<br>
 calendar year<br>
 
 **Current account balance**<br>
-$65.311 billion (2019 est.)<br>
-$115.68 billion (2018 est.)<br>
+$122.27 billion (2021 est.)<br>
+$35.373 billion (2020 est.)<br>
+$65.627 billion (2019 est.)<br>
 
 **Exports**<br>
-$379.12 billion (2020 est.) note: data are in current year dollars<br>
-$481.76 billion (2019 est.) note: data are in current year dollars<br>
-$508.56 billion (2018 est.) note: data are in current year dollars<br>
+$550.035 billion (2021 est.) note: data are in current year dollars<br>
+$381.49 billion (2020 est.) note: data are in current year dollars<br>
+$481.686 billion (2019 est.) note: data are in current year dollars<br>
 
 **Exports - partners**<br>
 China 14%, Netherlands 10%, Belarus 5%, Germany 5% (2019)<br>
@@ -552,9 +554,9 @@ China 14%, Netherlands 10%, Belarus 5%, Germany 5% (2019)<br>
 crude petroleum, refined petroleum, natural gas, coal, wheat, iron (2019)<br>
 
 **Imports**<br>
-$304.68 billion (2020 est.) note: data are in current year dollars<br>
-$353.25 billion (2019 est.) note: data are in current year dollars<br>
-$343.58 billion (2018 est.) note: data are in current year dollars<br>
+$379.947 billion (2021 est.) note: data are in current year dollars<br>
+$304.837 billion (2020 est.) note: data are in current year dollars<br>
+$352.358 billion (2019 est.) note: data are in current year dollars<br>
 
 **Imports - partners**<br>
 China 20%, Germany 13%, Belarus 6% (2019)<br>
@@ -563,8 +565,9 @@ China 20%, Germany 13%, Belarus 6% (2019)<br>
 cars and vehicle parts, packaged medicines, broadcasting equipment, aircraft, computers (2019)<br>
 
 **Reserves of foreign exchange and gold**<br>
-$432.7 billion (31 December 2017 est.)<br>
-$377.7 billion (31 December 2016 est.)<br>
+$632.242 billion (31 December 2021 est.)<br>
+$596.77 billion (31 December 2020 est.)<br>
+$555.179 billion (31 December 2019 est.)<br>
 
 **Debt - external**<br>
 $479.844 billion (2019 est.)<br>
@@ -572,11 +575,11 @@ $484.355 billion (2018 est.)<br>
 
 **Exchange rates**<br>
 _Currency_: Russian rubles (RUB) per US dollar -<br>
-73.7569 (2020 est.)<br>
-63.66754 (2019 est.)<br>
-66.2 (2018 est.)<br>
-60.938 (2014 est.)<br>
-38.378 (2013 est.)<br>
+73.654 (2021 est.)<br>
+72.105 (2020 est.)<br>
+64.738 (2019 est.)<br>
+62.668 (2018 est.)<br>
+58.343 (2017 est.)<br>
 
 ## Energy
 

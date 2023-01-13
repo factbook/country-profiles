@@ -140,7 +140,7 @@ _female_: 86.07 years (2022 est.)<br>
 1.58 children born/woman (2022 est.)<br>
 
 **Gross reproduction rate**<br>
-0.77 (2022 est.)<br>
+0.77 (2023 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 NA<br>
@@ -175,6 +175,11 @@ NA<br>
 _total population_: NA<br>
 _male_: NA<br>
 _female_: NA<br>
+
+**Youth unemployment rate (ages 15-24)**<br>
+_total_: 15.8%<br>
+_male_: 15.9%<br>
+_female_: 15.6% (2021 est.)<br>
 
 ## Environment
 
@@ -319,10 +324,17 @@ tourism, banking<br>
 NA<br>
 
 **Labor force**<br>
-31,470 (March 2006)<br>
+86,800 (2021 est.)<br>
 
 **Unemployment rate**<br>
-1.2% (2016 est.)<br>
+7.37% (2021 est.)<br>
+7.69% (2020 est.)<br>
+6.41% (2019 est.)<br>
+
+**Youth unemployment rate (ages 15-24)**<br>
+_total_: 15.8%<br>
+_male_: 15.9%<br>
+_female_: 15.6% (2021 est.)<br>
 
 **Population below poverty line**<br>
 NA<br>

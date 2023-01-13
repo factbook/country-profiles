@@ -167,7 +167,7 @@ _female_: 78.5 years (2022 est.)<br>
 1.73 children born/woman (2022 est.)<br>
 
 **Gross reproduction rate**<br>
-0.84 (2022 est.)<br>
+0.84 (2023 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 NA<br>
@@ -215,11 +215,11 @@ _total_: 17.6% (2020 est.)<br>
 _male_: 34% (2020 est.)<br>
 _female_: 1.1% (2020 est.)<br>
 
-**Currently married women (ages 15-49)**<br>
-68.9% (2022 est.)<br>
-
 **Children under the age of 5 years underweight**<br>
 2.9% (2017)<br>
+
+**Currently married women (ages 15-49)**<br>
+68.6% (2023 est.)<br>
 
 **Education expenditures**<br>
 4.9% of GDP (2020 est.)<br>
@@ -236,9 +236,9 @@ _male_: 12 years<br>
 _female_: 12 years (2021)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 13.2%<br>
-_male_: 21.5%<br>
-_female_: 8.3% (2020)<br>
+_total_: 16%<br>
+_male_: 15.8%<br>
+_female_: 16.2% (2021 est.)<br>
 
 ## Environment
 
@@ -404,28 +404,29 @@ _selected World Heritage Site locales_: Itchan Kala (c); Historic Bukhara (c); H
 <p>Uzbekistan is a doubly landlocked country in which 51% of the population lives in urban settlements; the agriculture-rich Fergana Valley, in which Uzbekistan’s eastern borders are situated, has been counted among the most densely populated parts of Central Asia. Since its independence in September 1991, the government has largely maintained its Soviet-style command economy with subsidies and tight controls on production, prices, and access to foreign currency. Despite ongoing efforts to diversify crops, Uzbek agriculture remains largely centered on cotton; Uzbekistan is the world's fifth-largest cotton exporter and seventh-largest producer. Uzbekistan's growth has been driven primarily by state-led investments, and export of natural gas, gold, and cotton provides a significant share of foreign exchange earnings.</p> <p> </p> <p>Recently, lower global commodity prices and economic slowdowns in neighboring Russia and China have hurt Uzbekistan's trade and investment and worsened its foreign currency shortage. Aware of the need to improve the investment climate, the government is taking incremental steps to reform the business sector and address impediments to foreign investment in the country. Since the death of first President Islam KARIMOV and election of President Shavkat MIRZIYOYEV, emphasis on such initiatives and government efforts to improve the private sector have increased. In the past, Uzbek authorities accused US and other foreign companies operating in Uzbekistan of violating Uzbek laws and have frozen and seized their assets.</p> <p> </p> <p>As a part of its economic reform efforts, the Uzbek Government is looking to expand opportunities for small and medium enterprises and prioritizes increasing foreign direct investment. In September 2017, the government devalued the official currency rate by almost 50% and announced the loosening of currency restrictions to eliminate the currency black market, increase access to hard currency, and boost investment.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
-$239.42 billion (2020 est.)<br>
-$235.54 billion (2019 est.)<br>
-$222.63 billion (2018 est.)<br>
+$270.062 billion (2021 est.)<br>
+$251.408 billion (2020 est.)<br>
+$246.753 billion (2019 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
-5.3% (2017 est.)<br>
-7.8% (2016 est.)<br>
-7.9% (2015 est.)<br>
+7.42% (2021 est.)<br>
+1.89% (2020 est.)<br>
+5.71% (2019 est.)<br>
 
 **Real GDP per capita**<br>
-$7,000 (2020 est.)<br>
-$7,000 (2019 est.)<br>
-$6,800 (2018 est.)<br>
+$7,700 (2021 est.)<br>
+$7,300 (2020 est.)<br>
+$7,300 (2019 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
 $57.789 billion (2019 est.)<br>
 
 **Inflation rate (consumer prices)**<br>
-12.5% (2017 est.)<br>
-8% (2016 est.)<br>
+10.85% (2021 est.)<br>
+12.87% (2020 est.)<br>
+14.53% (2019 est.)<br>
 <strong>note:</strong> official data; based on independent analysis of consumer prices, inflation reached 22% in 2012<br>
 
 **Credit ratings**<br>
@@ -454,10 +455,10 @@ milk, wheat, potatoes, carrots/turnips, cotton, tomatoes, vegetables, grapes, on
 textiles, food processing, machine building, metallurgy, mining, hydrocarbon extraction, chemicals<br>
 
 **Industrial production growth rate**<br>
-4.5% (2017 est.)<br>
+8.37% (2021 est.)<br>
 
 **Labor force**<br>
-13.273 million (2018 est.)<br>
+14.094 million (2021 est.)<br>
 
 **Labor force - by occupation**<br>
 _agriculture_: 25.9%<br>
@@ -465,21 +466,21 @@ _industry_: 13.2%<br>
 _services_: 60.9% (2012 est.)<br>
 
 **Unemployment rate**<br>
-5% (2017 est.)<br>
-5.1% (2016 est.)<br>
+7.16% (2021 est.)<br>
+7.04% (2020 est.)<br>
+5.85% (2019 est.)<br>
 <strong>note:</strong> official data; another 20% are underemployed<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 13.2%<br>
-_male_: 21.5%<br>
-_female_: 8.3% (2020)<br>
+_total_: 16%<br>
+_male_: 15.8%<br>
+_female_: 16.2% (2021 est.)<br>
 
 **Population below poverty line**<br>
 14.1% (2013 est.)<br>
 
 **Gini Index coefficient - distribution of family income**<br>
 36.8 (2003)<br>
-44.7 (1998)<br>
 
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 2.8%<br>
@@ -497,19 +498,20 @@ _expenditures_: 15.08 billion (2017 est.)<br>
 10.5% of GDP (2016 est.)<br>
 
 **Taxes and other revenues**<br>
-31.2% (of GDP) (2017 est.)<br>
+14.87% (of GDP) (2020 est.)<br>
 
 **Fiscal year**<br>
 calendar year<br>
 
 **Current account balance**<br>
-$1.713 billion (2017 est.)<br>
-$384 million (2016 est.)<br>
+-$4.825 billion (2021 est.)<br>
+-$3.007 billion (2020 est.)<br>
+-$3.366 billion (2019 est.)<br>
 
 **Exports**<br>
-$14.52 billion (2020 est.) note: data are in current year dollars<br>
-$16.99 billion (2019 est.) note: data are in current year dollars<br>
-$14.14 billion (2018 est.) note: data are in current year dollars<br>
+$16.399 billion (2021 est.) note: data are in current year dollars<br>
+$14.532 billion (2020 est.) note: data are in current year dollars<br>
+$16.993 billion (2019 est.) note: data are in current year dollars<br>
 
 **Exports - partners**<br>
 Switzerland 19%, United Kingdom 17%, Russia 15%, China 14%, Kazakhstan 9%, Turkey 8%, Kyrgyzstan 5% (2019)<br>
@@ -518,9 +520,9 @@ Switzerland 19%, United Kingdom 17%, Russia 15%, China 14%, Kazakhstan 9%, Turke
 gold, natural gas, cotton fibers, copper, ethylene polymers (2019)<br>
 
 **Imports**<br>
+$27.774 billion (2021 est.) note: data are in current year dollars<br>
 $22.56 billion (2020 est.) note: data are in current year dollars<br>
-$26.55 billion (2019 est.) note: data are in current year dollars<br>
-$23.44 billion (2018 est.) note: data are in current year dollars<br>
+$26.551 billion (2019 est.) note: data are in current year dollars<br>
 
 **Imports - partners**<br>
 China 23%, Russia 18%, South Korea 11%, Kazakhstan 9%, Turkey 6%, Germany 5% (2019)<br>
@@ -529,8 +531,9 @@ China 23%, Russia 18%, South Korea 11%, Kazakhstan 9%, Turkey 6%, Germany 5% (20
 cars and vehicle parts, packaged medicines, refined petroleum, aircraft, construction vehicles (2019)<br>
 
 **Reserves of foreign exchange and gold**<br>
-$16 billion (31 December 2017 est.)<br>
-$14 billion (31 December 2016 est.)<br>
+$35.375 billion (31 December 2021 est.)<br>
+$34.903 billion (31 December 2020 est.)<br>
+$29.291 billion (31 December 2019 est.)<br>
 
 **Debt - external**<br>
 $16.9 billion (31 December 2017 est.)<br>
@@ -538,11 +541,11 @@ $16.76 billion (31 December 2016 est.)<br>
 
 **Exchange rates**<br>
 _Currency_: Uzbekistani soum (UZS) per US dollar -<br>
-3,906.1 (2017 est.)<br>
-2,966.6 (2016 est.)<br>
-2,966.6 (2015 est.)<br>
-2,569.6 (2014 est.)<br>
-2,311.4 (2013 est.)<br>
+10,609.464 (2021 est.)<br>
+10,054.261 (2020 est.)<br>
+8,836.788 (2019 est.)<br>
+8,069.606 (2018 est.)<br>
+5,113.879 (2017 est.)<br>
 
 ## Energy
 
@@ -608,16 +611,16 @@ _Total energy consumption per capita 2019_: 57.709 million Btu/person (2019 est.
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 3,550,069 (2020 est.)<br>
-_subscriptions per 100 inhabitants_: 11 (2020 est.)<br>
+_total subscriptions_: 3,470,097 (2021 est.)<br>
+_subscriptions per 100 inhabitants_: 10 (2021 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 33.387 million (2022)<br>
-_subscriptions per 100 inhabitants_: 100 (2022)<br>
+_total subscriptions_: 35,069,999 (2021)<br>
+_subscriptions per 100 inhabitants_: 103 (2021)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: Uzbekistan&rsquo;s telecom markets both wireline and wireless have been playing "catch up" in terms of their development following the country's independence from the former Soviet Union; the government has formally adopted the principles of operating as a market economy, many elements of the old centrally planned economic model remain; this has had the effect of reducing the level of interest from foreign companies and investors in building out the necessary underlying infrastructure, which in turn has constrained the rate of growth in the country&rsquo;s telecoms sector; the last five years has seen an upswing in prospects for the sector as fiber network roll outs continue beyond the main urban centers, while the mobile market experiences some consolidation for stronger, more efficient competitors; growth is present in the fixed broadband segment with penetration projected to reach 24% by 2027 (a 5-year CAGR of 6.2%); despite the promising signs in the fixed markets, it is the mobile segment that continues to dominate Uzbekistan&rsquo;s telecoms sector in terms of penetration, revenue, and growth;&nbsp; there are four major operators providing a modicum of competition; three of the four are government owned entities; the mobile market is expected to reach 100% penetration in 2023 a 50% increase in the last five years (2022)<br>
-_domestic_: fixed-line nearly 11 per 100 persons and mobile-cellular teledensity nearly 100 per 100 persons; the state-owned telecommunications company, Uzbek Telecom, owner of the fixed-line telecommunications system, has used loans from the Japanese government and the China Development Bank to upgrade fixed-line services including conversion to digital exchanges; mobile-cellular services are provided by 2 private and 3 state-owned operators with a total subscriber base of 22.8 million as of January 2018 (2020)<br>
+_domestic_: fixed-line nearly 10 per 100 persons and mobile-cellular teledensity nearly 103 per 100 persons; the state-owned telecommunications company, Uzbek Telecom, owner of the fixed-line telecommunications system, has used loans from the Japanese government and the China Development Bank to upgrade fixed-line services including conversion to digital exchanges; mobile-cellular services are provided by 2 private and 3 state-owned operators with a total subscriber base of 22.8 million as of January 2018 (2021)<br>
 _international_: country code - 998; linked by fiber-optic cable or microwave radio relay with CIS member states and to other countries by leased connection via the Moscow international gateway switch; the country also has a link to the Trans-Asia-Europe (TAE) fiber-optic cable; Uzbekistan has supported the national fiber-optic backbone project of Afghanistan since 2008<br>
 <strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress toward 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>
 
@@ -717,6 +720,7 @@ Islamic Jihad Union; Islamic Movement of Uzbekistan; Islamic State of Iraq and a
 <p><em>Uzbekistan-Afghanistan</em>: none identified</p> <p><em>Uzbekistan-Kazakhstan</em>: field demarcation of the boundaries with Kazakhstan commenced in 2004; disputed territory is held by Uzbekistan but the overwhelming majority of residents are ethnic Kazakhs; the two countries agreed on draft final demarcation documents in March 2022 and plan to hold another meeting in April 2022</p> <p><em>Uzbekistan-Kyrgyzstan</em>: border delimitation of 130 km of border with Kyrgyzstan is hampered by serious disputes around enclaves and other areas; in 2021, border talks between Uzbek and Kyrgyz officials raised the possibility of a land swap arrangement, but a deal was not finalized</p> <p><em>Uzbekistan-Tajikistan</em>: none identified</p> <p><em>Uzbekistan-Turkmenistan</em>: prolonged drought and cotton monoculture in Uzbekistan and Turkmenistan created water-sharing difficulties for Amu Darya river states; in 2021, the two countries reached an agreement to create a joint intergovernmental commission to oversee water management</p><br>
 
 **Refugees and internally displaced persons**<br>
+_refugees (country of origin)_: 13,031 (Afghanistan) (mid-year 2022)<br>
 _stateless persons_: 59,136 (mid-year 2021)<br>
 
 **Illicit drugs**<br>

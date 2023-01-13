@@ -176,7 +176,7 @@ _female_: 72.67 years (2022 est.)<br>
 2.2 children born/woman (2022 est.)<br>
 
 **Gross reproduction rate**<br>
-1.08 (2022 est.)<br>
+1.06 (2023 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 77.4% (2020)<br>
@@ -230,11 +230,11 @@ _total_: 8.1% (2020 est.)<br>
 _male_: 13.2% (2020 est.)<br>
 _female_: 3% (2020 est.)<br>
 
-**Currently married women (ages 15-49)**<br>
-51.5% (2022 est.)<br>
-
 **Children under the age of 5 years underweight**<br>
 2.4% (2019)<br>
+
+**Currently married women (ages 15-49)**<br>
+51.2% (2023 est.)<br>
 
 **Child marriage**<br>
 _women married by age 15_: 2.5%<br>
@@ -255,9 +255,9 @@ _male_: 15 years<br>
 _female_: 15 years (2017)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 9.5%<br>
-_male_: 8.5%<br>
-_female_: 10.7% (2021 est.)<br>
+_total_: 11.2%<br>
+_male_: 9.2%<br>
+_female_: 13.2% (2021 est.)<br>
 
 ## Environment
 
@@ -433,29 +433,29 @@ _selected World Heritage Site locales_: Cuzco (c); Machu Picchu (m); Chavin (c);
 <p>Peru's economy reflects its varied topography - an arid lowland coastal region, the central high sierra of the Andes, and the dense forest of the Amazon. A wide range of important mineral resources are found in the mountainous and coastal areas, and Peru's coastal waters provide excellent fishing grounds. Peru is the world's second largest producer of silver and copper.</p> <p> </p> <p>The Peruvian economy grew by an average of 5.6% per year from 2009-13 with a stable exchange rate and low inflation. This growth was due partly to high international prices for Peru's metals and minerals exports, which account for 55% of the country's total exports. Growth slipped from 2014 to 2017, due to weaker world prices for these resources. Despite Peru's strong macroeconomic performance, dependence on minerals and metals exports and imported foodstuffs makes the economy vulnerable to fluctuations in world prices.</p> <p> </p> <p>Peru's rapid expansion coupled with cash transfers and other programs have helped to reduce the national poverty rate by over 35 percentage points since 2004, but inequality persists and continued to pose a challenge for the Ollanta HUMALA administration, which championed a policy of social inclusion and a more equitable distribution of income. Poor infrastructure hinders the spread of growth to Peru's non-coastal areas. The HUMALA administration passed several economic stimulus packages in 2014 to bolster growth, including reforms to environmental regulations in order to spur investment in Peru’s lucrative mining sector, a move that was opposed by some environmental groups. However, in 2015, mining investment fell as global commodity prices remained low and social conflicts plagued the sector.</p> <p> </p> <p>Peru's free trade policy continued under the HUMALA administration; since 2006, Peru has signed trade deals with the US, Canada, Singapore, China, Korea, Mexico, Japan, the EU, the European Free Trade Association, Chile, Thailand, Costa Rica, Panama, Venezuela, Honduras, concluded negotiations with Guatemala and the Trans-Pacific Partnership, and begun trade talks with El Salvador, India, and Turkey. Peru also has signed a trade pact with Chile, Colombia, and Mexico, called the Pacific Alliance, that seeks integration of services, capital, investment and movement of people. Since the US-Peru Trade Promotion Agreement entered into force in February 2009, total trade between Peru and the US has doubled. President Pedro Pablo KUCZYNSKI succeeded HUMALA in July 2016 and is focusing on economic reforms and free market policies aimed at boosting investment in Peru. Mining output increased significantly in 2016-17, which helped Peru attain one of the highest GDP growth rates in Latin America, and Peru should maintain strong growth in 2018. However, economic performance was depressed by delays in infrastructure mega-projects and the start of a corruption scandal associated with a Brazilian firm. Massive flooding in early 2017 also was a drag on growth, offset somewhat by additional public spending aimed at recovery efforts.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
-$371.29 billion (2020 est.)<br>
-$417.88 billion (2019 est.)<br>
-$408.87 billion (2018 est.)<br>
+$421.937 billion (2021 est.)<br>
+$372.245 billion (2020 est.)<br>
+$418.03 billion (2019 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
-2.18% (2019 est.)<br>
-3.97% (2018 est.)<br>
-2.48% (2017 est.)<br>
+13.35% (2021 est.)<br>
+-10.95% (2020 est.)<br>
+2.24% (2019 est.)<br>
 
 **Real GDP per capita**<br>
-$11,300 (2020 est.)<br>
-$12,900 (2019 est.)<br>
-$12,800 (2018 est.)<br>
+$12,500 (2021 est.)<br>
+$11,200 (2020 est.)<br>
+$12,700 (2019 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
 $230.707 billion (2019 est.)<br>
 
 **Inflation rate (consumer prices)**<br>
-2.1% (2019 est.)<br>
-1.3% (2018 est.)<br>
-2.8% (2017 est.)<br>
+4.27% (2021 est.)<br>
+2% (2020 est.)<br>
+2.25% (2019 est.)<br>
 <strong>note:</strong> data are for metropolitan Lima, annual average<br>
 
 **Credit ratings**<br>
@@ -484,10 +484,10 @@ sugar cane, potatoes, rice, plantains, milk, poultry, maize, cassava, oil palm f
 mining and refining of minerals; steel, metal fabrication; petroleum extraction and refining, natural gas and natural gas liquefaction; fishing and fish processing, cement, glass, textiles, clothing, food processing, beer, soft drinks, rubber, machinery, electrical machinery, chemicals, furniture<br>
 
 **Industrial production growth rate**<br>
-2.7% (2017 est.)<br>
+16.44% (2021 est.)<br>
 
 **Labor force**<br>
-3.421 million (2020 est.)<br>
+18.352 million (2021 est.)<br>
 <strong>note:</strong> individuals older than 14 years of age<br>
 
 **Labor force - by occupation**<br>
@@ -496,21 +496,21 @@ _industry_: 17.4%<br>
 _services_: 56.8% (2011)<br>
 
 **Unemployment rate**<br>
-6.58% (2019 est.)<br>
-6.73% (2018 est.)<br>
+4.83% (2021 est.)<br>
+7.18% (2020 est.)<br>
+3.38% (2019 est.)<br>
 <strong>note:</strong> data are for metropolitan Lima; widespread underemployment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 9.5%<br>
-_male_: 8.5%<br>
-_female_: 10.7% (2021 est.)<br>
+_total_: 11.2%<br>
+_male_: 9.2%<br>
+_female_: 13.2% (2021 est.)<br>
 
 **Population below poverty line**<br>
 20.2% (2019 est.)<br>
 
 **Gini Index coefficient - distribution of family income**<br>
 42.8 (2018 est.)<br>
-51 (2005)<br>
 
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 1.4%<br>
@@ -524,24 +524,26 @@ _expenditures_: 64.81 billion (2017 est.)<br>
 -3.1% (of GDP) (2017 est.)<br>
 
 **Public debt**<br>
-25.4% of GDP (2017 est.)<br>
-24.5% of GDP (2016 est.)<br>
+34.67% of GDP (2020 est.)<br>
+26.54% of GDP (2019 est.)<br>
+25.7% of GDP (2018 est.)<br>
 <strong>note:</strong> data cover general government debt, and includes debt instruments issued by government entities other than the treasury; the data exclude treasury debt held by foreign entities; the data include debt issued by subnational entities<br>
 
 **Taxes and other revenues**<br>
-27.1% (of GDP) (2017 est.)<br>
+13.2% (of GDP) (2020 est.)<br>
 
 **Fiscal year**<br>
 calendar year<br>
 
 **Current account balance**<br>
--$3.531 billion (2019 est.)<br>
--$3.821 billion (2018 est.)<br>
+-$5.273 billion (2021 est.)<br>
+$2.398 billion (2020 est.)<br>
+-$1.68 billion (2019 est.)<br>
 
 **Exports**<br>
-$54.88 billion (2019 est.) note: data are in current year dollars<br>
-$55.84 billion (2018 est.) note: data are in current year dollars<br>
-$53.823 billion (2017 est.)<br>
+$66.098 billion (2021 est.) note: data are in current year dollars<br>
+$45.624 billion (2020 est.) note: data are in current year dollars<br>
+$54.676 billion (2019 est.)<br>
 
 **Exports - partners**<br>
 China 29%, United States 12%, Canada 5%, South Korea 5%, Switzerland 5% (2019)<br>
@@ -550,9 +552,9 @@ China 29%, United States 12%, Canada 5%, South Korea 5%, Switzerland 5% (2019)<b
 copper, gold, refined petroleum, zinc, fishmeal, tropical fruits, lead, iron, molybdenum (2019)<br>
 
 **Imports**<br>
-$51.38 billion (2019 est.) note: data are in current year dollars<br>
-$51.41 billion (2018 est.) note: data are in current year dollars<br>
-$46.15 billion (2017 est.)<br>
+$58.611 billion (2021 est.) note: data are in current year dollars<br>
+$42.093 billion (2020 est.) note: data are in current year dollars<br>
+$51.778 billion (2019 est.)<br>
 
 **Imports - partners**<br>
 China 24%, United States 22%, Brazil 6% (2019)<br>
@@ -561,8 +563,9 @@ China 24%, United States 22%, Brazil 6% (2019)<br>
 refined petroleum, crude petroleum, cars, broadcasting equipment, delivery trucks (2019)<br>
 
 **Reserves of foreign exchange and gold**<br>
-$63.83 billion (31 December 2017 est.)<br>
-$61.81 billion (31 December 2016 est.)<br>
+$74.779 billion (31 December 2020 est.)<br>
+$67.711 billion (31 December 2019 est.)<br>
+$60.333 billion (31 December 2018 est.)<br>
 
 **Debt - external**<br>
 $81.333 billion (2019 est.)<br>
@@ -570,11 +573,11 @@ $75.467 billion (2018 est.)<br>
 
 **Exchange rates**<br>
 _Currency_: nuevo sol (PEN) per US dollar -<br>
-3.599 (2020 est.)<br>
-3.3799 (2019 est.)<br>
-3.366 (2018 est.)<br>
-3.185 (2014 est.)<br>
-2.8383 (2013 est.)<br>
+3.881 (2021 est.)<br>
+3.495 (2020 est.)<br>
+3.337 (2019 est.)<br>
+3.287 (2018 est.)<br>
+3.26 (2017 est.)<br>
 
 ## Energy
 

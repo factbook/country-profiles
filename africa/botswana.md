@@ -166,7 +166,7 @@ _female_: 67.74 years (2022 est.)<br>
 2.39 children born/woman (2022 est.)<br>
 
 **Gross reproduction rate**<br>
-1.18 (2022 est.)<br>
+1.17 (2023 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 67.4% (2017)<br>
@@ -219,11 +219,11 @@ _total_: 19.4% (2020 est.)<br>
 _male_: 30.4% (2020 est.)<br>
 _female_: 8.3% (2020 est.)<br>
 
-**Currently married women (ages 15-49)**<br>
-44.8% (2022 est.)<br>
-
 **Children under the age of 5 years underweight**<br>
 NA<br>
+
+**Currently married women (ages 15-49)**<br>
+45% (2023 est.)<br>
 
 **Education expenditures**<br>
 8.7% of GDP (2020 est.)<br>
@@ -240,9 +240,9 @@ _male_: 12 years<br>
 _female_: 12 years (2021)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 42%<br>
-_male_: 39.2%<br>
-_female_: 45.6% (2020 est.)<br>
+_total_: 41.2%<br>
+_male_: 39.5%<br>
+_female_: 43.3% (2021 est.)<br>
 
 ## Environment
 
@@ -413,29 +413,29 @@ _selected World Heritage Site locales_: Tsodilo Hills (c); Okavango Delta (n)<br
 <p>Until the beginning of the global recession in 2008, Botswana maintained one of the world's highest economic growth rates since its independence in 1966. Botswana recovered from the global recession in 2010, but only grew modestly until 2017, primarily due to a downturn in the global diamond market, though water and power shortages also played a role. Through fiscal discipline and sound management, Botswana has transformed itself from one of the poorest countries in the world five decades ago into a middle-income country with a per capita GDP of approximately $18,100 in 2017. Botswana also ranks as one of the least corrupt and best places to do business in Sub-Saharan Africa.</p> <p> </p> <p>Because of its heavy reliance on diamond exports, Botswana’s economy closely follows global price trends for that one commodity. Diamond mining fueled much of Botswana’s past economic expansion and currently accounts for one-quarter of GDP, approximately 85% of export earnings, and about one-third of the government's revenues. In 2017, Diamond exports increased to the highest levels since 2013 at about 22 million carats of output, driving Botswana’s economic growth to about 4.5% and increasing foreign exchange reserves to about 45% of GDP. De Beers, a major international diamond company, signed a 10-year deal with Botswana in 2012 and moved its rough stone sorting and trading division from London to Gaborone in 2013. The move was geared to support the development of Botswana's nascent downstream diamond industry.</p> <p> </p> <p>Tourism is a secondary earner of foreign exchange and many Batswana engage in tourism-related services, subsistence farming, and cattle rearing. According to official government statistics, unemployment is around 20%, but unofficial estimates run much higher. The prevalence of HIV/AIDS is second highest in the world and threatens the country's impressive economic gains.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
-$37.72 billion (2020 est.)<br>
-$40.95 billion (2019 est.)<br>
-$39.75 billion (2018 est.)<br>
+$38.415 billion (2021 est.)<br>
+$34.493 billion (2020 est.)<br>
+$37.79 billion (2019 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
-2.4% (2017 est.)<br>
-4.3% (2016 est.)<br>
--1.7% (2015 est.)<br>
+11.37% (2021 est.)<br>
+-8.73% (2020 est.)<br>
+3.03% (2019 est.)<br>
 
 **Real GDP per capita**<br>
-$16,000 (2020 est.)<br>
-$17,800 (2019 est.)<br>
-$17,600 (2018 est.)<br>
+$14,800 (2021 est.)<br>
+$13,500 (2020 est.)<br>
+$15,100 (2019 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
 $18.335 billion (2019 est.)<br>
 
 **Inflation rate (consumer prices)**<br>
-2.7% (2019 est.)<br>
-3.2% (2018 est.)<br>
-3.2% (2017 est.)<br>
+7.24% (2021 est.)<br>
+1.89% (2020 est.)<br>
+2.77% (2019 est.)<br>
 
 **Credit ratings**<br>
 _Moody's rating_: A2 (2020)<br>
@@ -462,10 +462,10 @@ milk, roots/tubers, vegetables, sorghum, beef, game meat, watermelons, cabbages,
 diamonds, copper, nickel, salt, soda ash, potash, coal, iron ore, silver; beef processing; textiles<br>
 
 **Industrial production growth rate**<br>
--4.2% (2017 est.)<br>
+19.38% (2021 est.)<br>
 
 **Labor force**<br>
-1.177 million (2017 est.)<br>
+1.05 million (2021 est.)<br>
 
 **Labor force - by occupation**<br>
 _agriculture_: NA<br>
@@ -473,20 +473,20 @@ _industry_: NA<br>
 _services_: NA<br>
 
 **Unemployment rate**<br>
-20% (2013 est.)<br>
-17.8% (2009 est.)<br>
+24.72% (2021 est.)<br>
+24.93% (2020 est.)<br>
+22.61% (2019 est.)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 42%<br>
-_male_: 39.2%<br>
-_female_: 45.6% (2020 est.)<br>
+_total_: 41.2%<br>
+_male_: 39.5%<br>
+_female_: 43.3% (2021 est.)<br>
 
 **Population below poverty line**<br>
 19.3% (2009 est.)<br>
 
 **Gini Index coefficient - distribution of family income**<br>
 53.3 (2015 est.)<br>
-63 (1993)<br>
 
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: NA<br>
@@ -500,22 +500,25 @@ _expenditures_: 5.478 billion (2017 est.)<br>
 -1% (of GDP) (2017 est.)<br>
 
 **Public debt**<br>
-14% of GDP (2017 est.)<br>
-15.6% of GDP (2016 est.)<br>
+19.66% of GDP (2020 est.)<br>
+16.22% of GDP (2019 est.)<br>
+15.23% of GDP (2018 est.)<br>
 
 **Taxes and other revenues**<br>
-30.5% (of GDP) (2017 est.)<br>
+22.32% (of GDP) (2020 est.)<br>
 
 **Fiscal year**<br>
 1 April - 31 March<br>
 
 **Current account balance**<br>
-$2.146 billion (2017 est.)<br>
-$2.147 billion (2016 est.)<br>
+-$122.877 million (2021 est.)<br>
+-$1.292 billion (2020 est.)<br>
+-$1.155 billion (2019 est.)<br>
 
 **Exports**<br>
-$6.16 billion (2019 est.)<br>
-$7.53 billion (2018 est.)<br>
+$7.931 billion (2021 est.)<br>
+$4.81 billion (2020 est.)<br>
+$6.229 billion (2019 est.)<br>
 <strong>note:</strong> Data are in current year dollars and do not include illicit exports or re-exports.<br>
 
 **Exports - partners**<br>
@@ -525,8 +528,9 @@ India 21%, Belgium 19%, United Arab Emirates 19%, South Africa 9%, Israel 7%, Ho
 diamonds, insulated wiring, gold, beef, carbonates (2019)<br>
 
 **Imports**<br>
-$7.44 billion (2019 est.) note: data are in current year dollars<br>
-$7.31 billion (2018 est.) note: data are in current year dollars<br>
+$9.277 billion (2021 est.) note: data are in current year dollars<br>
+$7.413 billion (2020 est.) note: data are in current year dollars<br>
+$7.696 billion (2019 est.)<br>
 
 **Imports - partners**<br>
 South Africa 58%, Namibia 9%, Canada 7% (2019)<br>
@@ -535,8 +539,9 @@ South Africa 58%, Namibia 9%, Canada 7% (2019)<br>
 diamonds, refined petroleum, cars, delivery trucks, electricity (2019)<br>
 
 **Reserves of foreign exchange and gold**<br>
-$7.491 billion (31 December 2017 est.)<br>
-$7.189 billion (31 December 2016 est.)<br>
+$4.802 billion (31 December 2021 est.)<br>
+$4.941 billion (31 December 2020 est.)<br>
+$6.17 billion (31 December 2019 est.)<br>
 
 **Debt - external**<br>
 $2.187 billion (31 December 2017 est.)<br>
@@ -544,11 +549,11 @@ $2.421 billion (31 December 2016 est.)<br>
 
 **Exchange rates**<br>
 _Currency_: pulas (BWP) per US dollar -<br>
-10.90512 (2020 est.)<br>
-10.81081 (2019 est.)<br>
-10.60446 (2018 est.)<br>
-10.1263 (2014 est.)<br>
-8.9761 (2013 est.)<br>
+11.087 (2021 est.)<br>
+11.456 (2020 est.)<br>
+10.756 (2019 est.)<br>
+10.2 (2018 est.)<br>
+10.347 (2017 est.)<br>
 
 ## Energy
 

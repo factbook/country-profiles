@@ -161,7 +161,7 @@ _female_: 82.43 years (2022 est.)<br>
 1.86 children born/woman (2022 est.)<br>
 
 **Gross reproduction rate**<br>
-0.91 (2022 est.)<br>
+0.91 (2023 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 70.9% (2018)<br>
@@ -214,11 +214,11 @@ _total_: 8.8% (2020 est.)<br>
 _male_: 12.9% (2020 est.)<br>
 _female_: 4.6% (2020 est.)<br>
 
-**Currently married women (ages 15-49)**<br>
-48.7% (2022 est.)<br>
-
 **Children under the age of 5 years underweight**<br>
 2.9% (2018)<br>
+
+**Currently married women (ages 15-49)**<br>
+48.4% (2023 est.)<br>
 
 **Child marriage**<br>
 _women married by age 15_: 2%<br>
@@ -239,9 +239,9 @@ _male_: 16 years<br>
 _female_: 17 years (2019)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 38.8%<br>
-_male_: 32.7%<br>
-_female_: 47.9% (2021 est.)<br>
+_total_: 45.4%<br>
+_male_: 37%<br>
+_female_: 56.3% (2021 est.)<br>
 
 ## Environment
 
@@ -404,29 +404,29 @@ _selected World Heritage Site locales_: Guanacaste Conservation Area (n); Cocos 
 <p>Since 2010, Costa Rica has enjoyed strong and stable economic growth - 3.8% in 2017. Exports of bananas, coffee, sugar, and beef are the backbone of its commodity exports. Various industrial and processed agricultural products have broadened exports in recent years, as have high value-added goods, including medical devices. Costa Rica's impressive biodiversity also makes it a key destination for ecotourism.</p> <p> </p> <p>Foreign investors remain attracted by the country's political stability and relatively high education levels, as well as the incentives offered in the free-trade zones; Costa Rica has attracted one of the highest levels of foreign direct investment per capita in Latin America. The US-Central American-Dominican Republic Free Trade Agreement (CAFTA-DR), which became effective for Costa Rica in 2009, helped increase foreign direct investment in key sectors of the economy, including insurance and telecommunication. However, poor infrastructure, high energy costs, a complex bureaucracy, weak investor protection, and uncertainty of contract enforcement impede greater investment.</p> <p> </p> <p>Costa Rica’s economy also faces challenges due to a rising fiscal deficit, rising public debt, and relatively low levels of domestic revenue. Poverty has remained around 20-25% for nearly 20 years, and the government’s strong social safety net has eroded due to increased constraints on its expenditures. Costa Rica’s credit rating was downgraded from stable to negative in 2015 and again in 2017, upping pressure on lending rates - which could hurt small business, on the budget deficit - which could hurt infrastructure development, and on the rate of return on investment - which could soften foreign direct investment (FDI). Unlike the rest of Central America, Costa Rica is not highly dependent on remittances - which represented just 1 % of GDP in 2016, but instead relies on FDI - which accounted for 5.1% of GDP.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
-$100.25 billion (2020 est.)<br>
-$105.02 billion (2019 est.)<br>
-$102.79 billion (2018 est.)<br>
+$109.26 billion (2021 est.)<br>
+$101.562 billion (2020 est.)<br>
+$105.85 billion (2019 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
-3.3% (2017 est.)<br>
-4.2% (2016 est.)<br>
-3.6% (2015 est.)<br>
+7.58% (2021 est.)<br>
+-4.05% (2020 est.)<br>
+2.42% (2019 est.)<br>
 
 **Real GDP per capita**<br>
-$19,700 (2020 est.)<br>
+$21,200 (2021 est.)<br>
+$19,800 (2020 est.)<br>
 $20,800 (2019 est.)<br>
-$20,600 (2018 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
 $61.855 billion (2019 est.)<br>
 
 **Inflation rate (consumer prices)**<br>
-2% (2019 est.)<br>
-2.2% (2018 est.)<br>
-1.6% (2017 est.)<br>
+1.73% (2021 est.)<br>
+0.72% (2020 est.)<br>
+2.1% (2019 est.)<br>
 
 **Credit ratings**<br>
 _Fitch rating_: B (2020)<br>
@@ -454,10 +454,10 @@ sugar cane, pineapples, bananas, milk, oil palm fruit, fruit, oranges, watermelo
 medical equipment, food processing, textiles and clothing, construction materials, fertilizer, plastic products<br>
 
 **Industrial production growth rate**<br>
-1.3% (2017 est.)<br>
+9.83% (2021 est.)<br>
 
 **Labor force**<br>
-1.843 million (2020 est.)<br>
+2.426 million (2021 est.)<br>
 <strong>note:</strong> official estimate; excludes Nicaraguans living in Costa Rica<br>
 
 **Labor force - by occupation**<br>
@@ -466,20 +466,20 @@ _industry_: 22%<br>
 _services_: 64% (2006 est.)<br>
 
 **Unemployment rate**<br>
-8.1% (2017 est.)<br>
-9.5% (2016 est.)<br>
+17.95% (2021 est.)<br>
+17.41% (2020 est.)<br>
+11.49% (2019 est.)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 38.8%<br>
-_male_: 32.7%<br>
-_female_: 47.9% (2021 est.)<br>
+_total_: 45.4%<br>
+_male_: 37%<br>
+_female_: 56.3% (2021 est.)<br>
 
 **Population below poverty line**<br>
 21% (2019 est.)<br>
 
 **Gini Index coefficient - distribution of family income**<br>
-48 (2018 est.)<br>
-49.2 (2013)<br>
+49.3 (2020 est.)<br>
 
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 1.5%<br>
@@ -497,18 +497,20 @@ _expenditures_: 11.92 billion (2017 est.)<br>
 44.9% of GDP (2016 est.)<br>
 
 **Taxes and other revenues**<br>
-14.3% (of GDP) (2017 est.)<br>
+12.32% (of GDP) (2020 est.)<br>
 
 **Fiscal year**<br>
 calendar year<br>
 
 **Current account balance**<br>
--$1.692 billion (2017 est.)<br>
--$1.326 billion (2016 est.)<br>
+-$2.136 billion (2021 est.)<br>
+-$638.741 million (2020 est.)<br>
+-$826.158 million (2019 est.)<br>
 
 **Exports**<br>
-$21.2 billion (2019 est.)<br>
-$20.53 billion (2018 est.)<br>
+$23.761 billion (2021 est.)<br>
+$19.996 billion (2020 est.)<br>
+$22.738 billion (2019 est.)<br>
 <strong>note:</strong> Data are in current year dollars and do not include illicit exports or re-exports.<br>
 
 **Exports - partners**<br>
@@ -518,8 +520,9 @@ United States 38%, Netherlands 6%, Belgium 5%, Guatemala 5%, Panama 5% (2019)<br
 medical instruments, bananas, tropical fruits, orthopedic appliances, food preparations (2019)<br>
 
 **Imports**<br>
-$19.39 billion (2019 est.) note: data are in current year dollars<br>
-$19.64 billion (2018 est.) note: data are in current year dollars<br>
+$22.298 billion (2021 est.) note: data are in current year dollars<br>
+$17.701 billion (2020 est.) note: data are in current year dollars<br>
+$20.314 billion (2019 est.)<br>
 
 **Imports - partners**<br>
 United States 41%, China 13%, Mexico 7% (2019)<br>
@@ -528,8 +531,9 @@ United States 41%, China 13%, Mexico 7% (2019)<br>
 refined petroleum, broadcasting equipment, cars, medical instruments, packaged medicines (2019)<br>
 
 **Reserves of foreign exchange and gold**<br>
-$7.15 billion (31 December 2017 est.)<br>
-$7.574 billion (31 December 2016 est.)<br>
+$6.921 billion (31 December 2021 est.)<br>
+$7.232 billion (31 December 2020 est.)<br>
+$8.937 billion (31 December 2019 est.)<br>
 
 **Debt - external**<br>
 $29.589 billion (2019 est.)<br>
@@ -537,11 +541,11 @@ $28.553 billion (2018 est.)<br>
 
 **Exchange rates**<br>
 _Currency_: Costa Rican colones (CRC) per US dollar -<br>
-573.5 (2017 est.)<br>
-544.74 (2016 est.)<br>
-544.74 (2015 est.)<br>
-534.57 (2014 est.)<br>
-538.32 (2013 est.)<br>
+620.785 (2021 est.)<br>
+584.901 (2020 est.)<br>
+587.295 (2019 est.)<br>
+576.973 (2018 est.)<br>
+567.513 (2017 est.)<br>
 
 ## Energy
 

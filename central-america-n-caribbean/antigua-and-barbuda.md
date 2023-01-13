@@ -154,7 +154,7 @@ _female_: 80.08 years (2022 est.)<br>
 1.95 children born/woman (2022 est.)<br>
 
 **Gross reproduction rate**<br>
-0.95 (2022 est.)<br>
+0.95 (2023 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 NA<br>
@@ -193,11 +193,11 @@ _wine_: 3.95 liters of pure alcohol (2019 est.)<br>
 _spirits_: 4.55 liters of pure alcohol (2019 est.)<br>
 _other alcohols_: 0.41 liters of pure alcohol (2019 est.)<br>
 
-**Currently married women (ages 15-49)**<br>
-31.3% (2022 est.)<br>
-
 **Children under the age of 5 years underweight**<br>
 NA<br>
+
+**Currently married women (ages 15-49)**<br>
+31.5% (2023 est.)<br>
 
 **Education expenditures**<br>
 3.8% of GDP (202 est.)<br>
@@ -357,28 +357,29 @@ _selected World Heritage Site locales_: Antigua Naval Dockyard&nbsp;<br>
 <p>Tourism continues to dominate Antigua and Barbuda's economy, accounting for nearly 60% of GDP and 40% of investment. The dual-island nation's agricultural production is focused on the domestic market and constrained by a limited water supply and a labor shortage stemming from the lure of higher wages in tourism and construction. Manufacturing comprises enclave-type assembly for export with major products being bedding, handicrafts, and electronic components.</p> <p> </p> <p>Like other countries in the region, Antigua's economy was severely hit by effects of the global economic recession in 2009. The country suffered from the collapse of its largest private sector employer, a steep decline in tourism, a rise in debt, and a sharp economic contraction between 2009 and 2011. Antigua has not yet returned to its pre-crisis growth levels. Barbuda suffered significant damages after hurricanes Irma and Maria passed through the Caribbean in 2017.</p> <p> </p> <p>Prospects for economic growth in the medium term will continue to depend on tourist arrivals from the US, Canada, and Europe and could be disrupted by potential damage from natural disasters. The new government, elected in 2014 and led by Prime Minister Gaston Browne, continues to face significant fiscal challenges. The government places some hope in a new Citizenship by Investment Program, to both reduce public debt levels and spur growth, and a resolution of a WTO dispute with the US.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
-$1.76 billion (2020 est.)<br>
-$2.09 billion (2019 est.)<br>
-$2.02 billion (2018 est.)<br>
+$1.783 billion (2021 est.)<br>
+$1.693 billion (2020 est.)<br>
+$2.122 billion (2019 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
-2.8% (2017 est.)<br>
-5.3% (2016 est.)<br>
-4.1% (2015 est.)<br>
+5.27% (2021 est.)<br>
+-20.19% (2020 est.)<br>
+4.86% (2019 est.)<br>
 
 **Real GDP per capita**<br>
-$18,000 (2020 est.)<br>
-$21,500 (2019 est.)<br>
-$21,000 (2018 est.)<br>
+$19,100 (2021 est.)<br>
+$18,300 (2020 est.)<br>
+$23,000 (2019 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
 $1.524 billion (2017 est.)<br>
 
 **Inflation rate (consumer prices)**<br>
-2.5% (2017 est.)<br>
--0.5% (2016 est.)<br>
+2.06% (2021 est.)<br>
+0.63% (2020 est.)<br>
+1.43% (2019 est.)<br>
 
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 1.8% (2017 est.)<br>
@@ -400,7 +401,7 @@ tropical fruit, milk, mangoes/guavas, melons, tomatoes, pineapples, lemons, lime
 tourism, construction, light manufacturing (clothing, alcohol, household appliances)<br>
 
 **Industrial production growth rate**<br>
-6.8% (2017 est.)<br>
+8.26% (2021 est.)<br>
 
 **Labor force**<br>
 30,000 (1991)<br>
@@ -438,12 +439,14 @@ _expenditures_: 334 million (2017 est.)<br>
 1 April - 31 March<br>
 
 **Current account balance**<br>
--$112 million (2017 est.)<br>
-$2 million (2016 est.)<br>
+-$220.871 million (2021 est.)<br>
+-$251.556 million (2020 est.)<br>
+-$126.907 million (2019 est.)<br>
 
 **Exports**<br>
-$1.15 billion (2018 est.)<br>
-$56.5 million (2016 est.)<br>
+$749.476 million (2021 est.)<br>
+$590.849 million (2020 est.)<br>
+$1.196 billion (2019 est.)<br>
 <strong>note:</strong> Data are in current year dollars and do not include illicit exports or re-exports.<br>
 
 **Exports - partners**<br>
@@ -453,8 +456,9 @@ Poland 37%, Suriname 33%, United Arab Emirates 8% (2019)<br>
 ships, refined petroleum, precious/semi-precious metal scraps, rice, corn (2019)<br>
 
 **Imports**<br>
-$1.12 billion (2018 est.) note: data are in current year dollars<br>
-$503.4 million (2016 est.)<br>
+$868.797 million (2021 est.) note: data are in current year dollars<br>
+$737.693 million (2020 est.)<br>
+$1.18 billion (2019 est.)<br>
 
 **Imports - partners**<br>
 United States 39%, Poland 16%, China 7% (2019)<br>
@@ -462,17 +466,22 @@ United States 39%, Poland 16%, China 7% (2019)<br>
 **Imports - commodities**<br>
 refined petroleum, ships, cars, precious/semi-precious metals, recreational boats (2019)<br>
 
+**Reserves of foreign exchange and gold**<br>
+$367.512 million (31 December 2021 est.)<br>
+$221.809 million (31 December 2020 est.)<br>
+$279.133 million (31 December 2019 est.)<br>
+
 **Debt - external**<br>
 $441.2 million (31 December 2012)<br>
 $458 million (June 2010)<br>
 
 **Exchange rates**<br>
 _Currency_: East Caribbean dollars (XCD) per US dollar -<br>
+2.7 (2021 est.)<br>
+2.7 (2020 est.)<br>
+2.7 (2019 est.)<br>
+2.7 (2018 est.)<br>
 2.7 (2017 est.)<br>
-2.7 (2016 est.)<br>
-2.7 (2015 est.)<br>
-2.7 (2014 est.)<br>
-2.7 (2013 est.)<br>
 
 ## Energy
 

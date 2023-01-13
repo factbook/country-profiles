@@ -170,7 +170,7 @@ _female_: 65.52 years (2022 est.)<br>
 3.89 children born/woman (2022 est.)<br>
 
 **Gross reproduction rate**<br>
-1.92 (2022 est.)<br>
+1.91 (2023 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 66.8% (2015)<br>
@@ -225,11 +225,11 @@ _total_: 11.7% (2020 est.)<br>
 _male_: 21.8% (2020 est.)<br>
 _female_: 1.5% (2020 est.)<br>
 
-**Currently married women (ages 15-49)**<br>
-61.7% (2022 est.)<br>
-
 **Children under the age of 5 years underweight**<br>
 9.7% (2019)<br>
+
+**Currently married women (ages 15-49)**<br>
+61.6% (2023 est.)<br>
 
 **Child marriage**<br>
 _women married by age 15_: 5.4%<br>
@@ -251,9 +251,9 @@ _male_: 12 years<br>
 _female_: 11 years (2013)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 11.9%<br>
-_male_: 11.2%<br>
-_female_: 12.8% (2019 est.)<br>
+_total_: 7.3%<br>
+_male_: 6.2%<br>
+_female_: 8.5% (2021 est.)<br>
 
 ## Environment
 
@@ -426,29 +426,29 @@ _selected World Heritage Site locales_: Mana Pools National Park, Sapi, and Chew
 <p>Zimbabwe's economy depends heavily on its mining and agriculture sectors. Following a contraction from 1998 to 2008, the economy recorded real growth of more than 10% per year in the period 2010-13, before falling below 3% in the period 2014-17, due to poor harvests, low diamond revenues, and decreased investment. Lower mineral prices, infrastructure and regulatory deficiencies, a poor investment climate, a large public and external debt burden, and extremely high government wage expenses impede the country’s economic performance.</p> <p> </p> <p>Until early 2009, the Reserve Bank of Zimbabwe (RBZ) routinely printed money to fund the budget deficit, causing hyperinflation. Adoption of a multi-currency basket in early 2009 - which allowed currencies such as the Botswana pula, the South Africa rand, and the US dollar to be used locally - reduced inflation below 10% per year. In January 2015, as part of the government’s effort to boost trade and attract foreign investment, the RBZ announced that the Chinese renmimbi, Indian rupee, Australian dollar, and Japanese yen would be accepted as legal tender in Zimbabwe, though transactions were predominantly carried out in US dollars and South African rand until 2016, when the rand’s devaluation and instability led to near-exclusive use of the US dollar. The government in November 2016 began releasing bond notes, a parallel currency legal only in Zimbabwe which the government claims will have a one-to-one exchange ratio with the US dollar, to ease cash shortages. Bond notes began trading at a discount of up to 10% in the black market by the end of 2016.</p> <p> </p> <p>Zimbabwe’s government entered a second Staff Monitored Program with the IMF in 2014 and undertook other measures to reengage with international financial institutions. Zimbabwe repaid roughly $108 million in arrears to the IMF in October 2016, but financial observers note that Zimbabwe is unlikely to gain new financing because the government has not disclosed how it plans to repay more than $1.7 billion in arrears to the World Bank and African Development Bank. International financial institutions want Zimbabwe to implement significant fiscal and structural reforms before granting new loans. Foreign and domestic investment continues to be hindered by the lack of land tenure and titling, the inability to repatriate dividends to investors overseas, and the lack of clarity regarding the government’s Indigenization and Economic Empowerment Act.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
-$40.79 billion (2020 est.)<br>
-$44.34 billion (2019 est.)<br>
-$48.25 billion (2018 est.)<br>
+$33.829 billion (2021 est.)<br>
+$31.188 billion (2020 est.)<br>
+$33.832 billion (2019 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
-3.7% (2017 est.)<br>
-0.7% (2016 est.)<br>
-1.4% (2015 est.)<br>
+8.47% (2021 est.)<br>
+-7.82% (2020 est.)<br>
+-6.33% (2019 est.)<br>
 
 **Real GDP per capita**<br>
-$2,700 (2020 est.)<br>
-$3,000 (2019 est.)<br>
-$3,300 (2018 est.)<br>
+$2,100 (2021 est.)<br>
+$2,000 (2020 est.)<br>
+$2,200 (2019 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
 $21.441 billion (2019 est.)<br>
 
 **Inflation rate (consumer prices)**<br>
-241.7% (2019 est.)<br>
-10.6% (2018 est.)<br>
-0.9% (2017 est.)<br>
+98.55% (2021 est.)<br>
+557.2% (2020 est.)<br>
+255.3% (2019 est.)<br>
 
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 12% (2017 est.)<br>
@@ -470,10 +470,10 @@ sugar cane, maize, milk, tobacco, cassava, vegetables, bananas, beef, cotton, or
 mining (coal, gold, platinum, copper, nickel, tin, diamonds, clay, numerous metallic and nonmetallic ores), steel; wood products, cement, chemicals, fertilizer, clothing and footwear, foodstuffs, beverages<br>
 
 **Industrial production growth rate**<br>
-0.3% (2017 est.)<br>
+6.37% (2021 est.)<br>
 
 **Labor force**<br>
-7.907 million (2017 est.)<br>
+7.916 million (2021 est.)<br>
 
 **Labor force - by occupation**<br>
 _agriculture_: 67.5%<br>
@@ -481,21 +481,21 @@ _industry_: 7.3%<br>
 _services_: 25.2% (2017 est.)<br>
 
 **Unemployment rate**<br>
-11.3% (2014 est.)<br>
-80% (2005 est.)<br>
+5.17% (2021 est.)<br>
+5.35% (2020 est.)<br>
+4.83% (2019 est.)<br>
 <strong>note:</strong> data include both unemployment and underemployment; true unemployment is unknown and, under current economic conditions, unknowable<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 11.9%<br>
-_male_: 11.2%<br>
-_female_: 12.8% (2019 est.)<br>
+_total_: 7.3%<br>
+_male_: 6.2%<br>
+_female_: 8.5% (2021 est.)<br>
 
 **Population below poverty line**<br>
 38.3% (2019 est.)<br>
 
 **Gini Index coefficient - distribution of family income**<br>
 44.3 (2017 est.)<br>
-50.1 (2006)<br>
 
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 2%<br>
@@ -513,18 +513,20 @@ _expenditures_: 5.5 billion (2017 est.)<br>
 69.9% of GDP (2016 est.)<br>
 
 **Taxes and other revenues**<br>
-21.5% (of GDP) (2017 est.)<br>
+7.21% (of GDP) (2018 est.)<br>
 
 **Fiscal year**<br>
 calendar year<br>
 
 **Current account balance**<br>
--$716 million (2017 est.)<br>
--$553 million (2016 est.)<br>
+$1.096 billion (2020 est.)<br>
+$920.472 million (2019 est.)<br>
+-$1.38 billion (2018 est.)<br>
 
 **Exports**<br>
-$4.422 billion (2018 est.)<br>
-$6.252 billion (2017 est.)<br>
+$5.263 billion (2020 est.)<br>
+$5.267 billion (2019 est.)<br>
+$5.178 billion (2018 est.)<br>
 
 **Exports - partners**<br>
 United Arab Emirates 40%, South Africa 23%, Mozambique 9% (2019)<br>
@@ -533,8 +535,9 @@ United Arab Emirates 40%, South Africa 23%, Mozambique 9% (2019)<br>
 gold, tobacco, iron alloys, nickel, diamonds, jewelry (2019)<br>
 
 **Imports**<br>
-$7.215 billion (2018 est.)<br>
-$9.658 billion (2017 est.)<br>
+$5.489 billion (2020 est.)<br>
+$5.398 billion (2019 est.)<br>
+$7.642 billion (2018 est.)<br>
 
 **Imports - partners**<br>
 South Africa 41%, Singapore 23%, China 8% (2019)<br>
@@ -543,8 +546,9 @@ South Africa 41%, Singapore 23%, China 8% (2019)<br>
 refined petroleum, delivery trucks, packaged medicines, fertilizers, tractors (2019)<br>
 
 **Reserves of foreign exchange and gold**<br>
-$431.8 million (31 December 2017 est.)<br>
-$407.2 million (31 December 2016 est.)<br>
+$838.78 million (31 December 2021 est.)<br>
+$33.405 million (31 December 2020 est.)<br>
+$151.241 million (31 December 2019 est.)<br>
 
 **Debt - external**<br>
 $9.357 billion (31 December 2017 est.)<br>
@@ -552,10 +556,10 @@ $10.14 billion (31 December 2016 est.)<br>
 
 **Exchange rates**<br>
 _Currency_: Zimbabwean dollars (ZWD) per US dollar -<br>
-82.3138 (2020 est.)<br>
-16.44579 (2019 est.)<br>
+88.552 (2021 est.)<br>
+51.329 (2020 est.)<br>
+16.446 (2019 est.)<br>
 322.355 (2018 est.)<br>
-234.25 (2010)<br>
 <strong>note:</strong> the dollar was adopted as a legal currency in 2009; since then the Zimbabwean dollar has experienced hyperinflation and is essentially worthless<br>
 
 ## Energy

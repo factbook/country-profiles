@@ -155,7 +155,7 @@ _female_: 80.86 years (2022 est.)<br>
 1.74 children born/woman (2022 est.)<br>
 
 **Gross reproduction rate**<br>
-0.85 (2022 est.)<br>
+0.85 (2023 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 NA<br>
@@ -203,11 +203,11 @@ _total_: 16.2% (2020 est.)<br>
 _male_: 30% (2020 est.)<br>
 _female_: 2.3% (2020 est.)<br>
 
-**Currently married women (ages 15-49)**<br>
-54.4% (2022 est.)<br>
-
 **Children under the age of 5 years underweight**<br>
 NA<br>
+
+**Currently married women (ages 15-49)**<br>
+54.3% (2023 est.)<br>
 
 **Education expenditures**<br>
 4.4% of GDP (2016 est.)<br>
@@ -224,9 +224,9 @@ _male_: 14 years<br>
 _female_: 14 years (2020)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 26.4%<br>
-_male_: 22.7%<br>
-_female_: 32.4% (2020 est.)<br>
+_total_: 23.4%<br>
+_male_: 20.7%<br>
+_female_: 27.6% (2021 est.)<br>
 
 ## Environment
 
@@ -375,28 +375,29 @@ _lyrics/music_: Pengiran Haji Mohamed YUSUF bin Pengiran Abdul Rahim/Awang Haji 
 <p>Brunei is an energy-rich sultanate on the northern coast of Borneo in Southeast Asia. Brunei boasts a well-educated, largely English-speaking population; excellent infrastructure; and a stable government intent on attracting foreign investment. Crude oil and natural gas production account for approximately 65% of GDP and 95% of exports, with Japan as the primary export market.</p> <p> </p> <p>Per capita GDP is among the highest in the world, and substantial income from overseas investment supplements income from domestic hydrocarbon production. Bruneian citizens pay no personal income taxes, and the government provides free medical services and free education through the university level.</p> <p> </p> <p>The Bruneian Government wants to diversify its economy away from hydrocarbon exports to other industries such as information and communications technology and halal manufacturing, permissible under Islamic law. Brunei’s trade increased in 2016 and 2017, following its regional economic integration in the ASEAN Economic Community, and the expected ratification of the Trans-Pacific Partnership trade agreement.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
-$27.23 billion (2020 est.)<br>
-$26.91 billion (2019 est.)<br>
-$25.9 billion (2018 est.)<br>
+$26.779 billion (2021 est.)<br>
+$27.212 billion (2020 est.)<br>
+$26.907 billion (2019 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
-1.3% (2017 est.)<br>
--2.5% (2016 est.)<br>
--0.4% (2015 est.)<br>
+-1.59% (2021 est.)<br>
+1.13% (2020 est.)<br>
+3.87% (2019 est.)<br>
 
 **Real GDP per capita**<br>
-$62,200 (2020 est.)<br>
-$62,100 (2019 est.)<br>
-$60,400 (2018 est.)<br>
+$60,100 (2021 est.)<br>
+$61,600 (2020 est.)<br>
+$61,400 (2019 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
 $12.13 billion (2017 est.)<br>
 
 **Inflation rate (consumer prices)**<br>
--0.2% (2017 est.)<br>
--0.7% (2016 est.)<br>
+1.73% (2021 est.)<br>
+1.94% (2020 est.)<br>
+-0.39% (2019 est.)<br>
 
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 1.2% (2017 est.)<br>
@@ -418,10 +419,10 @@ poultry, eggs, fruit, cassava, bananas, legumes, cucumbers, rice, pineapples, be
 petroleum, petroleum refining, liquefied natural gas, construction, agriculture, aquaculture, transportation<br>
 
 **Industrial production growth rate**<br>
-1.5% (2017 est.)<br>
+-4.17% (2021 est.)<br>
 
 **Labor force**<br>
-203,600 (2014 est.)<br>
+219,800 (2021 est.)<br>
 
 **Labor force - by occupation**<br>
 _agriculture_: 4.2%<br>
@@ -429,13 +430,14 @@ _industry_: 62.8%<br>
 _services_: 33% (2008 est.)<br>
 
 **Unemployment rate**<br>
-6.9% (2017 est.)<br>
-6.9% (2016 est.)<br>
+7.65% (2021 est.)<br>
+7.68% (2020 est.)<br>
+6.92% (2019 est.)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 26.4%<br>
-_male_: 22.7%<br>
-_female_: 32.4% (2020 est.)<br>
+_total_: 23.4%<br>
+_male_: 20.7%<br>
+_female_: 27.6% (2021 est.)<br>
 
 **Population below poverty line**<br>
 NA<br>
@@ -462,12 +464,14 @@ _expenditures_: 4.345 billion (2017 est.)<br>
 1 April - 31 March<br>
 
 **Current account balance**<br>
-$2.021 billion (2017 est.)<br>
-$1.47 billion (2016 est.)<br>
+$1.57 billion (2021 est.)<br>
+$513.713 million (2020 est.)<br>
+$893.759 million (2019 est.)<br>
 
 **Exports**<br>
-$7.83 billion (2019 est.)<br>
-$7.04 billion (2018 est.)<br>
+$11.202 billion (2021 est.)<br>
+$6.886 billion (2020 est.)<br>
+$7.828 billion (2019 est.)<br>
 <strong>note:</strong> Data are in current year dollars and do not include illicit exports or re-exports.<br>
 
 **Exports - partners**<br>
@@ -477,8 +481,9 @@ Japan 34%, Australia 12%, Singapore 10%, India 8%, Malaysia 8%, Thailand 7%, Chi
 natural gas, crude petroleum, refined petroleum, industrial alcohols, industrial hydrocarbons (2019)<br>
 
 **Imports**<br>
-$6.81 billion (2019 est.) note: data are in current year dollars<br>
-$5.68 billion (2018 est.) note: data are in current year dollars<br>
+$9.219 billion (2021 est.) note: data are in current year dollars<br>
+$6.382 billion (2020 est.) note: data are in current year dollars<br>
+$6.806 billion (2019 est.)<br>
 
 **Imports - partners**<br>
 Singapore 18%, China 14%, Malaysia 12%, Nigeria 5%, United Arab Emirates 5%, United States 5% (2019)<br>
@@ -487,8 +492,9 @@ Singapore 18%, China 14%, Malaysia 12%, Nigeria 5%, United Arab Emirates 5%, Uni
 crude petroleum, refined petroleum, cars, tug boats, valves (2019)<br>
 
 **Reserves of foreign exchange and gold**<br>
-$3.488 billion (31 December 2017 est.)<br>
-$3.366 billion (31 December 2015 est.)<br>
+$3.997 billion (31 December 2020 est.)<br>
+$4.273 billion (31 December 2019 est.)<br>
+$3.407 billion (31 December 2018 est.)<br>
 
 **Debt - external**<br>
 $0 (2014)<br>
@@ -497,11 +503,11 @@ $0 (2013)<br>
 
 **Exchange rates**<br>
 _Currency_: Bruneian dollars (BND) per US dollar -<br>
-1.33685 (2020 est.)<br>
-1.35945 (2019 est.)<br>
-1.3699 (2018 est.)<br>
-1.3749 (2014 est.)<br>
-1.267 (2013 est.)<br>
+1.344 (2021 est.)<br>
+1.38 (2020 est.)<br>
+1.364 (2019 est.)<br>
+1.349 (2018 est.)<br>
+1.381 (2017 est.)<br>
 
 ## Energy
 
@@ -670,8 +676,8 @@ the Royal Brunei Armed Forces were formed in 1961 with British support as the Br
 _stateless persons_: 20,863 (mid-year 2021); note - thousands of stateless persons, often ethnic Chinese, are permanent residents and their families have lived in Brunei for generations; obtaining citizenship is difficult and requires individuals to pass rigorous tests on Malay culture, customs, and language; stateless residents receive an International Certificate of Identity, which enables them to travel overseas; the government is considering changing the law prohibiting non-Bruneians, including stateless permanent residents, from owning land<br>
 
 **Trafficking in persons**<br>
-_tier rating_: Tier 2 Watch List &mdash; Brunei does not fully meet the minimum standards for the elimination of trafficking but is making significant efforts to do so; the government enacted the 2019 Trafficking in Persons Order, which criminalized sex and labor trafficking and separated trafficking crimes from migrant smuggling crimes; the government formalized its interagency anti-trafficking in persons committee; instituted a committee to review foreign worker recruitment practices, ratified the ASEAN Convention against Trafficking in Persons, and acceded to the UN TIP Protocol; however, authorities did not formally identify any trafficking cases, did not initiate any new trafficking prosecutions, and did not convict any traffickers; trafficking victims continued to be detained, deported, and charged with crimes without law enforcement determining if they were forced to commit the illegal acts by traffickers; the government again did not allocate money to a fund established in 2004 for victim compensation and repatriation; a draft national action plan to combat trafficking was not completed for the sixth consecutive year (2020)<br>
-_trafficking profile_: human traffickers exploit foreign victims in Brunei; some men and women who migrate to Brunei to work as domestics or in retail or construction are subject to involuntary servitude, debt-based coercion, contract switching, non-payment of wages, passport confiscation, physical abuse, or confinement; some female migrants entering Brunei on tourist visas are forced into prostitution; some traffickers use Brunei as a transit point for victims used for sex and labor trafficking in Malaysia and Indonesia<br>
+_tier rating_: Tier 3 &mdash; Brunei does not fully meet the minimum standards for the elimination of trafficking and is not making significant efforts to do so, therefore Brunei was downgraded to Tier 3; the government took some steps to address trafficking, including initiating a labor trafficking prosecution, increasing investigations, and continuing construction of shelters; however, officials did not convict any traffickers under its trafficking statute, for the fifth consecutive year, nor did it identify any victims; the government continued to detain, deport, and charge potential victims without attempting to discern if traffickers compelled the victims to engage in unlawful acts (2022)<br>
+_trafficking profile_: human traffickers exploit foreign victims in Brunei; some men and women who migrate to Brunei to work in domestic service, retail, or construction work are subject to involuntary servitude, debt-based coercion, contract switching, non-payment of wages, passport confiscation, physical abuse, or confinement; some female migrants entering Brunei on tourist visas are forced into prostitution; some traffickers use Brunei as a transit point for victims used for sex and labor trafficking in Malaysia and Indonesia; Anti-LGBTQI+ laws place some LGBTQI+ individuals at higher risk; Trafficking experts in Brunei have received threats from traffickers (2022)<br>
 
 **Illicit drugs**<br>
 drug trafficking and illegally importing controlled substances are serious offenses in Brunei and carry a mandatory death penalty<br>

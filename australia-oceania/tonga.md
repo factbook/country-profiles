@@ -159,7 +159,7 @@ _female_: 79.23 years (2022 est.)<br>
 2.76 children born/woman (2022 est.)<br>
 
 **Gross reproduction rate**<br>
-1.36 (2022 est.)<br>
+1.33 (2023 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 29.3% (2019)<br>
@@ -209,11 +209,11 @@ _total_: 31% (2020 est.)<br>
 _male_: 46.7% (2020 est.)<br>
 _female_: 15.3% (2020 est.)<br>
 
-**Currently married women (ages 15-49)**<br>
-54.9% (2022 est.)<br>
-
 **Children under the age of 5 years underweight**<br>
 0.8% (2019)<br>
+
+**Currently married women (ages 15-49)**<br>
+54.9% (2023 est.)<br>
 
 **Child marriage**<br>
 _women married by age 15_: 0.4%<br>
@@ -235,9 +235,9 @@ _male_: 15 years<br>
 _female_: 17 years (2020)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 6.7%<br>
-_male_: 3.4%<br>
-_female_: 11.7% (2018)<br>
+_total_: 11.1%<br>
+_male_: 7.5%<br>
+_female_: 16.3% (2021 est.)<br>
 
 ## Environment
 
@@ -385,27 +385,28 @@ _lyrics/music_: Uelingatoni Ngu TUPOUMALOHI/Karl Gustavus SCHMITT<br>
 <p>Tonga has a small, open island economy and is the last constitutional monarchy among the Pacific Island countries. It has a narrow export base in agricultural goods. Squash, vanilla beans, and yams are the main crops. Agricultural exports, including fish, make up two-thirds of total exports. Tourism is the second-largest source of hard currency earnings following remittances. Tonga had 53,800 visitors in 2015. The country must import a high proportion of its food, mainly from New Zealand.</p> <p> </p> <p>The country remains dependent on external aid and remittances from overseas Tongans to offset its trade deficit. The government is emphasizing the development of the private sector, encouraging investment, and is committing increased funds for health care and education. Tonga's English-speaking and educated workforce offers a viable labor market, and the tropical climate provides fertile soil. Renewable energy and deep-sea mining also offer opportunities for investment.</p> <p> </p> <p>Tonga has a reasonably sound basic infrastructure and well developed social services. But the government faces high unemployment among the young, moderate inflation, pressures for democratic reform, and rising civil service expenditures.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
-$670 million (2019 est.)<br>
-$660 million (2018 est.)<br>
-$660 million (2017 est.)<br>
+$651.247 million (2021 est.)<br>
+$669.095 million (2020 est.)<br>
+$665.842 million (2019 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
-2.5% (2017 est.)<br>
-4.2% (2016 est.)<br>
-3.5% (2015 est.)<br>
+-2.67% (2021 est.)<br>
+0.49% (2020 est.)<br>
+0.71% (2019 est.)<br>
 
 **Real GDP per capita**<br>
-$6,400 (2019 est.) note: data are in 2017 dollars<br>
-$6,400 (2018 est.) note: data are in 2017 dollars<br>
-$6,472 (2017 est.)<br>
+$6,100 (2021 est.) note: data are in 2017 dollars<br>
+$6,400 (2020 est.) note: data are in 2017 dollars<br>
+$6,300 (2019 est.)<br>
 
 **GDP (official exchange rate)**<br>
 $455 million (2017 est.)<br>
 
 **Inflation rate (consumer prices)**<br>
-7.4% (2017 est.)<br>
-2.6% (2016 est.)<br>
+5.64% (2021 est.)<br>
+-0.35% (2020 est.)<br>
+1.18% (2019 est.)<br>
 
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 19.9% (2017 est.)<br>
@@ -427,10 +428,10 @@ coconuts, gourds, cassava, sweet potatoes, vegetables, yams, taro, roots/tubers 
 tourism, construction, fishing<br>
 
 **Industrial production growth rate**<br>
-5% (2017 est.)<br>
+1.23% (2021 est.)<br>
 
 **Labor force**<br>
-33,800 (2011 est.)<br>
+32,000 (2021 est.)<br>
 
 **Labor force - by occupation**<br>
 _agriculture_: 2,006% (2006 est.)<br>
@@ -438,13 +439,14 @@ _industry_: 27.5% (2006 est.)<br>
 _services_: 2,006% (2006 est.)<br>
 
 **Unemployment rate**<br>
-1.1% (2011 est.)<br>
-1.1% (2006)<br>
+3.97% (2021 est.)<br>
+3.63% (2020 est.)<br>
+3.06% (2019 est.)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 6.7%<br>
-_male_: 3.4%<br>
-_female_: 11.7% (2018)<br>
+_total_: 11.1%<br>
+_male_: 7.5%<br>
+_female_: 16.3% (2021 est.)<br>
 
 **Population below poverty line**<br>
 22.5% (2010 est.)<br>
@@ -464,7 +466,7 @@ _expenditures_: 181.2 million (2017 est.)<br>
 0% (of GDP) (2017 est.)<br>
 
 **Public debt**<br>
-48% of GDP (FY2017 est.)<br>
+49.41% of GDP (2016 est.)<br>
 51.8% of GDP (FY2016 est.)<br>
 
 **Taxes and other revenues**<br>
@@ -474,13 +476,14 @@ _expenditures_: 181.2 million (2017 est.)<br>
 1 July - 30 June<br>
 
 **Current account balance**<br>
--$53 million (2017 est.)<br>
--$30 million (2016 est.)<br>
+-$19.188 million (2021 est.)<br>
+-$25.78 million (2020 est.)<br>
+-$4.214 million (2019 est.)<br>
 
 **Exports**<br>
-$90 million (2020 est.) note: data are in current year dollars<br>
-$110 million (2019 est.) note: data are in current year dollars<br>
-$100 million (2018 est.) note: data are in current year dollars<br>
+$58.745 million (2021 est.) note: data are in current year dollars<br>
+$99.78 million (2020 est.) note: data are in current year dollars<br>
+$112.482 million (2019 est.) note: data are in current year dollars<br>
 
 **Exports - partners**<br>
 United States 38%, South Korea 18%, Australia 14%, New Zealand 14%, Japan 6%,&nbsp; (2019)<br>
@@ -489,9 +492,9 @@ United States 38%, South Korea 18%, Australia 14%, New Zealand 14%, Japan 6%,&nb
 squash, fish, various fruits and nuts, antiques, coral and shells (2019)<br>
 
 **Imports**<br>
-$300 million (2020 est.) note: data are in current year dollars<br>
-$330 million (2019 est.) note: data are in current year dollars<br>
-$320 million (2018 est.) note: data are in current year dollars<br>
+$285.675 million (2021 est.) note: data are in current year dollars<br>
+$309.685 million (2020 est.) note: data are in current year dollars<br>
+$327.395 million (2019 est.) note: data are in current year dollars<br>
 
 **Imports - partners**<br>
 Fiji 29%, New Zealand 23%, China 14%, United States 8%, Australia 6%, Japan 6% (2019)<br>
@@ -500,8 +503,9 @@ Fiji 29%, New Zealand 23%, China 14%, United States 8%, Australia 6%, Japan 6% (
 refined petroleum, poultry meats, audio equipment, mutton, goat meat, broadcasting equipment (2019)<br>
 
 **Reserves of foreign exchange and gold**<br>
-$198.5 million (31 December 2017 est.)<br>
-$176.5 million (31 December 2016 est.)<br>
+$361.812 million (31 December 2021 est.)<br>
+$298.948 million (31 December 2020 est.)<br>
+$218.448 million (31 December 2019 est.)<br>
 
 **Debt - external**<br>
 $189.9 million (31 December 2017 est.)<br>
@@ -509,11 +513,11 @@ $198.2 million (31 December 2016 est.)<br>
 
 **Exchange rates**<br>
 _Currency_: pa'anga (TOP) per US dollar -<br>
-2.27015 (2020 est.)<br>
-2.29095 (2019 est.)<br>
-2.22717 (2018 est.)<br>
-2.106 (2014 est.)<br>
-1.847 (2013 est.)<br>
+2.265 (2021 est.)<br>
+2.3 (2020 est.)<br>
+2.289 (2019 est.)<br>
+2.237 (2018 est.)<br>
+2.206 (2017 est.)<br>
 
 ## Energy
 

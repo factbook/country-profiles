@@ -158,7 +158,7 @@ _female_: 76.15 years (2022 est.)<br>
 2.13 children born/woman (2022 est.)<br>
 
 **Gross reproduction rate**<br>
-1.05 (2022 est.)<br>
+1.04 (2023 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 55.8% (2018)<br>
@@ -206,11 +206,11 @@ _total_: 11.4% (2020 est.)<br>
 _male_: 17.3% (2020 est.)<br>
 _female_: 5.4% (2020 est.)<br>
 
-**Currently married women (ages 15-49)**<br>
-46.6% (2022 est.)<br>
-
 **Children under the age of 5 years underweight**<br>
 NA<br>
+
+**Currently married women (ages 15-49)**<br>
+46.9% (2023 est.)<br>
 
 **Education expenditures**<br>
 7.6% of GDP (2020 est.)<br>
@@ -227,9 +227,9 @@ _male_: 12 years<br>
 _female_: 13 years (2018)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 50.4%<br>
-_male_: 41.4%<br>
-_female_: 65.3% (2019)<br>
+_total_: 34.3%<br>
+_male_: 29.9%<br>
+_female_: 40.7% (2021 est.)<br>
 
 ## Environment
 
@@ -384,29 +384,29 @@ _selected World Heritage Site locales_: Cidade Velha; Historic Center of Ribeira
 <p>Cabo Verde’s economy depends on development aid, foreign investment, remittances, and tourism. The economy is service-oriented with commerce, transport, tourism, and public services accounting for about three-fourths of GDP. Tourism is the mainstay of the economy and depends on conditions in the euro-zone countries. Cabo Verde annually runs a high trade deficit financed by foreign aid and remittances from its large pool of emigrants; remittances as a share of GDP are one of the highest in Sub-Saharan Africa.</p> <p> </p> <p>Although about 40% of the population lives in rural areas, the share of food production in GDP is low. The island economy suffers from a poor natural resource base, including serious water shortages, exacerbated by cycles of long-term drought, and poor soil for growing food on several of the islands, requiring it to import most of what it consumes. The fishing potential, mostly lobster and tuna, is not fully exploited.</p> <p> </p> <p>Economic reforms are aimed at developing the private sector and attracting foreign investment to diversify the economy and mitigate high unemployment. The government’s elevated debt levels have limited its capacity to finance any shortfalls.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
-$3.36 billion (2020 est.)<br>
-$3.94 billion (2019 est.)<br>
-$3.73 billion (2018 est.)<br>
+$3.595 billion (2021 est.)<br>
+$3.361 billion (2020 est.)<br>
+$3.944 billion (2019 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
-4% (2017 est.)<br>
-4.7% (2016 est.)<br>
-1% (2015 est.)<br>
+6.95% (2021 est.)<br>
+-14.78% (2020 est.)<br>
+5.67% (2019 est.)<br>
 
 **Real GDP per capita**<br>
-$6,000 (2020 est.)<br>
-$7,200 (2019 est.)<br>
-$6,900 (2018 est.)<br>
+$6,100 (2021 est.)<br>
+$5,800 (2020 est.)<br>
+$6,800 (2019 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
 $1.971 billion (2019 est.)<br>
 
 **Inflation rate (consumer prices)**<br>
-1.1% (2019 est.)<br>
-1.2% (2018 est.)<br>
-0.7% (2017 est.)<br>
+1.86% (2021 est.)<br>
+0.61% (2020 est.)<br>
+1.11% (2019 est.)<br>
 
 **Credit ratings**<br>
 _Fitch rating_: B- (2020)<br>
@@ -433,19 +433,20 @@ sugar cane, tomatoes, bananas, cabbages, coconuts, cassava, pulses, vegetables, 
 food and beverages, fish processing, shoes and garments, salt mining, ship repair<br>
 
 **Industrial production growth rate**<br>
-2.9% (2017 est.)<br>
+11.76% (2021 est.)<br>
 
 **Labor force**<br>
-196,100 (2007 est.)<br>
+234,300 (2021 est.)<br>
 
 **Unemployment rate**<br>
-9% (2017 est.)<br>
-9% (2016 est.)<br>
+15.42% (2021 est.)<br>
+15.31% (2020 est.)<br>
+12.22% (2019 est.)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 50.4%<br>
-_male_: 41.4%<br>
-_female_: 65.3% (2019)<br>
+_total_: 34.3%<br>
+_male_: 29.9%<br>
+_female_: 40.7% (2021 est.)<br>
 
 **Population below poverty line**<br>
 35% (2015 est.)<br>
@@ -469,19 +470,20 @@ _expenditures_: 546.7 million (2017 est.)<br>
 127.6% of GDP (2016 est.)<br>
 
 **Taxes and other revenues**<br>
-27.8% (of GDP) (2017 est.)<br>
+20.09% (of GDP) (2017 est.)<br>
 
 **Fiscal year**<br>
 calendar year<br>
 
 **Current account balance**<br>
--$109 million (2017 est.)<br>
--$40 million (2016 est.)<br>
+-$256.181 million (2021 est.)<br>
+-$284.109 million (2020 est.)<br>
+$6.477 million (2019 est.)<br>
 
 **Exports**<br>
-$420 million (2020 est.)<br>
-$1 billion (2019 est.)<br>
-$960 million (2018 est.)<br>
+$459.923 million (2021 est.)<br>
+$415.242 million (2020 est.)<br>
+$1.006 billion (2019 est.)<br>
 <strong>note:</strong> Data are in current year dollars and do not include illicit exports or re-exports.<br>
 
 **Exports - partners**<br>
@@ -491,9 +493,9 @@ Spain 65%, Portugal 14%, Italy 8% (2019)<br>
 processed and frozen fish, mollusks, clothing, scrap iron (2019)<br>
 
 **Imports**<br>
-$1.02 billion (2020 est.) note: data are in current year dollars<br>
-$1.29 billion (2019 est.) note: data are in current year dollars<br>
-$1.34 billion (2018 est.) note: data are in current year dollars<br>
+$1.117 billion (2021 est.) note: data are in current year dollars<br>
+$1.008 billion (2020 est.) note: data are in current year dollars<br>
+$1.287 billion (2019 est.) note: data are in current year dollars<br>
 
 **Imports - partners**<br>
 Portugal 36%, Netherlands 16%, Spain 11%, China 6% (2019)<br>
@@ -502,8 +504,9 @@ Portugal 36%, Netherlands 16%, Spain 11%, China 6% (2019)<br>
 refined petroleum, delivery trucks, coal tar oil, cars, rice (2019)<br>
 
 **Reserves of foreign exchange and gold**<br>
-$617.4 million (31 December 2017 est.)<br>
-$572.7 million (31 December 2016 est.)<br>
+$769.65 million (31 December 2021 est.)<br>
+$735.085 million (31 December 2020 est.)<br>
+$737.991 million (31 December 2019 est.)<br>
 
 **Debt - external**<br>
 $1.713 billion (31 December 2017 est.)<br>
@@ -511,11 +514,11 @@ $1.688 billion (31 December 2016 est.)<br>
 
 **Exchange rates**<br>
 _Currency_: Cabo Verdean escudos (CVE) per US dollar -<br>
-101.8 (2017 est.)<br>
-99.688 (2016 est.)<br>
-99.688 (2015 est.)<br>
-99.426 (2014 est.)<br>
-83.114 (2013 est.)<br>
+93.218 (2021 est.)<br>
+96.796 (2020 est.)<br>
+98.495 (2019 est.)<br>
+93.414 (2018 est.)<br>
+97.807 (2017 est.)<br>
 
 ## Energy
 

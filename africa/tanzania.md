@@ -175,7 +175,7 @@ _female_: 72.02 years (2022 est.)<br>
 4.39 children born/woman (2022 est.)<br>
 
 **Gross reproduction rate**<br>
-2.16 (2022 est.)<br>
+2.13 (2023 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 38.4% (2015/16)<br>
@@ -230,11 +230,11 @@ _total_: 8.7% (2020 est.)<br>
 _male_: 14% (2020 est.)<br>
 _female_: 3.4% (2020 est.)<br>
 
-**Currently married women (ages 15-49)**<br>
-59.9% (2022 est.)<br>
-
 **Children under the age of 5 years underweight**<br>
 14.6% (2018)<br>
+
+**Currently married women (ages 15-49)**<br>
+59.5% (2023 est.)<br>
 
 **Child marriage**<br>
 _women married by age 15_: 5.2%<br>
@@ -256,9 +256,9 @@ _male_: 9 years<br>
 _female_: 9 years (2021)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 3.9%<br>
-_male_: 2.9%<br>
-_female_: 4.9% (2020 est.)<br>
+_total_: 4.6%<br>
+_male_: 3.7%<br>
+_female_: 5.5% (2021 est.)<br>
 
 ## Environment
 
@@ -433,29 +433,29 @@ _selected World Heritage Site locales_: Ngorongoro Conservation Area (m); Ruins 
 <p>Tanzania has achieved high growth rates based on its vast natural resource wealth and tourism with GDP growth in 2009-17 averaging 6%-7% per year. Dar es Salaam used fiscal stimulus measures and easier monetary policies to lessen the impact of the global recession and in general, benefited from low oil prices. Tanzania has largely completed its transition to a market economy, though the government retains a presence in sectors such as telecommunications, banking, energy, and mining.</p> <p> </p> <p>The economy depends on agriculture, which accounts for slightly less than one-quarter of GDP and employs about 65% of the work force, although gold production in recent years has increased to about 35% of exports. All land in Tanzania is owned by the government, which can lease land for up to 99 years. Proposed reforms to allow for land ownership, particularly foreign land ownership, remain unpopular.</p> <p> </p> <p>The financial sector in Tanzania has expanded in recent years and foreign-owned banks account for about 48% of the banking industry's total assets. Competition among foreign commercial banks has resulted in significant improvements in the efficiency and quality of financial services, though interest rates are still relatively high, reflecting high fraud risk. Banking reforms have helped increase private-sector growth and investment.</p> <p> </p> <p>The World Bank, the IMF, and bilateral donors have provided funds to rehabilitate Tanzania's aging infrastructure, including rail and port, which provide important trade links for inland countries. In 2013, Tanzania completed the world's largest Millennium Challenge Compact (MCC) grant, worth $698 million, but in late 2015, the MCC Board of Directors deferred a decision to renew Tanzania’s eligibility because of irregularities in voting in Zanzibar and concerns over the government's use of a controversial cybercrime bill.</p> <p> </p> <p>The new government elected in 2015 has developed an ambitious development agenda focused on creating a better business environment through improved infrastructure, access to financing, and education progress, but implementing budgets remains challenging for the government. Recent policy moves by President MAGUFULI are aimed at protecting domestic industry and have caused concern among foreign investors.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
-$152.79 billion (2020 est.)<br>
-$149.79 billion (2019 est.)<br>
-$141.59 billion (2018 est.)<br>
+$159.326 billion (2021 est.)<br>
+$152.788 billion (2020 est.)<br>
+$149.798 billion (2019 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
-6.98% (2019 est.)<br>
-6.95% (2018 est.)<br>
-6.78% (2017 est.)<br>
+4.28% (2021 est.)<br>
+2% (2020 est.)<br>
+5.8% (2019 est.)<br>
 
 **Real GDP per capita**<br>
+$2,600 (2021 est.)<br>
 $2,600 (2020 est.)<br>
-$2,700 (2019 est.)<br>
-$2,600 (2018 est.)<br>
+$2,600 (2019 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
 $60.633 billion (2019 est.)<br>
 
 **Inflation rate (consumer prices)**<br>
-3.4% (2019 est.)<br>
-3.5% (2018 est.)<br>
-5.3% (2017 est.)<br>
+3.69% (2021 est.)<br>
+3.29% (2020 est.)<br>
+3.46% (2019 est.)<br>
 
 **Credit ratings**<br>
 _Moody's rating_: B2 (2020)<br>
@@ -481,10 +481,10 @@ cassava, maize, sweet potatoes, sugar cane, rice, bananas, vegetables, milk, bea
 agricultural processing (sugar, beer, cigarettes, sisal twine); mining (diamonds, gold, and iron), salt, soda ash; cement, oil refining, shoes, apparel, wood products, fertilizer<br>
 
 **Industrial production growth rate**<br>
-12% (2017 est.)<br>
+6.5% (2021 est.)<br>
 
 **Labor force**<br>
-24.89 million (2017 est.)<br>
+29.863 million (2021 est.)<br>
 
 **Labor force - by occupation**<br>
 _agriculture_: 66.9%<br>
@@ -492,19 +492,20 @@ _industry_: 6.4%<br>
 _services_: 26.6% (2014 est.)<br>
 
 **Unemployment rate**<br>
-10.3% (2014 est.)<br>
+2.65% (2021 est.)<br>
+2.53% (2020 est.)<br>
+2.22% (2019 est.)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 3.9%<br>
-_male_: 2.9%<br>
-_female_: 4.9% (2020 est.)<br>
+_total_: 4.6%<br>
+_male_: 3.7%<br>
+_female_: 5.5% (2021 est.)<br>
 
 **Population below poverty line**<br>
 26.4% (2017 est.)<br>
 
 **Gini Index coefficient - distribution of family income**<br>
 40.5 (2017 est.)<br>
-34.6 (2000)<br>
 
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 2.8%<br>
@@ -522,18 +523,20 @@ _expenditures_: 8.818 billion (2017 est.)<br>
 38% of GDP (2016 est.)<br>
 
 **Taxes and other revenues**<br>
-15.2% (of GDP) (2017 est.)<br>
+11.7% (of GDP) (2018 est.)<br>
 
 **Fiscal year**<br>
 1 July - 30 June<br>
 
 **Current account balance**<br>
--$1.313 billion (2019 est.)<br>
--$1.898 billion (2018 est.)<br>
+-$1.122 billion (2020 est.)<br>
+-$1.512 billion (2019 est.)<br>
+-$2.262 billion (2018 est.)<br>
 
 **Exports**<br>
-$9.66 billion (2019 est.) note: data are in current year dollars<br>
-$8.46 billion (2018 est.) note: data are in current year dollars<br>
+$8.555 billion (2020 est.) note: data are in current year dollars<br>
+$9.659 billion (2019 est.) note: data are in current year dollars<br>
+$8.307 billion (2018 est.)<br>
 
 **Exports - partners**<br>
 India 20%, United Arab Emirates 13%, China 8%, Switzerland 7%, Rwanda 6%, Kenya 5%, Vietnam 5% (2019)<br>
@@ -542,8 +545,9 @@ India 20%, United Arab Emirates 13%, China 8%, Switzerland 7%, Rwanda 6%, Kenya 
 gold, tobacco, cashews, sesame seeds, refined petroleum (2019)<br>
 
 **Imports**<br>
-$10.36 billion (2019 est.) note: data are in current year dollars<br>
-$10.2 billion (2018 est.) note: data are in current year dollars<br>
+$9.181 billion (2020 est.) note: data are in current year dollars<br>
+$10.576 billion (2019 est.) note: data are in current year dollars<br>
+$10.399 billion (2018 est.)<br>
 
 **Imports - partners**<br>
 China 34%, India 15%, United Arab Emirates 12% (2019)<br>
@@ -552,7 +556,8 @@ China 34%, India 15%, United Arab Emirates 12% (2019)<br>
 refined petroleum, palm oil, packaged medicines, cars, wheat (2019)<br>
 
 **Reserves of foreign exchange and gold**<br>
-$5.301 billion (31 December 2017 est.)<br>
+$5.05 billion (31 December 2018 est.)<br>
+$5.888 billion (31 December 2017 est.)<br>
 $4.067 billion (31 December 2016 est.)<br>
 <strong>note:</strong> excludes gold<br>
 
@@ -562,11 +567,11 @@ $20.569 billion (2018 est.)<br>
 
 **Exchange rates**<br>
 _Currency_: Tanzanian shillings (TZS) per US dollar -<br>
-2,319 (2020 est.)<br>
-2,300 (2019 est.)<br>
-2,299.155 (2018 est.)<br>
-1,989.7 (2014 est.)<br>
-1,654 (2013 est.)<br>
+2,297.764 (2021 est.)<br>
+2,294.146 (2020 est.)<br>
+2,288.207 (2019 est.)<br>
+2,263.782 (2018 est.)<br>
+2,228.857 (2017 est.)<br>
 
 ## Energy
 

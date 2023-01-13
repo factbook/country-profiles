@@ -166,7 +166,7 @@ _female_: 73.17 years (2022 est.)<br>
 1.9 children born/woman (2022 est.)<br>
 
 **Gross reproduction rate**<br>
-0.92 (2022 est.)<br>
+0.91 (2023 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 46.7% (2019)<br>
@@ -219,11 +219,11 @@ _total_: 30.4% (2020 est.)<br>
 _male_: 47.9% (2020 est.)<br>
 _female_: 12.8% (2020 est.)<br>
 
-**Currently married women (ages 15-49)**<br>
-74.4% (2022 est.)<br>
-
 **Children under the age of 5 years underweight**<br>
 24.4% (2019)<br>
+
+**Currently married women (ages 15-49)**<br>
+74.6% (2023 est.)<br>
 
 **Child marriage**<br>
 _women married by age 15_: 7.9%<br>
@@ -245,9 +245,9 @@ _male_: 13 years<br>
 _female_: 13 years (2020)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 20.5%<br>
-_male_: 19.2%<br>
-_female_: 22.5% (2017 est.)<br>
+_total_: 9.5%<br>
+_male_: 10.6%<br>
+_female_: 8.6% (2021 est.)<br>
 
 ## Environment
 
@@ -413,28 +413,29 @@ _selected World Heritage Site locales_: Kathmandu Valley (c); Sagarmatha Nationa
 <p>Nepal is among the least developed countries in the world, with about one-quarter of its population living below the poverty line. Nepal is heavily dependent on remittances, which amount to as much as 30% of GDP. Agriculture is the mainstay of the economy, providing a livelihood for almost two-thirds of the population but accounting for less than a third of GDP. Industrial activity mainly involves the processing of agricultural products, including pulses, jute, sugarcane, tobacco, and grain.</p> <p> </p> <p>Nepal has considerable scope for exploiting its potential in hydropower, with an estimated 42,000 MW of commercially feasible capacity. Nepal has signed trade and investment agreements with India, China, and other countries, but political uncertainty and a difficult business climate have hampered foreign investment. The United States and Nepal signed a $500 million Millennium Challenge Corporation Compact in September 2017 which will expand Nepal’s electricity infrastructure and help maintain transportation infrastructure.</p> <p> </p> <p>Massive earthquakes struck Nepal in early 2015, which damaged or destroyed infrastructure and homes and set back economic development. Although political gridlock and lack of capacity have hindered post-earthquake recovery, government-led reconstruction efforts have progressively picked up speed, although many hard hit areas still have seen little assistance. Additional challenges to Nepal's growth include its landlocked geographic location, inconsistent electricity supply, and underdeveloped transportation infrastructure.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
-$110.72 billion (2020 est.)<br>
-$113.08 billion (2019 est.)<br>
-$106.03 billion (2018 est.)<br>
+$115.093 billion (2021 est.)<br>
+$110.404 billion (2020 est.)<br>
+$113.083 billion (2019 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
-7.9% (2017 est.)<br>
-0.6% (2016 est.)<br>
-3.3% (2015 est.)<br>
+4.25% (2021 est.)<br>
+-2.37% (2020 est.)<br>
+6.66% (2019 est.)<br>
 
 **Real GDP per capita**<br>
+$3,800 (2021 est.)<br>
 $3,800 (2020 est.)<br>
-$4,000 (2019 est.)<br>
-$3,800 (2018 est.)<br>
+$3,900 (2019 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
 $24.88 billion (2017 est.)<br>
 
 **Inflation rate (consumer prices)**<br>
-4.5% (2017 est.)<br>
-9.9% (2016 est.)<br>
+4.09% (2021 est.)<br>
+5.05% (2020 est.)<br>
+5.57% (2019 est.)<br>
 
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 27% (2017 est.)<br>
@@ -456,10 +457,10 @@ rice, vegetables, sugar cane, potatoes, maize, wheat, buffalo milk, milk, fruit,
 tourism, carpets, textiles; small rice, jute, sugar, and oilseed mills; cigarettes, cement and brick production<br>
 
 **Industrial production growth rate**<br>
-12.4% (2017 est.)<br>
+4.51% (2021 est.)<br>
 
 **Labor force**<br>
-16.81 million (2017 est.)<br>
+16.884 million (2021 est.)<br>
 <strong>note:</strong> severe lack of skilled labor<br>
 
 **Labor force - by occupation**<br>
@@ -468,20 +469,20 @@ _industry_: 12%<br>
 _services_: 19% (2015 est.)<br>
 
 **Unemployment rate**<br>
-3% (2017 est.)<br>
-3.2% (2016 est.)<br>
+5.05% (2021 est.)<br>
+4.72% (2020 est.)<br>
+3.1% (2019 est.)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 20.5%<br>
-_male_: 19.2%<br>
-_female_: 22.5% (2017 est.)<br>
+_total_: 9.5%<br>
+_male_: 10.6%<br>
+_female_: 8.6% (2021 est.)<br>
 
 **Population below poverty line**<br>
 25.2% (2011 est.)<br>
 
 **Gini Index coefficient - distribution of family income**<br>
 32.8 (2010 est.)<br>
-47.2 (2008 est.)<br>
 
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 3.2%<br>
@@ -495,23 +496,24 @@ _expenditures_: 5.945 billion (2017 est.)<br>
 -0.1% (of GDP) (2017 est.)<br>
 
 **Public debt**<br>
-26.4% of GDP (2017 est.)<br>
-27.9% of GDP (2016 est.)<br>
+39.05% of GDP (2020 est.)<br>
+31.78% of GDP (2019 est.)<br>
 
 **Taxes and other revenues**<br>
-23.8% (of GDP) (2017 est.)<br>
+15.77% (of GDP) (2020 est.)<br>
 
 **Fiscal year**<br>
 16 July - 15 July<br>
 
 **Current account balance**<br>
--$93 million (2017 est.)<br>
-$1.339 billion (2016 est.)<br>
+-$5.363 billion (2021 est.)<br>
+-$84.137 million (2020 est.)<br>
+-$1.754 billion (2019 est.)<br>
 
 **Exports**<br>
-$1.79 billion (2020 est.) note: data are in current year dollars<br>
-$2.73 billion (2019 est.) note: data are in current year dollars<br>
-$2.68 billion (2018 est.) note: data are in current year dollars<br>
+$2.52 billion (2021 est.) note: data are in current year dollars<br>
+$1.771 billion (2020 est.) note: data are in current year dollars<br>
+$2.726 billion (2019 est.) note: data are in current year dollars<br>
 
 **Exports - partners**<br>
 India 68%, United States 10% (2019)<br>
@@ -520,9 +522,9 @@ India 68%, United States 10% (2019)<br>
 palm oil, clothing and apparel, carpets, soybean oil, flavored water (2019)<br>
 
 **Imports**<br>
-$10.68 billion (2020 est.) note: data are in current year dollars<br>
-$13.83 billion (2019 est.) note: data are in current year dollars<br>
-$14.65 billion (2018 est.) note: data are in current year dollars<br>
+$16.993 billion (2021 est.) note: data are in current year dollars<br>
+$10.694 billion (2020 est.) note: data are in current year dollars<br>
+$13.836 billion (2019 est.) note: data are in current year dollars<br>
 
 **Imports - partners**<br>
 India 70%, China 15% (2019)<br>
@@ -531,8 +533,9 @@ India 70%, China 15% (2019)<br>
 refined petroleum, iron, broadcasting equipment, natural gas, rice (2019)<br>
 
 **Reserves of foreign exchange and gold**<br>
-$9.091 billion (31 December 2017 est.)<br>
-$8.506 billion (31 December 2016 est.)<br>
+$9.661 billion (31 December 2021 est.)<br>
+$11.468 billion (31 December 2020 est.)<br>
+$8.713 billion (31 December 2019 est.)<br>
 
 **Debt - external**<br>
 $5.849 billion (31 December 2017 est.)<br>
@@ -540,11 +543,11 @@ $4.321 billion (31 December 2016 est.)<br>
 
 **Exchange rates**<br>
 _Currency_: Nepalese rupees (NPR) per US dollar -<br>
-104 (2017 est.)<br>
-107.38 (2016 est.)<br>
-107.38 (2015 est.)<br>
-102.41 (2014 est.)<br>
-99.53 (2013 est.)<br>
+118.134 (2021 est.)<br>
+118.345 (2020 est.)<br>
+112.609 (2019 est.)<br>
+108.93 (2018 est.)<br>
+104.512 (2017 est.)<br>
 
 ## Energy
 
@@ -716,7 +719,7 @@ Indian Mujahedeen<br>
 <p><em>Nepal-China</em>: China may have constructed 11 buildings in Nepal’s Humla region in 2021</p> <p><em>Nepal-India</em>: joint border commission continues to work on contested sections of boundary with India, including the 400 sq km dispute over the source of the Kalapani River; the Kalapani issue resurfaced in November 2019 when India issued a new map showing the contested area within India’s borders and then built a new road in the region through Lipulekh pass, an area controlled by India but claimed by Nepal; Nepal countered by amending its constitution and issuing its own map showing the disputed area within its borders; the countries prime ministers briefly discussed the border dispute in April 2022; India has instituted a stricter border regime to restrict transit of illegal cross-border activities</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 12,540 (Tibet/China), 6,365 (Bhutan) (mid-year 2021)<br>
+_refugees (country of origin)_: 12,540 (Tibet/China), 6,365 (Bhutan) (mid-year 2022)<br>
 _stateless persons_: undetermined (mid-year 2021)<br>
 
 **Illicit drugs**<br>

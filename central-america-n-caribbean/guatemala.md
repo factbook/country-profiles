@@ -167,7 +167,7 @@ _female_: 75.04 years (2022 est.)<br>
 2.62 children born/woman (2022 est.)<br>
 
 **Gross reproduction rate**<br>
-1.28 (2022 est.)<br>
+1.25 (2023 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 60.6% (2014/15)<br>
@@ -220,11 +220,11 @@ _total_: 10.9% (2020 est.)<br>
 _male_: 20.1% (2020 est.)<br>
 _female_: 1.6% (2020 est.)<br>
 
-**Currently married women (ages 15-49)**<br>
-57.3% (2022 est.)<br>
-
 **Children under the age of 5 years underweight**<br>
 12.4% (2014/15)<br>
+
+**Currently married women (ages 15-49)**<br>
+57.2% (2023 est.)<br>
 
 **Education expenditures**<br>
 3.1% of GDP (2021 est.)<br>
@@ -241,9 +241,9 @@ _male_: 11 years<br>
 _female_: 10 years (2019)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 4.6%<br>
-_male_: 4%<br>
-_female_: 5.7% (2019 est.)<br>
+_total_: 7.2%<br>
+_male_: 6.3%<br>
+_female_: 9.4% (2021 est.)<br>
 
 ## Environment
 
@@ -407,29 +407,29 @@ _selected World Heritage Site locales_: Antigua Guatemala (c); Tikal National Pa
 <p>Guatemala is the most populous country in Central America with a GDP per capita roughly half the average for Latin America and the Caribbean. The agricultural sector accounts for 13.5% of GDP and 31% of the labor force; key agricultural exports include sugar, coffee, bananas, and vegetables. Guatemala is the top remittance recipient in Central America as a result of Guatemala's large expatriate community in the US. These inflows are a primary source of foreign income, equivalent to two-thirds of the country's exports and about a tenth of its GDP.</p> <p> </p> <p>The 1996 peace accords, which ended 36 years of civil war, removed a major obstacle to foreign investment, and Guatemala has since pursued important reforms and macroeconomic stabilization. The Dominican Republic-Central America Free Trade Agreement (CAFTA-DR) entered into force in July 2006, spurring increased investment and diversification of exports, with the largest increases in ethanol and non-traditional agricultural exports. While CAFTA-DR has helped improve the investment climate, concerns over security, the lack of skilled workers, and poor infrastructure continue to hamper foreign direct investment.</p> <p> </p> <p>The distribution of income remains highly unequal with the richest 20% of the population accounting for more than 51% of Guatemala's overall consumption. More than half of the population is below the national poverty line, and 23% of the population lives in extreme poverty. Poverty among indigenous groups, which make up more than 40% of the population, averages 79%, with 40% of the indigenous population living in extreme poverty. Nearly one-half of Guatemala's children under age five are chronically malnourished, one of the highest malnutrition rates in the world.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
-$141.5 billion (2020 est.)<br>
-$143.68 billion (2019 est.)<br>
-$138.33 billion (2018 est.)<br>
+$152.734 billion (2021 est.)<br>
+$141.445 billion (2020 est.)<br>
+$143.985 billion (2019 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
-2.8% (2017 est.)<br>
-3.1% (2016 est.)<br>
-4.1% (2015 est.)<br>
+7.98% (2021 est.)<br>
+-1.76% (2020 est.)<br>
+4% (2019 est.)<br>
 
 **Real GDP per capita**<br>
+$8,900 (2021 est.)<br>
 $8,400 (2020 est.)<br>
 $8,700 (2019 est.)<br>
-$8,500 (2018 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
 $76.678 billion (2019 est.)<br>
 
 **Inflation rate (consumer prices)**<br>
+4.26% (2021 est.)<br>
+3.21% (2020 est.)<br>
 3.7% (2019 est.)<br>
-3.7% (2018 est.)<br>
-4.4% (2017 est.)<br>
 
 **Credit ratings**<br>
 _Fitch rating_: BB- (2020)<br>
@@ -457,10 +457,10 @@ sugar cane, bananas, oil palm fruit, maize, melons, potatoes, milk, plantains, p
 sugar, textiles and clothing, furniture, chemicals, petroleum, metals, rubber, tourism<br>
 
 **Industrial production growth rate**<br>
-1.8% (2017 est.)<br>
+8.49% (2021 est.)<br>
 
 **Labor force**<br>
-6.664 million (2017 est.)<br>
+6.671 million (2021 est.)<br>
 
 **Labor force - by occupation**<br>
 _agriculture_: 31.4%<br>
@@ -468,20 +468,20 @@ _industry_: 12.8%<br>
 _services_: 55.8% (2017 est.)<br>
 
 **Unemployment rate**<br>
-2.3% (2017 est.)<br>
-2.4% (2016 est.)<br>
+3.57% (2021 est.)<br>
+3.55% (2020 est.)<br>
+2.19% (2019 est.)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 4.6%<br>
-_male_: 4%<br>
-_female_: 5.7% (2019 est.)<br>
+_total_: 7.2%<br>
+_male_: 6.3%<br>
+_female_: 9.4% (2021 est.)<br>
 
 **Population below poverty line**<br>
 59.3% (2014 est.)<br>
 
 **Gini Index coefficient - distribution of family income**<br>
 48.3 (2014 est.)<br>
-56 (2011)<br>
 
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 1.6%<br>
@@ -495,23 +495,25 @@ _expenditures_: 9.156 billion (2017 est.)<br>
 -1.3% (of GDP) (2017 est.)<br>
 
 **Public debt**<br>
-24.7% of GDP (2017 est.)<br>
-24.5% of GDP (2016 est.)<br>
+31.56% of GDP (2020 est.)<br>
+26.49% of GDP (2019 est.)<br>
+26.48% of GDP (2018 est.)<br>
 
 **Taxes and other revenues**<br>
-10.8% (of GDP) (2017 est.)<br>
+9.97% (of GDP) (2020 est.)<br>
 
 **Fiscal year**<br>
 calendar year<br>
 
 **Current account balance**<br>
-$1.134 billion (2017 est.)<br>
-$1.023 billion (2016 est.)<br>
+$2.113 billion (2021 est.)<br>
+$3.918 billion (2020 est.)<br>
+$1.821 billion (2019 est.)<br>
 
 **Exports**<br>
-$13.12 billion (2020 est.) note: data are in current year dollars<br>
-$13.6 billion (2019 est.) note: data are in current year dollars<br>
-$13.35 billion (2018 est.) note: data are in current year dollars<br>
+$15.318 billion (2021 est.) note: data are in current year dollars<br>
+$12.713 billion (2020 est.) note: data are in current year dollars<br>
+$13.598 billion (2019 est.) note: data are in current year dollars<br>
 
 **Exports - partners**<br>
 United States 33%, El Salvador 12%, Honduras 8%, Mexico 5%, Nicaragua 5% (2019)<br>
@@ -520,9 +522,9 @@ United States 33%, El Salvador 12%, Honduras 8%, Mexico 5%, Nicaragua 5% (2019)<
 bananas, raw sugar, coffee, cardamom, palm oil (2019)<br>
 
 **Imports**<br>
-$19.3 billion (2020 est.) note: data are in current year dollars<br>
-$21.52 billion (2019 est.) note: data are in current year dollars<br>
-$21.17 billion (2018 est.) note: data are in current year dollars<br>
+$27.388 billion (2021 est.) note: data are in current year dollars<br>
+$19.267 billion (2020 est.) note: data are in current year dollars<br>
+$21.527 billion (2019 est.) note: data are in current year dollars<br>
 
 **Imports - partners**<br>
 United States 36%, China 12%, Mexico 11%, El Salvador 5% (2019)<br>
@@ -531,8 +533,9 @@ United States 36%, China 12%, Mexico 11%, El Salvador 5% (2019)<br>
 refined petroleum, broadcasting equipment, packaged medicines, cars, delivery trucks (2019)<br>
 
 **Reserves of foreign exchange and gold**<br>
-$11.77 billion (31 December 2017 est.)<br>
-$9.156 billion (31 December 2016 est.)<br>
+$20.935 billion (31 December 2021 est.)<br>
+$18.464 billion (31 December 2020 est.)<br>
+$14.784 billion (31 December 2019 est.)<br>
 
 **Debt - external**<br>
 $22.92 billion (31 December 2017 est.)<br>
@@ -540,11 +543,11 @@ $21.45 billion (31 December 2016 est.)<br>
 
 **Exchange rates**<br>
 _Currency_: quetzales (GTQ) per US dollar -<br>
-7.323 (2017 est.)<br>
-7.5999 (2016 est.)<br>
-7.5999 (2015 est.)<br>
-7.6548 (2014 est.)<br>
-7.7322 (2013 est.)<br>
+7.734 (2021 est.)<br>
+7.722 (2020 est.)<br>
+7.697 (2019 est.)<br>
+7.519 (2018 est.)<br>
+7.348 (2017 est.)<br>
 
 ## Energy
 

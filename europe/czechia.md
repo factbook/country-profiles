@@ -165,7 +165,7 @@ _female_: 82.82 years (2022 est.)<br>
 1.49 children born/woman (2022 est.)<br>
 
 **Gross reproduction rate**<br>
-0.73 (2022 est.)<br>
+0.73 (2023 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 NA<br>
@@ -213,11 +213,11 @@ _total_: 30.7% (2020 est.)<br>
 _male_: 35% (2020 est.)<br>
 _female_: 26.4% (2020 est.)<br>
 
-**Currently married women (ages 15-49)**<br>
-49.1% (2022 est.)<br>
-
 **Children under the age of 5 years underweight**<br>
 NA<br>
+
+**Currently married women (ages 15-49)**<br>
+48.4% (2023 est.)<br>
 
 **Education expenditures**<br>
 5.1% of GDP (2020 est.)<br>
@@ -234,9 +234,9 @@ _male_: 16 years<br>
 _female_: 17 years (2020)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 8.2%<br>
-_male_: 7.6%<br>
-_female_: 9.1% (2021 est.)<br>
+_total_: 7.6%<br>
+_male_: 6.9%<br>
+_female_: 8.7% (2021 est.)<br>
 
 ## Environment
 
@@ -400,29 +400,29 @@ _selected World Heritage Site locales_: Historic Prague; Historic Telč; Histori
 <p>Czechia is a prosperous market economy that boasts one of the highest GDP growth rates and lowest unemployment levels in the EU, but its dependence on exports makes economic growth vulnerable to contractions in external demand. Czechia’s exports comprise some 80% of GDP and largely consist of automobiles, the country’s single largest industry. Czechia acceded to the EU in 2004 but has yet to join the euro-zone. While the flexible koruna helps Czechia weather external shocks, it was one of the world’s strongest performing currencies in 2017, appreciating approximately 16% relative to the US dollar after the central bank (Czech National Bank - CNB) ended its cap on the currency’s value in early April 2017, which it had maintained since November 2013. The CNB hiked rates in August and November 2017 - the first rate changes in nine years - to address rising inflationary pressures brought by strong economic growth and a tight labor market.</p> <p> </p> <p>Since coming to power in 2014, the new government has undertaken some reforms to try to reduce corruption, attract investment, and improve social welfare programs, which could help increase the government’s revenues and improve living conditions for Czechs. The government introduced in December 2016 an online tax reporting system intended to reduce tax evasion and increase revenues. The government also plans to remove labor market rigidities to improve the business climate, bring procurement procedures in line with EU best practices, and boost wages. The country's low unemployment rate has led to steady increases in salaries, and the government is facing pressure from businesses to allow greater migration of qualified workers, at least from Ukraine and neighboring Central European countries.</p> <p> </p> <p>Long-term challenges include dealing with a rapidly aging population, a shortage of skilled workers, a lagging education system, funding an unsustainable pension and health care system, and diversifying away from manufacturing and toward a more high-tech, services-based, knowledge economy.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
-$409.97 billion (2020 est.)<br>
-$434.31 billion (2019 est.)<br>
-$424.48 billion (2018 est.)<br>
+$428.016 billion (2021 est.)<br>
+$413.365 billion (2020 est.)<br>
+$437.437 billion (2019 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
-2.27% (2019 est.)<br>
-3.18% (2018 est.)<br>
-5.35% (2017 est.)<br>
+3.54% (2021 est.)<br>
+-5.5% (2020 est.)<br>
+3.03% (2019 est.)<br>
 
 **Real GDP per capita**<br>
-$38,300 (2020 est.)<br>
-$40,700 (2019 est.)<br>
-$39,900 (2018 est.)<br>
+$40,700 (2021 est.)<br>
+$38,600 (2020 est.)<br>
+$41,000 (2019 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
 $250.631 billion (2019 est.)<br>
 
 **Inflation rate (consumer prices)**<br>
-2.8% (2019 est.)<br>
-2.1% (2018 est.)<br>
-2.4% (2017 est.)<br>
+3.84% (2021 est.)<br>
+3.16% (2020 est.)<br>
+2.85% (2019 est.)<br>
 
 **Credit ratings**<br>
 _Fitch rating_: AA- (2018)<br>
@@ -450,10 +450,10 @@ wheat, sugar beet, milk, barley, rapeseed, potatoes, maize, pork, triticale, pou
 motor vehicles, metallurgy, machinery and equipment, glass, armaments<br>
 
 **Industrial production growth rate**<br>
-7.5% (2017 est.)<br>
+3.3% (2021 est.)<br>
 
 **Labor force**<br>
-5.222 million (2020 est.)<br>
+5.266 million (2021 est.)<br>
 
 **Labor force - by occupation**<br>
 _agriculture_: 2.8%<br>
@@ -461,20 +461,20 @@ _industry_: 38%<br>
 _services_: 59.2% (2015)<br>
 
 **Unemployment rate**<br>
-2.8% (2019 est.)<br>
-3.18% (2018 est.)<br>
+2.89% (2021 est.)<br>
+2.55% (2020 est.)<br>
+2.01% (2019 est.)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 8.2%<br>
-_male_: 7.6%<br>
-_female_: 9.1% (2021 est.)<br>
+_total_: 7.6%<br>
+_male_: 6.9%<br>
+_female_: 8.7% (2021 est.)<br>
 
 **Population below poverty line**<br>
 10.1% (2018 est.)<br>
 
 **Gini Index coefficient - distribution of family income**<br>
-24.9 (2017 est.)<br>
-25.1 (2014)<br>
+25.3 (2019 est.)<br>
 
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 4.1%<br>
@@ -492,19 +492,20 @@ _expenditures_: 83.92 billion (2017 est.)<br>
 36.8% of GDP (2016 est.)<br>
 
 **Taxes and other revenues**<br>
-40.5% (of GDP) (2017 est.)<br>
+14.34% (of GDP) (2020 est.)<br>
 
 **Fiscal year**<br>
 calendar year<br>
 
 **Current account balance**<br>
--$678 million (2019 est.)<br>
-$1.259 billion (2018 est.)<br>
+-$2.282 billion (2021 est.)<br>
+$4.967 billion (2020 est.)<br>
+$898.074 million (2019 est.)<br>
 
 **Exports**<br>
-$174.92 billion (2020 est.)<br>
-$186.54 billion (2019 est.)<br>
-$191.69 billion (2018 est.)<br>
+$204.785 billion (2021 est.)<br>
+$172.837 billion (2020 est.)<br>
+$186.545 billion (2019 est.)<br>
 <strong>note:</strong> Data are in current year dollars and do not include illicit exports or re-exports.<br>
 
 **Exports - partners**<br>
@@ -514,9 +515,9 @@ Germany 31%, Slovakia 7%, Poland 6%, France 5% (2019)<br>
 cars and vehicle parts, computers, broadcasting equipment, office machinery/parts, seating (2019)<br>
 
 **Imports**<br>
-$157.95 billion (2020 est.) note: data are in current year dollars<br>
-$171.43 billion (2019 est.) note: data are in current year dollars<br>
-$176.78 billion (2018 est.) note: data are in current year dollars<br>
+$196.243 billion (2021 est.) note: data are in current year dollars<br>
+$156.129 billion (2020 est.) note: data are in current year dollars<br>
+$171.429 billion (2019 est.) note: data are in current year dollars<br>
 
 **Imports - partners**<br>
 Germany 27%, China 12%, Poland 9%, Slovakia 5% (2019)<br>
@@ -525,8 +526,9 @@ Germany 27%, China 12%, Poland 9%, Slovakia 5% (2019)<br>
 broadcasting equipment, cars and vehicle parts, office machinery/parts, computers, packaged medicines (2019)<br>
 
 **Reserves of foreign exchange and gold**<br>
-$148 billion (31 December 2017 est.)<br>
-$85.73 billion (31 December 2016 est.)<br>
+$173.618 billion (31 December 2021 est.)<br>
+$166.126 billion (31 December 2020 est.)<br>
+$149.856 billion (31 December 2019 est.)<br>
 
 **Debt - external**<br>
 $191.871 billion (2019 est.)<br>
@@ -534,11 +536,11 @@ $200.197 billion (2018 est.)<br>
 
 **Exchange rates**<br>
 _Currency_: koruny (CZK) per US dollar -<br>
-21.76636 (2020 est.)<br>
-23.0629 (2019 est.)<br>
-22.71439 (2018 est.)<br>
-24.599 (2014 est.)<br>
-20.758 (2013 est.)<br>
+21.678 (2021 est.)<br>
+23.21 (2020 est.)<br>
+22.932 (2019 est.)<br>
+21.73 (2018 est.)<br>
+23.376 (2017 est.)<br>
 
 ## Energy
 

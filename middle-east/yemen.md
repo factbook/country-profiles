@@ -163,7 +163,7 @@ _female_: 69.94 years (2022 est.)<br>
 3.01 children born/woman (2022 est.)<br>
 
 **Gross reproduction rate**<br>
-1.47 (2022 est.)<br>
+1.42 (2023 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 33.5% (2013)<br>
@@ -218,11 +218,11 @@ _total_: 20.3% (2020 est.)<br>
 _male_: 32.5% (2020 est.)<br>
 _female_: 8.1% (2020 est.)<br>
 
-**Currently married women (ages 15-49)**<br>
-60.7% (2022 est.)<br>
-
 **Children under the age of 5 years underweight**<br>
 39.9% (2013)<br>
+
+**Currently married women (ages 15-49)**<br>
+60.4% (2023 est.)<br>
 
 **Education expenditures**<br>
 NA<br>
@@ -234,9 +234,9 @@ _male_: 85.1%<br>
 _female_: 55% (2015)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 24.5%<br>
-_male_: 23.5%<br>
-_female_: 34.6% (2014 est.)<br>
+_total_: 25.5%<br>
+_male_: 24.3%<br>
+_female_: 36.3% (2021 est.)<br>
 
 ## Environment
 
@@ -447,29 +447,29 @@ mangoes/guavas, potatoes, sorghum, onions, milk, poultry, watermelons, grapes, o
 crude oil production and petroleum refining; small-scale production of cotton textiles, leather goods; food processing; handicrafts; aluminum products; cement; commercial ship repair; natural gas production<br>
 
 **Industrial production growth rate**<br>
-8.9% (2017 est.)<br>
+-5.23% (2018 est.)<br>
 
 **Labor force**<br>
-7.425 million (2017 est.)<br>
+7.299 million (2021 est.)<br>
 
 **Labor force - by occupation**<br>
 <p><strong>note:</strong> most people are employed in agriculture and herding; services, construction, industry, and commerce account for less than one-fourth of the labor force</p><br>
 
 **Unemployment rate**<br>
-27% (2014 est.)<br>
-35% (2003 est.)<br>
+13.57% (2021 est.)<br>
+13.39% (2020 est.)<br>
+13.06% (2019 est.)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 24.5%<br>
-_male_: 23.5%<br>
-_female_: 34.6% (2014 est.)<br>
+_total_: 25.5%<br>
+_male_: 24.3%<br>
+_female_: 36.3% (2021 est.)<br>
 
 **Population below poverty line**<br>
 48.6% (2014 est.)<br>
 
 **Gini Index coefficient - distribution of family income**<br>
 36.7 (2014 est.)<br>
-37.3 (1999 est.)<br>
 
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 2.6%<br>
@@ -493,7 +493,6 @@ _expenditures_: 4.458 billion (2017 est.)<br>
 calendar year<br>
 
 **Current account balance**<br>
--$1.236 billion (2017 est.)<br>
 -$1.868 billion (2016 est.)<br>
 
 **Exports**<br>
@@ -517,8 +516,9 @@ China 25%, Turkey 10%, United Arab Emirates 9%, Saudi Arabia 8%, India 7% (2019)
 wheat, refined petroleum, iron, rice, cars (2019)<br>
 
 **Reserves of foreign exchange and gold**<br>
-$245.4 million (31 December 2017 est.)<br>
-$592.6 million (31 December 2016 est.)<br>
+$946.047 million (31 December 2020 est.)<br>
+$1.414 billion (31 December 2019 est.)<br>
+$2.334 billion (31 December 2018 est.)<br>
 
 **Debt - external**<br>
 $6.805 billion (2018 est.)<br>
@@ -526,11 +526,11 @@ $7.181 billion (31 December 2016 est.)<br>
 
 **Exchange rates**<br>
 _Currency_: Yemeni rials (YER) per US dollar -<br>
-275 (2017 est.)<br>
-214.9 (2016 est.)<br>
-214.9 (2015 est.)<br>
-228 (2014 est.)<br>
-214.89 (2013 est.)<br>
+1,035.467 (2021 est.)<br>
+743.006 (2020 est.)<br>
+486.731 (2019 est.)<br>
+214.89 (2018 est.)<br>
+282.195 (2017 est.)<br>
 
 ## Energy
 

@@ -173,7 +173,7 @@ _female_: 61.68 years (2022 est.)<br>
 6.82 children born/woman (2022 est.)<br>
 
 **Gross reproduction rate**<br>
-3.36 (2022 est.)<br>
+3.31 (2023 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 11% (2021)<br>
@@ -230,11 +230,11 @@ _total_: 7.4% (2020 est.)<br>
 _male_: 13.7% (2020 est.)<br>
 _female_: 1.1% (2020 est.)<br>
 
-**Currently married women (ages 15-49)**<br>
-80.9% (2022 est.)<br>
-
 **Children under the age of 5 years underweight**<br>
 31.3% (2019)<br>
+
+**Currently married women (ages 15-49)**<br>
+80.3% (2023 est.)<br>
 
 **Education expenditures**<br>
 3.8% of GDP (2020 est.)<br>
@@ -251,9 +251,9 @@ _male_: 7 years<br>
 _female_: 6 years (2017)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 16.6%<br>
-_male_: 16.1%<br>
-_female_: 17.5% (2017 est.)<br>
+_total_: 1%<br>
+_male_: 1.2%<br>
+_female_: 0.7% (2021 est.)<br>
 
 ## Environment
 
@@ -435,29 +435,29 @@ _selected World Heritage Site locales_: Air and T&eacute;n&eacute;r&eacute; Natu
 <p>Niger is a landlocked, Sub-Saharan nation, whose economy centers on subsistence crops, livestock, and some of the world's largest uranium deposits. Agriculture contributes approximately 40% of GDP and provides livelihood for over 80% of the population. The UN ranked Niger as the second least developed country in the world in 2016 due to multiple factors such as food insecurity, lack of industry, high population growth, a weak educational sector, and few prospects for work outside of subsistence farming and herding.</p> <p> </p> <p>Since 2011 public debt has increased due to efforts to scale-up public investment, particularly that related to infrastructure, as well as due to increased security spending. The government relies on foreign donor resources for a large portion of its fiscal budget. The economy in recent years has been hurt by terrorist activity near its uranium mines and by instability in Mali and in the Diffa region of the country; concerns about security have resulted in increased support from regional and international partners on defense. Low uranium prices, demographics, and security expenditures may continue to put pressure on the government’s finances.</p> <p> </p> <p>The Government of Niger plans to exploit oil, gold, coal, and other mineral resources to sustain future growth. Although Niger has sizable reserves of oil, the prolonged drop in oil prices has reduced profitability. Food insecurity and drought remain perennial problems for Niger, and the government plans to invest more in irrigation. Niger’s three-year $131 million IMF Extended Credit Facility (ECF) agreement for the years 2012-15 was extended until the end of 2016. In February 2017, the IMF approved a new 3-year $134 million ECF. In June 2017, The World Bank’s International Development Association (IDA) granted Niger $1 billion over three years for IDA18, a program to boost the country’s development and alleviate poverty. A $437 million Millennium Challenge Account compact for Niger, commencing in FY18, will focus on large-scale irrigation infrastructure development and community-based, climate-resilient agriculture, while promoting sustainable increases in agricultural productivity and sales.</p> <p> </p> <p>Formal private sector investment needed for economic diversification and growth remains a challenge, given the country’s limited domestic markets, access to credit, and competitiveness. Although President ISSOUFOU is courting foreign investors, including those from the US, as of April 2017, there were no US firms operating in Niger. In November 2017, the National Assembly passed the 2018 Finance Law that was geared towards raising government revenues and moving away from international support.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
-$28.97 billion (2020 est.)<br>
-$28.54 billion (2019 est.)<br>
-$26.95 billion (2018 est.)<br>
+$29.964 billion (2021 est.)<br>
+$29.554 billion (2020 est.)<br>
+$28.541 billion (2019 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
-4.9% (2017 est.)<br>
-4.9% (2016 est.)<br>
-4.3% (2015 est.)<br>
+1.39% (2021 est.)<br>
+3.55% (2020 est.)<br>
+5.94% (2019 est.)<br>
 
 **Real GDP per capita**<br>
+$1,200 (2021 est.)<br>
 $1,200 (2020 est.)<br>
 $1,200 (2019 est.)<br>
-$1,200 (2018 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
 $12.926 billion (2019 est.)<br>
 
 **Inflation rate (consumer prices)**<br>
--2.5% (2019 est.)<br>
-6.3% (2018 est.)<br>
-2.3% (2017 est.)<br>
+3.84% (2021 est.)<br>
+2.9% (2020 est.)<br>
+-2.49% (2019 est.)<br>
 
 **Credit ratings**<br>
 _Moody's rating_: B3 (2019)<br>
@@ -483,10 +483,10 @@ millet, cow peas, sorghum, onions, milk, groundnuts, cassava, cabbages, goat mil
 uranium mining, petroleum, cement, brick, soap, textiles, food processing, chemicals, slaughterhouses<br>
 
 **Industrial production growth rate**<br>
-6% (2017 est.)<br>
+4.09% (2021 est.)<br>
 
 **Labor force**<br>
-6.5 million (2017 est.)<br>
+9.411 million (2021 est.)<br>
 
 **Labor force - by occupation**<br>
 _agriculture_: 79.2%<br>
@@ -494,20 +494,20 @@ _industry_: 3.3%<br>
 _services_: 17.5% (2012 est.)<br>
 
 **Unemployment rate**<br>
-0.3% (2017 est.)<br>
-0.3% (2016 est.)<br>
+0.75% (2021 est.)<br>
+0.62% (2020 est.)<br>
+0.55% (2019 est.)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 16.6%<br>
-_male_: 16.1%<br>
-_female_: 17.5% (2017 est.)<br>
+_total_: 1%<br>
+_male_: 1.2%<br>
+_female_: 0.7% (2021 est.)<br>
 
 **Population below poverty line**<br>
 40.8% (2018 est.)<br>
 
 **Gini Index coefficient - distribution of family income**<br>
 34.3 (2014 est.)<br>
-50.5 (1995)<br>
 
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 3.2%<br>
@@ -531,12 +531,14 @@ _expenditures_: 2.171 billion (2017 est.)<br>
 calendar year<br>
 
 **Current account balance**<br>
--$1.16 billion (2017 est.)<br>
--$1.181 billion (2016 est.)<br>
+-$1.816 billion (2020 est.)<br>
+-$1.572 billion (2019 est.)<br>
+-$1.625 billion (2018 est.)<br>
 
 **Exports**<br>
-$1.39 billion (2019 est.) note: data are in current year dollars<br>
-$1.45 billion (2018 est.) note: data are in current year dollars<br>
+$1.338 billion (2020 est.) note: data are in current year dollars<br>
+$1.387 billion (2019 est.) note: data are in current year dollars<br>
+$1.45 billion (2018 est.)<br>
 
 **Exports - partners**<br>
 United Arab Emirates 54%, China 25%, France 7%, Pakistan 5% (2019)<br>
@@ -545,8 +547,9 @@ United Arab Emirates 54%, China 25%, France 7%, Pakistan 5% (2019)<br>
 gold, sesame seeds, uranium, natural gas, refined petroleum (2019)<br>
 
 **Imports**<br>
-$3.4 billion (2019 est.) note: data are in current year dollars<br>
-$3.37 billion (2018 est.) note: data are in current year dollars<br>
+$3.542 billion (2020 est.) note: data are in current year dollars<br>
+$3.395 billion (2019 est.) note: data are in current year dollars<br>
+$3.369 billion (2018 est.)<br>
 
 **Imports - partners**<br>
 China 19%, France 9%, United Arab Emirates 7%, Cote d'Ivoire 6%, India 6%, Nigeria 5%, Togo 5%, Turkey 5% (2019)<br>
@@ -564,11 +567,11 @@ $2.926 billion (31 December 2016 est.)<br>
 
 **Exchange rates**<br>
 _Currency_: Communaute Financiere Africaine francs (XOF) per US dollar -<br>
-605.3 (2017 est.)<br>
-593.01 (2016 est.)<br>
-593.01 (2015 est.)<br>
-591.45 (2014 est.)<br>
-494.42 (2013 est.)<br>
+554.531 (2021 est.)<br>
+575.586 (2020 est.)<br>
+585.911 (2019 est.)<br>
+555.446 (2018 est.)<br>
+580.657 (2017 est.)<br>
 
 ## Energy
 

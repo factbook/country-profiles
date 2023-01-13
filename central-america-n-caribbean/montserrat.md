@@ -148,7 +148,7 @@ _female_: 74.7 years (2022 est.)<br>
 1.32 children born/woman (2022 est.)<br>
 
 **Gross reproduction rate**<br>
-0.65 (2022 est.)<br>
+0.64 (2023 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 NA<br>
@@ -178,11 +178,11 @@ _unimproved: total_: total: NA<br>
 **HIV/AIDS - adult prevalence rate**<br>
 NA<br>
 
-**Currently married women (ages 15-49)**<br>
-36.1% (2022 est.)<br>
-
 **Children under the age of 5 years underweight**<br>
 NA<br>
+
+**Currently married women (ages 15-49)**<br>
+35.8% (2023 est.)<br>
 
 **Education expenditures**<br>
 5.4% of GDP (2020 est.)<br>

@@ -148,7 +148,7 @@ _female_: 73.49 years (2022 est.)<br>
 1.79 children born/woman (2022 est.)<br>
 
 **Gross reproduction rate**<br>
-0.87 (2022 est.)<br>
+0.86 (2023 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 NA<br>
@@ -191,11 +191,11 @@ _wine_: 0.05 liters of pure alcohol (2019 est.)<br>
 _spirits_: 0 liters of pure alcohol (2019 est.)<br>
 _other alcohols_: 0 liters of pure alcohol (2019 est.)<br>
 
-**Currently married women (ages 15-49)**<br>
-61.8% (2022 est.)<br>
-
 **Children under the age of 5 years underweight**<br>
 NA<br>
+
+**Currently married women (ages 15-49)**<br>
+62.8% (2023 est.)<br>
 
 **Education expenditures**<br>
 7% of GDP (2021 est.)<br>
@@ -212,9 +212,9 @@ _male_: 13 years<br>
 _female_: 13 years (2018)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 10.7%<br>
-_male_: 8.2%<br>
-_female_: 12.7% (2015 est.)<br>
+_total_: 18.8%<br>
+_male_: 15.6%<br>
+_female_: 22% (2021 est.)<br>
 
 ## Environment
 
@@ -361,28 +361,29 @@ _lyrics/music_: Gyaldun Dasho Thinley DORJI/Aku TONGMI<br>
 <p>Bhutan's small economy is based largely on hydropower, agriculture, and forestry, which provide the main livelihood for more than half the population. Because rugged mountains dominate the terrain and make the building of roads and other infrastructure difficult and expensive, industrial production is primarily of the cottage industry type. The economy is closely aligned with India's through strong trade and monetary links and is dependent on India for financial assistance and migrant laborers for development projects, especially for road construction. Bhutan signed a pact in December 2014 to expand duty-free trade with Bangladesh.</p> <p> </p> <p>Multilateral development organizations administer most educational, social, and environment programs, and take into account the government's desire to protect the country's environment and cultural traditions. For example, the government is cautious in its expansion of the tourist sector, restricing visits to environmentally conscientious tourists. Complicated controls and uncertain policies in areas such as industrial licensing, trade, labor, and finance continue to hamper foreign investment.</p> <p> </p> <p>Bhutan’s largest export - hydropower to India - could spur sustainable growth in the coming years if Bhutan resolves chronic delays in construction. Bhutan’s hydropower exports comprise 40% of total exports and 25% of the government’s total revenue. Bhutan currently taps only 6.5% of its 24,000-megawatt hydropower potential and is behind schedule in building 12 new hydropower dams with a combined capacity of 10,000 megawatts by 2020 in accordance with a deal signed in 2008 with India. The high volume of imported materials to build hydropower plants has expanded Bhutan's trade and current account deficits. Bhutan also signed a memorandum of understanding with Bangladesh and India in July 2017 to jointly construct a new hydropower plant for exporting electricity to Bangladesh.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
-$8.42 billion (2020 est.)<br>
-$9.03 billion (2019 est.)<br>
-$8.56 billion (2018 est.)<br>
+$8.481 billion (2021 est.)<br>
+$8.148 billion (2020 est.)<br>
+$9.054 billion (2019 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
-7.4% (2017 est.)<br>
-7.3% (2016 est.)<br>
-6.2% (2015 est.)<br>
+4.09% (2021 est.)<br>
+-10.01% (2020 est.)<br>
+5.76% (2019 est.)<br>
 
 **Real GDP per capita**<br>
-$10,900 (2020 est.)<br>
+$10,900 (2021 est.)<br>
+$10,500 (2020 est.)<br>
 $11,800 (2019 est.)<br>
-$11,300 (2018 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
 $2.405 billion (2017 est.)<br>
 
 **Inflation rate (consumer prices)**<br>
-5.8% (2017 est.)<br>
-7.6% (2016 est.)<br>
+7.35% (2021 est.)<br>
+5.63% (2020 est.)<br>
+2.73% (2019 est.)<br>
 
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 16.2% (2017 est.)<br>
@@ -404,10 +405,10 @@ milk, rice, maize, potatoes, roots/tubers, oranges, areca nuts, chillies/peppers
 cement, wood products, processed fruits, alcoholic beverages, calcium carbide, tourism<br>
 
 **Industrial production growth rate**<br>
-6.3% (2017 est.)<br>
+1.96% (2021 est.)<br>
 
 **Labor force**<br>
-397,900 (2017 est.)<br>
+361,000 (2021 est.)<br>
 <strong>note:</strong> major shortage of skilled labor<br>
 
 **Labor force - by occupation**<br>
@@ -416,20 +417,20 @@ _industry_: 20%<br>
 _services_: 22% (2015 est.)<br>
 
 **Unemployment rate**<br>
-3.2% (2017 est.)<br>
-3.2% (2016 est.)<br>
+4.33% (2021 est.)<br>
+3.65% (2020 est.)<br>
+2.5% (2019 est.)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 10.7%<br>
-_male_: 8.2%<br>
-_female_: 12.7% (2015 est.)<br>
+_total_: 18.8%<br>
+_male_: 15.6%<br>
+_female_: 22% (2021 est.)<br>
 
 **Population below poverty line**<br>
 8.2% (2017 est.)<br>
 
 **Gini Index coefficient - distribution of family income**<br>
 37.4 (2017 est.)<br>
-38.1 (2007)<br>
 
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 2.8%<br>
@@ -444,23 +445,25 @@ _expenditures_: 737.4 million (2017 est.)<br>
 -3.4% (of GDP) (2017 est.)<br>
 
 **Public debt**<br>
-106.3% of GDP (2017 est.)<br>
-114.2% of GDP (2016 est.)<br>
+117.33% of GDP (2020 est.)<br>
+97.49% of GDP (2019 est.)<br>
+101.19% of GDP (2018 est.)<br>
 
 **Taxes and other revenues**<br>
-27.2% (of GDP) (2017 est.)<br>
+12.98% (of GDP) (2020 est.)<br>
 
 **Fiscal year**<br>
 1 July - 30 June<br>
 
 **Current account balance**<br>
--$547 million (2017 est.)<br>
--$621 million (2016 est.)<br>
+-$321.535 million (2021 est.)<br>
+-$381.153 million (2020 est.)<br>
+-$500.802 million (2019 est.)<br>
 
 **Exports**<br>
-$790 million (2020 est.)<br>
-$780 million (2019 est.)<br>
-$790 million (2018 est.)<br>
+$741.602 million (2021 est.)<br>
+$786.681 million (2020 est.)<br>
+$777.529 million (2019 est.)<br>
 <strong>note:</strong> Data are in current year dollars and do not include illicit exports or re-exports.<br>
 
 **Exports - partners**<br>
@@ -470,9 +473,9 @@ India 94% (2019)<br>
 iron alloys, dolomite, refined iron, cement, silicon carbides (2019)<br>
 
 **Imports**<br>
-$1.19 billion (2020 est.) note: data are in current year dollars<br>
+$1.027 billion (2021 est.) note: data are in current year dollars<br>
+$1.188 billion (2020 est.) note: data are in current year dollars<br>
 $1.23 billion (2019 est.) note: data are in current year dollars<br>
-$1.25 billion (2018 est.) note: data are in current year dollars<br>
 
 **Imports - partners**<br>
 India 85%, Thailand 5% (2019)<br>
@@ -481,8 +484,9 @@ India 85%, Thailand 5% (2019)<br>
 refined petroleum, iron products, delivery trucks, cars, wood charcoal (2019)<br>
 
 **Reserves of foreign exchange and gold**<br>
-$1.206 billion (31 December 2017 est.)<br>
-$1.127 billion (31 December 2016 est.)<br>
+$1.056 billion (31 December 2021 est.)<br>
+$1.473 billion (31 December 2020 est.)<br>
+$1.238 billion (31 December 2019 est.)<br>
 
 **Debt - external**<br>
 $2.671 billion (31 December 2017 est.)<br>
@@ -490,11 +494,11 @@ $2.355 billion (31 December 2016 est.)<br>
 
 **Exchange rates**<br>
 _Currency_: ngultrum (BTN) per US dollar -<br>
-64.97 (2017 est.)<br>
-67.2 (2016 est.)<br>
-67.2 (2015 est.)<br>
-64.15 (2014 est.)<br>
-61.03 (2013 est.)<br>
+73.939 (2021 est.)<br>
+74.1 (2020 est.)<br>
+70.42 (2019 est.)<br>
+68.389 (2018 est.)<br>
+65.122 (2017 est.)<br>
 
 ## Energy
 
@@ -638,6 +642,6 @@ India is responsible for military training, arms supplies, and the air defense o
 <p><em>Bhutan-China:</em> Lacking any treaty describing the boundary, Bhutan and China continue negotiations to establish a common boundary alignment to resolve territorial disputes arising from substantial cartographic discrepancies, the most contentious of which lie in Bhutan's west along China’s Chumbi salient.<br><br><em>Bhutan-India:</em> none identified</p><br>
 
 **Trafficking in persons**<br>
-_tier rating_: <p>Tier 2 Watch List — Bhutan does not fully meet the minimum standards for the elimination of trafficking but is making significant efforts to do so; among its accomplishments, Bhutan convicted one trafficker, appealed the dismissal of trafficking charges in a second case, finalized and disseminated standard operating procedures for victim identification and referral, and initiated an investigation into reports of labor exploitation; the government also continued to work with an international organization on anti-trafficking training and public awareness events; however, Bhutanese courts continued to dismiss and refile on lesser charges human trafficking cases due to inconsistencies between Bhutanese law and the international definition of trafficking; additionally, authorities did not identify any trafficking victims during the reporting period and did not provide protective services to Bhutanese victims of forced labor abroad</p><br>
-_trafficking profile_: human traffickers exploit domestic and foreign victims in Bhutan and Bhutanese abroad; some traffickers posing as recruiters use the lure of well-paying jobs overseas to exploit Bhutanese citizens for forced labor; some Bhutanese working in hospitality, retail, and service industries in the Gulf states and India, Thailand, and the UK reported trafficking indicators, including illegal recruitment fees, wage deductions, restricted movement, passport retention, and non-payment of wages; Bhutanese women and girls working as domestics, caregivers, and entertainers are subject to sex and labor trafficking domestically; Bhutanese and Indian women may be forced to work in hotels, massage parlors, and nightclubs, while male Indian workers face unauthorized deductions and non-payment of wages in the construction and hydropower sectors<br>
+_tier rating_: <p>Tier 2 Watch List — Bhutan does not fully meet the minimum standards for the elimination of trafficking but is making efforts to do so; the government increased convictions of traffickers and the number of victims identified and referred to services; officials drafted and launched an anti-trafficking National Action Plan; however, the government did not demonstrate overall increasing anti-trafficking efforts compared with the previous year; the government reported only one investigation and did not initiate any new prosecutions, and the overall identification efforts remained insufficient; because the government has devoted sufficient resources to a written plan that, if implemented, would constitute significant efforts to meet the minimum standards, Bhutan was granted a waiver per the TVPA from a downgrade to Tier 3; therefore Bhutan remained on Tier 2 Watch List for the third consecutive year (2022)</p><br>
+_trafficking profile_: <p>Trafficking profile:  human traffickers exploit domestic and foreign victims in Bhutan and exploit victims from Bhutan abroad; unregistered foreign employment recruitment agencies increasingly operate through social media to target unemployed or economically disadvantaged individuals; Bhutanese citizens working in hospitality, retail, and services sectors in the Gulf, including in Bahrain, Kuwait, Qatar, and the UAE, and in India, Thailand, and the United Kingdom, reported indicators of trafficking; in recent years traffickers sent Bhutanese women to Iraq and Oman for forced labor in domestic work; traffickers have exploited Bhutanese women and girls in sex and labor trafficking, including in forced domestic labor and caregiving; reports indicate an increase in commercial sex by Bhutanese and Indian women in the Bhutan-India border’s growing hospitality and entertainment districts—including hotels, massage parlors, and nightclubs—some of which might be forced; traffickers reportedly have exploited Indian child domestic workers and male Indian migrants working in the construction and hydropower sectors; rural Bhutanese transported to urban areas may be involved in forced domestic work, and child labor in restaurants and automotive workshops may involve forced labor (2022)</p><br>
 

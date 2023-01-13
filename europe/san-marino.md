@@ -148,7 +148,7 @@ _female_: 86.65 years (2022 est.)<br>
 1.53 children born/woman (2022 est.)<br>
 
 **Gross reproduction rate**<br>
-0.73 (2022 est.)<br>
+0.73 (2023 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 NA<br>
@@ -181,11 +181,11 @@ _unimproved: total_: total: 0% of population (2020)<br>
 **HIV/AIDS - adult prevalence rate**<br>
 NA<br>
 
-**Currently married women (ages 15-49)**<br>
-48.8% (2022 est.)<br>
-
 **Children under the age of 5 years underweight**<br>
 NA<br>
+
+**Currently married women (ages 15-49)**<br>
+47.7% (2023 est.)<br>
 
 **Education expenditures**<br>
 3.4% of GDP (2020 est.)<br>
@@ -343,26 +343,26 @@ _selected World Heritage Site locales_: San Marino Historic Center and Mount Tit
 <p>San Marino's economy relies heavily on tourism, banking, and the manufacture and export of ceramics, clothing, fabrics, furniture, paints, spirits, tiles, and wine. The manufacturing and financial sectors account for more than half of San Marino's GDP. The per capita level of output and standard of living are comparable to those of the most prosperous regions of Italy.</p> <p>San Marino's economy contracted considerably in the years since 2008, largely due to weakened demand from Italy - which accounts for nearly 90% of its export market - and financial sector consolidation. Difficulties in the banking sector, the global economic downturn, and the sizable decline in tax revenues all contributed to negative real GDP growth. The government adopted measures to counter the downturn, including subsidized credit to businesses and is seeking to shift its growth model away from a reliance on bank and tax secrecy. San Marino does not issue public debt securities; when necessary, it finances deficits by drawing down central bank deposits.</p> <p>The economy benefits from foreign investment due to its relatively low corporate taxes and low taxes on interest earnings. The income tax rate is also very low, about one-third the average EU level. San Marino continues to work towards harmonizing its fiscal laws with EU and international standards. In September 2009, the OECD removed San Marino from its list of tax havens that have yet to fully adopt global tax standards, and in 2010 San Marino signed Tax Information Exchange Agreements with most major countries. In 2013, the San Marino Government signed a Double Taxation Agreement with Italy, but a referendum on EU membership failed to reach the quorum needed to bring it to a vote.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
-$2.06 billion (2019 est.)<br>
-$2.01 billion (2018 est.)<br>
-$1.982 billion (2017 est.)<br>
+$1.917 billion (2020 est.)<br>
+$2.053 billion (2019 est.)<br>
+$2.012 billion (2018 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
-1.9% (2017 est.)<br>
-2.2% (2016 est.)<br>
-0.6% (2015 est.)<br>
+-6.65% (2020 est.)<br>
+2.07% (2019 est.)<br>
+1.49% (2018 est.)<br>
 
 **Real GDP per capita**<br>
-$60,800 (2019 est.) note: data are in 2017 dollars<br>
-$59,600 (2018 est.) note: data are in 2017 dollars<br>
-$58,867 (2017 est.)<br>
+$56,400 (2020 est.) note: data are in 2017 dollars<br>
+$60,100 (2019 est.) note: data are in 2017 dollars<br>
+$58,900 (2018 est.)<br>
 
 **GDP (official exchange rate)**<br>
 $1.643 billion (2017 est.)<br>
 
 **Inflation rate (consumer prices)**<br>
-1% (2017 est.)<br>
+1.05% (2017 est.)<br>
 0.6% (2016 est.)<br>
 
 **Credit ratings**<br>
@@ -423,11 +423,12 @@ _expenditures_: 715.3 million (2011 est.)<br>
 -2.9% (of GDP) (2011 est.)<br>
 
 **Public debt**<br>
-24.1% of GDP (2017 est.)<br>
-22.5% of GDP (2016 est.)<br>
+98.35% of GDP (2020 est.)<br>
+55.09% of GDP (2019 est.)<br>
+55.94% of GDP (2018 est.)<br>
 
 **Taxes and other revenues**<br>
-40.6% (of GDP) (2011 est.)<br>
+16.14% (of GDP) (2020 est.)<br>
 
 **Fiscal year**<br>
 calendar year<br>
@@ -457,19 +458,20 @@ Germany 21%, Italy 13%, Poland 10%, France 7%, Spain 7%, Belgium 6%, Romania 6% 
 electricity, cars, aluminum, footwear, natural gas, iron piping (2019)<br>
 
 **Reserves of foreign exchange and gold**<br>
-$392 million (2014 est.)<br>
-$539.3 million (2013 est.)<br>
+$954.512 million (31 December 2021 est.)<br>
+$781.805 million (31 December 2020 est.)<br>
+$473.111 million (31 December 2019 est.)<br>
 
 **Debt - external**<br>
 <p>NA</p><br>
 
 **Exchange rates**<br>
 _Currency_: euros (EUR) per US dollar -<br>
+0.845 (2021 est.)<br>
+0.877 (2020 est.)<br>
+0.893 (2019 est.)<br>
+0.847 (2018 est.)<br>
 0.885 (2017 est.)<br>
-0.903 (2016 est.)<br>
-0.9214 (2015 est.)<br>
-0.885 (2014 est.)<br>
-0.7634 (2013 est.)<br>
 
 ## Energy
 

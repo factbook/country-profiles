@@ -164,7 +164,7 @@ _female_: 76.52 years (2022 est.)<br>
 1.59 children born/woman (2022 est.)<br>
 
 **Gross reproduction rate**<br>
-0.77 (2022 est.)<br>
+0.77 (2023 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 56% (2020)<br>
@@ -212,11 +212,11 @@ _total_: 29% (2020 est.)<br>
 _male_: 51.7% (2020 est.)<br>
 _female_: 6.2% (2020 est.)<br>
 
-**Currently married women (ages 15-49)**<br>
-68.5% (2022 est.)<br>
-
 **Children under the age of 5 years underweight**<br>
 2.2% (2012)<br>
+
+**Currently married women (ages 15-49)**<br>
+67% (2023 est.)<br>
 
 **Education expenditures**<br>
 6.4% of GDP (2020 est.)<br>
@@ -233,9 +233,9 @@ _male_: 14 years<br>
 _female_: 15 years (2021)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 9.2%<br>
-_male_: 9%<br>
-_female_: 9.6% (2021 est.)<br>
+_total_: 8.6%<br>
+_male_: 5.3%<br>
+_female_: 14.7% (2021 est.)<br>
 
 ## Environment
 
@@ -401,29 +401,29 @@ _selected World Heritage Site locales_: Struve Geodetic Arc<br>
 <p>Despite recent progress, Moldova remains one of the poorest countries in Europe. With a moderate climate and productive farmland, Moldova's economy relies heavily on its agriculture sector, featuring fruits, vegetables, wine, wheat, and tobacco. Moldova also depends on annual remittances of about $1.2 billion - almost 15% of GDP - from the roughly one million Moldovans working in Europe, Israel, Russia, and elsewhere.</p> <p> </p> <p>With few natural energy resources, Moldova imports almost all of its energy supplies from Russia and Ukraine. Moldova's dependence on Russian energy is underscored by a more than $6 billion debt to Russian natural gas supplier Gazprom, largely the result of unreimbursed natural gas consumption in the breakaway region of Transnistria. Moldova and Romania inaugurated the Ungheni-Iasi natural gas interconnector project in August 2014. The 43-kilometer pipeline between Moldova and Romania, allows for both the import and export of natural gas. Several technical and regulatory delays kept gas from flowing into Moldova until March 2015. Romanian gas exports to Moldova are largely symbolic. In 2018, Moldova awarded a tender to Romanian Transgaz to construct a pipeline connecting Ungheni to Chisinau, bringing the gas to Moldovan population centers. Moldova also seeks to connect with the European power grid by 2022.</p> <p> </p> <p>The government's stated goal of EU integration has resulted in some market-oriented progress. Moldova experienced better than expected economic growth in 2017, largely driven by increased consumption, increased revenue from agricultural exports, and improved tax collection. During fall 2014, Moldova signed an Association Agreement and a Deep and Comprehensive Free Trade Agreement with the EU (AA/DCFTA), connecting Moldovan products to the world’s largest market. The EU AA/DCFTA has contributed to significant growth in Moldova’s exports to the EU. In 2017, the EU purchased over 65% of Moldova’s exports, a major change from 20 years previously when the Commonwealth of Independent States (CIS) received over 69% of Moldova’s exports. A $1 billion asset-stripping heist of Moldovan banks in late 2014 delivered a significant shock to the economy in 2015; the subsequent bank bailout increased inflationary pressures and contributed to the depreciation of the leu and a minor recession. Moldova’s growth has also been hampered by endemic corruption, which limits business growth and deters foreign investment, and Russian restrictions on imports of Moldova’s agricultural products. The government’s push to restore stability and implement meaningful reform led to the approval in 2016 of a $179 million three-year IMF program focused on improving the banking and fiscal environments, along with additional assistance programs from the EU, World Bank, and Romania. Moldova received two IMF tranches in 2017, totaling over $42.5 million.</p> <p> </p> <p>Over the longer term, Moldova's economy remains vulnerable to corruption, political uncertainty, weak administrative capacity, vested bureaucratic interests, energy import dependence, Russian political and economic pressure, heavy dependence on agricultural exports, and unresolved separatism in Moldova's Transnistria region.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
-$32.26 billion (2020 est.)<br>
-$34.68 billion (2019 est.)<br>
-$33.48 billion (2018 est.)<br>
+$36.637 billion (2021 est.)<br>
+$32.153 billion (2020 est.)<br>
+$34.715 billion (2019 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
-4.5% (2017 est.)<br>
-4.3% (2016 est.)<br>
--0.4% (2015 est.)<br>
+13.94% (2021 est.)<br>
+-7.38% (2020 est.)<br>
+3.68% (2019 est.)<br>
 
 **Real GDP per capita**<br>
-$12,300 (2020 est.)<br>
+$14,000 (2021 est.)<br>
+$12,200 (2020 est.)<br>
 $13,000 (2019 est.)<br>
-$12,400 (2018 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
 $11.982 billion (2019 est.)<br>
 
 **Inflation rate (consumer prices)**<br>
-4.8% (2019 est.)<br>
-3% (2018 est.)<br>
-6.5% (2017 est.)<br>
+5.11% (2021 est.)<br>
+3.77% (2020 est.)<br>
+4.84% (2019 est.)<br>
 
 **Credit ratings**<br>
 _Moody's rating_: B3 (2010)<br>
@@ -449,10 +449,10 @@ maize, wheat, sunflower seeds, grapes, apples, sugar beets, milk, potatoes, barl
 sugar processing, vegetable oil, food processing, agricultural machinery; foundry equipment, refrigerators and freezers, washing machines; hosiery, shoes, textiles<br>
 
 **Industrial production growth rate**<br>
-3% (2017 est.)<br>
+-0.67% (2021 est.)<br>
 
 **Labor force**<br>
-1.295 million (2017 est.)<br>
+810,000 (2021 est.)<br>
 
 **Labor force - by occupation**<br>
 _agriculture_: 32.3%<br>
@@ -460,20 +460,20 @@ _industry_: 12%<br>
 _services_: 55.7% (2017 est.)<br>
 
 **Unemployment rate**<br>
-4.99% (2019 est.)<br>
-3.16% (2018 est.)<br>
+3.96% (2021 est.)<br>
+3.82% (2020 est.)<br>
+5.1% (2019 est.)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 9.2%<br>
-_male_: 9%<br>
-_female_: 9.6% (2021 est.)<br>
+_total_: 8.6%<br>
+_male_: 5.3%<br>
+_female_: 14.7% (2021 est.)<br>
 
 **Population below poverty line**<br>
 7.3% (2018 est.)<br>
 
 **Gini Index coefficient - distribution of family income**<br>
 25.7 (2018 est.)<br>
-26.8 (2014 est.)<br>
 
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 4.2%<br>
@@ -488,23 +488,25 @@ _expenditures_: 2.947 billion (2017 est.)<br>
 -0.6% (of GDP) (2017 est.)<br>
 
 **Public debt**<br>
-31.5% of GDP (2017 est.)<br>
-35.8% of GDP (2016 est.)<br>
+33.01% of GDP (2020 est.)<br>
+24.95% of GDP (2019 est.)<br>
+27.02% of GDP (2018 est.)<br>
 
 **Taxes and other revenues**<br>
-30.2% (of GDP) (2017 est.)<br>
+17.41% (of GDP) (2020 est.)<br>
 
 **Fiscal year**<br>
 calendar year<br>
 
 **Current account balance**<br>
--$602 million (2017 est.)<br>
--$268 million (2016 est.)<br>
+-$1.699 billion (2021 est.)<br>
+-$886.899 million (2020 est.)<br>
+-$1.106 billion (2019 est.)<br>
 
 **Exports**<br>
-$3.24 billion (2020 est.) note: data are in current year dollars<br>
-$3.66 billion (2019 est.) note: data are in current year dollars<br>
-$3.45 billion (2018 est.) note: data are in current year dollars<br>
+$4.197 billion (2021 est.) note: data are in current year dollars<br>
+$3.222 billion (2020 est.) note: data are in current year dollars<br>
+$3.662 billion (2019 est.) note: data are in current year dollars<br>
 
 **Exports - partners**<br>
 Romania 27%, Russia 9%, Italy 9%, Germany 9%, Turkey 6%, Poland 5% (2019)<br>
@@ -513,9 +515,9 @@ Romania 27%, Russia 9%, Italy 9%, Germany 9%, Turkey 6%, Poland 5% (2019)<br>
 insulated wiring, sunflower seeds, wine, corn, seats (2019)<br>
 
 **Imports**<br>
-$5.93 billion (2020 est.) note: data are in current year dollars<br>
-$6.62 billion (2019 est.) note: data are in current year dollars<br>
-$6.39 billion (2018 est.) note: data are in current year dollars<br>
+$7.915 billion (2021 est.) note: data are in current year dollars<br>
+$5.918 billion (2020 est.) note: data are in current year dollars<br>
+$6.608 billion (2019 est.) note: data are in current year dollars<br>
 
 **Imports - partners**<br>
 Romania 20%, Russia 10%, Ukraine 9%, Germany 8%, China 7%, Turkey 6%, Italy 6% (2019)<br>
@@ -524,8 +526,9 @@ Romania 20%, Russia 10%, Ukraine 9%, Germany 8%, China 7%, Turkey 6%, Italy 6% (
 refined petroleum, cars, insulated wiring, packaged medicines, broadcasting equipment (2019)<br>
 
 **Reserves of foreign exchange and gold**<br>
-$2.803 billion (31 December 2017 est.)<br>
-$2.206 billion (31 December 2016 est.)<br>
+$3.902 billion (31 December 2021 est.)<br>
+$3.784 billion (31 December 2020 est.)<br>
+$3.06 billion (31 December 2019 est.)<br>
 
 **Debt - external**<br>
 $7.232 billion (2019 est.)<br>

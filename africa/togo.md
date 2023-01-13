@@ -166,7 +166,7 @@ _female_: 74.03 years (2022 est.)<br>
 4.23 children born/woman (2022 est.)<br>
 
 **Gross reproduction rate**<br>
-2.08 (2022 est.)<br>
+2.06 (2023 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 23.9% (2017)<br>
@@ -222,11 +222,11 @@ _total_: 6.8% (2020 est.)<br>
 _male_: 12.3% (2020 est.)<br>
 _female_: 1.2% (2020 est.)<br>
 
-**Currently married women (ages 15-49)**<br>
-62.3% (2022 est.)<br>
-
 **Children under the age of 5 years underweight**<br>
 15.2% (2017)<br>
+
+**Currently married women (ages 15-49)**<br>
+62% (2023 est.)<br>
 
 **Child marriage**<br>
 _women married by age 15_: 6.4%<br>
@@ -248,9 +248,9 @@ _male_: 14 years<br>
 _female_: 12 years (2017)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 9.5%<br>
+_total_: 9.7%<br>
 _male_: 12.3%<br>
-_female_: 7.4% (2017 est.)<br>
+_female_: 7.7% (2021 est.)<br>
 
 ## Environment
 
@@ -418,29 +418,29 @@ _selected World Heritage Site locales_: Koutammakou; the Land of the Batammariba
 <p>Togo has enjoyed a period of steady economic growth fueled by political stability and a concerted effort by the government to modernize the country’s commercial infrastructure, but discontent with President Faure GNASSINGBE has led to a rapid rise in protests, creating downside risks. The country completed an ambitious large-scale infrastructure improvement program, including new principal roads, a new airport terminal, and a new seaport. The economy depends heavily on both commercial and subsistence agriculture, providing employment for around 60% of the labor force. Some basic foodstuffs must still be imported. Cocoa, coffee, and cotton and other agricultural products generate about 20% of export earnings with cotton being the most important cash crop. Togo is among the world's largest producers of phosphate and seeks to develop its carbonate phosphate reserves, which provide more than 20% of export earnings.</p> <p> </p> <p>Supported by the World Bank and the IMF, the government's decade-long effort to implement economic reform measures, encourage foreign investment, and bring revenues in line with expenditures has moved slowly. Togo completed its IMF Extended Credit Facility in 2011 and reached a Heavily Indebted Poor Country debt relief completion point in 2010 at which 95% of the country's debt was forgiven. Togo continues to work with the IMF on structural reforms, and in January 2017, the IMF signed an Extended Credit Facility arrangement consisting of a three-year $238 million loan package. Progress depends on follow through on privatization, increased transparency in government financial operations, progress toward legislative elections, and continued support from foreign donors.</p> <p> </p> <p>Togo’s 2017 economic growth probably remained steady at 5.0%, largely driven by infusions of foreign aid, infrastructure investment in its port and mineral industry, and improvements in the business climate. Foreign direct investment inflows have slowed in recent years.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
-$17.45 billion (2020 est.)<br>
+$18.369 billion (2021 est.)<br>
+$17.451 billion (2020 est.)<br>
 $17.15 billion (2019 est.)<br>
-$16.26 billion (2018 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
-4.4% (2017 est.)<br>
-5.1% (2016 est.)<br>
-5.7% (2015 est.)<br>
+5.26% (2021 est.)<br>
+1.75% (2020 est.)<br>
+5.46% (2019 est.)<br>
 
 **Real GDP per capita**<br>
+$2,100 (2021 est.)<br>
 $2,100 (2020 est.)<br>
 $2,100 (2019 est.)<br>
-$2,100 (2018 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
 $5.232 billion (2018 est.)<br>
 
 **Inflation rate (consumer prices)**<br>
-0.6% (2019 est.)<br>
-0.9% (2018 est.)<br>
--0.9% (2017 est.)<br>
+1.83% (2020 est.)<br>
+0.69% (2019 est.)<br>
+0.93% (2018 est.)<br>
 
 **Credit ratings**<br>
 _Moody's rating_: B3 (2019)<br>
@@ -467,10 +467,10 @@ cassava, maize, yams, sorghum, beans, oil palm fruit, rice, vegetables, cotton, 
 phosphate mining, agricultural processing, cement, handicrafts, textiles, beverages<br>
 
 **Industrial production growth rate**<br>
-5% (2017 est.)<br>
+5.32% (2020 est.)<br>
 
 **Labor force**<br>
-2.595 million (2007 est.)<br>
+2.965 million (2021 est.)<br>
 
 **Labor force - by occupation**<br>
 _agriculture_: 65%<br>
@@ -478,12 +478,14 @@ _industry_: 5%<br>
 _services_: 30% (1998 est.)<br>
 
 **Unemployment rate**<br>
-6.9% (2016 est.)<br>
+4% (2021 est.)<br>
+3.94% (2020 est.)<br>
+3.72% (2019 est.)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 9.5%<br>
+_total_: 9.7%<br>
 _male_: 12.3%<br>
-_female_: 7.4% (2017 est.)<br>
+_female_: 7.7% (2021 est.)<br>
 
 **Population below poverty line**<br>
 55.1% (2015 est.)<br>
@@ -507,18 +509,20 @@ _expenditures_: 1.203 billion (2017 est.)<br>
 81.6% of GDP (2016 est.)<br>
 
 **Taxes and other revenues**<br>
-21.5% (of GDP) (2017 est.)<br>
+13.16% (of GDP) (2019 est.)<br>
 
 **Fiscal year**<br>
 calendar year<br>
 
 **Current account balance**<br>
--$383 million (2017 est.)<br>
--$416 million (2016 est.)<br>
+-$20.738 million (2020 est.)<br>
+-$55.444 million (2019 est.)<br>
+-$184.852 million (2018 est.)<br>
 
 **Exports**<br>
-$1.67 billion (2019 est.) note: data are in current year dollars<br>
-$1.7 billion (2018 est.) note: data are in current year dollars<br>
+$1.722 billion (2020 est.) note: data are in current year dollars<br>
+$1.665 billion (2019 est.) note: data are in current year dollars<br>
+$1.703 billion (2018 est.)<br>
 
 **Exports - partners**<br>
 India 16%, Benin 15%, Burkina Faso 6%, France 6%, Morocco 5% (2019)<br>
@@ -527,8 +531,9 @@ India 16%, Benin 15%, Burkina Faso 6%, France 6%, Morocco 5% (2019)<br>
 refined petroleum, crude petroleum, electricity, calcium phosphates, cotton (2019)<br>
 
 **Imports**<br>
-$2.26 billion (2019 est.) note: data are in current year dollars<br>
-$2.33 billion (2018 est.) note: data are in current year dollars<br>
+$2.389 billion (2020 est.) note: data are in current year dollars<br>
+$2.261 billion (2019 est.) note: data are in current year dollars<br>
+$2.329 billion (2018 est.)<br>
 
 **Imports - partners**<br>
 China 18%, South Korea 13%, India 11%, Belgium 10%, Netherlands 8%, United States 5% (2019)<br>
@@ -546,11 +551,11 @@ $1.22 billion (31 December 2016 est.)<br>
 
 **Exchange rates**<br>
 _Currency_: Communaute Financiere Africaine francs (XOF) per US dollar -<br>
-617.4 (2017 est.)<br>
-593.01 (2016 est.)<br>
-593.01 (2015 est.)<br>
-591.45 (2014 est.)<br>
-494.42 (2013 est.)<br>
+554.531 (2021 est.)<br>
+575.586 (2020 est.)<br>
+585.911 (2019 est.)<br>
+555.446 (2018 est.)<br>
+580.657 (2017 est.)<br>
 
 ## Energy
 

@@ -147,7 +147,7 @@ _female_: 77.97 years (2022 est.)<br>
 2.21 children born/woman (2022 est.)<br>
 
 **Gross reproduction rate**<br>
-1.07 (2022 est.)<br>
+1.04 (2023 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 NA<br>
@@ -177,11 +177,11 @@ _unimproved: total_: total: 1% of population (2020 est.)<br>
 **HIV/AIDS - adult prevalence rate**<br>
 NA<br>
 
-**Currently married women (ages 15-49)**<br>
-53.7% (2022 est.)<br>
-
 **Children under the age of 5 years underweight**<br>
 NA<br>
+
+**Currently married women (ages 15-49)**<br>
+53.5% (2023 est.)<br>
 
 **Education expenditures**<br>
 NA<br>
@@ -316,9 +316,9 @@ $666.9 billion (2014 est.)<br>
 <strong>note:</strong> data are in 2016 US dollars<br>
 
 **Real GDP growth rate**<br>
--2.5% (2016 est.)<br>
-1.2% (2015 est.)<br>
-1% (2014 est.)<br>
+-1.87% (2021 est.)<br>
+5.07% (2020 est.)<br>
+-0.49% (2019 est.)<br>
 
 **Real GDP per capita**<br>
 $11,200 (2016 est.)<br>

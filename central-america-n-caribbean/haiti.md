@@ -163,7 +163,7 @@ _female_: 68.67 years (2022 est.)<br>
 2.43 children born/woman (2022 est.)<br>
 
 **Gross reproduction rate**<br>
-1.21 (2022 est.)<br>
+1.19 (2023 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 34.3% (2016/17)<br>
@@ -216,11 +216,11 @@ _total_: 7.7% (2020 est.)<br>
 _male_: 12.2% (2020 est.)<br>
 _female_: 3.1% (2020 est.)<br>
 
-**Currently married women (ages 15-49)**<br>
-51.7% (2022 est.)<br>
-
 **Children under the age of 5 years underweight**<br>
 9.5% (2016/17)<br>
+
+**Currently married women (ages 15-49)**<br>
+51.4% (2023 est.)<br>
 
 **Child marriage**<br>
 _women married by age 15_: 2.1%<br>
@@ -235,6 +235,11 @@ _definition_: age 15 and over can read and write<br>
 _total population_: 61.7%<br>
 _male_: 65.3%<br>
 _female_: 58.3% (2016)<br>
+
+**Youth unemployment rate (ages 15-24)**<br>
+_total_: 35.7%<br>
+_male_: 28.1%<br>
+_female_: 45.6% (2021 est.)<br>
 
 ## Environment
 
@@ -399,28 +404,29 @@ _selected World Heritage Site locales_: National History Park &ndash; Citadel, S
 <p>Haiti is a free market economy with low labor costs and tariff-free access to the US for many of its exports. Two-fifths of all Haitians depend on the agricultural sector, mainly small-scale subsistence farming, which remains vulnerable to damage from frequent natural disasters. Poverty, corruption, vulnerability to natural disasters, and low levels of education for much of the population represent some of the most serious impediments to Haiti’s economic growth. Remittances are the primary source of foreign exchange, equivalent to more than a quarter of GDP, and nearly double the combined value of Haitian exports and foreign direct investment.</p> <p> </p> <p>Currently the poorest country in the Western Hemisphere, with close to 60% of the population living under the national poverty line, Haiti’s GDP growth rose to 5.5% in 2011 as the Haitian economy began recovering from the devastating January 2010 earthquake that destroyed much of its capital city, Port-au-Prince, and neighboring areas. However, growth slowed to below 2% in 2015 and 2016 as political uncertainty, drought conditions, decreasing foreign aid, and the depreciation of the national currency took a toll on investment and economic growth. Hurricane Matthew, the fiercest Caribbean storm in nearly a decade, made landfall in Haiti on 4 October 2016, with 140 mile-per-hour winds, creating a new humanitarian emergency. An estimated 2.1 million people were affected by the category 4 storm, which caused extensive damage to crops, houses, livestock, and infrastructure across Haiti’s southern peninsula.</p> <p> </p> <p>US economic engagement under the Caribbean Basin Trade Partnership Act (CBTPA) and the 2008 Haitian Hemispheric Opportunity through Partnership Encouragement Act (HOPE II) have contributed to an increase in apparel exports and investment by providing duty-free access to the US. The Haiti Economic Lift Program (HELP) Act of 2010 extended the CBTPA and HOPE II until 2020, while the Trade Preferences Extension Act of 2015 extended trade benefits provided to Haiti in the HOPE and HELP Acts through September 2025. Apparel sector exports in 2016 reached approximately $850 million and account for over 90% of Haitian exports and more than 10% of the GDP.</p> <p> </p> <p>Investment in Haiti is hampered by the difficulty of doing business and weak infrastructure, including access to electricity. Haiti's outstanding external debt was cancelled by donor countries following the 2010 earthquake, but has since risen to $2.6 billion as of December 2017, the majority of which is owed to Venezuela under the PetroCaribe program. Although the government has increased its revenue collection, it continues to rely on formal international economic assistance for fiscal sustainability, with over 20% of its annual budget coming from foreign aid or direct budget support.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
-$31.62 billion (2020 est.)<br>
-$32.72 billion (2019 est.)<br>
-$33.28 billion (2018 est.)<br>
+$32.856 billion (2021 est.)<br>
+$33.458 billion (2020 est.)<br>
+$34.615 billion (2019 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
-1.2% (2017 est.)<br>
-1.5% (2016 est.)<br>
-1.2% (2015 est.)<br>
+-1.8% (2021 est.)<br>
+-3.34% (2020 est.)<br>
+-1.68% (2019 est.)<br>
 
 **Real GDP per capita**<br>
-$2,800 (2020 est.)<br>
-$2,900 (2019 est.)<br>
-$3,000 (2018 est.)<br>
+$2,900 (2021 est.)<br>
+$3,000 (2020 est.)<br>
+$3,100 (2019 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
 $8.608 billion (2017 est.)<br>
 
 **Inflation rate (consumer prices)**<br>
-14.7% (2017 est.)<br>
-13.4% (2016 est.)<br>
+16.84% (2021 est.)<br>
+22.8% (2020 est.)<br>
+18.7% (2019 est.)<br>
 
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 22.1% (2017 est.)<br>
@@ -443,10 +449,10 @@ sugar cane, cassava, mangoes/guavas, plantains, bananas, yams, avocados, maize, 
 textiles, sugar refining, flour milling, cement, light assembly using imported parts<br>
 
 **Industrial production growth rate**<br>
-0.9% (2017 est.)<br>
+-2.48% (2021 est.)<br>
 
 **Labor force**<br>
-4.594 million (2014 est.)<br>
+5.01 million (2021 est.)<br>
 <strong>note:</strong> shortage of skilled labor; unskilled labor abundant<br>
 
 **Labor force - by occupation**<br>
@@ -455,15 +461,21 @@ _industry_: 11.5%<br>
 _services_: 50.4% (2010)<br>
 
 **Unemployment rate**<br>
-40.6% (2010 est.)<br>
+15.73% (2021 est.)<br>
+15.45% (2020 est.)<br>
+13.91% (2019 est.)<br>
 <strong>note:</strong> widespread unemployment and underemployment; more than two-thirds of the labor force do not have formal jobs<br>
+
+**Youth unemployment rate (ages 15-24)**<br>
+_total_: 35.7%<br>
+_male_: 28.1%<br>
+_female_: 45.6% (2021 est.)<br>
 
 **Population below poverty line**<br>
 58.5% (2012 est.)<br>
 
 **Gini Index coefficient - distribution of family income**<br>
 41.1 (2012 est.)<br>
-59.2 (2001)<br>
 
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 0.7%<br>
@@ -487,12 +499,14 @@ _expenditures_: 1.65 billion (2017 est.)<br>
 1 October - 30 September<br>
 
 **Current account balance**<br>
--$348 million (2017 est.)<br>
--$83 million (2016 est.)<br>
+$141.371 million (2021 est.)<br>
+$216.157 million (2020 est.)<br>
+-$168.76 million (2019 est.)<br>
 
 **Exports**<br>
-$1.73 billion (2019 est.) note: data are in current year dollars<br>
-$1.78 billion (2018 est.) note: data are in current year dollars<br>
+$1.241 billion (2021 est.) note: data are in current year dollars<br>
+$1.014 billion (2020 est.) note: data are in current year dollars<br>
+$1.733 billion (2019 est.)<br>
 
 **Exports - partners**<br>
 United States 81%, Canada 7% (2019)<br>
@@ -501,8 +515,9 @@ United States 81%, Canada 7% (2019)<br>
 clothing and apparel, eels, essential oils, perfumes, mangoes, cocoa beans (2019)<br>
 
 **Imports**<br>
-$5.21 billion (2019 est.) note: data are in current year dollars<br>
-$5.67 billion (2018 est.) note: data are in current year dollars<br>
+$5.222 billion (2021 est.) note: data are in current year dollars<br>
+$4.206 billion (2020 est.) note: data are in current year dollars<br>
+$5.161 billion (2019 est.)<br>
 
 **Imports - partners**<br>
 United States 39%, China 22%, Turkey 5% (2019)<br>
@@ -511,8 +526,9 @@ United States 39%, China 22%, Turkey 5% (2019)<br>
 refined petroleum, rice, clothing and apparel, palm oil, poultry meats (2019)<br>
 
 **Reserves of foreign exchange and gold**<br>
-$2.361 billion (31 December 2017 est.)<br>
-$2.11 billion (31 December 2016 est.)<br>
+$2.759 billion (31 December 2021 est.)<br>
+$2.59 billion (31 December 2020 est.)<br>
+$2.355 billion (31 December 2019 est.)<br>
 
 **Debt - external**<br>
 $2.762 billion (31 December 2017 est.)<br>
@@ -520,11 +536,11 @@ $2.17 billion (31 December 2016 est.)<br>
 
 **Exchange rates**<br>
 _Currency_: gourdes (HTG) per US dollar -<br>
-65.21 (2017 est.)<br>
-63.34 (2016 est.)<br>
-63.34 (2015 est.)<br>
-50.71 (2014 est.)<br>
-45.22 (2013 est.)<br>
+89.227 (2021 est.)<br>
+93.51 (2020 est.)<br>
+88.815 (2019 est.)<br>
+68.032 (2018 est.)<br>
+64.77 (2017 est.)<br>
 
 ## Energy
 

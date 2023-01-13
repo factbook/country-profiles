@@ -169,7 +169,7 @@ _female_: 65.82 years (2022 est.)<br>
 4.85 children born/woman (2022 est.)<br>
 
 **Gross reproduction rate**<br>
-2.39 (2022 est.)<br>
+2.37 (2023 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 10.9% (2018)<br>
@@ -221,11 +221,11 @@ _wine_: 0.01 liters of pure alcohol (2019 est.)<br>
 _spirits_: 0.03 liters of pure alcohol (2019 est.)<br>
 _other alcohols_: 0 liters of pure alcohol (2019 est.)<br>
 
-**Currently married women (ages 15-49)**<br>
-69.2% (2022 est.)<br>
-
 **Children under the age of 5 years underweight**<br>
 16.3% (2018)<br>
+
+**Currently married women (ages 15-49)**<br>
+68.7% (2023 est.)<br>
 
 **Child marriage**<br>
 _women married by age 15_: 17%<br>
@@ -247,9 +247,9 @@ _male_: 10 years<br>
 _female_: 8 years (2014)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 7.1%<br>
-_male_: 6.1%<br>
-_female_: 7.9% (2019 est.)<br>
+_total_: 8.2%<br>
+_male_: 7%<br>
+_female_: 9.2% (2021 est.)<br>
 
 ## Environment
 
@@ -427,29 +427,29 @@ _selected World Heritage Site locales_: Mount Nimba Strict Nature Reserve<br>
 <p>Guinea is a poor country of approximately 12.9 million people in 2016 that possesses the world's largest reserves of bauxite and largest untapped high-grade iron ore reserves, as well as gold and diamonds. In addition, Guinea has fertile soil, ample rainfall, and is the source of several West African rivers, including the Senegal, Niger, and Gambia. Guinea's hydro potential is enormous and the country could be a major exporter of electricity. The country also has tremendous agriculture potential. Gold, bauxite, and diamonds are Guinea’s main exports. International investors have shown interest in Guinea's unexplored mineral reserves, which have the potential to propel Guinea's future growth.</p> <p> </p> <p>Following the death of long-term President Lansana CONTE in 2008 and the coup that followed, international donors, including the G-8, the IMF, and the World Bank, significantly curtailed their development programs in Guinea. However, the IMF approved a 3-year Extended Credit Facility arrangement in 2012, following the December 2010 presidential elections. In September 2012, Guinea achieved Heavily Indebted Poor Countries completion point status. Future access to international assistance and investment will depend on the government’s ability to be transparent, combat corruption, reform its banking system, improve its business environment, and build infrastructure. In April 2013, the government amended its mining code to reduce taxes and royalties. In 2014, Guinea complied with requirements of the Extractive Industries Transparency Initiative by publishing its mining contracts. Guinea completed its program with the IMF in October 2016 even though some targeted reforms have been delayed. Currently Guinea is negotiating a new IMF program which will be based on Guinea’s new five-year economic plan, focusing on the development of higher value-added products, including from the agro-business sector and development of the rural economy.</p> <p> </p> <p>Political instability, a reintroduction of the Ebola virus epidemic, low international commodity prices, and an enduring legacy of corruption, inefficiency, and lack of government transparency are factors that could impact Guinea’s future growth. Economic recovery will be a long process while the government adjusts to lower inflows of international donor aid following the surge of Ebola-related emergency support. Ebola stalled promising economic growth in the 2014-15 period and impeded several projects, such as offshore oil exploration and the Simandou iron ore project. The economy, however, grew by 6.6% in 2016 and 6.7% in 2017, mainly due to growth from bauxite mining and thermal energy generation as well as the resiliency of the agricultural sector. The 240-megawatt Kaleta Dam, inaugurated in September 2015, has expanded access to electricity for residents of Conakry. An combined with fears of Ebola virus, continue to undermine Guinea's economic viability.</p> <p> </p> <p>Guinea’s iron ore industry took a hit in 2016 when investors in the Simandou iron ore project announced plans to divest from the project. In 2017, agriculture output and public investment boosted economic growth, while the mining sector continued to play a prominent role in economic performance.</p> <p> </p> <p>Successive governments have failed to address the country's crumbling infrastructure. Guinea suffers from chronic electricity shortages; poor roads, rail lines and bridges; and a lack of access to clean water - all of which continue to plague economic development. The present government, led by President Alpha CONDE, is working to create an environment to attract foreign investment and hopes to have greater participation from western countries and firms in Guinea's economic development.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
-$35.08 billion (2020 est.)<br>
-$32.78 billion (2019 est.)<br>
-$31.03 billion (2018 est.)<br>
+$35.729 billion (2021 est.)<br>
+$34.388 billion (2020 est.)<br>
+$32.775 billion (2019 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
-8.2% (2017 est.)<br>
-10.5% (2016 est.)<br>
-3.8% (2015 est.)<br>
+3.9% (2021 est.)<br>
+4.92% (2020 est.)<br>
+5.62% (2019 est.)<br>
 
 **Real GDP per capita**<br>
-$2,700 (2020 est.)<br>
-$2,600 (2019 est.)<br>
-$2,500 (2018 est.)<br>
+$2,600 (2021 est.)<br>
+$2,600 (2020 est.)<br>
+$2,500 (2019 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
 $13.55 billion (2019 est.)<br>
 
 **Inflation rate (consumer prices)**<br>
-9.4% (2019 est.)<br>
-9.8% (2018 est.)<br>
-8.9% (2017 est.)<br>
+12.6% (2021 est.)<br>
+10.6% (2020 est.)<br>
+9.47% (2019 est.)<br>
 
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 19.8% (2017 est.)<br>
@@ -471,30 +471,30 @@ rice, cassava, groundnuts, maize, oil palm fruit, fonio, plantains, sugar cane, 
 bauxite, gold, diamonds, iron ore; light manufacturing, agricultural processing<br>
 
 **Industrial production growth rate**<br>
-11% (2017 est.)<br>
+3.9% (2021 est.)<br>
 
 **Labor force**<br>
-5.558 million (2017 est.)<br>
+4.89 million (2021 est.)<br>
 
 **Labor force - by occupation**<br>
 _agriculture_: 76%<br>
 _industry_: 24% (2006 est.)<br>
 
 **Unemployment rate**<br>
-2.7% (2017 est.)<br>
-2.8% (2016 est.)<br>
+6.34% (2021 est.)<br>
+6.1% (2020 est.)<br>
+5.02% (2019 est.)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 7.1%<br>
-_male_: 6.1%<br>
-_female_: 7.9% (2019 est.)<br>
+_total_: 8.2%<br>
+_male_: 7%<br>
+_female_: 9.2% (2021 est.)<br>
 
 **Population below poverty line**<br>
 43.7% (2018 est.)<br>
 
 **Gini Index coefficient - distribution of family income**<br>
-33.7 (2012 est.)<br>
-40.3 (1994)<br>
+29.6 (2018 est.)<br>
 
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 2.7%<br>
@@ -518,13 +518,14 @@ _expenditures_: 1.748 billion (2017 est.)<br>
 calendar year<br>
 
 **Current account balance**<br>
--$705 million (2017 est.)<br>
--$2.705 billion (2016 est.)<br>
+$4.639 billion (2021 est.)<br>
+$2.685 billion (2020 est.)<br>
+-$314.62 million (2019 est.)<br>
 
 **Exports**<br>
-$4.04 billion (2019 est.) note: data are in current year dollars<br>
-$4.08 billion (2018 est.) note: data are in current year dollars<br>
-$4.733 billion (2017 est.)<br>
+$10.266 billion (2021 est.) note: data are in current year dollars<br>
+$8.996 billion (2020 est.) note: data are in current year dollars<br>
+$4.041 billion (2019 est.)<br>
 
 **Exports - partners**<br>
 United Arab Emirates 39%, China 36%, India 6% (2019)<br>
@@ -533,9 +534,9 @@ United Arab Emirates 39%, China 36%, India 6% (2019)<br>
 aluminum, gold, bauxite, diamonds, fish, cashews (2019)<br>
 
 **Imports**<br>
-$4.32 billion (2019 est.) note: data are in current year dollars<br>
-$4.18 billion (2018 est.) note: data are in current year dollars<br>
-$7.317 billion (2017 est.)<br>
+$5.353 billion (2021 est.) note: data are in current year dollars<br>
+$6.314 billion (2020 est.) note: data are in current year dollars<br>
+$4.32 billion (2019 est.)<br>
 
 **Imports - partners**<br>
 China 39%, India 8%, Netherlands 6%, Belgium 5%, United Arab Emirates 5% (2019)<br>
@@ -544,8 +545,9 @@ China 39%, India 8%, Netherlands 6%, Belgium 5%, United Arab Emirates 5% (2019)<
 rice, refined petroleum, packaged medicines, delivery trucks, cars (2019)<br>
 
 **Reserves of foreign exchange and gold**<br>
-$331.8 million (31 December 2017 est.)<br>
-$383.4 million (31 December 2016 est.)<br>
+$1.499 billion (31 December 2020 est.)<br>
+$1.379 billion (31 December 2019 est.)<br>
+$1.242 billion (31 December 2018 est.)<br>
 
 **Debt - external**<br>
 $1.458 billion (31 December 2017 est.)<br>
@@ -553,11 +555,11 @@ $1.462 billion (31 December 2016 est.)<br>
 
 **Exchange rates**<br>
 _Currency_: Guinean francs (GNF) per US dollar -<br>
-9,953 (2020 est.)<br>
-9,542.5 (2019 est.)<br>
-9,092 (2018 est.)<br>
-7,485.5 (2014 est.)<br>
-7,014.1 (2013 est.)<br>
+9,565.082 (2020 est.)<br>
+9,183.876 (2019 est.)<br>
+9,011.134 (2018 est.)<br>
+9,088.319 (2017 est.)<br>
+8,967.927 (2016 est.)<br>
 
 ## Energy
 

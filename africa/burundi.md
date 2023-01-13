@@ -169,7 +169,7 @@ _female_: 69.59 years (2022 est.)<br>
 5.03 children born/woman (2022 est.)<br>
 
 **Gross reproduction rate**<br>
-2.48 (2022 est.)<br>
+2.45 (2023 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 28.5% (2016/17)<br>
@@ -224,11 +224,11 @@ _total_: 11.8% (2020 est.)<br>
 _male_: 17.4% (2020 est.)<br>
 _female_: 6.1% (2020 est.)<br>
 
-**Currently married women (ages 15-49)**<br>
-54.9% (2022 est.)<br>
-
 **Children under the age of 5 years underweight**<br>
 27% (2018/19)<br>
+
+**Currently married women (ages 15-49)**<br>
+54.1% (2023 est.)<br>
 
 **Child marriage**<br>
 _women married by age 15_: 2.8%<br>
@@ -250,9 +250,9 @@ _male_: 11 years<br>
 _female_: 11 years (2018)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 2.9%<br>
-_male_: 4.4%<br>
-_female_: 2% (2014 est.)<br>
+_total_: 3.4%<br>
+_male_: 4.6%<br>
+_female_: 2.5% (2021 est.)<br>
 
 ## Environment
 
@@ -418,29 +418,29 @@ _lyrics/music_: Jean-Baptiste NTAHOKAJA/Marc BARENGAYABO<br>
 <p>Burundi is a landlocked, resource-poor country with an underdeveloped manufacturing sector. Agriculture accounts for over 40% of GDP and employs more than 90% of the population. Burundi's primary exports are coffee and tea, which account for more than half of foreign exchange earnings, but these earnings are subject to fluctuations in weather and international coffee and tea prices, Burundi is heavily dependent on aid from bilateral and multilateral donors, as well as foreign exchange earnings from participation in the African Union Mission to Somalia (AMISOM). Foreign aid represented 48% of Burundi's national income in 2015, one of the highest percentages in Sub-Saharan Africa, but this figure decreased to 33.5% in 2016 due to political turmoil surrounding President NKURUNZIZA’s bid for a third term. Burundi joined the East African Community (EAC) in 2009.</p> <p> </p> <p>Burundi faces several underlying weaknesses – low governmental capacity, corruption, a high poverty rate, poor educational levels, a weak legal system, a poor transportation network, and overburdened utilities – that have prevented the implementation of planned economic reforms. The purchasing power of most Burundians has decreased as wage increases have not kept pace with inflation, which reached approximately 18% in 2017.</p> <p> </p> <p>Real GDP growth dropped precipitously following political events in 2015 and has yet to recover to pre-conflict levels. Continued resistance by donors and the international community will restrict Burundi’s economic growth as the country deals with a large current account deficit.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
-$8.69 billion (2020 est.)<br>
-$8.67 billion (2019 est.)<br>
-$8.51 billion (2018 est.)<br>
+$8.849 billion (2021 est.)<br>
+$8.693 billion (2020 est.)<br>
+$8.665 billion (2019 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
-0% (2017 est.)<br>
--1% (2016 est.)<br>
--4% (2015 est.)<br>
+1.8% (2021 est.)<br>
+0.33% (2020 est.)<br>
+1.81% (2019 est.)<br>
 
 **Real GDP per capita**<br>
+$700 (2021 est.)<br>
 $700 (2020 est.)<br>
-$800 (2019 est.)<br>
-$800 (2018 est.)<br>
+$700 (2019 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
 $3.027 billion (2019 est.)<br>
 
 **Inflation rate (consumer prices)**<br>
--0.6% (2019 est.)<br>
--2.5% (2018 est.)<br>
-15.9% (2017 est.)<br>
+8.4% (2021 est.)<br>
+7.32% (2020 est.)<br>
+-0.69% (2019 est.)<br>
 
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 39.5% (2017 est.)<br>
@@ -462,10 +462,10 @@ cassava, bananas, sweet potatoes, plantains, beans, vegetables, potatoes, cashew
 light consumer goods (sugar, shoes, soap, beer); cement, assembly of imported components; public works construction; food processing (fruits)<br>
 
 **Industrial production growth rate**<br>
--2% (2017 est.)<br>
+1.4% (2021 est.)<br>
 
 **Labor force**<br>
-5.012 million (2017 est.)<br>
+5.271 million (2021 est.)<br>
 
 **Labor force - by occupation**<br>
 _agriculture_: 93.6%<br>
@@ -473,12 +473,15 @@ _industry_: 2.3%<br>
 _services_: 4.1% (2002 est.)<br>
 
 **Unemployment rate**<br>
-<p>NA</p><br>
+1.79% (2021 est.)<br>
+1.71% (2020 est.)<br>
+1.59% (2019 est.)<br>
+NA<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 2.9%<br>
-_male_: 4.4%<br>
-_female_: 2% (2014 est.)<br>
+_total_: 3.4%<br>
+_male_: 4.6%<br>
+_female_: 2.5% (2021 est.)<br>
 
 **Population below poverty line**<br>
 64.6% (2014 est.)<br>
@@ -508,12 +511,13 @@ _expenditures_: 729.6 million (2017 est.)<br>
 calendar year<br>
 
 **Current account balance**<br>
--$418 million (2017 est.)<br>
--$411 million (2016 est.)<br>
+-$362.645 million (2018 est.)<br>
+-$373.389 million (2017 est.)<br>
+-$339.695 million (2016 est.)<br>
 
 **Exports**<br>
-$283 million (2018 est.)<br>
-$315 million (2017 est.)<br>
+$285.105 million (2018 est.)<br>
+$270.686 million (2017 est.)<br>
 <strong>note:</strong> Data are in current year dollars and do not include illicit exports or re-exports.<br>
 
 **Exports - partners**<br>
@@ -523,7 +527,7 @@ United Arab Emirates 50%, Democratic Republic of the Congo 7% (2019)<br>
 gold, coffee, tea, raw earth metal ores, wheat flours (2019)<br>
 
 **Imports**<br>
-$927 million (2018 est.)<br>
+$905.294 million (2018 est.) note: data are in current year dollars<br>
 $1.295 billion (2017 est.)<br>
 
 **Imports - partners**<br>
@@ -533,8 +537,9 @@ China 14%, Saudi Arabia 14%, India 9%, Kenya 7%, United Arab Emirates 7%, Tanzan
 refined petroleum, packaged medicines, cement, raw sugar, cars (2019)<br>
 
 **Reserves of foreign exchange and gold**<br>
-$97.4 million (31 December 2017 est.)<br>
-$95.17 million (31 December 2016 est.)<br>
+$266.164 million (31 December 2021 est.)<br>
+$90.319 million (31 December 2020 est.)<br>
+$111.374 million (31 December 2019 est.)<br>
 
 **Debt - external**<br>
 $610.9 million (31 December 2017 est.)<br>
@@ -542,11 +547,11 @@ $622.4 million (31 December 2016 est.)<br>
 
 **Exchange rates**<br>
 _Currency_: Burundi francs (BIF) per US dollar -<br>
-1,945 (2020 est.)<br>
-1,876.25 (2019 est.)<br>
-1,800.495 (2018 est.)<br>
-1,571.9 (2014 est.)<br>
-1,546.7 (2013 est.)<br>
+1,975.951 (2021 est.)<br>
+1,915.046 (2020 est.)<br>
+1,845.623 (2019 est.)<br>
+1,782.877 (2018 est.)<br>
+1,729.055 (2017 est.)<br>
 
 ## Energy
 

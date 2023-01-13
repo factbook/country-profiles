@@ -171,7 +171,7 @@ _female_: 77.31 years (2022 est.)<br>
 2.11 children born/woman (2022 est.)<br>
 
 **Gross reproduction rate**<br>
-1.09 (2022 est.)<br>
+1.08 (2023 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 53% (2018)<br>
@@ -220,11 +220,11 @@ _total_: 23.2% (2020 est.)<br>
 _male_: 39.6% (2020 est.)<br>
 _female_: 6.7% (2020 est.)<br>
 
-**Currently married women (ages 15-49)**<br>
-62.6% (2022 est.)<br>
-
 **Children under the age of 5 years underweight**<br>
 2% (2015)<br>
+
+**Currently married women (ages 15-49)**<br>
+61.8% (2023 est.)<br>
 
 **Education expenditures**<br>
 4.5% of GDP (2020 est.)<br>
@@ -241,9 +241,9 @@ _male_: 15 years<br>
 _female_: 16 years (2020)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 3.8%<br>
-_male_: 3.4%<br>
-_female_: 4.2% (2020 est.)<br>
+_total_: 3.7%<br>
+_male_: 3.3%<br>
+_female_: 4.3% (2021 est.)<br>
 
 ## Environment
 
@@ -358,11 +358,11 @@ _chief of state_: President Kasym-Zhomart TOKAYEV (since 20 March 2019)<br>
 _head of government_: Prime Minister Alikhan SMAILOV (since 11 January 2022); note - Prime Minister Askar MAMIN resigned on 5 January 2022 in the wake of massive protests of his government that began 2 January 2022 following a sudden, steep rise in gasoline prices<br>
 _cabinet_: the president appoints ministers after consultations with the Chair of the Security Council; the president has veto power over all appointments except for the ministers of defense, internal affairs, and foreign affairs; however, the president is required to discuss these three offices with the National Security Committee<br>
 _elections/appointments_: president directly elected by simple majority popular vote for a 7-year term (prior to September 2022, the president of Kazakhstan could serve up to two terms of five years each; the legislation was changed in September 2022, reducing the maximum number of terms to one term of seven years); election last held on 20 November 2022 (next to be held in 2029); prime minister and deputy prime ministers appointed by the president, approved by the Mazhilis<br>
-_election results_: 2022: Kasym-Zhomart TOKAYEV elected president; percent of vote - Kasym-Zhomart TOKAYEV (Nur Otan) 81.3%, Jiguli DAIRABAEV 3.4%, Qaraqat ABDEN 2.6%, Meiram QAJYKEN 2.5%, Nurian AUESBAEV 2.2%, Saltanat TURSYNBEKOVA 2.1%, other 5.8%<br><br>2019: Kasym-Zhomart TOKAYEV elected president; percent of vote - Kasym-Zhomart TOKAYEV (Nur Otan) 71%, Amirzhan KOSANOV (Ult Tagdyry) 16.2%, Daniya YESPAYEVA (Ak Zhol) 5.1%, other 7.7%<br><br>1991: Nursultan NAZARBAYEV elected the first president of Kazakhstan; percent of vote 98.8%, other 1.2%<br> <pre> </pre><br>
+_election results_: <em>election results: 2022</em>: Kasym-Zhomart TOKAYEV elected president; percent of vote - Kasym-Zhomart TOKAYEV (Nur Otan) 81.3%, Jiguli DAIRABAEV 3.4%, Qaraqat ABDEN 2.6%, Meiram QAJYKEN 2.5%, Nurian AUESBAEV 2.2%, Saltanat TURSYNBEKOVA 2.1%, other 5.8%<br><br><em>election results: 2019</em>: Kasym-Zhomart TOKAYEV elected president; percent of vote - Kasym-Zhomart TOKAYEV (Nur Otan) 71%, Amirzhan KOSANOV (Ult Tagdyry) 16.2%, Daniya YESPAYEVA (Ak Zhol) 5.1%, other 7.7%<br>
 
 **Legislative branch**<br>
 _description_: bicameral Parliament consists of:<br>Senate (49 seats statutory, 48 as of October 2021); 34 members indirectly elected by 2-round majority vote by the oblast-level assemblies and 15 members appointed by decree of the president; members serve 6-year terms, with one-half of the membership renewed every 3 years)<br>Mazhilis (107 seats; 98 members directly elected in a single national constituency by proportional representation vote to serve 5-year terms and 9 indirectly elected by the Assembly of People of Kazakhstan, a 351-member, presidentially appointed advisory body designed to represent the country's ethnic minorities)<br>
-_elections_: <br>Senate - last held on 12 August 2020 (next to be held in August 2023)<br>Mazhilis - last held on 10 January 2021 (next to be held in 2026)<br>
+_elections_: Senate - last held on 12 August 2020 (next to be held in August 2023)<br>Mazhilis - last held on 10 January 2021 (next to be held in 2026)<br>
 _election results_: <strong> </strong><br>Senate - percent of vote by party - NA; seats by party - NA; composition (as of October 2021) - men 39, women 9, percent of women 18.4%<br>Mazhilis - percent of vote by party - Nur Otan 71.1%, Ak Zhol 11%, QHP 9.1%, other 8.8%; seats by party - Nur Otan 76, Ak Zhol 12, QHP 10; composition (as of October 2021) - men 78, women 29, percent of women 27.1%; note - total Parliament percent of women 24.4%<br>
 
 **Judicial branch**<br>
@@ -371,7 +371,7 @@ _judge selection and term of office_: Supreme Court judges proposed by the presi
 _subordinate courts_: regional and local courts<br>
 
 **Political parties and leaders**<br>
-Adal [Serik SULTANGALI] (formerly Birlik (Unity) Party)<br>Ak Zhol (Bright Path) Party or Democratic Party of Kazakhstan Ak Zhol [Azat PERUASHEV]<br>Amanat [Erlan QOSANOV] (formerly Nur Otan (Radiant Fatherland))<br>National Social Democratic Party or NSDP [Ashat Nurmagambetuly RAHYMJANOV]<br>People's Democratic (Patriotic) Party or Auyl or AHDPP [Ali BEKTAYEV]<br>People's Party of Kazakhstan or QHP [Eruhamet ERTISBAEV]<br>
+Adal [Serik SULTANGALI] (formerly Birlik (Unity) Party)<br>Ak Zhol (Bright Path) Party or Democratic Party of Kazakhstan Ak Zhol [Azat PERUASHEV]<br>Amanat [Erlan QOSANOV] (formerly Nur Otan (Radiant Fatherland))<br>National Social Democratic Party or NSDP [Ashat Nurmagambetuly RAHYMJANOV]<br>People's Democratic (Patriotic) Party or Auyl or AHDPP [Ali BEKTAYEV]<br>People's Party of Kazakhstan or QHP [Eruhamet ERTISBAEV]<br>Ult Tagdyry [Dos Koshim]<br>
 
 **International organization participation**<br>
 ADB, CICA, CIS, CSTO, EAEU, EAPC, EBRD, ECO, EITI (compliant country), FAO, GCTU, IAEA, IBRD, ICAO, ICC (NGOs), ICRM, IDA, IDB, IFAD, IFC, IFRCS, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, MIGA, MINURSO, NAM (observer), NSG, OAS (observer), OIC, OPCW, OSCE, PFP, SCO, UN, UNCTAD, UNESCO, UNHRC, UNIDO, UN Security Council (temporary), UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO, ZC<br>
@@ -385,7 +385,7 @@ _email address and website_: <br>washington@mfa.kz<br><br>https://www.gov.kz/mem
 _consulate(s) general_: New York<br>
 
 **Diplomatic representation from the US**<br>
-_chief of mission_: Ambassador (vacant); Charge d'Affaires Judy KUO (since October 2021)<br>
+_chief of mission_: Ambassador Daniel N. ROSENBLUM (since 14 November 2022)<br>
 _embassy_: Rakhymzhan Koshkarbayev Avenue, No. 3, Nur-Sultan 010010<br>
 _mailing address_: 2230 Nur-Sultan Place, Washington DC&nbsp; 20521-2230<br>
 _telephone_: [7] (7172) 70-21-00<br>
@@ -414,29 +414,29 @@ _selected World Heritage Site locales_: Mausoleum of Khoja Ahmed Yasawi (c); Pet
 <p>Kazakhstan's vast hydrocarbon and mineral reserves form the backbone of its economy. Geographically the largest of the former Soviet republics, excluding Russia, Kazakhstan, g possesses substantial fossil fuel reserves and other minerals and metals, such as uranium, copper, and zinc. It also has a large agricultural sector featuring livestock and grain. The government realizes that its economy suffers from an overreliance on oil and extractive industries and has made initial attempts to diversify its economy by targeting sectors like transport, pharmaceuticals, telecommunications, petrochemicals and food processing for greater development and investment. It also adopted a Subsoil Code in December 2017 with the aim of increasing exploration and investment in the hydrocarbon, and particularly mining, sectors.</p> <p> </p> <p>Kazakhstan's oil production and potential is expanding rapidly. A $36.8 billion expansion of Kazakhstan’s premiere Tengiz oil field by Chevron-led Tengizchevroil should be complete in 2022. Meanwhile, the super-giant Kashagan field finally launched production in October 2016 after years of delay and an estimated $55 billion in development costs. Kazakhstan’s total oil production in 2017 climbed 10.5%.</p> <p> </p> <p>Kazakhstan is landlocked and depends on Russia to export its oil to Europe. It also exports oil directly to China. In 2010, Kazakhstan joined Russia and Belarus to establish a Customs Union in an effort to boost foreign investment and improve trade. The Customs Union evolved into a Single Economic Space in 2012 and the Eurasian Economic Union (EAEU) in January 2015. Supported by rising commodity prices, Kazakhstan’s exports to EAEU countries increased 30.2% in 2017. Imports from EAEU countries grew by 24.1%.</p> <p> </p> <p>The economic downturn of its EAEU partner, Russia, and the decline in global commodity prices from 2014 to 2016 contributed to an economic slowdown in Kazakhstan. In 2014, Kazakhstan devalued its currency, the tenge, and announced a stimulus package to cope with its economic challenges. In the face of further decline in the ruble, oil prices, and the regional economy, Kazakhstan announced in 2015 it would replace its currency band with a floating exchange rate, leading to a sharp fall in the value of the tenge. Since reaching a low of 391 to the dollar in January 2016, the tenge has modestly appreciated, helped by somewhat higher oil prices. While growth slowed to about 1% in both 2015 and 2016, a moderate recovery in oil prices, relatively stable inflation and foreign exchange rates, and the start of production at Kashagan helped push 2017 GDP growth to 4%.</p> <p> </p> <p>Despite some positive institutional and legislative changes in the last several years, investors remain concerned about corruption, bureaucracy, and arbitrary law enforcement, especially at the regional and municipal levels. An additional concern is the condition of the country’s banking sector, which suffers from poor asset quality and a lack of transparency. Investors also question the potentially negative effects on the economy of a contested presidential succession as Kazakhstan’s first president, Nursultan NAZARBAYEV, turned 77 in 2017.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
-$475.18 billion (2020 est.)<br>
-$487.87 billion (2019 est.)<br>
-$466.86 billion (2018 est.)<br>
+$496.126 billion (2021 est.)<br>
+$475.672 billion (2020 est.)<br>
+$487.869 billion (2019 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
-6.13% (2019 est.)<br>
-4.41% (2018 est.)<br>
-4.38% (2017 est.)<br>
+4.3% (2021 est.)<br>
+-2.5% (2020 est.)<br>
+4.5% (2019 est.)<br>
 
 **Real GDP per capita**<br>
-$25,300 (2020 est.)<br>
+$26,100 (2021 est.)<br>
+$25,400 (2020 est.)<br>
 $26,400 (2019 est.)<br>
-$25,500 (2018 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
 $181.194 billion (2019 est.)<br>
 
 **Inflation rate (consumer prices)**<br>
-5.2% (2019 est.)<br>
-6% (2018 est.)<br>
-7.3% (2017 est.)<br>
+6.75% (2020 est.)<br>
+5.25% (2019 est.)<br>
+6.02% (2018 est.)<br>
 
 **Credit ratings**<br>
 _Fitch rating_: BBB (2016)<br>
@@ -464,10 +464,10 @@ wheat, milk, potatoes, barley, watermelons, melons, linseed, onions, maize, sunf
 oil, coal, iron ore, manganese, chromite, lead, zinc, copper, titanium, bauxite, gold, silver, phosphates, sulfur, uranium, iron and steel; tractors and other agricultural machinery, electric motors, construction materials<br>
 
 **Industrial production growth rate**<br>
-5.8% (2017 est.)<br>
+5.1% (2021 est.)<br>
 
 **Labor force**<br>
-8.685 million (2020 est.)<br>
+9.248 million (2021 est.)<br>
 
 **Labor force - by occupation**<br>
 _agriculture_: 18.1%<br>
@@ -475,20 +475,20 @@ _industry_: 20.4%<br>
 _services_: 61.6% (2017 est.)<br>
 
 **Unemployment rate**<br>
+4.9% (2021 est.)<br>
+4.89% (2020 est.)<br>
 4.8% (2019 est.)<br>
-4.85% (2018 est.)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 3.8%<br>
-_male_: 3.4%<br>
-_female_: 4.2% (2020 est.)<br>
+_total_: 3.7%<br>
+_male_: 3.3%<br>
+_female_: 4.3% (2021 est.)<br>
 
 **Population below poverty line**<br>
 4.3% (2018 est.)<br>
 
 **Gini Index coefficient - distribution of family income**<br>
-27.5 (2017 est.)<br>
-31.5 (2003)<br>
+27.8 (2018 est.)<br>
 
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 4.2%<br>
@@ -502,23 +502,25 @@ _expenditures_: 38.3 billion (2017 est.)<br>
 -1.8% (of GDP) (2017 est.)<br>
 
 **Public debt**<br>
-20.8% of GDP (2017 est.)<br>
-19.7% of GDP (2016 est.)<br>
+26.63% of GDP (2020 est.)<br>
+18.48% of GDP (2019 est.)<br>
+21.99% of GDP (2018 est.)<br>
 
 **Taxes and other revenues**<br>
-22.3% (of GDP) (2017 est.)<br>
+8.32% (of GDP) (2020 est.)<br>
 
 **Fiscal year**<br>
 calendar year<br>
 
 **Current account balance**<br>
--$7.206 billion (2019 est.)<br>
--$138 million (2018 est.)<br>
+-$7.862 billion (2021 est.)<br>
+-$7.59 billion (2020 est.)<br>
+-$8.282 billion (2019 est.)<br>
 
 **Exports**<br>
-$51.75 billion (2020 est.) note: data are in current year dollars<br>
-$65.91 billion (2019 est.) note: data are in current year dollars<br>
-$67.15 billion (2018 est.) note: data are in current year dollars<br>
+$66.132 billion (2021 est.) note: data are in current year dollars<br>
+$52.355 billion (2020 est.) note: data are in current year dollars<br>
+$65.919 billion (2019 est.) note: data are in current year dollars<br>
 
 **Exports - partners**<br>
 China 13%, Italy 12%, Russia 10%, Netherlands 7%, France 6%, South Korea 5% (2019)<br>
@@ -527,9 +529,9 @@ China 13%, Italy 12%, Russia 10%, Netherlands 7%, France 6%, South Korea 5% (201
 crude petroleum, natural gas, copper, iron alloys, radioactive chemicals (2019)<br>
 
 **Imports**<br>
-$44.3 billion (2020 est.) note: data are in current year dollars<br>
-$51.5 billion (2019 est.) note: data are in current year dollars<br>
-$46.23 billion (2018 est.) note: data are in current year dollars<br>
+$49.196 billion (2021 est.) note: data are in current year dollars<br>
+$46.218 billion (2020 est.) note: data are in current year dollars<br>
+$52.539 billion (2019 est.) note: data are in current year dollars<br>
 
 **Imports - partners**<br>
 Russia 34%, China 24% (2019)<br>
@@ -538,8 +540,9 @@ Russia 34%, China 24% (2019)<br>
 packaged medicines, natural gas, cars, broadcasting equipment, aircraft (2019)<br>
 
 **Reserves of foreign exchange and gold**<br>
-$30.75 billion (31 December 2017 est.)<br>
-$29.53 billion (31 December 2016 est.)<br>
+$34.378 billion (31 December 2021 est.)<br>
+$35.638 billion (31 December 2020 est.)<br>
+$28.958 billion (31 December 2019 est.)<br>
 
 **Debt - external**<br>
 $159.351 billion (2019 est.)<br>
@@ -547,11 +550,11 @@ $163.73 billion (2018 est.)<br>
 
 **Exchange rates**<br>
 _Currency_: tenge (KZT) per US dollar -<br>
-420.0049 (2020 est.)<br>
-385.9248 (2019 est.)<br>
-370.4648 (2018 est.)<br>
-221.73 (2014 est.)<br>
-179.19 (2013 est.)<br>
+425.908 (2021 est.)<br>
+412.953 (2020 est.)<br>
+382.747 (2019 est.)<br>
+344.706 (2018 est.)<br>
+326.001 (2017 est.)<br>
 
 ## Energy
 

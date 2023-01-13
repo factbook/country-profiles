@@ -163,7 +163,7 @@ _female_: 80.66 years (2022 est.)<br>
 2.39 children born/woman (2022 est.)<br>
 
 **Gross reproduction rate**<br>
-1.16 (2022 est.)<br>
+1.15 (2023 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 50.8% (2014/15)<br>
@@ -216,11 +216,11 @@ _total_: 5% (2020 est.)<br>
 _male_: 7.7% (2020 est.)<br>
 _female_: 2.2% (2020 est.)<br>
 
-**Currently married women (ages 15-49)**<br>
-58.7% (2022 est.)<br>
-
 **Children under the age of 5 years underweight**<br>
 3% (2019)<br>
+
+**Currently married women (ages 15-49)**<br>
+58.6% (2023 est.)<br>
 
 **Education expenditures**<br>
 3.9% of GDP (2020 est.)<br>
@@ -237,9 +237,9 @@ _male_: 12 years<br>
 _female_: 13 years (2016)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 22.4%<br>
-_male_: 19.8%<br>
-_female_: 27.1% (2021 est.)<br>
+_total_: 30%<br>
+_male_: 21.8%<br>
+_female_: 43.6% (2021 est.)<br>
 
 ## Environment
 
@@ -401,28 +401,29 @@ _selected World Heritage Site locales_: Caribbean Fortifications (c); Darien Nat
 <p>Panama's dollar-based economy rests primarily on a well-developed services sector that accounts for more than three-quarters of GDP. Services include operating the Panama Canal, logistics, banking, the Colon Free Trade Zone, insurance, container ports, flagship registry, and tourism and Panama is a center for offshore banking. Panama's transportation and logistics services sectors, along with infrastructure development projects, have boosted economic growth; however, public debt surpassed $37 billion in 2016 because of excessive government spending and public works projects. The US-Panama Trade Promotion Agreement was approved by Congress and signed into law in October 2011, and entered into force in October 2012.</p> <p> </p> <p>Future growth will be bolstered by the Panama Canal expansion project that began in 2007 and was completed in 2016 at a cost of $5.3 billion - about 10-15% of current GDP. The expansion project more than doubled the Canal's capacity, enabling it to accommodate high-capacity vessels such as tankers and neopanamax vessels that are too large to traverse the existing canal. The US and China are the top users of the Canal.</p> <p> </p> <p>Strong economic performance has not translated into broadly shared prosperity, as Panama has the second worst income distribution in Latin America. About one-fourth of the population lives in poverty; however, from 2006 to 2012 poverty was reduced by 10 percentage points.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
-$109.52 billion (2020 est.)<br>
-$133.47 billion (2019 est.)<br>
-$129.54 billion (2018 est.)<br>
+$126.352 billion (2021 est.)<br>
+$109.551 billion (2020 est.)<br>
+$133.509 billion (2019 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
-5.4% (2017 est.)<br>
-5% (2016 est.)<br>
-5.8% (2015 est.)<br>
+15.34% (2021 est.)<br>
+-17.94% (2020 est.)<br>
+2.98% (2019 est.)<br>
 
 **Real GDP per capita**<br>
-$25,400 (2020 est.)<br>
-$31,400 (2019 est.)<br>
-$31,000 (2018 est.)<br>
+$29,000 (2021 est.)<br>
+$25,500 (2020 est.)<br>
+$31,500 (2019 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
 $66.801 billion (2019 est.)<br>
 
 **Inflation rate (consumer prices)**<br>
-0.9% (2017 est.)<br>
-0.7% (2016 est.)<br>
+1.63% (2021 est.)<br>
+-1.55% (2020 est.)<br>
+-0.36% (2019 est.)<br>
 
 **Credit ratings**<br>
 _Fitch rating_: BBB (2011)<br>
@@ -450,10 +451,10 @@ sugar cane, bananas, rice, poultry, milk, plantains, pineapples, maize, beef, po
 construction, brewing, cement and other construction materials, sugar milling<br>
 
 **Industrial production growth rate**<br>
-6.3% (2017 est.)<br>
+37.5% (2021 est.)<br>
 
 **Labor force**<br>
-1.633 million (2017 est.)<br>
+1.966 million (2021 est.)<br>
 <strong>note:</strong> shortage of skilled labor, but an oversupply of unskilled labor<br>
 
 **Labor force - by occupation**<br>
@@ -462,20 +463,20 @@ _industry_: 18.6%<br>
 _services_: 64.4% (2009 est.)<br>
 
 **Unemployment rate**<br>
-6.14% (2018 est.)<br>
-6% (2017 est.)<br>
+12.09% (2021 est.)<br>
+12.85% (2020 est.)<br>
+4.73% (2019 est.)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 22.4%<br>
-_male_: 19.8%<br>
-_female_: 27.1% (2021 est.)<br>
+_total_: 30%<br>
+_male_: 21.8%<br>
+_female_: 43.6% (2021 est.)<br>
 
 **Population below poverty line**<br>
 22.1% (2016 est.)<br>
 
 **Gini Index coefficient - distribution of family income**<br>
 49.2 (2018 est.)<br>
-56.1 (2003)<br>
 
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 1.1%<br>
@@ -493,19 +494,20 @@ _expenditures_: 13.44 billion (2017 est.)<br>
 37.4% of GDP (2016 est.)<br>
 
 **Taxes and other revenues**<br>
-20.1% (of GDP) (2017 est.)<br>
+8.51% (of GDP) (2020 est.)<br>
 
 **Fiscal year**<br>
 calendar year<br>
 
 **Current account balance**<br>
--$3.036 billion (2017 est.)<br>
--$3.16 billion (2016 est.)<br>
+-$1.412 billion (2021 est.)<br>
+$1.097 billion (2020 est.)<br>
+-$3.329 billion (2019 est.)<br>
 
 **Exports**<br>
-$20.18 billion (2020 est.) note: data are in current year dollars<br>
-$28.58 billion (2019 est.) note: data are in current year dollars<br>
-$28.55 billion (2018 est.) note: data are in current year dollars<br>
+$27.237 billion (2021 est.) note: data are in current year dollars<br>
+$20.179 billion (2020 est.) note: data are in current year dollars<br>
+$28.622 billion (2019 est.) note: data are in current year dollars<br>
 <strong>note:</strong> includes the Colon Free Zone<br>
 
 **Exports - partners**<br>
@@ -515,9 +517,9 @@ Ecuador 20%, Guatemala 14%, China 8%, United States 6%, Netherlands 6% (2019)<br
 refined petroleum, copper, bananas, ships, coal tar oil, packaged medicines (2019)<br>
 
 **Imports**<br>
-$17.41 billion (2020 est.) note: data are in current year dollars<br>
-$27.38 billion (2019 est.) note: data are in current year dollars<br>
-$28.9 billion (2018 est.) note: data are in current year dollars<br>
+$24.627 billion (2021 est.) note: data are in current year dollars<br>
+$17.502 billion (2020 est.) note: data are in current year dollars<br>
+$27.599 billion (2019 est.) note: data are in current year dollars<br>
 <strong>note:</strong> includes the Colon Free Zone<br>
 
 **Imports - partners**<br>
@@ -527,8 +529,9 @@ China 21%, United States 19%, Japan 16%, Colombia 6%, Ecuador 5% (2019)<br>
 ships, refined petroleum, crude petroleum, tanker ships, packaged medicines (2019)<br>
 
 **Reserves of foreign exchange and gold**<br>
-$2.703 billion (31 December 2017 est.)<br>
-$3.878 billion (31 December 2016 est.)<br>
+$9.614 billion (31 December 2020 est.)<br>
+$3.423 billion (31 December 2019 est.)<br>
+$2.121 billion (31 December 2018 est.)<br>
 
 **Debt - external**<br>
 $101.393 billion (2019 est.)<br>
@@ -536,11 +539,11 @@ $94.898 billion (2018 est.)<br>
 
 **Exchange rates**<br>
 _Currency_: balboas (PAB) per US dollar -<br>
+1 (2021 est.)<br>
+1 (2020 est.)<br>
+1 (2019 est.)<br>
+1 (2018 est.)<br>
 1 (2017 est.)<br>
-1 (2016 est.)<br>
-1 (2015 est.)<br>
-1 (2014 est.)<br>
-1 (2013 est.)<br>
 
 ## Energy
 

@@ -153,7 +153,7 @@ _female_: 81.35 years (2022 est.)<br>
 1.7 children born/woman (2022 est.)<br>
 
 **Gross reproduction rate**<br>
-0.85 (2022 est.)<br>
+0.85 (2023 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 59.2% (2012)<br>
@@ -201,11 +201,11 @@ _total_: 8.5% (2020 est.)<br>
 _male_: 15% (2020 est.)<br>
 _female_: 1.9% (2020 est.)<br>
 
-**Currently married women (ages 15-49)**<br>
-57.1% (2022 est.)<br>
-
 **Children under the age of 5 years underweight**<br>
 3.5% (2012)<br>
+
+**Currently married women (ages 15-49)**<br>
+57.1% (2023 est.)<br>
 
 **Education expenditures**<br>
 6.5% of GDP (2021 est.)<br>
@@ -217,9 +217,9 @@ _male_: 99.6%<br>
 _female_: 99.6% (2014)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 26%<br>
-_male_: 30.3%<br>
-_female_: 21.2% (2019 est.)<br>
+_total_: 30.6%<br>
+_male_: 34.8%<br>
+_female_: 25.6% (2021 est.)<br>
 
 ## Environment
 
@@ -375,28 +375,29 @@ _selected World Heritage Site locales_: Historic Bridgetown and its Garrison<br>
 Barbados is the wealthiest and one of the most developed countries in the Eastern Caribbean and enjoys one of the highest per capita incomes in the region. Historically, the Barbadian economy was dependent on sugarcane cultivation and related activities. However, in recent years the economy has diversified into light industry and tourism. Offshore finance and information services are important foreign exchange earners, boosted by being in the same time zone as eastern US financial centers and by a relatively highly educated workforce. Following the 2008-09 recession, external vulnerabilities such as fluctuations in international oil prices have hurt economic growth, raised Barbados' already high public debt to GDP ratio - which stood at 105% of GDP in 2016 - and cut into its international reserves.<br>
 
 **Real GDP (purchasing power parity)**<br>
-$3.7 billion (2020 est.)<br>
-$4.49 billion (2019 est.)<br>
-$4.49 billion (2018 est.)<br>
+$3.868 billion (2021 est.)<br>
+$3.875 billion (2020 est.)<br>
+$4.47 billion (2019 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
--0.2% (2017 est.)<br>
-2.3% (2016 est.)<br>
-2.2% (2015 est.)<br>
+-0.19% (2021 est.)<br>
+-13.31% (2020 est.)<br>
+-0.13% (2019 est.)<br>
 
 **Real GDP per capita**<br>
-$12,900 (2020 est.)<br>
-$15,600 (2019 est.)<br>
-$15,700 (2018 est.)<br>
+$13,800 (2021 est.)<br>
+$13,800 (2020 est.)<br>
+$16,000 (2019 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
 $4.99 billion (2017 est.)<br>
 
 **Inflation rate (consumer prices)**<br>
-4.4% (2017 est.)<br>
-1.5% (2016 est.)<br>
+4.1% (2019 est.)<br>
+3.67% (2018 est.)<br>
+4.66% (2017 est.)<br>
 
 **Credit ratings**<br>
 _Moody's rating_: Caa1 (2019)<br>
@@ -423,10 +424,10 @@ sugar cane, poultry, vegetables, milk, eggs, pork, coconuts, pulses, sweet potat
 tourism, sugar, light manufacturing, component assembly for export<br>
 
 **Industrial production growth rate**<br>
-2.4% (2017 est.)<br>
+-0.6% (2021 est.)<br>
 
 **Labor force**<br>
-144,000 (2017 est.)<br>
+139,100 (2021 est.)<br>
 
 **Labor force - by occupation**<br>
 _agriculture_: 10%<br>
@@ -434,13 +435,14 @@ _industry_: 15%<br>
 _services_: 75% (1996 est.)<br>
 
 **Unemployment rate**<br>
-10.1% (2017 est.)<br>
-9.9% (2016 est.)<br>
+10.41% (2021 est.)<br>
+10.38% (2020 est.)<br>
+8.41% (2019 est.)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 26%<br>
-_male_: 30.3%<br>
-_female_: 21.2% (2019 est.)<br>
+_total_: 30.6%<br>
+_male_: 34.8%<br>
+_female_: 25.6% (2021 est.)<br>
 
 **Population below poverty line**<br>
 NA<br>
@@ -457,21 +459,20 @@ _expenditures_: 1.664 billion (2017 est.)<br>
 -4% (of GDP) (2017 est.)<br>
 
 **Public debt**<br>
-157.3% of GDP (2017 est.)<br>
 149.1% of GDP (2016 est.)<br>
 
 **Taxes and other revenues**<br>
-29.4% (of GDP) (2017 est.)<br>
+27.48% (of GDP) (2016 est.)<br>
 
 **Fiscal year**<br>
 1 April - 31 March<br>
 
 **Current account balance**<br>
--$189 million (2017 est.)<br>
--$206 million (2016 est.)<br>
+-$296.396 million (2017 est.)<br>
+-$452.39 million (2016 est.)<br>
 
 **Exports**<br>
-$485.4 million (2017 est.)<br>
+$2.228 billion (2017 est.)<br>
 $516.9 million (2016 est.)<br>
 <strong>note:</strong> Data are in current year dollars and do not include illicit exports or re-exports.<br>
 
@@ -482,7 +483,7 @@ US 21%, Poland 14%, Jamaica 8%, Guyana 6%,Trinidad and Tobago 6% (2019)<br>
 rums and other hard liquor, ships, orthopedic appliances, cement, packaged medicines (2019)<br>
 
 **Imports**<br>
-$1.52 billion (2017 est.)<br>
+$2.213 billion (2017 est.)<br>
 $1.541 billion (2016 est.)<br>
 
 **Imports - partners**<br>
@@ -492,8 +493,9 @@ United States 35%, Trinidad and Tobago 14%, China 9%, Netherlands 5% (2019)<br>
 refined petroleum, ships, cars, shipping containers, packaged medicines (2019)<br>
 
 **Reserves of foreign exchange and gold**<br>
-$264.5 million (31 December 2017 est.)<br>
-$341.8 million (31 December 2016 est.)<br>
+$1.673 billion (31 December 2021 est.)<br>
+$1.358 billion (31 December 2020 est.)<br>
+$772.119 million (31 December 2019 est.)<br>
 
 **Debt - external**<br>
 $4.49 billion (2010 est.)<br>
@@ -501,11 +503,11 @@ $668 million (2003 est.)<br>
 
 **Exchange rates**<br>
 _Currency_: Barbadian dollars (BBD) per US dollar -<br>
+2 (2021 est.)<br>
+2 (2020 est.)<br>
+2 (2019 est.)<br>
+2 (2018 est.)<br>
 2 (2017 est.)<br>
-2 (2016 est.)<br>
-2 (2015 est.)<br>
-2 (2014 est.)<br>
-2 (2013 est.)<br>
 <strong>note:</strong> the Barbadian dollar is pegged to the US dollar<br>
 
 ## Energy

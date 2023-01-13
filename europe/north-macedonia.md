@@ -162,7 +162,7 @@ _female_: 79.08 years (2022 est.)<br>
 1.51 children born/woman (2022 est.)<br>
 
 **Gross reproduction rate**<br>
-0.73 (2022 est.)<br>
+0.74 (2023 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 59.9% (2018/19)<br>
@@ -205,11 +205,11 @@ _wine_: 1.03 liters of pure alcohol (2019 est.)<br>
 _spirits_: 0.9 liters of pure alcohol (2019 est.)<br>
 _other alcohols_: 0.03 liters of pure alcohol (2019 est.)<br>
 
-**Currently married women (ages 15-49)**<br>
-66.5% (2022 est.)<br>
-
 **Children under the age of 5 years underweight**<br>
 0.9% (2018/19)<br>
+
+**Currently married women (ages 15-49)**<br>
+66.5% (2023 est.)<br>
 
 **Child marriage**<br>
 _women married by age 15_: 0.3%<br>
@@ -230,9 +230,9 @@ _male_: 13 years<br>
 _female_: 14 years (2020)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 36.4%<br>
-_male_: 33.5%<br>
-_female_: 41.5% (2021 est.)<br>
+_total_: 34.1%<br>
+_male_: 31.6%<br>
+_female_: 38.4% (2021 est.)<br>
 
 ## Environment
 
@@ -394,29 +394,29 @@ _selected World Heritage Site locales_: Natural and Cultural Heritage of the Ohr
 <p>Since its independence in 1991, Macedonia has made progress in liberalizing its economy and improving its business environment. Its low tax rates and free economic zones have helped to attract foreign investment, which is still low relative to the rest of Europe. Corruption and weak rule of law remain significant problems. Some businesses complain of opaque regulations and unequal enforcement of the law.</p> <p> </p> <p>Macedonia’s economy is closely linked to Europe as a customer for exports and source of investment, and has suffered as a result of prolonged weakness in the euro zone. Unemployment has remained consistently high at about 23% but may be overstated based on the existence of an extensive gray market, estimated to be between 20% and 45% of GDP, which is not captured by official statistics.</p> <p> </p> <p>Macedonia is working to build a country-wide natural gas pipeline and distribution network. Currently, Macedonia receives its small natural gas supplies from Russia via Bulgaria. In 2016, Macedonia signed a memorandum of understanding with Greece to build an interconnector that could connect to the Trans Adriatic Pipeline that will traverse the region once complete, or to an LNG import terminal in Greece.</p> <p> </p> <p>Macedonia maintained macroeconomic stability through the global financial crisis by conducting prudent monetary policy, which keeps the domestic currency pegged to the euro, and inflation at a low level. However, in the last two years, the internal political crisis has hampered economic performance, with GDP growth slowing in 2016 and 2017, and both domestic private and public investments declining. Fiscal policies were lax, with unproductive public expenditures, including subsidies and pension increases, and rising guarantees for the debt of state owned enterprises, and fiscal targets were consistently missed. In 2017, public debt stabilized at about 47% of GDP, still relatively low compared to its Western Balkan neighbors and the rest of Europe.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
-$33.02 billion (2020 est.)<br>
-$34.59 billion (2019 est.)<br>
-$33.52 billion (2018 est.)<br>
+$34.007 billion (2021 est.)<br>
+$32.71 billion (2020 est.)<br>
+$34.839 billion (2019 est.)<br>
 <strong>note: </strong>data are in 2017 dollars; Macedonia has a large informal sector that may not be reflected in these data<br>
 
 **Real GDP growth rate**<br>
-0% (2017 est.)<br>
-2.9% (2016 est.)<br>
-3.9% (2015 est.)<br>
+3.96% (2021 est.)<br>
+-6.11% (2020 est.)<br>
+3.91% (2019 est.)<br>
 
 **Real GDP per capita**<br>
+$16,500 (2021 est.)<br>
 $15,800 (2020 est.)<br>
-$16,600 (2019 est.)<br>
-$16,100 (2018 est.)<br>
+$16,800 (2019 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
 $12.696 billion (2019 est.)<br>
 
 **Inflation rate (consumer prices)**<br>
-0.7% (2019 est.)<br>
-1.4% (2018 est.)<br>
-1.3% (2017 est.)<br>
+3.23% (2021 est.)<br>
+1.2% (2020 est.)<br>
+0.77% (2019 est.)<br>
 
 **Credit ratings**<br>
 _Fitch rating_: BB+ (2019)<br>
@@ -443,10 +443,10 @@ milk, grapes, wheat, potatoes, green chillies/peppers, cabbages, tomatoes, maize
 food processing, beverages, textiles, chemicals, iron, steel, cement, energy, pharmaceuticals, automotive parts<br>
 
 **Industrial production growth rate**<br>
--7.8% (2017 est.)<br>
+-2.37% (2021 est.)<br>
 
 **Labor force**<br>
-793,000 (2020 est.)<br>
+916,200 (2021 est.)<br>
 
 **Labor force - by occupation**<br>
 _agriculture_: 16.2%<br>
@@ -454,20 +454,20 @@ _industry_: 29.2%<br>
 _services_: 54.5% (2017 est.)<br>
 
 **Unemployment rate**<br>
-17.29% (2019 est.)<br>
-20.7% (2018 est.)<br>
+16.2% (2021 est.)<br>
+17.2% (2020 est.)<br>
+17.26% (2019 est.)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 36.4%<br>
-_male_: 33.5%<br>
-_female_: 41.5% (2021 est.)<br>
+_total_: 34.1%<br>
+_male_: 31.6%<br>
+_female_: 38.4% (2021 est.)<br>
 
 **Population below poverty line**<br>
 21.6% (2018 est.)<br>
 
 **Gini Index coefficient - distribution of family income**<br>
 34.2 (2017 est.)<br>
-35.2 (2014)<br>
 
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 1.7%<br>
@@ -486,19 +486,20 @@ _expenditures_: 3.605 billion (2017 est.)<br>
 <strong>note:</strong> official data from Ministry of Finance; data cover central government debt; this data excludes debt instruments issued (or owned) by government entities other than the treasury; includes treasury debt held by foreign entitites; excludes debt issued by sub-national entities; there are no debt instruments sold for social funds<br>
 
 **Taxes and other revenues**<br>
-29% (of GDP) (2017 est.)<br>
+16.13% (of GDP) (2020 est.)<br>
 
 **Fiscal year**<br>
 calendar year<br>
 
 **Current account balance**<br>
--$151 million (2017 est.)<br>
--$293 million (2016 est.)<br>
+-$420.178 million (2021 est.)<br>
+-$360.444 million (2020 est.)<br>
+-$376.487 million (2019 est.)<br>
 
 **Exports**<br>
-$7.18 billion (2020 est.) note: data are in current year dollars<br>
-$7.78 billion (2019 est.) note: data are in current year dollars<br>
-$7.61 billion (2018 est.) note: data are in current year dollars<br>
+$9.157 billion (2021 est.) note: data are in current year dollars<br>
+$7.19 billion (2020 est.) note: data are in current year dollars<br>
+$7.8 billion (2019 est.) note: data are in current year dollars<br>
 
 **Exports - partners**<br>
 Germany 45%, Serbia 8%, Bulgaria 5% (2019)<br>
@@ -507,9 +508,9 @@ Germany 45%, Serbia 8%, Bulgaria 5% (2019)<br>
 support catalysts, centrifuges, insulated wiring, vehicle parts, buses, seats (2019)<br>
 
 **Imports**<br>
-$8.76 billion (2020 est.) note: data are in current year dollars<br>
-$9.6 billion (2019 est.) note: data are in current year dollars<br>
-$9.23 billion (2018 est.) note: data are in current year dollars<br>
+$11.354 billion (2021 est.) note: data are in current year dollars<br>
+$8.773 billion (2020 est.) note: data are in current year dollars<br>
+$9.605 billion (2019 est.) note: data are in current year dollars<br>
 
 **Imports - partners**<br>
 United Kingdom 14%, Germany 14%, Greece 8%, Serbia 8% (2019)<br>
@@ -518,8 +519,9 @@ United Kingdom 14%, Germany 14%, Greece 8%, Serbia 8% (2019)<br>
 platinum, refined petroleum, laboratory ceramics, cars, insulated wiring (2019)<br>
 
 **Reserves of foreign exchange and gold**<br>
-$2.802 billion (31 December 2017 est.)<br>
-$2.755 billion (31 December 2016 est.)<br>
+$4.129 billion (31 December 2021 est.)<br>
+$4.126 billion (31 December 2020 est.)<br>
+$3.651 billion (31 December 2019 est.)<br>
 
 **Debt - external**<br>
 $9.065 billion (2019 est.)<br>
@@ -527,11 +529,11 @@ $9.398 billion (2018 est.)<br>
 
 **Exchange rates**<br>
 _Currency_: Macedonian denars (MKD) per US dollar -<br>
-55.8 (2017 est.)<br>
-55.733 (2016 est.)<br>
-55.733 (2015 est.)<br>
-55.537 (2014 est.)<br>
-46.437 (2013 est.)<br>
+52.102 (2021 est.)<br>
+54.144 (2020 est.)<br>
+54.947 (2019 est.)<br>
+52.107 (2018 est.)<br>
+54.665 (2017 est.)<br>
 
 ## Energy
 

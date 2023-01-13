@@ -165,7 +165,7 @@ _female_: 82.92 years (2022 est.)<br>
 1.76 children born/woman (2022 est.)<br>
 
 **Gross reproduction rate**<br>
-0.86 (2022 est.)<br>
+0.86 (2023 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 76.3% (2015/16)<br>
@@ -213,11 +213,11 @@ _total_: 29.2% (2020 est.)<br>
 _male_: 31.6% (2020 est.)<br>
 _female_: 26.8% (2020 est.)<br>
 
-**Currently married women (ages 15-49)**<br>
-46% (2022 est.)<br>
-
 **Children under the age of 5 years underweight**<br>
 0.5% (2014)<br>
+
+**Currently married women (ages 15-49)**<br>
+46.3% (2023 est.)<br>
 
 **Education expenditures**<br>
 5.6% of GDP (2019 est.)<br>
@@ -234,9 +234,9 @@ _male_: 16 years<br>
 _female_: 17 years (2020)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 20.6%<br>
-_male_: 19%<br>
-_female_: 22.7% (2021 est.)<br>
+_total_: 21.4%<br>
+_male_: 20.4%<br>
+_female_: 22.8% (2021 est.)<br>
 
 ## Environment
 
@@ -399,29 +399,29 @@ _selected World Heritage Site locales_: Rapa Nui National Park; Churches of Chil
 <p>Chile has a market-oriented economy characterized by a high level of foreign trade and a reputation for strong financial institutions and sound policy that have given it the strongest sovereign bond rating in South America. Exports of goods and services account for approximately one-third of GDP, with commodities making up some 60% of total exports. Copper is Chile’s top export and provides 20% of government revenue.</p> <p> </p> <p>From 2003 through 2013, real growth averaged almost 5% per year, despite a slight contraction in 2009 that resulted from the global financial crisis. Growth slowed to an estimated 1.4% in 2017. A continued drop in copper prices prompted Chile to experience its third consecutive year of slow growth.</p> <p> </p> <p>Chile deepened its longstanding commitment to trade liberalization with the signing of a free trade agreement with the US, effective 1 January 2004. Chile has 26 trade agreements covering 60 countries including agreements with the EU, Mercosur, China, India, South Korea, and Mexico. In May 2010, Chile signed the OECD Convention, becoming the first South American country to join the OECD. In October 2015, Chile signed the Trans-Pacific Partnership trade agreement, which was finalized as the Comprehensive and Progressive Trans-Pacific Partnership (CPTPP) and signed at a ceremony in Chile in March 2018.</p> <p> </p> <p>The Chilean Government has generally followed a countercyclical fiscal policy, under which it accumulates surpluses in sovereign wealth funds during periods of high copper prices and economic growth, and generally allows deficit spending only during periods of low copper prices and growth. As of 31 October 2016, those sovereign wealth funds - kept mostly outside the country and separate from Central Bank reserves - amounted to more than $23.5 billion. Chile used these funds to finance fiscal stimulus packages during the 2009 economic downturn.</p> <p> </p> <p>In 2014, then-President Michelle BACHELET introduced tax reforms aimed at delivering her campaign promise to fight inequality and to provide access to education and health care. The reforms are expected to generate additional tax revenues equal to 3% of Chile’s GDP, mostly by increasing corporate tax rates to OECD averages.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
-$445.88 billion (2020 est.)<br>
-$473.19 billion (2019 est.)<br>
-$468.77 billion (2018 est.)<br>
+$496.085 billion (2021 est.)<br>
+$444.249 billion (2020 est.)<br>
+$472.495 billion (2019 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
-1.03% (2019 est.)<br>
-4% (2018 est.)<br>
-1.41% (2017 est.)<br>
+11.67% (2021 est.)<br>
+-5.98% (2020 est.)<br>
+0.77% (2019 est.)<br>
 
 **Real GDP per capita**<br>
-$23,300 (2020 est.)<br>
-$25,000 (2019 est.)<br>
-$25,000 (2018 est.)<br>
+$25,400 (2021 est.)<br>
+$23,000 (2020 est.)<br>
+$24,800 (2019 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
 $282.655 billion (2019 est.)<br>
 
 **Inflation rate (consumer prices)**<br>
-2.2% (2019 est.)<br>
-2.7% (2018 est.)<br>
-2.1% (2017 est.)<br>
+4.52% (2021 est.)<br>
+3.05% (2020 est.)<br>
+2.56% (2019 est.)<br>
 
 **Credit ratings**<br>
 _Fitch rating_: A- (2020)<br>
@@ -449,10 +449,10 @@ grapes, apples, wheat, sugar beet, milk, potatoes, tomatoes, maize, poultry, por
 copper, lithium, other minerals, foodstuffs, fish processing, iron and steel, wood and wood products, transport equipment, cement, textiles<br>
 
 **Industrial production growth rate**<br>
--0.4% (2017 est.)<br>
+5.06% (2021 est.)<br>
 
 **Labor force**<br>
-7.249 million (2020 est.)<br>
+8.684 million (2021 est.)<br>
 
 **Labor force - by occupation**<br>
 _agriculture_: 9.2%<br>
@@ -460,20 +460,20 @@ _industry_: 23.7%<br>
 _services_: 67.1% (2013)<br>
 
 **Unemployment rate**<br>
-7.22% (2019 est.)<br>
-7.33% (2018 est.)<br>
+9.13% (2021 est.)<br>
+11.18% (2020 est.)<br>
+7.29% (2019 est.)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 20.6%<br>
-_male_: 19%<br>
-_female_: 22.7% (2021 est.)<br>
+_total_: 21.4%<br>
+_male_: 20.4%<br>
+_female_: 22.8% (2021 est.)<br>
 
 **Population below poverty line**<br>
 8.6% (2017 est.)<br>
 
 **Gini Index coefficient - distribution of family income**<br>
-44.4 (2017 est.)<br>
-57.1 (2000)<br>
+44.9 (2020 est.)<br>
 
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 1.7%<br>
@@ -491,19 +491,20 @@ _expenditures_: 65.38 billion (2017 est.)<br>
 21% of GDP (2016 est.)<br>
 
 **Taxes and other revenues**<br>
-20.8% (of GDP) (2017 est.)<br>
+16.24% (of GDP) (2020 est.)<br>
 
 **Fiscal year**<br>
 calendar year<br>
 
 **Current account balance**<br>
--$10.933 billion (2019 est.)<br>
--$10.601 billion (2018 est.)<br>
+-$20.307 billion (2021 est.)<br>
+-$4.283 billion (2020 est.)<br>
+-$14.505 billion (2019 est.)<br>
 
 **Exports**<br>
-$79.8 billion (2020 est.)<br>
-$78.02 billion (2019 est.)<br>
-$84.65 billion (2018 est.)<br>
+$100.634 billion (2021 est.)<br>
+$79.733 billion (2020 est.)<br>
+$77.255 billion (2019 est.)<br>
 <strong>note:</strong> Data are in current year dollars and do not include illicit exports or re-exports.<br>
 
 **Exports - partners**<br>
@@ -513,9 +514,9 @@ China 32%, United States 14%, Japan 9%, South Korea 7% (2019)<br>
 copper, wood pulp, fish fillets, pitted fruits, wine (2019)<br>
 
 **Imports**<br>
-$66.43 billion (2020 est.) note: data are in current year dollars<br>
-$80.17 billion (2019 est.) note: data are in current year dollars<br>
-$85.11 billion (2018 est.) note: data are in current year dollars<br>
+$102.086 billion (2021 est.) note: data are in current year dollars<br>
+$68.118 billion (2020 est.) note: data are in current year dollars<br>
+$82.324 billion (2019 est.) note: data are in current year dollars<br>
 
 **Imports - partners**<br>
 China 24%, United States 20%, Brazil 8%, Germany 5%, Argentina 5% (2019)<br>
@@ -524,8 +525,9 @@ China 24%, United States 20%, Brazil 8%, Germany 5%, Argentina 5% (2019)<br>
 refined petroleum, crude petroleum, cars, broadcasting equipment, delivery trucks (2019)<br>
 
 **Reserves of foreign exchange and gold**<br>
-$38.98 billion (31 December 2017 est.)<br>
-$40.49 billion (31 December 2016 est.)<br>
+$51.252 billion (31 December 2021 est.)<br>
+$39.166 billion (31 December 2020 est.)<br>
+$40.656 billion (31 December 2019 est.)<br>
 
 **Debt - external**<br>
 $193.298 billion (2019 est.)<br>
@@ -533,11 +535,11 @@ $181.089 billion (2018 est.)<br>
 
 **Exchange rates**<br>
 _Currency_: Chilean pesos (CLP) per US dollar -<br>
-738.81 (2020 est.)<br>
-770.705 (2019 est.)<br>
-674.25 (2018 est.)<br>
-658.93 (2014 est.)<br>
-570.37 (2013 est.)<br>
+758.955 (2021 est.)<br>
+792.727 (2020 est.)<br>
+702.897 (2019 est.)<br>
+641.277 (2018 est.)<br>
+648.834 (2017 est.)<br>
 
 ## Energy
 

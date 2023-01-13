@@ -167,7 +167,7 @@ _female_: 60.41 years (2022 est.)<br>
 3.8 children born/woman (2022 est.)<br>
 
 **Gross reproduction rate**<br>
-1.87 (2022 est.)<br>
+1.83 (2023 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 21.2% (2019)<br>
@@ -221,11 +221,11 @@ _total_: 13.5% (2020 est.)<br>
 _male_: 20.5% (2020 est.)<br>
 _female_: 6.4% (2020 est.)<br>
 
-**Currently married women (ages 15-49)**<br>
-59.5% (2022 est.)<br>
-
 **Children under the age of 5 years underweight**<br>
 13.5% (2019)<br>
+
+**Currently married women (ages 15-49)**<br>
+58.9% (2023 est.)<br>
 
 **Child marriage**<br>
 _women married by age 15_: 8.6%<br>
@@ -242,9 +242,9 @@ _male_: 51.6%<br>
 _female_: 39.8% (2018)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 3.6%<br>
-_male_: 4.9%<br>
-_female_: 2.6% (2018 est.)<br>
+_total_: 10.8%<br>
+_male_: 15.8%<br>
+_female_: 7.6% (2021 est.)<br>
 
 ## Environment
 
@@ -407,29 +407,29 @@ _lyrics/music_: Clifford Nelson FYLE/John Joseph AKA<br>
 <p>Sierra Leone is extremely poor and nearly half of the working-age population engages in subsistence agriculture. The country possesses substantial mineral, agricultural, and fishery resources, but it is still recovering from a civil war that destroyed most institutions before ending in the early 2000s.</p> <p> </p> <p>In recent years, economic growth has been driven by mining - particularly iron ore. The country’s principal exports are iron ore, diamonds, and rutile, and the economy is vulnerable to fluctuations in international prices. Until 2014, the government had relied on external assistance to support its budget, but it was gradually becoming more independent. The Ebola outbreak of 2014 and 2015, combined with falling global commodities prices, caused a significant contraction of economic activity in all areas. While the World Health Organization declared an end to the Ebola outbreak in Sierra Leone in November 2015, low commodity prices in 2015-2016 contributed to the country’s biggest fiscal shortfall since 2001. In 2017, increased iron ore exports, together with the end of the Ebola epidemic, supported a resumption of economic growth.</p> <p> </p> <p>Continued economic growth will depend on rising commodities prices and increased efforts to diversify the sources of growth. Non-mining activities will remain constrained by inadequate infrastructure, such as power and roads, even though power sector projects may provide some additional electricity capacity in the near term. Pervasive corruption and undeveloped human capital will continue to deter foreign investors. Sustained international donor support in the near future will partially offset these fiscal constraints.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
-$13.15 billion (2020 est.)<br>
-$13.44 billion (2019 est.)<br>
-$12.72 billion (2018 est.)<br>
+$13.597 billion (2021 est.)<br>
+$13.061 billion (2020 est.)<br>
+$13.323 billion (2019 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
-3.7% (2017 est.)<br>
-6.3% (2016 est.)<br>
--20.5% (2015 est.)<br>
+4.1% (2021 est.)<br>
+-1.97% (2020 est.)<br>
+5.25% (2019 est.)<br>
 
 **Real GDP per capita**<br>
+$1,600 (2021 est.)<br>
 $1,600 (2020 est.)<br>
 $1,700 (2019 est.)<br>
-$1,700 (2018 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
 $4.132 billion (2020 est.)<br>
 
 **Inflation rate (consumer prices)**<br>
+11.87% (2021 est.)<br>
+13.45% (2020 est.)<br>
 14.8% (2019 est.)<br>
-16% (2018 est.)<br>
-18.2% (2017 est.)<br>
 
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 60.7% (2017 est.)<br>
@@ -451,10 +451,10 @@ cassava, rice, vegetables, oil palm fruit, sweet potatoes, milk, citrus fruit, g
 diamond mining; iron ore, rutile and bauxite mining; small-scale manufacturing (beverages, textiles, footwear)<br>
 
 **Industrial production growth rate**<br>
-15.5% (2017 est.)<br>
+17.41% (2021 est.)<br>
 
 **Labor force**<br>
-132,000 (2013 est.)<br>
+2.858 million (2021 est.)<br>
 
 **Labor force - by occupation**<br>
 _agriculture_: 61.1%<br>
@@ -462,20 +462,20 @@ _industry_: 5.5%<br>
 _services_: 33.4% (2014 est.)<br>
 
 **Unemployment rate**<br>
-15% (2017 est.)<br>
-17.2% (2016 est.)<br>
+5.33% (2021 est.)<br>
+5.2% (2020 est.)<br>
+4.65% (2019 est.)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 3.6%<br>
-_male_: 4.9%<br>
-_female_: 2.6% (2018 est.)<br>
+_total_: 10.8%<br>
+_male_: 15.8%<br>
+_female_: 7.6% (2021 est.)<br>
 
 **Population below poverty line**<br>
 56.8% (2018 est.)<br>
 
 **Gini Index coefficient - distribution of family income**<br>
 35.7 (2018 est.)<br>
-62.9 (1989)<br>
 
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 2.6%<br>
@@ -499,12 +499,14 @@ _expenditures_: 846.4 million (2017 est.)<br>
 calendar year<br>
 
 **Current account balance**<br>
--$407 million (2017 est.)<br>
--$88 million (2016 est.)<br>
+-$275.638 million (2020 est.)<br>
+-$583.555 million (2019 est.)<br>
+-$504.851 million (2018 est.)<br>
 
 **Exports**<br>
-$740 million (2019 est.) note: data are in current year dollars<br>
-$720 million (2018 est.) note: data are in current year dollars<br>
+$700.971 million (2020 est.) note: data are in current year dollars<br>
+$1.06 billion (2019 est.) note: data are in current year dollars<br>
+$963.948 million (2018 est.)<br>
 
 **Exports - partners**<br>
 Belgium 26%, China 25%, Romania 9%, United Arab Emirates 6%, Germany 5%, Netherlands 5% (2019)<br>
@@ -513,8 +515,9 @@ Belgium 26%, China 25%, Romania 9%, United Arab Emirates 6%, Germany 5%, Netherl
 titanium, lumber, diamonds, aluminum, cocoa beans (2019)<br>
 
 **Imports**<br>
-$1.82 billion (2019 est.) note: data are in current year dollars<br>
-$1.59 billion (2018 est.) note: data are in current year dollars<br>
+$1.418 billion (2020 est.) note: data are in current year dollars<br>
+$1.818 billion (2019 est.) note: data are in current year dollars<br>
+$1.594 billion (2018 est.)<br>
 
 **Imports - partners**<br>
 China 27%, India 11%, United States 6%, Ghana 5%, Turkey 5% (2019)<br>
@@ -523,8 +526,9 @@ China 27%, India 11%, United States 6%, Ghana 5%, Turkey 5% (2019)<br>
 rice, plastics, packaged medicines, sauces/seasonings, cars (2019)<br>
 
 **Reserves of foreign exchange and gold**<br>
-$478 million (31 December 2017 est.)<br>
-$497.2 million (31 December 2016 est.)<br>
+$945.908 million (31 December 2021 est.)<br>
+$707.704 million (31 December 2020 est.)<br>
+$530.138 million (31 December 2019 est.)<br>
 
 **Debt - external**<br>
 $1.615 billion (31 December 2017 est.)<br>
@@ -532,11 +536,11 @@ $1.503 billion (31 December 2016 est.)<br>
 
 **Exchange rates**<br>
 _Currency_: leones (SLL) per US dollar -<br>
-7,396.3 (2017 est.)<br>
-6,289.9 (2016 est.)<br>
-6,289.9 (2015 est.)<br>
-5,080.8 (2014 est.)<br>
-4,524.2 (2013 est.)<br>
+10,439.425 (2021 est.)<br>
+9,829.927 (2020 est.)<br>
+9,010.221 (2019 est.)<br>
+7,931.632 (2018 est.)<br>
+7,384.432 (2017 est.)<br>
 
 ## Energy
 

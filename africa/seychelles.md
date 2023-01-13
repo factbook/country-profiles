@@ -155,7 +155,7 @@ _female_: 80.66 years (2022 est.)<br>
 1.82 children born/woman (2022 est.)<br>
 
 **Gross reproduction rate**<br>
-0.9 (2022 est.)<br>
+0.89 (2023 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 NA<br>
@@ -203,11 +203,11 @@ _total_: 20.2% (2020 est.)<br>
 _male_: 34% (2020 est.)<br>
 _female_: 6.4% (2020 est.)<br>
 
-**Currently married women (ages 15-49)**<br>
-45.2% (2022 est.)<br>
-
 **Children under the age of 5 years underweight**<br>
 3.6% (2012)<br>
+
+**Currently married women (ages 15-49)**<br>
+45% (2023 est.)<br>
 
 **Education expenditures**<br>
 5.2% of GDP (2020 est.)<br>
@@ -375,29 +375,29 @@ _selected World Heritage Site locales_: Aldabra Atoll; Vall&eacute;e de Mai Natu
 <p>Since independence in 1976, per capita output in this Indian Ocean archipelago has expanded to roughly seven times the pre-independence, near-subsistence level, moving the island into the high income group of countries. Growth has been led by the tourism sector, which directly employs about 26% of the labor force and directly and indirectly accounts for more than 55% of GDP, and by tuna fishing. In recent years, the government has encouraged foreign investment to upgrade hotels and tourism industry services. At the same time, the government has moved to reduce the dependence on tourism by promoting the development of the offshore financial, information, and communication sectors and renewable energy.</p> <p>In 2008, having depleted its foreign exchange reserves, Seychelles defaulted on interest payments due on a $230 million Eurobond, requested assistance from the IMF, and immediately enacted a number of significant structural reforms, including liberalization of the exchange rate, reform of the public sector to include layoffs, and the sale of some state assets. In December 2013, the IMF declared that Seychelles had successfully transitioned to a market-based economy with full employment and a fiscal surplus. However, state-owned enterprises still play a prominent role in the economy. Effective 1 January 2017, Seychelles was no longer eligible for trade benefits under the US African Growth and Opportunities Act after having gained developed country status. Seychelles grew at 5% in 2017 because of a strong tourism sector and low commodity prices. The Seychellois Government met the IMF’s performance criteria for 2017 but recognizes a need to make additional progress to reduce high income inequality, represented by a Gini coefficient of 46.8.</p> <p>As a very small open economy dependent on tourism, Seychelles remains vulnerable to developments such as economic downturns in countries that supply tourists, natural disasters, and changes in local climatic conditions and ocean temperature. One of the main challenges facing the government is implementing strategies that will increase Seychelles' long-term resilience to climate change without weakening economic growth.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
-$2.4 billion (2020 est.)<br>
-$2.69 billion (2019 est.)<br>
-$2.65 billion (2018 est.)<br>
+$2.855 billion (2021 est.)<br>
+$2.647 billion (2020 est.)<br>
+$2.867 billion (2019 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
-5.3% (2017 est.)<br>
-4.5% (2016 est.)<br>
-4.9% (2015 est.)<br>
+7.86% (2021 est.)<br>
+-7.69% (2020 est.)<br>
+3.1% (2019 est.)<br>
 
 **Real GDP per capita**<br>
-$24,400 (2020 est.)<br>
-$27,500 (2019 est.)<br>
-$27,300 (2018 est.)<br>
+$28,800 (2021 est.)<br>
+$26,900 (2020 est.)<br>
+$29,400 (2019 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
 $1.748 billion (2019 est.)<br>
 
 **Inflation rate (consumer prices)**<br>
-1.8% (2019 est.)<br>
+8.28% (2020 est.)<br>
+2.07% (2019 est.)<br>
 3.7% (2018 est.)<br>
-2.8% (2017 est.)<br>
 
 **Credit ratings**<br>
 _Fitch rating_: B+ (2020)<br>
@@ -423,7 +423,7 @@ coconuts, vegetables, bananas, fruit, eggs, poultry, tomatoes, pork, tropical fr
 fishing, tourism, beverages<br>
 
 **Industrial production growth rate**<br>
-2.3% (2017 est.)<br>
+3.63% (2021 est.)<br>
 
 **Labor force**<br>
 51,000 (2018 est.)<br>
@@ -464,19 +464,20 @@ _expenditures_: 600.7 million (2017 est.)<br>
 69.1% of GDP (2016 est.)<br>
 
 **Taxes and other revenues**<br>
-39.6% (of GDP) (2017 est.)<br>
+31.52% (of GDP) (2018 est.)<br>
 
 **Fiscal year**<br>
 calendar year<br>
 
 **Current account balance**<br>
--$307 million (2017 est.)<br>
--$286 million (2016 est.)<br>
+-$154.259 million (2021 est.)<br>
+-$173.236 million (2020 est.)<br>
+-$53.115 million (2019 est.)<br>
 
 **Exports**<br>
-$1.09 billion (2020 est.) note: data are in current year dollars<br>
-$1.61 billion (2019 est.) note: data are in current year dollars<br>
-$1.68 billion (2018 est.) note: data are in current year dollars<br>
+$1.751 billion (2021 est.) note: data are in current year dollars<br>
+$1.24 billion (2020 est.) note: data are in current year dollars<br>
+$2.085 billion (2019 est.) note: data are in current year dollars<br>
 
 **Exports - partners**<br>
 United Arab Emirates 17%, United Kingdom 13%, France 12%, British Virgin Islands 11%, Zambia 9%, Mauritius 5%, Japan 5% (2019)<br>
@@ -485,9 +486,9 @@ United Arab Emirates 17%, United Kingdom 13%, France 12%, British Virgin Islands
 refined petroleum, fish, recreational boats, cigarettes, animal meal (2019)<br>
 
 **Imports**<br>
-$1.35 billion (2020 est.) note: data are in current year dollars<br>
-$1.79 billion (2019 est.) note: data are in current year dollars<br>
-$1.86 billion (2018 est.) note: data are in current year dollars<br>
+$1.821 billion (2021 est.) note: data are in current year dollars<br>
+$1.332 billion (2020 est.) note: data are in current year dollars<br>
+$2.025 billion (2019 est.) note: data are in current year dollars<br>
 
 **Imports - partners**<br>
 United Arab Emirates 21%, Qatar 13%, British Virgin Islands 7%, Germany 6%, France 6%, China 5%, Spain 5%, South Africa 5% (2019)<br>
@@ -496,8 +497,9 @@ United Arab Emirates 21%, Qatar 13%, British Virgin Islands 7%, Germany 6%, Fran
 recreational boats, refined petroleum, fish, aircraft, cars (2019)<br>
 
 **Reserves of foreign exchange and gold**<br>
-$545.2 million (31 December 2017 est.)<br>
-$523.5 million (31 December 2016 est.)<br>
+$702.585 million (31 December 2021 est.)<br>
+$559.682 million (31 December 2020 est.)<br>
+$580.546 million (31 December 2019 est.)<br>
 
 **Debt - external**<br>
 $4.802 billion (2019 est.)<br>
@@ -505,11 +507,11 @@ $4.613 billion (2018 est.)<br>
 
 **Exchange rates**<br>
 _Currency_: Seychelles rupees (SCR) per US dollar -<br>
-13.64 (2017 est.)<br>
-13.319 (2016 est.)<br>
-13.319 (2015 est.)<br>
-13.314 (2014 est.)<br>
-12.747 (2013 est.)<br>
+16.921 (2021 est.)<br>
+17.617 (2020 est.)<br>
+14.033 (2019 est.)<br>
+13.911 (2018 est.)<br>
+13.648 (2017 est.)<br>
 
 ## Energy
 

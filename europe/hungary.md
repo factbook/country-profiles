@@ -165,7 +165,7 @@ _female_: 81.06 years (2022 est.)<br>
 1.48 children born/woman (2022 est.)<br>
 
 **Gross reproduction rate**<br>
-0.72 (2022 est.)<br>
+0.72 (2023 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 NA<br>
@@ -217,11 +217,11 @@ _total_: 31.8% (2020 est.)<br>
 _male_: 35.8% (2020 est.)<br>
 _female_: 27.8% (2020 est.)<br>
 
-**Currently married women (ages 15-49)**<br>
-52.4% (2022 est.)<br>
-
 **Children under the age of 5 years underweight**<br>
 NA<br>
+
+**Currently married women (ages 15-49)**<br>
+51.4% (2023 est.)<br>
 
 **Education expenditures**<br>
 4.8% of GDP (2020 est.)<br>
@@ -239,8 +239,8 @@ _female_: 15 years (2020)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
 _total_: 13.5%<br>
-_male_: 12%<br>
-_female_: 15.5% (2021 est.)<br>
+_male_: 11.5%<br>
+_female_: 16.2% (2021 est.)<br>
 
 ## Environment
 
@@ -356,7 +356,7 @@ _chief of state_: President Katalin NOVAK (since 10 May 2022)<br>
 _head of government_: Prime Minister Viktor ORBAN (since 29 May 2010)<br>
 _cabinet_: Cabinet of Ministers proposed by the prime minister and appointed by the president<br>
 _elections/appointments_: president indirectly elected by the National Assembly with two-thirds majority vote in first round or simple majority vote in second round for a 5-year term (eligible for a second term); election last held on 11 March 2022 (next to be held spring 2027); prime minister elected by the National Assembly on the recommendation of the president; election last held on 3 April 2022 (next to be held April or May 2027)<br>
-_election results_: <em>2022: </em>Katalin NOVAK (Fidesz) elected president; National Assembly vote - 137 to 51<em><br><br>2017:</em> Janos ADER (Fidesz) reelected president; National Assembly vote - 131 to 39<br><br>2010: Viktor ORBAN (Fidesz) reelected prime minister<br>
+_election results_: <em>2022: </em>Katalin NOVAK (Fidesz) elected president; National Assembly vote - 137 to 51<em><br><br>2017:</em> Janos ADER (Fidesz) reelected president; National Assembly vote - 131 to 39<br><br><em>2010:</em> Viktor ORBAN (Fidesz) reelected prime minister<br>
 
 **Legislative branch**<br>
 _description_: unicameral National Assembly or Orszaggyules (199 seats; 106 members directly elected in single-member constituencies by simple majority vote and 93 members directly elected in a single nationwide constituency by party-list proportional representation vote, using the d&rsquo;Hondt method; members serve 4-year terms)<br>
@@ -383,7 +383,7 @@ _email address and website_: <br>info@mfa.gov.hu<br><br>https://washington.mfa.g
 _consulate(s) general_: Chicago, Los Angeles, New York<br>
 
 **Diplomatic representation from the US**<br>
-_chief of mission_: Ambassador (vacant); Charge d'Affaires Marc DILLARD (since 30 October 2020)<br>
+_chief of mission_: Ambassador David PRESSMAN (since 14 September 2022)<br>
 _embassy_: Szabadsag ter 12, H-1054 Budapest<br>
 _mailing address_: 5270 Budapest Place, US Department of State, Washington, DC 20521-5270<br>
 _telephone_: [36] (1) 475-4400<br>
@@ -411,29 +411,29 @@ _selected World Heritage Site locales_: Budapest, including the Banks of the Dan
 <p>Hungary has transitioned from a centrally planned to a market-driven economy with a per capita income approximately two thirds of the EU-28 average; however, in recent years the government has become more involved in managing the economy. Budapest has implemented unorthodox economic policies to boost household consumption and has relied on EU-funded development projects to generate growth.</p> <p> </p> <p>Following the fall of communism in 1990, Hungary experienced a drop-off in exports and financial assistance from the former Soviet Union. Hungary embarked on a series of economic reforms, including privatization of state-owned enterprises and reduction of social spending programs, to shift from a centrally planned to a market-driven economy, and to reorient its economy towards trade with the West. These efforts helped to spur growth, attract investment, and reduce Hungary’s debt burden and fiscal deficits. Despite these reforms, living conditions for the average Hungarian initially deteriorated as inflation increased and unemployment reached double digits. Conditions slowly improved over the 1990s as the reforms came to fruition and export growth accelerated. Economic policies instituted during that decade helped position Hungary to join the European Union in 2004. Hungary has not yet joined the euro-zone. Hungary suffered a historic economic contraction as a result of the global economic slowdown in 2008-09 as export demand and domestic consumption dropped, prompting it to take an IMF-EU financial assistance package.</p> <p> </p> <p>Since 2010, the government has backpedaled on many economic reforms and taken a more populist approach towards economic management. The government has favored national industries and government-linked businesses through legislation, regulation, and public procurements. In 2011 and 2014, Hungary nationalized private pension funds, which squeezed financial service providers out of the system, but also helped Hungary curb its public debt and lower its budget deficit to below 3% of GDP, as subsequent pension contributions have been channeled into the state-managed pension fund. Hungary’s public debt (at 74.5% of GDP) is still high compared to EU peers in Central Europe. Real GDP growth has been robust in the past few years due to increased EU funding, higher EU demand for Hungarian exports, and a rebound in domestic household consumption. To further boost household consumption ahead of the 2018 election, the government embarked on a six-year phased increase to minimum wages and public sector salaries, decreased taxes on foodstuffs and services, cut the personal income tax from 16% to 15%, and implemented a uniform 9% business tax for small and medium-sized enterprises and large companies. Real GDP growth slowed in 2016 due to a cyclical decrease in EU funding, but increased to 3.8% in 2017 as the government pre-financed EU funded projects ahead of the 2018 election.</p> <p> </p> <p>Systemic economic challenges include pervasive corruption, labor shortages driven by demographic declines and migration, widespread poverty in rural areas, vulnerabilities to changes in demand for exports, and a heavy reliance on Russian energy imports.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
-$302.32 billion (2020 est.)<br>
-$318.09 billion (2019 est.)<br>
-$303.98 billion (2018 est.)<br>
+$326.186 billion (2021 est.)<br>
+$304.513 billion (2020 est.)<br>
+$319.019 billion (2019 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
-4.58% (2019 est.)<br>
-5.44% (2018 est.)<br>
-4.45% (2017 est.)<br>
+7.12% (2021 est.)<br>
+-4.55% (2020 est.)<br>
+4.86% (2019 est.)<br>
 
 **Real GDP per capita**<br>
-$31,000 (2020 est.)<br>
+$33,600 (2021 est.)<br>
+$31,200 (2020 est.)<br>
 $32,600 (2019 est.)<br>
-$31,100 (2018 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
 $163.251 billion (2019 est.)<br>
 
 **Inflation rate (consumer prices)**<br>
-3.3% (2019 est.)<br>
-2.8% (2018 est.)<br>
-2.3% (2017 est.)<br>
+5.11% (2021 est.)<br>
+3.33% (2020 est.)<br>
+3.34% (2019 est.)<br>
 
 **Credit ratings**<br>
 _Fitch rating_: BBB (2019)<br>
@@ -461,10 +461,10 @@ maize, wheat, milk, sunflower seed, barley, rapeseed, sugar beet, apples, pork, 
 mining, metallurgy, construction materials, processed foods, textiles, chemicals (especially pharmaceuticals), motor vehicles<br>
 
 **Industrial production growth rate**<br>
-7.4% (2017 est.)<br>
+6.64% (2021 est.)<br>
 
 **Labor force**<br>
-4.414 million (2020 est.)<br>
+4.91 million (2021 est.)<br>
 
 **Labor force - by occupation**<br>
 _agriculture_: 4.9%<br>
@@ -472,20 +472,20 @@ _industry_: 30.3%<br>
 _services_: 64.5% (2015 est.)<br>
 
 **Unemployment rate**<br>
-3.45% (2019 est.)<br>
-3.71% (2018 est.)<br>
+4.12% (2021 est.)<br>
+4.25% (2020 est.)<br>
+3.42% (2019 est.)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
 _total_: 13.5%<br>
-_male_: 12%<br>
-_female_: 15.5% (2021 est.)<br>
+_male_: 11.5%<br>
+_female_: 16.2% (2021 est.)<br>
 
 **Population below poverty line**<br>
 12.3% (2018 est.)<br>
 
 **Gini Index coefficient - distribution of family income**<br>
-30.6 (2017 est.)<br>
-28.6 (2014)<br>
+30 (2019 est.)<br>
 
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 3.3%<br>
@@ -500,24 +500,26 @@ _expenditures_: 64.7 billion (2017 est.)<br>
 <strong>note:</strong> Hungary has been under the EU Excessive Deficit Procedure since it joined the EU in 2004; in March 2012, the EU elevated its Excessive Deficit Procedure against Hungary and proposed freezing 30% of the country's Cohesion Funds because 2011 deficit reductions were not achieved in a sustainable manner; in June 2012, the EU lifted the freeze, recognizing that steps had been taken to reduce the deficit; the Hungarian deficit increased above 3% both in 2013 and in 2014 due to sluggish growth and the government's fiscal tightening<br>
 
 **Public debt**<br>
-73.6% of GDP (2017 est.)<br>
-76% of GDP (2016 est.)<br>
+96.11% of GDP (2020 est.)<br>
+83.29% of GDP (2019 est.)<br>
+86.55% of GDP (2018 est.)<br>
 <strong>note:</strong> general government gross debt is defined in the Maastricht Treaty as consolidated general government gross debt at nominal value, outstanding at the end of the year in the following categories of government liabilities: currency and deposits, securities other than shares excluding financial derivatives, and national, state, and local government and social security funds.<br>
 
 **Taxes and other revenues**<br>
-44.5% (of GDP) (2017 est.)<br>
+22.87% (of GDP) (2020 est.)<br>
 
 **Fiscal year**<br>
 calendar year<br>
 
 **Current account balance**<br>
--$392 million (2019 est.)<br>
-$510 million (2018 est.)<br>
+-$7.173 billion (2021 est.)<br>
+-$1.603 billion (2020 est.)<br>
+-$1.231 billion (2019 est.)<br>
 
 **Exports**<br>
-$123.83 billion (2020 est.) note: data are in current year dollars<br>
-$134.55 billion (2019 est.) note: data are in current year dollars<br>
-$134.66 billion (2018 est.) note: data are in current year dollars<br>
+$148.229 billion (2021 est.) note: data are in current year dollars<br>
+$124.111 billion (2020 est.) note: data are in current year dollars<br>
+$133.736 billion (2019 est.) note: data are in current year dollars<br>
 
 **Exports - partners**<br>
 Germany 27%, Romania 5%, Italy 5%, Slovakia 5% (2019)<br>
@@ -526,9 +528,9 @@ Germany 27%, Romania 5%, Italy 5%, Slovakia 5% (2019)<br>
 cars and vehicle parts, packaged medicines, spark-ignition engines, video displays, broadcasting equipment (2019)<br>
 
 **Imports**<br>
-$120.25 billion (2020 est.) note: data are in current year dollars<br>
-$129.9 billion (2019 est.) note: data are in current year dollars<br>
-$127.52 billion (2018 est.) note: data are in current year dollars<br>
+$147.577 billion (2021 est.) note: data are in current year dollars<br>
+$121.016 billion (2020 est.) note: data are in current year dollars<br>
+$129.901 billion (2019 est.) note: data are in current year dollars<br>
 
 **Imports - partners**<br>
 Germany 25%, China 6%, Poland 6%, Austria 6%, Czechia 5%, Slovakia 5%, Italy 5%, Netherlands 5% (2019)<br>
@@ -537,8 +539,9 @@ Germany 25%, China 6%, Poland 6%, Austria 6%, Czechia 5%, Slovakia 5%, Italy 5%,
 cars and vehicle parts, integrated circuits, packaged medicines, broadcasting equipment, crude petroleum (2019)<br>
 
 **Reserves of foreign exchange and gold**<br>
-$28 billion (31 December 2017 est.)<br>
-$25.82 billion (31 December 2016 est.)<br>
+$43.483 billion (31 December 2021 est.)<br>
+$41.349 billion (31 December 2020 est.)<br>
+$31.831 billion (31 December 2019 est.)<br>
 
 **Debt - external**<br>
 $123.256 billion (2019 est.)<br>
@@ -546,11 +549,11 @@ $125.29 billion (2018 est.)<br>
 
 **Exchange rates**<br>
 _Currency_: forints (HUF) per US dollar -<br>
-295.3276 (2020 est.)<br>
-299.4939 (2019 est.)<br>
-283.5923 (2018 est.)<br>
-279.33 (2014 est.)<br>
-232.6 (2013 est.)<br>
+303.141 (2021 est.)<br>
+307.997 (2020 est.)<br>
+290.66 (2019 est.)<br>
+270.212 (2018 est.)<br>
+274.433 (2017 est.)<br>
 
 ## Energy
 
@@ -616,12 +619,12 @@ _Total energy consumption per capita 2019_: 108.212 million Btu/person (2019 est
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 2,970,347 (2020 est.)<br>
-_subscriptions per 100 inhabitants_: 31 (2020 est.)<br>
+_total subscriptions_: 2,955,979 (2021 est.)<br>
+_subscriptions per 100 inhabitants_: 27 (2021 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 10,332,660 (2020 est.)<br>
-_subscriptions per 100 inhabitants_: 107 (2020 est.)<br>
+_total subscriptions_: 10,248,653 (2021 est.)<br>
+_subscriptions per 100 inhabitants_: 106 (2021 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: Hungary benefits from having a developed telecom infrastructure, with a focus among operators to develop the 5G sector and upgrade fixed networks to provide a 1Gb/s service; services based on 5G have been supported by the January 2021 multi-spectrum auction for spectrum in the 900MHz and 1800MHz bands; the number of fixed-lines continues to fall as subscribers migrate to the mobile platform for voice and data services; operators have looked to bundled packages to boost revenue and retain subscribers; the broadband market has effective infrastructure-based competition, with an extensive cable network competing against DSL services and a vibrant and rapidly expanding fiber sector; the regulator has also introduced a number of measures aimed at promoting market competition, which is pushing the drive for higher speed platforms and encouraging operators to invest in technology upgrades; as a result, Hungary now has the highest fixed broadband penetration rate in Eastern Europe; the number of super fast broadband connections (above 30Mb/s) accounted for 78% of all fixed broadband connections (2022)<br>
@@ -640,8 +643,8 @@ _total_: 8,588,776 (July 2022 est.)<br>
 _percent of population_: 89.3% (July 2022 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 3,265,308 (2020 est.)<br>
-_subscriptions per 100 inhabitants_: 34 (2020 est.)<br>
+_total_: 3,382,136 (2021 est.)<br>
+_subscriptions per 100 inhabitants_: 34.83 (2021 est.)<br>
 
 ## Transportation
 

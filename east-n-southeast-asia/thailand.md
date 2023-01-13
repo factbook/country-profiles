@@ -173,7 +173,7 @@ _female_: 80.83 years (2022 est.)<br>
 1.54 children born/woman (2022 est.)<br>
 
 **Gross reproduction rate**<br>
-0.75 (2022 est.)<br>
+0.75 (2023 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 73% (2019)<br>
@@ -223,11 +223,11 @@ _total_: 22.1% (2020 est.)<br>
 _male_: 41.3% (2020 est.)<br>
 _female_: 2.9% (2020 est.)<br>
 
-**Currently married women (ages 15-49)**<br>
-60.9% (2022 est.)<br>
-
 **Children under the age of 5 years underweight**<br>
 7.7% (2019)<br>
+
+**Currently married women (ages 15-49)**<br>
+60.8% (2023 est.)<br>
 
 **Child marriage**<br>
 _women married by age 15_: 3%<br>
@@ -249,9 +249,9 @@ _male_: 15 years<br>
 _female_: 16 years (2016)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 5.2%<br>
-_male_: 4.6%<br>
-_female_: 5.9% (2020 est.)<br>
+_total_: 7%<br>
+_male_: 6.2%<br>
+_female_: 8.1% (2021 est.)<br>
 
 ## Environment
 
@@ -424,29 +424,29 @@ _selected World Heritage Site locales_: Historic City of Ayutthaya (c); Historic
 <p>With a relatively well-developed infrastructure, a free-enterprise economy, and generally pro-investment policies, Thailand is highly dependent on international trade, with exports accounting for about two thirds of GDP. Thailand’s exports include electronics, agricultural commodities, automobiles and parts, and processed foods. The industry and service sectors produce about 90% of GDP. The agricultural sector, comprised mostly of small-scale farms, contributes only 10% of GDP but employs about one third of the labor force. Thailand has attracted an estimated 3.0-4.5 million migrant workers, mostly from neighboring countries.</p> <p>Over the last few decades, Thailand has reduced poverty substantially. In 2013, the Thai Government implemented a nationwide 300 baht (roughly $10) per day minimum wage policy and deployed new tax reforms designed to lower rates on middle-income earners.</p> <p>Thailand’s economy is recovering from slow growth during the years since the 2014 coup. Thailand’s economic fundamentals are sound, with low inflation, low unemployment, and reasonable public and external debt levels. Tourism and government spending - mostly on infrastructure and short-term stimulus measures – have helped to boost the economy, and The Bank of Thailand has been supportive, with several interest rate reductions.</p> <p>Over the longer-term, household debt levels, political uncertainty, and an aging population pose risks to growth.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
-$1,206,620,000,000 (2020 est.)<br>
-$1,284,830,000,000 (2019 est.)<br>
-$1,256,360,000,000 (2018 est.)<br>
+$1.223 trillion (2021 est.)<br>
+$1.204 trillion (2020 est.)<br>
+$1.284 trillion (2019 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
-2.62% (2019 est.)<br>
-4.31% (2018 est.)<br>
-4.26% (2017 est.)<br>
+1.53% (2021 est.)<br>
+-6.2% (2020 est.)<br>
+2.15% (2019 est.)<br>
 
 **Real GDP per capita**<br>
-$17,300 (2020 est.)<br>
-$18,500 (2019 est.)<br>
-$18,100 (2018 est.)<br>
+$17,100 (2021 est.)<br>
+$16,800 (2020 est.)<br>
+$18,000 (2019 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
 $543.798 billion (2019 est.)<br>
 
 **Inflation rate (consumer prices)**<br>
-0.7% (2019 est.)<br>
-1% (2018 est.)<br>
-0.6% (2017 est.)<br>
+1.23% (2021 est.)<br>
+-0.85% (2020 est.)<br>
+0.71% (2019 est.)<br>
 
 **Credit ratings**<br>
 _Fitch rating_: BBB+ (2013)<br>
@@ -474,10 +474,10 @@ sugar cane, cassava, rice, oil palm fruit, rubber, maize, tropical fruit, poultr
 tourism, textiles and garments, agricultural processing, beverages, tobacco, cement, light manufacturing such as jewelry and electric appliances, computers and parts, integrated circuits, furniture, plastics, automobiles and automotive parts, agricultural machinery, air conditioning and refrigeration, ceramics, aluminum, chemical, environmental management, glass, granite and marble, leather, machinery and metal work, petrochemical, petroleum refining, pharmaceuticals, printing, pulp and paper, rubber, sugar, rice, fishing, cassava, world's second-largest tungsten producer and third-largest tin producer<br>
 
 **Industrial production growth rate**<br>
-1.6% (2017 est.)<br>
+3.34% (2021 est.)<br>
 
 **Labor force**<br>
-37.546 million (2020 est.)<br>
+40.213 million (2021 est.)<br>
 
 **Labor force - by occupation**<br>
 _agriculture_: 31.8%<br>
@@ -485,20 +485,20 @@ _industry_: 16.7%<br>
 _services_: 51.5% (2015 est.)<br>
 
 **Unemployment rate**<br>
-0.99% (2019 est.)<br>
-1.06% (2018 est.)<br>
+1.42% (2021 est.)<br>
+1.1% (2020 est.)<br>
+0.72% (2019 est.)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 5.2%<br>
-_male_: 4.6%<br>
-_female_: 5.9% (2020 est.)<br>
+_total_: 7%<br>
+_male_: 6.2%<br>
+_female_: 8.1% (2021 est.)<br>
 
 **Population below poverty line**<br>
 9.9% (2018 est.)<br>
 
 **Gini Index coefficient - distribution of family income**<br>
 36.4 (2018 est.)<br>
-48.4 (2011)<br>
 
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 2.8%<br>
@@ -512,24 +512,26 @@ _expenditures_: 85.12 billion (2017 est.)<br>
 -3.5% (of GDP) (2017 est.)<br>
 
 **Public debt**<br>
-41.9% of GDP (2017 est.)<br>
-41.8% of GDP (2016 est.)<br>
+50.4% of GDP (2020 est.)<br>
+40.13% of GDP (2019 est.)<br>
+39.25% of GDP (2018 est.)<br>
 <strong>note:</strong> data cover general government debt and include debt instruments issued (or owned) by government entities other than the treasury; the data include treasury debt held by foreign entities; the data include debt issued by subnational entities, as well as intragovernmental debt; intragovernmental debt consists of treasury borrowings from surpluses in the social funds, such as for retirement, medical care, and unemployment; debt instruments for the social funds are sold at public auctions<br>
 
 **Taxes and other revenues**<br>
-15.2% (of GDP) (2017 est.)<br>
+14.48% (of GDP) (2020 est.)<br>
 
 **Fiscal year**<br>
 1 October - 30 September<br>
 
 **Current account balance**<br>
-$37.033 billion (2019 est.)<br>
-$28.423 billion (2018 est.)<br>
+-$10.345 billion (2021 est.)<br>
+$21.058 billion (2020 est.)<br>
+$38.256 billion (2019 est.)<br>
 
 **Exports**<br>
-$258.42 billion (2020 est.) note: data are in current year dollars<br>
-$323.88 billion (2019 est.) note: data are in current year dollars<br>
-$328.58 billion (2018 est.) note: data are in current year dollars<br>
+$296.002 billion (2021 est.) note: data are in current year dollars<br>
+$257.981 billion (2020 est.) note: data are in current year dollars<br>
+$323.878 billion (2019 est.) note: data are in current year dollars<br>
 
 **Exports - partners**<br>
 United States 13%, China 12%, Japan 10%, Vietnam 5% (2019)<br>
@@ -538,9 +540,9 @@ United States 13%, China 12%, Japan 10%, Vietnam 5% (2019)<br>
 office machinery/parts, cars and vehicle parts, integrated circuits, delivery trucks, gold (2019)<br>
 
 **Imports**<br>
-$233.75 billion (2020 est.) note: data are in current year dollars<br>
-$272.83 billion (2019 est.) note: data are in current year dollars<br>
-$283.66 billion (2018 est.) note: data are in current year dollars<br>
+$295.78 billion (2021 est.) note: data are in current year dollars<br>
+$232.039 billion (2020 est.) note: data are in current year dollars<br>
+$272.831 billion (2019 est.) note: data are in current year dollars<br>
 
 **Imports - partners**<br>
 China 22%, Japan 14%, United States 7%, Malaysia 6% (2019)<br>
@@ -549,8 +551,9 @@ China 22%, Japan 14%, United States 7%, Malaysia 6% (2019)<br>
 crude petroleum, integrated circuits, natural gas, vehicle parts, gold (2019)<br>
 
 **Reserves of foreign exchange and gold**<br>
-$202.6 billion (31 December 2017 est.)<br>
-$171.9 billion (31 December 2016 est.)<br>
+$246.025 billion (31 December 2021 est.)<br>
+$258.104 billion (31 December 2020 est.)<br>
+$224.356 billion (31 December 2019 est.)<br>
 
 **Debt - external**<br>
 $167.89 billion (2019 est.)<br>
@@ -558,11 +561,11 @@ $158.964 billion (2018 est.)<br>
 
 **Exchange rates**<br>
 _Currency_: baht per US dollar -<br>
-30.03 (2020 est.)<br>
-30.29749 (2019 est.)<br>
-32.8075 (2018 est.)<br>
-34.248 (2014 est.)<br>
-32.48 (2013 est.)<br>
+31.977 (2021 est.)<br>
+31.294 (2020 est.)<br>
+31.048 (2019 est.)<br>
+32.31 (2018 est.)<br>
+33.94 (2017 est.)<br>
 
 ## Energy
 
@@ -745,7 +748,7 @@ including the most recent in 2014, the military has attempted more than 20 coups
 <p><em>Thailand-Burma</em>: in 2016, Thailand expressed its interest in investing in Burma’s Hatgyi Dam project on the Salween River near the Thai-Burma border; the dam has the potential to supply electricity and water during the drought season; approximately 100,000 mostly Karen refugees fleeing civil strife, political upheaval, and economic stagnation in Burma live in nine remote camps in Thailand near the border</p> <p><em>Thailand-Cambodia</em>: Cambodia and Thailand dispute sections of their border; in 2011, Thailand and Cambodia resorted to arms in the dispute over the location of the boundary on the precipice surmounted by Preah Vihear temple ruins, awarded to Cambodia by ICJ decision in 1962 and part of a planned UN World Heritage site; in 2013, the International Court of Justice ruled that the land with the temple was Cambodian territory but that a nearby hill belonged to Thailand</p> <p><em>Thailand-Laos</em>: talks continue on completion of demarcation with Laos but disputes remain over several islands in the Mekong River</p> <p><em>Thailand-Malaysia</em>: separatist violence in Thailand's predominantly Malay-Muslim southern provinces prompt border closures and controls with Malaysia to stem insurgent activities; disputed areas are the Bukit Jeli area at the headwaters of the Golok River and the continental shelf boundary in the Gulf of Thailand</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 91,349 (Burma) (2022)<br>
+_refugees (country of origin)_: 90,759 (Burma) (2022)<br>
 _IDPs_: 41,000 (2021)<br>
 _stateless persons_: 554,103 (mid-year 2021) (estimate represents stateless persons registered with the Thai Government; actual number may be as high as 3.5 million); note - about half of Thailand's northern hill tribe people do not have citizenship and make up the bulk of Thailand's stateless population; most lack documentation showing they or one of their parents were born in Thailand; children born to Burmese refugees are not eligible for Burmese or Thai citizenship and are stateless; most Chao Lay, maritime nomadic peoples, who travel from island to island in the Andaman Sea west of Thailand are also stateless; stateless Rohingya refugees from Burma are considered illegal migrants by Thai authorities and are detained in inhumane conditions or expelled; stateless persons are denied access to voting, property, education, employment, healthcare, and driving<br>
 <strong>note:</strong> Thai nationality was granted to more than 23,000 stateless persons between 2012 and 2016 and more than 18,000 between 2018 and 2021; in 2016, the Government of Thailand approved changes to its citizenship laws that could make 80,000 stateless persons eligible for citizenship, as part of its effort to achieve zero statelessness by 2024 (2021)<br>

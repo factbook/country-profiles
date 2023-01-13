@@ -161,7 +161,7 @@ _female_: 65.99 years (2022 est.)<br>
 4.69 children born/woman (2022 est.)<br>
 
 **Gross reproduction rate**<br>
-2.31 (2022 est.)<br>
+2.29 (2023 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 20.6% (2018/19)<br>
@@ -214,11 +214,11 @@ _total_: 9% (2020 est.)<br>
 _male_: 17% (2020 est.)<br>
 _female_: 0.9% (2020 est.)<br>
 
-**Currently married women (ages 15-49)**<br>
-57.3% (2022 est.)<br>
-
 **Children under the age of 5 years underweight**<br>
 18.8% (2019)<br>
+
+**Currently married women (ages 15-49)**<br>
+56.7% (2023 est.)<br>
 
 **Child marriage**<br>
 _women married by age 15_: 8.1%<br>
@@ -235,9 +235,9 @@ _male_: 71.8%<br>
 _female_: 48.3% (2015)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 4%<br>
-_male_: 4%<br>
-_female_: 4.2% (2018)<br>
+_total_: 12.8%<br>
+_male_: 11.6%<br>
+_female_: 14.2% (2021 est.)<br>
 
 ## Environment
 
@@ -392,29 +392,29 @@ _lyrics/music_: Amilcar Lopes CABRAL/XIAO He<br>
 <p>Guinea-Bissau is highly dependent on subsistence agriculture, cashew nut exports, and foreign assistance. Two out of three Bissau-Guineans remain below the absolute poverty line. The legal economy is based on cashews and fishing. Illegal logging and trafficking in narcotics also play significant roles. The combination of limited economic prospects, weak institutions, and favorable geography have made this West African country a way station for drugs bound for Europe.</p> <p> </p> <p>Guinea-Bissau has substantial potential for development of mineral resources, including phosphates, bauxite, and mineral sands. Offshore oil and gas exploration has begun. The country’s climate and soil make it feasible to grow a wide range of cash crops, fruit, vegetables, and tubers; however, cashews generate more than 80% of export receipts and are the main source of income for many rural communities.</p> <p> </p> <p>The government was deposed in August 2015, and since then, a political stalemate has resulted in weak governance and reduced donor support.</p> <p> </p> <p>The country is participating in a three-year, IMF extended credit facility program that was suspended because of a planned bank bailout. The program was renewed in 2017, but the major donors of direct budget support (the EU, World Bank, and African Development Bank) have halted their programs indefinitely. Diversification of the economy remains a key policy goal, but Guinea-Bissau’s poor infrastructure and business climate will constrain this effort.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
-$3.64 billion (2020 est.)<br>
-$3.73 billion (2019 est.)<br>
-$3.56 billion (2018 est.)<br>
+$3.774 billion (2021 est.)<br>
+$3.636 billion (2020 est.)<br>
+$3.725 billion (2019 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
-5.9% (2017 est.)<br>
-6.3% (2016 est.)<br>
-6.1% (2015 est.)<br>
+3.8% (2021 est.)<br>
+-2.4% (2020 est.)<br>
+4.5% (2019 est.)<br>
 
 **Real GDP per capita**<br>
+$1,800 (2021 est.)<br>
 $1,800 (2020 est.)<br>
 $1,900 (2019 est.)<br>
-$1,900 (2018 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
 $1.339 billion (2019 est.)<br>
 
 **Inflation rate (consumer prices)**<br>
-0.2% (2019 est.)<br>
-0.3% (2018 est.)<br>
-1.6% (2017 est.)<br>
+2.24% (2021 est.)<br>
+1.14% (2020 est.)<br>
+0.25% (2019 est.)<br>
 
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 50% (2017 est.)<br>
@@ -436,28 +436,31 @@ rice, cashew nuts, roots/tubers nes, oil palm fruit, plantains, cassava, groundn
 agricultural products processing, beer, soft drinks<br>
 
 **Industrial production growth rate**<br>
-2.5% (2017 est.)<br>
+-0.7% (2020 est.)<br>
 
 **Labor force**<br>
-731,300 (2013 est.)<br>
+867,500 (2021 est.)<br>
 
 **Labor force - by occupation**<br>
 _agriculture_: 82%<br>
 _industry and services_: 18% (2000 est.)<br>
 
 **Unemployment rate**<br>
-<p>NA</p><br>
+6.76% (2021 est.)<br>
+6.74% (2020 est.)<br>
+6.04% (2019 est.)<br>
+NA<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 4%<br>
-_male_: 4%<br>
-_female_: 4.2% (2018)<br>
+_total_: 12.8%<br>
+_male_: 11.6%<br>
+_female_: 14.2% (2021 est.)<br>
 
 **Population below poverty line**<br>
 67% (2015 est.)<br>
 
 **Gini Index coefficient - distribution of family income**<br>
-50.7 (2010 est.)<br>
+34.8 (2018 est.)<br>
 
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 2.9%<br>
@@ -475,18 +478,20 @@ _expenditures_: 263.5 million (2017 est.)<br>
 57.9% of GDP (2016 est.)<br>
 
 **Taxes and other revenues**<br>
-18.2% (of GDP) (2017 est.)<br>
+9.46% (of GDP) (2019 est.)<br>
 
 **Fiscal year**<br>
 calendar year<br>
 
 **Current account balance**<br>
--$27 million (2017 est.)<br>
-$16 million (2016 est.)<br>
+-$38.683 million (2020 est.)<br>
+-$127.41 million (2019 est.)<br>
+-$54.134 million (2018 est.)<br>
 
 **Exports**<br>
-$290 million (2019 est.) note: data are in current year dollars<br>
-$380 million (2018 est.) note: data are in current year dollars<br>
+$232.536 million (2020 est.) note: data are in current year dollars<br>
+$291.805 million (2019 est.) note: data are in current year dollars<br>
+$380.428 million (2018 est.)<br>
 
 **Exports - partners**<br>
 India 50%, Belgium 28%, Cote d'Ivoire 8% (2019)<br>
@@ -495,8 +500,9 @@ India 50%, Belgium 28%, Cote d'Ivoire 8% (2019)<br>
 cashews, gold, fish, lumber, aluminum ores (2019)<br>
 
 **Imports**<br>
-$500 million (2019 est.) note: data are in current year dollars<br>
-$460 million (2018 est.) note: data are in current year dollars<br>
+$439 million (2020 est.) note: data are in current year dollars<br>
+$502 million (2019 est.) note: data are in current year dollars<br>
+$459 million (2018 est.)<br>
 
 **Imports - partners**<br>
 Portugal 31%, Senegal 20%, China 10%, Netherlands 7%, Pakistan 7% (2019)<br>
@@ -514,11 +520,11 @@ $941.5 million (31 December 2000 est.)<br>
 
 **Exchange rates**<br>
 _Currency_: Communaute Financiere Africaine francs (XOF) per US dollar -<br>
-605.3 (2017 est.)<br>
-593.01 (2016 est.)<br>
-593.01 (2015 est.)<br>
-591.45 (2014 est.)<br>
-494.42 (2013 est.)<br>
+554.531 (2021 est.)<br>
+575.586 (2020 est.)<br>
+585.911 (2019 est.)<br>
+555.446 (2018 est.)<br>
+580.657 (2017 est.)<br>
 
 ## Energy
 

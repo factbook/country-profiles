@@ -151,7 +151,7 @@ _female_: 80.86 years (2022 est.)<br>
 1.81 children born/woman (2022 est.)<br>
 
 **Gross reproduction rate**<br>
-0.88 (2022 est.)<br>
+0.88 (2023 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 NA<br>
@@ -186,11 +186,11 @@ _degree of risk_: high (2020)<br>
 _food or waterborne diseases_: bacterial diarrhea<br>
 _vectorborne diseases_: malaria<br>
 
-**Currently married women (ages 15-49)**<br>
-27% (2022 est.)<br>
-
 **Children under the age of 5 years underweight**<br>
 NA<br>
+
+**Currently married women (ages 15-49)**<br>
+27.2% (2023 est.)<br>
 
 **Education expenditures**<br>
 NA<br>
@@ -201,9 +201,9 @@ _male_: NA<br>
 _female_: NA<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 56.7%<br>
-_male_: 54.5%<br>
-_female_: 59.7% (2012 est.)<br>
+_total_: 38.9%<br>
+_male_: 35.4%<br>
+_female_: 43.9% (2021 est.)<br>
 
 ## Environment
 
@@ -340,9 +340,9 @@ $5.383 billion (2016 est.)<br>
 $6.963 billion (2015 est.)<br>
 
 **Real GDP growth rate**<br>
-2% (2015 est.)<br>
--2.7% (2014 est.)<br>
--2.5% (2010 est.)<br>
+1.02% (2021 est.)<br>
+-10% (2020 est.)<br>
+2.42% (2019 est.)<br>
 
 **Real GDP per capita**<br>
 $17,000 (2015 est.)<br>
@@ -379,7 +379,7 @@ tourism, pearls, agricultural processing, handicrafts, phosphates<br>
 NA<br>
 
 **Labor force**<br>
-126,300 (2016 est.)<br>
+130,100 (2021 est.)<br>
 
 **Labor force - by occupation**<br>
 _agriculture_: 13%<br>
@@ -387,13 +387,14 @@ _industry_: 19%<br>
 _services_: 68% (2013 est.)<br>
 
 **Unemployment rate**<br>
-21.8% (2012)<br>
-11.7% (2010)<br>
+14.39% (2021 est.)<br>
+14.1% (2020 est.)<br>
+12.3% (2019 est.)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 56.7%<br>
-_male_: 54.5%<br>
-_female_: 59.7% (2012 est.)<br>
+_total_: 38.9%<br>
+_male_: 35.4%<br>
+_female_: 43.9% (2021 est.)<br>
 
 **Population below poverty line**<br>
 19.7% (2009 est.)<br>
@@ -416,7 +417,7 @@ _expenditures_: 1.833 billion (2011)<br>
 calendar year<br>
 
 **Current account balance**<br>
-$207.7 million (2014 est.)<br>
+$411.963 million (2016 est.)<br>
 $158.8 million (2013 est.)<br>
 
 **Exports**<br>
@@ -444,11 +445,11 @@ fuels, foodstuffs, machinery and equipment<br>
 
 **Exchange rates**<br>
 _Currency_: Comptoirs Francais du Pacifique francs (XPF) per US dollar -<br>
-110.2 (2017 est.)<br>
-107.84 (2016 est.)<br>
-107.84 (2015 est.)<br>
-89.85 (2014 est.)<br>
-90.56 (2013 est.)<br>
+100.88 (2021 est.)<br>
+104.711 (2020 est.)<br>
+106.589 (2019 est.)<br>
+101.047 (2018 est.)<br>
+105.633 (2017 est.)<br>
 
 ## Energy
 

@@ -170,7 +170,7 @@ _female_: 78.7 years (2022 est.)<br>
 1.93 children born/woman (2022 est.)<br>
 
 **Gross reproduction rate**<br>
-0.94 (2022 est.)<br>
+0.93 (2023 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 69.8% (2018)<br>
@@ -221,11 +221,11 @@ _total_: 30.7% (2020 est.)<br>
 _male_: 42.1% (2020 est.)<br>
 _female_: 19.2% (2020 est.)<br>
 
-**Currently married women (ages 15-49)**<br>
-65.5% (2022 est.)<br>
-
 **Children under the age of 5 years underweight**<br>
 1.5% (2018/19)<br>
+
+**Currently married women (ages 15-49)**<br>
+65.4% (2023 est.)<br>
 
 **Child marriage**<br>
 _women married by age 15_: 2%<br>
@@ -246,9 +246,9 @@ _male_: 19 years<br>
 _female_: 18 years (2020)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 25.1%<br>
-_male_: 22.5%<br>
-_female_: 29.9% (2020 est.)<br>
+_total_: 24.3%<br>
+_male_: 21.4%<br>
+_female_: 29.9% (2021 est.)<br>
 
 ## Environment
 
@@ -420,29 +420,29 @@ _selected World Heritage Site locales_: Archaeological Site of Troy (c); Ephesus
 <p>Turkey's largely free-market economy is driven by its industry and, increasingly, service sectors, although its traditional agriculture sector still accounts for about 25% of employment. The automotive, petrochemical, and electronics industries have risen in importance and surpassed the traditional textiles and clothing sectors within Turkey's export mix. However, the recent period of political stability and economic dynamism has given way to domestic uncertainty and security concerns, which are generating financial market volatility and weighing on Turkey’s economic outlook.</p> <p> </p> <p>Current government policies emphasize populist spending measures and credit breaks, while implementation of structural economic reforms has slowed. The government is playing a more active role in some strategic sectors and has used economic institutions and regulators to target political opponents, undermining private sector confidence in the judicial system. Between July 2016 and March 2017, three credit ratings agencies downgraded Turkey’s sovereign credit ratings, citing concerns about the rule of law and the pace of economic reforms.</p> <p> </p> <p>Turkey remains highly dependent on imported oil and gas but is pursuing energy relationships with a broader set of international partners and taking steps to increase use of domestic energy sources including renewables, nuclear, and coal. The joint Turkish-Azerbaijani Trans-Anatolian Natural Gas Pipeline is moving forward to increase transport of Caspian gas to Turkey and Europe, and when completed will help diversify Turkey's sources of imported gas.</p> <p> </p> <p>After Turkey experienced a severe financial crisis in 2001, Ankara adopted financial and fiscal reforms as part of an IMF program. The reforms strengthened the country's economic fundamentals and ushered in an era of strong growth, averaging more than 6% annually until 2008. An aggressive privatization program also reduced state involvement in basic industry, banking, transport, power generation, and communication. Global economic conditions and tighter fiscal policy caused GDP to contract in 2009, but Turkey's well-regulated financial markets and banking system helped the country weather the global financial crisis, and GDP growth rebounded to around 9% in 2010 and 2011, as exports and investment recovered following the crisis.</p> <p> </p> <p>The growth of Turkish GDP since 2016 has revealed the persistent underlying imbalances in the Turkish economy. In particular, Turkey’s large current account deficit means it must rely on external investment inflows to finance growth, leaving the economy vulnerable to destabilizing shifts in investor confidence. Other troublesome trends include rising unemployment and inflation, which increased in 2017, given the Turkish lira’s continuing depreciation against the dollar. Although government debt remains low at about 30% of GDP, bank and corporate borrowing has almost tripled as a percent of GDP during the past decade, outpacing its emerging-market peers and prompting investor concerns about its long-term sustainability.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
-$2,393,960,000,000 (2020 est.)<br>
-$2,352,640,000,000 (2019 est.)<br>
-$2,331,270,000,000 (2018 est.)<br>
+$2.668 trillion (2021 est.)<br>
+$2.396 trillion (2020 est.)<br>
+$2.35 trillion (2019 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
-0.98% (2019 est.)<br>
-3.04% (2018 est.)<br>
-7.54% (2017 est.)<br>
+11.35% (2021 est.)<br>
+1.94% (2020 est.)<br>
+0.78% (2019 est.)<br>
 
 **Real GDP per capita**<br>
-$28,400 (2020 est.)<br>
+$31,500 (2021 est.)<br>
+$28,500 (2020 est.)<br>
 $28,200 (2019 est.)<br>
-$28,300 (2018 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
 $760.028 billion (2019 est.)<br>
 
 **Inflation rate (consumer prices)**<br>
-15.4% (2019 est.)<br>
-16.2% (2018 est.)<br>
-11.1% (2017 est.)<br>
+19.6% (2021 est.)<br>
+12.28% (2020 est.)<br>
+15.18% (2019 est.)<br>
 
 **Credit ratings**<br>
 _Fitch rating_: BB- (2019)<br>
@@ -470,10 +470,10 @@ milk, wheat, sugar beet, tomatoes, barley, maize, potatoes, grapes, watermelons,
 textiles, food processing, automobiles, electronics, mining (coal, chromate, copper, boron), steel, petroleum, construction, lumber, paper<br>
 
 **Industrial production growth rate**<br>
-9.1% (2017 est.)<br>
+12.46% (2021 est.)<br>
 
 **Labor force**<br>
-25.677 million (2020 est.)<br>
+32.554 million (2021 est.)<br>
 <strong>note:</strong> this number is for the domestic labor force only; number does not include about 1.2 million Turks working abroad, nor refugees<br>
 
 **Labor force - by occupation**<br>
@@ -482,20 +482,20 @@ _industry_: 26.6%<br>
 _services_: 54.9% (2016)<br>
 
 **Unemployment rate**<br>
-13.68% (2019 est.)<br>
-11% (2018 est.)<br>
+13.39% (2021 est.)<br>
+13.11% (2020 est.)<br>
+13.67% (2019 est.)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 25.1%<br>
-_male_: 22.5%<br>
-_female_: 29.9% (2020 est.)<br>
+_total_: 24.3%<br>
+_male_: 21.4%<br>
+_female_: 29.9% (2021 est.)<br>
 
 **Population below poverty line**<br>
 14.4% (2018 est.)<br>
 
 **Gini Index coefficient - distribution of family income**<br>
 41.9 (2018 est.)<br>
-43.6 (2003)<br>
 
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 2.1%<br>
@@ -509,23 +509,25 @@ _expenditures_: 185.8 billion (2017 est.)<br>
 -1.5% (of GDP) (2017 est.)<br>
 
 **Public debt**<br>
-28.3% of GDP (2017 est.)<br>
-28.3% of GDP (2016 est.)<br>
+41.97% of GDP (2020 est.)<br>
+34.13% of GDP (2019 est.)<br>
+29.41% of GDP (2018 est.)<br>
 
 **Taxes and other revenues**<br>
-20.3% (of GDP) (2017 est.)<br>
+17.64% (of GDP) (2020 est.)<br>
 
 **Fiscal year**<br>
 calendar year<br>
 
 **Current account balance**<br>
-$8.561 billion (2019 est.)<br>
--$20.745 billion (2018 est.)<br>
+-$13.693 billion (2021 est.)<br>
+-$35.537 billion (2020 est.)<br>
+$5.303 billion (2019 est.)<br>
 
 **Exports**<br>
-$203.29 billion (2020 est.) note: data are in current year dollars<br>
-$245.84 billion (2019 est.) note: data are in current year dollars<br>
-$237.54 billion (2018 est.) note: data are in current year dollars<br>
+$282.851 billion (2021 est.) note: data are in current year dollars<br>
+$203.816 billion (2020 est.) note: data are in current year dollars<br>
+$244.941 billion (2019 est.) note: data are in current year dollars<br>
 
 **Exports - partners**<br>
 Germany 9%, United Kingdom 6%, Iraq 5%, Italy 5%, United States 5% (2019)<br>
@@ -534,9 +536,9 @@ Germany 9%, United Kingdom 6%, Iraq 5%, Italy 5%, United States 5% (2019)<br>
 cars and vehicle parts, refined petroleum, delivery trucks, jewelry, clothing and apparel (2019)<br>
 
 **Imports**<br>
-$232.01 billion (2020 est.) note: data are in current year dollars<br>
-$227.06 billion (2019 est.) note: data are in current year dollars<br>
-$248.09 billion (2018 est.) note: data are in current year dollars<br>
+$285.578 billion (2021 est.) note: data are in current year dollars<br>
+$230.141 billion (2020 est.) note: data are in current year dollars<br>
+$227.638 billion (2019 est.) note: data are in current year dollars<br>
 
 **Imports - partners**<br>
 Germany 11%, China 9%, Russia 9%, United States 5%, Italy 5% (2019)<br>
@@ -545,8 +547,9 @@ Germany 11%, China 9%, Russia 9%, United States 5%, Italy 5% (2019)<br>
 gold, refined petroleum, crude petroleum, vehicle parts, scrap iron (2019)<br>
 
 **Reserves of foreign exchange and gold**<br>
-$107.7 billion (31 December 2017 est.)<br>
-$106.1 billion (31 December 2016 est.)<br>
+$109.535 billion (31 December 2021 est.)<br>
+$93.512 billion (31 December 2020 est.)<br>
+$105.62 billion (31 December 2019 est.)<br>
 
 **Debt - external**<br>
 $438.677 billion (2019 est.)<br>
@@ -554,11 +557,11 @@ $454.251 billion (2018 est.)<br>
 
 **Exchange rates**<br>
 _Currency_: Turkish liras (TRY) per US dollar -<br>
-7.81925 (2020 est.)<br>
-5.8149 (2019 est.)<br>
-5.28905 (2018 est.)<br>
-2.72 (2014 est.)<br>
-2.1885 (2013 est.)<br>
+8.85 (2021 est.)<br>
+7.009 (2020 est.)<br>
+5.674 (2019 est.)<br>
+4.828 (2018 est.)<br>
+3.648 (2017 est.)<br>
 
 ## Energy
 
@@ -748,7 +751,7 @@ Islamic State of Iraq and ash-Sham (ISIS); Islamic Movement of Uzbekistan (IMU);
 <p><em>Turkey-Armenia</em>: in 2009, Swiss mediators facilitated an accord reestablishing diplomatic ties between Armenia and Turkey, but neither side has ratified the agreement and the rapprochement effort has faltered;  in early 2022, the two countries held talks twice aimed at normalizing relations, which could lead to the opening of their land border, shut since 1993; in 2000, Turkish authorities complained to UNESCO that blasting from quarries in Armenia was damaging the medieval ruins of Ani, on the other side of the Arpacay valley</p> <p><em>Turkey-Azerbaijan</em>: none identified</p> <p><em>Turkey-Bulgaria</em>: none identified</p> <p><em>Turkey-Cyprus</em>: status of northern Cyprus question remains</p> <p><em>Turkey-Georgia</em>: none identified</p> <p><em>Turkey-Greece</em>: complex maritime, air, and territorial disputes with Greece in the Aegean Sea, including rights to explore oil and gas reserves in the eastern Mediterranean and illegal migrants transiting from Turkey into Greece; the Aegean Maritime Boundary is complicated by the close proximity of Greek islands to the western shores of the Turkish Anatolian peninsula, representing the primary source of conflict between the two countries</p> <p><em>Turkey-Iran</em>: none identified</p> <p><em>Turkey-Iraq</em>: Turkey has expressed concern over the status of Kurds in Iraq</p> <p><em>Turkey-Syria</em>: Turkey completed building a wall along its border with Syria in 2018 to prevent illegal border crossings and smuggling</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 3,543,837 (Syria) (2022); 46,739 (Ukraine) (as of 3 January 2023)<br>
+_refugees (country of origin)_: 10,244 (Iraq) (mid-year 2022); 3,535,898 (Syria) (2022); 46,739 (Ukraine) (as of 3 January 2023)<br>
 _IDPs_: 1.099 million (displaced from 1984-2005 because of fighting between the Kurdish PKK and Turkish military; most IDPs are Kurds from eastern and southeastern provinces; no information available on persons displaced by development projects) (2021)<br>
 _stateless persons_: 117 (2018)<br>
 

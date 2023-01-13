@@ -174,7 +174,7 @@ _female_: 71.67 years (2022 est.)<br>
 2.02 children born/woman (2022 est.)<br>
 
 **Gross reproduction rate**<br>
-0.98 (2022 est.)<br>
+0.97 (2023 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 52.2% (2015/16)<br>
@@ -228,11 +228,11 @@ _total_: 44.1% (2020 est.)<br>
 _male_: 68.5% (2020 est.)<br>
 _female_: 19.7% (2020 est.)<br>
 
-**Currently married women (ages 15-49)**<br>
-57.6% (2022 est.)<br>
-
 **Children under the age of 5 years underweight**<br>
 19.1% (2017/18)<br>
+
+**Currently married women (ages 15-49)**<br>
+57.5% (2023 est.)<br>
 
 **Child marriage**<br>
 _women married by age 15_: 1.9%<br>
@@ -254,9 +254,9 @@ _male_: 10 years<br>
 _female_: 11 years (2018)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 4.9%<br>
-_male_: 4.1%<br>
-_female_: 5.8% (2020 est.)<br>
+_total_: 6.4%<br>
+_male_: 6.5%<br>
+_female_: 6.3% (2021 est.)<br>
 
 ## Environment
 
@@ -430,29 +430,29 @@ _selected World Heritage Site locales_: Pyu Ancient Cities; Bagan<br>
 <p>Since Burma began the transition to a civilian-led government in 2011, the country initiated economic reforms aimed at attracting foreign investment and reintegrating into the global economy. Burma established a managed float of the Burmese kyat in 2012, granted the Central Bank operational independence in July 2013, enacted a new anti-corruption law in September 2013, and granted licenses to 13 foreign banks in 2014-16. State Counsellor AUNG SAN SUU KYI and the ruling National League for Democracy, who took power in March 2016, have sought to improve Burma’s investment climate following the US sanctions lift in October 2016 and reinstatement of Generalized System of Preferences trade benefits in November 2016. In October 2016, Burma passed a foreign investment law that consolidates investment regulations and eases rules on foreign ownership of businesses.</p> <p>Burma’s economic growth rate recovered from a low growth under 6% in 2011 but has been volatile between 6% and 8% between 2014 and 2018. Burma’s abundant natural resources and young labor force have the potential to attract foreign investment in the energy, garment, information technology, and food and beverage sectors. The government is focusing on accelerating agricultural productivity and land reforms, modernizing and opening the financial sector, and developing transportation and electricity infrastructure. The government has also taken steps to improve transparency in the mining and oil sectors through publication of reports under the Extractive Industries Transparency Initiative (EITI) in 2016 and 2018.</p> <p>Despite these improvements, living standards have not improved for the majority of the people residing in rural areas. Burma remains one of the poorest countries in Asia – approximately 26% of the country’s 51 million people live in poverty. The isolationist policies and economic mismanagement of previous governments have left Burma with poor infrastructure, endemic corruption, underdeveloped human resources, and inadequate access to capital, which will require a major commitment to reverse. The Burmese Government has been slow to address impediments to economic development such as unclear land rights, a restrictive trade licensing system, an opaque revenue collection system, and an antiquated banking system.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
-$247.24 billion (2020 est.)<br>
-$274.69 billion (2019 est.)<br>
-$270.11 billion (2018 est.)<br>
+$216.948 billion (2021 est.)<br>
+$264.29 billion (2020 est.)<br>
+$256.16 billion (2019 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
-6.8% (2017 est.)<br>
-5.9% (2016 est.)<br>
-7% (2015 est.)<br>
+-17.91% (2021 est.)<br>
+3.17% (2020 est.)<br>
+6.75% (2019 est.)<br>
 
 **Real GDP per capita**<br>
-$4,500 (2020 est.)<br>
-$5,100 (2019 est.)<br>
-$5,000 (2018 est.)<br>
+$4,000 (2021 est.)<br>
+$4,900 (2020 est.)<br>
+$4,800 (2019 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
 $76.606 billion (2019 est.)<br>
 
 **Inflation rate (consumer prices)**<br>
-8.8% (2019 est.)<br>
-6.8% (2018 est.)<br>
-4.6% (2017 est.)<br>
+8.83% (2019 est.)<br>
+6.87% (2018 est.)<br>
+4.57% (2017 est.)<br>
 
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 24.1% (2017 est.)<br>
@@ -474,10 +474,10 @@ rice, sugar cane, beans, vegetables, milk, maize, poultry, groundnuts, fruit, pl
 agricultural processing; wood and wood products; copper, tin, tungsten, iron; cement, construction materials; pharmaceuticals; fertilizer; oil and natural gas; garments; jade and gems<br>
 
 **Industrial production growth rate**<br>
-8.9% (2017 est.)<br>
+-20.65% (2021 est.)<br>
 
 **Labor force**<br>
-22.3 million (2017 est.)<br>
+22.122 million (2021 est.)<br>
 
 **Labor force - by occupation**<br>
 _agriculture_: 70%<br>
@@ -485,13 +485,14 @@ _industry_: 7%<br>
 _services_: 23% (2001 est.)<br>
 
 **Unemployment rate**<br>
-4% (2017 est.)<br>
-4% (2016 est.)<br>
+2.17% (2021 est.)<br>
+1.06% (2020 est.)<br>
+0.5% (2019 est.)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 4.9%<br>
-_male_: 4.1%<br>
-_female_: 5.8% (2020 est.)<br>
+_total_: 6.4%<br>
+_male_: 6.5%<br>
+_female_: 6.3% (2021 est.)<br>
 
 **Population below poverty line**<br>
 24.8% (2017 est.)<br>
@@ -515,18 +516,20 @@ _expenditures_: 11.23 billion (2017 est.)<br>
 35.7% of GDP (2016 est.)<br>
 
 **Taxes and other revenues**<br>
-13.5% (of GDP) (2017 est.)<br>
+6.44% (of GDP) (2019 est.)<br>
 
 **Fiscal year**<br>
 1 April - 31 March<br>
 
 **Current account balance**<br>
-$240 million (2019 est.)<br>
--$2.398 billion (2018 est.)<br>
+$67.72 million (2019 est.)<br>
+-$2.561 billion (2018 est.)<br>
+-$4.917 billion (2017 est.)<br>
 
 **Exports**<br>
-$17.52 billion (2019 est.)<br>
-$15.73 billion (2018 est.)<br>
+$17.523 billion (2019 est.)<br>
+$15.728 billion (2018 est.)<br>
+$13.629 billion (2017 est.)<br>
 <strong>note:</strong> Data are in current year dollars and do not include illicit exports or re-exports.<br>
 
 **Exports - partners**<br>
@@ -536,8 +539,9 @@ China 24%, Thailand 24%, Japan 7%, Germany 5% (2019)<br>
 natural gas, clothing products, rice, copper, dried legumes (2019)<br>
 
 **Imports**<br>
-$17.36 billion (2019 est.) note: data are in current year dollars<br>
-$18.66 billion (2018 est.) note: data are in current year dollars<br>
+$17.356 billion (2019 est.) note: data are in current year dollars<br>
+$18.664 billion (2018 est.) note: data are in current year dollars<br>
+$18.459 billion (2017 est.)<br>
 <strong>note:</strong> import figures are grossly underestimated due to the value of consumer goods, diesel fuel, and other products smuggled in from Thailand, China, Malaysia, and India<br>
 
 **Imports - partners**<br>
@@ -547,8 +551,9 @@ China 43%, Thailand 15%, Singapore 12%, Indonesia 5% (2019)<br>
 refined petroleum, broadcasting equipment, fabrics, motorcycles, packaged medicines (2019)<br>
 
 **Reserves of foreign exchange and gold**<br>
-$4.924 billion (31 December 2017 est.)<br>
-$4.63 billion (31 December 2016 est.)<br>
+$7.67 billion (31 December 2020 est.)<br>
+$5.824 billion (31 December 2019 est.)<br>
+$5.646 billion (31 December 2018 est.)<br>
 
 **Debt - external**<br>
 $6.594 billion (31 December 2017 est.)<br>
@@ -556,11 +561,11 @@ $8.2 billion (31 December 2016 est.)<br>
 
 **Exchange rates**<br>
 _Currency_: kyats (MMK) per US dollar -<br>
-1,361.9 (2017 est.)<br>
+1,381.619 (2020 est.)<br>
+1,518.255 (2019 est.)<br>
+1,429.808 (2018 est.)<br>
+1,360.359 (2017 est.)<br>
 1,234.87 (2016 est.)<br>
-1,234.87 (2015 est.)<br>
-1,162.62 (2014 est.)<br>
-984.35 (2013 est.)<br>
 
 ## Energy
 
@@ -744,8 +749,8 @@ _IDPs_: 671,011 (government offensives against armed ethnic minority groups near
 _stateless persons_: 600,000 (mid-year 2021); note - Rohingya Muslims, living predominantly in Rakhine State, are Burma's main group of stateless people; the Burmese Government does not recognize the Rohingya as a "national race" and stripped them of their citizenship under the 1982 Citizenship Law, categorizing them as "non-nationals" or "foreign residents;" under the Rakhine State Action Plan drafted in October 2014, the Rohingya must demonstrate their family has lived in Burma for at least 60 years to qualify for a lesser naturalized citizenship and the classification of Bengali or be put in detention camps and face deportation; native-born but non-indigenous people, such as Indians, are also stateless; the Burmese Government does not grant citizenship to children born outside of the country to Burmese parents who left the country illegally or fled persecution, such as those born in Thailand; the number of stateless persons has decreased dramatically because hundreds of thousands of Rohingya have fled to Bangladesh since 25 August 2017 to escape violence<br>
 
 **Trafficking in persons**<br>
-_tier rating_: Tier 3 &mdash; Burma does not fully meet the minimum standards for the elimination of trafficking and is not making significant efforts to do so; authorities increased the investigation and prosecution of trafficking crimes, including those involving officials, and the investigation of forced labor in the fishing sector; the government identified and referred more victims to care and enacted legislation enhancing protections for child victims; however, a policy or pattern of forced labor existed; the use of children in labor and support roles by the military increased in conflict zones in Rakhine and Shan States; displacement resulting from military conflict made Rohingya and other ethnic groups vulnerable to human trafficking; the constitutionally guaranteed power of the military continued to limit the government&rsquo;s ability to address forced adult labor and child soldier recruitment; although authorities allocated increased funding to victim protection, most services to trafficking victims were provided by NGOs and foreign donors (2020)<br>
-_trafficking profile_: human traffickers exploit men, women, and children through forced labor, and women and children in sex trafficking in Burma and abroad; Burmese men are forced to work domestically and abroad in fishing, manufacturing, forestry, agriculture, and construction; fishermen are lured into forced labor in remote waters and offshore by recruitment agencies in Burma and Southeast Asia; Burmese women increasingly are lured to China for marriage under false pretenses and are subjected to sex trafficking, forced concubinage and childbearing, and forced domestic labor; men, women, and children in ethnic minority areas are at increased risk of sex trafficking and forced labor in farming, manufacturing, and construction; men and boys are recruited locally by traffickers for forced labor in oil palm, banana, and rubber plantations, in mining, fishing, and bamboo, teak, rice, and sugarcane harvesting; some military personnel, civilian brokers, border guard officials, and ethnic armed groups continue to recruit child soldiers, particularly in conflict areas<br>
+_tier rating_: Tier 3 &mdash; Burma does not fully meet the minimum standards for the elimination of trafficking and is not making significant efforts to do so, therefore Burma remained on Tier 3; the military continued the use of children and adults for forced labor; the regime did not prosecute any military or deposed government officials for the forced labor, and it prevented civil society organizations from assisting trafficking victims; displacement resulting from military conflict, exacerbated by the February 2021 military coup that deposed the democratically elected government, made Rohingya and other ethnic groups more vulnerable to human trafficking (2022)<br>
+_trafficking profile_: human traffickers exploit men, women, and children through forced labor, and women and children in sex trafficking in Burma and abroad; Burmese men are forced to work domestically and abroad in fishing, manufacturing, forestry, agriculture, and construction; fishermen are lured into forced labor in remote waters and offshore by recruitment agencies in Burma and Southeast Asia; Burmese women increasingly are lured to China for marriage under false pretenses and are subjected to sex trafficking, forced concubinism and childbearing, and forced domestic labor; men, women, and children in ethnic minority areas are at increased risk of sex trafficking and forced labor in farming, manufacturing, and construction; men and boys are recruited locally by traffickers for forced labor in oil palm and rubber plantations, in mining, fishing, and bamboo, teak, and rice harvesting; some military personnel, civilian brokers, border guard officials, and ethnic armed groups continue to recruit child soldiers, particularly in conflict areas; discriminatory laws and hiring practices put LGBTQI+ individuals at higher risk for trafficking (2022)<br>
 
 **Illicit drugs**<br>
 <p>a major source of illicit methamphetamine and opiates; illicit import of precursor chemicals from China increased production and trafficking of synthetic drugs; second-largest opium poppy cultivator in Asia, with an estimated 20,200 hectares grown in 2019; “Yaba,” a tablet containing methamphetamine, caffeine, and other stimulants, is produced in Burma and trafficked regionally; ethnic armed organizations, military-affiliated militias, and transnational criminal organizations oversee billion dollar drug production and trafficking industry; drugs produced in Burma are trafficked beyond Southeast Asia to Australia, New Zealand, and Japan; not a major source or transit country for drugs entering the United States</p> <p> </p> (2021)<br>

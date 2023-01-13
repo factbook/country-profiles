@@ -174,7 +174,7 @@ _female_: 81.59 years (2022 est.)<br>
 2.18 children born/woman (2022 est.)<br>
 
 **Gross reproduction rate**<br>
-1.06 (2022 est.)<br>
+1.05 (2023 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 70.1% (2019/20)<br>
@@ -224,11 +224,11 @@ _total_: 24.5% (2020 est.)<br>
 _male_: 29.4% (2020 est.)<br>
 _female_: 19.6% (2020 est.)<br>
 
-**Currently married women (ages 15-49)**<br>
-49.1% (2022 est.)<br>
-
 **Children under the age of 5 years underweight**<br>
 1.7% (2018/19)<br>
+
+**Currently married women (ages 15-49)**<br>
+48.9% (2023 est.)<br>
 
 **Education expenditures**<br>
 5% of GDP (2020 est.)<br>
@@ -245,9 +245,9 @@ _male_: 17 years<br>
 _female_: 20 years (2020)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 23.2%<br>
-_male_: 20.8%<br>
-_female_: 26.7% (2021 est.)<br>
+_total_: 29.9%<br>
+_male_: 25%<br>
+_female_: 37.1% (2021 est.)<br>
 
 ## Environment
 
@@ -420,20 +420,20 @@ _selected World Heritage Site locales_: Los Glaciares National Park (n); Jesuit 
 <p>Argentina benefits from rich natural resources, a highly literate population, an export-oriented agricultural sector, and a diversified industrial base. Although one of the world's wealthiest countries 100 years ago, Argentina suffered during most of the 20th century from recurring economic crises, persistent fiscal and current account deficits, high inflation, mounting external debt, and capital flight.</p> <p> </p> <p>Cristina FERNANDEZ DE KIRCHNER succeeded her husband as president in late 2007, and in 2008 the rapid economic growth of previous years slowed sharply as government policies held back exports and the world economy fell into recession. In 2010 the economy rebounded strongly, but slowed in late 2011 even as the government continued to rely on expansionary fiscal and monetary policies, which kept inflation in the double digits.</p> <p> </p> <p>In order to deal with these problems, the government expanded state intervention in the economy: it nationalized the oil company YPF from Spain's Repsol, expanded measures to restrict imports, and further tightened currency controls in an effort to bolster foreign reserves and stem capital flight. Between 2011 and 2013, Central Bank foreign reserves dropped $21.3 billion from a high of $52.7 billion. In July 2014, Argentina and China agreed on an $11 billion currency swap; the Argentine Central Bank has received the equivalent of $3.2 billion in Chinese yuan, which it counts as international reserves.</p> <p> </p> <p>With the election of President Mauricio MACRI in November 2015, Argentina began a historic political and economic transformation, as his administration took steps to liberalize the Argentine economy, lifting capital controls, floating the peso, removing export controls on some commodities, cutting some energy subsidies, and reforming the country’s official statistics. Argentina negotiated debt payments with holdout bond creditors, continued working with the IMF to shore up its finances, and returned to international capital markets in April 2016.</p> <p> </p> <p>In 2017, Argentina’s economy emerged from recession with GDP growth of nearly 3.0%. The government passed important pension, tax, and fiscal reforms. And after years of international isolation, Argentina took on several international leadership roles, including hosting the World Economic Forum on Latin America and the World Trade Organization Ministerial Conference, and is set to assume the presidency of the G-20 in 2018.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
-$893.31 billion (2020 est.)<br>
-$991.52 billion (2019 est.)<br>
-$1,012,670,000,000 (2018 est.)<br>
+$986.134 billion (2021 est.)<br>
+$893.251 billion (2020 est.)<br>
+$991.876 billion (2019 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
--2.03% (2019 est.)<br>
--2.53% (2018 est.)<br>
-2.83% (2017 est.)<br>
+10.4% (2021 est.)<br>
+-9.94% (2020 est.)<br>
+-2% (2019 est.)<br>
 
 **Real GDP per capita**<br>
+$21,500 (2021 est.)<br>
 $19,700 (2020 est.)<br>
 $22,100 (2019 est.)<br>
-$22,800 (2018 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
@@ -470,11 +470,11 @@ maize, soybeans, wheat, sugar cane, milk, barley, sunflower seed, beef, grapes, 
 food processing, motor vehicles, consumer durables, textiles, chemicals and petrochemicals, printing, metallurgy, steel<br>
 
 **Industrial production growth rate**<br>
-2.7% (2017 est.)<br>
+15.26% (2021 est.)<br>
 <strong>note:</strong> based on private sector estimates<br>
 
 **Labor force**<br>
-18 million (2017 est.)<br>
+21.206 million (2021 est.)<br>
 <strong>note:</strong> urban areas only<br>
 
 **Labor force - by occupation**<br>
@@ -483,20 +483,20 @@ _industry_: 28.6%<br>
 _services_: 66.1% (2017 est.)<br>
 
 **Unemployment rate**<br>
+10.9% (2021 est.)<br>
+11.46% (2020 est.)<br>
 9.84% (2019 est.)<br>
-9.18% (2018 est.)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 23.2%<br>
-_male_: 20.8%<br>
-_female_: 26.7% (2021 est.)<br>
+_total_: 29.9%<br>
+_male_: 25%<br>
+_female_: 37.1% (2021 est.)<br>
 
 **Population below poverty line**<br>
 35.5% (2019 est.)<br>
 
 **Gini Index coefficient - distribution of family income**<br>
-41.4 (2018 est.)<br>
-45.8 (2009)<br>
+42.3 (2020 est.)<br>
 
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 1.8%<br>
@@ -514,19 +514,20 @@ _expenditures_: 158.6 billion (2017 est.)<br>
 55% of GDP (2016 est.)<br>
 
 **Taxes and other revenues**<br>
-18.9% (of GDP) (2017 est.)<br>
+10.87% (of GDP) (2020 est.)<br>
 
 **Fiscal year**<br>
 calendar year<br>
 
 **Current account balance**<br>
--$3.997 billion (2019 est.)<br>
--$27.049 billion (2018 est.)<br>
+$6.708 billion (2021 est.)<br>
+$3.121 billion (2020 est.)<br>
+-$3.492 billion (2019 est.)<br>
 
 **Exports**<br>
-$64.18 billion (2020 est.)<br>
-$79.29 billion (2019 est.)<br>
-$77.07 billion (2018 est.)<br>
+$87.415 billion (2021 est.)<br>
+$64.431 billion (2020 est.)<br>
+$79.964 billion (2019 est.)<br>
 <strong>note:</strong> Data are in current year dollars and do not include illicit exports or re-exports.<br>
 
 **Exports - partners**<br>
@@ -536,9 +537,9 @@ Brazil 16%, China 11%, United States 7%, Chile 5% (2019)<br>
 soybean products, corn, delivery trucks, wheat, frozen meat, gold (2019)<br>
 
 **Imports**<br>
-$52.14 billion (2020 est.) note: data are in current year dollars<br>
-$66.28 billion (2019 est.) note: data are in current year dollars<br>
-$86.78 billion (2018 est.) note: data are in current year dollars<br>
+$72.362 billion (2021 est.) note: data are in current year dollars<br>
+$52.339 billion (2020 est.) note: data are in current year dollars<br>
+$66.574 billion (2019 est.) note: data are in current year dollars<br>
 
 **Imports - partners**<br>
 Brazil 21%, China 18%, US 14%, Germany 6% (2019)<br>
@@ -547,8 +548,9 @@ Brazil 21%, China 18%, US 14%, Germany 6% (2019)<br>
 cars, refined petroleum, vehicle parts, natural gas, soybeans (2019)<br>
 
 **Reserves of foreign exchange and gold**<br>
-$55.33 billion (31 December 2017 est.)<br>
-$38.43 billion (31 December 2016 est.)<br>
+$39.653 billion (31 December 2021 est.)<br>
+$39.404 billion (31 December 2020 est.)<br>
+$44.881 billion (31 December 2019 est.)<br>
 
 **Debt - external**<br>
 $278.524 billion (2019 est.)<br>
@@ -556,11 +558,11 @@ $261.949 billion (2018 est.)<br>
 
 **Exchange rates**<br>
 _Currency_: Argentine pesos (ARS) per US dollar -<br>
-82.034 (2020 est.)<br>
-59.96559 (2019 est.)<br>
-37.23499 (2018 est.)<br>
-9.23 (2014 est.)<br>
-8.08 (2013 est.)<br>
+94.991 (2021 est.)<br>
+70.539 (2020 est.)<br>
+48.148 (2019 est.)<br>
+28.095 (2018 est.)<br>
+16.563 (2017 est.)<br>
 
 ## Energy
 
@@ -692,11 +694,7 @@ _under 914 m_: 448 (2021)<br>
 29,930 km gas, 41 km liquid petroleum gas, 6,248 km oil, 3,631 km refined products (2013)<br>
 
 **Railways**<br>
-_total_: 36,917.4 km (2014)<br>
-_standard gauge_: 2,745.1 km (2014) 1.435-m gauge (41.1 km electrified)<br>
-_narrow gauge_: 7,523.3 km (2014) 1.000-m gauge<br>
-_broad gauge_: 26,391 km (2014) 1.676-m gauge (149 km electrified)<br>
-258 km 0.750-mm gauge<br>
+_total_: 17,866 km (2018)<br>
 
 **Roadways**<br>
 _total_: 281,290 km (2017)<br>

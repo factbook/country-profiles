@@ -167,7 +167,7 @@ _female_: 74.33 years (2022 est.)<br>
 2.21 children born/woman (2022 est.)<br>
 
 **Gross reproduction rate**<br>
-1.08 (2022 est.)<br>
+1.08 (2023 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 62.8% (2019)<br>
@@ -220,11 +220,11 @@ _total_: 10.6% (2020 est.)<br>
 _male_: 14.6% (2020 est.)<br>
 _female_: 6.5% (2020 est.)<br>
 
-**Currently married women (ages 15-49)**<br>
-52.4% (2022 est.)<br>
-
 **Children under the age of 5 years underweight**<br>
 4% (2013)<br>
+
+**Currently married women (ages 15-49)**<br>
+52.1% (2023 est.)<br>
 
 **Education expenditures**<br>
 4.6% of GDP (2020 est.)<br>
@@ -241,9 +241,9 @@ _male_: 13 years<br>
 _female_: 15 years (2017)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 14.9%<br>
-_male_: 11.6%<br>
-_female_: 20.7% (2020 est.)<br>
+_total_: 20.6%<br>
+_male_: 16.6%<br>
+_female_: 27.9% (2021 est.)<br>
 
 ## Environment
 
@@ -408,29 +408,29 @@ _selected World Heritage Site locales_: Colonial City of Santo Domingo<br>
 <p>The Dominican Republic was for most of its history primarily an exporter of sugar, coffee, and tobacco, but over the last three decades the economy has become more diversified as the service sector has overtaken agriculture as the economy's largest employer, due to growth in construction, tourism, and free trade zones. The mining sector has also played a greater role in the export market since late 2012 with the commencement of the extraction phase of the Pueblo Viejo Gold and Silver mine, one of the largest gold mines in the world.</p> <p> </p> <p>For the last 20 years, the Dominican Republic has been one of the fastest growing economies in Latin America. The economy rebounded from the global recession in 2010-16, and the fiscal situation is improving. A tax reform package passed in November 2012, a reduction in government spending, and lower energy costs helped to narrow the central government budget deficit from 6.6% of GDP in 2012 to 2.6% in 2016, and public debt is declining. Marked income inequality, high unemployment, and underemployment remain important long-term challenges; the poorest half of the population receives less than one-fifth of GDP, while the richest 10% enjoys nearly 40% of GDP.</p> <p> </p> <p>The economy is highly dependent upon the US, the destination for approximately half of exports and the source of 40% of imports. Remittances from the US amount to about 7% of GDP, equivalent to about a third of exports and two-thirds of tourism receipts. The Central America-Dominican Republic Free Trade Agreement came into force in March 2007, boosting investment and manufacturing exports.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
-$184.45 billion (2020 est.)<br>
-$197.74 billion (2019 est.)<br>
-$188.23 billion (2018 est.)<br>
+$207.082 billion (2021 est.)<br>
+$184.447 billion (2020 est.)<br>
+$197.735 billion (2019 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
-4.6% (2017 est.)<br>
-6.6% (2016 est.)<br>
-7% (2015 est.)<br>
+12.27% (2021 est.)<br>
+-6.72% (2020 est.)<br>
+5.05% (2019 est.)<br>
 
 **Real GDP per capita**<br>
-$17,000 (2020 est.)<br>
-$18,400 (2019 est.)<br>
-$17,700 (2018 est.)<br>
+$18,600 (2021 est.)<br>
+$16,800 (2020 est.)<br>
+$18,200 (2019 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
 $88.956 billion (2019 est.)<br>
 
 **Inflation rate (consumer prices)**<br>
-1.8% (2019 est.)<br>
-3.5% (2018 est.)<br>
-3.2% (2017 est.)<br>
+8.24% (2021 est.)<br>
+3.78% (2020 est.)<br>
+1.81% (2019 est.)<br>
 
 **Credit ratings**<br>
 _Fitch rating_: BB- (2016)<br>
@@ -458,10 +458,10 @@ sugar cane, bananas, papayas, rice, plantains, milk, avocados, fruit, pineapples
 tourism, sugar processing, gold mining, textiles, cement, tobacco, electrical components, medical devices<br>
 
 **Industrial production growth rate**<br>
-3.1% (2017 est.)<br>
+15.89% (2021 est.)<br>
 
 **Labor force**<br>
-4.732 million (2017 est.)<br>
+5.027 million (2021 est.)<br>
 
 **Labor force - by occupation**<br>
 _agriculture_: 14.4%<br>
@@ -469,20 +469,20 @@ _industry_: 20.8% (2014)<br>
 _services_: 64.7% (2014 est.)<br>
 
 **Unemployment rate**<br>
-5.1% (2017 est.)<br>
-5.5% (2016 est.)<br>
+8.5% (2021 est.)<br>
+6.13% (2020 est.)<br>
+6.36% (2019 est.)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 14.9%<br>
-_male_: 11.6%<br>
-_female_: 20.7% (2020 est.)<br>
+_total_: 20.6%<br>
+_male_: 16.6%<br>
+_female_: 27.9% (2021 est.)<br>
 
 **Population below poverty line**<br>
 21% (2019 est.)<br>
 
 **Gini Index coefficient - distribution of family income**<br>
-43.7 (2018 est.)<br>
-45.7 (2012 est.)<br>
+39.6 (2020 est.)<br>
 
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 1.9%<br>
@@ -500,19 +500,20 @@ _expenditures_: 13.62 billion (2017 est.)<br>
 34.6% of GDP (2016 est.)<br>
 
 **Taxes and other revenues**<br>
-14.9% (of GDP) (2017 est.)<br>
+12.39% (of GDP) (2020 est.)<br>
 
 **Fiscal year**<br>
 calendar year<br>
 
 **Current account balance**<br>
--$165 million (2017 est.)<br>
--$815 million (2016 est.)<br>
+-$2.689 billion (2021 est.)<br>
+-$1.337 billion (2020 est.)<br>
+-$1.188 billion (2019 est.)<br>
 
 **Exports**<br>
-$14.44 billion (2020 est.) note: data are in current year dollars<br>
-$20.51 billion (2019 est.) note: data are in current year dollars<br>
-$20.05 billion (2018 est.) note: data are in current year dollars<br>
+$20.509 billion (2021 est.) note: data are in current year dollars<br>
+$14.889 billion (2020 est.) note: data are in current year dollars<br>
+$20.509 billion (2019 est.) note: data are in current year dollars<br>
 
 **Exports - partners**<br>
 United States 54%, Switzerland 8%, Canada 5%, India 5%, China 5% (2019)<br>
@@ -521,9 +522,9 @@ United States 54%, Switzerland 8%, Canada 5%, India 5%, China 5% (2019)<br>
 gold, medical instruments, cigars, low-voltage protection equipment, bananas (2019)<br>
 
 **Imports**<br>
-$20.19 billion (2020 est.) note: data are in current year dollars<br>
-$24.53 billion (2019 est.) note: data are in current year dollars<br>
-$24.11 billion (2018 est.) note: data are in current year dollars<br>
+$28.541 billion (2021 est.) note: data are in current year dollars<br>
+$20.302 billion (2020 est.) note: data are in current year dollars<br>
+$24.526 billion (2019 est.) note: data are in current year dollars<br>
 
 **Imports - partners**<br>
 United States 50%, China 13% (2019)<br>
@@ -532,8 +533,9 @@ United States 50%, China 13% (2019)<br>
 refined petroleum, cars, jewelry, natural gas, broadcasting equipment (2019)<br>
 
 **Reserves of foreign exchange and gold**<br>
-$6.873 billion (31 December 2017 est.)<br>
-$6.134 billion (31 December 2016 est.)<br>
+$13.125 billion (31 December 2021 est.)<br>
+$10.845 billion (31 December 2020 est.)<br>
+$8.871 billion (31 December 2019 est.)<br>
 
 **Debt - external**<br>
 $23.094 billion (2019 est.)<br>
@@ -541,11 +543,11 @@ $21.198 billion (2018 est.)<br>
 
 **Exchange rates**<br>
 _Currency_: Dominican pesos (DOP) per US dollar -<br>
-47.42 (2017 est.)<br>
-46.078 (2016 est.)<br>
-46.078 (2015 est.)<br>
-45.052 (2014 est.)<br>
-43.556 (2013 est.)<br>
+57.221 (2021 est.)<br>
+56.525 (2020 est.)<br>
+51.295 (2019 est.)<br>
+49.51 (2018 est.)<br>
+47.534 (2017 est.)<br>
 
 ## Energy
 

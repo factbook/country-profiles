@@ -155,7 +155,7 @@ _female_: 77.01 years (2022 est.)<br>
 2.76 children born/woman (2022 est.)<br>
 
 **Gross reproduction rate**<br>
-1.35 (2022 est.)<br>
+1.33 (2023 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 NA<br>
@@ -201,11 +201,11 @@ _total_: 28.5% (2020 est.)<br>
 _male_: 48.7% (2020 est.)<br>
 _female_: 8.3% (2020 est.)<br>
 
-**Currently married women (ages 15-49)**<br>
-68.3% (2022 est.)<br>
-
 **Children under the age of 5 years underweight**<br>
 11.9% (2017)<br>
+
+**Currently married women (ages 15-49)**<br>
+68.3% (2022 est.)<br>
 
 **Education expenditures**<br>
 13.6% of GDP (2020 est.)<br>
@@ -379,20 +379,20 @@ _selected World Heritage Site locales_: Bikini Atoll Nuclear Test Site<br>
 <p>US assistance and lease payments for the use of Kwajalein Atoll as a US military base are the mainstay of this small island country. Agricultural production, primarily subsistence, is concentrated on small farms; the most important commercial crops are coconuts and breadfruit. Industry is limited to handicrafts, tuna processing, and copra. Tourism holds some potential. The islands and atolls have few natural resources, and imports exceed exports.</p> <p> </p> <p>The Marshall Islands received roughly $1 billion in aid from the US during the period 1986-2001 under the original Compact of Free Association (Compact). In 2002 and 2003, the US and the Marshall Islands renegotiated the Compact's financial package for a 20-year period, 2004 to 2024. Under the amended Compact, the Marshall Islands will receive roughly $1.5 billion in direct US assistance. Under the amended Compact, the US and Marshall Islands are also jointly funding a Trust Fund for the people of the Marshall Islands that will provide an income stream beyond 2024, when direct Compact aid ends.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
-$240 million (2019 est.)<br>
-$220 million (2018 est.)<br>
-$219 million (2017 est.)<br>
+$250.694 million (2021 est.)<br>
+$247.93 million (2020 est.)<br>
+$252.582 million (2019 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
-2.5% (2017 est.)<br>
-3.6% (2016 est.)<br>
-2% (2015 est.)<br>
+1.11% (2021 est.)<br>
+-1.84% (2020 est.)<br>
+10.84% (2019 est.)<br>
 
 **Real GDP per capita**<br>
-$4,000 (2019 est.) note: data are in 2017 dollars<br>
-$3,800 (2018 est.) note: data are in 2017 dollars<br>
-$3,776 (2017 est.)<br>
+$6,000 (2021 est.) note: data are in 2017 dollars<br>
+$5,700 (2020 est.) note: data are in 2017 dollars<br>
+$5,600 (2019 est.)<br>
 
 **GDP (official exchange rate)**<br>
 $222 million (2017 est.)<br>
@@ -420,7 +420,7 @@ coconuts<br>
 copra, tuna processing, tourism, craft items (from seashells, wood, and pearls)<br>
 
 **Industrial production growth rate**<br>
-NA<br>
+-3.66% (2021 est.) NA<br>
 
 **Labor force**<br>
 10,670 (2013 est.)<br>
@@ -442,6 +442,9 @@ _female_: 14.2% (2019 est.)<br>
 **Population below poverty line**<br>
 NA<br>
 
+**Gini Index coefficient - distribution of family income**<br>
+35.5 (2019 est.)<br>
+
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: NA<br>
 _highest 10%_: NA<br>
@@ -454,21 +457,25 @@ _expenditures_: 113.9 million (2013 est.)<br>
 1.3% (of GDP) (2013 est.)<br>
 
 **Public debt**<br>
-25.5% of GDP (2017 est.)<br>
-30% of GDP (2016 est.)<br>
+41.71% of GDP (2019 est.)<br>
+44.14% of GDP (2018 est.)<br>
+47.95% of GDP (2017 est.)<br>
 
 **Taxes and other revenues**<br>
-52.6% (of GDP) (2013 est.)<br>
+17.16% (of GDP) (2020 est.)<br>
 
 **Fiscal year**<br>
 1 October - 30 September<br>
 
 **Current account balance**<br>
--$1 million (2017 est.)<br>
-$15 million (2016 est.)<br>
+-$1.182 million (2020 est.)<br>
+$56.998 million (2019 est.)<br>
+$53.031 million (2018 est.)<br>
 
 **Exports**<br>
-$130 million (2018 est.) note: data are in current year dollars<br>
+$76.734 million (2020 est.) note: data are in current year dollars<br>
+$54.987 million (2019 est.)<br>
+$128.904 million (2018 est.)<br>
 
 **Exports - partners**<br>
 Poland 28%, Denmark 19%, South Korea 13%, Indonesia 10%, Cyprus 6% (2019)<br>
@@ -477,8 +484,9 @@ Poland 28%, Denmark 19%, South Korea 13%, Indonesia 10%, Cyprus 6% (2019)<br>
 ships, fish, recreational boats, broadcasting equipment, coal tar oil (2019)<br>
 
 **Imports**<br>
-$170 million (2018 est.) note: data are in current year dollars<br>
-$103.8 million (2016 est.)<br>
+$171.201 million (2020 est.) note: data are in current year dollars<br>
+$91.814 million (2019 est.)<br>
+$174.722 million (2018 est.)<br>
 
 **Imports - partners**<br>
 South Korea 39%, China 27%, Japan 15% (2019)<br>

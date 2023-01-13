@@ -167,7 +167,7 @@ _female_: 79.57 years (2022 est.)<br>
 2.51 children born/woman (2022 est.)<br>
 
 **Gross reproduction rate**<br>
-1.22 (2022 est.)<br>
+1.2 (2023 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 53.6% (2018/19)<br>
@@ -215,11 +215,11 @@ _total_: 21% (2020 est.)<br>
 _male_: 41.3% (2020 est.)<br>
 _female_: 0.7% (2020 est.)<br>
 
-**Currently married women (ages 15-49)**<br>
-56% (2022 est.)<br>
-
 **Children under the age of 5 years underweight**<br>
 2.7% (2018/19)<br>
+
+**Currently married women (ages 15-49)**<br>
+56% (2023 est.)<br>
 
 **Child marriage**<br>
 _women married by age 15_: 0%<br>
@@ -235,9 +235,9 @@ _male_: 87.4%<br>
 _female_: 75.3% (2018)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 39.3%<br>
-_male_: 33.1%<br>
-_female_: 82% (2017 est.)<br>
+_total_: 31.9%<br>
+_male_: 27.8%<br>
+_female_: 54% (2021 est.)<br>
 
 ## Environment
 
@@ -400,29 +400,29 @@ _selected World Heritage Site locales_: Beni Hammad Fort (c); Djémila (c); Casb
 <p>Algeria's economy remains dominated by the state, a legacy of the country's socialist post-independence development model. In recent years the Algerian Government has halted the privatization of state-owned industries and imposed restrictions on imports and foreign involvement in its economy, pursuing an explicit import substitution policy.</p> <p> </p> <p>Hydrocarbons have long been the backbone of the economy, accounting for roughly 30% of GDP, 60% of budget revenues, and nearly 95% of export earnings. Algeria has the 10th-largest reserves of natural gas in the world - including the 3rd-largest reserves of shale gas - and is the 6th-largest gas exporter. It ranks 16th in proven oil reserves. Hydrocarbon exports enabled Algeria to maintain macroeconomic stability, amass large foreign currency reserves, and maintain low external debt while global oil prices were high. With lower oil prices since 2014, Algeria’s foreign exchange reserves have declined by more than half and its oil stabilization fund has decreased from about $20 billion at the end of 2013 to about $7 billion in 2017, which is the statutory minimum.</p> <p> </p> <p>Declining oil prices have also reduced the government’s ability to use state-driven growth to distribute rents and fund generous public subsidies, and the government has been under pressure to reduce spending. Over the past three years, the government has enacted incremental increases in some taxes, resulting in modest increases in prices for gasoline, cigarettes, alcohol, and certain imported goods, but it has refrained from reducing subsidies, particularly for education, healthcare, and housing programs.</p> <p> </p> <p>Algiers has increased protectionist measures since 2015 to limit its import bill and encourage domestic production of non-oil and gas industries. Since 2015, the government has imposed additional restrictions on access to foreign exchange for imports, and import quotas for specific products, such as cars. In January 2018 the government imposed an indefinite suspension on the importation of roughly 850 products, subject to periodic review.</p> <p> </p> <p>President BOUTEFLIKA announced in fall 2017 that Algeria intends to develop its non-conventional energy resources. Algeria has struggled to develop non-hydrocarbon industries because of heavy regulation and an emphasis on state-driven growth. Algeria has not increased non-hydrocarbon exports, and hydrocarbon exports have declined because of field depletion and increased domestic demand.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
-$468.4 billion (2020 est.)<br>
-$495.56 billion (2019 est.)<br>
-$491.63 billion (2018 est.)<br>
+$487.716 billion (2021 est.)<br>
+$471.223 billion (2020 est.)<br>
+$496.547 billion (2019 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
-1.4% (2017 est.)<br>
-3.2% (2016 est.)<br>
-3.7% (2015 est.)<br>
+3.5% (2021 est.)<br>
+-5.1% (2020 est.)<br>
+1% (2019 est.)<br>
 
 **Real GDP per capita**<br>
-$10,700 (2020 est.)<br>
-$11,500 (2019 est.)<br>
-$11,600 (2018 est.)<br>
+$11,000 (2021 est.)<br>
+$10,800 (2020 est.)<br>
+$11,600 (2019 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
 $169.912 billion (2019 est.)<br>
 
 **Inflation rate (consumer prices)**<br>
-1.9% (2019 est.)<br>
-4.2% (2018 est.)<br>
-5.6% (2017 est.)<br>
+7.23% (2021 est.)<br>
+2.42% (2020 est.)<br>
+1.95% (2019 est.)<br>
 
 **Credit ratings**<br>
 <strong>note: </strong>The year refers to the year in which the current credit rating was first obtained.<br>
@@ -447,10 +447,10 @@ potatoes, wheat, milk, watermelons, barley, onions, tomatoes, oranges, dates, ve
 petroleum, natural gas, light industries, mining, electrical, petrochemical, food processing<br>
 
 **Industrial production growth rate**<br>
-0.6% (2017 est.)<br>
+7.36% (2021 est.)<br>
 
 **Labor force**<br>
-10.859 million (2017 est.)<br>
+12.312 million (2021 est.)<br>
 
 **Labor force - by occupation**<br>
 _agriculture_: 10.8%<br>
@@ -458,13 +458,14 @@ _industry_: 30.9%<br>
 _services_: 58.4% (2011 est.)<br>
 
 **Unemployment rate**<br>
-11.7% (2017 est.)<br>
-10.5% (2016 est.)<br>
+12.7% (2021 est.)<br>
+12.55% (2020 est.)<br>
+10.51% (2019 est.)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 39.3%<br>
-_male_: 33.1%<br>
-_female_: 82% (2017 est.)<br>
+_total_: 31.9%<br>
+_male_: 27.8%<br>
+_female_: 54% (2021 est.)<br>
 
 **Population below poverty line**<br>
 5.5% (2011 est.)<br>
@@ -495,12 +496,14 @@ _expenditures_: 70.2 billion (2017 est.)<br>
 calendar year<br>
 
 **Current account balance**<br>
--$22.1 billion (2017 est.)<br>
--$26.47 billion (2016 est.)<br>
+-$4.608 billion (2021 est.)<br>
+-$18.187 billion (2020 est.)<br>
+-$16.954 billion (2019 est.)<br>
 
 **Exports**<br>
-$38.32 billion (2019 est.)<br>
-$44.39 billion (2018 est.)<br>
+$41.776 billion (2021 est.)<br>
+$24.902 billion (2020 est.)<br>
+$38.551 billion (2019 est.)<br>
 <strong>note:</strong> Data are in current year dollars and do not include illicit exports or re-exports.<br>
 
 **Exports - partners**<br>
@@ -510,8 +513,9 @@ Italy 13%, France 13%, Spain 12%, United States 7%, United Kingdom 7%, India 5%,
 crude petroleum, natural gas, refined petroleum, fertilizers, ammonia (2019)<br>
 
 **Imports**<br>
-$54.26 billion (2019 est.) note: data are in current year dollars<br>
-$60.05 billion (2018 est.) note: data are in current year dollars<br>
+$44.322 billion (2021 est.) note: data are in current year dollars<br>
+$42.347 billion (2020 est.) note: data are in current year dollars<br>
+$54.259 billion (2019 est.)<br>
 
 **Imports - partners**<br>
 China 18%, France 14%, Italy 8%, Spain 8%, Germany 5%, Turkey 5% (2019)<br>
@@ -520,8 +524,9 @@ China 18%, France 14%, Italy 8%, Spain 8%, Germany 5%, Turkey 5% (2019)<br>
 refined petroleum, wheat, packaged medical supplies, milk, vehicle parts (2019)<br>
 
 **Reserves of foreign exchange and gold**<br>
-$97.89 billion (31 December 2017 est.)<br>
-$114.7 billion (31 December 2016 est.)<br>
+$56.211 billion (31 December 2021 est.)<br>
+$59.434 billion (31 December 2020 est.)<br>
+$71.796 billion (31 December 2019 est.)<br>
 
 **Debt - external**<br>
 $5.574 billion (2019 est.)<br>
@@ -529,11 +534,11 @@ $5.666 billion (2018 est.)<br>
 
 **Exchange rates**<br>
 _Currency_: Algerian dinars (DZD) per US dollar -<br>
-131.085 (2020 est.)<br>
-119.775 (2019 est.)<br>
-118.4617 (2018 est.)<br>
-100.691 (2014 est.)<br>
-80.579 (2013 est.)<br>
+135.064 (2021 est.)<br>
+126.777 (2020 est.)<br>
+119.354 (2019 est.)<br>
+116.594 (2018 est.)<br>
+110.973 (2017 est.)<br>
 
 ## Energy
 
@@ -716,7 +721,7 @@ al-Qa'ida in the Islamic Maghreb (AQIM); Islamic State of Iraq and ash-Sham (ISI
 <p><em>Algeria-Morocco:</em> the Algerian-Moroccan land border remains closed; Algeria's border with Morocco remains an irritant to bilateral relations, each nation accusing the other of harboring militants and arms smuggling; the National Liberation Front's (FLN) assertions of a claim to Chirac Pastures in southeastern Morocco remain a dormant dispute<br><br><em>Algeria-Libya:</em> dormant dispute includes Libyan claims of about 32,000 sq km still reflected on its maps of southeastern Algeria<br><br><em>Algeria-Mali:</em> none identified<br><br><em>Algeria-Mauritania:</em> none identified<br><br><em>Algeria-Niger:</em> none identified<br><br><em>Algeria-Tunisia:</em> none identified</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: more than 100,000 (Sahrawi, mostly living in Algerian-sponsored camps in the southwestern Algerian town of Tindouf) (2018); 6,750 (Syria) (mid-year 2021)<br>
+_refugees (country of origin)_: more than 100,000 (Sahrawi, mostly living in Algerian-sponsored camps in the southwestern Algerian town of Tindouf); 7,345 (Syria) (mid-year 2022)<br>
 
 **Trafficking in persons**<br>
 _tier rating_: Tier 2 Watch List &mdash; Algeria does not fully meet the minimum standards for the elimination of trafficking but is making significant efforts to do so; the government made key achievements during the reporting period, therefore Algeria was upgraded to Tier 2 Watch List; authorities identified more trafficking victims, increased investigations and prosecutions, while continuing to convict traffickers; Algeria partnered with international organizations to train officials and conduct public awareness campaigns; however, government identification of and services for victims remained insufficient; authorities continued to punish some potential victims for unlawful acts traffickers compelled them to commit (2022)<br>

@@ -157,7 +157,7 @@ _female_: 76.91 years (2022 est.)<br>
 2.66 children born/woman (2022 est.)<br>
 
 **Gross reproduction rate**<br>
-1.3 (2022 est.)<br>
+1.26 (2023 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 49% (2013)<br>
@@ -207,11 +207,11 @@ _total_: 17.8% (2020 est.)<br>
 _male_: 33% (2020 est.)<br>
 _female_: 2.6% (2020 est.)<br>
 
-**Currently married women (ages 15-49)**<br>
-69.5% (2022 est.)<br>
-
 **Children under the age of 5 years underweight**<br>
 11.7% (2013)<br>
+
+**Currently married women (ages 15-49)**<br>
+69.2% (2023 est.)<br>
 
 **Education expenditures**<br>
 2.2% of GDP (2020 est.)<br>
@@ -223,9 +223,9 @@ _male_: 88.3%<br>
 _female_: 86.7% (2018)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 12.3%<br>
-_male_: 10.3%<br>
-_female_: 14.4% (2019 est.)<br>
+_total_: 5.4%<br>
+_male_: 5.2%<br>
+_female_: 5.6% (2021 est.)<br>
 
 ## Environment
 
@@ -379,28 +379,29 @@ _selected World Heritage Site locales_: Chief Roi Mata&rsquo;s Domain<br>
 <p>This South Pacific island economy is based primarily on small-scale agriculture, which provides a living for about two thirds of the population. Fishing, offshore financial services, and tourism, with more than 330,000 visitors in 2017, are other mainstays of the economy. Tourism has struggled after Efate, the most populous and most popular island for tourists, was damaged by Tropical Cyclone Pam in 2015. Ongoing infrastructure difficulties at Port Vila’s Bauerfield Airport have caused air travel disruptions, further hampering tourism numbers. Australia and New Zealand are the main source of tourists and foreign aid. A small light industry sector caters to the local market. Tax revenues come mainly from import duties. Mineral deposits are negligible; the country has no known petroleum deposits.</p> <p> </p> <p>Economic development is hindered by dependence on relatively few commodity exports, vulnerability to natural disasters, and long distances from main markets and between constituent islands. In response to foreign concerns, the government has promised to tighten regulation of its offshore financial center.</p> <p> </p> <p>Since 2002, the government has stepped up efforts to boost tourism through improved air connections, resort development, and cruise ship facilities. Agriculture, especially livestock farming, is a second target for growth.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
-$850 million (2020 est.)<br>
-$930 million (2019 est.)<br>
-$910 million (2018 est.)<br>
+$888.165 million (2021 est.)<br>
+$884.192 million (2020 est.)<br>
+$934.627 million (2019 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
-4.2% (2017 est.)<br>
-3.5% (2016 est.)<br>
-0.2% (2015 est.)<br>
+0.45% (2021 est.)<br>
+-5.4% (2020 est.)<br>
+3.24% (2019 est.)<br>
 
 **Real GDP per capita**<br>
+$2,800 (2021 est.)<br>
 $2,800 (2020 est.)<br>
 $3,100 (2019 est.)<br>
-$3,100 (2018 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
 $870 million (2017 est.)<br>
 
 **Inflation rate (consumer prices)**<br>
-3.1% (2017 est.)<br>
-0.8% (2016 est.)<br>
+2.34% (2021 est.)<br>
+5.33% (2020 est.)<br>
+2.76% (2019 est.)<br>
 
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 27.3% (2017 est.)<br>
@@ -422,10 +423,10 @@ coconuts, roots/tubers nes, bananas, vegetables, pork, fruit, milk, beef, ground
 food and fish freezing, wood processing, meat canning<br>
 
 **Industrial production growth rate**<br>
-4.5% (2017 est.)<br>
+4.92% (2018 est.)<br>
 
 **Labor force**<br>
-115,900 (2007 est.)<br>
+132,700 (2021 est.)<br>
 
 **Labor force - by occupation**<br>
 _agriculture_: 65%<br>
@@ -433,12 +434,14 @@ _industry_: 5%<br>
 _services_: 30% (2000 est.)<br>
 
 **Unemployment rate**<br>
-1.7% (1999 est.)<br>
+2.18% (2021 est.)<br>
+2.12% (2020 est.)<br>
+1.8% (2019 est.)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 12.3%<br>
-_male_: 10.3%<br>
-_female_: 14.4% (2019 est.)<br>
+_total_: 5.4%<br>
+_male_: 5.2%<br>
+_female_: 5.6% (2021 est.)<br>
 
 **Population below poverty line**<br>
 NA<br>
@@ -462,18 +465,20 @@ _expenditures_: 244.1 million (2017 est.)<br>
 46.1% of GDP (2016 est.)<br>
 
 **Taxes and other revenues**<br>
-27.2% (of GDP) (2017 est.)<br>
+14.24% (of GDP) (2020 est.)<br>
 
 **Fiscal year**<br>
 calendar year<br>
 
 **Current account balance**<br>
--$13 million (2017 est.)<br>
--$37 million (2016 est.)<br>
+$1.893 million (2021 est.)<br>
+$60.619 million (2020 est.)<br>
+$215.521 million (2019 est.)<br>
 
 **Exports**<br>
-$380 million (2019 est.) note: data are in current year dollars<br>
-$520 million (2018 est.) note: data are in current year dollars<br>
+$88.805 million (2021 est.) note: data are in current year dollars<br>
+$141.534 million (2020 est.) note: data are in current year dollars<br>
+$372.711 million (2019 est.)<br>
 
 **Exports - partners**<br>
 Japan 33%, Thailand 13%, Mauritania 13%, South Korea 11%, China 9%, Fiji 7% (2019)<br>
@@ -482,8 +487,9 @@ Japan 33%, Thailand 13%, Mauritania 13%, South Korea 11%, China 9%, Fiji 7% (201
 fish and fish products, tug boats, perfume plants, mollusks, cocoa beans (2019)<br>
 
 **Imports**<br>
-$460 million (2019 est.) note: data are in current year dollars<br>
-$460 million (2018 est.) note: data are in current year dollars<br>
+$495.858 million (2021 est.) note: data are in current year dollars<br>
+$429.601 million (2020 est.) note: data are in current year dollars<br>
+$488.795 million (2019 est.)<br>
 
 **Imports - partners**<br>
 China 29%, Australia 18%, New Zealand 11%, Fiji 11%, Taiwan 5%, Thailand 5% (2019)<br>
@@ -492,8 +498,9 @@ China 29%, Australia 18%, New Zealand 11%, Fiji 11%, Taiwan 5%, Thailand 5% (201
 refined petroleum, fishing ships, delivery trucks, poultry meats, broadcasting equipment (2019)<br>
 
 **Reserves of foreign exchange and gold**<br>
-$395.1 million (31 December 2017 est.)<br>
-$267.4 million (31 December 2016 est.)<br>
+$664.751 million (31 December 2021 est.)<br>
+$613.637 million (31 December 2020 est.)<br>
+$511.546 million (31 December 2019 est.)<br>
 
 **Debt - external**<br>
 $200.5 million (31 December 2017 est.)<br>
@@ -501,11 +508,11 @@ $182.5 million (31 December 2016 est.)<br>
 
 **Exchange rates**<br>
 _Currency_: vatu (VUV) per US dollar -<br>
-111.015 (2020 est.)<br>
-117.035 (2019 est.)<br>
-113.005 (2018 est.)<br>
-108.99 (2014 est.)<br>
-97.07 (2013 est.)<br>
+109.453 (2021 est.)<br>
+115.38 (2020 est.)<br>
+114.733 (2019 est.)<br>
+110.165 (2018 est.)<br>
+107.821 (2017 est.)<br>
 
 ## Energy
 

@@ -169,7 +169,7 @@ _female_: 78.37 years (2022 est.)<br>
 2.05 children born/woman (2022 est.)<br>
 
 **Gross reproduction rate**<br>
-0.97 (2022 est.)<br>
+0.97 (2023 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 72.8% (2020)<br>
@@ -222,11 +222,11 @@ _total_: 24.8% (2020 est.)<br>
 _male_: 47.4% (2020 est.)<br>
 _female_: 2.2% (2020 est.)<br>
 
-**Currently married women (ages 15-49)**<br>
-72.5% (2022 est.)<br>
-
 **Children under the age of 5 years underweight**<br>
 13.4% (2017)<br>
+
+**Currently married women (ages 15-49)**<br>
+72.6% (2023 est.)<br>
 
 **Education expenditures**<br>
 4.1% of GDP (2020 est.)<br>
@@ -238,9 +238,9 @@ _male_: 97%<br>
 _female_: 94.6% (2019)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 7%<br>
-_male_: 7%<br>
-_female_: 7% (2021 est.)<br>
+_total_: 7.2%<br>
+_male_: 7.1%<br>
+_female_: 7.5% (2021 est.)<br>
 
 ## Environment
 
@@ -412,28 +412,29 @@ _selected World Heritage Site locales_: Complex of Hué Monuments (c); Ha Long B
 <p>Vietnam is a densely populated developing country that has been transitioning since 1986 from the rigidities of a centrally planned, highly agrarian economy to a more industrial and market based economy, and it has raised incomes substantially. Vietnam exceeded its 2017 GDP growth target of 6.7% with growth of 6.8%, primarily due to unexpected increases in domestic demand, and strong manufacturing exports.</p> <p> </p> <p>Vietnam has a young population, stable political system, commitment to sustainable growth, relatively low inflation, stable currency, strong FDI inflows, and strong manufacturing sector. In addition, the country is committed to continuing its global economic integration. Vietnam joined the WTO in January 2007 and concluded several free trade agreements in 2015-16, including the EU-Vietnam Free Trade Agreement (which the EU has not yet ratified), the Korean Free Trade Agreement, and the Eurasian Economic Union Free Trade Agreement. In 2017, Vietnam successfully chaired the Asia-Pacific Economic Cooperation (APEC) Conference with its key priorities including inclusive growth, innovation, strengthening small and medium enterprises, food security, and climate change. Seeking to diversify its opportunities, Vietnam also signed the Comprehensive and Progressive Agreement for the Transpacific Partnership in 2018 and continued to pursue the Regional Comprehensive Economic Partnership.</p> <p> </p> <p>To continue its trajectory of strong economic growth, the government acknowledges the need to spark a ‘second wave’ of reforms, including reforming state-owned-enterprises, reducing red tape, increasing business sector transparency, reducing the level of non-performing loans in the banking sector, and increasing financial sector transparency. Vietnam’s public debt to GDP ratio is nearing the government mandated ceiling of 65%.</p> <p> </p> <p>In 2016, Vietnam cancelled its civilian nuclear energy development program, citing public concerns about safety and the high cost of the program; it faces growing pressure on energy infrastructure. Overall, the country’s infrastructure fails to meet the needs of an expanding middle class. Vietnam has demonstrated a commitment to sustainable growth over the last several years, but despite the recent speed-up in economic growth the government remains cautious about the risk of external shocks.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
-$798.21 billion (2020 est.)<br>
-$775.67 billion (2019 est.)<br>
-$724.81 billion (2018 est.)<br>
+$1.036 trillion (2021 est.)<br>
+$1.01 trillion (2020 est.)<br>
+$981.903 billion (2019 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
-7.16% (2017 est.)<br>
-6.2% (2016 est.)<br>
+2.56% (2021 est.)<br>
+2.87% (2020 est.)<br>
+7.36% (2019 est.)<br>
 
 **Real GDP per capita**<br>
-$8,200 (2020 est.)<br>
-$8,000 (2019 est.)<br>
-$7,600 (2018 est.)<br>
+$10,600 (2021 est.)<br>
+$10,500 (2020 est.)<br>
+$10,300 (2019 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
 $259.957 billion (2019 est.)<br>
 
 **Inflation rate (consumer prices)**<br>
-2.7% (2019 est.)<br>
-3.5% (2018 est.)<br>
-3.5% (2017 est.)<br>
+1.83% (2021 est.)<br>
+3.22% (2020 est.)<br>
+2.8% (2019 est.)<br>
 
 **Credit ratings**<br>
 _Fitch rating_: BB (2018)<br>
@@ -461,10 +462,10 @@ rice, vegetables, sugar cane, cassava, maize, pork, fruit, bananas, coffee, coco
 food processing, garments, shoes, machine-building; mining, coal, steel; cement, chemical fertilizer, glass, tires, oil, mobile phones<br>
 
 **Industrial production growth rate**<br>
-8% (2017 est.)<br>
+3.58% (2021 est.)<br>
 
 **Labor force**<br>
-54.659 million (2019 est.)<br>
+56.203 million (2021 est.)<br>
 
 **Labor force - by occupation**<br>
 _agriculture_: 40.3%<br>
@@ -472,20 +473,20 @@ _industry_: 25.7%<br>
 _services_: 34% (2017)<br>
 
 **Unemployment rate**<br>
-3.11% (2018 est.)<br>
-2.2% (2017 est.)<br>
+2.17% (2021 est.)<br>
+2.39% (2020 est.)<br>
+2.04% (2019 est.)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 7%<br>
-_male_: 7%<br>
-_female_: 7% (2021 est.)<br>
+_total_: 7.2%<br>
+_male_: 7.1%<br>
+_female_: 7.5% (2021 est.)<br>
 
 **Population below poverty line**<br>
 6.7% (2018 est.)<br>
 
 **Gini Index coefficient - distribution of family income**<br>
 35.7 (2018 est.)<br>
-37.6 (2008)<br>
 
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 2.7%<br>
@@ -510,13 +511,14 @@ _expenditures_: 69.37 billion (2017 est.)<br>
 calendar year<br>
 
 **Current account balance**<br>
-$12.478 billion (2019 est.)<br>
-$5.769 billion (2018 est.)<br>
+-$3.812 billion (2021 est.)<br>
+$15.06 billion (2020 est.)<br>
+$13.101 billion (2019 est.)<br>
 
 **Exports**<br>
-$280.83 billion (2019 est.) note: data are in current year dollars<br>
-$258.49 billion (2018 est.) note: data are in current year dollars<br>
-$204.169 billion (2017 est.)<br>
+$339.984 billion (2021 est.) note: data are in current year dollars<br>
+$290.229 billion (2020 est.) note: data are in current year dollars<br>
+$280.826 billion (2019 est.)<br>
 
 **Exports - partners**<br>
 United States 23%, China 14%, Japan 8%, South Korea 7% (2019)<br>
@@ -525,9 +527,9 @@ United States 23%, China 14%, Japan 8%, South Korea 7% (2019)<br>
 broadcasting equipment, telephones, integrated circuits, footwear, furniture (2019)<br>
 
 **Imports**<br>
-$261.68 billion (2019 est.) note: data are in current year dollars<br>
-$245.63 billion (2018 est.) note: data are in current year dollars<br>
-$217.684 billion (2017 est.)<br>
+$338.021 billion (2021 est.) note: data are in current year dollars<br>
+$269.808 billion (2020 est.) note: data are in current year dollars<br>
+$261.683 billion (2019 est.)<br>
 
 **Imports - partners**<br>
 China 35%, South Korea 18%, Japan 6% (2019)<br>
@@ -536,8 +538,9 @@ China 35%, South Korea 18%, Japan 6% (2019)<br>
 integrated circuits, telephones, refined petroleum, textiles, semiconductors (2019)<br>
 
 **Reserves of foreign exchange and gold**<br>
-$49.5 billion (31 December 2017 est.)<br>
-$36.91 billion (31 December 2016 est.)<br>
+$109.371 billion (31 December 2021 est.)<br>
+$94.834 billion (31 December 2020 est.)<br>
+$78.335 billion (31 December 2019 est.)<br>
 
 **Debt - external**<br>
 $96.58 billion (31 December 2017 est.)<br>
@@ -545,11 +548,11 @@ $84.34 billion (31 December 2016 est.)<br>
 
 **Exchange rates**<br>
 _Currency_: dong (VND) per US dollar -<br>
-23,129 (2020 est.)<br>
-23,171.5 (2019 est.)<br>
-23,312.5 (2018 est.)<br>
-21,909 (2014 est.)<br>
-21,189 (2013 est.)<br>
+23,159.783 (2021 est.)<br>
+23,208.368 (2020 est.)<br>
+23,050.242 (2019 est.)<br>
+22,602.05 (2018 est.)<br>
+22,370.087 (2017 est.)<br>
 
 ## Energy
 

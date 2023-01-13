@@ -159,7 +159,7 @@ _female_: 70.64 years (2022 est.)<br>
 2.2 children born/woman (2022 est.)<br>
 
 **Gross reproduction rate**<br>
-1.07 (2022 est.)<br>
+1.06 (2023 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 33.5% (2018/19)<br>
@@ -212,11 +212,11 @@ _total_: 40.6% (2020 est.)<br>
 _male_: 53.9% (2020 est.)<br>
 _female_: 27.3% (2020 est.)<br>
 
-**Currently married women (ages 15-49)**<br>
-67.8% (2022 est.)<br>
-
 **Children under the age of 5 years underweight**<br>
 6.9% (2018/19)<br>
+
+**Currently married women (ages 15-49)**<br>
+67.6% (2023 est.)<br>
 
 **Child marriage**<br>
 _women married by age 15_: 2.4%<br>
@@ -386,28 +386,29 @@ _selected World Heritage Site locales_: Phoenix Islands Protected Area<br>
 <p>A remote country of 33 scattered coral atolls, Kiribati has few natural resources and is one of the least developed Pacific Island countries. Commercially viable phosphate deposits were exhausted by the time of independence from the United Kingdom in 1979. Earnings from fishing licenses and seafarer remittances are important sources of income. Although the number of seafarers employed declined due to changes in global shipping demands, remittances are expected to improve with more overseas temporary and seasonal work opportunities for Kiribati nationals.</p> <p> </p> <p>Economic development is constrained by a shortage of skilled workers, weak infrastructure, and remoteness from international markets. The public sector dominates economic activity, with ongoing capital projects in infrastructure including road rehabilitation, water and sanitation projects, and renovations to the international airport, spurring some growth. Public debt increased from 23% of GDP at the end of 2015 to 25.8% in 2016.</p> <p> </p> <p>Kiribati is dependent on foreign aid, which was estimated to have contributed over 32.7% in 2016 to the government’s finances. The country’s sovereign fund, the Revenue Equalization Reserve Fund (RERF), which is held offshore, had an estimated balance of $855.5 million in late July 2016. The RERF seeks to avoid exchange rate risk by holding investments in more than 20 currencies, including the Australian dollar, US dollar, the Japanese yen, and the Euro. Drawdowns from the RERF helped finance the government’s annual budget.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
-$270 million (2020 est.)<br>
-$270 million (2019 est.)<br>
-$260 million (2018 est.)<br>
+$249.64 million (2021 est.)<br>
+$245.951 million (2020 est.)<br>
+$247.304 million (2019 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
-3.1% (2017 est.)<br>
-1.1% (2016 est.)<br>
-10.3% (2015 est.)<br>
+1.5% (2021 est.)<br>
+-0.55% (2020 est.)<br>
+-0.54% (2019 est.)<br>
 
 **Real GDP per capita**<br>
-$2,300 (2020 est.)<br>
-$2,300 (2019 est.)<br>
-$2,300 (2018 est.)<br>
+$1,900 (2021 est.)<br>
+$1,900 (2020 est.)<br>
+$2,000 (2019 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
 $197 million (2017 est.)<br>
 
 **Inflation rate (consumer prices)**<br>
-0.4% (2017 est.)<br>
-1.9% (2016 est.)<br>
+-1.81% (2019 est.)<br>
+0.56% (2018 est.)<br>
+0.36% (2017 est.)<br>
 
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 23% (2016 est.)<br>
@@ -421,7 +422,7 @@ coconuts, roots/tubers nes, bananas, vegetables, taro, tropical fruit, poultry, 
 fishing, handicrafts<br>
 
 **Industrial production growth rate**<br>
-1.1% (2012 est.)<br>
+-1.57% (2020 est.)<br>
 
 **Labor force**<br>
 39,000 (2010 est.)<br>
@@ -444,6 +445,9 @@ _female_: 24.6% (2019 est.)<br>
 **Population below poverty line**<br>
 NA<br>
 
+**Gini Index coefficient - distribution of family income**<br>
+27.8 (2019 est.)<br>
+
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: NA<br>
 _highest 10%_: NA<br>
@@ -460,18 +464,20 @@ _expenditures_: 277.5 million (2017 est.)<br>
 22.9% of GDP (2016 est.)<br>
 
 **Taxes and other revenues**<br>
-76.8% (of GDP) (2017 est.)<br>
+26.28% (of GDP) (2020 est.)<br>
 
 **Fiscal year**<br>
 NA<br>
 
 **Current account balance**<br>
-$18 million (2017 est.)<br>
-$35 million (2016 est.)<br>
+$20.251 million (2021 est.)<br>
+$71.279 million (2020 est.)<br>
+$86.818 million (2019 est.)<br>
 
 **Exports**<br>
-$30 million (2019 est.) note: data are in current year dollars<br>
-$20 million (2018 est.) note: data are in current year dollars<br>
+$10.754 million (2021 est.) note: data are in current year dollars<br>
+$21.228 million (2020 est.) note: data are in current year dollars<br>
+$32.516 million (2019 est.)<br>
 
 **Exports - partners**<br>
 Thailand 53%, Philippines 17%, South Korea 10%, Japan 9% (2019)<br>
@@ -480,8 +486,9 @@ Thailand 53%, Philippines 17%, South Korea 10%, Japan 9% (2019)<br>
 fish and fish produces, ships, coconut oil, copra (2019)<br>
 
 **Imports**<br>
-$180 million (2019 est.) note: data are in current year dollars<br>
-$170 million (2018 est.) note: data are in current year dollars<br>
+$201.984 million (2021 est.) note: data are in current year dollars<br>
+$148.77 million (2020 est.) note: data are in current year dollars<br>
+$177.149 million (2019 est.)<br>
 
 **Imports - partners**<br>
 China 20%, Fiji 19%, Australia 12%, Taiwan 11%, South Korea 11%, New Zealand 7%, Japan 5% (2019)<br>
@@ -499,11 +506,11 @@ $32.3 million (2015 est.)<br>
 
 **Exchange rates**<br>
 _Currency_: Australian dollars (AUD) per US dollar -<br>
-1.31 (2017 est.)<br>
-1.34 (2016 est.)<br>
-1.34 (2015 est.)<br>
-1.33 (2014 est.)<br>
-1.11 (2013 est.)<br>
+1.331 (2021 est.)<br>
+1.453 (2020 est.)<br>
+1.439 (2019 est.)<br>
+1.338 (2018 est.)<br>
+1.305 (2017 est.)<br>
 <strong>note:</strong> the Australian dollar circulates as legal tender<br>
 
 ## Energy

@@ -161,7 +161,7 @@ _female_: 60.97 years (2022 est.)<br>
 5.32 children born/woman (2022 est.)<br>
 
 **Gross reproduction rate**<br>
-2.59 (2022 est.)<br>
+2.54 (2023 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 NA<br>
@@ -200,11 +200,11 @@ _respiratory diseases_: meningococcal meningitis<br>
 **Obesity - adult prevalence rate**<br>
 6.6% (2014)<br>
 
-**Currently married women (ages 15-49)**<br>
-72.4% (2022 est.)<br>
-
 **Children under the age of 5 years underweight**<br>
 NA<br>
+
+**Currently married women (ages 15-49)**<br>
+72% (2023 est.)<br>
 
 **Education expenditures**<br>
 1.5% of GDP (2016 est.)<br>
@@ -216,9 +216,9 @@ _male_: 40.3%<br>
 _female_: 28.9% (2018)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 38.6%<br>
-_male_: 39.5%<br>
-_female_: 37.4% (2017 est.)<br>
+_total_: 21%<br>
+_male_: 21.8%<br>
+_female_: 20.2% (2021 est.)<br>
 
 ## Environment
 
@@ -393,8 +393,9 @@ $2,100 (2015 est.)<br>
 $3.06 billion (2017 est.)<br>
 
 **Inflation rate (consumer prices)**<br>
-187.9% (2017 est.)<br>
-379.8% (2016 est.)<br>
+10.52% (2021 est.)<br>
+29.68% (2020 est.)<br>
+87.24% (2019 est.)<br>
 
 **GDP - composition, by end use**<br>
 _household consumption_: 34.9% (2011 est.)<br>
@@ -406,10 +407,18 @@ _imports of goods and services_: -27.2% (2011 est.)<br>
 **Agricultural products**<br>
 milk, sorghum, vegetables, cassava, goat milk, fruit, beef, sesame seed, sheep milk, mutton<br>
 
+**Labor force**<br>
+4.278 million (2021 est.)<br>
+
+**Unemployment rate**<br>
+13.91% (2021 est.)<br>
+14.03% (2020 est.)<br>
+12.23% (2019 est.)<br>
+
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 38.6%<br>
-_male_: 39.5%<br>
-_female_: 37.4% (2017 est.)<br>
+_total_: 21%<br>
+_male_: 21.8%<br>
+_female_: 20.2% (2021 est.)<br>
 
 **Population below poverty line**<br>
 76.4% (2016 est.)<br>
@@ -432,12 +441,14 @@ _expenditures_: 298.6 million (FY2017/18 est.)<br>
 8.5% (of GDP) (FY2017/18 est.)<br>
 
 **Current account balance**<br>
--$154 million (2017 est.)<br>
-$39 million (2016 est.)<br>
+-$6.55 million (2021 est.)<br>
+-$1.718 billion (2020 est.)<br>
+-$193.95 million (2019 est.)<br>
 
 **Exports**<br>
-$3.01 billion (2019 est.) note: data are in current year dollars<br>
-$3.09 billion (2018 est.) note: data are in current year dollars<br>
+$4.652 billion (2021 est.) note: data are in current year dollars<br>
+$2.344 billion (2020 est.) note: data are in current year dollars<br>
+$3.641 billion (2019 est.)<br>
 
 **Exports - partners**<br>
 China 88%, United Arab Emirates 5% (2019)<br>
@@ -446,8 +457,9 @@ China 88%, United Arab Emirates 5% (2019)<br>
 crude petroleum, gold, forage crops, lumber, insect resins (2019)<br>
 
 **Imports**<br>
-$3.07 billion (2019 est.) note: data are in current year dollars<br>
-$3.57 billion (2018 est.) note: data are in current year dollars<br>
+$4.037 billion (2021 est.) note: data are in current year dollars<br>
+$4.245 billion (2020 est.) note: data are in current year dollars<br>
+$3.893 billion (2019 est.)<br>
 
 **Imports - partners**<br>
 United Arab Emirates 37%, Kenya 18%, China 18% (2019)<br>
@@ -456,15 +468,17 @@ United Arab Emirates 37%, Kenya 18%, China 18% (2019)<br>
 cars, delivery trucks, packaged medicines, foodstuffs, clothing and apparel (2019)<br>
 
 **Reserves of foreign exchange and gold**<br>
-$73 million (31 December 2016 est.)<br>
+$183,614,800 (31 December 2020 est.)<br>
+$378,281,700 (31 December 2019 est.)<br>
+$36,396,400 (31 December 2018 est.)<br>
 
 **Exchange rates**<br>
 _Currency_: South Sudanese pounds (SSP) per US dollar -<br>
-0.885 (2017 est.)<br>
-0.903 (2016 est.)<br>
-0.9214 (2015 est.)<br>
-0.885 (2014 est.)<br>
-0.7634 (2013 est.)<br>
+306.355 (2021 est.)<br>
+165.907 (2020 est.)<br>
+157.999 (2019 est.)<br>
+141.386 (2018 est.)<br>
+113.648 (2017 est.)<br>
 
 ## Energy
 

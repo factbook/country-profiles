@@ -150,7 +150,7 @@ _female_: 80.08 years (2022 est.)<br>
 2.78 children born/woman (2022 est.)<br>
 
 **Gross reproduction rate**<br>
-1.35 (2022 est.)<br>
+1.33 (2023 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 NA<br>
@@ -177,11 +177,11 @@ _unimproved: total_: total: 10.2% of population (2015 est.)<br>
 **HIV/AIDS - adult prevalence rate**<br>
 NA<br>
 
-**Currently married women (ages 15-49)**<br>
-37.3% (2022 est.)<br>
-
 **Children under the age of 5 years underweight**<br>
 NA<br>
+
+**Currently married women (ages 15-49)**<br>
+37% (2023 est.)<br>
 
 **Education expenditures**<br>
 NA<br>
@@ -192,9 +192,9 @@ _male_: NA<br>
 _female_: NA<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 29.4%<br>
-_male_: 29.7%<br>
-_female_: 28.9% (2011 est.)<br>
+_total_: 15.3%<br>
+_male_: 14.7%<br>
+_female_: 16.1% (2021 est.)<br>
 
 ## Environment
 
@@ -301,7 +301,7 @@ none (territory of the US)<br>
 _embassy_: none (territory of the US)<br>
 
 **Flag description**<br>
-territorial flag is dark blue with a narrow red border on all four sides; centered is a red-bordered, pointed, vertical ellipse containing a beach scene, a proa or outrigger canoe with sail, and a palm tree with the word GUAM superimposed in bold red letters; the proa is sailing in Agana Bay with the promontory of Punta Dos Amantes, near the capital, in the background; the shape of the central emblem is that of a Chamorro sling stone, used as a weapon for defense or hunting; blue represents the sea and red the blood shed in the struggle against oppression<br>
+territorial flag is dark blue with a narrow red border on all four sides; centered is a red-bordered, pointed, vertical ellipse containing a beach scene, a proa or outrigger canoe with sail, and a palm tree with the word GUAM superimposed in bold red letters; the proa is sailing in Agana Bay with the promontory of Puntan Dos Amantes, near the capital, in the background; the shape of the central emblem is that of a Chamorro sling stone, used as a weapon for defense or hunting; blue represents the sea and red the blood shed in the struggle against oppression<br>
 <strong>note:</strong> the US flag is the national flag<br>
 
 **National symbol(s)**<br>
@@ -323,9 +323,9 @@ $5.697 billion (2015 est.)<br>
 $5.531 billion (2014 est.)<br>
 
 **Real GDP growth rate**<br>
-0.4% (2016 est.)<br>
-0.5% (2015 est.)<br>
-1.6% (2014 est.)<br>
+1.06% (2021 est.)<br>
+-11.39% (2020 est.)<br>
+2.6% (2019 est.)<br>
 
 **Real GDP per capita**<br>
 $35,600 (2016 est.)<br>
@@ -362,7 +362,7 @@ national defense, tourism, construction, transshipment services, concrete produc
 NA<br>
 
 **Labor force**<br>
-73,210 (2016 est.)<br>
+76,200 (2021 est.)<br>
 <strong>note:</strong> includes only the civilian labor force<br>
 
 **Labor force - by occupation**<br>
@@ -371,13 +371,14 @@ _industry_: 21.6%<br>
 _services_: 78.1% (2013 est.)<br>
 
 **Unemployment rate**<br>
-4.5% (2017 est.)<br>
-3.9% (2016 est.)<br>
+6.98% (2021 est.)<br>
+6.8% (2020 est.)<br>
+5.51% (2019 est.)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 29.4%<br>
-_male_: 29.7%<br>
-_female_: 28.9% (2011 est.)<br>
+_total_: 15.3%<br>
+_male_: 14.7%<br>
+_female_: 16.1% (2021 est.)<br>
 
 **Population below poverty line**<br>
 23% (2001 est.)<br>

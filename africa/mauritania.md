@@ -174,7 +174,7 @@ _female_: 67.75 years (2022 est.)<br>
 3.53 children born/woman (2022 est.)<br>
 
 **Gross reproduction rate**<br>
-1.74 (2022 est.)<br>
+1.71 (2023 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 11.5% (2019/20)<br>
@@ -227,11 +227,11 @@ _total_: 10.7% (2020 est.)<br>
 _male_: 19.3% (2020 est.)<br>
 _female_: 2.1% (2020 est.)<br>
 
-**Currently married women (ages 15-49)**<br>
-66.1% (2022 est.)<br>
-
 **Children under the age of 5 years underweight**<br>
 19.2% (2018)<br>
+
+**Currently married women (ages 15-49)**<br>
+66% (2023 est.)<br>
 
 **Education expenditures**<br>
 1.9% of GDP (2020 est.)<br>
@@ -248,9 +248,9 @@ _male_: 8 years<br>
 _female_: 9 years (2020)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 21.1%<br>
-_male_: 18.8%<br>
-_female_: 24.9% (2017 est.)<br>
+_total_: 23%<br>
+_male_: 20.8%<br>
+_female_: 27.9% (2021 est.)<br>
 
 ## Environment
 
@@ -426,29 +426,29 @@ _selected World Heritage Site locales_: Ancient Ksour (Fortified Villages) of Ou
 <p>Mauritania's economy is dominated by extractive industries (oil and mines), fisheries, livestock, agriculture, and services. Half the population still depends on farming and raising livestock, even though many nomads and subsistence farmers were forced into the cities by recurrent droughts in the 1970s, 1980s, 2000s, and 2017. Recently, GDP growth has been driven largely by foreign investment in the mining and oil sectors.</p> <p> </p> <p>Mauritania's extensive mineral resources include iron ore, gold, copper, gypsum, and phosphate rock, and exploration is ongoing for tantalum, uranium, crude oil, and natural gas. Extractive commodities make up about three-quarters of Mauritania's total exports, subjecting the economy to price swings in world commodity markets. Mining is also a growing source of government revenue, rising from 13% to 30% of total revenue from 2006 to 2014. The nation's coastal waters are among the richest fishing areas in the world, and fishing accounts for about 15% of budget revenues, 45% of foreign currency earnings. Mauritania processes a total of 1,800,000 tons of fish per year, but overexploitation by foreign and national fleets threaten the sustainability of this key source of revenue.</p> <p> </p> <p>The economy is highly sensitive to international food and extractive commodity prices. Other risks to Mauritania's economy include its recurring droughts, dependence on foreign aid and investment, and insecurity in neighboring Mali, as well as significant shortages of infrastructure, institutional capacity, and human capital. In December 2017, Mauritania and the IMF agreed to a three year agreement under the Extended Credit Facility to foster economic growth, maintain macroeconomic stability, and reduce poverty. Investment in agriculture and infrastructure are the largest components of the country’s public expenditures.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
-$23.17 billion (2020 est.)<br>
-$23.52 billion (2019 est.)<br>
-$22.2 billion (2018 est.)<br>
+$24.494 billion (2021 est.)<br>
+$23.909 billion (2020 est.)<br>
+$24.136 billion (2019 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
-3.5% (2017 est.)<br>
-1.8% (2016 est.)<br>
-0.4% (2015 est.)<br>
+2.45% (2021 est.)<br>
+-0.94% (2020 est.)<br>
+5.3% (2019 est.)<br>
 
 **Real GDP per capita**<br>
-$5,000 (2020 est.)<br>
-$5,200 (2019 est.)<br>
-$5,000 (2018 est.)<br>
+$5,300 (2021 est.)<br>
+$5,300 (2020 est.)<br>
+$5,500 (2019 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
 $706 million (2018 est.)<br>
 
 **Inflation rate (consumer prices)**<br>
-2.2% (2019 est.)<br>
-3.1% (2018 est.)<br>
-2.2% (2017 est.)<br>
+3.57% (2021 est.)<br>
+2.39% (2020 est.)<br>
+2.3% (2019 est.)<br>
 
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 27.8% (2017 est.)<br>
@@ -471,10 +471,10 @@ fish processing, oil production, mining (iron ore, gold, copper)<br>
 <strong>note:</strong> gypsum deposits have never been exploited<br>
 
 **Industrial production growth rate**<br>
-1% (2017 est.)<br>
+-6.61% (2021 est.)<br>
 
 **Labor force**<br>
-1.437 million (2017 est.)<br>
+1.197 million (2021 est.)<br>
 
 **Labor force - by occupation**<br>
 _agriculture_: 50%<br>
@@ -482,20 +482,20 @@ _industry_: 1.9%<br>
 _services_: 48.1% (2014 est.)<br>
 
 **Unemployment rate**<br>
-10.2% (2017 est.)<br>
-10.1% (2016 est.)<br>
+11.46% (2021 est.)<br>
+11.27% (2020 est.)<br>
+10.39% (2019 est.)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 21.1%<br>
-_male_: 18.8%<br>
-_female_: 24.9% (2017 est.)<br>
+_total_: 23%<br>
+_male_: 20.8%<br>
+_female_: 27.9% (2021 est.)<br>
 
 **Population below poverty line**<br>
 31% (2014 est.)<br>
 
 **Gini Index coefficient - distribution of family income**<br>
 32.6 (2014 est.)<br>
-39 (2006 est.)<br>
 
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 2.5%<br>
@@ -519,13 +519,14 @@ _expenditures_: 1.396 billion (2017 est.)<br>
 calendar year<br>
 
 **Current account balance**<br>
--$711 million (2017 est.)<br>
--$707 million (2016 est.)<br>
+-$807.862 million (2021 est.)<br>
+-$576.175 million (2020 est.)<br>
+-$831.106 million (2019 est.)<br>
 
 **Exports**<br>
-$2.52 billion (2019 est.) note: data are in current year dollars<br>
-$2.06 billion (2018 est.) note: data are in current year dollars<br>
-$302 million (2017 est.)<br>
+$3.18 billion (2021 est.) note: data are in current year dollars<br>
+$2.784 billion (2020 est.) note: data are in current year dollars<br>
+$2.525 billion (2019 est.)<br>
 
 **Exports - partners**<br>
 China 32%, Switzerland 13%, Spain 9%, Japan 9%, Italy 5% (2019)<br>
@@ -534,9 +535,9 @@ China 32%, Switzerland 13%, Spain 9%, Japan 9%, Italy 5% (2019)<br>
 iron ore, fish products, gold, mollusks, processed crustaceans (2019)<br>
 
 **Imports**<br>
-$3.68 billion (2019 est.) note: data are in current year dollars<br>
-$3.28 billion (2018 est.) note: data are in current year dollars<br>
-$319 million (2017 est.)<br>
+$4.312 billion (2021 est.) note: data are in current year dollars<br>
+$3.675 billion (2020 est.) note: data are in current year dollars<br>
+$3.683 billion (2019 est.)<br>
 
 **Imports - partners**<br>
 China 26%, France 6%, Spain 6%, Morocco 6%, United Arab Emirates 5% (2019)<br>
@@ -545,8 +546,9 @@ China 26%, France 6%, Spain 6%, Morocco 6%, United Arab Emirates 5% (2019)<br>
 ships, aircraft, wheat, raw sugar, refined petroleum (2019)<br>
 
 **Reserves of foreign exchange and gold**<br>
-$875 million (31 December 2017 est.)<br>
-$849.3 million (31 December 2016 est.)<br>
+$2.039 billion (31 December 2021 est.)<br>
+$1.493 billion (31 December 2020 est.)<br>
+$1.029 billion (31 December 2019 est.)<br>
 
 **Debt - external**<br>
 $4.15 billion (31 December 2017 est.)<br>
@@ -554,11 +556,11 @@ $3.899 billion (31 December 2016 est.)<br>
 
 **Exchange rates**<br>
 _Currency_: ouguiyas (MRO) per US dollar -<br>
-363.6 (2017 est.)<br>
-352.37 (2016 est.)<br>
-352.37 (2015 est.)<br>
-319.7 (2014 est.)<br>
-299.5 (2013 est.)<br>
+36.063 (2021 est.)<br>
+37.189 (2020 est.)<br>
+36.691 (2019 est.)<br>
+35.678 (2018 est.)<br>
+35.794 (2017 est.)<br>
 
 ## Energy
 
@@ -737,7 +739,7 @@ Al-Qa'ida in the Islamic Maghreb (AQIM)<br>
 <p><em>Mauritania-Algeria</em>: none identified</p> <p><em>Mauritania-Mali</em>: there are no border disputes, but the border has not been demarcated; talks on demarcation were reportedly being held in February 2022</p> <p><em>Mauritania-Morocco</em>: Mauritanian claims to Western Sahara remain dormant; tensions arose in 2016 when Mauritanian soldiers were deployed to Lagouira, a city in the southernmost part of Morocco, and raised their flag</p> <p><em>Mauritania-Senegal</em>: none identified</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 26,001 (Sahrawis) (mid-year 2021); 98,202 (Mali) (2022)<br>
+_refugees (country of origin)_: 26,000 (Sahrawis); 98,202 (Mali) (2022)<br>
 
 **Trafficking in persons**<br>
 _tier rating_: Tier 2 Watch List &mdash; Mauritania does not fully meet the minimum standards for the elimination of trafficking but is making significant efforts to do so and was upgraded to Tier 2 Watch List; the government convicted five hereditary slaveholders, drafted new anti-trafficking legislation and a national action plan, raised awareness on child forced begging in Quranic schools with imams and religious leaders by establishing an inter-ministerial committee, published a child protection guide, and operated a cash transfer program; however, the government rarely imprisoned convicted slaveholders and did not identify any victims; government agencies lacked resources; government officials refuse to investigate or prosecute political offenders (2020)<br>

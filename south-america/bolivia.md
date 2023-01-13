@@ -173,7 +173,7 @@ _female_: 74.02 years (2022 est.)<br>
 2.33 children born/woman (2022 est.)<br>
 
 **Gross reproduction rate**<br>
-1.14 (2022 est.)<br>
+1.1 (2023 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 66.5% (2016)<br>
@@ -226,11 +226,11 @@ _total_: 12.7% (2020 est.)<br>
 _male_: 20.5% (2020 est.)<br>
 _female_: 4.8% (2020 est.)<br>
 
-**Currently married women (ages 15-49)**<br>
-57.3% (2022 est.)<br>
-
 **Children under the age of 5 years underweight**<br>
 3.4% (2016)<br>
+
+**Currently married women (ages 15-49)**<br>
+57.1% (2023 est.)<br>
 
 **Child marriage**<br>
 _women married by age 15_: 3.4%<br>
@@ -247,9 +247,9 @@ _male_: 96.5%<br>
 _female_: 88.6% (2015)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 16.1%<br>
-_male_: 15.7%<br>
-_female_: 16.6% (2020 est.)<br>
+_total_: 17.4%<br>
+_male_: 16.8%<br>
+_female_: 18.4% (2021 est.)<br>
 
 ## Environment
 
@@ -424,29 +424,29 @@ _selected World Heritage Site locales_: City of Potosi (c); El Fuerte de Samaipa
 <p>Bolivia is a resource rich country with strong growth attributed to captive markets for natural gas exports – to Brazil and Argentina. However, the country remains one of the least developed countries in Latin America because of state-oriented policies that deter investment.</p> <p> </p> <p>Following an economic crisis during the early 1980s, reforms in the 1990s spurred private investment, stimulated economic growth, and cut poverty rates. The period 2003-05 was characterized by political instability, racial tensions, and violent protests against plans - subsequently abandoned - to export Bolivia's newly discovered natural gas reserves to large Northern Hemisphere markets. In 2005-06, the government passed hydrocarbon laws that imposed significantly higher royalties and required foreign firms then operating under risk-sharing contracts to surrender all production to the state energy company in exchange for a predetermined service fee; the laws engendered much public debate. High commodity prices between 2010 and 2014 sustained rapid growth and large trade surpluses with GDP growing 6.8% in 2013 and 5.4% in 2014. The global decline in oil prices that began in late 2014 exerted downward pressure on the price Bolivia receives for exported gas and resulted in lower GDP growth rates - 4.9% in 2015 and 4.3% in 2016 - and losses in government revenue as well as fiscal and trade deficits.</p> <p> </p> <p>A lack of foreign investment in the key sectors of mining and hydrocarbons, along with conflict among social groups, pose challenges for the Bolivian economy. In 2015, President Evo MORALES expanded efforts to court international investment and boost Bolivia’s energy production capacity. MORALES passed an investment law and promised not to nationalize additional industries in an effort to improve the investment climate. In early 2016, the Government of Bolivia approved the 2016-2020 National Economic and Social Development Plan aimed at maintaining growth of 5% and reducing poverty.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
-$92.59 billion (2020 est.)<br>
-$100.45 billion (2019 est.)<br>
-$98.27 billion (2018 est.)<br>
+$97.266 billion (2021 est.)<br>
+$91.669 billion (2020 est.)<br>
+$100.446 billion (2019 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
+6.11% (2021 est.)<br>
+-8.74% (2020 est.)<br>
 2.22% (2019 est.)<br>
-4.23% (2018 est.)<br>
-4.19% (2017 est.)<br>
 
 **Real GDP per capita**<br>
-$7,900 (2020 est.)<br>
-$8,700 (2019 est.)<br>
-$8,700 (2018 est.)<br>
+$8,100 (2021 est.)<br>
+$7,700 (2020 est.)<br>
+$8,500 (2019 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
 $40.822 billion (2019 est.)<br>
 
 **Inflation rate (consumer prices)**<br>
-1.8% (2019 est.)<br>
-2.2% (2018 est.)<br>
-2.8% (2017 est.)<br>
+0.74% (2021 est.)<br>
+0.94% (2020 est.)<br>
+1.84% (2019 est.)<br>
 
 **Credit ratings**<br>
 _Fitch rating_: B (2020)<br>
@@ -474,10 +474,10 @@ sugar cane, soybeans, potatoes, maize, sorghum, rice, milk, plantains, poultry, 
 mining, smelting, electricity, petroleum, food and beverages, handicrafts, clothing, jewelry<br>
 
 **Industrial production growth rate**<br>
-2.2% (2017 est.)<br>
+9.56% (2021 est.)<br>
 
 **Labor force**<br>
-5.719 million (2016 est.)<br>
+6.322 million (2021 est.)<br>
 
 **Labor force - by occupation**<br>
 _agriculture_: 29.4%<br>
@@ -485,21 +485,21 @@ _industry_: 22%<br>
 _services_: 48.6% (2015 est.)<br>
 
 **Unemployment rate**<br>
-4% (2017 est.)<br>
-4% (2016 est.)<br>
+8.51% (2021 est.)<br>
+7.9% (2020 est.)<br>
+3.82% (2019 est.)<br>
 <strong>note:</strong> data are for urban areas; widespread underemployment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 16.1%<br>
-_male_: 15.7%<br>
-_female_: 16.6% (2020 est.)<br>
+_total_: 17.4%<br>
+_male_: 16.8%<br>
+_female_: 18.4% (2021 est.)<br>
 
 **Population below poverty line**<br>
 37.2% (2019 est.)<br>
 
 **Gini Index coefficient - distribution of family income**<br>
-42.2 (2018 est.)<br>
-57.9 (1999)<br>
+43.6 (2020 est.)<br>
 
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 0.9%<br>
@@ -524,13 +524,14 @@ _expenditures_: 18.02 billion (2017 est.)<br>
 calendar year<br>
 
 **Current account balance**<br>
--$2.375 billion (2017 est.)<br>
--$1.932 billion (2016 est.)<br>
+$802.112 million (2021 est.)<br>
+-$269.456 million (2020 est.)<br>
+-$1.366 billion (2019 est.)<br>
 
 **Exports**<br>
-$7.55 billion (2020 est.)<br>
-$10.26 billion (2019 est.)<br>
-$10.35 billion (2018 est.)<br>
+$11.439 billion (2021 est.)<br>
+$7.383 billion (2020 est.)<br>
+$10.271 billion (2019 est.)<br>
 <strong>note:</strong> Data are in current year dollars and do not include illicit exports or re-exports.<br>
 
 **Exports - partners**<br>
@@ -540,9 +541,9 @@ Argentina 16%, Brazil 15%, United Arab Emirates 12%, India 10%, United States 6%
 natural gas, gold, zinc, soybean oil and soy products, tin, silver, lead (2019)<br>
 
 **Imports**<br>
-$8.27 billion (2020 est.) note: data are in current year dollars<br>
-$11.95 billion (2019 est.) note: data are in current year dollars<br>
-$12.44 billion (2018 est.) note: data are in current year dollars<br>
+$10.799 billion (2021 est.) note: data are in current year dollars<br>
+$8.261 billion (2020 est.) note: data are in current year dollars<br>
+$11.957 billion (2019 est.) note: data are in current year dollars<br>
 
 **Imports - partners**<br>
 Brazil 22%, Chile 15%, China 13%, Peru 11%, Argentina 8%, United States 7% (2017)<br>
@@ -551,8 +552,9 @@ Brazil 22%, Chile 15%, China 13%, Peru 11%, Argentina 8%, United States 7% (2017
 cars, refined petroleum, delivery trucks, iron, buses (2019)<br>
 
 **Reserves of foreign exchange and gold**<br>
-$10.26 billion (31 December 2017 est.)<br>
-$10.08 billion (31 December 2016 est.)<br>
+$4.73 billion (31 December 2021 est.)<br>
+$5.247 billion (31 December 2020 est.)<br>
+$6.455 billion (31 December 2019 est.)<br>
 
 **Debt - external**<br>
 $12.81 billion (31 December 2017 est.)<br>
@@ -560,11 +562,11 @@ $7.268 billion (31 December 2016 est.)<br>
 
 **Exchange rates**<br>
 _Currency_: bolivianos (BOB) per US dollar -<br>
+6.91 (2021 est.)<br>
 6.91 (2020 est.)<br>
 6.91 (2019 est.)<br>
 6.91 (2018 est.)<br>
-6.91 (2014 est.)<br>
-6.91 (2013 est.)<br>
+6.91 (2017 est.)<br>
 
 ## Energy
 

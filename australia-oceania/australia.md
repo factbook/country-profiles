@@ -176,7 +176,7 @@ _female_: 85.36 years (2022 est.)<br>
 1.73 children born/woman (2022 est.)<br>
 
 **Gross reproduction rate**<br>
-0.84 (2022 est.)<br>
+0.84 (2023 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 66.9% (2015/16)<br>
@@ -225,11 +225,11 @@ _total_: 13.6% (2020 est.)<br>
 _male_: 15.6% (2020 est.)<br>
 _female_: 11.5% (2020 est.)<br>
 
-**Currently married women (ages 15-49)**<br>
-55.9% (2022 est.)<br>
-
 **Children under the age of 5 years underweight**<br>
 NA<br>
+
+**Currently married women (ages 15-49)**<br>
+55.9% (2023 est.)<br>
 
 **Education expenditures**<br>
 6.1% of GDP (2020 est.)<br>
@@ -245,9 +245,9 @@ _male_: 20 years<br>
 _female_: 22 years (2020)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 11.3%<br>
-_male_: 12.6%<br>
-_female_: 9.8% (2021 est.)<br>
+_total_: 10.8%<br>
+_male_: 12.7%<br>
+_female_: 8.9% (2021 est.)<br>
 
 ## Environment
 
@@ -420,29 +420,29 @@ _selected World Heritage Site locales_: Great Barrier Reef (n); Greater Blue Mou
 <p>Australia is an open market with minimal restrictions on imports of goods and services. The process of opening up has increased productivity, stimulated growth, and made the economy more flexible and dynamic. Australia plays an active role in the WTO, APEC, the G20, and other trade forums. Australia’s free trade agreement (FTA) with China entered into force in 2015, adding to existing FTAs with the Republic of Korea, Japan, Chile, Malaysia, New Zealand, Singapore, Thailand, and the US, and a regional FTA with ASEAN and New Zealand. Australia continues to negotiate bilateral agreements with Indonesia, as well as larger agreements with its Pacific neighbors and the Gulf Cooperation Council countries, and an Asia-wide Regional Comprehensive Economic Partnership that includes the 10 ASEAN countries and China, Japan, Korea, New Zealand, and India.</p> <p> </p> <p>Australia is a significant exporter of natural resources, energy, and food. Australia's abundant and diverse natural resources attract high levels of foreign investment and include extensive reserves of coal, iron, copper, gold, natural gas, uranium, and renewable energy sources. A series of major investments, such as the US$40 billion Gorgon Liquid Natural Gas Project, will significantly expand the resources sector.</p> <p> </p> <p>For nearly two decades up till 2017, Australia had benefited from a dramatic surge in its terms of trade. As export prices increased faster than import prices, the economy experienced continuous growth, low unemployment, contained inflation, very low public debt, and a strong and stable financial system. Australia entered 2018 facing a range of growth constraints, principally driven by the sharp fall in global prices of key export commodities. Demand for resources and energy from Asia and especially China is growing at a slower pace and sharp drops in export prices have impacted growth.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
-$1,250,900,000,000 (2020 est.)<br>
-$1,254,480,000,000 (2019 est.)<br>
-$1,227,940,000,000 (2018 est.)<br>
+$1.279 trillion (2021 est.)<br>
+$1.251 trillion (2020 est.)<br>
+$1.251 trillion (2019 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
-1.84% (2019 est.)<br>
-2.77% (2018 est.)<br>
-2.45% (2017 est.)<br>
+2.24% (2021 est.)<br>
+-0.05% (2020 est.)<br>
+2.17% (2019 est.)<br>
 
 **Real GDP per capita**<br>
+$49,800 (2021 est.)<br>
 $48,700 (2020 est.)<br>
-$49,500 (2019 est.)<br>
-$49,200 (2018 est.)<br>
+$49,400 (2019 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
 $1,390,790,000,000 (2019 est.)<br>
 
 **Inflation rate (consumer prices)**<br>
-1.6% (2019 est.)<br>
-1.9% (2018 est.)<br>
-1.9% (2017 est.)<br>
+2.86% (2021 est.)<br>
+0.85% (2020 est.)<br>
+1.61% (2019 est.)<br>
 
 **Credit ratings**<br>
 _Fitch rating_: AAA (2011)<br>
@@ -470,10 +470,10 @@ sugar cane, wheat, barley, milk, rapeseed, beef, cotton, grapes, poultry, potato
 mining, industrial and transportation equipment, food processing, chemicals, steel<br>
 
 **Industrial production growth rate**<br>
-1.4% (2017 est.)<br>
+-0.55% (2021 est.)<br>
 
 **Labor force**<br>
-12.568 million (2020 est.)<br>
+13.786 million (2021 est.)<br>
 
 **Labor force - by occupation**<br>
 _agriculture_: 3.6%<br>
@@ -481,17 +481,17 @@ _industry_: 21.1%<br>
 _services_: 75.3% (2009 est.)<br>
 
 **Unemployment rate**<br>
+5.11% (2021 est.)<br>
+6.46% (2020 est.)<br>
 5.16% (2019 est.)<br>
-5.29% (2018 est.)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 11.3%<br>
-_male_: 12.6%<br>
-_female_: 9.8% (2021 est.)<br>
+_total_: 10.8%<br>
+_male_: 12.7%<br>
+_female_: 8.9% (2021 est.)<br>
 
 **Gini Index coefficient - distribution of family income**<br>
-34.4 (2014 est.)<br>
-35.2 (1994)<br>
+34.3 (2018 est.)<br>
 
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 2%<br>
@@ -505,23 +505,25 @@ _expenditures_: 496.9 billion (2017 est.)<br>
 -0.5% (of GDP) (2017 est.)<br>
 
 **Public debt**<br>
-40.8% of GDP (2017 est.)<br>
-40.6% of GDP (2016 est.)<br>
+69.41% of GDP (2020 est.)<br>
+60.25% of GDP (2019 est.)<br>
+54.49% of GDP (2018 est.)<br>
 
 **Taxes and other revenues**<br>
-35.5% (of GDP) (2017 est.)<br>
+22.61% (of GDP) (2020 est.)<br>
 
 **Fiscal year**<br>
 1 July - 30 June<br>
 
 **Current account balance**<br>
-$8.146 billion (2019 est.)<br>
--$29.777 billion (2018 est.)<br>
+$56.261 billion (2021 est.)<br>
+$35.601 billion (2020 est.)<br>
+$7.658 billion (2019 est.)<br>
 
 **Exports**<br>
-$299.04 billion (2020 est.)<br>
-$342.43 billion (2019 est.)<br>
-$327.32 billion (2018 est.)<br>
+$389.794 billion (2021 est.)<br>
+$300.77 billion (2020 est.)<br>
+$342.485 billion (2019 est.)<br>
 <strong>note:</strong> Data are in current year dollars and do not include illicit exports or re-exports.<br>
 
 **Exports - partners**<br>
@@ -531,9 +533,9 @@ China 39%, Japan 15%, South Korea 7%, India 5% (2019)<br>
 iron ore, coal, natural gas, gold, aluminum oxide (2019)<br>
 
 **Imports**<br>
-$249.07 billion (2020 est.) note: data are in current year dollars<br>
-$295.46 billion (2019 est.) note: data are in current year dollars<br>
-$310.23 billion (2018 est.) note: data are in current year dollars<br>
+$298.712 billion (2021 est.) note: data are in current year dollars<br>
+$250.178 billion (2020 est.) note: data are in current year dollars<br>
+$295.504 billion (2019 est.) note: data are in current year dollars<br>
 
 **Imports - partners**<br>
 China 25%, United States 12%, Japan 7%, Germany 5%, Thailand 5% (2019)<br>
@@ -542,8 +544,9 @@ China 25%, United States 12%, Japan 7%, Germany 5%, Thailand 5% (2019)<br>
 refined petroleum, cars, crude petroleum, broadcasting equipment, delivery trucks (2019)<br>
 
 **Reserves of foreign exchange and gold**<br>
-$66.58 billion (31 December 2017 est.)<br>
-$55.07 billion (31 December 2016 est.)<br>
+$57.878 billion (31 December 2021 est.)<br>
+$42.545 billion (31 December 2020 est.)<br>
+$57.995 billion (31 December 2019 est.)<br>
 
 **Debt - external**<br>
 $3,115,913,000,000 (2019 est.)<br>
@@ -551,11 +554,11 @@ $2,837,818,000,000 (2018 est.)<br>
 
 **Exchange rates**<br>
 _Currency_: Australian dollars (AUD) per US dollar -<br>
-1.34048 (2020 est.)<br>
-1.46402 (2019 est.)<br>
-1.38552 (2018 est.)<br>
-1.3291 (2014 est.)<br>
-1.1094 (2013 est.)<br>
+1.331 (2021 est.)<br>
+1.453 (2020 est.)<br>
+1.439 (2019 est.)<br>
+1.338 (2018 est.)<br>
+1.305 (2017 est.)<br>
 
 ## Energy
 
@@ -683,10 +686,10 @@ _under 914 m_: 14 (2021)<br>
 637 km condensate/gas, 30,054 km gas, 240 km liquid petroleum gas, 3,609 km oil, 110 km oil/gas/water, 72 km refined products (2013)<br>
 
 **Railways**<br>
-_total_: 33,011 km (2015)<br>
-_standard gauge_: 17,446 km (2015) 1.435-m gauge (650 km electrified)<br>
-_narrow gauge_: 12,318 km (2015) 1.067-m gauge (2,075.5 km electrified)<br>
-_broad gauge_: 3,247 km (2015) 1.600-m gauge (372 km electrified)<br>
+_total_: 36,064 km (2022) 3,448 km electrified<br>
+_standard gauge_: 18,007 km (2022) 1.435 mm<br>
+_narrow gauge_: 11,914 km (2022) 1.067 mm<br>
+_broad gauge_: 2,685 km (2022) 1.600 mm<br>
 
 **Roadways**<br>
 _total_: 873,573 km (2015)<br>
@@ -750,7 +753,7 @@ Islamic State of Iraq and ash-Sham (ISIS)<br>
 <p><em>Australia-Indonesia (Maritime Boundary):</em> All borders between Indonesia and Australia have been agreed upon bilaterally, but a 1997 treaty that would settle the last of their maritime and EEZ boundary has yet to be ratified by Indonesia's legislature. Indonesian groups challenge Australia's claim to Ashmore Reef. Australia closed parts of the Ashmore and Cartier reserve to Indonesian traditional fishing.<em><br><br>Australia-Timor-Leste (Maritime Boundary):</em> In 2007, Australia and Timor-Leste agreed to a 50-year development zone and revenue sharing arrangement and deferred a maritime boundary.</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 12,701 (Iran), 10,108 (Afghanistan), 5,400 (Pakistan) (mid-year 2021)<br>
+_refugees (country of origin)_: 12,180 (Iran), 8,741 (Afghanistan), 5,042 (Pakistan) (mid-year 2022)<br>
 _stateless persons_: 5,770 (mid-year 2021)<br>
 
 **Illicit drugs**<br>

@@ -151,7 +151,7 @@ _female_: 83.65 years (2022 est.)<br>
 2 children born/woman (2022 est.)<br>
 
 **Gross reproduction rate**<br>
-0.97 (2022 est.)<br>
+0.96 (2023 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 NA<br>
@@ -184,6 +184,9 @@ NA<br>
 **Children under the age of 5 years underweight**<br>
 NA<br>
 
+**Currently married women (ages 15-49)**<br>
+27.4% (2023)<br>
+
 **Education expenditures**<br>
 NA<br>
 
@@ -191,6 +194,11 @@ NA<br>
 _total population_: NA<br>
 _male_: NA<br>
 _female_: NA<br>
+
+**Youth unemployment rate (ages 15-24)**<br>
+_total_: 27%<br>
+_male_: 24.1%<br>
+_female_: 37.3% (2021 est.)<br>
 
 ## Environment
 
@@ -270,9 +278,9 @@ _election results_: <p>Albert BRYAN, Jr. reelected governor; percent of vote - A
 
 **Legislative branch**<br>
 _description_: unicameral Legislature of the Virgin Islands (15 seats; senators directly elected in single- and multi-seat constituencies by simple majority popular vote to serve 2-year terms)<br><br>the Virgin Islands directly elects 1 delegate to the US House of Representatives by simple majority vote to serve a 2-year term<br>
-_elections_: Legislature of the Virgin Islands last held on 6 November 2018 (next to be held in November 2020)<br>US House of Representatives last held on 6 November 2018 (next to be held in November 2020)<br>
-_election results_: Legislature of the Virgin Islands - percent of vote by party - NA; seats by party - Democratic Party 13, independents 2; composition - men 11, women 4, percent of women 26.7%<br><br>delegate to US House of Representatives - seat by party - Democratic Party 1; composition - 1 woman<br>
-<strong>note:</strong> the Virgin Islands to the US House of Representatives can vote when serving on a committee and when the House meets as the Committee of the Whole House, but not when legislation is submitted for a “full floor” House vote<br>
+_elections_: Legislature of the Virgin Islands last held on 8 November 2022 (next to be held in November 2024)<br>US House of Representatives last held on 8 November 2022 (next to be held in November 2024)<br>
+_election results_: Legislature of the Virgin Islands - percent of vote by party - NA; seats by party - Democratic Party 9, independent 6; composition - men NA, women NA, percent of women NA%<br><br>delegate to US House of Representatives - seat by party - Democratic Party 1; composition - 1 woman<br>
+<strong>note:</strong> the Virgin Islands delegate to the US House of Representatives can vote when serving on a committee and when the House meets as the Committee of the Whole House, but not when legislation is submitted for a “full floor” House vote<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme Court of the Virgin Islands (consists of the chief justice and 2 associate justices); note - court established by the US Congress in 2004 and assumed appellate jurisdiction in 2007<br>
@@ -280,7 +288,7 @@ _judge selection and term of office_: justices appointed by the governor and con
 _subordinate courts_: Superior Court (Territorial Court renamed in 2004); US Court of Appeals for the Third Circuit (has appellate jurisdiction over the District Court of the Virgin Islands; it is a territorial court and is not associated with a US federal judicial district); District Court of the Virgin Islands<br>
 
 **Political parties and leaders**<br>
-Democratic Party [Stacey PLASKELL]<br>Independent Citizens' Movement or ICM [Dale BLYDEN]<br>Republican Party [John CANEGATA]<br>
+Democratic Party [Stacey PLASKETT]<br>Independent Citizens' Movement or ICM [Dale BLYDEN]<br>Republican Party [John CANEGATA]<br>
 
 **International organization participation**<br>
 AOSIS (observer), Interpol (subbureau), IOC, UPU, WFTU (NGOs)<br>
@@ -311,9 +319,9 @@ $3.622 billion (2014 est.)<br>
 <strong>note:</strong> data are in 2013 dollars<br>
 
 **Real GDP growth rate**<br>
-0.9% (2016 est.)<br>
-0.3% (2015 est.)<br>
--1% (2014 est.)<br>
+-2.15% (2020 est.)<br>
+2.78% (2019 est.)<br>
+1.9% (2018 est.)<br>
 
 **Real GDP per capita**<br>
 $37,000 (2016 est.)<br>
@@ -350,7 +358,7 @@ tourism, watch assembly, rum distilling, construction, pharmaceuticals, electron
 NA<br>
 
 **Labor force**<br>
-48,550 (2016 est.)<br>
+42,200 (2021 est.)<br>
 
 **Labor force - by occupation**<br>
 _agriculture_: 1%<br>
@@ -358,8 +366,14 @@ _industry_: 19%<br>
 _services_: 80% (2003 est.)<br>
 
 **Unemployment rate**<br>
-10.4% (2017 est.)<br>
-11% (2016 est.)<br>
+13.27% (2021 est.)<br>
+13.55% (2020 est.)<br>
+12.47% (2019 est.)<br>
+
+**Youth unemployment rate (ages 15-24)**<br>
+_total_: 27%<br>
+_male_: 24.1%<br>
+_female_: 37.3% (2021 est.)<br>
 
 **Population below poverty line**<br>
 28.9% (2002 est.)<br>

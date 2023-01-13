@@ -171,7 +171,7 @@ _female_: 64.24 years (2022 est.)<br>
 5.83 children born/woman (2022 est.)<br>
 
 **Gross reproduction rate**<br>
-2.87 (2022 est.)<br>
+2.84 (2023 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 13.7% (2015/16)<br>
@@ -218,11 +218,11 @@ _wine_: 0.72 liters of pure alcohol (2019 est.)<br>
 _spirits_: 1.27 liters of pure alcohol (2019 est.)<br>
 _other alcohols_: 0.08 liters of pure alcohol (2019 est.)<br>
 
-**Currently married women (ages 15-49)**<br>
-56% (2022 est.)<br>
-
 **Children under the age of 5 years underweight**<br>
 19% (2015/16)<br>
+
+**Currently married women (ages 15-49)**<br>
+55.7% (2023 est.)<br>
 
 **Child marriage**<br>
 _women married by age 15_: 7.9%<br>
@@ -239,9 +239,9 @@ _male_: 82%<br>
 _female_: 60.7% (2015)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 17.3%<br>
-_male_: 17.9%<br>
-_female_: 16.7% (2014 est.)<br>
+_total_: 18.5%<br>
+_male_: 18.2%<br>
+_female_: 18.8% (2021 est.)<br>
 
 ## Environment
 
@@ -413,29 +413,29 @@ _selected World Heritage Site locales_: Mbanza-Kongo<br>
 <p>Angola's economy is overwhelmingly driven by its oil sector. Oil production and its supporting activities contribute about 50% of GDP, more than 70% of government revenue, and more than 90% of the country's exports; Angola is an OPEC member and subject to its direction regarding oil production levels. Diamonds contribute an additional 5% to exports. Subsistence agriculture provides the main livelihood for most of the people, but half of the country's food is still imported.</p> <p> </p> <p>Increased oil production supported growth averaging more than 17% per year from 2004 to 2008. A postwar reconstruction boom and resettlement of displaced persons led to high rates of growth in construction and agriculture as well. Some of the country's infrastructure is still damaged or undeveloped from the 27-year-long civil war (1975-2002). However, the government since 2005 has used billions of dollars in credit from China, Brazil, Portugal, Germany, Spain, and the EU to help rebuild Angola's public infrastructure. Land mines left from the war still mar the countryside, and as a result, the national military, international partners, and private Angolan firms all continue to remove them.</p> <p> </p> <p>The global recession that started in 2008 stalled Angola’s economic growth and many construction projects stopped because Luanda accrued billions in arrears to foreign construction companies when government revenue fell. Lower prices for oil and diamonds also resulted in GDP falling 0.7% in 2016. Angola formally abandoned its currency peg in 2009 but reinstituted it in April 2016 and maintains an overvalued exchange rate. In late 2016, Angola lost the last of its correspondent relationships with foreign banks, further exacerbating hard currency problems. Since 2013 the central bank has consistently spent down reserves to defend the kwanza, gradually allowing a 40% depreciation since late 2014. Consumer inflation declined from 325% in 2000 to less than 9% in 2014, before rising again to above 30% from 2015-2017.</p> <p> </p> <p>Continued low oil prices, the depreciation of the kwanza, and slower than expected growth in non-oil GDP have reduced growth prospects, although several major international oil companies remain in Angola. Corruption, especially in the extractive sectors, is a major long-term challenge that poses an additional threat to the economy.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
-$203.71 billion (2020 est.)<br>
-$212.29 billion (2019 est.)<br>
-$213.62 billion (2018 est.)<br>
+$203.868 billion (2021 est.)<br>
+$201.65 billion (2020 est.)<br>
+$213.612 billion (2019 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
--2.5% (2017 est.)<br>
--2.6% (2016 est.)<br>
-0.9% (2015 est.)<br>
+1.1% (2021 est.)<br>
+-5.6% (2020 est.)<br>
+-0.7% (2019 est.)<br>
 
 **Real GDP per capita**<br>
-$6,200 (2020 est.)<br>
-$6,700 (2019 est.)<br>
-$6,900 (2018 est.)<br>
+$5,900 (2021 est.)<br>
+$6,000 (2020 est.)<br>
+$6,600 (2019 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
 $97.261 billion (2019 est.)<br>
 
 **Inflation rate (consumer prices)**<br>
-17.2% (2019 est.)<br>
-20.3% (2018 est.)<br>
-32.1% (2017 est.)<br>
+25.75% (2021 est.)<br>
+22.27% (2020 est.)<br>
+17.08% (2019 est.)<br>
 
 **Credit ratings**<br>
 _Fitch rating_: CCC (2020)<br>
@@ -463,10 +463,10 @@ cassava, bananas, maize, sweet potatoes, pineapples, sugar cane, potatoes, citru
 petroleum; diamonds, iron ore, phosphates, feldspar, bauxite, uranium, and gold; cement; basic metal products; fish processing; food processing, brewing, tobacco products, sugar; textiles; ship repair<br>
 
 **Industrial production growth rate**<br>
-2.5% (2017 est.)<br>
+-8.34% (2021 est.)<br>
 
 **Labor force**<br>
-12.51 million (2017 est.)<br>
+14.462 million (2021 est.)<br>
 
 **Labor force - by occupation**<br>
 _agriculture_: 85%<br>
@@ -474,12 +474,14 @@ _industry_: 15% (2015 est.)<br>
 _industry and services_: 15% (2003 est.)<br>
 
 **Unemployment rate**<br>
-6.6% (2016 est.)<br>
+8.53% (2021 est.)<br>
+8.33% (2020 est.)<br>
+7.42% (2019 est.)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 17.3%<br>
-_male_: 17.9%<br>
-_female_: 16.7% (2014 est.)<br>
+_total_: 18.5%<br>
+_male_: 18.2%<br>
+_female_: 18.8% (2021 est.)<br>
 
 **Population below poverty line**<br>
 32.3% (2018 est.)<br>
@@ -503,19 +505,20 @@ _expenditures_: 45.44 billion (2017 est.)<br>
 75.3% of GDP (2016 est.)<br>
 
 **Taxes and other revenues**<br>
-29.3% (of GDP) (2017 est.)<br>
+10.09% (of GDP) (2019 est.)<br>
 
 **Fiscal year**<br>
 calendar year<br>
 
 **Current account balance**<br>
--$1.254 billion (2017 est.)<br>
--$4.834 billion (2016 est.)<br>
+$8.399 billion (2021 est.)<br>
+$871.918 million (2020 est.)<br>
+$5.137 billion (2019 est.)<br>
 
 **Exports**<br>
-$21 billion (2020 est.)<br>
+$33.675 billion (2021 est.)<br>
+$21.004 billion (2020 est.)<br>
 $35.18 billion (2019 est.)<br>
-$41.39 billion (2018 est.)<br>
 <strong>note:</strong> Data are in current year dollars and do not include illicit exports or re-exports.<br>
 
 **Exports - partners**<br>
@@ -525,9 +528,9 @@ China 62%, India 10%, United Arab Emirates 4%, Portugal 3%, Spain 3% (2019)<br>
 crude petroleum, diamonds, natural gas, refined petroleum, ships (2019)<br>
 
 **Imports**<br>
-$15.12 billion (2020 est.) note: data are in current year dollars<br>
-$22.3 billion (2019 est.) note: data are in current year dollars<br>
-$25.89 billion (2018 est.) note: data are in current year dollars<br>
+$18.845 billion (2021 est.) note: data are in current year dollars<br>
+$15.146 billion (2020 est.) note: data are in current year dollars<br>
+$22.299 billion (2019 est.) note: data are in current year dollars<br>
 
 **Imports - partners**<br>
 China 22%, Portugal 15%, Nigeria 6%, Belgium 6%, United States 5%, South Africa 5%, Brazil 5% (2019)<br>
@@ -536,8 +539,9 @@ China 22%, Portugal 15%, Nigeria 6%, Belgium 6%, United States 5%, South Africa 
 refined petroleum, scrap vessels, meat, rice, palm oil (2019)<br>
 
 **Reserves of foreign exchange and gold**<br>
-$17.29 billion (31 December 2017 est.)<br>
-$23.74 billion (31 December 2016 est.)<br>
+$14.468 billion (31 December 2021 est.)<br>
+$13.782 billion (31 December 2020 est.)<br>
+$16.335 billion (31 December 2019 est.)<br>
 
 **Debt - external**<br>
 $42.08 billion (31 December 2017 est.)<br>
@@ -545,11 +549,11 @@ $27.14 billion (31 December 2016 est.)<br>
 
 **Exchange rates**<br>
 _Currency_: kwanza (AOA) per US dollar -<br>
-172.6 (2017 est.)<br>
-163.656 (2016 est.)<br>
-163.656 (2015 est.)<br>
-120.061 (2014 est.)<br>
-98.303 (2013 est.)<br>
+631.442 (2021 est.)<br>
+578.259 (2020 est.)<br>
+364.826 (2019 est.)<br>
+252.856 (2018 est.)<br>
+165.916 (2017 est.)<br>
 
 ## Energy
 
@@ -680,8 +684,8 @@ _under 914 m_: 22 (2021)<br>
 352 km gas, 85 km liquid petroleum gas, 1,065 km oil, 5 km oil/gas/water (2013)<br>
 
 **Railways**<br>
-_total_: 2,852 km (2014)<br>
-_narrow gauge_: 2,729 km (2014) 1.067-m gauge<br>
+_total_: 2,761 km (2022)<br>
+_narrow gauge_: 2,638 km (2022) 1.067-m gauge<br>
 123 km 0.600-mm gauge<br>
 
 **Roadways**<br>

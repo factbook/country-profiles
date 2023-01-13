@@ -164,7 +164,7 @@ _female_: 84.79 years (2022 est.)<br>
 1.83 children born/woman (2022 est.)<br>
 
 **Gross reproduction rate**<br>
-0.89 (2022 est.)<br>
+0.89 (2023 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 NA<br>
@@ -212,11 +212,11 @@ _total_: 16.2% (2020 est.)<br>
 _male_: 17% (2020 est.)<br>
 _female_: 15.4% (2020 est.)<br>
 
-**Currently married women (ages 15-49)**<br>
-50.5% (2022 est.)<br>
-
 **Children under the age of 5 years underweight**<br>
 NA<br>
+
+**Currently married women (ages 15-49)**<br>
+50.2% (2023 est.)<br>
 
 **Education expenditures**<br>
 5.9% of GDP (2020 est.)<br>
@@ -232,9 +232,9 @@ _male_: 18 years<br>
 _female_: 19 years (2020)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 12.6%<br>
-_male_: 13.3%<br>
-_female_: 11.8% (2021 est.)<br>
+_total_: 13%<br>
+_male_: 13.5%<br>
+_female_: 12.5% (2021 est.)<br>
 
 ## Environment
 
@@ -394,29 +394,29 @@ _selected World Heritage Site locales_: Bryggen (c); Urnes Stave Church (c); Rø
 <p>Norway has a stable economy with a vibrant private sector, a large state sector, and an extensive social safety net. Norway opted out of the EU during a referendum in November 1994. However, as a member of the European Economic Area, Norway partially participates in the EU’s single market and contributes sizably to the EU budget.</p> <p>The country is richly endowed with natural resources such as oil and gas, fish, forests, and minerals. Norway is a leading producer and the world’s second largest exporter of seafood, after China. The government manages the country’s petroleum resources through extensive regulation. The petroleum sector provides about 9% of jobs, 12% of GDP, 13% of the state’s revenue, and 37% of exports, according to official national estimates. Norway is one of the world's leading petroleum exporters, although oil production is close to 50% below its peak in 2000. Gas production, conversely, has more than doubled since 2000. Although oil production is historically low, it rose in 2016 for the third consecutive year due to the higher production of existing oil fields and to new fields coming on stream. Norway’s domestic electricity production relies almost entirely on hydropower.</p> <p>In anticipation of eventual declines in oil and gas production, Norway saves state revenue from petroleum sector activities in the world's largest sovereign wealth fund, valued at over $1 trillion at the end of 2017. To help balance the federal budget each year, the government follows a "fiscal rule," which states that spending of revenues from petroleum and fund investments shall correspond to the expected real rate of return on the fund, an amount it estimates is sustainable over time. In February 2017, the government revised the expected rate of return for the fund downward from 4% to 3%.</p> <p> </p> <p>After solid GDP growth in the 2004-07 period, the economy slowed in 2008, and contracted in 2009, before returning to modest, positive growth from 2010 to 2017. The Norwegian economy has been adjusting to lower energy prices, as demonstrated by growth in labor force participation and employment in 2017. GDP growth was about 1.5% in 2017, driven largely by domestic demand, which has been boosted by the rebound in the labor market and supportive fiscal policies. Economic growth is expected to remain constant or improve slightly in the next few years.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
-$342.06 billion (2020 est.)<br>
-$344.69 billion (2019 est.)<br>
-$341.78 billion (2018 est.)<br>
+$355.122 billion (2021 est.)<br>
+$341.855 billion (2020 est.)<br>
+$344.324 billion (2019 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
-0.86% (2019 est.)<br>
-1.36% (2018 est.)<br>
-2.75% (2017 est.)<br>
+3.88% (2021 est.)<br>
+-0.72% (2020 est.)<br>
+0.75% (2019 est.)<br>
 
 **Real GDP per capita**<br>
-$63,600 (2020 est.)<br>
-$64,500 (2019 est.)<br>
-$64,300 (2018 est.)<br>
+$65,700 (2021 est.)<br>
+$63,500 (2020 est.)<br>
+$64,400 (2019 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
 $405.695 billion (2019 est.)<br>
 
 **Inflation rate (consumer prices)**<br>
-2.1% (2019 est.)<br>
-2.7% (2018 est.)<br>
-1.8% (2017 est.)<br>
+3.48% (2021 est.)<br>
+1.29% (2020 est.)<br>
+2.17% (2019 est.)<br>
 
 **Credit ratings**<br>
 _Fitch rating_: AAA (1995)<br>
@@ -444,10 +444,10 @@ milk, barley, wheat, potatoes, oats, pork, poultry, beef, eggs, rye<br>
 petroleum and gas, shipping, fishing, aquaculture, food processing, shipbuilding, pulp and paper products, metals, chemicals, timber, mining, textiles<br>
 
 **Industrial production growth rate**<br>
-1.5% (2017 est.)<br>
+2.19% (2021 est.)<br>
 
 **Labor force**<br>
-2.699 million (2020 est.)<br>
+2.971 million (2021 est.)<br>
 
 **Labor force - by occupation**<br>
 _agriculture_: 2.1%<br>
@@ -455,20 +455,20 @@ _industry_: 19.3%<br>
 _services_: 78.6% (2016 est.)<br>
 
 **Unemployment rate**<br>
-3.72% (2019 est.)<br>
-3.89% (2018 est.)<br>
+4.99% (2021 est.)<br>
+4.42% (2020 est.)<br>
+3.69% (2019 est.)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 12.6%<br>
-_male_: 13.3%<br>
-_female_: 11.8% (2021 est.)<br>
+_total_: 13%<br>
+_male_: 13.5%<br>
+_female_: 12.5% (2021 est.)<br>
 
 **Population below poverty line**<br>
 12.7% (2018 est.)<br>
 
 **Gini Index coefficient - distribution of family income**<br>
 27 (2017 est.)<br>
-25.8 (1995)<br>
 
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 3.8%<br>
@@ -487,19 +487,20 @@ _expenditures_: 199.5 billion (2017 est.)<br>
 <strong>note:</strong> data cover general government debt and include debt instruments issued (or owned) by government entities other than the treasury; the data exclude treasury debt held by foreign entities; the data exclude debt issued by subnational entities, as well as intragovernmental debt; intragovernmental debt consists of treasury borrowings from surpluses in the social funds, such as for retirement, medical care, and unemployment; debt instruments for the social funds are not sold at public auctions<br>
 
 **Taxes and other revenues**<br>
-54.4% (of GDP) (2017 est.)<br>
+21.09% (of GDP) (2020 est.)<br>
 
 **Fiscal year**<br>
 calendar year<br>
 
 **Current account balance**<br>
-$16.656 billion (2019 est.)<br>
-$31.111 billion (2018 est.)<br>
+$71.551 billion (2021 est.)<br>
+$4.223 billion (2020 est.)<br>
+$11.919 billion (2019 est.)<br>
 
 **Exports**<br>
-$117.06 billion (2020 est.) note: data are in current year dollars<br>
-$146.71 billion (2019 est.) note: data are in current year dollars<br>
-$165.37 billion (2018 est.) note: data are in current year dollars<br>
+$199.074 billion (2021 est.) note: data are in current year dollars<br>
+$116.718 billion (2020 est.) note: data are in current year dollars<br>
+$146.28 billion (2019 est.) note: data are in current year dollars<br>
 
 **Exports - partners**<br>
 United Kingdom 18%, Germany 14%, Netherlands 10%, Sweden 9%, France 6%, United States 5% (2019)<br>
@@ -508,9 +509,9 @@ United Kingdom 18%, Germany 14%, Netherlands 10%, Sweden 9%, France 6%, United S
 crude petroleum, natural gas, fish, refined petroleum, aluminum (2019)<br>
 
 **Imports**<br>
-$119 (2020 est.) note: data are in current year dollars<br>
-$140 (2019 est.) note: data are in current year dollars<br>
-$140 (2018 est.) note: data are in current year dollars<br>
+$140.444 billion (2021 est.) note: data are in current year dollars<br>
+$119.632 billion (2020 est.) note: data are in current year dollars<br>
+$140.211 billion (2019 est.) note: data are in current year dollars<br>
 
 **Imports - partners**<br>
 Sweden 17%, Germany 12%, China 8%, Denmark 7%, United States 6%, United Kingdom 5%, Netherlands 5% (2019)<br>
@@ -519,8 +520,9 @@ Sweden 17%, Germany 12%, China 8%, Denmark 7%, United States 6%, United Kingdom 
 cars, refined petroleum, broadcasting equipment, natural gas, crude petroleum (2019)<br>
 
 **Reserves of foreign exchange and gold**<br>
-$65.92 billion (31 December 2017 est.)<br>
-$57.46 billion (31 December 2015 est.)<br>
+$84.271 billion (31 December 2021 est.)<br>
+$75.259 billion (31 December 2020 est.)<br>
+$66.946 billion (31 December 2019 est.)<br>
 
 **Debt - external**<br>
 $651.04 billion (2019 est.)<br>
@@ -529,11 +531,11 @@ $648.878 billion (2018 est.)<br>
 
 **Exchange rates**<br>
 _Currency_: Norwegian kroner (NOK) per US dollar -<br>
-8.81535 (2020 est.)<br>
-9.14245 (2019 est.)<br>
-8.4837 (2018 est.)<br>
-8.0646 (2014 est.)<br>
-6.3021 (2013 est.)<br>
+8.59 (2021 est.)<br>
+9.416 (2020 est.)<br>
+8.8 (2019 est.)<br>
+8.133 (2018 est.)<br>
+8.272 (2017 est.)<br>
 
 ## Energy
 
@@ -713,6 +715,6 @@ Norway is a member of NATO and was one of the original 12 countries to sign the 
 <p><em>Norway-Antarctica</em>: Norway asserts a territorial claim in Antarctica (Queen Maud Land and its continental shelf)</p> <p><em>Norway-Russia</em>: Russia amended its 2001 CLCS submission in 2015 and 2021, each time delineating the outer limits of its continental shelf further into the Arctic Ocean; Norway and Russia signed a comprehensive maritime boundary agreement in 2010, ending a dispute over an area of the Barents Sea by dividing the territory equally</p> <p><em>Norway-Sweden</em>: none identified</p> <p> </p> <p> </p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 15,542 (Syria), 11,965 (Eritrea) (mid-year 2021); 35,649 (Ukraine) (as of 23 December 2022)<br>
+_refugees (country of origin)_: 15,901 (Syria), 10,883 (Eritrea) (mid-year 2022); 36,582 (Ukraine) (as of 31 December 2022)<br>
 _stateless persons_: 4,154 (mid-year 2021)<br>
 

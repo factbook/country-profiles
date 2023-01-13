@@ -158,7 +158,7 @@ _female_: 75.88 years (2022 est.)<br>
 1.9 children born/woman (2022 est.)<br>
 
 **Gross reproduction rate**<br>
-0.92 (2022 est.)<br>
+0.92 (2023 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 70.2% (2017)<br>
@@ -203,11 +203,11 @@ _total_: 17.4% (2020 est.)<br>
 _male_: 34.8% (2020 est.)<br>
 _female_: 0% (2020 est.)<br>
 
-**Currently married women (ages 15-49)**<br>
-69.5% (2022 est.)<br>
-
 **Children under the age of 5 years underweight**<br>
 9.3% (2017)<br>
+
+**Currently married women (ages 15-49)**<br>
+69.7% (2023 est.)<br>
 
 **Education expenditures**<br>
 NA<br>
@@ -222,6 +222,11 @@ _female_: 100% (2015)<br>
 _total_: 11 years<br>
 _male_: 11 years<br>
 _female_: 11 years (2015)<br>
+
+**Youth unemployment rate (ages 15-24)**<br>
+_total_: 6.1%<br>
+_male_: 5.4%<br>
+_female_: 6.9% (2021 est.)<br>
 
 ## Environment
 
@@ -408,7 +413,7 @@ military products; machine building, electric power, chemicals; mining (coal, ir
 1% (2017 est.)<br>
 
 **Labor force**<br>
-14 million (2014 est.)<br>
+17.16 million (2021 est.)<br>
 <strong>note:</strong> estimates vary widely<br>
 
 **Labor force - by occupation**<br>
@@ -416,8 +421,14 @@ _agriculture_: 37%<br>
 _industry_: 63% (2008 est.)<br>
 
 **Unemployment rate**<br>
-25.6% (2013 est.)<br>
-25.5% (2012 est.)<br>
+2.59% (2021 est.)<br>
+2.92% (2020 est.)<br>
+2.59% (2019 est.)<br>
+
+**Youth unemployment rate (ages 15-24)**<br>
+_total_: 6.1%<br>
+_male_: 5.4%<br>
+_female_: 6.9% (2021 est.)<br>
 
 **Population below poverty line**<br>
 NA<br>

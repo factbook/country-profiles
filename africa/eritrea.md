@@ -162,7 +162,7 @@ _female_: 69.53 years (2022 est.)<br>
 3.58 children born/woman (2022 est.)<br>
 
 **Gross reproduction rate**<br>
-1.76 (2022 est.)<br>
+1.73 (2023 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 NA<br>
@@ -215,11 +215,11 @@ _total_: 7.5% (2020 est.)<br>
 _male_: 14.7% (2020 est.)<br>
 _female_: 0.2% (2020 est.)<br>
 
-**Currently married women (ages 15-49)**<br>
-52.6% (2022 est.)<br>
-
 **Children under the age of 5 years underweight**<br>
 NA<br>
+
+**Currently married women (ages 15-49)**<br>
+52.3% (2023 est.)<br>
 
 **Education expenditures**<br>
 NA<br>
@@ -234,6 +234,11 @@ _female_: 68.9% (2018)<br>
 _total_: 8 years<br>
 _male_: 8 years<br>
 _female_: 7 years (2015)<br>
+
+**Youth unemployment rate (ages 15-24)**<br>
+_total_: 14.6%<br>
+_male_: 13.1%<br>
+_female_: 16.4% (2021 est.)<br>
 
 ## Environment
 
@@ -433,15 +438,21 @@ food processing, beverages, clothing and textiles, light manufacturing, salt, ce
 5.4% (2017 est.)<br>
 
 **Labor force**<br>
-2.71 million (2017 est.)<br>
+1.675 million (2021 est.)<br>
 
 **Labor force - by occupation**<br>
 _agriculture_: 80%<br>
 _industry_: 20% (2004 est.)<br>
 
 **Unemployment rate**<br>
-5.8% (2017 est.)<br>
-10% (2016 est.)<br>
+8.05% (2021 est.)<br>
+7.86% (2020 est.)<br>
+5.99% (2019 est.)<br>
+
+**Youth unemployment rate (ages 15-24)**<br>
+_total_: 14.6%<br>
+_male_: 13.1%<br>
+_female_: 16.4% (2021 est.)<br>
 
 **Population below poverty line**<br>
 50% (2004 est.)<br>
@@ -492,8 +503,9 @@ UAE 14.5%, China 13.2%, Saudi Arabia 13.2%, Italy 12.9%, Turkey 5.6%, South Afri
 machinery, petroleum products, food, manufactured goods<br>
 
 **Reserves of foreign exchange and gold**<br>
-$236.7 million (31 December 2017 est.)<br>
-$218.4 million (31 December 2016 est.)<br>
+$191,694,400 (31 December 2019 est.)<br>
+$163,033,700 (31 December 2018 est.)<br>
+$143,412,400 (31 December 2017 est.)<br>
 
 **Debt - external**<br>
 $792.7 million (31 December 2017 est.)<br>
@@ -501,11 +513,11 @@ $875.6 million (31 December 2016 est.)<br>
 
 **Exchange rates**<br>
 _Currency_: nakfa (ERN) per US dollar -<br>
-15.38 (2017 est.)<br>
-15.375 (2016 est.)<br>
-15.375 (2015 est.)<br>
-15.375 (2014 est.)<br>
-15.375 (2013 est.)<br>
+15.075 (2021 est.)<br>
+15.075 (2020 est.)<br>
+15.075 (2019 est.)<br>
+15.075 (2018 est.)<br>
+15.075 (2017 est.)<br>
 
 ## Energy
 

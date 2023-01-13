@@ -161,7 +161,7 @@ _female_: 68.72 years (2022 est.)<br>
 3.56 children born/woman (2022 est.)<br>
 
 **Gross reproduction rate**<br>
-1.76 (2022 est.)<br>
+1.69 (2023 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 49.7% (2019)<br>
@@ -215,11 +215,11 @@ _total_: 5.7% (2020 est.)<br>
 _male_: 10.1% (2020 est.)<br>
 _female_: 1.3% (2020 est.)<br>
 
-**Currently married women (ages 15-49)**<br>
-52.2% (2022 est.)<br>
-
 **Children under the age of 5 years underweight**<br>
 5.4% (2019)<br>
+
+**Currently married women (ages 15-49)**<br>
+51.9% (2023 est.)<br>
 
 **Child marriage**<br>
 _women married by age 15_: 5.4%<br>
@@ -241,9 +241,9 @@ _male_: 12 years<br>
 _female_: 13 years (2015)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 20.8%<br>
-_male_: NA<br>
-_female_: (2012 est.) NA<br>
+_total_: 22.9%<br>
+_male_: 18% NA<br>
+_female_: 34.3% (2021 est.) NA<br>
 
 ## Environment
 
@@ -395,27 +395,27 @@ _lyrics/music_: Alda Neves DA GRACA do Espirito Santo/Manuel dos Santos Barreto 
 <p>The economy of São Tomé and Príncipe is small, based mainly on agricultural production, and, since independence in 1975, increasingly dependent on the export of cocoa beans. Cocoa production has substantially declined in recent years because of drought and mismanagement. Sao Tome depends heavily on imports of food, fuels, most manufactured goods, and consumer goods, and changes in commodity prices affect the country’s inflation rate. Maintaining control of inflation, fiscal discipline, and increasing flows of foreign direct investment into the nascent oil sector are major economic problems facing the country. In recent years the government has attempted to reduce price controls and subsidies. In 2017, several business-related laws were enacted that aim to improve the business climate.</p> <p> </p> <p>São Tomé and Príncipe has had difficulty servicing its external debt and has relied heavily on concessional aid and debt rescheduling. In April 2011, the country completed a Threshold Country Program with The Millennium Challenge Corporation to help increase tax revenues, reform customs, and improve the business environment. In 2016, Sao Tome and Portugal signed a five-year cooperation agreement worth approximately $64 million, some of which will be provided as loans. In 2017, China and São Tomé signed a mutual cooperation agreement in areas such as infrastructure, health, and agriculture worth approximately $146 million over five years.</p> <p> </p> <p>Considerable potential exists for development of tourism, and the government has taken steps to expand tourist facilities in recent years. Potential also exists for the development of petroleum resources in São Tomé and Príncipe's territorial waters in the oil-rich Gulf of Guinea, some of which are being jointly developed in a 60-40 split with Nigeria, but production is at least several years off.</p> <p> </p> <p>Volatile aid and investment inflows have limited growth, and poverty remains high. Restricteded capacity at the main port increases the periodic risk of shortages of consumer goods. Contract enforcement in the country’s judicial system is difficult. The IMF in late 2016 expressed concern about vulnerabilities in the country’s banking sector, although the country plans some austerity measures in line with IMF recommendations under their three year extended credit facility. Deforestation, coastal erosion, poor waste management, and misuse of natural resources also are challenging issues.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
-$890 million (2020 est.)<br>
-$860 million (2019 est.)<br>
-$840 million (2018 est.)<br>
+$904.057 million (2021 est.)<br>
+$887.393 million (2020 est.)<br>
+$861.341 million (2019 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
-3.9% (2017 est.)<br>
-4.2% (2016 est.)<br>
-3.8% (2015 est.)<br>
+1.88% (2021 est.)<br>
+3.02% (2020 est.)<br>
+2.21% (2019 est.)<br>
 
 **Real GDP per capita**<br>
+$4,100 (2021 est.)<br>
 $4,100 (2020 est.)<br>
 $4,000 (2019 est.)<br>
-$4,000 (2018 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
 $0 (2018 est.)<br>
 
 **Inflation rate (consumer prices)**<br>
-7.8% (2018 est.)<br>
+7.86% (2018 est.)<br>
 5.7% (2017 est.)<br>
 
 **GDP - composition, by sector of origin**<br>
@@ -438,10 +438,10 @@ plantains, oil palm fruit, coconuts, taro, bananas, fruit, cocoa, yams, cassava,
 light construction, textiles, soap, beer, fish processing, timber<br>
 
 **Industrial production growth rate**<br>
-5% (2017 est.)<br>
+1.44% (2021 est.)<br>
 
 **Labor force**<br>
-72,600 (2017 est.)<br>
+71,400 (2021 est.)<br>
 
 **Labor force - by occupation**<br>
 _agriculture_: 26.1%<br>
@@ -449,20 +449,20 @@ _industry_: 21.4%<br>
 _services_: 52.5% (2014 est.)<br>
 
 **Unemployment rate**<br>
-12.2% (2017 est.)<br>
-12.6% (2016 est.)<br>
+15.91% (2021 est.)<br>
+15.75% (2020 est.)<br>
+14.14% (2019 est.)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 20.8%<br>
-_male_: NA<br>
-_female_: (2012 est.) NA<br>
+_total_: 22.9%<br>
+_male_: 18% NA<br>
+_female_: 34.3% (2021 est.) NA<br>
 
 **Population below poverty line**<br>
 66.7% (2017 est.)<br>
 
 **Gini Index coefficient - distribution of family income**<br>
 56.3 (2017 est.)<br>
-32.1 (2000 est.)<br>
 
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: NA<br>
@@ -486,13 +486,14 @@ _expenditures_: 112.4 million (2017 est.)<br>
 calendar year<br>
 
 **Current account balance**<br>
--$32 million (2017 est.)<br>
--$23 million (2016 est.)<br>
+-$95.248 million (2021 est.)<br>
+-$59.595 million (2020 est.)<br>
+-$90.026 million (2019 est.)<br>
 
 **Exports**<br>
-$50 million (2020 est.) note: data are in current year dollars<br>
-$70 million (2019 est.) note: data are in current year dollars<br>
-$100 million (2018 est.) note: data are in current year dollars<br>
+$75.256 million (2021 est.) note: data are in current year dollars<br>
+$49.337 million (2020 est.) note: data are in current year dollars<br>
+$72.594 million (2019 est.) note: data are in current year dollars<br>
 
 **Exports - partners**<br>
 Singapore 30%, Switzerland 24%, France 11%, Poland 7%, Belgium 7%, United States 5% (2019)<br>
@@ -501,9 +502,9 @@ Singapore 30%, Switzerland 24%, France 11%, Poland 7%, Belgium 7%, United States
 gas turbines, cocoa beans, aircraft parts, iron products, chocolate (2019)<br>
 
 **Imports**<br>
-$160 million (2020 est.) note: data are in current year dollars<br>
-$190 million (2019 est.) note: data are in current year dollars<br>
-$200 million (2018 est.) note: data are in current year dollars<br>
+$201.145 million (2021 est.) note: data are in current year dollars<br>
+$160.097 million (2020 est.) note: data are in current year dollars<br>
+$189.63 million (2019 est.) note: data are in current year dollars<br>
 
 **Imports - partners**<br>
 Portugal 41%, Angola 17%, China 8% (2019 )<br>
@@ -512,8 +513,9 @@ Portugal 41%, Angola 17%, China 8% (2019 )<br>
 refined petroleum, cars, rice, flavored water, postage stamps (2019)<br>
 
 **Reserves of foreign exchange and gold**<br>
-$58.95 million (31 December 2017 est.)<br>
-$61.5 million (31 December 2016 est.)<br>
+$75.288 million (31 December 2020 est.)<br>
+$47.148 million (31 December 2019 est.)<br>
+$43.684 million (31 December 2018 est.)<br>
 
 **Debt - external**<br>
 $292.9 million (31 December 2017 est.)<br>
@@ -521,11 +523,11 @@ $308.5 million (31 December 2016 est.)<br>
 
 **Exchange rates**<br>
 _Currency_: dobras (STD) per US dollar -<br>
-22,689 (2017 est.)<br>
-21,797 (2016 est.)<br>
-22,149 (2015 est.)<br>
-22,091 (2014 est.)<br>
-18,466 (2013 est.)<br>
+21.507 (2020 est.)<br>
+21.885 (2019 est.)<br>
+20.751 (2018 est.)<br>
+21.741 (2017 est.)<br>
+22.149 (2016 est.)<br>
 
 ## Energy
 

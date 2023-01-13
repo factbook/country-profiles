@@ -168,7 +168,7 @@ _female_: 72.69 years (2022 est.)<br>
 2.45 children born/woman (2022 est.)<br>
 
 **Gross reproduction rate**<br>
-1.2 (2022 est.)<br>
+1.18 (2023 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 29.3% (2017)<br>
@@ -217,11 +217,11 @@ _wine_: 0.01 liters of pure alcohol (2019 est.)<br>
 _spirits_: 0.45 liters of pure alcohol (2019 est.)<br>
 _other alcohols_: 0 liters of pure alcohol (2019 est.)<br>
 
-**Currently married women (ages 15-49)**<br>
-72.2% (2022 est.)<br>
-
 **Children under the age of 5 years underweight**<br>
 7.6% (2017)<br>
+
+**Currently married women (ages 15-49)**<br>
+72% (2023 est.)<br>
 
 **Child marriage**<br>
 _women married by age 15_: 0.1%<br>
@@ -240,6 +240,11 @@ _female_: 99.7% (2015)<br>
 _total_: 11 years<br>
 _male_: 12 years<br>
 _female_: 11 years (2013)<br>
+
+**Youth unemployment rate (ages 15-24)**<br>
+_total_: 17.4%<br>
+_male_: 19.4%<br>
+_female_: 14.4% (2021 est.)<br>
 
 ## Environment
 
@@ -406,20 +411,20 @@ _selected World Heritage Site locales_: Proto-urban Site of Sarazm (c); Tajik Na
 <p>Tajikistan is a poor, mountainous country with an economy dominated by minerals extraction, metals processing, agriculture, and reliance on remittances from citizens working abroad. Mineral resources include silver, gold, uranium, antimony, tungsten, and coal. Industry consists mainly of small obsolete factories in food processing and light industry, substantial hydropower facilities, and a large aluminum plant - currently operating well below its capacity. The 1992-97 civil war severely damaged an already weak economic infrastructure and caused a sharp decline in industrial and agricultural production. Today, Tajikistan is the poorest among the former Soviet republics. Because less than 7% of the land area is arable and cotton is the predominant crop, Tajikistan imports approximately 70% of its food.</p> <p> </p> <p>Since the end of the civil war, the country has pursued half-hearted reforms and privatizations in the economic sphere, but its poor business climate remains a hindrance to attracting foreign investment. Some experts estimate the value of narcotics transiting Tajikistan is equivalent to 30%-50% of GDP.</p> <p> </p> <p>Because of a lack of employment opportunities in Tajikistan, more than one million Tajik citizens work abroad - roughly 90% in Russia - supporting families back home through remittances that in 2017 were equivalent to nearly 35% of GDP. Tajikistan’s large remittances from migrant workers in Russia exposes it to monetary shocks. Tajikistan often delays devaluation of its currency for fear of inflationary pressures on food and other consumables. Recent slowdowns in the Russian and Chinese economies, low commodity prices, and currency fluctuations have hampered economic growth. The dollar value of remittances from Russia to Tajikistan dropped by almost 65% in 2015, and the government spent almost $500 million in 2016 to bail out the country’s still troubled banking sector.</p> <p> </p> <p>Tajikistan’s growing public debt – currently about 50% of GDP – could result in financial difficulties. Remittances from Russia increased in 2017, however, bolstering the economy somewhat. China owns about 50% of Tajikistan’s outstanding debt. Tajikistan has borrowed heavily to finance investment in the country’s vast hydropower potential. In 2016, Tajikistan contracted with the Italian firm Salini Impregilo to build the Roghun dam over a 13-year period for $3.9 billion. A 2017 Eurobond has largely funded Roghun’s first phase, after which sales from Roghun’s output are expected to fund the rest of its construction. The government has not ruled out issuing another Eurobond to generate auxiliary funding for its second phase.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
-$34.88 billion (2020 est.)<br>
-$33.38 billion (2019 est.)<br>
-$31.08 billion (2018 est.)<br>
+$38.058 billion (2021 est.)<br>
+$34.851 billion (2020 est.)<br>
+$33.382 billion (2019 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
-7.1% (2017 est.)<br>
-6.9% (2016 est.)<br>
-6% (2015 est.)<br>
+9.2% (2021 est.)<br>
+4.4% (2020 est.)<br>
+7.4% (2019 est.)<br>
 
 **Real GDP per capita**<br>
+$3,900 (2021 est.)<br>
 $3,700 (2020 est.)<br>
 $3,600 (2019 est.)<br>
-$3,400 (2018 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
@@ -455,10 +460,10 @@ milk, potatoes, wheat, watermelons, onions, tomatoes, vegetables, cotton, carrot
 aluminum, cement, coal, gold, silver, antimony, textile, vegetable oil<br>
 
 **Industrial production growth rate**<br>
-1% (2017 est.)<br>
+22.04% (2021 est.)<br>
 
 **Labor force**<br>
-2.295 million (2016 est.)<br>
+2.5 million (2021 est.)<br>
 
 **Labor force - by occupation**<br>
 _agriculture_: 43%<br>
@@ -466,16 +471,21 @@ _industry_: 10.6%<br>
 _services_: 46.4% (2016 est.)<br>
 
 **Unemployment rate**<br>
-2.4% (2016 est.)<br>
-2.5% (2015 est.)<br>
+7.75% (2021 est.)<br>
+7.58% (2020 est.)<br>
+7.06% (2019 est.)<br>
 <strong>note:</strong> official rate; actual unemployment is much higher<br>
+
+**Youth unemployment rate (ages 15-24)**<br>
+_total_: 17.4%<br>
+_male_: 19.4%<br>
+_female_: 14.4% (2021 est.)<br>
 
 **Population below poverty line**<br>
 26.3% (2019 est.)<br>
 
 **Gini Index coefficient - distribution of family income**<br>
 34 (2015 est.)<br>
-34.7 (1998)<br>
 
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: (2009 est.) NA<br>
@@ -499,13 +509,14 @@ _expenditures_: 2.374 billion (2017 est.)<br>
 calendar year<br>
 
 **Current account balance**<br>
--$35 million (2017 est.)<br>
--$362 million (2016 est.)<br>
+$734.735 million (2021 est.)<br>
+$335.906 million (2020 est.)<br>
+-$185.295 million (2019 est.)<br>
 
 **Exports**<br>
-$1.41 billion (2020 est.) note: data are in current year dollars<br>
-$1.24 billion (2019 est.) note: data are in current year dollars<br>
-$1.12 billion (2018 est.) note: data are in current year dollars<br>
+$2.161 billion (2021 est.) note: data are in current year dollars<br>
+$1.409 billion (2020 est.) note: data are in current year dollars<br>
+$1.243 billion (2019 est.) note: data are in current year dollars<br>
 
 **Exports - partners**<br>
 Turkey 24%, Switzerland 22%, Uzbekistan 16%, Kazakhstan 12%, China 10% (2019)<br>
@@ -514,9 +525,9 @@ Turkey 24%, Switzerland 22%, Uzbekistan 16%, Kazakhstan 12%, China 10% (2019)<br
 gold, aluminum, cotton, zinc, antimony, lead (2019)<br>
 
 **Imports**<br>
-$3.13 billion (2020 est.) note: data are in current year dollars<br>
-$3.41 billion (2019 est.) note: data are in current year dollars<br>
-$3.22 billion (2018 est.) note: data are in current year dollars<br>
+$4.258 billion (2021 est.) note: data are in current year dollars<br>
+$3.125 billion (2020 est.) note: data are in current year dollars<br>
+$3.409 billion (2019 est.) note: data are in current year dollars<br>
 
 **Imports - partners**<br>
 China 40%, Russia 38%, Kazakhstan 19%, Uzbekistan 5% (2019)<br>
@@ -525,8 +536,9 @@ China 40%, Russia 38%, Kazakhstan 19%, Uzbekistan 5% (2019)<br>
 refined petroleum, wheat, natural gas, bauxite, aircraft (2019)<br>
 
 **Reserves of foreign exchange and gold**<br>
-$1.292 billion (31 December 2017 est.)<br>
-$652.8 million (31 December 2016 est.)<br>
+$2.499 billion (31 December 2021 est.)<br>
+$2.238 billion (31 December 2020 est.)<br>
+$1.466 billion (31 December 2019 est.)<br>
 
 **Debt - external**<br>
 $6.47 billion (2019 est.)<br>
@@ -534,11 +546,11 @@ $5.849 billion (2018 est.)<br>
 
 **Exchange rates**<br>
 _Currency_: Tajikistani somoni (TJS) per US dollar -<br>
-8.764 (2017 est.)<br>
-7.8358 (2016 est.)<br>
-7.8358 (2015 est.)<br>
-6.1631 (2014 est.)<br>
-4.9348 (2013 est.)<br>
+11.309 (2021 est.)<br>
+10.322 (2020 est.)<br>
+9.53 (2019 est.)<br>
+9.151 (2018 est.)<br>
+8.55 (2017 est.)<br>
 
 ## Energy
 
@@ -612,7 +624,7 @@ _total subscriptions_: 9.904 million (2019)<br>
 _subscriptions per 100 inhabitants_: 111.53 (2019)<br>
 
 **Telecommunication systems**<br>
-_general assessment_: the nation of Tajikistan has had to struggle through a further two years of economic hardship following the onset of the Covid-19 pandemic; the strain on financial resources inevitably means a continuation of the absence of any meaningful investment or development programs for telecommunications infrastructure; the fixed line telephony and fixed broadband markets continue to languish far behind the mobile sector in terms of teledensity and penetration; with only around 6,000 fixed broadband customers (0.07% penetration), there would appear to be massive growth potential but the limited fixed line infrastructure in the country suggests there&rsquo;s little likelihood of that occurring any time soon; the size of Tajikistan&rsquo;s mobile market dwarfs the fixed line segment, with an estimated penetration rate of nearly 120%; with a number of private sector companies active in the mobile market, there been more commitment to investment in network upgrades and expansion; three MNOs have all launched commercial 5G services, initially in areas of the capital city Dushanbe; the move towards higher speed mobile services should further underpin the growth in the nascent mobile broadband market, which is still estimated to be at a relatively low penetration level of 42% (at least relative to most other Asian nations) but is predicted to be a strong compound annual growth rate of more than 8% for at least the next five years (2021)<br>
+_general assessment_: the nation of Tajikistan has had to struggle through a further two years of economic hardship following the onset of the Covid-19 pandemic; the strain on financial resources inevitably means a continuation of the absence of any meaningful investment or development programs for telecommunications infrastructure; the fixed line telephony and fixed broadband markets continue to languish far behind the mobile sector in terms of teledensity and penetration; with only around 6,000 fixed broadband customers (0.07% penetration), there would appear to be massive growth potential, but the limited fixed line infrastructure in the country suggests there&rsquo;s little likelihood of that occurring any time soon; the size of Tajikistan&rsquo;s mobile market dwarfs the fixed line segment, with an estimated penetration rate of nearly 120%; with a number of private sector companies active in the mobile market, there been more commitment to investment in network upgrades and expansion; three MNOs have all launched commercial 5G services, initially in areas of the capital city Dushanbe; the move towards higher speed mobile services should further underpin the growth in the nascent mobile broadband market, which is still estimated to be at a relatively low penetration level of 42% (at least relative to most other Asian nations) but is predicted to be a strong compound annual growth rate of more than 8% for at least the next five years (2021)<br>
 _domestic_: fixed line availability has not changed significantly since 1998, while mobile cellular subscribership, aided by competition among multiple operators, has expanded; coverage now extends to all major cities and towns; fixed-line over 5 per 100 and mobile-cellular over 121 per 100 (2020)<br>
 _international_: country code - 992; linked by cable and microwave radio relay to other CIS republics and by leased connections to the Moscow international gateway switch; Dushanbe linked by Intelsat to international gateway switch in Ankara (Turkey); 3 satellite earth stations - 2 Intelsat and 1 Orbita<br>
 <strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress toward 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>

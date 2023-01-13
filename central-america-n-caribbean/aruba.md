@@ -151,7 +151,7 @@ _female_: 81.15 years (2022 est.)<br>
 1.83 children born/woman (2022 est.)<br>
 
 **Gross reproduction rate**<br>
-0.9 (2022 est.)<br>
+0.9 (2023 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 NA<br>
@@ -181,11 +181,11 @@ _unimproved: total_: total: 2.3% of population (2015 est.)<br>
 **HIV/AIDS - adult prevalence rate**<br>
 NA<br>
 
-**Currently married women (ages 15-49)**<br>
-42.2% (2022 est.)<br>
-
 **Children under the age of 5 years underweight**<br>
 NA<br>
+
+**Currently married women (ages 15-49)**<br>
+42.1% (2023 est.)<br>
 
 **Education expenditures**<br>
 5.5% of GDP (2016 est.)<br>
@@ -321,24 +321,27 @@ _lyrics/music_: Juan Chabaya 'Padu' LAMPE/Rufo Inocencio WEVER<br>
 <p>Tourism, petroleum bunkering, hospitality, and financial and business services are the mainstays of the small open Aruban economy.</p> <p> </p> <p>Tourism accounts for a majority of economic activity; as of 2017, over 2 million tourists visited Aruba annually, with the large majority (80-85%) of those from the US. The rapid growth of the tourism sector has resulted in a substantial expansion of other activities. Construction continues to boom, especially in the hospitality sector.</p> <p> </p> <p>Aruba is heavily dependent on imports and is making efforts to expand exports to improve its trade balance. Almost all consumer and capital goods are imported, with the US, the Netherlands, and Panama being the major suppliers.</p> <p> </p> <p>In 2016, Citgo Petroleum Corporation, an indirect wholly owned subsidiary of Petroleos de Venezuela SA, and the Government of Aruba signed an agreement to restart Valero Energy Corp.'s former 235,000-b/d refinery. Tourism and related industries have continued to grow, and the Aruban Government is working to attract more diverse industries. Aruba's banking sector continues to be a strong sector; unemployment has significantly decreased.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
-$4.05 billion (2017 est.)<br>
-$4.107 billion (2016 est.)<br>
+$4.141 billion (2021 est.)<br>
+$3.534 billion (2020 est.)<br>
+$4.341 billion (2019 est.)<br>
 
 **Real GDP growth rate**<br>
-1.2% (2017 est.)<br>
--0.1% (2016 est.)<br>
--0.4% (2015 est.)<br>
+17.17% (2021 est.)<br>
+-18.59% (2020 est.)<br>
+0.64% (2019 est.)<br>
 
 **Real GDP per capita**<br>
-$38,442 (2017 est.)<br>
-$37,300 (2016 est.)<br>
+$38,900 (2021 est.)<br>
+$33,200 (2020 est.)<br>
+$40,800 (2019 est.)<br>
 
 **GDP (official exchange rate)**<br>
 $2.7 billion (2017 est.)<br>
 
 **Inflation rate (consumer prices)**<br>
--0.5% (2017 est.)<br>
--0.9% (2016 est.)<br>
+4.26% (2019 est.)<br>
+3.63% (2018 est.)<br>
+-1.03% (2017 est.)<br>
 
 **Credit ratings**<br>
 _Fitch rating_: BB (2020)<br>
@@ -405,13 +408,14 @@ _expenditures_: 755.5 million (2017 est.)<br>
 calendar year<br>
 
 **Current account balance**<br>
-$22 million (2017 est.)<br>
-$133 million (2016 est.)<br>
+$79.257 million (2021 est.)<br>
+-$316.455 million (2020 est.)<br>
+$84.797 million (2019 est.)<br>
 
 **Exports**<br>
-$1.45 billion (2020 est.)<br>
-$2.56 billion (2019 est.)<br>
-$2.56 billion (2018 est.)<br>
+$2.201 billion (2021 est.)<br>
+$1.444 billion (2020 est.)<br>
+$2.562 billion (2019 est.)<br>
 <strong>note:</strong> Data are in current year dollars and do not include illicit exports or re-exports.<br>
 
 **Exports - partners**<br>
@@ -421,9 +425,9 @@ Malaysia 57%, United States 11%, Netherlands 6%, Jordan 6%, Venezuela 5% (2019)<
 refined petroleum, liquors, scrap iron, soap, tobacco (2019)<br>
 
 **Imports**<br>
-$1.67 billion (2020 est.) note: data are in current year dollars<br>
+$1.947 billion (2021 est.) note: data are in current year dollars<br>
+$1.644 billion (2020 est.) note: data are in current year dollars<br>
 $2.24 billion (2019 est.) note: data are in current year dollars<br>
-$2.27 billion (2018 est.) note: data are in current year dollars<br>
 
 **Imports - partners**<br>
 United States 48%, Netherlands 16% (2019)<br>
@@ -432,8 +436,9 @@ United States 48%, Netherlands 16% (2019)<br>
 refined petroleum, jewelry, cars, vehicle parts, tobacco products (2019)<br>
 
 **Reserves of foreign exchange and gold**<br>
-$921.8 million (31 December 2017 est.)<br>
-$828 million (31 December 2015 est.)<br>
+$1.513 billion (31 December 2021 est.)<br>
+$1.213 billion (31 December 2020 est.)<br>
+$982.3 million (31 December 2019 est.)<br>
 
 **Debt - external**<br>
 $693.2 million (31 December 2014 est.)<br>
@@ -441,11 +446,11 @@ $666.4 million (31 December 2013 est.)<br>
 
 **Exchange rates**<br>
 _Currency_: Aruban guilders/florins per US dollar -<br>
+1.79 (2021 est.)<br>
+1.79 (2020 est.)<br>
+1.79 (2019 est.)<br>
+1.79 (2018 est.)<br>
 1.79 (2017 est.)<br>
-1.79 (2016 est.)<br>
-1.79 (2015 est.)<br>
-1.79 (2014 est.)<br>
-1.79 (2013 est.)<br>
 
 ## Energy
 

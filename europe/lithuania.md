@@ -161,7 +161,7 @@ _female_: 81.44 years (2022 est.)<br>
 1.61 children born/woman (2022 est.)<br>
 
 **Gross reproduction rate**<br>
-0.78 (2022 est.)<br>
+0.78 (2023 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 NA<br>
@@ -213,11 +213,11 @@ _total_: 32% (2020 est.)<br>
 _male_: 42.1% (2020 est.)<br>
 _female_: 21.8% (2020 est.)<br>
 
-**Currently married women (ages 15-49)**<br>
-53.4% (2022 est.)<br>
-
 **Children under the age of 5 years underweight**<br>
 NA<br>
+
+**Currently married women (ages 15-49)**<br>
+53.4% (2023 est.)<br>
 
 **Education expenditures**<br>
 4% of GDP (2019 est.)<br>
@@ -234,9 +234,9 @@ _male_: 16 years<br>
 _female_: 17 years (2020)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 14.3%<br>
-_male_: 14%<br>
-_female_: 14.7% (2021 est.)<br>
+_total_: 19%<br>
+_male_: 18.5%<br>
+_female_: 19.6% (2021 est.)<br>
 
 ## Environment
 
@@ -401,29 +401,29 @@ _selected World Heritage Site locales_: Vilnius Historic Center; Curonian Spit; 
 <p>After the country declared independence from the Soviet Union in 1990, Lithuania faced an initial dislocation that is typical during transitions from a planned economy to a free-market economy. Macroeconomic stabilization policies, including privatization of most state-owned enterprises, and a strong commitment to a currency board arrangement led to an open and rapidly growing economy and rising consumer demand. Foreign investment and EU funding aided in the transition. Lithuania joined the WTO in May 2001, the EU in May 2004, and the euro zone in January 2015, and is now working to complete the OECD accession roadmap it received in July 2015. In 2017, joined the OECD Working Group on Bribery, an important step in the OECD accession process.</p> <p> </p> <p>The Lithuanian economy was severely hit by the 2008-09 global financial crisis, but it has rebounded and become one of the fastest growing in the EU. Increases in exports, investment, and wage growth that supported consumption helped the economy grow by 3.6% in 2017. In 2015, Russia was Lithuania’s largest trading partner, followed by Poland, Germany, and Latvia; goods and services trade between the US and Lithuania totaled $2.2 billion. Lithuania opened a self-financed liquefied natural gas terminal in January 2015, providing the first non-Russian supply of natural gas to the Baltic States and reducing Lithuania’s dependence on Russian gas from 100% to approximately 30% in 2016.</p> <p> </p> <p>Lithuania’s ongoing recovery hinges on improving the business environment, especially by liberalizing labor laws, and improving competitiveness and export growth, the latter hampered by economic slowdowns in the EU and Russia. In addition, a steady outflow of young and highly educated people is causing a shortage of skilled labor, which, combined with a rapidly aging population, could stress public finances and constrain long-term growth.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
-$102.66 billion (2020 est.)<br>
-$103.56 billion (2019 est.)<br>
-$99.25 billion (2018 est.)<br>
+$110.089 billion (2021 est.)<br>
+$103.876 billion (2020 est.)<br>
+$103.898 billion (2019 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
-4.33% (2019 est.)<br>
-3.99% (2018 est.)<br>
-4.37% (2017 est.)<br>
+5.98% (2021 est.)<br>
+-0.02% (2020 est.)<br>
+4.63% (2019 est.)<br>
 
 **Real GDP per capita**<br>
-$36,700 (2020 est.)<br>
-$37,100 (2019 est.)<br>
-$35,400 (2018 est.)<br>
+$39,300 (2021 est.)<br>
+$37,200 (2020 est.)<br>
+$37,200 (2019 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
 $54.597 billion (2019 est.)<br>
 
 **Inflation rate (consumer prices)**<br>
-2.3% (2019 est.)<br>
-2.7% (2018 est.)<br>
-3.7% (2017 est.)<br>
+4.68% (2021 est.)<br>
+1.2% (2020 est.)<br>
+2.33% (2019 est.)<br>
 
 **Credit ratings**<br>
 _Fitch rating_: A (2020)<br>
@@ -451,10 +451,10 @@ wheat, milk, sugar beets, rapeseeds, barley, triticale, potatoes, oats, peas, be
 metal-cutting machine tools, electric motors, televisions, refrigerators and freezers, petroleum refining, shipbuilding (small ships), furniture, textiles, food processing, fertilizer, agricultural machinery, optical equipment, lasers, electronic components, computers, amber jewelry, information technology, video game development, app/software development, biotechnology<br>
 
 **Industrial production growth rate**<br>
-5.9% (2017 est.)<br>
+8.58% (2021 est.)<br>
 
 **Labor force**<br>
-1.333 million (2020 est.)<br>
+1.476 million (2021 est.)<br>
 
 **Labor force - by occupation**<br>
 _agriculture_: 9.1%<br>
@@ -462,20 +462,20 @@ _industry_: 25.2%<br>
 _services_: 65.8% (2015 est.)<br>
 
 **Unemployment rate**<br>
-8.4% (2019 est.)<br>
-8.5% (2018 est.)<br>
+7.9% (2021 est.)<br>
+8.49% (2020 est.)<br>
+6.26% (2019 est.)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 14.3%<br>
-_male_: 14%<br>
-_female_: 14.7% (2021 est.)<br>
+_total_: 19%<br>
+_male_: 18.5%<br>
+_female_: 19.6% (2021 est.)<br>
 
 **Population below poverty line**<br>
 20.6% (2018 est.)<br>
 
 **Gini Index coefficient - distribution of family income**<br>
-37.3 (2017 est.)<br>
-35 (2014)<br>
+35.3 (2019 est.)<br>
 
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 2.2%<br>
@@ -489,24 +489,26 @@ _expenditures_: 15.7 billion (2017 est.)<br>
 0.5% (of GDP) (2017 est.)<br>
 
 **Public debt**<br>
-39.7% of GDP (2017 est.)<br>
-40.1% of GDP (2016 est.)<br>
+53.28% of GDP (2020 est.)<br>
+42.66% of GDP (2019 est.)<br>
+39% of GDP (2018 est.)<br>
 <strong>note:</strong> official data; data cover general government debt and include debt instruments issued (or owned) by government entities other than the treasury; the data include treasury debt held by foreign entities, debt issued by subnational entities, as well as intragovernmental debt; intragovernmental debt consists of treasury borrowings from surpluses in the social funds, such as for retirement, medical care, and unemployment; debt instruments for the social funds are sold at public auctions<br>
 
 **Taxes and other revenues**<br>
-33.7% (of GDP) (2017 est.)<br>
+19.88% (of GDP) (2020 est.)<br>
 
 **Fiscal year**<br>
 calendar year<br>
 
 **Current account balance**<br>
-$1.817 billion (2019 est.)<br>
-$131 million (2018 est.)<br>
+$756.476 million (2021 est.)<br>
+$4.165 billion (2020 est.)<br>
+$1.929 billion (2019 est.)<br>
 
 **Exports**<br>
-$41.48 billion (2020 est.) note: data are in current year dollars<br>
-$42.3 billion (2019 est.) note: data are in current year dollars<br>
-$40.36 billion (2018 est.) note: data are in current year dollars<br>
+$53.397 billion (2021 est.) note: data are in current year dollars<br>
+$41.721 billion (2020 est.) note: data are in current year dollars<br>
+$42.323 billion (2019 est.) note: data are in current year dollars<br>
 
 **Exports - partners**<br>
 Russia 13%, Latvia 9%, Poland 8%, Germany 7%, Estonia 5% (2019)<br>
@@ -515,9 +517,9 @@ Russia 13%, Latvia 9%, Poland 8%, Germany 7%, Estonia 5% (2019)<br>
 refined petroleum, furniture, cigarettes, wheat, polyethylene (2019)<br>
 
 **Imports**<br>
-$36.06 billion (2020 est.) note: data are in current year dollars<br>
-$39.46 billion (2019 est.) note: data are in current year dollars<br>
-$39.38 billion (2018 est.) note: data are in current year dollars<br>
+$50.377 billion (2021 est.) note: data are in current year dollars<br>
+$36.414 billion (2020 est.) note: data are in current year dollars<br>
+$39.419 billion (2019 est.) note: data are in current year dollars<br>
 
 **Imports - partners**<br>
 Poland 12%, Russia 12%, Germany 12%, Latvia 7%, Netherlands 5% (2019)<br>
@@ -526,8 +528,9 @@ Poland 12%, Russia 12%, Germany 12%, Latvia 7%, Netherlands 5% (2019)<br>
 crude petroleum, cars, packaged medicines, refined petroleum, electricity (2019)<br>
 
 **Reserves of foreign exchange and gold**<br>
-$4.45 billion (31 December 2017 est.)<br>
-$1.697 billion (31 December 2015 est.)<br>
+$5.58 billion (31 December 2021 est.)<br>
+$4.847 billion (31 December 2020 est.)<br>
+$5.085 billion (31 December 2019 est.)<br>
 
 **Debt - external**<br>
 $37.859 billion (2019 est.)<br>
@@ -535,11 +538,11 @@ $41.999 billion (2018 est.)<br>
 
 **Exchange rates**<br>
 _Currency_: litai (LTL) per US dollar -<br>
-0.82771 (2020 est.)<br>
-0.90338 (2019 est.)<br>
-0.87789 (2018 est.)<br>
-0.9012 (2014 est.)<br>
-0.7525 (2013 est.)<br>
+0.845 (2021 est.)<br>
+0.876 (2020 est.)<br>
+0.893 (2019 est.)<br>
+0.847 (2018 est.)<br>
+0.885 (2017 est.)<br>
 
 ## Energy
 
@@ -717,7 +720,7 @@ Lithuania became a member of NATO in 2004<br> <p>since 2017, Lithuania has hoste
 <p><em>Lithuania-Belarus</em>: as of January 2007, ground demarcation of the boundary with Belarus was complete and mapped with final ratification documents in preparation</p> <p><em>Lithuania-Lativa</em>: boundary demarcated with Latvia was completed in 1998</p> <p><em>Lithuania-Russia</em>:<strong> </strong>Lithuania and Russia committed to demarcating their boundary in 2006 in accordance with the land and maritime treaty ratified by Russia in May 2003 and by Lithuania in 1999; Lithuania operates a simplified transit regime for Russian nationals traveling from the Kaliningrad coastal exclave into Russia, while still conforming, as a EU member state having an external border with a non-EU member, to strict Schengen border rules; in January 2018, demarcation of the Lithuania-Russia border was completed</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 72,302 (Ukraine) (as of 27 December 2022)<br>
+_refugees (country of origin)_: 72,480 (Ukraine) (as of 2 January 2023)<br>
 _stateless persons_: 2,721 (mid-year 2021)<br>
 
 **Illicit drugs**<br>

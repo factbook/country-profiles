@@ -164,7 +164,7 @@ _female_: 84.59 years (2022 est.)<br>
 1.77 children born/woman (2022 est.)<br>
 
 **Gross reproduction rate**<br>
-0.86 (2022 est.)<br>
+0.86 (2023 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 66.7% (2018)<br>
@@ -212,11 +212,11 @@ _total_: 23.4% (2020 est.)<br>
 _male_: 25.8% (2020 est.)<br>
 _female_: 21% (2020 est.)<br>
 
-**Currently married women (ages 15-49)**<br>
-44% (2022 est.)<br>
-
 **Children under the age of 5 years underweight**<br>
 1% (2014/15)<br>
+
+**Currently married women (ages 15-49)**<br>
+43.2% (2023 est.)<br>
 
 **Education expenditures**<br>
 6.7% of GDP (2020 est.)<br>
@@ -232,9 +232,9 @@ _male_: 18 years<br>
 _female_: 20 years (2020)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 18.2%<br>
-_male_: 19.9%<br>
-_female_: 16.2% (2021 est.)<br>
+_total_: 19.6%<br>
+_male_: 18.9%<br>
+_female_: 20.4% (2021 est.)<br>
 
 ## Environment
 
@@ -395,29 +395,29 @@ _selected World Heritage Site locales_: Belfries of Belgium (c); Historic Brugge
 <p>Belgium’s central geographic location and highly developed transport network have helped develop a well-diversified economy, with a broad mix of transport, services, manufacturing, and high tech. Service and high-tech industries are concentrated in the northern Flanders region while the southern region of Wallonia is home to industries like coal and steel manufacturing. Belgium is completely reliant on foreign sources of fossil fuels, and the planned closure of its seven nuclear plants by 2025 should increase its dependence on foreign energy. Its role as a regional logistical hub makes its economy vulnerable to shifts in foreign demand, particularly with EU trading partners. Roughly three-quarters of Belgium's trade is with other EU countries, and the port of Zeebrugge conducts almost half its trade with the United Kingdom alone, leaving Belgium’s economy vulnerable to the outcome of negotiations on the UK’s exit from the EU.</p> <p> </p> <p>Belgium’s GDP grew by 1.7% in 2017 and the budget deficit was 1.5% of GDP. Unemployment stood at 7.3%, however the unemployment rate is lower in Flanders than Wallonia, 4.4% compared to 9.4%, because of industrial differences between the regions. The economy largely recovered from the March 2016 terrorist attacks that mainly impacted the Brussels region tourist and hospitality industry. Prime Minister Charles MICHEL's center-right government has pledged to further reduce the deficit in response to EU pressure to decrease Belgium's high public debt of about 104% of GDP, but such efforts would also dampen economic growth. In addition to restrained public spending, low wage growth and higher inflation promise to curtail a more robust recovery in private consumption.</p> <p> </p> <p>The government has pledged to pursue a reform program to improve Belgium’s competitiveness, including changes to labor market rules and welfare benefits. These changes have generally made Belgian wages more competitive regionally, but have raised tensions with trade unions, which have called for extended strikes. In 2017, Belgium approved a tax reform plan to ease corporate rates from 33% to 29% by 2018 and down to 25% by 2020. The tax plan also included benefits for innovation and SMEs, intended to spur competitiveness and private investment.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
-$557.11 billion (2020 est.)<br>
-$594.47 billion (2019 est.)<br>
-$584.05 billion (2018 est.)<br>
+$599.814 billion (2021 est.)<br>
+$565.149 billion (2020 est.)<br>
+$597.165 billion (2019 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
-1.41% (2019 est.)<br>
-1.49% (2018 est.)<br>
-1.9% (2017 est.)<br>
+6.13% (2021 est.)<br>
+-5.36% (2020 est.)<br>
+2.24% (2019 est.)<br>
 
 **Real GDP per capita**<br>
-$48,200 (2020 est.)<br>
-$51,700 (2019 est.)<br>
-$51,100 (2018 est.)<br>
+$51,700 (2021 est.)<br>
+$49,000 (2020 est.)<br>
+$52,000 (2019 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
 $533.028 billion (2019 est.)<br>
 
 **Inflation rate (consumer prices)**<br>
-1.4% (2019 est.)<br>
-2% (2018 est.)<br>
-2.1% (2017 est.)<br>
+2.44% (2021 est.)<br>
+0.74% (2020 est.)<br>
+1.44% (2019 est.)<br>
 
 **Credit ratings**<br>
 _Fitch rating_: AA- (2016)<br>
@@ -445,10 +445,10 @@ sugar beets, milk, potatoes, wheat, pork, lettuce, poultry, maize, barley, pears
 engineering and metal products, motor vehicle assembly, transportation equipment, scientific instruments, processed food and beverages, chemicals, pharmaceuticals, base metals, textiles, glass, petroleum<br>
 
 **Industrial production growth rate**<br>
-0.2% (2017 est.)<br>
+1.28% (2021 est.)<br>
 
 **Labor force**<br>
-4.122 million (2020 est.)<br>
+5.24 million (2021 est.)<br>
 
 **Labor force - by occupation**<br>
 _agriculture_: 1.3%<br>
@@ -456,20 +456,20 @@ _industry_: 18.6%<br>
 _services_: 80.1% (2013 est.)<br>
 
 **Unemployment rate**<br>
+6.42% (2021 est.)<br>
+5.55% (2020 est.)<br>
 5.36% (2019 est.)<br>
-5.96% (2018 est.)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 18.2%<br>
-_male_: 19.9%<br>
-_female_: 16.2% (2021 est.)<br>
+_total_: 19.6%<br>
+_male_: 18.9%<br>
+_female_: 20.4% (2021 est.)<br>
 
 **Population below poverty line**<br>
 14.8% (2018 est.)<br>
 
 **Gini Index coefficient - distribution of family income**<br>
-27.4 (2017 est.)<br>
-28.7 (1996)<br>
+27.2 (2019 est.)<br>
 
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 3.4%<br>
@@ -483,24 +483,26 @@ _expenditures_: 258.6 billion (2017 est.)<br>
 -1% (of GDP) (2017 est.)<br>
 
 **Public debt**<br>
-103.4% of GDP (2017 est.)<br>
-106% of GDP (2016 est.)<br>
+119.43% of GDP (2020 est.)<br>
+103.38% of GDP (2019 est.)<br>
+101.39% of GDP (2018 est.)<br>
 <strong>note:</strong> data cover general government debt and include debt instruments issued (or owned) by government entities other than the treasury; the data include treasury debt held by foreign entities; the data include debt issued by subnational entities, as well as intra-governmental debt; intra-governmental debt consists of treasury borrowings from surpluses in the social funds, such as for retirement, medical care, and unemployment; debt instruments for the social funds are not sold at public auctions; general government debt is defined by the Maastricht definition and calculated by the National Bank of Belgium as consolidated gross debt; the debt is defined in European Regulation EC479/2009 concerning the implementation of the protocol on the excessive deficit procedure annexed to the Treaty on European Union (Treaty of Maastricht) of 7 February 1992; the sub-sectors of consolidated gross debt are: federal government, communities and regions, local government, and social security funds<br>
 
 **Taxes and other revenues**<br>
-51.3% (of GDP) (2017 est.)<br>
+21.97% (of GDP) (2020 est.)<br>
 
 **Fiscal year**<br>
 calendar year<br>
 
 **Current account balance**<br>
-$1.843 billion (2019 est.)<br>
--$4.135 billion (2018 est.)<br>
+$2.917 billion (2021 est.)<br>
+$5.702 billion (2020 est.)<br>
+$507.275 million (2019 est.)<br>
 
 **Exports**<br>
-$414.79 billion (2020 est.)<br>
-$436.3 billion (2019 est.)<br>
-$451.25 billion (2018 est.)<br>
+$515.625 billion (2021 est.)<br>
+$417.222 billion (2020 est.)<br>
+$441.566 billion (2019 est.)<br>
 <strong>note:</strong> Data are in current year dollars and do not include illicit exports or re-exports.<br>
 
 **Exports - partners**<br>
@@ -510,9 +512,9 @@ Germany 17%, France 14%, Netherlands 13%, United Kingdom 8%, United States 6%, I
 cars and vehicle parts, refined petroleum, packaged medicines, medical cultures/vaccines, diamonds, natural gas (2019)<br>
 
 **Imports**<br>
-$412.85 billion (2020 est.) note: data are in current year dollars<br>
-$433.04 billion (2019 est.) note: data are in current year dollars<br>
-$452.53 billion (2018 est.) note: data are in current year dollars<br>
+$509.018 billion (2021 est.) note: data are in current year dollars<br>
+$408.343 billion (2020 est.) note: data are in current year dollars<br>
+$438.221 billion (2019 est.) note: data are in current year dollars<br>
 
 **Imports - partners**<br>
 Netherlands 16%, Germany 13%, France 10%, United States 8%, Ireland 5%, China 5% (2019)<br>
@@ -521,8 +523,9 @@ Netherlands 16%, Germany 13%, France 10%, United States 8%, Ireland 5%, China 5%
 cars, refined petroleum, packaged medicines, medical cultures/vaccines, diamonds, natural gas (2019)<br>
 
 **Reserves of foreign exchange and gold**<br>
-$26.16 billion (31 December 2017 est.)<br>
-$24.1 billion (31 December 2015 est.)<br>
+$41.872 billion (31 December 2021 est.)<br>
+$33.296 billion (31 December 2020 est.)<br>
+$28.97 billion (31 December 2019 est.)<br>
 
 **Debt - external**<br>
 $1,317,513,000,000 (2019 est.)<br>
@@ -530,11 +533,11 @@ $1,332,358,000,000 (2018 est.)<br>
 
 **Exchange rates**<br>
 _Currency_: euros (EUR) per US dollar -<br>
-0.828 (2020 est.)<br>
-0.903 (2019 est.)<br>
-0.878 (2018 est.)<br>
-0.885 (2014 est.)<br>
-0.763 (2013 est.)<br>
+0.845 (2021 est.)<br>
+0.876 (2020 est.)<br>
+0.893 (2019 est.)<br>
+0.847 (2018 est.)<br>
+0.885 (2017 est.)<br>
 
 ## Energy
 
@@ -721,7 +724,7 @@ Islamic Revolutionary Guard Corps/Qods Force; Islamic State of Iraq and ash-Sham
 <p>none identified</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 18,493 (Syria), 5,094 (Iraq) (2020); 64,436 (Ukraine) (as of 13 December 2022)<br>
+_refugees (country of origin)_: 20,086 (Syria), 7,049 (Afghanistan), 5,769 (Iraq) (mid-year 2022); 65,658 (Ukraine) (as of 3 January 2023)<br>
 _stateless persons_: 1,159 (mid-year 2021)<br>
 
 **Illicit drugs**<br>

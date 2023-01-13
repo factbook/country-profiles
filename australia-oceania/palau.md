@@ -153,7 +153,7 @@ _female_: 78 years (2022 est.)<br>
 1.7 children born/woman (2022 est.)<br>
 
 **Gross reproduction rate**<br>
-0.82 (2022 est.)<br>
+0.82 (2023 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 NA<br>
@@ -196,11 +196,11 @@ _total_: 17.6% (2020 est.)<br>
 _male_: 27.3% (2020 est.)<br>
 _female_: 7.9% (2020 est.)<br>
 
-**Currently married women (ages 15-49)**<br>
-45.8% (2022 est.)<br>
-
 **Children under the age of 5 years underweight**<br>
 NA<br>
+
+**Currently married women (ages 15-49)**<br>
+45.6% (2023 est.)<br>
 
 **Education expenditures**<br>
 6.8% of GDP (2019)<br>
@@ -372,27 +372,28 @@ _selected World Heritage Site locales_: Rock Islands Southern Lagoon<br>
 <p>The economy is dominated by tourism, fishing, and subsistence agriculture. Government is a major employer of the work force relying on financial assistance from the US under the Compact of Free Association (Compact) with the US that took effect after the end of the UN trusteeship on 1 October 1994. The US provided Palau with roughly $700 million in aid for the first 15 years following commencement of the Compact in 1994 in return for unrestricted access to its land and waterways for strategic purposes. The population enjoys a per capita income roughly double that of the Philippines and much of Micronesia.</p> <p> </p> <p>Business and leisure tourist arrivals reached a record 167,966 in 2015, a 14.4% increase over the previous year, but fell to 138,408 in 2016. Long-run prospects for tourism have been bolstered by the expansion of air travel in the Pacific, the rising prosperity of industrial East Asia, and the willingness of foreigners to finance infrastructure development. Proximity to Guam, the region's major destination for tourists from East Asia, and a regionally competitive tourist infrastructure enhance Palau's advantage as a destination.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
-$320 million (2019 est.)<br>
-$330 million (2018 est.)<br>
-$317 million (2017 est.)<br>
+$248.468 million (2021 est.)<br>
+$286.694 million (2020 est.)<br>
+$315.42 million (2019 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
--3.7% (2017 est.)<br>
-0% (2016 est.)<br>
-10.1% (2015 est.)<br>
+-13.33% (2021 est.)<br>
+-9.11% (2020 est.)<br>
+0.4% (2019 est.)<br>
 
 **Real GDP per capita**<br>
-$17,600 (2019 est.) note: data are in 2017 dollars<br>
-$18,400 (2018 est.) note: data are in 2017 dollars<br>
-$17,841 (2017 est.)<br>
+$13,800 (2021 est.) note: data are in 2017 dollars<br>
+$16,000 (2020 est.) note: data are in 2017 dollars<br>
+$17,600 (2019 est.)<br>
 
 **GDP (official exchange rate)**<br>
 $292 million (2017 est.)<br>
 
 **Inflation rate (consumer prices)**<br>
-0.9% (2017 est.)<br>
--1% (2016 est.)<br>
+2.61% (2021 est.)<br>
+0.22% (2020 est.)<br>
+0.27% (2019 est.)<br>
 
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 3% (2016 est.)<br>
@@ -414,7 +415,7 @@ coconuts, cassava (manioc, tapioca), sweet potatoes; fish, pigs, chickens, eggs,
 tourism, fishing, subsistence agriculture<br>
 
 **Industrial production growth rate**<br>
-NA<br>
+-3.42% (2021 est.) NA<br>
 
 **Labor force**<br>
 11,610 (2016)<br>
@@ -448,22 +449,25 @@ _expenditures_: 167.3 million (2012 est.)<br>
 8.8% (of GDP) (2016 est.)<br>
 
 **Public debt**<br>
-24.1% of GDP (2016 est.)<br>
-21.6% of GDP (2015)<br>
+86.13% of GDP (2019 est.)<br>
+84.75% of GDP (2018 est.)<br>
+79.83% of GDP (2017 est.)<br>
 
 **Taxes and other revenues**<br>
-66.1% (of GDP) (2016 est.)<br>
+18.59% (of GDP) (2020 est.)<br>
 
 **Fiscal year**<br>
 1 October - 30 September<br>
 
 **Current account balance**<br>
--$53 million (2017 est.)<br>
--$36 million (2016 est.)<br>
+-$63.534 million (2021 est.)<br>
+-$106.379 million (2020 est.)<br>
+-$97.48 million (2019 est.)<br>
 
 **Exports**<br>
-$23.17 billion (2017 est.)<br>
-$14.8 million (2015 est.)<br>
+$12.07 million (2021 est.)<br>
+$58.349 million (2020 est.)<br>
+$107.823 million (2019 est.)<br>
 
 **Exports - partners**<br>
 Japan 70%, South Korea 15%, United States 7% (2019)<br>
@@ -472,8 +476,9 @@ Japan 70%, South Korea 15%, United States 7% (2019)<br>
 fish, computers, broadcasting equipment, office machinery/parts, scrap vessels (2019)<br>
 
 **Imports**<br>
-$4.715 billion (2018 est.)<br>
-$4.079 billion (2017 est.)<br>
+$180.38 million (2021 est.)<br>
+$215.97 million (2020 est.)<br>
+$226.594 million (2019 est.)<br>
 
 **Imports - partners**<br>
 South Korea 19%, China 18%, Taiwan 17%, United States 17%, Japan 16% (2019)<br>
@@ -490,7 +495,12 @@ $18.38 billion (31 December 2014 est.)<br>
 $16.47 billion (31 December 2013 est.)<br>
 
 **Exchange rates**<br>
-<p>the US dollar is used</p><br>
+1 (2021 est.)<br>
+1 (2020 est.)<br>
+1 (2019 est.)<br>
+1 (2018 est.)<br>
+1 (2017 est.)<br>
+the US dollar is used<br>
 
 ## Energy
 

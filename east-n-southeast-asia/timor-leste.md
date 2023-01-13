@@ -163,7 +163,7 @@ _female_: 71.7 years (2022 est.)<br>
 4.21 children born/woman (2022 est.)<br>
 
 **Gross reproduction rate**<br>
-2.04 (2022 est.)<br>
+1.98 (2023 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 26.1% (2016)<br>
@@ -213,11 +213,11 @@ _total_: 39.2% (2020 est.)<br>
 _male_: 67.6% (2020 est.)<br>
 _female_: 10.8% (2020 est.)<br>
 
-**Currently married women (ages 15-49)**<br>
-56.3% (2022 est.)<br>
-
 **Children under the age of 5 years underweight**<br>
 37.5% (2013)<br>
+
+**Currently married women (ages 15-49)**<br>
+55.9% (2023 est.)<br>
 
 **Child marriage**<br>
 _women married by age 15_: 2.6%<br>
@@ -234,9 +234,9 @@ _male_: 71.9%<br>
 _female_: 64.2% (2018)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 13.2%<br>
-_male_: 10.9%<br>
-_female_: 15.9% (2016 est.)<br>
+_total_: 13.8%<br>
+_male_: 11.4%<br>
+_female_: 16.8% (2021 est.)<br>
 
 **People - note**<br>
 one of only two predominantly Christian nations in Southeast Asia, the other being the Philippines<br>
@@ -396,20 +396,20 @@ _lyrics/music_: Fransisco Borja DA COSTA/Afonso DE ARAUJO<br>
 <p>Since independence in 1999, Timor-Leste has faced great challenges in rebuilding its infrastructure, strengthening the civil administration, and generating jobs for young people entering the work force. The development of offshore oil and gas resources has greatly supplemented government revenues. This technology-intensive industry, however, has done little to create jobs in part because there are no production facilities in Timor-Leste. Gas is currently piped to Australia for processing, but Timor-Leste has expressed interest in developing a domestic processing capability.</p> <p> </p> <p>In June 2005, the National Parliament unanimously approved the creation of the Timor-Leste Petroleum Fund to serve as a repository for all petroleum revenues and to preserve the value of Timor-Leste's petroleum wealth for future generations. The Fund held assets of $16 billion, as of mid-2016. Oil accounts for over 90% of government revenues, and the drop in the price of oil in 2014-16 has led to concerns about the long-term sustainability of government spending. Timor-Leste compensated for the decline in price by exporting more oil. The Ministry of Finance maintains that the Petroleum Fund is sufficient to sustain government operations for the foreseeable future.</p> <p> </p> <p>Annual government budget expenditures increased markedly between 2009 and 2012 but dropped significantly through 2016. Historically, the government failed to spend as much as its budget allowed. The government has focused significant resources on basic infrastructure, including electricity and roads, but limited experience in procurement and infrastructure building has hampered these projects. The underlying economic policy challenge the country faces remains how best to use oil-and-gas wealth to lift the non-oil economy onto a higher growth path and to reduce poverty.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
-$4.19 billion (2020 est.)<br>
-$4.59 billion (2019 est.)<br>
-$3.87 billion (2018 est.)<br>
+$6.648 billion (2021 est.)<br>
+$6.313 billion (2020 est.)<br>
+$4.786 billion (2019 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
--4.6% (2017 est.)<br>
-5.3% (2016 est.)<br>
-4% (2015 est.)<br>
+5.29% (2021 est.)<br>
+31.91% (2020 est.)<br>
+23.51% (2019 est.)<br>
 
 **Real GDP per capita**<br>
-$3,200 (2020 est.)<br>
-$3,600 (2019 est.)<br>
-$3,100 (2018 est.)<br>
+$5,000 (2021 est.)<br>
+$4,900 (2020 est.)<br>
+$3,700 (2019 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
@@ -417,8 +417,9 @@ $2.775 billion (2017 est.)<br>
 <strong>note:</strong> non-oil GDP<br>
 
 **Inflation rate (consumer prices)**<br>
-0.6% (2017 est.)<br>
--1.3% (2016 est.)<br>
+0.96% (2019 est.)<br>
+2.29% (2018 est.)<br>
+0.52% (2017 est.)<br>
 
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 9.1% (2017 est.)<br>
@@ -440,10 +441,10 @@ rice, maize, vegetables, coffee, roots/tubers nes, other meats, cassava, pork, b
 printing, soap manufacturing, handicrafts, woven cloth<br>
 
 **Industrial production growth rate**<br>
-2% (2017 est.)<br>
+5.65% (2021 est.)<br>
 
 **Labor force**<br>
-286,700 (2016 est.)<br>
+569,700 (2021 est.)<br>
 
 **Labor force - by occupation**<br>
 _agriculture_: 41%<br>
@@ -451,20 +452,20 @@ _industry_: 13%<br>
 _services_: 45.1% (2013)<br>
 
 **Unemployment rate**<br>
-4.4% (2014 est.)<br>
-3.9% (2010 est.)<br>
+5.07% (2021 est.)<br>
+4.91% (2020 est.)<br>
+4.51% (2019 est.)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 13.2%<br>
-_male_: 10.9%<br>
-_female_: 15.9% (2016 est.)<br>
+_total_: 13.8%<br>
+_male_: 11.4%<br>
+_female_: 16.8% (2021 est.)<br>
 
 **Population below poverty line**<br>
 41.8% (2014 est.)<br>
 
 **Gini Index coefficient - distribution of family income**<br>
 28.7 (2014 est.)<br>
-38 (2002 est.)<br>
 
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 4%<br>
@@ -482,19 +483,20 @@ _expenditures_: 2.4 billion (2017 est.)<br>
 3.1% of GDP (2016 est.)<br>
 
 **Taxes and other revenues**<br>
-10.8% (of GDP) (2017 est.)<br>
+22.86% (of GDP) (2019 est.)<br>
 
 **Fiscal year**<br>
 calendar year<br>
 
 **Current account balance**<br>
--$284 million (2017 est.)<br>
--$544 million (2016 est.)<br>
+$1.022 billion (2021 est.)<br>
+-$308.02 million (2020 est.)<br>
+$133.98 million (2019 est.)<br>
 
 **Exports**<br>
-$60 million (2020 est.) note: data are in current year dollars<br>
-$120 million (2019 est.) note: data are in current year dollars<br>
-$120 million (2018 est.) note: data are in current year dollars<br>
+$2.315 billion (2021 est.) note: data are in current year dollars<br>
+$57.105 million (2020 est.) note: data are in current year dollars<br>
+$117.472 million (2019 est.) note: data are in current year dollars<br>
 
 **Exports - partners**<br>
 Singapore 51%, China 20%, Japan 9%, Indonesia 6% (2019)<br>
@@ -503,9 +505,9 @@ Singapore 51%, China 20%, Japan 9%, Indonesia 6% (2019)<br>
 crude petroleum, natural gas, coffee, various vegetables, scrap iron (2019)<br>
 
 **Imports**<br>
-$850 million (2020 est.) note: data are in current year dollars<br>
-$1.04 billion (2019 est.) note: data are in current year dollars<br>
-$1.06 billion (2018 est.) note: data are in current year dollars<br>
+$1.523 billion (2021 est.) note: data are in current year dollars<br>
+$842 million (2020 est.) note: data are in current year dollars<br>
+$1.039 billion (2019 est.) note: data are in current year dollars<br>
 
 **Imports - partners**<br>
 Indonesia 39%, China 27%, Singapore 10%, Malaysia 5% (2019)<br>
@@ -514,8 +516,9 @@ Indonesia 39%, China 27%, Singapore 10%, Malaysia 5% (2019)<br>
 refined petroleum, cars, cement, delivery trucks, motorcycles (2019)<br>
 
 **Reserves of foreign exchange and gold**<br>
-$544.4 million (31 December 2017 est.)<br>
-$437.8 million (31 December 2015 est.)<br>
+$934.781 million (31 December 2021 est.)<br>
+$656.524 million (31 December 2020 est.)<br>
+$656.221 million (31 December 2019 est.)<br>
 <strong>note:</strong> excludes assets of approximately $9.7 billion in the Petroleum Fund (31 December 2010)<br>
 
 **Debt - external**<br>
@@ -523,7 +526,12 @@ $311.5 million (31 December 2014 est.)<br>
 $687 million (31 December 2013 est.)<br>
 
 **Exchange rates**<br>
-<p>the US dollar is used</p><br>
+1 (2021 est.)<br>
+1 (2020 est.)<br>
+1 (2019 est.)<br>
+1 (2018 est.)<br>
+1 (2017 est.)<br>
+the US dollar is used<br>
 
 ## Energy
 

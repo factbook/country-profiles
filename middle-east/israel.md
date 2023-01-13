@@ -163,7 +163,7 @@ _female_: 85.34 years (2022 est.)<br>
 2.56 children born/woman (2022 est.)<br>
 
 **Gross reproduction rate**<br>
-1.25 (2022 est.)<br>
+1.24 (2023 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 NA<br>
@@ -211,11 +211,11 @@ _total_: 21.2% (2020 est.)<br>
 _male_: 28.9% (2020 est.)<br>
 _female_: 13.5% (2020 est.)<br>
 
-**Currently married women (ages 15-49)**<br>
-51.9% (2022 est.)<br>
-
 **Children under the age of 5 years underweight**<br>
 NA<br>
+
+**Currently married women (ages 15-49)**<br>
+51.7% (2023 est.)<br>
 
 **Education expenditures**<br>
 7.1% of GDP (2020 est.)<br>
@@ -232,9 +232,9 @@ _male_: 15 years<br>
 _female_: 17 years (2020)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 7.9%<br>
-_male_: 7.6%<br>
-_female_: 8.2% (2020 est.)<br>
+_total_: 8.8%<br>
+_male_: 8.4%<br>
+_female_: 9.2% (2021 est.)<br>
 
 ## Environment
 
@@ -402,29 +402,29 @@ _selected World Heritage Site locales_: Masada; Old City of Acre; White City of 
 <p>Israel has a technologically advanced free market economy. Cut diamonds, high-technology equipment, and pharmaceuticals are among its leading exports. Its major imports include crude oil, grains, raw materials, and military equipment. Israel usually posts sizable trade deficits, which are offset by tourism and other service exports, as well as significant foreign investment inflows.</p> <p> </p> <p>Since March 2020, economic growth has slowed compared to recent historical averages, but Israel's slump has been less severe than in other Middle Eastern countries because of its swift vaccine roll-out and diversified economic base. Between 2016 and 2019, growth averaged 3.6% per year, led by exports. Israel's new government is hoping to pass the country's first budget in two years, which, combined with prudent fiscal policy and strong global trade ties would probably enable Israel to recover from economic challenges caused by the COVID-19 pandemic.</p> <p> </p> <p>Natural gas fields discovered off Israel's coast since 2009 have brightened Israel's energy security outlook. The Tamar and Leviathan fields were some of the world's largest offshore natural gas finds in the last decade. In 2020, Israel began exporting gas to Egypt and Jordan.</p> <p> </p> <p>Income inequality and high housing and commodity prices continue to be a concern for many Israelis. Israel's income inequality and poverty rates are among the highest of OECD countries, and there is a broad perception among the public that a small number of "tycoons" have a cartel-like grip over the major parts of the economy. Government officials have called for reforms to boost the housing supply and to increase competition in the banking sector to address these public grievances. Despite calls for reforms, the restricted housing supply continues to impact younger Israelis seeking to purchase homes. Tariffs and non-tariff barriers, coupled with guaranteed prices and customs tariffs for farmers kept food prices high. Private consumption is expected to drive growth through 2021, with consumers benefitting from low inflation and a strong currency.</p> <p> </p> <p>In the long term, Israel faces structural issues including low labor participation rates for its fastest growing social segments - the ultraorthodox and Arab-Israeli communities. Also, Israel's progressive, globally competitive, knowledge-based technology sector employs only about 8% of the workforce, with the rest mostly employed in manufacturing and services - sectors which face downward wage pressures from global competition. Expenditures on educational institutions remain low compared to most other OECD countries with similar GDP per capita.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
-$353.39 billion (2020 est.)<br>
-$362.23 billion (2019 est.)<br>
-$350.15 billion (2018 est.)<br>
+$393.861 billion (2021 est.)<br>
+$362.632 billion (2020 est.)<br>
+$369.494 billion (2019 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
--2.6% (2020 est.)<br>
-3.28% (2019 est.)<br>
-3.69% (2018 est.)<br>
+8.61% (2021 est.)<br>
+-1.86% (2020 est.)<br>
+4.16% (2019 est.)<br>
 
 **Real GDP per capita**<br>
-$38,300 (2020 est.)<br>
-$40,000 (2019 est.)<br>
-$39,400 (2018 est.)<br>
+$42,100 (2021 est.)<br>
+$39,400 (2020 est.)<br>
+$40,800 (2019 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
 $394.93 billion (2019 est.)<br>
 
 **Inflation rate (consumer prices)**<br>
-1.8% (2020 est.)<br>
-0.8% (2019 est.)<br>
-0.8% (2018 est.)<br>
+1.49% (2021 est.)<br>
+-0.59% (2020 est.)<br>
+0.84% (2019 est.)<br>
 
 **Credit ratings**<br>
 _Fitch rating_: A+ (2016)<br>
@@ -452,10 +452,10 @@ milk, potatoes, poultry, tomatoes, carrots, turnips, tangerines/mandarins, green
 high-technology products (including aviation, communications, computer-aided design and manufactures, medical electronics, fiber optics), wood and paper products, potash and phosphates, food, beverages, and tobacco, caustic soda, cement, pharmaceuticals, construction, metal products, chemical products, plastics, cut diamonds, textiles, footwear<br>
 
 **Industrial production growth rate**<br>
-3.5% (2017 est.)<br>
+6.05% (2021 est.)<br>
 
 **Labor force**<br>
-3.893 million (2020 est.)<br>
+4.186 million (2021 est.)<br>
 
 **Labor force - by occupation**<br>
 _agriculture_: 1.1%<br>
@@ -463,23 +463,21 @@ _industry_: 17.3%<br>
 _services_: 81.6% (2015 est.)<br>
 
 **Unemployment rate**<br>
-4.4% (2020 est.)<br>
-3.81% (2019 est.)<br>
-4% (2018 est.)<br>
+5.05% (2021 est.)<br>
+4.33% (2020 est.)<br>
+3.8% (2019 est.)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 7.9%<br>
-_male_: 7.6%<br>
-_female_: 8.2% (2020 est.)<br>
+_total_: 8.8%<br>
+_male_: 8.4%<br>
+_female_: 9.2% (2021 est.)<br>
 
 **Population below poverty line**<br>
 22% (2014 est.)<br>
 <strong>note:</strong> Israel's poverty line is $7.30 per person per day<br>
 
 **Gini Index coefficient - distribution of family income**<br>
-37 (2018 est.)<br>
-39 (2016 est.)<br>
-39.2 (2008)<br>
+38.6 (2018 est.)<br>
 
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 1.7%<br>
@@ -498,20 +496,20 @@ _expenditures_: 100.2 billion (2017 est.)<br>
 60.4% of GDP (2018 est.)<br>
 
 **Taxes and other revenues**<br>
-26.5% (of GDP) (2017 est.)<br>
+21.9% (of GDP) (2020 est.)<br>
 
 **Fiscal year**<br>
 calendar year<br>
 
 **Current account balance**<br>
-$20.642 billion (2020 est.)<br>
-$13.411 billion (2019 est.)<br>
-$7.888 billion (2018 est.)<br>
+$21.09 billion (2021 est.)<br>
+$22.486 billion (2020 est.)<br>
+$14.747 billion (2019 est.)<br>
 
 **Exports**<br>
-$113.87 billion (2020 est.) note: data are in current year dollars<br>
-$115.57 billion (2019 est.) note: data are in current year dollars<br>
-$110.05 billion (2018 est.) note: data are in current year dollars<br>
+$143.884 billion (2021 est.) note: data are in current year dollars<br>
+$114.422 billion (2020 est.) note: data are in current year dollars<br>
+$117.779 billion (2019 est.) note: data are in current year dollars<br>
 
 **Exports - partners**<br>
 United States 26%, China 9%, United Kingdom 7% (2020)<br>
@@ -520,9 +518,9 @@ United States 26%, China 9%, United Kingdom 7% (2020)<br>
 diamonds, packaged medicines, medical instruments, integrated circuits, refined petroleum (2019)<br>
 
 **Imports**<br>
-$96.53 billion (2020 est.) note: data are in current year dollars<br>
-$108.26 billion (2019 est.) note: data are in current year dollars<br>
-$107.74 billion (2018 est.) note: data are in current year dollars<br>
+$124.578 billion (2021 est.) note: data are in current year dollars<br>
+$95.977 billion (2020 est.) note: data are in current year dollars<br>
+$108.784 billion (2019 est.) note: data are in current year dollars<br>
 
 **Imports - partners**<br>
 United States 12%, China 11%, Germany 7.5%, Switzerland 7%, Turkey 6% (2020)<br>
@@ -531,9 +529,9 @@ United States 12%, China 11%, Germany 7.5%, Switzerland 7%, Turkey 6% (2020)<br>
 diamonds, cars, crude petroleum, refined petroleum, broadcasting equipment (2019)<br>
 
 **Reserves of foreign exchange and gold**<br>
-$173.292 billion (2020 est.)<br>
-$113 billion (31 December 2017 est.)<br>
-$95.45 billion (31 December 2016 est.)<br>
+$212.934 billion (31 December 2021 est.)<br>
+$173.292 billion (31 December 2020 est.)<br>
+$126.008 billion (31 December 2019 est.)<br>
 
 **Debt - external**<br>
 $132.5 billion (31 December 2020 est.)<br>
@@ -542,11 +540,11 @@ $94.247 billion (2018 est.)<br>
 
 **Exchange rates**<br>
 _Currency_: new Israeli shekels (ILS) per US dollar -<br>
-3.44 (2020 est.)<br>
-3.4684 (2019 est.)<br>
-3.7332 (2018 est.)<br>
-3.8869 (2014 est.)<br>
-3.5779 (2013 est.)<br>
+3.23 (2021 est.)<br>
+3.442 (2020 est.)<br>
+3.565 (2019 est.)<br>
+3.591 (2018 est.)<br>
+3.6 (2017 est.)<br>
 
 ## Energy
 

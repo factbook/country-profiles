@@ -169,7 +169,7 @@ _female_: 71.48 years (2022 est.)<br>
 3.31 children born/woman (2022 est.)<br>
 
 **Gross reproduction rate**<br>
-1.63 (2022 est.)<br>
+1.61 (2023 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 31.1% (2012)<br>
@@ -219,11 +219,11 @@ _wine_: 0.62 liters of pure alcohol (2019 est.)<br>
 _spirits_: 0.5 liters of pure alcohol (2019 est.)<br>
 _other alcohols_: 0.04 liters of pure alcohol (2019 est.)<br>
 
-**Currently married women (ages 15-49)**<br>
-50% (2022 est.)<br>
-
 **Children under the age of 5 years underweight**<br>
 6.4% (2012)<br>
+
+**Currently married women (ages 15-49)**<br>
+49.7% (2023 est.)<br>
 
 **Education expenditures**<br>
 3.2% of GDP (2020 est.)<br>
@@ -233,6 +233,11 @@ _definition_: age 15 and over can read and write<br>
 _total population_: 84.7%<br>
 _male_: 85.9%<br>
 _female_: 83.4% (2018)<br>
+
+**Youth unemployment rate (ages 15-24)**<br>
+_total_: 38.4%<br>
+_male_: 33.7%<br>
+_female_: 44.4% (2021 est.)<br>
 
 ## Environment
 
@@ -340,8 +345,8 @@ _residency requirement for naturalization_: 10 years<br>
 18 years of age; universal<br>
 
 **Executive branch**<br>
-_chief of state_: President Ali BONGO Ondimba (since 16 October 2009)<br>
-_head of government_: Prime Minister Rose Christiane Ossouka RAPONDA (since 16 July 2020)<br>
+_chief of state_: President Ali BONGO Ondimba (since 16 October 2009)<br><br>Vice President Rose Christiane Ossouka RAPONDA (since 9 January 2023)<br>
+_head of government_: Prime Minister Alain Claude BILIE-BY-NZE (since 9 January 2023)<br>
 _cabinet_: Council of Ministers appointed by the prime minister in consultation with the president<br>
 _elections/appointments_: president directly elected by simple majority popular vote for a 7-year term (no term limits); election last held on 27 August 2016 (next to be held in August 2023); prime minister appointed by the president<br>
 _election results_: Ali BONGO Ondimba reelected president; percent of vote - Ali BONGO Ondimba (PDG) 49.8%, Jean PING (UFC) 48.2%, other 2.0% (2016)<br>
@@ -399,29 +404,29 @@ _selected World Heritage Site locales_: Ecosystem and Relict Cultural Landscape 
 <p>Gabon enjoys a per capita income four times that of most Sub-Saharan African nations, but because of high income inequality, a large proportion of the population remains poor. Gabon relied on timber and manganese exports until oil was discovered offshore in the early 1970s. From 2010 to 2016, oil accounted for approximately 80% of Gabon’s exports, 45% of its GDP, and 60% of its state budget revenues.</p> <p> </p> <p>Gabon faces fluctuating international prices for its oil, timber, and manganese exports. A rebound of oil prices from 2001 to 2013 helped growth, but declining production, as some fields passed their peak production, has hampered Gabon from fully realizing potential gains. GDP grew nearly 6% per year over the 2010-14 period, but slowed significantly from 2014 to just 1% in 2017 as oil prices declined. Low oil prices also weakened government revenue and negatively affected the trade and current account balances. In the wake of lower revenue, Gabon signed a 3-year agreement with the IMF in June 2017.</p> <p> </p> <p>Despite an abundance of natural wealth, poor fiscal management and over-reliance on oil has stifled the economy. Power cuts and water shortages are frequent. Gabon is reliant on imports and the government heavily subsidizes commodities, including food, but will be hard pressed to tamp down public frustration with unemployment and corruption.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
-$32.05 billion (2020 est.)<br>
-$32.48 billion (2019 est.)<br>
-$31.25 billion (2018 est.)<br>
+$32.34 billion (2021 est.)<br>
+$31.874 billion (2020 est.)<br>
+$32.471 billion (2019 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
-0.5% (2017 est.)<br>
-2.1% (2016 est.)<br>
-3.9% (2015 est.)<br>
+1.46% (2021 est.)<br>
+-1.84% (2020 est.)<br>
+3.92% (2019 est.)<br>
 
 **Real GDP per capita**<br>
-$14,400 (2020 est.)<br>
-$15,000 (2019 est.)<br>
-$14,700 (2018 est.)<br>
+$13,800 (2021 est.)<br>
+$13,900 (2020 est.)<br>
+$14,500 (2019 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
 $16.064 billion (2019 est.)<br>
 
 **Inflation rate (consumer prices)**<br>
-2.4% (2019 est.)<br>
-4.7% (2018 est.)<br>
-2.6% (2017 est.)<br>
+1.18% (2020 est.)<br>
+2.46% (2019 est.)<br>
+4.75% (2018 est.)<br>
 
 **Credit ratings**<br>
 _Fitch rating_: CCC (2020)<br>
@@ -449,10 +454,10 @@ plantains, cassava, sugar cane, yams, taro, vegetables, maize, groundnuts, game 
 petroleum extraction and refining; manganese, gold; chemicals, ship repair, food and beverages, textiles, lumbering and plywood, cement<br>
 
 **Industrial production growth rate**<br>
-1.8% (2017 est.)<br>
+3.2% (2021 est.)<br>
 
 **Labor force**<br>
-557,800 (2017 est.)<br>
+718,400 (2021 est.)<br>
 
 **Labor force - by occupation**<br>
 _agriculture_: 64%<br>
@@ -460,8 +465,14 @@ _industry_: 12%<br>
 _services_: 24% (2005 est.)<br>
 
 **Unemployment rate**<br>
-28% (2015 est.)<br>
-20.4% (2014 est.)<br>
+22.26% (2021 est.)<br>
+21.97% (2020 est.)<br>
+20.74% (2019 est.)<br>
+
+**Youth unemployment rate (ages 15-24)**<br>
+_total_: 38.4%<br>
+_male_: 33.7%<br>
+_female_: 44.4% (2021 est.)<br>
 
 **Population below poverty line**<br>
 33.4% (2017 est.)<br>
@@ -485,7 +496,7 @@ _expenditures_: 2.914 billion (2017 est.)<br>
 64.2% of GDP (2016 est.)<br>
 
 **Taxes and other revenues**<br>
-17.6% (of GDP) (2017 est.)<br>
+11.48% (of GDP) (2019 est.)<br>
 
 **Fiscal year**<br>
 calendar year<br>
@@ -517,8 +528,9 @@ France 22%, China 17%, Belgium 6%, United States 6%, United Arab Emirates 5% (20
 poultry meats, excavation machinery, packaged medicines, cars, rice (2019)<br>
 
 **Reserves of foreign exchange and gold**<br>
-$981.6 million (31 December 2017 est.)<br>
-$804.1 million (31 December 2016 est.)<br>
+$1.372 billion (31 December 2019 est.)<br>
+$1.321 billion (31 December 2018 est.)<br>
+$965.054 million (31 December 2017 est.)<br>
 
 **Debt - external**<br>
 $6.49 billion (31 December 2017 est.)<br>
@@ -526,11 +538,11 @@ $5.321 billion (31 December 2016 est.)<br>
 
 **Exchange rates**<br>
 _Currency_: Cooperation Financiere en Afrique Centrale francs (XAF) per US dollar -<br>
-605.3 (2017 est.)<br>
-593.01 (2016 est.)<br>
-593.01 (2015 est.)<br>
-591.45 (2014 est.)<br>
-494.42 (2013 est.)<br>
+554.531 (2021 est.)<br>
+575.586 (2020 est.)<br>
+585.911 (2019 est.)<br>
+555.446 (2018 est.)<br>
+580.657 (2017 est.)<br>
 
 ## Energy
 

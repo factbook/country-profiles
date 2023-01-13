@@ -165,7 +165,7 @@ _female_: 84.79 years (2022 est.)<br>
 1.74 children born/woman (2022 est.)<br>
 
 **Gross reproduction rate**<br>
-0.85 (2022 est.)<br>
+0.85 (2023 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 85.5% (2015)<br>
@@ -214,11 +214,11 @@ _total_: 21.6% (2020 est.)<br>
 _male_: 26.9% (2020 est.)<br>
 _female_: 16.3% (2020 est.)<br>
 
-**Currently married women (ages 15-49)**<br>
-57.3% (2022 est.)<br>
-
 **Children under the age of 5 years underweight**<br>
 NA<br>
+
+**Currently married women (ages 15-49)**<br>
+57.2% (2023 est.)<br>
 
 **Child marriage**<br>
 _women married by age 18_: 0% (2017 est.)<br>
@@ -237,9 +237,9 @@ _male_: 18 years<br>
 _female_: 20 years (2020)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 17.1%<br>
-_male_: 17.8%<br>
-_female_: 16.4% (2021 est.)<br>
+_total_: 18.1%<br>
+_male_: 19%<br>
+_female_: 17.1% (2021 est.)<br>
 
 ## Environment
 
@@ -399,29 +399,29 @@ _selected World Heritage Site locales_: Fortress of Suomenlinna (c); Old Rauma (
 <p>Finland has a highly industrialized, largely free-market economy with per capita GDP almost as high as that of Austria and the Netherlands and slightly above that of Germany and Belgium. Trade is important, with exports accounting for over one-third of GDP in recent years. The government is open to, and actively takes steps to attract, foreign direct investment.</p> <p> </p> <p>Finland is historically competitive in manufacturing, particularly in the wood, metals, engineering, telecommunications, and electronics industries. Finland excels in export of technology as well as promotion of startups in the information and communications technology, gaming, cleantech, and biotechnology sectors. Except for timber and several minerals, Finland depends on imports of raw materials, energy, and some components for manufactured goods. Because of the cold climate, agricultural development is limited to maintaining self-sufficiency in basic products. Forestry, an important export industry, provides a secondary occupation for the rural population.</p> <p> </p> <p>Finland had been one of the best performing economies within the EU before 2009 and its banks and financial markets avoided the worst of global financial crisis. However, the world slowdown hit exports and domestic demand hard in that year, causing Finland’s economy to contract from 2012 to 2014. The recession affected general government finances and the debt ratio. The economy returned to growth in 2016, posting a 1.9% GDP increase before growing an estimated 3.3% in 2017, supported by a strong increase in investment, private consumption, and net exports. Finnish economists expect GDP to grow a rate of 2-3% in the next few years.</p> <p> </p> <p>Finland's main challenges will be reducing high labor costs and boosting demand for its exports. In June 2016, the government enacted a Competitiveness Pact aimed at reducing labor costs, increasing hours worked, and introducing more flexibility into the wage bargaining system. As a result, wage growth was nearly flat in 2017. The Government was also seeking to reform the health care system and social services. In the long term, Finland must address a rapidly aging population and decreasing productivity in traditional industries that threaten competitiveness, fiscal sustainability, and economic growth.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
-$261.39 billion (2020 est.)<br>
-$268.84 billion (2019 est.)<br>
-$265.46 billion (2018 est.)<br>
+$270.143 billion (2021 est.)<br>
+$262.343 billion (2020 est.)<br>
+$268.259 billion (2019 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
-1.15% (2019 est.)<br>
-1.52% (2018 est.)<br>
-3.27% (2017 est.)<br>
+2.97% (2021 est.)<br>
+-2.21% (2020 est.)<br>
+1.22% (2019 est.)<br>
 
 **Real GDP per capita**<br>
-$47,300 (2020 est.)<br>
-$48,700 (2019 est.)<br>
-$48,100 (2018 est.)<br>
+$48,800 (2021 est.)<br>
+$47,400 (2020 est.)<br>
+$48,600 (2019 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
 $269.259 billion (2019 est.)<br>
 
 **Inflation rate (consumer prices)**<br>
-1% (2019 est.)<br>
-1% (2018 est.)<br>
-0.7% (2017 est.)<br>
+2.19% (2021 est.)<br>
+0.29% (2020 est.)<br>
+1.02% (2019 est.)<br>
 
 **Credit ratings**<br>
 _Fitch rating_: AA+ (2016)<br>
@@ -449,10 +449,10 @@ milk, barley, oats, wheat, potatoes, sugar beets, rye, pork, poultry, beef<br>
 metals and metal products, electronics, machinery and scientific instruments, shipbuilding, pulp and paper, foodstuffs, chemicals, textiles, clothing<br>
 
 **Industrial production growth rate**<br>
-6.2% (2017 est.)<br>
+2.77% (2021 est.)<br>
 
 **Labor force**<br>
-2.52 million (2020 est.)<br>
+2.82 million (2021 est.)<br>
 
 **Labor force - by occupation**<br>
 _agriculture_: 4%<br>
@@ -460,20 +460,20 @@ _industry_: 20.7%<br>
 _services_: 75.3% (2017 est.)<br>
 
 **Unemployment rate**<br>
-6.63% (2019 est.)<br>
-7.38% (2018 est.)<br>
+7.53% (2021 est.)<br>
+7.76% (2020 est.)<br>
+6.69% (2019 est.)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 17.1%<br>
-_male_: 17.8%<br>
-_female_: 16.4% (2021 est.)<br>
+_total_: 18.1%<br>
+_male_: 19%<br>
+_female_: 17.1% (2021 est.)<br>
 
 **Population below poverty line**<br>
 12.2% (2019 est.)<br>
 
 **Gini Index coefficient - distribution of family income**<br>
-27.4 (2017 est.)<br>
-22.2 (1995)<br>
+27.7 (2019 est.)<br>
 
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 6.7%<br>
@@ -493,19 +493,20 @@ _expenditures_: 135.6 billion (2017 est.)<br>
 <strong>note:</strong> data cover general government debt and include debt instruments issued (or owned) by government entities other than the treasury; the data include treasury debt held by foreign entities; the data include debt issued by subnational entities, as well as intragovernmental debt; intragovernmental debt consists of treasury borrowings from surpluses in the social funds, such as for retirement, medical care, and unemployment; debt instruments for the social funds are not sold at public auctions<br>
 
 **Taxes and other revenues**<br>
-53.1% (of GDP) (2017 est.)<br>
+19.85% (of GDP) (2020 est.)<br>
 
 **Fiscal year**<br>
 calendar year<br>
 
 **Current account balance**<br>
--$603 million (2019 est.)<br>
--$4.908 billion (2018 est.)<br>
+$1.896 billion (2021 est.)<br>
+$2.169 billion (2020 est.)<br>
+-$879.445 million (2019 est.)<br>
 
 **Exports**<br>
-$108.22 billion (2019 est.) note: data are in current year dollars<br>
-$106.01 billion (2018 est.) note: data are in current year dollars<br>
-$109.513 billion (2017 est.)<br>
+$116.905 billion (2021 est.) note: data are in current year dollars<br>
+$97.789 billion (2020 est.) note: data are in current year dollars<br>
+$107.084 billion (2019 est.)<br>
 
 **Exports - partners**<br>
 Germany 14%, Sweden 10%, United States 8%, Netherlands 6%, China 6%, Russia 5% (2019)<br>
@@ -514,9 +515,9 @@ Germany 14%, Sweden 10%, United States 8%, Netherlands 6%, China 6%, Russia 5% (
 refined petroleum, paper and wood pulp products, cars, stainless steel, lumber (2019)<br>
 
 **Imports**<br>
-$107.39 billion (2019 est.) note: data are in current year dollars<br>
-$109.45 billion (2018 est.) note: data are in current year dollars<br>
-$110.701 billion (2017 est.)<br>
+$116.277 billion (2021 est.) note: data are in current year dollars<br>
+$97.037 billion (2020 est.) note: data are in current year dollars<br>
+$106.664 billion (2019 est.)<br>
 
 **Imports - partners**<br>
 Germany 16%, Sweden 14%, Russia 13%, China 6%, Netherlands 6% (2019)<br>
@@ -525,8 +526,9 @@ Germany 16%, Sweden 14%, Russia 13%, China 6%, Netherlands 6% (2019)<br>
 crude petroleum, cars and vehicle parts, refined petroleum, broadcasting equipment, packaged medicines (2019)<br>
 
 **Reserves of foreign exchange and gold**<br>
-$10.51 billion (31 December 2017 est.)<br>
-$11.2 billion (31 December 2016 est.)<br>
+$16.744 billion (31 December 2021 est.)<br>
+$13.48 billion (31 December 2020 est.)<br>
+$11.427 billion (31 December 2019 est.)<br>
 
 **Debt - external**<br>
 $631.549 billion (2019 est.)<br>
@@ -534,11 +536,11 @@ $536.301 billion (2018 est.)<br>
 
 **Exchange rates**<br>
 _Currency_: euros (EUR) per US dollar -<br>
-0.82771 (2020 est.)<br>
-0.90338 (2019 est.)<br>
-0.87789 (2018 est.)<br>
-0.885 (2014 est.)<br>
-0.7634 (2013 est.)<br>
+0.845 (2021 est.)<br>
+0.876 (2020 est.)<br>
+0.893 (2019 est.)<br>
+0.847 (2018 est.)<br>
+0.885 (2017 est.)<br>
 
 ## Energy
 
@@ -720,6 +722,6 @@ Finland is not a member of NATO, but Finland and NATO have actively cooperated i
 <p>various groups in Finland advocate restoration of Karelia and other areas ceded to the former Soviet Union, but the Finnish Government asserts no territorial demands</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 9,053 (Iraq) (mid-year 2021); 47,111 (Ukraine) (as of 27 December 2022)<br>
+_refugees (country of origin)_: 9,175 (Iraq) (mid-year 2022); 47,138 (Ukraine) (as of 28 December 2022)<br>
 _stateless persons_: 3,416 (mid-year 2021)<br>
 

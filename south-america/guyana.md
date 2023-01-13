@@ -166,7 +166,7 @@ _female_: 73.8 years (2022 est.)<br>
 2.06 children born/woman (2022 est.)<br>
 
 **Gross reproduction rate**<br>
-1.01 (2022 est.)<br>
+1 (2023 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 29.9% (2019/20)<br>
@@ -219,11 +219,11 @@ _total_: 12.1% (2020 est.)<br>
 _male_: 21.7% (2020 est.)<br>
 _female_: 2.4% (2020 est.)<br>
 
-**Currently married women (ages 15-49)**<br>
-62.3% (2022 est.)<br>
-
 **Children under the age of 5 years underweight**<br>
 8.2% (2014)<br>
+
+**Currently married women (ages 15-49)**<br>
+62.6% (2023 est.)<br>
 
 **Education expenditures**<br>
 4.5% of GDP (2018 est.)<br>
@@ -240,9 +240,9 @@ _male_: 11 years<br>
 _female_: 12 years (2012)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 27.4%<br>
-_male_: 23%<br>
-_female_: 33.4% (2019 est.)<br>
+_total_: 29.9%<br>
+_male_: 23.5%<br>
+_female_: 39.6% (2021 est.)<br>
 
 ## Environment
 
@@ -401,28 +401,29 @@ _lyrics/music_: Archibald Leonard LUKERL/Robert Cyril Gladstone POTTER<br>
 <p>The Guyanese economy exhibited moderate economic growth in recent years and is based largely on agriculture and extractive industries. The economy is heavily dependent upon the export of six commodities - sugar, gold, bauxite, shrimp, timber, and rice - which represent nearly 60% of the country's GDP and are highly susceptible to adverse weather conditions and fluctuations in commodity prices. Guyana closed or consolidated several sugar estates in 2017, reducing production of sugar to a forecasted 147,000 tons in 2018, less than half of 2017 production. Much of Guyana's growth in recent years has come from a surge in gold production. With a record-breaking 700,000 ounces of gold produced in 2016, Gold production in Guyana has offset the economic effects of declining sugar production. In January 2018, estimated 3.2 billion barrels of oil were found offshore and Guyana is scheduled to become a petroleum producer by March 2020.</p> <p> </p> <p>Guyana's entrance into the Caricom Single Market and Economy in January 2006 broadened the country's export market, primarily in the raw materials sector. Guyana has experienced positive growth almost every year over the past decade. Inflation has been kept under control. Recent years have seen the government's stock of debt reduced significantly - with external debt now less than half of what it was in the early 1990s. Despite these improvements, the government is still juggling a sizable external debt against the urgent need for expanded public investment. In March 2007, the Inter-American Development Bank, Guyana's principal donor, canceled Guyana's nearly $470 million debt, equivalent to 21% of GDP, which along with other Highly Indebted Poor Country debt forgiveness, brought the debt-to-GDP ratio down from 183% in 2006 to 52% in 2017. Guyana had become heavily indebted as a result of the inward-looking, state-led development model pursued in the 1970s and 1980s. Chronic problems include a shortage of skilled labor and a deficient infrastructure.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
-$14.69 billion (2020 est.)<br>
+$17.64 billion (2021 est.)<br>
+$14.693 billion (2020 est.)<br>
 $10.24 billion (2019 est.)<br>
-$9.72 billion (2018 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
-2.1% (2017 est.)<br>
-3.4% (2016 est.)<br>
-3.1% (2015 est.)<br>
+20.06% (2021 est.)<br>
+43.48% (2020 est.)<br>
+5.35% (2019 est.)<br>
 
 **Real GDP per capita**<br>
-$18,700 (2020 est.)<br>
-$13,100 (2019 est.)<br>
-$12,500 (2018 est.)<br>
+$21,900 (2021 est.)<br>
+$18,400 (2020 est.)<br>
+$12,800 (2019 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
 $3.561 billion (2017 est.)<br>
 
 **Inflation rate (consumer prices)**<br>
-2% (2017 est.)<br>
-0.8% (2016 est.)<br>
+5.03% (2021 est.)<br>
+0.99% (2020 est.)<br>
+2.09% (2019 est.)<br>
 
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 15.4% (2017 est.)<br>
@@ -444,10 +445,10 @@ rice, sugar cane, coconuts, pumpkins, squash, gourds, milk, eggplants, green chi
 bauxite, sugar, rice milling, timber, textiles, gold mining<br>
 
 **Industrial production growth rate**<br>
--5% (2017 est.)<br>
+33.52% (2021 est.)<br>
 
 **Labor force**<br>
-313,800 (2013 est.)<br>
+299,300 (2021 est.)<br>
 
 **Labor force - by occupation**<br>
 _agriculture_: NA<br>
@@ -455,20 +456,20 @@ _industry_: NA<br>
 _services_: NA<br>
 
 **Unemployment rate**<br>
-11.1% (2013)<br>
-11.3% (2012)<br>
+16.42% (2021 est.)<br>
+16.43% (2020 est.)<br>
+13.99% (2019 est.)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 27.4%<br>
-_male_: 23%<br>
-_female_: 33.4% (2019 est.)<br>
+_total_: 29.9%<br>
+_male_: 23.5%<br>
+_female_: 39.6% (2021 est.)<br>
 
 **Population below poverty line**<br>
 35% (2006 est.)<br>
 
 **Gini Index coefficient - distribution of family income**<br>
-44.6 (2007)<br>
-43.2 (1999)<br>
+44.6 (2007 est.)<br>
 
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 1.3%<br>
@@ -492,12 +493,14 @@ _expenditures_: 1.164 billion (2017 est.)<br>
 calendar year<br>
 
 **Current account balance**<br>
--$237 million (2017 est.)<br>
-$13 million (2016 est.)<br>
+-$2.087 billion (2021 est.)<br>
+-$396.533 million (2020 est.)<br>
+-$2.717 billion (2019 est.)<br>
 
 **Exports**<br>
-$1.8 billion (2019 est.) note: data are in current year dollars<br>
-$1.58 billion (2018 est.) note: data are in current year dollars<br>
+$4.64 billion (2021 est.) note: data are in current year dollars<br>
+$2.799 billion (2020 est.) note: data are in current year dollars<br>
+$1.805 billion (2019 est.)<br>
 
 **Exports - partners**<br>
 Trinidad and Tobago 31%, Canada 11%, Portugal 11%, Ghana 8%, Norway 6%, United Arab Emirates 5% (2019)<br>
@@ -506,8 +509,9 @@ Trinidad and Tobago 31%, Canada 11%, Portugal 11%, Ghana 8%, Norway 6%, United A
 ships, gold, shipping containers, excavation machinery, aluminum ores, rice (2019)<br>
 
 **Imports**<br>
-$4 billion (2019 est.) note: data are in current year dollars<br>
-$3.12 billion (2018 est.) note: data are in current year dollars<br>
+$6.611 billion (2021 est.) note: data are in current year dollars<br>
+$3.756 billion (2020 est.) note: data are in current year dollars<br>
+$5.025 billion (2019 est.)<br>
 
 **Imports - partners**<br>
 United States 26%, Singapore 18%, Trinidad and Tobago 16%, Liberia 11%, China 5%, Norway 5% (2019)<br>
@@ -516,8 +520,9 @@ United States 26%, Singapore 18%, Trinidad and Tobago 16%, Liberia 11%, China 5%
 ships, refined petroleum, excavation machinery, shipping containers, aircraft (2019)<br>
 
 **Reserves of foreign exchange and gold**<br>
-$565.4 million (31 December 2017 est.)<br>
-$581 million (31 December 2016 est.)<br>
+$790.785 million (31 December 2021 est.)<br>
+$680.634 million (31 December 2020 est.)<br>
+$573.446 million (31 December 2019 est.)<br>
 
 **Debt - external**<br>
 $1.69 billion (31 December 2017 est.)<br>
@@ -525,11 +530,11 @@ $1.542 billion (31 December 2016 est.)<br>
 
 **Exchange rates**<br>
 _Currency_: Guyanese dollars (GYD) per US dollar -<br>
-207 (2017 est.)<br>
-206.5 (2016 est.)<br>
-206.5 (2015 est.)<br>
-206.5 (2014 est.)<br>
-206.45 (2013 est.)<br>
+208.5 (2021 est.)<br>
+208.5 (2020 est.)<br>
+208.5 (2019 est.)<br>
+207.717 (2018 est.)<br>
+206.5 (2017 est.)<br>
 
 ## Energy
 

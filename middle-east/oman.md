@@ -162,7 +162,7 @@ _female_: 78.93 years (2022 est.)<br>
 2.7 children born/woman (2022 est.)<br>
 
 **Gross reproduction rate**<br>
-1.32 (2022 est.)<br>
+1.3 (2023 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 29.7% (2014)<br>
@@ -210,11 +210,11 @@ _total_: 8% (2020 est.)<br>
 _male_: 15.5% (2020 est.)<br>
 _female_: 0.4% (2020 est.)<br>
 
-**Currently married women (ages 15-49)**<br>
-56.6% (2022 est.)<br>
-
 **Children under the age of 5 years underweight**<br>
 11.2% (2016/17)<br>
+
+**Currently married women (ages 15-49)**<br>
+56.4% (2023 est.)<br>
 
 **Education expenditures**<br>
 5.4% of GDP (2019 est.)<br>
@@ -231,9 +231,9 @@ _male_: 15 years<br>
 _female_: 15 years (2021)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 15.5%<br>
-_male_: 12.1%<br>
-_female_: 31.6% (2020)<br>
+_total_: 14.6%<br>
+_male_: 11.6%<br>
+_female_: 29.6% (2021 est.)<br>
 
 ## Environment
 
@@ -388,28 +388,28 @@ _selected World Heritage Site locales_: Bahla Fort; Archaeological Sites of Bat;
 <p>Oman is heavily dependent on oil and gas resources, which can generate between and 68% and 85% of government revenue, depending on fluctuations in commodity prices. In 2016, low global oil prices drove Oman’s budget deficit to $13.8 billion, or approximately 20% of GDP, but the budget deficit is estimated to have reduced to 12% of GDP in 2017 as Oman reduced government subsidies. As of January 2018, Oman has sufficient foreign assets to support its currency’s fixed exchange rates. It is issuing debt to cover its deficit.</p> <p> </p> <p>Oman is using enhanced oil recovery techniques to boost production, but it has simultaneously pursued a development plan that focuses on diversification, industrialization, and privatization, with the objective of reducing the oil sector's contribution to GDP. The key components of the government's diversification strategy are tourism, shipping and logistics, mining, manufacturing, and aquaculture.</p> <p> </p> <p>Muscat also has notably focused on creating more Omani jobs to employ the rising number of nationals entering the workforce. However, high social welfare benefits - that had increased in the wake of the 2011 Arab Spring - have made it impossible for the government to balance its budget in light of current oil prices. In response, Omani officials imposed austerity measures on its gasoline and diesel subsidies in 2016. These spending cuts have had only a moderate effect on the government’s budget, which is projected to again face a deficit of $7.8 billion in 2018.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
-$135.79 billion (2019 est.)<br>
-$136.92 billion (2018 est.)<br>
-$135.696 billion (2017 est.)<br>
+$155.028 billion (2021 est.)<br>
+$150.378 billion (2020 est.)<br>
+$155.639 billion (2019 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
--0.9% (2017 est.)<br>
-5% (2016 est.)<br>
-4.7% (2015 est.)<br>
+3.09% (2021 est.)<br>
+-3.38% (2020 est.)<br>
+-1.13% (2019 est.)<br>
 
 **Real GDP per capita**<br>
-$27,300 (2019 est.) note: data are in 2017 dollars<br>
-$28,400 (2018 est.) note: data are in 2017 dollars<br>
-$29,082 (2017 est.)<br>
+$34,300 (2021 est.) note: data are in 2017 dollars<br>
+$33,100 (2020 est.) note: data are in 2017 dollars<br>
+$33,800 (2019 est.)<br>
 
 **GDP (official exchange rate)**<br>
 $76.883 billion (2019 est.)<br>
 
 **Inflation rate (consumer prices)**<br>
-0.1% (2019 est.)<br>
-0.7% (2018 est.)<br>
-1.7% (2017 est.)<br>
+1.55% (2021 est.)<br>
+-0.9% (2020 est.)<br>
+0.13% (2019 est.)<br>
 
 **Credit ratings**<br>
 _Fitch rating_: BB- (2020)<br>
@@ -437,10 +437,10 @@ dates, tomatoes, vegetables, goat milk, milk, cucumbers, green chillies/peppers,
 crude oil production and refining, natural and liquefied natural gas production; construction, cement, copper, steel, chemicals, optic fiber<br>
 
 **Industrial production growth rate**<br>
--3% (2017 est.)<br>
+1.05% (2021 est.)<br>
 
 **Labor force**<br>
-2.255 million (2016 est.)<br>
+2.259 million (2021 est.)<br>
 <strong>note:</strong> about 60% of the labor force is non-national<br>
 
 **Labor force - by occupation**<br>
@@ -449,12 +449,15 @@ _industry_: 49.6% NA<br>
 _services_: 45% (2016 est.) NA<br>
 
 **Unemployment rate**<br>
-<p>NA</p><br>
+3.12% (2021 est.)<br>
+2.94% (2020 est.)<br>
+1.85% (2019 est.)<br>
+NA<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 15.5%<br>
-_male_: 12.1%<br>
-_female_: 31.6% (2020)<br>
+_total_: 14.6%<br>
+_male_: 11.6%<br>
+_female_: 29.6% (2021 est.)<br>
 
 **Population below poverty line**<br>
 NA<br>
@@ -482,12 +485,14 @@ _expenditures_: 31.92 billion (2017 est.)<br>
 calendar year<br>
 
 **Current account balance**<br>
--$10.76 billion (2017 est.)<br>
--$12.32 billion (2016 est.)<br>
+-$4.288 billion (2021 est.)<br>
+-$12.307 billion (2020 est.)<br>
+-$4.02 billion (2019 est.)<br>
 
 **Exports**<br>
-$43.69 billion (2019 est.) note: data are in current year dollars<br>
-$46.32 billion (2018 est.) note: data are in current year dollars<br>
+$46.324 billion (2021 est.) note: data are in current year dollars<br>
+$35.72 billion (2020 est.) note: data are in current year dollars<br>
+$43.584 billion (2019 est.)<br>
 
 **Exports - partners**<br>
 China 46%, India 8%, Japan 6%, South Korea 6%, United Arab Emirates 6%, Saudi Arabia 5% (2019)<br>
@@ -496,8 +501,9 @@ China 46%, India 8%, Japan 6%, South Korea 6%, United Arab Emirates 6%, Saudi Ar
 crude petroleum, natural gas, refined petroleum, iron products, fertilizers (2019)<br>
 
 **Imports**<br>
-$32.55 billion (2019 est.) note: data are in current year dollars<br>
-$35.37 billion (2018 est.) note: data are in current year dollars<br>
+$36.502 billion (2021 est.) note: data are in current year dollars<br>
+$34.022 billion (2020 est.) note: data are in current year dollars<br>
+$32.569 billion (2019 est.)<br>
 
 **Imports - partners**<br>
 United Arab Emirates 36%, China 10%, Japan 7%, India 7%, United States 5% (2019)<br>
@@ -506,8 +512,9 @@ United Arab Emirates 36%, China 10%, Japan 7%, India 7%, United States 5% (2019)
 cars, refined petroleum, broadcasting equipment, gold, iron (2019)<br>
 
 **Reserves of foreign exchange and gold**<br>
-$16.09 billion (31 December 2017 est.)<br>
-$20.26 billion (31 December 2016 est.)<br>
+$19.731 billion (31 December 2021 est.)<br>
+$15.007 billion (31 December 2020 est.)<br>
+$16.662 billion (31 December 2019 est.)<br>
 
 **Debt - external**<br>
 $46.27 billion (31 December 2017 est.)<br>
@@ -515,11 +522,11 @@ $27.05 billion (31 December 2016 est.)<br>
 
 **Exchange rates**<br>
 _Currency_: Omani rials (OMR) per US dollar -<br>
-0.38505 (2020 est.)<br>
-0.38505 (2019 est.)<br>
+0.385 (2021 est.)<br>
+0.385 (2020 est.)<br>
+0.385 (2019 est.)<br>
 0.385 (2018 est.)<br>
-0.3845 (2014 est.)<br>
-0.3845 (2013 est.)<br>
+0.385 (2017 est.)<br>
 
 ## Energy
 

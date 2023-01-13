@@ -171,7 +171,7 @@ _female_: 69.41 years (2022 est.)<br>
 3.79 children born/woman (2022 est.)<br>
 
 **Gross reproduction rate**<br>
-1.87 (2022 est.)<br>
+1.8 (2023 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 18.9% (2019/20)<br>
@@ -228,11 +228,11 @@ _total_: 11.1% (2020 est.)<br>
 _male_: 21.4% (2020 est.)<br>
 _female_: 0.8% (2020 est.)<br>
 
-**Currently married women (ages 15-49)**<br>
-61.6% (2022 est.)<br>
-
 **Children under the age of 5 years underweight**<br>
 11.6% (2019/20)<br>
+
+**Currently married women (ages 15-49)**<br>
+60.9% (2023 est.)<br>
 
 **Child marriage**<br>
 _women married by age 15_: 7.5%<br>
@@ -249,9 +249,9 @@ _male_: 61.8%<br>
 _female_: 41.6% (2015)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 7.1%<br>
-_male_: 8.1%<br>
-_female_: 6.2% (2018 est.)<br>
+_total_: 15.5%<br>
+_male_: 11.4%<br>
+_female_: 20.5% (2021 est.)<br>
 
 ## Environment
 
@@ -417,29 +417,29 @@ _selected World Heritage Site locales_: Kunta Kinteh Island and Related Sites; S
 <p>The government has invested in the agriculture sector because three-quarters of the population depends on the sector for its livelihood and agriculture provides for about one-third of GDP, making The Gambia largely reliant on sufficient rainfall. The agricultural sector has untapped potential - less than half of arable land is cultivated and agricultural productivity is low. Small-scale manufacturing activity features the processing of cashews, groundnuts, fish, and hides. The Gambia's reexport trade accounts for almost 80% of goods exports and China has been its largest trade partner for both exports and imports for several years.</p> <p> </p> <p>The Gambia has sparse natural resource deposits. It relies heavily on remittances from workers overseas and tourist receipts. Remittance inflows to The Gambia amount to about one-fifth of the country’s GDP. The Gambia's location on the ocean and proximity to Europe has made it one of the most frequented tourist destinations in West Africa, boosted by private sector investments in eco-tourism and facilities. Tourism normally brings in about 20% of GDP, but it suffered in 2014 from tourists’ fears of Ebola virus in neighboring West African countries. Unemployment and underemployment remain high.</p> <p> </p> <p>Economic progress depends on sustained bilateral and multilateral aid, on responsible government economic management, and on continued technical assistance from multilateral and bilateral donors. International donors and lenders were concerned about the quality of fiscal management under the administration of former President Yahya JAMMEH, who reportedly stole hundreds of millions of dollars of the country’s funds during his 22 years in power, but anticipate significant improvements under the new administration of President Adama BARROW, who assumed power in early 2017. As of April 2017, the IMF, the World Bank, the European Union, and the African Development Bank were all negotiating with the new government of The Gambia to provide financial support in the coming months to ease the country’s financial crisis.</p> <p> </p> <p>The country faces a limited availability of foreign exchange, weak agricultural output, a border closure with Senegal, a slowdown in tourism, high inflation, a large fiscal deficit, and a high domestic debt burden that has crowded out private sector investment and driven interest rates to new highs. The government has committed to taking steps to reduce the deficit, including through expenditure caps, debt consolidation, and reform of state-owned enterprises.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
-$5.22 billion (2020 est.)<br>
-$5.22 billion (2019 est.)<br>
-$4.92 billion (2018 est.)<br>
+$5.482 billion (2021 est.)<br>
+$5.258 billion (2020 est.)<br>
+$5.227 billion (2019 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
-4.6% (2017 est.)<br>
-0.4% (2016 est.)<br>
-5.9% (2015 est.)<br>
+4.27% (2021 est.)<br>
+0.59% (2020 est.)<br>
+6.22% (2019 est.)<br>
 
 **Real GDP per capita**<br>
-$2,200 (2020 est.)<br>
-$2,200 (2019 est.)<br>
-$2,200 (2018 est.)<br>
+$2,100 (2021 est.)<br>
+$2,000 (2020 est.)<br>
+$2,100 (2019 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
 $1.746 billion (2019 est.)<br>
 
 **Inflation rate (consumer prices)**<br>
-7.1% (2019 est.)<br>
-6.5% (2018 est.)<br>
-8% (2017 est.)<br>
+7.37% (2021 est.)<br>
+5.93% (2020 est.)<br>
+7.12% (2019 est.)<br>
 
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 20.4% (2017 est.)<br>
@@ -461,10 +461,10 @@ groundnuts, milk, oil palm fruit, millet, sorghum, rice, maize, vegetables, cass
 peanuts, fish, hides, tourism, beverages, agricultural machinery assembly, woodworking, metalworking, clothing<br>
 
 **Industrial production growth rate**<br>
--0.8% (2017 est.)<br>
+10.4% (2021 est.)<br>
 
 **Labor force**<br>
-777,100 (2007 est.)<br>
+856,100 (2021 est.)<br>
 
 **Labor force - by occupation**<br>
 _agriculture_: 75%<br>
@@ -472,12 +472,15 @@ _industry_: 19%<br>
 _services_: 6% (1996 est.)<br>
 
 **Unemployment rate**<br>
-<p>NA</p><br>
+11.21% (2021 est.)<br>
+11.08% (2020 est.)<br>
+9.5% (2019 est.)<br>
+NA<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 7.1%<br>
-_male_: 8.1%<br>
-_female_: 6.2% (2018 est.)<br>
+_total_: 15.5%<br>
+_male_: 11.4%<br>
+_female_: 20.5% (2021 est.)<br>
 
 **Population below poverty line**<br>
 48.6% (2015 est.)<br>
@@ -507,12 +510,14 @@ _expenditures_: 339 million (2017 est.)<br>
 calendar year<br>
 
 **Current account balance**<br>
--$194 million (2017 est.)<br>
--$85 million (2016 est.)<br>
+-$94.081 million (2021 est.)<br>
+-$86.553 million (2020 est.)<br>
+-$37.078 million (2019 est.)<br>
 
 **Exports**<br>
-$448 million (2018 est.)<br>
-$435 million (2017 est.)<br>
+$135.448 million (2021 est.) note: data are in current year dollars<br>
+$175.682 million (2020 est.)<br>
+$360.208 million (2019 est.)<br>
 
 **Exports - partners**<br>
 China 38%, India 22%, Mali 7%, Chile 5% (2017)<br>
@@ -521,8 +526,9 @@ China 38%, India 22%, Mali 7%, Chile 5% (2017)<br>
 lumber, cashews, refined petroleum, fish oil, ground nut oil (2019)<br>
 
 **Imports**<br>
-$851 million (2018 est.)<br>
-$754 million (2017 est.)<br>
+$726 million (2021 est.) note: data are in current year dollars<br>
+$691 million (2020 est.)<br>
+$641 million (2019 est.)<br>
 
 **Imports - partners**<br>
 China 33%, India 10%, Senegal 5%, Brazil 5% (2019)<br>
@@ -531,8 +537,9 @@ China 33%, India 10%, Senegal 5%, Brazil 5% (2019)<br>
 clothing and apparel, refined petroleum, rice, raw sugar, palm oil (2019)<br>
 
 **Reserves of foreign exchange and gold**<br>
-$170 million (31 December 2017 est.)<br>
-$87.64 million (31 December 2016 est.)<br>
+$652.671 million (31 December 2021 est.)<br>
+$387.046 million (31 December 2020 est.)<br>
+$256.957 million (31 December 2019 est.)<br>
 
 **Debt - external**<br>
 $586.8 million (31 December 2017 est.)<br>
@@ -540,11 +547,11 @@ $571.2 million (31 December 2016 est.)<br>
 
 **Exchange rates**<br>
 _Currency_: dalasis (GMD) per US dollar -<br>
-51.75 (2020 est.)<br>
-51.4 (2019 est.)<br>
-49.515 (2018 est.)<br>
-41.89 (2014 est.)<br>
-41.733 (2013 est.)<br>
+51.484 (2021 est.)<br>
+51.502 (2020 est.)<br>
+50.062 (2019 est.)<br>
+48.152 (2018 est.)<br>
+46.609 (2017 est.)<br>
 
 ## Energy
 

@@ -166,7 +166,7 @@ _female_: 84.58 years (2022 est.)<br>
 1.67 children born/woman (2022 est.)<br>
 
 **Gross reproduction rate**<br>
-0.81 (2022 est.)<br>
+0.81 (2023 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 70.3% (2017)<br>
@@ -215,11 +215,11 @@ _total_: 24% (2020 est.)<br>
 _male_: 29.8% (2020 est.)<br>
 _female_: 18.2% (2020 est.)<br>
 
-**Currently married women (ages 15-49)**<br>
-53.7% (2022 est.)<br>
-
 **Children under the age of 5 years underweight**<br>
 NA<br>
+
+**Currently married women (ages 15-49)**<br>
+53.4% (2023 est.)<br>
 
 **Education expenditures**<br>
 7.2% of GDP (2020 est.)<br>
@@ -235,9 +235,9 @@ _male_: 18 years<br>
 _female_: 21 years (2020)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 24.8%<br>
-_male_: 25.3%<br>
-_female_: 24.1% (2021 est.)<br>
+_total_: 24.5%<br>
+_male_: 26.1%<br>
+_female_: 23% (2021 est.)<br>
 
 ## Environment
 
@@ -396,29 +396,29 @@ _selected World Heritage Site locales_: Royal Domain of Drottningholm (c); Lapon
 <p>Sweden’s small, open, and competitive economy has been thriving and Sweden has achieved an enviable standard of living with its combination of free-market capitalism and extensive welfare benefits. Sweden remains outside the euro zone largely out of concern that joining the European Economic and Monetary Union would diminish the country’s sovereignty over its welfare system.</p> <p> </p> <p>Timber, hydropower, and iron ore constitute the resource base of a manufacturing economy that relies heavily on foreign trade. Exports, including engines and other machines, motor vehicles, and telecommunications equipment, account for more than 44% of GDP. Sweden enjoys a current account surplus of about 5% of GDP, which is one of the highest margins in Europe.</p> <p> </p> <p>GDP grew an estimated 3.3% in 2016 and 2017 driven largely by investment in the construction sector. Swedish economists expect economic growth to ease slightly in the coming years as this investment subsides. Global economic growth boosted exports of Swedish manufactures further, helping drive domestic economic growth in 2017. The Central Bank is keeping an eye on deflationary pressures and bank observers expect it to maintain an expansionary monetary policy in 2018. Swedish prices and wages have grown only slightly over the past few years, helping to support the country’s competitiveness.</p> <p> </p> <p>In the short and medium term, Sweden’s economic challenges include providing affordable housing and successfully integrating migrants into the labor market.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
-$524.75 billion (2020 est.)<br>
-$539.96 billion (2019 est.)<br>
-$532.67 billion (2018 est.)<br>
+$558.427 billion (2021 est.)<br>
+$531.455 billion (2020 est.)<br>
+$543.245 billion (2019 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
-1.29% (2019 est.)<br>
-2.06% (2018 est.)<br>
-2.82% (2017 est.)<br>
+5.08% (2021 est.)<br>
+-2.17% (2020 est.)<br>
+1.99% (2019 est.)<br>
 
 **Real GDP per capita**<br>
-$50,700 (2020 est.)<br>
-$52,500 (2019 est.)<br>
-$52,300 (2018 est.)<br>
+$53,600 (2021 est.)<br>
+$51,300 (2020 est.)<br>
+$52,900 (2019 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
 $531.35 billion (2019 est.)<br>
 
 **Inflation rate (consumer prices)**<br>
-1.7% (2019 est.)<br>
-1.9% (2018 est.)<br>
-1.7% (2017 est.)<br>
+2.16% (2021 est.)<br>
+0.5% (2020 est.)<br>
+1.78% (2019 est.)<br>
 
 **Credit ratings**<br>
 _Fitch rating_: AAA (2004)<br>
@@ -446,10 +446,10 @@ wheat, milk, sugar beet, barley, potatoes, oats, rapeseed, pork, rye, triticale<
 iron and steel, precision equipment (bearings, radio and telephone parts, armaments), wood pulp and paper products, processed foods, motor vehicles<br>
 
 **Industrial production growth rate**<br>
-4.1% (2017 est.)<br>
+5.72% (2021 est.)<br>
 
 **Labor force**<br>
-5.029 million (2020 est.)<br>
+5.556 million (2021 est.)<br>
 
 **Labor force - by occupation**<br>
 _agriculture_: 2%<br>
@@ -457,20 +457,20 @@ _industry_: 12%<br>
 _services_: 86% (2014 est.)<br>
 
 **Unemployment rate**<br>
-6.78% (2019 est.)<br>
-6.33% (2018 est.)<br>
+8.66% (2021 est.)<br>
+8.29% (2020 est.)<br>
+6.83% (2019 est.)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 24.8%<br>
-_male_: 25.3%<br>
-_female_: 24.1% (2021 est.)<br>
+_total_: 24.5%<br>
+_male_: 26.1%<br>
+_female_: 23% (2021 est.)<br>
 
 **Population below poverty line**<br>
 17.1% (2018 est.)<br>
 
 **Gini Index coefficient - distribution of family income**<br>
 28.8 (2017 est.)<br>
-25 (1992)<br>
 
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 3.4%<br>
@@ -484,24 +484,26 @@ _expenditures_: 264.4 billion (2017 est.)<br>
 1.3% (of GDP) (2017 est.)<br>
 
 **Public debt**<br>
-40.8% of GDP (2017 est.)<br>
-42.3% of GDP (2016 est.)<br>
+44% of GDP (2020 est.)<br>
+38.69% of GDP (2019 est.)<br>
+42.28% of GDP (2018 est.)<br>
 <strong>note:</strong> data cover general government debt and include debt instruments issued (or owned) by government entities other than the treasury; the data include treasury debt held by foreign entities; the data include debt issued by subnational entities, as well as intragovernmental debt; intragovernmental debt consists of treasury borrowings from surpluses in the social funds, such as for retirement, medical care, and unemployment; debt instruments for the social funds are not sold at public auctions<br>
 
 **Taxes and other revenues**<br>
-50.6% (of GDP) (2017 est.)<br>
+26.58% (of GDP) (2020 est.)<br>
 
 **Fiscal year**<br>
 calendar year<br>
 
 **Current account balance**<br>
-$22.339 billion (2019 est.)<br>
-$13.902 billion (2018 est.)<br>
+$34.075 billion (2021 est.)<br>
+$32.372 billion (2020 est.)<br>
+$29.361 billion (2019 est.)<br>
 
 **Exports**<br>
-$240.08 billion (2020 est.) note: data are in current year dollars<br>
-$254.53 billion (2019 est.) note: data are in current year dollars<br>
-$254.25 billion (2018 est.) note: data are in current year dollars<br>
+$290.793 billion (2021 est.) note: data are in current year dollars<br>
+$241.94 billion (2020 est.) note: data are in current year dollars<br>
+$257.293 billion (2019 est.) note: data are in current year dollars<br>
 
 **Exports - partners**<br>
 Germany 10%, Norway 9%, United States 8%, Denmark 7%, Finland 6%, United Kingdom 5%, Netherlands 5%, China 5% (2019)<br>
@@ -510,9 +512,9 @@ Germany 10%, Norway 9%, United States 8%, Denmark 7%, Finland 6%, United Kingdom
 cars and vehicle parts, packaged medicines, refined petroleum, broadcasting equipment, lumber (2019)<br>
 
 **Imports**<br>
-$217.68 billion (2020 est.) note: data are in current year dollars<br>
-$232.81 billion (2019 est.) note: data are in current year dollars<br>
-$241.53 billion (2018 est.) note: data are in current year dollars<br>
+$263.269 billion (2021 est.) note: data are in current year dollars<br>
+$217.165 billion (2020 est.) note: data are in current year dollars<br>
+$233.648 billion (2019 est.) note: data are in current year dollars<br>
 
 **Imports - partners**<br>
 Germany 18%, Netherlands 9%, Denmark 7%, Norway 7%, China 6%, Finland 5%, Belgium 5%, Poland 5% (2019)<br>
@@ -521,8 +523,9 @@ Germany 18%, Netherlands 9%, Denmark 7%, Norway 7%, China 6%, Finland 5%, Belgiu
 cars and vehicle parts, crude petroleum, refined petroleum, broadcasting equipment, computers (2019)<br>
 
 **Reserves of foreign exchange and gold**<br>
-$62.22 billion (31 December 2017 est.)<br>
-$59.39 billion (31 December 2016 est.)<br>
+$62.053 billion (31 December 2021 est.)<br>
+$58.26 billion (31 December 2020 est.)<br>
+$55.51 billion (31 December 2019 est.)<br>
 
 **Debt - external**<br>
 $911.317 billion (2019 est.)<br>
@@ -530,11 +533,11 @@ $1,012,171,000,000 (2018 est.)<br>
 
 **Exchange rates**<br>
 _Currency_: Swedish kronor (SEK) per US dollar -<br>
-8.49085 (2020 est.)<br>
-9.52915 (2019 est.)<br>
-9.01895 (2018 est.)<br>
-8.4335 (2014 est.)<br>
-6.8612 (2013 est.)<br>
+8.577 (2021 est.)<br>
+9.21 (2020 est.)<br>
+9.458 (2019 est.)<br>
+8.693 (2018 est.)<br>
+8.549 (2017 est.)<br>
 
 ## Energy
 
@@ -723,6 +726,6 @@ Islamic State of Iraq and ash-Sham (ISIS)<br>
 <p>none identified</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 114,995 (Syria), 28,744 (Afghanistan), 26,911 (Eritrea), 11,574 (Somalia), 11,153 (Iraq), 7,516 (Iran) (2020); 50,040 (Ukraine) (as of 23 December 2022)<br>
+_refugees (country of origin)_: 113,213 (Syria), 26,857 (Afghanistan), 25,849 (Eritrea), 10,464 (Iraq), 9,315 (Somalia), 7,146 (Iran) (mid-year 2022); 50,357 (Ukraine) (as of 29 December 2022)<br>
 _stateless persons_: 50,098 (mid-year 2021); note - the majority of stateless people are from the Middle East and Somalia<br>
 

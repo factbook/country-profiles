@@ -159,7 +159,7 @@ _female_: 79.49 years (2022 est.)<br>
 2.87 children born/woman (2022 est.)<br>
 
 **Gross reproduction rate**<br>
-1.4 (2022 est.)<br>
+1.38 (2023 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 29.3% (2015)<br>
@@ -212,11 +212,11 @@ _total_: 36.5% (2020 est.)<br>
 _male_: 53.8% (2020 est.)<br>
 _female_: 19.2% (2020 est.)<br>
 
-**Currently married women (ages 15-49)**<br>
-64.3% (2022 est.)<br>
-
 **Children under the age of 5 years underweight**<br>
 16.2% (2015)<br>
+
+**Currently married women (ages 15-49)**<br>
+64.1% (2023 est.)<br>
 
 **Education expenditures**<br>
 12.8% of GDP (2020 est.)<br>
@@ -227,9 +227,9 @@ _male_: NA<br>
 _female_: NA<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 1.3%<br>
-_male_: 1%<br>
-_female_: 1.6% (2013)<br>
+_total_: 1.9%<br>
+_male_: 1.6%<br>
+_female_: 2.3% (2021 est.)<br>
 
 ## Environment
 
@@ -379,28 +379,29 @@ _selected World Heritage Site locales_: East Rennell<br>
 The bulk of the population depends on agriculture, fishing, and forestry for at least part of its livelihood. Most manufactured goods and petroleum products must be imported. The islands are rich in undeveloped mineral resources such as lead, zinc, nickel, and gold. Prior to the arrival of The Regional Assistance Mission to the Solomon Islands (RAMSI), severe ethnic violence, the closure of key businesses, and an empty government treasury culminated in economic collapse. RAMSI's efforts, which concluded in Jun 2017, to restore law and order and economic stability have led to modest growth as the economy rebuilds.<br>
 
 **Real GDP (purchasing power parity)**<br>
-$1.71 billion (2020 est.)<br>
-$1.78 billion (2019 est.)<br>
-$1.76 billion (2018 est.)<br>
+$1.703 billion (2021 est.)<br>
+$1.707 billion (2020 est.)<br>
+$1.766 billion (2019 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
-3.5% (2017 est.)<br>
-3.5% (2016 est.)<br>
-2.5% (2015 est.)<br>
+-0.2% (2021 est.)<br>
+-3.38% (2020 est.)<br>
+1.75% (2019 est.)<br>
 
 **Real GDP per capita**<br>
+$2,400 (2021 est.)<br>
 $2,500 (2020 est.)<br>
-$2,700 (2019 est.)<br>
-$2,700 (2018 est.)<br>
+$2,600 (2019 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
 $1.298 billion (2017 est.)<br>
 
 **Inflation rate (consumer prices)**<br>
-0.5% (2017 est.)<br>
-0.5% (2016 est.)<br>
+-0.12% (2021 est.)<br>
+2.96% (2020 est.)<br>
+1.63% (2019 est.)<br>
 
 **Credit ratings**<br>
 _Moody's rating_: B3 (2015)<br>
@@ -426,10 +427,10 @@ oil palm fruit, sweet potatoes, coconuts, taro, yams, fruit, pulses, vegetables,
 fish (tuna), mining, timber<br>
 
 **Industrial production growth rate**<br>
-3.6% (2017 est.)<br>
+-3.84% (2020 est.)<br>
 
 **Labor force**<br>
-202,500 (2007 est.)<br>
+366,000 (2021 est.)<br>
 
 **Labor force - by occupation**<br>
 _agriculture_: 75%<br>
@@ -437,12 +438,15 @@ _industry_: 5%<br>
 _services_: 20% (2000 est.)<br>
 
 **Unemployment rate**<br>
-<p>NA</p><br>
+1.03% (2021 est.)<br>
+0.92% (2020 est.)<br>
+0.75% (2019 est.)<br>
+NA<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 1.3%<br>
-_male_: 1%<br>
-_female_: 1.6% (2013)<br>
+_total_: 1.9%<br>
+_male_: 1.6%<br>
+_female_: 2.3% (2021 est.)<br>
 
 **Population below poverty line**<br>
 12.7% (2012 est.)<br>
@@ -462,23 +466,25 @@ _expenditures_: 570.5 million (2017 est.)<br>
 -2.9% (of GDP) (2017 est.)<br>
 
 **Public debt**<br>
-9.4% of GDP (2017 est.)<br>
-7.9% of GDP (2016 est.)<br>
+11.46% of GDP (2020 est.)<br>
+7.74% of GDP (2019 est.)<br>
+7.69% of GDP (2018 est.)<br>
 
 **Taxes and other revenues**<br>
-41% (of GDP) (2017 est.)<br>
+21.05% (of GDP) (2020 est.)<br>
 
 **Fiscal year**<br>
 calendar year<br>
 
 **Current account balance**<br>
--$54 million (2017 est.)<br>
--$49 million (2016 est.)<br>
+-$78.192 million (2021 est.)<br>
+-$25.06 million (2020 est.)<br>
+-$153.998 million (2019 est.)<br>
 
 **Exports**<br>
-$430 million (2020 est.) note: data are in current year dollars<br>
-$590 million (2019 est.) note: data are in current year dollars<br>
-$680 million (2018 est.) note: data are in current year dollars<br>
+$413.657 million (2021 est.) note: data are in current year dollars<br>
+$428.834 million (2020 est.) note: data are in current year dollars<br>
+$591.293 million (2019 est.) note: data are in current year dollars<br>
 
 **Exports - partners**<br>
 China 65%, Italy 9%, India 6% (2019)<br>
@@ -487,9 +493,9 @@ China 65%, Italy 9%, India 6% (2019)<br>
 lumber, fish, aluminum, palm oil, cocoa beans (2019)<br>
 
 **Imports**<br>
-$560 million (2020 est.) note: data are in current year dollars<br>
-$750 million (2019 est.) note: data are in current year dollars<br>
-$750 million (2018 est.) note: data are in current year dollars<br>
+$619.46 million (2021 est.) note: data are in current year dollars<br>
+$556.26 million (2020 est.) note: data are in current year dollars<br>
+$752.909 million (2019 est.) note: data are in current year dollars<br>
 
 **Imports - partners**<br>
 China 24%, Australia 13%, South Korea 12%, Singapore 12%, Malaysia 10% (2019)<br>
@@ -498,8 +504,9 @@ China 24%, Australia 13%, South Korea 12%, Singapore 12%, Malaysia 10% (2019)<br
 refined petroleum, fish, insulated wiring, broadcasting equipment, excavation machinery (2019)<br>
 
 **Reserves of foreign exchange and gold**<br>
-$0 (31 December 2017 est.)<br>
-$421 million (31 December 2016 est.)<br>
+$694.515 million (31 December 2021 est.)<br>
+$660.996 million (31 December 2020 est.)<br>
+$571.632 million (31 December 2019 est.)<br>
 
 **Debt - external**<br>
 $757 million (31 December 2017 est.)<br>
@@ -507,11 +514,11 @@ $643 million (31 December 2016 est.)<br>
 
 **Exchange rates**<br>
 _Currency_: Solomon Islands dollars (SBD) per US dollar -<br>
-8.06126 (2020 est.)<br>
-8.10373 (2019 est.)<br>
-8.01282 (2018 est.)<br>
-7.9147 (2014 est.)<br>
-7.3754 (2013 est.)<br>
+8.03 (2021 est.)<br>
+8.213 (2020 est.)<br>
+8.173 (2019 est.)<br>
+7.953 (2018 est.)<br>
+7.887 (2017 est.)<br>
 
 ## Energy
 

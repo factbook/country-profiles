@@ -166,11 +166,11 @@ _degree of risk_: high (2020)<br>
 _food or waterborne diseases_: bacterial diarrhea<br>
 _vectorborne diseases_: malaria<br>
 
-**Currently married women (ages 15-49)**<br>
-51.9% (2022 est.)<br>
-
 **Children under the age of 5 years underweight**<br>
 NA<br>
+
+**Currently married women (ages 15-49)**<br>
+52% (2023 est.)<br>
 
 **Education expenditures**<br>
 NA<br>

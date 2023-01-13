@@ -170,7 +170,7 @@ _female_: 76.71 years (2022 est.)<br>
 2.5 children born/woman (2022 est.)<br>
 
 **Gross reproduction rate**<br>
-1.21 (2022 est.)<br>
+1.2 (2023 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 39.4% (2018)<br>
@@ -218,11 +218,11 @@ _total_: 25.4% (2020 est.)<br>
 _male_: 48% (2020 est.)<br>
 _female_: 2.8% (2020 est.)<br>
 
-**Currently married women (ages 15-49)**<br>
-66.5% (2022 est.)<br>
-
 **Children under the age of 5 years underweight**<br>
 1.8% (2018)<br>
+
+**Currently married women (ages 15-49)**<br>
+66.2% (2023 est.)<br>
 
 **Child marriage**<br>
 _women married by age 15_: 0.3%<br>
@@ -243,9 +243,9 @@ _male_: 13 years<br>
 _female_: 14 years (2021)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 8.5%<br>
-_male_: 7.6%<br>
-_female_: 10% (2020 est.)<br>
+_total_: 19.3%<br>
+_male_: 15.6%<br>
+_female_: 27.3% (2021 est.)<br>
 
 ## Environment
 
@@ -361,7 +361,7 @@ _election results_: <em>2021:</em> Sadyr JAPAROV elected president in first roun
 **Legislative branch**<br>
 _description_: unicameral Supreme Council or Jogorku Kenesh (90 seats statutory, current 88; 54 seats allocated for proportional division among political party lists from the national vote and 36 seats allocated for candidates running in single-seat constituencies; members serve 5-year terms; parties must receive 5% of the vote to win seats in the Council)<br>
 _elections_: last held on 28 November 2021 (next to be held in 2026)<br>
-_election results_: percent of vote by party - AJK 19.1%, Ishenim 15%, Yntymak 12.1%, Alliance 9.2%, Butun Kyrgyzstan 7.8%, Yiman Nuru 6.8%, other 30%; seats by party - AJK 15, Ishenim 12, Yntymak 9, Alliance 7, Butun Kyrgyzstan 6, Yiman Nuru 5, other 36; composition - men 70, women 18, percent of women 20.5%<br>
+_election results_: percent of vote by party - Ata-Jurt Kyrgyzstan or AJK 17.3%, Ishenim 15%, Yntymak 12.1%, Alyns 9.2%, Butun Kyrgyzstan 7.8%, Yiman Nuru 6.8%, other 30%; seats by party - AJK 15, Ishenim 12, Yntymak 9, Alyns 7, Butun Kyrgyzstan 6, Yiman Nuru 5, other 36; composition - men 70, women 18, percent of women 20%<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme Court (consists of 25 judges); Constitutional Chamber of the Supreme Court (consists of the chairperson, deputy chairperson, and 9 judges)<br>
@@ -369,7 +369,7 @@ _judge selection and term of office_: Supreme Court and Constitutional Court jud
 _subordinate courts_: Higher Court of Arbitration; oblast (provincial) and city courts<br>
 
 **Political parties and leaders**<br>
-Alliance [Mirlan JEENCHOROEV]<br>Ata-Jurt Kyrgyzstan (Homeland) or AJK [Aybek MATKERIMOV]<br>Butun Kyrgyzstan (All Kyrgyzstan) [Adakhan MADUMAROV]<br>Ishenim (Trust in Kyrgyz) [Rysbat AMATOV]<br>Mekenchil (Patriotic Party) [Sadyr JAPAROV]<br>Social Democratic Party of Kosovo or SDPK (dissolved in 2020)<br>Social Democrats or SDK [Temirlan SULTANBEKOV]<br>United Kyrgyzstan [Adakhan Kumsanbayevich MADUMAROV]<br>Yntymak (Unity) [Marlen MAMATALIEV]<br>Yyman Nuru (Light of Faith) [Nurjigit KADYRBEKOV]<br>
+Alyans (Alliance) [Mirlan JEENCHOROEV]<br>Ata-Jurt Kyrgyzstan (Homeland) or AJK [Aybek MATKERIMOV]<br>Butun Kyrgyzstan (United) [Adakhan MADUMAROV]<br>Ishenim (Trust) [Rysbat AMATOV]<br>Social Democrats or SDK [Temirlan SULTANBEKOV]<br>Yntymak (Unity) [Marlen MAMATALIEV]<br>Yiman Nuru (Light of Faith) [Nurjigit KADYRBEKOV]<br>
 
 **International organization participation**<br>
 ADB, CICA, CIS, CSTO, EAEC, EAEU, EAPC, EBRD, ECO, EITI (compliant country), FAO, GCTU, IAEA, IBRD, ICAO, ICC (NGOs), ICRM, IDA, IDB, IFAD, IFC, IFRCS, ILO, IMF, Interpol, IOC, IOM, IPU, ISO (correspondent), ITSO, ITU, MIGA, NAM (observer), OIC, OPCW, OSCE, PCA, PFP, SCO, UN, UNAMID, UNCTAD, UNESCO, UNIDO, UNISFA, UNMIL, UNMISS, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
@@ -382,7 +382,7 @@ _FAX_: [1] (202) 449-8275<br>
 _email address and website_: <br>kgembassy.usa@mfa.gov.kg; kgconsulate.washington@mfa.gov.kg<br>
 
 **Diplomatic representation from the US**<br>
-_chief of mission_: Ambassador (vacant); Charge d'Affaires Sonata COULTER (since September 2021)<br>
+_chief of mission_: Ambassador Lesslie VIGUERIE (since 29 December 2022)<br>
 _embassy_: 171 Prospect Mira, Bishkek 720016<br>
 _mailing address_: 7040 Bishkek Place, Washington DC&nbsp; 20521-7040<br>
 _telephone_: [996] (312) 597-000<br>
@@ -410,29 +410,29 @@ _selected World Heritage Site locales_: Sulaiman-Too Sacred Mountain (c); Silk R
 <p>Kyrgyzstan is a landlocked, mountainous, lower middle income country with an economy dominated by minerals extraction, agriculture, and reliance on remittances from citizens working abroad. Cotton, wool, and meat are the main agricultural products, although only cotton is exported in any quantity. Other exports include gold, mercury, uranium, natural gas, and - in some years - electricity. The country has sought to attract foreign investment to expand its export base, including construction of hydroelectric dams, but a difficult investment climate and an ongoing legal battle with a Canadian firm over the joint ownership structure of the nation’s largest gold mine deter potential investors. Remittances from Kyrgyz migrant workers, predominantly in Russia and Kazakhstan, are equivalent to more than one-quarter of Kyrgyzstan’s GDP.</p> <p> </p> <p>Following independence, Kyrgyzstan rapidly implemented market reforms, such as improving the regulatory system and instituting land reform. In 1998, Kyrgyzstan was the first Commonwealth of Independent States country to be accepted into the World Trade Organization. The government has privatized much of its ownership shares in public enterprises. Despite these reforms, the country suffered a severe drop in production in the early 1990s and has again faced slow growth in recent years as the global financial crisis and declining oil prices have dampened economies across Central Asia. The Kyrgyz government remains dependent on foreign donor support to finance its annual budget deficit of approximately 3 to 5% of GDP.</p> <p> </p> <p>Kyrgyz leaders hope the country’s August 2015 accession to the Eurasian Economic Union (EAEU) will bolster trade and investment, but slowing economies in Russia and China and low commodity prices continue to hamper economic growth. Large-scale trade and investment pledged by Kyrgyz leaders has been slow to develop. Many Kyrgyz entrepreneurs and politicians complain that non-tariff measures imposed by other EAEU member states are hurting certain sectors of the Kyrgyz economy, such as meat and dairy production, in which they have comparative advantage. Since acceding to the EAEU, the Kyrgyz Republic has continued harmonizing its laws and regulations to meet EAEU standards, though many local entrepreneurs believe this process as disjointed and incomplete. Kyrgyzstan’s economic development continues to be hampered by corruption, lack of administrative transparency, lack of diversity in domestic industries, and difficulty attracting foreign aid and investment.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
-$31.02 billion (2020 est.)<br>
-$33.95 billion (2019 est.)<br>
-$32.46 billion (2018 est.)<br>
+$32.221 billion (2021 est.)<br>
+$31.098 billion (2020 est.)<br>
+$33.949 billion (2019 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
-4.6% (2017 est.)<br>
-4.3% (2016 est.)<br>
-3.9% (2015 est.)<br>
+3.61% (2021 est.)<br>
+-8.4% (2020 est.)<br>
+4.6% (2019 est.)<br>
 
 **Real GDP per capita**<br>
+$4,800 (2021 est.)<br>
 $4,700 (2020 est.)<br>
 $5,300 (2019 est.)<br>
-$5,100 (2018 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
 $8.442 billion (2019 est.)<br>
 
 **Inflation rate (consumer prices)**<br>
-1.1% (2019 est.)<br>
-1.5% (2018 est.)<br>
-3.1% (2017 est.)<br>
+11.91% (2021 est.)<br>
+6.33% (2020 est.)<br>
+1.13% (2019 est.)<br>
 
 **Credit ratings**<br>
 _Moody's rating_: B2 (2015)<br>
@@ -459,10 +459,10 @@ milk, potatoes, sugar beet, maize, wheat, barley, tomatoes, watermelons, onions,
 small machinery, textiles, food processing, cement, shoes, lumber, refrigerators, furniture, electric motors, gold, rare earth metals<br>
 
 **Industrial production growth rate**<br>
-10.9% (2017 est.)<br>
+3.1% (2021 est.)<br>
 
 **Labor force**<br>
-2.841 million (2017 est.)<br>
+2.478 million (2021 est.)<br>
 
 **Labor force - by occupation**<br>
 _agriculture_: 48%<br>
@@ -470,20 +470,20 @@ _industry_: 12.5%<br>
 _services_: 39.5% (2005 est.)<br>
 
 **Unemployment rate**<br>
-3.18% (2019 est.)<br>
-2.59% (2018 est.)<br>
+9.1% (2021 est.)<br>
+8.71% (2020 est.)<br>
+6.92% (2019 est.)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 8.5%<br>
-_male_: 7.6%<br>
-_female_: 10% (2020 est.)<br>
+_total_: 19.3%<br>
+_male_: 15.6%<br>
+_female_: 27.3% (2021 est.)<br>
 
 **Population below poverty line**<br>
 20.1% (2019 est.)<br>
 
 **Gini Index coefficient - distribution of family income**<br>
-27.7 (2018 est.)<br>
-29 (2001)<br>
+29 (2020 est.)<br>
 
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 4.4%<br>
@@ -497,23 +497,25 @@ _expenditures_: 2.409 billion (2017 est.)<br>
 -3.2% (of GDP) (2017 est.)<br>
 
 **Public debt**<br>
-56% of GDP (2017 est.)<br>
-55.9% of GDP (2016 est.)<br>
+72.23% of GDP (2020 est.)<br>
+54.23% of GDP (2019 est.)<br>
+51.66% of GDP (2018 est.)<br>
 
 **Taxes and other revenues**<br>
-28.7% (of GDP) (2017 est.)<br>
+14.92% (of GDP) (2020 est.)<br>
 
 **Fiscal year**<br>
 calendar year<br>
 
 **Current account balance**<br>
--$306 million (2017 est.)<br>
--$792 million (2016 est.)<br>
+-$743.363 million (2021 est.)<br>
+$374.257 million (2020 est.)<br>
+-$1.067 billion (2019 est.)<br>
 
 **Exports**<br>
-$3.11 billion (2019 est.) note: data are in current year dollars<br>
-$2.73 billion (2018 est.) note: data are in current year dollars<br>
-$2.352 billion (2017 est.)<br>
+$3.35 billion (2021 est.) note: data are in current year dollars<br>
+$2.435 billion (2020 est.) note: data are in current year dollars<br>
+$3.108 billion (2019 est.)<br>
 
 **Exports - partners**<br>
 United Kingdom 56%, Kazakhstan 13%, Russia 13%, Uzbekistan 5% (2019)<br>
@@ -522,9 +524,9 @@ United Kingdom 56%, Kazakhstan 13%, Russia 13%, Uzbekistan 5% (2019)<br>
 gold, precious metals, various beans, refined petroleum, scrap copper (2019)<br>
 
 **Imports**<br>
-$5.67 billion (2019 est.) note: data are in current year dollars<br>
-$5.86 billion (2018 est.) note: data are in current year dollars<br>
-$4.953 billion (2017 est.)<br>
+$5.919 billion (2021 est.) note: data are in current year dollars<br>
+$4.051 billion (2020 est.) note: data are in current year dollars<br>
+$5.67 billion (2019 est.)<br>
 
 **Imports - partners**<br>
 China 53%, Russia 17%, Kazakhstan 7%, Uzbekistan 7%, Turkey 5% (2019)<br>
@@ -533,8 +535,9 @@ China 53%, Russia 17%, Kazakhstan 7%, Uzbekistan 7%, Turkey 5% (2019)<br>
 refined petroleum, footwear, clothing and apparel, broadcasting equipment, walnuts (2019)<br>
 
 **Reserves of foreign exchange and gold**<br>
-$2.177 billion (31 December 2017 est.)<br>
-$1.97 billion (31 December 2016 est.)<br>
+$2.983 billion (31 December 2021 est.)<br>
+$2.812 billion (31 December 2020 est.)<br>
+$2.429 billion (31 December 2019 est.)<br>
 
 **Debt - external**<br>
 $8.372 billion (2019 est.)<br>
@@ -542,11 +545,11 @@ $8.066 billion (2018 est.)<br>
 
 **Exchange rates**<br>
 _Currency_: soms (KGS) per US dollar -<br>
-68.35 (2017 est.)<br>
-69.914 (2016 est.)<br>
-69.914 (2015 est.)<br>
-64.462 (2014 est.)<br>
-53.654 (2013 est.)<br>
+84.641 (2021 est.)<br>
+77.346 (2020 est.)<br>
+69.789 (2019 est.)<br>
+68.84 (2018 est.)<br>
+68.867 (2017 est.)<br>
 
 ## Energy
 
@@ -620,7 +623,7 @@ _total subscriptions_: 8.511 million (2020 est.)<br>
 _subscriptions per 100 inhabitants_: 130 (2020 est.)<br>
 
 **Telecommunication systems**<br>
-_general assessment_: the country&rsquo;s telecom sector (specifically the mobile segment) has likewise been able to prosper; ongoing political tension, increasing repression of the media and information, and continuing problems with corporate governance may be putting a strain on further growth by reducing the country&rsquo;s appeal to much-needed foreign investors; Kyrgyzstan has been reasonably successful in its attempts to liberalize its economy and open up its telecom market to competition; the mobile market has achieved high levels of penetration (140% in 2021) along with a fairly competitive operating environment with four major players; mobile broadband has come along strongly, reaching over 125% penetration in 2019 before falling back slightly during the Covid-19 crisis; slow-to-moderate growth is expected for both segments in coming years, supported by the anticipated rollout of 5G services starting from late 2022 (2022)<br>
+_general assessment_: the country&rsquo;s telecom sector (specifically the mobile segment) has been able to prosper; Kyrgyzstan has opened up its telecom market to competition; the mobile market has achieved high levels of penetration (140% in 2021) along with a fairly competitive operating environment with four major players; mobile broadband has come along strongly, reaching over 125% penetration in 2019 before falling back slightly during the Covid-19 crisis; slow-to-moderate growth is expected for both segments in coming years, supported by the anticipated rollout of 5G services starting from late 2022 (2022)<br>
 _domestic_: fixed-line penetration at nearly 5 per 100 persons remains low and concentrated in urban areas; mobile-cellular subscribership up to over 130 per 100 persons (2020)<br>
 _international_: country code - 996; connections with other CIS (Commonwealth of Independent States, 9 members post-Soviet Republics in EU) countries by landline or microwave radio relay and with other countries by leased connections with Moscow international gateway switch and by satellite; satellite earth stations - 2 (1 Intersputnik, 1 Intelsat) (2019)<br>
 <strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress toward 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>

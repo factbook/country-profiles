@@ -173,7 +173,7 @@ _female_: 71.77 years (2022 est.)<br>
 4.27 children born/woman (2022 est.)<br>
 
 **Gross reproduction rate**<br>
-2.08 (2022 est.)<br>
+2.03 (2023 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 26.9% (2019)<br>
@@ -227,11 +227,11 @@ _total_: 6.9% (2020 est.)<br>
 _male_: 13.1% (2020 est.)<br>
 _female_: 0.7% (2020 est.)<br>
 
-**Currently married women (ages 15-49)**<br>
-65.5% (2022 est.)<br>
-
 **Children under the age of 5 years underweight**<br>
 14.4% (2019)<br>
+
+**Currently married women (ages 15-49)**<br>
+65.3% (2023 est.)<br>
 
 **Child marriage**<br>
 _women married by age 15_: 8.8%<br>
@@ -253,9 +253,9 @@ _male_: 8 years<br>
 _female_: 10 years (2021)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 4.1%<br>
-_male_: 2.9%<br>
-_female_: 6.7% (2019 est.)<br>
+_total_: 5%<br>
+_male_: 3.5%<br>
+_female_: 7.5% (2021 est.)<br>
 
 ## Environment
 
@@ -431,29 +431,29 @@ _selected World Heritage Site locales_: Island of Gor&eacute;e (c); Niokolo-Koba
 <p>Senegal’s economy is driven by mining, construction, tourism, fisheries and agriculture, which are the primary sources of employment in rural areas. The country's key export industries include phosphate mining, fertilizer production, agricultural products and commercial fishing and Senegal is also working on oil exploration projects. It relies heavily on donor assistance, remittances and foreign direct investment. Senegal reached a growth rate of 7% in 2017, due in part to strong performance in agriculture despite erratic rainfall.</p> <p> </p> <p>President Macky SALL, who was elected in March 2012 under a reformist policy agenda, inherited an economy with high energy costs, a challenging business environment, and a culture of overspending. President SALL unveiled an ambitious economic plan, the Emerging Senegal Plan (ESP), which aims to implement priority economic reforms and investment projects to increase economic growth while preserving macroeconomic stability and debt sustainability. Bureaucratic bottlenecks and a challenging business climate are among the perennial challenges that may slow the implementation of this plan.</p> <p> </p> <p>Senegal receives technical support from the IMF under a Policy Support Instrument (PSI) to assist with implementation of the ESP. The PSI implementation continues to be satisfactory as concluded by the IMF’s fifth review in December 2017. Financial markets have signaled confidence in Senegal through successful Eurobond issuances in 2014, 2017, and 2018.</p> <p> </p> <p>The government is focusing on 19 projects under the ESP to continue The government’s goal under the ESP is structural transformation of the economy. Key projects include the Thiès-Touba Highway, the new international airport opened in December 2017, and upgrades to energy infrastructure. The cost of electricity is a chief constraint for Senegal’s development. Electricity prices in Senegal are among the highest in the world. Power Africa, a US presidential initiative led by USAID, supports Senegal’s plans to improve reliability and increase generating capacity.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
-$55.26 billion (2020 est.)<br>
-$54.78 billion (2019 est.)<br>
-$52.47 billion (2018 est.)<br>
+$58.991 billion (2021 est.)<br>
+$55.618 billion (2020 est.)<br>
+$54.89 billion (2019 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
-7.2% (2017 est.)<br>
-6.2% (2016 est.)<br>
-6.4% (2015 est.)<br>
+6.06% (2021 est.)<br>
+1.33% (2020 est.)<br>
+4.61% (2019 est.)<br>
 
 **Real GDP per capita**<br>
-$3,300 (2020 est.)<br>
+$3,500 (2021 est.)<br>
+$3,400 (2020 est.)<br>
 $3,400 (2019 est.)<br>
-$3,300 (2018 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
 $23.576 billion (2019 est.)<br>
 
 **Inflation rate (consumer prices)**<br>
--0.8% (2019 est.)<br>
-0.4% (2018 est.)<br>
-1.3% (2017 est.)<br>
+2.55% (2020 est.)<br>
+1.76% (2019 est.)<br>
+0.46% (2018 est.)<br>
 
 **Credit ratings**<br>
 _Moody's rating_: Ba3 (2017)<br>
@@ -480,10 +480,10 @@ groundnuts, watermelons, rice, sugar cane, cassava, millet, maize, onions, sorgh
 agricultural and fish processing, phosphate mining, fertilizer production, petroleum refining, zircon, and gold mining, construction materials, ship construction and repair<br>
 
 **Industrial production growth rate**<br>
-7.7% (2017 est.)<br>
+10.91% (2021 est.)<br>
 
 **Labor force**<br>
-6.966 million (2017 est.)<br>
+4.377 million (2021 est.)<br>
 
 **Labor force - by occupation**<br>
 _agriculture_: 77.5%<br>
@@ -491,12 +491,14 @@ _industry_: 22.5%<br>
 _industry and services_: 22.5% (2007 est.)<br>
 
 **Unemployment rate**<br>
-48% (2007 est.)<br>
+3.72% (2021 est.)<br>
+3.62% (2020 est.)<br>
+2.86% (2019 est.)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 4.1%<br>
-_male_: 2.9%<br>
-_female_: 6.7% (2019 est.)<br>
+_total_: 5%<br>
+_male_: 3.5%<br>
+_female_: 7.5% (2021 est.)<br>
 
 **Population below poverty line**<br>
 46.7% (2011 est.)<br>
@@ -520,18 +522,19 @@ _expenditures_: 4.9 billion (2017 est.)<br>
 47.8% of GDP (2016 est.)<br>
 
 **Taxes and other revenues**<br>
-19.6% (of GDP) (2017 est.)<br>
+16.38% (of GDP) (2018 est.)<br>
 
 **Fiscal year**<br>
 calendar year<br>
 
 **Current account balance**<br>
--$1.547 billion (2017 est.)<br>
--$769 million (2016 est.)<br>
+-$2.215 billion (2018 est.)<br>
+-$1.526 billion (2017 est.)<br>
+-$795.648 million (2016 est.)<br>
 
 **Exports**<br>
-$5.29 billion (2018 est.) note: data are in current year dollars<br>
-$2.498 billion (2016 est.)<br>
+$5.287 billion (2018 est.) note: data are in current year dollars<br>
+$4.593 billion (2017 est.)<br>
 
 **Exports - partners**<br>
 Mali 22%, Switzerland 14%, India 9%, China 7% (2019)<br>
@@ -541,7 +544,7 @@ gold, refined petroleum, phosphoric acid, fish, ground nuts (2019)<br>
 
 **Imports**<br>
 $8.96 billion (2018 est.) note: data are in current year dollars<br>
-$4.966 billion (2016 est.)<br>
+$7.499 billion (2017 est.)<br>
 
 **Imports - partners**<br>
 China 17%, France 11%, Belgium 7%, Russia 7%, Netherlands 7% (2019)<br>
@@ -559,11 +562,11 @@ $6.327 billion (31 December 2016 est.)<br>
 
 **Exchange rates**<br>
 _Currency_: Communaute Financiere Africaine francs (XOF) per US dollar -<br>
-617.4 (2017 est.)<br>
-593.01 (2016 est.)<br>
-593.01 (2015 est.)<br>
-591.45 (2014 est.)<br>
-494.42 (2013 est.)<br>
+554.531 (2021 est.)<br>
+575.586 (2020 est.)<br>
+585.911 (2019 est.)<br>
+555.446 (2018 est.)<br>
+580.657 (2017 est.)<br>
 
 ## Energy
 

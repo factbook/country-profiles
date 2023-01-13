@@ -174,7 +174,7 @@ _female_: 68.06 years (2022 est.)<br>
 4.56 children born/woman (2022 est.)<br>
 
 **Gross reproduction rate**<br>
-2.25 (2022 est.)<br>
+2.25 (2023 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 49.6% (2018)<br>
@@ -229,11 +229,11 @@ _total_: 14.4% (2020 est.)<br>
 _male_: 25.1% (2020 est.)<br>
 _female_: 3.7% (2020 est.)<br>
 
-**Currently married women (ages 15-49)**<br>
-53.8% (2022 est.)<br>
-
 **Children under the age of 5 years underweight**<br>
 11.8% (2018/19)<br>
+
+**Currently married women (ages 15-49)**<br>
+53.3% (2023 est.)<br>
 
 **Child marriage**<br>
 _women married by age 15_: 5.2%<br>
@@ -250,9 +250,9 @@ _male_: 90.6%<br>
 _female_: 83.1% (2018)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 11%<br>
-_male_: 11.4%<br>
-_female_: 10.6% (2020 est.)<br>
+_total_: 26.1%<br>
+_male_: 26.7%<br>
+_female_: 25.4% (2021 est.)<br>
 
 ## Environment
 
@@ -426,29 +426,29 @@ _selected World Heritage Site locales_: Mosi-oa-Tunya/Victoria Falls<br>
 <p>Zambia had one of the world’s fastest growing economies for the ten years up to 2014, with real GDP growth averaging roughly 6.7% per annum, though growth slowed during the period 2015 to 2017, due to falling copper prices, reduced power generation, and depreciation of the kwacha. Zambia’s lack of economic diversification and dependency on copper as its sole major export makes it vulnerable to fluctuations in the world commodities market and prices turned downward in 2015 due to declining demand from China; Zambia was overtaken by the Democratic Republic of Congo as Africa’s largest copper producer. GDP growth picked up in 2017 as mineral prices rose.</p> <p> </p> <p>Despite recent strong economic growth and its status as a lower middle-income country, widespread and extreme rural poverty and high unemployment levels remain significant problems, made worse by a high birth rate, a relatively high HIV/AIDS burden, by market-distorting agricultural and energy policies, and growing government debt. Zambia raised $7 billion from international investors by issuing separate sovereign bonds in 2012, 2014, and 2015. Concurrently, it issued over $4 billion in domestic debt and agreed to Chinese-financed infrastructure projects, significantly increasing the country’s public debt burden to more than 60% of GDP. The government has considered refinancing $3 billion worth of Eurobonds and significant Chinese loans to cut debt servicing costs.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
-$60.12 billion (2020 est.)<br>
-$61.99 billion (2019 est.)<br>
-$61.1 billion (2018 est.)<br>
+$63.03 billion (2021 est.)<br>
+$60.259 billion (2020 est.)<br>
+$61.986 billion (2019 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
-3.4% (2017 est.)<br>
-3.8% (2016 est.)<br>
-2.9% (2015 est.)<br>
+4.6% (2021 est.)<br>
+-2.79% (2020 est.)<br>
+1.44% (2019 est.)<br>
 
 **Real GDP per capita**<br>
-$3,300 (2020 est.)<br>
-$3,500 (2019 est.)<br>
-$3,500 (2018 est.)<br>
+$3,200 (2021 est.)<br>
+$3,200 (2020 est.)<br>
+$3,400 (2019 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
 $25.71 billion (2017 est.)<br>
 
 **Inflation rate (consumer prices)**<br>
-9.1% (2019 est.)<br>
-7.4% (2018 est.)<br>
-6.5% (2017 est.)<br>
+22.02% (2021 est.)<br>
+15.73% (2020 est.)<br>
+9.15% (2019 est.)<br>
 
 **Credit ratings**<br>
 _Fitch rating_: RD (2020)<br>
@@ -476,10 +476,10 @@ sugar cane, cassava, maize, milk, vegetables, soybeans, beef, tobacco, wheat, gr
 copper mining and processing, emerald mining, construction, foodstuffs, beverages, chemicals, textiles, fertilizer, horticulture<br>
 
 **Industrial production growth rate**<br>
-4.7% (2017 est.)<br>
+4.18% (2021 est.)<br>
 
 **Labor force**<br>
-6.898 million (2017 est.)<br>
+8.113 million (2021 est.)<br>
 
 **Labor force - by occupation**<br>
 _agriculture_: 54.8%<br>
@@ -487,20 +487,20 @@ _industry_: 9.9%<br>
 _services_: 35.3% (2017 est.)<br>
 
 **Unemployment rate**<br>
-15% (2008 est.)<br>
-50% (2000 est.)<br>
+13.03% (2021 est.)<br>
+12.85% (2020 est.)<br>
+12.52% (2019 est.)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 11%<br>
-_male_: 11.4%<br>
-_female_: 10.6% (2020 est.)<br>
+_total_: 26.1%<br>
+_male_: 26.7%<br>
+_female_: 25.4% (2021 est.)<br>
 
 **Population below poverty line**<br>
 54.4% (2015 est.)<br>
 
 **Gini Index coefficient - distribution of family income**<br>
 57.1 (2015 est.)<br>
-50.8 (2004)<br>
 
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 1.5%<br>
@@ -514,23 +514,25 @@ _expenditures_: 6.357 billion (2017 est.)<br>
 -7.3% (of GDP) (2017 est.)<br>
 
 **Public debt**<br>
-63.1% of GDP (2017 est.)<br>
-60.7% of GDP (2016 est.)<br>
+103.7% of GDP (2020 est.)<br>
+61.93% of GDP (2019 est.)<br>
+59.71% of GDP (2018 est.)<br>
 
 **Taxes and other revenues**<br>
-17.4% (of GDP) (2017 est.)<br>
+16.44% (of GDP) (2020 est.)<br>
 
 **Fiscal year**<br>
 calendar year<br>
 
 **Current account balance**<br>
--$1.006 billion (2017 est.)<br>
--$934 million (2016 est.)<br>
+$2.531 billion (2021 est.)<br>
+$961.821 million (2020 est.)<br>
+$140.712 million (2019 est.)<br>
 
 **Exports**<br>
-$8.55 billion (2020 est.) note: data are in current year dollars<br>
-$8.26 billion (2019 est.) note: data are in current year dollars<br>
-$9.98 billion (2018 est.) note: data are in current year dollars<br>
+$11.716 billion (2021 est.) note: data are in current year dollars<br>
+$8.558 billion (2020 est.) note: data are in current year dollars<br>
+$8.258 billion (2019 est.) note: data are in current year dollars<br>
 
 **Exports - partners**<br>
 Switzerland 29%, China 16%, Namibia 12%, Democratic Republic of the Congo 9%, Singapore 5% (2019)<br>
@@ -539,9 +541,9 @@ Switzerland 29%, China 16%, Namibia 12%, Democratic Republic of the Congo 9%, Si
 copper, gold, gemstones, sulfuric acid, raw sugar, tobacco (2019)<br>
 
 **Imports**<br>
-$5.92 billion (2020 est.) note: data are in current year dollars<br>
-$8.04 billion (2019 est.) note: data are in current year dollars<br>
-$10.19 billion (2018 est.) note: data are in current year dollars<br>
+$7.701 billion (2021 est.) note: data are in current year dollars<br>
+$7.049 billion (2020 est.) note: data are in current year dollars<br>
+$8.036 billion (2019 est.) note: data are in current year dollars<br>
 
 **Imports - partners**<br>
 South Africa 29%, China 14%, United Arab Emirates 12%, India 5% (2019)<br>
@@ -550,8 +552,9 @@ South Africa 29%, China 14%, United Arab Emirates 12%, India 5% (2019)<br>
 refined petroleum, crude petroleum, delivery trucks, gold, fertilizers (2019)<br>
 
 **Reserves of foreign exchange and gold**<br>
-$2.082 billion (31 December 2017 est.)<br>
-$2.353 billion (31 December 2016 est.)<br>
+$2.754 billion (31 December 2021 est.)<br>
+$1.203 billion (31 December 2020 est.)<br>
+$1.449 billion (31 December 2019 est.)<br>
 
 **Debt - external**<br>
 $11.66 billion (31 December 2017 est.)<br>
@@ -559,11 +562,11 @@ $9.562 billion (31 December 2016 est.)<br>
 
 **Exchange rates**<br>
 _Currency_: Zambian kwacha (ZMK) per US dollar -<br>
-21.065 (2020 est.)<br>
-15.3736 (2019 est.)<br>
-11.855 (2018 est.)<br>
-8.6 (2014 est.)<br>
-6.2 (2013 est.)<br>
+20.018 (2021 est.)<br>
+18.344 (2020 est.)<br>
+12.89 (2019 est.)<br>
+10.458 (2018 est.)<br>
+9.518 (2017 est.)<br>
 
 ## Energy
 

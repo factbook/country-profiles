@@ -156,7 +156,7 @@ _female_: 85.79 years (2022 est.)<br>
 1.45 children born/woman (2022 est.)<br>
 
 **Gross reproduction rate**<br>
-0.7 (2022 est.)<br>
+0.7 (2023 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 NA<br>
@@ -363,9 +363,9 @@ $3.273 billion (2013 est.)<br>
 <strong>note:</strong> data are in 2012 US dollars<br>
 
 **Real GDP growth rate**<br>
--1.1% (2015 est.)<br>
-1.4% (2014 est.)<br>
--0.1% (2013 est.)<br>
+8.95% (2021 est.)<br>
+-11.18% (2020 est.)<br>
+2.02% (2019 est.)<br>
 
 **Real GDP per capita**<br>
 $49,900 (2015 est.)<br>
@@ -396,7 +396,7 @@ small quantities of rye, wheat, barley, oats, vegetables, tobacco, sheep, cattle
 tourism (particularly skiing), banking, timber, furniture<br>
 
 **Industrial production growth rate**<br>
-NA<br>
+-3.9% (2020 est.) NA<br>
 
 **Labor force**<br>
 39,750 (2016)<br>
@@ -431,9 +431,13 @@ _expenditures_: 2.06 billion (2016)<br>
 **Fiscal year**<br>
 calendar year<br>
 
+**Current account balance**<br>
+$448.869 million (2020 est.)<br>
+$568.257 million (2019 est.)<br>
+
 **Exports**<br>
-$78.71 million (2015 est.)<br>
-$79.57 million (2014 est.)<br>
+$1.842 billion (2020 est.)<br>
+$2.335 billion (2019 est.)<br>
 <strong>note:</strong> Data are in current year dollars and do not include illicit exports or re-exports.<br>
 
 **Exports - partners**<br>
@@ -443,8 +447,8 @@ Spain 40%, France 19%, United States 11%, Mauritania 5% (2019)<br>
 integrated circuits, medical supplies, essential oils, cars, tanned hides (2019)<br>
 
 **Imports**<br>
-$1.257 billion (2015 est.)<br>
-$1.264 billion (2014 est.)<br>
+$1.727 billion (2020 est.)<br>
+$2.032 billion (2019 est.)<br>
 
 **Imports - partners**<br>
 Spain 71%, France 17% (2019)<br>
@@ -457,11 +461,11 @@ $0 (2016)<br>
 
 **Exchange rates**<br>
 _Currency_: euros (EUR) per US dollar -<br>
+0.845 (2021 est.)<br>
 0.885 (2017 est.)<br>
 0.903 (2016 est.)<br>
-0.9214 (2015 est.)<br>
+0.921 (2015 est.)<br>
 0.885 (2014 est.)<br>
-0.7634 (2013 est.)<br>
 
 ## Energy
 

@@ -161,7 +161,7 @@ _female_: 81.56 years (2022 est.)<br>
 1.98 children born/woman (2022 est.)<br>
 
 **Gross reproduction rate**<br>
-0.97 (2022 est.)<br>
+0.96 (2023 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 64.6% (2016)<br>
@@ -215,11 +215,11 @@ _total_: 22% (2020 est.)<br>
 _male_: 41.4% (2020 est.)<br>
 _female_: 2.6% (2020 est.)<br>
 
-**Currently married women (ages 15-49)**<br>
-65.4% (2022 est.)<br>
-
 **Children under the age of 5 years underweight**<br>
 20.5% (2016)<br>
+
+**Currently married women (ages 15-49)**<br>
+65.1% (2023 est.)<br>
 
 **Child marriage**<br>
 _women married by age 15_: 0.9%<br>
@@ -240,9 +240,9 @@ _male_: 14 years<br>
 _female_: 14 years (2018)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 21%<br>
-_male_: 17.1%<br>
-_female_: 28.1% (2019 est.)<br>
+_total_: 26.1%<br>
+_male_: 21.1%<br>
+_female_: 35.6% (2021 est.)<br>
 
 ## Environment
 
@@ -409,29 +409,29 @@ _selected World Heritage Site locales_: Ancient City of Polonnaruwa (c); Ancient
 <p>Sri Lanka’s economy has historically relied upon government-guided market investments, and since 2009, several sectors have been excluded from any privatization efforts. Major infrastructure development of rural and civil war-impacted areas remains a major focus, as does small business development. Sri Lanka’s longstanding high debt and large civil service have contributed to historically high budget deficits and remain a concern. Sri Lankan tourism soared since the end of conflict with the Liberation Tigers of Tamil Eelam, but the 2018 constitutional crisis, the 2019 Easter bombings, and the ongoing COVID-19 pandemic have since destabilized this key industry, leading Sri Lanka to nearly expend all foreign currency reserves. Regionally, Sri Lanka has engaged China on major infrastructure projects and currently owes $6.5 billion, which may soon be restructured.</p> <p>Fiscally, Sri Lanka’s focus on domestic goods—instead of export growth—further increased Sri Lanka’s trade imbalance, despite its EU preferential trade status allowing tax-free garment and gem exports to the EU. From 2019 until its repeal in 2021, Sri Lanka’s agricultural import ban on chemical fertilizers resulted in disastrous reductions in rice, tea, and rubber yields, increasing Sri Lanka’s import dependencies for these goods. The ongoing Russo-Ukrainian War has also decreased fuel supplies and significantly increased prices. India is providing both direct fertilizer and fuel aid to offset these shortages. Power shortages plague business climates, and further stoke existing labor shortages. Additionally Sri Lanka is also considering privatizing several state-owned entities to try to spur industrial and service sectors’ growth.</p> <p>Monetarily, Sri Lanka remains in a dire position, further exacerbated by the 2019 tax cuts that contributed to the country’s ongoing economic calamity. Already one of the highest indebted emerging markets, Sri Lanka defaulted on its current public debt payments in May 2022, and its ongoing currency crisis has crippled domestic revenues, tax collections, and economic activity, ushering in the country’s worst economic crisis since independence in 1948. As a result, inflation is skyrocketing (nearing 40%), and food, fuel, and medicine shortages have led to widespread unrest and economic collapse. Sri Lanka currently seeks an immediate $3 million IMF bridge loan and $75 million in foreign currency to pay for essential goods and fuel.The World Bank, India, and the G7 countries have agreed to aid Sri Lanka in securing debt relief, but the IMF maintains that Sri Lanka must raise interest rates and taxes to secure any loan.</p> <p>Current Sri Lankan priorities focus on the following goals:</p> <ul> <li>Securing a bridge loan from the IMF;</li> <li>Improving its foreign currency reserves through continued promotion of tourism and privatization of state enterprises;</li> <li>Recovering from COVID-19 pandemic-related economic disruptions and demand shocks;</li> <li>Identifying alternative fuel supply chains; and</li> <li>Restructuring preexisting infrastructure debts to China.</li> </ul><br>
 
 **Real GDP (purchasing power parity)**<br>
-$274.8 billion (2020 est.)<br>
-$284.97 billion (2019 est.)<br>
-$278.68 billion (2018 est.)<br>
+$296.595 billion (2021 est.)<br>
+$287.046 billion (2020 est.)<br>
+$297.372 billion (2019 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
-2.29% (2019 est.)<br>
-3.32% (2018 est.)<br>
-3.58% (2017 est.)<br>
+3.33% (2021 est.)<br>
+-3.47% (2020 est.)<br>
+-0.22% (2019 est.)<br>
 
 **Real GDP per capita**<br>
-$12,500 (2020 est.)<br>
-$13,100 (2019 est.)<br>
-$12,900 (2018 est.)<br>
+$13,400 (2021 est.)<br>
+$13,100 (2020 est.)<br>
+$13,600 (2019 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
 $84.016 billion (2019 est.)<br>
 
 **Inflation rate (consumer prices)**<br>
-4.3% (2019 est.)<br>
-4.2% (2018 est.)<br>
-6.5% (2017 est.)<br>
+7.01% (2021 est.)<br>
+6.15% (2020 est.)<br>
+3.53% (2019 est.)<br>
 
 **Credit ratings**<br>
 _Fitch rating_: CCC (2020)<br>
@@ -459,10 +459,10 @@ rice, coconuts, sugar cane, plantains, milk, tea, cassava, maize, poultry, coir<
 processing of rubber, tea, coconuts, tobacco and other agricultural commodities; telecommunications, insurance, banking; tourism, shipping; clothing, textiles; cement, petroleum refining, information technology services, construction<br>
 
 **Industrial production growth rate**<br>
-4.6% (2017 est.)<br>
+5.62% (2021 est.)<br>
 
 **Labor force**<br>
-8 million (2020 est.)<br>
+8.268 million (2021 est.)<br>
 
 **Labor force - by occupation**<br>
 _agriculture_: 27%<br>
@@ -470,20 +470,20 @@ _industry_: 26%<br>
 _services_: 47% (31 December 2016)<br>
 
 **Unemployment rate**<br>
-4.83% (2019 est.)<br>
-4.44% (2018 est.)<br>
+5.39% (2021 est.)<br>
+5.88% (2020 est.)<br>
+4.35% (2019 est.)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 21%<br>
-_male_: 17.1%<br>
-_female_: 28.1% (2019 est.)<br>
+_total_: 26.1%<br>
+_male_: 21.1%<br>
+_female_: 35.6% (2021 est.)<br>
 
 **Population below poverty line**<br>
 4.1% (2016 est.)<br>
 
 **Gini Index coefficient - distribution of family income**<br>
 39.8 (2016 est.)<br>
-46 (1995)<br>
 
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 3%<br>
@@ -502,19 +502,20 @@ _expenditures_: 16.88 billion (2017 est.)<br>
 <strong>note:</strong> covers central government debt and excludes debt instruments directly owned by government entities other than the treasury (e.g. commercial bank borrowings of a government corporation); the data includes treasury debt held by foreign entities as well as intragovernmental debt; intragovernmental debt consists of treasury borrowings from surpluses in the social funds, such as for retirement; sub-national entities are usually not permitted to sell debt instruments<br>
 
 **Taxes and other revenues**<br>
-13.8% (of GDP) (2017 est.)<br>
+7.68% (of GDP) (2020 est.)<br>
 
 **Fiscal year**<br>
 calendar year<br>
 
 **Current account balance**<br>
--$10 million (2019 est.)<br>
--$17 million (2018 est.)<br>
+-$1.083 billion (2020 est.)<br>
+-$1.843 billion (2019 est.)<br>
+-$2.799 billion (2018 est.)<br>
 
 **Exports**<br>
-$19.41 billion (2019 est.) note: data are in current year dollars<br>
-$20.26 billion (2018 est.) note: data are in current year dollars<br>
-$15.166 billion (2017 est.)<br>
+$13.083 billion (2020 est.) note: data are in current year dollars<br>
+$19.414 billion (2019 est.) note: data are in current year dollars<br>
+$20.264 billion (2018 est.)<br>
 
 **Exports - partners**<br>
 United States 24%, India 8%, United Kingdom 7%, Germany 7% (2019)<br>
@@ -523,9 +524,9 @@ United States 24%, India 8%, United Kingdom 7%, Germany 7% (2019)<br>
 clothing and apparel, tea, used tires, rubber products, precious stones, cinnamon (2019)<br>
 
 **Imports**<br>
-$24.56 billion (2019 est.) note: data are in current year dollars<br>
-$26.84 billion (2018 est.) note: data are in current year dollars<br>
-$26.063 billion (2017 est.)<br>
+$18.271 billion (2020 est.) note: data are in current year dollars<br>
+$24.562 billion (2019 est.) note: data are in current year dollars<br>
+$26.841 billion (2018 est.)<br>
 
 **Imports - partners**<br>
 India 24%, China 23%, Singapore 7%, United Arab Emirates 6%, Malaysia 5% (2019)<br>
@@ -534,8 +535,9 @@ India 24%, China 23%, Singapore 7%, United Arab Emirates 6%, Malaysia 5% (2019)<
 refined petroleum, textiles, gold, cars, broadcasting equipment (2019)<br>
 
 **Reserves of foreign exchange and gold**<br>
-$7.959 billion (31 December 2017 est.)<br>
-$6.019 billion (31 December 2016 est.)<br>
+$3.137 billion (31 December 2021 est.)<br>
+$5.664 billion (31 December 2020 est.)<br>
+$7.648 billion (31 December 2019 est.)<br>
 
 **Debt - external**<br>
 $55.332 billion (2019 est.)<br>
@@ -543,11 +545,11 @@ $52.567 billion (2018 est.)<br>
 
 **Exchange rates**<br>
 _Currency_: Sri Lankan rupees (LKR) per US dollar -<br>
-185.8 (2020 est.)<br>
-181.2 (2019 est.)<br>
-178.545 (2018 est.)<br>
-135.86 (2014 est.)<br>
-130.57 (2013 est.)<br>
+198.764 (2021 est.)<br>
+185.593 (2020 est.)<br>
+178.745 (2019 est.)<br>
+162.465 (2018 est.)<br>
+152.446 (2017 est.)<br>
 
 ## Energy
 

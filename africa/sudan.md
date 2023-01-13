@@ -167,7 +167,7 @@ _female_: 69.46 years (2022 est.)<br>
 4.6 children born/woman (2022 est.)<br>
 
 **Gross reproduction rate**<br>
-2.24 (2022 est.)<br>
+2.21 (2023 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 12.2% (2014)<br>
@@ -218,11 +218,11 @@ _wine_: 0 liters of pure alcohol (2019 est.)<br>
 _spirits_: 0.29 liters of pure alcohol (2019 est.)<br>
 _other alcohols_: 1.63 liters of pure alcohol (2019 est.)<br>
 
-**Currently married women (ages 15-49)**<br>
-61.7% (2022 est.)<br>
-
 **Children under the age of 5 years underweight**<br>
 33% (2014)<br>
+
+**Currently married women (ages 15-49)**<br>
+61.4% (2023 est.)<br>
 
 **Education expenditures**<br>
 NA<br>
@@ -239,9 +239,9 @@ _male_: 8 years<br>
 _female_: 7 years (2015)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 32.6%<br>
-_male_: 27.4%<br>
-_female_: 43.5% (2011 est.)<br>
+_total_: 35.6%<br>
+_male_: 30.5%<br>
+_female_: 45.8% (2021 est.)<br>
 
 ## Environment
 
@@ -415,29 +415,29 @@ _selected World Heritage Site locales_: Gebel Barkal and the Sites of the Napata
 <p>Sudan has experienced protracted social conflict and the loss of three quarters of its oil production due to the secession of South Sudan. The oil sector had driven much of Sudan's GDP growth since 1999. For nearly a decade, the economy boomed on the back of rising oil production, high oil prices, and significant inflows of foreign direct investment. Since the economic shock of South Sudan's secession, Sudan has struggled to stabilize its economy and make up for the loss of foreign exchange earnings. The interruption of oil production in South Sudan in 2012 for over a year and the consequent loss of oil transit fees further exacerbated the fragile state of Sudan’s economy. Ongoing conflicts in Southern Kordofan, Darfur, and the Blue Nile states, lack of basic infrastructure in large areas, and reliance by much of the population on subsistence agriculture, keep close to half of the population at or below the poverty line.</p> <p>Sudan was subject to comprehensive US sanctions, which were lifted in October 2017. Sudan is attempting to develop non-oil sources of revenues, such as gold mining and agriculture, while carrying out an austerity program to reduce expenditures. The world’s largest exporter of gum Arabic, Sudan produces 75-80% of the world’s total output. Agriculture continues to employ 80% of the work force.</p> <p>Sudan introduced a new currency, still called the Sudanese pound, following South Sudan's secession, but the value of the currency has fallen since its introduction. Khartoum formally devalued the currency in June 2012, when it passed austerity measures that included gradually repealing fuel subsidies. Sudan also faces high inflation, which reached 47% on an annual basis in November 2012 but fell to about 35% per year in 2017.</p> (2017)<br>
 
 **Real GDP (purchasing power parity)**<br>
-$176.4 billion (2020 est.)<br>
-$179.2 billion (2019 est.)<br>
-$181.61 billion (2018 est.)<br>
+$168.98 billion (2021 est.)<br>
+$172.198 billion (2020 est.)<br>
+$178.684 billion (2019 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
-1.4% (2017 est.)<br>
-3% (2016 est.)<br>
-1.3% (2015 est.)<br>
+-1.87% (2021 est.)<br>
+-3.63% (2020 est.)<br>
+-2.18% (2019 est.)<br>
 
 **Real GDP per capita**<br>
-$4,000 (2020 est.)<br>
-$4,200 (2019 est.)<br>
-$4,300 (2018 est.)<br>
+$3,700 (2021 est.)<br>
+$3,900 (2020 est.)<br>
+$4,100 (2019 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
 $24.918 billion (2019 est.)<br>
 
 **Inflation rate (consumer prices)**<br>
-50.2% (2019 est.)<br>
-62.8% (2018 est.)<br>
-32.5% (2017 est.)<br>
+382.82% (2021 est.)<br>
+150.32% (2020 est.)<br>
+50.99% (2019 est.)<br>
 
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 39.6% (2017 est.)<br>
@@ -459,10 +459,10 @@ sugar cane, sorghum, milk, groundnuts, onions, sesame seed, goat milk, millet, b
 oil, cotton ginning, textiles, cement, edible oils, sugar, soap distilling, shoes, petroleum refining, pharmaceuticals, armaments, automobile/light truck assembly, milling<br>
 
 **Industrial production growth rate**<br>
-4.5% (2017 est.)<br>
+-0.7% (2021 est.)<br>
 
 **Labor force**<br>
-11.92 million (2007 est.)<br>
+12.921 million (2021 est.)<br>
 
 **Labor force - by occupation**<br>
 _agriculture_: 80%<br>
@@ -470,13 +470,14 @@ _industry_: 7%<br>
 _services_: 13% (1998 est.)<br>
 
 **Unemployment rate**<br>
-19.6% (2017 est.)<br>
-20.6% (2016 est.)<br>
+19.81% (2021 est.)<br>
+19.65% (2020 est.)<br>
+17.65% (2019 est.)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 32.6%<br>
-_male_: 27.4%<br>
-_female_: 43.5% (2011 est.)<br>
+_total_: 35.6%<br>
+_male_: 30.5%<br>
+_female_: 45.8% (2021 est.)<br>
 
 **Population below poverty line**<br>
 46.5% (2009 est.)<br>
@@ -500,18 +501,20 @@ _expenditures_: 13.36 billion (2017 est.)<br>
 99.5% of GDP (2016 est.)<br>
 
 **Taxes and other revenues**<br>
-18.5% (of GDP) (2017 est.)<br>
+7.39% (of GDP) (2016 est.)<br>
 
 **Fiscal year**<br>
 calendar year<br>
 
 **Current account balance**<br>
--$4.811 billion (2017 est.)<br>
--$4.213 billion (2016 est.)<br>
+-$2.886 billion (2021 est.)<br>
+-$5.841 billion (2020 est.)<br>
+-$4.78 billion (2019 est.)<br>
 
 **Exports**<br>
-$5.11 billion (2019 est.) note: data are in current year dollars<br>
-$5 billion (2018 est.) note: data are in current year dollars<br>
+$5.916 billion (2021 est.) note: data are in current year dollars<br>
+$5.065 billion (2020 est.) note: data are in current year dollars<br>
+$5.101 billion (2019 est.)<br>
 
 **Exports - partners**<br>
 United Arab Emirates 31%, China 19%, Saudi Arabia 14%, India 12%, Egypt 5% (2019)<br>
@@ -520,8 +523,9 @@ United Arab Emirates 31%, China 19%, Saudi Arabia 14%, India 12%, Egypt 5% (2019
 gold, crude petroleum, sesame seeds, sheep, goats, cotton, ground nuts (2019)<br>
 
 **Imports**<br>
-$9.79 billion (2019 est.) note: data are in current year dollars<br>
-$8.24 billion (2018 est.) note: data are in current year dollars<br>
+$9.788 billion (2021 est.) note: data are in current year dollars<br>
+$10.52 billion (2020 est.) note: data are in current year dollars<br>
+$9.787 billion (2019 est.)<br>
 
 **Imports - partners**<br>
 China 31%, India 14%, United Arab Emirates 11%, Egypt 6% (2019)<br>
@@ -530,7 +534,7 @@ China 31%, India 14%, United Arab Emirates 11%, Egypt 6% (2019)<br>
 raw sugar, wheat, packaged medicines, jewelry, tires, cars and vehicle parts (2019)<br>
 
 **Reserves of foreign exchange and gold**<br>
-$198 million (31 December 2017 est.)<br>
+$177.934 million (31 December 2017 est.)<br>
 $168.3 million (31 December 2016 est.)<br>
 
 **Debt - external**<br>
@@ -539,11 +543,11 @@ $51.26 billion (31 December 2016 est.)<br>
 
 **Exchange rates**<br>
 _Currency_: Sudanese pounds (SDG) per US dollar -<br>
-6.72 (2017 est.)<br>
-6.14 (2016 est.)<br>
-6.14 (2015 est.)<br>
-6.03 (2014 est.)<br>
-5.74 (2013 est.)<br>
+53.996 (2020 est.)<br>
+45.767 (2019 est.)<br>
+24.329 (2018 est.)<br>
+6.683 (2017 est.)<br>
+6.212 (2016 est.)<br>
 
 ## Energy
 

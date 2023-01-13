@@ -170,7 +170,7 @@ _female_: 77 years (2022 est.)<br>
 1.46 children born/woman (2022 est.)<br>
 
 **Gross reproduction rate**<br>
-0.71 (2022 est.)<br>
+0.71 (2023 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 62.3% (2019)<br>
@@ -222,11 +222,11 @@ _total_: 39.8% (2020 est.)<br>
 _male_: 40.5% (2020 est.)<br>
 _female_: 39.1% (2020 est.)<br>
 
-**Currently married women (ages 15-49)**<br>
-60.5% (2022 est.)<br>
-
 **Children under the age of 5 years underweight**<br>
 1% (2019)<br>
+
+**Currently married women (ages 15-49)**<br>
+60.8% (2023 est.)<br>
 
 **Child marriage**<br>
 _women married by age 15_: 1.2%<br>
@@ -247,9 +247,9 @@ _male_: 14 years<br>
 _female_: 15 years (2021)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 25.5%<br>
-_male_: 23.5%<br>
-_female_: 28.8% (2021 est.)<br>
+_total_: 30.4%<br>
+_male_: 28.5%<br>
+_female_: 33.7% (2021 est.)<br>
 
 ## Environment
 
@@ -422,29 +422,29 @@ _selected World Heritage Site locales_: Stari Ras and Sopoćani; Studenica Monas
 <p>Serbia has a transitional economy largely dominated by market forces, but the state sector remains significant in certain areas. The economy relies on manufacturing and exports, driven largely by foreign investment. MILOSEVIC-era mismanagement of the economy, an extended period of international economic sanctions, civil war, and the damage to Yugoslavia's infrastructure and industry during the NATO airstrikes in 1999 left the economy worse off than it was in 1990. In 2015, Serbia’s GDP was 27.5% below where it was in 1989.</p> <p> </p> <p>After former Federal Yugoslav President MILOSEVIC was ousted in September 2000, the Democratic Opposition of Serbia (DOS) coalition government implemented stabilization measures and embarked on a market reform program. Serbia renewed its membership in the IMF in December 2000 and rejoined the World Bank and the European Bank for Reconstruction and Development. Serbia has made progress in trade liberalization and enterprise restructuring and privatization, but many large enterprises - including the power utilities, telecommunications company, natural gas company, and others - remain state-owned. Serbia has made some progress towards EU membership, gaining candidate status in March 2012. In January 2014, Serbia's EU accession talks officially opened and, as of December 2017, Serbia had opened 12 negotiating chapters including one on foreign trade. Serbia's negotiations with the WTO are advanced, with the country's complete ban on the trade and cultivation of agricultural biotechnology products representing the primary remaining obstacle to accession. Serbia maintains a three-year Stand-by Arrangement with the IMF worth approximately $1.3 billion that is scheduled to end in February 2018. The government has shown progress implementing economic reforms, such as fiscal consolidation, privatization, and reducing public spending.</p> <p> </p> <p>Unemployment in Serbia, while relatively low (16% in 2017) compared with its Balkan neighbors, remains significantly above the European average. Serbia is slowly implementing structural economic reforms needed to ensure the country's long-term prosperity. Serbia reduced its budget deficit to 1.7% of GDP and its public debt to 71% of GDP in 2017. Public debt had more than doubled between 2008 and 2015. Serbia's concerns about inflation and exchange-rate stability preclude the use of expansionary monetary policy.</p> <p> </p> <p>Major economic challenges ahead include: stagnant household incomes; the need for private sector job creation; structural reforms of state-owned companies; strategic public sector reforms; and the need for new foreign direct investment. Other serious longer-term challenges include an inefficient judicial system, high levels of corruption, and an aging population. Factors favorable to Serbia's economic growth include the economic reforms it is undergoing as part of its EU accession process and IMF agreement, its strategic location, a relatively inexpensive and skilled labor force, and free trade agreements with the EU, Russia, Turkey, and countries that are members of the Central European Free Trade Agreement.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
-$125.8 billion (2020 est.)<br>
-$127.04 billion (2019 est.)<br>
-$121.87 billion (2018 est.)<br>
+$135.534 billion (2021 est.)<br>
+$126.019 billion (2020 est.)<br>
+$127.168 billion (2019 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
-4.18% (2019 est.)<br>
-4.4% (2018 est.)<br>
-2.05% (2017 est.)<br>
+7.55% (2021 est.)<br>
+-0.9% (2020 est.)<br>
+4.33% (2019 est.)<br>
 
 **Real GDP per capita**<br>
-$18,200 (2020 est.)<br>
+$19,800 (2021 est.)<br>
+$18,300 (2020 est.)<br>
 $18,300 (2019 est.)<br>
-$17,500 (2018 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
 $51.449 billion (2019 est.)<br>
 
 **Inflation rate (consumer prices)**<br>
--0.1% (2019 est.)<br>
--1.1% (2018 est.)<br>
-2% (2017 est.)<br>
+4.09% (2021 est.)<br>
+1.58% (2020 est.)<br>
+1.85% (2019 est.)<br>
 
 **Credit ratings**<br>
 _Fitch rating_: BB+ (2019)<br>
@@ -472,10 +472,10 @@ maize, wheat, sugar beet, milk, sunflower seed, potatoes, soybeans, plums/sloes,
 automobiles, base metals, furniture, food processing, machinery, chemicals, sugar, tires, clothes, pharmaceuticals<br>
 
 **Industrial production growth rate**<br>
-3.9% (2017 est.)<br>
+8.63% (2021 est.)<br>
 
 **Labor force**<br>
-3 million (2020 est.)<br>
+3.176 million (2021 est.)<br>
 
 **Labor force - by occupation**<br>
 _agriculture_: 19.4%<br>
@@ -483,20 +483,20 @@ _industry_: 24.5%<br>
 _services_: 56.1% (2017 est.)<br>
 
 **Unemployment rate**<br>
-14.1% (2017 est.)<br>
-15.9% (2016 est.)<br>
+11.81% (2021 est.)<br>
+9.01% (2020 est.)<br>
+10.39% (2019 est.)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 25.5%<br>
-_male_: 23.5%<br>
-_female_: 28.8% (2021 est.)<br>
+_total_: 30.4%<br>
+_male_: 28.5%<br>
+_female_: 33.7% (2021 est.)<br>
 
 **Population below poverty line**<br>
 23.2% (2018 est.)<br>
 
 **Gini Index coefficient - distribution of family income**<br>
 36.2 (2017 est.)<br>
-28.2 (2008 est.)<br>
 
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 2.2%<br>
@@ -515,16 +515,17 @@ _expenditures_: 17.59 billion (2017 est.)<br>
 73.1% of GDP (2016 est.)<br>
 
 **Taxes and other revenues**<br>
-42.7% (of GDP) (2017 est.)<br>
+23.49% (of GDP) (2020 est.)<br>
 
 **Current account balance**<br>
--$2.354 billion (2017 est.)<br>
--$1.189 billion (2016 est.)<br>
+-$2.742 billion (2021 est.)<br>
+-$2.177 billion (2020 est.)<br>
+-$3.535 billion (2019 est.)<br>
 
 **Exports**<br>
-$25.42 billion (2020 est.) note: data are in current year dollars<br>
-$26.13 billion (2019 est.) note: data are in current year dollars<br>
-$24.97 billion (2018 est.) note: data are in current year dollars<br>
+$33.726 billion (2021 est.) note: data are in current year dollars<br>
+$25.5 billion (2020 est.) note: data are in current year dollars<br>
+$26.127 billion (2019 est.) note: data are in current year dollars<br>
 
 **Exports - partners**<br>
 Germany 12%, Italy 10%, Bosnia and Herzegovina 7%, Romania 6%, Russia 5%&nbsp; (2019)<br>
@@ -533,9 +534,9 @@ Germany 12%, Italy 10%, Bosnia and Herzegovina 7%, Romania 6%, Russia 5%&nbsp; (
 insulated wiring, tires, corn, cars, iron products, copper (2019)<br>
 
 **Imports**<br>
-$30.15 billion (2020 est.) note: data are in current year dollars<br>
-$31.29 billion (2019 est.) note: data are in current year dollars<br>
-$29.78 billion (2018 est.) note: data are in current year dollars<br>
+$39.039 billion (2021 est.) note: data are in current year dollars<br>
+$30.177 billion (2020 est.) note: data are in current year dollars<br>
+$31.286 billion (2019 est.) note: data are in current year dollars<br>
 
 **Imports - partners**<br>
 Germany 13%, Russia 9%, Italy 8%, Hungary 6%, China 5%, Turkey 5% (2019)<br>
@@ -544,8 +545,9 @@ Germany 13%, Russia 9%, Italy 8%, Hungary 6%, China 5%, Turkey 5% (2019)<br>
 crude petroleum, cars, packaged medicines, natural gas, refined petroleum (2019)<br>
 
 **Reserves of foreign exchange and gold**<br>
-$11.91 billion (31 December 2017 est.)<br>
-$10.76 billion (31 December 2016 est.)<br>
+$18.617 billion (31 December 2021 est.)<br>
+$16.587 billion (31 December 2020 est.)<br>
+$14.995 billion (31 December 2019 est.)<br>
 
 **Debt - external**<br>
 $30.927 billion (2019 est.)<br>
@@ -553,11 +555,11 @@ $30.618 billion (2018 est.)<br>
 
 **Exchange rates**<br>
 _Currency_: Serbian dinars (RSD) per US dollar -<br>
-112.4 (2017 est.)<br>
-111.278 (2016 est.)<br>
-111.278 (2015 est.)<br>
-108.811 (2014 est.)<br>
-88.405 (2013 est.)<br>
+99.396 (2021 est.)<br>
+103.163 (2020 est.)<br>
+105.25 (2019 est.)<br>
+100.175 (2018 est.)<br>
+107.759 (2017 est.)<br>
 
 ## Energy
 
@@ -729,7 +731,7 @@ the Serbian Armed Forces were established in June 2006; the Serbian military tra
 <p><em>Serbia-Bosnia and Herzegovina</em>: Serbia delimited about half of the boundary with Bosnia and Herzegovina, but sections along the Drina River remain in dispute</p> <p><em>Serbia-Bulgaria</em>: none identified</p> <p><em>Serbia-Croatia</em>: Serbia and Croatia dispute their border along the Danube; Serbia claims the border is the median between the current Danube shorelines, with the land to the eastern side of the median belonging to Serbia; Croatia contends that the boundary is demarcated according to historic maps, despite the river having meandered since then</p> <p><em>Serbia-Hungary</em>: none identified</p> <p><em>Serbia-Kosovo</em>: Serbia with several other states protested the US and other states' recognition of Kosovo's declaration of its status as a sovereign and independent state in February 2008; ethnic Serbian municipalities along Kosovo's northern border challenge final status of Kosovo-Serbia boundary; since 1999, NATO-led Kosovo Force peacekeepers under UN Interim Administration Mission in Kosovo (UNMIK) authority have continued to keep the peace within Kosovo between the ethnic Albanian majority and the Serb minority; in October 2021, NATO-led KFOR increased patrols along the border with Serbia to deescalate hostilities caused by a dispute over license plates</p> <p><em>Serbia-Montenegro</em>: the former republic boundary serves as the boundary until a line is formally delimited and demarcated</p> <p><em>Serbia-North Macedonia</em>: none identified</p> <p><em>Serbia-Romania</em>: none identified</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 17,336 (Croatia), 7,997 (Bosnia and Herzegovina) (mid-year 2021); 22,716 (Ukraine) (includes Ukrainian refugees in Kosovo; as of 22 November 2022)<br>
+_refugees (country of origin)_: 17,334 (Croatia), 7,997 (Bosnia and Herzegovina) (mid-year 2022); 22,716 (Ukraine) (includes Ukrainian refugees in Kosovo; as of 22 November 2022)<br>
 _IDPs_: 196,995 (most are Kosovar Serbs, some are Roma, Ashkalis, and Egyptian (RAE); some RAE IDPs are unregistered) (2021)<br>
 _stateless persons_: 2,113 (includes stateless persons in Kosovo) (mid-year 2021)<br>
 <strong>note:</strong> 918,319 estimated refugee and migrant arrivals (January 2015-November 2022); Serbia is predominantly a transit country and hosts an estimated 6,313 migrants and asylum seekers as of June 2022<br>

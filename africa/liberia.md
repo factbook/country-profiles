@@ -164,7 +164,7 @@ _female_: 67.78 years (2022 est.)<br>
 4.79 children born/woman (2022 est.)<br>
 
 **Gross reproduction rate**<br>
-2.36 (2022 est.)<br>
+2.33 (2023 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 24.9% (2019/20)<br>
@@ -218,11 +218,11 @@ _total_: 8.2% (2020 est.)<br>
 _male_: 14.3% (2020 est.)<br>
 _female_: 2% (2020 est.)<br>
 
-**Currently married women (ages 15-49)**<br>
-49.6% (2022 est.)<br>
-
 **Children under the age of 5 years underweight**<br>
 10.9% (2019/20)<br>
+
+**Currently married women (ages 15-49)**<br>
+48.7% (2023 est.)<br>
 
 **Child marriage**<br>
 _women married by age 15_: NA<br>
@@ -239,9 +239,9 @@ _male_: 62.7%<br>
 _female_: 34.1% (2017)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 8.9%<br>
-_male_: 8.8%<br>
-_female_: 9% (2017 est.)<br>
+_total_: 3.2%<br>
+_male_: 3.2%<br>
+_female_: 3.2% (2021 est.)<br>
 
 ## Environment
 
@@ -402,28 +402,28 @@ _lyrics/music_: Daniel Bashiel WARNER/Olmstead LUCA<br>
 <p>Liberia is a low-income country that relies heavily on foreign assistance and remittances from the diaspora. It is richly endowed with water, mineral resources, forests, and a climate favorable to agriculture. Its principal exports are iron ore, rubber, diamonds, and gold. Palm oil and cocoa are emerging as new export products. The government has attempted to revive raw timber extraction and is encouraging oil exploration.</p> <p> </p> <p>In the 1990s and early 2000s, civil war and government mismanagement destroyed much of Liberia's economy, especially infrastructure in and around the capital. Much of the conflict was fueled by control over Liberia’s natural resources. With the conclusion of fighting and the installation of a democratically elected government in 2006, businesses that had fled the country began to return. The country achieved high growth during the period 2010-13 due to favorable world prices for its commodities. However, during the 2014-2015 Ebola crisis, the economy declined and many foreign-owned businesses departed with their capital and expertise. The epidemic forced the government to divert scarce resources to combat the spread of the virus, reducing funds available for needed public investment. The cost of addressing the Ebola epidemic coincided with decreased economic activity reducing government revenue, although higher donor support significantly offset this loss. During the same period, global commodities prices for key exports fell and have yet to recover to pre-Ebola levels.</p> <p> </p> <p>In 2017, gold was a key driver of growth, as a new mining project began its first full year of production; iron ore exports are also increased as Arcelor Mittal opened new mines at Mount Gangra. The completion of the rehabilitation of the Mount Coffee Hydroelectric Dam increased electricity production to support ongoing and future economic activity, although electricity tariffs remain high relative to other countries in the region and transmission infrastructure is limited. Presidential and legislative elections in October 2017 generated election-related spending pressures.</p> <p> </p> <p>Revitalizing the economy in the future will depend on economic diversification, increasing investment and trade, higher global commodity prices, sustained foreign aid and remittances, development of infrastructure and institutions, combating corruption, and maintaining political stability and security.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
-$6.85 billion (2020 est.)<br>
-$7.05 billion (2019 est.)<br>
-$7.21 billion (2018 est.)<br>
+$7.391 billion (2021 est.)<br>
+$7.04 billion (2020 est.)<br>
+$7.257 billion (2019 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
-2.5% (2017 est.)<br>
--1.6% (2016 est.)<br>
-0% (2015 est.)<br>
+4.99% (2021 est.)<br>
+-2.98% (2020 est.)<br>
+-2.47% (2019 est.)<br>
 
 **Real GDP per capita**<br>
+$1,400 (2021 est.)<br>
 $1,400 (2020 est.)<br>
-$1,400 (2019 est.)<br>
-$1,500 (2018 est.)<br>
+$1,500 (2019 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
 $3.071 billion (2019 est.)<br>
 
 **Inflation rate (consumer prices)**<br>
-12.4% (2017 est.)<br>
-8.8% (2016 est.)<br>
+23.56% (2018 est.)<br>
+12.42% (2017 est.)<br>
 
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 34% (2017 est.)<br>
@@ -445,10 +445,10 @@ cassava, sugar cane, oil palm fruit, rice, bananas, vegetables, plantains, rubbe
 mining (iron ore and gold), rubber processing, palm oil processing, diamonds<br>
 
 **Industrial production growth rate**<br>
-9% (2017 est.)<br>
+16.25% (2021 est.)<br>
 
 **Labor force**<br>
-1.677 million (2017 est.)<br>
+2.289 million (2021 est.)<br>
 
 **Labor force - by occupation**<br>
 _agriculture_: 70%<br>
@@ -456,19 +456,20 @@ _industry_: 8%<br>
 _services_: 22% (2000 est.)<br>
 
 **Unemployment rate**<br>
-2.8% (2014 est.)<br>
+4.09% (2021 est.)<br>
+3.98% (2020 est.)<br>
+3.02% (2019 est.)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 8.9%<br>
-_male_: 8.8%<br>
-_female_: 9% (2017 est.)<br>
+_total_: 3.2%<br>
+_male_: 3.2%<br>
+_female_: 3.2% (2021 est.)<br>
 
 **Population below poverty line**<br>
 50.9% (2016 est.)<br>
 
 **Gini Index coefficient - distribution of family income**<br>
 35.3 (2016 est.)<br>
-38.2 (2007)<br>
 
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 2.4%<br>
@@ -492,13 +493,14 @@ _expenditures_: 693.8 million (2017 est.)<br>
 calendar year<br>
 
 **Current account balance**<br>
--$627 million (2017 est.)<br>
--$464 million (2016 est.)<br>
+-$653.403 million (2019 est.)<br>
+-$674.092 million (2018 est.)<br>
+-$565.564 million (2017 est.)<br>
 
 **Exports**<br>
-$550 million (2019 est.) note: data are in current year dollars<br>
-$530 million (2018 est.) note: data are in current year dollars<br>
-$359 million (2017 est.)<br>
+$554.013 million (2019 est.) note: data are in current year dollars<br>
+$527.345 million (2018 est.) note: data are in current year dollars<br>
+$429.592 million (2017 est.)<br>
 
 **Exports - partners**<br>
 Guyana 32%, Poland 10%, Switzerland 8%, Japan 7%, China 5% (2019)<br>
@@ -507,9 +509,9 @@ Guyana 32%, Poland 10%, Switzerland 8%, Japan 7%, China 5% (2019)<br>
 ships, iron, gold, rubber, crude petroleum (2019)<br>
 
 **Imports**<br>
-$1.24 billion (2019 est.) note: data are in current year dollars<br>
-$1.25 billion (2018 est.) note: data are in current year dollars<br>
-$2.118 billion (2017 est.)<br>
+$1.244 billion (2019 est.) note: data are in current year dollars<br>
+$1.245 billion (2018 est.) note: data are in current year dollars<br>
+$1.232 billion (2017 est.)<br>
 
 **Imports - partners**<br>
 China 41%, Japan 21%, South Korea 18% (2019)<br>
@@ -518,8 +520,9 @@ China 41%, Japan 21%, South Korea 18% (2019)<br>
 ships, refined petroleum, iron structures, boat propellers, centrifuges (2019)<br>
 
 **Reserves of foreign exchange and gold**<br>
-$459.8 million (31 December 2017 est.)<br>
-$528.7 million (31 December 2016 est.)<br>
+$340.966 million (31 December 2020 est.)<br>
+$297.071 million (31 December 2019 est.)<br>
+$332.151 million (31 December 2018 est.)<br>
 
 **Debt - external**<br>
 $826 million (2019 est.)<br>
@@ -527,11 +530,11 @@ $679 million (2018 est.)<br>
 
 **Exchange rates**<br>
 _Currency_: Liberian dollars (LRD) per US dollar -<br>
-109.4 (2017 est.)<br>
-93.4 (2016 est.)<br>
-93.4 (2015 est.)<br>
-85.3 (2014 est.)<br>
-83.893 (2013 est.)<br>
+191.518 (2020 est.)<br>
+186.43 (2019 est.)<br>
+144.056 (2018 est.)<br>
+112.707 (2017 est.)<br>
+94.427 (2016 est.)<br>
 
 ## Energy
 

@@ -160,7 +160,7 @@ _female_: 77.87 years (2022 est.)<br>
 1.75 children born/woman (2022 est.)<br>
 
 **Gross reproduction rate**<br>
-0.85 (2022 est.)<br>
+0.84 (2023 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 52.2% (2014)<br>
@@ -214,11 +214,11 @@ _total_: 22.5% (2020 est.)<br>
 _male_: 43.8% (2020 est.)<br>
 _female_: 1.1% (2020 est.)<br>
 
-**Currently married women (ages 15-49)**<br>
-59% (2022 est.)<br>
-
 **Children under the age of 5 years underweight**<br>
 14.1% (2019)<br>
+
+**Currently married women (ages 15-49)**<br>
+59.3% (2023 est.)<br>
 
 **Education expenditures**<br>
 3.9% of GDP (2020 est.)<br>
@@ -235,9 +235,9 @@ _male_: 13 years<br>
 _female_: 14 years (2020)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 12%<br>
-_male_: 11.4%<br>
-_female_: 13% (2020 est.)<br>
+_total_: 15.6%<br>
+_male_: 14.2%<br>
+_female_: 17.8% (2021 est.)<br>
 
 ## Environment
 
@@ -402,29 +402,29 @@ _selected World Heritage Site locales_: Gunung Mulu National Park (n); Kinabalu 
 <p>Malaysia, an upper middle-income country, has transformed itself since the 1970s from a producer of raw materials into a multi-sector economy. Under current Prime Minister NAJIB, Malaysia is attempting to achieve high-income status by 2020 and to move further up the value-added production chain by attracting investments in high technology, knowledge-based industries and services. NAJIB's Economic Transformation Program is a series of projects and policy measures intended to accelerate the country's economic growth. The government has also taken steps to liberalize some services sub-sectors. Malaysia is vulnerable to a fall in world commodity prices or a general slowdown in global economic activity.</p> <p> </p> <p>The NAJIB administration is continuing efforts to boost domestic demand and reduce the economy's dependence on exports. Domestic demand continues to anchor economic growth, supported mainly by private consumption, which accounts for 53% of GDP. Nevertheless, exports - particularly of electronics, oil and gas, and palm oil - remain a significant driver of the economy. In 2015, gross exports of goods and services were equivalent to 73% of GDP. The oil and gas sector supplied about 22% of government revenue in 2015, down significantly from prior years amid a decline in commodity prices and diversification of government revenues. Malaysia has embarked on a fiscal reform program aimed at achieving a balanced budget by 2020, including rationalization of subsidies and the 2015 introduction of a 6% value added tax. Sustained low commodity prices throughout the period not only strained government finances, but also shrunk Malaysia’s current account surplus and weighed heavily on the Malaysian ringgit, which was among the region’s worst performing currencies during 2013-17. The ringgit hit new lows following the US presidential election amid a broader selloff of emerging market assets.</p> <p> </p> <p>Bank Negara Malaysia (the central bank) maintains adequate foreign exchange reserves; a well-developed regulatory regime has limited Malaysia's exposure to riskier financial instruments, although it remains vulnerable to volatile global capital flows. In order to increase Malaysia’s competitiveness, Prime Minister NAJIB raised possible revisions to the special economic and social preferences accorded to ethnic Malays under the New Economic Policy of 1970, but retreated in 2013 after he encountered significant opposition from Malay nationalists and other vested interests. In September 2013 NAJIB launched the new Bumiputra Economic Empowerment Program, policies that favor and advance the economic condition of ethnic Malays.</p> <p> </p> <p>Malaysia signed the 12-nation Trans-Pacific Partnership (TPP) free trade agreement in February 2016, although the future of the TPP remains unclear following the US withdrawal from the agreement. Along with nine other ASEAN members, Malaysia established the ASEAN Economic Community in 2015, which aims to advance regional economic integration.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
-$855.6 billion (2020 est.)<br>
-$906.24 billion (2019 est.)<br>
-$868.85 billion (2018 est.)<br>
+$884.106 billion (2021 est.)<br>
+$857.588 billion (2020 est.)<br>
+$907.832 billion (2019 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
-4.31% (2019 est.)<br>
-4.77% (2018 est.)<br>
-5.81% (2017 est.)<br>
+3.09% (2021 est.)<br>
+-5.53% (2020 est.)<br>
+4.41% (2019 est.)<br>
 
 **Real GDP per capita**<br>
-$26,400 (2020 est.)<br>
-$28,400 (2019 est.)<br>
-$27,600 (2018 est.)<br>
+$26,300 (2021 est.)<br>
+$25,800 (2020 est.)<br>
+$27,700 (2019 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
 $364.631 billion (2019 est.)<br>
 
 **Inflation rate (consumer prices)**<br>
-0.6% (2019 est.)<br>
-0.9% (2018 est.)<br>
-3.8% (2017 est.)<br>
+2.48% (2021 est.)<br>
+-1.14% (2020 est.)<br>
+0.66% (2019 est.)<br>
 <strong>note:</strong> approximately 30% of goods are price-controlled<br>
 
 **Credit ratings**<br>
@@ -453,10 +453,10 @@ oil palm fruit, rice, poultry, eggs, vegetables, rubber, coconuts, bananas, pine
 Peninsular Malaysia - rubber and oil palm processing and manufacturing, petroleum and natural gas, light manufacturing, pharmaceuticals, medical technology, electronics and semiconductors, timber processing; Sabah - logging, petroleum and natural gas production;Sarawak - agriculture processing, petroleum and natural gas production, logging<br>
 
 **Industrial production growth rate**<br>
-5% (2017 est.)<br>
+5.65% (2021 est.)<br>
 
 **Labor force**<br>
-15.139 million (2020 est.)<br>
+16.74 million (2021 est.)<br>
 
 **Labor force - by occupation**<br>
 _agriculture_: 11%<br>
@@ -464,20 +464,20 @@ _industry_: 36%<br>
 _services_: 53% (2012 est.)<br>
 
 **Unemployment rate**<br>
-3.3% (2019 est.)<br>
-3.33% (2018 est.)<br>
+4.61% (2021 est.)<br>
+4.5% (2020 est.)<br>
+3.26% (2019 est.)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 12%<br>
-_male_: 11.4%<br>
-_female_: 13% (2020 est.)<br>
+_total_: 15.6%<br>
+_male_: 14.2%<br>
+_female_: 17.8% (2021 est.)<br>
 
 **Population below poverty line**<br>
 5.6% (2018 est.)<br>
 
 **Gini Index coefficient - distribution of family income**<br>
-41 (2015 est.)<br>
-49.2 (1997)<br>
+41.1 (2015 est.)<br>
 
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 1.8%<br>
@@ -491,24 +491,26 @@ _expenditures_: 60.63 billion (2017 est.)<br>
 -3% (of GDP) (2017 est.)<br>
 
 **Public debt**<br>
-54.1% of GDP (2017 est.)<br>
-56.2% of GDP (2016 est.)<br>
+62.03% of GDP (2020 est.)<br>
+52.42% of GDP (2019 est.)<br>
+51.19% of GDP (2018 est.)<br>
 <strong>note:</strong> this figure is based on the amount of federal government debt, RM501.6 billion ($167.2 billion) in 2012; this includes Malaysian Treasury bills and other government securities, as well as loans raised externally and bonds and notes issued overseas; this figure excludes debt issued by non-financial public enterprises and guaranteed by the federal government, which was an additional $47.7 billion in 2012<br>
 
 **Taxes and other revenues**<br>
-16.4% (of GDP) (2017 est.)<br>
+10.89% (of GDP) (2020 est.)<br>
 
 **Fiscal year**<br>
 calendar year<br>
 
 **Current account balance**<br>
-$12.295 billion (2019 est.)<br>
-$8.027 billion (2018 est.)<br>
+$14.143 billion (2021 est.)<br>
+$14.138 billion (2020 est.)<br>
+$12.795 billion (2019 est.)<br>
 
 **Exports**<br>
-$207.37 billion (2020 est.) note: data are in current year dollars<br>
-$237.83 billion (2019 est.) note: data are in current year dollars<br>
-$245.89 billion (2018 est.) note: data are in current year dollars<br>
+$256.659 billion (2021 est.) note: data are in current year dollars<br>
+$208.217 billion (2020 est.) note: data are in current year dollars<br>
+$238.361 billion (2019 est.) note: data are in current year dollars<br>
 
 **Exports - partners**<br>
 Singapore 13%, China 13%, United States 11%, Hong Kong 6%, Japan 6%, Thailand 5% (2019)<br>
@@ -517,9 +519,9 @@ Singapore 13%, China 13%, United States 11%, Hong Kong 6%, Japan 6%, Thailand 5%
 integrated circuits, refined petroleum, natural gas, semiconductors, palm oil (2019)<br>
 
 **Imports**<br>
-$185.59 billion (2020 est.) note: data are in current year dollars<br>
-$210.68 billion (2019 est.) note: data are in current year dollars<br>
-$221.83 billion (2018 est.) note: data are in current year dollars<br>
+$230.188 billion (2021 est.) note: data are in current year dollars<br>
+$186.613 billion (2020 est.) note: data are in current year dollars<br>
+$210.86 billion (2019 est.) note: data are in current year dollars<br>
 
 **Imports - partners**<br>
 China 24%, Singapore 14%, Japan 6%, United States 6%, Taiwan 5%, Thailand 5% (2019)<br>
@@ -528,8 +530,9 @@ China 24%, Singapore 14%, Japan 6%, United States 6%, Taiwan 5%, Thailand 5% (20
 integrated circuits, refined petroleum, crude petroleum, broadcasting equipment, coal (2019)<br>
 
 **Reserves of foreign exchange and gold**<br>
-$102.4 billion (31 December 2017 est.)<br>
-$94.5 billion (31 December 2016 est.)<br>
+$116.916 billion (31 December 2021 est.)<br>
+$107.644 billion (31 December 2020 est.)<br>
+$103.63 billion (31 December 2019 est.)<br>
 
 **Debt - external**<br>
 $224.596 billion (2019 est.)<br>
@@ -537,11 +540,11 @@ $226.901 billion (2018 est.)<br>
 
 **Exchange rates**<br>
 _Currency_: ringgits (MYR) per US dollar -<br>
-4.064 (2020 est.)<br>
-4.161 (2019 est.)<br>
-4.166 (2018 est.)<br>
-3.91 (2014 est.)<br>
-3.27 (2013 est.)<br>
+4.143 (2021 est.)<br>
+4.203 (2020 est.)<br>
+4.142 (2019 est.)<br>
+4.035 (2018 est.)<br>
+4.3 (2017 est.)<br>
 
 ## Energy
 
@@ -734,7 +737,7 @@ Islamic State of Iraq and ash-Sham (ISIS); Jemaah Islamiyah (JI); Abu Sayyaf Gro
 <p>piracy remains a problem in the Malacca Strait</p> <p><em>Malaysia-Brunei</em>: per Letters of Exchange signed in 2009, Malaysia in 2010 ceded two hydrocarbon concession blocks to Brunei; in 2009, the media reported that Brunei had dropped its claims to the Limbang corridor, but Brunei responded that the subject had never been discussed during recent talks between the two countries</p> <p><em>Malaysia-China-Philippines-Vietnam</em><strong>: </strong>while the 2002 "Declaration on the Conduct of Parties in the South China Sea" has eased tensions over the Spratly Islands, it is not the legally binding "code of conduct" sought by some parties, which is currently being negotiated between China and ASEAN; Malaysia was not party to the March 2005 joint accord among the national oil companies of China, the Philippines, and Vietnam on conducting marine seismic activities in the Spratly Islands</p> <p><em>Malaysia-Indonesia</em>: land and maritime negotiations with Indonesia are ongoing, and disputed areas include the controversial Tanjung Datu and Camar Wulan border area in Borneo and the maritime boundary in the Ambalat oil block in the Celebes Sea</p> <p><em>Malaysia-Philippines</em>: Philippines retains a dormant claim to the eastern part of Malaysia's Sabah State in northern Borneo</p> <p><em>Malaysia-Singapore</em>: disputes continue over deliveries of fresh water to Singapore, Singapore's land reclamation, bridge construction, and maritime boundaries in the Johor and Singapore Straits; in 2008, the International Court of Justice awarded sovereignty of Pedra Branca (Pulau Batu Puteh/Horsburgh Island) to Singapore, and Middle Rocks to Malaysia but did not rule on maritime regimes, boundaries, or disposition of South Ledge</p> <p><em>Malaysia-Thailand</em>: in 2008, separatist violence in Thailand's predominantly Muslim southern provinces prompts Malaysia to take measures to close and to monitor the border with Thailand to stem terrorist activities</p> <p> </p> <p> </p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 120,126 (Burma) (mid-year 2021)<br>
+_refugees (country of origin)_: 123,282 (Burma) (mid-year 2022)<br>
 _stateless persons_: 112,003 (mid-year 2021); note - Malaysia's stateless population consists of Rohingya refugees from Burma, ethnic Indians, and the children of Filipino and Indonesian illegal migrants; Burma stripped the Rohingya of their nationality in 1982; Filipino and Indonesian children who have not been registered for birth certificates by their parents or who received birth certificates stamped "foreigner" are not eligible to attend government schools; these children are vulnerable to statelessness should they not be able to apply to their parents' country of origin for passports<br>
 
 **Trafficking in persons**<br>

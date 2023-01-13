@@ -174,7 +174,7 @@ _female_: 64.7 years (2022 est.)<br>
 5.54 children born/woman (2022 est.)<br>
 
 **Gross reproduction rate**<br>
-2.73 (2022 est.)<br>
+2.68 (2023 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 17.2% (2018)<br>
@@ -230,11 +230,11 @@ _total_: 8.3% (2020 est.)<br>
 _male_: 15.6% (2020 est.)<br>
 _female_: 1% (2020 est.)<br>
 
-**Currently married women (ages 15-49)**<br>
-78.3% (2022 est.)<br>
-
 **Children under the age of 5 years underweight**<br>
 18.1% (2019)<br>
+
+**Currently married women (ages 15-49)**<br>
+77.9% (2023 est.)<br>
 
 **Child marriage**<br>
 _women married by age 15_: 15.9%<br>
@@ -256,9 +256,9 @@ _male_: 8 years<br>
 _female_: 7 years (2017)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 7.5%<br>
-_male_: 6.6%<br>
-_female_: 8.5% (2020 est.)<br>
+_total_: 17.3%<br>
+_male_: 15.4%<br>
+_female_: 19.8% (2021 est.)<br>
 
 ## Environment
 
@@ -436,28 +436,29 @@ _selected World Heritage Site locales_: Old Towns of Djenn&eacute; (c); Timbuktu
 <p>Among the 25 poorest countries in the world, landlocked Mali depends on gold mining and agricultural exports for revenue. The country's fiscal status fluctuates with gold and agricultural commodity prices and the harvest; cotton and gold exports make up around 80% of export earnings. Mali remains dependent on foreign aid.</p> <p> </p> <p>Economic activity is largely confined to the riverine area irrigated by the Niger River; about 65% of Mali’s land area is desert or semidesert. About 10% of the population is nomadic and about 80% of the labor force is engaged in farming and fishing. Industrial activity is concentrated on processing farm commodities. The government subsidizes the production of cereals to decrease the country’s dependence on imported foodstuffs and to reduce its vulnerability to food price shocks.</p> <p> </p> <p>Mali is developing its iron ore extraction industry to diversify foreign exchange earnings away from gold, but the pace will depend on global price trends. Although the political coup in 2012 slowed Mali’s growth, the economy has since bounced back, with GDP growth above 5% in 2014-17, although physical insecurity, high population growth, corruption, weak infrastructure, and low levels of human capital continue to constrain economic development. Higher rainfall helped to boost cotton output in 2017, and the country’s 2017 budget increased spending more than 10%, much of which was devoted to infrastructure and agriculture. Corruption and political turmoil are strong downside risks in 2018 and beyond.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
-$44.89 billion (2020 est.)<br>
+$46.452 billion (2021 est.)<br>
+$45.076 billion (2020 est.)<br>
 $45.64 billion (2019 est.)<br>
-$43.57 billion (2018 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
-5.4% (2017 est.)<br>
-5.8% (2016 est.)<br>
-6.2% (2015 est.)<br>
+3.05% (2021 est.)<br>
+-1.24% (2020 est.)<br>
+4.76% (2019 est.)<br>
 
 **Real GDP per capita**<br>
-$2,200 (2020 est.)<br>
-$2,300 (2019 est.)<br>
-$2,300 (2018 est.)<br>
+$2,100 (2021 est.)<br>
+$2,100 (2020 est.)<br>
+$2,200 (2019 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
 $17.508 billion (2019 est.)<br>
 
 **Inflation rate (consumer prices)**<br>
-1.9% (2018 est.)<br>
-1.7% (2017 est.)<br>
+3.93% (2021 est.)<br>
+0.44% (2020 est.)<br>
+-1.66% (2019 est.)<br>
 
 **Credit ratings**<br>
 _Moody's rating_: Caa1 (2020)<br>
@@ -483,30 +484,30 @@ maize, rice, millet, sorghum, mangoes/guavas, cotton, watermelons, green onions/
 food processing; construction; phosphate and gold mining<br>
 
 **Industrial production growth rate**<br>
-6.3% (2017 est.)<br>
+1.01% (2021 est.)<br>
 
 **Labor force**<br>
-6.447 million (2017 est.)<br>
+7.9 million (2021 est.)<br>
 
 **Labor force - by occupation**<br>
 _agriculture_: 80%<br>
 _industry and services_: 20% (2005 est.)<br>
 
 **Unemployment rate**<br>
-7.9% (2017 est.)<br>
-7.8% (2016 est.)<br>
+7.72% (2021 est.)<br>
+7.7% (2020 est.)<br>
+7.44% (2019 est.)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 7.5%<br>
-_male_: 6.6%<br>
-_female_: 8.5% (2020 est.)<br>
+_total_: 17.3%<br>
+_male_: 15.4%<br>
+_female_: 19.8% (2021 est.)<br>
 
 **Population below poverty line**<br>
 42.1% (2019 est.)<br>
 
 **Gini Index coefficient - distribution of family income**<br>
-40.1 (2001)<br>
-50.5 (1994)<br>
+36.1 (2018 est.)<br>
 
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 3.5%<br>
@@ -524,18 +525,20 @@ _expenditures_: 3.513 billion (2017 est.)<br>
 36% of GDP (2016 est.)<br>
 
 **Taxes and other revenues**<br>
-20% (of GDP) (2017 est.)<br>
+14.16% (of GDP) (2020 est.)<br>
 
 **Fiscal year**<br>
 calendar year<br>
 
 **Current account balance**<br>
--$886 million (2017 est.)<br>
--$1.015 billion (2016 est.)<br>
+-$379.683 million (2020 est.)<br>
+-$1.289 billion (2019 est.)<br>
+-$836.255 million (2018 est.)<br>
 
 **Exports**<br>
-$4.18 billion (2018 est.) note: data are in current year dollars<br>
-$2.803 billion (2016 est.)<br>
+$5.196 billion (2020 est.) note: data are in current year dollars<br>
+$4.442 billion (2019 est.)<br>
+$4.186 billion (2018 est.)<br>
 
 **Exports - partners**<br>
 United Arab Emirates 66%, Switzerland 26% (2019)<br>
@@ -544,8 +547,9 @@ United Arab Emirates 66%, Switzerland 26% (2019)<br>
 gold, cotton, sesame seeds, lumber, vegetable oils/residues (2019)<br>
 
 **Imports**<br>
-$6.08 billion (2018 est.) note: data are in current year dollars<br>
-$3.403 billion (2016 est.)<br>
+$6.339 billion (2020 est.) note: data are in current year dollars<br>
+$6.559 billion (2019 est.)<br>
+$6.081 billion (2018 est.)<br>
 
 **Imports - partners**<br>
 Senegal 23%, Cote d'Ivoire 15%, China 11%, France 9% (2019)<br>
@@ -563,11 +567,11 @@ $3.981 billion (31 December 2016 est.)<br>
 
 **Exchange rates**<br>
 _Currency_: Communaute Financiere Africaine francs (XOF) per US dollar -<br>
-605.3 (2017 est.)<br>
-593.01 (2016 est.)<br>
-593.01 (2015 est.)<br>
-591.45 (2014 est.)<br>
-494.42 (2013 est.)<br>
+554.531 (2021 est.)<br>
+575.586 (2020 est.)<br>
+585.911 (2019 est.)<br>
+555.446 (2018 est.)<br>
+580.657 (2017 est.)<br>
 
 ## Energy
 

@@ -175,7 +175,7 @@ _female_: 63.69 years (2022 est.)<br>
 5.63 children born/woman (2022 est.)<br>
 
 **Gross reproduction rate**<br>
-2.77 (2022 est.)<br>
+2.74 (2023 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 28.1% (2017/18)<br>
@@ -228,11 +228,11 @@ _total_: 12.8% (2020 est.)<br>
 _male_: 22.7% (2020 est.)<br>
 _female_: 2.9% (2020 est.)<br>
 
-**Currently married women (ages 15-49)**<br>
-55.9% (2022 est.)<br>
-
 **Children under the age of 5 years underweight**<br>
 23.1% (2017/18)<br>
+
+**Currently married women (ages 15-49)**<br>
+55.3% (2023 est.)<br>
 
 **Child marriage**<br>
 _women married by age 15_: 0%<br>
@@ -254,9 +254,9 @@ _male_: 10 years<br>
 _female_: 9 years (2013)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 8.7%<br>
-_male_: 11.3%<br>
-_female_: 6.8% (2012 est.)<br>
+_total_: 10.1%<br>
+_male_: 12%<br>
+_female_: 8.5% (2021 est.)<br>
 
 ## Environment
 
@@ -438,20 +438,20 @@ _selected World Heritage Site locales_: Garamba National Park; Kahuzi-Biega Nati
 <p>The economy of the Democratic Republic of the Congo - a nation endowed with vast natural resource wealth - continues to perform poorly. Systemic corruption since independence in 1960, combined with countrywide instability and intermittent conflict that began in the early-90s, has reduced national output and government revenue, and increased external debt. With the installation of a transitional government in 2003 after peace accords, economic conditions slowly began to improve as the government reopened relations with international financial institutions and international donors, and President KABILA began implementing reforms. Progress on implementing substantive economic reforms remains slow because of political instability, bureaucratic inefficiency, corruption, and patronage, which also dampen international investment prospects.</p> <p> </p> <p>Renewed activity in the mining sector, the source of most export income, boosted Kinshasa's fiscal position and GDP growth until 2015, but low commodity prices have led to slower growth, volatile inflation, currency depreciation, and a growing fiscal deficit. An uncertain legal framework, corruption, and a lack of transparency in government policy are long-term problems for the large mining sector and for the economy as a whole. Much economic activity still occurs in the informal sector and is not reflected in GDP data.</p> <p> </p> <p>Poverty remains widespread in DRC, and the country failed to meet any Millennium Development Goals by 2015. DRC also concluded its program with the IMF in 2015. The price of copper – the DRC’s primary export - plummeted in 2015 and remained at record lows during 2016-17, reducing government revenues, expenditures, and foreign exchange reserves, while inflation reached nearly 50% in mid-2017 – its highest level since the early 2000s.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
-$96.03 billion (2020 est.)<br>
-$95.29 billion (2019 est.)<br>
-$91.29 billion (2018 est.)<br>
+$102.956 billion (2021 est.)<br>
+$96.945 billion (2020 est.)<br>
+$95.292 billion (2019 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
-3.4% (2017 est.)<br>
-2.4% (2016 est.)<br>
-6.9% (2015 est.)<br>
+6.2% (2021 est.)<br>
+1.74% (2020 est.)<br>
+4.38% (2019 est.)<br>
 
 **Real GDP per capita**<br>
-$1,100 (2020 est.)<br>
+$1,100 (2021 est.)<br>
+$1,000 (2020 est.)<br>
 $1,100 (2019 est.)<br>
-$1,100 (2018 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
@@ -486,10 +486,10 @@ cassava, plantains, sugar cane, maize, oil palm fruit, rice, roots/tubers nes, b
 mining (copper, cobalt, gold, diamonds, coltan, zinc, tin, tungsten), mineral processing, consumer products (textiles, plastics, footwear, cigarettes), metal products, processed foods and beverages, timber, cement, commercial ship repair<br>
 
 **Industrial production growth rate**<br>
-1.6% (2017 est.)<br>
+7.78% (2021 est.)<br>
 
 **Labor force**<br>
-20.692 million (2012 est.)<br>
+33.382 million (2021 est.)<br>
 
 **Labor force - by occupation**<br>
 _agriculture_: NA<br>
@@ -497,12 +497,15 @@ _industry_: NA<br>
 _services_: NA<br>
 
 **Unemployment rate**<br>
-<p>NA</p><br>
+5.43% (2021 est.)<br>
+5.27% (2020 est.)<br>
+4.45% (2019 est.)<br>
+NA<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 8.7%<br>
-_male_: 11.3%<br>
-_female_: 6.8% (2012 est.)<br>
+_total_: 10.1%<br>
+_male_: 12%<br>
+_female_: 8.5% (2021 est.)<br>
 
 **Population below poverty line**<br>
 63% (2014 est.)<br>
@@ -532,13 +535,14 @@ _expenditures_: 5.009 billion (2017 est.)<br>
 calendar year<br>
 
 **Current account balance**<br>
--$200 million (2017 est.)<br>
--$1.215 billion (2016 est.)<br>
+-$587.407 million (2021 est.)<br>
+-$1.052 billion (2020 est.)<br>
+-$1.693 billion (2019 est.)<br>
 
 **Exports**<br>
-$13.93 billion (2020 est.)<br>
-$15.17 billion (2019 est.)<br>
-$16.08 billion (2018 est.)<br>
+$22.354 billion (2021 est.)<br>
+$13.932 billion (2020 est.)<br>
+$15.173 billion (2019 est.)<br>
 <strong>note:</strong> Data are in current year dollars and do not include illicit exports or re-exports.<br>
 
 **Exports - partners**<br>
@@ -548,9 +552,9 @@ China 53%, United Arab Emirates 11%, Saudi Arabia 6%, South Korea 5% (2019)<br>
 copper, cobalt, crude petroleum, diamonds (2019)<br>
 
 **Imports**<br>
-$14.56 billion (2020 est.) note: data are in current year dollars<br>
-$16.89 billion (2019 est.) note: data are in current year dollars<br>
-$17.77 billion (2018 est.) note: data are in current year dollars<br>
+$22.193 billion (2021 est.) note: data are in current year dollars<br>
+$14.557 billion (2020 est.) note: data are in current year dollars<br>
+$16.892 billion (2019 est.) note: data are in current year dollars<br>
 
 **Imports - partners**<br>
 China 29%, South Africa 15%, Zambia 12%, Rwanda 5%, Belgium 5%, India 5% (2019)<br>
@@ -559,8 +563,9 @@ China 29%, South Africa 15%, Zambia 12%, Rwanda 5%, Belgium 5%, India 5% (2019)<
 packaged medicines, refined petroleum, sulfuric acid, stone processing machines, delivery trucks (2019)<br>
 
 **Reserves of foreign exchange and gold**<br>
-$457.5 million (31 December 2017 est.)<br>
-$708.2 million (31 December 2016 est.)<br>
+$3.467 billion (31 December 2021 est.)<br>
+$747.655 million (31 December 2020 est.)<br>
+$1.194 billion (31 December 2019 est.)<br>
 
 **Debt - external**<br>
 $4.963 billion (31 December 2017 est.)<br>
@@ -568,11 +573,11 @@ $5.35 billion (31 December 2016 est.)<br>
 
 **Exchange rates**<br>
 _Currency_: Congolese francs (CDF) per US dollar -<br>
-1,546.8 (2017 est.)<br>
-1,010.3 (2016 est.)<br>
-1,010.3 (2015 est.)<br>
-925.99 (2014 est.)<br>
-925.23 (2013 est.)<br>
+1,989.391 (2021 est.)<br>
+1,851.122 (2020 est.)<br>
+1,647.76 (2019 est.)<br>
+1,622.524 (2018 est.)<br>
+1,464.418 (2017 est.)<br>
 
 ## Energy
 

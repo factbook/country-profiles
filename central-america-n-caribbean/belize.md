@@ -160,7 +160,7 @@ _female_: 77.5 years (2022 est.)<br>
 2.62 children born/woman (2022 est.)<br>
 
 **Gross reproduction rate**<br>
-1.28 (2022 est.)<br>
+1.26 (2023 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 51.4% (2015/16)<br>
@@ -208,11 +208,11 @@ _total_: 8.5% (2020 est.)<br>
 _male_: 15.1% (2020 est.)<br>
 _female_: 1.8% (2020 est.)<br>
 
-**Currently married women (ages 15-49)**<br>
-64.2% (2022 est.)<br>
-
 **Children under the age of 5 years underweight**<br>
 4.6% (2015/16)<br>
+
+**Currently married women (ages 15-49)**<br>
+64.3% (2023 est.)<br>
 
 **Child marriage**<br>
 _women married by age 15_: 6.3%<br>
@@ -234,8 +234,8 @@ _female_: 13 years (2021)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
 _total_: 19.3%<br>
-_male_: 12.7%<br>
-_female_: 28.5% (2019 est.)<br>
+_male_: 12.2%<br>
+_female_: 31.9% (2021 est.)<br>
 
 ## Environment
 
@@ -390,28 +390,29 @@ _selected World Heritage Site locales_: Belize Barrier Reef Reserve System<br>
 <p>Tourism is the number one foreign exchange earner in this small economy, followed by exports of sugar, bananas, citrus, marine products, and crude oil.</p> <p> </p> <p>The government's expansionary monetary and fiscal policies, initiated in September 1998, led to GDP growth averaging nearly 4% in 1999-2007, but GPD growth has averaged only 2.1% from 2007-2016, with 2.5% growth estimated for 2017. Belize’s dependence on energy imports makes it susceptible to energy price shocks.</p> <p> </p> <p>Although Belize has the third highest per capita income in Central America, the average income figure masks a huge income disparity between rich and poor, and a key government objective remains reducing poverty and inequality with the help of international donors. High unemployment, a growing trade deficit and heavy foreign debt burden continue to be major concerns. Belize faces continued pressure from rising sovereign debt, and a growing trade imbalance.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
-$2.43 billion (2020 est.)<br>
-$2.83 billion (2019 est.)<br>
-$2.78 billion (2018 est.)<br>
+$3.505 billion (2021 est.)<br>
+$3.042 billion (2020 est.)<br>
+$3.513 billion (2019 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
-0.8% (2017 est.)<br>
--0.5% (2016 est.)<br>
-3.8% (2015 est.)<br>
+15.23% (2021 est.)<br>
+-13.4% (2020 est.)<br>
+4.5% (2019 est.)<br>
 
 **Real GDP per capita**<br>
-$6,100 (2020 est.)<br>
-$7,300 (2019 est.)<br>
-$7,300 (2018 est.)<br>
+$8,800 (2021 est.)<br>
+$7,700 (2020 est.)<br>
+$9,000 (2019 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
 $1.854 billion (2017 est.)<br>
 
 **Inflation rate (consumer prices)**<br>
-1.1% (2017 est.)<br>
-0.7% (2016 est.)<br>
+3.24% (2021 est.)<br>
+0.12% (2020 est.)<br>
+0.19% (2019 est.)<br>
 
 **Credit ratings**<br>
 _Moody's rating_: Caa3 (2020)<br>
@@ -438,10 +439,10 @@ sugar care, oranges, bananas, maize, poultry, rice, sorghum, papayas, grapefruit
 garment production, food processing, tourism, construction, oil<br>
 
 **Industrial production growth rate**<br>
--0.6% (2017 est.)<br>
+15.08% (2021 est.)<br>
 
 **Labor force**<br>
-120,500 (2008 est.)<br>
+176,900 (2021 est.)<br>
 <strong>note:</strong> shortage of skilled labor and all types of technical personnel<br>
 
 **Labor force - by occupation**<br>
@@ -450,13 +451,14 @@ _industry_: 18.1%<br>
 _services_: 71.7% (2007 est.)<br>
 
 **Unemployment rate**<br>
-9% (2017 est.)<br>
-8% (2016 est.)<br>
+8.22% (2021 est.)<br>
+8.46% (2020 est.)<br>
+6.71% (2019 est.)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
 _total_: 19.3%<br>
-_male_: 12.7%<br>
-_female_: 28.5% (2019 est.)<br>
+_male_: 12.2%<br>
+_female_: 31.9% (2021 est.)<br>
 
 **Population below poverty line**<br>
 41% (2013 est.)<br>
@@ -477,19 +479,20 @@ _expenditures_: 572 million (2017 est.)<br>
 95.9% of GDP (2016 est.)<br>
 
 **Taxes and other revenues**<br>
-29.9% (of GDP) (2017 est.)<br>
+21.16% (of GDP) (2017 est.)<br>
 
 **Fiscal year**<br>
 1 April - 31 March<br>
 
 **Current account balance**<br>
--$143 million (2017 est.)<br>
--$163 million (2016 est.)<br>
+-$162.434 million (2021 est.)<br>
+-$127.92 million (2020 est.)<br>
+-$184.646 million (2019 est.)<br>
 
 **Exports**<br>
-$710 million (2020 est.)<br>
-$1.1 billion (2019 est.)<br>
-$1.07 billion (2018 est.)<br>
+$1.044 billion (2021 est.)<br>
+$714.624 million (2020 est.)<br>
+$1.102 billion (2019 est.)<br>
 <strong>note:</strong> Data are in current year dollars and do not include illicit exports or re-exports.<br>
 
 **Exports - partners**<br>
@@ -499,9 +502,9 @@ United Kingdom 27%, United States 24%, Spain 6%, Jamaica 5%, Ireland 5% (2019)<b
 raw sugar, bananas, fruit juice, fish products, crude petroleum (2019)<br>
 
 **Imports**<br>
-$900 million (2020 est.) note: data are in current year dollars<br>
-$1.2 billion (2019 est.) note: data are in current year dollars<br>
-$1.16 billion (2018 est.) note: data are in current year dollars<br>
+$1.252 billion (2021 est.) note: data are in current year dollars<br>
+$901.819 million (2020 est.) note: data are in current year dollars<br>
+$1.203 billion (2019 est.) note: data are in current year dollars<br>
 
 **Imports - partners**<br>
 United States 36%, China 13%, Mexico 12%, Guatemala 10% (2019)<br>
@@ -510,8 +513,9 @@ United States 36%, China 13%, Mexico 12%, Guatemala 10% (2019)<br>
 refined petroleum, cigarettes, recreational boats, natural gas, cars (2019)<br>
 
 **Reserves of foreign exchange and gold**<br>
-$312.1 million (31 December 2017 est.)<br>
-$376.7 million (31 December 2016 est.)<br>
+$420,102,800 (31 December 2021 est.)<br>
+$348,090,100 (31 December 2020 est.)<br>
+$277,578,800 (31 December 2019 est.)<br>
 
 **Debt - external**<br>
 $1.315 billion (31 December 2017 est.)<br>
@@ -519,11 +523,11 @@ $1.338 billion (31 December 2016 est.)<br>
 
 **Exchange rates**<br>
 _Currency_: Belizean dollars (BZD) per US dollar -<br>
+2 (2021 est.)<br>
+2 (2020 est.)<br>
+2 (2019 est.)<br>
+2 (2018 est.)<br>
 2 (2017 est.)<br>
-2 (2016 est.)<br>
-2 (2015 est.)<br>
-2 (2014 est.)<br>
-2 (2013 est.)<br>
 
 ## Energy
 

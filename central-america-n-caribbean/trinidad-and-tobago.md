@@ -158,7 +158,7 @@ _female_: 77.93 years (2022 est.)<br>
 1.63 children born/woman (2022 est.)<br>
 
 **Gross reproduction rate**<br>
-0.8 (2022 est.)<br>
+0.8 (2023 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 NA<br>
@@ -201,11 +201,11 @@ _wine_: 0.16 liters of pure alcohol (2019 est.)<br>
 _spirits_: 2.65 liters of pure alcohol (2019 est.)<br>
 _other alcohols_: 0.09 liters of pure alcohol (2019 est.)<br>
 
-**Currently married women (ages 15-49)**<br>
-48.7% (2022 est.)<br>
-
 **Children under the age of 5 years underweight**<br>
 4.9% (2011)<br>
+
+**Currently married women (ages 15-49)**<br>
+48.6% (2023 est.)<br>
 
 **Education expenditures**<br>
 4.1% of GDP (2020 est.)<br>
@@ -217,9 +217,9 @@ _male_: 99.2%<br>
 _female_: 98.7% (2015)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 8.7%<br>
-_male_: 8.9%<br>
-_female_: 8.4% (2016 est.)<br>
+_total_: 12.7%<br>
+_male_: 12.8%<br>
+_female_: 12.6% (2021 est.)<br>
 
 ## Environment
 
@@ -368,28 +368,29 @@ _lyrics/music_: Patrick Stanislaus CASTAGNE<br>
 <p>Trinidad and Tobago relies on its energy sector for much of its economic activity, and has one of the highest per capita incomes in Latin America. Economic growth between 2000 and 2007 averaged slightly over 8% per year, significantly above the regional average of about 3.7% for that same period; however, GDP has slowed down since then, contracting during 2009-12, making small gains in 2013 and contracting again in 2014-17. Trinidad and Tobago is buffered by considerable foreign reserves and a sovereign wealth fund that equals about one-and-a-half times the national budget, but the country is still in a recession and the government faces the dual challenge of gas shortages and a low price environment. Large-scale energy projects in the last quarter of 2017 are helping to mitigate the gas shortages.</p> <p> </p> <p>Energy production and downstream industrial use dominate the economy. Oil and gas typically account for about 40% of GDP and 80% of exports but less than 5% of employment. Trinidad and Tobago is home to one of the largest natural gas liquefaction facilities in the Western Hemisphere. The country produces about nine times more natural gas than crude oil on an energy equivalent basis with gas contributing about two-thirds of energy sector government revenue. The US is the country’s largest trading partner, accounting for 28% of its total imports and 48% of its exports.</p> <p> </p> <p>Economic diversification is a longstanding government talking point, and Trinidad and Tobago has much potential due to its stable, democratic government and its educated, English speaking workforce. The country is also a regional financial center with a well-regulated and stable financial system. Other sectors the Government of Trinidad and Tobago has targeted for increased investment and projected growth include tourism, agriculture, information and communications technology, and shipping. Unfortunately, a host of other factors, including low labor productivity, inefficient government bureaucracy, and corruption, have hampered economic development.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
-$33.21 billion (2020 est.)<br>
-$36.03 billion (2019 est.)<br>
-$36.48 billion (2018 est.)<br>
+$35.147 billion (2021 est.)<br>
+$35.511 billion (2020 est.)<br>
+$38.465 billion (2019 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
--2.6% (2017 est.)<br>
--6.1% (2016 est.)<br>
-1.7% (2015 est.)<br>
+-1.03% (2021 est.)<br>
+-7.68% (2020 est.)<br>
+0.11% (2019 est.)<br>
 
 **Real GDP per capita**<br>
-$23,700 (2020 est.)<br>
-$25,800 (2019 est.)<br>
-$26,300 (2018 est.)<br>
+$23,000 (2021 est.)<br>
+$23,400 (2020 est.)<br>
+$25,300 (2019 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
 $24.031 billion (2019 est.)<br>
 
 **Inflation rate (consumer prices)**<br>
-1.9% (2017 est.)<br>
-3.1% (2016 est.)<br>
+2.06% (2021 est.)<br>
+0.6% (2020 est.)<br>
+1% (2019 est.)<br>
 
 **Credit ratings**<br>
 _Moody's rating_: Ba1 (2017)<br>
@@ -416,10 +417,10 @@ poultry, fruit, coconuts, citrus fruit, milk, plantains, maize, oranges, eggs, g
 petroleum and petroleum products, liquefied natural gas, methanol, ammonia, urea, steel products, beverages, food processing, cement, cotton textiles<br>
 
 **Industrial production growth rate**<br>
--4.3% (2017 est.)<br>
+-0.99% (2021 est.)<br>
 
 **Labor force**<br>
-629,400 (2017 est.)<br>
+702,900 (2021 est.)<br>
 
 **Labor force - by occupation**<br>
 _agriculture_: 3.1%<br>
@@ -427,13 +428,14 @@ _industry_: 11.5%<br>
 _services_: 85.4% (2016 est.)<br>
 
 **Unemployment rate**<br>
-4.9% (2017 est.)<br>
-4% (2016 est.)<br>
+4.8% (2021 est.)<br>
+4.57% (2020 est.)<br>
+3.42% (2019 est.)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 8.7%<br>
-_male_: 8.9%<br>
-_female_: 8.4% (2016 est.)<br>
+_total_: 12.7%<br>
+_male_: 12.8%<br>
+_female_: 12.6% (2021 est.)<br>
 
 **Population below poverty line**<br>
 20% (2014 est.)<br>
@@ -454,18 +456,20 @@ _expenditures_: 7.446 billion (2017 est.)<br>
 37% of GDP (2016 est.)<br>
 
 **Taxes and other revenues**<br>
-24.5% (of GDP) (2017 est.)<br>
+19.52% (of GDP) (2018 est.)<br>
 
 **Fiscal year**<br>
 1 October - 30 September<br>
 
 **Current account balance**<br>
-$2.325 billion (2017 est.)<br>
--$653 million (2016 est.)<br>
+$2.9 billion (2021 est.)<br>
+-$1.356 billion (2020 est.)<br>
+$1.02 billion (2019 est.)<br>
 
 **Exports**<br>
-$9.57 billion (2019 est.) note: data are in current year dollars<br>
-$11.57 billion (2018 est.) note: data are in current year dollars<br>
+$11.467 billion (2021 est.) note: data are in current year dollars<br>
+$6.44 billion (2020 est.) note: data are in current year dollars<br>
+$9.566 billion (2019 est.)<br>
 
 **Exports - partners**<br>
 United States 33%, Guyana 9%, Spain 6%, China 6% (2019)<br>
@@ -474,8 +478,9 @@ United States 33%, Guyana 9%, Spain 6%, China 6% (2019)<br>
 natural gas, industrial alcohols, crude petroleum, ammonia, iron products, refined petroleum (2019)<br>
 
 **Imports**<br>
-$7.93 billion (2019 est.) note: data are in current year dollars<br>
-$9.16 billion (2018 est.) note: data are in current year dollars<br>
+$8.592 billion (2021 est.) note: data are in current year dollars<br>
+$6.785 billion (2020 est.) note: data are in current year dollars<br>
+$7.96 billion (2019 est.)<br>
 
 **Imports - partners**<br>
 United States 40%, Guyana 19%, China 6% (2019)<br>
@@ -484,8 +489,9 @@ United States 40%, Guyana 19%, China 6% (2019)<br>
 refined petroleum, excavation machinery, shipping containers, iron, cars (2019)<br>
 
 **Reserves of foreign exchange and gold**<br>
-$8.892 billion (31 December 2017 est.)<br>
-$9.995 billion (31 December 2016 est.)<br>
+$6.88 billion (31 December 2021 est.)<br>
+$6.954 billion (31 December 2020 est.)<br>
+$6.929 billion (31 December 2019 est.)<br>
 
 **Debt - external**<br>
 $8.238 billion (31 December 2017 est.)<br>
@@ -493,11 +499,11 @@ $8.746 billion (31 December 2016 est.)<br>
 
 **Exchange rates**<br>
 _Currency_: Trinidad and Tobago dollars (TTD) per US dollar -<br>
+6.759 (2021 est.)<br>
+6.751 (2020 est.)<br>
+6.754 (2019 est.)<br>
+6.771 (2018 est.)<br>
 6.78 (2017 est.)<br>
-6.669 (2016 est.)<br>
-6.669 (2015 est.)<br>
-6.4041 (2014 est.)<br>
-6.4041 (2013 est.)<br>
 
 ## Energy
 

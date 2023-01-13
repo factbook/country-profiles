@@ -174,7 +174,7 @@ _female_: 72.59 years (2022 est.)<br>
 2.24 children born/woman (2022 est.)<br>
 
 **Gross reproduction rate**<br>
-1.1 (2022 est.)<br>
+1.08 (2023 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 56.3% (2014)<br>
@@ -227,11 +227,11 @@ _total_: 21.1% (2020 est.)<br>
 _male_: 36.1% (2020 est.)<br>
 _female_: 6% (2020 est.)<br>
 
-**Currently married women (ages 15-49)**<br>
-66.7% (2022 est.)<br>
-
 **Children under the age of 5 years underweight**<br>
 24.1% (2014)<br>
+
+**Currently married women (ages 15-49)**<br>
+66.4% (2023 est.)<br>
 
 **Education expenditures**<br>
 3.1% of GDP (2020 est.)<br>
@@ -243,9 +243,9 @@ _male_: 86.5%<br>
 _female_: 75% (2015)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 1.7%<br>
-_male_: 1.8%<br>
-_female_: 1.5% (2019 est.)<br>
+_total_: 1.8%<br>
+_male_: 1.6%<br>
+_female_: 2.1% (2021 est.)<br>
 
 ## Environment
 
@@ -414,28 +414,29 @@ _selected World Heritage Site locales_: Angkor; Temple of Preah Vihear; Sambor P
 <p>Cambodia has experienced strong economic growth over the last decade; GDP grew at an average annual rate of over 8% between 2000 and 2010 and about 7% since 2011. The tourism, garment, construction and real estate, and agriculture sectors accounted for the bulk of growth. Around 700,000 people, the majority of whom are women, are employed in the garment and footwear sector. An additional 500,000 Cambodians are employed in the tourism sector, and a further 200,000 people in construction. Tourism has continued to grow rapidly with foreign arrivals exceeding 2 million per year in 2007 and reaching 5.6 million visitors in 2017. Mining also is attracting some investor interest and the government has touted opportunities for mining bauxite, gold, iron and gems.</p> <p> </p> <p>Still, Cambodia remains one of the poorest countries in Asia, and long-term economic development remains a daunting challenge, inhibited by corruption, limited human resources, high income inequality, and poor job prospects. According to the Asian Development Bank (ADB), the percentage of the population living in poverty decreased to 13.5% in 2016. More than 50% of the population is less than 25 years old. The population lacks education and productive skills, particularly in the impoverished countryside, which also lacks basic infrastructure.</p> <p> </p> <p>The World Bank in 2016 formally reclassified Cambodia as a lower middle-income country as a result of continued rapid economic growth over the past several years. Cambodia’s graduation from a low-income country will reduce its eligibility for foreign assistance and will challenge the government to seek new sources of financing. The Cambodian Government has been working with bilateral and multilateral donors, including the Asian Development Bank, the World Bank and IMF, to address the country's many pressing needs; more than 20% of the government budget will come from donor assistance in 2018. A major economic challenge for Cambodia over the next decade will be fashioning an economic environment in which the private sector can create enough jobs to handle Cambodia's demographic imbalance.</p> <p> </p> <p>Textile exports, which accounted for 68% of total exports in 2017, have driven much of Cambodia’s growth over the past several years. The textile sector relies on exports to the United States and European Union, and Cambodia’s dependence on its comparative advantage in textile production is a key vulnerability for the economy, especially because Cambodia has continued to run a current account deficit above 9% of GDP since 2014.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
-$70.08 billion (2020 est.)<br>
-$72.36 billion (2019 est.)<br>
-$67.59 billion (2018 est.)<br>
+$72.238 billion (2021 est.)<br>
+$70.116 billion (2020 est.)<br>
+$72.356 billion (2019 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
-6.9% (2017 est.)<br>
-7% (2016 est.)<br>
-7% (2015 est.)<br>
+3.03% (2021 est.)<br>
+-3.1% (2020 est.)<br>
+7.05% (2019 est.)<br>
 
 **Real GDP per capita**<br>
-$4,200 (2020 est.)<br>
-$4,400 (2019 est.)<br>
-$4,200 (2018 est.)<br>
+$4,400 (2021 est.)<br>
+$4,300 (2020 est.)<br>
+$4,500 (2019 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
 $22.09 billion (2017 est.)<br>
 
 **Inflation rate (consumer prices)**<br>
-2.9% (2017 est.)<br>
-3% (2016 est.)<br>
+2.92% (2021 est.)<br>
+2.94% (2020 est.)<br>
+1.94% (2019 est.)<br>
 
 **Credit ratings**<br>
 _Moody's rating_: B2 (2007)<br>
@@ -462,10 +463,10 @@ cassava, rice, maize, vegetables, sugar cane, soybeans, rubber, oil palm fruit, 
 tourism, garments, construction, rice milling, fishing, wood and wood products, rubber, cement, gem mining, textiles<br>
 
 **Industrial production growth rate**<br>
-10.6% (2017 est.)<br>
+9.37% (2021 est.)<br>
 
 **Labor force**<br>
-8.913 million (2017 est.)<br>
+9.345 million (2021 est.)<br>
 
 **Labor force - by occupation**<br>
 _agriculture_: 48.7%<br>
@@ -473,21 +474,21 @@ _industry_: 19.9%<br>
 _services_: 31.5% (2013 est.)<br>
 
 **Unemployment rate**<br>
-0.3% (2017 est.)<br>
-0.2% (2016 est.)<br>
+0.61% (2021 est.)<br>
+0.33% (2020 est.)<br>
+0.15% (2019 est.)<br>
 <strong>note:</strong> high underemployment, according to official statistics<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 1.7%<br>
-_male_: 1.8%<br>
-_female_: 1.5% (2019 est.)<br>
+_total_: 1.8%<br>
+_male_: 1.6%<br>
+_female_: 2.1% (2021 est.)<br>
 
 **Population below poverty line**<br>
 16.5% (2016 est.)<br>
 
 **Gini Index coefficient - distribution of family income**<br>
 37.9 (2008 est.)<br>
-41.9 (2004 est.)<br>
 
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 2%<br>
@@ -505,19 +506,20 @@ _expenditures_: 4.354 billion (2017 est.)<br>
 29.1% of GDP (2016 est.)<br>
 
 **Taxes and other revenues**<br>
-17.9% (of GDP) (2017 est.)<br>
+17.89% (of GDP) (2020 est.)<br>
 
 **Fiscal year**<br>
 calendar year<br>
 
 **Current account balance**<br>
--$1.871 billion (2017 est.)<br>
--$1.731 billion (2016 est.)<br>
+-$12.321 billion (2021 est.)<br>
+-$2.197 billion (2020 est.)<br>
+-$4.065 billion (2019 est.)<br>
 
 **Exports**<br>
-$19.4 billion (2020 est.)<br>
-$21.07 billion (2019 est.)<br>
-$18.41 billion (2018 est.)<br>
+$20.126 billion (2021 est.)<br>
+$20.29 billion (2020 est.)<br>
+$21.072 billion (2019 est.)<br>
 <strong>note:</strong> Data are in current year dollars and do not include illicit exports or re-exports.<br>
 
 **Exports - partners**<br>
@@ -527,9 +529,9 @@ United States 21%, Singapore 8%, Thailand 8%, Germany 7%, Japan 6%, China 5%, Ca
 clothing, precious metal scraps, trunks/cases, gold, leather footwear (2019)<br>
 
 **Imports**<br>
-$23.12 billion (2020 est.) note: data are in current year dollars<br>
-$25.52 billion (2019 est.) note: data are in current year dollars<br>
-$21.86 billion (2018 est.) note: data are in current year dollars<br>
+$32.83 billion (2021 est.) note: data are in current year dollars<br>
+$23.091 billion (2020 est.) note: data are in current year dollars<br>
+$25.516 billion (2019 est.) note: data are in current year dollars<br>
 
 **Imports - partners**<br>
 China 27%, Thailand 25%, Vietnam 15%, Singapore 8% (2019)<br>
@@ -538,8 +540,9 @@ China 27%, Thailand 25%, Vietnam 15%, Singapore 8% (2019)<br>
 refined petroleum, clothing, gold, cars, flavored water (2019)<br>
 
 **Reserves of foreign exchange and gold**<br>
-$12.2 billion (31 December 2017 est.)<br>
-$9.122 billion (31 December 2016 est.)<br>
+$20.27 billion (31 December 2021 est.)<br>
+$21.328 billion (31 December 2020 est.)<br>
+$18.771 billion (31 December 2019 est.)<br>
 
 **Debt - external**<br>
 $11.87 billion (31 December 2017 est.)<br>
@@ -547,11 +550,11 @@ $10.3 billion (31 December 2016 est.)<br>
 
 **Exchange rates**<br>
 _Currency_: riels (KHR) per US dollar -<br>
-4,055 (2017 est.)<br>
-4,058.7 (2016 est.)<br>
-4,058.7 (2015 est.)<br>
-4,067.8 (2014 est.)<br>
-4,037.5 (2013 est.)<br>
+4,098.723 (2021 est.)<br>
+4,092.783 (2020 est.)<br>
+4,061.149 (2019 est.)<br>
+4,051.167 (2018 est.)<br>
+4,050.58 (2017 est.)<br>
 
 ## Energy
 

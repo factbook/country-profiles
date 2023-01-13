@@ -160,7 +160,7 @@ _female_: 77.88 years (2022 est.)<br>
 1.35 children born/woman (2022 est.)<br>
 
 **Gross reproduction rate**<br>
-0.65 (2022 est.)<br>
+0.65 (2023 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 63.8% (2014)<br>
@@ -208,11 +208,11 @@ _total_: 20.2% (2020 est.)<br>
 _male_: 37.3% (2020 est.)<br>
 _female_: 3% (2020 est.)<br>
 
-**Currently married women (ages 15-49)**<br>
-61.9% (2022 est.)<br>
-
 **Children under the age of 5 years underweight**<br>
 NA<br>
+
+**Currently married women (ages 15-49)**<br>
+62% (2023 est.)<br>
 
 **Education expenditures**<br>
 4.9% of GDP (2021 est.)<br>
@@ -229,9 +229,9 @@ _male_: 14 years<br>
 _female_: 16 years (2017)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 24.5%<br>
-_male_: 21.7%<br>
-_female_: 28% (2020 est.)<br>
+_total_: 25.3%<br>
+_male_: 19.7%<br>
+_female_: 32.9% (2021 est.)<br>
 
 ## Environment
 
@@ -386,29 +386,29 @@ _selected World Heritage Site locales_: Aapravasi Ghat; Le Morne Cultural Landsc
 <p>Since independence in 1968, Mauritius has undergone a remarkable economic transformation from a low-income, agriculturally based economy to a diversified, upper middle-income economy with growing industrial, financial, and tourist sectors. Mauritius has achieved steady growth over the last several decades, resulting in more equitable income distribution, increased life expectancy, lowered infant mortality, and a much-improved infrastructure.</p> <p> </p> <p>The economy currently depends on sugar, tourism, textiles and apparel, and financial services, but is expanding into fish processing, information and communications technology, education, and hospitality and property development. Sugarcane is grown on about 90% of the cultivated land area but sugar makes up only around 3-4% of national GDP. Authorities plan to emphasize services and innovation in the coming years. After several years of slow growth, government policies now seek to stimulate economic growth in five areas: serving as a gateway for international investment into Africa; increasing the use of renewable energy; developing smart cities; growing the ocean economy; and upgrading and modernizing infrastructure, including public transportation, the port, and the airport.</p> <p> </p> <p>Mauritius has attracted more than 32,000 offshore entities, many aimed at commerce in India, South Africa, and China. The Mauritius International Financial Center is under scrutiny by international bodies promoting fair tax competition and Mauritius has been cooperating with the European Union and the United states in the automatic exchange of account information. Mauritius is also a member of the OECD/G20’s Inclusive Framework on Base Erosion and Profit Shifting and is under pressure to review its Double Taxation Avoidance Agreements. The offshore sector is vulnerable to changes in the tax framework and authorities have been working on a Financial Services Sector Blueprint to enable Mauritius to transition to a jurisdiction of higher value added. Mauritius’ textile sector has taken advantage of the Africa Growth and Opportunity Act, a preferential trade program that allows duty free access to the US market, with Mauritian exports to the US growing by 35.6 % from 2000 to 2014. However, lack of local labor as well as rising labor costs eroding the competitiveness of textile firms in Mauritius.</p> <p> </p> <p>Mauritius' sound economic policies and prudent banking practices helped mitigate negative effects of the global financial crisis in 2008-09. GDP grew in the 3-4% per year range in 2010-17, and the country continues to expand its trade and investment outreach around the globe. Growth in the US and Europe fostered goods and services exports, including tourism, while lower oil prices kept inflation low. Mauritius continues to rank as one of the most business-friendly environments on the continent and passed a Business Facilitation Act to improve competitiveness and long-term growth prospects. A new National Economic Development Board was set up in 2017-2018 to spearhead efforts to promote exports and attract inward investment.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
-$24.64 billion (2020 est.)<br>
-$28.95 billion (2019 est.)<br>
-$28.1 billion (2018 est.)<br>
+$26.547 billion (2021 est.)<br>
+$25.599 billion (2020 est.)<br>
+$29.974 billion (2019 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
-3.8% (2017 est.)<br>
-3.8% (2016 est.)<br>
-3.6% (2015 est.)<br>
+3.7% (2021 est.)<br>
+-14.6% (2020 est.)<br>
+2.89% (2019 est.)<br>
 
 **Real GDP per capita**<br>
-$19,500 (2020 est.)<br>
-$22,900 (2019 est.)<br>
-$22,200 (2018 est.)<br>
+$21,000 (2021 est.)<br>
+$20,200 (2020 est.)<br>
+$23,700 (2019 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
 $14.004 billion (2019 est.)<br>
 
 **Inflation rate (consumer prices)**<br>
-0.4% (2019 est.)<br>
-3.2% (2018 est.)<br>
-3.6% (2017 est.)<br>
+4.03% (2021 est.)<br>
+2.58% (2020 est.)<br>
+0.41% (2019 est.)<br>
 
 **Credit ratings**<br>
 _Moody's rating_: Baa1 (2012)<br>
@@ -434,10 +434,10 @@ sugar cane, poultry, pumpkins, gourds, potatoes, eggs, tomatoes, pineapples, ban
 food processing (largely sugar milling), textiles, clothing, mining, chemicals, metal products, transport equipment, nonelectrical machinery, tourism<br>
 
 **Industrial production growth rate**<br>
-3.2% (2017 est.)<br>
+20.88% (2021 est.)<br>
 
 **Labor force**<br>
-554,000 (2020 est.)<br>
+597,900 (2021 est.)<br>
 
 **Labor force - by occupation**<br>
 _agriculture_: 8%<br>
@@ -445,20 +445,20 @@ _industry_: 29.8%<br>
 _services_: 62.2% (2014 est.)<br>
 
 **Unemployment rate**<br>
-6.65% (2019 est.)<br>
-6.84% (2018 est.)<br>
+7.41% (2021 est.)<br>
+7.41% (2020 est.)<br>
+6.33% (2019 est.)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 24.5%<br>
-_male_: 21.7%<br>
-_female_: 28% (2020 est.)<br>
+_total_: 25.3%<br>
+_male_: 19.7%<br>
+_female_: 32.9% (2021 est.)<br>
 
 **Population below poverty line**<br>
 10.3% (2017 est.)<br>
 
 **Gini Index coefficient - distribution of family income**<br>
 36.8 (2017 est.)<br>
-39 (2006 est.)<br>
 
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: NA<br>
@@ -472,22 +472,25 @@ _expenditures_: 3.038 billion (2017 est.)<br>
 -0.3% (of GDP) (2017 est.)<br>
 
 **Public debt**<br>
-64% of GDP (2017 est.)<br>
-66.1% of GDP (2016 est.)<br>
+57.96% of GDP (2019 est.)<br>
+55.38% of GDP (2018 est.)<br>
+56.16% of GDP (2017 est.)<br>
 
 **Taxes and other revenues**<br>
-22.5% (of GDP) (2017 est.)<br>
+20.72% (of GDP) (2020 est.)<br>
 
 **Fiscal year**<br>
 1 July - 30 June<br>
 
 **Current account balance**<br>
--$875 million (2017 est.)<br>
--$531 million (2016 est.)<br>
+-$1.527 billion (2021 est.)<br>
+-$1.003 billion (2020 est.)<br>
+-$718.495 million (2019 est.)<br>
 
 **Exports**<br>
-$5.17 billion (2019 est.) note: data are in current year dollars<br>
-$5.59 billion (2018 est.) note: data are in current year dollars<br>
+$3.198 billion (2021 est.) note: data are in current year dollars<br>
+$3.088 billion (2020 est.) note: data are in current year dollars<br>
+$5.258 billion (2019 est.)<br>
 
 **Exports - partners**<br>
 France 10%, South Africa 10%, United States 10%, United Kingdom 8%, Zambia 7%, Madagascar 6% (2019)<br>
@@ -496,8 +499,9 @@ France 10%, South Africa 10%, United States 10%, United Kingdom 8%, Zambia 7%, M
 fish products, raw sugar, clothing and apparel, diamonds, refined petroleum (2019)<br>
 
 **Imports**<br>
-$7.41 billion (2019 est.) note: data are in current year dollars<br>
-$7.53 billion (2018 est.) note: data are in current year dollars<br>
+$6.082 billion (2021 est.) note: data are in current year dollars<br>
+$5.222 billion (2020 est.) note: data are in current year dollars<br>
+$7.365 billion (2019 est.)<br>
 
 **Imports - partners**<br>
 China 15%, India 13%, France 10%, South Africa 8%, United Arab Emirates 7% (2019)<br>
@@ -506,8 +510,9 @@ China 15%, India 13%, France 10%, South Africa 8%, United Arab Emirates 7% (2019
 refined petroleum, cars, fish products, aircraft, packaged medicines (2019)<br>
 
 **Reserves of foreign exchange and gold**<br>
-$5.984 billion (31 December 2017 est.)<br>
-$4.967 billion (31 December 2016 est.)<br>
+$8.563 billion (31 December 2021 est.)<br>
+$7.291 billion (31 December 2020 est.)<br>
+$7.362 billion (31 December 2019 est.)<br>
 
 **Debt - external**<br>
 $226.799 billion (2019 est.)<br>
@@ -515,11 +520,11 @@ $232.17 billion (2018 est.)<br>
 
 **Exchange rates**<br>
 _Currency_: Mauritian rupees (MUR) per US dollar -<br>
-39.65 (2020 est.)<br>
-36.51 (2019 est.)<br>
-34.4 (2018 est.)<br>
-35.057 (2014 est.)<br>
-30.622 (2013 est.)<br>
+41.692 (2021 est.)<br>
+39.347 (2020 est.)<br>
+35.474 (2019 est.)<br>
+33.934 (2018 est.)<br>
+34.481 (2017 est.)<br>
 
 ## Energy
 

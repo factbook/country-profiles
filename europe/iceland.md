@@ -159,7 +159,7 @@ _female_: 85.97 years (2022 est.)<br>
 1.95 children born/woman (2022 est.)<br>
 
 **Gross reproduction rate**<br>
-0.96 (2022 est.)<br>
+0.95 (2023 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 NA<br>
@@ -207,11 +207,11 @@ _total_: 12% (2020 est.)<br>
 _male_: 11.9% (2020 est.)<br>
 _female_: 12% (2020 est.)<br>
 
-**Currently married women (ages 15-49)**<br>
-45.1% (2022 est.)<br>
-
 **Children under the age of 5 years underweight**<br>
 NA<br>
+
+**Currently married women (ages 15-49)**<br>
+45.1% (2023 est.)<br>
 
 **Education expenditures**<br>
 7.7% of GDP (2020 est.)<br>
@@ -227,9 +227,9 @@ _male_: 18 years<br>
 _female_: 21 years (2020)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 12%<br>
-_male_: 13.2%<br>
-_female_: 10.7% (2021 est.)<br>
+_total_: 13.4%<br>
+_male_: 13%<br>
+_female_: 13.7% (2021 est.)<br>
 
 ## Environment
 
@@ -385,29 +385,29 @@ _selected World Heritage Site locales_: Thingvellir National Park (c); Surtsey (
 <p>Iceland's economy combines a capitalist structure and free-market principles with an extensive welfare system. Except for a brief period during the 2008 crisis, Iceland has in recent years achieved high growth, low unemployment, and a remarkably even distribution of income. Iceland's economy has been diversifying into manufacturing and service industries in the last decade, particularly within the fields of tourism, software production, and biotechnology. Abundant geothermal and hydropower sources have attracted substantial foreign investment in the aluminum sector, boosted economic growth, and sparked some interest from high-tech firms looking to establish data centers using cheap green energy.</p> <p> </p> <p>Tourism, aluminum smelting, and fishing are the pillars of the economy. For decades the Icelandic economy depended heavily on fisheries, but tourism has now surpassed fishing and aluminum as Iceland’s main export industry. Tourism accounted for 8.6% of Iceland’s GDP in 2016, and 39% of total exports of merchandise and services. From 2010 to 2017, the number of tourists visiting Iceland increased by nearly 400%. Since 2010, tourism has become a main driver of Icelandic economic growth, with the number of tourists reaching 4.5 times the Icelandic population in 2016. Iceland remains sensitive to fluctuations in world prices for its main exports, and to fluctuations in the exchange rate of the Icelandic Krona.</p> <p> </p> <p>Following the privatization of the banking sector in the early 2000s, domestic banks expanded aggressively in foreign markets, and consumers and businesses borrowed heavily in foreign currencies. Worsening global financial conditions throughout 2008 resulted in a sharp depreciation of the krona vis-a-vis other major currencies. The foreign exposure of Icelandic banks, whose loans and other assets totaled nearly nine times the country's GDP, became unsustainable. Iceland's three largest banks collapsed in late 2008. GDP fell 6.8% in 2009, and unemployment peaked at 9.4% in February 2009. Three new banks were established to take over the domestic assets of the collapsed banks. Two of them have majority ownership by the state, which intends to re-privatize them.</p> <p> </p> <p>Since the collapse of Iceland's financial sector, government economic priorities have included stabilizing the krona, implementing capital controls, reducing Iceland's high budget deficit, containing inflation, addressing high household debt, restructuring the financial sector, and diversifying the economy. Capital controls were lifted in March 2017, but some financial protections, such as reserve requirements for specified investments connected to new inflows of foreign currency, remain in place.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
-$19.16 billion (2020 est.)<br>
-$20.52 billion (2019 est.)<br>
-$20.01 billion (2018 est.)<br>
+$19.962 billion (2021 est.)<br>
+$19.12 billion (2020 est.)<br>
+$20.524 billion (2019 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
-1.94% (2019 est.)<br>
-3.88% (2018 est.)<br>
-4.57% (2017 est.)<br>
+4.4% (2021 est.)<br>
+-6.84% (2020 est.)<br>
+2.42% (2019 est.)<br>
 
 **Real GDP per capita**<br>
-$52,300 (2020 est.)<br>
+$53,600 (2021 est.)<br>
+$52,200 (2020 est.)<br>
 $56,900 (2019 est.)<br>
-$56,700 (2018 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
 $24.614 billion (2019 est.)<br>
 
 **Inflation rate (consumer prices)**<br>
-3% (2019 est.)<br>
-2.6% (2018 est.)<br>
-1.7% (2017 est.)<br>
+4.44% (2021 est.)<br>
+2.85% (2020 est.)<br>
+3.01% (2019 est.)<br>
 
 **Credit ratings**<br>
 _Fitch rating_: A (2017)<br>
@@ -435,10 +435,10 @@ milk, mutton, poultry, potatoes, barley, pork, eggs, beef, other meat, sheep ski
 tourism, fish processing; aluminum smelting; geothermal power, hydropower; medical/pharmaceutical products<br>
 
 **Industrial production growth rate**<br>
-2.4% (2017 est.)<br>
+5.65% (2021 est.)<br>
 
 **Labor force**<br>
-200,000 (2020 est.)<br>
+200,300 (2021 est.)<br>
 
 **Labor force - by occupation**<br>
 _agriculture_: 4.8%<br>
@@ -446,20 +446,20 @@ _industry_: 22.2%<br>
 _services_: 73% (2008)<br>
 
 **Unemployment rate**<br>
-3.62% (2019 est.)<br>
-2.73% (2018 est.)<br>
+5.4% (2021 est.)<br>
+5.48% (2020 est.)<br>
+3.51% (2019 est.)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 12%<br>
-_male_: 13.2%<br>
-_female_: 10.7% (2021 est.)<br>
+_total_: 13.4%<br>
+_male_: 13%<br>
+_female_: 13.7% (2021 est.)<br>
 
 **Population below poverty line**<br>
 8.8% (2017 est.)<br>
 
 **Gini Index coefficient - distribution of family income**<br>
-26.8 (2015 est.)<br>
-25 (2005)<br>
+26.1 (2017 est.)<br>
 
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: NA<br>
@@ -473,23 +473,25 @@ _expenditures_: 10.02 billion (2017 est.)<br>
 1.5% (of GDP) (2017 est.)<br>
 
 **Public debt**<br>
-40% of GDP (2017 est.)<br>
-51.7% of GDP (2016 est.)<br>
+100.02% of GDP (2020 est.)<br>
+89.59% of GDP (2019 est.)<br>
+81.95% of GDP (2018 est.)<br>
 
 **Taxes and other revenues**<br>
-42.4% (of GDP) (2017 est.)<br>
+22.33% (of GDP) (2020 est.)<br>
 
 **Fiscal year**<br>
 calendar year<br>
 
 **Current account balance**<br>
-$1.496 billion (2019 est.)<br>
-$814 million (2018 est.)<br>
+-$409.262 million (2021 est.)<br>
+$407.806 million (2020 est.)<br>
+$1.612 billion (2019 est.)<br>
 
 **Exports**<br>
-$7.43 billion (2020 est.) note: data are in current year dollars<br>
-$11.01 billion (2019 est.) note: data are in current year dollars<br>
-$12.26 billion (2018 est.) note: data are in current year dollars<br>
+$9.775 billion (2021 est.) note: data are in current year dollars<br>
+$7.501 billion (2020 est.) note: data are in current year dollars<br>
+$11.005 billion (2019 est.) note: data are in current year dollars<br>
 
 **Exports - partners**<br>
 Netherlands 23%, United Kingdom 9%, Germany 9%, Spain 8%, United States 7%, France 7%, Canada 5% (2019)<br>
@@ -498,9 +500,9 @@ Netherlands 23%, United Kingdom 9%, Germany 9%, Spain 8%, United States 7%, Fran
 aluminum and aluminum products, fish products, aircraft, iron alloys, animal meal (2019)<br>
 
 **Imports**<br>
-$7.55 billion (2020 est.) note: data are in current year dollars<br>
-$9.76 billion (2019 est.) note: data are in current year dollars<br>
-$11.34 billion (2018 est.) note: data are in current year dollars<br>
+$10.234 billion (2021 est.) note: data are in current year dollars<br>
+$7.616 billion (2020 est.) note: data are in current year dollars<br>
+$9.891 billion (2019 est.) note: data are in current year dollars<br>
 
 **Imports - partners**<br>
 Norway 11%, Netherlands 10%, Germany 8%, Denmark 8%, United States 7%, United Kingdom 6%, China 6%, Sweden 5% (2019)<br>
@@ -509,8 +511,9 @@ Norway 11%, Netherlands 10%, Germany 8%, Denmark 8%, United States 7%, United Ki
 refined petroleum, aluminum oxide, carbon/graphite electronics, cars, packaged medicines (2019)<br>
 
 **Reserves of foreign exchange and gold**<br>
-$6.567 billion (31 December 2017 est.)<br>
-$7.226 billion (31 December 2016 est.)<br>
+$7.079 billion (31 December 2021 est.)<br>
+$6.419 billion (31 December 2020 est.)<br>
+$6.782 billion (31 December 2019 est.)<br>
 
 **Debt - external**<br>
 $19.422 billion (2019 est.)<br>
@@ -518,11 +521,11 @@ $22.055 billion (2018 est.)<br>
 
 **Exchange rates**<br>
 _Currency_: Icelandic kronur (ISK) per US dollar -<br>
-127.05 (2020 est.)<br>
-121.68 (2019 est.)<br>
-121.86 (2018 est.)<br>
-131.92 (2014 est.)<br>
-116.77 (2013 est.)<br>
+126.989 (2021 est.)<br>
+135.422 (2020 est.)<br>
+122.607 (2019 est.)<br>
+108.3 (2018 est.)<br>
+106.84 (2017 est.)<br>
 
 ## Energy
 

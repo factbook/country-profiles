@@ -167,7 +167,7 @@ _female_: 85.4 years (2022 est.)<br>
 1.27 children born/woman (2022 est.)<br>
 
 **Gross reproduction rate**<br>
-0.62 (2022 est.)<br>
+0.63 (2023 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 62.1% (2018)<br>
@@ -220,11 +220,11 @@ _total_: 27.7% (2020 est.)<br>
 _male_: 28.6% (2020 est.)<br>
 _female_: 26.7% (2020 est.)<br>
 
-**Currently married women (ages 15-49)**<br>
-50.8% (2022 est.)<br>
-
 **Children under the age of 5 years underweight**<br>
 NA<br>
+
+**Currently married women (ages 15-49)**<br>
+50.1% (2023 est.)<br>
 
 **Education expenditures**<br>
 4.6% of GDP (2020 est.)<br>
@@ -241,9 +241,9 @@ _male_: 18 years<br>
 _female_: 19 years (2020)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 34.8%<br>
-_male_: 34.1%<br>
-_female_: 35.6% (2021 est.)<br>
+_total_: 36.9%<br>
+_male_: 35.9%<br>
+_female_: 38.2% (2021 est.)<br>
 
 ## Environment
 
@@ -413,29 +413,29 @@ _selected World Heritage Site locales_: Cave of Altamira and Paleolithic Cave Ar
 <p>After a prolonged recession that began in 2008 in the wake of the global financial crisis, Spain marked the fourth full year of positive economic growth in 2017, with economic activity surpassing its pre-crisis peak, largely because of increased private consumption. The financial crisis of 2008 broke 16 consecutive years of economic growth for Spain, leading to an economic contraction that lasted until late 2013. In that year, the government successfully shored up its struggling banking sector - heavily exposed to the collapse of Spain’s real estate boom - with the help of an EU-funded restructuring and recapitalization program.</p> <p>Until 2014, contraction in bank lending, fiscal austerity, and high unemployment constrained domestic consumption and investment. The unemployment rate rose from a low of about 8% in 2007 to more than 26% in 2013, but labor reforms prompted a modest reduction to 16.4% in 2017. High unemployment strained Spain's public finances, as spending on social benefits increased while tax revenues fell. Spain’s budget deficit peaked at 11.4% of GDP in 2010, but Spain gradually reduced the deficit to about 3.3% of GDP in 2017. Public debt has increased substantially – from 60.1% of GDP in 2010 to nearly 96.7% in 2017.</p> <p>Strong export growth helped bring Spain's current account into surplus in 2013 for the first time since 1986 and sustain Spain’s economic growth. Increasing labor productivity and an internal devaluation resulting from moderating labor costs and lower inflation have improved Spain’s export competitiveness and generated foreign investor interest in the economy, restoring FDI flows.</p> <p>In 2017, the Spanish Government’s minority status constrained its ability to implement controversial labor, pension, health care, tax, and education reforms. The European Commission expects the government to meet its 2017 budget deficit target and anticipates that expected economic growth in 2018 will help the government meet its deficit target. Spain’s borrowing costs are dramatically lower since their peak in mid-2012 and increased economic activity has generated a modest level of inflation, at 2% in 2017.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
-$1.715 billion (2020 est.)<br>
-$1.923 billion (2019 est.)<br>
-$1.887 billion (2018 est.)<br>
+$1.798 trillion (2021 est.)<br>
+$1.704 trillion (2020 est.)<br>
+$1.921 trillion (2019 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
-1.95% (2019 est.)<br>
-2.43% (2018 est.)<br>
-2.97% (2017 est.)<br>
+5.52% (2021 est.)<br>
+-11.33% (2020 est.)<br>
+1.98% (2019 est.)<br>
 
 **Real GDP per capita**<br>
-$36,200 (2020 est.)<br>
+$37,900 (2021 est.)<br>
+$36,000 (2020 est.)<br>
 $40,800 (2019 est.)<br>
-$40,300 (2018 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
 $1,393,351,000,000 (2019 est.)<br>
 
 **Inflation rate (consumer prices)**<br>
+3.09% (2021 est.)<br>
+-0.32% (2020 est.)<br>
 0.7% (2019 est.)<br>
-1.6% (2018 est.)<br>
-1.9% (2017 est.)<br>
 
 **Credit ratings**<br>
 _Fitch rating_: A- (2018)<br>
@@ -463,10 +463,10 @@ barley, milk, wheat, olives, grapes, tomatoes, pork, maize, oranges, sugar beets
 textiles and apparel (including footwear), food and beverages, metals and metal manufactures, chemicals, shipbuilding, automobiles, machine tools, tourism, clay and refractory products, footwear, pharmaceuticals, medical equipment<br>
 
 **Industrial production growth rate**<br>
-4% (2017 est.)<br>
+4.03% (2021 est.)<br>
 
 **Labor force**<br>
-19.057 million (2020 est.)<br>
+23.382 million (2021 est.)<br>
 
 **Labor force - by occupation**<br>
 _agriculture_: 4.2%<br>
@@ -474,20 +474,20 @@ _industry_: 24%<br>
 _services_: 71.7% (2009)<br>
 
 **Unemployment rate**<br>
-14.13% (2019 est.)<br>
-15.25% (2018 est.)<br>
+14.73% (2021 est.)<br>
+15.53% (2020 est.)<br>
+14.1% (2019 est.)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 34.8%<br>
-_male_: 34.1%<br>
-_female_: 35.6% (2021 est.)<br>
+_total_: 36.9%<br>
+_male_: 35.9%<br>
+_female_: 38.2% (2021 est.)<br>
 
 **Population below poverty line**<br>
 20.7% (2018 est.)<br>
 
 **Gini Index coefficient - distribution of family income**<br>
 34.7 (2017 est.)<br>
-32 (2005)<br>
 
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 2.5%<br>
@@ -501,23 +501,25 @@ _expenditures_: 539 billion (2017 est.)<br>
 -3.1% (of GDP) (2017 est.)<br>
 
 **Public debt**<br>
-98.4% of GDP (2017 est.)<br>
-99% of GDP (2016 est.)<br>
+141.22% of GDP (2020 est.)<br>
+108.99% of GDP (2019 est.)<br>
+104.74% of GDP (2018 est.)<br>
 
 **Taxes and other revenues**<br>
-37.9% (of GDP) (2017 est.)<br>
+13.58% (of GDP) (2020 est.)<br>
 
 **Fiscal year**<br>
 calendar year<br>
 
 **Current account balance**<br>
-$29.603 billion (2019 est.)<br>
-$27.206 billion (2018 est.)<br>
+$13.445 billion (2021 est.)<br>
+$8.045 billion (2020 est.)<br>
+$29.247 billion (2019 est.)<br>
 
 **Exports**<br>
-$392.85 billion (2020 est.) ; note: data are in current year dollars<br>
-$486.15 billion (2019 est.) ; note: data are in current year dollars<br>
-$499.55 billion (2018 est.) ; note: data are in current year dollars<br>
+$497.868 billion (2021 est.) ; note: data are in current year dollars<br>
+$393.774 billion (2020 est.) ; note: data are in current year dollars<br>
+$486.633 billion (2019 est.) ; note: data are in current year dollars<br>
 
 **Exports - partners**<br>
 France 15%, Germany 11%, Italy 8%, Portugal 8%, United Kingdom 7%, United States 5% (2019)<br>
@@ -526,9 +528,9 @@ France 15%, Germany 11%, Italy 8%, Portugal 8%, United Kingdom 7%, United States
 cars and vehicle parts, refined petroleum, packaged medicines, delivery trucks, clothing and apparel (2019)<br>
 
 **Imports**<br>
-$373.67 billion (2020 est.) note: data are in current year dollars<br>
-$444.31 billion (2019 est.) note: data are in current year dollars<br>
-$460.98 billion (2018 est.) note: data are in current year dollars<br>
+$476.678 billion (2021 est.) note: data are in current year dollars<br>
+$375.087 billion (2020 est.) note: data are in current year dollars<br>
+$445.719 billion (2019 est.) note: data are in current year dollars<br>
 
 **Imports - partners**<br>
 Germany 13%, France 11%, China 8%, Italy 7% (2019)<br>
@@ -537,8 +539,9 @@ Germany 13%, France 11%, China 8%, Italy 7% (2019)<br>
 crude petroleum, cars and vehicle parts, packaged medicines, natural gas, refined petroleum (2019)<br>
 
 **Reserves of foreign exchange and gold**<br>
-$69.41 billion (31 December 2017 est.)<br>
-$63.14 billion (31 December 2016 est.)<br>
+$92.201 billion (31 December 2021 est.)<br>
+$81.288 billion (31 December 2020 est.)<br>
+$74.731 billion (31 December 2019 est.)<br>
 
 **Debt - external**<br>
 $2.338 billion (2019 est.)<br>
@@ -546,11 +549,11 @@ $2.366 billion (2018 est.)<br>
 
 **Exchange rates**<br>
 _Currency_: euros (EUR) per US dollar -<br>
-0.82771 (2020 est.)<br>
-0.90338 (2019 est.)<br>
-0.87789 (2018 est.)<br>
-0.7525 (2014 est.)<br>
-0.7634 (2013 est.)<br>
+0.845 (2021 est.)<br>
+0.876 (2020 est.)<br>
+0.893 (2019 est.)<br>
+0.847 (2018 est.)<br>
+0.885 (2017 est.)<br>
 
 ## Energy
 
@@ -739,7 +742,7 @@ Islamic State of Iraq and ash-Sham (ISIS); al-Qa’ida<br>
 <p><em>Spain-Andorra</em>: none identified</p> <p><em>Spain-France</em>: none identified</p> <p><em>Spain-Gibraltar (UK)</em>: in 2002, Gibraltar residents voted overwhelmingly by referendum to reject any "shared sovereignty" arrangement; the Government of Gibraltar insists on equal participation in talks between the UK and Spain; Spain does not recognize British sovereignty beyond the original fortified perimeter of the city and disapproves of UK plans to grant Gibraltar greater autonomy; after voters in the UK chose to leave the EU in a June 2016 referendum, Spain again proposed shared sovereignty of Gibraltar; UK officials rejected Spain’s joint sovereignty proposal</p> <p><em>Spain-Morocco</em>: Morocco protests Spain's control over the coastal enclaves of Ceuta, Melilla, and the islands of Penon de Velez de la Gomera, Penon de Alhucemas, and Islas Chafarinas, and surrounding waters; both countries claim Isla Perejil (Leila Island), which remains unoccupied but was the site of a  military standoff in 2002; Morocco serves as the primary embarkation area for illegal migration into mainland Spain from North Africa</p> <p><em>Spain-Portugal</em>: Portugal does not recognize Spanish sovereignty over the territory of Olivenza based on a difference of interpretation of the 1815 Congress of Vienna and the 1801 Treaty of Badajoz</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 14,823 (Syria) (mid-year 2021); 418,200 (Venezuela) (economic and political crisis; includes Venezuelans who have claimed asylum, are recognized as refugees, or have received alternative legal stay) (2021); 160,287 (Ukraine) (as of 26 December 2022)<br>
+_refugees (country of origin)_: 14,994 (Syria) (mid-year 2022); 418,200 (Venezuela) (economic and political crisis; includes Venezuelans who have claimed asylum, are recognized as refugees, or have received alternative legal stay) (2021); 164,705 (Ukraine) (as of 28 December 2022)<br>
 _stateless persons_: 692 (mid-year 2021)<br>
 <strong>note: </strong>278,084 estimated refugee and migrant arrivals, including Canary Islands (January 2015-December 2022)<br>
 

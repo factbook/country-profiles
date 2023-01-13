@@ -159,7 +159,7 @@ _female_: 85.38 years (2022 est.)<br>
 1.5 children born/woman (2022 est.)<br>
 
 **Gross reproduction rate**<br>
-0.74 (2022 est.)<br>
+0.74 (2023 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 NA<br>
@@ -207,11 +207,11 @@ _total_: 24% (2020 est.)<br>
 _male_: 26.4% (2020 est.)<br>
 _female_: 21.6% (2020 est.)<br>
 
-**Currently married women (ages 15-49)**<br>
-62.2% (2022 est.)<br>
-
 **Children under the age of 5 years underweight**<br>
 NA<br>
+
+**Currently married women (ages 15-49)**<br>
+63.2% (2023 est.)<br>
 
 **Education expenditures**<br>
 5.9% of GDP (2020 est.)<br>
@@ -228,9 +228,9 @@ _male_: 17 years<br>
 _female_: 18 years (2020)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 9.6%<br>
-_male_: 12.7%<br>
-_female_: 6% (2021 est.)<br>
+_total_: 9.8%<br>
+_male_: 13.6%<br>
+_female_: 5.8% (2021 est.)<br>
 
 ## Environment
 
@@ -385,29 +385,29 @@ _selected World Heritage Site locales_: City of Valletta; Ħal Saflieni Hypogeum
 <p>Malta’s free market economy – the smallest economy in the euro-zone – relies heavily on trade in both goods and services, principally with Europe. Malta produces less than a quarter of its food needs, has limited fresh water supplies, and has few domestic energy sources. Malta's economy is dependent on foreign trade, manufacturing, and tourism. Malta joined the EU in 2004 and adopted the euro on 1 January 2008.</p> <p> </p> <p>Malta has weathered the euro-zone crisis better than most EU member states due to a low debt-to-GDP ratio and financially sound banking sector. It maintains one of the lowest unemployment rates in Europe, and growth has fully recovered since the 2009 recession. In 2014 through 2016, Malta led the euro zone in growth, expanding more than 4.5% per year.</p> <p> </p> <p>Malta’s services sector continues to grow, with sustained growth in the financial services and online gaming sectors. Advantageous tax schemes remained attractive to foreign investors, though EU discussions of anti-tax avoidance measures have raised concerns among Malta’s financial services and insurance providers, as the measures could have a significant impact on those sectors. The tourism sector also continued to grow, with 2016 showing record-breaking numbers of both air and cruise passenger arrivals.</p> <p> </p> <p>Malta’s GDP growth remains strong and is supported by a strong labor market. The government has implemented new programs, including free childcare, to encourage increased labor participation. The high cost of borrowing and small labor market remain potential constraints to future economic growth. Increasingly, other EU and European migrants are relocating to Malta for employment, though wages have remained low compared to other European countries. Inflation remains low.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
-$20.6 billion (2020 est.)<br>
-$22.15 billion (2019 est.)<br>
-$20.99 billion (2018 est.)<br>
+$23.157 billion (2021 est.)<br>
+$20.995 billion (2020 est.)<br>
+$22.902 billion (2019 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
-4.94% (2019 est.)<br>
-5.17% (2018 est.)<br>
-8.03% (2017 est.)<br>
+10.3% (2021 est.)<br>
+-8.32% (2020 est.)<br>
+5.92% (2019 est.)<br>
 
 **Real GDP per capita**<br>
-$39,200 (2020 est.)<br>
-$44,000 (2019 est.)<br>
-$43,300 (2018 est.)<br>
+$44,700 (2021 est.)<br>
+$40,700 (2020 est.)<br>
+$45,400 (2019 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
 $14.986 billion (2019 est.)<br>
 
 **Inflation rate (consumer prices)**<br>
-1.6% (2019 est.)<br>
-1.1% (2018 est.)<br>
-1.3% (2017 est.)<br>
+1.5% (2021 est.)<br>
+0.64% (2020 est.)<br>
+1.64% (2019 est.)<br>
 
 **Credit ratings**<br>
 _Fitch rating_: A+ (2017)<br>
@@ -438,7 +438,7 @@ tourism, electronics, ship building and repair, construction, food and beverages
 -3.3% (2016 est.)<br>
 
 **Labor force**<br>
-223,000 (2019 est.)<br>
+280,300 (2021 est.)<br>
 
 **Labor force - by occupation**<br>
 _agriculture_: 1.6%<br>
@@ -446,20 +446,20 @@ _industry_: 20.7%<br>
 _services_: 77.7% (2016 est.)<br>
 
 **Unemployment rate**<br>
-0.78% (2019 est.)<br>
-0.89% (2018 est.)<br>
+3.5% (2021 est.)<br>
+4.26% (2020 est.)<br>
+3.62% (2019 est.)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 9.6%<br>
-_male_: 12.7%<br>
-_female_: 6% (2021 est.)<br>
+_total_: 9.8%<br>
+_male_: 13.6%<br>
+_female_: 5.8% (2021 est.)<br>
 
 **Population below poverty line**<br>
 17.1% (2018 est.)<br>
 
 **Gini Index coefficient - distribution of family income**<br>
-29.2 (2017 est.)<br>
-27.7 (2014)<br>
+31 (2019 est.)<br>
 
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: NA<br>
@@ -478,19 +478,20 @@ _expenditures_: 4.583 billion (2017 est.)<br>
 <strong>note:</strong> Malta reports public debt at nominal value outstanding at the end of the year, according to guidelines set out in the Maastricht Treaty for general government gross debt; the data include the following categories of government liabilities (as defined in ESA95): currency and deposits (AF.2), securities other than shares excluding financial derivatives (AF.3, excluding AF.34), and loans (AF.4); general government comprises the central, state, and local governments, and social security funds<br>
 
 **Taxes and other revenues**<br>
-40.4% (of GDP) (2017 est.)<br>
+23.73% (of GDP) (2020 est.)<br>
 
 **Fiscal year**<br>
 calendar year<br>
 
 **Current account balance**<br>
-$1.561 billion (2019 est.)<br>
-$1.55 billion (2018 est.)<br>
+-$804.056 million (2021 est.)<br>
+-$415.142 million (2020 est.)<br>
+$777.443 million (2019 est.)<br>
 
 **Exports**<br>
-$19.04 billion (2020 est.) note: data are in current year dollars<br>
-$20.76 billion (2019 est.) note: data are in current year dollars<br>
-$20.19 billion (2018 est.) note: data are in current year dollars<br>
+$22.11 billion (2021 est.) note: data are in current year dollars<br>
+$19.526 billion (2020 est.) note: data are in current year dollars<br>
+$20.773 billion (2019 est.) note: data are in current year dollars<br>
 
 **Exports - partners**<br>
 Germany 12%, France 9%, Italy 9% (2019)<br>
@@ -499,9 +500,9 @@ Germany 12%, France 9%, Italy 9% (2019)<br>
 integrated circuits, refined petroleum, packaged medicines, children's toys and stuffed animals, postage stamps&nbsp; (2019)<br>
 
 **Imports**<br>
-$18.01 billion (2020 est.) note: data are in current year dollars<br>
-$18.45 billion (2019 est.) note: data are in current year dollars<br>
-$17.87 billion (2018 est.) note: data are in current year dollars<br>
+$21.362 billion (2021 est.) note: data are in current year dollars<br>
+$18.328 billion (2020 est.) note: data are in current year dollars<br>
+$18.578 billion (2019 est.) note: data are in current year dollars<br>
 
 **Imports - partners**<br>
 Russia 22%, Italy 12%, United Kingdom 11%, Germany 6%, Turkey 5%, France 5%, China 5%, South Korea 5% (2019)<br>
@@ -510,8 +511,9 @@ Russia 22%, Italy 12%, United Kingdom 11%, Germany 6%, Turkey 5%, France 5%, Chi
 refined petroleum, recreational boats, ships, aircraft, coal tar oil (2019)<br>
 
 **Reserves of foreign exchange and gold**<br>
-$833 million (31 December 2017 est.)<br>
-$677.1 million (31 December 2016 est.)<br>
+$1.149 billion (31 December 2021 est.)<br>
+$930.464 million (31 December 2020 est.)<br>
+$937.616 million (31 December 2019 est.)<br>
 
 **Debt - external**<br>
 $98.179 billion (2019 est.)<br>
@@ -519,11 +521,11 @@ $104.467 billion (2018 est.)<br>
 
 **Exchange rates**<br>
 _Currency_: euros (EUR) per US dollar -<br>
-0.82771 (2020 est.)<br>
-0.90338 (2019 est.)<br>
-0.87789 (2018 est.)<br>
-0.885 (2014 est.)<br>
-0.7634 (2013 est.)<br>
+0.845 (2021 est.)<br>
+0.876 (2020 est.)<br>
+0.893 (2019 est.)<br>
+0.847 (2018 est.)<br>
+0.885 (2017 est.)<br>
 
 ## Energy
 

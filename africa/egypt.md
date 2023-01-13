@@ -178,7 +178,7 @@ _female_: 75.72 years (2022 est.)<br>
 2.88 children born/woman (2022 est.)<br>
 
 **Gross reproduction rate**<br>
-1.39 (2022 est.)<br>
+1.34 (2023 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 58.5% (2014)<br>
@@ -231,11 +231,11 @@ _total_: 24.3% (2020 est.)<br>
 _male_: 48.1% (2020 est.)<br>
 _female_: 0.4% (2020 est.)<br>
 
-**Currently married women (ages 15-49)**<br>
-71.2% (2022 est.)<br>
-
 **Children under the age of 5 years underweight**<br>
 7% (2014)<br>
+
+**Currently married women (ages 15-49)**<br>
+71.1% (2023 est.)<br>
 
 **Education expenditures**<br>
 2.5% of GDP (2020 est.)<br>
@@ -252,9 +252,9 @@ _male_: 14 years<br>
 _female_: 14 years (2018)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 17.3%<br>
-_male_: 12.5%<br>
-_female_: 43.5% (2020 est.)<br>
+_total_: 24.3%<br>
+_male_: 15.6%<br>
+_female_: 59.5% (2021 est.)<br>
 
 ## Environment
 
@@ -427,29 +427,29 @@ _selected World Heritage Site locales_: Memphis and its Necropolis (c); Ancient 
 <p>Occupying the northeast corner of the African continent, Egypt is bisected by the highly fertile Nile valley where most economic activity takes place. Egypt's economy was highly centralized during the rule of former President Gamal Abdel NASSER but opened up considerably under former Presidents Anwar EL-SADAT and Mohamed Hosni MUBARAK. Agriculture, hydrocarbons, manufacturing, tourism, and other service sectors drove the country’s relatively diverse economic activity.</p> <p> </p> <p>Despite Egypt’s mixed record for attracting foreign investment over the past two decades, poor living conditions and limited job opportunities have contributed to public discontent. These socioeconomic pressures were a major factor leading to the January 2011 revolution that ousted MUBARAK. The uncertain political, security, and policy environment since 2011 has restricted economic growth and failed to alleviate persistent unemployment, especially among the young.</p> <p> </p> <p>In late 2016, persistent dollar shortages and waning aid from its Gulf allies led Cairo to turn to the IMF for a 3-year, $12 billion loan program. To secure the deal, Cairo floated its currency, introduced new taxes, and cut energy subsidies - all of which pushed inflation above 30% for most of 2017, a high that had not been seen in a generation. Since the currency float, foreign investment in Egypt’s high interest treasury bills has risen exponentially, boosting both dollar availability and central bank reserves. Cairo will be challenged to obtain foreign and local investment in manufacturing and other sectors without a sustained effort to implement a range of business reforms.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
-$1,223,040,000,000 (2020 est.)<br>
-$1,180,890,000,000 (2019 est.)<br>
-$1,118,720,000,000 (2018 est.)<br>
+$1.264 trillion (2021 est.)<br>
+$1.223 trillion (2020 est.)<br>
+$1.181 trillion (2019 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
-4.2% (2017 est.)<br>
-4.3% (2016 est.)<br>
-4.4% (2015 est.)<br>
+3.33% (2021 est.)<br>
+3.57% (2020 est.)<br>
+5.56% (2019 est.)<br>
 
 **Real GDP per capita**<br>
-$12,000 (2020 est.)<br>
-$11,800 (2019 est.)<br>
-$11,400 (2018 est.)<br>
+$11,600 (2021 est.)<br>
+$11,400 (2020 est.)<br>
+$11,200 (2019 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
 $323.763 billion (2019 est.)<br>
 
 **Inflation rate (consumer prices)**<br>
-9.3% (2019 est.)<br>
-14.4% (2018 est.)<br>
-29.6% (2017 est.)<br>
+5.21% (2021 est.)<br>
+5.04% (2020 est.)<br>
+9.15% (2019 est.)<br>
 
 **Credit ratings**<br>
 _Fitch rating_: B+ (2019)<br>
@@ -477,10 +477,10 @@ sugar cane, sugar beets, wheat, maize, tomatoes, rice, potatoes, oranges, onions
 textiles, food processing, tourism, chemicals, pharmaceuticals, hydrocarbons, construction, cement, metals, light manufactures<br>
 
 **Industrial production growth rate**<br>
-3.5% (2017 est.)<br>
+-1.09% (2021 est.)<br>
 
 **Labor force**<br>
-24.113 million (2020 est.)<br>
+30.179 million (2021 est.)<br>
 
 **Labor force - by occupation**<br>
 _agriculture_: 25.8%<br>
@@ -488,20 +488,20 @@ _industry_: 25.1%<br>
 _services_: 49.1% (2015 est.)<br>
 
 **Unemployment rate**<br>
-7.86% (2019 est.)<br>
-12.7% (2016 est.)<br>
+9.33% (2021 est.)<br>
+9.17% (2020 est.)<br>
+7.84% (2019 est.)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 17.3%<br>
-_male_: 12.5%<br>
-_female_: 43.5% (2020 est.)<br>
+_total_: 24.3%<br>
+_male_: 15.6%<br>
+_female_: 59.5% (2021 est.)<br>
 
 **Population below poverty line**<br>
 32.5% (2017 est.)<br>
 
 **Gini Index coefficient - distribution of family income**<br>
 31.5 (2017 est.)<br>
-29.8 (2012)<br>
 
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 4%<br>
@@ -526,13 +526,14 @@ _expenditures_: 62.61 billion (2017 est.)<br>
 1 July - 30 June<br>
 
 **Current account balance**<br>
--$8.915 billion (2019 est.)<br>
--$7.682 billion (2018 est.)<br>
+-$18.611 billion (2021 est.)<br>
+-$14.236 billion (2020 est.)<br>
+-$10.222 billion (2019 est.)<br>
 
 **Exports**<br>
-$40.1 billion (2020 est.) note: data are in current year dollars<br>
-$53.52 billion (2019 est.) note: data are in current year dollars<br>
-$51.62 billion (2018 est.) note: data are in current year dollars<br>
+$58.339 billion (2021 est.) note: data are in current year dollars<br>
+$40.102 billion (2020 est.) note: data are in current year dollars<br>
+$53.523 billion (2019 est.) note: data are in current year dollars<br>
 
 **Exports - partners**<br>
 United States 9%, United Arab Emirates 6%, Italy 6%, Turkey 6%, Saudi Arabia 6%, India 5% (2019)<br>
@@ -541,9 +542,9 @@ United States 9%, United Arab Emirates 6%, Italy 6%, Turkey 6%, Saudi Arabia 6%,
 crude petroleum, refined petroleum, gold, natural gas, fertilizers (2019)<br>
 
 **Imports**<br>
-$72.48 billion (2020 est.) note: data are in current year dollars<br>
-$78.95 billion (2019 est.) note: data are in current year dollars<br>
-$76.33 billion (2018 est.) note: data are in current year dollars<br>
+$94.039 billion (2021 est.) note: data are in current year dollars<br>
+$72.482 billion (2020 est.) note: data are in current year dollars<br>
+$78.951 billion (2019 est.) note: data are in current year dollars<br>
 
 **Imports - partners**<br>
 China 15%, Russia 7%, United States 6%, Saudi Arabia 6%, Germany 5%, Turkey 5% (2019)<br>
@@ -552,8 +553,9 @@ China 15%, Russia 7%, United States 6%, Saudi Arabia 6%, Germany 5%, Turkey 5% (
 refined petroleum, wheat, crude petroleum, cars, packaged medicines (2019)<br>
 
 **Reserves of foreign exchange and gold**<br>
-$35.89 billion (31 December 2017 est.)<br>
-$23.2 billion (31 December 2016 est.)<br>
+$39.824 billion (31 December 2021 est.)<br>
+$38.973 billion (31 December 2020 est.)<br>
+$44.569 billion (31 December 2019 est.)<br>
 
 **Debt - external**<br>
 $109.238 billion (2019 est.)<br>
@@ -561,11 +563,11 @@ $92.638 billion (2018 est.)<br>
 
 **Exchange rates**<br>
 _Currency_: Egyptian pounds (EGP) per US dollar -<br>
-15.69 (2020 est.)<br>
-16.14 (2019 est.)<br>
-17.90999 (2018 est.)<br>
-7.7133 (2014 est.)<br>
-7.08 (2013 est.)<br>
+15.645 (2021 est.)<br>
+15.759 (2020 est.)<br>
+16.771 (2019 est.)<br>
+17.767 (2018 est.)<br>
+17.783 (2017 est.)<br>
 
 ## Energy
 
@@ -759,7 +761,7 @@ Army of Islam; Islamic State of Iraq and ash-Sham – Sinai Province (ISIS-SP); 
 <p>Sudan claims but Egypt de facto administers security and economic development of Halaib region north of the 22nd parallel boundary; Egypt no longer shows its administration of the Bir Tawil trapezoid in Sudan on its maps; Gazan breaches in the security wall with Egypt in January 2008 highlight difficulties in monitoring the Sinai border</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 70,022 (West Bank and Gaza Strip) (mid-year 2021); 145,157 (Syria), 52,446 (Sudan) (refugees and asylum seekers), 20,970 (South Sudan) (refugees and asylum seekers), 21,105 (Eritrea) (refugees and asylum seekers), 15,585 (Ethiopia) (refugees and asylum seekers), 10,025 (Yemen) (refugees and asylum seekers), 6,815 (Iraq) (refugees and asylum seekers), 6,802 (Somalia) (refugees and asylum seekers) (2022)<br>
+_refugees (country of origin)_: 70,021 (West Bank and Gaza Strip) (mid-year 2022); 145,157 (Syria), 52,446 (Sudan) (refugees and asylum seekers), 20,970 (South Sudan) (refugees and asylum seekers), 21,105 (Eritrea) (refugees and asylum seekers), 15,585 (Ethiopia) (refugees and asylum seekers), 10,025 (Yemen) (refugees and asylum seekers), 6,815 (Iraq) (refugees and asylum seekers), 6,802 (Somalia) (refugees and asylum seekers) (2022)<br>
 _stateless persons_: 7 (mid-year 2021)<br>
 
 **Illicit drugs**<br>

@@ -167,7 +167,7 @@ _female_: 76.67 years (2022 est.)<br>
 1.93 children born/woman (2022 est.)<br>
 
 **Gross reproduction rate**<br>
-0.94 (2022 est.)<br>
+0.94 (2023 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 NA<br>
@@ -221,11 +221,11 @@ _total_: 13.6% (2020 est.)<br>
 _male_: 24.1% (2020 est.)<br>
 _female_: 3.1% (2020 est.)<br>
 
-**Currently married women (ages 15-49)**<br>
-70.6% (2022 est.)<br>
-
 **Children under the age of 5 years underweight**<br>
 4.1% (2010/11)<br>
+
+**Currently married women (ages 15-49)**<br>
+70.3% (2023 est.)<br>
 
 **Education expenditures**<br>
 3.6% of GDP (2020 est.)<br>
@@ -242,9 +242,9 @@ _male_: 15 years<br>
 _female_: 15 years (2020)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 23.7%<br>
-_male_: 21.2%<br>
-_female_: 36% (2020 est.)<br>
+_total_: 27.2%<br>
+_male_: 24%<br>
+_female_: 41.7% (2021 est.)<br>
 
 ## Environment
 
@@ -408,28 +408,29 @@ _selected World Heritage Site locales_: Persepolis (c); Tchogha Zanbil (c); Bam 
 <p>Iran's economy is marked by statist policies, inefficiencies, and reliance on oil and gas exports, but Iran also possesses significant agricultural, industrial, and service sectors. The Iranian government directly owns and operates hundreds of state-owned enterprises and indirectly controls many companies affiliated with the country's security forces. Distortions - including corruption, price controls, subsidies, and a banking system holding billions of dollars of non-performing loans - weigh down the economy, undermining the potential for private-sector-led growth.</p> <p> </p> <p>Private sector activity includes small-scale workshops, farming, some manufacturing, and services, in addition to medium-scale construction, cement production, mining, and metalworking. Significant informal market activity flourishes and corruption is widespread.</p> <p> </p> <p>The lifting of most nuclear-related sanctions under the Joint Comprehensive Plan of Action (JCPOA) in January 2016 sparked a restoration of Iran’s oil production and revenue that drove rapid GDP growth, but economic growth declined in 2017 as oil production plateaued. The economy continues to suffer from low levels of investment and declines in productivity since before the JCPOA, and from high levels of unemployment, especially among women and college-educated Iranian youth.</p> <p> </p> <p>In May 2017, the re-election of President Hasan RUHANI generated widespread public expectations that the economic benefits of the JCPOA would expand and reach all levels of society. RUHANI will need to implement structural reforms that strengthen the banking sector and improve Iran’s business climate to attract foreign investment and encourage the growth of the private sector. Sanctions that are not related to Iran’s nuclear program remain in effect, and these—plus fears over the possible re-imposition of nuclear-related sanctions—will continue to deter foreign investors from engaging with Iran.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
-$1,044,310,000,000 (2020 est.)<br>
-$1,027,240,000,000 (2019 est.)<br>
-$1.102 trillion (2018 est.)<br>
+$1.319 trillion (2021 est.)<br>
+$1.26 trillion (2020 est.)<br>
+$1.219 trillion (2019 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
-3.7% (2017 est.)<br>
-12.5% (2016 est.)<br>
--1.6% (2015 est.)<br>
+4.72% (2021 est.)<br>
+3.33% (2020 est.)<br>
+-2.66% (2019 est.)<br>
 
 **Real GDP per capita**<br>
-$12,400 (2020 est.)<br>
-$12,400 (2019 est.)<br>
-$13,500 (2018 est.)<br>
+$15,000 (2021 est.)<br>
+$14,400 (2020 est.)<br>
+$14,100 (2019 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
 $581.252 billion (2019 est.)<br>
 
 **Inflation rate (consumer prices)**<br>
-9.6% (2017 est.)<br>
-9.1% (2016 est.)<br>
+43.39% (2021 est.)<br>
+30.59% (2020 est.)<br>
+39.91% (2019 est.)<br>
 <strong>note:</strong> official Iranian estimate<br>
 
 **GDP - composition, by sector of origin**<br>
@@ -452,10 +453,10 @@ wheat, sugar cane, milk, sugar beet, tomatoes, barley, potatoes, oranges, poultr
 petroleum, petrochemicals, gas, fertilizer, caustic soda, textiles, cement and other construction materials, food processing (particularly sugar refining and vegetable oil production), ferrous and nonferrous metal fabrication, armaments<br>
 
 **Industrial production growth rate**<br>
-3% (2017 est.)<br>
+3.21% (2021 est.)<br>
 
 **Labor force**<br>
-30.5 million (2017 est.)<br>
+27.682 million (2021 est.)<br>
 <strong>note:</strong> shortage of skilled labor<br>
 
 **Labor force - by occupation**<br>
@@ -464,20 +465,21 @@ _industry_: 35.1%<br>
 _services_: 48.6% (2013 est.)<br>
 
 **Unemployment rate**<br>
-11.8% (2017 est.)<br>
-12.4% (2016 est.)<br>
+11.46% (2021 est.)<br>
+12.17% (2020 est.)<br>
+10.74% (2019 est.)<br>
 <strong>note:</strong> data are Iranian Government numbers<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 23.7%<br>
-_male_: 21.2%<br>
-_female_: 36% (2020 est.)<br>
+_total_: 27.2%<br>
+_male_: 24%<br>
+_female_: 41.7% (2021 est.)<br>
 
 **Population below poverty line**<br>
 18.7% (2007 est.)<br>
 
 **Gini Index coefficient - distribution of family income**<br>
-40.8 (2017 est.)<br>
+40.9 (2019 est.)<br>
 
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 2.6%<br>
@@ -535,11 +537,11 @@ $8.196 billion (31 December 2016 est.)<br>
 
 **Exchange rates**<br>
 _Currency_: Iranian rials (IRR) per US dollar -<br>
-32,769.7 (2017 est.)<br>
-30,914.9 (2016 est.)<br>
-30,914.9 (2015 est.)<br>
-29,011.5 (2014 est.)<br>
-25,912 (2013 est.)<br>
+42,000 (2021 est.)<br>
+42,000 (2020 est.)<br>
+42,000 (2019 est.)<br>
+40,864.329 (2018 est.)<br>
+33,226.298 (2017 est.)<br>
 
 ## Energy
 

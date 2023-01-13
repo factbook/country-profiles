@@ -175,7 +175,7 @@ _female_: 79.5 years (2022 est.)<br>
 1.8 children born/woman (2022 est.)<br>
 
 **Gross reproduction rate**<br>
-0.88 (2022 est.)<br>
+0.85 (2023 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 80.5% (2019)<br>
@@ -230,11 +230,11 @@ _total_: 12.8% (2020 est.)<br>
 _male_: 16.2% (2020 est.)<br>
 _female_: 9.4% (2020 est.)<br>
 
-**Currently married women (ages 15-49)**<br>
-56.1% (2022 est.)<br>
-
 **Children under the age of 5 years underweight**<br>
 NA<br>
+
+**Currently married women (ages 15-49)**<br>
+55.9% (2023 est.)<br>
 
 **Education expenditures**<br>
 6% of GDP (2019 est.)<br>
@@ -251,9 +251,9 @@ _male_: 15 years<br>
 _female_: 16 years (2020)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 28.5%<br>
-_male_: 24.4%<br>
-_female_: 33.9% (2021 est.)<br>
+_total_: 31.9%<br>
+_male_: 27%<br>
+_female_: 38.2% (2021 est.)<br>
 
 ## Environment
 
@@ -433,29 +433,29 @@ _selected World Heritage Site locales_: Brasilia (c); Historic Salvador de Bahia
 <p>Brazil is the eighth-largest economy in the world, but is recovering from a recession in 2015 and 2016 that ranks as the worst in the country’s history. In 2017, Brazil`s GDP grew 1%, inflation fell to historic lows of 2.9%, and the Central Bank lowered benchmark interest rates from 13.75% in 2016 to 7%.</p> <p> </p> <p>The economy has been negatively affected by multiple corruption scandals involving private companies and government officials, including the impeachment and conviction of Former President Dilma ROUSSEFF in August 2016. Sanctions against the firms involved — some of the largest in Brazil — have limited their business opportunities, producing a ripple effect on associated businesses and contractors but creating opportunities for foreign companies to step into what had been a closed market.</p> <p> </p> <p>The succeeding TEMER administration has implemented a series of fiscal and structural reforms to restore credibility to government finances. Congress approved legislation in December 2016 to cap public spending. Government spending growth had pushed public debt to 73.7% of GDP at the end of 2017, up from over 50% in 2012. The government also boosted infrastructure projects, such as oil and natural gas auctions, in part to raise revenues. Other economic reforms, proposed in 2016, aim to reduce barriers to foreign investment, and to improve labor conditions. Policies to strengthen Brazil’s workforce and industrial sector, such as local content requirements, have boosted employment, but at the expense of investment.</p> <p> </p> <p>Brazil is a member of the Common Market of the South (Mercosur), a trade bloc that includes Argentina, Paraguay and Uruguay - Venezuela’s membership in the organization was suspended In August 2017. After the Asian and Russian financial crises, Mercosur adopted a protectionist stance to guard against exposure to volatile foreign markets and it currently is negotiating Free Trade Agreements with the European Union and Canada.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
-$2,989,430,000,000 (2020 est.)<br>
-$3,115,910,000,000 (2019 est.)<br>
-$3,072,550,000,000 (2018 est.)<br>
+$3.128 trillion (2021 est.)<br>
+$2.989 trillion (2020 est.)<br>
+$3.11 trillion (2019 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
-1.13% (2019 est.)<br>
-1.2% (2018 est.)<br>
-1.62% (2017 est.)<br>
+4.62% (2021 est.)<br>
+-3.88% (2020 est.)<br>
+1.22% (2019 est.)<br>
 
 **Real GDP per capita**<br>
-$14,100 (2020 est.)<br>
-$14,800 (2019 est.)<br>
-$14,700 (2018 est.)<br>
+$14,600 (2021 est.)<br>
+$14,000 (2020 est.)<br>
+$14,700 (2019 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
 $1,877,942,000,000 (2019 est.)<br>
 
 **Inflation rate (consumer prices)**<br>
-3.7% (2019 est.)<br>
-3.6% (2018 est.)<br>
-3.4% (2017 est.)<br>
+8.3% (2021 est.)<br>
+3.21% (2020 est.)<br>
+3.73% (2019 est.)<br>
 
 **Credit ratings**<br>
 _Fitch rating_: BB- (2018)<br>
@@ -483,10 +483,10 @@ sugar cane, soybeans, maize, milk, cassava, oranges, poultry, rice, beef, cotton
 textiles, shoes, chemicals, cement, lumber, iron ore, tin, steel, aircraft, motor vehicles and parts, other machinery and equipment<br>
 
 **Industrial production growth rate**<br>
-0% (2017 est.)<br>
+4.48% (2021 est.)<br>
 
 **Labor force**<br>
-86.621 million (2020 est.)<br>
+99.47 million (2021 est.)<br>
 
 **Labor force - by occupation**<br>
 _agriculture_: 9.4%<br>
@@ -494,21 +494,21 @@ _industry_: 32.1%<br>
 _services_: 58.5% (2017 est.)<br>
 
 **Unemployment rate**<br>
+14.4% (2021 est.)<br>
+13.69% (2020 est.)<br>
 11.93% (2019 est.)<br>
-12.26% (2018 est.)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 28.5%<br>
-_male_: 24.4%<br>
-_female_: 33.9% (2021 est.)<br>
+_total_: 31.9%<br>
+_male_: 27%<br>
+_female_: 38.2% (2021 est.)<br>
 
 **Population below poverty line**<br>
 4.2% (2016 est.)<br>
 <strong>note:</strong> approximately 4% of the population are below the "extreme" poverty line<br>
 
 **Gini Index coefficient - distribution of family income**<br>
-53.9 (2018 est.)<br>
-54 (2004)<br>
+48.9 (2020 est.)<br>
 
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 0.8%<br>
@@ -522,23 +522,25 @@ _expenditures_: 756.3 billion (2017 est.)<br>
 -1.1% (of GDP) (2017 est.)<br>
 
 **Public debt**<br>
-84% of GDP (2017 est.)<br>
-78.4% of GDP (2016 est.)<br>
+100.59% of GDP (2020 est.)<br>
+92.57% of GDP (2019 est.)<br>
+86.61% of GDP (2018 est.)<br>
 
 **Taxes and other revenues**<br>
-35.7% (of GDP) (2017 est.)<br>
+12.96% (of GDP) (2020 est.)<br>
 
 **Fiscal year**<br>
 calendar year<br>
 
 **Current account balance**<br>
--$50.927 billion (2019 est.)<br>
--$41.54 billion (2018 est.)<br>
+-$27.925 billion (2021 est.)<br>
+-$24.492 billion (2020 est.)<br>
+-$65.03 billion (2019 est.)<br>
 
 **Exports**<br>
-$239.18 billion (2020 est.)<br>
-$260.07 billion (2019 est.)<br>
-$274.9 billion (2018 est.)<br>
+$317.175 billion (2021 est.)<br>
+$239.283 billion (2020 est.)<br>
+$260.075 billion (2019 est.)<br>
 <strong>note:</strong> Data are in current year dollars and do not include illicit exports or re-exports.<br>
 
 **Exports - partners**<br>
@@ -548,9 +550,9 @@ China 28%, United States 13% (2019)<br>
 soybeans, crude petroleum, iron, corn, wood pulp products (2019)<br>
 
 **Imports**<br>
-$227.44 billion (2020 est.) note: data are in current year dollars<br>
-$269.02 billion (2019 est.) note: data are in current year dollars<br>
-$267.52 billion (2018 est.) note: data are in current year dollars<br>
+$297.924 billion (2021 est.) note: data are in current year dollars<br>
+$227.854 billion (2020 est.) note: data are in current year dollars<br>
+$269.017 billion (2019 est.) note: data are in current year dollars<br>
 
 **Imports - partners**<br>
 China 21%, United States 18%, Germany 6%, Argentina 6% (2019)<br>
@@ -559,8 +561,9 @@ China 21%, United States 18%, Germany 6%, Argentina 6% (2019)<br>
 refined petroleum, vehicle parts, crude petroleum, integrated circuits, pesticides (2019)<br>
 
 **Reserves of foreign exchange and gold**<br>
-$374 billion (31 December 2017 est.)<br>
-$367.5 billion (31 December 2016 est.)<br>
+$362.21 billion (31 December 2021 est.)<br>
+$355.614 billion (31 December 2020 est.)<br>
+$356.886 billion (31 December 2019 est.)<br>
 
 **Debt - external**<br>
 $681.336 billion (2019 est.)<br>
@@ -568,11 +571,11 @@ $660.693 billion (2018 est.)<br>
 
 **Exchange rates**<br>
 _Currency_: reals (BRL) per US dollar -<br>
-5.12745 (2020 est.)<br>
-4.14915 (2019 est.)<br>
-3.862 (2018 est.)<br>
-3.3315 (2014 est.)<br>
-2.3535 (2013 est.)<br>
+5.394 (2021 est.)<br>
+5.155 (2020 est.)<br>
+3.944 (2019 est.)<br>
+3.654 (2018 est.)<br>
+3.191 (2017 est.)<br>
 
 ## Energy
 

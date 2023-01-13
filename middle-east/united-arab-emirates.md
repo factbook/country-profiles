@@ -161,7 +161,7 @@ _female_: 80.99 years (2022 est.)<br>
 1.64 children born/woman (2022 est.)<br>
 
 **Gross reproduction rate**<br>
-0.79 (2022 est.)<br>
+0.79 (2023 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 NA<br>
@@ -207,11 +207,11 @@ _wine_: 0.14 liters of pure alcohol (2019 est.)<br>
 _spirits_: 1.65 liters of pure alcohol (2019 est.)<br>
 _other alcohols_: 0.02 liters of pure alcohol (2019 est.)<br>
 
-**Currently married women (ages 15-49)**<br>
-72.8% (2022 est.)<br>
-
 **Children under the age of 5 years underweight**<br>
 NA<br>
+
+**Currently married women (ages 15-49)**<br>
+72.4% (2023 est.)<br>
 
 **Education expenditures**<br>
 3.9% of GDP (2020 est.)<br>
@@ -228,9 +228,9 @@ _male_: 15 years<br>
 _female_: 17 years (2020)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 14%<br>
-_male_: 12.5%<br>
-_female_: 18.7% (2020 est.)<br>
+_total_: 10.7%<br>
+_male_: 7.9%<br>
+_female_: 19.9% (2021 est.)<br>
 
 ## Environment
 
@@ -393,28 +393,28 @@ _selected World Heritage Site locales_: Cultural Sites of Al Ain (Hafit, Hili, B
 <p>The UAE has an open economy with a high per capita income and a sizable annual trade surplus. Successful efforts at economic diversification have reduced the portion of GDP from the oil and gas sector to 30%.</p> <p> </p> <p>Since the discovery of oil in the UAE nearly 60 years ago, the country has undergone a profound transformation from an impoverished region of small desert principalities to a modern state with a high standard of living. The government has increased spending on job creation and infrastructure expansion and is opening up utilities to greater private sector involvement. The country's free trade zones - offering 100% foreign ownership and zero taxes - are helping to attract foreign investors.</p> <p> </p> <p>The global financial crisis of 2008-09, tight international credit, and deflated asset prices constricted the economy in 2009. UAE authorities tried to blunt the crisis by increasing spending and boosting liquidity in the banking sector. The crisis hit Dubai hardest, as it was heavily exposed to depressed real estate prices. Dubai lacked sufficient cash to meet its debt obligations, prompting global concern about its solvency and ultimately a $20 billion bailout from the UAE Central Bank and Abu Dhabi Government that was refinanced in March 2014.</p> <p> </p> <p>The UAE’s dependence on oil is a significant long-term challenge, although the UAE is one of the most diversified countries in the Gulf Cooperation Council. Low oil prices have prompted the UAE to cut expenditures, including on some social programs, but the UAE has sufficient assets in its sovereign investment funds to cover its deficits. The government reduced fuel subsidies in August 2015, and introduced excise taxes (50% on sweetened carbonated beverages and 100% on energy drinks and tobacco) in October 2017. A five-percent value-added tax was introduced in January 2018. The UAE's strategic plan for the next few years focuses on economic diversification, promoting the UAE as a global trade and tourism hub, developing industry, and creating more job opportunities for nationals through improved education and increased private sector employment.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
-$655.79 billion (2019 est.)<br>
-$644.97 billion (2018 est.)<br>
-$637.384 billion (2017 est.)<br>
+$653.067 billion (2021 est.)<br>
+$628.455 billion (2020 est.)<br>
+$661.233 billion (2019 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
-0.8% (2017 est.)<br>
-3% (2016 est.)<br>
-5.1% (2015 est.)<br>
+3.92% (2021 est.)<br>
+-4.96% (2020 est.)<br>
+1.11% (2019 est.)<br>
 
 **Real GDP per capita**<br>
-$67,100 (2019 est.) note: data are in 2017 dollars<br>
-$67,000 (2018 est.) note: data are in 2017 dollars<br>
-$67,184 (2017 est.)<br>
+$69,700 (2021 est.) note: data are in 2017 dollars<br>
+$67,700 (2020 est.) note: data are in 2017 dollars<br>
+$71,800 (2019 est.)<br>
 
 **GDP (official exchange rate)**<br>
 $421.077 billion (2019 est.)<br>
 
 **Inflation rate (consumer prices)**<br>
--1.9% (2019 est.)<br>
-3% (2018 est.)<br>
-1.9% (2017 est.)<br>
+-2.08% (2020 est.)<br>
+-1.93% (2019 est.)<br>
+3.07% (2018 est.)<br>
 
 **Credit ratings**<br>
 _Fitch rating_: AA- (2020)<br>
@@ -442,10 +442,10 @@ dates, cucumbers, tomatoes, goat meat, eggs, milk, poultry, carrots/turnips, goa
 petroleum and petrochemicals; fishing, aluminum, cement, fertilizer, commercial ship repair, construction materials, handicrafts, textiles<br>
 
 **Industrial production growth rate**<br>
-1.8% (2017 est.)<br>
+2.54% (2021 est.)<br>
 
 **Labor force**<br>
-5.344 million (2017 est.)<br>
+6.074 million (2021 est.)<br>
 <strong>note:</strong> expatriates account for about 85% of the workforce<br>
 
 **Labor force - by occupation**<br>
@@ -454,13 +454,14 @@ _industry_: 15%<br>
 _services_: 78% (2000 est.)<br>
 
 **Unemployment rate**<br>
-1.6% (2016 est.)<br>
-3.6% (2014 est.)<br>
+3.36% (2021 est.)<br>
+3.19% (2020 est.)<br>
+2.23% (2019 est.)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 14%<br>
-_male_: 12.5%<br>
-_female_: 18.7% (2020 est.)<br>
+_total_: 10.7%<br>
+_male_: 7.9%<br>
+_female_: 19.9% (2021 est.)<br>
 
 **Population below poverty line**<br>
 19.5% (2003 est.)<br>
@@ -485,7 +486,7 @@ _expenditures_: 111.1 billion (2017 est.)<br>
 20.2% of GDP (2016 est.)<br>
 
 **Taxes and other revenues**<br>
-28.8% (of GDP) (2017 est.)<br>
+0.68% (of GDP) (2020 est.)<br>
 
 **Fiscal year**<br>
 calendar year<br>
@@ -515,8 +516,9 @@ China 15%, India 12%, Untied States 7% (2019)<br>
 gold, broadcasting equipment, jewelry, refined petroleum, diamonds (2019)<br>
 
 **Reserves of foreign exchange and gold**<br>
-$95.37 billion (31 December 2017 est.)<br>
-$85.39 billion (31 December 2016 est.)<br>
+$131.117 billion (31 December 2021 est.)<br>
+$106.702 billion (31 December 2020 est.)<br>
+$108.359 billion (31 December 2019 est.)<br>
 
 **Debt - external**<br>
 $237.6 billion (31 December 2017 est.)<br>
@@ -524,11 +526,11 @@ $218.7 billion (31 December 2016 est.)<br>
 
 **Exchange rates**<br>
 _Currency_: Emirati dirhams (AED) per US dollar -<br>
-3.67315 (2020 est.)<br>
-3.67315 (2019 est.)<br>
-3.67315 (2018 est.)<br>
-3.673 (2014 est.)<br>
-3.673 (2013 est.)<br>
+3.673 (2021 est.)<br>
+3.673 (2020 est.)<br>
+3.673 (2019 est.)<br>
+3.673 (2018 est.)<br>
+3.673 (2017 est.)<br>
 
 ## Energy
 

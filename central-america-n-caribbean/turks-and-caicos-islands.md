@@ -150,7 +150,7 @@ _female_: 83.71 years (2022 est.)<br>
 1.7 children born/woman (2022 est.)<br>
 
 **Gross reproduction rate**<br>
-0.83 (2022 est.)<br>
+0.83 (2023 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 34.4% (2019/20)<br>
@@ -176,11 +176,11 @@ _unimproved: total_: total: 12% of population (2017)<br>
 **HIV/AIDS - adult prevalence rate**<br>
 NA<br>
 
-**Currently married women (ages 15-49)**<br>
-59.2% (2022 est.)<br>
-
 **Children under the age of 5 years underweight**<br>
 NA<br>
+
+**Currently married women (ages 15-49)**<br>
+59.1% (2023 est.)<br>
 
 **Education expenditures**<br>
 4.5% of GDP (2021 est.)<br>
@@ -314,20 +314,20 @@ _lyrics/music_: Conrad HOWELL<br>
 The Turks and Caicos economy is based on tourism, offshore financial services, and fishing. Most capital goods and food for domestic consumption are imported. The US is the leading source of tourists, accounting for more than three-quarters of the more than 1 million visitors that arrive annually. Three-quarters of the visitors come by ship. Major sources of government revenue also include fees from offshore financial activities and customs receipts.<br>
 
 **Real GDP (purchasing power parity)**<br>
-$820 million (2020 est.)<br>
-$1.12 billion (2019 est.)<br>
-$1.06 billion (2018 est.)<br>
+$835.171 million (2021 est.)<br>
+$817.993 million (2020 est.)<br>
+$1.117 billion (2019 est.)<br>
 <strong>note: </strong>data are in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
-5.3% (2018 est.)<br>
-4.3% (2017 est.)<br>
-4.4% (2016 est.)<br>
+2.1% (2021 est.)<br>
+-26.78% (2020 est.)<br>
+5.32% (2019 est.)<br>
 
 **Real GDP per capita**<br>
-$21,100 (2020 est.)<br>
-$29,300 (2019 est.)<br>
-$28,200 (2018 est.)<br>
+$18,500 (2021 est.)<br>
+$18,500 (2020 est.)<br>
+$25,900 (2019 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
@@ -357,7 +357,7 @@ corn, beans, cassava (manioc, tapioca), citrus fruits; fish<br>
 tourism, offshore financial services<br>
 
 **Industrial production growth rate**<br>
-3% (2017 est.)<br>
+5% (2021 est.)<br>
 
 **Labor force**<br>
 4,848 (1990 est.)<br>
@@ -382,8 +382,14 @@ _expenditures_: 224.3 million (2017 est.)<br>
 **Fiscal year**<br>
 calendar year<br>
 
+**Current account balance**<br>
+$172.709 million (2018 est.)<br>
+$35.016 million (2017 est.)<br>
+$247.081 million (2016 est.)<br>
+
 **Exports**<br>
-$830 million (2018 est.) note: data are in current year dollars<br>
+$827 million (2018 est.) note: data are in current year dollars<br>
+$603 million (2017 est.)<br>
 
 **Exports - partners**<br>
 France 31%, United States 16%, Zambia 13%, Singapore 9%, Republic of the Congo 8% (2019)<br>
@@ -392,7 +398,8 @@ France 31%, United States 16%, Zambia 13%, Singapore 9%, Republic of the Congo 8
 plastic building materials, stone processing machinery, iron structures, crustaceans, integrated circuits (2019)<br>
 
 **Imports**<br>
-$540 million (2018 est.) note: data are in current year dollars<br>
+$544.219 million (2018 est.) note: data are in current year dollars<br>
+$484.842 million (2017 est.)<br>
 
 **Imports - partners**<br>
 United States 76% (2019)<br>

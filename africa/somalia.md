@@ -163,7 +163,7 @@ _female_: 58.12 years (2022 est.)<br>
 5.31 children born/woman (2022 est.)<br>
 
 **Gross reproduction rate**<br>
-2.62 (2022 est.)<br>
+2.57 (2023 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 6.9% (2018/19)<br>
@@ -214,11 +214,11 @@ _wine_: 0 liters of pure alcohol (2019 est.)<br>
 _spirits_: 0 liters of pure alcohol (2019 est.)<br>
 _other alcohols_: 0 liters of pure alcohol (2019 est.)<br>
 
-**Currently married women (ages 15-49)**<br>
-62.8% (2022 est.)<br>
-
 **Children under the age of 5 years underweight**<br>
 23% (2009)<br>
+
+**Currently married women (ages 15-49)**<br>
+62.9% (2023 est.)<br>
 
 **Child marriage**<br>
 _women married by age 15_: 16.8%<br>
@@ -234,9 +234,9 @@ _male_: NA<br>
 _female_: NA<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 33.8%<br>
-_male_: 31.9%<br>
-_female_: 36.7% (2019)<br>
+_total_: 34.7%<br>
+_male_: 32.5%<br>
+_female_: 38.5% (2021 est.)<br>
 
 ## Environment
 
@@ -397,20 +397,20 @@ regional and local governing bodies continue to exist and control various areas 
 <p>Despite the lack of effective national governance, Somalia maintains an informal economy largely based on livestock, remittance/money transfer companies, and telecommunications. Somalia's government lacks the ability to collect domestic revenue and external debt – mostly in arrears – was estimated at about 77% of GDP in 2017.</p> <p> </p> <p>Agriculture is the most important sector, with livestock normally accounting for about 40% of GDP and more than 50% of export earnings. Nomads and semi-pastoralists, who are dependent upon livestock for their livelihood, make up a large portion of the population. Economic activity is estimated to have increased by 2.4% in 2017 because of growth in the agriculture, construction and telecommunications sector. Somalia's small industrial sector, based on the processing of agricultural products, has largely been looted and the machinery sold as scrap metal.</p> <p> </p> <p>In recent years, Somalia's capital city, Mogadishu, has witnessed the development of the city's first gas stations, supermarkets, and airline flights to Turkey since the collapse of central authority in 1991. Mogadishu's main market offers a variety of goods from food to electronic gadgets. Hotels continue to operate and are supported with private-security militias. Formalized economic growth has yet to expand outside of Mogadishu and a few regional capitals, and within the city, security concerns dominate business. Telecommunication firms provide wireless services in most major cities and offer the lowest international call rates on the continent. In the absence of a formal banking sector, money transfer/remittance services have sprouted throughout the country, handling up to $1.6 billion in remittances annually, although international concerns over the money transfers into Somalia continues to threaten these services’ ability to operate in Western nations. In 2017, Somalia elected a new president and collected a record amount of foreign aid and investment, a positive sign for economic recovery.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
-$13.19 billion (2020 est.)<br>
-$13.39 billion (2019 est.)<br>
-$13.01 billion (2018 est.)<br>
+$19.399 billion (2021 est.)<br>
+$18.644 billion (2020 est.)<br>
+$18.191 billion (2019 est.)<br>
 <strong>note:</strong> data are in 2017 US dollars<br>
 
 **Real GDP growth rate**<br>
-2.3% (2017 est.)<br>
-4.4% (2016 est.)<br>
-3.9% (2015 est.)<br>
+4.05% (2021 est.)<br>
+2.49% (2020 est.)<br>
+7.46% (2019 est.)<br>
 
 **Real GDP per capita**<br>
-$800 (2020 est.)<br>
-$900 (2019 est.)<br>
-$900 (2018 est.)<br>
+$1,100 (2021 est.)<br>
+$1,100 (2020 est.)<br>
+$1,100 (2019 est.)<br>
 <strong>note: </strong>data are in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
@@ -443,7 +443,7 @@ light industries, including sugar refining, textiles, wireless communication<br>
 3.5% (2014 est.)<br>
 
 **Labor force**<br>
-4.154 million (2016 est.)<br>
+3.042 million (2021 est.)<br>
 
 **Labor force - by occupation**<br>
 _agriculture_: 71%<br>
@@ -451,12 +451,15 @@ _industry_: 29%<br>
 _industry and services_: 29% (1975)<br>
 
 **Unemployment rate**<br>
-<p>NA</p><br>
+19.86% (2021 est.)<br>
+19.72% (2020 est.)<br>
+18.83% (2019 est.)<br>
+NA<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 33.8%<br>
-_male_: 31.9%<br>
-_female_: 36.7% (2019)<br>
+_total_: 34.7%<br>
+_male_: 32.5%<br>
+_female_: 38.5% (2021 est.)<br>
 
 **Population below poverty line**<br>
 NA<br>
@@ -477,7 +480,7 @@ _expenditures_: 151.1 million (2014 est.)<br>
 93% of GDP (2014 est.)<br>
 
 **Taxes and other revenues**<br>
-2.1% (of GDP) (2014 est.)<br>
+0% (of GDP) (2020 est.)<br>
 
 **Fiscal year**<br>
 NA<br>

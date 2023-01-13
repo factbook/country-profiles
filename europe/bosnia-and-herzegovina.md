@@ -162,7 +162,7 @@ _female_: 81.15 years (2022 est.)<br>
 1.36 children born/woman (2022 est.)<br>
 
 **Gross reproduction rate**<br>
-0.66 (2022 est.)<br>
+0.66 (2023 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 45.8% (2011/12)<br>
@@ -210,11 +210,11 @@ _total_: 35% (2020 est.)<br>
 _male_: 42% (2020 est.)<br>
 _female_: 28% (2020 est.)<br>
 
-**Currently married women (ages 15-49)**<br>
-63.9% (2022 est.)<br>
-
 **Children under the age of 5 years underweight**<br>
 1.6% (2012)<br>
+
+**Currently married women (ages 15-49)**<br>
+63.8% (2023 est.)<br>
 
 **Education expenditures**<br>
 NA<br>
@@ -231,9 +231,9 @@ _male_: 14 years<br>
 _female_: 15 years (2014)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 35.1%<br>
-_male_: 31.7%<br>
-_female_: 40.7% (2021 est.)<br>
+_total_: 32.9%<br>
+_male_: 28.2%<br>
+_female_: 39.9% (2021 est.)<br>
 
 ## Environment
 
@@ -399,28 +399,29 @@ _selected World Heritage Site locales_: Old Bridge Area of Mostar (c); Mehmed Pa
 <p>Bosnia and Herzegovina has a transitional economy with limited market reforms. The economy relies heavily on the export of metals, energy, textiles, and furniture as well as on remittances and foreign aid. A highly decentralized government hampers economic policy coordination and reform, while excessive bureaucracy and a segmented market discourage foreign investment. The economy is among the least competitive in the region. Foreign banks, primarily from Austria and Italy, control much of the banking sector, though the largest bank is a private domestic one. The konvertibilna marka (convertible mark) - the national currency introduced in 1998 - is pegged to the euro through a currency board arrangement, which has maintained confidence in the currency and has facilitated reliable trade links with European partners. Bosnia and Herzegovina became a full member of the Central European Free Trade Agreement in September 2007. In 2016, Bosnia began a three-year IMF loan program, but it has struggled to meet the economic reform benchmarks required to receive all funding installments.</p> <p> </p> <p>Bosnia and Herzegovina's private sector is growing slowly, but foreign investment dropped sharply after 2007 and remains low. High unemployment remains the most serious macroeconomic problem. Successful implementation of a value-added tax in 2006 provided a steady source of revenue for the government and helped rein in gray-market activity, though public perceptions of government corruption and misuse of taxpayer money has encouraged a large informal economy to persist. National-level statistics have improved over time, but a large share of economic activity remains unofficial and unrecorded.</p> <p> </p> <p>Bosnia and Herzegovina's top economic priorities are: acceleration of integration into the EU; strengthening the fiscal system; public administration reform; World Trade Organization membership; and securing economic growth by fostering a dynamic, competitive private sector.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
-$47.05 billion (2020 est.)<br>
-$49.17 billion (2019 est.)<br>
-$47.82 billion (2018 est.)<br>
+$51.244 billion (2021 est.)<br>
+$47.649 billion (2020 est.)<br>
+$49.183 billion (2019 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
-3% (2017 est.)<br>
-3.2% (2016 est.)<br>
-3.1% (2015 est.)<br>
+7.55% (2021 est.)<br>
+-3.12% (2020 est.)<br>
+2.83% (2019 est.)<br>
 
 **Real GDP per capita**<br>
-$14,300 (2020 est.)<br>
-$14,900 (2019 est.)<br>
-$14,400 (2018 est.)<br>
+$15,700 (2021 est.)<br>
+$14,400 (2020 est.)<br>
+$14,600 (2019 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
 $20.078 billion (2019 est.)<br>
 
 **Inflation rate (consumer prices)**<br>
-1.2% (2017 est.)<br>
--1.1% (2016 est.)<br>
+1.98% (2021 est.)<br>
+-1.05% (2020 est.)<br>
+0.56% (2019 est.)<br>
 
 **Credit ratings**<br>
 _Moody's rating_: B3 (2012)<br>
@@ -447,10 +448,10 @@ maize, milk, vegetables, potatoes, wheat, plums/sloes, apples, barley, cabbages,
 steel, coal, iron ore, lead, zinc, manganese, bauxite, aluminum, motor vehicle assembly, textiles, tobacco products, wooden furniture, ammunition, domestic appliances, oil refining<br>
 
 **Industrial production growth rate**<br>
-3% (2017 est.)<br>
+8.87% (2021 est.)<br>
 
 **Labor force**<br>
-806,000 (2020 est.)<br>
+1.169 million (2021 est.)<br>
 
 **Labor force - by occupation**<br>
 _agriculture_: 18%<br>
@@ -458,21 +459,21 @@ _industry_: 30.4%<br>
 _services_: 51.7% (2017 est.)<br>
 
 **Unemployment rate**<br>
-33.28% (2019 est.)<br>
-35.97% (2018 est.)<br>
+15.22% (2021 est.)<br>
+15.27% (2020 est.)<br>
+15.69% (2019 est.)<br>
 <strong>note:</strong> official rate; actual rate is lower as many technically unemployed persons work in the gray economy<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 35.1%<br>
-_male_: 31.7%<br>
-_female_: 40.7% (2021 est.)<br>
+_total_: 32.9%<br>
+_male_: 28.2%<br>
+_female_: 39.9% (2021 est.)<br>
 
 **Population below poverty line**<br>
 16.9% (2015 est.)<br>
 
 **Gini Index coefficient - distribution of family income**<br>
 33 (2011 est.)<br>
-33.1 (2007)<br>
 
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 2.9%<br>
@@ -486,24 +487,26 @@ _expenditures_: 7.607 billion (2017 est.)<br>
 2.1% (of GDP) (2017 est.)<br>
 
 **Public debt**<br>
-39.5% of GDP (2017 est.)<br>
-44.1% of GDP (2016 est.)<br>
+46.05% of GDP (2020 est.)<br>
+44.63% of GDP (2019 est.)<br>
+45.56% of GDP (2018 est.)<br>
 <strong>note:</strong> data cover general government debt and includes debt instruments issued (or owned) by government entities other than the treasury; the data include treasury debt held by foreign entities; the data include debt issued by subnational entities, as well as intra-governmental debt; intra-governmental debt consists of treasury borrowings from surpluses in the social funds, such as for retirement, medical care, and unemployment; debt instruments for the social funds are not sold at public auctions.<br>
 
 **Taxes and other revenues**<br>
-44% (of GDP) (2017 est.)<br>
+19.01% (of GDP) (2020 est.)<br>
 
 **Fiscal year**<br>
 calendar year<br>
 
 **Current account balance**<br>
--$873 million (2017 est.)<br>
--$821 million (2016 est.)<br>
+-$557.887 million (2021 est.)<br>
+-$658.601 million (2020 est.)<br>
+-$531.917 million (2019 est.)<br>
 
 **Exports**<br>
-$6.81 billion (2020 est.)<br>
-$8.17 billion (2019 est.)<br>
-$8.57 billion (2018 est.)<br>
+$9.948 billion (2021 est.)<br>
+$6.936 billion (2020 est.)<br>
+$8.199 billion (2019 est.)<br>
 <strong>note:</strong> Data are in current year dollars and do not include illicit exports or re-exports.<br>
 
 **Exports - partners**<br>
@@ -513,9 +516,9 @@ Germany 14%, Italy 12%, Croatia 11%, Serbia 11%, Austria 9%, Slovenia 8% (2019)<
 electricity, seating, leather shoes, furniture, insulated wiring (2019)<br>
 
 **Imports**<br>
-$9.71 billion (2020 est.) note: data are in current year dollars<br>
-$11.15 billion (2019 est.) note: data are in current year dollars<br>
-$11.55 billion (2018 est.) note: data are in current year dollars<br>
+$12.726 billion (2021 est.) note: data are in current year dollars<br>
+$9.726 billion (2020 est.) note: data are in current year dollars<br>
+$11.156 billion (2019 est.) note: data are in current year dollars<br>
 
 **Imports - partners**<br>
 Croatia 15%, Serbia 13%, Germany 10%, Italy 9%, Slovenia 7%, China 6% (2019)<br>
@@ -524,8 +527,9 @@ Croatia 15%, Serbia 13%, Germany 10%, Italy 9%, Slovenia 7%, China 6% (2019)<br>
 refined petroleum, cars, packaged medicines, coal, electricity (2019)<br>
 
 **Reserves of foreign exchange and gold**<br>
-$6.474 billion (31 December 2017 est.)<br>
-$5.137 billion (31 December 2016 est.)<br>
+$9.475 billion (31 December 2021 est.)<br>
+$8.707 billion (31 December 2020 est.)<br>
+$7.208 billion (31 December 2019 est.)<br>
 
 **Debt - external**<br>
 $10.87 billion (31 December 2017 est.)<br>
@@ -533,11 +537,11 @@ $10.64 billion (31 December 2016 est.)<br>
 
 **Exchange rates**<br>
 _Currency_: konvertibilna markas (BAM) per US dollar -<br>
-1.729 (2017 est.)<br>
-1.7674 (2016 est.)<br>
-1.7674 (2015 est.)<br>
-1.7626 (2014 est.)<br>
-1.4718 (2013 est.)<br>
+1.654 (2021 est.)<br>
+1.717 (2020 est.)<br>
+1.747 (2019 est.)<br>
+1.657 (2018 est.)<br>
+1.735 (2017 est.)<br>
 
 ## Energy
 
@@ -717,7 +721,7 @@ Islamic Revolutionary Guard Corps/Qods Force<br>
 _refugees (country of origin)_: 5,112 (Croatia) (2020)<br>
 _IDPs_: 92,000 (Bosnian Croats, Serbs, and Bosniaks displaced by inter-ethnic violence, human rights violations, and armed conflict during the 1992-95 war) (2021)<br>
 _stateless persons_: 149 (mid-year 2021)<br>
-<strong>note: </strong>111,370 estimated refugee and migrant arrivals (January 2015-December 2022)<br>
+<strong>note: </strong>112,773 estimated refugee and migrant arrivals (January 2015-December 2022)<br>
 
 **Illicit drugs**<br>
 <p>drug trafficking groups are major players in the procurement and transportation of large quantities of cocaine  destined for  European markets</p><br>

@@ -176,7 +176,7 @@ _female_: 70.44 years (2022 est.)<br>
 3.99 children born/woman (2022 est.)<br>
 
 **Gross reproduction rate**<br>
-1.97 (2022 est.)<br>
+1.93 (2023 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 37.7% (2020)<br>
@@ -233,11 +233,11 @@ _total_: 5.1% (2020 est.)<br>
 _male_: 8.8% (2020 est.)<br>
 _female_: 1.3% (2020 est.)<br>
 
-**Currently married women (ages 15-49)**<br>
-67.4% (2022 est.)<br>
-
 **Children under the age of 5 years underweight**<br>
 21.1% (2019)<br>
+
+**Currently married women (ages 15-49)**<br>
+67.5% (2023 est.)<br>
 
 **Child marriage**<br>
 _women married by age 15_: 14.1%<br>
@@ -259,9 +259,9 @@ _male_: 8 years<br>
 _female_: 8 years (2012)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 3.5%<br>
-_male_: 2.7%<br>
-_female_: 4.5% (2013 est.)<br>
+_total_: 5.7%<br>
+_male_: 4.4%<br>
+_female_: 7.2% (2021 est.)<br>
 
 ## Environment
 
@@ -447,29 +447,29 @@ _selected World Heritage Site locales_: Rock-Hewn Churches, Lalibela (c); Simien
 <p>Ethiopia - the second most populous country in Africa - is a one-party state with a planned economy. For more than a decade before 2016, GDP grew at a rate between 8% and 11% annually – one of the fastest growing states among the 188 IMF member countries. This growth was driven by government investment in infrastructure, as well as sustained progress in the agricultural and service sectors. More than 70% of Ethiopia’s population is still employed in the agricultural sector, but services have surpassed agriculture as the principal source of GDP.</p> <p> </p> <p>Ethiopia has the lowest level of income-inequality in Africa and one of the lowest in the world, with a Gini coefficient comparable to that of the Scandinavian countries. Yet despite progress toward eliminating extreme poverty, Ethiopia remains one of the poorest countries in the world, due both to rapid population growth and a low starting base. Changes in rainfall associated with world-wide weather patterns resulted in the worst drought in 30 years in 2015-16, creating food insecurity for millions of Ethiopians.</p> <p> </p> <p>The state is heavily engaged in the economy. Ongoing infrastructure projects include power production and distribution, roads, rails, airports and industrial parks. Key sectors are state-owned, including telecommunications, banking and insurance, and power distribution. Under Ethiopia's constitution, the state owns all land and provides long-term leases to tenants. Title rights in urban areas, particularly Addis Ababa, are poorly regulated, and subject to corruption.</p> <p> </p> <p>Ethiopia’s foreign exchange earnings are led by the services sector - primarily the state-run Ethiopian Airlines - followed by exports of several commodities. While coffee remains the largest foreign exchange earner, Ethiopia is diversifying exports, and commodities such as gold, sesame, khat, livestock and horticulture products are becoming increasingly important. Manufacturing represented less than 8% of total exports in 2016, but manufacturing exports should increase in future years due to a growing international presence.</p> <p> </p> <p>The banking, insurance, telecommunications, and micro-credit industries are restricted to domestic investors, but Ethiopia has attracted roughly $8.5 billion in foreign direct investment (FDI), mostly from China, Turkey, India and the EU; US FDI is $567 million. Investment has been primarily in infrastructure, construction, agriculture/horticulture, agricultural processing, textiles, leather and leather products.</p> <p> </p> <p>To support industrialization in sectors where Ethiopia has a comparative advantage, such as textiles and garments, leather goods, and processed agricultural products, Ethiopia plans to increase installed power generation capacity by 8,320 MW, up from a capacity of 2,000 MW, by building three more major dams and expanding to other sources of renewable energy. In 2017, the government devalued the birr by 15% to increase exports and alleviate a chronic foreign currency shortage in the country.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
-$264.05 billion (2020 est.)<br>
-$248.97 billion (2019 est.)<br>
-$229.76 billion (2018 est.)<br>
+$278.945 billion (2021 est.)<br>
+$264.059 billion (2020 est.)<br>
+$248.972 billion (2019 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
-10.9% (2017 est.)<br>
-8% (2016 est.)<br>
-10.4% (2015 est.)<br>
+5.64% (2021 est.)<br>
+6.06% (2020 est.)<br>
+8.36% (2019 est.)<br>
 
 **Real GDP per capita**<br>
+$2,300 (2021 est.)<br>
 $2,300 (2020 est.)<br>
 $2,200 (2019 est.)<br>
-$2,100 (2018 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
 $92.154 billion (2019 est.)<br>
 
 **Inflation rate (consumer prices)**<br>
-15.7% (2019 est.)<br>
-13.9% (2018 est.)<br>
-10.8% (2017 est.)<br>
+26.84% (2021 est.)<br>
+20.36% (2020 est.)<br>
+15.81% (2019 est.)<br>
 
 **Credit ratings**<br>
 _Fitch rating_: B (2014)<br>
@@ -497,10 +497,10 @@ maize, cereals, wheat, sorghum, milk, barley, sweet potatoes, roots/tubers nes, 
 food processing, beverages, textiles, leather, garments, chemicals, metals processing, cement<br>
 
 **Industrial production growth rate**<br>
-10.5% (2017 est.)<br>
+7.26% (2021 est.)<br>
 
 **Labor force**<br>
-52.82 million (2017 est.)<br>
+56.664 million (2021 est.)<br>
 
 **Labor force - by occupation**<br>
 _agriculture_: 72.7%<br>
@@ -508,20 +508,20 @@ _industry_: 7.4%<br>
 _services_: 19.9% (2013 est.)<br>
 
 **Unemployment rate**<br>
-17.5% (2012 est.)<br>
-18% (2011 est.)<br>
+3.69% (2021 est.)<br>
+3.24% (2020 est.)<br>
+2.33% (2019 est.)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 3.5%<br>
-_male_: 2.7%<br>
-_female_: 4.5% (2013 est.)<br>
+_total_: 5.7%<br>
+_male_: 4.4%<br>
+_female_: 7.2% (2021 est.)<br>
 
 **Population below poverty line**<br>
 23.5% (2015 est.)<br>
 
 **Gini Index coefficient - distribution of family income**<br>
 35 (2015 est.)<br>
-30 (2000)<br>
 
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 4.1%<br>
@@ -535,22 +535,25 @@ _expenditures_: 13.79 billion (2017 est.)<br>
 -3.2% (of GDP) (2017 est.)<br>
 
 **Public debt**<br>
-54.2% of GDP (2017 est.)<br>
-53.2% of GDP (2016 est.)<br>
+31.45% of GDP (2019 est.)<br>
+32.53% of GDP (2018 est.)<br>
+30.1% of GDP (2017 est.)<br>
 
 **Taxes and other revenues**<br>
-13.9% (of GDP) (2017 est.)<br>
+6.2% (of GDP) (2020 est.)<br>
 
 **Fiscal year**<br>
 8 July - 7 July<br>
 
 **Current account balance**<br>
--$6.551 billion (2017 est.)<br>
--$6.574 billion (2016 est.)<br>
+-$4.507 billion (2021 est.)<br>
+-$2.719 billion (2020 est.)<br>
+-$5.025 billion (2019 est.)<br>
 
 **Exports**<br>
-$7.62 billion (2018 est.) note: data are in current year dollars<br>
-$2.814 billion (2016 est.)<br>
+$9.496 billion (2021 est.) note: data are in current year dollars<br>
+$7.715 billion (2020 est.)<br>
+$7.588 billion (2019 est.)<br>
 
 **Exports - partners**<br>
 China 17%, United States 16%, United Arab Emirates 8%, Saudi Arabia 6%, South Korea 5%, Germany 5% (2019)<br>
@@ -559,8 +562,9 @@ China 17%, United States 16%, United Arab Emirates 8%, Saudi Arabia 6%, South Ko
 coffee, sesame seeds, gold, cut flowers, zinc (2019)<br>
 
 **Imports**<br>
-$19.93 billion (2018 est.) note: data are in current year dollars<br>
-$14.69 billion (2016 est.)<br>
+$20.859 billion (2021 est.) note: data are in current year dollars<br>
+$17.17 billion (2020 est.)<br>
+$19.227 billion (2019 est.)<br>
 
 **Imports - partners**<br>
 China 27%, India 9%, United Arab Emirates 9%, France 9%, United Kingdom 7% (2019)<br>
@@ -569,8 +573,9 @@ China 27%, India 9%, United Arab Emirates 9%, France 9%, United Kingdom 7% (2019
 aircraft, gas turbines, packaged medicines, electric filament, cars (2019)<br>
 
 **Reserves of foreign exchange and gold**<br>
-$3.013 billion (31 December 2017 est.)<br>
-$3.022 billion (31 December 2016 est.)<br>
+$3.046 billion (31 December 2020 est.)<br>
+$2.993 billion (31 December 2019 est.)<br>
+$3.987 billion (31 December 2018 est.)<br>
 
 **Debt - external**<br>
 $27.27 billion (2019 est.)<br>
@@ -578,11 +583,11 @@ $26.269 billion (2018 est.)<br>
 
 **Exchange rates**<br>
 _Currency_: birr (ETB) per US dollar -<br>
-25 (2017 est.)<br>
-21.732 (2016 est.)<br>
-21.732 (2015 est.)<br>
-21.55 (2014 est.)<br>
-19.8 (2013 est.)<br>
+43.734 (2021 est.)<br>
+34.927 (2020 est.)<br>
+29.07 (2019 est.)<br>
+27.429 (2018 est.)<br>
+23.866 (2017 est.)<br>
 
 ## Energy
 

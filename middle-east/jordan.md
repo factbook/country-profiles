@@ -170,7 +170,7 @@ _female_: 77.6 years (2022 est.)<br>
 2.96 children born/woman (2022 est.)<br>
 
 **Gross reproduction rate**<br>
-1.44 (2022 est.)<br>
+1.41 (2023 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 51.8% (2017/18)<br>
@@ -221,11 +221,11 @@ _total_: 34.8% (2020 est.)<br>
 _male_: 56.8% (2020 est.)<br>
 _female_: 12.8% (2020 est.)<br>
 
-**Currently married women (ages 15-49)**<br>
-55.8% (2022 est.)<br>
-
 **Children under the age of 5 years underweight**<br>
 3% (2012)<br>
+
+**Currently married women (ages 15-49)**<br>
+55.6% (2023 est.)<br>
 
 **Child marriage**<br>
 _women married by age 15_: 1.5%<br>
@@ -247,9 +247,9 @@ _male_: 10 years<br>
 _female_: 11 years (2020)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 43%<br>
-_male_: 40.5%<br>
-_female_: 54.5% (2020 est.)<br>
+_total_: 40.5%<br>
+_male_: 37.4%<br>
+_female_: 53.8% (2021 est.)<br>
 
 ## Environment
 
@@ -417,29 +417,29 @@ _selected World Heritage Site locales_: Petra (c); Quseir Amra (c); Um er-Rasas 
 <p>Jordan's economy is among the smallest in the Middle East, with insufficient supplies of water, oil, and other natural resources, underlying the government's heavy reliance on foreign assistance. Other economic challenges for the government include chronic high rates of unemployment and underemployment, budget and current account deficits, and government debt.</p> <p> </p> <p>King ABDALLAH, during the first decade of the 2000s, implemented significant economic reforms, such as expanding foreign trade and privatizing state-owned companies that attracted foreign investment and contributed to average annual economic growth of 8% for 2004 through 2008. The global economic slowdown and regional turmoil contributed to slower growth from 2010 to 2017 - with growth averaging about 2.5% per year - and hurt export-oriented sectors, construction/real estate, and tourism. Since the onset of the civil war in Syria and resulting refugee crisis, one of Jordan’s most pressing socioeconomic challenges has been managing the influx of approximately 660,000 UN-registered refugees, more than 80% of whom live in Jordan’s urban areas. Jordan’s own official census estimated the refugee number at 1.3 million Syrians as of early 2016.</p> <p> </p> <p>Jordan is nearly completely dependent on imported energy—mostly natural gas—and energy consistently makes up 25-30% of Jordan’s imports. To diversify its energy mix, Jordan has secured several contracts for liquefied and pipeline natural gas, developed several major renewables projects, and is currently exploring nuclear power generation and exploitation of abundant oil shale reserves. In August 2016, Jordan and the IMF agreed to a $723 million Extended Fund Facility that aims to build on the three-year, $2.1 billion IMF program that ended in August 2015 with the goal of helping Jordan correct budgetary and balance of payments imbalances.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
-$100.16 billion (2020 est.)<br>
-$101.74 billion (2019 est.)<br>
-$99.79 billion (2018 est.)<br>
+$102.822 billion (2021 est.)<br>
+$100.581 billion (2020 est.)<br>
+$102.185 billion (2019 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
-2% (2019 est.)<br>
-1.94% (2018 est.)<br>
-2.12% (2017 est.)<br>
+2.23% (2021 est.)<br>
+-1.57% (2020 est.)<br>
+1.93% (2019 est.)<br>
 
 **Real GDP per capita**<br>
-$9,800 (2020 est.)<br>
-$10,100 (2019 est.)<br>
-$10,000 (2018 est.)<br>
+$9,200 (2021 est.)<br>
+$9,200 (2020 est.)<br>
+$9,600 (2019 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
 $44.568 billion (2019 est.)<br>
 
 **Inflation rate (consumer prices)**<br>
-0.3% (2019 est.)<br>
-4.4% (2018 est.)<br>
-3.3% (2017 est.)<br>
+1.35% (2021 est.)<br>
+0.33% (2020 est.)<br>
+0.76% (2019 est.)<br>
 
 **Credit ratings**<br>
 _Fitch rating_: BB- (2019)<br>
@@ -467,10 +467,10 @@ tomatoes, poultry, olives, milk, potatoes, cucumbers, vegetables, watermelons, g
 tourism, information technology, clothing, fertilizer, potash, phosphate mining, pharmaceuticals, petroleum refining, cement, inorganic chemicals, light manufacturing<br>
 
 **Industrial production growth rate**<br>
-1.4% (2017 est.)<br>
+3.02% (2021 est.)<br>
 
 **Labor force**<br>
-731,000 (2020 est.)<br>
+2.865 million (2021 est.)<br>
 
 **Labor force - by occupation**<br>
 _agriculture_: 2%<br>
@@ -478,21 +478,21 @@ _industry_: 20%<br>
 _services_: 78% (2013 est.)<br>
 
 **Unemployment rate**<br>
-19.1% (2019 est.)<br>
-18.61% (2018 est.)<br>
+19.25% (2021 est.)<br>
+19.03% (2020 est.)<br>
+16.81% (2019 est.)<br>
 <strong>note:</strong> official rate; unofficial rate is approximately 30%<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 43%<br>
-_male_: 40.5%<br>
-_female_: 54.5% (2020 est.)<br>
+_total_: 40.5%<br>
+_male_: 37.4%<br>
+_female_: 53.8% (2021 est.)<br>
 
 **Population below poverty line**<br>
 15.7% (2018 est.)<br>
 
 **Gini Index coefficient - distribution of family income**<br>
 33.7 (2010 est.)<br>
-36.4 (1997)<br>
 
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 3.4%<br>
@@ -506,23 +506,26 @@ _expenditures_: 11.51 billion (2017 est.)<br>
 -5.1% (of GDP) (2017 est.)<br>
 
 **Public debt**<br>
-95.9% of GDP (2017 est.)<br>
-95.1% of GDP (2016 est.)<br>
+75.14% of GDP (2020 est.)<br>
+78.48% of GDP (2019 est.)<br>
+75.38% of GDP (2017 est.)<br>
 <strong>note:</strong> data cover central government debt and include debt instruments issued (or owned) by government entities other than the treasury; the data include treasury debt held by foreign entities; the data exclude debt issued by subnational entities, as well as intragovernmental debt; intragovernmental debt consists of treasury borrowings from surpluses in the social funds, such as for retirement, medical care, and unemployment; debt instruments for the social funds are not sold at public auctions<br>
 
 **Taxes and other revenues**<br>
-23.6% (of GDP) (2017 est.)<br>
+15.81% (of GDP) (2020 est.)<br>
 
 **Fiscal year**<br>
 calendar year<br>
 
 **Current account balance**<br>
--$1.222 billion (2019 est.)<br>
--$2.964 billion (2018 est.)<br>
+-$4.03 billion (2021 est.)<br>
+-$2.506 billion (2020 est.)<br>
+-$773.366 million (2019 est.)<br>
 
 **Exports**<br>
-$16.29 billion (2019 est.) note: data are in current year dollars<br>
-$15.09 billion (2018 est.) note: data are in current year dollars<br>
+$13.864 billion (2021 est.) note: data are in current year dollars<br>
+$10.444 billion (2020 est.) note: data are in current year dollars<br>
+$16.17 billion (2019 est.)<br>
 
 **Exports - partners**<br>
 United States 21%, Saudi Arabia 13%, India 8%, Iraq 7%, United Arab Emirates 5%, China 5% (2019)<br>
@@ -531,8 +534,9 @@ United States 21%, Saudi Arabia 13%, India 8%, Iraq 7%, United Arab Emirates 5%,
 fertilizers, calcium phosphates, packaged medicines, clothing and apparel, phosphoric acid (2019)<br>
 
 **Imports**<br>
-$22.04 billion (2019 est.) note: data are in current year dollars<br>
-$22.92 billion (2018 est.) note: data are in current year dollars<br>
+$23.392 billion (2021 est.) note: data are in current year dollars<br>
+$18.424 billion (2020 est.) note: data are in current year dollars<br>
+$21.964 billion (2019 est.)<br>
 
 **Imports - partners**<br>
 China 17%, Saudi Arabia 15%, United States 6%, United Arab Emirates 6%, Egypt 5%, India 5% (2019)<br>
@@ -550,11 +554,11 @@ $29.916 billion (2018 est.)<br>
 
 **Exchange rates**<br>
 _Currency_: Jordanian dinars (JOD) per US dollar -<br>
-0.709 (2020 est.)<br>
-0.709 (2019 est.)<br>
-0.70925 (2018 est.)<br>
-0.71 (2014 est.)<br>
-0.71 (2013 est.)<br>
+0.71 (2021 est.)<br>
+0.71 (2020 est.)<br>
+0.71 (2019 est.)<br>
+0.71 (2018 est.)<br>
+0.71 (2017 est.)<br>
 
 ## Energy
 
@@ -734,7 +738,7 @@ Islamic State of Iraq and ash-Sham (ISIS)<br>
 <p><em>Jordan-Iraq</em>: the two countries signed a border agreement in 1984; Jordan has ratified the treaty, but it has not been confirmed that Iraq has ratified it; as of 2010, the agreement had not been registered with the UN</p> <p><em>Jordan-Israel</em>: none identified</p> <p><em>Jordan-Saudi Arabia</em>: Jordan and Saudi Arabia signed an agreement to demarcate their maritime borders in 2007</p> <p><em>Jordan-Syria</em>: the two countries signed an agreement in 2005 to settle the border dispute based on a 1931 demarcation accord; the two countries began demarcation in 2006</p> <p><em>Jordan-West Bank</em>: none identified</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 2,307,011 (Palestinian refugees) (2020); 66,665 (Iraq), 12,866 (Yemen), 6,013 Sudan (2021); 660,892 (Syria) (2022)<br>
+_refugees (country of origin)_: 2,307,011 (Palestinian refugees) (2020); 12,866 (Yemen), 6,013 Sudan (2021); 660,892 (Syria) (2022); 33,951 (Iraq) (mid-year 2022)<br>
 _stateless persons_: 63 (mid-year 2021)<br>
 
 **Illicit drugs**<br>

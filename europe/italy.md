@@ -163,7 +163,7 @@ _female_: 85.08 years (2022 est.)<br>
 1.22 children born/woman (2022 est.)<br>
 
 **Gross reproduction rate**<br>
-0.59 (2022 est.)<br>
+0.6 (2023 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 65.1% (2013)<br>
@@ -215,11 +215,11 @@ _total_: 23.1% (2020 est.)<br>
 _male_: 26.6% (2020 est.)<br>
 _female_: 19.5% (2020 est.)<br>
 
-**Currently married women (ages 15-49)**<br>
-52.9% (2022 est.)<br>
-
 **Children under the age of 5 years underweight**<br>
 NA<br>
+
+**Currently married women (ages 15-49)**<br>
+52.5% (2023 est.)<br>
 
 **Education expenditures**<br>
 4.3% of GDP (2020 est.)<br>
@@ -236,9 +236,9 @@ _male_: 16 years<br>
 _female_: 17 years (2020)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 29.7%<br>
-_male_: 27.7%<br>
-_female_: 32.8% (2021 est.)<br>
+_total_: 30.9%<br>
+_male_: 29.1%<br>
+_female_: 33.8% (2021 est.)<br>
 
 ## Environment
 
@@ -405,29 +405,29 @@ _selected World Heritage Site locales_: Historic Center of Rome (c); Archaeologi
 <p>Italy’s economy comprises a developed industrial north, dominated by private companies, and a less-developed, highly subsidized, agricultural south, with a legacy of unemployment and underdevelopment. The Italian economy is driven in large part by the manufacture of high-quality consumer goods produced by small and medium-sized enterprises, many of them family-owned. Italy also has a sizable underground economy, which by some estimates accounts for as much as 17% of GDP. These activities are most common within the agriculture, construction, and service sectors.</p> <p> </p> <p>Italy is the third-largest economy in the euro zone, but its exceptionally high public debt and structural impediments to growth have rendered it vulnerable to scrutiny by financial markets. Public debt has increased steadily since 2007, reaching 131% of GDP in 2017. Investor concerns about Italy and the broader euro-zone crisis eased in 2013, bringing down Italy's borrowing costs on sovereign government debt from euro-era records. The government still faces pressure from investors and European partners to sustain its efforts to address Italy's longstanding structural economic problems, including labor market inefficiencies, a sluggish judicial system, and a weak banking sector. Italy’s economy returned to modest growth in late 2014 for the first time since 2011. In 2015-16, Italy’s economy grew at about 1% each year, and in 2017 growth accelerated to 1.5% of GDP. In 2017, overall unemployment was 11.4%, but youth unemployment remained high at 37.1%. GDP growth is projected to slow slightly in 2018.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
-$2,322,140,000,000 (2020 est.)<br>
-$2,548,190,000,000 (2019 est.)<br>
-$2,540,890,000,000 (2018 est.)<br>
+$2.478 trillion (2021 est.)<br>
+$2.322 trillion (2020 est.)<br>
+$2.553 trillion (2019 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
-0.34% (2019 est.)<br>
-0.83% (2018 est.)<br>
-1.73% (2017 est.)<br>
+6.74% (2021 est.)<br>
+-9.04% (2020 est.)<br>
+0.48% (2019 est.)<br>
 
 **Real GDP per capita**<br>
-$39,000 (2020 est.)<br>
+$41,900 (2021 est.)<br>
+$39,100 (2020 est.)<br>
 $42,700 (2019 est.)<br>
-$42,100 (2018 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
 $2,002,763,000,000 (2019 est.)<br>
 
 **Inflation rate (consumer prices)**<br>
-0.6% (2019 est.)<br>
-1.1% (2018 est.)<br>
-1.2% (2017 est.)<br>
+1.87% (2021 est.)<br>
+-0.14% (2020 est.)<br>
+0.61% (2019 est.)<br>
 
 **Credit ratings**<br>
 _Fitch rating_: BBB- (2020)<br>
@@ -455,10 +455,10 @@ milk, grapes, wheat, maize, tomatoes, apples, olives, sugar beet, oranges, rice<
 tourism, machinery, iron and steel, chemicals, food processing, textiles, motor vehicles, clothing, footwear, ceramics<br>
 
 **Industrial production growth rate**<br>
-2.1% (2017 est.)<br>
+13.46% (2021 est.)<br>
 
 **Labor force**<br>
-22.92 million (2020 est.)<br>
+25.012 million (2021 est.)<br>
 
 **Labor force - by occupation**<br>
 _agriculture_: 3.9%<br>
@@ -466,20 +466,20 @@ _industry_: 28.3%<br>
 _services_: 67.8% (2011)<br>
 
 **Unemployment rate**<br>
-9.88% (2019 est.)<br>
-10.63% (2018 est.)<br>
+9.83% (2021 est.)<br>
+9.16% (2020 est.)<br>
+9.95% (2019 est.)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 29.7%<br>
-_male_: 27.7%<br>
-_female_: 32.8% (2021 est.)<br>
+_total_: 30.9%<br>
+_male_: 29.1%<br>
+_female_: 33.8% (2021 est.)<br>
 
 **Population below poverty line**<br>
 20.1% (2018 est.)<br>
 
 **Gini Index coefficient - distribution of family income**<br>
-35.9 (2017 est.)<br>
-27.3 (1995)<br>
+35.2 (2018 est.)<br>
 
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 2.3%<br>
@@ -498,19 +498,20 @@ _expenditures_: 948.1 billion (2017 est.)<br>
 <strong>note:</strong> Italy reports its data on public debt according to guidelines set out in the Maastricht Treaty; general government gross debt is defined in the Maastricht Treaty as consolidated general government gross debt at nominal value, outstanding at the end of the year, in the following categories of government liabilities (as defined in ESA95): currency and deposits (AF.2), securities other than shares excluding financial derivatives (AF.3, excluding AF.34), and loans (AF.4); the general government sector comprises central, state, and local government and social security funds<br>
 
 **Taxes and other revenues**<br>
-46.6% (of GDP) (2017 est.)<br>
+24.77% (of GDP) (2020 est.)<br>
 
 **Fiscal year**<br>
 calendar year<br>
 
 **Current account balance**<br>
-$59.517 billion (2019 est.)<br>
-$51.735 billion (2018 est.)<br>
+$64.719 billion (2021 est.)<br>
+$74.509 billion (2020 est.)<br>
+$66.321 billion (2019 est.)<br>
 
 **Exports**<br>
-$558.26 billion (2020 est.) note: data are in current year dollars<br>
-$636.01 billion (2019 est.) note: data are in current year dollars<br>
-$656.06 billion (2018 est.) note: data are in current year dollars<br>
+$687.948 billion (2021 est.) note: data are in current year dollars<br>
+$559.952 billion (2020 est.) note: data are in current year dollars<br>
+$636.153 billion (2019 est.) note: data are in current year dollars<br>
 
 **Exports - partners**<br>
 Germany 12%, France 11%, United States 10%, United Kingdom 5%, Spain 5%, Switzerland 5% (2019)<br>
@@ -519,9 +520,9 @@ Germany 12%, France 11%, United States 10%, United Kingdom 5%, Spain 5%, Switzer
 packaged medicines, cars and vehicle parts, refined petroleum, valves, trunks/cases, wine (2019)<br>
 
 **Imports**<br>
-$486.35 billion (2020 est.) note: data are in current year dollars<br>
-$569.7 billion (2019 est.) note: data are in current year dollars<br>
-$605.44 billion (2018 est.) note: data are in current year dollars<br>
+$637.934 billion (2021 est.) note: data are in current year dollars<br>
+$490.684 billion (2020 est.) note: data are in current year dollars<br>
+$568.796 billion (2019 est.) note: data are in current year dollars<br>
 
 **Imports - partners**<br>
 Germany 16%, France 9%, China 7%, Spain 5%, Netherlands 5%, Belgium 5% (2019)<br>
@@ -530,8 +531,9 @@ Germany 16%, France 9%, China 7%, Spain 5%, Netherlands 5%, Belgium 5% (2019)<br
 crude petroleum, cars, packaged medicines, natural gas, refined petroleum (2019)<br>
 
 **Reserves of foreign exchange and gold**<br>
-$151.2 billion (31 December 2017 est.)<br>
-$130.6 billion (31 December 2015 est.)<br>
+$227.478 billion (31 December 2021 est.)<br>
+$210.687 billion (31 December 2020 est.)<br>
+$175.398 billion (31 December 2019 est.)<br>
 
 **Debt - external**<br>
 $2,463,208,000,000 (2019 est.)<br>
@@ -539,11 +541,11 @@ $2,533,153,000,000 (2018 est.)<br>
 
 **Exchange rates**<br>
 _Currency_: euros (EUR) per US dollar -<br>
-0.82771 (2020 est.)<br>
-0.90338 (2019 est.)<br>
-0.87789 (2018 est.)<br>
-0.885 (2014 est.)<br>
-0.7634 (2013 est.)<br>
+0.845 (2021 est.)<br>
+0.876 (2020 est.)<br>
+0.893 (2019 est.)<br>
+0.847 (2018 est.)<br>
+0.885 (2017 est.)<br>
 
 ## Energy
 
@@ -736,9 +738,9 @@ Islamic State of Iraq and ash-Sham (ISIS)<br>
 <p>Italy's long coastline and developed economy entices tens of thousands of illegal immigrants from southeastern Europe and northern Africa</p> <p><em>Italy-Austria-Switzerland</em>: borders are shifting because glacier peaks that had served as a natural boundary are melting</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 19,441 (Nigeria), 15,337 (Pakistan), 12,962 (Afghanistan), 10,609 (Mali), 7,901 (Somalia), 5,845 (Gambia), 5,079 (Iraq) (mid-year 2021); 173,231 (Ukraine) (as of 27 December 2022)<br>
+_refugees (country of origin)_: 21,441 (Nigeria), 17,706 (Afghanistan), 17,619 (Pakistan), 11,193 (Mali), 8,405 (Somalia), 6,324 (Gambia), 5,768 (Bangladesh), 5,463 (Iraq) (mid-year 2022); 173,231 (Ukraine) (as of 27 December 2022)<br>
 _stateless persons_: 3,000 (mid-year 2021)<br>
-<strong>note:</strong> 693,041 estimated refugee and migrant arrivals (January 2015-December 2022)<br>
+<strong>note:</strong> 696,259 estimated refugee and migrant arrivals (January 2015-December 2022)<br>
 
 **Illicit drugs**<br>
 important gateway for drug trafficking; organized crime groups allied with Colombian and Spanish groups trafficking cocaine to Europe<br>

@@ -159,7 +159,7 @@ _female_: 82.73 years (2022 est.)<br>
 1.61 children born/woman (2022 est.)<br>
 
 **Gross reproduction rate**<br>
-0.79 (2022 est.)<br>
+0.79 (2023 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 NA<br>
@@ -211,11 +211,11 @@ _total_: 29.7% (2020 est.)<br>
 _male_: 36.3% (2020 est.)<br>
 _female_: 23% (2020 est.)<br>
 
-**Currently married women (ages 15-49)**<br>
-52.6% (2022 est.)<br>
-
 **Children under the age of 5 years underweight**<br>
 0.4% (2013/15)<br>
+
+**Currently married women (ages 15-49)**<br>
+52.3% (2023 est.)<br>
 
 **Education expenditures**<br>
 6.6% of GDP (2020 est.)<br>
@@ -232,9 +232,9 @@ _male_: 15 years<br>
 _female_: 17 years (2020)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 16.7%<br>
-_male_: 18.4%<br>
-_female_: 15% (2021 est.)<br>
+_total_: 17.1%<br>
+_male_: 16.5%<br>
+_female_: 17.8% (2021 est.)<br>
 
 ## Environment
 
@@ -396,29 +396,29 @@ _selected World Heritage Site locales_: Historic Center (Old Town) of Tallinn; S
 <p>Estonia, a member of the EU since 2004 and the euro zone since 2011, has a modern market-based economy and one of the higher per capita income levels in Central Europe and the Baltic region, but its economy is highly dependent on trade, leaving it vulnerable to external shocks. Estonia's successive governments have pursued a free market, pro-business economic agenda, and sound fiscal policies that have resulted in balanced budgets and the lowest debt-to-GDP ratio in the EU.</p> <p> </p> <p>The economy benefits from strong electronics and telecommunications sectors and strong trade ties with Finland, Sweden, Germany, and Russia. The economy’s 4.9% GDP growth in 2017 was the fastest in the past six years, leaving the Estonian economy in its best position since the financial crisis 10 years ago. For the first time in many years, labor productivity increased faster than labor costs in 2017. Inflation also rose in 2017 to 3.5% alongside increased global prices for food and energy, which make up a large share of Estonia’s consumption.</p> <p> </p> <p>Estonia is challenged by a shortage of labor, both skilled and unskilled, although the government has amended its immigration law to allow easier hiring of highly qualified foreign workers, and wage growth that outpaces productivity gains. The government is also pursuing efforts to boost productivity growth with a focus on innovations that emphasize technology start-ups and e-commerce.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
-$47.44 billion (2020 est.)<br>
-$48.87 billion (2019 est.)<br>
-$46.54 billion (2018 est.)<br>
+$51.531 billion (2021 est.)<br>
+$47.708 billion (2020 est.)<br>
+$47.972 billion (2019 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
-5% (2019 est.)<br>
-4.36% (2018 est.)<br>
-5.51% (2017 est.)<br>
+8.01% (2021 est.)<br>
+-0.55% (2020 est.)<br>
+3.74% (2019 est.)<br>
 
 **Real GDP per capita**<br>
-$35,600 (2020 est.)<br>
-$36,800 (2019 est.)<br>
-$35,200 (2018 est.)<br>
+$38,700 (2021 est.)<br>
+$35,900 (2020 est.)<br>
+$36,200 (2019 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
 $31.461 billion (2019 est.)<br>
 
 **Inflation rate (consumer prices)**<br>
-2.2% (2019 est.)<br>
-3.4% (2018 est.)<br>
-3.4% (2017 est.)<br>
+4.65% (2021 est.)<br>
+-0.44% (2020 est.)<br>
+2.28% (2019 est.)<br>
 
 **Credit ratings**<br>
 _Fitch rating_: AA- (2018)<br>
@@ -446,10 +446,10 @@ wheat, milk, barley, rapeseed, rye, oats, peas, potatoes, pork, triticale<br>
 food, engineering, electronics, wood and wood products, textiles; information technology, telecommunications<br>
 
 **Industrial production growth rate**<br>
-9.5% (2017 est.)<br>
+7.13% (2021 est.)<br>
 
 **Labor force**<br>
-648,000 (2020 est.)<br>
+704,700 (2021 est.)<br>
 
 **Labor force - by occupation**<br>
 _agriculture_: 2.7%<br>
@@ -457,20 +457,20 @@ _industry_: 20.5%<br>
 _services_: 76.8% (2017 est.)<br>
 
 **Unemployment rate**<br>
-4.94% (2019 est.)<br>
-4.73% (2018 est.)<br>
+6.33% (2021 est.)<br>
+6.8% (2020 est.)<br>
+4.45% (2019 est.)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 16.7%<br>
-_male_: 18.4%<br>
-_female_: 15% (2021 est.)<br>
+_total_: 17.1%<br>
+_male_: 16.5%<br>
+_female_: 17.8% (2021 est.)<br>
 
 **Population below poverty line**<br>
 21.7% (2018 est.)<br>
 
 **Gini Index coefficient - distribution of family income**<br>
-30.4 (2017 est.)<br>
-35.6 (2014)<br>
+30.8 (2019 est.)<br>
 
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 2.3%<br>
@@ -484,24 +484,26 @@ _expenditures_: 10.44 billion (2017 est.)<br>
 -0.3% (of GDP) (2017 est.)<br>
 
 **Public debt**<br>
-9% of GDP (2017 est.)<br>
-9.4% of GDP (2016 est.)<br>
+23.77% of GDP (2020 est.)<br>
+14.05% of GDP (2019 est.)<br>
+13.46% of GDP (2018 est.)<br>
 <strong>note:</strong> data cover general government debt and include debt instruments issued (or owned) by government entities, including sub-sectors of central government, state government, local government, and social security funds<br>
 
 **Taxes and other revenues**<br>
-39.9% (of GDP) (2017 est.)<br>
+20.69% (of GDP) (2020 est.)<br>
 
 **Fiscal year**<br>
 calendar year<br>
 
 **Current account balance**<br>
-$616 million (2019 est.)<br>
-$280 million (2018 est.)<br>
+-$709.328 million (2021 est.)<br>
+-$370.205 million (2020 est.)<br>
+$735.796 million (2019 est.)<br>
 
 **Exports**<br>
-$21.69 billion (2020 est.) note: data are in current year dollars<br>
-$22.94 billion (2019 est.) note: data are in current year dollars<br>
-$22.69 billion (2018 est.) note: data are in current year dollars<br>
+$29.056 billion (2021 est.) note: data are in current year dollars<br>
+$21.769 billion (2020 est.) note: data are in current year dollars<br>
+$22.962 billion (2019 est.) note: data are in current year dollars<br>
 
 **Exports - partners**<br>
 Finland 13%, Sweden 9%, Latvia 8%, Russia 8%, United States 7%, Lithuania 6%, Germany 6% (2019)<br>
@@ -510,9 +512,9 @@ Finland 13%, Sweden 9%, Latvia 8%, Russia 8%, United States 7%, Lithuania 6%, Ge
 broadcasting equipment, refined petroleum, coal tar oil, cars, prefabricated buildings (2019)<br>
 
 **Imports**<br>
-$21.73 billion (2020 est.) note: data are in current year dollars<br>
-$21.68 billion (2019 est.) note: data are in current year dollars<br>
-$21.89 billion (2018 est.) note: data are in current year dollars<br>
+$29.234 billion (2021 est.) note: data are in current year dollars<br>
+$21.813 billion (2020 est.) note: data are in current year dollars<br>
+$21.712 billion (2019 est.) note: data are in current year dollars<br>
 
 **Imports - partners**<br>
 Russia 12%, Germany 10%, Finland 9%, Lithuania 7%, Latvia 7%, Sweden 6%, Poland 6%, China 6% (2019)<br>
@@ -521,8 +523,9 @@ Russia 12%, Germany 10%, Finland 9%, Lithuania 7%, Latvia 7%, Sweden 6%, Poland 
 cars, refined petroleum, coal tar oil, broadcasting equipment, packaged medicines (2019)<br>
 
 **Reserves of foreign exchange and gold**<br>
-$345 million (31 December 2017 est.)<br>
-$352.2 million (31 December 2016 est.)<br>
+$2.371 billion (31 December 2021 est.)<br>
+$1.997 billion (31 December 2020 est.)<br>
+$1.426 billion (31 December 2019 est.)<br>
 
 **Debt - external**<br>
 $23.944 billion (2019 est.)<br>
@@ -530,11 +533,11 @@ $23.607 billion (2018 est.)<br>
 
 **Exchange rates**<br>
 _Currency_: euros (EUR) per US dollar -<br>
-0.82771 (2020 est.)<br>
-0.90338 (2019 est.)<br>
-0.87789 (2018 est.)<br>
-0.885 (2014 est.)<br>
-0.7634 (2013 est.)<br>
+0.845 (2021 est.)<br>
+0.876 (2020 est.)<br>
+0.893 (2019 est.)<br>
+0.847 (2018 est.)<br>
+0.885 (2017 est.)<br>
 
 ## Energy
 
@@ -711,7 +714,7 @@ Estonia became a member of NATO in 2004<br><br>since 2017, Estonia has hosted a 
 <p>Russia and Estonia in May 2005 signed a technical border agreement, but Russia in June 2005 recalled its signature after the Estonian parliament added to its domestic ratification act a historical preamble referencing the Soviet occupation and Estonia's pre-war borders under the 1920 Treaty of Tartu; Russia contends that the preamble allows Estonia to make territorial claims on Russia in the future, while Estonian officials deny that the preamble has any legal impact on the treaty text; Russia demands better treatment of the Russian-speaking population in Estonia; as a member state that forms part of the EU's external border, Estonia implements strict Schengen border rules with Russia</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 65,060 (Ukraine) (as of 26 December 2022)<br>
+_refugees (country of origin)_: 65,381 (Ukraine) (as of 1 January 2023)<br>
 _stateless persons_: 71,873 (mid-year 2021); note - following independence in 1991, automatic citizenship was restricted to those who were Estonian citizens prior to the 1940 Soviet occupation and their descendants; thousands of ethnic Russians remained stateless when forced to choose between passing Estonian language and citizenship tests or applying for Russian citizenship; one reason for demurring on Estonian citizenship was to retain the right of visa-free travel to Russia; stateless residents can vote in local elections but not general elections; stateless parents who have been lawful residents of Estonia for at least five years can apply for citizenship for their children before they turn 15 years old<br>
 
 **Illicit drugs**<br>

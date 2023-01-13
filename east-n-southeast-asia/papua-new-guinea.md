@@ -166,7 +166,7 @@ _female_: 71.19 years (2022 est.)<br>
 3.92 children born/woman (2022 est.)<br>
 
 **Gross reproduction rate**<br>
-1.91 (2022 est.)<br>
+1.88 (2023 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 36.7% (2016/18)<br>
@@ -216,11 +216,11 @@ _total_: 39.3% (2020 est.)<br>
 _male_: 53.5% (2020 est.)<br>
 _female_: 25.1% (2020 est.)<br>
 
-**Currently married women (ages 15-49)**<br>
-65.7% (2022 est.)<br>
-
 **Children under the age of 5 years underweight**<br>
 27.8% (2009/11)<br>
+
+**Currently married women (ages 15-49)**<br>
+65.5% (2023 est.)<br>
 
 **Child marriage**<br>
 _women married by age 15_: 8%<br>
@@ -235,6 +235,11 @@ _definition_: age 15 and over can read and write<br>
 _total population_: 64.2%<br>
 _male_: 65.6%<br>
 _female_: 62.8% (2015)<br>
+
+**Youth unemployment rate (ages 15-24)**<br>
+_total_: 5.3%<br>
+_male_: 6.3%<br>
+_female_: 4.2% (2021 est.)<br>
 
 **People - note**<br>
 the indigenous population of Papua New Guinea (PNG) is one of the most heterogeneous in the world; PNG has several thousand separate communities, most with only a few hundred people; divided by language, customs, and tradition, some of these communities have engaged in low-scale tribal conflict with their neighbors for millennia; the advent of modern weapons and modern migrants into urban areas has greatly magnified the impact of this lawlessness<br>
@@ -401,28 +406,29 @@ _selected World Heritage Site locales_: Kuk Early Agricultural Site<br>
 <p>Papua New Guinea (PNG) is richly endowed with natural resources, but exploitation has been hampered by rugged terrain, land tenure issues, and the high cost of developing infrastructure. The economy has a small formal sector, focused mainly on the export of those natural resources, and an informal sector, employing the majority of the population. Agriculture provides a subsistence livelihood for 85% of the people. The global financial crisis had little impact because of continued foreign demand for PNG's commodities.</p> <p> </p> <p>Mineral deposits, including copper, gold, and oil, account for nearly two-thirds of export earnings. Natural gas reserves amount to an estimated 155 billion cubic meters. Following construction of a $19 billion liquefied natural gas (LNG) project, PNG LNG, a consortium led by ExxonMobil, began exporting liquefied natural gas to Asian markets in May 2014. The project was delivered on time and only slightly above budget. The success of the project has encouraged other companies to look at similar LNG projects. French supermajor Total is hopes to begin construction on the Papua LNG project by 2020. Due to lower global commodity prices, resource revenues of all types have fallen dramatically. PNG’s government has recently been forced to adjust spending levels downward.</p> <p> </p> <p>Numerous challenges still face the government of Peter O'NEILL, including providing physical security for foreign investors, regaining investor confidence, restoring integrity to state institutions, promoting economic efficiency by privatizing moribund state institutions, and maintaining good relations with Australia, its former colonial ruler. Other socio-cultural challenges could upend the economy including chronic law and order and land tenure issues. In August, 2017, PNG launched its first-ever national trade policy, PNG Trade Policy 2017-2032. The policy goal is to maximize trade and investment by increasing exports, to reduce imports, and to increase foreign direct investment (FDI).</p><br>
 
 **Real GDP (purchasing power parity)**<br>
-$36.69 billion (2020 est.)<br>
-$38.17 billion (2019 est.)<br>
-$36.06 billion (2018 est.)<br>
+$36.589 billion (2021 est.)<br>
+$36.479 billion (2020 est.)<br>
+$37.672 billion (2019 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
-2.5% (2017 est.)<br>
-1.6% (2016 est.)<br>
-5.3% (2015 est.)<br>
+0.3% (2021 est.)<br>
+-3.17% (2020 est.)<br>
+4.48% (2019 est.)<br>
 
 **Real GDP per capita**<br>
-$4,100 (2020 est.)<br>
-$4,300 (2019 est.)<br>
-$4,200 (2018 est.)<br>
+$3,700 (2021 est.)<br>
+$3,700 (2020 est.)<br>
+$3,900 (2019 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
 $19.82 billion (2017 est.)<br>
 
 **Inflation rate (consumer prices)**<br>
-5.4% (2017 est.)<br>
-6.7% (2016 est.)<br>
+4.48% (2021 est.)<br>
+4.87% (2020 est.)<br>
+3.93% (2019 est.)<br>
 
 **Credit ratings**<br>
 _Moody's rating_: B2 (2016)<br>
@@ -449,10 +455,10 @@ oil palm fruit, bananas, coconuts, fruit, sweet potatoes, game meat, yams, roots
 copra crushing, palm oil processing, plywood production, wood chip production; mining (gold, silver, copper); crude oil and petroleum products; construction, tourism, livestock (pork, poultry, cattle), dairy products, spice products (turmeric, vanilla, ginger, cardamom, chili, pepper, citronella, and nutmeg), fisheries products<br>
 
 **Industrial production growth rate**<br>
-3.3% (2017 est.)<br>
+-7.5% (2020 est.)<br>
 
 **Labor force**<br>
-3.681 million (2017 est.)<br>
+3.073 million (2021 est.)<br>
 
 **Labor force - by occupation**<br>
 _agriculture_: 85%<br>
@@ -460,8 +466,14 @@ _industry_: NA<br>
 _services_: NA<br>
 
 **Unemployment rate**<br>
-2.5% (2017 est.)<br>
-2.5% (2016 est.)<br>
+2.75% (2021 est.)<br>
+2.6% (2020 est.)<br>
+2.45% (2019 est.)<br>
+
+**Youth unemployment rate (ages 15-24)**<br>
+_total_: 5.3%<br>
+_male_: 6.3%<br>
+_female_: 4.2% (2021 est.)<br>
 
 **Population below poverty line**<br>
 37% (2002 est.)<br>
@@ -481,22 +493,24 @@ _expenditures_: 4.591 billion (2017 est.)<br>
 -4.8% (of GDP) (2017 est.)<br>
 
 **Public debt**<br>
-36.9% of GDP (2017 est.)<br>
-36.9% of GDP (2016 est.)<br>
+48.68% of GDP (2020 est.)<br>
+40.15% of GDP (2019 est.)<br>
+36.67% of GDP (2018 est.)<br>
 
 **Taxes and other revenues**<br>
-18.4% (of GDP) (2017 est.)<br>
+11.88% (of GDP) (2020 est.)<br>
 
 **Fiscal year**<br>
 calendar year<br>
 
 **Current account balance**<br>
-$4.859 billion (2017 est.)<br>
-$4.569 billion (2016 est.)<br>
+$5.451 billion (2018 est.)<br>
+$5.348 billion (2017 est.)<br>
+$5.175 billion (2016 est.)<br>
 
 **Exports**<br>
-$10.6 billion (2018 est.) note: data are in current year dollars<br>
-$9.224 billion (2016 est.)<br>
+$10.597 billion (2018 est.) note: data are in current year dollars<br>
+$10.254 billion (2017 est.)<br>
 
 **Exports - partners**<br>
 Australia 26%, China 26%, Japan 22%, Taiwan 7% (2019)<br>
@@ -505,8 +519,8 @@ Australia 26%, China 26%, Japan 22%, Taiwan 7% (2019)<br>
 natural gas, gold, copper, lumber, crude petroleum, nickel, palm oil, fish, coffee (2019)<br>
 
 **Imports**<br>
-$4.84 billion (2018 est.) note: data are in current year dollars<br>
-$2.077 billion (2016 est.)<br>
+$4.844 billion (2018 est.) note: data are in current year dollars<br>
+$4.662 billion (2017 est.)<br>
 
 **Imports - partners**<br>
 Australia 33%, China 19%, Singapore 14%, Malaysia 9% (2019)<br>
@@ -515,8 +529,9 @@ Australia 33%, China 19%, Singapore 14%, Malaysia 9% (2019)<br>
 refined petroleum, excavation machinery, crude petroleum, foodstuffs, delivery trucks (2019)<br>
 
 **Reserves of foreign exchange and gold**<br>
-$1.735 billion (31 December 2017 est.)<br>
-$1.656 billion (31 December 2016 est.)<br>
+$2.339 billion (31 December 2019 est.)<br>
+$2.239 billion (31 December 2018 est.)<br>
+$1.762 billion (31 December 2017 est.)<br>
 
 **Debt - external**<br>
 $17.94 billion (31 December 2017 est.)<br>
@@ -524,11 +539,11 @@ $18.28 billion (31 December 2016 est.)<br>
 
 **Exchange rates**<br>
 _Currency_: kina (PGK) per US dollar -<br>
-3.5131 (2020 est.)<br>
-3.4042 (2019 est.)<br>
-3.36915 (2018 est.)<br>
-2.7684 (2014 est.)<br>
-2.4614 (2013 est.)<br>
+3.509 (2021 est.)<br>
+3.46 (2020 est.)<br>
+3.388 (2019 est.)<br>
+3.293 (2018 est.)<br>
+3.189 (2017 est.)<br>
 
 ## Energy
 
@@ -703,7 +718,7 @@ as of 2022, Australia and the US were assisting Papua New Guinea with expanding 
 <p><em>Papua New Guinea-Australia</em>: relies on assistance from Australia to keep out illegal cross-border activities from primarily Indonesia, including goods smuggling, illegal narcotics trafficking, and squatters and secessionists</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 11,601 (Indonesia) (mid-year 2021)<br>
+_refugees (country of origin)_: 11,432 (Indonesia) (mid-year 2022)<br>
 _IDPs_: 24,000 (natural disasters, tribal conflict, inter-communal violence, development projects) (2021)<br>
 _stateless persons_: 9 (mid-year 2021)<br>
 

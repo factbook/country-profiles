@@ -174,7 +174,7 @@ _female_: 69.16 years (2022 est.)<br>
 2.1 children born/woman (2022 est.)<br>
 
 **Gross reproduction rate**<br>
-1 (2022 est.)<br>
+0.98 (2023 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 66.7% (2019/20)<br>
@@ -230,11 +230,11 @@ _total_: 27.2% (2020 est.)<br>
 _male_: 41.3% (2020 est.)<br>
 _female_: 13% (2020 est.)<br>
 
-**Currently married women (ages 15-49)**<br>
-72.7% (2022 est.)<br>
-
 **Children under the age of 5 years underweight**<br>
 33.4% (2016/18)<br>
+
+**Currently married women (ages 15-49)**<br>
+72.6% (2023 est.)<br>
 
 **Child marriage**<br>
 _women married by age 15_: 6.8%<br>
@@ -256,9 +256,9 @@ _male_: 12 years<br>
 _female_: 12 years (2020)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 19.8%<br>
-_male_: 19.5%<br>
-_female_: 21% (2020 est.)<br>
+_total_: 28.3%<br>
+_male_: 28.6%<br>
+_female_: 26.7% (2021 est.)<br>
 
 ## Environment
 
@@ -439,29 +439,29 @@ _selected World Heritage Site locales_: Taj Mahal (c); Red Fort Complex (c); Ell
 <p>India's diverse economy encompasses traditional village farming, modern agriculture, handicrafts, a wide range of modern industries, and a multitude of services. Slightly less than half of the workforce is in agriculture, but services are the major source of economic growth, accounting for nearly two-thirds of India's output but employing less than one-third of its labor force. India has capitalized on its large educated English-speaking population to become a major exporter of information technology services, business outsourcing services, and software workers. Nevertheless, per capita income remains below the world average. India is developing into an open-market economy, yet traces of its past autarkic policies remain. Economic liberalization measures, including industrial deregulation, privatization of state-owned enterprises, and reduced controls on foreign trade and investment, began in the early 1990s and served to accelerate the country's growth, which averaged nearly 7% per year from 1997 to 2017.</p> <p> </p> <p>India's economic growth slowed in 2011 because of a decline in investment caused by high interest rates, rising inflation, and investor pessimism about the government's commitment to further economic reforms and about slow world growth. Investors’ perceptions of India improved in early 2014, due to a reduction of the current account deficit and expectations of post-election economic reform, resulting in a surge of inbound capital flows and stabilization of the rupee. Growth rebounded in 2014 through 2016. Despite a high growth rate compared to the rest of the world, India’s government-owned banks faced mounting bad debt, resulting in low credit growth. Rising macroeconomic imbalances in India and improving economic conditions in Western countries led investors to shift capital away from India, prompting a sharp depreciation of the rupee through 2016.</p> <p> </p> <p>The economy slowed again in 2017, due to shocks of "demonetizaton" in 2016 and introduction of GST in 2017. Since the election, the government has passed an important goods and services tax bill and raised foreign direct investment caps in some sectors, but most economic reforms have focused on administrative and governance changes, largely because the ruling party remains a minority in India’s upper house of Parliament, which must approve most bills.</p> <p> </p> <p>India has a young population and corresponding low dependency ratio, healthy savings and investment rates, and is increasing integration into the global economy. However, long-term challenges remain significant, including: India's discrimination against women and girls, an inefficient power generation and distribution system, ineffective enforcement of intellectual property rights, decades-long civil litigation dockets, inadequate transport and agricultural infrastructure, limited non-agricultural employment opportunities, high spending and poorly targeted subsidies, inadequate availability of quality basic and higher education, and accommodating rural-to-urban migration.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
-$8.443 trillion (2020 est.)<br>
-$9.174 trillion (2019 est.)<br>
-$8.817 trillion (2018 est.)<br>
+$9.279 trillion (2021 est.)<br>
+$8.538 trillion (2020 est.)<br>
+$9.14 trillion (2019 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
-4.86% (2019 est.)<br>
-6.78% (2018 est.)<br>
-6.55% (2017 est.)<br>
+8.68% (2021 est.)<br>
+-6.6% (2020 est.)<br>
+3.74% (2019 est.)<br>
 
 **Real GDP per capita**<br>
+$6,600 (2021 est.)<br>
 $6,100 (2020 est.)<br>
-$6,700 (2019 est.)<br>
-$6,500 (2018 est.)<br>
+$6,600 (2019 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
 $2.836 trillion (2019 est.)<br>
 
 **Inflation rate (consumer prices)**<br>
-3.7% (2019 est.)<br>
-3.9% (2018 est.)<br>
-3.3% (2017 est.)<br>
+5.13% (2021 est.)<br>
+6.62% (2020 est.)<br>
+3.73% (2019 est.)<br>
 
 **Credit ratings**<br>
 _Fitch rating_: BBB- (2006)<br>
@@ -489,10 +489,10 @@ sugar cane, rice, wheat, buffalo milk, milk, potatoes, vegetables, bananas, maiz
 textiles, chemicals, food processing, steel, transportation equipment, cement, mining, petroleum, machinery, software, pharmaceuticals<br>
 
 **Industrial production growth rate**<br>
-5.5% (2017 est.)<br>
+10.27% (2021 est.)<br>
 
 **Labor force**<br>
-521.9 million (2017 est.)<br>
+476.67 million (2021 est.)<br>
 
 **Labor force - by occupation**<br>
 _agriculture_: 47%<br>
@@ -500,20 +500,20 @@ _industry_: 22%<br>
 _services_: 31% (FY 2014 est.)<br>
 
 **Unemployment rate**<br>
-8.5% (2017 est.)<br>
-8.5% (2016 est.)<br>
+5.98% (2021 est.)<br>
+8% (2020 est.)<br>
+5.27% (2019 est.)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 19.8%<br>
-_male_: 19.5%<br>
-_female_: 21% (2020 est.)<br>
+_total_: 28.3%<br>
+_male_: 28.6%<br>
+_female_: 26.7% (2021 est.)<br>
 
 **Population below poverty line**<br>
 21.9% (2011 est.)<br>
 
 **Gini Index coefficient - distribution of family income**<br>
-35.7 (2011 est.)<br>
-37.8 (1997)<br>
+35.7 (2019 est.)<br>
 
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 3.6%<br>
@@ -527,24 +527,26 @@ _expenditures_: 329 billion (2017 est.)<br>
 -3.5% (of GDP) (2017 est.)<br>
 
 **Public debt**<br>
-71.2% of GDP (2017 est.)<br>
-69.5% of GDP (2016 est.)<br>
+46.52% of GDP (2018 est.)<br>
+47.58% of GDP (2017 est.)<br>
+47.63% of GDP (2016 est.)<br>
 <strong>note:</strong> data cover central government debt, and exclude debt instruments issued (or owned) by government entities other than the treasury; the data include treasury debt held by foreign entities; the data exclude debt issued by subnational entities, as well as intragovernmental debt; intragovernmental debt consists of treasury borrowings from surpluses in the social funds, such as for retirement, medical care, and unemployment; debt instruments for the social funds are not sold at public auctions<br>
 
 **Taxes and other revenues**<br>
-9.2% (of GDP) (2017 est.)<br>
+12.02% (of GDP) (2018 est.)<br>
 
 **Fiscal year**<br>
 1 April - 31 March<br>
 
 **Current account balance**<br>
--$29.748 billion (2019 est.)<br>
--$65.939 billion (2018 est.)<br>
+-$33.422 billion (2021 est.)<br>
+$32.73 billion (2020 est.)<br>
+-$29.763 billion (2019 est.)<br>
 
 **Exports**<br>
-$484.95 billion (2020 est.) note: data are in current year dollars<br>
-$546.03 billion (2019 est.) note: data are in current year dollars<br>
-$537.04 billion (2018 est.) note: data are in current year dollars<br>
+$643.08 billion (2021 est.) note: data are in current year dollars<br>
+$484.691 billion (2020 est.) note: data are in current year dollars<br>
+$546.033 billion (2019 est.) note: data are in current year dollars<br>
 
 **Exports - partners**<br>
 United States 17%, United Arab Emirates 9%, China 5% (2019)<br>
@@ -553,9 +555,9 @@ United States 17%, United Arab Emirates 9%, China 5% (2019)<br>
 refined petroleum, diamonds, packaged medicines, jewelry, cars (2019)<br>
 
 **Imports**<br>
-$493.18 billion (2020 est.) note: data are in current year dollars<br>
-$619.48 billion (2019 est.) note: data are in current year dollars<br>
-$642.96 billion (2018 est.) note: data are in current year dollars<br>
+$717.119 billion (2021 est.) note: data are in current year dollars<br>
+$493.033 billion (2020 est.) note: data are in current year dollars<br>
+$619.485 billion (2019 est.) note: data are in current year dollars<br>
 
 **Imports - partners**<br>
 China 15%, United States 7%, United Arab Emirates 6%, Saudi Arabia 5% (2019)<br>
@@ -564,8 +566,9 @@ China 15%, United States 7%, United Arab Emirates 6%, Saudi Arabia 5% (2019)<br>
 crude petroleum, gold, coal, diamonds, natural gas (2019)<br>
 
 **Reserves of foreign exchange and gold**<br>
-$409.8 billion (31 December 2017 est.)<br>
-$359.7 billion (31 December 2016 est.)<br>
+$638.485 billion (31 December 2021 est.)<br>
+$590.227 billion (31 December 2020 est.)<br>
+$463.47 billion (31 December 2019 est.)<br>
 
 **Debt - external**<br>
 $555.388 billion (2019 est.)<br>
@@ -573,11 +576,11 @@ $518.34 billion (2018 est.)<br>
 
 **Exchange rates**<br>
 _Currency_: Indian rupees (INR) per US dollar -<br>
-73.565 (2020 est.)<br>
-71.05 (2019 est.)<br>
-70.7675 (2018 est.)<br>
-64.152 (2014 est.)<br>
-61.03 (2013 est.)<br>
+73.918 (2021 est.)<br>
+74.1 (2020 est.)<br>
+70.42 (2019 est.)<br>
+68.389 (2018 est.)<br>
+65.122 (2017 est.)<br>
 
 ## Energy
 
@@ -770,7 +773,7 @@ Harakat ul-Mujahidin; Harakat ul-Jihad-i-Islami; Hizbul Mujahideen; Indian Mujah
 <p><em>India-China:</em> since China and India launched a security and foreign policy dialogue in 2005, consolidated discussions related to the dispute over most of their rugged, militarized boundary, regional nuclear proliferation, Indian claims that China transferred missiles to Pakistan, and other matters continue; Kashmir remains the site of the world's largest and most militarized territorial dispute with portions under the de facto administration of China (Aksai Chin), India (Jammu and Kashmir), and Pakistan (Azad Kashmir and Northern Areas)</p> <p><em>India-Pakistan:</em> India and Pakistan resumed bilateral dialogue in February 2011 after a two-year hiatus, have maintained the 2003 cease-fire in Kashmir, and continue to have disputes over water sharing of the Indus River and its tributaries; UN Military Observer Group in India and Pakistan has maintained a small group of peacekeepers since 1949; India does not recognize Pakistan's ceding historic Kashmir lands to China in 1964; to defuse tensions and prepare for discussions on a maritime boundary, India and Pakistan seek technical resolution of the disputed boundary in Sir Creek estuary at the mouth of the Rann of Kutch in the Arabian Sea; Pakistani maps continue to show its Junagadh claim in Indian Gujarat State</p> <p><em>India-Bangladesh:</em> Prime Minister SINGH's September 2011 visit to Bangladesh resulted in the signing of a Protocol to the 1974 Land Boundary Agreement between India and Bangladesh, which had called for the settlement of longstanding boundary disputes over un-demarcated areas and the exchange of territorial enclaves, but which had never been implemented; Bangladesh referred its maritime boundary claims with Burma and India to the International Tribunal on the Law of the Sea</p> <p><em>India-Nepal:</em> the Joint Border Committee with Nepal continues to examine contested boundary sections, including the 400 sq km dispute over the source of the Kalapani River; India maintains a strict border regime to keep out Maoist insurgents and control illegal cross-border activities from Nepal</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 92,885 (Sri Lanka), 73,407 (Tibet/China), 20,325 (Burma), 8,537 (Afghanistan) (mid-year 2021)<br>
+_refugees (country of origin)_: 92,131 (Sri Lanka), 72,315 (Tibet/China), 57,748 (Burma), 10,064 (Afghanistan) (mid-year 2022)<br>
 _IDPs_: 506,000 (armed conflict and intercommunal violence) (2021)<br>
 _stateless persons_: 19,677 (mid-year 2021)<br>
 

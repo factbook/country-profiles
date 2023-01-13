@@ -154,7 +154,7 @@ _female_: 76.66 years (2022 est.)<br>
 2.24 children born/woman (2022 est.)<br>
 
 **Gross reproduction rate**<br>
-1.09 (2022 est.)<br>
+1.08 (2023 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 NA<br>
@@ -195,11 +195,11 @@ _wine_: 0.13 liters of pure alcohol (2019 est.)<br>
 _spirits_: 0.52 liters of pure alcohol (2019 est.)<br>
 _other alcohols_: 0.01 liters of pure alcohol (2019 est.)<br>
 
-**Currently married women (ages 15-49)**<br>
-51.5% (2022 est.)<br>
-
 **Children under the age of 5 years underweight**<br>
 NA<br>
+
+**Currently married women (ages 15-49)**<br>
+51.7% (2023 est.)<br>
 
 **Education expenditures**<br>
 9.7% of GDP (2018 est.)<br>
@@ -366,27 +366,28 @@ _selected World Heritage Site locales_: Nan Madol: Ceremonial Center of Eastern 
 <p>Economic activity consists largely of subsistence farming and fishing, and government, which employs two-thirds of the adult working population and receives funding largely - 58% in 2013 – from Compact of Free Association assistance provided by the US. The islands have few commercially valuable mineral deposits. The potential for tourism is limited by isolation, lack of adequate facilities, and limited internal air and water transportation.</p> <p> </p> <p>Under the terms of the original Compact, the US provided $1.3 billion in grants and aid from 1986 to 2001. The US and the Federated States of Micronesia (FSM) negotiated a second (amended) Compact agreement in 2002-03 that took effect in 2004. The amended Compact runs for a 20-year period to 2023; during which the US will provide roughly $2.1 billion to the FSM. The amended Compact also develops a trust fund for the FSM that will provide a comparable income stream beyond 2024 when Compact grants end.</p> <p> </p> <p>The country's medium-term economic outlook appears fragile because of dependence on US assistance and lackluster performance of its small and stagnant private sector.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
-$390 million (2019 est.)<br>
-$390 million (2018 est.)<br>
-$389 million (2017 est.)<br>
+$375.055 million (2021 est.)<br>
+$387.407 million (2020 est.)<br>
+$394.369 million (2019 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
-2% (2017 est.)<br>
-2.9% (2016 est.)<br>
-3.9% (2015 est.)<br>
+-3.19% (2021 est.)<br>
+-1.77% (2020 est.)<br>
+1.17% (2019 est.)<br>
 
 **Real GDP per capita**<br>
-$3,500 (2019 est.) note: data are in 2017 dollars<br>
-$3,500 (2018 est.) note: data are in 2017 dollars<br>
-$3,200 (2015 est.)<br>
+$3,300 (2021 est.) note: data are in 2017 dollars<br>
+$3,500 (2020 est.) note: data are in 2017 dollars<br>
+$3,500 (2019 est.)<br>
 
 **GDP (official exchange rate)**<br>
 $328 million (2017 est.)<br>
 
 **Inflation rate (consumer prices)**<br>
-0.5% (2017 est.)<br>
-0.5% (2016 est.)<br>
+0.55% (2020 est.)<br>
+1.54% (2019 est.)<br>
+1.79% (2018 est.)<br>
 
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 26.3% (2013 est.)<br>
@@ -408,7 +409,7 @@ coconuts, cassava, vegetables, sweet potatoes, bananas, pork, plantains, fruit, 
 tourism, construction; specialized aquaculture, craft items (shell and wood)<br>
 
 **Industrial production growth rate**<br>
-NA<br>
+-8.33% (2021 est.) NA<br>
 
 **Labor force**<br>
 37,920 (2010 est.)<br>
@@ -445,11 +446,12 @@ _expenditures_: 192.1 million (FY12/13 est.)<br>
 6.6% (of GDP) (FY12/13 est.)<br>
 
 **Public debt**<br>
-24.5% of GDP (2017 est.)<br>
-25.3% of GDP (2016 est.)<br>
+25.4% of GDP (2020 est.)<br>
+23.1% of GDP (2019 est.)<br>
+23.11% of GDP (2018 est.)<br>
 
 **Taxes and other revenues**<br>
-65.2% (of GDP) (FY12/13 est.)<br>
+6.43% (of GDP) (2020 est.)<br>
 
 **Fiscal year**<br>
 1 October - 30 September<br>
@@ -478,15 +480,21 @@ United States 32%, China 16%, Japan 14%, Taiwan 9%, Philippines 6%, South Korea 
 poultry meats, netting, broadcasting equipment, various meats, fish products (2019)<br>
 
 **Reserves of foreign exchange and gold**<br>
-$203.7 million (31 December 2017 est.)<br>
-$135.1 million (31 December 2015 est.)<br>
+$497,434,100 (31 December 2021 est.)<br>
+$451,912,600 (31 December 2020 est.)<br>
+$397,158,200 (31 December 2019 est.)<br>
 
 **Debt - external**<br>
 $93.6 million (2013 est.)<br>
 $93.5 million (2012 est.)<br>
 
 **Exchange rates**<br>
-<p>the US dollar is used</p><br>
+1 (2021 est.)<br>
+1 (2020 est.)<br>
+1 (2019 est.)<br>
+1 (2018 est.)<br>
+1 (2017 est.)<br>
+the US dollar is used<br>
 
 ## Energy
 

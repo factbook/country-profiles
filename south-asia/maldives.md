@@ -160,7 +160,7 @@ _female_: 79.42 years (2022 est.)<br>
 1.71 children born/woman (2022 est.)<br>
 
 **Gross reproduction rate**<br>
-0.83 (2022 est.)<br>
+0.83 (2023 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 18.8% (2016/17)<br>
@@ -208,11 +208,11 @@ _total_: 25.2% (2020 est.)<br>
 _male_: 44.4% (2020 est.)<br>
 _female_: 6% (2020 est.)<br>
 
-**Currently married women (ages 15-49)**<br>
-71.7% (2022 est.)<br>
-
 **Children under the age of 5 years underweight**<br>
 14.8% (2016/17)<br>
+
+**Currently married women (ages 15-49)**<br>
+71.9% (2023 est.)<br>
 
 **Child marriage**<br>
 _women married by age 15_: 0%<br>
@@ -234,9 +234,9 @@ _male_: 12 years<br>
 _female_: 14 years (2019)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 13.9%<br>
-_male_: 9.7%<br>
-_female_: 17.2% (2019 est.)<br>
+_total_: 17.7%<br>
+_male_: 19.9%<br>
+_female_: 12.6% (2021 est.)<br>
 
 ## Environment
 
@@ -380,28 +380,29 @@ _lyrics/music_: Mohamed Jameel DIDI/Wannakuwattawaduge DON AMARADEVA<br>
 <p>Maldives has quickly become a middle-income country, driven by the rapid growth of its tourism and fisheries sectors, but the country still contends with a large and growing fiscal deficit. Infrastructure projects, largely funded by China, could add significantly to debt levels. Political turmoil and the declaration of a state of emergency in February 2018 led to the issuance of travel warnings by several countries whose citizens visit Maldives in significant numbers, but the overall impact on tourism revenue was unclear.</p> <p> </p> <p>In 2015, Maldives’ Parliament passed a constitutional amendment legalizing foreign ownership of land; foreign land-buyers must reclaim at least 70% of the desired land from the ocean and invest at least $1 billion in a construction project approved by Parliament.</p> <p> </p> <p>Diversifying the economy beyond tourism and fishing, reforming public finance, increasing employment opportunities, and combating corruption, cronyism, and a growing drug problem are near-term challenges facing the government. Over the longer term, Maldivian authorities worry about the impact of erosion and possible global warming on their low-lying country; 80% of the area is 1 meter or less above sea level.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
-$7.05 billion (2020 est.)<br>
-$10.37 billion (2019 est.)<br>
-$9.69 billion (2018 est.)<br>
+$9.785 billion (2021 est.)<br>
+$6.903 billion (2020 est.)<br>
+$10.38 billion (2019 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
-4.8% (2017 est.)<br>
-4.5% (2016 est.)<br>
-2.2% (2015 est.)<br>
+41.75% (2021 est.)<br>
+-33.49% (2020 est.)<br>
+7.1% (2019 est.)<br>
 
 **Real GDP per capita**<br>
-$13,000 (2020 est.)<br>
-$19,500 (2019 est.)<br>
-$18,800 (2018 est.)<br>
+$18,800 (2021 est.)<br>
+$13,400 (2020 est.)<br>
+$20,600 (2019 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
 $4.505 billion (2017 est.)<br>
 
 **Inflation rate (consumer prices)**<br>
-2.3% (2017 est.)<br>
-0.8% (2016 est.)<br>
+0.54% (2021 est.)<br>
+-1.37% (2020 est.)<br>
+0.22% (2019 est.)<br>
 
 **Credit ratings**<br>
 _Fitch rating_: CCC (2020)<br>
@@ -428,10 +429,10 @@ papayas, vegetables, roots/tubers nes, nuts, fruit, other meat, tomatoes, coconu
 tourism, fish processing, shipping, boat building, coconut processing, woven mats, rope, handicrafts, coral and sand mining<br>
 
 **Industrial production growth rate**<br>
-14% (2012 est.)<br>
+4.51% (2021 est.)<br>
 
 **Labor force**<br>
-222,200 (2017 est.)<br>
+229,300 (2021 est.)<br>
 
 **Labor force - by occupation**<br>
 _agriculture_: 7.7%<br>
@@ -439,20 +440,20 @@ _industry_: 22.8%<br>
 _services_: 69.5% (2017 est.)<br>
 
 **Unemployment rate**<br>
-2.9% (2017 est.)<br>
-3.2% (2016 est.)<br>
+6.08% (2021 est.)<br>
+6.33% (2020 est.)<br>
+5.34% (2019 est.)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 13.9%<br>
-_male_: 9.7%<br>
-_female_: 17.2% (2019 est.)<br>
+_total_: 17.7%<br>
+_male_: 19.9%<br>
+_female_: 12.6% (2021 est.)<br>
 
 **Population below poverty line**<br>
 8.2% (2016 est.)<br>
 
 **Gini Index coefficient - distribution of family income**<br>
-31.3 (2016 est.)<br>
-37.4 (2004 est.)<br>
+29.3 (2019 est.)<br>
 
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 1.2%<br>
@@ -476,12 +477,14 @@ _expenditures_: 1.643 billion (2016 est.)<br>
 calendar year<br>
 
 **Current account balance**<br>
--$876 million (2017 est.)<br>
--$1.033 billion (2016 est.)<br>
+-$457.562 million (2021 est.)<br>
+-$1.327 billion (2020 est.)<br>
+-$1.49 billion (2019 est.)<br>
 
 **Exports**<br>
-$3.72 billion (2019 est.) note: data are in current year dollars<br>
-$3.58 billion (2018 est.) note: data are in current year dollars<br>
+$3.95 billion (2021 est.) note: data are in current year dollars<br>
+$1.787 billion (2020 est.) note: data are in current year dollars<br>
+$3.742 billion (2019 est.)<br>
 
 **Exports - partners**<br>
 Thailand 24%, United States 13%, China 12%, France 11%, Germany 11%, Italy 5%, United Kingdom 5% (2019)<br>
@@ -490,8 +493,9 @@ Thailand 24%, United States 13%, China 12%, France 11%, Germany 11%, Italy 5%, U
 fish products, natural gas, scrap iron, jewelry, liquid pumps (2019)<br>
 
 **Imports**<br>
-$4.09 billion (2019 est.) note: data are in current year dollars<br>
-$4.1 billion (2018 est.) note: data are in current year dollars<br>
+$3.501 billion (2021 est.) note: data are in current year dollars<br>
+$2.449 billion (2020 est.) note: data are in current year dollars<br>
+$4.09 billion (2019 est.)<br>
 
 **Imports - partners**<br>
 United Arab Emirates 24%, China 16%, Singapore 14%, India 11%, Malaysia 6%, Thailand 5% (2019)<br>
@@ -500,8 +504,9 @@ United Arab Emirates 24%, China 16%, Singapore 14%, India 11%, Malaysia 6%, Thai
 refined petroleum, fruits, furniture, broadcasting equipment, lumber (2019)<br>
 
 **Reserves of foreign exchange and gold**<br>
-$477.9 million (31 December 2016 est.)<br>
-$575.8 million (31 December 2015 est.)<br>
+$805,808,200 (31 December 2021 est.)<br>
+$984,930,700 (31 December 2020 est.)<br>
+$753,496,300 (31 December 2019 est.)<br>
 
 **Debt - external**<br>
 $848.8 million (31 December 2016 est.)<br>
@@ -509,8 +514,11 @@ $696.2 million (31 December 2015 est.)<br>
 
 **Exchange rates**<br>
 _Currency_: rufiyaa (MVR) per US dollar -<br>
-15.42 (2017 est.)<br>
-15.35 (2016 est.)<br>
+15.373 (2021 est.)<br>
+15.381 (2020 est.)<br>
+15.382 (2019 est.)<br>
+15.391 (2018 est.)<br>
+15.387 (2017 est.)<br>
 
 ## Energy
 

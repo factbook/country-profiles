@@ -170,7 +170,7 @@ _female_: 76.62 years (2022 est.)<br>
 2.22 children born/woman (2022 est.)<br>
 
 **Gross reproduction rate**<br>
-1.08 (2022 est.)<br>
+1.07 (2023 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 75% (2010)<br>
@@ -219,11 +219,11 @@ _wine_: 0.01 liters of pure alcohol (2019 est.)<br>
 _spirits_: 0.92 liters of pure alcohol (2019 est.)<br>
 _other alcohols_: 0.03 liters of pure alcohol (2019 est.)<br>
 
-**Currently married women (ages 15-49)**<br>
-52% (2022 est.)<br>
-
 **Children under the age of 5 years underweight**<br>
 NA<br>
+
+**Currently married women (ages 15-49)**<br>
+51.5% (2023 est.)<br>
 
 **Education expenditures**<br>
 1.3% of GDP (2017 est.)<br>
@@ -235,9 +235,9 @@ _male_: 97%<br>
 _female_: 97.2% (2016)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 13.6%<br>
-_male_: 16.8% NA<br>
-_female_: 11.7% (2020 est.) NA<br>
+_total_: 14.9%<br>
+_male_: 13.4% NA<br>
+_female_: 19.3% (2021 est.) NA<br>
 
 ## Environment
 
@@ -453,7 +453,7 @@ agricultural products, livestock, raw materials, machinery and equipment, transp
 -2% (2017 est.)<br>
 
 **Labor force**<br>
-14.21 million (2017 est.)<br>
+10.245 million (2021 est.)<br>
 
 **Labor force - by occupation**<br>
 _agriculture_: 7.3%<br>
@@ -461,20 +461,20 @@ _industry_: 21.8%<br>
 _services_: 70.9% (4th quarter, 2011 est.)<br>
 
 **Unemployment rate**<br>
-6.9% (2018 est.)<br>
-27.1% (2017 est.)<br>
+6.41% (2021 est.)<br>
+6.63% (2020 est.)<br>
+5.1% (2019 est.)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 13.6%<br>
-_male_: 16.8% NA<br>
-_female_: 11.7% (2020 est.) NA<br>
+_total_: 14.9%<br>
+_male_: 13.4% NA<br>
+_female_: 19.3% (2021 est.) NA<br>
 
 **Population below poverty line**<br>
 33.1% (2015 est.)<br>
 
 **Gini Index coefficient - distribution of family income**<br>
 39 (2011)<br>
-49.5 (1998)<br>
 
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 1.7%<br>
@@ -499,7 +499,6 @@ _expenditures_: 189.7 billion (2017 est.)<br>
 calendar year<br>
 
 **Current account balance**<br>
-$4.277 billion (2017 est.)<br>
 -$3.87 billion (2016 est.)<br>
 
 **Exports**<br>
@@ -523,7 +522,7 @@ China 28%, United States 22%, Brazil 8%, Spain 6%, Mexico 6%&nbsp; (2019)<br>
 refined petroleum, rice, corn, tires, soybean meal, wheat (2019)<br>
 
 **Reserves of foreign exchange and gold**<br>
-$9.661 billion (31 December 2017 est.)<br>
+$9.794 billion (31 December 2017 est.)<br>
 $11 billion (31 December 2016 est.)<br>
 
 **Debt - external**<br>
@@ -532,11 +531,11 @@ $109.8 billion (31 December 2016 est.)<br>
 
 **Exchange rates**<br>
 _Currency_: bolivars (VEB) per US dollar -<br>
-3,345 (2017 est.)<br>
-673.76 (2016 est.)<br>
-48.07 (2015 est.)<br>
-13.72 (2014 est.)<br>
-6.284 (2013 est.)<br>
+9.975 (2017 est.)<br>
+9.257 (2016 est.)<br>
+6.284 (2015 est.)<br>
+6.284 (2014 est.)<br>
+6.048 (2013 est.)<br>
 
 ## Energy
 
@@ -725,7 +724,7 @@ National Liberation Army (ELN); Revolutionary Armed Forces of Colombia-People's 
 <p><em>Venezuela-Brazil</em>: none identified</p> <p><em>Venezuela-Colombia</em>: dispute with Colombia over maritime boundary and Venezuelan administered Los Monjes Islands near the Gulf of Venezuela; Colombian-organized illegal narcotics and paramilitary activities penetrate Venezuela's shared border region; the border between the two countries was closed from March 2020 to October 2021 due to COVID, but goods and people fleeing poverty and violence continued to be smuggled from Venezuela into Colombia, and illegal narcotics and armed men flowed into Venezuela from Colombia; since the FARC disarmed in 2016, some former members have formed armed dissident groups that operate along the border</p> <p><em>Venezuela-Guyana</em>: claims all of the area west of the Essequibo River in Guyana, preventing any discussion of a maritime boundary; Guyana has expressed its intention to join Barbados in asserting claims before the UN Convention on the Law of the Sea that Trinidad and Tobago's maritime boundary with Venezuela extends into their waters; in 2018, Guyana initiated proceedings against Venezuela with the International Court of Justice (ICJ); Venezuela requested a direct dialogue to settle the dispute; the ICJ ruled that it had jurisdiction to hear the case in December 2020; in September 2021, Venezuelan officials issued a statement reasserting dominion over three-quarters of Guyana, which Guyana stated was a threat to its sovereignty and territorial integrity</p> <p><em>Venezuela-various:</em>  Venezuela claims Aves Island and thereby an economic exclusion Zone/continental shelf extending over a large portion of the eastern Caribbean Sea; Venezuela’s claim to Aves Island is disputed by Dominica and several other countries because the island has rich guano deposits useful in producing fertilizer and gunpowder, as well as large fish stocks and natural gas reserves; contraband smuggling (narcotics and arms), illegal migration, trafficking in animals, plants, lumber, illegal exploitation of mineral resources</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 67,935 (Colombia) (2020)<br>
+_refugees (country of origin)_: 39,185 (Colombia) (mid-year 2022)<br>
 <strong>note: </strong>As of September 2022, host governments report more than 7.1 million Venezuelan refugees and migrants worldwide<br>
 
 **Trafficking in persons**<br>

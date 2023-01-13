@@ -169,7 +169,7 @@ _female_: 85.04 years (2022 est.)<br>
 1.51 children born/woman (2022 est.)<br>
 
 **Gross reproduction rate**<br>
-0.73 (2022 est.)<br>
+0.74 (2023 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 79% (2019)<br>
@@ -215,11 +215,11 @@ _total_: 26.4% (2020 est.)<br>
 _male_: 27.7% (2020 est.)<br>
 _female_: 25% (2020 est.)<br>
 
-**Currently married women (ages 15-49)**<br>
-58.5% (2022 est.)<br>
-
 **Children under the age of 5 years underweight**<br>
 NA<br>
+
+**Currently married women (ages 15-49)**<br>
+58.7% (2023 est.)<br>
 
 **Education expenditures**<br>
 5.1% of GDP (2020 est.)<br>
@@ -235,8 +235,8 @@ _male_: 16 years<br>
 _female_: 16 years (2020)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 11%<br>
-_male_: 10.7%<br>
+_total_: 11.4%<br>
+_male_: 11.5%<br>
 _female_: 11.3% (2021 est.)<br>
 
 ## Environment
@@ -404,29 +404,29 @@ _selected World Heritage Site locales_: Historic Salzburg (c); Palace and Garden
 <p>Austria is a well-developed market economy with skilled labor force and high standard of living. It is closely tied to other EU economies, especially Germany's, but also the US’, its third-largest trade partner. Its economy features a large service sector, a sound industrial sector, and a small, but highly developed agricultural sector.</p> <p>Austrian economic growth strengthened in 2017, with a 2.9% increase in GDP. Austrian exports, accounting for around 60% of the GDP, were up 8.2% in 2017. Austria’s unemployment rate fell by 0.3% to 5.5%, which is low by European standards, but still at its second highest rate since the end of World War II, driven by an increased number of refugees and EU migrants entering the labor market.</p> <p>Austria's fiscal position compares favorably with other euro-zone countries. The budget deficit stood at a low 0.7% of GDP in 2017 and public debt declined again to 78.4% of GDP in 2017, after reaching a post-war high 84.6% in 2015. The Austrian government has announced it plans to balance the fiscal budget in 2019. Several external risks, such as Austrian banks' exposure to Central and Eastern Europe, the refugee crisis, and continued unrest in Russia/Ukraine, eased in 2017, but are still a factor for the Austrian economy. Exposure to the Russian banking sector and a deep energy relationship with Russia present additional risks.</p> <p>Austria elected a new pro-business government in October 2017 that campaigned on promises to reduce bureaucracy, improve public sector efficiency, reduce labor market protections, and provide positive investment incentives.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
-$463.12 billion (2020 est.)<br>
-$495.8 billion (2019 est.)<br>
-$488.86 billion (2018 est.)<br>
+$484.698 billion (2021 est.)<br>
+$463.574 billion (2020 est.)<br>
+$495.557 billion (2019 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
-1.42% (2019 est.)<br>
-2.58% (2018 est.)<br>
-2.4% (2017 est.)<br>
+4.56% (2021 est.)<br>
+-6.45% (2020 est.)<br>
+1.52% (2019 est.)<br>
 
 **Real GDP per capita**<br>
-$51,900 (2020 est.)<br>
+$54,100 (2021 est.)<br>
+$52,000 (2020 est.)<br>
 $55,800 (2019 est.)<br>
-$55,300 (2018 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
 $445.025 billion (2019 est.)<br>
 
 **Inflation rate (consumer prices)**<br>
-1.5% (2019 est.)<br>
-2% (2018 est.)<br>
-2% (2017 est.)<br>
+2.77% (2021 est.)<br>
+1.38% (2020 est.)<br>
+1.53% (2019 est.)<br>
 
 **Credit ratings**<br>
 _Fitch rating_: AA+ (2015)<br>
@@ -454,10 +454,10 @@ milk, maize, sugar beet, wheat, barley, potatoes, pork, triticale, grapes, apple
 construction, machinery, vehicles and parts, food, metals, chemicals, lumber and paper, electronics, tourism<br>
 
 **Industrial production growth rate**<br>
-6.5% (2017 est.)<br>
+6.77% (2021 est.)<br>
 
 **Labor force**<br>
-3.739 million (2020 est.)<br>
+4.661 million (2021 est.)<br>
 
 **Labor force - by occupation**<br>
 _agriculture_: 0.7%<br>
@@ -465,20 +465,20 @@ _industry_: 25.2%<br>
 _services_: 74.1% (2017 est.)<br>
 
 **Unemployment rate**<br>
-7.35% (2019 est.)<br>
-7.7% (2018 est.)<br>
+6.3% (2021 est.)<br>
+5.36% (2020 est.)<br>
+4.49% (2019 est.)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 11%<br>
-_male_: 10.7%<br>
+_total_: 11.4%<br>
+_male_: 11.5%<br>
 _female_: 11.3% (2021 est.)<br>
 
 **Population below poverty line**<br>
 13.3% (2018 est.)<br>
 
 **Gini Index coefficient - distribution of family income**<br>
-29.7 (2017 est.)<br>
-30.5 (2014)<br>
+30.2 (2019 est.)<br>
 
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 2.8%<br>
@@ -492,24 +492,26 @@ _expenditures_: 204.6 billion (2017 est.)<br>
 -0.7% (of GDP) (2017 est.)<br>
 
 **Public debt**<br>
-78.6% of GDP (2017 est.)<br>
-83.6% of GDP (2016 est.)<br>
+99.91% of GDP (2020 est.)<br>
+83.05% of GDP (2019 est.)<br>
+84.16% of GDP (2018 est.)<br>
 <strong>note:</strong> this is general government gross debt, defined in the Maastricht Treaty as consolidated general government gross debt at nominal value, outstanding at the end of the year; it covers the following categories of government liabilities (as defined in ESA95): currency and deposits (AF.2), securities other than shares excluding financial derivatives (AF.3, excluding AF.34), and loans (AF.4); the general government sector comprises the sub-sectors of central government, state government, local government and social security funds; as a percentage of GDP, the GDP used as a denominator is the gross domestic product in current year prices<br>
 
 **Taxes and other revenues**<br>
-48.3% (of GDP) (2017 est.)<br>
+24.19% (of GDP) (2020 est.)<br>
 
 **Fiscal year**<br>
 calendar year<br>
 
 **Current account balance**<br>
-$12.667 billion (2019 est.)<br>
-$5.989 billion (2018 est.)<br>
+$1.627 billion (2021 est.)<br>
+$12.897 billion (2020 est.)<br>
+$10.636 billion (2019 est.)<br>
 
 **Exports**<br>
-$226.79 billion (2020 est.)<br>
-$247.17 billion (2019 est.)<br>
-$253.3 billion (2018 est.)<br>
+$268.277 billion (2021 est.)<br>
+$224.734 billion (2020 est.)<br>
+$247.738 billion (2019 est.)<br>
 <strong>note:</strong> Data are in current year dollars and do not include illicit exports or re-exports.<br>
 
 **Exports - partners**<br>
@@ -519,9 +521,9 @@ Germany 28%, United States 7%, Italy 6%, Switzerland 5% (2019)<br>
 cars, packaged medical supplies, vehicle parts, medical vaccines/cultures, flavored water (2019)<br>
 
 **Imports**<br>
-$211.85 billion (2020 est.) note: data are in current year dollars<br>
-$232.8 billion (2019 est.) note: data are in current year dollars<br>
-$238.79 billion (2018 est.) note: data are in current year dollars<br>
+$265.769 billion (2021 est.) note: data are in current year dollars<br>
+$211.736 billion (2020 est.) note: data are in current year dollars<br>
+$231.992 billion (2019 est.) note: data are in current year dollars<br>
 
 **Imports - partners**<br>
 Germany 39%, Italy 7%, Czechia 5% (2019)<br>
@@ -530,8 +532,9 @@ Germany 39%, Italy 7%, Czechia 5% (2019)<br>
 cars, vehicle parts, broadcasting equipment, refined petroleum, packaged medical supplies (2019)<br>
 
 **Reserves of foreign exchange and gold**<br>
-$21.57 billion (31 December 2017 est.)<br>
-$23.36 billion (31 December 2016 est.)<br>
+$33.957 billion (31 December 2021 est.)<br>
+$30.44 billion (31 December 2020 est.)<br>
+$23.616 billion (31 December 2019 est.)<br>
 
 **Debt - external**<br>
 $688.434 billion (2019 est.)<br>
@@ -539,11 +542,11 @@ $686.196 billion (2018 est.)<br>
 
 **Exchange rates**<br>
 _Currency_: euros (EUR) per US dollar -<br>
-0.828 (2020 est.)<br>
-0.903 (2019 est.)<br>
-0.878 (2018 est.)<br>
-0.885 (2014 est.)<br>
-0.763 (2013 est.)<br>
+0.845 (2021 est.)<br>
+0.876 (2020 est.)<br>
+0.893 (2019 est.)<br>
+0.847 (2018 est.)<br>
+0.885 (2017 est.)<br>
 
 ## Energy
 
@@ -674,8 +677,7 @@ _under 914 m_: 24 (2021)<br>
 1,888 km gas, 594 km oil, 157 km refined products (2017)<br>
 
 **Railways**<br>
-_total_: 5,650 km (2020) 4,065 km electrified<br>
-_standard gauge_: 5,300 km 1.435-m gauge (3,826 km electrified) (2016)<br>
+_total_: 6,123 km (2022) 3,523 km electrified<br>
 
 **Roadways**<br>
 _total_: 137,039 km (2018)<br>
@@ -731,7 +733,7 @@ Islamic State of Iraq and ash-Sham (ISIS)<br>
 <p>none identified</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 57,887 (Syria), 41,037 (Afghanistan), 9,661 (Iraq), 8,212 (Somalia), 7,046 (Iran), 7,003 (Russia) (mid-year 2021); 90,591 (Ukraine) (as of 22 December 2022)<br>
+_refugees (country of origin)_: 67,588 (Syria), 43,725 (Afghanistan), 10,110 (Iraq), 8,684 (Somalia), 7,294 (Iran), 6,124 (Russia) (mid-year 2022); 90,994 (Ukraine) (as of 2 January 2023)<br>
 _stateless persons_: 3,229 (mid-year 2021)<br>
 
 **Illicit drugs**<br>

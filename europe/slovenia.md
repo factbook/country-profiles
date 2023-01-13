@@ -161,7 +161,7 @@ _female_: 84.79 years (2022 est.)<br>
 1.6 children born/woman (2022 est.)<br>
 
 **Gross reproduction rate**<br>
-0.78 (2022 est.)<br>
+0.78 (2023 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 NA<br>
@@ -208,11 +208,11 @@ _total_: 22% (2020 est.)<br>
 _male_: 24.4% (2020 est.)<br>
 _female_: 19.6% (2020 est.)<br>
 
-**Currently married women (ages 15-49)**<br>
-46.8% (2022 est.)<br>
-
 **Children under the age of 5 years underweight**<br>
 NA<br>
+
+**Currently married women (ages 15-49)**<br>
+46.4% (2023 est.)<br>
 
 **Education expenditures**<br>
 5.8% of GDP (2020 est.)<br>
@@ -229,9 +229,9 @@ _male_: 17 years<br>
 _female_: 18 years (2020)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 12.8%<br>
-_male_: 11.5%<br>
-_female_: 14.4% (2021 est.)<br>
+_total_: 13.9%<br>
+_male_: 12.7%<br>
+_female_: 15.5% (2021 est.)<br>
 
 ## Environment
 
@@ -392,29 +392,29 @@ _selected World Heritage Site locales_: &Scaron;kocjan Caves (n); Ancient and Pr
 <p>With excellent infrastructure, a well-educated work force, and a strategic location between the Balkans and Western Europe, Slovenia has one of the highest per capita GDPs in Central Europe, despite having suffered a protracted recession in the 2008-09 period in the wake of the global financial crisis. Slovenia became the first 2004 EU entrant to adopt the euro (on 1 January 2007) and has experienced a stable political and economic transition.</p> <p> </p> <p>In March 2004, Slovenia became the first transition country to graduate from borrower status to donor partner at the World Bank. In 2007, Slovenia was invited to begin the process for joining the OECD; it became a member in 2012. From 2014 to 2016, export-led growth, fueled by demand in larger European markets, pushed annual GDP growth above 2.3%. Growth reached 5.0% in 2017 and is projected to near or reach 5% in 2018. What used to be stubbornly high unemployment fell below 5.5% in early 2018, driven by strong exports and increasing consumption that boosted labor demand. Continued fiscal consolidation through increased tax collection and social security contributions will likely result in a balanced government budget in 2019.</p> <p> </p> <p>Prime Minister CERAR’s government took office in September 2014, pledging to press ahead with commitments to privatize a select group of state-run companies, rationalize public spending, and further stabilize the banking sector. Efforts to privatize Slovenia’s largely state-owned banking sector have largely stalled, however, amid concerns about an ongoing dispute over Yugoslav-era foreign currency deposits.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
-$76.75 billion (2020 est.)<br>
-$81.25 billion (2019 est.)<br>
-$78.74 billion (2018 est.)<br>
+$84.4 billion (2021 est.)<br>
+$77.996 billion (2020 est.)<br>
+$81.519 billion (2019 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
-2.4% (2019 est.)<br>
-4.24% (2018 est.)<br>
-5.14% (2017 est.)<br>
+8.21% (2021 est.)<br>
+-4.32% (2020 est.)<br>
+3.45% (2019 est.)<br>
 
 **Real GDP per capita**<br>
-$36,500 (2020 est.)<br>
-$38,900 (2019 est.)<br>
-$38,000 (2018 est.)<br>
+$40,000 (2021 est.)<br>
+$37,100 (2020 est.)<br>
+$39,000 (2019 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
 $54.16 billion (2019 est.)<br>
 
 **Inflation rate (consumer prices)**<br>
-1.6% (2019 est.)<br>
-1.7% (2018 est.)<br>
-1.4% (2017 est.)<br>
+1.92% (2021 est.)<br>
+-0.05% (2020 est.)<br>
+1.63% (2019 est.)<br>
 
 **Credit ratings**<br>
 _Fitch rating_: A (2019)<br>
@@ -442,10 +442,10 @@ milk, maize, wheat, grapes, barley, potatoes, poultry, apples, beef, pork<br>
 ferrous metallurgy and aluminum products, lead and zinc smelting; electronics (including military electronics), trucks, automobiles, electric power equipment, wood products, textiles, chemicals, machine tools<br>
 
 **Industrial production growth rate**<br>
-8.6% (2017 est.)<br>
+9.43% (2021 est.)<br>
 
 **Labor force**<br>
-885,000 (2020 est.)<br>
+1.036 million (2021 est.)<br>
 
 **Labor force - by occupation**<br>
 _agriculture_: 5.5%<br>
@@ -453,20 +453,20 @@ _industry_: 31.2%<br>
 _services_: 63.3% (2017 est.)<br>
 
 **Unemployment rate**<br>
-7.64% (2019 est.)<br>
-8.25% (2018 est.)<br>
+4.42% (2021 est.)<br>
+4.97% (2020 est.)<br>
+4.45% (2019 est.)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 12.8%<br>
-_male_: 11.5%<br>
-_female_: 14.4% (2021 est.)<br>
+_total_: 13.9%<br>
+_male_: 12.7%<br>
+_female_: 15.5% (2021 est.)<br>
 
 **Population below poverty line**<br>
 12% (2018 est.)<br>
 
 **Gini Index coefficient - distribution of family income**<br>
 24.2 (2017 est.)<br>
-24.5 (2015)<br>
 
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 3.8%<br>
@@ -485,19 +485,20 @@ _expenditures_: 21.06 billion (2017 est.)<br>
 <strong>note:</strong> defined by the EU's Maastricht Treaty as consolidated general government gross debt at nominal value, outstanding at the end of the year in the following categories of government liabilities: currency and deposits, securities other than shares excluding financial derivatives, and loans; general government sector comprises the central, state, local government, and social security funds<br>
 
 **Taxes and other revenues**<br>
-43.1% (of GDP) (2017 est.)<br>
+16.92% (of GDP) (2020 est.)<br>
 
 **Fiscal year**<br>
 calendar year<br>
 
 **Current account balance**<br>
-$3.05 billion (2019 est.)<br>
-$3.17 billion (2018 est.)<br>
+$2.372 billion (2021 est.)<br>
+$4.058 billion (2020 est.)<br>
+$3.23 billion (2019 est.)<br>
 
 **Exports**<br>
-$41.73 billion (2020 est.) note: data are in current year dollars<br>
-$45.41 billion (2019 est.) note: data are in current year dollars<br>
-$45.93 billion (2018 est.) note: data are in current year dollars<br>
+$51.634 billion (2021 est.) note: data are in current year dollars<br>
+$41.823 billion (2020 est.) note: data are in current year dollars<br>
+$45.516 billion (2019 est.) note: data are in current year dollars<br>
 
 **Exports - partners**<br>
 Germany 18%, Italy 11%, Croatia 8%, Austria 7%, France 5%, Switzerland 5% (2019)<br>
@@ -506,9 +507,9 @@ Germany 18%, Italy 11%, Croatia 8%, Austria 7%, France 5%, Switzerland 5% (2019)
 packaged medicines, cars and vehicle parts, refined petroleum, electrical lighting/signaling equipment, electricity (2019)<br>
 
 **Imports**<br>
-$36.6 billion (2020 est.) note: data are in current year dollars<br>
-$40.8 billion (2019 est.) note: data are in current year dollars<br>
-$41.32 billion (2018 est.) note: data are in current year dollars<br>
+$47.665 billion (2021 est.) note: data are in current year dollars<br>
+$36.804 billion (2020 est.) note: data are in current year dollars<br>
+$40.809 billion (2019 est.) note: data are in current year dollars<br>
 
 **Imports - partners**<br>
 Germany 14%, Italy 12%, Austria 8%, Switzerland 8%, China 7% (2019)<br>
@@ -517,8 +518,9 @@ Germany 14%, Italy 12%, Austria 8%, Switzerland 8%, China 7% (2019)<br>
 packaged medicines, cars and vehicle parts, refined petroleum, delivery trucks, electricity (2019)<br>
 
 **Reserves of foreign exchange and gold**<br>
-$889.9 million (31 December 2017 est.)<br>
-$853 million (31 December 2016 est.)<br>
+$2.267 billion (31 December 2021 est.)<br>
+$1.311 billion (31 December 2020 est.)<br>
+$1.015 billion (31 December 2019 est.)<br>
 
 **Debt - external**<br>
 $48.656 billion (2019 est.)<br>
@@ -526,11 +528,11 @@ $50.004 billion (2018 est.)<br>
 
 **Exchange rates**<br>
 _Currency_: euros (EUR) per US dollar -<br>
-0.82771 (2020 est.)<br>
-0.90338 (2019 est.)<br>
-0.87789 (2018 est.)<br>
-0.885 (2014 est.)<br>
-0.7634 (2013 est.)<br>
+0.845 (2021 est.)<br>
+0.876 (2020 est.)<br>
+0.893 (2019 est.)<br>
+0.847 (2018 est.)<br>
+0.885 (2017 est.)<br>
 
 ## Energy
 

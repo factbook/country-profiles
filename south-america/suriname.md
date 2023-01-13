@@ -162,7 +162,7 @@ _female_: 76.27 years (2022 est.)<br>
 1.92 children born/woman (2022 est.)<br>
 
 **Gross reproduction rate**<br>
-0.93 (2022 est.)<br>
+0.92 (2023 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 39.1% (2018)<br>
@@ -210,11 +210,11 @@ _wine_: 0.14 liters of pure alcohol (2019 est.)<br>
 _spirits_: 2.87 liters of pure alcohol (2019 est.)<br>
 _other alcohols_: 0.18 liters of pure alcohol (2019 est.)<br>
 
-**Currently married women (ages 15-49)**<br>
-52.1% (2022 est.)<br>
-
 **Children under the age of 5 years underweight**<br>
 6.7% (2018)<br>
+
+**Currently married women (ages 15-49)**<br>
+52.1% (2023 est.)<br>
 
 **Child marriage**<br>
 _women married by age 15_: 8.8%<br>
@@ -231,9 +231,9 @@ _male_: 96.1%<br>
 _female_: 92.7% (2018)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 26.5%<br>
-_male_: 18.7%<br>
-_female_: 39.9% (2016 est.)<br>
+_total_: 30.5%<br>
+_male_: 22.1%<br>
+_female_: 46.1% (2021 est.)<br>
 
 ## Environment
 
@@ -396,28 +396,29 @@ _selected World Heritage Site locales_: Central Suriname Nature Reserve (n); His
 <p>Suriname’s economy is dominated by the mining industry, with exports of oil and gold accounting for approximately 85% of exports and 27% of government revenues. This makes the economy highly vulnerable to mineral price volatility. The worldwide drop in international commodity prices and the cessation of alumina mining in Suriname significantly reduced government revenue and national income during the past few years. In November 2015, a major US aluminum company discontinued its mining activities in Suriname after 99 years of operation. Public sector revenues fell, together with exports, international reserves, employment, and private sector investment.</p> <p> </p> <p>Economic growth declined annually from just under 5% in 2012 to -10.4% in 2016. In January 2011, the government devalued the currency by 20% and raised taxes to reduce the budget deficit. Suriname began instituting macro adjustments between September 2015 and 2016; these included another 20% currency devaluation in November 2015 and foreign currency interventions by the Central Bank until March 2016, after which time the Bank allowed the Surinamese dollar (SRD) to float. By December 2016, the SRD had lost 46% of its value against the dollar. Depreciation of the Surinamese dollar and increases in tariffs on electricity caused domestic prices in Suriname to rise 22.0% year-over-year by December 2017.</p> <p> </p> <p>Suriname's economic prospects for the medium-term will depend on its commitment to responsible monetary and fiscal policies and on the introduction of structural reforms to liberalize markets and promote competition. The government's over-reliance on revenue from the extractive sector colors Suriname's economic outlook. Following two years of recession, the Fitch Credit Bureau reported a positive growth of 1.2% in 2017 and the World Bank predicted 2.2% growth in 2018. Inflation declined to 9%, down from 55% in 2016 , and increased gold production helped lift exports. Yet continued budget imbalances and a heavy debt and interest burden resulted in a debt-to-GDP ratio of 83% in September 2017. Purchasing power has fallen rapidly due to the devalued local currency. The government has announced its intention to pass legislation to introduce a new value-added tax in 2018. Without this and other measures to strengthen the country’s fiscal position, the government may face liquidity pressures.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
-$9.46 billion (2020 est.)<br>
-$11.07 billion (2019 est.)<br>
-$10.95 billion (2018 est.)<br>
+$9.052 billion (2021 est.)<br>
+$9.306 billion (2020 est.)<br>
+$11.075 billion (2019 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
-1.9% (2017 est.)<br>
--5.1% (2016 est.)<br>
--2.6% (2015 est.)<br>
+-2.73% (2021 est.)<br>
+-15.98% (2020 est.)<br>
+1.17% (2019 est.)<br>
 
 **Real GDP per capita**<br>
-$16,100 (2020 est.)<br>
-$19,000 (2019 est.)<br>
-$19,000 (2018 est.)<br>
+$14,800 (2021 est.)<br>
+$15,300 (2020 est.)<br>
+$18,400 (2019 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
 $3.419 billion (2017 est.)<br>
 
 **Inflation rate (consumer prices)**<br>
+59.11% (2021 est.)<br>
+34.89% (2020 est.)<br>
 22% (2017 est.)<br>
-55.5% (2016 est.)<br>
 
 **Credit ratings**<br>
 _Fitch rating_: C (2020)<br>
@@ -445,10 +446,10 @@ rice, sugar cane, bananas, oranges, vegetables, plantains, coconuts, poultry, ca
 gold mining, oil, lumber, food processing, fishing<br>
 
 **Industrial production growth rate**<br>
-1% (2017 est.)<br>
+-10.92% (2021 est.)<br>
 
 **Labor force**<br>
-144,000 (2014 est.)<br>
+244,200 (2021 est.)<br>
 
 **Labor force - by occupation**<br>
 _agriculture_: 11.2%<br>
@@ -456,13 +457,14 @@ _industry_: 19.5%<br>
 _services_: 69.3% (2010)<br>
 
 **Unemployment rate**<br>
-8.9% (2017 est.)<br>
-9.7% (2016 est.)<br>
+10.06% (2021 est.)<br>
+9.78% (2020 est.)<br>
+8.04% (2019 est.)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 26.5%<br>
-_male_: 18.7%<br>
-_female_: 39.9% (2016 est.)<br>
+_total_: 30.5%<br>
+_male_: 22.1%<br>
+_female_: 46.1% (2021 est.)<br>
 
 **Population below poverty line**<br>
 70% (2002 est.)<br>
@@ -489,12 +491,14 @@ _expenditures_: 827.8 million (2017 est.)<br>
 calendar year<br>
 
 **Current account balance**<br>
--$2 million (2017 est.)<br>
--$169 million (2016 est.)<br>
+$176.13 million (2021 est.)<br>
+$259.846 million (2020 est.)<br>
+-$448.255 million (2019 est.)<br>
 
 **Exports**<br>
-$2.29 billion (2019 est.) note: data are in current year dollars<br>
-$2.24 billion (2018 est.) note: data are in current year dollars<br>
+$2.299 billion (2021 est.) note: data are in current year dollars<br>
+$2.446 billion (2020 est.) note: data are in current year dollars<br>
+$2.287 billion (2019 est.)<br>
 
 **Exports - partners**<br>
 Switzerland 39%, United Arab Emirates 31%, Belgium 10% (2019)<br>
@@ -503,8 +507,9 @@ Switzerland 39%, United Arab Emirates 31%, Belgium 10% (2019)<br>
 gold, lumber, refined petroleum, fish, cigarettes (2019)<br>
 
 **Imports**<br>
-$2.41 billion (2019 est.) note: data are in current year dollars<br>
-$2.07 billion (2018 est.) note: data are in current year dollars<br>
+$1.876 billion (2021 est.) note: data are in current year dollars<br>
+$1.845 billion (2020 est.) note: data are in current year dollars<br>
+$2.413 billion (2019 est.)<br>
 
 **Imports - partners**<br>
 United States 22%, Netherlands 14%, China 13%, Trinidad and Tobago 7%, Antigua and Barbuda 5% (2019)<br>
@@ -513,8 +518,9 @@ United States 22%, Netherlands 14%, China 13%, Trinidad and Tobago 7%, Antigua a
 refined petroleum, delivery trucks, excavation machinery, cars, construction vehicles (2019)<br>
 
 **Reserves of foreign exchange and gold**<br>
-$424.4 million (31 December 2017 est.)<br>
-$381.1 million (31 December 2016 est.)<br>
+$992.257 million (31 December 2021 est.)<br>
+$584.929 million (31 December 2020 est.)<br>
+$647.935 million (31 December 2019 est.)<br>
 
 **Debt - external**<br>
 $1.7 billion (31 December 2017 est.)<br>
@@ -522,11 +528,11 @@ $1.436 billion (31 December 2016 est.)<br>
 
 **Exchange rates**<br>
 _Currency_: Surinamese dollars (SRD) per US dollar -<br>
-7.53 (2017 est.)<br>
-6.229 (2016 est.)<br>
-6.229 (2015 est.)<br>
-3.4167 (2014 est.)<br>
-3.3 (2013 est.)<br>
+18.239 (2021 est.)<br>
+9.31 (2020 est.)<br>
+7.458 (2019 est.)<br>
+7.463 (2018 est.)<br>
+7.488 (2017 est.)<br>
 
 ## Energy
 

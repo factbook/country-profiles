@@ -172,7 +172,7 @@ _female_: 75.59 years (2022 est.)<br>
 3.4 children born/woman (2022 est.)<br>
 
 **Gross reproduction rate**<br>
-1.69 (2022 est.)<br>
+1.64 (2023 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 65.6% (2019/20)<br>
@@ -228,11 +228,11 @@ _total_: 10.8% (2020 est.)<br>
 _male_: 17.5% (2020 est.)<br>
 _female_: 4.1% (2020 est.)<br>
 
-**Currently married women (ages 15-49)**<br>
-60.7% (2022 est.)<br>
-
 **Children under the age of 5 years underweight**<br>
 9% (2019)<br>
+
+**Currently married women (ages 15-49)**<br>
+60.7% (2022 est.)<br>
 
 **Education expenditures**<br>
 2.9% of GDP (2020 est.)<br>
@@ -249,9 +249,9 @@ _male_: 11 years<br>
 _female_: 11 years (2011)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 1.2%<br>
-_male_: 1%<br>
-_female_: 1.4% (2020 est.)<br>
+_total_: 9.9%<br>
+_male_: 7.6%<br>
+_female_: 12.2% (2021 est.)<br>
 
 ## Environment
 
@@ -426,29 +426,29 @@ _selected World Heritage Site locales_: Lake Malawi National Park (n); Chongoni 
 <p>Landlocked Malawi ranks among the world's least developed countries. The country’s economic performance has historically been constrained by policy inconsistency, macroeconomic instability, poor infrastructure, rampant corruption, high population growth, and poor health and education outcomes that limit labor productivity. The economy is predominately agricultural with about 80% of the population living in rural areas. Agriculture accounts for about one-third of GDP and 80% of export revenues. The performance of the tobacco sector is key to short-term growth as tobacco accounts for more than half of exports, although Malawi is looking to diversify away from tobacco to other cash crops.</p> <p> </p> <p>The economy depends on substantial inflows of economic assistance from the IMF, the World Bank, and individual donor nations. Donors halted direct budget support from 2013 to 2016 because of concerns about corruption and fiscal carelessness, but the World Bank resumed budget support in May 2017. In 2006, Malawi was approved for relief under the Heavily Indebted Poor Countries (HIPC) program but recent increases in domestic borrowing mean that debt servicing in 2016 exceeded the levels prior to HIPC debt relief.</p> <p> </p> <p>Heavily dependent on rain-fed agriculture, with corn being the staple crop, Malawi’s economy was hit hard by the El Nino-driven drought in 2015 and 2016, and now faces threat from the fall armyworm. The drought also slowed economic activity, led to two consecutive years of declining economic growth, and contributed to high inflation rates. Depressed food prices over 2017 led to a significant drop in inflation (from an average of 21.7% in 2016 to 12.3% in 2017), with a similar drop in interest rates.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
-$28.44 billion (2020 est.)<br>
-$28.22 billion (2019 est.)<br>
-$26.69 billion (2018 est.)<br>
+$29.658 billion (2021 est.)<br>
+$28.864 billion (2020 est.)<br>
+$28.635 billion (2019 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
-4% (2017 est.)<br>
-2.3% (2016 est.)<br>
-3% (2015 est.)<br>
+2.75% (2021 est.)<br>
+0.8% (2020 est.)<br>
+5.45% (2019 est.)<br>
 
 **Real GDP per capita**<br>
+$1,500 (2021 est.)<br>
 $1,500 (2020 est.)<br>
 $1,500 (2019 est.)<br>
-$1,500 (2018 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
 $7.766 billion (2019 est.)<br>
 
 **Inflation rate (consumer prices)**<br>
-9.3% (2019 est.)<br>
-12.4% (2018 est.)<br>
-11.7% (2017 est.)<br>
+8.63% (2020 est.)<br>
+9.37% (2019 est.)<br>
+12.42% (2018 est.)<br>
 
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 28.6% (2017 est.)<br>
@@ -470,10 +470,10 @@ sweet potatoes, cassava, sugar cane, maize, mangoes/guavas, potatoes, tomatoes, 
 tobacco, tea, sugar, sawmill products, cement, consumer goods<br>
 
 **Industrial production growth rate**<br>
-1.2% (2017 est.)<br>
+1.9% (2021 est.)<br>
 
 **Labor force**<br>
-7 million (2013 est.)<br>
+8.551 million (2021 est.)<br>
 
 **Labor force - by occupation**<br>
 _agriculture_: 76.9%<br>
@@ -481,19 +481,20 @@ _industry_: 4.1%<br>
 _services_: 19% (2013 est.)<br>
 
 **Unemployment rate**<br>
-20.4% (2013 est.)<br>
+7.02% (2021 est.)<br>
+6.7% (2020 est.)<br>
+5.75% (2019 est.)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 1.2%<br>
-_male_: 1%<br>
-_female_: 1.4% (2020 est.)<br>
+_total_: 9.9%<br>
+_male_: 7.6%<br>
+_female_: 12.2% (2021 est.)<br>
 
 **Population below poverty line**<br>
 51.5% (2016 est.)<br>
 
 **Gini Index coefficient - distribution of family income**<br>
-44.7 (2016 est.)<br>
-39 (2004)<br>
+38.5 (2019 est.)<br>
 
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 2.2%<br>
@@ -507,23 +508,25 @@ _expenditures_: 1.567 billion (2017 est.)<br>
 -3.4% (of GDP) (2017 est.)<br>
 
 **Public debt**<br>
-59.2% of GDP (2017 est.)<br>
-60.3% of GDP (2016 est.)<br>
+44.89% of GDP (2019 est.)<br>
+41.7% of GDP (2018 est.)<br>
+34.29% of GDP (2017 est.)<br>
 
 **Taxes and other revenues**<br>
-21.7% (of GDP) (2017 est.)<br>
+11.72% (of GDP) (2020 est.)<br>
 
 **Fiscal year**<br>
 1 July - 30 June<br>
 
 **Current account balance**<br>
--$591 million (2017 est.)<br>
--$744 million (2016 est.)<br>
+-$1.543 billion (2021 est.)<br>
+-$1.466 billion (2020 est.)<br>
+-$1.321 billion (2019 est.)<br>
 
 **Exports**<br>
-$1.16 billion (2019 est.) note: data are in current year dollars<br>
-$1.11 billion (2018 est.) note: data are in current year dollars<br>
-$9.658 billion (2017 est.)<br>
+$1.538 billion (2021 est.) note: data are in current year dollars<br>
+$1.268 billion (2020 est.) note: data are in current year dollars<br>
+$1.447 billion (2019 est.)<br>
 
 **Exports - partners**<br>
 Belgium 16%, United States 8%, Egypt 7%, South Africa 6%, Germany 6%, Kenya 5%, United Arab Emirates 5% (2019)<br>
@@ -532,9 +535,9 @@ Belgium 16%, United States 8%, Egypt 7%, South Africa 6%, Germany 6%, Kenya 5%, 
 tobacco, tea, raw sugar, beans, soybean products, clothing and apparel (2019)<br>
 
 **Imports**<br>
-$3.2 billion (2019 est.) note: data are in current year dollars<br>
-$2.92 billion (2018 est.) note: data are in current year dollars<br>
-$11.631 billion (2017 est.)<br>
+$3.582 billion (2021 est.) note: data are in current year dollars<br>
+$3.208 billion (2020 est.) note: data are in current year dollars<br>
+$3.266 billion (2019 est.)<br>
 
 **Imports - partners**<br>
 South Africa 17%, China 16%, United Arab Emirates 9%, India 9%, United Kingdom 8% (2019)<br>
@@ -543,8 +546,9 @@ South Africa 17%, China 16%, United Arab Emirates 9%, India 9%, United Kingdom 8
 postage stamps, refined petroleum, packaged medicines, fertilizers, office machinery/parts (2019)<br>
 
 **Reserves of foreign exchange and gold**<br>
-$780.2 million (31 December 2017 est.)<br>
-$585.7 million (31 December 2016 est.)<br>
+$594,498,500 (31 December 2020 est.)<br>
+$846,839,800 (31 December 2019 est.)<br>
+$766,154,800 (31 December 2018 est.)<br>
 
 **Debt - external**<br>
 $2.102 billion (31 December 2017 est.)<br>
@@ -552,11 +556,11 @@ $1.5 billion (31 December 2016 est.)<br>
 
 **Exchange rates**<br>
 _Currency_: Malawian kwachas (MWK) per US dollar -<br>
-762.4951 (2020 est.)<br>
-736.6548 (2019 est.)<br>
-732.335 (2018 est.)<br>
-499.6 (2014 est.)<br>
-424.9 (2013 est.)<br>
+749.527 (2020 est.)<br>
+745.541 (2019 est.)<br>
+732.333 (2018 est.)<br>
+730.273 (2017 est.)<br>
+718.005 (2016 est.)<br>
 
 ## Energy
 
