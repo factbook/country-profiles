@@ -5,7 +5,7 @@ _Europe / Countries_
 ## Introduction
 
 **Background**<br>
-Once the center of power for the large Austro-Hungarian Empire, Austria was reduced to a small republic after its defeat in World War I. Following annexation by Nazi Germany in 1938 and subsequent occupation by the victorious Allies in 1945, Austria's status remained unclear for a decade. A State Treaty signed in 1955 ended the occupation, recognized Austria's independence, and forbade unification with Germany. A constitutional law that same year declared the country's "perpetual neutrality" as a condition for Soviet military withdrawal. The Soviet Union's collapse in 1991 and Austria's entry into the EU in 1995 have altered the meaning of this neutrality. A prosperous, democratic country, Austria entered the EU Economic and Monetary Union in 1999.<br>
+Once the center of power for the large Austro-Hungarian Empire, Austria was reduced to a small republic after its defeat in World War I. Following annexation by Nazi Germany in 1938 and subsequent occupation by the victorious Allies in 1945, Austria's status remained unclear for a decade. A State Treaty signed in 1955 ended the occupation, recognized Austria's independence, and forbade unification with Germany. A constitutional law that same year declared the country's "perpetual neutrality" as a condition for Soviet military withdrawal. The Soviet Union's collapse in 1991 and Austria's entry into the EU in 1995 somewhat altered the meaning of this neutrality. A prosperous, democratic country, Austria entered the EU Economic and Monetary Union in 1999.<br>
 
 ## Geography
 
@@ -733,7 +733,7 @@ Islamic State of Iraq and ash-Sham (ISIS)<br>
 <p>none identified</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 67,588 (Syria), 43,725 (Afghanistan), 10,110 (Iraq), 8,684 (Somalia), 7,294 (Iran), 6,124 (Russia) (mid-year 2022); 90,994 (Ukraine) (as of 2 January 2023)<br>
+_refugees (country of origin)_: 67,588 (Syria), 43,725 (Afghanistan), 10,110 (Iraq), 8,684 (Somalia), 7,294 (Iran), 6,124 (Russia) (mid-year 2022); 91,232 (Ukraine) (as of 9 January 2023)<br>
 _stateless persons_: 3,229 (mid-year 2021)<br>
 
 **Illicit drugs**<br>

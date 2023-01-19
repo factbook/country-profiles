@@ -362,13 +362,13 @@ _residency requirement for naturalization_: 15 years<br>
 **Executive branch**<br>
 _chief of state_: King ABDALLAH II (since 7 February 1999); Heir Apparent Crown Prince HUSSEIN (eldest son of the monarch, born on 28 June 1994)<br>
 _head of government_: Prime Minister Bisher AL-KHASAWNEH (since 7 October 2020)<br>
-_cabinet_: Cabinet appointed by the monarch prime minister in consultation with the prime minister<br>
+_cabinet_: Cabinet appointed by the monarch in consultation with the prime minister<br>
 _elections/appointments_: the monarchy is hereditary; prime minister appointed by the monarch<br>
 
 **Legislative branch**<br>
 _description_: bicameral National Assembly or Majlis al-'Umma consists of:<br>Senate or the House of Notables or Majlis al-Ayan (65 seats; members appointed by the monarch to serve 4-year terms)<br>Chamber of Deputies or House of Representatives or Majlis al-Nuwaab (130 seats; 115 members directly elected in 23 multi-seat constituencies by open-list proportional representation vote and 15 seats for women; 12 of the 115 seats reserved for Christian, Chechen, and Circassian candidates; members serve 4-year terms)<br>
 _elections_: Senate - last appointments on 27 Sep 2020 (next appointments in 2024)<br>Chamber of Deputies - last held on 10 November 2020 (next to be held in November 2024)<br>
-_election results_: Senate - composition men 58, women 7, percent of women 10.8%<br>Chamber of Deputies - note - tribal, centrist, and pro-government candidates dominated in the 130-seat election; the Islamic Action Front, the political wing of the Muslim Brotherhood, garnered only 10 seats, down from 15 in the previous election; women, who are guaranteed 15 seats by Jordan’s legislative quota system, won 16 seats, down from 20 seats won in the previous election; composition - men 114, women 16, percent of women 12.3%; note - total National Assembly percent of women 11.8%<br> <p> </p><br>
+_election results_: Senate - composition men 58, women 7, percent of women 10.8%<br>Chamber of Deputies; note - tribal, centrist, and pro-government candidates dominated in the 130-seat election; the Islamic Action Front, the political wing of the Muslim Brotherhood, garnered only 10 seats, down from 15 in the previous election; women, who are guaranteed 15 seats by Jordan’s legislative quota system, won 16 seats, down from 20 seats won in the previous election; composition - men 114, women 16, percent of women 12.3%; note - total National Assembly percent of women 11.8%<br> <p> </p><br>
 
 **Judicial branch**<br>
 _highest court(s)_: Court of Cassation or Supreme Court (consists of 15 members, including the chief justice); Constitutional Court (consists of&nbsp;9 members)<br>

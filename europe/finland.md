@@ -722,6 +722,6 @@ Finland is not a member of NATO, but Finland and NATO have actively cooperated i
 <p>various groups in Finland advocate restoration of Karelia and other areas ceded to the former Soviet Union, but the Finnish Government asserts no territorial demands</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 9,175 (Iraq) (mid-year 2022); 47,138 (Ukraine) (as of 28 December 2022)<br>
+_refugees (country of origin)_: 9,175 (Iraq) (mid-year 2022); 47,067 (Ukraine) (as of 9 January 2023)<br>
 _stateless persons_: 3,416 (mid-year 2021)<br>
 

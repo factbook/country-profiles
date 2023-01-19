@@ -305,7 +305,7 @@ _conventional short form_: Switzerland<br>
 _local long form_: Schweizerische Eidgenossenschaft (German)/ Confederation Suisse (French)/ Confederazione Svizzera (Italian)/ Confederaziun Svizra (Romansh)<br>
 _local short form_: Schweiz (German)/ Suisse (French)/ Svizzera (Italian)/ Svizra (Romansh)<br>
 _abbreviation_: CH<br>
-_etymology_: name derives from the canton of Schwyz, one of the founding cantons of the Old Swiss Confederacy that formed in the 14th century<br>
+_etymology_: name derives from the canton of Schwyz, one of the founding cantons of the Swiss Confederacy that formed in the 14th century<br>
 
 **Government type**<br>
 federal republic (formally a confederation)<br>
@@ -388,7 +388,7 @@ _email address and website_: <br>https://ch.usembassy.gov/<br>
 
 **Flag description**<br>
 red square with a bold, equilateral white cross in the center that does not extend to the edges of the flag; various medieval legends purport to describe the origin of the flag; a white cross used as identification for troops of the Swiss Confederation is first attested at the Battle of Laupen (1339)<br>
-<strong>note:</strong> in 1863, a newly formed international relief organization convening in Geneva, Switzerland sought to come up with an identifying flag or logo: they chose the inverse of the Swiss flag - a red cross on a white field - as their symbol; today that organization is known throughout the world as the International Red Cross<br>
+<strong>note:</strong> in 1863, a newly formed international relief organization convening in Geneva, Switzerland sought to come up with an identifying flag or logo; they chose the inverse of the Swiss flag - a red cross on a white field - as their symbol; today that organization is known throughout the world as the International Red Cross<br>
 
 **National symbol(s)**<br>
 Swiss cross (white cross on red field, arms equal length); national colors: red, white<br>
@@ -733,7 +733,7 @@ Islamic State of Iraq and ash-Sham (ISIS)<br>
 <p>none identified</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 14,726 (Eritrea), 11,441 (Afghanistan), 8,039 (Syria), (mid-year 2022); 77,045 (Ukraine) (as of 3 January 2023)<br>
+_refugees (country of origin)_: 14,726 (Eritrea), 11,441 (Afghanistan), 8,039 (Syria), (mid-year 2022); 77,450 (Ukraine) (as of 10 January 2023)<br>
 _stateless persons_: 684 (mid-year 2021)<br>
 
 **Illicit drugs**<br>

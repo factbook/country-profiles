@@ -343,8 +343,8 @@ _residency requirement for naturalization_: 5 years<br>
 _chief of state_: President Milos ZEMAN (since 8 March 2013)<br>
 _head of government_: Prime Minister Petr FIALA (since 17 December 2021); First Deputy Prime Minister Vit RAKUSAN (since 17 December 2021), Deputy Prime Ministers Marian JURECKA, Ivan BARTOS, Vlastimil VALEK (all since 17 December 2021)<br>
 _cabinet_: Cabinet appointed by the president on the recommendation of the prime minister<br>
-_elections/appointments_: president directly elected by absolute majority popular vote in 2 rounds if needed for a 5-year term (limited to 2 consecutive terms); elections last held on 12-13 January 2018 with a runoff on 26-27 January 2018 (next to be held in January 2023); prime minister appointed by the president for a 4-year term<br>
-_election results_: <em><br>2018:</em> Milos ZEMAN reelected president in the second round; percent of vote - Milos ZEMAN (SPO) 51.4%, Jiri DRAHOS (independent) 48.6%<br><br><em>2013:</em> Milos ZEMAN elected president; percent of vote - Milos ZEMAN (SPO) 54.8%, Karel SCHWARZENBERG (TOP 09) 45.2%<br>
+_elections/appointments_: president directly elected by absolute majority popular vote in 2 rounds if needed for a 5-year term (limited to 2 consecutive terms); elections last held on 13-14 January 2023 for the 1st round with a runoff to be held on 27-28 January 2023 between Petr PAVEL, Independeng and Andrej BABIS, ANO; prime minister appointed by the president for a 4-year term<br>
+_election results_: <em>2023; </em>1st Round Petr PAVEL 35.4%, Andrej BABIS 35<em>%</em>, Danuse NERUDORA 13.9%, Pavel FISCHER 6.8%<em><br></em>2nd Round of elections to be held on January 27-28, 2023<em><br><br>2018:</em> Milos ZEMAN reelected president in the second round; percent of vote - Milos ZEMAN (SPO) 51.4%, Jiri DRAHOS (independent) 48.6%<br><br><em>2013:</em> Milos ZEMAN elected president; percent of vote - Milos ZEMAN (SPO) 54.8%, Karel SCHWARZENBERG (TOP 09) 45.2%<br>
 
 **Legislative branch**<br>
 _description_: bicameral Parliament or Parlament consists of:<br>Senate or Senat (81 seats; members directly elected in single-seat constituencies by absolute majority vote in 2 rounds if needed; members serve 6-year terms with one-third of the membership renewed every 2 years)<br><br>Chamber of Deputies or Poslanecka Snemovna (200 seats; members directly elected in 14 multi-seat constituencies by proportional representation vote with a 5% threshold required to fill a seat; members serve 4-year terms)<br>
@@ -687,7 +687,7 @@ Decin, Usti nad Labem (Elbe)<br>
 Czech Armed Forces: Land Forces; Air Forces; Cyber Forces; Special Forces (2022)<br>
 
 **Military expenditures**<br>
-1.3% of GDP (2022 est.)<br>
+1.5% of GDP (2022 est.)<br>
 1.4% of GDP (2021)<br>
 1.3% of GDP (2020)<br>
 1.2% of GDP (2019) (approximately $4.05 billion)<br>
@@ -717,7 +717,7 @@ Czechia joined NATO in 1999; Czechia, Hungary, and Poland were invited to begin 
 <p>none</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 476,025 (Ukraine) (as of 1 January 2023)<br>
+_refugees (country of origin)_: 478,614 (Ukraine) (as of 8 January 2023)<br>
 _stateless persons_: 1,498 (mid-year 2021)<br>
 
 **Illicit drugs**<br>

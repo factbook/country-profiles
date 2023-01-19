@@ -350,11 +350,12 @@ _residency requirement for naturalization_: 5 years<br>
 18 years of age; universal<br>
 
 **Executive branch**<br>
-_chief of state_: President Nguyen Xuan PHUC (since 26 July 2021)<br>
+_chief of state_: Interim President Vo Thi Anh XUAN (President Nguyen Xuan PHUC resigned on 17 January 2023)<br>
 _head of government_: Prime Minister Pham Minh CHINH (since 26 July 2021)<br>
 _cabinet_: Cabinet proposed by prime minister confirmed by the National Assembly and appointed by the president<br>
 _elections/appointments_: president indirectly elected by National Assembly from among its members for a single 5-year term; prime minister recommended by the president and confirmed by National Assembly; deputy prime ministers confirmed by the National Assembly and appointed by the president<br>
 _election results_: <em>2021</em>: Nguyen Xuan PHUC (CPV) elected president; Pham Minh CHINH (CPV) confirmed as prime minister<br><br><em>2018</em>: NGUYEN Phu TRONG (CPV) elected as president<br><br><em>2016</em>: NGUYEN Xuan PHUC (CPV) confirmed as prime minister<br>
+<strong>note: </strong>Nguyen Phu TRONG is the General Secretary of the Vietnam Communist Party<br>
 
 **Legislative branch**<br>
 _description_: unicameral National Assembly or Quoc Hoi &nbsp;(500 seats - number following 2021 election - 499; members directly elected in multi-seat constituencies by absolute majority vote; members serve 5-year terms)<br>

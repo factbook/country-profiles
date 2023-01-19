@@ -456,7 +456,7 @@ _exports of goods and services_: 47.3% (2017 est.)<br>
 _imports of goods and services_: -39.7% (2017 est.)<br>
 
 **Agricultural products**<br>
-milk, sugar beets, wheat, barley, potatoes, pork, maize, rye, rapeseed, triticale<br>
+milk, sugar beets, wheat, barley, potatoes, pork, maize, rye, rapeseeds, triticale<br>
 
 **Industries**<br>
 among the world's largest and most technologically advanced producers of iron, steel, coal, cement, chemicals, machinery, vehicles, machine tools, electronics, automobiles, food and beverages, shipbuilding, textiles<br>
@@ -699,7 +699,7 @@ _by type_: container ship 77, general cargo 85, oil tanker 36, other 401 (2021)<
 _major seaport(s)_: <br><em>Baltic Sea:</em> Kiel, Rostock<br><em>North Sea:</em> Bremerhaven, Brunsbuttel, Emden, Hamburg, Wilhelmshaven<br>
 _oil terminal(s)_: Brunsbuttel Canal terminals<br>
 _container port(s) (TEUs)_: Bremen/Bremerhaven (4,856,900), Hamburg (9,274,215) (2019)<br>
-_LNG terminal(s) (import)_: Hamburg; Wilhelmshaven (FSRU)<br>
+_LNG terminal(s) (import)_: Hamburg; Lubmin (FSRU); Wilhelmshaven (FSRU)<br>
 _river port(s)_: Bremen (Weser); Bremerhaven (Geeste); Duisburg, Karlsruhe, Neuss-Dusseldorf (Rhine); Lubeck (Wakenitz); Brunsbuttel, Hamburg (Elbe)<br>
 
 **Transportation - note**<br>

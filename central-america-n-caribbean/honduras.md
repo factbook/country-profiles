@@ -366,7 +366,7 @@ Anti-Corruption Party or PAC [Marlene ALVARENGA] <br>Christian Democratic Party 
 BCIE, CACM, CD, CELAC, EITI (candidate country), FAO, G-11, G-77, IADB, IAEA, IBRD, ICAO, ICCt, ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, IMO, Interpol, IOC (suspended), IOM, IPU, ISO (subscriber), ITSO, ITU, ITUC (NGOs), LAES, LAIA (observer), MIGA, MINURSO, MINUSTAH, NAM, OAS, OPANAL, OPCW, Pacific Alliance (observer), PCA, Petrocaribe, SICA, UN, UNCTAD, UNHRC, UNESCO, UNIDO, Union Latina, UNWTO, UPU, WCO (suspended), WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
 
 **Diplomatic representation in the US**<br>
-_chief of mission_: Ambassador (vacant)<br>
+_chief of mission_: Ambassador Javier Efrain BU SOTO (since 12 December 2022)<br>
 _chancery_: 1220 19th Street NW, Suite #320, Washington, DC 20036<br>
 _telephone_: [1] (202) 966-7702<br>
 _FAX_: [1] (202) 966-9751<br>

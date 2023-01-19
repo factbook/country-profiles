@@ -706,7 +706,7 @@ Armed Forces of the Republic of Korea: Republic of Korea Army (ROKA), Navy (ROKN
 approximately 555,000 active duty personnel (420,000 Army; 70,000 Navy, including about 30,000 Marines; 65,000 Air Force) (2022)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the South Korean military is equipped with a mix of domestically-produced and imported weapons systems; South Korea has a robust defense industry and production includes armored fighting vehicles, artillery, aircraft, and naval ships; since 2010, the top foreign weapons supplier has been the US, and some domestically-produced systems are built under US license (2022)<br>
+the South Korean military is equipped with a mix of domestically produced and imported weapons systems; South Korea has a robust defense industry and production includes armored fighting vehicles, artillery, aircraft, and naval ships; since 2010, the top foreign weapons supplier has been the US, and some domestically produced systems are built under US license (2022)<br>
 
 **Military service age and obligation**<br>
 18-35 years of age for compulsory military service for all men; minimum conscript service obligation varies by service - 18 months (Army, Marines), 20 months (Navy), 21 months (Air Force); 18-26 years of age for voluntary military service for men and women (2022)<br>

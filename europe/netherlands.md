@@ -74,7 +74,7 @@ Atlantic Ocean drainage: Rhine-Maas (198,735 sq km)<br>
 an area known as the Randstad, anchored by the cities of Amsterdam, Rotterdam, the Hague, and Utrecht, is the most densely populated region; the north tends to be less dense, though sizeable communities can be found throughout the entire country<br>
 
 **Natural hazards**<br>
-<p>flooding</p><p><strong>volcanism:</strong> Mount Scenery (887 m), located on the island of Saba in the Caribbean, last erupted in 1640;; Round Hill (601 m), a dormant volcano also known as The Quill, is located on the island of St. Eustatius in the Caribbean;; these islands are at the northern end of the volcanic island arc of the Lesser Antilles that extends south to Grenada</p><br>
+<p>flooding</p> <p><strong>volcanism:</strong> Mount Scenery (887 m), located on the island of Saba in the Caribbean, last erupted in 1640; Round Hill (601 m), a dormant volcano also known as The Quill, is located on the island of St. Eustatius in the Caribbean; these islands are at the northern end of the volcanic island arc of the Lesser Antilles that extends south to Grenada</p><br>
 
 **Geography - note**<br>
 located at mouths of three major European rivers (Rhine, Maas or Meuse, and Scheldt); about a quarter of the country lies below sea level and only about half of the land exceeds one meter above sea level<br>
@@ -323,7 +323,7 @@ _etymology_: the original Dutch name, Amstellerdam, meaning "a dam on the Amstel
 23 January 1579 (the northern provinces of the Low Countries conclude the Union of Utrecht breaking with Spain; on 26 July 1581, they formally declared their independence with an Act of Abjuration; however, it was not until 30 January 1648 and the Peace of Westphalia that Spain recognized this independence)<br>
 
 **National holiday**<br>
-King's Day (birthday of King WILLEM-ALEXANDER), 27 April (1967); note - King's or Queen's Day are observed on the ruling monarch's birthday; currently celebrated on 26 April if 27 April is a Sunday<br>
+King's Day (birthday of King WILLEM-ALEXANDER), 27 April (1967); note - King's or Queen's Day is observed on the ruling monarch's birthday; currently celebrated on 26 April if 27 April is a Sunday<br>
 
 **Constitution**<br>
 _history_: many previous to adoption of the "Basic Law of the Kingdom of the Netherlands" on 24 August 1815; revised 8 times, the latest in 1983<br>
@@ -352,16 +352,16 @@ _elections/appointments_: the monarchy is hereditary; following Second Chamber e
 
 **Legislative branch**<br>
 _description_: bicameral States General or Staten Generaal consists of:<br>Senate or Eerste Kamer (75 seats; members indirectly elected by the country's 12 provincial council members by proportional representation vote; members serve 4-year terms)<br>House of Representatives or Tweede Kamer (150 seats; members directly elected in multi-seat constituencies by open-list proportional representation vote to serve up to 4-year terms)<br>
-_elections_: <br>First Chamber - last held on 27 May 2019 (next to be held in May 2023)<br>Second Chamber - last held on 15-17 March 2021 (next to be held on 31 March 2025)<br>
-_election results_: <br>First Chamber - percent of vote by party - VVD 16%, CDA 12%, GL 10.7%, D66 9.3%, PvdA 8%, PVV 6.7%, SP 5.3%, CU 5.3%, PvdD 4%, SGP 2.7%, 50Plus 2.7%, FvD 1.3%, other 16%; seats by party - VVD 12, CDA 9, GL 8, D66 7, PvdA 6, PVV 5, SP 4, CU 4, PvdD 3, SGP 2, 50Plus 2, FvD 1, other 12; composition (as of September 2021) - men 52, women 23, percent of women 30.7%<br>Second Chamber - percent of vote by party - VVD 21.9%, D66 15%, PVV 10.8%, CDA 9.5%, SP 9.1%, PvdA 5.7%, GL 5.2%, FvD 5%, PvdD 3.8%, CU 3.4%, other 13.7%; seats by party - VVD 34, D66 24, PVV 17, CDA 15, GL 8, FvD 8, PvdD 6, PvdA 9, SP 9, CU 5, Denk 3, SGP 3, 50 Plus 1, other 6; composition (as of September 2021) - men 89, women 61, percent of women 40.7%; note - total States General percent of women 37.3%<br>
+_elections_: Senate - last held on 27 May 2019 (next to be held in May 2023)<br>House of Representatives - last held on 15-17 March 2021 (next to be held on 31 March 2025)<br>
+_election results_: <br>Senate - percent of vote by party - VVD 16%, CDA 12%, GL 10.7%, D66 9.3%, PvdA 8%, PVV 6.7%, SP 5.3%, CU 5.3%, PvdD 4%, SGP 2.7%, 50Plus 2.7%, FvD 1.3%, other 16%; seats by party - VVD 12, CDA 9, GL 8, D66 7, PvdA 6, PVV 5, SP 4, CU 4, PvdD 3, SGP 2, 50Plus 2, FvD 1, other 12; composition (as of September 2021) - men 52, women 23, percent of women 30.7%<br>House of Representatives - percent of vote by party - VVD 21.9%, D66 15%, PVV 10.8%, CDA 9.5%, SP 9.1%, PvdA 5.7%, GL 5.2%, FvD 5%, PvdD 3.8%, CU 3.4%, other 13.7%; seats by party - VVD 34, D66 24, PVV 17, CDA 15, GL 8, FvD 8, PvdD 6, PvdA 9, SP 9, CU 5, Denk 3, SGP 3, 50 Plus 1, other 6; composition (as of September 2021) - men 89, women 61, percent of women 40.7%; note - total States General percent of women 37.3%<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme Court or Hoge Raad (consists of 41 judges: the president, 6 vice presidents, 31 justices or raadsheren, and 3 justices in exceptional service, referred to as buitengewone dienst); the court is divided into criminal, civil, tax, and ombuds chambers<br>
-_judge selection and term of office_: justices appointed by the monarch from a list provided by the Second Chamber of the States General; justices appointed for life or until mandatory retirement at age 70<br>
+_judge selection and term of office_: justices appointed by the monarch from a list provided by the House of Representatives of the States General; justices appointed for life or until mandatory retirement at age 70<br>
 _subordinate courts_: courts of appeal; district courts, each with up to 5 subdistrict courts; Netherlands Commercial Court<br>
 
 **Political parties and leaders**<br>
-Christian Democratic Appeal or CDA [Wopke HOEKSTRA]<br>Christian Union or CU [Gert-Jan SEGERS]<br>Democrats 66 or D66 [Sigrid KAAG]<br>Denk [Farid AZARKAN]<br>50Plus [Martin van ROOIJEN]<br>Forum for Democracy or FvD [Thierry BAUDET]<br>Green Left (GroenLinks) or GL [Jesse KLAVER]<br>Labor Party or PvdA (vacant)<br>Party for Freedom or PVV [Geert WILDERS]<br>Party for the Animals or PvdD [Esther OUWENHAND]<br>People's Party for Freedom and Democracy or VVD [Mark RUTTE]<br>Reformed Political Party or SGP [Kees VAN DER STAAIJ]<br>Socialist Party or SP [Lilian MARIJNISSEN]<br>
+Christian Democratic Appeal or CDA [Wopke HOEKSTRA]<br>Christian Union or CU [Gert-Jan SEGERS]<br>Democrats 66 or D66 [Sigrid KAAG]<br>Denk [Farid AZARKAN]<br>50Plus [Martin van ROOIJEN]<br>Forum for Democracy or FvD [Thierry BAUDET]<br>Green Left (GroenLinks) or GL [Jesse KLAVER]<br>Labor Party or PvdA (Attje KUIKEN)<br>Party for Freedom or PVV [Geert WILDERS]<br>Party for the Animals or PvdD [Esther OUWENHAND]<br>People's Party for Freedom and Democracy or VVD [Mark RUTTE]<br>Reformed Political Party or SGP [Kees VAN DER STAAIJ]<br>Socialist Party or SP [Lilian MARIJNISSEN]<br>
 
 **International organization participation**<br>
 ADB (nonregional member), AfDB (nonregional member), Arctic Council (observer), Australia Group, Benelux, BIS, CBSS (observer), CD, CE, CERN, EAPC, EBRD, ECB, EIB, EITI (implementing country), EMU, ESA, EU, FAO, FATF, G-10, IADB, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IEA, IFAD, IFC, IFRCS, IGAD (partners), IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, MINUSMA, NATO, NEA, NSG, OAS (observer), OECD, OPCW, OSCE, Pacific Alliance (observer), Paris Club, PCA, Schengen Convention, SELEC (observer), UN, UNCTAD, UNDOF, UNESCO, UNHCR, UNHRC, UNIDO, UNMISS, UNRWA, UN Security Council (temporary), UNTSO, UNWTO, UPU, Wassenaar Arrangement, WCO, WHO, WIPO, WMO, WTO, ZC<br>
@@ -375,12 +375,12 @@ _email address and website_: <br>https://www.netherlandsworldwide.nl/countries/u
 _consulate(s) general_: Atlanta, Chicago, Miami, New York, San Francisco<br>
 
 **Diplomatic representation from the US**<br>
-_chief of mission_: Ambassador (vacant); Charge d'Affaires Marja VERLOOP (since 17 January 2021)<br>
+_chief of mission_: Ambassador Shefali RAZDAN DUGEAL (since 19 October 2022)<br>
 _embassy_: John Adams Park 1, 2244 BZ Wassenaar<br>
 _mailing address_: 5780 Amsterdam Place, Washington DC&nbsp; 20521-5780<br>
 _telephone_: [31] (70) 310-2209<br>
 _FAX_: [31] (70) 310-2207<br>
-_email address and website_: <br>AmsterdamUSC@state.gov<br><br>https://nl.usembassy.gov/<br>
+_email address and website_: AmsterdamUSC@state.gov<br>https://nl.usembassy.gov/<br>
 _consulate(s) general_: Amsterdam<br>
 
 **Flag description**<br>
@@ -401,7 +401,7 @@ _selected World Heritage Site locales_: Schokland and Surroundings (c); Dutch Wa
 ## Economy
 
 **Economic overview**<br>
-<p>The Netherlands, the sixth-largest economy in the European Union, plays an important role as a European transportation hub, with a consistently high trade surplus, stable industrial relations, and low unemployment. Industry focuses on food processing, chemicals, petroleum refining, and electrical machinery. A highly mechanized agricultural sector employs only 2% of the labor force but provides large surpluses for food-processing and underpins the country’s status as the world’s second largest agricultural exporter.</p> <p> </p> <p>The Netherlands is part of the euro zone, and as such, its monetary policy is controlled by the European Central Bank. The Dutch financial sector is highly concentrated, with four commercial banks possessing over 80% of banking assets, and is four times the size of Dutch GDP.</p> <p> </p> <p>In 2008, during the financial crisis, the government budget deficit hit 5.3% of GDP. Following a protracted recession from 2009 to 2013, during which unemployment doubled to 7.4% and household consumption contracted for four consecutive years, economic growth began inching forward in 2014. Since 2010, Prime Minister Mark RUTTE’s government has implemented significant austerity measures to improve public finances and has instituted broad structural reforms in key policy areas, including the labor market, the housing sector, the energy market, and the pension system. In 2017, the government budget returned to a surplus of 0.7% of GDP, with economic growth of 3.2%, and GDP per capita finally surpassed pre-crisis levels. The fiscal policy announced by the new government in the 2018-2021 coalition plans for increases in government consumption and public investment, fueling domestic demand and household consumption and investment. The new government’s policy also plans to increase demand for workers in the public and private sector, forecasting a further decline in the unemployment rate, which hit 4.8% in 2017.</p><br>
+<p>The Netherlands, the sixth-largest economy in the European Union, plays an important role as a European transportation hub, with a consistently high trade surplus, stable industrial relations, and low unemployment. Industry focuses on food processing, chemicals, petroleum refining, and electrical machinery. A highly mechanized agricultural sector employs only 2% of the labor force but provides large surpluses for food-processing and underpins the country’s status as the world’s second largest agricultural exporter.</p> <p>The Netherlands is part of the euro zone, and as such, its monetary policy is controlled by the European Central Bank. The Dutch financial sector is highly concentrated, with four commercial banks possessing over 80% of banking assets, and is four times the size of Dutch GDP.</p> <p>In 2008, during the financial crisis, the government budget deficit hit 5.3% of GDP. Following a protracted recession from 2009 to 2013, during which unemployment doubled to 7.4% and household consumption contracted for four consecutive years, economic growth began inching forward in 2014. Since 2010, Prime Minister Mark RUTTE’s government has implemented significant austerity measures to improve public finances and has instituted broad structural reforms in key policy areas, including the labor market, the housing sector, the energy market, and the pension system. In 2017, the government budget returned to a surplus of 0.7% of GDP, with economic growth of 3.2%, and GDP per capita finally surpassed pre-crisis levels. The fiscal policy announced by the new government in the 2018-2021 coalition plans for increases in government consumption and public investment, fueling domestic demand and household consumption and investment. The new government’s policy also plans to increase demand for workers in the public and private sector, forecasting a further decline in the unemployment rate, which hit 4.8% in 2017.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
 $992.675 billion (2021 est.)<br>
@@ -448,7 +448,7 @@ _exports of goods and services_: 83% (2017 est.)<br>
 _imports of goods and services_: -72.3% (2017 est.)<br>
 
 **Agricultural products**<br>
-milk, potatoes, sugar beet, pork, onions, wheat, poultry, tomatoes, carrots/turnips, beef<br>
+milk, potatoes, sugar beets, pork, onions, wheat, poultry, tomatoes, carrots/turnips, beef<br>
 
 **Industries**<br>
 agroindustries, metal and engineering products, electrical machinery and equipment, chemicals, petroleum, construction, microelectronics, fishing<br>
@@ -508,9 +508,9 @@ $46.794 billion (2020 est.)<br>
 $62.998 billion (2019 est.)<br>
 
 **Exports**<br>
-$839.646 billion (2021 est.) note: data are in current year dollars<br>
-$712.259 billion (2020 est.) note: data are in current year dollars<br>
-$751.225 billion (2019 est.) note: data are in current year dollars<br>
+$839.6 billion (2021 est.) note: data are in current year dollars<br>
+$712.3 billion (2020 est.) note: data are in current year dollars<br>
+$751.2 billion (2019 est.) note: data are in current year dollars<br>
 
 **Exports - partners**<br>
 Germany 20%, Belgium 12%, United Kingdom 9%, France 7%, United States 5% (2019)<br>
@@ -519,9 +519,9 @@ Germany 20%, Belgium 12%, United Kingdom 9%, France 7%, United States 5% (2019)<
 refined petroleum, packaged medicines, broadcasting equipment, photography equipment, computers (2019)<br>
 
 **Imports**<br>
-$735.748 billion (2021 est.) note: data are in current year dollars<br>
-$620.532 billion (2020 est.) note: data are in current year dollars<br>
-$661.973 billion (2019 est.) note: data are in current year dollars<br>
+$735.7 billion (2021 est.) note: data are in current year dollars<br>
+$620.5 billion (2020 est.) note: data are in current year dollars<br>
+$662 billion (2019 est.) note: data are in current year dollars<br>
 
 **Imports - partners**<br>
 Germany 15%, China 11%, Belgium 9%, United States 8%, Russia 7%, United Kingdom 5% (2019)<br>

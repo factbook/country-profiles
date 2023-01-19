@@ -22,7 +22,7 @@ Europe<br>
 _total_: 243,610 sq km<br>
 _land_: 241,930 sq km<br>
 _water_: 1,680 sq km<br>
-<strong>note 1:</strong> the percentage area breakdown of the four UK countries is: England 53%, Scotland 32%, Wales 9%, and Northern Ireland 6%<br><br><strong>note 2:</strong> includes Rockall and the Shetland Islands, which are part of Scotland<br>
+<strong>note 1:</strong> the percentage area breakdown of the four UK countries is: England 53%, Scotland 32%, Wales 9%, and Northern Ireland 6%<br><strong>note 2:</strong> includes Rockall and the Shetland Islands, which are part of Scotland<br>
 
 **Area - comparative**<br>
 twice the size of Pennsylvania; slightly smaller than Oregon<br>
@@ -199,7 +199,7 @@ NA<br>
 
 **Major infectious diseases**<br>
 _respiratory diseases_: Covid-19 (see note) (2020)<br>
-<strong>note:</strong> widespread ongoing transmission of a respiratory illness caused by the novel coronavirus (COVID-19) is occurring throughout the UK; as of 9 December 2022, the UK has reported a total of 24,053,576 cases of COVID-19 or 35,432.3 cumulative cases of COVID-19 per 100,000 population with a total of 197,723 cumulative deaths or a rate of 291.25 cumulative deaths per 100,000 population; as of 10 August 2022, 79.89% of the population has received at least one dose of COVID-19 vaccine; the US Department of Homeland Security has issued instructions requiring US passengers who have been in the UK to travel through select airports where the US Government has implemented enhanced screening procedures<br><strong>note: </strong>on 18 November 2022, the US Centers for Disease Control and Prevention (CDC) issued an updated Travel Alert for polio in Europe; the United Kingdom is currently considered a high risk to travelers for circulating vaccine-derived polioviruses (cVDPV); vaccine-derived poliovirus (VDPV) is a strain of the weakened poliovirus that was initially included in oral polio vaccine (OPV) and <em>that has changed over time and behaves more like the wild or naturally occurring virus</em>; this means it can be spread more easily to people who are unvaccinated against polio and who come in contact with the stool or respiratory secretions, such as from a sneeze, of an “infected” person who received oral polio vaccine; the CDC recommends that before any international travel, anyone unvaccinated, incompletely vaccinated, or with an unknown polio vaccination status should complete the routine polio vaccine series; before travel to any high-risk destination, the CDC recommends that adults who previously completed the full, routine polio vaccine series receive a single, lifetime booster dose of polio vaccine<br>
+<strong>note:</strong> widespread ongoing transmission of a respiratory illness caused by the novel coronavirus (COVID-19) is occurring throughout the UK; as of 9 December 2022, the UK reported a total of 24,053,576 cases of COVID-19 or 35,432.3 cumulative cases of COVID-19 per 100,000 population with a total of 197,723 cumulative deaths or a rate of 291.25 cumulative deaths per 100,000 population; as of 10 August 2022, 79.89% of the population received at least one dose of COVID-19 vaccine; the US Department of Homeland Security has issued instructions requiring US passengers who have been in the UK to travel through select airports where the US Government has implemented enhanced screening procedures<br><strong>note: </strong>on 18 November 2022, the US Centers for Disease Control and Prevention (CDC) issued an updated Travel Alert for polio in Europe; the United Kingdom is currently considered a high risk to travelers for circulating vaccine-derived polioviruses (cVDPV); vaccine-derived poliovirus (VDPV) is a strain of the weakened poliovirus that was initially included in oral polio vaccine (OPV) and <em>that has changed over time and behaves more like the wild or naturally occurring virus</em>; this means it can be spread more easily to people who are unvaccinated against polio and who come in contact with the stool or respiratory secretions, such as from a sneeze, of an “infected” person who received oral polio vaccine; the CDC recommends that before any international travel, anyone unvaccinated, incompletely vaccinated, or with an unknown polio vaccination status should complete the routine polio vaccine series; before travel to any high-risk destination, the CDC recommends that adults who previously completed the full, routine polio vaccine series receive a single, lifetime booster dose of polio vaccine<br>
 
 **Obesity - adult prevalence rate**<br>
 27.8% (2016)<br>
@@ -280,7 +280,7 @@ _coal revenues_: 0% of GDP (2018 est.)<br>
 
 **Major infectious diseases**<br>
 _respiratory diseases_: Covid-19 (see note) (2020)<br>
-<strong>note:</strong> widespread ongoing transmission of a respiratory illness caused by the novel coronavirus (COVID-19) is occurring throughout the UK; as of 9 December 2022, the UK has reported a total of 24,053,576 cases of COVID-19 or 35,432.3 cumulative cases of COVID-19 per 100,000 population with a total of 197,723 cumulative deaths or a rate of 291.25 cumulative deaths per 100,000 population; as of 10 August 2022, 79.89% of the population has received at least one dose of COVID-19 vaccine; the US Department of Homeland Security has issued instructions requiring US passengers who have been in the UK to travel through select airports where the US Government has implemented enhanced screening procedures<br><strong>note: </strong>on 18 November 2022, the US Centers for Disease Control and Prevention (CDC) issued an updated Travel Alert for polio in Europe; the United Kingdom is currently considered a high risk to travelers for circulating vaccine-derived polioviruses (cVDPV); vaccine-derived poliovirus (VDPV) is a strain of the weakened poliovirus that was initially included in oral polio vaccine (OPV) and <em>that has changed over time and behaves more like the wild or naturally occurring virus</em>; this means it can be spread more easily to people who are unvaccinated against polio and who come in contact with the stool or respiratory secretions, such as from a sneeze, of an “infected” person who received oral polio vaccine; the CDC recommends that before any international travel, anyone unvaccinated, incompletely vaccinated, or with an unknown polio vaccination status should complete the routine polio vaccine series; before travel to any high-risk destination, the CDC recommends that adults who previously completed the full, routine polio vaccine series receive a single, lifetime booster dose of polio vaccine<br>
+<strong>note:</strong> widespread ongoing transmission of a respiratory illness caused by the novel coronavirus (COVID-19) is occurring throughout the UK; as of 9 December 2022, the UK reported a total of 24,053,576 cases of COVID-19 or 35,432.3 cumulative cases of COVID-19 per 100,000 population with a total of 197,723 cumulative deaths or a rate of 291.25 cumulative deaths per 100,000 population; as of 10 August 2022, 79.89% of the population received at least one dose of COVID-19 vaccine; the US Department of Homeland Security has issued instructions requiring US passengers who have been in the UK to travel through select airports where the US Government has implemented enhanced screening procedures<br><strong>note: </strong>on 18 November 2022, the US Centers for Disease Control and Prevention (CDC) issued an updated Travel Alert for polio in Europe; the United Kingdom is currently considered a high risk to travelers for circulating vaccine-derived polioviruses (cVDPV); vaccine-derived poliovirus (VDPV) is a strain of the weakened poliovirus that was initially included in oral polio vaccine (OPV) and <em>that has changed over time and behaves more like the wild or naturally occurring virus</em>; this means it can be spread more easily to people who are unvaccinated against polio and who come in contact with the stool or respiratory secretions, such as from a sneeze, of an “infected” person who received oral polio vaccine; the CDC recommends that before any international travel, anyone unvaccinated, incompletely vaccinated, or with an unknown polio vaccination status should complete the routine polio vaccine series; before travel to any high-risk destination, the CDC recommends that adults who previously completed the full, routine polio vaccine series receive a single, lifetime booster dose of polio vaccine<br>
 
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 31.567 million tons (2014 est.)<br>
@@ -355,7 +355,7 @@ _elections/appointments_: the monarchy is hereditary; following legislative elec
 **Legislative branch**<br>
 _description_: bicameral Parliament consists of:<br>House of Lords (membership not fixed; as of October 2021, 787 lords were eligible to participate in the work of the House of Lords - 673 life peers, 88 hereditary peers, and 26 clergy; members are appointed by the monarch on the advice of the prime minister and non-party political members recommended by the House of Lords Appointments Commission); note - House of Lords total does not include ineligible members or members on leave of absence<br>House of Commons (650 seats; members directly elected in single-seat constituencies by simple majority popular vote to serve 5-year terms unless the House is dissolved earlier)<br>
 _elections_: <br>House of Lords - no elections; note - in 1999, as provided by the House of Lords Act, elections were held in the House of Lords to determine the 92 hereditary peers who would remain; elections held only as vacancies in the hereditary peerage arise)<br>House of Commons - last held on 12 December 2019 (next to be held by 2 May 2024)<br>
-_election results_: <br>House of Lords - composition - men 554, women 222, percent of women 28.6%<br>House of Commons - percent of vote by party - Conservative 54.9%, Labor 30.8%, Lib Dems 2.2%, SNP 6.8%, DUP 1.2%, Sinn Fein 1.1%, Plaid Cymru .6%, other 2.5%; seats by party - Conservative 365, Labor 202, SNP 48, Lib Dems 11, DUP 8, Sinn Fein 7, Plaid Cymru 4, other 9; composition - men 425, women 225, percent of women 34.6%; total Parliament percent of women 31.3%<br>
+_election results_: <br>House of Lords - composition - men 554, women 222, percent of women 28.6%<br>House of Commons - percent of vote by party - Conservative 54.9%, Labor 30.8%, SNP 6.8%, Lib Dems 2.2%, DUP 1.2%, Sinn Fein 1.1%, Plaid Cymru .6%, other 2.5%; seats by party - Conservative 365, Labor 202, SNP 48, Lib Dems 11, DUP 8, Sinn Fein 7, Plaid Cymru 4, other 5; composition - men 425, women 225, percent of women 34.6%; total Parliament percent of women 31.3%<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme Court (consists of 12 justices, including the court president and deputy president); note - the Supreme Court was established by the Constitutional Reform Act 2005 and implemented in 2009, replacing the Appellate Committee of the House of Lords as the highest court in the United Kingdom<br>
@@ -373,17 +373,17 @@ _chief of mission_: Ambassador Karen Elizabeth PIERCE (since 8 April 2020)<br>
 _chancery_: 3100 Massachusetts Avenue NW, Washington, DC 20008<br>
 _telephone_: [1] (202) 588-6500<br>
 _FAX_: [1] (202) 588-7870<br>
-_email address and website_: <br>britishembassyenquiries@gmail.com<br><br>https://www.gov.uk/world/organisations/british-embassy-washington<br>
+_email address and website_: britishembassyenquiries@gmail.com<br>https://www.gov.uk/world/organisations/british-embassy-washington<br>
 _consulate(s) general_: Atlanta, Boston, Chicago, Denver, Houston, Los Angeles, Miami, New York, San Francisco<br>
 _consulate(s)_: Orlando (FL), San Juan (Puerto Rico)<br>
 
 **Diplomatic representation from the US**<br>
-_chief of mission_: Ambassador (vacant); Charge d'Affaires Matthew PALMER<br>
+_chief of mission_: Ambassador Jane HARTLEY (since 19 July 2022)<br>
 _embassy_: 33 Nine Elms Lane, London, SW11 7US<br>
 _mailing address_: 8400 London Place, Washington DC&nbsp; 20521-8400<br>
 _telephone_: [44] (0) 20-7499-9000<br>
 _FAX_: [44] (0) 20-7891-3845<br>
-_email address and website_: <br>SCSLondon@state.gov<br><br>https://uk.usembassy.gov/<br>
+_email address and website_: SCSLondon@state.gov<br>https://uk.usembassy.gov/<br>
 _consulate(s) general_: Belfast, Edinburgh<br>
 
 **Flag description**<br>
@@ -451,7 +451,7 @@ _exports of goods and services_: 30.2% (2017 est.)<br>
 _imports of goods and services_: -31.5% (2017 est.)<br>
 
 **Agricultural products**<br>
-wheat, milk, barley, sugar beet, potatoes, rapeseed, poultry, oats, pork, beef<br>
+wheat, milk, barley, sugar beets, potatoes, rapeseed, poultry, oats, pork, beef<br>
 
 **Industries**<br>
 machine tools, electric power equipment, automation equipment, railroad equipment, shipbuilding, aircraft, motor vehicles and parts, electronics and communications equipment, metals, chemicals, coal, petroleum, paper and paper products, food processing, textiles, clothing, other consumer goods<br>
@@ -512,12 +512,12 @@ _expenditures_: 1.079 trillion (2017 est.)<br>
 -$80.779 billion (2019 est.)<br>
 
 **Exports**<br>
-$874.486 billion (2021 est.) note: data are in current year dollars<br>
-$791.733 billion (2020 est.) note: data are in current year dollars<br>
-$893.142 billion (2019 est.) note: data are in current year dollars<br>
+$874.5 billion (2021 est.) note: data are in current year dollars<br>
+$791.7 billion (2020 est.) note: data are in current year dollars<br>
+$893.1 billion (2019 est.) note: data are in current year dollars<br>
 
 **Exports - partners**<br>
-United States 15%, Germany 10%, China 7%, Netherlands 7%, France 7%, Ireland 6% (2019)<br>
+United States 15%, Germany 10%, China 7%, France 7%, Netherlands 7%, Ireland 6% (2019)<br>
 
 **Exports - commodities**<br>
 cars, gas turbines, gold, crude petroleum, packaged medicines (2019)<br>
@@ -539,8 +539,8 @@ $180.054 billion (31 December 2020 est.)<br>
 $173.569 billion (31 December 2019 est.)<br>
 
 **Debt - external**<br>
-$8,721,590,000,000 (2019 est.)<br>
-$8,696,559,000,000 (2018 est.)<br>
+$8.722 trillion (2019 est.)<br>
+$8.697 trillion (2018 est.)<br>
 
 **Exchange rates**<br>
 _Currency_: British pounds (GBP) per US dollar -<br>
@@ -596,9 +596,9 @@ _crude oil estimated reserves_: 2.5 billion barrels (2021 est.)<br>
 907,500 bbl/day (2017 est.)<br>
 
 **Natural gas**<br>
-_production_: 32,482,541,000 cubic meters (2021 est.)<br>
-_consumption_: 75,696,895,000 cubic meters (2021 est.)<br>
-_exports_: 6,873,025,000 cubic meters (2021 est.)<br>
+_production_: 32.48 billion cubic meters (2021 est.)<br>
+_consumption_: 75.7 billion cubic meters (2021 est.)<br>
+_exports_: 6.873 billion cubic meters (2021 est.)<br>
 _imports_: 51,050,178,000 cubic meters (2021 est.)<br>
 _proven reserves_: 180.661 billion cubic meters (2021 est.)<br>
 
@@ -744,7 +744,7 @@ Continuity Irish Republican Army; Islamic State of Iraq and ash-Sham (ISIS); New
 <p><em>UK-Argentina</em>: UK rejects sovereignty talks requested by Argentina, which still claims the Falkland Islands (Islas Malvinas) and South Georgia and the South Sandwich Islands</p> <p><em>UK-Argentina-Chile</em>: the UK’s territorial claim in Antarctica (British Antarctic Territory) overlaps Argentine claim and partially overlaps Chilean claim</p> <p><em>UK-Denmark</em>: the UK, Iceland, and Ireland dispute Denmark's claim that the Faroe Islands' continental shelf extends beyond 200 nm; Iceland, Norway, and the Faroe Islands signed an agreement in 2019 extending the Faroe Islands’ northern continental shelf area</p> <p><em>UK (Gibraltar)-Spain</em>: in 2002, Gibraltar residents voted overwhelmingly by referendum to reject any "shared sovereignty" arrangement between the UK and Spain; the Government of Gibraltar insisted on equal participation in talks between the two countries; Spain disapproved of UK plans to grant Gibraltar greater autonomy; London and Madrid reached a temporary agreement at the end of 2020 that allowed Gibraltar to be part of the passport-free Schengen zone; talks are expected to continue in 2022</p> <p><em>UK-Mauritius-Seychelles</em>: Mauritius and Seychelles claim the Chagos Archipelago (British Indian Ocean Territory); in 2001, the former inhabitants of the archipelago, evicted 1967 - 1973, were granted UK citizenship and the right of return, followed by Orders in Council in 2004 that banned rehabitation, a High Court ruling reversed the ban, a Court of Appeal refusal to hear the case, and a Law Lords' decision in 2008 denied the right of return; in addition, the UK created the world's largest marine protection area around the Chagos Islands prohibiting the extraction of any natural resources therein</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 21,904 (Iran), 15,615 (Eritrea), 11,371 (Sudan), 12,155 (Syria), 10,259 (Afghanistan), 8,009 (Pakistan), 7,699 (Iraq) (mid-year 2022); 152,200 (Ukraine) (as of 19 December 2022)<br>
+_refugees (country of origin)_: 21,904 (Iran), 15,615 (Eritrea), 11,371 (Sudan), 12,155 (Syria), 10,259 (Afghanistan), 8,009 (Pakistan), 7,699 (Iraq) (mid-year 2022); 155,500 (Ukraine) (as of 10 January 2023)<br>
 _stateless persons_: 3,968 (mid-year 2021)<br>
 
 **Illicit drugs**<br>

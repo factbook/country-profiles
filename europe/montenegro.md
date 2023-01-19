@@ -377,7 +377,7 @@ CE, CEI, EAPC, EBRD, FAO, IAEA, IBRD, ICAO, ICC (NGOs), ICCt, ICRM, IDA, IFC, IF
 <strong><strong>note: </strong></strong>Montenegro is an EU candidate country whose satisfactory completion of accession criteria is required before being granted full EU membership<br>
 
 **Diplomatic representation in the US**<br>
-_chief of mission_: Ambassador (vacant); Charge d'Affaires Marija STJEPCEVIC (since 4 February 2021)<br>
+_chief of mission_: Ambassador (vacant); Charge d'Affaires Nebojsa&nbsp;TODOROVIC (since 7 December 2022)<br>
 _chancery_: 1610 New Hampshire Avenue NW, Washington, DC, 20009<br>
 _telephone_: [1] (202) 234-6108<br>
 _FAX_: [1] (202) 234-6109<br>
@@ -718,9 +718,9 @@ Montenegro became a member of NATO in 2017; as of 2022, Greece and Italy provide
 <p><em>Montenegro-Albania</em>: none identified</p> <p><em>Montenegro-Bosnia and Herzegovina</em>: the two countries signed a border agreement in August 2015; sovereignty of the disputed Sutorina territory was given to Montenegro</p> <p><em>Montenegro-Croatia</em>: the two countries in 2002 reached a temporary agreement designating the Prevlaka Peninsula as part of Croatia, in October 2020, a Montenegrin official resurrected the dormant dispute over the Prevlaka Peninsula by stating that Montenegro had a good chance of winning it through international arbitration</p> <p><em>Montenegro-Kosovo</em>: a 2015 border agreement was ratified by Montenegro in 2015 and by Kosovo in 2018, but the actual demarcation has not been completed</p> <p><em>Montenegro-Serbia</em>: The former republic boundary – when the two countries were one and called the Federal Republic of Yugoslavia – serves as the boundary until a line is formally delimited and demarcated</p> <p> </p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 31,895 (Ukraine) (as of 26 December 2022)<br>
+_refugees (country of origin)_: 32,250 (Ukraine) (as of 9 January 2023)<br>
 _stateless persons_: 458 (mid-year 2021)<br>
-<strong>note:</strong> 28,856 estimated refugee and migrant arrivals (January 2015-December 2022)<br>
+<strong>note:</strong> 29,155 estimated refugee and migrant arrivals (January 2015-January 2023)<br>
 
 **Illicit drugs**<br>
 <p>drug trafficking groups are major players in the procurement and transportation of large quantities of cocaine  destined for  European markets</p><br>

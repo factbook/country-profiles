@@ -621,16 +621,16 @@ _Total energy consumption per capita 2019_: 11.693 million Btu/person (2019 est.
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 119,164 (2020 est.)<br>
-_subscriptions per 100 inhabitants_: (2020 est.) less than 1<br>
+_total subscriptions_: 119,826 (2021 est.)<br>
+_subscriptions per 100 inhabitants_: (2021 est.) less than 1<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 14,645,050 (2020 est.)<br>
-_subscriptions per 100 inhabitants_: 45 (2020 est.)<br>
+_total subscriptions_: 15,327,864 (2021 est.)<br>
+_subscriptions per 100 inhabitants_: 44 (2021 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: Angola&rsquo;s telecom sector in recent years has benefited from political stability, which has encouraged foreign investment in the sector; the government and regulator have also set in train mechanisms to open up the telecom sector to new competitors, mobile services were launched in April 2022; the MNOs were slow to develop LTE services, instead relying on their GSM and 3G network capabilities; there has been slow progress in LTE network development, with only a small proportion of the country covered by network infrastructure; the Ministry of Telecommunications in early 2021 set up a 5G hub to assess 5G user cases; the regulator in November 2021 granted licenses to various companies offering 5G services, with spectrum in the 3.3-3.7GHz range having been set aside for such services (2022)<br>
-_domestic_: only about one fixed-line per 100 persons; mobile-cellular teledensity about 45 telephones per 100 persons (2020)<br>
+_domestic_: less than one fixed-line per 100 persons; mobile-cellular teledensity about 44 telephones per 100 persons (2021)<br>
 _international_: country code - 244; landing points for the SAT-3/WASC, WACS, ACE and SACS&nbsp;fiber-optic submarine cable that provides connectivity to other countries in west Africa, Brazil, Europe and Asia; satellite earth stations - 29, Angosat-2 satellite expected by 2021 (2019)<br>
 <strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress toward 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>
 

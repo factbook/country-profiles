@@ -745,7 +745,7 @@ Ansar al-Islam; Asa'ib Ahl al-Haq; Islamic Revolutionary Guard Corps (IRGC)/Qods
 <p><em>Iraq-Iran</em>: Iraq's lack of a maritime boundary with Iran prompts jurisdiction disputes beyond the mouth of the Shatt al Arab in the Persian Gulf</p> <p><em>Iraq-Turkey</em>: Turkey has expressed concern over the autonomous status of Kurds in Iraq</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 13,344 (Turkey), 7,864 (West Bank and Gaza Strip) (mid-year 2022); 263,087 (Syria) (2022)<br>
+_refugees (country of origin)_: 13,344 (Turkey), 7,864 (West Bank and Gaza Strip) (mid-year 2022); 258,541 (Syria) (2022)<br>
 _IDPs_: 1,184,818 (displacement in central and northern Iraq since January 2014) (2022)<br>
 _stateless persons_: 47,253 (mid-year 2021); note - in the 1970s and 1980s under SADDAM Husayn's regime, thousands of Iraq's Faili Kurds, followers of Shia Islam, were stripped of their Iraqi citizenship, had their property seized by the government, and many were deported; some Faili Kurds had their citizenship reinstated under the 2006 Iraqi Nationality Law, but others lack the documentation to prove their Iraqi origins; some Palestinian refugees persecuted by the SADDAM regime remain stateless<br>
 

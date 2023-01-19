@@ -606,16 +606,16 @@ _Total energy consumption per capita 2019_: 61.433 million Btu/person (2019 est.
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 4,784,306 (2020 est.)<br>
-_subscriptions per 100 inhabitants_: 11 (2020 est.)<br>
+_total subscriptions_: 5,097,095 (2021 est.)<br>
+_subscriptions per 100 inhabitants_: 12 (2021 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 45,555,673 (2020 est.)<br>
-_subscriptions per 100 inhabitants_: 104 (2020 est.)<br>
+_total subscriptions_: 47,028,685 (2021 est.)<br>
+_subscriptions per 100 inhabitants_: 106 (2021 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: Algeria has a steadily developing telecom infrastructure with growth encouraged by supportive regulatory measures and by government policies aimed at delivering serviceable internet connections across the country; mobile broadband is largely based on 3G and LTE, and the data rates are also low in global terms; LTE is available in all provinces, investment is required from the mobile network operators (MNOs) to improve the quality of service; the state has previously been hesitant to commit to 5G, instead encouraging the MNOs to undertake upgrades to LTE infrastructure before investing in commercial 5G services; in March 2022, the state is in the process of freeing up the requisite spectrum to enable the MNOs to launch 5G services sometime this year; fixed internet speeds remain slow (2022)<br>
-_domestic_: a limited network of fixed-lines with a teledensity of slightly less than 11 telephones per 100 persons has been offset by the rapid increase in mobile-cellular subscribership; mobile-cellular teledensity was approximately 104 telephones per 100 persons in 2020 (2020)<br>
+_domestic_: a limited network of fixed-lines with a teledensity of slightly less than 12 telephones per 100 persons has been offset by the rapid increase in mobile-cellular subscribership; mobile-cellular teledensity was approximately 106 telephones per 100 persons in 2020 (2021)<br>
 _international_: country code - 213;&nbsp;ALPAL-2 is a submarine telecommunications cable system in the Mediterranean Sea linking Algeria and the Spanish Balearic island of Majorca;&nbsp;ORVAL is a submarine cable to Spain; landing points for the TE North/TGN-Eurasia/SEACOM/SeaMeWe-4 fiber-optic submarine cable system that provides links to Europe, the Middle East, and Asia; MED cable connecting Algeria with France;&nbsp;microwave radio relay to Italy, France, Spain, Morocco, and Tunisia;&nbsp;Algeria part of the 4,500 Km terrestrial Trans Sahara Backbone network which connects to other fiber networks in the region; Alcomstat-1 satellite offering&nbsp; telemedicine network (2020)<br>
 <strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress toward 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>
 

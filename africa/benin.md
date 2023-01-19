@@ -67,7 +67,7 @@ _other_: 28.7% (2018 est.)<br>
 Atlantic Ocean drainage: Niger (2,261,741 sq km), Volta (410,991 sq km)<br>
 
 **Population distribution**<br>
-the population is primarily located in the south, with the highest concentration of people residing in and around the cities on the Atlantic coast; most of the north remains sparsely populated with higher concentrations of residents in the west at shown in this population distribution map<br>
+the population is primarily located in the south, with the highest concentration of people residing in and around the cities on the Atlantic coast; most of the north remains sparsely populated with higher concentrations of residents in the west as shown in this population distribution map<br>
 
 **Natural hazards**<br>
 hot, dry, dusty harmattan wind may affect north from December to March<br>
@@ -127,7 +127,7 @@ _female_: 17.6 years (2020 est.)<br>
 0.24 migrant(s)/1,000 population (2022 est.)<br>
 
 **Population distribution**<br>
-the population is primarily located in the south, with the highest concentration of people residing in and around the cities on the Atlantic coast; most of the north remains sparsely populated with higher concentrations of residents in the west at shown in this population distribution map<br>
+the population is primarily located in the south, with the highest concentration of people residing in and around the cities on the Atlantic coast; most of the north remains sparsely populated with higher concentrations of residents in the west as shown in this population distribution map<br>
 
 **Urbanization**<br>
 _urban population_: 50.1% of total population (2023)<br>
@@ -366,9 +366,9 @@ _elections/appointments_: president directly elected by absolute majority popula
 _election results_: Patrice TALON elected to a second term; percent of vote - Patrice TALON (independent) 86.4%, Alassane SOUMANOU (FCBE) 11.3%, other 2.3% (2021)<br>
 
 **Legislative branch**<br>
-_description_: unicameral National Assembly or Assemblee Nationale (83 seats - current 81; members directly elected in multi-seat constituencies by proportional representation vote; members serve 4-year terms)<br>
-_elections_: last held on 28 April 2019 (next to be held in April 2023)<br>
-_election results_: percent of vote by party - Union Progressiste 56.2%, Bloc Republicain 43.8%; seats by party - Union Progressiste 47, Bloc Republicain 36; composition as of February 2022 - men 75, women 6, percent of women 7.4%<br>
+_description_: unicameral National Assembly or Assemblee Nationale (109 seats; members directly elected in multi-seat constituencies by proportional representation vote; members serve 4-year terms)<br>
+_elections_: last held on 8 January 2023 (next to be held January 2027)<br>
+_election results_: percent of vote by party - Progressive Union for Renewal 37.5%, Bloc Republicain 29.3%, The Democrats 24.6%; seats by party - Progressive Union for Renewal 53, Bloc Republicain 28, The Democrats 28; composition as of January 2023 - men 81, women 28, percent of women 25.6%<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme Court or Cour Supreme (consists of the chief justice and 16 justices organized into an administrative division, judicial chamber, and chamber of accounts); Constitutional Court or Cour Constitutionnelle (consists of 7 members, including the court president); High Court of Justice (consists of the Constitutional Court members, 6 members appointed by the National Assembly, and the Supreme Court president); note - jurisdiction of the High Court of Justice is limited to cases of high treason by the national president or members of the government while in office<br>

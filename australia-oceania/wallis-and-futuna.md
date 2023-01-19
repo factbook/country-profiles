@@ -272,8 +272,8 @@ _elections/appointments_: French president elected by absolute majority popular 
 
 **Legislative branch**<br>
 _description_: unicameral Territorial Assembly or Assemblee Territoriale (20 seats - Wallis 13, Futuna 7; members directly elected in multi-seat constituencies by party-list proportional representation vote to serve 5-year terms)<br>Wallis and Futuna indirectly elects 1 senator to the French Senate by an electoral college by absolute majority vote in 2 rounds if needed for a 6-year term, and directly elects 1 deputy to the French National Assembly by absolute majority vote for a 5-year term<br>
-_elections_: Territorial Assembly - last held on 20 March 2022 (next to be held in March 2027)<br>French Senate - last held on 24 and 27 September 2020 (next to be held by September 2023)<br>French National Assembly - last held on 11 June 2017 (next to be held in June 2022)<br>
-_election results_: Territorial Assembly - percent of vote by party - NA; seats by party - 2 members are elected from the list Ofa mo'oni ki tou fenua and 2 members are elected from list Mauli fetokoniaki, 1 seat each from 16 other lists; composition - men NA, women NA, percent of women NA%<br>representation in French Senate - LR 1 (man)<br>representation in French National Assembly - independent 1 (man)<br>
+_elections_: Territorial Assembly - last held on 20 March 2022 (next to be held in March 2027)<br>French Senate - last held on 24 and 27 September 2020 (next to be held by September 2023)<br>French National Assembly - last held on 12 and 19 June 2022 (next to be held in June 2027)<br>
+_election results_: Territorial Assembly - percent of vote by party - NA; seats by party - 2 members are elected from the list Ofa mo'oni ki tou fenua and 2 members are elected from list Mauli fetokoniaki, 1 seat each from 16 other lists; composition - men NA, women NA, percent of women NA<br>representation in French Senate - LR 1 (man)<br>representation in French National Assembly - independent 1 (man)<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Court of Assizes or Cour d'Assizes (consists of 1 judge; court hears primarily serious criminal cases); note - appeals beyond the Court of Assizes are heard before the Court of Appeal or Cour d'Appel (in Noumea, New Caledonia)<br>
@@ -281,7 +281,7 @@ _judge selection and term of office_: NA<br>
 _subordinate courts_: courts of first instance; labor court; note - justice generally administered under French law by the high administrator, but the 3 traditional kings administer customary law, and there is a magistrate in Mata-Utu<br>
 
 **Political parties and leaders**<br>
-Left Radical Party or PRG [Guillaume LACROIX] (formerly Radical Socialist Party or PRS and the Left Radical Movement or MRG)<br>Lua Kae Tahi (Giscardians) (leader NA)<br>Rally for Wallis and Futuna-The Republicans (Rassemblement pour Wallis and Futuna) or RPWF-LR [Clovis LOGOLOGOFOLAU]<br>Socialist Party or PS<br>Taumu'a Lelei [Soane Muni UHILA]<br>Union Pour la Democratie Francaise or UDF<br>
+Left Radical Party or PRG [Guillaume LACROIX] (formerly Radical Socialist Party or PRS and the Left Radical Movement or MRG)<br>Lua Kae Tahi (Giscardians)<br>Rally for Wallis and Futuna-The Republicans (Rassemblement pour Wallis and Futuna) or RPWF-LR [Clovis LOGOLOGOFOLAU]<br>Socialist Party or PS<br>Taumu'a Lelei [Soane Muni UHILA]<br>Union Pour la Democratie Francaise or UDF<br>
 
 **International organization participation**<br>
 PIF (observer), SPC, UPU<br>
@@ -305,7 +305,7 @@ red saltire (Saint Andrew's Cross) on a white square on a red field; national co
 ## Economy
 
 **Economic overview**<br>
-<p>The economy is limited to traditional subsistence agriculture, with about 80% of labor force earnings coming from agriculture (coconuts and vegetables), livestock (mostly pigs), and fishing. However, roughly 70% of the labor force is employed in the public sector, although only about a third of the population is in salaried employment.</p> <p> </p> <p>Revenues come from French Government subsidies, licensing of fishing rights to Japan and South Korea, import taxes, and remittances from expatriate workers in New Caledonia. France directly finances the public sector and health-care and education services. It also provides funding for key development projects in a range of areas, including infrastructure, economic development, environmental management, and health-care facilities.</p> <p> </p> <p>A key concern for Wallis and Futuna is an aging population with consequent economic development issues. Very few people aged 18-30 live on the islands due to the limited formal employment opportunities. Improving job creation is a current priority for the territorial government.</p><br>
+<p>The economy is limited to traditional subsistence agriculture, with about 80% of labor force earnings coming from agriculture (coconuts and vegetables), livestock (mostly pigs), and fishing. However, roughly 70% of the labor force is employed in the public sector, although only about a third of the population is in salaried employment.</p> <p>Revenues come from French Government subsidies, licensing of fishing rights to Japan and South Korea, import taxes, and remittances from expatriate workers in New Caledonia. France directly finances the public sector and health-care and education services. It also provides funding for key development projects in a range of areas, including infrastructure, economic development, environmental management, and health-care facilities.</p> <p>A key concern for Wallis and Futuna is an aging population with consequent economic development issues. Very few people aged 18-30 live on the islands due to the limited formal employment opportunities. Improving job creation is a current priority for the territorial government.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
 $60 million (2004 est.)<br>
@@ -372,7 +372,7 @@ _expenditures_: 34.18 million (2015 est.) NA<br>
 <strong>note:</strong> offical data; data cover general government debt and include debt instruments issued (or owned) by government entities other than the treasury; the data include treasury debt held by foreign entities; the data include debt issued by subnational entities, as well as intragovernmental debt; intragovernmental debt consists of treasury borrowings from surpluses in the social funds, such as for retirement, medical care, and unemployment; debt instruments for the social funds are not sold at public auctions<br>
 
 **Taxes and other revenues**<br>
-16.7% (of GDP) (2015 est.) NA<br>
+16.7% (of GDP) (2015 est.)<br>
 
 **Fiscal year**<br>
 calendar year<br>

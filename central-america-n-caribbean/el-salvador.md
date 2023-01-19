@@ -715,7 +715,7 @@ the FAES is dependent on a mix of mostly older imported platforms, largely from 
 175 Mali (MINUSMA) (May 2022)<br>
 
 **Military - note**<br>
-the National Civilian Police (Ministry of Justice and Public Security) is responsible for maintaining public security, while the Ministry of Defense is responsible for maintaining national security; the constitution separates public security and military functions, but allows the president to use the armed forces in exceptional circumstances to maintain internal peace and public security; in November 2019, President BUKELE signed a decree authorizing military involvement in police duties to combat gang violence, organized crime, and narcotics trafficking, as well as assisting with border security; as of 2022, a considerable portion of the Army was deployed in support of the National Police (2022)<br>
+the National Civilian Police (Ministry of Justice and Public Security) is responsible for maintaining public security, while the Ministry of Defense is responsible for maintaining national security; the constitution separates public security and military functions, but allows the president to use the armed forces in exceptional circumstances to maintain internal peace and public security; in November 2019, President BUKELE signed a decree authorizing military involvement in police duties to combat gang violence, organized crime, and narcotics trafficking, as well as assisting with border security; as of 2023, a considerable portion of the Army was deployed in support of the National Police (2023)<br>
 
 ## Transnational Issues
 

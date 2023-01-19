@@ -394,7 +394,7 @@ _consulate(s) general_: Los Angeles<br>
 _consulate(s)_: New York<br>
 
 **Diplomatic representation from the US**<br>
-_chief of mission_: Ambassador (vacant); Charge d'Affaires Eric W. KNEEDLER (since 20 January 2021)<br>
+_chief of mission_: Ambassador Margaret "Meg" WHITMAN (since 5 August 2022)<br>
 _embassy_: P.O. Box 606 Village Market, 00621 Nairobi<br>
 _mailing address_: 8900 Nairobi Place, Washington, DC&nbsp; 20521-8900<br>
 _telephone_: [254] (20) 363-6000<br>

@@ -613,16 +613,16 @@ _Total energy consumption per capita 2019_: 38.442 million Btu/person (2019 est.
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 223,469 (2020 est.)<br>
-_subscriptions per 100 inhabitants_: 8 (2020 est.)<br>
+_total subscriptions_: 197,690 (2021 est.)<br>
+_subscriptions per 100 inhabitants_: 7 (2021 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 2,618,880 (2020 est.)<br>
-_subscriptions per 100 inhabitants_: 91 (2020 est.)<br>
+_total subscriptions_: 2,635,466 (2021 est.)<br>
+_subscriptions per 100 inhabitants_: 92 (2021 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: Albania&rsquo;s small telecom market has experienced some significant changes in recent years;&nbsp; upgrades were made to the fixed-line infrastructure to support broadband services; fixed-line telephony use and penetration in Albania is declining steadily as subscribers migrate to mobile solutions; the mobile sector is well provided with LTE networks, while operators have invested in 5G; some of these efforts have been made in conjunction with neighboring Kosovo, with the intention of a seamless 5G corridor along the highway connecting the two countries; the country has long sought accession to the European Union (EU) which has benefited its telecoms sector through closer scrutiny of its regulatory regime and through the injection of funding to help modernize infrastructure (2021)<br>
-_domestic_: fixed-line approximately 8 per 100, teledensity continues to decline due to heavy use of mobile-cellular telephone services; mobile-cellular telephone use is widespread and generally effective, 91 per 100 for mobile-cellular (2020)<br>
+_domestic_: fixed-line approximately 7 per 100, teledensity continues to decline due to heavy use of mobile-cellular telephone services; mobile-cellular telephone use is widespread and generally effective, 92 per 100 for mobile-cellular (2021)<br>
 _international_: country code - 355; submarine cables&nbsp;for the Adria 1 and Italy-Albania provide connectivity to Italy, Croatia, and Greece; a combination submarine cable and land fiber-optic system, provides additional connectivity to Bulgaria, Macedonia, and Turkey; international traffic carried by fiber-optic cable and, when necessary, by microwave radio relay from the Tirana exchange to Italy and Greece (2019)<br>
 <strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress toward 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>
 

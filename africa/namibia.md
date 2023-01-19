@@ -50,7 +50,7 @@ _lowest point_: Atlantic Ocean 0 m<br>
 _mean elevation_: 1,141 m<br>
 
 **Natural resources**<br>
-diamonds, copper, uranium, gold, silver, lead, tin, lithium, cadmium, tungsten, zinc, salt, hydropower, fish, note, suspected deposits of oil, coal, and iron ore<br>
+diamonds, copper, uranium, gold, silver, lead, tin, lithium, cadmium, tungsten, zinc, salt, hydropower, fish; note - suspected deposits of oil, coal, and iron ore<br>
 
 **Land use**<br>
 _agricultural land_: 47.2% (2018 est.)<br>
@@ -91,7 +91,7 @@ _noun_: Namibian(s)<br>
 _adjective_: Namibian<br>
 
 **Ethnic groups**<br>
-Ovambo 50%, Kavangos 9%, Herero 7%, Damara 7%, mixed European and African ancestry 6.5%, European&nbsp;6%,&nbsp;Nama 5%, Caprivian 4%, San 3%, Baster 2%, Tswana .5%<br>
+Ovambo 50%, Kavangos 9%, Herero 7%, Damara 7%, mixed European and African ancestry 6.5%, European 6%, Nama 5%, Caprivian 4%, San 3%, Baster 2%, Tswana 0.5%<br>
 
 **Languages**<br>
 Oshiwambo languages 49.7%, Nama/Damara 11%, Kavango languages 10.4%, Afrikaans 9.4% (also a common language), Herero languages 9.2%, Zambezi languages 4.9%, English (official) 2.3%, other African languages 1.5%, other European languages 0.7%, other 1% (2016 est.)<br>

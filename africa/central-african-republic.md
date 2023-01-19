@@ -714,5 +714,5 @@ the 2013 coup resulted in the institutional collapse of the FACA; its forces wer
 
 **Refugees and internally displaced persons**<br>
 _refugees (country of origin)_: 6,613 (Democratic Republic of Congo) (2022)<br>
-_IDPs_: 484,335 (clashes between army and rebel groups since 2005; tensions between ethnic groups) (2022)<br>
+_IDPs_: 518,116 (clashes between army and rebel groups since 2005; tensions between ethnic groups) (2022)<br>
 

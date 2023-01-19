@@ -728,7 +728,7 @@ Islamic State of Iraq and ash-Sham (ISIS)<br>
 <p><em>Romania-Bulgaria</em>: none identified</p> <p><em>Romania-Hungary</em>: none identified</p> <p><em>Romania-Moldova</em>: none identified</p> <p><em>Romania-Serbia</em>: none identified</p> <p><em>Romania-Ukraine</em>: the International Court of Justice ruled largely in favor of Romania in its dispute submitted in 2004 over Ukrainian-administered Zmiyinyy/Serpilor (Snake) Island and Black Sea maritime boundary delimitation; in 2007, Romania opposed Ukraine's construction of a navigation canal from the Danube border through Ukraine to the Black Sea, arguing that it runs through a unique ecological area, the Danube Delta</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 106,786 (Ukraine) (as of 1 January 2023)<br>
+_refugees (country of origin)_: 106,987 (Ukraine) (as of 10 January 2023)<br>
 _stateless persons_: 314 (mid-year 2021)<br>
 <strong>note:</strong> 11,981 estimated refugee and migrant arrivals (January 2015-December 2022)<br>
 
