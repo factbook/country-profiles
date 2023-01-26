@@ -509,8 +509,8 @@ _lowest 10%_: 3.4%<br>
 _highest 10%_: 28.2% (2010)<br>
 
 **Budget**<br>
-_revenues_: 131.7 billion (2017 est.)<br>
-_expenditures_: 159.6 billion (2017 est.)<br>
+_revenues_: $131.7 billion (2017 est.)<br>
+_expenditures_: $159.6 billion (2017 est.)<br>
 
 **Budget surplus (+) or deficit (-)**<br>
 -2.7% (of GDP) (2017 est.)<br>
@@ -716,7 +716,7 @@ _by type_: bulk carrier 148, container ship 226, general cargo 2,238, oil tanker
 
 **Ports and terminals**<br>
 _major seaport(s)_: Banjarmasin, Belawan, Kotabaru, Krueg Geukueh, Palembang, Panjang, Sungai Pakning, Tanjung Perak, Tanjung Priok<br>
-_container port(s) (TEUs)_: Tanjung Perak (3,900,000), Tanjung Priok (7,600,000) (2019)<br>
+_container port(s) (TEUs)_: Tanjung Perak (3,901,215), Tanjung Priok (6,849,227) (2021)<br>
 _LNG terminal(s) (export)_: Bontang, Tangguh<br>
 _LNG terminal(s) (import)_: Arun, Lampung, West Java<br>
 

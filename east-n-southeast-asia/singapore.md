@@ -474,8 +474,8 @@ _lowest 10%_: 1.6%<br>
 _highest 10%_: 27.5% (2017)<br>
 
 **Budget**<br>
-_revenues_: 50.85 billion (2017 est.)<br>
-_expenditures_: 51.87 billion (2017 est.)<br>
+_revenues_: $50.85 billion (2017 est.)<br>
+_expenditures_: $51.87 billion (2017 est.)<br>
 <strong>note:</strong> expenditures include both operational and development expenditures<br>
 
 **Budget surplus (+) or deficit (-)**<br>
@@ -663,7 +663,7 @@ _by type_: bulk carrier 576, container ship 514, general cargo 113, oil tanker 6
 
 **Ports and terminals**<br>
 _major seaport(s)_: Singapore<br>
-_container port(s) (TEUs)_: Singapore (37,195,636) (2019)<br>
+_container port(s) (TEUs)_: Singapore (37,470,000) (2021)<br>
 _LNG terminal(s) (import)_: Singapore<br>
 
 ## Military and Security

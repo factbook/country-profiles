@@ -522,8 +522,8 @@ _lowest 10%_: 2.7%<br>
 _highest 10%_: 33.2% (2007)<br>
 
 **Budget**<br>
-_revenues_: 22.81 billion (2017 est.)<br>
-_expenditures_: 26.75 billion (2017 est.)<br>
+_revenues_: $22.81 billion (2017 est.)<br>
+_expenditures_: $26.75 billion (2017 est.)<br>
 
 **Budget surplus (+) or deficit (-)**<br>
 -3.6% (of GDP) (2017 est.)<br>
@@ -724,7 +724,7 @@ _by type_: container ship 6, general cargo 5, oil tanker 2, other 80 (2021)<br>
 
 **Ports and terminals**<br>
 _major seaport(s)_: Ad Dakhla, Agadir, Casablanca, Jorf Lasfar, Laayoune (El Aaiun), Mohammedia, Safi, Tangier<br>
-_container port(s) (TEUs)_: Tangier (4,801,713) (2019)<br>
+_container port(s) (TEUs)_: Tangier (7,173,870) (2021)<br>
 _LNG terminal(s) (import)_: Jorf Lasfar (planned)<br>
 
 ## Military and Security

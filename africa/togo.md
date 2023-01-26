@@ -498,8 +498,8 @@ _lowest 10%_: 3.3%<br>
 _highest 10%_: 27.1% (2006)<br>
 
 **Budget**<br>
-_revenues_: 1.023 billion (2017 est.)<br>
-_expenditures_: 1.203 billion (2017 est.)<br>
+_revenues_: $1.023 billion (2017 est.)<br>
+_expenditures_: $1.203 billion (2017 est.)<br>
 
 **Budget surplus (+) or deficit (-)**<br>
 -3.8% (of GDP) (2017 est.)<br>
@@ -695,6 +695,7 @@ _by type_: bulk carrier 1, container ship 9, general cargo 265, oil tanker 56, o
 
 **Ports and terminals**<br>
 _major seaport(s)_: Kpeme, Lome<br>
+_container port(s) (TEUs)_: Lome (1,962,304) (2021)<br>
 
 ## Military and Security
 

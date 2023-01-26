@@ -443,7 +443,7 @@ _exports of goods and services_: 96.3% (2017 est.)<br>
 _imports of goods and services_: -92.9% (2017 est.)<br>
 
 **Agricultural products**<br>
-wheat, maize, sugar beets, milk, barley, rapeseeds, potatoes, sunflower seeds, soybeans, pork<br>
+wheat, maize, sugar beets, milk, barley, rapeseed, potatoes, sunflower seeds, soybeans, pork<br>
 
 **Industries**<br>
 automobiles; metal and metal products; electricity, gas, coke, oil, nuclear fuel; chemicals, synthetic fibers, wood and paper products; machinery; earthenware and ceramics; textiles; electrical and optical apparatus; rubber products; food and beverages; pharmaceutical<br>
@@ -480,8 +480,8 @@ _lowest 10%_: 3.3%<br>
 _highest 10%_: 19.3% (2015 est.)<br>
 
 **Budget**<br>
-_revenues_: 37.79 billion (2017 est.)<br>
-_expenditures_: 38.79 billion (2017 est.)<br>
+_revenues_: $37.79 billion (2017 est.)<br>
+_expenditures_: $38.79 billion (2017 est.)<br>
 
 **Budget surplus (+) or deficit (-)**<br>
 -1% (of GDP) (2017 est.)<br>
@@ -711,7 +711,7 @@ Slovakia became a member of NATO in 2004<br><br>in 2022, Slovakia agreed to host
 <p><em>Slovakia-Austria</em>: none identified</p> <p><em>Slovakia-Czechia</em>: none identified</p> <p><em>Slovakia-Hungary</em>: initiated by the 1977 Budapest Treaty, Hungary and formerly Czechoslovakia agreed to a hydroelectric dam project on the Danube with dams to be constructed at Gabcikovo (Slovakia) and Nagymaros (Hungary) to prevent floods, improve river navigability, and to generate electricity; when Hungary suspended work on the project until its environmental impact could be assessed, Slovakia continued working on it and adopted a pared down strategy to divert the Danube so that all construction was within Czechoslovakian territory; Hungary terminated the project on environmental and economic grounds in 1989, and in 1992 both countries took the matter to the International Court of Justice (ICJ); the ICJ found largely in favor of then Slovakia, finding Hungary had breached their agreement; however, then Czechoslovakia should not have begun the alternative plan before the ICJ ruled on the case; in 2017, Hungary and Slovakia agreed to discontinue the ICJ proceedings</p> <p><em>Slovakia-Poland</em>: none identified</p> <p><em>Slovakia-Ukraine</em>: tens of thousands of Ukrainian refugees are crossing the border to Slovakia to escape the Russian invasion in their country</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 105,732 (Ukraine) (as of 10 January 2023)<br>
+_refugees (country of origin)_: 107,476 (Ukraine) (as of 17 January 2023)<br>
 _stateless persons_: 1,532 (mid-year 2021)<br>
 
 **Illicit drugs**<br>

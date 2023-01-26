@@ -453,7 +453,7 @@ _exports of goods and services_: 39.7% (2017 est.)<br>
 _imports of goods and services_: -79% (2017 est.)<br>
 
 **Agricultural products**<br>
-milk, potatoes, sugar beet, maize, wheat, barley, tomatoes, watermelons, onions, carrots/turnips<br>
+milk, potatoes, sugar beets, maize, wheat, barley, tomatoes, watermelons, onions, carrots/turnips<br>
 
 **Industries**<br>
 small machinery, textiles, food processing, cement, shoes, lumber, refrigerators, furniture, electric motors, gold, rare earth metals<br>
@@ -490,8 +490,8 @@ _lowest 10%_: 4.4%<br>
 _highest 10%_: 22.9% (2014 est.)<br>
 
 **Budget**<br>
-_revenues_: 2.169 billion (2017 est.)<br>
-_expenditures_: 2.409 billion (2017 est.)<br>
+_revenues_: $2.169 billion (2017 est.)<br>
+_expenditures_: $2.409 billion (2017 est.)<br>
 
 **Budget surplus (+) or deficit (-)**<br>
 -3.2% (of GDP) (2017 est.)<br>

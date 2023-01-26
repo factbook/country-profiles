@@ -368,8 +368,8 @@ _lowest 10%_: NA<br>
 _highest 10%_: NA<br>
 
 **Budget**<br>
-_revenues_: 400 million (2017 est.)<br>
-_expenditures_: 400 million (2017 est.)<br>
+_revenues_: $400 million (2017 est.)<br>
+_expenditures_: $400 million (2017 est.)<br>
 
 **Budget surplus (+) or deficit (-)**<br>
 0% (of GDP) (2017 est.)<br>
@@ -529,6 +529,7 @@ _by type_: general cargo 3, other 27 (2021)<br>
 
 **Ports and terminals**<br>
 _major seaport(s)_: Road Harbor<br>
+_cruise port(s)_: Tortola<br>
 
 ## Military and Security
 

@@ -474,8 +474,8 @@ _lowest 10%_: 1.7%<br>
 _highest 10%_: 25% (2015 est.)<br>
 
 **Budget**<br>
-_revenues_: 3.295 billion (2017 est.)<br>
-_expenditures_: 3.605 billion (2017 est.)<br>
+_revenues_: $3.295 billion (2017 est.)<br>
+_expenditures_: $3.605 billion (2017 est.)<br>
 
 **Budget surplus (+) or deficit (-)**<br>
 -2.7% (of GDP) (2017 est.)<br>
@@ -693,7 +693,7 @@ Islamic State of Iraq and ash-Sham (ISIS)<br>
 <p><em>North Macedonia-Albania</em>: none identified</p> <p><em>North Macedonia-Greece</em>: none identified</p> <p><em>North Macedonia-Kosovo</em>: North Macedonia and Kosovo completed demarcation of their boundary in October 2009</p> <p><em>North Macedonia-Serbia</em>: none identified</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 6,350 (Ukraine) (as of 4 January 2023)<br>
+_refugees (country of origin)_: 6,404 (Ukraine) (as of 15 January 2023)<br>
 _stateless persons_: 553 (mid-year 2021)<br>
 <strong>note:</strong> 550,697 estimated refugee and migrant arrivals (January 2015-November 2022)<br>
 

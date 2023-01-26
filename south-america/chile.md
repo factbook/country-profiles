@@ -480,8 +480,8 @@ _lowest 10%_: 1.7%<br>
 _highest 10%_: 41.5% (2013 est.)<br>
 
 **Budget**<br>
-_revenues_: 57.75 billion (2017 est.)<br>
-_expenditures_: 65.38 billion (2017 est.)<br>
+_revenues_: $57.75 billion (2017 est.)<br>
+_expenditures_: $65.38 billion (2017 est.)<br>
 
 **Budget surplus (+) or deficit (-)**<br>
 -2.8% (of GDP) (2017 est.)<br>
@@ -681,7 +681,7 @@ _by type_: bulk carrier 6, container ship 5, general cargo 58, oil tanker 14, ot
 
 **Ports and terminals**<br>
 _major seaport(s)_: Coronel, Huasco, Lirquen, Puerto Ventanas, San Antonio, San Vicente, Valparaiso<br>
-_container port(s) (TEUs)_: San Antonio (1,709,635), Valparaiso (898,715) (2019)<br>
+_container port(s) (TEUs)_: San Antonio (1,840,458), Valparaiso (793,118) (2021)<br>
 _LNG terminal(s) (import)_: Mejillones, Quintero<br>
 
 **Transportation - note**<br>

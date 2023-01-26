@@ -99,7 +99,7 @@ Portuguese 71.2% (official), Umbundu 23%, Kikongo 8.2%, Kimbundu 7.8%, Chokwe 6.
 Roman Catholic 41.1%, Protestant 38.1%, other 8.6%, none 12.3% (2014 est.)<br>
 
 **Demographic profile**<br>
-<p>More than two decades after the end of Angola's 27-year civil war, the country still faces a variety of socioeconomic problems, including poverty, high maternal and child mortality, and illiteracy. Despite the country's rapid post-war economic growth based on oil production, about 40 percent of Angolans live below the poverty line and unemployment is widespread, especially among the large young-adult population. Only about 70% of the population is literate, and the rate drops to around 60% for women. The youthful population - about 45% are under the age of 15 - is expected to continue growing rapidly with a fertility rate of more than 5 children per woman and a low rate of contraceptive use. Fewer than half of women deliver their babies with the assistance of trained health care personnel, which contributes to Angola's high maternal mortality rate.</p> <p>Of the estimated 550,000 Angolans who fled their homeland during its civil war, most have returned home since 2002. In 2012, the UN assessed that conditions in Angola had been stable for several years and invoked a cessation of refugee status for Angolans. Following the cessation clause, some of those still in exile returned home voluntarily through UN repatriation programs, and others integrated into host countries.</p><br>
+<p>More than two decades after the end of Angola's 27-year civil war, the country still faces a variety of socioeconomic problems, including poverty, high maternal and child mortality, and illiteracy. Despite the country's rapid post-war economic growth based on oil production, about 30 percent of Angolans live below the poverty line and unemployment is widespread, especially among the large young-adult population. Only about 70% of the population is literate, and the rate drops to around 60% for women. The youthful population - about 45% are under the age of 15 - is expected to continue growing rapidly with a fertility rate of more than 5 children per woman and a low rate of contraceptive use. Fewer than half of women deliver their babies with the assistance of trained health care personnel, which contributes to Angola's high maternal mortality rate.</p> <p>Of the estimated 550,000 Angolans who fled their homeland during its civil war, most have returned home since 2002. In 2012, the UN assessed that conditions in Angola had been stable for several years and invoked a cessation of refugee status for Angolans. Following the cessation clause, some of those still in exile returned home voluntarily through UN repatriation programs, and others integrated into host countries.</p><br>
 
 **Age structure**<br>
 _0-14 years_: 47.83% (male 7,758,636/female 7,797,869)<br>
@@ -494,8 +494,8 @@ _lowest 10%_: 0.6%<br>
 _highest 10%_: 44.7% (2000)<br>
 
 **Budget**<br>
-_revenues_: 37.02 billion (2017 est.)<br>
-_expenditures_: 45.44 billion (2017 est.)<br>
+_revenues_: $37.02 billion (2017 est.)<br>
+_expenditures_: $45.44 billion (2017 est.)<br>
 
 **Budget surplus (+) or deficit (-)**<br>
 -6.7% (of GDP) (2017 est.)<br>

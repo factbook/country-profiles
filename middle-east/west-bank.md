@@ -386,8 +386,8 @@ _highest 10%_: 28.2% (2009 est.)<br>
 <strong>note:</strong> includes Gaza Strip<br>
 
 **Budget**<br>
-_revenues_: 1.314 billion (2017 est.)<br>
-_expenditures_: 1.278 billion (2017 est.)<br>
+_revenues_: $1.314 billion (2017 est.)<br>
+_expenditures_: $1.278 billion (2017 est.)<br>
 <strong>note:</strong> includes Palestinian Authority expenditures in the Gaza Strip<br>
 
 **Budget surplus (+) or deficit (-)**<br>

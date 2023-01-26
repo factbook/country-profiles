@@ -421,8 +421,8 @@ _lowest 10%_: 1.8% NA<br>
 _highest 10%_: 38.1% (2016) NA<br>
 
 **Budget**<br>
-_revenues_: 79.34 billion (2017 est.)<br>
-_expenditures_: 61.64 billion (2017 est.)<br>
+_revenues_: $79.34 billion (2017 est.)<br>
+_expenditures_: $61.64 billion (2017 est.)<br>
 
 **Budget surplus (+) or deficit (-)**<br>
 5.2% (of GDP) (2017 est.)<br>
@@ -604,7 +604,7 @@ _by type_: bulk carrier 1,158, container ship 558, general cargo 184, oil tanker
 
 **Ports and terminals**<br>
 _major seaport(s)_: Hong Kong<br>
-_container port(s) (TEUs)_: Hong Kong (18,361,000) (2019)<br>
+_container port(s) (TEUs)_: Hong Kong (17,798,000) (2021)<br>
 
 ## Military and Security
 

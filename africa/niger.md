@@ -514,8 +514,8 @@ _lowest 10%_: 3.2%<br>
 _highest 10%_: 26.8% (2014)<br>
 
 **Budget**<br>
-_revenues_: 1.757 billion (2017 est.)<br>
-_expenditures_: 2.171 billion (2017 est.)<br>
+_revenues_: $1.757 billion (2017 est.)<br>
+_expenditures_: $2.171 billion (2017 est.)<br>
 
 **Budget surplus (+) or deficit (-)**<br>
 -5% (of GDP) (2017 est.)<br>
@@ -748,7 +748,7 @@ Boko Haram; Islamic State of Iraq and ash-Sham in the Greater Sahara (ISIS-GS); 
 <p><em>Niger-Benin-Nigeria</em>: location of Niger-Benin-Nigeria tripoint is unresolved</p> <p><em>Niger-Burkina Faso</em>: the dispute with Burkina Faso was referred to the International Court of Justice (ICJ) in 2010; the ICJ ruled in 2013 that 786 sq km should go to Burkina Faso and 277 sq km to Niger; the ruling was implemented in 2015 and 2016, with Burkina Faso gaining 14 towns and Niger 4</p> <p><em>Niger-Cameroon-Nigeria</em>: only Nigeria and Cameroon have heeded the Lake Chad Commission's admonition to ratify the delimitation treaty that also includes the Chad-Niger and Niger-Nigeria boundaries</p> <p><em>Niger-Libya</em>: Libya claims about 25,000 sq km in a currently dormant dispute in the Tummo region</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 187,130 (Nigeria), 65,688 (Mali) (refugees and asylum seekers) (2022)<br>
+_refugees (country of origin)_: 188,107 (Nigeria), 65,688 (Mali) (refugees and asylum seekers) (2022)<br>
 _IDPs_: 376,809 (includes the regions of Diffa, Tillaberi, and Tahoua; unknown how many of the 11,000 people displaced by clashes between government forces and the Tuareg militant group, Niger Movement for Justice, in 2007 are still displaced; inter-communal violence; Boko Haram attacks in southern Niger, 2015) (2022)<br>
 
 **Illicit drugs**<br>

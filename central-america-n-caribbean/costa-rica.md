@@ -486,8 +486,8 @@ _lowest 10%_: 1.5%<br>
 _highest 10%_: 36.9% (2014 est.)<br>
 
 **Budget**<br>
-_revenues_: 8.357 billion (2017 est.)<br>
-_expenditures_: 11.92 billion (2017 est.)<br>
+_revenues_: $8.357 billion (2017 est.)<br>
+_expenditures_: $11.92 billion (2017 est.)<br>
 
 **Budget surplus (+) or deficit (-)**<br>
 -6.1% (of GDP) (2017 est.)<br>
@@ -684,6 +684,7 @@ _by type_: other 11 (2021)<br>
 
 **Ports and terminals**<br>
 _major seaport(s)_: Atlantic Ocean (Caribbean) - Puerto Limon<br>
+_container port(s) (TEUs)_: Puerto Limon (1,319,372)<br>
 Pacific Ocean - Caldera<br>
 
 ## Military and Security

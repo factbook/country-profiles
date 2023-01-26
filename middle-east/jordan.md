@@ -499,8 +499,8 @@ _lowest 10%_: 3.4%<br>
 _highest 10%_: 28.7% (2010 est.)<br>
 
 **Budget**<br>
-_revenues_: 9.462 billion (2017 est.)<br>
-_expenditures_: 11.51 billion (2017 est.)<br>
+_revenues_: $9.462 billion (2017 est.)<br>
+_expenditures_: $11.51 billion (2017 est.)<br>
 
 **Budget surplus (+) or deficit (-)**<br>
 -5.1% (of GDP) (2017 est.)<br>
@@ -567,7 +567,7 @@ _electrification - total population_: 100% (2020)<br>
 
 **Electricity**<br>
 _installed generating capacity_: 5.644 million kW (2020 est.)<br>
-_consumption_: 17,366,400,000 kWh (2019 est.)<br>
+_consumption_: 17.366 billion kWh (2019 est.)<br>
 _exports_: 98 million kWh (2019 est.)<br>
 _imports_: 239 million kWh (2019 est.)<br>
 _transmission/distribution losses_: 2.249 billion kWh (2019 est.)<br>
@@ -607,9 +607,9 @@ _crude oil estimated reserves_: 1 million barrels (2021 est.)<br>
 
 **Natural gas**<br>
 _production_: 115.872 million cubic meters (2019 est.)<br>
-_consumption_: 4,650,978,000 cubic meters (2019 est.)<br>
+_consumption_: 4.651 billion cubic meters (2019 est.)<br>
 _exports_: 375.849 million cubic meters (2019 est.)<br>
-_imports_: 4,910,954,000 cubic meters (2019 est.)<br>
+_imports_: 4.911 billion cubic meters (2019 est.)<br>
 _proven reserves_: 6.031 billion cubic meters (2021 est.)<br>
 
 **Carbon dioxide emissions**<br>

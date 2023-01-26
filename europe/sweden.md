@@ -440,7 +440,7 @@ _exports of goods and services_: 45.3% (2017 est.)<br>
 _imports of goods and services_: -41.1% (2017 est.)<br>
 
 **Agricultural products**<br>
-wheat, milk, sugar beet, barley, potatoes, oats, rapeseed, pork, rye, triticale<br>
+wheat, milk, sugar beets, barley, potatoes, oats, rapeseed, pork, rye, triticale<br>
 
 **Industries**<br>
 iron and steel, precision equipment (bearings, radio and telephone parts, armaments), wood pulp and paper products, processed foods, motor vehicles<br>
@@ -477,8 +477,8 @@ _lowest 10%_: 3.4%<br>
 _highest 10%_: 24% (2012)<br>
 
 **Budget**<br>
-_revenues_: 271.2 billion (2017 est.)<br>
-_expenditures_: 264.4 billion (2017 est.)<br>
+_revenues_: $271.2 billion (2017 est.)<br>
+_expenditures_: $264.4 billion (2017 est.)<br>
 
 **Budget surplus (+) or deficit (-)**<br>
 1.3% (of GDP) (2017 est.)<br>
@@ -698,15 +698,15 @@ Swedish Armed Forces (Forsvarsmakten): Army, Navy, Air Force, Home Guard (2022)<
 1% of GDP (2017) (approximately $6.04 billion)<br>
 
 **Military and security service personnel strengths**<br>
-approximately 15,000 continuous service/full-time troops (7,000 Army; 3,000 Navy; 3,000 Air Force; 2,000 other, including staff, logistics, support, medical, cyber, intelligence, etc); approximately 21,000 Home Guard; approximately 12,000 temporary service personnel (2022)<br>
-<strong>note: </strong>Swedish Armed Forces' (SAF) personnel are divided into continuously serving (full-time) and temporary service troops (part-timers who serve periodically and have another main employer or attend school); additional personnel have signed service agreements with the SAF and mostly serve in the Home Guard; the SAF also has about 9,000 civilian employees<br>
+the SAF has about 46,000 military personnel: approximately 14,000 continuous service/full-time; approximately 11,000 temporary service; approximately 21,000 Home Guard (some on active duty) (2022)<br>
+<strong>note 1: </strong>SAF personnel are divided into continuously serving (full-time) and temporary service troops (part-timers who serve periodically and have another main employer or attend school); additional personnel have signed service agreements with the SAF and mostly serve in the Home Guard; the SAF also has about 9,000 civilian employees<br><br><strong>note 2:</strong> in 2021, Sweden announced plans that increase the total size of the armed forces to about 100,000 personnel by 2030<br>
 
 **Military equipment inventories and acquisitions**<br>
 the inventory of the SAF is comprised of domestically-produced and imported Western weapons systems; since 2010, the US is the leading supplier of military hardware to Sweden; Sweden's defense industry produces a range of air, land, and naval systems (2021)<br>
 
 **Military service age and obligation**<br>
 18-47 years of age for male and female voluntary military service; service obligation: 7.5 months (Army), 7-15 months (Navy), 8-12 months (Air Force); after completing initial service, soldiers have a reserve commitment until age 47; compulsory military service, abolished in 2010, was reinstated in January 2018; conscription is selective, includes both men and women (age 18), and requires 9-12 months of service (2022)<br>
-<strong>note 1: </strong>Sweden conscripts about 5,500 men and women each year<br><br><strong>note 2: </strong>as of 2021, women made up about 11% of the military's full-time personnel<br>
+<strong>note 1: </strong>Sweden conscripts about 5,500 men and women each year; it plans to increase this number to 8,000 by 2025<br><br><strong>note 2: </strong>as of 2021, women made up about 11% of the military's full-time personnel<br>
 
 **Military deployments**<br>
 approximately 200 Mali (MINUSMA) (2022)<br>
@@ -726,6 +726,6 @@ Islamic State of Iraq and ash-Sham (ISIS)<br>
 <p>none identified</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 113,213 (Syria), 26,857 (Afghanistan), 25,849 (Eritrea), 10,464 (Iraq), 9,315 (Somalia), 7,146 (Iran) (mid-year 2022); 50,530 (Ukraine) (as of 5 January)<br>
+_refugees (country of origin)_: 113,213 (Syria), 26,857 (Afghanistan), 25,849 (Eritrea), 10,464 (Iraq), 9,315 (Somalia), 7,146 (Iran) (mid-year 2022); 50,795 (Ukraine) (as of 12 January)<br>
 _stateless persons_: 50,098 (mid-year 2021); note - the majority of stateless people are from the Middle East and Somalia<br>
 

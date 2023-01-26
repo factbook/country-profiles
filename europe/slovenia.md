@@ -330,14 +330,14 @@ _dual citizenship recognized_: yes, for select cases<br>
 _residency requirement for naturalization_: 10 years, the last 5 of which have been continuous<br>
 
 **Suffrage**<br>
-18 years of age, 16 if employed; universal<br>
+18 years of age; universal<br>
 
 **Executive branch**<br>
-_chief of state_: President Borut PAHOR (since 22 December 2012)<br>
-_head of government_: Prime Minister Natasa PIRC MUSAR (since 23 December 2022); note - PIRC MUSAR is Slovenia's first female prime minister<br>
+_chief of state_: President Natasa PIRC MUSAR (since 23 December 2022); note - PIRC MUSAR is Slovenia's first female president<br>
+_head of government_: Prime Minister Robert GOLOB (since 1 June 2022)<br>
 _cabinet_: Council of Ministers nominated by the prime minister, elected by the National Assembly<br>
 _elections/appointments_: president directly elected by absolute majority popular vote in 2 rounds if needed for a 5-year term (eligible for a second consecutive term); election last held on 23 October with a runoff on 13 November 2022 (next election to be held in 2027); following National Assembly elections, the leader of the majority party or majority coalition usually nominated prime minister by the president and elected by the National Assembly<br>
-_election results_: <em>2022:</em> Natasa PIRC MUSAR elected in second round: percent of vote in first round - Natasa PIRC MUSAR (independent) 26.9%, Anze LOGAR (SDS) 34%, Milan BRGLEZ (SD) 15.5%, Vladimir PREBILIC (independent) 10.6%, Sabina SENCAR (Resni.ca) 5.9%, Janez CIGLER KRALJ (NSi) 4.4%, Miha KORDIS (The Left) 2.8%; percent of vote in second round - Natasa PIRC MUSAR 53.9%, Anze LOGAR 46.1%<br><em><br>2017:</em> Borut PAHOR is reelected president in second round; percent of vote in first round - Borut PAHOR (independent) 47.1%, Marjan SAREC (Marjan Sarec List) 25%, Romana TOMC (SDS) 13.7%, Ljudmila NOVAK (NSi) 7.2%, other 7%; percent of vote in second round - Borut PAHOR 52.9%, Marjan SAREC 47.1%; Robert GOLOB (GS) elected prime minister on 25 May 2022, National Assembly vote - 54-30<br><br><em>2012:</em> Borut PAHOR elected president; percent of vote in second round - Borut PAHOR (SD) 67.4%, Danilo TURK (independent) 32.6%; note - a snap election was held on 13 July 2014 following the resignation of Prime Minister Alenka BRATUSEK on 5 May 2014; Miro CERAR (SMC) elected prime minister; National Assembly vote - 57 to 11<br>
+_election results_: <em>2022:</em> Natasa PIRC MUSAR elected in second round: percent of vote in first round - Natasa PIRC MUSAR (independent) 26.9%, Anze LOGAR (SDS) 34%, Milan BRGLEZ (SD) 15.5%, Vladimir PREBILIC (independent) 10.6%, Sabina SENCAR (Resni.ca) 5.9%, Janez CIGLER KRALJ (NSi) 4.4%, Miha KORDIS (The Left) 2.8%; percent of vote in second round - Natasa PIRC MUSAR 53.9%, Anze LOGAR 46.1%; Robert GOLOB (GS) elected prime minister on 25 May 2022, National Assembly vote - 54-30<br><em><br>2017:</em> Borut PAHOR is reelected president in second round; percent of vote in first round - Borut PAHOR (independent) 47.1%, Marjan SAREC (Marjan Sarec List) 25%, Romana TOMC (SDS) 13.7%, Ljudmila NOVAK (NSi) 7.2%, other 7%; percent of vote in second round - Borut PAHOR 52.9%, Marjan SAREC 47.1%<br><br><em>2012:</em> Borut PAHOR elected president; percent of vote in second round - Borut PAHOR (SD) 67.4%, Danilo TURK (independent) 32.6%; note - a snap election was held on 13 July 2014 following the resignation of Prime Minister Alenka BRATUSEK on 5 May 2014; Miro CERAR (SMC) elected prime minister; National Assembly vote - 57 to 11<br>
 
 **Legislative branch**<br>
 _description_: bicameral Parliament consists of:<br>National Council (State Council)or Drzavni Svet (40 seats; members indirectly elected by an electoral college to serve 5-year terms); note - the Council is primarily an advisory body with limited legislative powers<br>National Assembly or Drzavni Zbor (90 seats; 88 members directly elected in single-seat constituencies by proportional representation vote and 2 directly elected in special constituencies for Italian and Hungarian minorities by simple majority vote; members serve 4-year terms)<br>
@@ -473,8 +473,8 @@ _lowest 10%_: 3.8%<br>
 _highest 10%_: 20.1% (2016)<br>
 
 **Budget**<br>
-_revenues_: 21.07 billion (2017 est.)<br>
-_expenditures_: 21.06 billion (2017 est.)<br>
+_revenues_: $21.07 billion (2017 est.)<br>
+_expenditures_: $21.06 billion (2017 est.)<br>
 
 **Budget surplus (+) or deficit (-)**<br>
 0% (of GDP) (2017 est.)<br>

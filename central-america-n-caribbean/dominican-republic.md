@@ -489,8 +489,8 @@ _lowest 10%_: 1.9%<br>
 _highest 10%_: 37.4% (2013 est.)<br>
 
 **Budget**<br>
-_revenues_: 11.33 billion (2017 est.)<br>
-_expenditures_: 13.62 billion (2017 est.)<br>
+_revenues_: $11.33 billion (2017 est.)<br>
+_expenditures_: $13.62 billion (2017 est.)<br>
 
 **Budget surplus (+) or deficit (-)**<br>
 -3% (of GDP) (2017 est.)<br>
@@ -689,6 +689,8 @@ _by type_: container ship 1, general cargo 2, oil tanker 1, other 34 (2021)<br>
 **Ports and terminals**<br>
 _major seaport(s)_: Puerto Haina, Puerto Plata, Santo Domingo<br>
 _oil terminal(s)_: Punta Nizao oil terminal<br>
+_cruise port(s)_: La Romana<br>
+_container port(s) (TEUs)_: Caucedo (1,265,459); Haina (495,243)<br>
 _LNG terminal(s) (import)_: Andres LNG terminal (Boca Chica)<br>
 
 ## Military and Security

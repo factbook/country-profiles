@@ -523,8 +523,8 @@ _lowest 10%_: 2%<br>
 _highest 10%_: 40% (2014)<br>
 
 **Budget**<br>
-_revenues_: 261.4 billion (2017 est.)<br>
-_expenditures_: 273.8 billion (2017 est.)<br>
+_revenues_: $261.4 billion (2017 est.)<br>
+_expenditures_: $273.8 billion (2017 est.)<br>
 
 **Budget surplus (+) or deficit (-)**<br>
 -1.1% (of GDP) (2017 est.)<br>
@@ -731,7 +731,7 @@ _by type_: container ship 1, bulk carrier 4, general cargo 11, oil tanker 31, ot
 _major seaport(s)_: Altamira, Coatzacoalcos, Lazaro Cardenas, Manzanillo, Veracruz<br>
 _oil terminal(s)_: Cayo Arcas terminal, Dos Bocas terminal<br>
 _cruise port(s)_: Cancun, Cozumel, Ensenada<br>
-_container port(s) (TEUs)_: Lazaro Cardenas (1,318,732), Manzanillo (3,069,189), Veracruz (1,144,156) (2019)<br>
+_container port(s) (TEUs)_: Lazaro Cardenas (1,686,076), Manzanillo (3,371,400), Veracruz (1,165,043) (2021)<br>
 _LNG terminal(s) (import)_: Altamira, Ensenada<br>
 
 ## Military and Security

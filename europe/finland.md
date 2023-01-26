@@ -480,8 +480,8 @@ _lowest 10%_: 6.7%<br>
 _highest 10%_: 45.2% (2013)<br>
 
 **Budget**<br>
-_revenues_: 134.2 billion (2017 est.)<br>
-_expenditures_: 135.6 billion (2017 est.)<br>
+_revenues_: $134.2 billion (2017 est.)<br>
+_expenditures_: $135.6 billion (2017 est.)<br>
 <strong>note:</strong> Central Government Budget data; these numbers represent a significant reduction from previous official reporting<br>
 
 **Budget surplus (+) or deficit (-)**<br>
@@ -722,6 +722,6 @@ Finland is not a member of NATO, but Finland and NATO have actively cooperated i
 <p>various groups in Finland advocate restoration of Karelia and other areas ceded to the former Soviet Union, but the Finnish Government asserts no territorial demands</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 9,175 (Iraq) (mid-year 2022); 47,067 (Ukraine) (as of 9 January 2023)<br>
+_refugees (country of origin)_: 9,175 (Iraq) (mid-year 2022); 47,067 (Ukraine) (as of 16 January 2023)<br>
 _stateless persons_: 3,416 (mid-year 2021)<br>
 

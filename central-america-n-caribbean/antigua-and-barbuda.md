@@ -310,9 +310,9 @@ _cabinet_: Council of Ministers appointed by the governor general on the advice 
 _elections/appointments_: the monarchy is hereditary; governor general appointed by the monarch on the advice of the prime minister; following legislative elections, the leader of the majority party or majority coalition usually appointed prime minister by the governor general<br>
 
 **Legislative branch**<br>
-_description_: bicameral Parliament consists of:<br>Senate (17 seats; members appointed by the governor general)<br>House of Representatives (18 seats; members directly elected in single-seat constituencies by simple majority vote to serve 5-year terms)<br>
-_elections_: <br>Senate - last appointed on 26 March 2018 (next NA)<br>House of Representatives - last held on 21 March 2018 (next to be held in March 2023)<br>
-_election results_: <br>Senate -  composition - men 8, women 9, percent of women 52.9%<br>House of Representatives - percent of vote by party - ABLP 59.4%, UPP 37.2%, BPM 1.4%, other 1.9% ; seats by party - ABLP 15, UPP 1, BPM 1; composition - men 16, women 2, percent of women 11.1%; note - total Parliament percent of women 31.4%<br>
+_description_: bicameral Parliament consists of:<br>Senate (17 seats; members appointed by the governor general)<br>House of Representatives (17 seats; members directly elected in single-seat constituencies by simple majority vote to serve 5-year terms)<br>
+_elections_: <br>Senate - last appointed on 26 March 2018 (next NA)<br>House of Representatives - last held on 18 January 2023 (next to be held in March 2028)<br>
+_election results_: <br>Senate -  composition - men 8, women 9, percent of women 52.9%<br>House of Representatives - percent of vote by party - ABLP 47.1%, UPP 45.2%, BPM 1.5%, independents 5.2% ; seats by party - ABLP 9, UPP 6, BPM 1, independents 1; composition - men 16, women 2, percent of women 11.1%; note - total Parliament percent of women 31.4%<br>
 
 **Judicial branch**<br>
 _highest court(s)_: the Eastern Caribbean Supreme Court (ECSC) is the superior court of the Organization of Eastern Caribbean States; the ECSC - headquartered on St. Lucia - consists of the Court of Appeal - headed by the chief justice and 4 judges - and the High Court with 18 judges; the Court of Appeal is itinerant, travelling to member states on a schedule to hear appeals from the High Court and subordinate courts; High Court judges reside in the member states, with 2 assigned to Antigua and Barbuda<br>
@@ -422,8 +422,8 @@ _lowest 10%_: NA<br>
 _highest 10%_: NA<br>
 
 **Budget**<br>
-_revenues_: 298.2 million (2017 est.)<br>
-_expenditures_: 334 million (2017 est.)<br>
+_revenues_: $298.2 million (2017 est.)<br>
+_expenditures_: $334 million (2017 est.)<br>
 
 **Budget surplus (+) or deficit (-)**<br>
 -2.4% (of GDP) (2017 est.)<br>
@@ -607,6 +607,7 @@ _by type_: bulk carrier 24, container ship 123, general cargo 473, oil tanker 2,
 
 **Ports and terminals**<br>
 _major seaport(s)_: Saint John's<br>
+_cruise port(s)_: St. John's<br>
 
 ## Military and Security
 

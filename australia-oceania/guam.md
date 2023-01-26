@@ -388,8 +388,8 @@ _lowest 10%_: NA<br>
 _highest 10%_: NA<br>
 
 **Budget**<br>
-_revenues_: 1.24 billion (2016 est.)<br>
-_expenditures_: 1.299 billion (2016 est.)<br>
+_revenues_: $1.24 billion (2016 est.)<br>
+_expenditures_: $1.299 billion (2016 est.)<br>
 
 **Budget surplus (+) or deficit (-)**<br>
 -1% (of GDP) (2016 est.)<br>

@@ -460,8 +460,8 @@ _lowest 10%_: 1.2%<br>
 _highest 10%_: 33.3% (FY09/10)<br>
 
 **Budget**<br>
-_revenues_: 1.19 billion (2016 est.)<br>
-_expenditures_: 1.643 billion (2016 est.)<br>
+_revenues_: $1.19 billion (2016 est.)<br>
+_expenditures_: $1.643 billion (2016 est.)<br>
 
 **Budget surplus (+) or deficit (-)**<br>
 -10.1% (of GDP) (2016 est.)<br>

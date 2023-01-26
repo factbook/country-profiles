@@ -291,8 +291,8 @@ postage stamps, handicrafts, beekeeping, honey<br>
 <p><strong>note:</strong> no business community in the usual sense; some public works; subsistence farming and fishing</p><br>
 
 **Budget**<br>
-_revenues_: 746,000 (FY04/05)<br>
-_expenditures_: 1.028 million (FY04/05)<br>
+_revenues_: $746,000 (FY04/05)<br>
+_expenditures_: $1.028 million (FY04/05)<br>
 
 **Fiscal year**<br>
 1 April - 31 March<br>

@@ -472,8 +472,8 @@ _lowest 10%_: NA<br>
 _highest 10%_: NA<br>
 
 **Budget**<br>
-_revenues_: 5.854 billion (2017 est.)<br>
-_expenditures_: 9.407 billion (2017 est.)<br>
+_revenues_: $5.854 billion (2017 est.)<br>
+_expenditures_: $9.407 billion (2017 est.)<br>
 
 **Budget surplus (+) or deficit (-)**<br>
 -10.1% (of GDP) (2017 est.)<br>
@@ -595,17 +595,17 @@ _Total energy consumption per capita 2019_: 547.976 million Btu/person (2019 est
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 274,106 (2020 est.)<br>
-_subscriptions per 100 inhabitants_: 16 (2020 est.)<br>
+_total subscriptions_: 266,741 (2021 est.)<br>
+_subscriptions per 100 inhabitants_: 18 (2021 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 1,748,672 (2020 est.)<br>
-_subscriptions per 100 inhabitants_: 103 (2020 est.)<br>
+_total subscriptions_: 1,923,443 (2021 est.)<br>
+_subscriptions per 100 inhabitants_: 131 (2021 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: Bahrain continues to develop its telecoms sector in a bid to develop its long-term Economic Vision 2030 strategy; this is a multi-faceted strategy aimed at developing a digital transformation across numerous sectors, including e-government, e-health, e-commerce, and e-banking; 5G services have become widely available since they were launched in 2020; Bahrain&rsquo;s telecom sector by the Fourth National Telecommunications Plan (initiated in 2016) which focuses on fiber optic infrastructure deployment and establishing affordable prices for high-speed access (2022)<br>
-_domestic_: approximately 16 per 100 fixed-line and 103 per 100 mobile-cellular; modern fiber-optic integrated services; digital network with rapidly expanding mobile-cellular telephones (2020)<br>
-_international_: country code - 973; landing points for the&nbsp;FALCON, Tata TGN-Gulf, GBICS/MENA, and FOG&nbsp;submarine cable network that provides links to Asia, the Middle East, and Africa; tropospheric scatter to Qatar and UAE; microwave radio relay to Saudi Arabia; satellite earth station - 1 (2019)<br>
+_domestic_: approximately 18 per 100 fixed-line and 131 per 100 mobile-cellular; modern fiber-optic integrated services; digital network with rapidly expanding mobile-cellular telephones (2021)<br>
+_international_: country code - 973; Bahrain’s Telecommunications Regulatory Authority (TRA) has made part of the C-band spectrum available for 5G private networks, in line with the goals outlined in its Workplan for the 2022-23 period (2023)<br>
 <strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress toward 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>
 
 **Broadcast media**<br>

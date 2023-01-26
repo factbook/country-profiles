@@ -367,7 +367,7 @@ Austrian People's Party or OeVP [Karl NEHAMMER]<br>Communist Party of Austria or
 ADB (nonregional member), AfDB (nonregional member), Australia Group, BIS, BSEC (observer), CD, CE, CEI, CERN, EAPC, EBRD, ECB, EIB, EMU, ESA, EU, FAO, FATF, G-9, IADB, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IEA, IFAD, IFC, IFRCS, IGAD (partners), ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, MINURSO, NEA, NSG, OAS (observer), OECD, OIF (observer), OPCW, OSCE, Paris Club, PCA, PFP, Schengen Convention, SELEC (observer), UN, UNCTAD, UNESCO, UNFICYP, UNHCR, UNIDO, UNIFIL, UNTSO, UNWTO, UPU, Wassenaar Arrangement, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO, ZC<br>
 
 **Diplomatic representation in the US**<br>
-_chief of mission_: Ambassador Martin WEISS (since 6 January 2020)<br>
+_chief of mission_: Charge d'Affaires Guenther SALZMANN (since 1 August 2022)<br>
 _chancery_: 3524 International Court NW, Washington, DC 20008-3035<br>
 _telephone_: [1] (202) 895-6700<br>
 _FAX_: [1] (202) 895-6750<br>
@@ -485,8 +485,8 @@ _lowest 10%_: 2.8%<br>
 _highest 10%_: 23.5% (2012 est.)<br>
 
 **Budget**<br>
-_revenues_: 201.7 billion (2017 est.)<br>
-_expenditures_: 204.6 billion (2017 est.)<br>
+_revenues_: $201.7 billion (2017 est.)<br>
+_expenditures_: $204.6 billion (2017 est.)<br>
 
 **Budget surplus (+) or deficit (-)**<br>
 -0.7% (of GDP) (2017 est.)<br>
@@ -612,16 +612,16 @@ _Total energy consumption per capita 2019_: 171.299 million Btu/person (2019 est
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 3,786,725 (2020 est.)<br>
-_subscriptions per 100 inhabitants_: 42 (2020 est.)<br>
+_total subscriptions_: 3,808,709 (2021 est.)<br>
+_subscriptions per 100 inhabitants_: 43 (2021 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 10,717,445 (2020 est.)<br>
-_subscriptions per 100 inhabitants_: 119 (2020 est.)<br>
+_total subscriptions_: 10,882,217 (2021 est.)<br>
+_subscriptions per 100 inhabitants_: 122 (2021 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: mature telecom market; the mobile market benefits from a growing number of Mobile Virtual Network Operators; the telcos as well as the government and regulator have been focused on delivering improved telecom infrastructure; the government has a program to provide a national gigabit service by 2030, delivered by private enterprise though with some state funding; this is based on fiber networks supported by 5G, with the Mobile Network Operators able to expand the reach of their 5G services following auctions held in March 2019 and September 2020; the fixed-line broadband market is still dominated by the DSL sector, while the cable broadband sector has held a steady share of connections in recent years; the fiber sector was slow to develop, and although fiber remains low there are plans to build out the network infrastructure (2021)<br>
-_domestic_: developed and efficient; 42 per 100 fixed-line for households, 174 per 100 for companies; roughly 119 per 100 mobile-cellular; broadband: 138 per 100 on smartphones; roughly 29 per 100 fixed broadband and 107 per 100 mobile broadband (2020)<br>
+_domestic_: developed and efficient; 43 per 100 fixed telephone subscriptions; 122 per 100 mobile-cellular subscriptions (2021)<br>
 _international_: country code - 43; earth stations available in the Astra, Intelsat, Eutelsat satellite systems (2019)<br>
 <strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress toward 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>
 
@@ -733,7 +733,7 @@ Islamic State of Iraq and ash-Sham (ISIS)<br>
 <p>none identified</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 67,588 (Syria), 43,725 (Afghanistan), 10,110 (Iraq), 8,684 (Somalia), 7,294 (Iran), 6,124 (Russia) (mid-year 2022); 91,232 (Ukraine) (as of 9 January 2023)<br>
+_refugees (country of origin)_: 67,588 (Syria), 43,725 (Afghanistan), 10,110 (Iraq), 8,684 (Somalia), 7,294 (Iran), 6,124 (Russia) (mid-year 2022); 91,631 (Ukraine) (as of 17 January 2023)<br>
 _stateless persons_: 3,229 (mid-year 2021)<br>
 
 **Illicit drugs**<br>

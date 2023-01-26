@@ -519,8 +519,8 @@ _lowest 10%_: 2.3%<br>
 _highest 10%_: 32.2% (2012 est.)<br>
 
 **Budget**<br>
-_revenues_: 258.6 billion (2017 est.)<br>
-_expenditures_: 281.4 billion (2017 est.)<br>
+_revenues_: $258.6 billion (2017 est.)<br>
+_expenditures_: $281.4 billion (2017 est.)<br>
 
 **Budget surplus (+) or deficit (-)**<br>
 -1.4% (of GDP) (2017 est.)<br>
@@ -727,7 +727,7 @@ _by type_: bulk carrier 13, container ship 17, general cargo 946, oil tanker 406
 **Ports and terminals**<br>
 _major seaport(s)_: <em><br>Arctic Ocean: </em>Arkhangelsk, Murmansk<em><br>Baltic Sea:</em> Kaliningrad, Primorsk, Saint Petersburg<br><em>Black Sea:</em> Novorossiysk<br><em>Pacific Ocean:</em> Nakhodka, Vladivostok, Vostochnyy<br>
 _oil terminal(s)_: Kavkaz oil terminal, Primorsk<br>
-_container port(s) (TEUs)_: Saint Petersburg (2,221,724) (2019)<br>
+_container port(s) (TEUs)_: Saint Petersburg (2,042,358) (2021)<br>
 _LNG terminal(s) (export)_: Sabetta, Sakhalin Island<br>
 _river port(s)_: Astrakhan, Kazan (Volga River); Rostov-on-Don (Don River); Saint Petersburg (Neva River)<br>
 
@@ -748,8 +748,8 @@ Armed Forces of the Russian Federation: Ground Troops (Sukhoputnyye Voyskia, SV)
 4.2% of GDP (2017 est.) (approximately $104 billion)<br>
 
 **Military and security service personnel strengths**<br>
-prior to Russia's invasion of Ukraine in February 2022, approximately 850,000 active-duty troops (300,000 Ground Troops; 40,000 Airborne Troops; 150,000 Navy; 160,000 Aerospace Forces; 70,000 Strategic Rocket Forces; approximately 20,000 special operations forces; approximately 100,000 other uniformed personnel (command and control, cyber, support, logistics, security, etc.); estimated 200-250,000 Federal National Guard Troops (2022)<br>
-<strong>note 1: </strong>in September 2022, the Russian Government called up 300,000 reservists to active military duty to support the war in Ukraine, and in August 2022 ordered the military to increase the total number of armed forces personnel by 137,000<br><br><strong>note 2: </strong>as of late 2022, Russia was estimated to have as many as 50,000 private military contractors fighting in Ukraine<br>
+prior to Russia's invasion of Ukraine in February 2022, approximately 850,000 active-duty troops (300,000 Ground Troops; 40,000 Airborne Troops; 150,000 Navy; 160,000 Aerospace Forces; 70,000 Strategic Rocket Forces; approximately 20,000 special operations forces; approximately 100,000 other uniformed personnel (command and control, cyber, support, logistics, security, etc.); estimated 200-250,000 Federal National Guard Troops (2023)<br>
+<strong>note 1: </strong>in December 2022, the Russian Government announced a target level of 1.15 million total troops; in early 2023, it announced further plans to expand the size of the armed forces to 1.5 million but did not provide a timeline<br><br><strong>note 2: </strong>Russia was estimated to have as many as 50,000 private military contractors fighting in Ukraine as of early 2023 <br>
 
 **Military equipment inventories and acquisitions**<br>
 the Russian Federation's military and paramilitary services are equipped with domestically produced weapons systems, although since 2010 Russia has imported limited amounts of military hardware from several countries, including Czechia, France, Iran, Israel, Italy, Turkey, and Ukraine; the Russian defense industry is capable of designing, developing, and producing a full range of advanced air, land, missile, and naval systems; Russia is the world's second largest exporter of military hardware (2022)<br>

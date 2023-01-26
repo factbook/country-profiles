@@ -501,8 +501,8 @@ _lowest 10%_: 2.6%<br>
 _highest 10%_: 24.8% (2000)<br>
 
 **Budget**<br>
-_revenues_: 649.6 billion (2017 est.)<br>
-_expenditures_: 665.7 billion (2017 est.)<br>
+_revenues_: $649.6 billion (2017 est.)<br>
+_expenditures_: $665.7 billion (2017 est.)<br>
 
 **Budget surplus (+) or deficit (-)**<br>
 -1% (of GDP) (2017 est.)<br>
@@ -708,7 +708,7 @@ _by type_: bulk carrier 22, container ship 1, general cargo 66, oil tanker 15, o
 **Ports and terminals**<br>
 _major seaport(s)_: Halifax, Saint John (New Brunswick), Vancouver<br>
 _oil terminal(s)_: Lower Lakes terminal<br>
-_container port(s) (TEUs)_: Montreal (1,745,244), Vancouver (3,398,860) (2019)<br>
+_container port(s) (TEUs)_: Montreal (1,585,465), Vancouver (3,678,952) (2021)<br>
 _LNG terminal(s) (import)_: Saint John<br>
 _river and lake port(s)_: Montreal, Quebec City, Sept-Isles (St. Lawrence)<br>
 _dry bulk cargo port(s)_: Port-Cartier (iron ore and grain),<br>

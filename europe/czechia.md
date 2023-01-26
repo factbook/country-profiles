@@ -481,8 +481,8 @@ _lowest 10%_: 4.1%<br>
 _highest 10%_: 21.7% (2015 est.)<br>
 
 **Budget**<br>
-_revenues_: 87.37 billion (2017 est.)<br>
-_expenditures_: 83.92 billion (2017 est.)<br>
+_revenues_: $87.37 billion (2017 est.)<br>
+_expenditures_: $83.92 billion (2017 est.)<br>
 
 **Budget surplus (+) or deficit (-)**<br>
 1.6% (of GDP) (2017 est.)<br>
@@ -717,7 +717,7 @@ Czechia joined NATO in 1999; Czechia, Hungary, and Poland were invited to begin 
 <p>none</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 478,614 (Ukraine) (as of 8 January 2023)<br>
+_refugees (country of origin)_: 482,049 (Ukraine) (as of 16 January 2023)<br>
 _stateless persons_: 1,498 (mid-year 2021)<br>
 
 **Illicit drugs**<br>

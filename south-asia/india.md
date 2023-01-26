@@ -520,8 +520,8 @@ _lowest 10%_: 3.6%<br>
 _highest 10%_: 29.8% (2011)<br>
 
 **Budget**<br>
-_revenues_: 238.2 billion (2017 est.)<br>
-_expenditures_: 329 billion (2017 est.)<br>
+_revenues_: $238.2 billion (2017 est.)<br>
+_expenditures_: $329 billion (2017 est.)<br>
 
 **Budget surplus (+) or deficit (-)**<br>
 -3.5% (of GDP) (2017 est.)<br>
@@ -729,7 +729,7 @@ _by type_: bulk carrier 63, container ship 22, general cargo 587, oil tanker 136
 
 **Ports and terminals**<br>
 _major seaport(s)_: Chennai, Jawaharal Nehru Port, Kandla, Kolkata (Calcutta), Mumbai (Bombay), Sikka, Vishakhapatnam<br>
-_container port(s) (TEUs)_: Jawaharal Nehru Port (5,100,891), Mundra (4,732,699) (2019)<br>
+_container port(s) (TEUs)_: Jawaharal Nehru Port (5,630,000), Mundra (6,660,000) (2021)<br>
 _LNG terminal(s) (import)_: Dabhol, Dahej, Hazira, Kochi<br>
 
 ## Military and Security
@@ -739,11 +739,11 @@ Indian Armed Forces: Army, Navy, Air Force, Coast Guard; Frontier Corps; Defense
 <strong>note 1:</strong> the Defense Security Corps provides security for Ministry of Defense sites<br><br><strong>note 2: </strong>the Border Security Force (BSF) is responsible for the Indo-Pakistan and Indo-Bangladesh borders; the Sashastra Seema Bal (SSB or Armed Border Force) guards the Indo-Nepal and Indo-Bhutan borders<br><br><strong>note 3:</strong> the Central Reserve Police Force (CRPF) includes a Rapid Reaction Force (RAF) for riot control and the Commando Battalion for Resolute Action (COBRA) for counter-insurgency operations <br><br><strong>note 4:</strong> the Assam Rifles are under the administrative control of the Ministry of Home Affairs, while operational control falls under the Ministry of Defense (specifically the Indian Army)<br>
 
 **Military expenditures**<br>
+2.1% of GDP (2022 est.)<br>
 2.2% of GDP (2021 est.)<br>
 2.6% of GDP (2020 est.)<br>
-2.4% of GDP (2019) (approximately $93.9 billion)<br>
-2.4% of GDP (2018) (approximately $88.2 billion)<br>
-2.4% of GDP (2017) (approximately $83.8 billion)<br>
+2.4% of GDP (2019 est.)<br>
+2.4% of GDP (2018 est.)<br>
 
 **Military and security service personnel strengths**<br>
 information varies; approximately 1.45 million active personnel (estimated 1.25 million Army; 65,000 Navy; 140,000 Air Force; 12,000 Coast Guard) (2022)<br>
@@ -753,7 +753,7 @@ the military's inventory consists mostly of Russian- and Soviet-origin equipment
 
 **Military service age and obligation**<br>
 ages vary by service, but generally 16.5-27 years of age for voluntary military service for men and women; no conscription (2022)<br>
-<strong>note 1:</strong> in 2022, the Indian Government announced that it would begin recruiting 46,000 men aged 17.5-21 annually to serve on 4-year contracts under a process called the Agnipath scheme; at the end of their tenure, 25% would be retained for longer terms of service, while the remainder would be forced to leave the military, although some of those leaving would be eligible to serve in the Coast Guard, the Merchant Navy, civilian positions in the Ministry of Defense, and in the paramilitary forces of the Ministry of Home Affairs, such as the Central Armed Police Forces and Assam Rifles<br><br><strong>note 2: </strong>as of 2022, women made up about .59% of the Army, 1.1% of the Air Force, and 6% of the Navy<br><br><strong>note 3: </strong>the Indian military accepts citizens of Nepal and Bhutan; descendants of refugees from Tibet who arrived before 1962 and have resided permanently in India; peoples of Indian origin from nations such as Burma, the Democratic Republic of the Congo, Ethiopia, Kenya, Malawi, Pakistan, Sri Lanka, Tanzania, Uganda, and Vietnam with the intention of permanently settling in India; eligible candidates from “friendly foreign nations” may apply to the Armed Forces Medical Services <br><br><strong>note 4:</strong> the British began to recruit Nepalese citizens (Gurkhas) into the East India Company Army during the Anglo-Nepalese War (1814-1816), and the Gurkhas subsequently were brought into the British Indian Army; following the partition of India in 1947, an agreement between Nepal, India, and Great Britain allowed for the transfer of the 10 regiments from the British Indian Army to the separate British and Indian armies; six regiments of Gurkhas (aka Gorkhas in India) regiments went to the new Indian Army; a seventh regiment was later added <br>
+<strong>note 1:</strong> in 2022, the Indian Government announced that it would begin recruiting 46,000 men aged 17.5-21 annually to serve on 4-year contracts under a process called the Agnipath scheme; at the end of their tenure, 25% would be retained for longer terms of service, while the remainder would be forced to leave the military, although some of those leaving would be eligible to serve in the Coast Guard, the Merchant Navy, civilian positions in the Ministry of Defense, and in the paramilitary forces of the Ministry of Home Affairs, such as the Central Armed Police Forces and Assam Rifles<br><br><strong>note 2: </strong>as of 2022, women made up about .59% of the Army, 1.1% of the Air Force, and 6% of the Navy; women in the Army were not allowed to serve in combat arms; the Air Force has allowed women to serve as fighter pilots since 2016; in 2022, the Navy announced it would allow women to serve in every branch of the service, including submarines and aviation<br><br><strong>note 3: </strong>the Indian military accepts citizens of Nepal and Bhutan; descendants of refugees from Tibet who arrived before 1962 and have resided permanently in India; peoples of Indian origin from nations such as Burma, the Democratic Republic of the Congo, Ethiopia, Kenya, Malawi, Pakistan, Sri Lanka, Tanzania, Uganda, and Vietnam with the intention of permanently settling in India; eligible candidates from “friendly foreign nations” may apply to the Armed Forces Medical Services <br><br><strong>note 4:</strong> the British began to recruit Nepalese citizens (Gurkhas) into the East India Company Army during the Anglo-Nepalese War (1814-1816), and the Gurkhas subsequently were brought into the British Indian Army; following the partition of India in 1947, an agreement between Nepal, India, and Great Britain allowed for the transfer of the 10 regiments from the British Indian Army to the separate British and Indian armies; six regiments of Gurkhas (aka Gorkhas in India) regiments went to the new Indian Army; a seventh regiment was later added<br>
 
 **Military deployments**<br>
 1,900 Democratic Republic of the Congo (MONUSCO); 110 Golan Heights (UNDOF); 900 Lebanon (UNIFIL); 2,350 South Sudan (UNMISS); 310 Sudan (UNISFA) (May 2022)<br>

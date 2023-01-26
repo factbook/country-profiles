@@ -486,8 +486,8 @@ _lowest 10%_: 3.8%<br>
 _highest 10%_: 21.9% (2008)<br>
 
 **Budget**<br>
-_revenues_: 22.15 billion (2017 est.)<br>
-_expenditures_: 20.57 billion (2017 est.)<br>
+_revenues_: $22.15 billion (2017 est.)<br>
+_expenditures_: $20.57 billion (2017 est.)<br>
 
 **Budget surplus (+) or deficit (-)**<br>
 2.9% (of GDP) (2017 est.)<br>
@@ -723,7 +723,7 @@ Belarus has close security ties with Russia, including an integrated air and mis
 <p><em>Belarus-Latvia:</em> Boundary demarcated with Latvia.<br><br><em>Belarus-Lithuania:</em> Boundary demarcated with Lithuania.<br><br><em>Belarus-Poland:</em> As a member state that forms part of the EU's external border, Poland has implemented strict Schengen border rules to restrict illegal immigration and trade along its border with Belarus.</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 19,124 (Ukraine) (as of 3 January 2023)<br>
+_refugees (country of origin)_: 19,329 (Ukraine) (as of 10 January 2023)<br>
 _stateless persons_: 6,104 (mid-year 2021)<br>
 
 **Trafficking in persons**<br>

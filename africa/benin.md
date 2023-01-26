@@ -376,7 +376,7 @@ _judge selection and term of office_: Supreme Court president and judges appoint
 _subordinate courts_: Court of Appeal or Cour d'Appel; district courts; village courts; Assize courts<br>
 
 **Political parties and leaders**<br>
-African Movement for Development and Progress or MADEP [Sefou FAGBOHOUN]<br>Alliance for a Triumphant Benin or ABT [Abdoulaye BIO TCHANE]<br>Benin Renaissance or RB [Lehady SOGLO]<br>Cowrie Force for an Emerging Benin or FCBE [Yayi BONI]<br>Democratic Renewal Party or PRD [Adrien HOUNGBEDJI]<br>National Alliance for Development and Democracy or AND [Valentin Aditi HOUDE]<br>New Consciousness Rally or NC [Pascal KOUPAKI]<br>Patriotic Awakening or RP [Janvier YAHOUEDEOU]<br>Social Democrat Party or PSD [Emmanuel GOLOU]<br>Sun Alliance or AS [Sacca LAFIA]<br>Union Makes the Nation or UN [Adrien HOUNGBEDJI] (includes PRD, MADEP)<br>United Democratic Forces or FDU [Mathurin NAGO]<br>
+African Movement for Development and Progress or MADEP [Sefou FAGBOHOUN]<br>Benin Renaissance or RB [Lehady SOGLO]<br>Cowrie Force for an Emerging Benin or FCBE [Yayi BONI]<br>Democratic Renewal Party or PRD [Adrien HOUNGBEDJI]<br>National Alliance for Development and Democracy or AND [Valentin Aditi HOUDE]<br>New Consciousness Rally or NC [Pascal KOUPAKI]<br>Patriotic Awakening or RP [Janvier YAHOUEDEOU]<br>Progressive Union for Renewal [Joseph DJOGBENOU]<br>Republican Bloc [Abdoulaye BIO TCHANE]<br>Social Democrat Party or PSD [Emmanuel GOLOU]<br>Sun Alliance or AS [Sacca LAFIA]<br>The Democrats [Eric HOUNDETE]<br>Union Makes the Nation or UN [Adrien HOUNGBEDJI] (includes PRD, MADEP)<br>United Democratic Forces or FDU [Mathurin NAGO]<br>
 <strong>note:</strong> approximately 20 additional minor parties<br>
 
 **International organization participation**<br>
@@ -495,8 +495,8 @@ _lowest 10%_: 3.1%<br>
 _highest 10%_: 29% (2003)<br>
 
 **Budget**<br>
-_revenues_: 1.578 billion (2017 est.)<br>
-_expenditures_: 2.152 billion (2017 est.)<br>
+_revenues_: $1.578 billion (2017 est.)<br>
+_expenditures_: $2.152 billion (2017 est.)<br>
 
 **Budget surplus (+) or deficit (-)**<br>
 -6.2% (of GDP) (2017 est.)<br>

@@ -427,8 +427,8 @@ _female_: 20.2% (2021 est.)<br>
 46 (2010 est.)<br>
 
 **Budget**<br>
-_revenues_: 259.6 million (FY2017/18 est.)<br>
-_expenditures_: 298.6 million (FY2017/18 est.)<br>
+_revenues_: $259.6 million (FY2017/18 est.)<br>
+_expenditures_: $298.6 million (FY2017/18 est.)<br>
 
 **Budget surplus (+) or deficit (-)**<br>
 -1.3% (of GDP) (FY2017/18 est.)<br>

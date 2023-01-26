@@ -501,6 +501,7 @@ _by type_: general cargo 6, oil tanker 1, other 56 (2021)<br>
 **Ports and terminals**<br>
 _major seaport(s)_: Willemstad<br>
 _oil terminal(s)_: Bullen Baai (Curacao Terminal)<br>
+_cruise port(s)_: Willemstad<br>
 _bulk cargo port(s)_: Fuik Bay (phosphate rock)<br>
 
 ## Military and Security

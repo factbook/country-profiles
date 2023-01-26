@@ -356,7 +356,7 @@ _residency requirement for naturalization_: 10 years<br>
 _chief of state_: President Milo DJUKANOVIC (since 20 May 2018)<br>
 _head of government_: Prime Minister Dritan ABAZOVIC (since 28 April 2022)<br>
 _cabinet_: Ministers act as cabinet<br>
-_elections/appointments_: president directly elected by absolute majority popular vote in 2 rounds if needed for a 5-year term (eligible for a second term); election last held on 15 April 2018 (next to be held in 2023); prime minister nominated by the president, approved by the Assembly<br>
+_elections/appointments_: president directly elected by absolute majority popular vote in 2 rounds if needed for a 5-year term (eligible for a second term); election last held on 15 April 2018 (next to be held on 19 March 2023); prime minister nominated by the president, approved by the Assembly<br>
 _election results_: <em>2018:</em> Milo DJUKANOVIC elected president in the first round; percent of vote - Milo DJUKANOVIC (DPS) 53.9%, Mladen BOJANIC (independent) 33.4%, Draginja VUKSANOVIC (SDP) 8.2%, Marko MILACIC (PRAVA) 2.8%, other 1.7%<br><br><em>2013:</em> Filip VUJANOVIC reelected president; percent of vote Filip VUJANOVIC (DPS) 51.2%, Miodrag LEKIC (independent) 48.8%<br>
 
 **Legislative branch**<br>
@@ -493,8 +493,8 @@ _lowest 10%_: 3.5%<br>
 _highest 10%_: 25.7% (2014 est.)<br>
 
 **Budget**<br>
-_revenues_: 1.78 billion (2017 est.)<br>
-_expenditures_: 2.05 billion (2017 est.)<br>
+_revenues_: $1.78 billion (2017 est.)<br>
+_expenditures_: $2.05 billion (2017 est.)<br>
 
 **Budget surplus (+) or deficit (-)**<br>
 -5.6% (of GDP) (2017 est.)<br>
@@ -718,9 +718,9 @@ Montenegro became a member of NATO in 2017; as of 2022, Greece and Italy provide
 <p><em>Montenegro-Albania</em>: none identified</p> <p><em>Montenegro-Bosnia and Herzegovina</em>: the two countries signed a border agreement in August 2015; sovereignty of the disputed Sutorina territory was given to Montenegro</p> <p><em>Montenegro-Croatia</em>: the two countries in 2002 reached a temporary agreement designating the Prevlaka Peninsula as part of Croatia, in October 2020, a Montenegrin official resurrected the dormant dispute over the Prevlaka Peninsula by stating that Montenegro had a good chance of winning it through international arbitration</p> <p><em>Montenegro-Kosovo</em>: a 2015 border agreement was ratified by Montenegro in 2015 and by Kosovo in 2018, but the actual demarcation has not been completed</p> <p><em>Montenegro-Serbia</em>: The former republic boundary – when the two countries were one and called the Federal Republic of Yugoslavia – serves as the boundary until a line is formally delimited and demarcated</p> <p> </p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 32,250 (Ukraine) (as of 9 January 2023)<br>
+_refugees (country of origin)_: 32,880 (Ukraine) (as of 17 January 2023)<br>
 _stateless persons_: 458 (mid-year 2021)<br>
-<strong>note:</strong> 29,155 estimated refugee and migrant arrivals (January 2015-January 2023)<br>
+<strong>note:</strong> 29,324 estimated refugee and migrant arrivals (January 2015-January 2023)<br>
 
 **Illicit drugs**<br>
 <p>drug trafficking groups are major players in the procurement and transportation of large quantities of cocaine  destined for  European markets</p><br>

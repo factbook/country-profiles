@@ -502,8 +502,8 @@ _lowest 10%_: 3.6%<br>
 _highest 10%_: 25.7% (2007 est.)<br>
 
 **Budget**<br>
-_revenues_: 68.71 billion (2017 est.)<br>
-_expenditures_: 76.82 billion (2017 est.)<br>
+_revenues_: $68.71 billion (2017 est.)<br>
+_expenditures_: $76.82 billion (2017 est.)<br>
 
 **Budget surplus (+) or deficit (-)**<br>
 -4.2% (of GDP) (2017 est.)<br>
@@ -570,7 +570,7 @@ _electrification - total population_: 100% (2020)<br>
 
 **Electricity**<br>
 _installed generating capacity_: 28.369 million kW (2020 est.)<br>
-_consumption_: 46,492,540,000 kWh (2019 est.)<br>
+_consumption_: 46.493 billion kWh (2019 est.)<br>
 _exports_: 0 kWh (2019 est.)<br>
 _imports_: 14.18 billion kWh (2019 est.)<br>
 _transmission/distribution losses_: 58.502 billion kWh (2019 est.)<br>
@@ -593,9 +593,9 @@ _imports_: 0 metric tons (2020 est.)<br>
 _proven reserves_: 0 metric tons (2019 est.)<br>
 
 **Petroleum**<br>
-_total petroleum production_: 4,161,500 bbl/day (2021 est.)<br>
+_total petroleum production_: 4.162 million bbl/day (2021 est.)<br>
 _refined petroleum consumption_: 863,300 bbl/day (2019 est.)<br>
-_crude oil and lease condensate exports_: 3,975,800 bbl/day (2018 est.)<br>
+_crude oil and lease condensate exports_: 3.976 million bbl/day (2018 est.)<br>
 _crude oil and lease condensate imports_: 0 bbl/day (2018 est.)<br>
 _crude oil estimated reserves_: 145.019 billion barrels (2021 est.)<br>
 
@@ -609,11 +609,11 @@ _crude oil estimated reserves_: 145.019 billion barrels (2021 est.)<br>
 255,100 bbl/day (2015 est.)<br>
 
 **Natural gas**<br>
-_production_: 10,710,773,000 cubic meters (2019 est.)<br>
-_consumption_: 18,014,129,000 cubic meters (2019 est.)<br>
+_production_: 10.711 billion cubic meters (2019 est.)<br>
+_consumption_: 18.014 billion cubic meters (2019 est.)<br>
 _exports_: 0 cubic meters (2021 est.)<br>
-_imports_: 7,303,356,000 cubic meters (2019 est.)<br>
-_proven reserves_: 3,728,926,000,000 cubic meters (2021 est.)<br>
+_imports_: 7.303 billion cubic meters (2019 est.)<br>
+_proven reserves_: 3.729 trillion cubic meters (2021 est.)<br>
 
 **Carbon dioxide emissions**<br>
 _total emissions_: 143.479 million metric tonnes of CO2 (2019 est.)<br>

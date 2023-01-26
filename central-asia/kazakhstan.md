@@ -5,7 +5,7 @@ _Central Asia / Countries_
 ## Introduction
 
 **Background**<br>
-<p>Ethnic Kazakhs derive from a mix of Turkic nomadic tribes that migrated to the region in the 15th century. The Kazakh steppe was conquered by the Russian Empire in the 18th and 19th centuries, and Kazakhstan became a Soviet Republic in 1925. Repression and starvation caused by forced agricultural collectivization led to more than a million deaths in the early 1930s. During the 1950s and 1960s, the agricultural "Virgin Lands" program led to an influx of settlers (mostly ethnic Russians, but also other nationalities) and at the time of Kazakhstan’s independence in 1991, ethnic Kazakhs were a minority. Non-Muslim ethnic minorities departed Kazakhstan in large numbers from the mid-1990s through the mid-2000s and a national program has repatriated about a million ethnic Kazakhs (from Uzbekistan, Tajikistan, Mongolia, and the Xinjiang region of China) back to Kazakhstan. As a result of this shift, the ethnic Kazakh share of the population now exceeds two thirds.<br><br>Kazakhstan's economy is the largest in Central Asia, mainly due to the country's vast natural resources. Current issues include: diversifying the economy, attracting foreign direct investment, enhancing Kazakhstan's economic competitiveness, and strengthening economic relations with neighboring states and foreign powers.</p> <p> </p><br>
+<p>Ethnic Kazakhs derive from a mix of Turkic nomadic tribes that migrated to the region in the 15th century. The Kazakh steppe was conquered by the Russian Empire in the 18th and 19th centuries, and Kazakhstan became a Soviet Republic in 1925. Repression and starvation caused by forced agricultural collectivization led to more than a million deaths in the early 1930s. During the 1950s and 1960s, the agricultural "Virgin Lands" program led to an influx of settlers (mostly ethnic Russians, but also other nationalities) and at the time of Kazakhstan’s independence in 1991, ethnic Kazakhs were a minority. Non-Muslim ethnic minorities departed Kazakhstan in large numbers from the mid-1990s through the mid-2000s and a national program has repatriated about a million ethnic Kazakhs (from Uzbekistan, Tajikistan, Mongolia, and the Xinjiang region of China) back to Kazakhstan. As a result of this shift, the ethnic Kazakh share of the population now exceeds two-thirds.<br><br>Kazakhstan's economy is the largest in Central Asia, mainly due to the country's vast natural resources. Current issues include: diversifying the economy, attracting foreign direct investment, enhancing Kazakhstan's economic competitiveness, and strengthening economic relations with neighboring states and foreign powers.</p> <p> </p><br>
 
 ## Geography
 
@@ -495,8 +495,8 @@ _lowest 10%_: 4.2%<br>
 _highest 10%_: 23.3% (2016)<br>
 
 **Budget**<br>
-_revenues_: 35.48 billion (2017 est.)<br>
-_expenditures_: 38.3 billion (2017 est.)<br>
+_revenues_: $35.48 billion (2017 est.)<br>
+_expenditures_: $38.3 billion (2017 est.)<br>
 
 **Budget surplus (+) or deficit (-)**<br>
 -1.8% (of GDP) (2017 est.)<br>
@@ -602,11 +602,11 @@ _crude oil estimated reserves_: 30 billion barrels (2021 est.)<br>
 39,120 bbl/day (2015 est.)<br>
 
 **Natural gas**<br>
-_production_: 25,785,505,000 cubic meters (2019 est.)<br>
-_consumption_: 14,557,101,000 cubic meters (2019 est.)<br>
-_exports_: 16,418,081,000 cubic meters (2019 est.)<br>
-_imports_: 7,713,978,000 cubic meters (2019 est.)<br>
-_proven reserves_: 2,406,928,000,000 cubic meters (2021 est.)<br>
+_production_: 25.786 billion cubic meters (2019 est.)<br>
+_consumption_: 14.557 billion cubic meters (2019 est.)<br>
+_exports_: 16.418 billion cubic meters (2019 est.)<br>
+_imports_: 7.714 billion cubic meters (2019 est.)<br>
+_proven reserves_: 2.407 trillion cubic meters (2021 est.)<br>
 
 **Carbon dioxide emissions**<br>
 _total emissions_: 263.689 million metric tonnes of CO2 (2019 est.)<br>

@@ -505,8 +505,8 @@ _lowest 10%_: 2.8%<br>
 _highest 10%_: 31.5% (2009 est.)<br>
 
 **Budget**<br>
-_revenues_: 69.23 billion (2017 est.)<br>
-_expenditures_: 85.12 billion (2017 est.)<br>
+_revenues_: $69.23 billion (2017 est.)<br>
+_expenditures_: $85.12 billion (2017 est.)<br>
 
 **Budget surplus (+) or deficit (-)**<br>
 -3.5% (of GDP) (2017 est.)<br>
@@ -710,7 +710,7 @@ _by type_: bulk carrier 26, container ship 27, general cargo 94, oil tanker 251,
 
 **Ports and terminals**<br>
 _major seaport(s)_: Bangkok, Laem Chabang, Map Ta Phut, Prachuap Port, Si Racha<br>
-_container port(s) (TEUs)_: Laem Chabang (8,106,928) (2019)<br>
+_container port(s) (TEUs)_: Laem Chabang (8,335,384) (2021)<br>
 _LNG terminal(s) (import)_: Map Ta Phut<br>
 
 ## Military and Security

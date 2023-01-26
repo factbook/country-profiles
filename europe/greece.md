@@ -474,8 +474,8 @@ _lowest 10%_: 1.7%<br>
 _highest 10%_: 26.7% (2015 est.)<br>
 
 **Budget**<br>
-_revenues_: 97.99 billion (2017 est.)<br>
-_expenditures_: 96.35 billion (2017 est.)<br>
+_revenues_: $97.99 billion (2017 est.)<br>
+_expenditures_: $96.35 billion (2017 est.)<br>
 
 **Budget surplus (+) or deficit (-)**<br>
 0.8% (of GDP) (2017 est.)<br>
@@ -675,7 +675,7 @@ _by type_: bulk carrier 158, container ship 5, general cargo 89, oil tanker 337,
 **Ports and terminals**<br>
 _major seaport(s)_: Aspropyrgos, Pachi, Piraeus, Thessaloniki<br>
 _oil terminal(s)_: Agioi Theodoroi<br>
-_container port(s) (TEUs)_: Piraeus (5,648,000) (2019)<br>
+_container port(s) (TEUs)_: Piraeus (5,311,810) (2021)<br>
 _LNG terminal(s) (import)_: Revithoussa<br>
 
 ## Military and Security
@@ -722,7 +722,7 @@ Islamic State of Iraq and ash-Sham (ISIS); Revolutionary Struggle; Revolutionary
 **Refugees and internally displaced persons**<br>
 _refugees (country of origin)_: 41,594 (Syria), 33,549 (Afghanistan), 14,228 (Iraq), 6,366 (West Bank and Gaza) (mid-year 2022); 20,955 (Ukraine) (as of 6 December 2022)<br>
 _stateless persons_: 5,552 (mid-year 2021)<br>
-<strong>note:</strong> 1,233,492 estimated refugee and migrant arrivals (January 2015-January 2023)<br>
+<strong>note:</strong> 1,233,715 estimated refugee and migrant arrivals (January 2015-January 2023)<br>
 
 **Illicit drugs**<br>
 a gateway to Europe for traffickers smuggling cannabis products and heroin from the Middle East and Southwest Asia to the West and precursor chemicals to the East; some South American cocaine transits or is consumed in Greece; money laundering related to drug trafficking and organized crime<br>

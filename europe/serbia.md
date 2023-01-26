@@ -503,8 +503,8 @@ _lowest 10%_: 2.2%<br>
 _highest 10%_: 23.8% (2011)<br>
 
 **Budget**<br>
-_revenues_: 17.69 billion (2017 est.)<br>
-_expenditures_: 17.59 billion (2017 est.)<br>
+_revenues_: $17.69 billion (2017 est.)<br>
+_expenditures_: $17.59 billion (2017 est.)<br>
 <strong>note:</strong> data include both central government and local goverment budgets<br>
 
 **Budget surplus (+) or deficit (-)**<br>

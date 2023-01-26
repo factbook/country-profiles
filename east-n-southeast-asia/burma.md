@@ -505,8 +505,8 @@ _lowest 10%_: 2.8%<br>
 _highest 10%_: 32.4% (1998)<br>
 
 **Budget**<br>
-_revenues_: 9.108 billion (2017 est.)<br>
-_expenditures_: 11.23 billion (2017 est.)<br>
+_revenues_: $9.108 billion (2017 est.)<br>
+_expenditures_: $11.23 billion (2017 est.)<br>
 
 **Budget surplus (+) or deficit (-)**<br>
 -3.2% (of GDP) (2017 est.)<br>
@@ -731,7 +731,7 @@ Burmese Defense Service (Tatmadaw): Army (Tatmadaw Kyi), Navy (Tatmadaw Yay), Ai
 estimates vary widely, from approximately 300,000 to as many as 400,000 active duty personnel (2022)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the Burmese military inventory is comprised mostly of older Chinese and Russian/Soviet-era equipment with a smaller mix of more modern acquisitions; since 2010, China and Russia have been the leading suppliers of military hardware; Burma has a limited defense industry, including a growing shipbuilding capability (2022)<br>
+the Burmese military inventory is comprised mostly of older Chinese and Russian/Soviet-era equipment with a smaller mix of more modern acquisitions; since 2010, China and Russia have been the leading suppliers of military hardware; Burma has a limited defense industry, including a growing shipbuilding capability and some production of ground force equipment that is largely based on Chinese and Russian designs (2022)<br>
 
 **Military service age and obligation**<br>
 18-35 years of age (men) and 18-27 years of age (women) for voluntary military service; no conscription (a 2010 law reintroducing conscription has not yet entered into force); 2-year service obligation; male (ages 18-45) and female (ages 18-35) professionals (including doctors, engineers, mechanics) serve up to 3 years; service terms may be stretched to 5 years in an officially declared emergency (2021)<br>

@@ -517,8 +517,8 @@ _lowest 10%_: 3.6%<br>
 _highest 10%_: 25.4% (2013)<br>
 
 **Budget**<br>
-_revenues_: 1.392 trillion (2017 est.)<br>
-_expenditures_: 1.459 trillion (2017 est.)<br>
+_revenues_: $1.392 trillion (2017 est.)<br>
+_expenditures_: $1.459 trillion (2017 est.)<br>
 
 **Budget surplus (+) or deficit (-)**<br>
 -2.6% (of GDP) (2017 est.)<br>
@@ -724,7 +724,7 @@ _by type_: container ship 29, general cargo 50, oil tanker 28, other 441 (2021)<
 
 **Ports and terminals**<br>
 _major seaport(s)_: <br><em>Atlantic Ocean:</em> Brest, Calais, Dunkerque, Le Havre, Nantes<br><em>Mediterranean Sea:</em> Marseille<br>
-_container port(s) (TEUs)_: Le Havre (2,822,910) (2019)<br>
+_container port(s) (TEUs)_: Le Havre (3,018,550) (2021)<br>
 _LNG terminal(s) (import)_: Dunkerque, Fos Cavaou, Fos Tonkin, Montoir de Bretagne<br>
 _river port(s)_: Bordeaux (Garronne); Nantes - Saint Nazaire (Loire); Paris, Rouen (Seine); Strasbourg (Rhine)<br>
 _cruise/ferry port(s)_: Calais, Cherbourg, Le Havre<br>
@@ -735,8 +735,8 @@ _cruise/ferry port(s)_: Calais, Cherbourg, Le Havre<br>
 ## Military and Security
 
 **Military and security forces**<br>
-French Armed Forces (Forces Armées Françaises): Army (l'Armee de Terre; includes Foreign Legion), Navy (Marine Nationale), Air and Space Force (l'Armee de l’Air et de l’Espace); includes Air Defense), National Guard (Reserves), National Gendarmerie (2022)<br>
-<strong>note: </strong>the National Gendarmerie is a paramilitary police force that is a branch of the Armed Forces and therefore part of the Ministry of Defense but under the jurisdiction of the Ministry of the Interior; it also has additional duties to the Ministry of Justice<br>
+French Armed Forces (Forces Armées Françaises): Army (l'Armee de Terre; includes Foreign Legion), Navy (Marine Nationale), Air and Space Force (l'Armee de l’Air et de l’Espace); includes Air Defense), National Guard (Reserves), National Gendarmerie (2023)<br>
+<strong>note: </strong>the National Gendarmerie is a paramilitary police force that is a branch of the Armed Forces and therefore part of the Ministry of Defense but under the jurisdiction of the Ministry of the Interior; it also has additional duties to the Ministry of Justice; the Gendarmerie includes the National Gendarmerie Intervention Group (Groupe d'intervention de la Gendarmerie Nationale or GIGN), an elite national-level tactical police unit set up in 1973 in response to the 1972 Munich massacre<br>
 
 **Military expenditures**<br>
 1.9% of GDP (2022 est.)<br>

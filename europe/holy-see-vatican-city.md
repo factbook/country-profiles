@@ -287,8 +287,8 @@ printing; production of coins, medals, postage stamps; mosaics, staff uniforms; 
 NA<br>
 
 **Budget**<br>
-_revenues_: 315 million (2013)<br>
-_expenditures_: 348 million (2013)<br>
+_revenues_: $315 million (2013)<br>
+_expenditures_: $348 million (2013)<br>
 
 **Budget surplus (+) or deficit (-)**<br>
 NA<br>

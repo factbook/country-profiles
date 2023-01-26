@@ -344,8 +344,8 @@ _lowest 10%_: NA<br>
 _highest 10%_: NA<br>
 
 **Budget**<br>
-_revenues_: 563.6 million (2005)<br>
-_expenditures_: 530.9 million (2005 est.)<br>
+_revenues_: $563.6 million (2005)<br>
+_expenditures_: $530.9 million (2005 est.)<br>
 
 **Budget surplus (+) or deficit (-)**<br>
 1.2% (of GDP) (2005)<br>

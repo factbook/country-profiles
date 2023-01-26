@@ -344,7 +344,7 @@ _residency requirement for naturalization_: 5 years<br>
 
 **Executive branch**<br>
 _chief of state_: President Rumen RADEV (since 22 January 2017); Vice President Iliana IOTOVA (since 22 January 2017)<br>
-_head of government_: Prime Minister Gulub DONEV (since 2 August 2022); note - Prime Minister DONEV leads a caretaker government until snap elections are held on 2 October 2022<br>
+_head of government_: Prime Minister Galab DONEV (since 2 August 2022)<br>
 _cabinet_: Council of Ministers nominated by the prime minister, elected by the National Assembly<br>
 _elections/appointments_: president and vice president elected on the same ballot by absolute majority popular vote in 2 rounds if needed for a 5-year term (eligible for a second term); election last held on 14 and 21 November 2021 (next to be held in fall 2026); chairman of the Council of Ministers (prime minister) elected by the National Assembly; deputy prime ministers nominated by the prime minister, elected by the National Assembly<br>
 _election results_: <em>2021</em>: Rumen RADEV reelected president in second round; percent of vote in the first round - Rumen RADEV (independent) 49.4%, Anastas GERDZHIKOV (independent) 22.8%, Mustafa KARADAYI (DPS) 11.6%, Kostadin KOSTADINOV (Revival) 3.9%, Lozan PANOV (independent) 3.7%, other 8.6%; percent of vote in the second round - Rumen RADEV 66.7%, Anastas GERDZHIKOV 31.8%, neither 1.5%<br><br><em>2016: </em>Rumen RADEV elected president in second round; percent of vote in the second round - Rumen RADEV (independent, supported by Bulgarian Socialist Party) 59.4%, Tsetska TSACHEVA (GERB) 36.2%, neither 4.5%<br><br><em>2011:</em> Rosen PLEVNELIEV elected president in the second round; percent of vote in the second round - Rosen PLEVNELIEV (independent) 52.6%, Ivailo KALFIN (BSP) 47.4%<br>
@@ -485,8 +485,8 @@ _lowest 10%_: 1.9%<br>
 _highest 10%_: 31.2% (2017)<br>
 
 **Budget**<br>
-_revenues_: 20.35 billion (2017 est.)<br>
-_expenditures_: 19.35 billion (2017 est.)<br>
+_revenues_: $20.35 billion (2017 est.)<br>
+_expenditures_: $19.35 billion (2017 est.)<br>
 
 **Budget surplus (+) or deficit (-)**<br>
 1.8% (of GDP) (2017 est.)<br>
@@ -727,7 +727,7 @@ Islamic State of Iraq and ash-Sham (ISIS); Islamic Revolutionary Guard Corps/Qod
 <p>none</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 22,226 (Syria) (mid-year 2022); 51,140 (Ukraine) (as of 13 December 2022)<br>
+_refugees (country of origin)_: 22,226 (Syria) (mid-year 2022); 50,325 (Ukraine) (as of 16 January 2023)<br>
 _stateless persons_: 1,143 (mid-year 2021)<br>
 <strong>note:</strong> 84,937 estimated refugee and migrant arrivals (January 2015-October 2022); Bulgaria is predominantly a transit country<br>
 

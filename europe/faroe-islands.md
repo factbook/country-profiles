@@ -382,8 +382,8 @@ _lowest 10%_: NA<br>
 _highest 10%_: NA<br>
 
 **Budget**<br>
-_revenues_: 835.6 million (2014 est.)<br>
-_expenditures_: 883.8 million (2014)<br>
+_revenues_: $835.6 million (2014 est.)<br>
+_expenditures_: $883.8 million (2014)<br>
 <strong>note:</strong> Denmark supplies the Faroe Islands with almost one-third of its public funds<br>
 
 **Budget surplus (+) or deficit (-)**<br>

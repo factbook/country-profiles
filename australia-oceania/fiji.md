@@ -467,8 +467,8 @@ _lowest 10%_: 2.6%<br>
 _highest 10%_: 34.9% (2009 est.)<br>
 
 **Budget**<br>
-_revenues_: 1.454 billion (2017 est.)<br>
-_expenditures_: 1.648 billion (2017 est.)<br>
+_revenues_: $1.454 billion (2017 est.)<br>
+_expenditures_: $1.648 billion (2017 est.)<br>
 
 **Budget surplus (+) or deficit (-)**<br>
 -4% (of GDP) (2017 est.)<br>
@@ -691,7 +691,7 @@ the RFMF is lightly armed and equipped; Australia has provided patrol boats and 
 170 Egypt (MFO); 165 Iraq (UNAMI); 150 Golan Heights (UNDOF) (2022)<br>
 
 **Military - note**<br>
-the RFMF was established in 1920; it has a history of intervening in the country’s politics since the late 1980s, including coups in 1987 and 2006, and a mutiny in 2000 <br><br>the RFMF also has a long tradition of participating in UN peacekeeping operations; since its first deployment of troops to South Lebanon in 1978 under the United Nations Interim Force in Lebanon (UNIFIL), it has deployed troops on nearly 20 additional UN missions<br><br>Fiji has a "shiprider" agreement with the US, which allows local maritime law enforcement officers to embark on US Coast Guard (USCG) and US Navy (USN) vessels, including to board and search vessels suspected of violating laws or regulations within Fiji's designated exclusive economic zone (EEZ) or on the high seas; "shiprider" agreements also enable USCG personnel and USN vessels with embarked USCG law enforcement personnel to work with host nations to protect critical regional resources<br> (2022)<br>
+the RFMF was established in 1920; it has a history of intervening in the country’s politics since the late 1980s, including coups in 1987 and 2006, and a mutiny in 2000 <br><br>the RFMF also has a long tradition of participating in UN peacekeeping operations; since its first deployment of troops to South Lebanon in 1978 under the United Nations Interim Force in Lebanon (UNIFIL), it has deployed troops on nearly 20 additional UN missions<br><br>Fiji has a "shiprider" agreement with the US, which allows local maritime law enforcement officers to embark on US Coast Guard (USCG) and US Navy (USN) vessels, including to board and search vessels suspected of violating laws or regulations within Fiji's designated exclusive economic zone (EEZ) or on the high seas; "shiprider" agreements also enable USCG personnel and USN vessels with embarked USCG law enforcement personnel to work with host nations to protect critical regional resources (2023)<br>
 
 ## Transnational Issues
 

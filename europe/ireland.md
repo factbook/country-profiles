@@ -467,8 +467,8 @@ _lowest 10%_: 2.9%<br>
 _highest 10%_: 27.2% (2000)<br>
 
 **Budget**<br>
-_revenues_: 86.04 billion (2017 est.)<br>
-_expenditures_: 87.19 billion (2017 est.)<br>
+_revenues_: $86.04 billion (2017 est.)<br>
+_expenditures_: $87.19 billion (2017 est.)<br>
 
 **Budget surplus (+) or deficit (-)**<br>
 -0.3% (of GDP) (2017 est.)<br>
@@ -711,7 +711,7 @@ Continuity Irish Republican Army; New Irish Republican Army; Islamic State of Ir
 <p><em>Ireland-Denmark</em>: Ireland, Iceland, and the UK dispute Denmark's claim that the Faroe Islands' continental shelf extends beyond 200 nm; Iceland, Norway, and the Faroe Islands signed an agreement in 2019 extending the Faroe Islands’ northern continental shelf area</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 71,130 (Ukraine) (as of 5 January 2023)<br>
+_refugees (country of origin)_: 71,597 (Ukraine) (as of 12 January 2023)<br>
 _stateless persons_: 107 (mid-year 2021)<br>
 
 **Illicit drugs**<br>

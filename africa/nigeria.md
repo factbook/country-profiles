@@ -101,7 +101,7 @@ Hausa 30%, Yoruba 15.5%, Igbo (Ibo) 15.2%, Fulani 6%, Tiv 2.4%, Kanuri/Beriberi 
 English (official), Hausa, Yoruba, Igbo (Ibo), Fulani, over 500 additional indigenous languages<br>
 
 **Religions**<br>
-Muslim 53.5%, Roman Catholic 10.6%, other Christian 35.3%, other .6% (2018 est.)<br>
+Muslim 53.5%, Roman Catholic 10.6%, other Christian 35.3%, other 0.6% (2018 est.)<br>
 
 **Demographic profile**<br>
 <p>Nigeria’s population is projected to grow from more than 186 million people in 2016 to 392 million in 2050, becoming the world’s fourth most populous country. Nigeria’s sustained high population growth rate will continue for the foreseeable future because of population momentum and its high birth rate. Abuja has not successfully implemented family planning programs to reduce and space births because of a lack of political will, government financing, and the availability and affordability of services and products, as well as a cultural preference for large families. Increased educational attainment, especially among women, and improvements in health care are needed to encourage and to better enable parents to opt for smaller families.</p><p>Nigeria needs to harness the potential of its burgeoning youth population in order to boost economic development, reduce widespread poverty, and channel large numbers of unemployed youth into productive activities and away from ongoing religious and ethnic violence. While most movement of Nigerians is internal, significant emigration regionally and to the West provides an outlet for Nigerians looking for economic opportunities, seeking asylum, and increasingly pursuing higher education. Immigration largely of West Africans continues to be insufficient to offset emigration and the loss of highly skilled workers. Nigeria also is a major source, transit, and destination country for forced labor and sex trafficking.</p><br>
@@ -513,8 +513,8 @@ _lowest 10%_: 1.8%<br>
 _highest 10%_: 38.2% (2010 est.)<br>
 
 **Budget**<br>
-_revenues_: 12.92 billion (2017 est.)<br>
-_expenditures_: 19.54 billion (2017 est.)<br>
+_revenues_: $12.92 billion (2017 est.)<br>
+_expenditures_: $19.54 billion (2017 est.)<br>
 
 **Budget surplus (+) or deficit (-)**<br>
 -1.8% (of GDP) (2017 est.)<br>

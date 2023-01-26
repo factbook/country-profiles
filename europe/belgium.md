@@ -476,8 +476,8 @@ _lowest 10%_: 3.4%<br>
 _highest 10%_: 28.4% (2006)<br>
 
 **Budget**<br>
-_revenues_: 253.5 billion (2017 est.)<br>
-_expenditures_: 258.6 billion (2017 est.)<br>
+_revenues_: $253.5 billion (2017 est.)<br>
+_expenditures_: $258.6 billion (2017 est.)<br>
 
 **Budget surplus (+) or deficit (-)**<br>
 -1% (of GDP) (2017 est.)<br>
@@ -603,21 +603,21 @@ _Total energy consumption per capita 2019_: 234.216 million Btu/person (2019 est
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 3,634,639 (2020 est.)<br>
-_subscriptions per 100 inhabitants_: 31 (2020 est.)<br>
+_total subscriptions_: 3,293,420 (2021 est.)<br>
+_subscriptions per 100 inhabitants_: 28 (2021 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 11,529,728 (2020 est.)<br>
-_subscriptions per 100 inhabitants_: 99 (2020 est.)<br>
+_total subscriptions_: 11,740,118 (2021 est.)<br>
+_subscriptions per 100 inhabitants_: 101 (2021 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: mobile networks have been upgraded to support growing mobile data use among subscribers, with near-comprehensive LTE coverage; operators have also trialed 5G in preparation for launching services; the auction of 5G-suitable spectrum has been delayed to the beginning of 2022, while the onerous restrictions on radiation have meant that some 5G trials have been suspended; there is effective competition in Belgium between the DSL and cable platforms, while in recent years government support has also encouraged investment in fiber networks; in a bid to encourage investment in under served areas, the regulator in 2018 amended the conditions by which market players grant wholesale access to copper and fiber infrastructure; in May 2019 it opened a further consultation on cost models for access to the networks of cablecos and fiber infrastructure (2021)<br>
-_domestic_: about 31 per 100 fixed-line and 99 per 100 mobile-cellular; nationwide mobile-cellular telephone system; extensive cable network; limited microwave radio relay network (2020)<br>
+_domestic_: about 28 per 100 fixed-line and 101 per 100 mobile-cellular; nationwide mobile-cellular telephone system; extensive cable network; limited microwave radio relay network (2021)<br>
 _international_: country code - 32; landing points for Concerto, UK-Belgium, Tangerine, and SeaMeWe-3, submarine cables that provide links to Europe, the Middle East, Australia, and Asia; satellite earth stations - 7 (Intelsat - 3) (2019)<br>
 <strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress toward 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>
 
 **Broadcast media**<br>
-a segmented market with the three major communities (Flemish-, French-, and German-speaking) each having responsibility for their own broadcast media; multiple TV channels exist for each community; additionally, in excess of 90% of households are connected to cable and can access broadcasts of TV stations from neighboring countries; each community has a public radio network coexisting with private broadcasters<br>
+a segmented market with the three major communities (Flemish, French, and German speaking) each having responsibility for their own broadcast media; multiple TV channels exist for each community; additionally, in excess of 90% of households are connected to cable and can access broadcasts of TV stations from neighboring countries; each community has a public radio network coexisting with private broadcasters<br>
 
 **Internet country code**<br>
 .be<br>
@@ -678,7 +678,7 @@ _by type_: bulk carrier 19, container ship 7, general cargo 16, oil tanker 21, o
 
 **Ports and terminals**<br>
 _major seaport(s)_: Oostende, Zeebrugge<br>
-_container port(s) (TEUs)_: Antwerp (11,860,204) (2019)<br>
+_container port(s) (TEUs)_: Antwerp (12,020,000) (2021)<br>
 _LNG terminal(s) (import)_: Zeebrugge<br>
 _river port(s)_: Antwerp, Gent (Schelde River)<br>
 Brussels (Senne River) Liege (Meuse River)<br>
@@ -724,7 +724,7 @@ Islamic Revolutionary Guard Corps/Qods Force; Islamic State of Iraq and ash-Sham
 <p>none identified</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 20,086 (Syria), 7,049 (Afghanistan), 5,769 (Iraq) (mid-year 2022); 65,658 (Ukraine) (as of 3 January 2023)<br>
+_refugees (country of origin)_: 20,086 (Syria), 7,049 (Afghanistan), 5,769 (Iraq) (mid-year 2022); 66,416 (Ukraine) (as of 16 January 2023)<br>
 _stateless persons_: 1,159 (mid-year 2021)<br>
 
 **Illicit drugs**<br>

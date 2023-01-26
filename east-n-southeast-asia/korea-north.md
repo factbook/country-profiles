@@ -438,8 +438,8 @@ _lowest 10%_: NA<br>
 _highest 10%_: NA<br>
 
 **Budget**<br>
-_revenues_: 3.2 billion (2007 est.)<br>
-_expenditures_: 3.3 billion (2007 est.)<br>
+_revenues_: $3.2 billion (2007 est.)<br>
+_expenditures_: $3.3 billion (2007 est.)<br>
 
 **Budget surplus (+) or deficit (-)**<br>
 -0.4% (of GDP) (2007 est.)<br>

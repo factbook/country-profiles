@@ -315,8 +315,8 @@ _residency requirement for naturalization_: 8 years<br>
 _chief of state_: President Paula-Mae WEEKES (since 19 March 2018)<br>
 _head of government_: Prime Minister Keith ROWLEY (since 9 September 2015)<br>
 _cabinet_: Cabinet appointed from among members of Parliament<br>
-_elections/appointments_: president indirectly elected by an electoral college of selected Senate and House of Representatives members for a 5-year term (eligible for a second term); election last held on 19 January 2018 (next to be held by February 2023); the president usually appoints the leader of the majority party in the House of Representatives as prime minister<br>
-_election results_: Paula-Mae WEEKES (independent) elected president; ran unopposed and was elected without a vote; she is Trinidad and Tobago's first female head of state<br>
+_elections/appointments_: president indirectly elected by an electoral college of selected Senate and House of Representatives members for a 5-year term (eligible for a second term); election last held on 20 January 2023 (next to be held by February 2028); the president usually appoints the leader of the majority party in the House of Representatives as prime minister<br>
+_election results_: Christine KANGALOO (PNM) elected president by the electoral college on 20 January 2023; Christine KANGALOO received 48 votes against 22 votes for opposition candidate Israel KHAN (UNC); the new president takes office on 21 March 2023<br>
 
 **Legislative branch**<br>
 _description_: bicameral Parliament consists of:<br>Senate (31 seats; 16 members appointed by the ruling party, 9 by the president, and 6 by the opposition party; members serve 5-year terms;)<br>House of Representatives (42 seats; 41 members directly elected in single-seat constituencies by simple majority vote and the house speaker - usually designated from outside Parliament; members serve 5-year terms)<br>
@@ -344,7 +344,7 @@ _email address and website_: <br>embdcinfo@foreign.gov.tt<br><br>https://foreign
 _consulate(s) general_: Miami, New York<br>
 
 **Diplomatic representation from the US**<br>
-_chief of mission_: Ambassador (vacant); Charge d'Affaires Shante MOORE (since 20 January 2021)<br>
+_chief of mission_: Ambassador Candace A. BOND (since 8 December 2022)<br>
 _embassy_: 15 Queen's Park West, Port of Spain<br>
 _mailing address_: 3410 Port of Spain Place, Washington DC&nbsp; 20521-3410<br>
 _telephone_: (868) 622-6371<br>
@@ -445,8 +445,8 @@ _lowest 10%_: NA<br>
 _highest 10%_: NA<br>
 
 **Budget**<br>
-_revenues_: 5.581 billion (2017 est.)<br>
-_expenditures_: 7.446 billion (2017 est.)<br>
+_revenues_: $5.581 billion (2017 est.)<br>
+_expenditures_: $7.446 billion (2017 est.)<br>
 
 **Budget surplus (+) or deficit (-)**<br>
 -8.2% (of GDP) (2017 est.)<br>

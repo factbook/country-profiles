@@ -437,8 +437,8 @@ _lowest 10%_: 2.8%<br>
 _highest 10%_: 30.6% (2012)<br>
 
 **Budget**<br>
-_revenues_: 655.3 million (2017 est.)<br>
-_expenditures_: 737.4 million (2017 est.)<br>
+_revenues_: $655.3 million (2017 est.)<br>
+_expenditures_: $737.4 million (2017 est.)<br>
 <strong>note:</strong> the Government of India finances nearly one-quarter of Bhutan's budget expenditures<br>
 
 **Budget surplus (+) or deficit (-)**<br>
@@ -507,7 +507,7 @@ _electrification - total population_: 100% (2020)<br>
 
 **Electricity**<br>
 _installed generating capacity_: 2.334 million kW (2020 est.)<br>
-_consumption_: 4,314,890,000 kWh (2019 est.)<br>
+_consumption_: 4.315 billion kWh (2019 est.)<br>
 _exports_: 4.6 billion kWh (2019 est.)<br>
 _imports_: 22.85 million kWh (2019 est.)<br>
 _transmission/distribution losses_: 60 million kWh (2019 est.)<br>

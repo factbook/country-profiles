@@ -418,8 +418,8 @@ _lowest 10%_: NA<br>
 _highest 10%_: NA<br>
 
 **Budget**<br>
-_revenues_: 9.268 billion (2017 est.)<br>
-_expenditures_: 9.974 billion (2017 est.)<br>
+_revenues_: $9.268 billion (2017 est.)<br>
+_expenditures_: $9.974 billion (2017 est.)<br>
 
 **Budget surplus (+) or deficit (-)**<br>
 -0.7% (of GDP) (2017 est.)<br>
@@ -580,7 +580,7 @@ _total_: 26,862 km (2012) (includes 454 km of expressways)<br>
 
 **Ports and terminals**<br>
 _major seaport(s)_: Ensenada Honda, Mayaguez, Playa de Guayanilla, Playa de Ponce, San Juan<br>
-_container port(s) (TEUs)_: San Juan (2,142,662) (2019)<br>
+_container port(s) (TEUs)_: San Juan (1,438,218) (2021)<br>
 _LNG terminal(s) (import)_: Guayanilla Bay<br>
 
 ## Military and Security

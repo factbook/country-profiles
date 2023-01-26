@@ -488,8 +488,8 @@ _lowest 10%_: 1.7%<br>
 _highest 10%_: 31.1% (2012)<br>
 
 **Budget**<br>
-_revenues_: 1.028 trillion (2017 est.)<br>
-_expenditures_: 1.079 trillion (2017 est.)<br>
+_revenues_: $1.028 trillion (2017 est.)<br>
+_expenditures_: $1.079 trillion (2017 est.)<br>
 
 **Budget surplus (+) or deficit (-)**<br>
 -1.9% (of GDP) (2017 est.)<br>
@@ -695,7 +695,7 @@ _by type_: bulk carrier 140, container ship 59, general cargo 109, oil tanker 84
 **Ports and terminals**<br>
 _major seaport(s)_: Dover, Felixstowe, Immingham, Liverpool, London, Southampton, Teesport (England); Forth Ports (Scotland); Milford Haven (Wales)<br>
 _oil terminal(s)_: Fawley Marine terminal, Liverpool Bay terminal (England); Braefoot Bay terminal, Finnart oil terminal, Hound Point terminal (Scotland)<br>
-_container port(s) (TEUs)_: Felixstowe (3,584,000), London (2,790,000), Southampton (1,924,847) (2019)<br>
+_container port(s) (TEUs)_: Felixstowe (3,700,000), London (3,111,000), Southampton (1,871,081) (2021)<br>
 _LNG terminal(s) (import)_: Dragon, Isle of Grain, South Hook, Teesside<br>
 
 **Transportation - note**<br>

@@ -345,10 +345,10 @@ _residency requirement for naturalization_: 5 years<br>
 
 **Executive branch**<br>
 _chief of state_: President Klaus Werner IOHANNIS (since 21 December 2014)<br>
-_head of government_: Prime Minister Nicolae CIUCA (since 25 November 2021); Deputy Prime Ministers Sorin GRINDEANU (since 25 November 2021) and Kelemen HUNOR (since 23 December 2020)<br>
+_head of government_: Prime Minister Nicolae CIUCA (since 25 November 2021); Deputy Prime Ministers Sorin GRINDEANU (since 25 November 2021) and Hunor KELEMEN (since 23 December 2020)<br>
 _cabinet_: Council of Ministers appointed by the prime minister<br>
 _elections/appointments_: president directly elected by absolute majority popular vote in 2 rounds if needed for a 5-year term (eligible for a second term); election last held on&nbsp;10 November 2019 with a runoff on&nbsp;24 November 2019 (next to be held&nbsp;in November 2024); prime minister appointed by the president with consent of Parliament<br>
-_election results_: <em>2019: </em>Klaus IOHANNIS reelected president in second round; percent of vote - Klaus IOHANNIS (PNL) 66.1%, Viorica DANCILA (PSD) 33.9%; Nicolae CIUCA approved as prime minister with 318 votes<br><br><em>2014:</em> Klaus IOHANNIS elected president in the second round; percent of vote - Klaus IOHANNIS (PNL) 54.4%, Victor PONTA (PSD) 45.6%<br>
+_election results_: <em>2021:</em> Nicolae CIUCA approved as prime minister with 318 votes<em><br><br>2019: </em>Klaus IOHANNIS reelected president in second round; percent of vote - Klaus IOHANNIS (PNL) 66.1%, Viorica DANCILA (PSD) 33.9%<br><br><em>2014:</em> Klaus IOHANNIS elected president in the second round; percent of vote - Klaus IOHANNIS (PNL) 54.4%, Victor PONTA (PSD) 45.6%<br>
 
 **Legislative branch**<br>
 _description_: bicameral Parliament or Parlament consists of:<br>Senate or Senat (136 seats; members directly elected in single- and multi-seat constituencies - including 2 seats for diaspora - by party-list, proportional representation vote; members serve 4-year terms)<br>Chamber of Deputies or Camera Deputatilor (330 seats; members directly elected in single- and multi-seat constituencies - including 4 seats for diaspora - by party-list, proportional representation vote; members serve 4-year terms)<br>
@@ -367,7 +367,7 @@ _subordinate courts_: Courts of Appeal; regional tribunals; first instance court
 Australia Group, BIS, BSEC, CBSS (observer), CD, CE, CEI, EAPC, EBRD, ECB, EIB, ESA, EU, FAO, G-9, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), LAIA (observer), MIGA, MONUSCO, NATO, NSG, OAS (observer), OIF, OPCW, OSCE, PCA, SELEC, UN, UNCTAD, UNESCO, UNHCR, UNIDO, Union Latina, UNMIL, UNMISS, UNOCI, UNWTO, UPU, Wassenaar Arrangement, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO, ZC<br>
 
 **Diplomatic representation in the US**<br>
-_chief of mission_: Ambassador Andrei MURARU (since 15 September 2021)<br>
+_chief of mission_: Ambassador Dan Andrei MURARU (since 15 September 2021)<br>
 _chancery_: 1607 23rd Street NW, Washington, DC 20008<br>
 _telephone_: [1] (202) 332-4829; [1] (202) 332-4846<br>
 _FAX_: [1] (202) 232-4748<br>
@@ -485,8 +485,8 @@ _lowest 10%_: 15.3%<br>
 _highest 10%_: 7.6% (2014 est.)<br>
 
 **Budget**<br>
-_revenues_: 62.14 billion (2017 est.)<br>
-_expenditures_: 68.13 billion (2017 est.)<br>
+_revenues_: $62.14 billion (2017 est.)<br>
+_expenditures_: $68.13 billion (2017 est.)<br>
 
 **Budget surplus (+) or deficit (-)**<br>
 -2.8% (of GDP) (2017 est.)<br>
@@ -728,7 +728,7 @@ Islamic State of Iraq and ash-Sham (ISIS)<br>
 <p><em>Romania-Bulgaria</em>: none identified</p> <p><em>Romania-Hungary</em>: none identified</p> <p><em>Romania-Moldova</em>: none identified</p> <p><em>Romania-Serbia</em>: none identified</p> <p><em>Romania-Ukraine</em>: the International Court of Justice ruled largely in favor of Romania in its dispute submitted in 2004 over Ukrainian-administered Zmiyinyy/Serpilor (Snake) Island and Black Sea maritime boundary delimitation; in 2007, Romania opposed Ukraine's construction of a navigation canal from the Danube border through Ukraine to the Black Sea, arguing that it runs through a unique ecological area, the Danube Delta</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 106,987 (Ukraine) (as of 10 January 2023)<br>
+_refugees (country of origin)_: 106,644 (Ukraine) (as of 17 January 2023)<br>
 _stateless persons_: 314 (mid-year 2021)<br>
 <strong>note:</strong> 11,981 estimated refugee and migrant arrivals (January 2015-December 2022)<br>
 

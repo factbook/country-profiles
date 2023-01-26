@@ -484,8 +484,8 @@ _lowest 10%_: 1.8%<br>
 _highest 10%_: 34.7% (2009 est.)<br>
 
 **Budget**<br>
-_revenues_: 51.25 billion (2017 est.)<br>
-_expenditures_: 60.63 billion (2017 est.)<br>
+_revenues_: $51.25 billion (2017 est.)<br>
+_expenditures_: $60.63 billion (2017 est.)<br>
 
 **Budget surplus (+) or deficit (-)**<br>
 -3% (of GDP) (2017 est.)<br>
@@ -689,7 +689,7 @@ _by type_: bulk carrier 16, container ship 28, general cargo 174, oil tanker 153
 
 **Ports and terminals**<br>
 _major seaport(s)_: Bintulu, Johor Bahru, George Town (Penang), Pelabuhan Klang (Port Klang), Tanjung Pelepas<br>
-_container port(s) (TEUs)_: Port Kelang (Port Klang) (13,580,717), Tanjung Pelepas (9,100,000) (2019)<br>
+_container port(s) (TEUs)_: Port Kelang (Port Klang) (13,724,460), Tanjung Pelepas (11,200,000) (2021)<br>
 _LNG terminal(s) (export)_: Bintulu (Sarawak)<br>
 _LNG terminal(s) (import)_: Sungei Udang<br>
 

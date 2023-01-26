@@ -490,8 +490,8 @@ _lowest 10%_: 3%<br>
 _highest 10%_: 32.2% (2012 est.)<br>
 
 **Budget**<br>
-_revenues_: 12.07 billion (2017 est.)<br>
-_expenditures_: 16.88 billion (2017 est.)<br>
+_revenues_: $12.07 billion (2017 est.)<br>
+_expenditures_: $16.88 billion (2017 est.)<br>
 
 **Budget surplus (+) or deficit (-)**<br>
 -5.5% (of GDP) (2017 est.)<br>
@@ -692,7 +692,7 @@ _by type_: bulk carrier 6, general cargo 13, oil tanker 11, other 60 (2021)<br>
 
 **Ports and terminals**<br>
 _major seaport(s)_: Colombo<br>
-_container port(s) (TEUs)_: Colombo (7,228,337) (2019)<br>
+_container port(s) (TEUs)_: Colombo (7,250,000) (2021)<br>
 
 ## Military and Security
 
@@ -708,7 +708,8 @@ Sri Lanka Armed Forces: Sri Lanka Army (includes National Guard and the Voluntee
 1.9% of GDP (2018 est.) (approximately $5.6 billion)<br>
 
 **Military and security service personnel strengths**<br>
-approximately 240,000 total personnel (170,000 Army; 40,000 Navy; 30,000 Air Force); approximately 11,000 Special Task Force personnel (2022)<br>
+approximately 260,000 total personnel (200,000 Army; 30,000 Navy; 30,000 Air Force); approximately 11,000 Special Task Force personnel (2023)<br>
+<strong>note: </strong>in January 2023, Sri Lanka’s Ministry of Defense announced plans to decrease the size of the Army to 135,000 by 2024 and 100,000 by 2030<br>
 
 **Military equipment inventories and acquisitions**<br>
 the military's inventory consists mostly of Chinese and Russian-origin equipment with a smaller mix of material from countries such as India and the US; since 2010, China, India, and the US have been the leading suppliers of arms to Sri Lanka (2022)<br>

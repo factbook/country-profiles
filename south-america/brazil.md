@@ -515,8 +515,8 @@ _lowest 10%_: 0.8%<br>
 _highest 10%_: 43.4% (2016 est.)<br>
 
 **Budget**<br>
-_revenues_: 733.7 billion (2017 est.)<br>
-_expenditures_: 756.3 billion (2017 est.)<br>
+_revenues_: $733.7 billion (2017 est.)<br>
+_expenditures_: $756.3 billion (2017 est.)<br>
 
 **Budget surplus (+) or deficit (-)**<br>
 -1.1% (of GDP) (2017 est.)<br>
@@ -724,7 +724,7 @@ _by type_: bulk carrier 11, container ship 19, general cargo 42, oil tanker 31, 
 **Ports and terminals**<br>
 _major seaport(s)_: Belem, Itajai, Paranagua, Rio Grande, Rio de Janeiro, Santos, Sao Sebastiao, Tubarao<br>
 _oil terminal(s)_: DTSE/Gegua oil terminal, Ilha Grande (Gebig), Guaiba Island terminal, Guamare oil terminal<br>
-_container port(s) (TEUs)_: Itajai (1,223,262), Paranagua (865,110), Santos (4,165,248) (2019)<br>
+_container port(s) (TEUs)_: Itajai (1,610,092), Paranagua (1,044,157), Santos (4,442,876) (2021)<br>
 _LNG terminal(s) (import)_: Pecem, Rio de Janiero<br>
 _river port(s)_: Manaus (Amazon)<br>
 _dry bulk cargo port(s)_: Sepetiba ore terminal, Tubarao<br>

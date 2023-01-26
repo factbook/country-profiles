@@ -350,8 +350,8 @@ _lowest 10%_: NA<br>
 _highest 10%_: NA<br>
 
 **Budget**<br>
-_revenues_: 8.427 million (FY06/07 est.)<br>
-_expenditures_: 20.7 million (FY06/07 est.)<br>
+_revenues_: $8.427 million (FY06/07 est.)<br>
+_expenditures_: $20.7 million (FY06/07 est.)<br>
 <strong>note:</strong> revenue data reflect only locally raised revenues; the budget deficit is resolved by grant aid from the UK<br>
 
 **Fiscal year**<br>

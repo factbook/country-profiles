@@ -471,8 +471,8 @@ _lowest 10%_: 9%<br>
 _highest 10%_: 23.4% (2016 est.)<br>
 
 **Budget**<br>
-_revenues_: 172.5 billion (2017 est.)<br>
-_expenditures_: 168.9 billion (2017 est.)<br>
+_revenues_: $172.5 billion (2017 est.)<br>
+_expenditures_: $168.9 billion (2017 est.)<br>
 
 **Budget surplus (+) or deficit (-)**<br>
 1.1% (of GDP) (2017 est.)<br>
@@ -596,17 +596,17 @@ _Total energy consumption per capita 2019_: 124.163 million Btu/person (2019 est
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 734,436 (2020 est.)<br>
-_subscriptions per 100 inhabitants_: 13 (2020 est.)<br>
+_total subscriptions_: 706,604 (2021 est.)<br>
+_subscriptions per 100 inhabitants_: 12 (2021 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 7,252,675 (2020 est.)<br>
-_subscriptions per 100 inhabitants_: 125 (2020 est.)<br>
+_total subscriptions_: 7,287,875 (2021 est.)<br>
+_subscriptions per 100 inhabitants_: 124 (2021 est.)<br>
 
 **Telecommunication systems**<br>
-_general assessment_: Denmark has one of the highest broadband subscription rates globally, with a near universal availability of super-fast connections; extensive cable and DSL infrastructure has been supported by a progressive regulatory regime which has encouraged operator access to both copper and fiber networks; fiber networks have a fast-growing footprint, while a number of community and metropolitan schemes have supplemented TDC NET&rsquo;s own commitments to build out fiber nationally; a number of wholesale fiber schemes have also added to the wider availability of fiber broadband; the reach of LTE infrastructure is comprehensive, while the Mobile Network Operators by mid-2021 had also provided about 90% population coverage with 5G; services based on 5G were initially launched using trial 3.5GHz licenses; the multi-spectrum auction held in April 2021 has enabled them to improve the resilience and capacity of 5G; all MNOs are engaged in closing down their 3G networks and repurposing spectrum for LTE and 5G use (2021)<br>
-_domestic_: fixed-line roughly 16 per 100 and about 123 per 100 for mobile-cellular subscriptions (2020)<br>
-_international_: country code - 45; landing points for the NSC, COBRAcable, CANTAT-3, DANICE, Havfrue/AEC-2, TAT-14m Denmark-Norway-5 &amp; 6, Skagenfiber West &amp; East, GC1, GC2, GC3, GC-KPN, Kattegat 1 &amp; 2 &amp; 3, Energinet Lyngsa-Laeso, Energinet Laeso-Varberg, Fehmarn Balt, Baltica, German-Denmark 2 &amp; 3, Ronne-Rodvig, Denmark-Sweden 15 &amp; 16 &amp; 17 &amp; 18, IP-Only Denmark-Sweden, Scandinavian South, Scandinavian Ring North, Danica North, 34 series of fiber-optic submarine cables link Denmark with Canada, Faroe Islands, Germany, Iceland, Netherlands, Norway, Poland, Russia, Sweden, US, and, UK; satellite earth stations - 18 (6 Intelsat, 10 Eutelsat, 1 Orion, 1 Inmarsat (Blaavand-Atlantic-East)); note - the Nordic countries (Denmark, Finland, Iceland, Norway, and Sweden) share the Danish earth station and the Eik, Norway, station for worldwide Inmarsat access (2019)<br>
+_general assessment_: Denmark has one of the highest broadband subscription rates globally, with a near universal availability of super-fast connections; extensive cable and DSL infrastructure has been supported by a progressive regulatory regime which has encouraged operator access to both copper and fiber networks; fiber networks have a fast-growing footprint, while a number of community and metropolitan schemes have supplemented their own commitments to build out fiber nationally; a number of wholesale fiber schemes have also added to the wider availability of fiber broadband; the reach of LTE infrastructure is comprehensive, while the Mobile Network Operators by mid-2021 had also provided about 90% population coverage with 5G; services based on 5G were initially launched using trial 3.5GHz licenses; the multi-spectrum auction held in April 2021 has enabled them to improve the resilience and capacity of 5G; all MNOs are engaged in closing down their 3G networks and repurposing spectrum for LTE and 5G use (2021)<br>
+_domestic_: fixed-line roughly 12 per 100 and about 124 per 100 for mobile-cellular subscriptions (2021)<br>
+_international_: country code - 45; landing points for the NSC, COBRAcable, CANTAT-3, DANICE, Havfrue/AEC-2, TAT-14m Denmark-Norway-5 &amp; 6, Skagenfiber West &amp; East, GC1, GC2, GC3, GC-KPN, Kattegat 1 &amp; 2 &amp; 3, Energinet Lyngsa-Laeso, Energinet Laeso-Varberg, Fehmarn Balt, Baltica, German-Denmark 2 &amp; 3, Ronne-Rodvig, Denmark-Sweden 15 &amp; 16 &amp; 17 &amp; 18, IP-Only Denmark-Sweden, Scandinavian South, Scandinavian Ring North, Danica North, 34 series of fiber-optic submarine cables link Denmark with Canada, Faroe Islands, Germany, Iceland, Netherlands, Norway, Poland, Russia, Sweden, US, and UK; satellite earth stations - 18 (6 Intelsat, 10 Eutelsat, 1 Orion, 1 Inmarsat (Blaavand-Atlantic-East)); note - the Nordic countries (Denmark, Finland, Iceland, Norway, and Sweden) share the Danish earth station and the Eik, Norway, station for worldwide Inmarsat access (2019)<br>
 <strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress toward 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>
 
 **Broadcast media**<br>
@@ -629,7 +629,7 @@ _subscriptions per 100 inhabitants_: 45 (2020 est.)<br>
 _number of registered air carriers_: 10 (2020)<br>
 _inventory of registered aircraft operated by air carriers_: 76<br>
 _annual passenger traffic on registered air carriers_: 582,011 (2015)<br>
-_annual freight traffic on registered air carriers_: 0 (2015) mt-km<br>
+_annual freight traffic on registered air carriers_: mt-km<br>
 
 **Civil aircraft registration country code prefix**<br>
 OY<br>
@@ -719,6 +719,6 @@ Islamic State of Iraq and ash-Sham (ISIS); Islamic Revolutionary Guard Corps/Qod
 <p>Iceland, the UK, and Ireland dispute Denmark's claim that the Faroe Islands' continental shelf extends beyond 200 nm; sovereignty dispute with Canada over Hans Island in the Kennedy Channel between Ellesmere Island and Greenland; Denmark (Greenland) and Norway have made submissions to the Commission on the Limits of the Continental Shelf (CLCS) and Russia is collecting additional data to augment its 2001 CLCS submission</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 19,424 (Syria), 5,885 (Eritrea) (mid-year 2022); 39,221 (Ukraine) (as of 8 January 2023)<br>
+_refugees (country of origin)_: 19,424 (Syria), 5,885 (Eritrea) (mid-year 2022); 39,395 (Ukraine) (as of 15 January 2023)<br>
 _stateless persons_: 11,608 (mid-year 2021)<br>
 

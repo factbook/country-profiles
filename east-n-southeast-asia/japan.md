@@ -485,8 +485,8 @@ _lowest 10%_: 2.7%<br>
 _highest 10%_: 24.8% (2008)<br>
 
 **Budget**<br>
-_revenues_: 1.714 trillion (2017 est.)<br>
-_expenditures_: 1.885 trillion (2017 est.)<br>
+_revenues_: $1.714 trillion (2017 est.)<br>
+_expenditures_: $1.885 trillion (2017 est.)<br>
 
 **Budget surplus (+) or deficit (-)**<br>
 -3.5% (of GDP) (2017 est.)<br>
@@ -691,7 +691,7 @@ _by type_: bulk carrier 148, container ship 45, general cargo 1,900, oil tanker 
 
 **Ports and terminals**<br>
 _major seaport(s)_: Chiba, Kawasaki, Kobe, Mizushima, Moji, Nagoya, Osaka, Tokyo, Tomakomai, Yokohama<br>
-_container port(s) (TEUs)_: Kobe (2,871,642), Nagoya (2,844,004), Osaka (2,456,028), Tokyo (4,510,000), Yokohama (2,990,000) (2019)<br>
+_container port(s) (TEUs)_: Kobe (2,823,774), Nagoya (2,725,597), Osaka (2,425,638), Tokyo (4,325,956), Yokohama (2,861,197) (2021)<br>
 _LNG terminal(s) (import)_: Chita, Fukwoke, Futtsu, Hachinone, Hakodate, Hatsukaichi, Higashi Ohgishima, Higashi Niigata, Himeiji, Joetsu, Kagoshima, Kawagoe, Kita Kyushu, Mizushima, Nagasaki, Naoetsu, Negishi, Ohgishima, Oita, Sakai, Sakaide, Senboku, Shimizu, Shin Minato, Sodegaura, Tobata, Yanai, Yokkaichi<br>
 Okinawa - Nakagusuku<br>
 
@@ -704,12 +704,12 @@ Japan operates one PC 3 or 4 class medium icebreaker<br>note - PC indicates a Po
 Japan Self-Defense Force (JSDF): Ground Self-Defense Force (Rikujou Jieitai, GSDF; includes aviation), Maritime Self-Defense Force (Kaijou Jieitai, MSDF; includes naval aviation), Air Self-Defense Force (Koukuu Jieitai, ASDF); Japan Coast Guard (Ministry of Land, Transport, Infrastructure and Tourism) (2022)<br>
 
 **Military expenditures**<br>
-1% of GDP (2022 est.)<br>
+1% of GDP (2022)<br>
 1% of GDP (2021)<br>
 1% of GDP (2020)<br>
-0.9% of GDP (2019) (approximately $53.4 billion)<br>
-0.9% of GDP (2018) (approximately $53.5 billion)<br>
-<strong>note:</strong> the Japanese Government in 2022 pledged to "substantially" increase defense spending in the next few years to counter what Tokyo sees as a growing security threat posed by China<br>
+0.9% of GDP (2019)<br>
+0.9% of GDP (2018)<br>
+<strong>note:</strong> the Japanese Government in 2022 pledged to increase defense expenditures to 2% of GDP in line with NATO standards; if the planned increase occurs, Japan would have one of the world's largest defense budgets<br>
 
 **Military and security service personnel strengths**<br>
 approximately 240,000 active personnel (150,000 Ground; 45,000 Maritime; 45,000 Air); 14,000 Coast Guard (2022)<br>
@@ -725,7 +725,7 @@ the JSDF is equipped with a mix of imported and domestically-produced equipment;
 approximately 180 Djibouti (2022)<br>
 
 **Military - note**<br>
-Japan was disarmed after its defeat in World War II; shortly after the Korean War began in 1950, US occupation forces in Japan created a 75,000-member lightly armed force called the National Police Reserve; the current Self Defense Force was founded in 1954 <br><br>in addition to having one of the region’s largest and best equipped militaries, Japan’s alliance with the US (signed in 1951) is one of the cornerstones of the country’s security, as well as a large part of the US security role in Asia; as of 2022, approximately 55,000 US troops and other military assets, including aircraft and naval ships, were stationed in Japan and had exclusive use of more than 80 bases and facilities; in exchange for their use, the US guarantees Japan’s security; the Japanese Government provides about $2 billion per year to offset the cost of stationing US forces in Japan; in addition, it pays compensation to localities hosting US troops, rent for bases, and costs for new facilities to support the US presence <br><br>Japan has Major Non-NATO Ally (MNNA) status with the US; MNNA is a designation under US law that provides foreign partners with certain benefits in the areas of defense trade and security cooperation; while MNNA status provides military and economic privileges, it does not entail any security commitments (2022)<br>
+Japan was disarmed after its defeat in World War II; shortly after the Korean War began in 1950, US occupation forces in Japan created a 75,000-member lightly armed force called the National Police Reserve; the current Self Defense Force was founded in 1954 <br><br>in addition to having one of the region’s largest and best equipped militaries, Japan’s alliance with the US (signed in 1951) is one of the cornerstones of the country’s security, as well as a large part of the US security role in Asia; as of 2023, approximately 55,000 US troops and other military assets, including aircraft and naval ships, were stationed in Japan and had exclusive use of more than 80 bases and facilities; in exchange for their use, the US guarantees Japan’s security; the Japanese Government provides about $2 billion per year to offset the cost of stationing US forces in Japan; in addition, it pays compensation to localities hosting US troops, rent for bases, and costs for new facilities to support the US presence <br><br>Japan has Major Non-NATO Ally (MNNA) status with the US; MNNA is a designation under US law that provides foreign partners with certain benefits in the areas of defense trade and security cooperation; while MNNA status provides military and economic privileges, it does not entail any security commitments (2023)<br>
 
 ## Terrorism
 

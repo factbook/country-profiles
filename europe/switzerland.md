@@ -489,8 +489,8 @@ _lowest 10%_: 7.5%<br>
 _highest 10%_: 19% (2007)<br>
 
 **Budget**<br>
-_revenues_: 242.1 billion (2017 est.)<br>
-_expenditures_: 234.4 billion (2017 est.)<br>
+_revenues_: $242.1 billion (2017 est.)<br>
+_expenditures_: $234.4 billion (2017 est.)<br>
 <strong>note:</strong> includes federal, cantonal, and municipal budgets<br>
 
 **Budget surplus (+) or deficit (-)**<br>

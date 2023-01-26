@@ -390,8 +390,8 @@ _lowest 10%_: NA<br>
 _highest 10%_: NA<br>
 
 **Budget**<br>
-_revenues_: 965 million (FY05/06 est.)<br>
-_expenditures_: 943 million (FY05/06 est.)<br>
+_revenues_: $965 million (FY05/06 est.)<br>
+_expenditures_: $943 million (FY05/06 est.)<br>
 
 **Budget surplus (+) or deficit (-)**<br>
 0.3% (of GDP) (FY05/06 est.)<br>

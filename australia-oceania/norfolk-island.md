@@ -292,8 +292,8 @@ _industry_: 14%<br>
 _services_: 80% (2006 est.)<br>
 
 **Budget**<br>
-_revenues_: 4.6 million (FY99/00)<br>
-_expenditures_: 4.8 million (FY99/00)<br>
+_revenues_: $4.6 million (FY99/00)<br>
+_expenditures_: $4.8 million (FY99/00)<br>
 
 **Fiscal year**<br>
 1 July - 30 June<br>

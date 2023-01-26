@@ -357,8 +357,8 @@ _lowest 10%_: NA<br>
 _highest 10%_: NA<br>
 
 **Budget**<br>
-_revenues_: 70 million (1996 est.)<br>
-_expenditures_: 60 million (1996 est.)<br>
+_revenues_: $70 million (1996 est.)<br>
+_expenditures_: $60 million (1996 est.)<br>
 
 **Budget surplus (+) or deficit (-)**<br>
 3.8% (of GDP) (1996 est.)<br>

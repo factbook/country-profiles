@@ -498,8 +498,8 @@ _lowest 10%_: 2%<br>
 _highest 10%_: 25.4% (1994)<br>
 
 **Budget**<br>
-_revenues_: 490 billion (2017 est.)<br>
-_expenditures_: 496.9 billion (2017 est.)<br>
+_revenues_: $490 billion (2017 est.)<br>
+_expenditures_: $496.9 billion (2017 est.)<br>
 
 **Budget surplus (+) or deficit (-)**<br>
 -0.5% (of GDP) (2017 est.)<br>
@@ -624,16 +624,16 @@ _Total energy consumption per capita 2019_: 241.004 million Btu/person (2019 est
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 6.2 million (2020 est.)<br>
-_subscriptions per 100 inhabitants_: 24 (2020 est.)<br>
+_total subscriptions_: 4.6 million (2021 est.)<br>
+_subscriptions per 100 inhabitants_: 18 (2021 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 27.453 million (2020 est.)<br>
-_subscriptions per 100 inhabitants_: 108 (2020 est.)<br>
+_total subscriptions_: 27.09 million (2021 est.)<br>
+_subscriptions per 100 inhabitants_: 105 (2021 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: the Australian telecom market since 2020 has been impacted by the pandemic, which forced many people to school and work from home and thus adopt fixed-line broadband services; internet traffic, both fixed and mobile, increased substantially as a result; in the fixed sector, there is an ongoing migration from copper-based platforms to fiber; the extension of fixed wireless access will mean that up to 120,000 premises currently dependent on satellite broadband will be able to access 5G-based fixed services; the fixed-line market has been falling steadily over the past five years; in the Australian fixed broadband market, there is a dynamic shift among customers to fiber networks; the DSL sector is steadily shrinking while subscribers on HFC infrastructure will continue to be provided by existing cable, with a steady migration to full fiber connectivity (2022)<br>
-_domestic_: 24 per 100 fixed-line telephone subscriptions and 108 per 100 mobile-cellular; more subscribers to mobile services than there are people; 90% of all mobile device sales are now smartphones, growth in mobile traffic brisk (2020)<br>
+_domestic_: 18 per 100 fixed-line telephone subscriptions and 105 per 100 mobile-cellular; more subscribers to mobile services than there are people; 90% of all mobile device sales are now smartphones, growth in mobile traffic brisk (2021)<br>
 _international_: country code - 61; landing points for&nbsp;more than&nbsp;20 submarine cables including: the SeaMeWe-3 optical telecommunications submarine cable with links to Asia, the Middle East, and Europe; the INDIGO-Central, INDIGO West and ASC, North West Cable System, Australia-Papua New Guinea cable, CSCS, PPC-1, Gondwana-1, SCCN, Hawaiki, TGA, Basslink, Bass Strait-1, Bass Strait-2, JGA-S, with links to other Australian cities, New Zealand&nbsp;and many countries in southeast Asia, US and Europe; the H2 Cable, AJC, Telstra Endeavor, Southern Cross NEXT with links to Japan, Hong Kong, and other Pacific Ocean countries as well as the US; satellite earth stations - 10 Intelsat (4 Indian Ocean and 6 Pacific Ocean), 2 Inmarsat, 2 Globalstar, 5 other (2019)<br>
 <strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress toward 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>
 
@@ -705,7 +705,7 @@ _by type_: bulk carrier 2, general cargo 76, oil tanker 7, other 496 (2021)<br>
 
 **Ports and terminals**<br>
 _major seaport(s)_: <em><br>Indian Ocean:</em> Adelaide, Darwin, Fremantle, Geelong, Melbourne<br><em>Pacific Ocean:</em> Brisbane, Cairns, Gladstone, Hobart, Newcastle, Port Port Kembla, Sydney<br>
-_container port(s) (TEUs)_: Melbourne (2,967,315), Sydney (2,572,714) (2019)<br>
+_container port(s) (TEUs)_: Melbourne (2,909,288), Sydney (2,761,648) (2021)<br>
 _LNG terminal(s) (export)_: Australia Pacific, Barrow Island, Burrup (Pluto), Curtis Island, Darwin, Karratha, Bladin Point (Ichthys), Gladstone,&nbsp;Prelude (offshore FLNG), Wheatstone<br>
 _dry bulk cargo port(s)_: Dampier (iron ore), Dalrymple Bay (coal), Hay Point (coal), Port Hedland (iron ore), Port Walcott (iron ore)<br>
 

@@ -483,8 +483,8 @@ _lowest 10%_: 1.1%<br>
 _highest 10%_: 38.9% (2014 est.)<br>
 
 **Budget**<br>
-_revenues_: 12.43 billion (2017 est.)<br>
-_expenditures_: 13.44 billion (2017 est.)<br>
+_revenues_: $12.43 billion (2017 est.)<br>
+_expenditures_: $13.44 billion (2017 est.)<br>
 
 **Budget surplus (+) or deficit (-)**<br>
 -1.6% (of GDP) (2017 est.)<br>
@@ -685,7 +685,7 @@ _by type_: bulk carrier 2,697, container ship 643, general cargo 1,381, oil tank
 
 **Ports and terminals**<br>
 _major seaport(s)_: Balboa, Colon, Cristobal<br>
-_container port(s) (TEUs)_: Balboa (2,894,654), Colon (4,379,477) (2019)<br>
+_container port(s) (TEUs)_: Balboa (3,561,432), Colon (4,915,975) (2021)<br>
 
 ## Military and Security
 

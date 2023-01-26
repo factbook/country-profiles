@@ -481,8 +481,8 @@ _lowest 10%_: 1.7%<br>
 _highest 10%_: 32.7% (2006)<br>
 
 **Budget**<br>
-_revenues_: 92.8 billion (2017 est.)<br>
-_expenditures_: 189.7 billion (2017 est.)<br>
+_revenues_: $92.8 billion (2017 est.)<br>
+_expenditures_: $189.7 billion (2017 est.)<br>
 
 **Budget surplus (+) or deficit (-)**<br>
 -46.1% (of GDP) (2017 est.)<br>
@@ -686,8 +686,8 @@ _oil terminal(s)_: Jose terminal<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Bolivarian National Armed Forces (Fuerza Armada Nacional Bolivariana, FANB): Bolivarian Army (Ejercito Bolivariano, EB), Bolivarian Navy (Armada Bolivariana, AB; includes marines, Coast Guard), Bolivarian Military Aviation (Aviacion Militar Bolivariana, AMB; includes a joint-service Aerospace Defense Command (Comando de Defensa Aeroespacial Integral, CODAI), Bolivarian Militia (Milicia Bolivariana), Bolivarian National Guard (Guardia Nacional Bolivaria, GNB) <br><br>Bolivarian National Police: Special Action Forces (Fuerzas de Acciones Especiales, FAES) (2022)<br>
-<strong>note 1: </strong>the Bolivarian Militia was added as a "special component" to the FANB in 2020; it is comprised of armed civilians who receive periodic training in exchange for a small stipend<br><br><strong>note 2: </strong>the National Guard is responsible for maintaining public order, guarding the exterior of key government installations and prisons, conducting counter-narcotics operations, monitoring borders, and providing law enforcement in remote areas; it reports to both the Ministry of Defense and the Ministry of Interior, Justice, and Peace<br><br><strong>note 3: </strong>the FAES police paramilitary unit was created by President MADURO after the 2017 anti-government protests to bolster internal security; it has been accused of multiple human rights abuses <br>
+Bolivarian National Armed Forces (Fuerza Armada Nacional Bolivariana, FANB): Bolivarian Army (Ejercito Bolivariano, EB), Bolivarian Navy (Armada Bolivariana, AB; includes marines, Coast Guard), Bolivarian Military Aviation (Aviacion Militar Bolivariana, AMB; includes a joint-service Aerospace Defense Command (Comando de Defensa Aeroespacial Integral, CODAI), Bolivarian Militia (Milicia Bolivariana), Bolivarian National Guard (Guardia Nacional Bolivaria, GNB) <br><br>Bolivarian National Police (Policía Nacional Bolivariana, PNB) includes the Special Action Forces (Fuerzas de Acciones Especiales, FAES) (2022)<br>
+<strong>note 1: </strong>the Bolivarian Militia was added as a "special component" to the FANB in 2020; it is comprised of armed civilians who receive periodic training in exchange for a small stipend<br><br><strong>note 2: </strong>the National Guard is responsible for maintaining public order, guarding the exterior of key government installations and prisons, conducting counter-narcotics operations, monitoring borders, and providing law enforcement in remote areas; it reports to both the Ministry of Defense and the Ministry of Interior, Justice, and Peace<br><br><strong>note 3: </strong>the PNB's FAES paramilitary unit was created by President MADURO after the 2017 anti-government protests to bolster internal security; it has been accused of multiple human rights abuses <br>
 
 **Military expenditures**<br>
 5.2% of GDP (2019 est.) (approximately $7.5 billion)<br>
@@ -697,7 +697,8 @@ Bolivarian National Armed Forces (Fuerza Armada Nacional Bolivariana, FANB): Bol
 1.8% of GDP (2015 est.) (approximately $9.3 billion)<br>
 
 **Military and security service personnel strengths**<br>
-information varies; approximately 125-150,000 active personnel, including about 25-30,000 National Guard; approximately 200-225,000 Bolivarian Militia (2022)<br>
+information varies; approximately 125-150,000 active personnel, including about 25-30,000 National Guard; approximately 200-225,000 Bolivarian Militia; approximately 45,000 National Police (2022)<br>
+<strong>note: </strong>in December 2022, President Nicolas MADURO announced that the National Police would be increased to 100,000 in 2024 <br>
 
 **Military equipment inventories and acquisitions**<br>
 the FANB inventory is mainly of Chinese and Russian origin with a smaller mix of equipment from Western countries, including the US; since 2010, Russia has been the top supplier of military hardware to Venezuela (2022)<br>

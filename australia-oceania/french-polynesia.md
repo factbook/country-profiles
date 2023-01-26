@@ -404,8 +404,8 @@ _lowest 10%_: NA<br>
 _highest 10%_: NA<br>
 
 **Budget**<br>
-_revenues_: 1.891 billion (2012)<br>
-_expenditures_: 1.833 billion (2011)<br>
+_revenues_: $1.891 billion (2012)<br>
+_expenditures_: $1.833 billion (2011)<br>
 
 **Budget surplus (+) or deficit (-)**<br>
 1.2% (of GDP) (2012)<br>

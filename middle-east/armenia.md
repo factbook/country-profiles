@@ -479,8 +479,8 @@ _lowest 10%_: 3.5%<br>
 _highest 10%_: 25.7% (2014)<br>
 
 **Budget**<br>
-_revenues_: 2.644 billion (2017 est.)<br>
-_expenditures_: 3.192 billion (2017 est.)<br>
+_revenues_: $2.644 billion (2017 est.)<br>
+_expenditures_: $3.192 billion (2017 est.)<br>
 
 **Budget surplus (+) or deficit (-)**<br>
 -4.8% (of GDP) (2017 est.)<br>
@@ -604,16 +604,16 @@ _Total energy consumption per capita 2019_: 53.019 million Btu/person (2019 est.
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 427,539 (2020 est.)<br>
-_subscriptions per 100 inhabitants_: 14 (2020 est.)<br>
+_total subscriptions_: 418,122 (2021 est.)<br>
+_subscriptions per 100 inhabitants_: 15 (2021 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 3,488,797 (2020 est.)<br>
-_subscriptions per 100 inhabitants_: 118 (2020 est.)<br>
+_total subscriptions_: 3,599,278 (2021 est.)<br>
+_subscriptions per 100 inhabitants_: 129 (2021 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: Armenia&rsquo;s telecom sector was able to post in the mobile and broadband segments; its fixed-line penetration continues to slide downwards, with the rollout of fiber networks which have encouraged the increase in bundled services; the fixed broadband market remains undeveloped due to the lack of underlying infrastructure outside the main cities (2021)<br>
-_domestic_: roughly 14 per 100 fixed-line and 118 per 100 mobile-cellular; reliable fixed-line and mobile-cellular services are available across Yerevan and in major cities and towns; mobile-cellular coverage available in most rural areas (2020)<br>
+_domestic_: roughly 15 per 100 fixed-line and 129 per 100 mobile-cellular; reliable fixed-line and mobile-cellular services are available across Yerevan and in major cities and towns; mobile-cellular coverage available in most rural areas (2021)<br>
 _international_: country code - 374; Yerevan is connected to the&nbsp;Caucasus Cable System&nbsp;fiber-optic cable through Georgia and Iran to Europe; additional international service is available by microwave radio relay and landline connections to the other countries of the Commonwealth of Independent States, through the Moscow international switch, and by satellite to the rest of the world; satellite earth stations - 3 (2019)<br>
 <strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress toward 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>
 
@@ -688,7 +688,7 @@ the inventory of the Armenian Armed Forces includes mostly Russian and Soviet-er
 <strong>note:</strong> as of 2021, conscripts comprised about half of the military's active personnel; as of 2018, women made up about 13% of the active duty military<br>
 
 **Military - note**<br>
-since November 2020, Russia has deployed about 2,000 peacekeeping troops to the area in and around Nagorno-Karabakh as part of a cease-fire agreement between Armenia and Azerbaijan; fighting erupted between the two countries over the Nagorno-Karabakh region in September of 2020; Nagorno-Karabakh lies within Azerbaijan but has been under control of ethnic Armenian forces (the "Nagorno-Karabakh Defense Army") backed by Armenia since a separatist war there ended in 1994; six weeks of fighting resulted in about 6,500 deaths and ended after Armenia ceded swaths of Nagorno-Karabakh territory; tensions remained high into 2022, and both sides have accused the other of provocations since the fighting ended; Armenia has accused Azerbaijani forces of a series of border intrusions and of seizing pockets of territory <br><br>Armenia has been a member of the Collective Security Treaty Organization (CSTO) since 1994 and contributes troops to CSTO's rapid reaction force<br>
+since November 2020, Russia has deployed about 2,000 peacekeeping troops to the area in and around Nagorno-Karabakh as part of a cease-fire agreement between Armenia and Azerbaijan; fighting erupted between the two countries over the Nagorno-Karabakh region in September of 2020; Nagorno-Karabakh lies within Azerbaijan but has been under control of ethnic Armenian forces (the "Nagorno-Karabakh Defense Army") backed by Armenia since a separatist war there ended in 1994; six weeks of fighting resulted in about 6,500 deaths and ended after Armenia ceded swaths of Nagorno-Karabakh territory; tensions remained high into 2023, and both sides have accused the other of provocations since the fighting ended; Armenia has accused Azerbaijani forces of a series of border intrusions and of seizing pockets of territory <br><br>Armenia has been a member of the Collective Security Treaty Organization (CSTO) since 1994 and contributes troops to CSTO's rapid reaction force (2023)<br>
 
 ## Transnational Issues
 

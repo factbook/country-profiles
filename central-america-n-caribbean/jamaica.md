@@ -466,8 +466,8 @@ _lowest 10%_: 2.6%<br>
 _highest 10%_: 29.3% (2015)<br>
 
 **Budget**<br>
-_revenues_: 4.382 billion (2017 est.)<br>
-_expenditures_: 4.314 billion (2017 est.)<br>
+_revenues_: $4.382 billion (2017 est.)<br>
+_expenditures_: $4.314 billion (2017 est.)<br>
 
 **Budget surplus (+) or deficit (-)**<br>
 0.5% (of GDP) (2017 est.)<br>
@@ -653,7 +653,8 @@ _by type_: bulk carrier 1, container ship 5, general cargo 9, oil tanker 1, othe
 
 **Ports and terminals**<br>
 _major seaport(s)_: Discovery Bay (Port Rhoades), Kingston, Montego Bay, Port Antonio, Port Esquivel, Port Kaiser, Rocky Point<br>
-_container port(s) (TEUs)_: Kingston (1,647,609) (2019)<br>
+_cruise port(s)_: Falmouth, Montego Bay, Port Antonio, Ocho Rios,<br>
+_container port(s) (TEUs)_: Kingston (2,004,302) (2021)<br>
 
 ## Military and Security
 

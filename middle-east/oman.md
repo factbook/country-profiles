@@ -467,8 +467,8 @@ _lowest 10%_: NA<br>
 _highest 10%_: NA<br>
 
 **Budget**<br>
-_revenues_: 22.14 billion (2017 est.)<br>
-_expenditures_: 31.92 billion (2017 est.)<br>
+_revenues_: $22.14 billion (2017 est.)<br>
+_expenditures_: $31.92 billion (2017 est.)<br>
 
 **Budget surplus (+) or deficit (-)**<br>
 -13.8% (of GDP) (2017 est.)<br>
@@ -666,7 +666,7 @@ _by type_: general cargo 10, other 47 (2021)<br>
 
 **Ports and terminals**<br>
 _major seaport(s)_: Mina' Qabus, Salalah, Suhar<br>
-_container port(s) (TEUs)_: Salalah (4,109,000) (2019)<br>
+_container port(s) (TEUs)_: Salalah (4,510,000) (2021)<br>
 _LNG terminal(s) (export)_: Qalhat<br>
 
 ## Military and Security

@@ -357,8 +357,8 @@ _lowest 10%_: NA<br>
 _highest 10%_: NA<br>
 
 **Budget**<br>
-_revenues_: 15.07 million (FY04/05)<br>
-_expenditures_: 16.33 million (FY04/05)<br>
+_revenues_: $15.07 million (FY04/05)<br>
+_expenditures_: $16.33 million (FY04/05)<br>
 
 **Budget surplus (+) or deficit (-)**<br>
 -12.6% (of GDP) (FY04/05)<br>

@@ -466,8 +466,8 @@ _lowest 10%_: NA<br>
 _highest 10%_: NA<br>
 
 **Budget**<br>
-_revenues_: 5.076 billion (2017 est.)<br>
-_expenditures_: 4.583 billion (2017 est.)<br>
+_revenues_: $5.076 billion (2017 est.)<br>
+_expenditures_: $4.583 billion (2017 est.)<br>
 
 **Budget surplus (+) or deficit (-)**<br>
 3.9% (of GDP) (2017 est.)<br>
@@ -652,7 +652,7 @@ _by type_: bulk carrier 601, container ship 310, general cargo 218, oil tanker 4
 
 **Ports and terminals**<br>
 _major seaport(s)_: Marsaxlokk (Malta Freeport), Valletta<br>
-_container port(s) (TEUs)_: Marsaxlokk (2,722,889) (2019)<br>
+_container port(s) (TEUs)_: Marsaxlokk (2,967,765) (2021)<br>
 _LNG terminal(s) (import)_: Delimara<br>
 
 ## Military and Security

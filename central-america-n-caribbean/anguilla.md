@@ -361,8 +361,8 @@ _lowest 10%_: NA<br>
 _highest 10%_: NA<br>
 
 **Budget**<br>
-_revenues_: 81.92 million (2017 est.)<br>
-_expenditures_: 80.32 million (2017 est.)<br>
+_revenues_: $81.92 million (2017 est.)<br>
+_expenditures_: $80.32 million (2017 est.)<br>
 
 **Budget surplus (+) or deficit (-)**<br>
 0.9% (of GDP) (2017 est.)<br>

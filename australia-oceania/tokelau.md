@@ -338,8 +338,8 @@ small-scale enterprises for copra production, woodworking, plaited craft goods; 
 NA<br>
 
 **Budget**<br>
-_revenues_: 24,324,473 (2017 est.)<br>
-_expenditures_: 11,666,542 (2017 est.)<br>
+_revenues_: $24,324,473 (2017 est.)<br>
+_expenditures_: $11,666,542 (2017 est.)<br>
 
 **Fiscal year**<br>
 1 April - 31 March<br>

@@ -357,14 +357,14 @@ _residency requirement for naturalization_: 5 years<br>
 
 **Executive branch**<br>
 _chief of state_: President Andrzej DUDA (since 6 August 2015)<br>
-_head of government_: Prime Minister Mateusz MORAWIECKI (since 11 December 2017); Deputy Prime Ministers Piotr GLINSKI (since 16 November 2015), Jacek SASIN (since 15 November 2019), Jaroslaw KACZYNSKI (6 October 2020) and Henryk KOWALCZYK (26 October 2021)<br>
+_head of government_: Prime Minister Mateusz MORAWIECKI (since 11 December 2017); Deputy Prime Ministers Piotr GLINSKI (since 16 November 2015), Jacek SASIN (since 15 November 2019), Henryk KOWALCZYK (26 October 2021), and Mariusz BLASZCZAK (since 22 June 2022)<br>
 _cabinet_: Council of Ministers proposed by the prime minister, appointed by the president, and approved by the Sejm<br>
-_elections/appointments_: president directly elected by absolute majority popular vote in 2 rounds if needed for a 5-year term (eligible for a second term); election last held on 28 June 2020 with a second round on 12 July 2020 (next to be held in 2025); prime minister, deputy prime ministers, and Council of Ministers appointed by the president and confirmed by the Sejm<br>
-_election results_: <em>2020:</em> Andrzej DUDA reelected president in second round; percent of vote - Andrzej DUDA (independent) 51%, Rafal TRZASKOWSKI (KO) 49%<br><br><em>2015:</em> Andrzej DUDA elected president in second round; percent of vote - Andrzej DUDA (independent) 51.5%, Bronislaw KOMOROWSKI (independent) 48.5%<br>
+_elections/appointments_: president directly elected by absolute majority popular vote in 2 rounds if needed for a 5-year term (eligible for a second term); election last held on 28 June 2020 with a second round on 12 July 2020 (next to be held in 2025); prime minister, deputy prime ministers, and Council of Ministers appointed by the president and confirmed by the Sejm; all presidential candidates resign their party affiliation<br>
+_election results_: <em>2020:</em> Andrzej DUDA reelected president in second round; percent of vote - Andrzej DUDA 51%, Rafal TRZASKOWSKI (KO) 49%<br><br><em>2015:</em> Andrzej DUDA elected president in second round; percent of vote - Andrzej DUDA 51.5%, Bronislaw KOMOROWSKI (independent) 48.5%<br>
 
 **Legislative branch**<br>
-_description_: bicameral Parliament consists of:<br>Senate or Senat (100 seats; members directly elected in single-seat constituencies by simple majority vote to serve 4-year terms)<br>Sejm (460 seats; members elected in multi-seat constituencies by party-list proportional representation vote with 5% threshold of total votes needed for parties and 8% for coalitions to gain seats; minorities exempt from threshold; members serve 4-year terms)<br>
-_elections_: <br>Senate - last held on 13 October 2019 (next to be held in October 2023)<br>Sejm - last held on 13 October 2019 (next to be held in October 2023)<br>
+_description_: bicameral Parliament consists of:<br>Senate or Senat (100 seats; members directly elected in single-seat constituencies by simple majority vote to serve 4-year terms)<br>Sejm (460 seats; members elected in multi-seat constituencies by party-list proportional representation vote with 5% threshold of total votes needed for parties and 8% for coalitions to gain seats; minority parties exempt from threshold; members serve 4-year terms)<br>
+_elections_: Senate - last held on 13 October 2019 (next to be held in October 2023)<br>Sejm - last held on 13 October 2019 (next to be held in October 2023)<br>
 _election results_: <br>Senate - percent of vote by party - NA; seats by party - PiS 48, KO 43, PSL 3, SLD 2, independent 4; composition (as of October 2021) - men 76, women 24, percent of women 24%<br>Sejm - percent of vote by party - PiS 43.6%, KO 27.4%, SLD 12.6%, PSL 8.5% Confederation 6.8%, other 1.1%; seats by party - PiS 235, KO 134, SLD 49, PSL 30, KWiN 11, MN 1; men 330, women 130, percent of women 28.3%; note - total Parliament percent of women 27.5%<br>
 <strong>note:</strong> the designation National Assembly or Zgromadzenie Narodowe is only used on those rare occasions when the 2 houses meet jointly<br>
 
@@ -374,7 +374,7 @@ _judge selection and term of office_: president of the Supreme Court nominated b
 _subordinate courts_: administrative courts; military courts; local, regional and appellate courts subdivided into military, civil, criminal, labor, and family courts<br>
 
 **Political parties and leaders**<br>
-Civic Coalition or KO [collective leadership]<br>Confederation Liberty and Independence or KORWiN [Janusz KORWIN-MIKKE, Robert WINNICKI, Grzegorz BRAUN]<br>Law and Justice or PiS [Jaroslaw KACZYNSKI]<br>Polish Coalition or PSL [Wladyslaw KOSINIAK-KAMYSZ]<br>The Left [Wlodzimierz CZARZASTY]<br>
+Agreement [Jaroslaw GOWIN]<br>Civic Coalition or KO [collective leadership]<br>Civic Platform or PO [Donald Tusk]<br>Confederation Liberty and Independence or KORWiN [Janusz KORWIN-MIKKE, Robert WINNICKI, Grzegorz BRAUN]<br>Confederation of the Polish Crown or KKP [Grzegorz BRAUN]<br>Kukiz 15 [Pawel KUKIZ]<br>Law and Justice or PiS [Jaroslaw KACZYNSKI]<br>Left Together or LR [Adrian ZANBERG and Magdalena BIEJAT]<br>Modern or .N [Adam SZLAPKA]<br>National Movement or RN [Robert WINNICKI]<br>New Hope or NN [Slawomir MENTZEN]<br>New Left or NL [Wlodzimierz CZARZASTY and Robert Biedron]<br>Poland 2050 [Szymon HOLOWNIA]<br>Polish People's Party or PSL [Wladyslaw KOSINIAK-KAMYSZ]<br>Polish Initiative or iPL [Barbara NOWACKA]<br>Polish Socialist Party or PPS [Wojciech KONIECZNY]<br>Regional. Minority with Majority or MN [Ryszard GALLA]<br>Republican Party or R [Adam BIELAN]<br>The Greens or PZ [Wojciech KUBALEWSKI and Malgorzata TRACZ]<br>Union of European Democrats or UED [Elzbieta BINCZYCKA]<br>United Poland or SP [Zbigniew ZIOBRO]<br>Wolnosciowcy [Arthur DZIAMBOR]<br>
 
 **International organization participation**<br>
 Arctic Council (observer), Australia Group, BIS, BSEC (observer), CBSS, CD, CE, CEI, CERN, EAPC, EBRD, ECB, EIB, ESA, EU, FAO, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IEA, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, MONUSCO, NATO, NEA, NSG, OAS (observer), OECD, OIF (observer), OPCW, OSCE, PCA, Schengen Convention, UN, UNCTAD, UNESCO, UNHCR, UNHRC, UNIDO, UNMIL, UNMISS, UNOCI, UN Security Council (temporary), UNWTO, UPU, Wassenaar Arrangement, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO, ZC<br>
@@ -499,8 +499,8 @@ _lowest 10%_: 3%<br>
 _highest 10%_: 23.9% (2015 est.)<br>
 
 **Budget**<br>
-_revenues_: 207.5 billion (2017 est.)<br>
-_expenditures_: 216.2 billion (2017 est.)<br>
+_revenues_: $207.5 billion (2017 est.)<br>
+_expenditures_: $216.2 billion (2017 est.)<br>
 
 **Budget surplus (+) or deficit (-)**<br>
 -1.7% (of GDP) (2017 est.)<br>
@@ -702,7 +702,7 @@ _by type_: general cargo 7, oil tanker 6, other 130 (2021)<br>
 
 **Ports and terminals**<br>
 _major seaport(s)_: Gdansk, Gdynia, Swinoujscie<br>
-_container port(s) (TEUs)_: Gdansk (2,073,215) (2019)<br>
+_container port(s) (TEUs)_: Gdansk (2,117,829) (2021)<br>
 _LNG terminal(s) (import)_: Swinoujscie<br>
 _river port(s)_: Szczecin (River Oder)<br>
 
@@ -751,7 +751,7 @@ Islamic State of Iraq and ash-Sham (ISIS)<br>
 <p><em>Poland-Belarus-Ukraine</em>: as a member state that forms part of the EU's external border, Poland has implemented the strict Schengen border rules to restrict illegal immigration and trade along its eastern borders with Belarus and Ukraine</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 1,563,386 (Ukraine) (as of 10 January 2022)<br>
+_refugees (country of origin)_: 1,563,386 (Ukraine) (as of 17 January 2022)<br>
 _stateless persons_: 1,389 (mid-year 2021)<br>
 
 **Illicit drugs**<br>

@@ -398,8 +398,8 @@ _lowest 10%_: 6.4% (2010)<br>
 _highest 10%_: 40.3% (2010)<br>
 
 **Budget**<br>
-_revenues_: 91.62 billion (2017 est.)<br>
-_expenditures_: 92.03 billion (2017 est.)<br>
+_revenues_: $91.62 billion (2017 est.)<br>
+_expenditures_: $92.03 billion (2017 est.)<br>
 
 **Budget surplus (+) or deficit (-)**<br>
 -0.1% (of GDP) (2017 est.)<br>
@@ -593,7 +593,7 @@ _by type_: bulk carrier 37, container ship 49, general cargo 57, oil tanker 33, 
 
 **Ports and terminals**<br>
 _major seaport(s)_: Keelung (Chi-lung), Kaohsiung, Hualian, Taichung<br>
-_container port(s) (TEUs)_: Kaohsiung (10,428,634), Taichung (1,793,966), Taipei (1,620,392) (2019)<br>
+_container port(s) (TEUs)_: Kaohsiung (9,864,448), Taichung (1,979,222), Taipei (2,091,132) (2021)<br>
 _LNG terminal(s) (import)_: Yung An (Kaohsiung), Taichung<br>
 
 ## Military and Security
@@ -613,7 +613,7 @@ approximately 170,000 active duty troops (90,000 Army; 40,000 Navy, including ap
 <strong>note: </strong>Taiwan trains about 120,000 reservists annually, but in 2022 announced intentions to increase that figure to 260,000<br>
 
 **Military equipment inventories and acquisitions**<br>
-the Taiwan military is armed mostly with second-hand weapons and equipment provided by the US; since 2010, the US has continued to be the largest provider of arms; Taiwan also has a domestic defense industry capable of building and upgrading a range of weapons systems, including surface ships and submarines (2022)<br>
+the Taiwan military is armed mostly with second-hand weapons and equipment provided by the US; since 2010, the US has continued to be the largest provider of arms; Taiwan also has a domestic defense industry capable of building and upgrading a range of weapons systems, including surface ships and submarines (2023)<br>
 
 **Military service age and obligation**<br>
 starting with those born in 1994, men 18-36 years of age may volunteer or must complete 4 months of compulsory military service; civil service can be substituted for military service in some cases; men born before December 1993 are required to complete compulsory service for 12 months (military or civil); men are subject to training recalls up to four times for periods not to exceed 20 days for 8 years after discharge; women may enlist but are restricted to noncombat roles in most cases; as part of its transition to an all-volunteer military, the last cohort of 12-month military conscripts completed their service obligations in December 2018 (2022)<br>

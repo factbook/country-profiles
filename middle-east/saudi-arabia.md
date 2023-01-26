@@ -481,8 +481,8 @@ _lowest 10%_: NA<br>
 _highest 10%_: NA<br>
 
 **Budget**<br>
-_revenues_: 181 billion (2017 est.)<br>
-_expenditures_: 241.8 billion (2017 est.)<br>
+_revenues_: $181 billion (2017 est.)<br>
+_expenditures_: $241.8 billion (2017 est.)<br>
 
 **Budget surplus (+) or deficit (-)**<br>
 -8.9% (of GDP) (2017 est.)<br>
@@ -685,7 +685,7 @@ _by type_: bulk carrier 5, container ship 1, general cargo 21, oil tanker 58, ot
 
 **Ports and terminals**<br>
 _major seaport(s)_: Ad Dammam, Al Jubayl, Jeddah, King Abdulla, Yanbu'<br>
-_container port(s) (TEUs)_: Ad Dammam (1,822,642), Jeddah (4,433,991), King Abdulla (2,020,683) (2019)<br>
+_container port(s) (TEUs)_: Ad Dammam (1,770,000), Jeddah (4,882,342), King Abdulla (2,813,920) (2021)<br>
 
 ## Military and Security
 

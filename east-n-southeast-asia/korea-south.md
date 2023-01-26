@@ -348,7 +348,7 @@ _election results_: <em>2022</em>: YOON Suk-yeol (PPP) 48.56%, LEE Jae-myung (DP
 **Legislative branch**<br>
 _description_: unicameral National Assembly or Kuk Hoe (300 seats statutory, current 295; 253 members directly elected in single-seat constituencies by simple majority vote and 47 directly elected in a single national constituency by proportional representation vote; members serve 4-year terms)<br>
 _elections_: last held on 15 April 2020 (next to be held on 10 April 2024)<br>
-_election results_: percent of vote by party - NA; seats by party - DP/Together Citizens Party 180, United Future Party (now PPP) 103, JP 6, ODP 3, PP 3, independent 5; composition as of April 2022 - men 240, women 55, percent of women 18.6%<br>
+_election results_: percent of vote by party/coalition - DPK/Platform Party 49.9%, United Future Party 41.5%, JP 1.7%; seats by party - DPK/Platform Party 180, United Future Party (now PPP) 103, JP 6, ODP 3, PP 3, independent 5; composition as of April 2022 - men 240, women 55, percent of women 18.6%<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme Court (consists of a chief justice and 13 justices); Constitutional Court (consists of a court head and 8 justices)<br>
@@ -481,8 +481,8 @@ _lowest 10%_: 6.8%<br>
 _highest 10%_: 48.5% (2015 est.)<br>
 
 **Budget**<br>
-_revenues_: 357.1 billion (2017 est.)<br>
-_expenditures_: 335.8 billion (2017 est.)<br>
+_revenues_: $357.1 billion (2017 est.)<br>
+_expenditures_: $335.8 billion (2017 est.)<br>
 
 **Budget surplus (+) or deficit (-)**<br>
 1.4% (of GDP) (2017 est.)<br>
@@ -683,7 +683,7 @@ _by type_: bulk carrier 78, container ship 91, general cargo 360, oil tanker 184
 
 **Ports and terminals**<br>
 _major seaport(s)_: Busan, Incheon, Gunsan, Kwangyang, Mokpo, Pohang, Ulsan, Yeosu<br>
-_container port(s) (TEUs)_: Busan (21,992,001), Incheon (3,091,955), Kwangyang (2,378,337) (2019)<br>
+_container port(s) (TEUs)_: Busan (22,706,130), Incheon (3,353,781), Kwangyang (2,122,903) (2021)<br>
 _LNG terminal(s) (import)_: Incheon, Kwangyang, Pyeongtaek, Samcheok, Tongyeong, Yeosu<br>
 
 **Transportation - note**<br>

@@ -498,8 +498,8 @@ _highest 10%_: 35.4% (2012 est.)<br>
 <strong>note:</strong> data are for urban households only<br>
 
 **Budget**<br>
-_revenues_: 33.43 billion (2017 est.)<br>
-_expenditures_: 38.08 billion (2017 est.)<br>
+_revenues_: $33.43 billion (2017 est.)<br>
+_expenditures_: $38.08 billion (2017 est.)<br>
 
 **Budget surplus (+) or deficit (-)**<br>
 -4.5% (of GDP) (2017 est.)<br>
@@ -704,7 +704,7 @@ _by type_: container ship 1, general cargo 7, oil tanker 27, other 110 (2021)<br
 
 **Ports and terminals**<br>
 _major seaport(s)_: Esmeraldas, Manta, Puerto Bolivar<br>
-_container port(s) (TEUs)_: Guayaquil (1,680,751) (2019)<br>
+_container port(s) (TEUs)_: Guayaquil (2,163,151) (2021)<br>
 _river port(s)_: Guayaquil (Guayas)<br>
 
 ## Military and Security

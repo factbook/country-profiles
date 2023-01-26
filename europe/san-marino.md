@@ -416,8 +416,8 @@ _lowest 10%_: NA<br>
 _highest 10%_: NA<br>
 
 **Budget**<br>
-_revenues_: 667.7 million (2011 est.)<br>
-_expenditures_: 715.3 million (2011 est.)<br>
+_revenues_: $667.7 million (2011 est.)<br>
+_expenditures_: $715.3 million (2011 est.)<br>
 
 **Budget surplus (+) or deficit (-)**<br>
 -2.9% (of GDP) (2011 est.)<br>

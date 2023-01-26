@@ -486,8 +486,8 @@ _lowest 10%_: 2.6%<br>
 _highest 10%_: 29.6% (2005)<br>
 
 **Budget**<br>
-_revenues_: 74.4 billion (2017 est.)<br>
-_expenditures_: 84.45 billion (2017 est.)<br>
+_revenues_: $74.4 billion (2017 est.)<br>
+_expenditures_: $84.45 billion (2017 est.)<br>
 
 **Budget surplus (+) or deficit (-)**<br>
 -2.3% (of GDP) (2017 est.)<br>

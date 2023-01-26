@@ -344,8 +344,8 @@ _lowest 10%_: NA<br>
 _highest 10%_: NA<br>
 
 **Budget**<br>
-_revenues_: 475.8 million (2008 est.)<br>
-_expenditures_: 452.3 million (2008 est.)<br>
+_revenues_: $475.8 million (2008 est.)<br>
+_expenditures_: $452.3 million (2008 est.)<br>
 
 **Budget surplus (+) or deficit (-)**<br>
 1.1% (of GDP) (2008 est.)<br>

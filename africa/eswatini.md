@@ -472,8 +472,8 @@ _lowest 10%_: 1.7%<br>
 _highest 10%_: 40.1% (2010 est.)<br>
 
 **Budget**<br>
-_revenues_: 1.263 billion (2017 est.)<br>
-_expenditures_: 1.639 billion (2017 est.)<br>
+_revenues_: $1.263 billion (2017 est.)<br>
+_expenditures_: $1.639 billion (2017 est.)<br>
 
 **Budget surplus (+) or deficit (-)**<br>
 -8.5% (of GDP) (2017 est.)<br>
@@ -653,7 +653,7 @@ _total_: 3,769 km (2019)<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Umbutfo Eswatini Defense Force (UEDF): Army (includes a small air wing) (2022)<br>
+Umbutfo Eswatini Defense Force (UEDF): Army (includes a small air wing); the Royal Eswatini Police Service (REPS) (2023)<br>
 
 **Military expenditures**<br>
 1.7% of GDP (2021 est.)<br>

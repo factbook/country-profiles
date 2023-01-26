@@ -485,8 +485,8 @@ _lowest 10%_: 2.6%<br>
 _highest 10%_: 31.7% (1998)<br>
 
 **Budget**<br>
-_revenues_: 5.657 billion (2017 est.)<br>
-_expenditures_: 6.714 billion (2017 est.)<br>
+_revenues_: $5.657 billion (2017 est.)<br>
+_expenditures_: $6.714 billion (2017 est.)<br>
 
 **Budget surplus (+) or deficit (-)**<br>
 -2.8% (of GDP) (2017 est.)<br>
@@ -705,7 +705,7 @@ the inventory for Turkmenistan's military is comprised largely of older Russian 
 18-30 years of age for compulsory male military service; 24-month conscript service obligation (30 months for the Navy); 20 years of age for voluntary service (including females); males may enroll in military schools from age 15 (2022)<br>
 
 **Military - note**<br>
-<p>as of 2022, Turkmenistan continued to pursue a nationalist and isolationist security policy and has declined to participate in post-Soviet military groupings such as the Collective Security Treaty Organization military alliance (CSTO) and the Shanghai Cooperation Organization (SCO); however, in September 2020, it participated in a Russian-led multinational military exercise held in southern Russia’s Astrakhan region alongside Russian, Chinese, Pakistani, Kazakh, Kyrgyz, Tajik, Uzbek, Mongolian, Syrian, Iranian, Egyptian, Belarusian, Turkish, Armenian, and Azerbaijani contingents</p> <p>as of 2022, Turkmenistan continued efforts to improve its naval capabilities on the Caspian Sea, including expanding ship building capabilities and adding larger vessels to the Navy’s inventory; in 2018, it opened its first naval shipyard and in August 2021, the Navy commissioned its largest warship, a corvette that was jointly constructed with Turkey</p><br>
+Turkmenistan has a policy of permanent neutrality and has declined to participate in post-Soviet military groupings such as the Collective Security Treaty Organization military alliance (CSTO) and the Shanghai Cooperation Organization (SCO); however, in September 2020, it participated in a Russian-led multinational military exercise held in southern Russia’s Astrakhan region alongside the forces of more than a dozen other countries; Turkmenistan joined NATO's Partnership for Peace program in 1994 and officials from Turkmenistan participate in a range of courses provided by NATO and NATO member states, but it does not offer any armed forces units to NATO-led operations<br><br>in recent years, Turkmenistan has made efforts to improve its naval capabilities on the Caspian Sea, including expanding ship building capabilities and adding larger vessels to the Navy’s inventory; in 2018, it opened its first naval shipyard and in August 2021, the Navy commissioned its largest warship, a corvette that was jointly constructed with Turkey (2023)<br>
 
 ## Transnational Issues
 

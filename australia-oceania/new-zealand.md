@@ -340,13 +340,13 @@ _residency requirement for naturalization_: 3 years<br>
 
 **Executive branch**<br>
 _chief of state_: King CHARLES III (since 8 September 2022); represented by Governor-General Dame Cindy KIRO (since 21 October 2021)<br>
-_head of government_: Prime Minister Jacinda ARDERN (since 26 October 2017); Deputy Prime Minister Grant ROBERTSON (since 2 November 2020)<br>
+_head of government_: Prime Minister Chris HIPKINS (since 25 January 2023); Deputy Prime Minister Carmel SEPULONI (since 25 January 2023)<br>note - on 19 January 2023, Prime Minister Jacinda ARDERN announced her resignation as prime minister effective not later than 7 February 2023; Chris HIPKINS elected unanimously by Labor Party caucus as party leader on 22 January 2023, sworn in on 25 January 2023<br>
 _cabinet_: Executive Council appointed by the governor-general on the recommendation of the prime minister<br>
 _elections/appointments_: the monarchy is hereditary; governor-general appointed by the monarch on the advice of the prime minister; following legislative elections, the leader of the majority party or majority coalition usually appointed prime minister by the governor-general; deputy prime minister appointed by the governor-general<br>
 
 **Legislative branch**<br>
 _description_: unicameral House of Representatives - commonly called Parliament (120 seats for 2020-23 term); 72 members directly elected in 65 single-seat constituencies and 7 Maori constituencies by simple majority vote and 48 directly elected by closed party-list proportional representation vote; members serve 3-year terms)<br>
-_elections_: last held on 17 October 2020 (next scheduled for 2023)<br>
+_elections_: last held on 17 October 2020 (next scheduled for 14 October 2023)<br>
 _election results_: percent of vote by party - Labor Party 49.1%, National Party 26.8%, ACT Party 8%, Green Party 6.3%, Maori Party 1%; seats by party - Labor Party 64, National Party 35, Green Party 10, ACT Party 10, Maori Party 1; composition - men 61, women 59, percent of women 49.2%<br>
 
 **Judicial branch**<br>
@@ -479,8 +479,8 @@ _lowest 10%_: NA<br>
 _highest 10%_: NA<br>
 
 **Budget**<br>
-_revenues_: 74.11 billion (2017 est.)<br>
-_expenditures_: 70.97 billion (2017 est.)<br>
+_revenues_: $74.11 billion (2017 est.)<br>
+_expenditures_: $70.97 billion (2017 est.)<br>
 
 **Budget surplus (+) or deficit (-)**<br>
 1.6% (of GDP) (2017 est.)<br>

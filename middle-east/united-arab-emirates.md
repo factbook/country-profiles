@@ -474,8 +474,8 @@ _lowest 10%_: NA<br>
 _highest 10%_: NA<br>
 
 **Budget**<br>
-_revenues_: 110.2 billion (2017 est.)<br>
-_expenditures_: 111.1 billion (2017 est.)<br>
+_revenues_: $110.2 billion (2017 est.)<br>
+_expenditures_: $111.1 billion (2017 est.)<br>
 <strong>note:</strong> the UAE federal budget does not account for emirate-level spending in Abu Dhabi and Dubai<br>
 
 **Budget surplus (+) or deficit (-)**<br>
@@ -669,7 +669,7 @@ _by type_: bulk carrier 1, container ship 3, general cargo 117, oil tanker 19, o
 
 **Ports and terminals**<br>
 _major seaport(s)_: Al Fujayrah, Mina' Jabal 'Ali (Dubai), Khor Fakkan (Khawr Fakkan) (Sharjah), Mubarraz Island (Abu Dhabi), Mina' Rashid (Dubai), Mina' Saqr (Ra's al Khaymah)<br>
-_container port(s) (TEUs)_: Dubai Port (14,111,000) (2019)<br>
+_container port(s) (TEUs)_: Dubai Port (13,742,000) (2021)<br>
 _LNG terminal(s) (export)_: Das Island<br>
 
 ## Military and Security

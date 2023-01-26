@@ -375,7 +375,7 @@ _consulate(s) general_: Boston, Chicago, Detroit, Houston, Miami, New York, Los 
 _consulate(s)_: Charlotte (NC), Cleveland (OH), Detroit (MI), Hattiesburg (MS), Honolulu (HI), New Orleans, Newark (NJ), Norfolk (VA), Pittsburgh (PA), Portland (OR), Seattle<br>
 
 **Diplomatic representation from the US**<br>
-_chief of mission_: Ambassador (vacant); Charge d'Affaires Thomas D. SMITHAM (since 4 January 2021); note - also accredited to San Marino<br>
+_chief of mission_: Ambassador (vacant); Charge d'Affaires Shawn CROWLEY (since July 2022); note - also accredited to San Marino<br>
 _embassy_: via Vittorio Veneto 121, 00187 Roma<br>
 _mailing address_: 9500 Rome Place, Washington DC&nbsp; 20521-9500<br>
 _telephone_: [39] 06-46741<br>
@@ -449,7 +449,7 @@ _exports of goods and services_: 31.4% (2017 est.)<br>
 _imports of goods and services_: -28.3% (2017 est.)<br>
 
 **Agricultural products**<br>
-milk, grapes, wheat, maize, tomatoes, apples, olives, sugar beet, oranges, rice<br>
+milk, grapes, wheat, maize, tomatoes, apples, olives, sugar beets, oranges, rice<br>
 
 **Industries**<br>
 tourism, machinery, iron and steel, chemicals, food processing, textiles, motor vehicles, clothing, footwear, ceramics<br>
@@ -486,8 +486,8 @@ _lowest 10%_: 2.3%<br>
 _highest 10%_: 26.8% (2000)<br>
 
 **Budget**<br>
-_revenues_: 903.3 billion (2017 est.)<br>
-_expenditures_: 948.1 billion (2017 est.)<br>
+_revenues_: $903.3 billion (2017 est.)<br>
+_expenditures_: $948.1 billion (2017 est.)<br>
 
 **Budget surplus (+) or deficit (-)**<br>
 -2.3% (of GDP) (2017 est.)<br>
@@ -690,7 +690,7 @@ _by type_: bulk carrier 36, container ship 7, general cargo 111, oil tanker 103,
 **Ports and terminals**<br>
 _major seaport(s)_: Augusta, Cagliari, Genoa, Livorno, Taranto, Trieste, Venice<br>
 _oil terminal(s)_: Melilli (Santa Panagia) oil terminal, Sarroch oil terminal<br>
-_container port(s) (TEUs)_: Genoa (2,621,472), Gioia Tauro (2,523,000) (2019)<br>
+_container port(s) (TEUs)_: Genoa (2,557,847), Gioia Tauro (3,146,553) (2021)<br>
 _LNG terminal(s) (import)_: Panigaglia (La Spezia), Adriatic (Porto Levante), Oristano (Sardinia), Ravenna, Toscana (Livorno)<br>
 
 **Transportation - note**<br>
@@ -738,9 +738,9 @@ Islamic State of Iraq and ash-Sham (ISIS)<br>
 <p>Italy's long coastline and developed economy entices tens of thousands of illegal immigrants from southeastern Europe and northern Africa</p> <p><em>Italy-Austria-Switzerland</em>: borders are shifting because glacier peaks that had served as a natural boundary are melting</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 21,441 (Nigeria), 17,706 (Afghanistan), 17,619 (Pakistan), 11,193 (Mali), 8,405 (Somalia), 6,324 (Gambia), 5,768 (Bangladesh), 5,463 (Iraq) (mid-year 2022); 167,925 (Ukraine) (as of 30 December 2022)<br>
+_refugees (country of origin)_: 21,441 (Nigeria), 17,706 (Afghanistan), 17,619 (Pakistan), 11,193 (Mali), 8,405 (Somalia), 6,324 (Gambia), 5,768 (Bangladesh), 5,463 (Iraq) (mid-year 2022); 167,925 (Ukraine) (as of 17 January 2023)<br>
 _stateless persons_: 3,000 (mid-year 2021)<br>
-<strong>note:</strong> 699,932 estimated refugee and migrant arrivals (January 2015-January 2023)<br>
+<strong>note:</strong> 700,074 estimated refugee and migrant arrivals (January 2015-January 2023)<br>
 
 **Illicit drugs**<br>
 important gateway for drug trafficking; organized crime groups allied with Colombian and Spanish groups trafficking cocaine to Europe<br>

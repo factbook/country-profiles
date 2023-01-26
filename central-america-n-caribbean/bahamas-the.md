@@ -434,8 +434,8 @@ _lowest 10%_: 1%<br>
 _highest 10%_: 22% (2007 est.)<br>
 
 **Budget**<br>
-_revenues_: 2.139 billion (2017 est.)<br>
-_expenditures_: 2.46 billion (2017 est.)<br>
+_revenues_: $2.139 billion (2017 est.)<br>
+_expenditures_: $2.46 billion (2017 est.)<br>
 
 **Budget surplus (+) or deficit (-)**<br>
 -2.6% (of GDP) (2017 est.)<br>
@@ -628,8 +628,8 @@ _by type_: bulk carrier 333, container ship 45, general cargo 64, oil tanker 224
 
 **Ports and terminals**<br>
 _major seaport(s)_: Freeport, Nassau, South Riding Point<br>
-_cruise port(s)_: Nassau<br>
-_container port(s) (TEUs)_: Freeport (1,396,568) (2019)<br>
+_cruise port(s)_: Freeport, Half Moon Cay, Nassau<br>
+_container port(s) (TEUs)_: Freeport (1,642,780) (2021)<br>
 
 ## Military and Security
 

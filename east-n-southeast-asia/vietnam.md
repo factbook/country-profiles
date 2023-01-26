@@ -494,8 +494,8 @@ _lowest 10%_: 2.7%<br>
 _highest 10%_: 26.8% (2014)<br>
 
 **Budget**<br>
-_revenues_: 54.59 billion (2017 est.)<br>
-_expenditures_: 69.37 billion (2017 est.)<br>
+_revenues_: $54.59 billion (2017 est.)<br>
+_expenditures_: $69.37 billion (2017 est.)<br>
 
 **Budget surplus (+) or deficit (-)**<br>
 -6.7% (of GDP) (2017 est.)<br>
@@ -698,7 +698,7 @@ _by type_: bulk carrier 116, container ship 41, general cargo 1,193, oil tanker 
 
 **Ports and terminals**<br>
 _major seaport(s)_: Cam Pha Port, Da Nang, Haiphong, Phu My, Quy Nhon<br>
-_container port(s) (TEUs)_: Saigon (7,220,377), Cai Mep (3,742,384), Haiphong (5,133,150) (2019)<br>
+_container port(s) (TEUs)_: Saigon (7,956,133), Cai Mep (5,385,289), Haiphong (5,695,839) (2021)<br>
 _river port(s)_: Ho Chi Minh (Mekong)<br>
 
 ## Military and Security
@@ -715,7 +715,7 @@ People's Army of Vietnam (PAVN; aka Vietnam People's Army, VPA): Ground Forces, 
 2.3% of GDP (2017 est.) (approximately $9.85 billion)<br>
 
 **Military and security service personnel strengths**<br>
-information is limited and varied; estimated 470,000 active duty troops (400,000 ground; 40,000 naval; 30,000 air); estimated 40,000 Border Defense Force and Coast Guard (2022)<br>
+information is limited and varied; estimated 450,000 active-duty troops (390,000 ground; 30,000 naval; 30,000 air); estimated 40,000 Border Defense Force and Coast Guard (2022)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the PAVN is armed largely with weapons and equipment from Russia and the former Soviet Union; since 2010, Russia has remained the main supplier of newer PAVN military equipment, although in recent years Vietnam has purchased arms from more than a dozen other countries including Belarus, Israel, South Korea, Ukraine, and the US; Vietnam has a limited defense industry (2021)<br>

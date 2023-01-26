@@ -455,7 +455,7 @@ _exports of goods and services_: 90.2% (2017 est.)<br>
 _imports of goods and services_: -82.4% (2017 est.)<br>
 
 **Agricultural products**<br>
-maize, wheat, milk, sunflower seed, barley, rapeseed, sugar beet, apples, pork, grapes<br>
+maize, wheat, milk, sunflower seed, barley, rapeseed, sugar beets, apples, pork, grapes<br>
 
 **Industries**<br>
 mining, metallurgy, construction materials, processed foods, textiles, chemicals (especially pharmaceuticals), motor vehicles<br>
@@ -492,12 +492,11 @@ _lowest 10%_: 3.3%<br>
 _highest 10%_: 22.4% (2015)<br>
 
 **Budget**<br>
-_revenues_: 61.98 billion (2017 est.)<br>
-_expenditures_: 64.7 billion (2017 est.)<br>
+_revenues_: $61.98 billion (2017 est.)<br>
+_expenditures_: $64.7 billion (2017 est.)<br>
 
 **Budget surplus (+) or deficit (-)**<br>
 -2% (of GDP) (2017 est.)<br>
-<strong>note:</strong> Hungary has been under the EU Excessive Deficit Procedure since it joined the EU in 2004; in March 2012, the EU elevated its Excessive Deficit Procedure against Hungary and proposed freezing 30% of the country's Cohesion Funds because 2011 deficit reductions were not achieved in a sustainable manner; in June 2012, the EU lifted the freeze, recognizing that steps had been taken to reduce the deficit; the Hungarian deficit increased above 3% both in 2013 and in 2014 due to sluggish growth and the government's fiscal tightening<br>
 
 **Public debt**<br>
 96.11% of GDP (2020 est.)<br>
@@ -601,10 +600,10 @@ _crude oil estimated reserves_: 12.1 million barrels (2021 est.)<br>
 82,110 bbl/day (2017 est.)<br>
 
 **Natural gas**<br>
-_production_: 1,685,020,000 cubic meters (2020 est.)<br>
-_consumption_: 10,545,459,000 cubic meters (2020 est.)<br>
-_exports_: 3,757,583,000 cubic meters (2020 est.)<br>
-_imports_: 11,677,990,000 cubic meters (2020 est.)<br>
+_production_: 1.685 billion cubic meters (2020 est.)<br>
+_consumption_: 10.545 billion cubic meters (2020 est.)<br>
+_exports_: 3.758 billion cubic meters (2020 est.)<br>
+_imports_: 11.678 billion cubic meters (2020 est.)<br>
 _proven reserves_: 3.738 billion cubic meters (2021 est.)<br>
 
 **Carbon dioxide emissions**<br>
@@ -710,8 +709,8 @@ the Hungarian Defense Forces (HDF) are a unified force (Joint Force Command) wit
 1% of GDP (2018) (approximately $2.4 billion)<br>
 
 **Military and security service personnel strengths**<br>
-approximately 21,000 active duty troops (16,000 Army; 5,000 Air Force) (2022)<br>
-<strong>note:</strong> in 2017, Hungary announced plans to increase the number of active soldiers to around 37,000, but did not give a timeline<br>
+approximately 21,000 active-duty troops (16,000 Army; 5,000 Air Force) (2022)<br>
+<strong>note:</strong> in 2017, Hungary announced plans to increase the number of active soldiers to around 37,000 but did not give a timeline<br>
 
 **Military equipment inventories and acquisitions**<br>
 the military's inventory consists largely of Soviet-era weapons, with a smaller mix of more modern European and US equipment; since 2010, Hungary has received limited quantities of equipment from several European countries and the US (2021)<br>
@@ -738,7 +737,7 @@ Islamic State of Iraq and ash-Sham (ISIS)<br>
 <p>bilateral government, legal, technical and economic working group negotiations continue in 2006 with Slovakia over Hungary's failure to complete its portion of the Gabcikovo-Nagymaros hydroelectric dam project along the Danube; as a member state that forms part of the EU's external border, Hungary has implemented the strict Schengen border rules</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 33,446 (Ukraine) (as of 10 January 2023)<br>
+_refugees (country of origin)_: 33,603 (Ukraine) (as of 17 January 2023)<br>
 _stateless persons_: 130 (mid-year 2021)<br>
 
 **Illicit drugs**<br>

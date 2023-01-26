@@ -88,7 +88,7 @@ _noun_: Gabonese (singular and plural)<br>
 _adjective_: Gabonese<br>
 
 **Ethnic groups**<br>
-Gabonese-born 80.1% (includes Fang 23.2%, Shira-Punu/Vili 18.9%, Nzabi-Duma 11.3%, Mbede-Teke 6.9%, Myene 5%, Kota-Kele 4.9%, Okande-Tsogo 2.1%, Pygmy .3%, other 7.5%), Cameroonian 4.6%, Malian 2.4%, Beninese 2.1%, acquired Gabonese nationality 1.6%, Togolese 1.6%, Senegalese 1.1%, Congolese (Brazzaville) 1%, other 5.5% (includes Congolese (Kinshasa), Equatorial Guinean, Nigerian) (2012 est.)<br>
+Gabonese-born 80.1% (includes Fang 23.2%, Shira-Punu/Vili 18.9%, Nzabi-Duma 11.3%, Mbede-Teke 6.9%, Myene 5%, Kota-Kele 4.9%, Okande-Tsogo 2.1%, Pygmy 0.3%, other 7.5%), Cameroonian 4.6%, Malian 2.4%, Beninese 2.1%, acquired Gabonese nationality 1.6%, Togolese 1.6%, Senegalese 1.1%, Congolese (Brazzaville) 1%, other 5.5% (includes Congolese (Kinshasa), Equatorial Guinean, Nigerian) (2012 est.)<br>
 
 **Languages**<br>
 French (official), Fang, Myene, Nzebi, Bapounou/Eschira, Bandjabi<br>
@@ -485,8 +485,8 @@ _lowest 10%_: 2.5%<br>
 _highest 10%_: 32.7% (2005)<br>
 
 **Budget**<br>
-_revenues_: 2.634 billion (2017 est.)<br>
-_expenditures_: 2.914 billion (2017 est.)<br>
+_revenues_: $2.634 billion (2017 est.)<br>
+_expenditures_: $2.914 billion (2017 est.)<br>
 
 **Budget surplus (+) or deficit (-)**<br>
 -1.9% (of GDP) (2017 est.)<br>

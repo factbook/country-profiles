@@ -482,8 +482,8 @@ _lowest 10%_: 3.3%<br>
 _highest 10%_: 28.8% (2014)<br>
 
 **Budget**<br>
-_revenues_: 8.663 billion (2017 est.)<br>
-_expenditures_: 8.275 billion (2017 est.)<br>
+_revenues_: $8.663 billion (2017 est.)<br>
+_expenditures_: $8.275 billion (2017 est.)<br>
 
 **Budget surplus (+) or deficit (-)**<br>
 1.8% (of GDP) (2017 est.)<br>
@@ -718,7 +718,7 @@ Islamic State of Iraq and ash-Sham (ISIS)<br>
 <p>hostilities in 1974 divided the island into two de facto autonomous entities, the internationally recognized Cypriot Government and a Turkish-Cypriot community (north Cyprus); the 1,000-strong UN Peacekeeping Force in Cyprus (UNFICYP) has served in Cyprus since 1964 and maintains the buffer zone between north and south; on 1 May 2004, Cyprus entered the EU still divided, with the EU's body of legislation and standards (acquis communitaire) suspended in the north; Turkey protests Cypriot Government creating hydrocarbon blocks and maritime boundary with Lebanon in March 2007</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 10,869 (Syria) (mid-year 2022); 15,158 (Ukraine) (as of 8 January 2023)<br>
+_refugees (country of origin)_: 10,869 (Syria) (mid-year 2022); 15,158 (Ukraine) (as of 17 January 2023)<br>
 _IDPs_: 242,000 (both Turkish and Greek Cypriots; many displaced since 1974) (2021)<br>
 _stateless persons_: 66 (mid-year 2021)<br>
 <strong>note:</strong> 47,836 estimated refugee and migrant arrivals (January 2015-November 2022)<br>

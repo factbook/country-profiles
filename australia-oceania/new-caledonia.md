@@ -401,8 +401,8 @@ _lowest 10%_: NA<br>
 _highest 10%_: NA<br>
 
 **Budget**<br>
-_revenues_: 1.995 billion (2015 est.)<br>
-_expenditures_: 1.993 billion (2015 est.)<br>
+_revenues_: $1.995 billion (2015 est.)<br>
+_expenditures_: $1.993 billion (2015 est.)<br>
 
 **Budget surplus (+) or deficit (-)**<br>
 0% (of GDP) (2015 est.)<br>

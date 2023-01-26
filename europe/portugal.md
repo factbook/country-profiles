@@ -356,7 +356,7 @@ Democratic Alliance (2022 electoral alliance in the Azores, includes PSD, CDS-PP
 ADB (nonregional member), AfDB (nonregional member), Australia Group, BIS, CD, CE, CERN, CPLP, EAPC, EBRD, ECB, EIB, EMU, ESA, EU, FAO, FATF, IADB, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IEA, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), LAIA (observer), MIGA, MINUSMA, NATO, NEA, NSG, OAS (observer), OECD, OPCW, OSCE, Pacific Alliance (observer), Paris Club (associate), PCA, Schengen Convention, SELEC (observer), UN, UNCTAD, UNESCO, UNHCR, UNIDO, Union Latina, UNWTO, UPU, Wassenaar Arrangement, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO, ZC<br>
 
 **Diplomatic representation in the US**<br>
-_chief of mission_: Ambassador Francisco Antonio Duarte LOPES (since 7 June 2022)<br>
+_chief of mission_: Ambassador Francisco Antonio DUARTE LOPES (since 7 June 2022)<br>
 _chancery_: 2012 Massachusetts Avenue NW, Washington, DC 20036<br>
 _telephone_: [1] (202) 350-5400; [1] (202) 332-3007<br>
 _FAX_: [1] (202) 462-3726; [1] (202) 387-2768<br>
@@ -475,8 +475,8 @@ _lowest 10%_: 2.6%<br>
 _highest 10%_: 25.9% (2015 est.)<br>
 
 **Budget**<br>
-_revenues_: 93.55 billion (2017 est.)<br>
-_expenditures_: 100 billion (2017 est.)<br>
+_revenues_: $93.55 billion (2017 est.)<br>
+_expenditures_: $100 billion (2017 est.)<br>
 
 **Budget surplus (+) or deficit (-)**<br>
 -3% (of GDP) (2017 est.)<br>
@@ -719,7 +719,7 @@ Islamic State of Iraq and ash-Sham (ISIS)<br>
 <p><em>Portugal-Spain</em>: Portugal does not recognize Spanish sovereignty over the territory of Olivenza based on a difference of interpretation of the 1815 Congress of Vienna and the 1801 Treaty of Badajoz</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 56,904 (Ukraine) (as of 10 January 2023)<br>
+_refugees (country of origin)_: 57,109 (Ukraine) (as of 17 January 2023)<br>
 _stateless persons_: 45 (mid-year 2021)<br>
 
 **Illicit drugs**<br>

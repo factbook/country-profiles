@@ -456,7 +456,7 @@ _exports of goods and services_: 47.3% (2017 est.)<br>
 _imports of goods and services_: -39.7% (2017 est.)<br>
 
 **Agricultural products**<br>
-milk, sugar beets, wheat, barley, potatoes, pork, maize, rye, rapeseeds, triticale<br>
+milk, sugar beets, wheat, barley, potatoes, pork, maize, rye, rapeseed, triticale<br>
 
 **Industries**<br>
 among the world's largest and most technologically advanced producers of iron, steel, coal, cement, chemicals, machinery, vehicles, machine tools, electronics, automobiles, food and beverages, shipbuilding, textiles<br>
@@ -493,8 +493,8 @@ _lowest 10%_: 3.6%<br>
 _highest 10%_: 24% (2000)<br>
 
 **Budget**<br>
-_revenues_: 1.665 trillion (2017 est.)<br>
-_expenditures_: 1.619 trillion (2017 est.)<br>
+_revenues_: $1.665 trillion (2017 est.)<br>
+_expenditures_: $1.619 trillion (2017 est.)<br>
 
 **Budget surplus (+) or deficit (-)**<br>
 1.3% (of GDP) (2017 est.)<br>
@@ -698,7 +698,7 @@ _by type_: container ship 77, general cargo 85, oil tanker 36, other 401 (2021)<
 **Ports and terminals**<br>
 _major seaport(s)_: <br><em>Baltic Sea:</em> Kiel, Rostock<br><em>North Sea:</em> Bremerhaven, Brunsbuttel, Emden, Hamburg, Wilhelmshaven<br>
 _oil terminal(s)_: Brunsbuttel Canal terminals<br>
-_container port(s) (TEUs)_: Bremen/Bremerhaven (4,856,900), Hamburg (9,274,215) (2019)<br>
+_container port(s) (TEUs)_: Bremen/Bremerhaven (5,018,900), Hamburg (8,715,000) (2021)<br>
 _LNG terminal(s) (import)_: Hamburg; Lubmin (FSRU); Wilhelmshaven (FSRU)<br>
 _river port(s)_: Bremen (Weser); Bremerhaven (Geeste); Duisburg, Karlsruhe, Neuss-Dusseldorf (Rhine); Lubeck (Wakenitz); Brunsbuttel, Hamburg (Elbe)<br>
 

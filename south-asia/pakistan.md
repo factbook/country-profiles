@@ -517,8 +517,8 @@ _lowest 10%_: 4%<br>
 _highest 10%_: 26.1% (FY2013)<br>
 
 **Budget**<br>
-_revenues_: 46.81 billion (2017 est.)<br>
-_expenditures_: 64.49 billion (2017 est.)<br>
+_revenues_: $46.81 billion (2017 est.)<br>
+_expenditures_: $64.49 billion (2017 est.)<br>
 <strong>note:</strong> data are for fiscal years<br>
 
 **Budget surplus (+) or deficit (-)**<br>

@@ -345,8 +345,8 @@ _lowest 10%_: NA<br>
 _highest 10%_: NA<br>
 
 **Budget**<br>
-_revenues_: 67.1 million (FY09/10)<br>
-_expenditures_: 75.3 million (FY09/10)<br>
+_revenues_: $67.1 million (FY09/10)<br>
+_expenditures_: $75.3 million (FY09/10)<br>
 
 **Budget surplus (+) or deficit (-)**<br>
 -4% (of GDP) (FY09/10)<br>

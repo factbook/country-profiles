@@ -376,8 +376,8 @@ _lowest 10%_: NA<br>
 _highest 10%_: NA<br>
 
 **Budget**<br>
-_revenues_: 247.3 million (2017 est.)<br>
-_expenditures_: 224.3 million (2017 est.)<br>
+_revenues_: $247.3 million (2017 est.)<br>
+_expenditures_: $224.3 million (2017 est.)<br>
 
 **Fiscal year**<br>
 calendar year<br>

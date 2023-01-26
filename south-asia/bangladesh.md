@@ -507,8 +507,8 @@ _lowest 10%_: 4%<br>
 _highest 10%_: 27% (2010 est.)<br>
 
 **Budget**<br>
-_revenues_: 25.1 billion (2017 est.)<br>
-_expenditures_: 33.5 billion (2017 est.)<br>
+_revenues_: $25.1 billion (2017 est.)<br>
+_expenditures_: $33.5 billion (2017 est.)<br>
 
 **Budget surplus (+) or deficit (-)**<br>
 -3.2% (of GDP) (2017 est.)<br>
@@ -634,16 +634,16 @@ _Total energy consumption per capita 2019_: 9.917 million Btu/person (2019 est.)
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 1,390,048 (2020 est.)<br>
-_subscriptions per 100 inhabitants_: 1 (2020 est.)<br>
+_total subscriptions_: 587,476 (2021 est.)<br>
+_subscriptions per 100 inhabitants_: 0 (2021 est.) less than 1<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 176,279,465 (2020 est.)<br>
-_subscriptions per 100 inhabitants_: 107 (2020 est.)<br>
+_total subscriptions_: 181,021,227 (2021 est.)<br>
+_subscriptions per 100 inhabitants_: 107 (2021 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: Bangladesh&rsquo;s economic resurgence over the last decade took a battering in 2020 and 2021 as a result of the Covid-19 pandemic; the country had been on track to move off the United Nation&rsquo;s Least Developed Countries list by 2026, however the crisis may have pushed that back a few years; the telecommunications sector experienced a set of challenges, with mobile data usage exploding at the same time as many consumers were being forced to curb their spending in other areas; the demand on data grew so large and so rapidly that Bangladesh came close to running out of bandwidth; at the start of 2020, Bangladesh was consuming around 900Gb/s on average, well below the 2,642GB/s capacity of its submarine cables; this ballooned to over 2,300Gb/s during the pandemic; Bangladesh was looking forward to adding 7,200Gb/s capacity when the SEA-ME-WE-6 submarine cable goes into service in mid-2024, but the sudden upsurge in downloads is forcing state-run company Bangladesh Submarine Cable Company Limited (BSCCL) to scramble to find alternatives before the country&rsquo;s internet supply is maxed out; the increased demand during the Covid-19 crisis also put pressure on the country&rsquo;s existing mobile networks, already under strain as a result of strong growth in the mobile broadband market coupled with significant untapped potential for mobile services in general across the country; this led to premium prices being paid at auction for spectrum in the 1800MHz and 2100MHz bands, most of which will be used to enhance and expand LTE services; a 5G spectrum auction had been anticipated for 2020, but low interest from the MNOs in going down that path when there are still so many areas waiting for LTE access means that 5G&nbsp; will likely be deferred until 2023 (2021)<br>
-_domestic_: fixed-line teledensity remains less than 1 per 100 persons; mobile-cellular telephone subscribership has been increasing rapidly and now exceeds 107 per 100 persons; mobile subscriber growth is anticipated over the next five years to 2023 (2020)<br>
+_domestic_: fixed-line teledensity remains less than 1 per 100 persons; mobile-cellular telephone subscribership has been increasing rapidly and now exceeds 107 per 100 persons; mobile subscriber growth is anticipated over the next five years to 2023 (2021)<br>
 _international_: country code - 880; landing points for the SeaMeWe-4 and SeaMeWe-5 fiber-optic submarine cable system that provides links to Europe, the Middle East, and Asia; satellite earth stations - 6; international radiotelephone communications and landline service to neighboring countries (2019)<br>
 <strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress toward 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>
 
@@ -713,7 +713,7 @@ _by type_: bulk carrier 48, container ship 6, general cargo 140, oil tanker 144,
 
 **Ports and terminals**<br>
 _major seaport(s)_: Chattogram (Chittagong)<br>
-_container port(s) (TEUs)_: Chattogram (Chittagong) (3,088,187) (2019)<br>
+_container port(s) (TEUs)_: Chattogram (Chittagong) (3,214,548) (2021)<br>
 _river port(s)_: Mongla Port (Sela River)<br>
 
 ## Military and Security

@@ -390,8 +390,8 @@ _lowest 10%_: NA<br>
 _highest 10%_: NA<br>
 
 **Budget**<br>
-_revenues_: 86.9 million (2010)<br>
-_expenditures_: 77.9 million (2010)<br>
+_revenues_: $86.9 million (2010)<br>
+_expenditures_: $77.9 million (2010)<br>
 
 **Budget surplus (+) or deficit (-)**<br>
 3% (of GDP) (2010 est.)<br>

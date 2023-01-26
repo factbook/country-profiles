@@ -77,7 +77,7 @@ an area known as the Randstad, anchored by the cities of Amsterdam, Rotterdam, t
 <p>flooding</p> <p><strong>volcanism:</strong> Mount Scenery (887 m), located on the island of Saba in the Caribbean, last erupted in 1640; Round Hill (601 m), a dormant volcano also known as The Quill, is located on the island of St. Eustatius in the Caribbean; these islands are at the northern end of the volcanic island arc of the Lesser Antilles that extends south to Grenada</p><br>
 
 **Geography - note**<br>
-located at mouths of three major European rivers (Rhine, Maas or Meuse, and Scheldt); about a quarter of the country lies below sea level and only about half of the land exceeds one meter above sea level<br>
+located at mouths of three major European rivers (Rhine (Rijn), Meuse (Maas), and Scheldt (Schelde)); about a quarter of the country lies below sea level and only about half of the land exceeds one meter above sea level<br>
 
 ## People and Society
 
@@ -485,8 +485,8 @@ _lowest 10%_: 2.3%<br>
 _highest 10%_: 24.9% (2014 est.)<br>
 
 **Budget**<br>
-_revenues_: 361.4 billion (2017 est.)<br>
-_expenditures_: 352.4 billion (2017 est.)<br>
+_revenues_: $361.4 billion (2017 est.)<br>
+_expenditures_: $352.4 billion (2017 est.)<br>
 
 **Budget surplus (+) or deficit (-)**<br>
 1.1% (of GDP) (2017 est.)<br>
@@ -592,10 +592,10 @@ _crude oil estimated reserves_: 137.7 million barrels (2021 est.)<br>
 2.148 million bbl/day (2017 est.)<br>
 
 **Natural gas**<br>
-_production_: 32,857,597,000 cubic meters (2019 est.)<br>
-_consumption_: 44,752,918,000 cubic meters (2019 est.)<br>
-_exports_: 42,827,461,000 cubic meters (2019 est.)<br>
-_imports_: 55,767,276,000 cubic meters (2019 est.)<br>
+_production_: 32.858 billion cubic meters (2019 est.)<br>
+_consumption_: 44.753 billion cubic meters (2019 est.)<br>
+_exports_: 42.827 billion cubic meters (2019 est.)<br>
+_imports_: 55.767 billion cubic meters (2019 est.)<br>
 _proven reserves_: 132.608 billion cubic meters (2021 est.)<br>
 
 **Carbon dioxide emissions**<br>
@@ -685,7 +685,7 @@ _by type_: bulk carrier 10, container ship 40, general cargo 559, oil tanker 26,
 
 **Ports and terminals**<br>
 _major seaport(s)_: IJmuiden, Vlissingen<br>
-_container port(s) (TEUs)_: Rotterdam (14,810,804) (2019)<br>
+_container port(s) (TEUs)_: Rotterdam (15,300,000) (2021)<br>
 _LNG terminal(s) (import)_: Gate (Rotterdam)<br>
 _river port(s)_: Amsterdam (Nordsee Kanaal); Moerdijk (Hollands Diep River); Rotterdam (Rhine River); Terneuzen (Western Scheldt River)<br>
 

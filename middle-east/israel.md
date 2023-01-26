@@ -341,7 +341,7 @@ _residency requirement for naturalization_: 3 out of the 5 years preceding the a
 
 **Executive branch**<br>
 _chief of state_: President Isaac HERZOG (since 7 July 2021)<br>
-_head of government_: Benjamin NETANYAHU (since 29 December 2022)<br>
+_head of government_: Prime Minister Benjamin NETANYAHU (since 29 December 2022)<br>
 _cabinet_: Cabinet selected by prime minister and approved by the Knesset<br>
 _elections/appointments_: president indirectly elected by the Knesset for a single 7-year term; election last held on 2 June 2021 (next to be held in June 2028); following legislative elections, the president, in consultation with party leaders, tasks a Knesset member (usually the member of the largest party) with forming a new government<br>
 _election results_: <em>2021:</em> Issac HERZOG elected president; Knesset vote - Issac HERZOG (independent) 87, Miriam PERETZ (independent) 26, invalid/blank 7<br>
@@ -484,8 +484,8 @@ _lowest 10%_: 1.7%<br>
 _highest 10%_: 31.3% (2010)<br>
 
 **Budget**<br>
-_revenues_: 93.11 billion (2017 est.)<br>
-_expenditures_: 100.2 billion (2017 est.)<br>
+_revenues_: $93.11 billion (2017 est.)<br>
+_expenditures_: $100.2 billion (2017 est.)<br>
 
 **Budget surplus (+) or deficit (-)**<br>
 -2% (of GDP) (2017 est.)<br>

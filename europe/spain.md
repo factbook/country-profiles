@@ -494,8 +494,8 @@ _lowest 10%_: 2.5%<br>
 _highest 10%_: 24% (2011)<br>
 
 **Budget**<br>
-_revenues_: 498.1 billion (2017 est.)<br>
-_expenditures_: 539 billion (2017 est.)<br>
+_revenues_: $498.1 billion (2017 est.)<br>
+_expenditures_: $539 billion (2017 est.)<br>
 
 **Budget surplus (+) or deficit (-)**<br>
 -3.1% (of GDP) (2017 est.)<br>
@@ -695,14 +695,14 @@ _by type_: bulk carrier 1, general cargo 36, oil tanker 24, other 417 (2021)<br>
 
 **Ports and terminals**<br>
 _major seaport(s)_: <br><em>Atlantic Ocean:</em> Bilbao, Huelva; Las Palmas, Santa Cruz de Tenerife (in the Canary Islands)<br><em>Mediterranean Sea:</em> Algeciras, Barcelona, Cartagena, Tarragona, Valencia<br>
-_container port(s) (TEUs)_: Algeciras (5,125,385), Barcelona (3,324,650), Valencia (5,439,827) (2019)<br>
+_container port(s) (TEUs)_: Algeciras (4,799,497), Barcelona (3,531,762), Valencia (5,604,478) (2021)<br>
 _LNG terminal(s) (import)_: Barcelona, Bilbao, Cartagena, El Musel, Huelva, Mugardos, Sagunto<br>
 _river port(s)_: Seville (Guadalquivir River)<br>
 
 ## Military and Security
 
 **Military and security forces**<br>
-Spanish Armed Forces: Army (Ejercito de Tierra), Spanish Navy (Armada Espanola, AE; includes Marine Corps), Spanish Air Force (Ejercito del Aire Espanola, EdA); Civil Guard (Guardia Civil) (2022)<br>
+Spanish Armed Forces: Army (Ejército de Tierra), Spanish Navy (Armada Espanola; includes Marine Corps), Air and Space Force (Ejército del Aire y del Espacio); Civil Guard (Guardia Civil) (2022)<br>
 <strong>note:</strong> the Civil Guard is a military force with police duties (including coast guard) under both the Ministry of Defense and the Ministry of the Interior; it also responds to the needs of the Ministry of Finance<br>
 
 **Military expenditures**<br>
@@ -713,7 +713,7 @@ Spanish Armed Forces: Army (Ejercito de Tierra), Spanish Navy (Armada Espanola, 
 0.9% of GDP (2018) (approximately $16.7 billion)<br>
 
 **Military and security service personnel strengths**<br>
-approximately 120,000 active-duty troops (75,000 Army; 25,000 Navy, including about 5,000 marines; 20,000 Air Force); 80,000 Guardia Civil (2022)<br>
+approximately 120,000 active-duty troops (72,000 Army; 25,000 Navy, including about 5,000 marines; 23,000 Air and Space Force); 80,000 Guardia Civil (2022)<br>
 <strong>note: </strong> a 2007 law established a maximum strength of 130,000 military personnel<br>
 
 **Military equipment inventories and acquisitions**<br>
@@ -742,9 +742,9 @@ Islamic State of Iraq and ash-Sham (ISIS); al-Qa’ida<br>
 <p><em>Spain-Andorra</em>: none identified</p> <p><em>Spain-France</em>: none identified</p> <p><em>Spain-Gibraltar (UK)</em>: in 2002, Gibraltar residents voted overwhelmingly by referendum to reject any "shared sovereignty" arrangement; the Government of Gibraltar insists on equal participation in talks between the UK and Spain; Spain does not recognize British sovereignty beyond the original fortified perimeter of the city and disapproves of UK plans to grant Gibraltar greater autonomy; after voters in the UK chose to leave the EU in a June 2016 referendum, Spain again proposed shared sovereignty of Gibraltar; UK officials rejected Spain’s joint sovereignty proposal</p> <p><em>Spain-Morocco</em>: Morocco protests Spain's control over the coastal enclaves of Ceuta, Melilla, and the islands of Penon de Velez de la Gomera, Penon de Alhucemas, and Islas Chafarinas, and surrounding waters; both countries claim Isla Perejil (Leila Island), which remains unoccupied but was the site of a  military standoff in 2002; Morocco serves as the primary embarkation area for illegal migration into mainland Spain from North Africa</p> <p><em>Spain-Portugal</em>: Portugal does not recognize Spanish sovereignty over the territory of Olivenza based on a difference of interpretation of the 1815 Congress of Vienna and the 1801 Treaty of Badajoz</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 14,994 (Syria) (mid-year 2022); 418,200 (Venezuela) (economic and political crisis; includes Venezuelans who have claimed asylum, are recognized as refugees, or have received alternative legal stay) (2021); 161,012(Ukraine) (as of 31 December 2022)<br>
+_refugees (country of origin)_: 14,994 (Syria) (mid-year 2022); 418,200 (Venezuela) (economic and political crisis; includes Venezuelans who have claimed asylum, are recognized as refugees, or have received alternative legal stay) (2021); 161,012 (Ukraine) (as of 17 January 2023)<br>
 _stateless persons_: 692 (mid-year 2021)<br>
-<strong>note: </strong>279,680 estimated refugee and migrant arrivals, including Canary Islands (January 2015-January 2023)<br>
+<strong>note: </strong>279,926 estimated refugee and migrant arrivals, including Canary Islands (January 2015-January 2023)<br>
 
 **Illicit drugs**<br>
 primary transit point in Europe for cocaine from South America and for hashish from Morocco; cocaine is shipped in raw or liquid form with mixed cargo to avoid detection; traffickers ship methamphetamine via express mail; increasing indoor cannabis production; illegal labs cutting, mixing, and reconstituting cocaine, heroin, and methamphetamine labs; synthetic drugs, including ketamine and MDMA (ecstasy) transit from Spain to the US<br>

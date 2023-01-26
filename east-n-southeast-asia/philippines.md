@@ -497,8 +497,8 @@ _lowest 10%_: 3.2%<br>
 _highest 10%_: 29.5% (2015 est.)<br>
 
 **Budget**<br>
-_revenues_: 49.07 billion (2017 est.)<br>
-_expenditures_: 56.02 billion (2017 est.)<br>
+_revenues_: $49.07 billion (2017 est.)<br>
+_expenditures_: $56.02 billion (2017 est.)<br>
 
 **Budget surplus (+) or deficit (-)**<br>
 -2.2% (of GDP) (2017 est.)<br>
@@ -703,7 +703,7 @@ _by type_: bulk carrier 62, container ship 44, general cargo 716, oil tanker 205
 
 **Ports and terminals**<br>
 _major seaport(s)_: Batangas, Cagayan de Oro, Cebu, Davao, Liman, Manila<br>
-_container port(s) (TEUs)_: Manila (5,315,500) (2019)<br>
+_container port(s) (TEUs)_: Manila (4,976,014) (2021)<br>
 
 ## Military and Security
 

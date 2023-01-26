@@ -506,8 +506,8 @@ _lowest 10%_: 1.2%<br>
 _highest 10%_: 39.6% (2015 est.)<br>
 
 **Budget**<br>
-_revenues_: 83.35 billion (2017 est.)<br>
-_expenditures_: 91.73 billion (2017 est.)<br>
+_revenues_: $83.35 billion (2017 est.)<br>
+_expenditures_: $91.73 billion (2017 est.)<br>
 
 **Budget surplus (+) or deficit (-)**<br>
 -2.7% (of GDP) (2017 est.)<br>
@@ -715,7 +715,7 @@ _by type_: general cargo 23, oil tanker 7, other 92 (2021)<br>
 **Ports and terminals**<br>
 _major seaport(s)_: Atlantic Ocean (Caribbean) - Cartagena, Santa Marta, Turbo<br>Pacific Ocean - Buenaventura<br>
 _oil terminal(s)_: Covenas offshore terminal<br>
-_container port(s) (TEUs)_: Buenaventura (1,121,267), Cartagena (2,995,031) (2019)<br>
+_container port(s) (TEUs)_: Buenaventura (1,082,746), Cartagena (3,343,810) (2021)<br>
 _river port(s)_: Barranquilla (Rio Magdalena)<br>
 _dry bulk cargo port(s)_: Puerto Bolivar (coal)<br>
 Pacific Ocean - Buenaventura<br>

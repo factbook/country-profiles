@@ -311,7 +311,7 @@ _industrial_: 4 billion cubic meters (2017 est.)<br>
 _agricultural_: 27.93 billion cubic meters (2017 est.)<br>
 
 **Total renewable water resources**<br>
-876.24 billion cubic meters (2017 est.)<br>
+876.2 billion cubic meters (2017 est.)<br>
 
 ## Government
 
@@ -503,8 +503,8 @@ _lowest 10%_: 1.8%<br>
 _highest 10%_: 31% (2017 est.)<br>
 
 **Budget**<br>
-_revenues_: 120.6 billion (2017 est.)<br>
-_expenditures_: 158.6 billion (2017 est.)<br>
+_revenues_: $120.6 billion (2017 est.)<br>
+_expenditures_: $158.6 billion (2017 est.)<br>
 
 **Budget surplus (+) or deficit (-)**<br>
 -6% (of GDP) (2017 est.)<br>
@@ -630,16 +630,16 @@ _Total energy consumption per capita 2019_: 79.083 million Btu/person (2019 est.
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 7,356,165 (2020 est.)<br>
-_subscriptions per 100 inhabitants_: 16 (2020 est.)<br>
+_total subscriptions_: 6,903,068 (2021 est.)<br>
+_subscriptions per 100 inhabitants_: 15 (2021 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 54,763,900 (2020 est.)<br>
-_subscriptions per 100 inhabitants_: 121 (2020 est.)<br>
+_total subscriptions_: 59,065,827 (2021 est.)<br>
+_subscriptions per 100 inhabitants_: 130 (2021 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: Argentina&rsquo;s ongoing problem with hyperinflation continues to distort the telecom market&rsquo;s performance, which shows strong growth in revenue but only modest gains in subscriber numbers each year; the fixed broadband segment has penetration levels only slightly higher than the fixed-line teledensity; nearly a quarter of the country&rsquo;s broadband connections are via DSL, although fiber is starting claim an increasing share of that market as networks expand across most of the main cities; mobile broadband continues to be the preferred platform for internet access, supported by high mobile penetration levels and nationwide LTE coverage; the first 5G service was launched in February 2021 using refarmed LTE frequencies; the anticipated 5G spectrum auctions should drive even stronger uptake in mobile broadband services; while the various fixed, mobile, and cable operators push to expand and enhance their services, the government is also making an active contribution towards boosting broadband connectivity around the country; its national connectivity plan &lsquo;Plan Conectar&rsquo;, launched in September 2020, provides funding for a range of programs to increase coverage; in August 2021, the telecom regulator announced the release funding to help operators accelerate the rollout of their broadband infrastructure and services (2021)<br>
-_domestic_: roughly 16 per 100 fixed-line and 121 per 100 mobile-cellular; microwave radio relay, fiber-optic cable, and a domestic satellite system with 40 earth stations serve the trunk network (2020)<br>
+_domestic_: roughly 15 per 100 fixed-line and 130 per 100 mobile-cellular; microwave radio relay, fiber-optic cable, and a domestic satellite system with 40 earth stations serve the trunk network (2021)<br>
 _international_: country code - 54; landing points for the UNISUR, Bicentenario,&nbsp;Atlantis-2, SAm-1, and&nbsp;SAC, Tannat, Malbec and ARBR&nbsp;submarine cable systems that provide links to Europe, Africa, South and Central America, and US; satellite earth stations - 112 (2019)<br>
 <strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress toward 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>
 
@@ -650,8 +650,8 @@ government owns a TV station and radio network; more than two dozen TV stations 
 .ar<br>
 
 **Internet users**<br>
-_total_: 39,024,016 (2020 est.)<br>
-_percent of population_: 86% (2020 est.)<br>
+_total_: 39,853,610 (2021 est.)<br>
+_percent of population_: 87% (2021 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 9,571,562 (2020 est.)<br>
@@ -710,7 +710,7 @@ _by type_: container ship 1,bulk carrier 1 general cargo 8, oil tanker 33, other
 
 **Ports and terminals**<br>
 _major seaport(s)_: Bahia Blanca, Buenos Aires, La Plata, Punta Colorada, Ushuaia<br>
-_container port(s) (TEUs)_: Buenos Aires (1,485,328) (2019)<br>
+_container port(s) (TEUs)_: Buenos Aires (1,446,452) (2021)<br>
 _LNG terminal(s) (import)_: Bahia Blanca<br>
 _river port(s)_: Arroyo Seco, Rosario, San Lorenzo-San Martin (Parana)<br>
 

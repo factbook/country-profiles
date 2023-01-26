@@ -391,8 +391,8 @@ _lowest 10%_: NA<br>
 _highest 10%_: NA<br>
 
 **Budget**<br>
-_revenues_: 874.5 million (2017 est.)<br>
-_expenditures_: 766.6 million (2017 est.)<br>
+_revenues_: $874.5 million (2017 est.)<br>
+_expenditures_: $766.6 million (2017 est.)<br>
 
 **Budget surplus (+) or deficit (-)**<br>
 4.8% (of GDP) (2017 est.)<br>
@@ -566,6 +566,7 @@ _by type_: bulk carrier 32, container ship 1, general cargo 1, oil tanker 23, ot
 
 **Ports and terminals**<br>
 _major seaport(s)_: Cayman Brac, George Town<br>
+_cruise port(s)_: George Town, Grand Cayman<br>
 
 ## Military and Security
 

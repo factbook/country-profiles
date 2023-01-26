@@ -508,8 +508,8 @@ _lowest 10%_: 4%<br>
 _highest 10%_: 26.6% (2008)<br>
 
 **Budget**<br>
-_revenues_: 42.32 billion (2017 est.)<br>
-_expenditures_: 62.61 billion (2017 est.)<br>
+_revenues_: $42.32 billion (2017 est.)<br>
+_expenditures_: $62.61 billion (2017 est.)<br>
 
 **Budget surplus (+) or deficit (-)**<br>
 -8.6% (of GDP) (2017 est.)<br>
@@ -716,7 +716,7 @@ _by type_: bulk carrier 14, container ship 8, general cargo 27, oil tanker 40, o
 **Ports and terminals**<br>
 _major seaport(s)_: Mediterranean Sea - Alexandria, Damietta, El Dekheila, Port Said<br>
 _oil terminal(s)_: Ain Sukhna terminal, Sidi Kerir terminal<br>
-_container port(s) (TEUs)_: Port Said (East) (3,816,084) (2019)<br>
+_container port(s) (TEUs)_: Port Said (East) (4,764,583) (2021)<br>
 _LNG terminal(s) (export)_: Damietta, Idku (Abu Qir Bay), Sumed<br>
 Gulf of Suez - Suez<br>
 

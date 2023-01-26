@@ -439,8 +439,8 @@ _lowest 10%_: NA<br>
 _highest 10%_: NA<br>
 
 **Budget**<br>
-_revenues_: 213.8 million (FY12/13 est.)<br>
-_expenditures_: 192.1 million (FY12/13 est.)<br>
+_revenues_: $213.8 million (FY12/13 est.)<br>
+_expenditures_: $192.1 million (FY12/13 est.)<br>
 
 **Budget surplus (+) or deficit (-)**<br>
 6.6% (of GDP) (FY12/13 est.)<br>

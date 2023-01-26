@@ -290,7 +290,7 @@ _industrial_: 3.062 billion cubic meters (2017 est.)<br>
 _agricultural_: 9.27 billion cubic meters (2017 est.)<br>
 
 **Total renewable water resources**<br>
-34.675 billion cubic meters (2017 est.)<br>
+34.68 billion cubic meters (2017 est.)<br>
 
 ## Government
 
@@ -483,8 +483,8 @@ _lowest 10%_: 3.4%<br>
 _highest 10%_: 27.4% (2008)<br>
 
 **Budget**<br>
-_revenues_: 9.556 billion (2017 est.)<br>
-_expenditures_: 10.22 billion (2017 est.)<br>
+_revenues_: $9.556 billion (2017 est.)<br>
+_expenditures_: $10.22 billion (2017 est.)<br>
 
 **Budget surplus (+) or deficit (-)**<br>
 -1.6% (of GDP) (2017 est.)<br>
@@ -608,17 +608,17 @@ _Total energy consumption per capita 2019_: 64.416 million Btu/person (2019 est.
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 1,652,688 (2020 est.)<br>
-_subscriptions per 100 inhabitants_: 16 (2020 est.)<br>
+_total subscriptions_: 1,644,300 (2021 est.)<br>
+_subscriptions per 100 inhabitants_: 16 (2021 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 10,344,300 (2020 est.)<br>
-_subscriptions per 100 inhabitants_: 102 (2020 est.)<br>
+_total subscriptions_: 10,817,071 (2021 est.)<br>
+_subscriptions per 100 inhabitants_: 105 (2021 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: in spite of the telecom sector being one of the major contributors to Azerbaijan&rsquo;s non-oil GDP, overall development, growth, and investment in the sector has been held back by years of political and civil unrest coupled with endemic corruption; mobile penetration rates reached 100% as far back as 2011 but have largely stagnated since then; the Mobile Network Operators (MNOs) are slowly extending the reach of their LTE networks around the country, and this increased coverage (along with access to faster data-based services) is expected to produce a moderate resurgence for both mobile and mobile broadband over the next few years as customers migrate from 3G to 4G. 5G services are still some ways off, as the demand for high-speed data and fast broadband can easily be met by existing capacity on LTE networks; fixed-line teledensity continues to drop down each year as customers consolidate their telecommunications services around the mobile platform; the rate of decline is comparatively slower than other countries, since Azerbaijan has a relatively high proportion of (87%) of fixed-line broadband customers still on DSL; fiber is gradually being rolled out in urban areas, and this makes up the bulk of the growth being seen in the overall fixed broadband market; DSL&rsquo;s predominance, however, will serve to keep Azerbaijan&rsquo;s average access speeds in the sub-10Mbps range for the foreseeable future (2020)<br>
-_domestic_: teledensity of some 16 fixed-lines per 100 persons; mobile-cellular teledensity of 102 telephones per 100 persons; satellite service connects Baku to a modern switch in its exclave of Naxcivan (Nakhchivan) (2020)<br>
-_international_: country code - 994; the TAE fiber-optic link transits Azerbaijan providing international connectivity to neighboring countries; the old Soviet system of cable and microwave is still serviceable; satellite earth stations - 2 (2019)<br>
+_domestic_: 16 fixed-lines subsciptions per 100 persons; mobile-cellular subscriptions of 105 telephones per 100 persons (2021)<br>
+_international_: country code - 994; Azerbaijan’s largest mobile network operator (MNO)  launched trial 5G mobile services in Baku on 27 December 2022 (2023)<br>
 <strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress toward 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>
 
 **Broadcast media**<br>
@@ -705,7 +705,7 @@ the military's inventory is comprised mostly of Russian and Soviet-era weapons s
 <strong>note:</strong> as of 2018, women made up an estimated 3% of the active duty military<br>
 
 **Military - note**<br>
-since November 2020, Russia has deployed about 2,000 peacekeeping troops to the area in and around Nagorno-Karabakh as part of a cease-fire agreement between Armenia and Azerbaijan; fighting erupted between the two countries over the Nagorno-Karabakh region in September of 2020; Nagorno-Karabakh lies within Azerbaijan but has been under control of ethnic Armenian forces (the "Nagorno-Karabakh Defense Army") backed by Armenia since a separatist war there ended in 1994; six weeks of fighting resulted in about 6,500 deaths and ended after Armenia ceded swaths of Nagorno-Karabakh territory; tensions remained high in 2022, and both sides have accused the other of provocations since the fighting ended; Armenia has accused Azerbaijani forces of a series of border intrusions and of seizing pockets of territory<br>
+since November 2020, Russia has deployed about 2,000 peacekeeping troops to the area in and around Nagorno-Karabakh as part of a cease-fire agreement between Armenia and Azerbaijan; fighting erupted between the two countries over the Nagorno-Karabakh region in September of 2020; Nagorno-Karabakh lies within Azerbaijan but has been under control of ethnic Armenian forces (the "Nagorno-Karabakh Defense Army") backed by Armenia since a separatist war there ended in 1994; six weeks of fighting resulted in about 6,500 deaths and ended after Armenia ceded swaths of Nagorno-Karabakh territory; tensions remained high in 2022, and both sides have accused the other of provocations since the fighting ended; Armenia has accused Azerbaijani forces of a series of border intrusions and of seizing pockets of territory (2023)<br>
 
 ## Terrorism
 
