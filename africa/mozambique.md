@@ -424,7 +424,7 @@ _selected World Heritage Site locales_: Island of Mozambique<br>
 ## Economy
 
 **Economic overview**<br>
-<p>At independence in 1975, Mozambique was one of the world's poorest countries. Socialist policies, economic mismanagement, and a brutal civil war from 1977 to 1992 further impoverished the country. In 1987, the government embarked on a series of macroeconomic reforms designed to stabilize the economy. These steps, combined with donor assistance and with political stability since the multi-party elections in 1994, propelled the country’s GDP, in purchasing power parity terms, from $4 billion in 1993 to about $37 billion in 2017. Fiscal reforms, including the introduction of a value-added tax and reform of the customs service, have improved the government's revenue collection abilities. In spite of these gains, about half the population remains below the poverty line and subsistence agriculture continues to employ the vast majority of the country's work force.</p> <p> </p> <p>Mozambique's once substantial foreign debt was reduced through forgiveness and rescheduling under the IMF's Heavily Indebted Poor Countries (HIPC) and Enhanced HIPC initiatives. However, in 2016, information surfaced revealing that the Mozambican Government was responsible for over $2 billion in government-backed loans secured between 2012-14 by state-owned defense and security companies without parliamentary approval or national budget inclusion; this prompted the IMF and international donors to halt direct budget support to the Government of Mozambique. An international audit was performed on Mozambique’s debt in 2016-17, but debt restructuring and resumption of donor support have yet to occur.</p> <p> </p> <p>Mozambique grew at an average annual rate of 6%-8% in the decade leading up to 2015, one of Africa's strongest performances, but the sizable external debt burden, donor withdrawal, elevated inflation, and currency depreciation contributed to slower growth in 2016-17.</p> <p> </p> <p>Two major International consortiums, led by American companies ExxonMobil and Anadarko, are seeking approval to develop massive natural gas deposits off the coast of Cabo Delgado province, in what has the potential to become the largest infrastructure project in Africa. . The government predicts sales of liquefied natural gas from these projects could generate several billion dollars in revenues annually sometime after 2022.</p><br>
+low-income East African economy; mostly rural labor force; natural resource rich; strong South African ties; Islamist terrorism in north endangers newly discovered natural gas; currently in court over massive (possibly unauthorized) debt<br>
 
 **Real GDP (purchasing power parity)**<br>
 $39.351 billion (2021 est.)<br>
@@ -730,7 +730,7 @@ Armed Defense Forces of Mozambique (Forcas Armadas de Defesa de Mocambique, FADM
 information limited and varied; approximately 12,000 personnel (11,000 Army and about 1,000 Air Force and Navy) (2022)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the FADM's inventory consists primarily of Soviet-era equipment, although since 2010 it has received limited quantities of more modern equipment from a variety of countries, mostly as aid/donations (2021)<br>
+the FADM's inventory consists primarily of Soviet-era equipment, although in recent years it has received limited quantities of more modern equipment from a variety of countries, mostly as aid/donations (2022)<br>
 
 **Military service age and obligation**<br>
 registration for military service is mandatory for all men and women at 18 years of age; 18-35 years of age for selective compulsory military service; 18 years of age for voluntary service for men and women; 2-year service obligation (2021)<br>
@@ -750,8 +750,8 @@ Islamic State of Iraq and ash-Sham - Mozambique (ISIS-M)<br>
 <p><em>Mozambique-Eswatini</em>: none identified</p> <p><em>Mozambique-Malawi</em>:  the two countries have held exercises to reaffirm boundaries a number of times</p> <p><em>Mozambique-South Africa</em>: South Africa has placed military units to assist police operations along the border of Lesotho, Zimbabwe, and Mozambique to control smuggling, poaching, and illegal migration</p> <p><em>Mozambique-Tanzania</em>: none identified</p> <p><em>Mozambique-Zambia</em>: none identified</p> <p><em>Mozambique-Zimbabwe</em>: none identified</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 11,479 (Democratic Republic of Congo) (refugees and asylum seekers), 8,589 (Burundi) (refugees and asylum seekers) (2022)<br>
-_IDPs_: 946,508 (violence between the government and an opposition group, violence associated with extremists groups in 2018, political violence 2019) (2022)<br>
+_refugees (country of origin)_: 11,479 (Democratic Republic of Congo) (refugees and asylum seekers), 8,968 (Burundi) (refugees and asylum seekers) (2022)<br>
+_IDPs_: 1.03 million (north Mozambique, violence between the government and an opposition group, violence associated with extremists groups in 2018, political violence 2019) (2022)<br>
 
 **Illicit drugs**<br>
 used by transnational organized crime networks from West and East Africa and South Asia as a transit point for drug trafficking and international money laundering; heroin from Southwest Asia, cocaine from South America, precursor chemicals and controlled pharmaceuticals from India, and methamphetamine from Nigeria transit destined for Southern Africa, Northern Africa, Europe, Canada, and the United States; cannabis is cultivated in Mozambique<br>

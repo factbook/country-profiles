@@ -325,7 +325,7 @@ _daylight saving time_: +1 hr, begins last Sunday in March; ends last Sunday in 
 _etymology_: the name translates as "beneath Gorica"; the meaning of Gorica is "hillock"; the reference is to the small hill named Gorica that the city is built around<br>
 
 **Administrative divisions**<br>
-24 municipalities (opstine, singular - opstina); Andrijevica, Bar, Berane, Bijelo Polje, Budva, Cetinje, Danilovgrad, Gusinje, Herceg Novi, Kolasin, Kotor, Mojkovac, Niksic, Petnijica, Plav, Pljevlja, Pluzine, Podgorica, Rozaje, Savnik, Tivat, Tuzi, Ulcinj, Zabljak<br>
+25 municipalities (opstine, singular - opstina); Andrijevica, Bar, Berane, Bijelo Polje, Budva, Cetinje, Danilovgrad, Gusinje, Herceg Novi, Kolasin, Kotor, Mojkovac, Niksic, Petnjica, Plav, Pljevlja, Pluzine, Podgorica, Rozaje, Savnik, Tivat, Tuzi, Ulcinj, Zabljak, Zeta<br>
 
 **Independence**<br>
 3 June 2006 (from the State Union of Serbia and Montenegro); notable earlier dates: 13 March 1852 (Principality of Montenegro established); 13 July 1878 (Congress of Berlin recognizes Montenegrin independence); 28 August 1910 (Kingdom of Montenegro established)<br>
@@ -410,7 +410,7 @@ _selected World Heritage Site locales_: Natural and Culturo-Historical Region of
 ## Economy
 
 **Economic overview**<br>
-<p>Montenegro's economy is transitioning to a market system. Around 90% of Montenegrin state-owned companies have been privatized, including 100% of banking, telecommunications, and oil distribution. Tourism, which accounts for more than 20% of Montenegro’s GDP, brings in three times as many visitors as Montenegro’s total population every year. Several new luxury tourism complexes are in various stages of development along the coast, and a number are being offered in connection with nearby boating and yachting facilities. In addition to tourism, energy and agriculture are considered two distinct pillars of the economy. Only 20% of Montenegro’s hydropower potential is utilized. Montenegro plans to become a net energy exporter, and the construction of an underwater cable to Italy, which will be completed by the end of 2018, will help meet its goal.</p> <p> </p> <p>Montenegro uses the euro as its domestic currency, though it is not an official member of the euro zone. In January 2007, Montenegro joined the World Bank and IMF, and in December 2011, the WTO. Montenegro began negotiations to join the EU in 2012, having met the conditions set down by the European Council, which called on Montenegro to take steps to fight corruption and organized crime.</p> <p> </p> <p>The government recognizes the need to remove impediments in order to remain competitive and open the economy to foreign investors. Net foreign direct investment in 2017 reached $848 million and investment per capita is one of the highest in Europe, due to a low corporate tax rate. The biggest foreign investors in Montenegro in 2017 were Norway, Russia, Italy, Azerbaijan and Hungary.</p> <p> </p> <p>Montenegro is currently planning major overhauls of its road and rail networks, and possible expansions of its air transportation system. In 2014, the Government of Montenegro selected two Chinese companies to construct a 41 km-long section of the country’s highway system, which will become part of China’s Belt and Road Initiative. Cheaper borrowing costs have stimulated Montenegro’s growing debt, which currently sits at 65.9% of GDP, with a forecast, absent fiscal consolidation, to increase to 80% once the repayment to China’s Ex/Im Bank of a €800 million highway loan begins in 2019. Montenegro first instituted a value-added tax (VAT) in April 2003, and introduced differentiated VAT rates of 17% and 7% (for tourism) in January 2006. The Montenegrin Government increased the non-tourism Value Added Tax (VAT) rate to 21% as of January 2018, with the goal of reducing its public debt.</p><br>
+upper middle-income Balkan economy; unsanctioned euro user; controversial religious property ownership law; persistent corruption; major infrastructure investments and high expenditures; growing offshore banking destination<br>
 
 **Real GDP (purchasing power parity)**<br>
 $12.757 billion (2021 est.)<br>
@@ -701,7 +701,7 @@ the Armed Forces of the Republic of Montenegro is a joint force with land, air, 
 approximately 2,000 active duty troops (2022)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the military's inventory is small and consists mostly of Soviet-era equipment inherited from the former Yugoslavia military, with a limited mix of other imported systems; since 2010, it has received small quantities of equipment from Austria, Turkey, and the US (2021)<br>
+the military's inventory is small and consists mostly of Soviet-era equipment inherited from the former Yugoslavia military, with a limited mix of other imported systems from such countries as Austria, Turkey, and the US&nbsp; (2022)<br>
 
 **Military service age and obligation**<br>
 18 is the legal minimum age for voluntary military service; conscription abolished in 2006 (2021)<br>
@@ -718,9 +718,9 @@ Montenegro became a member of NATO in 2017; as of 2022, Greece and Italy provide
 <p><em>Montenegro-Albania</em>: none identified</p> <p><em>Montenegro-Bosnia and Herzegovina</em>: the two countries signed a border agreement in August 2015; sovereignty of the disputed Sutorina territory was given to Montenegro</p> <p><em>Montenegro-Croatia</em>: the two countries in 2002 reached a temporary agreement designating the Prevlaka Peninsula as part of Croatia, in October 2020, a Montenegrin official resurrected the dormant dispute over the Prevlaka Peninsula by stating that Montenegro had a good chance of winning it through international arbitration</p> <p><em>Montenegro-Kosovo</em>: a 2015 border agreement was ratified by Montenegro in 2015 and by Kosovo in 2018, but the actual demarcation has not been completed</p> <p><em>Montenegro-Serbia</em>: The former republic boundary – when the two countries were one and called the Federal Republic of Yugoslavia – serves as the boundary until a line is formally delimited and demarcated</p> <p> </p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 32,880 (Ukraine) (as of 17 January 2023)<br>
+_refugees (country of origin)_: 33,098 (Ukraine) (as of 23 January 2023)<br>
 _stateless persons_: 458 (mid-year 2021)<br>
-<strong>note:</strong> 29,324 estimated refugee and migrant arrivals (January 2015-January 2023)<br>
+<strong>note:</strong> 29,305 estimated refugee and migrant arrivals (January 2015-January 2023)<br>
 
 **Illicit drugs**<br>
 <p>drug trafficking groups are major players in the procurement and transportation of large quantities of cocaine  destined for  European markets</p><br>

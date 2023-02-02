@@ -387,7 +387,7 @@ _selected World Heritage Site locales_: Denmark: Mounds, Runic Stones, and Churc
 ## Economy
 
 **Economic overview**<br>
-<p>This thoroughly modern market economy features advanced industry with world-leading firms in pharmaceuticals, maritime shipping, and renewable energy, and a high-tech agricultural sector. Danes enjoy a high standard of living, and the Danish economy is characterized by extensive government welfare measures and an equitable distribution of income. An aging population will be a long-term issue.</p> <p> </p> <p>Denmark’s small open economy is highly dependent on foreign trade, and the government strongly supports trade liberalization. Denmark is a net exporter of food, oil, and gas and enjoys a comfortable balance of payments surplus, but depends on imports of raw materials for the manufacturing sector.</p> <p> </p> <p>Denmark is a member of the EU but not the eurozone. Despite previously meeting the criteria to join the European Economic and Monetary Union, Denmark has negotiated an opt-out with the EU and is not required to adopt the euro.</p> <p> </p> <p>Denmark is experiencing a modest economic expansion. The economy grew by 2.0% in 2016 and 2.1% in 2017. The expansion is expected to decline slightly in 2018. Unemployment stood at 5.5% in 2017, based on the national labor survey. The labor market was tight in 2017, with corporations experiencing some difficulty finding appropriately-skilled workers to fill billets. The Danish Government offers extensive programs to train unemployed persons to work in sectors that need qualified workers.</p> <p> </p> <p>Denmark maintained a healthy budget surplus for many years up to 2008, but the global financial crisis swung the budget balance into deficit. Since 2014 the balance has shifted between surplus and deficit. In 2017 there was a surplus of 1.0%. The government projects a lower deficit in 2018 and 2019 of 0.7%, and public debt (EMU debt) as a share of GDP is expected to decline to 35.6% in 2018 and 34.8% in 2019. The Danish Government plans to address increasing municipal, public housing and integration spending in 2018.</p><br>
+longstanding EU leader; global environmental regulatory innovator; diversified trade-based economy, dominated by its services sector; increased government spending but retaining budget surpluses; increasing taxes and innovating emissions tax incentives<br>
 
 **Real GDP (purchasing power parity)**<br>
 $339.472 billion (2021 est.)<br>
@@ -719,6 +719,6 @@ Islamic State of Iraq and ash-Sham (ISIS); Islamic Revolutionary Guard Corps/Qod
 <p>Iceland, the UK, and Ireland dispute Denmark's claim that the Faroe Islands' continental shelf extends beyond 200 nm; sovereignty dispute with Canada over Hans Island in the Kennedy Channel between Ellesmere Island and Greenland; Denmark (Greenland) and Norway have made submissions to the Commission on the Limits of the Continental Shelf (CLCS) and Russia is collecting additional data to augment its 2001 CLCS submission</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 19,424 (Syria), 5,885 (Eritrea) (mid-year 2022); 39,395 (Ukraine) (as of 15 January 2023)<br>
+_refugees (country of origin)_: 19,424 (Syria), 5,885 (Eritrea) (mid-year 2022); 39,592 (Ukraine) (as of 22 January 2023)<br>
 _stateless persons_: 11,608 (mid-year 2021)<br>
 

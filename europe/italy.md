@@ -402,7 +402,7 @@ _selected World Heritage Site locales_: Historic Center of Rome (c); Archaeologi
 ## Economy
 
 **Economic overview**<br>
-<p>Italy’s economy comprises a developed industrial north, dominated by private companies, and a less-developed, highly subsidized, agricultural south, with a legacy of unemployment and underdevelopment. The Italian economy is driven in large part by the manufacture of high-quality consumer goods produced by small and medium-sized enterprises, many of them family-owned. Italy also has a sizable underground economy, which by some estimates accounts for as much as 17% of GDP. These activities are most common within the agriculture, construction, and service sectors.</p> <p> </p> <p>Italy is the third-largest economy in the euro zone, but its exceptionally high public debt and structural impediments to growth have rendered it vulnerable to scrutiny by financial markets. Public debt has increased steadily since 2007, reaching 131% of GDP in 2017. Investor concerns about Italy and the broader euro-zone crisis eased in 2013, bringing down Italy's borrowing costs on sovereign government debt from euro-era records. The government still faces pressure from investors and European partners to sustain its efforts to address Italy's longstanding structural economic problems, including labor market inefficiencies, a sluggish judicial system, and a weak banking sector. Italy’s economy returned to modest growth in late 2014 for the first time since 2011. In 2015-16, Italy’s economy grew at about 1% each year, and in 2017 growth accelerated to 1.5% of GDP. In 2017, overall unemployment was 11.4%, but youth unemployment remained high at 37.1%. GDP growth is projected to slow slightly in 2018.</p><br>
+core EU economy; strong services, manufacturing, and tourism sectors; hard hit by COVID-19 disruptions but starting to recover; large EU exporter but data skews due to inflated port entry valuation; corruption somewhat stymies foreign direct investment<br>
 
 **Real GDP (purchasing power parity)**<br>
 $2.478 trillion (2021 est.)<br>
@@ -713,7 +713,7 @@ Italian Armed Forces: Army (Esercito Italiano, EI), Navy (Marina Militare Italia
 approximately 170,000 active personnel (100,000 Army; 30,000 Navy; 40,000 Air Force); approximately 108,000 Carabinieri (2022)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the military's inventory includes a mix of domestically-produced, jointly-produced, and imported weapons systems, mostly from Europe and the US; the US has been the leading supplier of weapons to Italy since 2010; the Italian defense industry is capable of producing equipment across all the military domains with particular strengths in naval vessels and aircraft; it also participates in joint development and production of advanced weapons systems with other European countries and the US (2022)<br>
+the military's inventory includes a mix of domestically manufactured, imported, and jointly produced weapons systems, mostly from Europe and the US; the Italian defense industry is capable of producing equipment across all the military domains with particular strengths in naval vessels and aircraft; it also participates in joint development and production of advanced weapons systems with other European countries and the US (2022)<br>
 
 **Military service age and obligation**<br>
 17-25 years of age for voluntary military service for men and women (some variations on age depending on the military branch); voluntary service is a minimum of 12 months with the option to extend in the Armed Forces or compete for positions in the Military Corps of the Italian Red Cross, the State Police, the Carabinieri, the Guardia di Finanza, the Penitentiary Police, or the National Fire Brigade; recruits can also volunteer for 4 years military service; conscription abolished 2004 (2022)<br>
@@ -738,7 +738,7 @@ Islamic State of Iraq and ash-Sham (ISIS)<br>
 <p>Italy's long coastline and developed economy entices tens of thousands of illegal immigrants from southeastern Europe and northern Africa</p> <p><em>Italy-Austria-Switzerland</em>: borders are shifting because glacier peaks that had served as a natural boundary are melting</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 21,441 (Nigeria), 17,706 (Afghanistan), 17,619 (Pakistan), 11,193 (Mali), 8,405 (Somalia), 6,324 (Gambia), 5,768 (Bangladesh), 5,463 (Iraq) (mid-year 2022); 167,925 (Ukraine) (as of 17 January 2023)<br>
+_refugees (country of origin)_: 21,441 (Nigeria), 17,706 (Afghanistan), 17,619 (Pakistan), 11,193 (Mali), 8,405 (Somalia), 6,324 (Gambia), 5,768 (Bangladesh), 5,463 (Iraq) (mid-year 2022); 169,306 (Ukraine) (as of 20 January 2023)<br>
 _stateless persons_: 3,000 (mid-year 2021)<br>
 <strong>note:</strong> 700,074 estimated refugee and migrant arrivals (January 2015-January 2023)<br>
 

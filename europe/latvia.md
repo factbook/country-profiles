@@ -288,7 +288,7 @@ _industrial_: 25.2 million cubic meters (2017 est.)<br>
 _agricultural_: 61.5 million cubic meters (2017 est.)<br>
 
 **Total renewable water resources**<br>
-34.94 billion cubic meters (2017 est.)<br>
+34.9 billion cubic meters (2017 est.)<br>
 
 ## Government
 
@@ -394,7 +394,7 @@ _selected World Heritage Site locales_: Historic Center of Riga; Struve Geodetic
 ## Economy
 
 **Economic overview**<br>
-<p>Latvia is a small, open economy with exports contributing more than half of GDP. Due to its geographical location, transit services are highly-developed, along with timber and wood-processing, agriculture and food products, and manufacturing of machinery and electronics industries. Corruption continues to be an impediment to attracting foreign direct investment and Latvia's low birth rate and decreasing population are major challenges to its long-term economic vitality.</p> <p> </p> <p>Latvia's economy experienced GDP growth of more than 10% per year during 2006-07, but entered a severe recession in 2008 as a result of an unsustainable current account deficit and large debt exposure amid the slowing world economy. Triggered by the collapse of the second largest bank, GDP plunged by more than 14% in 2009 and, despite strong growth since 2011, the economy took until 2017 return to pre-crisis levels in real terms. Strong investment and consumption, the latter stoked by rising wages, helped the economy grow by more than 4% in 2017, while inflation rose to 3%. Continued gains in competitiveness and investment will be key to maintaining economic growth, especially in light of unfavorable demographic trends, including the emigration of skilled workers, and one of the highest levels of income inequality in the EU.</p> <p> </p> <p>In the wake of the 2008-09 crisis, the IMF, EU, and other international donors provided substantial financial assistance to Latvia as part of an agreement to defend the currency's peg to the euro in exchange for the government's commitment to stringent austerity measures. The IMF/EU program successfully concluded in December 2011, although, the austerity measures imposed large social costs. The majority of companies, banks, and real estate have been privatized, although the state still holds sizable stakes in a few large enterprises, including 80% ownership of the Latvian national airline. Latvia officially joined the World Trade Organization in February 1999 and the EU in May 2004. Latvia also joined the euro zone in 2014 and the OECD in 2016.</p><br>
+high-income, EU-member Baltic economy; export-driven; major bribery and money-laundering scandals suggest widespread financial corruption; strong but gradual post COVID-19 recovery; regional tension with Belarus; highly developed transit services<br>
 
 **Real GDP (purchasing power parity)**<br>
 $60.457 billion (2021 est.)<br>
@@ -699,7 +699,7 @@ National Armed Forces (Nacionalie Brunotie Speki): Land Forces (Latvijas Sauszem
 approximately 7,500 active duty troops (6,500 Land Forces; 500 Naval Force/Coast Guard; 500 Air Force; note - some Land Forces are considered joint forces); 8,200 National Guard (2022)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the Latvian military's inventory is limited and consists of a mixture of Soviet-era and more modern--mostly second-hand--European and US equipment; since 2010, it has received limited amounts of equipment from several European countries, Israel, and the US (2021)<br>
+the Latvian military's inventory is limited and consists of a mixture of Soviet-era and more modern--mostly secondhand--European and US equipment (2022)<br>
 
 **Military service age and obligation**<br>
 18 years of age for voluntary male and female military service; no conscription (abolished 2007) (2022)<br>
@@ -717,7 +717,7 @@ Latvia became a member of NATO in 2004 <br><br>since 2017, Latvia has hosted a C
 <p><em>Latvia-Belarus</em>: Belarus and Latvia signed joint demarcation map in September 2008</p> <p><em>Latvia-Estonia</em>: demarcation reportedly completed in 1998</p> <p><em>Latvia-Lithuania</em>: boundary demarcation was completed by the end of 1998; the Latvian parliament has not ratified its 1998 maritime boundary treaty with Lithuania, primarily due to concerns over oil exploration rights</p> <p><em>Latvia-Russia</em>: Russia demands better Latvian treatment of ethnic Russians in Latvia; in March 2007, Latvia and Russia signed a border treaty, which includes Latvia withdrawing claims to a district now in Russia that was part of Latvia before WWII; the permanent demarcation of the boundary between Latvia and Russia was completed and came into force in April 2018; as a member state that forms part of the EU's external border, Latvia has implemented the strict Schengen border rules with Russia</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 35,212 (Ukraine) (as of 16 January 2023)<br>
+_refugees (country of origin)_: 35,338 (Ukraine) (as of 23 January 2023)<br>
 _stateless persons_: 209,168 (mid-year 2021); note - individuals who were Latvian citizens prior to the 1940 Soviet occupation and their descendants were recognized as Latvian citizens when the country's independence was restored in 1991; citizens of the former Soviet Union residing in Latvia who have neither Latvian nor other citizenship are considered non-citizens (officially there is no statelessness in Latvia) and are entitled to non-citizen passports; children born after Latvian independence to stateless parents are entitled to Latvian citizenship upon their parents' request; non-citizens cannot vote or hold certain government jobs and are exempt from military service but can travel visa-free in the EU under the Schengen accord like Latvian citizens; non-citizens can obtain naturalization if they have been permanent residents of Latvia for at least five years, pass tests in Latvian language and history, and know the words of the Latvian national anthem<br>
 
 **Illicit drugs**<br>

@@ -297,7 +297,7 @@ _industrial_: 740 million cubic meters (2017 est.)<br>
 _agricultural_: 4.519 billion cubic meters (2017 est.)<br>
 
 **Total renewable water resources**<br>
-38.12 billion cubic meters (2017 est.)<br>
+38.1 billion cubic meters (2017 est.)<br>
 
 ## Government
 
@@ -404,7 +404,7 @@ _selected World Heritage Site locales_: Old Havana (c); Trinidad and the Valley 
 ## Economy
 
 **Economic overview**<br>
-<p>The government continues to balance the need for loosening its socialist economic system against a desire for firm political control. In April 2011, the government held the first Cuban Communist Party Congress in almost 13 years, during which leaders approved a plan for wide-ranging economic changes. Since then, the government has slowly and incrementally implemented limited economic reforms, including allowing Cubans to buy electronic appliances and cell phones, stay in hotels, and buy and sell used cars. The government has cut state sector jobs as part of the reform process, and it has opened up some retail services to "self-employment," leading to the rise of so-called "cuentapropistas" or entrepreneurs. More than 500,000 Cuban workers are currently registered as self-employed.</p> <p>The Cuban regime has updated its economic model to include permitting the private ownership and sale of real estate and new vehicles, allowing private farmers to sell agricultural goods directly to hotels, allowing the creation of non-agricultural cooperatives, adopting a new foreign investment law, and launching a "Special Development Zone" around the Mariel port.</p> <p>Since 2016, Cuba has attributed slowed economic growth in part to problems with petroleum product deliveries from Venezuela. Since late 2000, Venezuela provided petroleum products to Cuba on preferential terms, supplying at times nearly 100,000 barrels per day. Cuba paid for the oil, in part, with the services of Cuban personnel in Venezuela, including some 30,000 medical professionals.</p><br>
+still largely state-run planned economy, although privatization increasing under new constitution; widespread protests due to lack of basic necessities and electricity; massive foreign investment increases recently; known tobacco exporter; unique oil-for-doctors relationship with Venezuela; widespread corruption<br>
 
 **Real GDP (purchasing power parity)**<br>
 $137 billion (2017 est.)<br>

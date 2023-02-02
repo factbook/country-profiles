@@ -393,7 +393,7 @@ _selected World Heritage Site locales_: Royal Domain of Drottningholm (c); Lapon
 ## Economy
 
 **Economic overview**<br>
-<p>Sweden’s small, open, and competitive economy has been thriving and Sweden has achieved an enviable standard of living with its combination of free-market capitalism and extensive welfare benefits. Sweden remains outside the euro zone largely out of concern that joining the European Economic and Monetary Union would diminish the country’s sovereignty over its welfare system.</p> <p> </p> <p>Timber, hydropower, and iron ore constitute the resource base of a manufacturing economy that relies heavily on foreign trade. Exports, including engines and other machines, motor vehicles, and telecommunications equipment, account for more than 44% of GDP. Sweden enjoys a current account surplus of about 5% of GDP, which is one of the highest margins in Europe.</p> <p> </p> <p>GDP grew an estimated 3.3% in 2016 and 2017 driven largely by investment in the construction sector. Swedish economists expect economic growth to ease slightly in the coming years as this investment subsides. Global economic growth boosted exports of Swedish manufactures further, helping drive domestic economic growth in 2017. The Central Bank is keeping an eye on deflationary pressures and bank observers expect it to maintain an expansionary monetary policy in 2018. Swedish prices and wages have grown only slightly over the past few years, helping to support the country’s competitiveness.</p> <p> </p> <p>In the short and medium term, Sweden’s economic challenges include providing affordable housing and successfully integrating migrants into the labor market.</p><br>
+small, open, competitive, and thriving economy that remains outside of the euro zone; has achieved an enviable standard of living, with its combination of free-market capitalism and extensive welfare benefits<br>
 
 **Real GDP (purchasing power parity)**<br>
 $558.427 billion (2021 est.)<br>
@@ -691,18 +691,18 @@ Sweden operates four PC 3 or 4 class medium icebreakers in the Baltic Sea<br>not
 Swedish Armed Forces (Forsvarsmakten): Army, Navy, Air Force, Home Guard (2022)<br>
 
 **Military expenditures**<br>
-1.3% of GDP (2021 est.)<br>
+1.5% of GDP (2022 est.)<br>
+1.3% of GDP (2021)<br>
 1.2% of GDP (2020)<br>
-1.1% of GDP (2019) (approximately $6.78 billion)<br>
-1% of GDP (2018) (approximately $6.26 billion)<br>
-1% of GDP (2017) (approximately $6.04 billion)<br>
+1.1% of GDP (2019)<br>
+1% of GDP (2018)<br>
 
 **Military and security service personnel strengths**<br>
 the SAF has about 46,000 military personnel: approximately 14,000 continuous service/full-time; approximately 11,000 temporary service; approximately 21,000 Home Guard (some on active duty) (2022)<br>
 <strong>note 1: </strong>SAF personnel are divided into continuously serving (full-time) and temporary service troops (part-timers who serve periodically and have another main employer or attend school); additional personnel have signed service agreements with the SAF and mostly serve in the Home Guard; the SAF also has about 9,000 civilian employees<br><br><strong>note 2:</strong> in 2021, Sweden announced plans that increase the total size of the armed forces to about 100,000 personnel by 2030<br>
 
 **Military equipment inventories and acquisitions**<br>
-the inventory of the SAF is comprised of domestically-produced and imported Western weapons systems; since 2010, the US is the leading supplier of military hardware to Sweden; Sweden's defense industry produces a range of air, land, and naval systems (2021)<br>
+the SAF's inventory is comprised of domestically produced and imported Western weapons systems; in recent years, the US has been the leading supplier of military hardware to Sweden; Sweden's defense industry produces a range of air, land, and naval systems (2022)<br>
 
 **Military service age and obligation**<br>
 18-47 years of age for male and female voluntary military service; service obligation: 7.5 months (Army), 7-15 months (Navy), 8-12 months (Air Force); after completing initial service, soldiers have a reserve commitment until age 47; compulsory military service, abolished in 2010, was reinstated in January 2018; conscription is selective, includes both men and women (age 18), and requires 9-12 months of service (2022)<br>
@@ -726,6 +726,6 @@ Islamic State of Iraq and ash-Sham (ISIS)<br>
 <p>none identified</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 113,213 (Syria), 26,857 (Afghanistan), 25,849 (Eritrea), 10,464 (Iraq), 9,315 (Somalia), 7,146 (Iran) (mid-year 2022); 50,795 (Ukraine) (as of 12 January)<br>
+_refugees (country of origin)_: 113,213 (Syria), 26,857 (Afghanistan), 25,849 (Eritrea), 10,464 (Iraq), 9,315 (Somalia), 7,146 (Iran) (mid-year 2022); 51,029 (Ukraine) (as of 20 January 2023)<br>
 _stateless persons_: 50,098 (mid-year 2021); note - the majority of stateless people are from the Middle East and Somalia<br>
 

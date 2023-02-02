@@ -295,7 +295,7 @@ _lyrics/music_: Alex RICHARDSON<br>
 ## Economy
 
 **Economic overview**<br>
-Anguilla has few natural resources, is unsuited for agriculture, and the economy depends heavily on luxury tourism, offshore banking, lobster fishing, and remittances from emigrants. Increased activity in the tourism industry has spurred the growth of the construction sector contributing to economic growth. Anguillan officials have put substantial effort into developing the offshore financial sector, which is small but growing. In the medium term, prospects for the economy will depend largely on the recovery of the tourism sector and, therefore, on revived income growth in the industrialized nations as well as on favorable weather conditions.<br>
+small, tourism-dependent, territorial-island economy; very high public debt; COVID-19 crippled economic activity; partial recovery underway via tourism, benefitting from its high amount of timeshare residences; considering reopening oil refinery<br>
 
 **Real GDP (purchasing power parity)**<br>
 $175.4 million (2009 est.)<br>

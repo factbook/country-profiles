@@ -280,7 +280,7 @@ _industrial_: 9.6 million cubic meters (2017 est.)<br>
 _agricultural_: 50 million cubic meters (2017 est.)<br>
 
 **Total renewable water resources**<br>
-28.55 billion cubic meters (2017 est.)<br>
+28.6 billion cubic meters (2017 est.)<br>
 
 ## Government
 
@@ -384,7 +384,7 @@ _selected World Heritage Site locales_: Levuka Historical Port Town<br>
 ## Economy
 
 **Economic overview**<br>
-<p>Fiji, endowed with forest, mineral, and fish resources, is one of the most developed and connected of the Pacific island economies. Earnings from the tourism industry, with an estimated 842,884 tourists visiting in 2017, and remittances from Fijian’s working abroad are the country’s largest foreign exchange earners.</p> <p> </p> <p>Bottled water exports to the US is Fiji’s largest domestic export. Fiji's sugar sector remains a significant industry and a major export, but crops and one of the sugar mills suffered damage during Cyclone Winston in 2016. Fiji’s trade imbalance continues to widen with increased imports and sluggish performance of domestic exports.</p> <p> </p> <p>The return to parliamentary democracy and successful elections in September 2014 improved investor confidence, but increasing bureaucratic regulation, new taxes, and lack of consultation with relevant stakeholders brought four consecutive years of decline for Fiji on the World Bank Ease of Doing Business index. Private sector investment in 2017 approached 20% of GDP, compared to 13% in 2013.</p><br>
+tourism-based Pacific island economy, susceptible to sea-level rises; new energy infrastructure investments; major foreign direct investment; COVID-19 crippled tourism sector; privatizing state-owned enterprises; military coups have destabilized labor force<br>
 
 **Real GDP (purchasing power parity)**<br>
 $9.578 billion (2021 est.)<br>
@@ -682,7 +682,7 @@ Republic of Fiji Military Force (RFMF): Land Force Command, Maritime Command; Fi
 approximately 4,000 active personnel (2022)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the RFMF is lightly armed and equipped; Australia has provided patrol boats and a few armored personnel carriers; it also provides logistical support for RFMF regional or UN operations; in recent years, China has provided construction equipment and military vehicles (2021)<br>
+the RFMF is lightly armed and equipped; Australia has provided patrol boats and a few armored personnel carriers; it also provides logistical support for RFMF regional or UN operations; in recent years, China has provided construction equipment and military vehicles (2022)<br>
 
 **Military service age and obligation**<br>
 18-25 years of age for voluntary military service; mandatory retirement at age 55 (2022)<br>

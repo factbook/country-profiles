@@ -273,7 +273,7 @@ _lyrics/music_: unknown/Frederick M. LEHMAN<br>
 ## Economy
 
 **Economic overview**<br>
-The inhabitants of this tiny isolated economy exist on fishing, subsistence farming, handicrafts, and postage stamps. The fertile soil of the valleys produces a wide variety of fruits and vegetables, including citrus, sugarcane, watermelons, bananas, yams, and beans. Bartering is an important part of the economy. The major sources of revenue are the sale of postage stamps to collectors and the sale of handicrafts to passing ships.<br>
+small South Pacific British island territorial economy; exports primarily postage stamps, handicraft goods, honey, and tinctures; extremely limited infrastructure; dependent upon UK and EU aid; recent border reopening post-COVID-19<br>
 
 **Real GDP (purchasing power parity)**<br>
 <p>NA</p><br>

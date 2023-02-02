@@ -82,9 +82,6 @@ _etymology_: the name Arctic comes from the Greek word "arktikos" meaning "near 
 
 ## Economy
 
-**Economic overview**<br>
-Economic activity is limited to the exploitation of natural resources, including petroleum, natural gas, fish, and seals.<br>
-
 ## Transportation
 
 **Icebreakers**<br>

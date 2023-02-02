@@ -321,7 +321,7 @@ _industrial_: 9.511 billion cubic meters (2017 est.)<br>
 _agricultural_: 39.43 billion cubic meters (2017 est.)<br>
 
 **Total renewable water resources**<br>
-8.647 trillion cubic meters (2017 est.)<br>
+8.6 trillion cubic meters (2017 est.)<br>
 
 ## Government
 
@@ -430,7 +430,7 @@ _selected World Heritage Site locales_: Brasilia (c); Historic Salvador de Bahia
 ## Economy
 
 **Economic overview**<br>
-<p>Brazil is the eighth-largest economy in the world, but is recovering from a recession in 2015 and 2016 that ranks as the worst in the country’s history. In 2017, Brazil`s GDP grew 1%, inflation fell to historic lows of 2.9%, and the Central Bank lowered benchmark interest rates from 13.75% in 2016 to 7%.</p> <p> </p> <p>The economy has been negatively affected by multiple corruption scandals involving private companies and government officials, including the impeachment and conviction of Former President Dilma ROUSSEFF in August 2016. Sanctions against the firms involved — some of the largest in Brazil — have limited their business opportunities, producing a ripple effect on associated businesses and contractors but creating opportunities for foreign companies to step into what had been a closed market.</p> <p> </p> <p>The succeeding TEMER administration has implemented a series of fiscal and structural reforms to restore credibility to government finances. Congress approved legislation in December 2016 to cap public spending. Government spending growth had pushed public debt to 73.7% of GDP at the end of 2017, up from over 50% in 2012. The government also boosted infrastructure projects, such as oil and natural gas auctions, in part to raise revenues. Other economic reforms, proposed in 2016, aim to reduce barriers to foreign investment, and to improve labor conditions. Policies to strengthen Brazil’s workforce and industrial sector, such as local content requirements, have boosted employment, but at the expense of investment.</p> <p> </p> <p>Brazil is a member of the Common Market of the South (Mercosur), a trade bloc that includes Argentina, Paraguay and Uruguay - Venezuela’s membership in the organization was suspended In August 2017. After the Asian and Russian financial crises, Mercosur adopted a protectionist stance to guard against exposure to volatile foreign markets and it currently is negotiating Free Trade Agreements with the European Union and Canada.</p><br>
+industrial-led economic growth model; recovering from 2014-2016 recession when COVID-19 hit; industry limited by Amazon rainforest but increasing deforestation; new macroeconomic structural reforms; high income inequality; left UNASUR to join PROSUR<br>
 
 **Real GDP (purchasing power parity)**<br>
 $3.128 trillion (2021 est.)<br>

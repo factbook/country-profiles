@@ -398,7 +398,7 @@ _selected World Heritage Site locales_: Vilnius Historic Center; Curonian Spit; 
 ## Economy
 
 **Economic overview**<br>
-<p>After the country declared independence from the Soviet Union in 1990, Lithuania faced an initial dislocation that is typical during transitions from a planned economy to a free-market economy. Macroeconomic stabilization policies, including privatization of most state-owned enterprises, and a strong commitment to a currency board arrangement led to an open and rapidly growing economy and rising consumer demand. Foreign investment and EU funding aided in the transition. Lithuania joined the WTO in May 2001, the EU in May 2004, and the euro zone in January 2015, and is now working to complete the OECD accession roadmap it received in July 2015. In 2017, joined the OECD Working Group on Bribery, an important step in the OECD accession process.</p> <p> </p> <p>The Lithuanian economy was severely hit by the 2008-09 global financial crisis, but it has rebounded and become one of the fastest growing in the EU. Increases in exports, investment, and wage growth that supported consumption helped the economy grow by 3.6% in 2017. In 2015, Russia was Lithuania’s largest trading partner, followed by Poland, Germany, and Latvia; goods and services trade between the US and Lithuania totaled $2.2 billion. Lithuania opened a self-financed liquefied natural gas terminal in January 2015, providing the first non-Russian supply of natural gas to the Baltic States and reducing Lithuania’s dependence on Russian gas from 100% to approximately 30% in 2016.</p> <p> </p> <p>Lithuania’s ongoing recovery hinges on improving the business environment, especially by liberalizing labor laws, and improving competitiveness and export growth, the latter hampered by economic slowdowns in the EU and Russia. In addition, a steady outflow of young and highly educated people is causing a shortage of skilled labor, which, combined with a rapidly aging population, could stress public finances and constrain long-term growth.</p><br>
+high-income, EU-member, largest Baltic economy; privatized most state-owned enterprises; unmoved youth emigration; systemic corruption; issued Europe&rsquo;s first bank-backed digital coin (LBCOIN); highly educated workforce; lowest EU household debt<br>
 
 **Real GDP (purchasing power parity)**<br>
 $110.089 billion (2021 est.)<br>
@@ -702,7 +702,7 @@ Lithuanian Armed Forces (Lietuvos Ginkluotosios Pajegos): Land Forces (Sausumos 
 approximately 17,000 active duty personnel (13,500 Army, including about 5,000 National Defense Voluntary Forces; 500 Navy; 1,000 Air Force; 2,000 other, including special operations forces, logistics support, training, etc); estimated 11,000 Riflemen Union (2022)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the Lithuanian Armed Forces' inventory is mostly a mix of Western weapons systems and Soviet-era equipment (primarily aircraft and helicopters); as of 2021, Germany was the leading supplier of armaments to Lithuania (2021)<br>
+the military's inventory is a mix of Soviet-era and more modern European and US equipment (2022)<br>
 
 **Military service age and obligation**<br>
 19-26 years of age for conscripted military service for men; 9-month service obligation; in 2015, Lithuania reinstated conscription after having converted to a professional military in 2008; 18-38 for voluntary service for men and women (2022)<br>
@@ -720,7 +720,7 @@ Lithuania became a member of NATO in 2004<br> <p>since 2017, Lithuania has hoste
 <p><em>Lithuania-Belarus</em>: as of January 2007, ground demarcation of the boundary with Belarus was complete and mapped with final ratification documents in preparation</p> <p><em>Lithuania-Lativa</em>: boundary demarcated with Latvia was completed in 1998</p> <p><em>Lithuania-Russia</em>:<strong> </strong>Lithuania and Russia committed to demarcating their boundary in 2006 in accordance with the land and maritime treaty ratified by Russia in May 2003 and by Lithuania in 1999; Lithuania operates a simplified transit regime for Russian nationals traveling from the Kaliningrad coastal exclave into Russia, while still conforming, as a EU member state having an external border with a non-EU member, to strict Schengen border rules; in January 2018, demarcation of the Lithuania-Russia border was completed</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 73,040 (Ukraine) (as of 16 January 2023)<br>
+_refugees (country of origin)_: 73,292 (Ukraine) (as of 24 January 2023)<br>
 _stateless persons_: 2,721 (mid-year 2021)<br>
 
 **Illicit drugs**<br>

@@ -338,7 +338,7 @@ _lyrics/music_: Tepaeru Te RITO/Thomas DAVIS<br>
 ## Economy
 
 **Economic overview**<br>
-Like many other South Pacific island nations, the Cook Islands' economic development is hindered by the isolation of the country from foreign markets, the limited size of domestic markets, lack of natural resources, periodic devastation from natural disasters, and inadequate infrastructure. Agriculture, employing more than one-quarter of the working population, provides the economic base with major exports of copra and citrus fruit. Black pearls are the Cook Islands' leading export. Manufacturing activities are limited to fruit processing, clothing, and handicrafts. Trade deficits are offset by remittances from emigrants and by foreign aid overwhelmingly from New Zealand. In the 1980s and 1990s, the country became overextended, maintaining a bloated public service and accumulating a large foreign debt. Subsequent reforms, including the sale of state assets, the strengthening of economic management, the encouragement of tourism, and a debt restructuring agreement, have rekindled investment and growth. The government is targeting fisheries and seabed mining as sectors for future economic growth.<br>
+high-income self-governing New Zealand territorial economy; tourism-based activity but diversifying; severely curtailed by COVID-19 pandemic; copra and tropical fruit exporter; recently received economic recovery support from Asian Development Bank<br>
 
 **Real GDP (purchasing power parity)**<br>
 $299.9 million (2016 est.)<br>

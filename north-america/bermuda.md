@@ -335,7 +335,7 @@ _selected World Heritage Site locales_: Historic Town of St George and Related F
 ## Economy
 
 **Economic overview**<br>
-<p>International business, which consists primarily of insurance and other financial services, is the real bedrock of Bermuda's economy, consistently accounting for about 85% of the island's GDP. Tourism is the country’s second largest industry, accounting for about 5% of Bermuda's GDP but a much larger share of employment. Over 80% of visitors come from the US and the sector struggled in the wake of the global recession of 2008-09. Even the financial sector has lost roughly 5,000 high-paying expatriate jobs since 2008, weighing heavily on household consumption and retail sales. Bermuda must import almost everything. Agriculture and industry are limited due to the small size of the island.</p> <p> </p> <p>Bermuda's economy returned to negative growth in 2016, reporting a contraction of 0.1% GDP, after growing by 0.6% in 2015. Unemployment reached 7% in 2016 and 2017, public debt is growing and exceeds $2.4 billion, and the government continues to work on attracting foreign investment. Still, Bermuda enjoys one of the highest per capita incomes in the world.</p><br>
+small, tourism- and construction-based, territorial-island economy; American import and tourist destination; known offshore banking hub; increasing inflation; major re-exportation and re-importation area<br>
 
 **Real GDP (purchasing power parity)**<br>
 $5.127 billion (2021 est.) note: data are in 2017 dollars<br>
@@ -592,7 +592,7 @@ Royal Bermuda Regiment; Bermuda Police Service (2022)<br>
 the Royal Bermuda Regiment has about 350 troops (2022)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the Regiment is equipped with small arms (2021)<br>
+the Regiment is equipped with small arms (2023)<br>
 
 **Military service age and obligation**<br>
 men and women who are Commonwealth citizens and 18-45 years of age can volunteer for the Bermuda Regiment; service is for a minimum period of three years and two months from the date of enlistment; service can be extended only by volunteering or an executive order from the Governor; annual training commitment is about 30 days a year, which includes a two-week camp, weekends, and drill nights (2022)<br>

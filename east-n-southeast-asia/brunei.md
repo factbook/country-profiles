@@ -372,7 +372,7 @@ _lyrics/music_: Pengiran Haji Mohamed YUSUF bin Pengiran Abdul Rahim/Awang Haji 
 ## Economy
 
 **Economic overview**<br>
-<p>Brunei is an energy-rich sultanate on the northern coast of Borneo in Southeast Asia. Brunei boasts a well-educated, largely English-speaking population; excellent infrastructure; and a stable government intent on attracting foreign investment. Crude oil and natural gas production account for approximately 65% of GDP and 95% of exports, with Japan as the primary export market.</p> <p> </p> <p>Per capita GDP is among the highest in the world, and substantial income from overseas investment supplements income from domestic hydrocarbon production. Bruneian citizens pay no personal income taxes, and the government provides free medical services and free education through the university level.</p> <p> </p> <p>The Bruneian Government wants to diversify its economy away from hydrocarbon exports to other industries such as information and communications technology and halal manufacturing, permissible under Islamic law. Brunei’s trade increased in 2016 and 2017, following its regional economic integration in the ASEAN Economic Community, and the expected ratification of the Trans-Pacific Partnership trade agreement.</p><br>
+almost exclusively an oil and gas economy; high income country; expansive and robust welfare system; the majority of the population works for the government; promulgating a nationalized halal brand; considering establishment of a bond market and stock exchange<br>
 
 **Real GDP (purchasing power parity)**<br>
 $26.779 billion (2021 est.)<br>
@@ -658,7 +658,7 @@ Royal Brunei Armed Forces: Land Force, Navy, Air Force, Joint Force (2022)<br>
 approximately 6,000 total active troops (4,000 Army; 1,000 Navy; 1,000 Air Force) (2022)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the Brunei imports nearly all of its military equipment and weapons systems and has a variety of suppliers, including the US and several European countries (2021)<br>
+the military's s inventory includes equipment and weapons systems from a wide variety of suppliers from Asia, Europe, and the US (2022)<br>
 
 **Military service age and obligation**<br>
 17 years of age for voluntary military service; non-Malays are ineligible to serve (2022)<br>

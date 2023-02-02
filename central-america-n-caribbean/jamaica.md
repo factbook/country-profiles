@@ -278,7 +278,7 @@ _industrial_: 1.1 billion cubic meters (2017 est.)<br>
 _agricultural_: 114 million cubic meters (2017 est.)<br>
 
 **Total renewable water resources**<br>
-10.823 billion cubic meters (2017 est.)<br>
+10.8 billion cubic meters (2017 est.)<br>
 
 ## Government
 
@@ -382,7 +382,7 @@ _selected World Heritage Site locales_: Blue and John Crow Mountains<br>
 ## Economy
 
 **Economic overview**<br>
-<p>The Jamaican economy is heavily dependent on services, which accounts for more than 70% of GDP. The country derives most of its foreign exchange from tourism, remittances, and bauxite/alumina. Earnings from remittances and tourism each account for 14% and 20% of GDP, while bauxite/alumina exports have declined to less than 5% of GDP.</p> <p> </p> <p>Jamaica's economy has grown on average less than 1% a year for the last three decades and many impediments remain to growth: a bloated public sector which crowds out spending on important projects; high crime and corruption; red-tape; and a high debt-to-GDP ratio. Jamaica, however, has made steady progress in reducing its debt-to-GDP ratio from a high of almost 150% in 2012 to less than 110% in 2017, in close collaboration with the International Monetary Fund (IMF). The current IMF Stand-By Agreement requires Jamaica to produce an annual primary surplus of 7%, in an attempt to reduce its debt burden below 60% by 2025.</p> <p> </p> <p>Economic growth reached 1.6% in 2016, but declined to 0.9% in 2017 after intense rainfall, demonstrating the vulnerability of the economy to weather-related events. The HOLNESS administration therefore faces the difficult prospect of maintaining fiscal discipline to reduce the debt load while simultaneously implementing growth inducing policies and attacking a serious crime problem. High unemployment exacerbates the crime problem, including gang violence fueled by advanced fee fraud (lottery scamming) and the drug trade.</p><br>
+upper middle-income Caribbean island economy; prior to COVID-19 disruption, declining public debt and unemployment; environmentally fragile economy due to hurricanes and rising sea levels; persistently high crime, youth unemployment, and poverty<br>
 
 **Real GDP (purchasing power parity)**<br>
 $27.136 billion (2021 est.)<br>

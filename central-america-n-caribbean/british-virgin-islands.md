@@ -305,7 +305,7 @@ zenaida dove, white cedar flower; national colors: yellow, green, red, white, bl
 ## Economy
 
 **Economic overview**<br>
-<p>The economy, one of the most stable and prosperous in the Caribbean, is highly dependent on tourism, which generates an estimated 45% of the national income. More than 934,000 tourists, mainly from the US, visited the islands in 2008. Because of traditionally close links with the US Virgin Islands, the British Virgin Islands has used the US dollar as its currency since 1959.</p> <p> </p> <p>Livestock raising is the most important agricultural activity; poor soils limit the islands' ability to meet domestic food requirements.</p> <p> </p> <p>In the mid-1980s, the government began offering offshore registration to companies wishing to incorporate in the islands, and incorporation fees now generate substantial revenues. Roughly 400,000 companies were on the offshore registry by yearend 2000. The adoption of a comprehensive insurance law in late 1994, which provides a blanket of confidentiality with regulated statutory gateways for investigation of criminal offenses, made the British Virgin Islands even more attractive to international business.</p><br>
+British Caribbean island territorial economy; strong tourism and services industries; vulnerable to hurricanes; navigating public debt insolvency since 2008 Crisis; considered a tax haven; high electrification costs; major rum exporter<br>
 
 **Real GDP (purchasing power parity)**<br>
 $500 million (2017 est.)<br>

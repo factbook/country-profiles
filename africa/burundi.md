@@ -314,7 +314,7 @@ _industrial_: 15 million cubic meters (2017 est.)<br>
 _agricultural_: 222 million cubic meters (2017 est.)<br>
 
 **Total renewable water resources**<br>
-12.536 billion cubic meters (2017 est.)<br>
+12.5 billion cubic meters (2017 est.)<br>
 
 ## Government
 
@@ -415,7 +415,7 @@ _lyrics/music_: Jean-Baptiste NTAHOKAJA/Marc BARENGAYABO<br>
 ## Economy
 
 **Economic overview**<br>
-<p>Burundi is a landlocked, resource-poor country with an underdeveloped manufacturing sector. Agriculture accounts for over 40% of GDP and employs more than 90% of the population. Burundi's primary exports are coffee and tea, which account for more than half of foreign exchange earnings, but these earnings are subject to fluctuations in weather and international coffee and tea prices, Burundi is heavily dependent on aid from bilateral and multilateral donors, as well as foreign exchange earnings from participation in the African Union Mission to Somalia (AMISOM). Foreign aid represented 48% of Burundi's national income in 2015, one of the highest percentages in Sub-Saharan Africa, but this figure decreased to 33.5% in 2016 due to political turmoil surrounding President NKURUNZIZA’s bid for a third term. Burundi joined the East African Community (EAC) in 2009.</p> <p> </p> <p>Burundi faces several underlying weaknesses – low governmental capacity, corruption, a high poverty rate, poor educational levels, a weak legal system, a poor transportation network, and overburdened utilities – that have prevented the implementation of planned economic reforms. The purchasing power of most Burundians has decreased as wage increases have not kept pace with inflation, which reached approximately 18% in 2017.</p> <p> </p> <p>Real GDP growth dropped precipitously following political events in 2015 and has yet to recover to pre-conflict levels. Continued resistance by donors and the international community will restrict Burundi’s economic growth as the country deals with a large current account deficit.</p><br>
+highly agrarian, low-income Sub-Saharan economy; declining foreign assistance; increasing fiscal insolvencies; dense and still growing population; COVID-19 weakened economic recovery and flipped two years of deflation<br>
 
 **Real GDP (purchasing power parity)**<br>
 $8.849 billion (2021 est.)<br>
@@ -693,7 +693,7 @@ National Defense Forces (Forces de Defense Nationale, FDN): Army (includes marit
 approximately 30,000 active duty troops, the majority of which are ground forces (2022)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the FDN is armed mostly with weapons from Russia and the former Soviet Union, with some Western equipment, largely from France; since 2010, the FDN has received small amounts of mostly second-hand equipment from China, South Africa, and the US (2021)<br>
+the FDN has a mix of mostly older weapons and equipment typically of French, Russian, and Soviet origin, and a smaller selection of more modern secondhand equipment from such countries as China, South Africa, and the US (2022)<br>
 
 **Military service age and obligation**<br>
 18 years of age for voluntary military service (2021)<br>

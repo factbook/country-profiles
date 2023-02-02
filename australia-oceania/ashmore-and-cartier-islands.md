@@ -151,9 +151,6 @@ the flag of Australia is used<br>
 
 ## Economy
 
-**Economic overview**<br>
-no economic activity<br>
-
 ## Transportation
 
 **Ports and terminals**<br>

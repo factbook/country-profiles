@@ -140,9 +140,6 @@ _etymology_: Portuguese navigators began to refer to the "Ilhas do Pracel" in th
 
 ## Economy
 
-**Economic overview**<br>
-The islands have the potential for oil and gas development. Waters around the islands support commercial fishing, but the islands themselves are not populated on a permanent basis.<br>
-
 ## Transportation
 
 **Airports**<br>

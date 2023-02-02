@@ -376,7 +376,7 @@ _selected World Heritage Site locales_: East Rennell<br>
 ## Economy
 
 **Economic overview**<br>
-The bulk of the population depends on agriculture, fishing, and forestry for at least part of its livelihood. Most manufactured goods and petroleum products must be imported. The islands are rich in undeveloped mineral resources such as lead, zinc, nickel, and gold. Prior to the arrival of The Regional Assistance Mission to the Solomon Islands (RAMSI), severe ethnic violence, the closure of key businesses, and an empty government treasury culminated in economic collapse. RAMSI's efforts, which concluded in Jun 2017, to restore law and order and economic stability have led to modest growth as the economy rebuilds.<br>
+lower middle-income Pacific island economy; natural resource rich; primarily subsistent agriculture and fishing; land rights conflicts; fairly low public debt; underdeveloped financial sector; large, state-owned enterprise presence<br>
 
 **Real GDP (purchasing power parity)**<br>
 $1.703 billion (2021 est.)<br>

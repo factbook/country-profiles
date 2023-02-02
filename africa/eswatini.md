@@ -390,7 +390,7 @@ _lyrics/music_: Andrease Enoke Fanyana SIMELANE/David Kenneth RYCROFT<br>
 ## Economy
 
 **Economic overview**<br>
-<p>A small, landlocked kingdom, Eswatini is bordered in the north, west and south by the Republic of South Africa and by Mozambique in the east. Eswatini depends on South Africa for a majority of its exports and imports. Eswatini's currency is pegged to the South African rand, effectively relinquishing Eswatini's monetary policy to South Africa. The government is dependent on customs duties from the Southern African Customs Union (SACU) for almost half of its revenue. Eswatini is a lower middle income country. As of 2017, more than one-quarter of the adult population was infected by HIV/AIDS; Eswatini has the world’s highest HIV prevalence rate, a financial strain and source of economic instability.</p> <p> </p> <p>The manufacturing sector diversified in the 1980s and 1990s, but manufacturing has grown little in the last decade. Sugar and soft drink concentrate are the largest foreign exchange earners, although a drought in 2015-16 decreased sugar production and exports. Overgrazing, soil depletion, drought, and floods are persistent problems. Mining has declined in importance in recent years. Coal, gold, diamond, and quarry stone mines are small scale, and the only iron ore mine closed in 2014. With an estimated 28% unemployment rate, Eswatini's need to increase the number and size of small and medium enterprises and to attract foreign direct investment is acute.</p> <p> </p> <p>Eswatini's national development strategy, which expires in 2022, prioritizes increases in infrastructure, agriculture production, and economic diversification, while aiming to reduce poverty and government spending. Eswatini's revenue from SACU receipts are likely to continue to decline as South Africa pushes for a new distribution scheme, making it harder for the government to maintain fiscal balance without introducing new sources of revenue.</p><br>
+landlocked southern African economy; South African trade dependent and currency pegging; CMA and SACU member state; COVID-19 economic slowdown; growing utilities inflation; persistent poverty and unemployment; HIV/AIDS labor force disruptions<br>
 
 **Real GDP (purchasing power parity)**<br>
 $10.56 billion (2021 est.)<br>
@@ -666,7 +666,7 @@ Umbutfo Eswatini Defense Force (UEDF): Army (includes a small air wing); the Roy
 approximately 3,000 active duty personnel (2022)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the UEDF is lightly armed with mostly South African material; it has received small amounts of secondhand equipment since 2010 (2021)<br>
+the UEDF is lightly armed with mostly South African equipment (2022)<br>
 
 **Military service age and obligation**<br>
 18-30 years of age for voluntary military service for men and women; no conscription (2021)<br>

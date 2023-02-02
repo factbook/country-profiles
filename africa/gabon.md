@@ -369,7 +369,7 @@ Paul Mba Abessole<br>
 ACP, AfDB, AU, BDEAC, CEMAC, FAO, FZ, G-24, G-77, IAEA, IBRD, ICAO, ICCt, ICRM, IDA, IDB, IFAD, IFC, IFRCS, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, NAM, OIC, OIF, OPCW, UN, UNCTAD, UNESCO, UNHRC, UNIDO, UNWTO, UPU, WCO, WHO, WIPO, WMO, WTO<br>
 
 **Diplomatic representation in the US**<br>
-_chief of mission_: Charge D'Affaires Rod Ciangillan REMBENDAMBYA, Counselor (17 March 2021)<br>
+_chief of mission_: Ambassador Noel Nelson&nbsp;MESSONE (12 December 2022)<br>
 _chancery_: 2034 20th Street NW, Suite 200, Washington, DC 20009<br>
 _telephone_: [1] (202) 797-1000<br>
 _FAX_: [1] (301) 332-0668<br>
@@ -401,7 +401,7 @@ _selected World Heritage Site locales_: Ecosystem and Relict Cultural Landscape 
 ## Economy
 
 **Economic overview**<br>
-<p>Gabon enjoys a per capita income four times that of most Sub-Saharan African nations, but because of high income inequality, a large proportion of the population remains poor. Gabon relied on timber and manganese exports until oil was discovered offshore in the early 1970s. From 2010 to 2016, oil accounted for approximately 80% of Gabon’s exports, 45% of its GDP, and 60% of its state budget revenues.</p> <p> </p> <p>Gabon faces fluctuating international prices for its oil, timber, and manganese exports. A rebound of oil prices from 2001 to 2013 helped growth, but declining production, as some fields passed their peak production, has hampered Gabon from fully realizing potential gains. GDP grew nearly 6% per year over the 2010-14 period, but slowed significantly from 2014 to just 1% in 2017 as oil prices declined. Low oil prices also weakened government revenue and negatively affected the trade and current account balances. In the wake of lower revenue, Gabon signed a 3-year agreement with the IMF in June 2017.</p> <p> </p> <p>Despite an abundance of natural wealth, poor fiscal management and over-reliance on oil has stifled the economy. Power cuts and water shortages are frequent. Gabon is reliant on imports and the government heavily subsidizes commodities, including food, but will be hard pressed to tamp down public frustration with unemployment and corruption.</p><br>
+natural resource-rich, upper-middle-income, Central African economy; sparsely populated but high urbanization; young labor force; oil, manganese, and rubber exporter; foreign investment dependent; data integrity issue on poverty and income<br>
 
 **Real GDP (purchasing power parity)**<br>
 $32.34 billion (2021 est.)<br>
@@ -703,7 +703,7 @@ Gabonese Armed Forces (Force Armées Gabonaise or FAG; aka Gabonese Defense and 
 approximately 6,500 active duty troops including the Republican Guard and Gendarmerie (2022)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the Gabonese military is lightly armed with a mixed inventory from a variety of suppliers; since 2010, providers have included Brazil, China, France, Germany, and South Africa (2021)<br>
+the Gabonese military is lightly armed with a mix of equipment from a variety of suppliers including Brazil, China, France, Germany, and South Africa (2022)<br>
 
 **Military service age and obligation**<br>
 20 years of age for voluntary military service; no conscription (2021)<br>

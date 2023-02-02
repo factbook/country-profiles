@@ -391,7 +391,7 @@ _selected World Heritage Site locales_: Bryggen (c); Urnes Stave Church (c); Rø
 ## Economy
 
 **Economic overview**<br>
-<p>Norway has a stable economy with a vibrant private sector, a large state sector, and an extensive social safety net. Norway opted out of the EU during a referendum in November 1994. However, as a member of the European Economic Area, Norway partially participates in the EU’s single market and contributes sizably to the EU budget.</p> <p>The country is richly endowed with natural resources such as oil and gas, fish, forests, and minerals. Norway is a leading producer and the world’s second largest exporter of seafood, after China. The government manages the country’s petroleum resources through extensive regulation. The petroleum sector provides about 9% of jobs, 12% of GDP, 13% of the state’s revenue, and 37% of exports, according to official national estimates. Norway is one of the world's leading petroleum exporters, although oil production is close to 50% below its peak in 2000. Gas production, conversely, has more than doubled since 2000. Although oil production is historically low, it rose in 2016 for the third consecutive year due to the higher production of existing oil fields and to new fields coming on stream. Norway’s domestic electricity production relies almost entirely on hydropower.</p> <p>In anticipation of eventual declines in oil and gas production, Norway saves state revenue from petroleum sector activities in the world's largest sovereign wealth fund, valued at over $1 trillion at the end of 2017. To help balance the federal budget each year, the government follows a "fiscal rule," which states that spending of revenues from petroleum and fund investments shall correspond to the expected real rate of return on the fund, an amount it estimates is sustainable over time. In February 2017, the government revised the expected rate of return for the fund downward from 4% to 3%.</p> <p> </p> <p>After solid GDP growth in the 2004-07 period, the economy slowed in 2008, and contracted in 2009, before returning to modest, positive growth from 2010 to 2017. The Norwegian economy has been adjusting to lower energy prices, as demonstrated by growth in labor force participation and employment in 2017. GDP growth was about 1.5% in 2017, driven largely by domestic demand, which has been boosted by the rebound in the labor market and supportive fiscal policies. Economic growth is expected to remain constant or improve slightly in the next few years.</p><br>
+high-income non-EU European economy; aging labor force; large state-owned energy company constrains budget and spending; largest oil sovereign wealth fund; major fishing, forestry, and extraction industries; large welfare system<br>
 
 **Real GDP (purchasing power parity)**<br>
 $355.122 billion (2021 est.)<br>
@@ -696,7 +696,7 @@ approximately 27,000 active personnel (9,000 Army; 4,300 Navy; 4,700 Air Force; 
 <strong>note:</strong>  active personnel includes about 10,000 conscripts<br>
 
 **Military equipment inventories and acquisitions**<br>
-the military's inventory includes a mix of imported European, US, and domestically-produced weapons systems and equipment; since 2010, the US has been the leading supplier of weapons systems to Norway (2021)<br>
+the military's inventory includes a mix of modern, imported European, US, and domestically produced weapons systems and equipment; in recent years, the US has been the leading supplier of weapons systems to Norway (2022)<br>
 
 **Military service age and obligation**<br>
 19-35 years of age for selective compulsory military service for men and women; 17 years of age for male volunteers; 18 years of age for women volunteers; 12-19 month service obligation; conscripts first serve 12 months between the ages of 19 and 28, and then up to 4-5 refresher training periods until age 35, 44, 55, or 60 depending on rank and function (2022)<br>
@@ -715,6 +715,6 @@ Norway is a member of NATO and was one of the original 12 countries to sign the 
 <p><em>Norway-Antarctica</em>: Norway asserts a territorial claim in Antarctica (Queen Maud Land and its continental shelf)</p> <p><em>Norway-Russia</em>: Russia amended its 2001 CLCS submission in 2015 and 2021, each time delineating the outer limits of its continental shelf further into the Arctic Ocean; Norway and Russia signed a comprehensive maritime boundary agreement in 2010, ending a dispute over an area of the Barents Sea by dividing the territory equally</p> <p><em>Norway-Sweden</em>: none identified</p> <p> </p> <p> </p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 15,901 (Syria), 10,883 (Eritrea) (mid-year 2022); 37,394 (Ukraine) (as of 16 January 2023)<br>
+_refugees (country of origin)_: 15,901 (Syria), 10,883 (Eritrea) (mid-year 2022); 37,971 (Ukraine) (as of 23 January 2023)<br>
 _stateless persons_: 4,154 (mid-year 2021)<br>
 

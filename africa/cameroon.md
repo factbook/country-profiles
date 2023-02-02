@@ -326,7 +326,7 @@ _industrial_: 104.6 million cubic meters (2017 est.)<br>
 _agricultural_: 737 million cubic meters (2017 est.)<br>
 
 **Total renewable water resources**<br>
-283.15 billion cubic meters (2017 est.)<br>
+283.2 billion cubic meters (2017 est.)<br>
 
 ## Government
 
@@ -433,7 +433,7 @@ _selected World Heritage Site locales_: Dja Faunal Reserve; Sangha Trinational F
 ## Economy
 
 **Economic overview**<br>
-<p>Cameroon’s market-based, diversified economy features oil and gas, timber, aluminum, agriculture, mining and the service sector. Oil remains Cameroon’s main export commodity, and despite falling global oil prices, still accounts for nearly 40% of exports. Cameroon’s economy suffers from factors that often impact underdeveloped countries, such as stagnant per capita income, a relatively inequitable distribution of income, a top-heavy civil service, endemic corruption, continuing inefficiencies of a large parastatal system in key sectors, and a generally unfavorable climate for business enterprise.</p> <p> </p> <p>Since 1990, the government has embarked on various IMF and World Bank programs designed to spur business investment, increase efficiency in agriculture, improve trade, and recapitalize the nation's banks. The IMF continues to press for economic reforms, including increased budget transparency, privatization, and poverty reduction programs. The Government of Cameroon provides subsidies for electricity, food, and fuel that have strained the federal budget and diverted funds from education, healthcare, and infrastructure projects, as low oil prices have led to lower revenues.</p> <p> </p> <p>Cameroon devotes significant resources to several large infrastructure projects currently under construction, including a deep seaport in Kribi and the Lom Pangar Hydropower Project. Cameroon’s energy sector continues to diversify, recently opening a natural gas-powered electricity generating plant. Cameroon continues to seek foreign investment to improve its inadequate infrastructure, create jobs, and improve its economic footprint, but its unfavorable business environment remains a significant deterrent to foreign investment.</p><br>
+largest CEMAC economy with many natural resources; recent political instability and terrorism reducing economic output; systemic corruption; poor property rights enforcement; increasing poverty in northern regions<br>
 
 **Real GDP (purchasing power parity)**<br>
 $100.648 billion (2021 est.)<br>
@@ -741,7 +741,7 @@ information varies; approximately 40,000 active-duty troops; (25,000 ground forc
 <strong>note: </strong>the BIR has approximately 5,000 personnel<br>
 
 **Military equipment inventories and acquisitions**<br>
-the FAC inventory includes a wide mix of mostly older or second-hand Chinese, Russian, and Western equipment, with a limited quantity of more modern weapons; since 2010, China has been the leading supplier of armaments to the FAC (2021)<br>
+the FAC inventory includes a wide mix of mostly older or secondhand Chinese, Russian, and Western equipment, with a limited quantity of more modern weapons; in recent years, China has been the leading supplier of armaments to the FAC (2022)<br>
 
 **Military service age and obligation**<br>
 18-23 years of age for male and female voluntary military service; no conscription; high school graduation required; service obligation 4 years (2021)<br>

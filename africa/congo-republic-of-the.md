@@ -428,7 +428,7 @@ _selected World Heritage Site locales_: Sangha Trinational Forest<br>
 ## Economy
 
 **Economic overview**<br>
-<p>The Republic of the Congo’s economy is a mixture of subsistence farming, an industrial sector based largely on oil and support services, and government spending. Oil has supplanted forestry as the mainstay of the economy, providing a major share of government revenues and exports. Natural gas is increasingly being converted to electricity rather than being flared, greatly improving energy prospects. New mining projects, particularly iron ore, which entered production in late 2013, may add as much as $1 billion to annual government revenue. The Republic of the Congo is a member of the Central African Economic and Monetary Community (CEMAC) and shares a common currency – the Central African Franc – with five other member states in the region.</p> <p> </p> <p>The current administration faces difficult economic challenges of stimulating recovery and reducing poverty. The drop in oil prices that began in 2014 has constrained government spending; lower oil prices forced the government to cut more than $1 billion in planned spending. The fiscal deficit amounted to 11% of GDP in 2017. The government’s inability to pay civil servant salaries has resulted in multiple rounds of strikes by many groups, including doctors, nurses, and teachers. In the wake of a multi-year recession, the country reached out to the IMF in 2017 for a new program; the IMF noted that the country’s continued dependence on oil, unsustainable debt, and significant governance weakness are key impediments to the country’s economy. In 2018, the country’s external debt level will approach 120% of GDP. The IMF urged the government to renegotiate debts levels to sustainable levels before it agreed to a new macroeconomic adjustment package.</p><br>
+primarily an oil- and natural resources-based economy; recovery from mid-2010s oil devaluation has been slow and curtailed by COVID-19; extreme poverty increasing, particularly in southern rural regions; attempting to implement recommended CEMAC reforms; increasing likelihood of debt default<br>
 
 **Real GDP (purchasing power parity)**<br>
 $18.875 billion (2021 est.)<br>
@@ -732,7 +732,7 @@ Congolese Armed Forces (Forces Armees Congolaises, FAC): Army, Navy, Congolese A
 approximately 12,000 active duty troops (8,000 Army; 800 Navy; 1,000 Air Force; 2,000 Gendarmerie) (2022)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the FAC is armed with mostly aging Russian and Soviet-era weapons, with a smaller mix of French and South African equipment; the leading supplier of arms to the FAC since 2010 is South Africa (2021)<br>
+the FAC has mostly Soviet-era armaments, with a smaller mix of French and South African equipment&nbsp; (2022)<br>
 
 **Military service age and obligation**<br>
 18 years of age for voluntary military service for men and women; conscription ended in 1969 (2021)<br>

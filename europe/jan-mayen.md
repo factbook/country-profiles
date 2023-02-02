@@ -143,9 +143,6 @@ the flag of Norway is used<br>
 
 ## Economy
 
-**Economic overview**<br>
-Jan Mayen is a volcanic island with no exploitable natural resources, although surrounding waters contain substantial fish stocks and potential untapped petroleum resources. Economic activity is limited to providing services for employees of Norway's radio and meteorological stations on the island.<br>
-
 ## Communications
 
 **Broadcast media**<br>

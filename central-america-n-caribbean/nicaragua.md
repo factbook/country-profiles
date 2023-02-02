@@ -392,7 +392,7 @@ _selected World Heritage Site locales_: Ruins of Le&oacute;n Viejo; Le&oacute;n 
 ## Economy
 
 **Economic overview**<br>
-<p>Nicaragua, the poorest country in Central America and the second poorest in the Western Hemisphere, has widespread underemployment and poverty. GDP growth of 4.5% in 2017 was insufficient to make a significant difference. Textiles and agriculture combined account for nearly 50% of Nicaragua's exports. Beef, coffee, and gold are Nicaragua’s top three export commodities.</p> <p> </p> <p>The Dominican Republic-Central America-United States Free Trade Agreement has been in effect since April 2006 and has expanded export opportunities for many Nicaraguan agricultural and manufactured goods.</p> <p> </p> <p>In 2013, the government granted a 50-year concession with the option for an additional 50 years to a newly formed Chinese-run company to finance and build an inter-oceanic canal and related projects, at an estimated cost of $50 billion. The canal construction has not started.</p><br>
+low-income Central American economy; until 2018, nearly 20 years of sustained GDP growth; recent struggles due to COVID-19, political instability, and hurricanes; significant remittances; increasing poverty and food scarcity since 2005; sanctions limit investment<br>
 
 **Real GDP (purchasing power parity)**<br>
 $38.628 billion (2021 est.)<br>

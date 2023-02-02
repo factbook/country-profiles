@@ -391,7 +391,7 @@ _selected World Heritage Site locales_: Natural and Cultural Heritage of the Ohr
 ## Economy
 
 **Economic overview**<br>
-<p>Since its independence in 1991, Macedonia has made progress in liberalizing its economy and improving its business environment. Its low tax rates and free economic zones have helped to attract foreign investment, which is still low relative to the rest of Europe. Corruption and weak rule of law remain significant problems. Some businesses complain of opaque regulations and unequal enforcement of the law.</p> <p> </p> <p>Macedonia’s economy is closely linked to Europe as a customer for exports and source of investment, and has suffered as a result of prolonged weakness in the euro zone. Unemployment has remained consistently high at about 23% but may be overstated based on the existence of an extensive gray market, estimated to be between 20% and 45% of GDP, which is not captured by official statistics.</p> <p> </p> <p>Macedonia is working to build a country-wide natural gas pipeline and distribution network. Currently, Macedonia receives its small natural gas supplies from Russia via Bulgaria. In 2016, Macedonia signed a memorandum of understanding with Greece to build an interconnector that could connect to the Trans Adriatic Pipeline that will traverse the region once complete, or to an LNG import terminal in Greece.</p> <p> </p> <p>Macedonia maintained macroeconomic stability through the global financial crisis by conducting prudent monetary policy, which keeps the domestic currency pegged to the euro, and inflation at a low level. However, in the last two years, the internal political crisis has hampered economic performance, with GDP growth slowing in 2016 and 2017, and both domestic private and public investments declining. Fiscal policies were lax, with unproductive public expenditures, including subsidies and pension increases, and rising guarantees for the debt of state owned enterprises, and fiscal targets were consistently missed. In 2017, public debt stabilized at about 47% of GDP, still relatively low compared to its Western Balkan neighbors and the rest of Europe.</p><br>
+growing upper middle-income European economy; EU accession stalled due to Bulgarian dispute; new NATO member; private consumption-driven growth; investment declined due to COVID-19; regional economic power gains since Greek naming resolution<br>
 
 **Real GDP (purchasing power parity)**<br>
 $34.007 billion (2021 est.)<br>
@@ -672,7 +672,7 @@ Army of the Republic of North Macedonia (ARSM; includes a General Staff and subo
 approximately 6,000 active duty personnel (2022)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the military's inventory consists mostly of Soviet-era equipment; since 2010, it has received small amounts of equipment from Ireland and Turkey (2021)<br>
+the military's inventory consists mostly of Soviet-era equipment, although in recent years it has received small amounts of more modern equipment from countries such as Turkey and the US (2022)<br>
 
 **Military service age and obligation**<br>
 18 years of age for voluntary military service; conscription abolished in 2007 (2021)<br>
@@ -693,7 +693,7 @@ Islamic State of Iraq and ash-Sham (ISIS)<br>
 <p><em>North Macedonia-Albania</em>: none identified</p> <p><em>North Macedonia-Greece</em>: none identified</p> <p><em>North Macedonia-Kosovo</em>: North Macedonia and Kosovo completed demarcation of their boundary in October 2009</p> <p><em>North Macedonia-Serbia</em>: none identified</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 6,404 (Ukraine) (as of 15 January 2023)<br>
+_refugees (country of origin)_: 6,404 (Ukraine) (as of 24 January 2023)<br>
 _stateless persons_: 553 (mid-year 2021)<br>
 <strong>note:</strong> 550,697 estimated refugee and migrant arrivals (January 2015-November 2022)<br>
 

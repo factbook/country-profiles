@@ -408,7 +408,7 @@ _selected World Heritage Site locales_: Budapest, including the Banks of the Dan
 ## Economy
 
 **Economic overview**<br>
-<p>Hungary has transitioned from a centrally planned to a market-driven economy with a per capita income approximately two thirds of the EU-28 average; however, in recent years the government has become more involved in managing the economy. Budapest has implemented unorthodox economic policies to boost household consumption and has relied on EU-funded development projects to generate growth.</p> <p> </p> <p>Following the fall of communism in 1990, Hungary experienced a drop-off in exports and financial assistance from the former Soviet Union. Hungary embarked on a series of economic reforms, including privatization of state-owned enterprises and reduction of social spending programs, to shift from a centrally planned to a market-driven economy, and to reorient its economy towards trade with the West. These efforts helped to spur growth, attract investment, and reduce Hungary’s debt burden and fiscal deficits. Despite these reforms, living conditions for the average Hungarian initially deteriorated as inflation increased and unemployment reached double digits. Conditions slowly improved over the 1990s as the reforms came to fruition and export growth accelerated. Economic policies instituted during that decade helped position Hungary to join the European Union in 2004. Hungary has not yet joined the euro-zone. Hungary suffered a historic economic contraction as a result of the global economic slowdown in 2008-09 as export demand and domestic consumption dropped, prompting it to take an IMF-EU financial assistance package.</p> <p> </p> <p>Since 2010, the government has backpedaled on many economic reforms and taken a more populist approach towards economic management. The government has favored national industries and government-linked businesses through legislation, regulation, and public procurements. In 2011 and 2014, Hungary nationalized private pension funds, which squeezed financial service providers out of the system, but also helped Hungary curb its public debt and lower its budget deficit to below 3% of GDP, as subsequent pension contributions have been channeled into the state-managed pension fund. Hungary’s public debt (at 74.5% of GDP) is still high compared to EU peers in Central Europe. Real GDP growth has been robust in the past few years due to increased EU funding, higher EU demand for Hungarian exports, and a rebound in domestic household consumption. To further boost household consumption ahead of the 2018 election, the government embarked on a six-year phased increase to minimum wages and public sector salaries, decreased taxes on foodstuffs and services, cut the personal income tax from 16% to 15%, and implemented a uniform 9% business tax for small and medium-sized enterprises and large companies. Real GDP growth slowed in 2016 due to a cyclical decrease in EU funding, but increased to 3.8% in 2017 as the government pre-financed EU funded projects ahead of the 2018 election.</p> <p> </p> <p>Systemic economic challenges include pervasive corruption, labor shortages driven by demographic declines and migration, widespread poverty in rural areas, vulnerabilities to changes in demand for exports, and a heavy reliance on Russian energy imports.</p><br>
+high-income EU and OECD economy; decreasing government spending; increasing judicial independence concerns; flat income taxation; increasingly dependent on energy imports; strong tourism and automotive manufacturing<br>
 
 **Real GDP (purchasing power parity)**<br>
 $326.186 billion (2021 est.)<br>
@@ -713,7 +713,7 @@ approximately 21,000 active-duty troops (16,000 Army; 5,000 Air Force) (2022)<br
 <strong>note:</strong> in 2017, Hungary announced plans to increase the number of active soldiers to around 37,000 but did not give a timeline<br>
 
 **Military equipment inventories and acquisitions**<br>
-the military's inventory consists largely of Soviet-era weapons, with a smaller mix of more modern European and US equipment; since 2010, Hungary has received limited quantities of equipment from several European countries and the US (2021)<br>
+the military's inventory consists largely of Soviet-era weapons, with a smaller mix of more modern European and US equipment (2022)<br>
 
 **Military service age and obligation**<br>
 18-25 years of age for voluntary military service; no conscription (abolished 2005); 6-month service obligation (2022)<br>
@@ -737,7 +737,7 @@ Islamic State of Iraq and ash-Sham (ISIS)<br>
 <p>bilateral government, legal, technical and economic working group negotiations continue in 2006 with Slovakia over Hungary's failure to complete its portion of the Gabcikovo-Nagymaros hydroelectric dam project along the Danube; as a member state that forms part of the EU's external border, Hungary has implemented the strict Schengen border rules</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 33,603 (Ukraine) (as of 17 January 2023)<br>
+_refugees (country of origin)_: 33,603 (Ukraine) (as of 24 January 2023)<br>
 _stateless persons_: 130 (mid-year 2021)<br>
 
 **Illicit drugs**<br>

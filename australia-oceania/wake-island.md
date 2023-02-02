@@ -146,9 +146,6 @@ the flag of the US is used<br>
 
 ## Economy
 
-**Economic overview**<br>
-Economic activity is limited to providing services to military personnel and contractors located on the island. All food and manufactured goods must be imported.<br>
-
 ## Energy
 
 **Electricity access**<br>

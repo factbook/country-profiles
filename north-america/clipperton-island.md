@@ -141,9 +141,6 @@ the flag of France is used<br>
 
 ## Economy
 
-**Economic overview**<br>
-Although 115 species of fish have been identified in the territorial waters of Clipperton Island, tuna fishing is the only economically viable species.<br>
-
 ## Transportation
 
 **Ports and terminals**<br>

@@ -155,9 +155,6 @@ _selected World Heritage Site locales_: Heard Island and McDonald Islands<br>
 
 ## Economy
 
-**Economic overview**<br>
-The islands have no indigenous economic activity, but the Australian Government allows limited fishing in the surrounding waters. Visits to Heard Island typically focus on terrestrial and marine research and infrequent private expeditions.<br>
-
 ## Communications
 
 **Internet country code**<br>

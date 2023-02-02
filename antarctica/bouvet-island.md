@@ -141,9 +141,6 @@ the flag of Norway is used<br>
 
 ## Economy
 
-**Economic overview**<br>
-no economic activity; declared a nature reserve<br>
-
 ## Communications
 
 **Internet country code**<br>

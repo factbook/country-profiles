@@ -295,9 +295,6 @@ _etymology_: name refers to the location of the region of the British Mandate of
 
 ## Economy
 
-**Economic overview**<br>
-<p>In 2017, the economic outlook in the West Bank - the larger of the two areas comprising the Palestinian Territories – remained fragile, as security concerns and political friction slowed economic growth. Unemployment in the West Bank remained high at 19.0% in the third quarter of 2017, only slightly better than 19.6% at the same point the previous year, while the labor force participation rate remained flat, year-on-year.</p><p></p><p>Longstanding Israeli restrictions on imports, exports, and movement of goods and people continue to disrupt labor and trade flows and the territory’s industrial capacity, and constrain private sector development. The PA’s budget benefited from an effort to improve tax collection, coupled with lower spending in 2017, but the PA for the foreseeable future will continue to rely heavily on donor aid for its budgetary needs and infrastructure development.</p><br>
-
 **Real GDP (purchasing power parity)**<br>
 $27.779 billion (2021 est.)<br>
 $25.95 billion (2020 est.)<br>

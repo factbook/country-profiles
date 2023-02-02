@@ -375,7 +375,7 @@ All Basotho Convention or ABC [Nkaku KABI]<br>Alliance of Democrats or AD [Monya
 ACP, AfDB, AU, C, CD, FAO, G-77, IAEA, IBRD, ICAO, ICCt, ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, Interpol, IOC, IOM, IPU, ISO (correspondent), ITU, MIGA, NAM, OPCW, SACU, SADC, UN, UNAMID, UNCTAD, UNESCO, UNHCR, UNIDO, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
 
 **Diplomatic representation in the US**<br>
-_chief of mission_: Ambassador (vacant); Charge d&rsquo;Affaires Masopha Phoofolo Moses KAO, Counselor (28 May 2021)<br>
+_chief of mission_: Ambassador Tumisang MOSOTHO (16 September 2022)<br><br>
 _chancery_: 2511 Massachusetts Avenue NW, Washington, DC 20008<br>
 _telephone_: [1] (202) 797-5533<br>
 _FAX_: [1] (202) 234-6815<br>
@@ -407,7 +407,7 @@ _selected World Heritage Site locales_: Maloti-Drakensberg Park<br>
 ## Economy
 
 **Economic overview**<br>
-<p>Small, mountainous, and completely landlocked by South Africa, Lesotho depends on a narrow economic base of textile manufacturing, agriculture, remittances, and regional customs revenue. About three-fourths of the people live in rural areas and engage in animal herding and subsistence agriculture, although Lesotho produces less than 20% of the nation's demand for food. Agriculture is vulnerable to weather and climate variability.</p> <p> </p> <p>Lesotho relies on South Africa for much of its economic activity; Lesotho imports 85% of the goods it consumes from South Africa, including most agricultural inputs. Households depend heavily on remittances from family members working in South Africa in mines, on farms, and as domestic workers, though mining employment has declined substantially since the 1990s. Lesotho is a member of the Southern Africa Customs Union (SACU), and revenues from SACU accounted for roughly 26% of total GDP in 2016; however, SACU revenues are volatile and expected to decline over the next 5 years. Lesotho also gains royalties from the South African Government for water transferred to South Africa from a dam and reservoir system in Lesotho. However, the government continues to strengthen its tax system to reduce dependency on customs duties and other transfers.</p> <p> </p> <p>The government maintains a large presence in the economy - government consumption accounted for about 26% of GDP in 2017. The government remains Lesotho's largest employer; in 2016, the government wage bill rose to 23% of GDP – the largest in Sub-Saharan Africa. Lesotho's largest private employer is the textile and garment industry - approximately 36,000 Basotho, mainly women, work in factories producing garments for export to South Africa and the US. Diamond mining in Lesotho has grown in recent years and accounted for nearly 35% of total exports in 2015. Lesotho managed steady GDP growth at an average of 4.5% from 2010 to 2014, dropping to about 2.5% in 2015-16, but poverty remains widespread around 57% of the total population.</p><br>
+lower middle-income economy surrounded by South Africa; environmentally fragile and politically unstable; key infrastructure and renewable energy investments; dire poverty; urban job and income losses due to COVID-19; systemic corruption<br>
 
 **Real GDP (purchasing power parity)**<br>
 $5.236 billion (2021 est.)<br>

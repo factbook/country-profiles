@@ -383,7 +383,7 @@ _selected World Heritage Site locales_: Archaeological Site of Cyrene; Archaeolo
 ## Economy
 
 **Economic overview**<br>
-<p>Libya's economy, almost entirely dependent on oil and gas exports, has struggled since 2014 given security and political instability, disruptions in oil production, and decline in global oil prices. The Libyan dinar has lost much of its value since 2014 and the resulting gap between official and black market exchange rates has spurred the growth of a shadow economy and contributed to inflation. The country suffers from widespread power outages, caused by shortages of fuel for power generation. Living conditions, including access to clean drinking water, medical services, and safe housing have all declined since 2011. Oil production in 2017 reached a five-year high, driving GDP growth, with daily average production rising to 879,000 barrels per day. However, oil production levels remain below the average pre-Revolution highs of 1.6 million barrels per day.</p> <p> </p> <p>The Central Bank of Libya continued to pay government salaries to a majority of the Libyan workforce and to fund subsidies for fuel and food, resulting in an estimated budget deficit of about 17% of GDP in 2017. Low consumer confidence in the banking sector and the economy as a whole has driven a severe liquidity shortage.</p><br>
+upper middle-income, fossil fuel-based North African economy; 31% economic contraction due to COVID-19 and 2020 oil blockade; reduced government spending; central bank had to devalue currency; public wages are over 60% of expenditures<br>
 
 **Real GDP (purchasing power parity)**<br>
 $147.942 billion (2021 est.)<br>
@@ -690,6 +690,6 @@ Ansar al-Sharia groups; Islamic State of Iraq and ash-Sham - Libya (ISIS-L); al-
 <p><em>Libya-Algeria:</em> dormant disputes include Libyan claims of about 32,000 sq km still reflected on its maps of southeastern Algeria<br><br><em>Libya-Chad:</em> various Chadian rebels from the Aozou region reside in southern Libya; Libyan forces clashed with Chadian rebels in September 2021</p> <p><em>Libya-Egypt</em>: none identified</p> <p><em>Libya-Niger</em>: the boundary is poorly defined but has never been disputed by either country</p> <p><em>Libya-Sudan</em>: none identified</p> <p><em>Libya-Tunisia</em>: none identified</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 18,831 (Sudan) (refugees and asylum seekers), 14,356 (Syria) (refugees and asylum seekers), 5,318 (Eritrea) (2022)<br>
+_refugees (country of origin)_: 19,827 (Sudan) (refugees and asylum seekers), 14,462 (Syria) (refugees and asylum seekers), 5,773 (Eritrea) (2022)<br>
 _IDPs_: 134,787 (conflict between pro-QADHAFI and anti-QADHAFI forces in 2011; post-QADHAFI tribal clashes 2014) (2022)<br>
 

@@ -307,7 +307,7 @@ _industrial_: 1.1 billion cubic meters (2017 est.)<br>
 _agricultural_: 86 billion cubic meters (2017 est.)<br>
 
 **Total renewable water resources**<br>
-137.045 billion cubic meters (2017 est.)<br>
+137 billion cubic meters (2017 est.)<br>
 
 ## Government
 
@@ -405,7 +405,7 @@ _selected World Heritage Site locales_: Persepolis (c); Tchogha Zanbil (c); Bam 
 ## Economy
 
 **Economic overview**<br>
-<p>Iran's economy is marked by statist policies, inefficiencies, and reliance on oil and gas exports, but Iran also possesses significant agricultural, industrial, and service sectors. The Iranian government directly owns and operates hundreds of state-owned enterprises and indirectly controls many companies affiliated with the country's security forces. Distortions - including corruption, price controls, subsidies, and a banking system holding billions of dollars of non-performing loans - weigh down the economy, undermining the potential for private-sector-led growth.</p> <p> </p> <p>Private sector activity includes small-scale workshops, farming, some manufacturing, and services, in addition to medium-scale construction, cement production, mining, and metalworking. Significant informal market activity flourishes and corruption is widespread.</p> <p> </p> <p>The lifting of most nuclear-related sanctions under the Joint Comprehensive Plan of Action (JCPOA) in January 2016 sparked a restoration of Iran’s oil production and revenue that drove rapid GDP growth, but economic growth declined in 2017 as oil production plateaued. The economy continues to suffer from low levels of investment and declines in productivity since before the JCPOA, and from high levels of unemployment, especially among women and college-educated Iranian youth.</p> <p> </p> <p>In May 2017, the re-election of President Hasan RUHANI generated widespread public expectations that the economic benefits of the JCPOA would expand and reach all levels of society. RUHANI will need to implement structural reforms that strengthen the banking sector and improve Iran’s business climate to attract foreign investment and encourage the growth of the private sector. Sanctions that are not related to Iran’s nuclear program remain in effect, and these—plus fears over the possible re-imposition of nuclear-related sanctions—will continue to deter foreign investors from engaging with Iran.</p><br>
+traditionally state-controlled economy but reforming state-owned financial entities; strong oil/gas, agricultural, and service sectors; recent massive inflation due to exchange rate depreciation, international sanctions, and investor uncertainty; increasing poverty<br>
 
 **Real GDP (purchasing power parity)**<br>
 $1.319 trillion (2021 est.)<br>

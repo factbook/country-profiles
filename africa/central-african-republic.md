@@ -420,7 +420,7 @@ _selected World Heritage Site locales_: Manovo-Gounda St. Floris National Park; 
 ## Economy
 
 **Economic overview**<br>
-<p>Subsistence agriculture, together with forestry and mining, remains the backbone of the economy of the Central African Republic (CAR), with about 60% of the population living in outlying areas. The agricultural sector generates more than half of estimated GDP, although statistics are unreliable in the conflict-prone country. Timber and diamonds account for most export earnings, followed by cotton. Important constraints to economic development include the CAR's landlocked geography, poor transportation system, largely unskilled work force, and legacy of misdirected macroeconomic policies. Factional fighting between the government and its opponents remains a drag on economic revitalization. Distribution of income is highly unequal and grants from the international community can only partially meet humanitarian needs. CAR shares a common currency with the Central African Monetary Union. The currency is pegged to the Euro.</p> <p> </p> <p>Since 2009, the IMF has worked closely with the government to institute reforms that have resulted in some improvement in budget transparency, but other problems remain. The government's additional spending in the run-up to the 2011 election worsened CAR's fiscal situation. In 2012, the World Bank approved $125 million in funding for transport infrastructure and regional trade, focused on the route between CAR's capital and the port of Douala in Cameroon. In July 2016, the IMF approved a three-year extended credit facility valued at $116 million; in mid-2017, the IMF completed a review of CAR’s fiscal performance and broadly approved of the government’s management, although issues with revenue collection, weak government capacity, and transparency remain. The World Bank in late 2016 approved a $20 million grant to restore basic fiscal management, improve transparency, and assist with economic recovery.</p> <p> </p> <p>Participation in the Kimberley Process, a commitment to remove conflict diamonds from the global supply chain, led to a partially lifted the ban on diamond exports from CAR in 2015, but persistent insecurity is likely to constrain real GDP growth.</p><br>
+enormous natural resources; extreme poverty; weak public institutions and infrastructure; political and gender-based violence have led to displacement of roughly 25% of population; Bangui-Douala corridor blockade reduced activity and tax collection; strong agricultural performance offset COVID-19 downturn<br>
 
 **Real GDP (purchasing power parity)**<br>
 $4.483 billion (2019 est.)<br>
@@ -698,7 +698,7 @@ Central African Armed Forces (Forces Armees Centrafricaines, FACA): Army (includ
 information varies; approximately 8,000 FACA troops; up to 2,000 Gendarmerie; approximately 2,000 Mixed Special Security Units (2022)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the FACA is lightly and poorly armed with mostly outdated weapons; since 2010, it has received small amounts of second-hand equipment from China, Russia, and Ukraine (2021)<br>
+the FACA is lightly armed; most of the military's heavy weapons and equipment were destroyed or captured during the 2012–2014 civil war; prior to the war, most of its equipment was of French, Russian, or Soviet origin; in recent years, it has received small amounts of secondhand equipment from China, Russia, and Ukraine  (2022)<br>
 <strong>note:</strong> since 2013, CAR has been under a UNSC arms embargo; the embargo bans all supplies of arms and related materiel to the country except to the CAR security forces if approved in advance by the relevant UN Sanctions Committee<br>
 
 **Military service age and obligation**<br>
@@ -713,6 +713,6 @@ the 2013 coup resulted in the institutional collapse of the FACA; its forces wer
 <p><em>Central African Republic-South Sudan:</em> periodic violent skirmishes persist among related pastoral populations along the border with South Sudan over water and grazing rights</p> <p><em>Central African Republic-Sudan: </em>periodic violent skirmishes persist among related pastoral populations along the border with Sudan over water and grazing rights</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 6,613 (Democratic Republic of Congo) (2022)<br>
+_refugees (country of origin)_: 6,365 (Democratic Republic of Congo) (2022)<br>
 _IDPs_: 518,116 (clashes between army and rebel groups since 2005; tensions between ethnic groups) (2022)<br>
 

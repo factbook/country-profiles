@@ -143,9 +143,6 @@ the flag of the UK is used<br>
 
 ## Economy
 
-**Economic overview**<br>
-Economic activity is limited to providing services to the military and their families located in Dhekelia. All food and manufactured goods must be imported.<br>
-
 **Industries**<br>
 none<br>
 

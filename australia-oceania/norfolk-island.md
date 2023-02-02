@@ -272,7 +272,7 @@ _lyrics/music_: New Testament/John Prindle SCOTT<br>
 ## Economy
 
 **Economic overview**<br>
-Norfolk Island is suffering from a severe economic downturn. Tourism, the primary economic activity, is the main driver of economic growth. The agricultural sector has become self-sufficient in the production of beef, poultry, and eggs.<br>
+high-income Australian territorial economy; key tourism and re-exportation industries; small labor force and declining participation creating more part-time jobs; former tax haven; increasing medical cannabis exporter; little transportation infrastructure<br>
 
 **Real GDP (purchasing power parity)**<br>
 <p>NA</p><br>

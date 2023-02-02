@@ -311,7 +311,7 @@ _lyrics/music_: Conrad HOWELL<br>
 ## Economy
 
 **Economic overview**<br>
-The Turks and Caicos economy is based on tourism, offshore financial services, and fishing. Most capital goods and food for domestic consumption are imported. The US is the leading source of tourists, accounting for more than three-quarters of the more than 1 million visitors that arrive annually. Three-quarters of the visitors come by ship. Major sources of government revenue also include fees from offshore financial activities and customs receipts.<br>
+British Caribbean island territorial economy; GDP and its tourism industry hit hard by COVID-19 disruptions; major biodiversity locale; US dollar user; fossil fuel dependent; negative trade balance; increasing unemployment<br>
 
 **Real GDP (purchasing power parity)**<br>
 $835.171 million (2021 est.)<br>

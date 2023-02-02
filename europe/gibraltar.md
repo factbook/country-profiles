@@ -291,7 +291,7 @@ _lyrics/music_: Peter EMBERLEY<br>
 ## Economy
 
 **Economic overview**<br>
-<p>Self-sufficient Gibraltar benefits from an extensive shipping trade, offshore banking, and its position as an international conference center. Tax rates are low to attract foreign investment. The British military presence has been sharply reduced and now contributes about 7% to the local economy, compared with 60% in 1984. In recent years, Gibraltar has seen major structural change from a public to a private sector economy, but changes in government spending still have a major impact on the level of employment.</p> <p> </p> <p>The financial sector, tourism (over 11 million visitors in 2012), gaming revenues, shipping services fees, and duties on consumer goods also generate revenue. The financial sector, tourism, and the shipping sector contribute 30%, 30%, and 25%, respectively, of GDP. Telecommunications, e-commerce, and e-gaming account for the remaining 15%.</p><br>
+British territorial high-income economy; Brexit caused significant economic disruption to longstanding financial services, shipping, and tourism industries; ongoing negotiations to rejoin EU Schengen Area; independent taxation authority<br>
 
 **Real GDP (purchasing power parity)**<br>
 $2.044 billion (2014 est.)<br>

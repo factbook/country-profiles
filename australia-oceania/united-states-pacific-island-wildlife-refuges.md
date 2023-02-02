@@ -138,9 +138,6 @@ the flag of the US is used<br>
 
 ## Economy
 
-**Economic overview**<br>
-no economic activity<br>
-
 ## Energy
 
 ## Transportation
@@ -162,10 +159,6 @@ _1,524 to 2,437 m_: 1 (2016) - Palmyra Atoll<br>
 
 **Ports and terminals**<br>
 _major seaport(s)_: Baker, Howland, and Jarvis Islands, and Kingman Reef<br>
-_Baker, Howland, and Jarvis Islands, and Kingman Reef_: none; offshore anchorage only<br>
-_Johnston Atoll_: Johnston Island<br>
-_Midway Islands_: Sand Island<br>
-_Palmyra Atoll_: West Lagoon<br>
 
 ## Military and Security
 

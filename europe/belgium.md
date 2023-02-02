@@ -392,7 +392,7 @@ _selected World Heritage Site locales_: Belfries of Belgium (c); Historic Brugge
 ## Economy
 
 **Economic overview**<br>
-<p>Belgium’s central geographic location and highly developed transport network have helped develop a well-diversified economy, with a broad mix of transport, services, manufacturing, and high tech. Service and high-tech industries are concentrated in the northern Flanders region while the southern region of Wallonia is home to industries like coal and steel manufacturing. Belgium is completely reliant on foreign sources of fossil fuels, and the planned closure of its seven nuclear plants by 2025 should increase its dependence on foreign energy. Its role as a regional logistical hub makes its economy vulnerable to shifts in foreign demand, particularly with EU trading partners. Roughly three-quarters of Belgium's trade is with other EU countries, and the port of Zeebrugge conducts almost half its trade with the United Kingdom alone, leaving Belgium’s economy vulnerable to the outcome of negotiations on the UK’s exit from the EU.</p> <p> </p> <p>Belgium’s GDP grew by 1.7% in 2017 and the budget deficit was 1.5% of GDP. Unemployment stood at 7.3%, however the unemployment rate is lower in Flanders than Wallonia, 4.4% compared to 9.4%, because of industrial differences between the regions. The economy largely recovered from the March 2016 terrorist attacks that mainly impacted the Brussels region tourist and hospitality industry. Prime Minister Charles MICHEL's center-right government has pledged to further reduce the deficit in response to EU pressure to decrease Belgium's high public debt of about 104% of GDP, but such efforts would also dampen economic growth. In addition to restrained public spending, low wage growth and higher inflation promise to curtail a more robust recovery in private consumption.</p> <p> </p> <p>The government has pledged to pursue a reform program to improve Belgium’s competitiveness, including changes to labor market rules and welfare benefits. These changes have generally made Belgian wages more competitive regionally, but have raised tensions with trade unions, which have called for extended strikes. In 2017, Belgium approved a tax reform plan to ease corporate rates from 33% to 29% by 2018 and down to 25% by 2020. The tax plan also included benefits for innovation and SMEs, intended to spur competitiveness and private investment.</p><br>
+high income economy with strong but moderate growth; high public debt; aging labor force; low labor force participation of low-skilled, migrant, and older workers; strong welfare system; high congestion; complex business permitting and judicial systems<br>
 
 **Real GDP (purchasing power parity)**<br>
 $599.814 billion (2021 est.)<br>
@@ -699,7 +699,7 @@ Belgian Armed Forces: Land Component, Marine (Naval) Component, Air Component, M
 approximately 25,000 active duty personnel (10,000 Land Component; 1,500 Marine Component; 5,000 Air Force Component; 1,500 Medical Service; 7,000 other, including joint staff, support, and training schools) (2022)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the Belgian Armed Forces have a mix of weapons systems from European countries, Israel, and the US; since 2010, several European nations have been the leading suppliers of armaments; Belgium has an export-focused defense industry that focuses on components and subcontracting (2021)<br>
+the armed forces have a mix of weapons systems from European countries, Israel, and the US; Belgium has an export-focused defense industry that focuses on components and subcontracting (2022)<br>
 
 **Military service age and obligation**<br>
 18 years of age for voluntary military service for men and women; conscription abolished in 1995 (2022)<br>
@@ -724,7 +724,7 @@ Islamic Revolutionary Guard Corps/Qods Force; Islamic State of Iraq and ash-Sham
 <p>none identified</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 20,086 (Syria), 7,049 (Afghanistan), 5,769 (Iraq) (mid-year 2022); 66,416 (Ukraine) (as of 16 January 2023)<br>
+_refugees (country of origin)_: 20,086 (Syria), 7,049 (Afghanistan), 5,769 (Iraq) (mid-year 2022); 66,717 (Ukraine) (as of 23 January 2023)<br>
 _stateless persons_: 1,159 (mid-year 2021)<br>
 
 **Illicit drugs**<br>

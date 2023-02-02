@@ -237,9 +237,6 @@ the flag of Australia is used<br>
 
 ## Economy
 
-**Economic overview**<br>
-Coconuts, grown throughout the islands, are the sole cash crop. Small local gardens and fishing contribute to the food supply, but additional food and most other necessities must be imported from Australia. There is a small tourist industry.<br>
-
 **Real GDP (purchasing power parity)**<br>
 <p>NA</p><br>
 

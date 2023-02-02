@@ -341,7 +341,7 @@ _election results_: <em>2022:</em> Natasa PIRC MUSAR elected in second round: pe
 
 **Legislative branch**<br>
 _description_: bicameral Parliament consists of:<br>National Council (State Council)or Drzavni Svet (40 seats; members indirectly elected by an electoral college to serve 5-year terms); note - the Council is primarily an advisory body with limited legislative powers<br>National Assembly or Drzavni Zbor (90 seats; 88 members directly elected in single-seat constituencies by proportional representation vote and 2 directly elected in special constituencies for Italian and Hungarian minorities by simple majority vote; members serve 4-year terms)<br>
-_elections_: <br>National Council - last held on 22 November 2017 (next to be held on 23 October 2022)<br>National Assembly - last held on 24 April 2022 (next to be held in 2026)<br>
+_elections_: <br>National Council - last held on 24 November 2022 (next to be held in 2027)<br>National Assembly - last held on 24 April 2022 (next to be held in 2026)<br>
 _election results_: <br>National Council - percent of vote by party - NA; seats by party - NA; composition - men 36, women 4, percent of women 10%<br>National Assembly - percent of vote by party - GS 34.5%, SDS 23.5%, NSi 6.9%, SD 6.7%, Levica 4.4%, other 24%; seats by party - GS 41, SDS 27, NSi 8, SD 7, Levica 5; composition - men 54, women 36, percent of women 40%; note - total Parliament percent of women 30.8%<br>
 
 **Judicial branch**<br>
@@ -389,7 +389,7 @@ _selected World Heritage Site locales_: &Scaron;kocjan Caves (n); Ancient and Pr
 ## Economy
 
 **Economic overview**<br>
-<p>With excellent infrastructure, a well-educated work force, and a strategic location between the Balkans and Western Europe, Slovenia has one of the highest per capita GDPs in Central Europe, despite having suffered a protracted recession in the 2008-09 period in the wake of the global financial crisis. Slovenia became the first 2004 EU entrant to adopt the euro (on 1 January 2007) and has experienced a stable political and economic transition.</p> <p> </p> <p>In March 2004, Slovenia became the first transition country to graduate from borrower status to donor partner at the World Bank. In 2007, Slovenia was invited to begin the process for joining the OECD; it became a member in 2012. From 2014 to 2016, export-led growth, fueled by demand in larger European markets, pushed annual GDP growth above 2.3%. Growth reached 5.0% in 2017 and is projected to near or reach 5% in 2018. What used to be stubbornly high unemployment fell below 5.5% in early 2018, driven by strong exports and increasing consumption that boosted labor demand. Continued fiscal consolidation through increased tax collection and social security contributions will likely result in a balanced government budget in 2019.</p> <p> </p> <p>Prime Minister CERAR’s government took office in September 2014, pledging to press ahead with commitments to privatize a select group of state-run companies, rationalize public spending, and further stabilize the banking sector. Efforts to privatize Slovenia’s largely state-owned banking sector have largely stalled, however, amid concerns about an ongoing dispute over Yugoslav-era foreign currency deposits.</p><br>
+high-income, fast-growing EU-member economy; high human capital; key health infrastructure investments; high government spending; key Croatian investments; high-technology and manufacturing sectors; growing financial hub<br>
 
 **Real GDP (purchasing power parity)**<br>
 $84.4 billion (2021 est.)<br>
@@ -684,10 +684,10 @@ Slovenian Armed Forces (Slovenska Vojska, SV): structured as a combined force wi
 1% of GDP (2018) (approximately $750 million)<br>
 
 **Military and security service personnel strengths**<br>
-approximately 6,000 active duty troops (2022)<br>
+approximately 6,000 active-duty troops (2022)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the military's inventory is a mix of Soviet-era and smaller quantities of more modern Russian and Western equipment; since 2010, it has received limited amounts of military equipment from several countries led by France and Russia (2021)<br>
+the military's inventory is a mix of Soviet-era and smaller quantities of more modern Russian and Western equipment (2022)<br>
 
 **Military service age and obligation**<br>
 18-25 years of age for voluntary military service for men and women; conscription abolished in 2003 (2021)<br>

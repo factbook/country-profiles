@@ -154,7 +154,7 @@ the flag of France is used<br>
 ## Economy
 
 **Economic overview**<br>
-Economic activity is limited to servicing meteorological and geophysical research stations, military bases, and French and other fishing fleets. The fish catches landed on Iles Kerguelen by foreign ships are exported to France and Reunion.<br>
+very small, fishing-based, domestic economic activity; military base servicing<br>
 
 ## Communications
 

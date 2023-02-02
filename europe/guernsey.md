@@ -287,7 +287,7 @@ _lyrics/music_: George DEIGHTON/Domencio SANTANGELO<br>
 ## Economy
 
 **Economic overview**<br>
-Financial services accounted for about 21% of employment and about 32% of total income in 2016 in this tiny, prosperous Channel Island economy. Construction, manufacturing, and horticulture, mainly tomatoes and cut flowers, have been declining. Financial services, professional services, tourism, retail, and the public sector have been growing. Light tax and death duties make Guernsey a popular offshore financial center.<br>
+high-income English Channel island economy; strong financial sector but stressed due to COVID-19 disruptions; manufacturing, tourism, and construction industries suffered but expected to recover; stable inflation; maintains independent taxation authority<br>
 
 **Real GDP (purchasing power parity)**<br>
 $3.465 billion (2015 est.)<br>

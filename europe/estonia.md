@@ -393,7 +393,7 @@ _selected World Heritage Site locales_: Historic Center (Old Town) of Tallinn; S
 ## Economy
 
 **Economic overview**<br>
-<p>Estonia, a member of the EU since 2004 and the euro zone since 2011, has a modern market-based economy and one of the higher per capita income levels in Central Europe and the Baltic region, but its economy is highly dependent on trade, leaving it vulnerable to external shocks. Estonia's successive governments have pursued a free market, pro-business economic agenda, and sound fiscal policies that have resulted in balanced budgets and the lowest debt-to-GDP ratio in the EU.</p> <p> </p> <p>The economy benefits from strong electronics and telecommunications sectors and strong trade ties with Finland, Sweden, Germany, and Russia. The economy’s 4.9% GDP growth in 2017 was the fastest in the past six years, leaving the Estonian economy in its best position since the financial crisis 10 years ago. For the first time in many years, labor productivity increased faster than labor costs in 2017. Inflation also rose in 2017 to 3.5% alongside increased global prices for food and energy, which make up a large share of Estonia’s consumption.</p> <p> </p> <p>Estonia is challenged by a shortage of labor, both skilled and unskilled, although the government has amended its immigration law to allow easier hiring of highly qualified foreign workers, and wage growth that outpaces productivity gains. The government is also pursuing efforts to boost productivity growth with a focus on innovations that emphasize technology start-ups and e-commerce.</p><br>
+advanced service-based EU and OECD economy; regional trade and telecommunications leader; recently rejected Baltic sea rail tunnel from Tallinn to Helsinki; flat income taxation; substantial welfare system; balanced budget culture; business-friendly climate<br>
 
 **Real GDP (purchasing power parity)**<br>
 $51.531 billion (2021 est.)<br>
@@ -699,7 +699,7 @@ Estonian Defense Forces: Land Forces, Navy, Air Force, Estonian Defense League (
 approximately 7,000 active duty personnel; approximately 15,000 Defense League (2022)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the Estonian military has a limited inventory of Soviet-era and some more recently acquired modern weapons systems, largely from western European countries, particularly France and the Netherlands (2021)<br>
+the Estonian military has a mix of Soviet-era and more modern equipment, mostly from western European suppliers (2022)<br>
 
 **Military service age and obligation**<br>
 18-27 for compulsory military or governmental service for men; conscript service requirement 8-11 months depending on education; non-commissioned officers, reserve officers, and specialists serve 11 months; women can volunteer, and as of 2018 could serve in any military branch (2022)<br>
@@ -714,7 +714,7 @@ Estonia became a member of NATO in 2004<br><br>since 2017, Estonia has hosted a 
 <p>Russia and Estonia in May 2005 signed a technical border agreement, but Russia in June 2005 recalled its signature after the Estonian parliament added to its domestic ratification act a historical preamble referencing the Soviet occupation and Estonia's pre-war borders under the 1920 Treaty of Tartu; Russia contends that the preamble allows Estonia to make territorial claims on Russia in the future, while Estonian officials deny that the preamble has any legal impact on the treaty text; Russia demands better treatment of the Russian-speaking population in Estonia; as a member state that forms part of the EU's external border, Estonia implements strict Schengen border rules with Russia</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 66,074 (Ukraine) (as of 16 January 2023)<br>
+_refugees (country of origin)_: 66,372 (Ukraine) (as of 23 January 2023)<br>
 _stateless persons_: 71,873 (mid-year 2021); note - following independence in 1991, automatic citizenship was restricted to those who were Estonian citizens prior to the 1940 Soviet occupation and their descendants; thousands of ethnic Russians remained stateless when forced to choose between passing Estonian language and citizenship tests or applying for Russian citizenship; one reason for demurring on Estonian citizenship was to retain the right of visa-free travel to Russia; stateless residents can vote in local elections but not general elections; stateless parents who have been lawful residents of Estonia for at least five years can apply for citizenship for their children before they turn 15 years old<br>
 
 **Illicit drugs**<br>

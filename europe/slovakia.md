@@ -396,7 +396,7 @@ _selected World Heritage Site locales_: Historic Town of Bansk&aacute; &Scaron;t
 ## Economy
 
 **Economic overview**<br>
-<p>Slovakia’s economy suffered from a slow start in the first years after its separation from the Czech Republic in 1993, due to the country’s authoritarian leadership and high levels of corruption, but economic reforms implemented after 1998 have placed Slovakia on a path of strong growth. With a population of 5.4 million, the Slovak Republic has a small, open economy driven mainly by automobile and electronics exports, which account for more than 80% of GDP. Slovakia joined the EU in 2004 and the euro zone in 2009. The country’s banking sector is sound and predominantly foreign owned.</p> <p> </p> <p>Slovakia has been a regional FDI champion for several years, attractive due to a relatively low-cost yet skilled labor force, and a favorable geographic location in the heart of Central Europe. Exports and investment have been key drivers of Slovakia’s robust growth in recent years. The unemployment rate fell to historical lows in 2017, and rising wages fueled increased consumption, which played a more prominent role in 2017 GDP growth. A favorable outlook for the Eurozone suggests continued strong growth prospects for Slovakia during the next few years, although inflation is also expected to pick up.</p> <p> </p> <p>Among the most pressing domestic issues potentially threatening the attractiveness of the Slovak market are shortages in the qualified labor force, persistent corruption issues, and an inadequate judiciary, as well as a slow transition to an innovation-based economy. The energy sector in particular is characterized by unpredictable regulatory oversight and high costs, in part driven by government interference in regulated tariffs. Moreover, the government’s attempts to maintain low household energy prices could harm the profitability of domestic energy firms while undercutting energy efficiency initiatives.</p><br>
+high-income, EU-member European economy; major electronics and automobile exporter; new anticorruption and judiciary reforms; low unemployment; low regional innovation; strong financial sector<br>
 
 **Real GDP (purchasing power parity)**<br>
 $173.582 billion (2021 est.)<br>
@@ -689,10 +689,10 @@ Armed Forces of the Slovak Republic (Ozbrojene Sily Slovenskej Republiky): Land 
 1.2% of GDP (2018) (approximately $1.72 billion)<br>
 
 **Military and security service personnel strengths**<br>
-approximately 14,000 active duty personnel (8,000 Land Forces; 4,000 Air Forces; 2,000 other, including staff, special operations, and support forces) (2022)<br>
+approximately 14,000 active-duty personnel (8,000 Land Forces; 4,000 Air Forces; 2,000 other, including staff, special operations, and support forces) (2022)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the military's inventory consists mostly of Soviet-era platforms; since 2010, it has imported limited quantities of equipment, particularly from Italy and the US (2021)<br>
+the military's inventory consists mostly of Soviet-era platforms; in recent years, it has imported limited quantities of more modern equipment, particularly from Italy and the US (2022)<br>
 
 **Military service age and obligation**<br>
 18-30 years of age for voluntary military service for men and women; conscription in peacetime suspended in 2004 (2021)<br>
@@ -711,7 +711,7 @@ Slovakia became a member of NATO in 2004<br><br>in 2022, Slovakia agreed to host
 <p><em>Slovakia-Austria</em>: none identified</p> <p><em>Slovakia-Czechia</em>: none identified</p> <p><em>Slovakia-Hungary</em>: initiated by the 1977 Budapest Treaty, Hungary and formerly Czechoslovakia agreed to a hydroelectric dam project on the Danube with dams to be constructed at Gabcikovo (Slovakia) and Nagymaros (Hungary) to prevent floods, improve river navigability, and to generate electricity; when Hungary suspended work on the project until its environmental impact could be assessed, Slovakia continued working on it and adopted a pared down strategy to divert the Danube so that all construction was within Czechoslovakian territory; Hungary terminated the project on environmental and economic grounds in 1989, and in 1992 both countries took the matter to the International Court of Justice (ICJ); the ICJ found largely in favor of then Slovakia, finding Hungary had breached their agreement; however, then Czechoslovakia should not have begun the alternative plan before the ICJ ruled on the case; in 2017, Hungary and Slovakia agreed to discontinue the ICJ proceedings</p> <p><em>Slovakia-Poland</em>: none identified</p> <p><em>Slovakia-Ukraine</em>: tens of thousands of Ukrainian refugees are crossing the border to Slovakia to escape the Russian invasion in their country</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 107,476 (Ukraine) (as of 17 January 2023)<br>
+_refugees (country of origin)_: 107,203 (Ukraine) (as of 24 January 2023)<br>
 _stateless persons_: 1,532 (mid-year 2021)<br>
 
 **Illicit drugs**<br>

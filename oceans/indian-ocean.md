@@ -82,9 +82,6 @@ _etymology_: named for the country of India, which makes up much of its northern
 
 ## Economy
 
-**Economic overview**<br>
-The Indian Ocean provides major sea routes connecting the Middle East, Africa, and East Asia with Europe and the Americas. It carries a particularly heavy traffic of petroleum and petroleum products from the oilfields of the Persian Gulf and Indonesia. Its fish are of great and growing importance to the bordering countries for domestic consumption and export. Fishing fleets from Russia, Japan, South Korea, and Taiwan also exploit the Indian Ocean, mainly for shrimp and tuna. Large reserves of hydrocarbons are being tapped in the offshore areas of Saudi Arabia, Iran, India, and western Australia. An estimated 40% of the world's offshore oil production comes from the Indian Ocean. Beach sands rich in heavy minerals and offshore placer deposits are actively exploited by bordering countries, particularly India, South Africa, Indonesia, Sri Lanka, and Thailand.<br>
-
 ## Transportation
 
 **Ports and terminals**<br>

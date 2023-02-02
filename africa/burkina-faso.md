@@ -419,7 +419,7 @@ _selected World Heritage Site locales_: Ruins of Lorop&eacute;ni (c); Ancient Fe
 ## Economy
 
 **Economic overview**<br>
-<p>Burkina Faso is a poor, landlocked country that depends on adequate rainfall. Irregular patterns of rainfall, poor soil, and the lack of adequate communications and other infrastructure contribute to the economy’s vulnerability to external shocks. About 80% of the population is engaged in subsistence farming and cotton is the main cash crop. The country has few natural resources and a weak industrial base.</p> <p> </p> <p>Cotton and gold are Burkina Faso’s key exports - gold has accounted for about three-quarters of the country’s total export revenues. Burkina Faso’s economic growth and revenue depends largely on production levels and global prices for the two commodities. The country has seen an upswing in gold exploration, production, and exports.</p> <p> </p> <p>In 2016, the government adopted a new development strategy, set forth in the 2016-2020 National Plan for Economic and Social Development, that aims to reduce poverty, build human capital, and to satisfy basic needs. A new three-year IMF program (2018-2020), approved in 2018, will allow the government to reduce the budget deficit and preserve critical spending on social services and priority public investments.</p> <p> </p> <p>While the end of the political crisis has allowed Burkina Faso’s economy to resume positive growth, the country’s fragile security situation could put these gains at risk. Political insecurity in neighboring Mali, unreliable energy supplies, and poor transportation links pose long-term challenges.</p><br>
+highly agrarian, low-income economy; limited natural resources; widespread poverty; terrorism disrupting potential economic activity; improving trade balance via increases in gold exports; economy inflating after prior deflation; growing public debt but still manageable<br>
 
 **Real GDP (purchasing power parity)**<br>
 $48.175 billion (2021 est.)<br>
@@ -708,7 +708,7 @@ approximately 13,000 personnel (8,000 Army; 500 Air Force; 4,500 National Gendar
 <strong>note 1: </strong>in 2019, the Burkina Faso Government announced an initial strength goal for the VDF of 15,000 members, but in October 2022 announced plans to recruit up to 50,000 VDF volunteers<br><strong><br>note 2:</strong>  in 2022, Burkina Faso announced a special recruitment for 3,000 additional soldiers to assist with its fight against terrorist groups operating in the country<br>
 
 **Military equipment inventories and acquisitions**<br>
-the FABF has a mix of foreign-supplied weapons; since 2010, it has received limited amounts of mostly donated second-hand equipment from a variety of countries (2022)<br>
+the FABF has a mix of mostly older or secondhand equipment from a mix of suppliers, including France, South Africa, the UK, and the US (2022)<br>
 
 **Military service age and obligation**<br>
 18-26 years of age for voluntary military service; no conscription; women may serve in supporting roles (2022)<br>

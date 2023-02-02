@@ -282,7 +282,7 @@ _lyrics/music_: Gerard KEMPS<br>
 ## Economy
 
 **Economic overview**<br>
-The economy of Sint Maarten centers around tourism with nearly four-fifths of the labor force engaged in this sector. Nearly 1.8 million visitors came to the island by cruise ship and roughly 500,000 visitors arrived through Princess Juliana International Airport in 2013. Cruise ships and yachts also call on Sint Maarten's numerous ports and harbors. Limited agriculture and local fishing means that almost all food must be imported. Energy resources and manufactured goods are also imported. Sint Maarten had the highest per capita income among the five islands that formerly comprised the Netherlands Antilles.<br>
+high-income, tourism-based Dutch autonomous constituent economy; severe hurricane- and COVID-19-related economic recessions; multilateral trust fund helping offset economic downturn; no property taxation; re-exporter to Saint Martin<br>
 
 **Real GDP (purchasing power parity)**<br>
 $1.436 billion (2018 est.)<br>

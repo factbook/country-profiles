@@ -437,7 +437,7 @@ _selected World Heritage Site locales_: Medina of Fez; Medina of Marrakesh; Ksar
 ## Economy
 
 **Economic overview**<br>
-<p>Morocco has capitalized on its proximity to Europe and relatively low labor costs to work towards building a diverse, open, market-oriented economy. Key sectors of the economy include agriculture, tourism, aerospace, automotive, phosphates, textiles, apparel, and subcomponents. Morocco has increased investment in its port, transportation, and industrial infrastructure to position itself as a center and broker for business throughout Africa. Industrial development strategies and infrastructure improvements - most visibly illustrated by a new port and free trade zone near Tangier - are improving Morocco's competitiveness.</p> <p> </p> <p>In the 1980s, Morocco was a heavily indebted country before pursuing austerity measures and pro-market reforms, overseen by the IMF. Since taking the throne in 1999, King MOHAMMED VI has presided over a stable economy marked by steady growth, low inflation, and gradually falling unemployment, although poor harvests and economic difficulties in Europe contributed to an economic slowdown. To boost exports, Morocco entered into a bilateral Free Trade Agreement with the US in 2006 and an Advanced Status agreement with the EU in 2008. In late 2014, Morocco eliminated subsidies for gasoline, diesel, and fuel oil, dramatically reducing outlays that weighed on the country’s budget and current account. Subsidies on butane gas and certain food products remain in place. Morocco also seeks to expand its renewable energy capacity with a goal of making renewable more than 50% of installed electricity generation capacity by 2030.</p> <p> </p> <p>Despite Morocco's economic progress, the country suffers from high unemployment, poverty, and illiteracy, particularly in rural areas. Key economic challenges for Morocco include reforming the education system and the judiciary.</p><br>
+lower middle-income North African economy; COVID-19 brought first recession since 1995; reforming state-owned enterprises and expanding welfare system; large tourism, manufacturing, and aeronautics industries; managed debt<br>
 
 **Real GDP (purchasing power parity)**<br>
 $303.336 billion (2021 est.)<br>
@@ -744,7 +744,7 @@ Royal Armed Forces: Royal Moroccan Army (includes the Moroccan Royal Guard), Roy
 approximately 200,000 active personnel (175,000 Army; 10,000 Navy; 15,000 Air Force); estimated 20,000 Gendarmerie; estimated 5,000 Mobile Intervention Corps (2022)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the Moroccan military's inventory is comprised of mostly older French and US equipment; since 2010, it has received equipment from about a dozen countries with France and the US as the leading suppliers (2021)<br>
+the Moroccan military's inventory is comprised of mostly older French and US equipment; in recent years, it has received some more modern equipment from a variety of countries with France and the US as the leading suppliers (2022)<br>
 
 **Military service age and obligation**<br>
 19-25 years of age for 12-month compulsory and voluntary military service for men and women (conscription abolished 2006 and reintroduced in 2019) (2022)<br>

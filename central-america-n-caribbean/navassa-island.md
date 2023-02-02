@@ -137,9 +137,6 @@ the flag of the US is used<br>
 
 ## Economy
 
-**Economic overview**<br>
-Subsistence fishing and commercial trawling occur within refuge waters.<br>
-
 ## Transportation
 
 **Ports and terminals**<br>

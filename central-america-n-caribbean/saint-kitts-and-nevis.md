@@ -357,7 +357,7 @@ _selected World Heritage Site locales_: Brimstone Hill Fortress National Park<br
 ## Economy
 
 **Economic overview**<br>
-<p>The economy of Saint Kitts and Nevis depends on tourism; since the 1970s, tourism has replaced sugar as the economy’s traditional mainstay. Roughly 200,000 tourists visited the islands in 2009, but reduced tourism arrivals and foreign investment led to an economic contraction in the 2009-2013 period, and the economy returned to growth only in 2014. Like other tourist destinations in the Caribbean, Saint Kitts and Nevis is vulnerable to damage from natural disasters and shifts in tourism demand.</p> <p> </p> <p>Following the 2005 harvest, the government closed the sugar industry after several decades of losses. To compensate for lost jobs, the government has embarked on a program to diversify the agricultural sector and to stimulate other sectors of the economy, such as export-oriented manufacturing and offshore banking. The government has made notable progress in reducing its public debt, from 154% of GDP in 2011 to 83% in 2013, although it still faces one of the highest levels in the world, largely attributable to public enterprise losses. Saint Kitts and Nevis is among other countries in the Caribbean that supplement their economic activity through economic citizenship programs, whereby foreigners can obtain citizenship from Saint Kitts and Nevis by investing there.</p><br>
+high-income, tourism-based Caribbean island economy; better debt balancing; CARICOM member; growing offshore financial hub; environmentally fragile; unique citizenship-driven growth model; increased telecommunications focus<br>
 
 **Real GDP (purchasing power parity)**<br>
 $1.261 billion (2021 est.)<br>
@@ -609,7 +609,7 @@ Ministry of National Security: St. Kitts and Nevis Defense Force (SKNDF), St. Ki
 the SKNDF has approximately 400 personnel (2022)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the SKNDF is lightly armed with equipment from Belgium, the UK, and the US (2021)<br>
+the SKNDF is lightly armed with equipment from Belgium, the UK, and the US (2022)<br>
 
 **Military service age and obligation**<br>
 18 years of age for voluntary military service (under 18 with written parental permission); no conscription (2022)<br>

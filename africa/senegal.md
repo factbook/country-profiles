@@ -428,7 +428,7 @@ _selected World Heritage Site locales_: Island of Gor&eacute;e (c); Niokolo-Koba
 ## Economy
 
 **Economic overview**<br>
-<p>Senegal’s economy is driven by mining, construction, tourism, fisheries and agriculture, which are the primary sources of employment in rural areas. The country's key export industries include phosphate mining, fertilizer production, agricultural products and commercial fishing and Senegal is also working on oil exploration projects. It relies heavily on donor assistance, remittances and foreign direct investment. Senegal reached a growth rate of 7% in 2017, due in part to strong performance in agriculture despite erratic rainfall.</p> <p> </p> <p>President Macky SALL, who was elected in March 2012 under a reformist policy agenda, inherited an economy with high energy costs, a challenging business environment, and a culture of overspending. President SALL unveiled an ambitious economic plan, the Emerging Senegal Plan (ESP), which aims to implement priority economic reforms and investment projects to increase economic growth while preserving macroeconomic stability and debt sustainability. Bureaucratic bottlenecks and a challenging business climate are among the perennial challenges that may slow the implementation of this plan.</p> <p> </p> <p>Senegal receives technical support from the IMF under a Policy Support Instrument (PSI) to assist with implementation of the ESP. The PSI implementation continues to be satisfactory as concluded by the IMF’s fifth review in December 2017. Financial markets have signaled confidence in Senegal through successful Eurobond issuances in 2014, 2017, and 2018.</p> <p> </p> <p>The government is focusing on 19 projects under the ESP to continue The government’s goal under the ESP is structural transformation of the economy. Key projects include the Thiès-Touba Highway, the new international airport opened in December 2017, and upgrades to energy infrastructure. The cost of electricity is a chief constraint for Senegal’s development. Electricity prices in Senegal are among the highest in the world. Power Africa, a US presidential initiative led by USAID, supports Senegal’s plans to improve reliability and increase generating capacity.</p><br>
+lower middle-income, services-driven West African economy; key mining, construction, agriculture, and fishing industries; tourism and exports hit hard by COVID-19; large informal economy; developing offshore oil and gas fields; systemic corruption<br>
 
 **Real GDP (purchasing power parity)**<br>
 $58.991 billion (2021 est.)<br>
@@ -749,7 +749,7 @@ Jama&rsquo;at Nusrat al-Islam wal-Muslimin (JNIM)<br>
 <p><em>Senegal-Guinea-Bissau</em>: rebels from the Movement of Democratic Forces in the Casamance find refuge in Guinea-Bissau</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 11,490 (Mauritania) (2022)<br>
+_refugees (country of origin)_: 11,494 (Mauritania) (2022)<br>
 _IDPs_: 8,400 (2021)<br>
 
 **Trafficking in persons**<br>

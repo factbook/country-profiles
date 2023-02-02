@@ -242,7 +242,7 @@ golden bosun bird<br>
 ## Economy
 
 **Economic overview**<br>
-The main economic activities on Christmas Island are the mining of low grade phosphate, limited tourism, the provision of government services and, since 2005, the construction and operation of the Immigration Detention Center. The government sector includes administration, health, education, policing, customs, quarantine, and defense.<br>
+high-income Australian territorial economy; development through government services and phosphate mining; operates Australia&rsquo;s Immigration Detention Centre; increasing tourism and government investments; sustained environmental protections<br>
 
 **Real GDP (purchasing power parity)**<br>
 <p>NA</p><br>

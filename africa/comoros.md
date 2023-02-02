@@ -374,7 +374,7 @@ _lyrics/music_: Said Hachim SIDI ABDEREMANE/Said Hachim SIDI ABDEREMANE and Kami
 ## Economy
 
 **Economic overview**<br>
-<p>One of the world's poorest and smallest economies, the Comoros is made up of three islands that are hampered by inadequate transportation links, a young and rapidly increasing population, and few natural resources. The low educational level of the labor force contributes to a subsistence level of economic activity and a heavy dependence on foreign grants and technical assistance. Agriculture, including fishing, hunting, and forestry, accounts for about 50% of GDP, employs a majority of the labor force, and provides most of the exports. Export income is heavily reliant on the three main crops of vanilla, cloves, and ylang ylang (perfume essence); and the Comoros' export earnings are easily disrupted by disasters such as fires and extreme weather. Despite agriculture’s importance to the economy, the country imports roughly 70% of its food; rice, the main staple, and other dried vegetables account for more than 25% of imports. Remittances from about 300,000 Comorans contribute about 25% of the country’s GDP. France, Comoros’s colonial power, remains a key trading partner and bilateral donor.</p> <p> </p> <p>Comoros faces an education system in need of upgrades, limited opportunities for private commercial and industrial enterprises, poor health services, limited exports, and a high population growth rate. Recurring political instability, sometimes initiated from outside the country, and an ongoing electricity crisis have inhibited growth. The government, elected in mid-2016, has moved to improve revenue mobilization, reduce expenditures, and improve electricity access, although the public sector wage bill remains one of the highest in Sub-Saharan Africa. In mid-2017, Comoros joined the Southern African Development Community with 15 other regional member states.</p><br>
+small trade-based island economy; declining remittances; new structural and fiscal reforms; adverse cyclone and COVID-19 impacts; manageable debts; fragile liquidity environment; large foreign direct investment; state-owned enterprises suffering<br>
 
 **Real GDP (purchasing power parity)**<br>
 $2.653 billion (2021 est.)<br>
@@ -644,7 +644,7 @@ National Army for Development (l'Armee Nationale de Developpement, AND): Comoran
 estimated 600 Defense Force personnel; estimated 500 Federal Police (2022)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the defense forces are lightly armed with a mix of mostly older equipment from a variety of countries, including France, Italy, Russia, and the US (2021)<br>
+the defense forces are lightly armed with a mix of mostly older equipment from a variety of countries, including France, Italy, Russia, and the US (2022)<br>
 
 **Military service age and obligation**<br>
 18 years of age for 2-year voluntary military service for men and women; no conscription (2021)<br>

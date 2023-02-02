@@ -129,9 +129,6 @@ _etymology_: named after a British whaling captain Richard SPRATLY, who sighted 
 
 ## Economy
 
-**Economic overview**<br>
-Economic activity is limited to commercial fishing. The proximity to nearby oil- and gas-producing sedimentary basins indicate potential oil and gas deposits, but the region is largely unexplored. No reliable estimates of potential reserves are available. Commercial exploitation has yet to be developed.<br>
-
 ## Transportation
 
 **Airports**<br>

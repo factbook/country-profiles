@@ -314,7 +314,7 @@ _industrial_: 242 million cubic meters (2017 est.)<br>
 _agricultural_: 600 million cubic meters (2017 est.)<br>
 
 **Total renewable water resources**<br>
-84.14 billion cubic meters (2017 est.)<br>
+84.1 billion cubic meters (2017 est.)<br>
 
 ## Government
 
@@ -422,7 +422,7 @@ _selected World Heritage Site locales_: Como&eacute; National Park (n); Historic
 ## Economy
 
 **Economic overview**<br>
-<p>For the last 5 years Cote d'Ivoire's growth rate has been among the highest in the world. Cote d'Ivoire is heavily dependent on agriculture and related activities, which engage roughly two-thirds of the population. Cote d'Ivoire is the world's largest producer and exporter of cocoa beans and a significant producer and exporter of coffee and palm oil. Consequently, the economy is highly sensitive to fluctuations in international prices for these products and to climatic conditions. Cocoa, oil, and coffee are the country's top export revenue earners, but the country has targeted agricultural processing of cocoa, cashews, mangoes, and other commodities as a high priority. Mining gold and exporting electricity are growing industries outside agriculture.</p> <p> </p> <p>Following the end of more than a decade of civil conflict in 2011, Cote d’Ivoire has experienced a boom in foreign investment and economic growth. In June 2012, the IMF and the World Bank announced $4.4 billion in debt relief for Cote d'Ivoire under the Highly Indebted Poor Countries Initiative.</p><br>
+one of West Africa&rsquo;s most influential, stable, and rapidly developing economies; poverty declines in urban but increases in rural areas; strong construction sector and increasingly diverse economic portfolio; increasing but manageable public debt; large labor force in agriculture<br>
 
 **Real GDP (purchasing power parity)**<br>
 $146.323 billion (2021 est.)<br>

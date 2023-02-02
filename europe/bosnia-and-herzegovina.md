@@ -337,7 +337,7 @@ _residency requirement for naturalization_: 8 years<br>
 
 **Executive branch**<br>
 _chief of state_: Chairman of the Presidency Zeljka CVIJANOVIC (chairman since 16 November 2022; presidency member since 16 November 2022 - Serb seat); Zeljko KOMSIC (presidency member since 20 November 2018 - Croat seat); Denis BECIROVIC (presidency member since 16 November 2022 - Bosniak seat)<br>
-_head of government_: Chairman of the Council of Ministers Zoran TEGELTIJA &nbsp;(since 5 December 2019)<br>
+_head of government_: Chairman of the Council of Ministers Borjana KRISTO&nbsp; (since 25 January 2023)<br>
 _cabinet_: Council of Ministers nominated by the council chairman, approved by the state-level House of Representatives<br>
 _elections/appointments_: 3-member presidency (1 Bosniak and 1 Croat elected from the Federation of Bosnia and Herzegovina and 1 Serb elected from the Republika Srpska) directly elected by simple majority popular vote for a 4-year term (eligible for a second term, but then ineligible for 4 years); the presidency chairpersonship rotates every 8 months with the new member of the presidency elected with the highest number of votes starting the new mandate as chair; election last held on 2 October 2022 (next to be held in October 2026); the chairman of the Council of Ministers appointed by the presidency and confirmed by the state-level House of Representatives<br>
 _election results_: <em>2022: </em>percent of vote<em> -</em> Denis BECIROVIC - (SDP BiH) 57.4% - Bosniak seat; Zeljko KOMSIC (DF) 55.8% - Croat seat; Zeljka CVIJANOVIC (SNSD) 51.7% - Serb seat<em><br><br>2018: </em>percent of vote - Milorad DODIK (SNSD) 53.9% - Serb seat; Zeljko KOMSIC (DF) 52.6% - Croat seat; Sefik DZAFEROVIC (SDA) 36.6% - Bosniak seat<br><br><em>2014:</em> percent of vote - Mladen IVANIC (PDP) 48.7% - Serb seat; Dragan COVIC (HDZ-BiH) 52.2% - Croat seat; Bakir IZETBEGOVIC (SDA) 32.9% - Bosniak seat<br>
@@ -396,7 +396,7 @@ _selected World Heritage Site locales_: Old Bridge Area of Mostar (c); Mehmed Pa
 ## Economy
 
 **Economic overview**<br>
-<p>Bosnia and Herzegovina has a transitional economy with limited market reforms. The economy relies heavily on the export of metals, energy, textiles, and furniture as well as on remittances and foreign aid. A highly decentralized government hampers economic policy coordination and reform, while excessive bureaucracy and a segmented market discourage foreign investment. The economy is among the least competitive in the region. Foreign banks, primarily from Austria and Italy, control much of the banking sector, though the largest bank is a private domestic one. The konvertibilna marka (convertible mark) - the national currency introduced in 1998 - is pegged to the euro through a currency board arrangement, which has maintained confidence in the currency and has facilitated reliable trade links with European partners. Bosnia and Herzegovina became a full member of the Central European Free Trade Agreement in September 2007. In 2016, Bosnia began a three-year IMF loan program, but it has struggled to meet the economic reform benchmarks required to receive all funding installments.</p> <p> </p> <p>Bosnia and Herzegovina's private sector is growing slowly, but foreign investment dropped sharply after 2007 and remains low. High unemployment remains the most serious macroeconomic problem. Successful implementation of a value-added tax in 2006 provided a steady source of revenue for the government and helped rein in gray-market activity, though public perceptions of government corruption and misuse of taxpayer money has encouraged a large informal economy to persist. National-level statistics have improved over time, but a large share of economic activity remains unofficial and unrecorded.</p> <p> </p> <p>Bosnia and Herzegovina's top economic priorities are: acceleration of integration into the EU; strengthening the fiscal system; public administration reform; World Trade Organization membership; and securing economic growth by fostering a dynamic, competitive private sector.</p><br>
+import-dominated economy; remains consumption-heavy; lack of private sector investments and diversification; jointly addressing structural economic challenges; Chinese energy infrastructure investments; high unemployment; tourism industry impacted by COVID-19<br>
 
 **Real GDP (purchasing power parity)**<br>
 $51.244 billion (2021 est.)<br>
@@ -697,7 +697,7 @@ Armed Forces of Bosnia and Herzegovina (AFBiH or Oruzanih Snaga Bosne i Hercegov
 approximately 9,000 active duty personnel (2022)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the military's inventory includes mainly Soviet-era weapons systems with a small and varied mix of older European and US equipment (2021)<br>
+the military's inventory is a wide mix of secondhand equipment mostly of French, Soviet, or US origin (2022)<br>
 
 **Military service age and obligation**<br>
 18 years of age for voluntary military service; mandatory retirement at age 35 or after 15 years of service for junior enlisted personnel, mandatory retirement at age 50 and 30 years of service for non-commissioned officers, mandatory retirement at age 55 and 30 years of service for all commissioned officers; conscription abolished in 2005 (2021)<br>
@@ -721,7 +721,7 @@ Islamic Revolutionary Guard Corps/Qods Force<br>
 _refugees (country of origin)_: 5,112 (Croatia) (2020)<br>
 _IDPs_: 92,000 (Bosnian Croats, Serbs, and Bosniaks displaced by inter-ethnic violence, human rights violations, and armed conflict during the 1992-95 war) (2021)<br>
 _stateless persons_: 149 (mid-year 2021)<br>
-<strong>note: </strong>113,599 estimated refugee and migrant arrivals (January 2015-January 2023)<br>
+<strong>note: </strong>114,069 estimated refugee and migrant arrivals (January 2015-January 2023)<br>
 
 **Illicit drugs**<br>
 <p>drug trafficking groups are major players in the procurement and transportation of large quantities of cocaine  destined for  European markets</p><br>

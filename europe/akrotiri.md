@@ -145,9 +145,6 @@ the flag of the UK is used<br>
 
 ## Economy
 
-**Economic overview**<br>
-Economic activity is limited to providing services to the military and their families located in Akrotiri. All food and manufactured goods must be imported.<br>
-
 **Exchange rates**<br>
 <p><strong>note:</strong> uses the euro</p><br>
 

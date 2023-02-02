@@ -163,9 +163,6 @@ blue with the flag of the UK in the upper hoist-side quadrant and the South Geor
 
 ## Economy
 
-**Economic overview**<br>
-Some fishing takes place in adjacent waters. Harvesting finfish and krill are potential sources of income. The islands receive income from postage stamps produced in the UK, the sale of fishing licenses, and harbor and landing fees from tourist vessels. Tourism from specialized cruise ships is increasing rapidly.<br>
-
 ## Communications
 
 ## Transportation

@@ -423,7 +423,7 @@ _selected World Heritage Site locales_: Lake Malawi National Park (n); Chongoni 
 ## Economy
 
 **Economic overview**<br>
-<p>Landlocked Malawi ranks among the world's least developed countries. The country’s economic performance has historically been constrained by policy inconsistency, macroeconomic instability, poor infrastructure, rampant corruption, high population growth, and poor health and education outcomes that limit labor productivity. The economy is predominately agricultural with about 80% of the population living in rural areas. Agriculture accounts for about one-third of GDP and 80% of export revenues. The performance of the tobacco sector is key to short-term growth as tobacco accounts for more than half of exports, although Malawi is looking to diversify away from tobacco to other cash crops.</p> <p> </p> <p>The economy depends on substantial inflows of economic assistance from the IMF, the World Bank, and individual donor nations. Donors halted direct budget support from 2013 to 2016 because of concerns about corruption and fiscal carelessness, but the World Bank resumed budget support in May 2017. In 2006, Malawi was approved for relief under the Heavily Indebted Poor Countries (HIPC) program but recent increases in domestic borrowing mean that debt servicing in 2016 exceeded the levels prior to HIPC debt relief.</p> <p> </p> <p>Heavily dependent on rain-fed agriculture, with corn being the staple crop, Malawi’s economy was hit hard by the El Nino-driven drought in 2015 and 2016, and now faces threat from the fall armyworm. The drought also slowed economic activity, led to two consecutive years of declining economic growth, and contributed to high inflation rates. Depressed food prices over 2017 led to a significant drop in inflation (from an average of 21.7% in 2016 to 12.3% in 2017), with a similar drop in interest rates.</p><br>
+low-income East African economy; primarily agrarian; investing in human capital; urban poverty increasing due to COVID-19; high public debt; endemic corruption and poor property rights; poor hydroelectric grid; localized pharmaceutical industry<br>
 
 **Real GDP (purchasing power parity)**<br>
 $29.658 billion (2021 est.)<br>
@@ -712,7 +712,7 @@ Malawi Defense Force (MDF): Army (includes marine unit), Air Force (established 
 information varies; approximately 8,000 active duty troops (including about 500 air and marine forces personnel) (2022)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the MDF's inventory is comprised of mostly obsolescent or second-hand equipment from China, a few European countries, and South Africa (2021)<br>
+the MDF's inventory is comprised of mostly obsolescent or second-hand equipment from China, a few European countries, and South Africa (2022)<br>
 
 **Military service age and obligation**<br>
 18 years of age for men and women for voluntary military service; high school equivalent required for enlisted recruits and college equivalent for officer recruits; initial engagement is 7 years for enlisted personnel and 10 years for officers (2022)<br>
@@ -729,7 +729,7 @@ the MDF’s primary responsibility is external security; it is also tasked as ne
 <p><em>Malawi-Mozambique</em>: the two countries have held exercises to reaffirm boundaries a number of times</p> <p><em>Malawi-Tanzania</em>: dispute with Tanzania over the boundary in Lake Nyasa (Lake Malawi) and the meandering Songwe River; Malawi contends that the entire lake up to the Tanzanian shoreline is its territory, while Tanzania claims the border is in the center of the lake; the conflict was reignited in 2012 when Malawi awarded a license to a British company for oil exploration in the lake</p> <p><em>Malawi-Zambia</em>: border demarcation was completed in 2011; in 2018, the redemarcation exercise determined that some parts of Malawi actually belonged to Zambia</p> <p> </p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 34,840 (Democratic Republic of the Congo) (refugees and asylum seekers), 13,131 (Burundi) (refugees and asylum seekers), 7,738 (Rwanda) (refugees and asylum seekers) (2022)<br>
+_refugees (country of origin)_: 34,840 (Democratic Republic of the Congo) (refugees and asylum seekers), 13,131 (Burundi) (refugees and asylum seekers), 7,726 (Rwanda) (refugees and asylum seekers) (2022)<br>
 
 **Illicit drugs**<br>
 NA<br>

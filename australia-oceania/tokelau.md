@@ -257,7 +257,7 @@ _elections/appointments_: the monarchy is hereditary; governor general appointed
 
 **Legislative branch**<br>
 _description_: unicameral General Fono (20 seats apportioned by island - Atafu 7, Fakaofo 7, Nukunonu 6; members directly elected by simple majority vote to serve 3-year terms); note - the Tokelau Amendment Act of 1996 confers limited legislative power to the General Fono<br>
-_elections_: last held on 23 January 2020 depending on island (next to be held in January 2023)<br>
+_elections_: last held on 26 January 2023 depending on island (next to be held in January 2026)<br>
 _election results_: percent of vote by party - NA; seats by party - independent 20; composition - men 17, women 3, percent of women 15%<br>
 
 **Judicial branch**<br>
@@ -291,7 +291,7 @@ _lyrics/music_: unknown/Falani KALOLO<br>
 ## Economy
 
 **Economic overview**<br>
-<p>Tokelau's small size (three villages), isolation, and lack of resources greatly restrain economic development and confine agriculture to the subsistence level. The principal sources of revenue are from sales of copra, postage stamps, souvenir coins, and handicrafts. Money is also remitted to families from relatives in New Zealand.</p> <p> </p> <p>The people rely heavily on aid from New Zealand - about $15 million annually in FY12/13 and FY13/14 - to maintain public services. New Zealand's support amounts to 80% of Tokelau's recurrent government budget. An international trust fund, currently worth nearly $32 million, was established in 2004 by New Zealand to provide Tokelau an independent source of revenue.</p><br>
+small New Zealand territorial island economy; labor force can work in New Zealand or Australia; significant remittances; largely solar-powered infrastructure; reliant on New Zealand funding; stamp, coin, and crafts producer<br>
 
 **Real GDP (purchasing power parity)**<br>
 $7,711,583 (2017 est.)<br>

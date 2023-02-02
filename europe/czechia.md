@@ -290,7 +290,7 @@ _industrial_: 967.2 million cubic meters (2017 est.)<br>
 _agricultural_: 46.6 million cubic meters (2017 est.)<br>
 
 **Total renewable water resources**<br>
-13.15 billion cubic meters (2017 est.)<br>
+13.2 billion cubic meters (2017 est.)<br>
 
 ## Government
 
@@ -343,8 +343,8 @@ _residency requirement for naturalization_: 5 years<br>
 _chief of state_: President Milos ZEMAN (since 8 March 2013)<br>
 _head of government_: Prime Minister Petr FIALA (since 17 December 2021); First Deputy Prime Minister Vit RAKUSAN (since 17 December 2021), Deputy Prime Ministers Marian JURECKA, Ivan BARTOS, Vlastimil VALEK (all since 17 December 2021)<br>
 _cabinet_: Cabinet appointed by the president on the recommendation of the prime minister<br>
-_elections/appointments_: president directly elected by absolute majority popular vote in 2 rounds if needed for a 5-year term (limited to 2 consecutive terms); elections last held on 13-14 January 2023 for the 1st round with a runoff to be held on 27-28 January 2023 between Petr PAVEL, Independeng and Andrej BABIS, ANO; prime minister appointed by the president for a 4-year term<br>
-_election results_: <em>2023; </em>1st Round Petr PAVEL 35.4%, Andrej BABIS 35<em>%</em>, Danuse NERUDORA 13.9%, Pavel FISCHER 6.8%<em><br></em>2nd Round of elections to be held on January 27-28, 2023<em><br><br>2018:</em> Milos ZEMAN reelected president in the second round; percent of vote - Milos ZEMAN (SPO) 51.4%, Jiri DRAHOS (independent) 48.6%<br><br><em>2013:</em> Milos ZEMAN elected president; percent of vote - Milos ZEMAN (SPO) 54.8%, Karel SCHWARZENBERG (TOP 09) 45.2%<br>
+_elections/appointments_: president directly elected by absolute majority popular vote in 2 rounds if needed for a 5-year term (limited to 2 consecutive terms); elections last held on 27-28 January 2023 the second round and 13-14 January 2023 for the 1st round; prime minister appointed by the president for a 4-year term<br>
+_election results_: <em>2023; </em>2nd Round Petr PAVEL 58.3%, Andrej BABIS 41.6%; PAVEL will take office in March <em>2023</em>; 1st Round Petr PAVEL 35.4%, Andrej BABIS 35<em>%</em>, Danuse NERUDORA 13.9%, Pavel FISCHER 6.8%<em><br><br>2018:</em> Milos ZEMAN reelected president in the second round; percent of vote - Milos ZEMAN (SPO) 51.4%, Jiri DRAHOS (independent) 48.6%<br><br><em>2013:</em> Milos ZEMAN elected president; percent of vote - Milos ZEMAN (SPO) 54.8%, Karel SCHWARZENBERG (TOP 09) 45.2%<br>
 
 **Legislative branch**<br>
 _description_: bicameral Parliament or Parlament consists of:<br>Senate or Senat (81 seats; members directly elected in single-seat constituencies by absolute majority vote in 2 rounds if needed; members serve 6-year terms with one-third of the membership renewed every 2 years)<br><br>Chamber of Deputies or Poslanecka Snemovna (200 seats; members directly elected in 14 multi-seat constituencies by proportional representation vote with a 5% threshold required to fill a seat; members serve 4-year terms)<br>
@@ -397,7 +397,7 @@ _selected World Heritage Site locales_: Historic Prague; Historic Telč; Histori
 ## Economy
 
 **Economic overview**<br>
-<p>Czechia is a prosperous market economy that boasts one of the highest GDP growth rates and lowest unemployment levels in the EU, but its dependence on exports makes economic growth vulnerable to contractions in external demand. Czechia’s exports comprise some 80% of GDP and largely consist of automobiles, the country’s single largest industry. Czechia acceded to the EU in 2004 but has yet to join the euro-zone. While the flexible koruna helps Czechia weather external shocks, it was one of the world’s strongest performing currencies in 2017, appreciating approximately 16% relative to the US dollar after the central bank (Czech National Bank - CNB) ended its cap on the currency’s value in early April 2017, which it had maintained since November 2013. The CNB hiked rates in August and November 2017 - the first rate changes in nine years - to address rising inflationary pressures brought by strong economic growth and a tight labor market.</p> <p> </p> <p>Since coming to power in 2014, the new government has undertaken some reforms to try to reduce corruption, attract investment, and improve social welfare programs, which could help increase the government’s revenues and improve living conditions for Czechs. The government introduced in December 2016 an online tax reporting system intended to reduce tax evasion and increase revenues. The government also plans to remove labor market rigidities to improve the business climate, bring procurement procedures in line with EU best practices, and boost wages. The country's low unemployment rate has led to steady increases in salaries, and the government is facing pressure from businesses to allow greater migration of qualified workers, at least from Ukraine and neighboring Central European countries.</p> <p> </p> <p>Long-term challenges include dealing with a rapidly aging population, a shortage of skilled workers, a lagging education system, funding an unsustainable pension and health care system, and diversifying away from manufacturing and toward a more high-tech, services-based, knowledge economy.</p><br>
+high income, diversified EU economy; advanced services and automotive exporter; mostly intra-EU trader; low unemployment; usually maintains a positive trade balance; large investments in systems innovation and information technologies<br>
 
 **Real GDP (purchasing power parity)**<br>
 $428.016 billion (2021 est.)<br>
@@ -697,8 +697,8 @@ Czech Armed Forces: Land Forces; Air Forces; Cyber Forces; Special Forces (2022)
 approximately 26,000 active personnel (20,000 Army; 6,000 Air Force) (2022)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the Czech military has a mix of Soviet-era and more modern equipment, mostly of Western European origin; since 2010, the leading suppliers of military equipment to Czechia have been Austria and Spain; Czechia has a considerable domestic defense industry; during the Cold War, Czechoslovakia was a major supplier of tanks, armored personnel carriers, military trucks, and trainer aircraft (2021)<br>
-note: in 2019, Czechia announced a modernization plan to acquire more equipment that was compliant with NATO standards, including aircraft from the US and armored vehicles from Germany and Sweden, as well as domestically-produced arms<br>
+the Czech military has a mix of Soviet-era and more modern equipment, mostly of Western European origin from such suppliers as Austria, Germany, and Spain; Czechia has a considerable domestic defense industry; during the Cold War, Czechoslovakia was a major producer of tanks, armored personnel carriers, military trucks, and trainer aircraft (2022)<br>
+<strong>note:</strong> in 2019, Czechia announced a modernization plan to acquire more Western equipment that was compliant with NATO standards, including aircraft and armored vehicles<br>
 
 **Military service age and obligation**<br>
 18-28 years of age for voluntary military service for men and women; conscription abolished 2004 (2022)<br>
@@ -717,7 +717,7 @@ Czechia joined NATO in 1999; Czechia, Hungary, and Poland were invited to begin 
 <p>none</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 482,049 (Ukraine) (as of 16 January 2023)<br>
+_refugees (country of origin)_: 483,620 (Ukraine) (as of 22 January 2023)<br>
 _stateless persons_: 1,498 (mid-year 2021)<br>
 
 **Illicit drugs**<br>

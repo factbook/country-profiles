@@ -288,7 +288,7 @@ _industrial_: 402,206,287.9 cubic meters (2017 est.)<br>
 _agricultural_: 1,060,819,084.4 cubic meters (2017 est.)<br>
 
 **Total renewable water resources**<br>
-63.33 billion cubic meters (2017 est.)<br>
+63.3 billion cubic meters (2017 est.)<br>
 
 ## Government
 
@@ -395,7 +395,7 @@ _selected World Heritage Site locales_: Gelati Monastery (c); Historical Monumen
 ## Economy
 
 **Economic overview**<br>
-<p>Georgia's main economic activities include cultivation of agricultural products such as grapes, citrus fruits, and hazelnuts; mining of manganese, copper, and gold; and producing alcoholic and nonalcoholic beverages, metals, machinery, and chemicals in small-scale industries. The country imports nearly all of its needed supplies of natural gas and oil products. It has sizeable hydropower capacity that now provides most of its electricity needs.</p> <p> </p> <p>Georgia has overcome the chronic energy shortages and gas supply interruptions of the past by renovating hydropower plants and by increasingly relying on natural gas imports from Azerbaijan instead of from Russia. Construction of the Baku-Tbilisi-Ceyhan oil pipeline, the South Caucasus gas pipeline, and the Baku-Tbilisi-Kars railroad are part of a strategy to capitalize on Georgia's strategic location between Europe and Asia and develop its role as a transit hub for gas, oil, and other goods.</p> <p> </p> <p>Georgia's economy sustained GDP growth of more than 10% in 2006-07, based on strong inflows of foreign investment, remittances, and robust government spending. However, GDP growth slowed following the August 2008 conflict with Russia, and sank to negative 4% in 2009 as foreign direct investment and workers' remittances declined in the wake of the global financial crisis. The economy rebounded in the period 2010-17, but FDI inflows, the engine of Georgian economic growth prior to the 2008 conflict, have not recovered fully. Unemployment remains persistently high.</p> <p> </p> <p>The country is pinning its hopes for faster growth on a continued effort to build up infrastructure, enhance support for entrepreneurship, simplify regulations, and improve professional education, in order to attract foreign investment and boost employment, with a focus on transportation projects, tourism, hydropower, and agriculture. Georgia had historically suffered from a chronic failure to collect tax revenues; however, since 2004 the government has simplified the tax code, increased tax enforcement, and cracked down on petty corruption, leading to higher revenues. The government has received high marks from the World Bank for improvements in business transparency. Since 2012, the Georgian Dream-led government has continued the previous administration's low-regulation, low-tax, free market policies, while modestly increasing social spending and amending the labor code to comply with International Labor Standards. In mid-2014, Georgia concluded an association agreement with the EU, paving the way to free trade and visa-free travel. In 2017, Georgia signed Free Trade Agreement (FTA) with China as part of Tbilisi’s efforts to diversify its economic ties. Georgia is seeking to develop its Black Sea ports to further facilitate East-West trade.</p><br>
+COVID-19 crippled tourism, transportation, and construction sectors; rising unemployment, public debts and poverty; foreign investment and domestic bond issuance<br>
 
 **Real GDP (purchasing power parity)**<br>
 $57.434 billion (2021 est.)<br>
@@ -698,7 +698,7 @@ information varies; approximately 30,000 troops, including active National Guard
 <strong>note: </strong>in December 2020, the Parliament of Georgia adopted a resolution determining that the Georgian Defense Forces would have maximum peacetime strength of 37,000 troops<br>
 
 **Military equipment inventories and acquisitions**<br>
-the Georgian Defense Forces are equipped mostly with older Russian and Soviet-era weapons; since 2010, it has received limited quantities of equipment from European countries and the US (2021)<br>
+the majority of the military's inventory consists of Soviet-era weapons and equipment, although in recent years it has received armaments from a number of European countries, as well as Israel and the US (2022)<br>
 
 **Military service age and obligation**<br>
 18-27 years of age for voluntary active duty military service; conscription abolished in 2016, but reinstated in 2017 for men 18 to 27 years of age; conscript service obligation is 12 months (2022)<br>
@@ -713,7 +713,7 @@ as of 2022, up to 10,000 Russian troops continued to occupy the breakaway region
 <p>Russia's military support and subsequent recognition of Abkhazia and South Ossetia independence in 2008 continue to sour relations with Georgia</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 25,101 (Ukraine) (as of 17 January 2023)<br>
+_refugees (country of origin)_: 25,101 (Ukraine) (as of 24 January 2023)<br>
 _IDPs_: 305,000 (displaced in the 1990s as a result of armed conflict in the breakaway republics of Abkhazia and South Ossetia; displaced in 2008 by fighting between Georgia and Russia over South Ossetia) (2021)<br>
 _stateless persons_: 534 (mid-year 2021)<br>
 

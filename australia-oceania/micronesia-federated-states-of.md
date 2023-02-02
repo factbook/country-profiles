@@ -363,7 +363,7 @@ _selected World Heritage Site locales_: Nan Madol: Ceremonial Center of Eastern 
 ## Economy
 
 **Economic overview**<br>
-<p>Economic activity consists largely of subsistence farming and fishing, and government, which employs two-thirds of the adult working population and receives funding largely - 58% in 2013 – from Compact of Free Association assistance provided by the US. The islands have few commercially valuable mineral deposits. The potential for tourism is limited by isolation, lack of adequate facilities, and limited internal air and water transportation.</p> <p> </p> <p>Under the terms of the original Compact, the US provided $1.3 billion in grants and aid from 1986 to 2001. The US and the Federated States of Micronesia (FSM) negotiated a second (amended) Compact agreement in 2002-03 that took effect in 2004. The amended Compact runs for a 20-year period to 2023; during which the US will provide roughly $2.1 billion to the FSM. The amended Compact also develops a trust fund for the FSM that will provide a comparable income stream beyond 2024 when Compact grants end.</p> <p> </p> <p>The country's medium-term economic outlook appears fragile because of dependence on US assistance and lackluster performance of its small and stagnant private sector.</p><br>
+lower middle-income Pacific island economy; US aid reliance, sunsetting in 2024; low entrepreneurship; mostly fishing and farming; US dollar user; no patent laws; tourism remains underdeveloped; significant corruption<br>
 
 **Real GDP (purchasing power parity)**<br>
 $375.055 million (2021 est.)<br>

@@ -99,7 +99,7 @@ Bemba 33.4%, Nyanja 14.7%, Tonga 11.4%, Lozi 5.5%, Chewa 4.5%, Nsenga 2.9%, Tumb
 <strong>note:</strong> Zambia is said to have over 70 languages, although many of these may be considered dialects; all of Zambia's major languages are members of the Bantu family; Chewa and Nyanja are mutually intelligible dialects<br>
 
 **Religions**<br>
-Protestant 75.3%, Roman Catholic 20.2%, other 2.7% (includes Muslim Buddhist, Hindu, and Baha'i), none 1.8% (2010 est.)<br>
+Protestant 75.3%, Roman Catholic 20.2%, other 2.7% (includes Muslim, Buddhist, Hindu, and Baha'i), none 1.8% (2010 est.)<br>
 
 **Demographic profile**<br>
 <p>Zambia’s poor, youthful population consists primarily of Bantu-speaking people representing nearly 70 different ethnicities. Zambia’s high fertility rate continues to drive rapid population growth, averaging almost 3 percent annually between 2000 and 2010. The country’s total fertility rate has fallen by less than 1.5 children per woman during the last 30 years and still averages among the world’s highest, almost 6 children per woman, largely because of the country’s lack of access to family planning services, education for girls, and employment for women. Zambia also exhibits wide fertility disparities based on rural or urban location, education, and income. Poor, uneducated women from rural areas are more likely to marry young, to give birth early, and to have more children, viewing children as a sign of prestige and recognizing that not all of their children will live to adulthood. HIV/AIDS is prevalent in Zambia and contributes to its low life expectancy.</p><p>Zambian emigration is low compared to many other African countries and is comprised predominantly of the well-educated. The small amount of brain drain, however, has a major impact in Zambia because of its limited human capital and lack of educational infrastructure for developing skilled professionals in key fields. For example, Zambia has few schools for training doctors, nurses, and other health care workers. Its spending on education is low compared to other Sub-Saharan countries.</p><br>
@@ -398,7 +398,7 @@ _FAX_: [1] (202) 332-0826<br>
 _email address and website_: <br>info@zambiaembassy.org<br><br>https://www.zambiaembassy.org/<br>
 
 **Diplomatic representation from the US**<br>
-_chief of mission_: Ambassador (vacant); Charge d'Affaires Martin "Marty" DALE (since 2 November 2021)<br>
+_chief of mission_: Ambassador Michael C. GONZALES (since 16 September 2022)<br>
 _embassy_: Eastern end of Kabulonga Road, Ibex Hill, Lusaka<br>
 _mailing address_: 2310 Lusaka Place, Washington DC 20521-2310<br>
 _telephone_: [260] (0) 211-357-000<br>
@@ -423,7 +423,7 @@ _selected World Heritage Site locales_: Mosi-oa-Tunya/Victoria Falls<br>
 ## Economy
 
 **Economic overview**<br>
-<p>Zambia had one of the world’s fastest growing economies for the ten years up to 2014, with real GDP growth averaging roughly 6.7% per annum, though growth slowed during the period 2015 to 2017, due to falling copper prices, reduced power generation, and depreciation of the kwacha. Zambia’s lack of economic diversification and dependency on copper as its sole major export makes it vulnerable to fluctuations in the world commodities market and prices turned downward in 2015 due to declining demand from China; Zambia was overtaken by the Democratic Republic of Congo as Africa’s largest copper producer. GDP growth picked up in 2017 as mineral prices rose.</p> <p> </p> <p>Despite recent strong economic growth and its status as a lower middle-income country, widespread and extreme rural poverty and high unemployment levels remain significant problems, made worse by a high birth rate, a relatively high HIV/AIDS burden, by market-distorting agricultural and energy policies, and growing government debt. Zambia raised $7 billion from international investors by issuing separate sovereign bonds in 2012, 2014, and 2015. Concurrently, it issued over $4 billion in domestic debt and agreed to Chinese-financed infrastructure projects, significantly increasing the country’s public debt burden to more than 60% of GDP. The government has considered refinancing $3 billion worth of Eurobonds and significant Chinese loans to cut debt servicing costs.</p><br>
+lower middle-income Sub-Saharan economy; major copper exporter; high public debt is held mostly by China; systemic corruption; one of youngest and fastest growing labor forces; regional hydroelectricity exporter; extreme rural poverty<br>
 
 **Real GDP (purchasing power parity)**<br>
 $63.03 billion (2021 est.)<br>
@@ -729,7 +729,7 @@ Zambia Defense Force (ZDF): Zambia Army, Zambia Air Force, Zambia National Servi
 approximately 17,000 active troops (15,000 Army; 2,000 Air) (2022)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the ZDF's inventory is largely comprised of Chinese, Russian, and Soviet-era armaments; since 2010, China has been the leading supplier of arms to Zambia (2022)<br>
+the ZDF's inventory is largely comprised of Chinese, Russian, and Soviet-era armaments; in recent years, China has been the leading supplier of arms to Zambia (2022)<br>
 
 **Military service age and obligation**<br>
 18-25 years of age (16 with parental consent) for voluntary military service for men and women; no conscription; 12-year enlistment period (7 years active, 5 in the Reserves); all citizens are required to register at 16&nbsp; (2022)<br>
@@ -746,7 +746,7 @@ the Zambian Defense Force (ZDF) traces its roots to the Northern Rhodesia Regime
 <p><em>Zambia-Angola: </em>because the straight-line segments along the left bank (Zambian side) of the Cuando/Kwando River do not conform with the physical alignment of the unstable shoreline, Zambian residents in some areas have settled illegally on sections of shoreline that fall on the Angolan side of the boundary<em><br><br>Zambia-Democratic Republic of Congo(DRC): </em>boundary commission continues discussions over Congolese-administered triangle of land on the right bank of the Lunkinda River claimed by Zambia near the DRC village of Pweto</p> <p><em>Zambia-Tanzania</em>: some drug smuggling may take place across the Zambia-Tanzania border; there are no known current territorial issues, as both states have continued to recognize the colonial boundaries last modified in 1937; the boundary in Lake Tanganyika remains undefined.<br><br><em>Zambia-Zimbabwe: </em>in 2004, Zimbabwe dropped objections to plans between Botswana and Zambia to build a bridge over the Zambezi River, thereby de facto recognizing a short, but not clearly delimited, Botswana-Zambia boundary in the river; in May 2021, Botswana and Zambia agreed in principle to let Zimbabwe be a partner in the bridge project as it enters its lasts phase</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 56,527 (Democratic Republic of the Congo) (refugees and asylum seekers), 7,083 (Burundi) (2022)<br>
+_refugees (country of origin)_: 56,527 (Democratic Republic of the Congo) (refugees and asylum seekers), 7,230 (Burundi) (2022)<br>
 
 **Trafficking in persons**<br>
 _tier rating_: Tier 2 Watch List —<strong> </strong>Zambia does not fully meet the minimum standards for the elimination of trafficking but is making efforts to do so; efforts included increasing law enforcement training, establishing two fast-track human trafficking courts, conducting awareness campaigns about human trafficking, slightly increasing prosecutions and convictions, and strengthening prison sentences given to traffickers; however; investigations of trafficking crimes and funding to shelters and other victim assistance programs decreased; authorities did not proactively screen for trafficking among vulnerable populations, including foreign nationals and those involved in commercial sex; authorities detained and deported potential trafficking victims involved in smuggling; the national inter-ministerial committee is weak in overseeing national anti-trafficking efforts and trends (2020)<br>

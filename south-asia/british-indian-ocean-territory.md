@@ -166,7 +166,7 @@ white with six blue wavy horizontal stripes; the flag of the UK is in the upper 
 ## Economy
 
 **Economic overview**<br>
-All economic activity is concentrated on the largest island of Diego Garcia, where a joint UK-US military facility is located. Construction projects and various services needed to support the military installation are performed by military and contract employees from the UK, Mauritius, the Philippines, and the US. Some of the natural resources found in this territory include coconuts, fish, and sugarcane.<br>
+small island territory economy; economic activity mainly on Diego Garcia with national military installations; recently settled disputes with Mauritius have increased oil exports; established marine reserve has limited commercial fishing<br>
 
 **Exchange rates**<br>
 <p>the US dollar is used</p><br>

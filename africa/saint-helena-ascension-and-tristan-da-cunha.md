@@ -300,7 +300,7 @@ Saint Helena plover (bird)<br>
 ## Economy
 
 **Economic overview**<br>
-The economy depends largely on financial assistance from the UK, which amounted to about $27 million in FY06/07 or more than twice the level of annual budgetary revenues. The local population earns income from fishing, raising livestock, and sales of handicrafts. Because there are few jobs, 25% of the work force has left to seek employment on Ascension Island, on the Falklands, and in the UK.<br>
+upper middle-income, British Atlantic Ocean territorial economy; native (but pegged to British pound) currency user on 2 of 3 islands; significant UK financial support; unique land/farming commune structure; military-related economic activity; sport fishing locale<br>
 
 **Real GDP (purchasing power parity)**<br>
 $31.1 million (2009 est.)<br>
