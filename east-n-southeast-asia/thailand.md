@@ -187,7 +187,7 @@ _unimproved: rural_: rural: 0% of population<br>
 _unimproved: total_: total: 0% of population (2020 est.)<br>
 
 **Current health expenditure**<br>
-3.8% of GDP (2019)<br>
+4.4% of GDP (2020)<br>
 
 **Physicians density**<br>
 0.95 physicians/1,000 population (2020)<br>
@@ -313,7 +313,7 @@ _industrial_: 2.777 billion cubic meters (2017 est.)<br>
 _agricultural_: 51.79 billion cubic meters (2017 est.)<br>
 
 **Total renewable water resources**<br>
-438.61 billion cubic meters (2017 est.)<br>
+438.6 billion cubic meters (2017 est.)<br>
 
 ## Government
 
@@ -730,7 +730,7 @@ Royal Thai Armed Forces (Kongthap Thai, RTARF): Royal Thai Army (Kongthap Bok Th
 estimated 300,000 active duty personnel (200,000 Army; 70,000 Navy; 30,000 Air Force); approximately 230,000 Royal Thai Police (2022)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the RTARF has a diverse array of foreign-supplied weapons systems, including a large amount of obsolescent or second-hand US equipment; since 2010, Thailand has received military equipment from nearly 20 countries, including China, South Korea, Sweden, Ukraine, and the US; as of 2022, Thailand was making efforts to increase its domestic defense production capabilities in such areas as armored vehicles, unmanned aerial systems, and military technologies (2022)<br>
+the RTARF has a diverse array of foreign-supplied weapons systems, including a large amount of older US equipment; in recent years, Thailand has received arms from nearly 20 countries, including China, South Korea, Sweden, Ukraine, and the US; Thailand has been making efforts to increase its domestic defense production capabilities in such areas as armored vehicles, unmanned aerial systems, and other military technologies (2023)<br>
 
 **Military service age and obligation**<br>
 18 years of age for voluntary military service for men and women; 21 years of age for compulsory military service for men; men register at 18 years of age; volunteer service obligation may be as short as 6 or 12 months, depending on educational qualifications; conscript service obligation also varies by educational qualifications, but is typically 24 months (2022)<br>
@@ -750,7 +750,7 @@ including the most recent in 2014, the military has attempted more than 20 coups
 **Refugees and internally displaced persons**<br>
 _refugees (country of origin)_: 90,759 (Burma) (2022)<br>
 _IDPs_: 41,000 (2021)<br>
-_stateless persons_: 554,103 (mid-year 2021) (estimate represents stateless persons registered with the Thai Government; actual number may be as high as 3.5 million); note - about half of Thailand's northern hill tribe people do not have citizenship and make up the bulk of Thailand's stateless population; most lack documentation showing they or one of their parents were born in Thailand; children born to Burmese refugees are not eligible for Burmese or Thai citizenship and are stateless; most Chao Lay, maritime nomadic peoples, who travel from island to island in the Andaman Sea west of Thailand are also stateless; stateless Rohingya refugees from Burma are considered illegal migrants by Thai authorities and are detained in inhumane conditions or expelled; stateless persons are denied access to voting, property, education, employment, healthcare, and driving<br>
+_stateless persons_: 566,900 (2022) (estimate represents stateless persons registered with the Thai Government; actual number may be as high as 3.5 million); note - about half of Thailand's northern hill tribe people do not have citizenship and make up the bulk of Thailand's stateless population; most lack documentation showing they or one of their parents were born in Thailand; children born to Burmese refugees are not eligible for Burmese or Thai citizenship and are stateless; most Chao Lay, maritime nomadic peoples, who travel from island to island in the Andaman Sea west of Thailand are also stateless; stateless Rohingya refugees from Burma are considered illegal migrants by Thai authorities and are detained in inhumane conditions or expelled; stateless persons are denied access to voting, property, education, employment, healthcare, and driving<br>
 <strong>note:</strong> Thai nationality was granted to more than 23,000 stateless persons between 2012 and 2016 and more than 18,000 between 2018 and 2021; in 2016, the Government of Thailand approved changes to its citizenship laws that could make 80,000 stateless persons eligible for citizenship, as part of its effort to achieve zero statelessness by 2024 (2021)<br>
 
 **Illicit drugs**<br>

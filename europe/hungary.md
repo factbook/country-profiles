@@ -179,7 +179,7 @@ _unimproved: rural_: rural: 0% of population<br>
 _unimproved: total_: total: 0% of population (2020 est.)<br>
 
 **Current health expenditure**<br>
-6.4% of GDP (2019)<br>
+7.3% of GDP (2020)<br>
 
 **Physicians density**<br>
 6.06 physicians/1,000 population (2020)<br>
@@ -737,8 +737,8 @@ Islamic State of Iraq and ash-Sham (ISIS)<br>
 <p>bilateral government, legal, technical and economic working group negotiations continue in 2006 with Slovakia over Hungary's failure to complete its portion of the Gabcikovo-Nagymaros hydroelectric dam project along the Danube; as a member state that forms part of the EU's external border, Hungary has implemented the strict Schengen border rules</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 33,603 (Ukraine) (as of 24 January 2023)<br>
-_stateless persons_: 130 (mid-year 2021)<br>
+_refugees (country of origin)_: 33,603 (Ukraine) (as of 31 January 2023)<br>
+_stateless persons_: 130 (2022)<br>
 
 **Illicit drugs**<br>
 transshipment point for Southwest Asian heroin and cannabis and for South American cocaine destined for Western Europe; limited producer of precursor chemicals, particularly for amphetamine and methamphetamine; efforts to counter money laundering, related to organized crime and drug trafficking are improving but remain vulnerable; significant consumer of ecstasy<br>

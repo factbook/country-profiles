@@ -182,7 +182,7 @@ _unimproved: rural_: rural: 20.1% of population<br>
 _unimproved: total_: total: 15.6% of population (2020 est.)<br>
 
 **Current health expenditure**<br>
-7.1% of GDP (2019)<br>
+8.2% of GDP (2020)<br>
 
 **Physicians density**<br>
 1.72 physicians/1,000 population (2014)<br>
@@ -302,7 +302,7 @@ _industrial_: 407.8 million cubic meters (2017 est.)<br>
 _agricultural_: 10.44 billion cubic meters (2017 est.)<br>
 
 **Total renewable water resources**<br>
-21.91 billion cubic meters (2017 est.)<br>
+21.9 billion cubic meters (2017 est.)<br>
 
 ## Government
 
@@ -700,7 +700,7 @@ Armed Forces of the Republic of Tajikistan: Land Forces, Mobile Forces, Air and 
 approximately 9,500 active duty troops (8,000 Land and Mobile Forces; 1,500 Air and Air Defense Forces) (2022)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the military's inventory is comprised of older Russian and Soviet-era equipment; it has received limited quantities of weapons systems since 2010, most of which was second-hand material from Russia (2021)<br>
+the military's inventory is comprised of older Russian and Soviet-era equipment; it has received limited quantities of weapons systems in recent years, most of which was secondhand material from Russia (2021)<br>
 
 **Military service age and obligation**<br>
 18-27 years of age for compulsory or voluntary military service for men; women may volunteer; 24-month conscript service obligation; in August 2021, the Tajik Government began allowing men to pay a fee in order to avoid conscription (2022)<br>
@@ -721,7 +721,7 @@ Islamic State of Iraq and ash-Sham (ISIS)<br>
 
 **Refugees and internally displaced persons**<br>
 _refugees (country of origin)_: 6,775 (Afghanistan) (mid-year 2021)<br>
-_stateless persons_: 6,141 (mid-year 2021)<br>
+_stateless persons_: 4,898 (2022)<br>
 
 **Illicit drugs**<br>
 Tajikistan is a major route for drug trafficking in Central Asia; opiates and cannabis travel from Afghanistan through Tajikistan to markets in Russia, Belarus, and Western and Central Europe<br>

@@ -169,7 +169,7 @@ _unimproved: rural_: rural: NA<br>
 _unimproved: total_: total: 3.8% of population (2017 est.)<br>
 
 **Current health expenditure**<br>
-5.2% of GDP (2019)<br>
+6.4% of GDP (2020)<br>
 
 **Physicians density**<br>
 2.25 physicians/1,000 population (2019)<br>
@@ -661,7 +661,7 @@ Seychelles Defense Forces (SDF): Army (includes infantry, special forces, and a 
 approximately 500 personnel (2022)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the SDF's inventory primarily consists of Soviet-era equipment delivered in the 1970s and 1980s; since 2010, the SDF has received limited amounts of more modern equipment, mostly donations of patrol boats and aircraft, from several suppliers led by China and India (2022)<br>
+the SDF's inventory primarily consists of Soviet-era equipment delivered in the 1970s and 1980s; in recent years, the SDF has received limited amounts of more modern equipment, mostly donations of patrol boats and aircraft, from several suppliers led by China and India (2022)<br>
 
 **Military service age and obligation**<br>
 18-28 (18-25 for officers) years of age for voluntary military service for men and women; 6-year initial commitment; no conscription (2022)<br>

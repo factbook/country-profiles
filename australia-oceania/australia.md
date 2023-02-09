@@ -191,7 +191,7 @@ _unimproved: rural_: rural: 0% of population<br>
 _unimproved: total_: total: 0% of population (2020 est.)<br>
 
 **Current health expenditure**<br>
-9.9% of GDP (2019)<br>
+10.7% of GDP (2020)<br>
 
 **Physicians density**<br>
 4.13 physicians/1,000 population (2020)<br>
@@ -309,7 +309,7 @@ _industrial_: 2.662 billion cubic meters (2017 est.)<br>
 _agricultural_: 10.5 billion cubic meters (2017 est.)<br>
 
 **Total renewable water resources**<br>
-492 billion cubic meters (2017 est.)<br>
+492 billion cubic meters (2019 est.)<br>
 
 ## Government
 
@@ -754,7 +754,7 @@ Islamic State of Iraq and ash-Sham (ISIS)<br>
 
 **Refugees and internally displaced persons**<br>
 _refugees (country of origin)_: 12,180 (Iran), 8,741 (Afghanistan), 5,042 (Pakistan) (mid-year 2022)<br>
-_stateless persons_: 5,770 (mid-year 2021)<br>
+_stateless persons_: 7,649 (2022)<br>
 
 **Illicit drugs**<br>
 Tasmania is one of the world's major suppliers of licit opiate products; government maintains strict controls over areas of opium poppy cultivation and output of poppy straw concentrate; major consumer of cocaine and amphetamines<br>

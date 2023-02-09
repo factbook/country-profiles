@@ -195,7 +195,7 @@ _unimproved: rural_: rural: 0% of population<br>
 _unimproved: total_: total: 0% of population (2020 est.)<br>
 
 **Current health expenditure**<br>
-11.1% of GDP (2019)<br>
+12.2% of GDP (2020)<br>
 
 **Physicians density**<br>
 3.27 physicians/1,000 population (2019)<br>
@@ -776,7 +776,7 @@ Islamic Revolutionary Guard Corps/Qods Force; Islamic State of Iraq and ash-Sham
 
 **Refugees and internally displaced persons**<br>
 _refugees (country of origin)_: 55,681 (Afghanistan), 39,091 (Syria), 33,834 (Sri Lanka), 33,148 (Russia), 31,935 (Democratic Republic of the Congo), 24,223 (Sudan), 21,225 (Guinea), 18,008 (Serbia and Kosovo), 17,032 (Turkey), 13,974 (Iraq), 12,286 (Cote d'Ivoire), 11,489 (Eritrea), 11,012 (Cambodia), 10,543 (China), 10,236 (Albania), 10,210 (Somalia), 8,858 (Bangladesh), 8,124 (Mauritania), 8,101 (Mali), 7,991 (Vietnam), 6,913 (Bosnia and Herzegovina), 6,910 (Haiti), 6,808 (Angola), 6,498 (Laos), 6,417 (Armenia), 6,111 (Nigeria), 5,896 (Georgia) (mid-year 2022); 118,994 (Ukraine) (as of 31 October 2022)<br>
-_stateless persons_: 2,094 (mid-year 2021)<br>
+_stateless persons_: 3,633 (2022)<br>
 
 **Illicit drugs**<br>
 <p><strong>metropolitan France:</strong> transshipment point for South American cocaine, Southwest Asian heroin, and European synthetics;</p> <p><strong>French Guiana:</strong> small amount of marijuana grown for local consumption; minor transshipment point to Europe;</p> <p><strong>Martinique:</strong> transshipment point for cocaine and marijuana bound for the US and Europe</p><br>

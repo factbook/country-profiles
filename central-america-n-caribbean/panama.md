@@ -177,7 +177,7 @@ _unimproved: rural_: rural: 11.9% of population<br>
 _unimproved: total_: total: 3.8% of population (2020 est.)<br>
 
 **Current health expenditure**<br>
-7.6% of GDP (2019)<br>
+9.7% of GDP (2020)<br>
 
 **Physicians density**<br>
 1.63 physicians/1,000 population (2019)<br>
@@ -476,7 +476,7 @@ _female_: 43.6% (2021 est.)<br>
 22.1% (2016 est.)<br>
 
 **Gini Index coefficient - distribution of family income**<br>
-49.2 (2018 est.)<br>
+49.8 (2019 est.)<br>
 
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 1.1%<br>
@@ -704,7 +704,7 @@ no regular military forces; Ministry of Public Security: the Panama National Pol
 approximately 20,000 National Police; 4,000 National Border Service; 3,000 National Air-Naval Service (2022)<br>
 
 **Military equipment inventories and acquisitions**<br>
-Panama's security forces are lightly armed; Canada, Italy and the US have provided equipment to the security forces since 2010 (2022)<br>
+Panama's security forces are lightly armed; Canada, Italy and the US have provided equipment to the security forces in recent years (2022)<br>
 
 **Military - note**<br>
 <p>the MPS's chief focuses are countering narcotics trafficking and border security; Panama's security forces have long been criticized for being ineffective and corrupt</p> Panama created a paramilitary National Guard (Guardia Nacional de Panamá) in the 1950s from the former National Police (established 1904); the National Guard subsequently evolved into more of a military force with some police responsibilities; it seized power in a coup in 1968 and military officers ran the country until 1989; in 1983, the National Guard was renamed the Panama Defense Force (PDF); the PDF was disbanded after the 1989 US invasion and the current national police forces were formed in 1990; the armed forces were officially abolished under the 1994 Constitution (2022)<br>

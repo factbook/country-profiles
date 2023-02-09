@@ -186,7 +186,7 @@ _unimproved: rural_: rural: 9% of population<br>
 _unimproved: total_: total: 8% of population (2020 est.)<br>
 
 **Current health expenditure**<br>
-7.4% of GDP (2019)<br>
+5.4% of GDP (2020)<br>
 
 **Physicians density**<br>
 0.05 physicians/1,000 population (2020)<br>
@@ -318,7 +318,7 @@ _industrial_: 47.7 million cubic meters (2017 est.)<br>
 _agricultural_: 1.166 billion cubic meters (2017 est.)<br>
 
 **Total renewable water resources**<br>
-17.28 billion cubic meters (2017 est.)<br>
+17.3 billion cubic meters (2017 est.)<br>
 
 ## Government
 
@@ -698,7 +698,7 @@ _lake port(s)_: Chipoka, Monkey Bay, Nkhata Bay, Nkhotakota, Chilumba (Lake Nyas
 ## Military and Security
 
 **Military and security forces**<br>
-Malawi Defense Force (MDF): Army (includes marine unit), Air Force (established as a separate service August 2019; previously was an air wing under the Army); Ministry of Homeland Security: Malawi Police Service (2022)<br>
+Malawi Defense Force (MDF): Army (includes maritime force), Air Force (established as a separate service August 2019; previously was an air wing under the Army); Ministry of Homeland Security: Malawi Police Service (2023)<br>
 <strong>note:</strong> the MDF reports directly to the president as commander in chief; the Malawi Ministry of Defense was abolished in 2011<br>
 
 **Military expenditures**<br>

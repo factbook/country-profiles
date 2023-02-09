@@ -173,7 +173,7 @@ _unimproved: rural_: rural: 0.4% of population<br>
 _unimproved: total_: total: 0.4% of population (2020 est.)<br>
 
 **Current health expenditure**<br>
-5% of GDP (2019)<br>
+5.3% of GDP (2020)<br>
 
 **Physicians density**<br>
 0.95 physicians/1,000 population (2020)<br>
@@ -662,7 +662,7 @@ His Majesty's Armed Forces Tonga (aka Tonga Defense Services): Joint Force headq
 approximately 650 personnel (2022)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the Tonga military's inventory includes mostly light weapons and equipment from Australia, European (primarily the UK) countries, and the US (2022)<br>
+the Tonga military's inventory includes mostly light weapons and equipment from Australia, European countries (primarily the UK), and the US (2022)<br>
 
 **Military service age and obligation**<br>
 voluntary military service for men and women 18-25 (16 with parental approval for non-combat positions); no conscription (2022)<br>

@@ -174,7 +174,7 @@ _unimproved: rural_: rural: NA<br>
 _unimproved: total_: total: 0.4% of population (2020 est.)<br>
 
 **Current health expenditure**<br>
-2.9% of GDP (2019)<br>
+4.2% of GDP (2020)<br>
 
 **Physicians density**<br>
 2.49 physicians/1,000 population (2018)<br>
@@ -460,7 +460,7 @@ _female_: 2.1% (2021 est.)<br>
 NA<br>
 
 **Gini Index coefficient - distribution of family income**<br>
-41.1 (2007)<br>
+41.1 (2007 est.)<br>
 
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 1.3%<br>
@@ -675,14 +675,14 @@ Qatar Armed Forces: Qatari Amiri Land Force (QALF, includes Emiri Guard), Qatari
 information varies; approximately 15,000 active duty personnel (10,000 Land Force, including Emiri Guard; 3,000 Navy; 2,000 Air Force) (2022)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the Qatari military's inventory includes a broad mix of older and modern weapons systems, mostly from the US and Europe; in the 2010s, Qatar embarked on an extensive military expansion and modernization program with large air, ground, and naval equipment purchases; since 2010, France and the US have been the top suppliers (2022)<br>
+the Qatari military's inventory includes a broad mix of older and modern weapons systems, mostly from the US and Europe; in the 2010s, Qatar embarked on an extensive military expansion and modernization program with large air, ground, and naval equipment purchases; in recent years, France and the US have been the top suppliers (2023)<br>
 
 **Military service age and obligation**<br>
 conscription for men aged 18-35 introduced in 2013; compulsory service times range from 4-12 months, depending on educational and professional circumstances; since 2018, women have been permitted to serve as volunteers in the armed forces, including as uniformed officers and pilots (2022)<br>
 <strong>note 1:</strong> as of 2020, the military incorporated about 2,000 conscripts annually<br><br><strong>note 2:</strong> Qatar recruits foreign contract soldiers to overcome manpower limitations; as of 2020, it was estimated that as much as 85% of the military was comprised of foreigners<br>
 
 **Military - note**<br>
-Qatar hosts the regional headquarters for the US Central Command (CENTCOM; established 1983) and more than 8,000 US military forces at various military facilities, including the large Al Udeid Air Base; Qatar also hosts as many as 5,000 Turkish military forces at two bases established in 2014 and 2019<br><br>Qatar has Major Non-NATO Ally (MNNA) status with the US; MNNA is a designation under US law that provides foreign partners with certain benefits in the areas of defense trade and security cooperation; while MNNA status provides military and economic privileges, it does not entail any security commitments (2022)<br>
+Qatar hosts the regional headquarters for the US Central Command (CENTCOM; established 1983) and more than 8,000 US military forces at various military facilities, including the large Al Udeid Air Base; Qatar also hosts as many as 5,000 Turkish military forces at two bases established in 2014 and 2019<br><br>Qatar has Major Non-NATO Ally (MNNA) status with the US; MNNA is a designation under US law that provides foreign partners with certain benefits in the areas of defense trade and security cooperation; while MNNA status provides military and economic privileges, it does not entail any security commitments (2023)<br>
 
 ## Terrorism
 
@@ -692,5 +692,5 @@ Qatar hosts the regional headquarters for the US Central Command (CENTCOM; estab
 <p>none identified</p><br>
 
 **Refugees and internally displaced persons**<br>
-_stateless persons_: 1,200 (mid-year 2021)<br>
+_stateless persons_: 1,200 (2022)<br>
 

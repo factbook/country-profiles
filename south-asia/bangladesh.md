@@ -180,7 +180,7 @@ _unimproved: rural_: rural: 1.3% of population<br>
 _unimproved: total_: total: 1.1% of population (2020 est.)<br>
 
 **Current health expenditure**<br>
-2.5% of GDP (2019)<br>
+2.6% of GDP (2020)<br>
 
 **Physicians density**<br>
 0.67 physicians/1,000 population (2020)<br>
@@ -315,7 +315,7 @@ _industrial_: 770 million cubic meters (2017 est.)<br>
 _agricultural_: 31.5 billion cubic meters (2017 est.)<br>
 
 **Total renewable water resources**<br>
-1.227 trillion cubic meters (2017 est.)<br>
+1.227 trillion cubic meters (2019 est.)<br>
 
 ## Government
 
@@ -733,7 +733,7 @@ Armed Forces of Bangladesh (aka Bangladesh Defense Force): Bangladesh Army, Bang
 information varies; approximately 165,000 total active personnel (135,000 Army; 15,000 Navy; 15,000 Air Force) (2022)<br>
 
 **Military equipment inventories and acquisitions**<br>
-much of the military's inventory is comprised of Chinese- and Russian-origin equipment, with a smaller mix from a variety of other suppliers; since 2010, China has been the leading provider of arms to Bangladesh; as of 2022, Bangladesh was undertaking a large defense modernization program, with a focus on naval acquisitions (2022)<br>
+much of the military's inventory is comprised of Chinese- and Russian-origin equipment, with a smaller mix from a variety of other suppliers; in recent years, China has been the leading provider of arms to Bangladesh; as of 2022, Bangladesh was undertaking a large defense modernization program, with a focus on naval acquisitions (2022)<br>
 
 **Military service age and obligation**<br>
 16-21 years of age for voluntary military service; Bangladeshi nationality and 10th grade education required; officers: 17-21 years of age, Bangladeshi nationality, and 12th grade education required (2022)<br>
@@ -761,7 +761,7 @@ Harakat ul-Jihad-i-Islami/Bangladesh; Islamic State of Iraq and ash-Sham in Bang
 **Refugees and internally displaced persons**<br>
 _refugees (country of origin)_: 950,972 (Burma) (2022)<br>
 _IDPs_: 427,000 (conflict, development, human rights violations, religious persecution, natural disasters) (2021)<br>
-_stateless persons_: 889,704 (mid-year 2021)<br>
+_stateless persons_: 929,606 (2022)<br>
 
 **Illicit drugs**<br>
 <p>transit country for illegal drugs produced in neighboring countries; does not manufacture precursor chemicals with the exception of sulphuric acid, hydrochloric acid, and toluene</p><br>

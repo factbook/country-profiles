@@ -561,7 +561,7 @@ not available<br>
 the PA Security Forces have approximately 30,000 active personnel (2022)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the security services are armed mostly with small arms and light weapons, although since 2010, they have received small amounts of heavier equipment from Jordan (armored personnel carriers) and Russia (armored personnel carriers and transport helicopters) (2022)<br>
+the security services are armed mostly with small arms and light weapons, although in recent years, they have received small amounts of heavier equipment from Jordan (armored personnel carriers) and Russia (armored personnel carriers and transport helicopters) (2022)<br>
 
 **Military service age and obligation**<br>
 not available<br>

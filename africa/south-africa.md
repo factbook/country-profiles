@@ -186,7 +186,7 @@ _unimproved: rural_: rural: 9.7% of population<br>
 _unimproved: total_: total: 3.3% of population (2020 est.)<br>
 
 **Current health expenditure**<br>
-9.1% of GDP (2019)<br>
+8.6% of GDP (2020)<br>
 
 **Physicians density**<br>
 0.79 physicians/1,000 population (2019)<br>
@@ -311,7 +311,7 @@ _industrial_: 4.1 billion cubic meters (2017 est.)<br>
 _agricultural_: 11.39 billion cubic meters (2017 est.)<br>
 
 **Total renewable water resources**<br>
-51.35 billion cubic meters (2017 est.)<br>
+51.4 billion cubic meters (2017 est.)<br>
 
 ## Government
 
@@ -727,7 +727,7 @@ South African National Defense Force (SANDF): South African Army (includes Reser
 approximately 75,000 active duty personnel (40,000 Army; 7,000 Navy; 10,000 Air Force; 8,000 Military Health Service; 10,000 other, including administrative, logistics, military police); 180,000 South African Police Service (2022)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the SANDF's inventory consists of a mix of domestically produced and foreign-supplied equipment; South Africa's domestic defense industry produced most of the Army's major weapons systems (some were jointly-produced with foreign companies), while the Air Force and Navy inventories include a mix of European-, Israeli-, and US-origin weapons systems (2022)<br>
+the SANDF's inventory consists of a mix of domestically produced and foreign-supplied equipment; South Africa's domestic defense industry produced most of the Army's major weapons systems (some were jointly produced with foreign companies), while the Air Force and Navy inventories include a mix of European-, Israeli-, and US-origin weapons systems (2022)<br>
 
 **Military service age and obligation**<br>
 18-22 (18-26 for college graduates) years of age for voluntary military service for men and women; 2-year service obligation (2022)<br>

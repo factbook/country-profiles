@@ -191,7 +191,7 @@ _unimproved: rural_: rural: 6.9% of population<br>
 _unimproved: total_: total: 2.4% of population (2020 est.)<br>
 
 **Current health expenditure**<br>
-5.7% of GDP (2019)<br>
+7.6% of GDP (2020)<br>
 
 **Physicians density**<br>
 3.82 physicians/1,000 population (2020)<br>
@@ -321,7 +321,7 @@ _industrial_: 28.04 billion cubic meters (2017 est.)<br>
 _agricultural_: 18.66 billion cubic meters (2017 est.)<br>
 
 **Total renewable water resources**<br>
-4.525 trillion cubic meters (2017 est.)<br>
+4.5 trillion cubic meters (2017 est.)<br>
 
 ## Government
 
@@ -512,7 +512,7 @@ _female_: 18.4% (2021 est.)<br>
 12.6% (2018 est.)<br>
 
 **Gini Index coefficient - distribution of family income**<br>
-37.5 (2018 est.)<br>
+36 (2020 est.)<br>
 
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 2.3%<br>
@@ -760,7 +760,7 @@ the Russian Federation's military and paramilitary services are equipped with do
 
 **Military deployments**<br>
 information varies; approximately 3,000 Armenia; approximately 2,000 Armenia/Azerbaijan (peacekeepers for Nagorno-Karabakh); estimated 3,000-5,000 Belarus; approximately 7,000-10,000 Georgia; approximately 500 Kyrgyzstan; approximately 1,500 Moldova (Transnistria); estimated 2,000-5,000 Syria; approximately 5,000 Tajikistan (2022)<br>
-<strong>note 1:</strong> in February 2022, Russia invaded Ukraine with an estimated 150,000 troops; prior to the invasion, it maintained an estimated 30,000 troops in areas of Ukraine occupied since 2014<br><br><strong>note 2: </strong>prior to the invasion of Ukraine, Russia was assessed to have about 3,000-5,000 private military contractors conducting military and security operations in Africa, including in the Central African Republic, Libya, Mali, and Sudan<br>
+<strong>note 1:</strong> in February 2022, Russia invaded Ukraine with an estimated 150,000 troops; prior to the invasion, it maintained an estimated 30,000 troops in areas of Ukraine occupied since 2014<br><br><strong>note 2: </strong>prior to the invasion of Ukraine, Russia was assessed to have about 3,000-5,000 private military contractors conducting military and security operations in Africa and the Middle East, including in the Central African Republic, Libya, Mali, Sudan, and Syria<br>
 
 **Military - note**<br>
 as of 2023, Russian military forces continued to conduct active combat operations in Syria; Russia intervened in the Syrian civil war at the request of the ASAD government in September 2015; Russian assistance included air support, special operations forces, military advisors, private military contractors, training, arms, and equipment<br><br>Russia is the leading member of the Collective Security Treaty Organization (CSTO) and contributes approximately 8,000 troops to CSTO's rapid reaction force (2023)<br>

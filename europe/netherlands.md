@@ -182,7 +182,7 @@ _unimproved: rural_: rural: 0% of population<br>
 _unimproved: total_: total: 0% of population (2020 est.)<br>
 
 **Current health expenditure**<br>
-10.1% of GDP (2019)<br>
+11.1% of GDP (2020)<br>
 
 **Physicians density**<br>
 4.08 physicians/1,000 population (2020)<br>
@@ -478,7 +478,7 @@ _female_: 9.2% (2021 est.)<br>
 13.6% (2019 est.)<br>
 
 **Gini Index coefficient - distribution of family income**<br>
-28.5 (2017 est.)<br>
+29.2 (2019 est.)<br>
 
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 2.3%<br>
@@ -733,7 +733,7 @@ Islamic State of Iraq and ash-Sham (ISIS)<br>
 
 **Refugees and internally displaced persons**<br>
 _refugees (country of origin)_: 53,496 (Syria), 19,204 (Eritrea), 7,106 (Turkey), 5,593 (Iran), 5,152 (Iraq) (mid-year 2022); 79,250 (Ukraine) (as of 30 September 2022)<br>
-_stateless persons_: 2,087 (mid-year 2021)<br>
+_stateless persons_: 4,570 (2022)<br>
 
 **Illicit drugs**<br>
 <p>a significant transit country for illicit drugs, especially cocaine from South America destined for Europe; one of the largest sources of synthetic drugs for international markets; numerous methamphetamine laboratories; traffickers use postage companies to send cocaine, ecstasy or methamphetamines to global customers</p><br>

@@ -172,7 +172,7 @@ _unimproved: rural_: rural: 10% of population<br>
 _unimproved: total_: total: 3.3% of population (2020 est.)<br>
 
 **Current health expenditure**<br>
-4.9% of GDP (2019)<br>
+6% of GDP (2020)<br>
 
 **Physicians density**<br>
 0.83 physicians/1,000 population (2018)<br>
@@ -676,7 +676,7 @@ as of 2022, the FACV/National Guard was mostly a ground force with 2 infantry ba
 <p>none</p><br>
 
 **Refugees and internally displaced persons**<br>
-_stateless persons_: 115 (mid-year 2021)<br>
+_stateless persons_: 115 (2022)<br>
 
 **Illicit drugs**<br>
 Cabo Verde is a transit hub for cocaine, marijuana, and other drugs trafficked from Latin America to Europe; marijuana, cocaine, hashish, heroin, and methamphetamine are the most frequently consumed drugs in Cabo Verde<br>

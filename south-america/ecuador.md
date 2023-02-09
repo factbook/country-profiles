@@ -182,7 +182,7 @@ _unimproved: rural_: rural: 12.9% of population<br>
 _unimproved: total_: total: 4.6% of population (2020 est.)<br>
 
 **Current health expenditure**<br>
-7.8% of GDP (2019)<br>
+8.5% of GDP (2020)<br>
 
 **Physicians density**<br>
 2.22 physicians/1,000 population (2017)<br>
@@ -724,7 +724,7 @@ Ecuadorian Armed Forces: the Ecuadorian Army (Ejército Ecuatoriano), Ecuadorian
 approximately 40,000 active military personnel (25,000 Army; 9,000 Navy; 6,000 Air Force) (2022)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the military's equipment inventory is mostly older and derived from a wide variety of sources; since 2010, Ecuador has received limited amounts of military equipment from more than 15 countries, including Brazil, China, Russia, and the US (2022)<br>
+the military's equipment inventory is mostly older and derived from a wide variety of sources; in recent years, Ecuador has received limited amounts of military equipment from more than 15 countries, including Brazil, China, Russia, and the US (2022)<br>
 
 **Military service age and obligation**<br>
 18 years of age for selective conscript military service, although conscription was suspended in 2008; 18 years of age for voluntary military service; Ecuadorian birth requirement; 1-year service obligation; females have been allowed to serve in all branches since 2012 (2022)<br>

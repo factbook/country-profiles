@@ -175,7 +175,7 @@ _unimproved: rural_: rural: NA<br>
 _unimproved: total_: total: 0% of population (2020 est.)<br>
 
 **Current health expenditure**<br>
-4.3% of GDP (2019)<br>
+5.5% of GDP (2020)<br>
 
 **Physicians density**<br>
 2.6 physicians/1,000 population (2019)<br>
@@ -689,7 +689,7 @@ United Arab Emirates Armed Forces: Land Forces, Navy Forces, Air Force, Presiden
 approximately 65,000 active personnel (45,000 Land Forces; 3,000 Navy; 5,000 Air Force; 12,000 Presidential Guard) (2022)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the military's inventory is comprised of wide variety of mostly modern imported equipment; since 2010, the UAE has acquired military equipment from more than 20 countries with France, Russia, and the US as the leading suppliers; in recent years, the UAE has tried to boost its domestic defense industry (2022)<br>
+the military's inventory is comprised of wide variety of mostly modern imported equipment; over the past decade, the UAE has acquired military equipment from more than 20 countries with France, Russia, and the US as the leading suppliers; in recent years, the UAE has tried to boost its domestic defense industry (2022)<br>
 
 **Military service age and obligation**<br>
 18-30 years of age for compulsory military service for men (compulsory service initiated in 2014); 17 years of age for volunteers with parental approval; men can volunteer up to age 40; 24-month general service obligation, 16 months for secondary school graduates; women can volunteer to serve for 9 months regardless of education (2022)<br>

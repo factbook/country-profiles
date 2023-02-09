@@ -182,7 +182,7 @@ _unimproved: rural_: rural: 0% of population<br>
 _unimproved: total_: total: 0% of population (2020 est.)<br>
 
 **Current health expenditure**<br>
-5.7% of GDP (2019)<br>
+6.3% of GDP (2020)<br>
 
 **Physicians density**<br>
 2.98 physicians/1,000 population (2017)<br>
@@ -293,7 +293,7 @@ _industrial_: 4.234 billion cubic meters (2017 est.)<br>
 _agricultural_: 1.491 billion cubic meters (2017 est.)<br>
 
 **Total renewable water resources**<br>
-212.01 billion cubic meters (2017 est.)<br>
+212 billion cubic meters (2017 est.)<br>
 
 ## Government
 
@@ -478,7 +478,7 @@ _female_: 20.1% (2021 est.)<br>
 23.8% (2018 est.)<br>
 
 **Gini Index coefficient - distribution of family income**<br>
-36 (2017 est.)<br>
+34.8 (2019 est.)<br>
 
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 15.3%<br>
@@ -728,9 +728,9 @@ Islamic State of Iraq and ash-Sham (ISIS)<br>
 <p><em>Romania-Bulgaria</em>: none identified</p> <p><em>Romania-Hungary</em>: none identified</p> <p><em>Romania-Moldova</em>: none identified</p> <p><em>Romania-Serbia</em>: none identified</p> <p><em>Romania-Ukraine</em>: the International Court of Justice ruled largely in favor of Romania in its dispute submitted in 2004 over Ukrainian-administered Zmiyinyy/Serpilor (Snake) Island and Black Sea maritime boundary delimitation; in 2007, Romania opposed Ukraine's construction of a navigation canal from the Danube border through Ukraine to the Black Sea, arguing that it runs through a unique ecological area, the Danube Delta</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 106,835 (Ukraine) (as of 22 January 2023)<br>
-_stateless persons_: 314 (mid-year 2021)<br>
-<strong>note:</strong> 11,981 estimated refugee and migrant arrivals (January 2015-December 2022)<br>
+_refugees (country of origin)_: 108,663 (Ukraine) (as of 29 January 2023)<br>
+_stateless persons_: 297 (2022)<br>
+<strong>note:</strong> 12,176 estimated refugee and migrant arrivals (January 2015-January 2023)<br>
 
 **Illicit drugs**<br>
 <p>a source country for cannabis</p><br>

@@ -199,7 +199,7 @@ _unimproved: total_: total: 9% of population (2017 est.)<br>
 <strong>note:</strong> does not include data from the former Western Sahara<br>
 
 **Current health expenditure**<br>
-5.3% of GDP (2019)<br>
+6% of GDP (2020)<br>
 <strong>note:</strong> does not include data from the former Western Sahara<br>
 
 **Physicians density**<br>
@@ -744,7 +744,7 @@ Royal Armed Forces: Royal Moroccan Army (includes the Moroccan Royal Guard), Roy
 approximately 200,000 active personnel (175,000 Army; 10,000 Navy; 15,000 Air Force); estimated 20,000 Gendarmerie; estimated 5,000 Mobile Intervention Corps (2022)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the Moroccan military's inventory is comprised of mostly older French and US equipment; in recent years, it has received some more modern equipment from a variety of countries with France and the US as the leading suppliers (2022)<br>
+the Moroccan military's inventory is comprised of mostly older French and US equipment, although in recent years, it has received quantities of more modern equipment from a variety of countries with France and the US continuing to be the leading suppliers (2022)<br>
 
 **Military service age and obligation**<br>
 19-25 years of age for 12-month compulsory and voluntary military service for men and women (conscription abolished 2006 and reintroduced in 2019) (2022)<br>

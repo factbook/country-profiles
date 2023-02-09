@@ -270,7 +270,7 @@ _residency requirement for naturalization_: 5 years<br>
 
 **Executive branch**<br>
 _chief of state_: President TSAI Ing-wen (since 20 May 2016); Vice President LAI Ching-te (since 20 May 2020)<br>
-_head of government_: Premier SU Tseng-chang (President of the Executive Yuan) (since 11 January 2019); Vice Premier SHEN Jong-chin (Vice President of the Executive Yuan) (since 19 June 2020)<br>
+_head of government_: Premier CHEN Chien-jen (President of the Executive Yuan) (since 25 January 2023); Vice Premier CHENG Wen-tsan (Vice President of the Executive Yuan) (since 25 January 2023)<br>
 _cabinet_: Executive Yuan - ministers appointed by president on recommendation of premier<br>
 _elections/appointments_: president and vice president directly elected on the same ballot by simple majority popular vote for a 4-year term (eligible for a second term); election last held on 11 January 2020 (next to be held on 11 January 2024); premier appointed by the president; vice premiers appointed by the president on the recommendation of the premier<br>
 _election results_: <em>2020</em>: TSAI Ing-wen elected president; percent of vote - TSAI Ing-wen (DPP) 57.1%, HAN Kuo-yu (KMT) 38.6%, James SOONG (PFP) 4.2%; note - TSAI is the first woman elected president of Taiwan<br><br><em>2016</em>: TSAI Ing-wen elected president; percent of vote - TSAI Ing-wen (DPP) 56.1%, Eric CHU (KMT) 31%, James SOONG (PFP) 12.8%<br>
@@ -613,7 +613,7 @@ approximately 170,000 active duty troops (90,000 Army; 40,000 Navy, including ap
 <strong>note: </strong>Taiwan trains about 120,000 reservists annually, but in 2022 announced intentions to increase that figure to 260,000<br>
 
 **Military equipment inventories and acquisitions**<br>
-the Taiwan military is armed mostly with second-hand weapons and equipment provided by the US; since 2010, the US has continued to be the largest provider of arms; Taiwan also has a domestic defense industry capable of building and upgrading a range of weapons systems, including surface ships and submarines (2023)<br>
+the Taiwan military is armed mostly with secondhand weapons and equipment provided by the US, and the US has continued to be the largest provider of arms in recent years; Taiwan also has a domestic defense industry capable of building and upgrading a range of weapons systems, including surface ships and submarines (2023)<br>
 
 **Military service age and obligation**<br>
 starting with those born in 1994, men 18-36 years of age may volunteer or must complete 4 months of compulsory military service; civil service can be substituted for military service in some cases; men born before December 1993 are required to complete compulsory service for 12 months (military or civil); men are subject to training recalls up to four times for periods not to exceed 20 days for 8 years after discharge; women may enlist but are restricted to noncombat roles in most cases; as part of its transition to an all-volunteer military, the last cohort of 12-month military conscripts completed their service obligations in December 2018 (2022)<br>

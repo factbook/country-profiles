@@ -22,7 +22,7 @@ Europe<br>
 _total_: 243,610 sq km<br>
 _land_: 241,930 sq km<br>
 _water_: 1,680 sq km<br>
-<strong>note 1:</strong> the percentage area breakdown of the four UK countries is: England 53%, Scotland 32%, Wales 9%, and Northern Ireland 6%<br><strong>note 2:</strong> includes Rockall and the Shetland Islands, which are part of Scotland<br>
+<strong>note 1:</strong> the percentage area breakdown of the four UK countries is: England 53%, Scotland 32%, Wales 9%, and Northern Ireland 6%<br><br><strong>note 2:</strong> includes Rockall and the Shetland Islands, which are part of Scotland<br>
 
 **Area - comparative**<br>
 twice the size of Pennsylvania; slightly smaller than Oregon<br>
@@ -178,7 +178,7 @@ _unimproved: rural_: rural: 0% of population<br>
 _unimproved: total_: total: 0% of population (2020 est.)<br>
 
 **Current health expenditure**<br>
-10.2% of GDP (2019)<br>
+12% of GDP (2020)<br>
 
 **Physicians density**<br>
 3 physicians/1,000 population (2020)<br>
@@ -744,8 +744,8 @@ Continuity Irish Republican Army; Islamic State of Iraq and ash-Sham (ISIS); New
 <p><em>UK-Argentina</em>: UK rejects sovereignty talks requested by Argentina, which still claims the Falkland Islands (Islas Malvinas) and South Georgia and the South Sandwich Islands</p> <p><em>UK-Argentina-Chile</em>: the UK’s territorial claim in Antarctica (British Antarctic Territory) overlaps Argentine claim and partially overlaps Chilean claim</p> <p><em>UK-Denmark</em>: the UK, Iceland, and Ireland dispute Denmark's claim that the Faroe Islands' continental shelf extends beyond 200 nm; Iceland, Norway, and the Faroe Islands signed an agreement in 2019 extending the Faroe Islands’ northern continental shelf area</p> <p><em>UK (Gibraltar)-Spain</em>: in 2002, Gibraltar residents voted overwhelmingly by referendum to reject any "shared sovereignty" arrangement between the UK and Spain; the Government of Gibraltar insisted on equal participation in talks between the two countries; Spain disapproved of UK plans to grant Gibraltar greater autonomy; London and Madrid reached a temporary agreement at the end of 2020 that allowed Gibraltar to be part of the passport-free Schengen zone; talks are expected to continue in 2022</p> <p><em>UK-Mauritius-Seychelles</em>: Mauritius and Seychelles claim the Chagos Archipelago (British Indian Ocean Territory); in 2001, the former inhabitants of the archipelago, evicted 1967 - 1973, were granted UK citizenship and the right of return, followed by Orders in Council in 2004 that banned rehabitation, a High Court ruling reversed the ban, a Court of Appeal refusal to hear the case, and a Law Lords' decision in 2008 denied the right of return; in addition, the UK created the world's largest marine protection area around the Chagos Islands prohibiting the extraction of any natural resources therein</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 21,904 (Iran), 15,615 (Eritrea), 11,371 (Sudan), 12,155 (Syria), 10,259 (Afghanistan), 8,009 (Pakistan), 7,699 (Iraq) (mid-year 2022); 157,300 (Ukraine) (as of 16 January 2023)<br>
-_stateless persons_: 3,968 (mid-year 2021)<br>
+_refugees (country of origin)_: 21,904 (Iran), 15,615 (Eritrea), 11,371 (Sudan), 12,155 (Syria), 10,259 (Afghanistan), 8,009 (Pakistan), 7,699 (Iraq) (mid-year 2022); 158,800 (Ukraine) (as of 23 January 2023)<br>
+_stateless persons_: 5,483 (2022)<br>
 
 **Illicit drugs**<br>
 <p>consumer and transit country for illicit drugs; cocaine and heroin consumption rates among Europe’s highest; criminal organizations engage in domestic drug trafficking and financial crimes; drug use remains linked to serious violence; major source of precursor chemicals used in the production of illicit narcotics</p><br>

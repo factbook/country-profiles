@@ -179,7 +179,7 @@ _unimproved: rural_: rural: 0.2% of population<br>
 _unimproved: total_: total: 0.1% of population (2020 est.)<br>
 
 **Current health expenditure**<br>
-7.8% of GDP (2019)<br>
+9.2% of GDP (2020)<br>
 
 **Physicians density**<br>
 4.15 physicians/1,000 population (2020)<br>
@@ -717,8 +717,8 @@ Czechia joined NATO in 1999; Czechia, Hungary, and Poland were invited to begin 
 <p>none</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 483,620 (Ukraine) (as of 22 January 2023)<br>
-_stateless persons_: 1,498 (mid-year 2021)<br>
+_refugees (country of origin)_: 486,133 (Ukraine) (as of 29 January 2023)<br>
+_stateless persons_: 1,625 (2022)<br>
 
 **Illicit drugs**<br>
 <p>manufacture of methamphetamine continues to be mostly based on pseudoephedrine from  Poland or Turkey.</p> <p> </p><br>

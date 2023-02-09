@@ -180,7 +180,7 @@ _unimproved: rural_: rural: 0% of population<br>
 _unimproved: total_: total: 0% of population (2020 est.)<br>
 
 **Current health expenditure**<br>
-9.2% of GDP (2019)<br>
+9.6% of GDP (2020)<br>
 
 **Physicians density**<br>
 4.64 physicians/1,000 population (2018)<br>
@@ -694,11 +694,11 @@ Finnish Defense Forces (FDF): Army (Maavoimat), Navy (Merivoimat), Air Force (Il
 <strong>note:</strong> the Border Guard becomes part of the FDF in wartime<br>
 
 **Military expenditures**<br>
-2% of GDP (2021 est.)<br>
+2% of GDP (2022 est.)<br>
+1.9% of GDP (2021)<br>
 1.5% of GDP (2020)<br>
-1.4% of GDP (2019) (approximately $4.18 billion)<br>
-1.4% of GDP (2018) (approximately $4.02 billion)<br>
-1.3% of GDP (2017) (approximately $3.8 billion)<br>
+1.4% of GDP (2019)<br>
+1.4% of GDP (2018)<br>
 
 **Military and security service personnel strengths**<br>
 approximately 22,000 active duty personnel (15,000 Army; 4,000 Navy; 3,000 Air Force) (2022)<br>
@@ -722,6 +722,6 @@ Finland is not a member of NATO, but Finland and NATO have actively cooperated i
 <p>various groups in Finland advocate restoration of Karelia and other areas ceded to the former Soviet Union, but the Finnish Government asserts no territorial demands</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 9,175 (Iraq) (mid-year 2022); 47,067 (Ukraine) (as of 23 January 2023)<br>
-_stateless persons_: 3,416 (mid-year 2021)<br>
+_refugees (country of origin)_: 9,175 (Iraq) (mid-year 2022); 47,067 (Ukraine) (as of 30 January 2023)<br>
+_stateless persons_: 3,546 (2022)<br>
 

@@ -186,7 +186,7 @@ _unimproved: rural_: rural: 0% of population<br>
 _unimproved: total_: total: 0% of population (2020 est.)<br>
 
 **Current health expenditure**<br>
-9.4% of GDP (2019)<br>
+9.2% of GDP (2020)<br>
 
 **Physicians density**<br>
 4.94 physicians/1,000 population (2017)<br>
@@ -708,7 +708,7 @@ Armed Forces of Uruguay (Fuerzas Armadas del Uruguay): National Army (Ejercito N
 approximately 22,000 active duty personnel (14,000 Army; 5,000 Navy; 3,000 Air Force) (2022)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the military's inventory includes a wide variety of older or second-hand equipment; since 2010, it has imported limited amounts of military hardware from about 10 countries with Spain as the leading supplier (2022)<br>
+the military's inventory includes a wide variety of older or second-hand equipment; in recent years, it has imported limited amounts of military hardware from a variety of countries with Spain as the leading supplier (2022)<br>
 
 **Military service age and obligation**<br>
 18-30 years of age (18-22 years of age for Navy) for voluntary military service for men and women; up to 40 years of age for specialists; enlistment is voluntary in peacetime, but the government has the authority to conscript in emergencies (2022)<br>
@@ -727,7 +727,7 @@ the military has some domestic responsibilities, including perimeter security fo
 
 **Refugees and internally displaced persons**<br>
 _refugees (country of origin)_: 19,000 (Venezuela) (economic and political crisis; includes Venezuelans who have claimed asylum or have received alternative legal stay) (2022)<br>
-_stateless persons_: 5 (mid-year 2021)<br>
+_stateless persons_: 5 (2022)<br>
 
 **Illicit drugs**<br>
 transit country for drugs mainly bound for Europe, often through sea-borne containers; limited law enforcement corruption; money laundering; weak border control along Brazilian frontier; increasing consumption of cocaine base and synthetic drugs<br>

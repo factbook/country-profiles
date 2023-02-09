@@ -93,7 +93,7 @@ Portuguese-based Creole, Portuguese (official; largely used as a second or third
 Muslim 46.1%, folk religions 30.6%, Christian 18.9%, other or unaffiliated 4.4% (2020 est.)<br>
 
 **Demographic profile**<br>
-<p>Guinea-Bissau’s young and growing population is sustained by high fertility; approximately 60% of the population is under the age of 25. Its large reproductive-age population and total fertility rate of more than 4 children per woman offsets the country’s high infant and maternal mortality rates. The latter is among the world’s highest because of the prevalence of early childbearing, a lack of birth spacing, the high percentage of births outside of health care facilities, and a shortage of medicines and supplies.</p><p>Guinea-Bissau’s history of political instability, a civil war, and several coups (the latest in 2012) have resulted in a fragile state with a weak economy, high unemployment, rampant corruption, widespread poverty, and thriving drug and child trafficking. With the country lacking educational infrastructure, school funding and materials, and qualified teachers, and with the cultural emphasis placed on religious education, parents frequently send boys to study in residential Koranic schools (daaras) in Senegal and The Gambia. They often are extremely deprived and are forced into street begging or agricultural work by marabouts (Muslim religious teachers), who enrich themselves at the expense of the children. Boys who leave their marabouts often end up on the streets of Dakar or other large Senegalese towns and are vulnerable to even worse abuse.</p><p>Some young men lacking in education and job prospects become involved in the flourishing international drug trade. Local drug use and associated violent crime are growing.</p><br>
+<p>Guinea-Bissau’s young and growing population is sustained by high fertility; approximately 60% of the population is under the age of 25 as of 2020. Its large reproductive-age population and total fertility rate of more than 4 children per woman offsets the country’s high infant and maternal mortality rates. The latter is among the world’s highest because of the prevalence of early childbearing, a lack of birth spacing, the high percentage of births outside of health care facilities, and a shortage of medicines and supplies.</p> <p>Guinea-Bissau’s history of political instability, a civil war, and several coups (the latest in 2012) have resulted in a fragile state with a weak economy, high unemployment, rampant corruption, widespread poverty, and thriving drug and child trafficking. With the country lacking educational infrastructure, school funding and materials, and qualified teachers, and with the cultural emphasis placed on religious education, parents frequently send boys to study in residential Koranic schools (daaras) in Senegal and The Gambia. They often are extremely deprived and are forced into street begging or agricultural work by marabouts (Muslim religious teachers), who enrich themselves at the expense of the children. Boys who leave their marabouts often end up on the streets of Dakar or other large Senegalese towns and are vulnerable to even worse abuse.</p> <p>Some young men lacking in education and job prospects become involved in the flourishing international drug trade. Local drug use and associated violent crime are growing.</p><br>
 
 **Age structure**<br>
 _0-14 years_: 43.17% (male 417,810/female 414,105)<br>
@@ -175,7 +175,7 @@ _unimproved: rural_: rural: 40.9% of population<br>
 _unimproved: total_: total: 26.9% of population (2020 est.)<br>
 
 **Current health expenditure**<br>
-8.4% of GDP (2019)<br>
+8.4% of GDP (2020)<br>
 
 **Physicians density**<br>
 0.2 physicians/1,000 population (2020)<br>
@@ -666,7 +666,7 @@ People's Revolutionary Armed Force (FARP): Army, Navy, Air Force; Ministry of In
 approximately 4,000 total active troops, including a few hundred air and naval personnel (2022)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the FARP is poorly armed with an inventory consisting of Soviet-era equipment, much of which is reportedly unserviceable; the only reported deliveries of military equipment since 2015 were patrol boats from Spain in 2017 and non-lethal equipment from China in 2015; Guinea-Bissau has also discussed acquiring military equipment with Indonesia (2022)<br>
+the FARP is poorly armed with an inventory consisting of Soviet-era equipment, much of which is reportedly unserviceable; over the past several years, it has received only a small amount of equipment from China and Spain (2022)<br>
 
 **Military service age and obligation**<br>
 18-25 years of age for selective compulsory military service (Air Force service is voluntary); 16 years of age or younger, with parental consent, for voluntary service (2022)<br>

@@ -174,7 +174,7 @@ _unimproved: rural_: rural: 0.2% of population<br>
 _unimproved: total_: total: 0.1% of population (2020 est.)<br>
 
 **Current health expenditure**<br>
-6.2% of GDP (2019)<br>
+6.7% of GDP (2020)<br>
 
 **Physicians density**<br>
 2.71 physicians/1,000 population (2020)<br>
@@ -277,7 +277,7 @@ _industrial_: 12 million cubic meters (2017 est.)<br>
 _agricultural_: 344 million cubic meters (2017 est.)<br>
 
 **Total renewable water resources**<br>
-2.751 billion cubic meters (2017 est.)<br>
+2.8 billion cubic meters (2017 est.)<br>
 
 ## Government
 

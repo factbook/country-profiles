@@ -183,7 +183,7 @@ _unimproved: rural_: rural: 20% of population<br>
 _unimproved: total_: total: 16.9% of population (2020 est.)<br>
 
 **Current health expenditure**<br>
-3.8% of GDP (2019)<br>
+4% of GDP (2020)<br>
 
 **Physicians density**<br>
 0.15 physicians/1,000 population (2020)<br>
@@ -740,4 +740,5 @@ al-Shabaab; Islamic State of Iraq and ash-Sham - Democratic Republic of Congo (I
 
 **Refugees and internally displaced persons**<br>
 _refugees (country of origin)_: 854,268 (South Sudan) (refugees and asylum seekers), 473,529 (Democratic Republic of the Congo), 61,563 (Somalia) (refugees and asylum seekers), 40,630 (Burundi), 26,683 (Eritrea), 23,251 (Rwanda), 5,330 (Ethiopia) (2022)<br>
+_stateless persons_: 67,000 (2022)<br>
 

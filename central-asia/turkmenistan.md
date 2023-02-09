@@ -185,7 +185,7 @@ _unimproved: rural_: rural: 0% of population<br>
 _unimproved: total_: total: 0% of population (2020 est.)<br>
 
 **Current health expenditure**<br>
-6.6% of GDP (2019)<br>
+5.7% of GDP (2020)<br>
 
 **Physicians density**<br>
 2.23 physicians/1,000 population (2014)<br>
@@ -301,7 +301,7 @@ _industrial_: 839 million cubic meters (2017 est.)<br>
 _agricultural_: 26.36 billion cubic meters (2017 est.)<br>
 
 **Total renewable water resources**<br>
-24.765 billion cubic meters (2017 est.)<br>
+24.8 billion cubic meters (2017 est.)<br>
 
 ## Government
 
@@ -699,7 +699,7 @@ Armed Forces of Turkmenistan: Land Forces, Navy, Air and Air Defense Forces; Fed
 information varies; estimated 30,000 active duty troops (25,000 National Army; 1,000 Navy; 4,000 Air and Air Defense Forces) (2022)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the inventory for Turkmenistan's military is comprised largely of older Russian and Soviet-era weapons systems; since 2010, however, it has attempted to diversify and purchased equipment from more than a dozen countries, with Turkey as the top supplier (2022)<br>
+the inventory for Turkmenistan's military is comprised largely of older Russian and Soviet-era weapons systems; in recent years however, it has attempted to diversify and purchased equipment from more than a dozen countries, with Turkey as the top supplier (2022)<br>
 
 **Military service age and obligation**<br>
 18-30 years of age for compulsory male military service; 24-month conscript service obligation (30 months for the Navy); 20 years of age for voluntary service (including females); males may enroll in military schools from age 15 (2022)<br>
@@ -713,7 +713,7 @@ Turkmenistan has a policy of permanent neutrality and has declined to participat
 <p><em>Turkmenistan-Azerbaijan</em>: in January 2021, the two countries reached a preliminary agreement on the joint exploration of an undersea hydrocarbon field containing oil and natural gas in the Caspian Sea</p> <p><em>Turkmenistan-Iran</em>: none identified</p> <p><em>Turkmenistan-Kazakhstan</em>: Kazakhstan and Turkmenistan signed a treaty on the delimitation and demarcation process in 2001; field demarcation of the boundaries with Kazakhstan commenced in 2005; Turkmenistan and Kazakhstan agreed to their border in the Caspian Sea in 2014</p> <p><em>Turkmenistan-Kazakhstan-Uzbekistan</em>: in 2017, the three countries signed an agreement of the junction of their borders</p> <p><em>Turkmenistan-Uzbekistan</em>: cotton monoculture in Uzbekistan and Turkmenistan creates water-sharing difficulties for Amu Darya river states; in 2021, the two countries reached an agreement to create a joint intergovernmental commission to oversee water management</p><br>
 
 **Refugees and internally displaced persons**<br>
-_stateless persons_: 4,107 (mid-year 2021)<br>
+_stateless persons_: 4,463 (2022)<br>
 
 **Trafficking in persons**<br>
 _tier rating_: Tier 3 &mdash; Turkmenistan does not fully meet the minimum standards for the elimination of trafficking and is not making significant efforts to do so; the government approved the 2020-2022 national action plan, continued anti-trafficking awareness campaigns, worked with international organizations on combating trafficking, provided training to its diplomatic corps on human trafficking, and identified potential trafficking victims at the international airport; however, the &nbsp;government used forced labor in the cotton harvest and public works projects; no officials were held accountable for their role in trafficking crimes; authorities did not prosecute or convict any traffickers; no victims were identified and offered protection or assistance programs (2020)<br>

@@ -177,7 +177,7 @@ _unimproved: rural_: rural: 2.7% of population<br>
 _unimproved: total_: total: 0.8% of population (2020 est.)<br>
 
 **Current health expenditure**<br>
-7% of GDP (2019)<br>
+6.3% of GDP (2020)<br>
 
 **Physicians density**<br>
 1.3 physicians/1,000 population (2017)<br>
@@ -285,7 +285,7 @@ _industrial_: 965 million cubic meters (2017 est.)<br>
 _agricultural_: 3.773 billion cubic meters (2017 est.)<br>
 
 **Total renewable water resources**<br>
-4.615 billion cubic meters (2017 est.)<br>
+4.6 billion cubic meters (2017 est.)<br>
 
 ## Government
 
@@ -689,7 +689,7 @@ Tunisian Armed Forces (Forces Armées Tunisiennes, FAT): Tunisian Army (includes
 approximately 35,000 active duty personnel (25,000 Army; 5,000 Navy; 5,000 Air Force); estimated 10,000 National Guard (2022)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the Tunisian military's inventory includes mostly older or second-hand US and European equipment; since 2010, the Netherlands and US have been the leading suppliers of arms to Tunisia (2022)<br>
+the Tunisian military's inventory includes mostly older or second-hand US and European equipment; in recent years, the Netherlands and US have been the leading suppliers of arms to Tunisia (2022)<br>
 
 **Military service age and obligation**<br>
 20-23 years of age for male compulsory service, 1-year service obligation; individuals engaged in higher education or vocational training programs prior to their military drafting are allowed to delay service until they have completed their programs; 18-23 years of age for voluntary service; women may volunteer (2022)<br>

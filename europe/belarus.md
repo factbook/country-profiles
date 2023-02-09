@@ -178,7 +178,7 @@ _unimproved: rural_: rural: 0.4% of population<br>
 _unimproved: total_: total: 0.1% of population (2020 est.)<br>
 
 **Current health expenditure**<br>
-5.9% of GDP (2019)<br>
+6.4% of GDP (2020)<br>
 
 **Physicians density**<br>
 4.54 physicians/1,000 population (2019)<br>
@@ -294,7 +294,7 @@ _industrial_: 443 million cubic meters (2017 est.)<br>
 _agricultural_: 431 million cubic meters (2017 est.)<br>
 
 **Total renewable water resources**<br>
-57.9 billion cubic meters (2017 est.)<br>
+57.9 billion cubic meters (2019 est.)<br>
 
 ## Government
 
@@ -723,8 +723,8 @@ Belarus has close security ties with Russia, including an integrated air and mis
 <p><em>Belarus-Latvia:</em> Boundary demarcated with Latvia.<br><br><em>Belarus-Lithuania:</em> Boundary demarcated with Lithuania.<br><br><em>Belarus-Poland:</em> As a member state that forms part of the EU's external border, Poland has implemented strict Schengen border rules to restrict illegal immigration and trade along its border with Belarus.</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 19,415 (Ukraine) (as of 17 January 2023)<br>
-_stateless persons_: 6,104 (mid-year 2021)<br>
+_refugees (country of origin)_: 19,673 (Ukraine) (as of 24 January 2023)<br>
+_stateless persons_: 5,626 (2022)<br>
 
 **Trafficking in persons**<br>
 _tier rating_: Tier 3 — Belarus does not fully meet the minimum standards for the elimination of trafficking and is not making significant efforts to do so, therefore Belarus was downgraded to Tier 3; nonetheless, the government took some steps to address trafficking, including conducting investigations and prosecutions and identifying and referring victims to services; however, the government did not report investigating, prosecuting, or convicting traffickers under its trafficking statute nor provide adequate protection to victims; officials reportedly returned many migrants and asylum seekers to their countries of origin without comprehensively screening them for trafficking; the government did not report conducting awareness activities, and its efforts to prevent labor trafficking remained inadequate; for the 5th consecutive year, Belarus did not report investigating or filing charges related to illegal recruitment of migrant workers (2022)<br>

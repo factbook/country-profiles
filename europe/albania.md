@@ -181,7 +181,7 @@ _unimproved: rural_: rural: 3.6% of population<br>
 _unimproved: total_: total: 3% of population (2020 est.)<br>
 
 **Current health expenditure**<br>
-5.2% of GDP (2018)<br>
+6.7% of GDP (2018)<br>
 
 **Physicians density**<br>
 1.88 physicians/1,000 population (2020)<br>
@@ -295,7 +295,7 @@ _industrial_: 231.8 million cubic meters (2017 est.)<br>
 _agricultural_: 905 million cubic meters (2017 est.)<br>
 
 **Total renewable water resources**<br>
-30.2 billion cubic meters (2017 est.)<br>
+30.2 billion cubic meters (2019 est.)<br>
 
 ## Government
 
@@ -699,7 +699,7 @@ the Albanian military was previously equipped with mostly Soviet-era weapons tha
 
 **Military service age and obligation**<br>
 19 is the legal minimum age for voluntary military service; 18 is the legal minimum age in case of general/partial compulsory mobilization; conscription abolished 2010 (2021)<br>
-<strong>note: </strong>as of 2020, women comprised about 14% of the military's full-time personnel, including 20% of the officers<br>
+<strong>note: </strong>as of 2021, women comprised about 15% of the military's full-time personnel, including 20% of the officers<br>
 
 **Military - note**<br>
 Albania became a member of NATO in 2009; as of 2022, Greece and Italy were providing NATO's air policing mission for Albania<br>
@@ -716,7 +716,7 @@ Islamic Revolutionary Guard Corps/Qods Force; Islamic State of Iraq and ash-Sham
 <p>none</p><br>
 
 **Refugees and internally displaced persons**<br>
-_stateless persons_: 1,528 (mid-year 2021)<br>
+_stateless persons_: 1,948 (2022)<br>
 <strong>note:</strong> 41,804 estimated refugee and migrant arrivals (January 2015-November 2022)<br>
 
 **Illicit drugs**<br>

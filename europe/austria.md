@@ -184,7 +184,7 @@ _unimproved: rural_: rural: 0% of population<br>
 _unimproved: total_: total: 0% of population (2020 est.)<br>
 
 **Current health expenditure**<br>
-10.4% of GDP (2019)<br>
+11.5% of GDP (2020)<br>
 
 **Physicians density**<br>
 5.29 physicians/1,000 population (2020)<br>
@@ -294,7 +294,7 @@ _industrial_: 2.695 billion cubic meters (2017 est.)<br>
 _agricultural_: 77.1 million cubic meters (2017 est.)<br>
 
 **Total renewable water resources**<br>
-77.7 billion cubic meters (2017 est.)<br>
+77.7 billion cubic meters (2019 est.)<br>
 
 ## Government
 
@@ -699,11 +699,11 @@ _river port(s)_: Enns, Krems, Linz, Vienna (Danube)<br>
 Austrian Armed Forces: Land Forces, Air Forces, Cyber Forces, Special Forces (2022)<br>
 
 **Military expenditures**<br>
-0.9% of GDP (2021 est.)<br>
+0.7% of GDP (2022 est.)<br>
+0.8% of GDP (2021)<br>
 0.7% of GDP (2020)<br>
-0.7% of GDP (2019) (approximately $3.78 billion)<br>
-0.7% of GDP (2018) (approximately $3.82 billion)<br>
-0.8% of GDP (2017) (approximately $3.71 billion)<br>
+0.7% of GDP (2019)<br>
+0.7% of GDP (2018)<br>
 
 **Military and security service personnel strengths**<br>
 approximately 25,000 active duty personnel (20,000 Army; 5,000 Air Force) (2022)<br>
@@ -733,8 +733,8 @@ Islamic State of Iraq and ash-Sham (ISIS)<br>
 <p>none identified</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 67,588 (Syria), 43,725 (Afghanistan), 10,110 (Iraq), 8,684 (Somalia), 7,294 (Iran), 6,124 (Russia) (mid-year 2022); 92,019 (Ukraine) (as of 23 January 2023)<br>
-_stateless persons_: 3,229 (mid-year 2021)<br>
+_refugees (country of origin)_: 67,588 (Syria), 43,725 (Afghanistan), 10,110 (Iraq), 8,684 (Somalia), 7,294 (Iran), 6,124 (Russia) (mid-year 2022); 92,436 (Ukraine) (as of 30 January 2023)<br>
+_stateless persons_: 3,219 (2022)<br>
 
 **Illicit drugs**<br>
 transshipment point for Southwest Asian heroin and South American cocaine destined for Western Europe; increasing consumption of European-produced synthetic drugs<br>

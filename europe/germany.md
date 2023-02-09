@@ -186,7 +186,7 @@ _unimproved: rural_: rural: 0% of population<br>
 _unimproved: total_: total: 0% of population (2020 est.)<br>
 
 **Current health expenditure**<br>
-11.7% of GDP (2019)<br>
+12.8% of GDP (2020)<br>
 
 **Physicians density**<br>
 4.44 physicians/1,000 population (2020)<br>
@@ -723,7 +723,7 @@ approximately 184,000 active duty personnel (63,000 Army; 16,000 Navy; 27,000 Ai
 <strong>note:</strong> Germany in 2020 announced it planned to increase the size of the military to about 200,000 troops by 2025<br>
 
 **Military equipment inventories and acquisitions**<br>
-the German Federal Armed Forces inventory is comprised of weapons systems produced domestically or jointly with other European countries and Western imports, particularly from the US; since 2010, the US has been the leading foreign supplier; Germany's defense industry is capable of manufacturing the full spectrum of air, land, and naval military weapons systems, and is one of the world's leading arms exporters (2022)<br>
+the German Federal Armed Forces inventory is comprised of weapons systems produced domestically or jointly with other European countries and Western imports, particularly from the US; in recent years, the US has been the leading foreign supplier; Germany's defense industry is capable of manufacturing the full spectrum of air, land, and naval military weapons systems, and is one of the world's leading arms exporters (2022)<br>
 
 **Military service age and obligation**<br>
 17-23 years of age for male and female voluntary military service (must have completed compulsory full-time education and have German citizenship); conscription ended July 2011; service obligation 7-23 months or 12 years; women have been eligible for voluntary service in all military branches and positions since 2001 (2022)<br>
@@ -748,8 +748,8 @@ Islamic Revolutionary Guard Corps/Qods Force; Islamic State of Iraq and ash-Sham
 <p>none</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 664,238 (Syria), 183,631 (Afghanistan), 151,254 (Iraq), 64,496 (Eritrea), 47,658 (Iran), 38,755 (Turkey), 32,155 (Somalia), 13,334 (Russia), 12,155 (Nigeria), 9,250 (Pakistan), 6,257 (Serbia and Kosovo), 6,912 (Ethiopia), 5,532 (Azerbaijan) (mid-year 2022); 1,021,667 (Ukraine) (as of 22 November 2022)<br>
-_stateless persons_: 26,980 (mid-year 2021)<br>
+_refugees (country of origin)_: 664,238 (Syria), 183,631 (Afghanistan), 151,254 (Iraq), 64,496 (Eritrea), 47,658 (Iran), 38,755 (Turkey), 32,155 (Somalia), 13,334 (Russia), 12,155 (Nigeria), 9,250 (Pakistan), 6,257 (Serbia and Kosovo), 6,912 (Ethiopia), 5,532 (Azerbaijan) (mid-year 2022); 1,055,323 (Ukraine) (as of 31 January 2023)<br>
+_stateless persons_: 28,941 (2022)<br>
 
 **Illicit drugs**<br>
 <p>maritime transshipment point for cocaine heading to Europe</p><br>

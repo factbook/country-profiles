@@ -176,7 +176,7 @@ _unimproved: rural_: rural: NA<br>
 _unimproved: total_: total: 0% of population (2020 est.)<br>
 
 **Current health expenditure**<br>
-4.1% of GDP (2019)<br>
+6.1% of GDP (2020)<br>
 
 **Physicians density**<br>
 2.46 physicians/1,000 population (2019)<br>
@@ -687,13 +687,13 @@ the SAF has a diverse and largely modern mix of domestically produced and import
 
 **Military service age and obligation**<br>
 18-21 years of age for compulsory military service for men; 16.5 years of age for voluntary enlistment (with parental consent); 24-month conscript service obligation, with a reserve obligation to age 40 (enlisted) or age 50 (officers); women are not conscripted, but they are allowed to volunteer for all services and branches, including combat arms (2022)<br>
-<strong>note 1: </strong>under the Enlistment Act, all male Singaporean citizens and permanent residents, unless exempted, are required to enter National Service (NS) upon attaining the age of 18; most NS conscripts serve in the Armed Forces, but some go into the Police Force or Civil Defense Force; as of 2020, conscripts comprised over half of the defense establishment<br><br><strong>note 2:</strong> as of 2017, women made up about 7% of the active force<br><br><strong>note 3:</strong> members of the Gurkha Contingent (GC) of the Singapore Police Force are mostly recruited from a small number of hill tribes in Nepal; the GC was formed in 1949 originally from selected ex-British Army Gurkhas<br>
+<strong>note 1: </strong>under the Enlistment Act, all male Singaporean citizens and permanent residents, unless exempted, are required to enter National Service (NS) upon attaining the age of 18; most NS conscripts serve in the Armed Forces, but some go into the Police Force or Civil Defense Force; as of 2020, conscripts comprised over half of the defense establishment<br><br><strong>note 2:</strong> as of 2019, women made up about 8% of the active force<br><br><strong>note 3:</strong> members of the Gurkha Contingent (GC) of the Singapore Police Force are mostly recruited from a small number of hill tribes in Nepal; the GC was formed in 1949 originally from selected ex-British Army Gurkhas<br>
 
 **Military deployments**<br>
 maintains permanent training detachments of military personnel in Australia, France, and the US (2022)<br>
 
 **Military - note**<br>
-Singapore is a member of the Five Powers Defense Arrangements (FPDA), a series of mutual assistance agreements reached in 1971 embracing Australia, Malaysia, New Zealand, Singapore, and the UK; the FPDA commits the members to consult with one another in the event or threat of an armed attack on any of the members and to mutually decide what measures should be taken, jointly or separately; there is no specific obligation to intervene militarily <br><br>the SAF's roots go back to 1854 when the Singapore Volunteer Rifle Corps was formed under colonial rule; the first battalion of regular soldiers, the First Singapore Infantry Regiment, was organized in 1957; the modern SAF was established in 1965; as of 2022, the SAF was widely viewed as the best equipped military in southeast Asia; the Army was largely based on conscripts and reservists with a small cadre of professional soldiers, while the Air Force and Navy were primarily comprised of well-trained professionals (2022)<br>
+Singapore is a member of the Five Powers Defense Arrangements (FPDA), a series of mutual assistance agreements reached in 1971 embracing Australia, Malaysia, New Zealand, Singapore, and the UK; the FPDA commits the members to consult with one another in the event or threat of an armed attack on any of the members and to mutually decide what measures should be taken, jointly or separately; there is no specific obligation to intervene militarily <br><br>the SAF's roots go back to 1854 when the Singapore Volunteer Rifle Corps was formed under colonial rule; the first battalion of regular soldiers, the First Singapore Infantry Regiment, was organized in 1957; the modern SAF was established in 1965; the SAF is widely viewed as the best equipped military in southeast Asia; the Army is largely based on conscripts and reservists with a small cadre of professional soldiers, while the Air Force and Navy are primarily comprised of well-trained professionals (2022)<br>
 
 **Maritime threats**<br>
 the International Maritime Bureau reports the territorial and offshore waters in the South China Sea as high risk for piracy and armed robbery against ships; numerous commercial vessels have been attacked and hijacked both at anchor and while underway; hijacked vessels are often disguised and cargo diverted to ports in East Asia; crews have been murdered or cast adrift; the Singapore Straits saw 35 attacks against commercial vessels in 2021, a 50% increase over 2020 and the highest number of incidents reported since 1992; vessels were boarded in 33 of the 35 incidents, one crew was injured, another assaulted and two threatened during these incidents<br>
@@ -707,7 +707,7 @@ the International Maritime Bureau reports the territorial and offshore waters in
 https://www.todayonline.com/world/asia/singapore-and-indonesia-signed-landmark-maritime-boundary-treaty <br><br>https://en.wikipedia.org/wiki/Indonesia%E2%80%93Singapore_border <br><br>https://www.iseas.edu.sg/media/commentaries/indonesia-ratifies-maritime-border-treaty-with-singapore-a-commentary-by-mustafa-izzuddin/ <br><br>https://en.wikipedia.org/wiki/Pedra_Branca_dispute <br><br>https://asia.nikkei.com/Politics/Malaysia-in-transition/Singapore-and-Malaysia-make-major-breakthrough-in-maritime-dispute <br><br>https://thediplomat.com/2021/09/the-1962-johor-singapore-water-agreement-lessons-learned/<br>
 
 **Refugees and internally displaced persons**<br>
-_stateless persons_: 1,109 (mid-year 2021)<br>
+_stateless persons_: 1,109 (2022)<br>
 
 **Illicit drugs**<br>
 <p>drug abuse limited because of aggressive law enforcement efforts, including carrying out death sentences; as a transportation and financial services hub, Singapore is vulnerable, despite strict laws and enforcement, as a venue for money laundering</p><br>

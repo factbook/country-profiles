@@ -182,7 +182,7 @@ _unimproved: rural_: rural: 9.3% of population<br>
 _unimproved: total_: total: 3.9% of population (2020 est.)<br>
 
 **Current health expenditure**<br>
-7.3% of GDP (2019)<br>
+9% of GDP (2020)<br>
 
 **Physicians density**<br>
 0.5 physicians/1,000 population (2020)<br>
@@ -703,7 +703,7 @@ Honduran Armed Forces (Fuerzas Armadas de Honduras, FFAA): Army (Ejercito), Hond
 approximately 16,000 active personnel (7,500 Army; 1,500 Navy, including about 1,000 marines; 2,000 Air Force; 5,000 Military Police of Public Order); approximately 18,000 National Police (2022)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the FFAA's inventory is comprised of mostly older imported equipment from Israel, the UK, and the US; since 2010, Honduras has received limited amounts of military equipment from several countries, including Colombia, Israel, and the Netherlands (2022)<br>
+the FFAA's inventory is comprised of mostly older imported equipment from Israel, the UK, and the US; in recent years, it has received limited amounts of military equipment from several countries, including Colombia, Israel, and the Netherlands (2022)<br>
 
 **Military service age and obligation**<br>
 18 years of age for voluntary 2- to 3-year military service (men and women); no conscription (2022)<br>

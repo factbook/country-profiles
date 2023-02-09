@@ -183,7 +183,7 @@ _unimproved: rural_: rural: 0% of population<br>
 _unimproved: total_: total: 0% of population (2020 est.)<br>
 
 **Current health expenditure**<br>
-6.5% of GDP (2019)<br>
+6.5% of GDP (2020)<br>
 
 **Physicians density**<br>
 3.77 physicians/1,000 population (2020)<br>
@@ -492,7 +492,7 @@ _female_: 15% (2021 est.)<br>
 15.4% (2018 est.)<br>
 
 **Gini Index coefficient - distribution of family income**<br>
-29.7 (2017 est.)<br>
+30.2 (2018 est.)<br>
 
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 3%<br>
@@ -713,7 +713,7 @@ Polish Armed Forces: Land Forces (Wojska Ladowe), Navy (Marynarka Wojenna), Air 
 <strong>note:</strong> the Polish Armed Forces are organized into a General Staff, an Armed Forces General Command, an Armed Forces Operational Command, Territorial Defense Forces (established 2017), Military Police, and the Warsaw Garrison Command<br>
 
 **Military expenditures**<br>
-2.4% of GDP (2022 est.)<br>
+2.4% of GDP (2022)<br>
 2.3% of GDP (2021)<br>
 2.2% of GDP (2020)<br>
 2% of GDP (2019) (approximately $17.5 billion)<br>
@@ -725,7 +725,7 @@ approximately 120,000 active duty personnel (65,000 Army; 7,000 Navy; 15,000 Air
 <strong>note: </strong>in June 2019, the Polish Government approved a plan to increase the size of the military over a period of 10 years to over 200,000 troops, including doubling the size of the Territorial Defense Forces; in 2021, it announced additional plans to increase the size of the military to over 300,000 personnel<br>
 
 **Military equipment inventories and acquisitions**<br>
-the inventory of the Polish Armed Forces consists of a mix of Soviet-era and more modern Western weapons systems; since 2010, the leading suppliers of armaments have included Finland, Germany, Italy, and the US (2022)<br>
+the inventory of the Polish Armed Forces consists of a mix of Soviet-era and more modern, mostly Western, weapons systems; in recent years, the leading suppliers of armaments have included Finland, Germany, Italy, South Korea, and the US; Poland has a large domestic defense sector that produces or provides upgrades to a wide variety of weapons systems, particularly ground systems such as tanks and other armored vehicles; it also cooperates with the European and US defense sectors (2022)<br>
 <strong>note:</strong> in late 2018, Poland announced a 7-year (through 2026) approximately $50 billion defense modernization plan that would include such items as 5th generation combat aircraft, unmanned aerial vehicles, rocket artillery, helicopters, submarines, frigates, and improved cyber security; in 2022, it signed large military weapons contracts with South Korea and the US<br>
 
 **Military service age and obligation**<br>
@@ -751,8 +751,8 @@ Islamic State of Iraq and ash-Sham (ISIS)<br>
 <p><em>Poland-Belarus-Ukraine</em>: as a member state that forms part of the EU's external border, Poland has implemented the strict Schengen border rules to restrict illegal immigration and trade along its eastern borders with Belarus and Ukraine</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 1,563,386 (Ukraine) (as of 24 January 2022)<br>
-_stateless persons_: 1,389 (mid-year 2021)<br>
+_refugees (country of origin)_: 1,563,386 (Ukraine) (as of 31 January 2022)<br>
+_stateless persons_: 1,435 (2022)<br>
 
 **Illicit drugs**<br>
 <p>source country for amphetamines</p><br>

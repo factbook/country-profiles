@@ -175,7 +175,7 @@ _unimproved: rural_: rural: 8.8% of population<br>
 _unimproved: total_: total: 7.2% of population (2020 est.)<br>
 
 **Current health expenditure**<br>
-4.1% of GDP (2019)<br>
+4.1% of GDP (2020)<br>
 
 **Physicians density**<br>
 1.23 physicians/1,000 population (2020)<br>
@@ -712,7 +712,7 @@ approximately 260,000 total personnel (200,000 Army; 30,000 Navy; 30,000 Air For
 <strong>note: </strong>in January 2023, Sri Lanka’s Ministry of Defense announced plans to decrease the size of the Army to 135,000 by 2024 and 100,000 by 2030<br>
 
 **Military equipment inventories and acquisitions**<br>
-the military's inventory consists mostly of Chinese and Russian-origin equipment with a smaller mix of material from countries such as India and the US; since 2010, China, India, and the US have been the leading suppliers of arms to Sri Lanka (2022)<br>
+the military's inventory consists mostly of Chinese and Russian-origin equipment with a smaller mix of material from countries such as India and the US (2022)<br>
 
 **Military service age and obligation**<br>
 18-22 years of age for voluntary military service for men and women; no conscription (2022)<br>
@@ -736,4 +736,5 @@ Islamic State of Iraq and ash-Sham (ISIS); Liberation Tigers of Tamil Eelam (LTT
 
 **Refugees and internally displaced persons**<br>
 _IDPs_: 12,000 (civil war; more than half displaced prior to 2008; many of the more than 480,000 IDPs registered as returnees have not reached durable solutions) (2021)<br>
+_stateless persons_: 35 (2022)<br>
 

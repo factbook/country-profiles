@@ -182,7 +182,7 @@ _unimproved: rural_: rural: 0% of population<br>
 _unimproved: total_: total: 0% of population (2020 est.)<br>
 
 **Current health expenditure**<br>
-11.3% of GDP (2019)<br>
+11.8% of GDP (2020)<br>
 
 **Physicians density**<br>
 4.38 physicians/1,000 population (2020)<br>
@@ -733,8 +733,8 @@ Islamic State of Iraq and ash-Sham (ISIS)<br>
 <p>none identified</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 14,726 (Eritrea), 11,441 (Afghanistan), 8,039 (Syria), (mid-year 2022); 78,467 (Ukraine) (as of 20 January 2023)<br>
-_stateless persons_: 684 (mid-year 2021)<br>
+_refugees (country of origin)_: 14,726 (Eritrea), 11,441 (Afghanistan), 8,039 (Syria), (mid-year 2022); 78,888 (Ukraine) (as of 27 January 2023)<br>
+_stateless persons_: 891 (2022)<br>
 
 **Illicit drugs**<br>
 major source of precursor chemicals used in the production of illicit narcotics; a significant importer and exporter of ephedrine and pseudoephedrine<br>

@@ -189,7 +189,7 @@ _unimproved: rural_: rural: 8.5% of population<br>
 _unimproved: total_: total: 4.9% of population (2020 est.)<br>
 
 **Current health expenditure**<br>
-5.4% of GDP (2019)<br>
+5.6% of GDP (2020)<br>
 
 **Physicians density**<br>
 2.23 physicians/1,000 population (2019)<br>
@@ -755,7 +755,7 @@ People's Liberation Army (PLA): Ground Forces, Navy (PLAN, includes marines and 
 approximately 2 million active-duty troops (approximately 1 million Ground; 250,000 Navy/Marines; 350-400,000 Air Force; 120,000 Rocket Forces; 150-175,000 Strategic Support Forces); estimated 600-650,000 People&rsquo;s Armed Police (2022)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the PLA is outfitted primarily with a wide mix of older and modern domestically-produced systems heavily influenced by technology derived from other countries; Russia has been the top supplier of foreign military equipment since 2010; China has a large defense-industrial sector capable of producing advanced weapons systems across all military domains (2022)<br>
+the PLA is outfitted primarily with a wide mix of older and modern domestically produced systems heavily influenced by technology derived from other countries; Russia has been the top supplier of foreign military equipment in recent years; China has a large defense-industrial sector capable of producing advanced weapons systems across all military domains (2022)<br>
 <strong>note:</strong> the PLA is in the midst of a decades-long modernization effort; in 2017, President XI set three developmental goals for the force - becoming a mechanized force with increased information and strategic capabilities by 2020, a fully modernized force by 2035, and a world-class military by mid-century<br>
 
 **Military service age and obligation**<br>

@@ -181,7 +181,7 @@ _unimproved: rural_: rural: 37.4% of population<br>
 _unimproved: total_: total: 16.8% of population (2020 est.)<br>
 
 **Current health expenditure**<br>
-8.4% of GDP (2019)<br>
+8.6% of GDP (2020)<br>
 
 **Physicians density**<br>
 1.67 physicians/1,000 population (2018)<br>
@@ -287,7 +287,7 @@ _industrial_: 73.6 million cubic meters (2017 est.)<br>
 _agricultural_: 1.185 billion cubic meters (2017 est.)<br>
 
 **Total renewable water resources**<br>
-164.52 billion cubic meters (2017 est.)<br>
+164.5 billion cubic meters (2017 est.)<br>
 
 ## Government
 
@@ -691,7 +691,7 @@ Army of Nicaragua (Ejercito de Nicaragua, EN): Land Forces (Fuerza Terrestre); N
 approximately 12,000 active personnel (10,000 Army; 800 Navy; 1,200 Air Force) (2022)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the Nicaraguan military's inventory includes mostly second-hand Russian/Soviet-era equipment; since 2010, Russia has been the leading arms supplier to Nicaragua (2022)<br>
+the Nicaraguan military's inventory includes mostly secondhand Russian/Soviet-era equipment; in recent years, Russia has been the leading arms supplier to Nicaragua (2022)<br>
 
 **Military service age and obligation**<br>
 18-30 years of age for voluntary military service; no conscription; tour of duty 18-36 months; requires Nicaraguan nationality and 6th-grade education (2022)<br>

@@ -176,7 +176,7 @@ _unimproved: rural_: rural: 1% of population<br>
 _unimproved: total_: total: 0.6% of population (2020 est.)<br>
 
 **Current health expenditure**<br>
-7.3% of GDP (2019)<br>
+7.9% of GDP (2020)<br>
 
 **Physicians density**<br>
 2.87 physicians/1,000 population (2015)<br>
@@ -467,7 +467,7 @@ _female_: 38.4% (2021 est.)<br>
 21.6% (2018 est.)<br>
 
 **Gini Index coefficient - distribution of family income**<br>
-34.2 (2017 est.)<br>
+33 (2018 est.)<br>
 
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 1.7%<br>
@@ -694,7 +694,7 @@ Islamic State of Iraq and ash-Sham (ISIS)<br>
 
 **Refugees and internally displaced persons**<br>
 _refugees (country of origin)_: 6,404 (Ukraine) (as of 24 January 2023)<br>
-_stateless persons_: 553 (mid-year 2021)<br>
+_stateless persons_: 521 (2022)<br>
 <strong>note:</strong> 550,697 estimated refugee and migrant arrivals (January 2015-November 2022)<br>
 
 **Illicit drugs**<br>

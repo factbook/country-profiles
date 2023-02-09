@@ -179,7 +179,7 @@ _unimproved: rural_: rural: 1.8% of population<br>
 _unimproved: total_: total: 0.6% of population (2020 est.)<br>
 
 **Current health expenditure**<br>
-8.3% of GDP (2019)<br>
+11.4% of GDP (2020)<br>
 
 **Physicians density**<br>
 2.74 physicians/1,000 population (2020)<br>
@@ -486,7 +486,7 @@ _female_: 36.7% (2021 est.)<br>
 24.5% (2018 est.)<br>
 
 **Gini Index coefficient - distribution of family income**<br>
-39 (2015 est.)<br>
+36.8 (2018 est.)<br>
 
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 3.5%<br>
@@ -705,7 +705,7 @@ the military's inventory is small and consists mostly of Soviet-era equipment in
 
 **Military service age and obligation**<br>
 18 is the legal minimum age for voluntary military service; conscription abolished in 2006 (2021)<br>
-<strong>note:</strong> as of 2019, women made up about 6% of the military's full-time personnel<br>
+<strong>note:</strong> as of 2021, women made up about 10% of the military's full-time personnel<br>
 
 **Military - note**<br>
 Montenegro became a member of NATO in 2017; as of 2022, Greece and Italy provided NATO's air policing mission for Montenegro<br>
@@ -718,8 +718,8 @@ Montenegro became a member of NATO in 2017; as of 2022, Greece and Italy provide
 <p><em>Montenegro-Albania</em>: none identified</p> <p><em>Montenegro-Bosnia and Herzegovina</em>: the two countries signed a border agreement in August 2015; sovereignty of the disputed Sutorina territory was given to Montenegro</p> <p><em>Montenegro-Croatia</em>: the two countries in 2002 reached a temporary agreement designating the Prevlaka Peninsula as part of Croatia, in October 2020, a Montenegrin official resurrected the dormant dispute over the Prevlaka Peninsula by stating that Montenegro had a good chance of winning it through international arbitration</p> <p><em>Montenegro-Kosovo</em>: a 2015 border agreement was ratified by Montenegro in 2015 and by Kosovo in 2018, but the actual demarcation has not been completed</p> <p><em>Montenegro-Serbia</em>: The former republic boundary – when the two countries were one and called the Federal Republic of Yugoslavia – serves as the boundary until a line is formally delimited and demarcated</p> <p> </p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 33,098 (Ukraine) (as of 23 January 2023)<br>
-_stateless persons_: 458 (mid-year 2021)<br>
+_refugees (country of origin)_: 33,319 (Ukraine) (as of 30 January 2023)<br>
+_stateless persons_: 468 (2022)<br>
 <strong>note:</strong> 29,305 estimated refugee and migrant arrivals (January 2015-January 2023)<br>
 
 **Illicit drugs**<br>

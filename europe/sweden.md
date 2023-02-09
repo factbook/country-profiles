@@ -181,7 +181,7 @@ _unimproved: rural_: rural: 0.3% of population<br>
 _unimproved: total_: total: 0.2% of population (2020 est.)<br>
 
 **Current health expenditure**<br>
-10.9% of GDP (2019)<br>
+11.4% of GDP (2020)<br>
 
 **Physicians density**<br>
 7.09 physicians/1,000 population (2019)<br>
@@ -726,6 +726,6 @@ Islamic State of Iraq and ash-Sham (ISIS)<br>
 <p>none identified</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 113,213 (Syria), 26,857 (Afghanistan), 25,849 (Eritrea), 10,464 (Iraq), 9,315 (Somalia), 7,146 (Iran) (mid-year 2022); 51,029 (Ukraine) (as of 20 January 2023)<br>
-_stateless persons_: 50,098 (mid-year 2021); note - the majority of stateless people are from the Middle East and Somalia<br>
+_refugees (country of origin)_: 113,213 (Syria), 26,857 (Afghanistan), 25,849 (Eritrea), 10,464 (Iraq), 9,315 (Somalia), 7,146 (Iran) (mid-year 2022); 51,230 (Ukraine) (as of 27 January 2023)<br>
+_stateless persons_: 46,515 (2022); note - the majority of stateless people are from the Middle East and Somalia<br>
 

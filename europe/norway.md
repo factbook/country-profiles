@@ -178,7 +178,7 @@ _unimproved: rural_: rural: 0% of population<br>
 _unimproved: total_: total: 0% of population (2020 est.)<br>
 
 **Current health expenditure**<br>
-10.5% of GDP (2019)<br>
+11.4% of GDP (2020)<br>
 
 **Physicians density**<br>
 5.04 physicians/1,000 population (2020)<br>
@@ -468,7 +468,7 @@ _female_: 12.5% (2021 est.)<br>
 12.7% (2018 est.)<br>
 
 **Gini Index coefficient - distribution of family income**<br>
-27 (2017 est.)<br>
+27.7 (2019 est.)<br>
 
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 3.8%<br>
@@ -715,6 +715,6 @@ Norway is a member of NATO and was one of the original 12 countries to sign the 
 <p><em>Norway-Antarctica</em>: Norway asserts a territorial claim in Antarctica (Queen Maud Land and its continental shelf)</p> <p><em>Norway-Russia</em>: Russia amended its 2001 CLCS submission in 2015 and 2021, each time delineating the outer limits of its continental shelf further into the Arctic Ocean; Norway and Russia signed a comprehensive maritime boundary agreement in 2010, ending a dispute over an area of the Barents Sea by dividing the territory equally</p> <p><em>Norway-Sweden</em>: none identified</p> <p> </p> <p> </p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 15,901 (Syria), 10,883 (Eritrea) (mid-year 2022); 37,971 (Ukraine) (as of 23 January 2023)<br>
-_stateless persons_: 4,154 (mid-year 2021)<br>
+_refugees (country of origin)_: 15,901 (Syria), 10,883 (Eritrea) (mid-year 2022); 38,581 (Ukraine) (as of 30 January 2023)<br>
+_stateless persons_: 3,901 (2022)<br>
 

@@ -178,7 +178,7 @@ _unimproved: rural_: rural: 0.2% of population<br>
 _unimproved: total_: total: 0.2% of population (2020 est.)<br>
 
 **Current health expenditure**<br>
-7% of GDP (2019)<br>
+8.1% of GDP (2020)<br>
 
 **Physicians density**<br>
 3.14 physicians/1,000 population (2019)<br>
@@ -341,7 +341,7 @@ _residency requirement for naturalization_: 7 years<br>
 _chief of state_: President Nikos ANASTASIADIS (since 28 February 2013); the president is both chief of state and head of government; note - vice presidency reserved for a Turkish Cypriot, but vacant since 1974 because Turkish Cypriots do not participate in the Republic of Cyprus Government<br>
 _head of government_: President Nikos ANASTASIADIS (since 28 February 2013)<br>
 _cabinet_: Council of Ministers appointed by the president; note - under the 1960 constitution, 3 of the ministerial posts reserved for Turkish Cypriots, appointed by the vice president; positions currently filled by Greek Cypriots<br>
-_elections/appointments_: president directly elected by absolute majority popular vote in 2 rounds if needed for a 5-year term; election last held on 28 January 2018 with a runoff on 4 February 2018 (next to be held in February 2023)<br>
+_elections/appointments_: president directly elected by absolute majority popular vote in 2 rounds if needed for a 5-year term; election last held on 28 January 2018 with a runoff on 4 February 2018 (next to be held 5 February 2023 with a runoff on 12 February 2023)<br>
 _election results_: <em>2018: </em>Nikos ANASTASIADIS reelected president in second round; percent of vote in first round - Nikos ANASTASIADIS (DISY) 35.5%, Stavros MALAS (AKEL) 30.2%, Nicolas PAPADOPOULOS (DIKO) 25.7%, other 8.6%; percent of vote in second round - Nikos ANASTASIADIS 56%, Stavros MALAS 44%<br><br><em>2013:</em> Nikos ANASTASIADIS elected president in second round; percent of vote in first round - Nikos ANASTASIADIS 45.5% (DISY), Stavros  MALAS 26.9% (AKEL), Georgos LILLIKAS 24.9% (SP), other 2.7%; percent of vote in second round - Nikos ANASTASIADIS 57.5%, Savros MALAS 42.5%<br>
 <strong>note:</strong> the first round of the TRNC presidential election, originally scheduled for 26 April 2020, was postponed to 11 October 2020 due to the COVID-19 pandemic; the second round was held on 18 October 2020; percent of vote in the first round - Ersin TATAR (UBP) 32.4%, Mustafa AKINCI (independent) 29.8%, Tufan ERHURMAN (RTP) 21.7%, Kudret OZERSAY (independent) 5.7%, Erhan ARIKLI (YDP) 5.4%, Serdar DENKTAS (independent) 4.2%, other 0.8%; percent of vote in the second round - Ersin TATAR 51.7%, Mustafa AKINCI 48.3%<br>
 
@@ -687,11 +687,11 @@ area administered by Turkish Cypriots: Famagusta, Kyrenia<br>
 Republic of Cyprus: Cypriot National Guard (Ethniki Froura, EF; includes Army Land Forces, Naval Command, Air Command) (2022)<br>
 
 **Military expenditures**<br>
-2% of GDP (2021 est.)<br>
-1.8% of GDP (2020 est.)<br>
-1.6% of GDP (2019) (approximately $610 million)<br>
-1.8% of GDP (2018) (approximately $650 million)<br>
-1.6% of GDP (2017) (approximately $540 million)<br>
+2% of GDP (2022 est.)<br>
+2% of GDP (2021)<br>
+1.8% of GDP (2020)<br>
+1.6% of GDP (2019)<br>
+1.8% of GDP (2018)<br>
 
 **Military and security service personnel strengths**<br>
 approximately 13,000 total active duty personnel (2022)<br>
@@ -720,7 +720,7 @@ Islamic State of Iraq and ash-Sham (ISIS)<br>
 **Refugees and internally displaced persons**<br>
 _refugees (country of origin)_: 10,869 (Syria) (mid-year 2022); 15,451 (Ukraine) (as of 22 January 2023)<br>
 _IDPs_: 242,000 (both Turkish and Greek Cypriots; many displaced since 1974) (2021)<br>
-_stateless persons_: 66 (mid-year 2021)<br>
+_stateless persons_: 74 (2022)<br>
 <strong>note:</strong> 47,836 estimated refugee and migrant arrivals (January 2015-November 2022)<br>
 
 **Illicit drugs**<br>

@@ -178,7 +178,7 @@ _unimproved: rural_: rural: 0% of population<br>
 _unimproved: total_: total: 0% of population (2020 est.)<br>
 
 **Current health expenditure**<br>
-10.7% of GDP (2019)<br>
+11.1% of GDP (2020)<br>
 
 **Physicians density**<br>
 6.08 physicians/1,000 population (2020)<br>
@@ -724,8 +724,8 @@ Islamic Revolutionary Guard Corps/Qods Force; Islamic State of Iraq and ash-Sham
 <p>none identified</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 20,086 (Syria), 7,049 (Afghanistan), 5,769 (Iraq) (mid-year 2022); 66,717 (Ukraine) (as of 23 January 2023)<br>
-_stateless persons_: 1,159 (mid-year 2021)<br>
+_refugees (country of origin)_: 20,086 (Syria), 7,049 (Afghanistan), 5,769 (Iraq) (mid-year 2022); 67,144 (Ukraine) (as of 30 January 2023)<br>
+_stateless persons_: 1,190 (2022)<br>
 
 **Illicit drugs**<br>
 <p>a primary entry point for cocaine smuggled into Europe; also a transit point for precursor chemicals from China for amphetamine and MDMA (ecstasy) production labs in Belgium; a transit country for new psychoactive substances (NPS); increasing number of amphetamine and ecstasy production labs in Belgium; heroin also transits through Belgium.</p><br>

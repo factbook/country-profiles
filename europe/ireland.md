@@ -172,7 +172,7 @@ _unimproved: rural_: rural: 1.9% of population<br>
 _unimproved: total_: total: 2.6% of population (2020 est.)<br>
 
 **Current health expenditure**<br>
-6.7% of GDP (2019)<br>
+7.1% of GDP (2020)<br>
 
 **Physicians density**<br>
 3.49 physicians/1,000 population (2020)<br>
@@ -711,8 +711,8 @@ Continuity Irish Republican Army; New Irish Republican Army; Islamic State of Ir
 <p><em>Ireland-Denmark</em>: Ireland, Iceland, and the UK dispute Denmark's claim that the Faroe Islands' continental shelf extends beyond 200 nm; Iceland, Norway, and the Faroe Islands signed an agreement in 2019 extending the Faroe Islands’ northern continental shelf area</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 72,232 (Ukraine) (as of 19 January 2023)<br>
-_stateless persons_: 107 (mid-year 2021)<br>
+_refugees (country of origin)_: 73,002 (Ukraine) (as of 26 January 2023)<br>
+_stateless persons_: 7 (2022)<br>
 
 **Illicit drugs**<br>
 transshipment point for and consumer of hashish from North Africa to the UK and Netherlands and of European-produced synthetic drugs; increasing consumption of South American cocaine; minor transshipment point for heroin and cocaine destined for Western Europe; despite recent legislation, narcotics-related money laundering - using bureaux de change, trusts, and shell companies involving the offshore financial community - remains a concern<br>

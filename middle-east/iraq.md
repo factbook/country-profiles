@@ -184,7 +184,7 @@ _unimproved: rural_: rural: 2.6% of population<br>
 _unimproved: total_: total: 0.7% of population (2020 est.)<br>
 
 **Current health expenditure**<br>
-4.5% of GDP (2019)<br>
+5.1% of GDP (2020)<br>
 
 **Physicians density**<br>
 0.97 physicians/1,000 population (2020)<br>
@@ -724,7 +724,7 @@ Ministry of Defense: Iraqi Army, Army Aviation Command, Iraqi Navy, Iraqi Air Fo
 information varies; approximately 200,000 personnel under the Ministry of Defense (190,000 Army/Aviation Command/Special Forces; 5,000 Navy; 5,000 Air/Air Defense Forces); approximately 25,000 National-Level Security Forces; Ministry of Peshmerga: approximately 150,000-plus (45-50,000 Regional Guard Brigades; 40-45,000 Unit 70 Forces; 65-70,000 Unit 80 Forces); estimated 100-160,000 Popular Mobilization Forces (2022)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the Iraqi military's inventory includes a mix of equipment from a wide variety of sources, including Europe, South Africa, South Korea, Russia, and the US; since 2010, Russia and the US have been the leading suppliers of military hardware to Iraq (2022)<br>
+the Iraqi military's inventory includes a mix of equipment from a wide variety of sources, including Europe, South Africa, South Korea, Russia, and the US; in recent years, Russia and the US have been the leading suppliers of military hardware to Iraq (2022)<br>
 
 **Military service age and obligation**<br>
 18-40 years of age for voluntary military service; no conscription (2022)<br>
@@ -747,5 +747,5 @@ Ansar al-Islam; Asa'ib Ahl al-Haq; Islamic Revolutionary Guard Corps (IRGC)/Qods
 **Refugees and internally displaced persons**<br>
 _refugees (country of origin)_: 13,344 (Turkey), 7,864 (West Bank and Gaza Strip) (mid-year 2022); 258,541 (Syria) (2022)<br>
 _IDPs_: 1,184,818 (displacement in central and northern Iraq since January 2014) (2022)<br>
-_stateless persons_: 47,253 (mid-year 2021); note - in the 1970s and 1980s under SADDAM Husayn's regime, thousands of Iraq's Faili Kurds, followers of Shia Islam, were stripped of their Iraqi citizenship, had their property seized by the government, and many were deported; some Faili Kurds had their citizenship reinstated under the 2006 Iraqi Nationality Law, but others lack the documentation to prove their Iraqi origins; some Palestinian refugees persecuted by the SADDAM regime remain stateless<br>
+_stateless persons_: 47,253 (2022); note - in the 1970s and 1980s under SADDAM Husayn's regime, thousands of Iraq's Faili Kurds, followers of Shia Islam, were stripped of their Iraqi citizenship, had their property seized by the government, and many were deported; some Faili Kurds had their citizenship reinstated under the 2006 Iraqi Nationality Law, but others lack the documentation to prove their Iraqi origins; some Palestinian refugees persecuted by the SADDAM regime remain stateless<br>
 

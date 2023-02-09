@@ -184,7 +184,7 @@ _unimproved: rural_: rural: NA<br>
 _unimproved: total_: total: 5.8% of population (2020 est.)<br>
 
 **Current health expenditure**<br>
-5.4% of GDP (2019)<br>
+3.8% of GDP (2020)<br>
 
 **Physicians density**<br>
 1.73 physicians/1,000 population (2017)<br>
@@ -295,7 +295,7 @@ _industrial_: 793.3 million cubic meters (2017 est.)<br>
 _agricultural_: 16.71 billion cubic meters (2017 est.)<br>
 
 **Total renewable water resources**<br>
-1.325 trillion cubic meters (2017 est.)<br>
+1.3 trillion cubic meters (2017 est.)<br>
 
 ## Government
 
@@ -701,7 +701,7 @@ information varies; approximately 125-150,000 active personnel, including about 
 <strong>note: </strong>in December 2022, President Nicolas MADURO announced that the National Police would be increased to 100,000 in 2024 <br>
 
 **Military equipment inventories and acquisitions**<br>
-the FANB inventory is mainly of Chinese and Russian origin with a smaller mix of equipment from Western countries, including the US; since 2010, Russia has been the top supplier of military hardware to Venezuela (2022)<br>
+the FANB inventory is mainly of Chinese and Russian origin with a smaller mix of equipment from Western countries, including the US; in recent years, Russia has been the top supplier of military hardware to Venezuela (2022)<br>
 
 **Military service age and obligation**<br>
 18-30 (25 for women) for voluntary service; the minimum service obligation is 24-30 months; all citizens of military service age (18-50) are obligated to register for military service and subject to military training, although “forcible recruitment” is forbidden (2022)<br>

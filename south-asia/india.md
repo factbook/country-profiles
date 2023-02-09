@@ -188,7 +188,7 @@ _unimproved: rural_: rural: 5.3% of population<br>
 _unimproved: total_: total: 4.5% of population (2020 est.)<br>
 
 **Current health expenditure**<br>
-3% of GDP (2019)<br>
+3% of GDP (2020)<br>
 
 **Physicians density**<br>
 0.74 physicians/1,000 population (2020)<br>
@@ -749,7 +749,7 @@ Indian Armed Forces: Army, Navy, Air Force, Coast Guard; Frontier Corps; Defense
 information varies; approximately 1.45 million active personnel (estimated 1.25 million Army; 65,000 Navy; 140,000 Air Force; 12,000 Coast Guard) (2022)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the military's inventory consists mostly of Russian- and Soviet-origin equipment along with a smaller mix of Western and domestically-produced arms; since 2010, Russia has been the leading supplier of arms to India; other key suppliers included France, Israel, and the US; India's defense industry is capable of producing a range of air, land, missile, and naval weapons systems for both domestic use and export; it also produces weapons systems under license (2022)<br>
+the military's inventory consists mostly of Russian- and Soviet-origin equipment along with a smaller mix of Western and domestically produced arms; Russia continues to be the leading provider of arms to India, although in recent years India has increased acquisitions from other suppliers, including France, Israel, and the US; India's defense industry is capable of producing a range of air, land, missile, and naval weapons systems for both domestic use and export; it also produces weapons systems under license (2023)<br>
 
 **Military service age and obligation**<br>
 ages vary by service, but generally 16.5-27 years of age for voluntary military service for men and women; no conscription (2022)<br>
@@ -775,7 +775,7 @@ Harakat ul-Mujahidin; Harakat ul-Jihad-i-Islami; Hizbul Mujahideen; Indian Mujah
 **Refugees and internally displaced persons**<br>
 _refugees (country of origin)_: 92,131 (Sri Lanka), 72,315 (Tibet/China), 57,748 (Burma), 10,064 (Afghanistan) (mid-year 2022)<br>
 _IDPs_: 506,000 (armed conflict and intercommunal violence) (2021)<br>
-_stateless persons_: 19,677 (mid-year 2021)<br>
+_stateless persons_: 20,330 (2022)<br>
 
 **Illicit drugs**<br>
 <p>source and transit point for illicit narcotics and precursor chemicals bound for Europe, Africa, Southeast Asia, and North America; in 2020 India exported over $19 billion of illegal pharmaceutical drugs; illegal opium poppy growing in the Northeast; traffickers retool commercial chemical factories to produce large volumes of ephedrine, methamphetamine, and other drugs illicitly</p> <p> </p><br>

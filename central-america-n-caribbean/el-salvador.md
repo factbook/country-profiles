@@ -178,7 +178,7 @@ _unimproved: rural_: rural: 5.8% of population<br>
 _unimproved: total_: total: 1.8% of population (2020 est.)<br>
 
 **Current health expenditure**<br>
-7.2% of GDP (2019)<br>
+9.9% of GDP (2020)<br>
 
 **Physicians density**<br>
 2.87 physicians/1,000 population (2018)<br>
@@ -705,7 +705,7 @@ approximately 21,000 active military personnel (17,000 Army; 2,000 Navy; 2,000 A
 <strong>note:</strong> in 2021, El Salvador announced intentions to double the size of the military, although no time frame was given<br>
 
 **Military equipment inventories and acquisitions**<br>
-the FAES is dependent on a mix of mostly older imported platforms, largely from the US; since 2010, the FAES has received small amounts of equipment from several countries, including Chile, Israel, Spain, and the US (2022)<br>
+the FAES is dependent on a mix of mostly older imported platforms, largely from the US; in recent years, the FAES has received small amounts of equipment from several countries, including Chile, Israel, Spain, and the US (2022)<br>
 
 **Military service age and obligation**<br>
 18 years of age for selective compulsory military service; 16-22 years of age for voluntary male or female service; service obligation is 12 months, with 11 months for officers and non-commissioned officers (2022)<br>

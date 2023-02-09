@@ -173,7 +173,7 @@ _unimproved: rural_: rural: 0% of population<br>
 _unimproved: total_: total: 0% of population (2020 est.)<br>
 
 **Current health expenditure**<br>
-8.6% of GDP (2019)<br>
+9.6% of GDP (2020)<br>
 
 **Physicians density**<br>
 4.14 physicians/1,000 population (2019)<br>
@@ -673,5 +673,5 @@ Iceland was one of the original 12 countries to sign the North Atlantic Treaty (
 <p>Iceland, the UK, and Ireland dispute Denmark's claim that the Faroe Islands' continental shelf extends beyond 200 nm; the European Free Trade Association Surveillance Authority filed a suit against Iceland, claiming the country violated the Agreement on the European Economic Area in failing to pay minimum compensation to Icesave depositors</p><br>
 
 **Refugees and internally displaced persons**<br>
-_stateless persons_: 73 (mid-year 2021)<br>
+_stateless persons_: 68 (2022)<br>
 

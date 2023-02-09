@@ -178,7 +178,7 @@ _unimproved: rural_: rural: 0% of population<br>
 _unimproved: total_: total: 0% of population (2020 est.)<br>
 
 **Current health expenditure**<br>
-11.3% of GDP (2019)<br>
+12.2% of GDP (2020)<br>
 
 **Physicians density**<br>
 4.4 physicians/1,000 population (2017)<br>
@@ -289,7 +289,7 @@ _industrial_: 122.4 million cubic meters (2017 est.)<br>
 _agricultural_: 2.127 billion cubic meters (2017 est.)<br>
 
 **Total renewable water resources**<br>
-7.77 billion cubic meters (2017 est.)<br>
+7.77 billion cubic meters (2019 est.)<br>
 
 ## Government
 
@@ -697,7 +697,7 @@ since November 2020, Russia has deployed about 2,000 peacekeeping troops to the 
 
 **Refugees and internally displaced persons**<br>
 _refugees (country of origin)_: 27,929 (Azerbaijan) (mid-year 2022)<br>
-_stateless persons_: 892 (mid-year 2021)<br>
+_stateless persons_: 816 (2022)<br>
 
 **Illicit drugs**<br>
 <p>a transit country for illicit drugs with its location between source countries Afghanistan and Iran and the markets of Europe and Russia</p><br>

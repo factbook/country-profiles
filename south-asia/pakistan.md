@@ -186,7 +186,7 @@ _unimproved: rural_: rural: 7.5% of population<br>
 _unimproved: total_: total: 6% of population (2020 est.)<br>
 
 **Current health expenditure**<br>
-3.4% of GDP (2019)<br>
+2.8% of GDP (2020)<br>
 
 **Physicians density**<br>
 1.12 physicians/1,000 population (2019)<br>
@@ -510,7 +510,7 @@ _female_: 8.2% (2021 est.)<br>
 24.3% (2015 est.)<br>
 
 **Gini Index coefficient - distribution of family income**<br>
-33.5 (2015 est.)<br>
+29.6 (2018 est.)<br>
 
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 4%<br>
@@ -742,7 +742,7 @@ Pakistan Army (includes National Guard), Pakistan Navy (includes marines, Mariti
 information varies; approximately 630,000 active duty personnel (550,000 Army; 30,000 Navy; 50,000 Air Force); approximately 150,000 Frontier Corps and Pakistan Rangers (2022)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the Pakistan military inventory includes a broad mix of equipment, primarily from China, France, Russia, Turkey, Ukraine, the UK, and the US; since 2010, China has been the leading supplier of arms to Pakistan; Pakistan also has a large domestic defense industry (2022)<br>
+the Pakistan military inventory includes a broad mix of equipment, primarily from China, France, Russia, Turkey, Ukraine, the UK, and the US; China has been the leading supplier of arms to Pakistan; Pakistan also has a large domestic defense industry (2022)<br>
 
 **Military service age and obligation**<br>
 16 (or 17 depending on service) to 23 years of age for voluntary military service; soldiers cannot be deployed for combat until age 18; women serve in all three armed forces; reserve obligation to age 45 for enlisted men, age 50 for officers (2022)<br>
@@ -767,7 +767,7 @@ Haqqani Network; Harakat ul-Jihad-i-Islami; Harakat ul-Mujahidin; Hizbul Mujahid
 **Refugees and internally displaced persons**<br>
 _refugees (country of origin)_: 2.62-2.88 million (1.28 million registered, 1.34-1.6&nbsp; million undocumented or otherwise categorized) (Afghanistan) (2022)<br>
 _IDPs_: 104,000 (primarily those who remain displaced by counter-terrorism and counter-insurgency operations and violent conflict between armed non-state groups in the Federally Administered Tribal Areas and Khyber-Paktunkwa Province; more than 1 million displaced in northern Waziristan in 2014; individuals also have been displaced by repeated monsoon floods) (2021)<br>
-_stateless persons_: 47 (mid-year 2021)<br>
+_stateless persons_: 48 (2022)<br>
 
 **Illicit drugs**<br>
 <p>minor cultivator of opium poppy and cannabis with 1,400 hectares of poppy cultivated 2016; one of the world’s top transit corridors for opiates and cannabis products along with Afghanistan and Iran; precursor chemicals also pass through Pakistan as a major transit point for global distribution</p> <p> </p><br>

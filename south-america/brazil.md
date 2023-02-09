@@ -5,7 +5,7 @@ _South America / Countries_
 ## Introduction
 
 **Background**<br>
-<p>Following more than three centuries under Portuguese rule, Brazil gained its independence in 1822, maintaining a monarchical system of government until the abolition of slavery in 1888 and the subsequent proclamation of a republic by the military in 1889. Brazilian coffee exporters politically dominated the country until populist leader Getulio VARGAS rose to power in 1930. VARGAS governed over various versions of democratic and authoritarian regimes from 1930 to 1945. Democratic rule returned (including a democratically elected VARGAS administration from 1951 to 1955) and lasted until 1964, when the military overthrew President Joao GOULART. The military regime censored journalists and repressed and tortured dissidents in the late 1960s and early 1970s. The dictatorship lasted until 1985, when the military regime peacefully ceded power to civilian rulers, and the Brazilian Congress passed its current constitution in 1989. <br><br>By far the largest and most populous country in South America, Brazil continues to pursue industrial and agricultural growth and development of its interior. Having successfully weathered a period of global financial difficulty in the late 20th century, under President Luiz Inacio LULA da Silva (2003-2010) Brazil was seen as one of the world's strongest emerging markets and a contributor to global growth. The awarding of the 2014 FIFA World Cup and 2016 Summer Olympic Games, the first ever to be held in South America, was symbolic of the country's rise. However, from about 2013 to 2016, Brazil was plagued by a sagging economy, high unemployment, and high inflation, only emerging from recession in 2017. Former President Dilma ROUSSEFF (2011-2016) was removed from office in 2016 by Congress for having committed impeachable acts against Brazil's budgetary laws, and her vice president, Michel TEMER, served the remainder of her second term. A money-laundering investigation, Operation Lava Jato, uncovered a vast corruption scheme and prosecutors charged several high-profile Brazilian politicians with crimes. Former-President LULA was convicted of accepting bribes and served jail time (2018-19), although his conviction was overturned in early 2021. LULA's revival became complete in October 2022 when he narrowly defeated incumbent Jair BOLSONARO (2019-2022) in the presidential election.</p><br>
+<p>Following more than three centuries under Portuguese rule, Brazil gained its independence in 1822, maintaining a monarchical system of government until the abolition of slavery in 1888 and the subsequent proclamation of a republic by the military in 1889. Brazilian coffee exporters politically dominated the country until populist leader Getúlio VARGAS rose to power in 1930. VARGAS governed over various versions of democratic and authoritarian regimes from 1930 to 1945. Democratic rule returned (including a democratically elected VARGAS administration from 1951 to 1955) and lasted until 1964, when the military overthrew President João GOULART. The military regime censored journalists and repressed and tortured dissidents in the late 1960s and early 1970s. The dictatorship lasted until 1985, when the military regime peacefully ceded power to civilian rulers, and the Brazilian Congress passed its current constitution in 1989. <br><br>By far the largest and most populous country in South America, Brazil continues to pursue industrial and agricultural growth and development of its interior. Having successfully weathered a period of global financial difficulty in the late 20th century, under President Luiz Inácio LULA da Silva (2003-2010) Brazil was seen as one of the world's strongest emerging markets and a contributor to global growth. The awarding of the 2014 FIFA World Cup and 2016 Summer Olympic Games, the first ever to be held in South America, was symbolic of the country's rise. However, from about 2013 to 2016, Brazil was plagued by a sagging economy, high unemployment, and high inflation, only emerging from recession in 2017. Former President Dilma ROUSSEFF (2011-2016) was removed from office in 2016 by Congress for having committed impeachable acts against Brazil's budgetary laws, and her vice president, Michel TEMER, served the remainder of her second term. A money-laundering investigation, Operation Lava Jato, uncovered a vast corruption scheme and prosecutors charged several high-profile Brazilian politicians with crimes. Former-President LULA was convicted of accepting bribes and served jail time (2018-19), although his conviction was overturned in early 2021. LULA's revival became complete in October 2022 when he narrowly defeated incumbent Jair BOLSONARO (2019-2022) in the presidential election.</p><br>
 
 ## Geography
 
@@ -79,13 +79,13 @@ Atlantic Ocean drainage: Amazon (6,145,186 sq km), Orinoco (953,675 sq km), Para
 Amazon Basin, Guarani Aquifer System, Maranhao Basin<br>
 
 **Population distribution**<br>
-the vast majority of people live along, or relatively near, the Atlantic coast in the east; the population core is in the southeast, anchored by the cities of Sao Paolo, Brasilia, and Rio de Janeiro<br>
+the vast majority of people live along, or relatively near, the Atlantic coast in the east; the population core is in the southeast, anchored by the cities of S&atilde;o Paolo, Bras&iacute;lia, and Rio de Janeiro<br>
 
 **Natural hazards**<br>
 recurring droughts in northeast; floods and occasional frost in south<br>
 
 **Geography - note**<br>
-<strong>note 1:</strong> largest country in South America and in the Southern Hemisphere; shares common boundaries with every South American country except Chile and Ecuador; most of the Pantanal, the world's largest tropical wetland, extends through the west central part of the country; shares Iguazu Falls, the world's largest waterfalls system, with Argentina<br><br><strong>note 2:</strong> cassava (manioc) the sixth most important food crop in the world - after maize, rice, wheat, potatoes, and soybeans - seems to have originated in the west-central part of Brazil; pineapples are probably indigenous to the southern Brazil-Paraguay region<br><br><strong>note 3:</strong> Rocas Atoll, located off the northeast coast of Brazil, is the only atoll in the South Atlantic.<br>
+<strong>note 1:</strong> largest country in South America and in the Southern Hemisphere; shares common boundaries with every South American country except Chile and Ecuador; most of the Pantanal, the world's largest tropical wetland, extends through the west central part of the country; shares Iguaçu Falls (Iguazú Falls), the world's largest waterfalls system, with Argentina<br><br><strong>note 2:</strong> cassava (manioc) the sixth most important food crop in the world - after maize, rice, wheat, potatoes, and soybeans - seems to have originated in the west-central part of Brazil; pineapples are probably indigenous to the southern Brazil-Paraguay region<br><br><strong>note 3:</strong> Rocas Atoll, located off the northeast coast of Brazil, is the only atoll in the South Atlantic<br>
 
 ## People and Society
 
@@ -140,14 +140,14 @@ _female_: 34.1 years (2020 est.)<br>
 -0.19 migrant(s)/1,000 population (2022 est.)<br>
 
 **Population distribution**<br>
-the vast majority of people live along, or relatively near, the Atlantic coast in the east; the population core is in the southeast, anchored by the cities of Sao Paolo, Brasilia, and Rio de Janeiro<br>
+the vast majority of people live along, or relatively near, the Atlantic coast in the east; the population core is in the southeast, anchored by the cities of S&atilde;o Paolo, Bras&iacute;lia, and Rio de Janeiro<br>
 
 **Urbanization**<br>
 _urban population_: 87.8% of total population (2023)<br>
 _rate of urbanization_: 0.87% annual rate of change (2020-25 est.)<br>
 
 **Major urban areas - population**<br>
-22.620 million Sao Paulo, 13.728 million Rio de Janeiro, 6.248 million Belo Horizonte, 4.873 million BRASILIA (capital), 4.264 million Recife, 4.212 million Porto Alegre (2023)<br>
+22.620 million S&atilde;o Paulo, 13.728 million Rio de Janeiro, 6.248 million Belo Horizonte, 4.873 million BRAS&Iacute;LIA (capital), 4.264 million Recife, 4.212 million Porto Alegre (2023)<br>
 
 **Sex ratio**<br>
 _at birth_: 1.05 male(s)/female<br>
@@ -189,7 +189,7 @@ _unimproved: rural_: rural: 3.1% of population<br>
 _unimproved: total_: total: 0.6% of population (2020 est.)<br>
 
 **Current health expenditure**<br>
-9.6% of GDP (2019)<br>
+10.3% of GDP (2020)<br>
 
 **Physicians density**<br>
 2.31 physicians/1,000 population (2019)<br>
@@ -336,7 +336,7 @@ _etymology_: the country name derives from the brazilwood tree that used to grow
 federal presidential republic<br>
 
 **Capital**<br>
-_name_: Brasilia<br>
+_name_: Bras&iacute;lia<br>
 _geographic coordinates_: 15 47 S, 47 55 W<br>
 _time difference_: UTC-3 (2 hours ahead of Washington, DC, during Standard Time)<br>
 _time zone note_: Brazil has four time zones, including one for the Fernando de Noronha Islands<br>
@@ -371,11 +371,11 @@ _residency requirement for naturalization_: 4 years<br>
 voluntary between 16 to 18 years of age, over 70, and if illiterate; compulsory between 18 to 70 years of age; note - military conscripts by law cannot vote<br>
 
 **Executive branch**<br>
-_chief of state_: President Luiz Inacio LULA da Silva (since 1 January 2023); Vice President Geraldo Jos&eacute; Rodrigues ALCKMIN Filho (since 1 January 2023); note - the president is both chief of state and head of government<br>
-_head of government_: President Luiz Inacio LULA da Silva (since 1 January 2023); Vice President Geraldo Jos&eacute; Rodrigues ALCKMIN Filho (since 1 January 2023)<br>
+_chief of state_: President Luiz In&aacute;cio LULA da Silva (since 1 January 2023); Vice President Geraldo Jos&eacute; Rodrigues ALCKMIN Filho (since 1 January 2023); note - the president is both chief of state and head of government<br>
+_head of government_: President Luiz In&aacute;cio LULA da Silva (since 1 January 2023); Vice President Geraldo Jos&eacute; Rodrigues ALCKMIN Filho (since 1 January 2023)<br>
 _cabinet_: Cabinet appointed by the president<br>
 _elections/appointments_: president and vice president directly elected on the same ballot by absolute majority popular vote in 2 rounds if needed for a single 4-year term (eligible for an immediate second term, and additional terms after a one-term break); election last held on 2 October 2022 with runoff on 30 October 2022 (next to be held on 4 October 2026)<br>
-_election results_: <p><em>2022: </em>Luiz Inacio LULA da Silva elected president in second round; percent of vote in first round - Luiz Inacio LULA da Silva (PT) 48.4%, Jair BOLSONARO (PSL) 43.2%, Simone TEBET (MDB) 4.2%, Ciro GOMES (PDT) 3%, other 1.2%; percent of vote in second round - Luiz Inacio LULA da Silva (PT) 50.9%, Jair BOLSONARO (PSL) 49.1%<em><br><br>2018: </em>Jair BOLSONARO elected president in second round; percent of vote in first round - Jair BOLSONARO (PSL) 46%, Fernando HADDAD (PT) 29.3%, Ciro GOMEZ (PDT) 12.5%, Geraldo ALCKMIN (PSDB) 4.8%, other 7.4%; percent of vote in second round - Jair BOLSONARO (PSL) 55.1%, Fernando HADDAD (PT) 44.9%</p><br>
+_election results_: <p><em>2022: </em>Luiz Inácio LULA da Silva elected president in second round; percent of vote in first round - Luiz Inácio LULA da Silva (PT) 48.4%, Jair BOLSONARO (PSL) 43.2%, Simone Nassar TEBET (MDB) 4.2%, Ciro GOMES (PDT) 3%, other 1.2%; percent of vote in second round - Luiz Inácio LULA da Silva (PT) 50.9%, Jair BOLSONARO (PSL) 49.1%<em><br><br>2018: </em>Jair BOLSONARO elected president in second round; percent of vote in first round - Jair BOLSONARO (PSL) 46%, Fernando HADDAD (PT) 29.3%, Ciro GOMEZ (PDT) 12.5%, Geraldo ALCKMIN (PSDB) 4.8%, other 7.4%; percent of vote in second round - Jair BOLSONARO (PSL) 55.1%, Fernando HADDAD (PT) 44.9%</p><br>
 
 **Legislative branch**<br>
 _description_: bicameral National Congress or Congresso Nacional consists of:<br>Federal Senate or Senado Federal (81 seats; 3 members each from 26 states and 3 from the federal district directly elected in multi-seat constituencies by simple majority vote to serve 8-year terms, with one-third and two-thirds of the membership elected alternately every 4 years)<br><br>Chamber of Deputies or Camara dos Deputados (513 seats; members directly elected in multi-seat constituencies by party-list proportional representation vote to serve 4-year terms)<br>
@@ -388,13 +388,13 @@ _judge selection and term of office_: justices appointed by the president and ap
 _subordinate courts_: Tribunal of the Union, Federal Appeals Court, Superior Court of Justice, Superior Electoral Court, regional federal courts; state court system<br>
 
 **Political parties and leaders**<br>
-<p>Act (Agir) [Daniel TOURINHO] (formerly Christian Labor Party or PTC)<br>Avante [Luis Henrique de Oliveira RESENDE] (formerly Labor Party of Brazil or PTdoB)<br>Brazil Union (Uniao Brasil); note - founded from a merger between the Democrats (DEM) and the Social Liberal Party (PSL)  <br>Brazilian Communist Party or PCB [Astrogildo PEREIRA]<br>Brazilian Democratic Movement or MDB [Luiz Felipe Baleia TENUTO Rossi]<br>Brazilian Labor Party or PTB [Kassyo Santos RAMOS]<br>Brazilian Renewal Labor Party or PRTB [Aiceia RODRIGUES and Hamilton MOURAO]<br>Brazilian Labor Party or PTB<br>Brazilian Social Democracy Party or PSDB [Bruno ARAUJO]<br>Brazilian Socialist Party or PSB [Carlos Roberto SIQUEIRA de Barros]<br>Christian Democracy or DC [Jose Maria EYMAEL] (formerly Christian Social <br>Cidadania [Roberto Joao Pereira FREIRE] (formerly Popular Socialist Party or PPS)<br>Communist Party of Brazil or PCdoB [Luciana SANTOS]<br>Democratic Labor Party or PDT [Carlos LUPI]<br>Democratic Party or PSDC<br>Democrats or DEM [Jose AGRIPINO] (formerly Liberal Front Party or PFL); note - dissolved in February 2022<br>Green Party or PV [Jose Luiz PENNA]<br>Liberal Party or PL [Luciano BIVAR and Antonio de RUEDA] (formerly Party of the Republic or PR)<br>National Mobilization Party or PMN [Antonio Carlos Bosco MASSAROLLO]<br>New Party or NOVO [Eduardo RIBEIRO]<br>Patriota [Adilson BAROSSO Oliveira] (formerly National Ecologic Party or PEN)<br>Podemos [Renata ABREU] (formerly National Labor Party or PTN) <br>Progressive Party (Progressistas) or PP [Ciro NOGUEIRA]<br>Republican Social Order Party or PROS [Euripedes JUNIOR]<br>Republicans (Republicanos) [Marcos Antonio PEREIRA] (formerly Brazilian Republican Party or PRB)<br>Social Christian Party or PSC [Everaldo Dias PEREIRA]<br>Social Democratic Party or PSD [Alfredo COATIT Neto]<br>Social Liberal Party or PSL [Luciano Caldas BIVAR]<br>Socialism and Freedom Party or PSOL [Juliano MEDEIROS]<br>Solidarity or SD [Paulinho DA FORCA]<br>Sustainability Network or REDE [Marina SILVA]<br>United Socialist Workers' Party or PSTU [Jose Maria DE ALMEIDA]<br>Workers' Cause Party or PCO [Rui Costa PIMENTA]<br>Workers' Party or PT [Gleisi HOFFMANN]</p><br>
+<p>Act (Agir) [Daniel TOURINHO] (formerly Christian Labor Party or PTC)<br>Avante [Luis Henrique de Oliveira RESENDE] (formerly Labor Party of Brazil or PTdoB)<br>Brazil Union (União Brasil); note - founded from a merger between the Democrats (DEM) and the Social Liberal Party (PSL)  <br>Brazilian Communist Party or PCB [Astrogildo PEREIRA]<br>Brazilian Democratic Movement or MDB [Luiz Felipe Baleia TENUTO Rossi]<br>Brazilian Labor Party or PTB [Kassyo Santos RAMOS]<br>Brazilian Renewal Labor Party or PRTB [Júlio Cezar FIDELIX da Cruz]<br>Brazilian Labor Party or PTB<br>Brazilian Social Democracy Party or PSDB [Bruno Cavalcanti de ARAÚJO]<br>Brazilian Socialist Party or PSB [Carlos Roberto SIQUEIRA de Barros]<br>Christian Democracy or DC [José Maria EYMAEL] (formerly Christian Social <br>Cidadania [Roberto João Pereira FREIRE] (formerly Popular Socialist Party or PPS)<br>Communist Party of Brazil or PCdoB [Luciana SANTOS]<br>Democratic Labor Party or PDT [Ciro FERREIRA Gomes]<br>Democratic Party or PSDC<br>Democrats or DEM [Jose AGRIPINO] (formerly Liberal Front Party or PFL); note - dissolved in February 2022<br>Green Party or PV [José Luiz PENNA]<br>Liberal Party or PL [Valdemar Costa Neto] (formerly Party of the Republic or PR)<br>National Mobilization Party or PMN [Antonio Carlos Bosco MASSAROLLO]<br>New Party or NOVO [Eduardo RIBEIRO]<br>Patriota [Ovasco RESENDE] (formerly National Ecologic Party or PEN)<br>Podemos [Renata ABREU] (formerly National Labor Party or PTN) <br>Progressive Party (Progressistas) or PP [Ciro NOGUEIRA Lima Filho]<br>Republican Social Order Party or PROS [Euripedes JUNIOR]<br>Republicans (Republicanos) [Marcos Antônio PEREIRA] (formerly Brazilian Republican Party or PRB)<br>Social Christian Party or PSC [Everaldo Dias PEREIRA]<br>Social Democratic Party or PSD [Alfredo COATIT Neto]<br>Social Liberal Party or PSL [Luciano Caldas BIVAR]<br>Socialism and Freedom Party or PSOL [Juliano MEDEIROS]<br>Solidarity or SD [Paulinho DA FORÇA]<br>Sustainability Network or REDE [Marina SILVA]<br>United Socialist Workers' Party or PSTU [José Maria DE ALMEIDA]<br>Workers' Cause Party or PCO [Rui Costa PIMENTA]<br>Workers' Party or PT [Gleisi Helena HOFFMANN]</p><br>
 
 **International organization participation**<br>
 AfDB (nonregional member), BIS, BRICS, CAN (associate), CD, CELAC, CPLP, FAO, FATF, G-15, G-20, G-24, G-5, G-77, IADB, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), LAES, LAIA, LAS (observer), Mercosur, MIGA, MINURSO, MINUSTAH, MONUSCO, NAM (observer), NSG, OAS, OECD (enhanced engagement), OPANAL, OPCW, Paris Club (associate), PCA, PROSUR, SICA (observer), UN, UNASUR, UNCTAD, UNESCO, UNFICYP, UNHCR, UNHRC, UNIDO, UNISFA, UNIFIL, Union Latina, UNISFA, UNITAR, UNMIL, UNMISS, UNOCI, UNRWA, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
 
 **Diplomatic representation in the US**<br>
-_chief of mission_: Ambassador Nestor Jose FORSTER, Jr. (since 23 December 2020)<br>
+_chief of mission_: Ambassador Nestor Jos&eacute; FORSTER, Jr. (since 23 December 2020)<br>
 _chancery_: 3006 Massachusetts Avenue NW, Washington, DC 20008<br>
 _telephone_: [1] (202) 238-2700<br>
 _FAX_: [1] (202) 238-2827<br>
@@ -403,12 +403,12 @@ _consulate(s) general_: Atlanta, Boston, Chicago, Hartford (CT), Houston, Los An
 
 **Diplomatic representation from the US**<br>
 _chief of mission_: Ambassador (vacant); Charge d'Affaires Douglas A. KONEFF (since July 2021)<br>
-_embassy_: SES - Avenida das Nacoes, Quadra 801, Lote 3, 70403-900 - Brasilia, DF<br>
+_embassy_: SES - Avenida das Na&ccedil;&otilde;es, Quadra 801, Lote 3, 70403-900 - Bras&iacute;lia, DF<br>
 _mailing address_: 7500 Brasilia Place, Washington DC&nbsp; 20521-7500<br>
 _telephone_: [55] (61) 3312-7000<br>
 _FAX_: [55] (61) 3225-9136<br>
 _email address and website_: <br>BrasilliaACS@state.gov<br><br>https://br.usembassy.gov/<br>
-_consulate(s) general_: Recife, Porto Alegre, Rio de Janeiro, Sao Paulo<br>
+_consulate(s) general_: Recife, Porto Alegre, Rio de Janeiro, S&atilde;o Paulo<br>
 _branch office(s)_: Belo Horizonte<br>
 
 **Flag description**<br>
@@ -745,7 +745,7 @@ Brazilian Armed Forces (For&ccedil;as Armadas Brasileiras): Brazilian Army (Exer
 approximately 360,000 active military personnel (220,000 Army; 70,000 Navy; 70,000 Air Force) (2022)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the Brazilian military's inventory consists of a mix of domestically-produced and imported weapons, largely from Europe and the US; since 2010, the US and several European countries are the leading suppliers of military equipment to Brazil; Brazil's defense industry is capable of designing and manufacturing equipment for all three military services and for export; it also jointly produces equipment with other countries (2022)<br>
+the Brazilian military's inventory consists of a mix of domestically-produced and imported weapons, largely from Europe and the US; in recent years, the US and several European countries have been the leading suppliers of military equipment to Brazil; Brazil's defense industry is capable of designing and manufacturing equipment for all three military services and for export; it also jointly produces equipment with other countries (2022)<br>
 
 **Military service age and obligation**<br>
 18-45 years of age for compulsory military service for men (women exempted); only 5-10% of those inducted are required to serve; conscript service obligation is 10-12 months; 17-45 years of age for voluntary service (2022)<br>
@@ -771,7 +771,7 @@ Hizballah (2022)<br>
 **Refugees and internally displaced persons**<br>
 _refugees (country of origin)_: 261,441 (Venezuela) (economic and political crisis; includes Venezuelans who have claimed asylum, are recognized as refugees, or received alternative legal stay) (2020)<br>
 _IDPs_: 21,000<br>
-_stateless persons_: 14 (mid-year 2021)<br>
+_stateless persons_: 12 (2022)<br>
 
 **Illicit drugs**<br>
 <p>a significant transit and destination country for cocaine; most of the cocaine enters Brazil from neighboring producing countries Bolivia, Colombia, and Peru then goes to West Africa and Europe, but an increasing percentage feeds substantial domestic drug consumption; second-largest consumer of cocaine hydrochloride and cocaine-derivative products in the world</p><br>

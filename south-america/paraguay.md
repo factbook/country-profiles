@@ -185,7 +185,7 @@ _unimproved: rural_: rural: 0% of population<br>
 _unimproved: total_: total: 0% of population (2020 est.)<br>
 
 **Current health expenditure**<br>
-7.2% of GDP (2019)<br>
+7.6% of GDP (2020)<br>
 
 **Physicians density**<br>
 1.05 physicians/1,000 population (2020)<br>
@@ -306,7 +306,7 @@ _industrial_: 154 million cubic meters (2017 est.)<br>
 _agricultural_: 1.897 billion cubic meters (2017 est.)<br>
 
 **Total renewable water resources**<br>
-387.77 billion cubic meters (2017 est.)<br>
+387.8 billion cubic meters (2017 est.)<br>
 
 ## Government
 
@@ -490,7 +490,7 @@ _female_: 21.9% (2021 est.)<br>
 23.5% (2019 est.)<br>
 
 **Gini Index coefficient - distribution of family income**<br>
-46.2 (2018 est.)<br>
+43.5 (2020 est.)<br>
 
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 1.5%<br>
@@ -710,7 +710,7 @@ Armed Forces Command (Commando de las Fuerzas Militares): Army (Ejercito), Navy 
 approximately 15,000 active duty personnel (10,000 Army; 3,500 Navy; 1,500 Air Force) (2022)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the Paraguayan military forces inventory is comprised of mostly older equipment from a variety of foreign suppliers, particularly Brazil and the US; since 2010, Paraguay has acquired small quantities of mostly second-hand military equipment from several countries, including Argentina, Brazil, Israel, Taiwan, and the US (2022)<br>
+the military's inventory is comprised of mostly older equipment from a variety of foreign suppliers, particularly Brazil and the US (2022)<br>
 
 **Military service age and obligation**<br>
 18 years of age for compulsory (men) and voluntary (men and women) military service; conscript service obligation is 12 months for Army, 24 months for Navy; conscripts also serve in the National Police; volunteers for the Air Force must be younger than 22 years of age with a secondary school diploma (2022)<br>

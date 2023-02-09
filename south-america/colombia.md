@@ -188,7 +188,7 @@ _unimproved: rural_: rural: 12.5% of population<br>
 _unimproved: total_: total: 2.3% of population (2020 est.)<br>
 
 **Current health expenditure**<br>
-7.7% of GDP (2019)<br>
+9% of GDP (2020)<br>
 
 **Physicians density**<br>
 2.33 physicians/1,000 population (2020)<br>
@@ -736,7 +736,7 @@ Military Forces of Colombia (Fuerzas Militares de Colombia<em lang="es">)</em>: 
 approximately 260,000 total active troops (200,000 Army; 45,000 Navy, including about 20,000 marines; 14,000 Air Force); approximately 170,000 National Police (2022)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the Colombian military inventory includes a wide mix of equipment from a variety of suppliers, including Canada, Europe, Israel, South Korea, and the US; Germany, Israel, and the US have been the leading suppliers of military hardware since 2010; Colombia's defense industry is active in producing air, land, and naval platforms (2022)<br>
+the military's inventory includes a wide mix of equipment from a variety of suppliers, including Canada, Europe, Israel, South Korea, and the US; Colombia's defense industry is active in producing air, land, and naval platforms (2022)<br>
 
 **Military service age and obligation**<br>
 18-24 years of age for compulsory (men) and voluntary (men and women) military service; conscript service obligation is 18 months; conscripted soldiers reportedly include regular soldiers (conscripts without a high school degree), drafted high school graduates (bachilleres), and rural (campesino) soldiers who serve in their home regions (2022)<br>
@@ -765,7 +765,7 @@ National Liberation Army (ELN); Revolutionary Armed Forces of Colombia - People'
 **Refugees and internally displaced persons**<br>
 _refugees (country of origin)_: 1,842,390 (Venezuela) (economic and political crisis; includes Venezuelans who have claimed asylum, are recognized as refugees, or received alternative legal stay) (2022)<br>
 _IDPs_: 8,258,460 (conflict between government and illegal armed groups and drug traffickers since 1985) (2022)<br>
-_stateless persons_: 11 (mid-year 2021)<br>
+_stateless persons_: 11 (2022)<br>
 
 **Illicit drugs**<br>
 <p>Colombia is the world’s top cocaine producer; exports and is a source of heroin and marijuana; coca cultivation was estimated at 245,000 hectares (ha) in 2020; potential pure cocaine production reached 1,010 metric tons in 2020</p> <p> </p><br>

@@ -180,7 +180,7 @@ _unimproved: rural_: rural: 5.6% of population<br>
 _unimproved: total_: total: 5.9% of population (2020 est.)<br>
 
 **Current health expenditure**<br>
-4.5% of GDP (2019)<br>
+5.2% of GDP (2020)<br>
 
 **Physicians density**<br>
 0.85 physicians/1,000 population (2020)<br>
@@ -695,7 +695,7 @@ Ministry of Defense: Nepali Army (includes Air Wing); Ministry of Home Affairs: 
 approximately 95,000 active troops (including a small air wing of about 500 personnel) (2022)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the Army's inventory includes a mix of older equipment largely of British, Chinese, Indian, Russian, and South African origin; since 2010, Nepal has received limited amounts of newer hardware from several countries, including China, Italy, and Russia (2022)<br>
+the Army's inventory includes a mix of mostly older equipment largely of British, Chinese, Indian, Russian, and South African origin; in recent years, Nepal has received limited amounts of newer hardware from several countries, including China, Italy, and Russia (2022)<br>
 
 **Military service age and obligation**<br>
 18 years of age for voluntary military service (including women); no conscription (2022)<br>

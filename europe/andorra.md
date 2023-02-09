@@ -170,7 +170,7 @@ _unimproved: rural_: rural: 0% of population<br>
 _unimproved: total_: total: 0% of population (2020 est.)<br>
 
 **Current health expenditure**<br>
-6.7% of GDP (2019)<br>
+9.1% of GDP (2020)<br>
 
 **Physicians density**<br>
 3.33 physicians/1,000 population (2015)<br>
@@ -252,7 +252,7 @@ _forest revenues_: 0% of GDP (2018 est.)<br>
 _municipal solid waste generated annually_: 43,000 tons (2012 est.)<br>
 
 **Total renewable water resources**<br>
-315.6 million cubic meters (2017 est.)<br>
+320 million cubic meters (2019 est.)<br>
 
 ## Government
 

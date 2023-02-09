@@ -184,7 +184,7 @@ _unimproved: rural_: rural: 0.6% of population<br>
 _unimproved: total_: total: 0.5% of population (2020 est.)<br>
 
 **Current health expenditure**<br>
-8.7% of GDP (2019)<br>
+8.7% of GDP (2020)<br>
 
 **Physicians density**<br>
 3.11 physicians/1,000 population (2016)<br>
@@ -703,21 +703,21 @@ Serbian Armed Forces (Vojska Srbije, VS): Land Forces (includes Riverine Compone
 <strong>note:</strong> the Serbian Guard is a brigade-sized unit that is directly subordinate to the Serbian Armed Forces Chief of General Staff; its duties include safeguarding key defense facilities and rendering military honors to top foreign, state, and military officials <br><br>
 
 **Military expenditures**<br>
-1.9% of GDP (2021 est.)<br>
+2.4% of GDP (2021 est.)<br>
 2% of GDP (2020 est.)<br>
-2.2% of GDP (2019) (approximately $1.83 billion)<br>
-1.6% of GDP (2018) (approximately $1.43 billion)<br>
-1.8% of GDP (2017) (approximately $1.47 billion)<br>
+2.2% of GDP (2019 est.)<br>
+1.6% of GDP (2018 est.)<br>
+1.8% of GDP (2017 est.)<br>
 
 **Military and security service personnel strengths**<br>
 approximately 25,000 active duty troops (15,000 Land Forces; 5,000 Air/Air Defense; 5,000 other); approximately 3,000 Gendarmerie (2022)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the military's inventory consists of Russian and Soviet-era weapons systems; since 2010, Russia has been the largest suppliers of arms to Serbia; China has also provided a growing amount of arms (2022)<br>
+the military's inventory consists of Russian and Soviet-era weapons systems; in recent years, Russia has been the largest suppliers of arms to Serbia; China has also provided a growing amount of arms (2023)<br>
 
 **Military service age and obligation**<br>
-18 years of age for voluntary military service for men and women; conscription abolished January 2011 (2021)<br>
-<strong>note:</strong> as of 2019, women made up about 6% of the military's full-time personnel <br>
+18 years of age for voluntary military service for men and women; conscription abolished January 2011 (2022)<br>
+<strong>note:</strong> as of 2021, women made up about 16% of the military's full-time personnel<br>
 
 **Military deployments**<br>
 175 Lebanon (UNIFIL) (May 2022)<br>
@@ -733,8 +733,8 @@ the Serbian Armed Forces were established in June 2006; the Serbian military tra
 **Refugees and internally displaced persons**<br>
 _refugees (country of origin)_: 17,334 (Croatia), 7,997 (Bosnia and Herzegovina) (mid-year 2022); 22,716 (Ukraine) (includes Ukrainian refugees in Kosovo; as of 22 November 2022)<br>
 _IDPs_: 196,995 (most are Kosovar Serbs, some are Roma, Ashkalis, and Egyptian (RAE); some RAE IDPs are unregistered) (2021)<br>
-_stateless persons_: 2,113 (includes stateless persons in Kosovo) (mid-year 2021)<br>
-<strong>note:</strong> 939,092 estimated refugee and migrant arrivals (January 2015-January 2023); Serbia is predominantly a transit country and hosts an estimated 6,313 migrants and asylum seekers as of June 2022<br>
+_stateless persons_: 2,594 (includes stateless persons in Kosovo) (2022)<br>
+<strong>note:</strong> 940,413 estimated refugee and migrant arrivals (January 2015-January 2023); Serbia is predominantly a transit country and hosts an estimated 6,313 migrants and asylum seekers as of June 2022<br>
 
 **Illicit drugs**<br>
 <p>drug trafficking groups are major players in the procurement and transportation of large quantities of cocaine destined for European markets</p><br>

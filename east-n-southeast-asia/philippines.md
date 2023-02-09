@@ -180,7 +180,7 @@ _unimproved: rural_: rural: 5% of population<br>
 _unimproved: total_: total: 3% of population (2020 est.)<br>
 
 **Current health expenditure**<br>
-4.1% of GDP (2019)<br>
+5.1% of GDP (2020)<br>
 
 **Physicians density**<br>
 0.77 physicians/1,000 population (2020)<br>
@@ -490,7 +490,7 @@ _female_: 9% (2021 est.)<br>
 16.7% (2018 est.)<br>
 
 **Gini Index coefficient - distribution of family income**<br>
-44.4 (2015 est.)<br>
+42.3 (2018 est.)<br>
 
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 3.2%<br>
@@ -722,7 +722,7 @@ Armed Forces of the Philippines (AFP): Army, Navy (includes Marine Corps), Air F
 approximately 130,000 active duty personnel (90,000 Army; 25,000 Navy, including about 8,000 Marine Corps; 15,000 Air Force) (2022)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the AFP is equipped with a mix of imported weapons systems, particularly secondhand equipment from the US; top weapons suppliers in recent years have included South Korea and the US (2022)<br>
+the AFP is equipped with a mix of imported weapons systems, particularly secondhand equipment from the US; the top weapons suppliers in recent years have included South Korea and the US (2022)<br>
 
 **Military service age and obligation**<br>
 18-25 (enlisted) and 21-29 (officers) years of age for voluntary military service for men and women; no conscription (2022)<br>
@@ -747,7 +747,7 @@ Abu Sayyaf Group; Communist Party of the Philippines/New People's Army (CPP/NPA)
 
 **Refugees and internally displaced persons**<br>
 _IDPs_: 108,000 (government troops fighting the Moro Islamic Liberation Front, the Abu Sayyaf Group, and the New People's Army; clan feuds; armed attacks, political violence, and communal tensions in Mindanao) (2021)<br>
-_stateless persons_: 392 (mid-year 2021); note - stateless persons are descendants of Indonesian migrants<br>
+_stateless persons_: 261 (2022); note - stateless persons are descendants of Indonesian migrants<br>
 
 **Illicit drugs**<br>
 cannabis products, methamphetamine hydrochloride (locally known as "shabu"), and MDMA (ecstasy) are locally used; Chinese Transnational Criminal Organizations (TCOs) are the main source of methamphetamine; precursor chemicals in transit from China to Burma<br>

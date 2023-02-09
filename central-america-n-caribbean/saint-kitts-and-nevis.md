@@ -166,7 +166,7 @@ _unimproved: rural_: rural: 1.7% of population<br>
 _unimproved: total_: total: 1.7% of population (2015 est.)<br>
 
 **Current health expenditure**<br>
-5.4% of GDP (2019)<br>
+5.4% of GDP (2020)<br>
 
 **Physicians density**<br>
 2.77 physicians/1,000 population (2018)<br>
@@ -307,7 +307,7 @@ _residency requirement for naturalization_: 14 years<br>
 18 years of age; universal<br>
 
 **Executive branch**<br>
-_chief of state_: King CHARLES III (since 8 September 2022); represented by Governor General Samuel W.T. SEATON (since 2 September 2015); note - SEATON was Acting Governor General from 20 May to 2 September 2015<br>
+_chief of state_: King CHARLES III (since 8 September 2022); represented by Governor General Marcella LIBURD (since 4 February 2023)<br>
 _head of government_: Prime Minister Dr. Terrance DREW (since 6 August 2022); Deputy Prime Minister Dr. Geoffrey HANLEY (since 13 August 2022)<br>
 _cabinet_: Cabinet appointed by governor general in consultation with prime minister<br>
 _elections/appointments_: the monarchy is hereditary; governor general appointed by the monarch; following legislative elections, the leader of the majority party or majority coalition usually appointed prime minister by governor general; deputy prime minister appointed by governor general<br>

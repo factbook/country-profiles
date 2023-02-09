@@ -163,7 +163,7 @@ _unimproved: rural_: rural: NA<br>
 _unimproved: total_: total: 0% of population (2020 est.)<br>
 
 **Current health expenditure**<br>
-9.8% of GDP (2019)<br>
+12% of GDP (2020)<br>
 
 **Physicians density**<br>
 1.35 physicians/1,000 population (2015)<br>
@@ -411,6 +411,9 @@ _female_: 37.5% (2013)<br>
 **Population below poverty line**<br>
 NA<br>
 
+**Gini Index coefficient - distribution of family income**<br>
+34.8 (2012 est.)<br>
+
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: NA<br>
 _highest 10%_: NA<br>
@@ -605,5 +608,5 @@ Nauru maintains no defense forces; under an informal agreement, defense is the r
 <p>none identified</p><br>
 
 **Refugees and internally displaced persons**<br>
-_stateless persons_: 133 (mid-year 2021)<br>
+_stateless persons_: 140 (2022)<br>
 

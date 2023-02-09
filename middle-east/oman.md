@@ -176,7 +176,7 @@ _unimproved: rural_: rural: 2.1% of population<br>
 _unimproved: total_: total: 0.3% of population (2020 est.)<br>
 
 **Current health expenditure**<br>
-4.1% of GDP (2019)<br>
+5.3% of GDP (2020)<br>
 
 **Physicians density**<br>
 1.77 physicians/1,000 population (2020)<br>
@@ -686,7 +686,7 @@ Sultan's Armed Forces (SAF): Royal Army of Oman (RAO), Royal Navy of Oman (RNO),
 approximately 40,000 active duty troops (25,000 Army, 5,000 Navy; 5,000 Air Force; 5,000 Royal Guard) (2022)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the SAF's inventory includes a mix of older and some more modern weapons systems from a variety of suppliers, particularly Europe and the US; since 2010, the UK and the US have been the leading suppliers of arms to Oman (2022)<br>
+the SAF's inventory includes a mix of older and some more modern weapons systems from a variety of suppliers, particularly Europe and the US; in recent years, the UK and the US have been the leading suppliers of arms to Oman (2022)<br>
 
 **Military service age and obligation**<br>
 18-30 years of age for voluntary military service (women have been allowed to serve since 2011); no conscription (2022)<br>

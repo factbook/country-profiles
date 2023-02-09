@@ -178,7 +178,7 @@ _unimproved: rural_: rural: 13% of population<br>
 _unimproved: total_: total: 7.9% of population (2020 est.)<br>
 
 **Current health expenditure**<br>
-6.4% of GDP (2019)<br>
+6.8% of GDP (2020)<br>
 
 **Physicians density**<br>
 3.1 physicians/1,000 population (2020)<br>
@@ -289,7 +289,7 @@ _industrial_: 650 million cubic meters (2017 est.)<br>
 _agricultural_: 42 million cubic meters (2017 est.)<br>
 
 **Total renewable water resources**<br>
-12.27 billion cubic meters (2017 est.)<br>
+12.3 billion cubic meters (2017 est.)<br>
 
 ## Government
 
@@ -473,7 +473,7 @@ _female_: 14.7% (2021 est.)<br>
 7.3% (2018 est.)<br>
 
 **Gini Index coefficient - distribution of family income**<br>
-25.7 (2018 est.)<br>
+26 (2019 est.)<br>
 
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 4.2%<br>
@@ -695,7 +695,7 @@ National Army: Land Forces (Fortele Terestre ale Republicii Moldova, FTRM); Air 
 approximately 6,500 active troops (2022)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the Moldovan military's inventory is limited and almost entirely comprised of older Russian and Soviet-era equipment; since 2000, it has received small amounts of donated material from other nations, including the US (2022)<br>
+the Moldovan military's inventory is limited and almost entirely comprised of older Russian and Soviet-era equipment; in recent years, it has received small amounts of donated material from other nations, including the US (2022)<br>
 
 **Military service age and obligation**<br>
 18-27 years of age for compulsory or voluntary military service; male registration required at age 16; 12-month service obligation (2022)<br>
@@ -710,8 +710,8 @@ Moldova is constitutionally neutral, but has maintained a relationship with NATO
 <p><em>Moldova-Romania</em>: none identified</p> <p><em>Moldova-Ukraine</em>: Ukraine and Moldova signed an agreement officially delimiting their border in 1999, but the border has not been demarcated due to Moldova's difficulties with the break-away region of Transnistria; Moldova and Ukraine operate joint customs posts to monitor the transit of people and commodities through Moldova's break-away Transnistria region, which remains under the auspices of an Organization for Security and Cooperation in Europe-mandated peacekeeping mission comprised of Moldovan, Transnistrian, Russian, and Ukrainian troops</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 102,160 (Ukraine) (as of 24 January 2023)<br>
-_stateless persons_: 3,372 (mid-year 2021)<br>
+_refugees (country of origin)_: 108,824 (Ukraine) (as of 31 January 2023)<br>
+_stateless persons_: 1,701 (2022)<br>
 
 **Illicit drugs**<br>
 limited cultivation of opium poppy and cannabis, mostly for CIS consumption; transshipment point for illicit drugs from Southwest Asia via Central Asia to Russia, Western Europe, and possibly the US; widespread crime and underground economic activity<br>

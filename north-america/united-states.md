@@ -195,7 +195,7 @@ _unimproved: rural_: rural: 0.3% of population<br>
 _unimproved: total_: total: 0.1% of population (2020 est.)<br>
 
 **Current health expenditure**<br>
-16.8% of GDP (2019)<br>
+18.8% of GDP (2020)<br>
 
 **Physicians density**<br>
 2.61 physicians/1,000 population (2018)<br>
@@ -313,7 +313,7 @@ _industrial_: 209.7 billion cubic meters (2017 est.)<br>
 _agricultural_: 176.2 billion cubic meters (2017 est.)<br>
 
 **Total renewable water resources**<br>
-3.069 trillion cubic meters (2017 est.)<br>
+3.1 trillion cubic meters (2017 est.)<br>
 
 ## Government
 
@@ -772,7 +772,7 @@ Hizballah; Islamic Revolutionary Guard Corps (IRGC)/Qods Force; Islamic State of
 
 **Refugees and internally displaced persons**<br>
 _refugees (country of origin)_: the US admitted 25,465 refugees during FY2022, including: 7,810 (Democratic Republic of the Congo), 4,556 (Syria), 2,156 (Burma), 1,669 (Sudan), 1,618 (Afghanistan), 1,610 (Ukraine)<br>
-_stateless persons_: 47 (mid-year 2021)<br>
+_stateless persons_: 47 (2022)<br>
 
 **Illicit drugs**<br>
 <p>world's largest consumer of cocaine (mostly from Colombia through Mexico and the Caribbean), Mexican heroin and marijuana; major consumer of MDMA (ecstasy) and Mexican methamphetamine; major consumer of fentanyl and other synthetic opioids sourced from Mexico and China, often mixed with other drugs; illicit producer of cannabis, marijuana, depressants, stimulants, hallucinogens, and methamphetamine; money-laundering center</p><br>

@@ -190,7 +190,7 @@ _unimproved: rural_: rural: 31.2% of population<br>
 _unimproved: total_: total: 17.4% of population (2020 est.)<br>
 
 **Current health expenditure**<br>
-3% of GDP (2019)<br>
+3.4% of GDP (2020)<br>
 
 **Physicians density**<br>
 0.38 physicians/1,000 population (2018)<br>
@@ -739,7 +739,7 @@ Nigerian Armed Forces: Army, Navy (includes Coast Guard), Air Force; Ministry of
 information varies; approximately 135,000 active duty armed forces personnel (100,000 Army; 20,000 Navy/Coast Guard; 15,000 Air Force); approximately 80,000 Security and Civil Defense Corps (2022)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the military's inventory consists of a wide variety of imported weapons systems of Chinese, European, Middle Eastern, Russian (including Soviet-era), and US origin; since 2010, Nigeria has undertaken a considerable military modernization program, and has received equipment from some 20 countries with China, Russia, and the US as the leading suppliers; Nigeria is also developing a defense-industry capacity, including small arms, armored personnel vehicles, and small-scale naval production (2022)<br>
+the military's inventory consists of a wide variety of imported weapons systems of Chinese, European, Middle Eastern, Russian (including Soviet-era), and US origin; the military is undergoing a considerable modernization program, and in recent years has received equipment from some 20 countries with China, Russia, and the US as the leading suppliers; Nigeria is also developing a defense-industry capacity, including small arms, armored personnel vehicles, and small-scale naval production (2022)<br>
 
 **Military service age and obligation**<br>
 18-26 years of age for men and women for voluntary military service; no conscription (2022)<br>

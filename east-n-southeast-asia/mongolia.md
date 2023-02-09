@@ -5,7 +5,7 @@ _East & Southeast Asia / Countries_
 ## Introduction
 
 **Background**<br>
-<p>The peoples of Mongolia have a long history under a number of nomadic empires dating back to the period of the Xiongnu in the 4th century B.C. The name Mongol goes back to at least the 11th century A.D. The most famous Mongol, TEMÜÜJIN (aka Genghis Khan) emerged as the ruler of all Mongols in the early 1200s. By the time of his death in 1227, he had created through conquest a Mongol Empire that extended across much of Eurasia. His descendants, including ÖGÖDEI and KHUBILAI (aka Kublai Khan), continued military campaigns of conquest, taking control of Eastern Europe, the Middle East, and the rest of China where KHUBILAI established the Yuan Dynasty in the 1270s. The Mongols attempted to invade Japan and Java before their empire broke apart in the 14th century. In the 17th century, Mongolia fell under the rule of the Manchus of the Chinese Qing Dynasty. Following the collapse of the Manchus in 1911, Mongolia declared its independence, achieving it with help from the Soviet Union in 1921. Mongolia became a socialist state (the Mongolian People’s Republic) in 1924. Following independence and until the collapse of the Soviet Union in 1989, the country was a Soviet satellite state, and heavily reliant on economic, military, and political assistance from Moscow. The period also was marked by purges, political repression, economic stagnation, and tensions with China. <br><br>Mongolia peacefully transitioned to an independent democracy in 1990. In 1992, it adopted a new constitution and established a free market economy. Since the country's transition, it has conducted eight presidential and nine legislative elections as of 2021. Throughout the period, the ex-communist Mongolian People's Revolutionary Party (MPRP) - which took the name Mongolian People’s Party (MPP) in 2010 - has competed for political power with the Democratic Party (DP) and several other smaller parties, including a new party formed by former President ENKHBAYAR, which confusingly adopted for itself the MPRP name until it merged with MPP in 2021. In the 2016 parliamentary elections, the MPP won overwhelming control of the Parliament over the DP, which had overseen a sharp decline in Mongolia’s economy during its control of the Parliament in the preceding years. Mongolians elected a DP member, Khaltmaa BATTULGA, as president in 2017. The June 2020 parliamentary elections left the MPP with continued dominant control of the parliament. Mongolians elected former prime minister and MPP member Ukhnaa KHURELSUKH as president in 2021. Mongolia maintains close cultural, political, and military ties with Russia while China is its largest economic partner. Mongolia’s foreign relations are focused on preserving its autonomy by balancing relations with China and Russia, as well as its other major partners, Japan, South Korea, and the US.</p><br>
+<p>The peoples of Mongolia have a long history under a number of nomadic empires dating back to the period of the Xiongnu in the 4th century B.C. The name Mongol goes back to at least the 11th century A.D. The most famous Mongol, TEMÜÜJIN (aka Genghis Khan) emerged as the ruler of all Mongols in the early 1200s. By the time of his death in 1227, he had created through conquest a Mongol Empire that extended across much of Eurasia. His descendants, including ÖGÖDEI and KHUBILAI (aka Kublai Khan), continued military campaigns of conquest, taking control of Eastern Europe, the Middle East, and the rest of China where KHUBILAI established the Yuan Dynasty in the 1270s. The Mongols attempted to invade Japan and Java before their empire broke apart in the 14th century. In the 17th century, Mongolia fell under the rule of the Manchus of the Chinese Qing Dynasty. Following the collapse of the Manchus in 1911, Mongolia declared its independence, achieving it with help from the Soviet Union in 1921. Mongolia became a socialist state (the Mongolian People’s Republic) in 1924. Following independence and until the collapse of the Soviet Union in 1989, the country was a Soviet satellite state, and heavily reliant on economic, military, and political assistance from Moscow. The period also was marked by purges, political repression, economic stagnation, and tensions with China. <br><br>Mongolia peacefully transitioned to an independent democracy in 1990. In 1992, it adopted a new constitution and established a free market economy. Since the country's transition, it has conducted eight presidential and nine legislative elections as of 2021. Throughout the period, the ex-communist Mongolian People's Revolutionary Party (MPRP) - which took the name Mongolian People’s Party (MPP) in 2010 - has competed for political power with the Democratic Party (DP) and several other smaller parties. In the 2016 parliamentary elections, the MPP won overwhelming control of the Parliament over the DP, which had overseen a sharp decline in Mongolia’s economy during its control of the Parliament in the preceding years. Mongolians elected a DP member, Khaltmaa BATTULGA, as president in 2017. The June 2020 parliamentary elections left the MPP with continued dominant control of the parliament. Mongolians elected former prime minister and MPP member Ukhnaa KHURELSUKH as president in 2021. Mongolia maintains close cultural, political, and military ties with Russia while China is its largest economic partner. Mongolia’s foreign relations are focused on preserving its autonomy by balancing relations with China and Russia, as well as its other major partners, Japan, South Korea, and the US.</p><br>
 
 ## Geography
 
@@ -181,7 +181,7 @@ _unimproved: rural_: rural: 35.8% of population<br>
 _unimproved: total_: total: 12.4% of population (2020 est.)<br>
 
 **Current health expenditure**<br>
-3.8% of GDP (2019)<br>
+4.9% of GDP (2020)<br>
 
 **Physicians density**<br>
 3.85 physicians/1,000 population (2018)<br>
@@ -352,7 +352,7 @@ _chief of state_: President Ukhnaagiin KHURELSUKH (since 25 June 2021)<br>
 _head of government_: Prime Minister Luvsannamsrai OYUN-ERDENE (since 27 January 2021); Deputy Prime Minister Ulziisaikhan ENKHTUVSHIN (since 18 October 2017)<br>
 _cabinet_: directly appointed by the prime minister following a constitutional amendment ratified in November 2019; prior to the amendment, the cabinet was nominated by the prime minister in consultation with the president and confirmed by the State Great Hural (parliament)<br>
 _elections/appointments_: presidential candidates nominated by political parties represented in the State Great Hural and directly elected by simple majority popular vote for one 6-year term; election last held on 9 June 2021; following legislative elections, the leader of the majority party or majority coalition is usually elected prime minister by the State Great Hural<br>
-_election results_: Ukhnaagiin KHURELSUKH elected president in first round; percent of vote - Ukhnaa KHURELSUKH (Mongolian People's Party) 67.7%, Dangaasuren ENKHBAT (HUN Coalition) 20.31%, Sodnomzundui ERDENE (Democratic Party) 5.99%<br>
+_election results_: Ukhnaagiin KHURELSUKH elected president in first round; percent of vote - Ukhnaa KHURELSUKH (Mongolian People's Party) 67.7%, Dangaasuren ENKHBAT (Right Person Coalition) 20.31%, Sodnomzundui ERDENE (Democratic Party) 5.99%<br>
 
 **Legislative branch**<br>
 _description_: unicameral State Great Hural or Ulsyn Ikh Khural (76 seats; members directly elected in single-seat constituencies by simple majority vote; each constituency requires at least 50% voter participation for the poll to be valid; members serve 4-year terms)<br>
@@ -365,8 +365,8 @@ _judge selection and term of office_: Supreme Court chief justice and judges app
 _subordinate courts_: aimag (provincial) and capital city appellate courts; soum, inter-soum, and district courts; Administrative Cases Courts<br>
 
 **Political parties and leaders**<br>
-Civil Will-Green Party or CWGP [Tserendorj GANKHUYAG] <br>Democratic Party or DP [Tsogtgerel ODON]<br>Justice Party [Batbayar NASANBILEG]<br>Mongolian National Democratic Party or MNDP [Bayanjargal TSOGTGEREL]<br>Mongolian People's Party or MPP [Luvsannamsrai OYUN-ERDENE]<br>Mongolian Social Democratic Party or MSDP [Adiya GANBAATAR]<br>Mongolian Traditionally United Party or MTUP [Batdelgeriin BATBOLD]<br>National Labor Party or HUN [Togmid Dorhkhand]<br>Our Coalition (coalition of the MPRP, Civil Will-Green Party, and Mongolian Traditionally United Party formed for the 2020 election)<br>Right Person Electorate Coalition of ZKEE (coalition of the National Labor Party, Mongolian Social  [Badrakhyn NAIDALAA]<br>
-<strong>note:</strong> there were 35 total registered parties as of December 2021<br>
+Civil Will-Green Party or CWGP [Tserendorj GANKHUYAG] <br>Democratic Party or DP [Tsogtgerel ODON]<br>Justice Party [Batbayar NASANBILEG]<br>Mongolian National Democratic Party or MNDP [Bayanjargal TSOGTGEREL]<br>Mongolian People's Party or MPP [Luvsannamsrai OYUN-ERDENE]<br>Mongolian People's Revolutionary Party [Nambaryn ENKHBAYAR]<br>Mongolian Social Democratic Party or MSDP [Adiya GANBAATAR]<br>Mongolian Traditionally United Party or MTUP [Batdelgeriin BATBOLD]<br>National Labor Party or HUN [Togmid Dorhkhand]<br><br>Coalitions:<br>Our Coalition (MPRP, Civil Will-Green Party, and Mongolian Traditionally United Party)<br>Right Person Electorate Coalition or ZKEE (National Labor Party, Mongolian Social Democratic Party, Justice Party) <br>
+<strong>note:</strong> there were 36 registered parties for the 2020 legislative elections<br>
 
 **International organization participation**<br>
 ADB, ARF, CD, CICA, CP, EBRD, EITI (compliant country), FAO, G-77, IAEA, IBRD, ICAO, ICC (NGOs), ICCt, ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC, MIGA, MINURSO, MONUSCO, NAM, OPCW, OSCE, SCO (observer), UN, UNAMID, UNCTAD, UNESCO, UNIDO, UNISFA, UNMISS, UNWTO, UPU, WCO, WHO, WIPO, WMO, WTO<br>
@@ -380,7 +380,7 @@ _email address and website_: <br>washington@mfa.gov.mn<br><br>http://mongolianem
 _consulate(s) general_: New York, San Francisco<br>
 
 **Diplomatic representation from the US**<br>
-_chief of mission_: Ambassador Michael S. KLECHESKI (since 22 February 2019)<br>
+_chief of mission_: Ambassador Richard L. BUANGAN (since November 2022)<br>
 _embassy_: Denver Street #3, 11th Micro-District, Ulaanbaatar 14190<br>
 _mailing address_: 4410 Ulaanbaatar Place, Washington DC&nbsp; 20521-4410<br>
 _telephone_: [976] 7007-6001<br>
@@ -693,7 +693,7 @@ _by type_: bulk carrier 4, container ship 7, general cargo 131, oil tanker 64, o
 
 **Military and security forces**<br>
 Mongolian Armed Forces (MAF): Mongolian Ground Force (aka General Purpose Troops), Air/Air Defense Force, Cyber Security, Special Forces, Civil Engineering, Civil Defense Forces (2022)<br>
-<strong>note: </strong>the National Police Agency and the General Authority for Border Protection, which operate under the Ministry of Justice and Home Affairs, are primarily responsible for internal security; they are assisted by the General Intelligence Agency under the prime minister; the Armed Forces assist the internal security forces in providing domestic emergency assistance and disaster relief<br>
+<strong>note: </strong>the National Police Agency and the General Authority for Border Protection, which operate under the Ministry of Justice and Home Affairs, are primarily responsible for internal security; they are assisted by the General Intelligence Agency under the prime minister; the MAF assists the internal security forces in providing domestic emergency assistance and disaster relief<br>
 
 **Military expenditures**<br>
 0.8% of GDP (2021 est.)<br>
@@ -716,7 +716,7 @@ the MAF's inventory is comprised of Soviet-era equipment (2022)<br>
 <strong>note:</strong> from 2003 to July 2021, some 3,300 Mongolian troops served in Afghanistan, including about 1,300 under the NATO-led Resolute Support Mission (2015 to 2021); since 2002, Mongolia has deployed more than 19,000 peacekeepers and observers to UN operations in more than a dozen countries<br>
 
 **Military - note**<br>
-<p>Mongolia has been engaged in dialogue and cooperation with NATO since 2005 and is considered by NATO to be a global partner; Mongolia supported the NATO-led Kosovo Force from 2005-2007 and contributed troops to the NATO-led International Security Assistance Force in Afghanistan from 2009-2014, as well as to the follow-on Resolute Support Mission that provided training, advice, and other assistance to the Afghan security forces (2015-2021)</p><br>
+Mongolia has been engaged in dialogue and cooperation with NATO since 2005 and is considered by NATO to be a global partner; Mongolia supported the NATO-led Kosovo Force from 2005-2007 and contributed troops to the NATO-led International Security Assistance Force in Afghanistan from 2009-2014, as well as to the follow-on Resolute Support Mission that provided training, advice, and other assistance to the Afghan security forces (2015-2021) (2022)<br>
 
 ## Transnational Issues
 
@@ -724,7 +724,7 @@ the MAF's inventory is comprised of Soviet-era equipment (2022)<br>
 <p>none identified</p><br>
 
 **Refugees and internally displaced persons**<br>
-_stateless persons_: 17 (mid-year 2021)<br>
+_stateless persons_: 17 (2022)<br>
 
 **Illicit drugs**<br>
 NA<br>

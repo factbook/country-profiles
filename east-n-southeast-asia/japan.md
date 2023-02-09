@@ -180,7 +180,7 @@ _unimproved: rural_: rural: NA<br>
 _unimproved: total_: total: 0.1% of population (2020 est.)<br>
 
 **Current health expenditure**<br>
-10.7% of GDP (2019)<br>
+10.9% of GDP (2020)<br>
 
 **Physicians density**<br>
 2.48 physicians/1,000 population (2018)<br>
@@ -715,7 +715,7 @@ Japan Self-Defense Force (JSDF): Ground Self-Defense Force (Rikujou Jieitai, GSD
 approximately 240,000 active personnel (150,000 Ground; 45,000 Maritime; 45,000 Air); 14,000 Coast Guard (2022)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the JSDF is equipped with a mix of imported and domestically-produced equipment; Japan has a robust defense industry and is capable of producing a wide range of air, ground, and naval weapons systems; the majority of its weapons imports are from the US and some domestically-produced weapons are US-origin and manufactured under license (2022)<br>
+the JSDF is equipped with a mix of imported and domestically produced equipment; Japan has a robust defense industry and is capable of producing a wide range of air, ground, and naval weapons systems; the majority of its weapons imports are from the US and some domestically produced weapons are US-origin and manufactured under license (2022)<br>
 
 **Military service age and obligation**<br>
 18 years of age for voluntary military service for men and women (maximum enlistment age 32); no conscription (2022)<br>
@@ -735,5 +735,5 @@ Japan was disarmed after its defeat in World War II; shortly after the Korean Wa
 <p><em>Japan-China-Taiwan</em>: the Japanese-administered Senkaku Islands (Diaoyu Tai) are also claimed by China and Taiwan; Senkaku-shoto is situated near key shipping lanes, rich fishing grounds, and possibly significant oil and natural gas reserves</p> <p><em>Japan-Russia</em>: the sovereignty dispute over the islands of Etorofu, Kunashiri, and Shikotan, and the Habomai group, known in Japan as the "Northern Territories" and in Russia as the "Southern Kuril Islands," occupied by the Soviet Union in 1945, now administered by Russia and claimed by Japan, remains the primary sticking point to signing a peace treaty formally ending World War II hostilities</p> <p><em>Japan-South Korea</em>: Japan and South Korea claim Liancourt Rocks (Take-shima/Tok-do) occupied by South Korea since 1954</p><br>
 
 **Refugees and internally displaced persons**<br>
-_stateless persons_: 707 (mid-year 2021)<br>
+_stateless persons_: 531 (2022)<br>
 

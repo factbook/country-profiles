@@ -186,7 +186,7 @@ _unimproved: rural_: rural: 6.2% of population<br>
 _unimproved: total_: total: 2.6% of population (2020 est.)<br>
 
 **Current health expenditure**<br>
-2.8% of GDP (2019)<br>
+3.8% of GDP (2020)<br>
 
 **Physicians density**<br>
 3.98 physicians/1,000 population (2020)<br>
@@ -719,7 +719,7 @@ Armed Forces of the Republic of Kazakhstan: Land Forces, Naval Forces, Air and A
 information varies; approximately 40,000 active duty personnel (25,000 Land Forces; 3,000 Naval Forces; 12,000 Air and Air Defense Forces) (2022)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the Kazakh military's inventory is comprised of mostly older Russian and Soviet-era equipment; since 2010, Russia has been the leading supplier of weapons systems (2022)<br>
+the Kazakh military's inventory is comprised of mostly older Russian and Soviet-era equipment; Russia continues to be the leading supplier of arms (2022)<br>
 
 **Military service age and obligation**<br>
 all men 18-27 are required to serve in the military for 12-24 months (2022)<br>
@@ -733,7 +733,7 @@ Kazakhstan has been a member of the Collective Security Treaty Organization (CST
 <p><em>Kazakhstan-China</em>: in 1998, Kazakhstan and China agreed to split two disputed border areas nearly evenly; demarcation with China completed in 2002</p> <p><em>Kazakhstan-Kyrgyzstan</em>: in January 2019, Kyrgyzstan ratified the 2017 agreement on the demarcation of the Kyrgyzstan-Kazakhstan border</p> <p><em>Kazakhstan-Russia</em>: Russia boundary delimitation was ratified on November 2005; field demarcation commenced in 2007 and was expected to be completed by 2013</p> <p><em>Kazakhstan-Turkmenistan</em>: Kazakhstan and Turkmenistan signed a treaty on the delimitation and demarcation process in 2001; field demarcation of the boundaries with Kazakhstan commenced in 2005; Turkmenistan and Kazakhstan agreed to their border in the Caspian Sea in 2014</p> <p><em>Kazakhstan-Uzbekistan</em>: field demarcation of the boundaries with Kazakhstan commenced in 2004; disputed territory is held by Uzbekistan but the overwhelming majority of residents are ethnic Kazakhs; the two countries agreed on draft final demarcation documents in March 2022 and planned to hold another meeting in April 2022</p><br>
 
 **Refugees and internally displaced persons**<br>
-_stateless persons_: 7,915 (mid-year 2021)<br>
+_stateless persons_: 7,558 (2022)<br>
 
 **Illicit drugs**<br>
 <p>synthetic drugs dominate the local illicit drug market, smuggled from Southeast Asia, China, Russia and Europe; however the number of domestic clandestine laboratories producing synthetic drugs continues to increase;  remains a transit country for Afghan heroin destined for Russia and Europe.</p><br>

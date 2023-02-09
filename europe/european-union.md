@@ -134,9 +134,6 @@ _unimproved: urban_: urban: NA<br>
 _unimproved: rural_: rural: NA<br>
 _unimproved: total_: total: NA<br>
 
-**Current health expenditure**<br>
-9.9% of GDP (2016)<br>
-
 **Sanitation facility access**<br>
 _improved: urban_: urban: NA<br>
 _improved: rural_: rural: NA<br>
@@ -493,12 +490,12 @@ _major port(s)_: Antwerp (Belgium), Barcelona (Spain), Braila (Romania), Bremen 
 <strong>note:</strong> in 2017, the EU set up the Permanent Structured Cooperation on Defense (PESCO), a mechanism for deepening defense cooperation amongst member states through binding commitments and collaborative programs on a variety of military-related capabilities such as cyber, maritime surveillance, medical support, operational readiness, procurement, and training; similar efforts to promote collaboration and cooperation that same year amongst members included the Military Planning and Conduct Capability (MPCC), the Coordinated Annual Review on Defense (CARD), and the European Defense Fund (EDF)<br>
 
 **Military expenditures**<br>
-1.6% of GDP (2021 est.)<br>
+1.6% of GDP (2022 est.)<br>
+1.6% of GDP (2021)<br>
 1.6% of GDP (2020)<br>
 1.4% of GDP (2019)<br>
 1.4% of GDP (2018)<br>
-1.35% of GDP (2017)<br>
-<strong>note 1:</strong> the European Defense Fund (EDF) has a budget of  approximately $8 billion for 2021-2027; about $2.7 billion is devoted to funding collaborative defense research while about $5.3 billion is allocated for collaborative capability development projects that complement national contributions; EDF "categories for action" include areas such as information air and missile defense, cyber and information security, digital transformation, force protection, medical services, space, training, and air, ground, and naval combat capabilities <br><br><strong>note 2:</strong> NATO is resourced through the direct and indirect contributions of its members; NATO’s common funds are direct contributions to collective budgets, capabilities and programs, which equate to only 0.3% of total NATO defense spending (approximately 3.3 billion USD for 2023) to develop capabilities and run NATO, its military commands, capabilities, and infrastructure; NATO's 2014 Defense Investment Pledge calls for NATO members to meet the 2% of GDP guideline for defense spending and the 20% of annual defense expenditure on major new equipment by 2024; since Russia’s full-scale invasion of Ukraine in February 2022, a majority of the NATO countries have committed to investing more in defense and at a more rapid pace<br>
+<strong>note 1:</strong> the European Defense Fund (EDF) has a budget of  approximately $8 billion for 2021-2027; about $2.7 billion is devoted to funding collaborative defense research while about $5.3 billion is allocated for collaborative capability development projects that complement national contributions; EDF "categories for action" include areas such as information air and missile defense, cyber and information security, digital transformation, force protection, medical services, space, training, and air, ground, and naval combat capabilities <br><br><strong>note 2:</strong> NATO is resourced through the direct and indirect contributions of its members; NATO’s common funds are direct contributions to collective budgets, capabilities and programs, which equate to only 0.3% of total NATO defense spending (approximately $3.3 billion for 2023) to develop capabilities and run NATO, its military commands, capabilities, and infrastructure; NATO's 2014 Defense Investment Pledge called for NATO members to meet the 2% of GDP guideline for defense spending and the 20% of annual defense expenditure on major new equipment by 2024; since Russia’s full-scale invasion of Ukraine in February 2022, a majority of the NATO countries have committed to investing more in defense and at a more rapid pace<br>
 
 **Military and security service personnel strengths**<br>
 the 27 EU countries have a cumulative total of approximately 1.34 million active duty troops; the largest EU country military forces belong to France, Germany, and Italy (2021)<br>

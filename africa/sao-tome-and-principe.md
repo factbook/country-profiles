@@ -89,7 +89,7 @@ Portuguese 98.4% (official), Forro 36.2%, Cabo Verdian 8.5%, French 6.8%, Angola
 Catholic 55.7%, Adventist 4.1%, Assembly of God 3.4%, New Apostolic 2.9%, Mana 2.3%, Universal Kingdom of God 2%, Jehovah's Witness 1.2%, other 6.2%, none 21.2%, unspecified 1% (2012 est.)<br>
 
 **Demographic profile**<br>
-<p>Sao Tome and Principe’s youthful age structure – more than 60% of the population is under the age of 25 – and high fertility rate ensure future population growth. Although Sao Tome has a net negative international migration rate, emigration is not a sufficient safety valve to reduce already high levels of unemployment and poverty. While literacy and primary school attendance have improved in recent years, Sao Tome still struggles to improve its educational quality and to increase its secondary school completion rate. Despite some improvements in education and access to healthcare, Sao Tome and Principe has much to do to decrease its high poverty rate, create jobs, and increase its economic growth.</p><p>The population of Sao Tome and Principe descends primarily from the islands’ colonial Portuguese settlers, who first arrived in the late 15th century, and the much larger number of African slaves brought in for sugar production and the slave trade. For about 100 years after the abolition of slavery in 1876, the population was further shaped by the widespread use of imported unskilled contract laborers from Portugal’s other African colonies, who worked on coffee and cocoa plantations. In the first decades after abolition, most workers were brought from Angola under a system similar to slavery. While Angolan laborers were technically free, they were forced or coerced into long contracts that were automatically renewed and extended to their children. Other contract workers from Mozambique and famine-stricken Cape Verde first arrived in the early 20th century under short-term contracts and had the option of repatriation, although some chose to remain in Sao Tome and Principe.</p><p>Today’s Sao Tomean population consists of mesticos (creole descendants of the European immigrants and African slaves that first inhabited the islands), forros (descendants of freed African slaves), angolares (descendants of runaway African slaves that formed a community in the south of Sao Tome Island and today are fishermen), servicais (contract laborers from Angola, Mozambique, and Cape Verde), tongas (locally born children of contract laborers), and lesser numbers of Europeans and Asians.</p><br>
+<p>Sao Tome and Principe’s youthful age structure – more than 60% of the population is under the age of 25 as of 2020 – and high fertility rate ensure future population growth. Although Sao Tome has a net negative international migration rate, emigration is not a sufficient safety valve to reduce already high levels of unemployment and poverty. While literacy and primary school attendance have improved in recent years, Sao Tome still struggles to improve its educational quality and to increase its secondary school completion rate. Despite some improvements in education and access to healthcare, Sao Tome and Principe has much to do to decrease its high poverty rate, create jobs, and increase its economic growth.</p> <p>The population of Sao Tome and Principe descends primarily from the islands’ colonial Portuguese settlers, who first arrived in the late 15th century, and the much larger number of African slaves brought in for sugar production and the slave trade. For about 100 years after the abolition of slavery in 1876, the population was further shaped by the widespread use of imported unskilled contract laborers from Portugal’s other African colonies, who worked on coffee and cocoa plantations. In the first decades after abolition, most workers were brought from Angola under a system similar to slavery. While Angolan laborers were technically free, they were forced or coerced into long contracts that were automatically renewed and extended to their children. Other contract workers from Mozambique and famine-stricken Cape Verde first arrived in the early 20th century under short-term contracts and had the option of repatriation, although some chose to remain in Sao Tome and Principe.</p> <p>Today’s Sao Tomean population consists of mesticos (creole descendants of the European immigrants and African slaves that first inhabited the islands), forros (descendants of freed African slaves), angolares (descendants of runaway African slaves that formed a community in the south of Sao Tome Island and today are fishermen), servicais (contract laborers from Angola, Mozambique, and Cape Verde), tongas (locally born children of contract laborers), and lesser numbers of Europeans and Asians.</p><br>
 
 **Age structure**<br>
 _0-14 years_: 39.77% (male 42,690/female 41,277)<br>
@@ -175,7 +175,7 @@ _unimproved: rural_: rural: 6% of population<br>
 _unimproved: total_: total: 1.5% of population (2020 est.)<br>
 
 **Current health expenditure**<br>
-5.5% of GDP (2019)<br>
+4.9% of GDP (2020)<br>
 
 **Physicians density**<br>
 0.49 physicians/1,000 population (2019)<br>
@@ -295,7 +295,7 @@ _industrial_: 600,000 cubic meters (2017 est.)<br>
 _agricultural_: 25.6 million cubic meters (2017 est.)<br>
 
 **Total renewable water resources**<br>
-2.18 billion cubic meters (2017 est.)<br>
+2.2 billion cubic meters (2017 est.)<br>
 
 ## Government
 
@@ -462,7 +462,7 @@ _female_: 34.3% (2021 est.) NA<br>
 66.7% (2017 est.)<br>
 
 **Gini Index coefficient - distribution of family income**<br>
-56.3 (2017 est.)<br>
+40.7 (2017 est.)<br>
 
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: NA<br>

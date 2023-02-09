@@ -181,7 +181,7 @@ _unimproved: rural_: rural: 1.9% of population<br>
 _unimproved: total_: total: 0.6% of population (2020 est.)<br>
 
 **Current health expenditure**<br>
-6.7% of GDP (2019)<br>
+5.3% of GDP (2020)<br>
 
 **Physicians density**<br>
 1.58 physicians/1,000 population (2018)<br>
@@ -708,7 +708,7 @@ the military forces of Iran are divided between the Islamic Republic of Iran Reg
 information varies; approximately 550-600,000 active armed forces personnel; approximately 400,000 Islamic Republic of Iran Regular Forces (350,000 Ground Forces; 18,000 Navy; 40,000 Air Force/Air Defense Forces); approximately 150-190,000 Islamic Revolutionary Guard Corps (100-150,000 Ground Forces; 20,000 Navy; 15,000 Aerospace Force; 5-15,000 Qods Force); estimated 90,000 active Basij Paramilitary Forces (2022)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the Iranian military's inventory includes a mix of domestically-produced and mostly older foreign equipment largely of Chinese, Russian, Soviet, and US origin (US equipment acquired prior to the Islamic Revolution in 1979); Iran has also received some military equipment from North Korea, including midget submarines and ballistic missiles; Iran has a defense industry with the capacity to develop, produce, support, and sustain air, land, missile, and naval weapons programs (2021)<br>
+the Iranian military's inventory includes a mix of domestically produced and mostly older foreign equipment largely of Chinese, Russian, Soviet, and US origin (US equipment acquired prior to the Islamic Revolution in 1979); Iran has also received some military equipment from North Korea, including midget submarines and ballistic missiles; Iran has a defense industry with the capacity to develop, produce, support, and sustain air, land, missile, and naval weapons programs (2022)<br>
 
 **Military service age and obligation**<br>
 18 years of age for men for compulsory military service; 16 years of age for volunteers; 17 years of age for Law Enforcement Forces; 15 years of age for Basij Forces (Popular Mobilization Army); conscript military service obligation is 18-24 months, depending on the location of service (soldiers serving in places of high security risk and deprived areas serve shorter terms); women exempt from military service (2021)<br>

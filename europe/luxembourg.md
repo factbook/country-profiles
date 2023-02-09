@@ -175,7 +175,7 @@ _unimproved: rural_: rural: 1.4% of population<br>
 _unimproved: total_: total: 0.1% of population (2020 est.)<br>
 
 **Current health expenditure**<br>
-5.4% of GDP (2019)<br>
+5.8% of GDP (2020)<br>
 
 **Physicians density**<br>
 3.01 physicians/1,000 population (2017)<br>
@@ -684,7 +684,7 @@ Luxembourg Army (l'Arm&eacute;e Luxembourgeoise) (2022)<br>
 approximately 900 active personnel (2022)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the inventory of Luxembourg's Army is a small mix of Western-origin equipment (2022)<br>
+the inventory of Luxembourg's Army is a small mix of Western origin equipment (2022)<br>
 
 **Military service age and obligation**<br>
 18-26 years of age for voluntary military service for men and women; no conscription (abolished 1969) (2022)<br>
@@ -700,5 +700,5 @@ Luxembourg is a member of NATO and was one of the original 12 countries to sign 
 
 **Refugees and internally displaced persons**<br>
 _refugees (country of origin)_: 6,756 (Ukraine) (as of 25 October 2022)<br>
-_stateless persons_: 194 (mid-year 2021)<br>
+_stateless persons_: 174 (2022)<br>
 

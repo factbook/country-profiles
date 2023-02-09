@@ -314,7 +314,7 @@ _chief of mission_: none (Special Administrative Region of China); Hong Kong Eco
 _HKETO offices_: New York, San Francisco<br>
 
 **Diplomatic representation from the US**<br>
-_chief of mission_: Consul General Hanscom SMITH (since July 2019); note - also accredited to Macau<br>
+_chief of mission_: Consul General Gregory MAY (since September 2022); note - also accredited to Macau<br>
 _embassy_: 26 Garden Road, Central, Hong Kong<br>
 _mailing address_: 8000 Hong Kong Place, Washington DC&nbsp; 20521-8000<br>
 _telephone_: [852] 2523-9011<br>

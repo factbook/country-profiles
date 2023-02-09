@@ -177,7 +177,7 @@ _unimproved: rural_: rural: NA<br>
 _unimproved: total_: total: 0% of population (2020 est.)<br>
 
 **Current health expenditure**<br>
-5.5% of GDP (2019)<br>
+6.3% of GDP (2020)<br>
 
 **Physicians density**<br>
 2.34 physicians/1,000 population (2020)<br>
@@ -678,7 +678,7 @@ Kuwaiti Armed Forces (KAF): Kuwaiti Land Forces (KLF), Kuwaiti Navy, Kuwaiti Air
 approximately 17,000 active duty armed forces personnel (12,500 Army, including the Amiri Guard and 25th Commando Brigade; 2,000 Navy; 2,500 Air Force); approximately 6,500 National Guard (2022)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the military's inventory consists of weapons from a wide variety of sources, including Western Europe, Russia, the United Arab Emirates, and the US; the US has been the leading supplier of arms to Kuwait since 2010 (2022)<br>
+the military's inventory consists of weapons from a wide variety of sources, including Western Europe, Russia, the United Arab Emirates, and the US; the US has been the leading supplier of arms to Kuwait&nbsp; (2022)<br>
 
 **Military service age and obligation**<br>
 18-26 years of age for voluntary military service; Kuwait reintroduced 12-month mandatory service for men aged 18-35 in May 2017 after having suspended conscription in 2001; mandatory service is divided in two phases – 4 months for training and 8 months for military service; women were allowed to volunteer in 2021 (2022)<br>
@@ -693,5 +693,5 @@ as of 2022, the US had approximately 13,000 military personnel based in Kuwait a
 <p><em>Kuwait-Iraq</em>: no maritime boundary exists with Iraq in the Persian Gulf</p> <p><em>Kuwait-Saudi Arabia</em>: their maritime boundary was established in 2000 and has a neutral zone but its extension to Iran’s maritime boundary has not been negotiated</p> <p> </p><br>
 
 **Refugees and internally displaced persons**<br>
-_stateless persons_: 92,020 (mid-year 2021); note - Kuwait's 1959 Nationality Law defined citizens as persons who settled in the country before 1920 and who had maintained normal residence since then; one-third of the population, descendants of Bedouin tribes, missed the window of opportunity to register for nationality rights after Kuwait became independent in 1961 and were classified as bidun (meaning "without"); since the 1980s Kuwait's bidun have progressively lost their rights, including opportunities for employment and education, amid official claims that they are nationals of other countries who have destroyed their identification documents in hopes of gaining Kuwaiti citizenship; Kuwaiti authorities have delayed processing citizenship applications and labeled biduns as "illegal residents," denying them access to civil documentation, such as birth and marriage certificates<br>
+_stateless persons_: 92,000 (2022); note - Kuwait's 1959 Nationality Law defined citizens as persons who settled in the country before 1920 and who had maintained normal residence since then; one-third of the population, descendants of Bedouin tribes, missed the window of opportunity to register for nationality rights after Kuwait became independent in 1961 and were classified as bidun (meaning "without"); since the 1980s Kuwait's bidun have progressively lost their rights, including opportunities for employment and education, amid official claims that they are nationals of other countries who have destroyed their identification documents in hopes of gaining Kuwaiti citizenship; Kuwaiti authorities have delayed processing citizenship applications and labeled biduns as "illegal residents," denying them access to civil documentation, such as birth and marriage certificates<br>
 

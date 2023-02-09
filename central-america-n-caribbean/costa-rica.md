@@ -175,7 +175,7 @@ _unimproved: rural_: rural: 0% of population<br>
 _unimproved: total_: total: 0% of population (2020 est.)<br>
 
 **Current health expenditure**<br>
-7.3% of GDP (2019)<br>
+7.9% of GDP (2020)<br>
 
 **Physicians density**<br>
 3.3 physicians/1,000 population (2020)<br>
@@ -716,7 +716,7 @@ Costa Rica relies on specialized paramilitary units within the Ministry of Publi
 
 **Refugees and internally displaced persons**<br>
 _refugees (country of origin)_: 29,906 (Venezuela) (economic and political crisis; includes Venezuelans who have claimed asylum, are recognized as refugees, or received alternative legal stay) (2021)<br>
-_stateless persons_: 205 (mid-year 2021)<br>
+_stateless persons_: 192 (2022)<br>
 
 **Illicit drugs**<br>
 <p>significant transit country for drugs entering the United States; a growing drug consumption problem; drugs warehoused in Costa Rica end up in the local market where criminal organizations use cocaine as payment for services. </p> <p> </p><br>

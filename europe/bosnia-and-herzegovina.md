@@ -176,7 +176,7 @@ _unimproved: rural_: rural: 0% of population<br>
 _unimproved: total_: total: 0.1% of population (2020 est.)<br>
 
 **Current health expenditure**<br>
-9.1% of GDP (2019)<br>
+9.8% of GDP (2020)<br>
 
 **Physicians density**<br>
 2.16 physicians/1,000 population (2015)<br>
@@ -701,7 +701,7 @@ the military's inventory is a wide mix of secondhand equipment mostly of French,
 
 **Military service age and obligation**<br>
 18 years of age for voluntary military service; mandatory retirement at age 35 or after 15 years of service for junior enlisted personnel, mandatory retirement at age 50 and 30 years of service for non-commissioned officers, mandatory retirement at age 55 and 30 years of service for all commissioned officers; conscription abolished in 2005 (2021)<br>
-<strong>note:</strong> as of 2019, women made up about 7% of the military's full-time personnel<br>
+<strong>note:</strong> as of 2021, women made up about 7% of the military's full-time personnel<br>
 
 **Military - note**<br>
 <p>the Armed Forces of Bosnia and Herzegovina (AFBiH) are comprised of the former Bosnian-Croat Army of the Federation of Bosnia and Herzegovina (Vojska Federacije Bosne i Hercegovin, VF) and the Bosnian-Serb Republic of Serbia Army (Vojska Republike Srpske, VRS); the two forces were unified under the 2003 Law on Defense, which also established the country’s Ministry of Defense<br><br>the European Union Force Bosnia and Herzegovina (EUFOR) has operated in the country to oversee implementation of the Dayton/Paris Agreement since taking over from NATO's Stabilization Force (SFOR) in 2004; in addition to its security mission, EUFOR supports the overall EU comprehensive strategy for Bosnia and Herzegovina and the efforts of the AFBiH to attain NATO standards; as of 2022, it had about 600 troops from 19 countries</p> <p>Bosnia and Herzegovina joined NATO’s Partnership for Peace (PfP) program in 2007 and was invited to join NATO’s Membership Action Plan in 2010; as of 2022, NATO maintained a military headquarters in Sarajevo with the mission of assisting Bosnia and Herzegovina with the PfP program and promoting closer integration with NATO, as well as providing logistics and other support to EUFOR</p> <p> </p><br>
@@ -720,8 +720,8 @@ Islamic Revolutionary Guard Corps/Qods Force<br>
 **Refugees and internally displaced persons**<br>
 _refugees (country of origin)_: 5,112 (Croatia) (2020)<br>
 _IDPs_: 92,000 (Bosnian Croats, Serbs, and Bosniaks displaced by inter-ethnic violence, human rights violations, and armed conflict during the 1992-95 war) (2021)<br>
-_stateless persons_: 149 (mid-year 2021)<br>
-<strong>note: </strong>114,069 estimated refugee and migrant arrivals (January 2015-January 2023)<br>
+_stateless persons_: 48 (2022)<br>
+<strong>note: </strong>114,398 estimated refugee and migrant arrivals (January 2015-January 2023)<br>
 
 **Illicit drugs**<br>
 <p>drug trafficking groups are major players in the procurement and transportation of large quantities of cocaine  destined for  European markets</p><br>

@@ -187,7 +187,7 @@ _unimproved: rural_: rural: 20.7% of population<br>
 _unimproved: total_: total: 12.7% of population (2020 est.)<br>
 
 **Current health expenditure**<br>
-4.1% of GDP (2019)<br>
+5.2% of GDP (2020)<br>
 
 **Physicians density**<br>
 0.09 physicians/1,000 population (2019)<br>
@@ -322,7 +322,7 @@ _industrial_: 58 million cubic meters (2017 est.)<br>
 _agricultural_: 2.065 billion cubic meters (2017 est.)<br>
 
 **Total renewable water resources**<br>
-38.97 billion cubic meters (2017 est.)<br>
+39 billion cubic meters (2017 est.)<br>
 
 ## Government
 
@@ -504,7 +504,7 @@ _female_: 7.5% (2021 est.)<br>
 46.7% (2011 est.)<br>
 
 **Gini Index coefficient - distribution of family income**<br>
-40.3 (2011 est.)<br>
+38.1 (2018 est.)<br>
 
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 2.5%<br>
@@ -726,7 +726,7 @@ Senegalese Armed Forces (les Forces Armées Sénégalaises, FAS): Army, Senegale
 approximately 19,000 active personnel (12,000 Army; 1,000 Navy/Coast Guard; 1,000 Air Force; 5,000 National Gendarmerie) (2022)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the FAS inventory includes mostly older or second-hand equipment from a variety of countries, including France, South Africa, and Russia/former Soviet Union; in recent years, the FAS has undertaken a modernization program; since 2010, it has received small amounts of newer equipment from more than 10 countries, with France as the leading supplier (2022)<br>
+the FAS inventory includes mostly older or second-hand equipment from a variety of countries, including France, South Africa, and Russia/former Soviet Union; in recent years, the FAS has undertaken a modernization program; in recent years, it has received small amounts of newer equipment from more than 10 countries, with France as the leading supplier (2022)<br>
 
 **Military service age and obligation**<br>
 18 years of age for voluntary military service for men and women; 20 years of age for selective conscript service; 2-year service obligation; women have been accepted into military service since 2008 (2022)<br>

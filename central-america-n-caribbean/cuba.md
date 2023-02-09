@@ -174,7 +174,7 @@ _unimproved: rural_: rural: 3% of population<br>
 _unimproved: total_: total: 1.5% of population (2020 est.)<br>
 
 **Current health expenditure**<br>
-11.3% of GDP (2019)<br>
+12.5% of GDP (2020)<br>
 
 **Physicians density**<br>
 8.42 physicians/1,000 population (2018)<br>
@@ -701,7 +701,7 @@ Revolutionary Armed Forces (Fuerzas Armadas Revolucionarias, FAR): Revolutionary
 limited available information; estimated 50,000 active personnel (approximately 40,000 Army; 3,000 Navy; 8,000 Air Force) (2022)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the Cuban military inventory is comprised of aging Russian and Soviet-era equipment; the last recorded arms delivery to Cuba was by Russia in 2004; in 2019, Russia approved a loan for approximately $43-50 million for Cuba's purchase of spare parts and armored vehicles (2022)<br>
+the military's inventory is comprised of aging Russian and Soviet-era equipment (2022)<br>
 
 **Military service age and obligation**<br>
 17-28 years of age for compulsory (men) and voluntary (men and women) military service; conscripts serve for two years (2022)<br>

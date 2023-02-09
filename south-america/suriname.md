@@ -176,7 +176,7 @@ _unimproved: rural_: rural: 1.8% of population<br>
 _unimproved: total_: total: 0.9% of population (2020 est.)<br>
 
 **Current health expenditure**<br>
-9.7% of GDP (2019)<br>
+6.8% of GDP (2020)<br>
 
 **Physicians density**<br>
 0.82 physicians/1,000 population (2018)<br>
@@ -685,7 +685,7 @@ Suriname Army (National Leger, NL): Army, Navy, Air Force, Military Police (2022
 approximately 2,000 total personnel (2022)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the Suriname Army has a limited inventory comprised of a mix of older, foreign-supplied equipment; since 2010, Suriname has received small quantities of military hardware from several countries, including the US (2022)<br>
+the Suriname Army has a limited inventory comprised of a mix of older, foreign-supplied equipment; in recent years, Suriname has received small quantities of military hardware from several countries, including the US (2022)<br>
 
 **Military service age and obligation**<br>
 18 is the legal minimum age for voluntary military service; no conscription (2022)<br>

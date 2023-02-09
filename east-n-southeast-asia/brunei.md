@@ -169,7 +169,7 @@ _unimproved: rural_: rural: 0% of population<br>
 _unimproved: total_: total: 0.1% of population (2020)<br>
 
 **Current health expenditure**<br>
-2.2% of GDP (2019)<br>
+2.4% of GDP (2020)<br>
 
 **Physicians density**<br>
 1.61 physicians/1,000 population (2017)<br>
@@ -673,7 +673,7 @@ the Royal Brunei Armed Forces were formed in 1961 with British support as the Br
 <p>per Letters of Exchange signed in 2009, Malaysia in 2010 ceded two hydrocarbon concession blocks to Brunei in exchange for Brunei's sultan dropping claims to the Limbang corridor, which divides Brunei; nonetheless, Brunei claims a maritime boundary extending as far as a median with Vietnam, thus asserting an implicit claim to Louisa Reef</p><br>
 
 **Refugees and internally displaced persons**<br>
-_stateless persons_: 20,863 (mid-year 2021); note - thousands of stateless persons, often ethnic Chinese, are permanent residents and their families have lived in Brunei for generations; obtaining citizenship is difficult and requires individuals to pass rigorous tests on Malay culture, customs, and language; stateless residents receive an International Certificate of Identity, which enables them to travel overseas; the government is considering changing the law prohibiting non-Bruneians, including stateless permanent residents, from owning land<br>
+_stateless persons_: 20,863 (2022); note - thousands of stateless persons, often ethnic Chinese, are permanent residents and their families have lived in Brunei for generations; obtaining citizenship is difficult and requires individuals to pass rigorous tests on Malay culture, customs, and language; stateless residents receive an International Certificate of Identity, which enables them to travel overseas; the government is considering changing the law prohibiting non-Bruneians, including stateless permanent residents, from owning land<br>
 
 **Trafficking in persons**<br>
 _tier rating_: Tier 3 &mdash; Brunei does not fully meet the minimum standards for the elimination of trafficking and is not making significant efforts to do so, therefore Brunei was downgraded to Tier 3; the government took some steps to address trafficking, including initiating a labor trafficking prosecution, increasing investigations, and continuing construction of shelters; however, officials did not convict any traffickers under its trafficking statute, for the fifth consecutive year, nor did it identify any victims; the government continued to detain, deport, and charge potential victims without attempting to discern if traffickers compelled the victims to engage in unlawful acts (2022)<br>

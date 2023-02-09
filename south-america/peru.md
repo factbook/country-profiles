@@ -190,7 +190,7 @@ _unimproved: rural_: rural: 17.6% of population<br>
 _unimproved: total_: total: 6% of population (2020 est.)<br>
 
 **Current health expenditure**<br>
-5.2% of GDP (2019)<br>
+6.3% of GDP (2020)<br>
 
 **Physicians density**<br>
 1.37 physicians/1,000 population (2018)<br>
@@ -323,7 +323,7 @@ _industrial_: 206.6 million cubic meters (2017 est.)<br>
 _agricultural_: 13.1 billion cubic meters (2017 est.)<br>
 
 **Total renewable water resources**<br>
-1.88 trillion cubic meters (2017 est.)<br>
+1.9 trillion cubic meters (2017 est.)<br>
 
 ## Government
 
@@ -510,7 +510,7 @@ _female_: 13.2% (2021 est.)<br>
 20.2% (2019 est.)<br>
 
 **Gini Index coefficient - distribution of family income**<br>
-42.8 (2018 est.)<br>
+43.8 (2020 est.)<br>
 
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 1.4%<br>
@@ -746,7 +746,7 @@ Joint Command of the Armed Forces of Peru (CCFFAA): Peruvian Army (Ejercito del 
 information varies; approximately 95,000 active duty personnel (60,000 Army; 25,000 Navy, including about 4,000 naval infantry and 1,000 Coast Guard; 10,000 Air Force) (2022)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the Peruvian military's inventory is a mix of mostly older equipment from a wide variety of suppliers, including Brazil, Europe, the former Soviet Union, and the US; since 2010, Peru has received military equipment from more than a dozen countries, led by Russia and South Korea (2022)<br>
+the military's inventory is a mix of mostly older equipment from a wide variety of suppliers, including Brazil, Europe, Russia/the former Soviet Union, and the US; in recent years, it has received some more modern weapons systems from more than a dozen countries, including Italy, Russia, and South Korea (2022)<br>
 
 **Military service age and obligation**<br>
 18-50 years of age for male and 18-45 years of age for female voluntary military service (12 months); no conscription (abolished in 1999) (2022)<br>

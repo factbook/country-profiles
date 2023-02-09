@@ -180,7 +180,7 @@ _unimproved: rural_: rural: 58.5% of population<br>
 _unimproved: total_: total: 52.5% of population (2020 est.)<br>
 
 **Current health expenditure**<br>
-2.3% of GDP (2019)<br>
+2.5% of GDP (2020)<br>
 
 **Physicians density**<br>
 0.07 physicians/1,000 population (2019)<br>
@@ -479,7 +479,7 @@ _female_: 4.2% (2021 est.)<br>
 37% (2002 est.)<br>
 
 **Gini Index coefficient - distribution of family income**<br>
-50.9 (1996)<br>
+41.9 (2009 est.)<br>
 
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 1.7%<br>
@@ -720,7 +720,7 @@ as of 2022, Australia and the US were assisting Papua New Guinea with expanding 
 **Refugees and internally displaced persons**<br>
 _refugees (country of origin)_: 11,432 (Indonesia) (mid-year 2022)<br>
 _IDPs_: 24,000 (natural disasters, tribal conflict, inter-communal violence, development projects) (2021)<br>
-_stateless persons_: 9 (mid-year 2021)<br>
+_stateless persons_: 15 (2022)<br>
 
 **Trafficking in persons**<br>
 _tier rating_: Tier 3 &mdash; Papua New Guinea does not fully meet the minimum standards for the elimination of trafficking and is not making significant efforts to do so; despite remaining at Tier 3, the government continued to identify some trafficking victims and a prominent trafficking case was advanced; however, the government did not provide protective services for victims and did not systematically implement its victim identification procedures; corruption among officials in the logging sector remains a problem, and they continue to facilitate sex trafficking and forced labor; no alleged traffickers were convicted; the government dedicates little financial and human resources to combat trafficking, and awareness of trafficking is low among government officials (2020)<br>

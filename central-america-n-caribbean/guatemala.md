@@ -181,7 +181,7 @@ _unimproved: rural_: rural: 8% of population<br>
 _unimproved: total_: total: 5% of population (2020 est.)<br>
 
 **Current health expenditure**<br>
-6.2% of GDP (2019)<br>
+6.5% of GDP (2020)<br>
 
 **Physicians density**<br>
 1.24 physicians/1,000 population (2020)<br>
@@ -712,7 +712,7 @@ Army of Guatemala (Ejercito de Guatemala): Land Forces (Fuerzas de Tierra), Nava
 information varies; approximately 20,000 active military personnel (18,000 Land Forces; 1,000 Naval Forces; 1,000 Air Forces); approximately 30,000 National Civil Police (2022)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the Guatemalan military inventory is small and mostly comprised of older US equipment; since 2010, Guatemala has received small amounts of equipment from several countries, including the US (2022)<br>
+the military's inventory is small and mostly comprised of older US equipment; in recent years, Guatemala has received small amounts of equipment from several countries, including the US (2022)<br>
 
 **Military service age and obligation**<br>
 all male citizens between the ages of 18 and 50 are eligible for military service; in practice, most of the force is volunteer, however, a selective draft system is employed, resulting in a small portion of 17-21 year-olds being conscripted; conscript service obligation varies from 1 to 2 years; women may volunteer (2022)<br>

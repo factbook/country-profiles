@@ -589,11 +589,11 @@ Kosovo Security Force (KSF; Forca e Sigurisë së Kosovës or FSK): Land Force C
 <strong>note: </strong>as of 2022, the Kosovo Government continued the process of transitioning the KSF into a multi-ethnic territorial defense force, in accordance with a 10-year plan which began in 2019<br>
 
 **Military expenditures**<br>
-1% of GDP (2021 est.)<br>
+2% of GDP (2022 est.)<br>
+2% of GDP (2021 est.)<br>
 1.1% of GDP (2020 est.)<br>
-0.8% of GDP (2019 est.) (approximately $160 million)<br>
-0.8% of GDP (2018 est.) (approximately $150 million)<br>
-0.7% of GDP (2017 est.) (approximately $130 million)<br>
+0.8% of GDP (2019 est.)<br>
+0.8% of GDP (2018 est.)<br>
 
 **Military and security service personnel strengths**<br>
 approximately 3,300 KSF personnel, including reserves (2022)<br>

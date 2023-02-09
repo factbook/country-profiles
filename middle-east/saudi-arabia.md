@@ -179,7 +179,7 @@ _unimproved: rural_: rural: NA<br>
 _unimproved: total_: total: 0% of population (2020 est.)<br>
 
 **Current health expenditure**<br>
-5.7% of GDP (2019)<br>
+5.5% of GDP (2018)<br>
 
 **Physicians density**<br>
 2.74 physicians/1,000 population (2020)<br>
@@ -705,7 +705,7 @@ the Saudi military forces have about 225,000 total active troops; approximately 
 <strong>note:</strong> SANG also has an irregular force (Fowj), primarily Bedouin tribal volunteers, with a total strength of approximately 25,000<br>
 
 **Military equipment inventories and acquisitions**<br>
-the inventory of the Saudi military forces, including the SANG, includes a mix of mostly modern weapons systems from the US and Europe; since 2010, the US has been the leading supplier of armaments; as of 2020-21, Saudi Arabia was the world's largest arms importer (2022)<br>
+the inventory of the Saudi military forces, including the SANG, includes a mix of mostly modern weapons systems from the US and Europe; in recent years, the US has been the leading supplier of armaments; Saudi Arabia is one of the world's largest importers of arms  (2022)<br>
 <strong>note:</strong> as of 2022, the Saudi Navy was in the midst of a multi-year and multi-billion dollar expansion and modernization program to purchase new frigates, corvettes, and other naval craft; in 2022, it received two of an expected five corvettes as part of a joint construction effort with Spain; in 2018, it signed a contract to acquire four US-built multi-purpose littoral mission ships, which will be comparable to frigates in capabilities<br>
 
 **Military service age and obligation**<br>
@@ -730,7 +730,7 @@ Islamic State of Iraq and ash-Sham (ISIS); al-Qa’ida; al-Qa’ida in the Arabi
 <p><em>Saudi Arabia-Bahrain</em>: none identified</p> <p><em>Saudi Arabia-Iraq:  </em>Saudi Arabia has been building a fence along its border with Iraq to keep out militants and smugglers</p> <p><em>Saudi Arabia-Jordan</em>: Jordan and Saudi Arabia signed an agreement to demarcate their maritime borders in 2007</p> <p><em>Saudi Arabia-Kuwait</em>: Kuwait and Saudi Arabia continue discussions on a maritime boundary with Iran; in December 2019, Saudi Arabia and Kuwait signed an agreement to demarcate land in a neutral zone and to restart oil production in shared fields, which had been suspended since 2014 because of disagreements</p> <p><em>Saudi Arabia-Oman</em>: none identified</p> <p><em>Saudi Arabia-Qatar</em>: none identified</p> <p><em>Saudi Arabia-UAE</em>: Saudi Arabia and UAE have disputed the Shaybah oilfield, which Saudi Arabia controls</p> <p><em>Saudi Arabia-Yemen</em>: the two countries signed the Treaty of Jeddah in 2000, which specified the coordinates of their land and maritime border and made provisions for grazing, the placement of armed forces, and future resource exploitation; in 2010, Saudi Arabia reinforced its concrete-filled security barrier along sections of the now fully demarcated border with Yemen to stem illegal crossborder activities</p><br>
 
 **Refugees and internally displaced persons**<br>
-_stateless persons_: 70,000 (mid-year 2021); note - thousands of biduns (stateless Arabs) are descendants of nomadic tribes who were not officially registered when national borders were established, while others migrated to Saudi Arabia in search of jobs; some have temporary identification cards that must be renewed every five years, but their rights remain restricted; most Palestinians have only legal resident status; some naturalized Yemenis were made stateless after being stripped of their passports when Yemen backed Iraq in its invasion of Kuwait in 1990; Saudi women cannot pass their citizenship on to their children, so if they marry a non-national, their children risk statelessness<br>
+_stateless persons_: 70,000 (2022); note - thousands of biduns (stateless Arabs) are descendants of nomadic tribes who were not officially registered when national borders were established, while others migrated to Saudi Arabia in search of jobs; some have temporary identification cards that must be renewed every five years, but their rights remain restricted; most Palestinians have only legal resident status; some naturalized Yemenis were made stateless after being stripped of their passports when Yemen backed Iraq in its invasion of Kuwait in 1990; Saudi women cannot pass their citizenship on to their children, so if they marry a non-national, their children risk statelessness<br>
 
 **Illicit drugs**<br>
 regularly sentences drug traffickers to the death penalty, although a moratorium on executions for drug offences has been in place since at least 2020; improving anti-money-laundering legislation and enforcement<br>

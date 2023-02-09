@@ -184,7 +184,7 @@ _unimproved: rural_: rural: 10.1% of population<br>
 _unimproved: total_: total: 6.4% of population (2020 est.)<br>
 
 **Current health expenditure**<br>
-4.5% of GDP (2019)<br>
+5.3% of GDP (2020)<br>
 
 **Physicians density**<br>
 2.21 physicians/1,000 population (2014)<br>
@@ -714,7 +714,7 @@ Kyrgyzstan has been a member of the Collective Security Treaty Organization (CST
 <p><em>Kyrgyzstan-China</em>: a 2009 treaty settled a border dispute, with Kyrgyzstan receiving the Khan Tengri Peak and Kyrgyzstan ceding to China the Uzengi-Kush area</p> <p><em>Kyrgyzstan-Kazakhstan</em>: in January 2019, Kyrgyzstan ratified the 2017 agreement on the demarcation of the Kyrgyzstan-Kazakhstan border</p> <p><em>Kyrgyzstan-Tajikistan</em>: as the last major Central Asian boundary dispute with lengthy undelimited sections, the lowland (NE part) of the Kyrgz-Tajik line seems intractable despite recent Kyrgyz-Uzbek compromises and agreements on delimitation and demarcation</p> <p><em>Kyrgyzstan-Uzbekistan</em>: delimitation of approximately 15% or 200 km of border with Uzbekistan is hampered by serious disputes over enclaves and other areas; Kyrgyz and Uzbek officials signed an agreement in March 2021 on the final delimitation and demarcation of the Kyrgyzstan-Uzbekistan border; the accord included several land swaps that gave Kyrgyzstan more territory but was offset by Uzbekistan retaining use of reservoirs on Kyrgyz land; although a Kyrgyz official returned from the March 2021 meetings and said the decades-old border dispute was 100% resolved, his talks with residents in some affected areas showed that agreement had not been reached on all border segments</p><br>
 
 **Refugees and internally displaced persons**<br>
-_stateless persons_: 16 (mid-year 2021)<br>
+_stateless persons_: 482 (2022)<br>
 
 **Illicit drugs**<br>
 <p>a prime transshipment location; illegal drugs move from Afghanistan to Russia, and sometimes into Europe</p> <p> </p><br>

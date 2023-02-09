@@ -181,7 +181,7 @@ _unimproved: rural_: rural: 3.9% of population<br>
 _unimproved: total_: total: 2.2% of population (2020 est.)<br>
 
 **Current health expenditure**<br>
-5.6% of GDP (2019)<br>
+6.8% of GDP (2020)<br>
 
 **Physicians density**<br>
 2.37 physicians/1,000 population (2014)<br>
@@ -293,7 +293,7 @@ _industrial_: 2.13 billion cubic meters (2017 est.)<br>
 _agricultural_: 54.36 billion cubic meters (2017 est.)<br>
 
 **Total renewable water resources**<br>
-48.87 billion cubic meters (2017 est.)<br>
+48.9 billion cubic meters (2017 est.)<br>
 
 ## Government
 
@@ -700,7 +700,7 @@ Armed Forces of Uzbekistan: Army, Air and Air Defense Forces; National Guard; Mi
 information varies; approximately 60,000 active duty troops, including 10-15,000 Air Force (2022)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the Uzbek Armed Forces use mainly Soviet-era equipment; since 2010, Russia has been the leading supplier of arms, followed by China (2022)<br>
+the Uzbek Armed Forces use mainly Soviet-era equipment; in recent years, Russia has been the leading supplier of arms, followed by China (2022)<br>
 
 **Military service age and obligation**<br>
 18-27 years of age for compulsory military service; 12-month conscript service obligation for men (those conscripted have the option of paying for a shorter service of 1 month while remaining in the reserves until the age of 27); Uzbek citizens who have completed their service terms in the armed forces have privileges in employment and admission to higher educational institutions (2022)<br>
@@ -721,7 +721,7 @@ Islamic Jihad Union; Islamic Movement of Uzbekistan; Islamic State of Iraq and a
 
 **Refugees and internally displaced persons**<br>
 _refugees (country of origin)_: 13,031 (Afghanistan) (mid-year 2022)<br>
-_stateless persons_: 59,136 (mid-year 2021)<br>
+_stateless persons_: 31,829 (2022)<br>
 
 **Illicit drugs**<br>
 <p>transit country for Afghan opium and heroin destined for Russia and the European Union; also transit country for hashish, cannabis products, New Psychoactive Substances (NPS), and synthetic drugs; cannabis and poppy are cultivated in small amounts for personal use and local sale</p><br>

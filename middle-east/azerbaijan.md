@@ -183,7 +183,7 @@ _unimproved: rural_: rural: 6.7% of population<br>
 _unimproved: total_: total: 2.9% of population (2020 est.)<br>
 
 **Current health expenditure**<br>
-4% of GDP (2019)<br>
+4.6% of GDP (2020)<br>
 
 **Physicians density**<br>
 3.17 physicians/1,000 population (2019)<br>
@@ -290,7 +290,7 @@ _industrial_: 3.062 billion cubic meters (2017 est.)<br>
 _agricultural_: 9.27 billion cubic meters (2017 est.)<br>
 
 **Total renewable water resources**<br>
-34.68 billion cubic meters (2017 est.)<br>
+34.68 billion cubic meters (2019 est.)<br>
 
 ## Government
 
@@ -720,7 +720,7 @@ Islamic State of Iraq and ash-Sham (ISIS); Islamic Revolutionary Guard Corps (IR
 
 **Refugees and internally displaced persons**<br>
 _IDPs_: 655,000 (conflict with Armenia over Nagorno-Karabakh; IDPs are mainly ethnic Azerbaijanis but also include ethnic Kurds, Russians, and Turks predominantly from occupied territories around Nagorno-Karabakh; includes IDPs' descendants, returned IDPs, and people living in insecure areas and excludes people displaced by natural disasters; around half the IDPs live in the capital Baku) (2021)<br>
-_stateless persons_: 3,585 (mid-year 2021)<br>
+_stateless persons_: 3,585 (2022)<br>
 
 **Illicit drugs**<br>
 limited illicit cultivation of cannabis and opium poppy, mostly for CIS consumption; small government eradication program; transit point for Southwest Asian opiates bound for Russia and to a lesser extent the rest of Europe<br>

@@ -179,7 +179,7 @@ _unimproved: rural_: rural: 5.7% of population<br>
 _unimproved: total_: total: 2.7% of population (2020 est.)<br>
 
 **Current health expenditure**<br>
-6.7% of GDP (2019)<br>
+7.6% of GDP (2020)<br>
 
 **Physicians density**<br>
 5.11 physicians/1,000 population (2020)<br>
@@ -715,7 +715,7 @@ as of 2022, up to 10,000 Russian troops continued to occupy the breakaway region
 **Refugees and internally displaced persons**<br>
 _refugees (country of origin)_: 25,101 (Ukraine) (as of 24 January 2023)<br>
 _IDPs_: 305,000 (displaced in the 1990s as a result of armed conflict in the breakaway republics of Abkhazia and South Ossetia; displaced in 2008 by fighting between Georgia and Russia over South Ossetia) (2021)<br>
-_stateless persons_: 534 (mid-year 2021)<br>
+_stateless persons_: 530 (2022)<br>
 
 **Illicit drugs**<br>
 <p>located on a major drug trafficking route where Southwest Asian opium, heroin and precursor chemicals are transported; marijuana trafficking increased</p><br>

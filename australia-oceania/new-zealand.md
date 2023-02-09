@@ -181,7 +181,7 @@ _unimproved: rural_: rural: 0% of population<br>
 _unimproved: total_: total: 0% of population (2020 est.)<br>
 
 **Current health expenditure**<br>
-9.7% of GDP (2019)<br>
+10% of GDP (2020)<br>
 
 **Physicians density**<br>
 3.62 physicians/1,000 population (2020)<br>
@@ -695,7 +695,7 @@ New Zealand Defense Force (NZDF): New Zealand Army, Royal New Zealand Navy, Roya
 approximately 9,500 active-duty troops (4,700 Army; 2,300 Navy; 2,500 Air Force) (2022)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the NZDF is equipped mostly with imported weapons and equipment from Western suppliers; the US has been the leading provider since 2010 (2022)<br>
+the NZDF is equipped mostly with Western-supplied weapons and equipment with the US as the leading provider (2022)<br>
 
 **Military service age and obligation**<br>
 17 years of age for men and women for voluntary military service; soldiers cannot be deployed until the age of 18; no conscription (2022)<br>
@@ -717,6 +717,9 @@ Islamic State of Iraq and ash-Sham (ISIS)<br>
 
 **Disputes - international**<br>
 <p><em>New Zealand-Antarctica</em>: asserts a territorial claim in Antarctica (Ross Dependency)</p><br>
+
+**Refugees and internally displaced persons**<br>
+_stateless persons_: 5 (2022)<br>
 
 **Illicit drugs**<br>
 significant consumer of amphetamines<br>

@@ -175,7 +175,7 @@ _unimproved: rural_: rural: 0% of population<br>
 _unimproved: total_: total: 0% of population (2020 est.)<br>
 
 **Current health expenditure**<br>
-7.8% of GDP (2019)<br>
+9.5% of GDP (2020)<br>
 
 **Physicians density**<br>
 6.31 physicians/1,000 population (2019)<br>
@@ -721,8 +721,8 @@ Islamic State of Iraq and ash-Sham (ISIS); Revolutionary Struggle; Revolutionary
 
 **Refugees and internally displaced persons**<br>
 _refugees (country of origin)_: 41,594 (Syria), 33,549 (Afghanistan), 14,228 (Iraq), 6,366 (West Bank and Gaza) (mid-year 2022); 20,955 (Ukraine) (as of 6 December 2022)<br>
-_stateless persons_: 5,552 (mid-year 2021)<br>
-<strong>note:</strong> 1,234,023 estimated refugee and migrant arrivals (January 2015-January 2023)<br>
+_stateless persons_: 4,488 (2022)<br>
+<strong>note:</strong> 1,234,332 estimated refugee and migrant arrivals (January 2015-January 2023)<br>
 
 **Illicit drugs**<br>
 a gateway to Europe for traffickers smuggling cannabis products and heroin from the Middle East and Southwest Asia to the West and precursor chemicals to the East; some South American cocaine transits or is consumed in Greece; money laundering related to drug trafficking and organized crime<br>

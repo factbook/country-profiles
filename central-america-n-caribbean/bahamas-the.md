@@ -161,7 +161,7 @@ _improved: total_: total: 98.9% of population<br>
 _unimproved: total_: total: 1.1% of population (2017 est.)<br>
 
 **Current health expenditure**<br>
-5.8% of GDP (2019)<br>
+7.6% of GDP (2020)<br>
 
 **Physicians density**<br>
 1.94 physicians/1,000 population (2017)<br>
@@ -252,7 +252,7 @@ _municipal solid waste generated annually_: 264,000 tons (2015 est.)<br>
 _municipal_: 31 million cubic meters (2017 est.)<br>
 
 **Total renewable water resources**<br>
-700 million cubic meters (2017 est.)<br>
+700 million cubic meters (2019 est.)<br>
 
 ## Government
 

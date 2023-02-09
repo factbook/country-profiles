@@ -172,7 +172,7 @@ _unimproved: rural_: rural: NA<br>
 _unimproved: total_: total: 0% of population (2020 est.)<br>
 
 **Current health expenditure**<br>
-7% of GDP (2019)<br>
+7.3% of GDP (2020)<br>
 
 **Physicians density**<br>
 4.48 physicians/1,000 population (2019)<br>
@@ -265,7 +265,7 @@ _industrial_: 128.9 million cubic meters (2017 est.)<br>
 _agricultural_: 16.7 million cubic meters (2017 est.)<br>
 
 **Total renewable water resources**<br>
-3.84 billion cubic meters (2017 est.)<br>
+3.8 billion cubic meters (2017 est.)<br>
 
 ## Government
 
@@ -646,7 +646,7 @@ Trinidad and Tobago Defense Force (TTDF): Army/Land Forces (Trinidad and Tobago 
 approximately 4,500 TTDF personnel (2022)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the TTDF's ground force inventory includes only light weapons, while the Coast Guard and Air Guard field mostly second-hand equipment from a mix of countries, including Australia, China, the Netherlands, the UK, and the US (2022)<br>
+the TTDF's ground force inventory includes only light weapons, while the Coast Guard and Air Guard field mostly secondhand equipment from a mix of countries, including Australia, China, the Netherlands, the UK, and the US (2022)<br>
 
 **Military service age and obligation**<br>
 18-25 years of age for voluntary military service for men and women (some age variations between services, reserves); no conscription (2022)<br>

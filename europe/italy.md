@@ -178,7 +178,7 @@ _unimproved: rural_: rural: NA<br>
 _unimproved: total_: total: 0.1% of population (2020 est.)<br>
 
 **Current health expenditure**<br>
-8.7% of GDP (2019)<br>
+9.6% of GDP (2020)<br>
 
 **Physicians density**<br>
 3.95 physicians/1,000 population (2020)<br>
@@ -739,8 +739,8 @@ Islamic State of Iraq and ash-Sham (ISIS)<br>
 
 **Refugees and internally displaced persons**<br>
 _refugees (country of origin)_: 21,441 (Nigeria), 17,706 (Afghanistan), 17,619 (Pakistan), 11,193 (Mali), 8,405 (Somalia), 6,324 (Gambia), 5,768 (Bangladesh), 5,463 (Iraq) (mid-year 2022); 169,306 (Ukraine) (as of 20 January 2023)<br>
-_stateless persons_: 3,000 (mid-year 2021)<br>
-<strong>note:</strong> 700,074 estimated refugee and migrant arrivals (January 2015-January 2023)<br>
+_stateless persons_: 3,000 (2022)<br>
+<strong>note:</strong> 700,711 estimated refugee and migrant arrivals (January 2015-January 2023)<br>
 
 **Illicit drugs**<br>
 important gateway for drug trafficking; organized crime groups allied with Colombian and Spanish groups trafficking cocaine to Europe<br>
