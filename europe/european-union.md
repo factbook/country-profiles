@@ -183,7 +183,7 @@ _forest revenues_: 0.05% of GDP (2018 est.)<br>
 _coal revenues_: 0.02% of GDP (2018 est.)<br>
 
 **Total renewable water resources**<br>
-2,057.8 cubic meters (2011)<br>
+1.7 trillion cubic meters (2019)<br>
 
 ## Government
 

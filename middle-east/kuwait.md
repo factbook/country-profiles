@@ -286,7 +286,7 @@ _industrial_: 23.3 million cubic meters (2017 est.)<br>
 _agricultural_: 778.4 million cubic meters (2017 est.)<br>
 
 **Total renewable water resources**<br>
-20 million cubic meters (2017 est.)<br>
+20 million cubic meters (2019 est.)<br>
 
 ## Government
 
@@ -357,7 +357,7 @@ none; the government does not recognize any political parties or allow their for
 ABEDA, AfDB (nonregional member), AFESD, AMF, BDEAC, CAEU, CD, FAO, G-77, GCC, IAEA, IBRD, ICAO, ICC (national committees), ICRM, IDA, IDB, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IPU, ISO, ITSO, ITU, ITUC (NGOs), LAS, MIGA, NAM, OAPEC, OIC, OPCW, OPEC, Paris Club (associate), PCA, UN, UNCTAD, UNESCO, UNIDO, UNRWA, UN Security Council (temporary), UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
 
 **Diplomatic representation in the US**<br>
-_chief of mission_: Ambassador SALEM Abdallah al-Jaber al-Sabah (since 10 October 2021)<br>
+_chief of mission_: Ambassador Jasem Mohamed ALBUDAIWI (since 16 September 2022)<br>
 _chancery_: 2940 Tilden Street NW, Washington, DC 20008<br>
 _telephone_: [1] (202) 966-0702<br>
 _FAX_: [1] (202) 966-8468<br>

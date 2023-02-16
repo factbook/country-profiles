@@ -286,7 +286,7 @@ _industrial_: 1.721 billion cubic meters (2017 est.)<br>
 _agricultural_: 4.5 million cubic meters (2017 est.)<br>
 
 **Total renewable water resources**<br>
-12.806 billion cubic meters (2017 est.)<br>
+12.806 billion cubic meters (2019 est.)<br>
 
 ## Government
 
@@ -368,7 +368,7 @@ _email address and website_: <br>Embassy.Washington@mfa.ee<br><br>https://washin
 _consulate(s) general_: New York, San Francisco<br>
 
 **Diplomatic representation from the US**<br>
-_chief of mission_: Ambassador (vacant); Charge d'Affaires Gabrielle COWAN (since July 2022)<br>
+_chief of mission_: Ambassador Designate George P. KENT<br>
 _embassy_: Kentmanni 20, 15099 Tallinn<br>
 _mailing address_: 4530 Tallinn Place, Washington DC&nbsp; 20521-4530<br>
 _telephone_: [372] 668-8100<br>

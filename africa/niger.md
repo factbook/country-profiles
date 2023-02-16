@@ -325,7 +325,7 @@ _industrial_: 36 million cubic meters (2017 est.)<br>
 _agricultural_: 1.536 billion cubic meters (2017 est.)<br>
 
 **Total renewable water resources**<br>
-34.1 billion cubic meters (2017 est.)<br>
+34.1 billion cubic meters (2019 est.)<br>
 
 ## Government
 
@@ -711,7 +711,7 @@ _by type_: general cargo 1 (2021)<br>
 
 **Military and security forces**<br>
 Nigerien Armed Forces (Forces Armees Nigeriennes, FAN): Army, Nigerien Air Force, Niger Gendarmerie (GN); Ministry of Interior: Niger National Guard (GNN), National Police (2022)<br>
-<strong>note 1:</strong> the Gendarmerie has primary responsibility for rural security; the National Guard is responsible for domestic security and the protection of high-level officials and government buildings<br><br><strong>note 2: </strong>the National Police includes the Directorate of Territorial Surveillance, which is charged with border management<br><br>note 3: the National Guard was formerly known as the National Forces of Intervention and Security <br>
+<strong>note 1:</strong> the Gendarmerie (GN) and the National Guard (GNN) are paramilitary forces; the GN has primary responsibility for rural security while the GNN is responsible for domestic security and the protection of high-level officials and government buildings; the GNN was formerly known as the National Forces of Intervention and Security<br><br><strong>note 2: </strong>the National Police includes the Directorate of Territorial Surveillance, which is charged with border management<br>
 
 **Military expenditures**<br>
 1.8% of GDP (2021 est.)<br>
@@ -724,7 +724,7 @@ Nigerien Armed Forces (Forces Armees Nigeriennes, FAN): Army, Nigerien Air Force
 information varies; approximately 12,000 active FAN troops (8,000 Army; 200 Air Force; 4,000 Gendarmerie); approximately 3,000 National Guard (2022)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the FAN's inventory consists of a wide variety of older weapons; in recent years, it has received small amounts of mostly secondhand equipment and donations from several countries with the US as the top provider (2022)<br>
+the FAN's inventory consists of a wide variety of older weapons; in recent years, it has received small amounts of mostly secondhand equipment and donations from several countries, particularly the US&nbsp; (2022)<br>
 
 **Military service age and obligation**<br>
 has conscription, although it is reportedly not always enforced; 18 is the legal minimum age for compulsory or voluntary military service; enlistees must be Nigerien citizens and unmarried; 2-year service term; women may serve in health care (2022)<br>
@@ -748,7 +748,7 @@ Boko Haram; Islamic State of Iraq and ash-Sham in the Greater Sahara (ISIS-GS); 
 <p><em>Niger-Benin-Nigeria</em>: location of Niger-Benin-Nigeria tripoint is unresolved</p> <p><em>Niger-Burkina Faso</em>: the dispute with Burkina Faso was referred to the International Court of Justice (ICJ) in 2010; the ICJ ruled in 2013 that 786 sq km should go to Burkina Faso and 277 sq km to Niger; the ruling was implemented in 2015 and 2016, with Burkina Faso gaining 14 towns and Niger 4</p> <p><em>Niger-Cameroon-Nigeria</em>: only Nigeria and Cameroon have heeded the Lake Chad Commission's admonition to ratify the delimitation treaty that also includes the Chad-Niger and Niger-Nigeria boundaries</p> <p><em>Niger-Libya</em>: Libya claims about 25,000 sq km in a currently dormant dispute in the Tummo region</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 188,107 (Nigeria), 65,734 (Mali) (refugees and asylum seekers) (2022)<br>
+_refugees (country of origin)_: 65,734 (Mali) (refugees and asylum seekers) (2022); 188,041 (Nigeria) (2023)<br>
 _IDPs_: 376,809 (includes the regions of Diffa, Tillaberi, and Tahoua; unknown how many of the 11,000 people displaced by clashes between government forces and the Tuareg militant group, Niger Movement for Justice, in 2007 are still displaced; inter-communal violence; Boko Haram attacks in southern Niger, 2015) (2022)<br>
 
 **Illicit drugs**<br>

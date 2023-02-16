@@ -290,7 +290,7 @@ _industrial_: 967.2 million cubic meters (2017 est.)<br>
 _agricultural_: 46.6 million cubic meters (2017 est.)<br>
 
 **Total renewable water resources**<br>
-13.2 billion cubic meters (2017 est.)<br>
+13.2 billion cubic meters (2019 est.)<br>
 
 ## Government
 
@@ -371,7 +371,7 @@ _email address and website_: <br>washington@embassy.mzv.cz<br><br>https://www.mz
 _consulate(s) general_: Chicago, Los Angeles, New York<br>
 
 **Diplomatic representation from the US**<br>
-_chief of mission_: Ambassador (vacant); Charge d'Affaires Christy AGOR (since 18 August 2022)<br>
+_chief of mission_: Ambassador Bijan SABET<br>
 _embassy_: Trziste 15, 118 01 Praha 1 - Mala Strana<br>
 _mailing address_: 5630 Prague Place, Washington DC&nbsp; 20521-5630<br>
 _telephone_: [420] 257-022-000<br>
@@ -717,7 +717,7 @@ Czechia joined NATO in 1999; Czechia, Hungary, and Poland were invited to begin 
 <p>none</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 486,133 (Ukraine) (as of 29 January 2023)<br>
+_refugees (country of origin)_: 487,393 (Ukraine) (as of 6 February 2023)<br>
 _stateless persons_: 1,625 (2022)<br>
 
 **Illicit drugs**<br>

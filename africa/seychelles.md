@@ -667,7 +667,7 @@ the SDF's inventory primarily consists of Soviet-era equipment delivered in the 
 18-28 (18-25 for officers) years of age for voluntary military service for men and women; 6-year initial commitment; no conscription (2022)<br>
 
 **Military - note**<br>
-formed in 1977, the SDF's primary responsibility is maritime security, particularly countering illegal fishing, piracy, and drug smuggling (2022)<br>
+formed in 1977, the SDF is one of the world's smallest militaries; its primary responsibility is maritime security, particularly countering illegal fishing, piracy, and drug smuggling; the Seychelles have strong security ties with India (2022)<br>
 
 ## Transnational Issues
 

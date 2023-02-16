@@ -288,7 +288,7 @@ _industrial_: 72 million cubic meters (2017 est.)<br>
 _agricultural_: 1.249 billion cubic meters (2017 est.)<br>
 
 **Total renewable water resources**<br>
-1.8 billion cubic meters (2017 est.)<br>
+1.8 billion cubic meters (2019 est.)<br>
 
 ## Government
 
@@ -363,7 +363,7 @@ Blue and White [Benny GANTZ]<br>Joint Arab List [Ayman ODEH] (alliance includes 
 BIS, BSEC (observer), CE (observer), CERN, CICA, EBRD, FAO, IADB, IAEA, IBRD, ICAO, ICC (national committees), ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, OAS (observer), OECD, OPCW (signatory), OSCE (partner), Pacific Alliance (observer), Paris Club, PCA, SELEC (observer), UN, UNCTAD, UNESCO, UNHCR, UNIDO, UNWTO, UPU, WCO, WHO, WIPO, WMO, WTO<br>
 
 **Diplomatic representation in the US**<br>
-_chief of mission_: Ambassador Michael HERZOG (since 5 September 2021)<br>
+_chief of mission_: Ambassador Michael HERZOG (since 1 December 2021)<br>
 _chancery_: 3514 International Drive NW, Washington, DC 20008<br>
 _telephone_: [1] (202) 364-5500<br>
 _FAX_: [1] (202) 364-5607<br>
@@ -592,8 +592,8 @@ _crude oil estimated reserves_: 12.7 million barrels (2021 est.)<br>
 98,860 bbl/day (2017 est.)<br>
 
 **Natural gas**<br>
-_production_: 10,474,299,000 cubic meters (2019 est.)<br>
-_consumption_: 9,442,435,000 cubic meters (2019 est.)<br>
+_production_: 10.474 billion cubic meters (2019 est.)<br>
+_consumption_: 9.442 billion cubic meters (2019 est.)<br>
 _exports_: 0 cubic meters (2021 est.)<br>
 _imports_: 820.508 million cubic meters (2019 est.)<br>
 _proven reserves_: 176.017 billion cubic meters (2021 est.)<br>

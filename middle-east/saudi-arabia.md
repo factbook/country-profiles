@@ -290,7 +290,7 @@ _industrial_: 1 billion cubic meters (2017 est.)<br>
 _agricultural_: 19.2 billion cubic meters (2017 est.)<br>
 
 **Total renewable water resources**<br>
-2.4 billion cubic meters (2017 est.)<br>
+2.4 billion cubic meters (2019 est.)<br>
 
 ## Government
 
@@ -360,7 +360,7 @@ none<br>
 ABEDA, AfDB (nonregional member), AFESD, AMF, BIS, CAEU, CP, FAO, G-20, G-77, GCC, IAEA, IBRD, ICAO, ICC (national committees), ICRM, IDA, IDB, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM (observer), IPU, ISO, ITSO, ITU, LAS, MIGA, NAM, OAPEC, OAS (observer), OIC, OPCW, OPEC, PCA, UN, UNCTAD, UNESCO, UNIDO, UNRWA, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
 
 **Diplomatic representation in the US**<br>
-_chief of mission_: Ambassador Princess RIMA bint Bandar bin Abd al-Aziz Al Saud (since 8 July 2019)<br>
+_chief of mission_: Ambassador Reema Bint Bandar Bin Sultan&nbsp;AL SAUD (since 8 July 2019)<br>
 _chancery_: 601 New Hampshire Avenue NW, Washington, DC 20037<br>
 _telephone_: [1] (202) 342-3800<br>
 _FAX_: [1] (202) 295-3625<br>

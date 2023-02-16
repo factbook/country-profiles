@@ -574,16 +574,16 @@ _Total energy consumption per capita 2019_: 83.723 million Btu/person (2019 est.
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 128,000 (2020 est.)<br>
-_subscriptions per 100 inhabitants_: 45 (2020 est.)<br>
+_total subscriptions_: 120,980 (2021 est.)<br>
+_subscriptions per 100 inhabitants_: 43 (2021 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 295,000 (2020 est.)<br>
-_subscriptions per 100 inhabitants_: 103 (2020 est.)<br>
+_total subscriptions_: 316,633 (2021 est.)<br>
+_subscriptions per 100 inhabitants_: 113 (2021 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: the telecom sector has seen a decline in subscriber numbers (particularly for prepaid mobile services the mainstay of short term visitors) and revenue; fixed and mobile broadband services are two areas that have benefited from the crisis as employees and students have resorted to working from home; one area of the telecom market that is not prepared for growth is 5G mobile; governments, regulators, and even the mobile network operators have shown that they have not been investing in 5G opportunities at the present time; network expansion and enhancements remain concentrated around improving LTE coverage (2021)<br>
-_domestic_: fixed-line teledensity of roughly 45 per 100 persons; mobile-cellular telephone density about 103 per 100 persons (2020)<br>
+_domestic_: fixed-line teledensity of roughly 43 per 100 persons; mobile-cellular telephone density about 113 per 100 persons (2021)<br>
 _international_: country code - 1-246; landing points for the ECFS and Southern Caribbean Fiber submarine cable with links to 15 other islands in the eastern Caribbean extending from the British Virgin Islands to Trinidad and Puerto Ricco; satellite earth stations - 1 (Intelsat - Atlantic Ocean); tropospheric scatter to Trinidad and Saint Lucia (2019)<br>
 
 **Broadcast media**<br>

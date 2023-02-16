@@ -5,7 +5,7 @@ _Middle East / Countries_
 ## Introduction
 
 **Background**<br>
-<p>The region of present day Georgia contained the ancient kingdoms of Colchis and Kartli-Iberia. The area came under Roman influence in the first centuries A.D., and Christianity became the state religion in the 330s. Domination by Persians, Arabs, and Turks was followed by a Georgian golden age (11th-13th centuries) that was cut short by the Mongol invasion of 1236. Subsequently, the Ottoman and Persian empires competed for influence in the region. Georgia was absorbed into the Russian Empire in the 19th century. Independent for three years (1918-1921) following the Russian revolution, it was forcibly incorporated into the USSR in 1921 and regained its independence when the Soviet Union dissolved in 1991.</p> <p>Mounting public discontent over rampant corruption and ineffective government services, followed by an attempt by the incumbent Georgian Government to manipulate parliamentary elections in November 2003, touched off widespread protests that led to the resignation of Eduard SHEVARDNADZE, president since 1995. In the aftermath of that popular movement, which became known as the "Rose Revolution," new elections in early 2004 swept Mikheil SAAKASHVILI into power along with his United National Movement (UNM) party. SAAKASHVILI made progress on market reforms and good governance during his time in power, but also faced accusations of abuse of office. Progress was also complicated by Russian assistance and support to the separatist regions of Abkhazia and South Ossetia that led to periodic flare-ups in tension and violence and that culminated in a five-day conflict in August 2008 between Russia and Georgia, including the invasion of large portions of Georgian territory. Russian troops pledged to pull back from most occupied Georgian territory, but in late August 2008 Russia unilaterally recognized the independence of Abkhazia and South Ossetia, and Russian military forces remain in those regions.</p> <p>Billionaire Bidzina IVANISHVILI's unexpected entry into politics in October 2011 brought the divided opposition together under his Georgian Dream coalition, which won a majority of seats in the October 2012 parliamentary elections and removed UNM from power. Conceding defeat, SAAKASHVILI named IVANISHVILI as prime minister and allowed Georgian Dream to create a new government. Giorgi MARGVELASHVILI became president in November 2013, ending a tense year of power-sharing between SAAKASHVILI and IVANISHVILI and SAAKASHVILI then left the country. At the time, these changes in leadership represented unique examples of a former Soviet state that emerged to conduct democratic and peaceful government transitions of power. IVANISHVILI voluntarily resigned from office after the presidential succession, and in the following years, the prime minister position has seen frequent turnover. Most recently, Irakli GARIBASHVILI became prime minister in February 2021, replacing Giorgi GAKHARIA, who later in the year formed his own opposition party. In October 2021, SAAKASHVILI returned to Georgia, where he was immediately arrested to serve six years in prison on outstanding abuse of office convictions. Popular and government support for integration with the West is high in Georgia. Joining the EU and NATO are among the country's top foreign policy goals.</p><br>
+<p>The region of present day Georgia contained the ancient kingdoms of Colchis and Kartli-Iberia. The area came under Roman influence in the first centuries A.D., and Christianity became the state religion in the 330s. Domination by Persians, Arabs, and Turks was followed by a Georgian golden age (11th-13th centuries) that was cut short by the Mongol invasion of 1236. Subsequently, the Ottoman and Persian empires competed for influence in the region. Georgia was absorbed into the Russian Empire in the 19th century. Independent for three years (1918-1921) following the Russian revolution, it was forcibly incorporated into the USSR in 1921 and regained its independence when the Soviet Union dissolved in 1991.</p> <p>Mounting public discontent over rampant corruption and ineffective government services, followed by an attempt by the incumbent Georgian Government to manipulate parliamentary elections in November 2003, touched off widespread protests that led to the resignation of Eduard SHEVARDNADZE, president since 1995. In the aftermath of that popular movement, which became known as the "Rose Revolution," new elections in early 2004 swept Mikheil SAAKASHVILI into power along with his United National Movement (UNM) party. SAAKASHVILI made progress on market reforms and good governance during his time in power but also faced accusations of abuse of office. Progress was also complicated by Russian assistance and support to the separatist regions of Abkhazia and South Ossetia that led to periodic flare-ups in tension and violence and that culminated in a five-day conflict in August 2008 between Russia and Georgia, including the invasion of large portions of Georgian territory. Russian troops pledged to pull back from most occupied Georgian territory, but in late August 2008 Russia unilaterally recognized the independence of Abkhazia and South Ossetia, and Russian military forces remain in those regions.</p> <p>Billionaire Bidzina IVANISHVILI's unexpected entry into politics in October 2011 brought the divided opposition together under his Georgian Dream coalition, which won a majority of seats in the October 2012 parliamentary elections and removed UNM from power. Conceding defeat, SAAKASHVILI named IVANISHVILI as prime minister and allowed Georgian Dream to create a new government. Giorgi MARGVELASHVILI became president in November 2013, ending a tense year of power-sharing between SAAKASHVILI and IVANISHVILI and SAAKASHVILI then left the country. At the time, these changes in leadership represented unique examples of a former Soviet state that emerged to conduct democratic and peaceful government transitions of power. IVANISHVILI voluntarily resigned from office after the presidential succession, and in the following years, the prime minister position has seen frequent turnover. Most recently, Irakli GARIBASHVILI became prime minister in February 2021, replacing Giorgi GAKHARIA, who later in the year formed his own opposition party. In October 2021, SAAKASHVILI returned to Georgia, where he was immediately arrested to serve six years in prison on outstanding abuse of office convictions. Popular and government support for integration with the West is high in Georgia. Joining the EU and NATO are among the country's top foreign policy goals.</p><br>
 
 ## Geography
 
@@ -283,12 +283,12 @@ _coal revenues_: 0.01% of GDP (2018 est.)<br>
 _municipal solid waste generated annually_: 800,000 tons (2015 est.)<br>
 
 **Total water withdrawal**<br>
-_municipal_: 359,974,627.7 cubic meters (2017 est.)<br>
-_industrial_: 402,206,287.9 cubic meters (2017 est.)<br>
-_agricultural_: 1,060,819,084.4 cubic meters (2017 est.)<br>
+_municipal_: 360 million cubic meters (2017 est.)<br>
+_industrial_: 402.2 million cubic meters (2017 est.)<br>
+_agricultural_: 1.1 billion cubic meters (2017 est.)<br>
 
 **Total renewable water resources**<br>
-63.3 billion cubic meters (2017 est.)<br>
+63.3 billion cubic meters (2019 est.)<br>
 
 ## Government
 
@@ -356,7 +356,7 @@ _judge selection and term of office_: Supreme Court judges nominated by the High
 _subordinate courts_: Courts of Appeal; regional (town) and district courts<br>
 
 **Political parties and leaders**<br>
-Alliance of Patriots [Irma INASHVILI]<br>Citizens Party [Aleko ELISASHVILI]<br>European Georgia-Movement for Liberty [Giga BOKERIA]<br>European Socialists [Fridon INJIA]<br>For Georgia [Giorgi GAKHARIA]<br>Georgian Dream-Democratic Georgia [Irakli KOBAKHIDZE]<br>Girchi-More Freedom [Zurab JAPARIDZE]<br>Labor Party [Shalva NATELASHVILI]<br>Lelo for Georgia [Mamuka KHAZARADZE]<br>New Political Centre-Girchi [Iago KHVICHIA]<br>Republican Party [Khatuna SAMNIDZE]<br>Strategy Aghmashenebeli [Giorgi VASHADZE]<br>United National Movement or UNM [Nikanor "Nika" MELIA]<br>
+Alliance of Patriots [Irma INASHVILI]<br>Citizens Party [Aleko ELISASHVILI]<br>Democratic Movement-United Georgia or DM-UC [Nino BURJANADZE] <br>European Georgia-Movement for Liberty [Giga BOKERIA]<br>European Socialists [Fridon INJIA]<br>For Georgia [Giorgi GAKHARIA]<br>Georgian Dream-Democratic Georgia [Irakli KOBAKHIDZE]<br>Girchi-More Freedom [Zurab JAPARIDZE]<br>Labor Party [Shalva NATELASHVILI]<br>Lelo for Georgia [Mamuka KHAZARADZE]<br>New Political Centre-Girchi [Iago KHVICHIA]<br>Republican Party [Khatuna SAMNIDZE]<br>Strategy Aghmashenebeli [Giorgi VASHADZE]<br>United National Movement or UNM [Nikanor "Nika" MELIA]<br>
 
 **International organization participation**<br>
 ADB, BSEC, CD, CE, CPLP (associate), EAPC, EBRD, FAO, G-11, GCTU, GUAM, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ISO (correspondent), ITSO, ITU, ITUC (NGOs), MIGA, OAS (observer), OIF (observer), OPCW, OSCE, PFP, SELEC (observer), UN, UNCTAD, UNESCO, UNIDO, UNWTO, UPU, WCO, WHO, WIPO, WMO, WTO<br>
@@ -459,7 +459,7 @@ _industry_: 8.9%<br>
 _services_: 35.5% (2006 est.)<br>
 
 **Unemployment rate**<br>
-10.66% (2021 est.) NA%<br>
+10.66% (2021 est.)<br>
 18.5% (2020 est.)<br>
 11.57% (2019 est.)<br>
 
@@ -588,9 +588,9 @@ _crude oil estimated reserves_: 35 million barrels (2021 est.)<br>
 
 **Natural gas**<br>
 _production_: 6.088 million cubic meters (2020 est.)<br>
-_consumption_: 2,539,649,000 cubic meters (2020 est.)<br>
+_consumption_: 2.54 billion cubic meters (2020 est.)<br>
 _exports_: 0 cubic meters (2021 est.)<br>
-_imports_: 2,534,892,000 cubic meters (2020 est.)<br>
+_imports_: 2.535 billion cubic meters (2020 est.)<br>
 _proven reserves_: 8.495 billion cubic meters (2021 est.)<br>
 
 **Carbon dioxide emissions**<br>

@@ -259,7 +259,7 @@ _vectorborne diseases_: malaria<br>
 _municipal solid waste generated annually_: 6,192 tons (2016 est.)<br>
 
 **Total renewable water resources**<br>
-10 million cubic meters (2017 est.)<br>
+10 million cubic meters (2019 est.)<br>
 
 ## Government
 

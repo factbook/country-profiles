@@ -299,7 +299,7 @@ _industrial_: 831 million cubic meters (2017 est.)<br>
 _agricultural_: 11.31 billion cubic meters (2017 est.)<br>
 
 **Total renewable water resources**<br>
-52.8 billion cubic meters (2017 est.)<br>
+52.8 billion cubic meters (2019 est.)<br>
 
 ## Government
 
@@ -373,7 +373,7 @@ Crusaders for Democracy or CFD [Ganeshalingam CHANDRALINGAM]<br>Eelam People's D
 ABEDA, ADB, ARF, BIMSTEC, C, CD, CICA (observer), CP, FAO, G-11, G-15, G-24, G-77, IAEA, IBRD, ICAO, ICC (national committees), ICRM, IDA, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, MINURSO, MINUSTAH, MONUSCO, NAM, OAS (observer), OPCW, PCA, SAARC, SACEP, SCO (dialogue member), UN, UNCTAD, UNESCO, UNIDO, UNIFIL, UNISFA, UNMISS, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
 
 **Diplomatic representation in the US**<br>
-_chief of mission_: Ambassador Mahinda SAMARASINGHE (since 1 December 2021)<br>
+_chief of mission_: Ambassador Mahinda SAMARASINGHE (since 13 January 2022)<br>
 _chancery_: 3025 Whitehaven Street NW, Washington, DC 20008<br>
 _telephone_: [1] (202) 483-4025 through 4028<br>
 _FAX_: [1] (202) 232-7181<br>

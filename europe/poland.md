@@ -305,7 +305,7 @@ _industrial_: 7.035 billion cubic meters (2017 est.)<br>
 _agricultural_: 1.018 billion cubic meters (2017 est.)<br>
 
 **Total renewable water resources**<br>
-60.5 billion cubic meters (2017 est.)<br>
+60.5 billion cubic meters (2019 est.)<br>
 
 ## Government
 
@@ -541,7 +541,7 @@ $302.525 billion (2019 est.) note: data are in current year dollars<br>
 Germany 25%, China 10%, Italy 5%, Netherlands 5% (2019)<br>
 
 **Imports - commodities**<br>
-cars and vehicle parts, crude petroleum,&nbsp; packaged medicines, broadcasting equipment, office machinery/parts (2019)<br>
+cars and vehicle parts, crude petroleum, packaged medicines, broadcasting equipment, office machinery/parts (2019)<br>
 
 **Reserves of foreign exchange and gold**<br>
 $166.03 billion (31 December 2021 est.)<br>
@@ -606,10 +606,10 @@ _crude oil estimated reserves_: 113 million barrels (2021 est.)<br>
 222,300 bbl/day (2017 est.)<br>
 
 **Natural gas**<br>
-_production_: 5,666,815,000 cubic meters (2020 est.)<br>
-_consumption_: 21,463,908,000 cubic meters (2020 est.)<br>
+_production_: 5.667 billion cubic meters (2020 est.)<br>
+_consumption_: 21.464 billion cubic meters (2020 est.)<br>
 _exports_: 704.975 million cubic meters (2019 est.)<br>
-_imports_: 16,633,345,000 cubic meters (2020 est.)<br>
+_imports_: 16.633 billion cubic meters (2020 est.)<br>
 _proven reserves_: 91.492 billion cubic meters (2021 est.)<br>
 
 **Carbon dioxide emissions**<br>
@@ -751,7 +751,7 @@ Islamic State of Iraq and ash-Sham (ISIS)<br>
 <p><em>Poland-Belarus-Ukraine</em>: as a member state that forms part of the EU's external border, Poland has implemented the strict Schengen border rules to restrict illegal immigration and trade along its eastern borders with Belarus and Ukraine</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 1,563,386 (Ukraine) (as of 31 January 2022)<br>
+_refugees (country of origin)_: 1,563,386 (Ukraine) (as of 7 February 2023)<br>
 _stateless persons_: 1,435 (2022)<br>
 
 **Illicit drugs**<br>

@@ -280,7 +280,7 @@ _industrial_: 208.3 million cubic meters (2017 est.)<br>
 _agricultural_: 9.041 billion cubic meters (2017 est.)<br>
 
 **Total renewable water resources**<br>
-68.4 billion cubic meters (2017 est.)<br>
+68.4 billion cubic meters (2019 est.)<br>
 
 ## Government
 
@@ -722,7 +722,7 @@ Islamic State of Iraq and ash-Sham (ISIS); Revolutionary Struggle; Revolutionary
 **Refugees and internally displaced persons**<br>
 _refugees (country of origin)_: 41,594 (Syria), 33,549 (Afghanistan), 14,228 (Iraq), 6,366 (West Bank and Gaza) (mid-year 2022); 20,955 (Ukraine) (as of 6 December 2022)<br>
 _stateless persons_: 4,488 (2022)<br>
-<strong>note:</strong> 1,234,332 estimated refugee and migrant arrivals (January 2015-January 2023)<br>
+<strong>note:</strong> 1,235,040 estimated refugee and migrant arrivals (January 2015-February 2023)<br>
 
 **Illicit drugs**<br>
 a gateway to Europe for traffickers smuggling cannabis products and heroin from the Middle East and Southwest Asia to the West and precursor chemicals to the East; some South American cocaine transits or is consumed in Greece; money laundering related to drug trafficking and organized crime<br>

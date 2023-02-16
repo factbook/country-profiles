@@ -282,7 +282,7 @@ _industrial_: 758 million cubic meters (2017 est.)<br>
 _agricultural_: 3.9 million cubic meters (2017 est.)<br>
 
 **Total renewable water resources**<br>
-31.9 billion cubic meters (2017 est.)<br>
+31.9 billion cubic meters (2019 est.)<br>
 
 ## Government
 
@@ -342,7 +342,7 @@ _election results_: <em>2022:</em> Natasa PIRC MUSAR elected in second round: pe
 **Legislative branch**<br>
 _description_: bicameral Parliament consists of:<br>National Council (State Council)or Drzavni Svet (40 seats; members indirectly elected by an electoral college to serve 5-year terms); note - the Council is primarily an advisory body with limited legislative powers<br>National Assembly or Drzavni Zbor (90 seats; 88 members directly elected in single-seat constituencies by proportional representation vote and 2 directly elected in special constituencies for Italian and Hungarian minorities by simple majority vote; members serve 4-year terms)<br>
 _elections_: <br>National Council - last held on 24 November 2022 (next to be held in 2027)<br>National Assembly - last held on 24 April 2022 (next to be held in 2026)<br>
-_election results_: <br>National Council - percent of vote by party - NA; seats by party - NA; composition - men 36, women 4, percent of women 10%<br>National Assembly - percent of vote by party - GS 34.5%, SDS 23.5%, NSi 6.9%, SD 6.7%, Levica 4.4%, other 24%; seats by party - GS 41, SDS 27, NSi 8, SD 7, Levica 5; composition - men 54, women 36, percent of women 40%; note - total Parliament percent of women 30.8%<br>
+_election results_: <br>National Council - percent of vote by party - NA; seats by party - NA; composition (as of January 2023) - men 33, women 7, percent of women 17.5%<br>National Assembly - percent of vote by party - GS 34.5%, SDS 23.5%, NSi 6.9%, SD 6.7%, Levica 4.4%, other 24%; seats by party - GS 41, SDS 27, NSi 8, SD 7, Levica 5; composition (as of January 2023) - men 56, women 34, percent of women 37.8%; note - total Parliament percent of women 31.5%<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme Court (consists of the court president and 37 judges organized into civil, criminal, commercial, labor and social security, administrative, and registry departments); Constitutional Court (consists of the court president, vice president, and 7 judges)<br>
@@ -708,7 +708,7 @@ Slovenia became a member of NATO in 2004; Hungary and Italy provide NATO's air p
 **Refugees and internally displaced persons**<br>
 _refugees (country of origin)_: 9,081 (Ukraine) (as of 10 January 2023)<br>
 _stateless persons_: 10 (2020)<br>
-<strong>note:  </strong>562,854 estimated refugee and migrant arrivals (January 2015-November 2022)<br>
+<strong>note:  </strong>569,885 estimated refugee and migrant arrivals (January 2015-January 2023)<br>
 
 **Illicit drugs**<br>
 minor transit point for cocaine and Southwest Asian heroin bound for Western Europe, and for precursor chemicals<br>

@@ -316,7 +316,7 @@ _industrial_: 50 million cubic meters (2017 est.)<br>
 _agricultural_: 259 million cubic meters (2017 est.)<br>
 
 **Total renewable water resources**<br>
-60.1 billion cubic meters (2017 est.)<br>
+60.1 billion cubic meters (2019 est.)<br>
 
 ## Government
 
@@ -739,6 +739,6 @@ al-Shabaab; Islamic State of Iraq and ash-Sham - Democratic Republic of Congo (I
 <p>Uganda is subject to armed fighting among hostile ethnic groups, rebels, armed gangs, militias, and various government forces that extend across its borders<br><br><em>Uganda-Kenya:</em> Kenya and Uganda began a joint demarcation of the boundary in 2021; Uganda and Kenya both claim Migingo Island, a tiny island in the middle of Lake Victoria, which offers good fishing<br><br><em>Uganda-Rwanda:</em> a joint technical committee established in 2007 to demarcate sections of the border<br><br><em>Uganda-Democratic Republic of Congo(DROC):</em> Uganda rejects the DROC claim to Margherita Peak in the Rwenzori mountains and considers it a boundary divide; there is tension and violence on Lake Albert over prospective oil reserves at the mouth of the Semliki River; Rukwanzi Island in Lake Albert is claimed by both countries<br><br><em>Uganda-South Sudan:</em> Government of South Sudan protests Lord's Resistance Army operations in western Equatorial State, displacing and driving out local populations and stealing grain stores<br><br><em>Uganda-Sudan</em>: none identified</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 854,268 (South Sudan) (refugees and asylum seekers), 473,529 (Democratic Republic of the Congo), 61,563 (Somalia) (refugees and asylum seekers), 40,630 (Burundi), 26,683 (Eritrea), 23,251 (Rwanda), 5,330 (Ethiopia) (2022)<br>
+_refugees (country of origin)_: 473,529 (Democratic Republic of the Congo), 26,683 (Eritrea), 23,251 (Rwanda), 5,330 (Ethiopia) (2022); 62,169 (Somalia) (2023); 857,322 (South Sudan) (refugees and asylum seekers), 40,501 (Burundi) (2023)<br>
 _stateless persons_: 67,000 (2022)<br>
 

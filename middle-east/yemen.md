@@ -294,7 +294,7 @@ _industrial_: 65 million cubic meters (2017 est.)<br>
 _agricultural_: 3.235 billion cubic meters (2017 est.)<br>
 
 **Total renewable water resources**<br>
-2.1 billion cubic meters (2017 est.)<br>
+2.1 billion cubic meters (2019 est.)<br>
 
 ## Government
 
@@ -368,7 +368,7 @@ General People’s Congress or GPC (3 factions: pro-Hadi [Abdrabbi Mansur HADI],
 AFESD, AMF, CAEU, CD, EITI (temporarily suspended), FAO, G-77, IAEA, IBRD, ICAO, ICRM, IDA, IDB, IFAD, IFC, IFRCS, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), LAS, MIGA, MINURSO, MINUSMA, MONUSCO, NAM, OAS (observer), OIC, OPCW, UN, UNAMID, UNCTAD, UNESCO, UNHCR, UNIDO, UNISFA, UNMHA, UNMIL, UNMIS, UNOCI, UNVIM, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
 
 **Diplomatic representation in the US**<br>
-_chief of mission_: Ambassador Mohammed Al-HADHRAMI (since 2019)<br>
+_chief of mission_: Ambassador Mohammed Abdullah Mohammed&nbsp;AL-HADHRAMI (since 7 June 2022)<br>
 _chancery_: 2319 Wyoming Avenue NW, Washington, DC 20008<br>
 _telephone_: [1] (202) 965-4760<br>
 _FAX_: [1] (202) 337-2017<br>

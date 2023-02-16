@@ -324,7 +324,7 @@ _industrial_: 25 million cubic meters (2017 est.)<br>
 _agricultural_: 4.632 billion cubic meters (2017 est.)<br>
 
 **Total renewable water resources**<br>
-96.3 billion cubic meters (2017 est.)<br>
+96.3 billion cubic meters (2019 est.)<br>
 
 ## Government
 
@@ -430,7 +430,7 @@ _selected World Heritage Site locales_: Ngorongoro Conservation Area (m); Ruins 
 ## Economy
 
 **Economic overview**<br>
-lower middle-income East African economy; large agricultural sector; slowing growth; protectionism limits foreign investments; natural resource rich; strong tourism sector; systemic income inequality; political instability during COVID-19 and election cycle<br>
+emerging lower middle-income East African economy; resource-rich and growing tourism; strong post-pandemic recovery from hospitality, electricity, mining, and transit sectors; declining poverty; stable inflation; gender-based violence economic and labor force disruptions<br>
 
 **Real GDP (purchasing power parity)**<br>
 $159.326 billion (2021 est.)<br>
@@ -539,10 +539,10 @@ $9.659 billion (2019 est.) note: data are in current year dollars<br>
 $8.307 billion (2018 est.)<br>
 
 **Exports - partners**<br>
-India 20%, United Arab Emirates 13%, China 8%, Switzerland 7%, Rwanda 6%, Kenya 5%, Vietnam 5% (2019)<br>
+India 15%, United Arab Emirates 15%, Switzerland 14%, Uganda 12%, China 7% (2020)<br>
 
 **Exports - commodities**<br>
-gold, tobacco, cashews, sesame seeds, refined petroleum (2019)<br>
+gold, cashews, copper, precious metals, legumes (2020)<br>
 
 **Imports**<br>
 $9.181 billion (2020 est.) note: data are in current year dollars<br>
@@ -553,7 +553,7 @@ $10.399 billion (2018 est.)<br>
 China 34%, India 15%, United Arab Emirates 12% (2019)<br>
 
 **Imports - commodities**<br>
-refined petroleum, palm oil, packaged medicines, cars, wheat (2019)<br>
+copper, refined petroleum, packaged medicines, palm oil, wheat (2020)<br>
 
 **Reserves of foreign exchange and gold**<br>
 $5.05 billion (31 December 2018 est.)<br>

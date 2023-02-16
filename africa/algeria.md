@@ -364,7 +364,7 @@ Algerian National Front or FNA [Moussa TOUATI]<br>Algerian Popular Movement or M
 ABEDA, AfDB, AFESD, AMF, AMU, AU, BIS, CAEU, CD, FAO, G-15, G-24, G-77, IAEA, IBRD, ICAO, ICC (national committees), ICRM, IDA, IDB, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), LAS, MIGA, MONUSCO, NAM, OAPEC, OAS (observer), OIC, OPCW, OPEC, OSCE (partner), UN, UNCTAD, UNESCO, UNHCR, UNIDO, UNITAR, UNWTO, UPU, WCO, WHO, WIPO, WMO, WTO (observer)<br>
 
 **Diplomatic representation in the US**<br>
-_chief of mission_: Ambassador Ahmed BOUTACHE (since 26 October 2021)<br>
+_chief of mission_: Ambassador Mohammed HANECHE (since 12 December 2022)<br>
 _chancery_: 2118 Kalorama Road NW, Washington, DC 20008<br>
 _telephone_: [1] (202) 265-2800<br>
 _FAX_: [1] (202) 986-5906<br>

@@ -282,7 +282,7 @@ _industrial_: 300,000 cubic meters (2017 est.)<br>
 _agricultural_: 0 cubic meters (2017 est.)<br>
 
 **Total renewable water resources**<br>
-30 million cubic meters (2017 est.)<br>
+30 million cubic meters (2019 est.)<br>
 
 ## Government
 
@@ -335,7 +335,7 @@ _chief of state_: President Ibrahim "Ibu" Mohamed SOLIH (since 17 November 2018)
 _head of government_: President Ibrahim "Ibu" Mohamed SOLIH (since 17 November 2018); Vice President Faisal NASEEM (since 17 November 2018)<br>
 _cabinet_: Cabinet of Ministers appointed by the president, approved by Parliament<br>
 _elections/appointments_: president directly elected by absolute majority popular vote in 2 rounds if needed for a 5-year term (eligible for a second term); election last held on 23 September 2018 (next to be held in 2023)<br>
-_election results_: <em>2018:</em> Ibrahim Mohamed SOLIH elected president (in the first round); Ibrahim Mohamed SOLIH (MDP) 58.3%, Abdulla YAMEEN Abdul Gayoom (PPM) 41.7%<br>
+_election results_: <em>2018:</em> Ibrahim Mohamed SOLIH elected president (in single round); Ibrahim Mohamed SOLIH (MDP) 58.3%, Abdulla YAMEEN Abdul Gayoom (PPM) 41.7%<br>
 
 **Legislative branch**<br>
 _description_: unicameral Parliament or People's Majlis (87 seats - includes 2 seats added by the Elections Commission in late 2018; members directly elected in single-seat constituencies by simple majority vote to serve 5-year terms)<br>
@@ -354,7 +354,7 @@ _subordinate courts_: High Court; Criminal, Civil, Family, Juvenile, and Drug Co
 ADB, AOSIS, C, CP, FAO, G-77, IBRD, ICAO, ICC (NGOs), ICCt, IDA, IDB, IFAD, IFC, IFRCS, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ITU, MIGA, NAM, OIC, OPCW, SAARC, SACEP, UN, UNCTAD, UNESCO, UNIDO, UNWTO, UPU, WCO, WHO, WIPO, WMO, WTO<br>
 
 **Diplomatic representation in the US**<br>
-_chief of mission_: <p>Maldives has no embassy in the US, but its Permanent Representative to the UN in New York, Thilmeeza HUSSAIN  (since 8 July 2019), is accredited to the US and serves as ambassador</p><br>
+_chief of mission_: <p>Maldives has no embassy in the US, but its Permanent Representative to the UN in New York, Abdul GHAFOOR Mohamed  (since 12 December 2022), is accredited to the US and serves as ambassador</p><br>
 _chancery_: 801 Second Avenue, Suite 202E, New York, NY 10017<br>
 _telephone_: [1] (212) 599-6194; [1] (212) 599-6195<br>
 _FAX_: [1] (212) 661-6405<br>

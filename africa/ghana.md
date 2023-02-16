@@ -317,7 +317,7 @@ _industrial_: 95 million cubic meters (2017 est.)<br>
 _agricultural_: 1.07 billion cubic meters (2017 est.)<br>
 
 **Total renewable water resources**<br>
-56.2 billion cubic meters (2017 est.)<br>
+56.2 billion cubic meters (2019 est.)<br>
 
 ## Government
 
@@ -722,7 +722,7 @@ Ghana Armed Forces: Army, Navy, Air Force; Ministry of the Interior: Ghana Polic
 approximately 14,000 active personnel (10,000 Army; 2,000 Navy; 2,000 Air Force) (2022)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the military's inventory is a mix of Russian, Chinese, and Western equipment; in recent years, China and Czechia have been among the leading arms suppliers&nbsp; (2022)<br>
+the military's inventory is a mix of Russian, Chinese, and Western equipment; in recent years, China and Czechia have been among the leading arms suppliers (2022)<br>
 
 **Military service age and obligation**<br>
 18-26 years of age for voluntary military service, with basic education certificate; no conscription (2022)<br>

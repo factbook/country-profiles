@@ -285,7 +285,7 @@ _industrial_: 965 million cubic meters (2017 est.)<br>
 _agricultural_: 3.773 billion cubic meters (2017 est.)<br>
 
 **Total renewable water resources**<br>
-4.6 billion cubic meters (2017 est.)<br>
+4.6 billion cubic meters (2019 est.)<br>
 
 ## Government
 
@@ -358,7 +358,7 @@ Afek Tounes [Fadhel ABDELKEFI]<br>Al Badil Al-Tounisi (The Tunisian Alternative)
 ABEDA, AfDB, AFESD, AMF, AMU, AU, BSEC (observer), CAEU, CD, EBRD, FAO, G-11, G-77, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IDB, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), LAS, MIGA, MONUSCO, NAM, OAS (observer), OIC, OIF, OPCW, OSCE (partner), UN, UNCTAD, UNESCO, UNHCR, UNIDO, UNOCI, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
 
 **Diplomatic representation in the US**<br>
-_chief of mission_: Ambassador Hanene TAJOURI Bessassi (since 4 October 2021)<br>
+_chief of mission_: Ambassador Hanene&nbsp;TAJOURI&nbsp;BESSASSI (since 1 December 2021)<br>
 _chancery_: 1515 Massachusetts Avenue NW, Washington, DC 20005<br>
 _telephone_: [1] (202) 862-1850<br>
 _FAX_: [1] (202) 862-1858<br>

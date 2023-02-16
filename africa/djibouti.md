@@ -291,7 +291,7 @@ _industrial_: 0 cubic meters (2017 est.)<br>
 _agricultural_: 3 million cubic meters (2017 est.)<br>
 
 **Total renewable water resources**<br>
-300 million cubic meters (2017 est.)<br>
+300 million cubic meters (2019 est.)<br>
 
 ## Government
 
@@ -687,7 +687,7 @@ the FAD's inventory includes mostly older French and Soviet-era weapons systems,
 960 Somalia (ATMIS) (2022)<br>
 
 **Military - note**<br>
-<p>as of 2022, China, France, Italy, Japan, and the US maintained bases in Djibouti for regional military missions, including counter-terrorism, counter-piracy, crisis response, and security assistance (note – France has multiple bases and hosts troop contingents from Germany and Spain); the EU and NATO have also maintained a presence to support multinational naval counter-piracy operations and maritime training efforts; in 2017, Djibouti and Saudi Arabia announced plans for the Saudis to build a military base there, although no start date was announced</p><br>
+the FAD is largely focused on border, coastal, and internal security duties, including counterterrorism; China, France, Italy, Japan, and the US maintain bases in Djibouti for regional military missions, including counter-terrorism, counter-piracy, crisis response, and security assistance (note &ndash; France has multiple bases and hosts troop contingents from Germany and Spain); the EU and NATO also maintain a presence to support multinational naval counter-piracy operations and maritime training efforts; in 2017, Djibouti and Saudi Arabia announced plans for the Saudis to build a military base there, although no start date was announced (2023)<br>
 
 **Maritime threats**<br>
 the International Maritime Bureau&rsquo;s (IMB) Piracy Reporting Center (PRC) received one incident of piracy and armed robbery in 2021 for the Horn of Africa; while there were no recorded incidents, the IMB PRC warned that Somali pirates continued to possess the capacity to carry out attacks in the Somali basin and wider Indian Ocean; in particular, the report warned that, "Masters and crew must remain vigilant and cautious when transiting these waters."; the presence of several naval task forces in the Gulf of Aden and additional anti-piracy measures on the part of ship operators, including the use of on-board armed security teams, contributed to the drop in incidents; the EU naval mission, Operation ATALANTA, continues its operations in the Gulf of Aden and Indian Ocean through 2022; naval units from China, India, Japan, Pakistan, South Korea, the US, and other countries also operate in conjunction with EU forces; China has established a base in Djibouti to support its deployed naval units in the Horn of Africa<br>

@@ -292,7 +292,7 @@ _industrial_: 3.942 billion cubic meters (2017 est.)<br>
 _agricultural_: 834.5 million cubic meters (2017 est.)<br>
 
 **Total renewable water resources**<br>
-21.3 billion cubic meters (2017 est.)<br>
+21.3 billion cubic meters (2019 est.)<br>
 
 ## Government
 
@@ -727,7 +727,7 @@ Islamic State of Iraq and ash-Sham (ISIS); Islamic Revolutionary Guard Corps/Qod
 <p>none</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 22,226 (Syria) (mid-year 2022); 49,805 (Ukraine) (as of 29 January 2023)<br>
+_refugees (country of origin)_: 22,226 (Syria) (mid-year 2022); 49,897 (Ukraine) (as of 6 February 2023)<br>
 _stateless persons_: 1,129 (2022)<br>
 <strong>note:</strong> 84,937 estimated refugee and migrant arrivals (January 2015-October 2022); Bulgaria is predominantly a transit country<br>
 

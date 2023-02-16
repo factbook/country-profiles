@@ -283,7 +283,7 @@ _municipal_: 360.8 million cubic meters (2017 est.)<br>
 _industrial_: 71.8 million cubic meters (2017 est.)<br>
 
 **Total renewable water resources**<br>
-37.5 billion cubic meters (2017 est.)<br>
+37.5 billion cubic meters (2019 est.)<br>
 
 ## Government
 
@@ -721,7 +721,7 @@ Islamic Revolutionary Guard Corps/Qods Force<br>
 _refugees (country of origin)_: 5,112 (Croatia) (2020)<br>
 _IDPs_: 92,000 (Bosnian Croats, Serbs, and Bosniaks displaced by inter-ethnic violence, human rights violations, and armed conflict during the 1992-95 war) (2021)<br>
 _stateless persons_: 48 (2022)<br>
-<strong>note: </strong>114,398 estimated refugee and migrant arrivals (January 2015-January 2023)<br>
+<strong>note: </strong>115,118 estimated refugee and migrant arrivals (January 2015-February 2023)<br>
 
 **Illicit drugs**<br>
 <p>drug trafficking groups are major players in the procurement and transportation of large quantities of cocaine  destined for  European markets</p><br>

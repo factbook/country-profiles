@@ -275,7 +275,7 @@ _vectorborne diseases_: malaria<br>
 _municipal solid waste generated annually_: 179,972 tons (2013 est.)<br>
 
 **Total renewable water resources**<br>
-44.7 billion cubic meters (2017 est.)<br>
+44.7 billion cubic meters (2019 est.)<br>
 
 ## Government
 
@@ -306,8 +306,8 @@ _etymology_: the name derives from "nagho ni ara," which in one of the Guadalcan
 Independence Day, 7 July (1978)<br>
 
 **Constitution**<br>
-_history_: adopted 31 May 1978, effective 7 July 1978; note - in late 2017, provincial leaders agreed to adopt a new federal constitution, with passage&nbsp;expected in 2018, but it has been postponed indefinitely<br>
-_amendments_: proposed by the National Parliament; passage of constitutional sections, including those on fundamental rights and freedoms, the legal system, Parliament, alteration of the constitution and the ombudsman, requires three-fourths majority vote by Parliament and assent of the governor general; passage of other amendments requires two-thirds majority vote and assent of the governor general; amended several times, last in 2018; note - a new constitution was drafted in mid-2009 and the latest version drafted in 2013<br>
+_history_: adopted 31 May 1978, effective 7 July 1978; note - in late 2017, provincial leaders agreed to adopt a new federal constitution; progress has been stalled, but as of February 2023, the draft constitution was with the Constitutional Review Unit in the prime minister's office&nbsp;<br>
+_amendments_: proposed by the National Parliament; passage of constitutional sections, including those on fundamental rights and freedoms, the legal system, Parliament, alteration of the constitution and the ombudsman, requires three-fourths majority vote by Parliament and assent of the governor general; passage of other amendments requires two-thirds majority vote and assent of the governor general; amended several times, last in 2018<br>
 
 **Legal system**<br>
 mixed legal system of English common law and customary law<br>
@@ -376,7 +376,7 @@ _selected World Heritage Site locales_: East Rennell<br>
 ## Economy
 
 **Economic overview**<br>
-lower middle-income Pacific island economy; natural resource rich; primarily subsistent agriculture and fishing; land rights conflicts; fairly low public debt; underdeveloped financial sector; large, state-owned enterprise presence<br>
+lower middle-income Pacific island economy; natural resource rich; primarily subsistence agriculture and fishing; land rights conflicts; fairly low public debt; underdeveloped financial sector; large, state-owned enterprise presence<br>
 
 **Real GDP (purchasing power parity)**<br>
 $1.703 billion (2021 est.)<br>

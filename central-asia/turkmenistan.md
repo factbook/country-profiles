@@ -100,7 +100,7 @@ _major-language sample(s)_: <br>Dünýä Faktlar Kitaby – esasy maglumatlaryň
 Muslim 93%, Christian 6.4%, Buddhist &lt;1%, folk religion &lt;1%, Jewish &lt;1%, other &lt;1%, unspecified &lt;1% (2020 est.)<br>
 
 **Demographic profile**<br>
-<p>While Turkmenistan reputedly has a population of more than 5.6 million, the figure is most likely considerably less. Getting an accurate population estimate for the country is impossible because then President Gurbanguly BERDIMUHAMEDOW withheld the results of the last two censuses. The 2012 census results reportedly show that nearly 2 million citizens have emigrated in the last decade, which prompted BERDIMUHAMEDOW to order another census. Results of this census, covering 2008-2018, also were not released to the public but purportedly are similar. Another census supposedly will be held in 2022.</p> <p>Authorities have reacted to the dramatic population decline by preventing Turkmen from leaving the country, including removing citizens from international flights and refusing to provide necessary documents. Turkmenistan’s rise in outmigration – mainly to Turkey, Russia, and Uzbekistan – coincided with the country’s 2013-2014 economic crisis. The outflow has been sustained by poor living standards, inflation, low income, and a lack of health care. At the same time, Ashbagat is encouraging people to have more children to make up for its shrinking population.</p><br>
+<p>While Turkmenistan reputedly has a population of more than 5.6 million, the figure is most likely considerably less. Getting an accurate population estimate for the country is impossible because then President Gurbanguly BERDIMUHAMEDOW withheld the results of the last two censuses. The 2012 census results reportedly show that nearly 2 million citizens have emigrated in the last decade, which prompted BERDIMUHAMEDOW to order another census. Results of this census, covering 2008-2018, also were not released to the public but purportedly are similar. Another census was held in December 2022.</p> <p>Authorities have reacted to the dramatic population decline by preventing Turkmen from leaving the country, including removing citizens from international flights and refusing to provide necessary documents. Turkmenistan’s rise in outmigration – mainly to Turkey, Russia, and Uzbekistan – coincided with the country’s 2013-2014 economic crisis. The outflow has been sustained by poor living standards, inflation, low income, and a lack of health care. At the same time, Ashbagat is encouraging people to have more children to make up for its shrinking population.</p><br>
 
 **Age structure**<br>
 _0-14 years_: 25.44% (male 713,441/female 693,042)<br>
@@ -301,7 +301,7 @@ _industrial_: 839 million cubic meters (2017 est.)<br>
 _agricultural_: 26.36 billion cubic meters (2017 est.)<br>
 
 **Total renewable water resources**<br>
-24.8 billion cubic meters (2017 est.)<br>
+24.8 billion cubic meters (2019 est.)<br>
 
 ## Government
 
@@ -359,9 +359,10 @@ _elections/appointments_: president directly elected by absolute majority popula
 _election results_: <em>2022:</em> Serdar BERDIMUHAMEDOW elected president; percent of vote - Serdar BERDIMUHAMEDOW 73.0%,  Khydyr NUNNAYEV 11.1%, Agadzhan BEKMYRADOV 7.2%, other 8.7%; note - Serdar BERDIMUHAMEDOW is the son of previous president Gurbanguly BERDIMUHAMEDOW<br><br><em>2017:</em> Gurbanguly BERDIMUHAMEDOW reelected president in the first round; percent of vote - Gurbanguly BERDIMUHAMEDOW (DPT) 97.7%, other 2.3%<br>
 
 **Legislative branch**<br>
-_description_: bicameral National Council or Milli Genesi consists of:<br>People's Council or Halk Maslahaty (56 seats; 48 members indirectly elected by provincial councils and 8 members appointed by the president)<br>Assembly or Mejlisi (125 seats; members directly elected in single-seat constituencies by absolute majority vote in 2 rounds if needed to serve 5-year terms)<br><br>note: in September 2020, the Turkmenistani legislature (Milli Genesi) adopted a constitutional amendment creating an upper chamber, making the legislature bicameral; the chairperson of the Halk Maslahaty is now designated as the constitutional successor to the presidency; as of March 2022, Gurbanguly BERDIMUHAMEDOW continues to serve in this position after stepping away from the presidency<br>
-_elections_: People's Council - first held on 28 March 2021 for 48 indirectly elected members (next to be held in 2026); first held on 14 April 2021 for 8 presidentially appointed members (next to be held NA)<br>Assembly - last held on 25 March 2018 (next to be held 2023)<br>
+_description_: unicameral Assembly or Mejlis (125 seats; members directly elected in single-seat constituencies by absolute majority vote in 2 rounds if needed to serve 5-year terms); formerly the Assembly was the lower house of the bicameral National Council, which consisted of an upper house, the People's Council, and the Assembly<br>
+_elections_: People's Council - first held on 28 March 2021 for 48 indirectly elected members; first held on 14 April 2021 for 8 presidentially appointed members; People's Council abolished in January 2023<br>Assembly - last held on 25 March 2018 (next to be held on 26 March 2023)<br>
 _election results_: People's Council - percent of vote by party - NA; seats by party - DPT 3, independent 45; composition as of mid-2022 (55 members) - men 41, women 14, percent of women 25.5%<br>Assembly - percent of vote by party - NA; seats by party - DPT 55, APT 11, PIE 11, independent 48 (individuals nominated by citizen groups); composition as of mid-2022 (116 members) - men 86, women 30, percent of women 25.9%; note - total percent of National Council percent of women 25.7%<br>
+<strong>note:</strong> on 22 January 2023, a joint session of the then National Council voted unanimously to abolish the National Council, re-establishing a unicameral parliament<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme Court of Turkmenistan (consists of the court president and 21 associate judges and organized into civil, criminal, and military chambers)<br>
@@ -448,7 +449,7 @@ _exports of goods and services_: 26.2% (2017 est.)<br>
 _imports of goods and services_: -14.3% (2017 est.)<br>
 
 **Agricultural products**<br>
-milk, wheat, cotton, tomatoes, potatoes, watermelons, grapes, sugar beet, beef, rice<br>
+milk, wheat, cotton, tomatoes, potatoes, watermelons, grapes, sugar beets, beef, rice<br>
 
 **Industries**<br>
 natural gas, oil, petroleum products, textiles, food processing<br>
@@ -548,7 +549,7 @@ _electrification - total population_: 100% (2020)<br>
 
 **Electricity**<br>
 _installed generating capacity_: 5.205 million kW (2020 est.)<br>
-_consumption_: 15,090,300,000 kWh (2019 est.)<br>
+_consumption_: 15.09 billion kWh (2019 est.)<br>
 _exports_: 3.2 billion kWh (2019 est.)<br>
 _imports_: 0 kWh (2019 est.)<br>
 _transmission/distribution losses_: 2.892 billion kWh (2019 est.)<br>
@@ -587,11 +588,11 @@ _crude oil estimated reserves_: 600 million barrels (2021 est.)<br>
 0 bbl/day (2015 est.)<br>
 
 **Natural gas**<br>
-_production_: 83,622,908,000 cubic meters (2019 est.)<br>
-_consumption_: 45,398,541,000 cubic meters (2019 est.)<br>
-_exports_: 38,224,367,000 cubic meters (2019 est.)<br>
+_production_: 83.623 billion cubic meters (2019 est.)<br>
+_consumption_: 45.399 billion cubic meters (2019 est.)<br>
+_exports_: 38.224 billion cubic meters (2019 est.)<br>
 _imports_: 0 cubic meters (2021 est.)<br>
-_proven reserves_: 11,326,720,000,000 cubic meters (2021 est.)<br>
+_proven reserves_: 11.327 trillion cubic meters (2021 est.)<br>
 
 **Carbon dioxide emissions**<br>
 _total emissions_: 109.037 million metric tonnes of CO2 (2019 est.)<br>

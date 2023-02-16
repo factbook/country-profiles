@@ -329,7 +329,7 @@ _agricultural_: 9.156 billion cubic meters (2017 est.)<br>
 <strong>note:</strong>  data does not include former Western Sahara<br>
 
 **Total renewable water resources**<br>
-29 billion cubic meters (2017 est.)<br>
+29 billion cubic meters (2019 est.)<br>
 <strong>note:</strong>  data does not include former Western Sahara<br>
 
 ## Government

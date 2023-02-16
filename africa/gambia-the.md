@@ -312,7 +312,7 @@ _industrial_: 21.2 million cubic meters (2017 est.)<br>
 _agricultural_: 39.2 million cubic meters (2017 est.)<br>
 
 **Total renewable water resources**<br>
-8 billion cubic meters (2017 est.)<br>
+8 billion cubic meters (2019 est.)<br>
 
 ## Government
 

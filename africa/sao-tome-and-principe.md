@@ -295,7 +295,7 @@ _industrial_: 600,000 cubic meters (2017 est.)<br>
 _agricultural_: 25.6 million cubic meters (2017 est.)<br>
 
 **Total renewable water resources**<br>
-2.2 billion cubic meters (2017 est.)<br>
+2.2 billion cubic meters (2019 est.)<br>
 
 ## Government
 
@@ -670,7 +670,7 @@ the FASTP has a limited inventory of light weapons (2022)<br>
 18 is the legal minimum age for compulsory military service; 17 is the legal minimum age for voluntary service (2021)<br>
 
 **Military - note**<br>
-the FASTP is one of the smallest militaries in Africa and consists of only a few companies of ground troops and a few small patrol boats (2022)<br>
+the FASTP is one of the smallest militaries in Africa and consists of only a few companies of ground troops and some small patrol boats (2022)<br>
 
 **Maritime threats**<br>
 the International Maritime Bureau reports the territorial and offshore waters in the Niger Delta and Gulf of Guinea remain a very high risk for piracy and armed robbery of ships; in 2021, there were 34 reported incidents of piracy and armed robbery at sea in the Gulf of Guinea region; although a significant decrease from the total number of 81 incidents in 2020, it included the one hijacking and three of five ships fired upon worldwide; while boarding and attempted boarding to steal valuables from ships and crews are the most common types of incidents, almost a third of all incidents involve a hijacking and/or kidnapping; in 2021, 57 crew members were kidnapped in seven separate incidents in the Gulf of Guinea, representing 100% of kidnappings worldwide; Nigerian pirates in particular are well armed and very aggressive, operating as far as 200 nm offshore; the Maritime Administration of the US Department of Transportation has issued a Maritime Advisory (2022-001 - Gulf of Guinea-Piracy/Armed Robbery/Kidnapping for Ransom) effective 4 January 2022, which states in part, "Piracy, armed robbery, and kidnapping for ransom continue to serve as significant threats to US-flagged vessels transiting or operating in the Gulf of Guinea"<br>

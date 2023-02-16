@@ -310,7 +310,7 @@ _industrial_: 75 million cubic meters (2017 est.)<br>
 _agricultural_: 25.91 billion cubic meters (2017 est.)<br>
 
 **Total renewable water resources**<br>
-37.8 billion cubic meters (2017 est.)<br>
+37.8 billion cubic meters (2019 est.)<br>
 
 ## Government
 
@@ -717,7 +717,7 @@ Sudanese Armed Forces (SAF): Ground Force, Navy, Sudanese Air Force; Rapid Suppo
 information varies widely; estimated 100-125,000 active duty armed forces personnel; approximately 30-40,000 Rapid Support Forces (2022)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the SAF's inventory includes a mix of Chinese, Russian, Soviet-era, and domestically produced weapons systems; in recent years, leading arms providers have included Belarus, China, Russia, and Ukraine; North Korea has also provided arms; Sudan has a domestic arms industry that manufactures ammunition, small arms, and armored vehicles, largely based on older Chinese and Russian systems (2022)<br>
+the SAF's inventory includes a mix of Chinese, Russian, Soviet-era, and domestically produced weapons systems; in recent years, Russia has been the leading arms provider; Sudan has one of the largest defense industries in Africa, which includes state-owned companies with military involvement; it mostly manufactures weapons systems under license from China, Russia, Turkey, and Ukraine (2022)<br>
 
 **Military service age and obligation**<br>
 18-33 years of age for compulsory or voluntary military service for men and women; 1-2 year service obligation (2022)<br>

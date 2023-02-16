@@ -317,7 +317,7 @@ _industrial_: 498.4 million cubic meters (2017 est.)<br>
 _agricultural_: 29.57 billion cubic meters (2017 est.)<br>
 
 **Total renewable water resources**<br>
-1 trillion cubic meters (2017 est.)<br>
+1 trillion cubic meters (2019 est.)<br>
 
 ## Government
 
@@ -369,8 +369,8 @@ _residency requirement for naturalization_: none<br>
 18 years of age; universal<br>
 
 **Executive branch**<br>
-_chief of state_: Prime Minister, State Administration Council (SAC) Chair, Sr. Gen. MIN AUNG HLAING (since 1 August 2021); note - MIN AUNG HLAING self-appointed himself to the role of prime minister of a &ldquo;caretaker&rdquo; provisional government that subsumed the SAC on 1 August 2021; the SAC, chaired by MIN AUNG HLAING, has served as the executive governing body since 2 February 2021, following the 1 February 2021 military takeover of the government and the declaration of a state of emergency and still exists under the provisional government according to state media<br>
-_head of government_: Prime Minister, State Administration Council (SAC) Chair, Sr. Gen. MIN AUNG HLAING (since 1 August 2021); MIN AUNG HLAING self-appointed himself to the role of prime minister of a &ldquo;caretaker&rdquo; provisional government that subsumed the SAC on 1 August 2021<br>
+_chief of state_: Prime Minister, State Administration Council (SAC) Chair, Sr. Gen. MIN AUNG HLAING (since 1 August 2021);note - the military took over the government on 1 February 2021 and declared a state of emergency<br>
+_head of government_: Prime Minister, State Administration Council (SAC) Chair, Sr. Gen. MIN AUNG HLAING (since 1 August 2021)<br>
 _cabinet_: Cabinet appointments shared by the president and the commander-in-chief; note - after 1 February, the military junta replaced the cabinet<br>
 _elections/appointments_: prior to the military takeover, president was indirectly elected by simple majority vote by the full Assembly of the Union from among 3 vice-presidential candidates nominated by the Presidential Electoral College (consists of members of the lower and upper houses and military members); the other 2 candidates become vice presidents (president elected for a 5-year term); election last held on 28 March 2018; the military junta pledged to hold new elections in 2023<br>
 _election results_: <em>2018</em>: WIN MYINT elected president in an indirect by-election held on 28 March 2018 after the resignation of HTIN KYAW; Assembly of the Union vote - WIN MYINT (NLD) 403, MYINT SWE (USDP) 211, HENRY VAN THIO (NLD) 18, 4 votes canceled (636 votes cast); note - WIN MYINT and other key leaders of the ruling NLD party were placed under arrest following the military takeover on 1 February 2021<br><br><em>2016</em>: Assembly of the Union vote - HTIN KYAW elected president; HTIN KYAW (NLD) 360, MYINT SWE (USDP) 213, HENRY VAN THIO (NLD) 79 (652 votes cast)<br>

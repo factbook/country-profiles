@@ -278,7 +278,7 @@ _industrial_: 225 million cubic meters (2017 est.)<br>
 _agricultural_: 240 million cubic meters (2017 est.)<br>
 
 **Total renewable water resources**<br>
-49.5 billion cubic meters (2017 est.)<br>
+49.5 billion cubic meters (2019 est.)<br>
 
 ## Government
 
@@ -624,7 +624,7 @@ South Sudan People’s Defense Force (SSPDF): Ground Force (includes Presidentia
 
 **Military and security service personnel strengths**<br>
 estimated 150-200,000 active personnel, mostly ground forces with small contingents of air and riverine forces (2022)<br>
-<strong>note: </strong>some active SSPDF personnel may be militia; the National/Necessary Unified Forces (NUF) will have about 50-80,000 troops from the SSPDF and armed opposition groups when it is formed; as of August 2022, approximately 20,000 NUF had been trained<br>
+<strong>note: </strong>some active SSPDF personnel may be militia; the National/Necessary Unified Forces (NUF) will have some 50-80,000 personnel; the initial batch of 22,000 NUF personnel completed training in August 2022<br>
 
 **Military equipment inventories and acquisitions**<br>
 the SSPDF inventory is primarily of Soviet origin; South Sudan has been under a UN arms embargo since 2018 (2023)<br>

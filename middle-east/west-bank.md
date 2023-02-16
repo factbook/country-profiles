@@ -283,7 +283,7 @@ _agricultural_: 162 million cubic meters (2017 est.)<br>
 <strong>note:</strong> data represent combined total from the Gaza Strip and the West Bank.<br>
 
 **Total renewable water resources**<br>
-837 million cubic meters (2017 est.)<br>
+837 million cubic meters (2019 est.)<br>
 <strong>note:</strong> data represent combined total from the Gaza Strip and the West Bank.<br>
 
 ## Government

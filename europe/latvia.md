@@ -288,7 +288,7 @@ _industrial_: 25.2 million cubic meters (2017 est.)<br>
 _agricultural_: 61.5 million cubic meters (2017 est.)<br>
 
 **Total renewable water resources**<br>
-34.9 billion cubic meters (2017 est.)<br>
+34.9 billion cubic meters (2019 est.)<br>
 
 ## Government
 
@@ -369,7 +369,7 @@ _FAX_: [1] (202) 328-2860<br>
 _email address and website_: <br>embassy.usa@mfa.gov.lv<br><br>https://www2.mfa.gov.lv/en/usa<br>
 
 **Diplomatic representation from the US**<br>
-_chief of mission_: Ambassador John Leslie CARWILE (since 5 November 2019)<br>
+_chief of mission_: Ambassador Designate Christopher ROBINSON<br>
 _embassy_: 1 Samnera Velsa Street (former Remtes), Riga LV-1510<br>
 _mailing address_: 4520 Riga Place, Washington DC&nbsp; 20521-4520<br>
 _telephone_: [371] 6710-7000<br>

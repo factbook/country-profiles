@@ -289,7 +289,7 @@ _industrial_: 900 million cubic meters (2017 est.)<br>
 _agricultural_: 700 million cubic meters (2017 est.)<br>
 
 **Total renewable water resources**<br>
-4.5 billion cubic meters (2017 est.)<br>
+4.5 billion cubic meters (2019 est.)<br>
 
 ## Government
 
@@ -344,7 +344,7 @@ _chief of state_: President Michel AWN (since 31 October 2016)<br>
 _head of government_: Prime Minister Najib MIQATI (since 20 September 2021)<br>
 _cabinet_: Cabinet chosen by the prime minister in consultation with the president and Parliament<br>
 _elections/appointments_: president indirectly elected by Parliament with two-thirds majority vote in the first round and if needed absolute majority vote in a second round for a 6-year term (eligible for non-consecutive terms); last held on 31 October 2016 (next to be held in 2022); prime minister appointed by the president in consultation with Parliament; deputy prime minister determined during cabinet formation<br>
-_election results_: <br>2022: on 15 December 2022, Parliament in its tenth session failed to elect a president; next vote scheduled in January 2023<br><em><br>2016:</em> Michel AWN elected president in second round; National Assembly vote - Michel AWN (FPM) 83 votes; note - in the initial election held on 23 April 2014, no candidate received the required two-thirds vote, and subsequent attempts failed because Parliament lacked the necessary quorum of 86 members to hold a vote; the president was finally elected in its 46th attempt on 31 October 2016<br>
+_election results_: <br>2023: on 19 January 2023, Parliament in its eleventh session failed to elect a president<br><em><br>2016:</em> Michel AWN elected president in second round; National Assembly vote - Michel AWN (FPM) 83 votes; note - in the initial election held on 23 April 2014, no candidate received the required two-thirds vote, and subsequent attempts failed because Parliament lacked the necessary quorum of 86 members to hold a vote; the president was finally elected in its 46th attempt on 31 October 2016<br>
 
 **Legislative branch**<br>
 _description_: unicameral Lebanese Parliament or Majlis al-Nuwab in Arabic, Chambre des d&eacute;put&eacute;s in French (128 seats; members directly elected in multi-member constituencies by open list proportional representation vote, apportioned evenly between Christian and Muslims; members serve 4-year terms)<br>

@@ -273,7 +273,7 @@ _municipal solid waste recycled annually_: 25,983 tons (2013 est.)<br>
 _percent of municipal solid waste recycled_: 37% (2013 est.)<br>
 
 **Total renewable water resources**<br>
-10 billion cubic meters (2017 est.)<br>
+10 billion cubic meters (2019 est.)<br>
 
 ## Government
 

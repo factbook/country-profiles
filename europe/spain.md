@@ -299,7 +299,7 @@ _industrial_: 5.966 billion cubic meters (2017 est.)<br>
 _agricultural_: 20.36 billion cubic meters (2017 est.)<br>
 
 **Total renewable water resources**<br>
-111.5 billion cubic meters (2017 est.)<br>
+111.5 billion cubic meters (2019 est.)<br>
 
 ## Government
 
@@ -744,7 +744,7 @@ Islamic State of Iraq and ash-Sham (ISIS); al-Qa’ida<br>
 **Refugees and internally displaced persons**<br>
 _refugees (country of origin)_: 14,994 (Syria) (mid-year 2022); 418,200 (Venezuela) (economic and political crisis; includes Venezuelans who have claimed asylum, are recognized as refugees, or have received alternative legal stay) (2021); 161,012 (Ukraine) (as of 31 January 2023)<br>
 _stateless persons_: 6,489 (2022)<br>
-<strong>note: </strong>280,020 estimated refugee and migrant arrivals, including Canary Islands (January 2015-January 2023)<br>
+<strong>note: </strong>280,905 estimated refugee and migrant arrivals, including Canary Islands (January 2015-February 2023)<br>
 
 **Illicit drugs**<br>
 primary transit point in Europe for cocaine from South America and for hashish from Morocco; cocaine is shipped in raw or liquid form with mixed cargo to avoid detection; traffickers ship methamphetamine via express mail; increasing indoor cannabis production; illegal labs cutting, mixing, and reconstituting cocaine, heroin, and methamphetamine labs; synthetic drugs, including ketamine and MDMA (ecstasy) transit from Spain to the US<br>

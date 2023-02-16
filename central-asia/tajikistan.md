@@ -302,7 +302,7 @@ _industrial_: 407.8 million cubic meters (2017 est.)<br>
 _agricultural_: 10.44 billion cubic meters (2017 est.)<br>
 
 **Total renewable water resources**<br>
-21.9 billion cubic meters (2017 est.)<br>
+21.9 billion cubic meters (2019 est.)<br>
 
 ## Government
 
@@ -357,7 +357,7 @@ _chief of state_: President Emomali RAHMON (since 6 November 1994; head of state
 _head of government_: Prime Minister Qohir RASULZODA (since 23 November 2013)<br>
 _cabinet_: Council of Ministers appointed by the president, approved by the Supreme Assembly<br>
 _elections/appointments_: president directly elected by simple majority popular vote for a 7-year term for a maximum of two terms; however, as the "Leader of the Nation" President RAHMON can run an unlimited number of times; election last held on 11 October 2020 (next to be held in 2027); prime minister appointed by the president<br>
-_election results_: 2020: Emomali RAHMON reelected president; percent of vote - Emomali RAHMON (PDPT) 92.1%, Rustam LATIFZODA 3.1%, and other 4.8%<br><br>2013: Emomali RAHMOND reelected president; percent of vote 84%, Ismoil TALBAKOV 5%, other 11%<br>
+_election results_: <em>2020:</em> Emomali RAHMON reelected president; percent of vote - Emomali RAHMON (PDPT) 92.1%, Rustam LATIFZODA (APT) 3.1%, and other 4.8%<br><br><em>2013:</em> Emomali RAHMOND reelected president; percent of vote - Emomali RAHMOND (PDPT) 84%, Ismoil TALBAKOV CPT) 5%, other 11%<br>
 
 **Legislative branch**<br>
 _description_: bicameral Supreme Assembly or Majlisi Oli consists of:<br>National Assembly or Majlisi Milli (34 seats; 25 members indirectly elected by local representative assemblies or majlisi, 8 appointed by the president, and 1 reserved for each living former president; members serve 5-year terms)<br>Assembly of Representatives or Majlisi Namoyandagon (63 seats; 41 members directly elected in single-seat constituencies by 2-round absolute majority vote and 22 directly elected in a single nationwide constituency by closed-list proportional representation vote; members serve 5-year terms)<br>
@@ -559,7 +559,7 @@ _electrification - total population_: 100% (2020)<br>
 
 **Electricity**<br>
 _installed generating capacity_: 7.114 million kW (2020 est.)<br>
-_consumption_: 15,070,890,000 kWh (2019 est.)<br>
+_consumption_: 15.071 billion kWh (2019 est.)<br>
 _exports_: 3.175 billion kWh (2019 est.)<br>
 _imports_: 281 million kWh (2019 est.)<br>
 _transmission/distribution losses_: 2.429 billion kWh (2019 est.)<br>

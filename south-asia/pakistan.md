@@ -322,7 +322,7 @@ _industrial_: 1.4 billion cubic meters (2017 est.)<br>
 _agricultural_: 172.4 billion cubic meters (2017 est.)<br>
 
 **Total renewable water resources**<br>
-246.8 billion cubic meters (2017 est.)<br>
+246.8 billion cubic meters (2019 est.)<br>
 
 ## Government
 
@@ -373,7 +373,7 @@ _residency requirement for naturalization_: 4 out of the previous 7 years and in
 
 **Executive branch**<br>
 _chief of state_: President Arif ALVI (since 9 September 2018)<br>
-_head of government_: Prime Minister Shehbaz SHARIF (since 11 April 2022); former Prime Minister Imran KHAN on 10 April lost a no-confidence vote in the National Assembly<br>
+_head of government_: Prime Minister Shehbaz SHARIF (since 11 April 2022); former Prime Minister Imran KHAN on 10 April 2022 lost a no-confidence vote in the National Assembly<br>
 _cabinet_: Cabinet appointed by the president upon the advice of the prime minister<br>
 _elections/appointments_: president indirectly elected by the Electoral College consisting of members of the Senate, National Assembly, and provincial assemblies for a 5-year term (limited to 2 consecutive terms); election last held on 4 September 2018 (next to be held in 2023); prime minister elected by the National Assembly on 17 August 2018<br>
 _election results_: <em>2018:</em> Arif ALVI elected president; Electoral College vote - Arif ALVI (PTI) 352, Fazl-ur-REHMAN (MMA) 184, Aitzaz AHSAN (PPP) 124; Imran KHAN elected prime minister; National Assembly vote - Imran KHAN (PTI) 176, Shehbaz SHARIF (PML-N) 96<br>
@@ -396,7 +396,7 @@ Awami National Party or ANP [Asfandyar Wali KHAN]<br>Awami Muslim League or AML 
 ADB, AIIB, ARF, ASEAN (sectoral dialogue partner), C, CERN (associate member), CICA, CP, D-8, ECO, FAO, G-11, G-24, G-77, IAEA, IBRD, ICAO, ICC (national committees), ICRM, IDA, IDB, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, MINURCAT, MINURSO, MINUSCA, MINUSMA, MONUSCO, NAM, OAS (observer), OIC, OPCW, PCA, SAARC, SACEP, SCO, UN, UNAMID, UNCTAD, UNESCO, UNFICYP, UNHCR, UNHRC, UNIDO, UNISFA, UNISFA, UNMISS, UNSOS, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
 
 **Diplomatic representation in the US**<br>
-_chief of mission_: Ambassador Sardar Masood KHAN (since 24 March 2022)<br>
+_chief of mission_: Ambassador Sardar Masood KHAN (since 14 April 2022)<br>
 _chancery_: 3517 International Court NW, Washington, DC 20008<br>
 _telephone_: [1] (202) 243-6500<br>
 _FAX_: [1] (202) 686-1534<br>
@@ -742,7 +742,7 @@ Pakistan Army (includes National Guard), Pakistan Navy (includes marines, Mariti
 information varies; approximately 630,000 active duty personnel (550,000 Army; 30,000 Navy; 50,000 Air Force); approximately 150,000 Frontier Corps and Pakistan Rangers (2022)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the Pakistan military inventory includes a broad mix of equipment, primarily from China, France, Russia, Turkey, Ukraine, the UK, and the US; China has been the leading supplier of arms to Pakistan; Pakistan also has a large domestic defense industry (2022)<br>
+the military's inventory includes a broad mix of equipment, primarily from China, France, Russia, Turkey, Ukraine, the UK, and the US; China has been the leading supplier of arms to Pakistan; Pakistan also has a large domestic defense industry (2022)<br>
 
 **Military service age and obligation**<br>
 16 (or 17 depending on service) to 23 years of age for voluntary military service; soldiers cannot be deployed for combat until age 18; women serve in all three armed forces; reserve obligation to age 45 for enlisted men, age 50 for officers (2022)<br>

@@ -320,7 +320,7 @@ _industrial_: 103.7 million cubic meters (2017 est.)<br>
 _agricultural_: 672.2 million cubic meters (2017 est.)<br>
 
 **Total renewable water resources**<br>
-45.7 billion cubic meters (2017 est.)<br>
+45.7 billion cubic meters (2019 est.)<br>
 
 ## Government
 
@@ -731,7 +731,7 @@ Boko Haram; Islamic State of Iraq and ash-Sham - West Africa (ISIS-WA)<br>
 <p>since 2003, ad hoc armed militia groups and the Sudanese military have driven hundreds of thousands of Darfur residents into Chad; Chad wishes to be a helpful mediator in resolving the Darfur conflict, and in 2010 established a joint border monitoring force with Sudan, which has helped to reduce cross-border banditry and violence; only Nigeria and Cameroon have heeded the Lake Chad Commission's admonition to ratify the delimitation treaty, which also includes the Chad-Niger and Niger-Nigeria boundaries</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 403,846 (Sudan), 124,529 (Central African Republic), 42,597 (Cameroon), 20,461 (Nigeria) (2022)<br>
+_refugees (country of origin)_: 403,846 (Sudan), 42,597 (Cameroon) (2022); 124,545 (Central African Republic), 20,498 (Nigeria) (2023)<br>
 _IDPs_: 381,289 (majority are in the east) (2022)<br>
 
 **Trafficking in persons**<br>

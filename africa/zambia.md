@@ -320,7 +320,7 @@ _industrial_: 130 million cubic meters (2017 est.)<br>
 _agricultural_: 1.152 billion cubic meters (2017 est.)<br>
 
 **Total renewable water resources**<br>
-104.8 billion cubic meters (2017 est.)<br>
+104.8 billion cubic meters (2019 est.)<br>
 
 ## Government
 
@@ -535,10 +535,10 @@ $8.558 billion (2020 est.) note: data are in current year dollars<br>
 $8.258 billion (2019 est.) note: data are in current year dollars<br>
 
 **Exports - partners**<br>
-Switzerland 29%, China 16%, Namibia 12%, Democratic Republic of the Congo 9%, Singapore 5% (2019)<br>
+Switzerland 32%, China 14%, Namibia 12%, Democratic Republic of the Congo 9%, Singapore 8% (2020)<br>
 
 **Exports - commodities**<br>
-copper, gold, gemstones, sulfuric acid, raw sugar, tobacco (2019)<br>
+copper, gold, gemstones, tobacco, cement (2020)<br>
 
 **Imports**<br>
 $7.701 billion (2021 est.) note: data are in current year dollars<br>
@@ -546,10 +546,10 @@ $7.049 billion (2020 est.) note: data are in current year dollars<br>
 $8.036 billion (2019 est.) note: data are in current year dollars<br>
 
 **Imports - partners**<br>
-South Africa 29%, China 14%, United Arab Emirates 12%, India 5% (2019)<br>
+South Africa 31%, China 16%, United Arab Emirates 9%, Democratic Republic of the Congo 6%, India 5% (2020)<br>
 
 **Imports - commodities**<br>
-refined petroleum, crude petroleum, delivery trucks, gold, fertilizers (2019)<br>
+copper, petroleum, fertilizers, packaged medicines, delivery trucks (2020)<br>
 
 **Reserves of foreign exchange and gold**<br>
 $2.754 billion (31 December 2021 est.)<br>

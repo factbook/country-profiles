@@ -301,7 +301,7 @@ _industrial_: 3.358 billion cubic meters (2017 est.)<br>
 _agricultural_: 518.6 million cubic meters (2017 est.)<br>
 
 **Total renewable water resources**<br>
-104 billion cubic meters (2017 est.)<br>
+104 billion cubic meters (2019 est.)<br>
 
 ## Government
 
@@ -737,7 +737,7 @@ Islamic State of Iraq and ash-Sham (ISIS)<br>
 <p>bilateral government, legal, technical and economic working group negotiations continue in 2006 with Slovakia over Hungary's failure to complete its portion of the Gabcikovo-Nagymaros hydroelectric dam project along the Danube; as a member state that forms part of the EU's external border, Hungary has implemented the strict Schengen border rules</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 33,603 (Ukraine) (as of 31 January 2023)<br>
+_refugees (country of origin)_: 33,603 (Ukraine) (as of 7 February 2023)<br>
 _stateless persons_: 130 (2022)<br>
 
 **Illicit drugs**<br>
