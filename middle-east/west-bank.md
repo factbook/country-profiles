@@ -499,18 +499,18 @@ _Total energy consumption per capita 2019_: 13.604 million Btu/person (2019 est.
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 466,283 (2020 est.)<br>
-_subscriptions per 100 inhabitants_: 9 (2020 est.)<br>
+_total subscriptions_: 485,829 (2021 est.)<br>
+_subscriptions per 100 inhabitants_: 9 (2021 est.)<br>
 <strong>note</strong>: includes Gaza Strip<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 4,274,119 (2020 est.)<br>
-_subscriptions per 100 inhabitants_: 84 (2020 est.)<br>
+_total subscriptions_: 4,052,966 (2021 est.)<br>
+_subscriptions per 100 inhabitants_: 78 (2021 est.)<br>
 <strong>note:</strong> includes Gaza Strip<br>
 
 **Telecommunication systems**<br>
-_general assessment_: continuing political and economic instability has impeded liberalization of the telecommunications industry (2018)<br>
-_domestic_: Israeli has companies that are responsible for fixed-line services; two Palestinian cellular providers launched 3G mobile networks in the West Bank in January 2018 after Israel lifted its ban; fixed-line 9 per 100 and mobile-cellular subscriptions 84 per 100 (includes Gaza Strip) (2020)<br>
+_general assessment_: most telecommunications companies in the West Bank and Gaza import directly from international vendors; the major challenge they face are Israeli restrictions on telecommunication imports that are listed as &ldquo;Dual Use&rdquo; products; during a visit to the West Bank in July 2022, U.S. President Joe Biden announced that Israeli and Palestinian teams will work together immediately to roll out an advanced infrastructure for 4G by the end of 2023; currently, only 2G service is available in Gaza (2022)<br>
+_domestic_: Israeli has companies that are responsible for fixed-line services; two Palestinian cellular providers launched 3G mobile networks in the West Bank in January 2018 after Israel lifted its ban; fixed-line 9 per 100 and mobile-cellular subscriptions 78 per 100 (includes Gaza Strip) (2021)<br>
 _international_: country code 970 or 972; 1 international switch in Ramallah<br>
 <strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress toward 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>
 

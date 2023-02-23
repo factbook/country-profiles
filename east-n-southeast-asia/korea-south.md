@@ -397,7 +397,7 @@ _selected World Heritage Site locales_: Jeju Volcanic Island and Lava Tubes (n);
 ## Economy
 
 **Economic overview**<br>
-strong export-driven East Asian economy; sustainable and social policy leader; foreign aid financier; automotive manufacturing; app-based developer and exporter; global healthcare technology leader; credit suffers due to tensions with North Korea<br>
+strong export-driven East Asian economy; sustainable and social policy leader; foreign aid financier; automotive manufacturing; app-based developer and exporter; global healthcare technology leader; aging workforce; largest semiconductor producer<br>
 
 **Real GDP (purchasing power parity)**<br>
 $2.289 trillion (2021 est.)<br>
@@ -509,10 +509,10 @@ $607.505 billion (2020 est.) note: data are in current year dollars<br>
 $660.507 billion (2019 est.) note: data are in current year dollars<br>
 
 **Exports - partners**<br>
-China 25%, United States 14%, Vietnam 9%, Hong Kong 6%, Japan 5% (2019)<br>
+China 25%, United States 14%, Vietnam 9%, Hong Kong 6%, Japan 5% (2020)<br>
 
 **Exports - commodities**<br>
-integrated circuits, cars and vehicle parts, refined petroleum, ships, office machinery (2019)<br>
+integrated circuits, cars and vehicle parts, refined petroleum, ships, office machinery (2020)<br>
 
 **Imports**<br>
 $698.103 billion (2021 est.) note: data are in current year dollars<br>
@@ -520,10 +520,10 @@ $541.57 billion (2020 est.) note: data are in current year dollars<br>
 $607.54 billion (2019 est.) note: data are in current year dollars<br>
 
 **Imports - partners**<br>
-China 22%, United States 12%, Japan 9% (2019)<br>
+China 25%, United States 12%, Japan 10%, Germany 4%, Vietnam 4% (2020)<br>
 
 **Imports - commodities**<br>
-crude petroleum, integrated circuits, natural gas, refined petroleum, coal (2019)<br>
+crude oil, integrated circuits, natural gas, refined petroleum, cars (2020)<br>
 
 **Reserves of foreign exchange and gold**<br>
 $463.281 billion (31 December 2021 est.)<br>

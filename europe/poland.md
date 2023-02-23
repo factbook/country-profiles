@@ -527,10 +527,10 @@ $336.317 billion (2020 est.) note: data are in current year dollars<br>
 $330.934 billion (2019 est.) note: data are in current year dollars<br>
 
 **Exports - partners**<br>
-Germany 27%, Czechia 6%, United Kingdom 6%, France 6%, Italy 5% (2019)<br>
+Germany 28%, UK 6%, Czechia 6%, France 6%, Netherlands 4% (2020)<br>
 
 **Exports - commodities**<br>
-cars and vehicle parts, seats, furniture, computers, video displays (2019)<br>
+cars and vehicle parts, seats, furniture, electric batteries, computers (2020)<br>
 
 **Imports**<br>
 $380.699 billion (2021 est.) note: data are in current year dollars<br>
@@ -538,10 +538,10 @@ $295.897 billion (2020 est.) note: data are in current year dollars<br>
 $302.525 billion (2019 est.) note: data are in current year dollars<br>
 
 **Imports - partners**<br>
-Germany 25%, China 10%, Italy 5%, Netherlands 5% (2019)<br>
+Germany 25%, China 12%, Italy 5%, Netherlands 5%, Czechia 4% (2020)<br>
 
 **Imports - commodities**<br>
-cars and vehicle parts, crude petroleum, packaged medicines, broadcasting equipment, office machinery/parts (2019)<br>
+cars and vehicle parts, crude petroleum, packaged medicines, broadcasting equipment, office machinery/parts (2020)<br>
 
 **Reserves of foreign exchange and gold**<br>
 $166.03 billion (31 December 2021 est.)<br>
@@ -725,7 +725,7 @@ approximately 120,000 active duty personnel (65,000 Army; 7,000 Navy; 15,000 Air
 <strong>note: </strong>in June 2019, the Polish Government approved a plan to increase the size of the military over a period of 10 years to over 200,000 troops, including doubling the size of the Territorial Defense Forces; in 2021, it announced additional plans to increase the size of the military to over 300,000 personnel<br>
 
 **Military equipment inventories and acquisitions**<br>
-the inventory of the Polish Armed Forces consists of a mix of Soviet-era and more modern, mostly Western, weapons systems; in recent years, the leading suppliers of armaments have included Finland, Germany, Italy, South Korea, and the US; Poland has a large domestic defense sector that produces or provides upgrades to a wide variety of weapons systems, particularly ground systems such as tanks and other armored vehicles; it also cooperates with the European and US defense sectors (2022)<br>
+the military's inventory consists of a mix of Soviet-era and more modern, mostly Western, weapons systems; in recent years, the leading suppliers of armaments have included several European countries, South Korea, and the US; Poland has a large domestic defense sector that produces or provides upgrades to a wide variety of weapons systems, particularly ground systems such as tanks and other armored vehicles; it also cooperates with the European and US defense sectors (2023)<br>
 <strong>note:</strong> in late 2018, Poland announced a 7-year (through 2026) approximately $50 billion defense modernization plan that would include such items as 5th generation combat aircraft, unmanned aerial vehicles, rocket artillery, helicopters, submarines, frigates, and improved cyber security; in 2022, it signed large military weapons contracts with South Korea and the US<br>
 
 **Military service age and obligation**<br>
@@ -751,7 +751,7 @@ Islamic State of Iraq and ash-Sham (ISIS)<br>
 <p><em>Poland-Belarus-Ukraine</em>: as a member state that forms part of the EU's external border, Poland has implemented the strict Schengen border rules to restrict illegal immigration and trade along its eastern borders with Belarus and Ukraine</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 1,563,386 (Ukraine) (as of 7 February 2023)<br>
+_refugees (country of origin)_: 1,563,386 (Ukraine) (as of 14 February 2023)<br>
 _stateless persons_: 1,435 (2022)<br>
 
 **Illicit drugs**<br>

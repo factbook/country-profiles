@@ -419,7 +419,7 @@ _selected World Heritage Site locales_: Lake Turkana National Parks (n); Mount K
 ## Economy
 
 **Economic overview**<br>
-one of the fastest growing Sub-Saharan economies; hard-hit by COVID-19 disruptions and locust infestation, somewhat offset by agricultural growth; environmentally fragile economy; persistent poverty; better financial confidence; significant remittances<br>
+fast growing, third largest Sub-Saharan economy; strong agriculture and emerging services and tourism industries; current account deficit and high debt; broadband and mobile-money platform investments; surging inflation due to oil and food hikes; new investor-friendly incentives; environmentally fragile economy<br>
 
 **Real GDP (purchasing power parity)**<br>
 $251.431 billion (2021 est.)<br>
@@ -466,10 +466,10 @@ _exports of goods and services_: 13.9% (2017 est.)<br>
 _imports of goods and services_: -25.5% (2017 est.)<br>
 
 **Agricultural products**<br>
-sugar cane, milk, maize, potatoes, bananas, camel milk, cassava, sweet potatoes, mangoes/guavas, cabbages<br>
+milk, tea, beef, maize, sugar cane, tomatoes, mangoes/guavas, potatoes, beans, bananas<br>
 
 **Industries**<br>
-small-scale consumer goods (plastic, furniture, batteries, textiles, clothing, soap, cigarettes, flour), agricultural products, horticulture, oil refining; aluminum, steel, lead; cement, commercial ship repair, tourism, information technology<br>
+agriculture, transportation, services, manufacturing, construction, telecommunications, tourism, retail<br>
 
 **Industrial production growth rate**<br>
 7.17% (2021 est.)<br>
@@ -530,10 +530,10 @@ $9.709 billion (2020 est.) note: data are in current year dollars<br>
 $11.471 billion (2019 est.)<br>
 
 **Exports - partners**<br>
-Uganda 10%, United States 9%, Netherlands 8%, Pakistan 7%, United Kingdom 6%, United Arab Emirates 6%, Tanzania 5% (2019)<br>
+Uganda 14%, Pakistan 8%, Netherlands 8%, United States 8%, United Kingdom 7% (2020)<br>
 
 **Exports - commodities**<br>
-tea, cut flowers, refined petroleum, coffee, titanium (2019)<br>
+tea, cut flowers, refined petroleum, gold, coffee (2020)<br>
 
 **Imports**<br>
 $21.853 billion (2021 est.) note: data are in current year dollars<br>
@@ -541,10 +541,10 @@ $17.717 billion (2020 est.) note: data are in current year dollars<br>
 $20.408 billion (2019 est.)<br>
 
 **Imports - partners**<br>
-China 24%, United Arab Emirates 10%, India 10%, Saudi Arabia 7%, Japan 5% (2019)<br>
+China 27%, India 11%, United Arab Emirates 7%, Japan 4%, Saudi Arabia 3% (2020)<br>
 
 **Imports - commodities**<br>
-refined petroleum, cars, packaged medicines, wheat, iron products (2019)<br>
+refined petroleum, palm oil, broadcasting equipment, packaged medicines, cars (2020)<br>
 
 **Reserves of foreign exchange and gold**<br>
 $9.491 billion (31 December 2021 est.)<br>
@@ -751,7 +751,7 @@ al-Shabaab; Islamic Revolutionary Guard Corps (IRGC)/Qods Force<br>
 <p><em>Kenya-Ethiopia</em>: their border was demarcated in the 1950s and approved in 1970; in 2012, Kenya and Ethiopia agreed to redemarcate their boundary following disputes over beacons and cross-border crime</p> <p><em>Kenya-Somalia</em>: Kenya works hard to prevent the clan and militia fighting in Somalia from spreading across the border, which has long been open to nomadic pastoralists; in 2021, the International Court of Justice (ICJ) gave Somalia control over a disputed ocean area where the seabeds are believed to hold vasts oil and gas deposits; the ICJ ruling gave Somalia the rights to several offshore oil exploration blocks previously claimed by Kenya; Kenya did not recognize the court’s decision</p> <p><em>Kenya-South Sudan</em>: two thirds of the boundary that separates Kenya and South Sudan's sovereignty known as the Ilemi Triangle has been unclear since British colonial times; Kenya has administered the area since colonial times; officials from Kenya and South Sudan signed a memorandum of understanding on boundary delimitation and demarcation and agreed to set up a joint committee; as of July 2019, the demarcation process was to begin in 90 days, but was delayed due to a lack of funding</p> <p><em>Kenya-Sudan</em>: Kenya served as an important mediator in brokering Sudan's north-south separation in February 2005</p> <p><em>Kenya-Tanzania</em>: Kenya and Tanzania were conducting a joint reaffirmation process in November 2021 to ensure the border was visibly marked with pillars</p> <p><em>Kenya-Uganda:</em> Kenya and Uganda began a joint demarcation of the boundary in 2021 </p> <p> </p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 279,925 (Somalia), 153,289 (South Sudan), 53,439 (Democratic Republic of the Congo), 21,457 (Ethiopia), 8,087 (Burundi), 5,289 (Sudan) (2022)<br>
+_refugees (country of origin)_: 279,925 (Somalia), 153,289 (South Sudan), 53,980 (Democratic Republic of the Congo), 21,457 (Ethiopia), 8,087 (Burundi), 5,289 (Sudan) (2022)<br>
 _IDPs_: 190,000 (election-related violence, intercommunal violence, resource conflicts, al-Shabaab attacks in 2017 and 2018) (2021)<br>
 _stateless persons_: 16,779 (2022); note - the stateless population consists of Nubians, Kenyan Somalis, and coastal Arabs; the Nubians are descendants of Sudanese soldiers recruited by the British to fight for them in East Africa more than a century ago; Nubians did not receive Kenyan citizenship when the country became independent in 1963; only recently have Nubians become a formally recognized tribe and had less trouble obtaining national IDs; Galjeel and other Somalis who have lived in Kenya for decades are included with more recent Somali refugees and denied ID cards<br>
 

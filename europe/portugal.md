@@ -719,7 +719,7 @@ Islamic State of Iraq and ash-Sham (ISIS)<br>
 <p><em>Portugal-Spain</em>: Portugal does not recognize Spanish sovereignty over the territory of Olivenza based on a difference of interpretation of the 1815 Congress of Vienna and the 1801 Treaty of Badajoz</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 57,109 (Ukraine) (as of 17 January 2023)<br>
+_refugees (country of origin)_: 57,859 (Ukraine) (as of 12 February 2023)<br>
 _stateless persons_: 55 (2022)<br>
 
 **Illicit drugs**<br>

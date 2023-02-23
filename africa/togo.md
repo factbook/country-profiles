@@ -704,11 +704,11 @@ Togolese Armed Forces (Forces Armees Togolaise, FAT): Togolese Army (l'Armee de 
 <strong>note:</strong> the GNT falls under the Ministry of the Armed Forces but also reports to the Ministry of Security and Civil Protection on many matters involving law enforcement and internal security<br>
 
 **Military expenditures**<br>
-1.8% of GDP (2021 est.)<br>
+2.1% of GDP (2022 est.)<br>
+1.9% of GDP (2021 est.)<br>
 2% of GDP (2020 est.)<br>
-2.6% of GDP (2019 est.) (approximately $190 million)<br>
-1.9% of GDP (2018 est.) (approximately $140 million)<br>
-1.9% of GDP (2017 est.) (approximately $130 million)<br>
+2.6% of GDP (2019 est.)<br>
+1.9% of GDP (2018 est.)<br>
 
 **Military and security service personnel strengths**<br>
 approximately 11,000 personnel (6,500 Army; 500 Air and Navy; 3,000 Gendarmerie) (2022)<br>

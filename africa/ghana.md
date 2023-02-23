@@ -533,7 +533,7 @@ $22.077 billion (2020 est.) note: data are in current year dollars<br>
 $25.592 billion (2019 est.)<br>
 
 **Exports - partners**<br>
-Switzerland 23%, India 17%, China 12%, United Arab Emirates 8%, South Africa 8% (2019)<br>
+Switzerland 23%, United Arab Emirates 12%, China 12%, India 9%, Netherlands 5% (2020)<br>
 
 **Exports - commodities**<br>
 gold, crude petroleum, cocoa products, manganese, cashews (2019)<br>
@@ -544,10 +544,10 @@ $24.545 billion (2020 est.) note: data are in current year dollars<br>
 $26.908 billion (2019 est.)<br>
 
 **Imports - partners**<br>
-China 24%, Nigeria 22%, United States 5% (2019)<br>
+China 42%, Netherlands 5%, United States 5%, India 5%, United Arab Emirates 3% (2020)<br>
 
 **Imports - commodities**<br>
-metal tubing, ships, cars, refined petroleum, rice (2019)<br>
+refined petroleum, cars, rice, delivery trucks, iron (2020)<br>
 
 **Reserves of foreign exchange and gold**<br>
 $9.917 billion (31 December 2021 est.)<br>
@@ -722,13 +722,13 @@ Ghana Armed Forces: Army, Navy, Air Force; Ministry of the Interior: Ghana Polic
 approximately 14,000 active personnel (10,000 Army; 2,000 Navy; 2,000 Air Force) (2022)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the military's inventory is a mix of Russian, Chinese, and Western equipment; in recent years, China and Czechia have been among the leading arms suppliers (2022)<br>
+the military's inventory is a mix of Russian, Chinese, and Western equipment; in recent years, China and Czechia have been among the leading arms suppliers (2023)<br>
 
 **Military service age and obligation**<br>
 18-26 years of age for voluntary military service, with basic education certificate; no conscription (2022)<br>
 
 **Military deployments**<br>
-140 Mali (MINUSMA); 875 Lebanon (UNIFIL); 725 (plus about 275 police) South Sudan (UNMISS); 650 Sudan (UNISFA) (May 2022)<br>
+140 Mali (MINUSMA); 875 Lebanon (UNIFIL); 725 (plus about 275 police) South Sudan (UNMISS); 650 Sudan (UNISFA) (2022)<br>
 <strong>note:</strong> since sending a contingent of troops to the Congo in 1960, the military has been a regular contributor to African- and UN-sponsored peacekeeping missions<br>
 
 **Military - note**<br>

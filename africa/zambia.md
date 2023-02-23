@@ -634,16 +634,16 @@ _Total energy consumption per capita 2019_: 11.595 million Btu/person (2019 est.
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 71,844 (2020 est.)<br>
-_subscriptions per 100 inhabitants_: (2020 est.) less than 1<br>
+_total subscriptions_: 65,913 (2021 est.)<br>
+_subscriptions per 100 inhabitants_: (2021 est.) less than 1<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 17,220,600 (2019)<br>
-_subscriptions per 100 inhabitants_: 96.41 (2019)<br>
+_total subscriptions_: 20,247,111 (2021)<br>
+_subscriptions per 100 inhabitants_: 104 (2021)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: following elections held in August 2021, the new government immediately established a Ministry of Technology and Science to promote the use of ICT in developing economic growth and social inclusion; this focus on ICT, and on telecoms in particular, has been central to government strategies for some years; as part of the Smart Zambia initiative, investment has been made in data centers, a computer assembly plant, ICT training centers, and a Smart Education program; these efforts have been combined with the extension of broadband access and improved connectivity to international submarine cables; in turn, this has resulted in a considerable reduction in fixed-line and mobile access pricing for end-users; mobile network operators continue to invest in 3G and LTE-based services, the government contracted to upgrade the state-owned mobile infrastructure for 5G services; delays in holding spectrum have stymied the development of 5G thus far; in mid-2021 the regulator completed a consultation of auctioning low, medium, and high band spectrum for 5G, aiming to provide sufficient spectrum to meet the anticipated increase in data traffic in coming years; fixed-line broadband services remain underdeveloped (2022)<br>
-_domestic_: fiber optic connections are available between most larger towns and cities with microwave radio relays serving more rural areas; 3G and LTE with FttX in limited urban areas and private Ku or Ka band VSAT terminals in remote locations; fixed-line teledensity less than 1 per 100 and mobile-cellular roughly 104 per 100 (2020)<br>
+_domestic_: fiber optic connections are available between most larger towns and cities with microwave radio relays serving more rural areas; 3G and LTE with FttX in limited urban areas and private Ku or Ka band VSAT terminals in remote locations; fixed-line teledensity less than 1 per 100 and mobile-cellular roughly 104 per 100 (2021)<br>
 _international_: country code - 260; multiple providers operate overland fiber optic routes via Zimbabwe/South Africa, Botswana/Namibia and Tanzania provide access to the major undersea cables<br>
 <strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress toward 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>
 
@@ -732,7 +732,8 @@ approximately 17,000 active troops (15,000 Army; 2,000 Air) (2022)<br>
 the ZDF's inventory is largely comprised of Chinese, Russian, and Soviet-era armaments; in recent years, China has been the leading supplier of arms to Zambia (2022)<br>
 
 **Military service age and obligation**<br>
-18-25 years of age (16 with parental consent) for voluntary military service for men and women; no conscription; 12-year enlistment period (7 years active, 5 in the Reserves); all citizens are required to register at 16&nbsp; (2022)<br>
+18-25 years of age (17 with parental consent) for voluntary military service for men and women; no conscription; 12-year enlistment period (7 years active, 5 in the Reserves); must be Zambian citizens, holder of a green national registration card, and must have a school Grade 12 certification (2023)<br>
+note: Zambia had military conscription from 1975-1980<br>
 
 **Military deployments**<br>
 930 Central African Republic (MINUSCA) (May 2022)<br>
@@ -746,7 +747,7 @@ the Zambian Defense Force (ZDF) traces its roots to the Northern Rhodesia Regime
 <p><em>Zambia-Angola: </em>because the straight-line segments along the left bank (Zambian side) of the Cuando/Kwando River do not conform with the physical alignment of the unstable shoreline, Zambian residents in some areas have settled illegally on sections of shoreline that fall on the Angolan side of the boundary<em><br><br>Zambia-Democratic Republic of Congo(DRC): </em>boundary commission continues discussions over Congolese-administered triangle of land on the right bank of the Lunkinda River claimed by Zambia near the DRC village of Pweto</p> <p><em>Zambia-Tanzania</em>: some drug smuggling may take place across the Zambia-Tanzania border; there are no known current territorial issues, as both states have continued to recognize the colonial boundaries last modified in 1937; the boundary in Lake Tanganyika remains undefined.<br><br><em>Zambia-Zimbabwe: </em>in 2004, Zimbabwe dropped objections to plans between Botswana and Zambia to build a bridge over the Zambezi River, thereby de facto recognizing a short, but not clearly delimited, Botswana-Zambia boundary in the river; in May 2021, Botswana and Zambia agreed in principle to let Zimbabwe be a partner in the bridge project as it enters its lasts phase</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 56,527 (Democratic Republic of the Congo) (refugees and asylum seekers), 7,230 (Burundi) (2022)<br>
+_refugees (country of origin)_: 46,777 (Democratic Republic of the Congo) (refugees and asylum seekers), 7,230 (Burundi) (2022)<br>
 
 **Trafficking in persons**<br>
 _tier rating_: Tier 2 Watch List —<strong> </strong>Zambia does not fully meet the minimum standards for the elimination of trafficking but is making efforts to do so; efforts included increasing law enforcement training, establishing two fast-track human trafficking courts, conducting awareness campaigns about human trafficking, slightly increasing prosecutions and convictions, and strengthening prison sentences given to traffickers; however; investigations of trafficking crimes and funding to shelters and other victim assistance programs decreased; authorities did not proactively screen for trafficking among vulnerable populations, including foreign nationals and those involved in commercial sex; authorities detained and deported potential trafficking victims involved in smuggling; the national inter-ministerial committee is weak in overseeing national anti-trafficking efforts and trends (2020)<br>

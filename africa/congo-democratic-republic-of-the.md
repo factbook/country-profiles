@@ -763,7 +763,7 @@ Islamic State of Iraq and ash-Sham – Democratic Republic of the Congo (ISIS-DR
 <p>heads of the Great Lakes states and UN pledged in 2004 to abate tribal, rebel, and militia fighting in the region, including northeast Congo<br><br><em>Democratic Republic of Congo(DRC)-Republic of the Congo: </em>the location of the boundary in the broad Congo River is indefinite except in the Pool Malebo/Stanley Pool area<br><br><em>Democratic Republic of Congo(DRC)-Uganda:</em> Uganda rejects the DRC claim to Margherita Peak in the Rwenzori mountains and considers it a boundary divide; there is tension and violence on Lake Albert over prospective oil reserves at the mouth of the Semliki River<br><br><em>Democratic Republic of Congo(DRC)-Zambia: </em>boundary commission continues discussions over Congolese-administered triangle of land on the right bank of the Lunkinda River claimed by Zambia near the DRC village of Pweto<br><br><em>Democratic Republic of Congo(DRC)-Angola: </em>DRC accuses Angola of shifting monuments</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 211,180 (Central African Republic), 208,789 (Rwanda), 57,127 (South Sudan) (refugees and asylum seekers), 43,623 (Burundi) (2022)<br>
+_refugees (country of origin)_: 211,180 (Central African Republic), 208,789 (Rwanda), 55,829 (South Sudan) (refugees and asylum seekers), 43,623 (Burundi) (2022)<br>
 _IDPs_: 5.52 million (fighting between government forces and rebels since mid-1990s; conflict in Kasai region since 2016) (2022)<br>
 
 **Trafficking in persons**<br>

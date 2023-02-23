@@ -463,10 +463,10 @@ $5.164 billion (2019 est.)<br>
 <strong>note:</strong> Data are in current year dollars and do not include illicit exports or re-exports.<br>
 
 **Exports - partners**<br>
-Poland 32%, United States 17%, Ecuador 9%, China 6%, Japan 5% (2019)<br>
+Singapore 16%, US 16%, Poland 13%, Germany 12%, Ecuador 10% (2020)<br>
 
 **Exports - commodities**<br>
-ships, refined petroleum, nitrogen compounds, crustaceans, styrene polymers (2019)<br>
+refined petroleum, ships, raw aluminum, nitrogen compounds, styrene polymers (2020)<br>
 
 **Imports**<br>
 $4.924 billion (2021 est.) note: data are in current year dollars<br>
@@ -474,10 +474,10 @@ $3.411 billion (2020 est.) note: data are in current year dollars<br>
 $4.84 billion (2019 est.) note: data are in current year dollars<br>
 
 **Imports - partners**<br>
-United States 31%, South Korea 29%, Japan 14% (2019)<br>
+US 47%, Germany 11%, South Korea 8%, China 5%, Poland 4% (2020)<br>
 
 **Imports - commodities**<br>
-ships, refined petroleum, crude petroleum, recreational boats, cars (2019)<br>
+refined petroleum, ships, crude petroleum, cars, aircraft (2020)<br>
 
 **Reserves of foreign exchange and gold**<br>
 $2.433 billion (31 December 2021 est.)<br>

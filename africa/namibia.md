@@ -417,7 +417,7 @@ _selected World Heritage Site locales_: Twyfelfontein or /Ui-//aes (c); Namib Sa
 ## Economy
 
 **Economic overview**<br>
-upper middle-income Sub-Saharan economy; environmentally fragile but natural resource rich; struggling to recover from 2016 recession; pegged exchange rate to South African rand; ongoing post-apartheid land reforms; still high socioeconomic inequality<br>
+upper middle-income, export-driven Sub-Saharan economy; natural resource rich; Walvis Bay port expansion for trade; high potential for renewable power generation and energy independence; major nature-based tourist locale; natural resource rich; shortage of skilled labor<br>
 
 **Real GDP (purchasing power parity)**<br>
 $23.12 billion (2021 est.)<br>
@@ -463,10 +463,10 @@ _exports of goods and services_: 36.7% (2017 est.)<br>
 _imports of goods and services_: -47.5% (2017 est.)<br>
 
 **Agricultural products**<br>
-roots/tubers nes, milk, maize, onions, beef, grapes, fruit, pulses nes, vegetables, millet<br>
+beef, milk, grapes, millet, maize, mutton, pork, chickens, goats, wheat<br>
 
 **Industries**<br>
-meatpacking, fish processing, dairy products, pasta, beverages; mining (diamonds, lead, zinc, tin, silver, tungsten, uranium, copper)<br>
+mining, tourism, fishing, agriculture<br>
 
 **Industrial production growth rate**<br>
 1.44% (2021 est.)<br>
@@ -529,10 +529,10 @@ $3.565 billion (2020 est.) note: data are in current year dollars<br>
 $4.581 billion (2019 est.) note: data are in current year dollars<br>
 
 **Exports - partners**<br>
-China 27%, South Africa 18%, Botswana 8%, Belgium 7% (2019)<br>
+China 29%, South Africa 20%, Botswana 8%, Belgium 6%, Zambia 4% (2020)<br>
 
 **Exports - commodities**<br>
-copper, diamonds, uranium, thorium, gold, radioactive chemicals, fish (2019)<br>
+copper, gold, diamonds, uranium, fish (2020)<br>
 
 **Imports**<br>
 $6.055 billion (2021 est.) note: data are in current year dollars<br>
@@ -540,10 +540,10 @@ $4.614 billion (2020 est.) note: data are in current year dollars<br>
 $5.808 billion (2019 est.) note: data are in current year dollars<br>
 
 **Imports - partners**<br>
-South Africa 47%, Zambia 16% (2019)<br>
+South Africa 40%, Zambia 20%, Democratic Republic of the Congo 6%, China 5%, Bulgaria 3% (2020)<br>
 
 **Imports - commodities**<br>
-copper, refined petroleum, delivery trucks, diamonds, cars (2019)<br>
+copper, refined petroleum, delivery trucks, cobalt, cars (2020)<br>
 
 **Reserves of foreign exchange and gold**<br>
 $2.764 billion (31 December 2021 est.)<br>
@@ -729,5 +729,5 @@ the Namibian Defense Force (NDF) was created in 1990, largely from demobilized f
 <p><em>Namibia-Angola-Botswana</em>: concerns from international experts and local populations over the Okavango Delta ecology in Botswana and human displacement scuttled Namibian plans to construct a hydroelectric dam on Popa Falls along the Angola-Namibia border</p> <p><em>Namibia-Botswana-Zambia-Zimbabwe</em>: Namibia has supported, and in 2004 Zimbabwe dropped objections to, plans between Botswana and Zambia to build a bridge over the Zambezi River, thereby de facto recognizing a short, but not clearly delimited, Botswana-Zambia boundary in the river; the Kazungula Bridge opened to traffic in May 2021</p> <p><em>Namibia-South Africa</em>: the governments of South Africa and Namibia have not signed or ratified the text of the 1994 Surveyor's General agreement placing the boundary in the middle of the Orange River; Namibia claims a median line boundary, while South Africa supports the northern bank of the river</p> <p> </p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 6,211 (Democratic Republic of the Congo) (refugees and asylum seekers) (2022)<br>
+_refugees (country of origin)_: 6,285 (Democratic Republic of the Congo) (refugees and asylum seekers) (2022)<br>
 

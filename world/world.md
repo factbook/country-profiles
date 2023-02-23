@@ -427,8 +427,8 @@ _total subscriptions_: 901,317,598 (2020 est.)<br>
 _subscriptions per 100 inhabitants_: 11 (2021 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 7.8 billion (2020 est.)<br>
-_subscriptions per 100 inhabitants_: 106 (2020 est.)<br>
+_total subscriptions_: 8.06 billion (2021 est.)<br>
+_subscriptions per 100 inhabitants_: 110 (2021 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: Information, Communications, and Technology (ICT) is tied to economic growth; business, trade, and foreign direct investment are all based on effective sources of ICT, and development of ICT flourishes with a vigorous economy, open trade, and sound regulation; some 2020 estimates point to a digital economy worth $11.5 trillion globally, equivalent to 15.5% of global GDP (with ICT growing 2.5 times faster than global GDP over the past 15 years);&nbsp; 2020 reports indicate about 7.7 billion global mobile broadband subscriptions, rising from 3.3 billion in five years, and over 1.1 billion fixed broadband subscribers, up from 830 million in 2015<br>

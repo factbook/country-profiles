@@ -713,6 +713,6 @@ the 2013 coup resulted in the institutional collapse of the FACA; its forces wer
 <p><em>Central African Republic-South Sudan:</em> periodic violent skirmishes persist among related pastoral populations along the border with South Sudan over water and grazing rights</p> <p><em>Central African Republic-Sudan: </em>periodic violent skirmishes persist among related pastoral populations along the border with Sudan over water and grazing rights</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 6,365 (Democratic Republic of Congo) (2022)<br>
+_refugees (country of origin)_: 6,619 (Democratic Republic of Congo) (2022)<br>
 _IDPs_: 518,116 (clashes between army and rebel groups since 2005; tensions between ethnic groups) (2022)<br>
 

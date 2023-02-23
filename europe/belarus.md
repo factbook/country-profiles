@@ -723,7 +723,7 @@ Belarus has close security ties with Russia, including an integrated air and mis
 <p><em>Belarus-Latvia:</em> Boundary demarcated with Latvia.<br><br><em>Belarus-Lithuania:</em> Boundary demarcated with Lithuania.<br><br><em>Belarus-Poland:</em> As a member state that forms part of the EU's external border, Poland has implemented strict Schengen border rules to restrict illegal immigration and trade along its border with Belarus.</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 19,673 (Ukraine) (as of 24 January 2023)<br>
+_refugees (country of origin)_: 20,235 (Ukraine) (as of 7 February 2023)<br>
 _stateless persons_: 5,626 (2022)<br>
 
 **Trafficking in persons**<br>

@@ -697,7 +697,7 @@ Czech Armed Forces: Land Forces; Air Forces; Cyber Forces; Special Forces (2022)
 approximately 26,000 active personnel (20,000 Army; 6,000 Air Force) (2022)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the Czech military has a mix of Soviet-era and more modern equipment, mostly of Western European origin from such suppliers as Austria, Germany, and Spain; Czechia has a considerable domestic defense industry; during the Cold War, Czechoslovakia was a major producer of tanks, armored personnel carriers, military trucks, and trainer aircraft (2022)<br>
+the Czech military has a mix of Soviet-era and more modern equipment, mostly of Western European origin from such suppliers as Austria, Germany, and Spain; Czechia has a considerable domestic defense industry; during the Cold War, Czechoslovakia was a major producer of tanks, armored personnel carriers, military trucks, and trainer aircraft (2023)<br>
 <strong>note:</strong> in 2019, Czechia announced a modernization plan to acquire more Western equipment that was compliant with NATO standards, including aircraft and armored vehicles<br>
 
 **Military service age and obligation**<br>
@@ -717,7 +717,7 @@ Czechia joined NATO in 1999; Czechia, Hungary, and Poland were invited to begin 
 <p>none</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 487,393 (Ukraine) (as of 6 February 2023)<br>
+_refugees (country of origin)_: 489,865 (Ukraine) (as of 12 February 2023)<br>
 _stateless persons_: 1,625 (2022)<br>
 
 **Illicit drugs**<br>

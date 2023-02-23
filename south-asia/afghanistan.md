@@ -700,7 +700,7 @@ _river port(s)_: Hairatan, Qizil Qal`ah (Amu Darya)<br>
 ## Military and Security
 
 **Military and security forces**<br>
-the Taliban has established a de facto ministry of defense and named commanders and deputy commanders for 8 regional military corps; it has also formed a ministry of interior with a subordinate police force (2022)<br>
+the Taliban has established a de facto ministry of defense and a national army (aka Army of the Islamic Emirate of Afghanistan, Islamic Emirate Army, or Afghan Army); it has also formed a ministry of interior with a subordinate police force (2022)<br>
 
 **Military expenditures**<br>
 3.3% of GDP (2019) (approximately $2.35 billion)<br>

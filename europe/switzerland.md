@@ -733,7 +733,7 @@ Islamic State of Iraq and ash-Sham (ISIS)<br>
 <p>none identified</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 14,726 (Eritrea), 11,441 (Afghanistan), 8,039 (Syria), (mid-year 2022); 78,888 (Ukraine) (as of 27 January 2023)<br>
+_refugees (country of origin)_: 14,726 (Eritrea), 11,441 (Afghanistan), 8,039 (Syria), (mid-year 2022); 80,324 (Ukraine) (as of 13 February 2023)<br>
 _stateless persons_: 891 (2022)<br>
 
 **Illicit drugs**<br>

@@ -710,7 +710,7 @@ in addition to its foreign deployments the FDN was focused on internal security 
 <p>cross-border conflicts persist among Tutsi, Hutu, other ethnic groups, associated political rebels, armed gangs, and various government forces in the Great Lakes region<em><br><br>Burundi-Rwanda: </em>Burundi's Ngozi province and Rwanda's Butare province dispute the two-kilometer-square hilly farmed area of Sabanerwa in the Rukurazi Valley where the Akanyaru/Kanyaru River shifted its course southward after heavy rains in 1965 around Kibinga Hill in Rwanda's Butare Province<br><br><br></p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 87,176 (Democratic Republic of the Congo) (refugees and asylum seekers) (2022)<br>
+_refugees (country of origin)_: 87,485 (Democratic Republic of the Congo) (refugees and asylum seekers) (2022)<br>
 _IDPs_: 84,791 (some ethnic Tutsis remain displaced from intercommunal violence that broke out after the 1993 coup and fighting between government forces and rebel groups; violence since April 2015) (2022)<br>
 _stateless persons_: 767 (mid-year 2021)<br>
 

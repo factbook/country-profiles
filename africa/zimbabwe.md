@@ -628,16 +628,16 @@ _Total energy consumption per capita 2019_: 11.516 million Btu/person (2019 est.
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 252,067 (2020 est.)<br>
-_subscriptions per 100 inhabitants_: 2 (2020 est.)<br>
+_total subscriptions_: 243,421 (2021 est.)<br>
+_subscriptions per 100 inhabitants_: 2 (2021 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 13,195,900 (2019)<br>
-_subscriptions per 100 inhabitants_: 90.1 (2019)<br>
+_total subscriptions_: 14,257,589 (2021)<br>
+_subscriptions per 100 inhabitants_: 89 (2021)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: Zimbabwe&rsquo;s telcos continue to be affected by the country&rsquo;s poor economy; this has been exacerbated by the significant economic difficulties related to the pandemic; revenue has also been under pressure from a number of recent regulatory measures and additional taxes imposed by the cash-strapped government; inflation has become so high that year-on-year revenue comparisons since 2019 have been difficult to assess meaningfully; the three MNOs continue to invest in network upgrades, partly supported by government efforts and cash released from the Universal Service Fund; as a result of these investments, LTE networks have expanded steadily, though services remain concentrated in urban areas; international bandwidth has improved since fiber links to several submarine cables were established via neighboring countries; the expansion of 3G and LTE-based mobile broadband services has meant that most of the population has access to the internet; the government has started a national broadband scheme aimed at delivering a 1Mb/s service nationally by 2030; investment in fixed broadband infrastructure has also resulted in a slow but steady growth in the number of DSL connections, and also fiber subscriptions; during 2021, most growth in the fixed broadband segment has been with fiber connections (2022)<br>
-_domestic_: consists of microwave radio relay links, open-wire lines, radiotelephone communication stations, fixed wireless local loop installations, fiber-optic cable, VSAT terminals, and a substantial mobile-cellular network; Internet connection is most readily available in Harare and major towns; two government owned and two private cellular providers; fixed-line teledensity at nearly 2 per 100 and mobile-cellular nearly 89 per 100 (2020)<br>
+_domestic_: consists of microwave radio relay links, open-wire lines, radiotelephone communication stations, fixed wireless local loop installations, fiber-optic cable, VSAT terminals, and a substantial mobile-cellular network; Internet connection is most readily available in Harare and major towns; two government owned and two private cellular providers; fixed-line teledensity at nearly 2 per 100 and mobile-cellular nearly 89 per 100 (2021)<br>
 _international_: country code - 263; fiber-optic connections to neighboring states provide access to international networks via undersea cable; satellite earth stations - 2 Intelsat; 5 international digital gateway exchanges<br>
 <strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress toward 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>
 
@@ -703,7 +703,8 @@ _river port(s)_: Binga, Kariba (Zambezi)<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Zimbabwe Defense Forces (ZDF): Zimbabwe National Army (ZNA), Air Force of Zimbabwe (AFZ) (2022)<br>
+Zimbabwe Defense Forces (ZDF): Zimbabwe National Army (ZNA), Air Force of Zimbabwe (AFZ); Ministry of Home Affairs: Zimbabwe Republic Police  (2022)<br>
+<strong>note: </strong>the Office of the President may direct the Zimbabwe Police to respond to civil unrest<br>
 
 **Military expenditures**<br>
 2.6% of GDP (2019 est.) (approximately $650 million)<br>
@@ -730,7 +731,7 @@ the ZDF was formed after independence from the former Rhodesian Army and the two
 <p><em>Zimbabwe-Mozambique: none identified<br><br>Zimbabwe-South Africa: </em>South Africa has placed military units to assist police operations along the border of Lesotho, Zimbabwe, and Mozambique to control smuggling, poaching, and illegal migration<em><br><br>Zimbabwe-Zambia: </em>in 2004, Zimbabwe dropped objections to plans between Botswana and Zambia to build a bridge over the Zambezi River, thereby de facto recognizing a short, but not clearly delimited, Botswana-Zambia boundary in the river; in May 2021, Botswana and Zambia agreed in principle to let Zimbabwe be a partner in the bridge project as it enters its lasts phase</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 11,728 (Democratic Republic of Congo) (refugees and asylum seekers), 9,887 (Mozambique) (2022)<br>
+_refugees (country of origin)_: 12,360 (Democratic Republic of Congo) (refugees and asylum seekers), 9,887 (Mozambique) (2022)<br>
 
 **Trafficking in persons**<br>
 _tier rating_: Tier 3 - Zimbabwe does not fully comply with the minimum standards for the elimination of trafficking and is not making significant efforts to do so; the government passed an anti-trafficking law in 2014 defining trafficking in persons as a crime of transportation and failing to capture the key element of the international definition of human trafficking – the purpose of exploitation – which prevents the law from being comprehensive or consistent with the 2000 UN TIP Protocol that Zimbabwe acceded to in 2013; the government did not report on anti-trafficking law enforcement efforts during 2014, and corruption in law enforcement and the judiciary remain a concern; authorities made minimal efforts to identify and protect trafficking victims, relying on NGOs to identify and assist victims; Zimbabwe’s 2014 anti-trafficking law required the opening of 10 centers for trafficking victims, but none were established during the year; five existing shelters for vulnerable children and orphans may have accommodated child victims; in January 2015, an inter-ministerial anti-trafficking committee was established, but it is unclear if the committee ever met or initiated any activities (2015)<br>

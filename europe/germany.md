@@ -409,7 +409,7 @@ _selected World Heritage Site locales_: Museumsinsel (Museum Island), Berlin (c)
 ## Economy
 
 **Economic overview**<br>
-leading EU services-based export-driven economy; COVID-19 disrupted its modern manufacturing sector; highly skilled and educated labor force; positive current account balances; increasing public debt; low defense spending; second Russian gas pipeline<br>
+leading EU service-based export-driven economy; highly skilled and educated labor force; fairly fiscally conservative; energy-related economic disruptions due to Russian gas cessations; increased defense spending and rising debts<br>
 
 **Real GDP (purchasing power parity)**<br>
 $4.424 trillion (2021 est.)<br>
@@ -456,10 +456,10 @@ _exports of goods and services_: 47.3% (2017 est.)<br>
 _imports of goods and services_: -39.7% (2017 est.)<br>
 
 **Agricultural products**<br>
-milk, sugar beets, wheat, barley, potatoes, pork, maize, rye, rapeseed, triticale<br>
+milk, pork, wheat, beef, potatoes, barley, rapeseeds, chicken, eggs, sugar beets<br>
 
 **Industries**<br>
-among the world's largest and most technologically advanced producers of iron, steel, coal, cement, chemicals, machinery, vehicles, machine tools, electronics, automobiles, food and beverages, shipbuilding, textiles<br>
+automotive, mechanical engineering, chemicals, electrical and batteries, manufacturing, metals, finance and banking, telecommunications, healthcare, retail<br>
 
 **Industrial production growth rate**<br>
 3.61% (2021 est.)<br>
@@ -521,10 +521,10 @@ $1.676 trillion (2020 est.) note: data are in current year dollars<br>
 $1.816 trillion (2019 est.) note: data are in current year dollars<br>
 
 **Exports - partners**<br>
-United States 9%, France 8%, China 7%, Netherlands 6%, United Kingdom 6%, Italy 5%, Poland 5%, Austria 5% (2019)<br>
+United States 9%, China 8%, France 8%, Netherlands 6%, United Kingdom 6%&nbsp; (2020)<br>
 
 **Exports - commodities**<br>
-cars and vehicle parts, packaged medicines, aircraft, medical cultures/vaccines, industrial machinery (2019)<br>
+cars and vehicle parts, packaged medicines, medical cultures/vaccines, aircraft, industrial machinery (2020)<br>
 
 **Imports**<br>
 $1.775 trillion (2021 est.) note: data are in current year dollars<br>
@@ -532,10 +532,10 @@ $1.454 trillion (2020 est.) note: data are in current year dollars<br>
 $1.595 trillion (2019 est.) note: data are in current year dollars<br>
 
 **Imports - partners**<br>
-Netherlands 9%, China 8%, France 7%, Belgium 6%, Poland 6%, Italy 6%, Czechia 5%, United States 5% (2019)<br>
+China 10%, Netherlands 10%, Poland 7%, France 6%, Italy 6%&nbsp; (2020)<br>
 
 **Imports - commodities**<br>
-cars and vehicle parts, packaged medicines, crude petroleum, refined petroleum, medical cultures/vaccines (2019)<br>
+cars and vehicle parts, packaged medicines, broadcasting equipment, medical cultures/vaccines, computers (2020)<br>
 
 **Reserves of foreign exchange and gold**<br>
 $295.736 billion (31 December 2021 est.)<br>

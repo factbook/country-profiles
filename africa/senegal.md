@@ -726,7 +726,7 @@ Senegalese Armed Forces (les Forces Armées Sénégalaises, FAS): Army, Senegale
 approximately 19,000 active personnel (12,000 Army; 1,000 Navy/Coast Guard; 1,000 Air Force; 5,000 National Gendarmerie) (2022)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the FAS inventory includes mostly older or secondhand equipment from a variety of countries, including France, South Africa, and Russia/former Soviet Union; in recent years, the FAS has undertaken a modernization program and has received small amounts of newer equipment from more than 10 countries, with France as the leading supplier (2022)<br>
+the FAS inventory includes mostly older or secondhand equipment from a variety of countries, including France, South Africa, and Russia/former Soviet Union; in recent years, the FAS has undertaken a modernization program and has received small amounts of newer equipment from more than 10 countries, with France as the leading supplier (2023)<br>
 
 **Military service age and obligation**<br>
 18 years of age for voluntary military service for men and women; 20 years of age for selective conscript service; 2-year service obligation; women have been accepted into military service since 2008 (2022)<br>
@@ -735,7 +735,7 @@ the FAS inventory includes mostly older or secondhand equipment from a variety o
 750 Gambia (ECOMIG); 970 Mali (MINUSMA); note - Senegal also has about 1,100 police deployed on various UN peacekeeping missions (2022)<br>
 
 **Military - note**<br>
-Senegalese security forces continue to be engaged in a low-level counterinsurgency campaign in the southern Casamance region against various factions of the separatist Movement of Democratic Forces of the Casamance (MDFC); while violent incidents have decreased since a tacit cease-fire was reached in 2012, the insurgency, which began in 1982, continued as of mid-2022 and remained one of longest running low-level conflicts in the world, claiming more than 5,000 lives and leaving another 60,000 displaced (2022)<br>
+Senegalese security forces are engaged in a low-level counterinsurgency campaign in the southern Casamance region against various factions of the separatist Movement of Democratic Forces of the Casamance (MDFC); while violent incidents have decreased since a tacit cease-fire was reached in 2012, the insurgency, which began in 1982, continued as of late 2022 and remained one of longest running low-level conflicts in the world, claiming more than 5,000 lives and leaving another 60,000 displaced (2022)<br>
 <strong>note: </strong>in August 2022, a representative of the Senegalese Government and a leader of the MFDC signed an agreement in which the MFDC pledged to lay down its arms and work towards a permanent peace<br>
 
 ## Terrorism
