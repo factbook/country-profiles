@@ -77,7 +77,7 @@ this small country is swampy along its western coast and low-lying inland<br>
 ## People and Society
 
 **Population**<br>
-2,026,778 (2022 est.)<br>
+2,078,820 (2023 est.)<br>
 
 **Nationality**<br>
 _noun_: Bissau-Guinean(s)<br>
@@ -96,11 +96,9 @@ Muslim 46.1%, folk religions 30.6%, Christian 18.9%, other or unaffiliated 4.4% 
 <p>Guinea-Bissau’s young and growing population is sustained by high fertility; approximately 60% of the population is under the age of 25 as of 2020. Its large reproductive-age population and total fertility rate of more than 4 children per woman offsets the country’s high infant and maternal mortality rates. The latter is among the world’s highest because of the prevalence of early childbearing, a lack of birth spacing, the high percentage of births outside of health care facilities, and a shortage of medicines and supplies.</p> <p>Guinea-Bissau’s history of political instability, a civil war, and several coups (the latest in 2012) have resulted in a fragile state with a weak economy, high unemployment, rampant corruption, widespread poverty, and thriving drug and child trafficking. With the country lacking educational infrastructure, school funding and materials, and qualified teachers, and with the cultural emphasis placed on religious education, parents frequently send boys to study in residential Koranic schools (daaras) in Senegal and The Gambia. They often are extremely deprived and are forced into street begging or agricultural work by marabouts (Muslim religious teachers), who enrich themselves at the expense of the children. Boys who leave their marabouts often end up on the streets of Dakar or other large Senegalese towns and are vulnerable to even worse abuse.</p> <p>Some young men lacking in education and job prospects become involved in the flourishing international drug trade. Local drug use and associated violent crime are growing.</p><br>
 
 **Age structure**<br>
-_0-14 years_: 43.17% (male 417,810/female 414,105)<br>
-_15-24 years_: 20.38% (male 192,451/female 200,370)<br>
-_25-54 years_: 30.24% (male 275,416/female 307,387)<br>
-_55-64 years_: 3.12% (male 29,549/female 30,661)<br>
-_65 years and over_: 3.08% (male 25,291/female 34,064) (2020 est.)<br>
+_0-14 years_: 42.51% (male 444,214/female 439,517)<br>
+_15-64 years_: 54.38% (male 545,116/female 585,284)<br>
+_65 years and over_: 3.11% (2023 est.) (male 26,890/female 37,799)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 76.6<br>
@@ -114,16 +112,16 @@ _male_: 17.4 years<br>
 _female_: 18.6 years (2020 est.)<br>
 
 **Population growth rate**<br>
-2.53% (2022 est.)<br>
+2.54% (2023 est.)<br>
 
 **Birth rate**<br>
-36.45 births/1,000 population (2022 est.)<br>
+36.25 births/1,000 population (2023 est.)<br>
 
 **Death rate**<br>
-7.5 deaths/1,000 population (2022 est.)<br>
+7.32 deaths/1,000 population (2023 est.)<br>
 
 **Net migration rate**<br>
--3.63 migrant(s)/1,000 population (2022 est.)<br>
+-3.54 migrant(s)/1,000 population (2023 est.)<br>
 
 **Population distribution**<br>
 approximately one-fifth of the population lives in the capital city of Bissau along the Atlantic coast; the remainder is distributed among the eight other, mainly rural, regions as shown in this population distribution map<br>
@@ -138,27 +136,25 @@ _rate of urbanization_: 3.22% annual rate of change (2020-25 est.)<br>
 **Sex ratio**<br>
 _at birth_: 1.03 male(s)/female<br>
 _0-14 years_: 1.01 male(s)/female<br>
-_15-24 years_: 0.96 male(s)/female<br>
-_25-54 years_: 0.91 male(s)/female<br>
-_55-64 years_: 1.1 male(s)/female<br>
-_65 years and over_: 0.7 male(s)/female<br>
-_total population_: 0.96 male(s)/female (2022 est.)<br>
+_15-64 years_: 0.93 male(s)/female<br>
+_65 years and over_: 0.71 male(s)/female<br>
+_total population_: 0.96 male(s)/female (2023 est.)<br>
 
 **Maternal mortality ratio**<br>
 667 deaths/100,000 live births (2017 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 49.05 deaths/1,000 live births<br>
-_male_: 54.84 deaths/1,000 live births<br>
-_female_: 43.08 deaths/1,000 live births (2022 est.)<br>
+_total_: 47.69 deaths/1,000 live births<br>
+_male_: 53.39 deaths/1,000 live births<br>
+_female_: 41.82 deaths/1,000 live births (2023 est.)<br>
 
 **Life expectancy at birth**<br>
-_total population_: 63.68 years<br>
-_male_: 61.45 years<br>
-_female_: 65.99 years (2022 est.)<br>
+_total population_: 64.1 years<br>
+_male_: 61.84 years<br>
+_female_: 66.42 years (2023 est.)<br>
 
 **Total fertility rate**<br>
-4.69 children born/woman (2022 est.)<br>
+4.65 children born/woman (2023 est.)<br>
 
 **Gross reproduction rate**<br>
 2.29 (2023 est.)<br>
@@ -672,7 +668,7 @@ the FARP is poorly armed with an inventory consisting of Soviet-era equipment, m
 18-25 years of age for selective compulsory military service (Air Force service is voluntary); 16 years of age or younger, with parental consent, for voluntary service (2022)<br>
 
 **Military - note**<br>
-from 2012-2020, the Economic Community of West Africa (ECOWAS) deployed a security force to Guinea-Bissau to manage the post-coup transition, including protecting key political figures and public buildings, restoring civil institutions, and re-establishing the rule of law; at the height of the deployment, the force, known as the ECOWAS Mission in Guinea-Bissau (ECOMIB), deployed nearly 700 military and police personnel from Burkina Faso, Nigeria, and Senegal (2022)<br>
+the FARP is focused on external security, but also has some internal security duties, and it has been influential in the country’s politics since independence was gained in 1974, having staged at least nine coups as well as several mutinies; FARP members were suspected of coup plotting as recently as 2021, and the military has been accused of involvement in narcotics trafficking; since the 2000s, the FARP has undergone various attempts at defense and security sector reforms with limited success under the auspices of the African Union, the EU, the Economic Community of West Africa (ECOWAS), and the UN <br><br>from 2012-2020, ECOWAS deployed a security force to Guinea-Bissau to manage the post-coup transition, including protecting key political figures and public buildings, restoring civil institutions, and re-establishing the rule of law; at the height of the deployment, the force, known as the ECOWAS Mission in Guinea-Bissau (ECOMIB), deployed nearly 700 military and police personnel from Burkina Faso, Nigeria, and Senegal (2023)<br>
 
 ## Transnational Issues
 

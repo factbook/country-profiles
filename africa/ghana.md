@@ -82,7 +82,7 @@ Lake Volta is the world's largest artificial lake (manmade reservoir) by surface
 ## People and Society
 
 **Population**<br>
-33,107,275 (2022 est.)<br>
+33,846,114 (2023 est.)<br>
 
 **Nationality**<br>
 _noun_: Ghanaian(s)<br>
@@ -102,11 +102,9 @@ Christian 71.3% (Pentecostal/Charismatic 31.6%, Protestant 17.4%, Catholic 10%, 
 <p>Ghana has a young age structure, with approximately 56% of the population under the age of 25 as of 2020. Its total fertility rate fell significantly during the 1980s and 1990s but has stalled at around four children per woman for the last few years. Fertility remains higher in the northern region than the Greater Accra region. On average, desired fertility has remained stable for several years; urban dwellers want fewer children than rural residents. Increased life expectancy, due to better health care, nutrition, and hygiene, and reduced fertility have increased Ghana’s share of elderly persons; Ghana’s proportion of persons aged 60+ is among the highest in Sub-Saharan Africa. Poverty has declined in Ghana, but it remains pervasive in the northern region, which is susceptible to droughts and floods and has less access to transportation infrastructure, markets, fertile farming land, and industrial centers. The northern region also has lower school enrollment, higher illiteracy, and fewer opportunities for women.</p> <p>Ghana was a country of immigration in the early years after its 1957 independence, attracting labor migrants largely from Nigeria and other neighboring countries to mine minerals and harvest cocoa – immigrants composed about 12% of Ghana’s population in 1960. In the late 1960s, worsening economic and social conditions discouraged immigration, and hundreds of thousands of immigrants, mostly Nigerians, were expelled.</p> <p>During the 1970s, severe drought and an economic downturn transformed Ghana into a country of emigration; neighboring Cote d’Ivoire was the initial destination. Later, hundreds of thousands of Ghanaians migrated to Nigeria to work in its booming oil industry, but most were deported in 1983 and 1985 as oil prices plummeted. Many Ghanaians then turned to more distant destinations, including other parts of Africa, Europe, and North America, but the majority continued to migrate within West Africa. Since the 1990s, increased emigration of skilled Ghanaians, especially to the US and the UK, drained the country of its health care and education professionals. Internally, poverty and other developmental disparities continue to drive Ghanaians from the north to the south, particularly to its urban centers.</p><br>
 
 **Age structure**<br>
-_0-14 years_: 37.44% (male 5,524,932/female 5,460,943)<br>
-_15-24 years_: 18.64% (male 2,717,481/female 2,752,601)<br>
-_25-54 years_: 34.27% (male 4,875,985/female 5,177,959)<br>
-_55-64 years_: 5.21% (male 743,757/female 784,517)<br>
-_65 years and over_: 4.44% (male 598,387/female 703,686) (2020 est.)<br>
+_0-14 years_: 37.72% (male 6,445,288/female 6,321,989)<br>
+_15-64 years_: 57.92% (male 9,420,940/female 10,181,376)<br>
+_65 years and over_: 4.36% (2023 est.) (male 660,991/female 815,530)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 68.7<br>
@@ -120,16 +118,16 @@ _male_: 21 years<br>
 _female_: 21.9 years (2020 est.)<br>
 
 **Population growth rate**<br>
-2.23% (2022 est.)<br>
+2.19% (2023 est.)<br>
 
 **Birth rate**<br>
-28.55 births/1,000 population (2022 est.)<br>
+28.04 births/1,000 population (2023 est.)<br>
 
 **Death rate**<br>
-6.14 deaths/1,000 population (2022 est.)<br>
+5.99 deaths/1,000 population (2023 est.)<br>
 
 **Net migration rate**<br>
--0.16 migrant(s)/1,000 population (2022 est.)<br>
+-0.16 migrant(s)/1,000 population (2023 est.)<br>
 
 **Population distribution**<br>
 population is concentrated in the southern half of the country, with the highest concentrations being on or near the Atlantic coast as shown in this population distribution map<br>
@@ -144,11 +142,9 @@ _rate of urbanization_: 3.06% annual rate of change (2020-25 est.)<br>
 **Sex ratio**<br>
 _at birth_: 1.03 male(s)/female<br>
 _0-14 years_: 1.02 male(s)/female<br>
-_15-24 years_: 0.99 male(s)/female<br>
-_25-54 years_: 0.89 male(s)/female<br>
-_55-64 years_: 0.88 male(s)/female<br>
-_65 years and over_: 0.72 male(s)/female<br>
-_total population_: 0.95 male(s)/female (2022 est.)<br>
+_15-64 years_: 0.93 male(s)/female<br>
+_65 years and over_: 0.81 male(s)/female<br>
+_total population_: 0.95 male(s)/female (2023 est.)<br>
 
 **Mother's mean age at first birth**<br>
 20.7 years (2014 est.)<br>
@@ -158,17 +154,17 @@ _total population_: 0.95 male(s)/female (2022 est.)<br>
 308 deaths/100,000 live births (2017 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 32.59 deaths/1,000 live births<br>
-_male_: 36.05 deaths/1,000 live births<br>
-_female_: 29.03 deaths/1,000 live births (2022 est.)<br>
+_total_: 31.87 deaths/1,000 live births<br>
+_male_: 35.25 deaths/1,000 live births<br>
+_female_: 28.38 deaths/1,000 live births (2023 est.)<br>
 
 **Life expectancy at birth**<br>
-_total population_: 69.37 years<br>
-_male_: 67.7 years<br>
-_female_: 71.09 years (2022 est.)<br>
+_total population_: 69.72 years<br>
+_male_: 68.06 years<br>
+_female_: 71.44 years (2023 est.)<br>
 
 **Total fertility rate**<br>
-3.66 children born/woman (2022 est.)<br>
+3.61 children born/woman (2023 est.)<br>
 
 **Gross reproduction rate**<br>
 1.78 (2023 est.)<br>
@@ -732,7 +728,7 @@ the military's inventory is a mix of Russian, Chinese, and Western equipment; in
 <strong>note:</strong> since sending a contingent of troops to the Congo in 1960, the military has been a regular contributor to African- and UN-sponsored peacekeeping missions<br>
 
 **Military - note**<br>
-the primary missions for the Ghanaian military include assisting other security services with internal security and patrolling the country’s economic exclusion zone, which has led to efforts to expand the Navy’s capabilities in recent years; in 2022, Ghana beefed up its military presence in the north of the country against threats from the terrorist organization Jama’at Nasr al-Islam wal Muslimin (JNIM), a coalition of al-Qa'ida linked militant groups, which has conducted attacks in the neighboring countries of Burkina Faso, Cote d'Ivoire, and Togo<br><br>the military of Ghana traces its origins to the Gold Coast Constabulary that was established in 1879 and renamed the Gold Coast Regiment in 1901; the Gold Coast Regiment was part of the West African Frontier Force (WAFF), a multi-regiment force formed by the British colonial office in 1900 to garrison the West African colonies of Gold Coast (Ghana), Nigeria (Lagos and the protectorates of Northern and Southern Nigeria), Sierra Leone, and Gambia; the WAFF served with distinction in both East and West Africa during World War I; in 1928, it received royal recognition and was re-named the Royal West African Frontier Force (RWAFF); the RWAFF went on to serve in World War II as part of the British 81st and 82nd (West African) divisions in the East Africa and Burma campaigns; following independence in 1957, the Gold Coast Regiment formed the basis for the new Ghanaian Army (2022)<br>
+the Ghanaian military’s primary missions are external/border defense, assisting with internal security, and protecting the country’s territorial waters, particularly its offshore oil and gas infrastructure; it has benefited from cooperation with foreign partners, such as the UK and the US, and experience gained from participation in multiple international peacekeeping missions; the government in recent years has committed to an increase in funding for equipment acquisitions, including armored vehicles and special forces capabilities for the Army, light attack aircraft for the Air Force, and more modern coastal patrol vessels for the Navy<br><br>in 2022, Ghana began beefing up its military presence in the north of the country against threats from the terrorist organization Jama’at Nasr al-Islam wal Muslimin (JNIM), a coalition of al-Qa'ida-linked militant groups which has conducted attacks in the neighboring countries of Burkina Faso, Cote d'Ivoire, and Togo; Ghana’s northern frontier with Burkina Faso is also an area with well-established smuggling routes, porous borders, and illegal gold mining; Ghana has pushed an initiative to bolster security cooperation and intelligence sharing among Gulf of Guinea neighbors and Sahel countries <br><br>the military traces its origins to the Gold Coast Constabulary that was established in 1879 and renamed the Gold Coast Regiment in 1901; the Gold Coast Regiment was part of the West African Frontier Force (WAFF), a multi-regiment force formed by the British colonial office in 1900 to garrison the West African colonies of Gold Coast (Ghana), Nigeria (Lagos and the protectorates of Northern and Southern Nigeria), Sierra Leone, and Gambia; the WAFF served with distinction in both East and West Africa during World War I; in 1928, it received royal recognition and was re-named the Royal West African Frontier Force (RWAFF); the RWAFF went on to serve in World War II as part of the British 81st and 82nd (West African) divisions in the East Africa and Burma campaigns; following independence in 1957, the Gold Coast Regiment formed the basis for the new Ghanaian Army (2023)<br>
 
 **Maritime threats**<br>
 <p>the International Maritime Bureau reports the territorial and offshore waters in the Niger Delta and Gulf of Guinea remain a very high risk for piracy and armed robbery of ships; in 2021, there were 34 reported incidents of piracy and armed robbery at sea in the Gulf of Guinea region; although a significant decrease from the total number of 81 incidents in 2020, it included the one hijacking and three of five ships fired upon worldwide; while boarding and attempted boarding to steal valuables from ships and crews are the most common types of incidents, almost a third of all incidents involve a hijacking and/or kidnapping; in 2021, 57 crew members were kidnapped in seven separate incidents in the Gulf of Guinea, representing 100% of kidnappings worldwide; Nigerian pirates in particular are well armed and very aggressive, operating as far as 200 nm offshore; the Maritime Administration of the US Department of Transportation has issued a Maritime Advisory (2022-001 - Gulf of Guinea-Piracy/Armed Robbery/Kidnapping for Ransom) effective 4 January 2022, which states in part, "Piracy, armed robbery, and kidnapping for ransom continue to serve as significant threats to US-flagged vessels transiting or operating in the Gulf of Guinea"</p><br>

@@ -73,7 +73,7 @@ Nauru is the third-smallest country in the world behind the Holy See (Vatican Ci
 ## People and Society
 
 **Population**<br>
-9,811 (2022 est.)<br>
+9,852 (2023 est.)<br>
 
 **Nationality**<br>
 _noun_: Nauruan(s)<br>
@@ -90,11 +90,9 @@ Nauruan 93% (official, a distinct Pacific Island language), English 2% (widely u
 Protestant 60.4% (includes Nauru Congregational 35.7%, Assembly of God 13%, Nauru Independent Church 9.5%, Baptist 1.5%, and Seventh Day Adventist 0.7%), Roman Catholic 33%, other 3.7%, none 1.8%, unspecified 1.1% (2011 est.)<br>
 
 **Age structure**<br>
-_0-14 years_: 30.87% (male 1,337/female 1,684)<br>
-_15-24 years_: 15.68% (male 732/female 806)<br>
-_25-54 years_: 42.57% (male 2,115/female 2,050)<br>
-_55-64 years_: 6.97% (male 283/female 401)<br>
-_65 years and over_: 3.94% (male 133/female 254) (2022 est.)<br>
+_0-14 years_: 30.13% (male 1,513/female 1,455)<br>
+_15-64 years_: 65.65% (male 3,183/female 3,285)<br>
+_65 years and over_: 4.22% (2023 est.) (male 141/female 275)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 69.9<br>
@@ -108,16 +106,16 @@ _male_: 28.2 years<br>
 _female_: 25.9 years (2020 est.)<br>
 
 **Population growth rate**<br>
-0.42% (2022 est.)<br>
+0.42% (2023 est.)<br>
 
 **Birth rate**<br>
-21.1 births/1,000 population (2022 est.)<br>
+20.71 births/1,000 population (2023 est.)<br>
 
 **Death rate**<br>
-6.32 deaths/1,000 population (2022 est.)<br>
+6.39 deaths/1,000 population (2023 est.)<br>
 
 **Net migration rate**<br>
--10.6 migrant(s)/1,000 population (2022 est.)<br>
+-10.15 migrant(s)/1,000 population (2023 est.)<br>
 
 **Population distribution**<br>
 extensive phosphate mining made approximately 90% of the island unsuitable for farming; most people live in the fertile coastal areas, especially along the southwest coast<br>
@@ -129,24 +127,22 @@ _rate of urbanization_: 0.18% annual rate of change (2020-25 est.)<br>
 **Sex ratio**<br>
 _at birth_: 1.04 male(s)/female<br>
 _0-14 years_: 1.04 male(s)/female<br>
-_15-24 years_: 0.91 male(s)/female<br>
-_25-54 years_: 1.03 male(s)/female<br>
-_55-64 years_: 0.7 male(s)/female<br>
+_15-64 years_: 0.97 male(s)/female<br>
 _65 years and over_: 0.51 male(s)/female<br>
-_total population_: 0.96 male(s)/female (2022 est.)<br>
+_total population_: 0.96 male(s)/female (2023 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 7.84 deaths/1,000 live births<br>
-_male_: 10.1 deaths/1,000 live births<br>
-_female_: 5.5 deaths/1,000 live births (2022 est.)<br>
+_total_: 7.72 deaths/1,000 live births<br>
+_male_: 9.94 deaths/1,000 live births<br>
+_female_: 5.41 deaths/1,000 live births (2023 est.)<br>
 
 **Life expectancy at birth**<br>
-_total population_: 67.93 years<br>
-_male_: 64.38 years<br>
-_female_: 71.62 years (2022 est.)<br>
+_total population_: 68.25 years<br>
+_male_: 64.69 years<br>
+_female_: 71.95 years (2023 est.)<br>
 
 **Total fertility rate**<br>
-2.62 children born/woman (2022 est.)<br>
+2.58 children born/woman (2023 est.)<br>
 
 **Gross reproduction rate**<br>
 1.27 (2023 est.)<br>

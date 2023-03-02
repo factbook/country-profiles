@@ -73,7 +73,7 @@ strategic location in the North Pacific Ocean<br>
 ## People and Society
 
 **Population**<br>
-51,475 (2022 est.)<br>
+51,295 (2023 est.)<br>
 
 **Nationality**<br>
 _noun_: NA (US citizens)<br>
@@ -89,11 +89,9 @@ Philippine languages 32.8%, Chamorro (official) 24.1%, English (official) 17%, o
 Christian (Roman Catholic majority, although traditional beliefs and taboos may still be found)<br>
 
 **Age structure**<br>
-_0-14 years_: 25.02% (male 6,937/female 5,934)<br>
-_15-24 years_: 16.28% (male 4,518/female 3,857)<br>
-_25-54 years_: 37.44% (male 9,934/female 9,325)<br>
-_55-64 years_: 14.01% (male 3,921/female 3,286)<br>
-_65 years and over_: 7.23% (male 1,988/female 1,733) (2020 est.)<br>
+_0-14 years_: 22.61% (male 6,232/female 5,367)<br>
+_15-64 years_: 67.95% (male 18,367/female 16,490)<br>
+_65 years and over_: 9.43% (2023 est.) (male 2,560/female 2,279)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 46<br>
@@ -107,16 +105,16 @@ _male_: 31.8 years<br>
 _female_: 34.1 years (2020 est.)<br>
 
 **Population growth rate**<br>
--0.35% (2022 est.)<br>
+-0.35% (2023 est.)<br>
 
 **Birth rate**<br>
-15.5 births/1,000 population (2022 est.)<br>
+15.6 births/1,000 population (2023 est.)<br>
 
 **Death rate**<br>
-5.44 deaths/1,000 population (2022 est.)<br>
+5.58 deaths/1,000 population (2023 est.)<br>
 
 **Net migration rate**<br>
--13.6 migrant(s)/1,000 population (2022 est.)<br>
+-13.51 migrant(s)/1,000 population (2023 est.)<br>
 
 **Population distribution**<br>
 approximately 90% of the population lives on the island of Saipan<br>
@@ -131,24 +129,22 @@ _rate of urbanization_: 0.36% annual rate of change (2020-25 est.)<br>
 **Sex ratio**<br>
 _at birth_: 1.17 male(s)/female<br>
 _0-14 years_: 1.16 male(s)/female<br>
-_15-24 years_: 1.18 male(s)/female<br>
-_25-54 years_: 1.09 male(s)/female<br>
-_55-64 years_: 1.18 male(s)/female<br>
-_65 years and over_: 0.89 male(s)/female<br>
-_total population_: 1.13 male(s)/female (2022 est.)<br>
+_15-64 years_: 1.11 male(s)/female<br>
+_65 years and over_: 1.12 male(s)/female<br>
+_total population_: 1.13 male(s)/female (2023 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 12.48 deaths/1,000 live births<br>
-_male_: 15.13 deaths/1,000 live births<br>
-_female_: 9.38 deaths/1,000 live births (2022 est.)<br>
+_total_: 12.17 deaths/1,000 live births<br>
+_male_: 14.75 deaths/1,000 live births<br>
+_female_: 9.16 deaths/1,000 live births (2023 est.)<br>
 
 **Life expectancy at birth**<br>
-_total population_: 76.58 years<br>
-_male_: 74.48 years<br>
-_female_: 79.03 years (2022 est.)<br>
+_total population_: 76.83 years<br>
+_male_: 74.75 years<br>
+_female_: 79.27 years (2023 est.)<br>
 
 **Total fertility rate**<br>
-2.63 children born/woman (2022 est.)<br>
+2.59 children born/woman (2023 est.)<br>
 
 **Gross reproduction rate**<br>
 1.2 (2023 est.)<br>

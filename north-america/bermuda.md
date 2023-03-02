@@ -73,7 +73,7 @@ consists of about 138 coral islands and islets with ample rainfall, but no river
 ## People and Society
 
 **Population**<br>
-72,337 (2022 est.)<br>
+72,576 (2023 est.)<br>
 
 **Nationality**<br>
 _noun_: Bermudian(s)<br>
@@ -89,11 +89,9 @@ English (official), Portuguese<br>
 Protestant 46.2% (includes Anglican 15.8%, African Methodist Episcopal 8.6%, Seventh Day Adventist 6.7, Pentecostal 3.5%, Methodist 2.7%, Presbyterian 2.0%, Church of God 1.6%, Baptist 1.2%, Salvation Army 1.1%, Brethren 1.0%, other Protestant 2.0%), Roman Catholic 14.5%, Jehovah's Witness 1.3%, other Christian 9.1%, Muslim 1%, other 3.9%, none 17.8%, unspecified 6.2% (2010 est.)<br>
 
 **Age structure**<br>
-_0-14 years_: 16.7% (male 6,053/female 5,928)<br>
-_15-24 years_: 11.88% (male 4,290/female 4,235)<br>
-_25-54 years_: 35.31% (male 12,758/female 12,575)<br>
-_55-64 years_: 16.37% (male 5,560/female 6,185)<br>
-_65 years and over_: 19.74% (male 6,032/female 8,134) (2020 est.)<br>
+_0-14 years_: 16.45% (male 6,126/female 5,815)<br>
+_15-64 years_: 61.66% (male 22,401/female 22,347)<br>
+_65 years and over_: 21.89% (2023 est.) (male 6,763/female 9,124)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 52.9<br>
@@ -107,16 +105,16 @@ _male_: 41.6 years<br>
 _female_: 45.7 years (2020 est.)<br>
 
 **Population growth rate**<br>
-0.34% (2022 est.)<br>
+0.32% (2023 est.)<br>
 
 **Birth rate**<br>
-11.03 births/1,000 population (2022 est.)<br>
+10.97 births/1,000 population (2023 est.)<br>
 
 **Death rate**<br>
-9.11 deaths/1,000 population (2022 est.)<br>
+9.2 deaths/1,000 population (2023 est.)<br>
 
 **Net migration rate**<br>
-1.49 migrant(s)/1,000 population (2022 est.)<br>
+1.43 migrant(s)/1,000 population (2023 est.)<br>
 
 **Population distribution**<br>
 relatively even population distribution throughout<br>
@@ -131,24 +129,22 @@ _rate of urbanization_: -0.2% annual rate of change (2020-25 est.)<br>
 **Sex ratio**<br>
 _at birth_: 1.05 male(s)/female<br>
 _0-14 years_: 1.05 male(s)/female<br>
-_15-24 years_: 1.06 male(s)/female<br>
-_25-54 years_: 1.02 male(s)/female<br>
-_55-64 years_: 0.91 male(s)/female<br>
-_65 years and over_: 0.6 male(s)/female<br>
-_total population_: 0.95 male(s)/female (2022 est.)<br>
+_15-64 years_: 1 male(s)/female<br>
+_65 years and over_: 0.74 male(s)/female<br>
+_total population_: 0.95 male(s)/female (2023 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 2.19 deaths/1,000 live births<br>
-_male_: 2.51 deaths/1,000 live births<br>
-_female_: 1.86 deaths/1,000 live births (2022 est.)<br>
+_total_: 2.17 deaths/1,000 live births<br>
+_male_: 2.48 deaths/1,000 live births<br>
+_female_: 1.84 deaths/1,000 live births (2023 est.)<br>
 
 **Life expectancy at birth**<br>
-_total population_: 82.04 years<br>
-_male_: 78.96 years<br>
-_female_: 85.28 years (2022 est.)<br>
+_total population_: 82.25 years<br>
+_male_: 79.18 years<br>
+_female_: 85.47 years (2023 est.)<br>
 
 **Total fertility rate**<br>
-1.9 children born/woman (2022 est.)<br>
+1.89 children born/woman (2023 est.)<br>
 
 **Gross reproduction rate**<br>
 0.92 (2023 est.)<br>

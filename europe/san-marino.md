@@ -69,7 +69,7 @@ landlocked; an enclave of (completely surrounded by) Italy; smallest independent
 ## People and Society
 
 **Population**<br>
-34,682 (2022 est.)<br>
+34,892 (2023 est.)<br>
 
 **Nationality**<br>
 _noun_: Sammarinese (singular and plural)<br>
@@ -86,11 +86,9 @@ _major-language sample(s)_: <br>L'Almanacco dei fatti del mondo, l'indispensabil
 Roman Catholic<br>
 
 **Age structure**<br>
-_0-14 years_: 14.73% (male 2,662/female 2,379)<br>
-_15-24 years_: 11.64% (male 2,091/female 1,894)<br>
-_25-54 years_: 39.12% (male 6,310/female 7,081)<br>
-_55-64 years_: 14.28% (male 2,367/female 2,520)<br>
-_65 years and over_: 20.24% (male 3,123/female 3,805) (2020 est.)<br>
+_0-14 years_: 14.34% (male 2,615/female 2,388)<br>
+_15-64 years_: 64.58% (male 10,906/female 11,628)<br>
+_65 years and over_: 21.08% (2023 est.) (male 3,329/female 4,026)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 49.6<br>
@@ -104,16 +102,16 @@ _male_: 43.9 years<br>
 _female_: 46.3 years (2020 est.)<br>
 
 **Population growth rate**<br>
-0.61% (2022 est.)<br>
+0.59% (2023 est.)<br>
 
 **Birth rate**<br>
-8.85 births/1,000 population (2022 est.)<br>
+8.88 births/1,000 population (2023 est.)<br>
 
 **Death rate**<br>
-8.82 deaths/1,000 population (2022 est.)<br>
+8.83 deaths/1,000 population (2023 est.)<br>
 
 **Net migration rate**<br>
-6.11 migrant(s)/1,000 population (2022 est.)<br>
+5.88 migrant(s)/1,000 population (2023 est.)<br>
 
 **Urbanization**<br>
 _urban population_: 97.8% of total population (2023)<br>
@@ -125,27 +123,25 @@ _rate of urbanization_: 0.41% annual rate of change (2020-25 est.)<br>
 **Sex ratio**<br>
 _at birth_: 1.09 male(s)/female<br>
 _0-14 years_: 1.1 male(s)/female<br>
-_15-24 years_: 1.13 male(s)/female<br>
-_25-54 years_: 0.9 male(s)/female<br>
-_55-64 years_: 0.92 male(s)/female<br>
-_65 years and over_: 0.7 male(s)/female<br>
-_total population_: 0.93 male(s)/female (2022 est.)<br>
+_15-64 years_: 0.94 male(s)/female<br>
+_65 years and over_: 0.83 male(s)/female<br>
+_total population_: 0.93 male(s)/female (2023 est.)<br>
 
 **Mother's mean age at first birth**<br>
 31.9 years (2019)<br>
 
 **Infant mortality rate**<br>
-_total_: 6.51 deaths/1,000 live births<br>
-_male_: 7.72 deaths/1,000 live births<br>
-_female_: 5.19 deaths/1,000 live births (2022 est.)<br>
+_total_: 6.36 deaths/1,000 live births<br>
+_male_: 7.54 deaths/1,000 live births<br>
+_female_: 5.07 deaths/1,000 live births (2023 est.)<br>
 
 **Life expectancy at birth**<br>
-_total population_: 83.86 years<br>
-_male_: 81.3 years<br>
-_female_: 86.65 years (2022 est.)<br>
+_total population_: 84.05 years<br>
+_male_: 81.5 years<br>
+_female_: 86.83 years (2023 est.)<br>
 
 **Total fertility rate**<br>
-1.53 children born/woman (2022 est.)<br>
+1.53 children born/woman (2023 est.)<br>
 
 **Gross reproduction rate**<br>
 0.73 (2023 est.)<br>

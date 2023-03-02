@@ -94,7 +94,7 @@ large urban clusters are spread throughout the eastern half of the US (particula
 ## People and Society
 
 **Population**<br>
-337,341,954 (2022 est.)<br>
+339,665,118 (2023 est.)<br>
 <strong>note: </strong>the US Census Bureau's 2020 census results show the US population as 331,449,281 as of 1 April 2020<br>
 
 **Nationality**<br>
@@ -113,11 +113,9 @@ English only 78.2%, Spanish 13.4%, Chinese 1.1%, other 7.3% (2017 est.)<br>
 Protestant 46.5%, Roman Catholic 20.8%, Jewish 1.9%, Church of Jesus Christ 1.6%, other Christian 0.9%, Muslim 0.9%, Jehovah's Witness 0.8%, Buddhist 0.7%, Hindu 0.7%, other 1.8%, unaffiliated 22.8%, don't know/refused 0.6% (2014 est.)<br>
 
 **Age structure**<br>
-_0-14 years_: 18.46% (male 31,374,555/female 30,034,371)<br>
-_15-24 years_: 12.91% (male 21,931,368/female 21,006,463)<br>
-_25-54 years_: 38.92% (male 64,893,670/female 64,564,565)<br>
-_55-64 years_: 12.86% (male 20,690,736/female 22,091,808)<br>
-_65 years and over_: 16.85% (male 25,014,147/female 31,037,419) (2020 est.)<br>
+_0-14 years_: 18.15% (male 31,509,186/female 30,154,408)<br>
+_15-64 years_: 63.72% (male 108,346,275/female 108,100,830)<br>
+_65 years and over_: 18.12% (2023 est.) (male 27,589,149/female 3,3965,270)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 53.7<br>
@@ -131,16 +129,16 @@ _male_: 37.2 years<br>
 _female_: 39.8 years (2020 est.)<br>
 
 **Population growth rate**<br>
-0.69% (2022 est.)<br>
+0.68% (2023 est.)<br>
 
 **Birth rate**<br>
-12.28 births/1,000 population (2022 est.)<br>
+12.21 births/1,000 population (2023 est.)<br>
 
 **Death rate**<br>
-8.38 deaths/1,000 population (2022 est.)<br>
+8.42 deaths/1,000 population (2023 est.)<br>
 
 **Net migration rate**<br>
-3.02 migrant(s)/1,000 population (2022 est.)<br>
+3.01 migrant(s)/1,000 population (2023 est.)<br>
 
 **Population distribution**<br>
 large urban clusters are spread throughout the eastern half of the US (particularly the Great Lakes area, northeast, east, and southeast) and the western tier states; mountainous areas, principally the Rocky Mountains and Appalachian chain, deserts in the southwest, the dense boreal forests in the extreme north, and the central prarie states are less densely populated; Alaska's population is concentrated along its southern coast - with particular emphasis on the city of Anchorage - and Hawaii's is centered on the island of Oahu<br>
@@ -155,11 +153,9 @@ _rate of urbanization_: 0.96% annual rate of change (2020-25 est.)<br>
 **Sex ratio**<br>
 _at birth_: 1.05 male(s)/female NA<br>
 _0-14 years_: 1.04 male(s)/female<br>
-_15-24 years_: 1.04 male(s)/female<br>
-_25-54 years_: 1.01 male(s)/female<br>
-_55-64 years_: 0.94 male(s)/female<br>
-_65 years and over_: 0.69 male(s)/female<br>
-_total population_: 0.97 male(s)/female (2022 est.)<br>
+_15-64 years_: 1 male(s)/female<br>
+_65 years and over_: 0.81 male(s)/female<br>
+_total population_: 0.97 male(s)/female (2023 est.)<br>
 
 **Mother's mean age at first birth**<br>
 27 years (2019 est.)<br>
@@ -168,17 +164,17 @@ _total population_: 0.97 male(s)/female (2022 est.)<br>
 19 deaths/100,000 live births (2017 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 5.17 deaths/1,000 live births<br>
-_male_: 5.55 deaths/1,000 live births<br>
-_female_: 4.77 deaths/1,000 live births (2022 est.)<br>
+_total_: 5.12 deaths/1,000 live births<br>
+_male_: 5.49 deaths/1,000 live births<br>
+_female_: 4.73 deaths/1,000 live births (2023 est.)<br>
 
 **Life expectancy at birth**<br>
-_total population_: 80.59 years<br>
-_male_: 78.36 years<br>
-_female_: 82.79 years (2022 est.)<br>
+_total population_: 80.75 years<br>
+_male_: 78.54 years<br>
+_female_: 82.93 years (2023 est.)<br>
 
 **Total fertility rate**<br>
-1.84 children born/woman (2022 est.)<br>
+1.84 children born/woman (2023 est.)<br>
 
 **Gross reproduction rate**<br>
 0.9 (2023 est.)<br>

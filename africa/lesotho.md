@@ -79,7 +79,7 @@ landlocked, an enclave of (completely surrounded by) South Africa; mountainous, 
 ## People and Society
 
 **Population**<br>
-2,193,970 (2022 est.)<br>
+2,210,646 (2023 est.)<br>
 
 **Nationality**<br>
 _noun_: Mosotho (singular), Basotho (plural)<br>
@@ -98,11 +98,9 @@ Protestant 47.8% (Pentecostal 23.1%, Lesotho Evangelical 17.3%, Anglican 7.4%), 
 <p>Lesotho faces great socioeconomic challenges. Almost half of its population lives below the poverty line as of 2017, and the country’s HIV/AIDS prevalence rate is the second highest in the world as of 2021. In addition, Lesotho is a small, mountainous, landlocked country with little arable land, leaving its population vulnerable to food shortages and reliant on remittances. Lesotho’s persistently high infant, child, and maternal mortality rates have been increasing during the last decade, according to the last two Demographic and Health Surveys. Despite these significant shortcomings, Lesotho has made good progress in education; it is on-track to achieve universal primary education and has one of the highest adult literacy rates in Africa.</p> <p>Lesotho’s migration history is linked to its unique geography; it is surrounded by South Africa with which it shares linguistic and cultural traits. Lesotho at one time had more of its workforce employed outside its borders than any other country. Today remittances equal about 20% of its GDP. With few job options at home, a high rate of poverty, and higher wages available across the border, labor migration to South Africa replaced agriculture as the prevailing Basotho source of income decades ago. The majority of Basotho migrants were single men contracted to work as gold miners in South Africa. However, migration trends changed in the 1990s, and fewer men found mining jobs in South Africa because of declining gold prices, stricter immigration policies, and a preference for South African workers.</p> <p>Although men still dominate cross-border labor migration, more women are working in South Africa, mostly as domestics, because they are widows or their husbands are unemployed. Internal rural-urban flows have also become more frequent, with more women migrating within the country to take up jobs in the garment industry or moving to care for loved ones with HIV/AIDS. Lesotho’s small population of immigrants is increasingly composed of Taiwanese and Chinese migrants who are involved in the textile industry and small retail businesses.</p><br>
 
 **Age structure**<br>
-_0-14 years_: 31.3% (male 309,991/female 306,321)<br>
-_15-24 years_: 19.26% (male 181,874/female 197,452)<br>
-_25-54 years_: 38.86% (male 373,323/female 391,901)<br>
-_55-64 years_: 4.98% (male 52,441/female 45,726)<br>
-_65 years and over_: 5.6% (male 57,030/female 53,275) (2020 est.)<br>
+_0-14 years_: 32.4% (male 360,327/female 355,863)<br>
+_15-64 years_: 62.21% (male 688,373/female 686,911)<br>
+_65 years and over_: 5.39% (2023 est.) (male 44,313/female 74,859)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 62.1<br>
@@ -116,16 +114,16 @@ _male_: 24.7 years<br>
 _female_: 24.7 years (2020 est.)<br>
 
 **Population growth rate**<br>
-0.76% (2022 est.)<br>
+0.76% (2023 est.)<br>
 
 **Birth rate**<br>
-23.15 births/1,000 population (2022 est.)<br>
+23.01 births/1,000 population (2023 est.)<br>
 
 **Death rate**<br>
-11.05 deaths/1,000 population (2022 est.)<br>
+10.9 deaths/1,000 population (2023 est.)<br>
 
 **Net migration rate**<br>
--4.55 migrant(s)/1,000 population (2022 est.)<br>
+-4.52 migrant(s)/1,000 population (2023 est.)<br>
 
 **Population distribution**<br>
 relatively higher population density in the western half of the nation, with the capital of Maseru, and the smaller cities of Mafeteng, Teyateyaneng, and Leribe attracting the most people as shown in this population distribution map<br>
@@ -140,11 +138,9 @@ _rate of urbanization_: 2.77% annual rate of change (2020-25 est.)<br>
 **Sex ratio**<br>
 _at birth_: 1.03 male(s)/female<br>
 _0-14 years_: 1.01 male(s)/female<br>
-_15-24 years_: 1.01 male(s)/female<br>
-_25-54 years_: 1.02 male(s)/female<br>
-_55-64 years_: 0.74 male(s)/female<br>
-_65 years and over_: 0.48 male(s)/female<br>
-_total population_: 0.98 male(s)/female (2022 est.)<br>
+_15-64 years_: 1 male(s)/female<br>
+_65 years and over_: 0.59 male(s)/female<br>
+_total population_: 0.98 male(s)/female (2023 est.)<br>
 
 **Mother's mean age at first birth**<br>
 20.9 years (2014 est.)<br>
@@ -154,17 +150,17 @@ _total population_: 0.98 male(s)/female (2022 est.)<br>
 544 deaths/100,000 live births (2017 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 48.44 deaths/1,000 live births<br>
-_male_: 54 deaths/1,000 live births<br>
-_female_: 42.72 deaths/1,000 live births (2022 est.)<br>
+_total_: 47.04 deaths/1,000 live births<br>
+_male_: 52.47 deaths/1,000 live births<br>
+_female_: 41.44 deaths/1,000 live births (2023 est.)<br>
 
 **Life expectancy at birth**<br>
-_total population_: 59.57 years<br>
-_male_: 57.57 years<br>
-_female_: 61.64 years (2022 est.)<br>
+_total population_: 59.87 years<br>
+_male_: 57.85 years<br>
+_female_: 61.95 years (2023 est.)<br>
 
 **Total fertility rate**<br>
-2.92 children born/woman (2022 est.)<br>
+2.88 children born/woman (2023 est.)<br>
 
 **Gross reproduction rate**<br>
 1.42 (2023 est.)<br>

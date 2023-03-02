@@ -79,7 +79,7 @@ flooding<br>
 ## People and Society
 
 **Population**<br>
-10,705,384 (2022 est.)<br>
+10,706,242 (2023 est.)<br>
 
 **Nationality**<br>
 _noun_: Czech(s)<br>
@@ -97,11 +97,9 @@ _major-language sample(s)_: <br>World Fackbook, nepostradatelný zdroj základn�
 Roman Catholic 7%, other believers belonging to a church or religious society 6% (includes Evangelical United Brethren Church and Czechoslovak Hussite Church), believers unaffiliated with a religious society 9.1%, none 47.8%, unspecified 30.1% (2021 est.)<br>
 
 **Age structure**<br>
-_0-14 years_: 15.17% (male 834,447/female 789,328)<br>
-_15-24 years_: 9.2% (male 508,329/female 475,846)<br>
-_25-54 years_: 43.29% (male 2,382,899/female 2,249,774)<br>
-_55-64 years_: 12.12% (male 636,357/female 660,748)<br>
-_65 years and over_: 20.23% (male 907,255/female 1,257,515) (2020 est.)<br>
+_0-14 years_: 14.68% (male 808,583/female 763,540)<br>
+_15-64 years_: 64.18% (male 3,514,664/female 3,356,764)<br>
+_65 years and over_: 21.13% (2023 est.) (male 954,139/female 1,308,552)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 57.4<br>
@@ -115,16 +113,16 @@ _male_: 42 years<br>
 _female_: 44.7 years (2020 est.)<br>
 
 **Population growth rate**<br>
-0.02% (2022 est.)<br>
+0% (2023 est.)<br>
 
 **Birth rate**<br>
-8.59 births/1,000 population (2022 est.)<br>
+8.43 births/1,000 population (2023 est.)<br>
 
 **Death rate**<br>
-10.74 deaths/1,000 population (2022 est.)<br>
+10.77 deaths/1,000 population (2023 est.)<br>
 
 **Net migration rate**<br>
-2.32 migrant(s)/1,000 population (2022 est.)<br>
+2.32 migrant(s)/1,000 population (2023 est.)<br>
 
 **Population distribution**<br>
 a fairly even distribution throughout most of the country, but the northern and eastern regions tend to have larger urban concentrations<br>
@@ -138,12 +136,10 @@ _rate of urbanization_: 0.2% annual rate of change (2020-25 est.)<br>
 
 **Sex ratio**<br>
 _at birth_: 1.05 male(s)/female<br>
-_0-14 years_: 1.06 male(s)/female<br>
-_15-24 years_: 1.19 male(s)/female<br>
-_25-54 years_: 1.14 male(s)/female<br>
-_55-64 years_: 0.93 male(s)/female<br>
-_65 years and over_: 0.61 male(s)/female<br>
-_total population_: 1.05 male(s)/female (2022 est.)<br>
+_0-14 years_: 1.05 male(s)/female<br>
+_15-64 years_: 1.11 male(s)/female<br>
+_65 years and over_: 0.77 male(s)/female<br>
+_total population_: 1.05 male(s)/female (2023 est.)<br>
 
 **Mother's mean age at first birth**<br>
 28.5 years (2020 est.)<br>
@@ -152,17 +148,17 @@ _total population_: 1.05 male(s)/female (2022 est.)<br>
 3 deaths/100,000 live births (2017 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 2.4 deaths/1,000 live births<br>
-_male_: 2.59 deaths/1,000 live births<br>
-_female_: 2.19 deaths/1,000 live births (2022 est.)<br>
+_total_: 2.37 deaths/1,000 live births<br>
+_male_: 2.57 deaths/1,000 live births<br>
+_female_: 2.16 deaths/1,000 live births (2023 est.)<br>
 
 **Life expectancy at birth**<br>
-_total population_: 79.73 years<br>
-_male_: 76.8 years<br>
-_female_: 82.82 years (2022 est.)<br>
+_total population_: 79.96 years<br>
+_male_: 77.04 years<br>
+_female_: 83.03 years (2023 est.)<br>
 
 **Total fertility rate**<br>
-1.49 children born/woman (2022 est.)<br>
+1.5 children born/woman (2023 est.)<br>
 
 **Gross reproduction rate**<br>
 0.73 (2023 est.)<br>
@@ -690,8 +686,8 @@ Czech Armed Forces: Land Forces; Air Forces; Cyber Forces; Special Forces (2022)
 1.5% of GDP (2022 est.)<br>
 1.4% of GDP (2021)<br>
 1.3% of GDP (2020)<br>
-1.2% of GDP (2019) (approximately $4.05 billion)<br>
-1.1% of GDP (2018) (approximately $3.8 billion)<br>
+1.2% of GDP (2019)<br>
+1.1% of GDP (2018)<br>
 
 **Military and security service personnel strengths**<br>
 approximately 26,000 active personnel (20,000 Army; 6,000 Air Force) (2022)<br>
@@ -717,7 +713,7 @@ Czechia joined NATO in 1999; Czechia, Hungary, and Poland were invited to begin 
 <p>none</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 489,865 (Ukraine) (as of 12 February 2023)<br>
+_refugees (country of origin)_: 494,793 (Ukraine) (as of 26 February 2023)<br>
 _stateless persons_: 1,625 (2022)<br>
 
 **Illicit drugs**<br>

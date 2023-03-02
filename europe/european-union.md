@@ -70,9 +70,7 @@ Roman Catholic 41%, Orthodox 10%, Protestant 9%, other Christian 4%, Muslim 2%, 
 
 **Age structure**<br>
 _0-14 years_: 15.05% (male 34,978,216/female 33,217,600)<br>
-_15-24 years_: 10.39% (male 24,089,260/female 22,990,579)<br>
-_25-54 years_: 40.54% (male 92,503,000/female 91,144,596)<br>
-_55-64 years_: 13.52% (male 29,805,200/female 31,424,172)<br>
+_15-64 years_: 10.39% (male 24,089,260/female 22,990,579)<br>
 _65 years and over_: 20.5% (male 39,834,507/female 53,020,673) (2020 est.)<br>
 
 **Dependency ratios**<br>
@@ -104,9 +102,7 @@ population distribution varies considerably from country to country but tends to
 **Sex ratio**<br>
 _at birth_: 1.06 male(s)/female<br>
 _0-14 years_: 1.05 male(s)/female<br>
-_15-24 years_: 1.05 male(s)/female<br>
-_25-54 years_: 1.01 male(s)/female<br>
-_55-64 years_: 0.95 male(s)/female<br>
+_15-64 years_: 1.05 male(s)/female<br>
 _65 years and over_: 0.75 male(s)/female<br>
 _total population_: 0.95 male(s)/female (2020 est.)<br>
 

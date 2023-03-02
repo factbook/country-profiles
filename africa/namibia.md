@@ -84,7 +84,7 @@ the Namib Desert, after which the country is named, is considered to be the olde
 ## People and Society
 
 **Population**<br>
-2,727,409 (2022 est.)<br>
+2,777,232 (2023 est.)<br>
 
 **Nationality**<br>
 _noun_: Namibian(s)<br>
@@ -104,11 +104,9 @@ Christian 97.5%, other 0.6% (includes Muslim, Baha'i, Jewish, Buddhist), unaffil
 <p>Planning officials view Namibia’s reduced population growth rate as sustainable based on the country’s economic growth over the past decade. Prior to independence in 1990, Namibia’s relatively small population grew at about 3% annually, but declining fertility and the impact of HIV/AIDS slowed this growth to 1.4% by 2011, rebounding to close to 2% by 2016. Namibia’s fertility rate has fallen over the last two decades – from about 4.5 children per woman in 1996 to 3.4 in 2016 and to 3 in 2022 – due to increased contraceptive use, higher educational attainment among women, and greater female participation in the labor force. The average age at first birth has stayed fairly constant, but the age at first marriage continues to increase, indicating a rising incidence of premarital childbearing.</p> <p>The majority of Namibians are rural dwellers (about 55%) and live in the better-watered north and northeast parts of the country. Migration, historically male-dominated, generally flows from northern communal areas – non-agricultural lands where blacks were sequestered under the apartheid system – to agricultural, mining, and manufacturing centers in the center and south. After independence from South Africa, restrictions on internal movement eased, and rural-urban migration increased, bolstering urban growth.</p> <p>Some Namibians – usually persons who are better-educated, more affluent, and from urban areas – continue to legally migrate to South Africa temporarily to visit family and friends and, much less frequently, to pursue tertiary education or better economic opportunities. Namibians concentrated along the country’s other borders make unauthorized visits to Angola, Zambia, Zimbabwe, or Botswana, to visit family and to trade agricultural goods. Few Namibians express interest in permanently settling in other countries; they prefer the safety of their homeland, have a strong national identity, and enjoy a well-supplied retail sector. Although Namibia is receptive to foreign investment and cross-border trade, intolerance toward non-citizens is widespread.</p><br>
 
 **Age structure**<br>
-_0-14 years_: 35.68% (male 473,937/female 464,453)<br>
-_15-24 years_: 20.27% (male 267,106/female 265,882)<br>
-_25-54 years_: 35.47% (male 449,132/female 483,811)<br>
-_55-64 years_: 4.68% (male 54,589/female 68,619)<br>
-_65 years and over_: 3.9% (male 43,596/female 58,948) (2020 est.)<br>
+_0-14 years_: 34.38% (male 482,432/female 472,474)<br>
+_15-64 years_: 61.68% (male 834,001/female 878,865)<br>
+_65 years and over_: 3.94% (2023 est.) (male 46,235/female 63,225)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 67.3<br>
@@ -122,16 +120,16 @@ _male_: 21.1 years<br>
 _female_: 22.6 years (2020 est.)<br>
 
 **Population growth rate**<br>
-1.82% (2022 est.)<br>
+1.8% (2023 est.)<br>
 
 **Birth rate**<br>
-25.01 births/1,000 population (2022 est.)<br>
+24.68 births/1,000 population (2023 est.)<br>
 
 **Death rate**<br>
-6.85 deaths/1,000 population (2022 est.)<br>
+6.64 deaths/1,000 population (2023 est.)<br>
 
 **Net migration rate**<br>
-0 migrant(s)/1,000 population (2022 est.)<br>
+0 migrant(s)/1,000 population (2023 est.)<br>
 
 **Population distribution**<br>
 population density is very low, with the largest clustering found in the extreme north-central area along the border with Angola as shown in this population distribution map<br>
@@ -146,11 +144,9 @@ _rate of urbanization_: 3.64% annual rate of change (2020-25 est.)<br>
 **Sex ratio**<br>
 _at birth_: 1.03 male(s)/female<br>
 _0-14 years_: 1.02 male(s)/female<br>
-_15-24 years_: 1.01 male(s)/female<br>
-_25-54 years_: 0.93 male(s)/female<br>
-_55-64 years_: 0.79 male(s)/female<br>
-_65 years and over_: 0.61 male(s)/female<br>
-_total population_: 0.96 male(s)/female (2022 est.)<br>
+_15-64 years_: 0.95 male(s)/female<br>
+_65 years and over_: 0.73 male(s)/female<br>
+_total population_: 0.96 male(s)/female (2023 est.)<br>
 
 **Mother's mean age at first birth**<br>
 21.6 years (2013 est.)<br>
@@ -160,17 +156,17 @@ _total population_: 0.96 male(s)/female (2022 est.)<br>
 195 deaths/100,000 live births (2017 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 29.42 deaths/1,000 live births<br>
-_male_: 31.48 deaths/1,000 live births<br>
-_female_: 27.3 deaths/1,000 live births (2022 est.)<br>
+_total_: 28.49 deaths/1,000 live births<br>
+_male_: 30.52 deaths/1,000 live births<br>
+_female_: 26.4 deaths/1,000 live births (2023 est.)<br>
 
 **Life expectancy at birth**<br>
-_total population_: 66.47 years<br>
-_male_: 64.46 years<br>
-_female_: 68.53 years (2022 est.)<br>
+_total population_: 67.04 years<br>
+_male_: 65 years<br>
+_female_: 69.14 years (2023 est.)<br>
 
 **Total fertility rate**<br>
-2.98 children born/woman (2022 est.)<br>
+2.94 children born/woman (2023 est.)<br>
 
 **Gross reproduction rate**<br>
 1.45 (2023 est.)<br>

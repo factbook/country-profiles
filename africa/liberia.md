@@ -76,7 +76,7 @@ facing the Atlantic Ocean, the coastline is characterized by lagoons, mangrove s
 ## People and Society
 
 **Population**<br>
-5,358,483 (2022 est.)<br>
+5,506,280 (2023 est.)<br>
 
 **Nationality**<br>
 _noun_: Liberian(s)<br>
@@ -95,11 +95,9 @@ Christian 85.6%, Muslim 12.2%, Traditional 0.6%, other 0.2%, none 1.5% (2008 est
 <p>Liberia’s high fertility rate of nearly 5 children per woman and large youth cohort – more than 60% of the population is under the age of 25 as of 2020 – will sustain a high dependency ratio for many years to come. Significant progress has been made in preventing child deaths, despite a lack of health care workers and infrastructure. Infant and child mortality have dropped nearly 70% since 1990; the annual reduction rate of about 5.4% is the highest in Africa.</p> <p>Nevertheless, Liberia’s high maternal mortality rate remains among the world’s worst; it reflects a high unmet need for family planning services, frequency of early childbearing, lack of quality obstetric care, high adolescent fertility, and a low proportion of births attended by a medical professional. Female mortality is also increased by the prevalence of female genital cutting (FGC), which is practiced by 10 of Liberia’s 16 tribes and affects more than two-thirds of women and girls. FGC is an initiation ritual performed in rural bush schools, which teach traditional beliefs on marriage and motherhood and are an obstacle to formal classroom education for Liberian girls.</p> <p>Liberia has been both a source and a destination for refugees. During Liberia’s 14-year civil war (1989-2003), more than 250,000 people became refugees and another half million were internally displaced. Between 2004 and the cessation of refugee status for Liberians in June 2012, the UNHCR helped more than 155,000 Liberians to voluntarily repatriate, while others returned home on their own. Some Liberian refugees spent more than two decades living in other West African countries. Between 2011 and 2022, more than 300,000 Ivoirian refugees in Liberia have been repatriated; as of year-end 2022, less than 2,300 Ivoirian refugees were still living in Liberia.</p><br>
 
 **Age structure**<br>
-_0-14 years_: 43.35% (male 1,111,479/female 1,087,871)<br>
-_15-24 years_: 20.35% (male 516,136/female 516,137)<br>
-_25-54 years_: 30.01% (male 747,983/female 774,615)<br>
-_55-64 years_: 3.46% (male 89,150/female 86,231)<br>
-_65 years and over_: 2.83% (male 70,252/female 73,442) (2020 est.)<br>
+_0-14 years_: 42.69% (male 1,187,795/female 1,162,699)<br>
+_15-64 years_: 54.5% (male 1,486,582/female 1,514,163)<br>
+_65 years and over_: 2.82% (2023 est.) (male 75,258/female 79,783)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 79.7<br>
@@ -113,16 +111,16 @@ _male_: 17.7 years<br>
 _female_: 18.2 years (2020 est.)<br>
 
 **Population growth rate**<br>
-2.73% (2022 est.)<br>
+2.71% (2023 est.)<br>
 
 **Birth rate**<br>
-36.64 births/1,000 population (2022 est.)<br>
+36.26 births/1,000 population (2023 est.)<br>
 
 **Death rate**<br>
-6.62 deaths/1,000 population (2022 est.)<br>
+6.46 deaths/1,000 population (2023 est.)<br>
 
 **Net migration rate**<br>
--2.74 migrant(s)/1,000 population (2022 est.)<br>
+-2.67 migrant(s)/1,000 population (2023 est.)<br>
 
 **Population distribution**<br>
 more than half of the population lives in urban areas, with approximately one-third living within an 80-km radius of Monrovia as shown in this population distribution map<br>
@@ -137,11 +135,9 @@ _rate of urbanization_: 3.41% annual rate of change (2015-20 est.)<br>
 **Sex ratio**<br>
 _at birth_: 1.03 male(s)/female<br>
 _0-14 years_: 1.02 male(s)/female<br>
-_15-24 years_: 1 male(s)/female<br>
-_25-54 years_: 0.97 male(s)/female<br>
-_55-64 years_: 1.02 male(s)/female<br>
-_65 years and over_: 0.77 male(s)/female<br>
-_total population_: 1 male(s)/female (2022 est.)<br>
+_15-64 years_: 0.98 male(s)/female<br>
+_65 years and over_: 0.94 male(s)/female<br>
+_total population_: 1 male(s)/female (2023 est.)<br>
 
 **Mother's mean age at first birth**<br>
 19.1 years (2019/20 est.)<br>
@@ -151,17 +147,17 @@ _total population_: 1 male(s)/female (2022 est.)<br>
 661 deaths/100,000 live births (2017 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 44.57 deaths/1,000 live births<br>
-_male_: 48.68 deaths/1,000 live births<br>
-_female_: 40.34 deaths/1,000 live births (2022 est.)<br>
+_total_: 43.2 deaths/1,000 live births<br>
+_male_: 47.23 deaths/1,000 live births<br>
+_female_: 39.05 deaths/1,000 live births (2023 est.)<br>
 
 **Life expectancy at birth**<br>
-_total population_: 65.45 years<br>
-_male_: 63.19 years<br>
-_female_: 67.78 years (2022 est.)<br>
+_total population_: 65.8 years<br>
+_male_: 63.52 years<br>
+_female_: 68.15 years (2023 est.)<br>
 
 **Total fertility rate**<br>
-4.79 children born/woman (2022 est.)<br>
+4.73 children born/woman (2023 est.)<br>
 
 **Gross reproduction rate**<br>
 2.33 (2023 est.)<br>

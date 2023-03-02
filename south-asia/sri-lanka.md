@@ -75,7 +75,7 @@ strategic location near major Indian Ocean sea lanes; Adam's Bridge is a chain o
 ## People and Society
 
 **Population**<br>
-23,187,516 (2022 est.)<br>
+23,326,272 (2023 est.)<br>
 
 **Nationality**<br>
 _noun_: Sri Lankan(s)<br>
@@ -92,11 +92,9 @@ Sinhala (official and national language) 87%, Tamil (official and national langu
 Buddhist (official) 70.2%, Hindu 12.6%, Muslim 9.7%, Roman Catholic 6.1%, other Christian 1.3%, other 0.05% (2012 est.)<br>
 
 **Age structure**<br>
-_0-14 years_: 23.11% (male 2,696,379/female 2,592,450)<br>
-_15-24 years_: 14.58% (male 1,700,442/female 1,636,401)<br>
-_25-54 years_: 41.2% (male 4,641,842/female 4,789,101)<br>
-_55-64 years_: 10.48% (male 1,110,481/female 1,288,056)<br>
-_65 years and over_: 10.63% (male 1,023,315/female 1,410,734) (2020 est.)<br>
+_0-14 years_: 21.95% (male 2,609,642/female 2,511,570)<br>
+_15-64 years_: 66.22% (male 7,609,573/female 7,836,480)<br>
+_65 years and over_: 11.83% (2023 est.) (male 1,156,637/female 1,602,370)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 53.7<br>
@@ -110,16 +108,16 @@ _male_: 32.3 years<br>
 _female_: 35.1 years (2020 est.)<br>
 
 **Population growth rate**<br>
-0.61% (2022 est.)<br>
+0.59% (2023 est.)<br>
 
 **Birth rate**<br>
-13.8 births/1,000 population (2022 est.)<br>
+13.61 births/1,000 population (2023 est.)<br>
 
 **Death rate**<br>
-6.49 deaths/1,000 population (2022 est.)<br>
+6.54 deaths/1,000 population (2023 est.)<br>
 
 **Net migration rate**<br>
--1.22 migrant(s)/1,000 population (2022 est.)<br>
+-1.21 migrant(s)/1,000 population (2023 est.)<br>
 
 **Population distribution**<br>
 the population is primarily concentrated within a broad wet zone in the southwest, urban centers along the eastern coast, and on the Jaffna Peninsula in the north<br>
@@ -134,11 +132,9 @@ _rate of urbanization_: 1.22% annual rate of change (2020-25 est.)<br>
 **Sex ratio**<br>
 _at birth_: 1.04 male(s)/female<br>
 _0-14 years_: 1.04 male(s)/female<br>
-_15-24 years_: 1.04 male(s)/female<br>
-_25-54 years_: 0.97 male(s)/female<br>
-_55-64 years_: 0.86 male(s)/female<br>
-_65 years and over_: 0.61 male(s)/female<br>
-_total population_: 0.95 male(s)/female (2022 est.)<br>
+_15-64 years_: 0.97 male(s)/female<br>
+_65 years and over_: 0.72 male(s)/female<br>
+_total population_: 0.95 male(s)/female (2023 est.)<br>
 
 **Mother's mean age at first birth**<br>
 25.6 years (2016 est.)<br>
@@ -148,17 +144,17 @@ _total population_: 0.95 male(s)/female (2022 est.)<br>
 36 deaths/100,000 live births (2017 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 8.2 deaths/1,000 live births<br>
-_male_: 9.18 deaths/1,000 live births<br>
-_female_: 7.18 deaths/1,000 live births (2022 est.)<br>
+_total_: 8.04 deaths/1,000 live births<br>
+_male_: 9.02 deaths/1,000 live births<br>
+_female_: 7.03 deaths/1,000 live births (2023 est.)<br>
 
 **Life expectancy at birth**<br>
-_total population_: 78 years<br>
-_male_: 74.57 years<br>
-_female_: 81.56 years (2022 est.)<br>
+_total population_: 78.24 years<br>
+_male_: 74.83 years<br>
+_female_: 81.78 years (2023 est.)<br>
 
 **Total fertility rate**<br>
-1.98 children born/woman (2022 est.)<br>
+1.97 children born/woman (2023 est.)<br>
 
 **Gross reproduction rate**<br>
 0.96 (2023 est.)<br>

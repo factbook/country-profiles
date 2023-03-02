@@ -79,7 +79,7 @@ landlocked; straddles crest of the Nile-Congo watershed; the Kagera, which drain
 ## People and Society
 
 **Population**<br>
-12,696,478 (2022 est.)<br>
+13,162,952 (2023 est.)<br>
 
 **Nationality**<br>
 _noun_: Burundian(s)<br>
@@ -100,11 +100,9 @@ Roman Catholic 58.6%, Protestant 35.3% (includes Adventist 2.7% and other Protes
 <p>Burundi is a densely populated country with a high population growth rate, factors that combined with land scarcity and poverty place a large share of its population at risk of food insecurity. About 90% of the population relies on subsistence agriculture. Subdivision of land to sons, and redistribution to returning refugees, results in smaller, overworked, and less-productive plots. Food shortages, poverty, and a lack of clean water contribute to a 60% chronic malnutrition rate among children. A lack of reproductive health services has prevented a significant reduction in Burundi’s maternal mortality and fertility rates, which are both among the world’s highest. With almost two-thirds of its population under the age of 25 and a birth rate of about 5 children per woman as of 2022, Burundi’s population will continue to expand rapidly for decades to come, putting additional strain on a poor country.</p> <p>Historically, migration flows into and out of Burundi have consisted overwhelmingly of refugees from violent conflicts. In the last decade, more than a half million Burundian refugees returned home from neighboring countries, mainly Tanzania. Reintegrating the returnees has been problematic due to their prolonged time in exile, land scarcity, poor infrastructure, poverty, and unemployment. Repatriates and existing residents (including internally displaced persons) compete for limited land and other resources. To further complicate matters, international aid organizations reduced their assistance because they no longer classified Burundi as a post-conflict country. Conditions deteriorated when renewed violence erupted in April 2015, causing another outpouring of refugees. In addition to refugee out-migration, Burundi has hosted thousands of refugees from neighboring countries, mostly from the Democratic Republic of the Congo and lesser numbers from Rwanda.</p><br>
 
 **Age structure**<br>
-_0-14 years_: 43.83% (male 2,618,868/female 2,581,597)<br>
-_15-24 years_: 19.76% (male 1,172,858/female 1,171,966)<br>
-_25-54 years_: 29.18% (male 1,713,985/female 1,748,167)<br>
-_55-64 years_: 4.17% (male 231,088/female 264,131)<br>
-_65 years and over_: 3.06% (male 155,262/female 207,899) (2020 est.)<br>
+_0-14 years_: 42.67% (male 2,830,996/female 2,786,154)<br>
+_15-64 years_: 54.03% (male 3,523,380/female 3,588,511)<br>
+_65 years and over_: 3.3% (2023 est.) (male 187,176/female 246,735)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 95.2<br>
@@ -118,16 +116,16 @@ _male_: 17.4 years<br>
 _female_: 18 years (2020 est.)<br>
 
 **Population growth rate**<br>
-3.63% (2022 est.)<br>
+3.59% (2023 est.)<br>
 
 **Birth rate**<br>
-35.17 births/1,000 population (2022 est.)<br>
+34.87 births/1,000 population (2023 est.)<br>
 
 **Death rate**<br>
-5.96 deaths/1,000 population (2022 est.)<br>
+5.85 deaths/1,000 population (2023 est.)<br>
 
 **Net migration rate**<br>
-7.09 migrant(s)/1,000 population (2022 est.)<br>
+6.84 migrant(s)/1,000 population (2023 est.)<br>
 
 **Population distribution**<br>
 one of Africa's most densely populated countries; concentrations tend to be in the north and along the northern shore of Lake Tanganyika in the west; most people live on farms near areas of fertile volcanic soil as shown in this population distribution map<br>
@@ -142,11 +140,9 @@ _rate of urbanization_: 5.43% annual rate of change (2020-25 est.)<br>
 **Sex ratio**<br>
 _at birth_: 1.03 male(s)/female<br>
 _0-14 years_: 1.02 male(s)/female<br>
-_15-24 years_: 1 male(s)/female<br>
-_25-54 years_: 0.98 male(s)/female<br>
-_55-64 years_: 0.88 male(s)/female<br>
-_65 years and over_: 0.62 male(s)/female<br>
-_total population_: 0.99 male(s)/female (2022 est.)<br>
+_15-64 years_: 0.98 male(s)/female<br>
+_65 years and over_: 0.76 male(s)/female<br>
+_total population_: 0.99 male(s)/female (2023 est.)<br>
 
 **Mother's mean age at first birth**<br>
 21.5 years (2016/17 est.)<br>
@@ -156,17 +152,17 @@ _total population_: 0.99 male(s)/female (2022 est.)<br>
 548 deaths/100,000 live births (2017 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 37.84 deaths/1,000 live births<br>
-_male_: 42.02 deaths/1,000 live births<br>
-_female_: 33.54 deaths/1,000 live births (2022 est.)<br>
+_total_: 36.75 deaths/1,000 live births<br>
+_male_: 40.86 deaths/1,000 live births<br>
+_female_: 32.52 deaths/1,000 live births (2023 est.)<br>
 
 **Life expectancy at birth**<br>
-_total population_: 67.42 years<br>
-_male_: 65.32 years<br>
-_female_: 69.59 years (2022 est.)<br>
+_total population_: 67.77 years<br>
+_male_: 65.65 years<br>
+_female_: 69.95 years (2023 est.)<br>
 
 **Total fertility rate**<br>
-5.03 children born/woman (2022 est.)<br>
+4.96 children born/woman (2023 est.)<br>
 
 **Gross reproduction rate**<br>
 2.45 (2023 est.)<br>
@@ -685,9 +681,9 @@ National Defense Forces (Forces de Defense Nationale, FDN): Army (includes marit
 **Military expenditures**<br>
 2% of GDP (2021 est.)<br>
 2.1% of GDP (2020 est.)<br>
-3% of GDP (2019 est.) (approximately $120 million)<br>
-2.3% of GDP (2018 est.) (approximately $100 million)<br>
-2.1% of GDP (2017 est.) (approximately $95 million)<br>
+3% of GDP (2019 est.)<br>
+2.3% of GDP (2018 est.)<br>
+2.1% of GDP (2017 est.)<br>
 
 **Military and security service personnel strengths**<br>
 approximately 30,000 active duty troops, the majority of which are ground forces (2022)<br>

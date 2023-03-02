@@ -84,7 +84,7 @@ about 70% of the population lives in Brazzaville, Pointe-Noire, or along the rai
 ## People and Society
 
 **Population**<br>
-5,546,307 (2022 est.)<br>
+5,677,493 (2023 est.)<br>
 
 **Nationality**<br>
 _noun_: Congolese (singular and plural)<br>
@@ -104,11 +104,9 @@ Roman Catholic 33.1%, Awakening Churches/Christian Revival 22.3%, Protestant 19.
 <p>The Republic of the Congo is one of the most urbanized countries in Africa, with nearly 70% of Congolese living in urban areas.  The population is concentrated in the southwest of the country, mainly in the capital Brazzaville, Pointe-Noire, and along the railway line that connects the two.  The tropical jungles in the north of the country are sparsely populated.  Most Congolese are Bantu, and most belong to one of four main ethnic groups, the Kongo, Teke, Mbochi, and Sangha, which consist of over 70 subgroups.</p> <p>The Republic of Congo is in the early stages of a demographic transition, whereby a population shifts from high fertility and mortality rates to low fertility and mortality rates associated with industrialized societies.  Its total fertility rate (TFR), the average number of children born per woman, remains high at 4.4 as of 2022.  While its TFR has steadily decreased, the progress slowed beginning in about 1995.  The slowdown in fertility reduction has delayed the demographic transition and Congo’s potential to reap a demographic dividend, the economic boost that can occur when the share of the working-age population is larger than the dependent age groups. </p> <p>The TFR differs significantly between urban and rural areas – 3.7 in urban areas versus 6.5 in rural areas.  The TFR also varies among regions.  The urban regions of Brazzaville and Pointe-Noire have much lower TFRs than other regions, which are predominantly or completely rural.  The gap between desired fertility and actual fertility is also greatest in rural areas.  Rural families may have more children to contribute to agricultural production and/or due to a lack of information about and access to contraception.  Urban families may prefer to have fewer children because raising them is more expensive and balancing work and childcare may be more difficult.  The number of births among teenage girls, the frequency of giving birth before the age of fifteen, and a lack of education are the most likely reasons for higher TFRs in rural areas.  Although 90% of school-age children are enrolled in primary school, repetition and dropout rates are high and the quality of education is poor.  Congolese women with no or little education start having children earlier and have more children in total than those with at least some secondary education.</p> <p> </p><br>
 
 **Age structure**<br>
-_0-14 years_: 41.57% (male 1,110,484/female 1,089,732)<br>
-_15-24 years_: 17.14% (male 454,981/female 452,204)<br>
-_25-54 years_: 33.5% (male 886,743/female 886,312)<br>
-_55-64 years_: 4.59% (male 125,207/female 117,810)<br>
-_65 years and over_: 3.2% (male 75,921/female 93,676) (2020 est.)<br>
+_0-14 years_: 40.44% (male 1,159,264/female 1,136,501)<br>
+_15-64 years_: 56.15% (male 1,598,111/female 1,590,032)<br>
+_65 years and over_: 3.41% (2023 est.) (male 88,323/female 105,262)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 78.8<br>
@@ -122,16 +120,16 @@ _male_: 19.3 years<br>
 _female_: 19.7 years (2020 est.)<br>
 
 **Population growth rate**<br>
-2.34% (2022 est.)<br>
+2.33% (2023 est.)<br>
 
 **Birth rate**<br>
-31.82 births/1,000 population (2022 est.)<br>
+31.55 births/1,000 population (2023 est.)<br>
 
 **Death rate**<br>
-8.38 deaths/1,000 population (2022 est.)<br>
+8.23 deaths/1,000 population (2023 est.)<br>
 
 **Net migration rate**<br>
-0 migrant(s)/1,000 population (2022 est.)<br>
+0 migrant(s)/1,000 population (2023 est.)<br>
 
 **Population distribution**<br>
 the population is primarily located in the south, in and around the capital of Brazzaville as shown in this population distribution map<br>
@@ -146,11 +144,9 @@ _rate of urbanization_: 3.19% annual rate of change (2020-25 est.)<br>
 **Sex ratio**<br>
 _at birth_: 1.03 male(s)/female<br>
 _0-14 years_: 1.02 male(s)/female<br>
-_15-24 years_: 1.01 male(s)/female<br>
-_25-54 years_: 1.01 male(s)/female<br>
-_55-64 years_: 1.08 male(s)/female<br>
-_65 years and over_: 0.66 male(s)/female<br>
-_total population_: 1.01 male(s)/female (2022 est.)<br>
+_15-64 years_: 1.01 male(s)/female<br>
+_65 years and over_: 0.84 male(s)/female<br>
+_total population_: 1 male(s)/female (2023 est.)<br>
 
 **Mother's mean age at first birth**<br>
 19.6 years (2011/12 est.)<br>
@@ -160,17 +156,17 @@ _total population_: 1.01 male(s)/female (2022 est.)<br>
 378 deaths/100,000 live births (2017 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 47.93 deaths/1,000 live births<br>
-_male_: 52.39 deaths/1,000 live births<br>
-_female_: 43.34 deaths/1,000 live births (2022 est.)<br>
+_total_: 46.62 deaths/1,000 live births<br>
+_male_: 51 deaths/1,000 live births<br>
+_female_: 42.11 deaths/1,000 live births (2023 est.)<br>
 
 **Life expectancy at birth**<br>
-_total population_: 62.1 years<br>
-_male_: 60.65 years<br>
-_female_: 63.61 years (2022 est.)<br>
+_total population_: 62.51 years<br>
+_male_: 61.02 years<br>
+_female_: 64.05 years (2023 est.)<br>
 
 **Total fertility rate**<br>
-4.36 children born/woman (2022 est.)<br>
+4.32 children born/woman (2023 est.)<br>
 
 **Gross reproduction rate**<br>
 2.13 (2023 est.)<br>
@@ -724,9 +720,9 @@ Congolese Armed Forces (Forces Armees Congolaises, FAC): Army, Navy, Congolese A
 **Military expenditures**<br>
 2.5% of GDP (2021 est.)<br>
 3.2% of GDP (2020 est.)<br>
-2.3% of GDP (2019 est.) (approximately $350 million)<br>
-2.1% of GDP (2018 est.) (approximately $330 million)<br>
-3.6% of GDP (2017 est.) (approximately $580 million)<br>
+2.3% of GDP (2019 est.)<br>
+2.1% of GDP (2018 est.)<br>
+3.6% of GDP (2017 est.)<br>
 
 **Military and security service personnel strengths**<br>
 approximately 12,000 active duty troops (8,000 Army; 800 Navy; 1,000 Air Force; 2,000 Gendarmerie) (2022)<br>
@@ -746,6 +742,6 @@ the FAC is viewed as having limited capabilities due to obsolescent and poorly m
 <p><em>Republic of the Congo-Democratic Republic of Congo(DRC): </em>the location of the boundary in the broad Congo River is indefinite except in the Pool Malebo/Stanley Pool area<br><br><em>Republic of the Congo-Angola:</em> (Kabinda Exclave) None identified</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 29,644 (Central African Republic), 28,554 (Democratic Republic of the Congo) (refugees and asylum seekers) (2022)<br>
+_refugees (country of origin)_: 29,639 (Central African Republic), 28,554 (Democratic Republic of the Congo) (refugees and asylum seekers) (2022)<br>
 _IDPs_: 159,830 (multiple civil wars since 1992) (2022)<br>
 

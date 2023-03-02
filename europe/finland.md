@@ -79,7 +79,7 @@ long boundary with Russia; Helsinki is northernmost national capital on European
 ## People and Society
 
 **Population**<br>
-5,601,547 (2022 est.)<br>
+5,614,571 (2023 est.)<br>
 
 **Nationality**<br>
 _noun_: Finn(s)<br>
@@ -97,11 +97,9 @@ _major-language sample(s)_: <br>World Factbook, korvaamaton perustietolähde. (F
 Lutheran 66.6%, Greek Orthodox 1.1%, other 1.7%, none 30.6% (2021 est.)<br>
 
 **Age structure**<br>
-_0-14 years_: 16.41% (male 467,220/female 447,005)<br>
-_15-24 years_: 10.95% (male 312,179/female 297,717)<br>
-_25-54 years_: 37.37% (male 1,064,326/female 1,017,545)<br>
-_55-64 years_: 13.02% (male 357,687/female 367,610)<br>
-_65 years and over_: 22.26% (male 543,331/female 697,045) (2020 est.)<br>
+_0-14 years_: 16.25% (male 466,311/female 446,015)<br>
+_15-64 years_: 60.5% (male 1,726,110/female 1,670,981)<br>
+_65 years and over_: 23.25% (2023 est.) (male 575,259/female 729,895)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 62.1<br>
@@ -115,16 +113,16 @@ _male_: 41.3 years<br>
 _female_: 44.4 years (2020 est.)<br>
 
 **Population growth rate**<br>
-0.24% (2022 est.)<br>
+0.22% (2023 est.)<br>
 
 **Birth rate**<br>
-10.42 births/1,000 population (2022 est.)<br>
+10.33 births/1,000 population (2023 est.)<br>
 
 **Death rate**<br>
-10.35 deaths/1,000 population (2022 est.)<br>
+10.37 deaths/1,000 population (2023 est.)<br>
 
 **Net migration rate**<br>
-2.35 migrant(s)/1,000 population (2022 est.)<br>
+2.25 migrant(s)/1,000 population (2023 est.)<br>
 
 **Population distribution**<br>
 the vast majority of people are found in the south; the northern interior areas remain sparsely populated<br>
@@ -139,11 +137,9 @@ _rate of urbanization_: 0.42% annual rate of change (2020-25 est.)<br>
 **Sex ratio**<br>
 _at birth_: 1.05 male(s)/female<br>
 _0-14 years_: 1.05 male(s)/female<br>
-_15-24 years_: 1.05 male(s)/female<br>
-_25-54 years_: 1.05 male(s)/female<br>
-_55-64 years_: 0.97 male(s)/female<br>
-_65 years and over_: 0.63 male(s)/female<br>
-_total population_: 0.97 male(s)/female (2022 est.)<br>
+_15-64 years_: 1.03 male(s)/female<br>
+_65 years and over_: 0.79 male(s)/female<br>
+_total population_: 0.97 male(s)/female (2023 est.)<br>
 
 **Mother's mean age at first birth**<br>
 29.5 years (2020 est.)<br>
@@ -152,17 +148,17 @@ _total population_: 0.97 male(s)/female (2022 est.)<br>
 3 deaths/100,000 live births (2017 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 2.13 deaths/1,000 live births<br>
-_male_: 2.31 deaths/1,000 live births<br>
-_female_: 1.94 deaths/1,000 live births (2022 est.)<br>
+_total_: 2.11 deaths/1,000 live births<br>
+_male_: 2.29 deaths/1,000 live births<br>
+_female_: 1.92 deaths/1,000 live births (2023 est.)<br>
 
 **Life expectancy at birth**<br>
-_total population_: 81.76 years<br>
-_male_: 78.86 years<br>
-_female_: 84.79 years (2022 est.)<br>
+_total population_: 81.96 years<br>
+_male_: 79.08 years<br>
+_female_: 84.98 years (2023 est.)<br>
 
 **Total fertility rate**<br>
-1.74 children born/woman (2022 est.)<br>
+1.74 children born/woman (2023 est.)<br>
 
 **Gross reproduction rate**<br>
 0.85 (2023 est.)<br>

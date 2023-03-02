@@ -80,7 +80,7 @@ strategic location along Strait of Otranto (links Adriatic Sea to Ionian Sea and
 ## People and Society
 
 **Population**<br>
-3,095,344 (2022 est.)<br>
+3,101,621 (2023 est.)<br>
 
 **Nationality**<br>
 _noun_: Albanian(s)<br>
@@ -99,11 +99,9 @@ Muslim 56.7%, Roman Catholic 10%, Orthodox 6.8%, atheist 2.5%, Bektashi (a Sufi 
 <strong>note:</strong> all mosques and churches were closed in 1967 and religious observances prohibited; in November 1990, Albania began allowing private religious practice<br>
 
 **Age structure**<br>
-_0-14 years_: 17.6% (male 284,636/female 256,474)<br>
-_15-24 years_: 15.39% (male 246,931/female 226,318)<br>
-_25-54 years_: 42.04% (male 622,100/female 670,307)<br>
-_55-64 years_: 11.94% (male 178,419/female 188,783)<br>
-_65 years and over_: 13.03% (male 186,335/female 214,276) (2020 est.)<br>
+_0-14 years_: 17.9% (male 290,624/female 264,536)<br>
+_15-64 years_: 67.53% (male 1,030,436/female 1,064,217)<br>
+_65 years and over_: 14.57% (2023 est.) (male 207,960/female 243,848)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 48.2<br>
@@ -117,16 +115,16 @@ _male_: 32.9 years<br>
 _female_: 35.7 years (2020 est.)<br>
 
 **Population growth rate**<br>
-0.22% (2022 est.)<br>
+0.19% (2023 est.)<br>
 
 **Birth rate**<br>
-12.69 births/1,000 population (2022 est.)<br>
+12.48 births/1,000 population (2023 est.)<br>
 
 **Death rate**<br>
-7.31 deaths/1,000 population (2022 est.)<br>
+7.36 deaths/1,000 population (2023 est.)<br>
 
 **Net migration rate**<br>
--3.23 migrant(s)/1,000 population (2022 est.)<br>
+-3.22 migrant(s)/1,000 population (2023 est.)<br>
 
 **Population distribution**<br>
 a fairly even distribution, with somewhat higher concentrations of people in the western and central parts of the country<br>
@@ -141,11 +139,9 @@ _rate of urbanization_: 1.29% annual rate of change (2020-25 est.)<br>
 **Sex ratio**<br>
 _at birth_: 1.07 male(s)/female<br>
 _0-14 years_: 1.1 male(s)/female<br>
-_15-24 years_: 1.11 male(s)/female<br>
-_25-54 years_: 0.92 male(s)/female<br>
-_55-64 years_: 0.92 male(s)/female<br>
-_65 years and over_: 0.66 male(s)/female<br>
-_total population_: 0.97 male(s)/female (2022 est.)<br>
+_15-64 years_: 0.97 male(s)/female<br>
+_65 years and over_: 0.85 male(s)/female<br>
+_total population_: 0.97 male(s)/female (2023 est.)<br>
 
 **Mother's mean age at first birth**<br>
 26.6 years (2020 est.)<br>
@@ -154,17 +150,17 @@ _total population_: 0.97 male(s)/female (2022 est.)<br>
 15 deaths/100,000 live births (2017 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 10.82 deaths/1,000 live births<br>
-_male_: 11.85 deaths/1,000 live births<br>
-_female_: 9.71 deaths/1,000 live births (2022 est.)<br>
+_total_: 10.54 deaths/1,000 live births<br>
+_male_: 11.56 deaths/1,000 live births<br>
+_female_: 9.46 deaths/1,000 live births (2023 est.)<br>
 
 **Life expectancy at birth**<br>
-_total population_: 79.47 years<br>
-_male_: 76.8 years<br>
-_female_: 82.33 years (2022 est.)<br>
+_total population_: 79.7 years<br>
+_male_: 77.04 years<br>
+_female_: 82.55 years (2023 est.)<br>
 
 **Total fertility rate**<br>
-1.54 children born/woman (2022 est.)<br>
+1.55 children born/woman (2023 est.)<br>
 
 **Gross reproduction rate**<br>
 0.75 (2023 est.)<br>
@@ -290,9 +286,9 @@ _fresh water lake(s)_: Lake Scutari (shared with Montenegro) - 400 sq km<br>note
 Atlantic Ocean drainage: <em>(Black Sea)</em> Danube (795,656 sq km)<br>
 
 **Total water withdrawal**<br>
-_municipal_: 283 million cubic meters (2017 est.)<br>
-_industrial_: 231.8 million cubic meters (2017 est.)<br>
-_agricultural_: 905 million cubic meters (2017 est.)<br>
+_municipal_: 240 million cubic meters (2019 est.)<br>
+_industrial_: 200 million cubic meters (2019 est.)<br>
+_agricultural_: 700 million cubic meters (2019 est.)<br>
 
 **Total renewable water resources**<br>
 30.2 billion cubic meters (2019 est.)<br>
@@ -688,8 +684,8 @@ Republic of Albania Armed Forces (Forcat e Armatosura të Republikës së Shqip�
 1.6% of GDP (2022 est.)<br>
 1.4% of GDP (2021)<br>
 1.3% of GDP (2020)<br>
-1.5% of GDP (2019) (approximately $360 million)<br>
-1.3% of GDP (2018) (approximately $330 million)<br>
+1.5% of GDP (2019)<br>
+1.3% of GDP (2018)<br>
 
 **Military and security service personnel strengths**<br>
 approximately 7,000 total active duty personnel (5,000 Army; 1,500 Navy; 500 Air Force) (2022)<br>

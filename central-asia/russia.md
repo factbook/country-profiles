@@ -89,7 +89,7 @@ population is heavily concentrated in the westernmost fifth of the country exten
 ## People and Society
 
 **Population**<br>
-142,021,981 (2022 est.)<br>
+141,698,923 (2023 est.)<br>
 
 **Nationality**<br>
 _noun_: Russian(s)<br>
@@ -108,11 +108,9 @@ Russian Orthodox 15-20%, Muslim 10-15%, other Christian 2% (2006 est.)<br>
 <strong>note:</strong> estimates are of practicing worshipers; Russia has large populations of non-practicing believers and non-believers, a legacy of over seven decades of official atheism under Soviet rule; Russia officially recognizes Orthodox Christianity, Islam, Judaism, and Buddhism as the country's traditional religions<br>
 
 **Age structure**<br>
-_0-14 years_: 17.24% (male 12,551,611/female 11,881,297)<br>
-_15-24 years_: 9.54% (male 6,920,070/female 6,602,776)<br>
-_25-54 years_: 43.38% (male 30,240,260/female 31,245,104)<br>
-_55-64 years_: 14.31% (male 8,808,330/female 11,467,697)<br>
-_65 years and over_: 15.53% (male 7,033,381/female 14,971,679) (2020 est.)<br>
+_0-14 years_: 16.86% (male 12,270,830/female 11,614,990)<br>
+_15-64 years_: 65.99% (male 45,292,734/female 48,217,551)<br>
+_65 years and over_: 17.15% (2023 est.) (male 8,008,126/female 16,294,692)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 50<br>
@@ -126,16 +124,16 @@ _male_: 37.5 years<br>
 _female_: 43.2 years (2020 est.)<br>
 
 **Population growth rate**<br>
--0.22% (2022 est.)<br>
+-0.24% (2023 est.)<br>
 
 **Birth rate**<br>
-9.45 births/1,000 population (2022 est.)<br>
+9.22 births/1,000 population (2023 est.)<br>
 
 **Death rate**<br>
-13.36 deaths/1,000 population (2022 est.)<br>
+13.27 deaths/1,000 population (2023 est.)<br>
 
 **Net migration rate**<br>
-1.7 migrant(s)/1,000 population (2022 est.)<br>
+1.7 migrant(s)/1,000 population (2023 est.)<br>
 
 **Population distribution**<br>
 population is heavily concentrated in the westernmost fifth of the country extending from the Baltic Sea, south to the Caspian Sea, and eastward parallel to the Kazakh border; elsewhere, sizeable pockets are isolated and generally found in the south<br>
@@ -150,11 +148,9 @@ _rate of urbanization_: 0.11% annual rate of change (2020-25 est.)<br>
 **Sex ratio**<br>
 _at birth_: 1.06 male(s)/female<br>
 _0-14 years_: 1.06 male(s)/female<br>
-_15-24 years_: 1.05 male(s)/female<br>
-_25-54 years_: 0.97 male(s)/female<br>
-_55-64 years_: 0.78 male(s)/female<br>
-_65 years and over_: 0.36 male(s)/female<br>
-_total population_: 0.86 male(s)/female (2022 est.)<br>
+_15-64 years_: 0.94 male(s)/female<br>
+_65 years and over_: 0.49 male(s)/female<br>
+_total population_: 0.86 male(s)/female (2023 est.)<br>
 
 **Mother's mean age at first birth**<br>
 25.2 years (2013 est.)<br>
@@ -163,17 +159,17 @@ _total population_: 0.86 male(s)/female (2022 est.)<br>
 17 deaths/100,000 live births (2017 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 6.42 deaths/1,000 live births<br>
-_male_: 7.28 deaths/1,000 live births<br>
-_female_: 5.49 deaths/1,000 live births (2022 est.)<br>
+_total_: 6.33 deaths/1,000 live births<br>
+_male_: 7.19 deaths/1,000 live births<br>
+_female_: 5.41 deaths/1,000 live births (2023 est.)<br>
 
 **Life expectancy at birth**<br>
-_total population_: 72.44 years<br>
-_male_: 66.92 years<br>
-_female_: 78.3 years (2022 est.)<br>
+_total population_: 72.72 years<br>
+_male_: 67.22 years<br>
+_female_: 78.54 years (2023 est.)<br>
 
 **Total fertility rate**<br>
-1.6 children born/woman (2022 est.)<br>
+1.6 children born/woman (2023 est.)<br>
 
 **Gross reproduction rate**<br>
 0.78 (2023 est.)<br>
@@ -748,8 +744,8 @@ Armed Forces of the Russian Federation: Ground Troops (Sukhoputnyye Voyskia, SV)
 4.2% of GDP (2017 est.) (approximately $104 billion)<br>
 
 **Military and security service personnel strengths**<br>
-prior to Russia's invasion of Ukraine in February 2022, approximately 850,000 active-duty troops (300,000 Ground Troops; 40,000 Airborne Troops; 150,000 Navy; 160,000 Aerospace Forces; 70,000 Strategic Rocket Forces; approximately 20,000 special operations forces; approximately 100,000 other uniformed personnel (command and control, cyber, support, logistics, security, etc.); estimated 200-250,000 Federal National Guard Troops (2023)<br>
-<strong>note 1: </strong>in December 2022, the Russian Government announced a target level of 1.15 million total troops; in early 2023, it announced further plans to expand the size of the armed forces to 1.5 million but did not provide a timeline<br><br><strong>note 2: </strong>Russia was estimated to have as many as 50,000 private military contractors fighting in Ukraine as of early 2023 <br>
+prior to Russia's invasion of Ukraine in February 2022, approximately 850,000 active-duty troops (300,000 Ground Troops; 40,000 Airborne Troops; 150,000 Navy; 160,000 Aerospace Forces; 70,000 Strategic Rocket Forces; approximately 20,000 special operations forces; approximately 100,000 other uniformed personnel (command and control, cyber, support, logistics, security, etc.); estimated 300,000 Federal National Guard Troops (2023)<br>
+<strong>note 1: </strong>in December 2022, the Russian Government announced a target level of 1.15 million total troops; in early 2023, it announced further plans to expand the size of the armed forces to 1.5 million but did not provide a timeline<br><br><strong>note 2: </strong>Russia was estimated to have as many as 50,000 private military contractors fighting in Ukraine as of early 2023<br>
 
 **Military equipment inventories and acquisitions**<br>
 the Russian Federation's military and paramilitary services are equipped with domestically produced weapons systems, although in recent years Russia has imported limited amounts of military hardware from several countries, including Czechia, France, Iran, Israel, Italy, Turkey, and Ukraine; the Russian defense industry is capable of designing, developing, and producing a full range of advanced air, land, missile, and naval systems; Russia is the world's second largest exporter of military hardware (2022)<br>

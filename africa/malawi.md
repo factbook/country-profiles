@@ -83,7 +83,7 @@ landlocked; Lake Nyasa, some 580 km long, is the country's most prominent physic
 ## People and Society
 
 **Population**<br>
-20,794,353 (2022 est.)<br>
+21,279,597 (2023 est.)<br>
 
 **Nationality**<br>
 _noun_: Malawian(s)<br>
@@ -103,11 +103,9 @@ Protestant 33.5% (includes Church of Central Africa Presbyterian 14.2%, Seventh 
 <p>Malawi has made great improvements in maternal and child health, but has made less progress in reducing its high fertility rate. In both rural and urban areas, very high proportions of mothers are receiving prenatal care and skilled birth assistance, and most children are being vaccinated. Malawi’s fertility rate, however, has only declined slowly, decreasing from more than 7 children per woman in the 1980s to about 5.5 today. Nonetheless, Malawians prefer smaller families than in the past, and women are increasingly using contraceptives to prevent or space pregnancies. Rapid population growth and high population density is putting pressure on Malawi’s land, water, and forest resources. Reduced plot sizes and increasing vulnerability to climate change, further threaten the sustainability of Malawi’s agriculturally based economy and will worsen food shortages. About 80% of the population is employed in agriculture.</p><p>Historically, Malawians migrated abroad in search of work, primarily to South Africa and present-day Zimbabwe, but international migration became uncommon after the 1970s, and most migration in recent years has been internal. During the colonial period, Malawians regularly migrated to southern Africa as contract farm laborers, miners, and domestic servants. In the decade and a half after independence in 1964, the Malawian Government sought to transform its economy from one dependent on small-scale farms to one based on estate agriculture. The resulting demand for wage labor induced more than 300,000 Malawians to return home between the mid-1960s and the mid-1970s. In recent times, internal migration has generally been local, motivated more by marriage than economic reasons.</p><br>
 
 **Age structure**<br>
-_0-14 years_: 45.87% (male 4,843,107/female 4,878,983)<br>
-_15-24 years_: 20.51% (male 2,151,417/female 2,195,939)<br>
-_25-54 years_: 27.96% (male 2,944,936/female 2,982,195)<br>
-_55-64 years_: 2.98% (male 303,803/female 328,092)<br>
-_65 years and over_: 2.68% (male 249,219/female 318,938) (2020 est.)<br>
+_0-14 years_: 38.54% (male 4,073,674/female 4,128,035)<br>
+_15-64 years_: 57.64% (male 6,001,150/female 6,264,749)<br>
+_65 years and over_: 3.82% (2023 est.) (male 362,428/female 449,561)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 84.7<br>
@@ -121,16 +119,16 @@ _male_: 16.7 years<br>
 _female_: 16.9 years (2020 est.)<br>
 
 **Population growth rate**<br>
-2.34% (2022 est.)<br>
+2.28% (2023 est.)<br>
 
 **Birth rate**<br>
-27.94 births/1,000 population (2022 est.)<br>
+27.29 births/1,000 population (2023 est.)<br>
 
 **Death rate**<br>
-4.58 deaths/1,000 population (2022 est.)<br>
+4.51 deaths/1,000 population (2023 est.)<br>
 
 **Net migration rate**<br>
-0 migrant(s)/1,000 population (2022 est.)<br>
+0 migrant(s)/1,000 population (2023 est.)<br>
 
 **Population distribution**<br>
 population density is highest south of Lake Nyasa as shown in this population distribution map<br>
@@ -145,11 +143,9 @@ _rate of urbanization_: 4.41% annual rate of change (2020-25 est.)<br>
 **Sex ratio**<br>
 _at birth_: 1.02 male(s)/female<br>
 _0-14 years_: 0.99 male(s)/female<br>
-_15-24 years_: 0.97 male(s)/female<br>
-_25-54 years_: 0.95 male(s)/female<br>
-_55-64 years_: 0.9 male(s)/female<br>
-_65 years and over_: 0.64 male(s)/female<br>
-_total population_: 0.96 male(s)/female (2022 est.)<br>
+_15-64 years_: 0.96 male(s)/female<br>
+_65 years and over_: 0.81 male(s)/female<br>
+_total population_: 0.96 male(s)/female (2023 est.)<br>
 
 **Mother's mean age at first birth**<br>
 19.1 years (2015/16 est.)<br>
@@ -159,17 +155,17 @@ _total population_: 0.96 male(s)/female (2022 est.)<br>
 349 deaths/100,000 live births (2017 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 33.43 deaths/1,000 live births<br>
-_male_: 37.86 deaths/1,000 live births<br>
-_female_: 28.93 deaths/1,000 live births (2022 est.)<br>
+_total_: 32.68 deaths/1,000 live births<br>
+_male_: 37.12 deaths/1,000 live births<br>
+_female_: 28.16 deaths/1,000 live births (2023 est.)<br>
 
 **Life expectancy at birth**<br>
-_total population_: 72.44 years<br>
-_male_: 69.33 years<br>
-_female_: 75.59 years (2022 est.)<br>
+_total population_: 72.71 years<br>
+_male_: 69.62 years<br>
+_female_: 75.85 years (2023 est.)<br>
 
 **Total fertility rate**<br>
-3.4 children born/woman (2022 est.)<br>
+3.3 children born/woman (2023 est.)<br>
 
 **Gross reproduction rate**<br>
 1.64 (2023 est.)<br>
@@ -729,7 +725,7 @@ the MDF’s primary responsibility is external security; it is also tasked as ne
 <p><em>Malawi-Mozambique</em>: the two countries have held exercises to reaffirm boundaries a number of times</p> <p><em>Malawi-Tanzania</em>: dispute with Tanzania over the boundary in Lake Nyasa (Lake Malawi) and the meandering Songwe River; Malawi contends that the entire lake up to the Tanzanian shoreline is its territory, while Tanzania claims the border is in the center of the lake; the conflict was reignited in 2012 when Malawi awarded a license to a British company for oil exploration in the lake</p> <p><em>Malawi-Zambia</em>: border demarcation was completed in 2011; in 2018, the redemarcation exercise determined that some parts of Malawi actually belonged to Zambia</p> <p> </p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 34,840 (Democratic Republic of the Congo) (refugees and asylum seekers), 13,131 (Burundi) (refugees and asylum seekers), 7,726 (Rwanda) (refugees and asylum seekers) (2022)<br>
+_refugees (country of origin)_: 34,840 (Democratic Republic of the Congo) (refugees and asylum seekers), 13,205 (Burundi) (refugees and asylum seekers), 7,807 (Rwanda) (refugees and asylum seekers) (2022)<br>
 
 **Illicit drugs**<br>
 NA<br>

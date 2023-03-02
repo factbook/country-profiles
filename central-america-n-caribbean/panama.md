@@ -78,7 +78,7 @@ strategic location on eastern end of isthmus forming land bridge connecting Nort
 ## People and Society
 
 **Population**<br>
-4,337,768 (2022 est.)<br>
+4,404,108 (2023 est.)<br>
 
 **Nationality**<br>
 _noun_: Panamanian(s)<br>
@@ -98,11 +98,9 @@ Roman Catholic 48.6%, Evangelical 30.2%, other 4.7%, agnostic 0.2%, atheist 0.2%
 <p>Panama is a country of demographic and economic contrasts. It is in the midst of a demographic transition, characterized by steadily declining rates of fertility, mortality, and population growth, but disparities persist based on wealth, geography, and ethnicity. Panama has one of the fastest growing economies in Latin America and dedicates substantial funding to social programs, yet poverty and inequality remain prevalent. The indigenous population accounts for a growing share of Panama's poor and extreme poor, while the non-indigenous rural poor have been more successful at rising out of poverty through rural-to-urban labor migration. The government's large expenditures on untargeted, indirect subsidies for water, electricity, and fuel have been ineffective, but its conditional cash transfer program has shown some promise in helping to decrease extreme poverty among the indigenous population.</p><p>Panama has expanded access to education and clean water, but the availability of sanitation and, to a lesser extent, electricity remains poor. The increase in secondary schooling - led by female enrollment - is spreading to rural and indigenous areas, which probably will help to alleviate poverty if educational quality and the availability of skilled jobs improve. Inadequate access to sanitation contributes to a high incidence of diarrhea in Panama's children, which is one of the main causes of Panama's elevated chronic malnutrition rate, especially among indigenous communities.</p><br>
 
 **Age structure**<br>
-_0-14 years_: 25.56% (male 508,131/female 487,205)<br>
-_15-24 years_: 16.59% (male 329,250/female 316,796)<br>
-_25-54 years_: 40.31% (male 794,662/female 774,905)<br>
-_55-64 years_: 8.54% (male 165,129/female 167,317)<br>
-_65 years and over_: 9.01% (male 160,516/female 190,171) (2020 est.)<br>
+_0-14 years_: 25.19% (male 569,439/female 540,143)<br>
+_15-64 years_: 64.87% (male 1,444,638/female 1,412,319)<br>
+_65 years and over_: 9.94% (2023 est.) (male 204,156/female 233,413)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 53.8<br>
@@ -116,16 +114,16 @@ _male_: 29.6 years<br>
 _female_: 30.5 years (2020 est.)<br>
 
 **Population growth rate**<br>
-1.53% (2022 est.)<br>
+1.51% (2023 est.)<br>
 
 **Birth rate**<br>
-17.99 births/1,000 population (2022 est.)<br>
+17.71 births/1,000 population (2023 est.)<br>
 
 **Death rate**<br>
-6.11 deaths/1,000 population (2022 est.)<br>
+5.88 deaths/1,000 population (2023 est.)<br>
 
 **Net migration rate**<br>
-3.42 migrant(s)/1,000 population (2022 est.)<br>
+3.22 migrant(s)/1,000 population (2023 est.)<br>
 
 **Population distribution**<br>
 population is concentrated towards the center of the country, particularly around the Canal, but a sizeable segment of the populace also lives in the far west around David; the eastern third of the country is sparsely inhabited<br>
@@ -140,27 +138,25 @@ _rate of urbanization_: 1.92% annual rate of change (2020-25 est.)<br>
 **Sex ratio**<br>
 _at birth_: 1.06 male(s)/female<br>
 _0-14 years_: 1.05 male(s)/female<br>
-_15-24 years_: 1.03 male(s)/female<br>
-_25-54 years_: 1.02 male(s)/female<br>
-_55-64 years_: 1 male(s)/female<br>
-_65 years and over_: 0.75 male(s)/female<br>
-_total population_: 1.02 male(s)/female (2022 est.)<br>
+_15-64 years_: 1.02 male(s)/female<br>
+_65 years and over_: 0.87 male(s)/female<br>
+_total population_: 1.01 male(s)/female (2023 est.)<br>
 
 **Maternal mortality ratio**<br>
 52 deaths/100,000 live births (2017 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 16.44 deaths/1,000 live births<br>
-_male_: 17.69 deaths/1,000 live births<br>
-_female_: 15.11 deaths/1,000 live births (2022 est.)<br>
+_total_: 15.28 deaths/1,000 live births<br>
+_male_: 16.53 deaths/1,000 live births<br>
+_female_: 13.96 deaths/1,000 live births (2023 est.)<br>
 
 **Life expectancy at birth**<br>
-_total population_: 77.62 years<br>
-_male_: 74.76 years<br>
-_female_: 80.66 years (2022 est.)<br>
+_total population_: 78.44 years<br>
+_male_: 75.6 years<br>
+_female_: 81.46 years (2023 est.)<br>
 
 **Total fertility rate**<br>
-2.39 children born/woman (2022 est.)<br>
+2.37 children born/woman (2023 est.)<br>
 
 **Gross reproduction rate**<br>
 1.15 (2023 est.)<br>

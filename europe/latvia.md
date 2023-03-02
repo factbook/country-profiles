@@ -76,7 +76,7 @@ most of the country is composed of fertile low-lying plains with some hills in t
 ## People and Society
 
 **Population**<br>
-1,842,226 (2022 est.)<br>
+1,821,750 (2023 est.)<br>
 
 **Nationality**<br>
 _noun_: Latvian(s)<br>
@@ -93,11 +93,9 @@ _major-language sample(s)_: <br>World Factbook, neaizstājams avots pamata infor
 Lutheran 36.2%, Roman Catholic 19.5%, Orthodox 19.1%, other Christian 1.6%, other 0.1%, unspecified/none 23.5% (2017 est.)<br>
 
 **Age structure**<br>
-_0-14 years_: 15.32% (male 148,120/female 140,028)<br>
-_15-24 years_: 9% (male 87,372/female 81,965)<br>
-_25-54 years_: 40.41% (male 380,817/female 379,359)<br>
-_55-64 years_: 14.77% (male 125,401/female 152,548)<br>
-_65 years and over_: 20.5% (male 128,151/female 257,471) (2020 est.)<br>
+_0-14 years_: 14.92% (male 139,877/female 131,839)<br>
+_15-64 years_: 63.37% (male 570,902/female 583,578)<br>
+_65 years and over_: 21.71% (2023 est.) (male 134,809/female 260,745)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 59.3<br>
@@ -111,16 +109,16 @@ _male_: 40.5 years<br>
 _female_: 48 years (2020 est.)<br>
 
 **Population growth rate**<br>
--1.11% (2022 est.)<br>
+-1.13% (2023 est.)<br>
 
 **Birth rate**<br>
-8.73 births/1,000 population (2022 est.)<br>
+8.5 births/1,000 population (2023 est.)<br>
 
 **Death rate**<br>
-14.65 deaths/1,000 population (2022 est.)<br>
+14.69 deaths/1,000 population (2023 est.)<br>
 
 **Net migration rate**<br>
--5.19 migrant(s)/1,000 population (2022 est.)<br>
+-5.06 migrant(s)/1,000 population (2023 est.)<br>
 
 **Population distribution**<br>
 largest concentration of people is found in and around the port and capital city of Riga; small agglomerations are scattered throughout the country<br>
@@ -135,11 +133,9 @@ _rate of urbanization_: -0.68% annual rate of change (2020-25 est.)<br>
 **Sex ratio**<br>
 _at birth_: 1.05 male(s)/female<br>
 _0-14 years_: 1.06 male(s)/female<br>
-_15-24 years_: 1.06 male(s)/female<br>
-_25-54 years_: 1.02 male(s)/female<br>
-_55-64 years_: 0.84 male(s)/female<br>
-_65 years and over_: 0.36 male(s)/female<br>
-_total population_: 0.86 male(s)/female (2022 est.)<br>
+_15-64 years_: 0.98 male(s)/female<br>
+_65 years and over_: 0.52 male(s)/female<br>
+_total population_: 0.87 male(s)/female (2023 est.)<br>
 
 **Mother's mean age at first birth**<br>
 27.3 years (2020 est.)<br>
@@ -148,17 +144,17 @@ _total population_: 0.86 male(s)/female (2022 est.)<br>
 19 deaths/100,000 live births (2017 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 4.85 deaths/1,000 live births<br>
-_male_: 5.27 deaths/1,000 live births<br>
-_female_: 4.42 deaths/1,000 live births (2022 est.)<br>
+_total_: 4.78 deaths/1,000 live births<br>
+_male_: 5.2 deaths/1,000 live births<br>
+_female_: 4.34 deaths/1,000 live births (2023 est.)<br>
 
 **Life expectancy at birth**<br>
-_total population_: 75.91 years<br>
-_male_: 71.47 years<br>
-_female_: 80.56 years (2022 est.)<br>
+_total population_: 76.16 years<br>
+_male_: 71.75 years<br>
+_female_: 80.79 years (2023 est.)<br>
 
 **Total fertility rate**<br>
-1.54 children born/woman (2022 est.)<br>
+1.55 children born/woman (2023 est.)<br>
 
 **Gross reproduction rate**<br>
 0.76 (2023 est.)<br>
@@ -717,7 +713,7 @@ Latvia became a member of NATO in 2004 <br><br>since 2017, Latvia has hosted a C
 <p><em>Latvia-Belarus</em>: Belarus and Latvia signed joint demarcation map in September 2008</p> <p><em>Latvia-Estonia</em>: demarcation reportedly completed in 1998</p> <p><em>Latvia-Lithuania</em>: boundary demarcation was completed by the end of 1998; the Latvian parliament has not ratified its 1998 maritime boundary treaty with Lithuania, primarily due to concerns over oil exploration rights</p> <p><em>Latvia-Russia</em>: Russia demands better Latvian treatment of ethnic Russians in Latvia; in March 2007, Latvia and Russia signed a border treaty, which includes Latvia withdrawing claims to a district now in Russia that was part of Latvia before WWII; the permanent demarcation of the boundary between Latvia and Russia was completed and came into force in April 2018; as a member state that forms part of the EU's external border, Latvia has implemented the strict Schengen border rules with Russia</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 35,322 (Ukraine) (as of 13 February 2023)<br>
+_refugees (country of origin)_: 35,243 (Ukraine) (as of 27 February 2023)<br>
 _stateless persons_: 195,354 (2022); note - individuals who were Latvian citizens prior to the 1940 Soviet occupation and their descendants were recognized as Latvian citizens when the country's independence was restored in 1991; citizens of the former Soviet Union residing in Latvia who have neither Latvian nor other citizenship are considered non-citizens (officially there is no statelessness in Latvia) and are entitled to non-citizen passports; children born after Latvian independence to stateless parents are entitled to Latvian citizenship upon their parents' request; non-citizens cannot vote or hold certain government jobs and are exempt from military service but can travel visa-free in the EU under the Schengen accord like Latvian citizens; non-citizens can obtain naturalization if they have been permanent residents of Latvia for at least five years, pass tests in Latvian language and history, and know the words of the Latvian national anthem<br>
 
 **Illicit drugs**<br>

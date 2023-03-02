@@ -87,7 +87,7 @@ the Niger River enters the country in the northwest and flows southward through 
 ## People and Society
 
 **Population**<br>
-225,082,083 (2022 est.)<br>
+230,842,743 (2023 est.)<br>
 
 **Nationality**<br>
 _noun_: Nigerian(s)<br>
@@ -107,11 +107,9 @@ Muslim 53.5%, Roman Catholic 10.6%, other Christian 35.3%, other 0.6% (2018 est.
 <p>Nigeria’s population is projected to grow from more than 186 million people in 2016 to 392 million in 2050, becoming the world’s fourth most populous country. Nigeria’s sustained high population growth rate will continue for the foreseeable future because of population momentum and its high birth rate. Abuja has not successfully implemented family planning programs to reduce and space births because of a lack of political will, government financing, and the availability and affordability of services and products, as well as a cultural preference for large families. Increased educational attainment, especially among women, and improvements in health care are needed to encourage and to better enable parents to opt for smaller families.</p><p>Nigeria needs to harness the potential of its burgeoning youth population in order to boost economic development, reduce widespread poverty, and channel large numbers of unemployed youth into productive activities and away from ongoing religious and ethnic violence. While most movement of Nigerians is internal, significant emigration regionally and to the West provides an outlet for Nigerians looking for economic opportunities, seeking asylum, and increasingly pursuing higher education. Immigration largely of West Africans continues to be insufficient to offset emigration and the loss of highly skilled workers. Nigeria also is a major source, transit, and destination country for forced labor and sex trafficking.</p><br>
 
 **Age structure**<br>
-_0-14 years_: 41.7% (male 45,571,738/female 43,674,769)<br>
-_15-24 years_: 20.27% (male 22,022,660/female 21,358,753)<br>
-_25-54 years_: 30.6% (male 32,808,913/female 32,686,474)<br>
-_55-64 years_: 4.13% (male 4,327,847/female 4,514,264)<br>
-_65 years and over_: 3.3% (male 3,329,083/female 3,733,801) (2020 est.)<br>
+_0-14 years_: 40.69% (male 47,978,838/female 45,940,446)<br>
+_15-64 years_: 55.95% (male 64,923,147/female 64,241,948)<br>
+_65 years and over_: 3.36% (2023 est.) (male 3,635,334/female 4,123,030)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 86<br>
@@ -125,16 +123,16 @@ _male_: 18.4 years<br>
 _female_: 18.9 years (2020 est.)<br>
 
 **Population growth rate**<br>
-2.53% (2022 est.)<br>
+2.53% (2023 est.)<br>
 
 **Birth rate**<br>
-34.19 births/1,000 population (2022 est.)<br>
+34 births/1,000 population (2023 est.)<br>
 
 **Death rate**<br>
-8.7 deaths/1,000 population (2022 est.)<br>
+8.52 deaths/1,000 population (2023 est.)<br>
 
 **Net migration rate**<br>
--0.21 migrant(s)/1,000 population (2022 est.)<br>
+-0.21 migrant(s)/1,000 population (2023 est.)<br>
 
 **Population distribution**<br>
 largest population of any African nation; significant population clusters are scattered throughout the country, with the highest density areas being in the south and southwest as shown in this population distribution map<br>
@@ -149,11 +147,9 @@ _rate of urbanization_: 3.92% annual rate of change (2020-25 est.)<br>
 **Sex ratio**<br>
 _at birth_: 1.06 male(s)/female<br>
 _0-14 years_: 1.04 male(s)/female<br>
-_15-24 years_: 1.03 male(s)/female<br>
-_25-54 years_: 1 male(s)/female<br>
-_55-64 years_: 0.96 male(s)/female<br>
-_65 years and over_: 0.77 male(s)/female<br>
-_total population_: 1.02 male(s)/female (2022 est.)<br>
+_15-64 years_: 1.01 male(s)/female<br>
+_65 years and over_: 0.88 male(s)/female<br>
+_total population_: 1.02 male(s)/female (2023 est.)<br>
 
 **Mother's mean age at first birth**<br>
 20.4 years (2018 est.)<br>
@@ -163,17 +159,17 @@ _total population_: 1.02 male(s)/female (2022 est.)<br>
 917 deaths/100,000 live births (2017 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 56.68 deaths/1,000 live births<br>
-_male_: 62.03 deaths/1,000 live births<br>
-_female_: 51.01 deaths/1,000 live births (2022 est.)<br>
+_total_: 55.17 deaths/1,000 live births<br>
+_male_: 60.43 deaths/1,000 live births<br>
+_female_: 49.6 deaths/1,000 live births (2023 est.)<br>
 
 **Life expectancy at birth**<br>
-_total population_: 61.33 years<br>
-_male_: 59.51 years<br>
-_female_: 63.27 years (2022 est.)<br>
+_total population_: 61.79 years<br>
+_male_: 59.93 years<br>
+_female_: 63.75 years (2023 est.)<br>
 
 **Total fertility rate**<br>
-4.62 children born/woman (2022 est.)<br>
+4.57 children born/woman (2023 est.)<br>
 
 **Gross reproduction rate**<br>
 2.22 (2023 est.)<br>
@@ -766,8 +762,8 @@ Boko Haram; Islamic State of Iraq and ash-Sham – West Africa; Jama’atu Ansar
 <p><em>Nigeria-Benin</em>: none identified</p> <p><em>Nigeria-Cameroon</em>: Joint Border Commission with Cameroon reviewed 2002 ICJ ruling on the entire boundary and bilaterally resolved differences, including June 2006 Greentree Agreement that immediately ceded sovereignty of the Bakassi Peninsula to Cameroon with a phaseout of Nigerian control within two years while resolving patriation issues; demarcation of the Bakassi Peninsula and adjoining border areas should be finalized in 2022; as Lake Chad’s evaporation exposed dry land, only Nigeria and Cameroon have heeded the Lake Chad Commission's admonition to ratify the delimitation treaty which also includes the Chad-Niger and Niger-Nigeria boundaries</p> <p><em>Nigeria-Cameroon-Equatorial Guinea</em>: the ICJ ruled on an equidistance settlement of Cameroon-Equatorial Guinea-Nigeria maritime boundary in the Gulf of Guinea, but imprecisely defined coordinates in the ICJ decision and a sovereignty dispute between Equatorial Guinea and Cameroon over an island at the mouth of the Ntem River all contribute to the delay in implementation</p> <p><em>Nigeria-Niger</em>: none identified</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 86,731 (Cameroon) (2022)<br>
-_IDPs_: 3.12 million (northeast Nigeria; Boko Haram attacks and counterinsurgency efforts in northern Nigeria; communal violence between Christians and Muslims in the middle belt region, political violence; flooding; forced evictions; cattle rustling; competition for resources) (2023)<br>
+_refugees (country of origin)_: 87,220 (Cameroon) (2023)<br>
+_IDPs_: 3.17 million (northeast Nigeria; Boko Haram attacks and counterinsurgency efforts in northern Nigeria; communal violence between Christians and Muslims in the middle belt region, political violence; flooding; forced evictions; cattle rustling; competition for resources) (2023)<br>
 
 **Illicit drugs**<br>
 a significant source for cannabis cultivation and methamphetamine production; a major place for transnational drug trafficking networks that supply cocaine to Asia and Europe, heroin to Europe and North America, and methamphetamine to South Africa, Southeast Asia, Australia, and New Zealand; traffickers also involved in the transportation, facilitation, and distribution of illicitly diverted tramadol<br>

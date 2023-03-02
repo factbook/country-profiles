@@ -82,7 +82,7 @@ landlocked; almost the precise center of Africa<br>
 ## People and Society
 
 **Population**<br>
-5,454,533 (2022 est.)<br>
+5,552,228 (2023 est.)<br>
 
 **Nationality**<br>
 _noun_: Central African(s)<br>
@@ -102,11 +102,9 @@ Christian 89%, Muslim 9%, folk religion 1%, unaffiliated 1% (2020 est.)<br>
 <p>The Central African Republic’s (CAR) humanitarian crisis has worsened since the coup of March 2013. CAR’s high mortality rate and low life expectancy are attributed to elevated rates of preventable and treatable diseases (including malaria and malnutrition), an inadequate health care system, precarious food security, and armed conflict. Some of the worst mortality rates are in western CAR’s diamond mining region, which has been impoverished because of government attempts to control the diamond trade and the fall in industrial diamond prices. To make matters worse, the government and international donors have reduced health funding in recent years. The CAR’s weak educational system and low literacy rate have also suffered as a result of the country’s ongoing conflict. Schools are closed, qualified teachers are scarce, infrastructure, funding, and supplies are lacking and subject to looting, and many students and teachers have been displaced by violence.</p> <p>Rampant poverty, human rights violations, unemployment, poor infrastructure, and a lack of security and stability have led to forced displacement internally and externally. Since the political crisis that resulted in CAR’s March 2013 coup began in December 2012, approximately 600,000 people have fled to Chad, the Democratic Republic of the Congo, and other neighboring countries, while another estimated 515,000 were displaced internally as of December 2022. The UN has urged countries to refrain from repatriating CAR refugees amid the heightened lawlessness.</p> (2019)<br>
 
 **Age structure**<br>
-_0-14 years_: 39.49% (male 1,188,682/female 1,176,958)<br>
-_15-24 years_: 19.89% (male 598,567/female 593,075)<br>
-_25-54 years_: 32.95% (male 988,077/female 986,019)<br>
-_55-64 years_: 4.32% (male 123,895/female 134,829)<br>
-_65 years and over_: 3.35% (male 78,017/female 122,736) (2020 est.)<br>
+_0-14 years_: 38.84% (male 1,104,007/female 1,052,411)<br>
+_15-64 years_: 57.71% (male 1,577,102/female 1,627,133)<br>
+_65 years and over_: 3.45% (2023 est.) (male 83,431/female 108,144)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 102.8<br>
@@ -120,16 +118,16 @@ _male_: 19.7 years<br>
 _female_: 20.3 years (2020 est.)<br>
 
 **Population growth rate**<br>
-1.78% (2022 est.)<br>
+1.77% (2023 est.)<br>
 
 **Birth rate**<br>
-32.79 births/1,000 population (2022 est.)<br>
+32.37 births/1,000 population (2023 est.)<br>
 
 **Death rate**<br>
-11.76 deaths/1,000 population (2022 est.)<br>
+11.51 deaths/1,000 population (2023 est.)<br>
 
 **Net migration rate**<br>
--3.22 migrant(s)/1,000 population (2022 est.)<br>
+-3.16 migrant(s)/1,000 population (2023 est.)<br>
 
 **Population distribution**<br>
 majority of residents live in the western and central areas of the country, especially in and around the capital of Bangui as shown in this population distribution map<br>
@@ -144,27 +142,25 @@ _rate of urbanization_: 3.32% annual rate of change (2020-25 est.)<br>
 **Sex ratio**<br>
 _at birth_: 1.03 male(s)/female<br>
 _0-14 years_: 1.05 male(s)/female<br>
-_15-24 years_: 1.08 male(s)/female<br>
-_25-54 years_: 0.89 male(s)/female<br>
-_55-64 years_: 1.04 male(s)/female<br>
-_65 years and over_: 0.64 male(s)/female<br>
-_total population_: 0.99 male(s)/female (2022 est.)<br>
+_15-64 years_: 0.97 male(s)/female<br>
+_65 years and over_: 0.77 male(s)/female<br>
+_total population_: 0.99 male(s)/female (2023 est.)<br>
 
 **Maternal mortality ratio**<br>
 829 deaths/100,000 live births (2017 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 82.97 deaths/1,000 live births<br>
-_male_: 89.03 deaths/1,000 live births<br>
-_female_: 76.73 deaths/1,000 live births (2022 est.)<br>
+_total_: 81.74 deaths/1,000 live births<br>
+_male_: 87.69 deaths/1,000 live births<br>
+_female_: 75.61 deaths/1,000 live births (2023 est.)<br>
 
 **Life expectancy at birth**<br>
-_total population_: 55.52 years<br>
-_male_: 54.19 years<br>
-_female_: 56.88 years (2022 est.)<br>
+_total population_: 55.96 years<br>
+_male_: 54.64 years<br>
+_female_: 57.31 years (2023 est.)<br>
 
 **Total fertility rate**<br>
-4.04 children born/woman (2022 est.)<br>
+3.99 children born/woman (2023 est.)<br>
 
 **Gross reproduction rate**<br>
 1.97 (2023 est.)<br>
@@ -690,9 +686,9 @@ Central African Armed Forces (Forces Armees Centrafricaines, FACA): Army (includ
 **Military expenditures**<br>
 1.8% of GDP (2021 est.)<br>
 1.8% of GDP (2020 est.)<br>
-1.7% of GDP (2019 est.) (approximately $50 million)<br>
-1.4% of GDP (2018 est.) (approximately $40 million)<br>
-1.4% of GDP (2017 est.) (approximately $40 million)<br>
+1.7% of GDP (2019 est.)<br>
+1.4% of GDP (2018 est.)<br>
+1.4% of GDP (2017 est.)<br>
 
 **Military and security service personnel strengths**<br>
 information varies; approximately 8,000 FACA troops; up to 2,000 Gendarmerie; approximately 2,000 Mixed Special Security Units (2022)<br>

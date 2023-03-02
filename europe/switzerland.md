@@ -82,7 +82,7 @@ landlocked; crossroads of northern and southern Europe; along with southeastern 
 ## People and Society
 
 **Population**<br>
-8,508,698 (2022 est.)<br>
+8,563,760 (2023 est.)<br>
 
 **Nationality**<br>
 _noun_: Swiss (singular and plural)<br>
@@ -100,11 +100,9 @@ _major-language sample(s)_: <br>Das World Factbook, die unverzichtbare Quelle f√
 Roman Catholic 34.4%, Protestant 22.5%, other Christian 5.7%, Muslim 5.4%, other 1.5%, none 29.4%, unspecified 1.1% (2020 est.)<br>
 
 **Age structure**<br>
-_0-14 years_: 15.34% (male 664,255/female 625,252)<br>
-_15-24 years_: 10.39% (male 446,196/female 426,708)<br>
-_25-54 years_: 42.05% (male 1,768,245/female 1,765,941)<br>
-_55-64 years_: 13.48% (male 569,717/female 563,482)<br>
-_65 years and over_: 18.73% (male 699,750/female 874,448) (2020 est.)<br>
+_0-14 years_: 15.49% (male 683,053/female 643,067)<br>
+_15-64 years_: 65.13% (male 2,800,880/female 2,777,109)<br>
+_65 years and over_: 19.38% (2023 est.) (male 745,501/female 914,150)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 51.6<br>
@@ -118,16 +116,16 @@ _male_: 41.7 years<br>
 _female_: 43.7 years (2020 est.)<br>
 
 **Population growth rate**<br>
-0.65% (2022 est.)<br>
+0.64% (2023 est.)<br>
 
 **Birth rate**<br>
-10.36 births/1,000 population (2022 est.)<br>
+10.3 births/1,000 population (2023 est.)<br>
 
 **Death rate**<br>
-8.4 deaths/1,000 population (2022 est.)<br>
+8.37 deaths/1,000 population (2023 est.)<br>
 
 **Net migration rate**<br>
-4.52 migrant(s)/1,000 population (2022 est.)<br>
+4.5 migrant(s)/1,000 population (2023 est.)<br>
 
 **Population distribution**<br>
 population distribution corresponds to elevation with the northern and western areas far more heavily populated; the higher Alps of the south limit settlement<br>
@@ -142,11 +140,9 @@ _rate of urbanization_: 0.79% annual rate of change (2020-25 est.)<br>
 **Sex ratio**<br>
 _at birth_: 1.06 male(s)/female<br>
 _0-14 years_: 1.06 male(s)/female<br>
-_15-24 years_: 1.05 male(s)/female<br>
-_25-54 years_: 1 male(s)/female<br>
-_55-64 years_: 1.01 male(s)/female<br>
-_65 years and over_: 0.64 male(s)/female<br>
-_total population_: 0.98 male(s)/female (2022 est.)<br>
+_15-64 years_: 1.01 male(s)/female<br>
+_65 years and over_: 0.82 male(s)/female<br>
+_total population_: 0.98 male(s)/female (2023 est.)<br>
 
 **Mother's mean age at first birth**<br>
 31.1 years (2020 est.)<br>
@@ -155,17 +151,17 @@ _total population_: 0.98 male(s)/female (2022 est.)<br>
 5 deaths/100,000 live births (2017 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 3.58 deaths/1,000 live births<br>
-_male_: 4.08 deaths/1,000 live births<br>
-_female_: 3.04 deaths/1,000 live births (2022 est.)<br>
+_total_: 3.51 deaths/1,000 live births<br>
+_male_: 4 deaths/1,000 live births<br>
+_female_: 2.99 deaths/1,000 live births (2023 est.)<br>
 
 **Life expectancy at birth**<br>
-_total population_: 83.23 years<br>
-_male_: 80.91 years<br>
-_female_: 85.67 years (2022 est.)<br>
+_total population_: 83.42 years<br>
+_male_: 81.12 years<br>
+_female_: 85.86 years (2023 est.)<br>
 
 **Total fertility rate**<br>
-1.58 children born/woman (2022 est.)<br>
+1.58 children born/woman (2023 est.)<br>
 
 **Gross reproduction rate**<br>
 0.77 (2023 est.)<br>
@@ -733,7 +729,7 @@ Islamic State of Iraq and ash-Sham (ISIS)<br>
 <p>none identified</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 14,726 (Eritrea), 11,441 (Afghanistan), 8,039 (Syria), (mid-year 2022); 80,324 (Ukraine) (as of 13 February 2023)<br>
+_refugees (country of origin)_: 14,726 (Eritrea), 11,441 (Afghanistan), 8,039 (Syria), (mid-year 2022); 81,436 (Ukraine) (as of 24 February 2023)<br>
 _stateless persons_: 891 (2022)<br>
 
 **Illicit drugs**<br>

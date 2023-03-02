@@ -77,7 +77,7 @@ the country's length allows it to stretch through six distinct geographic region
 ## People and Society
 
 **Population**<br>
-8,492,333 (2022 est.)<br>
+8,703,961 (2023 est.)<br>
 
 **Nationality**<br>
 _noun_: Togolese (singular and plural)<br>
@@ -97,11 +97,9 @@ Christian 42.3%, folk religion 36.9%, Muslim 14%, Hindu &lt;1%, Buddhist &lt;1%,
 <p>Togo’s population is estimated to have grown to four times its size between 1960 and 2010. With nearly 60% of its populace under the age of 25 and a high annual growth rate attributed largely to high fertility, Togo’s population is likely to continue to expand for the foreseeable future. Reducing fertility, boosting job creation, and improving education will be essential to reducing the country’s high poverty rate. In 2008, Togo eliminated primary school enrollment fees, leading to higher enrollment but increased pressure on limited classroom space, teachers, and materials. Togo has a good chance of achieving universal primary education, but educational quality, the underrepresentation of girls, and the low rate of enrollment in secondary and tertiary schools remain concerns.</p> <p>Togo is both a country of emigration and asylum. In the early 1990s, southern Togo suffered from the economic decline of the phosphate sector and ethnic and political repression at the hands of dictator Gnassingbe EYADEMA and his northern, Kabye-dominated administration. The turmoil led 300,000 to 350,000 predominantly southern Togolese to flee to Benin and Ghana, with most not returning home until relative stability was restored in 1997. In 2005, another outflow of 40,000 Togolese to Benin and Ghana occurred when violence broke out between the opposition and security forces over the disputed election of EYADEMA’s son Faure GNASSINGBE to the presidency. About half of the refugees reluctantly returned home in 2006, many still fearing for their safety. Despite ethnic tensions and periods of political unrest, Togo in December 2022 was home to almost 8,400 refugees from Ghana.</p><br>
 
 **Age structure**<br>
-_0-14 years_: 39.73% (male 1,716,667/female 1,703,230)<br>
-_15-24 years_: 19.03% (male 817,093/female 820,971)<br>
-_25-54 years_: 33.26% (male 1,423,554/female 1,439,380)<br>
-_55-64 years_: 4.42% (male 179,779/female 200,392)<br>
-_65 years and over_: 3.57% (male 132,304/female 175,074) (2020 est.)<br>
+_0-14 years_: 38.98% (male 1,720,743/female 1,672,286)<br>
+_15-64 years_: 56.76% (male 2,413,709/female 2,526,816)<br>
+_65 years and over_: 4.26% (2023 est.) (male 153,461/female 216,946)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 76.5<br>
@@ -115,16 +113,16 @@ _male_: 19.7 years<br>
 _female_: 20.3 years (2020 est.)<br>
 
 **Population growth rate**<br>
-2.48% (2022 est.)<br>
+2.45% (2023 est.)<br>
 
 **Birth rate**<br>
-31.86 births/1,000 population (2022 est.)<br>
+31.39 births/1,000 population (2023 est.)<br>
 
 **Death rate**<br>
-5.27 deaths/1,000 population (2022 est.)<br>
+5.16 deaths/1,000 population (2023 est.)<br>
 
 **Net migration rate**<br>
--1.81 migrant(s)/1,000 population (2022 est.)<br>
+-1.77 migrant(s)/1,000 population (2023 est.)<br>
 
 **Population distribution**<br>
 one of the more densely populated African nations with most of the population residing in rural communities, density is highest in the south on or near the Atlantic coast as shown in this population distribution map<br>
@@ -139,11 +137,9 @@ _rate of urbanization_: 3.6% annual rate of change (2020-25 est.)<br>
 **Sex ratio**<br>
 _at birth_: 1.03 male(s)/female<br>
 _0-14 years_: 1.03 male(s)/female<br>
-_15-24 years_: 1 male(s)/female<br>
-_25-54 years_: 0.94 male(s)/female<br>
-_55-64 years_: 0.85 male(s)/female<br>
-_65 years and over_: 0.55 male(s)/female<br>
-_total population_: 0.97 male(s)/female (2022 est.)<br>
+_15-64 years_: 0.96 male(s)/female<br>
+_65 years and over_: 0.71 male(s)/female<br>
+_total population_: 0.97 male(s)/female (2023 est.)<br>
 
 **Mother's mean age at first birth**<br>
 25 years (2017 est.)<br>
@@ -153,17 +149,17 @@ _total population_: 0.97 male(s)/female (2022 est.)<br>
 396 deaths/100,000 live births (2017 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 41.19 deaths/1,000 live births<br>
-_male_: 45.88 deaths/1,000 live births<br>
-_female_: 36.36 deaths/1,000 live births (2022 est.)<br>
+_total_: 39.79 deaths/1,000 live births<br>
+_male_: 44.41 deaths/1,000 live births<br>
+_female_: 35.03 deaths/1,000 live births (2023 est.)<br>
 
 **Life expectancy at birth**<br>
-_total population_: 71.36 years<br>
-_male_: 68.76 years<br>
-_female_: 74.03 years (2022 est.)<br>
+_total population_: 71.71 years<br>
+_male_: 69.13 years<br>
+_female_: 74.37 years (2023 est.)<br>
 
 **Total fertility rate**<br>
-4.23 children born/woman (2022 est.)<br>
+4.18 children born/woman (2023 est.)<br>
 
 **Gross reproduction rate**<br>
 2.06 (2023 est.)<br>
@@ -741,7 +737,7 @@ Jama’at Nusrat al Islam wal Muslimeen (JNIM)<br>
 <p><em>Togo-Benin</em>: in 2001, Benin claimed Togo moved boundary monuments - joint commission continues to resurvey the boundary; Benin’s and Togo’s Adjrala hydroelectric dam project on the Mona River, proposed in the 1990s, commenced in 2017 with funding from a Chinese bank</p> <p><em>Togo-Burkina Faso</em>: none identified</p> <p><em>Togo-Ghana</em>: none identified</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 8,395 (Ghana) (2022)<br>
+_refugees (country of origin)_: 8,395 (Ghana) (2023)<br>
 
 **Illicit drugs**<br>
 transit hub for Nigerian heroin and cocaine traffickers; money laundering not a significant problem<br>

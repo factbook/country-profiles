@@ -74,7 +74,7 @@ insular and continental regions widely separated; despite its name, no part of t
 ## People and Society
 
 **Population**<br>
-1,679,172 (2022 est.)<br>
+1,737,695 (2023 est.)<br>
 
 **Nationality**<br>
 _noun_: Equatorial Guinean(s) or Equatoguinean(s)<br>
@@ -94,11 +94,9 @@ Roman Catholic 88%, Protestant 5%, Muslim 2%, other 5% (animist, Baha'i, Jewish)
 <p>Equatorial Guinea is one of the smallest and least populated countries in continental Africa and is the only independent African country where Spanish is an official language. Despite a boom in oil production in the 1990s, authoritarianism, corruption, and resource mismanagement have concentrated the benefits among a small elite. These practices have perpetuated income inequality and unbalanced development, such as low public spending on education and health care. Unemployment remains problematic because the oil-dominated economy employs a small labor force dependent on skilled foreign workers. The agricultural sector, Equatorial Guinea’s main employer, continues to deteriorate because of a lack of investment and the migration of rural workers to urban areas. About two-thirds of the population lives below the poverty line as of 2020.</p> <p>Equatorial Guinea’s large and growing youth population – about 60% are under the age of 25 as of 2022 – is particularly affected because job creation in the non-oil sectors is limited, and young people often do not have the skills needed in the labor market. Equatorial Guinean children frequently enter school late, have poor attendance, and have high dropout rates. Thousands of Equatorial Guineans fled across the border to Gabon in the 1970s to escape the dictatorship of Francisco MACIAS NGUEMA; smaller numbers have followed in the decades since. Continued inequitable economic growth and high youth unemployment increases the likelihood of ethnic and regional violence.</p><br>
 
 **Age structure**<br>
-_0-14 years_: 38.73% (male 164,417/female 159,400)<br>
-_15-24 years_: 19.94% (male 84,820/female 81,880)<br>
-_25-54 years_: 32.72% (male 137,632/female 135,973)<br>
-_55-64 years_: 4.69% (male 17,252/female 22,006)<br>
-_65 years and over_: 3.92% (male 13,464/female 19,334) (2020 est.)<br>
+_0-14 years_: 36.05% (male 323,846/female 302,666)<br>
+_15-64 years_: 59.01% (male 561,260/female 464,130)<br>
+_65 years and over_: 4.94% (2023 est.) (male 44,561/female 41,232)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 72.2<br>
@@ -112,16 +110,16 @@ _male_: 19.9 years<br>
 _female_: 20.7 years (2020 est.)<br>
 
 **Population growth rate**<br>
-3.5% (2022 est.)<br>
+3.36% (2023 est.)<br>
 
 **Birth rate**<br>
-29.95 births/1,000 population (2022 est.)<br>
+29.46 births/1,000 population (2023 est.)<br>
 
 **Death rate**<br>
-8.95 deaths/1,000 population (2022 est.)<br>
+8.9 deaths/1,000 population (2023 est.)<br>
 
 **Net migration rate**<br>
-13.96 migrant(s)/1,000 population (2022 est.)<br>
+13.01 migrant(s)/1,000 population (2023 est.)<br>
 
 **Population distribution**<br>
 only two large cities over 30,000 people (Bata on the mainland, and the capital Malabo on the island of Bioko); small communities are scattered throughout the mainland and the five inhabited islands as shown in this population distribution map<br>
@@ -135,28 +133,26 @@ _rate of urbanization_: 3.62% annual rate of change (2020-25 est.)<br>
 
 **Sex ratio**<br>
 _at birth_: 1.03 male(s)/female<br>
-_0-14 years_: 1.08 male(s)/female<br>
-_15-24 years_: 1.21 male(s)/female<br>
-_25-54 years_: 1.21 male(s)/female<br>
-_55-64 years_: 1.17 male(s)/female<br>
-_65 years and over_: 0.87 male(s)/female<br>
-_total population_: 1.15 male(s)/female (2022 est.)<br>
+_0-14 years_: 1.07 male(s)/female<br>
+_15-64 years_: 1.21 male(s)/female<br>
+_65 years and over_: 1.08 male(s)/female<br>
+_total population_: 1.15 male(s)/female (2023 est.)<br>
 
 **Maternal mortality ratio**<br>
 301 deaths/100,000 live births (2017 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 78.33 deaths/1,000 live births<br>
-_male_: 84.23 deaths/1,000 live births<br>
-_female_: 72.25 deaths/1,000 live births (2022 est.)<br>
+_total_: 77.85 deaths/1,000 live births<br>
+_male_: 83.76 deaths/1,000 live births<br>
+_female_: 71.77 deaths/1,000 live births (2023 est.)<br>
 
 **Life expectancy at birth**<br>
-_total population_: 63.7 years<br>
-_male_: 61.44 years<br>
-_female_: 66.03 years (2022 est.)<br>
+_total population_: 63.8 years<br>
+_male_: 61.53 years<br>
+_female_: 66.13 years (2023 est.)<br>
 
 **Total fertility rate**<br>
-4.26 children born/woman (2022 est.)<br>
+4.19 children born/woman (2023 est.)<br>
 
 **Gross reproduction rate**<br>
 2.06 (2023 est.)<br>

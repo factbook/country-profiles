@@ -81,7 +81,7 @@ strategic location near Turkish Straits; controls key land routes from Europe to
 ## People and Society
 
 **Population**<br>
-6,873,253 (2022 est.)<br>
+6,827,736 (2023 est.)<br>
 
 **Nationality**<br>
 _noun_: Bulgarian(s)<br>
@@ -99,11 +99,9 @@ _major-language sample(s)_: <br>Светoвен Алманах, незамени
 Eastern Orthodox 59.4%, Muslim 7.8%, other (including Catholic, Protestant, Armenian Apostolic Orthodox, and Jewish) 1.7%, none 3.7%, unspecified 27.4% (2011 est.)<br>
 
 **Age structure**<br>
-_0-14 years_: 14.52% (male 520,190/female 491,506)<br>
-_15-24 years_: 9.4% (male 340,306/female 314,241)<br>
-_25-54 years_: 42.87% (male 1,538,593/female 1,448,080)<br>
-_55-64 years_: 13.15% (male 433,943/female 482,474)<br>
-_65 years and over_: 20.06% (male 562,513/female 835,053) (2020 est.)<br>
+_0-14 years_: 14.03% (male 492,147/female 465,612)<br>
+_15-64 years_: 65.17% (male 2,263,479/female 2,185,969)<br>
+_65 years and over_: 20.81% (2023 est.) (male 570,425/female 850,104)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 57.3<br>
@@ -117,16 +115,16 @@ _male_: 41.9 years<br>
 _female_: 45.6 years (2020 est.)<br>
 
 **Population growth rate**<br>
--0.67% (2022 est.)<br>
+-0.66% (2023 est.)<br>
 
 **Birth rate**<br>
-8.05 births/1,000 population (2022 est.)<br>
+7.97 births/1,000 population (2023 est.)<br>
 
 **Death rate**<br>
-14.41 deaths/1,000 population (2022 est.)<br>
+14.31 deaths/1,000 population (2023 est.)<br>
 
 **Net migration rate**<br>
--0.29 migrant(s)/1,000 population (2022 est.)<br>
+-0.29 migrant(s)/1,000 population (2023 est.)<br>
 
 **Population distribution**<br>
 a fairly even distribution throughout most of the country, with urban areas attracting larger populations<br>
@@ -141,11 +139,9 @@ _rate of urbanization_: -0.28% annual rate of change (2020-25 est.)<br>
 **Sex ratio**<br>
 _at birth_: 1.06 male(s)/female<br>
 _0-14 years_: 1.06 male(s)/female<br>
-_15-24 years_: 1.08 male(s)/female<br>
-_25-54 years_: 1.07 male(s)/female<br>
-_55-64 years_: 0.91 male(s)/female<br>
-_65 years and over_: 0.72 male(s)/female<br>
-_total population_: 0.95 male(s)/female (2022 est.)<br>
+_15-64 years_: 1.04 male(s)/female<br>
+_65 years and over_: 0.67 male(s)/female<br>
+_total population_: 0.95 male(s)/female (2023 est.)<br>
 
 **Mother's mean age at first birth**<br>
 26.4 years (2020 est.)<br>
@@ -154,17 +150,17 @@ _total population_: 0.95 male(s)/female (2022 est.)<br>
 10 deaths/100,000 live births (2017 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 7.98 deaths/1,000 live births<br>
-_male_: 9.02 deaths/1,000 live births<br>
-_female_: 6.88 deaths/1,000 live births (2022 est.)<br>
+_total_: 7.82 deaths/1,000 live births<br>
+_male_: 8.85 deaths/1,000 live births<br>
+_female_: 6.72 deaths/1,000 live births (2023 est.)<br>
 
 **Life expectancy at birth**<br>
-_total population_: 75.57 years<br>
-_male_: 72.36 years<br>
-_female_: 78.97 years (2022 est.)<br>
+_total population_: 75.83 years<br>
+_male_: 72.64 years<br>
+_female_: 79.21 years (2023 est.)<br>
 
 **Total fertility rate**<br>
-1.5 children born/woman (2022 est.)<br>
+1.51 children born/woman (2023 est.)<br>
 
 **Gross reproduction rate**<br>
 0.73 (2023 est.)<br>
@@ -699,8 +695,8 @@ Bulgarian Armed Forces: Land Forces (Army), Naval Forces, Bulgarian Air Forces (
 1.7% of GDP (2022 est.)<br>
 1.6% of GDP (2021)<br>
 1.6% of GDP (2020)<br>
-3.1% of GDP (2019) (approximately $2.95 billion)<br>
-1.5% of GDP (2018) (approximately $1.72 billion)<br>
+3.1% of GDP (2019)<br>
+1.5% of GDP (2018)<br>
 
 **Military and security service personnel strengths**<br>
 approximately 28,000 active duty personnel (17,000 Army; 4,000 Navy; 7,000 Air Force) (2022)<br>
@@ -727,7 +723,7 @@ Islamic State of Iraq and ash-Sham (ISIS); Islamic Revolutionary Guard Corps/Qod
 <p>none</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 22,226 (Syria) (mid-year 2022); 50,373 (Ukraine) (as of 13 February 2023)<br>
+_refugees (country of origin)_: 22,226 (Syria) (mid-year 2022); 50,592 (Ukraine) (as of 28 February 2023)<br>
 _stateless persons_: 1,129 (2022)<br>
 <strong>note:</strong> 84,937 estimated refugee and migrant arrivals (January 2015-October 2022); Bulgaria is predominantly a transit country<br>
 

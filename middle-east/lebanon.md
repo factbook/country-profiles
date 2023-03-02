@@ -73,7 +73,7 @@ smallest country in continental Asia; Nahr el Litani is the only major river in 
 ## People and Society
 
 **Population**<br>
-5,296,814 (2022 est.)<br>
+5,331,203 (2023 est.)<br>
 
 **Nationality**<br>
 _noun_: Lebanese (singular and plural)<br>
@@ -92,11 +92,9 @@ Muslim 67.8% (31.9% Sunni, 31.2% Shia, smaller percentages of Alawites and Ismai
 <strong>note:</strong> data represent the religious affiliation of the citizen population (data do not include Lebanon's sizable Syrian and Palestinian refugee populations); 18 religious sects recognized<br>
 
 **Age structure**<br>
-_0-14 years_: 20.75% (male 581,015/female 554,175)<br>
-_15-24 years_: 14.98% (male 417,739/female 401,357)<br>
-_25-54 years_: 46.69% (male 1,296,250/female 1,257,273)<br>
-_55-64 years_: 9.62% (male 250,653/female 275,670)<br>
-_65 years and over_: 7.96% (male 187,001/female 248,479) (2020 est.)<br>
+_0-14 years_: 19.21% (male 524,172/female 500,185)<br>
+_15-64 years_: 71.69% (male 1,929,150/female 1,892,806)<br>
+_65 years and over_: 9.1% (2023 est.) (male 208,436/female 276,454)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 59.3<br>
@@ -110,16 +108,16 @@ _male_: 33.1 years<br>
 _female_: 34.4 years (2020 est.)<br>
 
 **Population growth rate**<br>
-0.66% (2022 est.)<br>
+0.64% (2023 est.)<br>
 
 **Birth rate**<br>
-13.1 births/1,000 population (2022 est.)<br>
+12.86 births/1,000 population (2023 est.)<br>
 
 **Death rate**<br>
-5.57 deaths/1,000 population (2022 est.)<br>
+5.57 deaths/1,000 population (2023 est.)<br>
 
 **Net migration rate**<br>
--0.94 migrant(s)/1,000 population (2022 est.)<br>
+-0.94 migrant(s)/1,000 population (2023 est.)<br>
 
 **Population distribution**<br>
 the majority of the people live on or near the Mediterranean coast, and of these most live in and around the capital, Beirut; favorable growing conditions in the Bekaa Valley, on the southeastern side of the Lebanon Mountains, have attracted farmers and thus the area exhibits a smaller population density<br>
@@ -134,27 +132,25 @@ _rate of urbanization_: -1.23% annual rate of change (2020-25 est.)<br>
 **Sex ratio**<br>
 _at birth_: 1.05 male(s)/female<br>
 _0-14 years_: 1.05 male(s)/female<br>
-_15-24 years_: 1.04 male(s)/female<br>
-_25-54 years_: 1.03 male(s)/female<br>
-_55-64 years_: 0.93 male(s)/female<br>
-_65 years and over_: 0.67 male(s)/female<br>
-_total population_: 1 male(s)/female (2022 est.)<br>
+_15-64 years_: 1.02 male(s)/female<br>
+_65 years and over_: 0.75 male(s)/female<br>
+_total population_: 1 male(s)/female (2023 est.)<br>
 
 **Maternal mortality ratio**<br>
 29 deaths/100,000 live births (2017 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 7.04 deaths/1,000 live births<br>
-_male_: 7.6 deaths/1,000 live births<br>
-_female_: 6.45 deaths/1,000 live births (2022 est.)<br>
+_total_: 6.88 deaths/1,000 live births<br>
+_male_: 7.42 deaths/1,000 live births<br>
+_female_: 6.31 deaths/1,000 live births (2023 est.)<br>
 
 **Life expectancy at birth**<br>
-_total population_: 78.76 years<br>
-_male_: 77.36 years<br>
-_female_: 80.23 years (2022 est.)<br>
+_total population_: 79 years<br>
+_male_: 77.6 years<br>
+_female_: 80.46 years (2023 est.)<br>
 
 **Total fertility rate**<br>
-1.71 children born/woman (2022 est.)<br>
+1.71 children born/woman (2023 est.)<br>
 
 **Gross reproduction rate**<br>
 0.83 (2023 est.)<br>

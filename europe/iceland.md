@@ -74,7 +74,7 @@ strategic location between Greenland and Europe; westernmost European country; R
 ## People and Society
 
 **Population**<br>
-357,603 (2022 est.)<br>
+360,872 (2023 est.)<br>
 
 **Nationality**<br>
 _noun_: Icelander(s)<br>
@@ -91,11 +91,9 @@ Icelandic, English, Nordic languages, German<br>
 Evangelical Lutheran Church of Iceland (official) 62.3%, Roman Catholic 4%, Independent Congregation of Reykjavik 2.7%, Independent Congregation of Hafnarfjordur 2%, pagan worship 1.4%, Icelandic Ethical Humanist Association 1.1%, other (includes Zuist and Pentecostal) or unspecified 19%, none 7.6% (2021 est.)<br>
 
 **Age structure**<br>
-_0-14 years_: 20.31% (male 36,394/female 34,837)<br>
-_15-24 years_: 12.85% (male 22,748/female 22,317)<br>
-_25-54 years_: 39.44% (male 70,227/female 68,095)<br>
-_55-64 years_: 11.94% (male 20,762/female 21,111)<br>
-_65 years and over_: 15.47% (male 25,546/female 28,697) (2020 est.)<br>
+_0-14 years_: 19.98% (male 36,771/female 35,314)<br>
+_15-64 years_: 63.39% (male 115,547/female 113,212)<br>
+_65 years and over_: 16.63% (2023 est.) (male 28,410/female 31,618)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 50.5<br>
@@ -109,16 +107,16 @@ _male_: 36.6 years<br>
 _female_: 37.7 years (2020 est.)<br>
 
 **Population growth rate**<br>
-0.93% (2022 est.)<br>
+0.89% (2023 est.)<br>
 
 **Birth rate**<br>
-12.96 births/1,000 population (2022 est.)<br>
+12.8 births/1,000 population (2023 est.)<br>
 
 **Death rate**<br>
-6.56 deaths/1,000 population (2022 est.)<br>
+6.57 deaths/1,000 population (2023 est.)<br>
 
 **Net migration rate**<br>
-2.89 migrant(s)/1,000 population (2022 est.)<br>
+2.69 migrant(s)/1,000 population (2023 est.)<br>
 
 **Population distribution**<br>
 Iceland is almost entirely urban with half of the population located in and around the capital of Reykjavik; smaller clusters are primarily found along the coast in the north and west<br>
@@ -133,11 +131,9 @@ _rate of urbanization_: 0.74% annual rate of change (2020-25 est.)<br>
 **Sex ratio**<br>
 _at birth_: 1.05 male(s)/female<br>
 _0-14 years_: 1.04 male(s)/female<br>
-_15-24 years_: 1.02 male(s)/female<br>
-_25-54 years_: 1.03 male(s)/female<br>
-_55-64 years_: 0.98 male(s)/female<br>
-_65 years and over_: 0.76 male(s)/female<br>
-_total population_: 1 male(s)/female (2022 est.)<br>
+_15-64 years_: 1.02 male(s)/female<br>
+_65 years and over_: 0.9 male(s)/female<br>
+_total population_: 1 male(s)/female (2023 est.)<br>
 
 **Mother's mean age at first birth**<br>
 28.7 years (2020 est.)<br>
@@ -146,17 +142,17 @@ _total population_: 1 male(s)/female (2022 est.)<br>
 4 deaths/100,000 live births (2017 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 1.65 deaths/1,000 live births<br>
-_male_: 1.83 deaths/1,000 live births<br>
-_female_: 1.46 deaths/1,000 live births (2022 est.)<br>
+_total_: 1.63 deaths/1,000 live births<br>
+_male_: 1.82 deaths/1,000 live births<br>
+_female_: 1.44 deaths/1,000 live births (2023 est.)<br>
 
 **Life expectancy at birth**<br>
-_total population_: 83.64 years<br>
-_male_: 81.41 years<br>
-_female_: 85.97 years (2022 est.)<br>
+_total population_: 83.83 years<br>
+_male_: 81.61 years<br>
+_female_: 86.15 years (2023 est.)<br>
 
 **Total fertility rate**<br>
-1.95 children born/woman (2022 est.)<br>
+1.95 children born/woman (2023 est.)<br>
 
 **Gross reproduction rate**<br>
 0.95 (2023 est.)<br>

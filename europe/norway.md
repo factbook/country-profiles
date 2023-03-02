@@ -76,7 +76,7 @@ about two-thirds mountains; some 50,000 islands off its much-indented coastline;
 ## People and Society
 
 **Population**<br>
-5,553,840 (2022 est.)<br>
+5,597,924 (2023 est.)<br>
 
 **Nationality**<br>
 _noun_: Norwegian(s)<br>
@@ -93,11 +93,9 @@ _major-language sample(s)_: <br>Verdens Faktabok, den essensielle kilden for gru
 Church of Norway (Evangelical Lutheran - official) 67.5%, Muslim 3.1%, Roman Catholic 3.1%, other Christian 3.8%, other 2.6%, unspecified 19.9% (2021 est.)<br>
 
 **Age structure**<br>
-_0-14 years_: 17.96% (male 503,013/female 478,901)<br>
-_15-24 years_: 12.02% (male 336,597/female 320,720)<br>
-_25-54 years_: 40.75% (male 1,150,762/female 1,077,357)<br>
-_55-64 years_: 11.84% (male 328,865/female 318,398)<br>
-_65 years and over_: 17.43% (male 442,232/female 510,594) (2020 est.)<br>
+_0-14 years_: 17.83% (male 510,835/female 487,126)<br>
+_15-64 years_: 64% (male 1,842,794/female 1,739,688)<br>
+_65 years and over_: 18.18% (2023 est.) (male 474,878/female 542,603)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 54<br>
@@ -112,16 +110,16 @@ _male_: 38.8 years<br>
 _female_: 40.2 years (2020 est.)<br>
 
 **Population growth rate**<br>
-0.8% (2022 est.)<br>
+0.79% (2023 est.)<br>
 
 **Birth rate**<br>
-12 births/1,000 population (2022 est.)<br>
+11.89 births/1,000 population (2023 est.)<br>
 
 **Death rate**<br>
-7.96 deaths/1,000 population (2022 est.)<br>
+7.93 deaths/1,000 population (2023 est.)<br>
 
 **Net migration rate**<br>
-3.92 migrant(s)/1,000 population (2022 est.)<br>
+3.89 migrant(s)/1,000 population (2023 est.)<br>
 
 **Population distribution**<br>
 most Norwegians live in the south where the climate is milder and there is better connectivity to mainland Europe; population clusters are found all along the North Sea coast in the southwest, and Skaggerak in the southeast; the interior areas of the north remain sparsely populated<br>
@@ -137,11 +135,9 @@ _rate of urbanization_: 1.32% annual rate of change (2020-25 est.)<br>
 **Sex ratio**<br>
 _at birth_: 1.05 male(s)/female<br>
 _0-14 years_: 1.05 male(s)/female<br>
-_15-24 years_: 1.05 male(s)/female<br>
-_25-54 years_: 1.07 male(s)/female<br>
-_55-64 years_: 1.04 male(s)/female<br>
-_65 years and over_: 0.71 male(s)/female<br>
-_total population_: 1.02 male(s)/female (2022 est.)<br>
+_15-64 years_: 1.06 male(s)/female<br>
+_65 years and over_: 0.88 male(s)/female<br>
+_total population_: 1.02 male(s)/female (2023 est.)<br>
 
 **Mother's mean age at first birth**<br>
 29.8 years (2020 est.)<br>
@@ -151,17 +147,17 @@ _total population_: 1.02 male(s)/female (2022 est.)<br>
 2 deaths/100,000 live births (2017 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 2.31 deaths/1,000 live births<br>
-_male_: 2.65 deaths/1,000 live births<br>
-_female_: 1.96 deaths/1,000 live births (2022 est.)<br>
+_total_: 2.28 deaths/1,000 live births<br>
+_male_: 2.61 deaths/1,000 live births<br>
+_female_: 1.93 deaths/1,000 live births (2023 est.)<br>
 
 **Life expectancy at birth**<br>
-_total population_: 82.55 years<br>
-_male_: 80.42 years<br>
-_female_: 84.79 years (2022 est.)<br>
+_total population_: 82.75 years<br>
+_male_: 80.63 years<br>
+_female_: 84.98 years (2023 est.)<br>
 
 **Total fertility rate**<br>
-1.83 children born/woman (2022 est.)<br>
+1.83 children born/woman (2023 est.)<br>
 
 **Gross reproduction rate**<br>
 0.89 (2023 est.)<br>
@@ -715,6 +711,6 @@ Norway is a member of NATO and was one of the original 12 countries to sign the 
 <p><em>Norway-Antarctica</em>: Norway asserts a territorial claim in Antarctica (Queen Maud Land and its continental shelf)</p> <p><em>Norway-Russia</em>: Russia amended its 2001 CLCS submission in 2015 and 2021, each time delineating the outer limits of its continental shelf further into the Arctic Ocean; Norway and Russia signed a comprehensive maritime boundary agreement in 2010, ending a dispute over an area of the Barents Sea by dividing the territory equally</p> <p><em>Norway-Sweden</em>: none identified</p> <p> </p> <p> </p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 15,901 (Syria), 10,883 (Eritrea) (mid-year 2022); 39,931 (Ukraine) (as of 10 February 2023)<br>
+_refugees (country of origin)_: 15,901 (Syria), 10,883 (Eritrea) (mid-year 2022); 41,519 (Ukraine) (as of 27 February 2023)<br>
 _stateless persons_: 3,901 (2022)<br>
 

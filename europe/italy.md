@@ -78,7 +78,7 @@ strategic location dominating central Mediterranean as well as southern sea and 
 ## People and Society
 
 **Population**<br>
-61,095,551 (2022 est.)<br>
+61,021,855 (2023 est.)<br>
 
 **Nationality**<br>
 _noun_: Italian(s)<br>
@@ -95,11 +95,9 @@ _major-language sample(s)_: <br>L'Almanacco dei fatti del mondo, l'indispensabil
 Christian 80.8% (overwhelmingly Roman Catholic with very small groups of Jehovah's Witnesses and Protestants), Muslim 4.9%, unaffiliated 13.4%, other 0.9% (2020 est.)<br>
 
 **Age structure**<br>
-_0-14 years_: 13.45% (male 4,292,431/female 4,097,732)<br>
-_15-24 years_: 9.61% (male 3,005,402/female 2,989,764)<br>
-_25-54 years_: 40.86% (male 12,577,764/female 12,921,614)<br>
-_55-64 years_: 14% (male 4,243,735/female 4,493,581)<br>
-_65 years and over_: 22.08% (male 5,949,560/female 7,831,076) (2020 est.)<br>
+_0-14 years_: 12.08% (male 3,772,041/female 3,600,946)<br>
+_15-64 years_: 64.61% (male 19,430,217/female 19,997,042)<br>
+_65 years and over_: 23.31% (2023 est.) (male 6,248,663/female 7,972,946)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 57.1<br>
@@ -113,16 +111,16 @@ _male_: 45.4 years<br>
 _female_: 47.5 years (2020 est.)<br>
 
 **Population growth rate**<br>
--0.13% (2022 est.)<br>
+-0.11% (2023 est.)<br>
 
 **Birth rate**<br>
-6.95 births/1,000 population (2022 est.)<br>
+7 births/1,000 population (2023 est.)<br>
 
 **Death rate**<br>
-11.31 deaths/1,000 population (2022 est.)<br>
+11.27 deaths/1,000 population (2023 est.)<br>
 
 **Net migration rate**<br>
-3.02 migrant(s)/1,000 population (2022 est.)<br>
+3.2 migrant(s)/1,000 population (2023 est.)<br>
 
 **Population distribution**<br>
 despite a distinctive pattern with an industrial north and an agrarian south, a fairly even population distribution exists throughout most of the country, with coastal areas, the Po River Valley, and urban centers (particularly Milan, Rome, and Naples), attracting larger and denser populations<br>
@@ -137,11 +135,9 @@ _rate of urbanization_: 0.27% annual rate of change (2020-25 est.)<br>
 **Sex ratio**<br>
 _at birth_: 1.06 male(s)/female<br>
 _0-14 years_: 1.05 male(s)/female<br>
-_15-24 years_: 1.01 male(s)/female<br>
-_25-54 years_: 0.97 male(s)/female<br>
-_55-64 years_: 0.95 male(s)/female<br>
-_65 years and over_: 0.67 male(s)/female<br>
-_total population_: 0.93 male(s)/female (2022 est.)<br>
+_15-64 years_: 0.97 male(s)/female<br>
+_65 years and over_: 0.78 male(s)/female<br>
+_total population_: 0.93 male(s)/female (2023 est.)<br>
 
 **Mother's mean age at first birth**<br>
 31.4 years (2020 est.)<br>
@@ -150,17 +146,17 @@ _total population_: 0.93 male(s)/female (2022 est.)<br>
 2 deaths/100,000 live births (2017 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 3.16 deaths/1,000 live births<br>
-_male_: 3.32 deaths/1,000 live births<br>
-_female_: 2.99 deaths/1,000 live births (2022 est.)<br>
+_total_: 3.11 deaths/1,000 live births<br>
+_male_: 3.28 deaths/1,000 live births<br>
+_female_: 2.94 deaths/1,000 live births (2023 est.)<br>
 
 **Life expectancy at birth**<br>
-_total population_: 82.59 years<br>
-_male_: 80.25 years<br>
-_female_: 85.08 years (2022 est.)<br>
+_total population_: 82.79 years<br>
+_male_: 80.46 years<br>
+_female_: 85.26 years (2023 est.)<br>
 
 **Total fertility rate**<br>
-1.22 children born/woman (2022 est.)<br>
+1.24 children born/woman (2023 est.)<br>
 
 **Gross reproduction rate**<br>
 0.6 (2023 est.)<br>
@@ -738,9 +734,9 @@ Islamic State of Iraq and ash-Sham (ISIS)<br>
 <p>Italy's long coastline and developed economy entices tens of thousands of illegal immigrants from southeastern Europe and northern Africa</p> <p><em>Italy-Austria-Switzerland</em>: borders are shifting because glacier peaks that had served as a natural boundary are melting</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 21,441 (Nigeria), 17,706 (Afghanistan), 17,619 (Pakistan), 11,193 (Mali), 8,405 (Somalia), 6,324 (Gambia), 5,768 (Bangladesh), 5,463 (Iraq) (mid-year 2022); 169,306 (Ukraine) (as of 20 January 2023)<br>
+_refugees (country of origin)_: 21,441 (Nigeria), 17,706 (Afghanistan), 17,619 (Pakistan), 11,193 (Mali), 8,405 (Somalia), 6,324 (Gambia), 5,768 (Bangladesh), 5,463 (Iraq) (mid-year 2022); 171,739 (Ukraine) (as of 24 February 2023)<br>
 _stateless persons_: 3,000 (2022)<br>
-<strong>note:</strong> 702,710 estimated refugee and migrant arrivals (January 2015-February 2023)<br>
+<strong>note:</strong> 708,346 estimated refugee and migrant arrivals (January 2015-February 2023)<br>
 
 **Illicit drugs**<br>
 important gateway for drug trafficking; organized crime groups allied with Colombian and Spanish groups trafficking cocaine to Europe<br>

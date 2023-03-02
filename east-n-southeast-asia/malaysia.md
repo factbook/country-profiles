@@ -75,7 +75,7 @@ strategic location along Strait of Malacca and southern South China Sea<br>
 ## People and Society
 
 **Population**<br>
-33,871,431 (2022 est.)<br>
+34,219,975 (2023 est.)<br>
 
 **Nationality**<br>
 _noun_: Malaysian(s)<br>
@@ -95,11 +95,9 @@ Muslim (official) 61.3%, Buddhist 19.8%, Christian 9.2%, Hindu 6.3%, Confucianis
 <p>Malaysia’s multi-ethnic population consists of the bumiputera – Malays and other indigenous peoples – (62%), ethnic Chinese (21%), ethnic Indians (6%), and foreigners (10%).  The majority of Malaysia’s ethnic Chinese and Indians trace their roots to the British colonialists’ recruitment of hundreds of thousands of Chinese and Indians as mine and plantation workers between the early-19th century and the 1930s.  Most Malays have maintained their rural lifestyle, while the entrepreneurial Chinese have achieved greater wealth and economic dominance.  In order to eradicate Malay poverty, the Malaysian Government in 1971 adopted policies that gave preference to the bumiputera in public university admissions, government jobs and contracts, and property ownership.  Affirmative action continues to benefit well-off urban bumiputera but has done little to alleviate poverty for their more numerous rural counterparts.  The policies have pushed ethnic Chinese and Indians to study at private or foreign universities (many do not return) and have created and sustained one of the world’s largest civil services, which is 85-90% Malay. </p> <p>The country’s age structure has changed significantly since the 1960s, as fertility and mortality rates have declined.  Malaysia’s total fertility rate (TFR) has dropped from 5 children per woman in 1970, to 3 in 1998, to 2.1 in 2015 as a result of increased educational attainment and labor participation among women, later marriages, increased use of contraception, and changes in family size preference related to urbanization.  The TFR is higher among Malays, rural residents (who are mainly Malay), the poor, and the less-educated.  Despite the reduced fertility rate, Malaysia’s population will continue to grow, albeit at a decreasing rate, for the next few decades because of its large number of reproductive-age women.  The youth population has been shrinking, and the working-age population (15-64 year olds) has been growing steadily.  Malaysia’s labor market has successfully absorbed the increasing number of job seekers, leading to sustained economic growth.  However, the favorable age structure is changing, and around 2020, Malaysia will start to become a rapidly aging society.  As the population ages, Malaysia will need to better educate and train its labor force, raise productivity, and continue to increase the number of women workers in order to further develop its economy.</p> <p>More than 1.8 million Malaysians lived abroad as of 2015, including anywhere from 350,000 to 785,000 workers, more than half of whom have an advanced level of education.  The vast majority of emigrants are ethnic Chinese, seeking better educational and job opportunities abroad because of institutionalized ethnic discrimination favoring the Malays.  The primary destination country is nearby Singapore, followed by Bangladesh and Australia.  Hundreds of thousands of Malaysians also commute across the causeway to Singapore daily for work.</p> <p>Brain drain is an impediment to Malaysia’s goal of becoming a high-income country.  The situation is compounded by a migrant inflow that is composed almost entirely of low-skilled laborers who work mainly in manufacturing, agriculture, and construction.  Officially, Malaysia had about 1.8 million legal foreign workers as of mid-year 2017 – largely from Indonesia, Nepal, the Philippines, and Bangladesh – but as many as 3 to 4 million are estimated to be in the country illegally.  Immigrants outnumber ethnic Indians and could supplant the ethnic Chinese as Malaysia’s second largest population group around 2035.</p><br>
 
 **Age structure**<br>
-_0-14 years_: 26.8% (male 4,504,562/female 4,246,681)<br>
-_15-24 years_: 16.63% (male 2,760,244/female 2,670,186)<br>
-_25-54 years_: 40.86% (male 6,737,826/female 6,604,776)<br>
-_55-64 years_: 8.81% (male 1,458,038/female 1,418,280)<br>
-_65 years and over_: 6.9% (male 1,066,627/female 1,184,863) (2020 est.)<br>
+_0-14 years_: 22.46% (male 3,952,311/female 3,734,607)<br>
+_15-64 years_: 69.42% (male 12,198,930/female 11,556,399)<br>
+_65 years and over_: 8.12% (2023 est.) (male 1,345,767/female 1,431,961)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 43.3<br>
@@ -113,16 +111,16 @@ _male_: 28.9 years<br>
 _female_: 29.6 years (2020 est.)<br>
 
 **Population growth rate**<br>
-1.03% (2022 est.)<br>
+1.01% (2023 est.)<br>
 
 **Birth rate**<br>
-14.55 births/1,000 population (2022 est.)<br>
+14.39 births/1,000 population (2023 est.)<br>
 
 **Death rate**<br>
-5.69 deaths/1,000 population (2022 est.)<br>
+5.72 deaths/1,000 population (2023 est.)<br>
 
 **Net migration rate**<br>
-1.48 migrant(s)/1,000 population (2022 est.)<br>
+1.46 migrant(s)/1,000 population (2023 est.)<br>
 
 **Population distribution**<br>
 a highly uneven distribution with over 80% of the population residing on the Malay Peninsula<br>
@@ -137,27 +135,25 @@ _rate of urbanization_: 1.87% annual rate of change (2020-25 est.)<br>
 **Sex ratio**<br>
 _at birth_: 1.07 male(s)/female<br>
 _0-14 years_: 1.06 male(s)/female<br>
-_15-24 years_: 1.05 male(s)/female<br>
-_25-54 years_: 1.07 male(s)/female<br>
-_55-64 years_: 1 male(s)/female<br>
-_65 years and over_: 1.14 male(s)/female<br>
-_total population_: 1.05 male(s)/female (2022 est.)<br>
+_15-64 years_: 1.06 male(s)/female<br>
+_65 years and over_: 0.94 male(s)/female<br>
+_total population_: 1.05 male(s)/female (2023 est.)<br>
 
 **Maternal mortality ratio**<br>
 29 deaths/100,000 live births (2017 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 6.59 deaths/1,000 live births<br>
-_male_: 6.97 deaths/1,000 live births<br>
-_female_: 6.19 deaths/1,000 live births (2022 est.)<br>
+_total_: 6.49 deaths/1,000 live births<br>
+_male_: 6.87 deaths/1,000 live births<br>
+_female_: 6.08 deaths/1,000 live births (2023 est.)<br>
 
 **Life expectancy at birth**<br>
-_total population_: 76.13 years<br>
-_male_: 74.5 years<br>
-_female_: 77.87 years (2022 est.)<br>
+_total population_: 76.38 years<br>
+_male_: 74.77 years<br>
+_female_: 78.12 years (2023 est.)<br>
 
 **Total fertility rate**<br>
-1.75 children born/woman (2022 est.)<br>
+1.74 children born/woman (2023 est.)<br>
 
 **Gross reproduction rate**<br>
 0.84 (2023 est.)<br>
@@ -737,7 +733,7 @@ Islamic State of Iraq and ash-Sham (ISIS); Jemaah Islamiyah (JI); Abu Sayyaf Gro
 <p>piracy remains a problem in the Malacca Strait</p> <p><em>Malaysia-Brunei</em>: per Letters of Exchange signed in 2009, Malaysia in 2010 ceded two hydrocarbon concession blocks to Brunei; in 2009, the media reported that Brunei had dropped its claims to the Limbang corridor, but Brunei responded that the subject had never been discussed during recent talks between the two countries</p> <p><em>Malaysia-China-Philippines-Vietnam</em><strong>: </strong>while the 2002 "Declaration on the Conduct of Parties in the South China Sea" has eased tensions over the Spratly Islands, it is not the legally binding "code of conduct" sought by some parties, which is currently being negotiated between China and ASEAN; Malaysia was not party to the March 2005 joint accord among the national oil companies of China, the Philippines, and Vietnam on conducting marine seismic activities in the Spratly Islands</p> <p><em>Malaysia-Indonesia</em>: land and maritime negotiations with Indonesia are ongoing, and disputed areas include the controversial Tanjung Datu and Camar Wulan border area in Borneo and the maritime boundary in the Ambalat oil block in the Celebes Sea</p> <p><em>Malaysia-Philippines</em>: Philippines retains a dormant claim to the eastern part of Malaysia's Sabah State in northern Borneo</p> <p><em>Malaysia-Singapore</em>: disputes continue over deliveries of fresh water to Singapore, Singapore's land reclamation, bridge construction, and maritime boundaries in the Johor and Singapore Straits; in 2008, the International Court of Justice awarded sovereignty of Pedra Branca (Pulau Batu Puteh/Horsburgh Island) to Singapore, and Middle Rocks to Malaysia but did not rule on maritime regimes, boundaries, or disposition of South Ledge</p> <p><em>Malaysia-Thailand</em>: in 2008, separatist violence in Thailand's predominantly Muslim southern provinces prompts Malaysia to take measures to close and to monitor the border with Thailand to stem terrorist activities</p> <p> </p> <p> </p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 123,282 (Burma) (mid-year 2022)<br>
+_refugees (country of origin)_: 157,866 (Burma) (refugees and asylum seekers) (2022)<br>
 _stateless persons_: 113,930 (2022); note - Malaysia's stateless population consists of Rohingya refugees from Burma, ethnic Indians, and the children of Filipino and Indonesian illegal migrants; Burma stripped the Rohingya of their nationality in 1982; Filipino and Indonesian children who have not been registered for birth certificates by their parents or who received birth certificates stamped "foreigner" are not eligible to attend government schools; these children are vulnerable to statelessness should they not be able to apply to their parents' country of origin for passports<br>
 
 **Trafficking in persons**<br>

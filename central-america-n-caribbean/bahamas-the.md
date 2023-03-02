@@ -72,7 +72,7 @@ strategic location adjacent to US and Cuba; extensive island chain of which 30 a
 ## People and Society
 
 **Population**<br>
-355,608 (2022 est.)<br>
+358,508 (2023 est.)<br>
 
 **Nationality**<br>
 _noun_: Bahamian(s)<br>
@@ -89,11 +89,9 @@ English (official), Creole (among Haitian immigrants)<br>
 Protestant 69.9% (includes Baptist 34.9%, Anglican 13.7%, Pentecostal 8.9% Seventh Day Adventist 4.4%, Methodist 3.6%, Church of God 1.9%, Brethren 1.6%, other Protestant .9%), Roman Catholic 12%, other Christian 13% (includes Jehovah's Witness 1.1%), other 0.6%, none 1.9%, unspecified 2.6% (2010 est.)<br>
 
 **Age structure**<br>
-_0-14 years_: 21.7% (male 38,811/female 37,719)<br>
-_15-24 years_: 14.91% (male 26,636/female 25,945)<br>
-_25-54 years_: 43.56% (male 76,505/female 77,119)<br>
-_55-64 years_: 10.75% (male 17,508/female 20,391)<br>
-_65 years and over_: 9.08% (male 12,587/female 19,434) (2021 est.)<br>
+_0-14 years_: 21.37% (male 38,851/female 37,765)<br>
+_15-64 years_: 68.8% (male 122,134/female 124,530)<br>
+_65 years and over_: 9.83% (2023 est.) (male 13,922/female 21,306)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 39.3<br>
@@ -107,16 +105,16 @@ _male_: 31.7 years<br>
 _female_: 34 years (2020 est.)<br>
 
 **Population growth rate**<br>
-0.82% (2022 est.)<br>
+0.8% (2023 est.)<br>
 
 **Birth rate**<br>
-14.64 births/1,000 population (2022 est.)<br>
+14.49 births/1,000 population (2023 est.)<br>
 
 **Death rate**<br>
-6.41 deaths/1,000 population (2022 est.)<br>
+6.47 deaths/1,000 population (2023 est.)<br>
 
 **Net migration rate**<br>
-0 migrant(s)/1,000 population (2022 est.)<br>
+0 migrant(s)/1,000 population (2023 est.)<br>
 
 **Population distribution**<br>
 most of the population lives in urban areas, with two-thirds living on New Providence Island where Nassau is located<br>
@@ -131,27 +129,25 @@ _rate of urbanization_: 1.02% annual rate of change (2020-25 est.)<br>
 **Sex ratio**<br>
 _at birth_: 1.03 male(s)/female<br>
 _0-14 years_: 1.03 male(s)/female<br>
-_15-24 years_: 1.03 male(s)/female<br>
-_25-54 years_: 0.99 male(s)/female<br>
-_55-64 years_: 0.86 male(s)/female<br>
-_65 years and over_: 0.5 male(s)/female<br>
-_total population_: 0.95 male(s)/female (2022 est.)<br>
+_15-64 years_: 0.98 male(s)/female<br>
+_65 years and over_: 0.65 male(s)/female<br>
+_total population_: 0.95 male(s)/female (2023 est.)<br>
 
 **Maternal mortality ratio**<br>
 70 deaths/100,000 live births (2017 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 12.78 deaths/1,000 live births<br>
-_male_: 13.22 deaths/1,000 live births<br>
-_female_: 12.33 deaths/1,000 live births (2022 est.)<br>
+_total_: 12.52 deaths/1,000 live births<br>
+_male_: 12.96 deaths/1,000 live births<br>
+_female_: 12.06 deaths/1,000 live births (2023 est.)<br>
 
 **Life expectancy at birth**<br>
-_total population_: 76.13 years<br>
-_male_: 73.2 years<br>
-_female_: 79.14 years (2022 est.)<br>
+_total population_: 76.38 years<br>
+_male_: 73.47 years<br>
+_female_: 79.38 years (2023 est.)<br>
 
 **Total fertility rate**<br>
-1.98 children born/woman (2022 est.)<br>
+1.97 children born/woman (2023 est.)<br>
 
 **Gross reproduction rate**<br>
 0.97 (2023 est.)<br>

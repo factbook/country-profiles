@@ -70,7 +70,7 @@ archipelago of 17 inhabited islands and one uninhabited island, and a few uninha
 ## People and Society
 
 **Population**<br>
-52,269 (2022 est.)<br>
+52,600 (2023 est.)<br>
 
 **Nationality**<br>
 _noun_: Faroese (singular and plural)<br>
@@ -88,11 +88,9 @@ Faroese 93.8% (derived from Old Norse), Danish 3.2%, other 3% (2011 est.)<br>
 Christian 89.3% (predominantly Evangelical Lutheran), other 1%, none 3.8%, unspecified 6% (2011 est.)<br>
 
 **Age structure**<br>
-_0-14 years_: 19.69% (male 5,247/female 4,920)<br>
-_15-24 years_: 13.89% (male 3,708/female 3,465)<br>
-_25-54 years_: 37.01% (male 10,277/female 8,828)<br>
-_55-64 years_: 12% (male 3,199/female 2,996)<br>
-_65 years and over_: 17.41% (male 4,352/female 4,636) (2020 est.)<br>
+_0-14 years_: 19.9% (male 5,415/female 5,053)<br>
+_15-64 years_: 61.94% (male 17,211/female 15,367)<br>
+_65 years and over_: 18.16% (2023 est.) (male 4,621/female 4,933)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 62.8<br>
@@ -106,16 +104,16 @@ _male_: 36.9 years<br>
 _female_: 37.7 years (2020 est.)<br>
 
 **Population growth rate**<br>
-0.63% (2022 est.)<br>
+0.63% (2023 est.)<br>
 
 **Birth rate**<br>
-14.94 births/1,000 population (2022 est.)<br>
+14.94 births/1,000 population (2023 est.)<br>
 
 **Death rate**<br>
-8.63 deaths/1,000 population (2022 est.)<br>
+8.61 deaths/1,000 population (2023 est.)<br>
 
 **Net migration rate**<br>
-0 migrant(s)/1,000 population (2022 est.)<br>
+0 migrant(s)/1,000 population (2023 est.)<br>
 
 **Population distribution**<br>
 the island of Streymoy is by far the most populous with over 40% of the population; it has approximately twice as many inhabitants as Eysturoy, the second most populous island; seven of the inhabited islands have fewer than 100 people<br>
@@ -130,24 +128,22 @@ _rate of urbanization_: 0.89% annual rate of change (2020-25 est.)<br>
 **Sex ratio**<br>
 _at birth_: 1.07 male(s)/female<br>
 _0-14 years_: 1.07 male(s)/female<br>
-_15-24 years_: 1.09 male(s)/female<br>
-_25-54 years_: 1.17 male(s)/female<br>
-_55-64 years_: 1.09 male(s)/female<br>
-_65 years and over_: 0.77 male(s)/female<br>
-_total population_: 1.08 male(s)/female (2022 est.)<br>
+_15-64 years_: 1.12 male(s)/female<br>
+_65 years and over_: 0.94 male(s)/female<br>
+_total population_: 1.07 male(s)/female (2023 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 5.99 deaths/1,000 live births<br>
-_male_: 6.61 deaths/1,000 live births<br>
-_female_: 5.32 deaths/1,000 live births (2022 est.)<br>
+_total_: 5.86 deaths/1,000 live births<br>
+_male_: 6.48 deaths/1,000 live births<br>
+_female_: 5.2 deaths/1,000 live births (2023 est.)<br>
 
 **Life expectancy at birth**<br>
-_total population_: 81.26 years<br>
-_male_: 78.73 years<br>
-_female_: 83.97 years (2022 est.)<br>
+_total population_: 81.47 years<br>
+_male_: 78.96 years<br>
+_female_: 84.17 years (2023 est.)<br>
 
 **Total fertility rate**<br>
-2.29 children born/woman (2022 est.)<br>
+2.28 children born/woman (2023 est.)<br>
 
 **Gross reproduction rate**<br>
 1.1 (2023 est.)<br>

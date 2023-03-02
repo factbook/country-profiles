@@ -83,7 +83,7 @@ sometimes referred to as the hinge of Africa because of its central location on 
 ## People and Society
 
 **Population**<br>
-29,321,637 (2022 est.)<br>
+30,135,732 (2023 est.)<br>
 
 **Nationality**<br>
 _noun_: Cameroonian(s)<br>
@@ -103,11 +103,9 @@ Roman Catholic 38.3%, Protestant 25.5%, other Christian 6.9%, Muslim 24.4%, anim
 <p>Cameroon has a large youth population, with more than 60% of the populace under the age of 25 as of 2020. Fertility is falling but remains at a high level, especially among poor, rural, and uneducated women, in part because of inadequate access to contraception. Life expectancy remains low at about 55 years due to the prevalence of HIV and AIDs and an elevated maternal mortality rate, which has remained high since 1990. Cameroon, particularly the northern region, is vulnerable to food insecurity largely because of government mismanagement, corruption, high production costs, inadequate infrastructure, and natural disasters. Despite economic growth in some regions, poverty is on the rise, and is most prevalent in rural areas, which are especially affected by a shortage of jobs, declining incomes, poor school and health care infrastructure, and a lack of clean water and sanitation. Underinvestment in social safety nets and ineffective public financial management also contribute to Cameroon’s high rate of poverty.  The activities of Boko Haram, other armed groups, and counterinsurgency operations have worsened food insecurity in the Far North region.  </p> <p>International migration has been driven by unemployment (including fewer government jobs), poverty, the search for educational opportunities, and corruption. The US and Europe are preferred destinations, but, with tighter immigration restrictions in these countries, young Cameroonians are increasingly turning to neighboring states, such as Gabon and Nigeria, South Africa, other parts of Africa, and the Near and Far East. Cameroon’s limited resources make it dependent on UN support to host more than 480,000 refugees and asylum seekers as of December 2022. These refugees and asylum seekers are primarily from the Central African Republic and Nigeria.  Internal and external displacement have grown dramatically in recent years.  Boko Haram's attacks and counterattacks by government forces in the Far North since 2014 have increased the number of internally displaced people.  Armed conflict between separatists and Cameroon's military in the Northwest and Southwest since 2016 have displaced hundreds of thousands of the country's Anglophone minority.</p><br>
 
 **Age structure**<br>
-_0-14 years_: 42.34% (male 5,927,640/female 5,820,226)<br>
-_15-24 years_: 20.04% (male 2,782,376/female 2,776,873)<br>
-_25-54 years_: 30.64% (male 4,191,151/female 4,309,483)<br>
-_55-64 years_: 3.87% (male 520,771/female 552,801)<br>
-_65 years and over_: 3.11% (male 403,420/female 460,248) (2020 est.)<br>
+_0-14 years_: 41.69% (male 6,337,141/female 6,226,100)<br>
+_15-64 years_: 55.12% (male 8,231,473/female 8,379,699)<br>
+_65 years and over_: 3.19% (2023 est.) (male 447,656/female 513,663)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 82.3<br>
@@ -121,16 +119,16 @@ _male_: 18.2 years<br>
 _female_: 18.8 years (2020 est.)<br>
 
 **Population growth rate**<br>
-2.75% (2022 est.)<br>
+2.73% (2023 est.)<br>
 
 **Birth rate**<br>
-35.53 births/1,000 population (2022 est.)<br>
+35.13 births/1,000 population (2023 est.)<br>
 
 **Death rate**<br>
-7.73 deaths/1,000 population (2022 est.)<br>
+7.54 deaths/1,000 population (2023 est.)<br>
 
 **Net migration rate**<br>
--0.31 migrant(s)/1,000 population (2022 est.)<br>
+-0.3 migrant(s)/1,000 population (2023 est.)<br>
 
 **Population distribution**<br>
 population concentrated in the west and north, with the interior of the country sparsely populated as shown in this population distribution map<br>
@@ -145,11 +143,9 @@ _rate of urbanization_: 3.43% annual rate of change (2020-25 est.)<br>
 **Sex ratio**<br>
 _at birth_: 1.03 male(s)/female<br>
 _0-14 years_: 1.02 male(s)/female<br>
-_15-24 years_: 1 male(s)/female<br>
-_25-54 years_: 0.97 male(s)/female<br>
-_55-64 years_: 0.94 male(s)/female<br>
-_65 years and over_: 0.74 male(s)/female<br>
-_total population_: 0.99 male(s)/female (2022 est.)<br>
+_15-64 years_: 0.98 male(s)/female<br>
+_65 years and over_: 0.87 male(s)/female<br>
+_total population_: 0.99 male(s)/female (2023 est.)<br>
 
 **Mother's mean age at first birth**<br>
 20.1 years (2018 est.)<br>
@@ -159,17 +155,17 @@ _total population_: 0.99 male(s)/female (2022 est.)<br>
 529 deaths/100,000 live births (2017 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 48.73 deaths/1,000 live births<br>
-_male_: 53.58 deaths/1,000 live births<br>
-_female_: 43.73 deaths/1,000 live births (2022 est.)<br>
+_total_: 47.4 deaths/1,000 live births<br>
+_male_: 52.18 deaths/1,000 live births<br>
+_female_: 42.48 deaths/1,000 live births (2023 est.)<br>
 
 **Life expectancy at birth**<br>
-_total population_: 63.27 years<br>
-_male_: 61.49 years<br>
-_female_: 65.09 years (2022 est.)<br>
+_total population_: 63.74 years<br>
+_male_: 61.92 years<br>
+_female_: 65.61 years (2023 est.)<br>
 
 **Total fertility rate**<br>
-4.55 children born/woman (2022 est.)<br>
+4.5 children born/woman (2023 est.)<br>
 
 **Gross reproduction rate**<br>
 2.22 (2023 est.)<br>
@@ -732,9 +728,9 @@ Cameroon Armed Forces (Forces Armees Camerounaises, FAC): Army (L'Armee de Terre
 **Military expenditures**<br>
 1% of GDP (2021 est.)<br>
 1% of GDP (2020 est.)<br>
-1.4% of GDP (2019 est.) (approximately $710 million)<br>
-1.4% of GDP (2018 est.) (approximately $710 million)<br>
-1.5% of GDP (2017 est.) (approximately $710 million)<br>
+1.4% of GDP (2019 est.)<br>
+1.4% of GDP (2018 est.)<br>
+1.5% of GDP (2017 est.)<br>
 
 **Military and security service personnel strengths**<br>
 information varies; approximately 40,000 active-duty troops; (25,000 ground forces, including the Rapid Intervention Battalion/BIR and Presidential Guard; 2,000 Navy; 1,000 Air Force; 12,000 Gendarmerie) (2022)<br>
@@ -751,7 +747,7 @@ the FAC inventory includes a wide mix of mostly older or second-hand Chinese, Ru
 <strong>note: </strong>Cameroon has committed approximately 2,000-2,500 troops to the Multinational Joint Task Force (MNJTF) against Boko Haram and other terrorist groups operating in the general area of the Lake Chad Basin and along Nigeria's northeast border; national MNJTF troop contingents are deployed within their own country territories, although cross‐border operations occur occasionally<br>
 
 **Military - note**<br>
-the FAC's air, ground, and gendarmerie forces are largely focused on the threat from the terrorist group Boko Haram along its frontiers with Nigeria and Chad (Far North region) and an insurgency from armed Anglophone separatist groups in the North-West and South-West regions (as of 2023, this internal conflict has left more than 3,500 civilians dead and over 500,000 people displaced since fighting started in 2016); in addition, ground units are often deployed units to the border region with the Central African Republic to counter intrusions from armed militias and bandits; the Navy is focused on protecting Cameroon's oil installations, combating crime and piracy in the Gulf of Guinea, and patrolling the country's rivers and lakes (2023)<br>
+the FAC is a professional and politically independent military; the Army and the Rapid Intervention Battalion (RIB) are well-organized and mobile; in addition to the RIB&rsquo;s specialized forces, the Army has 4 motorized infantry brigades spread amongst 5 military regions; the ground forces are largely focused on internal security, particularly the threat from the terrorist group Boko Haram along its frontiers with Nigeria and Chad (Far North region) and an insurgency from armed Anglophone separatist groups in the North-West and South-West regions (as of 2023, this conflict had left more than 3,500 civilians dead and over 500,000 people displaced since fighting started in 2016); in addition, the FAC often deploys ground units to the border region with the Central African Republic to counter intrusions from armed militias and bandits; the Navy&rsquo;s missions include protecting Cameroon&rsquo;s oil installations, combatting crime and piracy in the Gulf of Guinea, and patrolling the country&rsquo;s lakes and rivers; it has an inventory of coastal, inshore, and river patrol craft; the Air Force supports both the ground and naval forces and has a handful of light attack aircraft and combat helicopters (2023)<br>
 
 **Maritime threats**<br>
 the International Maritime Bureau reports the territorial and offshore waters in the Niger Delta and Gulf of Guinea remain a very high risk for piracy and armed robbery of ships; in 2021, there were 34 reported incidents of piracy and armed robbery at sea in the Gulf of Guinea region; although a significant decrease from the total number of 81 incidents in 2020, it included the one hijacking and three of five ships fired upon worldwide; while boarding and attempted boarding to steal valuables from ships and crews are the most common types of incidents, almost a third of all incidents involve a hijacking and/or kidnapping; in 2021, 57 crew members were kidnapped in seven separate incidents in the Gulf of Guinea, representing 100% of maritime kidnappings worldwide; Nigerian pirates in particular are well armed and very aggressive, operating as far as 200 nm offshore; the Maritime Administration of the US Department of Transportation has issued a Maritime Advisory (2022-001 - Gulf of Guinea-Piracy/Armed Robbery/Kidnapping for Ransom) effective 4 January 2022, which states in part, "Piracy, armed robbery, and kidnapping for ransom continue to serve as significant threats to US-flagged vessels transiting or operating in the Gulf of Guinea"<br>
@@ -768,7 +764,7 @@ Boko Haram; Islamic State of Iraq and ash-Sham – West Africa<br>
 <p>Joint Border Commission with Nigeria reviewed 2002 ICJ ruling on the entire boundary and bilaterally resolved differences, including June 2006 Greentree Agreement that immediately ceded sovereignty of the Bakassi Peninsula to Cameroon with a full phase-out of Nigerian control and patriation of residents in 2008; Cameroon and Nigeria agreed on maritime delimitation in March 2008; sovereignty dispute between Equatorial Guinea and Cameroon over an island at the mouth of the Ntem River; only Nigeria and Cameroon have heeded the Lake Chad Commission's admonition to ratify the delimitation treaty, which also includes the Chad-Niger and Niger-Nigeria boundaries</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 346,689 (Central African Republic), 124,651 (Nigeria) (2022)<br>
+_refugees (country of origin)_: 347,030 (Central African Republic), 124,872 (Nigeria) (2023)<br>
 _IDPs_: 983,281 (2022) (includes far north, northwest, and southwest)<br>
 
 **Trafficking in persons**<br>

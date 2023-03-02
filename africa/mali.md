@@ -85,7 +85,7 @@ landlocked; divided into three natural zones: the southern, cultivated Sudanese;
 ## People and Society
 
 **Population**<br>
-20,741,769 (2022 est.)<br>
+21,359,722 (2023 est.)<br>
 
 **Nationality**<br>
 _noun_: Malian(s)<br>
@@ -105,11 +105,9 @@ Muslim 93.9%, Christian 2.8%, animist 0.7%, none 2.5% (2018 est.)<br>
 <p>Mali’s total population is expected to double by 2035; its capital Bamako is one of the fastest-growing cities in Africa. A young age structure, a declining mortality rate, and a sustained high total fertility rate of 5.5 children per woman – the fourth highest in the world, as of 2022 – ensure continued rapid population growth for the foreseeable future. Significant outmigration only marginally tempers this growth. Despite decreases, Mali’s infant, child, and maternal mortality rates remain among the highest in Sub-Saharan Africa because of limited access to and adoption of family planning, early childbearing, short birth intervals, the prevalence of female genital cutting, infrequent use of skilled birth attendants, and a lack of emergency obstetrical and neonatal care.</p> <p>Mali’s high total fertility rate has been virtually unchanged for decades, as a result of the ongoing preference for large families, early childbearing, the lack of female education and empowerment, poverty, and extremely low contraceptive use. Slowing Mali’s population growth by lowering its birth rate will be essential for poverty reduction, improving food security, and developing human capital and the economy.</p> <p>Mali has a long history of seasonal migration and emigration driven by poverty, conflict, demographic pressure, unemployment, food insecurity, and droughts. Many Malians from rural areas migrate during the dry period to nearby villages and towns to do odd jobs or to adjoining countries to work in agriculture or mining. Pastoralists and nomads move seasonally to southern Mali or nearby coastal states. Others migrate long term to Mali’s urban areas, Cote d’Ivoire, other neighboring countries, and in smaller numbers to France, Mali’s former colonial ruler. Since the early 1990s, Mali’s role has grown as a transit country for regional migration flows and illegal migration to Europe. Human smugglers and traffickers exploit the same regional routes used for moving contraband drugs, arms, and cigarettes.</p> <p>Between early 2012 and 2013, renewed fighting in northern Mali between government forces and Tuareg secessionists and their Islamist allies, a French-led international military intervention, as well as chronic food shortages, caused the displacement of hundreds of thousands of Malians. Most of those displaced domestically sought shelter in urban areas of southern Mali, except for pastoralist and nomadic groups, who abandoned their traditional routes, gave away or sold their livestock, and dispersed into the deserts of northern Mali or crossed into neighboring countries. Almost all Malians who took refuge abroad (mostly Tuareg and Maure pastoralists) stayed in the region, largely in Mauritania, Niger, and Burkina Faso.</p><br>
 
 **Age structure**<br>
-_0-14 years_: 47.69% (male 4,689,121/female 4,636,685)<br>
-_15-24 years_: 19% (male 1,768,772/female 1,945,582)<br>
-_25-54 years_: 26.61% (male 2,395,566/female 2,806,830)<br>
-_55-64 years_: 3.68% (male 367,710/female 352,170)<br>
-_65 years and over_: 3.02% (male 293,560/female 297,401) (2020 est.)<br>
+_0-14 years_: 47.05% (male 5,054,927/female 4,995,605)<br>
+_15-64 years_: 49.88% (male 5,006,470/female 5,647,289)<br>
+_65 years and over_: 3.07% (2023 est.) (male 323,170/female 332,261)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 99.3<br>
@@ -123,16 +121,16 @@ _male_: 15.3 years<br>
 _female_: 16.7 years (2020 est.)<br>
 
 **Population growth rate**<br>
-2.95% (2022 est.)<br>
+2.93% (2023 est.)<br>
 
 **Birth rate**<br>
-41.07 births/1,000 population (2022 est.)<br>
+40.54 births/1,000 population (2023 est.)<br>
 
 **Death rate**<br>
-8.53 deaths/1,000 population (2022 est.)<br>
+8.3 deaths/1,000 population (2023 est.)<br>
 
 **Net migration rate**<br>
--3.08 migrant(s)/1,000 population (2022 est.)<br>
+-2.99 migrant(s)/1,000 population (2023 est.)<br>
 
 **Population distribution**<br>
 the overwhelming majority of the population lives in the southern half of the country, with greater density along the border with Burkina Faso as shown in this population distribution map<br>
@@ -147,11 +145,9 @@ _rate of urbanization_: 4.57% annual rate of change (2020-25 est.)<br>
 **Sex ratio**<br>
 _at birth_: 1.03 male(s)/female<br>
 _0-14 years_: 1.01 male(s)/female<br>
-_15-24 years_: 0.91 male(s)/female<br>
-_25-54 years_: 0.87 male(s)/female<br>
-_55-64 years_: 1.05 male(s)/female<br>
-_65 years and over_: 0.84 male(s)/female<br>
-_total population_: 0.95 male(s)/female (2022 est.)<br>
+_15-64 years_: 0.89 male(s)/female<br>
+_65 years and over_: 0.97 male(s)/female<br>
+_total population_: 0.95 male(s)/female (2023 est.)<br>
 
 **Mother's mean age at first birth**<br>
 19.2 years (2018 est.)<br>
@@ -161,17 +157,17 @@ _total population_: 0.95 male(s)/female (2022 est.)<br>
 562 deaths/100,000 live births (2017 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 60.64 deaths/1,000 live births<br>
-_male_: 66.04 deaths/1,000 live births<br>
-_female_: 55.08 deaths/1,000 live births (2022 est.)<br>
+_total_: 58.99 deaths/1,000 live births<br>
+_male_: 64.31 deaths/1,000 live births<br>
+_female_: 53.5 deaths/1,000 live births (2023 est.)<br>
 
 **Life expectancy at birth**<br>
-_total population_: 62.41 years<br>
-_male_: 60.19 years<br>
-_female_: 64.7 years (2022 est.)<br>
+_total population_: 62.81 years<br>
+_male_: 60.56 years<br>
+_female_: 65.13 years (2023 est.)<br>
 
 **Total fertility rate**<br>
-5.54 children born/woman (2022 est.)<br>
+5.45 children born/woman (2023 est.)<br>
 
 **Gross reproduction rate**<br>
 2.68 (2023 est.)<br>
@@ -746,7 +742,7 @@ Ansar al-Dine; Islamic State of Iraq and ash-Sham in the Greater Sahara (ISIS-GS
 <p><em>Mali-Burkina Faso</em>: demarcation is underway with Burkina Faso</p> <p> </p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 25,800 (Burkina Faso) (refugees and asylum seekers), 18,229 (Niger) (refugees and asylum seekers), 14,952 (Mauritania) (refugees and asylum seekers) (2022)<br>
+_refugees (country of origin)_: 26,991 (Burkina Faso) (refugees and asylum seekers), 19,518 (Niger) (refugees and asylum seekers), 14,952 (Mauritania) (refugees and asylum seekers) (2022)<br>
 _IDPs_: 440,436 (Tuareg rebellion since 2012) (2022)<br>
 
 **Trafficking in persons**<br>

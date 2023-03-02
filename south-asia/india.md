@@ -88,7 +88,7 @@ dominates South Asian subcontinent; near important Indian Ocean trade routes; Ka
 ## People and Society
 
 **Population**<br>
-1,389,637,446 (2022 est.)<br>
+1,399,179,585 (2023 est.)<br>
 
 **Nationality**<br>
 _noun_: Indian(s)<br>
@@ -105,11 +105,9 @@ _major-language sample(s)_: <br>विश्व फ़ैक्टबुक, आध
 Hindu 79.8%, Muslim 14.2%, Christian 2.3%, Sikh 1.7%, other and unspecified 2% (2011 est.)<br>
 
 **Age structure**<br>
-_0-14 years_: 26.31% (male 185,017,089/female 163,844,572)<br>
-_15-24 years_: 17.51% (male 123,423,531/female 108,739,780)<br>
-_25-54 years_: 41.56% (male 285,275,667/female 265,842,319)<br>
-_55-64 years_: 7.91% (male 52,444,817/female 52,447,038)<br>
-_65 years and over_: 6.72% (male 42,054,459/female 47,003,975) (2020 est.)<br>
+_0-14 years_: 24.77% (male 182,143,540/female 164,492,120)<br>
+_15-64 years_: 68.42% (male 494,814,550/female 462,533,456)<br>
+_65 years and over_: 6.8% (2023 est.) (male 43,860,101/female 51,335,818)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 48.1<br>
@@ -123,16 +121,16 @@ _male_: 28 years<br>
 _female_: 29.5 years (2020 est.)<br>
 
 **Population growth rate**<br>
-0.67% (2022 est.)<br>
+0.7% (2023 est.)<br>
 
 **Birth rate**<br>
-16.82 births/1,000 population (2022 est.)<br>
+16.53 births/1,000 population (2023 est.)<br>
 
 **Death rate**<br>
-10.3 deaths/1,000 population (2022 est.)<br>
+9.65 deaths/1,000 population (2023 est.)<br>
 
 **Net migration rate**<br>
-0.16 migrant(s)/1,000 population (2022 est.)<br>
+0.12 migrant(s)/1,000 population (2023 est.)<br>
 
 **Population distribution**<br>
 with the notable exception of the deserts in the northwest, including the Thar Desert, and the mountain fringe in the north, a very high population density exists throughout most of the country; the core of the population is in the north along the banks of the Ganges, with other river valleys and southern coastal areas also having large population concentrations<br>
@@ -147,11 +145,9 @@ _rate of urbanization_: 2.33% annual rate of change (2020-25 est.)<br>
 **Sex ratio**<br>
 _at birth_: 1.1 male(s)/female<br>
 _0-14 years_: 1.11 male(s)/female<br>
-_15-24 years_: 1.12 male(s)/female<br>
-_25-54 years_: 1.07 male(s)/female<br>
-_55-64 years_: 0.95 male(s)/female<br>
-_65 years and over_: 0.71 male(s)/female<br>
-_total population_: 1.06 male(s)/female (2022 est.)<br>
+_15-64 years_: 1.07 male(s)/female<br>
+_65 years and over_: 0.85 male(s)/female<br>
+_total population_: 1.06 male(s)/female (2023 est.)<br>
 
 **Mother's mean age at first birth**<br>
 21.2 years (2019/21)<br>
@@ -161,17 +157,17 @@ _total population_: 1.06 male(s)/female (2022 est.)<br>
 145 deaths/100,000 live births (2017 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 30.31 deaths/1,000 live births<br>
-_male_: 29.95 deaths/1,000 live births<br>
-_female_: 30.7 deaths/1,000 live births (2022 est.)<br>
+_total_: 30.36 deaths/1,000 live births<br>
+_male_: 29.99 deaths/1,000 live births<br>
+_female_: 30.77 deaths/1,000 live births (2023 est.)<br>
 
 **Life expectancy at birth**<br>
-_total population_: 67.22 years<br>
-_male_: 65.46 years<br>
-_female_: 69.16 years (2022 est.)<br>
+_total population_: 67.69 years<br>
+_male_: 65.95 years<br>
+_female_: 69.61 years (2023 est.)<br>
 
 **Total fertility rate**<br>
-2.1 children born/woman (2022 est.)<br>
+2.07 children born/woman (2023 est.)<br>
 
 **Gross reproduction rate**<br>
 0.98 (2023 est.)<br>
@@ -759,7 +755,7 @@ ages vary by service, but generally 16.5-27 years of age for voluntary military 
 1,900 Democratic Republic of the Congo (MONUSCO); 110 Golan Heights (UNDOF); 900 Lebanon (UNIFIL); 2,350 South Sudan (UNMISS); 310 Sudan (UNISFA) (May 2022)<br>
 
 **Military - note**<br>
-as of 2022, the Indian Armed Forces were chiefly focused on China and Pakistan; the short 1962 Sino-India War left in place one of the world&rsquo;s longest disputed international borders, resulting in occasional standoffs between Indian and Chinese security forces, including lethal clashes in 1975 and 2020; meanwhile, India and Pakistan have fought several conflicts since 1947, including the Indo-Pakistan War of 1965 and the Indo-Pakistan and Bangladesh War of Independence of 1971, as well as two clashes over the disputed region of Kashmir (the First Kashmir War of 1947 and the 1999 Kargil Conflict); a fragile cease-fire in Kashmir was reached in 2003, revised in 2018, and reaffirmed in 2021, although the Line of Control remained contested as of 2022, and India has accused Pakistan of backing armed separatists and terrorist organizations in Jammu and Kashmir where Indian forces have conducted counterinsurgency operations since the 1980s; in addition, India and Pakistan have battled over the Siachen Glacier of Kashmir, which was seized by India in 1984 with Pakistan attempting to retake the area at least three times between 1985 and 1995; despite a cease-fire, as of 2022 both sides continued to maintain a permanent military presence there with outposts at altitudes above 20,000 feet (over 6,000 meters) where most casualties were due to extreme weather and the hazards of operating in the high mountain terrain of the world&rsquo;s highest conflict, including avalanches, exposure, and altitude sickness (2022)<br>
+the Indian Armed Forces are chiefly focused on China and Pakistan; the short 1962 Sino-India War left in place one of the world&rsquo;s longest disputed international borders, resulting in occasional standoffs between Indian and Chinese security forces, including lethal clashes in 1975 and 2020; meanwhile, India and Pakistan have fought several conflicts since 1947, including the Indo-Pakistan War of 1965 and the Indo-Pakistan and Bangladesh War of Independence of 1971, as well as two clashes over the disputed region of Kashmir (the First Kashmir War of 1947 and the 1999 Kargil Conflict); a fragile cease-fire in Kashmir was reached in 2003, revised in 2018, and reaffirmed in 2021, although the Line of Control remains contested, and India has accused Pakistan of backing armed separatists and terrorist organizations in Jammu and Kashmir where Indian forces have conducted counterinsurgency operations since the 1980s; in addition, India and Pakistan have battled over the Siachen Glacier of Kashmir, which was seized by India in 1984 with Pakistan attempting to retake the area at least three times between 1985 and 1995; despite a cease-fire, both sides continue to maintain a permanent military presence there with outposts at altitudes above 20,000 feet (over 6,000 meters) where most casualties are due to extreme weather and the hazards of operating in the high mountain terrain of the world&rsquo;s highest conflict, including avalanches, exposure, and altitude sickness (2023)<br>
 
 ## Terrorism
 
@@ -773,7 +769,7 @@ Harakat ul-Mujahidin; Harakat ul-Jihad-i-Islami; Hizbul Mujahideen; Indian Mujah
 <p><em>India-China:</em> since China and India launched a security and foreign policy dialogue in 2005, consolidated discussions related to the dispute over most of their rugged, militarized boundary, regional nuclear proliferation, Indian claims that China transferred missiles to Pakistan, and other matters continue; Kashmir remains the site of the world's largest and most militarized territorial dispute with portions under the de facto administration of China (Aksai Chin), India (Jammu and Kashmir), and Pakistan (Azad Kashmir and Northern Areas)</p> <p><em>India-Pakistan:</em> India and Pakistan resumed bilateral dialogue in February 2011 after a two-year hiatus, have maintained the 2003 cease-fire in Kashmir, and continue to have disputes over water sharing of the Indus River and its tributaries; UN Military Observer Group in India and Pakistan has maintained a small group of peacekeepers since 1949; India does not recognize Pakistan's ceding historic Kashmir lands to China in 1964; to defuse tensions and prepare for discussions on a maritime boundary, India and Pakistan seek technical resolution of the disputed boundary in Sir Creek estuary at the mouth of the Rann of Kutch in the Arabian Sea; Pakistani maps continue to show its Junagadh claim in Indian Gujarat State</p> <p><em>India-Bangladesh:</em> Prime Minister SINGH's September 2011 visit to Bangladesh resulted in the signing of a Protocol to the 1974 Land Boundary Agreement between India and Bangladesh, which had called for the settlement of longstanding boundary disputes over un-demarcated areas and the exchange of territorial enclaves, but which had never been implemented; Bangladesh referred its maritime boundary claims with Burma and India to the International Tribunal on the Law of the Sea</p> <p><em>India-Nepal:</em> the Joint Border Committee with Nepal continues to examine contested boundary sections, including the 400 sq km dispute over the source of the Kalapani River; India maintains a strict border regime to keep out Maoist insurgents and control illegal cross-border activities from Nepal</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 92,131 (Sri Lanka), 72,315 (Tibet/China), 57,748 (Burma), 10,064 (Afghanistan) (mid-year 2022)<br>
+_refugees (country of origin)_: 92,131 (Sri Lanka), 72,315 (Tibet/China), 64,380 (Burma), 10,064 (Afghanistan) (mid-year 2022)<br>
 _IDPs_: 506,000 (armed conflict and intercommunal violence) (2021)<br>
 _stateless persons_: 20,330 (2022)<br>
 

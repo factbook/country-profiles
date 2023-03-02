@@ -85,7 +85,7 @@ controls Khyber Pass and Bolan Pass, traditional invasion routes between Central
 ## People and Society
 
 **Population**<br>
-242,923,845 (2022 est.)<br>
+247,653,551 (2023 est.)<br>
 <strong>note:</strong> results of Pakistan's 2017 national census estimate the country's total population to be 207,684,626<br>
 
 **Nationality**<br>
@@ -103,11 +103,9 @@ _major-language sample(s)_: <br>ਸੰਸਾਰ ਦੀ ਤੱਥ ਕਿਤਾਬ
 Muslim (official) 96.5% (Sunni 85-90%, Shia 10-15%), other (includes Christian and Hindu) 3.5% (2020 est.)<br>
 
 **Age structure**<br>
-_0-14 years_: 36.01% (male 42,923,925/female 41,149,694)<br>
-_15-24 years_: 19.3% (male 23,119,205/female 21,952,976)<br>
-_25-54 years_: 34.7% (male 41,589,381/female 39,442,046)<br>
-_55-64 years_: 5.55% (male 6,526,656/female 6,423,993)<br>
-_65 years and over_: 4.44% (male 4,802,165/female 5,570,595) (2020 est.)<br>
+_0-14 years_: 34.81% (male 44,002,871/female 42,216,200)<br>
+_15-64 years_: 60.41% (male 76,548,821/female 73,065,518)<br>
+_65 years and over_: 4.77% (2023 est.) (male 5,482,633/female 6,337,508)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 70<br>
@@ -121,16 +119,16 @@ _male_: 21.9 years<br>
 _female_: 22.1 years (2020 est.)<br>
 
 **Population growth rate**<br>
-1.95% (2022 est.)<br>
+1.91% (2023 est.)<br>
 
 **Birth rate**<br>
-26.48 births/1,000 population (2022 est.)<br>
+26.01 births/1,000 population (2023 est.)<br>
 
 **Death rate**<br>
-6.02 deaths/1,000 population (2022 est.)<br>
+5.94 deaths/1,000 population (2023 est.)<br>
 
 **Net migration rate**<br>
--0.96 migrant(s)/1,000 population (2022 est.)<br>
+-1.01 migrant(s)/1,000 population (2023 est.)<br>
 
 **Population distribution**<br>
 the Indus River and its tributaries attract most of the settlement, with Punjab province the most densely populated<br>
@@ -145,11 +143,9 @@ _rate of urbanization_: 2.1% annual rate of change (2020-25 est.)<br>
 **Sex ratio**<br>
 _at birth_: 1.05 male(s)/female<br>
 _0-14 years_: 1.04 male(s)/female<br>
-_15-24 years_: 1.05 male(s)/female<br>
-_25-54 years_: 1.05 male(s)/female<br>
-_55-64 years_: 1.02 male(s)/female<br>
-_65 years and over_: 0.79 male(s)/female<br>
-_total population_: 1.04 male(s)/female (2022 est.)<br>
+_15-64 years_: 1.05 male(s)/female<br>
+_65 years and over_: 0.87 male(s)/female<br>
+_total population_: 1.04 male(s)/female (2023 est.)<br>
 
 **Mother's mean age at first birth**<br>
 22.8 years (2017/18 est.)<br>
@@ -159,17 +155,17 @@ _total population_: 1.04 male(s)/female (2022 est.)<br>
 140 deaths/100,000 live births (2017 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 53.98 deaths/1,000 live births<br>
-_male_: 58.34 deaths/1,000 live births<br>
-_female_: 49.4 deaths/1,000 live births (2022 est.)<br>
+_total_: 52.73 deaths/1,000 live births<br>
+_male_: 57.13 deaths/1,000 live births<br>
+_female_: 48.1 deaths/1,000 live births (2023 est.)<br>
 
 **Life expectancy at birth**<br>
-_total population_: 69.67 years<br>
-_male_: 67.62 years<br>
-_female_: 71.82 years (2022 est.)<br>
+_total population_: 69.96 years<br>
+_male_: 67.89 years<br>
+_female_: 72.14 years (2023 est.)<br>
 
 **Total fertility rate**<br>
-3.46 children born/woman (2022 est.)<br>
+3.39 children born/woman (2023 est.)<br>
 
 **Gross reproduction rate**<br>
 1.66 (2023 est.)<br>
@@ -729,7 +725,7 @@ _LNG terminal(s) (import)_: Port Qasim<br>
 
 **Military and security forces**<br>
 Pakistan Army (includes National Guard), Pakistan Navy (includes marines, Maritime Security Agency), Pakistan Air Force (Pakistan Fizaia); Ministry of Interior: Frontier Corps, Pakistan Rangers (2022)<br>
-<strong>note 1:</strong> the National Guard is a paramilitary force and one of the Army's reserve forces, along with the Pakistan Army Reserve, the Frontier Corps, and the Pakistan Rangers<br><br><strong>note 2: </strong>the Frontier Corps is a paramilitary force manned mostly by individuals from the tribal areas and commanded by officers from the Pakistan Army; it manages security duties in the tribal areas and on the border with Afghanistan (Balochistan and Khyber Pakhtunkhwa provinces, including the former Federally Administered Tribal Areas)<br><br><strong>note 3: </strong>the Pakistan Rangers is a paramilitary force operating in Sindh and Punjab<br>
+<strong>note 1:</strong> the National Guard is a paramilitary force and one of the Army's reserve forces, along with the Pakistan Army Reserve, the Frontier Corps, and the Pakistan Rangers<br><br><strong>note 2: </strong>the Frontier Corps is a paramilitary force manned mostly by individuals from the tribal areas and commanded by officers from the Pakistan Army; it manages security duties in the tribal areas and on the border with Afghanistan (Balochistan and Khyber Pakhtunkhwa provinces, including the former Federally Administered Tribal Areas); it is under the Ministry of Interior, but would report to the Army in times of conflict<br><br><strong>note 3: </strong>the Pakistan Rangers is a paramilitary force operating in Sindh and Punjab<br>
 
 **Military expenditures**<br>
 4% of GDP (2022 est.)<br>
@@ -742,7 +738,7 @@ Pakistan Army (includes National Guard), Pakistan Navy (includes marines, Mariti
 information varies; approximately 630,000 active duty personnel (550,000 Army; 30,000 Navy; 50,000 Air Force); approximately 150,000 Frontier Corps and Pakistan Rangers (2022)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the military's inventory includes a broad mix of equipment, primarily from China, France, Russia, Turkey, Ukraine, the UK, and the US; China has been the leading supplier of arms to Pakistan; Pakistan also has a large domestic defense industry (2022)<br>
+the military's inventory includes a broad mix of equipment, primarily from China, but also from such suppliers as France, Russia, Turkey, Ukraine, the UK, and the US; China has been the leading supplier of arms to Pakistan; Pakistan also has a large domestic defense industry&nbsp; (2023)<br>
 
 **Military service age and obligation**<br>
 16 (or 17 depending on service) to 23 years of age for voluntary military service; soldiers cannot be deployed for combat until age 18; women serve in all three armed forces; reserve obligation to age 45 for enlisted men, age 50 for officers (2022)<br>

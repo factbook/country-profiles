@@ -72,7 +72,7 @@ important location along the Anegada Passage - a key shipping lane for the Panam
 ## People and Society
 
 **Population**<br>
-105,413 (2022 est.)<br>
+104,917 (2023 est.)<br>
 
 **Nationality**<br>
 _noun_: Virgin Islander(s) (US citizens)<br>
@@ -89,11 +89,9 @@ English 71.6%, Spanish or Spanish Creole 17.2%, French or French Creole 8.6%, ot
 Protestant 65.5%, Roman Catholic 27.1%, other Christians 2.2%, other 1.5%, none 3.7% (2010 est.)<br>
 
 **Age structure**<br>
-_0-14 years_: 19.71% (male 10,671/female 10,192)<br>
-_15-24 years_: 10.16% (male 5,219/female 5,535)<br>
-_25-54 years_: 36.07% (male 17,844/female 20,342)<br>
-_55-64 years_: 14.24% (male 7,222/female 7,859)<br>
-_65 years and over_: 19.82% (male 9,424/female 11,562) (2021 est.)<br>
+_0-14 years_: 19.07% (male 10,224/female 9,779)<br>
+_15-64 years_: 60.04% (male 29,796/female 33,197)<br>
+_65 years and over_: 20.89% (2023 est.) (male 9805/female 12,116)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 64.6<br>
@@ -107,16 +105,16 @@ _male_: 40.6 years<br>
 _female_: 42.8 years (2020 est.)<br>
 
 **Population growth rate**<br>
--0.45% (2022 est.)<br>
+-0.49% (2023 est.)<br>
 
 **Birth rate**<br>
-11.63 births/1,000 population (2022 est.)<br>
+11.35 births/1,000 population (2023 est.)<br>
 
 **Death rate**<br>
-8.78 deaths/1,000 population (2022 est.)<br>
+8.99 deaths/1,000 population (2023 est.)<br>
 
 **Net migration rate**<br>
--7.35 migrant(s)/1,000 population (2022 est.)<br>
+-7.3 migrant(s)/1,000 population (2023 est.)<br>
 
 **Population distribution**<br>
 while overall population density throughout the islands is relatively low, concentrations appear around Charlotte Amalie on St. Thomas and Christiansted on St. Croix<br>
@@ -131,24 +129,22 @@ _rate of urbanization_: -0.11% annual rate of change (2020-25 est.)<br>
 **Sex ratio**<br>
 _at birth_: 1.06 male(s)/female<br>
 _0-14 years_: 1.05 male(s)/female<br>
-_15-24 years_: 0.94 male(s)/female<br>
-_25-54 years_: 0.87 male(s)/female<br>
-_55-64 years_: 0.93 male(s)/female<br>
-_65 years and over_: 0.68 male(s)/female<br>
-_total population_: 0.91 male(s)/female (2022 est.)<br>
+_15-64 years_: 0.9 male(s)/female<br>
+_65 years and over_: 0.81 male(s)/female<br>
+_total population_: 0.9 male(s)/female (2023 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 7.65 deaths/1,000 live births<br>
-_male_: 8.65 deaths/1,000 live births<br>
-_female_: 6.59 deaths/1,000 live births (2022 est.)<br>
+_total_: 7.49 deaths/1,000 live births<br>
+_male_: 8.48 deaths/1,000 live births<br>
+_female_: 6.44 deaths/1,000 live births (2023 est.)<br>
 
 **Life expectancy at birth**<br>
-_total population_: 80.27 years<br>
-_male_: 77.08 years<br>
-_female_: 83.65 years (2022 est.)<br>
+_total population_: 80.49 years<br>
+_male_: 77.32 years<br>
+_female_: 83.85 years (2023 est.)<br>
 
 **Total fertility rate**<br>
-2 children born/woman (2022 est.)<br>
+1.98 children born/woman (2023 est.)<br>
 
 **Gross reproduction rate**<br>
 0.96 (2023 est.)<br>

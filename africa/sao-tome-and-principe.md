@@ -73,7 +73,7 @@ the second-smallest African country (after the Seychelles); the two main islands
 ## People and Society
 
 **Population**<br>
-217,164 (2022 est.)<br>
+220,372 (2023 est.)<br>
 
 **Nationality**<br>
 _noun_: Sao Tomean(s)<br>
@@ -92,11 +92,9 @@ Catholic 55.7%, Adventist 4.1%, Assembly of God 3.4%, New Apostolic 2.9%, Mana 2
 <p>Sao Tome and Principe’s youthful age structure – more than 60% of the population is under the age of 25 as of 2020 – and high fertility rate ensure future population growth. Although Sao Tome has a net negative international migration rate, emigration is not a sufficient safety valve to reduce already high levels of unemployment and poverty. While literacy and primary school attendance have improved in recent years, Sao Tome still struggles to improve its educational quality and to increase its secondary school completion rate. Despite some improvements in education and access to healthcare, Sao Tome and Principe has much to do to decrease its high poverty rate, create jobs, and increase its economic growth.</p> <p>The population of Sao Tome and Principe descends primarily from the islands’ colonial Portuguese settlers, who first arrived in the late 15th century, and the much larger number of African slaves brought in for sugar production and the slave trade. For about 100 years after the abolition of slavery in 1876, the population was further shaped by the widespread use of imported unskilled contract laborers from Portugal’s other African colonies, who worked on coffee and cocoa plantations. In the first decades after abolition, most workers were brought from Angola under a system similar to slavery. While Angolan laborers were technically free, they were forced or coerced into long contracts that were automatically renewed and extended to their children. Other contract workers from Mozambique and famine-stricken Cape Verde first arrived in the early 20th century under short-term contracts and had the option of repatriation, although some chose to remain in Sao Tome and Principe.</p> <p>Today’s Sao Tomean population consists of mesticos (creole descendants of the European immigrants and African slaves that first inhabited the islands), forros (descendants of freed African slaves), angolares (descendants of runaway African slaves that formed a community in the south of Sao Tome Island and today are fishermen), servicais (contract laborers from Angola, Mozambique, and Cape Verde), tongas (locally born children of contract laborers), and lesser numbers of Europeans and Asians.</p><br>
 
 **Age structure**<br>
-_0-14 years_: 39.77% (male 42,690/female 41,277)<br>
-_15-24 years_: 21.59% (male 23,088/female 22,487)<br>
-_25-54 years_: 31.61% (male 32,900/female 33,834)<br>
-_55-64 years_: 4.17% (male 4,095/female 4,700)<br>
-_65 years and over_: 2.87% (male 2,631/female 3,420) (2020 est.)<br>
+_0-14 years_: 37.21% (male 41,620/female 40,373)<br>
+_15-64 years_: 59.64% (male 65,356/female 66,078)<br>
+_65 years and over_: 3.15% (2023 est.) (male 2,986/female 3,959)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 77.9<br>
@@ -110,16 +108,16 @@ _male_: 18.9 years<br>
 _female_: 19.7 years (2020 est.)<br>
 
 **Population growth rate**<br>
-1.48% (2022 est.)<br>
+1.45% (2023 est.)<br>
 
 **Birth rate**<br>
-28.19 births/1,000 population (2022 est.)<br>
+27.43 births/1,000 population (2023 est.)<br>
 
 **Death rate**<br>
-6.2 deaths/1,000 population (2022 est.)<br>
+6.07 deaths/1,000 population (2023 est.)<br>
 
 **Net migration rate**<br>
--7.19 migrant(s)/1,000 population (2022 est.)<br>
+-6.84 migrant(s)/1,000 population (2023 est.)<br>
 
 **Population distribution**<br>
 Sao Tome, the capital city, has roughly a quarter of the nation's population; Santo Antonio is the largest town on Principe; the northern areas of both islands have the highest population densities as shown in this population distribution map<br>
@@ -134,11 +132,9 @@ _rate of urbanization_: 2.96% annual rate of change (2020-25 est.)<br>
 **Sex ratio**<br>
 _at birth_: 1.03 male(s)/female<br>
 _0-14 years_: 1.03 male(s)/female<br>
-_15-24 years_: 1.03 male(s)/female<br>
-_25-54 years_: 0.97 male(s)/female<br>
-_55-64 years_: 0.88 male(s)/female<br>
-_65 years and over_: 0.7 male(s)/female<br>
-_total population_: 1 male(s)/female (2022 est.)<br>
+_15-64 years_: 0.99 male(s)/female<br>
+_65 years and over_: 0.75 male(s)/female<br>
+_total population_: 1 male(s)/female (2023 est.)<br>
 
 **Mother's mean age at first birth**<br>
 19.4 years (2008/09 est.)<br>
@@ -148,17 +144,17 @@ _total population_: 1 male(s)/female (2022 est.)<br>
 130 deaths/100,000 live births (2017 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 44.38 deaths/1,000 live births<br>
-_male_: 47.82 deaths/1,000 live births<br>
-_female_: 40.84 deaths/1,000 live births (2022 est.)<br>
+_total_: 43.48 deaths/1,000 live births<br>
+_male_: 46.93 deaths/1,000 live births<br>
+_female_: 39.92 deaths/1,000 live births (2023 est.)<br>
 
 **Life expectancy at birth**<br>
-_total population_: 67.06 years<br>
-_male_: 65.44 years<br>
-_female_: 68.72 years (2022 est.)<br>
+_total population_: 67.39 years<br>
+_male_: 65.74 years<br>
+_female_: 69.08 years (2023 est.)<br>
 
 **Total fertility rate**<br>
-3.56 children born/woman (2022 est.)<br>
+3.44 children born/woman (2023 est.)<br>
 
 **Gross reproduction rate**<br>
 1.69 (2023 est.)<br>

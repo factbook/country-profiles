@@ -75,7 +75,7 @@ the mainland terrain is flat, boggy, and partly wooded; offshore lie more than 1
 ## People and Society
 
 **Population**<br>
-1,211,524 (2022 est.)<br>
+1,202,762 (2023 est.)<br>
 
 **Nationality**<br>
 _noun_: Estonian(s)<br>
@@ -91,11 +91,9 @@ Estonian (official) 68.5%, Russian 29.6%, Ukrainian 0.6%, other 1.2%, unspecifie
 Orthodox 16.2%, Lutheran 9.9%, other Christian (including Methodist, Seventh Day Adventist, Roman Catholic, Pentecostal) 2.2%, other 0.9%, none 54.1%, unspecified 16.7% (2011 est.)<br>
 
 **Age structure**<br>
-_0-14 years_: 16.22% (male 102,191/female 97,116)<br>
-_15-24 years_: 8.86% (male 56,484/female 52,378)<br>
-_25-54 years_: 40.34% (male 252,273/female 243,382)<br>
-_55-64 years_: 13.58% (male 76,251/female 90,576)<br>
-_65 years and over_: 21% (male 89,211/female 168,762) (2020 est.)<br>
+_0-14 years_: 15.56% (male 95,732/female 91,384)<br>
+_15-64 years_: 62.27% (male 376,599/female 372,380)<br>
+_65 years and over_: 22.17% (2023 est.) (male 94,291/female 172,376)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 58.3<br>
@@ -109,16 +107,16 @@ _male_: 40.4 years<br>
 _female_: 47 years (2020 est.)<br>
 
 **Population growth rate**<br>
--0.71% (2022 est.)<br>
+-0.74% (2023 est.)<br>
 
 **Birth rate**<br>
-8.75 births/1,000 population (2022 est.)<br>
+8.48 births/1,000 population (2023 est.)<br>
 
 **Death rate**<br>
-13.1 deaths/1,000 population (2022 est.)<br>
+13.13 deaths/1,000 population (2023 est.)<br>
 
 **Net migration rate**<br>
--2.79 migrant(s)/1,000 population (2022 est.)<br>
+-2.73 migrant(s)/1,000 population (2023 est.)<br>
 
 **Population distribution**<br>
 a fairly even distribution throughout most of the country, with urban areas attracting larger and denser populations<br>
@@ -133,11 +131,9 @@ _rate of urbanization_: -0.03% annual rate of change (2020-25 est.)<br>
 **Sex ratio**<br>
 _at birth_: 1.05 male(s)/female<br>
 _0-14 years_: 1.05 male(s)/female<br>
-_15-24 years_: 1.08 male(s)/female<br>
-_25-54 years_: 1.05 male(s)/female<br>
-_55-64 years_: 0.85 male(s)/female<br>
-_65 years and over_: 0.42 male(s)/female<br>
-_total population_: 0.89 male(s)/female (2022 est.)<br>
+_15-64 years_: 1.01 male(s)/female<br>
+_65 years and over_: 0.55 male(s)/female<br>
+_total population_: 0.89 male(s)/female (2023 est.)<br>
 
 **Mother's mean age at first birth**<br>
 28.2 years (2020 est.)<br>
@@ -146,17 +142,17 @@ _total population_: 0.89 male(s)/female (2022 est.)<br>
 9 deaths/100,000 live births (2017 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 3.42 deaths/1,000 live births<br>
-_male_: 3.29 deaths/1,000 live births<br>
-_female_: 3.56 deaths/1,000 live births (2022 est.)<br>
+_total_: 3.38 deaths/1,000 live births<br>
+_male_: 3.26 deaths/1,000 live births<br>
+_female_: 3.5 deaths/1,000 live births (2023 est.)<br>
 
 **Life expectancy at birth**<br>
-_total population_: 77.88 years<br>
-_male_: 73.25 years<br>
-_female_: 82.73 years (2022 est.)<br>
+_total population_: 78.12 years<br>
+_male_: 73.52 years<br>
+_female_: 82.94 years (2023 est.)<br>
 
 **Total fertility rate**<br>
-1.61 children born/woman (2022 est.)<br>
+1.62 children born/woman (2023 est.)<br>
 
 **Gross reproduction rate**<br>
 0.79 (2023 est.)<br>
@@ -714,7 +710,7 @@ Estonia became a member of NATO in 2004<br><br>since 2017, Estonia has hosted a 
 <p>Russia and Estonia in May 2005 signed a technical border agreement, but Russia in June 2005 recalled its signature after the Estonian parliament added to its domestic ratification act a historical preamble referencing the Soviet occupation and Estonia's pre-war borders under the 1920 Treaty of Tartu; Russia contends that the preamble allows Estonia to make territorial claims on Russia in the future, while Estonian officials deny that the preamble has any legal impact on the treaty text; Russia demands better treatment of the Russian-speaking population in Estonia; as a member state that forms part of the EU's external border, Estonia implements strict Schengen border rules with Russia</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 67,243 (Ukraine) (as of 13 February 2023)<br>
+_refugees (country of origin)_: 67,601 (Ukraine) (as of 27 February 2023)<br>
 _stateless persons_: 70,604 (2022); note - following independence in 1991, automatic citizenship was restricted to those who were Estonian citizens prior to the 1940 Soviet occupation and their descendants; thousands of ethnic Russians remained stateless when forced to choose between passing Estonian language and citizenship tests or applying for Russian citizenship; one reason for demurring on Estonian citizenship was to retain the right of visa-free travel to Russia; stateless residents can vote in local elections but not general elections; stateless parents who have been lawful residents of Estonia for at least five years can apply for citizenship for their children before they turn 15 years old<br>
 
 **Illicit drugs**<br>

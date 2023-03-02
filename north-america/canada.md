@@ -90,7 +90,7 @@ vast majority of Canadians are positioned in a discontinuous band within approxi
 ## People and Society
 
 **Population**<br>
-38,232,593 (2022 est.)<br>
+38,516,736 (2023 est.)<br>
 
 **Nationality**<br>
 _noun_: Canadian(s)<br>
@@ -108,11 +108,9 @@ _major-language sample(s)_: <br>The World Factbook, the indispensable source for
 Catholic 39% (includes Roman Catholic 38.8%, other Catholic .2%), Protestant 20.3% (includes United Church 6.1%, Anglican 5%, Baptist 1.9%, Lutheran 1.5%, Pentecostal 1.5%, Presbyterian 1.4%, other Protestant 2.9%), Orthodox 1.6%, other Christian 6.3%, Muslim 3.2%, Hindu 1.5%, Sikh 1.4%, Buddhist 1.1%, Jewish 1%, other 0.6%, none 23.9% (2011 est.)<br>
 
 **Age structure**<br>
-_0-14 years_: 15.99% (male 3,094,008/female 2,931,953)<br>
-_15-24 years_: 11.14% (male 2,167,013/female 2,032,064)<br>
-_25-54 years_: 39.81% (male 7,527,554/female 7,478,737)<br>
-_55-64 years_: 14.08% (male 2,624,474/female 2,682,858)<br>
-_65 years and over_: 18.98% (male 3,274,298/female 3,881,126) (2020 est.)<br>
+_0-14 years_: 15.65% (male 3,097,585/female 2,930,056)<br>
+_15-64 years_: 63.85% (male 12,367,172/female 12,224,077)<br>
+_65 years and over_: 20.5% (2023 est.) (male 3,630,580/female 4,267,266)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 52.1<br>
@@ -126,16 +124,16 @@ _male_: 40.6 years<br>
 _female_: 42.9 years (2020 est.)<br>
 
 **Population growth rate**<br>
-0.75% (2022 est.)<br>
+0.73% (2023 est.)<br>
 
 **Birth rate**<br>
-10.17 births/1,000 population (2022 est.)<br>
+10.11 births/1,000 population (2023 est.)<br>
 
 **Death rate**<br>
-8.12 deaths/1,000 population (2022 est.)<br>
+8.17 deaths/1,000 population (2023 est.)<br>
 
 **Net migration rate**<br>
-5.46 migrant(s)/1,000 population (2022 est.)<br>
+5.37 migrant(s)/1,000 population (2023 est.)<br>
 
 **Population distribution**<br>
 vast majority of Canadians are positioned in a discontinuous band within approximately 300 km of the southern border with the United States; the most populated province is Ontario, followed by Quebec and British Columbia<br>
@@ -150,11 +148,9 @@ _rate of urbanization_: 0.95% annual rate of change (2020-25 est.)<br>
 **Sex ratio**<br>
 _at birth_: 1.05 male(s)/female<br>
 _0-14 years_: 1.06 male(s)/female<br>
-_15-24 years_: 1.06 male(s)/female<br>
-_25-54 years_: 1.01 male(s)/female<br>
-_55-64 years_: 0.98 male(s)/female<br>
-_65 years and over_: 0.75 male(s)/female<br>
-_total population_: 0.98 male(s)/female (2022 est.)<br>
+_15-64 years_: 1.01 male(s)/female<br>
+_65 years and over_: 0.85 male(s)/female<br>
+_total population_: 0.98 male(s)/female (2023 est.)<br>
 
 **Mother's mean age at first birth**<br>
 29.4 years (2019 est.)<br>
@@ -163,17 +159,17 @@ _total population_: 0.98 male(s)/female (2022 est.)<br>
 10 deaths/100,000 live births (2017 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 4.38 deaths/1,000 live births<br>
-_male_: 4.66 deaths/1,000 live births<br>
-_female_: 4.08 deaths/1,000 live births (2022 est.)<br>
+_total_: 4.31 deaths/1,000 live births<br>
+_male_: 4.6 deaths/1,000 live births<br>
+_female_: 4.02 deaths/1,000 live births (2023 est.)<br>
 
 **Life expectancy at birth**<br>
-_total population_: 83.8 years<br>
-_male_: 81.52 years<br>
-_female_: 86.21 years (2022 est.)<br>
+_total population_: 83.99 years<br>
+_male_: 81.72 years<br>
+_female_: 86.39 years (2023 est.)<br>
 
 **Total fertility rate**<br>
-1.57 children born/woman (2022 est.)<br>
+1.57 children born/woman (2023 est.)<br>
 
 **Gross reproduction rate**<br>
 0.77 (2023 est.)<br>
@@ -726,9 +722,9 @@ Canadian Forces: Canadian Army, Royal Canadian Navy, Royal Canadian Air Force, C
 **Military expenditures**<br>
 1.4% of GDP (2021 est.)<br>
 1.4% of GDP (2020)<br>
-1.3% of GDP (2019) (approximately $26 billion)<br>
-1.3% of GDP (2018) (approximately $25.7 billion)<br>
-1.4% of GDP (2017) (approximately $27.6 billion)<br>
+1.3% of GDP (2019)<br>
+1.3% of GDP (2018)<br>
+1.4% of GDP (2017)<br>
 
 **Military and security service personnel strengths**<br>
 approximately 70,000 active armed forces personnel (23,000 Army; 12,000 Navy; 12,000 Air Force; 23,000 other) (2022)<br>

@@ -80,7 +80,7 @@ landlocked; strategic location between China and Russia<br>
 ## People and Society
 
 **Population**<br>
-3,227,863 (2022 est.)<br>
+3,255,468 (2023 est.)<br>
 <strong>note:</strong> Mongolia is one of the least densely populated countries in the world (2 people per sq km); twice as many ethnic Mongols (some 6 million) live in Inner Mongolia (Nei Mongol) in neighboring China<br>
 
 **Nationality**<br>
@@ -98,11 +98,9 @@ _major-language sample(s)_: <br>Дэлхийн баримтат ном, үндс
 Buddhist 51.7%, Muslim 3.2%, Shamanist 2.5%, Christian 1.3%, other 0.7%, none 40.6% (2020 est.)<br>
 
 **Age structure**<br>
-_0-14 years_: 26.96% (male 435,596/female 418,524)<br>
-_15-24 years_: 14.93% (male 239,495/female 233,459)<br>
-_25-54 years_: 45.29% (male 694,481/female 740,334)<br>
-_55-64 years_: 8.04% (male 115,560/female 139,129)<br>
-_65 years and over_: 4.78% (male 60,966/female 90,482) (2020 est.)<br>
+_0-14 years_: 26.16% (male 434,400/female 417,335)<br>
+_15-64 years_: 68.24% (male 1,076,692/female 1,144,759)<br>
+_65 years and over_: 5.6% (2023 est.) (male 73,245/female 109,037)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 58.4<br>
@@ -116,16 +114,16 @@ _male_: 28.8 years<br>
 _female_: 30.7 years (2020 est.)<br>
 
 **Population growth rate**<br>
-0.88% (2022 est.)<br>
+0.83% (2023 est.)<br>
 
 **Birth rate**<br>
-15.84 births/1,000 population (2022 est.)<br>
+15.37 births/1,000 population (2023 est.)<br>
 
 **Death rate**<br>
-6.3 deaths/1,000 population (2022 est.)<br>
+6.33 deaths/1,000 population (2023 est.)<br>
 
 **Net migration rate**<br>
--0.77 migrant(s)/1,000 population (2022 est.)<br>
+-0.77 migrant(s)/1,000 population (2023 est.)<br>
 
 **Population distribution**<br>
 sparsely distributed population throughout the country; the capital of Ulaanbaatar and the northern city of Darhan support the highest population densities<br>
@@ -140,11 +138,9 @@ _rate of urbanization_: 1.4% annual rate of change (2020-25 est.)<br>
 **Sex ratio**<br>
 _at birth_: 1.05 male(s)/female<br>
 _0-14 years_: 1.04 male(s)/female<br>
-_15-24 years_: 1.03 male(s)/female<br>
-_25-54 years_: 0.93 male(s)/female<br>
-_55-64 years_: 0.82 male(s)/female<br>
-_65 years and over_: 0.51 male(s)/female<br>
-_total population_: 0.95 male(s)/female (2022 est.)<br>
+_15-64 years_: 0.94 male(s)/female<br>
+_65 years and over_: 0.67 male(s)/female<br>
+_total population_: 0.95 male(s)/female (2023 est.)<br>
 
 **Mother's mean age at first birth**<br>
 20.5 years (2008 est.)<br>
@@ -154,17 +150,17 @@ _total population_: 0.95 male(s)/female (2022 est.)<br>
 45 deaths/100,000 live births (2017 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 20.18 deaths/1,000 live births<br>
-_male_: 23.26 deaths/1,000 live births<br>
-_female_: 16.95 deaths/1,000 live births (2022 est.)<br>
+_total_: 19.77 deaths/1,000 live births<br>
+_male_: 22.81 deaths/1,000 live births<br>
+_female_: 16.59 deaths/1,000 live births (2023 est.)<br>
 
 **Life expectancy at birth**<br>
-_total population_: 71.37 years<br>
-_male_: 67.19 years<br>
-_female_: 75.76 years (2022 est.)<br>
+_total population_: 71.65 years<br>
+_male_: 67.49 years<br>
+_female_: 76.02 years (2023 est.)<br>
 
 **Total fertility rate**<br>
-1.91 children born/woman (2022 est.)<br>
+1.89 children born/woman (2023 est.)<br>
 
 **Gross reproduction rate**<br>
 0.92 (2023 est.)<br>

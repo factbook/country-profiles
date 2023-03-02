@@ -83,7 +83,7 @@ the Zambezi River flows through the north-central and most fertile part of the c
 ## People and Society
 
 **Population**<br>
-31,693,239 (2022 est.)<br>
+32,513,805 (2023 est.)<br>
 
 **Nationality**<br>
 _noun_: Mozambican(s)<br>
@@ -102,11 +102,9 @@ Roman Catholic 27.2%, Muslim 18.9%, Zionist Christian 15.6%, Evangelical/Penteco
 <p>Mozambique is a poor, sparsely populated country with high fertility and mortality rates and a rapidly growing youthful population – 45% of the population is younger than 15, as of 2020. Mozambique’s high poverty rate is sustained by natural disasters, disease, high population growth, low agricultural productivity, and the unequal distribution of wealth. The country’s birth rate is among the world’s highest, averaging around  5 children per woman (and higher in rural areas) for at least the last three decades. The sustained high level of fertility reflects gender inequality, low contraceptive use, early marriages and childbearing, and a lack of education, particularly among women. The high population growth rate is somewhat restrained by the country’s high HIV/AIDS and overall mortality rates. Mozambique ranks among the worst in the world for HIV/AIDS prevalence, HIV/AIDS deaths, and life expectancy at birth, as of 2022.</p> <p>Mozambique is predominantly a country of emigration, but internal, rural-urban migration has begun to grow. Mozambicans, primarily from the country’s southern region, have been migrating to South Africa for work for more than a century. Additionally, approximately 1.7 million Mozambicans fled to Malawi, South Africa, and other neighboring countries between 1979 and 1992 to escape from civil war. Labor migrants have usually been men from rural areas whose crops have failed or who are unemployed and have headed to South Africa to work as miners; multiple generations of the same family often become miners. Since the abolition of apartheid in South Africa in 1991, other job opportunities have opened to Mozambicans, including in the informal and manufacturing sectors, but mining remains their main source of employment.</p><br>
 
 **Age structure**<br>
-_0-14 years_: 45.57% (male 6,950,800/female 6,766,373)<br>
-_15-24 years_: 19.91% (male 2,997,529/female 2,994,927)<br>
-_25-54 years_: 28.28% (male 3,949,085/female 4,564,031)<br>
-_55-64 years_: 3.31% (male 485,454/female 509,430)<br>
-_65 years and over_: 2.93% (male 430,797/female 449,771) (2020 est.)<br>
+_0-14 years_: 45% (male 7,413,197/female 7,217,953)<br>
+_15-64 years_: 52.1% (male 8,153,175/female 8,787,792)<br>
+_65 years and over_: 2.9% (2023 est.) (male 461,904/female 479,784)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 86.1<br>
@@ -120,16 +118,16 @@ _male_: 16.3 years<br>
 _female_: 17.6 years (2020 est.)<br>
 
 **Population growth rate**<br>
-2.56% (2022 est.)<br>
+2.55% (2023 est.)<br>
 
 **Birth rate**<br>
-37.47 births/1,000 population (2022 est.)<br>
+36.94 births/1,000 population (2023 est.)<br>
 
 **Death rate**<br>
-10.25 deaths/1,000 population (2022 est.)<br>
+9.93 deaths/1,000 population (2023 est.)<br>
 
 **Net migration rate**<br>
--1.58 migrant(s)/1,000 population (2022 est.)<br>
+-1.54 migrant(s)/1,000 population (2023 est.)<br>
 
 **Population distribution**<br>
 three large populations clusters are found along the southern coast between Maputo and Inhambane, in the central area between Beira and Chimoio along the Zambezi River, and in and around the northern cities of Nampula, Cidade de Nacala, and Pemba; the northwest and southwest are the least populated areas as shown in this population distribution map<br>
@@ -144,11 +142,9 @@ _rate of urbanization_: 4.24% annual rate of change (2020-25 est.)<br>
 **Sex ratio**<br>
 _at birth_: 1.03 male(s)/female<br>
 _0-14 years_: 1.03 male(s)/female<br>
-_15-24 years_: 1 male(s)/female<br>
-_25-54 years_: 0.86 male(s)/female<br>
-_55-64 years_: 0.94 male(s)/female<br>
-_65 years and over_: 0.88 male(s)/female<br>
-_total population_: 0.97 male(s)/female (2022 est.)<br>
+_15-64 years_: 0.93 male(s)/female<br>
+_65 years and over_: 0.96 male(s)/female<br>
+_total population_: 0.97 male(s)/female (2023 est.)<br>
 
 **Mother's mean age at first birth**<br>
 19.2 years (2011 est.)<br>
@@ -158,17 +154,17 @@ _total population_: 0.97 male(s)/female (2022 est.)<br>
 289 deaths/100,000 live births (2017 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 61.38 deaths/1,000 live births<br>
-_male_: 63.37 deaths/1,000 live births<br>
-_female_: 59.33 deaths/1,000 live births (2022 est.)<br>
+_total_: 59.77 deaths/1,000 live births<br>
+_male_: 61.72 deaths/1,000 live births<br>
+_female_: 57.76 deaths/1,000 live births (2023 est.)<br>
 
 **Life expectancy at birth**<br>
-_total population_: 57.1 years<br>
-_male_: 55.76 years<br>
-_female_: 58.49 years (2022 est.)<br>
+_total population_: 57.7 years<br>
+_male_: 56.41 years<br>
+_female_: 59.03 years (2023 est.)<br>
 
 **Total fertility rate**<br>
-4.81 children born/woman (2022 est.)<br>
+4.74 children born/woman (2023 est.)<br>
 
 **Gross reproduction rate**<br>
 2.33 (2023 est.)<br>

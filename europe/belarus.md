@@ -79,7 +79,7 @@ landlocked; glacial scouring accounts for the flatness of Belarusian terrain and
 ## People and Society
 
 **Population**<br>
-9,413,505 (2022 est.)<br>
+9,383,853 (2023 est.)<br>
 
 **Nationality**<br>
 _noun_: Belarusian(s)<br>
@@ -96,11 +96,9 @@ _major-language sample(s)_: <br>Книга фактов о мире – неза
 Orthodox 48.3%, Catholic 7.1%, other 3.5%, non-believers 41.1% (2011 est.)<br>
 
 **Age structure**<br>
-_0-14 years_: 16.09% (male 784,231/female 740,373)<br>
-_15-24 years_: 9.59% (male 467,393/female 441,795)<br>
-_25-54 years_: 43.94% (male 2,058,648/female 2,105,910)<br>
-_55-64 years_: 14.45% (male 605,330/female 763,972)<br>
-_65 years and over_: 15.93% (male 493,055/female 1,017,211) (2020 est.)<br>
+_0-14 years_: 15.83% (male 764,281/female 721,632)<br>
+_15-64 years_: 66.81% (male 3,055,606/female 3,213,751)<br>
+_65 years and over_: 17.36% (2023 est.) (male 544,270/female 1,084,313)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 50.8<br>
@@ -114,16 +112,16 @@ _male_: 38 years<br>
 _female_: 43.9 years (2020 est.)<br>
 
 **Population growth rate**<br>
--0.31% (2022 est.)<br>
+-0.32% (2023 est.)<br>
 
 **Birth rate**<br>
-9.08 births/1,000 population (2022 est.)<br>
+8.87 births/1,000 population (2023 est.)<br>
 
 **Death rate**<br>
-12.88 deaths/1,000 population (2022 est.)<br>
+12.81 deaths/1,000 population (2023 est.)<br>
 
 **Net migration rate**<br>
-0.72 migrant(s)/1,000 population (2022 est.)<br>
+0.72 migrant(s)/1,000 population (2023 est.)<br>
 
 **Population distribution**<br>
 a fairly even distribution throughout most of the country, with urban areas attracting larger and denser populations<br>
@@ -138,11 +136,9 @@ _rate of urbanization_: 0.28% annual rate of change (2020-25 est.)<br>
 **Sex ratio**<br>
 _at birth_: 1.06 male(s)/female<br>
 _0-14 years_: 1.06 male(s)/female<br>
-_15-24 years_: 1.06 male(s)/female<br>
-_25-54 years_: 0.98 male(s)/female<br>
-_55-64 years_: 0.79 male(s)/female<br>
-_65 years and over_: 0.35 male(s)/female<br>
-_total population_: 0.87 male(s)/female (2022 est.)<br>
+_15-64 years_: 0.95 male(s)/female<br>
+_65 years and over_: 0.5 male(s)/female<br>
+_total population_: 0.87 male(s)/female (2023 est.)<br>
 
 **Mother's mean age at first birth**<br>
 26.8 years (2019 est.)<br>
@@ -151,17 +147,17 @@ _total population_: 0.87 male(s)/female (2022 est.)<br>
 2 deaths/100,000 live births (2017 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 3.27 deaths/1,000 live births<br>
-_male_: 3.72 deaths/1,000 live births<br>
-_female_: 2.79 deaths/1,000 live births (2022 est.)<br>
+_total_: 3.23 deaths/1,000 live births<br>
+_male_: 3.69 deaths/1,000 live births<br>
+_female_: 2.76 deaths/1,000 live births (2023 est.)<br>
 
 **Life expectancy at birth**<br>
-_total population_: 74.28 years<br>
-_male_: 68.9 years<br>
-_female_: 79.97 years (2022 est.)<br>
+_total population_: 74.54 years<br>
+_male_: 69.2 years<br>
+_female_: 80.2 years (2023 est.)<br>
 
 **Total fertility rate**<br>
-1.51 children born/woman (2022 est.)<br>
+1.52 children born/woman (2023 est.)<br>
 
 **Gross reproduction rate**<br>
 0.74 (2023 est.)<br>
@@ -723,7 +719,7 @@ Belarus has close security ties with Russia, including an integrated air and mis
 <p><em>Belarus-Latvia:</em> Boundary demarcated with Latvia.<br><br><em>Belarus-Lithuania:</em> Boundary demarcated with Lithuania.<br><br><em>Belarus-Poland:</em> As a member state that forms part of the EU's external border, Poland has implemented strict Schengen border rules to restrict illegal immigration and trade along its border with Belarus.</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 20,235 (Ukraine) (as of 7 February 2023)<br>
+_refugees (country of origin)_: 20,780 (Ukraine) (as of 21 February 2023)<br>
 _stateless persons_: 5,626 (2022)<br>
 
 **Trafficking in persons**<br>

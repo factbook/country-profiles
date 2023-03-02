@@ -78,7 +78,7 @@ strategic location in central Mediterranean; Malta and Tunisia are discussing th
 ## People and Society
 
 **Population**<br>
-11,896,972 (2022 est.)<br>
+11,976,182 (2023 est.)<br>
 
 **Nationality**<br>
 _noun_: Tunisian(s)<br>
@@ -98,11 +98,9 @@ Muslim (official; Sunni) 99%, other (includes Christian, Jewish, Shia Muslim, an
 <p>The Tunisian Government took steps in the 1960s to decrease population growth and gender inequality in order to improve socioeconomic development. Through its introduction of a national family planning program (the first in Africa) and by raising the legal age of marriage, Tunisia rapidly reduced its total fertility rate from about 7 children per woman in 1960 to 2 in 2022. Unlike many of its North African and Middle Eastern neighbors, Tunisia will soon be shifting from being a youth-bulge country to having a transitional age structure, characterized by lower fertility and mortality rates, a slower population growth rate, a rising median age, and a longer average life expectancy.</p> <p>Currently, the sizable young working-age population is straining Tunisia’s labor market and education and health care systems. Persistent high unemployment among Tunisia’s growing workforce, particularly its increasing number of university graduates and women, was a key factor in the uprisings that led to the overthrow of the BEN ALI regime in 2011. In the near term, Tunisia’s large number of jobless young, working-age adults; deficiencies in primary and secondary education; and the ongoing lack of job creation and skills mismatches could contribute to future unrest. In the longer term, a sustained low fertility rate will shrink future youth cohorts and alleviate demographic pressure on Tunisia’s labor market, but employment and education hurdles will still need to be addressed.</p> <p>Tunisia has a history of labor emigration. In the 1960s, workers migrated to European countries to escape poor economic conditions and to fill Europe’s need for low-skilled labor in construction and manufacturing. The Tunisian Government signed bilateral labor agreements with France, Germany, Belgium, Hungary, and the Netherlands, with the expectation that Tunisian workers would eventually return home. At the same time, growing numbers of Tunisians headed to Libya, often illegally, to work in the expanding oil industry. In the mid-1970s, with European countries beginning to restrict immigration and Tunisian-Libyan tensions brewing, Tunisian economic migrants turned toward the Gulf countries. After mass expulsions from Libya in 1983, Tunisian migrants increasingly sought family reunification in Europe or moved illegally to southern Europe, while Tunisia itself developed into a transit point for Sub-Saharan migrants heading to Europe.</p> <p>Following the ousting of BEN ALI in 2011, the illegal migration of unemployed Tunisian youths to Italy and onward to France soared into the tens of thousands. Thousands more Tunisian and foreign workers escaping civil war in Libya flooded into Tunisia and joined the exodus. A readmission agreement signed by Italy and Tunisia in April 2011 helped stem the outflow, leaving Tunisia and international organizations to repatriate, resettle, or accommodate some 1 million Libyans and third-country nationals.</p><br>
 
 **Age structure**<br>
-_0-14 years_: 25.28% (male 1,529,834/female 1,433,357)<br>
-_15-24 years_: 12.9% (male 766,331/female 745,888)<br>
-_25-54 years_: 42.85% (male 2,445,751/female 2,576,335)<br>
-_55-64 years_: 10.12% (male 587,481/female 598,140)<br>
-_65 years and over_: 8.86% (male 491,602/female 546,458) (2020 est.)<br>
+_0-14 years_: 24.77% (male 1,529,179/female 1,436,771)<br>
+_15-64 years_: 65.26% (male 3,843,642/female 3,971,509)<br>
+_65 years and over_: 9.98% (2023 est.) (male 566,265/female 628,816)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 50.9<br>
@@ -116,16 +114,16 @@ _male_: 32 years<br>
 _female_: 33.3 years (2020 est.)<br>
 
 **Population growth rate**<br>
-0.69% (2022 est.)<br>
+0.63% (2023 est.)<br>
 
 **Birth rate**<br>
-14.62 births/1,000 population (2022 est.)<br>
+14.05 births/1,000 population (2023 est.)<br>
 
 **Death rate**<br>
-6.36 deaths/1,000 population (2022 est.)<br>
+6.38 deaths/1,000 population (2023 est.)<br>
 
 **Net migration rate**<br>
--1.33 migrant(s)/1,000 population (2022 est.)<br>
+-1.33 migrant(s)/1,000 population (2023 est.)<br>
 
 **Population distribution**<br>
 the overwhelming majority of the population is located in the northern half of the country; the south remains largely underpopulated as shown in this population distribution map<br>
@@ -139,28 +137,26 @@ _rate of urbanization_: 1.34% annual rate of change (2020-25 est.)<br>
 
 **Sex ratio**<br>
 _at birth_: 1.06 male(s)/female<br>
-_0-14 years_: 1.07 male(s)/female<br>
-_15-24 years_: 1.03 male(s)/female<br>
-_25-54 years_: 0.95 male(s)/female<br>
-_55-64 years_: 0.96 male(s)/female<br>
-_65 years and over_: 0.78 male(s)/female<br>
-_total population_: 0.98 male(s)/female (2022 est.)<br>
+_0-14 years_: 1.06 male(s)/female<br>
+_15-64 years_: 0.97 male(s)/female<br>
+_65 years and over_: 0.9 male(s)/female<br>
+_total population_: 0.98 male(s)/female (2023 est.)<br>
 
 **Maternal mortality ratio**<br>
 43 deaths/100,000 live births (2017 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 11.87 deaths/1,000 live births<br>
-_male_: 13.32 deaths/1,000 live births<br>
-_female_: 10.32 deaths/1,000 live births (2022 est.)<br>
+_total_: 11.57 deaths/1,000 live births<br>
+_male_: 12.99 deaths/1,000 live births<br>
+_female_: 10.07 deaths/1,000 live births (2023 est.)<br>
 
 **Life expectancy at birth**<br>
-_total population_: 76.82 years<br>
-_male_: 75.14 years<br>
-_female_: 78.6 years (2022 est.)<br>
+_total population_: 77.07 years<br>
+_male_: 75.4 years<br>
+_female_: 78.84 years (2023 est.)<br>
 
 **Total fertility rate**<br>
-2 children born/woman (2022 est.)<br>
+1.96 children born/woman (2023 est.)<br>
 
 **Gross reproduction rate**<br>
 0.95 (2023 est.)<br>

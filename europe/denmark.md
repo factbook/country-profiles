@@ -77,7 +77,7 @@ composed of the Jutland Peninsula and a group of more than 400 islands (Danish A
 ## People and Society
 
 **Population**<br>
-5,920,767 (2022 est.)<br>
+5,946,984 (2023 est.)<br>
 
 **Nationality**<br>
 _noun_: Dane(s)<br>
@@ -95,11 +95,9 @@ _major-language sample(s)_: <br>Verdens Faktabog, den uundværlig kilde til grun
 Evangelical Lutheran (official) 74.7%, Muslim 5.5%, other/none/unspecified (denominations of less than 1% each in descending order of size include Roman Catholic, Jehovah's Witness, Serbian Orthodox Christian, Jewish, Baptist, Buddhist, Church of Jesus Christ, Pentecostal, and nondenominational Christian) 19.8% (2019 est.)<br>
 
 **Age structure**<br>
-_0-14 years_: 16.42% (male 494,806/female 469,005)<br>
-_15-24 years_: 12.33% (male 370,557/female 352,977)<br>
-_25-54 years_: 38.71% (male 1,149,991/female 1,122,016)<br>
-_55-64 years_: 12.63% (male 370,338/female 371,149)<br>
-_65 years and over_: 19.91% (male 538,096/female 630,475) (2020 est.)<br>
+_0-14 years_: 16.24% (male 495,887/female 469,976)<br>
+_15-64 years_: 63.13% (male 1,900,182/female 1,854,222)<br>
+_65 years and over_: 20.63% (2023 est.) (male 566,363/female 660,354)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 57.3<br>
@@ -113,16 +111,16 @@ _male_: 40.9 years<br>
 _female_: 43.1 years (2020 est.)<br>
 
 **Population growth rate**<br>
-0.44% (2022 est.)<br>
+0.44% (2023 est.)<br>
 
 **Birth rate**<br>
-11.22 births/1,000 population (2022 est.)<br>
+11.25 births/1,000 population (2023 est.)<br>
 
 **Death rate**<br>
-9.52 deaths/1,000 population (2022 est.)<br>
+9.55 deaths/1,000 population (2023 est.)<br>
 
 **Net migration rate**<br>
-2.73 migrant(s)/1,000 population (2022 est.)<br>
+2.71 migrant(s)/1,000 population (2023 est.)<br>
 
 **Population distribution**<br>
 with excellent access to the North Sea, Skagerrak, Kattegat, and the Baltic Sea, population centers tend to be along coastal areas, particularly in Copenhagen and the eastern side of the country's mainland<br>
@@ -137,11 +135,9 @@ _rate of urbanization_: 0.54% annual rate of change (2020-25 est.)<br>
 **Sex ratio**<br>
 _at birth_: 1.07 male(s)/female<br>
 _0-14 years_: 1.06 male(s)/female<br>
-_15-24 years_: 1.05 male(s)/female<br>
-_25-54 years_: 1.03 male(s)/female<br>
-_55-64 years_: 1 male(s)/female<br>
-_65 years and over_: 0.7 male(s)/female<br>
-_total population_: 0.99 male(s)/female (2022 est.)<br>
+_15-64 years_: 1.02 male(s)/female<br>
+_65 years and over_: 0.86 male(s)/female<br>
+_total population_: 0.99 male(s)/female (2023 est.)<br>
 
 **Mother's mean age at first birth**<br>
 29.8 years (2020 est.)<br>
@@ -150,17 +146,17 @@ _total population_: 0.99 male(s)/female (2022 est.)<br>
 4 deaths/100,000 live births (2017 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 3.04 deaths/1,000 live births<br>
-_male_: 3.49 deaths/1,000 live births<br>
-_female_: 2.56 deaths/1,000 live births (2022 est.)<br>
+_total_: 3 deaths/1,000 live births<br>
+_male_: 3.44 deaths/1,000 live births<br>
+_female_: 2.53 deaths/1,000 live births (2023 est.)<br>
 
 **Life expectancy at birth**<br>
-_total population_: 81.66 years<br>
-_male_: 79.74 years<br>
-_female_: 83.71 years (2022 est.)<br>
+_total population_: 81.87 years<br>
+_male_: 79.95 years<br>
+_female_: 83.91 years (2023 est.)<br>
 
 **Total fertility rate**<br>
-1.77 children born/woman (2022 est.)<br>
+1.77 children born/woman (2023 est.)<br>
 
 **Gross reproduction rate**<br>
 0.86 (2023 est.)<br>
@@ -719,6 +715,6 @@ Islamic State of Iraq and ash-Sham (ISIS); Islamic Revolutionary Guard Corps/Qod
 <p>Iceland, the UK, and Ireland dispute Denmark's claim that the Faroe Islands' continental shelf extends beyond 200 nm; sovereignty dispute with Canada over Hans Island in the Kennedy Channel between Ellesmere Island and Greenland; Denmark (Greenland) and Norway have made submissions to the Commission on the Limits of the Continental Shelf (CLCS) and Russia is collecting additional data to augment its 2001 CLCS submission</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 19,424 (Syria), 5,885 (Eritrea) (mid-year 2022); 39,756 (Ukraine) (as of 29 January 2023)<br>
+_refugees (country of origin)_: 19,424 (Syria), 5,885 (Eritrea) (mid-year 2022); 40,613 (Ukraine) (as of 26 February 2023)<br>
 _stateless persons_: 11,644 (2022)<br>
 

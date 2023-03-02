@@ -75,7 +75,7 @@ Antigua has a deeply indented shoreline with many natural harbors and beaches; B
 ## People and Society
 
 **Population**<br>
-100,335 (2022 est.)<br>
+101,489 (2023 est.)<br>
 
 **Nationality**<br>
 _noun_: Antiguan(s), Barbudan(s)<br>
@@ -92,11 +92,9 @@ English (official), Antiguan Creole (an English-based creole)<br>
 Protestant 68.3% (Anglican 17.6%, Seventh Day Adventist 12.4%, Pentecostal 12.2%, Moravian 8.3%, Methodist 5.6%, Wesleyan Holiness 4.5%, Church of God 4.1%, Baptist 3.6%), Roman Catholic 8.2%, other 12.2%, unspecified 5.5%, none 5.9% (2011 est.)<br>
 
 **Age structure**<br>
-_0-14 years_: 22.52% (male 11,243/female 10,871)<br>
-_15-24 years_: 16.15% (male 7,891/female 7,961)<br>
-_25-54 years_: 41.68% (male 18,757/female 22,167)<br>
-_55-64 years_: 10.74% (male 4,693/female 5,848)<br>
-_65 years and over_: 8.91% (male 3,736/female 5,012) (2020 est.)<br>
+_0-14 years_: 21.97% (male 11,321/female 10,980)<br>
+_15-64 years_: 67.94% (male 32,103/female 36,847)<br>
+_65 years and over_: 10.09% (2023 est.) (male 4,378/female 5,860)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 40.9<br>
@@ -110,16 +108,16 @@ _male_: 30.7 years<br>
 _female_: 34.4 years (2020 est.)<br>
 
 **Population growth rate**<br>
-1.15% (2022 est.)<br>
+1.13% (2023 est.)<br>
 
 **Birth rate**<br>
-15.16 births/1,000 population (2022 est.)<br>
+15.01 births/1,000 population (2023 est.)<br>
 
 **Death rate**<br>
-5.65 deaths/1,000 population (2022 est.)<br>
+5.69 deaths/1,000 population (2023 est.)<br>
 
 **Net migration rate**<br>
-2.03 migrant(s)/1,000 population (2022 est.)<br>
+2.01 migrant(s)/1,000 population (2023 est.)<br>
 
 **Population distribution**<br>
 the island of Antigua is home to approximately 97% of the population; nearly the entire population of Barbuda lives in Codrington<br>
@@ -134,24 +132,22 @@ _rate of urbanization_: 0.87% annual rate of change (2020-25 est.)<br>
 **Sex ratio**<br>
 _at birth_: 1.05 male(s)/female<br>
 _0-14 years_: 1.03 male(s)/female<br>
-_15-24 years_: 0.99 male(s)/female<br>
-_25-54 years_: 0.85 male(s)/female<br>
-_55-64 years_: 0.8 male(s)/female<br>
-_65 years and over_: 0.64 male(s)/female<br>
-_total population_: 0.89 male(s)/female (2022 est.)<br>
+_15-64 years_: 0.87 male(s)/female<br>
+_65 years and over_: 0.75 male(s)/female<br>
+_total population_: 0.89 male(s)/female (2023 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 14.3 deaths/1,000 live births<br>
-_male_: 17.27 deaths/1,000 live births<br>
-_female_: 11.17 deaths/1,000 live births (2022 est.)<br>
+_total_: 13.95 deaths/1,000 live births<br>
+_male_: 16.84 deaths/1,000 live births<br>
+_female_: 10.91 deaths/1,000 live births (2023 est.)<br>
 
 **Life expectancy at birth**<br>
-_total population_: 77.8 years<br>
-_male_: 75.63 years<br>
-_female_: 80.08 years (2022 est.)<br>
+_total population_: 78.04 years<br>
+_male_: 75.88 years<br>
+_female_: 80.31 years (2023 est.)<br>
 
 **Total fertility rate**<br>
-1.95 children born/woman (2022 est.)<br>
+1.94 children born/woman (2023 est.)<br>
 
 **Gross reproduction rate**<br>
 0.95 (2023 est.)<br>
@@ -252,7 +248,7 @@ _coal revenues_: 0% of GDP (2018 est.)<br>
 _municipal solid waste generated annually_: 30,585 tons (2012 est.)<br>
 
 **Total water withdrawal**<br>
-_municipal_: 7.2 million cubic meters (2017 est.)<br>
+_municipal_: 10 million cubic meters (2019 est.)<br>
 _industrial_: 2.5 million cubic meters (2017 est.)<br>
 _agricultural_: 1.8 million cubic meters (2017 est.)<br>
 

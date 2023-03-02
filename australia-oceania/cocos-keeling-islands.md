@@ -88,9 +88,7 @@ Muslim (predominantly Sunni) 75%, Anglican 3.5%, Roman Catholic 2.2%, none 12.9%
 
 **Age structure**<br>
 _0-14 years_: NA<br>
-_15-24 years_: NA<br>
-_25-54 years_: NA<br>
-_55-64 years_: NA<br>
+_15-64 years_: NA<br>
 _65 years and over_: NA<br>
 
 **Dependency ratios**<br>

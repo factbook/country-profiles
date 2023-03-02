@@ -73,7 +73,7 @@ the western islands (making up the Tongan Volcanic Arch) are all of volcanic ori
 ## People and Society
 
 **Population**<br>
-105,517 (2022 est.)<br>
+105,221 (2023 est.)<br>
 
 **Nationality**<br>
 _noun_: Tongan(s)<br>
@@ -90,11 +90,9 @@ Tongan and English 76.8%, Tongan, English, and other language 10.6%, Tongan only
 Protestant 64.1% (includes Free Wesleyan Church 35%, Free Church of Tonga 11.9%, Church of Tonga 6.8%, Assembly of God 2.3%, Seventh Day Adventist 2.2%, Tokaikolo Christian Church 1.6%, other 4.3%), Church of Jesus Christ 18.6%, Roman Catholic 14.2%, other 2.4%, none 0.5%, unspecified 0.1% (2016 est.)<br>
 
 **Age structure**<br>
-_0-14 years_: 32% (male 17,250/female 16,698)<br>
-_15-24 years_: 19.66% (male 10,679/female 10,175)<br>
-_25-54 years_: 35.35% (male 18,701/female 18,802)<br>
-_55-64 years_: 6.17% (male 3,345/female 3,202)<br>
-_65 years and over_: 6.83% (male 3,249/female 3,994) (2020 est.)<br>
+_0-14 years_: 29.92% (male 15,989/female 15,491)<br>
+_15-64 years_: 62.79% (male 33,330/female 32,741)<br>
+_65 years and over_: 7.29% (2023 est.) (male 3,453/female 4,217)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 68.6<br>
@@ -108,16 +106,16 @@ _male_: 23.6 years<br>
 _female_: 24.5 years (2020 est.)<br>
 
 **Population growth rate**<br>
--0.26% (2022 est.)<br>
+-0.3% (2023 est.)<br>
 
 **Birth rate**<br>
-20.31 births/1,000 population (2022 est.)<br>
+20.02 births/1,000 population (2023 est.)<br>
 
 **Death rate**<br>
-4.95 deaths/1,000 population (2022 est.)<br>
+4.95 deaths/1,000 population (2023 est.)<br>
 
 **Net migration rate**<br>
--18.01 migrant(s)/1,000 population (2022 est.)<br>
+-18.06 migrant(s)/1,000 population (2023 est.)<br>
 
 **Population distribution**<br>
 over two-thirds of the population lives on the island of Tongatapu; only 45 of the nation's 171 islands are occupied<br>
@@ -132,11 +130,9 @@ _rate of urbanization_: 0.99% annual rate of change (2020-25 est.)<br>
 **Sex ratio**<br>
 _at birth_: 1.03 male(s)/female<br>
 _0-14 years_: 1.03 male(s)/female<br>
-_15-24 years_: 1.05 male(s)/female<br>
-_25-54 years_: 0.99 male(s)/female<br>
-_55-64 years_: 1.06 male(s)/female<br>
-_65 years and over_: 0.7 male(s)/female<br>
-_total population_: 1.01 male(s)/female (2022 est.)<br>
+_15-64 years_: 1.02 male(s)/female<br>
+_65 years and over_: 0.82 male(s)/female<br>
+_total population_: 1.01 male(s)/female (2023 est.)<br>
 
 **Mother's mean age at first birth**<br>
 24.9 years (2012 est.)<br>
@@ -146,17 +142,17 @@ _total population_: 1.01 male(s)/female (2022 est.)<br>
 52 deaths/100,000 live births (2017 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 12.41 deaths/1,000 live births<br>
-_male_: 13.43 deaths/1,000 live births<br>
-_female_: 11.37 deaths/1,000 live births (2022 est.)<br>
+_total_: 12.1 deaths/1,000 live births<br>
+_male_: 13.09 deaths/1,000 live births<br>
+_female_: 11.09 deaths/1,000 live births (2023 est.)<br>
 
 **Life expectancy at birth**<br>
-_total population_: 77.53 years<br>
-_male_: 75.89 years<br>
-_female_: 79.23 years (2022 est.)<br>
+_total population_: 77.78 years<br>
+_male_: 76.14 years<br>
+_female_: 79.47 years (2023 est.)<br>
 
 **Total fertility rate**<br>
-2.76 children born/woman (2022 est.)<br>
+2.7 children born/woman (2023 est.)<br>
 
 **Gross reproduction rate**<br>
 1.33 (2023 est.)<br>

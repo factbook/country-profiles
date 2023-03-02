@@ -83,7 +83,7 @@ world's largest landlocked country and one of only two landlocked countries in t
 ## People and Society
 
 **Population**<br>
-19,398,331 (2022 est.)<br>
+19,543,464 (2023 est.)<br>
 
 **Nationality**<br>
 _noun_: Kazakhstani(s)<br>
@@ -103,11 +103,9 @@ Muslim 70.2%, Christian 26.2% (mainly Russian Orthodox), other 0.2%, atheist 2.8
 <p>Nearly 40% of Kazakhstan’s population is under the age of 25.  Like many former Soviet states, Kazakhstan’s total fertility rate (TFR) – the average number of births per woman – decreased after independence amidst economic problems and fell below replacement level, 2.1.  However, in the late 2000s, as the economy improved and incomes rose, Kazakhstan experienced a small baby boom and TFR reached 2.5.  TFR has since fallen and is now just over 2.1.  Mortality rates are also decreasing and life expectancy is rising, signs that Kazakhstan’s demographic transition is progressing. </p> <p>Kazakhstan has a diverse population consisting of Asian ethnic groups (predominantly Kazakhs, as well as Uzbeks, Uighurs, and Tatars) and ethnic Europeans (mainly Russians but also Ukrainians and Germans).  Approximately two thirds of Kazakhstan’s population today is Kazakh.  During the mid-20th century, as Kazakhstan industrialized, waves of ethnic Russians and deportees from other parts of the Soviet Union arrived.  Eventually, the ethnic Russian population outnumbered the Kazakhs.  In the 1990s, following Kazakhstan’s independence, Russian and other ethnic Europeans began emigrating, while some ethnic Kazakhs (referred to as Oralmans) returned to their homeland from neighboring countries, China, and Mongolia.  As a result, the country’s ethnic make-up changed, and a Kazakh majority was reestablished.</p> <p>In recent years, Kazakhstan has shifted from being mainly a migrant-sending country to a migrant-receiving country.  Due to its oil-driven economic boom, Kazakhstan has become a more popular destination.  The country needs highly skilled workers in the industrial, business, and education sectors and low-skilled labor in agriculture, markets, services, and construction.  Kazakhstan is increasingly reliant on migrant workers, primarily from Kyrgyzstan, Tajikistan, and Uzbekistan, to fill its labor shortage.  At the same time, highly skilled Kazakhs continue to emigrate, mostly to Russia, seeking higher salaries or further education.</p><br>
 
 **Age structure**<br>
-_0-14 years_: 26.13% (male 2,438,148/female 2,550,535)<br>
-_15-24 years_: 12.97% (male 1,262,766/female 1,212,645)<br>
-_25-54 years_: 42.23% (male 3,960,188/female 4,102,845)<br>
-_55-64 years_: 10.25% (male 856,180/female 1,099,923)<br>
-_65 years and over_: 8.43% (male 567,269/female 1,041,450) (2020 est.)<br>
+_0-14 years_: 25.26% (male 2386022/female 2,551,575)<br>
+_15-64 years_: 65.29% (male 6,226,792/female 6,533,887)<br>
+_65 years and over_: 9.44% (2023 est.) (male 660,397/female 1,184,791)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 60<br>
@@ -121,16 +119,16 @@ _male_: 30.3 years<br>
 _female_: 32.8 years (2020 est.)<br>
 
 **Population growth rate**<br>
-0.77% (2022 est.)<br>
+0.73% (2023 est.)<br>
 
 **Birth rate**<br>
-15.38 births/1,000 population (2022 est.)<br>
+14.92 births/1,000 population (2023 est.)<br>
 
 **Death rate**<br>
-8.11 deaths/1,000 population (2022 est.)<br>
+8.05 deaths/1,000 population (2023 est.)<br>
 
 **Net migration rate**<br>
-0.39 migrant(s)/1,000 population (2022 est.)<br>
+0.39 migrant(s)/1,000 population (2023 est.)<br>
 
 **Population distribution**<br>
 most of the country displays a low population density, particularly the interior; population clusters appear in urban agglomerations in the far northern and southern portions of the country<br>
@@ -145,11 +143,9 @@ _rate of urbanization_: 1.19% annual rate of change (2020-25 est.)<br>
 **Sex ratio**<br>
 _at birth_: 0.94 male(s)/female<br>
 _0-14 years_: 0.94 male(s)/female<br>
-_15-24 years_: 1.04 male(s)/female<br>
-_25-54 years_: 0.96 male(s)/female<br>
-_55-64 years_: 0.78 male(s)/female<br>
-_65 years and over_: 0.35 male(s)/female<br>
-_total population_: 0.9 male(s)/female (2022 est.)<br>
+_15-64 years_: 0.95 male(s)/female<br>
+_65 years and over_: 0.56 male(s)/female<br>
+_total population_: 0.9 male(s)/female (2023 est.)<br>
 
 **Mother's mean age at first birth**<br>
 28.9 years (2019 est.)<br>
@@ -158,17 +154,17 @@ _total population_: 0.9 male(s)/female (2022 est.)<br>
 10 deaths/100,000 live births (2017 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 19.18 deaths/1,000 live births<br>
-_male_: 21.73 deaths/1,000 live births<br>
-_female_: 16.79 deaths/1,000 live births (2022 est.)<br>
+_total_: 18.77 deaths/1,000 live births<br>
+_male_: 21.29 deaths/1,000 live births<br>
+_female_: 16.41 deaths/1,000 live births (2023 est.)<br>
 
 **Life expectancy at birth**<br>
-_total population_: 72.53 years<br>
-_male_: 67.43 years<br>
-_female_: 77.31 years (2022 est.)<br>
+_total population_: 72.8 years<br>
+_male_: 67.73 years<br>
+_female_: 77.56 years (2023 est.)<br>
 
 **Total fertility rate**<br>
-2.11 children born/woman (2022 est.)<br>
+2.08 children born/woman (2023 est.)<br>
 
 **Gross reproduction rate**<br>
 1.08 (2023 est.)<br>
@@ -706,7 +702,8 @@ _river port(s)_: Oskemen (Ust-Kamenogorsk), Pavlodar, Semey (Semipalatinsk) (Irt
 ## Military and Security
 
 **Military and security forces**<br>
-Armed Forces of the Republic of Kazakhstan: Land Forces, Naval Forces, Air and Air Defense Forces; Ministry of Internal Affairs: National Police; Committee for National Security: Border Service (2022)<br>
+Armed Forces of the Republic of Kazakhstan: Land Forces, Naval Forces, Air and Air Defense Forces; Ministry of Internal Affairs: National Police, National Guard; Committee for National Security (KNB): Border Service (2023)<br>
+<strong>note:</strong> the National Guard is a gendarmerie type force administered by the Ministry of Internal Affairs, but also serves the Ministry of Defense; it is responsible for fighting crime, maintaining public order, and ensuring public safety; other duties include anti-terrorism operations, guarding prisons, riot control, and territorial defense in time of war<br>
 
 **Military expenditures**<br>
 1% of GDP (2021 est.)<br>
@@ -725,7 +722,7 @@ the Kazakh military's inventory is comprised of mostly older Russian and Soviet-
 all men 18-27 are required to serve in the military for 12-24 months (2022)<br>
 
 **Military - note**<br>
-Kazakhstan has been a member of the Collective Security Treaty Organization (CSTO) since 1994 and contributes troops to CSTO's rapid reaction force (2022)<br>
+Kazakhstan has been a member of the Collective Security Treaty Organization (CSTO) since 1994 and contributes troops to CSTO's rapid reaction force; it also has a relationship with NATO focused on democratic, institutional, and defense reforms; relations with NATO started in 1992, and Kazakhstan joined NATO's Partnership for Peace program in 1995 (2023)<br>
 
 ## Transnational Issues
 

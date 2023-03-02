@@ -79,7 +79,7 @@ over three-quarters of New Zealanders, including the indigenous Maori, live on t
 ## People and Society
 
 **Population**<br>
-5,053,004 (2022 est.)<br>
+5,109,702 (2023 est.)<br>
 
 **Nationality**<br>
 _noun_: New Zealander(s)<br>
@@ -98,11 +98,9 @@ Christian 37.3% (Catholic 10.1%, Anglican 6.8%, Presbyterian and Congregational 
 <strong>note:</strong> based on the 2018 census of the usually resident population; percentages add up to more than 100% because respondents were able to identify more than one religion<br>
 
 **Age structure**<br>
-_0-14 years_: 19.63% (male 496,802/female 469,853)<br>
-_15-24 years_: 12.92% (male 328,327/female 308,132)<br>
-_25-54 years_: 39.98% (male 996,857/female 972,566)<br>
-_55-64 years_: 11.93% (male 285,989/female 301,692)<br>
-_65 years and over_: 15.54% (male 358,228/female 407,031) (2020 est.)<br>
+_0-14 years_: 19.15% (male 503,190/female 475,527)<br>
+_15-64 years_: 64.36% (male 1,661,312/female 1,627,304)<br>
+_65 years and over_: 16.49% (2023 est.) (male 394,339/female 448,030)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 53.4<br>
@@ -116,16 +114,16 @@ _male_: 36.4 years<br>
 _female_: 37.9 years (2020 est.)<br>
 
 **Population growth rate**<br>
-1.17% (2022 est.)<br>
+1.06% (2023 est.)<br>
 
 **Birth rate**<br>
-12.78 births/1,000 population (2022 est.)<br>
+12.69 births/1,000 population (2023 est.)<br>
 
 **Death rate**<br>
-6.89 deaths/1,000 population (2022 est.)<br>
+6.89 deaths/1,000 population (2023 est.)<br>
 
 **Net migration rate**<br>
-5.83 migrant(s)/1,000 population (2022 est.)<br>
+4.81 migrant(s)/1,000 population (2023 est.)<br>
 
 **Population distribution**<br>
 over three-quarters of New Zealanders, including the indigenous Maori, live on the North Island, primarily in urban areas<br>
@@ -140,11 +138,9 @@ _rate of urbanization_: 0.92% annual rate of change (2020-25 est.)<br>
 **Sex ratio**<br>
 _at birth_: 1.05 male(s)/female<br>
 _0-14 years_: 1.06 male(s)/female<br>
-_15-24 years_: 1.06 male(s)/female<br>
-_25-54 years_: 1.03 male(s)/female<br>
-_55-64 years_: 0.95 male(s)/female<br>
-_65 years and over_: 0.76 male(s)/female<br>
-_total population_: 1 male(s)/female (2022 est.)<br>
+_15-64 years_: 1.02 male(s)/female<br>
+_65 years and over_: 0.88 male(s)/female<br>
+_total population_: 1 male(s)/female (2023 est.)<br>
 
 **Mother's mean age at first birth**<br>
 27.8 years<br>
@@ -153,17 +149,17 @@ _total population_: 1 male(s)/female (2022 est.)<br>
 9 deaths/100,000 live births (2017 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 3.44 deaths/1,000 live births<br>
-_male_: 3.64 deaths/1,000 live births<br>
-_female_: 3.23 deaths/1,000 live births (2022 est.)<br>
+_total_: 3.39 deaths/1,000 live births<br>
+_male_: 3.58 deaths/1,000 live births<br>
+_female_: 3.18 deaths/1,000 live births (2023 est.)<br>
 
 **Life expectancy at birth**<br>
-_total population_: 82.54 years<br>
-_male_: 80.78 years<br>
-_female_: 84.39 years (2022 est.)<br>
+_total population_: 82.74 years<br>
+_male_: 80.98 years<br>
+_female_: 84.58 years (2023 est.)<br>
 
 **Total fertility rate**<br>
-1.86 children born/woman (2022 est.)<br>
+1.86 children born/woman (2023 est.)<br>
 
 **Gross reproduction rate**<br>
 0.9 (2023 est.)<br>

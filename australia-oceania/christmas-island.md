@@ -88,9 +88,7 @@ Muslim 19.4%, Buddhist 18.3%, Roman Catholic 8.8%, Protestant 6.5% (includes Ang
 
 **Age structure**<br>
 _0-14 years_: 12.79% (male 147/female 135)<br>
-_15-24 years_: 12.2% (male 202/female 67)<br>
-_25-54 years_: 57.91% (male 955/female 322)<br>
-_55-64 years_: 11.66% (male 172/female 85)<br>
+_15-64 years_: 12.2% (male 202/female 67)<br>
 _65 years and over_: 5.44% (male 84/female 36) (2017 est.)<br>
 
 **Dependency ratios**<br>

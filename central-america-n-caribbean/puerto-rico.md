@@ -73,7 +73,7 @@ important location along the Mona Passage - a key shipping lane to the Panama Ca
 ## People and Society
 
 **Population**<br>
-3,098,423 (2022 est.)<br>
+3,057,311 (2023 est.)<br>
 
 **Nationality**<br>
 _noun_: Puerto Rican(s) (US citizens)<br>
@@ -91,11 +91,9 @@ _major-language sample(s)_: <br>La Libreta Informativa del Mundo, la fuente indi
 Roman Catholic 56%, Protestant 33% (largely Pentecostal), other 2%, atheist 1%, none 7% (2014 est.)<br>
 
 **Age structure**<br>
-_0-14 years_: 14.22% (male 231,406/female 222,061)<br>
-_15-24 years_: 12.78% (male 207,169/female 200,373)<br>
-_25-54 years_: 37.73% (male 573,114/female 630,276)<br>
-_55-64 years_: 13.5% (male 197,438/female 232,931)<br>
-_65 years and over_: 21.77% (male 297,749/female 396,551) (2020 est.)<br>
+_0-14 years_: 12.84% (male 199,933/female 192,690)<br>
+_15-64 years_: 62.98% (male 921,003/female 1,004,395)<br>
+_65 years and over_: 24.18% (2023 est.) (male 317,522/female 421,768)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 56.3<br>
@@ -109,16 +107,16 @@ _male_: 41.6 years<br>
 _female_: 45.3 years (2020 est.)<br>
 
 **Population growth rate**<br>
--1.38% (2022 est.)<br>
+-1.29% (2023 est.)<br>
 
 **Birth rate**<br>
-7.87 births/1,000 population (2022 est.)<br>
+7.84 births/1,000 population (2023 est.)<br>
 
 **Death rate**<br>
-9.76 deaths/1,000 population (2022 est.)<br>
+10 deaths/1,000 population (2023 est.)<br>
 
 **Net migration rate**<br>
--11.9 migrant(s)/1,000 population (2022 est.)<br>
+-10.76 migrant(s)/1,000 population (2023 est.)<br>
 
 **Population distribution**<br>
 population clusters tend to be found along the coast, the largest of these is found in and around San Juan; an exception to this is a sizeable population located in the interior of the island immediately south of the capital around Caguas; most of the interior, particularly in the western half of the island, is dominated by the Cordillera Central mountains, where population density is low<br>
@@ -133,27 +131,25 @@ _rate of urbanization_: -0.12% annual rate of change (2020-25 est.)<br>
 **Sex ratio**<br>
 _at birth_: 1.06 male(s)/female<br>
 _0-14 years_: 1.04 male(s)/female<br>
-_15-24 years_: 1.04 male(s)/female<br>
-_25-54 years_: 0.91 male(s)/female<br>
-_55-64 years_: 0.85 male(s)/female<br>
-_65 years and over_: 0.64 male(s)/female<br>
-_total population_: 0.89 male(s)/female (2022 est.)<br>
+_15-64 years_: 0.92 male(s)/female<br>
+_65 years and over_: 0.75 male(s)/female<br>
+_total population_: 0.89 male(s)/female (2023 est.)<br>
 
 **Maternal mortality ratio**<br>
 21 deaths/100,000 live births (2017 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 6.04 deaths/1,000 live births<br>
-_male_: 6.61 deaths/1,000 live births<br>
-_female_: 5.43 deaths/1,000 live births (2022 est.)<br>
+_total_: 5.92 deaths/1,000 live births<br>
+_male_: 6.5 deaths/1,000 live births<br>
+_female_: 5.31 deaths/1,000 live births (2023 est.)<br>
 
 **Life expectancy at birth**<br>
-_total population_: 81.68 years<br>
-_male_: 78.47 years<br>
-_female_: 85.08 years (2022 est.)<br>
+_total population_: 81.89 years<br>
+_male_: 78.69 years<br>
+_female_: 85.27 years (2023 est.)<br>
 
 **Total fertility rate**<br>
-1.24 children born/woman (2022 est.)<br>
+1.25 children born/woman (2023 est.)<br>
 
 **Gross reproduction rate**<br>
 0.61 (2023 est.)<br>

@@ -82,7 +82,7 @@ landlocked; most of the country is intensively cultivated and rugged with the po
 ## People and Society
 
 **Population**<br>
-13,173,730 (2022 est.)<br>
+13,400,541 (2023 est.)<br>
 
 **Nationality**<br>
 _noun_: Rwandan(s)<br>
@@ -102,11 +102,9 @@ Protestant 57.7% (includes Adventist 12.6%), Roman Catholic 38.2%, Muslim 2.1%, 
 <p>Rwanda’s fertility rate declined sharply during the last decade, as a result of the government’s commitment to family planning, the increased use of contraceptives, and a downward trend in ideal family size. Increases in educational attainment, particularly among girls, and exposure to social media also contributed to the reduction in the birth rate. The average number of births per woman decreased from a 5.6 in 2005 to 4.5 in 2016 and 3.3 in 2022. Despite these significant strides in reducing fertility, Rwanda’s birth rate remains very high and will continue to for an extended period of time because of its large population entering reproductive age. Because Rwanda is one of the most densely populated countries in Africa, its persistent high population growth and increasingly small agricultural landholdings will put additional strain on families’ ability to raise foodstuffs and access potable water. These conditions will also hinder the government’s efforts to reduce poverty and prevent environmental degradation.</p> <p>The UNHCR recommended that effective 30 June 2013 countries invoke a cessation of refugee status for those Rwandans who fled their homeland between 1959 and 1998, including the 1994 genocide, on the grounds that the conditions that drove them to seek protection abroad no longer exist. The UNHCR’s decision is controversial because many Rwandan refugees still fear persecution if they return home, concerns that are supported by the number of Rwandans granted asylum since 1998 and by the number exempted from the cessation. Rwandan refugees can still seek an exemption or local integration, but host countries are anxious to send the refugees back to Rwanda and are likely to avoid options that enable them to stay. Conversely, Rwanda itself hosts approximately 125,000 refugees as of 2022; virtually all of them fleeing conflict in neighboring Burundi and the Democratic Republic of the Congo.</p><br>
 
 **Age structure**<br>
-_0-14 years_: 39.95% (male 2,564,893/female 2,513,993)<br>
-_15-24 years_: 20.1% (male 1,280,948/female 1,273,853)<br>
-_25-54 years_: 33.06% (male 2,001,629/female 2,201,132)<br>
-_55-64 years_: 4.24% (male 241,462/female 298,163)<br>
-_65 years and over_: 2.65% (male 134,648/female 201,710) (2020 est.)<br>
+_0-14 years_: 37.95% (male 2,569,106/female 2,515,849)<br>
+_15-64 years_: 59.1% (male 3,844,259/female 4,075,978)<br>
+_65 years and over_: 2.95% (2023 est.) (male 158,647/female 236,702)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 72.5<br>
@@ -120,16 +118,16 @@ _male_: 18.9 years<br>
 _female_: 20.4 years (2020 est.)<br>
 
 **Population growth rate**<br>
-1.74% (2022 est.)<br>
+1.68% (2023 est.)<br>
 
 **Birth rate**<br>
-26.44 births/1,000 population (2022 est.)<br>
+25.7 births/1,000 population (2023 est.)<br>
 
 **Death rate**<br>
-5.86 deaths/1,000 population (2022 est.)<br>
+5.77 deaths/1,000 population (2023 est.)<br>
 
 **Net migration rate**<br>
--3.21 migrant(s)/1,000 population (2022 est.)<br>
+-3.16 migrant(s)/1,000 population (2023 est.)<br>
 
 **Population distribution**<br>
 one of Africa's most densely populated countries; large concentrations tend to be in the central regions and along the shore of Lake Kivu in the west as shown in this population distribution map<br>
@@ -144,11 +142,9 @@ _rate of urbanization_: 3.07% annual rate of change (2020-25 est.)<br>
 **Sex ratio**<br>
 _at birth_: 1.03 male(s)/female<br>
 _0-14 years_: 1.02 male(s)/female<br>
-_15-24 years_: 1.01 male(s)/female<br>
-_25-54 years_: 0.9 male(s)/female<br>
-_55-64 years_: 0.82 male(s)/female<br>
-_65 years and over_: 0.54 male(s)/female<br>
-_total population_: 0.96 male(s)/female (2022 est.)<br>
+_15-64 years_: 0.94 male(s)/female<br>
+_65 years and over_: 0.67 male(s)/female<br>
+_total population_: 0.96 male(s)/female (2023 est.)<br>
 
 **Mother's mean age at first birth**<br>
 23 years (2019/20 est.)<br>
@@ -158,17 +154,17 @@ _total population_: 0.96 male(s)/female (2022 est.)<br>
 248 deaths/100,000 live births (2017 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 26.39 deaths/1,000 live births<br>
-_male_: 28.9 deaths/1,000 live births<br>
-_female_: 23.81 deaths/1,000 live births (2022 est.)<br>
+_total_: 25.64 deaths/1,000 live births<br>
+_male_: 28.08 deaths/1,000 live births<br>
+_female_: 23.13 deaths/1,000 live births (2023 est.)<br>
 
 **Life expectancy at birth**<br>
-_total population_: 65.85 years<br>
-_male_: 63.89 years<br>
-_female_: 67.86 years (2022 est.)<br>
+_total population_: 66.21 years<br>
+_male_: 64.23 years<br>
+_female_: 68.24 years (2023 est.)<br>
 
 **Total fertility rate**<br>
-3.33 children born/woman (2022 est.)<br>
+3.23 children born/woman (2023 est.)<br>
 
 **Gross reproduction rate**<br>
 1.59 (2023 est.)<br>

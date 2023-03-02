@@ -82,7 +82,7 @@ note 1: landlocked; strategic location at the crossroads of central Europe with 
 ## People and Society
 
 **Population**<br>
-8,913,088 (2022 est.)<br>
+8,940,860 (2023 est.)<br>
 
 **Nationality**<br>
 _noun_: Austrian(s)<br>
@@ -101,11 +101,9 @@ Roman Catholic 55.2%, Muslim 8.3%, Orthodox 4.9%, Evangelical Christian 3.8%, Je
 <strong>note:  </strong>data on Muslim is a 2016 estimate; data on other/none/unspecified are from 2012-2018 estimates<br>
 
 **Age structure**<br>
-_0-14 years_: 14.01% (male 635,803/female 605,065)<br>
-_15-24 years_: 10.36% (male 466,921/female 451,248)<br>
-_25-54 years_: 41.35% (male 1,831,704/female 1,831,669)<br>
-_55-64 years_: 14.41% (male 635,342/female 641,389)<br>
-_65 years and over_: 19.87% (male 768,687/female 991,621) (2020 est.)<br>
+_0-14 years_: 14.08% (male 645,660/female 613,399)<br>
+_15-64 years_: 65.11% (male 2,914,056/female 2,907,233)<br>
+_65 years and over_: 20.81% (2023 est.) (male 820,022/female 1,040,490)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 51.1<br>
@@ -119,16 +117,16 @@ _male_: 43.1 years<br>
 _female_: 45.8 years (2020 est.)<br>
 
 **Population growth rate**<br>
-0.32% (2022 est.)<br>
+0.31% (2023 est.)<br>
 
 **Birth rate**<br>
-9.45 births/1,000 population (2022 est.)<br>
+9.39 births/1,000 population (2023 est.)<br>
 
 **Death rate**<br>
-9.85 deaths/1,000 population (2022 est.)<br>
+9.86 deaths/1,000 population (2023 est.)<br>
 
 **Net migration rate**<br>
-3.55 migrant(s)/1,000 population (2022 est.)<br>
+3.54 migrant(s)/1,000 population (2023 est.)<br>
 
 **Population distribution**<br>
 the northern and eastern portions of the country are more densely populated; nearly two-thirds of the populace lives in urban areas<br>
@@ -143,11 +141,9 @@ _rate of urbanization_: 0.68% annual rate of change (2020-25 est.)<br>
 **Sex ratio**<br>
 _at birth_: 1.05 male(s)/female<br>
 _0-14 years_: 1.05 male(s)/female<br>
-_15-24 years_: 1.03 male(s)/female<br>
-_25-54 years_: 1 male(s)/female<br>
-_55-64 years_: 0.99 male(s)/female<br>
-_65 years and over_: 0.65 male(s)/female<br>
-_total population_: 0.96 male(s)/female (2022 est.)<br>
+_15-64 years_: 1 male(s)/female<br>
+_65 years and over_: 0.79 male(s)/female<br>
+_total population_: 0.96 male(s)/female (2023 est.)<br>
 
 **Mother's mean age at first birth**<br>
 29.7 years (2020 est.)<br>
@@ -156,17 +152,17 @@ _total population_: 0.96 male(s)/female (2022 est.)<br>
 5 deaths/100,000 live births (2017 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 3.24 deaths/1,000 live births<br>
-_male_: 3.65 deaths/1,000 live births<br>
-_female_: 2.81 deaths/1,000 live births (2022 est.)<br>
+_total_: 3.2 deaths/1,000 live births<br>
+_male_: 3.6 deaths/1,000 live births<br>
+_female_: 2.77 deaths/1,000 live births (2023 est.)<br>
 
 **Life expectancy at birth**<br>
-_total population_: 82.27 years<br>
-_male_: 79.64 years<br>
-_female_: 85.04 years (2022 est.)<br>
+_total population_: 82.48 years<br>
+_male_: 79.86 years<br>
+_female_: 85.23 years (2023 est.)<br>
 
 **Total fertility rate**<br>
-1.51 children born/woman (2022 est.)<br>
+1.51 children born/woman (2023 est.)<br>
 
 **Gross reproduction rate**<br>
 0.74 (2023 est.)<br>
@@ -733,7 +729,7 @@ Islamic State of Iraq and ash-Sham (ISIS)<br>
 <p>none identified</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 67,588 (Syria), 43,725 (Afghanistan), 10,110 (Iraq), 8,684 (Somalia), 7,294 (Iran), 6,124 (Russia) (mid-year 2022); 93,171 (Ukraine) (as of 13 February 2023)<br>
+_refugees (country of origin)_: 67,588 (Syria), 43,725 (Afghanistan), 10,110 (Iraq), 8,684 (Somalia), 7,294 (Iran), 6,124 (Russia) (mid-year 2022); 93,579 (Ukraine) (as of 20 February 2023)<br>
 _stateless persons_: 3,219 (2022)<br>
 
 **Illicit drugs**<br>

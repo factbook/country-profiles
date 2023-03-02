@@ -82,7 +82,7 @@ located at mouths of three major European rivers (Rhine (Rijn), Meuse (Maas), an
 ## People and Society
 
 **Population**<br>
-17,400,824 (2022 est.)<br>
+17,463,930 (2023 est.)<br>
 
 **Nationality**<br>
 _noun_: Dutchman(men), Dutchwoman(women)<br>
@@ -99,11 +99,9 @@ _major-language sample(s)_: <br>Het Wereld Feitenboek, een onmisbare bron van in
 Roman Catholic 20.1%, Protestant 14.8% (includes Dutch Reformed, Protestant Church of The Netherlands, Calvinist), Muslim 5%, other 5.9% (includes Hindu, Buddhist, Jewish), none 54.1% (2019 est.)<br>
 
 **Age structure**<br>
-_0-14 years_: 16.11% (male 1,425,547/female 1,358,894)<br>
-_15-24 years_: 11.91% (male 1,049,000/female 1,008,763)<br>
-_25-54 years_: 38.47% (male 3,334,064/female 3,313,238)<br>
-_55-64 years_: 13.69% (male 1,177,657/female 1,188,613)<br>
-_65 years and over_: 19.82% (male 1,558,241/female 1,866,380) (2020 est.)<br>
+_0-14 years_: 16.06% (male 1,436,601/female 1,368,697)<br>
+_15-64 years_: 63.08% (male 5,532,490/female 5,483,034)<br>
+_65 years and over_: 20.86% (2023 est.) (male 1,658,652/female 1,984,456)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 54.9<br>
@@ -117,16 +115,16 @@ _male_: 41.6 years<br>
 _female_: 44 years (2020 est.)<br>
 
 **Population growth rate**<br>
-0.36% (2022 est.)<br>
+0.36% (2023 est.)<br>
 
 **Birth rate**<br>
-10.99 births/1,000 population (2022 est.)<br>
+10.98 births/1,000 population (2023 est.)<br>
 
 **Death rate**<br>
-9.24 deaths/1,000 population (2022 est.)<br>
+9.27 deaths/1,000 population (2023 est.)<br>
 
 **Net migration rate**<br>
-1.9 migrant(s)/1,000 population (2022 est.)<br>
+1.89 migrant(s)/1,000 population (2023 est.)<br>
 
 **Population distribution**<br>
 an area known as the Randstad, anchored by the cities of Amsterdam, Rotterdam, the Hague, and Utrecht, is the most densely populated region; the north tends to be less dense, though sizeable communities can be found throughout the entire country<br>
@@ -141,11 +139,9 @@ _rate of urbanization_: 0.59% annual rate of change (2020-25 est.)<br>
 **Sex ratio**<br>
 _at birth_: 1.05 male(s)/female<br>
 _0-14 years_: 1.05 male(s)/female<br>
-_15-24 years_: 1.04 male(s)/female<br>
-_25-54 years_: 1.01 male(s)/female<br>
-_55-64 years_: 0.99 male(s)/female<br>
-_65 years and over_: 0.67 male(s)/female<br>
-_total population_: 0.98 male(s)/female (2022 est.)<br>
+_15-64 years_: 1.01 male(s)/female<br>
+_65 years and over_: 0.84 male(s)/female<br>
+_total population_: 0.98 male(s)/female (2023 est.)<br>
 
 **Mother's mean age at first birth**<br>
 30.2 years (2020 est.)<br>
@@ -154,17 +150,17 @@ _total population_: 0.98 male(s)/female (2022 est.)<br>
 5 deaths/100,000 live births (2017 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 3.4 deaths/1,000 live births<br>
-_male_: 3.76 deaths/1,000 live births<br>
-_female_: 3.02 deaths/1,000 live births (2022 est.)<br>
+_total_: 3.34 deaths/1,000 live births<br>
+_male_: 3.7 deaths/1,000 live births<br>
+_female_: 2.97 deaths/1,000 live births (2023 est.)<br>
 
 **Life expectancy at birth**<br>
-_total population_: 82.16 years<br>
-_male_: 79.93 years<br>
-_female_: 84.49 years (2022 est.)<br>
+_total population_: 82.36 years<br>
+_male_: 80.15 years<br>
+_female_: 84.69 years (2023 est.)<br>
 
 **Total fertility rate**<br>
-1.78 children born/woman (2022 est.)<br>
+1.77 children born/woman (2023 est.)<br>
 
 **Gross reproduction rate**<br>
 0.86 (2023 est.)<br>

@@ -81,7 +81,7 @@ largest country in Africa but 80% desert; canyons and caves in the southern Hogg
 ## People and Society
 
 **Population**<br>
-44,178,884 (2022 est.)<br>
+44,758,398 (2023 est.)<br>
 
 **Nationality**<br>
 _noun_: Algerian(s)<br>
@@ -102,11 +102,9 @@ Muslim (official; predominantly Sunni) 99%, other (includes Christian, Jewish, A
 <p>For the first two thirds of the 20th century, Algeria's high fertility rate caused its population to grow rapidly. However, about a decade after independence from France in 1962, the total fertility rate fell dramatically from 7 children per woman in the 1970s to about 2.4 in 2000, slowing Algeria's population growth rate by the late 1980s. The lower fertility rate was mainly the result of women's rising age at first marriage (virtually all Algerian children being born in wedlock) and to a lesser extent the wider use of contraceptives. Later marriages and a preference for smaller families are attributed to increases in women's education and participation in the labor market; higher unemployment; and a shortage of housing forcing multiple generations to live together. The average woman's age at first marriage increased from about 19 in the mid-1950s to 24 in the mid-1970s to 30.5 in the late 1990s.</p> <p>Algeria's fertility rate experienced an unexpected upturn in the early 2000s, as the average woman's age at first marriage dropped slightly. The reversal in fertility could represent a temporary fluctuation in marriage age or, less likely, a decrease in the steady rate of contraceptive use.</p> <p>Thousands of Algerian peasants - mainly Berber men from the Kabylia region - faced with land dispossession and economic hardship under French rule migrated temporarily to France to work in manufacturing and mining during the first half of the 20th century. This movement accelerated during World War I, when Algerians filled in for French factory workers or served as soldiers. In the years following independence, low-skilled Algerian workers and Algerians who had supported the French (known as Harkis) emigrated en masse to France. Tighter French immigration rules and Algiers' decision to cease managing labor migration to France in the 1970s limited legal emigration largely to family reunification.</p> <p>Not until Algeria's civil war in the 1990s did the country again experience substantial outmigration. Many Algerians legally entered Tunisia without visas claiming to be tourists and then stayed as workers. Other Algerians headed to Europe seeking asylum, although France imposed restrictions. Sub-Saharan African migrants came to Algeria after its civil war to work in agriculture and mining. In the 2000s, a wave of educated Algerians went abroad seeking skilled jobs in a wider range of destinations, increasing their presence in North America and Spain. At the same time, legal foreign workers principally from China and Egypt came to work in Algeria's construction and oil sectors. Illegal migrants from Sub-Saharan Africa, particularly Malians, Nigeriens, and Gambians, continue to come to Algeria in search of work or to use it as a stepping stone to Libya and Europe.</p> <p>Since 1975, Algeria also has been the main recipient of Sahrawi refugees from the ongoing conflict in Western Sahara (today part of Morocco). More than 100,000 Sahrawis are estimated to be living in five refugee camps in southwestern Algeria near Tindouf.</p><br>
 
 **Age structure**<br>
-_0-14 years_: 29.58% (male 6,509,490/female 6,201,450)<br>
-_15-24 years_: 13.93% (male 3,063,972/female 2,922,368)<br>
-_25-54 years_: 42.91% (male 9,345,997/female 9,091,558)<br>
-_55-64 years_: 7.41% (male 1,599,369/female 1,585,233)<br>
-_65 years and over_: 6.17% (male 1,252,084/female 1,401,357) (2020 est.)<br>
+_0-14 years_: 28.78% (male 6,594,512/female 6,286,191)<br>
+_15-64 years_: 64.29% (male 14,607,255/female 14,166,990)<br>
+_65 years and over_: 6.93% (2023 est.) (male 1,475,635/female 1,627,815)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 58.5<br>
@@ -120,16 +118,16 @@ _male_: 28.6 years<br>
 _female_: 29.3 years (2020 est.)<br>
 
 **Population growth rate**<br>
-1.34% (2022 est.)<br>
+1.27% (2023 est.)<br>
 
 **Birth rate**<br>
-18.52 births/1,000 population (2022 est.)<br>
+17.84 births/1,000 population (2023 est.)<br>
 
 **Death rate**<br>
-4.32 deaths/1,000 population (2022 est.)<br>
+4.33 deaths/1,000 population (2023 est.)<br>
 
 **Net migration rate**<br>
--0.82 migrant(s)/1,000 population (2022 est.)<br>
+-0.81 migrant(s)/1,000 population (2023 est.)<br>
 
 **Population distribution**<br>
 the vast majority of the populace is found in the extreme northern part of the country along the Mediterranean Coast as shown in this population distribution map<br>
@@ -144,27 +142,25 @@ _rate of urbanization_: 1.99% annual rate of change (2020-25 est.)<br>
 **Sex ratio**<br>
 _at birth_: 1.05 male(s)/female<br>
 _0-14 years_: 1.05 male(s)/female<br>
-_15-24 years_: 1.05 male(s)/female<br>
-_25-54 years_: 1.03 male(s)/female<br>
-_55-64 years_: 1 male(s)/female<br>
-_65 years and over_: 0.75 male(s)/female<br>
-_total population_: 1.03 male(s)/female (2022 est.)<br>
+_15-64 years_: 1.03 male(s)/female<br>
+_65 years and over_: 0.91 male(s)/female<br>
+_total population_: 1.03 male(s)/female (2023 est.)<br>
 
 **Maternal mortality ratio**<br>
 112 deaths/100,000 live births (2017 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 19.72 deaths/1,000 live births<br>
-_male_: 21.77 deaths/1,000 live births<br>
-_female_: 17.55 deaths/1,000 live births (2022 est.)<br>
+_total_: 19.22 deaths/1,000 live births<br>
+_male_: 21.2 deaths/1,000 live births<br>
+_female_: 17.14 deaths/1,000 live births (2023 est.)<br>
 
 **Life expectancy at birth**<br>
-_total population_: 78.03 years<br>
-_male_: 76.57 years<br>
-_female_: 79.57 years (2022 est.)<br>
+_total population_: 78.27 years<br>
+_male_: 76.81 years<br>
+_female_: 79.8 years (2023 est.)<br>
 
 **Total fertility rate**<br>
-2.51 children born/woman (2022 est.)<br>
+2.47 children born/woman (2023 est.)<br>
 
 **Gross reproduction rate**<br>
 1.2 (2023 est.)<br>
@@ -286,9 +282,9 @@ Atlantic Ocean drainage: Niger (2,261,741 sq km)<br>Internal <em>(endorheic basi
 Lullemeden-Irhazer Aquifer System, Murzuk-Djado Basin, North Western Sahara Aquifer, Taoudeni-Tanezrouft Basin<br>
 
 **Total water withdrawal**<br>
-_municipal_: 3.6 billion cubic meters (2017 est.)<br>
-_industrial_: 191 million cubic meters (2017 est.)<br>
-_agricultural_: 6.671 billion cubic meters (2017 est.)<br>
+_municipal_: 3.6 billion cubic meters (2019 est.)<br>
+_industrial_: 190 million cubic meters (2019 est.)<br>
+_agricultural_: 6.67 billion cubic meters (2019 est.)<br>
 
 **Total renewable water resources**<br>
 11.67 billion cubic meters (2019 est.)<br>
@@ -347,9 +343,9 @@ _elections/appointments_: president directly elected by absolute majority popula
 _election results_: <em>2019:</em> Abdelmadjid TEBBOUNE (FLN) 58.1%, Abdelkader BENGRINA (El-Bina) 17.4%, Ali BENFLIS (Talaie El Hurriyet) 10.6%, Azzedine MIHOUBI (National Democratic Rally, RND) 7.3%, Abdelaziz BELAID (Front El Mustakbal, FM) 6.7%<br><br><em>2014:</em> Abdelaziz BOUTEFLIKA reelected president for a fourth term; percent of vote - Abdelaziz BOUTEFLIKA (FLN) 81.5%, Ali BENFLIS (FLN) 12.2%, Abdelaziz BELAID (Future Front) 3.4%, other 2.9%<br>
 
 **Legislative branch**<br>
-_description_: bicameral Parliament or Barlaman consists of:<br>Council of the Nation or Majlis al-Umma (174 seats; two-thirds of members indirectly elected by simple majority vote by an electoral college composed of local assemblies within each wilaya, and one-third of members appointed by the president; members serve 6-year terms with one-half of the membership renewed every 3 years)<br>National People's Assembly or <small></small>al-Majlis al-Sha'abi al-Watani (407 seats including 8 seats for Algerian diaspora); members directly elected in multi-seat constituencies by open-list proportional representation vote to serve 5-year terms); note - in March 2021, President TEBBOUNE ordered the number of Assembly seats be reduced to 407 from 462<br>
+_description_: bicameral Parliament or Barlaman consists of:<br>Council of the Nation or Majlis al-Umma (174 seats, statutory; 170 currently); two-thirds of members indirectly elected by simple majority vote by an electoral college composed of local assemblies within each wilaya, and one-third of members appointed by the president; members serve 6-year terms with one-half of the membership renewed every 3 years)<br>National People's Assembly or <small></small>al-Majlis al-Sha'abi al-Watani (407 seats including 8 seats for Algerian diaspora); members directly elected in multi-seat constituencies by open-list proportional representation vote to serve 5-year terms); note - in March 2021, President TEBBOUNE ordered the number of Assembly seats be reduced to 407 from 462<br>
 _elections_: <br>Council of the Nation - last held on 5 February 2022 (next election NA)<br>National People's Assembly - snap election held on 12 June 2021 (next to be held on 12 June 2026)<br>
-_election results_: <br>Council of the Nation - percent of vote by party - NA; seats by party - FLN 54, RND 22, Future Front 7, National Construction Movement 5, FFS 4, other 6, independent 18, appointed 58; composition - NA<br><br>National People's Assembly - percent of vote by party - NA; seats by party - FLN 98, MSP 65, RND 58, (Future Front) 48, Movement of National Construction 39, other 15, independent 84; composition - men 374, women 33, percent of women 8.1%; note - total Parliament percent of women 7.3%<br>
+_election results_: <br>Council of the Nation - percent of vote by party - NA; seats by party - FLN 54, RND 22, Future Front 7, National Construction Movement 5, FFS 4, other 6, independent 18, appointed 58; composition as of February 2023 - men 163, women 7, percent of women 4.1%<br><br>National People's Assembly - percent of vote by party - NA; seats by party - FLN 98, MSP 65, RND 58, (Future Front) 48, Movement of National Construction 39, other 15, independent 84; composition - men 375, women 32, percent of women 7.9%; note - total Parliament percent of women 6.8%<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme Court or Le Cour Supr&ecirc;me, (consists of 150 judges organized into 8 chambers: Civil, Commercial and Maritime, Criminal, House of Offenses and Contraventions, House of Petitions, Land, Personal Status, and Social; Constitutional Council (consists of 12 members including the court chairman and deputy chairman); note - Algeria's judicial system does not include sharia courts<br>
@@ -692,9 +688,9 @@ Algerian People's National Army (ANP): Land Forces, Naval Forces (includes Coast
 **Military expenditures**<br>
 5.6% of GDP (2021 est.)<br>
 6.7% of GDP (2020 est.)<br>
-6% of GDP (2019) (approximately $19.2 billion)<br>
-5.5% of GDP (2018) (approximately $17.9 billion)<br>
-5.9% of GDP (2017) (approximately $18.8 billion)<br>
+6% of GDP (2019)<br>
+5.5% of GDP (2018)<br>
+5.9% of GDP (2017)<br>
 
 **Military and security service personnel strengths**<br>
 approximately 140,000 ANP personnel (120,000 Army; 6,000 Navy; 14,000 Air Force); approximately 130,000 National Gendarmerie; approximately 200,000 General Directorate of National Security (2022)<br>

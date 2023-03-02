@@ -72,7 +72,7 @@ largest and southernmost of Channel Islands; about 30% of population concentrate
 ## People and Society
 
 **Population**<br>
-102,146 (2022 est.)<br>
+102,785 (2023 est.)<br>
 
 **Nationality**<br>
 _noun_: Channel Islander(s)<br>
@@ -89,11 +89,9 @@ Jersey 44.4%, British 30.5%, Portuguese/Madeiran 9.4%, Polish 3%, Irish 2.1%, ot
 Protestant (Anglican, Baptist, Congregational New Church, Methodist, Presbyterian), Roman Catholic<br>
 
 **Age structure**<br>
-_0-14 years_: 16.63% (male 8,689/female 8,124)<br>
-_15-24 years_: 12.98% (male 6,764/female 6,354)<br>
-_25-54 years_: 40.12% (male 20,499/female 20,054)<br>
-_55-64 years_: 13.22% (male 6,515/female 6,844)<br>
-_65 years and over_: 17.05% (male 7,324/female 9,906) (2020 est.)<br>
+_0-14 years_: 16.89% (male 8,958/female 8,405)<br>
+_15-64 years_: 65.19% (male 33,888/female 33,121)<br>
+_65 years and over_: 17.91% (2023 est.) (male 7,871/female 10,542)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 44.5<br>
@@ -108,16 +106,16 @@ _male_: 36 years<br>
 _female_: 39.5 years (2020 est.)<br>
 
 **Population growth rate**<br>
-0.64% (2022 est.)<br>
+0.61% (2023 est.)<br>
 
 **Birth rate**<br>
-12.41 births/1,000 population (2022 est.)<br>
+12.31 births/1,000 population (2023 est.)<br>
 
 **Death rate**<br>
-7.75 deaths/1,000 population (2022 est.)<br>
+7.75 deaths/1,000 population (2023 est.)<br>
 
 **Net migration rate**<br>
-1.76 migrant(s)/1,000 population (2022 est.)<br>
+1.5 migrant(s)/1,000 population (2023 est.)<br>
 
 **Population distribution**<br>
 fairly even distribution; no notable trends<br>
@@ -133,24 +131,22 @@ _rate of urbanization_: 0.68% annual rate of change (2020-25 est.)<br>
 **Sex ratio**<br>
 _at birth_: 1.06 male(s)/female<br>
 _0-14 years_: 1.07 male(s)/female<br>
-_15-24 years_: 1.07 male(s)/female<br>
-_25-54 years_: 1.04 male(s)/female<br>
-_55-64 years_: 0.95 male(s)/female<br>
-_65 years and over_: 0.61 male(s)/female<br>
-_total population_: 0.97 male(s)/female (2022 est.)<br>
+_15-64 years_: 1.02 male(s)/female<br>
+_65 years and over_: 0.75 male(s)/female<br>
+_total population_: 0.97 male(s)/female (2023 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 3.87 deaths/1,000 live births<br>
-_male_: 4.32 deaths/1,000 live births<br>
-_female_: 3.4 deaths/1,000 live births (2022 est.)<br>
+_total_: 3.81 deaths/1,000 live births<br>
+_male_: 4.25 deaths/1,000 live births<br>
+_female_: 3.34 deaths/1,000 live births (2023 est.)<br>
 
 **Life expectancy at birth**<br>
-_total population_: 82.63 years<br>
-_male_: 80.13 years<br>
-_female_: 85.28 years (2022 est.)<br>
+_total population_: 82.83 years<br>
+_male_: 80.34 years<br>
+_female_: 85.47 years (2023 est.)<br>
 
 **Total fertility rate**<br>
-1.66 children born/woman (2022 est.)<br>
+1.66 children born/woman (2023 est.)<br>
 
 **Gross reproduction rate**<br>
 0.8 (2023 est.)<br>

@@ -76,7 +76,7 @@ within Bosnia and Herzegovina's recognized borders, the country is divided into 
 ## People and Society
 
 **Population**<br>
-3,816,459 (2022 est.)<br>
+3,807,764 (2023 est.)<br>
 
 **Nationality**<br>
 _noun_: Bosnian(s), Herzegovinian(s)<br>
@@ -94,11 +94,9 @@ _major-language sample(s)_: <br>Knjiga svjetskih činjenica, neophodan izvor osn
 Muslim 50.7%, Orthodox 30.7%, Roman Catholic 15.2%, atheist 0.8%, agnostic 0.3%, other 1.2%, undeclared/no answer 1.1% (2013 est.)<br>
 
 **Age structure**<br>
-_0-14 years_: 13.18% (male 261,430/female 244,242)<br>
-_15-24 years_: 10.83% (male 214,319/female 201,214)<br>
-_25-54 years_: 44.52% (male 859,509/female 848,071)<br>
-_55-64 years_: 15.24% (male 284,415/female 300,168)<br>
-_65 years and over_: 16.22% (male 249,624/female 372,594) (2020 est.)<br>
+_0-14 years_: 13.14% (male 258,937/female 241,581)<br>
+_15-64 years_: 69% (male 1,319,995/female 1,307,304)<br>
+_65 years and over_: 17.86% (2023 est.) (male 277,555/female 402,392)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 48<br>
@@ -112,16 +110,16 @@ _male_: 41.6 years<br>
 _female_: 44.8 years (2020 est.)<br>
 
 **Population growth rate**<br>
--0.22% (2022 est.)<br>
+-0.23% (2023 est.)<br>
 
 **Birth rate**<br>
-8.41 births/1,000 population (2022 est.)<br>
+8.31 births/1,000 population (2023 est.)<br>
 
 **Death rate**<br>
-10.26 deaths/1,000 population (2022 est.)<br>
+10.26 deaths/1,000 population (2023 est.)<br>
 
 **Net migration rate**<br>
--0.38 migrant(s)/1,000 population (2022 est.)<br>
+-0.38 migrant(s)/1,000 population (2023 est.)<br>
 
 **Population distribution**<br>
 the northern and central areas of the country are the most densely populated<br>
@@ -136,11 +134,9 @@ _rate of urbanization_: 0.61% annual rate of change (2020-25 est.)<br>
 **Sex ratio**<br>
 _at birth_: 1.07 male(s)/female<br>
 _0-14 years_: 1.07 male(s)/female<br>
-_15-24 years_: 1.06 male(s)/female<br>
-_25-54 years_: 1.02 male(s)/female<br>
-_55-64 years_: 0.96 male(s)/female<br>
-_65 years and over_: 0.42 male(s)/female<br>
-_total population_: 0.95 male(s)/female (2022 est.)<br>
+_15-64 years_: 1.01 male(s)/female<br>
+_65 years and over_: 0.69 male(s)/female<br>
+_total population_: 0.95 male(s)/female (2023 est.)<br>
 
 **Mother's mean age at first birth**<br>
 27.7 years (2019 est.)<br>
@@ -149,17 +145,17 @@ _total population_: 0.95 male(s)/female (2022 est.)<br>
 10 deaths/100,000 live births (2017 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 5.21 deaths/1,000 live births<br>
-_male_: 5.34 deaths/1,000 live births<br>
-_female_: 5.07 deaths/1,000 live births (2022 est.)<br>
+_total_: 5.1 deaths/1,000 live births<br>
+_male_: 5.23 deaths/1,000 live births<br>
+_female_: 4.96 deaths/1,000 live births (2023 est.)<br>
 
 **Life expectancy at birth**<br>
-_total population_: 77.98 years<br>
-_male_: 75.02 years<br>
-_female_: 81.15 years (2022 est.)<br>
+_total population_: 78.22 years<br>
+_male_: 75.28 years<br>
+_female_: 81.38 years (2023 est.)<br>
 
 **Total fertility rate**<br>
-1.36 children born/woman (2022 est.)<br>
+1.37 children born/woman (2023 est.)<br>
 
 **Gross reproduction rate**<br>
 0.66 (2023 est.)<br>
@@ -689,9 +685,9 @@ Armed Forces of Bosnia and Herzegovina (AFBiH or Oruzanih Snaga Bosne i Hercegov
 **Military expenditures**<br>
 0.9% of GDP (2021 est.)<br>
 0.9% of GDP (2020)<br>
-0.8% of GDP (2019) (approximately $370 million)<br>
-0.9% of GDP (2018) (approximately $370 million)<br>
-0.9% of GDP (2017) (approximately $360 million)<br>
+0.8% of GDP (2019)<br>
+0.9% of GDP (2018)<br>
+0.9% of GDP (2017)<br>
 
 **Military and security service personnel strengths**<br>
 approximately 9,000 active duty personnel (2022)<br>
@@ -721,7 +717,7 @@ Islamic Revolutionary Guard Corps/Qods Force<br>
 _refugees (country of origin)_: 5,112 (Croatia) (2020)<br>
 _IDPs_: 92,000 (Bosnian Croats, Serbs, and Bosniaks displaced by inter-ethnic violence, human rights violations, and armed conflict during the 1992-95 war) (2021)<br>
 _stateless persons_: 48 (2022)<br>
-<strong>note: </strong>115,118 estimated refugee and migrant arrivals (January 2015-February 2023)<br>
+<strong>note: </strong>115,525 estimated refugee and migrant arrivals (January 2015-February 2023)<br>
 
 **Illicit drugs**<br>
 <p>drug trafficking groups are major players in the procurement and transportation of large quantities of cocaine  destined for  European markets</p><br>

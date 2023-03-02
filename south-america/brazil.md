@@ -90,7 +90,7 @@ recurring droughts in northeast; floods and occasional frost in south<br>
 ## People and Society
 
 **Population**<br>
-217,240,060 (2022 est.)<br>
+218,689,757 (2023 est.)<br>
 
 **Nationality**<br>
 _noun_: Brazilian(s)<br>
@@ -110,11 +110,9 @@ Roman Catholic 64.6%, other Catholic 0.4%, Protestant 22.2% (includes Adventist 
 <p>Brazil's rapid fertility decline since the 1960s is the main factor behind the country's slowing population growth rate, aging population, and fast-paced demographic transition. Brasilia has not taken full advantage of its large working-age population to develop its human capital and strengthen its social and economic institutions but is funding a study abroad program to bring advanced skills back to the country. The current favorable age structure will begin to shift around 2025, with the labor force shrinking and the elderly starting to compose an increasing share of the total population. Well-funded public pensions have nearly wiped out poverty among the elderly, and Bolsa Familia and other social programs have lifted tens of millions out of poverty. More than half of Brazil's population is considered middle class, but poverty and income inequality levels remain high; the Northeast, North, and Center-West, women, and black, mixed race, and indigenous populations are disproportionately affected. Disparities in opportunities foster social exclusion and contribute to Brazil's high crime rate, particularly violent crime in cities and favelas (slums).</p><p>Brazil has traditionally been a net recipient of immigrants, with its southeast being the prime destination. After the importation of African slaves was outlawed in the mid-19th century, Brazil sought Europeans (Italians, Portuguese, Spaniards, and Germans) and later Asians (Japanese) to work in agriculture, especially coffee cultivation. Recent immigrants come mainly from Argentina, Chile, and Andean countries (many are unskilled illegal migrants) or are returning Brazilian nationals. Since Brazil's economic downturn in the 1980s, emigration to the United States, Europe, and Japan has been rising but is negligible relative to Brazil's total population. The majority of these emigrants are well-educated and middle-class. Fewer Brazilian peasants are emigrating to neighboring countries to take up agricultural work.</p><br>
 
 **Age structure**<br>
-_0-14 years_: 21.11% (male 22,790,634/female 21,907,018)<br>
-_15-24 years_: 16.06% (male 17,254,363/female 16,750,581)<br>
-_25-54 years_: 43.83% (male 46,070,240/female 46,729,640)<br>
-_55-64 years_: 9.78% (male 9,802,995/female 10,911,140)<br>
-_65 years and over_: 9.21% (male 8,323,344/female 11,176,018) (2020 est.)<br>
+_0-14 years_: 19.77% (male 22,084,172/female 21,148,290)<br>
+_15-64 years_: 69.72% (male 75,612,047/female 76,853,504)<br>
+_65 years and over_: 10.51% (2023 est.) (male 9,848,975/female 13,142,769)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 43.1<br>
@@ -128,16 +126,16 @@ _male_: 32.3 years<br>
 _female_: 34.1 years (2020 est.)<br>
 
 **Population growth rate**<br>
-0.7% (2022 est.)<br>
+0.64% (2023 est.)<br>
 
 **Birth rate**<br>
-13.96 births/1,000 population (2022 est.)<br>
+13.44 births/1,000 population (2023 est.)<br>
 
 **Death rate**<br>
-6.81 deaths/1,000 population (2022 est.)<br>
+6.9 deaths/1,000 population (2023 est.)<br>
 
 **Net migration rate**<br>
--0.19 migrant(s)/1,000 population (2022 est.)<br>
+-0.19 migrant(s)/1,000 population (2023 est.)<br>
 
 **Population distribution**<br>
 the vast majority of people live along, or relatively near, the Atlantic coast in the east; the population core is in the southeast, anchored by the cities of S&atilde;o Paolo, Bras&iacute;lia, and Rio de Janeiro<br>
@@ -152,27 +150,25 @@ _rate of urbanization_: 0.87% annual rate of change (2020-25 est.)<br>
 **Sex ratio**<br>
 _at birth_: 1.05 male(s)/female<br>
 _0-14 years_: 1.04 male(s)/female<br>
-_15-24 years_: 1.03 male(s)/female<br>
-_25-54 years_: 0.98 male(s)/female<br>
-_55-64 years_: 0.9 male(s)/female<br>
-_65 years and over_: 0.58 male(s)/female<br>
-_total population_: 0.97 male(s)/female (2022 est.)<br>
+_15-64 years_: 0.98 male(s)/female<br>
+_65 years and over_: 0.75 male(s)/female<br>
+_total population_: 0.97 male(s)/female (2023 est.)<br>
 
 **Maternal mortality ratio**<br>
 60 deaths/100,000 live births (2017 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 13.31 deaths/1,000 live births<br>
-_male_: 14.75 deaths/1,000 live births<br>
-_female_: 11.8 deaths/1,000 live births (2022 est.)<br>
+_total_: 13.11 deaths/1,000 live births<br>
+_male_: 14.68 deaths/1,000 live births<br>
+_female_: 11.45 deaths/1,000 live births (2023 est.)<br>
 
 **Life expectancy at birth**<br>
-_total population_: 75.92 years<br>
-_male_: 72.5 years<br>
-_female_: 79.5 years (2022 est.)<br>
+_total population_: 76.1 years<br>
+_male_: 72.56 years<br>
+_female_: 79.81 years (2023 est.)<br>
 
 **Total fertility rate**<br>
-1.8 children born/woman (2022 est.)<br>
+1.75 children born/woman (2023 est.)<br>
 
 **Gross reproduction rate**<br>
 0.85 (2023 est.)<br>
@@ -737,9 +733,9 @@ Brazilian Armed Forces (For&ccedil;as Armadas Brasileiras): Brazilian Army (Exer
 **Military expenditures**<br>
 1.3% of GDP (2021 est.)<br>
 1.4% of GDP (2020)<br>
-1.4% of GDP (2019) (approximately $35.6 billion)<br>
-1.5% of GDP (2018) (approximately $36 billion)<br>
-1.4% of GDP (2017) (approximately $34.4 billion)<br>
+1.4% of GDP (2019)<br>
+1.5% of GDP (2018)<br>
+1.4% of GDP (2017)<br>
 
 **Military and security service personnel strengths**<br>
 approximately 360,000 active military personnel (220,000 Army; 70,000 Navy; 70,000 Air Force) (2022)<br>

@@ -78,7 +78,7 @@ all primary and secondary regions of high population density lie on the coast; o
 ## People and Society
 
 **Population**<br>
-124,214,766 (2022 est.)<br>
+123,719,238 (2023 est.)<br>
 
 **Nationality**<br>
 _noun_: Japanese (singular and plural)<br>
@@ -97,11 +97,9 @@ Shintoism 70.5%, Buddhism 67.2%, Christianity 1.5%, other 5.9% (2019 est.)<br>
 <strong>note:</strong> total adherents exceeds 100% because many people practice both Shintoism and Buddhism<br>
 
 **Age structure**<br>
-_0-14 years_: 12.49% (male 8,047,183/female 7,623,767)<br>
-_15-24 years_: 9.47% (male 6,254,352/female 5,635,377)<br>
-_25-54 years_: 36.8% (male 22,867,385/female 23,317,140)<br>
-_55-64 years_: 12.06% (male 7,564,067/female 7,570,732)<br>
-_65 years and over_: 29.18% (male 16,034,973/female 20,592,496) (2020 est.)<br>
+_0-14 years_: 12.29% (male 7,835,474/female 7,370,449)<br>
+_15-64 years_: 58.49% (male 36,378,186/female 35,981,176)<br>
+_65 years and over_: 29.22% (2023 est.) (male 15,909,031/female 20,244,922)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 71.1<br>
@@ -115,16 +113,16 @@ _male_: 47.2 years<br>
 _female_: 50 years (2020 est.)<br>
 
 **Population growth rate**<br>
--0.39% (2022 est.)<br>
+-0.41% (2023 est.)<br>
 
 **Birth rate**<br>
-6.95 births/1,000 population (2022 est.)<br>
+6.9 births/1,000 population (2023 est.)<br>
 
 **Death rate**<br>
-11.59 deaths/1,000 population (2022 est.)<br>
+11.74 deaths/1,000 population (2023 est.)<br>
 
 **Net migration rate**<br>
-0.74 migrant(s)/1,000 population (2022 est.)<br>
+0.74 migrant(s)/1,000 population (2023 est.)<br>
 
 **Population distribution**<br>
 all primary and secondary regions of high population density lie on the coast; one-third of the population resides in and around Tokyo on the central plain (Kanto Plain)<br>
@@ -139,11 +137,9 @@ _rate of urbanization_: -0.25% annual rate of change (2020-25 est.)<br>
 **Sex ratio**<br>
 _at birth_: 1.06 male(s)/female<br>
 _0-14 years_: 1.06 male(s)/female<br>
-_15-24 years_: 1.09 male(s)/female<br>
-_25-54 years_: 1 male(s)/female<br>
-_55-64 years_: 1 male(s)/female<br>
-_65 years and over_: 0.65 male(s)/female<br>
-_total population_: 0.95 male(s)/female (2022 est.)<br>
+_15-64 years_: 1.01 male(s)/female<br>
+_65 years and over_: 0.79 male(s)/female<br>
+_total population_: 0.95 male(s)/female (2023 est.)<br>
 
 **Mother's mean age at first birth**<br>
 30.7 years (2018 est.)<br>
@@ -152,17 +148,17 @@ _total population_: 0.95 male(s)/female (2022 est.)<br>
 5 deaths/100,000 live births (2017 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 1.9 deaths/1,000 live births<br>
-_male_: 2 deaths/1,000 live births<br>
-_female_: 1.79 deaths/1,000 live births (2022 est.)<br>
+_total_: 1.88 deaths/1,000 live births<br>
+_male_: 1.99 deaths/1,000 live births<br>
+_female_: 1.77 deaths/1,000 live births (2023 est.)<br>
 
 **Life expectancy at birth**<br>
-_total population_: 84.83 years<br>
-_male_: 81.92 years<br>
-_female_: 87.9 years (2022 est.)<br>
+_total population_: 85 years<br>
+_male_: 82.11 years<br>
+_female_: 88.06 years (2023 est.)<br>
 
 **Total fertility rate**<br>
-1.38 children born/woman (2022 est.)<br>
+1.39 children born/woman (2023 est.)<br>
 
 **Gross reproduction rate**<br>
 0.68 (2023 est.)<br>

@@ -76,7 +76,7 @@ strategic location along southern approaches to Strait of Hormuz, a vital transi
 ## People and Society
 
 **Population**<br>
-9,915,803 (2022 est.)<br>
+9,973,449 (2023 est.)<br>
 <strong>note:</strong> the UN estimated the country's total population was 10,082,000 as of 2022; immigrants make up 88.1% of the total population, according to UN data (2020)<br>
 
 **Nationality**<br>
@@ -96,11 +96,9 @@ Muslim (official) 76%, Christian 9%, other (primarily Hindu and Buddhist, less t
 <strong>note</strong><strong>:</strong> data represent the total population; as of 2020, immigrants make up about 88.1% of the total population, according to UN data<br>
 
 **Age structure**<br>
-_0-14 years_: 14.45% (male 745,492/female 698,330)<br>
-_15-24 years_: 7.94% (male 431,751/female 361,804)<br>
-_25-54 years_: 68.03% (male 5,204,618/female 1,592,987)<br>
-_55-64 years_: 7.68% (male 658,892/female 108,850)<br>
-_65 years and over_: 1.9% (male 146,221/female 43,138) (2020 est.)<br>
+_0-14 years_: 16.23% (male 829,266/female 789,187)<br>
+_15-64 years_: 81.77% (male 5,840,920/female 2,314,683)<br>
+_65 years and over_: 2% (2023 est.) (male 15,1340/female 48,053)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 20.3<br>
@@ -114,16 +112,16 @@ _male_: 40.4 years<br>
 _female_: 31.5 years (2020 est.)<br>
 
 **Population growth rate**<br>
-0.58% (2022 est.)<br>
+0.58% (2023 est.)<br>
 
 **Birth rate**<br>
-10.81 births/1,000 population (2022 est.)<br>
+10.76 births/1,000 population (2023 est.)<br>
 
 **Death rate**<br>
-1.56 deaths/1,000 population (2022 est.)<br>
+1.62 deaths/1,000 population (2023 est.)<br>
 
 **Net migration rate**<br>
--3.45 migrant(s)/1,000 population (2022 est.)<br>
+-3.35 migrant(s)/1,000 population (2023 est.)<br>
 
 **Population distribution**<br>
 population is heavily concentrated to the northeast on the Musandam Peninsula; the three largest emirates - Abu Dhabi, Dubai, and Sharjah - are home to nearly 85% of the population<br>
@@ -137,28 +135,26 @@ _rate of urbanization_: 1.5% annual rate of change (2020-25 est.)<br>
 
 **Sex ratio**<br>
 _at birth_: 1.06 male(s)/female<br>
-_0-14 years_: 1.06 male(s)/female<br>
-_15-24 years_: 1.2 male(s)/female<br>
-_25-54 years_: 3.32 male(s)/female<br>
-_55-64 years_: 5.41 male(s)/female<br>
-_65 years and over_: 1.86 male(s)/female<br>
-_total population_: 2.21 male(s)/female (2022 est.)<br>
+_0-14 years_: 1.05 male(s)/female<br>
+_15-64 years_: 2.52 male(s)/female<br>
+_65 years and over_: 3.15 male(s)/female<br>
+_total population_: 2.16 male(s)/female (2023 est.)<br>
 
 **Maternal mortality ratio**<br>
 3 deaths/100,000 live births (2017 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 5.14 deaths/1,000 live births<br>
-_male_: 5.71 deaths/1,000 live births<br>
-_female_: 4.53 deaths/1,000 live births (2022 est.)<br>
+_total_: 5.06 deaths/1,000 live births<br>
+_male_: 5.63 deaths/1,000 live births<br>
+_female_: 4.45 deaths/1,000 live births (2023 est.)<br>
 
 **Life expectancy at birth**<br>
-_total population_: 79.56 years<br>
-_male_: 78.21 years<br>
-_female_: 80.99 years (2022 est.)<br>
+_total population_: 79.75 years<br>
+_male_: 78.39 years<br>
+_female_: 81.2 years (2023 est.)<br>
 
 **Total fertility rate**<br>
-1.64 children born/woman (2022 est.)<br>
+1.62 children born/woman (2023 est.)<br>
 
 **Gross reproduction rate**<br>
 0.79 (2023 est.)<br>

@@ -78,7 +78,7 @@ consists of Oman proper and two northern exclaves, Musandam and Al Madhah; the f
 ## People and Society
 
 **Population**<br>
-3,764,348 (2022 est.)<br>
+3,833,465 (2023 est.)<br>
 <strong>note:</strong> immigrants make up approximately 46% of the total population (2019)<br>
 
 **Nationality**<br>
@@ -97,11 +97,9 @@ Muslim 85.9%, Christian 6.4%, Hindu 5.7%, other and unaffiliated 2% (2020 est.)<
 <strong>note:</strong> Omani citizens represent approximately 56.4% of the population and are overwhelming Muslim (Ibadhi and Sunni sects each constitute about 45% and Shia about 5%); Christians, Hindus, and Buddhists account for roughly 5% of Omani citizens<br>
 
 **Age structure**<br>
-_0-14 years_: 30.15% (male 561,791/female 533,949)<br>
-_15-24 years_: 17.35% (male 331,000/female 299,516)<br>
-_25-54 years_: 44.81% (male 928,812/female 699,821)<br>
-_55-64 years_: 4.02% (male 77,558/female 68,427)<br>
-_65 years and over_: 3.68% (male 64,152/female 69,663) (2020 est.)<br>
+_0-14 years_: 29.88% (male 586,608/female 558,770)<br>
+_15-64 years_: 66.17% (male 1,404,289/female 1,132,250)<br>
+_65 years and over_: 3.95% (2023 est.) (male 70,976/female 80,572)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 42<br>
@@ -115,16 +113,16 @@ _male_: 27.2 years<br>
 _female_: 25.1 years (2020 est.)<br>
 
 **Population growth rate**<br>
-1.84% (2022 est.)<br>
+1.8% (2023 est.)<br>
 
 **Birth rate**<br>
-22.11 births/1,000 population (2022 est.)<br>
+21.62 births/1,000 population (2023 est.)<br>
 
 **Death rate**<br>
-3.23 deaths/1,000 population (2022 est.)<br>
+3.21 deaths/1,000 population (2023 est.)<br>
 
 **Net migration rate**<br>
--0.45 migrant(s)/1,000 population (2022 est.)<br>
+-0.46 migrant(s)/1,000 population (2023 est.)<br>
 
 **Population distribution**<br>
 the vast majority of the population is located in and around the Al Hagar Mountains in the north of the country; another smaller cluster is found around the city of Salalah in the far south; most of the country remains sparsely poplulated<br>
@@ -139,27 +137,25 @@ _rate of urbanization_: 2.32% annual rate of change (2020-25 est.)<br>
 **Sex ratio**<br>
 _at birth_: 1.05 male(s)/female<br>
 _0-14 years_: 1.05 male(s)/female<br>
-_15-24 years_: 1.1 male(s)/female<br>
-_25-54 years_: 1.32 male(s)/female<br>
-_55-64 years_: 1.12 male(s)/female<br>
-_65 years and over_: 0.79 male(s)/female<br>
-_total population_: 1.17 male(s)/female (2022 est.)<br>
+_15-64 years_: 1.24 male(s)/female<br>
+_65 years and over_: 0.88 male(s)/female<br>
+_total population_: 1.16 male(s)/female (2023 est.)<br>
 
 **Maternal mortality ratio**<br>
 19 deaths/100,000 live births (2017 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 14.45 deaths/1,000 live births<br>
-_male_: 15.71 deaths/1,000 live births<br>
-_female_: 13.12 deaths/1,000 live births (2022 est.)<br>
+_total_: 14.16 deaths/1,000 live births<br>
+_male_: 15.38 deaths/1,000 live births<br>
+_female_: 12.87 deaths/1,000 live births (2023 est.)<br>
 
 **Life expectancy at birth**<br>
-_total population_: 76.9 years<br>
-_male_: 74.96 years<br>
-_female_: 78.93 years (2022 est.)<br>
+_total population_: 77.16 years<br>
+_male_: 75.24 years<br>
+_female_: 79.17 years (2023 est.)<br>
 
 **Total fertility rate**<br>
-2.7 children born/woman (2022 est.)<br>
+2.67 children born/woman (2023 est.)<br>
 
 **Gross reproduction rate**<br>
 1.3 (2023 est.)<br>

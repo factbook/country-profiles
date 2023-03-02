@@ -72,7 +72,7 @@ the island is entirely volcanic in origin and comprised of three major volcanic 
 ## People and Society
 
 **Population**<br>
-5,414 (2022 est.)<br>
+5,440 (2023 est.)<br>
 <strong>note:</strong> an estimated 8,000 refugees left the island following the resumption of volcanic activity in July 1995; some have returned<br>
 
 **Nationality**<br>
@@ -89,11 +89,9 @@ English<br>
 Protestant 71.4% (includes Anglican 17.7%, Pentecostal/Full Gospel 16.1%, Seventh Day Adventist 15%, Methodist 13.9%, Church of God 6.7%, other Protestant 2%), Roman Catholic 11.4%, Rastafarian 1.4%, Hindu 1.2%, Jehovah's Witness 1%, Muslim 0.4%, other/not stated 5.1%, none 7.9% (2018 est.)<br>
 
 **Age structure**<br>
-_0-14 years_: 15.87% (male 442/female 417)<br>
-_15-24 years_: 19.67% (male 556/female 509)<br>
-_25-54 years_: 47.09% (male 1,217/female 1,313)<br>
-_55-64 years_: 10.47% (male 258/female 309)<br>
-_65 years and over_: 7.15% (male 209/female 178) (2022 est.)<br>
+_0-14 years_: 15.92% (male 446/female 420)<br>
+_15-64 years_: 76.6% (male 2,051/female 2,116)<br>
+_65 years and over_: 7.48% (2023 est.) (male 217/female 190)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 43.9<br>
@@ -107,16 +105,16 @@ _male_: 34.1 years<br>
 _female_: 35.6 years (2020 est.)<br>
 
 **Population growth rate**<br>
-0.5% (2022 est.)<br>
+0.46% (2023 est.)<br>
 
 **Birth rate**<br>
-10.9 births/1,000 population (2022 est.)<br>
+10.66 births/1,000 population (2023 est.)<br>
 
 **Death rate**<br>
-5.91 deaths/1,000 population (2022 est.)<br>
+6.07 deaths/1,000 population (2023 est.)<br>
 
 **Net migration rate**<br>
-0 migrant(s)/1,000 population (2022 est.)<br>
+0 migrant(s)/1,000 population (2023 est.)<br>
 
 **Population distribution**<br>
 only the northern half of the island is populated, the southern portion is uninhabitable due to volcanic activity<br>
@@ -126,26 +124,24 @@ _urban population_: 9.3% of total population (2023)<br>
 _rate of urbanization_: 0.94% annual rate of change (2020-25 est.)<br>
 
 **Sex ratio**<br>
-_at birth_: 1.03 male(s)/female<br>
+_at birth_: 1.07 male(s)/female<br>
 _0-14 years_: 1.06 male(s)/female<br>
-_15-24 years_: 1.08 male(s)/female<br>
-_25-54 years_: 1 male(s)/female<br>
-_55-64 years_: 0.92 male(s)/female<br>
-_65 years and over_: 1.92 male(s)/female<br>
-_total population_: 1 male(s)/female (2022 est.)<br>
+_15-64 years_: 0.97 male(s)/female<br>
+_65 years and over_: 1.14 male(s)/female<br>
+_total population_: 1 male(s)/female (2023 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 10.36 deaths/1,000 live births<br>
-_male_: 8.37 deaths/1,000 live births<br>
-_female_: 12.45 deaths/1,000 live births (2022 est.)<br>
+_total_: 10.04 deaths/1,000 live births<br>
+_male_: 8.16 deaths/1,000 live births<br>
+_female_: 12.01 deaths/1,000 live births (2023 est.)<br>
 
 **Life expectancy at birth**<br>
-_total population_: 75.7 years<br>
-_male_: 76.66 years<br>
-_female_: 74.7 years (2022 est.)<br>
+_total population_: 75.91 years<br>
+_male_: 76.79 years<br>
+_female_: 74.99 years (2023 est.)<br>
 
 **Total fertility rate**<br>
-1.32 children born/woman (2022 est.)<br>
+1.32 children born/woman (2023 est.)<br>
 
 **Gross reproduction rate**<br>
 0.64 (2023 est.)<br>

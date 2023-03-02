@@ -76,7 +76,7 @@ fertile central plains are separated by hilly uplands that are ancient glacial d
 ## People and Society
 
 **Population**<br>
-2,683,546 (2022 est.)<br>
+2,655,755 (2023 est.)<br>
 
 **Nationality**<br>
 _noun_: Lithuanian(s)<br>
@@ -93,11 +93,9 @@ _major-language sample(s)_: <br>Pasaulio enciklopedija – naudingas bendrosios 
 Roman Catholic 74.2%, Russian Orthodox 3.7%, Old Believer 0.6%, Evangelical Lutheran 0.6%, Evangelical Reformist 0.2%, other (including Sunni Muslim, Jewish, Greek Catholic, and Karaite) 0.9%, none 6.1%, unspecified 13.7% (2021 est.)<br>
 
 **Age structure**<br>
-_0-14 years_: 15.26% (male 213,802/female 202,948)<br>
-_15-24 years_: 10.23% (male 144,679/female 134,822)<br>
-_25-54 years_: 38.96% (male 528,706/female 535,485)<br>
-_55-64 years_: 15.1% (male 183,854/female 228,585)<br>
-_65 years and over_: 20.45% (male 190,025/female 368,558) (2020 est.)<br>
+_0-14 years_: 15.3% (male 208,669/female 197,728)<br>
+_15-64 years_: 63.11% (male 821,319/female 854,763)<br>
+_65 years and over_: 21.59% (2023 est.) (male 197,217/female 376,059)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 55.7<br>
@@ -111,16 +109,16 @@ _male_: 40.2 years<br>
 _female_: 48.2 years (2020 est.)<br>
 
 **Population growth rate**<br>
--1.04% (2022 est.)<br>
+-1.04% (2023 est.)<br>
 
 **Birth rate**<br>
-9.26 births/1,000 population (2022 est.)<br>
+9.09 births/1,000 population (2023 est.)<br>
 
 **Death rate**<br>
-15.12 deaths/1,000 population (2022 est.)<br>
+15.17 deaths/1,000 population (2023 est.)<br>
 
 **Net migration rate**<br>
--4.54 migrant(s)/1,000 population (2022 est.)<br>
+-4.34 migrant(s)/1,000 population (2023 est.)<br>
 
 **Population distribution**<br>
 fairly even population distribution throughout the country, but somewhat greater concentrations in the southern cities of Vilnius and Kaunas, and the western port of Klaipeda<br>
@@ -134,12 +132,10 @@ _rate of urbanization_: -0.12% annual rate of change (2020-25 est.)<br>
 
 **Sex ratio**<br>
 _at birth_: 1.06 male(s)/female<br>
-_0-14 years_: 1.05 male(s)/female<br>
-_15-24 years_: 1.07 male(s)/female<br>
-_25-54 years_: 1 male(s)/female<br>
-_55-64 years_: 0.81 male(s)/female<br>
-_65 years and over_: 0.45 male(s)/female<br>
-_total population_: 0.86 male(s)/female (2022 est.)<br>
+_0-14 years_: 1.06 male(s)/female<br>
+_15-64 years_: 0.96 male(s)/female<br>
+_65 years and over_: 0.52 male(s)/female<br>
+_total population_: 0.86 male(s)/female (2023 est.)<br>
 
 **Mother's mean age at first birth**<br>
 28.2 years (2020 est.)<br>
@@ -148,17 +144,17 @@ _total population_: 0.86 male(s)/female (2022 est.)<br>
 5 deaths/100,000 live births (2017 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 3.63 deaths/1,000 live births<br>
-_male_: 4.09 deaths/1,000 live births<br>
-_female_: 3.15 deaths/1,000 live births (2022 est.)<br>
+_total_: 3.61 deaths/1,000 live births<br>
+_male_: 4.06 deaths/1,000 live births<br>
+_female_: 3.12 deaths/1,000 live births (2023 est.)<br>
 
 **Life expectancy at birth**<br>
-_total population_: 75.78 years<br>
-_male_: 70.42 years<br>
-_female_: 81.44 years (2022 est.)<br>
+_total population_: 75.95 years<br>
+_male_: 70.62 years<br>
+_female_: 81.59 years (2023 est.)<br>
 
 **Total fertility rate**<br>
-1.61 children born/woman (2022 est.)<br>
+1.61 children born/woman (2023 est.)<br>
 
 **Gross reproduction rate**<br>
 0.78 (2023 est.)<br>
@@ -720,7 +716,7 @@ Lithuania became a member of NATO in 2004<br> <p>since 2017, Lithuania has hoste
 <p><em>Lithuania-Belarus</em>: as of January 2007, ground demarcation of the boundary with Belarus was complete and mapped with final ratification documents in preparation</p> <p><em>Lithuania-Lativa</em>: boundary demarcated with Latvia was completed in 1998</p> <p><em>Lithuania-Russia</em>:<strong> </strong>Lithuania and Russia committed to demarcating their boundary in 2006 in accordance with the land and maritime treaty ratified by Russia in May 2003 and by Lithuania in 1999; Lithuania operates a simplified transit regime for Russian nationals traveling from the Kaliningrad coastal exclave into Russia, while still conforming, as a EU member state having an external border with a non-EU member, to strict Schengen border rules; in January 2018, demarcation of the Lithuania-Russia border was completed</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 74,611 (Ukraine) (as of 13 February 2023)<br>
+_refugees (country of origin)_: 75,197 (Ukraine) (as of 27 February 2023)<br>
 _stateless persons_: 2,720 (2022)<br>
 
 **Illicit drugs**<br>

@@ -73,7 +73,7 @@ the 41-km long Nerodimka River divides into two branches each of which flows int
 ## People and Society
 
 **Population**<br>
-1,952,701 (2022 est.)<br>
+1,964,327 (2023 est.)<br>
 
 **Nationality**<br>
 _noun_: Kosovan<br>
@@ -92,11 +92,9 @@ _major-language sample(s)_: <br>Libri i Fakteve Boterore, burimi vital per infor
 Muslim 95.6%, Roman Catholic 2.2%, Orthodox 1.5%, other 0.1%, none 0.1%, unspecified 0.6% (2011 est.)<br>
 
 **Age structure**<br>
-_0-14 years_: 24.07% (male 241,563/female 223,568)<br>
-_15-24 years_: 16.95% (male 170,566/female 157,063)<br>
-_25-54 years_: 42.56% (male 433,914/female 388,595)<br>
-_55-64 years_: 8.67% (male 85,840/female 81,782)<br>
-_65 years and over_: 7.75% (male 63,943/female 85,940) (2020 est.)<br>
+_0-14 years_: 23.1% (male 235,379/female 218,359)<br>
+_15-64 years_: 68.75% (male 706,495/female 643,982)<br>
+_65 years and over_: 8.15% (2023 est.) (male 69,676/female 90,436)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 46.9<br>
@@ -110,16 +108,16 @@ _male_: 30.2 years<br>
 _female_: 30.8 years (2020 est.)<br>
 
 **Population growth rate**<br>
-0.57% (2022 est.)<br>
+0.62% (2023 est.)<br>
 
 **Birth rate**<br>
-14.85 births/1,000 population (2022 est.)<br>
+14.57 births/1,000 population (2023 est.)<br>
 
 **Death rate**<br>
-8.12 deaths/1,000 population (2022 est.)<br>
+7.65 deaths/1,000 population (2023 est.)<br>
 
 **Net migration rate**<br>
--1.07 migrant(s)/1,000 population (2022 est.)<br>
+-0.71 migrant(s)/1,000 population (2023 est.)<br>
 
 **Population distribution**<br>
 population clusters exist throughout the country, the largest being in the east in and around the capital of Pristina<br>
@@ -130,24 +128,22 @@ population clusters exist throughout the country, the largest being in the east 
 **Sex ratio**<br>
 _at birth_: 1.08 male(s)/female<br>
 _0-14 years_: 1.08 male(s)/female<br>
-_15-24 years_: 1.08 male(s)/female<br>
-_25-54 years_: 1.11 male(s)/female<br>
-_55-64 years_: 1.05 male(s)/female<br>
-_65 years and over_: 0.6 male(s)/female<br>
-_total population_: 1.06 male(s)/female (2022 est.)<br>
+_15-64 years_: 1.1 male(s)/female<br>
+_65 years and over_: 0.77 male(s)/female<br>
+_total population_: 1.06 male(s)/female (2023 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 27.12 deaths/1,000 live births<br>
-_male_: 28.74 deaths/1,000 live births<br>
-_female_: 25.38 deaths/1,000 live births (2022 est.)<br>
+_total_: 24.93 deaths/1,000 live births<br>
+_male_: 26.36 deaths/1,000 live births<br>
+_female_: 23.38 deaths/1,000 live births (2023 est.)<br>
 
 **Life expectancy at birth**<br>
-_total population_: 71.12 years<br>
-_male_: 68.83 years<br>
-_female_: 73.58 years (2022 est.)<br>
+_total population_: 72.15 years<br>
+_male_: 69.93 years<br>
+_female_: 74.54 years (2023 est.)<br>
 
 **Total fertility rate**<br>
-1.9 children born/woman (2022 est.)<br>
+1.88 children born/woman (2023 est.)<br>
 
 **Gross reproduction rate**<br>
 0.91 (2023 est.)<br>

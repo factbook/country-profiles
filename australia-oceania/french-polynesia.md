@@ -72,7 +72,7 @@ includes five archipelagoes: four volcanic (Iles Gambier, Iles Marquises, Iles T
 ## People and Society
 
 **Population**<br>
-299,356 (2022 est.)<br>
+301,488 (2023 est.)<br>
 
 **Nationality**<br>
 _noun_: French Polynesian(s)<br>
@@ -89,11 +89,9 @@ _major-language sample(s)_: <br>The World Factbook, une source indispensable d'i
 Protestant 54%, Roman Catholic 30%, other 10%, no religion 6%<br>
 
 **Age structure**<br>
-_0-14 years_: 21.69% (male 32,920/female 31,100)<br>
-_15-24 years_: 14.72% (male 22,640/female 20,793)<br>
-_25-54 years_: 44.24% (male 66,921/female 63,636)<br>
-_55-64 years_: 10.31% (male 15,610/female 14,823)<br>
-_65 years and over_: 9.04% (male 12,854/female 13,824) (2020 est.)<br>
+_0-14 years_: 20.62% (male 31,923/female 30,250)<br>
+_15-64 years_: 68.79% (male 106,657/female 100,731)<br>
+_65 years and over_: 10.59% (2023 est.) (male 15,567/female 16,360)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 45.6<br>
@@ -107,16 +105,16 @@ _male_: 33 years<br>
 _female_: 33.5 years (2020 est.)<br>
 
 **Population growth rate**<br>
-0.73% (2022 est.)<br>
+0.7% (2023 est.)<br>
 
 **Birth rate**<br>
-13.47 births/1,000 population (2022 est.)<br>
+13.22 births/1,000 population (2023 est.)<br>
 
 **Death rate**<br>
-5.59 deaths/1,000 population (2022 est.)<br>
+5.67 deaths/1,000 population (2023 est.)<br>
 
 **Net migration rate**<br>
--0.63 migrant(s)/1,000 population (2022 est.)<br>
+-0.61 migrant(s)/1,000 population (2023 est.)<br>
 
 **Population distribution**<br>
 the majority of the population lives in the Society Islands, one of five archipelagos that includes the most populous island - Tahiti - with approximately 70% of the nation's population<br>
@@ -131,24 +129,22 @@ _rate of urbanization_: 0.65% annual rate of change (2020-25 est.)<br>
 **Sex ratio**<br>
 _at birth_: 1.05 male(s)/female<br>
 _0-14 years_: 1.06 male(s)/female<br>
-_15-24 years_: 1.09 male(s)/female<br>
-_25-54 years_: 1.05 male(s)/female<br>
-_55-64 years_: 1.05 male(s)/female<br>
-_65 years and over_: 0.79 male(s)/female<br>
-_total population_: 1.05 male(s)/female (2022 est.)<br>
+_15-64 years_: 1.06 male(s)/female<br>
+_65 years and over_: 0.95 male(s)/female<br>
+_total population_: 1.05 male(s)/female (2023 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 4.4 deaths/1,000 live births<br>
-_male_: 5.3 deaths/1,000 live births<br>
-_female_: 3.46 deaths/1,000 live births (2022 est.)<br>
+_total_: 4.34 deaths/1,000 live births<br>
+_male_: 5.23 deaths/1,000 live births<br>
+_female_: 3.42 deaths/1,000 live births (2023 est.)<br>
 
 **Life expectancy at birth**<br>
-_total population_: 78.43 years<br>
-_male_: 76.11 years<br>
-_female_: 80.86 years (2022 est.)<br>
+_total population_: 78.66 years<br>
+_male_: 76.36 years<br>
+_female_: 81.08 years (2023 est.)<br>
 
 **Total fertility rate**<br>
-1.81 children born/woman (2022 est.)<br>
+1.8 children born/woman (2023 est.)<br>
 
 **Gross reproduction rate**<br>
 0.88 (2023 est.)<br>

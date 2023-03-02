@@ -80,7 +80,7 @@ strategic location along the Adriatic coast<br>
 ## People and Society
 
 **Population**<br>
-604,966 (2022 est.)<br>
+602,445 (2023 est.)<br>
 
 **Nationality**<br>
 _noun_: Montenegrin(s)<br>
@@ -97,11 +97,9 @@ _major-language sample(s)_: <br>Knjiga svetskih činjenica, neophodan izvor osno
 Orthodox 72.1%, Muslim 19.1%, Catholic 3.4%, atheist 1.2%, other 1.5%, unspecified 2.6% (2011 est.)<br>
 
 **Age structure**<br>
-_0-14 years_: 18.14% (male 57,402/female 53,217)<br>
-_15-24 years_: 12.78% (male 40,220/female 37,720)<br>
-_25-54 years_: 39.65% (male 120,374/female 121,461)<br>
-_55-64 years_: 13.41% (male 40,099/female 41,670)<br>
-_65 years and over_: 16.02% (male 42,345/female 55,351) (2020 est.)<br>
+_0-14 years_: 17.93% (male 55,690/female 52,340)<br>
+_15-64 years_: 64.65% (male 194,334/female 195,127)<br>
+_65 years and over_: 17.42% (2023 est.) (male 45,993/female 58,961)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 52.5<br>
@@ -115,16 +113,16 @@ _male_: 38.1 years<br>
 _female_: 41.1 years (2020 est.)<br>
 
 **Population growth rate**<br>
--0.41% (2022 est.)<br>
+-0.43% (2023 est.)<br>
 
 **Birth rate**<br>
-11.19 births/1,000 population (2022 est.)<br>
+11.04 births/1,000 population (2023 est.)<br>
 
 **Death rate**<br>
-10.33 deaths/1,000 population (2022 est.)<br>
+10.3 deaths/1,000 population (2023 est.)<br>
 
 **Net migration rate**<br>
--4.97 migrant(s)/1,000 population (2022 est.)<br>
+-4.99 migrant(s)/1,000 population (2023 est.)<br>
 
 **Population distribution**<br>
 highest population density is concentrated in the south, southwest; the extreme eastern border is the least populated area<br>
@@ -138,12 +136,10 @@ _rate of urbanization_: 0.45% annual rate of change (2020-25 est.)<br>
 
 **Sex ratio**<br>
 _at birth_: 1.04 male(s)/female<br>
-_0-14 years_: 1.07 male(s)/female<br>
-_15-24 years_: 1.07 male(s)/female<br>
-_25-54 years_: 0.99 male(s)/female<br>
-_55-64 years_: 0.96 male(s)/female<br>
-_65 years and over_: 0.69 male(s)/female<br>
-_total population_: 0.97 male(s)/female (2022 est.)<br>
+_0-14 years_: 1.06 male(s)/female<br>
+_15-64 years_: 1 male(s)/female<br>
+_65 years and over_: 0.78 male(s)/female<br>
+_total population_: 0.97 male(s)/female (2023 est.)<br>
 
 **Mother's mean age at first birth**<br>
 26.3 years (2010 est.)<br>
@@ -152,17 +148,17 @@ _total population_: 0.97 male(s)/female (2022 est.)<br>
 6 deaths/100,000 live births (2017 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 3.24 deaths/1,000 live births<br>
-_male_: 2.72 deaths/1,000 live births<br>
-_female_: 3.79 deaths/1,000 live births (2022 est.)<br>
+_total_: 3.2 deaths/1,000 live births<br>
+_male_: 2.69 deaths/1,000 live births<br>
+_female_: 3.73 deaths/1,000 live births (2023 est.)<br>
 
 **Life expectancy at birth**<br>
-_total population_: 77.75 years<br>
-_male_: 75.32 years<br>
-_female_: 80.27 years (2022 est.)<br>
+_total population_: 77.99 years<br>
+_male_: 75.57 years<br>
+_female_: 80.5 years (2023 est.)<br>
 
 **Total fertility rate**<br>
-1.81 children born/woman (2022 est.)<br>
+1.81 children born/woman (2023 est.)<br>
 
 **Gross reproduction rate**<br>
 0.89 (2023 est.)<br>
@@ -718,9 +714,9 @@ Montenegro became a member of NATO in 2017; as of 2022, Greece and Italy provide
 <p><em>Montenegro-Albania</em>: none identified</p> <p><em>Montenegro-Bosnia and Herzegovina</em>: the two countries signed a border agreement in August 2015; sovereignty of the disputed Sutorina territory was given to Montenegro</p> <p><em>Montenegro-Croatia</em>: the two countries in 2002 reached a temporary agreement designating the Prevlaka Peninsula as part of Croatia, in October 2020, a Montenegrin official resurrected the dormant dispute over the Prevlaka Peninsula by stating that Montenegro had a good chance of winning it through international arbitration</p> <p><em>Montenegro-Kosovo</em>: a 2015 border agreement was ratified by Montenegro in 2015 and by Kosovo in 2018, but the actual demarcation has not been completed</p> <p><em>Montenegro-Serbia</em>: The former republic boundary – when the two countries were one and called the Federal Republic of Yugoslavia – serves as the boundary until a line is formally delimited and demarcated</p> <p> </p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 33,739 (Ukraine) (as of 13 February 2023)<br>
+_refugees (country of origin)_: 34,170 (Ukraine) (as of 27 February 2023)<br>
 _stateless persons_: 468 (2022)<br>
-<strong>note:</strong> 29,444 estimated refugee and migrant arrivals (January 2015-February 2023)<br>
+<strong>note:</strong> 29,537 estimated refugee and migrant arrivals (January 2015-February 2023)<br>
 
 **Illicit drugs**<br>
 <p>drug trafficking groups are major players in the procurement and transportation of large quantities of cocaine  destined for  European markets</p><br>

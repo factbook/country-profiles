@@ -79,7 +79,7 @@ crossroads of Western Europe; most West European capitals are within 1,000 km of
 ## People and Society
 
 **Population**<br>
-11,847,338 (2022 est.)<br>
+11,913,633 (2023 est.)<br>
 
 **Nationality**<br>
 _noun_: Belgian(s)<br>
@@ -96,11 +96,9 @@ _major-language sample(s)_: <br>Het Wereld Feitenboek, een omnisbare bron van in
 Roman Catholic 57.1%, Protestant 2.3%, other Christian, 2.8%, Muslim 6.8%, other 1.7%, atheist 9.1%, nonbeliever/agnostic 20.2% (2018 est.)<br>
 
 **Age structure**<br>
-_0-14 years_: 17.22% (male 1,033,383/female 984,624)<br>
-_15-24 years_: 11.2% (male 670,724/female 642,145)<br>
-_25-54 years_: 39.23% (male 2,319,777/female 2,278,450)<br>
-_55-64 years_: 13.14% (male 764,902/female 775,454)<br>
-_65 years and over_: 19.21% (male 988,148/female 1,263,109) (2020 est.)<br>
+_0-14 years_: 17.03% (male 1,038,921/female 990,288)<br>
+_15-64 years_: 63.06% (male 3,788,406/female 3,724,202)<br>
+_65 years and over_: 19.91% (2023 est.) (male 1,049,402/female 1,322,414)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 56.5<br>
@@ -114,16 +112,16 @@ _male_: 40.4 years<br>
 _female_: 42.8 years (2020 est.)<br>
 
 **Population growth rate**<br>
-0.57% (2022 est.)<br>
+0.55% (2023 est.)<br>
 
 **Birth rate**<br>
-10.95 births/1,000 population (2022 est.)<br>
+10.86 births/1,000 population (2023 est.)<br>
 
 **Death rate**<br>
-9.64 deaths/1,000 population (2022 est.)<br>
+9.57 deaths/1,000 population (2023 est.)<br>
 
 **Net migration rate**<br>
-4.38 migrant(s)/1,000 population (2022 est.)<br>
+4.18 migrant(s)/1,000 population (2023 est.)<br>
 
 **Population distribution**<br>
 most of the population concentrated in the northern two-thirds of the country; the southeast is more thinly populated; considered to have one of the highest population densities in the world; approximately 97% live in urban areas<br>
@@ -138,11 +136,9 @@ _rate of urbanization_: 0.38% annual rate of change (2020-25 est.)<br>
 **Sex ratio**<br>
 _at birth_: 1.05 male(s)/female<br>
 _0-14 years_: 1.05 male(s)/female<br>
-_15-24 years_: 1.05 male(s)/female<br>
-_25-54 years_: 1.02 male(s)/female<br>
-_55-64 years_: 0.99 male(s)/female<br>
-_65 years and over_: 0.65 male(s)/female<br>
-_total population_: 0.97 male(s)/female (2022 est.)<br>
+_15-64 years_: 1.02 male(s)/female<br>
+_65 years and over_: 0.79 male(s)/female<br>
+_total population_: 0.97 male(s)/female (2023 est.)<br>
 
 **Mother's mean age at first birth**<br>
 29.2 years (2020 est.)<br>
@@ -151,17 +147,17 @@ _total population_: 0.97 male(s)/female (2022 est.)<br>
 5 deaths/100,000 live births (2017 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 3.19 deaths/1,000 live births<br>
-_male_: 3.63 deaths/1,000 live births<br>
-_female_: 2.73 deaths/1,000 live births (2022 est.)<br>
+_total_: 3.15 deaths/1,000 live births<br>
+_male_: 3.58 deaths/1,000 live births<br>
+_female_: 2.69 deaths/1,000 live births (2023 est.)<br>
 
 **Life expectancy at birth**<br>
-_total population_: 81.86 years<br>
-_male_: 79.25 years<br>
-_female_: 84.59 years (2022 est.)<br>
+_total population_: 82.06 years<br>
+_male_: 79.47 years<br>
+_female_: 84.79 years (2023 est.)<br>
 
 **Total fertility rate**<br>
-1.77 children born/woman (2022 est.)<br>
+1.77 children born/woman (2023 est.)<br>
 
 **Gross reproduction rate**<br>
 0.86 (2023 est.)<br>
@@ -692,8 +688,8 @@ Belgian Armed Forces: Land Component, Marine (Naval) Component, Air Component, M
 1.2% of GDP (2022 est.)<br>
 1.1% of GDP (2021)<br>
 1% of GDP (2020)<br>
-0.9% of GDP (2019) (approximately $5.54 billion)<br>
-0.9% of GDP (2018) (approximately $5.43 billion)<br>
+0.9% of GDP (2019)<br>
+0.9% of GDP (2018)<br>
 
 **Military and security service personnel strengths**<br>
 approximately 25,000 active duty personnel (10,000 Land Component; 1,500 Marine Component; 5,000 Air Force Component; 1,500 Medical Service; 7,000 other, including joint staff, support, and training schools) (2022)<br>
@@ -724,7 +720,7 @@ Islamic Revolutionary Guard Corps/Qods Force; Islamic State of Iraq and ash-Sham
 <p>none identified</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 20,086 (Syria), 7,049 (Afghanistan), 5,769 (Iraq) (mid-year 2022); 67,761 (Ukraine) (as of 13 February 2023)<br>
+_refugees (country of origin)_: 20,086 (Syria), 7,049 (Afghanistan), 5,769 (Iraq) (mid-year 2022); 68,616 (Ukraine) (as of 27 February 2023)<br>
 _stateless persons_: 1,190 (2022)<br>
 
 **Illicit drugs**<br>

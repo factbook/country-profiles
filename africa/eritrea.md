@@ -73,7 +73,7 @@ strategic geopolitical position along world's busiest shipping lanes; Eritrea re
 ## People and Society
 
 **Population**<br>
-6,209,262 (2022 est.)<br>
+6,274,796 (2023 est.)<br>
 
 **Nationality**<br>
 _noun_: Eritrean(s)<br>
@@ -93,11 +93,9 @@ Eritrean Orthodox, Roman Catholic, Evangelical Lutheran, Sunni Muslim<br>
 <p>Eritrea is a persistently poor country that has made progress in some socioeconomic categories but not in others. Education and human capital formation are national priorities for facilitating economic development and eradicating poverty. To this end, Eritrea has made great strides in improving adult literacy – doubling the literacy rate over the last 20 years – in large part because of its successful adult education programs. The overall literacy rate was estimated to be more than 75% in 2018; more work needs to be done to raise female literacy and school attendance among nomadic and rural communities. Subsistence farming fails to meet the needs of Eritrea’s growing population because of repeated droughts, dwindling arable land, overgrazing, soil erosion, and a shortage of farmers due to conscription and displacement. The government’s emphasis on spending on defense over agriculture and its lack of foreign exchange to import food also contribute to food insecurity.</p> <p>Eritrea has been a leading refugee source country since at least the 1960s, when its 30-year war for independence from Ethiopia began. Since gaining independence in 1993, Eritreans have continued migrating to Sudan, Ethiopia, Yemen, Egypt, or Israel because of a lack of basic human rights or political freedom, educational and job opportunities, or to seek asylum because of militarization. Eritrea’s large diaspora has been a source of vital remittances, funding its war for independence and providing 30% of the country’s GDP annually since it became independent.</p> <p>In the last few years, Eritreans have increasingly been trafficked and held hostage by Bedouins in the Sinai Desert, where they are victims of organ harvesting, rape, extortion, and torture. Some Eritrean trafficking victims are kidnapped after being smuggled to Sudan or Ethiopia, while others are kidnapped from within or around refugee camps or crossing Eritrea’s borders. Eritreans composed approximately 90% of the conservatively estimated 25,000-30,000 victims of Sinai trafficking from 2009-2013, according to a 2013 consultancy firm report.</p><br>
 
 **Age structure**<br>
-_0-14 years_: 38.23% (male 1,169,456/female 1,155,460)<br>
-_15-24 years_: 20.56% (male 622,172/female 627,858)<br>
-_25-54 years_: 33.42% (male 997,693/female 1,034,550)<br>
-_55-64 years_: 3.8% (male 105,092/female 125,735)<br>
-_65 years and over_: 4% (male 99,231/female 143,949) (2020 est.)<br>
+_0-14 years_: 36.27% (male 1,145,134/female 1,130,829)<br>
+_15-64 years_: 59.73% (male 1,842,953/female 1,904,677)<br>
+_65 years and over_: 4% (2023 est.) (male 100,158/female 151,045)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 77.9<br>
@@ -111,16 +109,16 @@ _male_: 19.7 years<br>
 _female_: 20.8 years (2020 est.)<br>
 
 **Population growth rate**<br>
-1.03% (2022 est.)<br>
+1.08% (2023 est.)<br>
 
 **Birth rate**<br>
-27.04 births/1,000 population (2022 est.)<br>
+26.72 births/1,000 population (2023 est.)<br>
 
 **Death rate**<br>
-6.69 deaths/1,000 population (2022 est.)<br>
+6.6 deaths/1,000 population (2023 est.)<br>
 
 **Net migration rate**<br>
--10.11 migrant(s)/1,000 population (2022 est.)<br>
+-9.38 migrant(s)/1,000 population (2023 est.)<br>
 
 **Population distribution**<br>
 density is highest in the center of the country in and around the cities of Asmara (capital) and Keren; smaller settlements exist in the north and south as shown in this population distribution map<br>
@@ -135,11 +133,9 @@ _rate of urbanization_: 3.67% annual rate of change (2020-25 est.)<br>
 **Sex ratio**<br>
 _at birth_: 1.03 male(s)/female<br>
 _0-14 years_: 1.01 male(s)/female<br>
-_15-24 years_: 0.99 male(s)/female<br>
-_25-54 years_: 0.96 male(s)/female<br>
-_55-64 years_: 0.88 male(s)/female<br>
-_65 years and over_: 0.67 male(s)/female<br>
-_total population_: 0.97 male(s)/female (2022 est.)<br>
+_15-64 years_: 0.97 male(s)/female<br>
+_65 years and over_: 0.66 male(s)/female<br>
+_total population_: 0.97 male(s)/female (2023 est.)<br>
 
 **Mother's mean age at first birth**<br>
 21.3 years (2010 est.)<br>
@@ -149,17 +145,17 @@ _total population_: 0.97 male(s)/female (2022 est.)<br>
 480 deaths/100,000 live births (2017 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 41.5 deaths/1,000 live births<br>
-_male_: 48.36 deaths/1,000 live births<br>
-_female_: 34.44 deaths/1,000 live births (2022 est.)<br>
+_total_: 40.63 deaths/1,000 live births<br>
+_male_: 47.45 deaths/1,000 live births<br>
+_female_: 33.62 deaths/1,000 live births (2023 est.)<br>
 
 **Life expectancy at birth**<br>
-_total population_: 66.85 years<br>
-_male_: 64.25 years<br>
-_female_: 69.53 years (2022 est.)<br>
+_total population_: 67.19 years<br>
+_male_: 64.56 years<br>
+_female_: 69.89 years (2023 est.)<br>
 
 **Total fertility rate**<br>
-3.58 children born/woman (2022 est.)<br>
+3.5 children born/woman (2023 est.)<br>
 
 **Gross reproduction rate**<br>
 1.73 (2023 est.)<br>
@@ -679,7 +675,7 @@ Eritrea mandates military service for all citizens between the ages of 18 and 40
 <strong>note:</strong> as of 2020, women were estimated to make up as much as 30% of the Eritrean military<br>
 
 **Military - note**<br>
-since the country's independence in 1991, the Eritrean military has participated in numerous conflicts, including the Hanish Island Crisis with Yemen (1995), the First Congo War (1996-1997), the Second Sudanese Civil War (1996-1998), the Eritrea-Ethiopia War (1998-2000), the Djiboutian-Eritrean border conflict (2008), and the Tigray War (2020-2022) (2022)<br>
+the EDF’s primary responsibilities are external defense, border security, and providing the regime a vehicle for national cohesion; the Army is by far the dominant service; it is a large, conscript-based force with an estimated 20 infantry divisions, as well as a division of commandos/special forces; the Air Force has a small number of Soviet-era combat aircraft and helicopters, while the Navy maintains a limited number of coastal patrol vessels <br><br>since the country's independence in 1991, the Eritrean military has participated in numerous conflicts, including the Hanish Island Crisis with Yemen (1995), the First Congo War (1996-1997), the Second Sudanese Civil War (1996-1998), the Eritrea-Ethiopia War (1998-2000), the Djiboutian-Eritrean border conflict (2008), and the Tigray War (2020-2022) (2023)<br>
 
 ## Transnational Issues
 

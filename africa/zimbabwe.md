@@ -82,7 +82,7 @@ landlocked; the Zambezi forms a natural riverine boundary with Zambia; in full f
 ## People and Society
 
 **Population**<br>
-15,121,004 (2022 est.)<br>
+15,418,674 (2023 est.)<br>
 
 **Nationality**<br>
 _noun_: Zimbabwean(s)<br>
@@ -101,11 +101,9 @@ Protestant 74.8% (includes Apostolic 37.5%, Pentecostal 21.8%, other 15.5%), Rom
 <p>Zimbabwe’s progress in reproductive, maternal, and child health has stagnated in recent years. According to a 2010 Demographic and Health Survey, contraceptive use, the number of births attended by skilled practitioners, and child mortality have either stalled or somewhat deteriorated since the mid-2000s. Zimbabwe’s total fertility rate has remained fairly stable at about 4 children per woman for the last two decades, although an uptick in the urban birth rate in recent years has caused a slight rise in the country’s overall fertility rate. Zimbabwe’s HIV prevalence rate dropped from approximately 29% to 15% since 1997 but remains among the world’s highest and continues to suppress the country’s life expectancy rate. The proliferation of HIV/AIDS information and prevention programs and personal experience with those suffering or dying from the disease have helped to change sexual behavior and reduce the epidemic.</p> <p>Historically, the vast majority of Zimbabwe’s migration has been internal – a rural-urban flow. In terms of international migration, over the last 40 years Zimbabwe has gradually shifted from being a destination country to one of emigration and, to a lesser degree, one of transit (for East African illegal migrants traveling to South Africa). As a British colony, Zimbabwe attracted significant numbers of permanent immigrants from the UK and other European countries, as well as temporary economic migrants from Malawi, Mozambique, and Zambia. Although Zimbabweans have migrated to South Africa since the beginning of the 20th century to work as miners, the first major exodus from the country occurred in the years before and after independence in 1980. The outward migration was politically and racially influenced; a large share of the white population of European origin chose to leave rather than live under a new black-majority government.</p> <p>In the 1990s and 2000s, economic mismanagement and hyperinflation sparked a second, more diverse wave of emigration. This massive outmigration – primarily to other southern African countries, the UK, and the US – has created a variety of challenges, including brain drain, illegal migration, and human smuggling and trafficking. Several factors have pushed highly skilled workers to go abroad, including unemployment, lower wages, a lack of resources, and few opportunities for career growth.</p><br>
 
 **Age structure**<br>
-_0-14 years_: 38.32% (male 2,759,155/female 2,814,462)<br>
-_15-24 years_: 20.16% (male 1,436,710/female 1,495,440)<br>
-_25-54 years_: 32.94% (male 2,456,392/female 2,334,973)<br>
-_55-64 years_: 4.07% (male 227,506/female 363,824)<br>
-_65 years and over_: 4.52% (male 261,456/female 396,396) (2020 est.)<br>
+_0-14 years_: 38.16% (male 2,920,951/female 2,962,652)<br>
+_15-64 years_: 57.32% (male 4,417,612/female 4,419,769)<br>
+_65 years and over_: 4.52% (2023 est.) (male 269,329/female 428,361)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 79.4<br>
@@ -119,16 +117,16 @@ _male_: 20.3 years<br>
 _female_: 20.6 years (2020 est.)<br>
 
 **Population growth rate**<br>
-1.95% (2022 est.)<br>
+1.95% (2023 est.)<br>
 
 **Birth rate**<br>
-33.07 births/1,000 population (2022 est.)<br>
+32.77 births/1,000 population (2023 est.)<br>
 
 **Death rate**<br>
-8.76 deaths/1,000 population (2022 est.)<br>
+8.51 deaths/1,000 population (2023 est.)<br>
 
 **Net migration rate**<br>
--4.83 migrant(s)/1,000 population (2022 est.)<br>
+-4.74 migrant(s)/1,000 population (2023 est.)<br>
 
 **Population distribution**<br>
 Aside from major urban agglomerations in Harare and Bulawayo, population distribution is fairly even, with slightly greater overall numbers in the eastern half as shown in this population distribution map<br>
@@ -142,12 +140,10 @@ _rate of urbanization_: 2.41% annual rate of change (2020-25 est.)<br>
 
 **Sex ratio**<br>
 _at birth_: 1.03 male(s)/female<br>
-_0-14 years_: 0.98 male(s)/female<br>
-_15-24 years_: 0.96 male(s)/female<br>
-_25-54 years_: 1.06 male(s)/female<br>
-_55-64 years_: 0.62 male(s)/female<br>
-_65 years and over_: 0.57 male(s)/female<br>
-_total population_: 0.97 male(s)/female (2022 est.)<br>
+_0-14 years_: 0.99 male(s)/female<br>
+_15-64 years_: 1 male(s)/female<br>
+_65 years and over_: 0.63 male(s)/female<br>
+_total population_: 0.97 male(s)/female (2023 est.)<br>
 
 **Mother's mean age at first birth**<br>
 20.3 years (2015 est.)<br>
@@ -157,17 +153,17 @@ _total population_: 0.97 male(s)/female (2022 est.)<br>
 458 deaths/100,000 live births (2017 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 28.53 deaths/1,000 live births<br>
-_male_: 32.17 deaths/1,000 live births<br>
-_female_: 24.77 deaths/1,000 live births (2022 est.)<br>
+_total_: 27.67 deaths/1,000 live births<br>
+_male_: 31.22 deaths/1,000 live births<br>
+_female_: 24.01 deaths/1,000 live births (2023 est.)<br>
 
 **Life expectancy at birth**<br>
-_total population_: 63.32 years<br>
-_male_: 61.18 years<br>
-_female_: 65.52 years (2022 est.)<br>
+_total population_: 63.79 years<br>
+_male_: 61.65 years<br>
+_female_: 66 years (2023 est.)<br>
 
 **Total fertility rate**<br>
-3.89 children born/woman (2022 est.)<br>
+3.88 children born/woman (2023 est.)<br>
 
 **Gross reproduction rate**<br>
 1.91 (2023 est.)<br>

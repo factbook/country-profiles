@@ -80,7 +80,7 @@ the Niger and its important tributary the Milo River have their sources in the G
 ## People and Society
 
 **Population**<br>
-13,237,832 (2022 est.)<br>
+13,607,249 (2023 est.)<br>
 
 **Nationality**<br>
 _noun_: Guinean(s)<br>
@@ -100,11 +100,9 @@ Muslim 89.1%, Christian 6.8%, animist 1.6%, other 0.1%, none 2.4% (2014 est.)<br
 <p>Guinea’s strong population growth is a result of declining mortality rates and sustained elevated fertility. The population growth rate was somewhat tempered in the 2000s because of a period of net outmigration. Although life expectancy and mortality rates have improved over the last two decades, the nearly universal practice of female genital cutting continues to contribute to high infant and maternal mortality rates. Guinea’s total fertility remains high at about 5 children per woman as of 2022 because of the ongoing preference for larger families, low contraceptive usage and availability, a lack of educational attainment and empowerment among women, and poverty. A lack of literacy and vocational training programs limit job prospects for youths, but even those with university degrees often have no option but to work in the informal sector. About 60% of the country’s large youth population is unemployed.</p> <p>Tensions and refugees have spilled over Guinea’s borders with Sierra Leone, Liberia, and Cote d’Ivoire. During the 1990s Guinea harbored as many as half a million refugees from Sierra Leone and Liberia, more refugees than any other African country for much of that decade. About half sought refuge in the volatile "Parrot’s Beak" region of southwest Guinea, a wedge of land jutting into Sierra Leone near the Liberian border. Many were relocated within Guinea in the early 2000s because the area suffered repeated cross-border attacks from various government and rebel forces, as well as anti-refugee violence.</p><br>
 
 **Age structure**<br>
-_0-14 years_: 41.2% (male 2,601,221/female 2,559,918)<br>
-_15-24 years_: 19.32% (male 1,215,654/female 1,204,366)<br>
-_25-54 years_: 30.85% (male 1,933,141/female 1,930,977)<br>
-_55-64 years_: 4.73% (male 287,448/female 305,420)<br>
-_65 years and over_: 3.91% (male 218,803/female 270,492) (2020 est.)<br>
+_0-14 years_: 40.96% (male 2,809,865/female 2,763,294)<br>
+_15-64 years_: 55.05% (male 3,741,047/female 3,749,281)<br>
+_65 years and over_: 4% (2023 est.) (male 245,323/female 298,439)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 82.4<br>
@@ -118,16 +116,16 @@ _male_: 18.9 years<br>
 _female_: 19.4 years (2020 est.)<br>
 
 **Population growth rate**<br>
-2.76% (2022 est.)<br>
+2.75% (2023 est.)<br>
 
 **Birth rate**<br>
-35.67 births/1,000 population (2022 est.)<br>
+35.47 births/1,000 population (2023 est.)<br>
 
 **Death rate**<br>
-8.12 deaths/1,000 population (2022 est.)<br>
+7.97 deaths/1,000 population (2023 est.)<br>
 
 **Net migration rate**<br>
-0 migrant(s)/1,000 population (2022 est.)<br>
+0 migrant(s)/1,000 population (2023 est.)<br>
 
 **Population distribution**<br>
 areas of highest density are in the west and south; interior is sparsely populated as shown in this population distribution map<br>
@@ -142,11 +140,9 @@ _rate of urbanization_: 3.64% annual rate of change (2020-25 est.)<br>
 **Sex ratio**<br>
 _at birth_: 1.03 male(s)/female<br>
 _0-14 years_: 1.02 male(s)/female<br>
-_15-24 years_: 1.01 male(s)/female<br>
-_25-54 years_: 1 male(s)/female<br>
-_55-64 years_: 0.94 male(s)/female<br>
-_65 years and over_: 0.68 male(s)/female<br>
-_total population_: 1 male(s)/female (2022 est.)<br>
+_15-64 years_: 1 male(s)/female<br>
+_65 years and over_: 0.82 male(s)/female<br>
+_total population_: 1 male(s)/female (2023 est.)<br>
 
 **Mother's mean age at first birth**<br>
 19.9 years (2018 est.)<br>
@@ -156,17 +152,17 @@ _total population_: 1 male(s)/female (2022 est.)<br>
 576 deaths/100,000 live births (2017 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 49.63 deaths/1,000 live births<br>
-_male_: 54.39 deaths/1,000 live births<br>
-_female_: 44.74 deaths/1,000 live births (2022 est.)<br>
+_total_: 48.32 deaths/1,000 live births<br>
+_male_: 52.98 deaths/1,000 live births<br>
+_female_: 43.51 deaths/1,000 live births (2023 est.)<br>
 
 **Life expectancy at birth**<br>
-_total population_: 63.9 years<br>
-_male_: 62.04 years<br>
-_female_: 65.82 years (2022 est.)<br>
+_total population_: 64.27 years<br>
+_male_: 62.38 years<br>
+_female_: 66.21 years (2023 est.)<br>
 
 **Total fertility rate**<br>
-4.85 children born/woman (2022 est.)<br>
+4.82 children born/woman (2023 est.)<br>
 
 **Gross reproduction rate**<br>
 2.37 (2023 est.)<br>
@@ -719,7 +715,7 @@ Voluntary and selective conscripted service, 9-24 mos (2022)<br>
 670 Mali (MINUSMA) (May 2022)<br>
 
 **Military - note**<br>
-the Army is responsible for external defense, but also has some domestic security responsibilities; piracy and natural resource protection in the Gulf of Guinea are key areas of concern for the small Navy, which possesses only a few patrol boats (2022)<br>
+the Guinean military is small and lightly armed; it is responsible for external defense, but also has some domestic security responsibilities and has historically been involved in suppressing public protests; the military has undergone some attempts at reform since 2010, but in 2021 the Army&rsquo;s special forces led a successful coup; the Army has a mix of approximately 10 infantry, light armor, commando, and special forces battalions, as well as a presidential guard force; piracy and natural resource protection in the Gulf of Guinea are key areas of concern for the small Navy, which possesses only a few patrol boats; the Air Force has a handful of serviceable aircraft, including helicopter gunships (2023)<br>
 
 **Maritime threats**<br>
 the International Maritime Bureau reports the territorial and offshore waters in the Niger Delta and Gulf of Guinea remain a very high risk for piracy and armed robbery of ships; in 2021, there were 34 reported incidents of piracy and armed robbery at sea in the Gulf of Guinea region; although a significant decrease from the total number of 81 incidents in 2020, it included the one hijacking and three of five ships fired upon worldwide; while boarding and attempted boarding to steal valuables from ships and crews are the most common types of incidents, almost a third of all incidents involve a hijacking and/or kidnapping; in 2021, 57 crew members were kidnapped in seven separate incidents in the Gulf of Guinea, representing 100% of kidnappings worldwide; Nigerian pirates in particular are well armed and very aggressive, operating as far as 200 nm offshore; the Maritime Administration of the US Department of Transportation has issued a Maritime Advisory (2022-001 - Gulf of Guinea-Piracy/Armed Robbery/Kidnapping for Ransom) effective 4 January 2022, which states in part, "Piracy, armed robbery, and kidnapping for ransom continue to serve as significant threats to US-flagged vessels transiting or operating in the Gulf of Guinea"<br>

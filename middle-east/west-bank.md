@@ -77,7 +77,7 @@ landlocked; highlands are main recharge area for Israel's coastal aquifers; ther
 ## People and Society
 
 **Population**<br>
-3,000,021 (2022 est.)<br>
+3,050,760 (2023 est.)<br>
 <strong>note:</strong> approximately 432,000 Israeli settlers live in the West Bank (2019); approximately 227,100 Israeli settlers live in East Jerusalem (2019)<br>
 
 **Nationality**<br>
@@ -95,11 +95,9 @@ _major-language sample(s)_: <br>كتاب حقائق العالم، المصدر 
 Muslim 80-85% (predominantly Sunni), Jewish 12-14%, Christian 1-2.5% (mainly Greek Orthodox), other, unaffiliated, unspecified &lt;1% (2012 est.)<br>
 
 **Age structure**<br>
-_0-14 years_: 35.31% (male 525,645/female 498,458)<br>
-_15-24 years_: 20.75% (male 307,420/female 294,469)<br>
-_25-54 years_: 35.19% (male 516,758/female 503,626)<br>
-_55-64 years_: 5.12% (male 76,615/female 72,006)<br>
-_65 years and over_: 3.62% (2022 est.) (male 48,387/female 56,650) (2020 est.)<br>
+_0-14 years_: 34.07% (male 533,142/female 506,268)<br>
+_15-64 years_: 61.94% (male 960,379/female 929,324)<br>
+_65 years and over_: 3.99% (2023 est.) (male 57,449/female 64,198)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 74.3<br>
@@ -114,16 +112,16 @@ _male_: 21.7 years<br>
 _female_: 22.2 years (2020 est.)<br>
 
 **Population growth rate**<br>
-1.69% (2022 est.)<br>
+1.66% (2023 est.)<br>
 
 **Birth rate**<br>
-24.42 births/1,000 population (2022 est.)<br>
+24.02 births/1,000 population (2023 est.)<br>
 
 **Death rate**<br>
-3.4 deaths/1,000 population (2022 est.)<br>
+3.38 deaths/1,000 population (2023 est.)<br>
 
 **Net migration rate**<br>
--4.09 migrant(s)/1,000 population (2022 est.)<br>
+-4.02 migrant(s)/1,000 population (2023 est.)<br>
 
 **Population distribution**<br>
 the most populous Palestinian communities in the West Bank are located in the central ridge and western half of its territory; Jewish settlements are located throughout the West Bank, the most populous in the Seam Zone--between the 1949 Armistice Line and the separation barrier--and around Jerusalem<br>
@@ -136,28 +134,26 @@ _rate of urbanization_: 2.85% annual rate of change (2020-25 est.)<br>
 **Sex ratio**<br>
 _at birth_: 1.06 male(s)/female<br>
 _0-14 years_: 1.05 male(s)/female<br>
-_15-24 years_: 1.04 male(s)/female<br>
-_25-54 years_: 1.03 male(s)/female<br>
-_55-64 years_: 1.06 male(s)/female<br>
-_65 years and over_: 0.68 male(s)/female<br>
-_total population_: 1.03 male(s)/female (2022 est.)<br>
+_15-64 years_: 1.03 male(s)/female<br>
+_65 years and over_: 0.89 male(s)/female<br>
+_total population_: 1.03 male(s)/female (2023 est.)<br>
 
 **Maternal mortality ratio**<br>
 27 deaths/100,000 live births (2017 est.)<br>
 <strong>note:</strong> data represent Gaza Strip and the West Bank<br>
 
 **Infant mortality rate**<br>
-_total_: 15.29 deaths/1,000 live births<br>
-_male_: 17.68 deaths/1,000 live births<br>
-_female_: 12.76 deaths/1,000 live births (2022 est.)<br>
+_total_: 14.91 deaths/1,000 live births<br>
+_male_: 17.24 deaths/1,000 live births<br>
+_female_: 12.45 deaths/1,000 live births (2023 est.)<br>
 
 **Life expectancy at birth**<br>
-_total population_: 76.38 years<br>
-_male_: 74.29 years<br>
-_female_: 78.6 years (2022 est.)<br>
+_total population_: 76.63 years<br>
+_male_: 74.55 years<br>
+_female_: 78.84 years (2023 est.)<br>
 
 **Total fertility rate**<br>
-2.96 children born/woman (2022 est.)<br>
+2.91 children born/woman (2023 est.)<br>
 
 **Gross reproduction rate**<br>
 1.41 (2023 est.)<br>

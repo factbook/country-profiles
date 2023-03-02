@@ -76,7 +76,7 @@ lies near vital North Atlantic sea lanes; only 35 km from France and linked by t
 ## People and Society
 
 **Population**<br>
-67,791,400 (2022 est.) United Kingdom<br>
+68,138,484 (2023 est.) United Kingdom<br>
 <strong>constituent countries by percentage of total population: </strong><br>England 84.3%<br>Scotland 8.1%<br>Wales 4.7%<br>Northern Ireland 2.8%<br>
 
 **Nationality**<br>
@@ -94,11 +94,9 @@ English<br>
 Christian (includes Anglican, Roman Catholic, Presbyterian, Methodist) 59.5%, Muslim 4.4%, Hindu 1.3%, other 2%, unspecified 7.2%, none 25.7% (2011 est.)<br>
 
 **Age structure**<br>
-_0-14 years_: 17.63% (male 5,943,435/female 5,651,780)<br>
-_15-24 years_: 11.49% (male 3,860,435/female 3,692,398)<br>
-_25-54 years_: 39.67% (male 13,339,965/female 12,747,598)<br>
-_55-64 years_: 12.73% (male 4,139,378/female 4,234,701)<br>
-_65 years and over_: 18.48% (male 5,470,116/female 6,681,311) (2020 est.)<br>
+_0-14 years_: 16.91% (male 5,901,611/female 5,620,070)<br>
+_15-64 years_: 64.03% (male 21,997,962/female 21,628,742)<br>
+_65 years and over_: 19.06% (2023 est.) (male 5,953,187/female 7,036,912)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 57.7<br>
@@ -112,16 +110,16 @@ _male_: 39.6 years<br>
 _female_: 41.7 years (2020 est.)<br>
 
 **Population growth rate**<br>
-0.53% (2022 est.)<br>
+0.49% (2023 est.)<br>
 
 **Birth rate**<br>
-10.79 births/1,000 population (2022 est.)<br>
+10.8 births/1,000 population (2023 est.)<br>
 
 **Death rate**<br>
-9.07 deaths/1,000 population (2022 est.)<br>
+9.12 deaths/1,000 population (2023 est.)<br>
 
 **Net migration rate**<br>
-3.59 migrant(s)/1,000 population (2022 est.)<br>
+3.23 migrant(s)/1,000 population (2023 est.)<br>
 
 **Population distribution**<br>
 the core of the population lies in and around London, with significant clusters found in central Britain around Manchester and Liverpool, in the Scottish lowlands between Edinburgh and Glasgow, southern Wales in and around Cardiff, and far eastern Northern Ireland centered on Belfast<br>
@@ -136,11 +134,9 @@ _rate of urbanization_: 0.8% annual rate of change (2020-25 est.)<br>
 **Sex ratio**<br>
 _at birth_: 1.05 male(s)/female<br>
 _0-14 years_: 1.05 male(s)/female<br>
-_15-24 years_: 1.01 male(s)/female<br>
-_25-54 years_: 1.03 male(s)/female<br>
-_55-64 years_: 0.99 male(s)/female<br>
-_65 years and over_: 0.73 male(s)/female<br>
-_total population_: 0.99 male(s)/female (2022 est.)<br>
+_15-64 years_: 1.02 male(s)/female<br>
+_65 years and over_: 0.85 male(s)/female<br>
+_total population_: 0.99 male(s)/female (2023 est.)<br>
 
 **Mother's mean age at first birth**<br>
 29 years (2018 est.)<br>
@@ -150,17 +146,17 @@ _total population_: 0.99 male(s)/female (2022 est.)<br>
 7 deaths/100,000 live births (2017 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 3.82 deaths/1,000 live births<br>
-_male_: 4.27 deaths/1,000 live births<br>
-_female_: 3.35 deaths/1,000 live births (2022 est.)<br>
+_total_: 3.79 deaths/1,000 live births<br>
+_male_: 4.25 deaths/1,000 live births<br>
+_female_: 3.31 deaths/1,000 live births (2023 est.)<br>
 
 **Life expectancy at birth**<br>
-_total population_: 81.94 years<br>
-_male_: 79.95 years<br>
-_female_: 84.04 years (2022 est.)<br>
+_total population_: 82.05 years<br>
+_male_: 80.01 years<br>
+_female_: 84.21 years (2023 est.)<br>
 
 **Total fertility rate**<br>
-1.63 children born/woman (2022 est.)<br>
+1.63 children born/woman (2023 est.)<br>
 
 **Gross reproduction rate**<br>
 0.79 (2023 est.)<br>
@@ -744,7 +740,7 @@ Continuity Irish Republican Army; Islamic State of Iraq and ash-Sham (ISIS); New
 <p><em>UK-Argentina</em>: UK rejects sovereignty talks requested by Argentina, which still claims the Falkland Islands (Islas Malvinas) and South Georgia and the South Sandwich Islands</p> <p><em>UK-Argentina-Chile</em>: the UK’s territorial claim in Antarctica (British Antarctic Territory) overlaps Argentine claim and partially overlaps Chilean claim</p> <p><em>UK-Denmark</em>: the UK, Iceland, and Ireland dispute Denmark's claim that the Faroe Islands' continental shelf extends beyond 200 nm; Iceland, Norway, and the Faroe Islands signed an agreement in 2019 extending the Faroe Islands’ northern continental shelf area</p> <p><em>UK (Gibraltar)-Spain</em>: in 2002, Gibraltar residents voted overwhelmingly by referendum to reject any "shared sovereignty" arrangement between the UK and Spain; the Government of Gibraltar insisted on equal participation in talks between the two countries; Spain disapproved of UK plans to grant Gibraltar greater autonomy; London and Madrid reached a temporary agreement at the end of 2020 that allowed Gibraltar to be part of the passport-free Schengen zone; talks are expected to continue in 2022</p> <p><em>UK-Mauritius-Seychelles</em>: Mauritius and Seychelles claim the Chagos Archipelago (British Indian Ocean Territory); in 2001, the former inhabitants of the archipelago, evicted 1967 - 1973, were granted UK citizenship and the right of return, followed by Orders in Council in 2004 that banned rehabitation, a High Court ruling reversed the ban, a Court of Appeal refusal to hear the case, and a Law Lords' decision in 2008 denied the right of return; in addition, the UK created the world's largest marine protection area around the Chagos Islands prohibiting the extraction of any natural resources therein</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 21,904 (Iran), 15,615 (Eritrea), 11,371 (Sudan), 12,155 (Syria), 10,259 (Afghanistan), 8,009 (Pakistan), 7,699 (Iraq) (mid-year 2022); 161,400 (Ukraine) (as of 7 February 2023)<br>
+_refugees (country of origin)_: 21,904 (Iran), 15,615 (Eritrea), 11,371 (Sudan), 12,155 (Syria), 10,259 (Afghanistan), 8,009 (Pakistan), 7,699 (Iraq) (mid-year 2022); 163,500 (Ukraine) (as of 23 February 2023)<br>
 _stateless persons_: 5,483 (2022)<br>
 
 **Illicit drugs**<br>

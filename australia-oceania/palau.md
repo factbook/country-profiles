@@ -74,7 +74,7 @@ westernmost archipelago in the Caroline chain, consists of six island groups tot
 ## People and Society
 
 **Population**<br>
-21,695 (2022 est.)<br>
+21,779 (2023 est.)<br>
 
 **Nationality**<br>
 _noun_: Palauan(s)<br>
@@ -91,11 +91,9 @@ Palauan (official on most islands) 65.2%, other Micronesian 1.9%, English (offic
 Roman Catholic 45.3%, Protestant 34.9% (includes Evangelical 26.4%, Seventh Day Adventist 6.9%, Assembly of God .9%, Baptist .7%), Modekngei 5.7% (indigenous to Palau), Muslim 3%, Church of Jesus Christ 1.5%, other 9.7% (2015 est.)<br>
 
 **Age structure**<br>
-_0-14 years_: 18.68% (male 2,090/female 1,961)<br>
-_15-24 years_: 15.86% (male 1,723/female 1,716)<br>
-_25-54 years_: 45.33% (male 6,026/female 3,804)<br>
-_55-64 years_: 10.68% (male 853/female 1,463)<br>
-_65 years and over_: 9.45% (male 501/female 1,548) (2020 est.)<br>
+_0-14 years_: 17.49% (male 1,966/female 1,844)<br>
+_15-64 years_: 71.82% (male 8,665/female 6,976)<br>
+_65 years and over_: 10.69% (2023 est.) (male 581/female 1,747)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 43.8<br>
@@ -109,16 +107,16 @@ _male_: 32.9 years<br>
 _female_: 35.9 years (2020 est.)<br>
 
 **Population growth rate**<br>
-0.39% (2022 est.)<br>
+0.39% (2023 est.)<br>
 
 **Birth rate**<br>
-11.52 births/1,000 population (2022 est.)<br>
+11.57 births/1,000 population (2023 est.)<br>
 
 **Death rate**<br>
-8.25 deaths/1,000 population (2022 est.)<br>
+8.31 deaths/1,000 population (2023 est.)<br>
 
 **Net migration rate**<br>
-0.6 migrant(s)/1,000 population (2022 est.)<br>
+0.64 migrant(s)/1,000 population (2023 est.)<br>
 
 **Population distribution**<br>
 most of the population is located on the southern end of the main island of Babelthuap<br>
@@ -133,24 +131,22 @@ _rate of urbanization_: 1.59% annual rate of change (2020-25 est.)<br>
 **Sex ratio**<br>
 _at birth_: 1.07 male(s)/female<br>
 _0-14 years_: 1.07 male(s)/female<br>
-_15-24 years_: 1.01 male(s)/female<br>
-_25-54 years_: 1.66 male(s)/female<br>
-_55-64 years_: 0.64 male(s)/female<br>
-_65 years and over_: 0.27 male(s)/female<br>
-_total population_: 1.07 male(s)/female (2022 est.)<br>
+_15-64 years_: 1.24 male(s)/female<br>
+_65 years and over_: 0.33 male(s)/female<br>
+_total population_: 1.06 male(s)/female (2023 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 11.28 deaths/1,000 live births<br>
-_male_: 13.26 deaths/1,000 live births<br>
-_female_: 9.18 deaths/1,000 live births (2022 est.)<br>
+_total_: 11.04 deaths/1,000 live births<br>
+_male_: 12.99 deaths/1,000 live births<br>
+_female_: 8.98 deaths/1,000 live births (2023 est.)<br>
 
 **Life expectancy at birth**<br>
-_total population_: 74.64 years<br>
-_male_: 71.48 years<br>
-_female_: 78 years (2022 est.)<br>
+_total population_: 74.91 years<br>
+_male_: 71.76 years<br>
+_female_: 78.24 years (2023 est.)<br>
 
 **Total fertility rate**<br>
-1.7 children born/woman (2022 est.)<br>
+1.7 children born/woman (2023 est.)<br>
 
 **Gross reproduction rate**<br>
 0.82 (2023 est.)<br>

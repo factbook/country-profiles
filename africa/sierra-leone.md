@@ -79,7 +79,7 @@ rainfall along the coast can reach 495 cm (195 inches) a year, making it one of 
 ## People and Society
 
 **Population**<br>
-8,692,606 (2022 est.)<br>
+8,908,040 (2023 est.)<br>
 
 **Nationality**<br>
 _noun_: Sierra Leonean(s)<br>
@@ -98,11 +98,9 @@ Muslim 77.1%, Christian 22.9% (2019 est.)<br>
 <p>Sierra Leone’s youthful and growing population is driven by its high total fertility rate (TFR) of almost 4 children per woman as of 2022, which has declined little over the last two decades. Its elevated TFR is sustained by the continued desire for large families, the low level of contraceptive use, and the early start of childbearing. Despite its high TFR, Sierra Leone’s population growth is somewhat tempered by high infant, child, and maternal mortality rates that are among the world’s highest and are a result of poverty, a lack of potable water and sanitation, poor nutrition, limited access to quality health care services, and the prevalence of female genital cutting.</p> <p>Sierra Leone’s large youth cohort – about 60% of the population is under the age of 25 – continues to struggle with high levels of unemployment, which was one of the major causes of the country’s 1991-2002 civil war and remains a threat to stability today. Its estimated 60% youth unemployment rate is attributed to high levels of illiteracy and unskilled labor, a lack of private sector jobs, and low pay.</p> <p>Sierra Leone has been a source of and destination for refugees. Sierra Leone’s civil war internally displaced as many as 2 million people, or almost half the population, and forced almost another half million to seek refuge in neighboring countries (370,000 Sierra Leoneans fled to Guinea and 120,000 to Liberia). The UNHCR has helped almost 180,000 Sierra Leoneans to return home, while more than 90,000 others have repatriated on their own. Of the more than 65,000 Liberians who took refuge in Sierra Leone during their country’s civil war (1989-2003), about 50,000 have been voluntarily repatriated by the UNHCR and others have returned home independently.</p><br>
 
 **Age structure**<br>
-_0-14 years_: 41.38% (male 1,369,942/female 1,371,537)<br>
-_15-24 years_: 18.83% (male 610,396/female 636,880)<br>
-_25-54 years_: 32.21% (male 1,020,741/female 1,112,946)<br>
-_55-64 years_: 3.89% (male 121,733/female 135,664)<br>
-_65 years and over_: 3.7% (male 100,712/female 144,382) (2020 est.)<br>
+_0-14 years_: 40.54% (male 1,820,988/female 1,790,185)<br>
+_15-64 years_: 56.89% (male 2,476,286/female 2,591,155)<br>
+_65 years and over_: 2.58% (2023 est.) (male 111,937/female 117,489)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 74<br>
@@ -116,16 +114,16 @@ _male_: 18.5 years<br>
 _female_: 19.7 years (2020 est.)<br>
 
 **Population growth rate**<br>
-2.49% (2022 est.)<br>
+2.41% (2023 est.)<br>
 
 **Birth rate**<br>
-32.2 births/1,000 population (2022 est.)<br>
+31.49 births/1,000 population (2023 est.)<br>
 
 **Death rate**<br>
-9.32 deaths/1,000 population (2022 est.)<br>
+9.14 deaths/1,000 population (2023 est.)<br>
 
 **Net migration rate**<br>
-2.03 migrant(s)/1,000 population (2022 est.)<br>
+1.72 migrant(s)/1,000 population (2023 est.)<br>
 
 **Population distribution**<br>
 population clusters are found in the lower elevations of the south and west; the northern third of the country is less populated as shown on this population distribution map<br>
@@ -140,11 +138,9 @@ _rate of urbanization_: 3.02% annual rate of change (2020-25 est.)<br>
 **Sex ratio**<br>
 _at birth_: 1.03 male(s)/female<br>
 _0-14 years_: 1.02 male(s)/female<br>
-_15-24 years_: 0.97 male(s)/female<br>
-_25-54 years_: 0.97 male(s)/female<br>
-_55-64 years_: 1.25 male(s)/female<br>
-_65 years and over_: 0.83 male(s)/female<br>
-_total population_: 0.98 male(s)/female (2022 est.)<br>
+_15-64 years_: 0.96 male(s)/female<br>
+_65 years and over_: 0.95 male(s)/female<br>
+_total population_: 0.98 male(s)/female (2023 est.)<br>
 
 **Mother's mean age at first birth**<br>
 19.6 years (2019 est.)<br>
@@ -154,17 +150,17 @@ _total population_: 0.98 male(s)/female (2022 est.)<br>
 1,120 deaths/100,000 live births (2017 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 73.42 deaths/1,000 live births<br>
-_male_: 78.45 deaths/1,000 live births<br>
-_female_: 68.23 deaths/1,000 live births (2022 est.)<br>
+_total_: 72.3 deaths/1,000 live births<br>
+_male_: 77.24 deaths/1,000 live births<br>
+_female_: 67.22 deaths/1,000 live births (2023 est.)<br>
 
 **Life expectancy at birth**<br>
-_total population_: 58.76 years<br>
-_male_: 57.16 years<br>
-_female_: 60.41 years (2022 est.)<br>
+_total population_: 59.07 years<br>
+_male_: 57.48 years<br>
+_female_: 60.71 years (2023 est.)<br>
 
 **Total fertility rate**<br>
-3.8 children born/woman (2022 est.)<br>
+3.71 children born/woman (2023 est.)<br>
 
 **Gross reproduction rate**<br>
 1.83 (2023 est.)<br>

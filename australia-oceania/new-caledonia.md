@@ -72,7 +72,7 @@ consists of the main island of New Caledonia (one of the largest in the Pacific 
 ## People and Society
 
 **Population**<br>
-297,160 (2022 est.)<br>
+300,682 (2023 est.)<br>
 
 **Nationality**<br>
 _noun_: New Caledonian(s)<br>
@@ -89,11 +89,9 @@ _major-language sample(s)_: <br>The World Factbook, une source indispensable d'i
 Christian 85.2%, Muslim 2.8%, other 1.6%, unaffiliated 10.4% (2020 est.)<br>
 
 **Age structure**<br>
-_0-14 years_: 21.74% (male 32,227/female 30,819)<br>
-_15-24 years_: 15.63% (male 23,164/female 22,163)<br>
-_25-54 years_: 43.73% (male 63,968/female 62,856)<br>
-_55-64 years_: 9.06% (male 12,700/female 13,568)<br>
-_65 years and over_: 9.84% (male 12,552/female 15,992) (2020 est.)<br>
+_0-14 years_: 20.96% (male 32,199/female 30,825)<br>
+_15-64 years_: 68.45% (male 103,611/female 102,208)<br>
+_65 years and over_: 10.59% (2023 est.) (male 13,914/female 17,925)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 49.6<br>
@@ -107,16 +105,16 @@ _male_: 32.1 years<br>
 _female_: 33.7 years (2020 est.)<br>
 
 **Population growth rate**<br>
-1.19% (2022 est.)<br>
+1.17% (2023 est.)<br>
 
 **Birth rate**<br>
-14.13 births/1,000 population (2022 est.)<br>
+13.96 births/1,000 population (2023 est.)<br>
 
 **Death rate**<br>
-5.88 deaths/1,000 population (2022 est.)<br>
+5.92 deaths/1,000 population (2023 est.)<br>
 
 **Net migration rate**<br>
-3.66 migrant(s)/1,000 population (2022 est.)<br>
+3.62 migrant(s)/1,000 population (2023 est.)<br>
 <strong>note:</strong> there has been steady emigration from Wallis and Futuna to New Caledonia<br>
 
 **Population distribution**<br>
@@ -132,24 +130,22 @@ _rate of urbanization_: 1.72% annual rate of change (2020-25 est.)<br>
 **Sex ratio**<br>
 _at birth_: 1.05 male(s)/female<br>
 _0-14 years_: 1.04 male(s)/female<br>
-_15-24 years_: 1.04 male(s)/female<br>
-_25-54 years_: 1.02 male(s)/female<br>
-_55-64 years_: 0.94 male(s)/female<br>
-_65 years and over_: 0.59 male(s)/female<br>
-_total population_: 0.99 male(s)/female (2022 est.)<br>
+_15-64 years_: 1.01 male(s)/female<br>
+_65 years and over_: 0.78 male(s)/female<br>
+_total population_: 0.99 male(s)/female (2023 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 5 deaths/1,000 live births<br>
-_male_: 5.97 deaths/1,000 live births<br>
-_female_: 3.98 deaths/1,000 live births (2022 est.)<br>
+_total_: 4.92 deaths/1,000 live births<br>
+_male_: 5.88 deaths/1,000 live births<br>
+_female_: 3.91 deaths/1,000 live births (2023 est.)<br>
 
 **Life expectancy at birth**<br>
-_total population_: 78.83 years<br>
-_male_: 74.93 years<br>
-_female_: 82.92 years (2022 est.)<br>
+_total population_: 79.06 years<br>
+_male_: 75.19 years<br>
+_female_: 83.13 years (2023 est.)<br>
 
 **Total fertility rate**<br>
-1.86 children born/woman (2022 est.)<br>
+1.84 children born/woman (2023 est.)<br>
 
 **Gross reproduction rate**<br>
 0.9 (2023 est.)<br>

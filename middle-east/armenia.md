@@ -76,7 +76,7 @@ landlocked in the Lesser Caucasus Mountains; Sevana Lich (Lake Sevan) is the lar
 ## People and Society
 
 **Population**<br>
-3,000,756 (2022 est.)<br>
+2,989,091 (2023 est.)<br>
 
 **Nationality**<br>
 _noun_: Armenian(s)<br>
@@ -96,11 +96,9 @@ Armenian Apostolic 92.6%, Evangelical 1%, other 2.4%, none 1.1%, unspecified 2.9
 <p>Armenia’s population peaked at nearly 3.7 million in the late 1980s but has declined sharply since independence in 1991, to just over 3 million in 2021, largely as a result of its decreasing fertility rate, increasing death rate, and negative net emigration rate.  The total fertility rate (the average number of children born per woman) first fell below the 2.1 replacement level in the late 1990s and has hovered around 1.6-1.65 for over 15 years.  In an effort to increase the country’s birth rate, the government has expanded its child benefits, including a substantial increase in the lump sum payment for having a first and second child and a boost in the monthly payment to mothers of children under two.  Reversing net negative migration, however, remains the biggest obstacle to stabilizing or increasing population growth.  Emigration causes Armenia not only lose individuals but also the children they might have. </p> <p>The emigration of a significant number of working-age people combined with decreased fertility and increased life expectancy is causing the elderly share of Armenia’s population to grow.  The growing elderly population will put increasing pressure on the government’s ability to fund the pension system, health care, and other services for seniors.  Improving education, creating more jobs (particularly in the formal sector), promoting labor market participation, and increasing productivity would mitigate the financial impact of supporting a growing elderly population.</p> <p>Armenia has a long history of migration, some forced and some voluntary.  Its large diaspora is diverse and dispersed around the world.  Widely varying estimates suggest the Armenian diaspora may number anywhere from 5-9 million, easily outnumbering the number of Armenians living in Armenia.  Armenians forged communities abroad from ancient Egypt, Greece and Rome to Russia and to the Americas, where they excelled as craftsmen, merchants, and in other occupations. </p> <p>Several waves of Armenian migration occurred in the 20th century.  In the aftermath of the 1915 Armenian genocide, hundreds of thousands of survivors fled to communities in the Caucasus (including present day Armenia), Lebanon, Syria, Iran, Europe, and Russia and established new communities in Africa and the Americas.  In the 1930s, the Soviets deported thousands of Armenians to Siberia and Central Asia.  After World War II, the Soviets encouraged the Armenian diaspora in France, the Middle East, and Iran to return the Armenian homeland in order to encourage population growth after significant losses in the male workforce during the war. </p> Following Armenian independence in 1991, the economic downturn and high unemployment prompted hundreds of thousands of Armenians to seek better economic opportunities primarily in Russia but also in the US, former Soviet states, and Europe.  In the early 1990s, hundreds of thousands of Armenians fled from Azerbaijan to Armenia because of the ongoing Nagorno-Karbakh conflict, but many of them then emigrated again, mainly to Russia and the US.  When the economy became more stable in the late 1990s, permanent emigration slowed, but Armenians continued to seek temporary seasonal work in Russia.  The remittances families receive from relatives working abroad is vital to Armenian households and the country’s economy.<br>
 
 **Age structure**<br>
-_0-14 years_: 18.64% (male 297,320/female 265,969)<br>
-_15-24 years_: 11.63% (male 184,258/female 167,197)<br>
-_25-54 years_: 43.04% (male 639,101/female 661,421)<br>
-_55-64 years_: 14.08% (male 195,754/female 229,580)<br>
-_65 years and over_: 12.6% (male 154,117/female 226,607) (2020 est.)<br>
+_0-14 years_: 17.98% (male 282,055/female 255,313)<br>
+_15-64 years_: 67.53% (male 999,784/female 1,018,891)<br>
+_65 years and over_: 14.49% (2023 est.) (male 178,824/female 254,224)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 49.6<br>
@@ -114,16 +112,16 @@ _male_: 35.1 years<br>
 _female_: 38.3 years (2020 est.)<br>
 
 **Population growth rate**<br>
--0.38% (2022 est.)<br>
+-0.4% (2023 est.)<br>
 
 **Birth rate**<br>
-11.1 births/1,000 population (2022 est.)<br>
+10.8 births/1,000 population (2023 est.)<br>
 
 **Death rate**<br>
-9.51 deaths/1,000 population (2022 est.)<br>
+9.54 deaths/1,000 population (2023 est.)<br>
 
 **Net migration rate**<br>
--5.36 migrant(s)/1,000 population (2022 est.)<br>
+-5.28 migrant(s)/1,000 population (2023 est.)<br>
 
 **Population distribution**<br>
 most of the population is located in the northern half of the country; the capital of Yerevan is home to more than five times as many people as Gyumri, the second largest city in the country<br>
@@ -136,13 +134,11 @@ _rate of urbanization_: 0.23% annual rate of change (2020-25 est.)<br>
 1.095 million YEREVAN (capital) (2023)<br>
 
 **Sex ratio**<br>
-_at birth_: 1.08 male(s)/female<br>
-_0-14 years_: 1.11 male(s)/female<br>
-_15-24 years_: 1.11 male(s)/female<br>
-_25-54 years_: 0.99 male(s)/female<br>
-_55-64 years_: 0.85 male(s)/female<br>
-_65 years and over_: 0.65 male(s)/female<br>
-_total population_: 0.95 male(s)/female (2022 est.)<br>
+_at birth_: 1.07 male(s)/female<br>
+_0-14 years_: 1.1 male(s)/female<br>
+_15-64 years_: 0.98 male(s)/female<br>
+_65 years and over_: 0.7 male(s)/female<br>
+_total population_: 0.96 male(s)/female (2023 est.)<br>
 
 **Mother's mean age at first birth**<br>
 25.2 years (2019 est.)<br>
@@ -151,20 +147,20 @@ _total population_: 0.95 male(s)/female (2022 est.)<br>
 26 deaths/100,000 live births (2017 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 12.18 deaths/1,000 live births<br>
-_male_: 13.72 deaths/1,000 live births<br>
-_female_: 10.51 deaths/1,000 live births (2022 est.)<br>
+_total_: 11.89 deaths/1,000 live births<br>
+_male_: 13.43 deaths/1,000 live births<br>
+_female_: 10.24 deaths/1,000 live births (2023 est.)<br>
 
 **Life expectancy at birth**<br>
-_total population_: 76.13 years<br>
-_male_: 72.86 years<br>
-_female_: 79.68 years (2022 est.)<br>
+_total population_: 76.4 years<br>
+_male_: 73.13 years<br>
+_female_: 79.91 years (2023 est.)<br>
 
 **Total fertility rate**<br>
-1.65 children born/woman (2022 est.)<br>
+1.65 children born/woman (2023 est.)<br>
 
 **Gross reproduction rate**<br>
-0.79 (2023 est.)<br>
+0.8 (2023 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 57.1% (2015/16)<br>
@@ -284,9 +280,9 @@ _municipal solid waste generated annually_: 492,800 tons (2014 est.)<br>
 _fresh water lake(s)_: Lake Sevan - 1,360 sq km<br>
 
 **Total water withdrawal**<br>
-_municipal_: 616.4 million cubic meters (2017 est.)<br>
-_industrial_: 122.4 million cubic meters (2017 est.)<br>
-_agricultural_: 2.127 billion cubic meters (2017 est.)<br>
+_municipal_: 620 million cubic meters (2019 est.)<br>
+_industrial_: 120 million cubic meters (2019 est.)<br>
+_agricultural_: 2.13 billion cubic meters (2019 est.)<br>
 
 **Total renewable water resources**<br>
 7.77 billion cubic meters (2019 est.)<br>
@@ -673,9 +669,9 @@ Armenian Armed Forces: Armenian Army (includes land, air, air defense forces) (2
 **Military expenditures**<br>
 4.4% of GDP (2021 est.)<br>
 5% of GDP (2020 est.)<br>
-5.3% of GDP (2019 est.) (approximately $1.82 billion)<br>
-4.6% of GDP (2018 est.) (approximately 1.6 billion)<br>
-4.4% of GDP (2017 est.) (approximately $1.43 billion)<br>
+5.3% of GDP (2019 est.)<br>
+4.6% of GDP (2018 est.)<br>
+4.4% of GDP (2017 est.)<br>
 
 **Military and security service personnel strengths**<br>
 approximately 45,000 active troops (42,000 ground; 3,000 air/defense) (2022)<br>
@@ -684,7 +680,7 @@ approximately 45,000 active troops (42,000 ground; 3,000 air/defense) (2022)<br>
 the military's inventory includes mostly Russian and Soviet-era equipment (2022)<br>
 
 **Military service age and obligation**<br>
-18-27 for voluntary/contract (men and women) or compulsory (men) military service; contract military service is 3-12 months or 3 or 5 years; conscripts serve 24 months; men under the age of 36, who have not previously served as contract servicemen and are registered in the reserve, as well as women, regardless of whether they are registered in the reserve can be enrolled in contractual military service; all citizens aged 27 to 50 are registered in the military reserve and may be called to serve if mobilization is declared (2022)<br>
+18-27 for voluntary/contract (men and women) or compulsory (men) military service; contract military service is 3-12 months or 3 or 5 years; conscripts serve 24 months; men under the age of 36, who have not previously served as contract servicemen and are registered in the reserve, as well as women, regardless of whether they are registered in the reserve can be enrolled in contractual military service; all citizens aged 27 to 50 are registered in the military reserve and may be called to serve if mobilization is declared (2023)<br>
 <strong>note:</strong> as of 2021, conscripts comprised about half of the military's active personnel; as of 2018, women made up about 13% of the active duty military<br>
 
 **Military - note**<br>

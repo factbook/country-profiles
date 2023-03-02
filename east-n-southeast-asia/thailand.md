@@ -84,7 +84,7 @@ controls only land route from Asia to Malaysia and Singapore; ideas for the cons
 ## People and Society
 
 **Population**<br>
-69,648,117 (2022 est.)<br>
+69,794,997 (2023 est.)<br>
 
 **Nationality**<br>
 _noun_: Thai (singular and plural)<br>
@@ -105,11 +105,9 @@ Buddhist 94.6%, Muslim 4.3%, Christian 1%, other &lt;0.1%, none &lt;0.1% (2015 e
 <p>Thailand has experienced a substantial fertility decline since the 1960s largely due to the nationwide success of its voluntary family planning program.  In just one generation, the total fertility rate (TFR) shrank from 6.5 children per woman in 1960s to below the replacement level of 2.1 in the late 1980s.  Reduced fertility occurred among all segments of the Thai population, despite disparities between urban and rural areas in terms of income, education, and access to public services.  The country’s “reproductive revolution” gained momentum in the 1970s as a result of the government’s launch of an official population policy to reduce population growth, the introduction of new forms of birth control, and the assistance of foreign non-government organizations.  Contraceptive use rapidly increased as new ways were developed to deliver family planning services to Thailand’s then overwhelmingly rural population.  The contraceptive prevalence rate increased from just 14% in 1970 to 58% in 1981 and has remained about 80% since 2000. </p> <p>Thailand’s receptiveness to family planning reflects the predominant faith, Theravada Buddhism, which emphasizes individualism, personal responsibility, and independent decision-making.  Thai women have more independence and a higher status than women in many other developing countries and are not usually pressured by their husbands or other family members about family planning decisions.  Thailand’s relatively egalitarian society also does not have the son preference found in a number of other Asian countries; most Thai ideally want one child of each sex.</p> <p>Because of its low fertility rate, increasing life expectancy, and growing elderly population, Thailand has become an aging society that will face growing labor shortages.  The proportion of the population under 15 years of age has shrunk dramatically, the proportion of working-age individuals has peaked and is starting to decrease, and the proportion of elderly is growing rapidly.  In the short-term, Thailand will have to improve educational quality to increase the productivity of its workforce and to compete globally in skills-based industries.  An increasing reliance on migrant workers will be necessary to mitigate labor shortfalls.</p> <p>Thailand is a destination, transit, and source country for migrants. It has 3-4 million migrant workers as of 2017, mainly providing low-skilled labor in the construction, agriculture, manufacturing, services, and fishing and seafood processing sectors.  Migrant workers from other Southeast Asian countries with lower wages – primarily Burma and, to a lesser extent, Laos and Cambodia – have been coming to Thailand for decades to work in labor-intensive industries.  Many are undocumented and are vulnerable to human trafficking for forced labor, especially in the fisheries industry, or sexual exploitation.  A July 2017 migrant worker law stiffening fines on undocumented workers and their employers, prompted tens of thousands of migrants to go home.  Fearing a labor shortage, the Thai Government has postponed implementation of the law until January 2018 and is rapidly registering workers.  Thailand has also hosted ethnic minority refugees from Burma for more than 30 years; as of 2016, approximately 105,000 mainly Karen refugees from Burma were living in nine camps along the Thailand-Burma border.</p> <p>Thailand has a significant amount of internal migration, most often from rural areas to urban centers, where there are more job opportunities.  Low- and semi-skilled Thais also go abroad to work, mainly in Asia and a smaller number in the Middle East and Africa, primarily to more economically developed countries where they can earn higher wages.</p><br>
 
 **Age structure**<br>
-_0-14 years_: 16.45% (male 5,812,803/female 5,533,772)<br>
-_15-24 years_: 13.02% (male 4,581,622/female 4,400,997)<br>
-_25-54 years_: 45.69% (male 15,643,583/female 15,875,353)<br>
-_55-64 years_: 13.01% (male 4,200,077/female 4,774,801)<br>
-_65 years and over_: 11.82% (male 3,553,273/female 4,601,119) (2020 est.)<br>
+_0-14 years_: 16% (male 5,720,842/female 5,443,981)<br>
+_15-64 years_: 69.53% (male 23,797,302/female 24,734,505)<br>
+_65 years and over_: 14.47% (2023 est.) (male 4,500,808/female 5,597,559)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 43.5<br>
@@ -123,16 +121,16 @@ _male_: 37.8 years<br>
 _female_: 40.1 years (2020 est.)<br>
 
 **Population growth rate**<br>
-0.23% (2022 est.)<br>
+0.2% (2023 est.)<br>
 
 **Birth rate**<br>
-10.14 births/1,000 population (2022 est.)<br>
+10.04 births/1,000 population (2023 est.)<br>
 
 **Death rate**<br>
-7.76 deaths/1,000 population (2022 est.)<br>
+7.86 deaths/1,000 population (2023 est.)<br>
 
 **Net migration rate**<br>
--0.13 migrant(s)/1,000 population (2022 est.)<br>
+-0.22 migrant(s)/1,000 population (2023 est.)<br>
 
 **Population distribution**<br>
 highest population density is found in and around Bangkok; significant population clusters found througout large parts of the country, particularly north and northeast of Bangkok and in the extreme southern region of the country<br>
@@ -147,11 +145,9 @@ _rate of urbanization_: 1.43% annual rate of change (2020-25 est.)<br>
 **Sex ratio**<br>
 _at birth_: 1.05 male(s)/female<br>
 _0-14 years_: 1.05 male(s)/female<br>
-_15-24 years_: 1.04 male(s)/female<br>
-_25-54 years_: 0.97 male(s)/female<br>
-_55-64 years_: 0.89 male(s)/female<br>
-_65 years and over_: 0.68 male(s)/female<br>
-_total population_: 0.95 male(s)/female (2022 est.)<br>
+_15-64 years_: 0.96 male(s)/female<br>
+_65 years and over_: 0.8 male(s)/female<br>
+_total population_: 0.95 male(s)/female (2023 est.)<br>
 
 **Mother's mean age at first birth**<br>
 23.3 years (2009 est.)<br>
@@ -160,17 +156,17 @@ _total population_: 0.95 male(s)/female (2022 est.)<br>
 37 deaths/100,000 live births (2017 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 6.47 deaths/1,000 live births<br>
-_male_: 7.09 deaths/1,000 live births<br>
-_female_: 5.81 deaths/1,000 live births (2022 est.)<br>
+_total_: 6.36 deaths/1,000 live births<br>
+_male_: 6.99 deaths/1,000 live births<br>
+_female_: 5.71 deaths/1,000 live births (2023 est.)<br>
 
 **Life expectancy at birth**<br>
-_total population_: 77.66 years<br>
-_male_: 74.65 years<br>
-_female_: 80.83 years (2022 est.)<br>
+_total population_: 77.91 years<br>
+_male_: 74.92 years<br>
+_female_: 81.05 years (2023 est.)<br>
 
 **Total fertility rate**<br>
-1.54 children born/woman (2022 est.)<br>
+1.54 children born/woman (2023 est.)<br>
 
 **Gross reproduction rate**<br>
 0.75 (2023 est.)<br>
@@ -748,7 +744,7 @@ including the most recent in 2014, the military has attempted more than 20 coups
 <p><em>Thailand-Burma</em>: in 2016, Thailand expressed its interest in investing in Burma’s Hatgyi Dam project on the Salween River near the Thai-Burma border; the dam has the potential to supply electricity and water during the drought season; approximately 100,000 mostly Karen refugees fleeing civil strife, political upheaval, and economic stagnation in Burma live in nine remote camps in Thailand near the border</p> <p><em>Thailand-Cambodia</em>: Cambodia and Thailand dispute sections of their border; in 2011, Thailand and Cambodia resorted to arms in the dispute over the location of the boundary on the precipice surmounted by Preah Vihear temple ruins, awarded to Cambodia by ICJ decision in 1962 and part of a planned UN World Heritage site; in 2013, the International Court of Justice ruled that the land with the temple was Cambodian territory but that a nearby hill belonged to Thailand</p> <p><em>Thailand-Laos</em>: talks continue on completion of demarcation with Laos but disputes remain over several islands in the Mekong River</p> <p><em>Thailand-Malaysia</em>: separatist violence in Thailand's predominantly Malay-Muslim southern provinces prompt border closures and controls with Malaysia to stem insurgent activities; disputed areas are the Bukit Jeli area at the headwaters of the Golok River and the continental shelf boundary in the Gulf of Thailand</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 90,759 (Burma) (2022)<br>
+_refugees (country of origin)_: 90,617 (Burma) (refugees and asylum seekers) (2022)<br>
 _IDPs_: 41,000 (2021)<br>
 _stateless persons_: 566,900 (2022) (estimate represents stateless persons registered with the Thai Government; actual number may be as high as 3.5 million); note - about half of Thailand's northern hill tribe people do not have citizenship and make up the bulk of Thailand's stateless population; most lack documentation showing they or one of their parents were born in Thailand; children born to Burmese refugees are not eligible for Burmese or Thai citizenship and are stateless; most Chao Lay, maritime nomadic peoples, who travel from island to island in the Andaman Sea west of Thailand are also stateless; stateless Rohingya refugees from Burma are considered illegal migrants by Thai authorities and are detained in inhumane conditions or expelled; stateless persons are denied access to voting, property, education, employment, healthcare, and driving<br>
 <strong>note:</strong> Thai nationality was granted to more than 23,000 stateless persons between 2012 and 2016 and more than 18,000 between 2018 and 2021; in 2016, the Government of Thailand approved changes to its citizenship laws that could make 80,000 stateless persons eligible for citizenship, as part of its effort to achieve zero statelessness by 2024 (2021)<br>

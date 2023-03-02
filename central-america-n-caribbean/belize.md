@@ -74,7 +74,7 @@ only country in Central America without a coastline on the North Pacific Ocean<b
 ## People and Society
 
 **Population**<br>
-412,387 (2022 est.)<br>
+419,137 (2023 est.)<br>
 
 **Nationality**<br>
 _noun_: Belizean(s)<br>
@@ -95,11 +95,9 @@ Roman Catholic 40.1%, Protestant 31.5% (includes Pentecostal 8.4%, Seventh Day A
 <p>Migration continues to transform Belize's population. About 16% of Belizeans live abroad, while immigrants constitute approximately 15% of Belize's population. Belizeans seeking job and educational opportunities have preferred to emigrate to the United States rather than former colonizer Great Britain because of the United States' closer proximity and stronger trade ties with Belize. Belizeans also emigrate to Canada, Mexico, and English-speaking Caribbean countries. The emigration of a large share of Creoles (Afro-Belizeans) and the influx of Central American immigrants, mainly Guatemalans, Salvadorans, and Hondurans, has changed Belize's ethnic composition. Mestizos have become the largest ethnic group, and Belize now has more native Spanish speakers than English or Creole speakers, despite English being the official language. In addition, Central American immigrants are establishing new communities in rural areas, which contrasts with the urbanization trend seen in neighboring countries. Recently, Chinese, European, and North American immigrants have become more frequent.</p><p>Immigration accounts for an increasing share of Belize's population growth rate, which is steadily falling due to fertility decline. Belize's declining birth rate and its increased life expectancy are creating an aging population. As the elderly population grows and nuclear families replace extended households, Belize's government will be challenged to balance a rising demand for pensions, social services, and healthcare for its senior citizens with the need to reduce poverty and social inequality and to improve sanitation.</p><br>
 
 **Age structure**<br>
-_0-14 years_: 32.57% (male 66,454/female 63,700)<br>
-_15-24 years_: 19% (male 39,238/female 36,683)<br>
-_25-54 years_: 37.72% (male 73,440/female 77,300)<br>
-_55-64 years_: 6.18% (male 12,235/female 12,444)<br>
-_65 years and over_: 4.53% (male 8,781/female 9,323) (2020 est.)<br>
+_0-14 years_: 30.93% (male 66,160/female 63,478)<br>
+_15-64 years_: 64.15% (male 134,019/female 134,867)<br>
+_65 years and over_: 4.92% (2023 est.) (male 9,741/female 10,872)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 49.7<br>
@@ -113,16 +111,16 @@ _male_: 23 years<br>
 _female_: 24.8 years (2020 est.)<br>
 
 **Population growth rate**<br>
-1.64% (2022 est.)<br>
+1.61% (2023 est.)<br>
 
 **Birth rate**<br>
-21.28 births/1,000 population (2022 est.)<br>
+20.93 births/1,000 population (2023 est.)<br>
 
 **Death rate**<br>
-3.94 deaths/1,000 population (2022 est.)<br>
+3.89 deaths/1,000 population (2023 est.)<br>
 
 **Net migration rate**<br>
--0.96 migrant(s)/1,000 population (2022 est.)<br>
+-0.95 migrant(s)/1,000 population (2023 est.)<br>
 
 **Population distribution**<br>
 approximately 25% to 30% of the population lives in the former capital, Belize City; over half of the overall population is rural; population density is slightly higher in the north and east<br>
@@ -137,27 +135,25 @@ _rate of urbanization_: 2.3% annual rate of change (2020-25 est.)<br>
 **Sex ratio**<br>
 _at birth_: 1.05 male(s)/female<br>
 _0-14 years_: 1.04 male(s)/female<br>
-_15-24 years_: 1.12 male(s)/female<br>
-_25-54 years_: 0.93 male(s)/female<br>
-_55-64 years_: 0.96 male(s)/female<br>
-_65 years and over_: 0.78 male(s)/female<br>
-_total population_: 1 male(s)/female (2022 est.)<br>
+_15-64 years_: 0.99 male(s)/female<br>
+_65 years and over_: 0.9 male(s)/female<br>
+_total population_: 1 male(s)/female (2023 est.)<br>
 
 **Maternal mortality ratio**<br>
 36 deaths/100,000 live births (2017 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 11.15 deaths/1,000 live births<br>
-_male_: 12.36 deaths/1,000 live births<br>
-_female_: 9.88 deaths/1,000 live births (2022 est.)<br>
+_total_: 10.9 deaths/1,000 live births<br>
+_male_: 12.08 deaths/1,000 live births<br>
+_female_: 9.66 deaths/1,000 live births (2023 est.)<br>
 
 **Life expectancy at birth**<br>
-_total population_: 75.82 years<br>
-_male_: 74.23 years<br>
-_female_: 77.5 years (2022 est.)<br>
+_total population_: 76.08 years<br>
+_male_: 74.49 years<br>
+_female_: 77.75 years (2023 est.)<br>
 
 **Total fertility rate**<br>
-2.62 children born/woman (2022 est.)<br>
+2.59 children born/woman (2023 est.)<br>
 
 **Gross reproduction rate**<br>
 1.26 (2023 est.)<br>
@@ -673,8 +669,8 @@ Belize Defense Force (BDF): Army, Air Wing; Belize Coast Guard (2022)<br>
 1.2% of GDP (2022 est.)<br>
 1.3% of GDP (2021 est.)<br>
 1.5% of GDP (2020 est.)<br>
-1.4% of GDP (2019 est.) (approximately $35 million)<br>
-1.4% of GDP (2018 est.) (approximately $35 million)<br>
+1.4% of GDP (2019 est.)<br>
+1.4% of GDP (2018 est.)<br>
 
 **Military and security service personnel strengths**<br>
 approximately 1,300 BDF personnel; approximately 300 Belize Coast Guard (2022)<br>

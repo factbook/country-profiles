@@ -81,7 +81,7 @@ hot, dry, dust-laden ghibli is a southern wind lasting one to four days in sprin
 ## People and Society
 
 **Population**<br>
-7,137,931 (2022 est.)<br>
+7,252,573 (2023 est.)<br>
 <strong>note:</strong> immigrants make up just over 12% of the total population, according to UN data (2019)<br>
 
 **Nationality**<br>
@@ -103,11 +103,9 @@ Muslim (official; virtually all Sunni) 96.6%, Christian 2.7%, Buddhist &lt;1%, H
 <p>Despite continuing unrest, Libya remains a destination country for economic migrants. It is also a hub for transit migration to Europe because of its proximity to southern Europe and its lax border controls. Labor migrants have been drawn to Libya since the development of its oil sector in the 1960s. Until the latter part of the 1990s, most migrants to Libya were Arab (primarily Egyptians and Sudanese). However, international isolation stemming from Libya’s involvement in international terrorism and a perceived lack of support from Arab countries led QADHAFI in 1998 to adopt a decade-long pan-African policy that enabled large numbers of Sub-Saharan migrants to enter Libya without visas to work in the construction and agricultural industries. Although Sub-Saharan Africans provided a cheap labor source, they were poorly treated and were subjected to periodic mass expulsions.</p> <p>By the mid-2000s, domestic animosity toward African migrants and a desire to reintegrate into the international community motivated QADHAFI to impose entry visas on Arab and African immigrants and to agree to joint maritime patrols and migrant repatriations with Italy, the main recipient of illegal migrants departing Libya. As his regime neared collapse in 2011, QADHAFI reversed his policy of cooperating with Italy to curb illegal migration and sent boats loaded with migrants and asylum seekers to strain European resources. Libya’s 2011 revolution decreased immigration drastically and prompted nearly 800,000 migrants to flee to third countries, mainly Tunisia and Egypt, or to their countries of origin. The inflow of migrants declined in 2012 but returned to normal levels by 2013, despite continued hostility toward Sub-Saharan Africans and a less-inviting job market.</p> <p>While Libya is not an appealing destination for migrants, since 2014, transiting migrants – primarily from East and West Africa – continue to exploit its political instability and weak border controls and use it as a primary departure area to migrate across the central Mediterranean to Europe in growing numbers. In addition, approximately 135,000 people were displaced internally as of  August 2022 by fighting between armed groups in eastern and western Libya and, to a lesser extent, by inter-tribal clashes in the country’s south.</p><br>
 
 **Age structure**<br>
-_0-14 years_: 33.65% (male 1,184,755/female 1,134,084)<br>
-_15-24 years_: 15.21% (male 534,245/female 513,728)<br>
-_25-54 years_: 41.57% (male 1,491,461/female 1,373,086)<br>
-_55-64 years_: 5.52% (male 186,913/female 193,560)<br>
-_65 years and over_: 4.04% (male 129,177/female 149,526) (2020 est.)<br>
+_0-14 years_: 32.81% (male 1,213,850/female 1,166,039)<br>
+_15-64 years_: 62.8% (male 2,340,685/female 2,213,782)<br>
+_65 years and over_: 4.39% (2023 est.) (male 143,737/female 174,480)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 50.8<br>
@@ -121,16 +119,16 @@ _male_: 25.9 years<br>
 _female_: 25.7 years (2020 est.)<br>
 
 **Population growth rate**<br>
-1.65% (2022 est.)<br>
+1.54% (2023 est.)<br>
 
 **Birth rate**<br>
-21.56 births/1,000 population (2022 est.)<br>
+20.88 births/1,000 population (2023 est.)<br>
 
 **Death rate**<br>
-3.45 deaths/1,000 population (2022 est.)<br>
+3.45 deaths/1,000 population (2023 est.)<br>
 
 **Net migration rate**<br>
--1.61 migrant(s)/1,000 population (2022 est.)<br>
+-2.05 migrant(s)/1,000 population (2023 est.)<br>
 
 **Population distribution**<br>
 well over 90% of the population lives along the Mediterranean coast in and between Tripoli to the west and Al Bayda to the east; the interior remains vastly underpopulated due to the Sahara and lack of surface water as shown in this population distribution map<br>
@@ -145,27 +143,25 @@ _rate of urbanization_: 1.45% annual rate of change (2020-25 est.)<br>
 **Sex ratio**<br>
 _at birth_: 1.05 male(s)/female<br>
 _0-14 years_: 1.04 male(s)/female<br>
-_15-24 years_: 1.04 male(s)/female<br>
-_25-54 years_: 1.08 male(s)/female<br>
-_55-64 years_: 0.97 male(s)/female<br>
-_65 years and over_: 0.73 male(s)/female<br>
-_total population_: 1.04 male(s)/female (2022 est.)<br>
+_15-64 years_: 1.06 male(s)/female<br>
+_65 years and over_: 0.82 male(s)/female<br>
+_total population_: 1.04 male(s)/female (2023 est.)<br>
 
 **Maternal mortality ratio**<br>
 72 deaths/100,000 live births (2017 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 11.22 deaths/1,000 live births<br>
-_male_: 12.66 deaths/1,000 live births<br>
-_female_: 9.7 deaths/1,000 live births (2022 est.)<br>
+_total_: 10.95 deaths/1,000 live births<br>
+_male_: 12.36 deaths/1,000 live births<br>
+_female_: 9.48 deaths/1,000 live births (2023 est.)<br>
 
 **Life expectancy at birth**<br>
-_total population_: 77.18 years<br>
-_male_: 74.94 years<br>
-_female_: 79.53 years (2022 est.)<br>
+_total population_: 77.42 years<br>
+_male_: 75.2 years<br>
+_female_: 79.76 years (2023 est.)<br>
 
 **Total fertility rate**<br>
-3.09 children born/woman (2022 est.)<br>
+3.04 children born/woman (2023 est.)<br>
 
 **Gross reproduction rate**<br>
 1.48 (2023 est.)<br>
@@ -690,6 +686,6 @@ Ansar al-Sharia groups; Islamic State of Iraq and ash-Sham - Libya (ISIS-L); al-
 <p><em>Libya-Algeria:</em> dormant disputes include Libyan claims of about 32,000 sq km still reflected on its maps of southeastern Algeria<br><br><em>Libya-Chad:</em> various Chadian rebels from the Aozou region reside in southern Libya; Libyan forces clashed with Chadian rebels in September 2021</p> <p><em>Libya-Egypt</em>: none identified</p> <p><em>Libya-Niger</em>: the boundary is poorly defined but has never been disputed by either country</p> <p><em>Libya-Sudan</em>: none identified</p> <p><em>Libya-Tunisia</em>: none identified</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 19,827 (Sudan) (refugees and asylum seekers), 14,462 (Syria) (refugees and asylum seekers), 5,773 (Eritrea) (2022)<br>
+_refugees (country of origin)_: 19,764 (Sudan) (refugees and asylum seekers), 11,810 (Syria) (refugees and asylum seekers), 6,096 (Eritrea) (2023)<br>
 _IDPs_: 134,787 (conflict between pro-QADHAFI and anti-QADHAFI forces in 2011; post-QADHAFI tribal clashes 2014) (2022)<br>
 

@@ -70,7 +70,7 @@ landlocked; strategic location between China and India; controls several key Him
 ## People and Society
 
 **Population**<br>
-867,775 (2022 est.)<br>
+876,181 (2023 est.)<br>
 
 **Nationality**<br>
 _noun_: Bhutanese (singular and plural)<br>
@@ -86,11 +86,9 @@ Sharchopkha 28%, Dzongkha (official) 24%, Lhotshamkha 22%, other 26% (includes f
 Lamaistic Buddhist 75.3%, Indian- and Nepali-influenced Hinduism 22.1%, other 2.6% (2005 est.)<br>
 
 **Age structure**<br>
-_0-14 years_: 24.52% (male 98,113/female 93,740)<br>
-_15-24 years_: 17.77% (male 70,768/female 68,211)<br>
-_25-54 years_: 44.72% (male 184,500/female 165,374)<br>
-_55-64 years_: 6.39% (male 26,714/female 23,280)<br>
-_65 years and over_: 6.6% (male 26,797/female 24,821) (2020 est.)<br>
+_0-14 years_: 23.49% (male 105,317/female 100,526)<br>
+_15-64 years_: 69.97% (male 318,732/female 294,292)<br>
+_65 years and over_: 6.54% (2023 est.) (male 29,582/female 27,732)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 40.7<br>
@@ -104,16 +102,16 @@ _male_: 29.6 years<br>
 _female_: 28.6 years (2020 est.)<br>
 
 **Population growth rate**<br>
-0.97% (2022 est.)<br>
+0.96% (2023 est.)<br>
 
 **Birth rate**<br>
-15.94 births/1,000 population (2022 est.)<br>
+15.61 births/1,000 population (2023 est.)<br>
 
 **Death rate**<br>
-6.22 deaths/1,000 population (2022 est.)<br>
+6.05 deaths/1,000 population (2023 est.)<br>
 
 **Net migration rate**<br>
-0 migrant(s)/1,000 population (2022 est.)<br>
+0 migrant(s)/1,000 population (2023 est.)<br>
 
 **Urbanization**<br>
 _urban population_: 44.4% of total population (2023)<br>
@@ -125,27 +123,25 @@ _rate of urbanization_: 2.52% annual rate of change (2020-25 est.)<br>
 **Sex ratio**<br>
 _at birth_: 1.05 male(s)/female<br>
 _0-14 years_: 1.05 male(s)/female<br>
-_15-24 years_: 1.04 male(s)/female<br>
-_25-54 years_: 1.12 male(s)/female<br>
-_55-64 years_: 1.13 male(s)/female<br>
-_65 years and over_: 0.97 male(s)/female<br>
-_total population_: 1.08 male(s)/female (2022 est.)<br>
+_15-64 years_: 1.08 male(s)/female<br>
+_65 years and over_: 1.07 male(s)/female<br>
+_total population_: 1.07 male(s)/female (2023 est.)<br>
 
 **Maternal mortality ratio**<br>
 183 deaths/100,000 live births (2017 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 27.04 deaths/1,000 live births<br>
-_male_: 27.22 deaths/1,000 live births<br>
-_female_: 26.86 deaths/1,000 live births (2022 est.)<br>
+_total_: 25.61 deaths/1,000 live births<br>
+_male_: 25.86 deaths/1,000 live births<br>
+_female_: 25.34 deaths/1,000 live births (2023 est.)<br>
 
 **Life expectancy at birth**<br>
-_total population_: 72.31 years<br>
-_male_: 71.19 years<br>
-_female_: 73.49 years (2022 est.)<br>
+_total population_: 73.01 years<br>
+_male_: 71.84 years<br>
+_female_: 74.25 years (2023 est.)<br>
 
 **Total fertility rate**<br>
-1.79 children born/woman (2022 est.)<br>
+1.77 children born/woman (2023 est.)<br>
 
 **Gross reproduction rate**<br>
 0.86 (2023 est.)<br>

@@ -78,7 +78,7 @@ strategic location along Danish Straits linking Baltic and North Seas; Sweden ha
 ## People and Society
 
 **Population**<br>
-10,483,647 (2022 est.)<br>
+10,536,338 (2023 est.)<br>
 
 **Nationality**<br>
 _noun_: Swede(s)<br>
@@ -98,11 +98,9 @@ Church of Sweden (Lutheran) 57.6%, other (includes Roman Catholic, Orthodox, Bap
 <strong>note:</strong> estimates reflect registered members of faith communities eligible for state funding (not all religions are state-funded and not all people who identify with a particular religion are registered members) and the Church of Sweden<br>
 
 **Age structure**<br>
-_0-14 years_: 17.71% (male 928,413/female 878,028)<br>
-_15-24 years_: 10.8% (male 569,082/female 532,492)<br>
-_25-54 years_: 39.01% (male 2,016,991/female 1,962,617)<br>
-_55-64 years_: 11.9% (male 610,521/female 603,795)<br>
-_65 years and over_: 20.59% (male 974,410/female 1,126,142) (2020 est.)<br>
+_0-14 years_: 17.26% (male 936,274/female 882,347)<br>
+_15-64 years_: 62.05% (male 3,346,891/female 3,190,608)<br>
+_65 years and over_: 20.69% (2023 est.) (male 1,021,707/female 1,158,511)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 60.8<br>
@@ -116,16 +114,16 @@ _male_: 40.1 years<br>
 _female_: 42.1 years (2020 est.)<br>
 
 **Population growth rate**<br>
-0.5% (2022 est.)<br>
+0.51% (2023 est.)<br>
 
 **Birth rate**<br>
-10.83 births/1,000 population (2022 est.)<br>
+10.76 births/1,000 population (2023 est.)<br>
 
 **Death rate**<br>
-9.46 deaths/1,000 population (2022 est.)<br>
+9.5 deaths/1,000 population (2023 est.)<br>
 
 **Net migration rate**<br>
-3.6 migrant(s)/1,000 population (2022 est.)<br>
+3.79 migrant(s)/1,000 population (2023 est.)<br>
 
 **Population distribution**<br>
 most Swedes live in the south where the climate is milder and there is better connectivity to mainland Europe; population clusters are found all along the Baltic coast in the east; the interior areas of the north remain sparsely populated<br>
@@ -140,11 +138,9 @@ _rate of urbanization_: 0.89% annual rate of change (2020-25 est.)<br>
 **Sex ratio**<br>
 _at birth_: 1.06 male(s)/female<br>
 _0-14 years_: 1.06 male(s)/female<br>
-_15-24 years_: 1.1 male(s)/female<br>
-_25-54 years_: 1.04 male(s)/female<br>
-_55-64 years_: 1.02 male(s)/female<br>
-_65 years and over_: 0.69 male(s)/female<br>
-_total population_: 1.01 male(s)/female (2022 est.)<br>
+_15-64 years_: 1.05 male(s)/female<br>
+_65 years and over_: 0.88 male(s)/female<br>
+_total population_: 1.01 male(s)/female (2023 est.)<br>
 
 **Mother's mean age at first birth**<br>
 29.7 years (2020 est.)<br>
@@ -153,17 +149,17 @@ _total population_: 1.01 male(s)/female (2022 est.)<br>
 4 deaths/100,000 live births (2017 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 2.3 deaths/1,000 live births<br>
-_male_: 2.52 deaths/1,000 live births<br>
-_female_: 2.06 deaths/1,000 live births (2022 est.)<br>
+_total_: 2.28 deaths/1,000 live births<br>
+_male_: 2.5 deaths/1,000 live births<br>
+_female_: 2.05 deaths/1,000 live births (2023 est.)<br>
 
 **Life expectancy at birth**<br>
-_total population_: 82.7 years<br>
-_male_: 80.94 years<br>
-_female_: 84.58 years (2022 est.)<br>
+_total population_: 82.8 years<br>
+_male_: 81.05 years<br>
+_female_: 84.66 years (2023 est.)<br>
 
 **Total fertility rate**<br>
-1.67 children born/woman (2022 est.)<br>
+1.67 children born/woman (2023 est.)<br>
 
 **Gross reproduction rate**<br>
 0.81 (2023 est.)<br>
@@ -726,6 +722,6 @@ Islamic State of Iraq and ash-Sham (ISIS)<br>
 <p>none identified</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 113,213 (Syria), 26,857 (Afghanistan), 25,849 (Eritrea), 10,464 (Iraq), 9,315 (Somalia), 7,146 (Iran) (mid-year 2022); 50,740 (Ukraine) (as of 13 February 2023)<br>
+_refugees (country of origin)_: 113,213 (Syria), 26,857 (Afghanistan), 25,849 (Eritrea), 10,464 (Iraq), 9,315 (Somalia), 7,146 (Iran) (mid-year 2022); 52,325 (Ukraine) (as of 23 February 2023)<br>
 _stateless persons_: 46,515 (2022); note - the majority of stateless people are from the Middle East and Somalia<br>
 

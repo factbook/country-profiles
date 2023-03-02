@@ -83,7 +83,7 @@ the province of Cabinda is an exclave, separated from the rest of the country by
 ## People and Society
 
 **Population**<br>
-34,795,287 (2022 est.)<br>
+35,981,281 (2023 est.)<br>
 
 **Nationality**<br>
 _noun_: Angolan(s)<br>
@@ -102,11 +102,9 @@ Roman Catholic 41.1%, Protestant 38.1%, other 8.6%, none 12.3% (2014 est.)<br>
 <p>More than two decades after the end of Angola's 27-year civil war, the country still faces a variety of socioeconomic problems, including poverty, high maternal and child mortality, and illiteracy. Despite the country's rapid post-war economic growth based on oil production, about 30 percent of Angolans live below the poverty line and unemployment is widespread, especially among the large young-adult population. Only about 70% of the population is literate, and the rate drops to around 60% for women. The youthful population - about 48% are under the age of 15 as of 2022 - is expected to continue growing rapidly with a fertility rate of more than 5 children per woman and a low rate of contraceptive use. Fewer than half of women deliver their babies with the assistance of trained health care personnel, which contributes to Angola's high maternal mortality rate.</p> <p>Of the estimated 550,000 Angolans who fled their homeland during its civil war, most have returned home since 2002. In 2012, the UN assessed that conditions in Angola had been stable for several years and invoked a cessation of refugee status for Angolans. Following the cessation clause, some of those still in exile returned home voluntarily through UN repatriation programs, and others integrated into host countries.</p><br>
 
 **Age structure**<br>
-_0-14 years_: 47.83% (male 7,758,636/female 7,797,869)<br>
-_15-24 years_: 18.64% (male 2,950,999/female 3,109,741)<br>
-_25-54 years_: 27.8% (male 4,301,618/female 4,740,463)<br>
-_55-64 years_: 3.43% (male 523,517/female 591,249)<br>
-_65 years and over_: 2.3% (male 312,197/female 436,050) (2020 est.)<br>
+_0-14 years_: 47.18% (male 8,503,242/female 8,473,889)<br>
+_15-64 years_: 50.49% (male 8,730,015/female 9,435,581)<br>
+_65 years and over_: 2.33% (2023 est.) (male 350,059/female 488,495)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 91.5<br>
@@ -120,16 +118,16 @@ _male_: 15.4 years<br>
 _female_: 16.4 years (2020 est.)<br>
 
 **Population growth rate**<br>
-3.36% (2022 est.)<br>
+3.34% (2023 est.)<br>
 
 **Birth rate**<br>
-41.8 births/1,000 population (2022 est.)<br>
+41.42 births/1,000 population (2023 est.)<br>
 
 **Death rate**<br>
-8.01 deaths/1,000 population (2022 est.)<br>
+7.8 deaths/1,000 population (2023 est.)<br>
 
 **Net migration rate**<br>
--0.19 migrant(s)/1,000 population (2022 est.)<br>
+-0.19 migrant(s)/1,000 population (2023 est.)<br>
 
 **Population distribution**<br>
 most people live in the western half of the country; urban areas account for the highest concentrations of people, particularly the capital of Luanda as shown in this population distribution map<br>
@@ -144,11 +142,9 @@ _rate of urbanization_: 4.04% annual rate of change (2020-25 est.)<br>
 **Sex ratio**<br>
 _at birth_: 1.03 male(s)/female<br>
 _0-14 years_: 1 male(s)/female<br>
-_15-24 years_: 0.95 male(s)/female<br>
-_25-54 years_: 0.91 male(s)/female<br>
-_55-64 years_: 0.89 male(s)/female<br>
-_65 years and over_: 0.59 male(s)/female<br>
-_total population_: 0.95 male(s)/female (2022 est.)<br>
+_15-64 years_: 0.93 male(s)/female<br>
+_65 years and over_: 0.72 male(s)/female<br>
+_total population_: 0.96 male(s)/female (2023 est.)<br>
 
 **Mother's mean age at first birth**<br>
 19.4 years (2015/16 est.)<br>
@@ -158,17 +154,17 @@ _total population_: 0.95 male(s)/female (2022 est.)<br>
 241 deaths/100,000 live births (2017 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 58.86 deaths/1,000 live births<br>
-_male_: 64.11 deaths/1,000 live births<br>
-_female_: 53.46 deaths/1,000 live births (2022 est.)<br>
+_total_: 57.2 deaths/1,000 live births<br>
+_male_: 62.37 deaths/1,000 live births<br>
+_female_: 51.87 deaths/1,000 live births (2023 est.)<br>
 
 **Life expectancy at birth**<br>
-_total population_: 62.11 years<br>
-_male_: 60.05 years<br>
-_female_: 64.24 years (2022 est.)<br>
+_total population_: 62.51 years<br>
+_male_: 60.44 years<br>
+_female_: 64.65 years (2023 est.)<br>
 
 **Total fertility rate**<br>
-5.83 children born/woman (2022 est.)<br>
+5.76 children born/woman (2023 est.)<br>
 
 **Gross reproduction rate**<br>
 2.84 (2023 est.)<br>
@@ -297,9 +293,9 @@ Atlantic Ocean drainage: Congo (3,730,881 sq km)<br>Indian Ocean drainage: Zambe
 Congo Basin, Upper Kalahari-Cuvelai-Upper Zambezi Basin<br>
 
 **Total water withdrawal**<br>
-_municipal_: 319.5 million cubic meters (2017 est.)<br>
-_industrial_: 239.6 million cubic meters (2017 est.)<br>
-_agricultural_: 146.7 million cubic meters (2017 est.)<br>
+_municipal_: 320 million cubic meters (2019 est.)<br>
+_industrial_: 240 million cubic meters (2019 est.)<br>
+_agricultural_: 150 million cubic meters (2019 est.)<br>
 
 **Total renewable water resources**<br>
 148.4 billion cubic meters (2019 est.)<br>
@@ -712,9 +708,9 @@ Angolan Armed Forces (Forcas Armadas Angolanas, FAA): Army, Navy (Marinha de Gue
 **Military expenditures**<br>
 1.4% of GDP (2021 est.)<br>
 1.7% of GDP (2020 est.)<br>
-1.8% of GDP (2019 est.) (approximately $2.7 billion)<br>
-2.1% of GDP (2018 est.) (approximately $3.02 billion)<br>
-2.6% of GDP (2017 est.) (approximately $3.65 billion)<br>
+1.8% of GDP (2019 est.)<br>
+2.1% of GDP (2018 est.)<br>
+2.6% of GDP (2017 est.)<br>
 
 **Military and security service personnel strengths**<br>
 approximately 101,000 active troops (95,000 Army; 1,000 Navy; 5,000 Air Force); estimated 10,000 Rapid Reaction Police (2022)<br>
@@ -726,7 +722,7 @@ most Angolan military weapons and equipment are of Russian, Soviet, or Warsaw Pa
 20-45 years of age for compulsory and 18-45 years for voluntary military service for men (registration at age 18 is mandatory); 20-45 years of age for voluntary service for women; 2-year conscript service obligation; Angolan citizenship required; the Navy is entirely staffed with volunteers (2021)<br>
 
 **Military - note**<br>
-the Angolan Armed Forces were created in 1991 under the Bicesse Accords signed between the Angolan Government and the National Union for the Total Independence of Angola (UNITA) <br><br>the Angolan Armed Forces are responsible for external security but also have domestic security responsibilities, including border security, expulsion of irregular migrants, and small-scale actions against groups like the Front for the Liberation of the Enclave of Cabinda separatists in Cabinda (2022)<br>
+the Angolan Armed Forces were created in 1991 under the Bicesse Accords signed between the Angolan Government and the National Union for the Total Independence of Angola (UNITA); the current force is responsible for country&rsquo;s external defense but also has some domestic security responsibilities, including border protection, expulsion of irregular migrants, and small-scale counterinsurgency operations against groups like the Front for the Liberation of the Enclave of Cabinda separatists in Cabinda; the Army is one of the largest in the region with 6 infantry divisions spread amongst 6 military regions; it is also one of the better equipped, with a significant portion of its units being motorized and supported by approximately 300 Soviet-era tanks, largely acquired in the 1980s and 1990s; the Air Force is also one of the largest and best equipped in the region with a fleet of approximately 100 combat aircraft, plus a substantial inventory of transport aircraft and helicopter gunships; while naval modernization has received more attention in recent years, the Navy remains a small force of fast attack and coastal patrol craft (2023)<br>
 
 **Maritime threats**<br>
 the International Maritime Bureau reports the territorial waters of Angola are a risk for armed robbery against ships; in 2021, four attacks against commercial vessels were reported, a decrease from the six attacks in 2020; most of these occurred in the main port of Luanda while ships were berthed or at anchor<br>
@@ -737,7 +733,7 @@ the International Maritime Bureau reports the territorial waters of Angola are a
 <p><em>Angola-Democratic Republic of Congo (DRC): </em>DRC accuses Angola of shifting monuments<br><br><em>Angola-Namibia: </em>none identified<br><br><em>Angola-Republic of Congo:</em> (Kabinda Exclave) none identified<br><br><em>Angola-Zambia: </em>because the straight-line segments along the left bank (Zambian side) of the Cuando/Kwando River do not conform with the physical alignment of the unstable shoreline, Zambian residents in some areas have settled illegally on sections of shoreline that fall on the Angolan side of the boundary</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 23,155 (Democratic Republic of the Congo) (refugees and asylum seekers), 9,272 (Guinea), 6,357 (Cote d'Ivoire), 5,725 (Mauritania) (2022)<br>
+_refugees (country of origin)_: 23,155 (Democratic Republic of the Congo) (refugees and asylum seekers), 9,272 (Guinea), 6,357 (Cote d'Ivoire), 5,725 (Mauritania) (2023)<br>
 
 **Illicit drugs**<br>
 <p>used as a transshipment point for cocaine destined for Western Europe and other African states, particularly South Africa</p><br>

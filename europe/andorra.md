@@ -73,7 +73,7 @@ landlocked; straddles a number of important crossroads in the Pyrenees<br>
 ## People and Society
 
 **Population**<br>
-85,560 (2022 est.)<br>
+85,468 (2023 est.)<br>
 
 **Nationality**<br>
 _noun_: Andorran(s)<br>
@@ -91,11 +91,9 @@ Catalan (official) 35.7%, Castilian 43.2%, Portuguese 17.1%, French 8.9%, Englis
 Christian (predominantly Roman Catholic) 89.5, other 8.8%, unaffiliated 1.7% (2020 est.)<br>
 
 **Age structure**<br>
-_0-14 years_: 13.37% (male 5,901/female 5,551)<br>
-_15-24 years_: 10.16% (male 4,474/female 4,227)<br>
-_25-54 years_: 43.19% (male 18,857/female 18,131)<br>
-_55-64 years_: 15.91% (male 7,184/female 6,443)<br>
-_65 years and over_: 17.36% (male 7,544/female 7,323) (2020 est.)<br>
+_0-14 years_: 12.31% (male 5,426/female 5,096)<br>
+_15-64 years_: 68.17% (male 29,845/female 28,419)<br>
+_65 years and over_: 19.52% (2023 est.) (male 8,471/female 8,211)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 38.1<br>
@@ -109,16 +107,16 @@ _male_: 46.3 years<br>
 _female_: 46.1 years (2020 est.)<br>
 
 **Population growth rate**<br>
--0.1% (2022 est.)<br>
+-0.11% (2023 est.)<br>
 
 **Birth rate**<br>
-6.88 births/1,000 population (2022 est.)<br>
+6.87 births/1,000 population (2023 est.)<br>
 
 **Death rate**<br>
-7.92 deaths/1,000 population (2022 est.)<br>
+7.98 deaths/1,000 population (2023 est.)<br>
 
 **Net migration rate**<br>
-0 migrant(s)/1,000 population (2022 est.)<br>
+0 migrant(s)/1,000 population (2023 est.)<br>
 
 **Population distribution**<br>
 population is unevenly distributed and is concentrated in the seven urbanized valleys that make up the country's parishes (political administrative divisions)<br>
@@ -133,27 +131,25 @@ _rate of urbanization_: 0.11% annual rate of change (2020-25 est.)<br>
 **Sex ratio**<br>
 _at birth_: 1.07 male(s)/female<br>
 _0-14 years_: 1.06 male(s)/female<br>
-_15-24 years_: 1.04 male(s)/female<br>
-_25-54 years_: 1.05 male(s)/female<br>
-_55-64 years_: 1.1 male(s)/female<br>
-_65 years and over_: 0.9 male(s)/female<br>
-_total population_: 1.05 male(s)/female (2022 est.)<br>
+_15-64 years_: 1.05 male(s)/female<br>
+_65 years and over_: 1.03 male(s)/female<br>
+_total population_: 1.05 male(s)/female (2023 est.)<br>
 
 **Mother's mean age at first birth**<br>
 32.8 years (2019)<br>
 
 **Infant mortality rate**<br>
-_total_: 3.44 deaths/1,000 live births<br>
-_male_: 3.54 deaths/1,000 live births<br>
-_female_: 3.34 deaths/1,000 live births (2022 est.)<br>
+_total_: 3.39 deaths/1,000 live births<br>
+_male_: 3.49 deaths/1,000 live births<br>
+_female_: 3.27 deaths/1,000 live births (2023 est.)<br>
 
 **Life expectancy at birth**<br>
-_total population_: 83.42 years<br>
-_male_: 81.2 years<br>
-_female_: 85.79 years (2022 est.)<br>
+_total population_: 83.61 years<br>
+_male_: 81.4 years<br>
+_female_: 85.97 years (2023 est.)<br>
 
 **Total fertility rate**<br>
-1.45 children born/woman (2022 est.)<br>
+1.46 children born/woman (2023 est.)<br>
 
 **Gross reproduction rate**<br>
 0.7 (2023 est.)<br>

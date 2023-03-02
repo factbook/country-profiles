@@ -77,7 +77,7 @@ both the main area of the country and the Naxcivan exclave are landlocked<br>
 ## People and Society
 
 **Population**<br>
-10,353,296 (2022 est.)<br>
+10,420,515 (2023 est.)<br>
 
 **Nationality**<br>
 _noun_: Azerbaijani(s)<br>
@@ -100,11 +100,9 @@ Muslim 97.3% (predominantly Shia), Christian 2.6%, other &lt;0.1, unaffiliated &
 <p>Azerbaijan’s citizenry has over 80 ethnic groups. The far eastern part of the country has the highest population density, particularly in and around Baku. Apart from smaller urbanized areas, the rest of the country has a fairly light and evenly distributed population. Approximately 57% of the country’s inhabitants lives in urban areas.  While the population is continuing to grow, it is in the early stages of aging. The declining fertility rate – which has decreased from about 5.5 children per woman in the 1950s to less than the 2.1 replacement level in 2022 – combined with increasing life expectancy has resulted in the elderly making up a larger share of Azerbaijan’s populace. The percentage of elderly residents and the slowed growth and eventual shrinkage of the working-age population could put pressure on the country’s pension and healthcare systems. </p><br>
 
 **Age structure**<br>
-_0-14 years_: 22.84% (male 1,235,292/female 1,095,308)<br>
-_15-24 years_: 13.17% (male 714,718/female 629,494)<br>
-_25-54 years_: 45.29% (male 2,291,600/female 2,330,843)<br>
-_55-64 years_: 11.41% (male 530,046/female 634,136)<br>
-_65 years and over_: 7.29% (male 289,604/female 454,769) (2020 est.)<br>
+_0-14 years_: 21.78% (male 1,192,608/female 1,077,302)<br>
+_15-64 years_: 69.64% (male 3,619,341/female 3,637,494)<br>
+_65 years and over_: 8.58% (2023 est.) (male 356,184/female 537,586)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 44.2<br>
@@ -118,16 +116,16 @@ _male_: 31.1 years<br>
 _female_: 34.2 years (2020 est.)<br>
 
 **Population growth rate**<br>
-0.67% (2022 est.)<br>
+0.63% (2023 est.)<br>
 
 **Birth rate**<br>
-13.59 births/1,000 population (2022 est.)<br>
+13.2 births/1,000 population (2023 est.)<br>
 
 **Death rate**<br>
-6.92 deaths/1,000 population (2022 est.)<br>
+6.92 deaths/1,000 population (2023 est.)<br>
 
 **Net migration rate**<br>
-0 migrant(s)/1,000 population (2022 est.)<br>
+0 migrant(s)/1,000 population (2023 est.)<br>
 
 **Population distribution**<br>
 highest population density is found in the far eastern area of the country, in and around Baku; apart from smaller urbanized areas, the rest of the country has a fairly light and evenly distributed population<br>
@@ -143,11 +141,9 @@ _rate of urbanization_: 1.38% annual rate of change (2020-25 est.)<br>
 **Sex ratio**<br>
 _at birth_: 1.06 male(s)/female<br>
 _0-14 years_: 1.11 male(s)/female<br>
-_15-24 years_: 1.15 male(s)/female<br>
-_25-54 years_: 0.99 male(s)/female<br>
-_55-64 years_: 0.82 male(s)/female<br>
-_65 years and over_: 0.49 male(s)/female<br>
-_total population_: 0.98 male(s)/female (2022 est.)<br>
+_15-64 years_: 1 male(s)/female<br>
+_65 years and over_: 0.66 male(s)/female<br>
+_total population_: 0.98 male(s)/female (2023 est.)<br>
 
 **Mother's mean age at first birth**<br>
 24 years (2019 est.)<br>
@@ -156,17 +152,17 @@ _total population_: 0.98 male(s)/female (2022 est.)<br>
 26 deaths/100,000 live births (2017 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 23.51 deaths/1,000 live births<br>
-_male_: 24.62 deaths/1,000 live births<br>
-_female_: 22.33 deaths/1,000 live births (2022 est.)<br>
+_total_: 22.93 deaths/1,000 live births<br>
+_male_: 24.02 deaths/1,000 live births<br>
+_female_: 21.77 deaths/1,000 live births (2023 est.)<br>
 
 **Life expectancy at birth**<br>
-_total population_: 74.15 years<br>
-_male_: 71.08 years<br>
-_female_: 77.41 years (2022 est.)<br>
+_total population_: 74.42 years<br>
+_male_: 71.36 years<br>
+_female_: 77.66 years (2023 est.)<br>
 
 **Total fertility rate**<br>
-1.86 children born/woman (2022 est.)<br>
+1.86 children born/woman (2023 est.)<br>
 
 **Gross reproduction rate**<br>
 0.9 (2023 est.)<br>
@@ -690,9 +686,9 @@ Azerbaijan Armed Forces: Land Forces (Combined Arms Army), Air Forces, Navy Forc
 **Military expenditures**<br>
 5.2% of GDP (2021 est.)<br>
 5.4% of GDP (2020 est.)<br>
-3.8% of GDP (2019 est.) (approximately $3.4 billion)<br>
-3.6% of GDP (2018 est.) (approximately $3.2 billion)<br>
-3.8% of GDP (2017 est.) (approximately $3.26 billion)<br>
+3.8% of GDP (2019 est.)<br>
+3.6% of GDP (2018 est.)<br>
+3.8% of GDP (2017 est.)<br>
 
 **Military and security service personnel strengths**<br>
 information varies; approximately 65,000 active armed forces (55,000 Army; 2,000 Navy; 8,000 Air Force); approximately 15,000 Ministry of Internal Affairs troops (2022)<br>

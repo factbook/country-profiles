@@ -72,7 +72,7 @@ a flat, riverless island renowned for its white sand beaches; its tropical clima
 ## People and Society
 
 **Population**<br>
-122,320 (2022 est.)<br>
+123,702 (2023 est.)<br>
 
 **Nationality**<br>
 _noun_: Aruban(s)<br>
@@ -89,11 +89,9 @@ Papiamento (official) (a creole language that is a mixture of Portuguese, Spanis
 Roman Catholic 75.3%, Protestant 4.9% (includes Methodist 0.9%, Adventist 0.9%, Anglican 0.4%, other Protestant 2.7%), Jehovah's Witness 1.7%, other 12%, none 5.5%, unspecified 0.5% (2010 est.)<br>
 
 **Age structure**<br>
-_0-14 years_: 17.55% (male 10,524/female 10,437)<br>
-_15-24 years_: 12.06% (male 7,231/female 7,175)<br>
-_25-54 years_: 40.54% (male 23,387/female 25,029)<br>
-_55-64 years_: 14.79% (male 8,285/female 9,383)<br>
-_65 years and over_: 15.05% (male 7,064/female 10,913) (2020 est.)<br>
+_0-14 years_: 17.32% (male 10,745/female 10,677)<br>
+_15-64 years_: 66.11% (male 39,490/female 42,284)<br>
+_65 years and over_: 16.58% (2023 est.) (male 8,237/female 12,269)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 47.8<br>
@@ -107,16 +105,16 @@ _male_: 38.2 years<br>
 _female_: 41.5 years (2020 est.)<br>
 
 **Population growth rate**<br>
-1.14% (2022 est.)<br>
+1.11% (2023 est.)<br>
 
 **Birth rate**<br>
-11.82 births/1,000 population (2022 est.)<br>
+11.69 births/1,000 population (2023 est.)<br>
 
 **Death rate**<br>
-8.62 deaths/1,000 population (2022 est.)<br>
+8.69 deaths/1,000 population (2023 est.)<br>
 
 **Net migration rate**<br>
-8.18 migrant(s)/1,000 population (2022 est.)<br>
+8.08 migrant(s)/1,000 population (2023 est.)<br>
 
 **Population distribution**<br>
 most residents live in or around Oranjestad and San Nicolaas; most settlments tend to be located on the less mountainous western side of the island<br>
@@ -131,24 +129,22 @@ _rate of urbanization_: 0.77% annual rate of change (2020-25 est.)<br>
 **Sex ratio**<br>
 _at birth_: 1.02 male(s)/female<br>
 _0-14 years_: 1.01 male(s)/female<br>
-_15-24 years_: 1 male(s)/female<br>
-_25-54 years_: 0.94 male(s)/female<br>
-_55-64 years_: 0.87 male(s)/female<br>
-_65 years and over_: 0.52 male(s)/female<br>
-_total population_: 0.9 male(s)/female (2022 est.)<br>
+_15-64 years_: 0.93 male(s)/female<br>
+_65 years and over_: 0.67 male(s)/female<br>
+_total population_: 0.9 male(s)/female (2023 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 12.09 deaths/1,000 live births<br>
-_male_: 16.46 deaths/1,000 live births<br>
-_female_: 7.63 deaths/1,000 live births (2022 est.)<br>
+_total_: 11.79 deaths/1,000 live births<br>
+_male_: 16.04 deaths/1,000 live births<br>
+_female_: 7.45 deaths/1,000 live births (2023 est.)<br>
 
 **Life expectancy at birth**<br>
-_total population_: 78.01 years<br>
-_male_: 74.93 years<br>
-_female_: 81.15 years (2022 est.)<br>
+_total population_: 78.25 years<br>
+_male_: 75.19 years<br>
+_female_: 81.37 years (2023 est.)<br>
 
 **Total fertility rate**<br>
-1.83 children born/woman (2022 est.)<br>
+1.82 children born/woman (2023 est.)<br>
 
 **Gross reproduction rate**<br>
 0.9 (2023 est.)<br>

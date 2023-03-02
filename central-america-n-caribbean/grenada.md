@@ -72,7 +72,7 @@ the administration of the islands of the Grenadines group is divided between Sai
 ## People and Society
 
 **Population**<br>
-113,949 (2022 est.)<br>
+114,299 (2023 est.)<br>
 
 **Nationality**<br>
 _noun_: Grenadian(s)<br>
@@ -88,11 +88,9 @@ English (official), French patois<br>
 Protestant 49.2% (includes Pentecostal 17.2%, Seventh Day Adventist 13.2%, Anglican 8.5%, Baptist 3.2%, Church of God 2.4%, Evangelical 1.9%, Methodist 1.6%, other 1.2%), Roman Catholic 36%, Jehovah's Witness 1.2%, Rastafarian 1.2%, other 5.5%, none 5.7%, unspecified 1.3% (2011 est.)<br>
 
 **Age structure**<br>
-_0-14 years_: 23.23% (male 13,709/female 12,564)<br>
-_15-24 years_: 14.14% (male 8,034/female 7,959)<br>
-_25-54 years_: 40.05% (male 23,104/female 22,187)<br>
-_55-64 years_: 11.69% (male 6,734/female 6,490)<br>
-_65 years and over_: 10.89% (male 5,774/female 6,539) (2020 est.)<br>
+_0-14 years_: 22.23% (male 13,261/female 12,153)<br>
+_15-64 years_: 65.51% (male 38,112/female 36,765)<br>
+_65 years and over_: 12.26% (2023 est.) (male 6,630/female 7,378)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 51.3<br>
@@ -106,16 +104,16 @@ _male_: 33.1 years<br>
 _female_: 33.4 years (2020 est.)<br>
 
 **Population growth rate**<br>
-0.32% (2022 est.)<br>
+0.29% (2023 est.)<br>
 
 **Birth rate**<br>
-13.94 births/1,000 population (2022 est.)<br>
+13.61 births/1,000 population (2023 est.)<br>
 
 **Death rate**<br>
-8.31 deaths/1,000 population (2022 est.)<br>
+8.34 deaths/1,000 population (2023 est.)<br>
 
 **Net migration rate**<br>
--2.43 migrant(s)/1,000 population (2022 est.)<br>
+-2.34 migrant(s)/1,000 population (2023 est.)<br>
 
 **Population distribution**<br>
 approximately one-third of the population is found in the capital of St. George's; the island's population is concentrated along the coast<br>
@@ -130,27 +128,25 @@ _rate of urbanization_: 0.86% annual rate of change (2020-25 est.)<br>
 **Sex ratio**<br>
 _at birth_: 1.1 male(s)/female<br>
 _0-14 years_: 1.09 male(s)/female<br>
-_15-24 years_: 1.02 male(s)/female<br>
-_25-54 years_: 1.05 male(s)/female<br>
-_55-64 years_: 1.04 male(s)/female<br>
-_65 years and over_: 0.69 male(s)/female<br>
-_total population_: 1.03 male(s)/female (2022 est.)<br>
+_15-64 years_: 1.04 male(s)/female<br>
+_65 years and over_: 0.9 male(s)/female<br>
+_total population_: 1.03 male(s)/female (2023 est.)<br>
 
 **Maternal mortality ratio**<br>
 25 deaths/100,000 live births (2017 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 9.4 deaths/1,000 live births<br>
-_male_: 8.94 deaths/1,000 live births<br>
-_female_: 9.9 deaths/1,000 live births (2022 est.)<br>
+_total_: 9.2 deaths/1,000 live births<br>
+_male_: 8.77 deaths/1,000 live births<br>
+_female_: 9.68 deaths/1,000 live births (2023 est.)<br>
 
 **Life expectancy at birth**<br>
-_total population_: 75.74 years<br>
-_male_: 73.13 years<br>
-_female_: 78.6 years (2022 est.)<br>
+_total population_: 76 years<br>
+_male_: 73.41 years<br>
+_female_: 78.84 years (2023 est.)<br>
 
 **Total fertility rate**<br>
-1.93 children born/woman (2022 est.)<br>
+1.92 children born/woman (2023 est.)<br>
 
 **Gross reproduction rate**<br>
 0.91 (2023 est.)<br>

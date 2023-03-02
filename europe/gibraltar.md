@@ -65,7 +65,7 @@ occasional droughts; no streams or large bodies of water on the peninsula (all p
 ## People and Society
 
 **Population**<br>
-29,573 (2022 est.)<br>
+29,629 (2023 est.)<br>
 
 **Nationality**<br>
 _noun_: Gibraltarian(s)<br>
@@ -82,11 +82,9 @@ English (used in schools and for official purposes), Spanish, Italian, Portugues
 Roman Catholic 72.1%, Church of England 7.7%, other Christian 3.8%, Muslim 3.6%, Jewish 2.4%, Hindu 2%, other 1.1%, none 7.1%, unspecified 0.1% (2012 est.)<br>
 
 **Age structure**<br>
-_0-14 years_: 20.24% (male 3,080/female 2,907)<br>
-_15-24 years_: 13.07% (male 2,000/female 1,866)<br>
-_25-54 years_: 41.28% (male 6,289/female 5,922)<br>
-_55-64 years_: 8.71% (male 1,082/female 1,495)<br>
-_65 years and over_: 16.7% (male 2,378/female 2,562) (2020 est.)<br>
+_0-14 years_: 19.99% (male 3,034/female 2,888)<br>
+_15-64 years_: 62.62% (male 9,357/female 9,197)<br>
+_65 years and over_: 17.39% (2023 est.) (male 2,523/female 2,630)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 60.1<br>
@@ -100,16 +98,16 @@ _male_: 34.4 years<br>
 _female_: 36.6 years (2020 est.)<br>
 
 **Population growth rate**<br>
-0.19% (2022 est.)<br>
+0.19% (2023 est.)<br>
 
 **Birth rate**<br>
-13.93 births/1,000 population (2022 est.)<br>
+13.84 births/1,000 population (2023 est.)<br>
 
 **Death rate**<br>
-8.76 deaths/1,000 population (2022 est.)<br>
+8.74 deaths/1,000 population (2023 est.)<br>
 
 **Net migration rate**<br>
--3.25 migrant(s)/1,000 population (2022 est.)<br>
+-3.24 migrant(s)/1,000 population (2023 est.)<br>
 
 **Urbanization**<br>
 _urban population_: 100% of total population (2023)<br>
@@ -121,24 +119,22 @@ _rate of urbanization_: 0.45% annual rate of change (2015-20 est.)<br>
 **Sex ratio**<br>
 _at birth_: 1.05 male(s)/female<br>
 _0-14 years_: 1.05 male(s)/female<br>
-_15-24 years_: 1.06 male(s)/female<br>
-_25-54 years_: 1.05 male(s)/female<br>
-_55-64 years_: 0.79 male(s)/female<br>
-_65 years and over_: 0.95 male(s)/female<br>
-_total population_: 1.02 male(s)/female (2022 est.)<br>
+_15-64 years_: 1.02 male(s)/female<br>
+_65 years and over_: 0.96 male(s)/female<br>
+_total population_: 1.01 male(s)/female (2023 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 6.25 deaths/1,000 live births<br>
-_male_: 7.06 deaths/1,000 live births<br>
-_female_: 5.41 deaths/1,000 live births (2022 est.)<br>
+_total_: 6.13 deaths/1,000 live births<br>
+_male_: 6.92 deaths/1,000 live births<br>
+_female_: 5.3 deaths/1,000 live births (2023 est.)<br>
 
 **Life expectancy at birth**<br>
-_total population_: 80.42 years<br>
-_male_: 77.58 years<br>
-_female_: 83.41 years (2022 est.)<br>
+_total population_: 80.65 years<br>
+_male_: 77.82 years<br>
+_female_: 83.62 years (2023 est.)<br>
 
 **Total fertility rate**<br>
-1.9 children born/woman (2022 est.)<br>
+1.9 children born/woman (2023 est.)<br>
 
 **Gross reproduction rate**<br>
 0.93 (2023 est.)<br>

@@ -76,7 +76,7 @@ close to primary Middle Eastern petroleum sources; strategic location in Persian
 ## People and Society
 
 **Population**<br>
-1,540,558 (2022 est.)<br>
+1,553,886 (2023 est.)<br>
 <strong>note:</strong> immigrants make up approximately 45% of the total population, according to UN data (2019)<br>
 
 **Nationality**<br>
@@ -94,11 +94,9 @@ _major-language sample(s)_: <br>كتاب حقائق العالم، المصدر 
 Muslim 73.7%, Christian 9.3%, Jewish 0.1%, other 16.9% (2017 est.)<br>
 
 **Age structure**<br>
-_0-14 years_: 18.45% (male 141,039/female 136,687)<br>
-_15-24 years_: 15.16% (male 129,310/female 98,817)<br>
-_25-54 years_: 56.14% (male 550,135/female 294,778)<br>
-_55-64 years_: 6.89% (male 64,761/female 38,870)<br>
-_65 years and over_: 3.36% (male 25,799/female 24,807) (2020 est.)<br>
+_0-14 years_: 18.14% (male 142,866/female 139,083)<br>
+_15-64 years_: 77.83% (male 759,539/female 449,848)<br>
+_65 years and over_: 4.03% (2023 est.) (male 32,162/female 30,388)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 31.3<br>
@@ -112,16 +110,16 @@ _male_: 34.4 years<br>
 _female_: 30.3 years (2020 est.)<br>
 
 **Population growth rate**<br>
-0.88% (2022 est.)<br>
+0.85% (2023 est.)<br>
 
 **Birth rate**<br>
-12.4 births/1,000 population (2022 est.)<br>
+12.3 births/1,000 population (2023 est.)<br>
 
 **Death rate**<br>
-2.82 deaths/1,000 population (2022 est.)<br>
+2.83 deaths/1,000 population (2023 est.)<br>
 
 **Net migration rate**<br>
--0.82 migrant(s)/1,000 population (2022 est.)<br>
+-0.99 migrant(s)/1,000 population (2023 est.)<br>
 
 **Population distribution**<br>
 smallest population of the Gulf States, but urbanization rate exceeds 90%; largest settlement concentration is found on the far northern end of the island in and around Manamah and Al Muharraq<br>
@@ -136,27 +134,25 @@ _rate of urbanization_: 1.99% annual rate of change (2020-25 est.)<br>
 **Sex ratio**<br>
 _at birth_: 1.03 male(s)/female<br>
 _0-14 years_: 1.03 male(s)/female<br>
-_15-24 years_: 1.29 male(s)/female<br>
-_25-54 years_: 1.86 male(s)/female<br>
-_55-64 years_: 1.61 male(s)/female<br>
-_65 years and over_: 0.83 male(s)/female<br>
-_total population_: 1.52 male(s)/female (2022 est.)<br>
+_15-64 years_: 1.69 male(s)/female<br>
+_65 years and over_: 1.06 male(s)/female<br>
+_total population_: 1.51 male(s)/female (2023 est.)<br>
 
 **Maternal mortality ratio**<br>
 14 deaths/100,000 live births (2017 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 10.19 deaths/1,000 live births<br>
-_male_: 11.97 deaths/1,000 live births<br>
-_female_: 8.37 deaths/1,000 live births (2022 est.)<br>
+_total_: 9.98 deaths/1,000 live births<br>
+_male_: 11.65 deaths/1,000 live births<br>
+_female_: 8.26 deaths/1,000 live births (2023 est.)<br>
 
 **Life expectancy at birth**<br>
-_total population_: 79.9 years<br>
-_male_: 77.63 years<br>
-_female_: 82.24 years (2022 est.)<br>
+_total population_: 80.13 years<br>
+_male_: 77.87 years<br>
+_female_: 82.45 years (2023 est.)<br>
 
 **Total fertility rate**<br>
-1.67 children born/woman (2022 est.)<br>
+1.66 children born/woman (2023 est.)<br>
 
 **Gross reproduction rate**<br>
 0.82 (2023 est.)<br>
@@ -668,9 +664,9 @@ Bahrain Defense Force (BDF): Royal Bahraini Army (includes the Royal Guard), Roy
 **Military expenditures**<br>
 3.6% of GDP (2021 est.)<br>
 4.2% of GDP (2020 est.)<br>
-4% of GDP (2019 est.) (approximately $2.09 billion)<br>
-4% of GDP (2018 est.) (approximately $2.08 billion)<br>
-4.2% of GDP (2017 est.) (approximately $2.18 billion)<br>
+4% of GDP (2019 est.)<br>
+4% of GDP (2018 est.)<br>
+4.2% of GDP (2017 est.)<br>
 
 **Military and security service personnel strengths**<br>
 information varies; approximately 10,000 active personnel (7,500 Army; 1,000 Navy; 1,500 Air Force); approximately 3,000 National Guard (2022)<br>

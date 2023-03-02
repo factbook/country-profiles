@@ -75,7 +75,7 @@ strategic location bordering China, South Korea, and Russia; mountainous interio
 ## People and Society
 
 **Population**<br>
-25,955,138 (2022 est.)<br>
+26,072,217 (2023 est.)<br>
 
 **Nationality**<br>
 _noun_: Korean(s)<br>
@@ -93,11 +93,9 @@ traditionally Buddhist and Confucian, some Christian and syncretic Chondogyo (Re
 <strong>note:</strong> autonomous religious activities now almost nonexistent; government-sponsored religious groups exist to provide illusion of religious freedom<br>
 
 **Age structure**<br>
-_0-14 years_: 20.33% (male 2,680,145/female 2,571,334)<br>
-_15-24 years_: 14.39% (male 1,873,814/female 1,842,269)<br>
-_25-54 years_: 43.77% (male 5,671,900/female 5,633,861)<br>
-_55-64 years_: 11.77% (male 1,454,000/female 1,585,830)<br>
-_65 years and over_: 9.75% (male 878,176/female 1,640,031) (2021 est.)<br>
+_0-14 years_: 20.24% (male 2,696,287/female 2,580,346)<br>
+_15-64 years_: 69.16% (male 8,992,254/female 9,040,025)<br>
+_65 years and over_: 10.6% (2023 est.) (male 992,424/female 1,770,881)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 43.5<br>
@@ -111,16 +109,16 @@ _male_: 33.2 years<br>
 _female_: 36.2 years (2020 est.)<br>
 
 **Population growth rate**<br>
-0.46% (2022 est.)<br>
+0.44% (2023 est.)<br>
 
 **Birth rate**<br>
-14.21 births/1,000 population (2022 est.)<br>
+14.06 births/1,000 population (2023 est.)<br>
 
 **Death rate**<br>
-9.53 deaths/1,000 population (2022 est.)<br>
+9.66 deaths/1,000 population (2023 est.)<br>
 
 **Net migration rate**<br>
--0.04 migrant(s)/1,000 population (2022 est.)<br>
+-0.04 migrant(s)/1,000 population (2023 est.)<br>
 
 **Population distribution**<br>
 population concentrated in the plains and lowlands; least populated regions are the mountainous provinces adjacent to the Chinese border; largest concentrations are in the western provinces, particularly the municipal district of Pyongyang, and around Hungnam and Wonsan in the east<br>
@@ -135,27 +133,25 @@ _rate of urbanization_: 0.85% annual rate of change (2020-25 est.)<br>
 **Sex ratio**<br>
 _at birth_: 1.06 male(s)/female<br>
 _0-14 years_: 1.04 male(s)/female<br>
-_15-24 years_: 1.02 male(s)/female<br>
-_25-54 years_: 1.01 male(s)/female<br>
-_55-64 years_: 0.92 male(s)/female<br>
-_65 years and over_: 0.33 male(s)/female<br>
-_total population_: 0.95 male(s)/female (2022 est.)<br>
+_15-64 years_: 0.99 male(s)/female<br>
+_65 years and over_: 0.56 male(s)/female<br>
+_total population_: 0.95 male(s)/female (2023 est.)<br>
 
 **Maternal mortality ratio**<br>
 89 deaths/100,000 live births (2017 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 22.21 deaths/1,000 live births<br>
-_male_: 25.03 deaths/1,000 live births<br>
-_female_: 19.23 deaths/1,000 live births (2022 est.)<br>
+_total_: 22 deaths/1,000 live births<br>
+_male_: 24.85 deaths/1,000 live births<br>
+_female_: 18.99 deaths/1,000 live births (2023 est.)<br>
 
 **Life expectancy at birth**<br>
-_total population_: 71.77 years<br>
-_male_: 67.88 years<br>
-_female_: 75.88 years (2022 est.)<br>
+_total population_: 71.88 years<br>
+_male_: 67.97 years<br>
+_female_: 76.02 years (2023 est.)<br>
 
 **Total fertility rate**<br>
-1.9 children born/woman (2022 est.)<br>
+1.89 children born/woman (2023 est.)<br>
 
 **Gross reproduction rate**<br>
 0.92 (2023 est.)<br>
@@ -323,7 +319,7 @@ _head of government_: Supreme People's Assembly President CHOE Ryong Hae (since 
 _cabinet_: Cabinet or Naegak members appointed by the Supreme People's Assembly except the Minister of People's Armed Forces<br>
 _elections/appointments_: chief of state and premier indirectly elected by the Supreme People's Assembly; election last held on 10 March 2019 (next to be held in March 2024)<br>
 _election results_: KIM Jong Un reelected unopposed<br>
-<strong>note:</strong> the Korean Workers' Party continues to list deceased leaders KIM Il Sung and KIM Jong Il as Eternal President and Eternal General Secretary respectively<br>
+<strong>note 1:</strong> KIM Jong Un's titles include chairman of the Central Military Commission of the Workers’ Party of Korea, chairman of the State Affairs Commission, supreme representative of the Korean People, and general secretary of the Workers’ Party of Korea  <br><br><strong>note 2: </strong>the Korean Workers' Party continues to list deceased leaders KIM Il Sung and KIM Jong Il as Eternal President and Eternal General Secretary respectively<br>
 
 **Legislative branch**<br>
 _description_: unicameral Supreme People's Assembly or Ch'oego Inmin Hoeui (687 seats; members directly elected by majority vote in 2 rounds if needed to serve 5-year terms); note - the Korean Workers' Party selects all candidates<br>
@@ -626,8 +622,8 @@ _major seaport(s)_: Ch'ongjin, Haeju, Hungnam, Namp'o, Songnim, Sonbong (formerl
 ## Military and Security
 
 **Military and security forces**<br>
-Korean People's Army (KPA): KPA Ground Forces, KPA Navy, KPA Air Force and Air Defense Forces, KPA Strategic Forces (missile forces), KPA Special Forces (special operations forces); Security Guard Command (aka Bodyguard Command); Ministry of Social Security (formerly Ministry of Public Security): Border Guard General Bureau, civil security forces; Ministry of State Security: internal security, investigations (2021)<br>
-<strong>note 1: </strong>the Security Guard Command protects the Kim family, other senior leadership figures, and government facilities<br><strong><br>note 2: </strong>the North also has a large paramilitary/militia force organized into the Worker Peasant Red Guard and Red Youth Guard; these organizations are present at all levels of government (province, county, ward) and are under the control of the Korean Workers' Party in peacetime, but revert to KPA control in crisis or war; they are often mobilized for domestic projects, such as road building and agricultural support<br>
+Korean People's Army (KPA): KPA Ground Forces, KPA Navy, KPA Air Force and Air Defense Forces, KPA Strategic Forces (missile forces), KPA Special Forces (special operations forces); Security Guard Command (aka Bodyguard Command); Military Security Command; Ministry of Social Security (formerly Ministry of Public Security): Border Guard General Bureau, civil security forces; Ministry of State Security: internal security, investigations (2022)<br>
+<strong>note 1</strong>: North Korea employs a systematic and intentional overlap of powers and responsibilities among its multiple internal security organizations to prevent any potential subordinate consolidation of power and assure that each unit provided a check and balance on the other <strong><br><br>note 2:</strong> the Security Guard Command protects the Kim family, other senior leadership figures, and government facilities<br><strong><br>note 3: </strong>the North also has a large paramilitary/militia force organized into the Worker Peasant Red Guard and Red Youth Guard; these organizations are present at all levels of government (province, county, ward) and are under the control of the Korean Workers' Party in peacetime, but revert to KPA control in crisis or war; they are often mobilized for domestic projects, such as road building and agricultural support<br>
 
 **Military expenditures**<br>
 between 2010 and 2019, military expenditures accounted for an estimated 20-25% of North Korea's GDP annually; North Korea in the 2010s and 2020s has increasingly relied on illicit activities &mdash; including cybercrime &mdash; to generate revenue for its weapons of mass destruction and ballistic missile programs to evade US and UN sanctions<br>

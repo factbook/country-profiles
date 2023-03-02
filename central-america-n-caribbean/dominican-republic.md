@@ -80,7 +80,7 @@ shares island of Hispaniola with Haiti (eastern two-thirds makes up the Dominica
 ## People and Society
 
 **Population**<br>
-10,694,700 (2022 est.)<br>
+10,790,744 (2023 est.)<br>
 
 **Nationality**<br>
 _noun_: Dominican(s)<br>
@@ -98,11 +98,9 @@ _major-language sample(s)_: <br>La Libreta Informativa del Mundo, la fuente indi
 Roman Catholic 44.3%, Evangelical 13%, Protestant 7.9%, Adventist 1.4%, other 1.8%, atheist 0.2%, none 29.4%, unspecified 2% (2018 est.)<br>
 
 **Age structure**<br>
-_0-14 years_: 26.85% (male 1,433,166/female 1,385,987)<br>
-_15-24 years_: 18.15% (male 968,391/female 937,227)<br>
-_25-54 years_: 40.54% (male 2,168,122/female 2,088,926)<br>
-_55-64 years_: 8.17% (male 429,042/female 428,508)<br>
-_65 years and over_: 6.29% (male 310,262/female 350,076) (2020 est.)<br>
+_0-14 years_: 25.92% (male 1,422,186/female 1,374,991)<br>
+_15-64 years_: 67.09% (male 3,675,934/female 3,563,597)<br>
+_65 years and over_: 6.99% (2023 est.) (male 355,069/female 398,967)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 53.8<br>
@@ -116,16 +114,16 @@ _male_: 27.8 years<br>
 _female_: 28.1 years (2020 est.)<br>
 
 **Population growth rate**<br>
-0.91% (2022 est.)<br>
+0.88% (2023 est.)<br>
 
 **Birth rate**<br>
-18.03 births/1,000 population (2022 est.)<br>
+17.8 births/1,000 population (2023 est.)<br>
 
 **Death rate**<br>
-6.29 deaths/1,000 population (2022 est.)<br>
+6.31 deaths/1,000 population (2023 est.)<br>
 
 **Net migration rate**<br>
--2.68 migrant(s)/1,000 population (2022 est.)<br>
+-2.66 migrant(s)/1,000 population (2023 est.)<br>
 
 **Population distribution**<br>
 coastal development is significant, especially in the southern coastal plains and the Cibao Valley, where population density is highest; smaller population clusters exist in the interior mountains (Cordillera Central)<br>
@@ -140,11 +138,9 @@ _rate of urbanization_: 1.64% annual rate of change (2020-25 est.)<br>
 **Sex ratio**<br>
 _at birth_: 1.04 male(s)/female<br>
 _0-14 years_: 1.03 male(s)/female<br>
-_15-24 years_: 1.03 male(s)/female<br>
-_25-54 years_: 1.04 male(s)/female<br>
-_55-64 years_: 1 male(s)/female<br>
-_65 years and over_: 0.73 male(s)/female<br>
-_total population_: 1.02 male(s)/female (2022 est.)<br>
+_15-64 years_: 1.03 male(s)/female<br>
+_65 years and over_: 0.89 male(s)/female<br>
+_total population_: 1.02 male(s)/female (2023 est.)<br>
 
 **Mother's mean age at first birth**<br>
 20.9 years (2013 est.)<br>
@@ -154,17 +150,17 @@ _total population_: 1.02 male(s)/female (2022 est.)<br>
 95 deaths/100,000 live births (2017 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 21.18 deaths/1,000 live births<br>
-_male_: 23.51 deaths/1,000 live births<br>
-_female_: 18.76 deaths/1,000 live births (2022 est.)<br>
+_total_: 20.68 deaths/1,000 live births<br>
+_male_: 22.95 deaths/1,000 live births<br>
+_female_: 18.33 deaths/1,000 live births (2023 est.)<br>
 
 **Life expectancy at birth**<br>
-_total population_: 72.56 years<br>
-_male_: 70.86 years<br>
-_female_: 74.33 years (2022 est.)<br>
+_total population_: 72.84 years<br>
+_male_: 71.15 years<br>
+_female_: 74.6 years (2023 est.)<br>
 
 **Total fertility rate**<br>
-2.21 children born/woman (2022 est.)<br>
+2.2 children born/woman (2023 est.)<br>
 
 **Gross reproduction rate**<br>
 1.08 (2023 est.)<br>

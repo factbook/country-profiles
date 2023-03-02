@@ -85,7 +85,7 @@ landlocked; the Zambezi forms a natural riverine boundary with Zimbabwe; Lake Ka
 ## People and Society
 
 **Population**<br>
-19,642,123 (2022 est.)<br>
+20,216,029 (2023 est.)<br>
 
 **Nationality**<br>
 _noun_: Zambian(s)<br>
@@ -105,11 +105,9 @@ Protestant 75.3%, Roman Catholic 20.2%, other 2.7% (includes Muslim, Buddhist, H
 <p>Zambia’s poor, youthful population consists primarily of Bantu-speaking people representing nearly 70 different ethnicities. Zambia’s high fertility rate continues to drive rapid population growth, averaging almost 3% annually between 2000 and 2010, and reaching over 3.3% in 2022. The country’s total fertility rate has fallen by less than 1.5 children per woman during the last 30 years and still averages among the world’s highest, almost 6 children per woman, largely because of the country’s lack of access to family planning services, education for girls, and employment for women. Zambia also exhibits wide fertility disparities based on rural or urban location, education, and income. Poor, uneducated women from rural areas are more likely to marry young, to give birth early, and to have more children, viewing children as a sign of prestige and recognizing that not all of their children will live to adulthood. HIV/AIDS is prevalent in Zambia and contributes to its low life expectancy.</p> <p>Zambian emigration is low compared to many other African countries and is comprised predominantly of the well-educated. The small amount of brain drain, however, has a major impact in Zambia because of its limited human capital and lack of educational infrastructure for developing skilled professionals in key fields. For example, Zambia has few schools for training doctors, nurses, and other health care workers. Its spending on education is low compared to other Sub-Saharan countries.</p><br>
 
 **Age structure**<br>
-_0-14 years_: 45.74% (male 4,005,134/female 3,964,969)<br>
-_15-24 years_: 20.03% (male 1,744,843/female 1,746,561)<br>
-_25-54 years_: 28.96% (male 2,539,697/female 2,506,724)<br>
-_55-64 years_: 3.01% (male 242,993/female 280,804)<br>
-_65 years and over_: 2.27% (male 173,582/female 221,316) (2020 est.)<br>
+_0-14 years_: 42.49% (male 4,334,425/female 4,255,464)<br>
+_15-64 years_: 54.77% (male 5,529,526/female 5,541,857)<br>
+_65 years and over_: 2.74% (2023 est.) (male 250,984/female 303,773)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 81.8<br>
@@ -123,16 +121,16 @@ _male_: 16.7 years<br>
 _female_: 17 years (2020 est.)<br>
 
 **Population growth rate**<br>
-2.9% (2022 est.)<br>
+2.86% (2023 est.)<br>
 
 **Birth rate**<br>
-34.86 births/1,000 population (2022 est.)<br>
+34.48 births/1,000 population (2023 est.)<br>
 
 **Death rate**<br>
-6.12 deaths/1,000 population (2022 est.)<br>
+6.02 deaths/1,000 population (2023 est.)<br>
 
 **Net migration rate**<br>
-0.24 migrant(s)/1,000 population (2022 est.)<br>
+0.16 migrant(s)/1,000 population (2023 est.)<br>
 
 **Population distribution**<br>
 one of the highest levels of urbanization in Africa; high density in the central area, particularly around the cities of Lusaka, Ndola, Kitwe, and Mufulira as shown in this population distribution map<br>
@@ -147,11 +145,9 @@ _rate of urbanization_: 4.15% annual rate of change (2020-25 est.)<br>
 **Sex ratio**<br>
 _at birth_: 1.03 male(s)/female<br>
 _0-14 years_: 1.02 male(s)/female<br>
-_15-24 years_: 1.01 male(s)/female<br>
-_25-54 years_: 1.01 male(s)/female<br>
-_55-64 years_: 0.9 male(s)/female<br>
-_65 years and over_: 0.73 male(s)/female<br>
-_total population_: 1 male(s)/female (2022 est.)<br>
+_15-64 years_: 1 male(s)/female<br>
+_65 years and over_: 0.83 male(s)/female<br>
+_total population_: 1 male(s)/female (2023 est.)<br>
 
 **Mother's mean age at first birth**<br>
 19.2 years (2018 est.)<br>
@@ -161,20 +157,20 @@ _total population_: 1 male(s)/female (2022 est.)<br>
 213 deaths/100,000 live births (2017 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 37.11 deaths/1,000 live births<br>
-_male_: 40.57 deaths/1,000 live births<br>
-_female_: 33.55 deaths/1,000 live births (2022 est.)<br>
+_total_: 36.33 deaths/1,000 live births<br>
+_male_: 39.72 deaths/1,000 live births<br>
+_female_: 32.83 deaths/1,000 live births (2023 est.)<br>
 
 **Life expectancy at birth**<br>
-_total population_: 66.26 years<br>
-_male_: 64.52 years<br>
-_female_: 68.06 years (2022 est.)<br>
+_total population_: 66.6 years<br>
+_male_: 64.88 years<br>
+_female_: 68.36 years (2023 est.)<br>
 
 **Total fertility rate**<br>
-4.56 children born/woman (2022 est.)<br>
+4.49 children born/woman (2023 est.)<br>
 
 **Gross reproduction rate**<br>
-2.25 (2023 est.)<br>
+2.21 (2023 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 49.6% (2018)<br>

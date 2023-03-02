@@ -82,7 +82,7 @@ most of the country is situated on deltas of large rivers flowing from the Himal
 ## People and Society
 
 **Population**<br>
-165,650,475 (2022 est.)<br>
+167,184,465 (2023 est.)<br>
 
 **Nationality**<br>
 _noun_: Bangladeshi(s)<br>
@@ -100,11 +100,9 @@ _major-language sample(s)_: <p><br>বিশ্ব ফ্যাক্টবু�
 Muslim 88.4%, other 11.6% (2020 est.)<br>
 
 **Age structure**<br>
-_0-14 years_: 26.48% (male 21,918,651/female 21,158,574)<br>
-_15-24 years_: 18.56% (male 15,186,470/female 15,001,950)<br>
-_25-54 years_: 40.72% (male 31,694,267/female 34,535,643)<br>
-_55-64 years_: 7.41% (male 5,941,825/female 6,115,856)<br>
-_65 years and over_: 6.82% (male 5,218,206/female 5,879,411) (2020 est.)<br>
+_0-14 years_: 25.38% (male 21,587,699/female 20,846,378)<br>
+_15-64 years_: 67.09% (male 54,560,958/female 57,599,478)<br>
+_65 years and over_: 7.53% (2023 est.) (male 5,871,022/female 6,718,930)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 47.7<br>
@@ -118,16 +116,16 @@ _male_: 27.1 years<br>
 _female_: 28.6 years (2020 est.)<br>
 
 **Population growth rate**<br>
-0.93% (2022 est.)<br>
+0.91% (2023 est.)<br>
 
 **Birth rate**<br>
-17.69 births/1,000 population (2022 est.)<br>
+17.5 births/1,000 population (2023 est.)<br>
 
 **Death rate**<br>
-5.47 deaths/1,000 population (2022 est.)<br>
+5.5 deaths/1,000 population (2023 est.)<br>
 
 **Net migration rate**<br>
--2.9 migrant(s)/1,000 population (2022 est.)<br>
+-2.88 migrant(s)/1,000 population (2023 est.)<br>
 
 **Urbanization**<br>
 _urban population_: 40.5% of total population (2023)<br>
@@ -139,11 +137,9 @@ _rate of urbanization_: 2.88% annual rate of change (2020-25 est.)<br>
 **Sex ratio**<br>
 _at birth_: 1.04 male(s)/female<br>
 _0-14 years_: 1.04 male(s)/female<br>
-_15-24 years_: 1.02 male(s)/female<br>
-_25-54 years_: 0.92 male(s)/female<br>
-_55-64 years_: 0.96 male(s)/female<br>
-_65 years and over_: 0.73 male(s)/female<br>
-_total population_: 0.96 male(s)/female (2022 est.)<br>
+_15-64 years_: 0.95 male(s)/female<br>
+_65 years and over_: 0.87 male(s)/female<br>
+_total population_: 0.96 male(s)/female (2023 est.)<br>
 
 **Mother's mean age at first birth**<br>
 18.6 years (2017/18 est.)<br>
@@ -153,17 +149,17 @@ _total population_: 0.96 male(s)/female (2022 est.)<br>
 173 deaths/100,000 live births (2017 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 30.35 deaths/1,000 live births<br>
-_male_: 32.96 deaths/1,000 live births<br>
-_female_: 27.63 deaths/1,000 live births (2022 est.)<br>
+_total_: 29.58 deaths/1,000 live births<br>
+_male_: 32.12 deaths/1,000 live births<br>
+_female_: 26.93 deaths/1,000 live births (2023 est.)<br>
 
 **Life expectancy at birth**<br>
-_total population_: 74.7 years<br>
-_male_: 72.52 years<br>
-_female_: 76.96 years (2022 est.)<br>
+_total population_: 74.96 years<br>
+_male_: 72.8 years<br>
+_female_: 77.21 years (2023 est.)<br>
 
 **Total fertility rate**<br>
-2.09 children born/woman (2022 est.)<br>
+2.08 children born/woman (2023 est.)<br>
 
 **Gross reproduction rate**<br>
 1.02 (2023 est.)<br>
@@ -726,8 +722,8 @@ Armed Forces of Bangladesh (aka Bangladesh Defense Force): Bangladesh Army, Bang
 1.1% of GDP (2022 est.)<br>
 1.2% of GDP (2021 est.)<br>
 1.3% of GDP (2020)<br>
-1.4% of GDP (2019) (approximately $5.12 billion)<br>
-1.4% of GDP (2018) (approximately $4.57 billion)<br>
+1.4% of GDP (2019)<br>
+1.4% of GDP (2018)<br>
 
 **Military and security service personnel strengths**<br>
 information varies; approximately 165,000 total active personnel (135,000 Army; 15,000 Navy; 15,000 Air Force) (2022)<br>

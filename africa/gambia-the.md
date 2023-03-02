@@ -82,7 +82,7 @@ almost an enclave of Senegal; smallest country on the African mainland<br>
 ## People and Society
 
 **Population**<br>
-2,413,403 (2022 est.)<br>
+2,468,569 (2023 est.)<br>
 
 **Nationality**<br>
 _noun_: Gambian(s)<br>
@@ -101,11 +101,9 @@ Muslim 96.4%, Christian 3.5%, other or none 0.1% (2019-20 est.)<br>
 <p>The Gambia’s youthful age structure – approximately 55% of the population is under the age of 25 as of 2021 – is likely to persist because the country’s total fertility rate remains strong at nearly 4 children per woman. The overall literacy rate is around 50%, and is significantly lower for women than for men. At least 70% of the populace are farmers who are reliant on rain-fed agriculture and cannot afford improved seeds and fertilizers. Crop failures caused by droughts between 2011 and 2013 increased poverty, food shortages, and malnutrition.</p> <p>The Gambia is a source country for migrants and a transit and destination country for migrants and refugees. Since the 1980s, economic deterioration, drought, and high unemployment, especially among youths, have driven both domestic migration (largely urban) and migration abroad (legal and illegal). Emigrants are largely skilled workers, including doctors and nurses, and provide a significant amount of remittances. The top receiving countries for Gambian emigrants are Spain, the US, Nigeria, Senegal, and the UK. While the Gambia and Spain do not share historic, cultural, or trade ties, rural Gambians have migrated to Spain in large numbers because of its proximity and the availability of jobs in its underground economy (this flow slowed following the onset of Spain’s late 2007 economic crisis).</p> <p>The Gambia’s role as a host country to refugees is a result of wars in several of its neighboring West African countries. Since 2006, refugees from the Casamance conflict in Senegal have replaced their pattern of flight and return with permanent settlement in The Gambia, often moving in with relatives along the Senegal-Gambia border. The strain of providing for about 7,400 Casamance refugees increased poverty among Gambian villagers. The number of refugees decreased to around 3,500 by 2022.</p><br>
 
 **Age structure**<br>
-_0-14 years_: 35.15% (male 391,993/female 388,816)<br>
-_15-24 years_: 20.12% (male 221,519/female 225,414)<br>
-_25-54 years_: 36.39% (male 396,261/female 412,122)<br>
-_55-64 years_: 4.53% (male 48,032/female 52,538)<br>
-_65 years and over_: 3.81% (male 38,805/female 45,801) (2021 est.)<br>
+_0-14 years_: 38.86% (male 484,113/female 475,134)<br>
+_15-64 years_: 57.57% (male 700,049/female 721,057)<br>
+_65 years and over_: 3.57% (2023 est.) (male 38,954/female 49,262)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 85<br>
@@ -119,16 +117,16 @@ _male_: 21.5 years<br>
 _female_: 22.2 years (2020 est.)<br>
 
 **Population growth rate**<br>
-2.29% (2022 est.)<br>
+2.23% (2023 est.)<br>
 
 **Birth rate**<br>
-28.78 births/1,000 population (2022 est.)<br>
+28.03 births/1,000 population (2023 est.)<br>
 
 **Death rate**<br>
-5.81 deaths/1,000 population (2022 est.)<br>
+5.71 deaths/1,000 population (2023 est.)<br>
 
 **Net migration rate**<br>
--0.04 migrant(s)/1,000 population (2022 est.)<br>
+-0.04 migrant(s)/1,000 population (2023 est.)<br>
 
 **Population distribution**<br>
 settlements are found scattered along the Gambia River; the largest communities, including the capital of Banjul, and the country's largest city, Serekunda, are found at the mouth of the Gambia River along the Atlantic coast as shown in this population distribution map<br>
@@ -144,11 +142,9 @@ _rate of urbanization_: 3.75% annual rate of change (2020-25 est.)<br>
 **Sex ratio**<br>
 _at birth_: 1.03 male(s)/female<br>
 _0-14 years_: 1.02 male(s)/female<br>
-_15-24 years_: 1.01 male(s)/female<br>
-_25-54 years_: 0.96 male(s)/female<br>
-_55-64 years_: 0.76 male(s)/female<br>
-_65 years and over_: 0.88 male(s)/female<br>
-_total population_: 0.98 male(s)/female (2022 est.)<br>
+_15-64 years_: 0.97 male(s)/female<br>
+_65 years and over_: 0.79 male(s)/female<br>
+_total population_: 0.98 male(s)/female (2023 est.)<br>
 
 **Mother's mean age at first birth**<br>
 20.7 years (2019/20 est.)<br>
@@ -158,17 +154,17 @@ _total population_: 0.98 male(s)/female (2022 est.)<br>
 597 deaths/100,000 live births (2017 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 37.19 deaths/1,000 live births<br>
-_male_: 40.75 deaths/1,000 live births<br>
-_female_: 33.53 deaths/1,000 live births (2022 est.)<br>
+_total_: 36.44 deaths/1,000 live births<br>
+_male_: 39.92 deaths/1,000 live births<br>
+_female_: 32.86 deaths/1,000 live births (2023 est.)<br>
 
 **Life expectancy at birth**<br>
-_total population_: 67.6 years<br>
-_male_: 65.83 years<br>
-_female_: 69.41 years (2022 est.)<br>
+_total population_: 67.98 years<br>
+_male_: 66.26 years<br>
+_female_: 69.75 years (2023 est.)<br>
 
 **Total fertility rate**<br>
-3.79 children born/woman (2022 est.)<br>
+3.66 children born/woman (2023 est.)<br>
 
 **Gross reproduction rate**<br>
 1.8 (2023 est.)<br>
@@ -701,7 +697,7 @@ the GAF has a limited equipment inventory (2022)<br>
 18-25 years of age for male and female voluntary military service (18-22 for officers); no conscription; service obligation 6 months (2021)<br>
 
 **Military - note**<br>
-in addition to external defense, the responsibilities of the GAF include providing maritime security, countering human trafficking, aiding civil authorities in emergencies and assistance with natural disaster relief; the GAF traces its origins to the Gambia Regiment of the British Army; established in 1901, the Gambia Regiment was part of the West African Frontier Force (WAFF, later Royal West African Frontier Force or RWAFF) and served in both World Wars, including the British 1944-45 military campaign in Burma; the Gambia Regiment was disbanded in 1958 and replaced by the Field Force, a police paramilitary unit; the Field Force was responsible for The Gambia’s security until the establishment of the Gambian Armed Forces in 1985; in addition, a defense agreement signed in 1965 between The Gambia and Senegal provided mutual assistance in the face of an external threat; from 1981-1989, The Gambia and Senegal formed a Confederal Army that was made up of troops from both countries <br><br>the military in Gambia, including the Field Force, has a history of heavy involvement in the country’s politics, including multiple coups or coup attempts and mutinies<br><br>in 2017, several members of the Economic Community of West African States (ECOWAS) sent security forces to The Gambia to conduct stability operations and provide assistance and training following the 2016 election; as of 2022, the ECOWAS Mission in the Gambia (ECOMIG) was comprised of about 1,000 military and gendarmerie personnel from Ghana, Nigeria, and Senegal (2022)<br>
+the Gambian security forces have a history of involvement in domestic politics, including multiple coups attempts and mutinies, with the latest being an attempted coup in 2022; since 2017, Gambia’s security sector has been undergoing reforms as part of a national reconstruction effort to recover from the 22 years of Yahya JAMMEH’s autocratic rule under which the security forces were severely under-resourced in terms of finances and equipment and were largely directed towards regime protection and suppressing dissent; international partners, including member states of the EU, particularly France and Germany, and the US have provided support to military and police reforms; several members of the Economic Community of West African States (ECOWAS) have also provided security forces for stability, as well as assistance and training through the ECOWAS Mission in the Gambia (ECOMIG); as of 2023, ECOMIG continued to provide about 1,000 military and gendarmerie personnel from Ghana, Nigeria, and Senegal<br><br>the GAF is a lightly armed force with about 5 small infantry battalions, a handful of coastal patrol boats, and a few aircraft; in addition to external defense, the responsibilities of the GAF include providing maritime security, countering human trafficking, aiding civil authorities in emergencies and natural disaster relief, and engaging in activities such as engineering, education, health, and agriculture for domestic socio-economic development; the GAF also participates in peacekeeping missions, and since its first deployments in the 1990s, has been involved in more than 10 UN peacekeeping missions while contributing about 4,000 total troops <br><br>the GAF traces its origins to the Gambia Regiment of the British Army; established in 1901, the Gambia Regiment was part of the West African Frontier Force (WAFF, later Royal West African Frontier Force or RWAFF) and served in both World Wars, including the British 1944-45 military campaign in Burma; the Gambia Regiment was disbanded in 1958 and replaced by the Field Force, a police paramilitary unit; the Field Force was responsible for The Gambia’s security until the establishment of the GAF in 1985; in addition, a defense agreement signed in 1965 between The Gambia and Senegal provided mutual assistance in the face of an external threat; from 1981-1989, The Gambia and Senegal formed a Confederal Army that was made up of troops from both countries (2023)<br>
 
 ## Transnational Issues
 

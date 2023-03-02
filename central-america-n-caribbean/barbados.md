@@ -72,7 +72,7 @@ easternmost Caribbean island<br>
 ## People and Society
 
 **Population**<br>
-302,674 (2022 est.)<br>
+303,431 (2023 est.)<br>
 
 **Nationality**<br>
 _noun_: Barbadian(s) or Bajan (colloquial)<br>
@@ -88,11 +88,9 @@ English (official), Bajan (English-based creole language, widely spoken in infor
 Protestant 66.4% (includes Anglican 23.9%, other Pentecostal 19.5%, Adventist 5.9%, Methodist 4.2%, Wesleyan 3.4%, Nazarene 3.2%, Church of God 2.4%, Baptist 1.8%, Moravian 1.2%, other Protestant 0.9%), Roman Catholic 3.8%, other Christian 5.4% (includes Jehovah's Witness 2.0%, other 3.4%), Rastafarian 1%, other 1.5%, none 20.6%, unspecified 1.2% (2010 est.)<br>
 
 **Age structure**<br>
-_0-14 years_: 17.49% (male 25,762/female 25,764)<br>
-_15-24 years_: 12.34% (male 18,024/female 18,330)<br>
-_25-54 years_: 42.69% (male 62,655/female 63,093)<br>
-_55-64 years_: 13.91% (male 19,533/female 21,430)<br>
-_65 years and over_: 13.57% (male 16,398/female 23,571) (2020 est.)<br>
+_0-14 years_: 16.78% (male 25,456/female 25,465)<br>
+_15-64 years_: 67.56% (male 100,884/female 104,114)<br>
+_65 years and over_: 15.66% (2023 est.) (male 19,967/female 27,545)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 49<br>
@@ -106,16 +104,16 @@ _male_: 38.4 years<br>
 _female_: 40.7 years (2020 est.)<br>
 
 **Population growth rate**<br>
-0.26% (2022 est.)<br>
+0.24% (2023 est.)<br>
 
 **Birth rate**<br>
-10.83 births/1,000 population (2022 est.)<br>
+10.73 births/1,000 population (2023 est.)<br>
 
 **Death rate**<br>
-7.96 deaths/1,000 population (2022 est.)<br>
+8.03 deaths/1,000 population (2023 est.)<br>
 
 **Net migration rate**<br>
--0.29 migrant(s)/1,000 population (2022 est.)<br>
+-0.29 migrant(s)/1,000 population (2023 est.)<br>
 
 **Population distribution**<br>
 most densely populated country in the eastern Caribbean; approximately one-third live in urban areas<br>
@@ -130,27 +128,25 @@ _rate of urbanization_: 0.46% annual rate of change (2020-25 est.)<br>
 **Sex ratio**<br>
 _at birth_: 1.01 male(s)/female<br>
 _0-14 years_: 1 male(s)/female<br>
-_15-24 years_: 0.98 male(s)/female<br>
-_25-54 years_: 0.98 male(s)/female<br>
-_55-64 years_: 0.92 male(s)/female<br>
-_65 years and over_: 0.55 male(s)/female<br>
-_total population_: 0.93 male(s)/female (2022 est.)<br>
+_15-64 years_: 0.97 male(s)/female<br>
+_65 years and over_: 0.72 male(s)/female<br>
+_total population_: 0.93 male(s)/female (2023 est.)<br>
 
 **Maternal mortality ratio**<br>
 27 deaths/100,000 live births (2017 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 10 deaths/1,000 live births<br>
-_male_: 11.58 deaths/1,000 live births<br>
-_female_: 8.41 deaths/1,000 live births (2022 est.)<br>
+_total_: 9.79 deaths/1,000 live births<br>
+_male_: 11.33 deaths/1,000 live births<br>
+_female_: 8.23 deaths/1,000 live births (2023 est.)<br>
 
 **Life expectancy at birth**<br>
-_total population_: 78.55 years<br>
-_male_: 75.79 years<br>
-_female_: 81.35 years (2022 est.)<br>
+_total population_: 78.79 years<br>
+_male_: 76.04 years<br>
+_female_: 81.57 years (2023 est.)<br>
 
 **Total fertility rate**<br>
-1.7 children born/woman (2022 est.)<br>
+1.7 children born/woman (2023 est.)<br>
 
 **Gross reproduction rate**<br>
 0.85 (2023 est.)<br>

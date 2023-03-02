@@ -85,7 +85,7 @@ second-smallest South American country (after Suriname); most of the low-lying l
 ## People and Society
 
 **Population**<br>
-3,407,213 (2022 est.)<br>
+3,416,264 (2023 est.)<br>
 
 **Nationality**<br>
 _noun_: Uruguayan(s)<br>
@@ -106,11 +106,9 @@ Roman Catholic 42%, Protestant 15%, other 6%, agnostic 3%, atheist 10%, unspecif
 <p>Uruguay rates high for most development indicators and is known for its secularism, liberal social laws, and well-developed social security, health, and educational systems. It is one of the few countries in Latin America and the Caribbean where the entire population has access to clean water. Uruguay's provision of free primary through university education has contributed to the country's high levels of literacy and educational attainment. However, the emigration of human capital has diminished the state's return on its investment in education. Remittances from the roughly 18% of Uruguayans abroad amount to less than 1 percent of national GDP. The emigration of young adults and a low birth rate are causing Uruguay's population to age rapidly.</p><p>In the 1960s, Uruguayans for the first time emigrated en masse - primarily to Argentina and Brazil - because of economic decline and the onset of more than a decade of military dictatorship. Economic crises in the early 1980s and 2002 also triggered waves of emigration, but since 2002 more than 70% of Uruguayan emigrants have selected the US and Spain as destinations because of better job prospects. Uruguay had a tiny population upon its independence in 1828 and welcomed thousands of predominantly Italian and Spanish immigrants, but the country has not experienced large influxes of new arrivals since the aftermath of World War II. More recent immigrants include Peruvians and Arabs.</p><br>
 
 **Age structure**<br>
-_0-14 years_: 19.51% (male 336,336/female 324,563)<br>
-_15-24 years_: 15.14% (male 259,904/female 252,945)<br>
-_25-54 years_: 39.86% (male 670,295/female 679,850)<br>
-_55-64 years_: 10.79% (male 172,313/female 193,045)<br>
-_65 years and over_: 14.71% (male 200,516/female 297,838) (2020 est.)<br>
+_0-14 years_: 19.02% (male 330,536/female 319,132)<br>
+_15-64 years_: 65.55% (male 1,110,881/female 1,128,546)<br>
+_65 years and over_: 15.43% (2023 est.) (male 213,750/female 313,419)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 53.6<br>
@@ -124,16 +122,16 @@ _male_: 33.8 years<br>
 _female_: 37.3 years (2020 est.)<br>
 
 **Population growth rate**<br>
-0.27% (2022 est.)<br>
+0.27% (2023 est.)<br>
 
 **Birth rate**<br>
-12.71 births/1,000 population (2022 est.)<br>
+12.65 births/1,000 population (2023 est.)<br>
 
 **Death rate**<br>
-9.18 deaths/1,000 population (2022 est.)<br>
+9.12 deaths/1,000 population (2023 est.)<br>
 
 **Net migration rate**<br>
--0.88 migrant(s)/1,000 population (2022 est.)<br>
+-0.88 migrant(s)/1,000 population (2023 est.)<br>
 
 **Population distribution**<br>
 most of the country's population resides in the southern half of the country; approximately 80% of the populace is urban, living in towns or cities; nearly half of the population lives in and around the capital of Montevideo<br>
@@ -148,27 +146,25 @@ _rate of urbanization_: 0.4% annual rate of change (2020-25 est.)<br>
 **Sex ratio**<br>
 _at birth_: 1.04 male(s)/female<br>
 _0-14 years_: 1.04 male(s)/female<br>
-_15-24 years_: 1.03 male(s)/female<br>
-_25-54 years_: 0.99 male(s)/female<br>
-_55-64 years_: 0.9 male(s)/female<br>
-_65 years and over_: 0.55 male(s)/female<br>
-_total population_: 0.94 male(s)/female (2022 est.)<br>
+_15-64 years_: 0.98 male(s)/female<br>
+_65 years and over_: 0.68 male(s)/female<br>
+_total population_: 0.94 male(s)/female (2023 est.)<br>
 
 **Maternal mortality ratio**<br>
 17 deaths/100,000 live births (2017 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 8.31 deaths/1,000 live births<br>
-_male_: 9.46 deaths/1,000 live births<br>
-_female_: 7.12 deaths/1,000 live births (2022 est.)<br>
+_total_: 8.14 deaths/1,000 live births<br>
+_male_: 9.27 deaths/1,000 live births<br>
+_female_: 6.97 deaths/1,000 live births (2023 est.)<br>
 
 **Life expectancy at birth**<br>
-_total population_: 78.43 years<br>
-_male_: 75.32 years<br>
-_female_: 81.64 years (2022 est.)<br>
+_total population_: 78.66 years<br>
+_male_: 75.58 years<br>
+_female_: 81.86 years (2023 est.)<br>
 
 **Total fertility rate**<br>
-1.76 children born/woman (2022 est.)<br>
+1.75 children born/woman (2023 est.)<br>
 
 **Gross reproduction rate**<br>
 0.86 (2023 est.)<br>

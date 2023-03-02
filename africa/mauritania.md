@@ -85,7 +85,7 @@ Mauritania is considered both a part of North Africa's Maghreb region and West A
 ## People and Society
 
 **Population**<br>
-4,161,925 (2022 est.)<br>
+4,244,878 (2023 est.)<br>
 
 **Nationality**<br>
 _noun_: Mauritanian(s)<br>
@@ -105,11 +105,9 @@ Muslim (official) 100%<br>
 <p>With a sustained total fertility rate of about 3.5 children per woman and almost 60% of the population under the age of 25 as of 2020, Mauritania's population is likely to continue growing for the foreseeable future. Mauritania's large youth cohort is vital to its development prospects, but available schooling does not adequately prepare students for the workplace. Girls continue to be underrepresented in the classroom, educational quality remains poor, and the dropout rate is high. The literacy rate is only about 50%, even though access to primary education has improved since the mid-2000s. Women's restricted access to education and discriminatory laws maintain gender inequality - worsened by early and forced marriages and female genital cutting.</p> <p>The denial of education to black Moors also helps to perpetuate slavery. Although Mauritania abolished slavery in 1981 (the last country in the world to do so) and made it a criminal offense in 2007, the millenniums-old practice persists largely because anti-slavery laws are rarely enforced and the custom is so ingrained.  According to a 2018 nongovernmental organization's report, a little more than 2% of Mauritania's population is enslaved, which includes individuals subjected to forced labor and forced marriage, while many thousands of individuals who are legally free contend with discrimination, poor education, and a lack of identity papers and, therefore, live in de facto slavery.  The UN and international press outlets have claimed that up to 20% of Mauritania's population is enslaved, which would be the highest rate worldwide.</p> <p>Drought, poverty, and unemployment have driven outmigration from Mauritania since the 1970s. Early flows were directed toward other West African countries, including Senegal, Mali, Cote d'Ivoire, and Gambia. The 1989 Mauritania-Senegal conflict forced thousands of black Mauritanians to take refuge in Senegal and pushed labor migrants toward the Gulf, Libya, and Europe in the late 1980s and early 1990s. Mauritania has accepted migrants from neighboring countries to fill labor shortages since its independence in 1960 and more recently has received refugees escaping civil wars, including tens of thousands of Tuaregs who fled Mali in 2012.</p> <p>Mauritania was an important transit point for Sub-Saharan migrants moving illegally to North Africa and Europe. In the mid-2000s, as border patrols increased in the Strait of Gibraltar, security increased around Spain's North African enclaves (Ceuta and Melilla), and Moroccan border controls intensified, illegal migration flows shifted from the Western Mediterranean to Spain's Canary Islands. In 2006, departure points moved southward along the West African coast from Morocco and then Western Sahara to Mauritania's two key ports (Nouadhibou and the capital Nouakchott), and illegal migration to the Canaries peaked at almost 32,000. The numbers fell dramatically in the following years because of joint patrolling off the West African coast by Frontex (the EU's border protection agency), Spain, Mauritania, and Senegal; the expansion of Spain's border surveillance system; and the 2008 European economic downturn.</p><br>
 
 **Age structure**<br>
-_0-14 years_: 37.56% (male 755,788/female 748,671)<br>
-_15-24 years_: 19.71% (male 387,140/female 402,462)<br>
-_25-54 years_: 33.91% (male 630,693/female 727,518)<br>
-_55-64 years_: 4.9% (male 88,888/female 107,201)<br>
-_65 years and over_: 3.92% (male 66,407/female 90,707) (2020 est.)<br>
+_0-14 years_: 36.11% (male 769,229/female 763,465)<br>
+_15-64 years_: 59.58% (male 1,197,311/female 1,331,815)<br>
+_65 years and over_: 4.31% (2023 est.) (male 77,123/female 105,935)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 82.7<br>
@@ -123,16 +121,16 @@ _male_: 20.1 years<br>
 _female_: 22 years (2020 est.)<br>
 
 **Population growth rate**<br>
-1.99% (2022 est.)<br>
+1.96% (2023 est.)<br>
 
 **Birth rate**<br>
-28.06 births/1,000 population (2022 est.)<br>
+27.61 births/1,000 population (2023 est.)<br>
 
 **Death rate**<br>
-7.43 deaths/1,000 population (2022 est.)<br>
+7.33 deaths/1,000 population (2023 est.)<br>
 
 **Net migration rate**<br>
--0.72 migrant(s)/1,000 population (2022 est.)<br>
+-0.71 migrant(s)/1,000 population (2023 est.)<br>
 
 **Population distribution**<br>
 with most of the country being a desert, vast areas of the country, particularly in the central, northern, and eastern areas, are without sizeable population clusters; half the population lives in or around the coastal capital of Nouakchott; smaller clusters are found near the southern border with Mali and Senegal as shown in this population distribution map<br>
@@ -147,11 +145,9 @@ _rate of urbanization_: 3.84% annual rate of change (2020-25 est.)<br>
 **Sex ratio**<br>
 _at birth_: 1.03 male(s)/female<br>
 _0-14 years_: 1.01 male(s)/female<br>
-_15-24 years_: 0.96 male(s)/female<br>
-_25-54 years_: 0.86 male(s)/female<br>
-_55-64 years_: 0.83 male(s)/female<br>
-_65 years and over_: 0.61 male(s)/female<br>
-_total population_: 0.93 male(s)/female (2022 est.)<br>
+_15-64 years_: 0.9 male(s)/female<br>
+_65 years and over_: 0.73 male(s)/female<br>
+_total population_: 0.93 male(s)/female (2023 est.)<br>
 
 **Mother's mean age at first birth**<br>
 21.8 years (2019/21)<br>
@@ -161,17 +157,17 @@ _total population_: 0.93 male(s)/female (2022 est.)<br>
 766 deaths/100,000 live births (2017 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 50.99 deaths/1,000 live births<br>
-_male_: 56.89 deaths/1,000 live births<br>
-_female_: 44.91 deaths/1,000 live births (2022 est.)<br>
+_total_: 49.95 deaths/1,000 live births<br>
+_male_: 55.84 deaths/1,000 live births<br>
+_female_: 43.89 deaths/1,000 live births (2023 est.)<br>
 
 **Life expectancy at birth**<br>
-_total population_: 65.22 years<br>
-_male_: 62.77 years<br>
-_female_: 67.75 years (2022 est.)<br>
+_total population_: 65.57 years<br>
+_male_: 63.1 years<br>
+_female_: 68.12 years (2023 est.)<br>
 
 **Total fertility rate**<br>
-3.53 children born/woman (2022 est.)<br>
+3.46 children born/woman (2023 est.)<br>
 
 **Gross reproduction rate**<br>
 1.71 (2023 est.)<br>
@@ -739,7 +735,7 @@ Al-Qa'ida in the Islamic Maghreb (AQIM)<br>
 <p><em>Mauritania-Algeria</em>: none identified</p> <p><em>Mauritania-Mali</em>: there are no border disputes, but the border has not been demarcated; talks on demarcation were reportedly being held in February 2022</p> <p><em>Mauritania-Morocco</em>: Mauritanian claims to Western Sahara remain dormant; tensions arose in 2016 when Mauritanian soldiers were deployed to Lagouira, a city in the southernmost part of Morocco, and raised their flag</p> <p><em>Mauritania-Senegal</em>: none identified</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 26,000 (Sahrawis); 98,202 (Mali) (2022)<br>
+_refugees (country of origin)_: 26,000 (Sahrawis) (2021); 98,202 (Mali) (2022)<br>
 
 **Trafficking in persons**<br>
 _tier rating_: Tier 2 Watch List &mdash; Mauritania does not fully meet the minimum standards for the elimination of trafficking but is making significant efforts to do so and was upgraded to Tier 2 Watch List; the government convicted five hereditary slaveholders, drafted new anti-trafficking legislation and a national action plan, raised awareness on child forced begging in Quranic schools with imams and religious leaders by establishing an inter-ministerial committee, published a child protection guide, and operated a cash transfer program; however, the government rarely imprisoned convicted slaveholders and did not identify any victims; government agencies lacked resources; government officials refuse to investigate or prosecute political offenders (2020)<br>

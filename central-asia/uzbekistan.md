@@ -81,7 +81,7 @@ along with Liechtenstein, one of the only two doubly landlocked countries in the
 ## People and Society
 
 **Population**<br>
-31,104,937 (2022 est.)<br>
+31,360,836 (2023 est.)<br>
 
 **Nationality**<br>
 _noun_: Uzbekistani<br>
@@ -99,11 +99,9 @@ _major-language sample(s)_: <br>Jahon faktlari kitobi, asosiy ma'lumotlar uchun 
 Muslim 88% (mostly Sunni), Eastern Orthodox 9%, other 3%<br>
 
 **Age structure**<br>
-_0-14 years_: 23.19% (male 3,631,693/female 3,456,750)<br>
-_15-24 years_: 16.63% (male 2,601,803/female 2,481,826)<br>
-_25-54 years_: 45.68% (male 6,955,260/female 7,006,172)<br>
-_55-64 years_: 8.63% (male 1,245,035/female 1,392,263)<br>
-_65 years and over_: 5.87% (male 768,769/female 1,025,840) (2020 est.)<br>
+_0-14 years_: 22.48% (male 3,612,997/female 3,437,866)<br>
+_15-64 years_: 70.64% (male 11,055,763/female 11,097,841)<br>
+_65 years and over_: 6.88% (2023 est.) (male 933,134/female 1,223,235)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 54<br>
@@ -117,16 +115,16 @@ _male_: 29.4 years<br>
 _female_: 30.7 years (2020 est.)<br>
 
 **Population growth rate**<br>
-0.83% (2022 est.)<br>
+0.81% (2023 est.)<br>
 
 **Birth rate**<br>
-15.53 births/1,000 population (2022 est.)<br>
+15.18 births/1,000 population (2023 est.)<br>
 
 **Death rate**<br>
-5.41 deaths/1,000 population (2022 est.)<br>
+5.43 deaths/1,000 population (2023 est.)<br>
 
 **Net migration rate**<br>
--1.78 migrant(s)/1,000 population (2022 est.)<br>
+-1.7 migrant(s)/1,000 population (2023 est.)<br>
 
 **Population distribution**<br>
 most of the population is concentrated in the fertile Fergana Valley in the easternmost arm of the country; the south has significant clusters of people, while the central and western deserts are sparsely populated<br>
@@ -141,11 +139,9 @@ _rate of urbanization_: 1.25% annual rate of change (2020-25 est.)<br>
 **Sex ratio**<br>
 _at birth_: 1.06 male(s)/female<br>
 _0-14 years_: 1.05 male(s)/female<br>
-_15-24 years_: 1.05 male(s)/female<br>
-_25-54 years_: 0.99 male(s)/female<br>
-_55-64 years_: 0.89 male(s)/female<br>
-_65 years and over_: 0.63 male(s)/female<br>
-_total population_: 0.99 male(s)/female (2022 est.)<br>
+_15-64 years_: 1 male(s)/female<br>
+_65 years and over_: 0.76 male(s)/female<br>
+_total population_: 0.99 male(s)/female (2023 est.)<br>
 
 **Mother's mean age at first birth**<br>
 23.7 years (2019 est.)<br>
@@ -154,17 +150,17 @@ _total population_: 0.99 male(s)/female (2022 est.)<br>
 29 deaths/100,000 live births (2017 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 18.98 deaths/1,000 live births<br>
-_male_: 22.6 deaths/1,000 live births<br>
-_female_: 15.14 deaths/1,000 live births (2022 est.)<br>
+_total_: 18.55 deaths/1,000 live births<br>
+_male_: 22.09 deaths/1,000 live births<br>
+_female_: 14.8 deaths/1,000 live births (2023 est.)<br>
 
 **Life expectancy at birth**<br>
-_total population_: 75.29 years<br>
-_male_: 72.27 years<br>
-_female_: 78.5 years (2022 est.)<br>
+_total population_: 75.55 years<br>
+_male_: 72.54 years<br>
+_female_: 78.74 years (2023 est.)<br>
 
 **Total fertility rate**<br>
-1.73 children born/woman (2022 est.)<br>
+1.72 children born/woman (2023 est.)<br>
 
 **Gross reproduction rate**<br>
 0.84 (2023 est.)<br>
@@ -712,7 +708,7 @@ the Uzbek Armed Forces use mainly Soviet-era equipment; in recent years, Russia 
 
 **Terrorist group(s)**<br>
 Islamic Jihad Union; Islamic Movement of Uzbekistan; Islamic State of Iraq and ash-Sham - Khorasan (ISIS-K)<br>
-<strong>note:</strong> details about the history, aims, leadership, organization, areas of operation, tactics, targets, weapons, size, and sources of support of the group(s) appear(s) in Appendix-T<br>
+<strong>note 1:</strong> these groups have typically been active in the area where the Uzbek, Kyrgyz, and Tajik borders converge and ill-defined and porous borders allow for the relatively free movement of people and illicit goods <strong><br><br>note 2:</strong> details about the history, aims, leadership, organization, areas of operation, tactics, targets, weapons, size, and sources of support of the group(s) appear(s) in Appendix-T<br>
 
 ## Transnational Issues
 

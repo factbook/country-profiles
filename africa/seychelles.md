@@ -74,7 +74,7 @@ the smallest African country in terms of both area and population; the constitut
 ## People and Society
 
 **Population**<br>
-97,017 (2022 est.)<br>
+97,617 (2023 est.)<br>
 
 **Nationality**<br>
 _noun_: Seychellois (singular and plural)<br>
@@ -93,11 +93,9 @@ Roman Catholic 76.2%, Protestant 10.5% (Anglican 6.1%, Pentecostal Assembly 1.5%
 <p>Seychelles has no indigenous population and was first permanently settled by a small group of French planters, African slaves, and South Indians in 1770. Seychelles’ modern population is composed of the descendants of French and later British settlers, Africans, and Indian, Chinese, and Middle Eastern traders and is concentrated on three of its 155 islands – the vast majority on Mahe and lesser numbers on Praslin and La Digue. Seychelles’ population grew rapidly during the second half of the 20th century, largely due to natural increase, but the pace has slowed because of fertility decline. The total fertility rate dropped sharply from 4.0 children per woman in 1980 to 1.9 in 2015, mainly as a result of a family planning program, free education and health care, and increased female labor force participation. Life expectancy has increased steadily, but women on average live 9 years longer than men, a difference that is higher than that typical of developed countries.</p><p>The combination of reduced fertility and increased longevity has resulted in an aging population, which will put pressure on the government’s provision of pensions and health care. Seychelles’ sustained investment in social welfare services, such as free primary health care and education up to the post-secondary level, have enabled the country to achieve a high human development index score – among the highest in Africa. Despite some of its health and education indicators being nearly on par with Western countries, Seychelles has a high level of income inequality.</p><p>An increasing number of migrant workers – mainly young men – have been coming to Seychelles in recent years to work in the construction and tourism industries. As of 2011, foreign workers made up nearly a quarter of the workforce. Indians are the largest non-Seychellois population – representing half of the country’s foreigners – followed by Malagasy.</p><br>
 
 **Age structure**<br>
-_0-14 years_: 18.85% (male 9,297/female 8,798)<br>
-_15-24 years_: 12.39% (male 6,283/female 5,607)<br>
-_25-54 years_: 49.03% (male 25,209/female 21,851)<br>
-_55-64 years_: 11.46% (male 5,545/female 5,455)<br>
-_65 years and over_: 8.27% (male 3,272/female 4,664) (2020 est.)<br>
+_0-14 years_: 17.95% (male 8,999/female 8,524)<br>
+_15-64 years_: 72.58% (male 37,677/female 33,177)<br>
+_65 years and over_: 9.47% (2023 est.) (male 3,956/female 5,284)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 45<br>
@@ -111,16 +109,16 @@ _male_: 36.3 years<br>
 _female_: 37.4 years (2020 est.)<br>
 
 **Population growth rate**<br>
-0.64% (2022 est.)<br>
+0.6% (2023 est.)<br>
 
 **Birth rate**<br>
-12.37 births/1,000 population (2022 est.)<br>
+12.1 births/1,000 population (2023 est.)<br>
 
 **Death rate**<br>
-6.88 deaths/1,000 population (2022 est.)<br>
+6.9 deaths/1,000 population (2023 est.)<br>
 
 **Net migration rate**<br>
-0.86 migrant(s)/1,000 population (2022 est.)<br>
+0.81 migrant(s)/1,000 population (2023 est.)<br>
 
 **Population distribution**<br>
 more than three-quarters of the population lives on the main island of Mahe; Praslin contains less than 10%; a smaller percent on La Digue and the outer islands as shown in this population distribution map<br>
@@ -135,24 +133,22 @@ _rate of urbanization_: 0.99% annual rate of change (2020-25 est.)<br>
 **Sex ratio**<br>
 _at birth_: 1.03 male(s)/female<br>
 _0-14 years_: 1.06 male(s)/female<br>
-_15-24 years_: 1.13 male(s)/female<br>
-_25-54 years_: 1.17 male(s)/female<br>
-_55-64 years_: 0.99 male(s)/female<br>
-_65 years and over_: 0.47 male(s)/female<br>
-_total population_: 1.08 male(s)/female (2022 est.)<br>
+_15-64 years_: 1.14 male(s)/female<br>
+_65 years and over_: 0.75 male(s)/female<br>
+_total population_: 1.08 male(s)/female (2023 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 10.6 deaths/1,000 live births<br>
-_male_: 13.35 deaths/1,000 live births<br>
-_female_: 7.76 deaths/1,000 live births (2022 est.)<br>
+_total_: 10.38 deaths/1,000 live births<br>
+_male_: 13.07 deaths/1,000 live births<br>
+_female_: 7.6 deaths/1,000 live births (2023 est.)<br>
 
 **Life expectancy at birth**<br>
-_total population_: 76.1 years<br>
-_male_: 71.67 years<br>
-_female_: 80.66 years (2022 est.)<br>
+_total population_: 76.36 years<br>
+_male_: 71.96 years<br>
+_female_: 80.89 years (2023 est.)<br>
 
 **Total fertility rate**<br>
-1.82 children born/woman (2022 est.)<br>
+1.81 children born/woman (2023 est.)<br>
 
 **Gross reproduction rate**<br>
 0.89 (2023 est.)<br>

@@ -85,7 +85,7 @@ strategic location on the Persian Gulf and Strait of Hormuz, which are vital mar
 ## People and Society
 
 **Population**<br>
-86,758,304 (2022 est.)<br>
+87,590,873 (2023 est.)<br>
 
 **Nationality**<br>
 _noun_: Iranian(s)<br>
@@ -102,11 +102,9 @@ _major-language sample(s)_: <br>چکیده نامه جهان، منبعی ضرو
 Muslim (official) 99.6% (Shia 90-95%, Sunni 5-10%), other (includes Zoroastrian, Jewish, and Christian) 0.3%, unspecified 0.2% (2016 est.)<br>
 
 **Age structure**<br>
-_0-14 years_: 24.11% (male 10,472,844/female 10,000,028)<br>
-_15-24 years_: 13.36% (male 5,806,034/female 5,537,561)<br>
-_25-54 years_: 48.94% (male 21,235,038/female 20,327,384)<br>
-_55-64 years_: 7.72% (male 3,220,074/female 3,337,420)<br>
-_65 years and over_: 5.87% (male 2,316,677/female 2,670,254) (2020 est.)<br>
+_0-14 years_: 23.51% (male 10,533,573/female 10,060,225)<br>
+_15-64 years_: 69.82% (male 31,140,117/female 30,014,613)<br>
+_65 years and over_: 6.67% (2023 est.) (male 2,723,298/female 3,119,047)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 45.3<br>
@@ -120,16 +118,16 @@ _male_: 31.5 years<br>
 _female_: 32 years (2020 est.)<br>
 
 **Population growth rate**<br>
-0.98% (2022 est.)<br>
+0.93% (2023 est.)<br>
 
 **Birth rate**<br>
-15.27 births/1,000 population (2022 est.)<br>
+14.79 births/1,000 population (2023 est.)<br>
 
 **Death rate**<br>
-5.17 deaths/1,000 population (2022 est.)<br>
+5.2 deaths/1,000 population (2023 est.)<br>
 
 **Net migration rate**<br>
--0.3 migrant(s)/1,000 population (2022 est.)<br>
+-0.3 migrant(s)/1,000 population (2023 est.)<br>
 
 **Population distribution**<br>
 population is concentrated in the north, northwest, and west, reflecting the position of the Zagros and Elburz Mountains; the vast dry areas in the center and eastern parts of the country, around the deserts of the Dasht-e Kavir and Dasht-e Lut, have a much lower population density<br>
@@ -144,27 +142,25 @@ _rate of urbanization_: 1.32% annual rate of change (2020-25 est.)<br>
 **Sex ratio**<br>
 _at birth_: 1.05 male(s)/female<br>
 _0-14 years_: 1.05 male(s)/female<br>
-_15-24 years_: 1.05 male(s)/female<br>
-_25-54 years_: 1.05 male(s)/female<br>
-_55-64 years_: 0.96 male(s)/female<br>
-_65 years and over_: 0.77 male(s)/female<br>
-_total population_: 1.03 male(s)/female (2022 est.)<br>
+_15-64 years_: 1.04 male(s)/female<br>
+_65 years and over_: 0.87 male(s)/female<br>
+_total population_: 1.03 male(s)/female (2023 est.)<br>
 
 **Maternal mortality ratio**<br>
 16 deaths/100,000 live births (2017 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 14.84 deaths/1,000 live births<br>
-_male_: 15.97 deaths/1,000 live births<br>
-_female_: 13.65 deaths/1,000 live births (2022 est.)<br>
+_total_: 14.58 deaths/1,000 live births<br>
+_male_: 15.7 deaths/1,000 live births<br>
+_female_: 13.4 deaths/1,000 live births (2023 est.)<br>
 
 **Life expectancy at birth**<br>
-_total population_: 75.25 years<br>
-_male_: 73.89 years<br>
-_female_: 76.67 years (2022 est.)<br>
+_total population_: 75.44 years<br>
+_male_: 74.07 years<br>
+_female_: 76.87 years (2023 est.)<br>
 
 **Total fertility rate**<br>
-1.93 children born/woman (2022 est.)<br>
+1.92 children born/woman (2023 est.)<br>
 
 **Gross reproduction rate**<br>
 0.94 (2023 est.)<br>

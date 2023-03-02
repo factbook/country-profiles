@@ -85,7 +85,7 @@ Kilimanjaro is the highest point in Africa and one of only three mountain ranges
 ## People and Society
 
 **Population**<br>
-63,852,892 (2022 est.)<br>
+65,642,682 (2023 est.)<br>
 
 **Nationality**<br>
 _noun_: Tanzanian(s)<br>
@@ -106,11 +106,9 @@ Christian 63.1%, Muslim 34.1%, folk religion 1.1%, Buddhist &lt;1%, Hindu &lt;1%
 <p>Tanzania has the largest population in East Africa and the lowest population density; more than a third of the population is urban. Tanzania’s youthful population – over 60% of the population is under 25 as of 2020 – is growing rapidly because of the high total fertility rate of 4.4 children per woman, as of 2022. Progress in reducing the birth rate has stalled, sustaining the country’s nearly 3% annual growth rate. The maternal mortality rate has improved since 2000, yet it remains very high because of early and frequent pregnancies, inadequate maternal health services, and a lack of skilled birth attendants – problems that are worse among poor and rural women. Tanzania has made strides in reducing under-5 and infant mortality rates, but a recent drop in immunization threatens to undermine gains in child health. Malaria is a leading killer of children under 5, while HIV is the main source of adult mortality.</p> <p>For Tanzania, most migration is internal, rural to urban movement, while some temporary labor migration from towns to plantations takes place seasonally for harvests. Tanzania was Africa’s largest refugee-hosting country for decades, hosting hundreds of thousands of refugees from the Great Lakes region, primarily Burundi, over the last fifty years. However, the assisted repatriation and naturalization of tens of thousands of Burundian refugees between 2002 and 2014 dramatically reduced the refugee population. Tanzania is increasingly a transit country for illegal migrants from the Horn of Africa and the Great Lakes region who are heading to southern Africa for security reasons and/or economic opportunities. Some of these migrants choose to settle in Tanzania.</p><br>
 
 **Age structure**<br>
-_0-14 years_: 42.7% (male 12,632,772/female 12,369,115)<br>
-_15-24 years_: 20.39% (male 5,988,208/female 5,948,134)<br>
-_25-54 years_: 30.31% (male 8,903,629/female 8,844,180)<br>
-_55-64 years_: 3.52% (male 954,251/female 1,107,717)<br>
-_65 years and over_: 3.08% (male 747,934/female 1,056,905) (2020 est.)<br>
+_0-14 years_: 41.5% (male 13,765,789/female 13,475,555)<br>
+_15-64 years_: 55.15% (male 18,076,988/female 18,123,677)<br>
+_65 years and over_: 3.35% (2023 est.) (male 933,786/female 1,266,887)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 87.7<br>
@@ -124,16 +122,16 @@ _male_: 17.9 years<br>
 _female_: 18.4 years (2020 est.)<br>
 
 **Population growth rate**<br>
-2.78% (2022 est.)<br>
+2.75% (2023 est.)<br>
 
 **Birth rate**<br>
-33.3 births/1,000 population (2022 est.)<br>
+32.9 births/1,000 population (2023 est.)<br>
 
 **Death rate**<br>
-5.09 deaths/1,000 population (2022 est.)<br>
+5.02 deaths/1,000 population (2023 est.)<br>
 
 **Net migration rate**<br>
--0.41 migrant(s)/1,000 population (2022 est.)<br>
+-0.39 migrant(s)/1,000 population (2023 est.)<br>
 
 **Population distribution**<br>
 the largest and most populous East African country; population distribution is extremely uneven, but greater population clusters occur in the northern half of country and along the east coast as shown in this population distribution map<br>
@@ -148,11 +146,9 @@ _rate of urbanization_: 4.89% annual rate of change (2020-25 est.)<br>
 **Sex ratio**<br>
 _at birth_: 1.03 male(s)/female<br>
 _0-14 years_: 1.02 male(s)/female<br>
-_15-24 years_: 1.01 male(s)/female<br>
-_25-54 years_: 0.99 male(s)/female<br>
-_55-64 years_: 0.92 male(s)/female<br>
-_65 years and over_: 0.7 male(s)/female<br>
-_total population_: 1 male(s)/female (2022 est.)<br>
+_15-64 years_: 1 male(s)/female<br>
+_65 years and over_: 0.74 male(s)/female<br>
+_total population_: 1 male(s)/female (2023 est.)<br>
 
 **Mother's mean age at first birth**<br>
 19.8 years (2015/16 est.)<br>
@@ -162,17 +158,17 @@ _total population_: 1 male(s)/female (2022 est.)<br>
 524 deaths/100,000 live births (2017 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 30.87 deaths/1,000 live births<br>
-_male_: 33.66 deaths/1,000 live births<br>
-_female_: 28 deaths/1,000 live births (2022 est.)<br>
+_total_: 30.25 deaths/1,000 live births<br>
+_male_: 32.97 deaths/1,000 live births<br>
+_female_: 27.44 deaths/1,000 live births (2023 est.)<br>
 
 **Life expectancy at birth**<br>
-_total population_: 70.19 years<br>
-_male_: 68.42 years<br>
-_female_: 72.02 years (2022 est.)<br>
+_total population_: 70.48 years<br>
+_male_: 68.72 years<br>
+_female_: 72.29 years (2023 est.)<br>
 
 **Total fertility rate**<br>
-4.39 children born/woman (2022 est.)<br>
+4.33 children born/woman (2023 est.)<br>
 
 **Gross reproduction rate**<br>
 2.13 (2023 est.)<br>
@@ -760,7 +756,7 @@ Islamic State of Iraq and ash-Sham - Mozambique (ISIS-M)<br>
 <p><em>Tanzania-Burundi</em>: none identified</p> <p><em>Tanzania-Democratic Republic of the Congo</em>: none identified</p> <p><em>Tanzania-Kenya</em>: none identified</p> <p><em>Tanzania-Malawi</em>: dispute with Malawi over the boundary in Lake Nyasa (Lake Malawi) and the meandering Songwe River; Malawi contends that the entire lake up to the Tanzanian shoreline is its territory, while Tanzania claims the border is in the center of the lake</p> <p><em>Tanzania-Mozambique</em>: none identified</p> <p><em>Tanzania-Rwanda</em>: none identified</p> <p><em>Tanzania-Uganda</em>: none identified</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 126,241 (Burundi), 80,043 (Democratic Republic of the Congo) (2022)<br>
+_refugees (country of origin)_: 80,043 (Democratic Republic of the Congo) (2022); 126,608 (Burundi) (2023)<br>
 
 **Illicit drugs**<br>
 <p>significant transit country for illicit drugs in East Africa; international drug-trafficking organizations and courier networks transit through Tanzania to smuggle heroin and methamphetamine from Southwest Asia; produces cannabis products and khat for domestic consumption and regional and international distribution; traffickers influence politicians, law enforcement, and others in positions of power with money</p> (2021)<br>

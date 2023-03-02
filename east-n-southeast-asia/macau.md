@@ -68,7 +68,7 @@ essentially urban; an area of land reclaimed from the sea measuring 5.2 sq km an
 ## People and Society
 
 **Population**<br>
-635,293 (2022 est.)<br>
+639,971 (2023 est.)<br>
 
 **Nationality**<br>
 _noun_: Chinese<br>
@@ -85,11 +85,9 @@ _major-language sample(s)_: <br> <p>世界概况, 必須擁有的基本資料参
 folk religion 58.9%, Buddhist 17.3%, Christian 7.2%, other 1.2%, none 15.4% (2020 est.)<br>
 
 **Age structure**<br>
-_0-14 years_: 13.43% (male 42,449/female 40,051)<br>
-_15-24 years_: 10.45% (male 33,845/female 30,354)<br>
-_25-54 years_: 49% (male 134,302/female 166,762)<br>
-_55-64 years_: 14.57% (male 44,512/female 45,007)<br>
-_65 years and over_: 12.56% (male 36,223/female 40,953) (2020 est.)<br>
+_0-14 years_: 14.42% (male 47,202/female 45,056)<br>
+_15-64 years_: 70.73% (male 211,278/female 241,366)<br>
+_65 years and over_: 14.86% (2023 est.) (male 44,657/female 50,412)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 36.9<br>
@@ -103,16 +101,16 @@ _male_: 40.7 years<br>
 _female_: 40.9 years (2020 est.)<br>
 
 **Population growth rate**<br>
-0.75% (2022 est.)<br>
+0.71% (2023 est.)<br>
 
 **Birth rate**<br>
-9.11 births/1,000 population (2022 est.)<br>
+8.82 births/1,000 population (2023 est.)<br>
 
 **Death rate**<br>
-4.72 deaths/1,000 population (2022 est.)<br>
+4.81 deaths/1,000 population (2023 est.)<br>
 
 **Net migration rate**<br>
-3.15 migrant(s)/1,000 population (2022 est.)<br>
+3.13 migrant(s)/1,000 population (2023 est.)<br>
 
 **Population distribution**<br>
 population fairly equally distributed<br>
@@ -127,24 +125,22 @@ _rate of urbanization_: 1.46% annual rate of change (2020-25 est.)<br>
 **Sex ratio**<br>
 _at birth_: 1.05 male(s)/female<br>
 _0-14 years_: 1.05 male(s)/female<br>
-_15-24 years_: 1.11 male(s)/female<br>
-_25-54 years_: 0.83 male(s)/female<br>
-_55-64 years_: 0.97 male(s)/female<br>
-_65 years and over_: 0.74 male(s)/female<br>
-_total population_: 0.9 male(s)/female (2022 est.)<br>
+_15-64 years_: 0.88 male(s)/female<br>
+_65 years and over_: 0.89 male(s)/female<br>
+_total population_: 0.9 male(s)/female (2023 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 4.59 deaths/1,000 live births<br>
-_male_: 4.68 deaths/1,000 live births<br>
-_female_: 4.5 deaths/1,000 live births (2022 est.)<br>
+_total_: 4.5 deaths/1,000 live births<br>
+_male_: 4.59 deaths/1,000 live births<br>
+_female_: 4.41 deaths/1,000 live births (2023 est.)<br>
 
 **Life expectancy at birth**<br>
-_total population_: 84.98 years<br>
-_male_: 82.09 years<br>
-_female_: 88.02 years (2022 est.)<br>
+_total population_: 85.16 years<br>
+_male_: 82.28 years<br>
+_female_: 88.18 years (2023 est.)<br>
 
 **Total fertility rate**<br>
-1.22 children born/woman (2022 est.)<br>
+1.23 children born/woman (2023 est.)<br>
 
 **Gross reproduction rate**<br>
 0.6 (2023 est.)<br>

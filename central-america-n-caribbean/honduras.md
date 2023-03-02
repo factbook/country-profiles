@@ -79,7 +79,7 @@ has only a short Pacific coast but a long Caribbean shoreline, including the vir
 ## People and Society
 
 **Population**<br>
-9,459,440 (2022 est.)<br>
+9,571,352 (2023 est.)<br>
 
 **Nationality**<br>
 _noun_: Honduran(s)<br>
@@ -99,11 +99,9 @@ Evangelical/Protestant 48%, Roman Catholic 34%, other 1%, none 17% (2020 est.)<b
 <p>Honduras is one of the poorest countries in Latin America and has one of the world's highest murder rates. More than half of the population lives in poverty and per capita income is one of the lowest in the region. Poverty rates are higher among rural and indigenous people and in the south, west, and along the eastern border than in the north and central areas where most of Honduras' industries and infrastructure are concentrated. The increased productivity needed to break Honduras' persistent high poverty rate depends, in part, on further improvements in educational attainment. Although primary-school enrollment is near 100%, educational quality is poor, the drop-out rate and grade repetition remain high, and teacher and school accountability is low.</p> <p>Honduras' population growth rate has slowed since the 1990s and is now 1.2% annually with a birth rate that averages 2.1 children per woman and more among rural, indigenous, and poor women. Honduras' young adult population - ages 15 to 29 - is projected to continue growing rapidly for the next three decades and then stabilize or slowly shrink. Population growth and limited job prospects outside of agriculture will continue to drive emigration. Remittances represent about a fifth of GDP.</p><br>
 
 **Age structure**<br>
-_0-14 years_: 30.2% (male 1,411,537/female 1,377,319)<br>
-_15-24 years_: 21.03% (male 969,302/female 972,843)<br>
-_25-54 years_: 37.79% (male 1,657,260/female 1,832,780)<br>
-_55-64 years_: 5.58% (male 233,735/female 281,525)<br>
-_65 years and over_: 5.4% (male 221,779/female 277,260) (2020 est.)<br>
+_0-14 years_: 27.92% (male 1,352,581/female 1,319,338)<br>
+_15-64 years_: 66.18% (male 3,050,008/female 3,283,949)<br>
+_65 years and over_: 5.91% (2023 est.) (male 249,241/female 316,235)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 53.3<br>
@@ -117,16 +115,16 @@ _male_: 23.5 years<br>
 _female_: 25.2 years (2020 est.)<br>
 
 **Population growth rate**<br>
-1.19% (2022 est.)<br>
+1.16% (2023 est.)<br>
 
 **Birth rate**<br>
-17.92 births/1,000 population (2022 est.)<br>
+17.64 births/1,000 population (2023 est.)<br>
 
 **Death rate**<br>
-4.68 deaths/1,000 population (2022 est.)<br>
+4.69 deaths/1,000 population (2023 est.)<br>
 
 **Net migration rate**<br>
--1.34 migrant(s)/1,000 population (2022 est.)<br>
+-1.32 migrant(s)/1,000 population (2023 est.)<br>
 
 **Population distribution**<br>
 most residents live in the mountainous western half of the country; unlike other Central American nations, Honduras is the only one with an urban population that is distributed between two large centers - the capital of Tegucigalpa and the city of San Pedro Sula; the Rio Ulua valley in the north is the only densely populated lowland area<br>
@@ -141,11 +139,9 @@ _rate of urbanization_: 2.48% annual rate of change (2020-25 est.)<br>
 **Sex ratio**<br>
 _at birth_: 1.03 male(s)/female<br>
 _0-14 years_: 1.03 male(s)/female<br>
-_15-24 years_: 1 male(s)/female<br>
-_25-54 years_: 0.9 male(s)/female<br>
-_55-64 years_: 0.83 male(s)/female<br>
-_65 years and over_: 0.71 male(s)/female<br>
-_total population_: 0.95 male(s)/female (2022 est.)<br>
+_15-64 years_: 0.93 male(s)/female<br>
+_65 years and over_: 0.79 male(s)/female<br>
+_total population_: 0.95 male(s)/female (2023 est.)<br>
 
 **Mother's mean age at first birth**<br>
 20.3 years (2011/12 est.)<br>
@@ -155,17 +151,17 @@ _total population_: 0.95 male(s)/female (2022 est.)<br>
 65 deaths/100,000 live births (2017 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 15.08 deaths/1,000 live births<br>
-_male_: 17.2 deaths/1,000 live births<br>
-_female_: 12.89 deaths/1,000 live births (2022 est.)<br>
+_total_: 14.77 deaths/1,000 live births<br>
+_male_: 16.88 deaths/1,000 live births<br>
+_female_: 12.59 deaths/1,000 live births (2023 est.)<br>
 
 **Life expectancy at birth**<br>
-_total population_: 75.17 years<br>
-_male_: 71.63 years<br>
-_female_: 78.82 years (2022 est.)<br>
+_total population_: 75.43 years<br>
+_male_: 71.91 years<br>
+_female_: 79.06 years (2023 est.)<br>
 
 **Total fertility rate**<br>
-2.01 children born/woman (2022 est.)<br>
+1.98 children born/woman (2023 est.)<br>
 
 **Gross reproduction rate**<br>
 0.97 (2023 est.)<br>
@@ -718,7 +714,7 @@ the armed forces, including the PMOP, are subordinate to the Secretariat of Defe
 <p><em>Honduras-El Salvador:</em> International Court of Justice (ICJ) ruled on the delimitation of "bolsones" (disputed areas) along the El Salvador-Honduras border in 1992 with final settlement by the parties in 2006 after an Organization of American States survey and a further ICJ ruling in 2003; the 1992 ICJ ruling advised a tripartite resolution to a maritime boundary in the Gulf of Fonseca with consideration of Honduran access to the Pacific; El Salvador continues to claim tiny Conejo Island, not mentioned in the ICJ ruling, off Honduras in the Gulf of Fonseca. <br><em><br>Honduras-Belize:</em> Honduras claims the Belizean-administered Sapodilla Cays off the coast of Belize in its constitution, but agreed to a joint ecological park around the cays should Guatemala consent to a maritime corridor in the Caribbean under the OAS-sponsored 2002 Belize-Guatemala Differendum</p><br>
 
 **Refugees and internally displaced persons**<br>
-_IDPs_: 247,000 (violence, extortion, threats, forced recruitment by urban gangs between 2004 and 2018) (2021)<br>
+_IDPs_: 247,000 (violence, extortion, threats, forced recruitment by urban gangs between 2004 and 2018) (2023)<br>
 
 **Illicit drugs**<br>
 <p>transshipment point for cocaine destined for the United States and precursor chemicals used to produce illicit drugs; some experimental coca cultivation</p><br>

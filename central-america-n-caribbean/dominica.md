@@ -73,7 +73,7 @@ known as "The Nature Island of the Caribbean" due to its spectacular, lush, and 
 ## People and Society
 
 **Population**<br>
-74,629 (2022 est.)<br>
+74,656 (2023 est.)<br>
 
 **Nationality**<br>
 _noun_: Dominican(s)<br>
@@ -89,11 +89,9 @@ English (official), French patois<br>
 Roman Catholic 52.7%, Protestant 29.7% (includes Seventh Day Adventist 6.7%, Pentecostal 6.1%, Baptist 5.2%, Christian Union Church 3.9%, Methodist 2.6%, Gospel Mission 2.1%, other Protestant 3.1%), Jehovah's Witness 1.3%, Rastafarian 1.1%, other 4.3%, none 9.4%, unspecified 1.4% (2011 est.)<br>
 
 **Age structure**<br>
-_0-14 years_: 21.41% (male 8,135/female 7,760)<br>
-_15-24 years_: 13.15% (male 5,017/female 4,746)<br>
-_25-54 years_: 42.79% (male 16,133/female 15,637)<br>
-_55-64 years_: 10.53% (male 4,089/female 3,731)<br>
-_65 years and over_: 12.12% (male 4,128/female 4,867) (2020 est.)<br>
+_0-14 years_: 20.82% (male 7,954/female 7,592)<br>
+_15-64 years_: 65.82% (male 25,085/female 24,053)<br>
+_65 years and over_: 13.36% (2023 est.) (male 4,712/female 5,260)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 41.2<br>
@@ -107,16 +105,16 @@ _male_: 34.4 years<br>
 _female_: 35.5 years (2020 est.)<br>
 
 **Population growth rate**<br>
-0.05% (2022 est.)<br>
+0.02% (2023 est.)<br>
 
 **Birth rate**<br>
-13.91 births/1,000 population (2022 est.)<br>
+13.64 births/1,000 population (2023 est.)<br>
 
 **Death rate**<br>
-8.11 deaths/1,000 population (2022 est.)<br>
+8.12 deaths/1,000 population (2023 est.)<br>
 
 **Net migration rate**<br>
--5.31 migrant(s)/1,000 population (2022 est.)<br>
+-5.3 migrant(s)/1,000 population (2023 est.)<br>
 
 **Population distribution**<br>
 population is mosly clustered along the coast, with roughly a third living in the parish of St. George, in or around the capital of Roseau; the volcanic interior is sparsely populated<br>
@@ -131,24 +129,22 @@ _rate of urbanization_: 0.84% annual rate of change (2020-25 est.)<br>
 **Sex ratio**<br>
 _at birth_: 1.05 male(s)/female<br>
 _0-14 years_: 1.05 male(s)/female<br>
-_15-24 years_: 1.06 male(s)/female<br>
-_25-54 years_: 1.04 male(s)/female<br>
-_55-64 years_: 1.06 male(s)/female<br>
-_65 years and over_: 0.68 male(s)/female<br>
-_total population_: 1.02 male(s)/female (2022 est.)<br>
+_15-64 years_: 1.04 male(s)/female<br>
+_65 years and over_: 0.9 male(s)/female<br>
+_total population_: 1.02 male(s)/female (2023 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 11.27 deaths/1,000 live births<br>
-_male_: 15.28 deaths/1,000 live births<br>
-_female_: 7.07 deaths/1,000 live births (2022 est.)<br>
+_total_: 11 deaths/1,000 live births<br>
+_male_: 14.89 deaths/1,000 live births<br>
+_female_: 6.91 deaths/1,000 live births (2023 est.)<br>
 
 **Life expectancy at birth**<br>
-_total population_: 78.21 years<br>
-_male_: 75.25 years<br>
-_female_: 81.31 years (2022 est.)<br>
+_total population_: 78.45 years<br>
+_male_: 75.51 years<br>
+_female_: 81.53 years (2023 est.)<br>
 
 **Total fertility rate**<br>
-2.02 children born/woman (2022 est.)<br>
+2.01 children born/woman (2023 est.)<br>
 
 **Gross reproduction rate**<br>
 0.98 (2023 est.)<br>

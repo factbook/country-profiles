@@ -87,7 +87,7 @@ highest density is found in the highlands of the north and middle areas of the c
 ## People and Society
 
 **Population**<br>
-113,656,596 (2022 est.)<br>
+116,462,712 (2023 est.)<br>
 
 **Nationality**<br>
 _noun_: Ethiopian(s)<br>
@@ -107,11 +107,9 @@ Ethiopian Orthodox 43.8%, Muslim 31.3%, Protestant 22.8%, Catholic 0.7%, traditi
 <p>Ethiopia is a predominantly agricultural country – nearly 80% of the population lives in rural areas – that is in the early stages of demographic transition. Infant, child, and maternal mortality have fallen sharply over the past decade, but the total fertility rate has declined more slowly and the population continues to grow. The rising age of marriage and the increasing proportion of women remaining single have contributed to fertility reduction. While the use of modern contraceptive methods among married women has increased significantly from 6 percent in 2000 to 27 percent in 2012, the overall rate is still quite low.</p> <p>Ethiopia’s rapid population growth is putting increasing pressure on land resources, expanding environmental degradation, and raising vulnerability to food shortages. With about 40 percent of the population below the age of 15 and a fertility rate of 4 children per woman (and even higher in rural areas), Ethiopia will have to make further progress in meeting its family planning needs if it is to achieve the age structure necessary for reaping a demographic dividend in the coming decades.</p> <p>Poverty, drought, political repression, and forced government resettlement have driven Ethiopia’s internal and external migration since the 1960s. Before the 1974 revolution, only small numbers of the Ethiopian elite went abroad to study and then returned home, but under the brutal Derg regime thousands fled the country, primarily as refugees. Between 1982 and 1991 there was a new wave of migration to the West for family reunification. Since the defeat of the Derg in 1991, Ethiopians have migrated to escape violence among some of the country’s myriad ethnic groups or to pursue economic opportunities. Internal and international trafficking of women and children for domestic work and prostitution is a growing problem.</p><br>
 
 **Age structure**<br>
-_0-14 years_: 39.81% (male 21,657,152/female 21,381,628)<br>
-_15-24 years_: 19.47% (male 10,506,144/female 10,542,128)<br>
-_25-54 years_: 32.92% (male 17,720,540/female 17,867,298)<br>
-_55-64 years_: 4.42% (male 2,350,606/female 2,433,319)<br>
-_65 years and over_: 3.38% (male 1,676,478/female 1,977,857) (2020 est.)<br>
+_0-14 years_: 38.91% (male 22,821,026/female 22,498,331)<br>
+_15-64 years_: 57.55% (male 33,345,764/female 33,672,933)<br>
+_65 years and over_: 3.54% (2023 est.) (male 1,887,831/female 2,236,827)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 75.7<br>
@@ -125,16 +123,16 @@ _male_: 19.6 years<br>
 _female_: 20.1 years (2020 est.)<br>
 
 **Population growth rate**<br>
-2.46% (2022 est.)<br>
+2.42% (2023 est.)<br>
 
 **Birth rate**<br>
-30.49 births/1,000 population (2022 est.)<br>
+29.97 births/1,000 population (2023 est.)<br>
 
 **Death rate**<br>
-5.7 deaths/1,000 population (2022 est.)<br>
+5.6 deaths/1,000 population (2023 est.)<br>
 
 **Net migration rate**<br>
--0.19 migrant(s)/1,000 population (2022 est.)<br>
+-0.19 migrant(s)/1,000 population (2023 est.)<br>
 
 **Population distribution**<br>
 highest density is found in the highlands of the north and middle areas of the country, particularly around the centrally located capital city of Addis Ababa; the far east and southeast are sparsely populated as shown in this population distribution map<br>
@@ -149,11 +147,9 @@ _rate of urbanization_: 4.4% annual rate of change (2020-25 est.)<br>
 **Sex ratio**<br>
 _at birth_: 1.03 male(s)/female<br>
 _0-14 years_: 1.01 male(s)/female<br>
-_15-24 years_: 1 male(s)/female<br>
-_25-54 years_: 0.99 male(s)/female<br>
-_55-64 years_: 0.96 male(s)/female<br>
-_65 years and over_: 0.68 male(s)/female<br>
-_total population_: 0.99 male(s)/female (2022 est.)<br>
+_15-64 years_: 0.99 male(s)/female<br>
+_65 years and over_: 0.84 male(s)/female<br>
+_total population_: 0.99 male(s)/female (2023 est.)<br>
 
 **Mother's mean age at first birth**<br>
 19.3 years (2019 est.)<br>
@@ -163,17 +159,17 @@ _total population_: 0.99 male(s)/female (2022 est.)<br>
 401 deaths/100,000 live births (2017 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 33.51 deaths/1,000 live births<br>
-_male_: 38.33 deaths/1,000 live births<br>
-_female_: 28.55 deaths/1,000 live births (2022 est.)<br>
+_total_: 32.44 deaths/1,000 live births<br>
+_male_: 37.13 deaths/1,000 live births<br>
+_female_: 27.6 deaths/1,000 live births (2023 est.)<br>
 
 **Life expectancy at birth**<br>
-_total population_: 68.25 years<br>
-_male_: 66.12 years<br>
-_female_: 70.44 years (2022 est.)<br>
+_total population_: 68.59 years<br>
+_male_: 66.43 years<br>
+_female_: 70.81 years (2023 est.)<br>
 
 **Total fertility rate**<br>
-3.99 children born/woman (2022 est.)<br>
+3.92 children born/woman (2023 est.)<br>
 
 **Gross reproduction rate**<br>
 1.93 (2023 est.)<br>
@@ -752,7 +748,7 @@ the ENDF's inventory is comprised mostly of Russian and Soviet-era equipment; in
 5-10,000 Somalia (4,500 for ATMIS; the remainder under a bilateral agreement with Somalia; note - bilateral figures are prior to the conflict with Tigray); 250 Sudan (UNISFA); 1,475 South Sudan (UNMISS) (2022)<br>
 
 **Military - note**<br>
-from November of 2020 until a cease-fire was negotiated in November 2022, the Government of Ethiopia (GoE) engaged in a military conflict with the Tigray People’s Liberation Front (TPLF), the former governing party of the Tigray Region; the GoE deemed a TPLF attack on an ENDF base as a domestic terrorism incident and launched a military offensive in response; the TPLF asserted that its actions were self-defense in the face of planned GoE action to remove it from the provincial government; the GoE sent large elements of the ENDF into Tigray to remove the TPLF and invited militia and paramilitary forces from the states of Afar and Amara, as well as the military forces of Eritrea, to assist; TPLF military forces were known as the Tigray Defense Force (TDF) and were comprised of state paramilitary forces, local militia, and troops that defected from the ENDF; the fighting included heavy civilian and military casualties with widespread abuses reported<br><br>as of 2023, the ENDF was engaged in counterinsurgency operations against anti-government militants in several other states, particularly in Oromya (Oromia) against the Oromo Liberation Army (OLA; aka Shene), an insurgent group that claimed to be fighting for greater autonomy for the Oromo, Ethiopia's largest ethnic group; the OLA was a member of a coalition of eight anti-government factions known as the United Front of Ethiopia and Confederalist Forces (UFEFCF); formed in 2021, the UFEFCF included the TPLF, as well as rebel groups of variable sizes from several regions of the country; the OLA has also clashed with ethnic militias (aka Fano) from the neighboring state of Amara<br><br>in July 2022, militants from the Somalia-based terrorist group al-Shabaab launched an incursion into Ethiopia's Somali (Sumale) region, attacking villages and security forces; the GoE claimed that regional security forces killed hundreds of Shabaab fighters and subsequently deployed additional ENDF troops into Somalia’s Gedo region to prevent further incursions (2023)<br>
+the ENDF is one of sub-Saharan Africa’s largest, most experienced, and best equipped militaries; the Ground Forces are estimated to have more than 20 infantry divisions, including several that are mechanized, along with at least 1 division of commandos/special forces; the Air Force has combat squadrons of multipurpose fighter aircraft, attack helicopters, and armed unmanned aerial vehicles; ENDF operations are often supported by sizeable regional state paramilitary units <br><br>the ENDF is focused on both external threats emanating from its neighbors and against multiple internal armed groups; since 1998, the ENDF has engaged in several conventional and counterinsurgency operations, including border wars with Eritrea (1998-2000) and Somalia (2006-2008) and internal conflicts with the Tigray regional state (2020-2022), several insurgent groups and ethnic militias (aka Fano), and the al-Shabaab terrorist group; the ENDF is currently conducting counterinsurgency operations against anti-government militants in several states, including in Oromya (Oromia) against the Oromo Liberation Army (OLA; aka Shene), an insurgent group that claims to be fighting for greater autonomy for the Oromo, Ethiopia's largest ethnic group; in 2022, militants from the Somalia-based al-Shabaab terrorist group launched an incursion into Ethiopia's Somali (Sumale) region, attacking villages and security forces; the Ethiopian Government claimed that regional security forces killed hundreds of Shabaab fighters and subsequently deployed additional ENDF troops into Somalia’s Gedo region to prevent further incursions<br><br>from November of 2020 until a cease-fire was negotiated in November 2022, the Government of Ethiopia (GoE) engaged in a military conflict with the Tigray People’s Liberation Front (TPLF), the former governing party of the Tigray Region; the GoE deemed a TPLF attack on an ENDF base as a domestic terrorism incident and launched a military offensive in response; the TPLF asserted that its actions were self-defense in the face of planned GoE action to remove it from the provincial government; the GoE sent large elements of the ENDF into Tigray to remove the TPLF and invited militia and paramilitary forces from the states of Afar and Amara, as well as the military forces of Eritrea, to assist; TPLF military forces were known as the Tigray Defense Force (TDF) and were comprised of state paramilitary forces, local militia, and troops that defected from the ENDF; the fighting included heavy civilian and military casualties with widespread abuses reported (2023)<br>
 
 ## Terrorism
 
@@ -766,7 +762,7 @@ al-Shabaab; Islamic Revolutionary Guard Corps (IRGC)/Qods Force<br>
 <p><em>Ethiopia-Eritrea:</em> Eritrea and Ethiopia agreed to abide by the 2002 Eritrea-Ethiopia Boundary Commission's (EEBC) delimitation decision, but neither party responded to the revised line detailed in the November 2006 EEBC Demarcation Statement <br><br><em>Ethiopia-Somalia:</em> While border clashes continue in the al-Fashqa (Fashaga) area, the US views the 1902 boundary treaty between Ethiopia and Sudan as being in force; the undemarcated former British administrative line has little meaning as a political separation to rival clans within Ethiopia's Ogaden and southern Somalia's Oromo region; Ethiopian forces invaded southern Somalia and routed Islamist courts from Mogadishu in January 2007; "Somaliland" secessionists provide port facilities in Berbera and trade ties to landlocked Ethiopia; <br><br><em>Ethiopia-Sudan:</em> Ethiopia's construction of a large dam (the Grand Ethiopian Renaissance Dam) on the Blue Nile since 2011 has become a focal point of relations with Egypt and Sudan; as of 2020, four years of three-way talks between the three capitals over operating the dam and filling its reservoir had made little progress; Ethiopia began filling the dam in July 2020; civil unrest in eastern Sudan has hampered efforts to demarcate the porous boundary with Ethiopia</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 162,993 (Eritrea), 48,693 (Sudan) (2022); 410,727 (South Sudan), 252,496 (Somalia) (2023)<br>
+_refugees (country of origin)_: 410,727 (South Sudan), 252,496 (Somalia), 163,251 (Eritrea), 48,743 (Sudan) (2023)<br>
 _IDPs_: 2.72 million (includes conflict- and climate-induced IDPs, excluding unverified estimates from the Amhara region; border war with Eritrea from 1998-2000; ethnic clashes; and ongoing fighting between the Ethiopian military and separatist rebel groups in the Somali and Oromia regions; natural disasters; intercommunal violence; most IDPs live in Sumale state) (2022)<br>
 
 **Illicit drugs**<br>

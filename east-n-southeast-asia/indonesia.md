@@ -81,7 +81,7 @@ major concentration on the island of Java, which is considered one of the most d
 ## People and Society
 
 **Population**<br>
-277,329,163 (2022 est.)<br>
+279,476,346 (2023 est.)<br>
 
 **Nationality**<br>
 _noun_: Indonesian(s)<br>
@@ -101,11 +101,9 @@ Muslim 87.2%, Protestant 7%, Roman Catholic 2.9%, Hindu 1.7%, other 0.9% (includ
 <p>Indonesia has the world’s fourth-largest population.  It is predominantly Muslim and has the largest Muslim population of any country in the world.  The population is projected to increase to as much as 320 million by 2045.  A government-supported family planning program.  The total fertility rate (TFR) – the average number of births per woman – from 5.6 in the mid-1960s to 2.7 in the mid-1990s.  The success of the program was also due to the social acceptance of family planning, which received backing from influential Muslim leaders and organizations.</p> <p>The fertility decline slowed in the late 1990’s when responsibility for family planning programs shifted to the district level, where the programs were not prioritized.  Since 2012 the national government revitalized the national family planning program, and Indonesia’s TFR has slowly decreased to 2.3 in 2020.  The government may reach its goal of achieving replacement level fertility – 2.1 children per woman – but the large number of women of childbearing age ensures significant population growth for many years. </p> <p>Indonesia is a source country for labor migrants, a transit country for asylum seekers, and a destination mainly for highly skilled migrant workers.  International labor migration, both legal and illegal, from Indonesia to other parts of Asia (most commonly Malaysia) and the Middle East has taken place for decades because of high unemployment and underemployment, poverty, and low wages domestically.  Increasing numbers of migrant workers are drawn to Australia, Canada, New Zealand, and the US.  The majority of Indonesian labor migration is temporary and consists predominantly of low-skilled workers, mainly women working as domestics.</p> <p>Indonesia’s strategic location between Asia and Australia and between the Pacific and Indian Oceans – and its relatively easy accessibility via boat – appeal to asylum seekers.  It is also an attractive transit location because of its easy entry requirements and the ability to continue on to Australia.  Recent asylum seekers have come from Afghanistan, Burma (Rohingyas), Iraq, Somalia, and Sri Lanka.  Since 2013, when Australia tightening its immigration policy, thousands of migrants and asylum seekers have been stranded in Indonesia, where they live in precarious conditions and receive only limited support from international organizations.  The situation for refugees in Indonesia has also worsened because Australia and the US, which had resettled the majority of refugees in Indonesia, have significantly lowered their intake.</p><br>
 
 **Age structure**<br>
-_0-14 years_: 23.87% (male 32,473,246/female 31,264,034)<br>
-_15-24 years_: 16.76% (male 22,786,920/female 21,960,130)<br>
-_25-54 years_: 42.56% (male 58,249,570/female 55,409,579)<br>
-_55-64 years_: 8.99% (male 11,033,838/female 12,968,005)<br>
-_65 years and over_: 7.82% (male 9,099,773/female 11,781,271) (2020 est.)<br>
+_0-14 years_: 24.22% (male 34,627,270/female 33,066,304)<br>
+_15-64 years_: 68.1% (male 95,267,122/female 95,063,200)<br>
+_65 years and over_: 7.68% (2023 est.) (male 9,892,325/female 11,560,125)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 47.6<br>
@@ -119,16 +117,16 @@ _male_: 30.5 years<br>
 _female_: 31.8 years (2020 est.)<br>
 
 **Population growth rate**<br>
-0.79% (2022 est.)<br>
+0.76% (2023 est.)<br>
 
 **Birth rate**<br>
-15.32 births/1,000 population (2022 est.)<br>
+15.05 births/1,000 population (2023 est.)<br>
 
 **Death rate**<br>
-6.75 deaths/1,000 population (2022 est.)<br>
+6.77 deaths/1,000 population (2023 est.)<br>
 
 **Net migration rate**<br>
--0.71 migrant(s)/1,000 population (2022 est.)<br>
+-0.71 migrant(s)/1,000 population (2023 est.)<br>
 
 **Population distribution**<br>
 major concentration on the island of Java, which is considered one of the most densely populated places on earth; of the outer islands (those surrounding Java and Bali), Sumatra contains some of the most significant clusters, particularly in the south near the Selat Sunda, and along the northeastern coast near Medan; the cities of Makasar (Sulawesi), Banjarmasin (Kalimantan) are also heavily populated<br>
@@ -143,11 +141,9 @@ _rate of urbanization_: 1.99% annual rate of change (2020-25 est.)<br>
 **Sex ratio**<br>
 _at birth_: 1.05 male(s)/female<br>
 _0-14 years_: 1.05 male(s)/female<br>
-_15-24 years_: 1.05 male(s)/female<br>
-_25-54 years_: 0.99 male(s)/female<br>
-_55-64 years_: 0.98 male(s)/female<br>
-_65 years and over_: 0.66 male(s)/female<br>
-_total population_: 1 male(s)/female (2022 est.)<br>
+_15-64 years_: 1 male(s)/female<br>
+_65 years and over_: 0.86 male(s)/female<br>
+_total population_: 1 male(s)/female (2023 est.)<br>
 
 **Mother's mean age at first birth**<br>
 22.4 years (2017 est.)<br>
@@ -157,17 +153,17 @@ _total population_: 1 male(s)/female (2022 est.)<br>
 177 deaths/100,000 live births (2017 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 19.73 deaths/1,000 live births<br>
-_male_: 22.15 deaths/1,000 live births<br>
-_female_: 17.18 deaths/1,000 live births (2022 est.)<br>
+_total_: 19.31 deaths/1,000 live births<br>
+_male_: 21.71 deaths/1,000 live births<br>
+_female_: 16.78 deaths/1,000 live births (2023 est.)<br>
 
 **Life expectancy at birth**<br>
-_total population_: 73.08 years<br>
-_male_: 70.86 years<br>
-_female_: 75.4 years (2022 est.)<br>
+_total population_: 73.33 years<br>
+_male_: 71.1 years<br>
+_female_: 75.68 years (2023 est.)<br>
 
 **Total fertility rate**<br>
-2.01 children born/woman (2022 est.)<br>
+1.99 children born/woman (2023 est.)<br>
 
 **Gross reproduction rate**<br>
 0.97 (2023 est.)<br>
@@ -729,9 +725,9 @@ Indonesian National Armed Forces (Tentara Nasional Indonesia, TNI): Army (TNI-An
 **Military expenditures**<br>
 0.8% of GDP (2021 est.)<br>
 0.8% of GDP (2020)<br>
-0.8% of GDP (2019) (approximately $15.5 billion)<br>
-0.7% of GDP (2018) (approximately $14.5 billion)<br>
-0.9% of GDP (2017) (approximately $15.5 billion)<br>
+0.8% of GDP (2019)<br>
+0.7% of GDP (2018)<br>
+0.9% of GDP (2017)<br>
 
 **Military and security service personnel strengths**<br>
 approximately 400,000 active duty troops (300,000 Army; 60,000 Navy, including about 20,000 marines; 30,000 Air Force) (2022)<br>
@@ -746,7 +742,7 @@ the military's inventory is a wide mix of Chinese, Russian, and Western (includi
 225 (plus about 140 police) Central African Republic (MINUSCA); 1,025 Democratic Republic of the Congo (MONUSCO); 1,225 Lebanon (UNIFIL) (May 2022)<br>
 
 **Military - note**<br>
-Indonesian military and police forces have been engaged in counter-insurgency operations in Papua against the West Papua Liberation Army, the military wing of the Free Papua Organization, which has been fighting a low-level insurgency since the 1960s when Indonesia annexed the former Dutch colony; in recent years, there has been an increase in militant activity in Papua and a larger Indonesian military presence; Papua was formally incorporated into Indonesia in 1969; in addition, the Indonesian military has been assisting police in Sulawesi in countering the Mujahideen Indonesia Timur (MIT; aka East Indonesia Mujahideen), a local militant group affiliated with the Islamic State of Iraq and ash-Sham (ISIS)<br><br>Indonesia is not a formal claimant in the South China Sea, although some of its waters lie within China's “nine-dash line” maritime claims, resulting in some stand offs in recent years; since 2016, the Indonesian military has bolstered its presence on Great Natuna Island (aka Pulau Natuna Besar), the main island of the Middle Natuna Archipelago, which is part of the Riau Islands Province, held military exercises in surrounding waters, and increased security cooperation (2023)<br>
+Indonesian military and other security forces are engaged in counter-insurgency operations in Papua against the West Papua National Liberation Army (TPNPB), the military wing of the Free Papua Organization (OPM), which has been fighting a low-level insurgency since the 1960s when Indonesia annexed the former Dutch colony; Papua was formally incorporated into Indonesia in 1969; in addition, the Indonesian military has been assisting police in Sulawesi in countering the Mujahideen Indonesia Timur (MIT; aka East Indonesia Mujahideen), a local militant group affiliated with the Islamic State of Iraq and ash-Sham (ISIS)<br><br>Indonesia is not a formal claimant in the South China Sea, although some of its waters lie within China's “nine-dash line” maritime claims, resulting in some stand offs in recent years; since 2016, the Indonesian military has bolstered its presence on Great Natuna Island (aka Pulau Natuna Besar), the main island of the Middle Natuna Archipelago, which is part of the Riau Islands Province, held military exercises in surrounding waters, and increased security cooperation (2023)<br>
 
 **Maritime threats**<br>
 the International Maritime Bureau continues to report the territorial and offshore waters in the Strait of Malacca and South China Sea as high risk for piracy and armed robbery against ships; the number of attacks decreased from 26 incidents in 2020 to nine in 2021 due to aggressive maritime patrolling by regional authorities; vessels continue to be boarded while anchored or berthed at Indonesian ports with seven vessels attacked; hijacked vessels are often disguised and cargo diverted to ports in East Asia<br>

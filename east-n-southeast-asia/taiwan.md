@@ -72,7 +72,7 @@ strategic location adjacent to both the Taiwan Strait and the Luzon Strait<br>
 ## People and Society
 
 **Population**<br>
-23,580,712 (2022 est.)<br>
+23,588,613 (2023 est.)<br>
 
 **Nationality**<br>
 _noun_: Taiwan (singular and plural)<br>
@@ -91,11 +91,9 @@ _major-language sample(s)_: <br>世界概況  –  不可缺少的基本消息
 Buddhist 35.3%, Taoist 33.2%, Christian 3.9%, folk religion (includes Confucian) approximately 10%, none or unspecified 18.2% (2005 est.)<br>
 
 **Age structure**<br>
-_0-14 years_: 12.42% (male 1,504,704/female 1,426,494)<br>
-_15-24 years_: 11.62% (male 1,403,117/female 1,339,535)<br>
-_25-54 years_: 45.51% (male 5,351,951/female 5,389,112)<br>
-_55-64 years_: 14.73% (male 1,698,555/female 1,778,529)<br>
-_65 years and over_: 15.72% (male 1,681,476/female 2,029,576) (2020 est.)<br>
+_0-14 years_: 12.22% (male 1,482,120/female 1,399,336)<br>
+_15-64 years_: 69.72% (male 8,211,973/female 8,233,667)<br>
+_65 years and over_: 18.07% (2023 est.) (male 1,922,365/female 2,339,152)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 40.2<br>
@@ -109,16 +107,16 @@ _male_: 41.5 years<br>
 _female_: 43.1 years (2020 est.)<br>
 
 **Population growth rate**<br>
-0.04% (2022 est.)<br>
+0.03% (2023 est.)<br>
 
 **Birth rate**<br>
-7.39 births/1,000 population (2022 est.)<br>
+7.33 births/1,000 population (2023 est.)<br>
 
 **Death rate**<br>
-7.89 deaths/1,000 population (2022 est.)<br>
+7.98 deaths/1,000 population (2023 est.)<br>
 
 **Net migration rate**<br>
-0.85 migrant(s)/1,000 population (2022 est.)<br>
+0.96 migrant(s)/1,000 population (2023 est.)<br>
 
 **Population distribution**<br>
 distribution exhibits a peripheral coastal settlement pattern, with the largest populations on the north and west coasts<br>
@@ -133,24 +131,22 @@ _rate of urbanization_: 0.65% annual rate of change (2020-25 est.)<br>
 **Sex ratio**<br>
 _at birth_: 1.06 male(s)/female<br>
 _0-14 years_: 1.06 male(s)/female<br>
-_15-24 years_: 1.06 male(s)/female<br>
-_25-54 years_: 1 male(s)/female<br>
-_55-64 years_: 0.95 male(s)/female<br>
-_65 years and over_: 0.73 male(s)/female<br>
-_total population_: 0.97 male(s)/female (2022 est.)<br>
+_15-64 years_: 1 male(s)/female<br>
+_65 years and over_: 0.82 male(s)/female<br>
+_total population_: 0.97 male(s)/female (2023 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 3.97 deaths/1,000 live births<br>
-_male_: 4.29 deaths/1,000 live births<br>
-_female_: 3.63 deaths/1,000 live births (2022 est.)<br>
+_total_: 3.9 deaths/1,000 live births<br>
+_male_: 4.23 deaths/1,000 live births<br>
+_female_: 3.56 deaths/1,000 live births (2023 est.)<br>
 
 **Life expectancy at birth**<br>
-_total population_: 81.16 years<br>
-_male_: 78.17 years<br>
-_female_: 84.34 years (2022 est.)<br>
+_total population_: 81.38 years<br>
+_male_: 78.4 years<br>
+_female_: 84.54 years (2023 est.)<br>
 
 **Total fertility rate**<br>
-1.08 children born/woman (2022 est.)<br>
+1.09 children born/woman (2023 est.)<br>
 
 **Gross reproduction rate**<br>
 0.53 (2023 est.)<br>

@@ -85,7 +85,7 @@ the Nile is Sudan's primary water source; its major tributaries, the White Nile 
 ## People and Society
 
 **Population**<br>
-47,958,856 (2022 est.)<br>
+49,197,555 (2023 est.)<br>
 
 **Nationality**<br>
 _noun_: Sudanese (singular and plural)<br>
@@ -105,11 +105,9 @@ Sunni Muslim, small Christian minority<br>
 <p>Sudan’s population grew almost fourfold between 1956 and 2008, the date of its last census.  Even after the southern part of the country became independent South Sudan in 2011, the population of Sudan has continued to grow.  The gender balance overall is fairly even.  Females, however, are more prevalent in rural areas because of males migrating to urban areas in search of work.  The total fertility rate (TFR) remains high despite falling from 7 children per woman in Sudan’s first census in 1955 to about 4.5 in 2022, which can be attributed to early marriage and a low contraceptive prevalence rate.  Among the factors that led to the reduction in fertility are family planning, improvement in women’s education and participation in the labor force outside the home, and migration and urbanization. </p> <p>The continued slow decline in fertility accompanied by a drop in mortality and increased life expectancy has produced an age structure where approximately 55% of the population was of working age (15-64) as of 2020.  This share will grow as the sizable youth population becomes working age.  As Sudan’s working age population increasingly outnumbers the youth and elderly populations (the dependent populations), the country will approach the possibility of a demographic dividend.  The window of opportunity for potential economic growth depends not only on a favorable age structure but also on having a trained and educated workforce, job creation (particularly in the formal market), and investment in health, as well as generating savings to invest in schooling and care for the elderly.  As of 2018, Sudan’s literacy rate was just over 60%, and even lower among women.  Improvements in school enrollment, student-teacher ratio, infrastructure, funding, and educational quality could help the country to realize a demographic dividend.</p><br>
 
 **Age structure**<br>
-_0-14 years_: 42.01% (male 9,726,937/female 9,414,988)<br>
-_15-24 years_: 20.94% (male 4,852,903/female 4,687,664)<br>
-_25-54 years_: 29.89% (male 6,633,567/female 6,986,241)<br>
-_55-64 years_: 4.13% (male 956,633/female 923,688)<br>
-_65 years and over_: 3.03% (male 729,214/female 649,721) (2020 est.)<br>
+_0-14 years_: 40.47% (male 10,115,311/female 9,793,060)<br>
+_15-64 years_: 56.35% (male 13,774,002/female 13,946,621)<br>
+_65 years and over_: 3.19% (2023 est.) (male 814,480/female 754,081)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 76.9<br>
@@ -123,16 +121,16 @@ _male_: 18.1 years<br>
 _female_: 18.5 years (2020 est.)<br>
 
 **Population growth rate**<br>
-2.55% (2022 est.)<br>
+2.55% (2023 est.)<br>
 
 **Birth rate**<br>
-33.47 births/1,000 population (2022 est.)<br>
+33.32 births/1,000 population (2023 est.)<br>
 
 **Death rate**<br>
-6.3 deaths/1,000 population (2022 est.)<br>
+6.19 deaths/1,000 population (2023 est.)<br>
 
 **Net migration rate**<br>
--1.67 migrant(s)/1,000 population (2022 est.)<br>
+-1.63 migrant(s)/1,000 population (2023 est.)<br>
 
 **Population distribution**<br>
 with the exception of a ribbon of settlement that corresponds to the banks of the Nile, northern Sudan, which extends into the dry Sahara, is sparsely populated; more abundant vegetation and broader access to water increases population distribution in the south extending habitable range along nearly the entire border with South Sudan; sizeable areas of population are found around Khartoum, southeast between the Blue and White Nile Rivers, and throughout South Darfur as shown on this population distribution map<br>
@@ -147,27 +145,25 @@ _rate of urbanization_: 3.43% annual rate of change (2020-25 est.)<br>
 **Sex ratio**<br>
 _at birth_: 1.05 male(s)/female<br>
 _0-14 years_: 1.03 male(s)/female<br>
-_15-24 years_: 1.03 male(s)/female<br>
-_25-54 years_: 0.94 male(s)/female<br>
-_55-64 years_: 1.01 male(s)/female<br>
-_65 years and over_: 1.04 male(s)/female<br>
-_total population_: 1.01 male(s)/female (2022 est.)<br>
+_15-64 years_: 0.99 male(s)/female<br>
+_65 years and over_: 1.08 male(s)/female<br>
+_total population_: 1.01 male(s)/female (2023 est.)<br>
 
 **Maternal mortality ratio**<br>
 295 deaths/100,000 live births (2017 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 42.27 deaths/1,000 live births<br>
-_male_: 47.76 deaths/1,000 live births<br>
-_female_: 36.5 deaths/1,000 live births (2022 est.)<br>
+_total_: 41.4 deaths/1,000 live births<br>
+_male_: 46.87 deaths/1,000 live births<br>
+_female_: 35.66 deaths/1,000 live births (2023 est.)<br>
 
 **Life expectancy at birth**<br>
-_total population_: 67.12 years<br>
-_male_: 64.89 years<br>
-_female_: 69.46 years (2022 est.)<br>
+_total population_: 67.45 years<br>
+_male_: 65.19 years<br>
+_female_: 69.81 years (2023 est.)<br>
 
 **Total fertility rate**<br>
-4.6 children born/woman (2022 est.)<br>
+4.54 children born/woman (2023 est.)<br>
 
 **Gross reproduction rate**<br>
 2.21 (2023 est.)<br>
@@ -741,6 +737,6 @@ Islamic State of Iraq and ash-Sham (ISIS); al-Qa’ida; Harakat Sawa’d Misr<br
 <p><em>Sudan-Central African Republic</em>: periodic violent skirmishes persist among related pastoral populations along the border with the Central African Republic over water and grazing rights; Sudan closed its border with the Central African Republic in January 2022 due to security concerns</p> <p><em>Sudan-Chad</em>: Chad wants to be a helpful mediator in resolving the Darfur conflict, and in 2010 established a joint border monitoring force with Sudan, which has helped to reduce cross-border banditry and violence; however, since the August 2020 Juba Peace Agreement between the Sudanese Government and the Sudanese Revolutionary Front and the termination of the UN’s peacekeeping mission, UNAMID, at the end of 2020, violence continues to break out over land and water access</p> <p><em>Sudan-Egypt</em>: Sudan claims, but Egypt de facto administers, security and economic development of the Halaib region north of the 22nd parallel boundary</p> <p><em>Sudan-Eritrea</em>: none identified</p> <p><em>Sudan-Ethiopia</em>: civil unrest in eastern Sudan has hampered efforts to demarcate the porous boundary with Ethiopia; clashes continue between Sudan and Ethiopia over al-Fashaga, a fertile piece of land inhabited by Ethiopian farmers for years until the Sudanese army expelled them in December 2020, claiming the land belonged to Sudan based on colonial-era maps from over 100 years ago; in February, 2022, the two countries were discussing resuming talks over the border conflict</p> <p><em>Sudan-Libya</em>: none identified</p> <p><em>Sudan-South Sudan</em>: the South Sudan-Sudan boundary represents 1 January 1956 alignment, final alignment pending negotiations and demarcation; final sovereignty status of Abyei area pending negotiations between South Sudan and Sudan; clashes continue in the oil-rich Abyei region; the United Nations Interim Security Force for Abyei (UNISFA) has been deployed since 2011, when South Sudan became independent; the United Nations Interim Security Force for Abyei (UNISFA) has condemned renewed clashes on 23 September 2022 between the Twik and Ngok Dinka communities taking place in Agok, 28 kilometres from Abyei town</p> <p> </p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 796,831 (South Sudan) (refugees and asylum seekers), 134,714 (Eritrea) (refugees and asylum seekers), 93,478 (Syria) (refugees and asylum seekers), 70,978 (Ethiopia) (refugees and asylum seekers), 24,369 (Central African Republic) (2022)<br>
+_refugees (country of origin)_: 796,831 (South Sudan) (refugees and asylum seekers), 134,367 (Eritrea) (refugees and asylum seekers), 93,478 (Syria) (refugees and asylum seekers), 70,935 (Ethiopia) (refugees and asylum seekers), 24,369 (Central African Republic) (2022)<br>
 _IDPs_: 3.71 million (civil war 1983-2005; ongoing conflict in Darfur region; government and rebel fighting along South Sudan border; inter-tribal clashes) (2022)<br>
 

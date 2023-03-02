@@ -75,7 +75,7 @@ strategic location dominating the Aegean Sea and southern approach to Turkish St
 ## People and Society
 
 **Population**<br>
-10,533,871 (2022 est.)<br>
+10,497,595 (2023 est.)<br>
 
 **Nationality**<br>
 _noun_: Greek(s)<br>
@@ -93,11 +93,9 @@ _major-language sample(s)_: <br>Το Παγκόσμιο Βιβλίο Δεδομ�
 Greek Orthodox 81-90%, Muslim 2%, other 3%, none 4-15%, unspecified 1% (2015 est.)<br>
 
 **Age structure**<br>
-_0-14 years_: 14.53% (male 794,918/female 745,909)<br>
-_15-24 years_: 10.34% (male 577,134/female 519,819)<br>
-_25-54 years_: 39.6% (male 2,080,443/female 2,119,995)<br>
-_55-64 years_: 13.1% (male 656,404/female 732,936)<br>
-_65 years and over_: 22.43% (male 1,057,317/female 1,322,176) (2020 est.)<br>
+_0-14 years_: 14.02% (male 758,311/female 713,794)<br>
+_15-64 years_: 62.66% (male 3,285,484/female 3,292,524)<br>
+_65 years and over_: 23.31% (2023 est.) (male 1,086,188/female 1,361,294)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 57.7<br>
@@ -111,16 +109,16 @@ _male_: 43.7 years<br>
 _female_: 46.8 years (2020 est.)<br>
 
 **Population growth rate**<br>
--0.34% (2022 est.)<br>
+-0.35% (2023 est.)<br>
 
 **Birth rate**<br>
-7.61 births/1,000 population (2022 est.)<br>
+7.52 births/1,000 population (2023 est.)<br>
 
 **Death rate**<br>
-12.04 deaths/1,000 population (2022 est.)<br>
+12.02 deaths/1,000 population (2023 est.)<br>
 
 **Net migration rate**<br>
-1 migrant(s)/1,000 population (2022 est.)<br>
+1.03 migrant(s)/1,000 population (2023 est.)<br>
 
 **Population distribution**<br>
 one-third of the population lives in and around metropolitan Athens; the remainder of the country has moderate population density mixed with sizeable urban clusters<br>
@@ -135,11 +133,9 @@ _rate of urbanization_: 0.11% annual rate of change (2020-25 est.)<br>
 **Sex ratio**<br>
 _at birth_: 1.07 male(s)/female<br>
 _0-14 years_: 1.06 male(s)/female<br>
-_15-24 years_: 1.14 male(s)/female<br>
-_25-54 years_: 1 male(s)/female<br>
-_55-64 years_: 0.89 male(s)/female<br>
-_65 years and over_: 0.71 male(s)/female<br>
-_total population_: 0.95 male(s)/female (2022 est.)<br>
+_15-64 years_: 1 male(s)/female<br>
+_65 years and over_: 0.8 male(s)/female<br>
+_total population_: 0.96 male(s)/female (2023 est.)<br>
 
 **Mother's mean age at first birth**<br>
 30.7 years (2020 est.)<br>
@@ -148,17 +144,17 @@ _total population_: 0.95 male(s)/female (2022 est.)<br>
 3 deaths/100,000 live births (2017 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 3.55 deaths/1,000 live births<br>
-_male_: 3.94 deaths/1,000 live births<br>
-_female_: 3.13 deaths/1,000 live births (2022 est.)<br>
+_total_: 3.49 deaths/1,000 live births<br>
+_male_: 3.89 deaths/1,000 live births<br>
+_female_: 3.07 deaths/1,000 live births (2023 est.)<br>
 
 **Life expectancy at birth**<br>
-_total population_: 81.49 years<br>
-_male_: 78.96 years<br>
-_female_: 84.2 years (2022 est.)<br>
+_total population_: 81.71 years<br>
+_male_: 79.18 years<br>
+_female_: 84.4 years (2023 est.)<br>
 
 **Total fertility rate**<br>
-1.4 children born/woman (2022 est.)<br>
+1.4 children born/woman (2023 est.)<br>
 
 **Gross reproduction rate**<br>
 0.68 (2023 est.)<br>
@@ -722,7 +718,7 @@ Islamic State of Iraq and ash-Sham (ISIS); Revolutionary Struggle; Revolutionary
 **Refugees and internally displaced persons**<br>
 _refugees (country of origin)_: 41,594 (Syria), 33,549 (Afghanistan), 14,228 (Iraq), 6,366 (West Bank and Gaza) (mid-year 2022); 20,955 (Ukraine) (as of 6 December 2022)<br>
 _stateless persons_: 4,488 (2022)<br>
-<strong>note:</strong> 1,235,129 estimated refugee and migrant arrivals (January 2015-February 2023)<br>
+<strong>note:</strong> 1,235,370 estimated refugee and migrant arrivals (January 2015-February 2023)<br>
 
 **Illicit drugs**<br>
 a gateway to Europe for traffickers smuggling cannabis products and heroin from the Middle East and Southwest Asia to the West and precursor chemicals to the East; some South American cocaine transits or is consumed in Greece; money laundering related to drug trafficking and organized crime<br>

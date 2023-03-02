@@ -76,7 +76,7 @@ strategic location on Korea Strait; about 3,000 mostly small and uninhabited isl
 ## People and Society
 
 **Population**<br>
-51,844,834 (2022 est.)<br>
+51,966,948 (2023 est.)<br>
 
 **Nationality**<br>
 _noun_: Korean(s)<br>
@@ -94,11 +94,9 @@ Protestant 19.7%, Buddhist 15.5%, Catholic 7.9%, none 56.9% (2015 est.)<br>
 <strong>note:</strong> many people also carry on at least some Confucian traditions and practices<br>
 
 **Age structure**<br>
-_0-14 years_: 12.02% (male 3,191,584/female 3,025,029)<br>
-_15-24 years_: 10.75% (male 2,900,013/female 2,658,057)<br>
-_25-54 years_: 44.83% (male 12,106,860/female 11,077,642)<br>
-_55-64 years_: 15.66% (male 3,958,718/female 4,142,322)<br>
-_65 years and over_: 16.74% (male 3,766,138/female 4,888,799) (2020 est.)<br>
+_0-14 years_: 11.53% (male 3,072,352/female 2,916,984)<br>
+_15-64 years_: 70.1% (male 18,788,714/female 17,639,714)<br>
+_65 years and over_: 18.38% (2023 est.) (male 4,196,789/female 5,352,395)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 39.9<br>
@@ -112,16 +110,16 @@ _male_: 41.6 years<br>
 _female_: 45 years (2020 est.)<br>
 
 **Population growth rate**<br>
-0.24% (2022 est.)<br>
+0.23% (2023 est.)<br>
 
 **Birth rate**<br>
-6.92 births/1,000 population (2022 est.)<br>
+6.95 births/1,000 population (2023 est.)<br>
 
 **Death rate**<br>
-7.12 deaths/1,000 population (2022 est.)<br>
+7.28 deaths/1,000 population (2023 est.)<br>
 
 **Net migration rate**<br>
-2.63 migrant(s)/1,000 population (2022 est.)<br>
+2.61 migrant(s)/1,000 population (2023 est.)<br>
 
 **Population distribution**<br>
 with approximately 70% of the country considered mountainous, the country's population is primarily concentrated in the lowland areas, where density is quite high; Gyeonggi Province in the northwest, which surrounds the capital of Seoul and contains the port of Incheon, is the most densely populated province; Gangwon in the northeast is the least populated<br>
@@ -136,11 +134,9 @@ _rate of urbanization_: 0.31% annual rate of change (2020-25 est.)<br>
 **Sex ratio**<br>
 _at birth_: 1.05 male(s)/female<br>
 _0-14 years_: 1.05 male(s)/female<br>
-_15-24 years_: 1.09 male(s)/female<br>
-_25-54 years_: 1.11 male(s)/female<br>
-_55-64 years_: 0.95 male(s)/female<br>
-_65 years and over_: 0.6 male(s)/female<br>
-_total population_: 1.01 male(s)/female (2022 est.)<br>
+_15-64 years_: 1.07 male(s)/female<br>
+_65 years and over_: 0.78 male(s)/female<br>
+_total population_: 1.01 male(s)/female (2023 est.)<br>
 
 **Mother's mean age at first birth**<br>
 32.2 years (2019 est.)<br>
@@ -149,17 +145,17 @@ _total population_: 1.01 male(s)/female (2022 est.)<br>
 11 deaths/100,000 live births (2017 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 2.87 deaths/1,000 live births<br>
-_male_: 3.08 deaths/1,000 live births<br>
-_female_: 2.64 deaths/1,000 live births (2022 est.)<br>
+_total_: 2.83 deaths/1,000 live births<br>
+_male_: 3.04 deaths/1,000 live births<br>
+_female_: 2.6 deaths/1,000 live births (2023 est.)<br>
 
 **Life expectancy at birth**<br>
-_total population_: 82.97 years<br>
-_male_: 79.88 years<br>
-_female_: 86.24 years (2022 est.)<br>
+_total population_: 83.17 years<br>
+_male_: 80.09 years<br>
+_female_: 86.42 years (2023 est.)<br>
 
 **Total fertility rate**<br>
-1.1 children born/woman (2022 est.)<br>
+1.11 children born/woman (2023 est.)<br>
 
 **Gross reproduction rate**<br>
 0.54 (2023 est.)<br>

@@ -73,7 +73,7 @@ strong ties to nearby US Virgin Islands and Puerto Rico<br>
 ## People and Society
 
 **Population**<br>
-38,632 (2022 est.)<br>
+39,369 (2023 est.)<br>
 
 **Nationality**<br>
 _noun_: British Virgin Islander(s)<br>
@@ -89,11 +89,9 @@ English (official), Virgin Islands Creole<br>
 Protestant 70.2% (Methodist 17.6%, Church of God 10.4%, Anglican 9.5%, Seventh Day Adventist 9.0%, Pentecostal 8.2%, Baptist 7.4%, New Testament Church of God 6.9%, other Protestant 1.2%), Roman Catholic 8.9%, Jehovah's Witness 2.5%, Hindu 1.9%, other 6.2%, none 7.9%, unspecified 2.4% (2010 est.)<br>
 
 **Age structure**<br>
-_0-14 years_: 16.48% (male 3,088/female 3,156)<br>
-_15-24 years_: 12.22% (male 2,212/female 2,418)<br>
-_25-54 years_: 47.84% (male 8,476/female 9,652)<br>
-_55-64 years_: 12.83% (male 2,242/female 2,521)<br>
-_65 years and over_: 10.63% (male 1,921/female 2,105) (2021 est.)<br>
+_0-14 years_: 16.56% (male 3,231/female 3,287)<br>
+_15-64 years_: 71.87% (male 13,322/female 14,972)<br>
+_65 years and over_: 11.58% (2023 est.) (male 2,156/female 2,401)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 32.8<br>
@@ -107,16 +105,16 @@ _male_: 37 years<br>
 _female_: 37.5 years (2020 est.)<br>
 
 **Population growth rate**<br>
-1.91% (2022 est.)<br>
+1.87% (2023 est.)<br>
 
 **Birth rate**<br>
-10.95 births/1,000 population (2022 est.)<br>
+10.9 births/1,000 population (2023 est.)<br>
 
 **Death rate**<br>
-5.38 deaths/1,000 population (2022 est.)<br>
+5.44 deaths/1,000 population (2023 est.)<br>
 
 **Net migration rate**<br>
-13.56 migrant(s)/1,000 population (2022 est.)<br>
+13.21 migrant(s)/1,000 population (2023 est.)<br>
 
 **Population distribution**<br>
 a fairly even distribution throughout the inhabited islands, with the largest islands of Tortola, Anegada, Virgin Gorda, and Jost Van Dyke having the largest populations<br>
@@ -131,24 +129,22 @@ _rate of urbanization_: 1.73% annual rate of change (2020-25 est.)<br>
 **Sex ratio**<br>
 _at birth_: 1.05 male(s)/female<br>
 _0-14 years_: 0.98 male(s)/female<br>
-_15-24 years_: 0.92 male(s)/female<br>
-_25-54 years_: 0.88 male(s)/female<br>
-_55-64 years_: 0.93 male(s)/female<br>
-_65 years and over_: 0.76 male(s)/female<br>
-_total population_: 0.91 male(s)/female (2022 est.)<br>
+_15-64 years_: 0.89 male(s)/female<br>
+_65 years and over_: 0.9 male(s)/female<br>
+_total population_: 0.91 male(s)/female (2023 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 14.16 deaths/1,000 live births<br>
-_male_: 16.89 deaths/1,000 live births<br>
-_female_: 11.28 deaths/1,000 live births (2022 est.)<br>
+_total_: 13.77 deaths/1,000 live births<br>
+_male_: 16.41 deaths/1,000 live births<br>
+_female_: 10.99 deaths/1,000 live births (2023 est.)<br>
 
 **Life expectancy at birth**<br>
-_total population_: 79.67 years<br>
-_male_: 78.17 years<br>
-_female_: 81.25 years (2022 est.)<br>
+_total population_: 79.9 years<br>
+_male_: 78.4 years<br>
+_female_: 81.47 years (2023 est.)<br>
 
 **Total fertility rate**<br>
-1.35 children born/woman (2022 est.)<br>
+1.37 children born/woman (2023 est.)<br>
 
 **Gross reproduction rate**<br>
 0.67 (2023 est.)<br>

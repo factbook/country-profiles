@@ -81,7 +81,7 @@ a small population and oil and mineral reserves have helped Gabon become one of 
 ## People and Society
 
 **Population**<br>
-2,340,613 (2022 est.)<br>
+2,397,368 (2023 est.)<br>
 
 **Nationality**<br>
 _noun_: Gabonese (singular and plural)<br>
@@ -100,11 +100,9 @@ Roman Catholic 42.3%, Protestant 12.3%, other Christian 27.4%, Muslim 9.8%, anim
 <p>Gabon’s oil revenues have given it one of the highest per capita income levels in Sub-Saharan Africa, but the wealth is not evenly distributed and poverty is widespread. Unemployment is especially prevalent among the large youth population; more than 60% of the population is under the age of 25 as of 2020. With a fertility rate still averaging more than 3 children per woman, the youth population will continue to grow and further strain the mismatch between Gabon’s supply of jobs and the skills of its labor force.</p> <p>Gabon has been a magnet to migrants from neighboring countries since the 1960s because of the discovery of oil, as well as the country’s political stability and timber, mineral, and natural gas resources. Nonetheless, income inequality and high unemployment have created slums in Libreville full of migrant workers from Senegal, Nigeria, Cameroon, Benin, Togo, and elsewhere in West Africa. In 2011, Gabon declared an end to refugee status for 9,500 remaining Congolese nationals to whom it had granted asylum during the Republic of the Congo’s civil war between 1997 and 2003. About 5,400 of these refugees received permits to reside in Gabon.</p><br>
 
 **Age structure**<br>
-_0-14 years_: 36.45% (male 413,883/female 399,374)<br>
-_15-24 years_: 21.9% (male 254,749/female 233,770)<br>
-_25-54 years_: 32.48% (male 386,903/female 337,776)<br>
-_55-64 years_: 5.19% (male 58,861/female 56,843)<br>
-_65 years and over_: 3.98% (male 44,368/female 44,381) (2020 est.)<br>
+_0-14 years_: 35.04% (male 424,741/female 415,342)<br>
+_15-64 years_: 60.76% (male 765,729/female 690,931)<br>
+_65 years and over_: 4.2% (2023 est.) (male 50,920/female 49,705)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 67.6<br>
@@ -118,16 +116,16 @@ _male_: 21.4 years<br>
 _female_: 20.6 years (2020 est.)<br>
 
 **Population growth rate**<br>
-2.4% (2022 est.)<br>
+2.39% (2023 est.)<br>
 
 **Birth rate**<br>
-26.03 births/1,000 population (2022 est.)<br>
+25.89 births/1,000 population (2023 est.)<br>
 
 **Death rate**<br>
-5.67 deaths/1,000 population (2022 est.)<br>
+5.59 deaths/1,000 population (2023 est.)<br>
 
 **Net migration rate**<br>
-3.67 migrant(s)/1,000 population (2022 est.)<br>
+3.59 migrant(s)/1,000 population (2023 est.)<br>
 
 **Population distribution**<br>
 the relatively small population is spread in pockets throughout the country; the largest urban center is the capital of Libreville, located along the Atlantic coast in the northwest as shown in this population distribution map<br>
@@ -141,12 +139,10 @@ _rate of urbanization_: 2.27% annual rate of change (2020-25 est.)<br>
 
 **Sex ratio**<br>
 _at birth_: 1.03 male(s)/female<br>
-_0-14 years_: 1.03 male(s)/female<br>
-_15-24 years_: 1.08 male(s)/female<br>
-_25-54 years_: 1.12 male(s)/female<br>
-_55-64 years_: 1 male(s)/female<br>
-_65 years and over_: 0.78 male(s)/female<br>
-_total population_: 1.08 male(s)/female (2022 est.)<br>
+_0-14 years_: 1.02 male(s)/female<br>
+_15-64 years_: 1.11 male(s)/female<br>
+_65 years and over_: 1.02 male(s)/female<br>
+_total population_: 1.07 male(s)/female (2023 est.)<br>
 
 **Mother's mean age at first birth**<br>
 19.6 years (2012 est.)<br>
@@ -156,17 +152,17 @@ _total population_: 1.08 male(s)/female (2022 est.)<br>
 252 deaths/100,000 live births (2017 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 28.56 deaths/1,000 live births<br>
-_male_: 31.58 deaths/1,000 live births<br>
-_female_: 25.46 deaths/1,000 live births (2022 est.)<br>
+_total_: 27.7 deaths/1,000 live births<br>
+_male_: 30.61 deaths/1,000 live births<br>
+_female_: 24.71 deaths/1,000 live births (2023 est.)<br>
 
 **Life expectancy at birth**<br>
-_total population_: 69.7 years<br>
-_male_: 67.98 years<br>
-_female_: 71.48 years (2022 est.)<br>
+_total population_: 70.03 years<br>
+_male_: 68.3 years<br>
+_female_: 71.81 years (2023 est.)<br>
 
 **Total fertility rate**<br>
-3.31 children born/woman (2022 est.)<br>
+3.26 children born/woman (2023 est.)<br>
 
 **Gross reproduction rate**<br>
 1.61 (2023 est.)<br>
@@ -709,7 +705,7 @@ the Gabonese military is lightly armed with a mix of equipment from a variety of
 20 years of age for voluntary military service; no conscription (2021)<br>
 
 **Military - note**<br>
-members of the Gabonese Defense Forces attempted a failed coup in January 2019<br>
+the Gabonese military is a small, but capable force responsible for both internal and external security; members of the military attempted a failed coup in 2019; the Gabonese military has benefited from cooperation with international partners, particularly the French military, which has maintained a long-term presence in Gabon; the Army&rsquo;s core forces are the Republican Guard and an airborne infantry battalion, which are supported by several small regionally-based infantry units; the Gendarmerie has regionally-based &ldquo;legions,&rdquo; as well as mobile forces, a national parks security unit, and a special intervention group; the Air Force has a small number of older French-made fighter aircraft and some combat helicopters, also mostly of French origin; the Navy has a small force of patrol boats (2023)<br>
 
 **Maritime threats**<br>
 the International Maritime Bureau reports the territorial and offshore waters in the Niger Delta and Gulf of Guinea remain a very high risk for piracy and armed robbery of ships; in 2021, there were 34 reported incidents of piracy and armed robbery at sea in the Gulf of Guinea region; although a significant decrease from the total number of 81 incidents in 2020, it included the one hijacking and three of five ships fired upon worldwide; while boarding and attempted boarding to steal valuables from ships and crews are the most common types of incidents, almost a third of all incidents involve a hijacking and/or kidnapping; in 2021, 57 crew members were kidnapped in seven separate incidents in the Gulf of Guinea, representing 100% of kidnappings worldwide; Nigerian pirates in particular are well armed and very aggressive, operating as far as 200 nm offshore; the Maritime Administration of the US Department of Transportation has issued a Maritime Advisory (2022-001 - Gulf of Guinea-Piracy/Armed Robbery/Kidnapping for Ransom) effective 4 January 2022, which states in part, "Piracy, armed robbery, and kidnapping for ransom continue to serve as significant threats to US-flagged vessels transiting or operating in the Gulf of Guinea"<br>

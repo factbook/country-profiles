@@ -81,7 +81,7 @@ landlocked; fertile, well-watered country with many lakes and rivers; Lake Victo
 ## People and Society
 
 **Population**<br>
-46,205,893 (2022 est.)<br>
+47,729,952 (2023 est.)<br>
 
 **Nationality**<br>
 _noun_: Ugandan(s)<br>
@@ -100,11 +100,9 @@ Protestant 45.1% (Anglican 32.0%, Pentecostal/Born Again/Evangelical 11.1%, Seve
 <p>Uganda has one of the youngest and most rapidly growing populations in the world; its total fertility rate is among the world’s highest at close to 5.5 children per woman in 2022. Except in urban areas, actual fertility exceeds women’s desired fertility by one or two children, which is indicative of the widespread unmet need for contraception, lack of government support for family planning, and a cultural preference for large families. High numbers of births, short birth intervals, and the early age of childbearing contribute to Uganda’s high maternal mortality rate. Gender inequities also make fertility reduction difficult; women on average are less-educated, participate less in paid employment, and often have little say in decisions over childbearing and their own reproductive health. However, even if the birth rate were significantly reduced, Uganda’s large pool of women entering reproductive age ensures rapid population growth for decades to come.</p> <p>Unchecked, population increase will further strain the availability of arable land and natural resources and overwhelm the country’s limited means for providing food, employment, education, health care, housing, and basic services. The country’s north and northeast lag even further behind developmentally than the rest of the country as a result of long-term conflict (the Ugandan Bush War 1981-1986 and more than 20 years of fighting between the Lord’s Resistance Army (LRA) and Ugandan Government forces), ongoing inter-communal violence, and periodic natural disasters.</p> <p>Uganda has been both a source of refugees and migrants and a host country for refugees. In 1972, then President Idi AMIN, in his drive to return Uganda to Ugandans, expelled the South Asian population that composed a large share of the country’s business people and bankers. Since the 1970s, thousands of Ugandans have emigrated, mainly to southern Africa or the West, for security reasons, to escape poverty, to search for jobs, and for access to natural resources. The emigration of Ugandan doctors and nurses due to low wages is a particular concern given the country’s shortage of skilled health care workers. Africans escaping conflicts in neighboring states have found refuge in Uganda since the 1950s; the country currently struggles to host tens of thousands from the Democratic Republic of the Congo, South Sudan, and other nearby countries.</p><br>
 
 **Age structure**<br>
-_0-14 years_: 48.21% (male 10,548,913/female 10,304,876)<br>
-_15-24 years_: 20.25% (male 4,236,231/female 4,521,698)<br>
-_25-54 years_: 26.24% (male 5,202,570/female 6,147,304)<br>
-_55-64 years_: 2.91% (male 579,110/female 681,052)<br>
-_65 years and over_: 2.38% (male 442,159/female 589,053) (2020 est.)<br>
+_0-14 years_: 47.3% (male 11,439,303/female 11,136,111)<br>
+_15-64 years_: 50.31% (male 11,335,543/female 12,679,044)<br>
+_65 years and over_: 2.39% (2023 est.) (male 484,782/female 655,169)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 88.2<br>
@@ -118,16 +116,16 @@ _male_: 14.9 years<br>
 _female_: 16.5 years (2020 est.)<br>
 
 **Population growth rate**<br>
-3.27% (2022 est.)<br>
+3.22% (2023 est.)<br>
 
 **Birth rate**<br>
-40.94 births/1,000 population (2022 est.)<br>
+40.27 births/1,000 population (2023 est.)<br>
 
 **Death rate**<br>
-5.02 deaths/1,000 population (2022 est.)<br>
+4.87 deaths/1,000 population (2023 est.)<br>
 
 **Net migration rate**<br>
--3.26 migrant(s)/1,000 population (2022 est.)<br>
+-3.16 migrant(s)/1,000 population (2023 est.)<br>
 
 **Population distribution**<br>
 population density is relatively high in comparison to other African nations; most of the population is concentrated in the central and southern parts of the country, particularly along the shores of Lake Victoria and Lake Albert; the northeast is least populated as shown in this population distribution map<br>
@@ -142,11 +140,9 @@ _rate of urbanization_: 5.41% annual rate of change (2020-25 est.)<br>
 **Sex ratio**<br>
 _at birth_: 1.03 male(s)/female<br>
 _0-14 years_: 1.03 male(s)/female<br>
-_15-24 years_: 0.95 male(s)/female<br>
-_25-54 years_: 0.86 male(s)/female<br>
-_55-64 years_: 0.86 male(s)/female<br>
-_65 years and over_: 0.71 male(s)/female<br>
-_total population_: 0.95 male(s)/female (2022 est.)<br>
+_15-64 years_: 0.89 male(s)/female<br>
+_65 years and over_: 0.74 male(s)/female<br>
+_total population_: 0.95 male(s)/female (2023 est.)<br>
 
 **Mother's mean age at first birth**<br>
 19.4 years (2016 est.)<br>
@@ -156,17 +152,17 @@ _total population_: 0.95 male(s)/female (2022 est.)<br>
 375 deaths/100,000 live births (2017 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 30.45 deaths/1,000 live births<br>
-_male_: 33.88 deaths/1,000 live births<br>
-_female_: 26.91 deaths/1,000 live births (2022 est.)<br>
+_total_: 29.44 deaths/1,000 live births<br>
+_male_: 32.82 deaths/1,000 live births<br>
+_female_: 25.96 deaths/1,000 live births (2023 est.)<br>
 
 **Life expectancy at birth**<br>
-_total population_: 68.96 years<br>
-_male_: 66.71 years<br>
-_female_: 71.27 years (2022 est.)<br>
+_total population_: 69.32 years<br>
+_male_: 67.08 years<br>
+_female_: 71.62 years (2023 est.)<br>
 
 **Total fertility rate**<br>
-5.36 children born/woman (2022 est.)<br>
+5.26 children born/woman (2023 est.)<br>
 
 **Gross reproduction rate**<br>
 2.59 (2023 est.)<br>
@@ -739,6 +735,6 @@ al-Shabaab; Islamic State of Iraq and ash-Sham - Democratic Republic of Congo (I
 <p>Uganda is subject to armed fighting among hostile ethnic groups, rebels, armed gangs, militias, and various government forces that extend across its borders<br><br><em>Uganda-Kenya:</em> Kenya and Uganda began a joint demarcation of the boundary in 2021; Uganda and Kenya both claim Migingo Island, a tiny island in the middle of Lake Victoria, which offers good fishing<br><br><em>Uganda-Rwanda:</em> a joint technical committee established in 2007 to demarcate sections of the border<br><br><em>Uganda-Democratic Republic of Congo(DROC):</em> Uganda rejects the DROC claim to Margherita Peak in the Rwenzori mountains and considers it a boundary divide; there is tension and violence on Lake Albert over prospective oil reserves at the mouth of the Semliki River; Rukwanzi Island in Lake Albert is claimed by both countries<br><br><em>Uganda-South Sudan:</em> Government of South Sudan protests Lord's Resistance Army operations in western Equatorial State, displacing and driving out local populations and stealing grain stores<br><br><em>Uganda-Sudan</em>: none identified</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 479,364 (Democratic Republic of the Congo), 26,683 (Eritrea), 23,251 (Rwanda), 5,330 (Ethiopia) (2022); 62,169 (Somalia) (2023); 857,322 (South Sudan) (refugees and asylum seekers), 40,501 (Burundi) (2023)<br>
+_refugees (country of origin)_: 479,364 (Democratic Republic of the Congo) (2022); 857,322 (South Sudan) (refugees and asylum seekers), 62,169 (Somalia), 40,501 (Burundi), 27,605 (Eritrea), 23,290 (Rwanda), 5,450 (Ethiopia) (2023)<br>
 _stateless persons_: 67,000 (2022)<br>
 

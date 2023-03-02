@@ -83,7 +83,7 @@ historically, an area of conflict because of flat terrain and the lack of natura
 ## People and Society
 
 **Population**<br>
-38,093,101 (2022 est.)<br>
+37,991,766 (2023 est.)<br>
 
 **Nationality**<br>
 _noun_: Pole(s)<br>
@@ -101,11 +101,9 @@ _major-language sample(s)_: <br>Księga Faktów Świata, niezbędne źródło po
 Catholic 85% (includes Roman Catholic 84.8% and other Catholic 0.3%), Orthodox 1.3% (almost all are Polish Autocephalous Orthodox), Protestant 0.4% (mainly Augsburg Evangelical and Pentecostal), other 0.3% (includes Jehovah's Witness, Buddhist, Hare Krishna, Gaudiya Vaishnavism, Muslim, Jewish, Church of Jesus Christ), unspecified 12.9% (2020 est.)<br>
 
 **Age structure**<br>
-_0-14 years_: 14.83% (male 2,918,518/female 2,756,968)<br>
-_15-24 years_: 9.8% (male 1,928,637/female 1,823,894)<br>
-_25-54 years_: 43.33% (male 8,384,017/female 8,203,646)<br>
-_55-64 years_: 13.32% (male 2,424,638/female 2,675,351)<br>
-_65 years and over_: 18.72% (male 2,867,315/female 4,299,341) (2020 est.)<br>
+_0-14 years_: 14.53% (male 2,839,788/female 2,680,401)<br>
+_15-64 years_: 64.87% (male 12,364,282/female 12,280,814)<br>
+_65 years and over_: 20.6% (2023 est.) (male 3,171,838/female 4,654,643)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 51.4<br>
@@ -119,16 +117,16 @@ _male_: 40.3 years<br>
 _female_: 43.6 years (2020 est.)<br>
 
 **Population growth rate**<br>
--0.26% (2022 est.)<br>
+-0.28% (2023 est.)<br>
 
 **Birth rate**<br>
-8.5 births/1,000 population (2022 est.)<br>
+8.31 births/1,000 population (2023 est.)<br>
 
 **Death rate**<br>
-10.71 deaths/1,000 population (2022 est.)<br>
+10.75 deaths/1,000 population (2023 est.)<br>
 
 **Net migration rate**<br>
--0.33 migrant(s)/1,000 population (2022 est.)<br>
+-0.34 migrant(s)/1,000 population (2023 est.)<br>
 
 **Population distribution**<br>
 population concentrated in the southern area around Krakow and the central area around Warsaw and Lodz, with an extension to the northern coastal city of Gdansk<br>
@@ -143,11 +141,9 @@ _rate of urbanization_: -0.16% annual rate of change (2020-25 est.)<br>
 **Sex ratio**<br>
 _at birth_: 1.06 male(s)/female<br>
 _0-14 years_: 1.06 male(s)/female<br>
-_15-24 years_: 1.06 male(s)/female<br>
-_25-54 years_: 1.02 male(s)/female<br>
-_55-64 years_: 0.92 male(s)/female<br>
-_65 years and over_: 0.57 male(s)/female<br>
-_total population_: 0.94 male(s)/female (2022 est.)<br>
+_15-64 years_: 1.01 male(s)/female<br>
+_65 years and over_: 0.68 male(s)/female<br>
+_total population_: 0.94 male(s)/female (2023 est.)<br>
 
 **Mother's mean age at first birth**<br>
 27.9 years (2020 est.)<br>
@@ -156,17 +152,17 @@ _total population_: 0.94 male(s)/female (2022 est.)<br>
 2 deaths/100,000 live births (2017 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 4.16 deaths/1,000 live births<br>
-_male_: 4.58 deaths/1,000 live births<br>
-_female_: 3.71 deaths/1,000 live births (2022 est.)<br>
+_total_: 4.1 deaths/1,000 live births<br>
+_male_: 4.52 deaths/1,000 live births<br>
+_female_: 3.65 deaths/1,000 live births (2023 est.)<br>
 
 **Life expectancy at birth**<br>
-_total population_: 78.76 years<br>
-_male_: 75.02 years<br>
-_female_: 82.73 years (2022 est.)<br>
+_total population_: 79 years<br>
+_male_: 75.28 years<br>
+_female_: 82.94 years (2023 est.)<br>
 
 **Total fertility rate**<br>
-1.4 children born/woman (2022 est.)<br>
+1.41 children born/woman (2023 est.)<br>
 
 **Gross reproduction rate**<br>
 0.69 (2023 est.)<br>
@@ -751,7 +747,7 @@ Islamic State of Iraq and ash-Sham (ISIS)<br>
 <p><em>Poland-Belarus-Ukraine</em>: as a member state that forms part of the EU's external border, Poland has implemented the strict Schengen border rules to restrict illegal immigration and trade along its eastern borders with Belarus and Ukraine</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 1,563,386 (Ukraine) (as of 14 February 2023)<br>
+_refugees (country of origin)_: 1,563,386 (Ukraine) (as of 28 February 2023)<br>
 _stateless persons_: 1,435 (2022)<br>
 
 **Illicit drugs**<br>

@@ -76,7 +76,7 @@ Pitch Lake, on Trinidad's southwestern coast, is the world's largest natural res
 ## People and Society
 
 **Population**<br>
-1,405,646 (2022 est.)<br>
+1,407,460 (2023 est.)<br>
 
 **Nationality**<br>
 _noun_: Trinidadian(s), Tobagonian(s)<br>
@@ -93,11 +93,9 @@ English (official), Trinidadian Creole English, Tobagonian Creole English, Carib
 Protestant 32.1% (Pentecostal/Evangelical/Full Gospel 12%, Baptist 6.9%, Anglican 5.7%, Seventh Day Adventist 4.1%, Presbyterian/Congregational 2.5%, other Protestant 0.9%), Roman Catholic 21.6%, Hindu 18.2%, Muslim 5%, Jehovah's Witness 1.5%, other 8.4%, none 2.2%, unspecified 11.1% (2011 est.)<br>
 
 **Age structure**<br>
-_0-14 years_: 19.01% (male 116,953/female 112,805)<br>
-_15-24 years_: 11.28% (male 70,986/female 65,389)<br>
-_25-54 years_: 43.77% (male 276,970/female 252,108)<br>
-_55-64 years_: 13.83% (male 83,650/female 83,585)<br>
-_65 years and over_: 12.11% (male 64,092/female 82,251) (2020 est.)<br>
+_0-14 years_: 19.04% (male 136,733/female 131,316)<br>
+_15-64 years_: 67.4% (male 482,427/female 466,200)<br>
+_65 years and over_: 13.56% (2023 est.) (male 88,531/female 102,253)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 43.7<br>
@@ -111,16 +109,16 @@ _male_: 37.3 years<br>
 _female_: 38.3 years (2020 est.)<br>
 
 **Population growth rate**<br>
-0.14% (2022 est.)<br>
+0.12% (2023 est.)<br>
 
 **Birth rate**<br>
-10.79 births/1,000 population (2022 est.)<br>
+10.62 births/1,000 population (2023 est.)<br>
 
 **Death rate**<br>
-8.38 deaths/1,000 population (2022 est.)<br>
+8.48 deaths/1,000 population (2023 est.)<br>
 
 **Net migration rate**<br>
--1.01 migrant(s)/1,000 population (2022 est.)<br>
+-0.97 migrant(s)/1,000 population (2023 est.)<br>
 
 **Population distribution**<br>
 population on Trinidad is concentrated in the western half of the island, on Tobago in the southern half<br>
@@ -135,27 +133,25 @@ _rate of urbanization_: 0.23% annual rate of change (2020-25 est.)<br>
 **Sex ratio**<br>
 _at birth_: 1.04 male(s)/female<br>
 _0-14 years_: 1.04 male(s)/female<br>
-_15-24 years_: 1.05 male(s)/female<br>
-_25-54 years_: 1.04 male(s)/female<br>
-_55-64 years_: 0.99 male(s)/female<br>
-_65 years and over_: 0.69 male(s)/female<br>
-_total population_: 1.01 male(s)/female (2022 est.)<br>
+_15-64 years_: 1.03 male(s)/female<br>
+_65 years and over_: 0.87 male(s)/female<br>
+_total population_: 1.01 male(s)/female (2023 est.)<br>
 
 **Maternal mortality ratio**<br>
 67 deaths/100,000 live births (2017 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 15.83 deaths/1,000 live births<br>
-_male_: 17.97 deaths/1,000 live births<br>
-_female_: 13.61 deaths/1,000 live births (2022 est.)<br>
+_total_: 15.44 deaths/1,000 live births<br>
+_male_: 17.51 deaths/1,000 live births<br>
+_female_: 13.28 deaths/1,000 live births (2023 est.)<br>
 
 **Life expectancy at birth**<br>
-_total population_: 75.94 years<br>
-_male_: 74.02 years<br>
-_female_: 77.93 years (2022 est.)<br>
+_total population_: 76.19 years<br>
+_male_: 74.29 years<br>
+_female_: 78.18 years (2023 est.)<br>
 
 **Total fertility rate**<br>
-1.63 children born/woman (2022 est.)<br>
+1.63 children born/woman (2023 est.)<br>
 
 **Gross reproduction rate**<br>
 0.8 (2023 est.)<br>

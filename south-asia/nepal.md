@@ -79,7 +79,7 @@ landlocked; strategic location between China and India; contains eight of world'
 ## People and Society
 
 **Population**<br>
-30,666,598 (2022 est.)<br>
+30,899,443 (2023 est.)<br>
 
 **Nationality**<br>
 _noun_: Nepali (singular and plural)<br>
@@ -97,11 +97,9 @@ _major-language sample(s)_: <br>विश्व तथ्य पुस्तक,
 Hindu 81.3%, Buddhist 9%, Muslim 4.4%, Kirant 3.1%, Christian 1.4%, other 0.5%, unspecified 0.2% (2011 est.)<br>
 
 **Age structure**<br>
-_0-14 years_: 28.36% (male 4,526,786/female 4,073,642)<br>
-_15-24 years_: 20.93% (male 3,276,431/female 3,070,843)<br>
-_25-54 years_: 38.38% (male 5,251,553/female 6,387,365)<br>
-_55-64 years_: 6.64% (male 954,836/female 1,059,360)<br>
-_65 years and over_: 5.69% (male 852,969/female 874,092) (2020 est.)<br>
+_0-14 years_: 26.32% (male 4,175,742/female 3,956,153)<br>
+_15-64 years_: 67.52% (male 10,016,748/female 10,846,101)<br>
+_65 years and over_: 6.16% (2023 est.) (male 930,510/female 974,189)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 54.9<br>
@@ -115,16 +113,16 @@ _male_: 23.9 years<br>
 _female_: 26.9 years (2020 est.)<br>
 
 **Population growth rate**<br>
-0.78% (2022 est.)<br>
+0.74% (2023 est.)<br>
 
 **Birth rate**<br>
-17.53 births/1,000 population (2022 est.)<br>
+17.26 births/1,000 population (2023 est.)<br>
 
 **Death rate**<br>
-5.58 deaths/1,000 population (2022 est.)<br>
+5.59 deaths/1,000 population (2023 est.)<br>
 
 **Net migration rate**<br>
--4.21 migrant(s)/1,000 population (2022 est.)<br>
+-4.29 migrant(s)/1,000 population (2023 est.)<br>
 
 **Population distribution**<br>
 most of the population is divided nearly equally between a concentration in the southern-most plains of the Tarai region and the central hilly region; overall density is quite low<br>
@@ -139,11 +137,9 @@ _rate of urbanization_: 3.09% annual rate of change (2020-25 est.)<br>
 **Sex ratio**<br>
 _at birth_: 1.06 male(s)/female<br>
 _0-14 years_: 1.06 male(s)/female<br>
-_15-24 years_: 1.03 male(s)/female<br>
-_25-54 years_: 0.87 male(s)/female<br>
-_55-64 years_: 0.88 male(s)/female<br>
-_65 years and over_: 0.91 male(s)/female<br>
-_total population_: 0.96 male(s)/female (2022 est.)<br>
+_15-64 years_: 0.92 male(s)/female<br>
+_65 years and over_: 0.96 male(s)/female<br>
+_total population_: 0.96 male(s)/female (2023 est.)<br>
 
 **Mother's mean age at first birth**<br>
 20.4 years (2016 est.)<br>
@@ -153,17 +149,17 @@ _total population_: 0.96 male(s)/female (2022 est.)<br>
 186 deaths/100,000 live births (2017 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 25.13 deaths/1,000 live births<br>
-_male_: 26.47 deaths/1,000 live births<br>
-_female_: 23.71 deaths/1,000 live births (2022 est.)<br>
+_total_: 24.55 deaths/1,000 live births<br>
+_male_: 25.84 deaths/1,000 live births<br>
+_female_: 23.18 deaths/1,000 live births (2023 est.)<br>
 
 **Life expectancy at birth**<br>
-_total population_: 72.4 years<br>
-_male_: 71.66 years<br>
-_female_: 73.17 years (2022 est.)<br>
+_total population_: 72.67 years<br>
+_male_: 71.95 years<br>
+_female_: 73.44 years (2023 est.)<br>
 
 **Total fertility rate**<br>
-1.9 children born/woman (2022 est.)<br>
+1.88 children born/woman (2023 est.)<br>
 
 **Gross reproduction rate**<br>
 0.91 (2023 est.)<br>
@@ -682,7 +678,7 @@ _unpaved_: 16,100 km (2016)<br>
 
 **Military and security forces**<br>
 Ministry of Defense: Nepali Army (includes Air Wing); Ministry of Home Affairs: Nepal Police, Nepal Armed Police Force (2022)<br>
-<strong>note: </strong>the Nepal Armed Police Force is paramilitary force that is responsible for border and internal security, including counter-insurgency and counter-terrorism, and assisting the Army in the event of an external invasion<br>
+<strong>note: </strong>the Nepal Police are responsible for enforcing law and order across the country; the Armed Police Force is responsible for combating terrorism, providing security during riots and public disturbances, assisting in natural disasters, and protecting vital infrastructure, public officials, and the borders; it also conducts counterinsurgency and counterterrorism operations and would assist the Army in the event of an external invasion<br>
 
 **Military expenditures**<br>
 1.3% of GDP (2021 est.)<br>

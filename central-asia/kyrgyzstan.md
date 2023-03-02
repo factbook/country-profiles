@@ -82,7 +82,7 @@ landlocked; entirely mountainous, dominated by the Tien Shan range; 94% of the c
 ## People and Society
 
 **Population**<br>
-6,071,750 (2022 est.)<br>
+6,122,781 (2023 est.)<br>
 
 **Nationality**<br>
 _noun_: Kyrgyzstani(s)<br>
@@ -102,11 +102,9 @@ Muslim 90% (majority Sunni), Christian 7% (Russian Orthodox 3%), other 3% (inclu
 <p>Kyrgyzstan is a sparsely populated country whose population is unevenly distributed.  More than 50% of the population lives in or around the two cities of Bishkek and Osh and their surrounding districts, which together account for about 12% of the country’s area.  Kyrgyzstan’s population continues to grow rapidly owing to its high fertility rate and the traditional preference for larger families, a low mortality rate, a growing share of women of reproductive age, and measures to support families with children. The country has a youthful age structure; over 45% of the population is under the age of 25 as of 2022.  Nevertheless, Kyrgyzstan is transitioning from an agricultural society with high fertility and mortality rates to an industrial society with lower fertility and mortality rates.</p> <p>As part of the USSR, Kyrgyzstan’s rapid population growth was not problematic because its needs were redistributed among the Soviet States.  As an independent state, however, population growth became burdensome.  International labor migration continues to serve as a safety valve that decreases pressure on the labor market and resources (healthcare, education, and pensions), while also reducing poverty through much-needed remittances.  The main destinations for labor migrants are Russia and Kazakhstan, where wages are higher; almost a third of Kyrgyzstan’s working-age population migrates to Russia alone.  Outmigration was most pronounced in the 1990s, after the collapse of the USSR, when ethnic Russians, Ukrainians, and Germans left Kyrgyzstan, changing the proportion of ethnic Kyrgyz in the country from barely 50% in 1992 to almost three-quarters today.</p> <p>While Kyrgyzstan is a net emigration country, it does receive immigrants.  The majority of immigrants are from the Commonwealth of Independent States – particularly Kazakhstan, Russia, and Uzbekistan – but more recent arrivals also include persons from China, Turkey, and Turkmenistan.  Chinese immigrants work primarily in construction and gold mining, while Turkish immigrants mainly work in construction, trade, education, and services.  Border areas between Kyrgyzstan, Tajikistan, and Uzbekistan experience irregular migration, but many of these migrants plan to move on to Europe.</p><br>
 
 **Age structure**<br>
-_0-14 years_: 30.39% (male 930,455/female 882,137)<br>
-_15-24 years_: 15.7% (male 475,915/female 460,604)<br>
-_25-54 years_: 40.02% (male 1,172,719/female 1,214,624)<br>
-_55-64 years_: 8.09% (male 210,994/female 271,480)<br>
-_65 years and over_: 5.8% (male 132,134/female 213,835) (2020 est.)<br>
+_0-14 years_: 29.54% (male 928,876/female 879,729)<br>
+_15-64 years_: 63.86% (male 1,914,277/female 1,995,500)<br>
+_65 years and over_: 6.6% (2023 est.) (male 154,684/female 249,715)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 63.5<br>
@@ -120,16 +118,16 @@ _male_: 26.1 years<br>
 _female_: 28.5 years (2020 est.)<br>
 
 **Population growth rate**<br>
-0.86% (2022 est.)<br>
+0.82% (2023 est.)<br>
 
 **Birth rate**<br>
-19.54 births/1,000 population (2022 est.)<br>
+19.08 births/1,000 population (2023 est.)<br>
 
 **Death rate**<br>
-6.12 deaths/1,000 population (2022 est.)<br>
+6.07 deaths/1,000 population (2023 est.)<br>
 
 **Net migration rate**<br>
--4.87 migrant(s)/1,000 population (2022 est.)<br>
+-4.83 migrant(s)/1,000 population (2023 est.)<br>
 
 **Population distribution**<br>
 the vast majority of Kyrgyzstanis live in rural areas; densest population settlement is to the north in and around the capital, Bishkek, followed by Osh in the west; the least densely populated area is the east, southeast in the Tien Shan mountains<br>
@@ -144,11 +142,9 @@ _rate of urbanization_: 2.05% annual rate of change (2020-25 est.)<br>
 **Sex ratio**<br>
 _at birth_: 1.07 male(s)/female<br>
 _0-14 years_: 1.06 male(s)/female<br>
-_15-24 years_: 1.03 male(s)/female<br>
-_25-54 years_: 0.96 male(s)/female<br>
-_55-64 years_: 0.78 male(s)/female<br>
-_65 years and over_: 0.5 male(s)/female<br>
-_total population_: 0.96 male(s)/female (2022 est.)<br>
+_15-64 years_: 0.96 male(s)/female<br>
+_65 years and over_: 0.62 male(s)/female<br>
+_total population_: 0.96 male(s)/female (2023 est.)<br>
 
 **Mother's mean age at first birth**<br>
 22.6 years (2019 est.)<br>
@@ -157,17 +153,17 @@ _total population_: 0.96 male(s)/female (2022 est.)<br>
 60 deaths/100,000 live births (2017 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 25.66 deaths/1,000 live births<br>
-_male_: 29.83 deaths/1,000 live births<br>
-_female_: 21.22 deaths/1,000 live births (2022 est.)<br>
+_total_: 25.08 deaths/1,000 live births<br>
+_male_: 29.19 deaths/1,000 live births<br>
+_female_: 20.7 deaths/1,000 live births (2023 est.)<br>
 
 **Life expectancy at birth**<br>
-_total population_: 72.35 years<br>
-_male_: 68.27 years<br>
-_female_: 76.71 years (2022 est.)<br>
+_total population_: 72.63 years<br>
+_male_: 68.57 years<br>
+_female_: 76.96 years (2023 est.)<br>
 
 **Total fertility rate**<br>
-2.5 children born/woman (2022 est.)<br>
+2.47 children born/woman (2023 est.)<br>
 
 **Gross reproduction rate**<br>
 1.2 (2023 est.)<br>
@@ -687,7 +683,7 @@ _lake port(s)_: Balykchy (Ysyk-Kol or Rybach'ye)(Lake Ysyk-Kol)<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Armed Forces of the Kyrgyz Republic: Land Forces, Air Defense Forces, National Guard; Internal Troops; State Committee for National Security (GKNB): Border Service (2022)<br>
+Armed Forces of the Kyrgyz Republic: Land Forces, Air Defense Forces, National Guard; Internal Troops; State Committee for National Security (GKNB): State Border Service (2022)<br>
 
 **Military expenditures**<br>
 1.7% of GDP (2021 est.)<br>
@@ -697,7 +693,7 @@ Armed Forces of the Kyrgyz Republic: Land Forces, Air Defense Forces, National G
 2.3% of GDP (2017 est.) (approximately $390 million)<br>
 
 **Military and security service personnel strengths**<br>
-approximately 12,000 active duty troops (8,500 Land Forces; 2,500 Air Force/Air Defense; 1,000 National Guard) (2022)<br>
+approximately 14,000 active-duty troops (8,500 Land Forces; 2,500 Air Force/Air Defense; 3,000 National Guard) (2022)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the Kyrgyz military inventory is comprised of mostly older Russian and Soviet-era equipment; Kyrgyzstan relies on donations of military equipment, which come mostly from Russia under a 2013 agreement between Bishkek and Moscow (2022)<br>
@@ -706,7 +702,12 @@ the Kyrgyz military inventory is comprised of mostly older Russian and Soviet-er
 18-27 years of age for compulsory or voluntary male military service in the Armed Forces or Interior Ministry; 12-month service obligation (9 months for university graduates), with optional fee-based 3-year service in the call-up mobilization reserve; women may volunteer at age 19; 16-17 years of age for military cadets, who cannot take part in military operations (2022)<br>
 
 **Military - note**<br>
-Kyrgyzstan has been a member of the Collective Security Treaty Organization (CSTO) since 1994 and contributes troops to CSTO's rapid reaction force (2022)<br>
+Kyrgyzstan has been a member of the Collective Security Treaty Organization (CSTO) since 1994 and contributes troops to CSTO's rapid reaction force; it also started a relationship with NATO in 1992 and joined NATO's Partnership for Peace program in 1994 (2023)<br>
+
+## Terrorism
+
+**Terrorist group(s)**<br>
+US-designated foreign terrorist groups such as the Islamic Jihad Union, the Islamic Movement of Uzbekistan, and the Islamic State of Iraq and ash-Sham-Khorasan Province have operated in the area where the Uzbek, Kyrgyz, and Tajik borders converge and ill-defined and porous borders allow for the relatively free movement of people and illicit goods<br>
 
 ## Transnational Issues
 

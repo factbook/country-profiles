@@ -76,7 +76,7 @@ landlocked; the only grand duchy in the world<br>
 ## People and Society
 
 **Population**<br>
-650,364 (2022 est.)<br>
+660,924 (2023 est.)<br>
 
 **Nationality**<br>
 _noun_: Luxembourger(s)<br>
@@ -93,11 +93,9 @@ Luxembourgish (official administrative and judicial language and national langua
 Christian (predominantly Roman Catholic) 70.6%, Muslim 2.3%, other (includes Buddhist, folk religions, Hindu, Jewish) 0.4%, unaffiliated 26.7% (2020 est.)<br>
 
 **Age structure**<br>
-_0-14 years_: 16.73% (male 54,099/female 51,004)<br>
-_15-24 years_: 11.78% (male 37,946/female 36,061)<br>
-_25-54 years_: 43.93% (male 141,535/female 134,531)<br>
-_55-64 years_: 12.19% (male 39,289/female 37,337)<br>
-_65 years and over_: 15.37% (male 43,595/female 52,984) (2020 est.)<br>
+_0-14 years_: 16.73% (male 57,006/female 53,593)<br>
+_15-64 years_: 67.38% (male 228,427/female 216,912)<br>
+_65 years and over_: 15.88% (2023 est.) (male 47,951/female 57,035)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 44.2<br>
@@ -111,16 +109,16 @@ _male_: 38.9 years<br>
 _female_: 40 years (2020 est.)<br>
 
 **Population growth rate**<br>
-1.64% (2022 est.)<br>
+1.58% (2023 est.)<br>
 
 **Birth rate**<br>
-11.61 births/1,000 population (2022 est.)<br>
+11.59 births/1,000 population (2023 est.)<br>
 
 **Death rate**<br>
-7.21 deaths/1,000 population (2022 est.)<br>
+7.17 deaths/1,000 population (2023 est.)<br>
 
 **Net migration rate**<br>
-12.01 migrant(s)/1,000 population (2022 est.)<br>
+11.39 migrant(s)/1,000 population (2023 est.)<br>
 
 **Population distribution**<br>
 most people live in the south, on or near the border with France<br>
@@ -135,11 +133,9 @@ _rate of urbanization_: 1.43% annual rate of change (2020-25 est.)<br>
 **Sex ratio**<br>
 _at birth_: 1.06 male(s)/female<br>
 _0-14 years_: 1.06 male(s)/female<br>
-_15-24 years_: 1.05 male(s)/female<br>
-_25-54 years_: 1.05 male(s)/female<br>
-_55-64 years_: 1.06 male(s)/female<br>
-_65 years and over_: 0.7 male(s)/female<br>
-_total population_: 1.02 male(s)/female (2022 est.)<br>
+_15-64 years_: 1.05 male(s)/female<br>
+_65 years and over_: 0.84 male(s)/female<br>
+_total population_: 1.02 male(s)/female (2023 est.)<br>
 
 **Mother's mean age at first birth**<br>
 31 years (2020 est.)<br>
@@ -148,17 +144,17 @@ _total population_: 1.02 male(s)/female (2022 est.)<br>
 5 deaths/100,000 live births (2017 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 3.25 deaths/1,000 live births<br>
-_male_: 3.65 deaths/1,000 live births<br>
-_female_: 2.83 deaths/1,000 live births (2022 est.)<br>
+_total_: 3.21 deaths/1,000 live births<br>
+_male_: 3.6 deaths/1,000 live births<br>
+_female_: 2.79 deaths/1,000 live births (2023 est.)<br>
 
 **Life expectancy at birth**<br>
-_total population_: 82.98 years<br>
-_male_: 80.52 years<br>
-_female_: 85.58 years (2022 est.)<br>
+_total population_: 83.17 years<br>
+_male_: 80.73 years<br>
+_female_: 85.76 years (2023 est.)<br>
 
 **Total fertility rate**<br>
-1.63 children born/woman (2022 est.)<br>
+1.63 children born/woman (2023 est.)<br>
 
 **Gross reproduction rate**<br>
 0.79 (2023 est.)<br>

@@ -93,7 +93,7 @@ largest West European nation; most major French rivers - the Meuse, Seine, Loire
 ## People and Society
 
 **Population**<br>
-68,305,148 (2022 est.)<br>
+68,521,974 (2023 est.)<br>
 <strong>note:</strong> the above figure is for metropolitan France and five overseas regions; the metropolitan France population is 62,814,233<br>
 
 **Nationality**<br>
@@ -113,11 +113,9 @@ Roman Catholic 47%, Muslim 4%, Protestant 2%, Buddhist 2%, Orthodox 1%, Jewish 1
 <strong>note:</strong> France maintains a tradition of secularism and has not officially collected data on religious affiliation since the 1872 national census, which complicates assessments of France's religious composition; an 1872 law prohibiting state authorities from collecting data on individuals' ethnicity or religious beliefs was reaffirmed by a 1978 law emphasizing the prohibition of the collection or exploitation of personal data revealing an individual's race, ethnicity, or political, philosophical, or religious opinions; a 1905 law codified France's separation of church and state<br>
 
 **Age structure**<br>
-_0-14 years_: 18.36% (male 6,368,767/female 6,085,318)<br>
-_15-24 years_: 11.88% (male 4,122,981/female 3,938,938)<br>
-_25-54 years_: 36.83% (male 12,619,649/female 12,366,120)<br>
-_55-64 years_: 12.47% (male 4,085,564/female 4,376,272)<br>
-_65 years and over_: 20.46% (male 6,029,303/female 7,855,244) (2020 est.)<br>
+_0-14 years_: 18.04% (male 6,322,021/female 6,040,773)<br>
+_15-64 years_: 60.53% (male 20,846,592/female 20,632,418)<br>
+_65 years and over_: 21.42% (2023 est.) (male 6,409,883/female 8,270,287)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 63.1<br>
@@ -131,16 +129,16 @@ _male_: 40 years<br>
 _female_: 43.4 years (2020 est.)<br>
 
 **Population growth rate**<br>
-0.32% (2022 est.)<br>
+0.31% (2023 est.)<br>
 
 **Birth rate**<br>
-11.66 births/1,000 population (2022 est.)<br>
+11.56 births/1,000 population (2023 est.)<br>
 
 **Death rate**<br>
-9.54 deaths/1,000 population (2022 est.)<br>
+9.51 deaths/1,000 population (2023 est.)<br>
 
 **Net migration rate**<br>
-1.06 migrant(s)/1,000 population (2022 est.)<br>
+1.06 migrant(s)/1,000 population (2023 est.)<br>
 
 **Population distribution**<br>
 much of the population is concentrated in the north and southeast; although there are many urban agglomerations throughout the country, Paris is by far the largest city, with Lyon ranked a distant second<br>
@@ -155,11 +153,9 @@ _rate of urbanization_: 0.67% annual rate of change (2020-25 est.)<br>
 **Sex ratio**<br>
 _at birth_: 1.05 male(s)/female<br>
 _0-14 years_: 1.05 male(s)/female<br>
-_15-24 years_: 1.05 male(s)/female<br>
-_25-54 years_: 1.02 male(s)/female<br>
-_55-64 years_: 0.94 male(s)/female<br>
-_65 years and over_: 0.64 male(s)/female<br>
-_total population_: 0.96 male(s)/female (2022 est.)<br>
+_15-64 years_: 1.01 male(s)/female<br>
+_65 years and over_: 0.78 male(s)/female<br>
+_total population_: 0.96 male(s)/female (2023 est.)<br>
 
 **Mother's mean age at first birth**<br>
 28.9 years (2020 est.)<br>
@@ -168,17 +164,17 @@ _total population_: 0.96 male(s)/female (2022 est.)<br>
 8 deaths/100,000 live births (2017 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 3.15 deaths/1,000 live births<br>
-_male_: 3.53 deaths/1,000 live births<br>
-_female_: 2.74 deaths/1,000 live births (2022 est.)<br>
+_total_: 3.1 deaths/1,000 live births<br>
+_male_: 3.48 deaths/1,000 live births<br>
+_female_: 2.7 deaths/1,000 live births (2023 est.)<br>
 
 **Life expectancy at birth**<br>
-_total population_: 82.59 years<br>
-_male_: 79.53 years<br>
-_female_: 85.79 years (2022 est.)<br>
+_total population_: 82.79 years<br>
+_male_: 79.75 years<br>
+_female_: 85.97 years (2023 est.)<br>
 
 **Total fertility rate**<br>
-2.03 children born/woman (2022 est.)<br>
+2.02 children born/woman (2023 est.)<br>
 
 **Gross reproduction rate**<br>
 0.99 (2023 est.)<br>

@@ -85,7 +85,7 @@ landlocked; one of the hottest countries in the world; northern four-fifths is d
 ## People and Society
 
 **Population**<br>
-24,484,587 (2022 est.)<br>
+25,396,840 (2023 est.)<br>
 
 **Nationality**<br>
 _noun_: Nigerien(s)<br>
@@ -104,11 +104,9 @@ Muslim 99.3%, Christian 0.3%, animist 0.2%, none 0.1% (2012 est.)<br>
 <p>Niger has the highest total fertility rate (TFR) of any country in the world, averaging close to 7 children per woman in 2022. A slight decline in fertility over the last few decades has stalled. This leveling off of the high fertility rate is in large part a product of the continued desire for large families. In Niger, the TFR is lower than the desired fertility rate, which makes it unlikely that contraceptive use will increase. The high TFR sustains rapid population growth and a large youth population – almost 70% of the populace is under the age of 25, as of 2020. Gender inequality, including a lack of educational opportunities for women and early marriage and childbirth, also contributes to high population growth.</p> <p>Because of large family sizes, children are inheriting smaller and smaller parcels of land. The dependence of most Nigeriens on subsistence farming on increasingly small landholdings, coupled with declining rainfall and the resultant shrinkage of arable land, are all preventing food production from keeping up with population growth.</p> <p>For more than half a century, Niger's lack of economic development has led to steady net outmigration. In the 1960s, Nigeriens mainly migrated to coastal West African countries to work on a seasonal basis. Some headed to Libya and Algeria in the 1970s to work in the booming oil industry until its decline in the 1980s. Since the 1990s, the principal destinations for Nigerien labor migrants have been West African countries, especially Burkina Faso and Cote d’Ivoire, while emigration to Europe and North America has remained modest. During the same period, Niger’s desert trade route town Agadez became a hub for West African and other Sub-Saharan migrants crossing the Sahara to North Africa and sometimes onward to Europe.</p> <p>More than 60,000 Malian refugees have fled to Niger since violence between Malian government troops and armed rebels began in early 2012. Ongoing attacks by the Boko Haram Islamist insurgency, dating to 2013 in northern Nigeria and February 2015 in southeastern Niger, pushed tens of thousands of Nigerian refugees and Nigerien returnees across the border to Niger and displaced thousands of locals in Niger’s already impoverished Diffa region.</p><br>
 
 **Age structure**<br>
-_0-14 years_: 50.58% (male 5,805,102/female 5,713,815)<br>
-_15-24 years_: 19.99% (male 2,246,670/female 2,306,285)<br>
-_25-54 years_: 23.57% (male 2,582,123/female 2,784,464)<br>
-_55-64 years_: 3.17% (male 357,832/female 364,774)<br>
-_65 years and over_: 2.68% (male 293,430/female 317,866) (2020 est.)<br>
+_0-14 years_: 49.7% (male 6,360,952/female 6,261,000)<br>
+_15-64 years_: 47.6% (male 5,896,312/female 6,192,116)<br>
+_65 years and over_: 2.7% (2023 est.) (male 329,421/female 357,039)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 105.4<br>
@@ -122,16 +120,16 @@ _male_: 14.5 years<br>
 _female_: 15.1 years (2020 est.)<br>
 
 **Population growth rate**<br>
-3.66% (2022 est.)<br>
+3.66% (2023 est.)<br>
 
 **Birth rate**<br>
-47.08 births/1,000 population (2022 est.)<br>
+46.86 births/1,000 population (2023 est.)<br>
 
 **Death rate**<br>
-9.87 deaths/1,000 population (2022 est.)<br>
+9.66 deaths/1,000 population (2023 est.)<br>
 
 **Net migration rate**<br>
--0.64 migrant(s)/1,000 population (2022 est.)<br>
+-0.62 migrant(s)/1,000 population (2023 est.)<br>
 
 **Population distribution**<br>
 majority of the populace is located in the southernmost extreme of the country along the border with Nigeria and Benin as shown in this population distribution map<br>
@@ -146,11 +144,9 @@ _rate of urbanization_: 4.72% annual rate of change (2020-25 est.)<br>
 **Sex ratio**<br>
 _at birth_: 1.03 male(s)/female<br>
 _0-14 years_: 1.02 male(s)/female<br>
-_15-24 years_: 0.97 male(s)/female<br>
-_25-54 years_: 0.92 male(s)/female<br>
-_55-64 years_: 0.97 male(s)/female<br>
-_65 years and over_: 0.81 male(s)/female<br>
-_total population_: 0.98 male(s)/female (2022 est.)<br>
+_15-64 years_: 0.95 male(s)/female<br>
+_65 years and over_: 0.92 male(s)/female<br>
+_total population_: 0.98 male(s)/female (2023 est.)<br>
 
 **Mother's mean age at first birth**<br>
 18.5 years (2012 est.)<br>
@@ -160,17 +156,17 @@ _total population_: 0.98 male(s)/female (2022 est.)<br>
 509 deaths/100,000 live births (2017 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 66.81 deaths/1,000 live births<br>
-_male_: 71.73 deaths/1,000 live births<br>
-_female_: 61.75 deaths/1,000 live births (2022 est.)<br>
+_total_: 65.53 deaths/1,000 live births<br>
+_male_: 70.46 deaths/1,000 live births<br>
+_female_: 60.46 deaths/1,000 live births (2023 est.)<br>
 
 **Life expectancy at birth**<br>
-_total population_: 60.09 years<br>
-_male_: 58.55 years<br>
-_female_: 61.68 years (2022 est.)<br>
+_total population_: 60.48 years<br>
+_male_: 58.91 years<br>
+_female_: 62.1 years (2023 est.)<br>
 
 **Total fertility rate**<br>
-6.82 children born/woman (2022 est.)<br>
+6.73 children born/woman (2023 est.)<br>
 
 **Gross reproduction rate**<br>
 3.31 (2023 est.)<br>
@@ -748,7 +744,7 @@ Boko Haram; Islamic State of Iraq and ash-Sham in the Greater Sahara (ISIS-GS); 
 <p><em>Niger-Benin-Nigeria</em>: location of Niger-Benin-Nigeria tripoint is unresolved</p> <p><em>Niger-Burkina Faso</em>: the dispute with Burkina Faso was referred to the International Court of Justice (ICJ) in 2010; the ICJ ruled in 2013 that 786 sq km should go to Burkina Faso and 277 sq km to Niger; the ruling was implemented in 2015 and 2016, with Burkina Faso gaining 14 towns and Niger 4</p> <p><em>Niger-Cameroon-Nigeria</em>: only Nigeria and Cameroon have heeded the Lake Chad Commission's admonition to ratify the delimitation treaty that also includes the Chad-Niger and Niger-Nigeria boundaries</p> <p><em>Niger-Libya</em>: Libya claims about 25,000 sq km in a currently dormant dispute in the Tummo region</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 65,734 (Mali) (refugees and asylum seekers) (2022); 188,041 (Nigeria) (2023)<br>
+_refugees (country of origin)_: 188,041 (Nigeria), 65,847 (Mali) (refugees and asylum seekers) (2023)<br>
 _IDPs_: 376,809 (includes the regions of Diffa, Tillaberi, and Tahoua; unknown how many of the 11,000 people displaced by clashes between government forces and the Tuareg militant group, Niger Movement for Justice, in 2007 are still displaced; inter-communal violence; Boko Haram attacks in southern Niger, 2015) (2022)<br>
 
 **Illicit drugs**<br>

@@ -80,7 +80,7 @@ strategic location along approaches to Strait of Gibraltar; Spain controls a num
 ## People and Society
 
 **Population**<br>
-47,163,418 (2022 est.)<br>
+47,222,613 (2023 est.)<br>
 
 **Nationality**<br>
 _noun_: Spaniard(s)<br>
@@ -98,11 +98,9 @@ _major-language sample(s)_: <br>La Libreta Informativa del Mundo, la fuente indi
 Roman Catholic 58.2%, atheist 16.2%, agnostic 10.8%, other 2.7%, non-believer 10.5%, unspecified 1.7% (2021 est.)<br>
 
 **Age structure**<br>
-_0-14 years_: 15.02% (male 3,861,522/female 3,650,085)<br>
-_15-24 years_: 9.9% (male 2,557,504/female 2,392,498)<br>
-_25-54 years_: 43.61% (male 11,134,006/female 10,675,873)<br>
-_55-64 years_: 12.99% (male 3,177,080/female 3,319,823)<br>
-_65 years and over_: 18.49% (male 3,970,417/female 5,276,984) (2020 est.)<br>
+_0-14 years_: 13.37% (male 3,226,491/female 3,087,271)<br>
+_15-64 years_: 66.13% (male 15,649,418/female 15,577,164)<br>
+_65 years and over_: 20.5% (2023 est.) (male 4,169,949/female 5,512,320)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 52.4<br>
@@ -116,16 +114,16 @@ _male_: 42.7 years<br>
 _female_: 45.1 years (2020 est.)<br>
 
 **Population growth rate**<br>
-0.13% (2022 est.)<br>
+0.12% (2023 est.)<br>
 
 **Birth rate**<br>
-7.13 births/1,000 population (2022 est.)<br>
+7.12 births/1,000 population (2023 est.)<br>
 
 **Death rate**<br>
-10.22 deaths/1,000 population (2022 est.)<br>
+10.11 deaths/1,000 population (2023 est.)<br>
 
 **Net migration rate**<br>
-4.35 migrant(s)/1,000 population (2022 est.)<br>
+4.23 migrant(s)/1,000 population (2023 est.)<br>
 
 **Population distribution**<br>
 with the notable exception of Madrid, Sevilla, and Zaragoza, the largest urban agglomerations are found along the Mediterranean and Atlantic coasts; numerous smaller cities are spread throughout the interior reflecting Spain's agrarian heritage; very dense settlement around the capital of Madrid, as well as the port city of Barcelona<br>
@@ -141,11 +139,9 @@ _rate of urbanization_: 0.24% annual rate of change (2020-25 est.)<br>
 **Sex ratio**<br>
 _at birth_: 1.05 male(s)/female<br>
 _0-14 years_: 1.05 male(s)/female<br>
-_15-24 years_: 1.04 male(s)/female<br>
-_25-54 years_: 1.01 male(s)/female<br>
-_55-64 years_: 0.95 male(s)/female<br>
-_65 years and over_: 0.66 male(s)/female<br>
-_total population_: 0.95 male(s)/female (2022 est.)<br>
+_15-64 years_: 1 male(s)/female<br>
+_65 years and over_: 0.76 male(s)/female<br>
+_total population_: 0.95 male(s)/female (2023 est.)<br>
 
 **Mother's mean age at first birth**<br>
 31.2 years (2020 est.)<br>
@@ -154,17 +150,17 @@ _total population_: 0.95 male(s)/female (2022 est.)<br>
 4 deaths/100,000 live births (2017 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 2.47 deaths/1,000 live births<br>
-_male_: 2.73 deaths/1,000 live births<br>
-_female_: 2.19 deaths/1,000 live births (2022 est.)<br>
+_total_: 2.43 deaths/1,000 live births<br>
+_male_: 2.7 deaths/1,000 live births<br>
+_female_: 2.15 deaths/1,000 live births (2023 est.)<br>
 
 **Life expectancy at birth**<br>
-_total population_: 82.55 years<br>
-_male_: 79.84 years<br>
-_female_: 85.4 years (2022 est.)<br>
+_total population_: 82.78 years<br>
+_male_: 80.08 years<br>
+_female_: 85.61 years (2023 est.)<br>
 
 **Total fertility rate**<br>
-1.27 children born/woman (2022 est.)<br>
+1.29 children born/woman (2023 est.)<br>
 
 **Gross reproduction rate**<br>
 0.63 (2023 est.)<br>
@@ -742,9 +738,9 @@ Islamic State of Iraq and ash-Sham (ISIS); al-Qa’ida<br>
 <p><em>Spain-Andorra</em>: none identified</p> <p><em>Spain-France</em>: none identified</p> <p><em>Spain-Gibraltar (UK)</em>: in 2002, Gibraltar residents voted overwhelmingly by referendum to reject any "shared sovereignty" arrangement; the Government of Gibraltar insists on equal participation in talks between the UK and Spain; Spain does not recognize British sovereignty beyond the original fortified perimeter of the city and disapproves of UK plans to grant Gibraltar greater autonomy; after voters in the UK chose to leave the EU in a June 2016 referendum, Spain again proposed shared sovereignty of Gibraltar; UK officials rejected Spain’s joint sovereignty proposal</p> <p><em>Spain-Morocco</em>: Morocco protests Spain's control over the coastal enclaves of Ceuta, Melilla, and the islands of Penon de Velez de la Gomera, Penon de Alhucemas, and Islas Chafarinas, and surrounding waters; both countries claim Isla Perejil (Leila Island), which remains unoccupied but was the site of a  military standoff in 2002; Morocco serves as the primary embarkation area for illegal migration into mainland Spain from North Africa</p> <p><em>Spain-Portugal</em>: Portugal does not recognize Spanish sovereignty over the territory of Olivenza based on a difference of interpretation of the 1815 Congress of Vienna and the 1801 Treaty of Badajoz</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 14,994 (Syria) (mid-year 2022); 418,200 (Venezuela) (economic and political crisis; includes Venezuelans who have claimed asylum, are recognized as refugees, or have received alternative legal stay) (2021); 166,832 (Ukraine) (as of 13 February 2023)<br>
+_refugees (country of origin)_: 14,994 (Syria) (mid-year 2022); 418,200 (Venezuela) (economic and political crisis; includes Venezuelans who have claimed asylum, are recognized as refugees, or have received alternative legal stay) (2021); 168,654 (Ukraine) (as of 26 February 2023)<br>
 _stateless persons_: 6,489 (2022)<br>
-<strong>note: </strong>281,609 estimated refugee and migrant arrivals, including Canary Islands (January 2015-February 2023)<br>
+<strong>note: </strong>281,682 estimated refugee and migrant arrivals, including Canary Islands (January 2015-February 2023)<br>
 
 **Illicit drugs**<br>
 primary transit point in Europe for cocaine from South America and for hashish from Morocco; cocaine is shipped in raw or liquid form with mixed cargo to avoid detection; traffickers ship methamphetamine via express mail; increasing indoor cannabis production; illegal labs cutting, mixing, and reconstituting cocaine, heroin, and methamphetamine labs; synthetic drugs, including ketamine and MDMA (ecstasy) transit from Spain to the US<br>

@@ -78,7 +78,7 @@ largest country in Central America; contains the largest freshwater body in Cent
 ## People and Society
 
 **Population**<br>
-6,301,880 (2022 est.)<br>
+6,359,689 (2023 est.)<br>
 
 **Nationality**<br>
 _noun_: Nicaraguan(s)<br>
@@ -98,11 +98,9 @@ Roman Catholic 50%, Evangelical 33.2%, other 2.9%, none 0.7%, unspecified 13.2% 
 <p>Despite being one of the poorest countries in Latin America, Nicaragua has improved its access to potable water and sanitation and has ameliorated its life expectancy, infant and child mortality, and immunization rates. However, income distribution is very uneven, and the poor, agriculturalists, and indigenous people continue to have less access to healthcare services. Nicaragua's total fertility rate has fallen from around 6 children per woman in 1980 to below replacement level today, but the high birth rate among adolescents perpetuates a cycle of poverty and low educational attainment.</p><p>Nicaraguans emigrate primarily to Costa Rica and to a lesser extent the United States. Nicaraguan men have been migrating seasonally to Costa Rica to harvest bananas and coffee since the early 20th century. Political turmoil, civil war, and natural disasters from the 1970s through the 1990s dramatically increased the flow of refugees and permanent migrants seeking jobs, higher wages, and better social and healthcare benefits. Since 2000, Nicaraguan emigration to Costa Rica has slowed and stabilized. Today roughly 300,000 Nicaraguans are permanent residents of Costa Rica - about 75% of the foreign population - and thousands more migrate seasonally for work, many illegally.</p><br>
 
 **Age structure**<br>
-_0-14 years_: 25.63% (male 811,731/female 777,984)<br>
-_15-24 years_: 19.51% (male 609,962/female 600,567)<br>
-_25-54 years_: 42.41% (male 1,254,683/female 1,376,052)<br>
-_55-64 years_: 6.63% (male 188,591/female 222,766)<br>
-_65 years and over_: 5.82% (male 159,140/female 201,965) (2020 est.)<br>
+_0-14 years_: 24.16% (male 784,847/female 751,616)<br>
+_15-64 years_: 69.36% (male 2,134,871/female 2,276,522)<br>
+_65 years and over_: 6.48% (2023 est.) (male 180,441/female 231,392)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 54.4<br>
@@ -116,16 +114,16 @@ _male_: 26.4 years<br>
 _female_: 28.2 years (2020 est.)<br>
 
 **Population growth rate**<br>
-0.92% (2022 est.)<br>
+0.91% (2023 est.)<br>
 
 **Birth rate**<br>
-16.52 births/1,000 population (2022 est.)<br>
+16.3 births/1,000 population (2023 est.)<br>
 
 **Death rate**<br>
-5.17 deaths/1,000 population (2022 est.)<br>
+5.19 deaths/1,000 population (2023 est.)<br>
 
 **Net migration rate**<br>
--2.15 migrant(s)/1,000 population (2022 est.)<br>
+-2.04 migrant(s)/1,000 population (2023 est.)<br>
 
 **Population distribution**<br>
 the overwhelming majority of the population resides in the western half of the country, with much of the urban growth centered in the capital city of Managua; coastal areas also show large population clusters<br>
@@ -140,11 +138,9 @@ _rate of urbanization_: 1.45% annual rate of change (2020-25 est.)<br>
 **Sex ratio**<br>
 _at birth_: 1.05 male(s)/female<br>
 _0-14 years_: 1.04 male(s)/female<br>
-_15-24 years_: 1.02 male(s)/female<br>
-_25-54 years_: 0.91 male(s)/female<br>
-_55-64 years_: 0.84 male(s)/female<br>
-_65 years and over_: 0.65 male(s)/female<br>
-_total population_: 0.95 male(s)/female (2022 est.)<br>
+_15-64 years_: 0.94 male(s)/female<br>
+_65 years and over_: 0.78 male(s)/female<br>
+_total population_: 0.95 male(s)/female (2023 est.)<br>
 
 **Mother's mean age at first birth**<br>
 19.2 years (2011/12 est.)<br>
@@ -154,17 +150,17 @@ _total population_: 0.95 male(s)/female (2022 est.)<br>
 198 deaths/100,000 live births (2017 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 19.09 deaths/1,000 live births<br>
-_male_: 22.26 deaths/1,000 live births<br>
-_female_: 15.77 deaths/1,000 live births (2022 est.)<br>
+_total_: 18.63 deaths/1,000 live births<br>
+_male_: 21.7 deaths/1,000 live births<br>
+_female_: 15.4 deaths/1,000 live births (2023 est.)<br>
 
 **Life expectancy at birth**<br>
-_total population_: 74.78 years<br>
-_male_: 72.56 years<br>
-_female_: 77.11 years (2022 est.)<br>
+_total population_: 75.05 years<br>
+_male_: 72.84 years<br>
+_female_: 77.36 years (2023 est.)<br>
 
 **Total fertility rate**<br>
-1.8 children born/woman (2022 est.)<br>
+1.78 children born/woman (2023 est.)<br>
 
 **Gross reproduction rate**<br>
 0.87 (2023 est.)<br>

@@ -85,7 +85,7 @@ the Kenyan Highlands comprise one of the most successful agricultural production
 ## People and Society
 
 **Population**<br>
-55,864,655 (2022 est.)<br>
+57,052,004 (2023 est.)<br>
 
 **Nationality**<br>
 _noun_: Kenyan(s)<br>
@@ -105,11 +105,9 @@ Christian 85.5% (Protestant 33.4%, Catholic 20.6%, Evangelical 20.4%, African In
 <p>Kenya has experienced dramatic population growth since the mid-20th century as a result of its high birth rate and its declining mortality rate. Almost 40% of Kenyans are under the age of 15 as of 2020 because of sustained high fertility, early marriage and childbearing, and an unmet need for family planning. Kenya’s persistent rapid population growth strains the labor market, social services, arable land, and natural resources. Although Kenya in 1967 was the first Sub-Saharan country to launch a nationwide family planning program, progress in reducing the birth rate has largely stalled since the late 1990s, when the government decreased its support for family planning to focus on the HIV epidemic. Government commitment and international technical support spurred Kenyan contraceptive use, decreasing the fertility rate (children per woman) from about 8 in the late 1970s to less than 5 children twenty years later, but it has plateaued at about 3 children as of 2022.</p> <p>Kenya is a source of emigrants and a host country for refugees. In the 1960s and 1970s, Kenyans pursued higher education in the UK because of colonial ties, but as British immigration rules tightened, the US, the then Soviet Union, and Canada became attractive study destinations. Kenya’s stagnant economy and political problems during the 1980s and 1990s led to an outpouring of Kenyan students and professionals seeking permanent opportunities in the West and southern Africa. Nevertheless, Kenya’s relative stability since its independence in 1963 has attracted hundreds of thousands of refugees escaping violent conflicts in neighboring countries; Kenya was sheltering nearly 280,000 Somali refugees as of 2022.</p><br>
 
 **Age structure**<br>
-_0-14 years_: 38.71% (male 10,412,321/female 10,310,908)<br>
-_15-24 years_: 20.45% (male 5,486,641/female 5,460,372)<br>
-_25-54 years_: 33.75% (male 9,046,946/female 9,021,207)<br>
-_55-64 years_: 4.01% (male 1,053,202/female 1,093,305)<br>
-_65 years and over_: 3.07% (male 750,988/female 892,046) (2020 est.)<br>
+_0-14 years_: 36.45% (male 10,447,425/female 10,349,611)<br>
+_15-64 years_: 60.26% (male 17,196,347/female 17,185,035)<br>
+_65 years and over_: 3.28% (2023 est.) (male 855,757/female 1,017,829)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 70.2<br>
@@ -123,16 +121,16 @@ _male_: 19.9 years<br>
 _female_: 20.1 years (2020 est.)<br>
 
 **Population growth rate**<br>
-2.12% (2022 est.)<br>
+2.09% (2023 est.)<br>
 
 **Birth rate**<br>
-26.39 births/1,000 population (2022 est.)<br>
+26.01 births/1,000 population (2023 est.)<br>
 
 **Death rate**<br>
-5.01 deaths/1,000 population (2022 est.)<br>
+4.95 deaths/1,000 population (2023 est.)<br>
 
 **Net migration rate**<br>
--0.19 migrant(s)/1,000 population (2022 est.)<br>
+-0.19 migrant(s)/1,000 population (2023 est.)<br>
 
 **Population distribution**<br>
 population heavily concentrated in the west along the shore of Lake Victoria; other areas of high density include the capital of Nairobi, and in the southeast along the Indian Ocean coast as shown in this population distribution map<br>
@@ -147,11 +145,9 @@ _rate of urbanization_: 4.09% annual rate of change (2020-25 est.)<br>
 **Sex ratio**<br>
 _at birth_: 1.02 male(s)/female<br>
 _0-14 years_: 1.01 male(s)/female<br>
-_15-24 years_: 1.01 male(s)/female<br>
-_25-54 years_: 1.01 male(s)/female<br>
-_55-64 years_: 0.98 male(s)/female<br>
-_65 years and over_: 0.75 male(s)/female<br>
-_total population_: 1 male(s)/female (2022 est.)<br>
+_15-64 years_: 1 male(s)/female<br>
+_65 years and over_: 0.84 male(s)/female<br>
+_total population_: 1 male(s)/female (2023 est.)<br>
 
 **Mother's mean age at first birth**<br>
 20.3 years (2014 est.)<br>
@@ -161,17 +157,17 @@ _total population_: 1 male(s)/female (2022 est.)<br>
 342 deaths/100,000 live births (2017 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 27.86 deaths/1,000 live births<br>
-_male_: 30.92 deaths/1,000 live births<br>
-_female_: 24.74 deaths/1,000 live births (2022 est.)<br>
+_total_: 26.94 deaths/1,000 live births<br>
+_male_: 29.94 deaths/1,000 live births<br>
+_female_: 23.88 deaths/1,000 live births (2023 est.)<br>
 
 **Life expectancy at birth**<br>
-_total population_: 69.69 years<br>
-_male_: 67.98 years<br>
-_female_: 71.43 years (2022 est.)<br>
+_total population_: 70.04 years<br>
+_male_: 68.31 years<br>
+_female_: 71.82 years (2023 est.)<br>
 
 **Total fertility rate**<br>
-3.29 children born/woman (2022 est.)<br>
+3.23 children born/woman (2023 est.)<br>
 
 **Gross reproduction rate**<br>
 1.6 (2023 est.)<br>
@@ -734,7 +730,7 @@ no conscription; 18-26 years of age for male and female voluntary service (under
 <strong>note:</strong> in November 2022, Kenya sent approximately 900 troops to the eastern part of the Democratic Republic of the Congo (DRC) as part of a newly formed East Africa Community Regional Force (EACRF) to assist the DRC military against the rebel group M23; the force is led by Kenya<br>
 
 **Military - note**<br>
-Kenyan military forces intervened in Somalia in October 2011 to combat the al Qaida-affiliated al-Shabaab terrorist group, which had conducted numerous cross-border attacks into Kenya; in November 2011, the UN and the African Union invited Kenya to incorporate its forces into the African Union Mission in Somalia (AMISOM); Kenyan forces were formally integrated into AMISOM in February 2012; as of 2022, they consisted of approximately 3,600 troops and were responsible for AMISOM’s Sector 2 comprising Lower and Middle Jubba (see Appendix T for additional details on al-Shabaab; note - as of May 2022, AMISOM was renamed the AU Transition Mission in Somalia or ATMIS)<br><br>the Kenya Military Forces were created following independence in 1963; the current Kenya Defense Forces (KDF) were established, and its composition laid out, in the 2010 constitution; the KDF is governed by the Kenya Defense Forces Act of 2012; the Kenya Army traces its origins back to the Kings African Rifles (KAR); the KAR was a British colonial regiment raised from Britain's various possessions in East Africa from 1902 until independence in the 1960s; it conducted both military and internal security functions within the colonial territories, and served outside the territories during the World Wars (2022)<br>
+the KDF is considered to be an experienced, effective, and professional force; it has conducted operations in neighboring Somalia since 2011 and taken part in numerous regional peacekeeping and security missions; it is a leading member of the Africa Standby Force; the KDF trains regularly, participates in multinational exercises, and has ties to a variety of foreign militaries, including those of France, the UK, and the US; its chief security concerns and missions include protecting the country’s sovereignty and territory, regional disputes, the threat posed by the al-Shabaab terrorist group based in neighboring Somalia, maritime crime and piracy, and assisting civil authorities in responding to emergency, disaster, or political unrest as requested <br><br>the Army has 5 combat brigades, including 3 infantry, an armored, and an artillery brigade; it also has a helicopter-equipped air cavalry battalion and a special operations regiment comprised of airborne, special forces, and ranger battalions; the Navy has several offshore patrol vessels, large coastal patrol boats, and missile-armed craft; the Air Force has a small inventory of older US-origin fighter aircraft and a considerable number of combat and transport helicopters<br><br>Kenyan military forces intervened in Somalia in October 2011 to combat the al Qaida-affiliated al-Shabaab terrorist group, which had conducted numerous cross-border attacks into Kenya; in November 2011, the UN and the African Union invited Kenya to incorporate its forces into the African Union Mission in Somalia (AMISOM); Kenyan forces were formally integrated into AMISOM in February 2012; they consist of approximately 3,600 troops and are responsible for AMISOM’s Sector 2 comprising Lower and Middle Jubba (see Appendix T for additional details on al-Shabaab; note - as of May 2022, AMISOM was renamed the AU Transition Mission in Somalia or ATMIS)<br><br>the Kenya Military Forces were created following independence in 1963; the current KDF was established and its composition laid out in the 2010 constitution; it is governed by the Kenya Defense Forces Act of 2012; the Army traces its origins back to the Kings African Rifles (KAR), a British colonial regiment raised from Britain's East Africa possessions from 1902 until independence in the 1960s; the KAR conducted both military and internal security functions within the colonial territories, and served outside the territories during the World Wars (2023)<br>
 
 **Maritime threats**<br>
 the International Maritime Bureau reports that shipping in territorial and offshore waters in the Indian Ocean remain at risk for piracy and armed robbery against ships<br>
@@ -751,7 +747,7 @@ al-Shabaab; Islamic Revolutionary Guard Corps (IRGC)/Qods Force<br>
 <p><em>Kenya-Ethiopia</em>: their border was demarcated in the 1950s and approved in 1970; in 2012, Kenya and Ethiopia agreed to redemarcate their boundary following disputes over beacons and cross-border crime</p> <p><em>Kenya-Somalia</em>: Kenya works hard to prevent the clan and militia fighting in Somalia from spreading across the border, which has long been open to nomadic pastoralists; in 2021, the International Court of Justice (ICJ) gave Somalia control over a disputed ocean area where the seabeds are believed to hold vasts oil and gas deposits; the ICJ ruling gave Somalia the rights to several offshore oil exploration blocks previously claimed by Kenya; Kenya did not recognize the court’s decision</p> <p><em>Kenya-South Sudan</em>: two thirds of the boundary that separates Kenya and South Sudan's sovereignty known as the Ilemi Triangle has been unclear since British colonial times; Kenya has administered the area since colonial times; officials from Kenya and South Sudan signed a memorandum of understanding on boundary delimitation and demarcation and agreed to set up a joint committee; as of July 2019, the demarcation process was to begin in 90 days, but was delayed due to a lack of funding</p> <p><em>Kenya-Sudan</em>: Kenya served as an important mediator in brokering Sudan's north-south separation in February 2005</p> <p><em>Kenya-Tanzania</em>: Kenya and Tanzania were conducting a joint reaffirmation process in November 2021 to ensure the border was visibly marked with pillars</p> <p><em>Kenya-Uganda:</em> Kenya and Uganda began a joint demarcation of the boundary in 2021 </p> <p> </p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 279,925 (Somalia), 153,289 (South Sudan), 53,980 (Democratic Republic of the Congo), 21,457 (Ethiopia), 8,087 (Burundi), 5,289 (Sudan) (2022)<br>
+_refugees (country of origin)_: 279,925 (Somalia), 153,289 (South Sudan), 53,980 (Democratic Republic of the Congo), 21,620 (Ethiopia), 8,159 (Burundi), 5,540 (Sudan) (2022)<br>
 _IDPs_: 190,000 (election-related violence, intercommunal violence, resource conflicts, al-Shabaab attacks in 2017 and 2018) (2021)<br>
 _stateless persons_: 16,779 (2022); note - the stateless population consists of Nubians, Kenyan Somalis, and coastal Arabs; the Nubians are descendants of Sudanese soldiers recruited by the British to fight for them in East Africa more than a century ago; Nubians did not receive Kenyan citizenship when the country became independent in 1963; only recently have Nubians become a formally recognized tribe and had less trouble obtaining national IDs; Galjeel and other Somalis who have lived in Kenya for decades are included with more recent Somali refugees and denied ID cards<br>
 

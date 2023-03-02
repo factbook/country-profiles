@@ -78,7 +78,7 @@ sandbanks create difficult access to a coast with no natural harbors, river mout
 ## People and Society
 
 **Population**<br>
-13,754,688 (2022 est.)<br>
+14,219,908 (2023 est.)<br>
 
 **Nationality**<br>
 _noun_: Beninese (singular and plural)<br>
@@ -97,11 +97,9 @@ Muslim 27.7%, Roman Catholic 25.5%, Protestant 13.5% (Celestial 6.7%, Methodist 
 <p>Benin has a youthful age structure – almost 65% of the population is under the age of 25 as of 2022 – which is bolstered by high fertility and population growth rates. Benin’s total fertility has been falling over time but remains high, declining from almost 7 children per women in 1990 to 5.4 in 2022. Benin’s low contraceptive use and high unmet need for contraception contribute to the sustained high fertility rate. Although the majority of Beninese women use skilled health care personnel for antenatal care and delivery, the high rate of maternal mortality indicates the need for more access to high quality obstetric care.</p> <p>Poverty, unemployment, increased living costs, and dwindling resources increasingly drive the Beninese to migrate. An estimated 4.4 million, more than 30%, of Beninese live abroad. Virtually all Beninese emigrants move to West African countries, particularly Nigeria and Cote d’Ivoire. Of the less than 1% of Beninese emigrants who settle in Europe, the vast majority live in France, Benin’s former colonial ruler.</p> <p>With about 40% of the population living below the poverty line as of 2019, many desperate parents resort to sending their children to work in wealthy households as domestic servants (a common practice known as vidomegon), mines, quarries, or agriculture domestically or in Nigeria and other neighboring countries, often under brutal conditions. Unlike in other West African countries, where rural people move to the coast, farmers from Benin’s densely populated southern and northwestern regions move to the historically sparsely populated central region to pursue agriculture. Immigrants from West African countries came to Benin in increasing numbers between 1992 and 2002 because of its political stability and porous borders.</p><br>
 
 **Age structure**<br>
-_0-14 years_: 45.56% (male 2,955,396/female 2,906,079)<br>
-_15-24 years_: 20.36% (male 1,300,453/female 1,318,880)<br>
-_25-54 years_: 28.54% (male 1,735,229/female 1,935,839)<br>
-_55-64 years_: 3.15% (male 193,548/female 211,427)<br>
-_65 years and over_: 2.39% (male 140,513/female 167,270) (2020 est.)<br>
+_0-14 years_: 45.37% (male 3,256,439/female 3,194,700)<br>
+_15-64 years_: 52.18% (male 3,595,897/female 3,823,786)<br>
+_65 years and over_: 2.45% (2023 est.) (male 159,363/female 189,723)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 84<br>
@@ -115,16 +113,16 @@ _male_: 16.4 years<br>
 _female_: 17.6 years (2020 est.)<br>
 
 **Population growth rate**<br>
-3.34% (2022 est.)<br>
+3.31% (2023 est.)<br>
 
 **Birth rate**<br>
-41.15 births/1,000 population (2022 est.)<br>
+40.72 births/1,000 population (2023 est.)<br>
 
 **Death rate**<br>
-8.01 deaths/1,000 population (2022 est.)<br>
+7.82 deaths/1,000 population (2023 est.)<br>
 
 **Net migration rate**<br>
-0.24 migrant(s)/1,000 population (2022 est.)<br>
+0.24 migrant(s)/1,000 population (2023 est.)<br>
 
 **Population distribution**<br>
 the population is primarily located in the south, with the highest concentration of people residing in and around the cities on the Atlantic coast; most of the north remains sparsely populated with higher concentrations of residents in the west as shown in this population distribution map<br>
@@ -139,11 +137,9 @@ _rate of urbanization_: 3.74% annual rate of change (2020-25 est.)<br>
 **Sex ratio**<br>
 _at birth_: 1.05 male(s)/female<br>
 _0-14 years_: 1.02 male(s)/female<br>
-_15-24 years_: 1 male(s)/female<br>
-_25-54 years_: 0.9 male(s)/female<br>
-_55-64 years_: 0.91 male(s)/female<br>
-_65 years and over_: 0.72 male(s)/female<br>
-_total population_: 0.97 male(s)/female (2022 est.)<br>
+_15-64 years_: 0.94 male(s)/female<br>
+_65 years and over_: 0.84 male(s)/female<br>
+_total population_: 0.97 male(s)/female (2023 est.)<br>
 
 **Mother's mean age at first birth**<br>
 20.5 years (2017/18 est.)<br>
@@ -153,17 +149,17 @@ _total population_: 0.97 male(s)/female (2022 est.)<br>
 397 deaths/100,000 live births (2017 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 55.76 deaths/1,000 live births<br>
-_male_: 60.79 deaths/1,000 live births<br>
-_female_: 50.48 deaths/1,000 live births (2022 est.)<br>
+_total_: 54.33 deaths/1,000 live births<br>
+_male_: 59.28 deaths/1,000 live births<br>
+_female_: 49.14 deaths/1,000 live births (2023 est.)<br>
 
 **Life expectancy at birth**<br>
-_total population_: 62.21 years<br>
-_male_: 60.39 years<br>
-_female_: 64.14 years (2022 est.)<br>
+_total population_: 62.6 years<br>
+_male_: 60.75 years<br>
+_female_: 64.55 years (2023 est.)<br>
 
 **Total fertility rate**<br>
-5.43 children born/woman (2022 est.)<br>
+5.39 children born/woman (2023 est.)<br>
 
 **Gross reproduction rate**<br>
 2.63 (2023 est.)<br>

@@ -79,7 +79,7 @@ population concentrated in the highlands and eastern coastal areas on the island
 ## People and Society
 
 **Population**<br>
-9,593,498 (2022 est.)<br>
+9,819,350 (2023 est.)<br>
 
 **Nationality**<br>
 _noun_: Papua New Guinean(s)<br>
@@ -97,11 +97,9 @@ Protestant 64.3% (Evangelical Lutheran 18.4%, Seventh Day Adventist 12.9%, Pente
 <strong>note:</strong> data represent only the citizen population; roughly 0.3% of the population are non-citizens, consisting of Christian 52% (predominantly Roman Catholic), other 10.7% , none 37.3%<br>
 
 **Age structure**<br>
-_0-14 years_: 31.98% (male 1,182,539/female 1,139,358)<br>
-_15-24 years_: 19.87% (male 731,453/female 711,164)<br>
-_25-54 years_: 37.68% (male 1,397,903/female 1,337,143)<br>
-_55-64 years_: 5.83% (male 218,529/female 204,717)<br>
-_65 years and over_: 4.64% (male 164,734/female 171,916) (2020 est.)<br>
+_0-14 years_: 37.34% (male 1,871,227/female 1,795,700)<br>
+_15-64 years_: 58.75% (male 2,917,668/female 2,851,691)<br>
+_65 years and over_: 3.9% (2023 est.) (male 189,851/female 193,213)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 60.5<br>
@@ -115,16 +113,16 @@ _male_: 24 years<br>
 _female_: 24 years (2020 est.)<br>
 
 **Population growth rate**<br>
-2.35% (2022 est.)<br>
+2.31% (2023 est.)<br>
 
 **Birth rate**<br>
-29.03 births/1,000 population (2022 est.)<br>
+28.54 births/1,000 population (2023 est.)<br>
 
 **Death rate**<br>
-5.54 deaths/1,000 population (2022 est.)<br>
+5.48 deaths/1,000 population (2023 est.)<br>
 
 **Net migration rate**<br>
-0 migrant(s)/1,000 population (2022 est.)<br>
+0 migrant(s)/1,000 population (2023 est.)<br>
 
 **Population distribution**<br>
 population concentrated in the highlands and eastern coastal areas on the island of New Guinea; predominantly a rural distribution with only about one-fifth of the population residing in urban areas<br>
@@ -139,11 +137,9 @@ _rate of urbanization_: 2.91% annual rate of change (2020-25 est.)<br>
 **Sex ratio**<br>
 _at birth_: 1.05 male(s)/female<br>
 _0-14 years_: 1.04 male(s)/female<br>
-_15-24 years_: 1.04 male(s)/female<br>
-_25-54 years_: 1.02 male(s)/female<br>
-_55-64 years_: 0.98 male(s)/female<br>
-_65 years and over_: 1 male(s)/female<br>
-_total population_: 1.03 male(s)/female (2022 est.)<br>
+_15-64 years_: 1.02 male(s)/female<br>
+_65 years and over_: 0.98 male(s)/female<br>
+_total population_: 1.03 male(s)/female (2023 est.)<br>
 
 **Mother's mean age at first birth**<br>
 21.9 years (2016/18)<br>
@@ -153,17 +149,17 @@ _total population_: 1.03 male(s)/female (2022 est.)<br>
 145 deaths/100,000 live births (2017 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 33.59 deaths/1,000 live births<br>
-_male_: 36.91 deaths/1,000 live births<br>
-_female_: 30.12 deaths/1,000 live births (2022 est.)<br>
+_total_: 32.81 deaths/1,000 live births<br>
+_male_: 36.11 deaths/1,000 live births<br>
+_female_: 29.34 deaths/1,000 live births (2023 est.)<br>
 
 **Life expectancy at birth**<br>
-_total population_: 69.43 years<br>
-_male_: 67.76 years<br>
-_female_: 71.19 years (2022 est.)<br>
+_total population_: 69.74 years<br>
+_male_: 68.04 years<br>
+_female_: 71.52 years (2023 est.)<br>
 
 **Total fertility rate**<br>
-3.92 children born/woman (2022 est.)<br>
+3.85 children born/woman (2023 est.)<br>
 
 **Gross reproduction rate**<br>
 1.88 (2023 est.)<br>

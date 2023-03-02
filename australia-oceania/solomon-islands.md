@@ -74,7 +74,7 @@ strategic location on sea routes between the South Pacific Ocean, the Solomon Se
 ## People and Society
 
 **Population**<br>
-702,694 (2022 est.)<br>
+714,766 (2023 est.)<br>
 
 **Nationality**<br>
 _noun_: Solomon Islander(s)<br>
@@ -90,11 +90,9 @@ Melanesian pidgin (in much of the country is lingua franca), English (official b
 Protestant 73.4% (Church of Melanesia 31.9%, South Sea Evangelical 17.1%, Seventh Day Adventist 11.7%, United Church 10.1%, Christian Fellowship Church 2.5%), Roman Catholic 19.6%, other Christian 2.9%, other 4%, unspecified 0.1% (2009 est.)<br>
 
 **Age structure**<br>
-_0-14 years_: 32.99% (male 116,397/female 109,604)<br>
-_15-24 years_: 19.82% (male 69,914/female 65,874)<br>
-_25-54 years_: 37.64% (male 131,201/female 126,681)<br>
-_55-64 years_: 5.04% (male 17,844/female 16,704)<br>
-_65 years and over_: 4.51% (male 14,461/female 16,417) (2020 est.)<br>
+_0-14 years_: 31.06% (male 114,104/female 107,900)<br>
+_15-64 years_: 63.82% (male 233,501/female 222,640)<br>
+_65 years and over_: 5.12% (2023 est.) (male 17,238/female 19,383)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 74.8<br>
@@ -108,16 +106,16 @@ _male_: 23.2 years<br>
 _female_: 23.7 years (2020 est.)<br>
 
 **Population growth rate**<br>
-1.72% (2022 est.)<br>
+1.69% (2023 est.)<br>
 
 **Birth rate**<br>
-22.71 births/1,000 population (2022 est.)<br>
+22.34 births/1,000 population (2023 est.)<br>
 
 **Death rate**<br>
-3.96 deaths/1,000 population (2022 est.)<br>
+3.95 deaths/1,000 population (2023 est.)<br>
 
 **Net migration rate**<br>
--1.55 migrant(s)/1,000 population (2022 est.)<br>
+-1.52 migrant(s)/1,000 population (2023 est.)<br>
 
 **Population distribution**<br>
 most of the population lives along the coastal regions; about one in five live in urban areas, and of these some two-thirds reside in Honiara, the largest town and chief port<br>
@@ -132,11 +130,9 @@ _rate of urbanization_: 3.57% annual rate of change (2020-25 est.)<br>
 **Sex ratio**<br>
 _at birth_: 1.05 male(s)/female<br>
 _0-14 years_: 1.06 male(s)/female<br>
-_15-24 years_: 1.06 male(s)/female<br>
-_25-54 years_: 1.04 male(s)/female<br>
-_55-64 years_: 1.08 male(s)/female<br>
-_65 years and over_: 0.74 male(s)/female<br>
-_total population_: 1.04 male(s)/female (2022 est.)<br>
+_15-64 years_: 1.05 male(s)/female<br>
+_65 years and over_: 0.89 male(s)/female<br>
+_total population_: 1.04 male(s)/female (2023 est.)<br>
 
 **Mother's mean age at first birth**<br>
 22.6 years (2015 est.)<br>
@@ -146,17 +142,17 @@ _total population_: 1.04 male(s)/female (2022 est.)<br>
 104 deaths/100,000 live births (2017 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 20.02 deaths/1,000 live births<br>
-_male_: 23.89 deaths/1,000 live births<br>
-_female_: 15.96 deaths/1,000 live births (2022 est.)<br>
+_total_: 19.53 deaths/1,000 live births<br>
+_male_: 23.3 deaths/1,000 live births<br>
+_female_: 15.58 deaths/1,000 live births (2023 est.)<br>
 
 **Life expectancy at birth**<br>
-_total population_: 76.7 years<br>
-_male_: 74.05 years<br>
-_female_: 79.49 years (2022 est.)<br>
+_total population_: 76.96 years<br>
+_male_: 74.32 years<br>
+_female_: 79.73 years (2023 est.)<br>
 
 **Total fertility rate**<br>
-2.87 children born/woman (2022 est.)<br>
+2.82 children born/woman (2023 est.)<br>
 
 **Gross reproduction rate**<br>
 1.38 (2023 est.)<br>

@@ -79,7 +79,7 @@ landlocked; most of the country is rugged and mountainous; the Tatra Mountains i
 ## People and Society
 
 **Population**<br>
-5,431,252 (2022 est.)<br>
+5,425,319 (2023 est.)<br>
 
 **Nationality**<br>
 _noun_: Slovak(s)<br>
@@ -97,11 +97,9 @@ _major-language sample(s)_: <br>Svetova Kniha Faktov, nenahraditelny zdroj zakla
 Roman Catholic 55.8%, Evangelical Church of the Augsburg Confession 5.3%, Greek Catholic 4%, Reformed Christian 1.6%, other 3%, none 23.8%, unspecified 6.5% (2021 est.)<br>
 
 **Age structure**<br>
-_0-14 years_: 15.13% (male 423,180/female 400,128)<br>
-_15-24 years_: 10.06% (male 280,284/female 266,838)<br>
-_25-54 years_: 44.61% (male 1,228,462/female 1,198,747)<br>
-_55-64 years_: 13.15% (male 342,124/female 373,452)<br>
-_65 years and over_: 17.05% (male 366,267/female 561,120) (2020 est.)<br>
+_0-14 years_: 14.87% (male 415,224/female 391,397)<br>
+_15-64 years_: 66.49% (male 1,811,919/female 1,795,499)<br>
+_65 years and over_: 18.64% (2023 est.) (male 404,979/female 606,301)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 49.5<br>
@@ -115,16 +113,16 @@ _male_: 40.1 years<br>
 _female_: 43.6 years (2020 est.)<br>
 
 **Population growth rate**<br>
--0.1% (2022 est.)<br>
+-0.12% (2023 est.)<br>
 
 **Birth rate**<br>
-8.94 births/1,000 population (2022 est.)<br>
+8.78 births/1,000 population (2023 est.)<br>
 
 **Death rate**<br>
-10.13 deaths/1,000 population (2022 est.)<br>
+10.18 deaths/1,000 population (2023 est.)<br>
 
 **Net migration rate**<br>
-0.2 migrant(s)/1,000 population (2022 est.)<br>
+0.2 migrant(s)/1,000 population (2023 est.)<br>
 
 **Population distribution**<br>
 a fairly even distribution throughout most of the country; slightly larger concentration in the west in proximity to the Czech border<br>
@@ -139,11 +137,9 @@ _rate of urbanization_: 0.17% annual rate of change (2020-25 est.)<br>
 **Sex ratio**<br>
 _at birth_: 1.07 male(s)/female<br>
 _0-14 years_: 1.06 male(s)/female<br>
-_15-24 years_: 1.04 male(s)/female<br>
-_25-54 years_: 1.03 male(s)/female<br>
-_55-64 years_: 0.92 male(s)/female<br>
-_65 years and over_: 0.53 male(s)/female<br>
-_total population_: 0.94 male(s)/female (2022 est.)<br>
+_15-64 years_: 1.01 male(s)/female<br>
+_65 years and over_: 0.67 male(s)/female<br>
+_total population_: 0.94 male(s)/female (2023 est.)<br>
 
 **Mother's mean age at first birth**<br>
 27.2 years (2020 est.)<br>
@@ -152,17 +148,17 @@ _total population_: 0.94 male(s)/female (2022 est.)<br>
 5 deaths/100,000 live births (2017 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 4.82 deaths/1,000 live births<br>
-_male_: 5.48 deaths/1,000 live births<br>
-_female_: 4.12 deaths/1,000 live births (2022 est.)<br>
+_total_: 4.74 deaths/1,000 live births<br>
+_male_: 5.4 deaths/1,000 live births<br>
+_female_: 4.05 deaths/1,000 live births (2023 est.)<br>
 
 **Life expectancy at birth**<br>
-_total population_: 78.31 years<br>
-_male_: 74.83 years<br>
-_female_: 82.04 years (2022 est.)<br>
+_total population_: 78.55 years<br>
+_male_: 75.09 years<br>
+_female_: 82.25 years (2023 est.)<br>
 
 **Total fertility rate**<br>
-1.46 children born/woman (2022 est.)<br>
+1.46 children born/woman (2023 est.)<br>
 
 **Gross reproduction rate**<br>
 0.71 (2023 est.)<br>
@@ -711,7 +707,7 @@ Slovakia became a member of NATO in 2004<br><br>in 2022, Slovakia agreed to host
 <p><em>Slovakia-Austria</em>: none identified</p> <p><em>Slovakia-Czechia</em>: none identified</p> <p><em>Slovakia-Hungary</em>: initiated by the 1977 Budapest Treaty, Hungary and formerly Czechoslovakia agreed to a hydroelectric dam project on the Danube with dams to be constructed at Gabcikovo (Slovakia) and Nagymaros (Hungary) to prevent floods, improve river navigability, and to generate electricity; when Hungary suspended work on the project until its environmental impact could be assessed, Slovakia continued working on it and adopted a pared down strategy to divert the Danube so that all construction was within Czechoslovakian territory; Hungary terminated the project on environmental and economic grounds in 1989, and in 1992 both countries took the matter to the International Court of Justice (ICJ); the ICJ found largely in favor of then Slovakia, finding Hungary had breached their agreement; however, then Czechoslovakia should not have begun the alternative plan before the ICJ ruled on the case; in 2017, Hungary and Slovakia agreed to discontinue the ICJ proceedings</p> <p><em>Slovakia-Poland</em>: none identified</p> <p><em>Slovakia-Ukraine</em>: tens of thousands of Ukrainian refugees are crossing the border to Slovakia to escape the Russian invasion in their country</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 109,185 (Ukraine) (as of 14 February 2023)<br>
+_refugees (country of origin)_: 109,828 (Ukraine) (as of 28 February 2023)<br>
 _stateless persons_: 2,940 (2022)<br>
 
 **Illicit drugs**<br>

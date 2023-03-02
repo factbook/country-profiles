@@ -85,7 +85,7 @@ subject to floods, rockslides, mudslides; periodic droughts<br>
 ## People and Society
 
 **Population**<br>
-29,789,730 (2022 est.)<br>
+30,518,260 (2023 est.)<br>
 
 **Nationality**<br>
 _noun_: Venezuelan(s)<br>
@@ -105,11 +105,9 @@ Roman Catholic 96%, Protestant 2%, other 2%<br>
 <p>Social investment in Venezuela during the CHAVEZ administration reduced poverty from nearly 50% in 1999 to about 27% in 2011, increased school enrollment, substantially decreased infant and child mortality, and improved access to potable water and sanitation through social investment. "Missions" dedicated to education, nutrition, healthcare, and sanitation were funded through petroleum revenues. The sustainability of this progress remains questionable, however, as the continuation of these social programs depends on the prosperity of Venezuela's oil industry. In the long-term, education and health care spending may increase economic growth and reduce income inequality, but rising costs and the staffing of new health care jobs with foreigners are slowing development.</p> <p>While CHAVEZ was in power, more than one million predominantly middle- and upper-class Venezuelans are estimated to have emigrated. The brain drain is attributed to a repressive political system, lack of economic opportunities, steep inflation, a high crime rate, and corruption. Thousands of oil engineers emigrated to Canada, Colombia, and the United States following CHAVEZ's firing of over 20,000 employees of the state-owned petroleum company during a 2002-03 oil strike. Additionally, thousands of Venezuelans of European descent have taken up residence in their ancestral homelands. Nevertheless, Venezuela has attracted hundreds of thousands of immigrants from South America and southern Europe because of its lenient migration policy and the availability of education and health care. Venezuela also has been a fairly accommodating host to Colombian refugees, numbering about 170,000 as of year-end 2016. However, since 2014, falling oil prices have driven a major economic crisis that has pushed Venezuelans from all walks of life to migrate or to seek asylum abroad to escape severe shortages of food, water, and medicine; soaring inflation; unemployment; and violence. As of September 2022, an estimated 7.1 million Venezuelans were refugees or migrants worldwide, with almost 80% taking refuge in Latin America and the Caribbean (notably Colombia, Peru, Chile, Ecuador, Argentina, and Brazil, as well as the Dominican Republic, Aruba, and Curacao). Asylum applications increased significantly in the US and Brazil in 2016 and 2017. Several receiving countries are making efforts to increase immigration restrictions and to deport illegal Venezuelan migrants - Ecuador and Peru in August 2018 began requiring valid passports for entry, which are difficult to obtain for Venezuelans. Nevertheless, Venezuelans continue to migrate to avoid economic collapse at home.</p><br>
 
 **Age structure**<br>
-_0-14 years_: 25.66% (male 3,759,280/female 3,591,897)<br>
-_15-24 years_: 16.14% (male 2,348,073/female 2,275,912)<br>
-_25-54 years_: 41.26% (male 5,869,736/female 5,949,082)<br>
-_55-64 years_: 8.76% (male 1,203,430/female 1,305,285)<br>
-_65 years and over_: 8.18% (male 1,069,262/female 1,272,646) (2020 est.)<br>
+_0-14 years_: 25.13% (male 3,920,774/female 3,748,241)<br>
+_15-64 years_: 65.98% (male 10,029,127/female 10,105,332)<br>
+_65 years and over_: 8.9% (2023 est.) (male 1,239,205/female 1,475,581)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 57.5<br>
@@ -123,16 +121,16 @@ _male_: 29.4 years<br>
 _female_: 30.7 years (2020 est.)<br>
 
 **Population growth rate**<br>
-2.43% (2022 est.)<br>
+2.4% (2023 est.)<br>
 
 **Birth rate**<br>
-17.27 births/1,000 population (2022 est.)<br>
+16.99 births/1,000 population (2023 est.)<br>
 
 **Death rate**<br>
-6.81 deaths/1,000 population (2022 est.)<br>
+6.55 deaths/1,000 population (2023 est.)<br>
 
 **Net migration rate**<br>
-13.88 migrant(s)/1,000 population (2022 est.)<br>
+13.55 migrant(s)/1,000 population (2023 est.)<br>
 
 **Population distribution**<br>
 most of the population is concentrated in the northern and western highlands along an eastern spur at the northern end of the Andes, an area that includes the capital of Caracas<br>
@@ -147,27 +145,25 @@ _rate of urbanization_: 1.16% annual rate of change (2020-25 est.)<br>
 **Sex ratio**<br>
 _at birth_: 1.05 male(s)/female<br>
 _0-14 years_: 1.05 male(s)/female<br>
-_15-24 years_: 1.03 male(s)/female<br>
-_25-54 years_: 0.99 male(s)/female<br>
-_55-64 years_: 0.92 male(s)/female<br>
-_65 years and over_: 0.74 male(s)/female<br>
-_total population_: 0.99 male(s)/female (2022 est.)<br>
+_15-64 years_: 0.99 male(s)/female<br>
+_65 years and over_: 0.84 male(s)/female<br>
+_total population_: 0.99 male(s)/female (2023 est.)<br>
 
 **Maternal mortality ratio**<br>
 125 deaths/100,000 live births (2017 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 17.72 deaths/1,000 live births<br>
-_male_: 19.72 deaths/1,000 live births<br>
-_female_: 15.61 deaths/1,000 live births (2022 est.)<br>
+_total_: 14.1 deaths/1,000 live births<br>
+_male_: 15.67 deaths/1,000 live births<br>
+_female_: 12.46 deaths/1,000 live births (2023 est.)<br>
 
 **Life expectancy at birth**<br>
-_total population_: 73.29 years<br>
-_male_: 70.12 years<br>
-_female_: 76.62 years (2022 est.)<br>
+_total population_: 74.25 years<br>
+_male_: 71.19 years<br>
+_female_: 77.45 years (2023 est.)<br>
 
 **Total fertility rate**<br>
-2.22 children born/woman (2022 est.)<br>
+2.2 children born/woman (2023 est.)<br>
 
 **Gross reproduction rate**<br>
 1.07 (2023 est.)<br>

@@ -81,7 +81,7 @@ Saudi Arabia is the largest country in the world without a river; extensive coas
 ## People and Society
 
 **Population**<br>
-35,354,380 (2022 est.)<br>
+35,939,806 (2023 est.)<br>
 <strong>note:</strong> immigrants make up 38.3% of the total population, according to UN data (2019)<br>
 
 **Nationality**<br>
@@ -100,11 +100,9 @@ Muslim (official; citizens are 85-90% Sunni and 10-12% Shia), other (includes Ea
 <strong>note:</strong> despite having a large expatriate community of various faiths (more than 30% of the population), most forms of public religious expression inconsistent with the government-sanctioned interpretation of Sunni Islam are restricted; non-Muslims are not allowed to have Saudi citizenship and non-Muslim places of worship are not permitted (2013)<br>
 
 **Age structure**<br>
-_0-14 years_: 24.84% (male 4,327,830/female 4,159,242)<br>
-_15-24 years_: 15.38% (male 2,741,371/female 2,515,188)<br>
-_25-54 years_: 50.2% (male 10,350,028/female 6,804,479)<br>
-_55-64 years_: 5.95% (male 1,254,921/female 778,467)<br>
-_65 years and over_: 3.63% (male 657,395/female 584,577) (2020 est.)<br>
+_0-14 years_: 23.45% (male 4,298,399/female 4,130,547)<br>
+_15-64 years_: 72.36% (male 15,251,742/female 10,752,649)<br>
+_65 years and over_: 4.19% (2023 est.) (male 799,270/female 707,199)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 40.4<br>
@@ -118,16 +116,16 @@ _male_: 33 years<br>
 _female_: 27.9 years (2020 est.)<br>
 
 **Population growth rate**<br>
-1.63% (2022 est.)<br>
+1.65% (2023 est.)<br>
 
 **Birth rate**<br>
-14.22 births/1,000 population (2022 est.)<br>
+13.9 births/1,000 population (2023 est.)<br>
 
 **Death rate**<br>
-3.42 deaths/1,000 population (2022 est.)<br>
+3.45 deaths/1,000 population (2023 est.)<br>
 
 **Net migration rate**<br>
-5.52 migrant(s)/1,000 population (2022 est.)<br>
+6.07 migrant(s)/1,000 population (2023 est.)<br>
 
 **Population distribution**<br>
 historically a population that was mostly nomadic or semi-nomadic, the Saudi population has become more settled since petroleum was discovered in the 1930s; most of the economic activities - and with it the country's population - is concentrated in a wide area across the middle of the peninsula, from Ad Dammam in the east, through Riyadh in the interior, to Mecca-Medina in the west near the Red Sea<br>
@@ -142,27 +140,25 @@ _rate of urbanization_: 1.69% annual rate of change (2020-25 est.)<br>
 **Sex ratio**<br>
 _at birth_: 1.05 male(s)/female<br>
 _0-14 years_: 1.04 male(s)/female<br>
-_15-24 years_: 1.08 male(s)/female<br>
-_25-54 years_: 1.54 male(s)/female<br>
-_55-64 years_: 1.62 male(s)/female<br>
-_65 years and over_: 0.94 male(s)/female<br>
-_total population_: 1.3 male(s)/female (2022 est.)<br>
+_15-64 years_: 1.42 male(s)/female<br>
+_65 years and over_: 1.13 male(s)/female<br>
+_total population_: 1.31 male(s)/female (2023 est.)<br>
 
 **Maternal mortality ratio**<br>
 17 deaths/100,000 live births (2017 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 12.27 deaths/1,000 live births<br>
-_male_: 13.51 deaths/1,000 live births<br>
-_female_: 10.97 deaths/1,000 live births (2022 est.)<br>
+_total_: 11.97 deaths/1,000 live births<br>
+_male_: 13.16 deaths/1,000 live births<br>
+_female_: 10.71 deaths/1,000 live births (2023 est.)<br>
 
 **Life expectancy at birth**<br>
-_total population_: 76.65 years<br>
-_male_: 75.07 years<br>
-_female_: 78.32 years (2022 est.)<br>
+_total population_: 76.91 years<br>
+_male_: 75.33 years<br>
+_female_: 78.56 years (2023 est.)<br>
 
 **Total fertility rate**<br>
-1.92 children born/woman (2022 est.)<br>
+1.89 children born/woman (2023 est.)<br>
 
 **Gross reproduction rate**<br>
 0.92 (2023 est.)<br>

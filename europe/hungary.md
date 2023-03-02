@@ -79,7 +79,7 @@ landlocked; strategic location astride main land routes between Western Europe a
 ## People and Society
 
 **Population**<br>
-9,699,577 (2022 est.)<br>
+9,670,009 (2023 est.)<br>
 
 **Nationality**<br>
 _noun_: Hungarian(s)<br>
@@ -97,11 +97,9 @@ _major-language sample(s)_: <br>A World Factbook nélkülözhetetlen forrása az
 Roman Catholic 37.2%, Calvinist 11.6%, Lutheran 2.2%, Greek Catholic 1.8%, other 1.9%, none 18.2%, no response 27.2% (2011 est.)<br>
 
 **Age structure**<br>
-_0-14 years_: 14.54% (male 731,542/female 689,739)<br>
-_15-24 years_: 10.43% (male 526,933/female 492,388)<br>
-_25-54 years_: 42.17% (male 2,075,763/female 2,044,664)<br>
-_55-64 years_: 12.17% (male 552,876/female 636,107)<br>
-_65 years and over_: 20.69% (male 773,157/female 1,248,658) (2020 est.)<br>
+_0-14 years_: 14.24% (male 709,089/female 668,143)<br>
+_15-64 years_: 63.97% (male 3,091,384/female 3,094,515)<br>
+_65 years and over_: 21.79% (2023 est.) (male 812,063/female 1,294,815)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 53.8<br>
@@ -115,16 +113,16 @@ _male_: 41.5 years<br>
 _female_: 45.5 years (2020 est.)<br>
 
 **Population growth rate**<br>
--0.3% (2022 est.)<br>
+-0.31% (2023 est.)<br>
 
 **Birth rate**<br>
-8.65 births/1,000 population (2022 est.)<br>
+8.58 births/1,000 population (2023 est.)<br>
 
 **Death rate**<br>
-12.88 deaths/1,000 population (2022 est.)<br>
+12.89 deaths/1,000 population (2023 est.)<br>
 
 **Net migration rate**<br>
-1.23 migrant(s)/1,000 population (2022 est.)<br>
+1.21 migrant(s)/1,000 population (2023 est.)<br>
 
 **Population distribution**<br>
 a fairly even distribution throughout most of the country, with urban areas attracting larger and denser populations<br>
@@ -139,11 +137,9 @@ _rate of urbanization_: 0.05% annual rate of change (2020-25 est.)<br>
 **Sex ratio**<br>
 _at birth_: 1.06 male(s)/female<br>
 _0-14 years_: 1.06 male(s)/female<br>
-_15-24 years_: 1.07 male(s)/female<br>
-_25-54 years_: 1.02 male(s)/female<br>
-_55-64 years_: 0.88 male(s)/female<br>
-_65 years and over_: 0.51 male(s)/female<br>
-_total population_: 0.91 male(s)/female (2022 est.)<br>
+_15-64 years_: 1 male(s)/female<br>
+_65 years and over_: 0.63 male(s)/female<br>
+_total population_: 0.91 male(s)/female (2023 est.)<br>
 
 **Mother's mean age at first birth**<br>
 28.4 years (2020 est.)<br>
@@ -152,17 +148,17 @@ _total population_: 0.91 male(s)/female (2022 est.)<br>
 12 deaths/100,000 live births (2017 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 4.62 deaths/1,000 live births<br>
-_male_: 4.95 deaths/1,000 live births<br>
-_female_: 4.27 deaths/1,000 live births (2022 est.)<br>
+_total_: 4.55 deaths/1,000 live births<br>
+_male_: 4.88 deaths/1,000 live births<br>
+_female_: 4.2 deaths/1,000 live births (2023 est.)<br>
 
 **Life expectancy at birth**<br>
-_total population_: 77.2 years<br>
-_male_: 73.55 years<br>
-_female_: 81.06 years (2022 est.)<br>
+_total population_: 77.44 years<br>
+_male_: 73.82 years<br>
+_female_: 81.28 years (2023 est.)<br>
 
 **Total fertility rate**<br>
-1.48 children born/woman (2022 est.)<br>
+1.49 children born/woman (2023 est.)<br>
 
 **Gross reproduction rate**<br>
 0.72 (2023 est.)<br>
@@ -737,7 +733,7 @@ Islamic State of Iraq and ash-Sham (ISIS)<br>
 <p>bilateral government, legal, technical and economic working group negotiations continue in 2006 with Slovakia over Hungary's failure to complete its portion of the Gabcikovo-Nagymaros hydroelectric dam project along the Danube; as a member state that forms part of the EU's external border, Hungary has implemented the strict Schengen border rules</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 34,248 (Ukraine) (as of 14 February 2023)<br>
+_refugees (country of origin)_: 34,248 (Ukraine) (as of 28 February 2023)<br>
 _stateless persons_: 130 (2022)<br>
 
 **Illicit drugs**<br>

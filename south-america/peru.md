@@ -87,7 +87,7 @@ approximately one-third of the population resides along the desert coastal belt 
 ## People and Society
 
 **Population**<br>
-32,275,736 (2022 est.)<br>
+32,440,172 (2023 est.)<br>
 
 **Nationality**<br>
 _noun_: Peruvian(s)<br>
@@ -107,11 +107,9 @@ Roman Catholic 60%, Christian 14.6% (includes Evangelical 11.1%, other 3.5%), ot
 <p>Peru's urban and coastal communities have benefited much more from recent economic growth than rural, Afro-Peruvian, indigenous, and poor populations of the Amazon and mountain regions. The poverty rate has dropped substantially during the last decade but remains stubbornly high at about 30% (more than 55% in rural areas). After remaining almost static for about a decade, Peru's malnutrition rate began falling in 2005, when the government introduced a coordinated strategy focusing on hygiene, sanitation, and clean water. School enrollment has improved, but achievement scores reflect ongoing problems with educational quality. Many poor children temporarily or permanently drop out of school to help support their families. About a quarter to a third of Peruvian children aged 6 to 14 work, often putting in long hours at hazardous mining or construction sites.</p><p>Peru was a country of immigration in the 19th and early 20th centuries, but has become a country of emigration in the last few decades. Beginning in the 19th century, Peru brought in Asian contract laborers mainly to work on coastal plantations. Populations of Chinese and Japanese descent - among the largest in Latin America - are economically and culturally influential in Peru today. Peruvian emigration began rising in the 1980s due to an economic crisis and a violent internal conflict, but outflows have stabilized in the last few years as economic conditions have improved. Nonetheless, more than 2 million Peruvians have emigrated in the last decade, principally to the US, Spain, and Argentina.</p><br>
 
 **Age structure**<br>
-_0-14 years_: 25.43% (male 4,131,985/female 3,984,546)<br>
-_15-24 years_: 17.21% (male 2,756,024/female 2,736,394)<br>
-_25-54 years_: 41.03% (male 6,279,595/female 6,815,159)<br>
-_55-64 years_: 8.28% (male 1,266,595/female 1,375,708)<br>
-_65 years and over_: 8.05% (male 1,207,707/female 1,361,276) (2020 est.)<br>
+_0-14 years_: 26.04% (male 4,311,243/female 4,136,849)<br>
+_15-64 years_: 65.94% (male 10,452,598/female 10,937,233)<br>
+_65 years and over_: 8.02% (2023 est.) (male 1,134,587/female 1,467,662)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 53<br>
@@ -125,16 +123,16 @@ _male_: 28.3 years<br>
 _female_: 29.9 years (2020 est.)<br>
 
 **Population growth rate**<br>
-0.51% (2022 est.)<br>
+0.5% (2023 est.)<br>
 
 **Birth rate**<br>
-17.21 births/1,000 population (2022 est.)<br>
+16.96 births/1,000 population (2023 est.)<br>
 
 **Death rate**<br>
-11.32 deaths/1,000 population (2022 est.)<br>
+11.04 deaths/1,000 population (2023 est.)<br>
 
 **Net migration rate**<br>
--0.75 migrant(s)/1,000 population (2022 est.)<br>
+-0.89 migrant(s)/1,000 population (2023 est.)<br>
 
 **Population distribution**<br>
 approximately one-third of the population resides along the desert coastal belt in the west, with a strong focus on the capital city of Lima; the Andean highlands, or sierra, which is strongly identified with the country's Amerindian population, contains roughly half of the overall population; the eastern slopes of the Andes, and adjoining rainforest, are sparsely populated<br>
@@ -149,11 +147,9 @@ _rate of urbanization_: 1.33% annual rate of change (2020-25 est.)<br>
 **Sex ratio**<br>
 _at birth_: 1.05 male(s)/female<br>
 _0-14 years_: 1.04 male(s)/female<br>
-_15-24 years_: 1.01 male(s)/female<br>
-_25-54 years_: 0.95 male(s)/female<br>
-_55-64 years_: 0.9 male(s)/female<br>
-_65 years and over_: 0.63 male(s)/female<br>
-_total population_: 0.96 male(s)/female (2022 est.)<br>
+_15-64 years_: 0.96 male(s)/female<br>
+_65 years and over_: 0.77 male(s)/female<br>
+_total population_: 0.96 male(s)/female (2023 est.)<br>
 
 **Mother's mean age at first birth**<br>
 21.9 years (2013 est.)<br>
@@ -165,15 +161,15 @@ _total population_: 0.96 male(s)/female (2022 est.)<br>
 **Infant mortality rate**<br>
 _total_: 10.8 deaths/1,000 live births<br>
 _male_: 11.89 deaths/1,000 live births<br>
-_female_: 9.65 deaths/1,000 live births (2022 est.)<br>
+_female_: 9.65 deaths/1,000 live births (2023 est.)<br>
 
 **Life expectancy at birth**<br>
 _total population_: 68.94 years<br>
 _male_: 65.38 years<br>
-_female_: 72.67 years (2022 est.)<br>
+_female_: 72.67 years (2023 est.)<br>
 
 **Total fertility rate**<br>
-2.2 children born/woman (2022 est.)<br>
+2.18 children born/woman (2023 est.)<br>
 
 **Gross reproduction rate**<br>
 1.06 (2023 est.)<br>

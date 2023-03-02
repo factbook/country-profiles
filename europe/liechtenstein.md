@@ -75,7 +75,7 @@ along with Uzbekistan, one of only two doubly landlocked countries in the world;
 ## People and Society
 
 **Population**<br>
-39,711 (2022 est.)<br>
+39,993 (2023 est.)<br>
 <strong>note:</strong> immigrants make up 67% of the total population, according to UN data (2019)<br>
 
 **Nationality**<br>
@@ -94,11 +94,9 @@ _major-language sample(s)_: <br>Das World Factbook, die unverzichtbare Quelle f√
 Roman Catholic (official) 73.4%, Protestant Reformed 6.3%, Muslim 5.9%, Christian Orthodox 1.3%, Lutheran 1.2%, other Protestant 0.7%, other Christian 0.3%, other 0.8%, none 7%, unspecified 3.3% (2015 est.)<br>
 
 **Age structure**<br>
-_0-14 years_: 15.2% (male 3,259/female 2,688)<br>
-_15-24 years_: 11.29% (male 2,238/female 2,181)<br>
-_25-54 years_: 40.22% (male 7,869/female 7,872)<br>
-_55-64 years_: 14.41% (male 2,711/female 2,930)<br>
-_65 years and over_: 18.88% (male 3,403/female 3,986) (2020 est.)<br>
+_0-14 years_: 15.27% (male 3,389/female 2,718)<br>
+_15-64 years_: 64.38% (male 12,800/female 12,947)<br>
+_65 years and over_: 20.35% (2023 est.) (male 3,738/female 4,401)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 50.2<br>
@@ -112,16 +110,16 @@ _male_: 42 years<br>
 _female_: 45.3 years (2020 est.)<br>
 
 **Population growth rate**<br>
-0.72% (2022 est.)<br>
+0.7% (2023 est.)<br>
 
 **Birth rate**<br>
-10.32 births/1,000 population (2022 est.)<br>
+10.3 births/1,000 population (2023 est.)<br>
 
 **Death rate**<br>
-7.98 deaths/1,000 population (2022 est.)<br>
+8.05 deaths/1,000 population (2023 est.)<br>
 
 **Net migration rate**<br>
-4.81 migrant(s)/1,000 population (2022 est.)<br>
+4.78 migrant(s)/1,000 population (2023 est.)<br>
 
 **Population distribution**<br>
 most of the population is found in the western half of the country along the Rhine River<br>
@@ -135,28 +133,26 @@ _rate of urbanization_: 1.15% annual rate of change (2020-25 est.)<br>
 
 **Sex ratio**<br>
 _at birth_: 1.25 male(s)/female<br>
-_0-14 years_: 1.24 male(s)/female<br>
-_15-24 years_: 1.04 male(s)/female<br>
-_25-54 years_: 1 male(s)/female<br>
-_55-64 years_: 0.92 male(s)/female<br>
-_65 years and over_: 0.69 male(s)/female<br>
-_total population_: 0.99 male(s)/female (2022 est.)<br>
+_0-14 years_: 1.25 male(s)/female<br>
+_15-64 years_: 0.99 male(s)/female<br>
+_65 years and over_: 0.85 male(s)/female<br>
+_total population_: 0.99 male(s)/female (2023 est.)<br>
 
 **Mother's mean age at first birth**<br>
 31.3 years (2017)<br>
 
 **Infant mortality rate**<br>
-_total_: 4.05 deaths/1,000 live births<br>
-_male_: 4.41 deaths/1,000 live births<br>
-_female_: 3.59 deaths/1,000 live births (2022 est.)<br>
+_total_: 3.98 deaths/1,000 live births<br>
+_male_: 4.34 deaths/1,000 live births<br>
+_female_: 3.53 deaths/1,000 live births (2023 est.)<br>
 
 **Life expectancy at birth**<br>
-_total population_: 82.56 years<br>
-_male_: 80.33 years<br>
-_female_: 85.38 years (2022 est.)<br>
+_total population_: 82.76 years<br>
+_male_: 80.54 years<br>
+_female_: 85.56 years (2023 est.)<br>
 
 **Total fertility rate**<br>
-1.69 children born/woman (2022 est.)<br>
+1.69 children born/woman (2023 est.)<br>
 
 **Gross reproduction rate**<br>
 0.75 (2023 est.)<br>

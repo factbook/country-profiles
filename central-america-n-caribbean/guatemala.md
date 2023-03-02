@@ -78,7 +78,7 @@ the vast majority of the populace resides in the southern half of the country, p
 ## People and Society
 
 **Population**<br>
-17,703,190 (2022 est.)<br>
+17,980,803 (2023 est.)<br>
 
 **Nationality**<br>
 _noun_: Guatemalan(s)<br>
@@ -98,11 +98,9 @@ Roman Catholic 41.7%, Evangelical 38.8%, other 2.7%, atheist 0.1%, none 13.8%, u
 <p>Guatemala is a predominantly poor country that struggles in several areas of health and development, including infant, child, and maternal mortality, malnutrition, literacy, and contraceptive awareness and use. The country's large indigenous population is disproportionately affected. Guatemala is the most populous country in Central America and has the highest fertility rate in Latin America. It also has the highest population growth rate in Latin America, which is likely to continue because of its large reproductive-age population and high birth rate. Almost half of Guatemala's population is under age 19, making it the youngest population in Latin America. Guatemala's total fertility rate has slowly declined during the last few decades due in part to limited government-funded health programs. However, the birth rate is still more close to three children per woman and is markedly higher among its rural and indigenous populations.</p><p>Guatemalans have a history of emigrating legally and illegally to Mexico, the United States, and Canada because of a lack of economic opportunity, political instability, and natural disasters. Emigration, primarily to the United States, escalated during the 1960 to 1996 civil war and accelerated after a peace agreement was signed. Thousands of Guatemalans who fled to Mexico returned after the war, but labor migration to southern Mexico continues.</p><br>
 
 **Age structure**<br>
-_0-14 years_: 33.68% (male 2,944,145/female 2,833,432)<br>
-_15-24 years_: 19.76% (male 1,705,730/female 1,683,546)<br>
-_25-54 years_: 36.45% (male 3,065,933/female 3,186,816)<br>
-_55-64 years_: 5.41% (male 431,417/female 496,743)<br>
-_65 years and over_: 4.7% (male 363,460/female 442,066) (2020 est.)<br>
+_0-14 years_: 31.98% (male 2,927,423/female 2,822,441)<br>
+_15-64 years_: 62.78% (male 5,568,051/female 5,720,928)<br>
+_65 years and over_: 5.24% (2023 est.) (male 420,782/female 521,178)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 60.9<br>
@@ -116,16 +114,16 @@ _male_: 22.6 years<br>
 _female_: 23.8 years (2020 est.)<br>
 
 **Population growth rate**<br>
-1.58% (2022 est.)<br>
+1.54% (2023 est.)<br>
 
 **Birth rate**<br>
-22.34 births/1,000 population (2022 est.)<br>
+21.88 births/1,000 population (2023 est.)<br>
 
 **Death rate**<br>
-4.91 deaths/1,000 population (2022 est.)<br>
+4.89 deaths/1,000 population (2023 est.)<br>
 
 **Net migration rate**<br>
--1.66 migrant(s)/1,000 population (2022 est.)<br>
+-1.63 migrant(s)/1,000 population (2023 est.)<br>
 
 **Population distribution**<br>
 the vast majority of the populace resides in the southern half of the country, particularly in the mountainous regions; more than half of the population lives in rural areas<br>
@@ -140,11 +138,9 @@ _rate of urbanization_: 2.59% annual rate of change (2020-25 est.)<br>
 **Sex ratio**<br>
 _at birth_: 1.05 male(s)/female<br>
 _0-14 years_: 1.04 male(s)/female<br>
-_15-24 years_: 1.01 male(s)/female<br>
-_25-54 years_: 0.96 male(s)/female<br>
-_55-64 years_: 0.87 male(s)/female<br>
-_65 years and over_: 0.68 male(s)/female<br>
-_total population_: 0.98 male(s)/female (2022 est.)<br>
+_15-64 years_: 0.97 male(s)/female<br>
+_65 years and over_: 0.81 male(s)/female<br>
+_total population_: 0.98 male(s)/female (2023 est.)<br>
 
 **Mother's mean age at first birth**<br>
 20.6 years (2014/15 est.)<br>
@@ -154,17 +150,17 @@ _total population_: 0.98 male(s)/female (2022 est.)<br>
 95 deaths/100,000 live births (2017 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 26.18 deaths/1,000 live births<br>
-_male_: 29.51 deaths/1,000 live births<br>
-_female_: 22.69 deaths/1,000 live births (2022 est.)<br>
+_total_: 25.57 deaths/1,000 live births<br>
+_male_: 28.81 deaths/1,000 live births<br>
+_female_: 22.18 deaths/1,000 live births (2023 est.)<br>
 
 **Life expectancy at birth**<br>
-_total population_: 72.91 years<br>
-_male_: 70.88 years<br>
-_female_: 75.04 years (2022 est.)<br>
+_total population_: 73.18 years<br>
+_male_: 71.17 years<br>
+_female_: 75.3 years (2023 est.)<br>
 
 **Total fertility rate**<br>
-2.62 children born/woman (2022 est.)<br>
+2.57 children born/woman (2023 est.)<br>
 
 **Gross reproduction rate**<br>
 1.25 (2023 est.)<br>

@@ -51,7 +51,7 @@ a 1,200-hectare marine nature reserve, the Reserve Naturelle, is made up of five
 ## People and Society
 
 **Population**<br>
-7,103 (2022 est.)<br>
+7,093 (2023 est.)<br>
 
 **Ethnic groups**<br>
 French, Portuguese, Caribbean, Afro-Caribbean<br>
@@ -64,11 +64,9 @@ _major-language sample(s)_: <br>The World Factbook, une source indispensable d'i
 Roman Catholic, Protestant, Jehovah's Witnesses<br>
 
 **Age structure**<br>
-_0-14 years_: 14.36% (male 524/female 496)<br>
-_15-24 years_: 7.29% (male 272/female 246)<br>
-_25-54 years_: 41.86% (male 1,618/female 1,363)<br>
-_55-64 years_: 16.43% (male 632/female 535)<br>
-_65 years and over_: 21.17% (male 753/female 751) (2022 est.)<br>
+_0-14 years_: 14.1% (male 515/female 485)<br>
+_15-64 years_: 63.8% (male 2,442/female 2,083)<br>
+_65 years and over_: 22.11% (2023 est.) (male 787/female 781)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 30.8<br>
@@ -82,16 +80,16 @@ _male_: 45.5 years<br>
 _female_: 45.8 years (2020 est.)<br>
 
 **Population growth rate**<br>
--0.16% (2022 est.)<br>
+-0.11% (2023 est.)<br>
 
 **Birth rate**<br>
-9.29 births/1,000 population (2022 est.)<br>
+9.3 births/1,000 population (2023 est.)<br>
 
 **Death rate**<br>
-9.01 deaths/1,000 population (2022 est.)<br>
+9.16 deaths/1,000 population (2023 est.)<br>
 
 **Net migration rate**<br>
--1.83 migrant(s)/1,000 population (2022 est.)<br>
+-1.27 migrant(s)/1,000 population (2023 est.)<br>
 
 **Population distribution**<br>
 most of the populace concentrated in and around the capital of Gustavia, but scattered settlements exist around the island periphery<br>
@@ -99,24 +97,22 @@ most of the populace concentrated in and around the capital of Gustavia, but sca
 **Sex ratio**<br>
 _at birth_: 1.06 male(s)/female<br>
 _0-14 years_: 1.06 male(s)/female<br>
-_15-24 years_: 1.09 male(s)/female<br>
-_25-54 years_: 1.19 male(s)/female<br>
-_55-64 years_: 1.18 male(s)/female<br>
-_65 years and over_: 0.85 male(s)/female<br>
-_total population_: 1.12 male(s)/female (2022 est.)<br>
+_15-64 years_: 1.17 male(s)/female<br>
+_65 years and over_: 1.01 male(s)/female<br>
+_total population_: 1.12 male(s)/female (2023 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 6.71 deaths/1,000 live births<br>
-_male_: 7.85 deaths/1,000 live births<br>
-_female_: 5.53 deaths/1,000 live births (2022 est.)<br>
+_total_: 6.58 deaths/1,000 live births<br>
+_male_: 7.7 deaths/1,000 live births<br>
+_female_: 5.42 deaths/1,000 live births (2023 est.)<br>
 
 **Life expectancy at birth**<br>
-_total population_: 80.58 years<br>
-_male_: 77.48 years<br>
-_female_: 83.81 years (2022 est.)<br>
+_total population_: 80.8 years<br>
+_male_: 77.72 years<br>
+_female_: 84.01 years (2023 est.)<br>
 
 **Total fertility rate**<br>
-1.64 children born/woman (2022 est.)<br>
+1.64 children born/woman (2023 est.)<br>
 
 **Gross reproduction rate**<br>
 0.79 (2023 est.)<br>

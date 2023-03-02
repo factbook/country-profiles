@@ -50,6 +50,7 @@ _mean elevation_: 726 m<br>
 
 **Natural resources**<br>
 cobalt, copper, niobium, tantalum, petroleum, industrial and gem diamonds, gold, silver, zinc, manganese, tin, uranium, coal, hydropower, timber<br>
+<strong>note 1:</strong> coltan, the industrial name for a columbite–tantalite mineral from which niobium and tantalum are extracted, is being linked to warfare in the Democratic Republic of the Congo; mining of coltan is mainly artisanal and small-scale and vulnerable to extortion and human trafficking; fighting over cassiterite deposits, a tin ore, is also a major cause of conflict in eastern parts of the Democratic Republic of the Congo; tantalum, tin, tungsten, and gold extracted from central Africa are considered "conflict minerals" and as such are subject to international monitoring<br><br><strong>note 2:</strong> the DROC produces as much as 70% of the World's supply of cobalt; between 20-30% of this cobalt is produced in artisanal and small-scale mining operations which are vulnerable to extortion, human trafficking, and exploitative working conditions including child labor<br>
 
 **Land use**<br>
 _agricultural land_: 11.4% (2018 est.)<br>
@@ -86,7 +87,7 @@ urban clusters are spread throughout the country, particularly in the northeast 
 ## People and Society
 
 **Population**<br>
-108,407,721 (2022 est.)<br>
+111,859,928 (2023 est.)<br>
 
 **Nationality**<br>
 _noun_: Congolese (singular and plural)<br>
@@ -106,11 +107,9 @@ Roman Catholic 29.9%, Protestant 26.7%, other Christian 36.5%, Kimbanguist 2.8%,
 <p>Despite a wealth of fertile soil, hydroelectric power potential, and mineral resources, the Democratic Republic of the Congo (DRC) struggles with many socioeconomic problems, including high infant and maternal mortality rates, malnutrition, poor vaccination coverage, lack of access to improved water sources and sanitation, and frequent and early fertility. Ongoing conflict, mismanagement of resources, and a lack of investment have resulted in food insecurity; almost 25% of children under the age of 5 were malnourished as of 2018. The overall coverage of basic public services – education, health, sanitation, and potable water – is very limited and piecemeal, with substantial regional and rural/urban disparities. Fertility remains high at more than 5 children per woman and is likely to remain high because of the low use of contraception and the cultural preference for larger families.</p> <p>The DRC is a source and host country for refugees. Between 2012 and 2014, more than 119,000 Congolese refugees returned from the Republic of Congo to the relative stability of northwest DRC, but more than 1 million Congolese refugees and asylum seekers were hosted by neighboring countries as of December 2022. In addition, an estimated 5.5 million Congolese were internally displaced as of October 2022, the vast majority fleeing violence between rebel group and Congolese armed forces. Thousands of refugees have come to the DRC from neighboring countries, including Rwanda, the Central African Republic, South Sudan, and Burundi.</p><br>
 
 **Age structure**<br>
-_0-14 years_: 46.38% (male 23,757,297/female 23,449,057)<br>
-_15-24 years_: 19.42% (male 9,908,686/female 9,856,841)<br>
-_25-54 years_: 28.38% (male 14,459,453/female 14,422,912)<br>
-_55-64 years_: 3.36% (male 1,647,267/female 1,769,429)<br>
-_65 years and over_: 2.47% (male 1,085,539/female 1,423,782) (2020 est.)<br>
+_0-14 years_: 45.99% (male 25,902,046/female 25,543,395)<br>
+_15-64 years_: 51.52% (male 28,798,920/female 28,835,212)<br>
+_65 years and over_: 2.49% (2023 est.) (male 1,211,966/female 1,568,389)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 98<br>
@@ -124,16 +123,16 @@ _male_: 16.5 years<br>
 _female_: 16.8 years (2020 est.)<br>
 
 **Population growth rate**<br>
-3.14% (2022 est.)<br>
+3.13% (2023 est.)<br>
 
 **Birth rate**<br>
-40.08 births/1,000 population (2022 est.)<br>
+39.64 births/1,000 population (2023 est.)<br>
 
 **Death rate**<br>
-7.94 deaths/1,000 population (2022 est.)<br>
+7.74 deaths/1,000 population (2023 est.)<br>
 
 **Net migration rate**<br>
--0.71 migrant(s)/1,000 population (2022 est.)<br>
+-0.63 migrant(s)/1,000 population (2023 est.)<br>
 
 **Population distribution**<br>
 urban clusters are spread throughout the country, particularly in the northeast along the border with Uganda, Rwanda, and Burundi; the largest city is the capital, Kinshasha, located in the west along the Congo River; the south is least densely populated as shown in this population distribution map<br>
@@ -148,11 +147,9 @@ _rate of urbanization_: 4.33% annual rate of change (2020-25 est.)<br>
 **Sex ratio**<br>
 _at birth_: 1.03 male(s)/female<br>
 _0-14 years_: 1.01 male(s)/female<br>
-_15-24 years_: 1.01 male(s)/female<br>
-_25-54 years_: 1 male(s)/female<br>
-_55-64 years_: 0.94 male(s)/female<br>
-_65 years and over_: 0.6 male(s)/female<br>
-_total population_: 1 male(s)/female (2022 est.)<br>
+_15-64 years_: 1 male(s)/female<br>
+_65 years and over_: 0.77 male(s)/female<br>
+_total population_: 1 male(s)/female (2023 est.)<br>
 
 **Mother's mean age at first birth**<br>
 19.9 years (2013/14 est.)<br>
@@ -162,17 +159,17 @@ _total population_: 1 male(s)/female (2022 est.)<br>
 473 deaths/100,000 live births (2017 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 60.85 deaths/1,000 live births<br>
-_male_: 66.49 deaths/1,000 live births<br>
-_female_: 55.03 deaths/1,000 live births (2022 est.)<br>
+_total_: 59.12 deaths/1,000 live births<br>
+_male_: 64.65 deaths/1,000 live births<br>
+_female_: 53.42 deaths/1,000 live births (2023 est.)<br>
 
 **Life expectancy at birth**<br>
-_total population_: 61.83 years<br>
-_male_: 60.03 years<br>
-_female_: 63.69 years (2022 est.)<br>
+_total population_: 62.23 years<br>
+_male_: 60.39 years<br>
+_female_: 64.13 years (2023 est.)<br>
 
 **Total fertility rate**<br>
-5.63 children born/woman (2022 est.)<br>
+5.56 children born/woman (2023 est.)<br>
 
 **Gross reproduction rate**<br>
 2.74 (2023 est.)<br>
@@ -734,9 +731,9 @@ Armed Forces of the Democratic Republic of the Congo (Forces d'Armees de la Repu
 **Military expenditures**<br>
 0.7% of GDP (2021 est.)<br>
 0.7% of GDP (2020 est.)<br>
-0.9% of GDP (2019 est.) (approximately $570 million)<br>
-0.8% of GDP (2018 est.) (approximately $520 million)<br>
-0.9% of GDP (2017 est.) (approximately $550 million)<br>
+0.9% of GDP (2019 est.)<br>
+0.8% of GDP (2018 est.)<br>
+0.9% of GDP (2017 est.)<br>
 
 **Military and security service personnel strengths**<br>
 limited and widely varied information; approximately 100,000 active troops (mostly Army, but includes several thousand Navy and Air Force personnel, as well as about 10,000 Republican Guard; note -&nbsp; Navy personnel includes naval infantry) (2022)<br>
@@ -749,7 +746,7 @@ the FARDC is equipped mostly with Soviet-era weapons systems and equipment (2022
 note: in eastern Congo, fighters from armed groups, and in some cases government security forces, have been accused of forced recruitment of child soldiers<br>
 
 **Military - note**<br>
-the modern FARDC was created out of the armed factions of the two Congo wars of 1996-1997 and 1998-2003; as part of the peace accords that ended the last war, the largest rebel groups were incorporated into the FARDC; many armed groups, however, continue to fight and as of 2022, there were over 100 illegal armed groups operating in the country by some estimates; as of 2022, the FARDC was actively engaged in combat operations against numerous armed groups, particularly in the eastern provinces of Ituri, North Kivu, and South Kivu, although there was also violence in Maniema, Kasai, Kasai Central, and Tanganyika provinces; the military is widely assessed as being unable to provide adequate security throughout the country due to insufficient training, poor morale and leadership, ill-discipline and corruption, low equipment readiness, a fractious ethnic makeup, and the sheer size of the country and diversity of armed rebel groups<br><br>as of 2022, one of the primary armed groups the FARDC was conducting operations against was the March 23 Movement (M23, aka Congolese Revolutionary Army), which resumed attacks, largely against civilians, in the DRC province of North Kivu in 2022 after having been defeated in 2013 by FARDC and UN forces; the M23's resurgence has raised tensions between the DRC and Rwanda, as the DRC Government claims Rwanda backs the M23, which it has labeled a terrorist group, charges that the Rwandan Government has denied; M23 attacks and fighting between the FARDC and M23 in 2022 has led to the displacement of more than 200,000 people; UN troops were supporting the FARDC's operations against M23<br><br>the United Nations Organization Stabilization Mission in the Democratic Republic of the Congo (MONUSCO) has operated in the central and eastern parts of the country since 1999; as of 2022, MONUSCO had around 15,000 military and police personnel; MONUSCO includes a Force Intervention Brigade (FIB; 3 infantry battalions, plus artillery and special forces), the first ever UN peacekeeping force specifically tasked to carry out targeted offensive operations to neutralize and disarm groups considered a threat to state authority and civilian security (2022)<br>
+<p>the FARDC’s primary focus is internal security; while the FARDC is large on paper, with an estimated 18 operational infantry brigades, it struggles to provide security in large portions of the country; the FARDC is widely assessed to suffer from insufficient training, low equipment readiness, poor morale and leadership, ill-discipline, and widespread corruption; it was created out of the armed factions of the Congo wars that ended in 2003, incorporating various militia, paramilitary, and rebel formations; the DRC’s most effective military force, the Republican Guard, is overseen by the office of the presidency rather than the FARDC and focuses largely on protecting the president and government institutions and enforcing internal security</p> <p>the FARDC is actively conducting operations against a variety of illegal armed groups (IOGs) operating in the DRC, particularly in the eastern provinces of Ituri, North Kivu, and South Kivu, where more than 15 significant and cohesive IOGs operate; there is also violence in Maniema, Kasai, Kasai Central, and Tanganyika provinces; some estimates place over 100 IOGs operating in the country, including organized militias, such as the Nduma Defense of Congo-Renewal (NDC-R), which controls a large portion of North Kivu; Mai Mai groups (local militias that operate variously as self-defense networks and criminal rackets); and foreign-origin groups seeking safe haven and resources, such as the Ugandan-origin Allied Democratic Forces (ADF; aka Islamic State of Iraq and ash-Sham in the DRC), the Democratic Forces for the Liberation of Rwanda (FDLR), multiple groups originating from Burundi, the Lords Resistance Army (LRA), and the March 23 Movement (aka M23 or Congolese Revolutionary Army), which the DRC has accused Rwanda of backing; the FARDC has been accused of collaborating with some IOGs, such as the NDC-R</p> the United Nations Organization Stabilization Mission in the Democratic Republic of the Congo (MONUSCO) has operated in the central and eastern parts of the country since 1999; as of 2022, MONUSCO had around 15,000 military and police personnel; MONUSCO includes a Force Intervention Brigade (FIB; 3 infantry battalions, plus artillery and special forces), the first ever UN peacekeeping force specifically tasked to carry out targeted offensive operations to neutralize and disarm groups considered a threat to state authority and civilian security (2023)<br>
 
 ## Terrorism
 
@@ -763,7 +760,7 @@ Islamic State of Iraq and ash-Sham – Democratic Republic of the Congo (ISIS-DR
 <p>heads of the Great Lakes states and UN pledged in 2004 to abate tribal, rebel, and militia fighting in the region, including northeast Congo<br><br><em>Democratic Republic of Congo(DRC)-Republic of the Congo: </em>the location of the boundary in the broad Congo River is indefinite except in the Pool Malebo/Stanley Pool area<br><br><em>Democratic Republic of Congo(DRC)-Uganda:</em> Uganda rejects the DRC claim to Margherita Peak in the Rwenzori mountains and considers it a boundary divide; there is tension and violence on Lake Albert over prospective oil reserves at the mouth of the Semliki River<br><br><em>Democratic Republic of Congo(DRC)-Zambia: </em>boundary commission continues discussions over Congolese-administered triangle of land on the right bank of the Lunkinda River claimed by Zambia near the DRC village of Pweto<br><br><em>Democratic Republic of Congo(DRC)-Angola: </em>DRC accuses Angola of shifting monuments</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 211,180 (Central African Republic), 208,789 (Rwanda), 55,829 (South Sudan) (refugees and asylum seekers), 43,623 (Burundi) (2022)<br>
+_refugees (country of origin)_: 208,789 (Rwanda) (2022); 211,245 (Central African Republic), 56,194 (South Sudan) (refugees and asylum seekers), 43,655 (Burundi) (2023)<br>
 _IDPs_: 5.52 million (fighting between government forces and rebels since mid-1990s; conflict in Kasai region since 2016) (2022)<br>
 
 **Trafficking in persons**<br>

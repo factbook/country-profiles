@@ -73,7 +73,7 @@ composed of four major island groups totaling 607 islands<br>
 ## People and Society
 
 **Population**<br>
-101,009 (2022 est.)<br>
+100,319 (2023 est.)<br>
 
 **Nationality**<br>
 _noun_: Micronesian(s)<br>
@@ -89,11 +89,9 @@ English (official and common language), Chuukese, Kosrean, Pohnpeian, Yapese, Ul
 Roman Catholic 54.7%, Protestant 41.1% (includes Congregational 38.5%, Baptist 1.1%, Seventh Day Adventist 0.8%, Assembly of God 0.7%), Church of Jesus Christ 1.5%, other 1.9%, none 0.7%, unspecified 0.1% (2010 est.)<br>
 
 **Age structure**<br>
-_0-14 years_: 28.24% (male 14,585/female 14,129)<br>
-_15-24 years_: 18.62% (male 9,473/female 9,461)<br>
-_25-54 years_: 40.81% (male 19,998/female 21,493)<br>
-_55-64 years_: 7.38% (male 3,602/female 3,898)<br>
-_65 years and over_: 4.95% (male 2,260/female 2,776) (2021 est.)<br>
+_0-14 years_: 27.41% (male 13,968/female 13,527)<br>
+_15-64 years_: 67.13% (male 32,721/female 34,627)<br>
+_65 years and over_: 5.46% (2023 est.) (male 2,433/female 3,043)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 57.7<br>
@@ -107,16 +105,16 @@ _male_: 25.5 years<br>
 _female_: 27.1 years (2020 est.)<br>
 
 **Population growth rate**<br>
--0.67% (2022 est.)<br>
+-0.7% (2023 est.)<br>
 
 **Birth rate**<br>
-18.39 births/1,000 population (2022 est.)<br>
+18.12 births/1,000 population (2023 est.)<br>
 
 **Death rate**<br>
-4.19 deaths/1,000 population (2022 est.)<br>
+4.2 deaths/1,000 population (2023 est.)<br>
 
 **Net migration rate**<br>
--20.91 migrant(s)/1,000 population (2022 est.)<br>
+-20.92 migrant(s)/1,000 population (2023 est.)<br>
 
 **Population distribution**<br>
 the majority of the populaton lives in the coastal areas of the high islands; the mountainous interior is largely uninhabited; less than half of the population lives in urban areas<br>
@@ -131,27 +129,25 @@ _rate of urbanization_: 1.52% annual rate of change (2020-25 est.)<br>
 **Sex ratio**<br>
 _at birth_: 1.05 male(s)/female<br>
 _0-14 years_: 1.03 male(s)/female<br>
-_15-24 years_: 1 male(s)/female<br>
-_25-54 years_: 0.92 male(s)/female<br>
-_55-64 years_: 0.92 male(s)/female<br>
-_65 years and over_: 0.57 male(s)/female<br>
-_total population_: 0.96 male(s)/female (2022 est.)<br>
+_15-64 years_: 0.94 male(s)/female<br>
+_65 years and over_: 0.8 male(s)/female<br>
+_total population_: 0.96 male(s)/female (2023 est.)<br>
 
 **Maternal mortality ratio**<br>
 88 deaths/100,000 live births (2017 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 21.9 deaths/1,000 live births<br>
-_male_: 25.02 deaths/1,000 live births<br>
-_female_: 18.63 deaths/1,000 live births (2022 est.)<br>
+_total_: 21.37 deaths/1,000 live births<br>
+_male_: 24.4 deaths/1,000 live births<br>
+_female_: 18.19 deaths/1,000 live births (2023 est.)<br>
 
 **Life expectancy at birth**<br>
-_total population_: 74.44 years<br>
-_male_: 72.34 years<br>
-_female_: 76.66 years (2022 est.)<br>
+_total population_: 74.71 years<br>
+_male_: 72.61 years<br>
+_female_: 76.91 years (2023 est.)<br>
 
 **Total fertility rate**<br>
-2.24 children born/woman (2022 est.)<br>
+2.22 children born/woman (2023 est.)<br>
 
 **Gross reproduction rate**<br>
 1.08 (2023 est.)<br>

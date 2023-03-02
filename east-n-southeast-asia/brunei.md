@@ -71,7 +71,7 @@ close to vital sea lanes through South China Sea linking Indian and Pacific Ocea
 ## People and Society
 
 **Population**<br>
-478,054 (2022 est.)<br>
+484,991 (2023 est.)<br>
 <strong>note:</strong> immigrants make up approximately 26% of the total population, according to UN data (2019)<br>
 
 **Nationality**<br>
@@ -92,11 +92,9 @@ Muslim (official) 82.1%, Christian 6.7%, Buddhist 6.3%, other 4.9% (2021 est.)<b
 <p>Brunei is a small, oil-rich sultanate of less than half a million people, making it the smallest country in Southeast Asia by population.  Its total fertility rate – the average number of births per woman – has been steadily declining over the last few decades, from over 3.5 in the 1980s to below replacement level today at nearly 1.8.  The trend is due to women’s increased years of education and participation in the workforce, which have resulted in later marriages and fewer children.  Yet, the population continues to grow because of the large number of women of reproductive age and a reliance on foreign labor – mainly from Malaysia, Thailand, the Philippines, Indonesia, and South Asian countries – to fill low-skilled jobs.</p> <p>Brunei is officially Muslim, and Malay is the official language.  The country follows an official Malay national ideology, Malay Islamic Monarchy, which promotes Malay language and culture, Islamic values, and the monarchy.  Only seven of Brunei’s native groups are recognized in the constitution and are defined as “Malay” – Brunei Malays, Belait, Kedayan, Dusun, Bisayak, Lun Bawang, and Sama-Baiau.  Together they make up about 66% percent of the population and are referred to as the Bumiputera.  The Bumiputera are entitled to official privileges, including land ownership, access to certain types of employment (Royal Brunei Armed Forces and Brunei Shell Petroleum), easier access to higher education, and better job opportunities in the civil service. </p> <p>Brunei’s Chinese population descends from migrants who arrived when Brunei was a British protectorate (1888 and 1984).  They are prominent in the non-state commercial sector and account for approximately 10% of the population.  Most Bruneian Chinese are permanent residents rather than citizens despite roots going back several generations.  Many are stateless and are denied rights granted to citizens, such as land ownership, subsidized health care, and free secondary and university education.  Because of the discriminatory policies, the number of Chinese in Brunei has shrunk considerably in the last 50 years.  Native ethnic groups that are not included in the Bumiputera are not recognized in the constitution and are not officially identified as “Malay” or automatically granted citizenship.  Foreign workers constitute some quarter of the labor force.</p><br>
 
 **Age structure**<br>
-_0-14 years_: 22.41% (male 53,653/female 50,446)<br>
-_15-24 years_: 16.14% (male 37,394/female 37,559)<br>
-_25-54 years_: 47.21% (male 103,991/female 115,291)<br>
-_55-64 years_: 8.34% (male 19,159/female 19,585)<br>
-_65 years and over_: 5.9% (male 13,333/female 14,067) (2020 est.)<br>
+_0-14 years_: 21.83% (male 54,523/female 51,334)<br>
+_15-64 years_: 71.07% (male 164,957/female 179,721)<br>
+_65 years and over_: 7.1% (2023 est.) (male 16,748/female 17,708)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 39.2<br>
@@ -110,16 +108,16 @@ _male_: 30.5 years<br>
 _female_: 31.8 years (2020 est.)<br>
 
 **Population growth rate**<br>
-1.45% (2022 est.)<br>
+1.43% (2023 est.)<br>
 
 **Birth rate**<br>
-16.14 births/1,000 population (2022 est.)<br>
+15.98 births/1,000 population (2023 est.)<br>
 
 **Death rate**<br>
-3.79 deaths/1,000 population (2022 est.)<br>
+3.85 deaths/1,000 population (2023 est.)<br>
 
 **Net migration rate**<br>
-2.18 migrant(s)/1,000 population (2022 est.)<br>
+2.15 migrant(s)/1,000 population (2023 est.)<br>
 
 **Urbanization**<br>
 _urban population_: 79.1% of total population (2023)<br>
@@ -132,27 +130,25 @@ _rate of urbanization_: 1.44% annual rate of change (2020-25 est.)<br>
 **Sex ratio**<br>
 _at birth_: 1.05 male(s)/female<br>
 _0-14 years_: 1.06 male(s)/female<br>
-_15-24 years_: 1 male(s)/female<br>
-_25-54 years_: 0.89 male(s)/female<br>
-_55-64 years_: 0.94 male(s)/female<br>
-_65 years and over_: 0.74 male(s)/female<br>
-_total population_: 0.95 male(s)/female (2022 est.)<br>
+_15-64 years_: 0.92 male(s)/female<br>
+_65 years and over_: 0.95 male(s)/female<br>
+_total population_: 0.95 male(s)/female (2023 est.)<br>
 
 **Maternal mortality ratio**<br>
 31 deaths/100,000 live births (2017 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 10.52 deaths/1,000 live births<br>
-_male_: 12.88 deaths/1,000 live births<br>
-_female_: 8.05 deaths/1,000 live births (2022 est.)<br>
+_total_: 10.26 deaths/1,000 live births<br>
+_male_: 12.55 deaths/1,000 live births<br>
+_female_: 7.86 deaths/1,000 live births (2023 est.)<br>
 
 **Life expectancy at birth**<br>
-_total population_: 78.38 years<br>
-_male_: 76.01 years<br>
-_female_: 80.86 years (2022 est.)<br>
+_total population_: 78.61 years<br>
+_male_: 76.26 years<br>
+_female_: 81.08 years (2023 est.)<br>
 
 **Total fertility rate**<br>
-1.74 children born/woman (2022 est.)<br>
+1.74 children born/woman (2023 est.)<br>
 
 **Gross reproduction rate**<br>
 0.85 (2023 est.)<br>
@@ -650,9 +646,9 @@ Royal Brunei Armed Forces: Land Force, Navy, Air Force, Joint Force (2022)<br>
 **Military expenditures**<br>
 3.1% of GDP (2021 est.)<br>
 3.7% of GDP (2020 est.)<br>
-3.1% of GDP (2019) (approximately $870 million)<br>
-2.7% of GDP (2018) (approximately $720 million)<br>
-2.8% of GDP (2017) (approximately $750 million)<br>
+3.1% of GDP (2019)<br>
+2.7% of GDP (2018)<br>
+2.8% of GDP (2017)<br>
 
 **Military and security service personnel strengths**<br>
 approximately 6,000 total active troops (4,000 Army; 1,000 Navy; 1,000 Air Force) (2022)<br>

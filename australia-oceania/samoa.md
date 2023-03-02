@@ -73,7 +73,7 @@ occupies an almost central position within Polynesia<br>
 ## People and Society
 
 **Population**<br>
-206,179 (2022 est.)<br>
+207,501 (2023 est.)<br>
 
 **Nationality**<br>
 _noun_: Samoan(s)<br>
@@ -90,11 +90,9 @@ Samoan (Polynesian) (official) 91.1%, Samoan/English 6.7%, English (official) 0.
 Protestant 54.9% (Congregationalist 29%, Methodist 12.4%, Assembly of God 6.8%, Seventh Day Adventist 4.4%, other Protestant 2.3%), Roman Catholic 18.8%, Church of Jesus Christ 16.9%, Worship Centre 2.8%, other Christian 3.6%, other 2.9% (includes Baha'i, Muslim), none 0.2% (2016 est.)<br>
 
 **Age structure**<br>
-_0-14 years_: 29.31% (male 30,825/female 28,900)<br>
-_15-24 years_: 19.61% (male 20,519/female 19,439)<br>
-_25-54 years_: 37.4% (male 39,011/female 37,200)<br>
-_55-64 years_: 7.5% (male 7,780/female 7,505)<br>
-_65 years and over_: 6.18% (male 5,513/female 7,082) (2020 est.)<br>
+_0-14 years_: 27.33% (male 29,259/female 27,452)<br>
+_15-64 years_: 65.72% (male 69,635/female 66,745)<br>
+_65 years and over_: 6.94% (2023 est.) (male 6,415/female 7,995)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 74.9<br>
@@ -108,16 +106,16 @@ _male_: 25.3 years<br>
 _female_: 26 years (2020 est.)<br>
 
 **Population growth rate**<br>
-0.63% (2022 est.)<br>
+0.65% (2023 est.)<br>
 
 **Birth rate**<br>
-19.21 births/1,000 population (2022 est.)<br>
+19.03 births/1,000 population (2023 est.)<br>
 
 **Death rate**<br>
-5.37 deaths/1,000 population (2022 est.)<br>
+5.38 deaths/1,000 population (2023 est.)<br>
 
 **Net migration rate**<br>
--7.51 migrant(s)/1,000 population (2022 est.)<br>
+-7.19 migrant(s)/1,000 population (2023 est.)<br>
 
 **Population distribution**<br>
 about three-quarters of the population lives on the island of Upolu<br>
@@ -132,27 +130,25 @@ _rate of urbanization_: -0.03% annual rate of change (2020-25 est.)<br>
 **Sex ratio**<br>
 _at birth_: 1.05 male(s)/female<br>
 _0-14 years_: 1.07 male(s)/female<br>
-_15-24 years_: 1.06 male(s)/female<br>
-_25-54 years_: 1.05 male(s)/female<br>
-_55-64 years_: 1.05 male(s)/female<br>
-_65 years and over_: 0.61 male(s)/female<br>
-_total population_: 1.03 male(s)/female (2022 est.)<br>
+_15-64 years_: 1.04 male(s)/female<br>
+_65 years and over_: 0.8 male(s)/female<br>
+_total population_: 1.03 male(s)/female (2023 est.)<br>
 
 **Maternal mortality ratio**<br>
 43 deaths/100,000 live births (2017 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 18 deaths/1,000 live births<br>
-_male_: 21.76 deaths/1,000 live births<br>
-_female_: 14.05 deaths/1,000 live births (2022 est.)<br>
+_total_: 17.76 deaths/1,000 live births<br>
+_male_: 21.29 deaths/1,000 live births<br>
+_female_: 14.06 deaths/1,000 live births (2023 est.)<br>
 
 **Life expectancy at birth**<br>
-_total population_: 75.19 years<br>
-_male_: 72.28 years<br>
-_female_: 78.25 years (2022 est.)<br>
+_total population_: 75.46 years<br>
+_male_: 72.58 years<br>
+_female_: 78.48 years (2023 est.)<br>
 
 **Total fertility rate**<br>
-2.42 children born/woman (2022 est.)<br>
+2.37 children born/woman (2023 est.)<br>
 
 **Gross reproduction rate**<br>
 1.16 (2023 est.)<br>

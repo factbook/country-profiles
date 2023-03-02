@@ -85,7 +85,7 @@ only South American country with coastlines on both the North Pacific Ocean and 
 ## People and Society
 
 **Population**<br>
-49,059,221 (2022 est.)<br>
+49,336,454 (2023 est.)<br>
 
 **Nationality**<br>
 _noun_: Colombian(s)<br>
@@ -105,11 +105,9 @@ Christian 92.3% (predominantly Roman Catholic), other 1%, unspecified 6.7% (2020
 <p>Colombia is in the midst of a demographic transition resulting from steady declines in its fertility, mortality, and population growth rates. The birth rate has fallen from more than 6 children per woman in the 1960s to just above replacement level today as a result of increased literacy, family planning services, and urbanization. However, income inequality is among the worst in the world, and more than a third of the population lives below the poverty line.</p><p>Colombia experiences significant legal and illegal economic emigration and refugee outflows. Large-scale labor emigration dates to the 1960s; the United States and, until recently, Venezuela have been the main host countries. Emigration to Spain picked up in the 1990s because of its economic growth, but this flow has since diminished because of Spain’s ailing economy and high unemployment. Colombia has been the largest source of Latin American refugees in Latin America, nearly 400,000 of whom live primarily in Venezuela and Ecuador. Venezuela’s political and economic crisis since 2015, however, has created a reverse flow, consisting largely of Colombians returning home.</p><p>Forced displacement continues to be prevalent because of violence among guerrillas, paramilitary groups, and Colombian security forces. Afro-Colombian and indigenous populations are disproportionately affected. Even with the Colombian Government’s December 2016 peace agreement with the Revolutionary Armed Forces of Colombia (FARC), the risk of displacement remains as other rebel groups fill the void left by the FARC. Between 1985 and September 2017, nearly 7.6 million persons have been internally displaced, the highest total in the world. These estimates may undercount actual numbers because many internally displaced persons are not registered. Historically, Colombia also has one of the world’s highest levels of forced disappearances. About 30,000 cases have been recorded over the last four decades—although the number is likely to be much higher—including human rights activists, trade unionists, Afro-Colombians, indigenous people, and farmers in rural conflict zones.</p><p>Because of political violence and economic problems, Colombia received limited numbers of immigrants during the 19th and 20th centuries, mostly from the Middle East, Europe, and Japan. More recently, growth in the oil, mining, and manufacturing sectors has attracted increased labor migration; the primary source countries are Venezuela, the US, Mexico, and Argentina. Colombia has also become a transit area for illegal migrants from Africa, Asia, and the Caribbean -- especially Haiti and Cuba -- who are en route to the US or Canada.</p><br>
 
 **Age structure**<br>
-_0-14 years_: 23.27% (male 5,853,351/female 5,567,196)<br>
-_15-24 years_: 16.38% (male 4,098,421/female 3,939,870)<br>
-_25-54 years_: 42.04% (male 10,270,516/female 10,365,423)<br>
-_55-64 years_: 9.93% (male 2,307,705/female 2,566,173)<br>
-_65 years and over_: 8.39% (male 1,725,461/female 2,390,725) (2020 est.)<br>
+_0-14 years_: 22.45% (male 5,663,590/female 5,413,209)<br>
+_15-64 years_: 66.66% (male 16,066,724/female 16,820,068)<br>
+_65 years and over_: 10.89% (2023 est.) (male 2,367,369/female 3,005,494)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 43.5<br>
@@ -123,16 +121,16 @@ _male_: 30.2 years<br>
 _female_: 32.2 years (2020 est.)<br>
 
 **Population growth rate**<br>
-0.59% (2022 est.)<br>
+0.54% (2023 est.)<br>
 
 **Birth rate**<br>
-15.21 births/1,000 population (2022 est.)<br>
+15.06 births/1,000 population (2023 est.)<br>
 
 **Death rate**<br>
-7.73 deaths/1,000 population (2022 est.)<br>
+7.84 deaths/1,000 population (2023 est.)<br>
 
 **Net migration rate**<br>
--1.58 migrant(s)/1,000 population (2022 est.)<br>
+-1.85 migrant(s)/1,000 population (2023 est.)<br>
 
 **Population distribution**<br>
 the majority of people live in the north and west where agricultural opportunities and natural resources are found; the vast grasslands of the llanos to the south and east, which make up approximately 60% of the country, are sparsely populated<br>
@@ -147,11 +145,9 @@ _rate of urbanization_: 1.01% annual rate of change (2020-25 est.)<br>
 **Sex ratio**<br>
 _at birth_: 1.05 male(s)/female<br>
 _0-14 years_: 1.05 male(s)/female<br>
-_15-24 years_: 1.04 male(s)/female<br>
-_25-54 years_: 0.94 male(s)/female<br>
-_55-64 years_: 0.85 male(s)/female<br>
-_65 years and over_: 0.65 male(s)/female<br>
-_total population_: 0.96 male(s)/female (2022 est.)<br>
+_15-64 years_: 0.96 male(s)/female<br>
+_65 years and over_: 0.79 male(s)/female<br>
+_total population_: 0.95 male(s)/female (2023 est.)<br>
 
 **Mother's mean age at first birth**<br>
 21.7 years (2015 est.)<br>
@@ -163,15 +159,15 @@ _total population_: 0.96 male(s)/female (2022 est.)<br>
 **Infant mortality rate**<br>
 _total_: 11.65 deaths/1,000 live births<br>
 _male_: 13.07 deaths/1,000 live births<br>
-_female_: 10.15 deaths/1,000 live births (2022 est.)<br>
+_female_: 10.15 deaths/1,000 live births (2023 est.)<br>
 
 **Life expectancy at birth**<br>
 _total population_: 74.89 years<br>
 _male_: 71.27 years<br>
-_female_: 78.69 years (2022 est.)<br>
+_female_: 78.69 years (2023 est.)<br>
 
 **Total fertility rate**<br>
-1.95 children born/woman (2022 est.)<br>
+1.94 children born/woman (2023 est.)<br>
 
 **Gross reproduction rate**<br>
 0.95 (2023 est.)<br>
@@ -728,9 +724,9 @@ Military Forces of Colombia (Fuerzas Militares de Colombia<em lang="es">)</em>: 
 **Military expenditures**<br>
 3% of GDP (2021 est.)<br>
 3% of GDP (2020 est.)<br>
-3.1% of GDP (2019) (approximately $19.6 billion)<br>
-3.1% of GDP (2018) (approximately $18.6 billion)<br>
-3.2% of GDP (2017) (approximately $18.3 billion)<br>
+3.1% of GDP (2019)<br>
+3.1% of GDP (2018)<br>
+3.2% of GDP (2017)<br>
 
 **Military and security service personnel strengths**<br>
 approximately 260,000 total active troops (200,000 Army; 45,000 Navy, including about 20,000 marines; 14,000 Air Force); approximately 170,000 National Police (2022)<br>

@@ -77,7 +77,7 @@ Azores and Madeira Islands occupy strategic locations along western sea approach
 ## People and Society
 
 **Population**<br>
-10,242,081 (2022 est.)<br>
+10,223,150 (2023 est.)<br>
 
 **Nationality**<br>
 _noun_: Portuguese (singular and plural)<br>
@@ -94,11 +94,9 @@ Roman Catholic 81%, other Christian 3.3%, other (includes Jewish, Muslim) 0.6%, 
 <strong>note:</strong> data represent population 15 years of age and older<br>
 
 **Age structure**<br>
-_0-14 years_: 13.58% (male 716,102/female 682,582)<br>
-_15-24 years_: 10.94% (male 580,074/female 547,122)<br>
-_25-54 years_: 41.49% (male 2,109,693/female 2,164,745)<br>
-_55-64 years_: 13.08% (male 615,925/female 731,334)<br>
-_65 years and over_: 20.92% (male 860,198/female 1,294,899) (2020 est.)<br>
+_0-14 years_: 12.85% (male 672,673/female 641,409)<br>
+_15-64 years_: 65.18% (male 3,274,201/female 3,389,374)<br>
+_65 years and over_: 21.96% (2023 est.) (male 895,576/female 1,349,917)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 56<br>
@@ -112,16 +110,16 @@ _male_: 42.7 years<br>
 _female_: 46.5 years (2020 est.)<br>
 
 **Population growth rate**<br>
--0.2% (2022 est.)<br>
+-0.17% (2023 est.)<br>
 
 **Birth rate**<br>
-8 births/1,000 population (2022 est.)<br>
+7.99 births/1,000 population (2023 est.)<br>
 
 **Death rate**<br>
-10.9 deaths/1,000 population (2022 est.)<br>
+10.9 deaths/1,000 population (2023 est.)<br>
 
 **Net migration rate**<br>
-0.91 migrant(s)/1,000 population (2022 est.)<br>
+1.2 migrant(s)/1,000 population (2023 est.)<br>
 
 **Population distribution**<br>
 concentrations are primarily along or near the Atlantic coast; both Lisbon and the second largest city, Porto, are coastal cities<br>
@@ -136,11 +134,9 @@ _rate of urbanization_: 0.44% annual rate of change (2020-25 est.)<br>
 **Sex ratio**<br>
 _at birth_: 1.05 male(s)/female<br>
 _0-14 years_: 1.05 male(s)/female<br>
-_15-24 years_: 1.06 male(s)/female<br>
-_25-54 years_: 0.98 male(s)/female<br>
-_55-64 years_: 0.85 male(s)/female<br>
-_65 years and over_: 0.55 male(s)/female<br>
-_total population_: 0.9 male(s)/female (2022 est.)<br>
+_15-64 years_: 0.97 male(s)/female<br>
+_65 years and over_: 0.66 male(s)/female<br>
+_total population_: 0.9 male(s)/female (2023 est.)<br>
 
 **Mother's mean age at first birth**<br>
 29.9 years (2020 est.)<br>
@@ -149,17 +145,17 @@ _total population_: 0.9 male(s)/female (2022 est.)<br>
 8 deaths/100,000 live births (2017 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 2.5 deaths/1,000 live births<br>
-_male_: 2.86 deaths/1,000 live births<br>
-_female_: 2.12 deaths/1,000 live births (2022 est.)<br>
+_total_: 2.47 deaths/1,000 live births<br>
+_male_: 2.83 deaths/1,000 live births<br>
+_female_: 2.1 deaths/1,000 live births (2023 est.)<br>
 
 **Life expectancy at birth**<br>
-_total population_: 81.5 years<br>
-_male_: 78.37 years<br>
-_female_: 84.79 years (2022 est.)<br>
+_total population_: 81.71 years<br>
+_male_: 78.6 years<br>
+_female_: 84.98 years (2023 est.)<br>
 
 **Total fertility rate**<br>
-1.43 children born/woman (2022 est.)<br>
+1.44 children born/woman (2023 est.)<br>
 
 **Gross reproduction rate**<br>
 0.7 (2023 est.)<br>
@@ -719,7 +715,7 @@ Islamic State of Iraq and ash-Sham (ISIS)<br>
 <p><em>Portugal-Spain</em>: Portugal does not recognize Spanish sovereignty over the territory of Olivenza based on a difference of interpretation of the 1815 Congress of Vienna and the 1801 Treaty of Badajoz</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 57,859 (Ukraine) (as of 12 February 2023)<br>
+_refugees (country of origin)_: 58,242 (Ukraine) (as of 26 February 2023)<br>
 _stateless persons_: 55 (2022)<br>
 
 **Illicit drugs**<br>

@@ -82,7 +82,7 @@ hot, dry, dusty harmattan winds occur in north; periodic droughts; locust plague
 ## People and Society
 
 **Population**<br>
-17,963,211 (2022 est.)<br>
+18,523,165 (2023 est.)<br>
 
 **Nationality**<br>
 _noun_: Chadian(s)<br>
@@ -102,11 +102,9 @@ Muslim 52.1%, Protestant 23.9%, Roman Catholic 20%, animist 0.3%, other Christia
 <p>Despite the start of oil production in 2003, around 40% of Chad’s population lived below the poverty line as of 2018. The population will continue to grow rapidly because of the country’s very high fertility rate and large youth cohort – more than 65% of the populace is under the age of 25 as of 2022 – although the mortality rate is high and life expectancy is low. Chad has the world’s second highest maternal mortality rate as of 2017. Among the primary risk factors are poverty, anemia, rural habitation, high fertility, poor education, and a lack of access to family planning and obstetric care. Impoverished, uneducated adolescents living in rural areas are most affected. To improve women’s reproductive health and reduce fertility, Chad will need to increase women’s educational attainment, job participation, and knowledge of and access to family planning. Less than a quarter of women are literate, less than 10% use contraceptives, and more than 40% undergo genital cutting.</p> <p>As of December 2022, more than 403,000 refugees from Sudan and more than 120,000 from the Central African Republic strain Chad’s limited resources and create tensions in host communities. Thousands of new refugees fled to Chad in 2013 to escape worsening violence in the Darfur region of Sudan. The large refugee populations are hesitant to return to their home countries because of continued instability. Chad was relatively stable in 2012 in comparison to other states in the region, but past fighting between government forces and opposition groups and inter-communal violence have left more than 380,000 of its citizens displaced in the eastern part of the country as of 2022.</p><br>
 
 **Age structure**<br>
-_0-14 years_: 47.43% (male 4,050,505/female 3,954,413)<br>
-_15-24 years_: 19.77% (male 1,676,495/female 1,660,417)<br>
-_25-54 years_: 27.14% (male 2,208,181/female 2,371,490)<br>
-_55-64 years_: 3.24% (male 239,634/female 306,477)<br>
-_65 years and over_: 2.43% (male 176,658/female 233,087) (2020 est.)<br>
+_0-14 years_: 46.24% (male 4,334,264/female 4,231,658)<br>
+_15-64 years_: 51.27% (male 4,646,510/female 4,849,878)<br>
+_65 years and over_: 2.49% (2023 est.) (male 197,450/female 263,405)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 98.7<br>
@@ -120,16 +118,16 @@ _male_: 15.6 years<br>
 _female_: 16.5 years (2020 est.)<br>
 
 **Population growth rate**<br>
-3.09% (2022 est.)<br>
+3.05% (2023 est.)<br>
 
 **Birth rate**<br>
-40.45 births/1,000 population (2022 est.)<br>
+39.85 births/1,000 population (2023 est.)<br>
 
 **Death rate**<br>
-9.45 deaths/1,000 population (2022 est.)<br>
+9.21 deaths/1,000 population (2023 est.)<br>
 
 **Net migration rate**<br>
--0.13 migrant(s)/1,000 population (2022 est.)<br>
+-0.12 migrant(s)/1,000 population (2023 est.)<br>
 
 **Population distribution**<br>
 the population is unevenly distributed due to contrasts in climate and physical geography; the highest density is found in the southwest, particularly around Lake Chad and points south; the dry Saharan zone to the north is the least densely populated as shown in this population distribution map<br>
@@ -144,11 +142,9 @@ _rate of urbanization_: 4.1% annual rate of change (2020-25 est.)<br>
 **Sex ratio**<br>
 _at birth_: 1.04 male(s)/female<br>
 _0-14 years_: 1.02 male(s)/female<br>
-_15-24 years_: 1.01 male(s)/female<br>
-_25-54 years_: 0.92 male(s)/female<br>
-_55-64 years_: 0.77 male(s)/female<br>
-_65 years and over_: 0.69 male(s)/female<br>
-_total population_: 0.98 male(s)/female (2022 est.)<br>
+_15-64 years_: 0.96 male(s)/female<br>
+_65 years and over_: 0.75 male(s)/female<br>
+_total population_: 0.98 male(s)/female (2023 est.)<br>
 
 **Mother's mean age at first birth**<br>
 18.1 years (2014/15 est.)<br>
@@ -158,17 +154,17 @@ _total population_: 0.98 male(s)/female (2022 est.)<br>
 1,140 deaths/100,000 live births (2017 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 65.48 deaths/1,000 live births<br>
-_male_: 71.21 deaths/1,000 live births<br>
-_female_: 59.52 deaths/1,000 live births (2022 est.)<br>
+_total_: 63.99 deaths/1,000 live births<br>
+_male_: 69.63 deaths/1,000 live births<br>
+_female_: 58.11 deaths/1,000 live births (2023 est.)<br>
 
 **Life expectancy at birth**<br>
-_total population_: 59.15 years<br>
-_male_: 57.32 years<br>
-_female_: 61.06 years (2022 est.)<br>
+_total population_: 59.57 years<br>
+_male_: 57.71 years<br>
+_female_: 61.51 years (2023 est.)<br>
 
 **Total fertility rate**<br>
-5.46 children born/woman (2022 est.)<br>
+5.35 children born/woman (2023 est.)<br>
 
 **Gross reproduction rate**<br>
 2.62 (2023 est.)<br>
@@ -699,9 +695,9 @@ Chadian National Army (Armee Nationale du Tchad, ANT): Ground Forces (l'Armee de
 **Military expenditures**<br>
 2.5% of GDP (2021 est.)<br>
 2.9% of GDP (2020 est.)<br>
-2% of GDP (2019 est.) (approximately $320 million)<br>
-2% of GDP (2018 est.) (approximately $310 million)<br>
-2% of GDP (2017 est.) (approximately $310 million)<br>
+2% of GDP (2019 est.)<br>
+2% of GDP (2018 est.)<br>
+2% of GDP (2017 est.)<br>
 
 **Military and security service personnel strengths**<br>
 limited and varied information; estimated to have up to 35,000 active ANT personnel (25-30,000 Ground Forces; 300 Air Force; approximately 5,000 GDSSIE); approximately 5,000 National Gendarmerie; approximately 3,000 Nomadic Guard (2022)<br>
@@ -717,7 +713,7 @@ the ANT is mostly armed with older or secondhand equipment from Belgium, France,
 <strong>note 1:</strong> Chad has committed approximately 1,000-1,500 troops to the Multinational Joint Task Force (MNJTF) against Boko Haram and other terrorist groups operating in the general area of the Lake Chad Basin and along Nigeria's northeast border; national MNJTF troop contingents are deployed within their own territories, although cross‐border operations are conducted periodically; in 2019, Chad sent more than 1,000 troops to Nigeria’s Borno State to fight Boko Haram as part of the MNJTF mission<br><br><strong>note 2: </strong>Chad is also part of a four (formerly five)-nation anti-jihadist task force known as the G4 Sahel Group, set up in 2014 with Chad, Mali (withdrew in 2022), Mauritania, and Niger; it has committed 550 troops and 100 gendarmes to the force; as of 2020, defense forces from each of the participating states were allowed to pursue terrorist fighters up to 100 km into neighboring countries; the force is backed by France, the UN, and the US<br>
 
 **Military - note**<br>
-as of 2022, the ANT was chiefly focused on counterterrorism and counterinsurgency operations; it was engaged with the Boko Haram (BH) and the Islamic State in West Africa (ISWA) terrorist groups in the Lake Chad Basin area (primarily the Lac Province) and in the Sahel, particularly the tri-border area with Burkina Faso, Mali, and Niger; in addition, the ANT was conducting operations against internal anti-government militias and armed dissident groups<br><br>several rebel groups operate in northern Chad from bases in southern Libya, including the FACT (Front pour le Changement et la Concorde au Tchad), the Military Command Council for the Salvation of the Republic le Conseil de Commandement Militaire pour le salut de la République or CCSMR), the Union of Forces for Democracy and Development (le Union des Forces pour la Démocratie et le Développement or UFDD), and the Union of Resistance Forces (le Union des Forces de la Résistance UFR); former Chadian President Idriss DEBY<strong> </strong>was killed in April 2021 during fighting in the northern part of the country between the FACT and the Chadian Army; some armed groups, including the UFDD and UFR, signed an accord in August 2022 in return for the release of prisoners, amnesty, and an end to hostilities between the Chadian Government and these armed factions; however, other armed groups, including the FACT and CCSMR, refused to join the accord (2022)<br>
+the ANT has considerable combat experience against insurgents and terrorist groups and is considered one of the more effective militaries in the region, although its performance has been viewed as uneven, and it has a tradition of deep involvement in domestic politics; over the past decade, the ANT has received considerable foreign military assistance, particularly from France, which maintains a military base in N’Djamena; the ANT's current operational focus is on counterterrorism and counterinsurgency operations; it is engaged with the Boko Haram and Islamic State of Iraq and ash-Sham in West Africa terrorist groups in the Lake Chad Basin area (primarily the Lac Province) and in the Sahel, particularly the tri-border area with Burkina Faso, Mali, and Niger; in addition, the ANT conducts frequent operations against internal anti-government militias and armed dissident groups <br><br>several rebel groups operate in northern Chad from bases in southern Libya, including the FACT (Front pour le Changement et la Concorde au Tchad), the Military Command Council for the Salvation of the Republic le Conseil de Commandement Militaire pour le salut de la République or CCSMR), the Union of Forces for Democracy and Development (le Union des Forces pour la Démocratie et le Développement or UFDD), and the Union of Resistance Forces (le Union des Forces de la Résistance UFR); former Chadian President Idriss DEBY<strong> </strong>was killed in April 2021 during fighting in the northern part of the country between the FACT and the Chadian Army; some armed groups, including the UFDD and UFR, signed an accord in August 2022 in return for the release of prisoners, amnesty, and an end to hostilities between the Chadian Government and these armed factions; however, other armed groups, including the FACT and CCSMR, refused to join the accord (2023)<br>
 
 ## Terrorism
 
@@ -731,8 +727,8 @@ Boko Haram; Islamic State of Iraq and ash-Sham - West Africa (ISIS-WA)<br>
 <p>since 2003, ad hoc armed militia groups and the Sudanese military have driven hundreds of thousands of Darfur residents into Chad; Chad wishes to be a helpful mediator in resolving the Darfur conflict, and in 2010 established a joint border monitoring force with Sudan, which has helped to reduce cross-border banditry and violence; only Nigeria and Cameroon have heeded the Lake Chad Commission's admonition to ratify the delimitation treaty, which also includes the Chad-Niger and Niger-Nigeria boundaries</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 403,846 (Sudan), 42,597 (Cameroon) (2022); 124,545 (Central African Republic), 20,498 (Nigeria) (2023)<br>
-_IDPs_: 381,289 (majority are in the east) (2022)<br>
+_refugees (country of origin)_: 405,239 (Sudan), 124,545 (Central African Republic), 42,607 (Cameroon), 20,498 (Nigeria) (2023)<br>
+_IDPs_: 381,289 (majority are in the east) (2023)<br>
 
 **Trafficking in persons**<br>
 _tier rating_: Tier 2 Watch List &mdash; Chad does not fully meet the minimum standards for the elimination of trafficking but is making significant efforts to do so; officials investigated trafficking cases and finalized a National Action Plan for 2021-2022 and began implementation of standard operating procedures and a National Referral Mechanism for identifying and referring victims for care; however, the government did not demonstrate overall increased efforts to increase anti-trafficking capacity; government turnover hindered Chad&rsquo;s ability to maintain consistent anti-trafficking efforts and reporting; authorities did not report prosecuting or convicting any traffickers, identifying victims, or conducting awareness campaigns; nonetheless, because the government has devoted sufficient resources to a written plan that, if implemented, would constitute significant efforts to meet the minimum standards, Chad was granted a waiver per the TVPA from downgrade to Tier 3; therefore, Chad remained on Tier 2 Watch List for the third consecutive year (2022)<br>

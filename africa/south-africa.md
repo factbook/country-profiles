@@ -86,7 +86,7 @@ South Africa completely surrounds Lesotho and almost completely surrounds Eswati
 ## People and Society
 
 **Population**<br>
-57,516,665 (2022 est.)<br>
+58,048,332 (2023 est.)<br>
 
 **Nationality**<br>
 _noun_: South African(s)<br>
@@ -107,11 +107,9 @@ Christian 86%, ancestral, tribal, animist, or other traditional African religion
 <p>South Africa’s youthful population is gradually aging, as the country’s total fertility rate (TFR) has declined dramatically from about 6 children per woman in the 1960s to roughly 2.2 in 2014, and has remained at this level as of 2022. This pattern is similar to fertility trends in South Asia, the Middle East, and North Africa, and sets South Africa apart from the rest of Sub-Saharan Africa, where the average TFR remains higher than other regions of the world. Today, South Africa’s decreasing number of reproductive age women is having fewer children, as women increase their educational attainment, workforce participation, and use of family planning methods; delay marriage; and opt for smaller families.</p> <p>As the proportion of working-age South Africans has grown relative to children and the elderly, South Africa has been unable to achieve a demographic dividend because persistent high unemployment and the prevalence of HIV/AIDs have created a larger-than-normal dependent population. HIV/AIDS was also responsible for South Africa’s average life expectancy plunging to less than 43 years in 2008; it has rebounded to 65 years as of 2022. HIV/AIDS continues to be a serious public health threat, although awareness-raising campaigns and the wider availability of anti-retroviral drugs is stabilizing the number of new cases, enabling infected individuals to live longer, healthier lives, and reducing mother-child transmissions.</p> <p>Migration to South Africa began in the second half of the 17th century when traders from the Dutch East India Company settled in the Cape and started using slaves from South and southeast Asia (mainly from India but also from present-day Indonesia, Bangladesh, Sri Lanka, and Malaysia) and southeast Africa (Madagascar and Mozambique) as farm laborers and, to a lesser extent, as domestic servants. The Indian subcontinent remained the Cape Colony’s main source of slaves in the early 18th century, while slaves were increasingly obtained from southeast Africa in the latter part of the 18th century and into the 19th century under British rule.</p> <p>After slavery was completely abolished in the British Empire in 1838, South Africa’s colonists turned to temporary African migrants and indentured labor through agreements with India and later China, countries that were anxious to export workers to alleviate domestic poverty and overpopulation. Of the more than 150,000 indentured Indian laborers hired to work in Natal’s sugar plantations between 1860 and 1911, most exercised the right as British subjects to remain permanently (a small number of Indian immigrants came freely as merchants). Because of growing resentment toward Indian workers, the 63,000 indentured Chinese workers who mined gold in Transvaal between 1904 and 1911 were under more restrictive contracts and generally were forced to return to their homeland.</p> <p>In the late 19th century and nearly the entire 20th century, South Africa’s then British colonies’ and Dutch states’ enforced selective immigration policies that welcomed "assimilable" white Europeans as permanent residents but excluded or restricted other immigrants. Following the Union of South Africa’s passage of a law in 1913 prohibiting Asian and other non-white immigrants and its elimination of the indenture system in 1917, temporary African contract laborers from neighboring countries became the dominant source of labor in the burgeoning mining industries. Others worked in agriculture and smaller numbers in manufacturing, domestic service, transportation, and construction. Throughout the 20th century, at least 40% of South Africa’s miners were foreigners; the numbers peaked at over 80% in the late 1960s. Mozambique, Lesotho, Botswana, and Eswatini were the primary sources of miners, and Malawi and Zimbabwe were periodic suppliers.</p> <p>Under apartheid, a "two gates" migration policy focused on policing and deporting illegal migrants rather than on managing migration to meet South Africa’s development needs. The exclusionary 1991 Aliens Control Act limited labor recruitment to the highly skilled as defined by the ruling white minority, while bilateral labor agreements provided exemptions that enabled the influential mining industry and, to a lesser extent, commercial farms, to hire temporary, low-paid workers from neighboring states. Illegal African migrants were often tacitly allowed to work for low pay in other sectors but were always under threat of deportation.</p> <p>The abolishment of apartheid in 1994 led to the development of a new inclusive national identity and the strengthening of the country’s restrictive immigration policy. Despite South Africa’s protectionist approach to immigration, the downsizing and closing of mines, and rising unemployment, migrants from across the continent believed that the country held work opportunities. Fewer African labor migrants were issued temporary work permits and, instead, increasingly entered South Africa with visitors’ permits or came illegally, which drove growth in cross-border trade and the informal job market. A new wave of Asian immigrants has also arrived over the last two decades, many operating small retail businesses.</p> <p>In the post-apartheid period, increasing numbers of highly skilled white workers emigrated, citing dissatisfaction with the political situation, crime, poor services, and a reduced quality of life. The 2002 Immigration Act and later amendments were intended to facilitate the temporary migration of skilled foreign labor to fill labor shortages, but instead the legislation continues to create regulatory obstacles. Although the education system has improved and brain drain has slowed in the wake of the 2008 global financial crisis, South Africa continues to face skills shortages in several key sectors, such as health care and technology.</p> <p>South Africa’s stability and economic growth has acted as a magnet for refugees and asylum seekers from nearby countries, despite the prevalence of discrimination and xenophobic violence. Refugees have included an estimated 350,000 Mozambicans during its 1980s civil war and, more recently, several thousand Somalis, Congolese, and Ethiopians. Nearly all of the tens of thousands of Zimbabweans who have applied for asylum in South Africa have been categorized as economic migrants and denied refuge.</p><br>
 
 **Age structure**<br>
-_0-14 years_: 27.94% (male 7,894,742/female 7,883,266)<br>
-_15-24 years_: 16.8% (male 4,680,587/female 4,804,337)<br>
-_25-54 years_: 42.37% (male 12,099,441/female 11,825,193)<br>
-_55-64 years_: 6.8% (male 1,782,902/female 2,056,988)<br>
-_65 years and over_: 6.09% (male 1,443,956/female 1,992,205) (2020 est.)<br>
+_0-14 years_: 27.29% (male 7,931,943/female 7,906,715)<br>
+_15-64 years_: 66.17% (male 19,158,920/female 19,253,679)<br>
+_65 years and over_: 6.54% (2023 est.) (male 1,596,882/female 2,200,193)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 52.2<br>
@@ -125,16 +123,16 @@ _male_: 27.9 years<br>
 _female_: 28.1 years (2020 est.)<br>
 
 **Population growth rate**<br>
-0.93% (2022 est.)<br>
+0.91% (2023 est.)<br>
 
 **Birth rate**<br>
-18.56 births/1,000 population (2022 est.)<br>
+18.24 births/1,000 population (2023 est.)<br>
 
 **Death rate**<br>
-9.26 deaths/1,000 population (2022 est.)<br>
+9.25 deaths/1,000 population (2023 est.)<br>
 
 **Net migration rate**<br>
-0 migrant(s)/1,000 population (2022 est.)<br>
+0.11 migrant(s)/1,000 population (2023 est.)<br>
 
 **Population distribution**<br>
 the population concentrated along the southern and southeastern coast, and inland around Pretoria; the eastern half of the country is more densely populated than the west as shown in this population distribution map<br>
@@ -149,27 +147,25 @@ _rate of urbanization_: 1.72% annual rate of change (2020-25 est.)<br>
 **Sex ratio**<br>
 _at birth_: 1.02 male(s)/female<br>
 _0-14 years_: 1 male(s)/female<br>
-_15-24 years_: 0.98 male(s)/female<br>
-_25-54 years_: 1.02 male(s)/female<br>
-_55-64 years_: 0.87 male(s)/female<br>
-_65 years and over_: 0.58 male(s)/female<br>
-_total population_: 0.98 male(s)/female (2022 est.)<br>
+_15-64 years_: 1 male(s)/female<br>
+_65 years and over_: 0.73 male(s)/female<br>
+_total population_: 0.98 male(s)/female (2023 est.)<br>
 
 **Maternal mortality ratio**<br>
 119 deaths/100,000 live births (2017 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 25.87 deaths/1,000 live births<br>
-_male_: 28.86 deaths/1,000 live births<br>
-_female_: 22.82 deaths/1,000 live births (2022 est.)<br>
+_total_: 24.99 deaths/1,000 live births<br>
+_male_: 27.9 deaths/1,000 live births<br>
+_female_: 22.03 deaths/1,000 live births (2023 est.)<br>
 
 **Life expectancy at birth**<br>
-_total population_: 65.32 years<br>
-_male_: 63.99 years<br>
-_female_: 66.68 years (2022 est.)<br>
+_total population_: 65.6 years<br>
+_male_: 64.26 years<br>
+_female_: 66.96 years (2023 est.)<br>
 
 **Total fertility rate**<br>
-2.18 children born/woman (2022 est.)<br>
+2.17 children born/woman (2023 est.)<br>
 
 **Gross reproduction rate**<br>
 1.07 (2023 est.)<br>
@@ -717,11 +713,11 @@ South African National Defense Force (SANDF): South African Army (includes Reser
 <strong>note:</strong> the South African Police Service includes a Special Task Force for counterterrorism, counterinsurgency, and hostage rescue operations<br>
 
 **Military expenditures**<br>
-0.8% of GDP (2021 est.)<br>
+0.9% of GDP (2022 est.)<br>
+0.9% of GDP (2021)<br>
 1.1% of GDP (2020)<br>
-1% of GDP (2019) (approximately $4.84 billion)<br>
-1% of GDP (2018) (approximately $4.86 billion)<br>
-1% of GDP (2017) (approximately $5.04 billion)<br>
+1% of GDP (2019)<br>
+1% of GDP (2018)<br>
 
 **Military and security service personnel strengths**<br>
 approximately 75,000 active duty personnel (40,000 Army; 7,000 Navy; 10,000 Air Force; 8,000 Military Health Service; 10,000 other, including administrative, logistics, military police); 180,000 South African Police Service (2022)<br>
@@ -730,7 +726,7 @@ approximately 75,000 active duty personnel (40,000 Army; 7,000 Navy; 10,000 Air 
 the SANDF's inventory consists of a mix of domestically produced and foreign-supplied equipment; South Africa's domestic defense industry produced most of the Army's major weapons systems (some were jointly produced with foreign companies), while the Air Force and Navy inventories include a mix of European-, Israeli-, and US-origin weapons systems (2022)<br>
 
 **Military service age and obligation**<br>
-18-22 (18-26 for college graduates) years of age for voluntary military service for men and women; 2-year service obligation (2022)<br>
+18-22 (18-26 for college graduates) years of age for voluntary military service for men and women; 2-year service obligation (2023)<br>
 <strong>note:</strong> in 2019, women comprised about 30% of the military<br>
 
 **Military deployments**<br>

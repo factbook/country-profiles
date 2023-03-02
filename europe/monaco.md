@@ -73,7 +73,7 @@ second-smallest independent state in the world (after the Holy See); smallest co
 ## People and Society
 
 **Population**<br>
-31,400 (2022 est.)<br>
+31,597 (2023 est.)<br>
 <strong>note:</strong> immigrants make up almost 68% of the total population, according to UN data (2019)<br>
 
 **Nationality**<br>
@@ -92,11 +92,9 @@ _major-language sample(s)_: <br>The World Factbook, une source indispensable d'i
 Roman Catholic 90% (official), other 10%<br>
 
 **Age structure**<br>
-_0-14 years_: 9.41% (male 1,497/female 1,415)<br>
-_15-24 years_: 9.52% (male 1,538/female 1,406)<br>
-_25-54 years_: 30.46% (male 4,779/female 4,644)<br>
-_55-64 years_: 15.47% (male 2,370/female 2,417)<br>
-_65 years and over_: 35.15% (male 4,817/female 6,057) (2020 est.)<br>
+_0-14 years_: 9.4% (male 1,522/female 1,448)<br>
+_15-64 years_: 54.42% (male 8,638/female 8,558)<br>
+_65 years and over_: 36.18% (2023 est.) (male 5,114/female 6,317)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 95.2<br>
@@ -110,16 +108,16 @@ _male_: 53.7 years<br>
 _female_: 57 years (2020 est.)<br>
 
 **Population growth rate**<br>
-0.6% (2022 est.)<br>
+0.66% (2023 est.)<br>
 
 **Birth rate**<br>
-6.66 births/1,000 population (2022 est.)<br>
+6.61 births/1,000 population (2023 est.)<br>
 
 **Death rate**<br>
-10.7 deaths/1,000 population (2022 est.)<br>
+10.92 deaths/1,000 population (2023 est.)<br>
 
 **Net migration rate**<br>
-10.03 migrant(s)/1,000 population (2022 est.)<br>
+10.89 migrant(s)/1,000 population (2023 est.)<br>
 
 **Population distribution**<br>
 the second most densely populated country in the world (after Macau); its entire population living on 2 square km<br>
@@ -134,24 +132,22 @@ _rate of urbanization_: 0.5% annual rate of change (2020-25 est.)<br>
 **Sex ratio**<br>
 _at birth_: 1.04 male(s)/female<br>
 _0-14 years_: 1.05 male(s)/female<br>
-_15-24 years_: 1.07 male(s)/female<br>
-_25-54 years_: 1.03 male(s)/female<br>
-_55-64 years_: 0.97 male(s)/female<br>
-_65 years and over_: 0.76 male(s)/female<br>
-_total population_: 0.94 male(s)/female (2022 est.)<br>
+_15-64 years_: 1.01 male(s)/female<br>
+_65 years and over_: 0.81 male(s)/female<br>
+_total population_: 0.94 male(s)/female (2023 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 1.76 deaths/1,000 live births<br>
-_male_: 2.07 deaths/1,000 live births<br>
-_female_: 1.45 deaths/1,000 live births (2022 est.)<br>
+_total_: 1.75 deaths/1,000 live births<br>
+_male_: 2.05 deaths/1,000 live births<br>
+_female_: 1.44 deaths/1,000 live births (2023 est.)<br>
 
 **Life expectancy at birth**<br>
-_total population_: 89.52 years<br>
-_male_: 85.7 years<br>
-_female_: 93.49 years (2022 est.)<br>
+_total population_: 89.64 years<br>
+_male_: 85.84 years<br>
+_female_: 93.59 years (2023 est.)<br>
 
 **Total fertility rate**<br>
-1.53 children born/woman (2022 est.)<br>
+1.53 children born/woman (2023 est.)<br>
 
 **Gross reproduction rate**<br>
 0.75 (2023 est.)<br>

@@ -73,7 +73,7 @@ dominates North Atlantic Ocean between North America and Europe; sparse populati
 ## People and Society
 
 **Population**<br>
-57,792 (2022 est.)<br>
+57,777 (2023 est.)<br>
 
 **Nationality**<br>
 _noun_: Greenlander(s)<br>
@@ -90,11 +90,9 @@ Greenlandic (West Greenlandic or Kalaallisut is the official language), Danish, 
 Evangelical Lutheran, traditional Inuit spiritual beliefs<br>
 
 **Age structure**<br>
-_0-14 years_: 20.82% (male 6,079/female 5,916)<br>
-_15-24 years_: 14.45% (male 4,186/female 4,137)<br>
-_25-54 years_: 39.72% (male 11,962/female 10,921)<br>
-_55-64 years_: 14.66% (male 4,561/female 3,886)<br>
-_65 years and over_: 10.36% (male 3,170/female 2,798) (2020 est.)<br>
+_0-14 years_: 20.46% (male 5,992/female 5,827)<br>
+_15-64 years_: 67.66% (male 20,271/female 18,820)<br>
+_65 years and over_: 11.89% (2023 est.) (male 3,641/female 3,226)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 43.6<br>
@@ -108,16 +106,16 @@ _male_: 35.1 years<br>
 _female_: 33.4 years (2020 est.)<br>
 
 **Population growth rate**<br>
--0.02% (2022 est.)<br>
+-0.04% (2023 est.)<br>
 
 **Birth rate**<br>
-13.79 births/1,000 population (2022 est.)<br>
+13.66 births/1,000 population (2023 est.)<br>
 
 **Death rate**<br>
-8.96 deaths/1,000 population (2022 est.)<br>
+9.07 deaths/1,000 population (2023 est.)<br>
 
 **Net migration rate**<br>
--5 migrant(s)/1,000 population (2022 est.)<br>
+-4.95 migrant(s)/1,000 population (2023 est.)<br>
 
 **Population distribution**<br>
 settlement concentrated on the southwest shoreline, with limited settlements scattered along the remaining coast; interior is uninhabited<br>
@@ -132,24 +130,22 @@ _rate of urbanization_: 0.41% annual rate of change (2020-25 est.)<br>
 **Sex ratio**<br>
 _at birth_: 1.05 male(s)/female<br>
 _0-14 years_: 1.03 male(s)/female<br>
-_15-24 years_: 1.01 male(s)/female<br>
-_25-54 years_: 1.08 male(s)/female<br>
-_55-64 years_: 1.19 male(s)/female<br>
-_65 years and over_: 0.84 male(s)/female<br>
-_total population_: 1.08 male(s)/female (2022 est.)<br>
+_15-64 years_: 1.08 male(s)/female<br>
+_65 years and over_: 1.13 male(s)/female<br>
+_total population_: 1.07 male(s)/female (2023 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 8.75 deaths/1,000 live births<br>
-_male_: 10.25 deaths/1,000 live births<br>
-_female_: 7.16 deaths/1,000 live births (2022 est.)<br>
+_total_: 8.6 deaths/1,000 live births<br>
+_male_: 10.08 deaths/1,000 live births<br>
+_female_: 7.04 deaths/1,000 live births (2023 est.)<br>
 
 **Life expectancy at birth**<br>
-_total population_: 73.98 years<br>
-_male_: 71.28 years<br>
-_female_: 76.82 years (2022 est.)<br>
+_total population_: 74.25 years<br>
+_male_: 71.56 years<br>
+_female_: 77.07 years (2023 est.)<br>
 
 **Total fertility rate**<br>
-1.91 children born/woman (2022 est.)<br>
+1.9 children born/woman (2023 est.)<br>
 
 **Gross reproduction rate**<br>
 0.92 (2023 est.)<br>

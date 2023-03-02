@@ -79,7 +79,7 @@ landlocked; highest point, Qullai Ismoili Somoni (formerly Communism Peak), was 
 ## People and Society
 
 **Population**<br>
-9,119,347 (2022 est.)<br>
+9,245,937 (2023 est.)<br>
 
 **Nationality**<br>
 _noun_: Tajikistani(s)<br>
@@ -100,11 +100,9 @@ Muslim 98% (Sunni 95%, Shia 3%) other 2% (2014 est.)<br>
 <p>Tajikistan has a youthful age structure with almost 50% of the population under the age of 25.  As a Soviet republic, Tajikistan had the highest fertility rate in the Soviet Union.  The total fertility rate – the average number of births per woman – was highest in the mid-1970s, when it reached 6.3.  In an effort to expand populations to meet economic goals, the Soviets provided resources that made large families affordable.  The fertility rate decreased to 5 by the time of independence in 1991 and continued to decline thereafter.  In 1996, the Tajik Government discontinued subsidies for large families and having several children became too expensive.  The loss of subsidies, the 5-year civil war that followed independence, and other factors caused fertility to continue to fall steadily, but it remains above replacement level at 2.5.  The availability of healthcare providers and family planning services is limited, contributing to couples having more children than they would like.  As of 2017, 21% of women were using contraceptives.</p> <p>Tajikistan’s ethnic make-up changed with the Soviet’s introduction of industrialization.  Large numbers of Russian and Ukrainian immigrants arrived in the mid-1920s. Some were forced to immigrate while others came voluntarily to work in the cotton industry and in Tajikistan’s Soviet Government.  The Russian and Ukrainian immigrants formed urban communities, while Tajiks and Uzbeks continued to live predominantly in rural areas.  In addition, thousands of Tatars and Germans were deported to Tajikistan, accused of Nazi complicity during WWII. </p> <p>Tajikistan’s ethnic composition was later shaped by the post-independence civil war from 1992-1997 and the economic devastation that followed.  Most non-Tajik ethnic groups, including Uzbeks, Russians, Kyrgyz, and Ukrainians, fled to Russia and other former Soviet republics and many never returned, making the country overwhelming Tajik; approximately 80% of the population was Tajik by 2000. </p> <p>Since the mid-1990s, labor has probably been Tajikistan’s main export.  Remittances accounted for 30% of GDP in 2018 and are Tajikistan’s largest source of external income.  Poverty, a lack of jobs, and higher wages abroad push Tajiks to emigrate.  Russia – particularly Moscow – is the main destination, while a smaller number of religious Muslims, usually of Uzbek ancestry, migrate to Uzbekistan.  The vast majority of labor migrants are unskilled or low-skilled young men who work primarily in construction but also agriculture, transportation, and retail.  Many Tajik families are dependent on the money they send home for necessities, such as food and clothing, as well as for education and weddings rather than investment.</p><br>
 
 **Age structure**<br>
-_0-14 years_: 31.43% (male 1,420,271/female 1,368,445)<br>
-_15-24 years_: 18.13% (male 816,658/female 792,231)<br>
-_25-54 years_: 40.58% (male 1,789,271/female 1,811,566)<br>
-_55-64 years_: 6.23% (male 253,862/female 299,378)<br>
-_65 years and over_: 3.63% (male 132,831/female 189,156) (2020 est.)<br>
+_0-14 years_: 29.98% (male 1,411,335/female 1,360,882)<br>
+_15-64 years_: 65.84% (male 3,025,782/female 3,061,836)<br>
+_65 years and over_: 4.18% (2023 est.) (male 159,728/female 226,374)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 65.9<br>
@@ -118,16 +116,16 @@ _male_: 24.6 years<br>
 _female_: 26 years (2020 est.)<br>
 
 **Population growth rate**<br>
-1.4% (2022 est.)<br>
+1.36% (2023 est.)<br>
 
 **Birth rate**<br>
-20.73 births/1,000 population (2022 est.)<br>
+20.28 births/1,000 population (2023 est.)<br>
 
 **Death rate**<br>
-5.72 deaths/1,000 population (2022 est.)<br>
+5.67 deaths/1,000 population (2023 est.)<br>
 
 **Net migration rate**<br>
--1.03 migrant(s)/1,000 population (2022 est.)<br>
+-1.02 migrant(s)/1,000 population (2023 est.)<br>
 
 **Population distribution**<br>
 the country's population is concentrated at lower elevations, with perhaps as much as 90% of the people living in valleys; overall density increases from east to west<br>
@@ -142,11 +140,9 @@ _rate of urbanization_: 2.73% annual rate of change (2020-25 est.)<br>
 **Sex ratio**<br>
 _at birth_: 1.05 male(s)/female<br>
 _0-14 years_: 1.04 male(s)/female<br>
-_15-24 years_: 1.03 male(s)/female<br>
-_25-54 years_: 0.98 male(s)/female<br>
-_55-64 years_: 0.84 male(s)/female<br>
-_65 years and over_: 0.48 male(s)/female<br>
-_total population_: 0.99 male(s)/female (2022 est.)<br>
+_15-64 years_: 0.99 male(s)/female<br>
+_65 years and over_: 0.71 male(s)/female<br>
+_total population_: 0.99 male(s)/female (2023 est.)<br>
 
 **Mother's mean age at first birth**<br>
 23.2 years (2017 est.)<br>
@@ -155,17 +151,17 @@ _total population_: 0.99 male(s)/female (2022 est.)<br>
 17 deaths/100,000 live births (2017 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 32.33 deaths/1,000 live births<br>
-_male_: 37.03 deaths/1,000 live births<br>
-_female_: 27.39 deaths/1,000 live births (2022 est.)<br>
+_total_: 31.62 deaths/1,000 live births<br>
+_male_: 36.28 deaths/1,000 live births<br>
+_female_: 26.73 deaths/1,000 live births (2023 est.)<br>
 
 **Life expectancy at birth**<br>
-_total population_: 69.36 years<br>
-_male_: 66.2 years<br>
-_female_: 72.69 years (2022 est.)<br>
+_total population_: 69.66 years<br>
+_male_: 66.49 years<br>
+_female_: 72.99 years (2023 est.)<br>
 
 **Total fertility rate**<br>
-2.45 children born/woman (2022 est.)<br>
+2.42 children born/woman (2023 est.)<br>
 
 **Gross reproduction rate**<br>
 1.18 (2023 est.)<br>
@@ -712,7 +708,7 @@ Tajikistan has been a member of the Collective Security Treaty Organization (CST
 
 **Terrorist group(s)**<br>
 Islamic State of Iraq and ash-Sham (ISIS)<br>
-<strong>note:</strong> details about the history, aims, leadership, organization, areas of operation, tactics, targets, weapons, size, and sources of support of the group(s) appear(s) in Appendix-T<br>
+<strong>note 1: </strong>US-designated foreign terrorist groups such as the Islamic Jihad Union, the Islamic Movement of Uzbekistan, and the Islamic State of Iraq and ash-Sham-Khorasan Province have operated in the area where the Uzbek, Kyrgyz, and Tajik borders converge and ill-defined and porous borders allow for the relatively free movement of people and illicit goods <strong><br><br>note 2:</strong> details about the history, aims, leadership, organization, areas of operation, tactics, targets, weapons, size, and sources of support of the group(s) appear(s) in Appendix-T<br>
 
 ## Transnational Issues
 

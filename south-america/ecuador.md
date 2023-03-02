@@ -81,7 +81,7 @@ nearly half of the population is concentrated in the interior in the Andean inte
 ## People and Society
 
 **Population**<br>
-17,289,554 (2022 est.)<br>
+17,483,326 (2023 est.)<br>
 
 **Nationality**<br>
 _noun_: Ecuadorian(s)<br>
@@ -102,11 +102,9 @@ Roman Catholic 68.8%, Evangelical 15.4%, Adventist 1.2%, Jehovah's Witness 1%, o
 <p>Ecuador's high poverty and income inequality most affect indigenous, mixed race, and rural populations. The government has increased its social spending to ameliorate these problems, but critics question the efficiency and implementation of its national development plan. Nevertheless, the conditional cash transfer program, which requires participants' children to attend school and have medical check-ups, has helped improve educational attainment and healthcare among poor children. Ecuador is stalled at above replacement level fertility and the population most likely will keep growing rather than stabilize.</p><p>An estimated 2 to 3 million Ecuadorians live abroad, but increased unemployment in key receiving countries - Spain, the United States, and Italy - is slowing emigration and increasing the likelihood of returnees to Ecuador. The first large-scale emigration of Ecuadorians occurred between 1980 and 2000, when an economic crisis drove Ecuadorians from southern provinces to New York City, where they had trade contacts. A second, nationwide wave of emigration in the late 1990s was caused by another economic downturn, political instability, and a currency crisis. Spain was the logical destination because of its shared language and the wide availability of low-skilled, informal jobs at a time when increased border surveillance made illegal migration to the US difficult. Ecuador has a small but growing immigrant population and is Latin America's top recipient of refugees; 98% are neighboring Colombians fleeing violence in their country.</p><br>
 
 **Age structure**<br>
-_0-14 years_: 25.82% (male 2,226,240/female 2,138,219)<br>
-_15-24 years_: 17.8% (male 1,531,545/female 1,478,222)<br>
-_25-54 years_: 40.31% (male 3,333,650/female 3,480,262)<br>
-_55-64 years_: 7.92% (male 647,718/female 691,759)<br>
-_65 years and over_: 8.15% (male 648,761/female 728,491) (2020 est.)<br>
+_0-14 years_: 24.49% (male 2,183,293/female 2,098,856)<br>
+_15-64 years_: 66.44% (male 5,739,156/female 5,876,090)<br>
+_65 years and over_: 9.07% (2023 est.) (male 745,170/female 840,761)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 50.9<br>
@@ -120,16 +118,16 @@ _male_: 28 years<br>
 _female_: 29.6 years (2020 est.)<br>
 
 **Population growth rate**<br>
-1.13% (2022 est.)<br>
+1.1% (2023 est.)<br>
 
 **Birth rate**<br>
-16.45 births/1,000 population (2022 est.)<br>
+16.19 births/1,000 population (2023 est.)<br>
 
 **Death rate**<br>
-5.17 deaths/1,000 population (2022 est.)<br>
+5.18 deaths/1,000 population (2023 est.)<br>
 
 **Net migration rate**<br>
-0 migrant(s)/1,000 population (2022 est.)<br>
+0 migrant(s)/1,000 population (2023 est.)<br>
 
 **Population distribution**<br>
 nearly half of the population is concentrated in the interior in the Andean intermontane basins and valleys, with large concentrations also found along the western coastal strip; the rainforests of the east remain sparsely populated<br>
@@ -144,27 +142,25 @@ _rate of urbanization_: 1.62% annual rate of change (2020-25 est.)<br>
 **Sex ratio**<br>
 _at birth_: 1.05 male(s)/female<br>
 _0-14 years_: 1.04 male(s)/female<br>
-_15-24 years_: 1.04 male(s)/female<br>
-_25-54 years_: 0.96 male(s)/female<br>
-_55-64 years_: 0.92 male(s)/female<br>
-_65 years and over_: 0.78 male(s)/female<br>
-_total population_: 0.98 male(s)/female (2022 est.)<br>
+_15-64 years_: 0.98 male(s)/female<br>
+_65 years and over_: 0.89 male(s)/female<br>
+_total population_: 0.98 male(s)/female (2023 est.)<br>
 
 **Maternal mortality ratio**<br>
 59 deaths/100,000 live births (2017 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 18.13 deaths/1,000 live births<br>
-_male_: 21.7 deaths/1,000 live births<br>
-_female_: 14.39 deaths/1,000 live births (2022 est.)<br>
+_total_: 17.72 deaths/1,000 live births<br>
+_male_: 21.22 deaths/1,000 live births<br>
+_female_: 14.04 deaths/1,000 live births (2023 est.)<br>
 
 **Life expectancy at birth**<br>
-_total population_: 78 years<br>
-_male_: 75.06 years<br>
-_female_: 81.1 years (2022 est.)<br>
+_total population_: 78.25 years<br>
+_male_: 75.32 years<br>
+_female_: 81.32 years (2023 est.)<br>
 
 **Total fertility rate**<br>
-2.04 children born/woman (2022 est.)<br>
+2.02 children born/woman (2023 est.)<br>
 
 **Gross reproduction rate**<br>
 0.98 (2023 est.)<br>
@@ -731,7 +727,7 @@ the military's equipment inventory is mostly older and derived from a wide varie
 <strong>note: </strong>in 2017, women made up an estimated 3% of the military<br>
 
 **Military - note**<br>
-<p>border conflicts with Peru dominated the military’s focus until the late 1990s; as of 2023, border security remained a priority, but in more recent years, security challenges have shifted towards counterinsurgency and counter-narcotics operations, particularly in the northern border area where violence and other criminal activity related to terrorism, insurgency, and narco-trafficking in Colombia, as well as refugees from Venezuela, has spilled over the border; troop deployments along the border with Colombia were scaled back following the 2016 signing of a peace agreement between the Colombian Government and the Revolutionary Armed Forces of Colombia (FARC) terrorist group (see Appendix T), but recent violence associated with FARC dissidents to the agreement have led Ecuador and Colombia to reinforce their shared border; since 2012, the Ecuadorian Government has also expanded the military’s role in general public security and counter-narcotics operations, in part due to rising violence, police corruption, and police ineffectiveness</p> <p>the military has had a large role in Ecuador’s political history; it ruled the country from 1963-1966 and 1972-1979, and supported a dictatorship in 1970-1972; during the 1980s, the military remained loyal to the civilian government, but civilian-military relations were at times tenuous, and the military had considerable autonomy from civilian oversight; it was involved in coup attempts in 2000 and 2010</p><br>
+border conflicts with Peru dominated the military’s focus until the late 1990s and border security remains a priority, but in more recent years, security challenges have shifted towards counterinsurgency and counter-narcotics operations, particularly in the northern border area where violence and other criminal activity related to terrorism, insurgency, and narco-trafficking in Colombia, as well as refugees from Venezuela, has spilled over the border; troop deployments along the border with Colombia were scaled back following the 2016 signing of a peace agreement between the Colombian Government and the Revolutionary Armed Forces of Colombia (FARC) terrorist group (see Appendix T), but recent violence associated with FARC dissidents to the agreement have led Ecuador and Colombia to reinforce their shared border; since 2012, the Ecuadorian Government has also expanded the military’s role in general public security and counter-narcotics operations, in part due to rising violence, police corruption, and police ineffectiveness<br><br>the military has had a large role in Ecuador’s political history; it ruled the country from 1963-1966 and 1972-1979, and supported a dictatorship in 1970-1972; during the 1980s, the military remained loyal to the civilian government, but civilian-military relations were at times tenuous, and the military had considerable autonomy from civilian oversight; it was involved in coup attempts in 2000 and 2010 (2023)<br>
 
 **Maritime threats**<br>
 the International Maritime Bureau continues to report the territorial and offshore waters of Ecuador as at risk for piracy and armed robbery against ships; vessels, including commercial shipping and pleasure craft, have been attacked and hijacked both at anchor and while underway; crews have been robbed and stores or cargoes stolen; there has been a slight decrease with four attacks reported in 2021 and five in 2020; one ship was boarded while underway and two ships were fired upon<br>

@@ -82,7 +82,7 @@ landlocked; the western and central low-lying desolate portions of the country m
 ## People and Society
 
 **Population**<br>
-5,636,011 (2022 est.)<br>
+5,690,818 (2023 est.)<br>
 <strong>note:</strong> some sources suggest Turkmenistan's population could be as much as 1 to 2 million people lower than available estimates because of large-scale emigration during the last 10 years<br>
 
 **Nationality**<br>
@@ -103,11 +103,9 @@ Muslim 93%, Christian 6.4%, Buddhist &lt;1%, folk religion &lt;1%, Jewish &lt;1%
 <p>While Turkmenistan reputedly has a population of more than 5.6 million, the figure is most likely considerably less. Getting an accurate population estimate for the country is impossible because then President Gurbanguly BERDIMUHAMEDOW withheld the results of the last two censuses. The 2012 census results reportedly show that nearly 2 million citizens have emigrated in the last decade, which prompted BERDIMUHAMEDOW to order another census. Results of this census, covering 2008-2018, also were not released to the public but purportedly are similar. Another census was held in December 2022.</p> <p>Authorities have reacted to the dramatic population decline by preventing Turkmen from leaving the country, including removing citizens from international flights and refusing to provide necessary documents. Turkmenistan’s rise in outmigration – mainly to Turkey, Russia, and Uzbekistan – coincided with the country’s 2013-2014 economic crisis. The outflow has been sustained by poor living standards, inflation, low income, and a lack of health care. At the same time, Ashbagat is encouraging people to have more children to make up for its shrinking population.</p><br>
 
 **Age structure**<br>
-_0-14 years_: 25.44% (male 713,441/female 693,042)<br>
-_15-24 years_: 16.48% (male 458,566/female 452,469)<br>
-_25-54 years_: 44.14% (male 1,214,581/female 1,226,027)<br>
-_55-64 years_: 8.56% (male 221,935/female 251,238)<br>
-_65 years and over_: 5.38% (male 129,332/female 167,996) (2020 est.)<br>
+_0-14 years_: 24.63% (male 710,040/female 691,487)<br>
+_15-64 years_: 68.82% (male 1,943,930/female 1,972,723)<br>
+_65 years and over_: 6.55% (2023 est.) (male 163,121/female 209,517)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 56.6<br>
@@ -121,16 +119,16 @@ _male_: 28.7 years<br>
 _female_: 29.7 years (2020 est.)<br>
 
 **Population growth rate**<br>
-0.99% (2022 est.)<br>
+0.95% (2023 est.)<br>
 
 **Birth rate**<br>
-17.51 births/1,000 population (2022 est.)<br>
+17.16 births/1,000 population (2023 est.)<br>
 
 **Death rate**<br>
-5.95 deaths/1,000 population (2022 est.)<br>
+5.96 deaths/1,000 population (2023 est.)<br>
 
 **Net migration rate**<br>
--1.71 migrant(s)/1,000 population (2022 est.)<br>
+-1.69 migrant(s)/1,000 population (2023 est.)<br>
 
 **Population distribution**<br>
 the most densely populated areas are the southern, eastern, and northeastern oases; approximately 50% of the population lives in and around the capital of Ashgabat<br>
@@ -145,11 +143,9 @@ _rate of urbanization_: 2.23% annual rate of change (2020-25 est.)<br>
 **Sex ratio**<br>
 _at birth_: 1.05 male(s)/female<br>
 _0-14 years_: 1.03 male(s)/female<br>
-_15-24 years_: 1.01 male(s)/female<br>
-_25-54 years_: 0.99 male(s)/female<br>
-_55-64 years_: 0.89 male(s)/female<br>
-_65 years and over_: 0.59 male(s)/female<br>
-_total population_: 0.98 male(s)/female (2022 est.)<br>
+_15-64 years_: 0.99 male(s)/female<br>
+_65 years and over_: 0.78 male(s)/female<br>
+_total population_: 0.98 male(s)/female (2023 est.)<br>
 
 **Mother's mean age at first birth**<br>
 24.2 years (2019)<br>
@@ -158,17 +154,17 @@ _total population_: 0.98 male(s)/female (2022 est.)<br>
 7 deaths/100,000 live births (2017 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 37.62 deaths/1,000 live births<br>
-_male_: 45.76 deaths/1,000 live births<br>
-_female_: 29.07 deaths/1,000 live births (2022 est.)<br>
+_total_: 36.72 deaths/1,000 live births<br>
+_male_: 44.67 deaths/1,000 live births<br>
+_female_: 28.37 deaths/1,000 live births (2023 est.)<br>
 
 **Life expectancy at birth**<br>
-_total population_: 71.83 years<br>
-_male_: 68.8 years<br>
-_female_: 75 years (2022 est.)<br>
+_total population_: 72.11 years<br>
+_male_: 69.1 years<br>
+_female_: 75.26 years (2023 est.)<br>
 
 **Total fertility rate**<br>
-2.03 children born/woman (2022 est.)<br>
+2.03 children born/woman (2023 est.)<br>
 
 **Gross reproduction rate**<br>
 0.99 (2023 est.)<br>

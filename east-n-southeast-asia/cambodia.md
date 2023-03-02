@@ -85,7 +85,7 @@ a land of paddies and forests dominated by the Mekong River and Tonle Sap (South
 ## People and Society
 
 **Population**<br>
-16,713,015 (2022 est.)<br>
+16,891,245 (2023 est.)<br>
 
 **Nationality**<br>
 _noun_: Cambodian(s)<br>
@@ -105,11 +105,9 @@ Buddhist (official) 97.1%, Muslim 2%, Christian 0.3%, other 0.5% (2019 est.)<br>
 <p>Cambodia is a predominantly rural country with among the most ethnically and religiously homogenous populations in Southeast Asia: more than 95% of its inhabitants are Khmer and more than 95% are Buddhist.  The population’s size and age structure shrank and then rebounded during the 20th century as a result of conflict and mass death.  During the Khmer Rouge regime between 1975 and 1979 as many as 1.5 to 2 million people are estimated to have been killed or died as a result of starvation, disease, or overwork – a loss of about 25% of the population.  At the same time, emigration was high, and the fertility rate sharply declined.  In the 1980s, after the overthrow of the Khmer Rouge, fertility nearly doubled and reached pre-Khmer Rouge levels of close to 7 children per woman, reflecting in part higher infant survival rates.  The baby boom was followed by a sustained fertility decline starting in the early 1990s, eventually decreasing from 3.8 in 2000 to 2.9 in 2010, although the rate varied by income, education, and rural versus urban location.  Despite continuing fertility reduction, Cambodia still has a youthful population that is likely to maintain population growth through population momentum. Improvements have also been made in mortality, life expectancy, and contraceptive prevalence, although reducing malnutrition among children remains stalled.  Differences in health indicators are pronounced between urban and rural areas, which experience greater poverty.</p> <p>Cambodia is predominantly a country of migration, driven by the search for work, education, or marriage.  Internal migration is more prevalent than international migration, with rural to urban migration being the most common, followed by rural to rural migration.  Urban migration focuses on the pursuit of unskilled or semi-skilled jobs in Phnom Penh, with men working mainly in the construction industry and women working in garment factories.  Most Cambodians who migrate abroad do so illegally using brokers because it is cheaper and faster than through formal channels, but doing so puts them at risk of being trafficked for forced labor or sexual exploitation.  Young Cambodian men and women migrate short distances across the Thai border using temporary passes to work in agriculture, while others migrate long distances primarily into Thailand and Malaysia for work in agriculture, fishing, construction, manufacturing, and domestic service.  Cambodia was a refugee sending country in the 1970s and 1980s as a result of the brutality of the Khmer Rouge regime, its ousting by the Vietnamese invasion, and the resultant civil war.  Tens of thousands of Cambodians fled to Thailand; more than 100,000 were resettled in the US in the 1980s.  Cambodia signed a multi-million dollar agreement with Australia in 2014 to voluntarily resettle refugees seeking shelter in Australia.  However, the deal has proven to be a failure because of poor conditions and a lack of support services for the few refugees willing to accept the offer.</p><br>
 
 **Age structure**<br>
-_0-14 years_: 30.18% (male 2,582,427/female 2,525,619)<br>
-_15-24 years_: 17.28% (male 1,452,784/female 1,472,769)<br>
-_25-54 years_: 41.51% (male 3,442,051/female 3,584,592)<br>
-_55-64 years_: 6.44% (male 476,561/female 612,706)<br>
-_65 years and over_: 4.59% (male 287,021/female 490,454) (2020 est.)<br>
+_0-14 years_: 29.47% (male 2,518,910/female 2,459,235)<br>
+_15-64 years_: 65.39% (male 5,362,180/female 5,682,247)<br>
+_65 years and over_: 5.14% (2023 est.) (male 308,931/female 559,742)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 53.4<br>
@@ -123,16 +121,16 @@ _male_: 25.6 years<br>
 _female_: 27.2 years (2020 est.)<br>
 
 **Population growth rate**<br>
-1.08% (2022 est.)<br>
+1.04% (2023 est.)<br>
 
 **Birth rate**<br>
-19.29 births/1,000 population (2022 est.)<br>
+18.75 births/1,000 population (2023 est.)<br>
 
 **Death rate**<br>
-5.76 deaths/1,000 population (2022 est.)<br>
+5.7 deaths/1,000 population (2023 est.)<br>
 
 **Net migration rate**<br>
--2.7 migrant(s)/1,000 population (2022 est.)<br>
+-2.67 migrant(s)/1,000 population (2023 est.)<br>
 
 **Population distribution**<br>
 population concentrated in the southeast, particularly in and around the capital of Phnom Penh; further distribution is linked closely to the Tonle Sap and Mekong Rivers<br>
@@ -147,11 +145,9 @@ _rate of urbanization_: 3.06% annual rate of change (2020-25 est.)<br>
 **Sex ratio**<br>
 _at birth_: 1.05 male(s)/female<br>
 _0-14 years_: 1.02 male(s)/female<br>
-_15-24 years_: 0.97 male(s)/female<br>
-_25-54 years_: 0.94 male(s)/female<br>
-_55-64 years_: 0.81 male(s)/female<br>
-_65 years and over_: 0.51 male(s)/female<br>
-_total population_: 0.94 male(s)/female (2022 est.)<br>
+_15-64 years_: 0.94 male(s)/female<br>
+_65 years and over_: 0.55 male(s)/female<br>
+_total population_: 0.94 male(s)/female (2023 est.)<br>
 
 **Mother's mean age at first birth**<br>
 22.4 years (2014 est.)<br>
@@ -161,17 +157,17 @@ _total population_: 0.94 male(s)/female (2022 est.)<br>
 160 deaths/100,000 live births (2017 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 29.58 deaths/1,000 live births<br>
-_male_: 33.13 deaths/1,000 live births<br>
-_female_: 25.87 deaths/1,000 live births (2022 est.)<br>
+_total_: 28.75 deaths/1,000 live births<br>
+_male_: 32.22 deaths/1,000 live births<br>
+_female_: 25.12 deaths/1,000 live births (2023 est.)<br>
 
 **Life expectancy at birth**<br>
-_total population_: 70.65 years<br>
-_male_: 68.79 years<br>
-_female_: 72.59 years (2022 est.)<br>
+_total population_: 71.03 years<br>
+_male_: 69.17 years<br>
+_female_: 72.97 years (2023 est.)<br>
 
 **Total fertility rate**<br>
-2.24 children born/woman (2022 est.)<br>
+2.2 children born/woman (2023 est.)<br>
 
 **Gross reproduction rate**<br>
 1.08 (2023 est.)<br>
@@ -707,9 +703,9 @@ Royal Cambodian Armed Forces (RCAF): Royal Cambodian Army, Royal Khmer Navy, Roy
 **Military expenditures**<br>
 2.5% of GDP (2021 est.)<br>
 2.5% of GDP (2020 est.)<br>
-2.2% of GDP (2019 est.) (approximately $1.2 billion)<br>
-2.2% of GDP (2018 est.) (approximately $1.13 billion)<br>
-2.1% of GDP (2017 est.) (approximately $1.02 billion)<br>
+2.2% of GDP (2019 est.)<br>
+2.2% of GDP (2018 est.)<br>
+2.1% of GDP (2017 est.)<br>
 
 **Military and security service personnel strengths**<br>
 information varies; approximately 100,000 total active troops including less than 5,000 Navy and Air Force personnel; approximately 10,000 Gendarmerie (2022)<br>

@@ -72,7 +72,7 @@ one small islet, the Calf of Man, lies to the southwest and is a bird sanctuary<
 ## People and Society
 
 **Population**<br>
-91,382 (2022 est.)<br>
+91,840 (2023 est.)<br>
 
 **Nationality**<br>
 _noun_: Manxman (men), Manxwoman (women)<br>
@@ -89,11 +89,9 @@ English, Manx Gaelic (about 2% of the population has some knowledge)<br>
 Christian 54.7%, Muslim 0.5%, Buddhist 0.5%, Hindu 0.4%, Jewish 0.2%, none 43.8% (2021 est.)<br>
 
 **Age structure**<br>
-_0-14 years_: 16.28% (male 7,688/female 7,046)<br>
-_15-24 years_: 11.02% (male 5,328/female 4,642)<br>
-_25-54 years_: 37.8% (male 17,080/female 17,131)<br>
-_55-64 years_: 13.82% (male 6,284/female 6,219)<br>
-_65 years and over_: 21.08% (male 9,023/female 10,058) (2020 est.)<br>
+_0-14 years_: 16.15% (male 7,715/female 7,114)<br>
+_15-64 years_: 62.09% (male 28,978/female 28,044)<br>
+_65 years and over_: 21.77% (2023 est.) (male 9,408/female 10,581)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 58.6<br>
@@ -107,16 +105,16 @@ _male_: 43.6 years<br>
 _female_: 45.6 years (2020 est.)<br>
 
 **Population growth rate**<br>
-0.52% (2022 est.)<br>
+0.48% (2023 est.)<br>
 
 **Birth rate**<br>
-10.58 births/1,000 population (2022 est.)<br>
+10.49 births/1,000 population (2023 est.)<br>
 
 **Death rate**<br>
-10.18 deaths/1,000 population (2022 est.)<br>
+10.17 deaths/1,000 population (2023 est.)<br>
 
 **Net migration rate**<br>
-4.76 migrant(s)/1,000 population (2022 est.)<br>
+4.52 migrant(s)/1,000 population (2023 est.)<br>
 
 **Population distribution**<br>
 most people concentrated in cities and large towns of which Douglas, in the southeast, is the largest<br>
@@ -131,24 +129,22 @@ _rate of urbanization_: 0.97% annual rate of change (2020-25 est.)<br>
 **Sex ratio**<br>
 _at birth_: 1.08 male(s)/female<br>
 _0-14 years_: 1.08 male(s)/female<br>
-_15-24 years_: 1.18 male(s)/female<br>
-_25-54 years_: 1 male(s)/female<br>
-_55-64 years_: 1.02 male(s)/female<br>
-_65 years and over_: 0.75 male(s)/female<br>
-_total population_: 1.01 male(s)/female (2022 est.)<br>
+_15-64 years_: 1.03 male(s)/female<br>
+_65 years and over_: 0.89 male(s)/female<br>
+_total population_: 1.01 male(s)/female (2023 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 4.24 deaths/1,000 live births<br>
-_male_: 4.59 deaths/1,000 live births<br>
-_female_: 3.85 deaths/1,000 live births (2022 est.)<br>
+_total_: 4.16 deaths/1,000 live births<br>
+_male_: 4.51 deaths/1,000 live births<br>
+_female_: 3.78 deaths/1,000 live births (2023 est.)<br>
 
 **Life expectancy at birth**<br>
-_total population_: 82.04 years<br>
-_male_: 80.23 years<br>
-_female_: 84 years (2022 est.)<br>
+_total population_: 82.25 years<br>
+_male_: 80.44 years<br>
+_female_: 84.2 years (2023 est.)<br>
 
 **Total fertility rate**<br>
-1.89 children born/woman (2022 est.)<br>
+1.88 children born/woman (2023 est.)<br>
 
 **Gross reproduction rate**<br>
 0.91 (2023 est.)<br>

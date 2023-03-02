@@ -79,7 +79,7 @@ landlocked savanna cut by the three principal rivers of the Black, Red, and Whit
 ## People and Society
 
 **Population**<br>
-21,935,389 (2022 est.)<br>
+22,489,126 (2023 est.)<br>
 
 **Nationality**<br>
 _noun_: Burkinabe (singular and plural)<br>
@@ -98,11 +98,9 @@ Muslim 63.2%, Roman Catholic 24.6%, Protestant 6.9%, traditional/animist 4.2%, n
 <p>Burkina Faso has a young age structure – the result of declining mortality combined with steady high fertility – and continues to experience rapid population growth, which is putting increasing pressure on the country’s limited arable land. Almost 65% of the population is under the age of 25 as of 2020, and the population is growing at 2.5% annually. Mortality rates, especially those of infants and children, have decreased because of improved health care, hygiene, and sanitation, but women continue to have an average of more than 4 children. Even if fertility were substantially reduced, today’s large cohort entering their reproductive years would sustain high population growth for the foreseeable future. Only about a third of the population is literate and unemployment is widespread, dampening the economic prospects of Burkina Faso’s large working-age population.</p> <p>Migration has traditionally been a way of life for Burkinabe, with seasonal migration being replaced by stints of up to two years abroad. Cote d’Ivoire remains the top destination, although it has experienced periods of internal conflict. Under French colonization, Burkina Faso became a main labor source for agricultural and factory work in Cote d’Ivoire. Burkinabe also migrated to Ghana, Mali, and Senegal for work between the world wars. Burkina Faso attracts migrants from Cote d’Ivoire, Ghana, and Mali, who often share common ethnic backgrounds with the Burkinabe. Despite its food shortages and high poverty rate, Burkina Faso has become a destination for refugees in recent years and hosts about 33,600 Malian refugees as of October 2022.</p> (2018)<br>
 
 **Age structure**<br>
-_0-14 years_: 43.58% (male 4,606,350/female 4,473,951)<br>
-_15-24 years_: 20.33% (male 2,121,012/female 2,114,213)<br>
-_25-54 years_: 29.36% (male 2,850,621/female 3,265,926)<br>
-_55-64 years_: 3.57% (male 321,417/female 423,016)<br>
-_65 years and over_: 3.16% (male 284,838/female 374,057) (2020 est.)<br>
+_0-14 years_: 42.19% (male 4,813,760/female 4,674,649)<br>
+_15-64 years_: 54.62% (male 5,899,774/female 6,383,134)<br>
+_65 years and over_: 3.19% (2023 est.) (male 305,233/female 412,576)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 87.4<br>
@@ -116,16 +114,16 @@ _male_: 17 years<br>
 _female_: 18.7 years (2020 est.)<br>
 
 **Population growth rate**<br>
-2.53% (2022 est.)<br>
+2.46% (2023 est.)<br>
 
 **Birth rate**<br>
-33.57 births/1,000 population (2022 est.)<br>
+32.71 births/1,000 population (2023 est.)<br>
 
 **Death rate**<br>
-7.71 deaths/1,000 population (2022 est.)<br>
+7.5 deaths/1,000 population (2023 est.)<br>
 
 **Net migration rate**<br>
--0.61 migrant(s)/1,000 population (2022 est.)<br>
+-0.59 migrant(s)/1,000 population (2023 est.)<br>
 
 **Population distribution**<br>
  <p>Most of the population is located in the center and south. Nearly one-third of the population lives in cities. The capital and largest city is Ouagadougou (Ouaga), with a population of 1.8 million as shown in this population distribution map</p>  (2019)<br>
@@ -140,11 +138,9 @@ _rate of urbanization_: 4.75% annual rate of change (2020-25 est.)<br>
 **Sex ratio**<br>
 _at birth_: 1.03 male(s)/female<br>
 _0-14 years_: 1.03 male(s)/female<br>
-_15-24 years_: 1.01 male(s)/female<br>
-_25-54 years_: 0.86 male(s)/female<br>
-_55-64 years_: 0.75 male(s)/female<br>
-_65 years and over_: 0.66 male(s)/female<br>
-_total population_: 0.96 male(s)/female (2022 est.)<br>
+_15-64 years_: 0.92 male(s)/female<br>
+_65 years and over_: 0.74 male(s)/female<br>
+_total population_: 0.96 male(s)/female (2023 est.)<br>
 
 **Mother's mean age at first birth**<br>
 19.4 years (2010 est.)<br>
@@ -154,17 +150,17 @@ _total population_: 0.96 male(s)/female (2022 est.)<br>
 320 deaths/100,000 live births (2017 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 49.42 deaths/1,000 live births<br>
-_male_: 53.7 deaths/1,000 live births<br>
-_female_: 45.02 deaths/1,000 live births (2022 est.)<br>
+_total_: 48.17 deaths/1,000 live births<br>
+_male_: 52.39 deaths/1,000 live births<br>
+_female_: 43.83 deaths/1,000 live births (2023 est.)<br>
 
 **Life expectancy at birth**<br>
-_total population_: 63.44 years<br>
-_male_: 61.63 years<br>
-_female_: 65.31 years (2022 est.)<br>
+_total population_: 63.82 years<br>
+_male_: 61.99 years<br>
+_female_: 65.72 years (2023 est.)<br>
 
 **Total fertility rate**<br>
-4.27 children born/woman (2022 est.)<br>
+4.14 children born/woman (2023 est.)<br>
 
 **Gross reproduction rate**<br>
 2.04 (2023 est.)<br>
@@ -699,9 +695,9 @@ Armed Forces of Burkina Faso (FABF): Army of Burkina Faso (L’Armee de Terre, L
 **Military expenditures**<br>
 2.4% of GDP (2021 est.)<br>
 2.4% of GDP (2020 est.)<br>
-2.2% of GDP (2019 est.) (approximately $450 million)<br>
-1.9% of GDP (2018 est.) (approximately $370 million)<br>
-1.4% of GDP (2017 est.) (approximately $260 million)<br>
+2.2% of GDP (2019 est.)<br>
+1.9% of GDP (2018 est.)<br>
+1.4% of GDP (2017 est.)<br>
 
 **Military and security service personnel strengths**<br>
 approximately 13,000 personnel (8,000 Army; 500 Air Force; 4,500 National Gendarmerie) (2022)<br>
@@ -732,6 +728,6 @@ Ansarul Islam; Islamic State of Iraq and ash-Sham in the Greater Sahara (ISIS-GS
 <p>adding to illicit cross-border activities, Burkina Faso has issues concerning unresolved boundary alignments with its neighbors; demarcation is currently underway with Mali; the dispute with Niger was referred to the ICJ in 2010, and a dispute over several villages with Benin persists; Benin retains a border dispute with Burkina Faso around the town of Koualau/Kourou</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 33,611 (Mali) (2022)<br>
+_refugees (country of origin)_: 34,358 (Mali) (2023)<br>
 _IDPs_: <p>1,761,915 (2022)</p><br>
 

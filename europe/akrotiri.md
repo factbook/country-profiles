@@ -49,9 +49,7 @@ _major-language sample(s)_: <br>Το Παγκόσμιο Βιβλίο Δεδομ�
 
 **Age structure**<br>
 _0-14 years_: NA<br>
-_15-24 years_: NA<br>
-_25-54 years_: NA<br>
-_55-64 years_: NA<br>
+_15-64 years_: NA<br>
 _65 years and over_: NA<br>
 
 **Dependency ratios**<br>

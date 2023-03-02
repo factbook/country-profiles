@@ -89,7 +89,7 @@ population is primarily located on the periphery, with the highest concentration
 ## People and Society
 
 **Population**<br>
-26,141,369 (2022 est.)<br>
+26,461,166 (2023 est.)<br>
 
 **Nationality**<br>
 _noun_: Australian(s)<br>
@@ -107,11 +107,9 @@ English 72%, Mandarin 2.7%, Arabic 1.4%, Vietnamese 1.3%, Cantonese 1.2%, other 
 Roman Catholic 20%, Protestant 18.1% (Anglican 9.8%, Uniting Church 2.6%, Presbyterian and Reformed 1.6%, Baptist 1.4%, Pentecostal 1%, other Protestant 1.7%), other Christian 3.5%, Muslim 3.2%, Hindu 2.7%, Buddhist 2.4%, Orthodox 2.3% (Eastern Orthodox 2.1%, Oriental Orthodox 0.2%), other 2.1%, none 38.4%, unspecified 7.3% (2021 est.)<br>
 
 **Age structure**<br>
-_0-14 years_: 18.72% (male 2,457,418/female 2,309,706)<br>
-_15-24 years_: 12.89% (male 1,710,253/female 1,572,794)<br>
-_25-54 years_: 41.15% (male 5,224,840/female 5,255,041)<br>
-_55-64 years_: 11.35% (male 1,395,844/female 1,495,806)<br>
-_65 years and over_: 15.88% (male 1,866,761/female 2,177,996) (2020 est.)<br>
+_0-14 years_: 18.43% (male 2,515,636/female 2,359,859)<br>
+_15-64 years_: 64.89% (male 8,602,204/female 8,568,004)<br>
+_65 years and over_: 16.69% (2023 est.) (male 2,034,383/female 2,381,080)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 53.7<br>
@@ -125,16 +123,16 @@ _male_: 36.5 years<br>
 _female_: 38.5 years (2020 est.)<br>
 
 **Population growth rate**<br>
-1.25% (2022 est.)<br>
+1.19% (2023 est.)<br>
 
 **Birth rate**<br>
-12.3 births/1,000 population (2022 est.)<br>
+12.23 births/1,000 population (2023 est.)<br>
 
 **Death rate**<br>
-6.77 deaths/1,000 population (2022 est.)<br>
+6.76 deaths/1,000 population (2023 est.)<br>
 
 **Net migration rate**<br>
-6.93 migrant(s)/1,000 population (2022 est.)<br>
+6.39 migrant(s)/1,000 population (2023 est.)<br>
 
 **Population distribution**<br>
 population is primarily located on the periphery, with the highest concentration of people residing in the east and southeast; a secondary population center is located in and around Perth in the west; of the States and Territories, New South Wales has, by far, the largest population; the interior, or "outback", has a very sparse population<br>
@@ -150,11 +148,9 @@ _rate of urbanization_: 1.27% annual rate of change (2020-25 est.)<br>
 **Sex ratio**<br>
 _at birth_: 1.06 male(s)/female<br>
 _0-14 years_: 1.07 male(s)/female<br>
-_15-24 years_: 1.09 male(s)/female<br>
-_25-54 years_: 1 male(s)/female<br>
-_55-64 years_: 0.93 male(s)/female<br>
-_65 years and over_: 0.72 male(s)/female<br>
-_total population_: 0.99 male(s)/female (2022 est.)<br>
+_15-64 years_: 1 male(s)/female<br>
+_65 years and over_: 0.85 male(s)/female<br>
+_total population_: 0.99 male(s)/female (2023 est.)<br>
 
 **Mother's mean age at first birth**<br>
 28.7 years (2019 est.)<br>
@@ -163,17 +159,17 @@ _total population_: 0.99 male(s)/female (2022 est.)<br>
 6 deaths/100,000 live births (2017 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 3.01 deaths/1,000 live births<br>
-_male_: 3.24 deaths/1,000 live births<br>
-_female_: 2.76 deaths/1,000 live births (2022 est.)<br>
+_total_: 2.96 deaths/1,000 live births<br>
+_male_: 3.2 deaths/1,000 live births<br>
+_female_: 2.71 deaths/1,000 live births (2023 est.)<br>
 
 **Life expectancy at birth**<br>
-_total population_: 83.09 years<br>
-_male_: 80.93 years<br>
-_female_: 85.36 years (2022 est.)<br>
+_total population_: 83.28 years<br>
+_male_: 81.14 years<br>
+_female_: 85.54 years (2023 est.)<br>
 
 **Total fertility rate**<br>
-1.73 children born/woman (2022 est.)<br>
+1.73 children born/woman (2023 est.)<br>
 
 **Gross reproduction rate**<br>
 0.84 (2023 est.)<br>
@@ -722,8 +718,8 @@ Australian Defense Force (ADF): Australian Army, Royal Australian Navy, Royal Au
 2% of GDP (2022 est.)<br>
 2.1% of GDP (2021)<br>
 2.1% of GDP (2020)<br>
-2% of GDP (2019) (approximately $31.5 billion)<br>
-1.9% of GDP (2018) (approximately $29.8 billion)<br>
+2% of GDP (2019)<br>
+1.9% of GDP (2018)<br>
 
 **Military and security service personnel strengths**<br>
 approximately 60,000 active troops (30,000 Army; 15,000 Navy; 15,000 Air Force) (2022)<br>

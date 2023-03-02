@@ -76,7 +76,7 @@ largest country in Caribbean and westernmost island of the Greater Antilles<br>
 ## People and Society
 
 **Population**<br>
-11,008,112 (2022 est.)<br>
+10,985,974 (2023 est.)<br>
 
 **Nationality**<br>
 _noun_: Cuban(s)<br>
@@ -95,11 +95,9 @@ Christian 58.9%, folk religion 17.6%, Buddhist &lt;1%, Hindu &lt;1%, Jewish &lt;
 <strong>note:</strong> folk religions include religions of African origin, spiritualism, and others intermingled with Catholicism or Protestantism; data is estimative because no authoritative source on religious affiliation exists for Cuba<br>
 
 **Age structure**<br>
-_0-14 years_: 16.34% (male 929,927/female 877,035)<br>
-_15-24 years_: 11.81% (male 678,253/female 627,384)<br>
-_25-54 years_: 41.95% (male 2,335,680/female 2,303,793)<br>
-_55-64 years_: 14.11% (male 760,165/female 799,734)<br>
-_65 years and over_: 15.8% (male 794,743/female 952,348) (2020 est.)<br>
+_0-14 years_: 16.39% (male 926,457/female 874,347)<br>
+_15-64 years_: 66.81% (male 3,692,573/female 3,647,316)<br>
+_65 years and over_: 16.8% (2023 est.) (male 835,005/female 1,010,276)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 45.9<br>
@@ -113,16 +111,16 @@ _male_: 40.2 years<br>
 _female_: 43.8 years (2020 est.)<br>
 
 **Population growth rate**<br>
--0.21% (2022 est.)<br>
+-0.19% (2023 est.)<br>
 
 **Birth rate**<br>
-10.11 births/1,000 population (2022 est.)<br>
+9.99 births/1,000 population (2023 est.)<br>
 
 **Death rate**<br>
-9.29 deaths/1,000 population (2022 est.)<br>
+9.37 deaths/1,000 population (2023 est.)<br>
 
 **Net migration rate**<br>
--2.92 migrant(s)/1,000 population (2022 est.)<br>
+-2.53 migrant(s)/1,000 population (2023 est.)<br>
 
 **Population distribution**<br>
 large population clusters found throughout the country, the more significant ones being in the larger towns and cities, particularly the capital of Havana<br>
@@ -136,28 +134,26 @@ _rate of urbanization_: 0.19% annual rate of change (2020-25 est.)<br>
 
 **Sex ratio**<br>
 _at birth_: 1.06 male(s)/female<br>
-_0-14 years_: 1.06 male(s)/female<br>
-_15-24 years_: 1.06 male(s)/female<br>
-_25-54 years_: 1.01 male(s)/female<br>
-_55-64 years_: 0.93 male(s)/female<br>
-_65 years and over_: 0.51 male(s)/female<br>
-_total population_: 0.93 male(s)/female (2022 est.)<br>
+_0-14 years_: 1.07 male(s)/female<br>
+_15-64 years_: 1 male(s)/female<br>
+_65 years and over_: 0.71 male(s)/female<br>
+_total population_: 0.93 male(s)/female (2023 est.)<br>
 
 **Maternal mortality ratio**<br>
 36 deaths/100,000 live births (2017 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 4.13 deaths/1,000 live births<br>
-_male_: 4.65 deaths/1,000 live births<br>
-_female_: 3.57 deaths/1,000 live births (2022 est.)<br>
+_total_: 4.07 deaths/1,000 live births<br>
+_male_: 4.58 deaths/1,000 live births<br>
+_female_: 3.52 deaths/1,000 live births (2023 est.)<br>
 
 **Life expectancy at birth**<br>
-_total population_: 79.64 years<br>
-_male_: 77.29 years<br>
-_female_: 82.14 years (2022 est.)<br>
+_total population_: 79.87 years<br>
+_male_: 77.53 years<br>
+_female_: 82.35 years (2023 est.)<br>
 
 **Total fertility rate**<br>
-1.71 children born/woman (2022 est.)<br>
+1.71 children born/woman (2023 est.)<br>
 
 **Gross reproduction rate**<br>
 0.83 (2023 est.)<br>
@@ -692,10 +688,10 @@ Revolutionary Armed Forces (Fuerzas Armadas Revolucionarias, FAR): Revolutionary
 
 **Military expenditures**<br>
 4.2% of GDP (2020 est.)<br>
-3.2% of GDP (2019 est.) (approximately $5.9 billion)<br>
-2.9% of GDP (2018 est.) (approximately $5.6 billion)<br>
-2.9% of GDP (2017 est.) (approximately $5.5 billion)<br>
-3.1% of GDP (2016 est.) (approximately $5.5 billion)<br>
+3.2% of GDP (2019 est.)<br>
+2.9% of GDP (2018 est.)<br>
+2.9% of GDP (2017 est.)<br>
+3.1% of GDP (2016 est.)<br>
 
 **Military and security service personnel strengths**<br>
 limited available information; estimated 50,000 active personnel (approximately 40,000 Army; 3,000 Navy; 8,000 Air Force) (2022)<br>

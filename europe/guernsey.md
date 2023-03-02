@@ -62,7 +62,7 @@ large, deepwater harbor at Saint Peter Port<br>
 ## People and Society
 
 **Population**<br>
-67,491 (2022 est.)<br>
+67,642 (2023 est.)<br>
 
 **Nationality**<br>
 _noun_: Channel Islander(s)<br>
@@ -79,11 +79,9 @@ English, French, Norman-French dialect spoken in country districts<br>
 Protestant (Anglican, Presbyterian, Baptist, Congregational, Methodist), Roman Catholic<br>
 
 **Age structure**<br>
-_0-14 years_: 14.5% (male 5,008/female 4,712)<br>
-_15-24 years_: 10.58% (male 3,616/female 3,476)<br>
-_25-54 years_: 40.73% (male 13,821/female 13,492)<br>
-_55-64 years_: 13.96% (male 4,635/female 4,728)<br>
-_65 years and over_: 20.23% (male 6,229/female 7,335) (2020 est.)<br>
+_0-14 years_: 14.38% (male 5,006/female 4,722)<br>
+_15-64 years_: 64.48% (male 22,005/female 21,611)<br>
+_65 years and over_: 21.14% (2023 est.) (male 6,646/female 7,652)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 48.6<br>
@@ -98,16 +96,16 @@ _male_: 43 years<br>
 _female_: 45.6 years (2020 est.)<br>
 
 **Population growth rate**<br>
-0.23% (2022 est.)<br>
+0.22% (2023 est.)<br>
 
 **Birth rate**<br>
-9.75 births/1,000 population (2022 est.)<br>
+9.73 births/1,000 population (2023 est.)<br>
 
 **Death rate**<br>
-9.17 deaths/1,000 population (2022 est.)<br>
+9.17 deaths/1,000 population (2023 est.)<br>
 
 **Net migration rate**<br>
-1.7 migrant(s)/1,000 population (2022 est.)<br>
+1.64 migrant(s)/1,000 population (2023 est.)<br>
 
 **Urbanization**<br>
 _urban population_: 31.2% of total population (2023)<br>
@@ -120,24 +118,22 @@ _rate of urbanization_: 0.68% annual rate of change (2020-25 est.)<br>
 **Sex ratio**<br>
 _at birth_: 1.05 male(s)/female<br>
 _0-14 years_: 1.06 male(s)/female<br>
-_15-24 years_: 1.04 male(s)/female<br>
-_25-54 years_: 1.03 male(s)/female<br>
-_55-64 years_: 0.98 male(s)/female<br>
-_65 years and over_: 0.73 male(s)/female<br>
-_total population_: 0.99 male(s)/female (2022 est.)<br>
+_15-64 years_: 1.02 male(s)/female<br>
+_65 years and over_: 0.87 male(s)/female<br>
+_total population_: 0.99 male(s)/female (2023 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 3.36 deaths/1,000 live births<br>
-_male_: 3.85 deaths/1,000 live births<br>
-_female_: 2.83 deaths/1,000 live births (2022 est.)<br>
+_total_: 3.3 deaths/1,000 live births<br>
+_male_: 3.79 deaths/1,000 live births<br>
+_female_: 2.78 deaths/1,000 live births (2023 est.)<br>
 
 **Life expectancy at birth**<br>
-_total population_: 83.23 years<br>
-_male_: 80.52 years<br>
-_female_: 86.07 years (2022 est.)<br>
+_total population_: 83.42 years<br>
+_male_: 80.73 years<br>
+_female_: 86.24 years (2023 est.)<br>
 
 **Total fertility rate**<br>
-1.58 children born/woman (2022 est.)<br>
+1.59 children born/woman (2023 est.)<br>
 
 **Gross reproduction rate**<br>
 0.77 (2023 est.)<br>

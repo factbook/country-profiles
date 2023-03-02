@@ -77,6 +77,7 @@ six of the world's seven continents are widely and permanently inhabited; Asia i
 
 **Natural hazards**<br>
 <p>large areas subject to severe weather (tropical cyclones); natural disasters (earthquakes, landslides, tsunamis, volcanic eruptions)</p> <p><strong>volcanism:</strong> volcanism is a fundamental driver and consequence of plate tectonics, the physical process reshaping the Earth's lithosphere; the world is home to more than 1,500 potentially active volcanoes, with over 500 of these having erupted in historical times; an estimated 500 million people live near these volcanoes; associated dangers include lava flows, lahars (mudflows), pyroclastic flows, ash clouds, ash fall, ballistic projectiles, gas emissions, landslides, earthquakes, and tsunamis; in the 1990s, the International Association of Volcanology and Chemistry of the Earth's Interior, created a list of 16 Decade Volcanoes worthy of special study because of their great potential for destruction: Avachinsky-Koryaksky (Russia), Colima (Mexico), Etna (Italy), Galeras (Colombia), Mauna Loa (United States), Merapi (Indonesia), Nyiragongo (Democratic Republic of the Congo), Rainier (United States), Sakurajima (Japan), Santa Maria (Guatemala), Santorini (Greece), Taal (Philippines), Teide (Spain), Ulawun (Papua New Guinea), Unzen (Japan), Vesuvius (Italy); see second note under "Geography - note"</p><br>
+<strong>Volcano superlatives: </strong><br><br><strong>longest erupting volcano:</strong> Santa Maria volcano in Guatemala has been constantly erupting since 22 June 1922; note - the Yasur volcano on Tanna Island in Vanuatu was observed to be erupting by Captain Cook in 1774 and has been in constant activity since then, but it is not cited since it has no clear start date; research (tephra stratigraphy and radiocarbon dating) shows that activity may have begun on Yasur ca. A.D. 1270 and so has persisted for over 750 years<br><br><strong>highest volcano </strong>(above sea level)<strong>:</strong> Nevado Ojos del Salado (6,879 m; 22,569 ft) on the Chile-Argentina border is the World's highest volcano above sea level and the highest peak in Chile<br><br><strong>highest volcano </strong>(from base)<strong>:</strong><br>
 
 **Geography - note**<br>
 <p><strong>note 1:</strong> the world is now thought to be about 4.55 billion years old, just about one-third of the 13.8-billion-year age estimated for the universe; the earliest widely accepted date for life appearing on earth is 3.48 billion years ago, but this date is conservative and may get pushed back further</p> <p><strong>note 2:</strong> although earthquakes can strike anywhere at any time, the vast majority occur in three large zones of the earth; the world's greatest earthquake belt, the Circum-Pacific Belt (popularly referred to as the Ring of Fire), is the zone of active volcanoes and earthquake epicenters bordering the Pacific Ocean; about 90% of the world's earthquakes (81% of the largest earthquakes) and some 75% of the world's volcanoes occur within the Ring of Fire; the belt extends northward from Chile, along the South American coast, through Central America, Mexico, the western US, southern Alaska and the Aleutian Islands, to Japan, the Philippines, Papua New Guinea, island groups in the southwestern Pacific, and New Zealand<br><br>the second prominent belt, the Alpide, extends from Java to Sumatra, northward along the mountains of Burma, then eastward through the Himalayas, the Mediterranean, and out into the Atlantic Ocean; it accounts for about 17% of the world's largest earthquakes; the third important belt follows the long Mid-Atlantic Ridge<br><br><strong>note 3:</strong> information on the origin sites for many of the world's major food crops may be found in the "Geography - note" for the following countries: Argentina, Bolivia, Brazil, China, Ecuador, Ethiopia, Indonesia, Mexico, Papua New Guinea, Paraguay, Peru, and the United States</p><br>
@@ -95,10 +96,8 @@ Christian 31.1%, Muslim 24.9%, Hindu 15.2%, Buddhist 6.6%, folk religions 5.6%, 
 
 **Age structure**<br>
 _0-14 years_: 25.18% (male 1,010,373,278/female 946,624,579)<br>
-_15-24 years_: 15.29% (male 614,046,344/female 574,513,854)<br>
-_25-54 years_: 40.6% (male 1,597,805,095/female 1,557,807,873)<br>
-_55-64 years_: 9.23% (male 351,094,945/female 366,240,730)<br>
-_65 years and over_: 9.69% male 337,244,947/female 415,884,753) (2021 est.)<br>
+_15-64 years_: 15.29% (male 614,046,344/female 574,513,854)<br>
+_65 years and over_: 9.69% (male 337,244,947/female 415,884,753) (2021 est.)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 54.1<br>
@@ -137,9 +136,7 @@ _rate of urbanization_: 1.73% annual rate of change (2020-25 est.)<br>
 **Sex ratio**<br>
 _at birth_: 1.07 male(s)/female<br>
 _0-14 years_: 1.07 male(s)/female<br>
-_15-24 years_: 1.07 male(s)/female<br>
-_25-54 years_: 1.03 male(s)/female<br>
-_55-64 years_: 0.96 male(s)/female<br>
+_15-64 years_: 1.07 male(s)/female<br>
 _65 years and over_: 0.81 male(s)/female<br>
 _total population_: 1.01 male(s)/female (2020 est.)<br>
 

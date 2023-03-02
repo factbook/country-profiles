@@ -83,7 +83,7 @@ a high altitude plain in the west between two cordillera of the Andes, known as 
 ## People and Society
 
 **Population**<br>
-12,054,379 (2022 est.)<br>
+12,186,079 (2023 est.)<br>
 
 **Nationality**<br>
 _noun_: Bolivian(s)<br>
@@ -104,11 +104,9 @@ Roman Catholic 70%, Evangelical 14.5%, Adventist 2.5%, Church of Jesus Christ 1.
 <p>Bolivia ranks at or near the bottom among Latin American countries in several areas of health and development, including poverty, education, fertility, malnutrition, mortality, and life expectancy. On the positive side, more children are being vaccinated and more pregnant women are getting prenatal care and having skilled health practitioners attend their births.</p><p>Bolivia’s income inequality is the highest in Latin America and one of the highest in the world. Public education is of poor quality, and educational opportunities are among the most unevenly distributed in Latin America, with girls and indigenous and rural children less likely to be literate or to complete primary school. The lack of access to education and family planning services helps to sustain Bolivia’s high fertility rate—approximately three children per woman. Bolivia’s lack of clean water and basic sanitation, especially in rural areas, contributes to health problems.</p><p>Between 7% and 16% of Bolivia’s population lives abroad (estimates vary in part because of illegal migration). Emigrants primarily seek jobs and better wages in Argentina (the principal destination), the US, and Spain. In recent years, more restrictive immigration policies in Europe and the US have increased the flow of Bolivian emigrants to neighboring countries. Fewer Bolivians migrated to Brazil in 2015 and 2016 because of its recession; increasing numbers have been going to Chile, mainly to work as miners.</p><br>
 
 **Age structure**<br>
-_0-14 years_: 30.34% (male 1,799,925/female 1,731,565)<br>
-_15-24 years_: 19.21% (male 1,133,120/female 1,103,063)<br>
-_25-54 years_: 38.68% (male 2,212,096/female 2,289,888)<br>
-_55-64 years_: 6.06% (male 323,210/female 382,139)<br>
-_65 years and over_: 5.71% (male 291,368/female 373,535) (2020 est.)<br>
+_0-14 years_: 29.14% (male 1,813,044/female 1,737,699)<br>
+_15-64 years_: 64.03% (male 3,929,462/female 3,872,943)<br>
+_65 years and over_: 6.84% (2023 est.) (male 384,356/female 448,575)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 56.3<br>
@@ -122,16 +120,16 @@ _male_: 24.5 years<br>
 _female_: 26 years (2020 est.)<br>
 
 **Population growth rate**<br>
-1.12% (2022 est.)<br>
+1.06% (2023 est.)<br>
 
 **Birth rate**<br>
-18.61 births/1,000 population (2022 est.)<br>
+18.08 births/1,000 population (2023 est.)<br>
 
 **Death rate**<br>
-6.48 deaths/1,000 population (2022 est.)<br>
+6.54 deaths/1,000 population (2023 est.)<br>
 
 **Net migration rate**<br>
--0.98 migrant(s)/1,000 population (2022 est.)<br>
+-0.96 migrant(s)/1,000 population (2023 est.)<br>
 
 **Population distribution**<br>
 a high altitude plain in the west between two cordillera of the Andes, known as the Altiplano, is the focal area for most of the population; a dense settlement pattern is also found in and around the city of Santa Cruz, located on the eastern side of the Andes<br>
@@ -146,11 +144,9 @@ _rate of urbanization_: 1.87% annual rate of change (2020-25 est.)<br>
 **Sex ratio**<br>
 _at birth_: 1.05 male(s)/female<br>
 _0-14 years_: 1.04 male(s)/female<br>
-_15-24 years_: 1.03 male(s)/female<br>
-_25-54 years_: 1.01 male(s)/female<br>
-_55-64 years_: 0.97 male(s)/female<br>
-_65 years and over_: 0.72 male(s)/female<br>
-_total population_: 1.01 male(s)/female (2022 est.)<br>
+_15-64 years_: 1.01 male(s)/female<br>
+_65 years and over_: 0.86 male(s)/female<br>
+_total population_: 1.01 male(s)/female (2023 est.)<br>
 
 **Mother's mean age at first birth**<br>
 21.1 years (2008 est.)<br>
@@ -162,15 +158,15 @@ _total population_: 1.01 male(s)/female (2022 est.)<br>
 **Infant mortality rate**<br>
 _total_: 22.28 deaths/1,000 live births<br>
 _male_: 24.5 deaths/1,000 live births<br>
-_female_: 19.95 deaths/1,000 live births (2022 est.)<br>
+_female_: 19.95 deaths/1,000 live births (2023 est.)<br>
 
 **Life expectancy at birth**<br>
 _total population_: 72.5 years<br>
 _male_: 71.04 years<br>
-_female_: 74.02 years (2022 est.)<br>
+_female_: 74.02 years (2023 est.)<br>
 
 **Total fertility rate**<br>
-2.33 children born/woman (2022 est.)<br>
+2.26 children born/woman (2023 est.)<br>
 
 **Gross reproduction rate**<br>
 1.1 (2023 est.)<br>
@@ -722,9 +718,9 @@ Bolivian Armed Forces: Bolivian Army (Ejercito de Boliviano, EB), Bolivian Naval
 **Military expenditures**<br>
 1.4% of GDP (2021 est.)<br>
 1.4% of GDP (2020 est.)<br>
-1.4% of GDP (2019 est.) (approximately $980 million)<br>
-1.5% of GDP (2018 est.) (approximately $1 billion)<br>
-1.5% of GDP (2017 est.) (approximately $1.01 billion)<br>
+1.4% of GDP (2019 est.)<br>
+1.5% of GDP (2018 est.)<br>
+1.5% of GDP (2017 est.)<br>
 
 **Military and security service personnel strengths**<br>
 information varies widely; approximately 40,000 active troops (28,000 Army; 5,000 Navy; 7,000 Air Force); note - a considerable portion of the Navy personnel are marines and naval police; approximately 40,000 National Police (2022)<br>

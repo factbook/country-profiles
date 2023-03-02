@@ -82,7 +82,7 @@ landlocked; the Hindu Kush mountains that run northeast to southwest divide the 
 ## People and Society
 
 **Population**<br>
-38,346,720 (2022 est.)<br>
+39,232,003 (2023 est.)<br>
 
 **Nationality**<br>
 _noun_: Afghan(s)<br>
@@ -100,11 +100,9 @@ _major-language sample(s)_: <br> <p>کتاب حقایق جهان، مرجعی ض
 Muslim 99.7% (Sunni 84.7 - 89.7%, Shia 10 - 15%), other &lt;0.3% (2009 est.)<br>
 
 **Age structure**<br>
-_0-14 years_: 40.62% (male 7,562,703/female 7,321,646)<br>
-_15-24 years_: 21.26% (male 3,960,044/female 3,828,670)<br>
-_25-54 years_: 31.44% (male 5,858,675/female 5,661,887)<br>
-_55-64 years_: 4.01% (male 724,597/female 744,910)<br>
-_65 years and over_: 2.68% (male 451,852/female 528,831) (2020 est.)<br>
+_0-14 years_: 39.8% (male 7,926,748/female 7,686,979)<br>
+_15-64 years_: 57.35% (male 11,413,654/female 11,084,665)<br>
+_65 years and over_: 2.85% (2023 est.) (male 515,147/female 604,810)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 84.6<br>
@@ -118,16 +116,16 @@ _male_: 19.4 years<br>
 _female_: 19.5 years (2020 est.)<br>
 
 **Population growth rate**<br>
-2.3% (2022 est.)<br>
+2.26% (2023 est.)<br>
 
 **Birth rate**<br>
-35.46 births/1,000 population (2022 est.)<br>
+34.79 births/1,000 population (2023 est.)<br>
 
 **Death rate**<br>
-12.33 deaths/1,000 population (2022 est.)<br>
+12.08 deaths/1,000 population (2023 est.)<br>
 
 **Net migration rate**<br>
--0.1 migrant(s)/1,000 population (2022 est.)<br>
+-0.1 migrant(s)/1,000 population (2023 est.)<br>
 
 **Population distribution**<br>
 populations tend to cluster in the foothills and periphery of the rugged Hindu Kush range; smaller groups are found in many of the country's interior valleys; in general, the east is more densely settled, while the south is sparsely populated<br>
@@ -142,11 +140,9 @@ _rate of urbanization_: 3.34% annual rate of change (2020-25 est.)<br>
 **Sex ratio**<br>
 _at birth_: 1.05 male(s)/female<br>
 _0-14 years_: 1.03 male(s)/female<br>
-_15-24 years_: 1.03 male(s)/female<br>
-_25-54 years_: 1.03 male(s)/female<br>
-_55-64 years_: 0.97 male(s)/female<br>
-_65 years and over_: 0.7 male(s)/female<br>
-_total population_: 1.03 male(s)/female (2022 est.)<br>
+_15-64 years_: 1.03 male(s)/female<br>
+_65 years and over_: 0.85 male(s)/female<br>
+_total population_: 1.02 male(s)/female (2023 est.)<br>
 
 **Mother's mean age at first birth**<br>
 19.9 years (2015 est.)<br>
@@ -156,17 +152,17 @@ _total population_: 1.03 male(s)/female (2022 est.)<br>
 638 deaths/100,000 live births (2017 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 104.89 deaths/1,000 live births<br>
-_male_: 113.33 deaths/1,000 live births<br>
-_female_: 96.03 deaths/1,000 live births (2022 est.)<br>
+_total_: 103.06 deaths/1,000 live births<br>
+_male_: 111.47 deaths/1,000 live births<br>
+_female_: 94.24 deaths/1,000 live births (2023 est.)<br>
 
 **Life expectancy at birth**<br>
-_total population_: 53.65 years<br>
-_male_: 52.1 years<br>
-_female_: 55.28 years (2022 est.)<br>
+_total population_: 54.05 years<br>
+_male_: 52.47 years<br>
+_female_: 55.71 years (2023 est.)<br>
 
 **Total fertility rate**<br>
-4.62 children born/woman (2022 est.)<br>
+4.53 children born/woman (2023 est.)<br>
 
 **Gross reproduction rate**<br>
 2.21 (2023 est.)<br>
@@ -310,9 +306,9 @@ Amu Darya (shared with Tajikistan [s], Turkmenistan, and Uzbekistan [m]) - 2,620
 Indian Ocean drainage: Indus (1,081,718 sq km)<br>Internal <em>(endorheic basin) </em>drainage: Amu Darya (534,739 sq km); Tarim Basin (1,152,448 sq km)<br>
 
 **Total water withdrawal**<br>
-_municipal_: 203.4 million cubic meters (2017 est.)<br>
-_industrial_: 169.5 million cubic meters (2017 est.)<br>
-_agricultural_: 20 billion cubic meters (2017 est.)<br>
+_municipal_: 200 million cubic meters (2019 est.)<br>
+_industrial_: 170 million cubic meters (2019 est.)<br>
+_agricultural_: 20 billion cubic meters (2019 est.)<br>
 
 **Total renewable water resources**<br>
 65.33 billion cubic meters (2019 est.)<br>
@@ -703,11 +699,11 @@ _river port(s)_: Hairatan, Qizil Qal`ah (Amu Darya)<br>
 the Taliban has established a de facto ministry of defense and a national army (aka Army of the Islamic Emirate of Afghanistan, Islamic Emirate Army, or Afghan Army); it has also formed a ministry of interior with a subordinate police force (2022)<br>
 
 **Military expenditures**<br>
-3.3% of GDP (2019) (approximately $2.35 billion)<br>
-3.2% of GDP (2018) (approximately $2.31 billion)<br>
-3.3% of GDP (2017) (approximately $2.34 billion)<br>
-3.1% of GDP (2016) (approximately $2.6 billion)<br>
-2.9% of GDP (2015) (approximately $2.22 billion)<br>
+3.3% of GDP (2019)<br>
+3.2% of GDP (2018)<br>
+3.3% of GDP (2017)<br>
+3.1% of GDP (2016)<br>
+2.9% of GDP (2015)<br>
 
 **Military and security service personnel strengths**<br>
 announced that approximately 130,000 personnel had been recruited for a new "National Army"; also announced that over 50,000 personnel had been trained for the police force under the ministry of interior (2022)<br>

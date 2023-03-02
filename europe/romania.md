@@ -82,7 +82,7 @@ controls the most easily traversable land route between the Balkans, Moldova, an
 ## People and Society
 
 **Population**<br>
-18,519,899 (2022 est.)<br>
+18,326,327 (2023 est.)<br>
 
 **Nationality**<br>
 _noun_: Romanian(s)<br>
@@ -100,11 +100,9 @@ _major-language sample(s)_: <br>Cartea informativa a lumii, sursa indispensabila
 Eastern Orthodox (including all sub-denominations) 81.9%, Protestant (various denominations including Reformed and Pentecostal) 6.4%, Roman Catholic 4.3%, other (includes Muslim) 0.9%, none or atheist 0.2%, unspecified 6.3% (2011 est.)<br>
 
 **Age structure**<br>
-_0-14 years_: 14.12% (male 1,545,196/female 1,463,700)<br>
-_15-24 years_: 10.31% (male 1,126,997/female 1,068,817)<br>
-_25-54 years_: 46.26% (male 4,993,886/female 4,860,408)<br>
-_55-64 years_: 11.73% (male 1,176,814/female 1,322,048)<br>
-_65 years and over_: 17.58% (male 1,516,472/female 2,228,555) (2020 est.)<br>
+_0-14 years_: 15.63% (male 1,472,449/female 1,391,671)<br>
+_15-64 years_: 62.13% (male 5,689,908/female 5,696,224)<br>
+_65 years and over_: 22.24% (2023 est.) (male 1,682,695/female 2,393,380)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 53.7<br>
@@ -118,16 +116,16 @@ _male_: 41 years<br>
 _female_: 44 years (2020 est.)<br>
 
 **Population growth rate**<br>
--1.09% (2022 est.)<br>
+-1.01% (2023 est.)<br>
 
 **Birth rate**<br>
-8.76 births/1,000 population (2022 est.)<br>
+8.63 births/1,000 population (2023 est.)<br>
 
 **Death rate**<br>
-15.26 deaths/1,000 population (2022 est.)<br>
+14.92 deaths/1,000 population (2023 est.)<br>
 
 **Net migration rate**<br>
--4.36 migrant(s)/1,000 population (2022 est.)<br>
+-3.86 migrant(s)/1,000 population (2023 est.)<br>
 
 **Population distribution**<br>
 urbanization is not particularly high, and a fairly even population distribution can be found throughout most of the country, with urban areas attracting larger and denser populations; Hungarians, the country's largest minority, have a particularly strong presence in eastern Transylvania<br>
@@ -142,11 +140,9 @@ _rate of urbanization_: -0.15% annual rate of change (2020-25 est.)<br>
 **Sex ratio**<br>
 _at birth_: 1.06 male(s)/female<br>
 _0-14 years_: 1.06 male(s)/female<br>
-_15-24 years_: 1.04 male(s)/female<br>
-_25-54 years_: 1 male(s)/female<br>
-_55-64 years_: 0.96 male(s)/female<br>
-_65 years and over_: 0.75 male(s)/female<br>
-_total population_: 0.94 male(s)/female (2022 est.)<br>
+_15-64 years_: 1 male(s)/female<br>
+_65 years and over_: 0.7 male(s)/female<br>
+_total population_: 0.93 male(s)/female (2023 est.)<br>
 
 **Mother's mean age at first birth**<br>
 27.1 years (2020 est.)<br>
@@ -155,17 +151,17 @@ _total population_: 0.94 male(s)/female (2022 est.)<br>
 19 deaths/100,000 live births (2017 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 5.84 deaths/1,000 live births<br>
-_male_: 6.07 deaths/1,000 live births<br>
-_female_: 5.59 deaths/1,000 live births (2022 est.)<br>
+_total_: 5.65 deaths/1,000 live births<br>
+_male_: 5.91 deaths/1,000 live births<br>
+_female_: 5.37 deaths/1,000 live births (2023 est.)<br>
 
 **Life expectancy at birth**<br>
-_total population_: 75.75 years<br>
-_male_: 72.3 years<br>
-_female_: 79.4 years (2022 est.)<br>
+_total population_: 76.31 years<br>
+_male_: 72.87 years<br>
+_female_: 79.95 years (2023 est.)<br>
 
 **Total fertility rate**<br>
-1.63 children born/woman (2022 est.)<br>
+1.63 children born/woman (2023 est.)<br>
 
 **Gross reproduction rate**<br>
 0.79 (2023 est.)<br>
@@ -728,9 +724,9 @@ Islamic State of Iraq and ash-Sham (ISIS)<br>
 <p><em>Romania-Bulgaria</em>: none identified</p> <p><em>Romania-Hungary</em>: none identified</p> <p><em>Romania-Moldova</em>: none identified</p> <p><em>Romania-Serbia</em>: none identified</p> <p><em>Romania-Ukraine</em>: the International Court of Justice ruled largely in favor of Romania in its dispute submitted in 2004 over Ukrainian-administered Zmiyinyy/Serpilor (Snake) Island and Black Sea maritime boundary delimitation; in 2007, Romania opposed Ukraine's construction of a navigation canal from the Danube border through Ukraine to the Black Sea, arguing that it runs through a unique ecological area, the Danube Delta</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 109,871 (Ukraine) (as of 12 February 2023)<br>
+_refugees (country of origin)_: 112,575 (Ukraine) (as of 26 February 2023)<br>
 _stateless persons_: 297 (2022)<br>
-<strong>note:</strong> 12,228 estimated refugee and migrant arrivals (January 2015-February 2023)<br>
+<strong>note:</strong> 12,367 estimated refugee and migrant arrivals (January 2015-February 2023)<br>
 
 **Illicit drugs**<br>
 <p>a source country for cannabis</p><br>

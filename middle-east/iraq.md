@@ -86,7 +86,7 @@ strategic location on Shatt al Arab waterway and at the head of the Persian Gulf
 ## People and Society
 
 **Population**<br>
-40,462,701 (2022 est.)<br>
+41,266,109 (2023 est.)<br>
 
 **Nationality**<br>
 _noun_: Iraqi(s)<br>
@@ -105,11 +105,9 @@ Muslim (official) 95-98% (Shia 61-64%, Sunni 29-34%), Christian 1% (includes Cat
 <strong>note:</strong> the last census in Iraq was in 1997; while there has been voluntary relocation of many Christian families to northern Iraq, the overall Christian population has decreased at least 50% and perhaps as high as 90% since the fall of the SADDAM Husayn regime in 2003, according to US Embassy estimates, with many fleeing to Syria, Jordan, and Lebanon<br>
 
 **Age structure**<br>
-_0-14 years_: 37.02% (male 7,349,868/female 7,041,405)<br>
-_15-24 years_: 19.83% (male 3,918,433/female 3,788,157)<br>
-_25-54 years_: 35.59% (male 6,919,569/female 6,914,856)<br>
-_55-64 years_: 4.23% (male 805,397/female 839,137)<br>
-_65 years and over_: 3.33% (male 576,593/female 719,240) (2020 est.)<br>
+_0-14 years_: 35.24% (male 7,428,445/female 7,113,723)<br>
+_15-64 years_: 61.17% (male 12,692,897/female 12,548,936)<br>
+_65 years and over_: 3.59% (2023 est.) (male 658,844/female 823,264)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 71<br>
@@ -123,16 +121,16 @@ _male_: 20.8 years<br>
 _female_: 21.6 years (2020 est.)<br>
 
 **Population growth rate**<br>
-2% (2022 est.)<br>
+1.94% (2023 est.)<br>
 
 **Birth rate**<br>
-24.7 births/1,000 population (2022 est.)<br>
+24.22 births/1,000 population (2023 est.)<br>
 
 **Death rate**<br>
-3.9 deaths/1,000 population (2022 est.)<br>
+3.88 deaths/1,000 population (2023 est.)<br>
 
 **Net migration rate**<br>
--0.83 migrant(s)/1,000 population (2022 est.)<br>
+-0.98 migrant(s)/1,000 population (2023 est.)<br>
 
 **Population distribution**<br>
 population is concentrated in the north, center, and eastern parts of the country, with many of the larger urban agglomerations found along extensive parts of the Tigris and Euphrates Rivers; much of the western and southern areas are either lightly populated or uninhabited<br>
@@ -147,27 +145,25 @@ _rate of urbanization_: 2.91% annual rate of change (2020-25 est.)<br>
 **Sex ratio**<br>
 _at birth_: 1.05 male(s)/female<br>
 _0-14 years_: 1.04 male(s)/female<br>
-_15-24 years_: 1.04 male(s)/female<br>
-_25-54 years_: 1 male(s)/female<br>
-_55-64 years_: 0.97 male(s)/female<br>
-_65 years and over_: 0.65 male(s)/female<br>
-_total population_: 1.01 male(s)/female (2022 est.)<br>
+_15-64 years_: 1.01 male(s)/female<br>
+_65 years and over_: 0.8 male(s)/female<br>
+_total population_: 1.01 male(s)/female (2023 est.)<br>
 
 **Maternal mortality ratio**<br>
 79 deaths/100,000 live births (2017 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 19.62 deaths/1,000 live births<br>
-_male_: 21.34 deaths/1,000 live births<br>
-_female_: 17.83 deaths/1,000 live births (2022 est.)<br>
+_total_: 19.17 deaths/1,000 live births<br>
+_male_: 20.85 deaths/1,000 live births<br>
+_female_: 17.42 deaths/1,000 live births (2023 est.)<br>
 
 **Life expectancy at birth**<br>
-_total population_: 73.18 years<br>
-_male_: 71.3 years<br>
-_female_: 75.15 years (2022 est.)<br>
+_total population_: 73.45 years<br>
+_male_: 71.58 years<br>
+_female_: 75.42 years (2023 est.)<br>
 
 **Total fertility rate**<br>
-3.25 children born/woman (2022 est.)<br>
+3.17 children born/woman (2023 est.)<br>
 
 **Gross reproduction rate**<br>
 1.55 (2023 est.)<br>
@@ -746,6 +742,6 @@ Ansar al-Islam; Asa'ib Ahl al-Haq; Islamic Revolutionary Guard Corps (IRGC)/Qods
 
 **Refugees and internally displaced persons**<br>
 _refugees (country of origin)_: 13,344 (Turkey), 7,864 (West Bank and Gaza Strip) (mid-year 2022); 259,584 (Syria) (2023)<br>
-_IDPs_: 1,184,818 (displacement in central and northern Iraq since January 2014) (2022)<br>
+_IDPs_: 1.17 million (displacement in central and northern Iraq since January 2014) (2023)<br>
 _stateless persons_: 47,253 (2022); note - in the 1970s and 1980s under SADDAM Husayn's regime, thousands of Iraq's Faili Kurds, followers of Shia Islam, were stripped of their Iraqi citizenship, had their property seized by the government, and many were deported; some Faili Kurds had their citizenship reinstated under the 2006 Iraqi Nationality Law, but others lack the documentation to prove their Iraqi origins; some Palestinian refugees persecuted by the SADDAM regime remain stateless<br>
 

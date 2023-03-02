@@ -55,7 +55,7 @@ subject to hurricanes from July to November<br>
 ## People and Society
 
 **Population**<br>
-32,792 (2022 est.)<br>
+32,897 (2023 est.)<br>
 
 **Ethnic groups**<br>
 Creole (Mulatto), Black, Guadeloupe Mestizo (French-East Asian), White, East Indian, other<br>
@@ -68,11 +68,9 @@ _major-language sample(s)_: <br>The World Factbook, une source indispensable d'i
 Roman Catholic, Jehovah's Witness, Protestant, Hindu<br>
 
 **Age structure**<br>
-_0-14 years_: 25.63% (male 4,148/female 4,197)<br>
-_15-24 years_: 10.28% (male 1,647/female 1,701)<br>
-_25-54 years_: 46.2% (male 7,201/female 7,841)<br>
-_55-64 years_: 8.71% (male 1,328/female 1,508)<br>
-_65 years and over_: 9.17% (male 1,305/female 1,680) (2020 est.)<br>
+_0-14 years_: 24.9% (male 4,067/female 4,125)<br>
+_15-64 years_: 64.65% (male 10,205/female 11,063)<br>
+_65 years and over_: 10.45% (2023 est.) (male 1,484/female 1,953)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 49.1 N<br>
@@ -86,16 +84,16 @@ _male_: 32.5 years<br>
 _female_: 34.1 years (2020 est.)<br>
 
 **Population growth rate**<br>
-0.33% (2022 est.)<br>
+0.31% (2023 est.)<br>
 
 **Birth rate**<br>
-14.09 births/1,000 population (2022 est.)<br>
+13.95 births/1,000 population (2023 est.)<br>
 
 **Death rate**<br>
-4.64 deaths/1,000 population (2022 est.)<br>
+4.71 deaths/1,000 population (2023 est.)<br>
 
 **Net migration rate**<br>
--6.13 migrant(s)/1,000 population (2022 est.)<br>
+-6.17 migrant(s)/1,000 population (2023 est.)<br>
 
 **Population distribution**<br>
 most of the population is found along the coast, with a largest concentrations around the capital Marigot, Orleans, and Grand-Case<br>
@@ -103,24 +101,22 @@ most of the population is found along the coast, with a largest concentrations a
 **Sex ratio**<br>
 _at birth_: 1.04 male(s)/female<br>
 _0-14 years_: 0.99 male(s)/female<br>
-_15-24 years_: 0.97 male(s)/female<br>
-_25-54 years_: 0.91 male(s)/female<br>
-_55-64 years_: 0.89 male(s)/female<br>
-_65 years and over_: 0.61 male(s)/female<br>
-_total population_: 0.92 male(s)/female (2022 est.)<br>
+_15-64 years_: 0.92 male(s)/female<br>
+_65 years and over_: 0.76 male(s)/female<br>
+_total population_: 0.92 male(s)/female (2023 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 6.71 deaths/1,000 live births<br>
-_male_: 7.85 deaths/1,000 live births<br>
-_female_: 5.53 deaths/1,000 live births (2022 est.)<br>
+_total_: 6.58 deaths/1,000 live births<br>
+_male_: 7.7 deaths/1,000 live births<br>
+_female_: 5.42 deaths/1,000 live births (2023 est.)<br>
 
 **Life expectancy at birth**<br>
-_total population_: 80.58 years<br>
-_male_: 77.48 years<br>
-_female_: 83.81 years (2022 est.)<br>
+_total population_: 80.8 years<br>
+_male_: 77.72 years<br>
+_female_: 84.01 years (2023 est.)<br>
 
 **Total fertility rate**<br>
-1.8 children born/woman (2022 est.)<br>
+1.8 children born/woman (2023 est.)<br>
 
 **Gross reproduction rate**<br>
 0.88 (2023 est.)<br>

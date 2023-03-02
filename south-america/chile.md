@@ -80,7 +80,7 @@ _fresh water lake(s)_: Lago General Carrera (shared with Argentina) - 2,240 sq k
 ## People and Society
 
 **Population**<br>
-18,430,408 (2022 est.)<br>
+18,549,457 (2023 est.)<br>
 
 **Nationality**<br>
 _noun_: Chilean(s)<br>
@@ -100,11 +100,9 @@ Roman Catholic 60%, Evangelical 18%, atheist or agnostic 4%, none 17% (2018 est.
 <p>Chile is in the advanced stages of demographic transition and is becoming an aging society - with fertility below replacement level, low mortality rates, and life expectancy on par with developed countries. Nevertheless, with its dependency ratio nearing its low point, Chile could benefit from its favorable age structure. It will need to keep its large working-age population productively employed, while preparing to provide for the needs of its growing proportion of elderly people, especially as women - the traditional caregivers - increasingly enter the workforce. Over the last two decades, Chile has made great strides in reducing its poverty rate, which is now lower than most Latin American countries. However, its severe income inequality ranks as the worst among members of the Organization for Economic Cooperation and Development. Unequal access to quality education perpetuates this uneven income distribution.</p><p>Chile has historically been a country of emigration but has slowly become more attractive to immigrants since transitioning to democracy in 1990 and improving its economic stability (other regional destinations have concurrently experienced deteriorating economic and political conditions). Most of Chile's small but growing foreign-born population consists of transplants from other Latin American countries, especially Peru.</p><br>
 
 **Age structure**<br>
-_0-14 years_: 19.79% (male 1,836,240/female 1,763,124)<br>
-_15-24 years_: 13.84% (male 1,283,710/female 1,233,238)<br>
-_25-54 years_: 42.58% (male 3,882,405/female 3,860,700)<br>
-_55-64 years_: 11.98% (male 1,034,049/female 1,145,022)<br>
-_65 years and over_: 11.81% (male 902,392/female 1,245,890) (2020 est.)<br>
+_0-14 years_: 19.34% (male 1,829,801/female 1,758,137)<br>
+_15-64 years_: 67.56% (male 6,259,566/female 6,273,074)<br>
+_65 years and over_: 13.09% (2023 est.) (male 1,024,692/female 1,404,187)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 45.2<br>
@@ -118,16 +116,16 @@ _male_: 34.3 years<br>
 _female_: 36.7 years (2020 est.)<br>
 
 **Population growth rate**<br>
-0.66% (2022 est.)<br>
+0.63% (2023 est.)<br>
 
 **Birth rate**<br>
-12.75 births/1,000 population (2022 est.)<br>
+12.57 births/1,000 population (2023 est.)<br>
 
 **Death rate**<br>
-6.52 deaths/1,000 population (2022 est.)<br>
+6.58 deaths/1,000 population (2023 est.)<br>
 
 **Net migration rate**<br>
-0.33 migrant(s)/1,000 population (2022 est.)<br>
+0.32 migrant(s)/1,000 population (2023 est.)<br>
 
 **Population distribution**<br>
 90% of the population is located in the middle third of the country around the capital of Santiago; the far north (anchored by the Atacama Desert) and the extreme south are relatively underpopulated<br>
@@ -142,27 +140,25 @@ _rate of urbanization_: 0.78% annual rate of change (2020-25 est.)<br>
 **Sex ratio**<br>
 _at birth_: 1.04 male(s)/female<br>
 _0-14 years_: 1.04 male(s)/female<br>
-_15-24 years_: 1.04 male(s)/female<br>
-_25-54 years_: 1.01 male(s)/female<br>
-_55-64 years_: 0.91 male(s)/female<br>
-_65 years and over_: 0.56 male(s)/female<br>
-_total population_: 0.97 male(s)/female (2022 est.)<br>
+_15-64 years_: 1 male(s)/female<br>
+_65 years and over_: 0.73 male(s)/female<br>
+_total population_: 0.97 male(s)/female (2023 est.)<br>
 
 **Maternal mortality ratio**<br>
 13 deaths/100,000 live births (2017 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 6.55 deaths/1,000 live births<br>
-_male_: 7.12 deaths/1,000 live births<br>
-_female_: 5.95 deaths/1,000 live births (2022 est.)<br>
+_total_: 6.41 deaths/1,000 live births<br>
+_male_: 6.98 deaths/1,000 live births<br>
+_female_: 5.82 deaths/1,000 live births (2023 est.)<br>
 
 **Life expectancy at birth**<br>
-_total population_: 79.79 years<br>
-_male_: 76.8 years<br>
-_female_: 82.92 years (2022 est.)<br>
+_total population_: 80.02 years<br>
+_male_: 77.04 years<br>
+_female_: 83.13 years (2023 est.)<br>
 
 **Total fertility rate**<br>
-1.76 children born/woman (2022 est.)<br>
+1.75 children born/woman (2023 est.)<br>
 
 **Gross reproduction rate**<br>
 0.86 (2023 est.)<br>
@@ -696,9 +692,9 @@ Armed Forces of Chile (Fuerzas Armadas de Chile): Chilean Army (Ejército de Chi
 **Military expenditures**<br>
 2% of GDP (2021 est.)<br>
 2% of GDP (2020)<br>
-1.9% of GDP (2019) (approximately $7.33 billion)<br>
-1.9% of GDP (2018) (approximately $7.2 billion)<br>
-2% of GDP (2017) (approximately $7.1 billion)<br>
+1.9% of GDP (2019)<br>
+1.9% of GDP (2018)<br>
+2% of GDP (2017)<br>
 
 **Military and security service personnel strengths**<br>
 approximately 70,000 active armed forces personnel (40,000 Army; 20,000 Navy; 10,000 Air Force); approximately 50,000 Carabineros (2022)<br>

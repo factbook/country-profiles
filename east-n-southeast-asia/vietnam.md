@@ -82,7 +82,7 @@ occasional typhoons (May to January) with extensive flooding, especially in the 
 ## People and Society
 
 **Population**<br>
-103,808,319 (2022 est.)<br>
+104,799,174 (2023 est.)<br>
 
 **Nationality**<br>
 _noun_: Vietnamese (singular and plural)<br>
@@ -104,11 +104,9 @@ Catholic 6.1%, Buddhist 5.8%, Protestant 1%, other 0.8%, none 86.3% (2019 est.)<
 <p>When Vietnam was reunified in 1975, the country had a youthful age structure and a high fertility rate.  The population growth rate slowed dramatically during the next 25 years, as fertility declined and infant mortality and life expectancy improved.  The country’s adoption of a one-or-two-child policy in 1988 led to increased rates of contraception and abortion.  The total fertility rate dropped rapidly from nearly 5 in 1979 to 2.1 or replacement level in 1990, and at 1.8 is below replacement level today.  Fertility is higher in the more rural central highlands and northern uplands, which are inhabited primarily by poorer ethnic minorities, and is lower among the majority Kinh, ethnic Chinese, and a few other ethnic groups, particularly in urban centers.  With more than two-thirds of the population of working age (15-64), Vietnam has the potential to reap a demographic dividend for approximately three decades (between 2010 and 2040).  However, its ability to do so will depend on improving the quality of education and training for its workforce and creating jobs.  The Vietnamese Government is also considering changes to the country’s population policy because if the country’s fertility rate remains below replacement level, it could lead to a worker shortage in the future.</p> <p>Vietnam has experienced both internal migration and net emigration, both for humanitarian and economic reasons, for the last several decades.  Internal migration – rural-rural and rural-urban, temporary and permanent – continues to be a means of coping with Vietnam’s extreme weather and flooding.  Although Vietnam’s population is still mainly rural, increasing numbers of young men and women have been drawn to the country’s urban centers where they are more likely to find steady jobs and higher pay in the growing industrial and service sectors.</p> <p>The aftermath of the Vietnam War in 1975 resulted in an outpouring of approximately 1.6 million Vietnamese refugees over the next two decades.  Between 1975 and 1997, programs such as the Orderly Departure Program and the Comprehensive Plan of Action resettled hundreds of thousands of Vietnamese refugees abroad, including the United States (880,000), China (260,000, mainly ethnic Chinese Hoa), Canada (160,000), Australia (155,000), and European countries (150,000). </p> In the 1980s, some Vietnamese students and workers began to migrate to allied communist countries, including the Soviet Union, Czechoslovakia, Bulgaria, and East Germany.  The vast majority returned home following the fall of communism in Eastern Europe in the early 1990s.  Since that time, Vietnamese labor migrants instead started to pursue opportunities in Asia and the Middle East.  They often perform low-skilled jobs under harsh conditions for low pay and are vulnerable to forced labor, including debt bondage to the private brokers who arrange the work contracts.  Despite Vietnam’s current labor surplus, the country has in recent years attracted some foreign workers, mainly from China and other Asian countries.<br>
 
 **Age structure**<br>
-_0-14 years_: 22.61% (male 11,733,704/female 10,590,078)<br>
-_15-24 years_: 15.22% (male 7,825,859/female 7,202,716)<br>
-_25-54 years_: 45.7% (male 22,852,429/female 22,262,566)<br>
-_55-64 years_: 9.55% (male 4,412,111/female 5,016,880)<br>
-_65 years and over_: 6.91% (male 2,702,963/female 4,121,969) (2020 est.)<br>
+_0-14 years_: 23.44% (male 12,975,791/female 11,593,157)<br>
+_15-64 years_: 68.69% (male 36,280,449/female 35,705,586)<br>
+_65 years and over_: 7.87% (2023 est.) (male 3,346,804/female 4,897,387)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 45.6<br>
@@ -122,16 +120,16 @@ _male_: 30.8 years<br>
 _female_: 33 years (2020 est.)<br>
 
 **Population growth rate**<br>
-0.97% (2022 est.)<br>
+0.93% (2023 est.)<br>
 
 **Birth rate**<br>
-15.69 births/1,000 population (2022 est.)<br>
+15.29 births/1,000 population (2023 est.)<br>
 
 **Death rate**<br>
-5.77 deaths/1,000 population (2022 est.)<br>
+5.77 deaths/1,000 population (2023 est.)<br>
 
 **Net migration rate**<br>
--0.22 migrant(s)/1,000 population (2022 est.)<br>
+-0.21 migrant(s)/1,000 population (2023 est.)<br>
 
 **Population distribution**<br>
 though it has one of the highest population densities in the world, the population is not evenly dispersed; clustering is heaviest along the South China Sea and Gulf of Tonkin, with the Mekong Delta (in the south) and the Red River Valley (in the north) having the largest concentrations of people<br>
@@ -144,29 +142,27 @@ _rate of urbanization_: 2.7% annual rate of change (2020-25 est.)<br>
 9.321 million Ho Chi Minh City, 5.253 million HANOI (capital), 1.865 million Can Tho, 1.423 million Hai Phong, 1.221 million Da Nang, 1.111 million Bien Hoa (2023)<br>
 
 **Sex ratio**<br>
-_at birth_: 1.11 male(s)/female<br>
+_at birth_: 1.1 male(s)/female<br>
 _0-14 years_: 1.12 male(s)/female<br>
-_15-24 years_: 1.06 male(s)/female<br>
-_25-54 years_: 1.02 male(s)/female<br>
-_55-64 years_: 0.9 male(s)/female<br>
-_65 years and over_: 0.5 male(s)/female<br>
-_total population_: 1.01 male(s)/female (2022 est.)<br>
+_15-64 years_: 1.02 male(s)/female<br>
+_65 years and over_: 0.68 male(s)/female<br>
+_total population_: 1.01 male(s)/female (2023 est.)<br>
 
 **Maternal mortality ratio**<br>
 43 deaths/100,000 live births (2017 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 14.75 deaths/1,000 live births<br>
-_male_: 15.09 deaths/1,000 live births<br>
-_female_: 14.38 deaths/1,000 live births (2022 est.)<br>
+_total_: 14.42 deaths/1,000 live births<br>
+_male_: 14.76 deaths/1,000 live births<br>
+_female_: 14.05 deaths/1,000 live births (2023 est.)<br>
 
 **Life expectancy at birth**<br>
-_total population_: 75.52 years<br>
-_male_: 72.95 years<br>
-_female_: 78.37 years (2022 est.)<br>
+_total population_: 75.79 years<br>
+_male_: 73.22 years<br>
+_female_: 78.62 years (2023 est.)<br>
 
 **Total fertility rate**<br>
-2.05 children born/woman (2022 est.)<br>
+2.04 children born/woman (2023 est.)<br>
 
 **Gross reproduction rate**<br>
 0.97 (2023 est.)<br>

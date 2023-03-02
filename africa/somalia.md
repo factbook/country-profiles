@@ -77,7 +77,7 @@ strategic location on Horn of Africa along southern approaches to Bab el Mandeb 
 ## People and Society
 
 **Population**<br>
-12,386,248 (2022 est.)<br>
+12,693,796 (2023 est.)<br>
 <strong>note:</strong> this estimate was derived from an official census taken in 1975 by the Somali Government; population counting in Somalia is complicated by the large number of nomads and by refugee movements in response to famine and clan warfare<br>
 
 **Nationality**<br>
@@ -98,11 +98,9 @@ Sunni Muslim (Islam) (official, according to the 2012 Transitional Federal Chart
 <p>Somalia scores very low for most humanitarian indicators, suffering from poor governance, protracted internal conflict, underdevelopment, economic decline, poverty, social and gender inequality, and environmental degradation. Despite civil war and famine raising its mortality rate, Somalia’s high fertility rate and large proportion of people of reproductive age maintain rapid population growth, with each generation being larger than the prior one. More than 60% of Somalia’s population is younger than 25 as of 2020, and the fertility rate is among the world’s highest at almost 5.5 children per woman – a rate that has decreased little since the 1970s.</p> <p>A lack of educational and job opportunities is a major source of tension for Somalia’s large youth cohort, making them vulnerable to recruitment by extremist and pirate groups. Somalia has one of the world’s lowest primary school enrollment rates – just over 40% of children are in school – and one of the world’s highest youth unemployment rates. Life expectancy is low as a result of high infant and maternal mortality rates, the spread of preventable diseases, poor sanitation, chronic malnutrition, and inadequate health services.</p> <p>During the two decades of conflict that followed the fall of the SIAD regime in 1991, hundreds of thousands of Somalis fled their homes. Today Somalia is the world’s fourth highest source country for refugees, after Ukraine, Syria and Afghanistan. Insecurity, drought, floods, food shortages, and a lack of economic opportunities are the driving factors.</p> <p>As of 2022, more than 660,000 Somali refugees were hosted in the region, mainly in Kenya, Yemen, Egypt, Ethiopia, Djibouti, and Uganda, while nearly 3 million Somalis were internally displaced. Since the implementation of a tripartite voluntary repatriation agreement among Kenya, Somalia, and the UNHCR in 2013, many Somali refugees have returned home, some 80,000 between 2014 and 2022.  The Kenyan Government in March 2021 ordered the closure of its two largest refugee camps, Dadaab and Kakuma, which then hosted more than 410,000 mainly Somali refugees.  However, the UN refugee agency presented a road map, including voluntary repatriation, relocation to third countries, and alternative stay options that persuaded the Kenyan Government to delay the closures.  The plan was supposed to lead to both camps being closed by 30 June 2022. Yet, as of May 2022, few Somali refugees had decided to return home because of security concerns and the lack of job prospects, instead waiting in the camps unsure of what the future held for them. Other Somali asylum seekers brave the dangers of crossing the Gulf of Aden to reach Yemen – despite its internal conflict – with aspirations to move onward to Saudi Arabia and other locations.</p><br>
 
 **Age structure**<br>
-_0-14 years_: 42.38% (male 2,488,604/female 2,493,527)<br>
-_15-24 years_: 19.81% (male 1,167,807/female 1,161,040)<br>
-_25-54 years_: 30.93% (male 1,881,094/female 1,755,166)<br>
-_55-64 years_: 4.61% (male 278,132/female 264,325)<br>
-_65 years and over_: 2.27% (male 106,187/female 161,242) (2020 est.)<br>
+_0-14 years_: 41.54% (male 2,633,262/female 2,640,088)<br>
+_15-64 years_: 55.77% (male 3,609,721/female 3,469,735)<br>
+_65 years and over_: 2.69% (2023 est.) (male 143,742/female 197,248)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 99.4<br>
@@ -116,16 +114,16 @@ _male_: 18.7 years<br>
 _female_: 18.3 years (2020 est.)<br>
 
 **Population growth rate**<br>
-2.42% (2022 est.)<br>
+2.49% (2023 est.)<br>
 
 **Birth rate**<br>
-37.98 births/1,000 population (2022 est.)<br>
+37.71 births/1,000 population (2023 est.)<br>
 
 **Death rate**<br>
-11.62 deaths/1,000 population (2022 est.)<br>
+11.43 deaths/1,000 population (2023 est.)<br>
 
 **Net migration rate**<br>
--2.18 migrant(s)/1,000 population (2022 est.)<br>
+-1.42 migrant(s)/1,000 population (2023 est.)<br>
 
 **Population distribution**<br>
 distribution varies greatly throughout the country; least densely populated areas are in the northeast and central regions, as well as areas along the Kenyan border; most populated areas are in and around the cities of Mogadishu, Marka, Boorama, Hargeysa, and Baidoa as shown on this population distribution map<br>
@@ -140,27 +138,25 @@ _rate of urbanization_: 4.2% annual rate of change (2020-25 est.)<br>
 **Sex ratio**<br>
 _at birth_: 1.03 male(s)/female<br>
 _0-14 years_: 1 male(s)/female<br>
-_15-24 years_: 1 male(s)/female<br>
-_25-54 years_: 1.08 male(s)/female<br>
-_55-64 years_: 1.08 male(s)/female<br>
-_65 years and over_: 0.56 male(s)/female<br>
-_total population_: 1.01 male(s)/female (2022 est.)<br>
+_15-64 years_: 1.04 male(s)/female<br>
+_65 years and over_: 0.73 male(s)/female<br>
+_total population_: 1.01 male(s)/female (2023 est.)<br>
 
 **Maternal mortality ratio**<br>
 829 deaths/100,000 live births (2017 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 86.53 deaths/1,000 live births<br>
-_male_: 96.18 deaths/1,000 live births<br>
-_female_: 76.59 deaths/1,000 live births (2022 est.)<br>
+_total_: 85.06 deaths/1,000 live births<br>
+_male_: 94.68 deaths/1,000 live births<br>
+_female_: 75.15 deaths/1,000 live births (2023 est.)<br>
 
 **Life expectancy at birth**<br>
-_total population_: 55.72 years<br>
-_male_: 53.39 years<br>
-_female_: 58.12 years (2022 est.)<br>
+_total population_: 56.12 years<br>
+_male_: 53.75 years<br>
+_female_: 58.55 years (2023 est.)<br>
 
 **Total fertility rate**<br>
-5.31 children born/woman (2022 est.)<br>
+5.22 children born/woman (2023 est.)<br>
 
 **Gross reproduction rate**<br>
 2.57 (2023 est.)<br>

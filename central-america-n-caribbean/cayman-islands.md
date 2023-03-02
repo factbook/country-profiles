@@ -73,7 +73,7 @@ important location between Cuba and Central America<br>
 ## People and Society
 
 **Population**<br>
-64,309 (2022 est.)<br>
+65,483 (2023 est.)<br>
 <strong>note:</strong> most of the population lives on Grand Cayman<br>
 
 **Nationality**<br>
@@ -90,11 +90,9 @@ English (official) 90.9%, Spanish 4%, Filipino 3.3%, other 1.7%, unspecified 0.1
 Protestant 67.8% (includes Church of God 22.6%, Seventh Day Adventist 9.4%, Presbyterian/United Church 8.6%, Baptist 8.3%, Pentecostal 7.1%, non-denominational 5.3%, Anglican 4.1%, Wesleyan Holiness 2.4%), Roman Catholic 14.1%, Jehovah's Witness 1.1%, other 7%, none 9.3%, unspecified 0.7% (2010 est.)<br>
 
 **Age structure**<br>
-_0-14 years_: 17.75% (male 5,535/female 5,457)<br>
-_15-24 years_: 11.86% (male 3,673/female 3,675)<br>
-_25-54 years_: 41.37% (male 12,489/female 13,140)<br>
-_55-64 years_: 14.78% (male 4,398/female 4,755)<br>
-_65 years and over_: 14.24% (male 4,053/female 4,769) (2020 est.)<br>
+_0-14 years_: 17.48% (male 5,761/female 5,684)<br>
+_15-64 years_: 66.48% (male 21,271/female 22,261)<br>
+_65 years and over_: 16.04% (2023 est.) (male 4,792/female 5,714)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 32.6<br>
@@ -108,16 +106,16 @@ _male_: 39.7 years<br>
 _female_: 41.2 years (2020 est.)<br>
 
 **Population growth rate**<br>
-1.83% (2022 est.)<br>
+1.79% (2023 est.)<br>
 
 **Birth rate**<br>
-11.69 births/1,000 population (2022 est.)<br>
+11.62 births/1,000 population (2023 est.)<br>
 
 **Death rate**<br>
-5.97 deaths/1,000 population (2022 est.)<br>
+6.06 deaths/1,000 population (2023 est.)<br>
 
 **Net migration rate**<br>
-12.56 migrant(s)/1,000 population (2022 est.)<br>
+12.34 migrant(s)/1,000 population (2023 est.)<br>
 <strong>note:</strong> major destination for Cubans trying to migrate to the US<br>
 
 **Population distribution**<br>
@@ -133,24 +131,22 @@ _rate of urbanization_: 1.13% annual rate of change (2020-25 est.)<br>
 **Sex ratio**<br>
 _at birth_: 1.02 male(s)/female<br>
 _0-14 years_: 1.01 male(s)/female<br>
-_15-24 years_: 1 male(s)/female<br>
-_25-54 years_: 0.95 male(s)/female<br>
-_55-64 years_: 0.94 male(s)/female<br>
-_65 years and over_: 0.7 male(s)/female<br>
-_total population_: 0.95 male(s)/female (2022 est.)<br>
+_15-64 years_: 0.96 male(s)/female<br>
+_65 years and over_: 0.84 male(s)/female<br>
+_total population_: 0.95 male(s)/female (2023 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 7.65 deaths/1,000 live births<br>
-_male_: 9.26 deaths/1,000 live births<br>
-_female_: 6.01 deaths/1,000 live births (2022 est.)<br>
+_total_: 7.47 deaths/1,000 live births<br>
+_male_: 9.04 deaths/1,000 live births<br>
+_female_: 5.87 deaths/1,000 live births (2023 est.)<br>
 
 **Life expectancy at birth**<br>
-_total population_: 82.04 years<br>
-_male_: 79.35 years<br>
-_female_: 84.79 years (2022 est.)<br>
+_total population_: 82.25 years<br>
+_male_: 79.57 years<br>
+_female_: 84.98 years (2023 est.)<br>
 
 **Total fertility rate**<br>
-1.82 children born/woman (2022 est.)<br>
+1.82 children born/woman (2023 est.)<br>
 
 **Gross reproduction rate**<br>
 0.9 (2023 est.)<br>

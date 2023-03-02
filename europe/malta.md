@@ -74,7 +74,7 @@ the country comprises an archipelago, with only the three largest islands (Malta
 ## People and Society
 
 **Population**<br>
-464,186 (2022 est.)<br>
+467,138 (2023 est.)<br>
 
 **Nationality**<br>
 _noun_: Maltese (singular and plural)<br>
@@ -90,11 +90,9 @@ Maltese (official) 90.1%, English (official) 6%, multilingual 3%, other 0.9% (20
 Roman Catholic (official) more than 90% (2006 est.)<br>
 
 **Age structure**<br>
-_0-14 years_: 14.38% (male 33,934/female 31,823)<br>
-_15-24 years_: 10.33% (male 24,445/female 22,811)<br>
-_25-54 years_: 41.1% (male 97,685/female 90,264)<br>
-_55-64 years_: 12.88% (male 29,533/female 29,353)<br>
-_65 years and over_: 21.3% (male 44,644/female 52,775) (2020 est.)<br>
+_0-14 years_: 14.53% (male 34,870/female 32,989)<br>
+_15-64 years_: 62.83% (male 151,927/female 141,561)<br>
+_65 years and over_: 22.65% (2023 est.) (male 48,830/female 56,961)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 47.1<br>
@@ -108,16 +106,16 @@ _male_: 41.2 years<br>
 _female_: 43.5 years (2020 est.)<br>
 
 **Population growth rate**<br>
-0.67% (2022 est.)<br>
+0.59% (2023 est.)<br>
 
 **Birth rate**<br>
-9.73 births/1,000 population (2022 est.)<br>
+9.59 births/1,000 population (2023 est.)<br>
 
 **Death rate**<br>
-8.48 deaths/1,000 population (2022 est.)<br>
+8.61 deaths/1,000 population (2023 est.)<br>
 
 **Net migration rate**<br>
-5.49 migrant(s)/1,000 population (2022 est.)<br>
+4.96 migrant(s)/1,000 population (2023 est.)<br>
 
 **Population distribution**<br>
 most of the population lives on the eastern half of Malta, the largest of the three inhabited islands<br>
@@ -132,11 +130,9 @@ _rate of urbanization_: 0.28% annual rate of change (2020-25 est.)<br>
 **Sex ratio**<br>
 _at birth_: 1.04 male(s)/female<br>
 _0-14 years_: 1.06 male(s)/female<br>
-_15-24 years_: 1.07 male(s)/female<br>
-_25-54 years_: 1.09 male(s)/female<br>
-_55-64 years_: 1.01 male(s)/female<br>
-_65 years and over_: 0.7 male(s)/female<br>
-_total population_: 1.02 male(s)/female (2022 est.)<br>
+_15-64 years_: 1.07 male(s)/female<br>
+_65 years and over_: 0.86 male(s)/female<br>
+_total population_: 1.02 male(s)/female (2023 est.)<br>
 
 **Mother's mean age at first birth**<br>
 29.3 years (2020 est.)<br>
@@ -146,17 +142,17 @@ _total population_: 1.02 male(s)/female (2022 est.)<br>
 6 deaths/100,000 live births (2017 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 4.53 deaths/1,000 live births<br>
-_male_: 4.43 deaths/1,000 live births<br>
-_female_: 4.64 deaths/1,000 live births (2022 est.)<br>
+_total_: 4.45 deaths/1,000 live births<br>
+_male_: 4.36 deaths/1,000 live births<br>
+_female_: 4.54 deaths/1,000 live births (2023 est.)<br>
 
 **Life expectancy at birth**<br>
-_total population_: 83.2 years<br>
-_male_: 81.11 years<br>
-_female_: 85.38 years (2022 est.)<br>
+_total population_: 83.39 years<br>
+_male_: 81.31 years<br>
+_female_: 85.56 years (2023 est.)<br>
 
 **Total fertility rate**<br>
-1.5 children born/woman (2022 est.)<br>
+1.51 children born/woman (2023 est.)<br>
 
 **Gross reproduction rate**<br>
 0.74 (2023 est.)<br>

@@ -76,7 +76,7 @@ a Y-shaped chain of four main islands and 80 smaller islands; several of the isl
 ## People and Society
 
 **Population**<br>
-308,043 (2022 est.)<br>
+313,046 (2023 est.)<br>
 
 **Nationality**<br>
 _noun_: Ni-Vanuatu (singular and plural)<br>
@@ -92,11 +92,9 @@ local languages (more than 100) 63.2%, Bislama (official; creole) 33.7%, English
 Protestant 70% (includes Presbyterian 27.9%, Anglican 15.1%, Seventh Day Adventist 12.5%, Assemblies of God 4.7%, Church of Christ 4.5%, Neil Thomas Ministry 3.1%, and Apostolic 2.2%), Roman Catholic 12.4%, customary beliefs 3.7% (including Jon Frum cargo cult), other 12.6%, none 1.1%, unspecified 0.2% (2009 est.)<br>
 
 **Age structure**<br>
-_0-14 years_: 33.65% (male 51,267/female 49,111)<br>
-_15-24 years_: 19.99% (male 29,594/female 30,050)<br>
-_25-54 years_: 36.09% (male 52,529/female 55,130)<br>
-_55-64 years_: 5.89% (male 8,666/female 8,904)<br>
-_65 years and over_: 4.39% (male 6,518/female 6,564) (2020 est.)<br>
+_0-14 years_: 31.73% (male 50,721/female 48,607)<br>
+_15-64 years_: 63.41% (male 97,376/female 101,135)<br>
+_65 years and over_: 4.86% (2023 est.) (male 7,486/female 7,721)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 76.5<br>
@@ -110,16 +108,16 @@ _male_: 22.6 years<br>
 _female_: 23.5 years (2020 est.)<br>
 
 **Population growth rate**<br>
-1.63% (2022 est.)<br>
+1.59% (2023 est.)<br>
 
 **Birth rate**<br>
-21.57 births/1,000 population (2022 est.)<br>
+21.19 births/1,000 population (2023 est.)<br>
 
 **Death rate**<br>
-3.98 deaths/1,000 population (2022 est.)<br>
+3.99 deaths/1,000 population (2023 est.)<br>
 
 **Net migration rate**<br>
--1.3 migrant(s)/1,000 population (2022 est.)<br>
+-1.28 migrant(s)/1,000 population (2023 est.)<br>
 
 **Population distribution**<br>
 three-quarters of the population lives in rural areas; the urban populace lives primarily in two cities, Port-Vila and Lugenville; three largest islands - Espiritu Santo, Malakula, and Efate - accomodate over half of the populace<br>
@@ -134,27 +132,25 @@ _rate of urbanization_: 2.55% annual rate of change (2020-25 est.)<br>
 **Sex ratio**<br>
 _at birth_: 1.05 male(s)/female<br>
 _0-14 years_: 1.04 male(s)/female<br>
-_15-24 years_: 0.98 male(s)/female<br>
-_25-54 years_: 0.95 male(s)/female<br>
-_55-64 years_: 0.96 male(s)/female<br>
-_65 years and over_: 0.91 male(s)/female<br>
-_total population_: 0.99 male(s)/female (2022 est.)<br>
+_15-64 years_: 0.96 male(s)/female<br>
+_65 years and over_: 0.97 male(s)/female<br>
+_total population_: 0.99 male(s)/female (2023 est.)<br>
 
 **Maternal mortality ratio**<br>
 72 deaths/100,000 live births (2017 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 14.34 deaths/1,000 live births<br>
-_male_: 15.76 deaths/1,000 live births<br>
-_female_: 12.86 deaths/1,000 live births (2022 est.)<br>
+_total_: 14 deaths/1,000 live births<br>
+_male_: 15.38 deaths/1,000 live births<br>
+_female_: 12.56 deaths/1,000 live births (2023 est.)<br>
 
 **Life expectancy at birth**<br>
-_total population_: 75.14 years<br>
-_male_: 73.45 years<br>
-_female_: 76.91 years (2022 est.)<br>
+_total population_: 75.4 years<br>
+_male_: 73.72 years<br>
+_female_: 77.17 years (2023 est.)<br>
 
 **Total fertility rate**<br>
-2.66 children born/woman (2022 est.)<br>
+2.59 children born/woman (2023 est.)<br>
 
 **Gross reproduction rate**<br>
 1.26 (2023 est.)<br>

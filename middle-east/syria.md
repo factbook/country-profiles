@@ -82,7 +82,7 @@ the capital of Damascus - located at an oasis fed by the Barada River - is thoug
 ## People and Society
 
 **Population**<br>
-21,563,800 (2022 est.)<br>
+22,933,531 (2023 est.)<br>
 <strong>note:</strong> approximately 22,900 Israeli settlers live in the Golan Heights (2018)<br>
 
 **Nationality**<br>
@@ -101,11 +101,9 @@ Muslim 87% (official; includes Sunni 74% and Alawi, Ismaili, and Shia 13%), Chri
 <strong>note:</strong>  the Christian population may be considerably smaller as a result of Christians fleeing the country during the ongoing civil war<br>
 
 **Age structure**<br>
-_0-14 years_: 33.47% (male 3,323,072/female 3,170,444)<br>
-_15-24 years_: 19.34% (male 1,872,903/female 1,879,564)<br>
-_25-54 years_: 37.31% (male 3,558,241/female 3,679,596)<br>
-_55-64 years_: 5.41% (male 516,209/female 534,189)<br>
-_65 years and over_: 4.46% (male 404,813/female 459,417) (2020 est.)<br>
+_0-14 years_: 33.27% (male 3,914,737/female 3,716,362)<br>
+_15-64 years_: 62.58% (male 7,141,423/female 7,209,386)<br>
+_65 years and over_: 4.15% (2023 est.) (male 445,288/female 506,335)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 55.4<br>
@@ -119,16 +117,16 @@ _male_: 23 years<br>
 _female_: 24 years (2020 est.)<br>
 
 **Population growth rate**<br>
-5.91% (2022 est.)<br>
+6.39% (2023 est.)<br>
 
 **Birth rate**<br>
-22.72 births/1,000 population (2022 est.)<br>
+22.19 births/1,000 population (2023 est.)<br>
 
 **Death rate**<br>
-4.22 deaths/1,000 population (2022 est.)<br>
+4.07 deaths/1,000 population (2023 est.)<br>
 
 **Net migration rate**<br>
-40.58 migrant(s)/1,000 population (2022 est.) NA<br>
+45.78 migrant(s)/1,000 population (2023 est.) NA<br>
 
 **Population distribution**<br>
 significant population density along the Mediterranean coast; larger concentrations found in the major cities of Damascus, Aleppo (the country's largest city), and Hims (Homs); more than half of the population lives in the coastal plain, the province of Halab, and the Euphrates River valley<br>
@@ -144,27 +142,25 @@ _rate of urbanization_: 5.38% annual rate of change (2020-25 est.)<br>
 **Sex ratio**<br>
 _at birth_: 1.06 male(s)/female<br>
 _0-14 years_: 1.05 male(s)/female<br>
-_15-24 years_: 1.02 male(s)/female<br>
-_25-54 years_: 0.97 male(s)/female<br>
-_55-64 years_: 0.97 male(s)/female<br>
-_65 years and over_: 0.76 male(s)/female<br>
-_total population_: 1 male(s)/female (2022 est.)<br>
+_15-64 years_: 0.99 male(s)/female<br>
+_65 years and over_: 0.88 male(s)/female<br>
+_total population_: 1.01 male(s)/female (2023 est.)<br>
 
 **Maternal mortality ratio**<br>
 31 deaths/100,000 live births (2017 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 15.87 deaths/1,000 live births<br>
-_male_: 17.5 deaths/1,000 live births<br>
-_female_: 14.14 deaths/1,000 live births (2022 est.)<br>
+_total_: 15.48 deaths/1,000 live births<br>
+_male_: 17.06 deaths/1,000 live births<br>
+_female_: 13.8 deaths/1,000 live births (2023 est.)<br>
 
 **Life expectancy at birth**<br>
-_total population_: 74.28 years<br>
-_male_: 72.82 years<br>
-_female_: 75.84 years (2022 est.)<br>
+_total population_: 74.55 years<br>
+_male_: 73.09 years<br>
+_female_: 76.1 years (2023 est.)<br>
 
 **Total fertility rate**<br>
-2.8 children born/woman (2022 est.)<br>
+2.74 children born/woman (2023 est.)<br>
 
 **Gross reproduction rate**<br>
 1.33 (2023 est.)<br>

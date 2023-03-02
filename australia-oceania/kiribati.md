@@ -74,7 +74,7 @@ typhoons can occur any time, but usually November to March; occasional tornadoes
 ## People and Society
 
 **Population**<br>
-114,189 (2022 est.)<br>
+115,372 (2023 est.)<br>
 
 **Nationality**<br>
 _noun_: I-Kiribati (singular and plural)<br>
@@ -90,11 +90,9 @@ Gilbertese, English (official)<br>
 Roman Catholic 58.9%, Kiribati Uniting Church 21.2%, Kiribati Protestant Church 8.4%, Church of Jesus Christ 5.6%, Seventh Day Adventist 2.1%, Baha'i 2.1%, other 1.7% (2020 est.)<br>
 
 **Age structure**<br>
-_0-14 years_: 28.47% (male 16,223/female 15,604)<br>
-_15-24 years_: 20.24% (male 11,171/female 11,459)<br>
-_25-54 years_: 40.05% (male 21,530/female 23,249)<br>
-_55-64 years_: 6.65% (male 3,350/female 4,084)<br>
-_65 years and over_: 4.59% (male 2,004/female 3,122) (2020 est.)<br>
+_0-14 years_: 27.06% (male 15,906/female 15,314)<br>
+_15-64 years_: 67.77% (male 37,634/female 40,559)<br>
+_65 years and over_: 5.17% (2023 est.) (male 2,314/female 3,645)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 66.4<br>
@@ -108,16 +106,16 @@ _male_: 24.8 years<br>
 _female_: 26.6 years (2020 est.)<br>
 
 **Population growth rate**<br>
-1.04% (2022 est.)<br>
+1.02% (2023 est.)<br>
 
 **Birth rate**<br>
-20.12 births/1,000 population (2022 est.)<br>
+19.92 births/1,000 population (2023 est.)<br>
 
 **Death rate**<br>
-6.92 deaths/1,000 population (2022 est.)<br>
+6.91 deaths/1,000 population (2023 est.)<br>
 
 **Net migration rate**<br>
--2.8 migrant(s)/1,000 population (2022 est.)<br>
+-2.79 migrant(s)/1,000 population (2023 est.)<br>
 
 **Population distribution**<br>
 consists of three achipelagos spread out over an area roughly the size of India; the eastern Line Islands and central Phoenix Islands are sparsely populated, but the western Gilbert Islands are some of the most densely settled places on earth, with the main island of South Tarawa boasting a population density similar to Tokyo or Hong Kong<br>
@@ -132,11 +130,9 @@ _rate of urbanization_: 2.77% annual rate of change (2020-25 est.)<br>
 **Sex ratio**<br>
 _at birth_: 1.05 male(s)/female<br>
 _0-14 years_: 1.04 male(s)/female<br>
-_15-24 years_: 0.98 male(s)/female<br>
-_25-54 years_: 0.92 male(s)/female<br>
-_55-64 years_: 0.82 male(s)/female<br>
-_65 years and over_: 0.46 male(s)/female<br>
-_total population_: 0.94 male(s)/female (2022 est.)<br>
+_15-64 years_: 0.93 male(s)/female<br>
+_65 years and over_: 0.63 male(s)/female<br>
+_total population_: 0.94 male(s)/female (2023 est.)<br>
 
 **Mother's mean age at first birth**<br>
 23.1 years (2009 est.)<br>
@@ -146,17 +142,17 @@ _total population_: 0.94 male(s)/female (2022 est.)<br>
 92 deaths/100,000 live births (2017 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 32.93 deaths/1,000 live births<br>
-_male_: 34.88 deaths/1,000 live births<br>
-_female_: 30.87 deaths/1,000 live births (2022 est.)<br>
+_total_: 32.2 deaths/1,000 live births<br>
+_male_: 34.17 deaths/1,000 live births<br>
+_female_: 30.14 deaths/1,000 live births (2023 est.)<br>
 
 **Life expectancy at birth**<br>
-_total population_: 67.9 years<br>
-_male_: 65.3 years<br>
-_female_: 70.64 years (2022 est.)<br>
+_total population_: 68.22 years<br>
+_male_: 65.6 years<br>
+_female_: 70.97 years (2023 est.)<br>
 
 **Total fertility rate**<br>
-2.2 children born/woman (2022 est.)<br>
+2.18 children born/woman (2023 est.)<br>
 
 **Gross reproduction rate**<br>
 1.06 (2023 est.)<br>

@@ -76,7 +76,7 @@ four volcanoes, two of them active, rise near the capital of San Jose in the cen
 ## People and Society
 
 **Population**<br>
-5,204,411 (2022 est.)<br>
+5,256,612 (2023 est.)<br>
 
 **Nationality**<br>
 _noun_: Costa Rican(s)<br>
@@ -96,11 +96,9 @@ Roman Catholic 47.5%, Evangelical and Pentecostal 19.8%, Jehovah's Witness 1.4%,
 <p>Costa Rica's political stability, high standard of living, and well-developed social benefits system set it apart from its Central American neighbors. Through the government's sustained social spending - almost 20% of GDP annually - Costa Rica has made tremendous progress toward achieving its goal of providing universal access to education, healthcare, clean water, sanitation, and electricity. Since the 1970s, expansion of these services has led to a rapid decline in infant mortality, an increase in life expectancy at birth, and a sharp decrease in the birth rate. The average number of children born per women has fallen from about 7 in the 1960s to 3.5 in the early 1980s to below replacement level today. Costa Rica's poverty rate is lower than in most Latin American countries, but it has stalled at around 20% for almost two decades.</p><p>Costa Rica is a popular regional immigration destination because of its job opportunities and social programs. Almost 9% of the population is foreign-born, with Nicaraguans comprising nearly three-quarters of the foreign population. Many Nicaraguans who perform unskilled seasonal labor enter Costa Rica illegally or overstay their visas, which continues to be a source of tension. Less than 3% of Costa Rica's population lives abroad. The overwhelming majority of expatriates have settled in the United States after completing a university degree or in order to work in a highly skilled field.</p><br>
 
 **Age structure**<br>
-_0-14 years_: 22.08% (male 575,731/female 549,802)<br>
-_15-24 years_: 15.19% (male 395,202/female 379,277)<br>
-_25-54 years_: 43.98% (male 1,130,387/female 1,111,791)<br>
-_55-64 years_: 9.99% (male 247,267/female 261,847)<br>
-_65 years and over_: 8.76% (male 205,463/female 241,221) (2020 est.)<br>
+_0-14 years_: 21.49% (male 577,782/female 552,041)<br>
+_15-64 years_: 68.59% (male 1,813,827/female 1,791,510)<br>
+_65 years and over_: 9.92% (2023 est.) (male 238,971/female 282,481)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 45.1<br>
@@ -114,16 +112,16 @@ _male_: 32.1 years<br>
 _female_: 33.1 years (2020 est.)<br>
 
 **Population growth rate**<br>
-1.01% (2022 est.)<br>
+0.98% (2023 est.)<br>
 
 **Birth rate**<br>
-14.28 births/1,000 population (2022 est.)<br>
+14.03 births/1,000 population (2023 est.)<br>
 
 **Death rate**<br>
-4.91 deaths/1,000 population (2022 est.)<br>
+4.97 deaths/1,000 population (2023 est.)<br>
 
 **Net migration rate**<br>
-0.77 migrant(s)/1,000 population (2022 est.)<br>
+0.76 migrant(s)/1,000 population (2023 est.)<br>
 
 **Population distribution**<br>
 roughly half of the nation's population resides in urban areas; the capital of San Jose is the largest city and home to approximately one-fifth of the population<br>
@@ -138,27 +136,25 @@ _rate of urbanization_: 1.5% annual rate of change (2020-25 est.)<br>
 **Sex ratio**<br>
 _at birth_: 1.05 male(s)/female<br>
 _0-14 years_: 1.05 male(s)/female<br>
-_15-24 years_: 1.04 male(s)/female<br>
-_25-54 years_: 1.02 male(s)/female<br>
-_55-64 years_: 0.94 male(s)/female<br>
-_65 years and over_: 0.64 male(s)/female<br>
-_total population_: 1 male(s)/female (2022 est.)<br>
+_15-64 years_: 1.01 male(s)/female<br>
+_65 years and over_: 0.85 male(s)/female<br>
+_total population_: 1 male(s)/female (2023 est.)<br>
 
 **Maternal mortality ratio**<br>
 27 deaths/100,000 live births (2017 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 8.39 deaths/1,000 live births<br>
-_male_: 9.45 deaths/1,000 live births<br>
-_female_: 7.28 deaths/1,000 live births (2022 est.)<br>
+_total_: 8.2 deaths/1,000 live births<br>
+_male_: 9.24 deaths/1,000 live births<br>
+_female_: 7.12 deaths/1,000 live births (2023 est.)<br>
 
 **Life expectancy at birth**<br>
-_total population_: 79.64 years<br>
-_male_: 76.99 years<br>
-_female_: 82.43 years (2022 est.)<br>
+_total population_: 79.87 years<br>
+_male_: 77.23 years<br>
+_female_: 82.65 years (2023 est.)<br>
 
 **Total fertility rate**<br>
-1.86 children born/woman (2022 est.)<br>
+1.86 children born/woman (2023 est.)<br>
 
 **Gross reproduction rate**<br>
 0.91 (2023 est.)<br>
@@ -696,9 +692,9 @@ no regular military forces; Ministry of Public Security: the Public Force (Fuerz
 **Military expenditures**<br>
 0.7% of GDP (2021 est.)<br>
 0.7% of GDP (2020 est.)<br>
-0.7% of GDP (2019) (approximately $630 million)<br>
-0.7% of GDP (2018) (approximately $610 million)<br>
-0.7% of GDP (2017) (approximately $600 million)<br>
+0.7% of GDP (2019)<br>
+0.7% of GDP (2018)<br>
+0.7% of GDP (2017)<br>
 
 **Military and security service personnel strengths**<br>
 12,500 Public Force personnel; approximately 500-600 Air, 500-600 Coast Guard, and 300-400 Border Police personnel (2022)<br>

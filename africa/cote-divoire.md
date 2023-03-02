@@ -81,7 +81,7 @@ most of the inhabitants live along the sandy coastal region; apart from the capi
 ## People and Society
 
 **Population**<br>
-28,713,423 (2022 est.)<br>
+29,344,847 (2023 est.)<br>
 
 **Nationality**<br>
 _noun_: Ivoirian(s)<br>
@@ -102,11 +102,9 @@ Muslim 42.9%, Catholic 17.2%, Evangelical 11.8%, Methodist 1.7%, other Christian
 <p>Cote d’Ivoire’s population is likely to continue growing for the foreseeable future because almost 60% of the populace is younger than 25 as of 2020, the total fertility rate is holding steady at about 3.5 children per woman, and contraceptive use is under 30%. The country will need to improve education, health care, and gender equality in order to turn its large and growing youth cohort into human capital. Even prior to 2010 unrest that shuttered schools for months, access to education was poor, especially for women. The lack of educational attainment contributes to Cote d’Ivoire’s high rates of unskilled labor, adolescent pregnancy, and HIV/AIDS prevalence.</p> <p>Following its independence in 1960, Cote d’Ivoire’s stability and the blossoming of its labor-intensive cocoa and coffee industries in the southwest made it an attractive destination for migrants from other parts of the country and its neighbors, particularly Burkina Faso. The HOUPHOUET-BOIGNY administration continued the French colonial policy of encouraging labor immigration by offering liberal land ownership laws. Foreigners from West Africa, Europe (mainly France), and Lebanon composed about 25% of the population by 1998.</p> <p>Ongoing economic decline since the 1980s and the power struggle after HOUPHOUET-BOIGNY’s death in 1993 ushered in the politics of "Ivoirite," institutionalizing an Ivoirian identity that further marginalized northern Ivoirians and scapegoated immigrants. The hostile Muslim north-Christian south divide snowballed into a 2002 civil war, pushing tens of thousands of foreign migrants, Liberian refugees, and Ivoirians to flee to war-torn Liberia or other regional countries and more than a million people to be internally displaced. Subsequently, violence following the contested 2010 presidential election prompted some 250,000 people to seek refuge in Liberia and other neighboring countries and again internally displaced as many as a million people. By July 2012, the majority had returned home, but ongoing inter-communal tension and armed conflict continue to force people from their homes.</p><br>
 
 **Age structure**<br>
-_0-14 years_: 38.53% (male 5,311,971/female 5,276,219)<br>
-_15-24 years_: 20.21% (male 2,774,374/female 2,779,012)<br>
-_25-54 years_: 34.88% (male 4,866,957/female 4,719,286)<br>
-_55-64 years_: 3.53% (male 494,000/female 476,060)<br>
-_65 years and over_: 2.85% (male 349,822/female 433,385) (2020 est.)<br>
+_0-14 years_: 36.65% (male 5,398,616/female 5,354,973)<br>
+_15-64 years_: 60.4% (male 8,935,673/female 8,789,040)<br>
+_65 years and over_: 2.95% (2023 est.) (male 389,248/female 477,297)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 79.2<br>
@@ -120,16 +118,16 @@ _male_: 20.3 years<br>
 _female_: 20.3 years (2020 est.)<br>
 
 **Population growth rate**<br>
-2.19% (2022 est.)<br>
+2.16% (2023 est.)<br>
 
 **Birth rate**<br>
-28.3 births/1,000 population (2022 est.)<br>
+27.92 births/1,000 population (2023 est.)<br>
 
 **Death rate**<br>
-7.6 deaths/1,000 population (2022 est.)<br>
+7.45 deaths/1,000 population (2023 est.)<br>
 
 **Net migration rate**<br>
-1.18 migrant(s)/1,000 population (2022 est.)<br>
+1.16 migrant(s)/1,000 population (2023 est.)<br>
 
 **Population distribution**<br>
 the population is primarily located in the forested south, with the highest concentration of people residing in and around the cities on the Atlantic coast; most of the northern savanna remains sparsely populated with higher concentrations located along transportation corridors as shown in this population distribution map<br>
@@ -144,11 +142,9 @@ _rate of urbanization_: 3.38% annual rate of change (2020-25 est.)<br>
 **Sex ratio**<br>
 _at birth_: 1.03 male(s)/female<br>
 _0-14 years_: 1.06 male(s)/female<br>
-_15-24 years_: 1.07 male(s)/female<br>
-_25-54 years_: 1.06 male(s)/female<br>
-_55-64 years_: 0.97 male(s)/female<br>
-_65 years and over_: 0.58 male(s)/female<br>
-_total population_: 0.97 male(s)/female (2022 est.)<br>
+_15-64 years_: 1.05 male(s)/female<br>
+_65 years and over_: 0.73 male(s)/female<br>
+_total population_: 0.97 male(s)/female (2023 est.)<br>
 
 **Mother's mean age at first birth**<br>
 19.6 years (2011/12 est.)<br>
@@ -158,20 +154,20 @@ _total population_: 0.97 male(s)/female (2022 est.)<br>
 617 deaths/100,000 live births (2017 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 55.67 deaths/1,000 live births<br>
-_male_: 62.99 deaths/1,000 live births<br>
-_female_: 48.13 deaths/1,000 live births (2022 est.)<br>
+_total_: 54.04 deaths/1,000 live births<br>
+_male_: 61.2 deaths/1,000 live births<br>
+_female_: 46.65 deaths/1,000 live births (2023 est.)<br>
 
 **Life expectancy at birth**<br>
-_total population_: 62.26 years<br>
-_male_: 60.07 years<br>
-_female_: 64.52 years (2022 est.)<br>
+_total population_: 62.71 years<br>
+_male_: 60.51 years<br>
+_female_: 64.97 years (2023 est.)<br>
 
 **Total fertility rate**<br>
-3.53 children born/woman (2022 est.)<br>
+3.47 children born/woman (2023 est.)<br>
 
 **Gross reproduction rate**<br>
-1.74 (2023 est.)<br>
+1.71 (2023 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 27.8% (2020)<br>
@@ -718,9 +714,9 @@ Armed Forces of Cote d'Ivoire (Forces Armees de Cote d'Ivoire, FACI; aka Republi
 **Military expenditures**<br>
 1.1% of GDP (2021 est.)<br>
 1.1% of GDP (2020 est.)<br>
-1.1% of GDP (2019 est.) (approximately $710 million)<br>
-1.2% of GDP (2018 est.) (approximately $780 million)<br>
-1.1% of GDP (2017 est.) (approximately $720 million)<br>
+1.1% of GDP (2019 est.)<br>
+1.2% of GDP (2018 est.)<br>
+1.1% of GDP (2017 est.)<br>
 
 **Military and security service personnel strengths**<br>
 approximately 25,000 active troops (23,000 Army, including about 2,000 Special Forces; 1,000 Navy; 1,000 Air Force); 5-10,000 Gendarmerie (2022)<br>

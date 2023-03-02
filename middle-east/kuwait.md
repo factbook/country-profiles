@@ -79,7 +79,7 @@ strategic location at head of Persian Gulf<br>
 ## People and Society
 
 **Population**<br>
-3,068,155 (2022 est.)<br>
+3,103,580 (2023 est.)<br>
 <strong>note:</strong> Kuwait's Public Authority for Civil Information estimates the country's total population to be 4,420,110 for 2019, with non-Kuwaitis accounting for nearly 70% of the population<br>
 
 **Nationality**<br>
@@ -98,11 +98,9 @@ Muslim (official) 74.6%, Christian 18.2%, other and unspecified 7.2% (2013 est.)
 <strong>note:</strong> data represent the total population; about 72% of the population consists of immigrants<br>
 
 **Age structure**<br>
-_0-14 years_: 24.29% (male 378,778/female 348,512)<br>
-_15-24 years_: 14.96% (male 245,354/female 202,642)<br>
-_25-54 years_: 52.39% (male 984,813/female 583,632)<br>
-_55-64 years_: 5.43% (male 90,583/female 72,026)<br>
-_65 years and over_: 2.92% (male 38,614/female 48,752) (2020 est.)<br>
+_0-14 years_: 23.32% (male 377,040/female 346,791)<br>
+_15-64 years_: 73.28% (male 1,371,010/female 903,309)<br>
+_65 years and over_: 3.4% (2023 est.) (male 45,351/female 60,079)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 34.4<br>
@@ -116,16 +114,16 @@ _male_: 30.7 years<br>
 _female_: 27.9 years (2020 est.)<br>
 
 **Population growth rate**<br>
-1.17% (2022 est.)<br>
+1.13% (2023 est.)<br>
 
 **Birth rate**<br>
-17.78 births/1,000 population (2022 est.)<br>
+17.65 births/1,000 population (2023 est.)<br>
 
 **Death rate**<br>
-2.25 deaths/1,000 population (2022 est.)<br>
+2.27 deaths/1,000 population (2023 est.)<br>
 
 **Net migration rate**<br>
--3.87 migrant(s)/1,000 population (2022 est.)<br>
+-4.07 migrant(s)/1,000 population (2023 est.)<br>
 
 **Population distribution**<br>
 densest settlement is along the Persian Gulf, particularly in Kuwait City and on Bubiyan Island; significant population threads extend south and west along highways that radiate from the capital, particularly in the southern half of the country<br>
@@ -140,27 +138,25 @@ _rate of urbanization_: 1.35% annual rate of change (2020-25 est.)<br>
 **Sex ratio**<br>
 _at birth_: 1.05 male(s)/female<br>
 _0-14 years_: 1.09 male(s)/female<br>
-_15-24 years_: 1.19 male(s)/female<br>
-_25-54 years_: 1.66 male(s)/female<br>
-_55-64 years_: 1.21 male(s)/female<br>
-_65 years and over_: 0.66 male(s)/female<br>
-_total population_: 1.37 male(s)/female (2022 est.)<br>
+_15-64 years_: 1.52 male(s)/female<br>
+_65 years and over_: 0.75 male(s)/female<br>
+_total population_: 1.37 male(s)/female (2023 est.)<br>
 
 **Maternal mortality ratio**<br>
 12 deaths/100,000 live births (2017 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 7.43 deaths/1,000 live births<br>
-_male_: 7.75 deaths/1,000 live births<br>
-_female_: 7.1 deaths/1,000 live births (2022 est.)<br>
+_total_: 7.27 deaths/1,000 live births<br>
+_male_: 7.57 deaths/1,000 live births<br>
+_female_: 6.96 deaths/1,000 live births (2023 est.)<br>
 
 **Life expectancy at birth**<br>
-_total population_: 79.13 years<br>
-_male_: 77.67 years<br>
-_female_: 80.65 years (2022 est.)<br>
+_total population_: 79.35 years<br>
+_male_: 77.89 years<br>
+_female_: 80.87 years (2023 est.)<br>
 
 **Total fertility rate**<br>
-2.24 children born/woman (2022 est.)<br>
+2.22 children born/woman (2023 est.)<br>
 
 **Gross reproduction rate**<br>
 1.09 (2023 est.)<br>

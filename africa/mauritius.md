@@ -75,7 +75,7 @@ the main island, from which the country derives its name, is of volcanic origin 
 ## People and Society
 
 **Population**<br>
-1,308,222 (2022 est.)<br>
+1,309,448 (2023 est.)<br>
 
 **Nationality**<br>
 _noun_: Mauritian(s)<br>
@@ -95,11 +95,9 @@ Hindu 48.5%, Roman Catholic 26.3%, Muslim 17.3%, other Christian 6.4%, other 0.6
 <p>Mauritius has transitioned from a country of high fertility and high mortality rates in the 1950s and mid-1960s to one with among the lowest population growth rates in the developing world today. After World War II, Mauritius’ population began to expand quickly due to increased fertility and a dramatic drop in mortality rates as a result of improved health care and the eradication of malaria. This period of heightened population growth – reaching about 3% a year – was followed by one of the world’s most rapid birth rate declines.</p> <p>The total fertility rate fell from 6.2 children per women in 1963 to 3.2 in 1972 – largely the result of improved educational attainment, especially among young women, accompanied by later marriage and the adoption of family planning methods. The family planning programs’ success was due to support from the government and eventually the traditionally pronatalist religious communities, which both recognized that controlling population growth was necessary because of Mauritius’ small size and limited resources. Mauritius’ fertility rate has consistently been below replacement level since the late 1990s, a rate that is substantially lower than nearby countries in southern Africa.</p> <p>With no indigenous population, Mauritius’ ethnic mix is a product of more than two centuries of European colonialism and continued international labor migration. Sugar production relied on slave labor mainly from Madagascar, Mozambique, and East Africa from the early 18th century until its abolition in 1835, when slaves were replaced with indentured Indians. Most of the influx of indentured labor – peaking between the late 1830s and early 1860s – settled permanently creating massive population growth of more than 7% a year and reshaping the island’s social and cultural composition. While Indians represented about 12% of Mauritius’ population in 1837, they and their descendants accounted for roughly two-thirds by the end of the 19th century. Most were Hindus, but the majority of the free Indian traders were Muslims.</p> <p>Mauritius again turned to overseas labor when its success in clothing and textile exports led to a labor shortage in the mid-1980s. Clothing manufacturers brought in contract workers (increasingly women) from China, India, and, to a lesser extent Bangladesh and Madagascar, who worked longer hours for lower wages under poor conditions and were viewed as more productive than locals. Downturns in the sugar and textile industries in the mid-2000s and a lack of highly qualified domestic workers for Mauritius’ growing services sector led to the emigration of low-skilled workers and a reliance on skilled foreign labor. Since 2007, Mauritius has pursued a circular migration program to enable citizens to acquire new skills and savings abroad and then return home to start businesses and to invest in the country’s development.</p><br>
 
 **Age structure**<br>
-_0-14 years_: 19.44% (male 137,010/female 131,113)<br>
-_15-24 years_: 14.06% (male 98,480/female 95,472)<br>
-_25-54 years_: 43.11% (male 297,527/female 297,158)<br>
-_55-64 years_: 12.31% (male 80,952/female 88,785)<br>
-_65 years and over_: 11.08% (male 63,230/female 89,638) (2020 est.)<br>
+_0-14 years_: 15.3% (male 102,335/female 97,955)<br>
+_15-64 years_: 71.35% (male 464,380/female 469,877)<br>
+_65 years and over_: 13.36% (2023 est.) (male 72,026/female 102,875)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 40.7<br>
@@ -113,16 +111,16 @@ _male_: 35 years<br>
 _female_: 37.6 years (2020 est.)<br>
 
 **Population growth rate**<br>
-0.1% (2022 est.)<br>
+0.09% (2023 est.)<br>
 
 **Birth rate**<br>
-9.86 births/1,000 population (2022 est.)<br>
+9.82 births/1,000 population (2023 est.)<br>
 
 **Death rate**<br>
-8.86 deaths/1,000 population (2022 est.)<br>
+8.95 deaths/1,000 population (2023 est.)<br>
 
 **Net migration rate**<br>
-0 migrant(s)/1,000 population (2022 est.)<br>
+0 migrant(s)/1,000 population (2023 est.)<br>
 
 **Population distribution**<br>
 population density is one of the highest in the world; urban clusters are found throughout the main island, with a greater density in and around Port Luis; population on Rodrigues Island is spread across the island with a slightly denser cluster on the north coast as shown in this population distribution map<br>
@@ -136,28 +134,26 @@ _rate of urbanization_: 0.28% annual rate of change (2020-25 est.)<br>
 
 **Sex ratio**<br>
 _at birth_: 1.07 male(s)/female<br>
-_0-14 years_: 1.05 male(s)/female<br>
-_15-24 years_: 1.03 male(s)/female<br>
-_25-54 years_: 1 male(s)/female<br>
-_55-64 years_: 0.9 male(s)/female<br>
-_65 years and over_: 0.47 male(s)/female<br>
-_total population_: 0.95 male(s)/female (2022 est.)<br>
+_0-14 years_: 1.04 male(s)/female<br>
+_15-64 years_: 0.99 male(s)/female<br>
+_65 years and over_: 0.7 male(s)/female<br>
+_total population_: 0.95 male(s)/female (2023 est.)<br>
 
 **Maternal mortality ratio**<br>
 61 deaths/100,000 live births (2017 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 12.08 deaths/1,000 live births<br>
-_male_: 13.63 deaths/1,000 live births<br>
-_female_: 10.43 deaths/1,000 live births (2022 est.)<br>
+_total_: 11.84 deaths/1,000 live births<br>
+_male_: 13.35 deaths/1,000 live births<br>
+_female_: 10.23 deaths/1,000 live births (2023 est.)<br>
 
 **Life expectancy at birth**<br>
-_total population_: 74.86 years<br>
-_male_: 72.04 years<br>
-_female_: 77.88 years (2022 est.)<br>
+_total population_: 75.13 years<br>
+_male_: 72.32 years<br>
+_female_: 78.13 years (2023 est.)<br>
 
 **Total fertility rate**<br>
-1.35 children born/woman (2022 est.)<br>
+1.35 children born/woman (2023 est.)<br>
 
 **Gross reproduction rate**<br>
 0.65 (2023 est.)<br>

@@ -75,7 +75,7 @@ landlocked; The Sudd is a vast swamp in the north central region of South Sudan,
 ## People and Society
 
 **Population**<br>
-11,544,905 (2022 est.)<br>
+12,118,379 (2023 est.)<br>
 
 **Nationality**<br>
 _noun_: South Sudanese (singular and plural)<br>
@@ -96,11 +96,9 @@ Christian 60.5%, folk religion 32.9%, Muslim 6.2%, other &lt;1%, unaffiliated &l
 <p>South Sudan, independent from Sudan since July 2011 after decades of civil war, is one of the world’s poorest countries and ranks among the lowest in many socioeconomic categories. Problems are exacerbated by ongoing tensions with Sudan over oil revenues and land borders, fighting between government forces and rebel groups, and inter-communal violence. Most of the population lives off of farming, while smaller numbers rely on animal husbandry; abput 80% of the populace lives in rural areas. The maternal mortality rate is among the world’s highest for a variety of reasons, including a shortage of health care workers, facilities, and supplies; poor roads and a lack of transport; and cultural beliefs that prevent women from seeking obstetric care. Most women marry and start having children early, giving birth at home with the assistance of traditional birth attendants, who are unable to handle complications.</p> <p>Educational attainment is extremely poor due to the lack of schools, qualified teachers, and materials. Only one-third of the population is literate (the rate is even lower among women), and half live below the poverty line. Teachers and students are also struggling with the switch from Arabic to English as the language of instruction. Many adults missed out on schooling because of warfare and displacement.</p> <p>More than 2 million South Sudanese have sought refuge in neighboring countries since the current conflict began in December 2013. Another 2.2 million South Sudanese are internally displaced as of October 2022. Despite South Sudan’s instability and lack of infrastructure and social services, more than 275,000 people had fled to South Sudan to escape fighting in Sudan as of December 2022.</p><br>
 
 **Age structure**<br>
-_0-14 years_: 41.58% (male 2,238,534/female 2,152,685)<br>
-_15-24 years_: 21.28% (male 1,153,108/female 1,094,568)<br>
-_25-54 years_: 30.67% (male 1,662,409/female 1,577,062)<br>
-_55-64 years_: 3.93% (male 228,875/female 186,571)<br>
-_65 years and over_: 2.53% (male 153,502/female 113,930) (2020 est.)<br>
+_0-14 years_: 41.93% (male 2,591,637/female 2,490,026)<br>
+_15-64 years_: 55.48% (male 3,426,822/female 3,296,113)<br>
+_65 years and over_: 2.59% (2023 est.) (male 174,080/female 139,701)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 80.8<br>
@@ -114,16 +112,16 @@ _male_: 18.9 years<br>
 _female_: 18.3 years (2020 est.)<br>
 
 **Population growth rate**<br>
-4.91% (2022 est.)<br>
+4.78% (2023 est.)<br>
 
 **Birth rate**<br>
-37.69 births/1,000 population (2022 est.)<br>
+37.07 births/1,000 population (2023 est.)<br>
 
 **Death rate**<br>
-9.52 deaths/1,000 population (2022 est.)<br>
+9.22 deaths/1,000 population (2023 est.)<br>
 
 **Net migration rate**<br>
-20.97 migrant(s)/1,000 population (2022 est.)<br>
+19.98 migrant(s)/1,000 population (2023 est.)<br>
 
 **Population distribution**<br>
 clusters found in urban areas, particularly in the western interior and around the White Nile as shown in this population distribution map<br>
@@ -138,27 +136,25 @@ _rate of urbanization_: 4.12% annual rate of change (2020-25 est.)<br>
 **Sex ratio**<br>
 _at birth_: 1.05 male(s)/female<br>
 _0-14 years_: 1.04 male(s)/female<br>
-_15-24 years_: 1.03 male(s)/female<br>
-_25-54 years_: 1.04 male(s)/female<br>
-_55-64 years_: 1.19 male(s)/female<br>
-_65 years and over_: 1.28 male(s)/female<br>
-_total population_: 1.05 male(s)/female (2022 est.)<br>
+_15-64 years_: 1.04 male(s)/female<br>
+_65 years and over_: 1.25 male(s)/female<br>
+_total population_: 1.05 male(s)/female (2023 est.)<br>
 
 **Maternal mortality ratio**<br>
 1,150 deaths/100,000 live births (2017 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 63.18 deaths/1,000 live births<br>
-_male_: 69.06 deaths/1,000 live births<br>
-_female_: 57 deaths/1,000 live births (2022 est.)<br>
+_total_: 61.63 deaths/1,000 live births<br>
+_male_: 67.41 deaths/1,000 live births<br>
+_female_: 55.55 deaths/1,000 live births (2023 est.)<br>
 
 **Life expectancy at birth**<br>
-_total population_: 59.16 years<br>
-_male_: 57.43 years<br>
-_female_: 60.97 years (2022 est.)<br>
+_total population_: 59.71 years<br>
+_male_: 57.94 years<br>
+_female_: 61.57 years (2023 est.)<br>
 
 **Total fertility rate**<br>
-5.32 children born/woman (2022 est.)<br>
+5.2 children born/woman (2023 est.)<br>
 
 **Gross reproduction rate**<br>
 2.54 (2023 est.)<br>

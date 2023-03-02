@@ -82,7 +82,7 @@ landlocked; population concentrated in the southern and eastern parts of the cou
 ## People and Society
 
 **Population**<br>
-2,384,246 (2022 est.)<br>
+2,417,596 (2023 est.)<br>
 
 **Nationality**<br>
 _noun_: Motswana (singular), Batswana (plural)<br>
@@ -101,11 +101,9 @@ Christian 79.1%, Badimo 4.1%, other 1.4% (includes Baha'i, Hindu, Muslim, Rastaf
 <p>Botswana has experienced one of the most rapid declines in fertility in Sub-Saharan Africa. The total fertility rate fell from more than 5 children per woman in the mid 1980s to approximately 2.4 in 2013, and remains at that level in 2022. The fertility reduction has been attributed to a host of factors, including higher educational attainment among women, greater participation of women in the workforce, increased contraceptive use, later first births, and a strong national family planning program. Botswana was making significant progress in several health indicators, including life expectancy and infant and child mortality rates, until being devastated by the HIV/AIDs epidemic in the 1990s.</p> <p>In 2021,  Botswana had one of the highest HIV/AIDS prevalence rates in the world at close to 20%, however comprehensive and effective treatment programs have reduced HIV/AIDS-related deaths. The combination of declining fertility and increasing mortality rates because of HIV/AIDS is slowing the population aging process, with a narrowing of the youngest age groups and little expansion of the oldest age groups. Nevertheless, having the bulk of its population (about 60% as of 2022) of working age will only yield economic benefits if the labor force is healthy, educated, and productively employed.</p> <p>Batswana have been working as contract miners in South Africa since the 19th century. Although Botswana’s economy improved shortly after independence in 1966 with the discovery of diamonds and other minerals, its lingering high poverty rate and lack of job opportunities continued to push workers to seek mining work in southern African countries. In the early 1970s, about a third of Botswana’s male labor force worked in South Africa (lesser numbers went to Namibia and Zimbabwe). Not until the 1980s and 1990s, when South African mining companies had reduced their recruitment of foreign workers and Botswana’s economic prospects had improved, were Batswana increasingly able to find job opportunities at home.</p> <p>Most Batswana prefer life in their home country and choose cross-border migration on a temporary basis only for work, shopping, visiting family, or tourism. Since the 1970s, Botswana has pursued an open migration policy enabling it to recruit thousands of foreign workers to fill skilled labor shortages. In the late 1990s, Botswana’s prosperity and political stability attracted not only skilled workers but small numbers of refugees from neighboring Angola, Namibia, and Zimbabwe.</p><br>
 
 **Age structure**<br>
-_0-14 years_: 30.54% (male 357,065/female 350,550)<br>
-_15-24 years_: 18.31% (male 208,824/female 215,462)<br>
-_25-54 years_: 39.67% (male 434,258/female 484,922)<br>
-_55-64 years_: 5.92% (male 59,399/female 77,886)<br>
-_65 years and over_: 5.56% (male 53,708/female 75,159) (2020 est.)<br>
+_0-14 years_: 29.17% (male 355,951/female 349,283)<br>
+_15-64 years_: 64.88% (male 745,327/female 823,267)<br>
+_65 years and over_: 5.95% (2023 est.) (male 57,876/female 85,892)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 57.5<br>
@@ -119,16 +117,16 @@ _male_: 24.5 years<br>
 _female_: 26.7 years (2020 est.)<br>
 
 **Population growth rate**<br>
-1.4% (2022 est.)<br>
+1.37% (2023 est.)<br>
 
 **Birth rate**<br>
-20.28 births/1,000 population (2022 est.)<br>
+19.95 births/1,000 population (2023 est.)<br>
 
 **Death rate**<br>
-9.05 deaths/1,000 population (2022 est.)<br>
+8.98 deaths/1,000 population (2023 est.)<br>
 
 **Net migration rate**<br>
-2.81 migrant(s)/1,000 population (2022 est.)<br>
+2.77 migrant(s)/1,000 population (2023 est.)<br>
 
 **Population distribution**<br>
 the population is primarily concentrated in the east with a focus in and around the captial of Gaborone, and the far central-eastern city of Francistown; population density remains low in other areas in the country, especially in the Kalahari to the west as shown in this population distribution map<br>
@@ -143,27 +141,25 @@ _rate of urbanization_: 2.47% annual rate of change (2020-25 est.)<br>
 **Sex ratio**<br>
 _at birth_: 1.03 male(s)/female<br>
 _0-14 years_: 1.02 male(s)/female<br>
-_15-24 years_: 0.96 male(s)/female<br>
-_25-54 years_: 0.9 male(s)/female<br>
-_55-64 years_: 0.79 male(s)/female<br>
-_65 years and over_: 0.6 male(s)/female<br>
-_total population_: 0.92 male(s)/female (2022 est.)<br>
+_15-64 years_: 0.91 male(s)/female<br>
+_65 years and over_: 0.67 male(s)/female<br>
+_total population_: 0.92 male(s)/female (2023 est.)<br>
 
 **Maternal mortality ratio**<br>
 144 deaths/100,000 live births (2017 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 25.18 deaths/1,000 live births<br>
-_male_: 27.54 deaths/1,000 live births<br>
-_female_: 22.75 deaths/1,000 live births (2022 est.)<br>
+_total_: 24.41 deaths/1,000 live births<br>
+_male_: 26.72 deaths/1,000 live births<br>
+_female_: 22.04 deaths/1,000 live births (2023 est.)<br>
 
 **Life expectancy at birth**<br>
-_total population_: 65.64 years<br>
-_male_: 63.6 years<br>
-_female_: 67.74 years (2022 est.)<br>
+_total population_: 66.04 years<br>
+_male_: 63.98 years<br>
+_female_: 68.16 years (2023 est.)<br>
 
 **Total fertility rate**<br>
-2.39 children born/woman (2022 est.)<br>
+2.37 children born/woman (2023 est.)<br>
 
 **Gross reproduction rate**<br>
 1.17 (2023 est.)<br>
@@ -693,9 +689,9 @@ Botswana Defense Force (BDF): Ground Forces Command, Air Arm Command, Defense Lo
 **Military expenditures**<br>
 3% of GDP (2021 est.)<br>
 3% of GDP (2020 est.)<br>
-2.8% of GDP (2019) (approximately $760 million)<br>
-2.8% of GDP (2018) (approximately $730 million)<br>
-2.9% of GDP (2017) (approximately $740 million)<br>
+2.8% of GDP (2019)<br>
+2.8% of GDP (2018)<br>
+2.9% of GDP (2017)<br>
 
 **Military and security service personnel strengths**<br>
 approximately 9,000 active BDF personnel (2022)<br>

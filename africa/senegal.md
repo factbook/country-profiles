@@ -85,7 +85,7 @@ westernmost country on the African continent; The Gambia is almost an enclave wi
 ## People and Society
 
 **Population**<br>
-17,923,036 (2022 est.)<br>
+18,384,660 (2023 est.)<br>
 
 **Nationality**<br>
 _noun_: Senegalese (singular and plural)<br>
@@ -104,11 +104,9 @@ Muslim 97.2% (most adhere to one of the four main Sufi brotherhoods), Christian 
 <p>Senegal has a large and growing youth population but has not been successful in developing its potential human capital. Senegal’s high total fertility rate of almost 4.5 children per woman continues to bolster the country’s large youth cohort – more than 60% of the population is under the age of 25. Fertility remains high because of the continued desire for large families, the low use of family planning, and early childbearing. Because of the country’s high illiteracy rate (more than 40%), high unemployment (even among university graduates), and widespread poverty, Senegalese youths face dim prospects; women are especially disadvantaged.</p> <p>Senegal historically was a destination country for economic migrants, but in recent years West African migrants more often use Senegal as a transit point to North Africa – and sometimes illegally onward to Europe. The country also has been host to several thousand black Mauritanian refugees since they were expelled from their homeland during its 1989 border conflict with Senegal. The country’s economic crisis in the 1970s stimulated emigration; departures accelerated in the 1990s. Destinations shifted from neighboring countries, which were experiencing economic decline, civil wars, and increasing xenophobia, to Libya and Mauritania because of their booming oil industries and to developed countries (most notably former colonial ruler France, as well as Italy and Spain). The latter became attractive in the 1990s because of job opportunities and their periodic regularization programs (legalizing the status of illegal migrants).</p> <p> </p><br>
 
 **Age structure**<br>
-_0-14 years_: 40.38% (male 3,194,454/female 3,160,111)<br>
-_15-24 years_: 20.35% (male 1,596,896/female 1,606,084)<br>
-_25-54 years_: 31.95% (male 2,327,424/female 2,700,698)<br>
-_55-64 years_: 4.21% (male 283,480/female 378,932)<br>
-_65 years and over_: 3.1% (male 212,332/female 275,957) (2020 est.)<br>
+_0-14 years_: 41.19% (male 3,858,937/female 3,714,062)<br>
+_15-64 years_: 55.46% (male 4,925,324/female 5,271,627)<br>
+_65 years and over_: 3.34% (2023 est.) (male 266,485/female 348,225)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 81.5<br>
@@ -122,16 +120,16 @@ _male_: 18.5 years<br>
 _female_: 20.3 years (2020 est.)<br>
 
 **Population growth rate**<br>
-2.57% (2022 est.)<br>
+2.52% (2023 est.)<br>
 
 **Birth rate**<br>
-31.51 births/1,000 population (2022 est.)<br>
+30.84 births/1,000 population (2023 est.)<br>
 
 **Death rate**<br>
-5.08 deaths/1,000 population (2022 est.)<br>
+5 deaths/1,000 population (2023 est.)<br>
 
 **Net migration rate**<br>
--0.71 migrant(s)/1,000 population (2022 est.)<br>
+-0.69 migrant(s)/1,000 population (2023 est.)<br>
 
 **Population distribution**<br>
 the population is concentrated in the west, with Dakar anchoring a well-defined core area; approximately 70% of the population is rural as shown in this population distribution map<br>
@@ -146,11 +144,9 @@ _rate of urbanization_: 3.59% annual rate of change (2020-25 est.)<br>
 **Sex ratio**<br>
 _at birth_: 1.05 male(s)/female<br>
 _0-14 years_: 1.04 male(s)/female<br>
-_15-24 years_: 1.02 male(s)/female<br>
-_25-54 years_: 0.88 male(s)/female<br>
-_55-64 years_: 0.76 male(s)/female<br>
-_65 years and over_: 0.74 male(s)/female<br>
-_total population_: 0.97 male(s)/female (2022 est.)<br>
+_15-64 years_: 0.93 male(s)/female<br>
+_65 years and over_: 0.77 male(s)/female<br>
+_total population_: 0.97 male(s)/female (2023 est.)<br>
 
 **Mother's mean age at first birth**<br>
 21.9 years (2019 est.)<br>
@@ -160,17 +156,17 @@ _total population_: 0.97 male(s)/female (2022 est.)<br>
 315 deaths/100,000 live births (2017 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 32.44 deaths/1,000 live births<br>
-_male_: 35.78 deaths/1,000 live births<br>
-_female_: 28.93 deaths/1,000 live births (2022 est.)<br>
+_total_: 31.75 deaths/1,000 live births<br>
+_male_: 35.05 deaths/1,000 live births<br>
+_female_: 28.28 deaths/1,000 live births (2023 est.)<br>
 
 **Life expectancy at birth**<br>
-_total population_: 69.96 years<br>
-_male_: 68.23 years<br>
-_female_: 71.77 years (2022 est.)<br>
+_total population_: 70.25 years<br>
+_male_: 68.52 years<br>
+_female_: 72.08 years (2023 est.)<br>
 
 **Total fertility rate**<br>
-4.27 children born/woman (2022 est.)<br>
+4.17 children born/woman (2023 est.)<br>
 
 **Gross reproduction rate**<br>
 2.03 (2023 est.)<br>
@@ -749,7 +745,7 @@ Jama&rsquo;at Nusrat al-Islam wal-Muslimin (JNIM)<br>
 <p><em>Senegal-Guinea-Bissau</em>: rebels from the Movement of Democratic Forces in the Casamance find refuge in Guinea-Bissau</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 11,494 (Mauritania) (2022)<br>
+_refugees (country of origin)_: 11,494 (Mauritania) (2023)<br>
 _IDPs_: 8,400 (2021)<br>
 
 **Trafficking in persons**<br>

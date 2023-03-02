@@ -75,7 +75,7 @@ the islands of Bikini and Enewetak are former US nuclear test sites; Kwajalein a
 ## People and Society
 
 **Population**<br>
-79,906 (2022 est.)<br>
+80,966 (2023 est.)<br>
 
 **Nationality**<br>
 _noun_: Marshallese (singular and plural)<br>
@@ -93,11 +93,9 @@ _major-language sample(s)_: <p><br>Bok eo an Lalin kin Melele ko Rejimwe ej jiki
 Protestant 80.5% (United Church of Christ 47%, Assembly of God 16.2%, Bukot Nan Jesus 5.4%, Full Gospel 3.3%, Reformed Congressional Church 3%, Salvation Army 1.9%, Seventh Day Adventist 1.4%, Meram in Jesus 1.2%, other Protestant 1.1%), Roman Catholic 8.5%, Church of Jesus Christ 7%, Jehovah's Witness 1.7%,&nbsp; other 1.2%, none 1.1% (2011 est.)<br>
 
 **Age structure**<br>
-_0-14 years_: 32.94% (male 13,090/female 12,575)<br>
-_15-24 years_: 19.09% (male 7,568/female 7,308)<br>
-_25-54 years_: 37.35% (male 14,834/female 14,270)<br>
-_55-64 years_: 5.92% (male 2,269/female 2,341)<br>
-_65 years and over_: 4.7% (male 1,805/female 1,857) (2020 est.)<br>
+_0-14 years_: 30.65% (male 12,642/female 12,175)<br>
+_15-64 years_: 63.83% (male 26,237/female 25,445)<br>
+_65 years and over_: 5.52% (2023 est.) (male 2,187/female 2,280)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 59.9<br>
@@ -111,16 +109,16 @@ _male_: 23.6 years<br>
 _female_: 23.9 years (2020 est.)<br>
 
 **Population growth rate**<br>
-1.34% (2022 est.)<br>
+1.3% (2023 est.)<br>
 
 **Birth rate**<br>
-22 births/1,000 population (2022 est.)<br>
+21.61 births/1,000 population (2023 est.)<br>
 
 **Death rate**<br>
-4.28 deaths/1,000 population (2022 est.)<br>
+4.3 deaths/1,000 population (2023 est.)<br>
 
 **Net migration rate**<br>
--4.37 migrant(s)/1,000 population (2022 est.)<br>
+-4.31 migrant(s)/1,000 population (2023 est.)<br>
 
 **Population distribution**<br>
 most people live in urban clusters found on many of the country's islands; more than two-thirds of the population lives on the atolls of Majuro and Ebeye<br>
@@ -135,24 +133,22 @@ _rate of urbanization_: 0.61% annual rate of change (2020-25 est.)<br>
 **Sex ratio**<br>
 _at birth_: 1.05 male(s)/female<br>
 _0-14 years_: 1.04 male(s)/female<br>
-_15-24 years_: 1.03 male(s)/female<br>
-_25-54 years_: 1.05 male(s)/female<br>
-_55-64 years_: 0.95 male(s)/female<br>
-_65 years and over_: 0.77 male(s)/female<br>
-_total population_: 1.03 male(s)/female (2022 est.)<br>
+_15-64 years_: 1.03 male(s)/female<br>
+_65 years and over_: 0.96 male(s)/female<br>
+_total population_: 1.03 male(s)/female (2023 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 21.66 deaths/1,000 live births<br>
-_male_: 25.19 deaths/1,000 live births<br>
-_female_: 17.96 deaths/1,000 live births (2022 est.)<br>
+_total_: 21.13 deaths/1,000 live births<br>
+_male_: 24.56 deaths/1,000 live births<br>
+_female_: 17.54 deaths/1,000 live births (2023 est.)<br>
 
 **Life expectancy at birth**<br>
-_total population_: 74.65 years<br>
-_male_: 72.4 years<br>
-_female_: 77.01 years (2022 est.)<br>
+_total population_: 74.92 years<br>
+_male_: 72.68 years<br>
+_female_: 77.26 years (2023 est.)<br>
 
 **Total fertility rate**<br>
-2.76 children born/woman (2022 est.)<br>
+2.72 children born/woman (2023 est.)<br>
 
 **Gross reproduction rate**<br>
 1.33 (2023 est.)<br>

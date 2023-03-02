@@ -89,7 +89,7 @@ one-third of the population lives in Buenos Aires; pockets of agglomeration occu
 ## People and Society
 
 **Population**<br>
-46,245,668 (2022 est.)<br>
+46,621,847 (2023 est.)<br>
 
 **Nationality**<br>
 _noun_: Argentine(s)<br>
@@ -109,11 +109,9 @@ Roman Catholic 62.9%, Evangelical 15.3% (Pentecostal 13%, other Evangelical 2.3%
 <p>Argentina's population continues to grow but at a slower rate because of its steadily declining birth rate. Argentina's fertility decline began earlier than in the rest of Latin America, occurring most rapidly between the early 20th century and the 1950s, and then becoming more gradual. Life expectancy has been improving, most notably among the young and the poor. While the population under age 15 is shrinking, the youth cohort - ages 15-24 - is the largest in Argentina's history and will continue to bolster the working-age population. If this large working-age population is well-educated and gainfully employed, Argentina is likely to experience an economic boost and possibly higher per capita savings and investment. Although literacy and primary school enrollment are nearly universal, grade repetition is problematic and secondary school completion is low. Both of these issues vary widely by region and socioeconomic group.</p> <p>Argentina has been primarily a country of immigration for most of its history, welcoming European immigrants (often providing needed low-skilled labor) after its independence in the 19th century and attracting especially large numbers from Spain and Italy. More than 7 million European immigrants are estimated to have arrived in Argentina between 1880 and 1930, when it adopted a more restrictive immigration policy. European immigration also began to wane in the 1930s because of the global depression. The inflow rebounded temporarily following WWII and resumed its decline in the 1950s when Argentina's military dictators tightened immigration rules and European economies rebounded. Regional migration increased, however, supplying low-skilled workers escaping economic and political instability in their home countries. As of 2015, immigrants made up almost 5% of Argentina's population, the largest share in South America. Migration from neighboring countries accounted for approximately 80% of Argentina's immigrant population in 2015.</p> <p>The first waves of highly skilled Argentine emigrant workers headed mainly to the United States and Spain in the 1960s and 1970s, driven by economic decline and repressive military dictatorships. The 2008 European economic crisis drove the return migration of some Argentinean and other Latin American nationals, as well as the immigration of Europeans to South America, where Argentina was a key recipient. In 2015, Argentina received the highest number of legal migrants in Latin America and the Caribbean. The majority of its migrant inflow came from Paraguay and Bolivia.</p><br>
 
 **Age structure**<br>
-_0-14 years_: 24.02% (male 5,629,188/female 5,294,723)<br>
-_15-24 years_: 15.19% (male 3,539,021/female 3,367,321)<br>
-_25-54 years_: 39.6% (male 9,005,758/female 9,002,931)<br>
-_55-64 years_: 9.07% (male 2,000,536/female 2,122,699)<br>
-_65 years and over_: 12.13% (male 2,331,679/female 3,185,262) (2020 est.)<br>
+_0-14 years_: 23.51% (male 5,645,070/female 5,316,156)<br>
+_15-64 years_: 63.83% (male 14,929,084/female 14,827,733)<br>
+_65 years and over_: 12.66% (2023 est.) (male 2,511,984/female 3,391,820)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 54.3<br>
@@ -127,16 +125,16 @@ _male_: 31.1 years<br>
 _female_: 33.6 years (2020 est.)<br>
 
 **Population growth rate**<br>
-0.82% (2022 est.)<br>
+0.8% (2023 est.)<br>
 
 **Birth rate**<br>
-15.58 births/1,000 population (2022 est.)<br>
+15.38 births/1,000 population (2023 est.)<br>
 
 **Death rate**<br>
-7.32 deaths/1,000 population (2022 est.)<br>
+7.28 deaths/1,000 population (2023 est.)<br>
 
 **Net migration rate**<br>
--0.08 migrant(s)/1,000 population (2022 est.)<br>
+-0.08 migrant(s)/1,000 population (2023 est.)<br>
 
 **Population distribution**<br>
 one-third of the population lives in Buenos Aires; pockets of agglomeration occur throughout the northern and central parts of the country; Patagonia to the south remains sparsely populated<br>
@@ -151,27 +149,25 @@ _rate of urbanization_: 0.97% annual rate of change (2020-25 est.)<br>
 **Sex ratio**<br>
 _at birth_: 1.07 male(s)/female<br>
 _0-14 years_: 1.06 male(s)/female<br>
-_15-24 years_: 1.06 male(s)/female<br>
-_25-54 years_: 1 male(s)/female<br>
-_55-64 years_: 0.94 male(s)/female<br>
-_65 years and over_: 0.57 male(s)/female<br>
-_total population_: 0.98 male(s)/female (2022 est.)<br>
+_15-64 years_: 1.01 male(s)/female<br>
+_65 years and over_: 0.74 male(s)/female<br>
+_total population_: 0.98 male(s)/female (2023 est.)<br>
 
 **Maternal mortality ratio**<br>
 39 deaths/100,000 live births (2017 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 9.35 deaths/1,000 live births<br>
-_male_: 10.35 deaths/1,000 live births<br>
-_female_: 8.28 deaths/1,000 live births (2022 est.)<br>
+_total_: 9.14 deaths/1,000 live births<br>
+_male_: 10.13 deaths/1,000 live births<br>
+_female_: 8.09 deaths/1,000 live births (2023 est.)<br>
 
 **Life expectancy at birth**<br>
-_total population_: 78.31 years<br>
-_male_: 75.23 years<br>
-_female_: 81.59 years (2022 est.)<br>
+_total population_: 78.55 years<br>
+_male_: 75.49 years<br>
+_female_: 81.81 years (2023 est.)<br>
 
 **Total fertility rate**<br>
-2.18 children born/woman (2022 est.)<br>
+2.17 children born/woman (2023 est.)<br>
 
 **Gross reproduction rate**<br>
 1.05 (2023 est.)<br>
@@ -306,9 +302,9 @@ Atlantic Ocean drainage: Paran&aacute; (2,582,704 sq km)<br>
 Guarani Aquifer System<br>
 
 **Total water withdrawal**<br>
-_municipal_: 5.85 billion cubic meters (2017 est.)<br>
-_industrial_: 4 billion cubic meters (2017 est.)<br>
-_agricultural_: 27.93 billion cubic meters (2017 est.)<br>
+_municipal_: 5.85 billion cubic meters (2019 est.)<br>
+_industrial_: 4 billion cubic meters (2019 est.)<br>
+_agricultural_: 27.93 billion cubic meters (2019 est.)<br>
 
 **Total renewable water resources**<br>
 876.2 billion cubic meters (2019 est.)<br>
@@ -725,9 +721,9 @@ Armed Forces of the Argentine Republic (Fuerzas Armadas de la Rep&uacute;blica A
 **Military expenditures**<br>
 0.8% of GDP (2021 est.)<br>
 0.8% of GDP (2020)<br>
-0.7% of GDP (2019) (approximately $5 billion)<br>
-0.8% of GDP (2018) (approximately $5.3 billion)<br>
-0.9% of GDP (2017) (approximately $5.95 billion)<br>
+0.7% of GDP (2019)<br>
+0.8% of GDP (2018)<br>
+0.9% of GDP (2017)<br>
 
 **Military and security service personnel strengths**<br>
 approximately 82,000 active duty personnel (50,000 Army; 18,000 Navy, including about 3,500 marines); 14,000 Air Force); estimated 20,000 Gendarmerie (2022)<br>

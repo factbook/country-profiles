@@ -89,7 +89,7 @@ overwhelming majority of the population is found in the eastern half of the coun
 ## People and Society
 
 **Population**<br>
-1,410,539,758 (2022 est.)<br>
+1,413,142,846 (2023 est.)<br>
 
 **Nationality**<br>
 _noun_: Chinese (singular and plural)<br>
@@ -108,11 +108,9 @@ folk religion 21.9%, Buddhist 18.2%, Christian 5.1%, Muslim 1.8%, Hindu &lt; 0.1
 <strong>note:</strong> officially atheist<br>
 
 **Age structure**<br>
-_0-14 years_: 17.29% (male 129,296,339/female 111,782,427)<br>
-_15-24 years_: 11.48% (male 86,129,841/female 73,876,148)<br>
-_25-54 years_: 46.81% (male 333,789,731/female 318,711,557)<br>
-_55-64 years_: 12.08% (male 84,827,645/female 83,557,507)<br>
-_65 years and over_: 12.34% (male 81,586,490/female 90,458,292) (2020 est.)<br>
+_0-14 years_: 16.48% (male 124,166,174/female 108,729,429)<br>
+_15-64 years_: 69.4% (male 504,637,819/female 476,146,909)<br>
+_65 years and over_: 14.11% (2023 est.) (male 92,426,805/female 107,035,710)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 44.5<br>
@@ -127,16 +125,16 @@ _male_: 37.5 years<br>
 _female_: 39.4 years (2020 est.)<br>
 
 **Population growth rate**<br>
-0.19% (2022 est.)<br>
+0.18% (2023 est.)<br>
 
 **Birth rate**<br>
-9.93 births/1,000 population (2022 est.)<br>
+9.69 births/1,000 population (2023 est.)<br>
 
 **Death rate**<br>
-7.9 deaths/1,000 population (2022 est.)<br>
+7.82 deaths/1,000 population (2023 est.)<br>
 
 **Net migration rate**<br>
--0.11 migrant(s)/1,000 population (2022 est.)<br>
+-0.11 migrant(s)/1,000 population (2023 est.)<br>
 
 **Population distribution**<br>
 overwhelming majority of the population is found in the eastern half of the country; the west, with its vast mountainous and desert areas, remains sparsely populated; though ranked first in the world in total population, overall density is less than that of many other countries in Asia and Europe; high population density is found along the Yangtze and Yellow River valleys, the Xi Jiang River delta, the Sichuan Basin (around Chengdu), in and around Beijing, and the industrial area around Shenyang<br>
@@ -150,29 +148,27 @@ _rate of urbanization_: 1.78% annual rate of change (2020-25 est.)<br>
 29.211 million Shanghai, 21.766 million BEIJING (capital), 17.341 million Chongqing, 14.284 million Guangzhou, 14.239 million Tianjin, 13.073 million Shenzhen (2023)<br>
 
 **Sex ratio**<br>
-_at birth_: 1.1 male(s)/female<br>
-_0-14 years_: 1.15 male(s)/female<br>
-_15-24 years_: 1.16 male(s)/female<br>
-_25-54 years_: 1.05 male(s)/female<br>
-_55-64 years_: 1 male(s)/female<br>
-_65 years and over_: 0.68 male(s)/female<br>
-_total population_: 1.04 male(s)/female (2022 est.)<br>
+_at birth_: 1.09 male(s)/female<br>
+_0-14 years_: 1.14 male(s)/female<br>
+_15-64 years_: 1.06 male(s)/female<br>
+_65 years and over_: 0.86 male(s)/female<br>
+_total population_: 1.04 male(s)/female (2023 est.)<br>
 
 **Maternal mortality ratio**<br>
 29 deaths/100,000 live births (2017 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 6.76 deaths/1,000 live births<br>
-_male_: 7.19 deaths/1,000 live births<br>
-_female_: 6.3 deaths/1,000 live births (2022 est.)<br>
+_total_: 6.49 deaths/1,000 live births<br>
+_male_: 6.93 deaths/1,000 live births<br>
+_female_: 6.01 deaths/1,000 live births (2023 est.)<br>
 
 **Life expectancy at birth**<br>
-_total population_: 77.72 years<br>
-_male_: 75 years<br>
-_female_: 80.7 years (2022 est.)<br>
+_total population_: 78.23 years<br>
+_male_: 75.5 years<br>
+_female_: 81.2 years (2023 est.)<br>
 
 **Total fertility rate**<br>
-1.45 children born/woman (2022 est.)<br>
+1.45 children born/woman (2023 est.)<br>
 
 **Gross reproduction rate**<br>
 0.69 (2023 est.)<br>
@@ -380,7 +376,7 @@ _head of government_: Premier LI Keqiang (since 16 March 2013); Executive Vice P
 _cabinet_: State Council appointed by National People's Congress<br>
 _elections/appointments_: president and vice president indirectly elected by National People's Congress (no term limits); election last held on 17 March 2018 (next to be held in March 2023); premier nominated by president, confirmed by National People's Congress<br>
 _election results_: <em>2018</em>: XI Jinping reelected president; National People's Congress vote - 2,970 (unanimously); WANG Qishan elected vice president with 2,969 votes<br><br><em>2013</em>: XI Jinping elected president; National People's Congress vote - 2,952; LI Yuanchao elected vice president with 2,839 votes<br>
-note - in March 2018, the PRC&rsquo;s National People&rsquo;s Congress passed an amendment abolishing presidential term limits, opening the door for XI to seek a third five-year term in 2023<br>
+<strong>note: </strong>ultimate authority rests with the Communist Party Central Committee’s 25-member Political Bureau (Politburo) and its seven-member Standing Committee; XI Jinping holds the three most powerful positions as party general secretary, state president, and chairman of the Central Military Commission <br>
 
 **Legislative branch**<br>
 _description_: unicameral National People's Congress or Quanguo Renmin Daibiao Dahui (maximum of 3,000 seats; members indirectly elected by municipal, regional, and provincial people's congresses, and the People's Liberation Army; members serve 5-year terms); note - in practice, only members of the Chinese Communist Party (CCP), its 8 allied independent parties, and CCP-approved independent candidates are elected<br>
@@ -742,14 +738,14 @@ _river port(s)_: Guangzhou (Pearl)<br>
 
 **Military and security forces**<br>
 People's Liberation Army (PLA): Ground Forces, Navy (PLAN, includes marines and naval aviation), Air Force (PLAAF, includes airborne forces), Rocket Force (strategic missile force), and Strategic Support Force (information, electronic, and cyber warfare, as well as space forces); People's Armed Police (PAP, includes Coast Guard, Border Defense Force, Internal Security Forces); PLA Reserve Force (2022)<br>
-<strong>note 1:</strong> the Strategic Support Force includes the Space Systems Department, which is responsible for nearly all PLA space operations, including space launch and support, space surveillance, space information support, space telemetry, tracking, and control, and space warfare<br><br><strong>note 2: </strong>the PAP is a paramilitary police component of China’s armed forces that is under the command of the Central Military Commission (CMC) and charged with internal security, law enforcement, counterterrorism, and maritime rights protection<br><br><strong>note 3: </strong>in 2018, the Coast Guard was moved from the State Oceanic Administration to the PAP; in 2013, China merged four of its five major maritime law enforcement agencies – the China Marine Surveillance (CMS), Maritime Police, Fishery Law Enforcement (FLE), and Anti-Smuggling Police – into a unified coast guard<br>
+<strong>note 1:</strong> the Strategic Support Force includes the Space Systems Department, which is responsible for nearly all PLA space operations, including space launch and support, space surveillance, space information support, space telemetry, tracking, and control, and space warfare<br><br><strong>note 2: </strong>the PAP is a paramilitary police component of China’s armed forces that is under the dual authority of the Central Committee of the Communist Party and the Central Military Commission and charged with internal security, law enforcement, counterterrorism, and maritime rights protection<br><br><strong>note 3: </strong>in 2018, the Coast Guard was moved from the State Oceanic Administration to the PAP; in 2013, China merged four of its five major maritime law enforcement agencies – the China Marine Surveillance (CMS), Maritime Police, Fishery Law Enforcement (FLE), and Anti-Smuggling Police – into a unified coast guard<br>
 
 **Military expenditures**<br>
 1.5% of GDP (2021 est.)<br>
 1.7% of GDP (2020 est.)<br>
-1.7% of GDP (2019) (approximately $290 billion)<br>
-1.7% of GDP (2018) (approximately $265 billion)<br>
-1.8% of GDP (2017) (approximately $260 billion)<br>
+1.7% of GDP (2019)<br>
+1.7% of GDP (2018)<br>
+1.8% of GDP (2017)<br>
 
 **Military and security service personnel strengths**<br>
 approximately 2 million active-duty troops (approximately 1 million Ground; 250,000 Navy/Marines; 350-400,000 Air Force; 120,000 Rocket Forces; 150-175,000 Strategic Support Forces); estimated 600-650,000 People&rsquo;s Armed Police (2022)<br>

@@ -89,7 +89,7 @@ most of the population is found in the middle of the country between the states 
 ## People and Society
 
 **Population**<br>
-129,150,971 (2022 est.)<br>
+129,875,529 (2023 est.)<br>
 
 **Nationality**<br>
 _noun_: Mexican(s)<br>
@@ -107,11 +107,9 @@ _major-language sample(s)_: <br>La Libreta Informativa del Mundo, la fuente indi
 Roman Catholic 78%, Protestant/evangelical Christian 11.2%, other 0.002%, unaffiliated (includes atheism) 10.6% (2020 est.)<br>
 
 **Age structure**<br>
-_0-14 years_: 26.01% (male 17,111,199/female 16,349,767)<br>
-_15-24 years_: 16.97% (male 11,069,260/female 10,762,784)<br>
-_25-54 years_: 41.06% (male 25,604,223/female 27,223,720)<br>
-_55-64 years_: 8.29% (male 4,879,048/female 5,784,176)<br>
-_65 years and over_: 7.67% (male 4,373,807/female 5,491,581) (2020 est.)<br>
+_0-14 years_: 23.76% (male 15,844,300/female 15,009,047)<br>
+_15-64 years_: 68.22% (male 43,086,673/female 45,518,891)<br>
+_65 years and over_: 8.02% (2023 est.) (male 4,560,225/female 5,856,393)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 49.4<br>
@@ -125,16 +123,16 @@ _male_: 28.2 years<br>
 _female_: 30.4 years (2020 est.)<br>
 
 **Population growth rate**<br>
-0.51% (2022 est.)<br>
+0.61% (2023 est.)<br>
 
 **Birth rate**<br>
-13.55 births/1,000 population (2022 est.)<br>
+13.95 births/1,000 population (2023 est.)<br>
 
 **Death rate**<br>
-7.71 deaths/1,000 population (2022 est.)<br>
+7.07 deaths/1,000 population (2023 est.)<br>
 
 **Net migration rate**<br>
--0.76 migrant(s)/1,000 population (2022 est.)<br>
+-0.77 migrant(s)/1,000 population (2023 est.)<br>
 
 **Population distribution**<br>
 most of the population is found in the middle of the country between the states of Jalisco and Veracruz; approximately a quarter of the population lives in and around Mexico City<br>
@@ -148,12 +146,10 @@ _rate of urbanization_: 1.4% annual rate of change (2020-25 est.)<br>
 
 **Sex ratio**<br>
 _at birth_: 1.05 male(s)/female<br>
-_0-14 years_: 1.05 male(s)/female<br>
-_15-24 years_: 1.09 male(s)/female<br>
-_25-54 years_: 0.91 male(s)/female<br>
-_55-64 years_: 0.84 male(s)/female<br>
-_65 years and over_: 0.75 male(s)/female<br>
-_total population_: 0.96 male(s)/female (2022 est.)<br>
+_0-14 years_: 1.06 male(s)/female<br>
+_15-64 years_: 0.95 male(s)/female<br>
+_65 years and over_: 0.78 male(s)/female<br>
+_total population_: 0.96 male(s)/female (2023 est.)<br>
 
 **Mother's mean age at first birth**<br>
 21.3 years (2008 est.)<br>
@@ -162,17 +158,17 @@ _total population_: 0.96 male(s)/female (2022 est.)<br>
 33 deaths/100,000 live births (2017 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 11.86 deaths/1,000 live births<br>
-_male_: 13.11 deaths/1,000 live births<br>
-_female_: 10.55 deaths/1,000 live births (2022 est.)<br>
+_total_: 12 deaths/1,000 live births<br>
+_male_: 13.23 deaths/1,000 live births<br>
+_female_: 10.71 deaths/1,000 live births (2023 est.)<br>
 
 **Life expectancy at birth**<br>
-_total population_: 72.32 years<br>
-_male_: 68.93 years<br>
-_female_: 75.88 years (2022 est.)<br>
+_total population_: 73.46 years<br>
+_male_: 70.29 years<br>
+_female_: 76.79 years (2023 est.)<br>
 
 **Total fertility rate**<br>
-1.68 children born/woman (2022 est.)<br>
+1.73 children born/woman (2023 est.)<br>
 
 **Gross reproduction rate**<br>
 0.85 (2023 est.)<br>

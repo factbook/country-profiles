@@ -76,7 +76,7 @@ shares island of Hispaniola with Dominican Republic (western one-third is Haiti,
 ## People and Society
 
 **Population**<br>
-11,334,637 (2022 est.)<br>
+11,470,261 (2023 est.)<br>
 
 **Nationality**<br>
 _noun_: Haitian(s)<br>
@@ -94,11 +94,9 @@ Catholic 55%, Protestant 29%, Vodou 2.1%, other 4.6%, none 10% (2018 est.)<br>
 <strong>note:</strong> 50-80% of Haitians incorporate some elements of Vodou culture or practice in addition to another religion, most often Roman Catholicism; Vodou was recognized as an official religion in 2003<br>
 
 **Age structure**<br>
-_0-14 years_: 31.21% (male 1,719,961/female 1,734,566)<br>
-_15-24 years_: 20.71% (male 1,145,113/female 1,146,741)<br>
-_25-54 years_: 38.45% (male 2,110,294/female 2,145,209)<br>
-_55-64 years_: 5.3% (male 280,630/female 305,584)<br>
-_65 years and over_: 4.33% (male 210,451/female 269,228) (2020 est.)<br>
+_0-14 years_: 29.68% (male 1,695,357/female 1,709,344)<br>
+_15-64 years_: 65.76% (male 3,733,899/female 3,808,453)<br>
+_65 years and over_: 4.56% (2023 est.) (male 228,800/female 294,408)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 58.3<br>
@@ -112,16 +110,16 @@ _male_: 23.8 years<br>
 _female_: 24.3 years (2020 est.)<br>
 
 **Population growth rate**<br>
-1.2% (2022 est.)<br>
+1.18% (2023 est.)<br>
 
 **Birth rate**<br>
-21.12 births/1,000 population (2022 est.)<br>
+20.81 births/1,000 population (2023 est.)<br>
 
 **Death rate**<br>
-7.23 deaths/1,000 population (2022 est.)<br>
+7.17 deaths/1,000 population (2023 est.)<br>
 
 **Net migration rate**<br>
--1.88 migrant(s)/1,000 population (2022 est.)<br>
+-1.86 migrant(s)/1,000 population (2023 est.)<br>
 
 **Population distribution**<br>
 fairly even distribution; largest concentrations located near coastal areas<br>
@@ -136,11 +134,9 @@ _rate of urbanization_: 2.47% annual rate of change (2020-25 est.)<br>
 **Sex ratio**<br>
 _at birth_: 1.01 male(s)/female<br>
 _0-14 years_: 0.99 male(s)/female<br>
-_15-24 years_: 0.99 male(s)/female<br>
-_25-54 years_: 0.98 male(s)/female<br>
-_55-64 years_: 0.92 male(s)/female<br>
-_65 years and over_: 0.62 male(s)/female<br>
-_total population_: 0.97 male(s)/female (2022 est.)<br>
+_15-64 years_: 0.98 male(s)/female<br>
+_65 years and over_: 0.78 male(s)/female<br>
+_total population_: 0.97 male(s)/female (2023 est.)<br>
 
 **Mother's mean age at first birth**<br>
 22.4 years (2016/7 est.)<br>
@@ -150,17 +146,17 @@ _total population_: 0.97 male(s)/female (2022 est.)<br>
 480 deaths/100,000 live births (2017 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 40.02 deaths/1,000 live births<br>
-_male_: 45.71 deaths/1,000 live births<br>
-_female_: 34.26 deaths/1,000 live births (2022 est.)<br>
+_total_: 38.78 deaths/1,000 live births<br>
+_male_: 44.36 deaths/1,000 live births<br>
+_female_: 33.14 deaths/1,000 live births (2023 est.)<br>
 
 **Life expectancy at birth**<br>
-_total population_: 65.95 years<br>
-_male_: 63.26 years<br>
-_female_: 68.67 years (2022 est.)<br>
+_total population_: 66.3 years<br>
+_male_: 63.6 years<br>
+_female_: 69.04 years (2023 est.)<br>
 
 **Total fertility rate**<br>
-2.43 children born/woman (2022 est.)<br>
+2.39 children born/woman (2023 est.)<br>
 
 **Gross reproduction rate**<br>
 1.19 (2023 est.)<br>

@@ -76,7 +76,7 @@ landlocked; major transportation corridor from Western and Central Europe to Aeg
 ## People and Society
 
 **Population**<br>
-2,130,936 (2022 est.)<br>
+2,133,410 (2023 est.)<br>
 
 **Nationality**<br>
 _noun_: Macedonian(s)<br>
@@ -94,11 +94,9 @@ _major-language sample(s)_: <br>Книга на Светски Факти, не�
 Macedonian Orthodox 46.1%, Muslim 32.2%, other Christian 13.8%, other and non-believers 0.5%, unspecified 0.2%, persons for whom data were taken from administrative sources and no religious affiliation data was available 7.2% (2021 est.)<br>
 
 **Age structure**<br>
-_0-14 years_: 16.16% (male 177,553/female 165,992)<br>
-_15-24 years_: 12.65% (male 139,250/female 129,770)<br>
-_25-54 years_: 44.47% (male 480,191/female 465,145)<br>
-_55-64 years_: 12.55% (male 131,380/female 135,407)<br>
-_65 years and over_: 14.17% (male 131,674/female 169,609) (2020 est.)<br>
+_0-14 years_: 16.06% (male 177,156/female 165,540)<br>
+_15-64 years_: 68.69% (male 742,990/female 722,359)<br>
+_65 years and over_: 15.25% (2023 est.) (male 143,539/female 181,826)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 44.6<br>
@@ -112,16 +110,16 @@ _male_: 38 years<br>
 _female_: 40 years (2020 est.)<br>
 
 **Population growth rate**<br>
-0.12% (2022 est.)<br>
+0.11% (2023 est.)<br>
 
 **Birth rate**<br>
-10.45 births/1,000 population (2022 est.)<br>
+10.33 births/1,000 population (2023 est.)<br>
 
 **Death rate**<br>
-9.61 deaths/1,000 population (2022 est.)<br>
+9.61 deaths/1,000 population (2023 est.)<br>
 
 **Net migration rate**<br>
-0.38 migrant(s)/1,000 population (2022 est.)<br>
+0.38 migrant(s)/1,000 population (2023 est.)<br>
 
 **Population distribution**<br>
 a fairly even distribution throughout most of the country, with urban areas attracting larger and denser populations<br>
@@ -136,11 +134,9 @@ _rate of urbanization_: 0.61% annual rate of change (2020-25 est.)<br>
 **Sex ratio**<br>
 _at birth_: 1.07 male(s)/female<br>
 _0-14 years_: 1.07 male(s)/female<br>
-_15-24 years_: 1.07 male(s)/female<br>
-_25-54 years_: 1.04 male(s)/female<br>
-_55-64 years_: 0.97 male(s)/female<br>
-_65 years and over_: 0.55 male(s)/female<br>
-_total population_: 0.99 male(s)/female (2022 est.)<br>
+_15-64 years_: 1.03 male(s)/female<br>
+_65 years and over_: 0.79 male(s)/female<br>
+_total population_: 0.99 male(s)/female (2023 est.)<br>
 
 **Mother's mean age at first birth**<br>
 26.9 years (2020 est.)<br>
@@ -149,17 +145,17 @@ _total population_: 0.99 male(s)/female (2022 est.)<br>
 7 deaths/100,000 live births (2017 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 7.32 deaths/1,000 live births<br>
-_male_: 8.27 deaths/1,000 live births<br>
-_female_: 6.31 deaths/1,000 live births (2022 est.)<br>
+_total_: 7.16 deaths/1,000 live births<br>
+_male_: 8.09 deaths/1,000 live births<br>
+_female_: 6.17 deaths/1,000 live births (2023 est.)<br>
 
 **Life expectancy at birth**<br>
-_total population_: 76.84 years<br>
-_male_: 74.73 years<br>
-_female_: 79.08 years (2022 est.)<br>
+_total population_: 77.09 years<br>
+_male_: 74.99 years<br>
+_female_: 79.32 years (2023 est.)<br>
 
 **Total fertility rate**<br>
-1.51 children born/woman (2022 est.)<br>
+1.52 children born/woman (2023 est.)<br>
 
 **Gross reproduction rate**<br>
 0.74 (2023 est.)<br>
@@ -693,7 +689,7 @@ Islamic State of Iraq and ash-Sham (ISIS)<br>
 <p><em>North Macedonia-Albania</em>: none identified</p> <p><em>North Macedonia-Greece</em>: none identified</p> <p><em>North Macedonia-Kosovo</em>: North Macedonia and Kosovo completed demarcation of their boundary in October 2009</p> <p><em>North Macedonia-Serbia</em>: none identified</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 6,410 (Ukraine) (as of 6 February 2023)<br>
+_refugees (country of origin)_: 6,511 (Ukraine) (as of 26 February 2023)<br>
 _stateless persons_: 521 (2022)<br>
 <strong>note:</strong> 552,030 estimated refugee and migrant arrivals (January 2015-January 2023)<br>
 

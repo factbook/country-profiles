@@ -75,7 +75,7 @@ the third largest island in the Mediterranean Sea (after Sicily and Sardinia); s
 ## People and Society
 
 **Population**<br>
-1,295,102 (2022 est.)<br>
+1,308,120 (2023 est.)<br>
 
 **Nationality**<br>
 _noun_: Cypriot(s)<br>
@@ -94,11 +94,9 @@ Orthodox Christian 89.1%, Roman Catholic 2.9%, Protestant/Anglican 2%, Muslim 1.
 <strong>note:</strong> data represent only the government-controlled area of Cyprus<br>
 
 **Age structure**<br>
-_0-14 years_: 15.69% (male 102,095/female 96,676)<br>
-_15-24 years_: 12.29% (male 84,832/female 70,879)<br>
-_25-54 years_: 47.12% (male 316,710/female 280,167)<br>
-_55-64 years_: 11.92% (male 72,476/female 78,511)<br>
-_65 years and over_: 12.97% (male 71,053/female 93,277) (2020 est.)<br>
+_0-14 years_: 15.63% (male 104,950/female 99,515)<br>
+_15-64 years_: 70.36% (male 484,087/female 436,271)<br>
+_65 years and over_: 14.01% (2023 est.) (male 79,897/female 103,400)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 43.8<br>
@@ -113,16 +111,16 @@ _male_: 36.7 years<br>
 _female_: 39.4 years (2020 est.)<br>
 
 **Population growth rate**<br>
-1.06% (2022 est.)<br>
+1% (2023 est.)<br>
 
 **Birth rate**<br>
-10.57 births/1,000 population (2022 est.)<br>
+10.37 births/1,000 population (2023 est.)<br>
 
 **Death rate**<br>
-6.94 deaths/1,000 population (2022 est.)<br>
+6.99 deaths/1,000 population (2023 est.)<br>
 
 **Net migration rate**<br>
-6.96 migrant(s)/1,000 population (2022 est.)<br>
+6.65 migrant(s)/1,000 population (2023 est.)<br>
 
 **Population distribution**<br>
 population concentrated in central Nicosia and in the major cities of the south: Paphos, Limassol, and Larnaca<br>
@@ -137,11 +135,9 @@ _rate of urbanization_: 0.76% annual rate of change (2020-25 est.)<br>
 **Sex ratio**<br>
 _at birth_: 1.05 male(s)/female<br>
 _0-14 years_: 1.05 male(s)/female<br>
-_15-24 years_: 1.05 male(s)/female<br>
-_25-54 years_: 1.02 male(s)/female<br>
-_55-64 years_: 0.78 male(s)/female<br>
-_65 years and over_: 0.55 male(s)/female<br>
-_total population_: 0.93 male(s)/female (2022 est.)<br>
+_15-64 years_: 0.97 male(s)/female<br>
+_65 years and over_: 0.68 male(s)/female<br>
+_total population_: 0.93 male(s)/female (2023 est.)<br>
 
 **Mother's mean age at first birth**<br>
 30 years (2020 est.)<br>
@@ -151,17 +147,17 @@ _total population_: 0.93 male(s)/female (2022 est.)<br>
 6 deaths/100,000 live births (2017 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 8.36 deaths/1,000 live births<br>
-_male_: 10.22 deaths/1,000 live births<br>
-_female_: 6.41 deaths/1,000 live births (2022 est.)<br>
+_total_: 8.2 deaths/1,000 live births<br>
+_male_: 9.87 deaths/1,000 live births<br>
+_female_: 6.46 deaths/1,000 live births (2023 est.)<br>
 
 **Life expectancy at birth**<br>
-_total population_: 79.74 years<br>
-_male_: 76.93 years<br>
-_female_: 82.68 years (2022 est.)<br>
+_total population_: 79.96 years<br>
+_male_: 77.18 years<br>
+_female_: 82.89 years (2023 est.)<br>
 
 **Total fertility rate**<br>
-1.48 children born/woman (2022 est.)<br>
+1.48 children born/woman (2023 est.)<br>
 
 **Gross reproduction rate**<br>
 0.72 (2023 est.)<br>
@@ -718,10 +714,10 @@ Islamic State of Iraq and ash-Sham (ISIS)<br>
 <p>hostilities in 1974 divided the island into two de facto autonomous entities, the internationally recognized Cypriot Government and a Turkish-Cypriot community (north Cyprus); the 1,000-strong UN Peacekeeping Force in Cyprus (UNFICYP) has served in Cyprus since 1964 and maintains the buffer zone between north and south; on 1 May 2004, Cyprus entered the EU still divided, with the EU's body of legislation and standards (acquis communitaire) suspended in the north; Turkey protests Cypriot Government creating hydrocarbon blocks and maritime boundary with Lebanon in March 2007</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 10,869 (Syria) (mid-year 2022); 15,750 (Ukraine) (as of 5 February 2023)<br>
+_refugees (country of origin)_: 10,869 (Syria) (mid-year 2022); 15,992 (Ukraine) (as of 19 February 2023)<br>
 _IDPs_: 242,000 (both Turkish and Greek Cypriots; many displaced since 1974) (2021)<br>
 _stateless persons_: 74 (2022)<br>
-<strong>note:</strong> 47,836 estimated refugee and migrant arrivals (January 2015-November 2022)<br>
+<strong>note:</strong> 49,113 estimated refugee and migrant arrivals (January 2015-January 2023)<br>
 
 **Illicit drugs**<br>
 <p>vulnerable to money laundering from illegal drugs</p> <p> </p><br>

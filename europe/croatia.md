@@ -80,7 +80,7 @@ controls most land routes from Western Europe to Aegean Sea and Turkish Straits;
 ## People and Society
 
 **Population**<br>
-4,188,853 (2022 est.)<br>
+4,169,239 (2023 est.)<br>
 
 **Nationality**<br>
 _noun_: Croat(s), Croatian(s)<br>
@@ -98,11 +98,9 @@ _major-language sample(s)_: <br>Knjiga svjetskih činjenica, nužan izvor osnovn
 Roman Catholic 86.3%, Orthodox 4.4%, Muslim 1.5%, other 1.5%, unspecified 2.5%, not religious or atheist 3.8% (2011 est.)<br>
 
 **Age structure**<br>
-_0-14 years_: 14.16% (male 308,668/female 289,996)<br>
-_15-24 years_: 10.76% (male 233,602/female 221,495)<br>
-_25-54 years_: 39.77% (male 841,930/female 839,601)<br>
-_55-64 years_: 14.24% (male 290,982/female 310,969)<br>
-_65 years and over_: 21.06% (male 364,076/female 526,427) (2020 est.)<br>
+_0-14 years_: 13.98% (male 300,575/female 282,165)<br>
+_15-64 years_: 63.39% (male 1,319,878/female 1,322,953)<br>
+_65 years and over_: 22.63% (2023 est.) (male 391,632/female 552,036)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 56.5<br>
@@ -116,16 +114,16 @@ _male_: 42 years<br>
 _female_: 45.9 years (2020 est.)<br>
 
 **Population growth rate**<br>
--0.47% (2022 est.)<br>
+-0.47% (2023 est.)<br>
 
 **Birth rate**<br>
-8.65 births/1,000 population (2022 est.)<br>
+8.6 births/1,000 population (2023 est.)<br>
 
 **Death rate**<br>
-12.88 deaths/1,000 population (2022 est.)<br>
+12.98 deaths/1,000 population (2023 est.)<br>
 
 **Net migration rate**<br>
--0.5 migrant(s)/1,000 population (2022 est.)<br>
+-0.26 migrant(s)/1,000 population (2023 est.)<br>
 
 **Population distribution**<br>
 more of the population lives in the northern half of the country, with approximately a quarter of the populace residing in and around the capital of Zagreb; many of the islands are sparsely populated<br>
@@ -140,11 +138,9 @@ _rate of urbanization_: 0.05% annual rate of change (2020-25 est.)<br>
 **Sex ratio**<br>
 _at birth_: 1.06 male(s)/female<br>
 _0-14 years_: 1.01 male(s)/female<br>
-_15-24 years_: 1 male(s)/female<br>
-_25-54 years_: 1.03 male(s)/female<br>
-_55-64 years_: 1.04 male(s)/female<br>
-_65 years and over_: 0.67 male(s)/female<br>
-_total population_: 1.01 male(s)/female (2022 est.)<br>
+_15-64 years_: 1.02 male(s)/female<br>
+_65 years and over_: 0.82 male(s)/female<br>
+_total population_: 1.01 male(s)/female (2023 est.)<br>
 
 **Mother's mean age at first birth**<br>
 29 years (2020 est.)<br>
@@ -153,20 +149,20 @@ _total population_: 1.01 male(s)/female (2022 est.)<br>
 8 deaths/100,000 live births (2017 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 8.74 deaths/1,000 live births<br>
-_male_: 8.52 deaths/1,000 live births<br>
-_female_: 8.98 deaths/1,000 live births (2022 est.)<br>
+_total_: 8.58 deaths/1,000 live births<br>
+_male_: 8.36 deaths/1,000 live births<br>
+_female_: 8.81 deaths/1,000 live births (2023 est.)<br>
 
 **Life expectancy at birth**<br>
-_total population_: 77.22 years<br>
-_male_: 74.1 years<br>
-_female_: 80.53 years (2022 est.)<br>
+_total population_: 77.47 years<br>
+_male_: 74.37 years<br>
+_female_: 80.76 years (2023 est.)<br>
 
 **Total fertility rate**<br>
-1.45 children born/woman (2022 est.)<br>
+1.46 children born/woman (2023 est.)<br>
 
 **Gross reproduction rate**<br>
-10.7 (2023 est.)<br>
+0.71 (2023 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 NA<br>
@@ -709,8 +705,8 @@ Armed Forces of the Republic of Croatia (Oruzane Snage Republike Hrvatske, OSRH)
 2% of GDP (2022 est.)<br>
 2.2% of GDP (2021)<br>
 1.7% of GDP (2020)<br>
-1.6% of GDP (2019) (approximately $1.62 billion)<br>
-1.6% of GDP (2018) (approximately $1.52 billion)<br>
+1.6% of GDP (2019)<br>
+1.6% of GDP (2018)<br>
 
 **Military and security service personnel strengths**<br>
 approximately 15,000 active duty personnel (10,000 Army; 1,500 Navy; 1,500 Air force; 2,000 joint/other) (2022)<br>

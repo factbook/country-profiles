@@ -74,7 +74,7 @@ strategic location on major air and sea routes between North America and norther
 ## People and Society
 
 **Population**<br>
-5,275,004 (2022 est.)<br>
+5,323,991 (2023 est.)<br>
 
 **Nationality**<br>
 _noun_: Irishman(men), Irishwoman(women), Irish (collective plural)<br>
@@ -90,11 +90,9 @@ English (official, the language generally used), Irish (Gaelic or Gaeilge) (offi
 Roman Catholic 78.3%, Church of Ireland 2.7%, other Christian 1.6%, Orthodox 1.3%, Muslim 1.3%, other 2.4%, none 9.8%, unspecified 2.6% (2016 est.)<br>
 
 **Age structure**<br>
-_0-14 years_: 21.15% (male 560,338/female 534,570)<br>
-_15-24 years_: 12.08% (male 316,239/female 308,872)<br>
-_25-54 years_: 42.19% (male 1,098,058/female 1,085,794)<br>
-_55-64 years_: 10.77% (male 278,836/female 278,498)<br>
-_65 years and over_: 13.82% (male 331,772/female 383,592) (2020 est.)<br>
+_0-14 years_: 20.39% (male 556,057/female 529,454)<br>
+_15-64 years_: 65.04% (male 1,741,527/female 1,720,989)<br>
+_65 years and over_: 14.57% (2023 est.) (male 360,476/female 415,488)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 53.2<br>
@@ -108,16 +106,16 @@ _male_: 37.4 years<br>
 _female_: 38.2 years (2020 est.)<br>
 
 **Population growth rate**<br>
-0.94% (2022 est.)<br>
+0.91% (2023 est.)<br>
 
 **Birth rate**<br>
-12.32 births/1,000 population (2022 est.)<br>
+12.08 births/1,000 population (2023 est.)<br>
 
 **Death rate**<br>
-6.73 deaths/1,000 population (2022 est.)<br>
+6.74 deaths/1,000 population (2023 est.)<br>
 
 **Net migration rate**<br>
-3.79 migrant(s)/1,000 population (2022 est.)<br>
+3.76 migrant(s)/1,000 population (2023 est.)<br>
 
 **Population distribution**<br>
 population distribution is weighted to the eastern side of the island, with the largest concentration being in and around Dublin; populations in the west are small due to mountainous land, poorer soil, lack of good transport routes, and fewer job opportunities<br>
@@ -132,11 +130,9 @@ _rate of urbanization_: 1.15% annual rate of change (2020-25 est.)<br>
 **Sex ratio**<br>
 _at birth_: 1.06 male(s)/female<br>
 _0-14 years_: 1.05 male(s)/female<br>
-_15-24 years_: 1.02 male(s)/female<br>
-_25-54 years_: 1.01 male(s)/female<br>
-_55-64 years_: 1.01 male(s)/female<br>
-_65 years and over_: 0.71 male(s)/female<br>
-_total population_: 1 male(s)/female (2022 est.)<br>
+_15-64 years_: 1.01 male(s)/female<br>
+_65 years and over_: 0.87 male(s)/female<br>
+_total population_: 1 male(s)/female (2023 est.)<br>
 
 **Mother's mean age at first birth**<br>
 30.9 years (2020 est.)<br>
@@ -145,17 +141,17 @@ _total population_: 1 male(s)/female (2022 est.)<br>
 5 deaths/100,000 live births (2017 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 3.47 deaths/1,000 live births<br>
-_male_: 3.9 deaths/1,000 live births<br>
-_female_: 3.01 deaths/1,000 live births (2022 est.)<br>
+_total_: 3.41 deaths/1,000 live births<br>
+_male_: 3.84 deaths/1,000 live births<br>
+_female_: 2.96 deaths/1,000 live births (2023 est.)<br>
 
 **Life expectancy at birth**<br>
-_total population_: 81.66 years<br>
-_male_: 79.35 years<br>
-_female_: 84.1 years (2022 est.)<br>
+_total population_: 81.87 years<br>
+_male_: 79.57 years<br>
+_female_: 84.3 years (2023 est.)<br>
 
 **Total fertility rate**<br>
-1.92 children born/woman (2022 est.)<br>
+1.91 children born/woman (2023 est.)<br>
 
 **Gross reproduction rate**<br>
 0.93 (2023 est.)<br>
@@ -711,7 +707,7 @@ Continuity Irish Republican Army; New Irish Republican Army; Islamic State of Ir
 <p><em>Ireland-Denmark</em>: Ireland, Iceland, and the UK dispute Denmark's claim that the Faroe Islands' continental shelf extends beyond 200 nm; Iceland, Norway, and the Faroe Islands signed an agreement in 2019 extending the Faroe Islands’ northern continental shelf area</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 73,002 (Ukraine) (as of 26 January 2023)<br>
+_refugees (country of origin)_: 75,260 (Ukraine) (as of 13 February 2023)<br>
 _stateless persons_: 7 (2022)<br>
 
 **Illicit drugs**<br>

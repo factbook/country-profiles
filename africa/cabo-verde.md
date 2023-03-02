@@ -74,7 +74,7 @@ strategic location 500 km from west coast of Africa near major north-south sea r
 ## People and Society
 
 **Population**<br>
-596,707 (2022 est.)<br>
+603,901 (2023 est.)<br>
 
 **Nationality**<br>
 _noun_: Cabo Verdean(s)<br>
@@ -93,11 +93,9 @@ Roman Catholic 77.3%, Protestant 4.6% (includes Church of the Nazarene 1.7%, Adv
 <p>Cabo Verde’s population descends from its first permanent inhabitants in the late 15th-century – a preponderance of West African slaves, a small share of Portuguese colonists, and even fewer Italians, Spaniards, and Portuguese Jews. Over the centuries, the country’s overall population size has fluctuated significantly, as recurring periods of famine and epidemics have caused high death tolls and emigration.</p><p>Labor migration historically reduced Cabo Verde’s population growth and still provides a key source of income through remittances. Expatriates probably outnumber Cabo Verde’s resident population, with most families having a member abroad. Cabo Verdeans have settled in the US, Europe, Africa, and South America. The largest diaspora community in New Bedford, Massachusetts, dating to the early 1800s, is a byproduct of the transatlantic whaling industry. Cabo Verdean men fleeing poverty at home joined the crews of US whaling ships that stopped in the islands. Many settled in New Bedford and stayed in the whaling or shipping trade, worked in the textile or cranberry industries, or operated their own transatlantic packet ships that transported compatriots to the US. Increased Cabo Verdean emigration to the US coincided with the gradual and eventually complete abolition of slavery in the archipelago in 1878.</p><p>During the same period, Portuguese authorities coerced Cabo Verdeans to go to Sao Tome and Principe and other Portuguese colonies in Africa to work as indentured laborers on plantations. In the 1920s, when the US implemented immigration quotas, Cabo Verdean emigration shifted toward Portugal, West Africa (Senegal), and South America (Argentina). Growing numbers of Cabo Verdean labor migrants headed to Western Europe in the 1960s and 1970s. They filled unskilled jobs in Portugal, as many Portuguese sought out work opportunities in the more prosperous economies of northwest Europe. Cabo Verdeans eventually expanded their emigration to the Netherlands, where they worked in the shipping industry. Migration to the US resumed under relaxed migration laws. Cabo Verdean women also began migrating to southern Europe to become domestic workers, a trend that continues today and has shifted the gender balance of Cabo Verdean emigration.</p><p>Emigration has declined in more recent decades due to the adoption of more restrictive migration policies in destination countries. Reduced emigration along with a large youth population, decreased mortality rates, and increased life expectancies, has boosted population growth, putting further pressure on domestic employment and resources. In addition, Cabo Verde has attracted increasing numbers of migrants in recent decades, consisting primarily of people from West Africa, Portuguese-speaking African countries, Portugal, and China. Since the 1990s, some West African migrants have used Cabo Verde as a stepping stone for illegal migration to Europe.</p><br>
 
 **Age structure**<br>
-_0-14 years_: 27.95% (male 82,010/female 81,012)<br>
-_15-24 years_: 18.69% (male 54,521/female 54,504)<br>
-_25-54 years_: 40.76% (male 115,811/female 121,923)<br>
-_55-64 years_: 7.12% (male 18,939/female 22,597)<br>
-_65 years and over_: 5.48% (male 12,037/female 19,901) (2020 est.)<br>
+_0-14 years_: 26.68% (male 80,974/female 80,143)<br>
+_15-64 years_: 67.18% (male 198,503/female 207,205)<br>
+_65 years and over_: 6.14% (2023 est.) (male 14,099/female 22,977)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 47.2<br>
@@ -111,16 +109,16 @@ _male_: 25.9 years<br>
 _female_: 27.6 years (2020 est.)<br>
 
 **Population growth rate**<br>
-1.21% (2022 est.)<br>
+1.19% (2023 est.)<br>
 
 **Birth rate**<br>
-18.49 births/1,000 population (2022 est.)<br>
+18.19 births/1,000 population (2023 est.)<br>
 
 **Death rate**<br>
-5.8 deaths/1,000 population (2022 est.)<br>
+5.77 deaths/1,000 population (2023 est.)<br>
 
 **Net migration rate**<br>
--0.57 migrant(s)/1,000 population (2022 est.)<br>
+-0.57 migrant(s)/1,000 population (2023 est.)<br>
 
 **Population distribution**<br>
 among the nine inhabited islands, population distribution is variable; islands in the east are very dry and are only sparsely settled to exploit their extensive salt deposits; the more southerly islands receive more precipitation and support larger populations, but agriculture and livestock grazing have damaged the soil fertility and vegetation; approximately half of the population lives on Sao Tiago Island, which is the location of the capital of Praia; Mindelo, on the northern island of Sao Vicente, also has a large urban population as shown in this population distribution map<br>
@@ -135,27 +133,25 @@ _rate of urbanization_: 1.83% annual rate of change (2020-25 est.)<br>
 **Sex ratio**<br>
 _at birth_: 1.03 male(s)/female<br>
 _0-14 years_: 1.01 male(s)/female<br>
-_15-24 years_: 1 male(s)/female<br>
-_25-54 years_: 0.95 male(s)/female<br>
-_55-64 years_: 0.86 male(s)/female<br>
-_65 years and over_: 0.52 male(s)/female<br>
-_total population_: 0.95 male(s)/female (2022 est.)<br>
+_15-64 years_: 0.96 male(s)/female<br>
+_65 years and over_: 0.61 male(s)/female<br>
+_total population_: 0.95 male(s)/female (2023 est.)<br>
 
 **Maternal mortality ratio**<br>
 58 deaths/100,000 live births (2017 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 23.53 deaths/1,000 live births<br>
-_male_: 27.64 deaths/1,000 live births<br>
-_female_: 19.29 deaths/1,000 live births (2022 est.)<br>
+_total_: 22.96 deaths/1,000 live births<br>
+_male_: 26.96 deaths/1,000 live births<br>
+_female_: 18.84 deaths/1,000 live births (2023 est.)<br>
 
 **Life expectancy at birth**<br>
-_total population_: 73.75 years<br>
-_male_: 71.41 years<br>
-_female_: 76.15 years (2022 est.)<br>
+_total population_: 74.02 years<br>
+_male_: 71.69 years<br>
+_female_: 76.41 years (2023 est.)<br>
 
 **Total fertility rate**<br>
-2.13 children born/woman (2022 est.)<br>
+2.11 children born/woman (2023 est.)<br>
 
 **Gross reproduction rate**<br>
 1.04 (2023 est.)<br>
@@ -654,9 +650,9 @@ Cabo Verdean Armed Forces (FACV): Army (also called the National Guard, GN; incl
 **Military expenditures**<br>
 0.5% of GDP (2021 est.)<br>
 0.5% of GDP (2020 est.)<br>
-0.5% of GDP (2019 est.) (approximately $20 million)<br>
-0.5% of GDP (2018 est.) (approximately $20 million)<br>
-0.5% of GDP (2017 est.) (approximately $20 million)<br>
+0.5% of GDP (2019 est.)<br>
+0.5% of GDP (2018 est.)<br>
+0.5% of GDP (2017 est.)<br>
 
 **Military and security service personnel strengths**<br>
 approximately 1,200 personnel including about 100 in the Coast Guard (2022)<br>

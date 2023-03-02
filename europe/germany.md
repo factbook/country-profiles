@@ -85,7 +85,7 @@ strategic location on North European Plain and along the entrance to the Baltic 
 ## People and Society
 
 **Population**<br>
-84,316,622 (2022 est.)<br>
+84,220,184 (2023 est.)<br>
 
 **Nationality**<br>
 _noun_: German(s)<br>
@@ -103,11 +103,9 @@ _major-language sample(s)_: <br>Das World Factbook, die unverzichtbare Quelle f�
 Roman Catholic 26.7%, Protestant 24.3%, Muslim 3.5%, other 4.8%, none 40.7% (2020 est.)<br>
 
 **Age structure**<br>
-_0-14 years_: 12.89% (male 5,302,850/female 5,025,863)<br>
-_15-24 years_: 9.81% (male 4,012,412/female 3,854,471)<br>
-_25-54 years_: 38.58% (male 15,553,328/female 15,370,417)<br>
-_55-64 years_: 15.74% (male 6,297,886/female 6,316,024)<br>
-_65 years and over_: 22.99% (male 8,148,873/female 10,277,538) (2020 est.)<br>
+_0-14 years_: 13.75% (male 5,905,124/female 5,673,727)<br>
+_15-64 years_: 62.97% (male 26,934,889/female 26,097,401)<br>
+_65 years and over_: 23.28% (2023 est.) (male 8,784,872/female 10,824,171)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 56.4<br>
@@ -121,16 +119,16 @@ _male_: 46.5 years<br>
 _female_: 49.1 years (2020 est.)<br>
 
 **Population growth rate**<br>
--0.11% (2022 est.)<br>
+-0.12% (2023 est.)<br>
 
 **Birth rate**<br>
-9.08 births/1,000 population (2022 est.)<br>
+9.02 births/1,000 population (2023 est.)<br>
 
 **Death rate**<br>
-11.98 deaths/1,000 population (2022 est.)<br>
+11.97 deaths/1,000 population (2023 est.)<br>
 
 **Net migration rate**<br>
-1.78 migrant(s)/1,000 population (2022 est.)<br>
+1.78 migrant(s)/1,000 population (2023 est.)<br>
 
 **Population distribution**<br>
 second most populous country in Europe; a fairly even distribution throughout most of the country, with urban areas attracting larger and denser populations, particularly in the far western part of the industrial state of North Rhine-Westphalia<br>
@@ -145,11 +143,9 @@ _rate of urbanization_: 0.13% annual rate of change (2020-25 est.)<br>
 **Sex ratio**<br>
 _at birth_: 1.05 male(s)/female<br>
 _0-14 years_: 1.04 male(s)/female<br>
-_15-24 years_: 1.03 male(s)/female<br>
-_25-54 years_: 1.05 male(s)/female<br>
-_55-64 years_: 1 male(s)/female<br>
-_65 years and over_: 0.7 male(s)/female<br>
-_total population_: 0.98 male(s)/female (2022 est.)<br>
+_15-64 years_: 1.03 male(s)/female<br>
+_65 years and over_: 0.81 male(s)/female<br>
+_total population_: 0.98 male(s)/female (2023 est.)<br>
 
 **Mother's mean age at first birth**<br>
 29.9 years (2020 est.)<br>
@@ -158,17 +154,17 @@ _total population_: 0.98 male(s)/female (2022 est.)<br>
 7 deaths/100,000 live births (2017 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 3.19 deaths/1,000 live births<br>
-_male_: 3.56 deaths/1,000 live births<br>
-_female_: 2.8 deaths/1,000 live births (2022 est.)<br>
+_total_: 3.14 deaths/1,000 live births<br>
+_male_: 3.51 deaths/1,000 live births<br>
+_female_: 2.76 deaths/1,000 live births (2023 est.)<br>
 
 **Life expectancy at birth**<br>
-_total population_: 81.51 years<br>
-_male_: 79.15 years<br>
-_female_: 84 years (2022 est.)<br>
+_total population_: 81.72 years<br>
+_male_: 79.37 years<br>
+_female_: 84.2 years (2023 est.)<br>
 
 **Total fertility rate**<br>
-1.57 children born/woman (2022 est.)<br>
+1.58 children born/woman (2023 est.)<br>
 
 **Gross reproduction rate**<br>
 0.77 (2023 est.)<br>
@@ -734,7 +730,7 @@ up to 500 Iraq (NATO); 1,030 Lithuania (NATO); up to 1,400 Mali (MINUSMA/EUTM); 
 <strong>note 1: </strong>in November 2022, Germany pledged to withdraw its troops from Mali by Spring 2024<br><br><strong>note 2: </strong>in response to Russia’s 2022 invasion of Ukraine, some NATO countries, including Germany, have sent additional troops and equipment to the battlegroups deployed in NATO territory in eastern Europe<br>
 
 **Military - note**<br>
-the Federal Republic of Germany joined NATO in May 1955; with the reunification of Germany in October 1990, the states of the former German Democratic Republic joined the Federal Republic of Germany in its membership of NATO<br><br>the German Army has incorporated a joint Franco-German mechanized infantry brigade since 1989, a Dutch airmobile infantry brigade since 2014, and a Dutch mechanized infantry brigade since 2016; in addition, the German Navy’s Sea Battalion (includes marine infantry, naval divers, reconnaissance, and security forces) has worked closely with the Dutch Marine Corps since 2016, including as a binational amphibious landing group (2022)<br>
+the Federal Republic of Germany joined NATO in May 1955; with the reunification of Germany in October 1990, the states of the former German Democratic Republic joined the Federal Republic of Germany in its membership of NATO<br><br>the German Army has incorporated a joint Franco-German mechanized infantry brigade since 1989, a Dutch airmobile infantry brigade since 2014, and a Dutch mechanized infantry brigade since 2016; in addition, the German Navy’s Sea Battalion (includes marine infantry, naval divers, reconnaissance, and security forces) has worked closely with the Dutch Marine Corps since 2016, including as a binational amphibious landing group (2023)<br>
 
 ## Terrorism
 

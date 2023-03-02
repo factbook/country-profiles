@@ -85,7 +85,7 @@ strategic location controlling the Turkish Straits (Bosporus, Sea of Marmara, Da
 ## People and Society
 
 **Population**<br>
-83,047,706 (2022 est.)<br>
+83,593,483 (2023 est.)<br>
 
 **Nationality**<br>
 _noun_: Turk(s)<br>
@@ -102,11 +102,9 @@ _major-language sample(s)_: <br>The World Factbook, temel bilgi edinmek için va
 Muslim 99.8% (mostly Sunni), other 0.2% (mostly Christians and Jews)<br>
 
 **Age structure**<br>
-_0-14 years_: 23.41% (male 9,823,553/female 9,378,767)<br>
-_15-24 years_: 15.67% (male 6,564,263/female 6,286,615)<br>
-_25-54 years_: 43.31% (male 17,987,103/female 17,536,957)<br>
-_55-64 years_: 9.25% (male 3,764,878/female 3,822,946)<br>
-_65 years and over_: 8.35% (male 3,070,258/female 3,782,174) (2020 est.)<br>
+_0-14 years_: 22.12% (male 9,459,277/female 9,029,296)<br>
+_15-64 years_: 68.58% (male 29,023,477/female 28,301,263)<br>
+_65 years and over_: 9.31% (2023 est.) (male 3,512,598/female 4,267,572)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 49.1<br>
@@ -120,16 +118,16 @@ _male_: 31.7 years<br>
 _female_: 32.8 years (2020 est.)<br>
 
 **Population growth rate**<br>
-0.67% (2022 est.)<br>
+0.64% (2023 est.)<br>
 
 **Birth rate**<br>
-14.28 births/1,000 population (2022 est.)<br>
+14.04 births/1,000 population (2023 est.)<br>
 
 **Death rate**<br>
-6.05 deaths/1,000 population (2022 est.)<br>
+6.09 deaths/1,000 population (2023 est.)<br>
 
 **Net migration rate**<br>
--1.54 migrant(s)/1,000 population (2022 est.)<br>
+-1.53 migrant(s)/1,000 population (2023 est.)<br>
 
 **Population distribution**<br>
 the most densely populated area is found around the Bosporus in the northwest where 20% of the population lives in Istanbul; with the exception of Ankara, urban centers remain small and scattered throughout the interior of Anatolia; an overall pattern of peripheral development exists, particularly along the Aegean Sea coast in the west, and the Tigris and Euphrates River systems in the southeast<br>
@@ -144,11 +142,9 @@ _rate of urbanization_: 1.11% annual rate of change (2020-25 est.)<br>
 **Sex ratio**<br>
 _at birth_: 1.05 male(s)/female<br>
 _0-14 years_: 1.05 male(s)/female<br>
-_15-24 years_: 1.05 male(s)/female<br>
-_25-54 years_: 1.03 male(s)/female<br>
-_55-64 years_: 0.98 male(s)/female<br>
-_65 years and over_: 0.61 male(s)/female<br>
-_total population_: 1.01 male(s)/female (2022 est.)<br>
+_15-64 years_: 1.03 male(s)/female<br>
+_65 years and over_: 0.82 male(s)/female<br>
+_total population_: 1.01 male(s)/female (2023 est.)<br>
 
 **Mother's mean age at first birth**<br>
 26.6 years (2020 est.)<br>
@@ -157,17 +153,17 @@ _total population_: 1.01 male(s)/female (2022 est.)<br>
 17 deaths/100,000 live births (2017 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 19.35 deaths/1,000 live births<br>
-_male_: 21.01 deaths/1,000 live births<br>
-_female_: 17.61 deaths/1,000 live births (2022 est.)<br>
+_total_: 18.85 deaths/1,000 live births<br>
+_male_: 20.46 deaths/1,000 live births<br>
+_female_: 17.16 deaths/1,000 live births (2023 est.)<br>
 
 **Life expectancy at birth**<br>
-_total population_: 76.21 years<br>
-_male_: 73.84 years<br>
-_female_: 78.7 years (2022 est.)<br>
+_total population_: 76.47 years<br>
+_male_: 74.11 years<br>
+_female_: 78.94 years (2023 est.)<br>
 
 **Total fertility rate**<br>
-1.93 children born/woman (2022 est.)<br>
+1.91 children born/woman (2023 est.)<br>
 
 **Gross reproduction rate**<br>
 0.93 (2023 est.)<br>

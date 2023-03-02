@@ -76,7 +76,7 @@ despite its small size, this eastern Alpine country controls some of Europe's ma
 ## People and Society
 
 **Population**<br>
-2,101,208 (2022 est.)<br>
+2,099,790 (2023 est.)<br>
 
 **Nationality**<br>
 _noun_: Slovene(s)<br>
@@ -93,11 +93,9 @@ _major-language sample(s)_: <br>Svetovni informativni zvezek - neobhoden vir osn
 Catholic 57.8%, Muslim 2.4%, Orthodox 2.3%, other Christian 1%, unaffiliated 3.5%, no response or unspecified 22.8%, none 10.1% (2002 est.)<br>
 
 **Age structure**<br>
-_0-14 years_: 14.84% (male 160,134/female 151,960)<br>
-_15-24 years_: 9.01% (male 98,205/female 91,318)<br>
-_25-54 years_: 40.73% (male 449,930/female 406,395)<br>
-_55-64 years_: 14.19% (male 148,785/female 149,635)<br>
-_65 years and over_: 21.23% (male 192,420/female 253,896) (2020 est.)<br>
+_0-14 years_: 14.55% (male 156,499/female 148,987)<br>
+_15-64 years_: 62.73% (male 685,750/female 631,553)<br>
+_65 years and over_: 22.72% (2023 est.) (male 208,832/female 268,169)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 55.5<br>
@@ -111,16 +109,16 @@ _male_: 43.4 years<br>
 _female_: 46.6 years (2020 est.)<br>
 
 **Population growth rate**<br>
--0.06% (2022 est.)<br>
+-0.08% (2023 est.)<br>
 
 **Birth rate**<br>
-8.3 births/1,000 population (2022 est.)<br>
+8.12 births/1,000 population (2023 est.)<br>
 
 **Death rate**<br>
-10.4 deaths/1,000 population (2022 est.)<br>
+10.46 deaths/1,000 population (2023 est.)<br>
 
 **Net migration rate**<br>
-1.54 migrant(s)/1,000 population (2022 est.)<br>
+1.54 migrant(s)/1,000 population (2023 est.)<br>
 
 **Population distribution**<br>
 a fairly even distribution throughout most of the country, with urban areas attracting larger and denser populations; pockets in the mountainous northwest exhibit less density than elsewhere<br>
@@ -135,11 +133,9 @@ _rate of urbanization_: 0.54% annual rate of change (2020-25 est.)<br>
 **Sex ratio**<br>
 _at birth_: 1.04 male(s)/female<br>
 _0-14 years_: 1.05 male(s)/female<br>
-_15-24 years_: 1.08 male(s)/female<br>
-_25-54 years_: 1.12 male(s)/female<br>
-_55-64 years_: 0.99 male(s)/female<br>
-_65 years and over_: 0.61 male(s)/female<br>
-_total population_: 1 male(s)/female (2022 est.)<br>
+_15-64 years_: 1.09 male(s)/female<br>
+_65 years and over_: 0.78 male(s)/female<br>
+_total population_: 1 male(s)/female (2023 est.)<br>
 
 **Mother's mean age at first birth**<br>
 29 years (2020 est.)<br>
@@ -148,17 +144,17 @@ _total population_: 1 male(s)/female (2022 est.)<br>
 7 deaths/100,000 live births (2017 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 1.52 deaths/1,000 live births<br>
-_male_: 1.63 deaths/1,000 live births<br>
-_female_: 1.41 deaths/1,000 live births (2022 est.)<br>
+_total_: 1.51 deaths/1,000 live births<br>
+_male_: 1.62 deaths/1,000 live births<br>
+_female_: 1.4 deaths/1,000 live births (2023 est.)<br>
 
 **Life expectancy at birth**<br>
-_total population_: 81.82 years<br>
-_male_: 78.96 years<br>
-_female_: 84.79 years (2022 est.)<br>
+_total population_: 82.02 years<br>
+_male_: 79.18 years<br>
+_female_: 84.98 years (2023 est.)<br>
 
 **Total fertility rate**<br>
-1.6 children born/woman (2022 est.)<br>
+1.6 children born/woman (2023 est.)<br>
 
 **Gross reproduction rate**<br>
 0.78 (2023 est.)<br>
@@ -706,7 +702,7 @@ Slovenia became a member of NATO in 2004; Hungary and Italy provide NATO's air p
 <p><em>Slovenia-Austria</em>: none identified</p> <p><em>Slovenia-Croatia</em>: since the breakup of Yugoslavia in the early 1990s, Croatia and Slovenia have each claimed sovereignty over Piran Bay and four villages, and Slovenia has objected to Croatia's claim of an exclusive economic zone in the Adriatic Sea; in 2009, however Croatia and Slovenia signed a binding international arbitration agreement to define their disputed land and maritime borders, which led Slovenia to lift its objections to Croatia joining the EU; in June 2017, the Permanent Court of Arbitration issued a ruling on the border, but Croatia had withdrawn from the proceedings in 2015 and refused to implement it; as a member state that forms part of the EU's external border, Slovenia has implemented the strict Schengen border rules to curb illegal migration and commerce through southeastern Europe while encouraging close cross-border ties with Croatia</p> <p><em>Slovenia-Hungary</em>: none identified</p> <p><em>Slovenia-Italy</em>: none identified</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 9,076 (Ukraine) (as of 7 February 2023)<br>
+_refugees (country of origin)_: 8,965 (Ukraine) (as of 27 February 2023)<br>
 _stateless persons_: 10 (2020)<br>
 <strong>note:  </strong>569,885 estimated refugee and migrant arrivals (January 2015-January 2023)<br>
 

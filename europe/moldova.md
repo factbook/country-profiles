@@ -79,7 +79,7 @@ landlocked; well endowed with various sedimentary rocks and minerals including s
 ## People and Society
 
 **Population**<br>
-3,287,326 (2022 est.)<br>
+3,250,532 (2023 est.)<br>
 
 **Nationality**<br>
 _noun_: Moldovan(s)<br>
@@ -96,11 +96,9 @@ _major-language sample(s)_: <br>Cartea informativa a lumii, sursa indispensabila
 Orthodox 90.1%, other Christian 2.6%, other 0.1%, agnostic &lt;0.1%, atheist 0.2%, unspecified 6.9% (2014 est.)<br>
 
 **Age structure**<br>
-_0-14 years_: 18.31% (male 317,243/female 298,673)<br>
-_15-24 years_: 11.27% (male 196,874/female 182,456)<br>
-_25-54 years_: 43.13% (male 738,103/female 712,892)<br>
-_55-64 years_: 13.26% (male 205,693/female 240,555)<br>
-_65 years and over_: 14.03% (male 186,949/female 285,058) (2020 est.)<br>
+_0-14 years_: 18.01% (male 301,432/female 284,034)<br>
+_15-64 years_: 66.37% (male 1,087,397/female 1,069,902)<br>
+_65 years and over_: 15.62% (2023 est.) (male 203,889/female 303,878)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 39.6<br>
@@ -114,16 +112,16 @@ _male_: 36.2 years<br>
 _female_: 39.5 years (2020 est.)<br>
 
 **Population growth rate**<br>
--1.12% (2022 est.)<br>
+-1.14% (2023 est.)<br>
 
 **Birth rate**<br>
-10.19 births/1,000 population (2022 est.)<br>
+9.94 births/1,000 population (2023 est.)<br>
 
 **Death rate**<br>
-12.47 deaths/1,000 population (2022 est.)<br>
+12.51 deaths/1,000 population (2023 est.)<br>
 
 **Net migration rate**<br>
--8.87 migrant(s)/1,000 population (2022 est.)<br>
+-8.8 migrant(s)/1,000 population (2023 est.)<br>
 
 **Population distribution**<br>
 pockets of agglomeration exist throughout the country, the largest being in the center of the country around the capital of Chisinau, followed by Tiraspol and Balti<br>
@@ -138,11 +136,9 @@ _rate of urbanization_: 0.09% annual rate of change (2020-25 est.)<br>
 **Sex ratio**<br>
 _at birth_: 1.06 male(s)/female<br>
 _0-14 years_: 1.06 male(s)/female<br>
-_15-24 years_: 1.08 male(s)/female<br>
-_25-54 years_: 1.04 male(s)/female<br>
-_55-64 years_: 0.86 male(s)/female<br>
-_65 years and over_: 0.46 male(s)/female<br>
-_total population_: 0.96 male(s)/female (2022 est.)<br>
+_15-64 years_: 1.02 male(s)/female<br>
+_65 years and over_: 0.67 male(s)/female<br>
+_total population_: 0.96 male(s)/female (2023 est.)<br>
 
 **Mother's mean age at first birth**<br>
 25.2 years (2019 est.)<br>
@@ -151,17 +147,17 @@ _total population_: 0.96 male(s)/female (2022 est.)<br>
 19 deaths/100,000 live births (2017 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 11.6 deaths/1,000 live births<br>
-_male_: 13.55 deaths/1,000 live births<br>
-_female_: 9.54 deaths/1,000 live births (2022 est.)<br>
+_total_: 11.38 deaths/1,000 live births<br>
+_male_: 13.29 deaths/1,000 live births<br>
+_female_: 9.35 deaths/1,000 live births (2023 est.)<br>
 
 **Life expectancy at birth**<br>
-_total population_: 72.44 years<br>
-_male_: 68.6 years<br>
-_female_: 76.52 years (2022 est.)<br>
+_total population_: 72.72 years<br>
+_male_: 68.9 years<br>
+_female_: 76.77 years (2023 est.)<br>
 
 **Total fertility rate**<br>
-1.59 children born/woman (2022 est.)<br>
+1.59 children born/woman (2023 est.)<br>
 
 **Gross reproduction rate**<br>
 0.77 (2023 est.)<br>
@@ -710,7 +706,7 @@ Moldova is constitutionally neutral, but has maintained a relationship with NATO
 <p><em>Moldova-Romania</em>: none identified</p> <p><em>Moldova-Ukraine</em>: Ukraine and Moldova signed an agreement officially delimiting their border in 1999, but the border has not been demarcated due to Moldova's difficulties with the break-away region of Transnistria; Moldova and Ukraine operate joint customs posts to monitor the transit of people and commodities through Moldova's break-away Transnistria region, which remains under the auspices of an Organization for Security and Cooperation in Europe-mandated peacekeeping mission comprised of Moldovan, Transnistrian, Russian, and Ukrainian troops</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 108,885 (Ukraine) (as of 12 February 2023)<br>
+_refugees (country of origin)_: 109,348 (Ukraine) (as of 26 February 2023)<br>
 _stateless persons_: 1,701 (2022)<br>
 
 **Illicit drugs**<br>

@@ -79,7 +79,7 @@ landlocked; controls one of the major land routes from Western Europe to Turkey 
 ## People and Society
 
 **Population**<br>
-6,739,471 (2022 est.)<br>
+6,693,375 (2023 est.)<br>
 <strong>note:</strong> does not include the population of Kosovo<br>
 
 **Nationality**<br>
@@ -99,11 +99,9 @@ Orthodox 84.6%, Catholic 5%, Muslim 3.1%, Protestant 1%, atheist 1.1%, other 0.8
 <strong>note:</strong> most ethnic Albanians boycotted the 2011 census<br>
 
 **Age structure**<br>
-_0-14 years_: 14.07% (male 508,242/female 478,247)<br>
-_15-24 years_: 11.04% (male 399,435/female 374,718)<br>
-_25-54 years_: 41.19% (male 1,459,413/female 1,429,176)<br>
-_55-64 years_: 13.7% (male 464,881/female 495,663)<br>
-_65 years and over_: 20% (male 585,705/female 816,685) (2020 est.)<br>
+_0-14 years_: 14.45% (male 498,534/female 468,853)<br>
+_15-64 years_: 65.81% (male 2,216,701/female 2,188,267)<br>
+_65 years and over_: 19.74% (2023 est.) (male 547,344/female 773,676)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 53.8<br>
@@ -118,16 +116,16 @@ _male_: 41.7 years<br>
 _female_: 45 years (2020 est.)<br>
 
 **Population growth rate**<br>
--0.75% (2022 est.)<br>
+-0.63% (2023 est.)<br>
 
 **Birth rate**<br>
-8.92 births/1,000 population (2022 est.)<br>
+8.87 births/1,000 population (2023 est.)<br>
 
 **Death rate**<br>
-16.39 deaths/1,000 population (2022 est.)<br>
+15.12 deaths/1,000 population (2023 est.)<br>
 
 **Net migration rate**<br>
-0 migrant(s)/1,000 population (2022 est.)<br>
+0 migrant(s)/1,000 population (2023 est.)<br>
 
 **Population distribution**<br>
 a fairly even distribution throughout most of the country, with urban areas attracting larger and denser populations<br>
@@ -143,11 +141,9 @@ _rate of urbanization_: 0.04% annual rate of change (2020-25 est.)<br>
 **Sex ratio**<br>
 _at birth_: 1.06 male(s)/female<br>
 _0-14 years_: 1.06 male(s)/female<br>
-_15-24 years_: 1.05 male(s)/female<br>
-_25-54 years_: 1.02 male(s)/female<br>
-_55-64 years_: 0.95 male(s)/female<br>
-_65 years and over_: 0.55 male(s)/female<br>
-_total population_: 0.95 male(s)/female (2022 est.)<br>
+_15-64 years_: 1.01 male(s)/female<br>
+_65 years and over_: 0.71 male(s)/female<br>
+_total population_: 0.95 male(s)/female (2023 est.)<br>
 
 **Mother's mean age at first birth**<br>
 28.2 years (2020 est.)<br>
@@ -157,17 +153,17 @@ _total population_: 0.95 male(s)/female (2022 est.)<br>
 12 deaths/100,000 live births (2017 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 4.81 deaths/1,000 live births<br>
-_male_: 5.43 deaths/1,000 live births<br>
-_female_: 4.16 deaths/1,000 live births (2022 est.)<br>
+_total_: 4.55 deaths/1,000 live births<br>
+_male_: 5.14 deaths/1,000 live births<br>
+_female_: 3.93 deaths/1,000 live births (2023 est.)<br>
 
 **Life expectancy at birth**<br>
-_total population_: 74.17 years<br>
-_male_: 71.5 years<br>
-_female_: 77 years (2022 est.)<br>
+_total population_: 75.08 years<br>
+_male_: 72.46 years<br>
+_female_: 77.85 years (2023 est.)<br>
 
 **Total fertility rate**<br>
-1.46 children born/woman (2022 est.)<br>
+1.46 children born/woman (2023 est.)<br>
 
 **Gross reproduction rate**<br>
 0.71 (2023 est.)<br>
@@ -734,7 +730,7 @@ the Serbian Armed Forces were established in June 2006; the Serbian military tra
 _refugees (country of origin)_: 17,334 (Croatia), 7,997 (Bosnia and Herzegovina) (mid-year 2022); 22,716 (Ukraine) (includes Ukrainian refugees in Kosovo; as of 22 November 2022)<br>
 _IDPs_: 196,995 (most are Kosovar Serbs, some are Roma, Ashkalis, and Egyptian (RAE); some RAE IDPs are unregistered) (2021)<br>
 _stateless persons_: 2,594 (includes stateless persons in Kosovo) (2022)<br>
-<strong>note:</strong> 942,986 estimated refugee and migrant arrivals (January 2015-February 2023); Serbia is predominantly a transit country and hosts an estimated 6,313 migrants and asylum seekers as of June 2022<br>
+<strong>note:</strong> 943,817 estimated refugee and migrant arrivals (January 2015-February 2023); Serbia is predominantly a transit country and hosts an estimated 7,271 migrants and asylum seekers as of November 2022<br>
 
 **Illicit drugs**<br>
 <p>drug trafficking groups are major players in the procurement and transportation of large quantities of cocaine destined for European markets</p><br>

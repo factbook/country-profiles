@@ -75,7 +75,7 @@ smallest Asian country; archipelago of 1,190 coral islands grouped into 26 atoll
 ## People and Society
 
 **Population**<br>
-390,164 (2022 est.)<br>
+389,568 (2023 est.)<br>
 
 **Nationality**<br>
 _noun_: Maldivian(s)<br>
@@ -91,11 +91,9 @@ Dhivehi (official, dialect of Sinhala, script derived from Arabic), English (spo
 Sunni Muslim (official)<br>
 
 **Age structure**<br>
-_0-14 years_: 22.13% (male 44,260/female 42,477)<br>
-_15-24 years_: 17.24% (male 37,826/female 29,745)<br>
-_25-54 years_: 48.91% (male 104,217/female 87,465)<br>
-_55-64 years_: 6.91% (male 12,942/female 14,123)<br>
-_65 years and over_: 4.81% (male 8,417/female 10,432) (2020 est.)<br>
+_0-14 years_: 22.25% (male 44,185/female 42,495)<br>
+_15-64 years_: 71.97% (male 146,154/female 134,233)<br>
+_65 years and over_: 5.78% (2023 est.) (male 9,866/female 12,635)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 35.6<br>
@@ -109,16 +107,16 @@ _male_: 29.2 years<br>
 _female_: 30 years (2020 est.)<br>
 
 **Population growth rate**<br>
--0.14% (2022 est.)<br>
+-0.17% (2023 est.)<br>
 
 **Birth rate**<br>
-15.54 births/1,000 population (2022 est.)<br>
+15.33 births/1,000 population (2023 est.)<br>
 
 **Death rate**<br>
-4.15 deaths/1,000 population (2022 est.)<br>
+4.2 deaths/1,000 population (2023 est.)<br>
 
 **Net migration rate**<br>
--12.78 migrant(s)/1,000 population (2022 est.)<br>
+-12.8 migrant(s)/1,000 population (2023 est.)<br>
 
 **Population distribution**<br>
 about a third of the population lives in the centrally located capital city of Male and almost a tenth in southern Addu City; the remainder of the populace is spread over the 200 or so populated islands of the archipelago<br>
@@ -133,11 +131,9 @@ _rate of urbanization_: 2.34% annual rate of change (2020-25 est.)<br>
 **Sex ratio**<br>
 _at birth_: 1.05 male(s)/female<br>
 _0-14 years_: 1.04 male(s)/female<br>
-_15-24 years_: 1.2 male(s)/female<br>
-_25-54 years_: 1.11 male(s)/female<br>
-_55-64 years_: 0.89 male(s)/female<br>
-_65 years and over_: 0.75 male(s)/female<br>
-_total population_: 1.08 male(s)/female (2022 est.)<br>
+_15-64 years_: 1.09 male(s)/female<br>
+_65 years and over_: 0.78 male(s)/female<br>
+_total population_: 1.06 male(s)/female (2023 est.)<br>
 
 **Mother's mean age at first birth**<br>
 23.2 years (2016/17 est.)<br>
@@ -147,17 +143,17 @@ _total population_: 1.08 male(s)/female (2022 est.)<br>
 53 deaths/100,000 live births (2017 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 25.7 deaths/1,000 live births<br>
-_male_: 28.76 deaths/1,000 live births<br>
-_female_: 22.49 deaths/1,000 live births (2022 est.)<br>
+_total_: 25.02 deaths/1,000 live births<br>
+_male_: 28 deaths/1,000 live births<br>
+_female_: 21.89 deaths/1,000 live births (2023 est.)<br>
 
 **Life expectancy at birth**<br>
-_total population_: 76.94 years<br>
-_male_: 74.57 years<br>
-_female_: 79.42 years (2022 est.)<br>
+_total population_: 77.19 years<br>
+_male_: 74.84 years<br>
+_female_: 79.66 years (2023 est.)<br>
 
 **Total fertility rate**<br>
-1.71 children born/woman (2022 est.)<br>
+1.7 children born/woman (2023 est.)<br>
 
 **Gross reproduction rate**<br>
 0.83 (2023 est.)<br>

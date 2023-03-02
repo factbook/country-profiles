@@ -73,7 +73,7 @@ landlocked; almost completely surrounded by South Africa<br>
 ## People and Society
 
 **Population**<br>
-1,121,761 (2022 est.)<br>
+1,130,043 (2023 est.)<br>
 
 **Nationality**<br>
 _noun_: liSwati (singular), emaSwati (plural); note - former term, Swazi(s), still used among English speakers<br>
@@ -92,11 +92,9 @@ Christian 90% (Zionist - a blend of Christianity and indigenous ancestral worshi
 <p>Eswatini, a small, predominantly rural, landlocked country surrounded by South Africa and Mozambique, suffers from severe poverty and the world’s highest HIV/AIDS prevalence rate. A weak and deteriorating economy, high unemployment, rapid population growth, and an uneven distribution of resources all combine to worsen already persistent poverty and food insecurity, especially in rural areas. Erratic weather (frequent droughts and intermittent heavy rains and flooding), overuse of small plots, the overgrazing of cattle, and outdated agricultural practices reduce crop yields and further degrade the environment, exacerbating Eswatini's poverty and subsistence problems. Eswatini's extremely high HIV/AIDS prevalence rate – nearly 28% of adults have the disease – compounds these issues. Agricultural production has declined due to HIV/AIDS, as the illness causes households to lose manpower and to sell livestock and other assets to pay for medicine and funerals.</p> <p>Swazis, mainly men from the country’s rural south, have been migrating to South Africa to work in coal, and later gold, mines since the late 19th century. Although the number of miners abroad has never been high in absolute terms because of Eswatini's small population, the outflow has had important social and economic repercussions. The peak of mining employment in South Africa occurred during the 1980s. Cross-border movement has accelerated since the 1990s, as increasing unemployment has pushed more Swazis to look for work in South Africa (creating a "brain drain" in the health and educational sectors); southern Swazi men have continued to pursue mining, although the industry has downsized. Women now make up an increasing share of migrants and dominate cross-border trading in handicrafts, using the proceeds to purchase goods back in Eswatini. Much of today’s migration, however, is not work-related but focuses on visits to family and friends, tourism, and shopping.</p><br>
 
 **Age structure**<br>
-_0-14 years_: 33.63% (male 185,640/female 185,808)<br>
-_15-24 years_: 18.71% (male 98,029/female 108,654)<br>
-_25-54 years_: 39.46% (male 202,536/female 233,275)<br>
-_55-64 years_: 4.36% (male 20,529/female 27,672)<br>
-_65 years and over_: 3.83% (male 15,833/female 26,503) (2020 est.)<br>
+_0-14 years_: 32.16% (male 181,886/female 181,491)<br>
+_15-64 years_: 63.88% (male 336,243/female 385,599)<br>
+_65 years and over_: 3.97% (2023 est.) (male 16,654/female 28,170)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 64<br>
@@ -110,16 +108,16 @@ _male_: 22.5 years<br>
 _female_: 24.7 years (2020 est.)<br>
 
 **Population growth rate**<br>
-0.75% (2022 est.)<br>
+0.72% (2023 est.)<br>
 
 **Birth rate**<br>
-23.35 births/1,000 population (2022 est.)<br>
+22.83 births/1,000 population (2023 est.)<br>
 
 **Death rate**<br>
-9.71 deaths/1,000 population (2022 est.)<br>
+9.53 deaths/1,000 population (2023 est.)<br>
 
 **Net migration rate**<br>
--6.16 migrant(s)/1,000 population (2022 est.)<br>
+-6.07 migrant(s)/1,000 population (2023 est.)<br>
 
 **Population distribution**<br>
 because of its mountainous terrain, the population distribution is uneven throughout the country, concentrating primarily in valleys and plains as shown in this population distribution map<br>
@@ -134,27 +132,25 @@ _rate of urbanization_: 2.42% annual rate of change (2020-25 est.)<br>
 **Sex ratio**<br>
 _at birth_: 1.03 male(s)/female<br>
 _0-14 years_: 1 male(s)/female<br>
-_15-24 years_: 0.91 male(s)/female<br>
-_25-54 years_: 0.87 male(s)/female<br>
-_55-64 years_: 0.73 male(s)/female<br>
-_65 years and over_: 0.48 male(s)/female<br>
-_total population_: 0.9 male(s)/female (2022 est.)<br>
+_15-64 years_: 0.87 male(s)/female<br>
+_65 years and over_: 0.59 male(s)/female<br>
+_total population_: 0.9 male(s)/female (2023 est.)<br>
 
 **Maternal mortality ratio**<br>
 437 deaths/100,000 live births (2017 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 39.63 deaths/1,000 live births<br>
-_male_: 43.89 deaths/1,000 live births<br>
-_female_: 35.25 deaths/1,000 live births (2022 est.)<br>
+_total_: 38.12 deaths/1,000 live births<br>
+_male_: 42.27 deaths/1,000 live births<br>
+_female_: 33.85 deaths/1,000 live births (2023 est.)<br>
 
 **Life expectancy at birth**<br>
-_total population_: 59.69 years<br>
-_male_: 57.62 years<br>
-_female_: 61.81 years (2022 est.)<br>
+_total population_: 60.22 years<br>
+_male_: 58.17 years<br>
+_female_: 62.33 years (2023 est.)<br>
 
 **Total fertility rate**<br>
-2.44 children born/woman (2022 est.)<br>
+2.41 children born/woman (2023 est.)<br>
 
 **Gross reproduction rate**<br>
 1.19 (2023 est.)<br>

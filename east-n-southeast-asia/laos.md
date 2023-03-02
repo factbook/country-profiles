@@ -79,7 +79,7 @@ landlocked; most of the country is mountainous and thickly forested; the Mekong 
 ## People and Society
 
 **Population**<br>
-7,749,595 (2022 est.)<br>
+7,852,377 (2023 est.)<br>
 
 **Nationality**<br>
 _noun_: Lao(s) or Laotian(s)<br>
@@ -100,11 +100,9 @@ Buddhist 64.7%, Christian 1.7%, none 31.4%, other/not stated 2.1% (2015 est.)<br
 <p>Laos is a predominantly rural country with a youthful population – almost 55% of the population is under the age of 25.  Its progress on health and development issues has been uneven geographically, among ethnic groups, and socioeconomically.  Laos has made headway in poverty reduction, with the poverty rate almost halving from 46% in 1992/93 to 22% in 2012/13.  Nevertheless, pronounced rural-urban disparities persist, and income inequality is rising.  Poverty most affects populations in rural and highland areas, particularly ethnic minority groups. </p> <p>The total fertility rate (TFR) has decreased markedly from around 6 births per woman on average in 1990 to approximately 2.8 in 2016, but it is still one of the highest in Southeast Asia.  TFR is higher in rural and remote areas, among ethnic minority groups, the less-educated, and the poor; it is lower in urban areas and among the more educated and those with higher incomes.  Although Laos’ mortality rates have improved substantially over the last few decades, the maternal mortality rate and childhood malnutrition remain at high levels.  As fertility and mortality rates continue to decline, the proportion of Laos’ working-age population will increase, and its share of dependents will shrink.  The age structure shift will provide Laos with the potential to realize a demographic dividend during the next few decades, if it can improve educational access and quality and gainfully employ its growing working-age population in productive sectors.  Currently, Laos primary school enrollment is nearly universal, but the drop-out rate remains problematic.  Secondary school enrollment has also increased but remains low, especially for girls. </p> <p>Laos has historically been a country of emigration and internal displacement due to conflict and a weak economy. The Laos civil war (1953 – 1975) mainly caused internal displacement (numbering in the hundreds of thousands).  Following the end of the Vietnam War in 1975, indigenous people in remote, war-struck areas were resettled and more than 300,000 people fled to Thailand to escape the communist regime that took power.  The majority of those who sought refuge in Thailand ultimately were resettled in the US (mainly Hmong who fought with US forces), and lesser numbers went to France, Canada, and Australia. </p> <p>The Laos Government carried out resettlement programs between the mid-1980s and mid-1990s to relocate ethnic minority groups from the rural northern highlands to development areas in the lowlands ostensibly to alleviate poverty, make basic services more accessible, eliminate slash-and-burn agriculture and opium production, integrate ethnic minorities, and control rebel groups (including Hmong insurgents).  For many, however, resettlement has exacerbated poverty, led to the loss of livelihoods, and increased food insecurity and mortality rates.  As the resettlement programs started to wane in the second half of the 1990s, migration from the northern highlands to urban centers – chiefly the capital Vientiane – to pursue better jobs in the growing manufacturing and service sectors became the main type of relocation.  Migration of villagers from the south seeking work in neighboring Thailand also increased.  Thailand is the main international migration destination for Laotians because of the greater availability of jobs and higher pay than at home; nearly a million Laotian migrants were estimated to live in Thailand as of 2015.</p><br>
 
 **Age structure**<br>
-_0-14 years_: 31.25% (male 1,177,297/female 1,149,727)<br>
-_15-24 years_: 20.6% (male 763,757/female 770,497)<br>
-_25-54 years_: 38.29% (male 1,407,823/female 1,443,774)<br>
-_55-64 years_: 5.73% (male 206,977/female 219,833)<br>
-_65 years and over_: 4.13% (male 139,665/female 168,046) (2020 est.)<br>
+_0-14 years_: 30.63% (male 1,218,731/female 1,186,156)<br>
+_15-64 years_: 64.73% (male 2,527,643/female 2,555,029)<br>
+_65 years and over_: 4.65% (2023 est.) (male 169,142/female 195,676)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 54.7<br>
@@ -118,16 +116,16 @@ _male_: 23.7 years<br>
 _female_: 24.4 years (2020 est.)<br>
 
 **Population growth rate**<br>
-1.34% (2022 est.)<br>
+1.3% (2023 est.)<br>
 
 **Birth rate**<br>
-20.9 births/1,000 population (2022 est.)<br>
+20.35 births/1,000 population (2023 est.)<br>
 
 **Death rate**<br>
-6.37 deaths/1,000 population (2022 est.)<br>
+6.26 deaths/1,000 population (2023 est.)<br>
 
 **Net migration rate**<br>
--1.17 migrant(s)/1,000 population (2022 est.)<br>
+-1.09 migrant(s)/1,000 population (2023 est.)<br>
 
 **Population distribution**<br>
 most densely populated area is in and around the capital city of Vientiane; large communities are primarily found along the Mekong River along the southwestern border; overall density is considered one of the lowest in Southeast Asia<br>
@@ -142,27 +140,25 @@ _rate of urbanization_: 2.99% annual rate of change (2020-25 est.)<br>
 **Sex ratio**<br>
 _at birth_: 1.04 male(s)/female<br>
 _0-14 years_: 1.03 male(s)/female<br>
-_15-24 years_: 1 male(s)/female<br>
-_25-54 years_: 0.99 male(s)/female<br>
-_55-64 years_: 0.94 male(s)/female<br>
-_65 years and over_: 0.71 male(s)/female<br>
-_total population_: 0.99 male(s)/female (2022 est.)<br>
+_15-64 years_: 0.99 male(s)/female<br>
+_65 years and over_: 0.86 male(s)/female<br>
+_total population_: 0.99 male(s)/female (2023 est.)<br>
 
 **Maternal mortality ratio**<br>
 185 deaths/100,000 live births (2017 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 37.78 deaths/1,000 live births<br>
-_male_: 41.76 deaths/1,000 live births<br>
-_female_: 33.63 deaths/1,000 live births (2022 est.)<br>
+_total_: 36.56 deaths/1,000 live births<br>
+_male_: 40.38 deaths/1,000 live births<br>
+_female_: 32.59 deaths/1,000 live births (2023 est.)<br>
 
 **Life expectancy at birth**<br>
-_total population_: 68.15 years<br>
-_male_: 66.49 years<br>
-_female_: 69.88 years (2022 est.)<br>
+_total population_: 68.59 years<br>
+_male_: 66.95 years<br>
+_female_: 70.31 years (2023 est.)<br>
 
 **Total fertility rate**<br>
-2.35 children born/woman (2022 est.)<br>
+2.3 children born/woman (2023 est.)<br>
 
 **Gross reproduction rate**<br>
 1.13 (2023 est.)<br>

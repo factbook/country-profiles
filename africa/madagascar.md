@@ -75,7 +75,7 @@ world's fourth-largest island; strategic location along Mozambique Channel; desp
 ## People and Society
 
 **Population**<br>
-28,172,462 (2022 est.)<br>
+28,812,195 (2023 est.)<br>
 
 **Nationality**<br>
 _noun_: Malagasy (singular and plural)<br>
@@ -95,11 +95,9 @@ Church of Jesus Christ in Madagascar/Malagasy Lutheran Church/Anglican Church 34
 <p>Madagascar’s youthful population – nearly 60% are under the age of 25 as of 2020 – and moderately high total fertility rate of more than 3.6 children per woman ensures that the Malagasy population will continue its rapid growth trajectory for the foreseeable future. The population is predominantly rural and poor; chronic malnutrition is prevalent, and large families are the norm. Many young Malagasy girls are withdrawn from school, marry early (often pressured to do so by their parents), and soon begin having children. Early childbearing, coupled with Madagascar’s widespread poverty and lack of access to skilled health care providers during delivery, increases the risk of death and serious health problems for young mothers and their babies.</p> <p>Child marriage perpetuates gender inequality and is prevalent among the poor, the uneducated, and rural households – as of 2018, 40% of Malagasy women aged 20 to 24 were married. Although the legal age for marriage is 18, parental consent is often given for earlier marriages or the law is flouted, especially in rural areas that make up approximately 60% of the country. Forms of arranged marriage whereby young girls are married to older men in exchange for oxen or money are traditional. If a union does not work out, a girl can be placed in another marriage, but the dowry paid to her family diminishes with each unsuccessful marriage.</p> <p>Madagascar’s population consists of 18 main ethnic groups, all of whom speak the same Malagasy language. Most Malagasy are multi-ethnic, however, reflecting the island’s diversity of settlers and historical contacts (see Background). Madagascar’s legacy of hierarchical societies practicing domestic slavery (most notably the Merina Kingdom of the 16th to the 19th century) is evident today in persistent class tension, with some ethnic groups maintaining a caste system. Slave descendants are vulnerable to unequal access to education and jobs, despite Madagascar’s constitutional guarantee of free compulsory primary education and its being party to several international conventions on human rights. Historical distinctions also remain between central highlanders and coastal people.</p><br>
 
 **Age structure**<br>
-_0-14 years_: 38.86% (male 5,278,838/female 5,196,036)<br>
-_15-24 years_: 20.06% (male 2,717,399/female 2,689,874)<br>
-_25-54 years_: 33.02% (male 4,443,147/female 4,456,691)<br>
-_55-64 years_: 4.6% (male 611,364/female 627,315)<br>
-_65 years and over_: 3.47% (male 425,122/female 509,951) (2020 est.)<br>
+_0-14 years_: 37.47% (male 5,451,018/female 5,343,865)<br>
+_15-64 years_: 58.72% (male 8,481,873/female 8,437,644)<br>
+_65 years and over_: 3.81% (2023 est.) (male 506,495/female 591,300)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 74.5<br>
@@ -113,16 +111,16 @@ _male_: 20.1 years<br>
 _female_: 20.5 years (2020 est.)<br>
 
 **Population growth rate**<br>
-2.27% (2022 est.)<br>
+2.22% (2023 est.)<br>
 
 **Birth rate**<br>
-28.68 births/1,000 population (2022 est.)<br>
+28.14 births/1,000 population (2023 est.)<br>
 
 **Death rate**<br>
-6 deaths/1,000 population (2022 est.)<br>
+5.92 deaths/1,000 population (2023 est.)<br>
 
 **Net migration rate**<br>
-0 migrant(s)/1,000 population (2022 est.)<br>
+0 migrant(s)/1,000 population (2023 est.)<br>
 
 **Population distribution**<br>
 most of population lives on the eastern half of the island; significant clustering is found in the central highlands and eastern coastline as shown in this population distribution map<br>
@@ -137,11 +135,9 @@ _rate of urbanization_: 4.26% annual rate of change (2020-25 est.)<br>
 **Sex ratio**<br>
 _at birth_: 1.03 male(s)/female<br>
 _0-14 years_: 1.02 male(s)/female<br>
-_15-24 years_: 1.02 male(s)/female<br>
-_25-54 years_: 1 male(s)/female<br>
-_55-64 years_: 0.98 male(s)/female<br>
-_65 years and over_: 0.78 male(s)/female<br>
-_total population_: 1 male(s)/female (2022 est.)<br>
+_15-64 years_: 1.01 male(s)/female<br>
+_65 years and over_: 0.86 male(s)/female<br>
+_total population_: 1 male(s)/female (2023 est.)<br>
 
 **Mother's mean age at first birth**<br>
 19.5 years (2021 est.)<br>
@@ -151,17 +147,17 @@ _total population_: 1 male(s)/female (2022 est.)<br>
 335 deaths/100,000 live births (2017 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 39.04 deaths/1,000 live births<br>
-_male_: 42.33 deaths/1,000 live births<br>
-_female_: 35.65 deaths/1,000 live births (2022 est.)<br>
+_total_: 38.27 deaths/1,000 live births<br>
+_male_: 41.61 deaths/1,000 live births<br>
+_female_: 34.83 deaths/1,000 live births (2023 est.)<br>
 
 **Life expectancy at birth**<br>
-_total population_: 68.17 years<br>
-_male_: 66.8 years<br>
-_female_: 69.57 years (2022 est.)<br>
+_total population_: 68.47 years<br>
+_male_: 67.06 years<br>
+_female_: 69.92 years (2023 est.)<br>
 
 **Total fertility rate**<br>
-3.62 children born/woman (2022 est.)<br>
+3.55 children born/woman (2023 est.)<br>
 
 **Gross reproduction rate**<br>
 1.75 (2023 est.)<br>

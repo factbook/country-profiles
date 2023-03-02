@@ -77,7 +77,7 @@ sandstorms may occur during spring and summer; droughts; periodic earthquakes<br
 ## People and Society
 
 **Population**<br>
-8,914,885 (2022 est.) (includes populations of the Golan Heights or Golan Sub-District and also East Jerusalem, which was annexed by Israel after 1967)<br>
+9,043,387 (2023 est.) (includes populations of the Golan Heights or Golan Sub-District and also East Jerusalem, which was annexed by Israel after 1967)<br>
 <strong>note:</strong> approximately 227,100 Israeli settlers live in East Jerusalem (2019); following the March 2019 US recognition of the Golan Heights as being part of Israel, <em>The World Factbook</em> no longer includes Israeli settler population of the Golan Heights (estimated at 23,400 in 2019) in its overall Israeli settler total<br>
 
 **Nationality**<br>
@@ -95,11 +95,9 @@ _major-language sample(s)_: <br>ספר עובדות העולם, המקור הח�
 Jewish 74%, Muslim 18%, Christian 1.9%, Druze 1.6%, other 4.5% (2020 est.)<br>
 
 **Age structure**<br>
-_0-14 years_: 26.76% (male 1,187,819/female 1,133,365)<br>
-_15-24 years_: 15.67% (male 694,142/female 665,721)<br>
-_25-54 years_: 37.2% (male 1,648,262/female 1,579,399)<br>
-_55-64 years_: 8.4% (male 363,262/female 365,709)<br>
-_65 years and over_: 11.96% (male 467,980/female 569,816) (2020 est.)<br>
+_0-14 years_: 25.96% (male 1,200,721/female 1,146,556)<br>
+_15-64 years_: 61.66% (male 2,839,124/female 2,737,054)<br>
+_65 years and over_: 12.38% (2023 est.) (male 506,536/female 613,396)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 66.9<br>
@@ -113,16 +111,16 @@ _male_: 29.8 years<br>
 _female_: 31 years (2020 est.)<br>
 
 **Population growth rate**<br>
-1.44% (2022 est.)<br>
+1.43% (2023 est.)<br>
 
 **Birth rate**<br>
-17.41 births/1,000 population (2022 est.)<br>
+17.3 births/1,000 population (2023 est.)<br>
 
 **Death rate**<br>
-5.05 deaths/1,000 population (2022 est.)<br>
+5.05 deaths/1,000 population (2023 est.)<br>
 
 **Net migration rate**<br>
-2.02 migrant(s)/1,000 population (2022 est.)<br>
+1.99 migrant(s)/1,000 population (2023 est.)<br>
 
 **Population distribution**<br>
 population concentrated in and around Tel-Aviv, as well as around the Sea of Galilee; the south remains sparsely populated with the exception of the shore of the Gulf of Aqaba<br>
@@ -137,11 +135,9 @@ _rate of urbanization_: 1.51% annual rate of change (2020-25 est.)<br>
 **Sex ratio**<br>
 _at birth_: 1.05 male(s)/female<br>
 _0-14 years_: 1.05 male(s)/female<br>
-_15-24 years_: 1.04 male(s)/female<br>
-_25-54 years_: 1.04 male(s)/female<br>
-_55-64 years_: 1.01 male(s)/female<br>
-_65 years and over_: 0.7 male(s)/female<br>
-_total population_: 1.01 male(s)/female (2022 est.)<br>
+_15-64 years_: 1.04 male(s)/female<br>
+_65 years and over_: 0.83 male(s)/female<br>
+_total population_: 1.01 male(s)/female (2023 est.)<br>
 
 **Mother's mean age at first birth**<br>
 27.7 years (2019 est.)<br>
@@ -150,17 +146,17 @@ _total population_: 1.01 male(s)/female (2022 est.)<br>
 3 deaths/100,000 live births (2017 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 3.56 deaths/1,000 live births<br>
-_male_: 3.82 deaths/1,000 live births<br>
-_female_: 3.28 deaths/1,000 live births (2022 est.)<br>
+_total_: 3.49 deaths/1,000 live births<br>
+_male_: 3.75 deaths/1,000 live births<br>
+_female_: 3.22 deaths/1,000 live births (2023 est.)<br>
 
 **Life expectancy at birth**<br>
-_total population_: 83.35 years<br>
-_male_: 81.45 years<br>
-_female_: 85.34 years (2022 est.)<br>
+_total population_: 83.54 years<br>
+_male_: 81.65 years<br>
+_female_: 85.53 years (2023 est.)<br>
 
 **Total fertility rate**<br>
-2.56 children born/woman (2022 est.)<br>
+2.54 children born/woman (2023 est.)<br>
 
 **Gross reproduction rate**<br>
 1.24 (2023 est.)<br>
@@ -711,7 +707,7 @@ the majority of the IDF's inventory is comprised of weapons that are domesticall
 <strong>note 1:</strong> women have served in the Israeli military since its establishment in 1948; as of 2021, women made up about 35% of IDF personnel; more than 90% of military specialties, including combat specialties, were open to women and more than 3,000 women were serving in combat units; the IDF's first mixed-gender infantry unit, the Caracal Battalion, was established in 2004<br><br><strong>note 2:</strong> as of 2021, conscripts comprised about 70% of the IDF ground forces<br><br><strong>note 3:</strong> the IDF recruits non-Israeli Jews and non-Jews with a minimum of one Jewish grandparent, as well as converts to Judaism; each year the IDF brings in about 800-1,000 foreign recruits from around the world<br>
 
 **Military - note**<br>
-the United Nations Disengagement Observer Force (UNDOF) has operated in the Golan between Israel and Syria since 1974 to monitor the ceasefire following the 1973 Arab-Israeli War and supervise the areas of separation between the two countries; as of 2022, UNDOF consisted of about 1,000 military personnel<br><br>since the outbreak of the Syrian civil war in 2011, Israel has routinely carried out air strikes in Syria targeting Iranian, Iranian-backed militia and Hizballah forces, and some Syrian Government military positions; over the same period, the IDF has carried out numerous strikes against Hizballah in Lebanon in response to attacks on Israeli territory; Israel fought a month-long war in Lebanon with Hizballah in 2006 (see Appendix T for details on Hizballah)<br><br>as of 2022, the IDF also conducted frequent operations against the HAMAS and Palestine Islamic Jihad (PIJ) terrorist groups operating out of the Gaza Strip; since seizing control of the Gaza Strip in 2007, HAMAS has claimed responsibility for numerous rocket attacks into Israel and organized protests at the border between Gaza and Israel, resulting in violent clashes, casualties, and reprisal military actions by the IDF; HAMAS and Israel fought an 11-day conflict in May of 2021, which ended in an informal truce; sporadic clashes continued into 2022, including incendiary balloon attacks from Palestinian territory and retaliatory IDF strikes; PIJ has conducted numerous attacks on Israel since the 1980s, including a barrage of mortar and rocket strikes in February 2020 (see Appendix-T for more details on HAMAS and Palestine Islamic Jihad)<br><br>Israel has Major Non-NATO Ally (MNNA) status with the US; MNNA is a designation under US law that provides foreign partners with certain benefits in the areas of defense trade and security cooperation; while MNNA status provides military and economic privileges, it does not entail any security commitments (2022)<br>
+the United Nations Disengagement Observer Force (UNDOF) has operated in the Golan between Israel and Syria since 1974 to monitor the ceasefire following the 1973 Arab-Israeli War and supervise the areas of separation between the two countries; as of 2022, UNDOF consisted of about 1,000 military personnel<br><br>since the outbreak of the Syrian civil war in 2011, Israel has routinely carried out air strikes in Syria targeting Iranian, Iranian-backed militia and Hizballah forces, and some Syrian Government military positions; over the same period, the IDF has carried out numerous strikes against Hizballah in Lebanon in response to attacks on Israeli territory; Israel fought a month-long war in Lebanon with Hizballah in 2006 (see Appendix T for details on Hizballah)<br><br>the IDF also conducts frequent operations against the HAMAS and Palestine Islamic Jihad (PIJ) terrorist groups operating out of the Gaza Strip; since seizing control of the Gaza Strip in 2007, HAMAS has claimed responsibility for numerous rocket attacks into Israel and organized protests at the border between Gaza and Israel, resulting in violent clashes, casualties, and reprisal military actions by the IDF; HAMAS and Israel fought an 11-day conflict in May of 2021, which ended in an informal truce; sporadic clashes continued into 2022, including incendiary balloon attacks from Palestinian territory and retaliatory IDF strikes; PIJ has conducted numerous attacks on Israel since the 1980s, including a barrage of mortar and rocket strikes in February 2020 (see Appendix-T for more details on HAMAS and Palestine Islamic Jihad)<br><br>Israel has Major Non-NATO Ally (MNNA) status with the US; MNNA is a designation under US law that provides foreign partners with certain benefits in the areas of defense trade and security cooperation; while MNNA status provides military and economic privileges, it does not entail any security commitments (2022)<br>
 
 ## Terrorism
 

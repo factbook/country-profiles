@@ -73,7 +73,7 @@ the northern Cook Islands are seven low-lying, sparsely populated, coral atolls;
 ## People and Society
 
 **Population**<br>
-8,128 (2022 est.)<br>
+7,939 (2023 est.)<br>
 <strong>note:</strong> the Cook Islands' Ministry of Finance &amp; Economic Management estimated the resident population to have been 11,700 in September 2016<br>
 
 **Nationality**<br>
@@ -91,11 +91,9 @@ English (official) 86.4%, Cook Islands Maori (Rarotongan) (official) 76.2%, othe
 Protestant 62.8% (Cook Islands Christian Church 49.1%, Seventh Day Adventist 7.9%, Assemblies of God 3.7%, Apostolic Church 2.1%), Roman Catholic 17%, Church of Jesus Christ 4.4%, other 8%, none 5.6%, no response 2.2% (2011 est.)<br>
 
 **Age structure**<br>
-_0-14 years_: 18.69% (male 797/female 722)<br>
-_15-24 years_: 13.9% (male 606/female 524)<br>
-_25-54 years_: 37.66% (male 1,595/female 1,634)<br>
-_55-64 years_: 15.69% (male 711/female 564)<br>
-_65 years and over_: 14.74% (male 584/female 614) (2022 est.)<br>
+_0-14 years_: 18.43% (male 766/female 697)<br>
+_15-64 years_: 66.23% (male 2,713/female 2,545)<br>
+_65 years and over_: 15.34% (2023 est.) (male 596/female 622)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 53.8<br>
@@ -109,16 +107,16 @@ _male_: 37.8 years<br>
 _female_: 38.7 years (2020 est.)<br>
 
 **Population growth rate**<br>
--2.39% (2022 est.)<br>
+-2.31% (2023 est.)<br>
 
 **Birth rate**<br>
-12.55 births/1,000 population (2022 est.)<br>
+12.34 births/1,000 population (2023 est.)<br>
 
 **Death rate**<br>
-9.1 deaths/1,000 population (2022 est.)<br>
+9.2 deaths/1,000 population (2023 est.)<br>
 
 **Net migration rate**<br>
--27.31 migrant(s)/1,000 population (2022 est.)<br>
+-26.2 migrant(s)/1,000 population (2023 est.)<br>
 
 **Population distribution**<br>
 most of the population is found on the island of Rarotonga<br>
@@ -130,27 +128,25 @@ _rate of urbanization_: 0.52% annual rate of change (2020-25 est.)<br>
 **Sex ratio**<br>
 _at birth_: 1.04 male(s)/female<br>
 _0-14 years_: 1.1 male(s)/female<br>
-_15-24 years_: 1.16 male(s)/female<br>
-_25-54 years_: 0.96 male(s)/female<br>
-_55-64 years_: 1.26 male(s)/female<br>
-_65 years and over_: 0.73 male(s)/female<br>
-_total population_: 1.06 male(s)/female (2022 est.)<br>
+_15-64 years_: 1.07 male(s)/female<br>
+_65 years and over_: 0.96 male(s)/female<br>
+_total population_: 1.05 male(s)/female (2023 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 15.93 deaths/1,000 live births<br>
-_male_: 20.02 deaths/1,000 live births<br>
-_female_: 11.62 deaths/1,000 live births (2022 est.)<br>
+_total_: 15.53 deaths/1,000 live births<br>
+_male_: 19.52 deaths/1,000 live births<br>
+_female_: 11.34 deaths/1,000 live births (2023 est.)<br>
 
 **Life expectancy at birth**<br>
-_total population_: 77.14 years<br>
-_male_: 74.32 years<br>
-_female_: 80.11 years (2022 est.)<br>
+_total population_: 77.39 years<br>
+_male_: 74.58 years<br>
+_female_: 80.34 years (2023 est.)<br>
 
 **Total fertility rate**<br>
-2.07 children born/woman (2022 est.)<br>
+2.04 children born/woman (2023 est.)<br>
 
 **Gross reproduction rate**<br>
-1.01 (2023 est.)<br>
+1 (2023 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 NA<br>

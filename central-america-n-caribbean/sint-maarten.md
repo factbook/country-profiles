@@ -63,7 +63,7 @@ most populous areas are Lower Prince's Quarter (north of Philipsburg), followed 
 ## People and Society
 
 **Population**<br>
-45,126 (2022 est.)<br>
+45,677 (2023 est.)<br>
 
 **Ethnic groups**<br>
 Saint Maarten 29.9%, Dominican Republic 10.2%, Haiti 7.8%, Jamaica 6.6%, Saint Martin 5.9%, Guyana 5%, Dominica 4.4%, Curacao 4.1%, Aruba 3.4%, Saint Kitts and Nevis 2.8%, India 2.6%, Netherlands 2.2%, US 1.6%, Suriname 1.4%, Saint Lucia 1.3%, Anguilla 1.1%, other 8%, unspecified 1.7% (2011 est.)<br>
@@ -76,11 +76,9 @@ English (official) 67.5%, Spanish 12.9%, Creole 8.2%, Dutch (official) 4.2%, Pap
 Protestant 41.9% (Pentecostal 14.7%, Methodist 10.0%, Seventh Day Adventist 6.6%, Baptist 4.7%, Anglican 3.1%, other Protestant 2.8%), Roman Catholic 33.1%, Hindu 5.2%, Christian 4.1%, Jehovah's Witness 1.7%, Evangelical 1.4%, Muslim/Jewish 1.1%, other 1.3% (includes Buddhist, Sikh, Rastafarian), none 7.9%, no response 2.4% (2011 est.)<br>
 
 **Age structure**<br>
-_0-14 years_: 18.64% (male 4,242/female 3,932)<br>
-_15-24 years_: 13.26% (male 2,967/female 2,849)<br>
-_25-54 years_: 39.08% (male 8,417/female 8,717)<br>
-_55-64 years_: 17.47% (male 3,638/female 4,020)<br>
-_65 years and over_: 11.55% (male 2,385/female 2,680) (2020 est.)<br>
+_0-14 years_: 18.52% (male 4,379/female 4,082)<br>
+_15-64 years_: 67.18% (male 15,157/female 15,530)<br>
+_65 years and over_: 14.29% (2023 est.) (male 3,019/female 3,510)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 27.2<br>
@@ -94,16 +92,16 @@ _male_: 39.6 years<br>
 _female_: 42.7 years (2020 est.)<br>
 
 **Population growth rate**<br>
-1.23% (2022 est.)<br>
+1.19% (2023 est.)<br>
 
 **Birth rate**<br>
-12.56 births/1,000 population (2022 est.)<br>
+12.41 births/1,000 population (2023 est.)<br>
 
 **Death rate**<br>
-6.07 deaths/1,000 population (2022 est.)<br>
+6.24 deaths/1,000 population (2023 est.)<br>
 
 **Net migration rate**<br>
-5.83 migrant(s)/1,000 population (2022 est.)<br>
+5.76 migrant(s)/1,000 population (2023 est.)<br>
 
 **Population distribution**<br>
 most populous areas are Lower Prince's Quarter (north of Philipsburg), followed closely by Cul de Sac<br>
@@ -118,24 +116,22 @@ _rate of urbanization_: 1.16% annual rate of change (2020-25 est. est.)<br>
 **Sex ratio**<br>
 _at birth_: 1.05 male(s)/female<br>
 _0-14 years_: 1.07 male(s)/female<br>
-_15-24 years_: 1.08 male(s)/female<br>
-_25-54 years_: 0.98 male(s)/female<br>
-_55-64 years_: 0.92 male(s)/female<br>
-_65 years and over_: 0.69 male(s)/female<br>
-_total population_: 0.98 male(s)/female (2022 est.)<br>
+_15-64 years_: 0.98 male(s)/female<br>
+_65 years and over_: 0.86 male(s)/female<br>
+_total population_: 0.98 male(s)/female (2023 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 7.98 deaths/1,000 live births<br>
-_male_: 8.8 deaths/1,000 live births<br>
-_female_: 7.12 deaths/1,000 live births (2022 est.)<br>
+_total_: 7.81 deaths/1,000 live births<br>
+_male_: 8.61 deaths/1,000 live births<br>
+_female_: 6.97 deaths/1,000 live births (2023 est.)<br>
 
 **Life expectancy at birth**<br>
-_total population_: 79.26 years<br>
-_male_: 76.91 years<br>
-_female_: 81.73 years (2022 est.)<br>
+_total population_: 79.5 years<br>
+_male_: 77.16 years<br>
+_female_: 81.95 years (2023 est.)<br>
 
 **Total fertility rate**<br>
-1.99 children born/woman (2022 est.)<br>
+1.98 children born/woman (2023 est.)<br>
 
 **Gross reproduction rate**<br>
 0.97 (2023 est.)<br>

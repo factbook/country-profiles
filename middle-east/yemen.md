@@ -77,7 +77,7 @@ strategic location on Bab el Mandeb, the strait linking the Red Sea and the Gulf
 ## People and Society
 
 **Population**<br>
-30,984,689 (2022 est.)<br>
+31,565,602 (2023 est.)<br>
 
 **Nationality**<br>
 _noun_: Yemeni(s)<br>
@@ -94,11 +94,9 @@ _major-language sample(s)_: <br>كتاب حقائق العالم، المصدر 
 Muslim 99.1% (official; virtually all are citizens, an estimated 65% are Sunni and 35% are Shia), other 0.9% (includes Jewish, Baha'i, Hindu, and Christian; many are refugees or temporary foreign residents) (2020 est.)<br>
 
 **Age structure**<br>
-_0-14 years_: 39.16% (male 5,711,709 /female 5,513,526)<br>
-_15-24 years_: 21.26% (male 3,089,817 /female 3,005,693)<br>
-_25-54 years_: 32.78% (male 4,805,059 /female 4,591,811)<br>
-_55-64 years_: 4% (male 523,769 /female 623,100)<br>
-_65 years and over_: 2.8% (male 366,891 /female 435,855) (2018 est.)<br>
+_0-14 years_: 35.14% (male 5,641,548/female 5,449,491)<br>
+_15-64 years_: 61.52% (male 9,829,725/female 9,590,956)<br>
+_65 years and over_: 3.34% (2023 est.) (male 464,548/female 589,334)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 71.7<br>
@@ -112,16 +110,16 @@ _male_: 19.6 years<br>
 _female_: 19.9 years<br>
 
 **Population growth rate**<br>
-1.88% (2022 est.)<br>
+1.83% (2023 est.)<br>
 
 **Birth rate**<br>
-24.64 births/1,000 population (2022 est.)<br>
+24.05 births/1,000 population (2023 est.)<br>
 
 **Death rate**<br>
-5.62 deaths/1,000 population (2022 est.)<br>
+5.54 deaths/1,000 population (2023 est.)<br>
 
 **Net migration rate**<br>
--0.19 migrant(s)/1,000 population (2022 est.)<br>
+-0.19 migrant(s)/1,000 population (2023 est.)<br>
 
 **Population distribution**<br>
 the vast majority of the population is found in the Asir Mountains (part of the larger Sarawat Mountain system), located in the far western region of the country<br>
@@ -136,11 +134,9 @@ _rate of urbanization_: 3.71% annual rate of change (2015-20 est.)<br>
 **Sex ratio**<br>
 _at birth_: 1.05 male(s)/female<br>
 _0-14 years_: 1.04 male(s)/female<br>
-_15-24 years_: 1.03 male(s)/female<br>
-_25-54 years_: 1.04 male(s)/female<br>
-_55-64 years_: 0.84 male(s)/female<br>
-_65 years and over_: 0.69 male(s)/female<br>
-_total population_: 1.02 male(s)/female (2022 est.)<br>
+_15-64 years_: 1.02 male(s)/female<br>
+_65 years and over_: 0.79 male(s)/female<br>
+_total population_: 1.02 male(s)/female (2023 est.)<br>
 
 **Mother's mean age at first birth**<br>
 20.8 years (2013 est.)<br>
@@ -150,17 +146,17 @@ _total population_: 1.02 male(s)/female (2022 est.)<br>
 164 deaths/100,000 live births (2017 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 46.54 deaths/1,000 live births<br>
-_male_: 51.9 deaths/1,000 live births<br>
-_female_: 40.92 deaths/1,000 live births (2022 est.)<br>
+_total_: 45.54 deaths/1,000 live births<br>
+_male_: 50.87 deaths/1,000 live births<br>
+_female_: 39.95 deaths/1,000 live births (2023 est.)<br>
 
 **Life expectancy at birth**<br>
-_total population_: 67.51 years<br>
-_male_: 65.19 years<br>
-_female_: 69.94 years (2022 est.)<br>
+_total population_: 67.83 years<br>
+_male_: 65.49 years<br>
+_female_: 70.28 years (2023 est.)<br>
 
 **Total fertility rate**<br>
-3.01 children born/woman (2022 est.)<br>
+2.91 children born/woman (2023 est.)<br>
 
 **Gross reproduction rate**<br>
 1.42 (2023 est.)<br>
