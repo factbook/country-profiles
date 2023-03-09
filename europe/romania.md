@@ -371,7 +371,7 @@ _email address and website_: <br>washington@mae.ro (chancery)<br>contact@informa
 _consulate(s) general_: Chicago, Los Angeles, Miami, New York<br>
 
 **Diplomatic representation from the US**<br>
-_chief of mission_: Ambassador (vacant); Charge d'Affaires David MUNIZ (since 20 January 2021)<br>
+_chief of mission_: Ambassador (vacant); Charg&eacute; d'Affaires David MUNIZ (since 20 January 2021)<br>
 _embassy_: 4-6, Dr. Liviu Librescu Blvd., District 1, Bucharest, 015118<br>
 _mailing address_: 5260 Bucharest Place, Washington, DC&nbsp; 20521-5260<br>
 _telephone_: [40] (21) 200-3300<br>

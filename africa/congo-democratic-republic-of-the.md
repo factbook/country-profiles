@@ -50,7 +50,7 @@ _mean elevation_: 726 m<br>
 
 **Natural resources**<br>
 cobalt, copper, niobium, tantalum, petroleum, industrial and gem diamonds, gold, silver, zinc, manganese, tin, uranium, coal, hydropower, timber<br>
-<strong>note 1:</strong> coltan, the industrial name for a columbite–tantalite mineral from which niobium and tantalum are extracted, is being linked to warfare in the Democratic Republic of the Congo; mining of coltan is mainly artisanal and small-scale and vulnerable to extortion and human trafficking; fighting over cassiterite deposits, a tin ore, is also a major cause of conflict in eastern parts of the Democratic Republic of the Congo; tantalum, tin, tungsten, and gold extracted from central Africa are considered "conflict minerals" and as such are subject to international monitoring<br><br><strong>note 2:</strong> the DROC produces as much as 70% of the World's supply of cobalt; between 20-30% of this cobalt is produced in artisanal and small-scale mining operations which are vulnerable to extortion, human trafficking, and exploitative working conditions including child labor<br>
+<strong>note 1:</strong> coltan, the industrial name for a columbite–tantalite mineral from which niobium and tantalum are extracted, is being linked to warfare in the Democratic Republic of the Congo; mining of coltan is mainly artisanal and small-scale and vulnerable to extortion and human trafficking; fighting over cassiterite deposits, a tin ore, is also a major cause of conflict in eastern parts of the Democratic Republic of the Congo; tantalum, tin, tungsten, and gold extracted from central Africa are considered "conflict minerals" and as such are subject to international monitoring<br><br><strong>note 2:</strong> the DROC is the World's leading producer of cobalt, accounting for as much as 70% of the World's supply; between 20-30% of this cobalt is produced in artisanal and small-scale mining operations which are vulnerable to extortion, human trafficking, and exploitative working conditions including child labor<br>
 
 **Land use**<br>
 _agricultural land_: 11.4% (2018 est.)<br>
@@ -319,9 +319,9 @@ Atlantic Ocean drainage: Congo (3,730,881 sq km), <em>(Mediterranean Sea)</em> N
 Congo Basin<br>
 
 **Total water withdrawal**<br>
-_municipal_: 464.9 million cubic meters (2017 est.)<br>
-_industrial_: 146.8 million cubic meters (2017 est.)<br>
-_agricultural_: 71.9 million cubic meters (2017 est.)<br>
+_municipal_: 460 million cubic meters (2019 est.)<br>
+_industrial_: 150 million cubic meters (2019 est.)<br>
+_agricultural_: 70 million cubic meters (2019 est.)<br>
 
 **Total renewable water resources**<br>
 1.3 trillion cubic meters (2019 est.)<br>
@@ -407,7 +407,7 @@ _email address and website_: <br>https://www.ambardcusa.org/<br>
 _representative office_: New York<br>
 
 **Diplomatic representation from the US**<br>
-_chief of mission_: Ambassador (vacant); Charge d'Affaires Stephanie MILEY (since July 2022)<br>
+_chief of mission_: Ambassador (vacant); Charg&eacute; d'Affaires Stephanie MILEY (since July 2022)<br>
 _embassy_: 310 Avenue des Aviateurs, Kinshasa, Gombe<br>
 _mailing address_: 2220 Kinshasa Place, Washington DC&nbsp; 20521-2220<br>
 _telephone_: [243] 081 556-0151<br>
@@ -764,8 +764,8 @@ _refugees (country of origin)_: 208,789 (Rwanda) (2022); 211,245 (Central Africa
 _IDPs_: 5.52 million (fighting between government forces and rebels since mid-1990s; conflict in Kasai region since 2016) (2022)<br>
 
 **Trafficking in persons**<br>
-_tier rating_: <p>Tier 2 Watch List — The Democratic Republic of the Congo (DRC) does not fully meet the minimum standards for the elimination of trafficking but is making significant efforts to do so; the DRC was upgraded to Tier 2 Watch List because of several accomplishments; the government drafted and launched its first national anti-trafficking action plan; authorities increased law enforcement efforts, including investigating and prosecuting more trafficking crimes; a number of traffickers were convicted, including a high-ranking army officer and the leader of an armed group; however, authorities continued to lack standard operating procedures for identifying victims and referring them to care; there were credible allegations that the army abducted women and girls for sexual slavery and recruited and used child soldiers (2020)</p><br>
-_trafficking profile_: human traffickers exploit domestic and foreign victims in Democratic Republic of the Congo and Congolese abroad; most trafficking is internal and involves the forced labor of men, women, and children in artisanal mining, agriculture, domestic servitude, sex trafficking, or child recruitment by armed groups; some traffickers are family members or others who promise victims or victims&rsquo; families educational or job opportunities and instead force victims to work as domestic servants, street vendors, gang members, or in commercial sex; some Congolese women and girls who migrate to other countries in Africa or the Middle East are exploited in sex trafficking or forced labor in agriculture, diamond mines, or domestic service; they may be fraudulently recruited by traffickers with false promises of jobs or education<br>
+_tier rating_: <p>Tier 2 Watch List — The Democratic Republic of the Congo (DRC) does not fully meet the minimum standards for the elimination of trafficking but is making significant efforts to do so; the government finalized standard operating procedures for victim identification and referral for services and partnered with NGOs to identify more trafficking victims; the DRC investigated, prosecuted, and convicted traffickers, including complicit officials; however, the government did not demonstrate overall increasing efforts compared with the previous year; Congolese National Army officers continued coordinating with an armed group allegedly engaged in forcibly recruiting and using children; authorities penalized victims for committing unlawful acts traffickers compelled them to commit, and official complicity in trafficking crimes remains a significant concern; the government did not adopt comprehensive anti-trafficking legislation for the third consecutive year; because the DRC has devoted sufficient resources to a plan that, if implemented, would constitute significant efforts to meet the minimum standards, it was granted a waiver per the TVPA from an otherwise required downgrade to Tier 3, therefore the DRC remained on Tier 2 Watch List for the third consecutive year (2022)</p><br>
+_trafficking profile_: <p>human traffickers exploit domestic and foreign victims in Democratic Republic of the Congo and Congolese abroad; most trafficking is internal and involves the forced labor of men, women, and children in artisanal mining, agriculture, domestic servitude, sex trafficking, or child recruitment by armed groups; some traffickers are family members or others who promise victims or victims’ families educational or job opportunities and instead force victims to work as domestic servants, street vendors, gang members, or in commercial sex; some Congolese women and girls who migrate to other countries in Africa or the Middle East are exploited in sex trafficking or forced labor in agriculture, diamond mines, or domestic service; they may be fraudulently recruited by traffickers with false promises of jobs or education (2022)</p><br>
 
 **Illicit drugs**<br>
 country of origin of methamphetamine destined for overseas markets<br>

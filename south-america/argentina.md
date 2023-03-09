@@ -5,7 +5,7 @@ _South America / Countries_
 ## Introduction
 
 **Background**<br>
-<p>In 1816, the United Provinces of the Rio Plata declared their independence from Spain. After Bolivia, Paraguay, and Uruguay went their separate ways, the area that remained became Argentina. The country's population and culture were heavily shaped by immigrants from throughout Europe, with Italy and Spain providing the largest percentage of newcomers from 1860 to 1930. Up until about the mid-20th century, much of Argentina's history was dominated by periods of internal political unrest and conflict between civilian and military factions.</p> <p>After World War II, an era of populism under former President Juan Domingo PERON - the founder of the Peronist political movement - and direct and indirect military interference in subsequent governments was followed by a military junta that took power in 1976. Democracy returned in 1983 after a failed bid to seize the Falkland Islands (Islas Malvinas) by force, and has persisted despite numerous challenges, the most formidable of which was a severe economic crisis in 2001-02 that led to violent public protests and the successive resignations of several presidents. The years 2003-15 saw Peronist rule by Nestor KIRCHNER (2003-07) and his spouse Cristina FERNANDEZ DE KIRCHNER (2007-15), who oversaw several years of strong economic growth (2003-11) followed by a gradual deterioration in the government’s fiscal situation and eventual economic stagnation and isolation. Argentina underwent a brief period of economic reform and international reintegration under Mauricio MACRI (2015-19), but a recession in 2018-19 and frustration with MACRI’s economic policies ushered in a new Peronist government in 2019 led by President Alberto FERNANDEZ and Vice President FERNANDEZ DE KIRCHNER. Presidential elections will take place next in 2023.</p><br>
+<p>In 1816, the United Provinces of the Río de la Plata declared their independence from Spain. After Bolivia, Paraguay, and Uruguay went their separate ways, the area that remained became Argentina. The country's population and culture were heavily shaped by immigrants from throughout Europe, with Italy and Spain providing the largest percentage of newcomers from 1860 to 1930. Up until about the mid-20th century, much of Argentina's history was dominated by periods of internal political unrest and conflict between civilian and military factions.</p> <p>After World War II, an era of populism under former President Juan Domingo PERÓN - the founder of the Peronist political movement - and direct and indirect military interference in subsequent governments was followed by a military junta that took power in 1976. Democracy returned in 1983 after a failed bid to seize the Falkland Islands (Islas Malvinas) by force, and has persisted despite numerous challenges, the most formidable of which was a severe economic crisis in 2001-02 that led to violent public protests and the successive resignations of several presidents. The years 2003-15 saw Peronist rule by Néstor KIRCHNER (2003-07) and his spouse Cristina FERNÁNDEZ DE KIRCHNER (2007-15), who oversaw several years of strong economic growth (2003-11) followed by a gradual deterioration in the government’s fiscal situation and eventual economic stagnation and isolation. Argentina underwent a brief period of economic reform and international reintegration under Mauricio MACRI (2015-19), but a recession in 2018-19 and frustration with MACRI’s economic policies ushered in a new Peronist government in 2019 led by President Alberto FERNÁNDEZ and Vice President FERNÁNDEZ DE KIRCHNER. Presidential elections will take place next in 2023.</p><br>
 
 ## Geography
 
@@ -47,7 +47,7 @@ rich plains of the Pampas in northern half, flat to rolling plateau of Patagonia
 
 **Elevation**<br>
 _highest point_: Cerro Aconcagua (located in the northwestern corner of the province of Mendoza; highest point in South America) 6,962 m<br>
-_lowest point_: Laguna del Carbon (located between Puerto San Julian and Comandante Luis Piedra Buena in the province of Santa Cruz) -105 m<br>
+_lowest point_: Laguna del Carb&oacute;n (located between Puerto San Juli&aacute;n and Comandante Luis Piedra Buena in the province of Santa Cruz) -105 m<br>
 _mean elevation_: 595 m<br>
 
 **Natural resources**<br>
@@ -65,26 +65,26 @@ _other_: 35.4% (2018 est.)<br>
 23,600 sq km (2012)<br>
 
 **Major lakes (area sq km)**<br>
-_fresh water lake(s)_: Lago Buenos Aires (shared with Chile) - 2,240 sq km; Lago Argentino - 1,410 sq km; Lago Viedma - 1,090 sq km; Lago San Martin (shared with Chile) - 1,010 sq km; Lago Colhue Huapi - 800 sq km; Lago Fagnano (shared with Chile) - 590 sq km; Lago Nahuel Huapi - 550 sq km<br>
+_fresh water lake(s)_: Lago Buenos Aires (shared with Chile) - 2,240 sq km; Lago Argentino - 1,410 sq km; Lago Viedma - 1,090 sq km; Lago San Mart&iacute;n (shared with Chile) - 1,010 sq km; Lago Colhu&eacute; Huapi - 800 sq km; Lago Fagnano (shared with Chile) - 590 sq km; Lago Nahuel Huapi - 550 sq km<br>
 _salt water lake(s)_: Laguna Mar Chiquita - 1,850 sq km;<br>
 
 **Major rivers (by length in km)**<br>
-Rio de la Plata/Parana river mouth (shared with Brazil [s], Paraguay, and Uruguay) - 4,880 km; Paraguay (shared with Brazil [s], and Paraguay [m]) - 2,549 km; Uruguay (shared with Brazil [s] and Uruguay [m]) - 1,610 km<br><strong>note</strong> – [s] after country name indicates river source; [m] after country name indicates river mouth<br>
+Río de la Plata/Paraná river mouth (shared with Brazil [s], Paraguay, and Uruguay) - 4,880 km; Paraguay (shared with Brazil [s], and Paraguay [m]) - 2,549 km; Uruguay (shared with Brazil [s] and Uruguay [m]) - 1,610 km<br><strong>note</strong> – [s] after country name indicates river source; [m] after country name indicates river mouth<br>
 
 **Major watersheds (area sq km)**<br>
 Atlantic Ocean drainage: Paran&aacute; (2,582,704 sq km)<br>
 
 **Major aquifers**<br>
-Guarani Aquifer System<br>
+Guaran&iacute; Aquifer System<br>
 
 **Population distribution**<br>
 one-third of the population lives in Buenos Aires; pockets of agglomeration occur throughout the northern and central parts of the country; Patagonia to the south remains sparsely populated<br>
 
 **Natural hazards**<br>
-<p>San Miguel de Tucuman and Mendoza areas in the Andes subject to earthquakes; pamperos are violent windstorms that can strike the pampas and northeast; heavy flooding in some areas</p><p><strong>volcanism:</strong> volcanic activity in the Andes Mountains along the Chilean border; Copahue (2,997 m) last erupted in 2000; other historically active volcanoes include Llullaillaco, Maipo, Planchon-Peteroa, San Jose, Tromen, Tupungatito, and Viedma</p><br>
+<p>San Miguel de Tucumán and Mendoza areas in the Andes subject to earthquakes; pamperos are violent windstorms that can strike the pampas and northeast; heavy flooding in some areas</p> <p><strong>volcanism:</strong> volcanic activity in the Andes Mountains along the Chilean border; Copahue (2,997 m) last erupted in 2000; other historically active volcanoes include Llullaillaco, Maipo, Planchón-Peteroa, San José, Tromen, Tupungatito, and Viedma</p><br>
 
 **Geography - note**<br>
-<strong>note 1:</strong> second-largest country in South America (after Brazil); strategic location relative to sea lanes between the South Atlantic and the South Pacific Oceans (Strait of Magellan, Beagle Channel, Drake Passage); diverse geophysical landscapes range from tropical climates in the north to tundra in the far south; Cerro Aconcagua is the Western Hemisphere's tallest mountain, while Laguna del Carbon is the lowest point in the Western Hemisphere; shares Iguazu Falls, the world's largest waterfalls system, with Brazil<br><br><strong>note 2: </strong>southeast Bolivia and northwest Argentina seem to be the original development site for peanuts<br>
+<strong>note 1:</strong> second-largest country in South America (after Brazil); strategic location relative to sea lanes between the South Atlantic and the South Pacific Oceans (Strait of Magellan, Beagle Channel, Drake Passage); diverse geophysical landscapes range from tropical climates in the north to tundra in the far south; Cerro Aconcagua is the Western Hemisphere's tallest mountain, while Laguna del Carbón is the lowest point in the Western Hemisphere; shares Iguazú Falls, the world's largest waterfalls system, with Brazil<br><br><strong>note 2: </strong>southeast Bolivia and northwest Argentina seem to be the original development site for peanuts<br>
 
 ## People and Society
 
@@ -144,7 +144,7 @@ _urban population_: 92.5% of total population (2023)<br>
 _rate of urbanization_: 0.97% annual rate of change (2020-25 est.)<br>
 
 **Major urban areas - population**<br>
-15.490 million BUENOS AIRES (capital), 1.612 million Cordoba, 1.594 million Rosario, 1.226 million Mendoza, 1.027 million San Miguel de Tucuman, 914,000 La Plata (2023)<br>
+15.490 million BUENOS AIRES (capital), 1.612 million C&oacute;rdoba, 1.594 million Rosario, 1.226 million Mendoza, 1.027 million San Miguel de Tucum&aacute;n, 914,000 La Plata (2023)<br>
 
 **Sex ratio**<br>
 _at birth_: 1.07 male(s)/female<br>
@@ -289,17 +289,17 @@ _municipal solid waste recycled annually_: 1,074,633 tons (2010 est.)<br>
 _percent of municipal solid waste recycled_: 6% (2010 est.)<br>
 
 **Major lakes (area sq km)**<br>
-_fresh water lake(s)_: Lago Buenos Aires (shared with Chile) - 2,240 sq km; Lago Argentino - 1,410 sq km; Lago Viedma - 1,090 sq km; Lago San Martin (shared with Chile) - 1,010 sq km; Lago Colhue Huapi - 800 sq km; Lago Fagnano (shared with Chile) - 590 sq km; Lago Nahuel Huapi - 550 sq km<br>
+_fresh water lake(s)_: Lago Buenos Aires (shared with Chile) - 2,240 sq km; Lago Argentino - 1,410 sq km; Lago Viedma - 1,090 sq km; Lago San Mart&iacute;n (shared with Chile) - 1,010 sq km; Lago Colhu&eacute; Huapi - 800 sq km; Lago Fagnano (shared with Chile) - 590 sq km; Lago Nahuel Huapi - 550 sq km<br>
 _salt water lake(s)_: Laguna Mar Chiquita - 1,850 sq km;<br>
 
 **Major rivers (by length in km)**<br>
-Rio de la Plata/Parana river mouth (shared with Brazil [s], Paraguay, and Uruguay) - 4,880 km; Paraguay (shared with Brazil [s], and Paraguay [m]) - 2,549 km; Uruguay (shared with Brazil [s] and Uruguay [m]) - 1,610 km<br><strong>note</strong> – [s] after country name indicates river source; [m] after country name indicates river mouth<br>
+Río de la Plata/Paraná river mouth (shared with Brazil [s], Paraguay, and Uruguay) - 4,880 km; Paraguay (shared with Brazil [s], and Paraguay [m]) - 2,549 km; Uruguay (shared with Brazil [s] and Uruguay [m]) - 1,610 km<br><strong>note</strong> – [s] after country name indicates river source; [m] after country name indicates river mouth<br>
 
 **Major watersheds (area sq km)**<br>
 Atlantic Ocean drainage: Paran&aacute; (2,582,704 sq km)<br>
 
 **Major aquifers**<br>
-Guarani Aquifer System<br>
+Guaran&iacute; Aquifer System<br>
 
 **Total water withdrawal**<br>
 _municipal_: 5.85 billion cubic meters (2019 est.)<br>
@@ -316,7 +316,7 @@ _conventional long form_: Argentine Republic<br>
 _conventional short form_: Argentina<br>
 _local long form_: Republica Argentina<br>
 _local short form_: Argentina<br>
-_etymology_: originally the area was referred to as Tierra Argentina, i.e., "Land beside the Silvery River" or "silvery land," which referred to the massive estuary in the east of the country, the Rio de la Plata (River of Silver); over time the name shortened to simply Argentina or "silvery"<br>
+_etymology_: originally the area was referred to as Tierra Argentina, i.e., "Land beside the Silvery River" or "silvery land," which referred to the massive estuary in the east of the country, the R&iacute;o de la Plata (River of Silver); over time the name shortened to simply Argentina or "silvery"<br>
 
 **Government type**<br>
 presidential republic<br>
@@ -357,11 +357,11 @@ _residency requirement for naturalization_: 2 years<br>
 18-70 years of age; universal and compulsory; 16-17 years of age - optional for national elections<br>
 
 **Executive branch**<br>
-_chief of state_: President Alberto Angel FERNANDEZ (since 10 December 2019); Vice President Cristina FERNANDEZ DE KIRCHNER (since 10 December 2019); note - the president is both chief of state and head of government<br>
-_head of government_: President Alberto Angel FERNANDEZ (since 10 December 2019); Vice President Cristina FERNANDEZ DE KIRCHNER (since 10 December 2019)<br>
+_chief of state_: President Alberto &Aacute;ngel FERN&Aacute;NDEZ (since 10 December 2019); Vice President Cristina FERN&Aacute;NDEZ DE KIRCHNER (since 10 December 2019); note - the president is both chief of state and head of government<br>
+_head of government_: President Alberto &Aacute;ngel FERN&Aacute;NDEZ (since 10 December 2019); Vice President Cristina FERN&Aacute;NDEZ DE KIRCHNER (since 10 December 2019)<br>
 _cabinet_: Cabinet appointed by the president<br>
 _elections/appointments_: president and vice president directly elected on the same ballot by qualified majority vote (to win, a candidate must receive at least 45% of votes or 40% of votes and a 10-point lead over the second place candidate; if neither occurs, a second round is held ); the president serves a 4-year term (eligible for a second consecutive term); election last held on 27 October 2019 (next to be held in October 2023)<br>
-_election results_: <br><em>2019:</em> Alberto Angel FERNANDEZ elected president; percent of vote - Alberto Angel FERNANDEZ (TODOS) 48.1%, Mauricio MACRI (PRO) 40.4%, Roberto LAVAGNA (independent) 6.2%, other 5.3%<br><br><em>2015:</em> Mauricio MACRI elected president in second round; percent of vote in first round - Daniel SCIOLI (PJ) 37.1%, Mauricio MACRI (PRO) 34.2%, Sergio MASSA (FR/PJ) 21.4%, other 7.3%; percent of vote in second round - Mauricio MACRI (PRO) 51.4%, Daniel SCIOLI (PJ) 48.6%<br>
+_election results_: <br><em>2019:</em> Alberto Ángel FERNÁNDEZ elected president; percent of vote - Alberto Angel FERNÁNDEZ (TODOS) 48.1%, Mauricio MACRI (PRO) 40.4%, Roberto LAVAGNA (independent) 6.2%, other 5.3%<br><br><em>2015:</em> Mauricio MACRI elected president in second round; percent of vote in first round - Daniel SCIOLI (PJ) 37.1%, Mauricio MACRI (PRO) 34.2%, Sergio MASSA (FR/PJ) 21.4%, other 7.3%; percent of vote in second round - Mauricio MACRI (PRO) 51.4%, Daniel SCIOLI (PJ) 48.6%<br>
 
 **Legislative branch**<br>
 _description_: bicameral National Congress or Congreso Nacional consists of:<br>Senate or Senado (72 seats; members directly elected on a provincial basis with 2 seats awarded to the party with the most votes and 1 seat to the party with the second highest number of votes; members serve 6-year terms with one-third of the membership renewed every 2 years)<br>Chamber of Deputies or Cámara de Diputados (257 seats; members directly elected in multi-seat constituencies by party-list proportional representation vote using the D'Hondt method; members serve 4-year terms with one-half of the membership renewed every 2 years)<br>
@@ -374,7 +374,7 @@ _judge selection and term of office_: judges nominated by the president and appr
 _subordinate courts_: federal level appellate, district, and territorial courts; provincial level supreme, appellate, and first instance courts<br>
 
 **Political parties and leaders**<br>
-<p>Avanza Libertad or AL [Jose Luis ESPERT]<br>Civic Coalition ARI or CC-ARI [Elisa CARRIO, Maximiliano FERRARO]<br>Federal Consensus or CF [Roberto LAVAGNA, Juan Manuel URTUBEY]<br>Frente Civico por Santiago (Civic Front for Santiago) [Gerardo ZAMORA]<br>Frente de Izquierda (Workers' Left Front) or FIT-U [Nicolas DEL CANO, Miriam BREGMAN] (coalition of leftist parties in lower house; includes PTS, PO, and MST) <br>Frente de la Concordia Misionero (Front for the Renewal of Social Concord) or FRCS [Carlos Eduardo ROVIRA]<br>Frente de Todos (Everyone's Front) or FdT [Alberto FERNANDEZ] (includes FR, La Campora, and PJ); note - ruling coalition since 2019; includes several national and provincial Peronist political parties<br>Frente Renovador (Renewal Front) or FR [Sergio MASSA, Pablo MIROLO]<br>Generacion por un Encuentro Nacional (Generation for a National Encounter) or GEN [Margarita STOLBIZER]<br>Hacemos por Cordoba (We do for Cordoba) or HC [Juan SCHIARETTI]<br>Juntos por el Cambio (Together for Change) or JxC [Horacio Rodríguez LARRETA] (includes CC-ARI, PRO, and UCR); note - primary opposition coalition since 2019<br>Juntos Somos Rio Negro (Together We Are Rio Negro) or JSRN [Alberto WERETILNECK]    <br>Justicialist Party or PJ [Alberto Angel FERNANDEZ]<br>La Campora [Maximo KIRCHNER]<br>La Libertad Avanza or LLA [Javier MILEI]<br>Movimiento Popular Neuquino (Neuquen People's Movement) or MPN [Omar GUTIERREZ]<br>Partido Socialista or PS [Monica Haydee FEIN]<br>Propuesta Republicana or PRO [Mauricio MACRI]<br>Radical Civic Union or UCR [Gerardo MORALES]<br>Socialist Workers' Party or PTS [Nicolas DEL CANO]<br>Unidad Federal (coalition of provencial parties in the lower house; includes FRCS and JSRN)<br>Workers' Party or PO [Gabriel SOLANO]<br>Workers' Socialist Movement or MST [Alejandro BODART]<br>Vamos con Vos (Let's Go with You) or VcV [Florencio RANDAZZO]</p><br>
+<p>Avanza Libertad or AL [José Luis ESPERT]<br>Civic Coalition ARI or CC-ARI [Elisa CARRIÓ, Maximiliano FERRARO]<br>Consenso Federal (Federal Consensus) or CF [Roberto LAVAGNA, Juan Manuel URTUBEY]<br>Frente Cívico por Santiago (Civic Front for Santiago) [Gerardo ZAMORA]<br>Frente de Izquierda y de los Trabajadores – Unidad (Workers' Left Front) or FIT-U [Nicolás DEL CAÑO, Miriam BREGMAN] (coalition of leftist parties in lower house; includes PTS, PO, and MST) <br>Frente de la Concordia Misionero (Front for the Renewal of Social Concord) or FRCS [Carlos Eduardo ROVIRA]<br>Frente de Todos (Everyone's Front) or FdT [Alberto FERNÁNDEZ] (includes FR, La Campora, and PJ); note - ruling coalition since 2019; includes several national and provincial Peronist political parties<br>Frente Renovador (Renewal Front) or FR [Sergio MASSA, Pablo MIROLO]<br>Generación por un Encuentro Nacional (Generation for a National Encounter) or GEN [Margarita STOLBIZER]<br>Hacemos por Córdoba (We do for Cordoba) or HC [Juan SCHIARETTI]<br>Juntos por el Cambio (Together for Change) or JxC [Horacio Rodríguez LARRETA] (includes CC-ARI, PRO, and UCR); note - primary opposition coalition since 2019<br>Juntos Somos Río Negro (Together We Are Rio Negro) or JSRN [Alberto WERETILNECK]    <br>Justicialist Party or PJ [Alberto Angel FERNÁNDEZ]<br>La Cámpora [Maximo KIRCHNER]<br>La Libertad Avanza (The Liberty Advances) or LLA [Javier MILEI]<br>Movimiento Popular Neuquino (Neuquén People's Movement) or MPN [Omar GUTIÉRREZ]<br>Movimiento Socialista de los Trabajadores (Workers' Socialist Movement) or MST [Vilma RIPOLL, Alejandro BODART]<br>Partido de los Trabajadores Socialistas (Socialist Workers' Party) or PTS [Nicolás DEL CAÑO]<br>Partido Obrero (Workers' Party) or PO [Gabriel SOLANO]<br>Partido Socialista or PS [Mónica Haydée FEIN]<br>Propuesta Republicana (Republican Proposal) or PRO [Mauricio MACRI]<br>Unidad Federal (coalition of provencial parties in the lower house; includes FRCS and JSRN)<br>Unión Cívica Radical (Radical Civic Union) or UCR [Gerardo Rubén MORALES]<br>Vamos con Vos (Let's Go with You) or VcV [Florencio RANDAZZO]</p><br>
 
 **International organization participation**<br>
 AfDB (nonregional member), Australia Group, BCIE, BIS, CAN (associate), CD, CELAC, FAO, FATF, G-15, G-20, G-24, G-77, IADB, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), LAES, LAIA, Mercosur, MIGA, MINURSO, MINUSTAH, NAM (observer), NSG, OAS, OPANAL, OPCW, Paris Club (associate), PCA, PROSUR, SICA (observer), UN, UNASUR, UNCTAD, UNESCO, UNFICYP, UNHCR, UNHRC, UNIDO, Union Latina (observer), UNTSO, UNWTO, UPU, Wassenaar Arrangement, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO, ZC<br>

@@ -281,9 +281,9 @@ _municipal solid waste generated annually_: 2,930,349 tons (2015 est.)<br>
 _salt water lake(s)_: Caspian Sea (shared with Iran, Russia, Turkmenistan, and Kazakhstan) - 374,000 sq km<br>
 
 **Total water withdrawal**<br>
-_municipal_: 449.6 million cubic meters (2017 est.)<br>
-_industrial_: 3.062 billion cubic meters (2017 est.)<br>
-_agricultural_: 9.27 billion cubic meters (2017 est.)<br>
+_municipal_: 400 million cubic meters (2019 est.)<br>
+_industrial_: 570 million cubic meters (2019 est.)<br>
+_agricultural_: 11.6 billion cubic meters (2019 est.)<br>
 
 **Total renewable water resources**<br>
 34.68 billion cubic meters (2019 est.)<br>

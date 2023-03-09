@@ -305,9 +305,9 @@ _fresh water lake(s)_: Lake Tanganyika (shared with Democratic Republic of Congo
 Atlantic Ocean drainage: Congo (3,730,881 sq km), <em>(Mediterranean Sea)</em> Nile (3,254,853 sq km)<br>
 
 **Total water withdrawal**<br>
-_municipal_: 43.1 million cubic meters (2017 est.)<br>
-_industrial_: 15 million cubic meters (2017 est.)<br>
-_agricultural_: 222 million cubic meters (2017 est.)<br>
+_municipal_: 40 million cubic meters (2019 est.)<br>
+_industrial_: 20 million cubic meters (2019 est.)<br>
+_agricultural_: 220 million cubic meters (2019 est.)<br>
 
 **Total renewable water resources**<br>
 12.5 billion cubic meters (2019 est.)<br>

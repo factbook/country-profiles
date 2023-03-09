@@ -253,9 +253,9 @@ _municipal solid waste recycled annually_: 957 tons (2016 est.)<br>
 _percent of municipal solid waste recycled_: 0.9% (2016 est.)<br>
 
 **Total water withdrawal**<br>
-_municipal_: 17 million cubic meters (2017 est.)<br>
-_industrial_: 3 million cubic meters (2017 est.)<br>
-_agricultural_: 318 million cubic meters (2017 est.)<br>
+_municipal_: 20 million cubic meters (2019 est.)<br>
+_industrial_: 3 million cubic meters (2019 est.)<br>
+_agricultural_: 320 million cubic meters (2019 est.)<br>
 
 **Total renewable water resources**<br>
 78 billion cubic meters (2019 est.)<br>
@@ -314,7 +314,7 @@ _elections/appointments_: the monarchy is hereditary but can be removed by a two
 
 **Legislative branch**<br>
 _description_: bicameral Parliament or Chi Tshog consists of:<br>non-partisan National Council or Gyelyong Tshogde (25 seats; 20 members directly elected in single-seat constituencies by simple majority vote and 5 members appointed by the king; members serve 5-year terms)<br>National Assembly or Tshogdu (47 seats; members directly elected in single-seat constituencies in a two-round majoritarian voting system; members serve 5-year terms)<br>
-_elections_: <br>National Council election last held on 20 April 2018 (next to be held in 2023)<br>National Assembly - first round held on 15 September 2018 and second round held on 18 October 2018 (next to be held in 2023)<br>
+_elections_: <br>National Council election last held on 20 April 2018 (next to be held in April 2023)<br>National Assembly - first round held on 15 September 2018 and second round held on 18 October 2018 (next to be held in 2023)<br>
 _election results_: <br>National Council - seats by party - independent 20 (all candidates ran as independents); composition - men 23, women 2, percent of women 8%<br>National Assembly - first round - percent of vote by party - DNT 31.9%, DPT 30.9%, PDP 27.4%, BKP 9.8%; second round - percent of vote by party -  NA; seats by party - DNT 30, DPT 17; composition - men 40, women 7, percent of women 14.9%; note - total Parliament percent of women 12.5%<br>
 
 **Judicial branch**<br>

@@ -276,9 +276,9 @@ _percent of municipal solid waste recycled_: 34.3% (2015 est.)<br>
 Atlantic Ocean drainage: Seine (78,919 sq km), Rhine-Maas (198,735 sq km)<br>
 
 **Total water withdrawal**<br>
-_municipal_: 739 million cubic meters (2017 est.)<br>
-_industrial_: 3.21 billion cubic meters (2017 est.)<br>
-_agricultural_: 45 million cubic meters (2017 est.)<br>
+_municipal_: 740 million cubic meters (2019 est.)<br>
+_industrial_: 3.47 billion cubic meters (2019 est.)<br>
+_agricultural_: 50 million cubic meters (2019 est.)<br>
 
 **Total renewable water resources**<br>
 18.3 billion cubic meters (2017 est.)<br>

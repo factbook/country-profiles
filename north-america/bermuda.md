@@ -528,15 +528,15 @@ _Total energy consumption per capita 2019_: 176.312 million Btu/person (2019 est
 
 **Telephones - fixed lines**<br>
 _total subscriptions_: 25,000 (2020 est.)<br>
-_subscriptions per 100 inhabitants_: 40 (2020 est.)<br>
+_subscriptions per 100 inhabitants_: 39 (2020 est.)<br>
 
 **Telephones - mobile cellular**<br>
 _total subscriptions_: 68,000 (2020 est.)<br>
-_subscriptions per 100 inhabitants_: 109 (2020 est.)<br>
+_subscriptions per 100 inhabitants_: 103 (2020 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: the telecom sector has seen a decline in subscriber numbers (particularly for prepaid mobile services the mainstay of short term visitors) and revenue; fixed and mobile broadband services are two areas that have benefited from the crisis as employees and students have resorted to working from home; one area of the telecom market that is not prepared for growth is 5G mobile; governments, regulators, and even the mobile network operators have shown that they have not been investing in 5G opportunities at the present time; network expansion and enhancements remain concentrated around improving LTE coverage (2021)<br>
-_domestic_: the system has a high fixed-line teledensity nearing 40 per 100, coupled with a mobile-cellular teledensity of roughly 109 per 100 persons (2020)<br>
+_domestic_: the system has a fixed-line teledensity of 39 per 100, coupled with a mobile-cellular teledensity of roughly 106 per 100 persons (2020)<br>
 _international_: country code - 1-441; landing points for the GlobeNet, Gemini Bermuda, CBUS, and the CB-1 submarine cables to the Caribbean, South America and the US; satellite earth stations - 3 (2019)<br>
 <strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress toward 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>
 

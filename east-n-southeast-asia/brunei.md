@@ -263,8 +263,8 @@ _coal revenues_: 0% of GDP (2018 est.)<br>
 _municipal solid waste generated annually_: 216,253 tons (2016 est.)<br>
 
 **Total water withdrawal**<br>
-_municipal_: 151.5 million cubic meters (2017 est.)<br>
-_agricultural_: 5.3 million cubic meters (2017 est.)<br>
+_municipal_: 150 million cubic meters (2019 est.)<br>
+_agricultural_: 1 million cubic meters (2019 est.)<br>
 
 **Total renewable water resources**<br>
 8.5 billion cubic meters (2019 est.)<br>

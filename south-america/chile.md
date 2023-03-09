@@ -278,9 +278,9 @@ _percent of municipal solid waste recycled_: 0.4% (2009 est.)<br>
 _fresh water lake(s)_: Lago General Carrera (shared with Argentina) - 2,240 sq km; Lago O'Higgins (shared with Argentina) - 1,010 sq km; Lago Llanquihue - 800 sq km; Lago Fagnano (shared with Argentina) - 590 sq km<br>
 
 **Total water withdrawal**<br>
-_municipal_: 1.267 billion cubic meters (2017 est.)<br>
-_industrial_: 4.744 billion cubic meters (2017 est.)<br>
-_agricultural_: 29.42 billion cubic meters (2017 est.)<br>
+_municipal_: 1.29 billion cubic meters (2019 est.)<br>
+_industrial_: 1.6 billion cubic meters (2019 est.)<br>
+_agricultural_: 29.42 billion cubic meters (2019 est.)<br>
 
 **Total renewable water resources**<br>
 923 billion cubic meters (2019 est.)<br>
@@ -366,7 +366,7 @@ _email address and website_: <br>echile.eeuu@minrel.gob.cl<br><br>https://chile.
 _consulate(s) general_: Chicago, Houston, Los Angeles, Miami, New York, San Francisco<br>
 
 **Diplomatic representation from the US**<br>
-_chief of mission_: Ambassador (vacant); Charge d'Affaires Richard H. GLENN (since August 2020)<br>
+_chief of mission_: Ambassador (vacant); Charg&eacute; d'Affaires Richard H. GLENN (since August 2020)<br>
 _embassy_: Avenida Andres Bello 2800, Las Condes, Santiago<br>
 _mailing address_: 3460 Santiago Place, Washington DC&nbsp; 20521-3460<br>
 _telephone_: [56] (2) 2330-3000<br>

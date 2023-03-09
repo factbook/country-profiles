@@ -702,7 +702,7 @@ the military's inventory is comprised of older Russian and Soviet-era equipment;
 18-27 years of age for compulsory or voluntary military service for men; women may volunteer; 24-month conscript service obligation; in August 2021, the Tajik Government began allowing men to pay a fee in order to avoid conscription (2022)<br>
 
 **Military - note**<br>
-Tajikistan has been a member of the Collective Security Treaty Organization (CSTO) since 1994 and contributes troops to CSTO's rapid reaction force (2022)<br>
+Tajikistan has been a member of the Collective Security Treaty Organization (CSTO) since 1994 and contributes troops to CSTO's rapid reaction force (2023)<br>
 
 ## Terrorism
 

@@ -368,7 +368,7 @@ _FAX_: [1] (202) 966-3205<br>
 _email address and website_: <br>info@timorlesteembassy.org<br><br>http://www.timorlesteembassy.org/<br>
 
 **Diplomatic representation from the US**<br>
-_chief of mission_: Ambassador (vacant), Charge d'Affaires Thomas DALEY (since August 2021)<br>
+_chief of mission_: Ambassador (vacant), Charg&eacute; d'Affaires Thomas DALEY (since August 2021)<br>
 _embassy_: Avenida de Portugal, Praia dos Coqueiros, Dili<br>
 _mailing address_: 8250 Dili Place, Washington, DC 20521-8250<br>
 _telephone_: (670) 332-4684, (670) 330-2400<br>

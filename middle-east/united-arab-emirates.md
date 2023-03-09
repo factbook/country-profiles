@@ -360,7 +360,7 @@ _email address and website_: <br>info@uaeembassy-usa.org<br><br>https://www.uae-
 _consulate(s) general_: Boston, Los Angeles, New York<br>
 
 **Diplomatic representation from the US**<br>
-_chief of mission_: Ambassador (vacant); Charge d'Affaires Sean MURPHY (since January 2021)<br>
+_chief of mission_: Ambassador (vacant); Charg&eacute; d'Affaires Sean MURPHY (since January 2021)<br>
 _embassy_: Embassies District, Plot 38, Sector W59-02, Street No. 4,&nbsp;Abu Dhabi<br>
 _mailing address_: 6010 Abu Dhabi Place, Washington DC 20521-6010<br>
 _telephone_: [971] (2) 414-2200<br>

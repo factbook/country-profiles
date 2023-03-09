@@ -331,8 +331,8 @@ _residency requirement for naturalization_: not specified<br>
 21 years of age and at least 20-year citizenship<br>
 
 **Executive branch**<br>
-_chief of state_: Ahmad al-NAWAF al-Sabah (since 24 July 2022); Crown Prince Mishal al-AHMAD al-Sabah, born in 1940, is the brother of Amir Nawaf al-AHMAD al-Jabir al-Sabah<br>
-_head of government_: Prime Minister Sheikh Muhammad al-Sabah al-SALIM al-Sabah (since 19 July 2022); First Deputy Prime Minister and Minister of Interior Sheikh Ahmed al-NAWAF al-Sabah (since 22 March 2022), Deputy Prime Minister and Minister of Defense Sheikh Talal al-KHALID al-Sabah (since 1 August 2022), and Deputy Prime Minister and Minister of Oil and Minister of State for Cabinet Affairs Dr. Mohammed al-FARIS (since 22 March 2022)<br>
+_chief of state_: Amir NAWAF al-Ahmad al-Jabir al-Sabah (since 24 July 2022); Crown Prince Mishal al-AHMAD al-Sabah, born in 1940, is the brother of Amir NAWAF al-Ahmad al-Jabir al-Sabah<br>
+_head of government_: Prime Minister Sheikh Ahmad NAWAF Al-Ahmad al-Sabah (reappointed 5 March 2023); First&nbsp;Deputy Prime Minister and Minister of Interior Sheikh Talal Khalid Al-Ahmad Al-Sabah (since 16 October 2022); Deputy Prime Minister and Minister of State for Cabinet Affairs Barak Ali Barak Al-Sheton (since 16 October 2022); Deputy Prime Minister and Minister of Oil Bader Hamed Yusef Al-Mula (since 16 October 2022)<br>
 _cabinet_: Council of Ministers appointed by the prime minister, approved by the amir<br>
 _elections/appointments_: amir chosen from within the ruling family, confirmed by the National Assembly; prime minister and deputy prime ministers appointed by the amir; crown prince appointed by the amir and approved by the National Assembly<br>
 

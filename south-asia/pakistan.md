@@ -376,7 +376,7 @@ _election results_: <em>2018:</em> Arif ALVI elected president; Electoral Colleg
 
 **Legislative branch**<br>
 _description_: bicameral Parliament or Majlis-e-Shoora consists of:<br>Senate (100 seats; members indirectly elected by the 4 provincial assemblies and the territories' representatives by proportional representation vote; members serve 6-year terms with one-half of the membership renewed every 3 years)<br>National Assembly (342 seats; 272 members directly elected in single-seat constituencies by simple majority vote and 70 members - 60 women and 10 non-Muslims - directly elected by proportional representation vote; all members serve 5-year terms)<br>
-_elections_: <br>Senate - last held on 3 March 2021 (next to be held in March 2024)<br>National Assembly - last held on 25 July 2018 (next to be held on 25 July 2023)<br>
+_elections_: <br>Senate - last held on 3 March 2021 (next to be held in March 2024)<br>National Assembly - last held on 25 July 2018 (next to be held in July 2023)<br>
 _election results_: <br>Senate - percent of vote by party - NA; seats by party - PTI 25, PPP 21, PML-N 18, BAP 13, JU-F 5, other 13, independent 5; composition - men 81, women 19, percent of women 19%<br><br>National Assembly - percent of votes by party - NA; seats by party - PTI 156, PML-N 83, PPP 55, MMA 16, MQM-P 7, BAP 5, PML-Q 5, BNP 4, GDA 3, AML 1, ANP 1, JWP 1, independent 4; composition - men 272, women 70, percent of women 20.2%; note - total Parliament percent of women 20.1%<br>
 
 **Judicial branch**<br>
@@ -400,7 +400,7 @@ _email address and website_: <br>consularsection@embassyofpakistanusa.org<br><br
 _consulate(s) general_: Chicago, Houston, Los Angeles, New York<br>
 
 **Diplomatic representation from the US**<br>
-_chief of mission_: Ambassador (vacant); Charge d'Affaires Angela AGGELER<br>
+_chief of mission_: Ambassador (vacant); Charg&eacute; d'Affaires Angela AGGELER<br>
 _embassy_: Diplomatic Enclave, Ramna 5, Islamabad<br>
 _mailing address_: 8100 Islamabad Place, Washington, DC 20521-8100<br>
 _telephone_: [92] 051-201-4000<br>

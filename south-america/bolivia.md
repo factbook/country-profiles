@@ -48,7 +48,7 @@ _lowest point_: Rio Paraguay 90 m<br>
 _mean elevation_: 1,192 m<br>
 
 **Natural resources**<br>
-tin, natural gas, petroleum, zinc, tungsten, antimony, silver, iron, lead, gold, timber, hydropower<br>
+lithium, tin, natural gas, petroleum, zinc, tungsten, antimony, silver, iron, lead, gold, timber, hydropower<br>
 
 **Land use**<br>
 _agricultural land_: 34.3% (2018 est.)<br>
@@ -303,9 +303,9 @@ Atlantic Ocean drainage: Amazon (6,145,186 sq km), Paran&aacute; (2,582,704 sq k
 Amazon Basin<br>
 
 **Total water withdrawal**<br>
-_municipal_: 136 million cubic meters (2017 est.)<br>
-_industrial_: 32 million cubic meters (2017 est.)<br>
-_agricultural_: 1.92 billion cubic meters (2017 est.)<br>
+_municipal_: 140 million cubic meters (2019 est.)<br>
+_industrial_: 30 million cubic meters (2019 est.)<br>
+_agricultural_: 1.92 billion cubic meters (2019 est.)<br>
 
 **Total renewable water resources**<br>
 574 billion cubic meters (2019 est.)<br>
@@ -382,7 +382,7 @@ Community Citizen Alliance or ACC [Carlos Diego MESA Gisbert]<br>Movement Toward
 CAN, CD, CELAC, FAO, G-77, IADB, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ISO (correspondent), ITSO, ITU, LAES, LAIA, Mercosur (associate), MIGA, MINUSTAH, MONUSCO, NAM, OAS, OPANAL, OPCW, PCA, UN, UN Security Council (temporary), UNAMID, UNASUR, UNCTAD, UNESCO, UNHRC, UNIDO, Union Latina, UNISFA, UNMIL, UNMISS, UNOCI, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
 
 **Diplomatic representation in the US**<br>
-_chief of mission_: Ambassador (vacant); Charge d'Affaires Maysa Rossana URENA MENACHO (since 1 September 2022)<br>
+_chief of mission_: Ambassador (vacant); Charg&eacute; d'Affaires Maysa Rossana URENA MENACHO (since 1 September 2022)<br>
 _chancery_: 3014 Massachusetts Ave., NW, Washington, DC 20008<br>
 _telephone_: [1] (202) 483-4410<br>
 _FAX_: [1] (202) 328-3712<br>
@@ -390,7 +390,7 @@ _email address and website_: <br>embolivia.wdc@gmail.com<br>
 _consulate(s) general_: Houston, Los Angeles, Maple Grove (MN), Miami, New York, Washington, DC<br>
 
 **Diplomatic representation from the US**<br>
-_chief of mission_: Ambassador (vacant); Charge d'Affaires Charisse PHILLIPS (since August 2020)<br>
+_chief of mission_: Ambassador (vacant); Chargé d'Affaires Charisse PHILLIPS (since August 2020)<br>
 _embassy_: Avenida Arce 2780, La Paz<br>
 _mailing address_: 3220 La Paz Place, Washington DC&nbsp; 20512-3220<br>
 _telephone_: [591] (2) 216-8000<br>

@@ -297,9 +297,9 @@ Atlantic Ocean drainage: Mississippi* <em>(Gulf of Mexico)</em> (3,202,185 sq km
 Northern Great Plains Aquifer<br>
 
 **Total water withdrawal**<br>
-_municipal_: 4.888 billion cubic meters (2017 est.)<br>
-_industrial_: 28.07 billion cubic meters (2017 est.)<br>
-_agricultural_: 2.639 billion cubic meters (2017 est.)<br>
+_municipal_: 4.87 billion cubic meters (2019 est.)<br>
+_industrial_: 27.51 billion cubic meters (2019 est.)<br>
+_agricultural_: 3.8 billion cubic meters (2019 est.)<br>
 
 **Total renewable water resources**<br>
 2.9 trillion cubic meters (2019 est.)<br>

@@ -371,13 +371,13 @@ _residency requirement for naturalization_: 15 years<br>
 _chief of state_: President Maj. Gen. (ret.) Muhammadu BUHARI (since 29 May 2015); Vice President Oluyemi "Yemi" OSINBAJO (since 29 May 2015); note - the president is both chief of state, head of government, and commander-in-chief of the armed forces<br>
 _head of government_: President Maj. Gen. (ret.) Muhammadu BUHARI (since 29 May 2015); Vice President Oluyemi "Yemi" OSINBAJO (since 29 May 2015)<br>
 _cabinet_: Federal Executive Council appointed by the president but constrained constitutionally to include at least one member from each of the 36 states<br>
-_elections/appointments_: president directly elected by qualified majority popular vote and at least 25% of the votes cast in 24 of Nigeria's 36 states; president elected for a 4-year term (eligible for a second term); election last held on 23 February 2019 (next to be held on 25 February 2023)<br>
-_election results_: Muhammadu BUHARI elected president; percent of vote - Muhammadu BUHARI (APC) 53%, Atiku ABUBAKAR (PDP) 39%, other 8% (2019)<br>
+_elections/appointments_: president directly elected by qualified majority popular vote and at least 25% of the votes cast in 24 of Nigeria's 36 states; president elected for a 4-year term (eligible for a second term); election last held on 25 February 2023 (next to be held on 25 February 2027)<br>
+_election results_: <em>2023</em>: Bola TINUBU elected president; percent of vote - Bola TINUBU (APC) 36%, Atiku ABUBAKAR (PDP) 29%, Peter OBI (LP) 25%, Rabiu KWANKWASO (NNPP) 6% (2019)<br>
 
 **Legislative branch**<br>
 _description_: bicameral National Assembly consists of:<br>Senate (109 seats - 3 each for the 36 states and 1 for Abuja-Federal Capital Territory; members directly elected in single-seat constituencies by simple majority vote to serve 4-year terms)<br>House of Representatives (360 seats; members directly elected in single-seat constituencies by simple majority vote to serve 4-year terms)<br>
-_elections_: Senate - last held on 23 February 2019 (next to be held on 25 February 2023)<br>House of Representatives - last held on 23 February 2019 (next to be held on 25 February 2023)<br>
-_election results_: Senate - percent of vote by party - NA; seats by party - APC 65, PDP 39, YPP 1, TBD 3; composition - men 101, women 8, percent of women 7.3%<br>House of Representatives - percent of vote by party - NA; seats by party - APC 217, PDP 115, other 20, TBD 8; composition - men 347, women 13, percent of women 3.6%; note - total National Assembly percent of women 4.5%<br>
+_elections_: Senate - last held on 25 February 2023 (next to be held on 25 February 2027)<br>House of Representatives - last held on 25 February 20239 (next to be held on 25 February 2027)<br>
+_election results_: Senate - percent of vote by party - NA; seats by party - APC 64, PDP 39, YPP 1, APGA 1, NNPP 1; composition - men 101, women 8, percent of women 7.3%<br>House of Representatives - percent of vote by party - NA; seats by party - APC 209, PDP 126, NNPP 8, APGA 5, SDP 5, LP 3, ADC 1, PRP 1, Accord 1; composition - men 347, women 13, percent of women 3.6%; note - total National Assembly percent of women 4.5%<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme Court (consists of the chief justice and 15 justices)<br>

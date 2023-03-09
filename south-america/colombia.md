@@ -305,9 +305,9 @@ Atlantic Ocean drainage: Amazon (6,145,186 sq km), Orinoco (953,675 sq km)<br>
 Amazon Basin<br>
 
 **Total water withdrawal**<br>
-_municipal_: 3.49 billion cubic meters (2017 est.)<br>
-_industrial_: 3.73 billion cubic meters (2017 est.)<br>
-_agricultural_: 6.391 billion cubic meters (2017 est.)<br>
+_municipal_: 3.61 billion cubic meters (2019 est.)<br>
+_industrial_: 3.3 billion cubic meters (2019 est.)<br>
+_agricultural_: 21 billion cubic meters (2019 est.)<br>
 
 **Total renewable water resources**<br>
 2.4 trillion cubic meters (2019 est.)<br>
@@ -392,7 +392,7 @@ _consulate(s) general_: Atlanta, Houston, Los Angeles, Miami, New York, Newark (
 _consulate(s)_: Boston, Chicago, San Francisco<br>
 
 **Diplomatic representation from the US**<br>
-_chief of mission_: Ambassador (vacant); Charge d'Affaires Francisco L. PALMIERI (since 1 June 2022)<br>
+_chief of mission_: Ambassador (vacant); Charg&eacute; d'Affaires Francisco L. PALMIERI (since 1 June 2022)<br>
 _embassy_: Carrera 45, No. 24B-27, Bogota<br>
 _mailing address_: 3030 Bogota Place, Washington DC&nbsp; 20521-3030<br>
 _telephone_: [57] (1) 275-2000<br>

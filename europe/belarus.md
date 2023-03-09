@@ -285,9 +285,9 @@ Dnieper (shared with Russia [s] and Ukraine [m]) - 2,287 km<br><strong>note</str
 Atlantic Ocean drainage: <em>(Black Sea) </em>Dnieper (533,966 sq km)<br>
 
 **Total water withdrawal**<br>
-_municipal_: 523 million cubic meters (2017 est.)<br>
-_industrial_: 443 million cubic meters (2017 est.)<br>
-_agricultural_: 431 million cubic meters (2017 est.)<br>
+_municipal_: 550 million cubic meters (2019 est.)<br>
+_industrial_: 440 million cubic meters (2019 est.)<br>
+_agricultural_: 370 million cubic meters (2019 est.)<br>
 
 **Total renewable water resources**<br>
 57.9 billion cubic meters (2019 est.)<br>
@@ -365,7 +365,7 @@ _subordinate courts_: oblast courts; Minsk City Court; town courts; Minsk city a
 BSEC (observer), CBSS (observer), CEI, CIS, CSTO, EAEC, EAEU, EAPC, EBRD, FAO, GCTU, IAEA, IBRD, ICAO, ICC (NGOs), ICRM, IDA, IFC, IFRCS, ILO, IMF, IMSO, Interpol, IOC, IOM, IPU, ISO, ITU, ITUC (NGOs), MIGA, NAM, NSG, OPCW, OSCE, PCA, PFP, SCO (dialogue member), UN, UNCTAD, UNESCO, UNIDO, UNIFIL, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO (observer), ZC<br>
 
 **Diplomatic representation in the US**<br>
-_chief of mission_: Ambassador (vacant; recalled by Belarus in 2008); Charge d'Affaires Pavel SHIDLOVSKY (since 9 August 2022)<br>
+_chief of mission_: Ambassador (vacant; recalled by Belarus in 2008); Charg&eacute; d'Affaires Pavel SHIDLOVSKY (since 9 August 2022)<br>
 _chancery_: 1619 New Hampshire Avenue NW, Washington, DC 20009<br>
 _telephone_: [1] (202) 986-1606<br>
 _FAX_: [1] (202) 986-1805<br>

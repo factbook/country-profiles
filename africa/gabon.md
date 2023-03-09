@@ -372,7 +372,7 @@ _FAX_: [1] (301) 332-0668<br>
 _email address and website_: <br>info@gaboneembassyusa.org<br><br>https://gabonembassyusa.org/en/<br>
 
 **Diplomatic representation from the US**<br>
-_chief of mission_: Ambassador (vacant); Charge d'Affaires Samuel R. WATSON; note - also accredited to Sao Tome and Principe<br>
+_chief of mission_: Ambassador (vacant); Charg&eacute; d'Affaires Samuel R. WATSON; note - also accredited to Sao Tome and Principe<br>
 _embassy_: Sabliere, B.P. 4000, Libreville<br>
 _mailing address_: 2270 Libreville Place, Washington, DC 20521-2270<br>
 _telephone_: [241] 011-45-71-00<br>

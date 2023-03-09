@@ -296,9 +296,9 @@ Mekong (shared with China [s], Burma, Thailand, Laos, and Vietnam [m]) - 4,350 k
 Pacific Ocean drainage: Mekong (805,604 sq km)<br>
 
 **Total water withdrawal**<br>
-_municipal_: 98 million cubic meters (2017 est.)<br>
-_industrial_: 33 million cubic meters (2017 est.)<br>
-_agricultural_: 2.053 billion cubic meters (2017 est.)<br>
+_municipal_: 100 million cubic meters (2019 est.)<br>
+_industrial_: 30 million cubic meters (2019 est.)<br>
+_agricultural_: 2.05 billion cubic meters (2019 est.)<br>
 
 **Total renewable water resources**<br>
 476.1 billion cubic meters (2019 est.)<br>

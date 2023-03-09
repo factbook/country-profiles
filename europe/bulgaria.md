@@ -283,9 +283,9 @@ Danube (shared with Germany [s], Austria, Slovakia, Czechia, Hungary, Croatia, S
 Atlantic Ocean drainage: <em>(Black Sea)</em> Danube (795,656 sq km)<br>
 
 **Total water withdrawal**<br>
-_municipal_: 882 million cubic meters (2017 est.)<br>
-_industrial_: 3.942 billion cubic meters (2017 est.)<br>
-_agricultural_: 834.5 million cubic meters (2017 est.)<br>
+_municipal_: 870 million cubic meters (2019 est.)<br>
+_industrial_: 3.76 billion cubic meters (2019 est.)<br>
+_agricultural_: 800 million cubic meters (2019 est.)<br>
 
 **Total renewable water resources**<br>
 21.3 billion cubic meters (2019 est.)<br>

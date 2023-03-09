@@ -377,7 +377,7 @@ _consulate(s) general_: Boston, Chicago, Glendale (CA), Mayaguez (Puerto Rico), 
 _consulate(s)_: San Francisco<br>
 
 **Diplomatic representation from the US**<br>
-_chief of mission_: Ambassador (vacant); Charge d'Affaires Robert W. THOMAS (since 20 January 2021)<br>
+_chief of mission_: Ambassador (vacant); Charg&eacute; d'Affaires Robert W. THOMAS (since 20 January 2021)<br>
 _embassy_: Av. Republica de Colombia #57, Santo Domingo<br>
 _mailing address_: 3470 Santo Domingo Place, Washington DC&nbsp; 20521-3470<br>
 _telephone_: (809) 567-7775<br>

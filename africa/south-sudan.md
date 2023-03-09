@@ -345,7 +345,7 @@ _FAX_: [1] (202) 644-9910<br>
 _email address and website_: <br>info.ssdembassy@gmail.com<br><br>https://www.southsudanembassyusa.org/<br>
 
 **Diplomatic representation from the US**<br>
-_chief of mission_: Ambassador (vacant); Charge d'Affaires William FLENS (since 4 June 2022)<br><br>
+_chief of mission_: Ambassador (vacant); Chargé d'Affaires William FLENS (since 4 June 2022)<br><br>
 _embassy_: Kololo Road adjacent to the EU's compound, Juba<br>
 _mailing address_: 4420 Juba Place, Washington DC&nbsp; 20521-4420<br>
 _telephone_: [211] 912-105-188<br>

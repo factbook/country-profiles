@@ -272,9 +272,9 @@ _coal revenues_: 0% of GDP (2018 est.)<br>
 _municipal solid waste generated annually_: 101,379 tons (2015 est.)<br>
 
 **Total water withdrawal**<br>
-_municipal_: 11.4 million cubic meters (2017 est.)<br>
-_industrial_: 21.2 million cubic meters (2017 est.)<br>
-_agricultural_: 68.4 million cubic meters (2017 est.)<br>
+_municipal_: 10 million cubic meters (2019 est.)<br>
+_industrial_: 20 million cubic meters (2019 est.)<br>
+_agricultural_: 70 million cubic meters (2019 est.)<br>
 
 **Total renewable water resources**<br>
 21.7 billion cubic meters (2019 est.)<br>
@@ -357,7 +357,7 @@ _consulate(s) general_: Los Angeles, New York (consular services temporarily sus
 _consulate(s)_: Miami<br>
 
 **Diplomatic representation from the US**<br>
-_chief of mission_: Ambassador (vacant); Charge d&rsquo;Affaires Leyla MOSES-ONES (since August 2021)<br>
+_chief of mission_: Ambassador (vacant); Chargé d’Affaires Leyla MOSES-ONES (since August 2021)<br>
 _embassy_: Floral Park Road, Belmopan, Cayo<br>
 _mailing address_: 3050 Belmopan Place, Washington DC&nbsp; 20521-3050<br>
 _telephone_: (501) 822-4011<br>

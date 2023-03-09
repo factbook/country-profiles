@@ -367,14 +367,14 @@ Cuban Communist Party or PCC [Miguel DIAZ-CANEL Bermudez]<br>
 ACP, ALBA, AOSIS, CELAC, EAEU (observer), FAO, G-77, IAEA, ICAO, ICC (national committees), ICRM, IFAD, IFRCS, IHO, ILO, IMO, IMSO, Interpol, IOC, IOM (observer), IPU, ISO, ITSO, ITU, LAES, LAIA, NAM, OAS (excluded from formal participation since 1962), OPANAL, OPCW, PCA, Petrocaribe, PIF (partner), UN, UNCTAD, UNESCO, UNHRC, UNIDO, Union Latina, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
 
 **Diplomatic representation in the US**<br>
-_chief of mission_: Ambassador (vacant); Charge d'Affaires Lianys TORRES RIVERA (since 14 January 2021)<br>
+_chief of mission_: Ambassador (vacant); Charg&eacute; d'Affaires Lianys TORRES RIVERA (since 14 January 2021)<br>
 _chancery_: 2630 16th Street NW, Washington, DC 20009<br>
 _telephone_: [1] (202) 797-8515 through 8518<br>
 _FAX_: [1] (202) 797-8521<br>
 _email address and website_: <br>recepcion@usadc.embacuba.cu<br><br>http://misiones.minrex.gob.cu/en/usa<br>
 
 **Diplomatic representation from the US**<br>
-_chief of mission_: Ambassador (vacant); Charge d'Affaires Timothy ZUNIGA-BROWN (since 31 July 2020)<br>
+_chief of mission_: Ambassador (vacant); Charg&eacute; d'Affaires Timothy ZUNIGA-BROWN (since 31 July 2020)<br>
 _embassy_: Calzada between L &amp; M Streets, Vedado, Havana<br>
 _mailing address_: 3200 Havana Place, Washington DC&nbsp; 20521-3200<br>
 _telephone_: [53] (7) 839-4100<br>
@@ -711,8 +711,8 @@ the FAR has a large role in the Cuban economy through several military owned and
 <p>US Naval Base at Guantanamo Bay is leased to US and only mutual agreement or US abandonment of the facility can terminate the lease</p><br>
 
 **Trafficking in persons**<br>
-_tier rating_: <p>Tier 3 — Cuba does not fully meet the minimum standards for the elimination of trafficking and is not making significant efforts to do so; the government made some efforts to investigate, prosecute, and convict sex traffickers and sex tourists and identified and provided assistance to some victims; however, no efforts were made to address forced labor; there was a government policy or pattern to profit from labor export programs with strong indications of forced labor, particularly in foreign medical missions; authorities did not protect potential trafficking victims, leaving them at risk of being detained or charged for crimes their traffickers forced them to commit (2020)</p><br>
-_trafficking profile_: human traffickers exploit domestic and foreign victims in Cuba and Cubans abroad; individuals are forced or coerced into participating and threatened to stay in labor export programs, most notably foreign medical missions; sex trafficking and sex tourism occur within Cuba; traffickers exploit Cubans in sex trafficking and forced labor in South America, the Caribbean, Asia, Africa, the Mediterranean, and the US; foreigners from Africa and Asia are subject to sex trafficking and forced labor in Cuba to pay off travel debts; the government uses high school students in some rural areas to harvest crops without pay, claiming that the work is voluntary<br>
+_tier rating_: <p>Tier 3 — Cuba does not fully meet the minimum standards for the elimination of trafficking and is not making significant efforts to do so; the government made some efforts to investigate, prosecute, and convict sex traffickers, and identify victims; however, there was a government policy or pattern to profit from labor export programs with strong indications of forced labor, particularly in its foreign medical missions program; the government continued to deploy Cuban workers to foreign countries using deceptive and coercive tactics, and failed to address an increasing number of allegations from credible NGOs and foreign governments of labor violations and trafficking, and of Cuban officials’ involvement in abuses; Cuban law did not explicitly prohibit labor trafficking as defined in international law (2022)</p><br>
+_trafficking profile_: human traffickers exploit domestic and foreign victims in Cuba and Cubans abroad; individuals are forced or coerced into participating and threatened to stay in labor export programs, most notably foreign medical missions; sex trafficking and sex tourism, including child victims, occur within Cuba; traffickers exploit Cubans in sex trafficking and forced labor in Africa, Asia, the Caribbean, the Mediterranean, Latin America, and the United States; foreigners from Africa and Asia are subject to sex trafficking and forced labor in Cuba to pay off travel debts; officials identified children, young women, elderly, and disabled persons as the most vulnerable to trafficking; the government uses high school students in some rural areas to harvest crops without pay, claiming that the work is voluntary (2022)<br>
 
 **Illicit drugs**<br>
 <p>Cuba is not a major consumer, producer, or transit point of illicit drugs; strict policing on smuggling, production and consumption; prescription drug abuse is increasing</p><br>

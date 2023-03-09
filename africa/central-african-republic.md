@@ -305,8 +305,8 @@ Atlantic Ocean drainage: Congo (3,730,881 sq km), <em>(Mediterranean Sea)</em> N
 Congo Basin, Lake Chad Basin<br>
 
 **Total water withdrawal**<br>
-_municipal_: 60.1 million cubic meters (2017 est.)<br>
-_industrial_: 12 million cubic meters (2017 est.)<br>
+_municipal_: 60 million cubic meters (2019 est.)<br>
+_industrial_: 10 million cubic meters (2019 est.)<br>
 _agricultural_: 400,000 cubic meters (2017 est.)<br>
 
 **Total renewable water resources**<br>

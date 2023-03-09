@@ -407,7 +407,7 @@ _email address and website_: <br>Washingtonembbmorocco@maec.gov.ma<br><br>https:
 _consulate(s) general_: New York<br>
 
 **Diplomatic representation from the US**<br>
-_chief of mission_: Ambassador (vacant); Charge d'Affaires Lawrence M. RANDOLPH (since 4 January 2021)<br>
+_chief of mission_: Ambassador (vacant); Charg&eacute; d'Affaires Lawrence M. RANDOLPH (since 4 January 2021)<br>
 _embassy_: Km 5.7 Avenue Mohammed VI, Souissi, Rabat 10170<br>
 _mailing address_: 9400 Rabat Place, Washington DC&nbsp; 20521-9400<br>
 _telephone_: [212] 0537-637-200<br>

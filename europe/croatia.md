@@ -379,7 +379,7 @@ _consulate(s) general_: Chicago, Los Angeles, New York, Seattle (WA), Washington
 _consulate(s)_: Anchorage (AL), Houston, Kansas City (MO), New Orleans, Pittsburgh (PA)<br>
 
 **Diplomatic representation from the US**<br>
-_chief of mission_: Ambassador (vacant); Charge d'Affaires Mark FLEMING (since May 2021)<br>
+_chief of mission_: Ambassador (vacant); Charg&eacute; d'Affaires Mark FLEMING (since May 2021)<br>
 _embassy_: Ulica Thomasa Jeffersona 2, 10010 Zagreb<br>
 _mailing address_: 5080 Zagreb Place, Washington DC&nbsp; 20521-5080<br>
 _telephone_: [385] (1) 661-2200<br>

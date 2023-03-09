@@ -346,7 +346,7 @@ _residency requirement for naturalization_: 5 years<br>
 18 years of age; universal<br>
 
 **Executive branch**<br>
-_chief of state_: Interim President Vo Thi Anh XUAN (President Nguyen Xuan PHUC resigned on 17 January 2023)<br>
+_chief of state_: President Vo Van THUONG (since March 2023)<br>
 _head of government_: Prime Minister Pham Minh CHINH (since 26 July 2021)<br>
 _cabinet_: Cabinet proposed by prime minister confirmed by the National Assembly and appointed by the president<br>
 _elections/appointments_: president indirectly elected by National Assembly from among its members for a single 5-year term; prime minister recommended by the president and confirmed by National Assembly; deputy prime ministers confirmed by the National Assembly and appointed by the president<br>

@@ -405,7 +405,7 @@ _email address and website_: <br>minca.washington@mea.gov.in (community affairs)
 _consulate(s) general_: Atlanta, Chicago, Houston, New York, San Francisco<br>
 
 **Diplomatic representation from the US**<br>
-_chief of mission_: Ambassador (vacant); Charge d'Affaires Patricia A. LACINA (since 9 September 2021)<br>
+_chief of mission_: Ambassador (vacant); Charg&eacute; d'Affaires Patricia A. LACINA (since 9 September 2021)<br>
 _embassy_: Shantipath, Chanakyapuri, New Delhi - 110021<br>
 _mailing address_: 9000 New Delhi Place, Washington DC&nbsp; 20521-9000<br>
 _telephone_: [91] (11) 2419-8000<br>
@@ -769,7 +769,7 @@ Harakat ul-Mujahidin; Harakat ul-Jihad-i-Islami; Hizbul Mujahideen; Indian Mujah
 <p><em>India-China:</em> since China and India launched a security and foreign policy dialogue in 2005, consolidated discussions related to the dispute over most of their rugged, militarized boundary, regional nuclear proliferation, Indian claims that China transferred missiles to Pakistan, and other matters continue; Kashmir remains the site of the world's largest and most militarized territorial dispute with portions under the de facto administration of China (Aksai Chin), India (Jammu and Kashmir), and Pakistan (Azad Kashmir and Northern Areas)</p> <p><em>India-Pakistan:</em> India and Pakistan resumed bilateral dialogue in February 2011 after a two-year hiatus, have maintained the 2003 cease-fire in Kashmir, and continue to have disputes over water sharing of the Indus River and its tributaries; UN Military Observer Group in India and Pakistan has maintained a small group of peacekeepers since 1949; India does not recognize Pakistan's ceding historic Kashmir lands to China in 1964; to defuse tensions and prepare for discussions on a maritime boundary, India and Pakistan seek technical resolution of the disputed boundary in Sir Creek estuary at the mouth of the Rann of Kutch in the Arabian Sea; Pakistani maps continue to show its Junagadh claim in Indian Gujarat State</p> <p><em>India-Bangladesh:</em> Prime Minister SINGH's September 2011 visit to Bangladesh resulted in the signing of a Protocol to the 1974 Land Boundary Agreement between India and Bangladesh, which had called for the settlement of longstanding boundary disputes over un-demarcated areas and the exchange of territorial enclaves, but which had never been implemented; Bangladesh referred its maritime boundary claims with Burma and India to the International Tribunal on the Law of the Sea</p> <p><em>India-Nepal:</em> the Joint Border Committee with Nepal continues to examine contested boundary sections, including the 400 sq km dispute over the source of the Kalapani River; India maintains a strict border regime to keep out Maoist insurgents and control illegal cross-border activities from Nepal</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 92,131 (Sri Lanka), 72,315 (Tibet/China), 64,380 (Burma), 10,064 (Afghanistan) (mid-year 2022)<br>
+_refugees (country of origin)_: 92,131 (Sri Lanka), 72,315 (Tibet/China), 64,380 (Burma) (refugees and asylum seekers), 10,064 (Afghanistan) (mid-year 2022)<br>
 _IDPs_: 506,000 (armed conflict and intercommunal violence) (2021)<br>
 _stateless persons_: 20,330 (2022)<br>
 

@@ -300,9 +300,9 @@ _percent of municipal solid waste recycled_: 25% (2005 est.)<br>
 Atlantic Ocean drainage: Niger (2,261,741 sq km), Volta (410,991 sq km)<br>
 
 **Total water withdrawal**<br>
-_municipal_: 145 million cubic meters (2017 est.)<br>
-_industrial_: 30 million cubic meters (2017 est.)<br>
-_agricultural_: 59 million cubic meters (2017 est.)<br>
+_municipal_: 150 million cubic meters (2019 est.)<br>
+_industrial_: 30 million cubic meters (2019 est.)<br>
+_agricultural_: 60 million cubic meters (2019 est.)<br>
 
 **Total renewable water resources**<br>
 26.4 billion cubic meters (2019 est.)<br>
@@ -617,16 +617,16 @@ _Total energy consumption per capita 2019_: 8.468 million Btu/person (2019 est.)
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 32,386 (2020 est.)<br>
-_subscriptions per 100 inhabitants_: (2020 est.) less than 1<br>
+_total subscriptions_: 11,493 (2021 est.)<br>
+_subscriptions per 100 inhabitants_: (2021 est.) less than 1<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 11,140,891 (2020 est.)<br>
-_subscriptions per 100 inhabitants_: 92 (2020 est.)<br>
+_total subscriptions_: 12,731,782 (2021 est.)<br>
+_subscriptions per 100 inhabitants_: 98 (2021 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: Benin&rsquo;s telecom market continues to be restricted by the poor condition of the country&rsquo;s fixed-line infrastructure; this has hampered the development of fixed-line voice and internet services, and there is negligible revenue derived from these sectors; mobile networks account for almost all internet connections, and also carry most voice traffic; there is promise for considerable change in the mobile sector; slow progress is being made in developing competition in the mobile sector; in May 2021 the government sought foreign companies to bid for a fourth mobile license; improved international internet connectivity has contributed to a reduction in end-user pricing, and provided the potential to transform many areas of the country&rsquo;s economy, bringing a greater proportion of the population into the orbit of internet commerce and connectivity; a 2,000km fiber project started in 2016 was finally completed in mid-2021, prompting the government to secure a loan to build additional fiber infrastructure connecting four of the country&rsquo;s 12 departments (2022)<br>
-_domestic_: fixed-line teledensity only about 1 per 100 persons; spurred by the presence of multiple mobile-cellular providers, cellular telephone subscribership has increased rapidly, nearing 92 per 100 persons (2020)<br>
+_domestic_: fixed-line teledensity less than 1 per 100 people; mobile cellular subscriptions are 98 per 100 people (2021)<br>
 _international_: country code - 229; landing points for the SAT-3/WASC and ACE fiber-optic submarine cable that provides connectivity to Europe, and&nbsp;most West African countries; satellite earth stations - 7 (Intelsat-Atlantic Ocean) (2019)<br>
 <strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress toward 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>
 

@@ -295,9 +295,9 @@ Atlantic Ocean drainage: Orange (941,351 sq km)<br>Indian Ocean drainage: Zambez
 Lower Kalahari-Stampriet Basin, Upper Kalahari-Cuvelai-Upper Zambezi Basin<br>
 
 **Total water withdrawal**<br>
-_municipal_: 100.6 million cubic meters (2017 est.)<br>
-_industrial_: 23.4 million cubic meters (2017 est.)<br>
-_agricultural_: 69 million cubic meters (2017 est.)<br>
+_municipal_: 100 million cubic meters (2019 est.)<br>
+_industrial_: 30 million cubic meters (2019 est.)<br>
+_agricultural_: 70 million cubic meters (2019 est.)<br>
 
 **Total renewable water resources**<br>
 12.2 billion cubic meters (2019 est.)<br>
@@ -381,7 +381,7 @@ _email address and website_: <br>info@botswanaembassy.org<br><br>http://www.bots
 _consulate(s) general_: Atlanta<br>
 
 **Diplomatic representation from the US**<br>
-_chief of mission_: Ambassador (vacant); Charge d'Affaires Amanda S. JACOBSEN<br>
+_chief of mission_: Ambassador (vacant); Chargé d'Affaires Amanda S. JACOBSEN<br>
 _embassy_: Embassy Drive, Government Enclave (off Khama Crescent), Gaborone<br>
 _mailing address_: 2170 Gabarone Place, Washington DC&nbsp; 20521-2170<br>
 _telephone_: [267] 395-3982<br>

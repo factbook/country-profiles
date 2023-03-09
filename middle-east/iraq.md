@@ -381,7 +381,7 @@ Al Fatah Alliance [Hadi al-AMIRI]<br>Azm Alliance [Khamis al-KHANJAR]<br>Babylon
 ABEDA, AFESD, AMF, CAEU, CICA, EITI (compliant country), FAO, G-77, IAEA, IBRD, ICAO, ICRM, IDA, IDB, IFAD, IFC, IFRCS, ILO, IMF, IMO, IMSO, Interpol, IOC, IPU, ISO, ITSO, ITU, LAS, MIGA, NAM, OAPEC, OIC, OPCW, OPEC, PCA, UN, UNCTAD, UNESCO, UNIDO, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO (observer)<br>
 
 **Diplomatic representation in the US**<br>
-_chief of mission_: Ambassador (vacant); Charge d'Affaires Mohammed Husham Malik AL FITYAN (since 22 March 2022)<br>
+_chief of mission_: Ambassador (vacant); Charg&eacute; d'Affaires Mohammed Husham Malik AL FITYAN (since 22 March 2022)<br>
 _chancery_: 3421 Massachusetts Avenue NW, Washington, DC 20007<br>
 _telephone_: [1] (202) 742-1600<br>
 _FAX_: [1] (202) 333-1129<br>

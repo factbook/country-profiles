@@ -414,7 +414,7 @@ _consulate(s) general_: Los Angeles<br>
 _consulate(s)_: New York<br>
 
 **Diplomatic representation from the US**<br>
-_chief of mission_: Ambassador (vacant); Charge d'Affaires Ambassador Tracey Ann JACOBSON (since 25 February 2022)<br>
+_chief of mission_: Ambassador (vacant); Charg&eacute; d'Affaires Ambassador Tracey Ann JACOBSON (since 25 February 2022)<br>
 _embassy_: Entoto Street, P.O. Box 1014, Addis Ababa<br>
 _mailing address_: 2030 Addis Ababa Place, Washington DC&nbsp; 20521-2030<br>
 _telephone_: [251] 111-30-60-00<br>

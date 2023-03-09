@@ -325,7 +325,7 @@ Concerned Citizens Movement or CCM [Mark BRANTLEY]<br>Nevis Reformation Party or
 ACP, AOSIS, C, Caricom, CDB, CELAC, FAO, G-77, IBRD, ICAO, ICCt, ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, IMO, Interpol, IOC, ITU, MIGA, OAS, OECS, OPANAL, OPCW, Petrocaribe, UN, UNCTAD, UNESCO, UNIDO, UPU, WHO, WIPO, WTO<br>
 
 **Diplomatic representation in the US**<br>
-_chief of mission_: Ambassador (vacant); Charge d&rsquo;Affaires Shanelle Natasha SIMMONDS (since 26 August 2022)<br>
+_chief of mission_: Ambassador (vacant); Charg&eacute; d&rsquo;Affaires Shanelle Natasha SIMMONDS (since 26 August 2022)<br>
 _chancery_: 1203 19th St. NW, 5th Floor, Washington, DC 20036<br>
 _telephone_: [1] (202) 686-2636<br>
 _FAX_: [1] (202) 686-5740<br>

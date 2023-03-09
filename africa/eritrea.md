@@ -352,14 +352,14 @@ People's Front for Democracy and Justice or PFDJ [ISAIAS Afwerki] (the only part
 ACP, AfDB, AU, COMESA, FAO, G-77, IAEA, IBRD, ICAO, ICC (NGOs), IDA, IFAD, IFC, IFRCS (observer), ILO, IMF, IMO, Interpol, IOC, ISO (correspondent), ITU, ITUC (NGOs), LAS (observer), MIGA, NAM, OPCW, PCA, UN, UNCTAD, UNESCO, UNHRC, UNIDO, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO<br>
 
 **Diplomatic representation in the US**<br>
-_chief of mission_: Ambassador (vacant); Charge d'Affaires Berhane Gebrehiwet SOLOMON (since 15 March 2011)<br>
+_chief of mission_: Ambassador (vacant); Charg&eacute; d'Affaires Berhane Gebrehiwet SOLOMON (since 15 March 2011)<br>
 _chancery_: 1708 New Hampshire Avenue NW, Washington, DC 20009<br>
 _telephone_: [1] (202) 319-1991<br>
 _FAX_: [1] (202) 319-1304<br>
 _email address and website_: <br>embassyeritrea@embassyeritrea.org<br><br>https://us.embassyeritrea.org/<br>
 
 **Diplomatic representation from the US**<br>
-_chief of mission_: Ambassador (vacant); Charge d'Affaires Steven C. WALKER (since December 2019)<br>
+_chief of mission_: Ambassador (vacant); Charg&eacute; d'Affaires Steven C. WALKER (since December 2019)<br>
 _embassy_: 179 Alaa Street, Asmara<br>
 _mailing address_: 7170 Asmara Place, Washington DC&nbsp; 20521-7170<br>
 _telephone_: [291] (1) 12-00-04<br>
@@ -683,6 +683,6 @@ the EDF’s primary responsibilities are external defense, border security, and 
 <p>Eritrea and Ethiopia agreed to abide by 2002 Ethiopia-Eritrea Boundary Commission's (EEBC) delimitation decision, but neither party responded to the revised line detailed in the November 2006 EEBC Demarcation Statement; Sudan accuses Eritrea of supporting eastern Sudanese rebel groups; in 2008, Eritrean troops moved across the border on Ras Doumera peninsula and occupied Doumera Island with undefined sovereignty in the Red Sea</p><br>
 
 **Trafficking in persons**<br>
-_tier rating_: Tier 3 &mdash; Eritrea does not fully meet the minimum standards for the elimination of trafficking and is not making significant efforts to do so; the government engaged in critical bilateral and multilateral partnerships to build its capacity for anti-trafficking initiatives; officials participated in a UN-sponsored regional anti-trafficking workshop and committed to produce a regional plan of action to combat trafficking; however, a government policy or pattern of forced labor existed; the government continued to subject its nationals to forced labor in its compulsory national service and citizen militia by forcing them to serve indefinitely or for arbitrary periods; authorities did not report any trafficking investigations, prosecutions, or convictions, including complicit government employees, nor did they report identifying victims and referring them to care; the government has no action plan to combat human trafficking (2020)<br>
-_trafficking profile_: human traffickers export domestic victims in Eritrea or abroad; National Service is mandatory at age 18 and may take a variety of forms, including military service and physical labor but also government office jobs and teaching; Eritreans who flee the country, usually with the aim of reaching Europe, seek the help of paid smugglers and are vulnerable to trafficking when they cross the border clandestinely into Sudan, Ethiopia, and to a lesser extent Djibouti; Eritreans are subject to forced labor and sex trafficking mainly in Sudan, Ethiopia, and Libya<br>
+_tier rating_: Tier 3 &mdash; Eritrea does not fully meet the minimum standards for the elimination of trafficking and is not making significant efforts to do so; a government policy or pattern of human trafficking existed; the government continued to exploit its nationals in forced labor in its compulsory national service and citizen militia by forcing them to serve indefinitely or for arbitrary periods; the government did not demonstrate any efforts to address human trafficking (2022)<br>
+_trafficking profile_: human traffickers exploit domestic victims in Eritrea and abroad; National Service is mandatory at age 18 and may take a variety of forms, including military service and physical labor but also government office jobs and teaching; the 18-month limit on compulsory national service was suspended since the 1998-2000 Eritrean-Ethiopian border conflict, blocking the demobilization of most individuals who are forced to serve indefinitely under threats of detention, torture, or familial reprisal; Eritreans who flee the country, usually with the aim of reaching Europe, seek the help of paid smugglers and are vulnerable to trafficking when they cross the border clandestinely into Sudan and Ethiopia; Eritreans are subject to forced labor and sex trafficking mainly in Sudan, Ethiopia, and Libya (2022)<br>
 

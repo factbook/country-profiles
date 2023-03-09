@@ -306,9 +306,9 @@ Indian Ocean drainage: Brahmaputra (651,335 sq km), Ganges (1,016,124 sq km)<br>
 Indus-Ganges-Brahmaputra Basin<br>
 
 **Total water withdrawal**<br>
-_municipal_: 3.6 billion cubic meters (2017 est.)<br>
-_industrial_: 770 million cubic meters (2017 est.)<br>
-_agricultural_: 31.5 billion cubic meters (2017 est.)<br>
+_municipal_: 3.6 billion cubic meters (2019 est.)<br>
+_industrial_: 770 million cubic meters (2019 est.)<br>
+_agricultural_: 31.5 billion cubic meters (2019 est.)<br>
 
 **Total renewable water resources**<br>
 1.227 trillion cubic meters (2019 est.)<br>

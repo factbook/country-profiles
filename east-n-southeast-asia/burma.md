@@ -308,9 +308,9 @@ Mekong (shared with China [s], Laos, Thailand, Cambodia, and Vietnam [m]) - 4,35
 Indian Ocean drainage: Brahmaputra (651,335 sq km), Ganges (1,016,124 sq km), Irrawaddy (413,710 sq km), Salween (271,914 sq km)<br>Pacific Ocean drainage: Mekong (805,604 sq km)<br>
 
 **Total water withdrawal**<br>
-_municipal_: 3.323 billion cubic meters (2017 est.)<br>
-_industrial_: 498.4 million cubic meters (2017 est.)<br>
-_agricultural_: 29.57 billion cubic meters (2017 est.)<br>
+_municipal_: 3.32 billion cubic meters (2019 est.)<br>
+_industrial_: 500 million cubic meters (2019 est.)<br>
+_agricultural_: 29.57 billion cubic meters (2019 est.)<br>
 
 **Total renewable water resources**<br>
 1 trillion cubic meters (2019 est.)<br>
@@ -391,7 +391,7 @@ Arakan National Party or ANP [THAR TUN HLA]<br>Democratic Party or DP [U THU WAI
 ADB, ARF, ASEAN, BIMSTEC, CP, EAS, EITI (candidate country), FAO, G-77, IAEA, IBRD, ICAO, ICRM, IDA, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ISO (correspondent), ITU, ITUC (NGOs), NAM, OPCW (signatory), SAARC (observer), UN, UNCTAD, UNESCO, UNIDO, UNWTO, UPU, WCO, WHO, WIPO, WMO, WTO<br>
 
 **Diplomatic representation in the US**<br>
-_chief of mission_: Ambassador (vacant); Charge d'Affaires HTWE Hteik Tin Lwin (since 5 February 2022)<br>
+_chief of mission_: Ambassador (vacant); Charg&eacute; d'Affaires HTWE Hteik Tin Lwin (since 5 February 2022)<br>
 _chancery_: 2300 S Street NW, Washington, DC 20008<br>
 _telephone_: [1] (202) 332-3344; [1] (202) 332-4250<br>
 _FAX_: [1] (202) 332-4351<br>
@@ -742,7 +742,7 @@ since the country's founding, the armed forces have been heavily involved in dom
 <p>over half of Burma's population consists of diverse ethnic groups who have substantial numbers of kin in neighboring countries; Bangladesh struggles to accommodate 912,000 Rohingya, Burmese Muslim minority from Rakhine State, living as refugees in Cox's Bazar; Burmese border authorities are constructing a 200 km (124 mi) wire fence designed to deter illegal cross-border transit and tensions from the military build-up along border with Bangladesh in 2010; Bangladesh referred its maritime boundary claims with Burma and India to the International Tribunal on the Law of the Sea; Burmese forces attempting to dig in to the largely autonomous Shan State to rout local militias tied to the drug trade, prompts local residents to periodically flee into neighboring Yunnan Province in China; fencing along the India-Burma international border at Manipur's Moreh town is in progress to check illegal drug trafficking and movement of militants; over 100,000 mostly Karen refugees and asylum seekers fleeing civil strife, political upheaval, and economic stagnation in Burma were living in remote camps in Thailand near the border as of May 2017</p><br>
 
 **Refugees and internally displaced persons**<br>
-_IDPs_: 671,011 (government offensives against armed ethnic minority groups near its borders with China and Thailand, natural disasters, forced land evictions) (2021)<br>
+_IDPs_: 1.66 million (government offensives against armed ethnic minority groups near its borders with China and Thailand, natural disasters, forced land evictions) (2023)<br>
 _stateless persons_: 600,000 (2022); note - Rohingya Muslims, living predominantly in Rakhine State, are Burma's main group of stateless people; the Burmese Government does not recognize the Rohingya as a "national race" and stripped them of their citizenship under the 1982 Citizenship Law, categorizing them as "non-nationals" or "foreign residents;" under the Rakhine State Action Plan drafted in October 2014, the Rohingya must demonstrate their family has lived in Burma for at least 60 years to qualify for a lesser naturalized citizenship and the classification of Bengali or be put in detention camps and face deportation; native-born but non-indigenous people, such as Indians, are also stateless; the Burmese Government does not grant citizenship to children born outside of the country to Burmese parents who left the country illegally or fled persecution, such as those born in Thailand; the number of stateless persons has decreased dramatically because hundreds of thousands of Rohingya have fled to Bangladesh since 25 August 2017 to escape violence<br>
 
 **Trafficking in persons**<br>

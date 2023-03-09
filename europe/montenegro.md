@@ -373,7 +373,7 @@ CE, CEI, EAPC, EBRD, FAO, IAEA, IBRD, ICAO, ICC (NGOs), ICCt, ICRM, IDA, IFC, IF
 <strong><strong>note: </strong></strong>Montenegro is an EU candidate country whose satisfactory completion of accession criteria is required before being granted full EU membership<br>
 
 **Diplomatic representation in the US**<br>
-_chief of mission_: Ambassador (vacant); Charge d'Affaires Nebojsa&nbsp;TODOROVIC (since 7 December 2022)<br>
+_chief of mission_: Ambassador (vacant); Charg&eacute; d'Affaires Nebojsa TODOROVIC (since 7 December 2022)<br>
 _chancery_: 1610 New Hampshire Avenue NW, Washington, DC, 20009<br>
 _telephone_: [1] (202) 234-6108<br>
 _FAX_: [1] (202) 234-6109<br>
@@ -716,7 +716,7 @@ Montenegro became a member of NATO in 2017; as of 2022, Greece and Italy provide
 **Refugees and internally displaced persons**<br>
 _refugees (country of origin)_: 34,170 (Ukraine) (as of 27 February 2023)<br>
 _stateless persons_: 468 (2022)<br>
-<strong>note:</strong> 29,537 estimated refugee and migrant arrivals (January 2015-February 2023)<br>
+<strong>note:</strong> 29,594 estimated refugee and migrant arrivals (January 2015-February 2023)<br>
 
 **Illicit drugs**<br>
 <p>drug trafficking groups are major players in the procurement and transportation of large quantities of cocaine  destined for  European markets</p><br>

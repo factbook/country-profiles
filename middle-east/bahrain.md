@@ -272,9 +272,9 @@ _percent of municipal solid waste recycled_: 8% (2012 est.)<br>
 Arabian Aquifer System<br>
 
 **Total water withdrawal**<br>
-_municipal_: 275.6 million cubic meters (2017 est.)<br>
-_industrial_: 14.1 million cubic meters (2017 est.)<br>
-_agricultural_: 144.7 million cubic meters (2017 est.)<br>
+_municipal_: 280 million cubic meters (2019 est.)<br>
+_industrial_: 10 million cubic meters (2019 est.)<br>
+_agricultural_: 140 million cubic meters (2019 est.)<br>
 
 **Total renewable water resources**<br>
 120 million cubic meters (2019 est.)<br>

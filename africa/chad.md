@@ -311,9 +311,9 @@ Atlantic Ocean drainage: Niger (2,261,741 sq km)<br>Internal <em>(endorheic basi
 Lake Chad Basin, Nubian Aquifer System<br>
 
 **Total water withdrawal**<br>
-_municipal_: 103.7 million cubic meters (2017 est.)<br>
-_industrial_: 103.7 million cubic meters (2017 est.)<br>
-_agricultural_: 672.2 million cubic meters (2017 est.)<br>
+_municipal_: 100 million cubic meters (2019 est.)<br>
+_industrial_: 100 million cubic meters (2019 est.)<br>
+_agricultural_: 670 million cubic meters (2019 est.)<br>
 
 **Total renewable water resources**<br>
 45.7 billion cubic meters (2019 est.)<br>
@@ -398,7 +398,7 @@ _FAX_: [1] (202) 265-1937<br>
 _email address and website_: <br>info@chadembassy.us<br><br>https://chadembassy.us/<br>
 
 **Diplomatic representation from the US**<br>
-_chief of mission_: Ambassador (vacant); Charge d'Affaires Ellen THORBURN (since 8 November 2021)<br>
+_chief of mission_: Ambassador (vacant); Chargé d'Affaires Ellen THORBURN (since 8 November 2021)<br>
 _embassy_: Rond-Point Chagoua, B.P. 413, N&rsquo;Djamena<br>
 _mailing address_: 2410 N'Djamena Place, Washington DC&nbsp; 20521-2410<br>
 _telephone_: [235] 2251-5017<br>
@@ -727,7 +727,7 @@ Boko Haram; Islamic State of Iraq and ash-Sham - West Africa (ISIS-WA)<br>
 <p>since 2003, ad hoc armed militia groups and the Sudanese military have driven hundreds of thousands of Darfur residents into Chad; Chad wishes to be a helpful mediator in resolving the Darfur conflict, and in 2010 established a joint border monitoring force with Sudan, which has helped to reduce cross-border banditry and violence; only Nigeria and Cameroon have heeded the Lake Chad Commission's admonition to ratify the delimitation treaty, which also includes the Chad-Niger and Niger-Nigeria boundaries</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 405,239 (Sudan), 124,545 (Central African Republic), 42,607 (Cameroon), 20,498 (Nigeria) (2023)<br>
+_refugees (country of origin)_: 405,239 (Sudan), 124,601 (Central African Republic), 42,607 (Cameroon), 20,694 (Nigeria) (2023)<br>
 _IDPs_: 381,289 (majority are in the east) (2023)<br>
 
 **Trafficking in persons**<br>

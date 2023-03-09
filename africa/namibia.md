@@ -388,7 +388,7 @@ _FAX_: [1] (202) 986-0443<br>
 _email address and website_: <br>info@namibiaembassyusa.org<br><br>https://namibiaembassyusa.org/<br>
 
 **Diplomatic representation from the US**<br>
-_chief of mission_: Ambassador (vacant); Charge d'Affaires Jessica LONG (since 2 July 2021)<br>
+_chief of mission_: Ambassador (vacant); Charg&eacute; d'Affaires Jessica LONG (since 2 July 2021)<br>
 _embassy_: 14 Lossen Street, Windhoek<br>
 _mailing address_: 2540 Windhoek Place, Washington DC&nbsp; 20521-2540<br>
 _telephone_: [264] (061) 295-8500<br>

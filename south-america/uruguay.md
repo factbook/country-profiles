@@ -377,7 +377,7 @@ _email address and website_: <br>urueeuu@mrree.gub.uy<br>
 _consulate(s) general_: Miami, New York, San Francisco<br>
 
 **Diplomatic representation from the US**<br>
-_chief of mission_: Ambassador (vacant); Charge d'Affaires Jennifer SAVAGE (since 20 January 2021)<br>
+_chief of mission_: Ambassador (vacant); Charg&eacute; d'Affaires Jennifer SAVAGE (since 20 January 2021)<br>
 _embassy_: Lauro Muller 1776, Montevideo 11200<br>
 _mailing address_: 3360 Montevideo Place, Washington DC&nbsp; 20521-3360<br>
 _telephone_: (+598) 1770-2000<br>

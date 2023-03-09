@@ -392,7 +392,7 @@ _FAX_: [1] (202) 483-6488<br>
 _email address and website_: <br>info@afghanembassy.us<br><br>https://www.afghanembassy.us/<br>
 
 **Diplomatic representation from the US**<br>
-_chief of mission_: Ambassador (vacant); Charge d&rsquo;Affaires: Ian McCARY (since August 2021); note &ndash; since 15 August 2021, the United States has not yet made a decision whether to recognize the Taliban or any other entity as the Government of Afghanistan<br>
+_chief of mission_: Ambassador (vacant); Chargé d’Affaires: Ian McCARY (since August 2021); note – since 15 August 2021, the United States has not yet made a decision whether to recognize the Taliban or any other entity as the Government of Afghanistan<br>
 _embassy_: Embassy Kabul, operations have been suspended; Department of State’s Afghanistan Affairs Unit operates from Doha, Qatar. <p> </p> <p> </p> <p> </p> <p> </p><br>
 
 **Flag description**<br>

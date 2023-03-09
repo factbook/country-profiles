@@ -305,9 +305,9 @@ _salt water lake(s)_: Lagune Aby - 780 sq km<br>
 Atlantic Ocean drainage: Niger (2,261,741 sq km), Volta (410,991 sq km)<br>
 
 **Total water withdrawal**<br>
-_municipal_: 320 million cubic meters (2017 est.)<br>
-_industrial_: 242 million cubic meters (2017 est.)<br>
-_agricultural_: 600 million cubic meters (2017 est.)<br>
+_municipal_: 340 million cubic meters (2019 est.)<br>
+_industrial_: 240 million cubic meters (2019 est.)<br>
+_agricultural_: 600 million cubic meters (2019 est.)<br>
 
 **Total renewable water resources**<br>
 84.1 billion cubic meters (2019 est.)<br>

@@ -317,9 +317,9 @@ Atlantic Ocean drainage: Congo (3,730,881 sq km), Niger (2,261,741 sq km)<br>Int
 Lake Chad Basin<br>
 
 **Total water withdrawal**<br>
-_municipal_: 246.8 million cubic meters (2017 est.)<br>
-_industrial_: 104.6 million cubic meters (2017 est.)<br>
-_agricultural_: 737 million cubic meters (2017 est.)<br>
+_municipal_: 250 million cubic meters (2019 est.)<br>
+_industrial_: 100 million cubic meters (2019 est.)<br>
+_agricultural_: 740 million cubic meters (2019 est.)<br>
 
 **Total renewable water resources**<br>
 283.2 billion cubic meters (2019 est.)<br>

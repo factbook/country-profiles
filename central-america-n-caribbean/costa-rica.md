@@ -285,9 +285,9 @@ _municipal solid waste recycled annually_: 18,396 tons (2014 est.)<br>
 _percent of municipal solid waste recycled_: 1.3% (2014 est.)<br>
 
 **Total water withdrawal**<br>
-_municipal_: 652 million cubic meters (2017 est.)<br>
-_industrial_: 240 million cubic meters (2017 est.)<br>
-_agricultural_: 2.302 billion cubic meters (2017 est.)<br>
+_municipal_: 240 million cubic meters (2019 est.)<br>
+_industrial_: 220 million cubic meters (2019 est.)<br>
+_agricultural_: 1.96 billion cubic meters (2019 est.)<br>
 
 **Total renewable water resources**<br>
 113 billion cubic meters (2019 est.)<br>
@@ -700,7 +700,7 @@ no regular military forces; Ministry of Public Security: the Public Force (Fuerz
 12,500 Public Force personnel; approximately 500-600 Air, 500-600 Coast Guard, and 300-400 Border Police personnel (2022)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the Public Force is lightly armed with an inventory that includes mostly second-hand US equipment (2022)<br>
+the Public Force is lightly armed with an inventory that includes mostly secondhand US equipment (2023)<br>
 
 **Military - note**<br>
 Costa Rica relies on specialized paramilitary units within the Ministry of Public Security (MPS) for internal security missions and countering transnational threats such as narcotics smuggling and organized crime, as well as for participating in regional security operations and exercises; MPS forces have received advisory and training support from both Colombia and the US; since 2012, the US has also provided some military equipment, including aircraft and patrol boats (2022)<br>

@@ -304,9 +304,9 @@ Volta river source (shared with Ghana [m]) - 1,600 km<br><strong>note</strong> â
 Atlantic Ocean drainage: Niger (2,261,741 sq km), Volta (410,991 sq km)<br>
 
 **Total water withdrawal**<br>
-_municipal_: 375.6 million cubic meters (2017 est.)<br>
-_industrial_: 21.7 million cubic meters (2017 est.)<br>
-_agricultural_: 420.7 million cubic meters (2017 est.)<br>
+_municipal_: 380 million cubic meters (2019 est.)<br>
+_industrial_: 20 million cubic meters (2019 est.)<br>
+_agricultural_: 420 million cubic meters (2019 est.)<br>
 
 **Total renewable water resources**<br>
 13.5 billion cubic meters (2019 est.)<br>
@@ -382,7 +382,7 @@ Act Together [Kadre OUEDRAOGO]<br>African Democratic Rally/Alliance for Democrac
 ACP, AfDB, AU, CD, ECOWAS, EITI (compliant country), Entente, FAO, FZ, G-77, IAEA, IBRD, ICAO, ICC (NGOs), ICCt, ICRM, IDA, IDB, IFAD, IFC, IFRCS, ILO, IMF, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, MINUSMA, MONUSCO, NAM, OIC, OIF, OPCW, PCA, UN, UNAMID, UNCTAD, UNESCO, UNIDO, UNISFA, UNITAR, UNWTO, UPU, WADB (regional), WAEMU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
 
 **Diplomatic representation in the US**<br>
-_chief of mission_: Charge d'Affaires Hermann Yirigouin TOE (since 27 September 2022)<br>
+_chief of mission_: Ambassador (vacant); Charg&eacute; d'Affaires Hermann Yirigouin TOE (since 27 September 2022)<br>
 _chancery_: 2340 Massachusetts Avenue NW, Washington, DC 20008<br>
 _telephone_: [1] (202) 332-5577<br>
 _FAX_: [1] (202) 667-1882<br>

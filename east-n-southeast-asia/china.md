@@ -314,9 +314,9 @@ Pacific Ocean drainage: Amur (1,929,955 sq km), Huang He (944,970 sq km), Mekong
 North China Aquifer System (Huang Huai Hai Plain), Song-Liao Plain, Tarim Basin<br>
 
 **Total water withdrawal**<br>
-_municipal_: 79.4 billion cubic meters (2017 est.)<br>
-_industrial_: 133.5 billion cubic meters (2017 est.)<br>
-_agricultural_: 385.2 billion cubic meters (2017 est.)<br>
+_municipal_: 79.4 billion cubic meters (2019 est.)<br>
+_industrial_: 133.5 billion cubic meters (2019 est.)<br>
+_agricultural_: 385.2 billion cubic meters (2019 est.)<br>
 
 **Total renewable water resources**<br>
 2.8 trillion cubic meters (2019 est.)<br>

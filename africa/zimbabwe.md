@@ -394,7 +394,7 @@ _FAX_: [1] (202) 483-9326<br>
 _email address and website_: <br>general@zimembassydc.org<br><br>https://zimembassydc.org/<br>
 
 **Diplomatic representation from the US**<br>
-_chief of mission_: Ambassador (vacant); Charge d'Affaires Thomas R. HASTINGS (since August 2021)<br>
+_chief of mission_: Ambassador (vacant); Charg&eacute; d'Affaires Thomas R. HASTINGS (since August 2021)<br>
 _embassy_: 2 Lorraine Drive, Bluffhill, Harare<br>
 _mailing address_: 2180 Harare Place, Washington DC&nbsp; 20521-2180<br>
 _telephone_: [263] 867-701-1000<br>

@@ -347,7 +347,7 @@ NA<br><br>
 ABEDA, AfDB, AFESD, AMF, AMU, AU, BDEAC, CAEU, COMESA, FAO, G-77, IAEA, IBRD, ICAO, ICC (NGOs), ICRM, IDA, IDB, IFAD, IFC, IFRCS, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, LAS, LCBC, MIGA, NAM, OAPEC, OIC, OPCW, OPEC, PCA, UN, UNCTAD, UNESCO, UNHRC, UNIDO, UNSMIL, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO (observer)<br>
 
 **Diplomatic representation in the US**<br>
-_chief of mission_: Ambassador (vacant); Charge d'Affaires Khaled DAIEF (since 27 August 2021)<br>
+_chief of mission_: Ambassador (vacant); Charg&eacute; d'Affaires Khaled DAIEF (since 27 August 2021)<br>
 _chancery_: 1460 Dahlia Street NW, Washington, DC 20012<br>
 _telephone_: [1] (202) 944-9601<br>
 _FAX_: [1] (202) 944-9606<br>

@@ -329,7 +329,7 @@ _residency requirement for naturalization_: 20 years; 15 years if an Arab nation
 
 **Executive branch**<br>
 _chief of state_: Amir TAMIM bin Hamad Al Thani (since 25 June 2013)<br>
-_head of government_: Prime Minister and Minister of Interior Sheikh KHALID bin Khalifa bin Abdul Aziz Al Thani (since 28 January 2020);&nbsp; Deputy Prime Minister and Minister of State for Defense Affairs KHALID bin Mohamed AL Attiyah (since 14 November 2017); Deputy Prime Minister and Minister of Foreign Affairs MOHAMED bin Abdulrahman Al Thani (since 14 November 2017)<br>
+_head of government_: Prime Minister and Foreign Minister MUHAMMAD bin Abd al-Rahman Al Thani (since 7 March 2023); Deputy Prime Minister and Minister of State for Defense Affairs KHALID bin Mohamed AL Attiyah (since 14 November 2017)<br>
 _cabinet_: Council of Ministers appointed by the amir<br>
 _elections/appointments_: the monarchy is hereditary; prime minister and deputy prime minister appointed by the amir<br>
 
@@ -358,7 +358,7 @@ _email address and website_: <br>info.dc@mofa.gov.qa<br><br>https://washington.e
 _consulate(s) general_: Houston, Los Angeles<br>
 
 **Diplomatic representation from the US**<br>
-_chief of mission_: Ambassador (vacant); Charge d'Affaires Evyenia SIDEREAS<br>
+_chief of mission_: Ambassador (vacant); Charg&eacute; d'Affaires Evyenia SIDEREAS<br>
 _embassy_: 22 February Street, Al Luqta District, P.O. Box 2399, Doha<br>
 _mailing address_: 6130 Doha Place, Washington DC&nbsp; 20521-6130<br>
 _telephone_: [974] 4496-6000<br>

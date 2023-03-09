@@ -361,7 +361,7 @@ BSEC, CD, CE, CEI, CIS, EAEU (observer), EAPC, EBRD, FAO, GCTU, GUAM, IAEA, IBRD
 <strong>note</strong>: Moldova is an EU candidate country whose satisfactory completion of accession criteria is required before being granted full EU membership<br>
 
 **Diplomatic representation in the US**<br>
-_chief of mission_: Ambassador (vacant); Charge d'Affaires Carolina PEREBINOS (since 27 July 2022)<br>
+_chief of mission_: Ambassador (vacant); Charg&eacute; d'Affaires Carolina PEREBINOS (since 27 July 2022)<br>
 _chancery_: 2101 S Street NW, Washington, DC 20008<br>
 _telephone_: [1] (202) 667-1130<br>
 _FAX_: [1] (202) 667-2624<br>

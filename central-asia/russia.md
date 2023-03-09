@@ -404,7 +404,7 @@ _email address and website_: <br>rusembusa@mid.ru<br><br>https://washington.mid.
 _consulate(s) general_: Houston, New York<br>
 
 **Diplomatic representation from the US**<br>
-_chief of mission_: Ambassador (vacant); Charge d'Affaires Elizabeth ROOD (since 5 September 2022)<br>
+_chief of mission_: Ambassador (vacant); Charg&eacute; d'Affaires Elizabeth ROOD (since 5 September 2022)<br>
 _embassy_: <small>55,75566° N, 37,58028° E</small><br>
 _mailing address_: 5430 Moscow Place, Washington DC&nbsp; 20521-5430<br>
 _telephone_: [7] (495) 728-5000<br>

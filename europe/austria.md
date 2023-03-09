@@ -285,9 +285,9 @@ Danube (shared with Germany [s], Slovakia, Czechia, Hungary, Croatia, Serbia, Bu
 Atlantic Ocean drainage: Rhine-Maas (198,735 sq km), <em>(Black Sea)</em> Danube (795,656 sq km)<br>
 
 **Total water withdrawal**<br>
-_municipal_: 720 million cubic meters (2017 est.)<br>
-_industrial_: 2.695 billion cubic meters (2017 est.)<br>
-_agricultural_: 77.1 million cubic meters (2017 est.)<br>
+_municipal_: 720 million cubic meters (2019 est.)<br>
+_industrial_: 2.7 billion cubic meters (2019 est.)<br>
+_agricultural_: 720 million cubic meters (2019 est.)<br>
 
 **Total renewable water resources**<br>
 77.7 billion cubic meters (2019 est.)<br>
@@ -363,7 +363,7 @@ Austrian People's Party or OeVP [Karl NEHAMMER]<br>Communist Party of Austria or
 ADB (nonregional member), AfDB (nonregional member), Australia Group, BIS, BSEC (observer), CD, CE, CEI, CERN, EAPC, EBRD, ECB, EIB, EMU, ESA, EU, FAO, FATF, G-9, IADB, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IEA, IFAD, IFC, IFRCS, IGAD (partners), ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, MINURSO, NEA, NSG, OAS (observer), OECD, OIF (observer), OPCW, OSCE, Paris Club, PCA, PFP, Schengen Convention, SELEC (observer), UN, UNCTAD, UNESCO, UNFICYP, UNHCR, UNIDO, UNIFIL, UNTSO, UNWTO, UPU, Wassenaar Arrangement, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO, ZC<br>
 
 **Diplomatic representation in the US**<br>
-_chief of mission_: Charge d'Affaires Guenther SALZMANN (since 1 August 2022)<br>
+_chief of mission_: Ambassador (vacant); Charg&eacute; d'Affaires Guenther SALZMANN (since 1 August 2022)<br>
 _chancery_: 3524 International Court NW, Washington, DC 20008-3035<br>
 _telephone_: [1] (202) 895-6700<br>
 _FAX_: [1] (202) 895-6750<br>

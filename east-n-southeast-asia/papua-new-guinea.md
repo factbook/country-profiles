@@ -368,14 +368,14 @@ Advance PNG [Muglua DILU]<br>Allegiance Party or AP [Bryan KRAMER]<br>Destiny Pa
 ACP, ADB, AOSIS, APEC, ARF, ASEAN (observer), C, CD, CP, EITI (candidate country), FAO, G-77, IAEA, IBRD, ICAO, ICRM, IDA, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ISO (correspondent), ITSO, ITU, MIGA, NAM, OPCW, PIF, Sparteca, SPC, UN, UNCTAD, UNESCO, UNIDO, UNMISS, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
 
 **Diplomatic representation in the US**<br>
-_chief of mission_: Ambassador (vacant); Charge d&rsquo;Affaires Cephas KAYO, Minister (since 31 January 2018)<br>
+_chief of mission_: Ambassador (vacant); Charg&eacute; d&rsquo;Affaires Cephas KAYO, Minister (since 31 January 2018)<br>
 _chancery_: 1825 K Street NW, Suite 1010, Washington, DC 20006<br>
 _telephone_: [1] (202) 745-3680<br>
 _FAX_: [1] (202) 745-3679<br>
 _email address and website_: <br>info@pngembassy.org<br><br>http://www.pngembassy.org/<br>
 
 **Diplomatic representation from the US**<br>
-_chief of mission_: Ambassador (vacant); Charge d'Affaires Joe ZADROZNY (since 14 April 2022); note - also accredited to the Solomon Islands and Vanuatu<br>
+_chief of mission_: Ambassador (vacant); Charg&eacute; d'Affaires Joe ZADROZNY (since 14 April 2022); note - also accredited to the Solomon Islands and Vanuatu<br>
 _embassy_: P.O. Box 1492, Port Moresby<br>
 _mailing address_: 4240 Port Moresby Place, Washington DC&nbsp; 20521-4240<br>
 _telephone_: [675] 308-2100<br>

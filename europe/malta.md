@@ -354,7 +354,7 @@ _FAX_: [1] (202) 387-5470<br>
 _email address and website_: <br>maltaembassy.washington@gov.mt<br><br>https://foreignandeu.gov.mt/en/Embassies/ME_United_States/Pages/ME_United_States.aspx<br>
 
 **Diplomatic representation from the US**<br>
-_chief of mission_: Ambassador (vacant); Charge d'Affaires Gwendolyn "Wendy" GREEN (since August 2020)<br>
+_chief of mission_: Ambassador (vacant); Charg&eacute; d'Affaires Gwendolyn "Wendy" GREEN (since August 2020)<br>
 _embassy_: Ta' Qali National Park, Attard, ATD 4000<br>
 _mailing address_: 5800 Valletta Place, Washington DC&nbsp; 20521-5800<br>
 _telephone_: [356] 2561-4000<br>

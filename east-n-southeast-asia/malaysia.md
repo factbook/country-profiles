@@ -361,7 +361,7 @@ _subordinate courts_: Court of Appeal; High Court; Sessions Court; Magistrates' 
 ADB, APEC, ARF, ASEAN, BIS, C, CICA (observer), CP, D-8, EAS, FAO, G-15, G-77, IAEA, IBRD, ICAO, ICC (national committees), ICRM, IDA, IDB, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, MINURSO, MONUSCO, NAM, OIC, OPCW, PCA, PIF (partner), UN, UNAMID, UNCTAD, UNESCO, UNHRC, UNIDO, UNIFIL, UNISFA, UNMIL, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
 
 **Diplomatic representation in the US**<br>
-_chief of mission_: ambassador (vacant); Charge d'Affaires Fairuz Adli Mohd ROZALI (since 28 August 2021)<br>
+_chief of mission_: ambassador (vacant); Charg&eacute; d'Affaires Fairuz Adli Mohd ROZALI (since 28 August 2021)<br>
 _chancery_: 3516 International Court NW, Washington, DC 20008<br>
 _telephone_: [1] (202) 572-9700<br>
 _FAX_: [1] (202) 572-9882<br>

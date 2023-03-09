@@ -393,7 +393,7 @@ _email address and website_: <br>consulate@egyptembassy.net<br><br>https://www.e
 _consulate(s) general_: Chicago, Houston, Los Angeles, New York<br>
 
 **Diplomatic representation from the US**<br>
-_chief of mission_: Ambassador (vacant);&nbsp; Charge d'Affaires Daniel RUBINSTEIN (since 23 August 2022)<br>
+_chief of mission_: Ambassador (vacant); Charg&eacute; d'Affaires Daniel RUBINSTEIN (since 23 August 2022)<br>
 _embassy_: 5 Tawfik Diab St., Garden City, Cairo<br>
 _mailing address_: 7700 Cairo Place, Washington DC 20512-7700<br>
 _telephone_: [20-2] 2797-3300<br>

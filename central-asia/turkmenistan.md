@@ -683,7 +683,7 @@ _major seaport(s)_: Caspian Sea - Turkmenbasy<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Armed Forces of Turkmenistan: Land Forces, Navy, Air and Air Defense Forces; Federal Border Guard Service; Ministry of Internal Affairs: Internal Troops, national police (2022)<br>
+Armed Forces of Turkmenistan (aka Turkmen National Army): Land Forces, Navy, Air and Air Defense Forces; Ministry of Internal Affairs: Internal Troops, national police, Federal/State Border Guard Service (2022)<br>
 
 **Military expenditures**<br>
 1.9% of GDP (2019 est.) (approximately $1.54 billion)<br>
@@ -699,7 +699,7 @@ information varies; estimated 30,000 active duty troops (25,000 National Army; 1
 the inventory for Turkmenistan's military is comprised largely of older Russian and Soviet-era weapons systems; in recent years however, it has attempted to diversify and purchased equipment from more than a dozen countries, with Turkey as the top supplier (2022)<br>
 
 **Military service age and obligation**<br>
-18-30 years of age for compulsory male military service; 24-month conscript service obligation (30 months for the Navy); 20 years of age for voluntary service (including females); males may enroll in military schools from age 15 (2022)<br>
+18-27 years of age for compulsory male military service; 24-month conscript service obligation (30 months for the Navy); 20 years of age for voluntary service (including females); males may enroll in military schools from age 15 (2022)<br>
 
 **Military - note**<br>
 Turkmenistan has a policy of permanent neutrality and has declined to participate in post-Soviet military groupings such as the Collective Security Treaty Organization military alliance (CSTO) and the Shanghai Cooperation Organization (SCO); however, in September 2020, it participated in a Russian-led multinational military exercise held in southern Russia’s Astrakhan region alongside the forces of more than a dozen other countries; Turkmenistan joined NATO's Partnership for Peace program in 1994 and officials from Turkmenistan participate in a range of courses provided by NATO and NATO member states, but it does not offer any armed forces units to NATO-led operations<br><br>in recent years, Turkmenistan has made efforts to improve its naval capabilities on the Caspian Sea, including expanding ship building capabilities and adding larger vessels to the Navy’s inventory; in 2018, it opened its first naval shipyard and in August 2021, the Navy commissioned its largest warship, a corvette that was jointly constructed with Turkey (2023)<br>

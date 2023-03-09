@@ -309,7 +309,7 @@ Dominica Freedom Party or DFP [Bernard HURTAULT]<br>Dominica Labor Party or DLP 
 ACP, AOSIS, C, Caricom, CD, CDB, CELAC, Commonwealth of Nations, ECCU, FAO, G-77, IAEA, IBRD, ICCt, ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, IMO, Interpol, IOC, ISO (correspondent), ITU, ITUC (NGOs), MIGA, NAM, OAS, OECS, OIF, OPANAL, OPCW, Petrocaribe, UN, UNCTAD, UNESCO, UNIDO, UPU, WFTU, WHO, WIPO, WMO, WTO<br>
 
 **Diplomatic representation in the US**<br>
-_chief of mission_: Ambassador (vacant); Charge d'Affaires Judith-Anne ROLLE&nbsp;(since 16 December 2021)<br>
+_chief of mission_: Ambassador (vacant); Charg&eacute; d'Affaires Judith-Anne ROLLE (since 16 December 2021)<br>
 _chancery_: 3216 New Mexico Avenue NW, Washington, DC 20016<br>
 _telephone_: [1] (202) 364-6781<br>
 _FAX_: [1] (202) 364-6791<br>
