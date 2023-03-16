@@ -279,10 +279,10 @@ _urban population_: 82.4% of total population (2023)<br>
 _rate of urbanization_: 1.01% annual rate of change (2020-25 est.)<br>
 
 **Revenue from forest resources**<br>
-_forest revenues_: 0.1% of GDP (2018 est.)<br>
+0.1% of GDP (2018 est.)<br>
 
 **Revenue from coal**<br>
-_coal revenues_: 0.75% of GDP (2018 est.)<br>
+0.75% of GDP (2018 est.)<br>
 
 **Major infectious diseases**<br>
 _degree of risk_: high (2020)<br>
@@ -317,7 +317,7 @@ _agricultural_: 21 billion cubic meters (2019 est.)<br>
 **Country name**<br>
 _conventional long form_: Republic of Colombia<br>
 _conventional short form_: Colombia<br>
-_local long form_: Republica de Colombia<br>
+_local long form_: Rep&uacute;blica de Colombia<br>
 _local short form_: Colombia<br>
 _etymology_: the country is named after explorer Christopher COLUMBUS<br>
 
@@ -736,7 +736,7 @@ the military's inventory includes a wide mix of equipment from a variety of supp
 
 **Military service age and obligation**<br>
 18-24 years of age for compulsory (men) and voluntary (men and women) military service; conscript service obligation is 18 months; conscripted soldiers reportedly include regular soldiers (conscripts without a high school degree), drafted high school graduates (bachilleres), and rural (campesino) soldiers who serve in their home regions (2022)<br>
-<strong>note:</strong> in 2020, conscripts reportedly comprised about 50% of the Colombian military's active force with approximately 60-90,000 conscripts brought into the military annually<br>
+<strong>note 1:</strong> in 2020, conscripts reportedly comprised about 50% of the Colombian military's active force with more than 50,000 conscripts brought into the military annually<br><br>note 2: as of 2022, women comprised about 1% of the military<br>
 
 **Military deployments**<br>
 275 Egypt (MFO) (2022)<br>

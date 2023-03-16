@@ -271,10 +271,10 @@ _urban population_: 64.6% of total population (2023)<br>
 _rate of urbanization_: 1.29% annual rate of change (2020-25 est.)<br>
 
 **Revenue from forest resources**<br>
-_forest revenues_: 0.18% of GDP (2018 est.)<br>
+0.18% of GDP (2018 est.)<br>
 
 **Revenue from coal**<br>
-_coal revenues_: 0.03% of GDP (2018 est.)<br>
+0.03% of GDP (2018 est.)<br>
 
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 1,142,964 tons (2015 est.)<br>
@@ -678,7 +678,7 @@ _major seaport(s)_: Durres, Sarande, Shengjin, Vlore<br>
 
 **Military and security forces**<br>
 Republic of Albania Armed Forces (Forcat e Armatosura të Republikës së Shqipërisë (FARSH)): Land Forces, Navy Forces (includes Coast Guard), Air Forces<br><br>Ministry of Interior: Guard of the Republic, State Police (includes the Border and Migration Police) (2022)<br>
-<strong>note:</strong> the State Police are primarily responsible for internal security, while the Guard of the Republic protects senior state officials, foreign dignitaries, and certain state properties<br>
+<strong>note:</strong> the State Police are primarily responsible for internal security, including counterterrorism, while the Guard of the Republic protects senior state officials, foreign dignitaries, and certain state properties<br>
 
 **Military expenditures**<br>
 1.6% of GDP (2022 est.)<br>

@@ -210,10 +210,10 @@ _urban population_: 100% of total population (2023)<br>
 _rate of urbanization_: 1.46% annual rate of change (2020-25 est.)<br>
 
 **Revenue from forest resources**<br>
-_forest revenues_: 0% of GDP (2018 est.)<br>
+0% of GDP (2018 est.)<br>
 
 **Revenue from coal**<br>
-_coal revenues_: 0% of GDP (2018 est.)<br>
+0% of GDP (2018 est.)<br>
 
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 377,942 tons (2016 est.)<br>
@@ -587,8 +587,8 @@ defense is the responsibility of China; the Chinese People's Liberation Army (PL
 <p>none identified</p><br>
 
 **Trafficking in persons**<br>
-_tier rating_: Tier 2 Watch List &mdash; Macau does not fully meet the minimum standards for the elimination of trafficking but is making significant efforts to do so; the government trained police, customs, and social welfare officials on human trafficking, funded an awareness campaign, and provided services to victims; authorities convicted three sex traffickers but did not sentence anyone to significant prison terms; authorities investigated only one potential trafficking case and made no prosecutions; the government provided no assistance to any victims, and officials did not initiate any prosecutions or sentence convicted traffickers to significant terms of imprisonment; Macau was downgraded to Tier 2 Watch List (2020)<br>
-_trafficking profile_: Macau is a destination and, to a much lesser extent, source for women and children subjected to sex trafficking and possibly forced labor; most victims come from the Chinese mainland, but others are trafficked from China, Russia, and Southeast Asia; victims are lured in by false job offers and forced into prostitution, often being confined to massage parlors and illegal brothels where their identity documents are confiscated and they are threatened with violence; Chinese, Russian, and Thai criminal organizations are believed to be involved in recruiting women for Macau&rsquo;s commercial sex industry<br>
+_tier rating_: Tier 3 &mdash; Macau does not fully meet the minimum standards for the elimination of trafficking and is not making significant efforts to do so, therefore Macau was downgraded to Tier 3; the government took some steps to address trafficking, including investigating one potential case, disseminating awareness-raising materials, and maintaining guidelines for identifying and referring victims to services; however, for the third consecutive year officials did not identify or provide services to any victims, nor initiate any prosecutions; Macau has not convicted a trafficker since 2019 and has never identified a victim of forced labor (2022)<br>
+_trafficking profile_: human traffickers exploit foreign victims in Macau; traffickers recruit most victims from mainland China, Russia, and Southeast Asia using false job offers; adult and child victims are forced into commercial sex in casinos, hotels, and private homes, and sometimes have their documents confiscated; Casinos and other establishments reportedly allow staff to partner with criminal networks to facilitate sex trafficking; migrant construction and domestic workers, primarily from mainland China, Indonesia, and the Philippines may be vulnerable to forced labor in Macau (2022)<br>
 
 **Illicit drugs**<br>
 <p>asian organized crime groups involved in drug trafficking and money laundering</p><br>

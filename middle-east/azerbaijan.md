@@ -269,10 +269,10 @@ _rate of urbanization_: 1.38% annual rate of change (2020-25 est.)<br>
 <strong>note:</strong> data include Nagorno-Karabakh<br>
 
 **Revenue from forest resources**<br>
-_forest revenues_: 0.02% of GDP (2018 est.)<br>
+0.02% of GDP (2018 est.)<br>
 
 **Revenue from coal**<br>
-_coal revenues_: 0% of GDP (2018 est.)<br>
+0% of GDP (2018 est.)<br>
 
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 2,930,349 tons (2015 est.)<br>

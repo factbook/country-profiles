@@ -268,10 +268,10 @@ _urban population_: 80.7% of total population (2023)<br>
 _rate of urbanization_: 0.28% annual rate of change (2020-25 est.)<br>
 
 **Revenue from forest resources**<br>
-_forest revenues_: 1.02% of GDP (2018 est.)<br>
+1.02% of GDP (2018 est.)<br>
 
 **Revenue from coal**<br>
-_coal revenues_: 0% of GDP (2018 est.)<br>
+0% of GDP (2018 est.)<br>
 
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 4.28 million tons (2015 est.)<br>
@@ -719,7 +719,7 @@ Belarus has close security ties with Russia, including an integrated air and mis
 <p><em>Belarus-Latvia:</em> Boundary demarcated with Latvia.<br><br><em>Belarus-Lithuania:</em> Boundary demarcated with Lithuania.<br><br><em>Belarus-Poland:</em> As a member state that forms part of the EU's external border, Poland has implemented strict Schengen border rules to restrict illegal immigration and trade along its border with Belarus.</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 20,780 (Ukraine) (as of 21 February 2023)<br>
+_refugees (country of origin)_: 20,983 (Ukraine) (as of 28 February 2023)<br>
 _stateless persons_: 5,626 (2022)<br>
 
 **Trafficking in persons**<br>

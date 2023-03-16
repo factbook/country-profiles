@@ -274,10 +274,10 @@ _urban population_: 68.5% of total population (2023)<br>
 _rate of urbanization_: 0.45% annual rate of change (2020-25 est.)<br>
 
 **Revenue from forest resources**<br>
-_forest revenues_: 0.43% of GDP (2018 est.)<br>
+0.43% of GDP (2018 est.)<br>
 
 **Revenue from coal**<br>
-_coal revenues_: 0.12% of GDP (2018 est.)<br>
+0.12% of GDP (2018 est.)<br>
 
 **Major infectious diseases**<br>
 _degree of risk_: intermediate (2020)<br>
@@ -716,7 +716,7 @@ Montenegro became a member of NATO in 2017; as of 2022, Greece and Italy provide
 **Refugees and internally displaced persons**<br>
 _refugees (country of origin)_: 34,170 (Ukraine) (as of 27 February 2023)<br>
 _stateless persons_: 468 (2022)<br>
-<strong>note:</strong> 29,594 estimated refugee and migrant arrivals (January 2015-February 2023)<br>
+<strong>note:</strong> 29,642 estimated refugee and migrant arrivals (January 2015-March 2023)<br>
 
 **Illicit drugs**<br>
 <p>drug trafficking groups are major players in the procurement and transportation of large quantities of cocaine  destined for  European markets</p><br>

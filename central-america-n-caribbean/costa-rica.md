@@ -269,10 +269,10 @@ _urban population_: 82.6% of total population (2023)<br>
 _rate of urbanization_: 1.5% annual rate of change (2020-25 est.)<br>
 
 **Revenue from forest resources**<br>
-_forest revenues_: 0.82% of GDP (2018 est.)<br>
+0.82% of GDP (2018 est.)<br>
 
 **Revenue from coal**<br>
-_coal revenues_: 0% of GDP (2018 est.)<br>
+0% of GDP (2018 est.)<br>
 
 **Major infectious diseases**<br>
 _degree of risk_: intermediate (2020)<br>
@@ -297,7 +297,7 @@ _agricultural_: 1.96 billion cubic meters (2019 est.)<br>
 **Country name**<br>
 _conventional long form_: Republic of Costa Rica<br>
 _conventional short form_: Costa Rica<br>
-_local long form_: Republica de Costa Rica<br>
+_local long form_: Rep&uacute;blica de Costa Rica<br>
 _local short form_: Costa Rica<br>
 _etymology_: the name means "rich coast" in Spanish and was first applied in the early colonial period of the 16th century<br>
 

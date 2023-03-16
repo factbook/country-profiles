@@ -273,10 +273,10 @@ _urban population_: 71.6% of total population (2023)<br>
 _rate of urbanization_: 2.91% annual rate of change (2020-25 est.)<br>
 
 **Revenue from forest resources**<br>
-_forest revenues_: 0% of GDP (2018 est.)<br>
+0% of GDP (2018 est.)<br>
 
 **Revenue from coal**<br>
-_coal revenues_: 0% of GDP (2018 est.)<br>
+0% of GDP (2018 est.)<br>
 
 **Major infectious diseases**<br>
 _degree of risk_: intermediate (2020)<br>
@@ -707,7 +707,7 @@ _river port(s)_: Al Basrah (Shatt al Arab); Khawr az Zubayr, Umm Qasr (Khawr az 
 ## Military and Security
 
 **Military and security forces**<br>
-Ministry of Defense: Iraqi Army, Army Aviation Command, Iraqi Navy, Iraqi Air Force, Iraqi Air Defense Command, Special Forces Command, Special Security Division (Green Zone protection)<br><br>National-Level Security Forces: Iraqi Counterterrorism Service (CTS), Prime Minister's Special Forces Division, Presidential Brigades<br><br>Ministry of Interior: Federal Police Forces Command, Border Guard Forces Command, Federal Intelligence and Investigations Agency, Emergency Response Division, Facilities Protection Directorate, and Provincial Police<br><br>Ministry of Oil: Energy Police Directorate<br><br>Kurdistan Regional Government Ministry of Peshmerga: Regional Guard Brigades, Unit (or Division) 70 Forces, Unit (or Division) 80 Forces, special operations/counter-terrorism forces (Counter Terrorism Group, CTG and Counter Terrorism Directorate, CTD); note - Unit 70 and the CTG are associated with the Patriotic Union of Kurdistan (PUK) political party, while Unit 80 and the CTD are associated with the Kurdistan Democratic Party (KDP); Kurdistan Regional Government Ministry of Interior: Zeravani and Emergency Response Forces (paramilitary internal security forces)<br><br>Popular Mobilization Committee (PMC): Popular Mobilization Forces (PMF), Tribal Mobilization Forces (TMF); the PMF and TMF are a collection of approximately 60 militias of widely varied sizes and political interests (2022)<br>
+Ministry of Defense: Iraqi Army, Army Aviation Command, Iraqi Navy, Iraqi Air Force, Iraqi Air Defense Command, Special Forces Command, Special Security Division (Green Zone protection)<br><br>National-Level Security Forces: Iraqi Counterterrorism Service (CTS; reports to the Prime Minister), Prime Minister's Special Forces Division, Presidential Brigades<br><br>Ministry of Interior: Federal Police Forces Command, Border Guard Forces Command, Federal Intelligence and Investigations Agency, Emergency Response Division, Facilities Protection Directorate, and Provincial Police<br><br>Ministry of Oil: Energy Police Directorate<br><br>Kurdistan Regional Government Ministry of Peshmerga: Regional Guard Brigades, Unit (or Division) 70 Forces, Unit (or Division) 80 Forces, special operations/counter-terrorism forces (Counter Terrorism Group, CTG and Counter Terrorism Directorate, CTD); note - Unit 70 and the CTG are associated with the Patriotic Union of Kurdistan (PUK) political party, while Unit 80 and the CTD are associated with the Kurdistan Democratic Party (KDP); Kurdistan Regional Government Ministry of Interior: Zeravani and Emergency Response Forces (paramilitary internal security forces)<br><br>Popular Mobilization Committee (PMC): Popular Mobilization Forces (PMF), Tribal Mobilization Forces (TMF); the PMF and TMF are a collection of approximately 60 militias of widely varied sizes and political interests (2022)<br>
 
 **Military expenditures**<br>
 3.7% of GDP (2021 est.)<br>
@@ -741,7 +741,7 @@ Ansar al-Islam; Asa'ib Ahl al-Haq; Islamic Revolutionary Guard Corps (IRGC)/Qods
 <p><em>Iraq-Iran</em>: Iraq's lack of a maritime boundary with Iran prompts jurisdiction disputes beyond the mouth of the Shatt al Arab in the Persian Gulf</p> <p><em>Iraq-Turkey</em>: Turkey has expressed concern over the autonomous status of Kurds in Iraq</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 13,344 (Turkey), 7,864 (West Bank and Gaza Strip) (mid-year 2022); 259,584 (Syria) (2023)<br>
+_refugees (country of origin)_: 13,344 (Turkey), 7,864 (West Bank and Gaza Strip) (mid-year 2022); 260,341 (Syria) (2023)<br>
 _IDPs_: 1.17 million (displacement in central and northern Iraq since January 2014) (2023)<br>
 _stateless persons_: 47,253 (2022); note - in the 1970s and 1980s under SADDAM Husayn's regime, thousands of Iraq's Faili Kurds, followers of Shia Islam, were stripped of their Iraqi citizenship, had their property seized by the government, and many were deported; some Faili Kurds had their citizenship reinstated under the 2006 Iraqi Nationality Law, but others lack the documentation to prove their Iraqi origins; some Palestinian refugees persecuted by the SADDAM regime remain stateless<br>
 

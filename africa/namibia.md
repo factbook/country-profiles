@@ -273,10 +273,10 @@ _urban population_: 54.9% of total population (2023)<br>
 _rate of urbanization_: 3.64% annual rate of change (2020-25 est.)<br>
 
 **Revenue from forest resources**<br>
-_forest revenues_: 0.47% of GDP (2018 est.)<br>
+0.47% of GDP (2018 est.)<br>
 
 **Revenue from coal**<br>
-_coal revenues_: 0% of GDP (2018 est.)<br>
+0% of GDP (2018 est.)<br>
 
 **Major infectious diseases**<br>
 _degree of risk_: high (2020)<br>
@@ -717,7 +717,7 @@ the NDF's inventory consists of a mix of Soviet-era and some more modern systems
 <strong>note:</strong> as of 2018, women comprised more than 20% of the active duty military<br>
 
 **Military - note**<br>
-the Namibian Defense Force (NDF) was created in 1990, largely from demobilized former members of the People's Liberation Army of Namibia (PLAN) and the South West Africa Territorial Force (SWATF); PLAN was the armed wing of the South West Africa People&rsquo;s Organization (SWAPO), while SWATF was an auxiliary of the South African Defense Force and comprised the armed forces of the former South West Africa, 1977-1989; from 1990-1995, the British military assisted with the forming and training the NDF (2022)<br>
+the NDF’s primary responsibility is external security; it has participated in UN and regional peacekeeping and security missions and provides assistance to civil authorities as needed; it is a small and professional force that participates in multinational training exercises; the Army fields a largely mobile force centered on 3 small motorized infantry brigades and a reconnaissance regiment; the Navy has a Chinese-built multipurpose offshore patrol ship equipped with a helicopter landing platform and supported by several coastal patrol vessels, while the Air Force has a small inventory of aircraft, including a few Chinese-made fighters and Soviet-era attack helicopters <br><br>the NDF was created in 1990, largely from demobilized former members of the People's Liberation Army of Namibia (PLAN) and the South West Africa Territorial Force (SWATF); PLAN was the armed wing of the South West Africa People’s Organization (SWAPO), while SWATF was an auxiliary of the South African Defense Force and comprised the armed forces of the former South West Africa, 1977-1989; from 1990-1995, the British military assisted with the forming and training the NDF (2023)<br>
 
 ## Transnational Issues
 

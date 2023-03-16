@@ -266,10 +266,10 @@ _urban population_: 67% of total population (2023)<br>
 _rate of urbanization_: 0.76% annual rate of change (2020-25 est.)<br>
 
 **Revenue from forest resources**<br>
-_forest revenues_: 0% of GDP (2018 est.)<br>
+0% of GDP (2018 est.)<br>
 
 **Revenue from coal**<br>
-_coal revenues_: 0% of GDP (2018 est.)<br>
+0% of GDP (2018 est.)<br>
 
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 541,000 tons (2015 est.)<br>
@@ -277,9 +277,9 @@ _municipal solid waste recycled annually_: 72,007 tons (2015 est.)<br>
 _percent of municipal solid waste recycled_: 13.3% (2015 est.)<br>
 
 **Total water withdrawal**<br>
-_municipal_: 110 million cubic meters (2017 est.)<br>
-_industrial_: 17 million cubic meters (2017 est.)<br>
-_agricultural_: 184 million cubic meters (2017 est.)<br>
+_municipal_: 110 million cubic meters (2019 est.)<br>
+_industrial_: 20 million cubic meters (2019 est.)<br>
+_agricultural_: 170 million cubic meters (2019 est.)<br>
 
 **Total renewable water resources**<br>
 780 million cubic meters (2019 est.)<br>
@@ -700,7 +700,7 @@ Cypriot National Guard (CNG): 18-50 years of age for compulsory military service
 <strong>note:</strong> the CNG accepts all foreign nationals of at least partial Cypriot descent under age 32 as volunteers; dual citizenship Cypriot origin citizens, who were born in Cyprus or abroad, have the obligation to serve in the CNG on repatriation, regardless of whether or not they possess a foreign citizenship; a person is considered as having Cypriot origin where a grandparent or parent was/is a Cypriot citizen<br>
 
 **Military - note**<br>
-the United Nations Peacekeeping Force in Cyprus (UNFICYP) was set up in 1964 to prevent further fighting between the Greek Cypriot and Turkish Cypriot communities on the island and bring about a return to normal conditions; the UNFICYP mission had about 800 personnel as of mid-2022<br>
+the United Nations Peacekeeping Force in Cyprus (UNFICYP) was set up in 1964 to prevent further fighting between the Greek Cypriot and Turkish Cypriot communities on the island and bring about a return to normal conditions; the UN force patrols a buffer zone, also called the &ldquo;Green Line,&rdquo; that separates the two sides; the UNFICYP mission has about 800-1,000 personnel&nbsp; (2022)<br>
 
 ## Terrorism
 

@@ -267,10 +267,10 @@ _urban population_: 69.5% of total population (2023)<br>
 _rate of urbanization_: 1.92% annual rate of change (2020-25 est.)<br>
 
 **Revenue from forest resources**<br>
-_forest revenues_: 0.08% of GDP (2018 est.)<br>
+0.08% of GDP (2018 est.)<br>
 
 **Revenue from coal**<br>
-_coal revenues_: 0% of GDP (2018 est.)<br>
+0% of GDP (2018 est.)<br>
 
 **Major infectious diseases**<br>
 _degree of risk_: intermediate (2020)<br>
@@ -296,7 +296,7 @@ _agricultural_: 446.1 million cubic meters (2017 est.)<br>
 **Country name**<br>
 _conventional long form_: Republic of Panama<br>
 _conventional short form_: Panama<br>
-_local long form_: Republica de Panama<br>
+_local long form_: Rep&uacute;blica de Panama<br>
 _local short form_: Panama<br>
 _etymology_: named after the capital city which was itself named after a former indigenous fishing village<br>
 

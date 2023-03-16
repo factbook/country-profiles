@@ -276,10 +276,10 @@ _urban population_: 40.6% of total population (2023)<br>
 _rate of urbanization_: 4.26% annual rate of change (2020-25 est.)<br>
 
 **Revenue from forest resources**<br>
-_forest revenues_: 4.34% of GDP (2018 est.)<br>
+4.34% of GDP (2018 est.)<br>
 
 **Revenue from coal**<br>
-_coal revenues_: 0% of GDP (2018 est.)<br>
+0% of GDP (2018 est.)<br>
 
 **Major infectious diseases**<br>
 _degree of risk_: very high (2020)<br>
@@ -700,7 +700,7 @@ the PAF's inventory consists mostly of aging Soviet-era equipment; in recent yea
 18-25 years of age for men and women; service obligation 18 months; no conscription; women are permitted to serve in all branches (2022)<br>
 
 **Military - note**<br>
-one of the military&rsquo;s duties is assisting the gendarmerie with maintaining law and order in rural areas, particularly in areas affected by banditry, cattle rustling (cattle thieves are known as dahalo), and criminal groups (2022)<br>
+the PAF&rsquo;s responsibilities include ensuring sovereignty and territorial integrity and protecting Madagascar&rsquo;s maritime domain, particularly against piracy, drug trafficking, and smuggling; it also assists the Gendarmerie with maintaining law and order in rural areas, largely in areas affected by banditry, cattle rustling, and criminal groups; the PAF has a history of having influence in domestic politics and a lack of accountability; members of the Army and the Gendarmerie were arrested for coup plotting as recently as 2021; its closest defense partners have been India and Russia; the PAF&rsquo;s small Navy has traditionally looked to India for assistance with maritime security (2023)<br>
 
 ## Transnational Issues
 

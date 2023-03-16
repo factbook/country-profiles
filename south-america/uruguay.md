@@ -271,10 +271,10 @@ _urban population_: 95.8% of total population (2023)<br>
 _rate of urbanization_: 0.4% annual rate of change (2020-25 est.)<br>
 
 **Revenue from forest resources**<br>
-_forest revenues_: 1.56% of GDP (2018 est.)<br>
+1.56% of GDP (2018 est.)<br>
 
 **Revenue from coal**<br>
-_coal revenues_: 0% of GDP (2018 est.)<br>
+0% of GDP (2018 est.)<br>
 
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 1,260,140 tons (2012 est.)<br>
@@ -303,7 +303,7 @@ _agricultural_: 3.17 billion cubic meters (2017 est.)<br>
 **Country name**<br>
 _conventional long form_: Oriental Republic of Uruguay<br>
 _conventional short form_: Uruguay<br>
-_local long form_: Republica Oriental del Uruguay<br>
+_local long form_: Rep&uacute;blica Oriental del Uruguay<br>
 _local short form_: Uruguay<br>
 _former_: Banda Oriental, Cisplatine Province<br>
 _etymology_: name derives from the Spanish pronunciation of the Guarani Indian designation of the Uruguay River, which makes up the western border of the country and whose name later came to be applied to the entire country<br>

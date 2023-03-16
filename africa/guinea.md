@@ -277,10 +277,10 @@ _urban population_: 38.1% of total population (2023)<br>
 _rate of urbanization_: 3.64% annual rate of change (2020-25 est.)<br>
 
 **Revenue from forest resources**<br>
-_forest revenues_: 4.81% of GDP (2018 est.)<br>
+4.81% of GDP (2018 est.)<br>
 
 **Revenue from coal**<br>
-_coal revenues_: 0% of GDP (2018 est.)<br>
+0% of GDP (2018 est.)<br>
 
 **Major infectious diseases**<br>
 _degree of risk_: very high (2020)<br>
@@ -306,9 +306,9 @@ Niger river source (shared with Mali, and Nigeria [m]) - 4,200 km; Gambia river 
 Atlantic Ocean drainage: Niger (2,261,741 sq km), Senegal (456,397 sq km)<br>
 
 **Total water withdrawal**<br>
-_municipal_: 224.8 million cubic meters (2017 est.)<br>
-_industrial_: 56.2 million cubic meters (2017 est.)<br>
-_agricultural_: 292.9 million cubic meters (2017 est.)<br>
+_municipal_: 230 million cubic meters (2019 est.)<br>
+_industrial_: 60 million cubic meters (2019 est.)<br>
+_agricultural_: 600 million cubic meters (2019 est.)<br>
 
 **Total renewable water resources**<br>
 226 billion cubic meters (2019 est.)<br>

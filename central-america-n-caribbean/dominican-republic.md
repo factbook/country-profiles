@@ -271,10 +271,10 @@ _urban population_: 84.4% of total population (2023)<br>
 _rate of urbanization_: 1.64% annual rate of change (2020-25 est.)<br>
 
 **Revenue from forest resources**<br>
-_forest revenues_: 0.03% of GDP (2018 est.)<br>
+0.03% of GDP (2018 est.)<br>
 
 **Revenue from coal**<br>
-_coal revenues_: 0% of GDP (2018 est.)<br>
+0% of GDP (2018 est.)<br>
 
 **Major infectious diseases**<br>
 _degree of risk_: high (2020)<br>
@@ -290,9 +290,9 @@ _percent of municipal solid waste recycled_: 8.2% (2015 est.)<br>
 _salt water lake(s)_: Lago de Enriquillo - 500 sq km<br>
 
 **Total water withdrawal**<br>
-_municipal_: 855 million cubic meters (2017 est.)<br>
-_industrial_: 659.9 million cubic meters (2017 est.)<br>
-_agricultural_: 7.563 billion cubic meters (2017 est.)<br>
+_municipal_: 860 million cubic meters (2019 est.)<br>
+_industrial_: 660 million cubic meters (2019 est.)<br>
+_agricultural_: 7.56 billion cubic meters (2019 est.)<br>
 
 **Total renewable water resources**<br>
 23.5 billion cubic meters (2019 est.)<br>
@@ -302,7 +302,7 @@ _agricultural_: 7.563 billion cubic meters (2017 est.)<br>
 **Country name**<br>
 _conventional long form_: Dominican Republic<br>
 _conventional short form_: The Dominican<br>
-_local long form_: Republica Dominicana<br>
+_local long form_: Rep&uacute;blica Dominicana<br>
 _local short form_: La Dominicana<br>
 _former_: Santo Domingo (the capital city's name formerly applied to the entire country)<br>
 _etymology_: the country name derives from the capital city of Santo Domingo (Saint Dominic)<br>

@@ -285,10 +285,10 @@ _urban population_: 59.3% of total population (2023)<br>
 _rate of urbanization_: 3.43% annual rate of change (2020-25 est.)<br>
 
 **Revenue from forest resources**<br>
-_forest revenues_: 2.5% of GDP (2018 est.)<br>
+2.5% of GDP (2018 est.)<br>
 
 **Revenue from coal**<br>
-_coal revenues_: 0% of GDP (2018 est.)<br>
+0% of GDP (2018 est.)<br>
 
 **Major infectious diseases**<br>
 _degree of risk_: very high (2020)<br>
@@ -764,7 +764,7 @@ Boko Haram; Islamic State of Iraq and ash-Sham – West Africa<br>
 <p>Joint Border Commission with Nigeria reviewed 2002 ICJ ruling on the entire boundary and bilaterally resolved differences, including June 2006 Greentree Agreement that immediately ceded sovereignty of the Bakassi Peninsula to Cameroon with a full phase-out of Nigerian control and patriation of residents in 2008; Cameroon and Nigeria agreed on maritime delimitation in March 2008; sovereignty dispute between Equatorial Guinea and Cameroon over an island at the mouth of the Ntem River; only Nigeria and Cameroon have heeded the Lake Chad Commission's admonition to ratify the delimitation treaty, which also includes the Chad-Niger and Niger-Nigeria boundaries</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 347,030 (Central African Republic), 124,872 (Nigeria) (2023)<br>
+_refugees (country of origin)_: 347,593 (Central African Republic), 126,151 (Nigeria) (2023)<br>
 _IDPs_: 983,281 (2022) (includes far north, northwest, and southwest)<br>
 
 **Trafficking in persons**<br>

@@ -260,10 +260,10 @@ _urban population_: 80.7% of total population (2023)<br>
 _rate of urbanization_: 0.11% annual rate of change (2020-25 est.)<br>
 
 **Revenue from forest resources**<br>
-_forest revenues_: 0.01% of GDP (2018 est.)<br>
+0.01% of GDP (2018 est.)<br>
 
 **Revenue from coal**<br>
-_coal revenues_: 0.04% of GDP (2018 est.)<br>
+0.04% of GDP (2018 est.)<br>
 
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 5,477,424 tons (2014 est.)<br>
@@ -271,9 +271,9 @@ _municipal solid waste recycled annually_: 1,040,711 tons (2014 est.)<br>
 _percent of municipal solid waste recycled_: 19% (2014 est.)<br>
 
 **Total water withdrawal**<br>
-_municipal_: 1.991 billion cubic meters (2017 est.)<br>
-_industrial_: 208.3 million cubic meters (2017 est.)<br>
-_agricultural_: 9.041 billion cubic meters (2017 est.)<br>
+_municipal_: 1.69 billion cubic meters (2019 est.)<br>
+_industrial_: 320 million cubic meters (2019 est.)<br>
+_agricultural_: 8.11 billion cubic meters (2019 est.)<br>
 
 **Total renewable water resources**<br>
 68.4 billion cubic meters (2019 est.)<br>

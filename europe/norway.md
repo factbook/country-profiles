@@ -263,10 +263,10 @@ _rate of urbanization_: 1.32% annual rate of change (2020-25 est.)<br>
 <strong>note:</strong> data include Svalbard and Jan Mayen Islands<br>
 
 **Revenue from forest resources**<br>
-_forest revenues_: 0.05% of GDP (2018 est.)<br>
+0.05% of GDP (2018 est.)<br>
 
 **Revenue from coal**<br>
-_coal revenues_: 0% of GDP (2018 est.)<br>
+0% of GDP (2018 est.)<br>
 
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 2.187 million tons (2015 est.)<br>

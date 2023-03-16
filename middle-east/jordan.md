@@ -277,10 +277,10 @@ _urban population_: 92% of total population (2023)<br>
 _rate of urbanization_: 0.98% annual rate of change (2020-25 est.)<br>
 
 **Revenue from forest resources**<br>
-_forest revenues_: 0.02% of GDP (2018 est.)<br>
+0.02% of GDP (2018 est.)<br>
 
 **Revenue from coal**<br>
-_coal revenues_: 0% of GDP (2018 est.)<br>
+0% of GDP (2018 est.)<br>
 
 **Major infectious diseases**<br>
 <strong>note:</strong> widespread ongoing transmission of a respiratory illness caused by the novel coronavirus (COVID-19) is occurring throughout Jordan; as of 9 December 2022, Jordan has reported a total of 1,746,997 cases of COVID-19 or 17,122.16 cumulative cases of COVID-19 per 100,000 population with a total of 14,122 cumulative deaths or a rate of 138.4 cumulative deaths per 100,000 population<br>

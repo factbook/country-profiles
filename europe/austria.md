@@ -265,10 +265,10 @@ _urban population_: 59.5% of total population (2023)<br>
 _rate of urbanization_: 0.68% annual rate of change (2020-25 est.)<br>
 
 **Revenue from forest resources**<br>
-_forest revenues_: 0.07% of GDP (2018 est.)<br>
+0.07% of GDP (2018 est.)<br>
 
 **Revenue from coal**<br>
-_coal revenues_: 0% of GDP (2018 est.)<br>
+0% of GDP (2018 est.)<br>
 
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 4.836 million tons (2015 est.)<br>
@@ -729,7 +729,7 @@ Islamic State of Iraq and ash-Sham (ISIS)<br>
 <p>none identified</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 67,588 (Syria), 43,725 (Afghanistan), 10,110 (Iraq), 8,684 (Somalia), 7,294 (Iran), 6,124 (Russia) (mid-year 2022); 93,579 (Ukraine) (as of 20 February 2023)<br>
+_refugees (country of origin)_: 67,588 (Syria), 43,725 (Afghanistan), 10,110 (Iraq), 8,684 (Somalia), 7,294 (Iran), 6,124 (Russia) (mid-year 2022); 94,343 (Ukraine) (as of 6 March 2023)<br>
 _stateless persons_: 3,219 (2022)<br>
 
 **Illicit drugs**<br>

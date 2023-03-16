@@ -275,10 +275,10 @@ _urban population_: 43.6% of total population (2023)<br>
 _rate of urbanization_: 3.32% annual rate of change (2020-25 est.)<br>
 
 **Revenue from forest resources**<br>
-_forest revenues_: 8.99% of GDP (2018 est.)<br>
+8.99% of GDP (2018 est.)<br>
 
 **Revenue from coal**<br>
-_coal revenues_: 0% of GDP (2018 est.)<br>
+0% of GDP (2018 est.)<br>
 
 **Major infectious diseases**<br>
 _degree of risk_: very high (2020)<br>
@@ -290,7 +290,7 @@ _respiratory diseases_: meningococcal meningitis<br>
 <strong>note: </strong>on 21 March 2022, the US Centers for Disease Control and Prevention (CDC) issued a Travel Alert for polio in Africa; the Central African Republic is currently considered a high risk to travelers for circulating vaccine-derived polioviruses (cVDPV); vaccine-derived poliovirus (VDPV) is a strain of the weakened poliovirus that was initially included in oral polio vaccine (OPV) and <em>that has changed over time and behaves more like the wild or naturally occurring virus</em>; this means it can be spread more easily to people who are unvaccinated against polio and who come in contact with the stool or respiratory secretions, such as from a sneeze, of an “infected” person who received oral polio vaccine; the CDC recommends that before any international travel, anyone unvaccinated, incompletely vaccinated, or with an unknown polio vaccination status should complete the routine polio vaccine series; before travel to any high-risk destination, the CDC recommends that adults who previously completed the full, routine polio vaccine series receive a single, lifetime booster dose of polio vaccine<br>
 
 **Food insecurity**<br>
-_exceptional shortfall in aggregate food production/supplies_: <em>due to internal conflict -</em> persisting conflicts and displacements are expected to continue affecting agricultural activities and limit farmers’ access to crop growing areas and inputs, with a negative impact on 2022 crop production; according to an analysis issued in April 2022, the number of severely food insecure people in "Crisis" and above were estimated at 2.2 million between April and August 2022, mainly due to high levels of civil insecurity, population displacements and high food prices (2022)<br>
+_exceptional shortfall in aggregate food production/supplies_: <em>due to internal conflict and high food prices -</em> according to the latest analysis, issued in November 2022, the number of people in Crisis and above is estimated at 2.7 million between September 2022 and March 2023; this is mainly attributed to the impact of civil insecurity and high food prices; persisting insecurity and population displacements continue to affect agricultural activities and limit farmers’ access to crop growing areas and agricultural inputs; elevated international prices of fuel and fertilizers, largely imported, have reportedly led to a lower use of agricultural inputs in 2022, especially among smallholder farmers, with a negative impact on yields (2023)<br>
 
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 1,105,983 tons (2014 est.)<br>

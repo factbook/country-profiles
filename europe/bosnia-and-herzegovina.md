@@ -261,10 +261,10 @@ _urban population_: 50.3% of total population (2023)<br>
 _rate of urbanization_: 0.61% annual rate of change (2020-25 est.)<br>
 
 **Revenue from forest resources**<br>
-_forest revenues_: 0.49% of GDP (2018 est.)<br>
+0.49% of GDP (2018 est.)<br>
 
 **Revenue from coal**<br>
-_coal revenues_: 0.34% of GDP (2018 est.)<br>
+0.34% of GDP (2018 est.)<br>
 
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 1,248,718 tons (2015 est.)<br>

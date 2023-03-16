@@ -268,10 +268,10 @@ _urban population_: 75.4% of total population (2023)<br>
 _rate of urbanization_: 1.33% annual rate of change (2020-25 est.)<br>
 
 **Revenue from forest resources**<br>
-_forest revenues_: 0.6% of GDP (2018 est.)<br>
+0.6% of GDP (2018 est.)<br>
 
 **Revenue from coal**<br>
-_coal revenues_: 0% of GDP (2018 est.)<br>
+0% of GDP (2018 est.)<br>
 
 **Major infectious diseases**<br>
 _degree of risk_: high (2020)<br>
@@ -294,7 +294,7 @@ _agricultural_: 1.431 billion cubic meters (2017 est.)<br>
 **Country name**<br>
 _conventional long form_: Republic of El Salvador<br>
 _conventional short form_: El Salvador<br>
-_local long form_: Republica de El Salvador<br>
+_local long form_: Rep&uacute;blica de El Salvador<br>
 _local short form_: El Salvador<br>
 _etymology_: name is an abbreviation of the original Spanish conquistador designation for the area "Provincia de Nuestro Senor Jesus Cristo, el Salvador del Mundo" (Province of Our Lord Jesus Christ, the Saviour of the World), which became simply "El Salvador" (The Savior)<br>
 

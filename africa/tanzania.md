@@ -286,10 +286,10 @@ _urban population_: 37.4% of total population (2023)<br>
 _rate of urbanization_: 4.89% annual rate of change (2020-25 est.)<br>
 
 **Revenue from forest resources**<br>
-_forest revenues_: 2.19% of GDP (2018 est.)<br>
+2.19% of GDP (2018 est.)<br>
 
 **Revenue from coal**<br>
-_coal revenues_: 0.02% of GDP (2018 est.)<br>
+0.02% of GDP (2018 est.)<br>
 
 **Major infectious diseases**<br>
 _degree of risk_: very high (2020)<br>
@@ -336,7 +336,7 @@ _etymology_: the country's name is a combination of the first letters of Tangany
 presidential republic<br>
 
 **Capital**<br>
-_name_: Dar es Salaam (de facto administrative capital), Dodoma (national capital); note - Dodoma, designated the national capital in 1996, serves as the meeting place for the National Assembly and is thus the legislative capital; Dar es Salaam (the original national capital) remains the de facto capital, the country's largest city and commercial center, and the site of the executive branch offices and diplomatic representation<br>
+_name_: Dodoma (national capital); note - Dodoma, designated the national capital in 1996, serves as the meeting place for the National Assembly; Dar es Salaam, the original national capital and the country's largest city and commercial center, remains the site of the executive branch offices and diplomatic representation<br>
 _geographic coordinates_: 6 48 S, 39 17 E<br>
 _time difference_: UTC+3 (8 hours ahead of Washington, DC, during Standard Time)<br>
 _etymology_: Dar es Salaam was the name given by Majid BIN SAID, the first sultan of Zanzibar, to the new city he founded on the Indian Ocean coast; the Arabic name is commonly translated as "abode/home of peace"; Dodoma, in the native Gogo language, means "it has sunk"; supposedly, one day during the rainy season, an elephant drowned in the area; the villagers in that place were so struck by what had occurred, that ever since the locale has been referred to as the place where "it (the elephant) sunk"<br>

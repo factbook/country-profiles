@@ -281,10 +281,10 @@ _urban population_: 81.8% of total population (2023)<br>
 _rate of urbanization_: 0.67% annual rate of change (2020-25 est.)<br>
 
 **Revenue from forest resources**<br>
-_forest revenues_: 0.03% of GDP (2018 est.)<br>
+0.03% of GDP (2018 est.)<br>
 
 **Revenue from coal**<br>
-_coal revenues_: 0% of GDP (2018 est.)<br>
+0% of GDP (2018 est.)<br>
 
 **Major infectious diseases**<br>
 <strong>note:</strong> widespread ongoing transmission of a respiratory illness caused by the novel coronavirus (COVID-19) is occurring throughout France; as of 9 December 2022, France has reported a total of 37,252,086 cases of COVID-19 or 57276.2 cumulative cases of COVID-19 per 100,000 population with a total of 155,898 cumulative deaths or a rate 239.7 cumulative deaths per 100,000 population; as of 7 December 2022, 80.54% of the population has received at least one dose of COVID-19 vaccine<br>

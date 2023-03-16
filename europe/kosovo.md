@@ -208,10 +208,10 @@ _forest_: 41.7% (2018 est.)<br>
 _other_: 5.5% (2018 est.)<br>
 
 **Revenue from forest resources**<br>
-_forest revenues_: 0% of GDP (2018 est.)<br>
+0% of GDP (2018 est.)<br>
 
 **Revenue from coal**<br>
-_coal revenues_: 0.31% of GDP (2018 est.)<br>
+0.31% of GDP (2018 est.)<br>
 
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 319,000 tons (2015 est.)<br>

@@ -262,10 +262,10 @@ _urban population_: 69.8% of total population (2023)<br>
 _rate of urbanization_: -0.03% annual rate of change (2020-25 est.)<br>
 
 **Revenue from forest resources**<br>
-_forest revenues_: 0.85% of GDP (2018 est.)<br>
+0.85% of GDP (2018 est.)<br>
 
 **Revenue from coal**<br>
-_coal revenues_: 0% of GDP (2018 est.)<br>
+0% of GDP (2018 est.)<br>
 
 **Major infectious diseases**<br>
 _degree of risk_: intermediate (2020)<br>
@@ -341,8 +341,8 @@ _election results_: <p><em>2021</em>: Alar KARIS elected president; parliamentar
 
 **Legislative branch**<br>
 _description_: unicameral Parliament or Riigikogu (101 seats; members directly elected in multi-seat constituencies by open- list proportional representation vote to serve 4-year terms)<br>
-_elections_: last held on 3 March 2019 (next to be held in March 2023)<br>
-_election results_: percent of vote by party - RE 28.9%, K 23.1%, EKRE 17.8%, Pro Patria 11.4%, SDE 9.8%, other 9%; seats by party - RE 34, K 26, EKRE 19, Pro Patria 12, SDE 10; composition - men 75, women 26, percent of women 25.7%<br>
+_elections_: last held on 5 March 2023<br>
+_election results_: percent of vote by party - Reform 31.2%, EKRE 16.1%, Center 15.3%, E200 13.3%, SDE 9.3%, Pro Patria 8.2%, Left 2.4%, Right 2.3%, Greens 1.0%; seats by party - Reform 37, EKRE 17, Center 16, E200 14, SDE 9, Pro Patria 8<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme Court (consists of 19 justices, including the chief justice, and organized into civil, criminal, administrative, and constitutional review chambers)<br>
@@ -350,7 +350,7 @@ _judge selection and term of office_: the chief justice is proposed by the presi
 _subordinate courts_: circuit (appellate) courts; administrative, county, city, and specialized courts<br>
 
 **Political parties and leaders**<br>
-Center Party of Estonia (Keskerakond) or K [Juri RATAS]<br>Estonia 200 [Kristina KALLAS]<br>Estonian Conservative People's Party (Konservatiivne Rahvaerakond) or EKRE [Martin HELME]<br>Estonian Reform Party (Reformierakond) or RE [Kaja KALLAS]<br>Pro Patria (Isamaa) [Helir-Valdor SEEDER]<br>Social Democratic Party or SDE [Lauri LAANEMETS]<br>
+Center Party of Estonia (Keskerakond) or K [Juri RATAS]<br>Estonia 200 [Kristina KALLAS]<br>Estonian Conservative People's Party (Konservatiivne Rahvaerakond) or EKRE [Martin HELME]<br>Estonian Greens (Greens/EFA) [Marko KAASIK &amp; Johanna Maria TOUGU]<br>Estonian Reform Party (Reformierakond) or RE [Kaja KALLAS]<br>Pro Patria (Isamaa) [Helir-Valdor SEEDER]<br>Social Democratic Party or SDE [Lauri LAANEMETS]<br>
 
 **International organization participation**<br>
 Australia Group, BA, BIS, CBSS, CD, CE, EAPC, EBRD, ECB, EIB, EMU, ESA (cooperating state), EU, FAO, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IEA, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, MINUSMA, NATO, NIB, NSG, OAS (observer), OECD, OIF (observer), OPCW, OSCE, PCA, Schengen Convention, UN, UNCTAD, UNESCO, UNHCR, UNTSO, UPU, Wassenaar Arrangement, WCO, WHO, WIPO, WMO, WTO<br>

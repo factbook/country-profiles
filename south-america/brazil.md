@@ -70,7 +70,7 @@ _fresh water lake(s)_: Lagoa dos Patos - 10,140 sq km<br>
 _salt water lake(s)_: Lagoa Mirim (shared with Uruguay) - 2,970 sq km<br>
 
 **Major rivers (by length in km)**<br>
-Amazon river mouth (shared with Peru [s]) - 6,400 km; Rio de la Plata/Parana river source (shared with Paraguay, Argentina, and Uruguay [m]) - 4,880 km; Tocantins - 3,650 km; Sao Francisco - 3,180 km; Paraguay river source (shared with Argentina and Paraguay [m]) - 2,549 km; Rio Negro river mouth (shared with Colombia [s] and Venezuela) - 2,250 km; Uruguay river source (shared with Argentina and Uruguay [m]) - 1,610 km<br><strong>note</strong> – [s] after country name indicates river source; [m] after country name indicates river mouth<br>
+Amazon river mouth (shared with Peru [s]) - 6,400 km; Río de la Plata/Paraná river source (shared with Paraguay, Argentina, and Uruguay [m]) - 4,880 km; Tocantins - 3,650 km; São Francisco - 3,180 km; Paraguay river source (shared with Argentina and Paraguay [m]) - 2,549 km; Rio Negro river mouth (shared with Colombia [s] and Venezuela) - 2,250 km; Uruguay river source (shared with Argentina and Uruguay [m]) - 1,610 km<br><strong>note</strong> – [s] after country name indicates river source; [m] after country name indicates river mouth<br>
 
 **Major watersheds (area sq km)**<br>
 Atlantic Ocean drainage: Amazon (6,145,186 sq km), Orinoco (953,675 sq km), Paran&aacute; (2,582,704 sq km), S&atilde;o Francisco (617,814 sq km), Tocantins (764,213 sq km)<br>
@@ -281,10 +281,10 @@ _urban population_: 87.8% of total population (2023)<br>
 _rate of urbanization_: 0.87% annual rate of change (2020-25 est.)<br>
 
 **Revenue from forest resources**<br>
-_forest revenues_: 0.62% of GDP (2018 est.)<br>
+0.62% of GDP (2018 est.)<br>
 
 **Revenue from coal**<br>
-_coal revenues_: 0.01% of GDP (2018 est.)<br>
+0.01% of GDP (2018 est.)<br>
 
 **Major infectious diseases**<br>
 _degree of risk_: very high (2020)<br>
@@ -303,7 +303,7 @@ _fresh water lake(s)_: Lagoa dos Patos - 10,140 sq km<br>
 _salt water lake(s)_: Lagoa Mirim (shared with Uruguay) - 2,970 sq km<br>
 
 **Major rivers (by length in km)**<br>
-Amazon river mouth (shared with Peru [s]) - 6,400 km; Rio de la Plata/Parana river source (shared with Paraguay, Argentina, and Uruguay [m]) - 4,880 km; Tocantins - 3,650 km; Sao Francisco - 3,180 km; Paraguay river source (shared with Argentina and Paraguay [m]) - 2,549 km; Rio Negro river mouth (shared with Colombia [s] and Venezuela) - 2,250 km; Uruguay river source (shared with Argentina and Uruguay [m]) - 1,610 km<br><strong>note</strong> – [s] after country name indicates river source; [m] after country name indicates river mouth<br>
+Amazon river mouth (shared with Peru [s]) - 6,400 km; Río de la Plata/Paraná river source (shared with Paraguay, Argentina, and Uruguay [m]) - 4,880 km; Tocantins - 3,650 km; São Francisco - 3,180 km; Paraguay river source (shared with Argentina and Paraguay [m]) - 2,549 km; Rio Negro river mouth (shared with Colombia [s] and Venezuela) - 2,250 km; Uruguay river source (shared with Argentina and Uruguay [m]) - 1,610 km<br><strong>note</strong> – [s] after country name indicates river source; [m] after country name indicates river mouth<br>
 
 **Major watersheds (area sq km)**<br>
 Atlantic Ocean drainage: Amazon (6,145,186 sq km), Orinoco (953,675 sq km), Paran&aacute; (2,582,704 sq km), S&atilde;o Francisco (617,814 sq km), Tocantins (764,213 sq km)<br>
@@ -324,7 +324,7 @@ _agricultural_: 43.03 billion cubic meters (2019 est.)<br>
 **Country name**<br>
 _conventional long form_: Federative Republic of Brazil<br>
 _conventional short form_: Brazil<br>
-_local long form_: Republica Federativa do Brasil<br>
+_local long form_: Rep&uacute;blica Federativa do Brasil<br>
 _local short form_: Brasil<br>
 _etymology_: the country name derives from the brazilwood tree that used to grow plentifully along the coast of Brazil and that was used to produce a deep red dye<br>
 

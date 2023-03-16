@@ -263,10 +263,10 @@ _urban population_: 89.4% of total population (2023)<br>
 _rate of urbanization_: -1.23% annual rate of change (2020-25 est.)<br>
 
 **Revenue from forest resources**<br>
-_forest revenues_: 0% of GDP (2018 est.)<br>
+0% of GDP (2018 est.)<br>
 
 **Revenue from coal**<br>
-_coal revenues_: 0% of GDP (2018 est.)<br>
+0% of GDP (2018 est.)<br>
 
 **Major infectious diseases**<br>
 <strong>note:</strong> widespread ongoing transmission of a respiratory illness caused by the novel coronavirus (COVID-19) is occurring throughout Lebanon; as of 9 December 2022, Lebanon has reported a total of 1,220,831 cases of COVID-19 or 17,886.46 cumulative cases of COVID-19 per 100,000 population with a total of 10,740 cumulative deaths or a rate of 157.35 cumulative deaths per 100,000 population; as of 1 December 2022, 49.9% of the population has received at least one dose of COVID-19 vaccine<br>

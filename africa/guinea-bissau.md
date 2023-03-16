@@ -265,10 +265,10 @@ _urban population_: 45.5% of total population (2023)<br>
 _rate of urbanization_: 3.22% annual rate of change (2020-25 est.)<br>
 
 **Revenue from forest resources**<br>
-_forest revenues_: 9.24% of GDP (2018 est.)<br>
+9.24% of GDP (2018 est.)<br>
 
 **Revenue from coal**<br>
-_coal revenues_: 0% of GDP (2018 est.)<br>
+0% of GDP (2018 est.)<br>
 
 **Major infectious diseases**<br>
 _degree of risk_: very high (2020)<br>
@@ -285,9 +285,9 @@ _municipal solid waste generated annually_: 289,514 tons (2015 est.)<br>
 Senegalo-Mauritanian Basin<br>
 
 **Total water withdrawal**<br>
-_municipal_: 34.1 million cubic meters (2017 est.)<br>
-_industrial_: 11.9 million cubic meters (2017 est.)<br>
-_agricultural_: 144 million cubic meters (2017 est.)<br>
+_municipal_: 30 million cubic meters (2019 est.)<br>
+_industrial_: 10 million cubic meters (2019 est.)<br>
+_agricultural_: 140 million cubic meters (2019 est.)<br>
 
 **Total renewable water resources**<br>
 31.4 billion cubic meters (2019 est.)<br>

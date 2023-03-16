@@ -285,10 +285,10 @@ _rate of urbanization_: 1.78% annual rate of change (2020-25 est.)<br>
 <strong>note:</strong> data do not include Hong Kong and Macau<br>
 
 **Revenue from forest resources**<br>
-_forest revenues_: 0.08% of GDP (2018 est.)<br>
+0.08% of GDP (2018 est.)<br>
 
 **Revenue from coal**<br>
-_coal revenues_: 0.57% of GDP (2018 est.)<br>
+0.57% of GDP (2018 est.)<br>
 
 **Major infectious diseases**<br>
 _degree of risk_: high (2020)<br>
@@ -371,16 +371,16 @@ _residency requirement for naturalization_: while naturalization is theoreticall
 18 years of age; universal<br>
 
 **Executive branch**<br>
-_chief of state_: President XI Jinping (since 14 March 2013); Vice President WANG Qishan (since 17 March 2018)<br>
-_head of government_: Premier LI Keqiang (since 16 March 2013); Executive Vice Premiers HAN Zheng (since 19 March 2018), SUN Chunlan (since 19 March 2018), LIU He (since 19 March 2018), HU Chunhua (since 19 March 2018)<br>
+_chief of state_: President XI Jinping (since 14 March 2013); Vice President HAN Zheng (since 10 March 2023)<br>
+_head of government_: Premier LI Qiang (since 11 March 2023)<br>
 _cabinet_: State Council appointed by National People's Congress<br>
-_elections/appointments_: president and vice president indirectly elected by National People's Congress (no term limits); election last held on 17 March 2018 (next to be held in March 2023); premier nominated by president, confirmed by National People's Congress<br>
-_election results_: <em>2018</em>: XI Jinping reelected president; National People's Congress vote - 2,970 (unanimously); WANG Qishan elected vice president with 2,969 votes<br><br><em>2013</em>: XI Jinping elected president; National People's Congress vote - 2,952; LI Yuanchao elected vice president with 2,839 votes<br>
-<strong>note: </strong>ultimate authority rests with the Communist Party Central Committee’s 25-member Political Bureau (Politburo) and its seven-member Standing Committee; XI Jinping holds the three most powerful positions as party general secretary, state president, and chairman of the Central Military Commission <br>
+_elections/appointments_: president and vice president indirectly elected by National People's Congress; election last held on 10 March 2023 (next to be held in March 2028); premier nominated by president, confirmed by National People's Congress<br>
+_election results_: <em>2023: </em>XI Jinping reelected president; National People's Congress vote - 2,952 (unanimously); HAN Zheng<br>elected vice president with 2,952 votes<br><em><br>2018</em>: XI Jinping reelected president; National People's Congress vote - 2,970 (unanimously); WANG Qishan elected vice president with 2,969 votes<br>
+<strong>note: </strong>ultimate authority rests with the Communist Party Central Committee’s 25-member Political Bureau (Politburo) and its seven-member Standing Committee; XI Jinping holds the three most powerful positions as party general secretary, state president, and chairman of the Central Military Commission<br>
 
 **Legislative branch**<br>
 _description_: unicameral National People's Congress or Quanguo Renmin Daibiao Dahui (maximum of 3,000 seats; members indirectly elected by municipal, regional, and provincial people's congresses, and the People's Liberation Army; members serve 5-year terms); note - in practice, only members of the Chinese Communist Party (CCP), its 8 allied independent parties, and CCP-approved independent candidates are elected<br>
-_elections_: last held in December 2017-February 2018 (next to be held in late 2022 to early 2023)<br>
+_elections_: last held in December 2017-February 2018 (next to be held in 2023)<br>
 _election results_: percent of vote - NA; seats by party - NA; composition - men 2,238, women 742, percent of women 24.9%<br>
 
 **Judicial branch**<br>
@@ -775,7 +775,7 @@ _IDPs_: undetermined (2021)<br>
 
 **Trafficking in persons**<br>
 _tier rating_: Tier 3 &mdash; China does not fully meet the minimum standards for elimination of trafficking and is not making significant efforts to do so, therefore China remained on Tier 3; the government initiated its first prosecution of a domestic trafficking case, approved a new National Action Plan for 2021-2030, and conducted some anti-trafficking training; however, there was a government policy or pattern of widespread forced labor, including continued mass arbitrary detention of Uyghurs, ethnic Kazakhs, ethnic Kyrgyz, and members of other Turkic and Muslim minorities in the Xinjiang Uyghur Autonomous Region; the government also implemented similar policies against other religious minorities and Tibetans in other provinces; Chinese nationals reportedly suffered forced labor in several countries in Asia, the Middle East, Africa, and Europe hosting Belt and Road Initiative (BRI) projects; for the fifth consecutive year, the government did not report complete law enforcement data, nor did it identify any trafficking victims or refer them to protection services &nbsp;(2022)<br>
-_trafficking profile_: human traffickers exploit domestic and foreign victims in China and Chinese people abroad; Chinese men, women, and children are victims of forced labor and sex trafficking in at least 60 countries; traffickers also use China as a transit point to subject foreign individuals to trafficking in other countries throughout Asia and in international maritime industries; state-sponsored forced labor is intensifying under the government&rsquo;s mass detention and political indoctrination campaign against Muslim minorities in the Xinjiang Uyghur Autonomous Region; well-organized criminal syndicates and local gangs subject Chinese women and girls to sex trafficking within China; women and girls from South Asia, Southeast Asia, and several countries in Africa experience forced labor in domestic service, forced concubinism leading to forced childbearing, and sex trafficking via forced and fraudulent marriage to Chinese men; African and Asian men reportedly experience conditions indicative of forced labor aboard Chinese-flagged fishing vessels; many North Korean refugees and asylum-seekers living in China illegally are particularly vulnerable to trafficking<br>
+_trafficking profile_: human traffickers exploit domestic and foreign victims in China and Chinese people abroad; Chinese men, women, and children are victims of forced labor and sex trafficking in at least 60 countries; traffickers also use China as a transit point to subject foreign individuals to trafficking in other countries throughout Asia and in international maritime industries; state-sponsored forced labor is intensifying under the government&rsquo;s mass detention and political indoctrination campaign against Muslim minorities in the Xinjiang Uyghur Autonomous Region; well-organized criminal syndicates and local gangs subject Chinese women and girls to sex trafficking within China; women and girls from South Asia, Southeast Asia, and several countries in Africa experience forced labor in domestic service, forced concubinism leading to forced childbearing, and sex trafficking via forced and fraudulent marriage to Chinese men; African and Asian men reportedly experience conditions indicative of forced labor aboard Chinese-flagged fishing vessels; many North Korean refugees and asylum-seekers living in China illegally are particularly vulnerable to trafficking (2022)<br>
 
 **Illicit drugs**<br>
 <p>a major source of precursor chemicals, new psychoactive substances (NPS), and synthetic drugs, including fentanyl precursors and methamphetamine;  PRC criminal organizations, transnational crime, and organizations from Mexico and Southeast Asia traffic licit precursor chemical components and illicit finished drugs within the PRC as well as to international markets; significant illicit drug consumption of methamphetamine and ketamine; a major destination and transit country for heroin produced in neighboring countries; the PRC remains a major source of NPS sold in North America and Europe  </p> <p> </p> (2021)<br>

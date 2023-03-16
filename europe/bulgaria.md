@@ -266,10 +266,10 @@ _urban population_: 76.7% of total population (2023)<br>
 _rate of urbanization_: -0.28% annual rate of change (2020-25 est.)<br>
 
 **Revenue from forest resources**<br>
-_forest revenues_: 0.22% of GDP (2018 est.)<br>
+0.22% of GDP (2018 est.)<br>
 
 **Revenue from coal**<br>
-_coal revenues_: 0.14% of GDP (2018 est.)<br>
+0.14% of GDP (2018 est.)<br>
 
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 3.011 million tons (2015 est.)<br>
@@ -723,7 +723,7 @@ Islamic State of Iraq and ash-Sham (ISIS); Islamic Revolutionary Guard Corps/Qod
 <p>none</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 22,226 (Syria) (mid-year 2022); 50,592 (Ukraine) (as of 28 February 2023)<br>
+_refugees (country of origin)_: 22,226 (Syria) (mid-year 2022); 50,112 (Ukraine) (as of 7 March 2023)<br>
 _stateless persons_: 1,129 (2022)<br>
 <strong>note:</strong> 84,937 estimated refugee and migrant arrivals (January 2015-October 2022); Bulgaria is predominantly a transit country<br>
 

@@ -257,10 +257,10 @@ _urban population_: 81.6% of total population (2023)<br>
 _rate of urbanization_: 1.45% annual rate of change (2020-25 est.)<br>
 
 **Revenue from forest resources**<br>
-_forest revenues_: 0.06% of GDP (2018 est.)<br>
+0.06% of GDP (2018 est.)<br>
 
 **Revenue from coal**<br>
-_coal revenues_: 0% of GDP (2018 est.)<br>
+0% of GDP (2018 est.)<br>
 
 **Food insecurity**<br>
 _severe localized food insecurity_: <em>due to civil insecurity, economic and political instability, and high food prices -</em> an estimated 800,000 people, 10% of the population, need humanitarian assistance, of which 500,000 require food assistance; the country relies heavily on imports (up to 90%) to cover its cereal consumption requirements (mostly wheat for human consumption and barley for feed); between 2016 and 2020, the country sourced over 30% of its wheat imports from Ukraine, and 20% from the Russian Federation; almost 65% of total maize imports of 650,000 mt, and 50% of total barley imports of 1 million mt originated from Ukraine, making the Libya vulnerable to disruptions in shipments from the Black Sea region (2022)<br>
@@ -656,7 +656,7 @@ _LNG terminal(s) (export)_: Marsa el Brega<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Libya lacks a nationwide military and the interim government, the Government of National Unity (GNU), relies on its cooperation with disparate militias that it cannot entirely control for security; the GNU has a ministry of defense and access to various ground, air, and naval/coast guard forces comprised of a mix of semi-regular military units, militias, civilian volunteers, and foreign troops and mercenaries<br><br>the Libyan National Army (LNA), under de facto LNA commander Khalifa HAFTER, also includes various ground, air, and naval units comprised of semi-regular military personnel, militias, and foreign troops and mercenaries; as of 2022, the LNA operated independently from the GNU and exerted influence throughout eastern, central, and southern Libya (2022)<br>
+Libya lacks a nationwide military and the interim government, the Government of National Unity (GNU), relies on its cooperation with disparate militias that it cannot entirely control for security; the GNU has a ministry of defense and access to various ground, air, and naval/coast guard forces comprised of a mix of semi-regular military units, militias, civilian volunteers, and foreign troops and mercenaries<br><br>the self-styled Libyan National Army (LNA), under de facto LNA commander Khalifa HAFTER, also includes various ground, air, and naval units comprised of semi-regular military personnel, militias, and foreign troops and mercenaries; the LNA operates independently from the GNU and exerts influence throughout eastern, central, and southern Libya (2022)<br>
 <strong>note 1:</strong> the Stabilization Support Authority (SSA) is a state-funded militia established in January 2021 by the GNU; it is tasked with securing government buildings and officials, participating in combat operations, apprehending those suspected of national security crimes, and cooperating with other security bodies<br><br><strong>note 2: </strong>the national police force under the Ministry of Interior oversees internal security (with support from military forces under the Ministry of Defense), but much of Libya's security-related police work generally falls to informal armed groups, which received government salaries but lacked formal training, supervision, or consistent accountability<br>
 
 **Military expenditures**<br>
@@ -666,13 +666,13 @@ not available<br>
 estimates not available<br>
 
 **Military equipment inventories and acquisitions**<br>
-both the forces aligned with the GNU and the LNA are largely equipped with weapons of Russian or Soviet origin; as of 2021, Turkey was the top provider of arms and equipment to the forces supporting the GNU, while the United Arab Emirates was the main supporter of the LNA (2021)<br>
+both the forces aligned with the GNU and the LNA are largely equipped with weapons of Russian or Soviet origin; in recent years, Turkey has the been the primary supplier of arms to the GNU, while the LNA has received quantities from the UAE (2022)<br>
 
 **Military service age and obligation**<br>
 not available<br>
 
 **Military - note**<br>
-Turkey has been the primary backer of the GNU/GNA; Turkish military advisers have trained and assisted western/GNU Libyan forces in accordance with a 2019 Turkey-GNA security agreement; Turkey has also provided thousands of Syrian mercenaries to Libya, as well as ammunition, weapons and aerial drones; Russia, the United Arab Emirates, and Egypt have been the main supporters of the LNA; the LNA has used fighters from other countries, including Chad, Sudan, and Syria <br><br>as of 2022, ISIS continued to maintain a relatively weak presence in Libya with small bands of fighters operating out of ungoverned spaces and conducting small-scale attacks throughout the country (2022)<br>
+Turkey has been the primary backer of the GNU/GNA; Turkish military advisers have trained and assisted western/GNU Libyan forces in accordance with a 2019 Turkey-GNA security agreement; Turkey has also provided thousands of Syrian mercenaries to Libya, as well as ammunition, weapons and aerial drones; Russia, the United Arab Emirates, and Egypt have been the main supporters of the LNA; Russia has provided as many as 2,000 private military contractors; the LNA has also used fighters from other countries, including Chad, Sudan, and Syria <br><br>ISIS continues to maintain a relatively weak presence in Libya with small bands of fighters operating out of ungoverned spaces and conducting small-scale attacks throughout the country (2022)<br>
 
 ## Terrorism
 

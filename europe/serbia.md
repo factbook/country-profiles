@@ -278,10 +278,10 @@ _rate of urbanization_: 0.04% annual rate of change (2020-25 est.)<br>
 <strong>note:</strong> data include Kosovo<br>
 
 **Revenue from forest resources**<br>
-_forest revenues_: 0.38% of GDP (2018 est.)<br>
+0.38% of GDP (2018 est.)<br>
 
 **Revenue from coal**<br>
-_coal revenues_: 0.25% of GDP (2018 est.)<br>
+0.25% of GDP (2018 est.)<br>
 
 **Major infectious diseases**<br>
 _degree of risk_: intermediate (2020)<br>
@@ -695,7 +695,7 @@ _river port(s)_: Belgrade (Danube)<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Serbian Armed Forces (Vojska Srbije, VS): Land Forces (includes Riverine Component, consisting of a naval flotilla on the Danube), Air and Air Defense Forces, Serbian Guard; Police Directorate of the Serbian Ministry of Interior: Gendarmerie (2022)<br>
+Serbian Armed Forces (Vojska Srbije, VS): Land Forces (includes Riverine Component, consisting of a naval flotilla on the Danube), Air and Air Defense Forces, Serbian Guard; Serbian Ministry of Interior: General Police Directorate (2023)<br>
 <strong>note:</strong> the Serbian Guard is a brigade-sized unit that is directly subordinate to the Serbian Armed Forces Chief of General Staff; its duties include safeguarding key defense facilities and rendering military honors to top foreign, state, and military officials <br><br>
 
 **Military expenditures**<br>
@@ -730,7 +730,7 @@ the Serbian Armed Forces were established in June 2006; the Serbian military tra
 _refugees (country of origin)_: 17,334 (Croatia), 7,997 (Bosnia and Herzegovina) (mid-year 2022); 22,716 (Ukraine) (includes Ukrainian refugees in Kosovo; as of 22 November 2022)<br>
 _IDPs_: 196,995 (most are Kosovar Serbs, some are Roma, Ashkalis, and Egyptian (RAE); some RAE IDPs are unregistered) (2021)<br>
 _stateless persons_: 2,594 (includes stateless persons in Kosovo) (2022)<br>
-<strong>note:</strong> 944,624 estimated refugee and migrant arrivals (January 2015-February 2023); Serbia is predominantly a transit country and hosts an estimated 7,271 migrants and asylum seekers as of November 2022<br>
+<strong>note:</strong> 944,634 estimated refugee and migrant arrivals (January 2015-February 2023); Serbia is predominantly a transit country and hosts an estimated 7,271 migrants and asylum seekers as of November 2022<br>
 
 **Illicit drugs**<br>
 <p>drug trafficking groups are major players in the procurement and transportation of large quantities of cocaine destined for European markets</p><br>

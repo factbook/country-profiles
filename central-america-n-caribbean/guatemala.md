@@ -271,10 +271,10 @@ _urban population_: 53.1% of total population (2023)<br>
 _rate of urbanization_: 2.59% annual rate of change (2020-25 est.)<br>
 
 **Revenue from forest resources**<br>
-_forest revenues_: 0.78% of GDP (2018 est.)<br>
+0.78% of GDP (2018 est.)<br>
 
 **Revenue from coal**<br>
-_coal revenues_: 0% of GDP (2018 est.)<br>
+0% of GDP (2018 est.)<br>
 
 **Major infectious diseases**<br>
 _degree of risk_: high (2020)<br>
@@ -288,9 +288,9 @@ _municipal solid waste generated annually_: 2,756,741 tons (2015 est.)<br>
 _fresh water lake(s)_: Lago de Izabal - 590 sq km<br>
 
 **Total water withdrawal**<br>
-_municipal_: 835 million cubic meters (2017 est.)<br>
-_industrial_: 603.1 million cubic meters (2017 est.)<br>
-_agricultural_: 1.886 billion cubic meters (2017 est.)<br>
+_municipal_: 840 million cubic meters (2019 est.)<br>
+_industrial_: 600 million cubic meters (2019 est.)<br>
+_agricultural_: 1.89 billion cubic meters (2019 est.)<br>
 
 **Total renewable water resources**<br>
 127.9 billion cubic meters (2019 est.)<br>
@@ -300,7 +300,7 @@ _agricultural_: 1.886 billion cubic meters (2017 est.)<br>
 **Country name**<br>
 _conventional long form_: Republic of Guatemala<br>
 _conventional short form_: Guatemala<br>
-_local long form_: Republica de Guatemala<br>
+_local long form_: Rep&uacute;blica de Guatemala<br>
 _local short form_: Guatemala<br>
 _etymology_: the Spanish conquistadors used many native Americans as allies in their conquest of Guatemala; the site of their first capital (established in 1524), a former Maya settlement, was called "Quauhtemallan" by their Nahuatl-speaking Mexican allies, a name that means "land of trees" or "forested land", but which the Spanish pronounced "Guatemala"; the Spanish applied that name to a re-founded capital city three years later and eventually it became the name of the country<br>
 

@@ -264,10 +264,10 @@ _urban population_: 39.8% of total population (2023)<br>
 _rate of urbanization_: 3.71% annual rate of change (2015-20 est.)<br>
 
 **Revenue from forest resources**<br>
-_forest revenues_: 0.04% of GDP (2018 est.)<br>
+0.04% of GDP (2018 est.)<br>
 
 **Revenue from coal**<br>
-_coal revenues_: 0% of GDP (2018 est.)<br>
+0% of GDP (2018 est.)<br>
 
 **Major infectious diseases**<br>
 _degree of risk_: high (2020)<br>
@@ -693,7 +693,7 @@ in 2015, a Saudi-led coalition of Arab states intervened militarily in Yemen in 
 ## Terrorism
 
 **Terrorist group(s)**<br>
-Islamic Revolutionary Guard Corps (IRGC)/Qods Force; Islamic State of Iraq and ash-Sham - Yemen; al-Qa'ida in the Arabian Peninsula (AQAP)<br>
+Islamic Revolutionary Guard Corps (IRGC)/Qods Force; Islamic State of Iraq and ash-Sham - Yemen; al-Qa'ida in the Arabian Peninsula (AQAP), Hizballah<br>
 <strong>note:</strong> details about the history, aims, leadership, organization, areas of operation, tactics, targets, weapons, size, and sources of support of the group(s) appear(s) in Appendix-T<br>
 
 ## Transnational Issues
@@ -702,6 +702,6 @@ Islamic Revolutionary Guard Corps (IRGC)/Qods Force; Islamic State of Iraq and a
 <p><em>Yemen-Oman</em>: none identified</p> <p><em>Yemen-Saudia Arabia:</em> in 2004, Saudi Arabia reinforced its concrete-filled security barrier along sections of the fully demarcated border with Yemen to stem illegal cross-border activities, including militants and arms; in 2013 and 2015, Saudi Arabia again erected fences<br><br><br></p> <p> </p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 69,671 (Somalia), 20,306 (Ethiopia) (2022)<br>
+_refugees (country of origin)_: 20,306 (Ethiopia) (2022); 63,349 (Somalia) (2023)<br>
 _IDPs_: 4.52 million (conflict in Sa'ada Governorate; clashes between al-Qa'ida in the Arabian Peninsula and government forces) (2022)<br>
 

@@ -282,7 +282,7 @@ _urban population_: 43.1% of total population (2023)<br>
 _rate of urbanization_: 1.9% annual rate of change (2020-25 est.)<br>
 
 **Revenue from forest resources**<br>
-_forest revenues_: 0.15% of GDP (2018 est.)<br>
+0.15% of GDP (2018 est.)<br>
 
 **Major infectious diseases**<br>
 _degree of risk_: intermediate (2020)<br>

@@ -264,10 +264,10 @@ _urban population_: 74.6% of total population (2023)<br>
 _rate of urbanization_: 0.2% annual rate of change (2020-25 est.)<br>
 
 **Revenue from forest resources**<br>
-_forest revenues_: 0.17% of GDP (2017 est.)<br>
+0.17% of GDP (2017 est.)<br>
 
 **Revenue from coal**<br>
-_coal revenues_: 0.14% of GDP (2018 est.)<br>
+0.14% of GDP (2018 est.)<br>
 
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 3.337 million tons (2015 est.)<br>
@@ -281,9 +281,9 @@ Danube (shared with Germany [s], Austria, Slovakia, Hungary, Croatia, Serbia, Bu
 Atlantic Ocean drainage: <em>(Black Sea)</em> Danube (795,656 sq km)<br>
 
 **Total water withdrawal**<br>
-_municipal_: 616.6 million cubic meters (2017 est.)<br>
-_industrial_: 967.2 million cubic meters (2017 est.)<br>
-_agricultural_: 46.6 million cubic meters (2017 est.)<br>
+_municipal_: 650 million cubic meters (2019 est.)<br>
+_industrial_: 820 million cubic meters (2019 est.)<br>
+_agricultural_: 40 million cubic meters (2019 est.)<br>
 
 **Total renewable water resources**<br>
 13.2 billion cubic meters (2019 est.)<br>
@@ -336,11 +336,11 @@ _residency requirement for naturalization_: 5 years<br>
 18 years of age; universal<br>
 
 **Executive branch**<br>
-_chief of state_: President Milos ZEMAN (since 8 March 2013)<br>
+_chief of state_: President Petr PAVEL (since 9 March 2023)<br>
 _head of government_: Prime Minister Petr FIALA (since 17 December 2021); First Deputy Prime Minister Vit RAKUSAN (since 17 December 2021), Deputy Prime Ministers Marian JURECKA, Ivan BARTOS, Vlastimil VALEK (all since 17 December 2021)<br>
 _cabinet_: Cabinet appointed by the president on the recommendation of the prime minister<br>
 _elections/appointments_: president directly elected by absolute majority popular vote in 2 rounds if needed for a 5-year term (limited to 2 consecutive terms); elections last held on 27-28 January 2023 the second round and 13-14 January 2023 for the 1st round; prime minister appointed by the president for a 4-year term<br>
-_election results_: <em>2023; </em>2nd Round Petr PAVEL 58.3%, Andrej BABIS 41.6%; PAVEL will take office in March <em>2023</em>; 1st Round Petr PAVEL 35.4%, Andrej BABIS 35<em>%</em>, Danuse NERUDORA 13.9%, Pavel FISCHER 6.8%<em><br><br>2018:</em> Milos ZEMAN reelected president in the second round; percent of vote - Milos ZEMAN (SPO) 51.4%, Jiri DRAHOS (independent) 48.6%<br><br><em>2013:</em> Milos ZEMAN elected president; percent of vote - Milos ZEMAN (SPO) 54.8%, Karel SCHWARZENBERG (TOP 09) 45.2%<br>
+_election results_: <em>2023; </em>2nd Round Petr PAVEL 58.3%, Andrej BABIS 41.6%; 1st Round Petr PAVEL 35.4%, Andrej BABIS 35<em>%</em>, Danuse NERUDORA 13.9%, Pavel FISCHER 6.8%<em><br><br>2018:</em> Milos ZEMAN reelected president in the second round; percent of vote - Milos ZEMAN (SPO) 51.4%, Jiri DRAHOS (independent) 48.6%<br><br><em>2013:</em> Milos ZEMAN elected president; percent of vote - Milos ZEMAN (SPO) 54.8%, Karel SCHWARZENBERG (TOP 09) 45.2%<br>
 
 **Legislative branch**<br>
 _description_: bicameral Parliament or Parlament consists of:<br>Senate or Senat (81 seats; members directly elected in single-seat constituencies by absolute majority vote in 2 rounds if needed; members serve 6-year terms with one-third of the membership renewed every 2 years)<br><br>Chamber of Deputies or Poslanecka Snemovna (200 seats; members directly elected in 14 multi-seat constituencies by proportional representation vote with a 5% threshold required to fill a seat; members serve 4-year terms)<br>
@@ -713,7 +713,7 @@ Czechia joined NATO in 1999; Czechia, Hungary, and Poland were invited to begin 
 <p>none</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 494,793 (Ukraine) (as of 26 February 2023)<br>
+_refugees (country of origin)_: 497,217 (Ukraine) (as of 6 March 2023)<br>
 _stateless persons_: 1,625 (2022)<br>
 
 **Illicit drugs**<br>

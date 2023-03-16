@@ -272,10 +272,10 @@ _rate of urbanization_: 0.24% annual rate of change (2020-25 est.)<br>
 <strong>note:</strong> data include Canary Islands, Ceuta, and Melilla<br>
 
 **Revenue from forest resources**<br>
-_forest revenues_: 0.02% of GDP (2018 est.)<br>
+0.02% of GDP (2018 est.)<br>
 
 **Revenue from coal**<br>
-_coal revenues_: 0% of GDP (2018 est.)<br>
+0% of GDP (2018 est.)<br>
 
 **Major infectious diseases**<br>
 _respiratory diseases_: Covid-19 (see note) (2020)<br>
@@ -740,7 +740,7 @@ Islamic State of Iraq and ash-Sham (ISIS); al-Qa’ida<br>
 **Refugees and internally displaced persons**<br>
 _refugees (country of origin)_: 14,994 (Syria) (mid-year 2022); 418,200 (Venezuela) (economic and political crisis; includes Venezuelans who have claimed asylum, are recognized as refugees, or have received alternative legal stay) (2021); 168,654 (Ukraine) (as of 26 February 2023)<br>
 _stateless persons_: 6,489 (2022)<br>
-<strong>note: </strong>281,945 estimated refugee and migrant arrivals, including Canary Islands (January 2015-February 2023)<br>
+<strong>note: </strong>282,236 estimated refugee and migrant arrivals, including Canary Islands (January 2015-March 2023)<br>
 
 **Illicit drugs**<br>
 primary transit point in Europe for cocaine from South America and for hashish from Morocco; cocaine is shipped in raw or liquid form with mixed cargo to avoid detection; traffickers ship methamphetamine via express mail; increasing indoor cannabis production; illegal labs cutting, mixing, and reconstituting cocaine, heroin, and methamphetamine labs; synthetic drugs, including ketamine and MDMA (ecstasy) transit from Spain to the US<br>

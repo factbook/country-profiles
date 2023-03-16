@@ -272,10 +272,10 @@ _urban population_: 77.5% of total population (2023)<br>
 _rate of urbanization_: 0.19% annual rate of change (2020-25 est.)<br>
 
 **Revenue from forest resources**<br>
-_forest revenues_: 0.06% of GDP (2018 est.)<br>
+0.06% of GDP (2018 est.)<br>
 
 **Revenue from coal**<br>
-_coal revenues_: 0% of GDP (2018 est.)<br>
+0% of GDP (2018 est.)<br>
 
 **Major infectious diseases**<br>
 _degree of risk_: intermediate (2020)<br>
@@ -288,9 +288,9 @@ _municipal solid waste recycled annually_: 255,536 tons (2015 est.)<br>
 _percent of municipal solid waste recycled_: 9.5% (2015 est.)<br>
 
 **Total water withdrawal**<br>
-_municipal_: 1.7 billion cubic meters (2017 est.)<br>
-_industrial_: 740 million cubic meters (2017 est.)<br>
-_agricultural_: 4.519 billion cubic meters (2017 est.)<br>
+_municipal_: 1.7 billion cubic meters (2019 est.)<br>
+_industrial_: 740 million cubic meters (2019 est.)<br>
+_agricultural_: 4.52 billion cubic meters (2019 est.)<br>
 
 **Total renewable water resources**<br>
 38.1 billion cubic meters (2019 est.)<br>
@@ -300,7 +300,7 @@ _agricultural_: 4.519 billion cubic meters (2017 est.)<br>
 **Country name**<br>
 _conventional long form_: Republic of Cuba<br>
 _conventional short form_: Cuba<br>
-_local long form_: Republica de Cuba<br>
+_local long form_: Rep&uacute;blica de Cuba<br>
 _local short form_: Cuba<br>
 _etymology_: name derives from the Taino Indian designation for the island "coabana" meaning "great place"<br>
 

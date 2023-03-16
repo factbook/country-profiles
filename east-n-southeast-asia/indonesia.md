@@ -282,10 +282,10 @@ _urban population_: 58.6% of total population (2023)<br>
 _rate of urbanization_: 1.99% annual rate of change (2020-25 est.)<br>
 
 **Revenue from forest resources**<br>
-_forest revenues_: 0.39% of GDP (2018 est.)<br>
+0.39% of GDP (2018 est.)<br>
 
 **Revenue from coal**<br>
-_coal revenues_: 1.06% of GDP (2018 est.)<br>
+1.06% of GDP (2018 est.)<br>
 
 **Major infectious diseases**<br>
 _degree of risk_: very high (2020)<br>
@@ -333,7 +333,7 @@ _time zone note_: Indonesia has three time zones<br>
 _etymology_: "Jakarta" derives from the Sanscrit "Jayakarta" meaning "victorious city" and refers to a successful defeat and expulsion of the Portuguese in 1527; previously the port had been named "Sunda Kelapa"<br>
 
 **Administrative divisions**<br>
-34 provinces (provinsi-provinsi, singular - provinsi), 1 autonomous province*, 1 special region** (daerah-daerah istimewa, singular - daerah istimewa), and 1 national capital district*** (daerah khusus ibukota); Aceh*, Bali, Banten, Bengkulu, Gorontalo, Jakarta***, Jambi, Jawa Barat (West Java), Jawa Tengah (Central Java), Jawa Timur (East Java), Kalimantan Barat (West Kalimantan), Kalimantan Selatan (South Kalimantan), Kalimantan Tengah (Central Kalimantan), Kalimantan Timur (East Kalimantan), Kalimantan Utara (North Kalimantan), Kepulauan Bangka Belitung (Bangka Belitung Islands), Kepulauan Riau (Riau Islands), Lampung, Maluku, Maluku Utara (North Maluku), Nusa Tenggara Barat (West Nusa Tenggara), Nusa Tenggara Timur (East Nusa Tenggara), Papua, Papua Barat (West Papua), Papua Pegunungan (Papua Highlands), Papua Selatan (South Papua), Papua Tengah (Central Papua), Riau, Sulawesi Barat (West Sulawesi), Sulawesi Selatan (South Sulawesi), Sulawesi Tengah (Central Sulawesi), Sulawesi Tenggara (Southeast Sulawesi), Sulawesi Utara (North Sulawesi), Sumatera Barat (West Sumatra), Sumatera Selatan (South Sumatra), Sumatera Utara (North Sumatra), Yogyakarta**<br>
+35 provinces (provinsi-provinsi, singular - provinsi), 1 autonomous province*, 1 special region** (daerah istimewa), and 1 national capital district*** (daerah khusus ibukota); Aceh*, Bali, Banten, Bengkulu, Gorontalo, Jakarta***, Jambi, Jawa Barat (West Java), Jawa Tengah (Central Java), Jawa Timur (East Java), Kalimantan Barat (West Kalimantan), Kalimantan Selatan (South Kalimantan), Kalimantan Tengah (Central Kalimantan), Kalimantan Timur (East Kalimantan), Kalimantan Utara (North Kalimantan), Kepulauan Bangka Belitung (Bangka Belitung Islands), Kepulauan Riau (Riau Islands), Lampung, Maluku, Maluku Utara (North Maluku), Nusa Tenggara Barat (West Nusa Tenggara), Nusa Tenggara Timur (East Nusa Tenggara), Papua, Papua Barat (West Papua), Papua Barat Daya (Southwest Papua), Papua Pegunungan (Papua Highlands), Papua Selatan (South Papua), Papua Tengah (Central Papua), Riau, Sulawesi Barat (West Sulawesi), Sulawesi Selatan (South Sulawesi), Sulawesi Tengah (Central Sulawesi), Sulawesi Tenggara (Southeast Sulawesi), Sulawesi Utara (North Sulawesi), Sumatera Barat (West Sumatra), Sumatera Selatan (South Sumatra), Sumatera Utara (North Sumatra), Yogyakarta**<br>
 <strong>note:</strong> following the implementation of decentralization beginning on 1 January 2001, regencies and municipalities have become the key administrative units responsible for providing most government services<br>
 
 **Independence**<br>

@@ -264,10 +264,10 @@ _urban population_: 88% of total population (2023)<br>
 _rate of urbanization_: 0.78% annual rate of change (2020-25 est.)<br>
 
 **Revenue from forest resources**<br>
-_forest revenues_: 0.49% of GDP (2018 est.)<br>
+0.49% of GDP (2018 est.)<br>
 
 **Revenue from coal**<br>
-_coal revenues_: 0.01% of GDP (2018 est.)<br>
+0.01% of GDP (2018 est.)<br>
 
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 6.517 million tons (2009 est.)<br>
@@ -290,7 +290,7 @@ _agricultural_: 29.42 billion cubic meters (2019 est.)<br>
 **Country name**<br>
 _conventional long form_: Republic of Chile<br>
 _conventional short form_: Chile<br>
-_local long form_: Republica de Chile<br>
+_local long form_: Rep&uacute;blica de Chile<br>
 _local short form_: Chile<br>
 _etymology_: derivation of the name is unclear, but it may come from the Mapuche word "chilli" meaning "limit of the earth" or from the Quechua "chiri" meaning "cold"<br>
 

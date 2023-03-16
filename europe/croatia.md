@@ -269,10 +269,10 @@ _urban population_: 58.6% of total population (2023)<br>
 _rate of urbanization_: 0.05% annual rate of change (2020-25 est.)<br>
 
 **Revenue from forest resources**<br>
-_forest revenues_: 0.26% of GDP (2018 est.)<br>
+0.26% of GDP (2018 est.)<br>
 
 **Revenue from coal**<br>
-_coal revenues_: 0% of GDP (2018 est.)<br>
+0% of GDP (2018 est.)<br>
 
 **Major infectious diseases**<br>
 _degree of risk_: intermediate (2020)<br>
@@ -290,9 +290,9 @@ Danube (shared with Germany [s], Austria, Slovakia, Czechia, Hungary, Serbia, Bu
 Atlantic Ocean drainage: <em>(Black Sea)</em> Danube (795,656 sq km)<br>
 
 **Total water withdrawal**<br>
-_municipal_: 455 million cubic meters (2017 est.)<br>
-_industrial_: 184 million cubic meters (2017 est.)<br>
-_agricultural_: 76 million cubic meters (2017 est.)<br>
+_municipal_: 460 million cubic meters (2019 est.)<br>
+_industrial_: 190 million cubic meters (2019 est.)<br>
+_agricultural_: 80 million cubic meters (2019 est.)<br>
 
 **Total renewable water resources**<br>
 105.5 billion cubic meters (2019 est.)<br>
@@ -731,7 +731,7 @@ Croatia joined NATO in 2009<br>
 <p>dispute remains with Bosnia and Herzegovina over several small sections of the boundary related to maritime access that hinders ratification of the 1999 border agreement; since the breakup of Yugoslavia in the early 1990s, Croatia and Slovenia have each claimed sovereignty over Piranski Bay and four villages, and Slovenia has objected to Croatia's claim of an exclusive economic zone in the Adriatic Sea; in 2009, however Croatia and Slovenia signed a binding international arbitration agreement to define their disputed land and maritime borders, which led to Slovenia lifting its objections to Croatia joining the EU; Croatia joined the Schengen Zone on 1 January 2023</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 20,796 (Ukraine) (as of 10 February 2023)<br>
+_refugees (country of origin)_: 21,115 (Ukraine) (as of 3 March 2023)<br>
 _stateless persons_: 2,889 (2022)<br>
 <strong>note: </strong>771,932 estimated refugee and migrant arrivals (January 2015-October 2022)<br>
 

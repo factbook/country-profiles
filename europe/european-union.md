@@ -173,10 +173,10 @@ _carbon dioxide emissions_: 2,881.62 megatons (2016 est.)<br>
 cold temperate; potentially subarctic in the north to temperate; mild wet winters; hot dry summers in the south<br>
 
 **Revenue from forest resources**<br>
-_forest revenues_: 0.05% of GDP (2018 est.)<br>
+0.05% of GDP (2018 est.)<br>
 
 **Revenue from coal**<br>
-_coal revenues_: 0.02% of GDP (2018 est.)<br>
+0.02% of GDP (2018 est.)<br>
 
 **Total renewable water resources**<br>
 1.7 trillion cubic meters (2019)<br>

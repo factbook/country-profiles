@@ -285,10 +285,10 @@ _urban population_: 47.4% of total population (2023)<br>
 _rate of urbanization_: 4.33% annual rate of change (2020-25 est.)<br>
 
 **Revenue from forest resources**<br>
-_forest revenues_: 8.72% of GDP (2018 est.)<br>
+8.72% of GDP (2018 est.)<br>
 
 **Revenue from coal**<br>
-_coal revenues_: 0% of GDP (2018 est.)<br>
+0% of GDP (2018 est.)<br>
 
 **Major infectious diseases**<br>
 _degree of risk_: very high (2020)<br>
@@ -299,7 +299,7 @@ _animal contact diseases_: rabies<br>
 <strong>note: </strong>on 21 March 2022, the US Centers for Disease Control and Prevention (CDC) issued a Travel Alert for polio in Africa; the Democratic Republic of the Congo is currently considered a high risk to travelers for circulating vaccine-derived polioviruses (cVDPV); vaccine-derived poliovirus (VDPV) is a strain of the weakened poliovirus that was initially included in oral polio vaccine (OPV) and <em>that has changed over time and behaves more like the wild or naturally occurring virus</em>; this means it can be spread more easily to people who are unvaccinated against polio and who come in contact with the stool or respiratory secretions, such as from a sneeze, of an “infected” person who received oral polio vaccine; the CDC recommends that before any international travel, anyone unvaccinated, incompletely vaccinated, or with an unknown polio vaccination status should complete the routine polio vaccine series; before travel to any high-risk destination, the CDC recommends that adults who previously completed the full, routine polio vaccine series receive a single, lifetime booster dose of polio vaccine<br>
 
 **Food insecurity**<br>
-_widespread lack of access_: <em>due to internal conflict in eastern regions and economic downturn - </em>given the recent escalation of conflicts in the eastern provinces and the consequent population displacement, the magnitude and severity of acute food insecurity may exceed the projected levels; additionally, elevated staple food prices, both domestically and globally, pose a further risk to food insecurity (2022)<br>
+_widespread lack of access_: <em>due to internal conflict in eastern regions and high food prices - </em>according to an October 2022 analysis, 24.5 million people were projected to experience acute food insecurity between January and June 2023; this is due to persistent conflict in the eastern provinces of North Kivu, South Kivu and Ituri, which continues to cause population displacements, and to high prices of domestic food staples (2023)<br>
 
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 14,385,226 tons (2016 est.)<br>

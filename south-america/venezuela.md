@@ -298,7 +298,7 @@ _agricultural_: 16.71 billion cubic meters (2017 est.)<br>
 **Country name**<br>
 _conventional long form_: Bolivarian Republic of Venezuela<br>
 _conventional short form_: Venezuela<br>
-_local long form_: Republica Bolivariana de Venezuela<br>
+_local long form_: Rep&uacute;blica Bolivariana de Venezuela<br>
 _local short form_: Venezuela<br>
 _former_: State of Venezuela, Republic of Venezuela, United States of Venezuela<br>
 _etymology_: native stilt-houses built on Lake Maracaibo reminded early explorers Alonso de OJEDA and Amerigo VESPUCCI in 1499 of buildings in Venice and so they named the region "Venezuola," which in Italian means "Little Venice"<br>

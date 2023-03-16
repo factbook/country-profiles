@@ -272,10 +272,10 @@ _urban population_: 44.3% of total population (2023)<br>
 _rate of urbanization_: 3.02% annual rate of change (2020-25 est.)<br>
 
 **Revenue from forest resources**<br>
-_forest revenues_: 6.92% of GDP (2018 est.)<br>
+6.92% of GDP (2018 est.)<br>
 
 **Revenue from coal**<br>
-_coal revenues_: 0% of GDP (2018 est.)<br>
+0% of GDP (2018 est.)<br>
 
 **Major infectious diseases**<br>
 _degree of risk_: very high (2020)<br>
@@ -688,7 +688,7 @@ the RSLAF has a small inventory that includes a mix of Soviet-origin and other o
 18-29 for voluntary military service; women are eligible to serve; no conscription (2022)<br>
 
 **Military - note**<br>
-after the end of the civil war in 2002, the military was reduced in size and restructured with British military assistance; the RSLAF&rsquo;s origins lie in the Sierra Leone Battalion of the Royal West African Frontier Force (RWAFF), a multi-regiment force formed by the British colonial office in 1900 to garrison the West African colonies of Gold Coast (Ghana), Nigeria (Lagos and the protectorates of Northern and Southern Nigeria), Sierra Leone, and Gambia; the RWAFF fought in both World Wars (2022)<br>
+the RSLAF’s principle responsibilities are securing the borders and the country’s territorial waters, supporting civil authorities during emergencies and reconstruction efforts, and participating in peacekeeping missions; it is small, lightly armed, and has a limited budget; since being reduced in size and restructured with British assistance after the end of the civil war in 2002, it has received assistance from several foreign militaries, including those of Canada, China, France, the UK, and the US; the RSLAF has participated in peacekeeping operations in Somalia and Sudan; the Land Forces are by far the largest service and have 4 small light infantry brigades; the Maritime Forces have a few small coastal and in-shore patrol boats, while the Air Wing has a handful of serviceable combat helicopters<br><br>the RSLAF’s origins lie in the Sierra Leone Battalion of the Royal West African Frontier Force (RWAFF), a multi-regiment force formed by the British colonial office in 1900 to garrison the West African colonies of Gold Coast (Ghana), Nigeria (Lagos and the protectorates of Northern and Southern Nigeria), Sierra Leone, and Gambia; the RWAFF fought in both World Wars (2023)<br>
 
 ## Transnational Issues
 

@@ -264,10 +264,10 @@ _urban population_: 42% of total population (2023)<br>
 _rate of urbanization_: 2.34% annual rate of change (2020-25 est.)<br>
 
 **Revenue from forest resources**<br>
-_forest revenues_: 0% of GDP (2018 est.)<br>
+0% of GDP (2018 est.)<br>
 
 **Revenue from coal**<br>
-_coal revenues_: 0% of GDP (2018 est.)<br>
+0% of GDP (2018 est.)<br>
 
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 211,506 tons (2015 est.)<br>
@@ -648,7 +648,7 @@ _major seaport(s)_: Male<br>
 
 **Military and security forces**<br>
 the Republic of Maldives has no distinct army, navy, or air force but a single security unit called the Maldives National Defense Force (MNDF) comprised of ground forces, an air element, a coastguard, a presidential security division, and a special protection group (2022)<br>
-<strong>note:</strong> the Maldives Police Service is responsible for internal security and reports to the Ministry of Home Affairs<br>
+<strong>note:</strong> the Maldives Police Service is responsible for internal security and reports to the Ministry of Home Affairs; the MNDF is responsible for counterterrorism<br>
 
 **Military expenditures**<br>
 not available<br>

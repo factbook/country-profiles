@@ -285,10 +285,10 @@ _urban population_: 78.9% of total population (2023)<br>
 _rate of urbanization_: 1.33% annual rate of change (2020-25 est.)<br>
 
 **Revenue from forest resources**<br>
-_forest revenues_: 0.12% of GDP (2018 est.)<br>
+0.12% of GDP (2018 est.)<br>
 
 **Revenue from coal**<br>
-_coal revenues_: 0% of GDP (2018 est.)<br>
+0% of GDP (2018 est.)<br>
 
 **Major infectious diseases**<br>
 _degree of risk_: very high (2020)<br>
@@ -326,7 +326,7 @@ _agricultural_: 13.1 billion cubic meters (2017 est.)<br>
 **Country name**<br>
 _conventional long form_: Republic of Peru<br>
 _conventional short form_: Peru<br>
-_local long form_: Republica del Peru<br>
+_local long form_: Rep&uacute;blica del Peru<br>
 _local short form_: Peru<br>
 _etymology_: exact meaning is obscure, but the name may derive from a native word "biru" meaning "river"<br>
 
@@ -752,7 +752,7 @@ the military's inventory is a mix of mostly older equipment from a wide variety 
 215 Central African Republic (MINUSCA) (May 2022)<br>
 
 **Military - note**<br>
-as of 2022, the Peruvian security forces continued to conduct operations against remnants of the Shining Path terrorist group (aka Sendero Luminoso; see Appendix T<u>)</u>, particularly in the Apurimac, Ene, and Mantaro River Valleys (VRAEM) of eastern Peru; the military had approximately 8,000-10,000 troops in the VRAEM under a combined Special Command comprised of air, ground, naval, police, and special forces units (2022)<br>
+the Peruvian security forces continue to conduct operations against remnants of the Shining Path terrorist group (aka Sendero Luminoso; see Appendix T<u>)</u>, particularly in the Apurimac, Ene, and Mantaro River Valleys (VRAEM) of eastern Peru; as of 2022, the military had approximately 8,000-10,000 troops in the VRAEM under a combined Special Command comprised of air, ground, naval, police, and special forces units (2022)<br>
 
 **Maritime threats**<br>
 the International Maritime Bureau reports the territorial waters of Peru are a risk for armed robbery against ships; in 2021, 18 attacks against commercial vessels were reported, a more than 50% increase over the eight attacks in 2020; all of these occurred in the main port of Callao while ships were berthed or at anchor<br>

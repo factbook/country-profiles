@@ -267,10 +267,10 @@ _urban population_: 59.7% of total population (2023)<br>
 _rate of urbanization_: 2.47% annual rate of change (2020-25 est.)<br>
 
 **Revenue from forest resources**<br>
-_forest revenues_: 0.68% of GDP (2018 est.)<br>
+0.68% of GDP (2018 est.)<br>
 
 **Revenue from coal**<br>
-_coal revenues_: 0% of GDP (2018 est.)<br>
+0% of GDP (2018 est.)<br>
 
 **Major infectious diseases**<br>
 _degree of risk_: very high (2020)<br>
@@ -278,15 +278,15 @@ _food or waterborne diseases_: bacterial and protozoal diarrhea, hepatitis A and
 _vectorborne diseases_: dengue fever and malaria<br>
 
 **Food insecurity**<br>
-_severe localized food insecurity_: <em>due to reduced agricultural production, sociopolitical turmoil, natural disasters - </em>about 4.56 million people are estimated to be facing severe acute food insecurity and in need of urgent food assistance between March and June 2022; the high levels of food insecurity are the result of consecutive reduced cereal harvests between 2018 and 2021, and elevated food prices, exacerbated by socio-political turmoil and worsening insecurity; the lack of income-earning opportunities, amid worsening insecurity and difficult macroeconomic conditions, is likely to heighten food insecurity in 2022 (2022)<br>
+_widespread lack of access_: <em>due to high food prices, natural disasters, sociopolitical turmoil, and worsening insecurity -</em> about 4.7 million people are projected to be facing severe acute food insecurity and are in need of urgent food assistance between March and June 2023; the high levels of food insecurity are the result of elevated food prices, an economic downturn, frequent natural disasters, exacerbated by sociopolitical turmoil and worsening insecurity; the population experiencing the highest levels of acute food insecurity is located in the Cité Soleil commune of the capital city, Port-au-Prince, where inter-gang violence severely affects households’ access to markets and essential services<br> (2023)<br>
 
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 2,309,852 tons (2015 est.)<br>
 
 **Total water withdrawal**<br>
-_municipal_: 190 million cubic meters (2017 est.)<br>
-_industrial_: 51 million cubic meters (2017 est.)<br>
-_agricultural_: 1.209 billion cubic meters (2017 est.)<br>
+_municipal_: 190 million cubic meters (2019 est.)<br>
+_industrial_: 50 million cubic meters (2019 est.)<br>
+_agricultural_: 1.2 billion cubic meters (2019 est.)<br>
 
 **Total renewable water resources**<br>
 14 billion cubic meters (2019 est.)<br>

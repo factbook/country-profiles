@@ -271,10 +271,10 @@ _urban population_: 58.2% of total population (2023)<br>
 _rate of urbanization_: 1.19% annual rate of change (2020-25 est.)<br>
 
 **Revenue from forest resources**<br>
-_forest revenues_: 0% of GDP (2018 est.)<br>
+0% of GDP (2018 est.)<br>
 
 **Revenue from coal**<br>
-_coal revenues_: 0.99% of GDP (2018 est.)<br>
+0.99% of GDP (2018 est.)<br>
 
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 4,659,740 tons (2012 est.)<br>
@@ -702,7 +702,7 @@ _river port(s)_: Oskemen (Ust-Kamenogorsk), Pavlodar, Semey (Semipalatinsk) (Irt
 ## Military and Security
 
 **Military and security forces**<br>
-Armed Forces of the Republic of Kazakhstan: Land Forces, Naval Forces, Air and Air Defense Forces; Ministry of Internal Affairs: National Police, National Guard; Committee for National Security (KNB): Border Service (2023)<br>
+Armed Forces of the Republic of Kazakhstan: Land Forces, Naval Forces, Air and Air Defense Forces; Ministry of Internal Affairs: National Police, National Guard; Committee for National Security (KNB): Border Guard Service (2023)<br>
 <strong>note:</strong> the National Guard is a gendarmerie type force administered by the Ministry of Internal Affairs, but also serves the Ministry of Defense; it is responsible for fighting crime, maintaining public order, and ensuring public safety; other duties include anti-terrorism operations, guarding prisons, riot control, and territorial defense in time of war<br>
 
 **Military expenditures**<br>

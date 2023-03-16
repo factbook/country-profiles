@@ -264,10 +264,10 @@ _urban population_: 68.7% of total population (2023)<br>
 _rate of urbanization_: -0.68% annual rate of change (2020-25 est.)<br>
 
 **Revenue from forest resources**<br>
-_forest revenues_: 0.85% of GDP (2018 est.)<br>
+0.85% of GDP (2018 est.)<br>
 
 **Revenue from coal**<br>
-_coal revenues_: 0% of GDP (2018 est.)<br>
+0% of GDP (2018 est.)<br>
 
 **Major infectious diseases**<br>
 _degree of risk_: intermediate (2020)<br>
@@ -685,11 +685,11 @@ Latvia operates one PC 5 or 6 class icebreaker in the Baltic Sea<br>note - PC in
 National Armed Forces (Nacionalie Brunotie Speki): Land Forces (Latvijas Sauszemes Speki), Naval Force (Latvijas Juras Speki, includes Coast Guard (Latvijas Kara Flote)), Air Force (Latvijas Gaisa Speki), National Guard (2022)<br>
 
 **Military expenditures**<br>
+2.25% of GDP (2023 est.)<br>
 2.1% of GDP (2022 est.)<br>
 2.2% of GDP (2021)<br>
 2.2% of GDP (2020)<br>
 2% of GDP (2019) (approximately $920 million)<br>
-2.1% of GDP (2018) (approximately $900 million)<br>
 
 **Military and security service personnel strengths**<br>
 approximately 7,500 active duty troops (6,500 Land Forces; 500 Naval Force/Coast Guard; 500 Air Force; note - some Land Forces are considered joint forces); 8,200 National Guard (2022)<br>

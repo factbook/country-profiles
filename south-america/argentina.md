@@ -275,10 +275,10 @@ _urban population_: 92.5% of total population (2023)<br>
 _rate of urbanization_: 0.97% annual rate of change (2020-25 est.)<br>
 
 **Revenue from forest resources**<br>
-_forest revenues_: 0.09% of GDP (2018 est.)<br>
+0.09% of GDP (2018 est.)<br>
 
 **Revenue from coal**<br>
-_coal revenues_: 0% of GDP (2018 est.)<br>
+0% of GDP (2018 est.)<br>
 
 **Major infectious diseases**<br>
 <strong>note:</strong> widespread ongoing transmission of a respiratory illness caused by the novel coronavirus (COVID-19) is occurring throughout Argentina; as of 9 December 2022, Argentina has reported a total of 9,739,856 cases of COVID-19 or 21,550.36 cumulative cases of COVID-19 per 100,000 population with a total of 130,034 cumulative deaths or 287.7 cumulative deaths per 100,000 population; as of 8 December 2022, 91% of the population has received at least one dose of COVID-19 vaccine<br>
@@ -314,7 +314,7 @@ _agricultural_: 27.93 billion cubic meters (2019 est.)<br>
 **Country name**<br>
 _conventional long form_: Argentine Republic<br>
 _conventional short form_: Argentina<br>
-_local long form_: Republica Argentina<br>
+_local long form_: Rep&uacute;blica Argentina<br>
 _local short form_: Argentina<br>
 _etymology_: originally the area was referred to as Tierra Argentina, i.e., "Land beside the Silvery River" or "silvery land," which referred to the massive estuary in the east of the country, the R&iacute;o de la Plata (River of Silver); over time the name shortened to simply Argentina or "silvery"<br>
 

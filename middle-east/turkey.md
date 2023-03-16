@@ -276,10 +276,10 @@ _urban population_: 77.5% of total population (2023)<br>
 _rate of urbanization_: 1.11% annual rate of change (2020-25 est.)<br>
 
 **Revenue from forest resources**<br>
-_forest revenues_: 0.08% of GDP (2018 est.)<br>
+0.08% of GDP (2018 est.)<br>
 
 **Revenue from coal**<br>
-_coal revenues_: 0.05% of GDP (2018 est.)<br>
+0.05% of GDP (2018 est.)<br>
 
 **Major infectious diseases**<br>
 <strong>note:</strong> widespread ongoing transmission of a respiratory illness caused by the novel coronavirus (COVID-19) is occurring throughout Turkey; as of 9 December 2022, Turkey has reported a total of 16,919,638 cases of COVID-19 or 20,061.4 cumulative cases of COVID-19 per 100,000 population with a total of 101,203 cumulative deaths or a rate of 120 cumulative deaths per 100,000 population; as of 22 November 2022, 67.89% of the population has received at least one dose of COVID-19 vaccine<br>

@@ -276,10 +276,10 @@ _urban population_: 64.8% of total population (2023)<br>
 _rate of urbanization_: 1.62% annual rate of change (2020-25 est.)<br>
 
 **Revenue from forest resources**<br>
-_forest revenues_: 0.27% of GDP (2018 est.)<br>
+0.27% of GDP (2018 est.)<br>
 
 **Revenue from coal**<br>
-_coal revenues_: 0% of GDP (2018 est.)<br>
+0% of GDP (2018 est.)<br>
 
 **Major infectious diseases**<br>
 _degree of risk_: high (2020)<br>
@@ -307,7 +307,7 @@ _agricultural_: 8.076 billion cubic meters (2017 est.)<br>
 **Country name**<br>
 _conventional long form_: Republic of Ecuador<br>
 _conventional short form_: Ecuador<br>
-_local long form_: Republica del Ecuador<br>
+_local long form_: Rep&uacute;blica del Ecuador<br>
 _local short form_: Ecuador<br>
 _etymology_: the country's position on the globe, straddling the Equator, accounts for its Spanish name<br>
 
@@ -322,7 +322,7 @@ _time zone note_: Ecuador has two time zones, including the Galapagos Islands (U
 _etymology_: named after the Quitu, a Pre-Columbian indigenous people credited with founding the city; the name is also a combination of two Tsafiki words: <em>quitso</em> (meaning "center" or "half") + <em>to</em> or <em>tu</em> ("the world"); the combination roughly translates as "center of the world" and reflects the fact that native peoples recognized that at the two annual equinoxes, the overhead sun in that area (only about 20 km (12 mi) north of the equator) did not display any shade and thus must be in the middle of the world<br>
 
 **Administrative divisions**<br>
-24 provinces (provincias, singular - provincia); Azuay, Bolivar, Canar, Carchi, Chimborazo, Cotopaxi, El Oro, Esmeraldas, Galapagos, Guayas, Imbabura, Loja, Los Rios, Manabi, Morona-Santiago, Napo, Orellana, Pastaza, Pichincha, Santa Elena, Santo Domingo de los Tsachilas, Sucumbios, Tungurahua, Zamora-Chinchipe<br>
+24 provinces (provincias, singular - provincia); Azuay, Bolivar, Canar, Carchi, Chimborazo, Cotopaxi, El Oro, Esmeraldas, Galapagos, Guayas, Imbabura, Loja, Los Rios, Manabi, Morona Santiago, Napo, Orellana, Pastaza, Pichincha, Santa Elena, Santo Domingo de los Tsachilas, Sucumbios, Tungurahua, Zamora Chinchipe<br>
 
 **Independence**<br>
 24 May 1822 (from Spain)<br>

@@ -275,10 +275,10 @@ _urban population_: 32.5% of total population (2023)<br>
 _rate of urbanization_: 4.75% annual rate of change (2020-25 est.)<br>
 
 **Revenue from forest resources**<br>
-_forest revenues_: 4.54% of GDP (2018 est.)<br>
+4.54% of GDP (2018 est.)<br>
 
 **Revenue from coal**<br>
-_coal revenues_: 0% of GDP (2018 est.)<br>
+0% of GDP (2018 est.)<br>
 
 **Major infectious diseases**<br>
 _degree of risk_: very high (2020)<br>
@@ -690,7 +690,7 @@ _unpaved_: 11,662 km (2014)<br>
 
 **Military and security forces**<br>
 Armed Forces of Burkina Faso (FABF): Army of Burkina Faso (L’Armee de Terre, LAT), Air Force of Burkina Faso (Force Aerienne de Burkina Faso, FABF), National Gendarmerie; Volunteers for the Defense of the Fatherland (VDP) (2022)<br>
-<strong>note 1:</strong> the National Gendarmerie officially reports to the Ministry of Defense, but usually operates in support of the Ministry of Security and the Ministry of Justice; Gendarmerie troops are typically integrated with Army forces in anti-terrorism operations<br><br><strong>note 2:</strong> the VDP is a civilian defense force established in 2019 to act as auxiliaries to the Army in the fight against militants; the volunteers receive two weeks of training and typically assist with carrying out surveillance, information-gathering, and escort duties<br>
+<strong>note 1:</strong> the National Gendarmerie officially reports to the Ministry of Defense, but usually operates in support of the Ministry of Security and the Ministry of Justice; Gendarmerie troops are typically integrated with Army forces in anti-terrorism operations; specialized counterterrorism units include the Army's special forces, the Special Legion of the National Gendarmerie, and the Multipurpose Intervention Unit of National Police<br><br><strong>note 2:</strong> the VDP is a civilian defense force established in 2019 to act as auxiliaries to the Army in the fight against militants; the volunteers receive two weeks of training and typically assist with carrying out surveillance, information-gathering, and escort duties<br><br>
 
 **Military expenditures**<br>
 2.4% of GDP (2021 est.)<br>

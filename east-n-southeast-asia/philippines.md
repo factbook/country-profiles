@@ -278,10 +278,10 @@ _urban population_: 48.3% of total population (2023)<br>
 _rate of urbanization_: 2.04% annual rate of change (2020-25 est.)<br>
 
 **Revenue from forest resources**<br>
-_forest revenues_: 0.18% of GDP (2018 est.)<br>
+0.18% of GDP (2018 est.)<br>
 
 **Revenue from coal**<br>
-_coal revenues_: 0.07% of GDP (2018 est.)<br>
+0.07% of GDP (2018 est.)<br>
 
 **Major infectious diseases**<br>
 _degree of risk_: high (2020)<br>
@@ -734,7 +734,7 @@ the Armed Forces of the Philippines (AFP) were formally organized during the Ame
 
 **Terrorist group(s)**<br>
 Abu Sayyaf Group; Communist Party of the Philippines/New People's Army (CPP/NPA); Islamic State of Iraq and ash-Sham – East Asia (ISIS-EA) in the Philippines<br>
-<strong>note:</strong> details about the history, aims, leadership, organization, areas of operation, tactics, targets, weapons, size, and sources of support of the group(s) appear(s) in Appendix-T<br>
+<strong>note 1: </strong>ISIS-EA factions include Daulah Islamiya-Lanao (aka Maute Group), Daulah Islamiya-Maguindanao, Daulah Islamiya-Socsargen, ISIS-aligned elements of the Abu Sayyaf Group (ASG), ISIS-aligned elements of the Bangsamoro Islamic Freedom Fighters (BIFF), and rogue elements of the Moro Islamic Liberation Front (MILF) <strong><br><br>note 2:</strong> details about the history, aims, leadership, organization, areas of operation, tactics, targets, weapons, size, and sources of support of the group(s) appear(s) in Appendix-T<br>
 
 ## Transnational Issues
 

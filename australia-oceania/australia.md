@@ -51,7 +51,8 @@ _lowest point_: Lake Eyre -15 m<br>
 _mean elevation_: 330 m<br>
 
 **Natural resources**<br>
-alumina, coal, iron ore, copper, lithium, tin, gold, silver, uranium, nickel, tungsten, rare earth elements, mineral sands, lead, zinc, diamonds, opals, natural gas, petroleum; note - Australia is the world's largest net exporter of coal accounting for 26.5% of global coal exports in 2021; as well, Australia is by far the world's largest supplier of opals<br>
+alumina, coal, iron ore, copper, lithium, tin, gold, silver, uranium, nickel, tungsten, rare earth elements, mineral sands, lead, zinc, diamonds, opals, natural gas, petroleum;<br>
+<strong>note 1:</strong> Australia is the world's largest net exporter of coal accounting for 26.5% of global coal exports in 2021;coal is the country’s most abundant energy resource, and coal ranks as the second-largest export commodity from Australia in terms of revenue; in 2020, Australia held the third-largest recoverable coal reserves in the world behind the United States and Russia<br><br><strong>note 2:</strong> Australia is by far the world's largest supplier of opals<br><br><strong>note 3:</strong> Australia holds the largest uranium reserves in the world, and was the second-largest global uranium producer behind Kazakhstan in 2020.<br><br><strong>note 4: </strong>Australia was the largest exporter of LNG in the world in 2020.<br>
 
 **Land use**<br>
 _agricultural land_: 46.65% (2018 est.)<br>
@@ -276,10 +277,10 @@ _rate of urbanization_: 1.27% annual rate of change (2020-25 est.)<br>
 <strong>note:</strong> data include Christmas Island, Cocos Islands, and Norfolk Island<br>
 
 **Revenue from forest resources**<br>
-_forest revenues_: 0.13% of GDP (2018 est.)<br>
+0.13% of GDP (2018 est.)<br>
 
 **Revenue from coal**<br>
-_coal revenues_: 0.78% of GDP (2018 est.)<br>
+0.78% of GDP (2018 est.)<br>
 
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 13.345 million tons (2015 est.)<br>
@@ -399,7 +400,7 @@ _consulate(s) general_: Melbourne, Perth, Sydney<br>
 blue with the flag of the UK in the upper hoist-side quadrant and a large seven-pointed star in the lower hoist-side quadrant known as the Commonwealth or Federation Star, representing the federation of the colonies of Australia in 1901; the star depicts one point for each of the six original states and one representing all of Australia's internal and external territories; on the fly half is a representation of the Southern Cross constellation in white with one small, five-pointed star and four larger, seven-pointed stars<br>
 
 **National symbol(s)**<br>
-Commonwealth Star (seven-pointed Star of Federation), golden wattle tree (Acacia pycnantha Benth), kangaroo, emu; national colors: green, gold<br>
+Commonwealth Star (seven-pointed Star of Federation), golden wattle tree (Acacia pycnantha), kangaroo, emu; national colors: green, gold<br>
 
 **National anthem**<br>
 _name_: Advance Australia Fair<br>
@@ -607,6 +608,7 @@ _consumption_: 41,905,381,000 cubic meters (2020 est.)<br>
 _exports_: 101,766,728,000 cubic meters (2020 est.)<br>
 _imports_: 6,295,646,000 cubic meters (2020 est.)<br>
 _proven reserves_: 3,228,115,000,000 cubic meters (2021 est.)<br>
+<strong>note: </strong>Australia was the largest exporter of LNG in the world in 2020.<br>
 
 **Carbon dioxide emissions**<br>
 _total emissions_: 417.87 million metric tonnes of CO2 (2019 est.)<br>

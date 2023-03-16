@@ -265,10 +265,10 @@ _urban population_: 72% of total population (2023)<br>
 _rate of urbanization_: 0.27% annual rate of change (2020-25 est.)<br>
 
 **Revenue from forest resources**<br>
-_forest revenues_: 0.01% of GDP (2018 est.)<br>
+0.01% of GDP (2018 est.)<br>
 
 **Revenue from coal**<br>
-_coal revenues_: 0% of GDP (2018 est.)<br>
+0% of GDP (2018 est.)<br>
 
 **Major infectious diseases**<br>
 <strong>note:</strong> a new coronavirus is causing respiratory illness (COVID-19) in Italy; illness with this virus has ranged from mild to severe with fatalities reported; as of 9 December 2022, Italy has reported a total of 24,488,080 cases of COVID-19 or 41,058.8 cumulative cases of COVID-19 per 100,000 population with a total of 181,733 cumulative deaths or a rate of 304.7 cumulative deaths per 100,000 population; as of 8 December 2022, 86.15% of the population has received at least one dose of COVID-19 vaccine; the US Department of Homeland Security has issued instructions requiring US passengers who have been in Italy to travel through select airports where the US Government has implemented enhanced screening procedures<br>
@@ -736,7 +736,7 @@ Islamic State of Iraq and ash-Sham (ISIS)<br>
 **Refugees and internally displaced persons**<br>
 _refugees (country of origin)_: 21,441 (Nigeria), 17,706 (Afghanistan), 17,619 (Pakistan), 11,193 (Mali), 8,405 (Somalia), 6,324 (Gambia), 5,768 (Bangladesh), 5,463 (Iraq) (mid-year 2022); 171,739 (Ukraine) (as of 24 February 2023)<br>
 _stateless persons_: 3,000 (2022)<br>
-<strong>note:</strong> 710,687 estimated refugee and migrant arrivals (January 2015-February 2023)<br>
+<strong>note:</strong> 710,889 estimated refugee and migrant arrivals (January 2015-March 2023)<br>
 
 **Illicit drugs**<br>
 important gateway for drug trafficking; organized crime groups allied with Colombian and Spanish groups trafficking cocaine to Europe<br>

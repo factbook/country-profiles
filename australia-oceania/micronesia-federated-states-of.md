@@ -240,7 +240,7 @@ _urban population_: 23.4% of total population (2023)<br>
 _rate of urbanization_: 1.52% annual rate of change (2020-25 est.)<br>
 
 **Revenue from forest resources**<br>
-_forest revenues_: 0.02% of GDP (2018 est.)<br>
+0.02% of GDP (2018 est.)<br>
 
 **Major infectious diseases**<br>
 _degree of risk_: high (2020)<br>
@@ -311,7 +311,7 @@ _election results_: David W. PANUELO elected president by Congress; Yosiwo P. GE
 
 **Legislative branch**<br>
 _description_: unicameral Congress (14 seats; 10 members directly elected in single-seat constituencies by simple majority vote to serve 2-year terms and 4 at- large members directly elected from each of the 4 states by proportional representation vote to serve 4-year terms)<br>
-_elections_: last held on 2 March 2021 (next to be held on March 2023)<br>
+_elections_: last held on 7 March 2023 (next to be held on March 2025)<br>
 _election results_: percent of vote - NA; seats - independent 14; composition as of July 2022 - men 13, women 1, percent of women 7.1%<br>
 
 **Judicial branch**<br>

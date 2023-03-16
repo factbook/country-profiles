@@ -270,10 +270,10 @@ _urban population_: 77.8% of total population (2023)<br>
 _rate of urbanization_: 0.13% annual rate of change (2020-25 est.)<br>
 
 **Revenue from forest resources**<br>
-_forest revenues_: 0.03% of GDP (2018 est.)<br>
+0.03% of GDP (2018 est.)<br>
 
 **Revenue from coal**<br>
-_coal revenues_: 0.02% of GDP (2018 est.)<br>
+0.02% of GDP (2018 est.)<br>
 
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 51.046 million tons (2015 est.)<br>
@@ -291,9 +291,9 @@ Danube river source (shared with Austria, Slovakia, Czechia, Hungary, Croatia, S
 Atlantic Ocean drainage: Rhine-Maas (198,735 sq km), <em>(Black Sea)</em> Danube (795,656 sq km)<br>
 
 **Total water withdrawal**<br>
-_municipal_: 4.388 billion cubic meters (2017 est.)<br>
-_industrial_: 19.75 billion cubic meters (2017 est.)<br>
-_agricultural_: 299.7 million cubic meters (2017 est.)<br>
+_municipal_: 10.4 billion cubic meters (2019 est.)<br>
+_industrial_: 17.68 billion cubic meters (2019 est.)<br>
+_agricultural_: 400 million cubic meters (2019 est.)<br>
 
 **Total renewable water resources**<br>
 154 billion cubic meters (2019 est.)<br>

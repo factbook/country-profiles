@@ -268,10 +268,10 @@ _urban population_: 72.9% of total population (2023)<br>
 _rate of urbanization_: 0.05% annual rate of change (2020-25 est.)<br>
 
 **Revenue from forest resources**<br>
-_forest revenues_: 0.1% of GDP (2018 est.)<br>
+0.1% of GDP (2018 est.)<br>
 
 **Revenue from coal**<br>
-_coal revenues_: 0.01% of GDP (2018 est.)<br>
+0.01% of GDP (2018 est.)<br>
 
 **Major infectious diseases**<br>
 _degree of risk_: intermediate (2016)<br>
@@ -292,9 +292,9 @@ Danube (shared with Germany [s], Austria, Slovakia, Croatia, Serbia, Bulgaria, U
 Atlantic Ocean drainage: <em>(Black Sea)</em> Danube (795,656 sq km)<br>
 
 **Total water withdrawal**<br>
-_municipal_: 624.5 million cubic meters (2017 est.)<br>
-_industrial_: 3.358 billion cubic meters (2017 est.)<br>
-_agricultural_: 518.6 million cubic meters (2017 est.)<br>
+_municipal_: 640 million cubic meters (2019 est.)<br>
+_industrial_: 3.22 billion cubic meters (2019 est.)<br>
+_agricultural_: 490 million cubic meters (2019 est.)<br>
 
 **Total renewable water resources**<br>
 104 billion cubic meters (2019 est.)<br>
@@ -733,7 +733,7 @@ Islamic State of Iraq and ash-Sham (ISIS)<br>
 <p>bilateral government, legal, technical and economic working group negotiations continue in 2006 with Slovakia over Hungary's failure to complete its portion of the Gabcikovo-Nagymaros hydroelectric dam project along the Danube; as a member state that forms part of the EU's external border, Hungary has implemented the strict Schengen border rules</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 34,248 (Ukraine) (as of 28 February 2023)<br>
+_refugees (country of origin)_: 34,248 (Ukraine) (as of 7 March 2023)<br>
 _stateless persons_: 130 (2022)<br>
 
 **Illicit drugs**<br>

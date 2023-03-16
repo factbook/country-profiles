@@ -272,10 +272,10 @@ _urban population_: 29.5% of total population (2023)<br>
 _rate of urbanization_: 4.09% annual rate of change (2020-25 est.)<br>
 
 **Revenue from forest resources**<br>
-_forest revenues_: 1.3% of GDP (2018 est.)<br>
+1.3% of GDP (2018 est.)<br>
 
 **Revenue from coal**<br>
-_coal revenues_: 0% of GDP (2018 est.)<br>
+0% of GDP (2018 est.)<br>
 
 **Major infectious diseases**<br>
 _degree of risk_: very high (2020)<br>
@@ -285,7 +285,7 @@ _water contact diseases_: schistosomiasis<br>
 _animal contact diseases_: rabies<br>
 
 **Food insecurity**<br>
-_exceptional shortfall in aggregate food production/supplies_: <em>due to drought conditions - </em>about 4.4 million people are projected to be severely acutely food insecure between October and December 2022 reflecting consecutive poor rainy seasons since late 2020 that affected crop and livestock production, mainly in northern and eastern pastoral, agro-pastoral and marginal agricultural areas (2022)<br>
+_exceptional shortfall in aggregate food production/supplies_: <em>due to drought conditions - </em>about 4.4 million people were projected to be severely acutely food insecure between October and December 2022 reflecting consecutive poor rainy seasons since late 2020 that affected crop and livestock production; prices of maize are at high levels across the country due to reduced availabilities and high fuel prices inflating production and transportation costs (2023)<br>
 
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 5,595,099 tons (2010 est.)<br>

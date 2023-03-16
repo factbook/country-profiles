@@ -279,10 +279,10 @@ _urban population_: 18.3% of total population (2023)<br>
 _rate of urbanization_: 4.41% annual rate of change (2020-25 est.)<br>
 
 **Revenue from forest resources**<br>
-_forest revenues_: 6.19% of GDP (2018 est.)<br>
+6.19% of GDP (2018 est.)<br>
 
 **Revenue from coal**<br>
-_coal revenues_: 0.03% of GDP (2018 est.)<br>
+0.03% of GDP (2018 est.)<br>
 
 **Major infectious diseases**<br>
 _degree of risk_: very high (2020)<br>
@@ -293,7 +293,7 @@ _animal contact diseases_: rabies<br>
 <strong>note: </strong>on 21 March 2022, the US Centers for Disease Control and Prevention (CDC) issued a Travel Alert for polio in Africa; Malawi is currently considered a high risk to travelers for circulating vaccine-derived polioviruses (cVDPV); vaccine-derived poliovirus (VDPV) is a strain of the weakened poliovirus that was initially included in oral polio vaccine (OPV) and <em>that has changed over time and behaves more like the wild or naturally occurring virus</em>; this means it can be spread more easily to people who are unvaccinated against polio and who come in contact with the stool or respiratory secretions, such as from a sneeze, of an “infected” person who received oral polio vaccine; the CDC recommends that before any international travel, anyone unvaccinated, incompletely vaccinated, or with an unknown polio vaccination status should complete the routine polio vaccine series; before travel to any high-risk destination, the CDC recommends that adults who previously completed the full, routine polio vaccine series receive a single, lifetime booster dose of polio vaccine<br>
 
 **Food insecurity**<br>
-_severe localized food insecurity_: <em>due to reduced incomes and shortfalls in cereal production - </em>an estimated 1.65 million people are facing “Crisis” levels of food insecurity between January and March 2022, underpinned by localized shortfalls in cereal production and the lingering impact of an economic downturn due to the COVID-19 pandemic; a moderate decline in cereal production in 2022, particularly in southern districts, and increasing food prices are expected to lead to an increased prevalence of food insecurity in the last quarter of 2022; the prevalence of food insecurity is likely to increase in the second half of 2022 and early 2023 mainly due to the high food prices and low cereal production in southern districts; in addition to the adverse impacts of the low cereal harvest in the south and high food prices across the country, a third factor that is foreseen to contribute to a worsening of food insecurity conditions is the forecasted slow economic growth in 2022, underpinned by the lingering effects of the COVID-19 pandemic and the country’s elevated debt levels (2022)<br>
+_widespread lack of access_: <em><em>due to </em>localized shortfalls in cereal production and high food prices - </em>an estimated 3.82 million people are expected to experience acute food insecurity between October 2022 and March 2023; this number is more than double the estimate for the January to March 2022 period; high food prices and the effects of weather-induced localized shortfalls in cereal production in 2022, notably in southern districts, are the primary factors underpinning the increase in acute food insecurity (2023)<br>
 
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 1,297,844 tons (2013 est.)<br>
@@ -717,7 +717,7 @@ the MDF's inventory is comprised of mostly obsolescent or second-hand equipment 
 750 Democratic Republic of the Congo (MONUSCO) (May 2022)<br>
 
 **Military - note**<br>
-the MDF’s primary responsibility is external security; it is also tasked as necessary with carrying out policing or other domestic activities, such as disaster relief; Malawi contributes regularly to African Union and UN peace support operations<br><br>the MDF was established in 1964 from elements of the Kings African Rifles (KAR), a British colonial regiment raised from Great Britain's various possessions in East Africa from 1902 until independence in the 1960s; the KAR conducted both military and internal security functions within the colonial territories, and served outside the territories during the World Wars (2022)<br>
+the MDF’s primary responsibility is external security; it is also tasked as necessary with providing support to civilian authorities during emergencies, supporting the Police Service, protecting national forest reserves, and participating in regional peacekeeping missions, as well as assisting with infrastructure development; it is generally considered to be a professional and effective service, although most of its equipment is aging and obsolescent; Malawi contributes regularly to African Union and UN peace support operations; the Army is the dominant service and has 3 infantry brigades while its subordinate maritime force has a few patrol boats for monitoring Lake Malawi <br><br>the MDF was established in 1964 from elements of the Kings African Rifles (KAR), a British colonial regiment raised from Great Britain's various possessions in East Africa from 1902 until independence in the 1960s; the KAR conducted both military and internal security functions within the colonial territories, and served outside the territories during the World Wars (2023)<br>
 
 ## Transnational Issues
 

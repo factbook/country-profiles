@@ -284,10 +284,10 @@ _urban population_: 32.1% of total population (2023)<br>
 _rate of urbanization_: 1.85% annual rate of change (2020-25 est.)<br>
 
 **Revenue from forest resources**<br>
-_forest revenues_: 1.69% of GDP (2018 est.)<br>
+1.69% of GDP (2018 est.)<br>
 
 **Revenue from coal**<br>
-_coal revenues_: 0.01% of GDP (2018 est.)<br>
+0.01% of GDP (2018 est.)<br>
 
 **Major infectious diseases**<br>
 _degree of risk_: very high (2020)<br>
@@ -742,7 +742,7 @@ since the country's founding, the armed forces have been heavily involved in dom
 <p>over half of Burma's population consists of diverse ethnic groups who have substantial numbers of kin in neighboring countries; Bangladesh struggles to accommodate 912,000 Rohingya, Burmese Muslim minority from Rakhine State, living as refugees in Cox's Bazar; Burmese border authorities are constructing a 200 km (124 mi) wire fence designed to deter illegal cross-border transit and tensions from the military build-up along border with Bangladesh in 2010; Bangladesh referred its maritime boundary claims with Burma and India to the International Tribunal on the Law of the Sea; Burmese forces attempting to dig in to the largely autonomous Shan State to rout local militias tied to the drug trade, prompts local residents to periodically flee into neighboring Yunnan Province in China; fencing along the India-Burma international border at Manipur's Moreh town is in progress to check illegal drug trafficking and movement of militants; over 100,000 mostly Karen refugees and asylum seekers fleeing civil strife, political upheaval, and economic stagnation in Burma were living in remote camps in Thailand near the border as of May 2017</p><br>
 
 **Refugees and internally displaced persons**<br>
-_IDPs_: 1.66 million (government offensives against armed ethnic minority groups near its borders with China and Thailand, natural disasters, forced land evictions) (2023)<br>
+_IDPs_: 1.7 million (government offensives against armed ethnic minority groups near its borders with China and Thailand, natural disasters, forced land evictions) (2023)<br>
 _stateless persons_: 600,000 (2022); note - Rohingya Muslims, living predominantly in Rakhine State, are Burma's main group of stateless people; the Burmese Government does not recognize the Rohingya as a "national race" and stripped them of their citizenship under the 1982 Citizenship Law, categorizing them as "non-nationals" or "foreign residents;" under the Rakhine State Action Plan drafted in October 2014, the Rohingya must demonstrate their family has lived in Burma for at least 60 years to qualify for a lesser naturalized citizenship and the classification of Bengali or be put in detention camps and face deportation; native-born but non-indigenous people, such as Indians, are also stateless; the Burmese Government does not grant citizenship to children born outside of the country to Burmese parents who left the country illegally or fled persecution, such as those born in Thailand; the number of stateless persons has decreased dramatically because hundreds of thousands of Rohingya have fled to Bangladesh since 25 August 2017 to escape violence<br>
 
 **Trafficking in persons**<br>

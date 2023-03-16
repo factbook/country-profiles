@@ -260,10 +260,10 @@ _urban population_: 59.5% of total population (2023)<br>
 _rate of urbanization_: 0.61% annual rate of change (2020-25 est.)<br>
 
 **Revenue from forest resources**<br>
-_forest revenues_: 0.15% of GDP (2018 est.)<br>
+0.15% of GDP (2018 est.)<br>
 
 **Revenue from coal**<br>
-_coal revenues_: 0% of GDP (2018 est.)<br>
+0% of GDP (2018 est.)<br>
 
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 796,585 tons (2016 est.)<br>
@@ -689,7 +689,7 @@ Islamic State of Iraq and ash-Sham (ISIS)<br>
 <p><em>North Macedonia-Albania</em>: none identified</p> <p><em>North Macedonia-Greece</em>: none identified</p> <p><em>North Macedonia-Kosovo</em>: North Macedonia and Kosovo completed demarcation of their boundary in October 2009</p> <p><em>North Macedonia-Serbia</em>: none identified</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 6,511 (Ukraine) (as of 26 February 2023)<br>
+_refugees (country of origin)_: 6,514 (Ukraine) (as of 6 March 2023)<br>
 _stateless persons_: 521 (2022)<br>
 <strong>note:</strong> 552,030 estimated refugee and migrant arrivals (January 2015-January 2023)<br>
 

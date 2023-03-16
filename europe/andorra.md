@@ -242,7 +242,7 @@ _urban population_: 87.8% of total population (2023)<br>
 _rate of urbanization_: 0.11% annual rate of change (2020-25 est.)<br>
 
 **Revenue from forest resources**<br>
-_forest revenues_: 0% of GDP (2018 est.)<br>
+0% of GDP (2018 est.)<br>
 
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 43,000 tons (2012 est.)<br>
@@ -299,7 +299,7 @@ _residency requirement for naturalization_: 25 years<br>
 
 **Executive branch**<br>
 _chief of state_: Co-prince Emmanuel MACRON (since 14 May 2017); represented by Patrick STROZDA (since 14 May 2017); and Co-prince Archbishop Joan-Enric VIVES i Sicilia (since 12 May 2003); represented by Josep Maria MAURI (since 20 July 2012)<br>
-_head of government_: Xaviar Espot ZAMORA (since 16 May 2019)<br>
+_head of government_: Xavier Espot ZAMORA (since 16 May 2019)<br>
 _cabinet_: Executive Council of 12 ministers designated by the head of government<br>
 _elections/appointments_: head of government indirectly elected by the General Council (Andorran parliament), formally appointed by the co-princes for a 4-year term; election last held on 7 April 2019 (next to be held in April 2023); the leader of the majority party in the General Council is usually elected head of government<br>
 _election results_: <em>2019:</em>  Xaviar Espot ZAMORA (DA) elected head of government; percent of General Council vote - 60.7%<br><br><em>2015:</em> Antoni MARTI elected head of government; percent of General Council vote - 58.3%<br>

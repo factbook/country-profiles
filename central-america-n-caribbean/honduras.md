@@ -267,10 +267,10 @@ _urban population_: 60.2% of total population (2023)<br>
 _rate of urbanization_: 2.48% annual rate of change (2020-25 est.)<br>
 
 **Revenue from forest resources**<br>
-_forest revenues_: 0.91% of GDP (2018 est.)<br>
+0.91% of GDP (2018 est.)<br>
 
 **Revenue from coal**<br>
-_coal revenues_: 0% of GDP (2018 est.)<br>
+0% of GDP (2018 est.)<br>
 
 **Major infectious diseases**<br>
 _degree of risk_: high (2020)<br>
@@ -284,9 +284,9 @@ _municipal solid waste generated annually_: 2,162,028 tons (2016 est.)<br>
 _salt water lake(s)_: Laguna de Caratasca - 1,110 sq km<br>
 
 **Total water withdrawal**<br>
-_municipal_: 315 million cubic meters (2017 est.)<br>
-_industrial_: 114 million cubic meters (2017 est.)<br>
-_agricultural_: 1.178 billion cubic meters (2017 est.)<br>
+_municipal_: 320 million cubic meters (2019 est.)<br>
+_industrial_: 111 million cubic meters (2019 est.)<br>
+_agricultural_: 1.1 billion cubic meters (2019 est.)<br>
 
 **Total renewable water resources**<br>
 92.2 billion cubic meters (2019 est.)<br>
@@ -296,7 +296,7 @@ _agricultural_: 1.178 billion cubic meters (2017 est.)<br>
 **Country name**<br>
 _conventional long form_: Republic of Honduras<br>
 _conventional short form_: Honduras<br>
-_local long form_: Republica de Honduras<br>
+_local long form_: Rep&uacute;blica de Honduras<br>
 _local short form_: Honduras<br>
 _etymology_: the name means "depths" in Spanish and refers to the deep anchorage in the northern Bay of Trujillo<br>
 

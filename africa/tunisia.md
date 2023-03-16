@@ -262,10 +262,10 @@ _urban population_: 70.5% of total population (2023)<br>
 _rate of urbanization_: 1.34% annual rate of change (2020-25 est.)<br>
 
 **Revenue from forest resources**<br>
-_forest revenues_: 0.21% of GDP (2018 est.)<br>
+0.21% of GDP (2018 est.)<br>
 
 **Revenue from coal**<br>
-_coal revenues_: 0% of GDP (2018 est.)<br>
+0% of GDP (2018 est.)<br>
 
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 2.7 million tons (2014 est.)<br>
@@ -700,7 +700,7 @@ as of 2022, the Tunisian military’s primary operational areas of focus were co
 ## Terrorism
 
 **Terrorist group(s)**<br>
-Ansar al-Sharia in Tunisia; Islamic State of Iraq and ash-Sham (ISIS) network in Tunisia; al-Qa'ida in the Islamic Maghreb<br>
+Ansar al-Sharia in Tunisia; Islamic State of Iraq and ash-Sham (ISIS) network in Tunisia (known locally as Ajnad al-Khilafah or the Army of the Caliphate); al-Qa'ida in the Islamic Maghreb<br>
 <strong>note:</strong> details about the history, aims, leadership, organization, areas of operation, tactics, targets, weapons, size, and sources of support of the group(s) appear(s) in Appendix-T<br>
 
 ## Transnational Issues

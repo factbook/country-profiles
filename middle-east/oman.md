@@ -261,10 +261,10 @@ _urban population_: 88.4% of total population (2023)<br>
 _rate of urbanization_: 2.32% annual rate of change (2020-25 est.)<br>
 
 **Revenue from forest resources**<br>
-_forest revenues_: 0% of GDP (2018 est.)<br>
+0% of GDP (2018 est.)<br>
 
 **Revenue from coal**<br>
-_coal revenues_: 0% of GDP (2018 est.)<br>
+0% of GDP (2018 est.)<br>
 
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 1,734,885 tons (2014 est.)<br>
@@ -669,7 +669,7 @@ _LNG terminal(s) (export)_: Qalhat<br>
 
 **Military and security forces**<br>
 Sultan's Armed Forces (SAF): Royal Army of Oman (RAO), Royal Navy of Oman (RNO), Royal Air Force of Oman (RAFO), Royal Guard of Oman (RGO); Royal Oman Police (ROP): Civil Defense, Immigration, Customs, Royal Oman Police Coast Guard (2022)<br>
-<strong>note: </strong>in addition to its policing duties, the Royal Oman Police conducts many administrative functions similar to the responsibilities of a Ministry of Interior in other countries   <br>
+<strong>note: </strong>in addition to its policing duties, the Royal Oman Police conducts many administrative functions similar to the responsibilities of a Ministry of Interior in other countries<br>
 
 **Military expenditures**<br>
 8% of GDP (2021 est.)<br>

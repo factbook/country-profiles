@@ -44,7 +44,7 @@ grassy plains and wooded hills east of Rio Paraguay; Gran Chaco region west of R
 
 **Elevation**<br>
 _highest point_: Cerro Pero 842 m<br>
-_lowest point_: junction of Rio Paraguay and Rio Parana 46 m<br>
+_lowest point_: junction of R&iacute;o Paraguay and R&iacute;o Paran&aacute; 46 m<br>
 _mean elevation_: 178 m<br>
 
 **Natural resources**<br>
@@ -62,7 +62,7 @@ _other_: 2.4% (2018 est.)<br>
 1,362 sq km (2012)<br>
 
 **Major rivers (by length in km)**<br>
-Rio de la Plata/Parana (shared with Brazil [s], Argentina, and Uruguay [m]) - 4,880 km; Paraguay river mouth (shared with Brazil [s] and Argentina) - 2,549 km<br><strong>note</strong> – [s] after country name indicates river source; [m] after country name indicates river mouth<br>
+Río de la Plata/Paraná (shared with Brazil [s], Argentina, and Uruguay [m]) - 4,880 km; Paraguay river mouth (shared with Brazil [s] and Argentina) - 2,549 km<br><strong>note</strong> – [s] after country name indicates river source; [m] after country name indicates river mouth<br>
 
 **Major watersheds (area sq km)**<br>
 Atlantic Ocean drainage: Paran&aacute; (2,582,704 sq km)<br>
@@ -274,10 +274,10 @@ _urban population_: 63.1% of total population (2023)<br>
 _rate of urbanization_: 1.64% annual rate of change (2020-25 est.)<br>
 
 **Revenue from forest resources**<br>
-_forest revenues_: 1.21% of GDP (2018 est.)<br>
+1.21% of GDP (2018 est.)<br>
 
 **Revenue from coal**<br>
-_coal revenues_: 0% of GDP (2018 est.)<br>
+0% of GDP (2018 est.)<br>
 
 **Major infectious diseases**<br>
 _degree of risk_: intermediate (2020)<br>
@@ -288,7 +288,7 @@ _vectorborne diseases_: dengue fever<br>
 _municipal solid waste generated annually_: 1,818,501 tons (2015 est.)<br>
 
 **Major rivers (by length in km)**<br>
-Rio de la Plata/Parana (shared with Brazil [s], Argentina, and Uruguay [m]) - 4,880 km; Paraguay river mouth (shared with Brazil [s] and Argentina) - 2,549 km<br><strong>note</strong> – [s] after country name indicates river source; [m] after country name indicates river mouth<br>
+Río de la Plata/Paraná (shared with Brazil [s], Argentina, and Uruguay [m]) - 4,880 km; Paraguay river mouth (shared with Brazil [s] and Argentina) - 2,549 km<br><strong>note</strong> – [s] after country name indicates river source; [m] after country name indicates river mouth<br>
 
 **Major watersheds (area sq km)**<br>
 Atlantic Ocean drainage: Paran&aacute; (2,582,704 sq km)<br>
@@ -309,7 +309,7 @@ _agricultural_: 1.897 billion cubic meters (2017 est.)<br>
 **Country name**<br>
 _conventional long form_: Republic of Paraguay<br>
 _conventional short form_: Paraguay<br>
-_local long form_: Republica del Paraguay<br>
+_local long form_: Rep&uacute;blica del Paraguay<br>
 _local short form_: Paraguay<br>
 _etymology_: the precise meaning of the name Paraguay is unclear, but it seems to derive from the river of the same name; one explanation has the name meaning "water of the Payagua" (an indigenous tribe that lived along the river)<br>
 
@@ -713,7 +713,7 @@ the military's inventory is comprised of mostly older equipment from a variety o
 <strong>note:</strong> as of 2021, women made up about 6% of the active military<br>
 
 **Military - note**<br>
-as of 2022, the armed forces were conducting operations against the Paraguayan People's Army (Ej&eacute;rcito del Pueblo Paraguayo, EPP), a Marxist-nationalist insurgent group operating in the rural northern part of the country along the border with Brazil; they were also assisting internal security forces in countering narco-trafficking networks<br>
+the armed forces conduct operations against the Paraguayan People's Army (Ej&eacute;rcito del Pueblo Paraguayo, EPP), a domestic criminal group initially dedicated to a socialist revolution in Paraguay that operates in the rural northern part of the country along the border with Brazil; they also assist internal security forces in countering narco-trafficking networks (2023)<br>
 
 ## Terrorism
 

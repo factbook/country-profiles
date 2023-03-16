@@ -284,10 +284,10 @@ _urban population_: 59.2% of total population (2023)<br>
 _rate of urbanization_: 3.06% annual rate of change (2020-25 est.)<br>
 
 **Revenue from forest resources**<br>
-_forest revenues_: 3.51% of GDP (2018 est.)<br>
+3.51% of GDP (2018 est.)<br>
 
 **Revenue from coal**<br>
-_coal revenues_: 0% of GDP (2018 est.)<br>
+0% of GDP (2018 est.)<br>
 
 **Major infectious diseases**<br>
 _degree of risk_: very high (2020)<br>
@@ -308,9 +308,9 @@ Volta river mouth (shared with Burkina Faso [s]) - 1,600 km<br><strong>note</str
 Atlantic Ocean drainage: Volta (410,991 sq km)<br>
 
 **Total water withdrawal**<br>
-_municipal_: 299.6 million cubic meters (2017 est.)<br>
-_industrial_: 95 million cubic meters (2017 est.)<br>
-_agricultural_: 1.07 billion cubic meters (2017 est.)<br>
+_municipal_: 300 million cubic meters (2019 est.)<br>
+_industrial_: 100 million cubic meters (2019 est.)<br>
+_agricultural_: 1.07 billion cubic meters (2019 est.)<br>
 
 **Total renewable water resources**<br>
 56.2 billion cubic meters (2019 est.)<br>

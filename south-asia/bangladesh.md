@@ -277,10 +277,10 @@ _urban population_: 40.5% of total population (2023)<br>
 _rate of urbanization_: 2.88% annual rate of change (2020-25 est.)<br>
 
 **Revenue from forest resources**<br>
-_forest revenues_: 0.08% of GDP (2018 est.)<br>
+0.08% of GDP (2018 est.)<br>
 
 **Revenue from coal**<br>
-_coal revenues_: 0.02% of GDP (2018 est.)<br>
+0.02% of GDP (2018 est.)<br>
 
 **Major infectious diseases**<br>
 _degree of risk_: high (2020)<br>
@@ -291,7 +291,7 @@ _animal contact diseases_: rabies<br>
 <strong>note:</strong> widespread ongoing transmission of a respiratory illness caused by the novel coronavirus (COVID-19) is occurring throughout Bangladesh; as of 9 December 2022, Bangladesh has reported a total of 2,036,760 cases of COVID-19 or 1,236.7 cumulative cases of COVID-19 per 100,000 population with a total of 29,436 cumulative deaths or a rate of 17.8 cumulative deaths per 100,000 population; as of 6 December 2022, 87.12% of the population has received at least one dose of COVID-19 vaccine<br>
 
 **Food insecurity**<br>
-_severe localized food insecurity_: <em>due to economic constraints -</em>  losses in income and remittances caused by the COVID‑19 pandemic and its containment measures led to an increase in poverty; in 2022, food insecurity is expected to increase and remain at high levels due to the impact of recent shocks, including floods that occurred in mid‑May 2022 in the northeastern parts of the country and the elevated international prices of energy, fuel and food, which have been transmitted to the domestic markets (2022)<br>
+_severe localized food insecurity_: <em>due to economic constraints and high prices of important food items -</em>  food insecurity is expected to remain fragile, given persisting economic constraints; domestic prices of wheat flour and palm oil, important food items, were at high levels in January 2023; the result of elevated international prices of energy, fuel and food, having been transmitted to the domestic markets (2023)<br>
 
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 14,778,497 tons (2012 est.)<br>
@@ -755,7 +755,7 @@ Harakat ul-Jihad-i-Islami/Bangladesh; Islamic State of Iraq and ash-Sham in Bang
 <p><em>Bangladesh-Burma:</em> Burmese border authorities are constructing a 200 km (124 mi) wire fence designed to deter illegal cross-border transit and tensions from the military build-up along border.<br><br><em>Bangladesh-India:</em> Bangladesh referred its maritime boundary claims with Burma and India to the International Tribunal on the Law of the Sea; Indian Prime Minister Singh's September 2011 visit to Bangladesh resulted in the signing of a Protocol to the 1974 Land Boundary Agreement between India and Bangladesh, which had called for the settlement of longstanding boundary disputes over un-demarcated areas and the exchange of territorial enclaves, but which had never been implemented.</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 950,972 (Burma) (2022)<br>
+_refugees (country of origin)_: 957,951 (Burma) (2023)<br>
 _IDPs_: 427,000 (conflict, development, human rights violations, religious persecution, natural disasters) (2021)<br>
 _stateless persons_: 929,606 (2022)<br>
 

@@ -267,10 +267,10 @@ _urban population_: 54.7% of total population (2023)<br>
 _rate of urbanization_: -0.15% annual rate of change (2020-25 est.)<br>
 
 **Revenue from forest resources**<br>
-_forest revenues_: 0.16% of GDP (2018 est.)<br>
+0.16% of GDP (2018 est.)<br>
 
 **Revenue from coal**<br>
-_coal revenues_: 0.03% of GDP (2018 est.)<br>
+0.03% of GDP (2018 est.)<br>
 
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 4.895 million tons (2015 est.)<br>
@@ -724,7 +724,7 @@ Islamic State of Iraq and ash-Sham (ISIS)<br>
 <p><em>Romania-Bulgaria</em>: none identified</p> <p><em>Romania-Hungary</em>: none identified</p> <p><em>Romania-Moldova</em>: none identified</p> <p><em>Romania-Serbia</em>: none identified</p> <p><em>Romania-Ukraine</em>: the International Court of Justice ruled largely in favor of Romania in its dispute submitted in 2004 over Ukrainian-administered Zmiyinyy/Serpilor (Snake) Island and Black Sea maritime boundary delimitation; in 2007, Romania opposed Ukraine's construction of a navigation canal from the Danube border through Ukraine to the Black Sea, arguing that it runs through a unique ecological area, the Danube Delta</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 112,575 (Ukraine) (as of 26 February 2023)<br>
+_refugees (country of origin)_: 110,921 (Ukraine) (as of 5 March 2023)<br>
 _stateless persons_: 297 (2022)<br>
 <strong>note:</strong> 12,367 estimated refugee and migrant arrivals (January 2015-February 2023)<br>
 

@@ -272,10 +272,10 @@ _urban population_: 60.2% of total population (2023)<br>
 _rate of urbanization_: -0.16% annual rate of change (2020-25 est.)<br>
 
 **Revenue from forest resources**<br>
-_forest revenues_: 0.17% of GDP (2018 est.)<br>
+0.17% of GDP (2018 est.)<br>
 
 **Revenue from coal**<br>
-_coal revenues_: 0.27% of GDP (2018 est.)<br>
+0.27% of GDP (2018 est.)<br>
 
 **Major infectious diseases**<br>
 _degree of risk_: intermediate (2016)<br>
@@ -747,7 +747,7 @@ Islamic State of Iraq and ash-Sham (ISIS)<br>
 <p><em>Poland-Belarus-Ukraine</em>: as a member state that forms part of the EU's external border, Poland has implemented the strict Schengen border rules to restrict illegal immigration and trade along its eastern borders with Belarus and Ukraine</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 1,563,386 (Ukraine) (as of 28 February 2023)<br>
+_refugees (country of origin)_: 1,564,711 (Ukraine) (as of 7 February 2023)<br>
 _stateless persons_: 1,435 (2022)<br>
 
 **Illicit drugs**<br>

@@ -270,10 +270,10 @@ _urban population_: 27.2% of total population (2023)<br>
 _rate of urbanization_: 1.01% annual rate of change (2020-25 est.)<br>
 
 **Revenue from forest resources**<br>
-_forest revenues_: 4.56% of GDP (2018 est.)<br>
+4.56% of GDP (2018 est.)<br>
 
 **Revenue from coal**<br>
-_coal revenues_: 0% of GDP (2018 est.)<br>
+0% of GDP (2018 est.)<br>
 
 **Major infectious diseases**<br>
 _degree of risk_: very high (2020)<br>
@@ -289,9 +289,9 @@ _percent of municipal solid waste recycled_: 0.5% (2010 est.)<br>
 Atlantic Ocean drainage: Amazon (6,145,186 sq km), Orinoco (953,675 sq km)<br>
 
 **Total water withdrawal**<br>
-_municipal_: 61.3 million cubic meters (2017 est.)<br>
-_industrial_: 20.4 million cubic meters (2017 est.)<br>
-_agricultural_: 1.363 billion cubic meters (2017 est.)<br>
+_municipal_: 60 million cubic meters (2019 est.)<br>
+_industrial_: 20 million cubic meters (2019 est.)<br>
+_agricultural_: 1.36 billion cubic meters (2019 est.)<br>
 
 **Total renewable water resources**<br>
 271 billion cubic meters (2019 est.)<br>

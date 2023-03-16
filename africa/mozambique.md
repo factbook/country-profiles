@@ -278,10 +278,10 @@ _urban population_: 38.8% of total population (2023)<br>
 _rate of urbanization_: 4.24% annual rate of change (2020-25 est.)<br>
 
 **Revenue from forest resources**<br>
-_forest revenues_: 6.46% of GDP (2018 est.)<br>
+6.46% of GDP (2018 est.)<br>
 
 **Revenue from coal**<br>
-_coal revenues_: 4.17% of GDP (2018 est.)<br>
+4.17% of GDP (2018 est.)<br>
 
 **Major infectious diseases**<br>
 _degree of risk_: very high (2020)<br>
@@ -732,7 +732,7 @@ the FADM's inventory consists primarily of Soviet-era equipment, although in rec
 registration for military service is mandatory for all men and women at 18 years of age; 18-35 years of age for selective compulsory military service; 18 years of age for voluntary service for men and women; 2-year service obligation (2021)<br>
 
 **Military - note**<br>
-the FADM is responsible for external security, cooperating with police on internal security, and responding to natural disasters and other emergencies; the current primary focus of the FADM is countering an insurgency driven by militants with ties to the Islamic State of Iraq and ash-Sham (ISIS) terrorist group in the northern province of Cabo Delgado, an area known for rich liquid natural gas deposits; insurgent attacks in the province began in 2017 and the fighting has left over 4,000 estimated dead and approximately 1 million displaced; the FADM is widely assessed as lacking the training, equipment, and overall capabilities to address the insurgency; as of 2022, several countries from the Southern Africa Development Community (SADC) and the EU, as well as Rwanda and the US were providing various forms of military assistance; the SADC countries and Zambia have sent more than 3,000 military and security personnel, while the EU and the US have provided training assistance; the counterterrorism efforts of the Mozambique and allied African military and security forces have seen some success against the militants, but as of 2022 terrorist attacks had expanded into the neighboring provinces of Niassa and Nampula (2023)<br>
+the FADM is responsible for external security, cooperating with police on internal security, and responding to natural disasters and other emergencies; the current primary focus of the FADM is countering an insurgency driven by militants with ties to the Islamic State of Iraq and ash-Sham (ISIS) terrorist group in the northern province of Cabo Delgado, an area known for rich liquid natural gas deposits; insurgent attacks in the province began in 2017 and the fighting has left over 4,000 estimated dead and approximately 1 million displaced; the FADM is widely assessed as lacking the training, equipment, and overall capabilities to address the insurgency; several countries from the Southern Africa Development Community (SADC) and the EU, as well as Rwanda and the US are providing various forms of military assistance; the SADC countries and Zambia have sent more than 3,000 military and security personnel, while the EU and the US have provided training assistance (2023)<br>
 
 ## Terrorism
 

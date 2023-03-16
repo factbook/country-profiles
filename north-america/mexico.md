@@ -285,10 +285,10 @@ _urban population_: 81.6% of total population (2023)<br>
 _rate of urbanization_: 1.4% annual rate of change (2020-25 est.)<br>
 
 **Revenue from forest resources**<br>
-_forest revenues_: 0.1% of GDP (2018 est.)<br>
+0.1% of GDP (2018 est.)<br>
 
 **Revenue from coal**<br>
-_coal revenues_: 0.03% of GDP (2018 est.)<br>
+0.03% of GDP (2018 est.)<br>
 
 **Major infectious diseases**<br>
 _degree of risk_: intermediate (2020)<br>
@@ -420,7 +420,7 @@ three equal vertical bands of green (hoist side), white, and red; Mexico's coat 
 <strong>note:</strong> similar to the flag of Italy, which is shorter, uses lighter shades of green and red, and does not display anything in its white band<br>
 
 **National symbol(s)**<br>
-golden eagle; national colors: green, white, red<br>
+golden eagle, dahlia; national colors: green, white, red<br>
 
 **National anthem**<br>
 _name_: "Himno Nacional Mexicano" (National Anthem of Mexico)<br>
